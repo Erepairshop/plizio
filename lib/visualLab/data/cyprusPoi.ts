@@ -54,7 +54,1636 @@ export const cyprusCountry: POI = {
 
 export const cyprusRegions: POI[] = [
   {
-    id: "cy-nicosia", "sights": {"de": [{"name": "Moyseio Istorikis Motosikletas Kyproy", "text": "Ein Museum in Nikosia, das klassische Motorräder zeigt.", "category": "museum", "coords": [33.358387, 35.172869]}, {"name": "Lefkoşa Mevlevihanesi", "text": "Ein Museum in Nikosia in einem ehemaligen Derwisch-Kloster.", "category": "museum", "coords": [33.361892, 35.180809]}, {"name": "Archontiko Chatzigeorgaki Kornesioy", "text": "Ein historisches Herrenhaus aus dem 18. Jahrhundert und Museum in Nikosia.", "category": "museum", "coords": [33.366766, 35.171871]}, {"name": "Derviş Paşa Konağı", "text": "Ein historisches Herrenhaus in Nikosia, das osmanische Architektur repräsentiert.", "category": "museum", "coords": [33.358505, 35.176372]}, {"name": "A.G Leventis Gallery", "text": "Eine Kunstgalerie in Nikosia mit europäischen und zyprischen Werken.", "category": "museum", "coords": [33.358391, 35.169311]}, {"name": "Mnimeio Eleytherias", "text": "Ein Denkmal in Nikosia, das den Kampf um die Freiheit symbolisiert.", "category": "historical", "coords": [33.370303, 35.171546]}, {"name": "Dimotiko Theatro Leykosias", "text": "Das städtische Theater für darstellende Künste in Nikosia.", "category": "cultural", "coords": [33.35507, 35.172637]}, {"name": "Selimiye-Moschee", "text": "Eine bedeutende Moschee in Nikosia, die ursprünglich als gotische Kathedrale errichtet wurde.", "category": "religious", "coords": [33.364546, 35.176515]}, {"name": "Johanneskirche", "text": "Die orthodoxe Johannes-Kathedrale in Nikosia.", "category": "religious", "coords": [33.367917, 35.173301]}, {"name": "Sarayönü Camii", "text": "Eine historische Moschee am Sarayönü-Platz in Nikosia.", "category": "religious", "coords": [33.360572, 35.177729]}, {"name": "Haydarpaşa Camii", "text": "Eine Kirche aus dem 14. Jahrhundert in Nikosia, heute bekannt als Haydar-Pascha-Moschee.", "category": "religious", "coords": [33.366062, 35.177476]}, {"name": "Akkavuk Masjid", "text": "Eine kleine historische Moschee oder Masdschid in Nikosia.", "category": "religious", "coords": [33.364498, 35.179865]}, {"name": "Tzami Mpairaktari", "text": "Eine Moschee in Nikosia, die an der Stelle einer venezianischen Bastion errichtet wurde.", "category": "religious", "coords": [33.365424, 35.169057]}, {"name": "Church of the Holy Cross", "text": "Eine katholische Kirche in Nikosia in der Nähe der Grünen Linie.", "category": "religious", "coords": [33.357419, 35.174328]}, {"name": "Yenicami", "text": "Eine Moschee in Nikosia, die auf den Ruinen einer Kirche aus dem 14. Jahrhundert errichtet wurde.", "category": "religious", "coords": [33.366237, 35.178598]}, {"name": "Büyük Hamam", "text": "Ein historisches traditionelles türkisches Bad in Nikosia.", "category": "landmark", "coords": [33.361678, 35.176765]}, {"name": "Belediye Pazarı", "text": "Ein traditioneller städtischer Markt in Nikosia.", "category": "landmark", "coords": [33.364634, 35.175412]}, {"name": "Çağlayan Parkı", "text": "Ein öffentlicher Park in Nikosia zur Erholung und Freizeitgestaltung.", "category": "park", "coords": [33.368092, 35.18095]}, {"name": "Laiki Geitonia", "text": "Ein traditionelles restauriertes Viertel in Nikosia mit Geschäften und Kunsthandwerk.", "category": "landmark", "coords": [33.362253, 35.169854]}, {"name": "Zypernmuseum", "text": "Das größte und älteste archäologische Museum Zyperns in Nikosia.", "category": "museum", "coords": [33.355753, 35.171733]}, {"name": "Dimotiko Kentro Technon Leykosias", "text": "Ein zeitgenössisches Kunstzentrum und Museum in Nikosia.", "category": "museum", "coords": [33.366724, 35.173929]}, {"name": "Moyseio Astynomias Kyproy", "text": "Ein Museum in Nikosia, das der Geschichte der zyprischen Polizei gewidmet ist.", "category": "museum", "coords": [33.374292, 35.144751]}, {"name": "Fylakismena Mnimata", "text": "Ein Denkmal und Friedhof in Nikosia für Kämpfer der EOKA-Bewegung.", "category": "historical", "coords": [33.343707, 35.180405]}, {"name": "Casteliotissa Medieval Hall", "text": "Eine mittelalterliche Halle in Nikosia für kulturelle Veranstaltungen und Ausstellungen.", "category": "cultural", "coords": [33.357433, 35.173411]}, {"name": "Panayia", "text": "Ein lokales Gotteshaus in Nikosia.", "category": "religious", "coords": [33.379584, 35.176132]}, {"name": "Ekklisia Faneromenis", "text": "Eine historische orthodoxe Kirche in Nikosia in der Nähe der Grünen Linie.", "category": "religious", "coords": [33.362508, 35.173481]}, {"name": "Sourp Asdvadzadzin", "text": "Eine historische armenische Kirche in Nikosia.", "category": "religious", "coords": [33.367166, 35.152416]}, {"name": "Agios Antonios", "text": "Eine griechisch-orthodoxe Kirche in Nikosia.", "category": "religious", "coords": [33.367897, 35.171692]}, {"name": "Chyisaliniotissa Church", "text": "Eine alte orthodoxe Kirche in Nikosia, bekannt für ihre byzantinischen Ikonen.", "category": "religious", "coords": [33.369689, 35.176274]}, {"name": "Archaggelos Michail Trypiotis", "text": "Eine historische orthodoxe Kirche in Nikosia mit feinen Holzschnitzereien.", "category": "religious", "coords": [33.362623, 35.171312]}, {"name": "Dimotikos Kipos Leykosias", "text": "Ein öffentlicher Stadtgarten in Nikosia, der Ruhe und Entspannung im Grünen bietet.", "category": "park", "coords": [33.353981, 35.17292]}, {"name": "National Art Gallery", "text": "Die Nationalgalerie in Nikosia präsentiert bedeutende Kunstwerke des Landes.", "category": "museum", "coords": [33.365661, 35.167944]}, {"name": "Shacolas Tower Museum & Observatory", "text": "Ein Museum und Aussichtspunkt in Nikosia mit Panoramablick über die geteilte Stadt.", "category": "museum", "coords": [33.361525, 35.171852]}, {"name": "Ypaithrio Moyseio Neroy", "text": "Ein Freilichtmuseum in Nikosia, das sich mit der Geschichte der Wasserversorgung befasst.", "category": "museum", "coords": [33.357653, 35.146021]}, {"name": "The National Struggle Museum", "text": "Ein Museum in Nikosia, das den Unabhängigkeitskampf Zyperns dokumentiert.", "category": "museum", "coords": [33.363595, 35.182054]}, {"name": "RIK Radio Museum", "text": "Ein Museum in Nikosia, das die Geschichte des zyprischen Rundfunks präsentiert.", "category": "museum", "coords": [33.381935, 35.145386]}, {"name": "Kentro Kypriakis Cheirotechnias", "text": "Ein Zentrum in Nikosia, das traditionelles zyprisches Kunsthandwerk fördert und ausstellt.", "category": "museum", "coords": [33.373207, 35.140212]}, {"name": "Zampelas Art Museum", "text": "Ein Kunstmuseum in Nikosia, das moderne und zeitgenössische Werke ausstellt.", "category": "museum", "coords": [33.377533, 35.181891]}, {"name": "Kratiki Pinakothiki Sygchronis Technis - SPEL", "text": "Eine staatliche Galerie in Nikosia für zeitgenössische Kunst in einem historischen Gebäude.", "category": "museum", "coords": [33.370733, 35.174718]}, {"name": "Agios Georgios", "text": "Ein See in Nikosia, der sich für entspannte Spaziergänge und zum Genießen der Landschaft eignet.", "category": "natural", "coords": [33.401273, 35.142867]}, {"name": "Limni toy Magli", "text": "Dieser See in Nikosia bietet einen ruhigen Ort zur Naturbeobachtung.", "category": "natural", "coords": [33.308401, 35.127047]}, {"name": "Limni Athalassas", "text": "Ein lokaler See in Nikosia, ideal für friedliche Spaziergänge und frische Luft.", "category": "natural", "coords": [33.387377, 35.127679]}, {"name": "Hamitköy Göleti", "text": "Ein Seegebiet in Nikosia, das eine natürliche Flucht aus der Stadt bietet.", "category": "natural", "coords": [33.362891, 35.238413]}, {"name": "Zembilas Park", "text": "Ein öffentlicher Spielplatz in Nikosia, auf dem Kinder in einer sicheren Umgebung spielen können.", "category": "family", "coords": [33.34221, 35.156117]}, {"name": "Tempelodentro", "text": "Ein Spielplatz in Nikosia, der Erholung für Familien und Kinder bietet.", "category": "family", "coords": [33.385714, 35.153162]}, {"name": "Kumsal Park", "text": "Dieser Park in Nikosia verfügt über einen Spielplatz für lokale Familien.", "category": "family", "coords": [33.354166, 35.186739]}, {"name": "Heraclis Playground", "text": "Ein ausgewiesener Spielbereich in Nikosia, in dem Kinder verschiedene Aktivitäten genießen können.", "category": "family", "coords": [33.361061, 35.173515]}, {"name": "Cocuk Oyun Alani", "text": "Ein lokaler Spielplatz in Nikosia, der Kindern Spaß im Freien bietet.", "category": "family", "coords": [33.360571, 35.180598]}, {"name": "Bubble", "text": "Ein Spielplatz in Nikosia, der Kindern einen unterhaltsamen Raum zum Interagieren bietet.", "category": "family", "coords": [33.335295, 35.166844]}, {"name": "Hamam Omerye", "text": "Ein traditionelles Hamam in Nikosia, das Einblicke in die orientalische Badekultur bietet.", "category": "family", "coords": [33.365357, 35.172563]}], "hu": [{"name": "Moyseio Istorikis Motosikletas Kyproy", "text": "Klasszikus motorkerékpárokat bemutató múzeum Nikosiában.", "category": "museum", "coords": [33.358387, 35.172869]}, {"name": "Lefkoşa Mevlevihanesi", "text": "Múzeum Nikosiában egy egykori dervis kolostorban.", "category": "museum", "coords": [33.361892, 35.180809]}, {"name": "Archontiko Chatzigeorgaki Kornesioy", "text": "18. századi történelmi kastély és múzeum Nikosiában.", "category": "museum", "coords": [33.366766, 35.171871]}, {"name": "Derviş Paşa Konağı", "text": "Oszmán építészetet képviselő történelmi kúria Nikosiában.", "category": "museum", "coords": [33.358505, 35.176372]}, {"name": "A.G Leventis Gallery", "text": "Művészeti galéria Nikosiában európai és ciprusi művekkel.", "category": "museum", "coords": [33.358391, 35.169311]}, {"name": "Mnimeio Eleytherias", "text": "A szabadságharcot jelképező emlékmű Nikosiában.", "category": "historical", "coords": [33.370303, 35.171546]}, {"name": "Dimotiko Theatro Leykosias", "text": "Nikosia városi színháza az előadóművészetek számára.", "category": "cultural", "coords": [33.35507, 35.172637]}, {"name": "Selimiye Camii", "text": "Nikosia egyik jelentős mecsete, amely eredetileg gótikus székesegyháznak épült.", "category": "religious", "coords": [33.364546, 35.176515]}, {"name": "Agios Ioannis", "text": "Szent János ortodox székesegyház Nikosiában.", "category": "religious", "coords": [33.367917, 35.173301]}, {"name": "Sarayönü Camii", "text": "Történelmi mecset a nikosiai Sarayönü téren.", "category": "religious", "coords": [33.360572, 35.177729]}, {"name": "Haydarpaşa Camii", "text": "14. századi templom Nikosiában, ma Haydarpaşa mecset néven ismert.", "category": "religious", "coords": [33.366062, 35.177476]}, {"name": "Akkavuk Masjid", "text": "Kisméretű történelmi mecset vagy imaház Nikosiában.", "category": "religious", "coords": [33.364498, 35.179865]}, {"name": "Tzami Mpairaktari", "text": "Egy velencei bástya helyén épült mecset Nikosiában.", "category": "religious", "coords": [33.365424, 35.169057]}, {"name": "Church of the Holy Cross", "text": "Katolikus templom Nikosiában, a zöld vonal közelében.", "category": "religious", "coords": [33.357419, 35.174328]}, {"name": "Yenicami", "text": "14. századi templom romjaira épült mecset Nikosiában.", "category": "religious", "coords": [33.366237, 35.178598]}, {"name": "Büyük Hamam", "text": "Történelmi, hagyományos törökfürdő Nikosiában.", "category": "landmark", "coords": [33.361678, 35.176765]}, {"name": "Belediye Pazarı", "text": "Hagyományos városi piac Nikosiában.", "category": "landmark", "coords": [33.364634, 35.175412]}, {"name": "Çağlayan Parkı", "text": "Nyilvános park Nikosiában kikapcsolódásra és pihenésre.", "category": "park", "coords": [33.368092, 35.18095]}, {"name": "Laiki Geitonia", "text": "Hagyományos, felújított negyed Nikosiában üzletekkel és kézműves termékekkel.", "category": "landmark", "coords": [33.362253, 35.169854]}, {"name": "Kypriako Moyseio", "text": "Ciprus legnagyobb és legrégebbi régészeti múzeuma Nikosiában.", "category": "museum", "coords": [33.355753, 35.171733]}, {"name": "Dimotiko Kentro Technon Leykosias", "text": "Kortárs művészeti központ és múzeum Nikosiában.", "category": "museum", "coords": [33.366724, 35.173929]}, {"name": "Moyseio Astynomias Kyproy", "text": "A ciprusi rendőrség történetének szentelt múzeum Nikosiában.", "category": "museum", "coords": [33.374292, 35.144751]}, {"name": "Fylakismena Mnimata", "text": "Emlékmű és temető Nikosiában az EOKA-mozgalom harcosai számára.", "category": "historical", "coords": [33.343707, 35.180405]}, {"name": "Casteliotissa Medieval Hall", "text": "Középkori csarnok Nikosiában kulturális események és kiállítások számára.", "category": "cultural", "coords": [33.357433, 35.173411]}, {"name": "Panayia", "text": "Helyi istentiszteleti hely Nikosiában.", "category": "religious", "coords": [33.379584, 35.176132]}, {"name": "Ekklisia Faneromenis", "text": "Történelmi ortodox templom Nikosiában, a zöld vonal közelében.", "category": "religious", "coords": [33.362508, 35.173481]}, {"name": "Sourp Asdvadzadzin", "text": "Történelmi örmény templom Nikosiában.", "category": "religious", "coords": [33.367166, 35.152416]}, {"name": "Agios Antonios", "text": "Görög ortodox templom Nikosiában.", "category": "religious", "coords": [33.367897, 35.171692]}, {"name": "Chyisaliniotissa Church", "text": "Régi ortodox templom Nikosiában, amely bizánci ikonjairól ismert.", "category": "religious", "coords": [33.369689, 35.176274]}, {"name": "Archaggelos Michail Trypiotis", "text": "Történelmi ortodox templom Nikosiában finom fafaragványokkal.", "category": "religious", "coords": [33.362623, 35.171312]}, {"name": "Dimotikos Kipos Leykosias", "text": "Nikosia városi kertje, amely nyugodt zöld környezetet kínál a kikapcsolódáshoz.", "category": "park", "coords": [33.353981, 35.17292]}, {"name": "National Art Gallery", "text": "A nikosiai Nemzeti Galéria az ország jelentős műalkotásait mutatja be.", "category": "museum", "coords": [33.365661, 35.167944]}, {"name": "Shacolas Observatory", "text": "Múzeum és kilátó Nikosiában, ahonnan panorámás kilátás nyílik a kettéosztott városra.", "category": "museum", "coords": [33.361525, 35.171852]}, {"name": "Ypaithrio Moyseio Neroy", "text": "A vízellátás történetével foglalkozó szabadtéri múzeum Nikosiában.", "category": "museum", "coords": [33.357653, 35.146021]}, {"name": "The National Struggle Museum", "text": "Ciprus függetlenségi harcát dokumentáló múzeum Nikosiában.", "category": "museum", "coords": [33.363595, 35.182054]}, {"name": "RIK Radio Museum", "text": "A ciprusi rádiózás történetét bemutató múzeum Nikosiában.", "category": "museum", "coords": [33.381935, 35.145386]}, {"name": "Kentro Kypriakis Cheirotechnias", "text": "A hagyományos ciprusi kézművességet népszerűsítő és bemutató központ Nikosiában.", "category": "museum", "coords": [33.373207, 35.140212]}, {"name": "Zampelas Art Museum", "text": "Modern és kortárs műveket bemutató művészeti múzeum Nikosiában.", "category": "museum", "coords": [33.377533, 35.181891]}, {"name": "Kratiki Pinakothiki Sygchronis Technis - SPEL", "text": "Nikosia kortárs művészeti állami galériája egy történelmi épületben.", "category": "museum", "coords": [33.370733, 35.174718]}, {"name": "Agios Georgios", "text": "Tó Nicosiában, amely alkalmas pihentető sétákra és a táj élvezetére.", "category": "natural", "coords": [33.401273, 35.142867]}, {"name": "Limni toy Magli", "text": "Ez a Nicosia-i tó csendes helyet kínál a természet megfigyelésére.", "category": "natural", "coords": [33.308401, 35.127047]}, {"name": "Limni Athalassas", "text": "Helyi tó Nicosiában, amely ideális a nyugodt sétákhoz és a friss levegőhöz.", "category": "natural", "coords": [33.387377, 35.127679]}, {"name": "Hamitköy Göleti", "text": "Tóvidék Nicosiában, amely természetes kikapcsolódást nyújt a várostól távol.", "category": "natural", "coords": [33.362891, 35.238413]}, {"name": "Zembilas Park", "text": "Nyilvános játszótér Nicosiában, ahol a gyerekek biztonságos környezetben játszhatnak.", "category": "family", "coords": [33.34221, 35.156117]}, {"name": "Tempelodentro", "text": "Játszótér Nicosiában, amely kikapcsolódást nyújt a családok és a gyermekek számára.", "category": "family", "coords": [33.385714, 35.153162]}, {"name": "Kumsal Park", "text": "Ebben a Nicosia-i parkban játszótér várja a helyi családokat.", "category": "family", "coords": [33.354166, 35.186739]}, {"name": "Heraclis Playground", "text": "Kijelölt játszóterület Nicosiában, ahol a gyerekek különféle tevékenységeket élvezhetnek.", "category": "family", "coords": [33.361061, 35.173515]}, {"name": "Cocuk Oyun Alani", "text": "Helyi játszótér Nicosiában, amely szabadtéri szórakozást kínál a gyerekeknek.", "category": "family", "coords": [33.360571, 35.180598]}, {"name": "Bubble", "text": "Játszótér Nicosiában, amely szórakoztató teret biztosít a gyerekeknek a közös játékhoz.", "category": "family", "coords": [33.335295, 35.166844]}, {"name": "Hamam Omerye", "text": "Hagyományos hamam Nicosiában, amely az orientális fürdőkultúra élményét kínálja.", "category": "family", "coords": [33.365357, 35.172563]}], "ro": [{"name": "Moyseio Istorikis Motosikletas Kyproy", "text": "Un muzeu din Nikosia care expune motociclete clasice.", "category": "museum", "coords": [33.358387, 35.172869]}, {"name": "Lefkoşa Mevlevihanesi", "text": "Un muzeu din Nikosia situat într-o fostă mănăstire de derviși.", "category": "museum", "coords": [33.361892, 35.180809]}, {"name": "Archontiko Chatzigeorgaki Kornesioy", "text": "Un conac istoric din secolul al XVIII-lea și muzeu din Nikosia.", "category": "museum", "coords": [33.366766, 35.171871]}, {"name": "Derviş Paşa Konağı", "text": "Un conac istoric din Nikosia, reprezentativ pentru arhitectura otomană.", "category": "museum", "coords": [33.358505, 35.176372]}, {"name": "A.G Leventis Gallery", "text": "O galerie de artă din Nikosia cu lucrări europene și cipriote.", "category": "museum", "coords": [33.358391, 35.169311]}, {"name": "Mnimeio Eleytherias", "text": "Un monument din Nikosia care simbolizează lupta pentru libertate.", "category": "historical", "coords": [33.370303, 35.171546]}, {"name": "Dimotiko Theatro Leykosias", "text": "Teatrul municipal pentru arte spectacolului din Nikosia.", "category": "cultural", "coords": [33.35507, 35.172637]}, {"name": "Selimiye Camii", "text": "O moschee importantă din Nikosia, construită inițial ca o catedrală gotică.", "category": "religious", "coords": [33.364546, 35.176515]}, {"name": "Agios Ioannis", "text": "Catedrala ortodoxă Sfântul Ioan din Nikosia.", "category": "religious", "coords": [33.367917, 35.173301]}, {"name": "Sarayönü Camii", "text": "O moschee istorică situată în Piața Sarayönü din Nikosia.", "category": "religious", "coords": [33.360572, 35.177729]}, {"name": "Haydarpaşa Camii", "text": "O biserică din secolul al XIV-lea din Nikosia, cunoscută astăzi sub numele de Moscheea Haydarpașa.", "category": "religious", "coords": [33.366062, 35.177476]}, {"name": "Akkavuk Masjid", "text": "O mică moschee istorică sau masjid în Nikosia.", "category": "religious", "coords": [33.364498, 35.179865]}, {"name": "Tzami Mpairaktari", "text": "O moschee din Nikosia construită pe locul unui bastion venețian.", "category": "religious", "coords": [33.365424, 35.169057]}, {"name": "Church of the Holy Cross", "text": "O biserică catolică din Nikosia situată lângă Linia Verde.", "category": "religious", "coords": [33.357419, 35.174328]}, {"name": "Yenicami", "text": "O moschee din Nikosia construită pe ruinele unei biserici din secolul al XIV-lea.", "category": "religious", "coords": [33.366237, 35.178598]}, {"name": "Büyük Hamam", "text": "O baie turcească tradițională istorică din Nikosia.", "category": "landmark", "coords": [33.361678, 35.176765]}, {"name": "Belediye Pazarı", "text": "O piață municipală tradițională din Nikosia.", "category": "landmark", "coords": [33.364634, 35.175412]}, {"name": "Çağlayan Parkı", "text": "Un parc public din Nikosia pentru recreere și petrecerea timpului liber.", "category": "park", "coords": [33.368092, 35.18095]}, {"name": "Laiki Geitonia", "text": "Un cartier tradițional restaurat din Nikosia, cu magazine și meșteșuguri.", "category": "landmark", "coords": [33.362253, 35.169854]}, {"name": "Kypriako Moyseio", "text": "Cel mai mare și mai vechi muzeu arheologic din Cipru, situat în Nikosia.", "category": "museum", "coords": [33.355753, 35.171733]}, {"name": "Dimotiko Kentro Technon Leykosias", "text": "Un centru de artă contemporană și muzeu din Nikosia.", "category": "museum", "coords": [33.366724, 35.173929]}, {"name": "Moyseio Astynomias Kyproy", "text": "Un muzeu din Nikosia dedicat istoriei poliției din Cipru.", "category": "museum", "coords": [33.374292, 35.144751]}, {"name": "Fylakismena Mnimata", "text": "Un monument și cimitir din Nikosia pentru luptătorii mișcării EOKA.", "category": "historical", "coords": [33.343707, 35.180405]}, {"name": "Casteliotissa Medieval Hall", "text": "O sală medievală din Nikosia utilizată pentru evenimente culturale și expoziții.", "category": "cultural", "coords": [33.357433, 35.173411]}, {"name": "Panayia", "text": "Un lăcaș de cult local din Nikosia.", "category": "religious", "coords": [33.379584, 35.176132]}, {"name": "Ekklisia Faneromenis", "text": "O biserică ortodoxă istorică din Nikosia situată lângă Linia Verde.", "category": "religious", "coords": [33.362508, 35.173481]}, {"name": "Biserica armeană „Sourp Asdvadzadzin” Nicosia", "text": "O biserică armeană istorică din Nikosia.", "category": "religious", "coords": [33.367166, 35.152416]}, {"name": "Agios Antonios", "text": "O biserică ortodoxă greacă din Nikosia.", "category": "religious", "coords": [33.367897, 35.171692]}, {"name": "Chyisaliniotissa Church", "text": "O veche biserică ortodoxă din Nikosia, cunoscută pentru icoanele sale bizantine.", "category": "religious", "coords": [33.369689, 35.176274]}, {"name": "Archaggelos Michail Trypiotis", "text": "O biserică ortodoxă istorică din Nikosia, cu sculpturi fine în lemn.", "category": "religious", "coords": [33.362623, 35.171312]}, {"name": "Dimotikos Kipos Leykosias", "text": "O grădină publică din Nicosia, care oferă un spațiu verde liniștit pentru relaxare.", "category": "park", "coords": [33.353981, 35.17292]}, {"name": "National Art Gallery", "text": "Galeria Națională din Nicosia prezintă opere de artă semnificative ale țării.", "category": "museum", "coords": [33.365661, 35.167944]}, {"name": "Shacolas Observatory", "text": "Un muzeu și punct de observare din Nicosia, oferind o vedere panoramică asupra orașului divizat.", "category": "museum", "coords": [33.361525, 35.171852]}, {"name": "Ypaithrio Moyseio Neroy", "text": "Un muzeu al apei în aer liber din Nicosia, axat pe istoria alimentării cu apă.", "category": "museum", "coords": [33.357653, 35.146021]}, {"name": "The National Struggle Museum", "text": "Un muzeu din Nicosia care documentează lupta pentru independență a Ciprului.", "category": "museum", "coords": [33.363595, 35.182054]}, {"name": "RIK Radio Museum", "text": "Un muzeu din Nicosia care prezintă istoria radiodifuziunii cipriote.", "category": "museum", "coords": [33.381935, 35.145386]}, {"name": "Kentro Kypriakis Cheirotechnias", "text": "Un centru din Nicosia care promovează și expune meșteșugurile tradiționale cipriote.", "category": "museum", "coords": [33.373207, 35.140212]}, {"name": "Zampelas Art Museum", "text": "Un muzeu de artă din Nicosia care expune lucrări moderne și contemporane.", "category": "museum", "coords": [33.377533, 35.181891]}, {"name": "Kratiki Pinakothiki Sygchronis Technis - SPEL", "text": "O galerie de stat din Nicosia pentru artă contemporană, situată într-o clădire istorică.", "category": "museum", "coords": [33.370733, 35.174718]}, {"name": "Agios Georgios", "text": "Un lac în Nicosia, potrivit pentru plimbări relaxante și admirarea peisajului.", "category": "natural", "coords": [33.401273, 35.142867]}, {"name": "Limni toy Magli", "text": "Acest lac din Nicosia oferă un loc liniștit pentru observarea naturii.", "category": "natural", "coords": [33.308401, 35.127047]}, {"name": "Limni Athalassas", "text": "Un lac local în Nicosia, ideal pentru plimbări liniștite și aer curat.", "category": "natural", "coords": [33.387377, 35.127679]}, {"name": "Hamitköy Göleti", "text": "O zonă lacustră în Nicosia care oferă o evadare naturală din oraș.", "category": "natural", "coords": [33.362891, 35.238413]}, {"name": "Zembilas Park", "text": "Un loc de joacă public în Nicosia pentru ca cei mici să se joace într-un mediu sigur.", "category": "family", "coords": [33.34221, 35.156117]}, {"name": "Tempelodentro", "text": "Un loc de joacă în Nicosia care oferă recreere pentru familii și copii.", "category": "family", "coords": [33.385714, 35.153162]}, {"name": "Kumsal Park", "text": "Acest parc din Nicosia dispune de un loc de joacă pentru familiile locale.", "category": "family", "coords": [33.354166, 35.186739]}, {"name": "Heraclis Playground", "text": "O zonă de joacă special amenajată în Nicosia, unde copiii se pot bucura de diverse activități.", "category": "family", "coords": [33.361061, 35.173515]}, {"name": "Cocuk Oyun Alani", "text": "Un loc de joacă local în Nicosia care oferă distracție în aer liber pentru copii.", "category": "family", "coords": [33.360571, 35.180598]}, {"name": "Bubble", "text": "Un loc de joacă în Nicosia care oferă un spațiu distractiv pentru interacțiunea copiilor.", "category": "family", "coords": [33.335295, 35.166844]}, {"name": "Hamam Omerye", "text": "Un hamam tradițional în Nicosia, oferind o experiență autentică de relaxare orientală.", "category": "family", "coords": [33.365357, 35.172563]}], "en": [{"name": "Cyprus Classic Motorcycle Museum", "text": "A museum in Nicosia showcasing classic motorcycles.", "category": "museum", "coords": [33.358387, 35.172869]}, {"name": "Mevleli Tekke Museum", "text": "A museum in Nicosia located in a former dervish lodge.", "category": "museum", "coords": [33.361892, 35.180809]}, {"name": "Hadjigeorgakis Kornesios Mansion", "text": "A historic 18th-century mansion and museum in Nicosia.", "category": "museum", "coords": [33.366766, 35.171871]}, {"name": "Dervish Pasha Mansion", "text": "A historic mansion in Nicosia representing Ottoman architecture.", "category": "museum", "coords": [33.358505, 35.176372]}, {"name": "A.G Leventis Gallery", "text": "An art gallery in Nicosia featuring European and Cypriot works.", "category": "museum", "coords": [33.358391, 35.169311]}, {"name": "Liberty Monument", "text": "A monument in Nicosia symbolizing the struggle for freedom.", "category": "historical", "coords": [33.370303, 35.171546]}, {"name": "Nicosia Municipal Theater", "text": "The main municipal theatre for performing arts in Nicosia.", "category": "cultural", "coords": [33.35507, 35.172637]}, {"name": "Selimiye Mosque", "text": "A major mosque in Nicosia, originally built as a Gothic cathedral.", "category": "religious", "coords": [33.364546, 35.176515]}, {"name": "Agios Ioannis", "text": "The Orthodox cathedral of St. John in Nicosia.", "category": "religious", "coords": [33.367917, 35.173301]}, {"name": "Sarayönü Camii", "text": "A historic mosque located in Sarayönü Square in Nicosia.", "category": "religious", "coords": [33.360572, 35.177729]}, {"name": "Church of St.Katerina (14 c.)", "text": "A 14th-century church in Nicosia, now known as the Haydarpaşa Mosque.", "category": "religious", "coords": [33.366062, 35.177476]}, {"name": "Akkavuk Masjid", "text": "A small historic mosque or masjid in Nicosia.", "category": "religious", "coords": [33.364498, 35.179865]}, {"name": "Bairaktar Mosque", "text": "A mosque in Nicosia built on the site of a Venetian bastion.", "category": "religious", "coords": [33.365424, 35.169057]}, {"name": "Church of the Holy Cross", "text": "A Catholic church in Nicosia located near the Green Line.", "category": "religious", "coords": [33.357419, 35.174328]}, {"name": "Yenicami", "text": "A mosque in Nicosia built on the ruins of a 14th-century church.", "category": "religious", "coords": [33.366237, 35.178598]}, {"name": "Büyük Hamam", "text": "A historic traditional Turkish bath in Nicosia.", "category": "landmark", "coords": [33.361678, 35.176765]}, {"name": "Municipal Market", "text": "A traditional municipal market in Nicosia.", "category": "landmark", "coords": [33.364634, 35.175412]}, {"name": "Çağlayan Parkı", "text": "A public park in Nicosia for recreation and leisure.", "category": "park", "coords": [33.368092, 35.18095]}, {"name": "Laiki Geitonia", "text": "A traditional restored neighborhood in Nicosia with shops and crafts.", "category": "landmark", "coords": [33.362253, 35.169854]}, {"name": "Cyprus Museum", "text": "The largest and oldest archaeological museum in Cyprus, located in Nicosia.", "category": "museum", "coords": [33.355753, 35.171733]}, {"name": "Nicosia Municipal Arts Centre", "text": "A contemporary arts centre and museum in Nicosia.", "category": "museum", "coords": [33.366724, 35.173929]}, {"name": "Cyprus Police Museum", "text": "A museum in Nicosia dedicated to the history of the Cyprus police.", "category": "museum", "coords": [33.374292, 35.144751]}, {"name": "The Imprisoned Graves", "text": "A monument and cemetery in Nicosia for fighters of the EOKA movement.", "category": "historical", "coords": [33.343707, 35.180405]}, {"name": "Casteliotissa Medieval Hall", "text": "A medieval hall in Nicosia used for cultural events and exhibitions.", "category": "cultural", "coords": [33.357433, 35.173411]}, {"name": "Panayia", "text": "A local place of worship in Nicosia.", "category": "religious", "coords": [33.379584, 35.176132]}, {"name": "Faneroumeni Church", "text": "A historic Orthodox church in Nicosia located near the Green Line.", "category": "religious", "coords": [33.362508, 35.173481]}, {"name": "Sourp Asdvadzadzin", "text": "A historic Armenian church in Nicosia.", "category": "religious", "coords": [33.367166, 35.152416]}, {"name": "Agios Antonios", "text": "A Greek Orthodox church in Nicosia.", "category": "religious", "coords": [33.367897, 35.171692]}, {"name": "Chyisaliniotissa Church", "text": "An old Orthodox church in Nicosia known for its Byzantine icons.", "category": "religious", "coords": [33.369689, 35.176274]}, {"name": "Archaggelos Michail Trypiotis", "text": "A historic Orthodox church in Nicosia featuring fine wood carvings.", "category": "religious", "coords": [33.362623, 35.171312]}, {"name": "Nicosia Municipal Gardens", "text": "A public municipal garden in Nicosia offering a peaceful green space for relaxation.", "category": "park", "coords": [33.353981, 35.17292]}, {"name": "National Art Gallery", "text": "The National Art Gallery in Nicosia showcases significant artworks of the country.", "category": "museum", "coords": [33.365661, 35.167944]}, {"name": "Shacolas Observatory", "text": "A museum and observatory in Nicosia providing panoramic views of the divided city.", "category": "museum", "coords": [33.361525, 35.171852]}, {"name": "Outdoor Water Museum", "text": "An outdoor water museum in Nicosia focusing on the history of water supply.", "category": "museum", "coords": [33.357653, 35.146021]}, {"name": "The National Struggle Museum", "text": "A museum in Nicosia documenting Cyprus's struggle for national independence.", "category": "museum", "coords": [33.363595, 35.182054]}, {"name": "RIK Radio Museum", "text": "A museum in Nicosia presenting the history of Cypriot radio broadcasting.", "category": "museum", "coords": [33.381935, 35.145386]}, {"name": "Cyprus Handicrafts Centre", "text": "A centre in Nicosia promoting and exhibiting traditional Cypriot handicrafts.", "category": "museum", "coords": [33.373207, 35.140212]}, {"name": "Zampelas Art Museum", "text": "An art museum in Nicosia exhibiting modern and contemporary works.", "category": "museum", "coords": [33.377533, 35.181891]}, {"name": "State Gallery of Contemporary Art - SPEL", "text": "A state gallery in Nicosia for contemporary art located in a historic building.", "category": "museum", "coords": [33.370733, 35.174718]}, {"name": "Agios Georgios", "text": "A lake in Nicosia suitable for relaxing walks and enjoying the scenery.", "category": "natural", "coords": [33.401273, 35.142867]}, {"name": "Maglee Lake", "text": "This lake in Nicosia provides a quiet spot for nature observation.", "category": "natural", "coords": [33.308401, 35.127047]}, {"name": "Athalassa Lake", "text": "A local lake in Nicosia ideal for peaceful strolls and fresh air.", "category": "natural", "coords": [33.387377, 35.127679]}, {"name": "Hamitköy Göleti", "text": "A lake area in Nicosia offering a natural escape from the city.", "category": "natural", "coords": [33.362891, 35.238413]}, {"name": "Zembilas Park", "text": "A public playground in Nicosia for children to play in a safe environment.", "category": "family", "coords": [33.34221, 35.156117]}, {"name": "Tempelodentro", "text": "A playground in Nicosia providing recreation for families and children.", "category": "family", "coords": [33.385714, 35.153162]}, {"name": "Kumsal Park", "text": "This park in Nicosia features a playground for local families.", "category": "family", "coords": [33.354166, 35.186739]}, {"name": "Heraclis Playground", "text": "A designated play area in Nicosia where children can enjoy various activities.", "category": "family", "coords": [33.361061, 35.173515]}, {"name": "Cocuk Oyun Alani", "text": "A local playground in Nicosia offering outdoor fun for kids.", "category": "family", "coords": [33.360571, 35.180598]}, {"name": "Bubble", "text": "A playground in Nicosia providing a fun space for children to interact.", "category": "family", "coords": [33.335295, 35.166844]}, {"name": "Hamam Omerye", "text": "A traditional hammam in Nicosia offering a glimpse into oriental bathing culture.", "category": "family", "coords": [33.365357, 35.172563]}]},
+    id: "cy-nicosia", "sights": {
+      "de": [
+            {
+                  "name": "Moyseio Istorikis Motosikletas Kyproy",
+                  "text": "Ein Museum in Nikosia, das klassische Motorräder zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        33.358387,
+                        35.172869
+                  ]
+            },
+            {
+                  "name": "Lefkoşa Mevlevihanesi",
+                  "text": "Ein Museum in Nikosia in einem ehemaligen Derwisch-Kloster.",
+                  "category": "museum",
+                  "coords": [
+                        33.361892,
+                        35.180809
+                  ]
+            },
+            {
+                  "name": "Archontiko Chatzigeorgaki Kornesioy",
+                  "text": "Ein historisches Herrenhaus aus dem 18. Jahrhundert und Museum in Nikosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.366766,
+                        35.171871
+                  ]
+            },
+            {
+                  "name": "Derviş Paşa Konağı",
+                  "text": "Ein historisches Herrenhaus in Nikosia, das osmanische Architektur repräsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        33.358505,
+                        35.176372
+                  ]
+            },
+            {
+                  "name": "A.G Leventis Gallery",
+                  "text": "Eine Kunstgalerie in Nikosia mit europäischen und zyprischen Werken.",
+                  "category": "museum",
+                  "coords": [
+                        33.358391,
+                        35.169311
+                  ]
+            },
+            {
+                  "name": "Mnimeio Eleytherias",
+                  "text": "Ein Denkmal in Nikosia, das den Kampf um die Freiheit symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        33.370303,
+                        35.171546
+                  ]
+            },
+            {
+                  "name": "Dimotiko Theatro Leykosias",
+                  "text": "Das städtische Theater für darstellende Künste in Nikosia.",
+                  "category": "cultural",
+                  "coords": [
+                        33.35507,
+                        35.172637
+                  ]
+            },
+            {
+                  "name": "Selimiye-Moschee",
+                  "text": "Eine bedeutende Moschee in Nikosia, die ursprünglich als gotische Kathedrale errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        33.364546,
+                        35.176515
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Die orthodoxe Johannes-Kathedrale in Nikosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.367917,
+                        35.173301
+                  ]
+            },
+            {
+                  "name": "Sarayönü Camii",
+                  "text": "Eine historische Moschee am Sarayönü-Platz in Nikosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.360572,
+                        35.177729
+                  ]
+            },
+            {
+                  "name": "Haydarpaşa Camii",
+                  "text": "Eine Kirche aus dem 14. Jahrhundert in Nikosia, heute bekannt als Haydar-Pascha-Moschee.",
+                  "category": "religious",
+                  "coords": [
+                        33.366062,
+                        35.177476
+                  ]
+            },
+            {
+                  "name": "Akkavuk Masjid",
+                  "text": "Eine kleine historische Moschee oder Masdschid in Nikosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.364498,
+                        35.179865
+                  ]
+            },
+            {
+                  "name": "Tzami Mpairaktari",
+                  "text": "Eine Moschee in Nikosia, die an der Stelle einer venezianischen Bastion errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        33.365424,
+                        35.169057
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "Eine katholische Kirche in Nikosia in der Nähe der Grünen Linie.",
+                  "category": "religious",
+                  "coords": [
+                        33.357419,
+                        35.174328
+                  ]
+            },
+            {
+                  "name": "Yenicami",
+                  "text": "Eine Moschee in Nikosia, die auf den Ruinen einer Kirche aus dem 14. Jahrhundert errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        33.366237,
+                        35.178598
+                  ]
+            },
+            {
+                  "name": "Büyük Hamam",
+                  "text": "Ein historisches traditionelles türkisches Bad in Nikosia.",
+                  "category": "landmark",
+                  "coords": [
+                        33.361678,
+                        35.176765
+                  ]
+            },
+            {
+                  "name": "Belediye Pazarı",
+                  "text": "Ein traditioneller städtischer Markt in Nikosia.",
+                  "category": "landmark",
+                  "coords": [
+                        33.364634,
+                        35.175412
+                  ]
+            },
+            {
+                  "name": "Çağlayan Parkı",
+                  "text": "Ein öffentlicher Park in Nikosia zur Erholung und Freizeitgestaltung.",
+                  "category": "park",
+                  "coords": [
+                        33.368092,
+                        35.18095
+                  ]
+            },
+            {
+                  "name": "Laiki Geitonia",
+                  "text": "Ein traditionelles restauriertes Viertel in Nikosia mit Geschäften und Kunsthandwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        33.362253,
+                        35.169854
+                  ]
+            },
+            {
+                  "name": "Zypernmuseum",
+                  "text": "Das größte und älteste archäologische Museum Zyperns in Nikosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.355753,
+                        35.171733
+                  ]
+            },
+            {
+                  "name": "Dimotiko Kentro Technon Leykosias",
+                  "text": "Ein zeitgenössisches Kunstzentrum und Museum in Nikosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.366724,
+                        35.173929
+                  ]
+            },
+            {
+                  "name": "Moyseio Astynomias Kyproy",
+                  "text": "Ein Museum in Nikosia, das der Geschichte der zyprischen Polizei gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        33.374292,
+                        35.144751
+                  ]
+            },
+            {
+                  "name": "Fylakismena Mnimata",
+                  "text": "Ein Denkmal und Friedhof in Nikosia für Kämpfer der EOKA-Bewegung.",
+                  "category": "historical",
+                  "coords": [
+                        33.343707,
+                        35.180405
+                  ]
+            },
+            {
+                  "name": "Casteliotissa Medieval Hall",
+                  "text": "Eine mittelalterliche Halle in Nikosia für kulturelle Veranstaltungen und Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        33.357433,
+                        35.173411
+                  ]
+            },
+            {
+                  "name": "Panayia",
+                  "text": "Ein lokales Gotteshaus in Nikosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.379584,
+                        35.176132
+                  ]
+            },
+            {
+                  "name": "Ekklisia Faneromenis",
+                  "text": "Eine historische orthodoxe Kirche in Nikosia in der Nähe der Grünen Linie.",
+                  "category": "religious",
+                  "coords": [
+                        33.362508,
+                        35.173481
+                  ]
+            },
+            {
+                  "name": "Sourp Asdvadzadzin",
+                  "text": "Eine historische armenische Kirche in Nikosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.367166,
+                        35.152416
+                  ]
+            },
+            {
+                  "name": "Agios Antonios",
+                  "text": "Eine griechisch-orthodoxe Kirche in Nikosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.367897,
+                        35.171692
+                  ]
+            },
+            {
+                  "name": "Chyisaliniotissa Church",
+                  "text": "Eine alte orthodoxe Kirche in Nikosia, bekannt für ihre byzantinischen Ikonen.",
+                  "category": "religious",
+                  "coords": [
+                        33.369689,
+                        35.176274
+                  ]
+            },
+            {
+                  "name": "Archaggelos Michail Trypiotis",
+                  "text": "Eine historische orthodoxe Kirche in Nikosia mit feinen Holzschnitzereien.",
+                  "category": "religious",
+                  "coords": [
+                        33.362623,
+                        35.171312
+                  ]
+            },
+            {
+                  "name": "Dimotikos Kipos Leykosias",
+                  "text": "Ein öffentlicher Stadtgarten in Nikosia, der Ruhe und Entspannung im Grünen bietet.",
+                  "category": "park",
+                  "coords": [
+                        33.353981,
+                        35.17292
+                  ]
+            },
+            {
+                  "name": "National Art Gallery",
+                  "text": "Die Nationalgalerie in Nikosia präsentiert bedeutende Kunstwerke des Landes.",
+                  "category": "museum",
+                  "coords": [
+                        33.365661,
+                        35.167944
+                  ]
+            },
+            {
+                  "name": "Shacolas Tower Museum & Observatory",
+                  "text": "Ein Museum und Aussichtspunkt in Nikosia mit Panoramablick über die geteilte Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        33.361525,
+                        35.171852
+                  ]
+            },
+            {
+                  "name": "The National Struggle Museum",
+                  "text": "Ein Museum in Nikosia, das den Unabhängigkeitskampf Zyperns dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        33.363595,
+                        35.182054
+                  ]
+            },
+            {
+                  "name": "RIK Radio Museum",
+                  "text": "Ein Museum in Nikosia, das die Geschichte des zyprischen Rundfunks präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        33.381935,
+                        35.145386
+                  ]
+            },
+            {
+                  "name": "Kentro Kypriakis Cheirotechnias",
+                  "text": "Ein Zentrum in Nikosia, das traditionelles zyprisches Kunsthandwerk fördert und ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        33.373207,
+                        35.140212
+                  ]
+            },
+            {
+                  "name": "Zampelas Art Museum",
+                  "text": "Ein Kunstmuseum in Nikosia, das moderne und zeitgenössische Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        33.377533,
+                        35.181891
+                  ]
+            },
+            {
+                  "name": "Kratiki Pinakothiki Sygchronis Technis - SPEL",
+                  "text": "Eine staatliche Galerie in Nikosia für zeitgenössische Kunst in einem historischen Gebäude.",
+                  "category": "museum",
+                  "coords": [
+                        33.370733,
+                        35.174718
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Ein See in Nikosia, der sich für entspannte Spaziergänge und zum Genießen der Landschaft eignet.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Hamitköy Göleti",
+                  "text": "Ein Seegebiet in Nikosia, das eine natürliche Flucht aus der Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        33.362891,
+                        35.238413
+                  ]
+            },
+            {
+                  "name": "Tempelodentro",
+                  "text": "Ein Spielplatz in Nikosia, der Erholung für Familien und Kinder bietet.",
+                  "category": "family",
+                  "coords": [
+                        33.385714,
+                        35.153162
+                  ]
+            },
+            {
+                  "name": "Kumsal Park",
+                  "text": "Dieser Park in Nikosia verfügt über einen Spielplatz für lokale Familien.",
+                  "category": "family",
+                  "coords": [
+                        33.354166,
+                        35.186739
+                  ]
+            },
+            {
+                  "name": "Heraclis Playground",
+                  "text": "Ein ausgewiesener Spielbereich in Nikosia, in dem Kinder verschiedene Aktivitäten genießen können.",
+                  "category": "family",
+                  "coords": [
+                        33.361061,
+                        35.173515
+                  ]
+            },
+            {
+                  "name": "Cocuk Oyun Alani",
+                  "text": "Ein lokaler Spielplatz in Nikosia, der Kindern Spaß im Freien bietet.",
+                  "category": "family",
+                  "coords": [
+                        33.360571,
+                        35.180598
+                  ]
+            },
+            {
+                  "name": "Hamam Omerye",
+                  "text": "Ein traditionelles Hamam in Nikosia, das Einblicke in die orientalische Badekultur bietet.",
+                  "category": "family",
+                  "coords": [
+                        33.365357,
+                        35.172563
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moyseio Istorikis Motosikletas Kyproy",
+                  "text": "Klasszikus motorkerékpárokat bemutató múzeum Nikosiában.",
+                  "category": "museum",
+                  "coords": [
+                        33.358387,
+                        35.172869
+                  ]
+            },
+            {
+                  "name": "Lefkoşa Mevlevihanesi",
+                  "text": "Múzeum Nikosiában egy egykori dervis kolostorban.",
+                  "category": "museum",
+                  "coords": [
+                        33.361892,
+                        35.180809
+                  ]
+            },
+            {
+                  "name": "Archontiko Chatzigeorgaki Kornesioy",
+                  "text": "18. századi történelmi kastély és múzeum Nikosiában.",
+                  "category": "museum",
+                  "coords": [
+                        33.366766,
+                        35.171871
+                  ]
+            },
+            {
+                  "name": "Derviş Paşa Konağı",
+                  "text": "Oszmán építészetet képviselő történelmi kúria Nikosiában.",
+                  "category": "museum",
+                  "coords": [
+                        33.358505,
+                        35.176372
+                  ]
+            },
+            {
+                  "name": "A.G Leventis Gallery",
+                  "text": "Művészeti galéria Nikosiában európai és ciprusi művekkel.",
+                  "category": "museum",
+                  "coords": [
+                        33.358391,
+                        35.169311
+                  ]
+            },
+            {
+                  "name": "Mnimeio Eleytherias",
+                  "text": "A szabadságharcot jelképező emlékmű Nikosiában.",
+                  "category": "historical",
+                  "coords": [
+                        33.370303,
+                        35.171546
+                  ]
+            },
+            {
+                  "name": "Dimotiko Theatro Leykosias",
+                  "text": "Nikosia városi színháza az előadóművészetek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        33.35507,
+                        35.172637
+                  ]
+            },
+            {
+                  "name": "Selimiye Camii",
+                  "text": "Nikosia egyik jelentős mecsete, amely eredetileg gótikus székesegyháznak épült.",
+                  "category": "religious",
+                  "coords": [
+                        33.364546,
+                        35.176515
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis",
+                  "text": "Szent János ortodox székesegyház Nikosiában.",
+                  "category": "religious",
+                  "coords": [
+                        33.367917,
+                        35.173301
+                  ]
+            },
+            {
+                  "name": "Sarayönü Camii",
+                  "text": "Történelmi mecset a nikosiai Sarayönü téren.",
+                  "category": "religious",
+                  "coords": [
+                        33.360572,
+                        35.177729
+                  ]
+            },
+            {
+                  "name": "Haydarpaşa Camii",
+                  "text": "14. századi templom Nikosiában, ma Haydarpaşa mecset néven ismert.",
+                  "category": "religious",
+                  "coords": [
+                        33.366062,
+                        35.177476
+                  ]
+            },
+            {
+                  "name": "Akkavuk Masjid",
+                  "text": "Kisméretű történelmi mecset vagy imaház Nikosiában.",
+                  "category": "religious",
+                  "coords": [
+                        33.364498,
+                        35.179865
+                  ]
+            },
+            {
+                  "name": "Tzami Mpairaktari",
+                  "text": "Egy velencei bástya helyén épült mecset Nikosiában.",
+                  "category": "religious",
+                  "coords": [
+                        33.365424,
+                        35.169057
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "Katolikus templom Nikosiában, a zöld vonal közelében.",
+                  "category": "religious",
+                  "coords": [
+                        33.357419,
+                        35.174328
+                  ]
+            },
+            {
+                  "name": "Yenicami",
+                  "text": "14. századi templom romjaira épült mecset Nikosiában.",
+                  "category": "religious",
+                  "coords": [
+                        33.366237,
+                        35.178598
+                  ]
+            },
+            {
+                  "name": "Büyük Hamam",
+                  "text": "Történelmi, hagyományos törökfürdő Nikosiában.",
+                  "category": "landmark",
+                  "coords": [
+                        33.361678,
+                        35.176765
+                  ]
+            },
+            {
+                  "name": "Belediye Pazarı",
+                  "text": "Hagyományos városi piac Nikosiában.",
+                  "category": "landmark",
+                  "coords": [
+                        33.364634,
+                        35.175412
+                  ]
+            },
+            {
+                  "name": "Çağlayan Parkı",
+                  "text": "Nyilvános park Nikosiában kikapcsolódásra és pihenésre.",
+                  "category": "park",
+                  "coords": [
+                        33.368092,
+                        35.18095
+                  ]
+            },
+            {
+                  "name": "Laiki Geitonia",
+                  "text": "Hagyományos, felújított negyed Nikosiában üzletekkel és kézműves termékekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        33.362253,
+                        35.169854
+                  ]
+            },
+            {
+                  "name": "Kypriako Moyseio",
+                  "text": "Ciprus legnagyobb és legrégebbi régészeti múzeuma Nikosiában.",
+                  "category": "museum",
+                  "coords": [
+                        33.355753,
+                        35.171733
+                  ]
+            },
+            {
+                  "name": "Dimotiko Kentro Technon Leykosias",
+                  "text": "Kortárs művészeti központ és múzeum Nikosiában.",
+                  "category": "museum",
+                  "coords": [
+                        33.366724,
+                        35.173929
+                  ]
+            },
+            {
+                  "name": "Moyseio Astynomias Kyproy",
+                  "text": "A ciprusi rendőrség történetének szentelt múzeum Nikosiában.",
+                  "category": "museum",
+                  "coords": [
+                        33.374292,
+                        35.144751
+                  ]
+            },
+            {
+                  "name": "Fylakismena Mnimata",
+                  "text": "Emlékmű és temető Nikosiában az EOKA-mozgalom harcosai számára.",
+                  "category": "historical",
+                  "coords": [
+                        33.343707,
+                        35.180405
+                  ]
+            },
+            {
+                  "name": "Casteliotissa Medieval Hall",
+                  "text": "Középkori csarnok Nikosiában kulturális események és kiállítások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        33.357433,
+                        35.173411
+                  ]
+            },
+            {
+                  "name": "Panayia",
+                  "text": "Helyi istentiszteleti hely Nikosiában.",
+                  "category": "religious",
+                  "coords": [
+                        33.379584,
+                        35.176132
+                  ]
+            },
+            {
+                  "name": "Ekklisia Faneromenis",
+                  "text": "Történelmi ortodox templom Nikosiában, a zöld vonal közelében.",
+                  "category": "religious",
+                  "coords": [
+                        33.362508,
+                        35.173481
+                  ]
+            },
+            {
+                  "name": "Sourp Asdvadzadzin",
+                  "text": "Történelmi örmény templom Nikosiában.",
+                  "category": "religious",
+                  "coords": [
+                        33.367166,
+                        35.152416
+                  ]
+            },
+            {
+                  "name": "Agios Antonios",
+                  "text": "Görög ortodox templom Nikosiában.",
+                  "category": "religious",
+                  "coords": [
+                        33.367897,
+                        35.171692
+                  ]
+            },
+            {
+                  "name": "Chyisaliniotissa Church",
+                  "text": "Régi ortodox templom Nikosiában, amely bizánci ikonjairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        33.369689,
+                        35.176274
+                  ]
+            },
+            {
+                  "name": "Archaggelos Michail Trypiotis",
+                  "text": "Történelmi ortodox templom Nikosiában finom fafaragványokkal.",
+                  "category": "religious",
+                  "coords": [
+                        33.362623,
+                        35.171312
+                  ]
+            },
+            {
+                  "name": "Dimotikos Kipos Leykosias",
+                  "text": "Nikosia városi kertje, amely nyugodt zöld környezetet kínál a kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        33.353981,
+                        35.17292
+                  ]
+            },
+            {
+                  "name": "National Art Gallery",
+                  "text": "A nikosiai Nemzeti Galéria az ország jelentős műalkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.365661,
+                        35.167944
+                  ]
+            },
+            {
+                  "name": "Shacolas Observatory",
+                  "text": "Múzeum és kilátó Nikosiában, ahonnan panorámás kilátás nyílik a kettéosztott városra.",
+                  "category": "museum",
+                  "coords": [
+                        33.361525,
+                        35.171852
+                  ]
+            },
+            {
+                  "name": "The National Struggle Museum",
+                  "text": "Ciprus függetlenségi harcát dokumentáló múzeum Nikosiában.",
+                  "category": "museum",
+                  "coords": [
+                        33.363595,
+                        35.182054
+                  ]
+            },
+            {
+                  "name": "RIK Radio Museum",
+                  "text": "A ciprusi rádiózás történetét bemutató múzeum Nikosiában.",
+                  "category": "museum",
+                  "coords": [
+                        33.381935,
+                        35.145386
+                  ]
+            },
+            {
+                  "name": "Kentro Kypriakis Cheirotechnias",
+                  "text": "A hagyományos ciprusi kézművességet népszerűsítő és bemutató központ Nikosiában.",
+                  "category": "museum",
+                  "coords": [
+                        33.373207,
+                        35.140212
+                  ]
+            },
+            {
+                  "name": "Zampelas Art Museum",
+                  "text": "Modern és kortárs műveket bemutató művészeti múzeum Nikosiában.",
+                  "category": "museum",
+                  "coords": [
+                        33.377533,
+                        35.181891
+                  ]
+            },
+            {
+                  "name": "Kratiki Pinakothiki Sygchronis Technis - SPEL",
+                  "text": "Nikosia kortárs művészeti állami galériája egy történelmi épületben.",
+                  "category": "museum",
+                  "coords": [
+                        33.370733,
+                        35.174718
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Tó Nicosiában, amely alkalmas pihentető sétákra és a táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Hamitköy Göleti",
+                  "text": "Tóvidék Nicosiában, amely természetes kikapcsolódást nyújt a várostól távol.",
+                  "category": "natural",
+                  "coords": [
+                        33.362891,
+                        35.238413
+                  ]
+            },
+            {
+                  "name": "Tempelodentro",
+                  "text": "Játszótér Nicosiában, amely kikapcsolódást nyújt a családok és a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        33.385714,
+                        35.153162
+                  ]
+            },
+            {
+                  "name": "Kumsal Park",
+                  "text": "Ebben a Nicosia-i parkban játszótér várja a helyi családokat.",
+                  "category": "family",
+                  "coords": [
+                        33.354166,
+                        35.186739
+                  ]
+            },
+            {
+                  "name": "Heraclis Playground",
+                  "text": "Kijelölt játszóterület Nicosiában, ahol a gyerekek különféle tevékenységeket élvezhetnek.",
+                  "category": "family",
+                  "coords": [
+                        33.361061,
+                        35.173515
+                  ]
+            },
+            {
+                  "name": "Cocuk Oyun Alani",
+                  "text": "Helyi játszótér Nicosiában, amely szabadtéri szórakozást kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        33.360571,
+                        35.180598
+                  ]
+            },
+            {
+                  "name": "Hamam Omerye",
+                  "text": "Hagyományos hamam Nicosiában, amely az orientális fürdőkultúra élményét kínálja.",
+                  "category": "family",
+                  "coords": [
+                        33.365357,
+                        35.172563
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moyseio Istorikis Motosikletas Kyproy",
+                  "text": "Un muzeu din Nikosia care expune motociclete clasice.",
+                  "category": "museum",
+                  "coords": [
+                        33.358387,
+                        35.172869
+                  ]
+            },
+            {
+                  "name": "Lefkoşa Mevlevihanesi",
+                  "text": "Un muzeu din Nikosia situat într-o fostă mănăstire de derviși.",
+                  "category": "museum",
+                  "coords": [
+                        33.361892,
+                        35.180809
+                  ]
+            },
+            {
+                  "name": "Archontiko Chatzigeorgaki Kornesioy",
+                  "text": "Un conac istoric din secolul al XVIII-lea și muzeu din Nikosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.366766,
+                        35.171871
+                  ]
+            },
+            {
+                  "name": "Derviş Paşa Konağı",
+                  "text": "Un conac istoric din Nikosia, reprezentativ pentru arhitectura otomană.",
+                  "category": "museum",
+                  "coords": [
+                        33.358505,
+                        35.176372
+                  ]
+            },
+            {
+                  "name": "A.G Leventis Gallery",
+                  "text": "O galerie de artă din Nikosia cu lucrări europene și cipriote.",
+                  "category": "museum",
+                  "coords": [
+                        33.358391,
+                        35.169311
+                  ]
+            },
+            {
+                  "name": "Mnimeio Eleytherias",
+                  "text": "Un monument din Nikosia care simbolizează lupta pentru libertate.",
+                  "category": "historical",
+                  "coords": [
+                        33.370303,
+                        35.171546
+                  ]
+            },
+            {
+                  "name": "Dimotiko Theatro Leykosias",
+                  "text": "Teatrul municipal pentru arte spectacolului din Nikosia.",
+                  "category": "cultural",
+                  "coords": [
+                        33.35507,
+                        35.172637
+                  ]
+            },
+            {
+                  "name": "Selimiye Camii",
+                  "text": "O moschee importantă din Nikosia, construită inițial ca o catedrală gotică.",
+                  "category": "religious",
+                  "coords": [
+                        33.364546,
+                        35.176515
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis",
+                  "text": "Catedrala ortodoxă Sfântul Ioan din Nikosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.367917,
+                        35.173301
+                  ]
+            },
+            {
+                  "name": "Sarayönü Camii",
+                  "text": "O moschee istorică situată în Piața Sarayönü din Nikosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.360572,
+                        35.177729
+                  ]
+            },
+            {
+                  "name": "Haydarpaşa Camii",
+                  "text": "O biserică din secolul al XIV-lea din Nikosia, cunoscută astăzi sub numele de Moscheea Haydarpașa.",
+                  "category": "religious",
+                  "coords": [
+                        33.366062,
+                        35.177476
+                  ]
+            },
+            {
+                  "name": "Akkavuk Masjid",
+                  "text": "O mică moschee istorică sau masjid în Nikosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.364498,
+                        35.179865
+                  ]
+            },
+            {
+                  "name": "Tzami Mpairaktari",
+                  "text": "O moschee din Nikosia construită pe locul unui bastion venețian.",
+                  "category": "religious",
+                  "coords": [
+                        33.365424,
+                        35.169057
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "O biserică catolică din Nikosia situată lângă Linia Verde.",
+                  "category": "religious",
+                  "coords": [
+                        33.357419,
+                        35.174328
+                  ]
+            },
+            {
+                  "name": "Yenicami",
+                  "text": "O moschee din Nikosia construită pe ruinele unei biserici din secolul al XIV-lea.",
+                  "category": "religious",
+                  "coords": [
+                        33.366237,
+                        35.178598
+                  ]
+            },
+            {
+                  "name": "Büyük Hamam",
+                  "text": "O baie turcească tradițională istorică din Nikosia.",
+                  "category": "landmark",
+                  "coords": [
+                        33.361678,
+                        35.176765
+                  ]
+            },
+            {
+                  "name": "Belediye Pazarı",
+                  "text": "O piață municipală tradițională din Nikosia.",
+                  "category": "landmark",
+                  "coords": [
+                        33.364634,
+                        35.175412
+                  ]
+            },
+            {
+                  "name": "Çağlayan Parkı",
+                  "text": "Un parc public din Nikosia pentru recreere și petrecerea timpului liber.",
+                  "category": "park",
+                  "coords": [
+                        33.368092,
+                        35.18095
+                  ]
+            },
+            {
+                  "name": "Laiki Geitonia",
+                  "text": "Un cartier tradițional restaurat din Nikosia, cu magazine și meșteșuguri.",
+                  "category": "landmark",
+                  "coords": [
+                        33.362253,
+                        35.169854
+                  ]
+            },
+            {
+                  "name": "Kypriako Moyseio",
+                  "text": "Cel mai mare și mai vechi muzeu arheologic din Cipru, situat în Nikosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.355753,
+                        35.171733
+                  ]
+            },
+            {
+                  "name": "Dimotiko Kentro Technon Leykosias",
+                  "text": "Un centru de artă contemporană și muzeu din Nikosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.366724,
+                        35.173929
+                  ]
+            },
+            {
+                  "name": "Moyseio Astynomias Kyproy",
+                  "text": "Un muzeu din Nikosia dedicat istoriei poliției din Cipru.",
+                  "category": "museum",
+                  "coords": [
+                        33.374292,
+                        35.144751
+                  ]
+            },
+            {
+                  "name": "Fylakismena Mnimata",
+                  "text": "Un monument și cimitir din Nikosia pentru luptătorii mișcării EOKA.",
+                  "category": "historical",
+                  "coords": [
+                        33.343707,
+                        35.180405
+                  ]
+            },
+            {
+                  "name": "Casteliotissa Medieval Hall",
+                  "text": "O sală medievală din Nikosia utilizată pentru evenimente culturale și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        33.357433,
+                        35.173411
+                  ]
+            },
+            {
+                  "name": "Panayia",
+                  "text": "Un lăcaș de cult local din Nikosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.379584,
+                        35.176132
+                  ]
+            },
+            {
+                  "name": "Ekklisia Faneromenis",
+                  "text": "O biserică ortodoxă istorică din Nikosia situată lângă Linia Verde.",
+                  "category": "religious",
+                  "coords": [
+                        33.362508,
+                        35.173481
+                  ]
+            },
+            {
+                  "name": "Biserica armeană „Sourp Asdvadzadzin” Nicosia",
+                  "text": "O biserică armeană istorică din Nikosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.367166,
+                        35.152416
+                  ]
+            },
+            {
+                  "name": "Agios Antonios",
+                  "text": "O biserică ortodoxă greacă din Nikosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.367897,
+                        35.171692
+                  ]
+            },
+            {
+                  "name": "Chyisaliniotissa Church",
+                  "text": "O veche biserică ortodoxă din Nikosia, cunoscută pentru icoanele sale bizantine.",
+                  "category": "religious",
+                  "coords": [
+                        33.369689,
+                        35.176274
+                  ]
+            },
+            {
+                  "name": "Archaggelos Michail Trypiotis",
+                  "text": "O biserică ortodoxă istorică din Nikosia, cu sculpturi fine în lemn.",
+                  "category": "religious",
+                  "coords": [
+                        33.362623,
+                        35.171312
+                  ]
+            },
+            {
+                  "name": "Dimotikos Kipos Leykosias",
+                  "text": "O grădină publică din Nicosia, care oferă un spațiu verde liniștit pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        33.353981,
+                        35.17292
+                  ]
+            },
+            {
+                  "name": "National Art Gallery",
+                  "text": "Galeria Națională din Nicosia prezintă opere de artă semnificative ale țării.",
+                  "category": "museum",
+                  "coords": [
+                        33.365661,
+                        35.167944
+                  ]
+            },
+            {
+                  "name": "Shacolas Observatory",
+                  "text": "Un muzeu și punct de observare din Nicosia, oferind o vedere panoramică asupra orașului divizat.",
+                  "category": "museum",
+                  "coords": [
+                        33.361525,
+                        35.171852
+                  ]
+            },
+            {
+                  "name": "The National Struggle Museum",
+                  "text": "Un muzeu din Nicosia care documentează lupta pentru independență a Ciprului.",
+                  "category": "museum",
+                  "coords": [
+                        33.363595,
+                        35.182054
+                  ]
+            },
+            {
+                  "name": "RIK Radio Museum",
+                  "text": "Un muzeu din Nicosia care prezintă istoria radiodifuziunii cipriote.",
+                  "category": "museum",
+                  "coords": [
+                        33.381935,
+                        35.145386
+                  ]
+            },
+            {
+                  "name": "Kentro Kypriakis Cheirotechnias",
+                  "text": "Un centru din Nicosia care promovează și expune meșteșugurile tradiționale cipriote.",
+                  "category": "museum",
+                  "coords": [
+                        33.373207,
+                        35.140212
+                  ]
+            },
+            {
+                  "name": "Zampelas Art Museum",
+                  "text": "Un muzeu de artă din Nicosia care expune lucrări moderne și contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        33.377533,
+                        35.181891
+                  ]
+            },
+            {
+                  "name": "Kratiki Pinakothiki Sygchronis Technis - SPEL",
+                  "text": "O galerie de stat din Nicosia pentru artă contemporană, situată într-o clădire istorică.",
+                  "category": "museum",
+                  "coords": [
+                        33.370733,
+                        35.174718
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Un lac în Nicosia, potrivit pentru plimbări relaxante și admirarea peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Hamitköy Göleti",
+                  "text": "O zonă lacustră în Nicosia care oferă o evadare naturală din oraș.",
+                  "category": "natural",
+                  "coords": [
+                        33.362891,
+                        35.238413
+                  ]
+            },
+            {
+                  "name": "Tempelodentro",
+                  "text": "Un loc de joacă în Nicosia care oferă recreere pentru familii și copii.",
+                  "category": "family",
+                  "coords": [
+                        33.385714,
+                        35.153162
+                  ]
+            },
+            {
+                  "name": "Kumsal Park",
+                  "text": "Acest parc din Nicosia dispune de un loc de joacă pentru familiile locale.",
+                  "category": "family",
+                  "coords": [
+                        33.354166,
+                        35.186739
+                  ]
+            },
+            {
+                  "name": "Heraclis Playground",
+                  "text": "O zonă de joacă special amenajată în Nicosia, unde copiii se pot bucura de diverse activități.",
+                  "category": "family",
+                  "coords": [
+                        33.361061,
+                        35.173515
+                  ]
+            },
+            {
+                  "name": "Cocuk Oyun Alani",
+                  "text": "Un loc de joacă local în Nicosia care oferă distracție în aer liber pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        33.360571,
+                        35.180598
+                  ]
+            },
+            {
+                  "name": "Hamam Omerye",
+                  "text": "Un hamam tradițional în Nicosia, oferind o experiență autentică de relaxare orientală.",
+                  "category": "family",
+                  "coords": [
+                        33.365357,
+                        35.172563
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cyprus Classic Motorcycle Museum",
+                  "text": "A museum in Nicosia showcasing classic motorcycles.",
+                  "category": "museum",
+                  "coords": [
+                        33.358387,
+                        35.172869
+                  ]
+            },
+            {
+                  "name": "Mevleli Tekke Museum",
+                  "text": "A museum in Nicosia located in a former dervish lodge.",
+                  "category": "museum",
+                  "coords": [
+                        33.361892,
+                        35.180809
+                  ]
+            },
+            {
+                  "name": "Hadjigeorgakis Kornesios Mansion",
+                  "text": "A historic 18th-century mansion and museum in Nicosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.366766,
+                        35.171871
+                  ]
+            },
+            {
+                  "name": "Dervish Pasha Mansion",
+                  "text": "A historic mansion in Nicosia representing Ottoman architecture.",
+                  "category": "museum",
+                  "coords": [
+                        33.358505,
+                        35.176372
+                  ]
+            },
+            {
+                  "name": "A.G Leventis Gallery",
+                  "text": "An art gallery in Nicosia featuring European and Cypriot works.",
+                  "category": "museum",
+                  "coords": [
+                        33.358391,
+                        35.169311
+                  ]
+            },
+            {
+                  "name": "Liberty Monument",
+                  "text": "A monument in Nicosia symbolizing the struggle for freedom.",
+                  "category": "historical",
+                  "coords": [
+                        33.370303,
+                        35.171546
+                  ]
+            },
+            {
+                  "name": "Nicosia Municipal Theater",
+                  "text": "The main municipal theatre for performing arts in Nicosia.",
+                  "category": "cultural",
+                  "coords": [
+                        33.35507,
+                        35.172637
+                  ]
+            },
+            {
+                  "name": "Selimiye Mosque",
+                  "text": "A major mosque in Nicosia, originally built as a Gothic cathedral.",
+                  "category": "religious",
+                  "coords": [
+                        33.364546,
+                        35.176515
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis",
+                  "text": "The Orthodox cathedral of St. John in Nicosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.367917,
+                        35.173301
+                  ]
+            },
+            {
+                  "name": "Sarayönü Camii",
+                  "text": "A historic mosque located in Sarayönü Square in Nicosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.360572,
+                        35.177729
+                  ]
+            },
+            {
+                  "name": "Church of St.Katerina (14 c.)",
+                  "text": "A 14th-century church in Nicosia, now known as the Haydarpaşa Mosque.",
+                  "category": "religious",
+                  "coords": [
+                        33.366062,
+                        35.177476
+                  ]
+            },
+            {
+                  "name": "Akkavuk Masjid",
+                  "text": "A small historic mosque or masjid in Nicosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.364498,
+                        35.179865
+                  ]
+            },
+            {
+                  "name": "Bairaktar Mosque",
+                  "text": "A mosque in Nicosia built on the site of a Venetian bastion.",
+                  "category": "religious",
+                  "coords": [
+                        33.365424,
+                        35.169057
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "A Catholic church in Nicosia located near the Green Line.",
+                  "category": "religious",
+                  "coords": [
+                        33.357419,
+                        35.174328
+                  ]
+            },
+            {
+                  "name": "Yenicami",
+                  "text": "A mosque in Nicosia built on the ruins of a 14th-century church.",
+                  "category": "religious",
+                  "coords": [
+                        33.366237,
+                        35.178598
+                  ]
+            },
+            {
+                  "name": "Büyük Hamam",
+                  "text": "A historic traditional Turkish bath in Nicosia.",
+                  "category": "landmark",
+                  "coords": [
+                        33.361678,
+                        35.176765
+                  ]
+            },
+            {
+                  "name": "Municipal Market",
+                  "text": "A traditional municipal market in Nicosia.",
+                  "category": "landmark",
+                  "coords": [
+                        33.364634,
+                        35.175412
+                  ]
+            },
+            {
+                  "name": "Çağlayan Parkı",
+                  "text": "A public park in Nicosia for recreation and leisure.",
+                  "category": "park",
+                  "coords": [
+                        33.368092,
+                        35.18095
+                  ]
+            },
+            {
+                  "name": "Laiki Geitonia",
+                  "text": "A traditional restored neighborhood in Nicosia with shops and crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        33.362253,
+                        35.169854
+                  ]
+            },
+            {
+                  "name": "Cyprus Museum",
+                  "text": "The largest and oldest archaeological museum in Cyprus, located in Nicosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.355753,
+                        35.171733
+                  ]
+            },
+            {
+                  "name": "Nicosia Municipal Arts Centre",
+                  "text": "A contemporary arts centre and museum in Nicosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.366724,
+                        35.173929
+                  ]
+            },
+            {
+                  "name": "Cyprus Police Museum",
+                  "text": "A museum in Nicosia dedicated to the history of the Cyprus police.",
+                  "category": "museum",
+                  "coords": [
+                        33.374292,
+                        35.144751
+                  ]
+            },
+            {
+                  "name": "The Imprisoned Graves",
+                  "text": "A monument and cemetery in Nicosia for fighters of the EOKA movement.",
+                  "category": "historical",
+                  "coords": [
+                        33.343707,
+                        35.180405
+                  ]
+            },
+            {
+                  "name": "Casteliotissa Medieval Hall",
+                  "text": "A medieval hall in Nicosia used for cultural events and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        33.357433,
+                        35.173411
+                  ]
+            },
+            {
+                  "name": "Panayia",
+                  "text": "A local place of worship in Nicosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.379584,
+                        35.176132
+                  ]
+            },
+            {
+                  "name": "Faneroumeni Church",
+                  "text": "A historic Orthodox church in Nicosia located near the Green Line.",
+                  "category": "religious",
+                  "coords": [
+                        33.362508,
+                        35.173481
+                  ]
+            },
+            {
+                  "name": "Sourp Asdvadzadzin",
+                  "text": "A historic Armenian church in Nicosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.367166,
+                        35.152416
+                  ]
+            },
+            {
+                  "name": "Agios Antonios",
+                  "text": "A Greek Orthodox church in Nicosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.367897,
+                        35.171692
+                  ]
+            },
+            {
+                  "name": "Chyisaliniotissa Church",
+                  "text": "An old Orthodox church in Nicosia known for its Byzantine icons.",
+                  "category": "religious",
+                  "coords": [
+                        33.369689,
+                        35.176274
+                  ]
+            },
+            {
+                  "name": "Archaggelos Michail Trypiotis",
+                  "text": "A historic Orthodox church in Nicosia featuring fine wood carvings.",
+                  "category": "religious",
+                  "coords": [
+                        33.362623,
+                        35.171312
+                  ]
+            },
+            {
+                  "name": "Nicosia Municipal Gardens",
+                  "text": "A public municipal garden in Nicosia offering a peaceful green space for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        33.353981,
+                        35.17292
+                  ]
+            },
+            {
+                  "name": "National Art Gallery",
+                  "text": "The National Art Gallery in Nicosia showcases significant artworks of the country.",
+                  "category": "museum",
+                  "coords": [
+                        33.365661,
+                        35.167944
+                  ]
+            },
+            {
+                  "name": "Shacolas Observatory",
+                  "text": "A museum and observatory in Nicosia providing panoramic views of the divided city.",
+                  "category": "museum",
+                  "coords": [
+                        33.361525,
+                        35.171852
+                  ]
+            },
+            {
+                  "name": "The National Struggle Museum",
+                  "text": "A museum in Nicosia documenting Cyprus's struggle for national independence.",
+                  "category": "museum",
+                  "coords": [
+                        33.363595,
+                        35.182054
+                  ]
+            },
+            {
+                  "name": "RIK Radio Museum",
+                  "text": "A museum in Nicosia presenting the history of Cypriot radio broadcasting.",
+                  "category": "museum",
+                  "coords": [
+                        33.381935,
+                        35.145386
+                  ]
+            },
+            {
+                  "name": "Cyprus Handicrafts Centre",
+                  "text": "A centre in Nicosia promoting and exhibiting traditional Cypriot handicrafts.",
+                  "category": "museum",
+                  "coords": [
+                        33.373207,
+                        35.140212
+                  ]
+            },
+            {
+                  "name": "Zampelas Art Museum",
+                  "text": "An art museum in Nicosia exhibiting modern and contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        33.377533,
+                        35.181891
+                  ]
+            },
+            {
+                  "name": "State Gallery of Contemporary Art - SPEL",
+                  "text": "A state gallery in Nicosia for contemporary art located in a historic building.",
+                  "category": "museum",
+                  "coords": [
+                        33.370733,
+                        35.174718
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "A lake in Nicosia suitable for relaxing walks and enjoying the scenery.",
+                  "category": "natural",
+                  "coords": [
+                        33.401273,
+                        35.142867
+                  ]
+            },
+            {
+                  "name": "Hamitköy Göleti",
+                  "text": "A lake area in Nicosia offering a natural escape from the city.",
+                  "category": "natural",
+                  "coords": [
+                        33.362891,
+                        35.238413
+                  ]
+            },
+            {
+                  "name": "Tempelodentro",
+                  "text": "A playground in Nicosia providing recreation for families and children.",
+                  "category": "family",
+                  "coords": [
+                        33.385714,
+                        35.153162
+                  ]
+            },
+            {
+                  "name": "Kumsal Park",
+                  "text": "This park in Nicosia features a playground for local families.",
+                  "category": "family",
+                  "coords": [
+                        33.354166,
+                        35.186739
+                  ]
+            },
+            {
+                  "name": "Heraclis Playground",
+                  "text": "A designated play area in Nicosia where children can enjoy various activities.",
+                  "category": "family",
+                  "coords": [
+                        33.361061,
+                        35.173515
+                  ]
+            },
+            {
+                  "name": "Cocuk Oyun Alani",
+                  "text": "A local playground in Nicosia offering outdoor fun for kids.",
+                  "category": "family",
+                  "coords": [
+                        33.360571,
+                        35.180598
+                  ]
+            },
+            {
+                  "name": "Hamam Omerye",
+                  "text": "A traditional hammam in Nicosia offering a glimpse into oriental bathing culture.",
+                  "category": "family",
+                  "coords": [
+                        33.365357,
+                        35.172563
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CY-003",
     coords: [33.3666, 35.1666],
@@ -101,33 +1730,6 @@ export const cyprusRegions: POI[] = [
     id: "cy-limassol", "sights": {
       "de": [
             {
-                  "name": "Alyki Lemesoy",
-                  "text": "Ein bedeutender Salzsee bei Limassol mit schöner Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        32.970751,
-                        34.621301
-                  ]
-            },
-            {
-                  "name": "Techniti Limni Polemidion",
-                  "text": "Ein ruhiges Gewässer bei Limassol, ideal für Naturbeobachtungen.",
-                  "category": "natural",
-                  "coords": [
-                        32.98375,
-                        34.722661
-                  ]
-            },
-            {
-                  "name": "Agios Tychonas Swimming Area",
-                  "text": "Ein beliebter Ort in Limassol zum Schwimmen und für Erholung am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        33.121621,
-                        34.705412
-                  ]
-            },
-            {
                   "name": "Game on",
                   "text": "Eine moderne Spielhalle in Limassol für gemeinsamen Familienspaß.",
                   "category": "family",
@@ -146,30 +1748,12 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Plateia Synergatismoy",
-                  "text": "Ein Spielplatz in Limassol, der Kindern Raum zum Spielen bietet.",
-                  "category": "family",
-                  "coords": [
-                        33.047853,
-                        34.700708
-                  ]
-            },
-            {
                   "name": "PlayLounge",
                   "text": "Ein einladender Spielbereich in Limassol für junge Besucher.",
                   "category": "family",
                   "coords": [
                         33.043405,
                         34.67628
-                  ]
-            },
-            {
-                  "name": "Akti Olympion Beach",
-                  "text": "Ein beliebtes Strandresort in Limassol für Erholung am Wasser und Familienspaß.",
-                  "category": "family",
-                  "coords": [
-                        33.053556,
-                        34.680034
                   ]
             },
             {
@@ -200,15 +1784,6 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Museum of General Georgios Grivas-Digenis",
-                  "text": "Ein Museum in Limassol, das dem Leben von General Georgios Grivas gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        33.062186,
-                        34.691429
-                  ]
-            },
-            {
                   "name": "Water Museum and Centre of Water Awareness Development",
                   "text": "Ein Bildungszentrum und Museum in Limassol zum Thema Wasserressourcen.",
                   "category": "museum",
@@ -225,45 +1800,9 @@ export const cyprusRegions: POI[] = [
                         33.049844,
                         34.682367
                   ]
-            },
-            {
-                  "name": "NOA",
-                  "text": "Ein bekannter Strandort in Limassol, der für seine entspannte Atmosphäre geschätzt wird.",
-                  "category": "recreational",
-                  "coords": [
-                        33.0748,
-                        34.689777
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Alyki Lemesoy",
-                  "text": "Jelentős sóstó Limassolnál, szép tájjal.",
-                  "category": "natural",
-                  "coords": [
-                        32.970751,
-                        34.621301
-                  ]
-            },
-            {
-                  "name": "Techniti Limni Polemidion",
-                  "text": "Nyugodt vízfelület Limassolnál, ideális természetjáráshoz.",
-                  "category": "natural",
-                  "coords": [
-                        32.98375,
-                        34.722661
-                  ]
-            },
-            {
-                  "name": "Agios Tychonas Swimming Area",
-                  "text": "Népszerű hely Limassolban úszáshoz és vízparti pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        33.121621,
-                        34.705412
-                  ]
-            },
             {
                   "name": "Game on",
                   "text": "Modern játékterem Limassolban a közös családi szórakozáshoz.",
@@ -283,30 +1822,12 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Plateia Synergatismoy",
-                  "text": "Játszótér Limassolban, amely teret biztosít a gyerekeknek a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        33.047853,
-                        34.700708
-                  ]
-            },
-            {
                   "name": "PlayLounge",
                   "text": "Hívogató játszótér Limassolban a fiatal látogatók számára.",
                   "category": "family",
                   "coords": [
                         33.043405,
                         34.67628
-                  ]
-            },
-            {
-                  "name": "Akti Olympion Beach",
-                  "text": "Népszerű tengerparti üdülőhely Limassolban a vízi pihenéshez és családi szórakozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        33.053556,
-                        34.680034
                   ]
             },
             {
@@ -337,15 +1858,6 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Museum of General Georgios Grivas-Digenis",
-                  "text": "Georgios Grivas tábornok életének szentelt múzeum Limassolban.",
-                  "category": "museum",
-                  "coords": [
-                        33.062186,
-                        34.691429
-                  ]
-            },
-            {
                   "name": "Water Museum and Centre of Water Awareness Development",
                   "text": "Oktatási központ és múzeum Limassolban a vízkészletek témakörében.",
                   "category": "museum",
@@ -362,45 +1874,9 @@ export const cyprusRegions: POI[] = [
                         33.049844,
                         34.682367
                   ]
-            },
-            {
-                  "name": "NOA",
-                  "text": "Ismert tengerparti hely Limassolban, amelyet nyugodt légköre miatt kedvelnek.",
-                  "category": "recreational",
-                  "coords": [
-                        33.0748,
-                        34.689777
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Alyki Lemesoy",
-                  "text": "Un lac sărat important lângă Limassol, cu peisaje frumoase.",
-                  "category": "natural",
-                  "coords": [
-                        32.970751,
-                        34.621301
-                  ]
-            },
-            {
-                  "name": "Techniti Limni Polemidion",
-                  "text": "O zonă cu apă liniștită lângă Limassol, ideală pentru observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        32.98375,
-                        34.722661
-                  ]
-            },
-            {
-                  "name": "Agios Tychonas Swimming Area",
-                  "text": "Un loc popular în Limassol pentru înot și relaxare la malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        33.121621,
-                        34.705412
-                  ]
-            },
             {
                   "name": "Game on",
                   "text": "O sală de jocuri modernă în Limassol pentru distracția întregii familii.",
@@ -420,30 +1896,12 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Plateia Synergatismoy",
-                  "text": "Un loc de joacă în Limassol care oferă spațiu copiilor pentru joacă.",
-                  "category": "family",
-                  "coords": [
-                        33.047853,
-                        34.700708
-                  ]
-            },
-            {
                   "name": "PlayLounge",
                   "text": "O zonă de joacă primitoare în Limassol pentru micii vizitatori.",
                   "category": "family",
                   "coords": [
                         33.043405,
                         34.67628
-                  ]
-            },
-            {
-                  "name": "Akti Olympion Beach",
-                  "text": "O stațiune populară la plajă în Limassol pentru relaxare la apă și distracție în familie.",
-                  "category": "family",
-                  "coords": [
-                        33.053556,
-                        34.680034
                   ]
             },
             {
@@ -474,15 +1932,6 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Museum of General Georgios Grivas-Digenis",
-                  "text": "Un muzeu în Limassol dedicat vieții generalului Georgios Grivas.",
-                  "category": "museum",
-                  "coords": [
-                        33.062186,
-                        34.691429
-                  ]
-            },
-            {
                   "name": "Water Museum and Centre of Water Awareness Development",
                   "text": "Un centru educațional și muzeu în Limassol pe tema resurselor de apă.",
                   "category": "museum",
@@ -499,45 +1948,9 @@ export const cyprusRegions: POI[] = [
                         33.049844,
                         34.682367
                   ]
-            },
-            {
-                  "name": "NOA",
-                  "text": "O destinație de plajă cunoscută în Limassol, apreciată pentru atmosfera sa relaxată.",
-                  "category": "recreational",
-                  "coords": [
-                        33.0748,
-                        34.689777
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Limassol Salt Lake",
-                  "text": "A significant salt lake near Limassol with beautiful scenery.",
-                  "category": "natural",
-                  "coords": [
-                        32.970751,
-                        34.621301
-                  ]
-            },
-            {
-                  "name": "Polemidia Reservoir",
-                  "text": "A calm body of water near Limassol, ideal for nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        32.98375,
-                        34.722661
-                  ]
-            },
-            {
-                  "name": "Agios Tychonas Swimming Area",
-                  "text": "A popular spot in Limassol for swimming and waterside relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        33.121621,
-                        34.705412
-                  ]
-            },
             {
                   "name": "Game on",
                   "text": "A modern amusement arcade in Limassol for shared family fun.",
@@ -557,30 +1970,12 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Plateia Synergatismoy",
-                  "text": "A playground in Limassol providing space for children to play.",
-                  "category": "family",
-                  "coords": [
-                        33.047853,
-                        34.700708
-                  ]
-            },
-            {
                   "name": "PlayLounge",
                   "text": "An inviting play area in Limassol for young visitors.",
                   "category": "family",
                   "coords": [
                         33.043405,
                         34.67628
-                  ]
-            },
-            {
-                  "name": "Akti Olympion Beach",
-                  "text": "A popular beach resort in Limassol for relaxation by the water and family fun.",
-                  "category": "family",
-                  "coords": [
-                        33.053556,
-                        34.680034
                   ]
             },
             {
@@ -611,15 +2006,6 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Museum of General Georgios Grivas-Digenis",
-                  "text": "A museum in Limassol dedicated to the life of General Georgios Grivas.",
-                  "category": "museum",
-                  "coords": [
-                        33.062186,
-                        34.691429
-                  ]
-            },
-            {
                   "name": "Water Museum and Centre of Water Awareness Development",
                   "text": "An educational centre and museum in Limassol regarding water resources.",
                   "category": "museum",
@@ -635,15 +2021,6 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         33.049844,
                         34.682367
-                  ]
-            },
-            {
-                  "name": "NOA",
-                  "text": "A well-known beach destination in Limassol popular for its relaxed atmosphere.",
-                  "category": "recreational",
-                  "coords": [
-                        33.0748,
-                        34.689777
                   ]
             }
       ]
@@ -771,15 +2148,6 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         33.630497,
                         34.923438
-                  ]
-            },
-            {
-                  "name": "Mackenzie Beach",
-                  "text": "Dieser weithin bekannte Sandstrand bereichert auf wunderbare Weise das Küstenbild von Larnaka auf Zypern. Eine weltoffene, energiegeladene Stimmung macht den Ort zu einem starken Magneten für Sonnenhungrige. Der Sand lädt zum stundenlangen Sonnenbaden ein, während das warme Mittelmeer sanfte Erfrischung bietet. Ein früher Start in den Tag sichert Ihnen hier garantiert den besten Platz nah am Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        33.638009,
-                        34.890673
                   ]
             },
             {
@@ -1010,30 +2378,12 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Phinikoudes",
-                  "text": "A Phinikoudes egy népszerű pálmafás strand Lárnaka központjában.",
-                  "category": "recreational",
-                  "coords": [
-                        33.638679,
-                        34.912897
-                  ]
-            },
-            {
                   "name": "Ancient Kition",
                   "text": "Az ősi Kition egy jelentős régészeti lelőhely, amely ókori romokat tár fel Lárnakában.",
                   "category": "historical",
                   "coords": [
                         33.630497,
                         34.923438
-                  ]
-            },
-            {
-                  "name": "Mackenzie Beach",
-                  "text": "Ez a széles körben ismert homokos part csodálatos módon gazdagítja a ciprusi Lárnaka partképét. A kozmopolita, energiával teli hangulat a napozni vágyók erős mágnesévé teszi a helyet. A homok órákig tartó napozásra csábít, miközben a meleg Földközi-tenger lágy felfrissülést kínál. Egy korai napkezdés itt garantáltan biztosítja a legjobb helyet közel a vízhez.",
-                  "category": "recreational",
-                  "coords": [
-                        33.638009,
-                        34.890673
                   ]
             },
             {
@@ -1264,30 +2614,12 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Phinikoudes",
-                  "text": "Phinikoudes este o plajă populară străjuită de palmieri în centrul orașului Larnaca.",
-                  "category": "recreational",
-                  "coords": [
-                        33.638679,
-                        34.912897
-                  ]
-            },
-            {
                   "name": "Ancient Kition",
                   "text": "Anticul Kition este un sit arheologic semnificativ care explorează ruine antice în Larnaca.",
                   "category": "historical",
                   "coords": [
                         33.630497,
                         34.923438
-                  ]
-            },
-            {
-                  "name": "Mackenzie Beach",
-                  "text": "Această plajă cu nisip, binecunoscută, îmbogățește într-un mod minunat peisajul de coastă din Larnaca, Cipru. O atmosferă cosmopolită și plină de energie transformă locul într-un magnet puternic pentru iubitorii de soare. Nisipul te invită la ore întregi de plajă, în timp ce Marea Mediterană caldă oferă o răcorire blândă. Un început de zi devreme vă asigură aici garantat cel mai bun loc aproape de apă.",
-                  "category": "recreational",
-                  "coords": [
-                        33.638009,
-                        34.890673
                   ]
             },
             {
@@ -1518,30 +2850,12 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Phinikoudes",
-                  "text": "Phinikoudes is a popular palm-lined beach in the center of Larnaca.",
-                  "category": "recreational",
-                  "coords": [
-                        33.638679,
-                        34.912897
-                  ]
-            },
-            {
                   "name": "Ancient Kition",
                   "text": "Ancient Kition is a significant archaeological site exploring ancient ruins in Larnaca.",
                   "category": "historical",
                   "coords": [
                         33.630497,
                         34.923438
-                  ]
-            },
-            {
-                  "name": "Mackenzie Beach",
-                  "text": "This widely known sandy beach wonderfully enriches the coastal scenery of Larnaca in Cyprus. A cosmopolitan, energetic mood makes the place a strong magnet for sun seekers. The sand invites you to hours of sunbathing, while the warm Mediterranean offers gentle refreshment. An early start to the day guarantees you the best spot close to the water here.",
-                  "category": "recreational",
-                  "coords": [
-                        33.638009,
-                        34.890673
                   ]
             },
             {
@@ -1750,7 +3064,1672 @@ export const cyprusRegions: POI[] = [
     },
   },
   {
-    id: "cy-paphos", "sights": {"de": [{"name": "Saranta Kolones", "text": "Eine mittelalterliche Burgruine in Paphos, bekannt für ihre zahlreichen Säulen.", "category": "castle", "coords": [32.409716, 34.757599]}, {"name": "Ottoman Hamam", "text": "Ein traditionelles osmanisches Bad in Paphos, das die historische Badekultur zeigt.", "category": "landmark", "coords": [32.419428, 34.777518]}, {"name": "Paphos Archaeological Museum", "text": "Das archäologische Museum von Paphos beherbergt Funde aus der Region von der Jungsteinzeit bis zum Mittelalter.", "category": "museum", "coords": [32.430326, 34.771814]}, {"name": "Tafos", "text": "Eine antike Grabstätte innerhalb der berühmten Königsgräber von Paphos.", "category": "historical", "coords": [32.40507, 34.776461]}, {"name": "Tafos 6", "text": "Ein weiteres Beispiel für die antike Bestattungsarchitektur in Paphos.", "category": "historical", "coords": [32.405067, 34.777836]}, {"name": "Tafos 2", "text": "Ein historisches Grabmal in der Nekropole der Königsgräber von Paphos.", "category": "historical", "coords": [32.405706, 34.774785]}, {"name": "Tafos 1", "text": "Das erste Grabmal in der Abfolge der archäologischen Stätte in Paphos.", "category": "historical", "coords": [32.407002, 34.774793]}, {"name": "Paphos amphitheatre", "text": "Ein antikes Amphitheater in Paphos, das für historische Aufführungen genutzt wurde.", "category": "historical", "coords": [32.405321, 34.754957]}, {"name": "Roman Odeon", "text": "Ein kleines römisches Theater in Paphos, das heute für kulturelle Veranstaltungen genutzt wird.", "category": "historical", "coords": [32.407142, 34.76025]}, {"name": "Haus des Aion", "text": "Ruinen eines römischen Hauses in Paphos, berühmt für seine gut erhaltenen Mosaike.", "category": "historical", "coords": [32.405584, 34.756724]}, {"name": "Panagia Theoskepasti", "text": "Eine orthodoxe Kirche in Paphos, die auf einem Felsen über dem Hafen liegt.", "category": "religious", "coords": [32.415788, 34.757121]}, {"name": "Agia Kyriaki Chrisopolitissa", "text": "Eine byzantinische Kirche in Paphos, die für die Paulus-Säule bekannt ist.", "category": "religious", "coords": [32.414274, 34.757853]}, {"name": "Kathedrikos Naos Agioy Theodoroy", "text": "Ein religiöses Gebäude in Paphos, das dem Heiligen Theodor gewidmet ist.", "category": "religious", "coords": [32.420615, 34.772744]}, {"name": "Ayioi Anargiroi", "text": "Eine Kirche in Paphos, die den heiligen Anargyroi gewidmet ist.", "category": "religious", "coords": [32.417119, 34.76213]}, {"name": "Agios Georgios", "text": "Eine dem Heiligen Georg gewidmete Kultstätte in Paphos.", "category": "religious", "coords": [32.415354, 34.758663]}, {"name": "Agios Antonios", "text": "Eine historische Kirche in Paphos, die dem Heiligen Antonius gewidmet ist.", "category": "religious", "coords": [32.417299, 34.757587]}, {"name": "Agia Faneromeni", "text": "Eine Kultstätte in Paphos, die der Heiligen Faneromeni gewidmet ist.", "category": "religious", "coords": [32.416101, 34.760423]}, {"name": "Fabrica Hill", "text": "Ein Hügel in Paphos mit antiken Steinbrüchen, Gräbern und religiösen Stätten.", "category": "landmark", "coords": [32.413189, 34.762244]}, {"name": "Haus des Dionysos", "text": "Eine römische Villa in Paphos, bekannt für ihre prächtigen Mosaike aus der Mythologie.", "category": "landmark", "coords": [32.406059, 34.758199]}, {"name": "Lighthouse Beach", "text": "Unterhalb des markanten Leuchtturms von Paphos erstreckt sich dieser überaus beliebte zypriotische Küstenstreifen. Die malerische Verbindung von Meer und stolzer maritimer Architektur schafft ein ganz besonders entspanntes Flair. Gäste erfreuen sich an gemütlichen Strandspaziergängen, Sonnenbädern und einem angenehmen Sprung ins Wasser. Ein Spätnachmittagsbesuch wird oft mit einem atemberaubend schönen Sonnenuntergang belohnt.", "category": "recreational", "coords": [32.406249, 34.764387]}, {"name": "Psifida", "text": "Eine Galerie in Paphos, die verschiedene Kunstwerke und Mosaike ausstellt.", "category": "museum", "coords": [32.412646, 34.763942]}, {"name": "Tafos 9", "text": "Ein weiteres antikes Grabmal innerhalb des archäologischen Parks von Paphos.", "category": "historical", "coords": [32.40679, 34.776332]}, {"name": "Cut through old city wall", "text": "Eine archäologische Stätte in Paphos, die einen Durchbruch der alten Stadtmauer zeigt.", "category": "historical", "coords": [32.403002, 34.759413]}, {"name": "Catacombs", "text": "Antike unterirdische Grabanlagen und Gänge in Paphos.", "category": "historical", "coords": [32.422875, 34.774796]}, {"name": "Eastern Necropolis", "text": "Eine antike Nekropole im östlichen Teil von Paphos.", "category": "historical", "coords": [32.418051, 34.755715]}, {"name": "WW II's Paphos volunteers", "text": "Ein Denkmal für die Freiwilligen aus Paphos im Zweiten Weltkrieg.", "category": "historical", "coords": [32.427881, 34.772257]}, {"name": "Old windmill ruins", "text": "Überreste alter Windmühlen in Paphos, die Zeugnis der früheren Wirtschaft ablegen.", "category": "historical", "coords": [32.42513, 34.772025]}, {"name": "Spyros Kiprianos Bust", "text": "Eine Büste in Paphos zur Erinnerung an Spyros Kiprianos.", "category": "historical", "coords": [32.418583, 34.762263]}, {"name": "Evagoras Pallikarides Statue", "text": "Ein Denkmal in Paphos, das dem zypriotischen Freiheitskämpfer Evagoras Pallikarides gewidmet ist.", "category": "historical", "coords": [32.423779, 34.773922]}, {"name": "Resistance Bus", "text": "Ein historisches Denkmal in Paphos, das an den zypriotischen Widerstand erinnert.", "category": "historical", "coords": [32.441188, 34.788674]}, {"name": "Haus des Orpheus", "text": "Überreste eines antiken römischen Hauses in Paphos, bekannt für seine mythologischen Mosaike.", "category": "historical", "coords": [32.403696, 34.756753]}, {"name": "Toumpallos", "text": "Archäologische Ausgrabungsstätte mit antiken Ruinen in der Nähe des Hafens von Paphos.", "category": "historical", "coords": [32.410181, 34.762451]}, {"name": "Medieval baths (1191-1489)", "text": "Historische Ruinen mittelalterlicher Badeanlagen aus der Zeit der Lusignans in Paphos.", "category": "historical", "coords": [32.414863, 34.759606]}, {"name": "Amphitheater", "text": "Überreste eines antiken griechisch-römischen Amphitheaters in der Stadt Paphos.", "category": "historical", "coords": [32.41394, 34.761212]}, {"name": "Basilica of Panagia Limeniotissa", "text": "Ruinen einer frühchristlichen Basilika in der Nähe des Hafens von Paphos.", "category": "historical", "coords": [32.407848, 34.755764]}, {"name": "Castle Square", "text": "Ein öffentlicher Platz am Schloss von Paphos, der oft für kulturelle Veranstaltungen genutzt wird.", "category": "cultural", "coords": [32.407322, 34.753903]}, {"name": "Markideion Theater", "text": "Ein bedeutendes Theater in Paphos, in dem verschiedene kulturelle Aufführungen stattfinden.", "category": "cultural", "coords": [32.423138, 34.778183]}, {"name": "Municipal Gallery", "text": "Die städtische Kunstgalerie von Paphos mit Werken lokaler und zypriotischer Künstler.", "category": "cultural", "coords": [32.420521, 34.774014]}, {"name": "Polychoros politismoy Palia Ilektriki", "text": "Ein Kulturzentrum in einem ehemaligen Elektrizitätswerk in Paphos.", "category": "cultural", "coords": [32.42191, 34.776549]}, {"name": "Circle Creative Space", "text": "Ein kreativer Raum in Paphos für Kunstausstellungen und Workshops.", "category": "cultural", "coords": [32.429912, 34.784095]}, {"name": "Home of Arts & Literature", "text": "Ein Zentrum in Paphos, das der Förderung von Kunst und Literatur gewidmet ist.", "category": "cultural", "coords": [32.423317, 34.780893]}, {"name": "WaveDancer Cruises", "text": "Ein beliebtes Ausflugsschiff in Paphos, das verschiedene Kreuzfahrten und Veranstaltungen anbietet.", "category": "landmark", "coords": [32.408779, 34.755036]}, {"name": "Agios Lambrianos Catacombs", "text": "Antike unterirdische Grabanlagen in Paphos, die als Katakomben bekannt sind.", "category": "landmark", "coords": [32.412094, 34.761827]}, {"name": "Pachyammos Beach", "text": "Ein Strandresort in Paphos für erholsame Urlaubstage am Mittelmeer.", "category": "family", "coords": [32.425813, 34.743689]}, {"name": "Geroskipou Municipal Swimming Pool", "text": "Das städtische Schwimmbad von Geroskipou in Paphos bietet gute Sportmöglichkeiten.", "category": "family", "coords": [32.441268, 34.744709]}, {"name": "Hamam", "text": "Ein öffentliches Bad in Paphos für Wellness und Entspannung.", "category": "family", "coords": [32.41077, 34.759098]}, {"name": "Splash Pool", "text": "Ein Schwimmbad in Paphos mit Attraktionen für Kinder.", "category": "family", "coords": [32.434335, 34.745439]}, {"name": "Lagoon Pool", "text": "Ein weitläufiger Lagunenpool in Paphos für entspanntes Schwimmen.", "category": "family", "coords": [32.431409, 34.744228]}, {"name": "Alykes Beach", "text": "Ein beliebter Strand in Paphos für Sonne und Meer.", "category": "family", "coords": [32.416996, 34.754775]}], "hu": [{"name": "Saranta Kolones", "text": "Középkori várrom Paphosban, amely számos oszlopáról ismert.", "category": "castle", "coords": [32.409716, 34.757599]}, {"name": "Ottoman Hamam", "text": "Hagyományos oszmán fürdő Paphosban, amely a történelmi fürdőkultúrát mutatja be.", "category": "landmark", "coords": [32.419428, 34.777518]}, {"name": "Paphos Archaeological Museum", "text": "A Paphosi Régészeti Múzeum a régió leleteit őrzi az újkőkorszaktól a középkorig.", "category": "museum", "coords": [32.430326, 34.771814]}, {"name": "Tafos", "text": "Ókori sírhely a híres paphosi Királysírok területén.", "category": "historical", "coords": [32.40507, 34.776461]}, {"name": "Tafos 6", "text": "Paphos ókori temetkezési építészetének egy újabb példája.", "category": "historical", "coords": [32.405067, 34.777836]}, {"name": "Tafos 2", "text": "Történelmi síremlék a paphosi Királysírok nekropoliszában.", "category": "historical", "coords": [32.405706, 34.774785]}, {"name": "Tafos 1", "text": "Az első síremlék a paphosi régészeti lelőhely sorozatában.", "category": "historical", "coords": [32.407002, 34.774793]}, {"name": "Paphos amphitheatre", "text": "Ókori amfiteátrum Paphosban, amelyet történelmi előadásokhoz használtak.", "category": "historical", "coords": [32.405321, 34.754957]}, {"name": "Roman Odeon", "text": "Kisméretű római színház Paphosban, amelyet ma kulturális rendezvényekre használnak.", "category": "historical", "coords": [32.407142, 34.76025]}, {"name": "House of Aion", "text": "Római ház romjai Paphosban, amely jól megőrzött mozaikjairól híres.", "category": "historical", "coords": [32.405584, 34.756724]}, {"name": "Panagia Theoskepasti", "text": "Ortodox templom Paphosban, amely a kikötő feletti sziklán található.", "category": "religious", "coords": [32.415788, 34.757121]}, {"name": "Agia Kyriaki Chrisopolitissa", "text": "Bizánci templom Paphosban, amely a Szent Pál-oszlopról ismert.", "category": "religious", "coords": [32.414274, 34.757853]}, {"name": "Kathedrikos Naos Agioy Theodoroy", "text": "Szent Tivadarnak szentelt vallási épület Paphosban.", "category": "religious", "coords": [32.420615, 34.772744]}, {"name": "Ayioi Anargiroi", "text": "A Szent Anargyroi tiszteletére szentelt templom Paphosban.", "category": "religious", "coords": [32.417119, 34.76213]}, {"name": "Agios Georgios", "text": "Szent Györgynek szentelt kegyhely Paphosban.", "category": "religious", "coords": [32.415354, 34.758663]}, {"name": "Agios Antonios", "text": "Szent Antalnak szentelt történelmi templom Paphosban.", "category": "religious", "coords": [32.417299, 34.757587]}, {"name": "Agia Faneromeni", "text": "Szent Faneromeninek szentelt kegyhely Paphosban.", "category": "religious", "coords": [32.416101, 34.760423]}, {"name": "Fabrica Hill", "text": "Domb Paphosban ókori kőbányákkal, sírokkal és vallási helyszínekkel.", "category": "landmark", "coords": [32.413189, 34.762244]}, {"name": "The House of Dionysos", "text": "Római villa Paphosban, amely mitológiai jeleneteket ábrázoló pompás mozaikjairól ismert.", "category": "landmark", "coords": [32.406059, 34.758199]}, {"name": "Lighthouse Beach", "text": "Páfosz jellegzetes világítótornya alatt húzódik ez a rendkívül népszerű ciprusi partszakasz. A tenger és a büszke tengerészeti építészet festői kapcsolata különösen nyugodt hangulatot teremt. A vendégek élvezhetik a kényelmes tengerparti sétákat, a napozást és a kellemes csobbanást a vízbe. Egy késő délutáni látogatást gyakran lélegzetelállítóan szép naplemente koronáz meg.", "category": "recreational", "coords": [32.406249, 34.764387]}, {"name": "Psifida", "text": "Galéria Paphosban, ahol különféle műalkotások és mozaikok láthatók.", "category": "museum", "coords": [32.412646, 34.763942]}, {"name": "Tafos 9", "text": "Újabb ókori síremlék Paphos régészeti parkjában.", "category": "historical", "coords": [32.40679, 34.776332]}, {"name": "Cut through old city wall", "text": "Régészeti helyszín Paphosban, amely a régi városfal egyik áttörését mutatja be.", "category": "historical", "coords": [32.403002, 34.759413]}, {"name": "Catacombs", "text": "Ókori föld alatti sírkamrák és járatok Paphosban.", "category": "historical", "coords": [32.422875, 34.774796]}, {"name": "Eastern Necropolis", "text": "Ókori nekropolisz Paphos keleti részén.", "category": "historical", "coords": [32.418051, 34.755715]}, {"name": "WW II's Paphos volunteers", "text": "Emlékmű a második világháború paphosi önkénteseinek tiszteletére.", "category": "historical", "coords": [32.427881, 34.772257]}, {"name": "Old windmill ruins", "text": "Régi szélmalmok maradványai Paphosban, amelyek a korábbi gazdaság emlékei.", "category": "historical", "coords": [32.42513, 34.772025]}, {"name": "Spyros Kiprianos Bust", "text": "Spyros Kiprianos emlékére állított mellszobor Paphosban.", "category": "historical", "coords": [32.418583, 34.762263]}, {"name": "Evagoras Pallikarides Statue", "text": "Paphos városában található emlékmű, melyet Evagorasz Pallikaridesz ciprusi szabadságharcos emlékére emeltek.", "category": "historical", "coords": [32.423779, 34.773922]}, {"name": "Resistance Bus", "text": "Történelmi emlékmű Paphosban, amely a ciprusi ellenállásnak állít emléket.", "category": "historical", "coords": [32.441188, 34.788674]}, {"name": "The House of Orpheus", "text": "Egy ókori római ház maradványai Paphosban, amely mitológiai mozaikjairól ismert.", "category": "historical", "coords": [32.403696, 34.756753]}, {"name": "Toumpallos", "text": "Régészeti lelőhely ókori romokkal Paphos kikötőjének közelében.", "category": "historical", "coords": [32.410181, 34.762451]}, {"name": "Medieval baths (1191-1489)", "text": "Középkori fürdők történelmi romjai a luzignáni korszakból Paphosban.", "category": "historical", "coords": [32.414863, 34.759606]}, {"name": "Amphitheater", "text": "Egy ókori görög-római amfiteátrum maradványai Paphos városában.", "category": "historical", "coords": [32.41394, 34.761212]}, {"name": "Basilica of Panagia Limeniotissa", "text": "Egy kora keresztény bazilika romjai Paphos kikötőjének közelében.", "category": "historical", "coords": [32.407848, 34.755764]}, {"name": "Castle Square", "text": "Nyilvános tér a paphosi várnál, amelyet gyakran használnak kulturális eseményekre.", "category": "cultural", "coords": [32.407322, 34.753903]}, {"name": "Markideion Theater", "text": "Paphos egyik jelentős színháza, amely különféle kulturális előadásoknak ad otthont.", "category": "cultural", "coords": [32.423138, 34.778183]}, {"name": "Municipal Gallery", "text": "Paphos városi művészeti galériája, amely helyi és ciprusi művészek alkotásait mutatja be.", "category": "cultural", "coords": [32.420521, 34.774014]}, {"name": "Polychoros politismoy Palia Ilektriki", "text": "Kulturális központ egy egykori elektromos művek épületében Paphosban.", "category": "cultural", "coords": [32.42191, 34.776549]}, {"name": "Circle Creative Space", "text": "Kreatív központ Paphosban művészeti kiállítások és workshopok számára.", "category": "cultural", "coords": [32.429912, 34.784095]}, {"name": "Home of Arts & Literature", "text": "A művészetek és az irodalom népszerűsítésének szentelt központ Paphosban.", "category": "cultural", "coords": [32.423317, 34.780893]}, {"name": "WaveDancer Cruises", "text": "Népszerű kirándulóhajó Paphosban, amely különféle hajóutakat és eseményeket kínál.", "category": "landmark", "coords": [32.408779, 34.755036]}, {"name": "Agios Lambrianos Catacombs", "text": "Katakombákként ismert ókori földalatti sírrendszer Paphosban.", "category": "landmark", "coords": [32.412094, 34.761827]}, {"name": "Pachyammos Beach", "text": "Tengerparti üdülőhely Paphosban, ideális a mediterrán pihenéshez.", "category": "family", "coords": [32.425813, 34.743689]}, {"name": "Geroskipou Municipal Swimming Pool", "text": "Geroskipou városi uszodája Paphosban, kiváló lehetőséget nyújt a sportolásra.", "category": "family", "coords": [32.441268, 34.744709]}, {"name": "Hamam", "text": "Nyilvános fürdő Paphosban, ahol a látogatók kipihenhetik a mindennapok fáradalmait.", "category": "family", "coords": [32.41077, 34.759098]}, {"name": "Splash Pool", "text": "Úszómedence Paphosban, amely különféle attrakciókkal várja a gyermekeket.", "category": "family", "coords": [32.434335, 34.745439]}, {"name": "Lagoon Pool", "text": "Tágas lagúna-medence Paphosban, amely kellemes fürdőzési élményt nyújt.", "category": "family", "coords": [32.431409, 34.744228]}, {"name": "Alykes Beach", "text": "Népszerű strand Paphosban a napozás és a tengerparti pihenés kedvelőinek.", "category": "family", "coords": [32.416996, 34.754775]}], "ro": [{"name": "Saranta Kolones", "text": "O ruină de castel medieval din Paphos, cunoscută pentru numeroasele sale coloane.", "category": "castle", "coords": [32.409716, 34.757599]}, {"name": "Ottoman Hamam", "text": "O baie otomană tradițională din Paphos, care prezintă cultura istorică a băii.", "category": "landmark", "coords": [32.419428, 34.777518]}, {"name": "Paphos Archaeological Museum", "text": "Muzeul Arheologic din Paphos găzduiește descoperiri din regiune, din neolitic până în epoca medievală.", "category": "museum", "coords": [32.430326, 34.771814]}, {"name": "Tafos", "text": "Un mormânt antic în cadrul faimoaselor Morminte ale Regilor din Paphos.", "category": "historical", "coords": [32.40507, 34.776461]}, {"name": "Tafos 6", "text": "Un alt exemplu al arhitecturii funerare antice din Paphos.", "category": "historical", "coords": [32.405067, 34.777836]}, {"name": "Tafos 2", "text": "Un mormânt istoric în necropola Mormintelor Regilor din Paphos.", "category": "historical", "coords": [32.405706, 34.774785]}, {"name": "Tafos 1", "text": "Primul mormânt în secvența sitului arheologic din Paphos.", "category": "historical", "coords": [32.407002, 34.774793]}, {"name": "Paphos amphitheatre", "text": "Un amfiteatru antic în Paphos, folosit pentru spectacole istorice.", "category": "historical", "coords": [32.405321, 34.754957]}, {"name": "Roman Odeon", "text": "Un mic teatru roman din Paphos, folosit astăzi pentru evenimente culturale.", "category": "historical", "coords": [32.407142, 34.76025]}, {"name": "House of Aion", "text": "Ruinele unei case romane din Paphos, renumită pentru mozaicurile sale bine conservate.", "category": "historical", "coords": [32.405584, 34.756724]}, {"name": "Panagia Theoskepasti", "text": "O biserică ortodoxă din Paphos, situată pe o stâncă deasupra portului.", "category": "religious", "coords": [32.415788, 34.757121]}, {"name": "Agia Kyriaki Chrisopolitissa", "text": "O biserică bizantină din Paphos, cunoscută pentru coloana Sfântului Pavel.", "category": "religious", "coords": [32.414274, 34.757853]}, {"name": "Kathedrikos Naos Agioy Theodoroy", "text": "O clădire religioasă din Paphos dedicată Sfântului Teodor.", "category": "religious", "coords": [32.420615, 34.772744]}, {"name": "Ayioi Anargiroi", "text": "O biserică din Paphos dedicată Sfinților Anargiri.", "category": "religious", "coords": [32.417119, 34.76213]}, {"name": "Agios Georgios", "text": "Un lăcaș de cult dedicat Sfântului Gheorghe din Paphos.", "category": "religious", "coords": [32.415354, 34.758663]}, {"name": "Agios Antonios", "text": "O biserică istorică din Paphos dedicată Sfântului Anton.", "category": "religious", "coords": [32.417299, 34.757587]}, {"name": "Agia Faneromeni", "text": "Un lăcaș de cult din Paphos dedicat Sfintei Faneromeni.", "category": "religious", "coords": [32.416101, 34.760423]}, {"name": "Fabrica Hill", "text": "Un deal din Paphos cu cariere antice, morminte și situri religioase.", "category": "landmark", "coords": [32.413189, 34.762244]}, {"name": "The House of Dionysos", "text": "O vilă romană din Paphos, cunoscută pentru mozaicurile sale magnifice cu teme mitologice.", "category": "landmark", "coords": [32.406059, 34.758199]}, {"name": "Lighthouse Beach", "text": "Sub farul distinctiv din Paphos se întinde această fâșie de coastă cipriotă extrem de populară. Combinația pitorească dintre mare și mândra arhitectură maritimă creează un aer deosebit de relaxat. Oaspeții se bucură de plimbări confortabile pe plajă, de băi de soare și de o baie plăcută în apă. O vizită după-amiaza târziu este adesea răsplătită cu un apus de soare uluitor de frumos.", "category": "recreational", "coords": [32.406249, 34.764387]}, {"name": "Psifida", "text": "O galerie din Paphos care expune diverse opere de artă și mozaicuri.", "category": "museum", "coords": [32.412646, 34.763942]}, {"name": "Tafos 9", "text": "Un alt mormânt antic în cadrul parcului arheologic din Paphos.", "category": "historical", "coords": [32.40679, 34.776332]}, {"name": "Cut through old city wall", "text": "Un sit arheologic din Paphos care prezintă o secțiune prin vechiul zid al orașului.", "category": "historical", "coords": [32.403002, 34.759413]}, {"name": "Catacombs", "text": "Sisteme de morminte și pasaje subterane antice din Paphos.", "category": "historical", "coords": [32.422875, 34.774796]}, {"name": "Eastern Necropolis", "text": "O necropolă antică situată în partea de est a orașului Paphos.", "category": "historical", "coords": [32.418051, 34.755715]}, {"name": "WW II's Paphos volunteers", "text": "Un monument dedicat voluntarilor din Paphos din cel de-al Doilea Război Mondial.", "category": "historical", "coords": [32.427881, 34.772257]}, {"name": "Old windmill ruins", "text": "Resturile unor vechi mori de vânt din Paphos, care depun mărturie despre economia trecută.", "category": "historical", "coords": [32.42513, 34.772025]}, {"name": "Spyros Kiprianos Bust", "text": "Un bust în Paphos ridicat în memoria lui Spyros Kiprianos.", "category": "historical", "coords": [32.418583, 34.762263]}, {"name": "Evagoras Pallikarides Statue", "text": "Un monument în Paphos dedicat luptătorului pentru libertate cipriot Evagoras Pallikarides.", "category": "historical", "coords": [32.423779, 34.773922]}, {"name": "Resistance Bus", "text": "Un monument istoric din Paphos care comemorează rezistența cipriotă.", "category": "historical", "coords": [32.441188, 34.788674]}, {"name": "The House of Orpheus", "text": "Rămășițele unei case romane antice din Paphos, cunoscută pentru mozaicurile sale mitologice.", "category": "historical", "coords": [32.403696, 34.756753]}, {"name": "Toumpallos", "text": "Sit arheologic cu ruine antice situat în apropierea portului din Paphos.", "category": "historical", "coords": [32.410181, 34.762451]}, {"name": "Medieval baths (1191-1489)", "text": "Ruine istorice ale unor băi medievale din perioada Lusignan în Paphos.", "category": "historical", "coords": [32.414863, 34.759606]}, {"name": "Amphitheater", "text": "Rămășițele unui amfiteatru antic greco-roman în orașul Paphos.", "category": "historical", "coords": [32.41394, 34.761212]}, {"name": "Basilica of Panagia Limeniotissa", "text": "Ruinele unei bazilici creștine timpurii situate lângă portul din Paphos.", "category": "historical", "coords": [32.407848, 34.755764]}, {"name": "Castle Square", "text": "O piață publică lângă Castelul Paphos, utilizată adesea pentru evenimente culturale.", "category": "cultural", "coords": [32.407322, 34.753903]}, {"name": "Markideion Theater", "text": "Un teatru important din Paphos care găzduiește diverse spectacole culturale.", "category": "cultural", "coords": [32.423138, 34.778183]}, {"name": "Municipal Gallery", "text": "Galeria municipală din Paphos, care expune lucrări ale artiștilor locali și ciprioți.", "category": "cultural", "coords": [32.420521, 34.774014]}, {"name": "Polychoros politismoy Palia Ilektriki", "text": "Un centru cultural găzduit într-o fostă uzină electrică din Paphos.", "category": "cultural", "coords": [32.42191, 34.776549]}, {"name": "Circle Creative Space", "text": "Un spațiu creativ în Paphos pentru expoziții de artă și ateliere.", "category": "cultural", "coords": [32.429912, 34.784095]}, {"name": "Home of Arts & Literature", "text": "Un centru în Paphos dedicat promovării artelor și literaturii.", "category": "cultural", "coords": [32.423317, 34.780893]}, {"name": "WaveDancer Cruises", "text": "O navă de croazieră populară în Paphos, care oferă diverse excursii și evenimente.", "category": "landmark", "coords": [32.408779, 34.755036]}, {"name": "Agios Lambrianos Catacombs", "text": "Sisteme de morminte subterane antice din Paphos, cunoscute sub numele de catacombe.", "category": "landmark", "coords": [32.412094, 34.761827]}, {"name": "Pachyammos Beach", "text": "O stațiune de plajă în Paphos, perfectă pentru vacanțe relaxante la malul mării.", "category": "family", "coords": [32.425813, 34.743689]}, {"name": "Geroskipou Municipal Swimming Pool", "text": "Piscina municipală Geroskipou din Paphos oferă facilități bune pentru înot.", "category": "family", "coords": [32.441268, 34.744709]}, {"name": "Hamam", "text": "O baie publică în Paphos, potrivită pentru relaxare și wellness.", "category": "family", "coords": [32.41077, 34.759098]}, {"name": "Splash Pool", "text": "O piscină în Paphos cu diverse atracții acvatice pentru copii.", "category": "family", "coords": [32.434335, 34.745439]}, {"name": "Lagoon Pool", "text": "O piscină tip lagună în Paphos, ideală pentru înot și relaxare.", "category": "family", "coords": [32.431409, 34.744228]}, {"name": "Alykes Beach", "text": "O plajă populară în Paphos, excelentă pentru soare și activități la mare.", "category": "family", "coords": [32.416996, 34.754775]}], "en": [{"name": "Saranta Kolones", "text": "A medieval castle ruin in Paphos, known for its numerous columns.", "category": "castle", "coords": [32.409716, 34.757599]}, {"name": "Ottoman Hamam", "text": "A traditional Ottoman bath in Paphos showcasing historical bathing culture.", "category": "landmark", "coords": [32.419428, 34.777518]}, {"name": "Paphos Archaeological Museum", "text": "The Paphos Archaeological Museum houses finds from the region ranging from the Neolithic to the medieval period.", "category": "museum", "coords": [32.430326, 34.771814]}, {"name": "Kings Tomb 8", "text": "An ancient burial site within the famous Tombs of the Kings in Paphos.", "category": "historical", "coords": [32.40507, 34.776461]}, {"name": "Tomb 6", "text": "Another example of ancient burial architecture in Paphos.", "category": "historical", "coords": [32.405067, 34.777836]}, {"name": "Tomb 2", "text": "A historical tomb in the necropolis of the Tombs of the Kings in Paphos.", "category": "historical", "coords": [32.405706, 34.774785]}, {"name": "Tomb 1", "text": "The first tomb in the sequence of the archaeological site in Paphos.", "category": "historical", "coords": [32.407002, 34.774793]}, {"name": "Paphos amphitheatre", "text": "An ancient amphitheatre in Paphos used for historical performances.", "category": "historical", "coords": [32.405321, 34.754957]}, {"name": "Roman Odeon", "text": "A small Roman theatre in Paphos, now used for cultural events.", "category": "historical", "coords": [32.407142, 34.76025]}, {"name": "House of Aion", "text": "Ruins of a Roman house in Paphos, famous for its well-preserved mosaics.", "category": "historical", "coords": [32.405584, 34.756724]}, {"name": "Panagia Theoskepasti", "text": "An Orthodox church in Paphos situated on a rock overlooking the harbour.", "category": "religious", "coords": [32.415788, 34.757121]}, {"name": "Agia Kyriaki Chrisopolitissa", "text": "A Byzantine church in Paphos known for Saint Paul's Pillar.", "category": "religious", "coords": [32.414274, 34.757853]}, {"name": "Agios Theodoros", "text": "A religious building in Paphos dedicated to Saint Theodoros.", "category": "religious", "coords": [32.420615, 34.772744]}, {"name": "Ayioi Anargiroi", "text": "A church in Paphos dedicated to the Holy Anargiroi.", "category": "religious", "coords": [32.417119, 34.76213]}, {"name": "Agios Georgios", "text": "A place of worship dedicated to Saint George in Paphos.", "category": "religious", "coords": [32.415354, 34.758663]}, {"name": "Agios Antonios", "text": "A historical church in Paphos dedicated to Saint Anthony.", "category": "religious", "coords": [32.417299, 34.757587]}, {"name": "Agia Faneromeni", "text": "A place of worship in Paphos dedicated to Saint Faneromeni.", "category": "religious", "coords": [32.416101, 34.760423]}, {"name": "Fabrica Hill", "text": "A hill in Paphos featuring ancient quarries, tombs, and religious sites.", "category": "landmark", "coords": [32.413189, 34.762244]}, {"name": "The House of Dionysos", "text": "A Roman villa in Paphos known for its magnificent mosaics depicting mythology.", "category": "landmark", "coords": [32.406059, 34.758199]}, {"name": "Lighthouse Beach", "text": "Below the striking lighthouse of Paphos stretches this extremely popular Cypriot coastal strip. The picturesque combination of the sea and proud maritime architecture creates a particularly relaxed flair. Guests enjoy leisurely walks on the beach, sunbathing, and a pleasant jump into the water. A late afternoon visit is often rewarded with a breathtakingly beautiful sunset.", "category": "recreational", "coords": [32.406249, 34.764387]}, {"name": "Psifida", "text": "A gallery in Paphos exhibiting various artworks and mosaics.", "category": "museum", "coords": [32.412646, 34.763942]}, {"name": "Tomb 9", "text": "Another ancient tomb within the archaeological park of Paphos.", "category": "historical", "coords": [32.40679, 34.776332]}, {"name": "Cut through old city wall", "text": "An archaeological site in Paphos showing a cut through the old city wall.", "category": "historical", "coords": [32.403002, 34.759413]}, {"name": "Catacombs", "text": "Ancient underground burial chambers and passages in Paphos.", "category": "historical", "coords": [32.422875, 34.774796]}, {"name": "Eastern Necropolis", "text": "An ancient necropolis located in the eastern part of Paphos.", "category": "historical", "coords": [32.418051, 34.755715]}, {"name": "WW II's Paphos volunteers", "text": "A monument dedicated to the Paphos volunteers of World War II.", "category": "historical", "coords": [32.427881, 34.772257]}, {"name": "Old windmill ruins", "text": "Remains of old windmills in Paphos, reflecting the area's historical economy.", "category": "historical", "coords": [32.42513, 34.772025]}, {"name": "Spyros Kiprianos Bust", "text": "A bust in Paphos commemorating Spyros Kiprianos.", "category": "historical", "coords": [32.418583, 34.762263]}, {"name": "Evagoras Pallikarides Statue", "text": "A monument in Paphos dedicated to the Cypriot freedom fighter Evagoras Pallikarides.", "category": "historical", "coords": [32.423779, 34.773922]}, {"name": "Resistance Bus", "text": "A historical monument in Paphos commemorating the Cypriot resistance.", "category": "historical", "coords": [32.441188, 34.788674]}, {"name": "The House of Orpheus", "text": "Remains of an ancient Roman house in Paphos, known for its mythological mosaics.", "category": "historical", "coords": [32.403696, 34.756753]}, {"name": "Toumpallos", "text": "Archaeological site featuring ancient ruins located near the Paphos harbor.", "category": "historical", "coords": [32.410181, 34.762451]}, {"name": "Medieval baths (1191-1489)", "text": "Historical ruins of medieval baths from the Lusignan period in Paphos.", "category": "historical", "coords": [32.414863, 34.759606]}, {"name": "Amphitheater", "text": "Remains of an ancient Greco-Roman amphitheater in the city of Paphos.", "category": "historical", "coords": [32.41394, 34.761212]}, {"name": "Basilica of Panagia Limeniotissa", "text": "Ruins of an early Christian basilica located near the Paphos harbor.", "category": "historical", "coords": [32.407848, 34.755764]}, {"name": "Castle Square", "text": "A public square by Paphos Castle, often used for cultural events and performances.", "category": "cultural", "coords": [32.407322, 34.753903]}, {"name": "Markideion Theater", "text": "A prominent theater in Paphos hosting various cultural performances.", "category": "cultural", "coords": [32.423138, 34.778183]}, {"name": "Municipal Gallery", "text": "The municipal art gallery of Paphos, showcasing works by local and Cypriot artists.", "category": "cultural", "coords": [32.420521, 34.774014]}, {"name": "Polychoros politismoy Palia Ilektriki", "text": "A cultural center housed in a former electricity works building in Paphos.", "category": "cultural", "coords": [32.42191, 34.776549]}, {"name": "Circle Creative Space", "text": "A creative space in Paphos for art exhibitions and workshops.", "category": "cultural", "coords": [32.429912, 34.784095]}, {"name": "Home of Arts & Literature", "text": "A center in Paphos dedicated to the promotion of arts and literature.", "category": "cultural", "coords": [32.423317, 34.780893]}, {"name": "WaveDancer", "text": "A popular excursion ship in Paphos offering various cruises and events.", "category": "landmark", "coords": [32.408779, 34.755036]}, {"name": "Agios Lambrianos Catacombs", "text": "Ancient underground burial chambers in Paphos known as catacombs.", "category": "landmark", "coords": [32.412094, 34.761827]}, {"name": "Pachyammos Beach", "text": "A beach resort in Paphos ideal for relaxing Mediterranean holidays.", "category": "family", "coords": [32.425813, 34.743689]}, {"name": "Geroskipou Municipal Swimming Pool", "text": "The Geroskipou Municipal Swimming Pool in Paphos offers good facilities for sports.", "category": "family", "coords": [32.441268, 34.744709]}, {"name": "Hamam", "text": "A public bath in Paphos providing a space for wellness and relaxation.", "category": "family", "coords": [32.41077, 34.759098]}, {"name": "Splash Pool", "text": "A swimming pool in Paphos featuring water attractions for children.", "category": "family", "coords": [32.434335, 34.745439]}, {"name": "Lagoon Pool", "text": "A spacious lagoon pool in Paphos offering a relaxing swimming experience.", "category": "family", "coords": [32.431409, 34.744228]}, {"name": "Alykes Beach", "text": "A popular beach in Paphos perfect for enjoying the sun and the sea.", "category": "family", "coords": [32.416996, 34.754775]}]},
+    id: "cy-paphos", "sights": {
+      "de": [
+            {
+                  "name": "Saranta Kolones",
+                  "text": "Eine mittelalterliche Burgruine in Paphos, bekannt für ihre zahlreichen Säulen.",
+                  "category": "castle",
+                  "coords": [
+                        32.409716,
+                        34.757599
+                  ]
+            },
+            {
+                  "name": "Ottoman Hamam",
+                  "text": "Ein traditionelles osmanisches Bad in Paphos, das die historische Badekultur zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        32.419428,
+                        34.777518
+                  ]
+            },
+            {
+                  "name": "Paphos Archaeological Museum",
+                  "text": "Das archäologische Museum von Paphos beherbergt Funde aus der Region von der Jungsteinzeit bis zum Mittelalter.",
+                  "category": "museum",
+                  "coords": [
+                        32.430326,
+                        34.771814
+                  ]
+            },
+            {
+                  "name": "Tafos",
+                  "text": "Eine antike Grabstätte innerhalb der berühmten Königsgräber von Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.40507,
+                        34.776461
+                  ]
+            },
+            {
+                  "name": "Tafos 6",
+                  "text": "Ein weiteres Beispiel für die antike Bestattungsarchitektur in Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.405067,
+                        34.777836
+                  ]
+            },
+            {
+                  "name": "Tafos 2",
+                  "text": "Ein historisches Grabmal in der Nekropole der Königsgräber von Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.405706,
+                        34.774785
+                  ]
+            },
+            {
+                  "name": "Tafos 1",
+                  "text": "Das erste Grabmal in der Abfolge der archäologischen Stätte in Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.407002,
+                        34.774793
+                  ]
+            },
+            {
+                  "name": "Paphos amphitheatre",
+                  "text": "Ein antikes Amphitheater in Paphos, das für historische Aufführungen genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        32.405321,
+                        34.754957
+                  ]
+            },
+            {
+                  "name": "Roman Odeon",
+                  "text": "Ein kleines römisches Theater in Paphos, das heute für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        32.407142,
+                        34.76025
+                  ]
+            },
+            {
+                  "name": "Haus des Aion",
+                  "text": "Ruinen eines römischen Hauses in Paphos, berühmt für seine gut erhaltenen Mosaike.",
+                  "category": "historical",
+                  "coords": [
+                        32.405584,
+                        34.756724
+                  ]
+            },
+            {
+                  "name": "Panagia Theoskepasti",
+                  "text": "Eine orthodoxe Kirche in Paphos, die auf einem Felsen über dem Hafen liegt.",
+                  "category": "religious",
+                  "coords": [
+                        32.415788,
+                        34.757121
+                  ]
+            },
+            {
+                  "name": "Agia Kyriaki Chrisopolitissa",
+                  "text": "Eine byzantinische Kirche in Paphos, die für die Paulus-Säule bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        32.414274,
+                        34.757853
+                  ]
+            },
+            {
+                  "name": "Kathedrikos Naos Agioy Theodoroy",
+                  "text": "Ein religiöses Gebäude in Paphos, das dem Heiligen Theodor gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        32.420615,
+                        34.772744
+                  ]
+            },
+            {
+                  "name": "Ayioi Anargiroi",
+                  "text": "Eine Kirche in Paphos, die den heiligen Anargyroi gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        32.417119,
+                        34.76213
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Eine dem Heiligen Georg gewidmete Kultstätte in Paphos.",
+                  "category": "religious",
+                  "coords": [
+                        32.415354,
+                        34.758663
+                  ]
+            },
+            {
+                  "name": "Agios Antonios",
+                  "text": "Eine historische Kirche in Paphos, die dem Heiligen Antonius gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        32.417299,
+                        34.757587
+                  ]
+            },
+            {
+                  "name": "Agia Faneromeni",
+                  "text": "Eine Kultstätte in Paphos, die der Heiligen Faneromeni gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        32.416101,
+                        34.760423
+                  ]
+            },
+            {
+                  "name": "Fabrica Hill",
+                  "text": "Ein Hügel in Paphos mit antiken Steinbrüchen, Gräbern und religiösen Stätten.",
+                  "category": "landmark",
+                  "coords": [
+                        32.413189,
+                        34.762244
+                  ]
+            },
+            {
+                  "name": "Haus des Dionysos",
+                  "text": "Eine römische Villa in Paphos, bekannt für ihre prächtigen Mosaike aus der Mythologie.",
+                  "category": "landmark",
+                  "coords": [
+                        32.406059,
+                        34.758199
+                  ]
+            },
+            {
+                  "name": "Psifida",
+                  "text": "Eine Galerie in Paphos, die verschiedene Kunstwerke und Mosaike ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        32.412646,
+                        34.763942
+                  ]
+            },
+            {
+                  "name": "Tafos 9",
+                  "text": "Ein weiteres antikes Grabmal innerhalb des archäologischen Parks von Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.40679,
+                        34.776332
+                  ]
+            },
+            {
+                  "name": "Cut through old city wall",
+                  "text": "Eine archäologische Stätte in Paphos, die einen Durchbruch der alten Stadtmauer zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        32.403002,
+                        34.759413
+                  ]
+            },
+            {
+                  "name": "Catacombs",
+                  "text": "Antike unterirdische Grabanlagen und Gänge in Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.422875,
+                        34.774796
+                  ]
+            },
+            {
+                  "name": "Eastern Necropolis",
+                  "text": "Eine antike Nekropole im östlichen Teil von Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.418051,
+                        34.755715
+                  ]
+            },
+            {
+                  "name": "WW II's Paphos volunteers",
+                  "text": "Ein Denkmal für die Freiwilligen aus Paphos im Zweiten Weltkrieg.",
+                  "category": "historical",
+                  "coords": [
+                        32.427881,
+                        34.772257
+                  ]
+            },
+            {
+                  "name": "Old windmill ruins",
+                  "text": "Überreste alter Windmühlen in Paphos, die Zeugnis der früheren Wirtschaft ablegen.",
+                  "category": "historical",
+                  "coords": [
+                        32.42513,
+                        34.772025
+                  ]
+            },
+            {
+                  "name": "Spyros Kiprianos Bust",
+                  "text": "Eine Büste in Paphos zur Erinnerung an Spyros Kiprianos.",
+                  "category": "historical",
+                  "coords": [
+                        32.418583,
+                        34.762263
+                  ]
+            },
+            {
+                  "name": "Evagoras Pallikarides Statue",
+                  "text": "Ein Denkmal in Paphos, das dem zypriotischen Freiheitskämpfer Evagoras Pallikarides gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        32.423779,
+                        34.773922
+                  ]
+            },
+            {
+                  "name": "Resistance Bus",
+                  "text": "Ein historisches Denkmal in Paphos, das an den zypriotischen Widerstand erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        32.441188,
+                        34.788674
+                  ]
+            },
+            {
+                  "name": "Haus des Orpheus",
+                  "text": "Überreste eines antiken römischen Hauses in Paphos, bekannt für seine mythologischen Mosaike.",
+                  "category": "historical",
+                  "coords": [
+                        32.403696,
+                        34.756753
+                  ]
+            },
+            {
+                  "name": "Toumpallos",
+                  "text": "Archäologische Ausgrabungsstätte mit antiken Ruinen in der Nähe des Hafens von Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.410181,
+                        34.762451
+                  ]
+            },
+            {
+                  "name": "Medieval baths (1191-1489)",
+                  "text": "Historische Ruinen mittelalterlicher Badeanlagen aus der Zeit der Lusignans in Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.414863,
+                        34.759606
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Überreste eines antiken griechisch-römischen Amphitheaters in der Stadt Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.41394,
+                        34.761212
+                  ]
+            },
+            {
+                  "name": "Basilica of Panagia Limeniotissa",
+                  "text": "Ruinen einer frühchristlichen Basilika in der Nähe des Hafens von Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.407848,
+                        34.755764
+                  ]
+            },
+            {
+                  "name": "Castle Square",
+                  "text": "Ein öffentlicher Platz am Schloss von Paphos, der oft für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        32.407322,
+                        34.753903
+                  ]
+            },
+            {
+                  "name": "Markideion Theater",
+                  "text": "Ein bedeutendes Theater in Paphos, in dem verschiedene kulturelle Aufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        32.423138,
+                        34.778183
+                  ]
+            },
+            {
+                  "name": "Municipal Gallery",
+                  "text": "Die städtische Kunstgalerie von Paphos mit Werken lokaler und zypriotischer Künstler.",
+                  "category": "cultural",
+                  "coords": [
+                        32.420521,
+                        34.774014
+                  ]
+            },
+            {
+                  "name": "Polychoros politismoy Palia Ilektriki",
+                  "text": "Ein Kulturzentrum in einem ehemaligen Elektrizitätswerk in Paphos.",
+                  "category": "cultural",
+                  "coords": [
+                        32.42191,
+                        34.776549
+                  ]
+            },
+            {
+                  "name": "Circle Creative Space",
+                  "text": "Ein kreativer Raum in Paphos für Kunstausstellungen und Workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        32.429912,
+                        34.784095
+                  ]
+            },
+            {
+                  "name": "Home of Arts & Literature",
+                  "text": "Ein Zentrum in Paphos, das der Förderung von Kunst und Literatur gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        32.423317,
+                        34.780893
+                  ]
+            },
+            {
+                  "name": "WaveDancer Cruises",
+                  "text": "Ein beliebtes Ausflugsschiff in Paphos, das verschiedene Kreuzfahrten und Veranstaltungen anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        32.408779,
+                        34.755036
+                  ]
+            },
+            {
+                  "name": "Agios Lambrianos Catacombs",
+                  "text": "Antike unterirdische Grabanlagen in Paphos, die als Katakomben bekannt sind.",
+                  "category": "landmark",
+                  "coords": [
+                        32.412094,
+                        34.761827
+                  ]
+            },
+            {
+                  "name": "Geroskipou Municipal Swimming Pool",
+                  "text": "Das städtische Schwimmbad von Geroskipou in Paphos bietet gute Sportmöglichkeiten.",
+                  "category": "family",
+                  "coords": [
+                        32.441268,
+                        34.744709
+                  ]
+            },
+            {
+                  "name": "Hamam",
+                  "text": "Ein öffentliches Bad in Paphos für Wellness und Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        32.41077,
+                        34.759098
+                  ]
+            },
+            {
+                  "name": "Splash Pool",
+                  "text": "Ein Schwimmbad in Paphos mit Attraktionen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        32.434335,
+                        34.745439
+                  ]
+            },
+            {
+                  "name": "Lagoon Pool",
+                  "text": "Ein weitläufiger Lagunenpool in Paphos für entspanntes Schwimmen.",
+                  "category": "family",
+                  "coords": [
+                        32.431409,
+                        34.744228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saranta Kolones",
+                  "text": "Középkori várrom Paphosban, amely számos oszlopáról ismert.",
+                  "category": "castle",
+                  "coords": [
+                        32.409716,
+                        34.757599
+                  ]
+            },
+            {
+                  "name": "Ottoman Hamam",
+                  "text": "Hagyományos oszmán fürdő Paphosban, amely a történelmi fürdőkultúrát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        32.419428,
+                        34.777518
+                  ]
+            },
+            {
+                  "name": "Paphos Archaeological Museum",
+                  "text": "A Paphosi Régészeti Múzeum a régió leleteit őrzi az újkőkorszaktól a középkorig.",
+                  "category": "museum",
+                  "coords": [
+                        32.430326,
+                        34.771814
+                  ]
+            },
+            {
+                  "name": "Tafos",
+                  "text": "Ókori sírhely a híres paphosi Királysírok területén.",
+                  "category": "historical",
+                  "coords": [
+                        32.40507,
+                        34.776461
+                  ]
+            },
+            {
+                  "name": "Tafos 6",
+                  "text": "Paphos ókori temetkezési építészetének egy újabb példája.",
+                  "category": "historical",
+                  "coords": [
+                        32.405067,
+                        34.777836
+                  ]
+            },
+            {
+                  "name": "Tafos 2",
+                  "text": "Történelmi síremlék a paphosi Királysírok nekropoliszában.",
+                  "category": "historical",
+                  "coords": [
+                        32.405706,
+                        34.774785
+                  ]
+            },
+            {
+                  "name": "Tafos 1",
+                  "text": "Az első síremlék a paphosi régészeti lelőhely sorozatában.",
+                  "category": "historical",
+                  "coords": [
+                        32.407002,
+                        34.774793
+                  ]
+            },
+            {
+                  "name": "Paphos amphitheatre",
+                  "text": "Ókori amfiteátrum Paphosban, amelyet történelmi előadásokhoz használtak.",
+                  "category": "historical",
+                  "coords": [
+                        32.405321,
+                        34.754957
+                  ]
+            },
+            {
+                  "name": "Roman Odeon",
+                  "text": "Kisméretű római színház Paphosban, amelyet ma kulturális rendezvényekre használnak.",
+                  "category": "historical",
+                  "coords": [
+                        32.407142,
+                        34.76025
+                  ]
+            },
+            {
+                  "name": "House of Aion",
+                  "text": "Római ház romjai Paphosban, amely jól megőrzött mozaikjairól híres.",
+                  "category": "historical",
+                  "coords": [
+                        32.405584,
+                        34.756724
+                  ]
+            },
+            {
+                  "name": "Panagia Theoskepasti",
+                  "text": "Ortodox templom Paphosban, amely a kikötő feletti sziklán található.",
+                  "category": "religious",
+                  "coords": [
+                        32.415788,
+                        34.757121
+                  ]
+            },
+            {
+                  "name": "Agia Kyriaki Chrisopolitissa",
+                  "text": "Bizánci templom Paphosban, amely a Szent Pál-oszlopról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        32.414274,
+                        34.757853
+                  ]
+            },
+            {
+                  "name": "Kathedrikos Naos Agioy Theodoroy",
+                  "text": "Szent Tivadarnak szentelt vallási épület Paphosban.",
+                  "category": "religious",
+                  "coords": [
+                        32.420615,
+                        34.772744
+                  ]
+            },
+            {
+                  "name": "Ayioi Anargiroi",
+                  "text": "A Szent Anargyroi tiszteletére szentelt templom Paphosban.",
+                  "category": "religious",
+                  "coords": [
+                        32.417119,
+                        34.76213
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Szent Györgynek szentelt kegyhely Paphosban.",
+                  "category": "religious",
+                  "coords": [
+                        32.415354,
+                        34.758663
+                  ]
+            },
+            {
+                  "name": "Agios Antonios",
+                  "text": "Szent Antalnak szentelt történelmi templom Paphosban.",
+                  "category": "religious",
+                  "coords": [
+                        32.417299,
+                        34.757587
+                  ]
+            },
+            {
+                  "name": "Agia Faneromeni",
+                  "text": "Szent Faneromeninek szentelt kegyhely Paphosban.",
+                  "category": "religious",
+                  "coords": [
+                        32.416101,
+                        34.760423
+                  ]
+            },
+            {
+                  "name": "Fabrica Hill",
+                  "text": "Domb Paphosban ókori kőbányákkal, sírokkal és vallási helyszínekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        32.413189,
+                        34.762244
+                  ]
+            },
+            {
+                  "name": "The House of Dionysos",
+                  "text": "Római villa Paphosban, amely mitológiai jeleneteket ábrázoló pompás mozaikjairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        32.406059,
+                        34.758199
+                  ]
+            },
+            {
+                  "name": "Psifida",
+                  "text": "Galéria Paphosban, ahol különféle műalkotások és mozaikok láthatók.",
+                  "category": "museum",
+                  "coords": [
+                        32.412646,
+                        34.763942
+                  ]
+            },
+            {
+                  "name": "Tafos 9",
+                  "text": "Újabb ókori síremlék Paphos régészeti parkjában.",
+                  "category": "historical",
+                  "coords": [
+                        32.40679,
+                        34.776332
+                  ]
+            },
+            {
+                  "name": "Cut through old city wall",
+                  "text": "Régészeti helyszín Paphosban, amely a régi városfal egyik áttörését mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        32.403002,
+                        34.759413
+                  ]
+            },
+            {
+                  "name": "Catacombs",
+                  "text": "Ókori föld alatti sírkamrák és járatok Paphosban.",
+                  "category": "historical",
+                  "coords": [
+                        32.422875,
+                        34.774796
+                  ]
+            },
+            {
+                  "name": "Eastern Necropolis",
+                  "text": "Ókori nekropolisz Paphos keleti részén.",
+                  "category": "historical",
+                  "coords": [
+                        32.418051,
+                        34.755715
+                  ]
+            },
+            {
+                  "name": "WW II's Paphos volunteers",
+                  "text": "Emlékmű a második világháború paphosi önkénteseinek tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        32.427881,
+                        34.772257
+                  ]
+            },
+            {
+                  "name": "Old windmill ruins",
+                  "text": "Régi szélmalmok maradványai Paphosban, amelyek a korábbi gazdaság emlékei.",
+                  "category": "historical",
+                  "coords": [
+                        32.42513,
+                        34.772025
+                  ]
+            },
+            {
+                  "name": "Spyros Kiprianos Bust",
+                  "text": "Spyros Kiprianos emlékére állított mellszobor Paphosban.",
+                  "category": "historical",
+                  "coords": [
+                        32.418583,
+                        34.762263
+                  ]
+            },
+            {
+                  "name": "Evagoras Pallikarides Statue",
+                  "text": "Paphos városában található emlékmű, melyet Evagorasz Pallikaridesz ciprusi szabadságharcos emlékére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        32.423779,
+                        34.773922
+                  ]
+            },
+            {
+                  "name": "Resistance Bus",
+                  "text": "Történelmi emlékmű Paphosban, amely a ciprusi ellenállásnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        32.441188,
+                        34.788674
+                  ]
+            },
+            {
+                  "name": "The House of Orpheus",
+                  "text": "Egy ókori római ház maradványai Paphosban, amely mitológiai mozaikjairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        32.403696,
+                        34.756753
+                  ]
+            },
+            {
+                  "name": "Toumpallos",
+                  "text": "Régészeti lelőhely ókori romokkal Paphos kikötőjének közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.410181,
+                        34.762451
+                  ]
+            },
+            {
+                  "name": "Medieval baths (1191-1489)",
+                  "text": "Középkori fürdők történelmi romjai a luzignáni korszakból Paphosban.",
+                  "category": "historical",
+                  "coords": [
+                        32.414863,
+                        34.759606
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Egy ókori görög-római amfiteátrum maradványai Paphos városában.",
+                  "category": "historical",
+                  "coords": [
+                        32.41394,
+                        34.761212
+                  ]
+            },
+            {
+                  "name": "Basilica of Panagia Limeniotissa",
+                  "text": "Egy kora keresztény bazilika romjai Paphos kikötőjének közelében.",
+                  "category": "historical",
+                  "coords": [
+                        32.407848,
+                        34.755764
+                  ]
+            },
+            {
+                  "name": "Castle Square",
+                  "text": "Nyilvános tér a paphosi várnál, amelyet gyakran használnak kulturális eseményekre.",
+                  "category": "cultural",
+                  "coords": [
+                        32.407322,
+                        34.753903
+                  ]
+            },
+            {
+                  "name": "Markideion Theater",
+                  "text": "Paphos egyik jelentős színháza, amely különféle kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        32.423138,
+                        34.778183
+                  ]
+            },
+            {
+                  "name": "Municipal Gallery",
+                  "text": "Paphos városi művészeti galériája, amely helyi és ciprusi művészek alkotásait mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        32.420521,
+                        34.774014
+                  ]
+            },
+            {
+                  "name": "Polychoros politismoy Palia Ilektriki",
+                  "text": "Kulturális központ egy egykori elektromos művek épületében Paphosban.",
+                  "category": "cultural",
+                  "coords": [
+                        32.42191,
+                        34.776549
+                  ]
+            },
+            {
+                  "name": "Circle Creative Space",
+                  "text": "Kreatív központ Paphosban művészeti kiállítások és workshopok számára.",
+                  "category": "cultural",
+                  "coords": [
+                        32.429912,
+                        34.784095
+                  ]
+            },
+            {
+                  "name": "Home of Arts & Literature",
+                  "text": "A művészetek és az irodalom népszerűsítésének szentelt központ Paphosban.",
+                  "category": "cultural",
+                  "coords": [
+                        32.423317,
+                        34.780893
+                  ]
+            },
+            {
+                  "name": "WaveDancer Cruises",
+                  "text": "Népszerű kirándulóhajó Paphosban, amely különféle hajóutakat és eseményeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        32.408779,
+                        34.755036
+                  ]
+            },
+            {
+                  "name": "Agios Lambrianos Catacombs",
+                  "text": "Katakombákként ismert ókori földalatti sírrendszer Paphosban.",
+                  "category": "landmark",
+                  "coords": [
+                        32.412094,
+                        34.761827
+                  ]
+            },
+            {
+                  "name": "Geroskipou Municipal Swimming Pool",
+                  "text": "Geroskipou városi uszodája Paphosban, kiváló lehetőséget nyújt a sportolásra.",
+                  "category": "family",
+                  "coords": [
+                        32.441268,
+                        34.744709
+                  ]
+            },
+            {
+                  "name": "Hamam",
+                  "text": "Nyilvános fürdő Paphosban, ahol a látogatók kipihenhetik a mindennapok fáradalmait.",
+                  "category": "family",
+                  "coords": [
+                        32.41077,
+                        34.759098
+                  ]
+            },
+            {
+                  "name": "Splash Pool",
+                  "text": "Úszómedence Paphosban, amely különféle attrakciókkal várja a gyermekeket.",
+                  "category": "family",
+                  "coords": [
+                        32.434335,
+                        34.745439
+                  ]
+            },
+            {
+                  "name": "Lagoon Pool",
+                  "text": "Tágas lagúna-medence Paphosban, amely kellemes fürdőzési élményt nyújt.",
+                  "category": "family",
+                  "coords": [
+                        32.431409,
+                        34.744228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saranta Kolones",
+                  "text": "O ruină de castel medieval din Paphos, cunoscută pentru numeroasele sale coloane.",
+                  "category": "castle",
+                  "coords": [
+                        32.409716,
+                        34.757599
+                  ]
+            },
+            {
+                  "name": "Ottoman Hamam",
+                  "text": "O baie otomană tradițională din Paphos, care prezintă cultura istorică a băii.",
+                  "category": "landmark",
+                  "coords": [
+                        32.419428,
+                        34.777518
+                  ]
+            },
+            {
+                  "name": "Paphos Archaeological Museum",
+                  "text": "Muzeul Arheologic din Paphos găzduiește descoperiri din regiune, din neolitic până în epoca medievală.",
+                  "category": "museum",
+                  "coords": [
+                        32.430326,
+                        34.771814
+                  ]
+            },
+            {
+                  "name": "Tafos",
+                  "text": "Un mormânt antic în cadrul faimoaselor Morminte ale Regilor din Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.40507,
+                        34.776461
+                  ]
+            },
+            {
+                  "name": "Tafos 6",
+                  "text": "Un alt exemplu al arhitecturii funerare antice din Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.405067,
+                        34.777836
+                  ]
+            },
+            {
+                  "name": "Tafos 2",
+                  "text": "Un mormânt istoric în necropola Mormintelor Regilor din Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.405706,
+                        34.774785
+                  ]
+            },
+            {
+                  "name": "Tafos 1",
+                  "text": "Primul mormânt în secvența sitului arheologic din Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.407002,
+                        34.774793
+                  ]
+            },
+            {
+                  "name": "Paphos amphitheatre",
+                  "text": "Un amfiteatru antic în Paphos, folosit pentru spectacole istorice.",
+                  "category": "historical",
+                  "coords": [
+                        32.405321,
+                        34.754957
+                  ]
+            },
+            {
+                  "name": "Roman Odeon",
+                  "text": "Un mic teatru roman din Paphos, folosit astăzi pentru evenimente culturale.",
+                  "category": "historical",
+                  "coords": [
+                        32.407142,
+                        34.76025
+                  ]
+            },
+            {
+                  "name": "House of Aion",
+                  "text": "Ruinele unei case romane din Paphos, renumită pentru mozaicurile sale bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        32.405584,
+                        34.756724
+                  ]
+            },
+            {
+                  "name": "Panagia Theoskepasti",
+                  "text": "O biserică ortodoxă din Paphos, situată pe o stâncă deasupra portului.",
+                  "category": "religious",
+                  "coords": [
+                        32.415788,
+                        34.757121
+                  ]
+            },
+            {
+                  "name": "Agia Kyriaki Chrisopolitissa",
+                  "text": "O biserică bizantină din Paphos, cunoscută pentru coloana Sfântului Pavel.",
+                  "category": "religious",
+                  "coords": [
+                        32.414274,
+                        34.757853
+                  ]
+            },
+            {
+                  "name": "Kathedrikos Naos Agioy Theodoroy",
+                  "text": "O clădire religioasă din Paphos dedicată Sfântului Teodor.",
+                  "category": "religious",
+                  "coords": [
+                        32.420615,
+                        34.772744
+                  ]
+            },
+            {
+                  "name": "Ayioi Anargiroi",
+                  "text": "O biserică din Paphos dedicată Sfinților Anargiri.",
+                  "category": "religious",
+                  "coords": [
+                        32.417119,
+                        34.76213
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "Un lăcaș de cult dedicat Sfântului Gheorghe din Paphos.",
+                  "category": "religious",
+                  "coords": [
+                        32.415354,
+                        34.758663
+                  ]
+            },
+            {
+                  "name": "Agios Antonios",
+                  "text": "O biserică istorică din Paphos dedicată Sfântului Anton.",
+                  "category": "religious",
+                  "coords": [
+                        32.417299,
+                        34.757587
+                  ]
+            },
+            {
+                  "name": "Agia Faneromeni",
+                  "text": "Un lăcaș de cult din Paphos dedicat Sfintei Faneromeni.",
+                  "category": "religious",
+                  "coords": [
+                        32.416101,
+                        34.760423
+                  ]
+            },
+            {
+                  "name": "Fabrica Hill",
+                  "text": "Un deal din Paphos cu cariere antice, morminte și situri religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        32.413189,
+                        34.762244
+                  ]
+            },
+            {
+                  "name": "The House of Dionysos",
+                  "text": "O vilă romană din Paphos, cunoscută pentru mozaicurile sale magnifice cu teme mitologice.",
+                  "category": "landmark",
+                  "coords": [
+                        32.406059,
+                        34.758199
+                  ]
+            },
+            {
+                  "name": "Psifida",
+                  "text": "O galerie din Paphos care expune diverse opere de artă și mozaicuri.",
+                  "category": "museum",
+                  "coords": [
+                        32.412646,
+                        34.763942
+                  ]
+            },
+            {
+                  "name": "Tafos 9",
+                  "text": "Un alt mormânt antic în cadrul parcului arheologic din Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.40679,
+                        34.776332
+                  ]
+            },
+            {
+                  "name": "Cut through old city wall",
+                  "text": "Un sit arheologic din Paphos care prezintă o secțiune prin vechiul zid al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        32.403002,
+                        34.759413
+                  ]
+            },
+            {
+                  "name": "Catacombs",
+                  "text": "Sisteme de morminte și pasaje subterane antice din Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.422875,
+                        34.774796
+                  ]
+            },
+            {
+                  "name": "Eastern Necropolis",
+                  "text": "O necropolă antică situată în partea de est a orașului Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.418051,
+                        34.755715
+                  ]
+            },
+            {
+                  "name": "WW II's Paphos volunteers",
+                  "text": "Un monument dedicat voluntarilor din Paphos din cel de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        32.427881,
+                        34.772257
+                  ]
+            },
+            {
+                  "name": "Old windmill ruins",
+                  "text": "Resturile unor vechi mori de vânt din Paphos, care depun mărturie despre economia trecută.",
+                  "category": "historical",
+                  "coords": [
+                        32.42513,
+                        34.772025
+                  ]
+            },
+            {
+                  "name": "Spyros Kiprianos Bust",
+                  "text": "Un bust în Paphos ridicat în memoria lui Spyros Kiprianos.",
+                  "category": "historical",
+                  "coords": [
+                        32.418583,
+                        34.762263
+                  ]
+            },
+            {
+                  "name": "Evagoras Pallikarides Statue",
+                  "text": "Un monument în Paphos dedicat luptătorului pentru libertate cipriot Evagoras Pallikarides.",
+                  "category": "historical",
+                  "coords": [
+                        32.423779,
+                        34.773922
+                  ]
+            },
+            {
+                  "name": "Resistance Bus",
+                  "text": "Un monument istoric din Paphos care comemorează rezistența cipriotă.",
+                  "category": "historical",
+                  "coords": [
+                        32.441188,
+                        34.788674
+                  ]
+            },
+            {
+                  "name": "The House of Orpheus",
+                  "text": "Rămășițele unei case romane antice din Paphos, cunoscută pentru mozaicurile sale mitologice.",
+                  "category": "historical",
+                  "coords": [
+                        32.403696,
+                        34.756753
+                  ]
+            },
+            {
+                  "name": "Toumpallos",
+                  "text": "Sit arheologic cu ruine antice situat în apropierea portului din Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.410181,
+                        34.762451
+                  ]
+            },
+            {
+                  "name": "Medieval baths (1191-1489)",
+                  "text": "Ruine istorice ale unor băi medievale din perioada Lusignan în Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.414863,
+                        34.759606
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Rămășițele unui amfiteatru antic greco-roman în orașul Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.41394,
+                        34.761212
+                  ]
+            },
+            {
+                  "name": "Basilica of Panagia Limeniotissa",
+                  "text": "Ruinele unei bazilici creștine timpurii situate lângă portul din Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.407848,
+                        34.755764
+                  ]
+            },
+            {
+                  "name": "Castle Square",
+                  "text": "O piață publică lângă Castelul Paphos, utilizată adesea pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        32.407322,
+                        34.753903
+                  ]
+            },
+            {
+                  "name": "Markideion Theater",
+                  "text": "Un teatru important din Paphos care găzduiește diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        32.423138,
+                        34.778183
+                  ]
+            },
+            {
+                  "name": "Municipal Gallery",
+                  "text": "Galeria municipală din Paphos, care expune lucrări ale artiștilor locali și ciprioți.",
+                  "category": "cultural",
+                  "coords": [
+                        32.420521,
+                        34.774014
+                  ]
+            },
+            {
+                  "name": "Polychoros politismoy Palia Ilektriki",
+                  "text": "Un centru cultural găzduit într-o fostă uzină electrică din Paphos.",
+                  "category": "cultural",
+                  "coords": [
+                        32.42191,
+                        34.776549
+                  ]
+            },
+            {
+                  "name": "Circle Creative Space",
+                  "text": "Un spațiu creativ în Paphos pentru expoziții de artă și ateliere.",
+                  "category": "cultural",
+                  "coords": [
+                        32.429912,
+                        34.784095
+                  ]
+            },
+            {
+                  "name": "Home of Arts & Literature",
+                  "text": "Un centru în Paphos dedicat promovării artelor și literaturii.",
+                  "category": "cultural",
+                  "coords": [
+                        32.423317,
+                        34.780893
+                  ]
+            },
+            {
+                  "name": "WaveDancer Cruises",
+                  "text": "O navă de croazieră populară în Paphos, care oferă diverse excursii și evenimente.",
+                  "category": "landmark",
+                  "coords": [
+                        32.408779,
+                        34.755036
+                  ]
+            },
+            {
+                  "name": "Agios Lambrianos Catacombs",
+                  "text": "Sisteme de morminte subterane antice din Paphos, cunoscute sub numele de catacombe.",
+                  "category": "landmark",
+                  "coords": [
+                        32.412094,
+                        34.761827
+                  ]
+            },
+            {
+                  "name": "Geroskipou Municipal Swimming Pool",
+                  "text": "Piscina municipală Geroskipou din Paphos oferă facilități bune pentru înot.",
+                  "category": "family",
+                  "coords": [
+                        32.441268,
+                        34.744709
+                  ]
+            },
+            {
+                  "name": "Hamam",
+                  "text": "O baie publică în Paphos, potrivită pentru relaxare și wellness.",
+                  "category": "family",
+                  "coords": [
+                        32.41077,
+                        34.759098
+                  ]
+            },
+            {
+                  "name": "Splash Pool",
+                  "text": "O piscină în Paphos cu diverse atracții acvatice pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        32.434335,
+                        34.745439
+                  ]
+            },
+            {
+                  "name": "Lagoon Pool",
+                  "text": "O piscină tip lagună în Paphos, ideală pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        32.431409,
+                        34.744228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saranta Kolones",
+                  "text": "A medieval castle ruin in Paphos, known for its numerous columns.",
+                  "category": "castle",
+                  "coords": [
+                        32.409716,
+                        34.757599
+                  ]
+            },
+            {
+                  "name": "Ottoman Hamam",
+                  "text": "A traditional Ottoman bath in Paphos showcasing historical bathing culture.",
+                  "category": "landmark",
+                  "coords": [
+                        32.419428,
+                        34.777518
+                  ]
+            },
+            {
+                  "name": "Paphos Archaeological Museum",
+                  "text": "The Paphos Archaeological Museum houses finds from the region ranging from the Neolithic to the medieval period.",
+                  "category": "museum",
+                  "coords": [
+                        32.430326,
+                        34.771814
+                  ]
+            },
+            {
+                  "name": "Kings Tomb 8",
+                  "text": "An ancient burial site within the famous Tombs of the Kings in Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.40507,
+                        34.776461
+                  ]
+            },
+            {
+                  "name": "Tomb 6",
+                  "text": "Another example of ancient burial architecture in Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.405067,
+                        34.777836
+                  ]
+            },
+            {
+                  "name": "Tomb 2",
+                  "text": "A historical tomb in the necropolis of the Tombs of the Kings in Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.405706,
+                        34.774785
+                  ]
+            },
+            {
+                  "name": "Tomb 1",
+                  "text": "The first tomb in the sequence of the archaeological site in Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.407002,
+                        34.774793
+                  ]
+            },
+            {
+                  "name": "Paphos amphitheatre",
+                  "text": "An ancient amphitheatre in Paphos used for historical performances.",
+                  "category": "historical",
+                  "coords": [
+                        32.405321,
+                        34.754957
+                  ]
+            },
+            {
+                  "name": "Roman Odeon",
+                  "text": "A small Roman theatre in Paphos, now used for cultural events.",
+                  "category": "historical",
+                  "coords": [
+                        32.407142,
+                        34.76025
+                  ]
+            },
+            {
+                  "name": "House of Aion",
+                  "text": "Ruins of a Roman house in Paphos, famous for its well-preserved mosaics.",
+                  "category": "historical",
+                  "coords": [
+                        32.405584,
+                        34.756724
+                  ]
+            },
+            {
+                  "name": "Panagia Theoskepasti",
+                  "text": "An Orthodox church in Paphos situated on a rock overlooking the harbour.",
+                  "category": "religious",
+                  "coords": [
+                        32.415788,
+                        34.757121
+                  ]
+            },
+            {
+                  "name": "Agia Kyriaki Chrisopolitissa",
+                  "text": "A Byzantine church in Paphos known for Saint Paul's Pillar.",
+                  "category": "religious",
+                  "coords": [
+                        32.414274,
+                        34.757853
+                  ]
+            },
+            {
+                  "name": "Agios Theodoros",
+                  "text": "A religious building in Paphos dedicated to Saint Theodoros.",
+                  "category": "religious",
+                  "coords": [
+                        32.420615,
+                        34.772744
+                  ]
+            },
+            {
+                  "name": "Ayioi Anargiroi",
+                  "text": "A church in Paphos dedicated to the Holy Anargiroi.",
+                  "category": "religious",
+                  "coords": [
+                        32.417119,
+                        34.76213
+                  ]
+            },
+            {
+                  "name": "Agios Georgios",
+                  "text": "A place of worship dedicated to Saint George in Paphos.",
+                  "category": "religious",
+                  "coords": [
+                        32.415354,
+                        34.758663
+                  ]
+            },
+            {
+                  "name": "Agios Antonios",
+                  "text": "A historical church in Paphos dedicated to Saint Anthony.",
+                  "category": "religious",
+                  "coords": [
+                        32.417299,
+                        34.757587
+                  ]
+            },
+            {
+                  "name": "Agia Faneromeni",
+                  "text": "A place of worship in Paphos dedicated to Saint Faneromeni.",
+                  "category": "religious",
+                  "coords": [
+                        32.416101,
+                        34.760423
+                  ]
+            },
+            {
+                  "name": "Fabrica Hill",
+                  "text": "A hill in Paphos featuring ancient quarries, tombs, and religious sites.",
+                  "category": "landmark",
+                  "coords": [
+                        32.413189,
+                        34.762244
+                  ]
+            },
+            {
+                  "name": "The House of Dionysos",
+                  "text": "A Roman villa in Paphos known for its magnificent mosaics depicting mythology.",
+                  "category": "landmark",
+                  "coords": [
+                        32.406059,
+                        34.758199
+                  ]
+            },
+            {
+                  "name": "Psifida",
+                  "text": "A gallery in Paphos exhibiting various artworks and mosaics.",
+                  "category": "museum",
+                  "coords": [
+                        32.412646,
+                        34.763942
+                  ]
+            },
+            {
+                  "name": "Tomb 9",
+                  "text": "Another ancient tomb within the archaeological park of Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.40679,
+                        34.776332
+                  ]
+            },
+            {
+                  "name": "Cut through old city wall",
+                  "text": "An archaeological site in Paphos showing a cut through the old city wall.",
+                  "category": "historical",
+                  "coords": [
+                        32.403002,
+                        34.759413
+                  ]
+            },
+            {
+                  "name": "Catacombs",
+                  "text": "Ancient underground burial chambers and passages in Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.422875,
+                        34.774796
+                  ]
+            },
+            {
+                  "name": "Eastern Necropolis",
+                  "text": "An ancient necropolis located in the eastern part of Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.418051,
+                        34.755715
+                  ]
+            },
+            {
+                  "name": "WW II's Paphos volunteers",
+                  "text": "A monument dedicated to the Paphos volunteers of World War II.",
+                  "category": "historical",
+                  "coords": [
+                        32.427881,
+                        34.772257
+                  ]
+            },
+            {
+                  "name": "Old windmill ruins",
+                  "text": "Remains of old windmills in Paphos, reflecting the area's historical economy.",
+                  "category": "historical",
+                  "coords": [
+                        32.42513,
+                        34.772025
+                  ]
+            },
+            {
+                  "name": "Spyros Kiprianos Bust",
+                  "text": "A bust in Paphos commemorating Spyros Kiprianos.",
+                  "category": "historical",
+                  "coords": [
+                        32.418583,
+                        34.762263
+                  ]
+            },
+            {
+                  "name": "Evagoras Pallikarides Statue",
+                  "text": "A monument in Paphos dedicated to the Cypriot freedom fighter Evagoras Pallikarides.",
+                  "category": "historical",
+                  "coords": [
+                        32.423779,
+                        34.773922
+                  ]
+            },
+            {
+                  "name": "Resistance Bus",
+                  "text": "A historical monument in Paphos commemorating the Cypriot resistance.",
+                  "category": "historical",
+                  "coords": [
+                        32.441188,
+                        34.788674
+                  ]
+            },
+            {
+                  "name": "The House of Orpheus",
+                  "text": "Remains of an ancient Roman house in Paphos, known for its mythological mosaics.",
+                  "category": "historical",
+                  "coords": [
+                        32.403696,
+                        34.756753
+                  ]
+            },
+            {
+                  "name": "Toumpallos",
+                  "text": "Archaeological site featuring ancient ruins located near the Paphos harbor.",
+                  "category": "historical",
+                  "coords": [
+                        32.410181,
+                        34.762451
+                  ]
+            },
+            {
+                  "name": "Medieval baths (1191-1489)",
+                  "text": "Historical ruins of medieval baths from the Lusignan period in Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.414863,
+                        34.759606
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Remains of an ancient Greco-Roman amphitheater in the city of Paphos.",
+                  "category": "historical",
+                  "coords": [
+                        32.41394,
+                        34.761212
+                  ]
+            },
+            {
+                  "name": "Basilica of Panagia Limeniotissa",
+                  "text": "Ruins of an early Christian basilica located near the Paphos harbor.",
+                  "category": "historical",
+                  "coords": [
+                        32.407848,
+                        34.755764
+                  ]
+            },
+            {
+                  "name": "Castle Square",
+                  "text": "A public square by Paphos Castle, often used for cultural events and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        32.407322,
+                        34.753903
+                  ]
+            },
+            {
+                  "name": "Markideion Theater",
+                  "text": "A prominent theater in Paphos hosting various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        32.423138,
+                        34.778183
+                  ]
+            },
+            {
+                  "name": "Municipal Gallery",
+                  "text": "The municipal art gallery of Paphos, showcasing works by local and Cypriot artists.",
+                  "category": "cultural",
+                  "coords": [
+                        32.420521,
+                        34.774014
+                  ]
+            },
+            {
+                  "name": "Polychoros politismoy Palia Ilektriki",
+                  "text": "A cultural center housed in a former electricity works building in Paphos.",
+                  "category": "cultural",
+                  "coords": [
+                        32.42191,
+                        34.776549
+                  ]
+            },
+            {
+                  "name": "Circle Creative Space",
+                  "text": "A creative space in Paphos for art exhibitions and workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        32.429912,
+                        34.784095
+                  ]
+            },
+            {
+                  "name": "Home of Arts & Literature",
+                  "text": "A center in Paphos dedicated to the promotion of arts and literature.",
+                  "category": "cultural",
+                  "coords": [
+                        32.423317,
+                        34.780893
+                  ]
+            },
+            {
+                  "name": "WaveDancer",
+                  "text": "A popular excursion ship in Paphos offering various cruises and events.",
+                  "category": "landmark",
+                  "coords": [
+                        32.408779,
+                        34.755036
+                  ]
+            },
+            {
+                  "name": "Agios Lambrianos Catacombs",
+                  "text": "Ancient underground burial chambers in Paphos known as catacombs.",
+                  "category": "landmark",
+                  "coords": [
+                        32.412094,
+                        34.761827
+                  ]
+            },
+            {
+                  "name": "Geroskipou Municipal Swimming Pool",
+                  "text": "The Geroskipou Municipal Swimming Pool in Paphos offers good facilities for sports.",
+                  "category": "family",
+                  "coords": [
+                        32.441268,
+                        34.744709
+                  ]
+            },
+            {
+                  "name": "Hamam",
+                  "text": "A public bath in Paphos providing a space for wellness and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        32.41077,
+                        34.759098
+                  ]
+            },
+            {
+                  "name": "Splash Pool",
+                  "text": "A swimming pool in Paphos featuring water attractions for children.",
+                  "category": "family",
+                  "coords": [
+                        32.434335,
+                        34.745439
+                  ]
+            },
+            {
+                  "name": "Lagoon Pool",
+                  "text": "A spacious lagoon pool in Paphos offering a relaxing swimming experience.",
+                  "category": "family",
+                  "coords": [
+                        32.431409,
+                        34.744228
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CY-005",
     coords: [32.4245, 34.7768],
@@ -1820,15 +4799,6 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         33.941512,
                         35.124582
-                  ]
-            },
-            {
-                  "name": "Palm beach",
-                  "text": "Flankiert von der Kulisse der Geisterstadt Varosha, präsentiert sich dieser Sandstrand in Famagusta überaus faszinierend. Eine geheimnisvolle und gleichzeitig völlig friedliche Stimmung liegt hier stetig in der Luft. Man kann den warmen Sand genießen, im Meer schwimmen und dabei den Blick auf die verlassene Historie richten. Ein absolut sehenswerter Ort für Entdecker, besonders wenn die Sommersonne vom Himmel lacht.",
-                  "category": "recreational",
-                  "coords": [
-                        33.95836,
-                        35.118152
                   ]
             },
             {
@@ -2014,15 +4984,6 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Palm beach",
-                  "text": "A varósai szellemváros kulisszájával övezve ez a famagustai homokos part rendkívül lenyűgöző. Titokzatos, ugyanakkor teljesen békés hangulat uralkodik itt folyamatosan a levegőben. Évezhetjük a meleg homokot, úszhatunk a tengerben, miközben tekintetünket az elhagyatott történelemre vetjük. Felfedezők számára abszolút látványos hely, különösen, amikor a nyári nap nevet az égből.",
-                  "category": "recreational",
-                  "coords": [
-                        33.95836,
-                        35.118152
-                  ]
-            },
-            {
                   "name": "Famagusta Archaeological Museum",
                   "text": "Múzeum, amely a Famagusta környéki régészeti leleteket mutatja be.",
                   "category": "museum",
@@ -2205,15 +5166,6 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Palm beach",
-                  "text": "Flancată de decorul orașului fantomă Varosha, această plajă cu nisip din Famagusta se prezintă extrem de fascinantă. O atmosferă misterioasă, dar în același timp complet pașnică, plutește constant aici în aer. Vă puteți bucura de nisipul cald, puteți înota în mare, îndreptându-vă privirea spre istoria abandonată. Un loc care merită absolut văzut de către exploratori, mai ales când soarele de vară râde pe cer.",
-                  "category": "recreational",
-                  "coords": [
-                        33.95836,
-                        35.118152
-                  ]
-            },
-            {
                   "name": "Famagusta Archaeological Museum",
                   "text": "Un muzeu care expune descoperiri arheologice din regiunea Famagusta.",
                   "category": "museum",
@@ -2393,15 +5345,6 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         33.941512,
                         35.124582
-                  ]
-            },
-            {
-                  "name": "Palm beach",
-                  "text": "Flanked by the backdrop of the ghost town of Varosha, this sandy beach in Famagusta presents itself as extremely fascinating. A mysterious yet completely peaceful mood constantly fills the air here. You can enjoy the warm sand, swim in the sea, while gazing upon the abandoned history. An absolutely unmissable spot for explorers, especially when the summer sun smiles from the sky.",
-                  "category": "recreational",
-                  "coords": [
-                        33.95836,
-                        35.118152
                   ]
             },
             {
@@ -2601,7 +5544,592 @@ export const cyprusRegions: POI[] = [
     },
   },
   {
-    id: "cy-kyrenia", "sights": {"de": [{"name": "Karaoğlanoğlu Plajı", "text": "Strand in der Nähe von Kyrenia.", "category": "recreational", "coords": [33.275398, 35.344925]}, {"name": "Riviera Beach", "text": "Ganz in der Nähe von Kyrenia öffnet sich das Ufer zu diesem reizvollen und einladenden Küstenabschnitt Zyperns. Fern vom lauten Alltag taucht man hier in ein wunderbar ungestörtes und heiteres Inselerlebnis ein. Besucher schwärmen von langen Spaziergängen am Wasser, erfrischenden Bädern und ausgiebigem Sonnenbaden auf dem Strand. Planen Sie Ihren Aufenthalt am besten für einen klaren Vormittag.", "category": "recreational", "coords": [33.279888, 35.34528]}, {"name": "Schiffswrackmuseum", "text": "Das Schiffswrack-Museum in Kyrenia beherbergt die gut erhaltenen Überreste eines antiken griechischen Handelsschiffes.", "category": "museum", "coords": [33.322677, 35.341716]}, {"name": "Cyprus Housr", "text": "Das Cyprus Housr ist ein Museum, das kulturelle Einblicke in der Stadt Kyrenia bietet.", "category": "museum", "coords": [33.319834, 35.341519]}, {"name": "Greko-Romen Kaya Mezarları", "text": "Die griechisch-römischen Felsengräber sind eine bemerkenswerte archäologische Stätte in Kyrenia.", "category": "historical", "coords": [33.318335, 35.341915]}, {"name": "Girne Belediyesi Anfitiyatro", "text": "Das Girne Belediyesi Anfitiyatro ist ein Freilufttheater in der Stadt Kyrenia.", "category": "cultural", "coords": [33.326198, 35.339879]}, {"name": "Round Tower", "text": "Der Round Tower ist eine historische Befestigungsanlage in der Stadt Kyrenia.", "category": "fortress", "coords": [33.319357, 35.340404]}, {"name": "Bella Marin Beach", "text": "Als favorisiertes Ziel für Erholungssuchende glänzt dieser Strandbereich bei Kyrenia mit seinem echten maritimen Charme. Die gastfreundliche Umgebung zieht Urlauber an, die das süße Nichtstun unter freiem Himmel zelebrieren möchten. Genießen Sie wärmende Sonnenstrahlen auf der Haut, entspannte Spaziergänge und tauchen Sie in die zypriotischen Gewässer ein. An warmen Ferientagen ist dies ein hervorragender, leichter Zufluchtsort.", "category": "recreational", "coords": [33.334569, 35.338185]}, {"name": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı", "text": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı ist eine natürliche und archäologische Stätte in Kyrenia.", "category": "historical", "coords": [33.31353, 35.340274]}, {"name": "Atatürk Anıtı", "text": "Das Atatürk Anıtı ist ein lokales Denkmal in der Stadt Kyrenia.", "category": "historical", "coords": [33.313115, 35.341666]}, {"name": "Nusret Ertürk", "text": "Nusret Ertürk ist ein lokales Denkmal in der Stadt Kyrenia.", "category": "historical", "coords": [33.305695, 35.333034]}, {"name": "Istanbul Art Gallery", "text": "Die Istanbul Art Gallery ist ein Ausstellungsraum für verschiedene Kunstwerke in Kyrenia.", "category": "museum", "coords": [33.32519, 35.339538]}, {"name": "Dr. Fazıl Küçük Anıtı", "text": "Das Dr. Fazıl Küçük Monument ist eine Gedenkstätte in der Stadt Kyrenia.", "category": "historical", "coords": [33.317572, 35.325398]}, {"name": "Bella Marin", "text": "Bella Marin ist ein Strandresort mit Freizeiteinrichtungen in Kyrenia.", "category": "recreational", "coords": [33.331216, 35.341196]}, {"name": "Atatürk", "text": "Atatürk ist ein historisches Denkmal in der Stadt Kyrenia.", "category": "historical", "coords": [33.325788, 35.337097]}, {"name": "Phaneromeni Church", "text": "Die Ruinen der Phaneromeni-Kirche stellen eine historische Stätte in Kyrenia dar.", "category": "historical", "coords": [33.300787, 35.317306]}, {"name": "8 Mart Parkı", "text": "Ein schöner Spielplatz in Kyrenia, der Kindern viel Raum zum Spielen und Entdecken bietet.", "category": "family", "coords": [33.340293, 35.326079]}, {"name": "Bella Marin Main Pool", "text": "Der Bella Marin Main Pool in Kyrenia ist ein Schwimmbecken, das ideal für Familienspaß ist.", "category": "family", "coords": [33.333566, 35.338725]}], "hu": [{"name": "Karaoğlanoğlu Plajı", "text": "Strand Kyrenia közelében.", "category": "recreational", "coords": [33.275398, 35.344925]}, {"name": "Riviera Beach", "text": "Kireneia közvetlen közelében nyílik meg a part Ciprus ezen bájos és hívogató partvidékén. A zajos mindennapoktól távol itt egy csodálatosan zavartalan és derűs szigeti élménybe merülhetünk. A látogatók rajonganak a hosszú vízparti sétákért, a frissítő fürdőkért és a hosszas napozásért a strandon. Tervezze tartózkodását a legjobban egy tiszta délelőttre.", "category": "recreational", "coords": [33.279888, 35.34528]}, {"name": "Shipwreck museum", "text": "A keríniai Hajóroncs Múzeum egy ókori görög kereskedőhajó jól megőrzött maradványainak ad otthont.", "category": "museum", "coords": [33.322677, 35.341716]}, {"name": "Cyprus Housr", "text": "A Cyprus Housr egy kulturális ismereteket nyújtó múzeum Kerínia városában.", "category": "museum", "coords": [33.319834, 35.341519]}, {"name": "Greko-Romen Kaya Mezarları", "text": "A görög-római sziklasírok egy jelentős régészeti lelőhelyet képviselnek Kerínia városában.", "category": "historical", "coords": [33.318335, 35.341915]}, {"name": "Girne Belediyesi Anfitiyatro", "text": "A Girne Belediyesi Anfitiyatro egy színház, amely különböző eseményeknek ad otthont Kerínia városában.", "category": "cultural", "coords": [33.326198, 35.339879]}, {"name": "Round Tower", "text": "A Kerek Torony egy történelmi erődítmény Kerínia városában.", "category": "fortress", "coords": [33.319357, 35.340404]}, {"name": "Bella Marin Beach", "text": "A pihenni vágyók kedvelt célpontjaként ez a Kireneia melletti strandrész igazi tengeri bájával ragyog. A vendégszerető környezet vonzza a nyaralókat, akik az édes semmittevést a szabad ég alatt szeretnék ünnepelni. Élvezze a melengető napsugarakat a bőrén, a pihentető sétákat, és merüljön el a ciprusi vizekben. Meleg nyaralási napokon ez egy kiváló, könnyed menedék.", "category": "recreational", "coords": [33.334569, 35.338185]}, {"name": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı", "text": "A Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı egy védett természeti és régészeti lelőhely Kerínia városában.", "category": "historical", "coords": [33.31353, 35.340274]}, {"name": "Atatürk Anıtı", "text": "Az Atatürk Anıtı egy helyi emlékmű Kerínia városában.", "category": "historical", "coords": [33.313115, 35.341666]}, {"name": "Nusret Ertürk", "text": "A Nusret Ertürk egy helyi emlékmű Kerínia városában.", "category": "historical", "coords": [33.305695, 35.333034]}, {"name": "Istanbul Art Gallery", "text": "Az Istanbul Art Gallery egy különféle művészeti alkotásokat bemutató galéria Kerínia városában.", "category": "museum", "coords": [33.32519, 35.339538]}, {"name": "Dr. Fazıl Küçük Anıtı", "text": "A Dr. Fazıl Küçük Emlékmű egy dedikált szobor Kerínia városában.", "category": "historical", "coords": [33.317572, 35.325398]}, {"name": "Bella Marin", "text": "A Bella Marin egy pihenési lehetőségeket kínáló tengerparti üdülőhely Kerínia városában.", "category": "recreational", "coords": [33.331216, 35.341196]}, {"name": "Atatürk", "text": "Az Atatürk egy történelmi emlékmű Kerínia városában.", "category": "historical", "coords": [33.325788, 35.337097]}, {"name": "Phaneromeni Church", "text": "A Phaneromeni templom romjai egy történelmi jelentőségű látványosságot képviselnek Kerínia városában.", "category": "historical", "coords": [33.300787, 35.317306]}, {"name": "8 Mart Parkı", "text": "Kedvelt játszótér Kyrenia városában, amely vidám kikapcsolódást nyújt a gyermekeknek.", "category": "family", "coords": [33.340293, 35.326079]}, {"name": "Bella Marin Main Pool", "text": "A Bella Marin Main Pool Keriniában egy úszómedence, amely tökéletes a családi szórakozáshoz.", "category": "family", "coords": [33.333566, 35.338725]}], "ro": [{"name": "Karaoğlanoğlu Plajı", "text": "Plajă lângă Kyrenia.", "category": "recreational", "coords": [33.275398, 35.344925]}, {"name": "Riviera Beach", "text": "Foarte aproape de Kyrenia, țărmul se deschide către această secțiune fermecătoare și primitoare a coastei Ciprului. Departe de viața zgomotoasă de zi cu zi, vă scufundați aici într-o experiență insulară minunat de netulburată și senină. Vizitatorii adoră plimbările lungi pe malul apei, băile răcoritoare și băile prelungite de soare pe plajă. Cel mai bine este să vă planificați șederea pentru o dimineață senină.", "category": "recreational", "coords": [33.279888, 35.34528]}, {"name": "Shipwreck museum", "text": "Muzeul epavei din Kyrenia găzduiește rămășițele bine conservate ale unei nave comerciale antice grecești.", "category": "museum", "coords": [33.322677, 35.341716]}, {"name": "Cyprus Housr", "text": "Cyprus Housr este un muzeu care oferă perspective culturale în orașul Kyrenia.", "category": "museum", "coords": [33.319834, 35.341519]}, {"name": "Greko-Romen Kaya Mezarları", "text": "Mormintele săpate în stâncă greco-romane reprezintă un sit arheologic notabil din orașul Kyrenia.", "category": "historical", "coords": [33.318335, 35.341915]}, {"name": "Girne Belediyesi Anfitiyatro", "text": "Girne Belediyesi Anfitiyatro este un teatru care găzduiește diverse evenimente în orașul Kyrenia.", "category": "cultural", "coords": [33.326198, 35.339879]}, {"name": "Round Tower", "text": "Turnul Rotund este o structură istorică de fortificație situată în orașul Kyrenia.", "category": "fortress", "coords": [33.319357, 35.340404]}, {"name": "Bella Marin Beach", "text": "Fiind o destinație favorită pentru cei ce caută recreere, această zonă de plajă de lângă Kyrenia strălucește prin farmecul său maritim autentic. Mediul ospitalier atrage turiștii care doresc să sărbătorească dulcea lenevie în aer liber. Bucurați-vă de razele calde ale soarelui pe piele, de plimbări relaxante și scufundați-vă în apele cipriote. În zilele calde de vacanță, acesta este un refugiu excelent și ușor.", "category": "recreational", "coords": [33.334569, 35.338185]}, {"name": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı", "text": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı este un sit natural și arheologic situat în orașul Kyrenia.", "category": "historical", "coords": [33.31353, 35.340274]}, {"name": "Atatürk Anıtı", "text": "Atatürk Anıtı este un monument local situat în orașul Kyrenia.", "category": "historical", "coords": [33.313115, 35.341666]}, {"name": "Nusret Ertürk", "text": "Nusret Ertürk este un monument comemorativ situat în orașul Kyrenia.", "category": "historical", "coords": [33.305695, 35.333034]}, {"name": "Istanbul Art Gallery", "text": "Istanbul Art Gallery este o galerie de artă din orașul Kyrenia.", "category": "museum", "coords": [33.32519, 35.339538]}, {"name": "Dr. Fazıl Küçük Anıtı", "text": "Monumentul Dr. Fazıl Küçük este un memorial situat în orașul Kyrenia.", "category": "historical", "coords": [33.317572, 35.325398]}, {"name": "Bella Marin", "text": "Bella Marin este o stațiune balneară care oferă facilități de agrement în Kyrenia.", "category": "recreational", "coords": [33.331216, 35.341196]}, {"name": "Atatürk", "text": "Atatürk este un monument istoric situat în orașul Kyrenia.", "category": "historical", "coords": [33.325788, 35.337097]}, {"name": "Phaneromeni Church", "text": "Ruinele Bisericii Phaneromeni reprezintă un sit istoric din orașul Kyrenia.", "category": "historical", "coords": [33.300787, 35.317306]}, {"name": "8 Mart Parkı", "text": "Un teren de joacă plăcut în Kyrenia, care oferă copiilor spațiu pentru joacă și explorare.", "category": "family", "coords": [33.340293, 35.326079]}, {"name": "Bella Marin Main Pool", "text": "Bella Marin Main Pool din Kyrenia este o piscină perfectă pentru distracție în familie.", "category": "family", "coords": [33.333566, 35.338725]}], "en": [{"name": "Karaoğlanoğlu Plajı", "text": "Beach near Kyrenia.", "category": "recreational", "coords": [33.275398, 35.344925]}, {"name": "Riviera Beach", "text": "Very close to Kyrenia, the shore opens up to this charming and inviting coastal section of Cyprus. Far from loud everyday life, you immerse yourself here in a wonderfully undisturbed and serene island experience. Visitors rave about long walks by the water, refreshing dips, and extensive sunbathing on the beach. It is best to plan your stay for a clear morning.", "category": "recreational", "coords": [33.279888, 35.34528]}, {"name": "Shipwreck museum", "text": "The Shipwreck museum in Kyrenia houses the well-preserved remains of an ancient Greek merchant ship.", "category": "museum", "coords": [33.322677, 35.341716]}, {"name": "Cyprus Housr", "text": "Cyprus Housr is a museum offering cultural insights in the city of Kyrenia.", "category": "museum", "coords": [33.319834, 35.341519]}, {"name": "Greko-Roman rock graves", "text": "The Greko-Roman rock graves are a notable archaeological site preserving ancient history in Kyrenia.", "category": "historical", "coords": [33.318335, 35.341915]}, {"name": "Girne Belediyesi Anfitiyatro", "text": "Girne Belediyesi Anfitiyatro is an open-air theatre hosting various events in Kyrenia.", "category": "cultural", "coords": [33.326198, 35.339879]}, {"name": "Round Tower", "text": "The Round Tower is a historic fortification structure located in the city of Kyrenia.", "category": "fortress", "coords": [33.319357, 35.340404]}, {"name": "Bella Marin Beach", "text": "As a favorite destination for recreation seekers, this beach area near Kyrenia shines with its authentic maritime charm. The hospitable environment attracts vacationers who want to celebrate the sweet idleness out in the open. Enjoy warming sunbeams on your skin, relaxed walks, and dive into the Cypriot waters. On warm holiday days, this is an excellent, easy refuge.", "category": "recreational", "coords": [33.334569, 35.338185]}, {"name": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı", "text": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı is a designated natural and archaeological site in Kyrenia.", "category": "historical", "coords": [33.31353, 35.340274]}, {"name": "Atatürk Anıtı", "text": "Atatürk Anıtı is a local monument situated in the city of Kyrenia.", "category": "historical", "coords": [33.313115, 35.341666]}, {"name": "Nusret Ertürk", "text": "Nusret Ertürk is a monument honoring a specific individual in the city of Kyrenia.", "category": "historical", "coords": [33.305695, 35.333034]}, {"name": "Istanbul Art Gallery", "text": "The Istanbul Art Gallery is a cultural space showcasing various artworks in Kyrenia.", "category": "museum", "coords": [33.32519, 35.339538]}, {"name": "Dr. Fazıl Küçük Monument", "text": "The Dr. Fazıl Küçük Monument is a dedicated memorial situated in Kyrenia.", "category": "historical", "coords": [33.317572, 35.325398]}, {"name": "Bella Marin", "text": "Bella Marin is a dedicated beach resort offering leisure facilities in Kyrenia.", "category": "recreational", "coords": [33.331216, 35.341196]}, {"name": "Atatürk", "text": "Atatürk is a historic monument located in the city of Kyrenia.", "category": "historical", "coords": [33.325788, 35.337097]}, {"name": "Phaneromeni Church", "text": "The ruins of Phaneromeni Church represent a historical and archaeological site in Kyrenia.", "category": "historical", "coords": [33.300787, 35.317306]}, {"name": "8 Mart Parkı", "text": "A nice playground in Kyrenia, offering children plenty of space for play and exploration.", "category": "family", "coords": [33.340293, 35.326079]}, {"name": "Bella Marin Main Pool", "text": "Bella Marin Main Pool in Kyrenia is a swimming pool perfect for family fun.", "category": "family", "coords": [33.333566, 35.338725]}]},
+    id: "cy-kyrenia", "sights": {
+      "de": [
+            {
+                  "name": "Karaoğlanoğlu Plajı",
+                  "text": "Strand in der Nähe von Kyrenia.",
+                  "category": "recreational",
+                  "coords": [
+                        33.275398,
+                        35.344925
+                  ]
+            },
+            {
+                  "name": "Riviera Beach",
+                  "text": "Ganz in der Nähe von Kyrenia öffnet sich das Ufer zu diesem reizvollen und einladenden Küstenabschnitt Zyperns. Fern vom lauten Alltag taucht man hier in ein wunderbar ungestörtes und heiteres Inselerlebnis ein. Besucher schwärmen von langen Spaziergängen am Wasser, erfrischenden Bädern und ausgiebigem Sonnenbaden auf dem Strand. Planen Sie Ihren Aufenthalt am besten für einen klaren Vormittag.",
+                  "category": "recreational",
+                  "coords": [
+                        33.279888,
+                        35.34528
+                  ]
+            },
+            {
+                  "name": "Schiffswrackmuseum",
+                  "text": "Das Schiffswrack-Museum in Kyrenia beherbergt die gut erhaltenen Überreste eines antiken griechischen Handelsschiffes.",
+                  "category": "museum",
+                  "coords": [
+                        33.322677,
+                        35.341716
+                  ]
+            },
+            {
+                  "name": "Cyprus Housr",
+                  "text": "Das Cyprus Housr ist ein Museum, das kulturelle Einblicke in der Stadt Kyrenia bietet.",
+                  "category": "museum",
+                  "coords": [
+                        33.319834,
+                        35.341519
+                  ]
+            },
+            {
+                  "name": "Greko-Romen Kaya Mezarları",
+                  "text": "Die griechisch-römischen Felsengräber sind eine bemerkenswerte archäologische Stätte in Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.318335,
+                        35.341915
+                  ]
+            },
+            {
+                  "name": "Girne Belediyesi Anfitiyatro",
+                  "text": "Das Girne Belediyesi Anfitiyatro ist ein Freilufttheater in der Stadt Kyrenia.",
+                  "category": "cultural",
+                  "coords": [
+                        33.326198,
+                        35.339879
+                  ]
+            },
+            {
+                  "name": "Round Tower",
+                  "text": "Der Round Tower ist eine historische Befestigungsanlage in der Stadt Kyrenia.",
+                  "category": "fortress",
+                  "coords": [
+                        33.319357,
+                        35.340404
+                  ]
+            },
+            {
+                  "name": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı",
+                  "text": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı ist eine natürliche und archäologische Stätte in Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.31353,
+                        35.340274
+                  ]
+            },
+            {
+                  "name": "Atatürk Anıtı",
+                  "text": "Das Atatürk Anıtı ist ein lokales Denkmal in der Stadt Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.313115,
+                        35.341666
+                  ]
+            },
+            {
+                  "name": "Nusret Ertürk",
+                  "text": "Nusret Ertürk ist ein lokales Denkmal in der Stadt Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.305695,
+                        35.333034
+                  ]
+            },
+            {
+                  "name": "Istanbul Art Gallery",
+                  "text": "Die Istanbul Art Gallery ist ein Ausstellungsraum für verschiedene Kunstwerke in Kyrenia.",
+                  "category": "museum",
+                  "coords": [
+                        33.32519,
+                        35.339538
+                  ]
+            },
+            {
+                  "name": "Dr. Fazıl Küçük Anıtı",
+                  "text": "Das Dr. Fazıl Küçük Monument ist eine Gedenkstätte in der Stadt Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.317572,
+                        35.325398
+                  ]
+            },
+            {
+                  "name": "Atatürk",
+                  "text": "Atatürk ist ein historisches Denkmal in der Stadt Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.325788,
+                        35.337097
+                  ]
+            },
+            {
+                  "name": "Phaneromeni Church",
+                  "text": "Die Ruinen der Phaneromeni-Kirche stellen eine historische Stätte in Kyrenia dar.",
+                  "category": "historical",
+                  "coords": [
+                        33.300787,
+                        35.317306
+                  ]
+            },
+            {
+                  "name": "8 Mart Parkı",
+                  "text": "Ein schöner Spielplatz in Kyrenia, der Kindern viel Raum zum Spielen und Entdecken bietet.",
+                  "category": "family",
+                  "coords": [
+                        33.340293,
+                        35.326079
+                  ]
+            },
+            {
+                  "name": "Bella Marin Main Pool",
+                  "text": "Der Bella Marin Main Pool in Kyrenia ist ein Schwimmbecken, das ideal für Familienspaß ist.",
+                  "category": "family",
+                  "coords": [
+                        33.333566,
+                        35.338725
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karaoğlanoğlu Plajı",
+                  "text": "Strand Kyrenia közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        33.275398,
+                        35.344925
+                  ]
+            },
+            {
+                  "name": "Riviera Beach",
+                  "text": "Kireneia közvetlen közelében nyílik meg a part Ciprus ezen bájos és hívogató partvidékén. A zajos mindennapoktól távol itt egy csodálatosan zavartalan és derűs szigeti élménybe merülhetünk. A látogatók rajonganak a hosszú vízparti sétákért, a frissítő fürdőkért és a hosszas napozásért a strandon. Tervezze tartózkodását a legjobban egy tiszta délelőttre.",
+                  "category": "recreational",
+                  "coords": [
+                        33.279888,
+                        35.34528
+                  ]
+            },
+            {
+                  "name": "Shipwreck museum",
+                  "text": "A keríniai Hajóroncs Múzeum egy ókori görög kereskedőhajó jól megőrzött maradványainak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        33.322677,
+                        35.341716
+                  ]
+            },
+            {
+                  "name": "Cyprus Housr",
+                  "text": "A Cyprus Housr egy kulturális ismereteket nyújtó múzeum Kerínia városában.",
+                  "category": "museum",
+                  "coords": [
+                        33.319834,
+                        35.341519
+                  ]
+            },
+            {
+                  "name": "Greko-Romen Kaya Mezarları",
+                  "text": "A görög-római sziklasírok egy jelentős régészeti lelőhelyet képviselnek Kerínia városában.",
+                  "category": "historical",
+                  "coords": [
+                        33.318335,
+                        35.341915
+                  ]
+            },
+            {
+                  "name": "Girne Belediyesi Anfitiyatro",
+                  "text": "A Girne Belediyesi Anfitiyatro egy színház, amely különböző eseményeknek ad otthont Kerínia városában.",
+                  "category": "cultural",
+                  "coords": [
+                        33.326198,
+                        35.339879
+                  ]
+            },
+            {
+                  "name": "Round Tower",
+                  "text": "A Kerek Torony egy történelmi erődítmény Kerínia városában.",
+                  "category": "fortress",
+                  "coords": [
+                        33.319357,
+                        35.340404
+                  ]
+            },
+            {
+                  "name": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı",
+                  "text": "A Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı egy védett természeti és régészeti lelőhely Kerínia városában.",
+                  "category": "historical",
+                  "coords": [
+                        33.31353,
+                        35.340274
+                  ]
+            },
+            {
+                  "name": "Atatürk Anıtı",
+                  "text": "Az Atatürk Anıtı egy helyi emlékmű Kerínia városában.",
+                  "category": "historical",
+                  "coords": [
+                        33.313115,
+                        35.341666
+                  ]
+            },
+            {
+                  "name": "Nusret Ertürk",
+                  "text": "A Nusret Ertürk egy helyi emlékmű Kerínia városában.",
+                  "category": "historical",
+                  "coords": [
+                        33.305695,
+                        35.333034
+                  ]
+            },
+            {
+                  "name": "Istanbul Art Gallery",
+                  "text": "Az Istanbul Art Gallery egy különféle művészeti alkotásokat bemutató galéria Kerínia városában.",
+                  "category": "museum",
+                  "coords": [
+                        33.32519,
+                        35.339538
+                  ]
+            },
+            {
+                  "name": "Dr. Fazıl Küçük Anıtı",
+                  "text": "A Dr. Fazıl Küçük Emlékmű egy dedikált szobor Kerínia városában.",
+                  "category": "historical",
+                  "coords": [
+                        33.317572,
+                        35.325398
+                  ]
+            },
+            {
+                  "name": "Atatürk",
+                  "text": "Az Atatürk egy történelmi emlékmű Kerínia városában.",
+                  "category": "historical",
+                  "coords": [
+                        33.325788,
+                        35.337097
+                  ]
+            },
+            {
+                  "name": "Phaneromeni Church",
+                  "text": "A Phaneromeni templom romjai egy történelmi jelentőségű látványosságot képviselnek Kerínia városában.",
+                  "category": "historical",
+                  "coords": [
+                        33.300787,
+                        35.317306
+                  ]
+            },
+            {
+                  "name": "8 Mart Parkı",
+                  "text": "Kedvelt játszótér Kyrenia városában, amely vidám kikapcsolódást nyújt a gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        33.340293,
+                        35.326079
+                  ]
+            },
+            {
+                  "name": "Bella Marin Main Pool",
+                  "text": "A Bella Marin Main Pool Keriniában egy úszómedence, amely tökéletes a családi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        33.333566,
+                        35.338725
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karaoğlanoğlu Plajı",
+                  "text": "Plajă lângă Kyrenia.",
+                  "category": "recreational",
+                  "coords": [
+                        33.275398,
+                        35.344925
+                  ]
+            },
+            {
+                  "name": "Riviera Beach",
+                  "text": "Foarte aproape de Kyrenia, țărmul se deschide către această secțiune fermecătoare și primitoare a coastei Ciprului. Departe de viața zgomotoasă de zi cu zi, vă scufundați aici într-o experiență insulară minunat de netulburată și senină. Vizitatorii adoră plimbările lungi pe malul apei, băile răcoritoare și băile prelungite de soare pe plajă. Cel mai bine este să vă planificați șederea pentru o dimineață senină.",
+                  "category": "recreational",
+                  "coords": [
+                        33.279888,
+                        35.34528
+                  ]
+            },
+            {
+                  "name": "Shipwreck museum",
+                  "text": "Muzeul epavei din Kyrenia găzduiește rămășițele bine conservate ale unei nave comerciale antice grecești.",
+                  "category": "museum",
+                  "coords": [
+                        33.322677,
+                        35.341716
+                  ]
+            },
+            {
+                  "name": "Cyprus Housr",
+                  "text": "Cyprus Housr este un muzeu care oferă perspective culturale în orașul Kyrenia.",
+                  "category": "museum",
+                  "coords": [
+                        33.319834,
+                        35.341519
+                  ]
+            },
+            {
+                  "name": "Greko-Romen Kaya Mezarları",
+                  "text": "Mormintele săpate în stâncă greco-romane reprezintă un sit arheologic notabil din orașul Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.318335,
+                        35.341915
+                  ]
+            },
+            {
+                  "name": "Girne Belediyesi Anfitiyatro",
+                  "text": "Girne Belediyesi Anfitiyatro este un teatru care găzduiește diverse evenimente în orașul Kyrenia.",
+                  "category": "cultural",
+                  "coords": [
+                        33.326198,
+                        35.339879
+                  ]
+            },
+            {
+                  "name": "Round Tower",
+                  "text": "Turnul Rotund este o structură istorică de fortificație situată în orașul Kyrenia.",
+                  "category": "fortress",
+                  "coords": [
+                        33.319357,
+                        35.340404
+                  ]
+            },
+            {
+                  "name": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı",
+                  "text": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı este un sit natural și arheologic situat în orașul Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.31353,
+                        35.340274
+                  ]
+            },
+            {
+                  "name": "Atatürk Anıtı",
+                  "text": "Atatürk Anıtı este un monument local situat în orașul Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.313115,
+                        35.341666
+                  ]
+            },
+            {
+                  "name": "Nusret Ertürk",
+                  "text": "Nusret Ertürk este un monument comemorativ situat în orașul Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.305695,
+                        35.333034
+                  ]
+            },
+            {
+                  "name": "Istanbul Art Gallery",
+                  "text": "Istanbul Art Gallery este o galerie de artă din orașul Kyrenia.",
+                  "category": "museum",
+                  "coords": [
+                        33.32519,
+                        35.339538
+                  ]
+            },
+            {
+                  "name": "Dr. Fazıl Küçük Anıtı",
+                  "text": "Monumentul Dr. Fazıl Küçük este un memorial situat în orașul Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.317572,
+                        35.325398
+                  ]
+            },
+            {
+                  "name": "Atatürk",
+                  "text": "Atatürk este un monument istoric situat în orașul Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.325788,
+                        35.337097
+                  ]
+            },
+            {
+                  "name": "Phaneromeni Church",
+                  "text": "Ruinele Bisericii Phaneromeni reprezintă un sit istoric din orașul Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.300787,
+                        35.317306
+                  ]
+            },
+            {
+                  "name": "8 Mart Parkı",
+                  "text": "Un teren de joacă plăcut în Kyrenia, care oferă copiilor spațiu pentru joacă și explorare.",
+                  "category": "family",
+                  "coords": [
+                        33.340293,
+                        35.326079
+                  ]
+            },
+            {
+                  "name": "Bella Marin Main Pool",
+                  "text": "Bella Marin Main Pool din Kyrenia este o piscină perfectă pentru distracție în familie.",
+                  "category": "family",
+                  "coords": [
+                        33.333566,
+                        35.338725
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karaoğlanoğlu Plajı",
+                  "text": "Beach near Kyrenia.",
+                  "category": "recreational",
+                  "coords": [
+                        33.275398,
+                        35.344925
+                  ]
+            },
+            {
+                  "name": "Riviera Beach",
+                  "text": "Very close to Kyrenia, the shore opens up to this charming and inviting coastal section of Cyprus. Far from loud everyday life, you immerse yourself here in a wonderfully undisturbed and serene island experience. Visitors rave about long walks by the water, refreshing dips, and extensive sunbathing on the beach. It is best to plan your stay for a clear morning.",
+                  "category": "recreational",
+                  "coords": [
+                        33.279888,
+                        35.34528
+                  ]
+            },
+            {
+                  "name": "Shipwreck museum",
+                  "text": "The Shipwreck museum in Kyrenia houses the well-preserved remains of an ancient Greek merchant ship.",
+                  "category": "museum",
+                  "coords": [
+                        33.322677,
+                        35.341716
+                  ]
+            },
+            {
+                  "name": "Cyprus Housr",
+                  "text": "Cyprus Housr is a museum offering cultural insights in the city of Kyrenia.",
+                  "category": "museum",
+                  "coords": [
+                        33.319834,
+                        35.341519
+                  ]
+            },
+            {
+                  "name": "Greko-Roman rock graves",
+                  "text": "The Greko-Roman rock graves are a notable archaeological site preserving ancient history in Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.318335,
+                        35.341915
+                  ]
+            },
+            {
+                  "name": "Girne Belediyesi Anfitiyatro",
+                  "text": "Girne Belediyesi Anfitiyatro is an open-air theatre hosting various events in Kyrenia.",
+                  "category": "cultural",
+                  "coords": [
+                        33.326198,
+                        35.339879
+                  ]
+            },
+            {
+                  "name": "Round Tower",
+                  "text": "The Round Tower is a historic fortification structure located in the city of Kyrenia.",
+                  "category": "fortress",
+                  "coords": [
+                        33.319357,
+                        35.340404
+                  ]
+            },
+            {
+                  "name": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı",
+                  "text": "Girne Ergene Sokak Doğal ve Arkeolojik Sit Alanı is a designated natural and archaeological site in Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.31353,
+                        35.340274
+                  ]
+            },
+            {
+                  "name": "Atatürk Anıtı",
+                  "text": "Atatürk Anıtı is a local monument situated in the city of Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.313115,
+                        35.341666
+                  ]
+            },
+            {
+                  "name": "Nusret Ertürk",
+                  "text": "Nusret Ertürk is a monument honoring a specific individual in the city of Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.305695,
+                        35.333034
+                  ]
+            },
+            {
+                  "name": "Istanbul Art Gallery",
+                  "text": "The Istanbul Art Gallery is a cultural space showcasing various artworks in Kyrenia.",
+                  "category": "museum",
+                  "coords": [
+                        33.32519,
+                        35.339538
+                  ]
+            },
+            {
+                  "name": "Dr. Fazıl Küçük Monument",
+                  "text": "The Dr. Fazıl Küçük Monument is a dedicated memorial situated in Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.317572,
+                        35.325398
+                  ]
+            },
+            {
+                  "name": "Atatürk",
+                  "text": "Atatürk is a historic monument located in the city of Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.325788,
+                        35.337097
+                  ]
+            },
+            {
+                  "name": "Phaneromeni Church",
+                  "text": "The ruins of Phaneromeni Church represent a historical and archaeological site in Kyrenia.",
+                  "category": "historical",
+                  "coords": [
+                        33.300787,
+                        35.317306
+                  ]
+            },
+            {
+                  "name": "8 Mart Parkı",
+                  "text": "A nice playground in Kyrenia, offering children plenty of space for play and exploration.",
+                  "category": "family",
+                  "coords": [
+                        33.340293,
+                        35.326079
+                  ]
+            },
+            {
+                  "name": "Bella Marin Main Pool",
+                  "text": "Bella Marin Main Pool in Kyrenia is a swimming pool perfect for family fun.",
+                  "category": "family",
+                  "coords": [
+                        33.333566,
+                        35.338725
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-cyprus",
     coords: [33.3167, 35.3333],
@@ -2634,7 +6162,853 @@ export const cyprusRegions: POI[] = [
       fr: ["Les origines de Kyrenia remontent aux colons achéens après la guerre de Troie.", "La forteresse de Kyrenia fut initialement bâtie par les Romains, puis considérablement agrandie par les Byzantins et les Lusignan.", "L'épave du musée a coulé vers 300 av. J.-C. et fut découverte en 1965 par un plongeur.", "L'abbaye de Bellapais toute proche, impressionnante ruine gothique, offre une vue spectaculaire sur la côte.", "Le château de Saint-Hilarion, situé dans les monts de Kyrenia, aurait inspiré le château de 'Blanche-Neige' de Disney.", "Kyrenia est un centre culturel et économique majeur du nord de Chypre.", "La ville était un port militaire important sous la domination vénitienne."],
     }, image: "/poi-images/cy-kyrenia.webp"},
   {
-    id: "cy-ayianapa", "sights": {"de": [{"name": "Glyky Nero", "text": "Der Strand Glyky Nero liegt bei Ayia Napa.", "category": "recreational", "coords": [34.00844, 34.984219]}, {"name": "Paradisos", "text": "Paradisos ist ein Strand bei Ayia Napa.", "category": "recreational", "coords": [34.004897, 34.98376]}, {"name": "Paralia Loykkos toy Manti", "text": "Strand bei Ayia Napa.", "category": "recreational", "coords": [33.998397, 34.982451]}, {"name": "Parko Glyptikis Dimoy Agias Napas", "text": "Ein internationales Symposium für Bildhauerei mit zahlreichen Skulpturen im Freien in Ayia Napa.", "category": "museum", "coords": [34.016998, 34.985682]}, {"name": "Vathia Gonia", "text": "Ein malerischer Sandstrand mit kristallklarem Wasser in Ayia Napa.", "category": "recreational", "coords": [33.979366, 34.98678]}, {"name": "Dimotiko Moyseio Thalassa", "text": "Ein städtisches Museum in Ayia Napa, das dem Meer und der maritimen Geschichte gewidmet ist.", "category": "museum", "coords": [34.002224, 34.987567]}, {"name": "Nissi", "text": "Einer der bekanntesten Sandstrände Zyperns mit einer kleinen vorgelagerten Insel in Ayia Napa.", "category": "recreational", "coords": [33.96899, 34.98749]}, {"name": "Katsarka", "text": "Ein ruhigerer Strandabschnitt in Ayia Napa, ideal zum Entspannen.", "category": "recreational", "coords": [33.990083, 34.985045]}, {"name": "Pernera", "text": "Ein familienfreundlicher Strand in Ayia Napa mit goldenem Sand und flachem Wasser.", "category": "recreational", "coords": [33.983378, 34.984934]}, {"name": "Country House Museum", "text": "Ein kleines Museum in Ayia Napa, das Einblicke in das traditionelle zypriotische Landleben bietet.", "category": "museum", "coords": [33.99971, 34.988771]}, {"name": "Parko Paliatso Luna Park", "text": "Ein beliebter Freizeitpark in Ayia Napa mit zahlreichen Fahrgeschäften für alle Altersgruppen.", "category": "family", "coords": [33.997636, 34.985585]}, {"name": "Ammos Kambouri", "text": "Ein kleiner, ruhiger Strand in einer Bucht östlich von Ayia Napa.", "category": "recreational", "coords": [34.023652, 34.978583]}, {"name": "Black Pearl", "text": "Ein weiteres Ausflugsschiff im Piratenstil für Familienabenteuer in Ayia Napa.", "category": "landmark", "coords": [34.002497, 34.98132]}, {"name": "FantasyBoatParty", "text": "Ein bekanntes Partyboot in Ayia Napa, das Unterhaltung auf dem Meer bietet.", "category": "landmark", "coords": [34.003543, 34.98112]}, {"name": "Gefyra Ellinikis - Polonikis Filias", "text": "Ein symbolischer Ort in Ayia Napa, der die Freundschaft zwischen Griechenland und Polen feiert.", "category": "landmark", "coords": [34.018679, 34.98112]}, {"name": "To Ydragogeio tis Agias Napas", "text": "Überreste eines historischen Aquädukts, das einst die Stadt Ayia Napa mit Wasser versorgte.", "category": "landmark", "coords": [34.00458, 34.989086]}, {"name": "Skeleton rider", "text": "Eine markante Skulptur eines Skelettreiters im Skulpturenpark von Ayia Napa.", "category": "landmark", "coords": [33.989261, 34.987934]}, {"name": "Love stone", "text": "Ein malerischer Aussichtspunkt an der Küste von Ayia Napa, bekannt für seine Felsformationen.", "category": "natural", "coords": [33.981716, 34.98259]}, {"name": "Nissi Isle", "text": "Ein Besuch der Nissi Isle in Ayia Napa belohnt mit einem herrlichen Blick auf die kleine Insel vor der Küste. Dieser natürliche Aussichtspunkt nahe des Strandes lädt zum Verweilen und Fotografieren ein.", "category": "natural", "coords": [33.967973, 34.985829]}, {"name": "Monachus Monachus Arch", "text": "Eine natürliche Felsbrücke in Ayia Napa, die ein beliebtes Fotomotiv für Besucher ist.", "category": "landmark", "coords": [34.016465, 34.98255]}, {"name": "Geheime Brücke", "text": "Ein versteckter Ort in Ayia Napa mit einer natürlichen Felsformation.", "category": "landmark", "coords": [33.977629, 34.985524]}, {"name": "Agia Napa Promenade", "text": "Eine belebte Küstenpromenade in Ayia Napa, ideal für Spaziergänge am Meer.", "category": "landmark", "coords": [33.999875, 34.981818]}, {"name": "Sculpture Park", "text": "Ein weitläufiges Freiluftareal in Ayia Napa mit einer Vielzahl moderner Skulpturen.", "category": "landmark", "coords": [34.019559, 34.984622]}, {"name": "Cleopatra Apts swimming pool", "text": "Ein Schwimmbad in Ayia Napa für Gäste der Cleopatra Apartments.", "category": "family", "coords": [33.993903, 34.988882]}, {"name": "Blue Lagoon Pool", "text": "Ein Schwimmbad in Ayia Napa, das zum Entspannen einlädt.", "category": "family", "coords": [33.956696, 34.98991]}, {"name": "Fisherman's Village Pool", "text": "Ein weiteres Schwimmbad in Ayia Napa für Freizeitspaß.", "category": "family", "coords": [33.95791, 34.990835]}], "hu": [{"name": "Glyky Nero", "text": "A Glyky Nero strand Ayia Napa közelében található.", "category": "recreational", "coords": [34.00844, 34.984219]}, {"name": "Paradisos", "text": "Paradisos egy strand Ayia Napa közelében.", "category": "recreational", "coords": [34.004897, 34.98376]}, {"name": "Paralia Loykkos toy Manti", "text": "Strand Ajía Nápanál.", "category": "recreational", "coords": [33.998397, 34.982451]}, {"name": "Parko Glyptikis Dimoy Agias Napas", "text": "Nemzetközi szobrászati szimpózium számos szabadtéri alkotással Ayia Napában.", "category": "museum", "coords": [34.016998, 34.985682]}, {"name": "Vathia Gonia", "text": "Gleccserkék vizű, festői homokos strand Ayia Napában.", "category": "recreational", "coords": [33.979366, 34.98678]}, {"name": "Dimotiko Moyseio Thalassa", "text": "Ayia Napa városi múzeuma, amely a tengernek és a tengerészeti történelemnek van szentelve.", "category": "museum", "coords": [34.002224, 34.987567]}, {"name": "Nissi", "text": "Ciprus egyik legismertebb homokos strandja egy közeli kis szigettel Ayia Napában.", "category": "recreational", "coords": [33.96899, 34.98749]}, {"name": "Katsarka", "text": "Nyugodtabb tengerparti szakasz Ayia Napában, ideális a kikapcsolódáshoz.", "category": "recreational", "coords": [33.990083, 34.985045]}, {"name": "Pernera", "text": "Családbarát strand Ayia Napában, aranyhomokkal és sekély vízzel.", "category": "recreational", "coords": [33.983378, 34.984934]}, {"name": "Country House Museum", "text": "Kismúzeum Ayia Napában, amely betekintést nyújt a hagyományos ciprusi vidéki életbe.", "category": "museum", "coords": [33.99971, 34.988771]}, {"name": "Parko Paliatso Luna Park", "text": "Népszerű vidámpark Ayia Napában, számos játékkal minden korosztály számára.", "category": "family", "coords": [33.997636, 34.985585]}, {"name": "Ammos Kambouri", "text": "Kicsi, nyugodt strand egy öbölben, Ayia Napától keletre.", "category": "recreational", "coords": [34.023652, 34.978583]}, {"name": "Black Pearl", "text": "Újabb kalózhajó stílusú kirándulóhajó családi kalandokhoz Ayia Napában.", "category": "landmark", "coords": [34.002497, 34.98132]}, {"name": "FantasyBoatParty", "text": "Ismert bulihajó Ayia Napában, amely szórakozást kínál a tengeren.", "category": "landmark", "coords": [34.003543, 34.98112]}, {"name": "Gefyra Ellinikis - Polonikis Filias", "text": "Szimbolikus hely Ayia Napában, amely a Görögország és Lengyelország közötti barátságot hirdeti.", "category": "landmark", "coords": [34.018679, 34.98112]}, {"name": "To Ydragogeio tis Agias Napas", "text": "Egy történelmi vízvezeték maradványai, amely egykor Ayia Napa városát látta el vízzel.", "category": "landmark", "coords": [34.00458, 34.989086]}, {"name": "Skeleton rider", "text": "Egy csontvázlovast ábrázoló jellegzetes szobor az Ayia Napa-i szoborparkban.", "category": "landmark", "coords": [33.989261, 34.987934]}, {"name": "Love stone", "text": "Festői kilátópont Ayia Napa partvidékén, amely sziklaformációiról ismert.", "category": "natural", "coords": [33.981716, 34.98259]}, {"name": "Nissi Isle", "text": "Az Ayia Napa-i Nissi Isle egy csodálatos kilátópont, ahonnan a part menti kis szigetre nyílik rálátás. Ez a tengerpart közeli természeti látványosság tökéletes helyszín a kikapcsolódásra és a fotózásra.", "category": "natural", "coords": [33.967973, 34.985829]}, {"name": "Monachus Monachus Arch", "text": "Természetes sziklahíd Ayia Napában, amely a látogatók kedvelt fotótémája.", "category": "landmark", "coords": [34.016465, 34.98255]}, {"name": "Geheime Brücke", "text": "Rejtett hely Ayia Napában egy természetes sziklaformációval.", "category": "landmark", "coords": [33.977629, 34.985524]}, {"name": "Agia Napa Promenade", "text": "Nyüzsgő tengerparti sétány Ayia Napában, ideális tengerparti sétákhoz.", "category": "landmark", "coords": [33.999875, 34.981818]}, {"name": "Sculpture Park", "text": "Kiterjedt szabadtéri terület Ayia Napában, számos modern szoborral.", "category": "landmark", "coords": [34.019559, 34.984622]}, {"name": "Cleopatra Apts swimming pool", "text": "Úszómedence Ayia Napán a Cleopatra Apartments vendégei és látogatói számára.", "category": "family", "coords": [33.993903, 34.988882]}, {"name": "Blue Lagoon Pool", "text": "Kellemes úszómedence Ayia Napán a pihenni vágyó látogatók számára.", "category": "family", "coords": [33.956696, 34.98991]}, {"name": "Fisherman's Village Pool", "text": "Újabb medence Ayia Napán a felhőtlen vízi szórakozásért.", "category": "family", "coords": [33.95791, 34.990835]}], "ro": [{"name": "Glyky Nero", "text": "Plaja Glyky Nero este situată lângă Ayia Napa.", "category": "recreational", "coords": [34.00844, 34.984219]}, {"name": "Paradisos", "text": "Paradisos este o plajă lângă Ayia Napa.", "category": "recreational", "coords": [34.004897, 34.98376]}, {"name": "Paralia Loykkos toy Manti", "text": "Plajă lângă Ayia Napa.", "category": "recreational", "coords": [33.998397, 34.982451]}, {"name": "Parko Glyptikis Dimoy Agias Napas", "text": "Un simpozion internațional de sculptură cu numeroase opere expuse în aer liber în Ayia Napa.", "category": "museum", "coords": [34.016998, 34.985682]}, {"name": "Vathia Gonia", "text": "O plajă pitorească cu nisip și ape cristaline în Ayia Napa.", "category": "recreational", "coords": [33.979366, 34.98678]}, {"name": "Dimotiko Moyseio Thalassa", "text": "Un muzeu municipal din Ayia Napa dedicat mării și istoriei maritime.", "category": "museum", "coords": [34.002224, 34.987567]}, {"name": "Nissi", "text": "Una dintre cele mai faimoase plaje cu nisip din Cipru, cu o mică insulă în apropiere, în Ayia Napa.", "category": "recreational", "coords": [33.96899, 34.98749]}, {"name": "Katsarka", "text": "O porțiune de plajă mai liniștită în Ayia Napa, ideală pentru relaxare.", "category": "recreational", "coords": [33.990083, 34.985045]}, {"name": "Pernera", "text": "O plajă pentru familii în Ayia Napa, cu nisip auriu și ape puțin adânci.", "category": "recreational", "coords": [33.983378, 34.984934]}, {"name": "Country House Museum", "text": "Un mic muzeu din Ayia Napa care oferă o perspectivă asupra vieții rurale tradiționale cipriote.", "category": "museum", "coords": [33.99971, 34.988771]}, {"name": "Parko Paliatso Luna Park", "text": "Un parc de distracții popular în Ayia Napa, cu numeroase atracții pentru toate vârstele.", "category": "family", "coords": [33.997636, 34.985585]}, {"name": "Ammos Kambouri", "text": "O plajă mică și liniștită într-un golf la est de Ayia Napa.", "category": "recreational", "coords": [34.023652, 34.978583]}, {"name": "Black Pearl", "text": "O altă navă de croazieră în stil pirat pentru aventuri în familie în Ayia Napa.", "category": "landmark", "coords": [34.002497, 34.98132]}, {"name": "FantasyBoatParty", "text": "O barcă de petrecere cunoscută în Ayia Napa, care oferă divertisment pe mare.", "category": "landmark", "coords": [34.003543, 34.98112]}, {"name": "Gefyra Ellinikis - Polonikis Filias", "text": "Un loc simbolic în Ayia Napa care celebrează prietenia dintre Grecia și Polonia.", "category": "landmark", "coords": [34.018679, 34.98112]}, {"name": "To Ydragogeio tis Agias Napas", "text": "Rămășițele unui apeduct istoric care odinioară alimenta cu apă orașul Ayia Napa.", "category": "landmark", "coords": [34.00458, 34.989086]}, {"name": "Skeleton rider", "text": "O sculptură distinctivă reprezentând un călăreț schelet în parcul de sculpturi din Ayia Napa.", "category": "landmark", "coords": [33.989261, 34.987934]}, {"name": "Love stone", "text": "Un punct de observație pitoresc pe coasta din Ayia Napa, cunoscut pentru formațiunile sale stâncoase.", "category": "natural", "coords": [33.981716, 34.98259]}, {"name": "Nissi Isle", "text": "Nissi Isle din Ayia Napa oferă un punct de belvedere excelent spre mica insulă de lângă țărm. Această atracție naturală din apropierea plajei este perfectă pentru a admira peisajul și a face fotografii.", "category": "natural", "coords": [33.967973, 34.985829]}, {"name": "Monachus Monachus Arch", "text": "Un pod natural de piatră în Ayia Napa, fiind un loc preferat pentru fotografii de către vizitatori.", "category": "landmark", "coords": [34.016465, 34.98255]}, {"name": "Geheime Brücke", "text": "Un loc ascuns în Ayia Napa, cu o formațiune stâncoasă naturală.", "category": "landmark", "coords": [33.977629, 34.985524]}, {"name": "Agia Napa Promenade", "text": "O promenadă de coastă animată în Ayia Napa, ideală pentru plimbări pe malul mării.", "category": "landmark", "coords": [33.999875, 34.981818]}, {"name": "Sculpture Park", "text": "O zonă extinsă în aer liber în Ayia Napa, cu o varietate de sculpturen moderne.", "category": "landmark", "coords": [34.019559, 34.984622]}, {"name": "Cleopatra Apts swimming pool", "text": "Piscina apartamentelor Cleopatra din Ayia Napa, un loc de relaxare pentru turiști.", "category": "family", "coords": [33.993903, 34.988882]}, {"name": "Blue Lagoon Pool", "text": "O piscină în Ayia Napa, oferind un mediu plăcut pentru înot și relaxare.", "category": "family", "coords": [33.956696, 34.98991]}, {"name": "Fisherman's Village Pool", "text": "O piscină suplimentară în Ayia Napa pentru distracție și recreere.", "category": "family", "coords": [33.95791, 34.990835]}], "en": [{"name": "Glyky Nero", "text": "Glyky Nero beach is located near Ayia Napa.", "category": "recreational", "coords": [34.00844, 34.984219]}, {"name": "Paradisos", "text": "Paradisos is a beach near Ayia Napa.", "category": "recreational", "coords": [34.004897, 34.98376]}, {"name": "Paralia Loykkos toy Manti", "text": "Beach near Ayia Napa.", "category": "recreational", "coords": [33.998397, 34.982451]}, {"name": "Ayia Napa International sculpture symposium", "text": "An international sculpture symposium featuring numerous outdoor artworks in Ayia Napa.", "category": "museum", "coords": [34.016998, 34.985682]}, {"name": "Vathia Gonia", "text": "A picturesque sandy beach with crystal clear waters in Ayia Napa.", "category": "recreational", "coords": [33.979366, 34.98678]}, {"name": "Thalassa Municipal Museum", "text": "A municipal museum in Ayia Napa dedicated to the sea and maritime history.", "category": "museum", "coords": [34.002224, 34.987567]}, {"name": "Nissi beach", "text": "One of Cyprus's most famous sandy beaches with a small nearby islet in Ayia Napa.", "category": "recreational", "coords": [33.96899, 34.98749]}, {"name": "Katsarka", "text": "A quieter stretch of beach in Ayia Napa, ideal for relaxation.", "category": "recreational", "coords": [33.990083, 34.985045]}, {"name": "Pernera", "text": "A family-friendly beach in Ayia Napa with golden sand and shallow waters.", "category": "recreational", "coords": [33.983378, 34.984934]}, {"name": "Country House Museum", "text": "A small museum in Ayia Napa offering insight into traditional Cypriot rural life.", "category": "museum", "coords": [33.99971, 34.988771]}, {"name": "Parko Paliatso Luna Park", "text": "A popular amusement park in Ayia Napa with numerous rides for all ages.", "category": "family", "coords": [33.997636, 34.985585]}, {"name": "Ammos Kambouri", "text": "A small, quiet beach in a cove east of Ayia Napa.", "category": "recreational", "coords": [34.023652, 34.978583]}, {"name": "Black Pearl", "text": "Another pirate-style excursion boat for family adventures in Ayia Napa.", "category": "landmark", "coords": [34.002497, 34.98132]}, {"name": "FantasyBoatParty", "text": "A well-known party boat in Ayia Napa offering entertainment at sea.", "category": "landmark", "coords": [34.003543, 34.98112]}, {"name": "Bridge of Greek & Polish Friendship", "text": "A symbolic site in Ayia Napa celebrating the friendship between Greece and Poland.", "category": "landmark", "coords": [34.018679, 34.98112]}, {"name": "The Agia Napa Aqueduct", "text": "Remains of a historical aqueduct that once supplied water to the town of Ayia Napa.", "category": "landmark", "coords": [34.00458, 34.989086]}, {"name": "Skeleton rider", "text": "A striking sculpture of a skeleton rider located in the Ayia Napa sculpture park.", "category": "landmark", "coords": [33.989261, 34.987934]}, {"name": "Love stone", "text": "A scenic coastal viewpoint in Ayia Napa known for its rock formations.", "category": "natural", "coords": [33.981716, 34.98259]}, {"name": "Nissi Isle", "text": "Visiting Nissi Isle in Ayia Napa provides a wonderful vantage point overlooking the small offshore island. This natural spot near the beach is a great place for relaxation and photography.", "category": "natural", "coords": [33.967973, 34.985829]}, {"name": "Love Bridge", "text": "A natural rock bridge in Ayia Napa, a popular spot for visitors to take photographs.", "category": "landmark", "coords": [34.016465, 34.98255]}, {"name": "Geheime Brücke", "text": "A hidden spot in Ayia Napa featuring a natural rock formation.", "category": "landmark", "coords": [33.977629, 34.985524]}, {"name": "Agia Napa Promenade", "text": "A lively coastal promenade in Ayia Napa, ideal for walks by the sea.", "category": "landmark", "coords": [33.999875, 34.981818]}, {"name": "Sculpture Park", "text": "A large open-air area in Ayia Napa featuring a variety of modern sculptures.", "category": "landmark", "coords": [34.019559, 34.984622]}, {"name": "Cleopatra Apts swimming pool", "text": "A swimming pool in Ayia Napa located at the Cleopatra Apartments for leisure.", "category": "family", "coords": [33.993903, 34.988882]}, {"name": "Blue Lagoon Pool", "text": "A swimming pool in Ayia Napa providing a nice spot for family relaxation.", "category": "family", "coords": [33.956696, 34.98991]}, {"name": "Fisherman's Village Pool", "text": "Another swimming pool in Ayia Napa designed for water-based recreation.", "category": "family", "coords": [33.95791, 34.990835]}]},
+    id: "cy-ayianapa", "sights": {
+      "de": [
+            {
+                  "name": "Glyky Nero",
+                  "text": "Der Strand Glyky Nero liegt bei Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        34.00844,
+                        34.984219
+                  ]
+            },
+            {
+                  "name": "Paradisos",
+                  "text": "Paradisos ist ein Strand bei Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        34.004897,
+                        34.98376
+                  ]
+            },
+            {
+                  "name": "Paralia Loykkos toy Manti",
+                  "text": "Strand bei Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        33.998397,
+                        34.982451
+                  ]
+            },
+            {
+                  "name": "Parko Glyptikis Dimoy Agias Napas",
+                  "text": "Ein internationales Symposium für Bildhauerei mit zahlreichen Skulpturen im Freien in Ayia Napa.",
+                  "category": "museum",
+                  "coords": [
+                        34.016998,
+                        34.985682
+                  ]
+            },
+            {
+                  "name": "Dimotiko Moyseio Thalassa",
+                  "text": "Ein städtisches Museum in Ayia Napa, das dem Meer und der maritimen Geschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        34.002224,
+                        34.987567
+                  ]
+            },
+            {
+                  "name": "Katsarka",
+                  "text": "Ein ruhigerer Strandabschnitt in Ayia Napa, ideal zum Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        33.990083,
+                        34.985045
+                  ]
+            },
+            {
+                  "name": "Pernera",
+                  "text": "Ein familienfreundlicher Strand in Ayia Napa mit goldenem Sand und flachem Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        33.983378,
+                        34.984934
+                  ]
+            },
+            {
+                  "name": "Country House Museum",
+                  "text": "Ein kleines Museum in Ayia Napa, das Einblicke in das traditionelle zypriotische Landleben bietet.",
+                  "category": "museum",
+                  "coords": [
+                        33.99971,
+                        34.988771
+                  ]
+            },
+            {
+                  "name": "Parko Paliatso Luna Park",
+                  "text": "Ein beliebter Freizeitpark in Ayia Napa mit zahlreichen Fahrgeschäften für alle Altersgruppen.",
+                  "category": "family",
+                  "coords": [
+                        33.997636,
+                        34.985585
+                  ]
+            },
+            {
+                  "name": "Black Pearl",
+                  "text": "Ein weiteres Ausflugsschiff im Piratenstil für Familienabenteuer in Ayia Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        34.002497,
+                        34.98132
+                  ]
+            },
+            {
+                  "name": "FantasyBoatParty",
+                  "text": "Ein bekanntes Partyboot in Ayia Napa, das Unterhaltung auf dem Meer bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        34.003543,
+                        34.98112
+                  ]
+            },
+            {
+                  "name": "Gefyra Ellinikis - Polonikis Filias",
+                  "text": "Ein symbolischer Ort in Ayia Napa, der die Freundschaft zwischen Griechenland und Polen feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        34.018679,
+                        34.98112
+                  ]
+            },
+            {
+                  "name": "To Ydragogeio tis Agias Napas",
+                  "text": "Überreste eines historischen Aquädukts, das einst die Stadt Ayia Napa mit Wasser versorgte.",
+                  "category": "landmark",
+                  "coords": [
+                        34.00458,
+                        34.989086
+                  ]
+            },
+            {
+                  "name": "Skeleton rider",
+                  "text": "Eine markante Skulptur eines Skelettreiters im Skulpturenpark von Ayia Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        33.989261,
+                        34.987934
+                  ]
+            },
+            {
+                  "name": "Love stone",
+                  "text": "Ein malerischer Aussichtspunkt an der Küste von Ayia Napa, bekannt für seine Felsformationen.",
+                  "category": "natural",
+                  "coords": [
+                        33.981716,
+                        34.98259
+                  ]
+            },
+            {
+                  "name": "Nissi Isle",
+                  "text": "Ein Besuch der Nissi Isle in Ayia Napa belohnt mit einem herrlichen Blick auf die kleine Insel vor der Küste. Dieser natürliche Aussichtspunkt nahe des Strandes lädt zum Verweilen und Fotografieren ein.",
+                  "category": "natural",
+                  "coords": [
+                        33.967973,
+                        34.985829
+                  ]
+            },
+            {
+                  "name": "Monachus Monachus Arch",
+                  "text": "Eine natürliche Felsbrücke in Ayia Napa, die ein beliebtes Fotomotiv für Besucher ist.",
+                  "category": "landmark",
+                  "coords": [
+                        34.016465,
+                        34.98255
+                  ]
+            },
+            {
+                  "name": "Geheime Brücke",
+                  "text": "Ein versteckter Ort in Ayia Napa mit einer natürlichen Felsformation.",
+                  "category": "landmark",
+                  "coords": [
+                        33.977629,
+                        34.985524
+                  ]
+            },
+            {
+                  "name": "Agia Napa Promenade",
+                  "text": "Eine belebte Küstenpromenade in Ayia Napa, ideal für Spaziergänge am Meer.",
+                  "category": "landmark",
+                  "coords": [
+                        33.999875,
+                        34.981818
+                  ]
+            },
+            {
+                  "name": "Sculpture Park",
+                  "text": "Ein weitläufiges Freiluftareal in Ayia Napa mit einer Vielzahl moderner Skulpturen.",
+                  "category": "landmark",
+                  "coords": [
+                        34.019559,
+                        34.984622
+                  ]
+            },
+            {
+                  "name": "Cleopatra Apts swimming pool",
+                  "text": "Ein Schwimmbad in Ayia Napa für Gäste der Cleopatra Apartments.",
+                  "category": "family",
+                  "coords": [
+                        33.993903,
+                        34.988882
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon Pool",
+                  "text": "Ein Schwimmbad in Ayia Napa, das zum Entspannen einlädt.",
+                  "category": "family",
+                  "coords": [
+                        33.956696,
+                        34.98991
+                  ]
+            },
+            {
+                  "name": "Fisherman's Village Pool",
+                  "text": "Ein weiteres Schwimmbad in Ayia Napa für Freizeitspaß.",
+                  "category": "family",
+                  "coords": [
+                        33.95791,
+                        34.990835
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glyky Nero",
+                  "text": "A Glyky Nero strand Ayia Napa közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        34.00844,
+                        34.984219
+                  ]
+            },
+            {
+                  "name": "Paradisos",
+                  "text": "Paradisos egy strand Ayia Napa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        34.004897,
+                        34.98376
+                  ]
+            },
+            {
+                  "name": "Paralia Loykkos toy Manti",
+                  "text": "Strand Ajía Nápanál.",
+                  "category": "recreational",
+                  "coords": [
+                        33.998397,
+                        34.982451
+                  ]
+            },
+            {
+                  "name": "Parko Glyptikis Dimoy Agias Napas",
+                  "text": "Nemzetközi szobrászati szimpózium számos szabadtéri alkotással Ayia Napában.",
+                  "category": "museum",
+                  "coords": [
+                        34.016998,
+                        34.985682
+                  ]
+            },
+            {
+                  "name": "Dimotiko Moyseio Thalassa",
+                  "text": "Ayia Napa városi múzeuma, amely a tengernek és a tengerészeti történelemnek van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        34.002224,
+                        34.987567
+                  ]
+            },
+            {
+                  "name": "Katsarka",
+                  "text": "Nyugodtabb tengerparti szakasz Ayia Napában, ideális a kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        33.990083,
+                        34.985045
+                  ]
+            },
+            {
+                  "name": "Pernera",
+                  "text": "Családbarát strand Ayia Napában, aranyhomokkal és sekély vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        33.983378,
+                        34.984934
+                  ]
+            },
+            {
+                  "name": "Country House Museum",
+                  "text": "Kismúzeum Ayia Napában, amely betekintést nyújt a hagyományos ciprusi vidéki életbe.",
+                  "category": "museum",
+                  "coords": [
+                        33.99971,
+                        34.988771
+                  ]
+            },
+            {
+                  "name": "Parko Paliatso Luna Park",
+                  "text": "Népszerű vidámpark Ayia Napában, számos játékkal minden korosztály számára.",
+                  "category": "family",
+                  "coords": [
+                        33.997636,
+                        34.985585
+                  ]
+            },
+            {
+                  "name": "Black Pearl",
+                  "text": "Újabb kalózhajó stílusú kirándulóhajó családi kalandokhoz Ayia Napában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.002497,
+                        34.98132
+                  ]
+            },
+            {
+                  "name": "FantasyBoatParty",
+                  "text": "Ismert bulihajó Ayia Napában, amely szórakozást kínál a tengeren.",
+                  "category": "landmark",
+                  "coords": [
+                        34.003543,
+                        34.98112
+                  ]
+            },
+            {
+                  "name": "Gefyra Ellinikis - Polonikis Filias",
+                  "text": "Szimbolikus hely Ayia Napában, amely a Görögország és Lengyelország közötti barátságot hirdeti.",
+                  "category": "landmark",
+                  "coords": [
+                        34.018679,
+                        34.98112
+                  ]
+            },
+            {
+                  "name": "To Ydragogeio tis Agias Napas",
+                  "text": "Egy történelmi vízvezeték maradványai, amely egykor Ayia Napa városát látta el vízzel.",
+                  "category": "landmark",
+                  "coords": [
+                        34.00458,
+                        34.989086
+                  ]
+            },
+            {
+                  "name": "Skeleton rider",
+                  "text": "Egy csontvázlovast ábrázoló jellegzetes szobor az Ayia Napa-i szoborparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        33.989261,
+                        34.987934
+                  ]
+            },
+            {
+                  "name": "Love stone",
+                  "text": "Festői kilátópont Ayia Napa partvidékén, amely sziklaformációiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        33.981716,
+                        34.98259
+                  ]
+            },
+            {
+                  "name": "Nissi Isle",
+                  "text": "Az Ayia Napa-i Nissi Isle egy csodálatos kilátópont, ahonnan a part menti kis szigetre nyílik rálátás. Ez a tengerpart közeli természeti látványosság tökéletes helyszín a kikapcsolódásra és a fotózásra.",
+                  "category": "natural",
+                  "coords": [
+                        33.967973,
+                        34.985829
+                  ]
+            },
+            {
+                  "name": "Monachus Monachus Arch",
+                  "text": "Természetes sziklahíd Ayia Napában, amely a látogatók kedvelt fotótémája.",
+                  "category": "landmark",
+                  "coords": [
+                        34.016465,
+                        34.98255
+                  ]
+            },
+            {
+                  "name": "Geheime Brücke",
+                  "text": "Rejtett hely Ayia Napában egy természetes sziklaformációval.",
+                  "category": "landmark",
+                  "coords": [
+                        33.977629,
+                        34.985524
+                  ]
+            },
+            {
+                  "name": "Agia Napa Promenade",
+                  "text": "Nyüzsgő tengerparti sétány Ayia Napában, ideális tengerparti sétákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        33.999875,
+                        34.981818
+                  ]
+            },
+            {
+                  "name": "Sculpture Park",
+                  "text": "Kiterjedt szabadtéri terület Ayia Napában, számos modern szoborral.",
+                  "category": "landmark",
+                  "coords": [
+                        34.019559,
+                        34.984622
+                  ]
+            },
+            {
+                  "name": "Cleopatra Apts swimming pool",
+                  "text": "Úszómedence Ayia Napán a Cleopatra Apartments vendégei és látogatói számára.",
+                  "category": "family",
+                  "coords": [
+                        33.993903,
+                        34.988882
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon Pool",
+                  "text": "Kellemes úszómedence Ayia Napán a pihenni vágyó látogatók számára.",
+                  "category": "family",
+                  "coords": [
+                        33.956696,
+                        34.98991
+                  ]
+            },
+            {
+                  "name": "Fisherman's Village Pool",
+                  "text": "Újabb medence Ayia Napán a felhőtlen vízi szórakozásért.",
+                  "category": "family",
+                  "coords": [
+                        33.95791,
+                        34.990835
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glyky Nero",
+                  "text": "Plaja Glyky Nero este situată lângă Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        34.00844,
+                        34.984219
+                  ]
+            },
+            {
+                  "name": "Paradisos",
+                  "text": "Paradisos este o plajă lângă Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        34.004897,
+                        34.98376
+                  ]
+            },
+            {
+                  "name": "Paralia Loykkos toy Manti",
+                  "text": "Plajă lângă Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        33.998397,
+                        34.982451
+                  ]
+            },
+            {
+                  "name": "Parko Glyptikis Dimoy Agias Napas",
+                  "text": "Un simpozion internațional de sculptură cu numeroase opere expuse în aer liber în Ayia Napa.",
+                  "category": "museum",
+                  "coords": [
+                        34.016998,
+                        34.985682
+                  ]
+            },
+            {
+                  "name": "Dimotiko Moyseio Thalassa",
+                  "text": "Un muzeu municipal din Ayia Napa dedicat mării și istoriei maritime.",
+                  "category": "museum",
+                  "coords": [
+                        34.002224,
+                        34.987567
+                  ]
+            },
+            {
+                  "name": "Katsarka",
+                  "text": "O porțiune de plajă mai liniștită în Ayia Napa, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        33.990083,
+                        34.985045
+                  ]
+            },
+            {
+                  "name": "Pernera",
+                  "text": "O plajă pentru familii în Ayia Napa, cu nisip auriu și ape puțin adânci.",
+                  "category": "recreational",
+                  "coords": [
+                        33.983378,
+                        34.984934
+                  ]
+            },
+            {
+                  "name": "Country House Museum",
+                  "text": "Un mic muzeu din Ayia Napa care oferă o perspectivă asupra vieții rurale tradiționale cipriote.",
+                  "category": "museum",
+                  "coords": [
+                        33.99971,
+                        34.988771
+                  ]
+            },
+            {
+                  "name": "Parko Paliatso Luna Park",
+                  "text": "Un parc de distracții popular în Ayia Napa, cu numeroase atracții pentru toate vârstele.",
+                  "category": "family",
+                  "coords": [
+                        33.997636,
+                        34.985585
+                  ]
+            },
+            {
+                  "name": "Black Pearl",
+                  "text": "O altă navă de croazieră în stil pirat pentru aventuri în familie în Ayia Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        34.002497,
+                        34.98132
+                  ]
+            },
+            {
+                  "name": "FantasyBoatParty",
+                  "text": "O barcă de petrecere cunoscută în Ayia Napa, care oferă divertisment pe mare.",
+                  "category": "landmark",
+                  "coords": [
+                        34.003543,
+                        34.98112
+                  ]
+            },
+            {
+                  "name": "Gefyra Ellinikis - Polonikis Filias",
+                  "text": "Un loc simbolic în Ayia Napa care celebrează prietenia dintre Grecia și Polonia.",
+                  "category": "landmark",
+                  "coords": [
+                        34.018679,
+                        34.98112
+                  ]
+            },
+            {
+                  "name": "To Ydragogeio tis Agias Napas",
+                  "text": "Rămășițele unui apeduct istoric care odinioară alimenta cu apă orașul Ayia Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        34.00458,
+                        34.989086
+                  ]
+            },
+            {
+                  "name": "Skeleton rider",
+                  "text": "O sculptură distinctivă reprezentând un călăreț schelet în parcul de sculpturi din Ayia Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        33.989261,
+                        34.987934
+                  ]
+            },
+            {
+                  "name": "Love stone",
+                  "text": "Un punct de observație pitoresc pe coasta din Ayia Napa, cunoscut pentru formațiunile sale stâncoase.",
+                  "category": "natural",
+                  "coords": [
+                        33.981716,
+                        34.98259
+                  ]
+            },
+            {
+                  "name": "Nissi Isle",
+                  "text": "Nissi Isle din Ayia Napa oferă un punct de belvedere excelent spre mica insulă de lângă țărm. Această atracție naturală din apropierea plajei este perfectă pentru a admira peisajul și a face fotografii.",
+                  "category": "natural",
+                  "coords": [
+                        33.967973,
+                        34.985829
+                  ]
+            },
+            {
+                  "name": "Monachus Monachus Arch",
+                  "text": "Un pod natural de piatră în Ayia Napa, fiind un loc preferat pentru fotografii de către vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        34.016465,
+                        34.98255
+                  ]
+            },
+            {
+                  "name": "Geheime Brücke",
+                  "text": "Un loc ascuns în Ayia Napa, cu o formațiune stâncoasă naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        33.977629,
+                        34.985524
+                  ]
+            },
+            {
+                  "name": "Agia Napa Promenade",
+                  "text": "O promenadă de coastă animată în Ayia Napa, ideală pentru plimbări pe malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        33.999875,
+                        34.981818
+                  ]
+            },
+            {
+                  "name": "Sculpture Park",
+                  "text": "O zonă extinsă în aer liber în Ayia Napa, cu o varietate de sculpturen moderne.",
+                  "category": "landmark",
+                  "coords": [
+                        34.019559,
+                        34.984622
+                  ]
+            },
+            {
+                  "name": "Cleopatra Apts swimming pool",
+                  "text": "Piscina apartamentelor Cleopatra din Ayia Napa, un loc de relaxare pentru turiști.",
+                  "category": "family",
+                  "coords": [
+                        33.993903,
+                        34.988882
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon Pool",
+                  "text": "O piscină în Ayia Napa, oferind un mediu plăcut pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        33.956696,
+                        34.98991
+                  ]
+            },
+            {
+                  "name": "Fisherman's Village Pool",
+                  "text": "O piscină suplimentară în Ayia Napa pentru distracție și recreere.",
+                  "category": "family",
+                  "coords": [
+                        33.95791,
+                        34.990835
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glyky Nero",
+                  "text": "Glyky Nero beach is located near Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        34.00844,
+                        34.984219
+                  ]
+            },
+            {
+                  "name": "Paradisos",
+                  "text": "Paradisos is a beach near Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        34.004897,
+                        34.98376
+                  ]
+            },
+            {
+                  "name": "Paralia Loykkos toy Manti",
+                  "text": "Beach near Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        33.998397,
+                        34.982451
+                  ]
+            },
+            {
+                  "name": "Ayia Napa International sculpture symposium",
+                  "text": "An international sculpture symposium featuring numerous outdoor artworks in Ayia Napa.",
+                  "category": "museum",
+                  "coords": [
+                        34.016998,
+                        34.985682
+                  ]
+            },
+            {
+                  "name": "Thalassa Municipal Museum",
+                  "text": "A municipal museum in Ayia Napa dedicated to the sea and maritime history.",
+                  "category": "museum",
+                  "coords": [
+                        34.002224,
+                        34.987567
+                  ]
+            },
+            {
+                  "name": "Nissi beach",
+                  "text": "One of Cyprus's most famous sandy beaches with a small nearby islet in Ayia Napa.",
+                  "category": "recreational",
+                  "coords": [
+                        33.96899,
+                        34.98749
+                  ]
+            },
+            {
+                  "name": "Katsarka",
+                  "text": "A quieter stretch of beach in Ayia Napa, ideal for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        33.990083,
+                        34.985045
+                  ]
+            },
+            {
+                  "name": "Pernera",
+                  "text": "A family-friendly beach in Ayia Napa with golden sand and shallow waters.",
+                  "category": "recreational",
+                  "coords": [
+                        33.983378,
+                        34.984934
+                  ]
+            },
+            {
+                  "name": "Country House Museum",
+                  "text": "A small museum in Ayia Napa offering insight into traditional Cypriot rural life.",
+                  "category": "museum",
+                  "coords": [
+                        33.99971,
+                        34.988771
+                  ]
+            },
+            {
+                  "name": "Parko Paliatso Luna Park",
+                  "text": "A popular amusement park in Ayia Napa with numerous rides for all ages.",
+                  "category": "family",
+                  "coords": [
+                        33.997636,
+                        34.985585
+                  ]
+            },
+            {
+                  "name": "Black Pearl",
+                  "text": "Another pirate-style excursion boat for family adventures in Ayia Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        34.002497,
+                        34.98132
+                  ]
+            },
+            {
+                  "name": "FantasyBoatParty",
+                  "text": "A well-known party boat in Ayia Napa offering entertainment at sea.",
+                  "category": "landmark",
+                  "coords": [
+                        34.003543,
+                        34.98112
+                  ]
+            },
+            {
+                  "name": "Bridge of Greek & Polish Friendship",
+                  "text": "A symbolic site in Ayia Napa celebrating the friendship between Greece and Poland.",
+                  "category": "landmark",
+                  "coords": [
+                        34.018679,
+                        34.98112
+                  ]
+            },
+            {
+                  "name": "The Agia Napa Aqueduct",
+                  "text": "Remains of a historical aqueduct that once supplied water to the town of Ayia Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        34.00458,
+                        34.989086
+                  ]
+            },
+            {
+                  "name": "Skeleton rider",
+                  "text": "A striking sculpture of a skeleton rider located in the Ayia Napa sculpture park.",
+                  "category": "landmark",
+                  "coords": [
+                        33.989261,
+                        34.987934
+                  ]
+            },
+            {
+                  "name": "Love stone",
+                  "text": "A scenic coastal viewpoint in Ayia Napa known for its rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        33.981716,
+                        34.98259
+                  ]
+            },
+            {
+                  "name": "Nissi Isle",
+                  "text": "Visiting Nissi Isle in Ayia Napa provides a wonderful vantage point overlooking the small offshore island. This natural spot near the beach is a great place for relaxation and photography.",
+                  "category": "natural",
+                  "coords": [
+                        33.967973,
+                        34.985829
+                  ]
+            },
+            {
+                  "name": "Love Bridge",
+                  "text": "A natural rock bridge in Ayia Napa, a popular spot for visitors to take photographs.",
+                  "category": "landmark",
+                  "coords": [
+                        34.016465,
+                        34.98255
+                  ]
+            },
+            {
+                  "name": "Geheime Brücke",
+                  "text": "A hidden spot in Ayia Napa featuring a natural rock formation.",
+                  "category": "landmark",
+                  "coords": [
+                        33.977629,
+                        34.985524
+                  ]
+            },
+            {
+                  "name": "Agia Napa Promenade",
+                  "text": "A lively coastal promenade in Ayia Napa, ideal for walks by the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        33.999875,
+                        34.981818
+                  ]
+            },
+            {
+                  "name": "Sculpture Park",
+                  "text": "A large open-air area in Ayia Napa featuring a variety of modern sculptures.",
+                  "category": "landmark",
+                  "coords": [
+                        34.019559,
+                        34.984622
+                  ]
+            },
+            {
+                  "name": "Cleopatra Apts swimming pool",
+                  "text": "A swimming pool in Ayia Napa located at the Cleopatra Apartments for leisure.",
+                  "category": "family",
+                  "coords": [
+                        33.993903,
+                        34.988882
+                  ]
+            },
+            {
+                  "name": "Blue Lagoon Pool",
+                  "text": "A swimming pool in Ayia Napa providing a nice spot for family relaxation.",
+                  "category": "family",
+                  "coords": [
+                        33.956696,
+                        34.98991
+                  ]
+            },
+            {
+                  "name": "Fisherman's Village Pool",
+                  "text": "Another swimming pool in Ayia Napa designed for water-based recreation.",
+                  "category": "family",
+                  "coords": [
+                        33.95791,
+                        34.990835
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CY-002",
     coords: [34.0000, 34.9833],
@@ -2680,42 +7054,6 @@ export const cyprusRegions: POI[] = [
     id: "cy-kourion", "sights": {
       "de": [
             {
-                  "name": "Kourion Beach",
-                  "text": "Ein Küstenabschnitt in der Nähe der antiken Ruinen von Kourion.",
-                  "category": "recreational",
-                  "coords": [
-                        32.884463,
-                        34.660054
-                  ]
-            },
-            {
-                  "name": "Kourion Stadium",
-                  "text": "Ein gut erhaltenes antikes Stadion aus dem 2. Jahrhundert in Kourion.",
-                  "category": "historical",
-                  "coords": [
-                        32.87631,
-                        34.670696
-                  ]
-            },
-            {
-                  "name": "Kourio",
-                  "text": "Eine bedeutende antike Stadtfestung auf Zypern mit römischen Theatern und Mosaiken.",
-                  "category": "historical",
-                  "coords": [
-                        32.885714,
-                        34.665169
-                  ]
-            },
-            {
-                  "name": "Sanctuary of Apollo",
-                  "text": "Ein antikes Heiligtum, das Apollo Hylates gewidmet war, in der Nähe von Kourion.",
-                  "category": "historical",
-                  "coords": [
-                        32.863561,
-                        34.672946
-                  ]
-            },
-            {
                   "name": "Topiko Arkhaiologiko Mouseio Kouriou",
                   "text": "Ein Museum, das Fundstücke aus der antiken Stadt Kourion ausstellt.",
                   "category": "museum",
@@ -2732,63 +7070,9 @@ export const cyprusRegions: POI[] = [
                         32.916575,
                         34.675023
                   ]
-            },
-            {
-                  "name": "Small Basilica At Maydan",
-                  "text": "Die Ruinen einer kleinen christlichen Basilika in der antiken Stätte Kourion.",
-                  "category": "historical",
-                  "coords": [
-                        32.878758,
-                        34.6706
-                  ]
-            },
-            {
-                  "name": "Ancient Basilica",
-                  "text": "Die Überreste einer frühchristlichen Basilika in Kourion.",
-                  "category": "historical",
-                  "coords": [
-                        32.883353,
-                        34.663443
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Kourion Beach",
-                  "text": "Tengerparti szakasz Kourion ókori romjai közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        32.884463,
-                        34.660054
-                  ]
-            },
-            {
-                  "name": "Kourion Stadium",
-                  "text": "Jó állapotban fennmaradt ókori stadion a 2. századból Kourionban.",
-                  "category": "historical",
-                  "coords": [
-                        32.87631,
-                        34.670696
-                  ]
-            },
-            {
-                  "name": "Kourio",
-                  "text": "Jelentős ókori városállam Cipruson, római színházzal és mozaikokkal.",
-                  "category": "historical",
-                  "coords": [
-                        32.885714,
-                        34.665169
-                  ]
-            },
-            {
-                  "name": "Sanctuary of Apollo",
-                  "text": "Apollón Hülátésznek szentelt ókori szentély Kourion közelében.",
-                  "category": "historical",
-                  "coords": [
-                        32.863561,
-                        34.672946
-                  ]
-            },
             {
                   "name": "Topiko Arkhaiologiko Mouseio Kouriou",
                   "text": "Múzeum, amely az ókori Kourion városából származó leleteket mutatja be.",
@@ -2806,63 +7090,9 @@ export const cyprusRegions: POI[] = [
                         32.916575,
                         34.675023
                   ]
-            },
-            {
-                  "name": "Small Basilica At Maydan",
-                  "text": "Egy kis keresztény bazilika romjai Kourion ókori lelőhelyén.",
-                  "category": "historical",
-                  "coords": [
-                        32.878758,
-                        34.6706
-                  ]
-            },
-            {
-                  "name": "Ancient Basilica",
-                  "text": "Egy korai keresztény bazilika maradványai Kourionban.",
-                  "category": "historical",
-                  "coords": [
-                        32.883353,
-                        34.663443
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Kourion Beach",
-                  "text": "O zonă de coastă situată lângă ruinele antice din Kourion.",
-                  "category": "recreational",
-                  "coords": [
-                        32.884463,
-                        34.660054
-                  ]
-            },
-            {
-                  "name": "Kourion Stadium",
-                  "text": "Un stadion antic bine conservat din secolul al II-lea în Kourion.",
-                  "category": "historical",
-                  "coords": [
-                        32.87631,
-                        34.670696
-                  ]
-            },
-            {
-                  "name": "Kourio",
-                  "text": "Un important oraș-stat antic din Cipru, cu un teatru roman și mozaicuri.",
-                  "category": "historical",
-                  "coords": [
-                        32.885714,
-                        34.665169
-                  ]
-            },
-            {
-                  "name": "Sanctuary of Apollo",
-                  "text": "Un sanctuar antic dedicat lui Apollo Hylates, situat lângă Kourion.",
-                  "category": "historical",
-                  "coords": [
-                        32.863561,
-                        34.672946
-                  ]
-            },
             {
                   "name": "Topiko Arkhaiologiko Mouseio Kouriou",
                   "text": "Un muzeu care expune artefacte descoperite în orașul antic Kourion.",
@@ -2880,63 +7110,9 @@ export const cyprusRegions: POI[] = [
                         32.916575,
                         34.675023
                   ]
-            },
-            {
-                  "name": "Small Basilica At Maydan",
-                  "text": "Ruinele unei mici bazilici creștine în situl antic Kourion.",
-                  "category": "historical",
-                  "coords": [
-                        32.878758,
-                        34.6706
-                  ]
-            },
-            {
-                  "name": "Ancient Basilica",
-                  "text": "Resturile unei bazilici creștine timpurii în Kourion.",
-                  "category": "historical",
-                  "coords": [
-                        32.883353,
-                        34.663443
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Kourion Beach",
-                  "text": "A coastal beach area located near the ancient ruins of Kourion.",
-                  "category": "recreational",
-                  "coords": [
-                        32.884463,
-                        34.660054
-                  ]
-            },
-            {
-                  "name": "Kourion Stadium",
-                  "text": "A well-preserved ancient stadium dating back to the 2nd century in Kourion.",
-                  "category": "historical",
-                  "coords": [
-                        32.87631,
-                        34.670696
-                  ]
-            },
-            {
-                  "name": "Curium",
-                  "text": "A major ancient city-state in Cyprus featuring a Roman theater and mosaics.",
-                  "category": "historical",
-                  "coords": [
-                        32.885714,
-                        34.665169
-                  ]
-            },
-            {
-                  "name": "Sanctuary of Apollo",
-                  "text": "An ancient sanctuary dedicated to Apollo Hylates located near Kourion.",
-                  "category": "historical",
-                  "coords": [
-                        32.863561,
-                        34.672946
-                  ]
-            },
             {
                   "name": "Local Archaeological Kourion Museum",
                   "text": "A museum displaying artifacts discovered at the ancient city of Kourion.",
@@ -2953,24 +7129,6 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         32.916575,
                         34.675023
-                  ]
-            },
-            {
-                  "name": "Small Basilica At Maydan",
-                  "text": "The ruins of a small Christian basilica at the ancient site of Kourion.",
-                  "category": "historical",
-                  "coords": [
-                        32.878758,
-                        34.6706
-                  ]
-            },
-            {
-                  "name": "Ancient Basilica",
-                  "text": "The remains of an early Christian basilica in Kourion.",
-                  "category": "historical",
-                  "coords": [
-                        32.883353,
-                        34.663443
                   ]
             }
       ]
@@ -3386,15 +7544,6 @@ export const cyprusRegions: POI[] = [
                         33.334553,
                         34.798901
                   ]
-            },
-            {
-                  "name": "Golden Donkeys Farm",
-                  "text": "Eine Besucherfarm zum Schutz zypriotischer Esel in Choirokoitia.",
-                  "category": "landmark",
-                  "coords": [
-                        33.333837,
-                        34.818042
-                  ]
             }
       ],
       "hu": [
@@ -3432,15 +7581,6 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         33.334553,
                         34.798901
-                  ]
-            },
-            {
-                  "name": "Golden Donkeys Farm",
-                  "text": "Látogatható farm a ciprusi szamarak védelmére Choirokoitiában.",
-                  "category": "landmark",
-                  "coords": [
-                        33.333837,
-                        34.818042
                   ]
             }
       ],
@@ -3480,15 +7620,6 @@ export const cyprusRegions: POI[] = [
                         33.334553,
                         34.798901
                   ]
-            },
-            {
-                  "name": "Golden Donkeys Farm",
-                  "text": "O fermă vizitabilă pentru protejarea măgarilor ciprioți în Choirokoitia.",
-                  "category": "landmark",
-                  "coords": [
-                        33.333837,
-                        34.818042
-                  ]
             }
       ],
       "en": [
@@ -3526,15 +7657,6 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         33.334553,
                         34.798901
-                  ]
-            },
-            {
-                  "name": "Golden Donkeys Farm",
-                  "text": "A visitor farm for the protection of Cypriot donkeys in Choirokoitia.",
-                  "category": "landmark",
-                  "coords": [
-                        33.333837,
-                        34.818042
                   ]
             }
       ]
@@ -3617,15 +7739,6 @@ export const cyprusRegions: POI[] = [
     id: "cy-mount-olympus", "sights": {
       "de": [
             {
-                  "name": "Ethniko Dasiko Parko Troodous",
-                  "text": "Ein weitläufiges Waldschutzgebiet im Troodos-Gebirge mit Wanderwegen und reicher Flora.",
-                  "category": "natural",
-                  "coords": [
-                        32.882021,
-                        34.931155
-                  ]
-            },
-            {
                   "name": "Olympos",
                   "text": "Mit 1952 Metern der höchste Gipfel Zyperns, gelegen im Herzen des Troodos-Gebirges.",
                   "category": "landmark",
@@ -3633,72 +7746,9 @@ export const cyprusRegions: POI[] = [
                         32.86495,
                         34.936613
                   ]
-            },
-            {
-                  "name": "Kaledonian Waterfalls",
-                  "text": "Ein beliebter Wasserfall auf Zypern, der über Wanderwege durch dichte Wälder erreichbar ist.",
-                  "category": "landmark",
-                  "coords": [
-                        32.870001,
-                        34.903055
-                  ]
-            },
-            {
-                  "name": "Kokkini",
-                  "text": "Ein Aussichtspunkt im Troodos-Gebirge mit Panoramablick auf die umliegende Berglandschaft.",
-                  "category": "natural",
-                  "coords": [
-                        32.829833,
-                        34.915452
-                  ]
-            },
-            {
-                  "name": "Gerokamina",
-                  "text": "Ein markanter Punkt im Troodos-Gebirge, bekannt für seine weite Sicht über die Region.",
-                  "category": "natural",
-                  "coords": [
-                        32.860617,
-                        34.909247
-                  ]
-            },
-            {
-                  "name": "chromium mine",
-                  "text": "Ein ehemaliges Bergwerk auf dem Olymp, das an die Geschichte des Chromerzabbaus erinnert.",
-                  "category": "landmark",
-                  "coords": [
-                        32.860436,
-                        34.924428
-                  ]
-            },
-            {
-                  "name": "Viewpoint with telescope",
-                  "text": "Ein ausgestatteter Aussichtspunkt auf dem Olymp für detaillierte Beobachtungen der Insel.",
-                  "category": "natural",
-                  "coords": [
-                        32.873455,
-                        34.93557
-                  ]
-            },
-            {
-                  "name": "Giant Black Pine",
-                  "text": "Eine jahrhundertealte Schwarzkiefer, die als Naturattraktion im Troodos-Gebirge gilt.",
-                  "category": "landmark",
-                  "coords": [
-                        32.871035,
-                        34.928807
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Ethniko Dasiko Parko Troodous",
-                  "text": "Kiterjedt erdővédelmi terület a Troodos-hegységben, túraútvonalakkal és gazdag flórával.",
-                  "category": "natural",
-                  "coords": [
-                        32.882021,
-                        34.931155
-                  ]
-            },
             {
                   "name": "Olumpos",
                   "text": "1952 méterével Ciprus legmagasabb csúcsa, a Troodos-hegység szívében.",
@@ -3707,72 +7757,9 @@ export const cyprusRegions: POI[] = [
                         32.86495,
                         34.936613
                   ]
-            },
-            {
-                  "name": "Kaledonian Waterfalls",
-                  "text": "Népszerű ciprusi vízesés, amely sűrű erdőkön átvezető túraútvonalakon érhető el.",
-                  "category": "landmark",
-                  "coords": [
-                        32.870001,
-                        34.903055
-                  ]
-            },
-            {
-                  "name": "Kokkini",
-                  "text": "Kilátópont a Troodos-hegységben, panorámás kilátással a környező hegyvidékre.",
-                  "category": "natural",
-                  "coords": [
-                        32.829833,
-                        34.915452
-                  ]
-            },
-            {
-                  "name": "Gerokamina",
-                  "text": "Jellegzetes pont a Troodos-hegységben, amely a régióra nyíló tágas kilátásáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        32.860617,
-                        34.909247
-                  ]
-            },
-            {
-                  "name": "chromium mine",
-                  "text": "Egykori bánya az Olümposz-hegyen, amely a krómérc-bányászat történetét őrzi.",
-                  "category": "landmark",
-                  "coords": [
-                        32.860436,
-                        34.924428
-                  ]
-            },
-            {
-                  "name": "Viewpoint with telescope",
-                  "text": "Távcsővel felszerelt kilátópont az Olümposzon a sziget részletes megfigyeléséhez.",
-                  "category": "natural",
-                  "coords": [
-                        32.873455,
-                        34.93557
-                  ]
-            },
-            {
-                  "name": "Giant Black Pine",
-                  "text": "Több száz éves feketefenyő, amely természeti látványosság a Troodos-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        32.871035,
-                        34.928807
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Ethniko Dasiko Parko Troodous",
-                  "text": "O rezervație forestieră vastă în Munții Troodos, cu trasee de drumeție și floră bogată.",
-                  "category": "natural",
-                  "coords": [
-                        32.882021,
-                        34.931155
-                  ]
-            },
             {
                   "name": "Olumpos",
                   "text": "Cel mai înalt vârf din Cipru, cu o altitudine de 1952 metri, situat în Munții Troodos.",
@@ -3781,72 +7768,9 @@ export const cyprusRegions: POI[] = [
                         32.86495,
                         34.936613
                   ]
-            },
-            {
-                  "name": "Kaledonian Waterfalls",
-                  "text": "O cascadă populară din Cipru, accesibilă prin trasee de drumeție prin păduri dese.",
-                  "category": "landmark",
-                  "coords": [
-                        32.870001,
-                        34.903055
-                  ]
-            },
-            {
-                  "name": "Kokkini",
-                  "text": "Un punct de observație în Munții Troodos, cu vedere panoramică asupra peisajului montan.",
-                  "category": "natural",
-                  "coords": [
-                        32.829833,
-                        34.915452
-                  ]
-            },
-            {
-                  "name": "Gerokamina",
-                  "text": "Un punct proeminent în Munții Troodos, cunoscut pentru vederea largă asupra regiunii.",
-                  "category": "natural",
-                  "coords": [
-                        32.860617,
-                        34.909247
-                  ]
-            },
-            {
-                  "name": "chromium mine",
-                  "text": "O fostă mină pe muntele Olimp, care amintește de istoria exploatării de crom.",
-                  "category": "landmark",
-                  "coords": [
-                        32.860436,
-                        34.924428
-                  ]
-            },
-            {
-                  "name": "Viewpoint with telescope",
-                  "text": "Un punct de observație dotat cu telescop pe muntele Olimp pentru vederi detaliate ale insulei.",
-                  "category": "natural",
-                  "coords": [
-                        32.873455,
-                        34.93557
-                  ]
-            },
-            {
-                  "name": "Giant Black Pine",
-                  "text": "Un pin negru secular, considerat o atracție naturală în Munții Troodos.",
-                  "category": "landmark",
-                  "coords": [
-                        32.871035,
-                        34.928807
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Troodos National Forest Park",
-                  "text": "An extensive forest reserve in the Troodos Mountains with hiking trails and rich flora.",
-                  "category": "natural",
-                  "coords": [
-                        32.882021,
-                        34.931155
-                  ]
-            },
             {
                   "name": "Olympus",
                   "text": "The highest peak in Cyprus at 1,952 meters, located in the heart of the Troodos Mountains.",
@@ -3854,60 +7778,6 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         32.86495,
                         34.936613
-                  ]
-            },
-            {
-                  "name": "Kaledonian Waterfalls",
-                  "text": "A popular Cypriot waterfall accessible via hiking trails through dense forests.",
-                  "category": "landmark",
-                  "coords": [
-                        32.870001,
-                        34.903055
-                  ]
-            },
-            {
-                  "name": "Kokkini",
-                  "text": "A viewpoint in the Troodos Mountains offering panoramic views of the mountain landscape.",
-                  "category": "natural",
-                  "coords": [
-                        32.829833,
-                        34.915452
-                  ]
-            },
-            {
-                  "name": "Gerokamina",
-                  "text": "A prominent spot in the Troodos Mountains known for its wide views over the region.",
-                  "category": "natural",
-                  "coords": [
-                        32.860617,
-                        34.909247
-                  ]
-            },
-            {
-                  "name": "Chromite mine",
-                  "text": "A former mine on Mount Olympus, recalling the history of chromite mining.",
-                  "category": "landmark",
-                  "coords": [
-                        32.860436,
-                        34.924428
-                  ]
-            },
-            {
-                  "name": "Viewpoint with telescope",
-                  "text": "An observation point equipped with a telescope on Mount Olympus for detailed views of the island.",
-                  "category": "natural",
-                  "coords": [
-                        32.873455,
-                        34.93557
-                  ]
-            },
-            {
-                  "name": "Giant Black Pine",
-                  "text": "A centuries-old black pine tree, considered a natural attraction in the Troodos Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        32.871035,
-                        34.928807
                   ]
             }
       ]
@@ -4009,33 +7879,6 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Moutti tis Sotiras",
-                  "text": "Ein markanter Berggipfel auf der Akamas-Halbinsel mit Panoramablick auf das Meer.",
-                  "category": "landmark",
-                  "coords": [
-                        32.32399,
-                        35.064002
-                  ]
-            },
-            {
-                  "name": "Purgos tes Regainas",
-                  "text": "Die Ruinen eines mittelalterlichen Turms, der mit lokalen Legenden verbunden ist.",
-                  "category": "historical",
-                  "coords": [
-                        32.325686,
-                        35.05948
-                  ]
-            },
-            {
-                  "name": "Bad der Aphrodite",
-                  "text": "Eine natürliche Grotte, in der der Legende nach die Göttin Aphrodite badete.",
-                  "category": "landmark",
-                  "coords": [
-                        32.343854,
-                        35.05636
-                  ]
-            },
-            {
                   "name": "Smelting tower",
                   "text": "Überreste einer historischen Anlage zur Metallverarbeitung in der Region.",
                   "category": "landmark",
@@ -4053,33 +7896,6 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         32.313004,
                         35.011927
-                  ]
-            },
-            {
-                  "name": "Moutti tis Sotiras",
-                  "text": "Jellegzetes hegycsúcs az Akamas-félszigeten, panorámás kilátással a tengerre.",
-                  "category": "landmark",
-                  "coords": [
-                        32.32399,
-                        35.064002
-                  ]
-            },
-            {
-                  "name": "Purgos tes Regainas",
-                  "text": "Egy középkori torony romjai, amelyhez helyi legendák fűződnek.",
-                  "category": "historical",
-                  "coords": [
-                        32.325686,
-                        35.05948
-                  ]
-            },
-            {
-                  "name": "Baths of Aphrodite",
-                  "text": "Természetes barlang, ahol a legenda szerint Aphrodité istennő fürdött.",
-                  "category": "landmark",
-                  "coords": [
-                        32.343854,
-                        35.05636
                   ]
             },
             {
@@ -4103,33 +7919,6 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Moutti tis Sotiras",
-                  "text": "Un vârf muntos de pe peninsula Akamas, oferind vederi panoramice spre mare.",
-                  "category": "landmark",
-                  "coords": [
-                        32.32399,
-                        35.064002
-                  ]
-            },
-            {
-                  "name": "Purgos tes Regainas",
-                  "text": "Ruinele unui turn medieval, asociate cu legende locale.",
-                  "category": "historical",
-                  "coords": [
-                        32.325686,
-                        35.05948
-                  ]
-            },
-            {
-                  "name": "Baths of Aphrodite",
-                  "text": "O grotă naturală unde, conform legendei, se scălda zeița Afrodita.",
-                  "category": "landmark",
-                  "coords": [
-                        32.343854,
-                        35.05636
-                  ]
-            },
-            {
                   "name": "Smelting tower",
                   "text": "Vestigiile unei instalații istorice de prelucrare a metalelor din regiune.",
                   "category": "landmark",
@@ -4147,33 +7936,6 @@ export const cyprusRegions: POI[] = [
                   "coords": [
                         32.313004,
                         35.011927
-                  ]
-            },
-            {
-                  "name": "Moutti tis Sotiras",
-                  "text": "A prominent mountain peak on the Akamas Peninsula with panoramic sea views.",
-                  "category": "landmark",
-                  "coords": [
-                        32.32399,
-                        35.064002
-                  ]
-            },
-            {
-                  "name": "Pyrgos tis Rigainas",
-                  "text": "The ruins of a medieval tower associated with local legends.",
-                  "category": "historical",
-                  "coords": [
-                        32.325686,
-                        35.05948
-                  ]
-            },
-            {
-                  "name": "Baths of Aphrodite",
-                  "text": "A natural grotto where, according to legend, the goddess Aphrodite used to bathe.",
-                  "category": "landmark",
-                  "coords": [
-                        32.343854,
-                        35.05636
                   ]
             },
             {
@@ -4275,15 +8037,6 @@ export const cyprusRegions: POI[] = [
     id: "cy-aphrodite-rock", "sights": {
       "de": [
             {
-                  "name": "Ligrin tou Digeni",
-                  "text": "Archäologische Ausgrabungsstätte in der Nähe des berühmten Aphrodite-Felsens.",
-                  "category": "historical",
-                  "coords": [
-                        32.624028,
-                        34.690466
-                  ]
-            },
-            {
                   "name": "Ethniko Dasiko Parko Petra tou Romiou",
                   "text": "Ein geschütztes Waldgebiet, das die Küstenformation Petra tou Romiou umgibt.",
                   "category": "natural",
@@ -4330,15 +8083,6 @@ export const cyprusRegions: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Ligrin tou Digeni",
-                  "text": "Régészeti lelőhely a híres Aphrodité-szikla közelében.",
-                  "category": "historical",
-                  "coords": [
-                        32.624028,
-                        34.690466
-                  ]
-            },
             {
                   "name": "Ethniko Dasiko Parko Petra tou Romiou",
                   "text": "Védett erdős terület, amely körülveszi a Petra tou Romiou parti képződményt.",
@@ -4387,15 +8131,6 @@ export const cyprusRegions: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ligrin tou Digeni",
-                  "text": "Situl arheologic situat în apropierea celebrei stânci a Afroditei.",
-                  "category": "historical",
-                  "coords": [
-                        32.624028,
-                        34.690466
-                  ]
-            },
-            {
                   "name": "Ethniko Dasiko Parko Petra tou Romiou",
                   "text": "O zonă forestieră protejată care înconjoară formațiunea de coastă Petra tou Romiou.",
                   "category": "natural",
@@ -4442,15 +8177,6 @@ export const cyprusRegions: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Ligrin tou Digeni",
-                  "text": "Archaeological site located near the famous Aphrodite's Rock.",
-                  "category": "historical",
-                  "coords": [
-                        32.624028,
-                        34.690466
-                  ]
-            },
             {
                   "name": "Petra tou Romiou National Forest Park",
                   "text": "A protected forest area surrounding the Petra tou Romiou coastal formation.",
@@ -4552,57 +8278,12 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Pafos Zoo",
-                  "text": "Der erste und größte Zoo auf Zypern mit einer Vielzahl exotischer Tiere.",
-                  "category": "recreational",
-                  "coords": [
-                        32.341857,
-                        34.892897
-                  ]
-            },
-            {
                   "name": "The Necropolis at Meletis Forest",
                   "text": "Eine antike Begräbnisstätte in einem Waldgebiet nahe der Akamas-Halbinsel.",
                   "category": "historical",
                   "coords": [
                         32.328602,
                         34.905011
-                  ]
-            },
-            {
-                  "name": "Kafizis Beach",
-                  "text": "Ein naturbelassener Küstenabschnitt in der Region Paphos.",
-                  "category": "recreational",
-                  "coords": [
-                        32.323007,
-                        34.894662
-                  ]
-            },
-            {
-                  "name": "Agios Georgios Ancient Basilikas",
-                  "text": "Ruinen frühchristlicher Basiliken mit gut erhaltenen Mosaikböden.",
-                  "category": "historical",
-                  "coords": [
-                        32.321154,
-                        34.902171
-                  ]
-            },
-            {
-                  "name": "Traditional Clothes Museum",
-                  "text": "Ein Museum, das die traditionelle zypriotische Kleidung und Handwerkskunst ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        32.342799,
-                        34.893702
-                  ]
-            },
-            {
-                  "name": "Asian Elephant Interactions",
-                  "text": "Ein Bereich im Pafos Zoo, der Begegnungen mit asiatischen Elefanten ermöglicht.",
-                  "category": "recreational",
-                  "coords": [
-                        32.341594,
-                        34.89173
                   ]
             },
             {
@@ -4626,57 +8307,12 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Pafos Zoo",
-                  "text": "Ciprus első és legnagyobb állatkertje, számos egzotikus állattal.",
-                  "category": "recreational",
-                  "coords": [
-                        32.341857,
-                        34.892897
-                  ]
-            },
-            {
                   "name": "The Necropolis at Meletis Forest",
                   "text": "Ókori temetkezési hely az Akamas-félsziget közelében lévő erdőben.",
                   "category": "historical",
                   "coords": [
                         32.328602,
                         34.905011
-                  ]
-            },
-            {
-                  "name": "Kafizis Beach",
-                  "text": "Természetközeli tengerparti szakasz Paphos régiójában.",
-                  "category": "recreational",
-                  "coords": [
-                        32.323007,
-                        34.894662
-                  ]
-            },
-            {
-                  "name": "Agios Georgios Ancient Basilikas",
-                  "text": "Kora keresztény bazilikák romjai jól megőrzött mozaikpadlókkal.",
-                  "category": "historical",
-                  "coords": [
-                        32.321154,
-                        34.902171
-                  ]
-            },
-            {
-                  "name": "Traditional Clothes Museum",
-                  "text": "A hagyományos ciprusi viseleteket és kézművességet bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        32.342799,
-                        34.893702
-                  ]
-            },
-            {
-                  "name": "Asian Elephant Interactions",
-                  "text": "A Pafos Zoo területe, ahol ázsiai elefántokkal lehet találkozni.",
-                  "category": "recreational",
-                  "coords": [
-                        32.341594,
-                        34.89173
                   ]
             },
             {
@@ -4700,57 +8336,12 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Pafos Zoo",
-                  "text": "Prima și cea mai mare grădină zoologică din Cipru, cu o varietate de animale exotice.",
-                  "category": "recreational",
-                  "coords": [
-                        32.341857,
-                        34.892897
-                  ]
-            },
-            {
                   "name": "The Necropolis at Meletis Forest",
                   "text": "O necropolă antică situată într-o zonă împădurită lângă peninsula Akamas.",
                   "category": "historical",
                   "coords": [
                         32.328602,
                         34.905011
-                  ]
-            },
-            {
-                  "name": "Kafizis Beach",
-                  "text": "O porțiune de coastă naturală situată în regiunea Paphos.",
-                  "category": "recreational",
-                  "coords": [
-                        32.323007,
-                        34.894662
-                  ]
-            },
-            {
-                  "name": "Agios Georgios Ancient Basilikas",
-                  "text": "Ruinele unor bazilici creștine timpurii, cu pardoseli de mozaic bine conservate.",
-                  "category": "historical",
-                  "coords": [
-                        32.321154,
-                        34.902171
-                  ]
-            },
-            {
-                  "name": "Traditional Clothes Museum",
-                  "text": "Un muzeu care expune îmbrăcămintea tradițională cipriotă și meșteșugurile locale.",
-                  "category": "museum",
-                  "coords": [
-                        32.342799,
-                        34.893702
-                  ]
-            },
-            {
-                  "name": "Asian Elephant Interactions",
-                  "text": "O zonă din grădina zoologică din Pafos care permite interacțiunea cu elefanți asiatici.",
-                  "category": "recreational",
-                  "coords": [
-                        32.341594,
-                        34.89173
                   ]
             },
             {
@@ -4774,57 +8365,12 @@ export const cyprusRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Pafos Zoo",
-                  "text": "The first and largest zoo in Cyprus, featuring a variety of exotic animals.",
-                  "category": "recreational",
-                  "coords": [
-                        32.341857,
-                        34.892897
-                  ]
-            },
-            {
                   "name": "The Necropolis at Meletis Forest",
                   "text": "An ancient burial site located in a forested area near the Akamas Peninsula.",
                   "category": "historical",
                   "coords": [
                         32.328602,
                         34.905011
-                  ]
-            },
-            {
-                  "name": "Kafizis Beach",
-                  "text": "A natural coastal stretch located in the Paphos region.",
-                  "category": "recreational",
-                  "coords": [
-                        32.323007,
-                        34.894662
-                  ]
-            },
-            {
-                  "name": "Agios Georgios Ancient Basilikas",
-                  "text": "Ruins of early Christian basilicas featuring well-preserved mosaic floors.",
-                  "category": "historical",
-                  "coords": [
-                        32.321154,
-                        34.902171
-                  ]
-            },
-            {
-                  "name": "Traditional Clothes Museum",
-                  "text": "A museum showcasing traditional Cypriot clothing and local craftsmanship.",
-                  "category": "museum",
-                  "coords": [
-                        32.342799,
-                        34.893702
-                  ]
-            },
-            {
-                  "name": "Asian Elephant Interactions",
-                  "text": "An area within Pafos Zoo offering interactions with Asian elephants.",
-                  "category": "recreational",
-                  "coords": [
-                        32.341594,
-                        34.89173
                   ]
             },
             {
@@ -6076,66 +9622,12 @@ export const cyprusRegions: POI[] = [
     id: "CY-004-sanctuary-apollo", "sights": {
       "de": [
             {
-                  "name": "Kourion Beach",
-                  "text": "Ein beliebter Strand nahe der antiken Stätte Kourion, bekannt für sein klares Wasser und gute Bedingungen zum Windsurfen.",
-                  "category": "recreational",
-                  "coords": [
-                        32.884463,
-                        34.660054
-                  ]
-            },
-            {
-                  "name": "Kourion Stadium",
-                  "text": "Die Überreste eines antiken Stadions aus dem 2. Jahrhundert, das einst für sportliche Wettkämpfe in der Stadt Kourion genutzt wurde.",
-                  "category": "historical",
-                  "coords": [
-                        32.87631,
-                        34.670696
-                  ]
-            },
-            {
-                  "name": "Kourio",
-                  "text": "Ein bedeutender antiker griechischer Stadtstaat auf Zypern mit beeindruckenden Mosaiken und archäologischen Überresten.",
-                  "category": "historical",
-                  "coords": [
-                        32.885714,
-                        34.665169
-                  ]
-            },
-            {
                   "name": "Sanctuary of Apollo",
                   "text": "Ein heiliger Tempelkomplex, der Apollo Hylates gewidmet ist, dem Gott der Wälder und Beschützer von Kourion.",
                   "category": "historical",
                   "coords": [
                         32.863561,
                         34.672946
-                  ]
-            },
-            {
-                  "name": "Topiko Arkhaiologiko Mouseio Kouriou",
-                  "text": "Ein Museum in Episkopi, das bedeutende Artefakte und Funde aus der nahe gelegenen antiken Stadt Kourion beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        32.901154,
-                        34.669618
-                  ]
-            },
-            {
-                  "name": "Small Basilica At Maydan",
-                  "text": "Die archäologischen Überreste einer frühchristlichen Basilika im Gebiet von Kourion.",
-                  "category": "historical",
-                  "coords": [
-                        32.878758,
-                        34.6706
-                  ]
-            },
-            {
-                  "name": "Ancient Basilica",
-                  "text": "Die Ruinen einer großen christlichen Basilika in Kourion, die die religiöse Geschichte der Region widerspiegeln.",
-                  "category": "historical",
-                  "coords": [
-                        32.883353,
-                        34.663443
                   ]
             },
             {
@@ -6150,66 +9642,12 @@ export const cyprusRegions: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Kourion Beach",
-                  "text": "Népszerű strand Kourion ősi lelőhelye közelében, tiszta vizéről és szörfözési lehetőségeiről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        32.884463,
-                        34.660054
-                  ]
-            },
-            {
-                  "name": "Kourion Stadium",
-                  "text": "Egy 2. századi ókori stadion maradványai, amelyet egykor atlétikai versenyekre használtak Kourion városában.",
-                  "category": "historical",
-                  "coords": [
-                        32.87631,
-                        34.670696
-                  ]
-            },
-            {
-                  "name": "Kourio",
-                  "text": "Fontos ókori görög városállam Cipruson, amely lenyűgöző mozaikokkal és régészeti maradványokkal rendelkezik.",
-                  "category": "historical",
-                  "coords": [
-                        32.885714,
-                        34.665169
-                  ]
-            },
-            {
                   "name": "Sanctuary of Apollo",
                   "text": "Apollón Hülatésznek, az erdők istenének és Kourion védelmezőjének szentelt templomkomplexum.",
                   "category": "historical",
                   "coords": [
                         32.863561,
                         34.672946
-                  ]
-            },
-            {
-                  "name": "Topiko Arkhaiologiko Mouseio Kouriou",
-                  "text": "Episkopi múzeuma, amely a közeli ókori Kourion városából származó jelentős leleteket és tárgyakat őriz.",
-                  "category": "museum",
-                  "coords": [
-                        32.901154,
-                        34.669618
-                  ]
-            },
-            {
-                  "name": "Small Basilica At Maydan",
-                  "text": "Egy kora keresztény bazilika régészeti maradványai Kourion területén.",
-                  "category": "historical",
-                  "coords": [
-                        32.878758,
-                        34.6706
-                  ]
-            },
-            {
-                  "name": "Ancient Basilica",
-                  "text": "Egy nagy keresztény bazilika romjai Kourionban, amelyek a környék vallástörténetét tükrözik.",
-                  "category": "historical",
-                  "coords": [
-                        32.883353,
-                        34.663443
                   ]
             },
             {
@@ -6224,66 +9662,12 @@ export const cyprusRegions: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Kourion Beach",
-                  "text": "O plajă populară lângă situl antic Kourion, cunoscută pentru apele sale limpezi și condițiile de windsurfing.",
-                  "category": "recreational",
-                  "coords": [
-                        32.884463,
-                        34.660054
-                  ]
-            },
-            {
-                  "name": "Kourion Stadium",
-                  "text": "Rămășițele unui stadion antic din secolul al II-lea, folosit odinioară pentru concursuri atletice în orașul Kourion.",
-                  "category": "historical",
-                  "coords": [
-                        32.87631,
-                        34.670696
-                  ]
-            },
-            {
-                  "name": "Kourio",
-                  "text": "Un important oraș-stat grec antic din Cipru, cu mozaicuri impresionante și resturi arheologice.",
-                  "category": "historical",
-                  "coords": [
-                        32.885714,
-                        34.665169
-                  ]
-            },
-            {
                   "name": "Sanctuary of Apollo",
                   "text": "Un complex de temple sacre dedicat lui Apollo Hylates, zeul pădurilor și protectorul Kourionului.",
                   "category": "historical",
                   "coords": [
                         32.863561,
                         34.672946
-                  ]
-            },
-            {
-                  "name": "Topiko Arkhaiologiko Mouseio Kouriou",
-                  "text": "Un muzeu din Episkopi care adăpostește artefacte și descoperiri semnificative din orașul antic Kourion din apropiere.",
-                  "category": "museum",
-                  "coords": [
-                        32.901154,
-                        34.669618
-                  ]
-            },
-            {
-                  "name": "Small Basilica At Maydan",
-                  "text": "Rămășițele arheologice ale unei bazilici creștine timpurii situate în zona Kourion.",
-                  "category": "historical",
-                  "coords": [
-                        32.878758,
-                        34.6706
-                  ]
-            },
-            {
-                  "name": "Ancient Basilica",
-                  "text": "Ruinele unei mari bazilici creștine din Kourion, reflectând istoria religioasă a zonei.",
-                  "category": "historical",
-                  "coords": [
-                        32.883353,
-                        34.663443
                   ]
             },
             {
@@ -6298,66 +9682,12 @@ export const cyprusRegions: POI[] = [
       ],
       "en": [
             {
-                  "name": "Kourion Beach",
-                  "text": "A popular beach near the ancient site of Kourion, known for its clear waters and windsurfing conditions.",
-                  "category": "recreational",
-                  "coords": [
-                        32.884463,
-                        34.660054
-                  ]
-            },
-            {
-                  "name": "Kourion Stadium",
-                  "text": "The remains of a 2nd-century ancient stadium, once used for athletic contests in the city of Kourion.",
-                  "category": "historical",
-                  "coords": [
-                        32.87631,
-                        34.670696
-                  ]
-            },
-            {
-                  "name": "Curium",
-                  "text": "An important ancient Greek city-state on Cyprus, featuring impressive mosaics and archaeological remains.",
-                  "category": "historical",
-                  "coords": [
-                        32.885714,
-                        34.665169
-                  ]
-            },
-            {
                   "name": "Sanctuary of Apollo",
                   "text": "A sacred temple complex dedicated to Apollo Hylates, the god of the woodlands and protector of Kourion.",
                   "category": "historical",
                   "coords": [
                         32.863561,
                         34.672946
-                  ]
-            },
-            {
-                  "name": "Local Archaeological Kourion Museum",
-                  "text": "A museum in Episkopi housing significant artifacts and finds from the nearby ancient city of Kourion.",
-                  "category": "museum",
-                  "coords": [
-                        32.901154,
-                        34.669618
-                  ]
-            },
-            {
-                  "name": "Small Basilica At Maydan",
-                  "text": "The archaeological remains of an early Christian basilica located within the Kourion area.",
-                  "category": "historical",
-                  "coords": [
-                        32.878758,
-                        34.6706
-                  ]
-            },
-            {
-                  "name": "Ancient Basilica",
-                  "text": "The ruins of a large Christian basilica in Kourion, reflecting the area's religious history.",
-                  "category": "historical",
-                  "coords": [
-                        32.883353,
-                        34.663443
                   ]
             },
             {

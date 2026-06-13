@@ -115,75 +115,12 @@ export const poiExtraKenyaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Little Theatre Club",
-                  "text": "Ein intimer Theaterclub, der in Mombasa Aufführungen zeigt.",
-                  "category": "cultural",
-                  "coords": [
-                        39.664816,
-                        -4.067039
-                  ]
-            },
-            {
-                  "name": "Mavi mavi beach",
-                  "text": "An der kenianischen Küste in Mombasa verspricht der Mavi mavi beach tropische Entspannung direkt am Ozean. Die lebhafte und doch gemütliche Stimmung ist perfekt, um sich in den Wellen zu erfrischen oder im feinen Sand die Sonne zu genießen. Mit seiner exotischen Kulisse ist der Strand ein Muss für jeden sonnigen Ausflugstag.",
-                  "category": "recreational",
-                  "coords": [
-                        39.671946,
-                        -4.027581
-                  ]
-            },
-            {
-                  "name": "English Point Beach",
-                  "text": "Der English Point Beach in Mombasa besticht durch seine faszinierende Mischung aus städtischem Flair und Weite des Indischen Ozeans. Besucher können hier wunderbar entlang der Uferlinie schlendern und die warme Meeresbrise beim Baden auf der Haut spüren. Ein abendlicher Besuch bietet oft herrliche Ausblicke auf das Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        39.68372,
-                        -4.057383
-                  ]
-            },
-            {
-                  "name": "Kengeleni Bell",
-                  "text": "Eine historische Glocke im Stadtteil Kengeleni von Mombasa.",
-                  "category": "historical",
-                  "coords": [
-                        39.680535,
-                        -4.039324
-                  ]
-            },
-            {
-                  "name": "Leven House",
-                  "text": "Ein Steinhaus aus dem 19. Jahrhundert mit geschnitzten Holztüren in der Altstadt von Mombasa.",
-                  "category": "landmark",
-                  "coords": [
-                        39.678208,
-                        -4.058366
-                  ]
-            },
-            {
-                  "name": "Africa Hotel",
-                  "text": "Historisches Hotel aus dem Jahr 1901 in Mombasa.",
-                  "category": "landmark",
-                  "coords": [
-                        39.679573,
-                        -4.060656
-                  ]
-            },
-            {
                   "name": "Market",
                   "text": "Mombasas zentraler Markt, ein belebter Basar mit Gewürzen und Kunsthandwerk.",
                   "category": "landmark",
                   "coords": [
                         39.667875,
                         -4.043611
-                  ]
-            },
-            {
-                  "name": "Makupa Causeway Bridge",
-                  "text": "2022 eingeweihte Makupa Causeway Bridge in Mombasa, verbindet die Insel mit dem Festland.",
-                  "category": "landmark",
-                  "coords": [
-                        39.651584,
-                        -4.033729
                   ]
             }
       ],
@@ -198,75 +135,12 @@ export const poiExtraKenyaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Little Theatre Club",
-                  "text": "Egy meghitt színházi klub, amely előadásokat tart Mombasában.",
-                  "category": "cultural",
-                  "coords": [
-                        39.664816,
-                        -4.067039
-                  ]
-            },
-            {
-                  "name": "Mavi mavi beach",
-                  "text": "A kenyai Mombasában található Mavi mavi beach trópusi felüdülést ígér közvetlenül az óceán partján. Az életteli, de mégis barátságos légkör tökéletes arra, hogy megmártózzunk a hullámokban, vagy a napon pihenjünk. Egzotikus hátterével a strand kihagyhatatlan állomás egy napsütéses kirándulás során.",
-                  "category": "recreational",
-                  "coords": [
-                        39.671946,
-                        -4.027581
-                  ]
-            },
-            {
-                  "name": "English Point Beach",
-                  "text": "A mombasai English Point Beach a városi elegancia és az Indiai-óceán végtelenségének lenyűgöző keverékével hódít. Csodálatos élmény a part mentén sétálni, és fürdőzés közben érezni a meleg tengeri szellőt. Egy esti látogatás gyakran kínál látványos kilátást a csillogó vízre.",
-                  "category": "recreational",
-                  "coords": [
-                        39.68372,
-                        -4.057383
-                  ]
-            },
-            {
-                  "name": "Kengeleni Bell",
-                  "text": "Egy történelmi harang Mombasa Kengeleni negyedében.",
-                  "category": "historical",
-                  "coords": [
-                        39.680535,
-                        -4.039324
-                  ]
-            },
-            {
-                  "name": "Leven House",
-                  "text": "Egy 19. századi kőház faragott faajtókkal Mombasa óvárosában.",
-                  "category": "landmark",
-                  "coords": [
-                        39.678208,
-                        -4.058366
-                  ]
-            },
-            {
-                  "name": "Africa Hotel",
-                  "text": "1901-ből származó történelmi szálloda Mombasában.",
-                  "category": "landmark",
-                  "coords": [
-                        39.679573,
-                        -4.060656
-                  ]
-            },
-            {
                   "name": "Market",
                   "text": "Mombasa központi piaca, egy nyüzsgő bazár fűszerekkel és kézműves termékekkel.",
                   "category": "landmark",
                   "coords": [
                         39.667875,
                         -4.043611
-                  ]
-            },
-            {
-                  "name": "Makupa Causeway Bridge",
-                  "text": "A 2022-ben átadott Makupa gátút híd Mombasában, összeköti a szigetet a szárazfölddel.",
-                  "category": "landmark",
-                  "coords": [
-                        39.651584,
-                        -4.033729
                   ]
             }
       ],
@@ -281,75 +155,12 @@ export const poiExtraKenyaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Little Theatre Club",
-                  "text": "Un club de teatru intim care găzduiește spectacole în Mombasa.",
-                  "category": "cultural",
-                  "coords": [
-                        39.664816,
-                        -4.067039
-                  ]
-            },
-            {
-                  "name": "Mavi mavi beach",
-                  "text": "Situată pe coasta kenyană din Mombasa, Mavi mavi beach promite o relaxare tropicală direct la ocean. Atmosfera plină de viață, dar primitoare, este perfectă pentru a te răcori în valuri sau pentru a sta la soare pe nisip. Cu peisajul său exotic, plaja rămâne un loc minunat pentru o ieșire într-o zi senină.",
-                  "category": "recreational",
-                  "coords": [
-                        39.671946,
-                        -4.027581
-                  ]
-            },
-            {
-                  "name": "English Point Beach",
-                  "text": "English Point Beach din Mombasa captivează prin amestecul său fascinant de vibrație urbană și imensitatea Oceanului Indian. Este un loc splendid pentru a te plimba de-a lungul malului și a simți briza caldă în timp ce înoți. O vizită seara oferă adesea priveliști spectaculoase asupra apei.",
-                  "category": "recreational",
-                  "coords": [
-                        39.68372,
-                        -4.057383
-                  ]
-            },
-            {
-                  "name": "Kengeleni Bell",
-                  "text": "Un clopot istoric în cartierul Kengeleni din Mombasa.",
-                  "category": "historical",
-                  "coords": [
-                        39.680535,
-                        -4.039324
-                  ]
-            },
-            {
-                  "name": "Leven House",
-                  "text": "O casă de piatră din secolul al XIX-lea cu uși de lemn sculptate în Orașul Vechi din Mombasa.",
-                  "category": "landmark",
-                  "coords": [
-                        39.678208,
-                        -4.058366
-                  ]
-            },
-            {
-                  "name": "Africa Hotel",
-                  "text": "Hotel istoric din 1901 în Mombasa.",
-                  "category": "landmark",
-                  "coords": [
-                        39.679573,
-                        -4.060656
-                  ]
-            },
-            {
                   "name": "Market",
                   "text": "Piața centrală din Mombasa, un bazar animat cu condimente și meșteșuguri.",
                   "category": "landmark",
                   "coords": [
                         39.667875,
                         -4.043611
-                  ]
-            },
-            {
-                  "name": "Makupa Causeway Bridge",
-                  "text": "Podul Makupa Causeway din Mombasa, inaugurat în 2022, leagă insula de continent.",
-                  "category": "landmark",
-                  "coords": [
-                        39.651584,
-                        -4.033729
                   ]
             }
       ],
@@ -364,75 +175,12 @@ export const poiExtraKenyaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Little Theatre Club",
-                  "text": "An intimate theatre club hosting performances in Mombasa.",
-                  "category": "cultural",
-                  "coords": [
-                        39.664816,
-                        -4.067039
-                  ]
-            },
-            {
-                  "name": "Mavi mavi beach",
-                  "text": "Located along the Kenyan coast in Mombasa, Mavi mavi beach promises tropical relaxation right by the ocean. The lively yet cozy mood is perfect for cooling off in the rolling waves or soaking up the sun on the sand. Thanks to its exotic backdrop, this beach remains a wonderful spot for a bright, sunny outing.",
-                  "category": "recreational",
-                  "coords": [
-                        39.671946,
-                        -4.027581
-                  ]
-            },
-            {
-                  "name": "English Point Beach",
-                  "text": "English Point Beach in Mombasa captivates visitors with its fascinating blend of city flair and the vastness of the Indian Ocean. It is a splendid place to wander along the shoreline and feel the warm sea breeze while taking a dip. An evening visit often rewards guests with spectacular views across the water.",
-                  "category": "recreational",
-                  "coords": [
-                        39.68372,
-                        -4.057383
-                  ]
-            },
-            {
-                  "name": "Kengeleni Bell",
-                  "text": "A historic bell in the Kengeleni district of Mombasa.",
-                  "category": "historical",
-                  "coords": [
-                        39.680535,
-                        -4.039324
-                  ]
-            },
-            {
-                  "name": "Leven House",
-                  "text": "A 19th-century stone house with carved wooden doors in Mombasa's Old Town.",
-                  "category": "landmark",
-                  "coords": [
-                        39.678208,
-                        -4.058366
-                  ]
-            },
-            {
-                  "name": "Africa Hotel",
-                  "text": "Historic hotel from 1901 in Mombasa.",
-                  "category": "landmark",
-                  "coords": [
-                        39.679573,
-                        -4.060656
-                  ]
-            },
-            {
                   "name": "Market",
                   "text": "Mombasa's central market, a bustling bazaar of spices and crafts.",
                   "category": "landmark",
                   "coords": [
                         39.667875,
                         -4.043611
-                  ]
-            },
-            {
-                  "name": "Makupa Causeway Bridge",
-                  "text": "Makupa Causeway Bridge in Mombasa, inaugurated in 2022, linking the island to the mainland.",
-                  "category": "landmark",
-                  "coords": [
-                        39.651584,
-                        -4.033729
                   ]
             }
       ]
@@ -498,86 +246,10 @@ export const poiExtraKenyaCitiesV2: POI[] = [
      image: "/poi-images/mombasa-cities-v2.webp"},
   {
     id: "kisumu-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Kisumu National Museum",
-                  "text": "Ein Museum am Ufer des Viktoriasees, das die Kultur der Luo und die Tierwelt zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        34.76271,
-                        -0.107372
-                  ]
-            },
-            {
-                  "name": "Sundowner Tower",
-                  "text": "Ein natürlicher Felsturm mit Blick auf den Viktoriasee, beliebt für Sonnenuntergänge.",
-                  "category": "natural",
-                  "coords": [
-                        34.744881,
-                        -0.111275
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Kisumu National Museum",
-                  "text": "Egy múzeum a Viktória-tó partján, amely a luo kultúrát és a vadon élő állatokat mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        34.76271,
-                        -0.107372
-                  ]
-            },
-            {
-                  "name": "Sundowner Tower",
-                  "text": "Egy természetes szikla torony, amely a Viktória-tóra néz, népszerű naplementékhez.",
-                  "category": "natural",
-                  "coords": [
-                        34.744881,
-                        -0.111275
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Kisumu National Museum",
-                  "text": "Un muzeu pe malul Lacului Victoria, care prezintă cultura Luo și fauna sălbatică.",
-                  "category": "museum",
-                  "coords": [
-                        34.76271,
-                        -0.107372
-                  ]
-            },
-            {
-                  "name": "Sundowner Tower",
-                  "text": "Un turn natural de stâncă ce domină Lacul Victoria, popular pentru apusuri.",
-                  "category": "natural",
-                  "coords": [
-                        34.744881,
-                        -0.111275
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Kisumu National Museum",
-                  "text": "A museum on the shores of Lake Victoria showcasing Luo culture and wildlife.",
-                  "category": "museum",
-                  "coords": [
-                        34.76271,
-                        -0.107372
-                  ]
-            },
-            {
-                  "name": "Sundowner Tower",
-                  "text": "A natural rock tower overlooking Lake Victoria, popular for sunset views.",
-                  "category": "natural",
-                  "coords": [
-                        34.744881,
-                        -0.111275
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "KE-42",
@@ -902,15 +574,6 @@ export const poiExtraKenyaCitiesV2: POI[] = [
     id: "malindi-cities-v2", "sights": {
       "de": [
             {
-                  "name": "House of Columns",
-                  "text": "Das Haus der Säulen ist ein bemerkenswertes Museum in Malindi. Es wird als Teil des Malindi-Museums betrieben und zeigt lokale Geschichte.",
-                  "category": "museum",
-                  "coords": [
-                        40.124828,
-                        -3.217858
-                  ]
-            },
-            {
                   "name": "Malindi Museum",
                   "text": "Das Malindi-Museum ist eine wichtige kulturelle Einrichtung in Malindi. Es bietet Ausstellungen zur Geschichte und Kultur der Küstenregion Kenias.",
                   "category": "museum",
@@ -918,36 +581,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
                         40.121588,
                         -3.215993
                   ]
-            },
-            {
-                  "name": "Padro de Gama",
-                  "text": "Padro de Gama ist eine archäologische Stätte in der Stadt Malindi. Sie enthält historische Überreste der frühen portugiesischen Präsenz.",
-                  "category": "historical",
-                  "coords": [
-                        40.129868,
-                        -3.223665
-                  ]
-            },
-            {
-                  "name": "Portuguese Chapel",
-                  "text": "Die portugiesische Kapelle ist ein historisches Denkmal in Malindi. Sie ist ein architektonisches Überbleibsel aus der Zeit der europäischen Entdeckungen.",
-                  "category": "historical",
-                  "coords": [
-                        40.126424,
-                        -3.222381
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "House of Columns",
-                  "text": "Az Oszlopok Háza egy jelentős múzeum Malindiben. A Malindi Múzeum részeként működik, és a helyi történelmet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        40.124828,
-                        -3.217858
-                  ]
-            },
             {
                   "name": "Malindi Museum",
                   "text": "A Malindi Múzeum egy fontos kulturális intézmény Malindiben. Kenya partvidéki régiójának történelmét és kultúráját bemutató kiállításokkal rendelkezik.",
@@ -956,36 +592,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
                         40.121588,
                         -3.215993
                   ]
-            },
-            {
-                  "name": "Padro de Gama",
-                  "text": "A Padro de Gama egy régészeti lelőhely Malindi városában. A korai portugál jelenlét történelmi maradványait tartalmazza.",
-                  "category": "historical",
-                  "coords": [
-                        40.129868,
-                        -3.223665
-                  ]
-            },
-            {
-                  "name": "Portuguese Chapel",
-                  "text": "A Portugál Kápolna egy történelmi emlékmű Malindiben. Az európai felfedezések korából származó építészeti maradvány.",
-                  "category": "historical",
-                  "coords": [
-                        40.126424,
-                        -3.222381
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "House of Columns",
-                  "text": "Casa Coloanelor este un muzeu notabil situat în Malindi. Funcționează ca parte a Muzeului Malindi, expunând istoria locală.",
-                  "category": "museum",
-                  "coords": [
-                        40.124828,
-                        -3.217858
-                  ]
-            },
             {
                   "name": "Malindi Museum",
                   "text": "Muzeul Malindi este o instituție culturală importantă situată în Malindi. Acesta prezintă expoziții despre istoria și cultura regiunii de coastă a Kenyei.",
@@ -994,36 +603,9 @@ export const poiExtraKenyaCitiesV2: POI[] = [
                         40.121588,
                         -3.215993
                   ]
-            },
-            {
-                  "name": "Padro de Gama",
-                  "text": "Padro de Gama este un sit arheologic situat în orașul Malindi. Acesta conține rămășițe istorice ale prezenței portugheze timpurii.",
-                  "category": "historical",
-                  "coords": [
-                        40.129868,
-                        -3.223665
-                  ]
-            },
-            {
-                  "name": "Portuguese Chapel",
-                  "text": "Capela Portugheză este un monument istoric situat în Malindi. Este o rămășiță arhitecturală din epoca explorărilor europene.",
-                  "category": "historical",
-                  "coords": [
-                        40.126424,
-                        -3.222381
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "House of Columns",
-                  "text": "The House of Columns is a notable museum situated in Malindi. It operates as part of the Malindi Museum, showcasing local history.",
-                  "category": "museum",
-                  "coords": [
-                        40.124828,
-                        -3.217858
-                  ]
-            },
             {
                   "name": "Malindi Museum",
                   "text": "The Malindi Museum is an important cultural institution located in Malindi. It features exhibits on the history and culture of Kenya's coastal region.",
@@ -1031,24 +613,6 @@ export const poiExtraKenyaCitiesV2: POI[] = [
                   "coords": [
                         40.121588,
                         -3.215993
-                  ]
-            },
-            {
-                  "name": "Padro de Gama",
-                  "text": "Padro de Gama is an archaeological site situated in the town of Malindi. It contains historical remnants of early Portuguese presence.",
-                  "category": "historical",
-                  "coords": [
-                        40.129868,
-                        -3.223665
-                  ]
-            },
-            {
-                  "name": "Portuguese Chapel",
-                  "text": "The Portuguese Chapel is a historical monument situated in Malindi. It is an architectural remnant from the era of European exploration.",
-                  "category": "historical",
-                  "coords": [
-                        40.126424,
-                        -3.222381
                   ]
             }
       ]
@@ -2057,15 +1621,6 @@ export const poiExtraKenyaCitiesV2: POI[] = [
     id: "lamu-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Lamu Museum",
-                  "text": "Museum in einem Swahili-Haus aus dem 19. Jahrhundert in der Altstadt von Lamu, das die Swahili-Kultur präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        40.902355,
-                        -2.267421
-                  ]
-            },
-            {
                   "name": "Lamu Fort",
                   "text": "Eine Korallensteinfestung aus dem 19. Jahrhundert in der Altstadt von Lamu, heute ein Museum.",
                   "category": "castle",
@@ -2094,15 +1649,6 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Lamu Museum",
-                  "text": "Múzeum egy 19. századi szuahéli házban Lamu óvárosában, a szuahéli kultúra bemutatásával.",
-                  "category": "museum",
-                  "coords": [
-                        40.902355,
-                        -2.267421
-                  ]
-            },
             {
                   "name": "Lamu Fort",
                   "text": "Egy 19. századi korallkő erőd Lamu óvárosában, ma múzeum.",
@@ -2133,15 +1679,6 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Lamu Museum",
-                  "text": "Muzeu într-o casă swahili din secolul al XIX-lea în orașul vechi Lamu, prezentând cultura swahili.",
-                  "category": "museum",
-                  "coords": [
-                        40.902355,
-                        -2.267421
-                  ]
-            },
-            {
                   "name": "Lamu Fort",
                   "text": "O fortăreață de piatră corală din secolul al XIX-lea în orașul vechi Lamu, acum muzeu.",
                   "category": "castle",
@@ -2170,15 +1707,6 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Lamu Museum",
-                  "text": "Museum in a 19th-century Swahili house in Lamu's old town, showcasing Swahili culture.",
-                  "category": "museum",
-                  "coords": [
-                        40.902355,
-                        -2.267421
-                  ]
-            },
             {
                   "name": "Lamu Fort",
                   "text": "A 19th-century coral stone fortress in Lamu's old town, now a museum.",
@@ -2511,15 +2039,6 @@ export const poiExtraKenyaCitiesV2: POI[] = [
     id: "wajir-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Shuman place",
-                  "text": "Ein historisches Steingebäude im Zentrum von Wajir.",
-                  "category": "landmark",
-                  "coords": [
-                        40.074336,
-                        1.742556
-                  ]
-            },
-            {
                   "name": "Amira garden",
                   "text": "Ein öffentlicher Garten mit hohen Akazienbäumen im Zentrum von Wajir.",
                   "category": "landmark",
@@ -2530,15 +2049,6 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Shuman place",
-                  "text": "Egy történelmi kőépület Wajir központjában.",
-                  "category": "landmark",
-                  "coords": [
-                        40.074336,
-                        1.742556
-                  ]
-            },
             {
                   "name": "Amira garden",
                   "text": "Egy nyilvános kert magas akácfákkal Wajir központjában.",
@@ -2551,15 +2061,6 @@ export const poiExtraKenyaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Shuman place",
-                  "text": "O clădire istorică de piatră în centrul orașului Wajir.",
-                  "category": "landmark",
-                  "coords": [
-                        40.074336,
-                        1.742556
-                  ]
-            },
-            {
                   "name": "Amira garden",
                   "text": "O grădină publică cu arbori înalți de salcâm în centrul orașului Wajir.",
                   "category": "landmark",
@@ -2570,15 +2071,6 @@ export const poiExtraKenyaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Shuman place",
-                  "text": "A historic stone building in Wajir's town center.",
-                  "category": "landmark",
-                  "coords": [
-                        40.074336,
-                        1.742556
-                  ]
-            },
             {
                   "name": "Amira garden",
                   "text": "A public garden with tall acacia trees in the center of Wajir.",
@@ -3040,50 +2532,10 @@ export const poiExtraKenyaCitiesV2: POI[] = [
     }, image: "/poi-images/ruiru-cities-v2.webp"},
   {
     id: "kilifi-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Mnarani National Monument & Snake Park",
-                  "text": "Alte Swahili-Ruinen und ein Schlangenpark auf einer Klippe über dem Kilifi Creek.",
-                  "category": "landmark",
-                  "coords": [
-                        39.843973,
-                        -3.639972
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mnarani National Monument & Snake Park",
-                  "text": "Régi szuahéli romok és egy kígyópark egy sziklán, amely Kilifi Creek fölé néz.",
-                  "category": "landmark",
-                  "coords": [
-                        39.843973,
-                        -3.639972
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Mnarani National Monument & Snake Park",
-                  "text": "Ruine swahili antice și un parc de șerpi pe o stâncă deasupra pârâului Kilifi.",
-                  "category": "landmark",
-                  "coords": [
-                        39.843973,
-                        -3.639972
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mnarani National Monument & Snake Park",
-                  "text": "Ancient Swahili ruins and a snake park on a cliff overlooking Kilifi Creek.",
-                  "category": "landmark",
-                  "coords": [
-                        39.843973,
-                        -3.639972
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "KE-03",

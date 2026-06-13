@@ -2563,15 +2563,6 @@ export const poiExtraNigerLandmarksV2: POI[] = [
                         9.00167,
                         13.800314
                   ]
-            },
-            {
-                  "name": "CCFN - Centre Culturel Franco-Nigérien",
-                  "text": "Das französisch-nigrische Kulturzentrum im historischen Fort von Zinder.",
-                  "category": "cultural",
-                  "coords": [
-                        8.990289,
-                        13.804278
-                  ]
             }
       ],
       "hu": [
@@ -2582,15 +2573,6 @@ export const poiExtraNigerLandmarksV2: POI[] = [
                   "coords": [
                         9.00167,
                         13.800314
-                  ]
-            },
-            {
-                  "name": "CCFN - Centre Culturel Franco-Nigérien",
-                  "text": "A francia-nigeri kulturális központ Zinder történelmi erődjében.",
-                  "category": "cultural",
-                  "coords": [
-                        8.990289,
-                        13.804278
                   ]
             }
       ],
@@ -2603,15 +2585,6 @@ export const poiExtraNigerLandmarksV2: POI[] = [
                         9.00167,
                         13.800314
                   ]
-            },
-            {
-                  "name": "CCFN - Centre Culturel Franco-Nigérien",
-                  "text": "Centrul cultural franco-nigerian din fortul istoric din Zinder.",
-                  "category": "cultural",
-                  "coords": [
-                        8.990289,
-                        13.804278
-                  ]
             }
       ],
       "en": [
@@ -2622,15 +2595,6 @@ export const poiExtraNigerLandmarksV2: POI[] = [
                   "coords": [
                         9.00167,
                         13.800314
-                  ]
-            },
-            {
-                  "name": "CCFN - Centre Culturel Franco-Nigérien",
-                  "text": "The Franco-Nigerien Cultural Center located in the historic Fort of Zinder.",
-                  "category": "cultural",
-                  "coords": [
-                        8.990289,
-                        13.804278
                   ]
             }
       ]

@@ -337,33 +337,6 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
                   ]
             },
             {
-                  "name": "Baltia-Hügel",
-                  "text": "Ein künstlicher Hügel und Aussichtspunkt, der den höchsten Punkt Belgiens markiert.",
-                  "category": "natural",
-                  "coords": [
-                        6.092609,
-                        50.501694
-                  ]
-            },
-            {
-                  "name": "Michelshütte",
-                  "text": "Ein hoher Punkt und historisches Gasthaus im Hohen Venn in Belgien.",
-                  "category": "landmark",
-                  "coords": [
-                        6.062437,
-                        50.518793
-                  ]
-            },
-            {
-                  "name": "Cascade du Bayehon",
-                  "text": "Ein malerischer Wasserfall im Naturschutzgebiet Hohes Venn.",
-                  "category": "landmark",
-                  "coords": [
-                        6.086883,
-                        50.478288
-                  ]
-            },
-            {
                   "name": "Monument Pietkin",
                   "text": "Steinernes Denkmal zur Erinnerung an den Widerstandskämpfer Pietkin auf dem Hohen Venn.",
                   "category": "historical",
@@ -399,33 +372,6 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
                   "coords": [
                         6.118976,
                         50.472608
-                  ]
-            },
-            {
-                  "name": "Butte Baltia",
-                  "text": "Mesterséges domb és kilátó, amely Belgium legmagasabb pontját jelzi.",
-                  "category": "natural",
-                  "coords": [
-                        6.092609,
-                        50.501694
-                  ]
-            },
-            {
-                  "name": "Baraque Michel",
-                  "text": "Magaslati pont és történelmi fogadó a belgiumi Magas-Lápvidéken.",
-                  "category": "landmark",
-                  "coords": [
-                        6.062437,
-                        50.518793
-                  ]
-            },
-            {
-                  "name": "Cascade du Bayehon",
-                  "text": "Festői vízesés a Magas-Lápvidék természetvédelmi területén.",
-                  "category": "landmark",
-                  "coords": [
-                        6.086883,
-                        50.478288
                   ]
             },
             {
@@ -467,33 +413,6 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
                   ]
             },
             {
-                  "name": "Butte Baltia",
-                  "text": "O movilă artificială și punct de belvedere care marchează cel mai înalt punct din Belgia.",
-                  "category": "natural",
-                  "coords": [
-                        6.092609,
-                        50.501694
-                  ]
-            },
-            {
-                  "name": "Baraque Michel",
-                  "text": "Un punct înalt și un han istoric în regiunea High Fens din Belgia.",
-                  "category": "landmark",
-                  "coords": [
-                        6.062437,
-                        50.518793
-                  ]
-            },
-            {
-                  "name": "Cascade du Bayehon",
-                  "text": "O cascadă pitorească situată în rezervația naturală High Fens.",
-                  "category": "landmark",
-                  "coords": [
-                        6.086883,
-                        50.478288
-                  ]
-            },
-            {
                   "name": "Monument Pietkin",
                   "text": "Un monument de piatră în memoria rezistentului Pietkin pe platoul High Fens.",
                   "category": "historical",
@@ -529,33 +448,6 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
                   "coords": [
                         6.118976,
                         50.472608
-                  ]
-            },
-            {
-                  "name": "Butte Baltia",
-                  "text": "An artificial mound and viewpoint marking the highest point in Belgium.",
-                  "category": "natural",
-                  "coords": [
-                        6.092609,
-                        50.501694
-                  ]
-            },
-            {
-                  "name": "Baraque Michel",
-                  "text": "A high point and historic hostel in the High Fens region of Belgium.",
-                  "category": "landmark",
-                  "coords": [
-                        6.062437,
-                        50.518793
-                  ]
-            },
-            {
-                  "name": "Cascade du Bayehon",
-                  "text": "A scenic waterfall located in the High Fens nature reserve.",
-                  "category": "landmark",
-                  "coords": [
-                        6.086883,
-                        50.478288
                   ]
             },
             {
@@ -1074,66 +966,12 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
     id: "belgium-wildlife-park-han-life-v2", "sights": {
       "de": [
             {
-                  "name": "Château comtal de Rochefort",
-                  "text": "Eine mittelalterliche Burgruine in Rochefort, die ehemals die Residenz der Grafen von Rochefort war.",
-                  "category": "castle",
-                  "coords": [
-                        5.22061,
-                        50.154942
-                  ]
-            },
-            {
-                  "name": "Han 1900",
-                  "text": "Ein Museum in Han-sur-Lesse, das das ländliche Leben und alte Handwerksberufe um das Jahr 1900 zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        5.188694,
-                        50.124728
-                  ]
-            },
-            {
                   "name": "PrehistoHan",
                   "text": "Eine Ausstellung in Han-sur-Lesse, die archäologische Funde aus den berühmten Höhlen der Region präsentiert.",
                   "category": "museum",
                   "coords": [
                         5.191447,
                         50.124336
-                  ]
-            },
-            {
-                  "name": "Tienne d'Aise",
-                  "text": "Ein Naturschutzgebiet bei Han-sur-Lesse, das für seine Kalkmagerrasen und vielfältige Flora bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        5.152126,
-                        50.118615
-                  ]
-            },
-            {
-                  "name": "Château d’Eprave",
-                  "text": "Ein historisches Schloss im Dorf Eprave, das für seine malerische Lage im Lesse-Tal bekannt ist.",
-                  "category": "castle",
-                  "coords": [
-                        5.160934,
-                        50.144683
-                  ]
-            },
-            {
-                  "name": "Le Roptai",
-                  "text": "Ein bewaldetes Naturgebiet in der Nähe von Han-sur-Lesse, das Teil des Famenne-Ardenne Geoparks ist.",
-                  "category": "natural",
-                  "coords": [
-                        5.141718,
-                        50.117965
-                  ]
-            },
-            {
-                  "name": "Bois d'Ellinchamps",
-                  "text": "Ein geschütztes Waldgebiet bei Han-sur-Lesse, das eine typische Flora und Fauna der Region beherbergt.",
-                  "category": "natural",
-                  "coords": [
-                        5.191479,
-                        50.093466
                   ]
             },
             {
@@ -1157,66 +995,12 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
       ],
       "hu": [
             {
-                  "name": "Château comtal de Rochefort",
-                  "text": "Középkori várrom Rochefortban, amely egykor a rochefort-i grófok rezidenciája volt.",
-                  "category": "castle",
-                  "coords": [
-                        5.22061,
-                        50.154942
-                  ]
-            },
-            {
-                  "name": "Han 1900",
-                  "text": "Múzeum Han-sur-Lesse-ben, amely az 1900-as évek vidéki életét és régi mesterségeit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        5.188694,
-                        50.124728
-                  ]
-            },
-            {
                   "name": "PrehistoHan",
                   "text": "Kiállítás Han-sur-Lesse-ben, amely a régió híres barlangjaiból származó régészeti leleteket mutatja be.",
                   "category": "museum",
                   "coords": [
                         5.191447,
                         50.124336
-                  ]
-            },
-            {
-                  "name": "Tienne d'Aise",
-                  "text": "Han-sur-Lesse melletti természetvédelmi terület, amely mészkőgyepeiről és változatos flórájáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        5.152126,
-                        50.118615
-                  ]
-            },
-            {
-                  "name": "Château d’Eprave",
-                  "text": "Történelmi kastély Eprave faluban, amely a Lesse-völgyben fekvő festői elhelyezkedéséről ismert.",
-                  "category": "castle",
-                  "coords": [
-                        5.160934,
-                        50.144683
-                  ]
-            },
-            {
-                  "name": "Le Roptai",
-                  "text": "Han-sur-Lesse közelében fekvő erdős természeti terület, a Famenne-Ardenne Geopark része.",
-                  "category": "natural",
-                  "coords": [
-                        5.141718,
-                        50.117965
-                  ]
-            },
-            {
-                  "name": "Bois d'Ellinchamps",
-                  "text": "Han-sur-Lesse melletti védett erdőterület, amely a régióra jellemző növény- és állatvilágnak ad otthont.",
-                  "category": "natural",
-                  "coords": [
-                        5.191479,
-                        50.093466
                   ]
             },
             {
@@ -1240,66 +1024,12 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
       ],
       "ro": [
             {
-                  "name": "Château comtal de Rochefort",
-                  "text": "O ruină de castel medieval din Rochefort, care a fost fosta reședință a conților de Rochefort.",
-                  "category": "castle",
-                  "coords": [
-                        5.22061,
-                        50.154942
-                  ]
-            },
-            {
-                  "name": "Han 1900",
-                  "text": "Un muzeu din Han-sur-Lesse care prezintă viața rurală și meșteșugurile vechi din jurul anului 1900.",
-                  "category": "museum",
-                  "coords": [
-                        5.188694,
-                        50.124728
-                  ]
-            },
-            {
                   "name": "PrehistoHan",
                   "text": "O expoziție în Han-sur-Lesse care prezintă descoperiri arheologice din faimoasele peșteri ale regiunii.",
                   "category": "museum",
                   "coords": [
                         5.191447,
                         50.124336
-                  ]
-            },
-            {
-                  "name": "Tienne d'Aise",
-                  "text": "O rezervație naturală lângă Han-sur-Lesse, cunoscută pentru pajiștile calcaroase și flora diversă.",
-                  "category": "natural",
-                  "coords": [
-                        5.152126,
-                        50.118615
-                  ]
-            },
-            {
-                  "name": "Château d’Eprave",
-                  "text": "Un castel istoric în satul Eprave, cunoscut pentru locația sa pitorească în valea Lesse.",
-                  "category": "castle",
-                  "coords": [
-                        5.160934,
-                        50.144683
-                  ]
-            },
-            {
-                  "name": "Le Roptai",
-                  "text": "O zonă naturală împădurită lângă Han-sur-Lesse, parte a Geoparcului Famenne-Ardenne.",
-                  "category": "natural",
-                  "coords": [
-                        5.141718,
-                        50.117965
-                  ]
-            },
-            {
-                  "name": "Bois d'Ellinchamps",
-                  "text": "O zonă forestieră protejată lângă Han-sur-Lesse, care găzduiește flora și fauna tipică regiunii.",
-                  "category": "natural",
-                  "coords": [
-                        5.191479,
-                        50.093466
                   ]
             },
             {
@@ -1323,66 +1053,12 @@ imageHint: "Large Victorian greenhouses at Meise Botanical Garden",
       ],
       "en": [
             {
-                  "name": "Château comtal de Rochefort",
-                  "text": "A medieval castle ruin in Rochefort, which was the former residence of the Counts of Rochefort.",
-                  "category": "castle",
-                  "coords": [
-                        5.22061,
-                        50.154942
-                  ]
-            },
-            {
-                  "name": "Han 1900",
-                  "text": "A museum in Han-sur-Lesse showcasing rural life and old trades from around the year 1900.",
-                  "category": "museum",
-                  "coords": [
-                        5.188694,
-                        50.124728
-                  ]
-            },
-            {
                   "name": "PrehistoHan",
                   "text": "An exhibition in Han-sur-Lesse presenting archaeological finds from the region's famous caves.",
                   "category": "museum",
                   "coords": [
                         5.191447,
                         50.124336
-                  ]
-            },
-            {
-                  "name": "Tienne d'Aise",
-                  "text": "A nature reserve near Han-sur-Lesse, known for its calcareous grasslands and diverse flora.",
-                  "category": "natural",
-                  "coords": [
-                        5.152126,
-                        50.118615
-                  ]
-            },
-            {
-                  "name": "Château d’Eprave",
-                  "text": "A historic castle in the village of Eprave, known for its picturesque location in the Lesse valley.",
-                  "category": "castle",
-                  "coords": [
-                        5.160934,
-                        50.144683
-                  ]
-            },
-            {
-                  "name": "Le Roptai",
-                  "text": "A wooded natural area near Han-sur-Lesse, part of the Famenne-Ardenne Geopark.",
-                  "category": "natural",
-                  "coords": [
-                        5.141718,
-                        50.117965
-                  ]
-            },
-            {
-                  "name": "Bois d'Ellinchamps",
-                  "text": "A protected forest area near Han-sur-Lesse, home to typical flora and fauna of the region.",
-                  "category": "natural",
-                  "coords": [
-                        5.191479,
-                        50.093466
                   ]
             },
             {
@@ -3418,15 +3094,6 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
                   ]
             },
             {
-                  "name": "Bosreservaat Joseph Zwaenepoel",
-                  "text": "Ein streng geschütztes Waldreservat innerhalb des Zonienwaldes.",
-                  "category": "natural",
-                  "coords": [
-                        4.416503,
-                        50.756353
-                  ]
-            },
-            {
                   "name": "Bosmuseum Jan van Ruusbroec",
                   "text": "Ein Waldmuseum, das sich der Ökologie und Geschichte des Zonienwaldes widmet.",
                   "category": "museum",
@@ -3489,15 +3156,6 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
                   "coords": [
                         4.431961,
                         50.783589
-                  ]
-            },
-            {
-                  "name": "Bosreservaat Joseph Zwaenepoel",
-                  "text": "Szigorúan védett erdőrezervátum a Sonian-erdő területén.",
-                  "category": "natural",
-                  "coords": [
-                        4.416503,
-                        50.756353
                   ]
             },
             {
@@ -3566,15 +3224,6 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
                   ]
             },
             {
-                  "name": "Bosreservaat Joseph Zwaenepoel",
-                  "text": "O rezervație forestieră strict protejată în cadrul pădurii Sonian.",
-                  "category": "natural",
-                  "coords": [
-                        4.416503,
-                        50.756353
-                  ]
-            },
-            {
                   "name": "Bosmuseum Jan van Ruusbroec",
                   "text": "Un muzeu forestier dedicat ecologiei și istoriei pădurii Sonian.",
                   "category": "museum",
@@ -3637,15 +3286,6 @@ imageHint: "Blooming yellow witch hazel in a winter garden",
                   "coords": [
                         4.431961,
                         50.783589
-                  ]
-            },
-            {
-                  "name": "Bosreservaat Joseph Zwaenepoel",
-                  "text": "A strictly protected forest reserve within the Sonian Forest.",
-                  "category": "natural",
-                  "coords": [
-                        4.416503,
-                        50.756353
                   ]
             },
             {

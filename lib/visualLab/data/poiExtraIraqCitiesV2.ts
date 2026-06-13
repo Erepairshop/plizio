@@ -11891,24 +11891,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samarra Museum",
-                  "text": "Samarra-Museum, das archäologische Funde der abbasidischen Palaststadt aus dem 9. Jahrhundert zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        43.876455,
-                        34.199207
-                  ]
-            },
-            {
-                  "name": "check point",
-                  "text": "Aussichtspunkt in Samarra mit Blick auf die Ruinen der historischen Stadt und den Tigris.",
-                  "category": "natural",
-                  "coords": [
-                        43.878328,
-                        34.196725
-                  ]
-            },
-            {
                   "name": "samarra park",
                   "text": "Samarra-Park, eine öffentliche Grünanlage am Ufer des Tigris mit Spazierwegen.",
                   "category": "landmark",
@@ -11953,24 +11935,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   "coords": [
                         43.879769,
                         34.205771
-                  ]
-            },
-            {
-                  "name": "Samarra Museum",
-                  "text": "Samarra Múzeum, amely a 9. századi abbászida palotaváros régészeti leleteit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        43.876455,
-                        34.199207
-                  ]
-            },
-            {
-                  "name": "check point",
-                  "text": "Kilátópont Samarrában, ahonnan a történelmi város romjaira és a Tigrisre látni.",
-                  "category": "natural",
-                  "coords": [
-                        43.878328,
-                        34.196725
                   ]
             },
             {
@@ -12021,24 +11985,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samarra Museum",
-                  "text": "Muzeul Samarra, care expune descoperiri arheologice ale orașului palat abbasid din secolul IX.",
-                  "category": "museum",
-                  "coords": [
-                        43.876455,
-                        34.199207
-                  ]
-            },
-            {
-                  "name": "Check point",
-                  "text": "Punct de belvedere în Samarra, cu vedere la ruinele orașului istoric și la râul Tigru.",
-                  "category": "natural",
-                  "coords": [
-                        43.878328,
-                        34.196725
-                  ]
-            },
-            {
                   "name": "Samarra park",
                   "text": "Parcul Samarra, un spațiu verde public pe malul Tigrului cu alei de plimbare.",
                   "category": "landmark",
@@ -12064,15 +12010,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                         43.883092,
                         34.220655
                   ]
-            },
-            {
-                  "name": "Al-Askari Shrine",
-                  "text": "Al-Askari Shrine este un important altar și loc de cult șiit din Samarra.",
-                  "category": "religious",
-                  "coords": [
-                        43.873533,
-                        34.198927
-                  ]
             }
       ],
       "en": [
@@ -12083,24 +12020,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   "coords": [
                         43.879769,
                         34.205771
-                  ]
-            },
-            {
-                  "name": "Samarra Museum",
-                  "text": "Samarra Museum, displaying archaeological finds from the 9th-century Abbasid palace city.",
-                  "category": "museum",
-                  "coords": [
-                        43.876455,
-                        34.199207
-                  ]
-            },
-            {
-                  "name": "check point",
-                  "text": "Check point lookout in Samarra, offering views of the ancient city ruins and the Tigris River.",
-                  "category": "natural",
-                  "coords": [
-                        43.878328,
-                        34.196725
                   ]
             },
             {
@@ -12128,15 +12047,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   "coords": [
                         43.883092,
                         34.220655
-                  ]
-            },
-            {
-                  "name": "Al-Askari Shrine",
-                  "text": "The Al-Askari Shrine is a significant Shia Muslim holy site and place of worship in Samarra.",
-                  "category": "religious",
-                  "coords": [
-                        43.873533,
-                        34.198927
                   ]
             }
       ]
@@ -13736,24 +13646,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zakho Musem",
-                  "text": "Zakho-Museum, das archäologische und ethnografische Sammlungen der Region zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        42.696116,
-                        37.136903
-                  ]
-            },
-            {
-                  "name": "abasika seri",
-                  "text": "Abasika Seri in Zakho, ein historisches Wahrzeichen mit unbekannter Funktion.",
-                  "category": "landmark",
-                  "coords": [
-                        42.710194,
-                        37.139488
-                  ]
-            },
-            {
                   "name": "Mal",
                   "text": "Mal in Zakho, ein traditionelles Gebäude, das als lokales Wahrzeichen gilt.",
                   "category": "landmark",
@@ -13844,15 +13736,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Delal Corniche",
-                  "text": "Zakho Corniche, Uferpromenade in Zakho, fertiggestellt 2021.",
-                  "category": "landmark",
-                  "coords": [
-                        42.692403,
-                        37.136659
-                  ]
-            },
-            {
                   "name": "ZA#A1998",
                   "text": "ZA#A1998 in Zakho, ein modernes Denkmal oder Kunstwerk aus dem Jahr 1998.",
                   "category": "landmark",
@@ -13877,15 +13760,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   "coords": [
                         42.685277,
                         37.136479
-                  ]
-            },
-            {
-                  "name": "White Village",
-                  "text": "Weißes Dorf in Zakho, eine Siedlung mit weiß getünchten Häusern und engen Gassen.",
-                  "category": "landmark",
-                  "coords": [
-                        42.685498,
-                        37.128302
                   ]
             },
             {
@@ -13924,24 +13798,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   "coords": [
                         42.675058,
                         37.149604
-                  ]
-            },
-            {
-                  "name": "Zakho Musem",
-                  "text": "Zakho Múzeum, a régió régészeti és néprajzi gyűjteményeit bemutató intézmény.",
-                  "category": "museum",
-                  "coords": [
-                        42.696116,
-                        37.136903
-                  ]
-            },
-            {
-                  "name": "abasika seri",
-                  "text": "Abasika Seri Zakóban, egy ismeretlen funkciójú történelmi jelkép.",
-                  "category": "landmark",
-                  "coords": [
-                        42.710194,
-                        37.139488
                   ]
             },
             {
@@ -14035,15 +13891,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Delal Corniche",
-                  "text": "Zakho Corniche sétány Zakho városában, elkészült 2021-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        42.692403,
-                        37.136659
-                  ]
-            },
-            {
                   "name": "ZA#A1998",
                   "text": "ZA#A1998 Zakóban, egy 1998-as modern emlékmű vagy műalkotás.",
                   "category": "landmark",
@@ -14068,15 +13915,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   "coords": [
                         42.685277,
                         37.136479
-                  ]
-            },
-            {
-                  "name": "White Village",
-                  "text": "Fehér falu Zakóban, egy fehérre meszelt házakkal és keskeny utcákkal rendelkező település.",
-                  "category": "landmark",
-                  "coords": [
-                        42.685498,
-                        37.128302
                   ]
             },
             {
@@ -14115,24 +13953,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   "coords": [
                         42.675058,
                         37.149604
-                  ]
-            },
-            {
-                  "name": "Zakho Musem",
-                  "text": "Muzeul Zakho, care prezintă colecții arheologice și etnografice ale regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        42.696116,
-                        37.136903
-                  ]
-            },
-            {
-                  "name": "abasika seri",
-                  "text": "Abasika Seri din Zakho, un reper istoric cu funcție necunoscută.",
-                  "category": "landmark",
-                  "coords": [
-                        42.710194,
-                        37.139488
                   ]
             },
             {
@@ -14226,15 +14046,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Delal Corniche",
-                  "text": "Zakho Corniche, promenada pe malul apei din Zakho, finalizată în 2021.",
-                  "category": "landmark",
-                  "coords": [
-                        42.692403,
-                        37.136659
-                  ]
-            },
-            {
                   "name": "ZA#A1998",
                   "text": "ZA#A1998 din Zakho, un monument sau operă de artă modernă din anul 1998.",
                   "category": "landmark",
@@ -14259,15 +14070,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   "coords": [
                         42.685277,
                         37.136479
-                  ]
-            },
-            {
-                  "name": "White Village",
-                  "text": "Satul Alb din Zakho, o așezare cu case văruite în alb și străzi înguste.",
-                  "category": "landmark",
-                  "coords": [
-                        42.685498,
-                        37.128302
                   ]
             },
             {
@@ -14306,24 +14108,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   "coords": [
                         42.675058,
                         37.149604
-                  ]
-            },
-            {
-                  "name": "Zakho Musem",
-                  "text": "Zakho Museum, displaying archaeological and ethnographic collections of the region.",
-                  "category": "museum",
-                  "coords": [
-                        42.696116,
-                        37.136903
-                  ]
-            },
-            {
-                  "name": "abasika seri",
-                  "text": "Abasika Seri in Zakho, a historical landmark of unknown purpose.",
-                  "category": "landmark",
-                  "coords": [
-                        42.710194,
-                        37.139488
                   ]
             },
             {
@@ -14390,15 +14174,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dalal Bridge",
-                  "text": "Dalal Bridge in Zakho, a stone arch bridge over the Khabur River.",
-                  "category": "landmark",
-                  "coords": [
-                        42.694574,
-                        37.136538
-                  ]
-            },
-            {
                   "name": "cemetery of Zaxo",
                   "text": "Cemetery of Zakho, a historic burial ground with ancient tombstones.",
                   "category": "historical",
@@ -14414,15 +14189,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   "coords": [
                         42.694982,
                         37.135211
-                  ]
-            },
-            {
-                  "name": "Zakho Corniche",
-                  "text": "Zakho Corniche, waterfront promenade in Zakho, completed in 2021.",
-                  "category": "landmark",
-                  "coords": [
-                        42.692403,
-                        37.136659
                   ]
             },
             {
@@ -14450,15 +14216,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   "coords": [
                         42.685277,
                         37.136479
-                  ]
-            },
-            {
-                  "name": "White Village",
-                  "text": "White Village in Zakho, a settlement with whitewashed houses and narrow lanes.",
-                  "category": "landmark",
-                  "coords": [
-                        42.685498,
-                        37.128302
                   ]
             },
             {
@@ -17033,15 +16790,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Esqala",
-                  "text": "Historische Festungsruine oberhalb von Rawandiz.",
-                  "category": "historical",
-                  "coords": [
-                        44.538175,
-                        36.631824
-                  ]
-            },
-            {
                   "name": "Rawanduz Swimming Pool",
                   "text": "Öffentliches Schwimmbad in Rawandiz mit Becken und Liegewiese.",
                   "category": "landmark",
@@ -17188,15 +16936,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Esqala",
-                  "text": "Történelmi erődrom Rawandiz fölött.",
-                  "category": "historical",
-                  "coords": [
-                        44.538175,
-                        36.631824
-                  ]
-            },
-            {
                   "name": "Rawanduz Swimming Pool",
                   "text": "Nyilvános uszoda Rawandizban, medencével és napozóval.",
                   "category": "landmark",
@@ -17278,15 +17017,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Entrance to Rawandiz Canyon",
-                  "text": "Az Entrance to Rawandiz Canyon egy lenyűgöző szurdok bejáratát jelöli Rawanduzban.",
-                  "category": "landmark",
-                  "coords": [
-                        44.534959,
-                        36.623178
-                  ]
-            },
-            {
                   "name": "Qala Street",
                   "text": "A Qala Street kilátópontként szolgál Rawanduz városában.",
                   "category": "natural",
@@ -17340,15 +17070,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   "coords": [
                         44.498135,
                         36.618156
-                  ]
-            },
-            {
-                  "name": "Esqala",
-                  "text": "Ruinele istorice ale unei fortărețe deasupra Rawandizului.",
-                  "category": "historical",
-                  "coords": [
-                        44.538175,
-                        36.631824
                   ]
             },
             {
@@ -17498,15 +17219,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Esqala",
-                  "text": "Historic fortress ruins overlooking Rawandiz.",
-                  "category": "historical",
-                  "coords": [
-                        44.538175,
-                        36.631824
-                  ]
-            },
-            {
                   "name": "Rawanduz Swimming Pool",
                   "text": "Public swimming pool in Rawandiz with pool and sunbathing area.",
                   "category": "landmark",
@@ -17585,15 +17297,6 @@ export const poiExtraIraqCitiesV2: POI[] = [
                   "coords": [
                         44.506449,
                         36.61391
-                  ]
-            },
-            {
-                  "name": "Entrance to Rawandiz Canyon",
-                  "text": "The Entrance to Rawandiz Canyon marks the access point to a striking gorge in Rawanduz.",
-                  "category": "landmark",
-                  "coords": [
-                        44.534959,
-                        36.623178
                   ]
             },
             {

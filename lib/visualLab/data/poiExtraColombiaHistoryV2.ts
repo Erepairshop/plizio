@@ -9738,15 +9738,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
     id: "pantano-de-vargas-history-v2", "sights": {
       "de": [
             {
-                  "name": "Academia de Formación Artistica",
-                  "text": "Ein Kulturinstitut nahe dem Pantano de Vargas, das Kurse in traditioneller kolumbianischer Kunst, Tanz und Musik anbietet.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.030395,
-                        5.815868
-                  ]
-            },
-            {
                   "name": "Casa Museo Juan Vargas",
                   "text": "Ein Museum im Kolonialstil, das die Geschichte und lokale Artefakte der Unabhängigkeitsschlachtregion Pantano de Vargas bewahrt.",
                   "category": "museum",
@@ -9771,15 +9762,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
                   "coords": [
                         -73.063642,
                         5.709044
-                  ]
-            },
-            {
-                  "name": "Parque para niños",
-                  "text": "Ein lokaler Spielplatz und Themenpark mit Freizeitaktivitäten für Kinder in der Region Pantano de Vargas.",
-                  "category": "recreational",
-                  "coords": [
-                        -73.017087,
-                        5.809194
                   ]
             },
             {
@@ -9857,15 +9839,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Academia de Formación Artistica",
-                  "text": "A Pantano de Vargas közelében található kulturális intézet, amely hagyományos kolumbiai művészeti, tánc- és zeneoktatást kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.030395,
-                        5.815868
-                  ]
-            },
-            {
                   "name": "Casa Museo Juan Vargas",
                   "text": "Egy gyarmati stílusú múzeum, amely a Pantano de Vargas-i függetlenségi csata régiójának történelmét és helyi leleteit őrzi.",
                   "category": "museum",
@@ -9890,15 +9863,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
                   "coords": [
                         -73.063642,
                         5.709044
-                  ]
-            },
-            {
-                  "name": "Parque para niños",
-                  "text": "Egy helyi játszótér és vidámpark, amely szabadidős tevékenységeket kínál gyermekek számára Pantano de Vargas térségében.",
-                  "category": "recreational",
-                  "coords": [
-                        -73.017087,
-                        5.809194
                   ]
             },
             {
@@ -9976,15 +9940,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Academia de Formación Artistica",
-                  "text": "Un institut cultural de lângă Pantano de Vargas care oferă cursuri de artă, dans și muzică tradițională columbiană.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.030395,
-                        5.815868
-                  ]
-            },
-            {
                   "name": "Casa Museo Juan Vargas",
                   "text": "Un muzeu în stil colonial care păstrează istoria și artefactele locale din regiunea bătăliei de independență de la Pantano de Vargas.",
                   "category": "museum",
@@ -10009,15 +9964,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
                   "coords": [
                         -73.063642,
                         5.709044
-                  ]
-            },
-            {
-                  "name": "Parque para niños",
-                  "text": "Un loc de joacă și parc tematic care oferă activități recreative pentru copiii din zona Pantano de Vargas.",
-                  "category": "recreational",
-                  "coords": [
-                        -73.017087,
-                        5.809194
                   ]
             },
             {
@@ -10095,15 +10041,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Academia de Formación Artistica",
-                  "text": "A cultural institute near the Pantano de Vargas offering classes in traditional Colombian arts, dance, and music.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.030395,
-                        5.815868
-                  ]
-            },
-            {
                   "name": "Casa Museo Juan Vargas",
                   "text": "A colonial-style museum preserving the history and local artifacts of the Pantano de Vargas independence battle region.",
                   "category": "museum",
@@ -10128,15 +10065,6 @@ export const poiExtraColombiaHistoryV2: POI[] = [
                   "coords": [
                         -73.063642,
                         5.709044
-                  ]
-            },
-            {
-                  "name": "Parque para niños",
-                  "text": "A local playground and theme park providing recreational activities for children in the Pantano de Vargas area.",
-                  "category": "recreational",
-                  "coords": [
-                        -73.017087,
-                        5.809194
                   ]
             },
             {

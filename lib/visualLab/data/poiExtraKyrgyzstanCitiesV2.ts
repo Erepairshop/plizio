@@ -176,42 +176,6 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
     id: "osh-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Istoriko-etnograficheskii muzei Sulaiman-Too",
-                  "text": "Museumskomplex am Fuße des Sulaiman-Too in Osch mit archäologischen Funden von der Seidenstraße.",
-                  "category": "museum",
-                  "coords": [
-                        72.783732,
-                        40.52866
-                  ]
-            },
-            {
-                  "name": "Usbekisches Babur-Musik- und Dramentheater Osch",
-                  "text": "Theater für usbekische Musik und Drama in Osch, benannt nach Babur.",
-                  "category": "cultural",
-                  "coords": [
-                        72.796773,
-                        40.533082
-                  ]
-            },
-            {
-                  "name": "Arkheologicheskii muzei",
-                  "text": "Das Archäologische Museum in Osch zeigt Funde aus der umliegenden Region.",
-                  "category": "museum",
-                  "coords": [
-                        72.79281,
-                        40.529636
-                  ]
-            },
-            {
-                  "name": "Alumbek Datka Museum",
-                  "text": "Das Alumbek Datka Museum in Osch ist dem Leben von Alumbek Datka gewidmet und zeigt lokale Geschichte.",
-                  "category": "museum",
-                  "coords": [
-                        72.793743,
-                        40.529932
-                  ]
-            },
-            {
                   "name": "Poselenie bronzovogo veka",
                   "text": "Die bronzezeitliche Siedlung in Osch ist eine archäologische Stätte mit freigelegten Fundamenten.",
                   "category": "historical",
@@ -276,42 +240,6 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Istoriko-etnograficheskii muzei Sulaiman-Too",
-                  "text": "Múzeumkomplexum az Osh-i Sulaiman-Too lábánál, a Selyemút régészeti leleteivel.",
-                  "category": "museum",
-                  "coords": [
-                        72.783732,
-                        40.52866
-                  ]
-            },
-            {
-                  "name": "Uzbekskii dramaticheskii teatr im. Z. M. Babura",
-                  "text": "Üzbég zenei és drámai színház Oshban, amely Babur nevét viseli.",
-                  "category": "cultural",
-                  "coords": [
-                        72.796773,
-                        40.533082
-                  ]
-            },
-            {
-                  "name": "Arkheologicheskii muzei",
-                  "text": "Az osi Régészeti Múzeum a környék leleteit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        72.79281,
-                        40.529636
-                  ]
-            },
-            {
-                  "name": "Alumbek Datka Museum",
-                  "text": "Az osi Alumbek Datka Múzeum Alumbek Datka életét és a helyi történelmet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        72.793743,
-                        40.529932
-                  ]
-            },
             {
                   "name": "Poselenie bronzovogo veka",
                   "text": "Az osi bronzkori település egy régészeti lelőhely feltárt alapokkal.",
@@ -378,42 +306,6 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Istoriko-etnograficheskii muzei Sulaiman-Too",
-                  "text": "Complex muzeal la poalele muntelui Sulaiman-Too din Oș, cu descoperiri arheologice de pe Drumul Mătăsii.",
-                  "category": "museum",
-                  "coords": [
-                        72.783732,
-                        40.52866
-                  ]
-            },
-            {
-                  "name": "Uzbekskii dramaticheskii teatr im. Z. M. Babura",
-                  "text": "Teatru de muzică și dramă uzbecă în Oș, numit după Babur.",
-                  "category": "cultural",
-                  "coords": [
-                        72.796773,
-                        40.533082
-                  ]
-            },
-            {
-                  "name": "Arkheologicheskii muzei",
-                  "text": "Muzeul Arheologic din Oș expune artefacte din regiunea înconjurătoare.",
-                  "category": "museum",
-                  "coords": [
-                        72.79281,
-                        40.529636
-                  ]
-            },
-            {
-                  "name": "Alumbek Datka Museum",
-                  "text": "Muzeul Alumbek Datka din Oș este dedicat vieții lui Alumbek Datka și istoriei locale.",
-                  "category": "museum",
-                  "coords": [
-                        72.793743,
-                        40.529932
-                  ]
-            },
-            {
                   "name": "Poselenie bronzovogo veka",
                   "text": "Așezarea din Epoca Bronzului din Oș este un sit arheologic cu fundații excavate.",
                   "category": "historical",
@@ -478,42 +370,6 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Istoriko-etnograficheskii muzei Sulaiman-Too",
-                  "text": "Museum complex at the foot of Sulaiman-Too mountain in Osh, housing Silk Road archaeological finds.",
-                  "category": "museum",
-                  "coords": [
-                        72.783732,
-                        40.52866
-                  ]
-            },
-            {
-                  "name": "Osh State Academic Uzbek Music and Drama Theater named after Babur",
-                  "text": "Theatre for Uzbek music and drama in Osh, named after Babur.",
-                  "category": "cultural",
-                  "coords": [
-                        72.796773,
-                        40.533082
-                  ]
-            },
-            {
-                  "name": "Archeological Museum",
-                  "text": "The Archaeological Museum in Osh displays artifacts from the surrounding region.",
-                  "category": "museum",
-                  "coords": [
-                        72.79281,
-                        40.529636
-                  ]
-            },
-            {
-                  "name": "Alumbek Datka Museum",
-                  "text": "The Alumbek Datka Museum in Osh is dedicated to the life of Alumbek Datka and local history.",
-                  "category": "museum",
-                  "coords": [
-                        72.793743,
-                        40.529932
-                  ]
-            },
             {
                   "name": "Bronze Age settlement",
                   "text": "The Bronze Age settlement in Osh is an archaeological site with excavated foundations.",
@@ -888,15 +744,6 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
     id: "karakol-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Istoriko-kraevedcheskii muzei Karakola",
-                  "text": "Das Karakol Historical Regional Study Museum zeigt die Geschichte und Kultur der Region.",
-                  "category": "museum",
-                  "coords": [
-                        78.391577,
-                        42.489426
-                  ]
-            },
-            {
                   "name": "Muzykalnyi dramaticheskii teatr",
                   "text": "1937 erbautes Musikdramatheater in Karakol.",
                   "category": "cultural",
@@ -912,15 +759,6 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
                   "coords": [
                         78.393208,
                         42.492539
-                  ]
-            },
-            {
-                  "name": "Ypkyh",
-                  "text": "Ypkyh in Karakol ist eine historische Stätte mit Überresten einer alten Siedlung.",
-                  "category": "historical",
-                  "coords": [
-                        78.40785,
-                        42.483536
                   ]
             },
             {
@@ -944,15 +782,6 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Istoriko-kraevedcheskii muzei Karakola",
-                  "text": "A karakoli Karakol Historical Regional Study Museum a térség történelmét és kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        78.391577,
-                        42.489426
-                  ]
-            },
-            {
                   "name": "Muzykalnyi dramaticheskii teatr",
                   "text": "1937-ben épült zenés színház Karakolban.",
                   "category": "cultural",
@@ -968,15 +797,6 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
                   "coords": [
                         78.393208,
                         42.492539
-                  ]
-            },
-            {
-                  "name": "Ypkyh",
-                  "text": "A karakoli Ypkyh egy történelmi lelőhely egy ősi település maradványaival.",
-                  "category": "historical",
-                  "coords": [
-                        78.40785,
-                        42.483536
                   ]
             },
             {
@@ -1000,15 +820,6 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Istoriko-kraevedcheskii muzei Karakola",
-                  "text": "Muzeul Regional de Studii Istorice Karakol prezintă istoria și cultura regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        78.391577,
-                        42.489426
-                  ]
-            },
-            {
                   "name": "Muzykalnyi dramaticheskii teatr",
                   "text": "Teatru muzical-dramatic construit în 1937 la Karakol.",
                   "category": "cultural",
@@ -1024,15 +835,6 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
                   "coords": [
                         78.393208,
                         42.492539
-                  ]
-            },
-            {
-                  "name": "Ypkyh",
-                  "text": "Ypkyh din Karakol este un sit istoric cu rămășițe ale unei așezări străvechi.",
-                  "category": "historical",
-                  "coords": [
-                        78.40785,
-                        42.483536
                   ]
             },
             {
@@ -1056,15 +858,6 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Karakol historical regional study museum",
-                  "text": "The Karakol Historical Regional Study Museum exhibits the history and culture of the region.",
-                  "category": "museum",
-                  "coords": [
-                        78.391577,
-                        42.489426
-                  ]
-            },
-            {
                   "name": "Muzykalnyi dramaticheskii teatr",
                   "text": "Musical drama theatre built in 1937 in Karakol.",
                   "category": "cultural",
@@ -1080,24 +873,6 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
                   "coords": [
                         78.393208,
                         42.492539
-                  ]
-            },
-            {
-                  "name": "Ypkyh",
-                  "text": "Ypkyh in Karakol is a historical site with remnants of an ancient settlement.",
-                  "category": "historical",
-                  "coords": [
-                        78.40785,
-                        42.483536
-                  ]
-            },
-            {
-                  "name": "Holy Trinity Cathedral",
-                  "text": "Cathedral built 1894–1895 in Karakol.",
-                  "category": "landmark",
-                  "coords": [
-                        78.394851,
-                        42.489123
                   ]
             },
             {
@@ -2931,7 +2706,12 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       fr: ["Abrite l'un des plus grands marchés d'Asie centrale.", "Est séparée de la ville ouzbèke de Qorasuv par un canal.", "Est une plaque tournante massive pour les marchandises en provenance de Chine.", "La ville est ethniquement très mixte (Kirghizes/Ouzbèkes).", "Se situe à seulement 25 km au nord-est d'Osh.", "Économiquement presque entièrement orientée vers le commerce.", "Un nœud ferroviaire important dans la vallée de Ferghana."],
     }, image: "/poi-images/kara-suu-cities-v2.webp"},
   {
-    id: "tash-kumyr-cities-v2", "sights": {"de": [{"name": "Park", "text": "Dieser lokale Themenpark bietet Vergnügung und Freizeitaktivitäten in Tasch-Kömür.", "category": "family", "coords": [72.224587, 41.344993]}], "hu": [{"name": "Park", "text": "Ez a helyi vidámpark szórakozási és rekreációs lehetőségeket kínál Taskömürben.", "category": "family", "coords": [72.224587, 41.344993]}], "ro": [{"name": "Park", "text": "Acest parc tematic local oferă activități de amuzament și recreere în Tasch-Kömür.", "category": "family", "coords": [72.224587, 41.344993]}], "en": [{"name": "Park", "text": "This local theme park provides amusement and recreational activities in Tasch-Kömür.", "category": "family", "coords": [72.224587, 41.344993]}]},
+    id: "tash-kumyr-cities-v2", "sights": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
+},
     type: "city",
     parent: "KG-J",
     coords: [72.22, 41.35],
@@ -3368,30 +3148,12 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
     id: "cholpon-ata-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Petroglyph with hunting scene",
-                  "text": "Diese archäologische Stätte in Scholpon-Ata zeigt Felszeichnungen mit einer Jagdszene.",
-                  "category": "historical",
-                  "coords": [
-                        77.055628,
-                        42.658304
-                  ]
-            },
-            {
                   "name": "kraevedcheskii muzei Issyk-Kulya",
                   "text": "Das Issyk-Kul State Historical-Cultural Museum-Reserve in Ata bewahrt historische und kulturelle Artefakte der Region.",
                   "category": "museum",
                   "coords": [
                         77.0876,
                         42.650462
-                  ]
-            },
-            {
-                  "name": "Zaton",
-                  "text": "Zaton in Ata ist ein Familienausflugsziel, möglicherweise ein Wasserpark oder Erholungsgebiet.",
-                  "category": "family",
-                  "coords": [
-                        77.086785,
-                        42.640317
                   ]
             },
             {
@@ -3424,30 +3186,12 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Petroglyph with hunting scene",
-                  "text": "Ez a régészeti lelőhely Scholpon-Atában egy vadászjelenetet ábrázoló sziklarajzot mutat be.",
-                  "category": "historical",
-                  "coords": [
-                        77.055628,
-                        42.658304
-                  ]
-            },
-            {
                   "name": "kraevedcheskii muzei Issyk-Kulya",
                   "text": "Az atai Issyk-Kul Állami Történelmi-Kulturális Múzeum-rezervátum a régió történelmi és kulturális emlékeit őrzi.",
                   "category": "museum",
                   "coords": [
                         77.0876,
                         42.650462
-                  ]
-            },
-            {
-                  "name": "Zaton",
-                  "text": "Az atai Zaton egy családi kikapcsolódási hely, valószínűleg vízipark vagy üdülőterület.",
-                  "category": "family",
-                  "coords": [
-                        77.086785,
-                        42.640317
                   ]
             },
             {
@@ -3480,30 +3224,12 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Petroglyph with hunting scene",
-                  "text": "Acest sit arheologic din Scholpon-Ata prezintă petroglife cu o scenă de vânătoare.",
-                  "category": "historical",
-                  "coords": [
-                        77.055628,
-                        42.658304
-                  ]
-            },
-            {
                   "name": "kraevedcheskii muzei Issyk-Kulya",
                   "text": "Rezervația Muzeală Istorico-Culturală de Stat Issyk-Kul din Ata păstrează artefacte istorice și culturale ale regiunii.",
                   "category": "museum",
                   "coords": [
                         77.0876,
                         42.650462
-                  ]
-            },
-            {
-                  "name": "Zaton",
-                  "text": "Zaton din Ata este o destinație de agrement pentru familii, posibil un parc acvatic sau zonă de recreere.",
-                  "category": "family",
-                  "coords": [
-                        77.086785,
-                        42.640317
                   ]
             },
             {
@@ -3535,33 +3261,6 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Petroglyph with hunting scene",
-                  "text": "This archaeological site in Cholpon-Ata features petroglyphs depicting a hunting scene.",
-                  "category": "historical",
-                  "coords": [
-                        77.055628,
-                        42.658304
-                  ]
-            },
-            {
-                  "name": "Issyk-Kul state historical-cultural museum-reserve museum",
-                  "text": "The Issyk-Kul State Historical-Cultural Museum-Reserve in Ata preserves historical and cultural artifacts of the region.",
-                  "category": "museum",
-                  "coords": [
-                        77.0876,
-                        42.650462
-                  ]
-            },
-            {
-                  "name": "Zaton",
-                  "text": "Zaton in Ata is a family recreation area, possibly a water park or resort.",
-                  "category": "family",
-                  "coords": [
-                        77.086785,
-                        42.640317
-                  ]
-            },
             {
                   "name": "«Rukh Ordo» Ch. Aitmatov atyndagy madanii borboru",
                   "text": "The Rukh Ordo Cultural Centre in Ata, named after Ch. Aitmatov, focuses on spiritual and cultural harmony.",
@@ -4399,50 +4098,10 @@ export const poiExtraKyrgyzstanCitiesV2: POI[] = [
     }, image: "/poi-images/suluktu-cities-v2.webp"},
   {
     id: "kadamjay-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Muzei Abdykadyra Orozbekova",
-                  "text": "Das Muzei Abdykadyra Orozbekova in Kadamjay ist dem Leben und Werk von Abdykadyra Orozbekova gewidmet.",
-                  "category": "museum",
-                  "coords": [
-                        71.722,
-                        40.131291
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Muzei Abdykadyra Orozbekova",
-                  "text": "A kadamjai Muzei Abdykadyra Orozbekova Abdykadyra Orozbekova életét és munkásságát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        71.722,
-                        40.131291
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Muzei Abdykadyra Orozbekova",
-                  "text": "Muzeul Abdykadyra Orozbekova din Kadamjay este dedicat vieții și operei lui Abdykadyra Orozbekova.",
-                  "category": "museum",
-                  "coords": [
-                        71.722,
-                        40.131291
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Muzei Abdykadyra Orozbekova",
-                  "text": "The Muzei Abdykadyra Orozbekova in Kadamjay is dedicated to the life and work of Abdykadyra Orozbekova.",
-                  "category": "museum",
-                  "coords": [
-                        71.722,
-                        40.131291
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "KG-B",

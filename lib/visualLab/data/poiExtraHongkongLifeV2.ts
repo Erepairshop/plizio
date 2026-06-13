@@ -2920,15 +2920,6 @@ export const hongkongLifeV2: POI[] = [
                         114.169843,
                         22.299323
                   ]
-            },
-            {
-                  "name": "Health Education Exhibition and Resource Centre",
-                  "text": "Dieses Zentrum befindet sich in einem denkmalgeschützten Gebäude im Park und bietet interaktive Ausstellungen zu öffentlicher Hygiene und Lebensmittelsicherheit.",
-                  "category": "museum",
-                  "coords": [
-                        114.171459,
-                        22.298404
-                  ]
             }
       ],
       "hu": [
@@ -2966,15 +2957,6 @@ export const hongkongLifeV2: POI[] = [
                   "coords": [
                         114.169843,
                         22.299323
-                  ]
-            },
-            {
-                  "name": "Health Education Exhibition and Resource Centre",
-                  "text": "A parkon belüli védett műemléképületben található központ a közegészségügyre és az élelmiszer-biztonságra fókuszáló interaktív kiállításokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        114.171459,
-                        22.298404
                   ]
             }
       ],
@@ -3014,15 +2996,6 @@ export const hongkongLifeV2: POI[] = [
                         114.169843,
                         22.299323
                   ]
-            },
-            {
-                  "name": "Health Education Exhibition and Resource Centre",
-                  "text": "Situat într-o clădire de patrimoniu conservată din interiorul parcului, acest centru prezintă expoziții interactive axate pe igiena publică și siguranța alimentară.",
-                  "category": "museum",
-                  "coords": [
-                        114.171459,
-                        22.298404
-                  ]
             }
       ],
       "en": [
@@ -3060,15 +3033,6 @@ export const hongkongLifeV2: POI[] = [
                   "coords": [
                         114.169843,
                         22.299323
-                  ]
-            },
-            {
-                  "name": "Health Education Exhibition and Resource Centre",
-                  "text": "Located inside a preserved heritage building within the park, this center features interactive exhibits focused on public hygiene and food safety.",
-                  "category": "museum",
-                  "coords": [
-                        114.171459,
-                        22.298404
                   ]
             }
       ]
@@ -3183,15 +3147,6 @@ export const hongkongLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Yuen Tun Viewing Point",
-                  "text": "Der Yuen Tun Viewing Point ist ein Aussichtspunkt im Freien, der das hügelige Terrain der Region hervorhebt.",
-                  "category": "natural",
-                  "coords": [
-                        114.049967,
-                        22.371032
-                  ]
-            },
-            {
                   "name": "Kap Shui Mun Obelisk (Yi Chuen)",
                   "text": "Der Kap Shui Mun Obelisk bei Yi Chuen dient als Aussichtspunkt mit Blick auf die nahe gelegenen Wasserstraßen.",
                   "category": "natural",
@@ -3273,24 +3228,6 @@ export const hongkongLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sham Tseng Playground",
-                  "text": "Dieser öffentliche Spielplatz bietet einen städtischen Erholungsraum im Viertel Sham Tseng.",
-                  "category": "park",
-                  "coords": [
-                        114.058407,
-                        22.367782
-                  ]
-            },
-            {
-                  "name": "Anglers' Beach",
-                  "text": "Dieser sandige Küstenstrand bietet eine malerische Kulisse entlang der Küste von Sham Tseng.",
-                  "category": "recreational",
-                  "coords": [
-                        114.056785,
-                        22.365156
-                  ]
-            },
-            {
                   "name": "Chan's Ancestral Hall",
                   "text": "Diese traditionelle Halle im Tin Liu New Village ehrt die Ahnen des Chan-Clans.",
                   "category": "religious",
@@ -3353,15 +3290,6 @@ export const hongkongLifeV2: POI[] = [
                   "coords": [
                         114.044631,
                         22.380078
-                  ]
-            },
-            {
-                  "name": "Yuen Tun Viewing Point",
-                  "text": "A Yuen Tun Viewing Point egy szabadtéri megfigyelőhely, ahonnan jól látható a régió dombos domborzata.",
-                  "category": "natural",
-                  "coords": [
-                        114.049967,
-                        22.371032
                   ]
             },
             {
@@ -3446,24 +3374,6 @@ export const hongkongLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sham Tseng Playground",
-                  "text": "Ez a nyilvános játszótér városi kikapcsolódási lehetőséget kínál a Sham Tseng negyedben.",
-                  "category": "park",
-                  "coords": [
-                        114.058407,
-                        22.367782
-                  ]
-            },
-            {
-                  "name": "Anglers' Beach",
-                  "text": "Ez a homokos tengerpart festői környezetet biztosít a Sham Tseng partszakaszon.",
-                  "category": "recreational",
-                  "coords": [
-                        114.056785,
-                        22.365156
-                  ]
-            },
-            {
                   "name": "Chan's Ancestral Hall",
                   "text": "A Tin Liu New Village-ben található hagyományos csarnok a Chan klán ősei előtt tiszteleg.",
                   "category": "religious",
@@ -3526,15 +3436,6 @@ export const hongkongLifeV2: POI[] = [
                   "coords": [
                         114.044631,
                         22.380078
-                  ]
-            },
-            {
-                  "name": "Yuen Tun Viewing Point",
-                  "text": "Yuen Tun Viewing Point este un loc de observație în aer liber care evidențiază terenul deluros al regiunii.",
-                  "category": "natural",
-                  "coords": [
-                        114.049967,
-                        22.371032
                   ]
             },
             {
@@ -3619,24 +3520,6 @@ export const hongkongLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sham Tseng Playground",
-                  "text": "Acest loc de joacă public oferă un spațiu de recreere urbană în cartierul Sham Tseng.",
-                  "category": "park",
-                  "coords": [
-                        114.058407,
-                        22.367782
-                  ]
-            },
-            {
-                  "name": "Anglers' Beach",
-                  "text": "Această plajă de coastă cu nisip oferă un cadru pitoresc pe litoralul din Sham Tseng.",
-                  "category": "recreational",
-                  "coords": [
-                        114.056785,
-                        22.365156
-                  ]
-            },
-            {
                   "name": "Chan's Ancestral Hall",
                   "text": "Situată în Tin Liu New Village, această sală tradițională onorează strămoșii clanului Chan.",
                   "category": "religious",
@@ -3699,15 +3582,6 @@ export const hongkongLifeV2: POI[] = [
                   "coords": [
                         114.044631,
                         22.380078
-                  ]
-            },
-            {
-                  "name": "Yuen Tun Viewing Point",
-                  "text": "Yuen Tun Viewing Point is an outdoor observation spot highlighting the region's hilly terrain.",
-                  "category": "natural",
-                  "coords": [
-                        114.049967,
-                        22.371032
                   ]
             },
             {
@@ -3789,24 +3663,6 @@ export const hongkongLifeV2: POI[] = [
                   "coords": [
                         114.055835,
                         22.348667
-                  ]
-            },
-            {
-                  "name": "Sham Tseng Playground",
-                  "text": "This public playground offers an urban recreational space in the Sham Tseng neighborhood.",
-                  "category": "park",
-                  "coords": [
-                        114.058407,
-                        22.367782
-                  ]
-            },
-            {
-                  "name": "Anglers' Beach",
-                  "text": "This coastal sandy beach provides a scenic waterfront setting along the Sham Tseng coastline.",
-                  "category": "recreational",
-                  "coords": [
-                        114.056785,
-                        22.365156
                   ]
             },
             {
@@ -3966,15 +3822,6 @@ export const hongkongLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "She Leng",
-                  "text": "Wanderer, die diesen schroffen Kamm erklimmen, werden mit einem Panoramablick auf die umliegenden ländlichen Täler und fernen Feuchtgebiete belohnt.",
-                  "category": "natural",
-                  "coords": [
-                        114.091187,
-                        22.516325
-                  ]
-            },
-            {
                   "name": "Hau Ku Shek Ancestral Hall",
                   "text": "Diese historische Ahnenhalle, die aus traditionellem Ziegel- und Holzmaterial erbaut wurde, dient als spirituelles Zentrum für den Hau-Clan in Ho Sheung Heung.",
                   "category": "religious",
@@ -4010,15 +3857,6 @@ export const hongkongLifeV2: POI[] = [
                   "coords": [
                         114.10664,
                         22.52212
-                  ]
-            },
-            {
-                  "name": "She Leng",
-                  "text": "A zord hegygerincet megmászó túrázókat a környező vidéki völgyekre és távoli vizenyős területekre nyíló panoráma jutalmazza.",
-                  "category": "natural",
-                  "coords": [
-                        114.091187,
-                        22.516325
                   ]
             },
             {
@@ -4060,15 +3898,6 @@ export const hongkongLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "She Leng",
-                  "text": "Excursioniștii care urcă pe această creastă accidentată sunt răsplătiți cu vederi panoramice ale văilor rurale din jur și ale zonelor umede îndepărtate.",
-                  "category": "natural",
-                  "coords": [
-                        114.091187,
-                        22.516325
-                  ]
-            },
-            {
                   "name": "Hau Ku Shek Ancestral Hall",
                   "text": "Construită din cărămidă și cherestea tradițională, această sală istorică a strămoșilor servește drept centru spiritual pentru clanul Hau din Ho Sheung Heung.",
                   "category": "religious",
@@ -4104,15 +3933,6 @@ export const hongkongLifeV2: POI[] = [
                   "coords": [
                         114.10664,
                         22.52212
-                  ]
-            },
-            {
-                  "name": "She Leng",
-                  "text": "Hikers ascending this rugged crest are rewarded with panoramic views of the surrounding rural valleys and distant wetlands.",
-                  "category": "natural",
-                  "coords": [
-                        114.091187,
-                        22.516325
                   ]
             },
             {

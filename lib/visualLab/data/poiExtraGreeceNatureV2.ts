@@ -413,15 +413,6 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Man and Samaria",
-                  "text": "Ein lokales Museum, das die Beziehung zwischen Mensch und Natur in Samaria zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        23.958806,
-                        35.291438
-                  ]
-            },
-            {
                   "name": "Koules Aggelokampe",
                   "text": "Eine osmanische Festung in der Nähe der Samaria-Schlucht auf Kreta.",
                   "category": "castle",
@@ -431,39 +422,12 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Upper eastern fort Agia Roumeli",
-                  "text": "Obere Ostfestung oberhalb von Agia Roumeli, bewacht den Eingang zur Samaria-Schlucht.",
-                  "category": "castle",
-                  "coords": [
-                        23.97375,
-                        35.239658
-                  ]
-            },
-            {
-                  "name": "Samaria Nationalpark",
-                  "text": "Ein berühmter Nationalpark auf Kreta, der eine der längsten Schluchten Europas umfasst.",
-                  "category": "natural",
-                  "coords": [
-                        23.992451,
-                        35.27683
-                  ]
-            },
-            {
                   "name": "Volakias",
                   "text": "Ein Berggipfel in den Weißen Bergen auf Kreta in der Nähe der Samaria-Schlucht.",
                   "category": "landmark",
                   "coords": [
                         23.927735,
                         35.288069
-                  ]
-            },
-            {
-                  "name": "Pssiristra",
-                  "text": "Ein Berggipfel im Gebiet der Samaria-Schlucht auf Kreta.",
-                  "category": "landmark",
-                  "coords": [
-                        23.985146,
-                        35.277293
                   ]
             }
       ],
@@ -487,15 +451,6 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Man and Samaria",
-                  "text": "Helyi múzeum, amely az ember és a természet kapcsolatát mutatja be Szamariában.",
-                  "category": "museum",
-                  "coords": [
-                        23.958806,
-                        35.291438
-                  ]
-            },
-            {
                   "name": "Koules Aggelokampe",
                   "text": "Oszmán kori erőd a krétai Szamaria-szurdok közelében.",
                   "category": "castle",
@@ -505,39 +460,12 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Upper eastern fort Agia Roumeli",
-                  "text": "Felső keleti erőd Agia Roumeli felett, a Samaria-szurdok bejáratát őrzi.",
-                  "category": "castle",
-                  "coords": [
-                        23.97375,
-                        35.239658
-                  ]
-            },
-            {
-                  "name": "Ethnikos Drumos Samarias",
-                  "text": "Híres krétai nemzeti park, amely Európa egyik leghosszabb szurdokát foglalja magában.",
-                  "category": "natural",
-                  "coords": [
-                        23.992451,
-                        35.27683
-                  ]
-            },
-            {
                   "name": "Bolakias",
                   "text": "Hegycsúcs a krétai Fehér-hegységben, a Szamaria-szurdok közelében.",
                   "category": "landmark",
                   "coords": [
                         23.927735,
                         35.288069
-                  ]
-            },
-            {
-                  "name": "Pssiristra",
-                  "text": "Hegycsúcs a krétai Szamaria-szurdok területén.",
-                  "category": "landmark",
-                  "coords": [
-                        23.985146,
-                        35.277293
                   ]
             }
       ],
@@ -561,15 +489,6 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Man and Samaria",
-                  "text": "Un muzeu local care prezintă relația dintre om și natură în Samaria.",
-                  "category": "museum",
-                  "coords": [
-                        23.958806,
-                        35.291438
-                  ]
-            },
-            {
                   "name": "Koules Aggelokampe",
                   "text": "O fortăreață otomană în apropierea Cheilor Samariei din Creta.",
                   "category": "castle",
@@ -579,39 +498,12 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Upper eastern fort Agia Roumeli",
-                  "text": "Fortul superior estic deasupra Agia Roumeli, păzind intrarea în Cheile Samaria.",
-                  "category": "castle",
-                  "coords": [
-                        23.97375,
-                        35.239658
-                  ]
-            },
-            {
-                  "name": "Ethnikos Drumos Samarias",
-                  "text": "Un faimos parc național din Creta, ce cuprinde unul dintre cele mai lungi chei din Europa.",
-                  "category": "natural",
-                  "coords": [
-                        23.992451,
-                        35.27683
-                  ]
-            },
-            {
                   "name": "Bolakias",
                   "text": "Un vârf montan în Munții Albi din Creta, lângă Cheile Samariei.",
                   "category": "landmark",
                   "coords": [
                         23.927735,
                         35.288069
-                  ]
-            },
-            {
-                  "name": "Pssiristra",
-                  "text": "Un vârf montan în zona Cheilor Samariei din Creta.",
-                  "category": "landmark",
-                  "coords": [
-                        23.985146,
-                        35.277293
                   ]
             }
       ],
@@ -635,15 +527,6 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Man and Samaria",
-                  "text": "A local museum showcasing the relationship between people and nature in Samaria.",
-                  "category": "museum",
-                  "coords": [
-                        23.958806,
-                        35.291438
-                  ]
-            },
-            {
                   "name": "Koules Angelokambi",
                   "text": "An Ottoman-era fortress located near the Samaria Gorge in Crete.",
                   "category": "castle",
@@ -653,39 +536,12 @@ imageHint: "Vikos Gorge deep canyon landscape",
                   ]
             },
             {
-                  "name": "Upper eastern fort Agia Roumeli",
-                  "text": "Upper eastern fort above Agia Roumeli, guarding the Samaria Gorge entrance.",
-                  "category": "castle",
-                  "coords": [
-                        23.97375,
-                        35.239658
-                  ]
-            },
-            {
-                  "name": "Samaria National Park",
-                  "text": "A famous national park in Crete encompassing one of the longest gorges in Europe.",
-                  "category": "natural",
-                  "coords": [
-                        23.992451,
-                        35.27683
-                  ]
-            },
-            {
                   "name": "Volakiás",
                   "text": "A mountain peak in the White Mountains of Crete, located near the Samaria Gorge.",
                   "category": "landmark",
                   "coords": [
                         23.927735,
                         35.288069
-                  ]
-            },
-            {
-                  "name": "Psirístra",
-                  "text": "A mountain peak located in the Samaria Gorge area on Crete.",
-                  "category": "landmark",
-                  "coords": [
-                        23.985146,
-                        35.277293
                   ]
             }
       ]
@@ -1854,50 +1710,10 @@ imageHint: "Mount Helmos snow peaks observatory",
     image: "/poi-images/greece-mount-helmos-nature-v2.webp",
 },  {
     id: "greece-mount-parnassus-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Asprokhoma-Psilo-Prontole-Kelari (Arakhobas)",
-                  "text": "Ein Naturschutzgebiet am Berg Parnass, bekannt für seine alpine Flora.",
-                  "category": "natural",
-                  "coords": [
-                        22.575987,
-                        38.520143
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Asprokhoma-Psilo-Prontole-Kelari (Arakhobas)",
-                  "text": "Természetvédelmi terület a Parnasszosz-hegyen, alpesi flórájáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        22.575987,
-                        38.520143
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Asprokhoma-Psilo-Prontole-Kelari (Arakhobas)",
-                  "text": "O rezervație naturală pe Muntele Parnas, cunoscută pentru flora alpină.",
-                  "category": "natural",
-                  "coords": [
-                        22.575987,
-                        38.520143
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Asprochoma - Psilo - Prondoli - Kelari (Arachovas)",
-                  "text": "A nature reserve on Mount Parnassus known for its alpine flora.",
-                  "category": "natural",
-                  "coords": [
-                        22.575987,
-                        38.520143
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "GR",
     type: "peak",
@@ -2954,15 +2770,6 @@ imageHint: "Mount Giona Pyramida peak cliff",
                   ]
             },
             {
-                  "name": "Mutikas",
-                  "text": "Der höchste Gipfel des Olymp-Massivs und der höchste Punkt Griechenlands.",
-                  "category": "landmark",
-                  "coords": [
-                        22.358538,
-                        40.086248
-                  ]
-            },
-            {
                   "name": "Katarraktes Enipea",
                   "text": "Ein Aussichtspunkt mit Blick auf die beeindruckenden Wasserfälle in der Enipeas-Schlucht.",
                   "category": "natural",
@@ -2989,15 +2796,6 @@ imageHint: "Mount Giona Pyramida peak cliff",
                   "coords": [
                         22.380329,
                         40.0762
-                  ]
-            },
-            {
-                  "name": "Mutikas",
-                  "text": "Az Olümposz-masszívum legmagasabb csúcsa és Görögország legmagasabb pontja.",
-                  "category": "landmark",
-                  "coords": [
-                        22.358538,
-                        40.086248
                   ]
             },
             {
@@ -3030,15 +2828,6 @@ imageHint: "Mount Giona Pyramida peak cliff",
                   ]
             },
             {
-                  "name": "Mutikas",
-                  "text": "Cel mai înalt vârf al masivului Olimp și cel mai înalt punct din Grecia.",
-                  "category": "landmark",
-                  "coords": [
-                        22.358538,
-                        40.086248
-                  ]
-            },
-            {
                   "name": "Katarraktes Enipea",
                   "text": "Punct de observație asupra cascadelor impresionante din cheile Enipeas.",
                   "category": "natural",
@@ -3065,15 +2854,6 @@ imageHint: "Mount Giona Pyramida peak cliff",
                   "coords": [
                         22.380329,
                         40.0762
-                  ]
-            },
-            {
-                  "name": "Mytikas",
-                  "text": "The highest peak of the Olympus massif and the highest point in Greece.",
-                  "category": "landmark",
-                  "coords": [
-                        22.358538,
-                        40.086248
                   ]
             },
             {

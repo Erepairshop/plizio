@@ -4110,30 +4110,12 @@ export const poiExtraUruguayNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Cachuera",
-                  "text": "Historische Ruinen, die Überreste alter Siedlungen in der Region des Flusses Cuareim bewahren.",
-                  "category": "historical",
-                  "coords": [
-                        -57.623592,
-                        -30.248355
-                  ]
-            },
-            {
                   "name": "Estacion del Este",
                   "text": "Ein lokales Museum, das in einem ehemaligen Bahnhofsgebäude in Monte Caseros untergebracht ist.",
                   "category": "museum",
                   "coords": [
                         -57.634506,
                         -30.249495
-                  ]
-            },
-            {
-                  "name": "Casa de Turismo",
-                  "text": "Eine archäologische Interpretationsstätte und ein Tourismuszentrum in der Region des Flusses Cuareim.",
-                  "category": "historical",
-                  "coords": [
-                        -57.621431,
-                        -30.253843
                   ]
             },
             {
@@ -4202,30 +4184,12 @@ export const poiExtraUruguayNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Cachuera",
-                  "text": "Történelmi romok, amelyek egy régi település maradványait őrzik a Cuareim folyó vidékén.",
-                  "category": "historical",
-                  "coords": [
-                        -57.623592,
-                        -30.248355
-                  ]
-            },
-            {
                   "name": "Estacion del Este",
                   "text": "Monte Caseros egykori vasútállomásának épületében berendezett helytörténeti múzeum.",
                   "category": "museum",
                   "coords": [
                         -57.634506,
                         -30.249495
-                  ]
-            },
-            {
-                  "name": "Casa de Turismo",
-                  "text": "Régészeti bemutatóhely és turisztikai központ a Cuareim folyó régiójában.",
-                  "category": "historical",
-                  "coords": [
-                        -57.621431,
-                        -30.253843
                   ]
             },
             {
@@ -4294,30 +4258,12 @@ export const poiExtraUruguayNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Cachuera",
-                  "text": "Ruine istorice care păstrează rămășițele vechilor așezări din regiunea râului Cuareim.",
-                  "category": "historical",
-                  "coords": [
-                        -57.623592,
-                        -30.248355
-                  ]
-            },
-            {
                   "name": "Estacion del Este",
                   "text": "Un muzeu local găzduit într-o fostă clădire a gării din Monte Caseros.",
                   "category": "museum",
                   "coords": [
                         -57.634506,
                         -30.249495
-                  ]
-            },
-            {
-                  "name": "Casa de Turismo",
-                  "text": "Un sit arheologic interpretativ și centru de turism în regiunea râului Cuareim.",
-                  "category": "historical",
-                  "coords": [
-                        -57.621431,
-                        -30.253843
                   ]
             },
             {
@@ -4386,30 +4332,12 @@ export const poiExtraUruguayNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Cachuera",
-                  "text": "Historic ruins preserving remnants of old settlements near the Cuareim river region.",
-                  "category": "historical",
-                  "coords": [
-                        -57.623592,
-                        -30.248355
-                  ]
-            },
-            {
                   "name": "Estacion del Este",
                   "text": "A local museum housed in a former railway station structure in Monte Caseros.",
                   "category": "museum",
                   "coords": [
                         -57.634506,
                         -30.249495
-                  ]
-            },
-            {
-                  "name": "Casa de Turismo",
-                  "text": "An archaeological interpretive site and tourism center in the Cuareim river region.",
-                  "category": "historical",
-                  "coords": [
-                        -57.621431,
-                        -30.253843
                   ]
             },
             {
@@ -4936,33 +4864,6 @@ export const poiExtraUruguayNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vista panoramica de Playa de Piriápolis",
-                  "text": "Ein erhöhter Standort, der sich ideal zum Fotografieren der langen Kurve des Sandstrandes von Piriápolis eignet.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.276938,
-                        -34.872222
-                  ]
-            },
-            {
-                  "name": "Museo de Arte de Piriápolis - Les Mouettes",
-                  "text": "Diese Kunstgalerie in einer historischen Villa am Meer zeigt bedeutende Werke uruguayischer Künstler.",
-                  "category": "museum",
-                  "coords": [
-                        -55.275357,
-                        -34.872735
-                  ]
-            },
-            {
-                  "name": "Museo Ferroviario",
-                  "text": "Ein Museum, das die Eisenbahngeschichte der Region mit historischen Ausstattungsstücken und Dokumenten bewahrt.",
-                  "category": "museum",
-                  "coords": [
-                        -55.277254,
-                        -34.863988
-                  ]
-            },
-            {
                   "name": "Punta Colorada",
                   "text": "Eine felsige Landzunge, die bei Anglern und für die Beobachtung von Sonnenuntergängen über dem Ozean beliebt ist.",
                   "category": "recreational",
@@ -4996,15 +4897,6 @@ export const poiExtraUruguayNatureV2: POI[] = [
                   "coords": [
                         -55.283353,
                         -34.862652
-                  ]
-            },
-            {
-                  "name": "Pabellón de las Rosas",
-                  "text": "Ein eleganter Pavillon im Belle-Époque-Stil, der heute für Theateraufführungen und festliche Bankette genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        -55.278607,
-                        -34.862119
                   ]
             },
             {
@@ -5100,33 +4992,6 @@ export const poiExtraUruguayNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vista panoramica de Playa de Piriápolis",
-                  "text": "Magaslati pont, amely ideális Piriápolis hosszú, íves homokos strandjának fotózásához.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.276938,
-                        -34.872222
-                  ]
-            },
-            {
-                  "name": "Museo de Arte de Piriápolis - Les Mouettes",
-                  "text": "Ez a történelmi tengerparti villában helyet kapó művészeti galéria jelentős uruguayi alkotók műveit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -55.275357,
-                        -34.872735
-                  ]
-            },
-            {
-                  "name": "Museo Ferroviario",
-                  "text": "A régió vasúttörténetét bemutató múzeum, ahol régi berendezési tárgyakat és dokumentumokat őriznek.",
-                  "category": "museum",
-                  "coords": [
-                        -55.277254,
-                        -34.863988
-                  ]
-            },
-            {
                   "name": "Punta Colorada",
                   "text": "Sziklás kiszöggelés, amely népszerű a horgászok körében és kiváló hely az óceáni naplemente megtekintéséhez.",
                   "category": "recreational",
@@ -5160,15 +5025,6 @@ export const poiExtraUruguayNatureV2: POI[] = [
                   "coords": [
                         -55.283353,
                         -34.862652
-                  ]
-            },
-            {
-                  "name": "Pabellón de las Rosas",
-                  "text": "Elegáns, Belle Époque stílusú pavilon, amelyet ma színházi előadásokra és ünnepi bankettekre használnak.",
-                  "category": "cultural",
-                  "coords": [
-                        -55.278607,
-                        -34.862119
                   ]
             },
             {
@@ -5264,33 +5120,6 @@ export const poiExtraUruguayNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vista panoramica de Playa de Piriápolis",
-                  "text": "O locație elevată, ideală pentru a fotografia curba lungă a plajei cu nisip din Piriápolis.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.276938,
-                        -34.872222
-                  ]
-            },
-            {
-                  "name": "Museo de Arte de Piriápolis - Les Mouettes",
-                  "text": "Această galerie de artă, situată într-o vilă istorică de la malul mării, expune lucrări importante ale artiștilor uruguayeni.",
-                  "category": "museum",
-                  "coords": [
-                        -55.275357,
-                        -34.872735
-                  ]
-            },
-            {
-                  "name": "Museo Ferroviario",
-                  "text": "Un muzeu care conservă istoria feroviară a regiunii cu echipamente și documente de epocă.",
-                  "category": "museum",
-                  "coords": [
-                        -55.277254,
-                        -34.863988
-                  ]
-            },
-            {
                   "name": "Punta Colorada",
                   "text": "Un promontoriu stâncos popular pentru pescuit și pentru observarea apusurilor de soare peste ocean.",
                   "category": "recreational",
@@ -5324,15 +5153,6 @@ export const poiExtraUruguayNatureV2: POI[] = [
                   "coords": [
                         -55.283353,
                         -34.862652
-                  ]
-            },
-            {
-                  "name": "Pabellón de las Rosas",
-                  "text": "Un pavilion elegant în stil Belle Époque, utilizat în prezent pentru spectacole de teatru și banchete festive.",
-                  "category": "cultural",
-                  "coords": [
-                        -55.278607,
-                        -34.862119
                   ]
             },
             {
@@ -5428,33 +5248,6 @@ export const poiExtraUruguayNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vista panoramica de Playa de Piriápolis",
-                  "text": "An elevated location perfect for photographing the long curve of the sandy Piriápolis beach.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.276938,
-                        -34.872222
-                  ]
-            },
-            {
-                  "name": "Museo de Arte de Piriápolis - Les Mouettes",
-                  "text": "An art gallery housed in a historic seafront villa showcasing significant works by Uruguayan artists.",
-                  "category": "museum",
-                  "coords": [
-                        -55.275357,
-                        -34.872735
-                  ]
-            },
-            {
-                  "name": "Museo Ferroviario",
-                  "text": "A museum preserving the railway history of the region with vintage equipment and documents.",
-                  "category": "museum",
-                  "coords": [
-                        -55.277254,
-                        -34.863988
-                  ]
-            },
-            {
                   "name": "Punta Colorada",
                   "text": "A rocky headland popular for fishing and watching sunsets over the ocean.",
                   "category": "recreational",
@@ -5488,15 +5281,6 @@ export const poiExtraUruguayNatureV2: POI[] = [
                   "coords": [
                         -55.283353,
                         -34.862652
-                  ]
-            },
-            {
-                  "name": "Pabellón de las Rosas",
-                  "text": "An elegant Belle Époque style pavilion used for theatrical plays and social banquets.",
-                  "category": "cultural",
-                  "coords": [
-                        -55.278607,
-                        -34.862119
                   ]
             },
             {

@@ -6180,24 +6180,6 @@ export const italyCitiesV2: POI[] = [
     id: "italy-vicenza-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Museo del Risorgimento e della Resistenza",
-                  "text": "Das Museum in Vicenza dokumentiert die Geschichte des Risorgimento und des italienischen Widerstands.",
-                  "category": "museum",
-                  "coords": [
-                        11.546579,
-                        45.53011
-                  ]
-            },
-            {
-                  "name": "Gallerie di palazzo Leoni Montanari",
-                  "text": "Ein prächtiger Barockpalast, der heute Sammlungen russischer Ikonen und venezianischer Malerei beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        11.546807,
-                        45.55023
-                  ]
-            },
-            {
                   "name": "Basilica Palladiana",
                   "text": "Ein Meisterwerk der Renaissance von Andrea Palladio, das die Piazza dei Signori in Vicenza prägt.",
                   "category": "museum",
@@ -6222,15 +6204,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         11.54927,
                         45.549222
-                  ]
-            },
-            {
-                  "name": "Museo diocesano",
-                  "text": "Das Diözesanmuseum von Vicenza bewahrt religiöse Kunstwerke und historische Artefakte der Diözese auf.",
-                  "category": "museum",
-                  "coords": [
-                        11.543455,
-                        45.545789
                   ]
             },
             {
@@ -6378,15 +6351,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro Olimpico",
-                  "text": "Das von Andrea Palladio entworfene Bauwerk ist das älteste überdachte Theater der Welt und Teil des UNESCO-Welterbes.",
-                  "category": "historical",
-                  "coords": [
-                        11.549249,
-                        45.55013
-                  ]
-            },
-            {
                   "name": "Parco Storico di Villa Guiccioli",
                   "text": "Ein historischer Park rund um die Villa Guiccioli, in dem sich heute das Museum des Risorgimento und der Resistenza befindet.",
                   "category": "park",
@@ -6425,24 +6389,6 @@ export const italyCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Museo del Risorgimento e della Resistenza",
-                  "text": "Vicenzai múzeum, amely a Risorgimento és az olasz ellenállás történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        11.546579,
-                        45.53011
-                  ]
-            },
-            {
-                  "name": "Gallerie di palazzo Leoni Montanari",
-                  "text": "Pompás barokk palota, amely ma orosz ikonoknak és velencei festményeknek ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        11.546807,
-                        45.55023
-                  ]
-            },
-            {
                   "name": "Basilica Palladiana",
                   "text": "Andrea Palladio reneszánsz remekműve, amely meghatározza Vicenza főterének látképét.",
                   "category": "museum",
@@ -6467,15 +6413,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         11.54927,
                         45.549222
-                  ]
-            },
-            {
-                  "name": "Museo diocesano",
-                  "text": "A vicenzai egyházmegyei múzeum vallási műalkotásokat és az egyházmegye történelmi emlékeit őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        11.543455,
-                        45.545789
                   ]
             },
             {
@@ -6623,15 +6560,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro Olimpico",
-                  "text": "Az Andrea Palladio által tervezett építmény a világ legrégebbi fedett színháza, és az UNESCO Világörökség része.",
-                  "category": "historical",
-                  "coords": [
-                        11.549249,
-                        45.55013
-                  ]
-            },
-            {
                   "name": "Parco Storico di Villa Guiccioli",
                   "text": "A Villa Guiccioli körüli történelmi park, amely a Risorgimento és az Ellenállás Múzeumának ad otthont.",
                   "category": "park",
@@ -6670,24 +6598,6 @@ export const italyCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Museo del Risorgimento e della Resistenza",
-                  "text": "Muzeul din Vicenza care documentează istoria Risorgimento și a rezistenței italiene.",
-                  "category": "museum",
-                  "coords": [
-                        11.546579,
-                        45.53011
-                  ]
-            },
-            {
-                  "name": "Gallerie di palazzo Leoni Montanari",
-                  "text": "Un palat baroc somptuos care găzduiește astăzi colecții de icoane rusești și pictură venețiană.",
-                  "category": "museum",
-                  "coords": [
-                        11.546807,
-                        45.55023
-                  ]
-            },
-            {
                   "name": "Basilica Palladiana",
                   "text": "O capodoperă a Renașterii realizată de Andrea Palladio, care domină centrul orașului Vicenza.",
                   "category": "museum",
@@ -6712,15 +6622,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         11.54927,
                         45.549222
-                  ]
-            },
-            {
-                  "name": "Museo diocesano",
-                  "text": "Muzeul diecezan din Vicenza păstrează opere de artă religioasă și artefacte istorice ale diecezei.",
-                  "category": "museum",
-                  "coords": [
-                        11.543455,
-                        45.545789
                   ]
             },
             {
@@ -6868,15 +6769,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro Olimpico",
-                  "text": "Proiectat de Andrea Palladio, acesta este cel mai vechi teatru acoperit din lume și face parte din patrimoniul UNESCO.",
-                  "category": "historical",
-                  "coords": [
-                        11.549249,
-                        45.55013
-                  ]
-            },
-            {
                   "name": "Parco Storico di Villa Guiccioli",
                   "text": "Un parc istoric care înconjoară Villa Guiccioli, găzduind astăzi Muzeul Risorgimento și al Rezistenței.",
                   "category": "park",
@@ -6915,24 +6807,6 @@ export const italyCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Museo del Risorgimento e della Resistenza",
-                  "text": "A museum in Vicenza documenting the history of the Risorgimento and the Italian resistance.",
-                  "category": "museum",
-                  "coords": [
-                        11.546579,
-                        45.53011
-                  ]
-            },
-            {
-                  "name": "Gallerie di palazzo Leoni Montanari",
-                  "text": "A magnificent Baroque palace that now houses collections of Russian icons and Venetian paintings.",
-                  "category": "museum",
-                  "coords": [
-                        11.546807,
-                        45.55023
-                  ]
-            },
-            {
                   "name": "Basilica Palladiana",
                   "text": "A Renaissance masterpiece by Andrea Palladio that dominates the main square of Vicenza.",
                   "category": "museum",
@@ -6957,15 +6831,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         11.54927,
                         45.549222
-                  ]
-            },
-            {
-                  "name": "Museo diocesano",
-                  "text": "The diocesan museum of Vicenza preserves religious artworks and historical artifacts of the diocese.",
-                  "category": "museum",
-                  "coords": [
-                        11.543455,
-                        45.545789
                   ]
             },
             {
@@ -7113,15 +6978,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro Olimpico",
-                  "text": "Designed by Andrea Palladio, this is the oldest indoor theater in the world and a UNESCO World Heritage site.",
-                  "category": "historical",
-                  "coords": [
-                        11.549249,
-                        45.55013
-                  ]
-            },
-            {
                   "name": "Parco Storico di Villa Guiccioli",
                   "text": "A historic park surrounding Villa Guiccioli, currently home to the Museum of the Risorgimento and the Resistance.",
                   "category": "park",
@@ -7203,7 +7059,871 @@ export const italyCitiesV2: POI[] = [
     image: "/poi-images/italy-vicenza-cities-v2.webp",
   },
   {
-    id: "italy-bolzano-cities-v2", "sights": {"de": [{"name": "Theater Rainerum", "text": "Ein modernes Theater in Bozen, das für verschiedene kulturelle Aufführungen und Gemeinschaftsveranstaltungen genutzt wird.", "category": "cultural", "coords": [11.351554, 46.4969]}, {"name": "Merkantilmuseum", "text": "Das Museum im ehemaligen Gebäude des Merkantilmagistrats zeigt die Handelsgeschichte von Bozen.", "category": "museum", "coords": [11.354186, 46.499468]}, {"name": "Domschatzkammer Bozen", "text": "Die Domschatzkammer beherbergt eine bedeutende Sammlung sakraler Kunstgegenstände und barocker Goldschmiedearbeiten.", "category": "museum", "coords": [11.354544, 46.49744]}, {"name": "Naturmuseum Südtirol", "text": "Das Museum im ehemaligen Ämtergebäude der Landeshauptstadt widmet sich der Naturgeschichte Südtirols.", "category": "museum", "coords": [11.357096, 46.501118]}, {"name": "Ruine Weineck", "text": "Die Ruinen der im 12. Jahrhundert erbauten Burg Weineck liegen auf einem Hügel über dem Stadtteil Haslach.", "category": "castle", "coords": [11.349534, 46.490216]}, {"name": "Stadttheater", "text": "Das 1999 nach Plänen von Marco Zanuso fertiggestellte Theater ist die wichtigste Bühne der Landeshauptstadt.", "category": "cultural", "coords": [11.353832, 46.495603]}, {"name": "Stadtmuseum Bozen", "text": "Das Stadtmuseum von Bozen zeigt archäologische Funde sowie eine umfangreiche kunstgeschichtliche Sammlung der Region.", "category": "museum", "coords": [11.349031, 46.499801]}, {"name": "Museion", "text": "Das Museum für moderne und zeitgenössische Kunst ist in einem futuristischen Glaskubus an der Talfer untergebracht.", "category": "museum", "coords": [11.348355, 46.497333]}, {"name": "Schloss Klebenstein", "text": "Die am Eingang zum Sarntal gelegene Schlossanlage besteht aus einem mittelalterlichen Wohnturm und barocken Anbauten.", "category": "castle", "coords": [11.352347, 46.511683]}, {"name": "Compil", "text": "Der Ansitz Campill ist ein wehrhafter Herrensitz aus dem 16. Jahrhundert im östlichen Teil von Bozen.", "category": "castle", "coords": [11.352566, 46.50927]}, {"name": "Schloss Ried", "text": "Die gut erhaltene Burganlage am Eingang des Sarntals ist vor allem für ihre wertvollen gotischen Wandmalereien bekannt.", "category": "castle", "coords": [11.361299, 46.520551]}, {"name": "Castel Campegno - Burg Kampenn", "text": "Die auf einem Felsen thronende Burg Kampenn bewacht den östlichen Zugang zur Stadt Bozen.", "category": "castle", "coords": [11.390202, 46.487234]}, {"name": "Haselburg", "text": "Die mittelalterliche Burg Flavon bietet einen weiten Blick über das Etschtal und beherbergt heute gastronomische Betriebe.", "category": "castle", "coords": [11.343522, 46.476888]}, {"name": "Ansitz Hörtenberg", "text": "Ein historischer Renaissance-Ansitz in Bozen, der heute als exklusives Hotel dient.", "category": "castle", "coords": [11.360975, 46.502201]}, {"name": "Schloss Runkelstein", "text": "Diese mittelalterliche Burg ist bekannt für ihre umfangreichen profanen Freskenzyklen aus dem Mittelalter.", "category": "castle", "coords": [11.35889, 46.517531]}, {"name": "Schloss Maretsch", "text": "Ein von Weinbergen umgebenes Schloss nahe dem Stadtzentrum, das heute als Veranstaltungszentrum genutzt wird.", "category": "castle", "coords": [11.350473, 46.503454]}, {"name": "Gscheibter Turm", "text": "Die Ruine eines markanten runden Turms in Bozen, der einst zu einer Burganlage gehörte.", "category": "castle", "coords": [11.346598, 46.511436]}, {"name": "ehem. Kloster Maria in der Au", "text": "Eine archäologische Ausgrabungsstätte in Bozen, die Reste eines mittelalterlichen Klosters zeigt.", "category": "historical", "coords": [11.326192, 46.486257]}, {"name": "BZ '18-'45", "text": "Eine Dokumentations-Ausstellung im Siegesdenkmal, die die Bozner Zeitgeschichte thematisiert.", "category": "museum", "coords": [11.344872, 46.500493]}, {"name": "Francis-Turbine (1925 Marling)", "text": "Ein technisches Denkmal in Bozen, das eine historische Francis-Turbine aus dem Jahr 1925 ausstellt.", "category": "museum", "coords": [11.338803, 46.477988]}, {"name": "Bozner Lido", "text": "Das Bozner Lido bietet als großes öffentliches Freizeitzentrum mitten in der Stadt eine ideale Erfrischung. Mehrere Schwimmbecken laden hier zum ausgiebigen Baden und Entspannen ein. Besonders in den heißen Sommermonaten ist ein früher Besuch empfehlenswert, um das erfrischende Wasser in Ruhe zu genießen.", "category": "family", "coords": [11.344255, 46.490674]}, {"name": "Laurinbrunnen", "text": "Ein kunstvoller Brunnen in Bozen, der die Sagengestalt König Laurin darstellt.", "category": "historical", "coords": [11.357757, 46.497561]}, {"name": "ar/ge kunst", "text": "Die ar/ge kunst in Bozen fungiert als spannende Plattform für zeitgenössische Kunstausstellungen. Kunstinteressierte können in diesem Museum wechselnde Werke moderner Künstler aus unterschiedlichen Disziplinen betrachten.", "category": "museum", "coords": [11.350688, 46.499759]}, {"name": "Grieser Platz", "text": "Der zentrale Platz im Bozner Stadtteil Gries, bekannt für sein mildes Klima und historische Villen.", "category": "park", "coords": [11.335408, 46.502311]}, {"name": "Ehemalige Kirche St. Oswald", "text": "Die malerischen Ruinen einer ehemaligen Kirche in Bozen, die nach Zerstörungen im Zweiten Weltkrieg als Mahnmal dienen.", "category": "historical", "coords": [11.35943, 46.503915]}, {"name": "Corpus Domini", "text": "Eine religiöse Gebetsstätte in Bozen, die der Verehrung des Leibes Christi gewidmet ist.", "category": "religious", "coords": [11.320945, 46.491011]}], "hu": [{"name": "Teatro Rainerum", "text": "Modern színház Bolzanóban, amely különféle kulturális előadásoknak és közösségi eseményeknek ad otthont.", "category": "cultural", "coords": [11.351554, 46.4969]}, {"name": "Museo Mercantile - Merkantilmuseum", "text": "A múzeum a Kereskedelmi Hatóság egykori épületében mutatja be Bozen kereskedelmi múltját.", "category": "museum", "coords": [11.354186, 46.499468]}, {"name": "Tesoro del Duomo di Bolzano - Domschatzkammer Bozen", "text": "A dóm kincstára szakrális műtárgyak és barokk ötvösmunkák jelentős gyűjteményének ad otthont.", "category": "museum", "coords": [11.354544, 46.49744]}, {"name": "Museo Scienze Naturali - Naturmuseum", "text": "A tartományi székhely egykori hivatali épületében található múzeum Dél-Tirol természetrajzát mutatja be.", "category": "museum", "coords": [11.357096, 46.501118]}, {"name": "Ruine Weineck - Rovine Castel Weinegg", "text": "A 12. században épült Weineck-vár romjai a Haslach városrész feletti dombon találhatók.", "category": "castle", "coords": [11.349534, 46.490216]}, {"name": "Teatro Comunale - Stadttheater", "text": "A Marco Zanuso tervei alapján 1999-ben elkészült színház a tartományi székhely legfontosabb színpada.", "category": "cultural", "coords": [11.353832, 46.495603]}, {"name": "Municipal Museum - Stadtmuseum", "text": "Bozen városi múzeuma régészeti leleteket és a régió gazdag művészettörténeti gyűjteményét mutatja be.", "category": "museum", "coords": [11.349031, 46.499801]}, {"name": "Museion", "text": "A modern és kortárs művészeti múzeum a Talfer-folyó partján, egy futurisztikus üvegkockában található.", "category": "museum", "coords": [11.348355, 46.497333]}, {"name": "Castel Sant'Antonio - Schloss Klebenstein", "text": "A Sarntal-völgy bejáratánál fekvő várkastély egy középkori lakótoronyból és barokk bővítményekből áll.", "category": "castle", "coords": [11.352347, 46.511683]}, {"name": "Compil", "text": "A Campill-udvarház egy 16. századi erődített nemesi lakóhely Bozen keleti részén.", "category": "castle", "coords": [11.352566, 46.50927]}, {"name": "Schloss Ried - Castel Novale", "text": "A Sarntal-völgy bejáratánál álló, jó állapotú vár elsősorban értékes gótikus falfestményeiről ismert.", "category": "castle", "coords": [11.361299, 46.520551]}, {"name": "Castel Campegno - Burg Kampenn", "text": "A sziklán trónoló Kampenn vára Bozen városának keleti bejáratát őrzi.", "category": "castle", "coords": [11.390202, 46.487234]}, {"name": "Castel Flavon - Haselburg", "text": "A középkori Flavon-vár széles kilátást nyújt az Etsch-völgyre, és ma vendéglátóhelyeknek ad otthont.", "category": "castle", "coords": [11.343522, 46.476888]}, {"name": "Castel Hörtenberg - Ansitz Hörtenberg", "text": "Történelmi reneszánsz kastély Bozenben, amely ma exkluzív szállodaként működik.", "category": "castle", "coords": [11.360975, 46.502201]}, {"name": "Castel Roncolo - Schloss Runkelstein", "text": "Ez a középkori vár a középkorból származó, kiterjedt világi freskóciklusairól ismert.", "category": "castle", "coords": [11.35889, 46.517531]}, {"name": "Schloss Maretsch - Castel Mareccio", "text": "Szőlőültetvényekkel körülvett kastély a városközpont közelében, amely ma rendezvényközpontként működik.", "category": "castle", "coords": [11.350473, 46.503454]}, {"name": "Torre Druso - Gscheibter Turm", "text": "Egy jellegzetes kerek torony romja Bozenben, amely egykor egy várkastélyhoz tartozott.", "category": "castle", "coords": [11.346598, 46.511436]}, {"name": "Maria in Augia - Maria in der Au", "text": "Régészeti lelőhely Bozenben, amely egy középkori kolostor maradványait mutatja be.", "category": "historical", "coords": [11.326192, 46.486257]}, {"name": "BZ '18-'45", "text": "A Győzelmi Emlékműben található dokumentációs kiállítás, amely Bozen újkori történelmét mutatja be.", "category": "museum", "coords": [11.344872, 46.500493]}, {"name": "Turbina Francis Turbine (1925 Marlengo - Marling)", "text": "Ipari műemlék Bozenben, amely egy 1925-ben készült történelmi Francis-turbinát mutat be.", "category": "museum", "coords": [11.338803, 46.477988]}, {"name": "Lido Bolzano- Bozner Lido", "text": "A bolzanói Bozner Lido egy hatalmas nyilvános strand és szabadidőközpont, amely a város szívében kínál felüdülést. A különböző medencék tökéletes helyszínt biztosítanak egy kiadós úszáshoz vagy egy pihentető délutánhoz. A nyári hőségben érdemes korán érkezni, hogy még a legnagyobb tömeg előtt élvezhesse a fürdőzést.", "category": "family", "coords": [11.344255, 46.490674]}, {"name": "Fontana di re Laurino - Laurinbrunnen", "text": "Művészi kút Bozenben, amely a legendás Laurin király alakját ábrázolja.", "category": "historical", "coords": [11.357757, 46.497561]}, {"name": "ar/ge kunst", "text": "A bolzanói ar/ge kunst izgalmas platformként szolgál a kortárs művészeti kiállítások számára. A művészet iránt érdeklődők ebben a múzeumban különböző tudományágak modern művészeinek változó alkotásait tekinthetik meg.", "category": "museum", "coords": [11.350688, 46.499759]}, {"name": "Grieser Platz", "text": "Bozen Gries negyedének központi tere, amely enyhe klímájáról és történelmi villáiról ismert.", "category": "park", "coords": [11.335408, 46.502311]}, {"name": "Ehemalige Kirche St. Oswald - Ex chiesa S. Osvaldo", "text": "Egy egykori templom romjai Bolzanóban, amelyek a második világháborús pusztítás után maradtak fenn.", "category": "historical", "coords": [11.35943, 46.503915]}, {"name": "Corpus Domini", "text": "Vallási kegyhely Bolzanóban, amelyet az Úrnapja tiszteletére szenteltek.", "category": "religious", "coords": [11.320945, 46.491011]}], "ro": [{"name": "Teatro Rainerum", "text": "Un teatru modern din Bolzano, utilizat pentru diverse spectacole culturale și evenimente comunitare.", "category": "cultural", "coords": [11.351554, 46.4969]}, {"name": "Museo Mercantile - Merkantilmuseum", "text": "Muzeul din fosta clădire a Magistratului Mercantil prezintă istoria comercială a orașului Bolzano.", "category": "museum", "coords": [11.354186, 46.499468]}, {"name": "Tesoro del Duomo di Bolzano - Domschatzkammer Bozen", "text": "Tezaurul catedralei adăpostește o colecție importantă de obiecte de artă sacră și piese de aurărie barocă.", "category": "museum", "coords": [11.354544, 46.49744]}, {"name": "Museo Scienze Naturali - Naturmuseum", "text": "Muzeul situat în fosta clădire administrativă a provinciei este dedicat istoriei naturale a Tirolului de Sud.", "category": "museum", "coords": [11.357096, 46.501118]}, {"name": "Ruine Weineck - Rovine Castel Weinegg", "text": "Ruinele castelului Weineck, construit în secolul al XII-lea, sunt situate pe o colină deasupra cartierului Haslach.", "category": "castle", "coords": [11.349534, 46.490216]}, {"name": "Teatro Comunale - Stadttheater", "text": "Teatrul finalizat în 1999 după planurile lui Marco Zanuso este cea mai importantă scenă a capitalei provinciale.", "category": "cultural", "coords": [11.353832, 46.495603]}, {"name": "Municipal Museum - Stadtmuseum", "text": "Muzeul Civic din Bolzano prezintă descoperiri arheologice și o vastă colecție de istorie a artei din regiune.", "category": "museum", "coords": [11.349031, 46.499801]}, {"name": "Museion", "text": "Muzeul de artă modernă și contemporană este găzduit într-un cub de sticlă futurist pe malul râului Talfer.", "category": "museum", "coords": [11.348355, 46.497333]}, {"name": "Castel Sant'Antonio - Schloss Klebenstein", "text": "Complexul castelului situat la intrarea în valea Sarntal constă dintr-un turn de locuit medieval și anexe baroce.", "category": "castle", "coords": [11.352347, 46.511683]}, {"name": "Compil", "text": "Reședința Campill este un sediu nobiliar fortificat din secolul al XVI-lea în partea de est a orașului Bolzano.", "category": "castle", "coords": [11.352566, 46.50927]}, {"name": "Schloss Ried - Castel Novale", "text": "Fortăreața bine conservată de la intrarea în valea Sarntal este cunoscută în special pentru picturile sale murale gotice valoroase.", "category": "castle", "coords": [11.361299, 46.520551]}, {"name": "Castel Campegno - Burg Kampenn", "text": "Castelul Campegno, situat pe o stâncă, păzește accesul estic către orașul Bolzano.", "category": "castle", "coords": [11.390202, 46.487234]}, {"name": "Castel Flavon - Haselburg", "text": "Castelul medieval Flavon oferă o vedere panoramică asupra văii Etsch și găzduiește astăzi unități gastronomice.", "category": "castle", "coords": [11.343522, 46.476888]}, {"name": "Castel Hörtenberg - Ansitz Hörtenberg", "text": "O reședință istorică renascentistă din Bolzano, care funcționează astăzi ca un hotel exclusivist.", "category": "castle", "coords": [11.360975, 46.502201]}, {"name": "Castel Roncolo - Schloss Runkelstein", "text": "Acest castel medieval este cunoscut pentru ciclurile sale vaste de fresce profane din epoca medievală.", "category": "castle", "coords": [11.35889, 46.517531]}, {"name": "Schloss Maretsch - Castel Mareccio", "text": "Un castel înconjurat de podgorii, situat lângă centrul orașului, folosit astăzi ca centru de evenimente.", "category": "castle", "coords": [11.350473, 46.503454]}, {"name": "Torre Druso - Gscheibter Turm", "text": "Ruina unui turn rotund proeminent din Bolzano, care a aparținut odinioară unui castel.", "category": "castle", "coords": [11.346598, 46.511436]}, {"name": "Maria in Augia - Maria in der Au", "text": "Un sit arheologic din Bolzano care prezintă vestigiile unei mănăstiri medievale.", "category": "historical", "coords": [11.326192, 46.486257]}, {"name": "BZ '18-'45", "text": "O expoziție documentară situată în Monumentul Victoriei, care abordează istoria contemporană a orașului Bolzano.", "category": "museum", "coords": [11.344872, 46.500493]}, {"name": "Turbina Francis Turbine (1925 Marlengo - Marling)", "text": "Un monument tehnic din Bolzano care expune o turbină Francis istorică din anul 1925.", "category": "museum", "coords": [11.338803, 46.477988]}, {"name": "Lido Bolzano- Bozner Lido", "text": "Bozner Lido este un mare centru public de agrement din inima orașului Bolzano, oferind o oază perfectă de răcoare. Cu numeroasele sale piscine, locul invită la înot și la relaxare deplină. În zilele călduroase de vară, o sosire matinală vă asigură o experiență de neuitat în apele sale revigorante.", "category": "family", "coords": [11.344255, 46.490674]}, {"name": "Fontana di re Laurino - Laurinbrunnen", "text": "O fântână artistică din Bolzano care îl reprezintă pe legendarul rege Laurin.", "category": "historical", "coords": [11.357757, 46.497561]}, {"name": "ar/ge kunst", "text": "Muzeul ar/ge kunst din Bolzano servește drept o platformă captivantă pentru expozițiile de artă contemporană. Pasionații de artă pot admira în acest spațiu opere mereu schimbătoare ale artiștilor moderni din diferite discipline.", "category": "museum", "coords": [11.350688, 46.499759]}, {"name": "Grieser Platz", "text": "Piața centrală a cartierului Gries din Bolzano, renumită pentru climatul blând și vilele istorice.", "category": "park", "coords": [11.335408, 46.502311]}, {"name": "Ehemalige Kirche St. Oswald - Ex chiesa S. Osvaldo", "text": "Ruinele pitorești ale unei foste biserici din Bolzano, care servesc astăzi ca monument istoric.", "category": "historical", "coords": [11.35943, 46.503915]}, {"name": "Corpus Domini", "text": "Un lăcaș de cult religios din Bolzano, dedicat venerării Trupului Domnului.", "category": "religious", "coords": [11.320945, 46.491011]}], "en": [{"name": "Teatro Rainerum", "text": "A modern theater in Bolzano used for various cultural performances and community events.", "category": "cultural", "coords": [11.351554, 46.4969]}, {"name": "Museo Mercantile - Merkantilmuseum", "text": "The museum in the former Mercantile Magistrate building displays the commercial history of Bolzano.", "category": "museum", "coords": [11.354186, 46.499468]}, {"name": "Tesoro del Duomo di Bolzano - Domschatzkammer Bozen", "text": "The cathedral treasury houses a significant collection of sacred art and Baroque goldsmith works.", "category": "museum", "coords": [11.354544, 46.49744]}, {"name": "Museo Scienze Naturali - Naturmuseum", "text": "The museum in the former provincial administrative building is dedicated to the natural history of South Tyrol.", "category": "museum", "coords": [11.357096, 46.501118]}, {"name": "Ruine Weineck - Rovine Castel Weinegg", "text": "The ruins of Weineck Castle, built in the 12th century, are located on a hill above the Haslach district.", "category": "castle", "coords": [11.349534, 46.490216]}, {"name": "Teatro Comunale - Stadttheater", "text": "Completed in 1999 according to plans by Marco Zanuso, the theatre is the provincial capital's most important stage.", "category": "cultural", "coords": [11.353832, 46.495603]}, {"name": "Municipal Museum", "text": "The Municipal Museum of Bolzano displays archaeological finds and an extensive art history collection of the region.", "category": "museum", "coords": [11.349031, 46.499801]}, {"name": "Museion", "text": "The museum for modern and contemporary art is housed in a futuristic glass cube on the banks of the Talfer river.", "category": "museum", "coords": [11.348355, 46.497333]}, {"name": "Castel Sant'Antonio - Schloss Klebenstein", "text": "The castle complex at the entrance to the Sarntal valley consists of a medieval residential tower and Baroque additions.", "category": "castle", "coords": [11.352347, 46.511683]}, {"name": "Compil", "text": "The campill manor is a fortified noble residence from the 16th century in the eastern part of Bolzano.", "category": "castle", "coords": [11.352566, 46.50927]}, {"name": "Schloss Ried - Castel Novale", "text": "The well-preserved castle complex at the entrance of the Sarntal valley is primarily known for its valuable Gothic frescoes.", "category": "castle", "coords": [11.361299, 46.520551]}, {"name": "Castel Campegno - Burg Kampenn", "text": "Perched on a rock, Campegno Castle guards the eastern approach to the city of Bolzano.", "category": "castle", "coords": [11.390202, 46.487234]}, {"name": "Castel Flavon - Haselburg", "text": "The medieval Flavon Castle offers a wide view over the Etsch valley and now houses gastronomic facilities.", "category": "castle", "coords": [11.343522, 46.476888]}, {"name": "Castel Hörtenberg - Ansitz Hörtenberg", "text": "A historic Renaissance manor in Bolzano, now serving as an exclusive hotel.", "category": "castle", "coords": [11.360975, 46.502201]}, {"name": "Castel Roncolo - Schloss Runkelstein", "text": "This medieval castle is known for its extensive cycles of secular frescoes dating back to the Middle Ages.", "category": "castle", "coords": [11.35889, 46.517531]}, {"name": "Schloss Maretsch - Castel Mareccio", "text": "A castle surrounded by vineyards near the city center, currently used as an event center.", "category": "castle", "coords": [11.350473, 46.503454]}, {"name": "Torre Druso - Gscheibter Turm", "text": "The ruin of a prominent circular tower in Bolzano, which once belonged to a castle complex.", "category": "castle", "coords": [11.346598, 46.511436]}, {"name": "Maria in Augia - Maria in der Au", "text": "An archaeological site in Bolzano displaying the remains of a medieval monastery.", "category": "historical", "coords": [11.326192, 46.486257]}, {"name": "BZ '18-'45", "text": "A documentation exhibition located in the Victory Monument, covering the contemporary history of Bolzano.", "category": "museum", "coords": [11.344872, 46.500493]}, {"name": "Turbina Francis Turbine (1925 Marlengo - Marling)", "text": "An industrial monument in Bolzano displaying a historic Francis turbine from 1925.", "category": "museum", "coords": [11.338803, 46.477988]}, {"name": "Lido Bolzano- Bozner Lido", "text": "The Bozner Lido serves as a large public leisure center in Bolzano, offering an ideal escape from the city heat. Various swimming pools provide the perfect setting for a refreshing dip or a relaxing afternoon. Arriving early during the peak summer months is highly recommended to fully enjoy the facilities.", "category": "family", "coords": [11.344255, 46.490674]}, {"name": "Fontana di re Laurino - Laurinbrunnen", "text": "An artistic fountain in Bolzano depicting the legendary King Laurin.", "category": "historical", "coords": [11.357757, 46.497561]}, {"name": "ar/ge kunst", "text": "The ar/ge kunst museum in Bolzano functions as an exciting platform for contemporary art exhibitions. Art enthusiasts can view changing works by modern artists from various disciplines in this Italian gallery.", "category": "museum", "coords": [11.350688, 46.499759]}, {"name": "Grieser Platz", "text": "The central square of Bolzano's Gries district, known for its mild climate and historic villas.", "category": "park", "coords": [11.335408, 46.502311]}, {"name": "Ehemalige Kirche St. Oswald - Ex chiesa S. Osvaldo", "text": "The ruins of a former church in Bolzano, preserved as a historical landmark after its destruction in World War II.", "category": "historical", "coords": [11.35943, 46.503915]}, {"name": "Corpus Domini", "text": "A religious place of worship in Bolzano dedicated to the Corpus Domini.", "category": "religious", "coords": [11.320945, 46.491011]}]},
+    id: "italy-bolzano-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Theater Rainerum",
+                  "text": "Ein modernes Theater in Bozen, das für verschiedene kulturelle Aufführungen und Gemeinschaftsveranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        11.351554,
+                        46.4969
+                  ]
+            },
+            {
+                  "name": "Merkantilmuseum",
+                  "text": "Das Museum im ehemaligen Gebäude des Merkantilmagistrats zeigt die Handelsgeschichte von Bozen.",
+                  "category": "museum",
+                  "coords": [
+                        11.354186,
+                        46.499468
+                  ]
+            },
+            {
+                  "name": "Domschatzkammer Bozen",
+                  "text": "Die Domschatzkammer beherbergt eine bedeutende Sammlung sakraler Kunstgegenstände und barocker Goldschmiedearbeiten.",
+                  "category": "museum",
+                  "coords": [
+                        11.354544,
+                        46.49744
+                  ]
+            },
+            {
+                  "name": "Naturmuseum Südtirol",
+                  "text": "Das Museum im ehemaligen Ämtergebäude der Landeshauptstadt widmet sich der Naturgeschichte Südtirols.",
+                  "category": "museum",
+                  "coords": [
+                        11.357096,
+                        46.501118
+                  ]
+            },
+            {
+                  "name": "Ruine Weineck",
+                  "text": "Die Ruinen der im 12. Jahrhundert erbauten Burg Weineck liegen auf einem Hügel über dem Stadtteil Haslach.",
+                  "category": "castle",
+                  "coords": [
+                        11.349534,
+                        46.490216
+                  ]
+            },
+            {
+                  "name": "Stadttheater",
+                  "text": "Das 1999 nach Plänen von Marco Zanuso fertiggestellte Theater ist die wichtigste Bühne der Landeshauptstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        11.353832,
+                        46.495603
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum Bozen",
+                  "text": "Das Stadtmuseum von Bozen zeigt archäologische Funde sowie eine umfangreiche kunstgeschichtliche Sammlung der Region.",
+                  "category": "museum",
+                  "coords": [
+                        11.349031,
+                        46.499801
+                  ]
+            },
+            {
+                  "name": "Schloss Klebenstein",
+                  "text": "Die am Eingang zum Sarntal gelegene Schlossanlage besteht aus einem mittelalterlichen Wohnturm und barocken Anbauten.",
+                  "category": "castle",
+                  "coords": [
+                        11.352347,
+                        46.511683
+                  ]
+            },
+            {
+                  "name": "Compil",
+                  "text": "Der Ansitz Campill ist ein wehrhafter Herrensitz aus dem 16. Jahrhundert im östlichen Teil von Bozen.",
+                  "category": "castle",
+                  "coords": [
+                        11.352566,
+                        46.50927
+                  ]
+            },
+            {
+                  "name": "Schloss Ried",
+                  "text": "Die gut erhaltene Burganlage am Eingang des Sarntals ist vor allem für ihre wertvollen gotischen Wandmalereien bekannt.",
+                  "category": "castle",
+                  "coords": [
+                        11.361299,
+                        46.520551
+                  ]
+            },
+            {
+                  "name": "Castel Campegno - Burg Kampenn",
+                  "text": "Die auf einem Felsen thronende Burg Kampenn bewacht den östlichen Zugang zur Stadt Bozen.",
+                  "category": "castle",
+                  "coords": [
+                        11.390202,
+                        46.487234
+                  ]
+            },
+            {
+                  "name": "Haselburg",
+                  "text": "Die mittelalterliche Burg Flavon bietet einen weiten Blick über das Etschtal und beherbergt heute gastronomische Betriebe.",
+                  "category": "castle",
+                  "coords": [
+                        11.343522,
+                        46.476888
+                  ]
+            },
+            {
+                  "name": "Ansitz Hörtenberg",
+                  "text": "Ein historischer Renaissance-Ansitz in Bozen, der heute als exklusives Hotel dient.",
+                  "category": "castle",
+                  "coords": [
+                        11.360975,
+                        46.502201
+                  ]
+            },
+            {
+                  "name": "Schloss Runkelstein",
+                  "text": "Diese mittelalterliche Burg ist bekannt für ihre umfangreichen profanen Freskenzyklen aus dem Mittelalter.",
+                  "category": "castle",
+                  "coords": [
+                        11.35889,
+                        46.517531
+                  ]
+            },
+            {
+                  "name": "Gscheibter Turm",
+                  "text": "Die Ruine eines markanten runden Turms in Bozen, der einst zu einer Burganlage gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        11.346598,
+                        46.511436
+                  ]
+            },
+            {
+                  "name": "ehem. Kloster Maria in der Au",
+                  "text": "Eine archäologische Ausgrabungsstätte in Bozen, die Reste eines mittelalterlichen Klosters zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        11.326192,
+                        46.486257
+                  ]
+            },
+            {
+                  "name": "BZ '18-'45",
+                  "text": "Eine Dokumentations-Ausstellung im Siegesdenkmal, die die Bozner Zeitgeschichte thematisiert.",
+                  "category": "museum",
+                  "coords": [
+                        11.344872,
+                        46.500493
+                  ]
+            },
+            {
+                  "name": "Francis-Turbine (1925 Marling)",
+                  "text": "Ein technisches Denkmal in Bozen, das eine historische Francis-Turbine aus dem Jahr 1925 ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        11.338803,
+                        46.477988
+                  ]
+            },
+            {
+                  "name": "Laurinbrunnen",
+                  "text": "Ein kunstvoller Brunnen in Bozen, der die Sagengestalt König Laurin darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        11.357757,
+                        46.497561
+                  ]
+            },
+            {
+                  "name": "ar/ge kunst",
+                  "text": "Die ar/ge kunst in Bozen fungiert als spannende Plattform für zeitgenössische Kunstausstellungen. Kunstinteressierte können in diesem Museum wechselnde Werke moderner Künstler aus unterschiedlichen Disziplinen betrachten.",
+                  "category": "museum",
+                  "coords": [
+                        11.350688,
+                        46.499759
+                  ]
+            },
+            {
+                  "name": "Grieser Platz",
+                  "text": "Der zentrale Platz im Bozner Stadtteil Gries, bekannt für sein mildes Klima und historische Villen.",
+                  "category": "park",
+                  "coords": [
+                        11.335408,
+                        46.502311
+                  ]
+            },
+            {
+                  "name": "Ehemalige Kirche St. Oswald",
+                  "text": "Die malerischen Ruinen einer ehemaligen Kirche in Bozen, die nach Zerstörungen im Zweiten Weltkrieg als Mahnmal dienen.",
+                  "category": "historical",
+                  "coords": [
+                        11.35943,
+                        46.503915
+                  ]
+            },
+            {
+                  "name": "Corpus Domini",
+                  "text": "Eine religiöse Gebetsstätte in Bozen, die der Verehrung des Leibes Christi gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        11.320945,
+                        46.491011
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Rainerum",
+                  "text": "Modern színház Bolzanóban, amely különféle kulturális előadásoknak és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        11.351554,
+                        46.4969
+                  ]
+            },
+            {
+                  "name": "Museo Mercantile - Merkantilmuseum",
+                  "text": "A múzeum a Kereskedelmi Hatóság egykori épületében mutatja be Bozen kereskedelmi múltját.",
+                  "category": "museum",
+                  "coords": [
+                        11.354186,
+                        46.499468
+                  ]
+            },
+            {
+                  "name": "Tesoro del Duomo di Bolzano - Domschatzkammer Bozen",
+                  "text": "A dóm kincstára szakrális műtárgyak és barokk ötvösmunkák jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        11.354544,
+                        46.49744
+                  ]
+            },
+            {
+                  "name": "Museo Scienze Naturali - Naturmuseum",
+                  "text": "A tartományi székhely egykori hivatali épületében található múzeum Dél-Tirol természetrajzát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.357096,
+                        46.501118
+                  ]
+            },
+            {
+                  "name": "Ruine Weineck - Rovine Castel Weinegg",
+                  "text": "A 12. században épült Weineck-vár romjai a Haslach városrész feletti dombon találhatók.",
+                  "category": "castle",
+                  "coords": [
+                        11.349534,
+                        46.490216
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale - Stadttheater",
+                  "text": "A Marco Zanuso tervei alapján 1999-ben elkészült színház a tartományi székhely legfontosabb színpada.",
+                  "category": "cultural",
+                  "coords": [
+                        11.353832,
+                        46.495603
+                  ]
+            },
+            {
+                  "name": "Municipal Museum - Stadtmuseum",
+                  "text": "Bozen városi múzeuma régészeti leleteket és a régió gazdag művészettörténeti gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.349031,
+                        46.499801
+                  ]
+            },
+            {
+                  "name": "Castel Sant'Antonio - Schloss Klebenstein",
+                  "text": "A Sarntal-völgy bejáratánál fekvő várkastély egy középkori lakótoronyból és barokk bővítményekből áll.",
+                  "category": "castle",
+                  "coords": [
+                        11.352347,
+                        46.511683
+                  ]
+            },
+            {
+                  "name": "Compil",
+                  "text": "A Campill-udvarház egy 16. századi erődített nemesi lakóhely Bozen keleti részén.",
+                  "category": "castle",
+                  "coords": [
+                        11.352566,
+                        46.50927
+                  ]
+            },
+            {
+                  "name": "Schloss Ried - Castel Novale",
+                  "text": "A Sarntal-völgy bejáratánál álló, jó állapotú vár elsősorban értékes gótikus falfestményeiről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        11.361299,
+                        46.520551
+                  ]
+            },
+            {
+                  "name": "Castel Campegno - Burg Kampenn",
+                  "text": "A sziklán trónoló Kampenn vára Bozen városának keleti bejáratát őrzi.",
+                  "category": "castle",
+                  "coords": [
+                        11.390202,
+                        46.487234
+                  ]
+            },
+            {
+                  "name": "Castel Flavon - Haselburg",
+                  "text": "A középkori Flavon-vár széles kilátást nyújt az Etsch-völgyre, és ma vendéglátóhelyeknek ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        11.343522,
+                        46.476888
+                  ]
+            },
+            {
+                  "name": "Castel Hörtenberg - Ansitz Hörtenberg",
+                  "text": "Történelmi reneszánsz kastély Bozenben, amely ma exkluzív szállodaként működik.",
+                  "category": "castle",
+                  "coords": [
+                        11.360975,
+                        46.502201
+                  ]
+            },
+            {
+                  "name": "Castel Roncolo - Schloss Runkelstein",
+                  "text": "Ez a középkori vár a középkorból származó, kiterjedt világi freskóciklusairól ismert.",
+                  "category": "castle",
+                  "coords": [
+                        11.35889,
+                        46.517531
+                  ]
+            },
+            {
+                  "name": "Schloss Maretsch - Castel Mareccio",
+                  "text": "Szőlőültetvényekkel körülvett kastély a városközpont közelében, amely ma rendezvényközpontként működik.",
+                  "category": "castle",
+                  "coords": [
+                        11.350473,
+                        46.503454
+                  ]
+            },
+            {
+                  "name": "Torre Druso - Gscheibter Turm",
+                  "text": "Egy jellegzetes kerek torony romja Bozenben, amely egykor egy várkastélyhoz tartozott.",
+                  "category": "castle",
+                  "coords": [
+                        11.346598,
+                        46.511436
+                  ]
+            },
+            {
+                  "name": "Maria in Augia - Maria in der Au",
+                  "text": "Régészeti lelőhely Bozenben, amely egy középkori kolostor maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        11.326192,
+                        46.486257
+                  ]
+            },
+            {
+                  "name": "BZ '18-'45",
+                  "text": "A Győzelmi Emlékműben található dokumentációs kiállítás, amely Bozen újkori történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.344872,
+                        46.500493
+                  ]
+            },
+            {
+                  "name": "Turbina Francis Turbine (1925 Marlengo - Marling)",
+                  "text": "Ipari műemlék Bozenben, amely egy 1925-ben készült történelmi Francis-turbinát mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        11.338803,
+                        46.477988
+                  ]
+            },
+            {
+                  "name": "Fontana di re Laurino - Laurinbrunnen",
+                  "text": "Művészi kút Bozenben, amely a legendás Laurin király alakját ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        11.357757,
+                        46.497561
+                  ]
+            },
+            {
+                  "name": "ar/ge kunst",
+                  "text": "A bolzanói ar/ge kunst izgalmas platformként szolgál a kortárs művészeti kiállítások számára. A művészet iránt érdeklődők ebben a múzeumban különböző tudományágak modern művészeinek változó alkotásait tekinthetik meg.",
+                  "category": "museum",
+                  "coords": [
+                        11.350688,
+                        46.499759
+                  ]
+            },
+            {
+                  "name": "Grieser Platz",
+                  "text": "Bozen Gries negyedének központi tere, amely enyhe klímájáról és történelmi villáiról ismert.",
+                  "category": "park",
+                  "coords": [
+                        11.335408,
+                        46.502311
+                  ]
+            },
+            {
+                  "name": "Ehemalige Kirche St. Oswald - Ex chiesa S. Osvaldo",
+                  "text": "Egy egykori templom romjai Bolzanóban, amelyek a második világháborús pusztítás után maradtak fenn.",
+                  "category": "historical",
+                  "coords": [
+                        11.35943,
+                        46.503915
+                  ]
+            },
+            {
+                  "name": "Corpus Domini",
+                  "text": "Vallási kegyhely Bolzanóban, amelyet az Úrnapja tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        11.320945,
+                        46.491011
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Rainerum",
+                  "text": "Un teatru modern din Bolzano, utilizat pentru diverse spectacole culturale și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        11.351554,
+                        46.4969
+                  ]
+            },
+            {
+                  "name": "Museo Mercantile - Merkantilmuseum",
+                  "text": "Muzeul din fosta clădire a Magistratului Mercantil prezintă istoria comercială a orașului Bolzano.",
+                  "category": "museum",
+                  "coords": [
+                        11.354186,
+                        46.499468
+                  ]
+            },
+            {
+                  "name": "Tesoro del Duomo di Bolzano - Domschatzkammer Bozen",
+                  "text": "Tezaurul catedralei adăpostește o colecție importantă de obiecte de artă sacră și piese de aurărie barocă.",
+                  "category": "museum",
+                  "coords": [
+                        11.354544,
+                        46.49744
+                  ]
+            },
+            {
+                  "name": "Museo Scienze Naturali - Naturmuseum",
+                  "text": "Muzeul situat în fosta clădire administrativă a provinciei este dedicat istoriei naturale a Tirolului de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        11.357096,
+                        46.501118
+                  ]
+            },
+            {
+                  "name": "Ruine Weineck - Rovine Castel Weinegg",
+                  "text": "Ruinele castelului Weineck, construit în secolul al XII-lea, sunt situate pe o colină deasupra cartierului Haslach.",
+                  "category": "castle",
+                  "coords": [
+                        11.349534,
+                        46.490216
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale - Stadttheater",
+                  "text": "Teatrul finalizat în 1999 după planurile lui Marco Zanuso este cea mai importantă scenă a capitalei provinciale.",
+                  "category": "cultural",
+                  "coords": [
+                        11.353832,
+                        46.495603
+                  ]
+            },
+            {
+                  "name": "Municipal Museum - Stadtmuseum",
+                  "text": "Muzeul Civic din Bolzano prezintă descoperiri arheologice și o vastă colecție de istorie a artei din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        11.349031,
+                        46.499801
+                  ]
+            },
+            {
+                  "name": "Castel Sant'Antonio - Schloss Klebenstein",
+                  "text": "Complexul castelului situat la intrarea în valea Sarntal constă dintr-un turn de locuit medieval și anexe baroce.",
+                  "category": "castle",
+                  "coords": [
+                        11.352347,
+                        46.511683
+                  ]
+            },
+            {
+                  "name": "Compil",
+                  "text": "Reședința Campill este un sediu nobiliar fortificat din secolul al XVI-lea în partea de est a orașului Bolzano.",
+                  "category": "castle",
+                  "coords": [
+                        11.352566,
+                        46.50927
+                  ]
+            },
+            {
+                  "name": "Schloss Ried - Castel Novale",
+                  "text": "Fortăreața bine conservată de la intrarea în valea Sarntal este cunoscută în special pentru picturile sale murale gotice valoroase.",
+                  "category": "castle",
+                  "coords": [
+                        11.361299,
+                        46.520551
+                  ]
+            },
+            {
+                  "name": "Castel Campegno - Burg Kampenn",
+                  "text": "Castelul Campegno, situat pe o stâncă, păzește accesul estic către orașul Bolzano.",
+                  "category": "castle",
+                  "coords": [
+                        11.390202,
+                        46.487234
+                  ]
+            },
+            {
+                  "name": "Castel Flavon - Haselburg",
+                  "text": "Castelul medieval Flavon oferă o vedere panoramică asupra văii Etsch și găzduiește astăzi unități gastronomice.",
+                  "category": "castle",
+                  "coords": [
+                        11.343522,
+                        46.476888
+                  ]
+            },
+            {
+                  "name": "Castel Hörtenberg - Ansitz Hörtenberg",
+                  "text": "O reședință istorică renascentistă din Bolzano, care funcționează astăzi ca un hotel exclusivist.",
+                  "category": "castle",
+                  "coords": [
+                        11.360975,
+                        46.502201
+                  ]
+            },
+            {
+                  "name": "Castel Roncolo - Schloss Runkelstein",
+                  "text": "Acest castel medieval este cunoscut pentru ciclurile sale vaste de fresce profane din epoca medievală.",
+                  "category": "castle",
+                  "coords": [
+                        11.35889,
+                        46.517531
+                  ]
+            },
+            {
+                  "name": "Schloss Maretsch - Castel Mareccio",
+                  "text": "Un castel înconjurat de podgorii, situat lângă centrul orașului, folosit astăzi ca centru de evenimente.",
+                  "category": "castle",
+                  "coords": [
+                        11.350473,
+                        46.503454
+                  ]
+            },
+            {
+                  "name": "Torre Druso - Gscheibter Turm",
+                  "text": "Ruina unui turn rotund proeminent din Bolzano, care a aparținut odinioară unui castel.",
+                  "category": "castle",
+                  "coords": [
+                        11.346598,
+                        46.511436
+                  ]
+            },
+            {
+                  "name": "Maria in Augia - Maria in der Au",
+                  "text": "Un sit arheologic din Bolzano care prezintă vestigiile unei mănăstiri medievale.",
+                  "category": "historical",
+                  "coords": [
+                        11.326192,
+                        46.486257
+                  ]
+            },
+            {
+                  "name": "BZ '18-'45",
+                  "text": "O expoziție documentară situată în Monumentul Victoriei, care abordează istoria contemporană a orașului Bolzano.",
+                  "category": "museum",
+                  "coords": [
+                        11.344872,
+                        46.500493
+                  ]
+            },
+            {
+                  "name": "Turbina Francis Turbine (1925 Marlengo - Marling)",
+                  "text": "Un monument tehnic din Bolzano care expune o turbină Francis istorică din anul 1925.",
+                  "category": "museum",
+                  "coords": [
+                        11.338803,
+                        46.477988
+                  ]
+            },
+            {
+                  "name": "Fontana di re Laurino - Laurinbrunnen",
+                  "text": "O fântână artistică din Bolzano care îl reprezintă pe legendarul rege Laurin.",
+                  "category": "historical",
+                  "coords": [
+                        11.357757,
+                        46.497561
+                  ]
+            },
+            {
+                  "name": "ar/ge kunst",
+                  "text": "Muzeul ar/ge kunst din Bolzano servește drept o platformă captivantă pentru expozițiile de artă contemporană. Pasionații de artă pot admira în acest spațiu opere mereu schimbătoare ale artiștilor moderni din diferite discipline.",
+                  "category": "museum",
+                  "coords": [
+                        11.350688,
+                        46.499759
+                  ]
+            },
+            {
+                  "name": "Grieser Platz",
+                  "text": "Piața centrală a cartierului Gries din Bolzano, renumită pentru climatul blând și vilele istorice.",
+                  "category": "park",
+                  "coords": [
+                        11.335408,
+                        46.502311
+                  ]
+            },
+            {
+                  "name": "Ehemalige Kirche St. Oswald - Ex chiesa S. Osvaldo",
+                  "text": "Ruinele pitorești ale unei foste biserici din Bolzano, care servesc astăzi ca monument istoric.",
+                  "category": "historical",
+                  "coords": [
+                        11.35943,
+                        46.503915
+                  ]
+            },
+            {
+                  "name": "Corpus Domini",
+                  "text": "Un lăcaș de cult religios din Bolzano, dedicat venerării Trupului Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        11.320945,
+                        46.491011
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Rainerum",
+                  "text": "A modern theater in Bolzano used for various cultural performances and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        11.351554,
+                        46.4969
+                  ]
+            },
+            {
+                  "name": "Museo Mercantile - Merkantilmuseum",
+                  "text": "The museum in the former Mercantile Magistrate building displays the commercial history of Bolzano.",
+                  "category": "museum",
+                  "coords": [
+                        11.354186,
+                        46.499468
+                  ]
+            },
+            {
+                  "name": "Tesoro del Duomo di Bolzano - Domschatzkammer Bozen",
+                  "text": "The cathedral treasury houses a significant collection of sacred art and Baroque goldsmith works.",
+                  "category": "museum",
+                  "coords": [
+                        11.354544,
+                        46.49744
+                  ]
+            },
+            {
+                  "name": "Museo Scienze Naturali - Naturmuseum",
+                  "text": "The museum in the former provincial administrative building is dedicated to the natural history of South Tyrol.",
+                  "category": "museum",
+                  "coords": [
+                        11.357096,
+                        46.501118
+                  ]
+            },
+            {
+                  "name": "Ruine Weineck - Rovine Castel Weinegg",
+                  "text": "The ruins of Weineck Castle, built in the 12th century, are located on a hill above the Haslach district.",
+                  "category": "castle",
+                  "coords": [
+                        11.349534,
+                        46.490216
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale - Stadttheater",
+                  "text": "Completed in 1999 according to plans by Marco Zanuso, the theatre is the provincial capital's most important stage.",
+                  "category": "cultural",
+                  "coords": [
+                        11.353832,
+                        46.495603
+                  ]
+            },
+            {
+                  "name": "Municipal Museum",
+                  "text": "The Municipal Museum of Bolzano displays archaeological finds and an extensive art history collection of the region.",
+                  "category": "museum",
+                  "coords": [
+                        11.349031,
+                        46.499801
+                  ]
+            },
+            {
+                  "name": "Castel Sant'Antonio - Schloss Klebenstein",
+                  "text": "The castle complex at the entrance to the Sarntal valley consists of a medieval residential tower and Baroque additions.",
+                  "category": "castle",
+                  "coords": [
+                        11.352347,
+                        46.511683
+                  ]
+            },
+            {
+                  "name": "Compil",
+                  "text": "The campill manor is a fortified noble residence from the 16th century in the eastern part of Bolzano.",
+                  "category": "castle",
+                  "coords": [
+                        11.352566,
+                        46.50927
+                  ]
+            },
+            {
+                  "name": "Schloss Ried - Castel Novale",
+                  "text": "The well-preserved castle complex at the entrance of the Sarntal valley is primarily known for its valuable Gothic frescoes.",
+                  "category": "castle",
+                  "coords": [
+                        11.361299,
+                        46.520551
+                  ]
+            },
+            {
+                  "name": "Castel Campegno - Burg Kampenn",
+                  "text": "Perched on a rock, Campegno Castle guards the eastern approach to the city of Bolzano.",
+                  "category": "castle",
+                  "coords": [
+                        11.390202,
+                        46.487234
+                  ]
+            },
+            {
+                  "name": "Castel Flavon - Haselburg",
+                  "text": "The medieval Flavon Castle offers a wide view over the Etsch valley and now houses gastronomic facilities.",
+                  "category": "castle",
+                  "coords": [
+                        11.343522,
+                        46.476888
+                  ]
+            },
+            {
+                  "name": "Castel Hörtenberg - Ansitz Hörtenberg",
+                  "text": "A historic Renaissance manor in Bolzano, now serving as an exclusive hotel.",
+                  "category": "castle",
+                  "coords": [
+                        11.360975,
+                        46.502201
+                  ]
+            },
+            {
+                  "name": "Castel Roncolo - Schloss Runkelstein",
+                  "text": "This medieval castle is known for its extensive cycles of secular frescoes dating back to the Middle Ages.",
+                  "category": "castle",
+                  "coords": [
+                        11.35889,
+                        46.517531
+                  ]
+            },
+            {
+                  "name": "Schloss Maretsch - Castel Mareccio",
+                  "text": "A castle surrounded by vineyards near the city center, currently used as an event center.",
+                  "category": "castle",
+                  "coords": [
+                        11.350473,
+                        46.503454
+                  ]
+            },
+            {
+                  "name": "Torre Druso - Gscheibter Turm",
+                  "text": "The ruin of a prominent circular tower in Bolzano, which once belonged to a castle complex.",
+                  "category": "castle",
+                  "coords": [
+                        11.346598,
+                        46.511436
+                  ]
+            },
+            {
+                  "name": "Maria in Augia - Maria in der Au",
+                  "text": "An archaeological site in Bolzano displaying the remains of a medieval monastery.",
+                  "category": "historical",
+                  "coords": [
+                        11.326192,
+                        46.486257
+                  ]
+            },
+            {
+                  "name": "BZ '18-'45",
+                  "text": "A documentation exhibition located in the Victory Monument, covering the contemporary history of Bolzano.",
+                  "category": "museum",
+                  "coords": [
+                        11.344872,
+                        46.500493
+                  ]
+            },
+            {
+                  "name": "Turbina Francis Turbine (1925 Marlengo - Marling)",
+                  "text": "An industrial monument in Bolzano displaying a historic Francis turbine from 1925.",
+                  "category": "museum",
+                  "coords": [
+                        11.338803,
+                        46.477988
+                  ]
+            },
+            {
+                  "name": "Fontana di re Laurino - Laurinbrunnen",
+                  "text": "An artistic fountain in Bolzano depicting the legendary King Laurin.",
+                  "category": "historical",
+                  "coords": [
+                        11.357757,
+                        46.497561
+                  ]
+            },
+            {
+                  "name": "ar/ge kunst",
+                  "text": "The ar/ge kunst museum in Bolzano functions as an exciting platform for contemporary art exhibitions. Art enthusiasts can view changing works by modern artists from various disciplines in this Italian gallery.",
+                  "category": "museum",
+                  "coords": [
+                        11.350688,
+                        46.499759
+                  ]
+            },
+            {
+                  "name": "Grieser Platz",
+                  "text": "The central square of Bolzano's Gries district, known for its mild climate and historic villas.",
+                  "category": "park",
+                  "coords": [
+                        11.335408,
+                        46.502311
+                  ]
+            },
+            {
+                  "name": "Ehemalige Kirche St. Oswald - Ex chiesa S. Osvaldo",
+                  "text": "The ruins of a former church in Bolzano, preserved as a historical landmark after its destruction in World War II.",
+                  "category": "historical",
+                  "coords": [
+                        11.35943,
+                        46.503915
+                  ]
+            },
+            {
+                  "name": "Corpus Domini",
+                  "text": "A religious place of worship in Bolzano dedicated to the Corpus Domini.",
+                  "category": "religious",
+                  "coords": [
+                        11.320945,
+                        46.491011
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT",
     name: { de: "Bozen", hu: "Bolzano", ro: "Bolzano", en: "Bolzano" },
@@ -7287,30 +8007,12 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Riparo Gaban",
-                  "text": "Prähistorische archäologische Fundstätte unter einem Felsdach, die Zeugnisse von der Mittelsteinzeit bis zur Bronzezeit liefert.",
-                  "category": "historical",
-                  "coords": [
-                        11.124325,
-                        46.093145
-                  ]
-            },
-            {
                   "name": "Museo del Castello del Buonconsiglio",
                   "text": "In der Burg Buonconsiglio untergebrachtes Museum mit umfangreichen Sammlungen zur regionalen Kunst und Archäologie.",
                   "category": "museum",
                   "coords": [
                         11.126484,
                         46.07142
-                  ]
-            },
-            {
-                  "name": "Palazzo delle Albere",
-                  "text": "Befestigte Renaissance-Villa der Familie Madruzzo aus dem 16. Jahrhundert, am Rande der Stadt gelegen.",
-                  "category": "museum",
-                  "coords": [
-                        11.113768,
-                        46.063167
                   ]
             },
             {
@@ -7532,30 +8234,12 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Riparo Gaban",
-                  "text": "Prehisztorikus régészeti lelőhely egy sziklaeresz alatt, amely a mezolitikumtól a bronzkorig terjedő leleteket őriz.",
-                  "category": "historical",
-                  "coords": [
-                        11.124325,
-                        46.093145
-                  ]
-            },
-            {
                   "name": "Museo del Castello del Buonconsiglio",
                   "text": "A Buonconsiglio-várban működő múzeum, amely a régió művészeti és régészeti emlékeit mutatja be.",
                   "category": "museum",
                   "coords": [
                         11.126484,
                         46.07142
-                  ]
-            },
-            {
-                  "name": "Palazzo delle Albere",
-                  "text": "A Madruzzo család 16. századi reneszánsz erődített palotája, amely a város szélén található.",
-                  "category": "museum",
-                  "coords": [
-                        11.113768,
-                        46.063167
                   ]
             },
             {
@@ -7777,30 +8461,12 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Riparo Gaban",
-                  "text": "Sit arheologic preistoric situat sub un adăpost de stâncă, oferind dovezi din mezolitic până în epoca bronzului.",
-                  "category": "historical",
-                  "coords": [
-                        11.124325,
-                        46.093145
-                  ]
-            },
-            {
                   "name": "Museo del Castello del Buonconsiglio",
                   "text": "Muzeu găzduit în Castelul Buonconsiglio, prezentând colecții vaste de artă și arheologie regională.",
                   "category": "museum",
                   "coords": [
                         11.126484,
                         46.07142
-                  ]
-            },
-            {
-                  "name": "Palazzo delle Albere",
-                  "text": "Vilă renascentistă fortificată a familiei Madruzzo din secolul al XVI-lea, situată la marginea orașului.",
-                  "category": "museum",
-                  "coords": [
-                        11.113768,
-                        46.063167
                   ]
             },
             {
@@ -8022,30 +8688,12 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Riparo Gaban",
-                  "text": "Prehistoric archaeological site under a rock shelter, preserving remains from the Mesolithic to the Bronze Age.",
-                  "category": "historical",
-                  "coords": [
-                        11.124325,
-                        46.093145
-                  ]
-            },
-            {
                   "name": "Museo del Castello del Buonconsiglio",
                   "text": "Museum located inside the Buonconsiglio Castle, featuring extensive collections of regional art and archaeology.",
                   "category": "museum",
                   "coords": [
                         11.126484,
                         46.07142
-                  ]
-            },
-            {
-                  "name": "Palazzo delle Albere",
-                  "text": "16th-century fortified Renaissance villa of the Madruzzo family, located on the outskirts of the city.",
-                  "category": "museum",
-                  "coords": [
-                        11.113768,
-                        46.063167
                   ]
             },
             {
@@ -8286,15 +8934,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palazzo Schifanoia",
-                  "text": "Ein ehemaliger Palast der Familie Este, weltberühmt für seine Renaissance-Fresken im Saal der Monate.",
-                  "category": "museum",
-                  "coords": [
-                        11.629169,
-                        44.830473
-                  ]
-            },
-            {
                   "name": "Museo di Casa Romei",
                   "text": "Dieses spätgotische Wohnhaus aus dem 15. Jahrhundert beherbergt heute ein Museum für antike Kunst.",
                   "category": "museum",
@@ -8502,15 +9141,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Basilica di San Giorgio fuori le mura",
-                  "text": "Die ursprüngliche Kathedrale von Ferrara, die sich außerhalb der Stadtmauern am Ufer des Po di Volano befindet.",
-                  "category": "religious",
-                  "coords": [
-                        11.628069,
-                        44.821734
-                  ]
-            },
-            {
                   "name": "Basilica di Santa Maria in Vado",
                   "text": "Eine historische Kirche in Ferrara, die für ein eucharistisches Wunder im Jahr 1171 bekannt ist.",
                   "category": "religious",
@@ -8564,15 +9194,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         11.620953,
                         44.842334
-                  ]
-            },
-            {
-                  "name": "Palazzo Schifanoia",
-                  "text": "Az Este-család egykori palotája, amely a Hónapok termének reneszánsz freskóiról világhírű.",
-                  "category": "museum",
-                  "coords": [
-                        11.629169,
-                        44.830473
                   ]
             },
             {
@@ -8783,15 +9404,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Basilica di San Giorgio fuori le mura",
-                  "text": "Ferrara eredeti székesegyháza, amely a városfalakon kívül, a Po di Volano partján található.",
-                  "category": "religious",
-                  "coords": [
-                        11.628069,
-                        44.821734
-                  ]
-            },
-            {
                   "name": "Basilica di Santa Maria in Vado",
                   "text": "Történelmi templom Ferrarában, amely egy 1171-ben történt eucharisztikus csodáról nevezetes.",
                   "category": "religious",
@@ -8845,15 +9457,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         11.620953,
                         44.842334
-                  ]
-            },
-            {
-                  "name": "Palazzo Schifanoia",
-                  "text": "Un fost palat al familiei Este, faimos pentru frescele sale renascentiste din Sala Lunilor.",
-                  "category": "museum",
-                  "coords": [
-                        11.629169,
-                        44.830473
                   ]
             },
             {
@@ -9064,15 +9667,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Basilica di San Giorgio fuori le mura",
-                  "text": "Catedrala originală a orașului Ferrara, situată în afara zidurilor cetății, pe malul brațului Po di Volano.",
-                  "category": "religious",
-                  "coords": [
-                        11.628069,
-                        44.821734
-                  ]
-            },
-            {
                   "name": "Basilica di Santa Maria in Vado",
                   "text": "O biserică istorică din Ferrara, renumită pentru un miracol euharistic petrecut în anul 1171.",
                   "category": "religious",
@@ -9126,15 +9720,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         11.620953,
                         44.842334
-                  ]
-            },
-            {
-                  "name": "Palazzo Schifanoia",
-                  "text": "A former palace of the Este family, world-famous for its Renaissance frescoes in the Hall of the Months.",
-                  "category": "museum",
-                  "coords": [
-                        11.629169,
-                        44.830473
                   ]
             },
             {
@@ -9342,15 +9927,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         11.62506,
                         44.834133
-                  ]
-            },
-            {
-                  "name": "Basilica di San Giorgio fuori le mura",
-                  "text": "The original cathedral of Ferrara, located outside the city walls on the banks of the Po di Volano.",
-                  "category": "religious",
-                  "coords": [
-                        11.628069,
-                        44.821734
                   ]
             },
             {
@@ -11625,66 +12201,12 @@ export const italyCitiesV2: POI[] = [
     id: "italy-ancona-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Museo Tattile Statale Omero",
-                  "text": "Ein Tastmuseum in Ancona, in dem Kunst durch Berührung erlebbar ist.",
-                  "category": "museum",
-                  "coords": [
-                        13.5037,
-                        43.613977
-                  ]
-            },
-            {
-                  "name": "Pinacoteca civica \"Francesco Podesti\"",
-                  "text": "Die städtische Pinakothek von Ancona mit regionalen Kunstschätzen.",
-                  "category": "museum",
-                  "coords": [
-                        13.511058,
-                        43.620882
-                  ]
-            },
-            {
                   "name": "Teatro Sperimentale \"Lirio Arena\"",
                   "text": "Ein Theater für experimentelle Kunst und Aufführungen in Ancona.",
                   "category": "cultural",
                   "coords": [
                         13.515407,
                         43.613519
-                  ]
-            },
-            {
-                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
-                  "text": "Ein Museumsraum in Ancona, der der Geschichte der Funktechnik gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        13.509091,
-                        43.618211
-                  ]
-            },
-            {
-                  "name": "Museo archeologico nazionale delle Marche",
-                  "text": "Archäologisches Museum in einem Palazzo aus dem 16. Jahrhundert, mit prähistorischen Funden aus den Marken.",
-                  "category": "museum",
-                  "coords": [
-                        13.510747,
-                        43.623406
-                  ]
-            },
-            {
-                  "name": "Forte Scrima",
-                  "text": "Eine historische Festungsanlage, die Teil der Verteidigung von Ancona war.",
-                  "category": "fortress",
-                  "coords": [
-                        13.496975,
-                        43.603807
-                  ]
-            },
-            {
-                  "name": "Cittadella",
-                  "text": "Fünfeckige Festung aus dem 16. Jahrhundert auf dem Colle Guasco.",
-                  "category": "castle",
-                  "coords": [
-                        13.508794,
-                        43.613369
                   ]
             },
             {
@@ -11726,66 +12248,12 @@ export const italyCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Museo Tattile Statale Omero",
-                  "text": "Tapintható múzeum Anconában, ahol a művészet érintéssel is élvezhető.",
-                  "category": "museum",
-                  "coords": [
-                        13.5037,
-                        43.613977
-                  ]
-            },
-            {
-                  "name": "Pinacoteca civica \"Francesco Podesti\"",
-                  "text": "Ancona városi képtára regionális művészeti kincsekkel.",
-                  "category": "museum",
-                  "coords": [
-                        13.511058,
-                        43.620882
-                  ]
-            },
-            {
                   "name": "Teatro Sperimentale \"Lirio Arena\"",
                   "text": "Kísérleti művészeti színház és előadóhely Anconában.",
                   "category": "cultural",
                   "coords": [
                         13.515407,
                         43.613519
-                  ]
-            },
-            {
-                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
-                  "text": "A rádiótechnika történetének szentelt múzeumi terem Anconában.",
-                  "category": "museum",
-                  "coords": [
-                        13.509091,
-                        43.618211
-                  ]
-            },
-            {
-                  "name": "Museo archeologico nazionale delle Marche",
-                  "text": "Régészeti múzeum egy 16. századi palotában, a Marche régió őskori leleteivel.",
-                  "category": "museum",
-                  "coords": [
-                        13.510747,
-                        43.623406
-                  ]
-            },
-            {
-                  "name": "Forte Scrima",
-                  "text": "Történelmi erődítmény, amely Ancona védelmi rendszerének része volt.",
-                  "category": "fortress",
-                  "coords": [
-                        13.496975,
-                        43.603807
-                  ]
-            },
-            {
-                  "name": "Cittadella",
-                  "text": "Ötszögletű erőd a 16. századból a Colle Guasco-n.",
-                  "category": "castle",
-                  "coords": [
-                        13.508794,
-                        43.613369
                   ]
             },
             {
@@ -11827,66 +12295,12 @@ export const italyCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Museo Tattile Statale Omero",
-                  "text": "Un muzeu tactil în Ancona, unde arta poate fi experimentată prin atingere.",
-                  "category": "museum",
-                  "coords": [
-                        13.5037,
-                        43.613977
-                  ]
-            },
-            {
-                  "name": "Pinacoteca civica \"Francesco Podesti\"",
-                  "text": "Pinacoteca civică din Ancona, care găzduiește comori artistice regionale.",
-                  "category": "museum",
-                  "coords": [
-                        13.511058,
-                        43.620882
-                  ]
-            },
-            {
                   "name": "Teatro Sperimentale \"Lirio Arena\"",
                   "text": "Un teatru pentru artă experimentală și spectacole în Ancona.",
                   "category": "cultural",
                   "coords": [
                         13.515407,
                         43.613519
-                  ]
-            },
-            {
-                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
-                  "text": "O sală de muzeu în Ancona dedicată istoriei radiotehnicii.",
-                  "category": "museum",
-                  "coords": [
-                        13.509091,
-                        43.618211
-                  ]
-            },
-            {
-                  "name": "Museo archeologico nazionale delle Marche",
-                  "text": "Muzeu arheologic într-un palat din secolul al XVI-lea, cu artefacte preistorice din Marche.",
-                  "category": "museum",
-                  "coords": [
-                        13.510747,
-                        43.623406
-                  ]
-            },
-            {
-                  "name": "Forte Scrima",
-                  "text": "O fortificație istorică ce a făcut parte din sistemul de apărare al Anconei.",
-                  "category": "fortress",
-                  "coords": [
-                        13.496975,
-                        43.603807
-                  ]
-            },
-            {
-                  "name": "Cittadella",
-                  "text": "Fortăreață pentagonală din secolul al XVI-lea pe Colle Guasco.",
-                  "category": "castle",
-                  "coords": [
-                        13.508794,
-                        43.613369
                   ]
             },
             {
@@ -11928,66 +12342,12 @@ export const italyCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Museo Tattile Statale Omero",
-                  "text": "A tactile museum in Ancona where art can be experienced through touch.",
-                  "category": "museum",
-                  "coords": [
-                        13.5037,
-                        43.613977
-                  ]
-            },
-            {
-                  "name": "Pinacoteca civica \"Francesco Podesti\"",
-                  "text": "The civic art gallery of Ancona featuring regional artistic treasures.",
-                  "category": "museum",
-                  "coords": [
-                        13.511058,
-                        43.620882
-                  ]
-            },
-            {
                   "name": "Teatro Sperimentale \"Lirio Arena\"",
                   "text": "A theatre for experimental art and performances in Ancona.",
                   "category": "cultural",
                   "coords": [
                         13.515407,
                         43.613519
-                  ]
-            },
-            {
-                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
-                  "text": "A museum room in Ancona dedicated to the history of radio technology.",
-                  "category": "museum",
-                  "coords": [
-                        13.509091,
-                        43.618211
-                  ]
-            },
-            {
-                  "name": "Museo archeologico nazionale delle Marche",
-                  "text": "Archaeological museum in a 16th-century palazzo, with prehistoric artifacts from the Marche region.",
-                  "category": "museum",
-                  "coords": [
-                        13.510747,
-                        43.623406
-                  ]
-            },
-            {
-                  "name": "Forte Scrima",
-                  "text": "A historic fortification that was part of the defense system of Ancona.",
-                  "category": "fortress",
-                  "coords": [
-                        13.496975,
-                        43.603807
-                  ]
-            },
-            {
-                  "name": "Cittadella",
-                  "text": "Pentagonal fortress from the 16th century on Colle Guasco.",
-                  "category": "castle",
-                  "coords": [
-                        13.508794,
-                        43.613369
                   ]
             },
             {
@@ -15036,39 +15396,12 @@ export const italyCitiesV2: POI[] = [
     id: "italy-lucca-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Museo-casa natale di Giacomo Puccini",
-                  "text": "Das Geburtshaus des Komponisten Giacomo Puccini in Lucca ist heute ein Museum über sein Leben und Werk.",
-                  "category": "museum",
-                  "coords": [
-                        10.501554,
-                        43.843298
-                  ]
-            },
-            {
                   "name": "Museo Paolo Cresci per la storia dell’emigrazione italiana",
                   "text": "Das Museum dokumentiert die Geschichte der italienischen Auswanderung anhand von Fotos und Dokumenten.",
                   "category": "museum",
                   "coords": [
                         10.501338,
                         43.841819
-                  ]
-            },
-            {
-                  "name": "Domus Romana Lucca",
-                  "text": "In diesem Museum können Besucher die archäologischen Überreste eines antiken römischen Wohnhauses besichtigen.",
-                  "category": "museum",
-                  "coords": [
-                        10.503053,
-                        43.844994
-                  ]
-            },
-            {
-                  "name": "Via Francigena Entry Point - Museum La Casa del Boia",
-                  "text": "Das Museum im ehemaligen Henkerhaus informiert über die Via Francigena, einen bedeutenden Pilgerweg.",
-                  "category": "museum",
-                  "coords": [
-                        10.514111,
-                        43.845788
                   ]
             },
             {
@@ -15105,15 +15438,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.499285,
                         43.841143
-                  ]
-            },
-            {
-                  "name": "Museo Nazionale di Palazzo Mansi",
-                  "text": "Ein Kunstmuseum in einem barocken Adelspalast, bekannt für seine prächtigen Säle und Textilien.",
-                  "category": "museum",
-                  "coords": [
-                        10.499052,
-                        43.843639
                   ]
             },
             {
@@ -15236,39 +15560,12 @@ export const italyCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Museo-casa natale di Giacomo Puccini",
-                  "text": "Giacomo Puccini zeneszerző szülőháza Luccában ma múzeum, amely bemutatja életét és operáit.",
-                  "category": "museum",
-                  "coords": [
-                        10.501554,
-                        43.843298
-                  ]
-            },
-            {
                   "name": "Museo Paolo Cresci per la storia dell’emigrazione italiana",
                   "text": "A múzeum az olasz kivándorlás történetét dokumentálja fényképeken és korabeli iratokon keresztül.",
                   "category": "museum",
                   "coords": [
                         10.501338,
                         43.841819
-                  ]
-            },
-            {
-                  "name": "Domus Romana Lucca",
-                  "text": "Ebben a múzeumban a látogatók egy ókori római lakóház régészeti maradványait tekinthetik meg.",
-                  "category": "museum",
-                  "coords": [
-                        10.503053,
-                        43.844994
-                  ]
-            },
-            {
-                  "name": "Via Francigena Entry Point - Museum La Casa del Boia",
-                  "text": "Az egykori hóhérházban kialakított múzeum a Via Francigena középkori zarándokútvonal történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        10.514111,
-                        43.845788
                   ]
             },
             {
@@ -15305,15 +15602,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.499285,
                         43.841143
-                  ]
-            },
-            {
-                  "name": "Museo Nazionale di Palazzo Mansi",
-                  "text": "Művészeti múzeum egy barokk nemesi palotában, amely pazar termeiről és kárpitjairól híres.",
-                  "category": "museum",
-                  "coords": [
-                        10.499052,
-                        43.843639
                   ]
             },
             {
@@ -15436,39 +15724,12 @@ export const italyCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Museo-casa natale di Giacomo Puccini",
-                  "text": "Casa natală a compozitorului Giacomo Puccini din Lucca este astăzi un muzeu dedicat vieții și operei sale.",
-                  "category": "museum",
-                  "coords": [
-                        10.501554,
-                        43.843298
-                  ]
-            },
-            {
                   "name": "Museo Paolo Cresci per la storia dell’emigrazione italiana",
                   "text": "Muzeul documentează istoria emigrației italiene prin intermediul fotografiilor și al documentelor de epocă.",
                   "category": "museum",
                   "coords": [
                         10.501338,
                         43.841819
-                  ]
-            },
-            {
-                  "name": "Domus Romana Lucca",
-                  "text": "În acest muzeu, vizitatorii pot vedea rămășițele arheologice ale unei case romane antice descoperite în Lucca.",
-                  "category": "museum",
-                  "coords": [
-                        10.503053,
-                        43.844994
-                  ]
-            },
-            {
-                  "name": "Via Francigena Entry Point - Museum La Casa del Boia",
-                  "text": "Muzeul din fosta Casă a Călăului oferă informații despre Via Francigena, un important traseu de pelerinaj.",
-                  "category": "museum",
-                  "coords": [
-                        10.514111,
-                        43.845788
                   ]
             },
             {
@@ -15505,15 +15766,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.499285,
                         43.841143
-                  ]
-            },
-            {
-                  "name": "Museo Nazionale di Palazzo Mansi",
-                  "text": "Un muzeu de artă într-un palat baroc, faimos pentru interioarele somptuoase și tapițerii.",
-                  "category": "museum",
-                  "coords": [
-                        10.499052,
-                        43.843639
                   ]
             },
             {
@@ -15636,15 +15888,6 @@ export const italyCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Museo-casa natale di Giacomo Puccini",
-                  "text": "The birthplace of composer Giacomo Puccini in Lucca is now a museum dedicated to his life and work.",
-                  "category": "museum",
-                  "coords": [
-                        10.501554,
-                        43.843298
-                  ]
-            },
-            {
                   "name": "Museo Paolo Cresci per la storia dell’emigrazione italiana",
                   "text": "The museum documents the history of Italian emigration through photographs and historical records.",
                   "category": "museum",
@@ -15654,39 +15897,12 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Domus Romana Lucca",
-                  "text": "In this museum, visitors can see the archaeological remains of an ancient Roman house discovered in Lucca.",
-                  "category": "museum",
-                  "coords": [
-                        10.503053,
-                        43.844994
-                  ]
-            },
-            {
-                  "name": "Via Francigena Entry Point - Museum La Casa del Boia",
-                  "text": "The museum in the former executioner's house provides information about the Via Francigena pilgrimage route.",
-                  "category": "museum",
-                  "coords": [
-                        10.514111,
-                        43.845788
-                  ]
-            },
-            {
                   "name": "MUST - Museo della Città di Lucca - Memoria Urbana Storia Territorio",
                   "text": "A city museum dedicated to the urban history and cultural memory of Lucca.",
                   "category": "museum",
                   "coords": [
                         10.507448,
                         43.84354
-                  ]
-            },
-            {
-                  "name": "Mint Museum",
-                  "text": "A museum showcasing the centuries-old tradition of coin minting in the city of Lucca.",
-                  "category": "museum",
-                  "coords": [
-                        10.495799,
-                        43.84286
                   ]
             },
             {
@@ -15705,15 +15921,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.499285,
                         43.841143
-                  ]
-            },
-            {
-                  "name": "Museo Nazionale di Palazzo Mansi",
-                  "text": "An art museum in a Baroque palace, famous for its lavish interiors and historic textiles.",
-                  "category": "museum",
-                  "coords": [
-                        10.499052,
-                        43.843639
                   ]
             },
             {
@@ -16042,33 +16249,6 @@ export const italyCitiesV2: POI[] = [
                         10.300669,
                         43.540863
                   ]
-            },
-            {
-                  "name": "Single fin",
-                  "text": "Surf-orientierter Strandclub Single Fin in Livorno.",
-                  "category": "recreational",
-                  "coords": [
-                        10.293735,
-                        43.590336
-                  ]
-            },
-            {
-                  "name": "Nirvana",
-                  "text": "Strandclub Nirvana mit entspannter Atmosphäre in Livorno (nahe Hafen).",
-                  "category": "recreational",
-                  "coords": [
-                        10.295666,
-                        43.588631
-                  ]
-            },
-            {
-                  "name": "La rondine",
-                  "text": "Strandbad La Rondine („die Schwalbe“) an der livornesischen Küste.",
-                  "category": "recreational",
-                  "coords": [
-                        10.296538,
-                        43.585794
-                  ]
             }
       ],
       "hu": [
@@ -16232,33 +16412,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.300669,
                         43.540863
-                  ]
-            },
-            {
-                  "name": "Single fin",
-                  "text": "Single Fin szörfös strandklub Livornóban.",
-                  "category": "recreational",
-                  "coords": [
-                        10.293735,
-                        43.590336
-                  ]
-            },
-            {
-                  "name": "Nirvana",
-                  "text": "Nirvana strandklub nyugodt légkörrel Livornóban, a kikötő közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        10.295666,
-                        43.588631
-                  ]
-            },
-            {
-                  "name": "La rondine",
-                  "text": "La Rondine („Fecske”) strandfürdő a livornói parton.",
-                  "category": "recreational",
-                  "coords": [
-                        10.296538,
-                        43.585794
                   ]
             }
       ],
@@ -16424,33 +16577,6 @@ export const italyCitiesV2: POI[] = [
                         10.300669,
                         43.540863
                   ]
-            },
-            {
-                  "name": "Single fin",
-                  "text": "Club de plajă cu tematică surf, Single Fin, în Livorno.",
-                  "category": "recreational",
-                  "coords": [
-                        10.293735,
-                        43.590336
-                  ]
-            },
-            {
-                  "name": "Nirvana",
-                  "text": "Clubul de plajă Nirvana, cu atmosferă relaxată lângă portul Livorno.",
-                  "category": "recreational",
-                  "coords": [
-                        10.295666,
-                        43.588631
-                  ]
-            },
-            {
-                  "name": "La rondine",
-                  "text": "Stațiunea de plajă La Rondine („Rândunica”) pe coasta Livornoului.",
-                  "category": "recreational",
-                  "coords": [
-                        10.296538,
-                        43.585794
-                  ]
             }
       ],
       "en": [
@@ -16614,33 +16740,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         10.300669,
                         43.540863
-                  ]
-            },
-            {
-                  "name": "Single fin",
-                  "text": "Surf-themed beach club Single Fin in Livorno.",
-                  "category": "recreational",
-                  "coords": [
-                        10.293735,
-                        43.590336
-                  ]
-            },
-            {
-                  "name": "Nirvana",
-                  "text": "Beach club Nirvana with a relaxed atmosphere near the port in Livorno.",
-                  "category": "recreational",
-                  "coords": [
-                        10.295666,
-                        43.588631
-                  ]
-            },
-            {
-                  "name": "La rondine",
-                  "text": "Beach club La Rondine ('The Swallow') on the Livorno coast.",
-                  "category": "recreational",
-                  "coords": [
-                        10.296538,
-                        43.585794
                   ]
             }
       ]
@@ -21525,42 +21624,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pinacoteca civica \"Francesco Podesti\"",
-                  "text": "Ein bedeutendes Kunstmuseum mit Werken aus der Region Marken.",
-                  "category": "museum",
-                  "coords": [
-                        13.511058,
-                        43.620882
-                  ]
-            },
-            {
-                  "name": "Teatro Sperimentale \"Lirio Arena\"",
-                  "text": "Ein modernes Theater und Kulturzentrum in der Mole Vanvitelliana.",
-                  "category": "cultural",
-                  "coords": [
-                        13.515407,
-                        43.613519
-                  ]
-            },
-            {
-                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
-                  "text": "Ein Museum in Ancona, das der Geschichte der Telekommunikation gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        13.509091,
-                        43.618211
-                  ]
-            },
-            {
-                  "name": "Museo archeologico nazionale delle Marche",
-                  "text": "Ein Museum in Ancona mit Funden von der Vorgeschichte bis zur Römerzeit.",
-                  "category": "museum",
-                  "coords": [
-                        13.510747,
-                        43.623406
-                  ]
-            },
-            {
                   "name": "Forte Scrima",
                   "text": "Eine historische Festungsanlage auf einem Hügel in Ancona.",
                   "category": "fortress",
@@ -21577,33 +21640,6 @@ export const italyCitiesV2: POI[] = [
                         13.508794,
                         43.613369
                   ]
-            },
-            {
-                  "name": "Lunetta di Santo Stefano",
-                  "text": "Ein Teil der historischen Verteidigungsanlagen von Ancona.",
-                  "category": "castle",
-                  "coords": [
-                        13.518028,
-                        43.612994
-                  ]
-            },
-            {
-                  "name": "Il Valentino",
-                  "text": "Ein Strandbad in der Nähe der historischen Mole Vanvitelliana in Ancona.",
-                  "category": "recreational",
-                  "coords": [
-                        13.533558,
-                        43.617171
-                  ]
-            },
-            {
-                  "name": "Piscina del Passetto",
-                  "text": "Ein Schwimmbad in der Nähe des Wahrzeichens Mole Vanvitelliana.",
-                  "category": "recreational",
-                  "coords": [
-                        13.536331,
-                        43.612201
-                  ]
             }
       ],
       "hu": [
@@ -21614,42 +21650,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.5037,
                         43.613977
-                  ]
-            },
-            {
-                  "name": "Pinacoteca civica \"Francesco Podesti\"",
-                  "text": "Jelentős művészeti múzeum Marche régióból származó alkotásokkal.",
-                  "category": "museum",
-                  "coords": [
-                        13.511058,
-                        43.620882
-                  ]
-            },
-            {
-                  "name": "Teatro Sperimentale \"Lirio Arena\"",
-                  "text": "Modern színház és kulturális központ a Mole Vanvitelliana területén.",
-                  "category": "cultural",
-                  "coords": [
-                        13.515407,
-                        43.613519
-                  ]
-            },
-            {
-                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
-                  "text": "A távközlés történetének szentelt múzeum Anconában.",
-                  "category": "museum",
-                  "coords": [
-                        13.509091,
-                        43.618211
-                  ]
-            },
-            {
-                  "name": "Museo archeologico nazionale delle Marche",
-                  "text": "Múzeum Anconában az őskortól a római korig terjedő leletekkel.",
-                  "category": "museum",
-                  "coords": [
-                        13.510747,
-                        43.623406
                   ]
             },
             {
@@ -21669,33 +21669,6 @@ export const italyCitiesV2: POI[] = [
                         13.508794,
                         43.613369
                   ]
-            },
-            {
-                  "name": "Lunetta di Santo Stefano",
-                  "text": "Ancona történelmi védelmi rendszerének egyik eleme.",
-                  "category": "castle",
-                  "coords": [
-                        13.518028,
-                        43.612994
-                  ]
-            },
-            {
-                  "name": "Il Valentino",
-                  "text": "Egy strandüdülőhely az anconai történelmi Mole Vanvitelliana közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        13.533558,
-                        43.617171
-                  ]
-            },
-            {
-                  "name": "Piscina del Passetto",
-                  "text": "Egy úszómedence a Mole Vanvitelliana műemlék közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        13.536331,
-                        43.612201
-                  ]
             }
       ],
       "ro": [
@@ -21706,42 +21679,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.5037,
                         43.613977
-                  ]
-            },
-            {
-                  "name": "Pinacoteca civica \"Francesco Podesti\"",
-                  "text": "Un important muzeu de artă care găzduiește lucrări din regiunea Marche.",
-                  "category": "museum",
-                  "coords": [
-                        13.511058,
-                        43.620882
-                  ]
-            },
-            {
-                  "name": "Teatro Sperimentale \"Lirio Arena\"",
-                  "text": "Un teatru modern și centru cultural situat în Mole Vanvitelliana.",
-                  "category": "cultural",
-                  "coords": [
-                        13.515407,
-                        43.613519
-                  ]
-            },
-            {
-                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
-                  "text": "Un muzeu din Ancona dedicat istoriei telecomunicațiilor.",
-                  "category": "museum",
-                  "coords": [
-                        13.509091,
-                        43.618211
-                  ]
-            },
-            {
-                  "name": "Museo archeologico nazionale delle Marche",
-                  "text": "Un muzeu din Ancona cu descoperiri de la preistorie până în epoca romană.",
-                  "category": "museum",
-                  "coords": [
-                        13.510747,
-                        43.623406
                   ]
             },
             {
@@ -21761,33 +21698,6 @@ export const italyCitiesV2: POI[] = [
                         13.508794,
                         43.613369
                   ]
-            },
-            {
-                  "name": "Lunetta di Santo Stefano",
-                  "text": "O parte a fortificațiilor istorice de apărare ale orașului Ancona.",
-                  "category": "castle",
-                  "coords": [
-                        13.518028,
-                        43.612994
-                  ]
-            },
-            {
-                  "name": "Il Valentino",
-                  "text": "O zonă de stațiune balneară situată lângă monumentul istoric Mole Vanvitelliana din Ancona.",
-                  "category": "recreational",
-                  "coords": [
-                        13.533558,
-                        43.617171
-                  ]
-            },
-            {
-                  "name": "Piscina del Passetto",
-                  "text": "O piscină situată lângă obiectivul turistic Mole Vanvitelliana.",
-                  "category": "recreational",
-                  "coords": [
-                        13.536331,
-                        43.612201
-                  ]
             }
       ],
       "en": [
@@ -21798,42 +21708,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.5037,
                         43.613977
-                  ]
-            },
-            {
-                  "name": "Pinacoteca civica \"Francesco Podesti\"",
-                  "text": "A significant art museum housing works from the Marche region.",
-                  "category": "museum",
-                  "coords": [
-                        13.511058,
-                        43.620882
-                  ]
-            },
-            {
-                  "name": "Teatro Sperimentale \"Lirio Arena\"",
-                  "text": "A modern theatre and cultural centre located in the Mole Vanvitelliana.",
-                  "category": "cultural",
-                  "coords": [
-                        13.515407,
-                        43.613519
-                  ]
-            },
-            {
-                  "name": "Sala museale Contrammiraglio Guglielmo Marconi",
-                  "text": "A museum in Ancona dedicated to the history of telecommunications.",
-                  "category": "museum",
-                  "coords": [
-                        13.509091,
-                        43.618211
-                  ]
-            },
-            {
-                  "name": "Museo archeologico nazionale delle Marche",
-                  "text": "A museum in Ancona with finds ranging from prehistory to the Roman era.",
-                  "category": "museum",
-                  "coords": [
-                        13.510747,
-                        43.623406
                   ]
             },
             {
@@ -21852,33 +21726,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.508794,
                         43.613369
-                  ]
-            },
-            {
-                  "name": "Lunetta di Santo Stefano",
-                  "text": "A part of the historical defensive fortifications of Ancona.",
-                  "category": "castle",
-                  "coords": [
-                        13.518028,
-                        43.612994
-                  ]
-            },
-            {
-                  "name": "Il Valentino",
-                  "text": "A beach resort area located near the historic Mole Vanvitelliana in Ancona.",
-                  "category": "recreational",
-                  "coords": [
-                        13.533558,
-                        43.617171
-                  ]
-            },
-            {
-                  "name": "Piscina del Passetto",
-                  "text": "A swimming pool situated near the Mole Vanvitelliana landmark.",
-                  "category": "recreational",
-                  "coords": [
-                        13.536331,
-                        43.612201
                   ]
             }
       ]
@@ -26809,24 +26656,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Laghetto del Ghitello",
-                  "text": "Der Laghetto del Ghitello in Como ist ein kleiner, ruhiger See, der ideal für einen kurzen Spaziergang am Wasser ist.",
-                  "category": "natural",
-                  "coords": [
-                        9.01258,
-                        45.850389
-                  ]
-            },
-            {
-                  "name": "Laghetto di Cardina",
-                  "text": "Der Laghetto di Cardina in Como bietet eine malerische Kulisse für erholsame Momente in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        9.05605,
-                        45.82776
-                  ]
-            },
-            {
                   "name": "Parco Villa Franceschini",
                   "text": "Der Parco Villa Franceschini in Como ist eine gepflegte Grünanlage mit Spielmöglichkeiten für Kinder.",
                   "category": "family",
@@ -27159,24 +26988,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         9.082813,
                         45.805543
-                  ]
-            },
-            {
-                  "name": "Laghetto del Ghitello",
-                  "text": "A comói Laghetto del Ghitello egy kicsi, nyugodt tó, amely ideális egy rövid vízparti sétához.",
-                  "category": "natural",
-                  "coords": [
-                        9.01258,
-                        45.850389
-                  ]
-            },
-            {
-                  "name": "Laghetto di Cardina",
-                  "text": "A comói Laghetto di Cardina festői környezetet biztosít a pihentető természeti pillanatokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        9.05605,
-                        45.82776
                   ]
             },
             {
@@ -27515,24 +27326,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Laghetto del Ghitello",
-                  "text": "Laghetto del Ghitello din Como este un lac mic și liniștit, ideal pentru o scurtă plimbare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        9.01258,
-                        45.850389
-                  ]
-            },
-            {
-                  "name": "Laghetto di Cardina",
-                  "text": "Laghetto di Cardina din Como oferă un cadru pitoresc pentru momente de relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.05605,
-                        45.82776
-                  ]
-            },
-            {
                   "name": "Parco Villa Franceschini",
                   "text": "Parco Villa Franceschini din Como este un parc îngrijit, cu facilități de joacă pentru copii.",
                   "category": "family",
@@ -27865,24 +27658,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         9.082813,
                         45.805543
-                  ]
-            },
-            {
-                  "name": "Laghetto del Ghitello",
-                  "text": "Laghetto del Ghitello in Como is a small, peaceful lake ideal for a short walk by the water.",
-                  "category": "natural",
-                  "coords": [
-                        9.01258,
-                        45.850389
-                  ]
-            },
-            {
-                  "name": "Laghetto di Cardina",
-                  "text": "Laghetto di Cardina in Como offers a picturesque setting for relaxing moments in nature.",
-                  "category": "natural",
-                  "coords": [
-                        9.05605,
-                        45.82776
                   ]
             },
             {
@@ -39157,15 +38932,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Villa Nobel",
-                  "text": "Das ehemalige Wohnhaus von Alfred Nobel in Sanremo, das heute als Museum dient.",
-                  "category": "museum",
-                  "coords": [
-                        7.792756,
-                        43.821264
-                  ]
-            },
-            {
                   "name": "Villa romana della Foce",
                   "text": "Die Überreste einer antiken römischen Villa direkt an der Küste von Sanremo.",
                   "category": "historical",
@@ -39220,33 +38986,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ippocampo srl",
-                  "text": "Ein ausgestatteter Strandclub an der Küste von Sanremo, der touristische Dienstleistungen anbietet.",
-                  "category": "recreational",
-                  "coords": [
-                        7.761343,
-                        43.808517
-                  ]
-            },
-            {
-                  "name": "Bagni Paradiso",
-                  "text": "Ein Küstenabschnitt in Sanremo mit Stranddienstleistungen für Besucher.",
-                  "category": "recreational",
-                  "coords": [
-                        7.762922,
-                        43.8091
-                  ]
-            },
-            {
-                  "name": "Tre Ponti",
-                  "text": "Der größte öffentliche Strand in Sanremo, beliebt für Wassersport und Surfen.",
-                  "category": "recreational",
-                  "coords": [
-                        7.812744,
-                        43.822305
-                  ]
-            },
-            {
                   "name": "Area archeologica Pian di Nave",
                   "text": "Ausgrabungsstätte in Sanremo mit Funden aus der römischen und vorrömischen Zeit.",
                   "category": "historical",
@@ -39283,39 +39022,12 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Brezza",
-                  "text": "Strandclub La Brezza (‚die Brise‘) an Sanremos Uferpromenade.",
-                  "category": "recreational",
-                  "coords": [
-                        7.808527,
-                        43.822828
-                  ]
-            },
-            {
-                  "name": "Bagni Azzurri",
-                  "text": "Strandbad Bagni Azzurri mit blauen Sonnenschirmen in Sanremo.",
-                  "category": "recreational",
-                  "coords": [
-                        7.810556,
-                        43.82259
-                  ]
-            },
-            {
                   "name": "Bagno San Martino",
                   "text": "Strandbad Bagno San Martino im Stadtteil San Martino in Sanremo.",
                   "category": "recreational",
                   "coords": [
                         7.795499,
                         43.81958
-                  ]
-            },
-            {
-                  "name": "Il Cubo",
-                  "text": "Moderne Strandbar Il Cubo Beach mit würfelförmigem Gebäude in Sanremo.",
-                  "category": "recreational",
-                  "coords": [
-                        7.815425,
-                        43.821983
                   ]
             }
       ],
@@ -39327,15 +39039,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         7.775829,
                         43.81776
-                  ]
-            },
-            {
-                  "name": "Villa Nobel",
-                  "text": "Alfred Nobel egykori lakóháza Sanremóban, amely ma múzeumként működik.",
-                  "category": "museum",
-                  "coords": [
-                        7.792756,
-                        43.821264
                   ]
             },
             {
@@ -39393,33 +39096,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ippocampo srl",
-                  "text": "Kiépített strandklub Sanremo tengerpartján, amely turisztikai szolgáltatásokat kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        7.761343,
-                        43.808517
-                  ]
-            },
-            {
-                  "name": "Bagni Paradiso",
-                  "text": "Tengerparti szakasz Sanremóban, amely strandolási lehetőséget biztosít a látogatóknak.",
-                  "category": "recreational",
-                  "coords": [
-                        7.762922,
-                        43.8091
-                  ]
-            },
-            {
-                  "name": "Tre Ponti",
-                  "text": "Sanremo legnagyobb nyilvános strandja, amely vízi sportokról és szörfözésről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        7.812744,
-                        43.822305
-                  ]
-            },
-            {
                   "name": "Area archeologica Pian di Nave",
                   "text": "Régészeti terület Sanremóban, római és római kor előtti leletekkel.",
                   "category": "historical",
@@ -39456,39 +39132,12 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Brezza",
-                  "text": "La Brezza („Szellő”) strandklub Sanremo tengerparti sétányán.",
-                  "category": "recreational",
-                  "coords": [
-                        7.808527,
-                        43.822828
-                  ]
-            },
-            {
-                  "name": "Bagni Azzurri",
-                  "text": "Bagni Azzurri strandfürdő kék napernyőkkel Sanremóban.",
-                  "category": "recreational",
-                  "coords": [
-                        7.810556,
-                        43.82259
-                  ]
-            },
-            {
                   "name": "Bagno San Martino",
                   "text": "Bagno San Martino strandfürdő Sanremo San Martino negyedében.",
                   "category": "recreational",
                   "coords": [
                         7.795499,
                         43.81958
-                  ]
-            },
-            {
-                  "name": "Il Cubo",
-                  "text": "Il Cubo Beach modern strandbár kocka alakú épülettel Sanremóban.",
-                  "category": "recreational",
-                  "coords": [
-                        7.815425,
-                        43.821983
                   ]
             }
       ],
@@ -39500,15 +39149,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         7.775829,
                         43.81776
-                  ]
-            },
-            {
-                  "name": "Villa Nobel",
-                  "text": "Fosta reședință a lui Alfred Nobel din Sanremo, care servește astăzi ca muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        7.792756,
-                        43.821264
                   ]
             },
             {
@@ -39566,33 +39206,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ippocampo srl",
-                  "text": "Un club de plajă amenajat pe coasta orașului Sanremo, oferind servicii turistice.",
-                  "category": "recreational",
-                  "coords": [
-                        7.761343,
-                        43.808517
-                  ]
-            },
-            {
-                  "name": "Bagni Paradiso",
-                  "text": "O secțiune de coastă în Sanremo care oferă servicii de plajă vizitatorilor.",
-                  "category": "recreational",
-                  "coords": [
-                        7.762922,
-                        43.8091
-                  ]
-            },
-            {
-                  "name": "Tre Ponti",
-                  "text": "Cea mai mare plajă publică din Sanremo, populară pentru sporturi nautice și surf.",
-                  "category": "recreational",
-                  "coords": [
-                        7.812744,
-                        43.822305
-                  ]
-            },
-            {
                   "name": "Area archeologica Pian di Nave",
                   "text": "Zonă arheologică din Sanremo cu descoperiri din epoca romană și preromană.",
                   "category": "historical",
@@ -39629,39 +39242,12 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Brezza",
-                  "text": "Clubul de plajă La Brezza („Adierea”) pe faleza din Sanremo.",
-                  "category": "recreational",
-                  "coords": [
-                        7.808527,
-                        43.822828
-                  ]
-            },
-            {
-                  "name": "Bagni Azzurri",
-                  "text": "Stațiunea de plajă Bagni Azzurri, cu umbrele albastre, în Sanremo.",
-                  "category": "recreational",
-                  "coords": [
-                        7.810556,
-                        43.82259
-                  ]
-            },
-            {
                   "name": "Bagno San Martino",
                   "text": "Clubul de plajă Bagno San Martino în cartierul San Martino din Sanremo.",
                   "category": "recreational",
                   "coords": [
                         7.795499,
                         43.81958
-                  ]
-            },
-            {
-                  "name": "Il Cubo",
-                  "text": "Barul modern de plajă Il Cubo Beach, cu o clădire în formă de cub, în Sanremo.",
-                  "category": "recreational",
-                  "coords": [
-                        7.815425,
-                        43.821983
                   ]
             }
       ],
@@ -39673,15 +39259,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         7.775829,
                         43.81776
-                  ]
-            },
-            {
-                  "name": "Villa Nobel",
-                  "text": "The former residence of Alfred Nobel in Sanremo, which now serves as a museum.",
-                  "category": "museum",
-                  "coords": [
-                        7.792756,
-                        43.821264
                   ]
             },
             {
@@ -39739,33 +39316,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ippocampo srl",
-                  "text": "A managed beach club on the coast of Sanremo offering tourist services.",
-                  "category": "recreational",
-                  "coords": [
-                        7.761343,
-                        43.808517
-                  ]
-            },
-            {
-                  "name": "Villa Sapienza Beach",
-                  "text": "A coastal section in Sanremo providing beach services to visitors.",
-                  "category": "recreational",
-                  "coords": [
-                        7.762922,
-                        43.8091
-                  ]
-            },
-            {
-                  "name": "Tre Ponti",
-                  "text": "The largest public beach in Sanremo, popular for water sports and surfing.",
-                  "category": "recreational",
-                  "coords": [
-                        7.812744,
-                        43.822305
-                  ]
-            },
-            {
                   "name": "Area archeologica Pian di Nave",
                   "text": "Archaeological area in Sanremo featuring Roman and pre-Roman finds.",
                   "category": "historical",
@@ -39802,39 +39352,12 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Brezza",
-                  "text": "Beach club La Brezza ('the Breeze') on Sanremo's seafront.",
-                  "category": "recreational",
-                  "coords": [
-                        7.808527,
-                        43.822828
-                  ]
-            },
-            {
-                  "name": "Bagni Azzurri",
-                  "text": "Beach club Bagni Azzurri with blue umbrellas in Sanremo.",
-                  "category": "recreational",
-                  "coords": [
-                        7.810556,
-                        43.82259
-                  ]
-            },
-            {
                   "name": "Bagno San Martino",
                   "text": "Beach club Bagno San Martino in the San Martino district of Sanremo.",
                   "category": "recreational",
                   "coords": [
                         7.795499,
                         43.81958
-                  ]
-            },
-            {
-                  "name": "Il Cubo Beach",
-                  "text": "Modern beach bar Il Cubo Beach with a cube-shaped building in Sanremo.",
-                  "category": "recreational",
-                  "coords": [
-                        7.815425,
-                        43.821983
                   ]
             }
       ]
@@ -43972,15 +43495,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Laghetto Tecchiena",
-                  "text": "Der Laghetto Tecchiena in Ferentino ist ein kleiner lokaler Teich für ruhige Momente.",
-                  "category": "natural",
-                  "coords": [
-                        13.330841,
-                        41.686549
-                  ]
-            },
-            {
                   "name": "Giochi per bambini",
                   "text": "Giochi per bambini in Ferentino ist ein Spielbereich, der speziell auf die Bedürfnisse von Kindern zugeschnitten ist.",
                   "category": "family",
@@ -44025,15 +43539,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.256059,
                         41.693145
-                  ]
-            },
-            {
-                  "name": "Laghetto Tecchiena",
-                  "text": "A ferentinói Laghetto Tecchiena egy kis helyi tó a nyugodt pillanatokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        13.330841,
-                        41.686549
                   ]
             },
             {
@@ -44084,15 +43589,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Laghetto Tecchiena",
-                  "text": "Laghetto Tecchiena din Ferentino este un mic iaz local pentru momente liniștite.",
-                  "category": "natural",
-                  "coords": [
-                        13.330841,
-                        41.686549
-                  ]
-            },
-            {
                   "name": "Giochi per bambini",
                   "text": "Giochi per bambini din Ferentino este o zonă de joacă adaptată special nevoilor copiilor.",
                   "category": "family",
@@ -44137,15 +43633,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.256059,
                         41.693145
-                  ]
-            },
-            {
-                  "name": "Laghetto Tecchiena",
-                  "text": "Laghetto Tecchiena in Ferentino is a small local pond for quiet moments.",
-                  "category": "natural",
-                  "coords": [
-                        13.330841,
-                        41.686549
                   ]
             },
             {
@@ -45707,50 +45194,10 @@ export const italyCitiesV2: POI[] = [
   },
   {
     id: "italy-falvaterra-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Lago di San Giacomo",
-                  "text": "Der Lago di San Giacomo in Falvaterra lädt zu erholsamen Spaziergängen in der Natur ein.",
-                  "category": "natural",
-                  "coords": [
-                        13.534484,
-                        41.55349
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Lago di San Giacomo",
-                  "text": "A falvaterrai Lago di San Giacomo pihentető természetjárásra hívogat.",
-                  "category": "natural",
-                  "coords": [
-                        13.534484,
-                        41.55349
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Lago di San Giacomo",
-                  "text": "Lago di San Giacomo din Falvaterra invită la plimbări relaxante în natură.",
-                  "category": "natural",
-                  "coords": [
-                        13.534484,
-                        41.55349
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Lago di San Giacomo",
-                  "text": "Lago di San Giacomo in Falvaterra invites relaxing walks in nature.",
-                  "category": "natural",
-                  "coords": [
-                        13.534484,
-                        41.55349
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "IT",
@@ -45860,15 +45307,6 @@ export const italyCitiesV2: POI[] = [
                         13.556963,
                         41.519218
                   ]
-            },
-            {
-                  "name": "Lago di San Giacomo",
-                  "text": "Bergsee Lago di San Giacomo im Apennin nahe San Giovanni Incaricato.",
-                  "category": "natural",
-                  "coords": [
-                        13.534484,
-                        41.55349
-                  ]
             }
       ],
       "hu": [
@@ -45888,15 +45326,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.556963,
                         41.519218
-                  ]
-            },
-            {
-                  "name": "Lago di San Giacomo",
-                  "text": "Lago di San Giacomo hegyi tó az Appenninekben, San Giovanni Incaricato közelében.",
-                  "category": "natural",
-                  "coords": [
-                        13.534484,
-                        41.55349
                   ]
             }
       ],
@@ -45918,15 +45347,6 @@ export const italyCitiesV2: POI[] = [
                         13.556963,
                         41.519218
                   ]
-            },
-            {
-                  "name": "Lago di San Giacomo",
-                  "text": "Lacul montan Lago di San Giacomo în Apenini, lângă San Giovanni Incaricato.",
-                  "category": "natural",
-                  "coords": [
-                        13.534484,
-                        41.55349
-                  ]
             }
       ],
       "en": [
@@ -45946,15 +45366,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.556963,
                         41.519218
-                  ]
-            },
-            {
-                  "name": "Lago di San Giacomo",
-                  "text": "Mountain lake Lago di San Giacomo in the Apennines near San Giovanni Incaricato.",
-                  "category": "natural",
-                  "coords": [
-                        13.534484,
-                        41.55349
                   ]
             }
       ]
@@ -46013,15 +45424,6 @@ export const italyCitiesV2: POI[] = [
                         13.572257,
                         41.587899
                   ]
-            },
-            {
-                  "name": "Lago di San Giacomo",
-                  "text": "Der Lago di San Giacomo in Colfelice ist ein friedliches Gewässer in ländlicher Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        13.534484,
-                        41.55349
-                  ]
             }
       ],
       "hu": [
@@ -46032,15 +45434,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.572257,
                         41.587899
-                  ]
-            },
-            {
-                  "name": "Lago di San Giacomo",
-                  "text": "A colfelicei Lago di San Giacomo egy békés tó vidéki környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        13.534484,
-                        41.55349
                   ]
             }
       ],
@@ -46053,15 +45446,6 @@ export const italyCitiesV2: POI[] = [
                         13.572257,
                         41.587899
                   ]
-            },
-            {
-                  "name": "Lago di San Giacomo",
-                  "text": "Lago di San Giacomo din Colfelice este o întindere de apă pașnică într-un cadru rural.",
-                  "category": "natural",
-                  "coords": [
-                        13.534484,
-                        41.55349
-                  ]
             }
       ],
       "en": [
@@ -46072,15 +45456,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.572257,
                         41.587899
-                  ]
-            },
-            {
-                  "name": "Lago di San Giacomo",
-                  "text": "Lago di San Giacomo in Colfelice is a peaceful body of water in a rural setting.",
-                  "category": "natural",
-                  "coords": [
-                        13.534484,
-                        41.55349
                   ]
             }
       ]
@@ -46141,15 +45516,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo della Ferrovia della Valle del Liri",
-                  "text": "Ein Museum, das der Geschichte und Technik der Eisenbahnstrecke im Liri-Tal gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        13.572257,
-                        41.587899
-                  ]
-            },
-            {
                   "name": "Castello Succorte",
                   "text": "Die Überreste einer mittelalterlichen Burganlage in der Gemeinde Rocca d'Arce.",
                   "category": "castle",
@@ -46167,15 +45533,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.552271,
                         41.598241
-                  ]
-            },
-            {
-                  "name": "Museo della Ferrovia della Valle del Liri",
-                  "text": "A Liri-völgyi vasútvonal történetét és technikai emlékeit bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        13.572257,
-                        41.587899
                   ]
             },
             {
@@ -46199,15 +45556,6 @@ export const italyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo della Ferrovia della Valle del Liri",
-                  "text": "Un muzeu dedicat istoriei și tehnicii liniei ferate din valea Liri.",
-                  "category": "museum",
-                  "coords": [
-                        13.572257,
-                        41.587899
-                  ]
-            },
-            {
                   "name": "Castello Succorte",
                   "text": "Rămășițele unui castel medieval situat în comuna Rocca d'Arce.",
                   "category": "castle",
@@ -46225,15 +45573,6 @@ export const italyCitiesV2: POI[] = [
                   "coords": [
                         13.552271,
                         41.598241
-                  ]
-            },
-            {
-                  "name": "Museo della Ferrovia della Valle del Liri",
-                  "text": "A museum dedicated to the history and technology of the Liri Valley railway line.",
-                  "category": "museum",
-                  "coords": [
-                        13.572257,
-                        41.587899
                   ]
             },
             {
@@ -46292,50 +45631,10 @@ export const italyCitiesV2: POI[] = [
   },
   {
     id: "italy-fontana-liri-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Museo d'Arte Moderna Luigi Centra",
-                  "text": "Museum in Fontana Liri, das zeitgenössische Kunst des Malers Luigi Centra ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        13.514039,
-                        41.639976
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Museo d'Arte Moderna Luigi Centra",
-                  "text": "Fontana Liri-i múzeum, amely Luigi Centra festőművész kortárs alkotásait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        13.514039,
-                        41.639976
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Museo d'Arte Moderna Luigi Centra",
-                  "text": "Muzeu în Fontana Liri care expune artă contemporană a pictorului Luigi Centra.",
-                  "category": "museum",
-                  "coords": [
-                        13.514039,
-                        41.639976
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Museo d'Arte Moderna Luigi Centra",
-                  "text": "Museum in Fontana Liri exhibiting contemporary art by painter Luigi Centra.",
-                  "category": "museum",
-                  "coords": [
-                        13.514039,
-                        41.639976
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "IT",
@@ -46508,86 +45807,10 @@ export const italyCitiesV2: POI[] = [
   },
   {
     id: "italy-arce-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Museo della Ferrovia della Valle del Liri",
-                  "text": "Eisenbahnmuseum im Liri-Tal, das die Geschichte der regionalen Züge dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        13.572257,
-                        41.587899
-                  ]
-            },
-            {
-                  "name": "Torre di Campolato",
-                  "text": "Mittelalterlicher Wachturm bei Arce mit Blick auf den Liri.",
-                  "category": "fortress",
-                  "coords": [
-                        13.552271,
-                        41.598241
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Museo della Ferrovia della Valle del Liri",
-                  "text": "A Liri-völgy vasúti múzeuma, amely a regionális vonatközlekedés történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        13.572257,
-                        41.587899
-                  ]
-            },
-            {
-                  "name": "Torre di Campolato",
-                  "text": "Középkori őrtorony Arce közelében, a Liri folyóra néző kilátással.",
-                  "category": "fortress",
-                  "coords": [
-                        13.552271,
-                        41.598241
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Museo della Ferrovia della Valle del Liri",
-                  "text": "Muzeul căilor ferate din Valea Liri, dedicat istoriei trenurilor regionale.",
-                  "category": "museum",
-                  "coords": [
-                        13.572257,
-                        41.587899
-                  ]
-            },
-            {
-                  "name": "Torre di Campolato",
-                  "text": "Turn de pază medieval lângă Arce, cu vedere asupra râului Liri.",
-                  "category": "fortress",
-                  "coords": [
-                        13.552271,
-                        41.598241
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Museo della Ferrovia della Valle del Liri",
-                  "text": "Railway museum in the Liri Valley documenting the history of regional train travel.",
-                  "category": "museum",
-                  "coords": [
-                        13.572257,
-                        41.587899
-                  ]
-            },
-            {
-                  "name": "Torre di Campolato",
-                  "text": "Medieval watchtower near Arce overlooking the Liri River.",
-                  "category": "fortress",
-                  "coords": [
-                        13.552271,
-                        41.598241
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "IT",

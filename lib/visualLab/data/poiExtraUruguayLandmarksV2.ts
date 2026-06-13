@@ -2589,39 +2589,12 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro AlSur",
-                  "text": "Ein unabhängiges Kulturzentrum und Theater in Atlántida, das lokale Produktionen und Konzerte fördert.",
-                  "category": "cultural",
-                  "coords": [
-                        -55.758114,
-                        -34.774202
-                  ]
-            },
-            {
-                  "name": "Letras de Atlántida",
-                  "text": "Ein farbenfroher Schriftzug an der Küste von Atlántida, der ein beliebter Fotostopp für Touristen ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.765941,
-                        -34.767339
-                  ]
-            },
-            {
                   "name": "Playa Edén Rock",
                   "text": "Ein felsiger Strandabschnitt, der für seine raue Brandung und die markanten Steinplatten am Ufer bekannt ist.",
                   "category": "recreational",
                   "coords": [
                         -55.747899,
                         -34.779281
-                  ]
-            },
-            {
-                  "name": "Zoologico de Atlántida",
-                  "text": "Ein kleiner lokaler Zoo, der sich auf die Pflege und Ausstellung einheimischer uruguayischer Tierarten konzentriert.",
-                  "category": "recreational",
-                  "coords": [
-                        -55.752705,
-                        -34.776116
                   ]
             },
             {
@@ -2703,24 +2676,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
                   "coords": [
                         -55.766677,
                         -34.774938
-                  ]
-            },
-            {
-                  "name": "Expoplatea de Atlántida",
-                  "text": "Ein Freilicht-Amphitheater direkt am Meer, das als Zentrum für kulturelle Veranstaltungen dient.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.763387,
-                        -34.775489
-                  ]
-            },
-            {
-                  "name": "Parque El Águila",
-                  "text": "Berühmt für das rätselhafte Steingebäude 'El Águila', das in Form eines Adlerkopfes erbaut wurde.",
-                  "category": "park",
-                  "coords": [
-                        -55.778244,
-                        -34.770826
                   ]
             },
             {
@@ -2861,39 +2816,12 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro AlSur",
-                  "text": "Független kulturális központ és színház Atlántidában, amely helyi előadásokat és koncerteket mutat be.",
-                  "category": "cultural",
-                  "coords": [
-                        -55.758114,
-                        -34.774202
-                  ]
-            },
-            {
-                  "name": "Letras de Atlántida",
-                  "text": "Színes felirat Atlántida partján, amely a turisták kedvelt fotópontja.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.765941,
-                        -34.767339
-                  ]
-            },
-            {
                   "name": "Playa Edén Rock",
                   "text": "Sziklás strandrész, amely vad hullámairól és a parton található jellegzetes kőlapokról nevezetes.",
                   "category": "recreational",
                   "coords": [
                         -55.747899,
                         -34.779281
-                  ]
-            },
-            {
-                  "name": "Zoologico de Atlántida",
-                  "text": "Kisméretű helyi állatkert, amely az őshonos uruguayi fajok gondozására és bemutatására összpontosít.",
-                  "category": "recreational",
-                  "coords": [
-                        -55.752705,
-                        -34.776116
                   ]
             },
             {
@@ -2975,24 +2903,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
                   "coords": [
                         -55.766677,
                         -34.774938
-                  ]
-            },
-            {
-                  "name": "Expoplatea de Atlántida",
-                  "text": "Közvetlenül a tengerparton található szabadtéri amfiteátrum, amely kulturális események központja.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.763387,
-                        -34.775489
-                  ]
-            },
-            {
-                  "name": "Parque El Águila",
-                  "text": "Híres a rejtélyes „El Águila” kőépületről, amelyet sasfej alakúra építettek.",
-                  "category": "park",
-                  "coords": [
-                        -55.778244,
-                        -34.770826
                   ]
             },
             {
@@ -3133,39 +3043,12 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro AlSur",
-                  "text": "Un centru cultural și teatru independent din Atlántida, care promovează producții locale și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        -55.758114,
-                        -34.774202
-                  ]
-            },
-            {
-                  "name": "Letras de Atlántida",
-                  "text": "Literele colorate de pe coasta din Atlántida, reprezentând un punct de oprire popular pentru fotografii.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.765941,
-                        -34.767339
-                  ]
-            },
-            {
                   "name": "Playa Edén Rock",
                   "text": "O secțiune de plajă stâncoasă cunoscută pentru valurile puternice și plăcile de piatră distinctive de la țărm.",
                   "category": "recreational",
                   "coords": [
                         -55.747899,
                         -34.779281
-                  ]
-            },
-            {
-                  "name": "Zoologico de Atlántida",
-                  "text": "O mică grădină zoologică locală care se concentrează pe îngrijirea și expunerea speciilor native uruguayene.",
-                  "category": "recreational",
-                  "coords": [
-                        -55.752705,
-                        -34.776116
                   ]
             },
             {
@@ -3247,24 +3130,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
                   "coords": [
                         -55.766677,
                         -34.774938
-                  ]
-            },
-            {
-                  "name": "Expoplatea de Atlántida",
-                  "text": "Un amfiteatru în aer liber direct pe malul mării, care servește drept centru pentru evenimente culturale.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.763387,
-                        -34.775489
-                  ]
-            },
-            {
-                  "name": "Parque El Águila",
-                  "text": "Faimos pentru clădirea enigmatică de piatră „El Águila”, construită sub formă de cap de vultur.",
-                  "category": "park",
-                  "coords": [
-                        -55.778244,
-                        -34.770826
                   ]
             },
             {
@@ -3405,39 +3270,12 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro AlSur",
-                  "text": "An independent cultural center and theatre in Atlántida, promoting local productions and concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        -55.758114,
-                        -34.774202
-                  ]
-            },
-            {
-                  "name": "Letras de Atlántida",
-                  "text": "A colorful sign on the Atlántida coast that is a popular photo stop for tourists.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.765941,
-                        -34.767339
-                  ]
-            },
-            {
                   "name": "Playa Edén Rock",
                   "text": "A rocky beach section known for its rough surf and distinctive stone slabs at the shore.",
                   "category": "recreational",
                   "coords": [
                         -55.747899,
                         -34.779281
-                  ]
-            },
-            {
-                  "name": "Zoologico de Atlántida",
-                  "text": "A small local zoo focused on the care and display of native Uruguayan species.",
-                  "category": "recreational",
-                  "coords": [
-                        -55.752705,
-                        -34.776116
                   ]
             },
             {
@@ -3519,24 +3357,6 @@ export const poiExtraUruguayLandmarksV2: POI[] = [
                   "coords": [
                         -55.766677,
                         -34.774938
-                  ]
-            },
-            {
-                  "name": "Expoplatea de Atlántida",
-                  "text": "An open-air amphitheater right by the sea that serves as a center for cultural events.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.763387,
-                        -34.775489
-                  ]
-            },
-            {
-                  "name": "Parque El Águila",
-                  "text": "Famous for the enigmatic 'El Águila' stone building, which was built in the shape of an eagle's head.",
-                  "category": "park",
-                  "coords": [
-                        -55.778244,
-                        -34.770826
                   ]
             },
             {

@@ -42,15 +42,6 @@ export const grenadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grand Anse Marine Protected Area",
-                  "text": "Das Grand Anse Marine Protected Area schützt Korallenriffe und Meeresschildkröten am Grand Anse Strand.",
-                  "category": "natural",
-                  "coords": [
-                        -61.786645,
-                        12.023041
-                  ]
-            },
-            {
                   "name": "Molinière-Beauséjour Marine Protected Area",
                   "text": "Das Molinière-Beauséjour Marine Protected Area in St. Georges ist ein Schutzgebiet für Korallenriffe und Meereslebewesen.",
                   "category": "natural",
@@ -66,15 +57,6 @@ export const grenadaCitiesV2: POI[] = [
                   "coords": [
                         -61.755419,
                         12.07714
-                  ]
-            },
-            {
-                  "name": "Grand Anse Beach",
-                  "text": "Als absolutes Highlight in St. George's ist der weite Grand Anse Beach eine weltbekannte Küstenschönheit Grenadas. Die große Sandfläche lädt zu ausgedehnten Badefreuden im klaren, karibischen Meer oder zu lebhaften Spaziergängen entlang der Uferlinie ein. Wer die karibische Sonne in vollen Zügen genießen möchte, ist an diesem einladenden Strand genau richtig.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.761221,
-                        12.02737
                   ]
             },
             {
@@ -170,15 +152,6 @@ export const grenadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grand Anse Marine Protected Area",
-                  "text": "A Grand Anse Tengeri Védett Terület korallzátonyokat és tengeri teknősöket véd a Grand Anse strandon.",
-                  "category": "natural",
-                  "coords": [
-                        -61.786645,
-                        12.023041
-                  ]
-            },
-            {
                   "name": "Molinière-Beauséjour Marine Protected Area",
                   "text": "A Molinière-Beauséjour Tengeri Védett Terület St. Georgesban korallzátonyok és tengeri élőlények menedéke.",
                   "category": "natural",
@@ -194,15 +167,6 @@ export const grenadaCitiesV2: POI[] = [
                   "coords": [
                         -61.755419,
                         12.07714
-                  ]
-            },
-            {
-                  "name": "Grand Anse Beach",
-                  "text": "A St. George's egyik abszolút fénypontjának számító széles Grand Anse Beach Grenada világszerte ismert tengerparti szépsége. A hatalmas homokos terület hosszas fürdőzésre csábít a tiszta vizű Karib-tengerben, vagy élénk sétákra a partvonal mentén. Aki teljes mértékben szeretné élvezni a karibi napsütést, az ezen a hívogató strandon a legjobb helyen jár.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.761221,
-                        12.02737
                   ]
             },
             {
@@ -298,15 +262,6 @@ export const grenadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grand Anse Marine Protected Area",
-                  "text": "Zona Marină Protejată Grand Anse protejează recifele de corali și țestoasele marine pe plaja Grand Anse.",
-                  "category": "natural",
-                  "coords": [
-                        -61.786645,
-                        12.023041
-                  ]
-            },
-            {
                   "name": "Molinière-Beauséjour Marine Protected Area",
                   "text": "Zona Marină Protejată Molinière-Beauséjour din St. Georges este un sanctuar pentru recife de corali și viață marină.",
                   "category": "natural",
@@ -322,15 +277,6 @@ export const grenadaCitiesV2: POI[] = [
                   "coords": [
                         -61.755419,
                         12.07714
-                  ]
-            },
-            {
-                  "name": "Grand Anse Beach",
-                  "text": "Fiind un punct de atracție absolut în St. George's, plaja largă Grand Anse Beach este o frumusețe de coastă de renume mondial a Grenadei. Întinderea vastă de nisip vă invită la reprize lungi de înot în Marea Caraibelor cu apă cristalină sau la plimbări animate de-a lungul țărmului. Dacă doriți să vă bucurați la maximum de soarele din Caraibe, această plajă primitoare este locul potrivit.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.761221,
-                        12.02737
                   ]
             },
             {
@@ -426,15 +372,6 @@ export const grenadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grand Anse Marine Protected Area",
-                  "text": "Grand Anse Marine Protected Area along Grand Anse Beach protects coral reefs and sea turtles.",
-                  "category": "natural",
-                  "coords": [
-                        -61.786645,
-                        12.023041
-                  ]
-            },
-            {
                   "name": "Molinière-Beauséjour Marine Protected Area",
                   "text": "Molinière-Beauséjour Marine Protected Area in St Georges is a sanctuary for coral reefs and marine life.",
                   "category": "natural",
@@ -450,15 +387,6 @@ export const grenadaCitiesV2: POI[] = [
                   "coords": [
                         -61.755419,
                         12.07714
-                  ]
-            },
-            {
-                  "name": "Grand Anse Beach",
-                  "text": "As an absolute highlight in St. George's, the wide Grand Anse Beach is a world-renowned coastal beauty of Grenada. The large sandy expanse invites extended swimming in the clear Caribbean Sea or lively strolls along the shoreline. Anyone wanting to fully enjoy the Caribbean sun is in exactly the right place on this welcoming beach.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.761221,
-                        12.02737
                   ]
             },
             {
@@ -1552,15 +1480,6 @@ export const grenadaCitiesV2: POI[] = [
                         -61.703693,
                         12.019126
                   ]
-            },
-            {
-                  "name": "Explorer",
-                  "text": "Explorer in Saint Davids ist ein Naturgebiet mit Kalksteinhöhlen und Waldwanderwegen.",
-                  "category": "natural",
-                  "coords": [
-                        -61.658076,
-                        12.031353
-                  ]
             }
       ],
       "hu": [
@@ -1580,15 +1499,6 @@ export const grenadaCitiesV2: POI[] = [
                   "coords": [
                         -61.703693,
                         12.019126
-                  ]
-            },
-            {
-                  "name": "Explorer",
-                  "text": "Az Explorer Saint Davidsban egy természeti terület mészkőbarlangokkal és erdei túraútvonalakkal.",
-                  "category": "natural",
-                  "coords": [
-                        -61.658076,
-                        12.031353
                   ]
             }
       ],
@@ -1610,15 +1520,6 @@ export const grenadaCitiesV2: POI[] = [
                         -61.703693,
                         12.019126
                   ]
-            },
-            {
-                  "name": "Explorer",
-                  "text": "Explorer în Saint Davids este o zonă naturală cu peșteri de calcar și trasee de drumeție în pădure.",
-                  "category": "natural",
-                  "coords": [
-                        -61.658076,
-                        12.031353
-                  ]
             }
       ],
       "en": [
@@ -1638,15 +1539,6 @@ export const grenadaCitiesV2: POI[] = [
                   "coords": [
                         -61.703693,
                         12.019126
-                  ]
-            },
-            {
-                  "name": "Explorer",
-                  "text": "Explorer in Saint Davids is a natural area with limestone caves and forest hiking trails.",
-                  "category": "natural",
-                  "coords": [
-                        -61.658076,
-                        12.031353
                   ]
             }
       ]
@@ -2112,15 +2004,6 @@ export const grenadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pearls Airport",
-                  "text": "Der Pearls Airport in Tivoli ist ein stillgelegter Flughafen, heute als Drag-Racing-Strecke genutzt.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.616844,
-                        12.143678
-                  ]
-            },
-            {
                   "name": "River Antoine Rum Distillery",
                   "text": "Die River Antoine Rum Distillery in Tivoli arbeitet mit einem Wasserrad und ist eine der ältesten Brennereien der Karibik.",
                   "category": "landmark",
@@ -2156,15 +2039,6 @@ export const grenadaCitiesV2: POI[] = [
                   "coords": [
                         -61.604307,
                         12.161293
-                  ]
-            },
-            {
-                  "name": "Pearls Airport",
-                  "text": "A Pearls repülőtér Tivoliban egy bezárt repülőtér, ma drag racing pályaként használják.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.616844,
-                        12.143678
                   ]
             },
             {
@@ -2206,15 +2080,6 @@ export const grenadaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pearls Airport",
-                  "text": "Aeroportul Pearls din Tivoli este un aeroport dezafectat, acum folosit ca pistă de drag racing.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.616844,
-                        12.143678
-                  ]
-            },
-            {
                   "name": "River Antoine Rum Distillery",
                   "text": "Distileria de rom River Antoine din Tivoli funcționează cu o roată de apă și este una dintre cele mai vechi distilerii în funcțiune din Caraibe.",
                   "category": "landmark",
@@ -2250,15 +2115,6 @@ export const grenadaCitiesV2: POI[] = [
                   "coords": [
                         -61.604307,
                         12.161293
-                  ]
-            },
-            {
-                  "name": "Pearls Airport",
-                  "text": "Pearls Airport in Tivoli is a disused airport now used as a drag racing strip.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.616844,
-                        12.143678
                   ]
             },
             {

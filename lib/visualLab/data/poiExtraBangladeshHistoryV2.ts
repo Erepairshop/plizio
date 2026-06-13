@@ -5155,15 +5155,6 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Comilla Central Shaheed Minar",
-                  "text": "Ein zentrales Denkmal in Comilla, das den Märtyrern der Sprachbewegung von 1952 gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        91.181422,
-                        23.461333
-                  ]
-            },
-            {
                   "name": "গোলচত্বর",
                   "text": "Ein markanter Kreisverkehr und Denkmal im Viertel Kotbari, das als Orientierungspunkt nahe den Bildungseinrichtungen von Mainamati dient.",
                   "category": "historical",
@@ -5188,15 +5179,6 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
                   "coords": [
                         91.10761,
                         23.496383
-                  ]
-            },
-            {
-                  "name": "Victoria College theatre",
-                  "text": "Ein kultureller Veranstaltungsort im historischen Comilla Victoria Government College, einer 1899 gegründeten Institution.",
-                  "category": "cultural",
-                  "coords": [
-                        91.166638,
-                        23.457691
                   ]
             },
             {
@@ -5463,15 +5445,6 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Comilla Central Shaheed Minar",
-                  "text": "Központi emlékmű Comillában, amelyet az 1952-es nyelvmozgalom mártírjainak emlékére emeltek.",
-                  "category": "historical",
-                  "coords": [
-                        91.181422,
-                        23.461333
-                  ]
-            },
-            {
                   "name": "গোলচত্বর",
                   "text": "Egy forgalmas körforgalom és emlékmű Kotbari környékén, amely fontos tájékozódási pont a mainamati oktatási intézmények közelében.",
                   "category": "historical",
@@ -5496,15 +5469,6 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
                   "coords": [
                         91.10761,
                         23.496383
-                  ]
-            },
-            {
-                  "name": "Victoria College theatre",
-                  "text": "Kulturális helyszín a történelmi Comilla Victoria Kormányzati Főiskolán, amelyet 1899-ben alapítottak.",
-                  "category": "cultural",
-                  "coords": [
-                        91.166638,
-                        23.457691
                   ]
             },
             {
@@ -5771,15 +5735,6 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Comilla Central Shaheed Minar",
-                  "text": "Un monument central în Comilla, dedicat martirilor Mișcării pentru Limbă din 1952.",
-                  "category": "historical",
-                  "coords": [
-                        91.181422,
-                        23.461333
-                  ]
-            },
-            {
                   "name": "গোলচত্বর",
                   "text": "Un sens giratoriu și monument proeminent în zona Kotbari, servind ca punct de reper în apropierea instituțiilor de învățământ din Mainamati.",
                   "category": "historical",
@@ -5804,15 +5759,6 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
                   "coords": [
                         91.10761,
                         23.496383
-                  ]
-            },
-            {
-                  "name": "Victoria College theatre",
-                  "text": "Un loc de desfășurare a evenimentelor culturale în cadrul istoricului Colegiu Guvernamental Victoria din Comilla, instituție fondată în 1899.",
-                  "category": "cultural",
-                  "coords": [
-                        91.166638,
-                        23.457691
                   ]
             },
             {
@@ -6079,15 +6025,6 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Comilla Central Shaheed Minar",
-                  "text": "A central monument in Comilla dedicated to the martyrs of the 1952 Language Movement.",
-                  "category": "historical",
-                  "coords": [
-                        91.181422,
-                        23.461333
-                  ]
-            },
-            {
                   "name": "গোলচত্বর",
                   "text": "A prominent traffic circle and monument in the Kotbari area, serving as a landmark near the educational institutions of Mainamati.",
                   "category": "historical",
@@ -6112,15 +6049,6 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
                   "coords": [
                         91.10761,
                         23.496383
-                  ]
-            },
-            {
-                  "name": "Victoria College theatre",
-                  "text": "A cultural venue within the historic Comilla Victoria Government College, an institution established in 1899.",
-                  "category": "cultural",
-                  "coords": [
-                        91.166638,
-                        23.457691
                   ]
             },
             {

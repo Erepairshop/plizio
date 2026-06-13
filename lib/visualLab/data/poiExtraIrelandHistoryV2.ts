@@ -1491,15 +1491,6 @@ export const irelandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Standing Stone",
-                  "text": "Ein prähistorischer Menhir, der als archäologisches Denkmal in Glendalough steht.",
-                  "category": "historical",
-                  "coords": [
-                        -6.343522,
-                        52.982016
-                  ]
-            },
-            {
                   "name": "The Deer Stone",
                   "text": "Ein alter Bullaun-Stein mit ritueller Bedeutung in der Nähe des Klosters.",
                   "category": "historical",
@@ -1527,24 +1518,6 @@ export const irelandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Miners' Village",
-                  "text": "Die Ruinen einer ehemaligen Bergbausiedlung am oberen Ende des Glendalough-Sees.",
-                  "category": "historical",
-                  "coords": [
-                        -6.379622,
-                        53.006383
-                  ]
-            },
-            {
-                  "name": "Derrybawn Mountain",
-                  "text": "Ein Berggipfel, der Wanderern einen Blick über das Glendalough-Tal bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.3341,
-                        52.998278
-                  ]
-            },
-            {
                   "name": "Saint Saviour's Priory",
                   "text": "Die Ruinen eines romanischen Priorats aus dem 12. Jahrhundert in der Nähe des Sees.",
                   "category": "historical",
@@ -1562,15 +1535,6 @@ export const irelandHistoryV2: POI[] = [
                   "coords": [
                         -6.327017,
                         53.01055
-                  ]
-            },
-            {
-                  "name": "Standing Stone",
-                  "text": "Prehisztorikus menhir, amely régészeti emlékként áll Glendalough-ban.",
-                  "category": "historical",
-                  "coords": [
-                        -6.343522,
-                        52.982016
                   ]
             },
             {
@@ -1601,24 +1565,6 @@ export const irelandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Miners' Village",
-                  "text": "Egy egykori bányászfalu romjai a Glendalough-tó felső végénél.",
-                  "category": "historical",
-                  "coords": [
-                        -6.379622,
-                        53.006383
-                  ]
-            },
-            {
-                  "name": "Derrybawn Mountain",
-                  "text": "Hegycsúcs, ahonnan a túrázók ráláthatnak a Glendalough-völgyre.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.3341,
-                        52.998278
-                  ]
-            },
-            {
                   "name": "Saint Saviour's Priory",
                   "text": "Egy 12. századi román stílusú perjetség romjai a tó közelében.",
                   "category": "historical",
@@ -1636,15 +1582,6 @@ export const irelandHistoryV2: POI[] = [
                   "coords": [
                         -6.327017,
                         53.01055
-                  ]
-            },
-            {
-                  "name": "Standing Stone",
-                  "text": "Un menhir preistoric ce stă ca monument arheologic în Glendalough.",
-                  "category": "historical",
-                  "coords": [
-                        -6.343522,
-                        52.982016
                   ]
             },
             {
@@ -1675,24 +1612,6 @@ export const irelandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Miners' Village",
-                  "text": "Ruinele unui fost sat minier situat la capătul superior al lacului Glendalough.",
-                  "category": "historical",
-                  "coords": [
-                        -6.379622,
-                        53.006383
-                  ]
-            },
-            {
-                  "name": "Derrybawn Mountain",
-                  "text": "Un vârf muntos ce oferă drumeților vederi asupra văii Glendalough.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.3341,
-                        52.998278
-                  ]
-            },
-            {
                   "name": "Saint Saviour's Priory",
                   "text": "Ruinele unui priorat romanic din secolul al XII-lea situat lângă lac.",
                   "category": "historical",
@@ -1710,15 +1629,6 @@ export const irelandHistoryV2: POI[] = [
                   "coords": [
                         -6.327017,
                         53.01055
-                  ]
-            },
-            {
-                  "name": "Standing Stone",
-                  "text": "A prehistoric standing stone located as an archaeological monument in Glendalough.",
-                  "category": "historical",
-                  "coords": [
-                        -6.343522,
-                        52.982016
                   ]
             },
             {
@@ -1746,24 +1656,6 @@ export const irelandHistoryV2: POI[] = [
                   "coords": [
                         -6.286035,
                         53.029411
-                  ]
-            },
-            {
-                  "name": "Miners' Village",
-                  "text": "The ruins of a former mining village located at the upper end of Glendalough lake.",
-                  "category": "historical",
-                  "coords": [
-                        -6.379622,
-                        53.006383
-                  ]
-            },
-            {
-                  "name": "Derrybawn Mountain",
-                  "text": "A mountain peak offering hikers views over the Glendalough valley.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.3341,
-                        52.998278
                   ]
             },
             {
@@ -2571,30 +2463,12 @@ export const irelandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Noughaval Cemetery",
-                  "text": "Ein alter Friedhof mit historischer Bedeutung und antiken Grabsteinen.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
                   "name": "Kilkenny Castle",
                   "text": "Eine bedeutende historische Burg in Kilkenny, die ursprünglich zur Kontrolle einer Furt am Fluss Nore erbaut wurde.",
                   "category": "castle",
                   "coords": [
                         -7.816875,
                         53.489909
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "Ein lokales Gotteshaus, das der Gemeinde in der Gegend von Tang dient.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
                   ]
             }
       ],
@@ -2609,30 +2483,12 @@ export const irelandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Noughaval Cemetery",
-                  "text": "Régi temető történelmi jelentőséggel és ősi sírjelekkel.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
                   "name": "Kilkenny Castle",
                   "text": "Jelentős történelmi kastély Kilkennyben, amelyet eredetileg a Nore-folyó gázlójának ellenőrzésére építettek.",
                   "category": "castle",
                   "coords": [
                         -7.816875,
                         53.489909
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "Helyi istentiszteleti hely, amely a Tang környéki közösséget szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
                   ]
             }
       ],
@@ -2647,30 +2503,12 @@ export const irelandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Noughaval Cemetery",
-                  "text": "Un vechi cimitir cu semnificație istorică și pietre funerare antice.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
                   "name": "Kilkenny Castle",
                   "text": "Un castel istoric major din Kilkenny, construit inițial pentru a controla un punct de trecere al râului Nore.",
                   "category": "castle",
                   "coords": [
                         -7.816875,
                         53.489909
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "Un lăcaș de cult local care deservește comunitatea din zona Tang.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
                   ]
             }
       ],
@@ -2685,30 +2523,12 @@ export const irelandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Noughaval Cemetery",
-                  "text": "An old burial ground with historical significance and ancient grave markers.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
                   "name": "Kilkenny Castle",
                   "text": "A major historic castle in Kilkenny, originally built to control a fording point of the River Nore.",
                   "category": "castle",
                   "coords": [
                         -7.816875,
                         53.489909
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "A local place of worship serving the community in the Tang area.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
                   ]
             }
       ]
@@ -3046,158 +2866,10 @@ export const irelandHistoryV2: POI[] = [
   },
   {
     id: "ireland-ballymore-abbey-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Dunnamona Motte",
-                  "text": "Eine anglonormannische Turmhügelburg in der Grafschaft Westmeath.",
-                  "category": "historical",
-                  "coords": [
-                        -7.783633,
-                        53.499514
-                  ]
-            },
-            {
-                  "name": "Noughaval Cemetery",
-                  "text": "Ein alter Friedhof mit historischen Ruinen in der Gegend von Ballymore.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
-                  "name": "Kilkenny Castle",
-                  "text": "Kilkenny Castle, eine mittelalterliche Burg in Ballymore Abbey mit großem Torhaus.",
-                  "category": "castle",
-                  "coords": [
-                        -7.816875,
-                        53.489909
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "Ein lokales Kirchengebäude, das der religiösen Gemeinschaft dient.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Dunnamona Motte",
-                  "text": "Egy angol-normann motte típusú várhely Westmeath megyében.",
-                  "category": "historical",
-                  "coords": [
-                        -7.783633,
-                        53.499514
-                  ]
-            },
-            {
-                  "name": "Noughaval Cemetery",
-                  "text": "Régi temető történelmi romokkal Ballymore környékén.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
-                  "name": "Kilkenny Castle",
-                  "text": "Kilkenny Castle, egy középkori vár Ballymore Abbey-ben, nagy kaputoronnyal.",
-                  "category": "castle",
-                  "coords": [
-                        -7.816875,
-                        53.489909
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "Helyi templomépület, amely a vallási közösséget szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Dunnamona Motte",
-                  "text": "Un sit de fortificație anglo-normandă de tip motte-and-bailey din comitatul Westmeath.",
-                  "category": "historical",
-                  "coords": [
-                        -7.783633,
-                        53.499514
-                  ]
-            },
-            {
-                  "name": "Noughaval Cemetery",
-                  "text": "Un cimitir vechi cu ruine istorice în zona Ballymore.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
-                  "name": "Kilkenny Castle",
-                  "text": "Castelul Kilkenny, un castel medieval în Ballymore Abbey, cu un mare turn de poartă.",
-                  "category": "castle",
-                  "coords": [
-                        -7.816875,
-                        53.489909
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "O clădire de biserică locală care deservește comunitatea religioasă.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Dunnamona Motte",
-                  "text": "An Anglo-Norman motte-and-bailey castle site in County Westmeath.",
-                  "category": "historical",
-                  "coords": [
-                        -7.783633,
-                        53.499514
-                  ]
-            },
-            {
-                  "name": "Noughaval Cemetery",
-                  "text": "An ancient cemetery with historical ruins in the Ballymore area.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
-                  "name": "Kilkenny Castle",
-                  "text": "Kilkenny Castle, a medieval castle in Ballymore Abbey featuring a large gatehouse.",
-                  "category": "castle",
-                  "coords": [
-                        -7.816875,
-                        53.489909
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "A local church building serving the religious community.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "ruins",
     parent: "IE",
@@ -3712,158 +3384,10 @@ export const irelandHistoryV2: POI[] = [
   },
   {
     id: "ireland-ballymore-fort-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Dunnamona Motte",
-                  "text": "Eine archäologische Stätte mit den Überresten einer anglonormannischen Erdhügelburg.",
-                  "category": "historical",
-                  "coords": [
-                        -7.783633,
-                        53.499514
-                  ]
-            },
-            {
-                  "name": "Noughaval Cemetery",
-                  "text": "Eine historische Friedhofsanlage mit archäologischer Bedeutung in Ballymore.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
-                  "name": "Kilkenny Castle",
-                  "text": "Kilkenny Castle, eine Burg in Ballymore Fort mit Blick auf die Umgebung.",
-                  "category": "castle",
-                  "coords": [
-                        -7.816875,
-                        53.489909
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "Eine Kirche in der Townland Tang, die das Gebiet bei Ballymore versorgt.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Dunnamona Motte",
-                  "text": "Régészeti lelőhely egy anglo-normann földvár maradványaival.",
-                  "category": "historical",
-                  "coords": [
-                        -7.783633,
-                        53.499514
-                  ]
-            },
-            {
-                  "name": "Noughaval Cemetery",
-                  "text": "Régészeti jelentőségű történelmi temető Ballymore területén.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
-                  "name": "Kilkenny Castle",
-                  "text": "Kilkenny Castle, egy vár Ballymore Fort-ban, kilátással a környékre.",
-                  "category": "castle",
-                  "coords": [
-                        -7.816875,
-                        53.489909
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "Templom Tang településrészen, a Ballymore melletti területet szolgálja ki.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Dunnamona Motte",
-                  "text": "Un sit arheologic cu rămășițele unei fortificații anglo-normande de tip motte-and-bailey.",
-                  "category": "historical",
-                  "coords": [
-                        -7.783633,
-                        53.499514
-                  ]
-            },
-            {
-                  "name": "Noughaval Cemetery",
-                  "text": "Un cimitir istoric cu semnificație arheologică în Ballymore.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
-                  "name": "Kilkenny Castle",
-                  "text": "Castelul Kilkenny, un castel în Ballymore Fort cu vedere asupra peisajului.",
-                  "category": "castle",
-                  "coords": [
-                        -7.816875,
-                        53.489909
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "O biserică situată în townlandul Tang, care deservește zona de lângă Ballymore.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Dunnamona Motte",
-                  "text": "An archaeological site featuring the remains of an Anglo-Norman motte-and-bailey castle.",
-                  "category": "historical",
-                  "coords": [
-                        -7.783633,
-                        53.499514
-                  ]
-            },
-            {
-                  "name": "Noughaval Cemetery",
-                  "text": "A historical cemetery site of archaeological significance in Ballymore.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
-                  "name": "Kilkenny Castle",
-                  "text": "Kilkenny Castle, a castle in Ballymore Fort overlooking the countryside.",
-                  "category": "castle",
-                  "coords": [
-                        -7.816875,
-                        53.489909
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "A church located in the townland of Tang, serving the area near Ballymore.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "landmark",
     parent: "IE",
@@ -3957,30 +3481,12 @@ export const irelandHistoryV2: POI[] = [
     id: "ireland-ballymore-monastery-history-v2", "sights": {
       "de": [
             {
-                  "name": "Dunnamona Motte",
-                  "text": "Die Überreste einer mittelalterlichen Erdhügelburg (Motte) in der Grafschaft Westmeath.",
-                  "category": "historical",
-                  "coords": [
-                        -7.783633,
-                        53.499514
-                  ]
-            },
-            {
                   "name": "Noughaval Cemetery",
                   "text": "Eine alte Friedhofsanlage mit historischen Grabsteinen und architektonischen Fragmenten.",
                   "category": "historical",
                   "coords": [
                         -7.778758,
                         53.524301
-                  ]
-            },
-            {
-                  "name": "Kilkenny Castle",
-                  "text": "Ein historisches Schlossgebäude in der Nähe des Gebiets des Ballymore-Klosters.",
-                  "category": "castle",
-                  "coords": [
-                        -7.816875,
-                        53.489909
                   ]
             },
             {
@@ -3995,30 +3501,12 @@ export const irelandHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Dunnamona Motte",
-                  "text": "Egy középkori földvár maradványai Westmeath megyében.",
-                  "category": "historical",
-                  "coords": [
-                        -7.783633,
-                        53.499514
-                  ]
-            },
-            {
                   "name": "Noughaval Cemetery",
                   "text": "Ősi temetőhely történelmi síremlékekkel és építészeti töredékekkel.",
                   "category": "historical",
                   "coords": [
                         -7.778758,
                         53.524301
-                  ]
-            },
-            {
-                  "name": "Kilkenny Castle",
-                  "text": "Történelmi várépítmény a Ballymore kolostor környékén.",
-                  "category": "castle",
-                  "coords": [
-                        -7.816875,
-                        53.489909
                   ]
             },
             {
@@ -4033,30 +3521,12 @@ export const irelandHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Dunnamona Motte",
-                  "text": "Rămășițele unui castel medieval de tip motte-and-bailey situat în comitatul Westmeath.",
-                  "category": "historical",
-                  "coords": [
-                        -7.783633,
-                        53.499514
-                  ]
-            },
-            {
                   "name": "Noughaval Cemetery",
                   "text": "Un sit de cimitir antic care conține marcaje funerare istorice și fragmente arhitecturale.",
                   "category": "historical",
                   "coords": [
                         -7.778758,
                         53.524301
-                  ]
-            },
-            {
-                  "name": "Kilkenny Castle",
-                  "text": "O structură de castel istoric situată în vecinătatea zonei Mănăstirii Ballymore.",
-                  "category": "castle",
-                  "coords": [
-                        -7.816875,
-                        53.489909
                   ]
             },
             {
@@ -4071,30 +3541,12 @@ export const irelandHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Dunnamona Motte",
-                  "text": "The remains of a medieval motte-and-bailey castle located in County Westmeath.",
-                  "category": "historical",
-                  "coords": [
-                        -7.783633,
-                        53.499514
-                  ]
-            },
-            {
                   "name": "Noughaval Cemetery",
                   "text": "An ancient cemetery site containing historic grave markers and architectural fragments.",
                   "category": "historical",
                   "coords": [
                         -7.778758,
                         53.524301
-                  ]
-            },
-            {
-                  "name": "Kilkenny Castle",
-                  "text": "A historic castle structure located in the vicinity of the Ballymore Monastery area.",
-                  "category": "castle",
-                  "coords": [
-                        -7.816875,
-                        53.489909
                   ]
             },
             {
@@ -4198,158 +3650,10 @@ export const irelandHistoryV2: POI[] = [
   },
   {
     id: "ireland-ballymore-church-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Dunnamona Motte",
-                  "text": "Eine archäologische Stätte in Ballymore mit den Überresten einer mittelalterlichen Erdburg.",
-                  "category": "historical",
-                  "coords": [
-                        -7.783633,
-                        53.499514
-                  ]
-            },
-            {
-                  "name": "Noughaval Cemetery",
-                  "text": "Ein historischer Friedhof bei Ballymore mit alten Grabstätten und Ruinen.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
-                  "name": "Kilkenny Castle",
-                  "text": "Eine Burganlage in der Region Ballymore mit historischer Bedeutung.",
-                  "category": "castle",
-                  "coords": [
-                        -7.816875,
-                        53.489909
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "Ein christliches Gotteshaus in Ballymore, das als lokaler religiöser Mittelpunkt dient.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Dunnamona Motte",
-                  "text": "Régészeti lelőhely Ballymore-ban, egy középkori földvár maradványaival.",
-                  "category": "historical",
-                  "coords": [
-                        -7.783633,
-                        53.499514
-                  ]
-            },
-            {
-                  "name": "Noughaval Cemetery",
-                  "text": "Történelmi temető Ballymore közelében, régi sírhelyekkel és romokkal.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
-                  "name": "Kilkenny Castle",
-                  "text": "Történelmi jelentőségű várépület Ballymore környékén.",
-                  "category": "castle",
-                  "coords": [
-                        -7.816875,
-                        53.489909
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "Keresztény templom Ballymore-ban, amely a helyi hitélet központja.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Dunnamona Motte",
-                  "text": "Un sit arheologic în Ballymore, cuprinzând resturile unei fortificații medievale de pământ.",
-                  "category": "historical",
-                  "coords": [
-                        -7.783633,
-                        53.499514
-                  ]
-            },
-            {
-                  "name": "Noughaval Cemetery",
-                  "text": "Un cimitir istoric lângă Ballymore, cu morminte vechi și ruine.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
-                  "name": "Kilkenny Castle",
-                  "text": "O structură de castel în regiunea Ballymore, având o importanță istorică.",
-                  "category": "castle",
-                  "coords": [
-                        -7.816875,
-                        53.489909
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "Un lăcaș de cult creștin în Ballymore, care servește ca centru religios local.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Dunnamona Motte",
-                  "text": "An archaeological site in Ballymore featuring the remains of a medieval motte fortification.",
-                  "category": "historical",
-                  "coords": [
-                        -7.783633,
-                        53.499514
-                  ]
-            },
-            {
-                  "name": "Noughaval Cemetery",
-                  "text": "A historic cemetery near Ballymore featuring old burial sites and ruins.",
-                  "category": "historical",
-                  "coords": [
-                        -7.778758,
-                        53.524301
-                  ]
-            },
-            {
-                  "name": "Kilkenny Castle",
-                  "text": "A castle structure in the Ballymore region with historical significance.",
-                  "category": "castle",
-                  "coords": [
-                        -7.816875,
-                        53.489909
-                  ]
-            },
-            {
-                  "name": "Tang Church",
-                  "text": "A Christian place of worship in Ballymore serving as a local religious center.",
-                  "category": "religious",
-                  "coords": [
-                        -7.793016,
-                        53.529024
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "church",
     parent: "IE",
@@ -4659,15 +3963,6 @@ export const irelandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. John's",
-                  "text": "Ein lokales christliches Gotteshaus in der Nähe von Kilcash Castle für die Gemeinde.",
-                  "category": "religious",
-                  "coords": [
-                        -7.539744,
-                        52.403961
-                  ]
-            },
-            {
                   "name": "St. Mary's Church",
                   "text": "Eine der Jungfrau Maria gewidmete Kirche, die als geistliches Zentrum für die Region um Kilcash dient.",
                   "category": "religious",
@@ -4712,15 +4007,6 @@ export const irelandHistoryV2: POI[] = [
                   "coords": [
                         -7.524389,
                         52.387986
-                  ]
-            },
-            {
-                  "name": "St. John's",
-                  "text": "Helyi keresztény istentiszteleti hely a Kilcash-vár közelében a közösség számára.",
-                  "category": "religious",
-                  "coords": [
-                        -7.539744,
-                        52.403961
                   ]
             },
             {
@@ -4771,15 +4057,6 @@ export const irelandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. John's",
-                  "text": "Un lăcaș de cult creștin local, situat în apropierea Castelului Kilcash, pentru comunitate.",
-                  "category": "religious",
-                  "coords": [
-                        -7.539744,
-                        52.403961
-                  ]
-            },
-            {
                   "name": "St. Mary's Church",
                   "text": "O biserică dedicată Fecioarei Maria, care servește ca centru spiritual pentru zona Kilcash.",
                   "category": "religious",
@@ -4824,15 +4101,6 @@ export const irelandHistoryV2: POI[] = [
                   "coords": [
                         -7.524389,
                         52.387986
-                  ]
-            },
-            {
-                  "name": "St. John's",
-                  "text": "A local Christian place of worship located near Kilcash Castle for the community.",
-                  "category": "religious",
-                  "coords": [
-                        -7.539744,
-                        52.403961
                   ]
             },
             {

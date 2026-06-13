@@ -33,33 +33,6 @@ export const estoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tundmatu sõduri monument",
-                  "text": "Ein Denkmal zu Ehren des unbekannten Soldaten in Sillamäe.",
-                  "category": "historical",
-                  "coords": [
-                        27.774024,
-                        59.39244
-                  ]
-            },
-            {
-                  "name": "EMK Sillamäe Kogudus",
-                  "text": "Das Gotteshaus der methodistischen Gemeinde in Sillamäe.",
-                  "category": "religious",
-                  "coords": [
-                        27.770642,
-                        59.397061
-                  ]
-            },
-            {
-                  "name": "Eesti Täisevangeelse Kiriku Sillamäe Jumala Sõna Kogudus",
-                  "text": "Eine christliche Kirche der evangelikalen Gemeinde in Sillamäe.",
-                  "category": "religious",
-                  "coords": [
-                        27.769277,
-                        59.395347
-                  ]
-            },
-            {
                   "name": "Sillamäe Püha Adalberti ja Püha Georgiuse kirik",
                   "text": "Eine katholische Kirche in Sillamäe, die den Heiligen Adalbert und Georg geweiht ist.",
                   "category": "religious",
@@ -104,33 +77,6 @@ export const estoniaEconomicV2: POI[] = [
                   "coords": [
                         27.760801,
                         59.398995
-                  ]
-            },
-            {
-                  "name": "Tundmatu sõduri monument",
-                  "text": "Az ismeretlen katona tiszteletére emelt emlékmű Sillamäeben.",
-                  "category": "historical",
-                  "coords": [
-                        27.774024,
-                        59.39244
-                  ]
-            },
-            {
-                  "name": "EMK Sillamäe Kogudus",
-                  "text": "A sillamäei metodista gyülekezet imaháza.",
-                  "category": "religious",
-                  "coords": [
-                        27.770642,
-                        59.397061
-                  ]
-            },
-            {
-                  "name": "Eesti Täisevangeelse Kiriku Sillamäe Jumala Sõna Kogudus",
-                  "text": "Evangéliumi keresztény gyülekezet temploma Sillamäeben.",
-                  "category": "religious",
-                  "coords": [
-                        27.769277,
-                        59.395347
                   ]
             },
             {
@@ -181,33 +127,6 @@ export const estoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tundmatu sõduri monument",
-                  "text": "Un monument ridicat în onoarea soldatului necunoscut în Sillamäe.",
-                  "category": "historical",
-                  "coords": [
-                        27.774024,
-                        59.39244
-                  ]
-            },
-            {
-                  "name": "EMK Sillamäe Kogudus",
-                  "text": "Lăcașul de cult al comunității metodiste din Sillamäe.",
-                  "category": "religious",
-                  "coords": [
-                        27.770642,
-                        59.397061
-                  ]
-            },
-            {
-                  "name": "Eesti Täisevangeelse Kiriku Sillamäe Jumala Sõna Kogudus",
-                  "text": "O biserică creștină a comunității evanghelice din Sillamäe.",
-                  "category": "religious",
-                  "coords": [
-                        27.769277,
-                        59.395347
-                  ]
-            },
-            {
                   "name": "Sillamäe Püha Adalberti ja Püha Georgiuse kirik",
                   "text": "O biserică catolică din Sillamäe, dedicată Sfinților Adalbert și Gheorghe.",
                   "category": "religious",
@@ -252,33 +171,6 @@ export const estoniaEconomicV2: POI[] = [
                   "coords": [
                         27.760801,
                         59.398995
-                  ]
-            },
-            {
-                  "name": "Tundmatu sõduri monument",
-                  "text": "A monument dedicated to the unknown soldier in Sillamäe.",
-                  "category": "historical",
-                  "coords": [
-                        27.774024,
-                        59.39244
-                  ]
-            },
-            {
-                  "name": "EMK Sillamäe Kogudus",
-                  "text": "The house of worship for the Methodist congregation in Sillamäe.",
-                  "category": "religious",
-                  "coords": [
-                        27.770642,
-                        59.397061
-                  ]
-            },
-            {
-                  "name": "Eesti Täisevangeelse Kiriku Sillamäe Jumala Sõna Kogudus",
-                  "text": "A Christian church of the evangelical congregation in Sillamäe.",
-                  "category": "religious",
-                  "coords": [
-                        27.769277,
-                        59.395347
                   ]
             },
             {
@@ -465,15 +357,6 @@ export const estoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kabelikivi",
-                  "text": "Einer der größten Findlinge Estlands, der sich in der Nähe von Maardu befindet.",
-                  "category": "landmark",
-                  "coords": [
-                        24.948135,
-                        59.486929
-                  ]
-            },
-            {
                   "name": "Merekarp",
                   "text": "Eine markante lokale Attraktion und Sehenswürdigkeit im Gebiet von Maardu.",
                   "category": "landmark",
@@ -536,15 +419,6 @@ export const estoniaEconomicV2: POI[] = [
                   "coords": [
                         25.028792,
                         59.489531
-                  ]
-            },
-            {
-                  "name": "Kabelikivi",
-                  "text": "Észtország egyik legnagyobb vándorköve, amely Maardu közelében található.",
-                  "category": "landmark",
-                  "coords": [
-                        24.948135,
-                        59.486929
                   ]
             },
             {
@@ -613,15 +487,6 @@ export const estoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kabelikivi",
-                  "text": "Unul dintre cei mai mari bolovani erratici glaciari din Estonia, situat lângă Maardu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.948135,
-                        59.486929
-                  ]
-            },
-            {
                   "name": "Merekarp",
                   "text": "O atracție locală distinctivă și un punct de interes în zona Maardu.",
                   "category": "landmark",
@@ -684,15 +549,6 @@ export const estoniaEconomicV2: POI[] = [
                   "coords": [
                         25.028792,
                         59.489531
-                  ]
-            },
-            {
-                  "name": "Kabelikivi",
-                  "text": "One of Estonia's largest glacial erratic boulders, located near Maardu.",
-                  "category": "landmark",
-                  "coords": [
-                        24.948135,
-                        59.486929
                   ]
             },
             {
@@ -1347,15 +1203,6 @@ export const estoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Paldiski Põhjasadama läänemuuli tulepaak",
-                  "text": "Ein Leuchtfeuer an der Westmole des Nordhafens von Paldiski zur Orientierung der Schiffe.",
-                  "category": "landmark",
-                  "coords": [
-                        24.047567,
-                        59.349783
-                  ]
-            },
-            {
                   "name": "Paldiski Lõunasadama sihi alumine tulepaak",
                   "text": "Ein vorderes Richtfeuer im Südhafen von Paldiski zur sicheren Hafeneinfahrt.",
                   "category": "landmark",
@@ -1365,48 +1212,12 @@ export const estoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Paldiski Põhjasadama kai nr 1 tulepaak",
-                  "text": "Ein Leuchtfeuer am Kai Nr. 1 des Nordhafens von Paldiski zur Markierung der Anlegestelle.",
-                  "category": "landmark",
-                  "coords": [
-                        24.050903,
-                        59.348234
-                  ]
-            },
-            {
                   "name": "Paldiski Lõunasadama sihi ülemine tulepaak",
                   "text": "Das obere Richtfeuer für den Südhafen von Paldiski, das Schiffen den richtigen Kurs weist.",
                   "category": "landmark",
                   "coords": [
                         24.098297,
                         59.331937
-                  ]
-            },
-            {
-                  "name": "Paldiski Lõunasadama naftakai tulepaak",
-                  "text": "Ein spezielles Leuchtfeuer am Ölterminal des Südhafens von Paldiski.",
-                  "category": "landmark",
-                  "coords": [
-                        24.079406,
-                        59.33137
-                  ]
-            },
-            {
-                  "name": "Paldiski Põhjasadama lainemurdja tulepaak",
-                  "text": "Ein Leuchtfeuer auf dem Wellenbrecher des Nordhafens von Paldiski zur Warnung vor Hindernissen.",
-                  "category": "landmark",
-                  "coords": [
-                        24.036933,
-                        59.353983
-                  ]
-            },
-            {
-                  "name": "Paldiski Lõunasadama tulepaak",
-                  "text": "Ein allgemeines Navigationsfeuer im Bereich des Südhafens von Paldiski.",
-                  "category": "landmark",
-                  "coords": [
-                        24.073117,
-                        59.3375
                   ]
             }
       ],
@@ -1421,15 +1232,6 @@ export const estoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Paldiski Põhjasadama läänemuuli tulepaak",
-                  "text": "Fényjelző Paldiski északi kikötőjének nyugati mólóján a hajók tájékozódásához.",
-                  "category": "landmark",
-                  "coords": [
-                        24.047567,
-                        59.349783
-                  ]
-            },
-            {
                   "name": "Paldiski Lõunasadama sihi alumine tulepaak",
                   "text": "Elülső irányfény Paldiski déli kikötőjében a biztonságos kikötőbe jutáshoz.",
                   "category": "landmark",
@@ -1439,48 +1241,12 @@ export const estoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Paldiski Põhjasadama kai nr 1 tulepaak",
-                  "text": "Fényjelző Paldiski északi kikötőjének 1-es számú rakpartján a kikötőhely jelzésére.",
-                  "category": "landmark",
-                  "coords": [
-                        24.050903,
-                        59.348234
-                  ]
-            },
-            {
                   "name": "Paldiski Lõunasadama sihi ülemine tulepaak",
                   "text": "Felső irányfény Paldiski déli kikötőjéhez, amely a hajóknak a helyes irányt mutatja.",
                   "category": "landmark",
                   "coords": [
                         24.098297,
                         59.331937
-                  ]
-            },
-            {
-                  "name": "Paldiski Lõunasadama naftakai tulepaak",
-                  "text": "Speciális fényjelző Paldiski déli kikötőjének olajtermináljánál.",
-                  "category": "landmark",
-                  "coords": [
-                        24.079406,
-                        59.33137
-                  ]
-            },
-            {
-                  "name": "Paldiski Põhjasadama lainemurdja tulepaak",
-                  "text": "Fényjelző Paldiski északi kikötőjének hullámtörőjén az akadályokra való figyelmeztetéshez.",
-                  "category": "landmark",
-                  "coords": [
-                        24.036933,
-                        59.353983
-                  ]
-            },
-            {
-                  "name": "Paldiski Lõunasadama tulepaak",
-                  "text": "Általános navigációs fényjelző Paldiski déli kikötőjének körzetében.",
-                  "category": "landmark",
-                  "coords": [
-                        24.073117,
-                        59.3375
                   ]
             }
       ],
@@ -1495,15 +1261,6 @@ export const estoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Paldiski Põhjasadama läänemuuli tulepaak",
-                  "text": "Un far pe digul de vest al portului de nord din Paldiski pentru orientarea navelor.",
-                  "category": "landmark",
-                  "coords": [
-                        24.047567,
-                        59.349783
-                  ]
-            },
-            {
                   "name": "Paldiski Lõunasadama sihi alumine tulepaak",
                   "text": "Un far de direcție anterior în portul de sud din Paldiski pentru intrarea în siguranță în port.",
                   "category": "landmark",
@@ -1513,48 +1270,12 @@ export const estoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Paldiski Põhjasadama kai nr 1 tulepaak",
-                  "text": "Un far pe cheiul nr. 1 al portului de nord din Paldiski pentru marcarea danei.",
-                  "category": "landmark",
-                  "coords": [
-                        24.050903,
-                        59.348234
-                  ]
-            },
-            {
                   "name": "Paldiski Lõunasadama sihi ülemine tulepaak",
                   "text": "Farul de direcție superior pentru portul de sud din Paldiski, care indică cursul corect navelor.",
                   "category": "landmark",
                   "coords": [
                         24.098297,
                         59.331937
-                  ]
-            },
-            {
-                  "name": "Paldiski Lõunasadama naftakai tulepaak",
-                  "text": "Un far special la terminalul petrolier din portul de sud al orașului Paldiski.",
-                  "category": "landmark",
-                  "coords": [
-                        24.079406,
-                        59.33137
-                  ]
-            },
-            {
-                  "name": "Paldiski Põhjasadama lainemurdja tulepaak",
-                  "text": "Un far pe spărgătorul de valuri al portului de nord din Paldiski pentru avertizarea asupra obstacolelor.",
-                  "category": "landmark",
-                  "coords": [
-                        24.036933,
-                        59.353983
-                  ]
-            },
-            {
-                  "name": "Paldiski Lõunasadama tulepaak",
-                  "text": "Un far de navigație general în zona portului de sud din Paldiski.",
-                  "category": "landmark",
-                  "coords": [
-                        24.073117,
-                        59.3375
                   ]
             }
       ],
@@ -1569,15 +1290,6 @@ export const estoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Paldiski Põhjasadama läänemuuli tulepaak",
-                  "text": "A light beacon on the western mole of Paldiski's north harbor for ship guidance.",
-                  "category": "landmark",
-                  "coords": [
-                        24.047567,
-                        59.349783
-                  ]
-            },
-            {
                   "name": "Paldiski Lõunasadam ldg.l. front light beacon",
                   "text": "A front leading light beacon in Paldiski's south harbor for safe port entry.",
                   "category": "landmark",
@@ -1587,48 +1299,12 @@ export const estoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Paldiski Põhjasadam quay No 1 light beacon",
-                  "text": "A light beacon on quay No. 1 of Paldiski's north harbor for marking the berth.",
-                  "category": "landmark",
-                  "coords": [
-                        24.050903,
-                        59.348234
-                  ]
-            },
-            {
                   "name": "Paldiski Lõunasadama sihi ülemine tulepaak",
                   "text": "The upper leading light beacon for Paldiski's south harbor, showing ships the correct course.",
                   "category": "landmark",
                   "coords": [
                         24.098297,
                         59.331937
-                  ]
-            },
-            {
-                  "name": "Paldiski Lõunasadama naftakai tulepaak",
-                  "text": "A special light beacon at the oil terminal of Paldiski's south harbor.",
-                  "category": "landmark",
-                  "coords": [
-                        24.079406,
-                        59.33137
-                  ]
-            },
-            {
-                  "name": "Paldiski Põhjasadama lainemurdja tulepaak",
-                  "text": "A light beacon on the breakwater of Paldiski's north harbor to warn of obstacles.",
-                  "category": "landmark",
-                  "coords": [
-                        24.036933,
-                        59.353983
-                  ]
-            },
-            {
-                  "name": "Paldiski Lõunasadama tulepaak",
-                  "text": "A general navigation light beacon in the area of Paldiski's south harbor.",
-                  "category": "landmark",
-                  "coords": [
-                        24.073117,
-                        59.3375
                   ]
             }
       ]
@@ -1743,30 +1419,12 @@ export const estoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rehbinderi maja",
-                  "text": "Eine Adelsresidenz in Rakvere, die heute als Museum für lokale Geschichte und Kunst dient.",
-                  "category": "museum",
-                  "coords": [
-                        26.354169,
-                        59.350727
-                  ]
-            },
-            {
                   "name": "Rakvere linnakodaniku majamuuseum",
                   "text": "Dieses Museum veranschaulicht das tägliche Leben und die traditionellen Einrichtungsstile der Bürger von Rakvere.",
                   "category": "museum",
                   "coords": [
                         26.354928,
                         59.344786
-                  ]
-            },
-            {
-                  "name": "Rakvere teater",
-                  "text": "Ein professionelles Theater in Rakvere, das ein breites Spektrum an Aufführungen bietet.",
-                  "category": "cultural",
-                  "coords": [
-                        26.349806,
-                        59.350192
                   ]
             },
             {
@@ -1808,30 +1466,12 @@ export const estoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rehbinderi maja",
-                  "text": "Nemesi rezidencia Rakverében, amely ma helytörténeti és művészeti múzeumnak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        26.354169,
-                        59.350727
-                  ]
-            },
-            {
                   "name": "Rakvere linnakodaniku majamuuseum",
                   "text": "Ez a múzeum a rakverei polgárok mindennapi életét és hagyományos lakberendezési stílusait mutatja be.",
                   "category": "museum",
                   "coords": [
                         26.354928,
                         59.344786
-                  ]
-            },
-            {
-                  "name": "Rakvere teater",
-                  "text": "Rakverei profi színház, amely előadások és kulturális események széles választékát kínálja.",
-                  "category": "cultural",
-                  "coords": [
-                        26.349806,
-                        59.350192
                   ]
             },
             {
@@ -1873,30 +1513,12 @@ export const estoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rehbinderi maja",
-                  "text": "O reședință nobiliară din Rakvere, care servește acum ca muzeu de istorie locală și artă.",
-                  "category": "museum",
-                  "coords": [
-                        26.354169,
-                        59.350727
-                  ]
-            },
-            {
                   "name": "Rakvere linnakodaniku majamuuseum",
                   "text": "Acest muzeu ilustrează viața de zi cu zi și stilurile interioare tradiționale ale cetățenilor din Rakvere.",
                   "category": "museum",
                   "coords": [
                         26.354928,
                         59.344786
-                  ]
-            },
-            {
-                  "name": "Rakvere teater",
-                  "text": "Un teatru profesionist din Rakvere care oferă o gamă largă de spectacole.",
-                  "category": "cultural",
-                  "coords": [
-                        26.349806,
-                        59.350192
                   ]
             },
             {
@@ -1938,30 +1560,12 @@ export const estoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rehbinder's House",
-                  "text": "A noble residence in Rakvere that now serves as a museum for local history and art.",
-                  "category": "museum",
-                  "coords": [
-                        26.354169,
-                        59.350727
-                  ]
-            },
-            {
                   "name": "Rakvere Citizen's Home Museum",
                   "text": "This museum illustrates the daily life and traditional interior styles of Rakvere citizens.",
                   "category": "museum",
                   "coords": [
                         26.354928,
                         59.344786
-                  ]
-            },
-            {
-                  "name": "Rakvere teater",
-                  "text": "A professional theatre in Rakvere offering a wide range of performances and cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        26.349806,
-                        59.350192
                   ]
             },
             {
@@ -2166,15 +1770,6 @@ export const estoniaEconomicV2: POI[] = [
     id: "estonia-muuga-terminal-v2", "sights": {
       "de": [
             {
-                  "name": "Muuga söeterminali kanali tulepaak",
-                  "text": "Ein Leuchtfeuer am Kohleterminal des Hafens von Muuga.",
-                  "category": "landmark",
-                  "coords": [
-                        24.999433,
-                        59.503483
-                  ]
-            },
-            {
                   "name": "Kabelikivi",
                   "text": "Kabelikivi ist ein großer Findling im Dorf Muuga.",
                   "category": "landmark",
@@ -2221,15 +1816,6 @@ export const estoniaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Muuga söeterminali kanali tulepaak",
-                  "text": "Egy jelzőfény a Muuga kikötő széntermináljánál.",
-                  "category": "landmark",
-                  "coords": [
-                        24.999433,
-                        59.503483
-                  ]
-            },
             {
                   "name": "Kabelikivi",
                   "text": "A Kabelikivi egy hatalmas vándorkő Muuga falu területén.",
@@ -2278,15 +1864,6 @@ export const estoniaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Muuga söeterminali kanali tulepaak",
-                  "text": "Un far situat la terminalul de cărbune al portului Muuga.",
-                  "category": "landmark",
-                  "coords": [
-                        24.999433,
-                        59.503483
-                  ]
-            },
-            {
                   "name": "Kabelikivi",
                   "text": "Kabelikivi este un bolovan erratic de mari dimensiuni situat în satul Muuga.",
                   "category": "landmark",
@@ -2333,15 +1910,6 @@ export const estoniaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Muuga söeterminali kanali tulepaak",
-                  "text": "A lighthouse beacon located at the Muuga Port coal terminal.",
-                  "category": "landmark",
-                  "coords": [
-                        24.999433,
-                        59.503483
-                  ]
-            },
             {
                   "name": "Kabelikivi",
                   "text": "Kabelikivi is a large erratic boulder located in Muuga village.",

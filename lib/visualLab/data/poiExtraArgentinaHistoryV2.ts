@@ -8089,15 +8089,6 @@ image: "/poi-images/ar-cayasta-ruins-history-v2.webp",
                   ]
             },
             {
-                  "name": "Cubo Blanco Móvil",
-                  "text": "Ein mobiler Kunst- oder Ausstellungsraum, der als einzigartiges Museum in der historischen Gegend von Shincal fungiert.",
-                  "category": "museum",
-                  "coords": [
-                        -67.026988,
-                        -27.653118
-                  ]
-            },
-            {
                   "name": "Nuestra seňora de Belén",
                   "text": "Ein christliches Heiligtum, das Unserer Lieben Frau von Bethlehem in der historischen Region Quimivil gewidmet ist.",
                   "category": "landmark",
@@ -8124,15 +8115,6 @@ image: "/poi-images/ar-cayasta-ruins-history-v2.webp",
                   "coords": [
                         -67.03621,
                         -27.647185
-                  ]
-            },
-            {
-                  "name": "Cubo Blanco Móvil",
-                  "text": "Egy mobil művészeti vagy kiállítótér, amely egyedülálló múzeumként működik Shincal történelmi negyedében.",
-                  "category": "museum",
-                  "coords": [
-                        -67.026988,
-                        -27.653118
                   ]
             },
             {
@@ -8165,15 +8147,6 @@ image: "/poi-images/ar-cayasta-ruins-history-v2.webp",
                   ]
             },
             {
-                  "name": "Cubo Blanco Móvil",
-                  "text": "Un spațiu expozițional mobil care funcționează ca un muzeu inedit în zona istorică Shincal.",
-                  "category": "museum",
-                  "coords": [
-                        -67.026988,
-                        -27.653118
-                  ]
-            },
-            {
                   "name": "Nuestra seňora de Belén",
                   "text": "Un sanctuar creștin dedicat Maicii Domnului din Betleem în regiunea istorică Quimivil.",
                   "category": "landmark",
@@ -8200,15 +8173,6 @@ image: "/poi-images/ar-cayasta-ruins-history-v2.webp",
                   "coords": [
                         -67.03621,
                         -27.647185
-                  ]
-            },
-            {
-                  "name": "Cubo Blanco Móvil",
-                  "text": "A mobile art or exhibition space functioning as a unique museum in the historic Shincal area.",
-                  "category": "museum",
-                  "coords": [
-                        -67.026988,
-                        -27.653118
                   ]
             },
             {
@@ -10478,51 +10442,6 @@ image: "/poi-images/ar-fuerte-patagones-history-v2.webp",
     id: "ar-palacio-san-jose-history-v2", "sights": {
       "de": [
             {
-                  "name": "Monumento a San Martin",
-                  "text": "Ein Denkmal zu Ehren von General José de San Martín in der Gegend von Concepción del Uruguay.",
-                  "category": "historical",
-                  "coords": [
-                        -58.234224,
-                        -32.480195
-                  ]
-            },
-            {
-                  "name": "Pirámide del Pronunciamiento",
-                  "text": "Ein Gedenkdenkmal, das Urquizas Pronunciamiento von 1851 gegen Rosas in Concepción del Uruguay markiert.",
-                  "category": "historical",
-                  "coords": [
-                        -58.232121,
-                        -32.484657
-                  ]
-            },
-            {
-                  "name": "Basílica Inmaculada Concepción",
-                  "text": "Eine Basilica minor in Concepción del Uruguay, die das Mausoleum von General Justo José de Urquiza beherbergt.",
-                  "category": "religious",
-                  "coords": [
-                        -58.233032,
-                        -32.485132
-                  ]
-            },
-            {
-                  "name": "Fauna",
-                  "text": "Ein Kunstzentrum in Concepción del Uruguay, das lokale kulturelle Veranstaltungen und Ausstellungen beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        -58.225256,
-                        -32.479287
-                  ]
-            },
-            {
-                  "name": "Monumento a la Loba",
-                  "text": "Ein Denkmal mit einer Nachbildung der Kapitolinischen Wölfin in Concepción del Uruguay.",
-                  "category": "historical",
-                  "coords": [
-                        -58.226288,
-                        -32.476122
-                  ]
-            },
-            {
                   "name": "Paso Vera",
                   "text": "Ein natürlicher Sandstrand am Río Uruguay in der Nähe von Concepción del Uruguay, umgeben von dichter Vegetation.",
                   "category": "recreational",
@@ -10605,51 +10524,6 @@ image: "/poi-images/ar-fuerte-patagones-history-v2.webp",
             }
       ],
       "hu": [
-            {
-                  "name": "Monumento a San Martin",
-                  "text": "José de San Martín tábornok tiszteletére emelt emlékmű a Concepción del Uruguay területén.",
-                  "category": "historical",
-                  "coords": [
-                        -58.234224,
-                        -32.480195
-                  ]
-            },
-            {
-                  "name": "Pirámide del Pronunciamiento",
-                  "text": "Emlékmű Concepción del Uruguayban, amely Urquiza 1851-es Rosas elleni Pronunciamiento-ját jelöli.",
-                  "category": "historical",
-                  "coords": [
-                        -58.232121,
-                        -32.484657
-                  ]
-            },
-            {
-                  "name": "Basílica Inmaculada Concepción",
-                  "text": "Egy basilica minor minősítésű templom Concepción del Uruguayban, amely Justo José de Urquiza tábornok mauzóleumának ad otthont.",
-                  "category": "religious",
-                  "coords": [
-                        -58.233032,
-                        -32.485132
-                  ]
-            },
-            {
-                  "name": "Fauna",
-                  "text": "Művészeti központ Concepción del Uruguayban, amely helyi kulturális eseményeknek és kiállításoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -58.225256,
-                        -32.479287
-                  ]
-            },
-            {
-                  "name": "Monumento a la Loba",
-                  "text": "A Capitoliumi farkas másolatát ábrázoló emlékmű Concepción del Uruguayban.",
-                  "category": "historical",
-                  "coords": [
-                        -58.226288,
-                        -32.476122
-                  ]
-            },
             {
                   "name": "Paso Vera",
                   "text": "Természetes, sűrű növényzettel szegélyezett homokos strand az Uruguay folyón, Concepción del Uruguay közelében.",
@@ -10734,51 +10608,6 @@ image: "/poi-images/ar-fuerte-patagones-history-v2.webp",
       ],
       "ro": [
             {
-                  "name": "Monumento a San Martin",
-                  "text": "Un monument care îl onorează pe generalul José de San Martín în zona Concepción del Uruguay.",
-                  "category": "historical",
-                  "coords": [
-                        -58.234224,
-                        -32.480195
-                  ]
-            },
-            {
-                  "name": "Pirámide del Pronunciamiento",
-                  "text": "Un monument comemorativ care marchează Pronunciamiento-ul lui Urquiza din 1851 împotriva lui Rosas la Concepción del Uruguay.",
-                  "category": "historical",
-                  "coords": [
-                        -58.232121,
-                        -32.484657
-                  ]
-            },
-            {
-                  "name": "Basílica Inmaculada Concepción",
-                  "text": "O basilică minoră din Concepción del Uruguay care adăpostește mausoleul generalului Justo José de Urquiza.",
-                  "category": "religious",
-                  "coords": [
-                        -58.233032,
-                        -32.485132
-                  ]
-            },
-            {
-                  "name": "Fauna",
-                  "text": "Un centru de arte din Concepción del Uruguay care găzduiește evenimente culturale și expoziții locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -58.225256,
-                        -32.479287
-                  ]
-            },
-            {
-                  "name": "Monumento a la Loba",
-                  "text": "Un monument cu o replică a Lupoaicei Capitoline în Concepción del Uruguay.",
-                  "category": "historical",
-                  "coords": [
-                        -58.226288,
-                        -32.476122
-                  ]
-            },
-            {
                   "name": "Paso Vera",
                   "text": "O plajă naturală de nisip pe râul Uruguay, lângă Concepción del Uruguay, mărginită de vegetație deasă.",
                   "category": "recreational",
@@ -10861,51 +10690,6 @@ image: "/poi-images/ar-fuerte-patagones-history-v2.webp",
             }
       ],
       "en": [
-            {
-                  "name": "Monumento a San Martin",
-                  "text": "A monument honoring General José de San Martín in the Concepción del Uruguay area.",
-                  "category": "historical",
-                  "coords": [
-                        -58.234224,
-                        -32.480195
-                  ]
-            },
-            {
-                  "name": "Pirámide del Pronunciamiento",
-                  "text": "A commemorative monument marking Urquiza's 1851 Pronunciamiento against Rosas in Concepción del Uruguay.",
-                  "category": "historical",
-                  "coords": [
-                        -58.232121,
-                        -32.484657
-                  ]
-            },
-            {
-                  "name": "Basílica Inmaculada Concepción",
-                  "text": "A minor basilica in Concepción del Uruguay that houses the mausoleum of General Justo José de Urquiza.",
-                  "category": "religious",
-                  "coords": [
-                        -58.233032,
-                        -32.485132
-                  ]
-            },
-            {
-                  "name": "Fauna",
-                  "text": "An arts center in Concepción del Uruguay hosting local cultural events and exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        -58.225256,
-                        -32.479287
-                  ]
-            },
-            {
-                  "name": "Monumento a la Loba",
-                  "text": "A monument featuring a replica of the Capitoline Wolf in Concepción del Uruguay.",
-                  "category": "historical",
-                  "coords": [
-                        -58.226288,
-                        -32.476122
-                  ]
-            },
             {
                   "name": "Paso Vera",
                   "text": "A natural sandy beach on the Uruguay River near Concepción del Uruguay, backed by dense vegetation.",

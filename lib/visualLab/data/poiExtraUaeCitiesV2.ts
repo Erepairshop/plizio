@@ -2724,15 +2724,6 @@ export const poiExtraUaeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Ain Sheikh Zayed Palace Museum",
-                  "text": "Al Ain Sheikh Zayed Palastmuseum, ehemalige Residenz von Scheich Zayed, heute Museum über das königliche Leben.",
-                  "category": "castle",
-                  "coords": [
-                        55.760892,
-                        24.214959
-                  ]
-            },
-            {
                   "name": "AAN2564",
                   "text": "AAN2564, eine natürliche Stätte in der felsigen Wüstenlandschaft von Al Ain.",
                   "category": "natural",
@@ -2760,39 +2751,12 @@ export const poiExtraUaeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "In Touch with Nature",
-                  "text": "In Touch with Nature, ein Umweltbildungs-Landmark in Al Ain mit interaktiven Ausstellungen.",
-                  "category": "landmark",
-                  "coords": [
-                        55.740123,
-                        24.180994
-                  ]
-            },
-            {
-                  "name": "Mubarak bin London Exhibition",
-                  "text": "Mubarak bin London Ausstellung, ein Museum in Al Ain, das dem Leben und Werk von Mubarak bin London gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        55.752229,
-                        24.216462
-                  ]
-            },
-            {
                   "name": "Al Ain Oasis",
                   "text": "Al Ain Oase, eine historische Palmenoase mit einem antiken Falaj-Bewässerungssystem.",
                   "category": "landmark",
                   "coords": [
                         55.769508,
                         24.214742
-                  ]
-            },
-            {
-                  "name": "Viewing Platform",
-                  "text": "Aussichtsplattform in Al Ain mit Panoramablick über die Wüstenlandschaft.",
-                  "category": "natural",
-                  "coords": [
-                        55.750394,
-                        24.175094
                   ]
             }
       ],
@@ -2804,15 +2768,6 @@ export const poiExtraUaeCitiesV2: POI[] = [
                   "coords": [
                         55.733765,
                         24.173282
-                  ]
-            },
-            {
-                  "name": "Al Ain Sheikh Zayed Palace Museum",
-                  "text": "Al Ain Sheikh Zayed Palotamúzeum, Sejk Zayed egykori rezidenciája, ma a királyi élet múzeuma.",
-                  "category": "castle",
-                  "coords": [
-                        55.760892,
-                        24.214959
                   ]
             },
             {
@@ -2843,39 +2798,12 @@ export const poiExtraUaeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "In Touch with Nature",
-                  "text": "In Touch with Nature, egy környezeti nevelési látványosság Al Ainban interaktív kiállításokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        55.740123,
-                        24.180994
-                  ]
-            },
-            {
-                  "name": "Mubarak bin London Exhibition",
-                  "text": "Mubarak bin London Kiállítás, egy múzeum Al Ainban, amely Mubarak bin London életének és munkásságának szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        55.752229,
-                        24.216462
-                  ]
-            },
-            {
                   "name": "Al Ain Oasis",
                   "text": "Al Ain Oázis, egy történelmi pálmaoázis ősi falaj öntözőrendszerrel.",
                   "category": "landmark",
                   "coords": [
                         55.769508,
                         24.214742
-                  ]
-            },
-            {
-                  "name": "Viewing Platform",
-                  "text": "Kilátóplatform Al Ainban, panorámás kilátással a sivatagi tájra.",
-                  "category": "natural",
-                  "coords": [
-                        55.750394,
-                        24.175094
                   ]
             }
       ],
@@ -2887,15 +2815,6 @@ export const poiExtraUaeCitiesV2: POI[] = [
                   "coords": [
                         55.733765,
                         24.173282
-                  ]
-            },
-            {
-                  "name": "Al Ain Sheikh Zayed Palace Museum",
-                  "text": "Muzeul Palatului Al Ain Sheikh Zayed, fosta reședință a șeicului Zayed, acum muzeu al vieții regale.",
-                  "category": "castle",
-                  "coords": [
-                        55.760892,
-                        24.214959
                   ]
             },
             {
@@ -2926,39 +2845,12 @@ export const poiExtraUaeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "In Touch with Nature",
-                  "text": "In Touch with Nature, un reper educațional în Al Ain cu exponate interactive despre natură.",
-                  "category": "landmark",
-                  "coords": [
-                        55.740123,
-                        24.180994
-                  ]
-            },
-            {
-                  "name": "Mubarak bin London Exhibition",
-                  "text": "Expoziția Mubarak bin London, un muzeu în Al Ain dedicat vieții și operei lui Mubarak bin London.",
-                  "category": "museum",
-                  "coords": [
-                        55.752229,
-                        24.216462
-                  ]
-            },
-            {
                   "name": "Al Ain Oasis",
                   "text": "Oaza Al Ain, o oază istorică de palmieri cu un sistem antic de irigație falaj.",
                   "category": "landmark",
                   "coords": [
                         55.769508,
                         24.214742
-                  ]
-            },
-            {
-                  "name": "Viewing Platform",
-                  "text": "Platformă de observație în Al Ain, cu vedere panoramică asupra peisajului deșertic.",
-                  "category": "natural",
-                  "coords": [
-                        55.750394,
-                        24.175094
                   ]
             }
       ],
@@ -2970,15 +2862,6 @@ export const poiExtraUaeCitiesV2: POI[] = [
                   "coords": [
                         55.733765,
                         24.173282
-                  ]
-            },
-            {
-                  "name": "Al Ain Sheikh Zayed Palace Museum",
-                  "text": "Al Ain Sheikh Zayed Palace Museum, former residence of Sheikh Zayed, now a museum of royal life.",
-                  "category": "castle",
-                  "coords": [
-                        55.760892,
-                        24.214959
                   ]
             },
             {
@@ -3009,39 +2892,12 @@ export const poiExtraUaeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "In Touch with Nature",
-                  "text": "In Touch with Nature, an environmental education landmark in Al Ain with interactive exhibits.",
-                  "category": "landmark",
-                  "coords": [
-                        55.740123,
-                        24.180994
-                  ]
-            },
-            {
-                  "name": "Mubarak bin London Exhibition",
-                  "text": "Mubarak bin London Exhibition, a museum in Al Ain dedicated to the life and work of Mubarak bin London.",
-                  "category": "museum",
-                  "coords": [
-                        55.752229,
-                        24.216462
-                  ]
-            },
-            {
                   "name": "Al Ain Oasis",
                   "text": "Al Ain Oasis, a historic palm oasis with an ancient falaj irrigation system.",
                   "category": "landmark",
                   "coords": [
                         55.769508,
                         24.214742
-                  ]
-            },
-            {
-                  "name": "Viewing Platform",
-                  "text": "Viewing Platform in Al Ain offering panoramic views of the desert landscape.",
-                  "category": "natural",
-                  "coords": [
-                        55.750394,
-                        24.175094
                   ]
             }
       ]
@@ -3934,15 +3790,6 @@ export const poiExtraUaeCitiesV2: POI[] = [
                         56.326718,
                         25.34696
                   ]
-            },
-            {
-                  "name": "Resistance Monument",
-                  "text": "Ein Denkmal in Khor Fakkan, das an den lokalen Widerstand erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        56.340602,
-                        25.320678
-                  ]
             }
       ],
       "hu": [
@@ -3953,15 +3800,6 @@ export const poiExtraUaeCitiesV2: POI[] = [
                   "coords": [
                         56.326718,
                         25.34696
-                  ]
-            },
-            {
-                  "name": "Resistance Monument",
-                  "text": "A helyi ellenállásnak emléket állító emlékmű Khor Fakkanban.",
-                  "category": "historical",
-                  "coords": [
-                        56.340602,
-                        25.320678
                   ]
             }
       ],
@@ -3974,15 +3812,6 @@ export const poiExtraUaeCitiesV2: POI[] = [
                         56.326718,
                         25.34696
                   ]
-            },
-            {
-                  "name": "Resistance Monument",
-                  "text": "Un monument în Khor Fakkan care comemorează rezistența locală.",
-                  "category": "historical",
-                  "coords": [
-                        56.340602,
-                        25.320678
-                  ]
             }
       ],
       "en": [
@@ -3993,15 +3822,6 @@ export const poiExtraUaeCitiesV2: POI[] = [
                   "coords": [
                         56.326718,
                         25.34696
-                  ]
-            },
-            {
-                  "name": "Resistance Monument",
-                  "text": "A monument in Khor Fakkan commemorating local resistance.",
-                  "category": "historical",
-                  "coords": [
-                        56.340602,
-                        25.320678
                   ]
             }
       ]
@@ -5037,24 +4857,6 @@ export const poiExtraUaeCitiesV2: POI[] = [
     id: "uae-dibba-al-fujairah-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Dibba Hisn Publlic Beach",
-                  "text": "Dieser öffentliche Strand in Dibba Al-Fujairah lockt mit seinem weiten Zugang zum Meer in den Vereinigten Arabischen Emiraten. Die entspannte lokale Atmosphäre macht ihn zu einem beliebten Treffpunkt für Familien und Spaziergänger. An warmen Abenden lässt sich hier der Sonnenuntergang wunderbar beobachten.",
-                  "category": "recreational",
-                  "coords": [
-                        56.273337,
-                        25.622652
-                  ]
-            },
-            {
-                  "name": "Dibba Hisn Public Beach+",
-                  "text": "Der erweiterte Strandbereich des Dibba Hisn Public Beach+ bietet zusätzliche Flächen für Erholungssuchende in Dibba Al-Fujairah. Gäste schätzen die offene Küstenlinie, die reichlich Platz für entspannte Stunden am Wasser bereithält. Besonders an Wochenenden füllt sich der Ort mit fröhlichem Leben.",
-                  "category": "recreational",
-                  "coords": [
-                        56.272263,
-                        25.624153
-                  ]
-            },
-            {
                   "name": "Dibba Theater",
                   "text": "Dibba Theater, eine Open-Air-Kulturstätte in Dibba Al Fujairah.",
                   "category": "cultural",
@@ -5065,24 +4867,6 @@ export const poiExtraUaeCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Dibba Hisn Publlic Beach",
-                  "text": "Ez a nyilvános strand Dibba Al-Fujairah városában tágas tengerparti hozzáférést kínál az Egyesült Arab Emírségekben. A laza helyi hangulat miatt népszerű találkozóhely családok és sétálni vágyók számára. A meleg estéken gyönyörűen megfigyelhető itt a naplemente.",
-                  "category": "recreational",
-                  "coords": [
-                        56.273337,
-                        25.622652
-                  ]
-            },
-            {
-                  "name": "Dibba Hisn Public Beach+",
-                  "text": "A Dibba Hisn Public Beach+ kibővített strandterülete további felületeket kínál a kikapcsolódni vágyóknak Dibba Al-Fujairah városában. A vendégek értékelik a nyitott partvonalat, amely bőséges helyet biztosít a vízparti pihenéshez. Különösen hétvégente telik meg a hely vidám élettel.",
-                  "category": "recreational",
-                  "coords": [
-                        56.272263,
-                        25.624153
-                  ]
-            },
             {
                   "name": "Dibba Theater",
                   "text": "Dibba Színház, egy szabadtéri kulturális helyszín Dibba Al Fujairah-ban.",
@@ -5095,24 +4879,6 @@ export const poiExtraUaeCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Dibba Hisn Publlic Beach",
-                  "text": "Această plajă publică din Dibba Al-Fujairah atrage cu accesul său larg la mare în Emiratele Arabe Unite. Atmosfera locală relaxată o face un punct de întâlnire popular pentru familii și plimbăreți. În serile calde, de aici se poate admira un apus de soare minunat.",
-                  "category": "recreational",
-                  "coords": [
-                        56.273337,
-                        25.622652
-                  ]
-            },
-            {
-                  "name": "Dibba Hisn Public Beach+",
-                  "text": "Zona de plajă extinsă de la Dibba Hisn Public Beach+ oferă spațiu suplimentar pentru cei care caută recreere în Dibba Al-Fujairah. Oaspeții apreciază linia de coastă deschisă, care oferă loc din plin pentru ore relaxante la malul apei. Mai ales în weekenduri, locul se umple de o viață veselă.",
-                  "category": "recreational",
-                  "coords": [
-                        56.272263,
-                        25.624153
-                  ]
-            },
-            {
                   "name": "Dibba Theater",
                   "text": "Teatrul Dibba, un loc cultural în aer liber în Dibba Al Fujairah.",
                   "category": "cultural",
@@ -5123,24 +4889,6 @@ export const poiExtraUaeCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Dibba Hisn Publlic Beach",
-                  "text": "This public beach in Dibba Al-Fujairah beckons with its broad access to the sea in the United Arab Emirates. The relaxed local atmosphere makes it a popular gathering place for families and walkers alike. On warm evenings, it is a wonderful spot to watch the sunset.",
-                  "category": "recreational",
-                  "coords": [
-                        56.273337,
-                        25.622652
-                  ]
-            },
-            {
-                  "name": "Dibba Hisn Public Beach+",
-                  "text": "The extended beach area of Dibba Hisn Public Beach+ provides additional space for recreation seekers in Dibba Al-Fujairah. Guests appreciate the open coastline, which offers plenty of room for relaxing hours by the water. The location fills with cheerful life, especially on weekends.",
-                  "category": "recreational",
-                  "coords": [
-                        56.272263,
-                        25.624153
-                  ]
-            },
             {
                   "name": "Dibba Theater",
                   "text": "Dibba Theater, an open-air cultural venue in Dibba Al Fujairah.",

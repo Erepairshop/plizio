@@ -1653,50 +1653,10 @@ export const poiExtraLibyaLifeV2: POI[] = [
   },
   {
     id: "ghat-oasis-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Gat Castle",
-                  "text": "Die Burg Gat ist eine alte historische Festung auf einem Hügel, die die traditionelle Sahara-Oasenstadt überblickt.",
-                  "category": "castle",
-                  "coords": [
-                        10.17707,
-                        24.964896
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Gat Castle",
-                  "text": "A Gat kastély egy ősi hegytetőn álló erődítmény, amely a hagyományos szaharai oázisvárosra néz.",
-                  "category": "castle",
-                  "coords": [
-                        10.17707,
-                        24.964896
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Gat Castle",
-                  "text": "Castelul Gat este o cetate antică situată pe un deal, cu vedere spre orașul tradițional de oază din Sahara.",
-                  "category": "castle",
-                  "coords": [
-                        10.17707,
-                        24.964896
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Gat Castle",
-                  "text": "Gat Castle is an ancient hilltop fortress that overlooks the traditional Saharan oasis town.",
-                  "category": "castle",
-                  "coords": [
-                        10.17707,
-                        24.964896
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "agriculture",
     parent: "LY-GT",
@@ -1738,15 +1698,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
     id: "zwara-green-belt-life-v2", "sights": {
       "de": [
             {
-                  "name": "Theatre Zuara",
-                  "text": "Das Theatre Zuara ist ein lokaler Kulturort für darstellende Künste in der libyschen Küstenstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        12.086329,
-                        32.933061
-                  ]
-            },
-            {
                   "name": "Zauara Beach",
                   "text": "Der Zauara Beach ist ein weitläufiger Sandstrand an der Mittelmeerküste nahe Zuara.",
                   "category": "recreational",
@@ -1754,27 +1705,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
                         12.054497,
                         32.954519
                   ]
-            },
-            {
-                  "name": "Zuara Beach",
-                  "text": "Dieser Strandabschnitt in Zuara lockt Besucher mit seinem feinen Sand an die libysche Mittelmeerküste.",
-                  "category": "recreational",
-                  "coords": [
-                        12.072606,
-                        32.945046
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Theatre Zuara",
-                  "text": "A Theatre Zuara a líbiai tengerparti város egyik fontos kulturális intézménye az előadó-művészetek számára.",
-                  "category": "cultural",
-                  "coords": [
-                        12.086329,
-                        32.933061
-                  ]
-            },
             {
                   "name": "Zauara Beach",
                   "text": "A Zauara Beach egy tágas homokos strand Zuara közelében, a Földközi-tenger partján.",
@@ -1783,27 +1716,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
                         12.054497,
                         32.954519
                   ]
-            },
-            {
-                  "name": "Zuara Beach",
-                  "text": "Ez a zuarai partszakasz finom homokkal vonzza a tengerpart szerelmeseit a líbiai Földközi-tengerhez.",
-                  "category": "recreational",
-                  "coords": [
-                        12.072606,
-                        32.945046
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Theatre Zuara",
-                  "text": "Theatre Zuara este un spațiu cultural dedicat artelor spectacolului din orașul de coastă.",
-                  "category": "cultural",
-                  "coords": [
-                        12.086329,
-                        32.933061
-                  ]
-            },
             {
                   "name": "Zauara Beach",
                   "text": "Zauara Beach este o plajă largă cu nisip situată pe coasta mediteraneană de lângă Zuara.",
@@ -1812,27 +1727,9 @@ export const poiExtraLibyaLifeV2: POI[] = [
                         12.054497,
                         32.954519
                   ]
-            },
-            {
-                  "name": "Zuara Beach",
-                  "text": "Această plajă din Zuara atrage vizitatorii cu nisipul său fin de pe coasta libiană a Mării Mediterane.",
-                  "category": "recreational",
-                  "coords": [
-                        12.072606,
-                        32.945046
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Theatre Zuara",
-                  "text": "Theatre Zuara serves as a local venue for performing arts and cultural events in the coastal city.",
-                  "category": "cultural",
-                  "coords": [
-                        12.086329,
-                        32.933061
-                  ]
-            },
             {
                   "name": "Zauara Beach",
                   "text": "Zauara Beach is a sweeping sandy beach located on the Mediterranean coast near Zuara.",
@@ -1840,15 +1737,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
                   "coords": [
                         12.054497,
                         32.954519
-                  ]
-            },
-            {
-                  "name": "Zuara Beach",
-                  "text": "This sandy beach in Zuara offers visitors a relaxing spot on the Libyan Mediterranean coast.",
-                  "category": "recreational",
-                  "coords": [
-                        12.072606,
-                        32.945046
                   ]
             }
       ]
@@ -1983,42 +1871,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
                         10.986645,
                         31.867206
                   ]
-            },
-            {
-                  "name": "sara3 al rahba-nalut",
-                  "text": "Sara3 al rahba-nalut ist eine traditionelle Sehenswürdigkeit, die in die markante Terrassenlandschaft von Nalut integriert ist.",
-                  "category": "landmark",
-                  "coords": [
-                        10.984886,
-                        31.867528
-                  ]
-            },
-            {
-                  "name": "Nalut museum",
-                  "text": "Das Nalut-Museum zeigt das kulturelle Erbe und die Artefakte der Berbergemeinschaften, die auf den Bergterrassen leben.",
-                  "category": "museum",
-                  "coords": [
-                        10.982636,
-                        31.864875
-                  ]
-            },
-            {
-                  "name": "dinosaurs museum",
-                  "text": "Das Dinosauriermuseum zeigt alte Fossilienfunde, die in den geologischen Formationen der Region Nalut gemacht wurden.",
-                  "category": "museum",
-                  "coords": [
-                        10.983196,
-                        31.862667
-                  ]
-            },
-            {
-                  "name": "Khalifa ben Asker",
-                  "text": "Das Theater Khalifa ben Asker in Nalut dient als lokaler Veranstaltungsort für kulturelle Aufführungen in der trockenen Region.",
-                  "category": "cultural",
-                  "coords": [
-                        10.988829,
-                        31.862304
-                  ]
             }
       ],
       "hu": [
@@ -2029,42 +1881,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
                   "coords": [
                         10.986645,
                         31.867206
-                  ]
-            },
-            {
-                  "name": "sara3 al rahba-nalut",
-                  "text": "A Sara3 al rahba-nalut egy hagyományos látványosság, amely Nalut jellegzetes teraszos tájába illeszkedik.",
-                  "category": "landmark",
-                  "coords": [
-                        10.984886,
-                        31.867528
-                  ]
-            },
-            {
-                  "name": "Nalut museum",
-                  "text": "A naluti múzeum a hegyi teraszokon élő berber közösségek kulturális örökségét és műtárgyait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        10.982636,
-                        31.864875
-                  ]
-            },
-            {
-                  "name": "dinosaurs museum",
-                  "text": "A dinoszaurusz múzeum a Nalut régió geológiai képződményeiben talált ősi fosszilis leleteket állítja ki.",
-                  "category": "museum",
-                  "coords": [
-                        10.983196,
-                        31.862667
-                  ]
-            },
-            {
-                  "name": "Khalifa ben Asker",
-                  "text": "A naluti Khalifa ben Asker színház kulturális események helyi központjaként szolgál a száraz régióban.",
-                  "category": "cultural",
-                  "coords": [
-                        10.988829,
-                        31.862304
                   ]
             }
       ],
@@ -2077,42 +1893,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
                         10.986645,
                         31.867206
                   ]
-            },
-            {
-                  "name": "sara3 al rahba-nalut",
-                  "text": "Sara3 al rahba-nalut este o atracție tradițională integrată în peisajul terasat distinctiv al orașului Nalut.",
-                  "category": "landmark",
-                  "coords": [
-                        10.984886,
-                        31.867528
-                  ]
-            },
-            {
-                  "name": "Nalut museum",
-                  "text": "Muzeul Nalut expune moștenirea culturală și artefactele comunităților berbere care trăiesc pe terasele muntoase.",
-                  "category": "museum",
-                  "coords": [
-                        10.982636,
-                        31.864875
-                  ]
-            },
-            {
-                  "name": "dinosaurs museum",
-                  "text": "Muzeul dinozaurilor expune descoperiri de fosile antice găsite în formațiunile geologice din regiunea Nalut.",
-                  "category": "museum",
-                  "coords": [
-                        10.983196,
-                        31.862667
-                  ]
-            },
-            {
-                  "name": "Khalifa ben Asker",
-                  "text": "Teatrul Khalifa ben Asker din Nalut servește ca locație locală pentru evenimente culturale în regiunea aridă.",
-                  "category": "cultural",
-                  "coords": [
-                        10.988829,
-                        31.862304
-                  ]
             }
       ],
       "en": [
@@ -2123,42 +1903,6 @@ export const poiExtraLibyaLifeV2: POI[] = [
                   "coords": [
                         10.986645,
                         31.867206
-                  ]
-            },
-            {
-                  "name": "sara3 al rahba-nalut",
-                  "text": "Sara3 al rahba-nalut is a traditional attraction integrated into the distinctive terraced landscape of Nalut.",
-                  "category": "landmark",
-                  "coords": [
-                        10.984886,
-                        31.867528
-                  ]
-            },
-            {
-                  "name": "Nalut museum",
-                  "text": "The Nalut museum displays the cultural heritage and artifacts of the Berber communities living on the mountain terraces.",
-                  "category": "museum",
-                  "coords": [
-                        10.982636,
-                        31.864875
-                  ]
-            },
-            {
-                  "name": "dinosaurs museum",
-                  "text": "The dinosaurs museum exhibits ancient fossil discoveries found within the geological formations of the Nalut region.",
-                  "category": "museum",
-                  "coords": [
-                        10.983196,
-                        31.862667
-                  ]
-            },
-            {
-                  "name": "Khalifa ben Asker",
-                  "text": "The Khalifa ben Asker theatre in Nalut serves as a local venue for cultural performances in the arid region.",
-                  "category": "cultural",
-                  "coords": [
-                        10.988829,
-                        31.862304
                   ]
             }
       ]

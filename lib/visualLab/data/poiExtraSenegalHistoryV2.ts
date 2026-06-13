@@ -1770,15 +1770,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mickey Land",
-                  "text": "Dieser lebhafte Themenpark bietet Familien in Thiès einen fröhlichen Erholungsraum mit verschiedenen Fahrgeschäften und Aktivitäten.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.92554,
-                        14.791908
-                  ]
-            },
-            {
                   "name": "Statue Lat DIOR DIOP",
                   "text": "Diese markante Statue erinnert an Lat Dior Diop, einen legendären senegalesischen Helden des 19. Jahrhunderts, der sich der Kolonialherrschaft widersetzte.",
                   "category": "historical",
@@ -1788,30 +1779,12 @@ export const poiExtraSenegalHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chez Baba Nd",
-                  "text": "Diese bemerkenswerte schlossartige Residenz ist ein einzigartiges architektonisches Wahrzeichen in der Gegend von Thiès.",
-                  "category": "castle",
-                  "coords": [
-                        -16.927564,
-                        14.771022
-                  ]
-            },
-            {
                   "name": "Forêt classée de Pout",
                   "text": "Dieser klassifizierte Wald in der Nähe von Thiès dient als geschützte Grünzone, die die lokale Artenvielfalt unterstützt.",
                   "category": "natural",
                   "coords": [
                         -16.995263,
                         14.831107
-                  ]
-            },
-            {
-                  "name": "Manufacture Sénégalaise Des Arts Décoratifs",
-                  "text": "Dieses bekannte Kunstzentrum in Thiès ist berühmt für die Herstellung exquisiter traditioneller senegalesischer Wandteppiche.",
-                  "category": "cultural",
-                  "coords": [
-                        -16.934534,
-                        14.79475
                   ]
             }
       ],
@@ -1835,15 +1808,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mickey Land",
-                  "text": "Ez a nyüzsgő vidámpark vidám kikapcsolódási teret biztosít különféle túrákkal és tevékenységekkel a thiès-i családok számára.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.92554,
-                        14.791908
-                  ]
-            },
-            {
                   "name": "Statue Lat DIOR DIOP",
                   "text": "Ez a feltűnő szobor Lat Dior Diopnak, a gyarmati uralomnak ellenálló, legendás 19. századi szenegáli hősnek állít emléket.",
                   "category": "historical",
@@ -1853,30 +1817,12 @@ export const poiExtraSenegalHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chez Baba Nd",
-                  "text": "Ez a figyelemre méltó kastélyszerű rezidencia egyedülálló építészeti nevezetesség Thiès környékén.",
-                  "category": "castle",
-                  "coords": [
-                        -16.927564,
-                        14.771022
-                  ]
-            },
-            {
                   "name": "Forêt classée de Pout",
                   "text": "Ez a Thiès melletti minősített erdő védett zöldövezetként szolgál, amely támogatja a helyi biodiverzitást.",
                   "category": "natural",
                   "coords": [
                         -16.995263,
                         14.831107
-                  ]
-            },
-            {
-                  "name": "Manufacture Sénégalaise Des Arts Décoratifs",
-                  "text": "Ez a kiemelkedő thiès-i művészeti központ kiváló hagyományos szenegáli kárpitok készítéséről híres.",
-                  "category": "cultural",
-                  "coords": [
-                        -16.934534,
-                        14.79475
                   ]
             }
       ],
@@ -1900,15 +1846,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mickey Land",
-                  "text": "Acest parc tematic vibrant oferă un spațiu de recreere plin de bucurie, cu diverse atracții și activități pentru familiile din Thiès.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.92554,
-                        14.791908
-                  ]
-            },
-            {
                   "name": "Statue Lat DIOR DIOP",
                   "text": "Această statuie frapantă îl comemorează pe Lat Dior Diop, un erou senegalez legendar din secolul al XIX-lea, care s-a opus dominației coloniale.",
                   "category": "historical",
@@ -1918,30 +1855,12 @@ export const poiExtraSenegalHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chez Baba Nd",
-                  "text": "Această reședință notabilă, asemănătoare unui castel, reprezintă un punct de reper arhitectural unic în zona Thiès.",
-                  "category": "castle",
-                  "coords": [
-                        -16.927564,
-                        14.771022
-                  ]
-            },
-            {
                   "name": "Forêt classée de Pout",
                   "text": "Această pădure clasată din apropiere de Thiès servește ca zonă verde protejată care susține biodiversitatea locală.",
                   "category": "natural",
                   "coords": [
                         -16.995263,
                         14.831107
-                  ]
-            },
-            {
-                  "name": "Manufacture Sénégalaise Des Arts Décoratifs",
-                  "text": "Acest centru de artă proeminent din Thiès este renumit pentru crearea de tapiserii tradiționale senegaleze rafinate.",
-                  "category": "cultural",
-                  "coords": [
-                        -16.934534,
-                        14.79475
                   ]
             }
       ],
@@ -1965,15 +1884,6 @@ export const poiExtraSenegalHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mickey Land",
-                  "text": "This vibrant theme park provides a joyful recreational space with various rides and activities for families in Thiès.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.92554,
-                        14.791908
-                  ]
-            },
-            {
                   "name": "Statue Lat DIOR DIOP",
                   "text": "This striking statue commemorates Lat Dior Diop, a legendary 19th-century Senegalese hero who resisted colonial rule.",
                   "category": "historical",
@@ -1983,30 +1893,12 @@ export const poiExtraSenegalHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chez Baba Nd",
-                  "text": "This notable castle-like residence stands as a unique architectural landmark in the Thiès area.",
-                  "category": "castle",
-                  "coords": [
-                        -16.927564,
-                        14.771022
-                  ]
-            },
-            {
                   "name": "Forêt classée de Pout",
                   "text": "This classified forest near Thiès serves as a protected green zone supporting local biodiversity.",
                   "category": "natural",
                   "coords": [
                         -16.995263,
                         14.831107
-                  ]
-            },
-            {
-                  "name": "Manufacture Sénégalaise Des Arts Décoratifs",
-                  "text": "This prominent arts centre in Thiès is renowned for creating exquisite traditional Senegalese tapestries.",
-                  "category": "cultural",
-                  "coords": [
-                        -16.934534,
-                        14.79475
                   ]
             }
       ]

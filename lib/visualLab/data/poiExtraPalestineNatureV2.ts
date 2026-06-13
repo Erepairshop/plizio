@@ -393,15 +393,6 @@ export const palestineNatureV2: POI[] = [
     id: "palestine-wadi-gaza-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Khirbat al-Adar",
-                  "text": "Diese antiken Ruinen am Ufer des Wadi Gaza zeigen Überreste von Fundamenten und Steinbauten.",
-                  "category": "historical",
-                  "coords": [
-                        34.435833,
-                        31.433333
-                  ]
-            },
-            {
                   "name": "Tel aš-Šallāf",
                   "text": "Ein kleiner archäologischer Siedlungshügel, in dem Keramikscherben und Spuren antiken Lebens gefunden wurden.",
                   "category": "historical",
@@ -457,15 +448,6 @@ export const palestineNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Khirbat al-Adar",
-                  "text": "Ezek az ókori romok a Vádi Gáza partján alapfalak és kőépítmények maradványait mutatják be.",
-                  "category": "historical",
-                  "coords": [
-                        34.435833,
-                        31.433333
-                  ]
-            },
             {
                   "name": "Tel aš-Šallāf",
                   "text": "Egy kisebb régészeti lakódomb, ahol cseréptöredékeket és az ókori élet nyomait tárták fel.",
@@ -523,15 +505,6 @@ export const palestineNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Khirbat al-Adar",
-                  "text": "Aceste ruine antice de pe malul Wadi Gaza prezintă rămășițe de fundații și structuri de piatră.",
-                  "category": "historical",
-                  "coords": [
-                        34.435833,
-                        31.433333
-                  ]
-            },
-            {
                   "name": "Tel aš-Šallāf",
                   "text": "Un mic tumul arheologic unde au fost găsite fragmente de ceramică și urme ale vieții antice.",
                   "category": "historical",
@@ -587,15 +560,6 @@ export const palestineNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Khirbat al-Adar",
-                  "text": "These ancient ruins on the banks of Wadi Gaza display remains of foundations and stone structures.",
-                  "category": "historical",
-                  "coords": [
-                        34.435833,
-                        31.433333
-                  ]
-            },
             {
                   "name": "Tel aš-Šallāf",
                   "text": "A small archaeological settlement mound where pottery shards and traces of ancient life have been found.",
@@ -3570,24 +3534,6 @@ export const palestineNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Abu Abdullah Al-Aidy",
-                  "text": "Abu Abdullah Al-Aidy ist ein bemerkenswertes Schloss an der Küste von Gaza.",
-                  "category": "castle",
-                  "coords": [
-                        34.377113,
-                        31.423441
-                  ]
-            },
-            {
-                  "name": "Caramela Co.",
-                  "text": "Die Caramela Co. ist eine lokale Attraktion an der Küste von Gaza.",
-                  "category": "landmark",
-                  "coords": [
-                        34.375484,
-                        31.42527
-                  ]
-            },
-            {
                   "name": "Sohaib Bin Senan Al Romi Mosque",
                   "text": "Die Sohaib Bin Senan Al Romi-Moschee ist ein islamisches Zentrum an der Küste von Gaza.",
                   "category": "landmark",
@@ -3668,24 +3614,6 @@ export const palestineNatureV2: POI[] = [
                   "coords": [
                         34.374055,
                         31.425159
-                  ]
-            },
-            {
-                  "name": "Abu Abdullah Al-Aidy",
-                  "text": "Abu Abdullah Al-Aidy egy figyelemre méltó kastély a Gázai övezet partján.",
-                  "category": "castle",
-                  "coords": [
-                        34.377113,
-                        31.423441
-                  ]
-            },
-            {
-                  "name": "Caramela Co.",
-                  "text": "A Caramela Co. egy helyi látványosság a Gázai övezet partján.",
-                  "category": "landmark",
-                  "coords": [
-                        34.375484,
-                        31.42527
                   ]
             },
             {
@@ -3772,24 +3700,6 @@ export const palestineNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Abu Abdullah Al-Aidy",
-                  "text": "Abu Abdullah Al-Aidy este un castel notabil de pe coasta din Gaza.",
-                  "category": "castle",
-                  "coords": [
-                        34.377113,
-                        31.423441
-                  ]
-            },
-            {
-                  "name": "Caramela Co.",
-                  "text": "Caramela Co. este o atracție locală de pe coasta din Gaza.",
-                  "category": "landmark",
-                  "coords": [
-                        34.375484,
-                        31.42527
-                  ]
-            },
-            {
                   "name": "Sohaib Bin Senan Al Romi Mosque",
                   "text": "Moscheea Sohaib Bin Senan Al Romi este un centru islamic pe coasta din Gaza.",
                   "category": "landmark",
@@ -3870,24 +3780,6 @@ export const palestineNatureV2: POI[] = [
                   "coords": [
                         34.374055,
                         31.425159
-                  ]
-            },
-            {
-                  "name": "Abu Abdullah Al-Aidy",
-                  "text": "Abu Abdullah Al-Aidy is a notable castle building located on the Gaza coastline.",
-                  "category": "castle",
-                  "coords": [
-                        34.377113,
-                        31.423441
-                  ]
-            },
-            {
-                  "name": "Caramela Co.",
-                  "text": "The Caramela Co. is a local attraction situated along the Gaza coastline.",
-                  "category": "landmark",
-                  "coords": [
-                        34.375484,
-                        31.42527
                   ]
             },
             {
@@ -6846,15 +6738,6 @@ export const palestineNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ibraheem",
-                  "text": "Ibraheem bietet einen Aussichtspunkt in der Landschaft der Hebron-Berge.",
-                  "category": "natural",
-                  "coords": [
-                        35.046658,
-                        31.507806
-                  ]
-            },
-            {
                   "name": "Historical Graves",
                   "text": "Historical Graves ist eine archäologische Stätte in der Region der Hebron-Berge.",
                   "category": "historical",
@@ -7142,15 +7025,6 @@ export const palestineNatureV2: POI[] = [
                   "coords": [
                         35.078556,
                         31.507348
-                  ]
-            },
-            {
-                  "name": "Ibraheem",
-                  "text": "Az Ibraheem egy kilátóhelyet kínál a Hebron-hegység tájain.",
-                  "category": "natural",
-                  "coords": [
-                        35.046658,
-                        31.507806
                   ]
             },
             {
@@ -7444,15 +7318,6 @@ export const palestineNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ibraheem",
-                  "text": "Ibraheem oferă un punct de belvedere în peisajul munților Hebronului.",
-                  "category": "natural",
-                  "coords": [
-                        35.046658,
-                        31.507806
-                  ]
-            },
-            {
                   "name": "Historical Graves",
                   "text": "Historical Graves este un sit arheologic din regiunea munților Hebronului.",
                   "category": "historical",
@@ -7740,15 +7605,6 @@ export const palestineNatureV2: POI[] = [
                   "coords": [
                         35.078556,
                         31.507348
-                  ]
-            },
-            {
-                  "name": "Ibraheem",
-                  "text": "Ibraheem offers a viewpoint in the landscape of the Hebron Hills.",
-                  "category": "natural",
-                  "coords": [
-                        35.046658,
-                        31.507806
                   ]
             },
             {

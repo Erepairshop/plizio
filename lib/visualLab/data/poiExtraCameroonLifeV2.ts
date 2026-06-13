@@ -598,15 +598,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "wimbum cultural and development association",
-                  "text": "Dieses Kunstzentrum in der Nähe des Wildtierzentrums ist ein zentraler Punkt für das kulturelle Erbe der Wimbum.",
-                  "category": "cultural",
-                  "coords": [
-                        9.209824,
-                        4.032423
-                  ]
-            },
-            {
                   "name": "Limbe Wildlife Centre",
                   "text": "Dieses regionale zoologische Zentrum konzentriert sich auf die Rettung und Rehabilitation lokaler Primatenarten und anderer Wildtiere.",
                   "category": "recreational",
@@ -678,15 +669,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
                   "coords": [
                         9.202659,
                         4.002984
-                  ]
-            },
-            {
-                  "name": "wimbum cultural and development association",
-                  "text": "Ez a vadvédelmi központ közelében található művészeti központ a wimbumok kulturális örökségének központja.",
-                  "category": "cultural",
-                  "coords": [
-                        9.209824,
-                        4.032423
                   ]
             },
             {
@@ -764,15 +746,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "wimbum cultural and development association",
-                  "text": "Acest centru de artă de lângă centrul pentru faună sălbatică este un punct central pentru moștenirea culturală a poporului Wimbum.",
-                  "category": "cultural",
-                  "coords": [
-                        9.209824,
-                        4.032423
-                  ]
-            },
-            {
                   "name": "Limbe Wildlife Centre",
                   "text": "Acest centru zoologic regional se concentrează pe salvarea și reabilitarea speciilor de primate locale și a altor animale sălbatice.",
                   "category": "recreational",
@@ -844,15 +817,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
                   "coords": [
                         9.202659,
                         4.002984
-                  ]
-            },
-            {
-                  "name": "wimbum cultural and development association",
-                  "text": "This arts center near the wildlife center is a focal point for the cultural heritage of the Wimbum people.",
-                  "category": "cultural",
-                  "coords": [
-                        9.209824,
-                        4.032423
                   ]
             },
             {
@@ -2330,15 +2294,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stèle Commandant Lamy",
-                  "text": "Diese steinerne Stele in Kousséri erinnert an Commandant Lamy, einen französischen Offizier, der im Jahr 1900 in der Schlacht von Kousséri fiel.",
-                  "category": "historical",
-                  "coords": [
-                        15.033816,
-                        12.086965
-                  ]
-            },
-            {
                   "name": "Muse Sultanat",
                   "text": "Dieses Museum bewahrt die kulturellen Artefakte und das historische Erbe des traditionellen Sultanats von Kousséri.",
                   "category": "museum",
@@ -2356,15 +2311,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
                   "coords": [
                         15.03315,
                         12.081465
-                  ]
-            },
-            {
-                  "name": "Stèle Commandant Lamy",
-                  "text": "Ez a kousséri kősztélé Lamy parancsnoknak, egy francia katonatisztnek állít emléket, aki az 1900-as kousséri csatában esett el.",
-                  "category": "historical",
-                  "coords": [
-                        15.033816,
-                        12.086965
                   ]
             },
             {
@@ -2388,15 +2334,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stèle Commandant Lamy",
-                  "text": "Această stelă de piatră din Kousséri îl comemorează pe comandantul Lamy, un ofițer militar francez care a murit în bătălia de la Kousséri din 1900.",
-                  "category": "historical",
-                  "coords": [
-                        15.033816,
-                        12.086965
-                  ]
-            },
-            {
                   "name": "Muse Sultanat",
                   "text": "Acest muzeu păstrează artefactele culturale și moștenirea istorică a sultanatului tradițional din Kousséri.",
                   "category": "museum",
@@ -2414,15 +2351,6 @@ export const poiExtraCameroonLifeV2: POI[] = [
                   "coords": [
                         15.03315,
                         12.081465
-                  ]
-            },
-            {
-                  "name": "Stèle Commandant Lamy",
-                  "text": "This stone stele in Kousséri commemorates Commandant Lamy, a French military officer who died in the 1900 Battle of Kousséri.",
-                  "category": "historical",
-                  "coords": [
-                        15.033816,
-                        12.086965
                   ]
             },
             {

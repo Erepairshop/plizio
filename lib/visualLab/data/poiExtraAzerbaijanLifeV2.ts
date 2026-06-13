@@ -2890,33 +2890,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "1 saylı Musiqi Məktəbi",
-                  "text": "Ein Kulturzentrum in Lankaran, das in einem historischen Gebäude untergebracht ist und die lokale Musikausbildung fördert.",
-                  "category": "cultural",
-                  "coords": [
-                        48.85187,
-                        38.752983
-                  ]
-            },
-            {
-                  "name": "Xan evi",
-                  "text": "Der Palast von Mirakhmad Khan ist ein prachtvolles rotes Backsteingebäude, das europäische und orientalische Baustile vereint.",
-                  "category": "museum",
-                  "coords": [
-                        48.8563,
-                        38.754163
-                  ]
-            },
-            {
-                  "name": "2 saylı Musiqi Kolleci",
-                  "text": "Diese Kunsthochschule in Lankaran ist ein wichtiges Bildungszentrum für Musik und bildende Künste in der Region.",
-                  "category": "cultural",
-                  "coords": [
-                        48.857596,
-                        38.757535
-                  ]
-            },
-            {
                   "name": "Rəssamlıq Məktəbi",
                   "text": "Eine spezialisierte Kunstschule in Lankaran, die sich der Ausbildung junger Maler und Bildhauer widmet.",
                   "category": "cultural",
@@ -3006,33 +2979,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
                   "coords": [
                         48.847042,
                         38.751577
-                  ]
-            },
-            {
-                  "name": "1 saylı Musiqi Məktəbi",
-                  "text": "Kulturális központ Lənkəranban, amely egy történelmi épületben kapott helyet, és a helyi zeneoktatást segíti.",
-                  "category": "cultural",
-                  "coords": [
-                        48.85187,
-                        38.752983
-                  ]
-            },
-            {
-                  "name": "Xan evi",
-                  "text": "Mirahmad kán palotája egy pompás vörös téglaépület, amely az európai és a keleti építészeti stílusokat ötvözi.",
-                  "category": "museum",
-                  "coords": [
-                        48.8563,
-                        38.754163
-                  ]
-            },
-            {
-                  "name": "2 saylı Musiqi Kolleci",
-                  "text": "Ez a lənkərani művészeti főiskola a régió zenei és képzőművészeti oktatásának fontos központja.",
-                  "category": "cultural",
-                  "coords": [
-                        48.857596,
-                        38.757535
                   ]
             },
             {
@@ -3128,33 +3074,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "1 saylı Musiqi Məktəbi",
-                  "text": "Un centru cultural din Lankaran, găzduit într-o clădire istorică, care promovează educația muzicală locală.",
-                  "category": "cultural",
-                  "coords": [
-                        48.85187,
-                        38.752983
-                  ]
-            },
-            {
-                  "name": "Xan evi",
-                  "text": "Palatul lui Mirakhmad Khan este o clădire magnifică din cărămidă roșie care îmbină stilurile arhitecturale europene și orientale.",
-                  "category": "museum",
-                  "coords": [
-                        48.8563,
-                        38.754163
-                  ]
-            },
-            {
-                  "name": "2 saylı Musiqi Kolleci",
-                  "text": "Acest colegiu de arte din Lankaran este un centru educațional important pentru muzică și arte plastice în regiune.",
-                  "category": "cultural",
-                  "coords": [
-                        48.857596,
-                        38.757535
-                  ]
-            },
-            {
                   "name": "Rəssamlıq Məktəbi",
                   "text": "O școală de artă specializată din Lankaran, dedicată formării tinerilor pictori și sculptori.",
                   "category": "cultural",
@@ -3244,33 +3163,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
                   "coords": [
                         48.847042,
                         38.751577
-                  ]
-            },
-            {
-                  "name": "1 saylı Musiqi Məktəbi",
-                  "text": "A cultural center in Lankaran housed in a historic building that promotes local music education.",
-                  "category": "cultural",
-                  "coords": [
-                        48.85187,
-                        38.752983
-                  ]
-            },
-            {
-                  "name": "Mirakhmad khan house",
-                  "text": "Mirakhmad Khan's Palace is a magnificent red brick building that combines European and Oriental architectural styles.",
-                  "category": "museum",
-                  "coords": [
-                        48.8563,
-                        38.754163
-                  ]
-            },
-            {
-                  "name": "2 saylı Musiqi Kolleci",
-                  "text": "This arts college in Lankaran is an important educational center for music and fine arts in the region.",
-                  "category": "cultural",
-                  "coords": [
-                        48.857596,
-                        38.757535
                   ]
             },
             {
@@ -4579,15 +4471,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dəyirman dairəsi",
-                  "text": "Ein Monument in einem Kreisverkehr in Ganja, das an die historische Mühlentradition der Region erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        46.373298,
-                        40.697492
-                  ]
-            },
-            {
                   "name": "Karvansaray",
                   "text": "Eine ehemalige Karawanserei in Ganja, die einst Händlern auf der Seidenstraße als Unterkunft diente.",
                   "category": "historical",
@@ -4632,15 +4515,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
                   "coords": [
                         46.374591,
                         40.675781
-                  ]
-            },
-            {
-                  "name": "Dəyirman dairəsi",
-                  "text": "Egy gandzsai körforgalomban található emlékmű, amely a régió történelmi malomhagyományaira emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        46.373298,
-                        40.697492
                   ]
             },
             {
@@ -4691,15 +4565,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dəyirman dairəsi",
-                  "text": "Un monument situat într-un sens giratoriu din Ganja, care amintește de tradiția istorică a morăritului din regiune.",
-                  "category": "historical",
-                  "coords": [
-                        46.373298,
-                        40.697492
-                  ]
-            },
-            {
                   "name": "Karvansaray",
                   "text": "Un fost caravanserai în Ganja, care oferea odinioară adăpost negustorilor de pe Drumul Mătăsii.",
                   "category": "historical",
@@ -4744,15 +4609,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
                   "coords": [
                         46.374591,
                         40.675781
-                  ]
-            },
-            {
-                  "name": "Dayirman circle",
-                  "text": "A monument in a Ganja traffic circle commemorating the region's historic milling traditions.",
-                  "category": "historical",
-                  "coords": [
-                        46.373298,
-                        40.697492
                   ]
             },
             {
@@ -7490,24 +7346,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Köhnə Hamam",
-                  "text": "Köhnə Hamam ist ein historisches Badehaus, das als Attraktion in shamkir-greenhouses-life-v2 fungiert.",
-                  "category": "landmark",
-                  "coords": [
-                        46.027734,
-                        40.831163
-                  ]
-            },
-            {
-                  "name": "Aviakassa",
-                  "text": "Aviakassa ist eine lokale Sehenswürdigkeit in shamkir-greenhouses-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        46.025005,
-                        40.828916
-                  ]
-            },
-            {
                   "name": "Əhməd Cavad Abidəsi",
                   "text": "Əhməd Cavad Abidəsi ist ein bemerkenswertes Denkmal, das seinem Namensgeber in shamkir-greenhouses-life-v2 Tribut zollt.",
                   "category": "historical",
@@ -7532,24 +7370,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
                   "coords": [
                         46.021005,
                         40.831987
-                  ]
-            },
-            {
-                  "name": "Historisches Deutsches Gebäude \\ Schamkir",
-                  "text": "Tarixi Alman Binası ist ein attraktives historisches deutsches Gebäude in shamkir-greenhouses-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        46.020082,
-                        40.829677
-                  ]
-            },
-            {
-                  "name": "Qırmızı Körpü",
-                  "text": "Qırmızı Körpü ist eine bemerkenswerte architektonische Attraktion in shamkir-greenhouses-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        46.010983,
-                        40.807339
                   ]
             },
             {
@@ -7708,24 +7528,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Köhnə Hamam",
-                  "text": "A Köhnə Hamam egy történelmi fürdőépület, amely látványosságként funkcionál a shamkir-greenhouses-life-v2 területén.",
-                  "category": "landmark",
-                  "coords": [
-                        46.027734,
-                        40.831163
-                  ]
-            },
-            {
-                  "name": "Aviakassa",
-                  "text": "Az Aviakassa egy helyi érdekeltségű pont a shamkir-greenhouses-life-v2 területén.",
-                  "category": "landmark",
-                  "coords": [
-                        46.025005,
-                        40.828916
-                  ]
-            },
-            {
                   "name": "Əhməd Cavad Abidəsi",
                   "text": "Az Əhməd Cavad Abidəsi egy figyelemre méltó emlékmű, amely a névadója előtt tiszteleg a shamkir-greenhouses-life-v2 területén.",
                   "category": "historical",
@@ -7750,24 +7552,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
                   "coords": [
                         46.021005,
                         40.831987
-                  ]
-            },
-            {
-                  "name": "Tarixi Alman Binası",
-                  "text": "A Tarixi Alman Binası egy vonzó történelmi német épület a shamkir-greenhouses-life-v2 területén.",
-                  "category": "landmark",
-                  "coords": [
-                        46.020082,
-                        40.829677
-                  ]
-            },
-            {
-                  "name": "Qırmızı Körpü",
-                  "text": "A Qırmızı Körpü egy figyelemre méltó építészeti látványosság a shamkir-greenhouses-life-v2 területén.",
-                  "category": "landmark",
-                  "coords": [
-                        46.010983,
-                        40.807339
                   ]
             },
             {
@@ -7926,24 +7710,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Köhnə Hamam",
-                  "text": "Köhnə Hamam este o structură istorică a unei băi care funcționează ca o atracție în shamkir-greenhouses-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        46.027734,
-                        40.831163
-                  ]
-            },
-            {
-                  "name": "Aviakassa",
-                  "text": "Aviakassa este un punct de interes local situat în shamkir-greenhouses-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        46.025005,
-                        40.828916
-                  ]
-            },
-            {
                   "name": "Əhməd Cavad Abidəsi",
                   "text": "Əhməd Cavad Abidəsi este un monument remarcabil care aduce un omagiu omonimului său din shamkir-greenhouses-life-v2.",
                   "category": "historical",
@@ -7968,24 +7734,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
                   "coords": [
                         46.021005,
                         40.831987
-                  ]
-            },
-            {
-                  "name": "Tarixi Alman Binası",
-                  "text": "Tarixi Alman Binası este o clădire germană istorică atractivă din shamkir-greenhouses-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        46.020082,
-                        40.829677
-                  ]
-            },
-            {
-                  "name": "Qırmızı Körpü",
-                  "text": "Qırmızı Körpü este o atracție arhitecturală notabilă situată în shamkir-greenhouses-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        46.010983,
-                        40.807339
                   ]
             },
             {
@@ -8144,24 +7892,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Köhnə Hamam",
-                  "text": "Köhnə Hamam is a historic bathhouse structure functioning as an attraction in shamkir-greenhouses-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        46.027734,
-                        40.831163
-                  ]
-            },
-            {
-                  "name": "Aviakassa",
-                  "text": "Aviakassa is a local point of interest situated in shamkir-greenhouses-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        46.025005,
-                        40.828916
-                  ]
-            },
-            {
                   "name": "Əhməd Cavad Abidəsi",
                   "text": "Əhməd Cavad Abidəsi is a noteworthy monument paying tribute to its namesake in shamkir-greenhouses-life-v2.",
                   "category": "historical",
@@ -8186,24 +7916,6 @@ export const poiExtraAzerbaijanLifeV2: POI[] = [
                   "coords": [
                         46.021005,
                         40.831987
-                  ]
-            },
-            {
-                  "name": "Tarixi Alman Binası",
-                  "text": "Tarixi Alman Binası is an attractive historic German building found in shamkir-greenhouses-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        46.020082,
-                        40.829677
-                  ]
-            },
-            {
-                  "name": "Qırmızı Körpü",
-                  "text": "Qırmızı Körpü is a notable architectural attraction located in shamkir-greenhouses-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        46.010983,
-                        40.807339
                   ]
             },
             {

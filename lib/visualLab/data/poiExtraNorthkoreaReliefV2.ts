@@ -277,48 +277,12 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taebonggak",
-                  "text": "Ein historisches Bauwerk auf dem Berg Suyang, das Teil der alten Verteidigungsanlagen ist.",
-                  "category": "castle",
-                  "coords": [
-                        125.702691,
-                        38.042295
-                  ]
-            },
-            {
-                  "name": "Daranisŏkdang",
-                  "text": "Ein steinerner Pavillon oder eine Pagode innerhalb der Suyang-Bergfestung.",
-                  "category": "castle",
-                  "coords": [
-                        125.717222,
-                        38.039609
-                  ]
-            },
-            {
                   "name": "Hwanghaenamdo Arts Theatre",
                   "text": "Ein großes Kulturzentrum in Haeju, in dem regionale Aufführungen und Konzerte stattfinden.",
                   "category": "cultural",
                   "coords": [
                         125.70939,
                         38.040932
-                  ]
-            },
-            {
-                  "name": "Hwanghaenamdo Revolutionary History Museum",
-                  "text": "Dieses Museum in Haeju dokumentiert die regionale politische Geschichte und revolutionäre Ereignisse.",
-                  "category": "museum",
-                  "coords": [
-                        125.70888,
-                        38.04317
-                  ]
-            },
-            {
-                  "name": "Haeju Zoo",
-                  "text": "Ein zoologischer Garten in Haeju, der verschiedene heimische und exotische Tierarten beherbergt.",
-                  "category": "recreational",
-                  "coords": [
-                        125.701692,
-                        38.032676
                   ]
             },
             {
@@ -378,48 +342,12 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taebonggak",
-                  "text": "Történelmi építmény a Szujang-hegyen, amely a régi védelmi rendszer része.",
-                  "category": "castle",
-                  "coords": [
-                        125.702691,
-                        38.042295
-                  ]
-            },
-            {
-                  "name": "Daranisŏkdang",
-                  "text": "Kőpavilon vagy pagoda a Szujang hegyi erőd területén belül.",
-                  "category": "castle",
-                  "coords": [
-                        125.717222,
-                        38.039609
-                  ]
-            },
-            {
                   "name": "Hwanghaenamdo Arts Theatre",
                   "text": "Hedzsu nagyszabású kulturális központja, amely regionális előadásoknak és koncerteknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         125.70939,
                         38.040932
-                  ]
-            },
-            {
-                  "name": "Hwanghaenamdo Revolutionary History Museum",
-                  "text": "Ez a hedzsui múzeum a regionális politikai történelmet és a forradalmi eseményeket dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        125.70888,
-                        38.04317
-                  ]
-            },
-            {
-                  "name": "Haeju Zoo",
-                  "text": "Állatkert Hedzsuban, amely számos őshonos és egzotikus állatfajnak ad otthont.",
-                  "category": "recreational",
-                  "coords": [
-                        125.701692,
-                        38.032676
                   ]
             },
             {
@@ -479,48 +407,12 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taebonggak",
-                  "text": "O structură istorică pe muntele Suyang, făcând parte din vechile fortificații de apărare.",
-                  "category": "castle",
-                  "coords": [
-                        125.702691,
-                        38.042295
-                  ]
-            },
-            {
-                  "name": "Daranisŏkdang",
-                  "text": "Un pavilion de piatră sau o pagodă în incinta fortăreței montane Suyang.",
-                  "category": "castle",
-                  "coords": [
-                        125.717222,
-                        38.039609
-                  ]
-            },
-            {
                   "name": "Hwanghaenamdo Arts Theatre",
                   "text": "Un centru cultural major din Haeju, care găzduiește spectacole și concerte regionale.",
                   "category": "cultural",
                   "coords": [
                         125.70939,
                         38.040932
-                  ]
-            },
-            {
-                  "name": "Hwanghaenamdo Revolutionary History Museum",
-                  "text": "Acest muzeu din Haeju documentează istoria politică regională și evenimentele revoluționare.",
-                  "category": "museum",
-                  "coords": [
-                        125.70888,
-                        38.04317
-                  ]
-            },
-            {
-                  "name": "Haeju Zoo",
-                  "text": "O grădină zoologică în Haeju, care adăpostește diverse specii de animale native și exotice.",
-                  "category": "recreational",
-                  "coords": [
-                        125.701692,
-                        38.032676
                   ]
             },
             {
@@ -580,48 +472,12 @@ export const poiExtraNorthkoreaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taebonggak",
-                  "text": "A historical structure on Mount Suyang, part of the ancient defense fortifications.",
-                  "category": "castle",
-                  "coords": [
-                        125.702691,
-                        38.042295
-                  ]
-            },
-            {
-                  "name": "Daranisŏkdang",
-                  "text": "A stone pavilion or pagoda located within the Suyang mountain fortress area.",
-                  "category": "castle",
-                  "coords": [
-                        125.717222,
-                        38.039609
-                  ]
-            },
-            {
                   "name": "Hwanghaenamdo Arts Theatre",
                   "text": "A major cultural center in Haeju, hosting regional performances and concerts.",
                   "category": "cultural",
                   "coords": [
                         125.70939,
                         38.040932
-                  ]
-            },
-            {
-                  "name": "Hwanghaenamdo Revolutionary History Museum",
-                  "text": "This museum in Haeju documents regional political history and revolutionary events.",
-                  "category": "museum",
-                  "coords": [
-                        125.70888,
-                        38.04317
-                  ]
-            },
-            {
-                  "name": "Haeju Zoo",
-                  "text": "A zoological garden in Haeju housing various native and exotic animal species.",
-                  "category": "recreational",
-                  "coords": [
-                        125.701692,
-                        38.032676
                   ]
             },
             {

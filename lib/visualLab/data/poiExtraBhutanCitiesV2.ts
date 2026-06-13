@@ -64,15 +64,6 @@ export const poiExtraBhutanCitiesV2: POI[] = [
                         89.385452,
                         26.850198
                   ]
-            },
-            {
-                  "name": "Bhutan Gate",
-                  "text": "Das Bhutan Gate ist ein markantes Denkmal, das den Eingang nach Phuntsholing markiert.",
-                  "category": "historical",
-                  "coords": [
-                        89.38081,
-                        26.861273
-                  ]
             }
       ],
       "hu": [
@@ -83,15 +74,6 @@ export const poiExtraBhutanCitiesV2: POI[] = [
                   "coords": [
                         89.385452,
                         26.850198
-                  ]
-            },
-            {
-                  "name": "Bhutan Gate",
-                  "text": "A Bhután-kapu egy kiemelkedő emlékmű, amely a Phuntsholingba vezető belépési pontot jelzi.",
-                  "category": "historical",
-                  "coords": [
-                        89.38081,
-                        26.861273
                   ]
             }
       ],
@@ -104,15 +86,6 @@ export const poiExtraBhutanCitiesV2: POI[] = [
                         89.385452,
                         26.850198
                   ]
-            },
-            {
-                  "name": "Bhutan Gate",
-                  "text": "Poarta Bhutanului este un monument proeminent care marchează punctul de intrare în Phuntsholing.",
-                  "category": "historical",
-                  "coords": [
-                        89.38081,
-                        26.861273
-                  ]
             }
       ],
       "en": [
@@ -123,15 +96,6 @@ export const poiExtraBhutanCitiesV2: POI[] = [
                   "coords": [
                         89.385452,
                         26.850198
-                  ]
-            },
-            {
-                  "name": "Bhutan Gate",
-                  "text": "Bhutan Gate is a prominent monument marking the entry point to Phuntsholing.",
-                  "category": "historical",
-                  "coords": [
-                        89.38081,
-                        26.861273
                   ]
             }
       ]
@@ -204,24 +168,6 @@ export const poiExtraBhutanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zuri Dzong",
-                  "text": "Festungskloster (Dzong) im Paro-Tal mit weiß getünchten Mauern und traditioneller Architektur Bhutans.",
-                  "category": "castle",
-                  "coords": [
-                        89.428087,
-                        27.422421
-                  ]
-            },
-            {
-                  "name": "|White Lotus Art Gallery",
-                  "text": "Kunstgalerie in Paro mit zeitgenössischer bhutanischer Kunst und traditionellen Thangka-Gemälden.",
-                  "category": "cultural",
-                  "coords": [
-                        89.415685,
-                        27.429688
-                  ]
-            },
-            {
                   "name": "Jangtsa Dumtseg Lhakhang",
                   "text": "Jangtsa Dumtseg Lhakhang ist ein buddhistischer Tempel in Paro, auf einem felsigen Grat gelegen.",
                   "category": "religious",
@@ -239,24 +185,6 @@ export const poiExtraBhutanCitiesV2: POI[] = [
                   "coords": [
                         89.425498,
                         27.42876
-                  ]
-            },
-            {
-                  "name": "Zuri Dzong",
-                  "text": "Erődítmény-kolostor (dzong) a Paro-völgyben, fehérre meszelt falakkal és hagyományos bhutáni építészettel.",
-                  "category": "castle",
-                  "coords": [
-                        89.428087,
-                        27.422421
-                  ]
-            },
-            {
-                  "name": "|White Lotus Art Gallery",
-                  "text": "Művészeti galéria Paro-ban, kortárs bhutáni művészettel és hagyományos thangka festményekkel.",
-                  "category": "cultural",
-                  "coords": [
-                        89.415685,
-                        27.429688
                   ]
             },
             {
@@ -280,24 +208,6 @@ export const poiExtraBhutanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zuri Dzong",
-                  "text": "Mănăstire-fortăreață (dzong) în valea Paro, cu pereți văruiți în alb și arhitectură tradițională bhutaneză.",
-                  "category": "castle",
-                  "coords": [
-                        89.428087,
-                        27.422421
-                  ]
-            },
-            {
-                  "name": "|White Lotus Art Gallery",
-                  "text": "Galerie de artă în Paro, care prezintă artă contemporană bhutaneză și picturi tradiționale thangka.",
-                  "category": "cultural",
-                  "coords": [
-                        89.415685,
-                        27.429688
-                  ]
-            },
-            {
                   "name": "Jangtsa Dumtseg Lhakhang",
                   "text": "Jangtsa Dumtseg Lhakhang este un templu budist în Paro, situat pe o creastă stâncoasă.",
                   "category": "religious",
@@ -308,33 +218,6 @@ export const poiExtraBhutanCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "National Museum of Bhutan",
-                  "text": "The National Museum of Bhutan in Paro preserves the country's cultural heritage.",
-                  "category": "museum",
-                  "coords": [
-                        89.425498,
-                        27.42876
-                  ]
-            },
-            {
-                  "name": "Zuri Dzong",
-                  "text": "Fortress-monastery (dzong) in Paro valley, featuring whitewashed walls and traditional Bhutanese architecture.",
-                  "category": "castle",
-                  "coords": [
-                        89.428087,
-                        27.422421
-                  ]
-            },
-            {
-                  "name": "|White Lotus Art Gallery",
-                  "text": "Art gallery in Paro showcasing contemporary Bhutanese art and traditional thangka paintings.",
-                  "category": "cultural",
-                  "coords": [
-                        89.415685,
-                        27.429688
-                  ]
-            },
             {
                   "name": "Jangtsa Dumtseg Lhakhang",
                   "text": "Jangtsa Dumtseg Lhakhang is a Buddhist temple in Paro, perched on a rocky ridge.",
@@ -460,50 +343,10 @@ export const poiExtraBhutanCitiesV2: POI[] = [
   },
   {
     id: "samdrup-jongkhar-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Performance Ground",
-                  "text": "Der Performance Ground dient als Theater und Veranstaltungsort in Samdrup Jongkhar.",
-                  "category": "cultural",
-                  "coords": [
-                        91.505112,
-                        26.798374
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Performance Ground",
-                  "text": "A Performance Ground színházként és rendezvénytérként működik Samdrup Jongkhar városában.",
-                  "category": "cultural",
-                  "coords": [
-                        91.505112,
-                        26.798374
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Performance Ground",
-                  "text": "Performance Ground servește ca teatru și spațiu pentru evenimente în Samdrup Jongkhar.",
-                  "category": "cultural",
-                  "coords": [
-                        91.505112,
-                        26.798374
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Performance Ground",
-                  "text": "The Performance Ground serves as a theatre and event space in Samdrup Jongkhar.",
-                  "category": "cultural",
-                  "coords": [
-                        91.505112,
-                        26.798374
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "BT-45",
@@ -664,50 +507,10 @@ export const poiExtraBhutanCitiesV2: POI[] = [
   },
   {
     id: "punakha-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Changyul Galem House",
-                  "text": "Historisches traditionelles Haus in Punakha, einst Wohnsitz eines lokalen Adligen.",
-                  "category": "historical",
-                  "coords": [
-                        89.861161,
-                        27.590353
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Changyul Galem House",
-                  "text": "Történelmi hagyományos ház Punakhaban, egykor egy helyi nemes háza.",
-                  "category": "historical",
-                  "coords": [
-                        89.861161,
-                        27.590353
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Changyul Galem House",
-                  "text": "Casă tradițională istorică din Punakha, fostă reședință a unui nobil local.",
-                  "category": "historical",
-                  "coords": [
-                        89.861161,
-                        27.590353
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Changyul Galem House",
-                  "text": "Historic traditional house in Punakha, once the residence of a local noble.",
-                  "category": "historical",
-                  "coords": [
-                        89.861161,
-                        27.590353
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "BT-23",
@@ -868,50 +671,10 @@ export const poiExtraBhutanCitiesV2: POI[] = [
   },
   {
     id: "mongar-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Mongar Chorten",
-                  "text": "Buddhistischer Stupa (Chorten) in Mongar, eine heilige Stätte für Gebete und Umrundungen.",
-                  "category": "historical",
-                  "coords": [
-                        91.236934,
-                        27.277151
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mongar Chorten",
-                  "text": "Buddhista sztúpa (chorten) Mongarban, szent hely imádságra és körbejárásra.",
-                  "category": "historical",
-                  "coords": [
-                        91.236934,
-                        27.277151
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Mongar Chorten",
-                  "text": "Stupa budistă (chorten) în Mongar, un loc sacru pentru rugăciune și circumambulație.",
-                  "category": "historical",
-                  "coords": [
-                        91.236934,
-                        27.277151
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mongar Chorten",
-                  "text": "Buddhist stupa (chorten) in Mongar, a sacred site for prayer and circumambulation.",
-                  "category": "historical",
-                  "coords": [
-                        91.236934,
-                        27.277151
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "BT-42",
@@ -1072,122 +835,10 @@ export const poiExtraBhutanCitiesV2: POI[] = [
   },
   {
     id: "trongsa-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Ta-Dzong",
-                  "text": "Wachturm, der in ein Museum umgewandelt wurde und Artefakte der bhutanischen Geschichte und Monarchie zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        90.508019,
-                        27.499162
-                  ]
-            },
-            {
-                  "name": "Thrupang Palace",
-                  "text": "Der 2022 eröffnete Thrupang-Palast in Trongsa ist ein modernes Schloss.",
-                  "category": "castle",
-                  "coords": [
-                        90.508561,
-                        27.504257
-                  ]
-            },
-            {
-                  "name": "Trongsa Dzong",
-                  "text": "Massives Festungskloster in Trongsa, Stammhaus der bhutanischen Königsfamilie.",
-                  "category": "castle",
-                  "coords": [
-                        90.505088,
-                        27.499875
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Ta-Dzong",
-                  "text": "Őrtoronyból átalakított múzeum, amely Bhután történelmének és monarchiájának tárgyait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        90.508019,
-                        27.499162
-                  ]
-            },
-            {
-                  "name": "Thrupang Palace",
-                  "text": "A 2022-ben megnyílt Thrupang-palota Trongsában egy modern kastély.",
-                  "category": "castle",
-                  "coords": [
-                        90.508561,
-                        27.504257
-                  ]
-            },
-            {
-                  "name": "Trongsa Dzong",
-                  "text": "Hatalmas erődítmény-kolostor Trongsában, a bhutáni királyi család ősi otthona.",
-                  "category": "castle",
-                  "coords": [
-                        90.505088,
-                        27.499875
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Ta-Dzong",
-                  "text": "Turn de pază transformat în muzeu, care găzduiește artefacte din istoria Bhutaneză și a monarhiei.",
-                  "category": "museum",
-                  "coords": [
-                        90.508019,
-                        27.499162
-                  ]
-            },
-            {
-                  "name": "Thrupang Palace",
-                  "text": "Palatul Thrupang, deschis în 2022, este un castel modern din Trongsa.",
-                  "category": "castle",
-                  "coords": [
-                        90.508561,
-                        27.504257
-                  ]
-            },
-            {
-                  "name": "Trongsa Dzong",
-                  "text": "Mănăstire-fortăreață masivă în Trongsa, casa ancestrală a familiei regale bhutaneze.",
-                  "category": "castle",
-                  "coords": [
-                        90.505088,
-                        27.499875
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ta-Dzong",
-                  "text": "Watchtower turned museum in Trongsa, housing artifacts of Bhutanese history and the monarchy.",
-                  "category": "museum",
-                  "coords": [
-                        90.508019,
-                        27.499162
-                  ]
-            },
-            {
-                  "name": "Thrupang Palace",
-                  "text": "Thrupang Palace is a modern castle opened in 2022 in Trongsa.",
-                  "category": "castle",
-                  "coords": [
-                        90.508561,
-                        27.504257
-                  ]
-            },
-            {
-                  "name": "Trongsa Dzong",
-                  "text": "Massive fortress-monastery in Trongsa, the ancestral home of the Bhutanese royal family.",
-                  "category": "castle",
-                  "coords": [
-                        90.505088,
-                        27.499875
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "BT-32",
@@ -1488,30 +1139,12 @@ export const poiExtraBhutanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Recreational Park",
-                  "text": "Familienpark in Haa mit Spielplätzen, Picknickbereichen und Wanderwegen.",
-                  "category": "family",
-                  "coords": [
-                        89.280932,
-                        27.386853
-                  ]
-            },
-            {
                   "name": "Haa valley view",
                   "text": "Aussichtspunkt mit Blick auf das malerische Haa-Tal, bekannt für Reisterrassen und traditionelle Dörfer.",
                   "category": "natural",
                   "coords": [
                         89.289298,
                         27.396568
-                  ]
-            },
-            {
-                  "name": "Yak Monument",
-                  "text": "Denkmal in Haa, das dem Yak gewidmet ist, einem unverzichtbaren Tier des bhutanischen Hochlandlebens.",
-                  "category": "historical",
-                  "coords": [
-                        89.278992,
-                        27.391222
                   ]
             },
             {
@@ -1535,30 +1168,12 @@ export const poiExtraBhutanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Recreational Park",
-                  "text": "Családi park Haaban, játszóterekkel, piknikezőhelyekkel és sétányokkal.",
-                  "category": "family",
-                  "coords": [
-                        89.280932,
-                        27.386853
-                  ]
-            },
-            {
                   "name": "Haa valley view",
                   "text": "Kilátó a festői Haa-völgyre, rizsteraszairól és hagyományos falvairól ismert.",
                   "category": "natural",
                   "coords": [
                         89.289298,
                         27.396568
-                  ]
-            },
-            {
-                  "name": "Yak Monument",
-                  "text": "Jakszobor Haaban, a bhutáni felvidéki élet nélkülözhetetlen állatának emlékére.",
-                  "category": "historical",
-                  "coords": [
-                        89.278992,
-                        27.391222
                   ]
             },
             {
@@ -1582,30 +1197,12 @@ export const poiExtraBhutanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Recreational Park",
-                  "text": "Parc de agrement pentru familii în Haa, cu locuri de joacă, zone de picnic și trasee de mers.",
-                  "category": "family",
-                  "coords": [
-                        89.280932,
-                        27.386853
-                  ]
-            },
-            {
                   "name": "Haa valley view",
                   "text": "Punct de belvedere care oferă vedere spre valea pitorească Haa, cunoscută pentru terasele de orez și satele tradiționale.",
                   "category": "natural",
                   "coords": [
                         89.289298,
                         27.396568
-                  ]
-            },
-            {
-                  "name": "Yak Monument",
-                  "text": "Monument în Haa dedicat iacului, animal esențial pentru viața din zonele înalte ale Bhutanului.",
-                  "category": "historical",
-                  "coords": [
-                        89.278992,
-                        27.391222
                   ]
             },
             {
@@ -1629,30 +1226,12 @@ export const poiExtraBhutanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Recreational Park",
-                  "text": "Family recreational park in Haa with playgrounds, picnic areas, and walking trails.",
-                  "category": "family",
-                  "coords": [
-                        89.280932,
-                        27.386853
-                  ]
-            },
-            {
                   "name": "Haa valley view",
                   "text": "Scenic viewpoint overlooking the picturesque Haa valley, known for its rice terraces and traditional villages.",
                   "category": "natural",
                   "coords": [
                         89.289298,
                         27.396568
-                  ]
-            },
-            {
-                  "name": "Yak Monument",
-                  "text": "Monument in Haa dedicated to the yak, an essential animal for Bhutanese highland life.",
-                  "category": "historical",
-                  "coords": [
-                        89.278992,
-                        27.391222
                   ]
             },
             {
@@ -2251,50 +1830,10 @@ export const poiExtraBhutanCitiesV2: POI[] = [
   },
   {
     id: "zhemgang-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Quarterpong",
-                  "text": "Das Hinweisschild ist eine besondere lokale Sehenswürdigkeit in Zhemgang.",
-                  "category": "landmark",
-                  "coords": [
-                        90.656984,
-                        27.214451
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Quarterpong",
-                  "text": "A jelzőtábla egy különleges helyi látványosság Zhemgangban.",
-                  "category": "landmark",
-                  "coords": [
-                        90.656984,
-                        27.214451
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Quarterpong",
-                  "text": "Panoul indicator reprezintă o atracție locală distinctă în Zhemgang.",
-                  "category": "landmark",
-                  "coords": [
-                        90.656984,
-                        27.214451
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Sign board",
-                  "text": "The Sign board stands as a distinct local attraction in Zhemgang.",
-                  "category": "landmark",
-                  "coords": [
-                        90.656984,
-                        27.214451
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "BT-35",
@@ -3346,50 +2885,10 @@ export const poiExtraBhutanCitiesV2: POI[] = [
   },
   {
     id: "khuruthang-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Chimi Lhakhang",
-                  "text": "Chimi Lhakhang ist ein buddhistischer Tempel in Khuruthang, dem göttlichen Verrückten gewidmet.",
-                  "category": "religious",
-                  "coords": [
-                        89.878193,
-                        27.526905
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Chimi Lhakhang",
-                  "text": "A Chimi Lhakhang egy buddhista templom Khuruthangban, az Isteni Bolondnak szentelve.",
-                  "category": "religious",
-                  "coords": [
-                        89.878193,
-                        27.526905
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Chimi Lhakhang",
-                  "text": "Chimi Lhakhang este un templu budist în Khuruthang, dedicat Nebunului Divin.",
-                  "category": "religious",
-                  "coords": [
-                        89.878193,
-                        27.526905
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Chimi Lhakhang",
-                  "text": "Chimi Lhakhang is a Buddhist temple in Khuruthang, dedicated to the Divine Madman.",
-                  "category": "religious",
-                  "coords": [
-                        89.878193,
-                        27.526905
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "BT-23",

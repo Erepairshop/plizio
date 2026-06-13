@@ -4346,15 +4346,6 @@ export const poiExtraSurinameHistoryV2: POI[] = [
     id: "sr-kofidjompo-monument-history-v2", "sights": {
       "de": [
             {
-                  "name": "Djoewan Reginald",
-                  "text": "Ein Gedenkort in Lelydorp, der an die Geschichte der javanischen Einwanderer erinnert.",
-                  "category": "natural",
-                  "coords": [
-                        -55.209251,
-                        5.698582
-                  ]
-            },
-            {
                   "name": "Butterfly Plantation",
                   "text": "Dieser Park in Lelydorp beherbergt Tausende tropische Schmetterlinge sowie Schildkröten und Schlangen.",
                   "category": "museum",
@@ -4379,33 +4370,6 @@ export const poiExtraSurinameHistoryV2: POI[] = [
                   "coords": [
                         -55.231023,
                         5.661537
-                  ]
-            },
-            {
-                  "name": "Pawirooelomo Ngasijem",
-                  "text": "Ein Gedenkpunkt in Lelydorp, der die kulturelle Vielfalt der Region und ihrer Bewohner feiert.",
-                  "category": "natural",
-                  "coords": [
-                        -55.25313,
-                        5.709407
-                  ]
-            },
-            {
-                  "name": "Asmoredjo Satimin",
-                  "text": "Dieser Aussichtspunkt in Lelydorp ehrt die Pioniere, die zur Entwicklung des Distrikts beitrugen.",
-                  "category": "natural",
-                  "coords": [
-                        -55.24406,
-                        5.706608
-                  ]
-            },
-            {
-                  "name": "Martomamat Sadikin",
-                  "text": "Ein lokaler Orientierungspunkt in Lelydorp, der nach einem angesehenen Mitglied der Gemeinschaft benannt wurde.",
-                  "category": "natural",
-                  "coords": [
-                        -55.249212,
-                        5.713408
                   ]
             },
             {
@@ -4501,15 +4465,6 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Djoewan Reginald",
-                  "text": "Egy emlékhely Lelydorpban, amely a jávai bevándorlók történetére emlékeztet.",
-                  "category": "natural",
-                  "coords": [
-                        -55.209251,
-                        5.698582
-                  ]
-            },
-            {
                   "name": "Butterfly Plantation",
                   "text": "Ez a Lelydorpban található park trópusi pillangók ezreinek, valamint teknősöknek és kígyóknak ad otthont.",
                   "category": "museum",
@@ -4534,33 +4489,6 @@ export const poiExtraSurinameHistoryV2: POI[] = [
                   "coords": [
                         -55.231023,
                         5.661537
-                  ]
-            },
-            {
-                  "name": "Pawirooelomo Ngasijem",
-                  "text": "Egy emlékpont Lelydorpban, amely a régió és lakói kulturális sokszínűségét ünnepli.",
-                  "category": "natural",
-                  "coords": [
-                        -55.25313,
-                        5.709407
-                  ]
-            },
-            {
-                  "name": "Asmoredjo Satimin",
-                  "text": "Ez a lelydorpi kilátópont azokat a pionírokat tiszteli meg, akik hozzájárultak a körzet fejlődéséhez.",
-                  "category": "natural",
-                  "coords": [
-                        -55.24406,
-                        5.706608
-                  ]
-            },
-            {
-                  "name": "Martomamat Sadikin",
-                  "text": "Egy helyi tájékozódási pont Lelydorpban, amelyet a közösség egy tisztelt tagjáról neveztek el.",
-                  "category": "natural",
-                  "coords": [
-                        -55.249212,
-                        5.713408
                   ]
             },
             {
@@ -4656,15 +4584,6 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Djoewan Reginald",
-                  "text": "Un loc memorial în Lelydorp, care amintește de istoria imigranților javanezi.",
-                  "category": "natural",
-                  "coords": [
-                        -55.209251,
-                        5.698582
-                  ]
-            },
-            {
                   "name": "Butterfly Plantation",
                   "text": "Acest parc din Lelydorp găzduiește mii de fluturi tropicali, precum și țestoase și șerpi.",
                   "category": "museum",
@@ -4689,33 +4608,6 @@ export const poiExtraSurinameHistoryV2: POI[] = [
                   "coords": [
                         -55.231023,
                         5.661537
-                  ]
-            },
-            {
-                  "name": "Pawirooelomo Ngasijem",
-                  "text": "Un punct memorial din Lelydorp care celebrează diversitatea culturală a regiunii și a locuitorilor săi.",
-                  "category": "natural",
-                  "coords": [
-                        -55.25313,
-                        5.709407
-                  ]
-            },
-            {
-                  "name": "Asmoredjo Satimin",
-                  "text": "Acest punct de belvedere din Lelydorp îi onorează pe pionierii care au contribuit la dezvoltarea districtului.",
-                  "category": "natural",
-                  "coords": [
-                        -55.24406,
-                        5.706608
-                  ]
-            },
-            {
-                  "name": "Martomamat Sadikin",
-                  "text": "Un punct de reper local din Lelydorp, numit după un membru respectat al comunității.",
-                  "category": "natural",
-                  "coords": [
-                        -55.249212,
-                        5.713408
                   ]
             },
             {
@@ -4811,15 +4703,6 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Djoewan Reginald",
-                  "text": "A memorial spot in Lelydorp commemorating the history of Javanese immigrants.",
-                  "category": "natural",
-                  "coords": [
-                        -55.209251,
-                        5.698582
-                  ]
-            },
-            {
                   "name": "Butterfly Plantation",
                   "text": "This park in Lelydorp is home to thousands of tropical butterflies, as well as turtles and snakes.",
                   "category": "museum",
@@ -4844,33 +4727,6 @@ export const poiExtraSurinameHistoryV2: POI[] = [
                   "coords": [
                         -55.231023,
                         5.661537
-                  ]
-            },
-            {
-                  "name": "Pawirooelomo Ngasijem",
-                  "text": "A memorial point in Lelydorp celebrating the cultural diversity of the region and its residents.",
-                  "category": "natural",
-                  "coords": [
-                        -55.25313,
-                        5.709407
-                  ]
-            },
-            {
-                  "name": "Asmoredjo Satimin",
-                  "text": "This viewpoint in Lelydorp honors the pioneers who contributed to the development of the district.",
-                  "category": "natural",
-                  "coords": [
-                        -55.24406,
-                        5.706608
-                  ]
-            },
-            {
-                  "name": "Martomamat Sadikin",
-                  "text": "A local landmark in Lelydorp named after a respected member of the community.",
-                  "category": "natural",
-                  "coords": [
-                        -55.249212,
-                        5.713408
                   ]
             },
             {

@@ -51,30 +51,12 @@ export const switzerlandEconomicV2: POI[] = [
     id: "switzerland-zurich-west-district-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Museum für Gestaltung",
-                  "text": "Führendes Schweizer Museum für Design und visuelle Kommunikation.",
-                  "category": "museum",
-                  "coords": [
-                        8.535799,
-                        47.382982
-                  ]
-            },
-            {
                   "name": "Zivilschutzmuseum",
                   "text": "Das Zivilschutzmuseum dokumentiert den Schweizer Zivilschutz mit originalgetreuen Bunkeranlagen und Schutzausrüstung.",
                   "category": "museum",
                   "coords": [
                         8.526978,
                         47.391959
-                  ]
-            },
-            {
-                  "name": "Uhrenmuseum Beyer Zürich",
-                  "text": "Umfangreiche Sammlung historischer Zeitmesser und Uhren.",
-                  "category": "museum",
-                  "coords": [
-                        8.538542,
-                        47.370925
                   ]
             },
             {
@@ -87,48 +69,12 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Naturhistorisches Museum",
-                  "text": "Museum mit einer großen Sammlung zoologischer Präparate.",
-                  "category": "museum",
-                  "coords": [
-                        8.54796,
-                        47.375177
-                  ]
-            },
-            {
-                  "name": "Archäologisches Museum",
-                  "text": "Sammlung antiker Artefakte der Universität Zürich.",
-                  "category": "museum",
-                  "coords": [
-                        8.548913,
-                        47.375349
-                  ]
-            },
-            {
-                  "name": "Focus Terra",
-                  "text": "Das Focus Terra ist ein erdwissenschaftliches Museum der ETH Zürich mit interaktiven Ausstellungen zu Geologie und Naturgefahren.",
-                  "category": "museum",
-                  "coords": [
-                        8.547457,
-                        47.378357
-                  ]
-            },
-            {
                   "name": "Museum für Gestaltung - Schaudepot",
                   "text": "Öffentlich zugängliches Lager des Designmuseums mit Tausenden Objekten.",
                   "category": "museum",
                   "coords": [
                         8.512069,
                         47.390229
-                  ]
-            },
-            {
-                  "name": "FIFA Museum",
-                  "text": "Interaktives Museum zur Geschichte und Faszination des Weltfussballs.",
-                  "category": "museum",
-                  "coords": [
-                        8.531519,
-                        47.363579
                   ]
             },
             {
@@ -150,42 +96,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Uhrenmuseum zum Rösli",
-                  "text": "Privates Museum mit einer bedeutenden Sammlung historischer Uhren.",
-                  "category": "museum",
-                  "coords": [
-                        8.54436,
-                        47.390144
-                  ]
-            },
-            {
-                  "name": "Moulagenmuseum",
-                  "text": "Einzigartige Sammlung medizinischer Wachsabdrücke von Hautkrankheiten.",
-                  "category": "museum",
-                  "coords": [
-                        8.5486,
-                        47.38042
-                  ]
-            },
-            {
-                  "name": "Völkerkundemuseum der Universität Zürich",
-                  "text": "Museum der Universität Zürich zur Erforschung außereuropäischer Kulturen.",
-                  "category": "museum",
-                  "coords": [
-                        8.534364,
-                        47.370826
-                  ]
-            },
-            {
-                  "name": "Galerie Gmurzynska",
-                  "text": "International renommierte Galerie für moderne und zeitgenössische Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        8.538949,
-                        47.369446
-                  ]
-            },
-            {
                   "name": "Bürgli",
                   "text": "Historisches Landhaus und Baudenkmal im Westen von Zürich.",
                   "category": "historical",
@@ -195,93 +105,12 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Theater am Neumarkt",
-                  "text": "Bekanntes Theaterhaus für zeitgenössische Inszenierungen in der Altstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        8.545755,
-                        47.372645
-                  ]
-            },
-            {
-                  "name": "cabaret voltaire",
-                  "text": "Legendärer Geburtsort der Dada-Bewegung im Jahr 1916.",
-                  "category": "cultural",
-                  "coords": [
-                        8.543931,
-                        47.371609
-                  ]
-            },
-            {
-                  "name": "Dynamo",
-                  "text": "Kulturzentrum und Treffpunkt für Jugendkultur direkt an der Limmat.",
-                  "category": "cultural",
-                  "coords": [
-                        8.539338,
-                        47.383313
-                  ]
-            },
-            {
-                  "name": "Bahnhofkirche",
-                  "text": "Ökumenischer Ort der Stille und Besinnung im Hauptbahnhof Zürich.",
-                  "category": "religious",
-                  "coords": [
-                        8.540286,
-                        47.378043
-                  ]
-            },
-            {
-                  "name": "Liebfrauenkirche",
-                  "text": "Bedeutende katholische Kirche mit neugotischer Architektur nahe dem Zentrum.",
-                  "category": "religious",
-                  "coords": [
-                        8.545067,
-                        47.379598
-                  ]
-            },
-            {
-                  "name": "St. Jakob",
-                  "text": "Evangelisch-reformierte Kirche am belebten Stauffacherplatz.",
-                  "category": "religious",
-                  "coords": [
-                        8.529008,
-                        47.373966
-                  ]
-            },
-            {
-                  "name": "St. Peter",
-                  "text": "Historische Kirche mit dem größten Kirchturmzifferblatt Europas.",
-                  "category": "religious",
-                  "coords": [
-                        8.540745,
-                        47.371088
-                  ]
-            },
-            {
                   "name": "Katholische Kirche St. Felix und Regula",
                   "text": "Moderne katholische Kirche, die den Stadtheiligen gewidmet ist.",
                   "category": "religious",
                   "coords": [
                         8.513588,
                         47.381053
-                  ]
-            },
-            {
-                  "name": "Pauluskirche",
-                  "text": "Reformierte Kirche im Quartier Wiedikon mit markanter Architektur.",
-                  "category": "religious",
-                  "coords": [
-                        8.543277,
-                        47.394179
-                  ]
-            },
-            {
-                  "name": "Predigerkirche",
-                  "text": "Ehemalige Dominikanerkirche mit dem höchsten Kirchturm der Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        8.545494,
-                        47.37389
                   ]
             },
             {
@@ -465,24 +294,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte Diggelmann",
-                  "text": "Kleiner Aussichtspunkt in einer Parkanlage im Stadtkreis 6.",
-                  "category": "natural",
-                  "coords": [
-                        8.549539,
-                        47.393256
-                  ]
-            },
-            {
-                  "name": "Platzpromenade",
-                  "text": "Historische Parkanlage am Zusammenfluss von Limmat und Sihl.",
-                  "category": "park",
-                  "coords": [
-                        8.540016,
-                        47.380847
-                  ]
-            },
-            {
                   "name": "Bäckeranlage",
                   "text": "Beliebter Quartierpark im Kreis 4 mit grosser Spielwiese.",
                   "category": "park",
@@ -507,24 +318,6 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.502994,
                         47.401287
-                  ]
-            },
-            {
-                  "name": "Unterer Katzensee",
-                  "text": "Der Untere Katzensee bei Zürich West ist ein beliebtes Naherholungsgebiet mit Badegelegenheit.",
-                  "category": "natural",
-                  "coords": [
-                        8.490574,
-                        47.431289
-                  ]
-            },
-            {
-                  "name": "Oberer Katzensee",
-                  "text": "Der Obere Katzensee ist ein Naturschutzgebiet bei Zürich West und lädt zur Naturbeobachtung ein.",
-                  "category": "natural",
-                  "coords": [
-                        8.497333,
-                        47.433687
                   ]
             },
             {
@@ -561,51 +354,6 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.509279,
                         47.364062
-                  ]
-            },
-            {
-                  "name": "Martinseiher",
-                  "text": "Ein lokales Gewässer in Zürich West, das eine ruhige Umgebung für Naturliebhaber bietet.",
-                  "category": "natural",
-                  "coords": [
-                        8.468391,
-                        47.425588
-                  ]
-            },
-            {
-                  "name": "Zürichsee",
-                  "text": "Der Zürichsee bietet in Zürich West malerische Ausblicke und Möglichkeiten zur Erholung am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        8.74144,
-                        47.279095
-                  ]
-            },
-            {
-                  "name": "GZ Schindlergut",
-                  "text": "Ein familienfreundlicher Spielplatz in Zürich West, der Kindern viel Raum zum Austoben bietet.",
-                  "category": "family",
-                  "coords": [
-                        8.536501,
-                        47.386895
-                  ]
-            },
-            {
-                  "name": "Urania",
-                  "text": "Ein abwechslungsreicher Spielplatz in Zürich West, der ein idealer Treffpunkt für Familien ist.",
-                  "category": "family",
-                  "coords": [
-                        8.541211,
-                        47.373515
-                  ]
-            },
-            {
-                  "name": "Lutherwiese",
-                  "text": "Diese Grünanlage in Zürich West bietet Familien eine angenehme Umgebung zum Spielen und Verweilen.",
-                  "category": "family",
-                  "coords": [
-                        8.528056,
-                        47.374736
                   ]
             },
             {
@@ -663,39 +411,12 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Alfred-Altherr-Terrasse",
-                  "text": "Ein Treffpunkt für Familien in Zürich West, der zum Spielen und zum Genießen der frischen Luft einlädt.",
-                  "category": "family",
-                  "coords": [
-                        8.552564,
-                        47.395176
-                  ]
-            },
-            {
-                  "name": "Aegerten",
-                  "text": "Ein familienfreundlicher Ort in Zürich West, der ideal für einen Nachmittagsausflug mit Kindern ist.",
-                  "category": "family",
-                  "coords": [
-                        8.522501,
-                        47.368536
-                  ]
-            },
-            {
                   "name": "Steinkluppenanlage",
                   "text": "Ein weitläufiger Spielbereich in Zürich West, der viel Platz für Bewegung und Spiel bietet.",
                   "category": "family",
                   "coords": [
                         8.540147,
                         47.400819
-                  ]
-            },
-            {
-                  "name": "Kasernenareal",
-                  "text": "Ein vielseitiger Spielort in Zürich West, der bei Familien der Umgebung sehr beliebt ist.",
-                  "category": "family",
-                  "coords": [
-                        8.53021,
-                        47.377311
                   ]
             },
             {
@@ -726,15 +447,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thermalbad & Spa Zürich",
-                  "text": "Ein Thermalbad und Spa in Zürich West für Wellness und Schwimmen.",
-                  "category": "family",
-                  "coords": [
-                        8.525054,
-                        47.364759
-                  ]
-            },
-            {
                   "name": "Waldlabor Zürich",
                   "text": "Ein Outdoor-Freizeitpark und Waldlabor in Zürich West für Familien.",
                   "category": "family",
@@ -753,15 +465,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hammam & Spa, Stadtbad Zürich",
-                  "text": "Hammam & Spa im historischen Stadtbad Zürich im Zürich West District.",
-                  "category": "family",
-                  "coords": [
-                        8.527128,
-                        47.375496
-                  ]
-            },
-            {
                   "name": "Wellenbad",
                   "text": "Wellenbad im Zürich West District mit künstlichen Wellen.",
                   "category": "family",
@@ -771,30 +474,12 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Strandbad Mythenquai",
-                  "text": "Strandbad Mythenquai am Seeufer im Zürich West District.",
-                  "category": "family",
-                  "coords": [
-                        8.535755,
-                        47.353559
-                  ]
-            },
-            {
                   "name": "Tierpark Waidberg",
                   "text": "Tierpark Waidberg auf dem Hügel im Zürich West District.",
                   "category": "family",
                   "coords": [
                         8.517004,
                         47.400329
-                  ]
-            },
-            {
-                  "name": "Planschbecken Wahlenpark",
-                  "text": "Planschbecken im Wahlenpark im Zürich West District.",
-                  "category": "family",
-                  "coords": [
-                        8.541041,
-                        47.415173
                   ]
             },
             {
@@ -822,33 +507,6 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.512264,
                         47.37654
-                  ]
-            },
-            {
-                  "name": "Planschbecken Sihlhölzli",
-                  "text": "Planschbecken im Sihlhölzli im Zürich West District.",
-                  "category": "family",
-                  "coords": [
-                        8.523754,
-                        47.36675
-                  ]
-            },
-            {
-                  "name": "Volière",
-                  "text": "Die Volière Zürich ist eine große Freiflugvoliere mit exotischen Vögeln am Zürichseeufer im Stadtzentrum.",
-                  "category": "family",
-                  "coords": [
-                        8.535687,
-                        47.362335
-                  ]
-            },
-            {
-                  "name": "Frauenbad Stadthausquai",
-                  "text": "Historisches Frauenbad am Stadthausquai im Zürich West District.",
-                  "category": "family",
-                  "coords": [
-                        8.54215,
-                        47.368458
                   ]
             },
             {
@@ -915,42 +573,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Planschbecken Schlössliareal",
-                  "text": "Das Planschbecken Schlössliareal in Zürich West bietet kleinen Kindern Spaß im Wasser.",
-                  "category": "family",
-                  "coords": [
-                        8.5584,
-                        47.382051
-                  ]
-            },
-            {
-                  "name": "Planschbecken Artergut",
-                  "text": "Das Planschbecken Artergut in Zürich West ist ein Ort für Kinder zum Spielen im Wasser.",
-                  "category": "family",
-                  "coords": [
-                        8.554485,
-                        47.365946
-                  ]
-            },
-            {
-                  "name": "Schulschwimmanlage Staudenbühl",
-                  "text": "Die Schulschwimmanlage Staudenbühl in Zürich West dient dem Schwimmunterricht und Sport.",
-                  "category": "family",
-                  "coords": [
-                        8.535288,
-                        47.419216
-                  ]
-            },
-            {
-                  "name": "Flussbad Oberer Letten",
-                  "text": "Das Flussbad Oberer Letten in Zürich West bietet eine Möglichkeit zum Schwimmen im Fluss.",
-                  "category": "family",
-                  "coords": [
-                        8.536456,
-                        47.384451
-                  ]
-            },
-            {
                   "name": "Offener Stall",
                   "text": "Der Offene Stall in Zürich West ist ein kleiner Zoo, der Tiere in einer städtischen Umgebung zeigt.",
                   "category": "family",
@@ -958,27 +580,9 @@ export const switzerlandEconomicV2: POI[] = [
                         8.520687,
                         47.392797
                   ]
-            },
-            {
-                  "name": "Männerbad Schanzengraben",
-                  "text": "Das Männerbad Schanzengraben in Zürich West ist eine traditionelle Badeanstalt für Herren.",
-                  "category": "family",
-                  "coords": [
-                        8.532717,
-                        47.371277
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Museum für Gestaltung",
-                  "text": "Svájc vezető design- és vizuális kommunikációs múzeuma.",
-                  "category": "museum",
-                  "coords": [
-                        8.535799,
-                        47.382982
-                  ]
-            },
             {
                   "name": "Zivilschutzmuseum",
                   "text": "A Zivilschutzmuseum a svájci polgári védelmet mutatja be eredeti bunkerekkel és védőfelszerelésekkel.",
@@ -986,15 +590,6 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.526978,
                         47.391959
-                  ]
-            },
-            {
-                  "name": "Uhrenmuseum Beyer Zürich",
-                  "text": "Történelmi időmérők és órák átfogó gyűjteménye.",
-                  "category": "museum",
-                  "coords": [
-                        8.538542,
-                        47.370925
                   ]
             },
             {
@@ -1007,48 +602,12 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Naturhistorisches Museum",
-                  "text": "Múzeum nagy zoológiai preparátumgyűjteménnyel.",
-                  "category": "museum",
-                  "coords": [
-                        8.54796,
-                        47.375177
-                  ]
-            },
-            {
-                  "name": "Archäologisches Museum",
-                  "text": "A Zürichi Egyetem ókori leleteinek gyűjteménye.",
-                  "category": "museum",
-                  "coords": [
-                        8.548913,
-                        47.375349
-                  ]
-            },
-            {
-                  "name": "Focus Terra",
-                  "text": "A Focus Terra az ETH Zürich földtudományi múzeuma, interaktív kiállításokkal a geológiáról és a természeti veszélyekről.",
-                  "category": "museum",
-                  "coords": [
-                        8.547457,
-                        47.378357
-                  ]
-            },
-            {
                   "name": "Museum für Gestaltung - Schaudepot",
                   "text": "A designmúzeum nyilvánosan látogatható raktára több ezer tárggyal.",
                   "category": "museum",
                   "coords": [
                         8.512069,
                         47.390229
-                  ]
-            },
-            {
-                  "name": "FIFA Museum",
-                  "text": "Interaktív múzeum a világfutball történelméről és vonzerejéről.",
-                  "category": "museum",
-                  "coords": [
-                        8.531519,
-                        47.363579
                   ]
             },
             {
@@ -1070,42 +629,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Uhrenmuseum zum Rösli",
-                  "text": "Magánmúzeum jelentős történelmi óragyűjteménnyel.",
-                  "category": "museum",
-                  "coords": [
-                        8.54436,
-                        47.390144
-                  ]
-            },
-            {
-                  "name": "Moulagenmuseum",
-                  "text": "Bőrbetegségeket ábrázoló orvosi viaszmodellek egyedülálló gyűjteménye.",
-                  "category": "museum",
-                  "coords": [
-                        8.5486,
-                        47.38042
-                  ]
-            },
-            {
-                  "name": "Völkerkundemuseum der Universität Zürich",
-                  "text": "A Zürichi Egyetem múzeuma, amely Európán kívüli kultúrákat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        8.534364,
-                        47.370826
-                  ]
-            },
-            {
-                  "name": "Galerie Gmurzynska",
-                  "text": "Nemzetközileg elismert modern és kortárs művészeti galéria.",
-                  "category": "museum",
-                  "coords": [
-                        8.538949,
-                        47.369446
-                  ]
-            },
-            {
                   "name": "Bürgli",
                   "text": "Történelmi udvarház és műemlék épület Zürich nyugati részén.",
                   "category": "historical",
@@ -1115,93 +638,12 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Theater am Neumarkt",
-                  "text": "Kortárs darabokról ismert színház Zürich óvárosának közelében.",
-                  "category": "cultural",
-                  "coords": [
-                        8.545755,
-                        47.372645
-                  ]
-            },
-            {
-                  "name": "cabaret voltaire",
-                  "text": "A dadaista művészeti mozgalom legendás bölcsője 1916-ból.",
-                  "category": "cultural",
-                  "coords": [
-                        8.543931,
-                        47.371609
-                  ]
-            },
-            {
-                  "name": "Dynamo",
-                  "text": "Ifjúsági kulturális központ és találkozóhely közvetlenül a Limmat partján.",
-                  "category": "cultural",
-                  "coords": [
-                        8.539338,
-                        47.383313
-                  ]
-            },
-            {
-                  "name": "Bahnhofkirche",
-                  "text": "Ökumenikus csendes szoba és templom a zürichi főpályaudvaron.",
-                  "category": "religious",
-                  "coords": [
-                        8.540286,
-                        47.378043
-                  ]
-            },
-            {
-                  "name": "Liebfrauenkirche",
-                  "text": "Jelentős katolikus templom neogótikus stílusban a központ közelében.",
-                  "category": "religious",
-                  "coords": [
-                        8.545067,
-                        47.379598
-                  ]
-            },
-            {
-                  "name": "St. Jakob",
-                  "text": "Evangélikus-református templom a forgalmas Stauffacher téren.",
-                  "category": "religious",
-                  "coords": [
-                        8.529008,
-                        47.373966
-                  ]
-            },
-            {
-                  "name": "St. Peter",
-                  "text": "Történelmi templom, amely Európa legnagyobb toronyóra-számlapjával büszkélkedhet.",
-                  "category": "religious",
-                  "coords": [
-                        8.540745,
-                        47.371088
-                  ]
-            },
-            {
                   "name": "Katholische Kirche St. Felix und Regula",
                   "text": "Modern katolikus templom, amelyet a város védőszentjeinek szenteltek.",
                   "category": "religious",
                   "coords": [
                         8.513588,
                         47.381053
-                  ]
-            },
-            {
-                  "name": "Pauluskirche",
-                  "text": "Református templom Wiedikon negyedben, jellegzetes építészettel.",
-                  "category": "religious",
-                  "coords": [
-                        8.543277,
-                        47.394179
-                  ]
-            },
-            {
-                  "name": "Predigerkirche",
-                  "text": "Egykori dominikánus templom a város legmagasabb templomtornyával.",
-                  "category": "religious",
-                  "coords": [
-                        8.545494,
-                        47.37389
                   ]
             },
             {
@@ -1385,24 +827,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte Diggelmann",
-                  "text": "Kis kilátópont egy parkosított területen a 6. kerületben.",
-                  "category": "natural",
-                  "coords": [
-                        8.549539,
-                        47.393256
-                  ]
-            },
-            {
-                  "name": "Platzpromenade",
-                  "text": "Történelmi park a Limmat és a Sihl folyók találkozásánál.",
-                  "category": "park",
-                  "coords": [
-                        8.540016,
-                        47.380847
-                  ]
-            },
-            {
                   "name": "Bäckeranlage",
                   "text": "Népszerű lakótelepi park a 4. kerületben, tágas játszótérrel.",
                   "category": "park",
@@ -1427,24 +851,6 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.502994,
                         47.401287
-                  ]
-            },
-            {
-                  "name": "Unterer Katzensee",
-                  "text": "A Zürich West melletti Unterer Katzensee népszerű pihenőhely fürdőzési lehetőséggel.",
-                  "category": "natural",
-                  "coords": [
-                        8.490574,
-                        47.431289
-                  ]
-            },
-            {
-                  "name": "Oberer Katzensee",
-                  "text": "Az Obere Katzensee természetvédelmi terület Zürich Westnél, amely természetjárásra hív.",
-                  "category": "natural",
-                  "coords": [
-                        8.497333,
-                        47.433687
                   ]
             },
             {
@@ -1481,51 +887,6 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.509279,
                         47.364062
-                  ]
-            },
-            {
-                  "name": "Martinseiher",
-                  "text": "Egy helyi vízfelület Zürich West területén, amely nyugodt környezetet biztosít a természet kedvelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        8.468391,
-                        47.425588
-                  ]
-            },
-            {
-                  "name": "Zürichsee",
-                  "text": "A Zürichi-tó festői kilátást és vízparti kikapcsolódási lehetőségeket kínál Zürich West területén.",
-                  "category": "natural",
-                  "coords": [
-                        8.74144,
-                        47.279095
-                  ]
-            },
-            {
-                  "name": "GZ Schindlergut",
-                  "text": "Családbarát játszótér Zürich West területén, amely tágas teret biztosít a gyerekeknek a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        8.536501,
-                        47.386895
-                  ]
-            },
-            {
-                  "name": "Urania",
-                  "text": "Változatos játszótér Zürich West területén, amely ideális találkozóhely a családok számára.",
-                  "category": "family",
-                  "coords": [
-                        8.541211,
-                        47.373515
-                  ]
-            },
-            {
-                  "name": "Lutherwiese",
-                  "text": "Ez a zöldterület Zürich West területén kellemes környezetet kínál a családoknak a játékhoz és pihenéshez.",
-                  "category": "family",
-                  "coords": [
-                        8.528056,
-                        47.374736
                   ]
             },
             {
@@ -1583,39 +944,12 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Alfred-Altherr-Terrasse",
-                  "text": "Találkozóhely családoknak Zürich West területén, amely játékra és a friss levegő élvezetére hív.",
-                  "category": "family",
-                  "coords": [
-                        8.552564,
-                        47.395176
-                  ]
-            },
-            {
-                  "name": "Aegerten",
-                  "text": "Családbarát hely Zürich West területén, amely ideális egy délutáni kiránduláshoz a gyerekekkel.",
-                  "category": "family",
-                  "coords": [
-                        8.522501,
-                        47.368536
-                  ]
-            },
-            {
                   "name": "Steinkluppenanlage",
                   "text": "Tágas játszóterület Zürich West területén, amely sok helyet biztosít a mozgáshoz és a játékhoz.",
                   "category": "family",
                   "coords": [
                         8.540147,
                         47.400819
-                  ]
-            },
-            {
-                  "name": "Kasernenareal",
-                  "text": "Sokoldalú játszóhely Zürich West területén, amely igen népszerű a környékbeli családok körében.",
-                  "category": "family",
-                  "coords": [
-                        8.53021,
-                        47.377311
                   ]
             },
             {
@@ -1646,15 +980,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thermalbad & Spa Zürich",
-                  "text": "Termálfürdő és spa Zürich nyugati részén wellnesshez és úszáshoz.",
-                  "category": "family",
-                  "coords": [
-                        8.525054,
-                        47.364759
-                  ]
-            },
-            {
                   "name": "Waldlabor Zürich",
                   "text": "Szabadtéri élménypark és erdőlaboratórium Zürich nyugati részén családoknak.",
                   "category": "family",
@@ -1673,15 +998,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hammam & Spa, Stadtbad Zürich",
-                  "text": "Hammam és spa a történelmi Stadtbad Zürich épületében, a Zürich nyugati kerületben.",
-                  "category": "family",
-                  "coords": [
-                        8.527128,
-                        47.375496
-                  ]
-            },
-            {
                   "name": "Wellenbad",
                   "text": "Hullámfürdő a Zürich nyugati kerületben, mesterséges hullámokkal.",
                   "category": "family",
@@ -1691,30 +1007,12 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Strandbad Mythenquai",
-                  "text": "Mythenquai tóparti strand a Zürich nyugati kerületben.",
-                  "category": "family",
-                  "coords": [
-                        8.535755,
-                        47.353559
-                  ]
-            },
-            {
                   "name": "Tierpark Waidberg",
                   "text": "Waidberg állatpark a dombon a Zürich nyugati kerületben.",
                   "category": "family",
                   "coords": [
                         8.517004,
                         47.400329
-                  ]
-            },
-            {
-                  "name": "Planschbecken Wahlenpark",
-                  "text": "Pancsolómedence a Wahlenparkban a Zürich nyugati kerületben.",
-                  "category": "family",
-                  "coords": [
-                        8.541041,
-                        47.415173
                   ]
             },
             {
@@ -1742,33 +1040,6 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.512264,
                         47.37654
-                  ]
-            },
-            {
-                  "name": "Planschbecken Sihlhölzli",
-                  "text": "Pancsolómedence a Sihlhölzli területén a Zürich nyugati kerületben.",
-                  "category": "family",
-                  "coords": [
-                        8.523754,
-                        47.36675
-                  ]
-            },
-            {
-                  "name": "Volière",
-                  "text": "A Zürichi Volière egy nagy szabadröptű madárház egzotikus madarakkal a Zürichi-tó partján, a városközpontban.",
-                  "category": "family",
-                  "coords": [
-                        8.535687,
-                        47.362335
-                  ]
-            },
-            {
-                  "name": "Frauenbad Stadthausquai",
-                  "text": "Történelmi női fürdő a Stadthausquai-nál a Zürich nyugati kerületben.",
-                  "category": "family",
-                  "coords": [
-                        8.54215,
-                        47.368458
                   ]
             },
             {
@@ -1835,42 +1106,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Planschbecken Schlössliareal",
-                  "text": "A zürichi Schlössliareal pancsolómedence vízi szórakozást nyújt a kisgyermekeknek.",
-                  "category": "family",
-                  "coords": [
-                        8.5584,
-                        47.382051
-                  ]
-            },
-            {
-                  "name": "Planschbecken Artergut",
-                  "text": "A zürichi Artergut pancsolómedence a gyermekek vízi játékának helyszíne.",
-                  "category": "family",
-                  "coords": [
-                        8.554485,
-                        47.365946
-                  ]
-            },
-            {
-                  "name": "Schulschwimmanlage Staudenbühl",
-                  "text": "A zürichi Staudenbühl iskolai úszólétesítmény úszásoktatást és sportolást szolgál.",
-                  "category": "family",
-                  "coords": [
-                        8.535288,
-                        47.419216
-                  ]
-            },
-            {
-                  "name": "Flussbad Oberer Letten",
-                  "text": "A zürichi Flussbad Oberer Letten folyóvízi úszási lehetőséget kínál.",
-                  "category": "family",
-                  "coords": [
-                        8.536456,
-                        47.384451
-                  ]
-            },
-            {
                   "name": "Offener Stall",
                   "text": "A zürichi Offener Stall egy kis állatkert, amely városi környezetben mutat be állatokat.",
                   "category": "family",
@@ -1878,27 +1113,9 @@ export const switzerlandEconomicV2: POI[] = [
                         8.520687,
                         47.392797
                   ]
-            },
-            {
-                  "name": "Männerbad Schanzengraben",
-                  "text": "A zürichi Männerbad Schanzengraben egy hagyományos férfifürdő.",
-                  "category": "family",
-                  "coords": [
-                        8.532717,
-                        47.371277
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Museum für Gestaltung",
-                  "text": "Principalul muzeu elvețian de design și comunicare vizuală.",
-                  "category": "museum",
-                  "coords": [
-                        8.535799,
-                        47.382982
-                  ]
-            },
             {
                   "name": "Zivilschutzmuseum",
                   "text": "Muzeul Protecției Civile documentează protecția civilă elvețiană cu buncăre originale și echipamente de protecție.",
@@ -1906,15 +1123,6 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.526978,
                         47.391959
-                  ]
-            },
-            {
-                  "name": "Uhrenmuseum Beyer Zürich",
-                  "text": "Colecție vastă de ceasuri și instrumente de măsurat timpul.",
-                  "category": "museum",
-                  "coords": [
-                        8.538542,
-                        47.370925
                   ]
             },
             {
@@ -1927,48 +1135,12 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Naturhistorisches Museum",
-                  "text": "Muzeu cu o colecție mare de preparate zoologice.",
-                  "category": "museum",
-                  "coords": [
-                        8.54796,
-                        47.375177
-                  ]
-            },
-            {
-                  "name": "Archäologisches Museum",
-                  "text": "Colecția de artefacte antice a Universității din Zürich.",
-                  "category": "museum",
-                  "coords": [
-                        8.548913,
-                        47.375349
-                  ]
-            },
-            {
-                  "name": "Focus Terra",
-                  "text": "Focus Terra este un muzeu de științe ale pământului al ETH Zürich, cu expoziții interactive despre geologie și pericole naturale.",
-                  "category": "museum",
-                  "coords": [
-                        8.547457,
-                        47.378357
-                  ]
-            },
-            {
                   "name": "Museum für Gestaltung - Schaudepot",
                   "text": "Depozitul vizitabil al muzeului de design cu mii de obiecte.",
                   "category": "museum",
                   "coords": [
                         8.512069,
                         47.390229
-                  ]
-            },
-            {
-                  "name": "FIFA Museum",
-                  "text": "Muzeu interactiv despre istoria și fascinația fotbalului mondial.",
-                  "category": "museum",
-                  "coords": [
-                        8.531519,
-                        47.363579
                   ]
             },
             {
@@ -1990,42 +1162,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Uhrenmuseum zum Rösli",
-                  "text": "Muzeu privat ce deține o colecție valoroasă de ceasuri istorice.",
-                  "category": "museum",
-                  "coords": [
-                        8.54436,
-                        47.390144
-                  ]
-            },
-            {
-                  "name": "Moulagenmuseum",
-                  "text": "Colecție unică de mulaje medicale din ceară reprezentând boli de piele.",
-                  "category": "museum",
-                  "coords": [
-                        8.5486,
-                        47.38042
-                  ]
-            },
-            {
-                  "name": "Völkerkundemuseum der Universität Zürich",
-                  "text": "Muzeul Universității din Zürich dedicat culturilor din afara Europei.",
-                  "category": "museum",
-                  "coords": [
-                        8.534364,
-                        47.370826
-                  ]
-            },
-            {
-                  "name": "Galerie Gmurzynska",
-                  "text": "Galerie de artă modernă și contemporană de renume internațional.",
-                  "category": "museum",
-                  "coords": [
-                        8.538949,
-                        47.369446
-                  ]
-            },
-            {
                   "name": "Bürgli",
                   "text": "Conac istoric și monument de arhitectură în partea de vest a orașului.",
                   "category": "historical",
@@ -2035,93 +1171,12 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Theater am Neumarkt",
-                  "text": "Teatru cunoscut pentru producții contemporane în centrul vechi.",
-                  "category": "cultural",
-                  "coords": [
-                        8.545755,
-                        47.372645
-                  ]
-            },
-            {
-                  "name": "cabaret voltaire",
-                  "text": "Locul legendar de naștere al mișcării artistice Dada, fondat în 1916.",
-                  "category": "cultural",
-                  "coords": [
-                        8.543931,
-                        47.371609
-                  ]
-            },
-            {
-                  "name": "Dynamo",
-                  "text": "Centru cultural pentru tineret situat chiar pe malul râului Limmat.",
-                  "category": "cultural",
-                  "coords": [
-                        8.539338,
-                        47.383313
-                  ]
-            },
-            {
-                  "name": "Bahnhofkirche",
-                  "text": "Spațiu ecumenic de liniște și rugăciune în Gara Centrală din Zürich.",
-                  "category": "religious",
-                  "coords": [
-                        8.540286,
-                        47.378043
-                  ]
-            },
-            {
-                  "name": "Liebfrauenkirche",
-                  "text": "Biserică catolică importantă cu arhitectură neogotică lângă centru.",
-                  "category": "religious",
-                  "coords": [
-                        8.545067,
-                        47.379598
-                  ]
-            },
-            {
-                  "name": "St. Jakob",
-                  "text": "Biserică evanghelică reformată situată în animata piață Stauffacher.",
-                  "category": "religious",
-                  "coords": [
-                        8.529008,
-                        47.373966
-                  ]
-            },
-            {
-                  "name": "St. Peter",
-                  "text": "Biserică istorică având cel mai mare cadran de ceas de turn din Europa.",
-                  "category": "religious",
-                  "coords": [
-                        8.540745,
-                        47.371088
-                  ]
-            },
-            {
                   "name": "Katholische Kirche St. Felix und Regula",
                   "text": "Biserică catolică modernă dedicată sfinților patroni ai orașului.",
                   "category": "religious",
                   "coords": [
                         8.513588,
                         47.381053
-                  ]
-            },
-            {
-                  "name": "Pauluskirche",
-                  "text": "Biserică reformată din cartierul Wiedikon cu o arhitectură distinctivă.",
-                  "category": "religious",
-                  "coords": [
-                        8.543277,
-                        47.394179
-                  ]
-            },
-            {
-                  "name": "Predigerkirche",
-                  "text": "Fostă biserică dominicană cu cel mai înalt turn de biserică din oraș.",
-                  "category": "religious",
-                  "coords": [
-                        8.545494,
-                        47.37389
                   ]
             },
             {
@@ -2305,24 +1360,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte Diggelmann",
-                  "text": "Mic punct de observație situat într-un parc din districtul 6.",
-                  "category": "natural",
-                  "coords": [
-                        8.549539,
-                        47.393256
-                  ]
-            },
-            {
-                  "name": "Platzpromenade",
-                  "text": "Parcat istoric la confluența râurilor Limmat și Sihl.",
-                  "category": "park",
-                  "coords": [
-                        8.540016,
-                        47.380847
-                  ]
-            },
-            {
                   "name": "Bäckeranlage",
                   "text": "Parc popular de cartier în districtul 4, cu o zonă mare de joacă.",
                   "category": "park",
@@ -2347,24 +1384,6 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.502994,
                         47.401287
-                  ]
-            },
-            {
-                  "name": "Unterer Katzensee",
-                  "text": "Unterer Katzensee din Zurich West este o zonă de recreere populară cu posibilități de scăldat.",
-                  "category": "natural",
-                  "coords": [
-                        8.490574,
-                        47.431289
-                  ]
-            },
-            {
-                  "name": "Oberer Katzensee",
-                  "text": "Oberer Katzensee este o rezervație naturală în Zurich West, ideală pentru observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        8.497333,
-                        47.433687
                   ]
             },
             {
@@ -2401,51 +1420,6 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.509279,
                         47.364062
-                  ]
-            },
-            {
-                  "name": "Martinseiher",
-                  "text": "O apă locală în Zurich West, care oferă un mediu liniștit pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        8.468391,
-                        47.425588
-                  ]
-            },
-            {
-                  "name": "Zürichsee",
-                  "text": "Lacul Zurich oferă priveliști pitorești și oportunități de recreere pe malul apei în Zurich West.",
-                  "category": "natural",
-                  "coords": [
-                        8.74144,
-                        47.279095
-                  ]
-            },
-            {
-                  "name": "GZ Schindlergut",
-                  "text": "Un teren de joacă pentru familii în Zurich West, care oferă copiilor mult spațiu de joacă.",
-                  "category": "family",
-                  "coords": [
-                        8.536501,
-                        47.386895
-                  ]
-            },
-            {
-                  "name": "Urania",
-                  "text": "Un teren de joacă variat în Zurich West, care reprezintă un loc de întâlnire ideal pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        8.541211,
-                        47.373515
-                  ]
-            },
-            {
-                  "name": "Lutherwiese",
-                  "text": "Această zonă verde din Zurich West oferă familiilor un mediu plăcut pentru joacă și relaxare.",
-                  "category": "family",
-                  "coords": [
-                        8.528056,
-                        47.374736
                   ]
             },
             {
@@ -2503,39 +1477,12 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Alfred-Altherr-Terrasse",
-                  "text": "Un loc de întâlnire pentru familii în Zurich West, care invită la joacă și la bucuria de a fi în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        8.552564,
-                        47.395176
-                  ]
-            },
-            {
-                  "name": "Aegerten",
-                  "text": "Un loc prietenos pentru familii în Zurich West, ideal pentru o excursie de după-amiază cu copiii.",
-                  "category": "family",
-                  "coords": [
-                        8.522501,
-                        47.368536
-                  ]
-            },
-            {
                   "name": "Steinkluppenanlage",
                   "text": "O zonă de joacă întinsă în Zurich West, care oferă mult spațiu pentru mișcare și joacă.",
                   "category": "family",
                   "coords": [
                         8.540147,
                         47.400819
-                  ]
-            },
-            {
-                  "name": "Kasernenareal",
-                  "text": "Un loc de joacă versatil în Zurich West, foarte popular în rândul familiilor din zonă.",
-                  "category": "family",
-                  "coords": [
-                        8.53021,
-                        47.377311
                   ]
             },
             {
@@ -2566,15 +1513,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thermalbad & Spa Zürich",
-                  "text": "O baie termală și spa în Zurich West pentru wellness și înot.",
-                  "category": "family",
-                  "coords": [
-                        8.525054,
-                        47.364759
-                  ]
-            },
-            {
                   "name": "Waldlabor Zürich",
                   "text": "Un parc tematic în aer liber și laborator forestier în Zurich West pentru familii.",
                   "category": "family",
@@ -2593,15 +1531,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hammam & Spa, Stadtbad Zürich",
-                  "text": "Hammam și spa la istoricul Stadtbad Zürich în Districtul Zurich Vest.",
-                  "category": "family",
-                  "coords": [
-                        8.527128,
-                        47.375496
-                  ]
-            },
-            {
                   "name": "Wellenbad",
                   "text": "Bazin cu valuri în Districtul Zurich Vest, cu valuri artificiale.",
                   "category": "family",
@@ -2611,30 +1540,12 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Strandbad Mythenquai",
-                  "text": "Plajă pe malul lacului Mythenquai în Districtul Zurich Vest.",
-                  "category": "family",
-                  "coords": [
-                        8.535755,
-                        47.353559
-                  ]
-            },
-            {
                   "name": "Tierpark Waidberg",
                   "text": "Parcul animalier Waidberg pe deal în Districtul Zurich Vest.",
                   "category": "family",
                   "coords": [
                         8.517004,
                         47.400329
-                  ]
-            },
-            {
-                  "name": "Planschbecken Wahlenpark",
-                  "text": "Bazin de joacă în Wahlenpark, Districtul Zurich Vest.",
-                  "category": "family",
-                  "coords": [
-                        8.541041,
-                        47.415173
                   ]
             },
             {
@@ -2662,33 +1573,6 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.512264,
                         47.37654
-                  ]
-            },
-            {
-                  "name": "Planschbecken Sihlhölzli",
-                  "text": "Bazin de joacă în zona Sihlhölzli din Districtul Zurich Vest.",
-                  "category": "family",
-                  "coords": [
-                        8.523754,
-                        47.36675
-                  ]
-            },
-            {
-                  "name": "Volière",
-                  "text": "Voliera din Zürich este o volieră mare de zbor liber cu păsări exotice pe malul lacului Zürich, în centrul orașului.",
-                  "category": "family",
-                  "coords": [
-                        8.535687,
-                        47.362335
-                  ]
-            },
-            {
-                  "name": "Frauenbad Stadthausquai",
-                  "text": "Baie istorică pentru femei la Stadthausquai în Districtul Zurich Vest.",
-                  "category": "family",
-                  "coords": [
-                        8.54215,
-                        47.368458
                   ]
             },
             {
@@ -2755,42 +1639,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Planschbecken Schlössliareal",
-                  "text": "Piscina pentru copii Schlössliareal din Zurich West oferă distracție în apă pentru cei mici.",
-                  "category": "family",
-                  "coords": [
-                        8.5584,
-                        47.382051
-                  ]
-            },
-            {
-                  "name": "Planschbecken Artergut",
-                  "text": "Piscina pentru copii Artergut din Zurich West este un loc unde copiii se pot juca în apă.",
-                  "category": "family",
-                  "coords": [
-                        8.554485,
-                        47.365946
-                  ]
-            },
-            {
-                  "name": "Schulschwimmanlage Staudenbühl",
-                  "text": "Instalația școlară de înot Staudenbühl din Zurich West servește instruirii în înot și sportului.",
-                  "category": "family",
-                  "coords": [
-                        8.535288,
-                        47.419216
-                  ]
-            },
-            {
-                  "name": "Flussbad Oberer Letten",
-                  "text": "Flussbad Oberer Letten din Zurich West oferă posibilitatea de a înota în râu.",
-                  "category": "family",
-                  "coords": [
-                        8.536456,
-                        47.384451
-                  ]
-            },
-            {
                   "name": "Offener Stall",
                   "text": "Offener Stall din Zurich West este o mică grădină zoologică care prezintă animale într-un cadru urban.",
                   "category": "family",
@@ -2798,27 +1646,9 @@ export const switzerlandEconomicV2: POI[] = [
                         8.520687,
                         47.392797
                   ]
-            },
-            {
-                  "name": "Männerbad Schanzengraben",
-                  "text": "Männerbad Schanzengraben din Zurich West este o unitate de baie tradițională pentru bărbați.",
-                  "category": "family",
-                  "coords": [
-                        8.532717,
-                        47.371277
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Museum für Gestaltung",
-                  "text": "Leading Swiss museum for design and visual communication.",
-                  "category": "museum",
-                  "coords": [
-                        8.535799,
-                        47.382982
-                  ]
-            },
             {
                   "name": "Zivilschutzmuseum",
                   "text": "The Zivilschutzmuseum documents Swiss civil protection with original bunkers and protective equipment.",
@@ -2826,15 +1656,6 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.526978,
                         47.391959
-                  ]
-            },
-            {
-                  "name": "Uhrenmuseum Beyer Zürich",
-                  "text": "Extensive collection of historical timepieces and clocks.",
-                  "category": "museum",
-                  "coords": [
-                        8.538542,
-                        47.370925
                   ]
             },
             {
@@ -2847,48 +1668,12 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Naturhistorisches Museum",
-                  "text": "Museum with a large collection of zoological specimens.",
-                  "category": "museum",
-                  "coords": [
-                        8.54796,
-                        47.375177
-                  ]
-            },
-            {
-                  "name": "Archäologisches Museum",
-                  "text": "Collection of ancient artifacts from the University of Zurich.",
-                  "category": "museum",
-                  "coords": [
-                        8.548913,
-                        47.375349
-                  ]
-            },
-            {
-                  "name": "Focus Terra",
-                  "text": "Focus Terra is an earth science museum at ETH Zurich featuring interactive exhibits on geology and natural hazards.",
-                  "category": "museum",
-                  "coords": [
-                        8.547457,
-                        47.378357
-                  ]
-            },
-            {
                   "name": "Museum für Gestaltung - Schaudepot",
                   "text": "Visible storage of the design museum with thousands of objects.",
                   "category": "museum",
                   "coords": [
                         8.512069,
                         47.390229
-                  ]
-            },
-            {
-                  "name": "FIFA Museum",
-                  "text": "Interactive museum about the history and fascination of world football.",
-                  "category": "museum",
-                  "coords": [
-                        8.531519,
-                        47.363579
                   ]
             },
             {
@@ -2910,42 +1695,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Uhrenmuseum zum Rösli",
-                  "text": "Private museum featuring a significant collection of historical timepieces.",
-                  "category": "museum",
-                  "coords": [
-                        8.54436,
-                        47.390144
-                  ]
-            },
-            {
-                  "name": "Moulagenmuseum",
-                  "text": "Unique collection of medical wax moulages depicting skin diseases.",
-                  "category": "museum",
-                  "coords": [
-                        8.5486,
-                        47.38042
-                  ]
-            },
-            {
-                  "name": "Völkerkundemuseum der Universität Zürich",
-                  "text": "University of Zurich museum focused on non-European cultures and art.",
-                  "category": "museum",
-                  "coords": [
-                        8.534364,
-                        47.370826
-                  ]
-            },
-            {
-                  "name": "Galerie Gmurzynska",
-                  "text": "Internationally renowned gallery for modern and contemporary art.",
-                  "category": "museum",
-                  "coords": [
-                        8.538949,
-                        47.369446
-                  ]
-            },
-            {
                   "name": "Bürgli",
                   "text": "Historic country house and architectural landmark in western Zurich.",
                   "category": "historical",
@@ -2955,93 +1704,12 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Theater am Neumarkt",
-                  "text": "Well-known theatre house for contemporary productions in the Old Town.",
-                  "category": "cultural",
-                  "coords": [
-                        8.545755,
-                        47.372645
-                  ]
-            },
-            {
-                  "name": "cabaret voltaire",
-                  "text": "Legendary birthplace of the Dada art movement, founded in 1916.",
-                  "category": "cultural",
-                  "coords": [
-                        8.543931,
-                        47.371609
-                  ]
-            },
-            {
-                  "name": "Dynamo",
-                  "text": "Youth culture center and meeting point directly on the Limmat river.",
-                  "category": "cultural",
-                  "coords": [
-                        8.539338,
-                        47.383313
-                  ]
-            },
-            {
-                  "name": "Bahnhofkirche",
-                  "text": "Ecumenical place of silence and reflection in Zurich Main Station.",
-                  "category": "religious",
-                  "coords": [
-                        8.540286,
-                        47.378043
-                  ]
-            },
-            {
-                  "name": "Liebfrauenkirche",
-                  "text": "Important Catholic church with Neogothic architecture near the center.",
-                  "category": "religious",
-                  "coords": [
-                        8.545067,
-                        47.379598
-                  ]
-            },
-            {
-                  "name": "St. Jakob",
-                  "text": "Protestant Reformed church located at the busy Stauffacher square.",
-                  "category": "religious",
-                  "coords": [
-                        8.529008,
-                        47.373966
-                  ]
-            },
-            {
-                  "name": "St. Peter",
-                  "text": "Historic church featuring Europe's largest church tower clock face.",
-                  "category": "religious",
-                  "coords": [
-                        8.540745,
-                        47.371088
-                  ]
-            },
-            {
                   "name": "Katholische Kirche St. Felix und Regula",
                   "text": "Modern Catholic church dedicated to the city's patron saints.",
                   "category": "religious",
                   "coords": [
                         8.513588,
                         47.381053
-                  ]
-            },
-            {
-                  "name": "Pauluskirche",
-                  "text": "Reformed church in the Wiedikon district with striking architecture.",
-                  "category": "religious",
-                  "coords": [
-                        8.543277,
-                        47.394179
-                  ]
-            },
-            {
-                  "name": "Predigerkirche",
-                  "text": "Former Dominican church featuring the city's tallest church tower.",
-                  "category": "religious",
-                  "coords": [
-                        8.545494,
-                        47.37389
                   ]
             },
             {
@@ -3225,24 +1893,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte Diggelmann",
-                  "text": "Small viewpoint located in a landscaped park in the 6th district.",
-                  "category": "natural",
-                  "coords": [
-                        8.549539,
-                        47.393256
-                  ]
-            },
-            {
-                  "name": "Platzpromenade",
-                  "text": "Historic parkland at the confluence of the Limmat and Sihl rivers.",
-                  "category": "park",
-                  "coords": [
-                        8.540016,
-                        47.380847
-                  ]
-            },
-            {
                   "name": "Bäckeranlage",
                   "text": "Popular neighborhood park in the 4th district with a large play area.",
                   "category": "park",
@@ -3267,24 +1917,6 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.502994,
                         47.401287
-                  ]
-            },
-            {
-                  "name": "Unterer Katzensee",
-                  "text": "Unterer Katzensee in Zurich West is a popular recreation area with swimming opportunities.",
-                  "category": "natural",
-                  "coords": [
-                        8.490574,
-                        47.431289
-                  ]
-            },
-            {
-                  "name": "Oberer Katzensee",
-                  "text": "Oberer Katzensee is a nature reserve in Zurich West, perfect for nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        8.497333,
-                        47.433687
                   ]
             },
             {
@@ -3321,51 +1953,6 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.509279,
                         47.364062
-                  ]
-            },
-            {
-                  "name": "Martinseiher",
-                  "text": "A local body of water in Zurich West, offering a quiet environment for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        8.468391,
-                        47.425588
-                  ]
-            },
-            {
-                  "name": "Lake Zurich",
-                  "text": "Lake Zurich offers scenic views and opportunities for lakeside recreation in Zurich West.",
-                  "category": "natural",
-                  "coords": [
-                        8.74144,
-                        47.279095
-                  ]
-            },
-            {
-                  "name": "GZ Schindlergut",
-                  "text": "A family-friendly playground in Zurich West, offering children plenty of space to play.",
-                  "category": "family",
-                  "coords": [
-                        8.536501,
-                        47.386895
-                  ]
-            },
-            {
-                  "name": "Urania",
-                  "text": "A diverse playground in Zurich West, which is an ideal meeting point for families.",
-                  "category": "family",
-                  "coords": [
-                        8.541211,
-                        47.373515
-                  ]
-            },
-            {
-                  "name": "Lutherwiese",
-                  "text": "This green space in Zurich West offers families a pleasant environment for playing and relaxing.",
-                  "category": "family",
-                  "coords": [
-                        8.528056,
-                        47.374736
                   ]
             },
             {
@@ -3423,39 +2010,12 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Alfred-Altherr-Terrasse",
-                  "text": "A meeting place for families in Zurich West, inviting play and the enjoyment of fresh air.",
-                  "category": "family",
-                  "coords": [
-                        8.552564,
-                        47.395176
-                  ]
-            },
-            {
-                  "name": "Aegerten",
-                  "text": "A family-friendly place in Zurich West, ideal for an afternoon outing with children.",
-                  "category": "family",
-                  "coords": [
-                        8.522501,
-                        47.368536
-                  ]
-            },
-            {
                   "name": "Steinkluppenanlage",
                   "text": "A spacious play area in Zurich West offering plenty of room for movement and play.",
                   "category": "family",
                   "coords": [
                         8.540147,
                         47.400819
-                  ]
-            },
-            {
-                  "name": "Kasernenareal",
-                  "text": "A versatile play location in Zurich West, very popular with local families.",
-                  "category": "family",
-                  "coords": [
-                        8.53021,
-                        47.377311
                   ]
             },
             {
@@ -3486,15 +2046,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thermalbad & Spa Zürich",
-                  "text": "A thermal bath and spa in Zurich West for wellness and swimming.",
-                  "category": "family",
-                  "coords": [
-                        8.525054,
-                        47.364759
-                  ]
-            },
-            {
                   "name": "Waldlabor Zürich",
                   "text": "An outdoor theme park and forest laboratory in Zurich West for families.",
                   "category": "family",
@@ -3513,15 +2064,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hammam & Spa, Stadtbad Zürich",
-                  "text": "Hammam and spa at the historic Stadtbad Zürich in Zurich West District.",
-                  "category": "family",
-                  "coords": [
-                        8.527128,
-                        47.375496
-                  ]
-            },
-            {
                   "name": "Wellenbad",
                   "text": "Wave pool in Zurich West District with artificial waves.",
                   "category": "family",
@@ -3531,30 +2073,12 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Strandbad Mythenquai",
-                  "text": "Lakeside beach Mythenquai in Zurich West District.",
-                  "category": "family",
-                  "coords": [
-                        8.535755,
-                        47.353559
-                  ]
-            },
-            {
                   "name": "Tierpark Waidberg",
                   "text": "Animal park on Waidberg hill in Zurich West District.",
                   "category": "family",
                   "coords": [
                         8.517004,
                         47.400329
-                  ]
-            },
-            {
-                  "name": "Planschbecken Wahlenpark",
-                  "text": "Paddling pool in Wahlenpark in Zurich West District.",
-                  "category": "family",
-                  "coords": [
-                        8.541041,
-                        47.415173
                   ]
             },
             {
@@ -3582,33 +2106,6 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         8.512264,
                         47.37654
-                  ]
-            },
-            {
-                  "name": "Planschbecken Sihlhölzli",
-                  "text": "Paddling pool in the Sihlhölzli area of Zurich West District.",
-                  "category": "family",
-                  "coords": [
-                        8.523754,
-                        47.36675
-                  ]
-            },
-            {
-                  "name": "Volière",
-                  "text": "The Volière Zürich is a large walk-in aviary with exotic birds on the shores of Lake Zurich in the city center.",
-                  "category": "family",
-                  "coords": [
-                        8.535687,
-                        47.362335
-                  ]
-            },
-            {
-                  "name": "Frauenbad Stadthausquai",
-                  "text": "Historic women's bathing area at Stadthausquai in Zurich West District.",
-                  "category": "family",
-                  "coords": [
-                        8.54215,
-                        47.368458
                   ]
             },
             {
@@ -3675,57 +2172,12 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Planschbecken Schlössliareal",
-                  "text": "The Schlössliareal paddling pool in Zurich West offers water fun for small children.",
-                  "category": "family",
-                  "coords": [
-                        8.5584,
-                        47.382051
-                  ]
-            },
-            {
-                  "name": "Planschbecken Artergut",
-                  "text": "The Artergut paddling pool in Zurich West is a place for children to play in the water.",
-                  "category": "family",
-                  "coords": [
-                        8.554485,
-                        47.365946
-                  ]
-            },
-            {
-                  "name": "Schulschwimmanlage Staudenbühl",
-                  "text": "The Staudenbühl school swimming facility in Zurich West serves for swimming lessons and sports.",
-                  "category": "family",
-                  "coords": [
-                        8.535288,
-                        47.419216
-                  ]
-            },
-            {
-                  "name": "Flussbad Oberer Letten",
-                  "text": "The Flussbad Oberer Letten in Zurich West offers an opportunity for river swimming.",
-                  "category": "family",
-                  "coords": [
-                        8.536456,
-                        47.384451
-                  ]
-            },
-            {
                   "name": "Offener Stall",
                   "text": "The Offener Stall in Zurich West is a small zoo showing animals in an urban setting.",
                   "category": "family",
                   "coords": [
                         8.520687,
                         47.392797
-                  ]
-            },
-            {
-                  "name": "Männerbad Schanzengraben",
-                  "text": "The Männerbad Schanzengraben in Zurich West is a traditional bathing facility for men.",
-                  "category": "family",
-                  "coords": [
-                        8.532717,
-                        47.371277
                   ]
             }
       ]
@@ -3831,15 +2283,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monts Rosets",
-                  "text": "Ein Berggipfel in den Schweizer Alpen nahe der Grande-Dixence-Anlage.",
-                  "category": "landmark",
-                  "coords": [
-                        7.359466,
-                        46.093895
-                  ]
-            },
-            {
                   "name": "Pointe de Vouasson",
                   "text": "Ein hoher Berggipfel in den Walliser Alpen oberhalb von Grande Dixence.",
                   "category": "landmark",
@@ -3902,15 +2345,6 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         7.403638,
                         46.084334
-                  ]
-            },
-            {
-                  "name": "Monts Rosets",
-                  "text": "Hegycúcs a Svájci-Alpokban, a Grande Dixence létesítmény közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        7.359466,
-                        46.093895
                   ]
             },
             {
@@ -3979,15 +2413,6 @@ export const switzerlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monts Rosets",
-                  "text": "Un vârf muntos din Alpii Elvețieni, lângă complexul Grande Dixence.",
-                  "category": "landmark",
-                  "coords": [
-                        7.359466,
-                        46.093895
-                  ]
-            },
-            {
                   "name": "Pointe de Vouasson",
                   "text": "Un vârf muntos înalt din Alpii Valaisani, situat deasupra Grande Dixence.",
                   "category": "landmark",
@@ -4050,15 +2475,6 @@ export const switzerlandEconomicV2: POI[] = [
                   "coords": [
                         7.403638,
                         46.084334
-                  ]
-            },
-            {
-                  "name": "Monts Rosets",
-                  "text": "A mountain peak in the Swiss Alps located near the Grande Dixence facility.",
-                  "category": "landmark",
-                  "coords": [
-                        7.359466,
-                        46.093895
                   ]
             },
             {

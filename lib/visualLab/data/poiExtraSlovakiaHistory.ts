@@ -15,15 +15,6 @@ export const slovakiaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Archeologické nálezisko na Pažici",
-                  "text": "Eine mittelalterliche Siedlungsgrabung am Fuße der Zipser Burg.",
-                  "category": "historical",
-                  "coords": [
-                        20.738884,
-                        49.001463
-                  ]
-            },
-            {
                   "name": "Dreveník",
                   "text": "Ein markanter Travertinfelsen und Naturschutzgebiet in der Nähe der Zipser Burg.",
                   "category": "landmark",
@@ -86,15 +77,6 @@ export const slovakiaHistory: POI[] = [
                   "coords": [
                         20.767518,
                         48.999376
-                  ]
-            },
-            {
-                  "name": "Archeologické nálezisko na Pažici",
-                  "text": "Középkori településásatás a Szepesi vár lábánál.",
-                  "category": "historical",
-                  "coords": [
-                        20.738884,
-                        49.001463
                   ]
             },
             {
@@ -163,15 +145,6 @@ export const slovakiaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Archeologické nálezisko na Pažici",
-                  "text": "O săpătură arheologică medievală la poalele Castelului Spiš.",
-                  "category": "historical",
-                  "coords": [
-                        20.738884,
-                        49.001463
-                  ]
-            },
-            {
                   "name": "Dreveník",
                   "text": "O stâncă de travertin și o rezervație naturală în apropierea Castelului Spiš.",
                   "category": "landmark",
@@ -234,15 +207,6 @@ export const slovakiaHistory: POI[] = [
                   "coords": [
                         20.767518,
                         48.999376
-                  ]
-            },
-            {
-                  "name": "Archeologické nálezisko na Pažici",
-                  "text": "A medieval settlement excavation at the foot of Spiš Castle.",
-                  "category": "historical",
-                  "coords": [
-                        20.738884,
-                        49.001463
                   ]
             },
             {

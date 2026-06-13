@@ -3246,24 +3246,6 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
     id: "rhenish-mission-church-walvis-bay-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Rheinische Missionskirche",
-                  "text": "Eine historische deutsche Rhenische Missionskirche aus Fachwerk, die 1880 in der Küstenstadt Walvis Bay erbaut wurde.",
-                  "category": "religious",
-                  "coords": [
-                        14.493067,
-                        -22.964287
-                  ]
-            },
-            {
-                  "name": "Moth Center",
-                  "text": "Ein engagiertes lokales Museum in Walvis Bay, das Artefakte ausstellt, die sich auf die militärische und zivile Geschichte der Region beziehen.",
-                  "category": "museum",
-                  "coords": [
-                        14.506403,
-                        -22.954734
-                  ]
-            },
-            {
                   "name": "Walvis Bay Museum",
                   "text": "Ein bürgerliches Museum in der örtlichen Bibliothek, das das maritime Erbe und archäologische Funde der Namib-Küste detailliert beschreibt.",
                   "category": "museum",
@@ -3292,24 +3274,6 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Rheinische Missionskirche",
-                  "text": "Történelmi német favázas rajnai missziós templom, amely 1880-ban épült Walvis Bay tengerparti városában.",
-                  "category": "religious",
-                  "coords": [
-                        14.493067,
-                        -22.964287
-                  ]
-            },
-            {
-                  "name": "Moth Center",
-                  "text": "Walvis Bayben található helyi múzeum, amely a régió katonai és polgári történetéhez kapcsolódó tárgyakat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        14.506403,
-                        -22.954734
-                  ]
-            },
             {
                   "name": "Walvis Bay Museum",
                   "text": "A helyi könyvtáron belül található polgári múzeum, amely részletezi a Namib-part tengerészeti örökségét és régészeti leleteit.",
@@ -3340,24 +3304,6 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rheinische Missionskirche",
-                  "text": "O biserică istorică germană a misiunii renane, cu structură din lemn, construită în 1880 în orașul de coastă Walvis Bay.",
-                  "category": "religious",
-                  "coords": [
-                        14.493067,
-                        -22.964287
-                  ]
-            },
-            {
-                  "name": "Moth Center",
-                  "text": "Un muzeu local dedicat găzduit în Walvis Bay care expune artefacte legate de istoria militară și civilă a regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        14.506403,
-                        -22.954734
-                  ]
-            },
-            {
                   "name": "Walvis Bay Museum",
                   "text": "Un muzeu civic situat în cadrul bibliotecii locale, detaliind patrimoniul maritim și descoperirile arheologice de pe coasta Namibului.",
                   "category": "museum",
@@ -3386,24 +3332,6 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Rheinische Missionskirche",
-                  "text": "A historic German timber-framed Rhenish mission church built in 1880 in the coastal town of Walvis Bay.",
-                  "category": "religious",
-                  "coords": [
-                        14.493067,
-                        -22.964287
-                  ]
-            },
-            {
-                  "name": "Moth Center",
-                  "text": "A dedicated local museum housed in Walvis Bay that exhibits artifacts related to the region's military and civil history.",
-                  "category": "museum",
-                  "coords": [
-                        14.506403,
-                        -22.954734
-                  ]
-            },
             {
                   "name": "Walvis Bay Museum",
                   "text": "A civic museum situated within the local library, detailing the maritime heritage and archaeological finds of the Namib coast.",

@@ -750,33 +750,6 @@ imageHint: "City of Arts and Sciences Valencia at night",
                   ]
             },
             {
-                  "name": "Parc Natural de la Muntanya de Montserrat",
-                  "text": "Ein Schutzgebiet, das das ikonische Bergmassiv von Montserrat umfasst.",
-                  "category": "natural",
-                  "coords": [
-                        1.811635,
-                        41.601565
-                  ]
-            },
-            {
-                  "name": "Castell de Collbató",
-                  "text": "Die Ruinen einer mittelalterlichen Burg auf einem Felsvorsprung.",
-                  "category": "castle",
-                  "coords": [
-                        1.830134,
-                        41.569425
-                  ]
-            },
-            {
-                  "name": "Molí d'Oli",
-                  "text": "Ein Museum, das der traditionellen Olivenölproduktion gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        1.82785,
-                        41.570632
-                  ]
-            },
-            {
                   "name": "Palau prioral de Monistrol",
                   "text": "Palau prioral de Monistrol, ein Museum im ehemaligen Prioratspalast am Fuße des Montserrat.",
                   "category": "museum",
@@ -821,33 +794,6 @@ imageHint: "City of Arts and Sciences Valencia at night",
                   "coords": [
                         1.836196,
                         41.592938
-                  ]
-            },
-            {
-                  "name": "Parc Natural de la Muntanya de Montserrat",
-                  "text": "Védett terület, amely magában foglalja a Montserrat ikonikus hegytömbjét.",
-                  "category": "natural",
-                  "coords": [
-                        1.811635,
-                        41.601565
-                  ]
-            },
-            {
-                  "name": "Castell de Collbató",
-                  "text": "Egy sziklakiszögellésen álló középkori vár romjai.",
-                  "category": "castle",
-                  "coords": [
-                        1.830134,
-                        41.569425
-                  ]
-            },
-            {
-                  "name": "Molí d'Oli",
-                  "text": "A hagyományos olívaolaj-termelésnek szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        1.82785,
-                        41.570632
                   ]
             },
             {
@@ -898,33 +844,6 @@ imageHint: "City of Arts and Sciences Valencia at night",
                   ]
             },
             {
-                  "name": "Parc Natural de la Muntanya de Montserrat",
-                  "text": "O zonă protejată care cuprinde masivul montan iconic Montserrat.",
-                  "category": "natural",
-                  "coords": [
-                        1.811635,
-                        41.601565
-                  ]
-            },
-            {
-                  "name": "Castell de Collbató",
-                  "text": "Ruinele unui castel medieval situat pe un afloriment stâncos.",
-                  "category": "castle",
-                  "coords": [
-                        1.830134,
-                        41.569425
-                  ]
-            },
-            {
-                  "name": "Molí d'Oli",
-                  "text": "Un muzeu dedicat producției tradiționale de ulei de măsline.",
-                  "category": "museum",
-                  "coords": [
-                        1.82785,
-                        41.570632
-                  ]
-            },
-            {
                   "name": "Palau prioral de Monistrol",
                   "text": "Palau prioral de Monistrol, un muzeu în fostul palat prioral la poalele Montserratului.",
                   "category": "museum",
@@ -969,33 +888,6 @@ imageHint: "City of Arts and Sciences Valencia at night",
                   "coords": [
                         1.836196,
                         41.592938
-                  ]
-            },
-            {
-                  "name": "Parc Natural de la Muntanya de Montserrat",
-                  "text": "A protected area encompassing the iconic Montserrat mountain massif.",
-                  "category": "natural",
-                  "coords": [
-                        1.811635,
-                        41.601565
-                  ]
-            },
-            {
-                  "name": "Castell de Collbató",
-                  "text": "The ruins of a medieval castle situated on a rocky outcrop.",
-                  "category": "castle",
-                  "coords": [
-                        1.830134,
-                        41.569425
-                  ]
-            },
-            {
-                  "name": "Molí d'Oli",
-                  "text": "A museum dedicated to traditional olive oil production.",
-                  "category": "museum",
-                  "coords": [
-                        1.82785,
-                        41.570632
                   ]
             },
             {
@@ -1267,50 +1159,10 @@ imageHint: "Casa Batllo facade with colorful mosaics and bone-like columns",
     image: "/poi-images/spain-casa-battlo-landmarks-v2.webp",
 },  {
     id: "spain-castillo-loarre-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Castillo de Loarre",
-                  "text": "Diese beeindruckende romanische Festung gilt als eine der besterhaltenen Burgen Spaniens.",
-                  "category": "castle",
-                  "coords": [
-                        -0.612707,
-                        42.325447
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Castillo de Loarre",
-                  "text": "Ez a lenyűgöző román stílusú erőd Spanyolország egyik legjobb állapotban fennmaradt vára.",
-                  "category": "castle",
-                  "coords": [
-                        -0.612707,
-                        42.325447
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Castillo de Loarre",
-                  "text": "Această impresionantă fortăreață romanică este considerată unul dintre cele mai bine conservate castele din Spania.",
-                  "category": "castle",
-                  "coords": [
-                        -0.612707,
-                        42.325447
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Castillo de Loarre",
-                  "text": "This impressive Romanesque fortress is considered one of the best-preserved castles in Spain.",
-                  "category": "castle",
-                  "coords": [
-                        -0.612707,
-                        42.325447
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "ES",
     type: "castle",
@@ -1497,30 +1349,12 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
     id: "spain-monastery-poblet-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Castell de Milmanda",
-                  "text": "Eine historische Burg in der Nähe des Klosters Poblet, umgeben von Weinbergen.",
-                  "category": "castle",
-                  "coords": [
-                        1.074727,
-                        41.397296
-                  ]
-            },
-            {
                   "name": "Museu de la Vida Rural",
                   "text": "Ein Museum in L'Espluga de Francolí, das dem ländlichen Leben und der Landwirtschaftsgeschichte Kataloniens gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         1.106213,
                         41.396644
-                  ]
-            },
-            {
-                  "name": "Castell de Riudabella",
-                  "text": "Ein befestigtes Herrenhaus und Schloss in der Nähe des Klosters Poblet.",
-                  "category": "castle",
-                  "coords": [
-                        1.042447,
-                        41.372481
                   ]
             },
             {
@@ -1551,15 +1385,6 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
                   ]
             },
             {
-                  "name": "Roca de la Mel",
-                  "text": "Ein Gipfel im Prades-Gebirge in der Nähe des Klosters Poblet.",
-                  "category": "landmark",
-                  "coords": [
-                        1.06495,
-                        41.35765
-                  ]
-            },
-            {
                   "name": "l'Escolta",
                   "text": "Historische Ruinen in der natürlichen Umgebung des Klosters Poblet.",
                   "category": "historical",
@@ -1567,27 +1392,9 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
                         1.08568,
                         41.367739
                   ]
-            },
-            {
-                  "name": "Piscina gran",
-                  "text": "Ein großes Schwimmbecken zur Erholung in der Nähe des Klosters von Poblet.",
-                  "category": "recreational",
-                  "coords": [
-                        1.041053,
-                        41.403929
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Castell de Milmanda",
-                  "text": "Történelmi vár a Poblet-kolostor közelében, szőlőültetvényekkel körülvéve.",
-                  "category": "castle",
-                  "coords": [
-                        1.074727,
-                        41.397296
-                  ]
-            },
             {
                   "name": "Museu de la Vida Rural",
                   "text": "L'Espluga de Francolí múzeuma, amely a katalán vidéki életet és a mezőgazdaság történetét mutatja be.",
@@ -1595,15 +1402,6 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
                   "coords": [
                         1.106213,
                         41.396644
-                  ]
-            },
-            {
-                  "name": "Castell de Riudabella",
-                  "text": "Erődített udvarház és vár a Poblet-kolostor környékén.",
-                  "category": "castle",
-                  "coords": [
-                        1.042447,
-                        41.372481
                   ]
             },
             {
@@ -1634,15 +1432,6 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
                   ]
             },
             {
-                  "name": "Roca de la Mel",
-                  "text": "Hegycsúcs a Prades-hegységben, a Poblet-kolostor közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        1.06495,
-                        41.35765
-                  ]
-            },
-            {
                   "name": "l'Escolta",
                   "text": "Történelmi romok a Poblet-kolostor természeti környezetében.",
                   "category": "historical",
@@ -1650,27 +1439,9 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
                         1.08568,
                         41.367739
                   ]
-            },
-            {
-                  "name": "Piscina gran",
-                  "text": "Nagy úszómedence, amely kikapcsolódást nyújt a pobleti kolostor közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        1.041053,
-                        41.403929
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Castell de Milmanda",
-                  "text": "Un castel istoric situat lângă Mănăstirea Poblet, înconjurat de podgorii.",
-                  "category": "castle",
-                  "coords": [
-                        1.074727,
-                        41.397296
-                  ]
-            },
             {
                   "name": "Museu de la Vida Rural",
                   "text": "Un muzeu în L'Espluga de Francolí dedicat vieții rurale și istoriei agricole din Catalonia.",
@@ -1678,15 +1449,6 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
                   "coords": [
                         1.106213,
                         41.396644
-                  ]
-            },
-            {
-                  "name": "Castell de Riudabella",
-                  "text": "Un conac fortificat și castel situat în apropierea Mănăstirii Poblet.",
-                  "category": "castle",
-                  "coords": [
-                        1.042447,
-                        41.372481
                   ]
             },
             {
@@ -1717,15 +1479,6 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
                   ]
             },
             {
-                  "name": "Roca de la Mel",
-                  "text": "Un vârf în Munții Prades, lângă Mănăstirea Poblet.",
-                  "category": "landmark",
-                  "coords": [
-                        1.06495,
-                        41.35765
-                  ]
-            },
-            {
                   "name": "l'Escolta",
                   "text": "Ruine istorice situate în împrejurimile naturale ale Mănăstirii Poblet.",
                   "category": "historical",
@@ -1733,27 +1486,9 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
                         1.08568,
                         41.367739
                   ]
-            },
-            {
-                  "name": "Piscina gran",
-                  "text": "O piscină mare care oferă recreere lângă Mănăstirea Poblet.",
-                  "category": "recreational",
-                  "coords": [
-                        1.041053,
-                        41.403929
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Castell de Milmanda",
-                  "text": "A historical castle located near the Monastery of Poblet, surrounded by vineyards.",
-                  "category": "castle",
-                  "coords": [
-                        1.074727,
-                        41.397296
-                  ]
-            },
             {
                   "name": "Museu de la Vida Rural",
                   "text": "A museum in L'Espluga de Francolí dedicated to rural life and agricultural history in Catalonia.",
@@ -1761,15 +1496,6 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
                   "coords": [
                         1.106213,
                         41.396644
-                  ]
-            },
-            {
-                  "name": "Castell de Riudabella",
-                  "text": "A fortified manor house and castle located in the vicinity of the Monastery of Poblet.",
-                  "category": "castle",
-                  "coords": [
-                        1.042447,
-                        41.372481
                   ]
             },
             {
@@ -1800,30 +1526,12 @@ imageHint: "Roman Bridge of Cordoba at sunset with the cathedral in the backgrou
                   ]
             },
             {
-                  "name": "Roca de la Mel",
-                  "text": "A peak in the Prades Mountains near the Monastery of Poblet.",
-                  "category": "landmark",
-                  "coords": [
-                        1.06495,
-                        41.35765
-                  ]
-            },
-            {
                   "name": "l'Escolta",
                   "text": "Historical ruins located in the natural surroundings of the Monastery of Poblet.",
                   "category": "historical",
                   "coords": [
                         1.08568,
                         41.367739
-                  ]
-            },
-            {
-                  "name": "Piscina gran",
-                  "text": "A large swimming pool providing recreation near the Monastery of Poblet.",
-                  "category": "recreational",
-                  "coords": [
-                        1.041053,
-                        41.403929
                   ]
             }
       ]

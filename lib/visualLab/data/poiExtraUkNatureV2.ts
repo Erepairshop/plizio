@@ -323,33 +323,6 @@ imageHint: "Loch Ness lake with Urquhart Castle ruins",
     id: "uk-giants-causeway-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Rath",
-                  "text": "Eine antike archäologische Stätte in der Nähe des Giant's Causeway.",
-                  "category": "historical",
-                  "coords": [
-                        -6.493718,
-                        55.215135
-                  ]
-            },
-            {
-                  "name": "Carnkirk Castle",
-                  "text": "Die Überreste einer archäologischen Stätte namens Carnkirk Castle in der Nähe des Giant's Causeway.",
-                  "category": "historical",
-                  "coords": [
-                        -6.497026,
-                        55.218482
-                  ]
-            },
-            {
-                  "name": "Lissanduff Earthworks",
-                  "text": "Ein Naturschutzgebiet mit alten Erdwällen im Gebiet des Giant's Causeway.",
-                  "category": "natural",
-                  "coords": [
-                        -6.538897,
-                        55.218426
-                  ]
-            },
-            {
                   "name": "Runkerry Stand (Bushfoot)",
                   "text": "Aussichtspunkt am Runkerry Strand mit Blick auf Golfplatz und Klippen.",
                   "category": "recreational",
@@ -357,72 +330,9 @@ imageHint: "Loch Ness lake with Urquhart Castle ruins",
                         -6.53085,
                         55.223327
                   ]
-            },
-            {
-                  "name": "Portballintrae Beach",
-                  "text": "Ein wunderschöner Sandstrand in Portballintrae, in der Nähe des Giant's Causeway.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.547167,
-                        55.216657
-                  ]
-            },
-            {
-                  "name": "Giant's Causeway",
-                  "text": "Ein berühmtes Naturwunder, das aus etwa 40.000 ineinandergreifenden Basaltsäulen besteht.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.511676,
-                        55.240525
-                  ]
-            },
-            {
-                  "name": "Giant's Boot",
-                  "text": "Eine einzigartige Felsformation am Giant's Causeway, die einem großen Stiefel ähnelt.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.508278,
-                        55.239905
-                  ]
-            },
-            {
-                  "name": "The Organ",
-                  "text": "Eine markante Formation aus Basaltsäulen am Giant's Causeway, die an Orgelpfeifen erinnert.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.503815,
-                        55.241424
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Rath",
-                  "text": "Ősi régészeti lelőhely a Giant's Causeway közelében.",
-                  "category": "historical",
-                  "coords": [
-                        -6.493718,
-                        55.215135
-                  ]
-            },
-            {
-                  "name": "Carnkirk Castle",
-                  "text": "A Carnkirk Castle néven ismert régészeti lelőhely maradványai a Giant's Causeway közelében.",
-                  "category": "historical",
-                  "coords": [
-                        -6.497026,
-                        55.218482
-                  ]
-            },
-            {
-                  "name": "Lissanduff Earthworks",
-                  "text": "Természetvédelmi terület ősi földvárakkal a Giant's Causeway környékén.",
-                  "category": "natural",
-                  "coords": [
-                        -6.538897,
-                        55.218426
-                  ]
-            },
             {
                   "name": "Runkerry Stand (Bushfoot)",
                   "text": "Kilátó a Runkerry strandon, golfpályára és sziklákra néző kilátással.",
@@ -431,72 +341,9 @@ imageHint: "Loch Ness lake with Urquhart Castle ruins",
                         -6.53085,
                         55.223327
                   ]
-            },
-            {
-                  "name": "Portballintrae Beach",
-                  "text": "Szép homokos strand Portballintrae-ben, a Giant's Causeway közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.547167,
-                        55.216657
-                  ]
-            },
-            {
-                  "name": "Giant's Causeway",
-                  "text": "Híres természeti csoda, amely körülbelül 40 000 egymáshoz kapcsolódó bazaltoszlopból áll.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.511676,
-                        55.240525
-                  ]
-            },
-            {
-                  "name": "Giant's Boot",
-                  "text": "Egy különleges sziklaalakzat a Giant's Causeway-nél, amely egy nagy csizmára hasonlít.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.508278,
-                        55.239905
-                  ]
-            },
-            {
-                  "name": "The Organ",
-                  "text": "Feltűnő bazaltoszlop-alakzat a Giant's Causeway-nél, amely orgonasípokra emlékeztet.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.503815,
-                        55.241424
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Rath",
-                  "text": "Un sit arheologic antic situat în apropiere de Giant's Causeway.",
-                  "category": "historical",
-                  "coords": [
-                        -6.493718,
-                        55.215135
-                  ]
-            },
-            {
-                  "name": "Carnkirk Castle",
-                  "text": "Rămășițele unui sit arheologic cunoscut sub numele de Castelul Carnkirk de lângă Giant's Causeway.",
-                  "category": "historical",
-                  "coords": [
-                        -6.497026,
-                        55.218482
-                  ]
-            },
-            {
-                  "name": "Lissanduff Earthworks",
-                  "text": "O rezervație naturală cu terasamente antice în zona Giant's Causeway.",
-                  "category": "natural",
-                  "coords": [
-                        -6.538897,
-                        55.218426
-                  ]
-            },
             {
                   "name": "Runkerry Stand (Bushfoot)",
                   "text": "Punct de belvedere pe plaja Runkerry, cu vedere spre terenul de golf și stânci.",
@@ -505,72 +352,9 @@ imageHint: "Loch Ness lake with Urquhart Castle ruins",
                         -6.53085,
                         55.223327
                   ]
-            },
-            {
-                  "name": "Portballintrae Beach",
-                  "text": "O plajă frumoasă cu nisip în Portballintrae, aproape de Giant's Causeway.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.547167,
-                        55.216657
-                  ]
-            },
-            {
-                  "name": "Giant's Causeway",
-                  "text": "O minune naturală faimoasă constând în aproximativ 40.000 de coloane de bazalt interconectate.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.511676,
-                        55.240525
-                  ]
-            },
-            {
-                  "name": "Giant's Boot",
-                  "text": "O formațiune stâncoasă unică la Giant's Causeway care seamănă cu o cizmă mare.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.508278,
-                        55.239905
-                  ]
-            },
-            {
-                  "name": "The Organ",
-                  "text": "O formațiune remarcabilă de coloane de bazalt la Giant's Causeway, asemănătoare cu tuburile unei orgi.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.503815,
-                        55.241424
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Rath",
-                  "text": "An ancient archaeological site located near the Giant's Causeway.",
-                  "category": "historical",
-                  "coords": [
-                        -6.493718,
-                        55.215135
-                  ]
-            },
-            {
-                  "name": "Carnkirk Castle",
-                  "text": "The remains of an archaeological site known as Carnkirk Castle near Giant's Causeway.",
-                  "category": "historical",
-                  "coords": [
-                        -6.497026,
-                        55.218482
-                  ]
-            },
-            {
-                  "name": "Lissanduff Earthworks",
-                  "text": "A nature reserve featuring ancient earthworks in the Giant's Causeway area.",
-                  "category": "natural",
-                  "coords": [
-                        -6.538897,
-                        55.218426
-                  ]
-            },
             {
                   "name": "Runkerry Stand (Bushfoot)",
                   "text": "Viewpoint on Runkerry beach overlooking the golf course and cliffs.",
@@ -578,42 +362,6 @@ imageHint: "Loch Ness lake with Urquhart Castle ruins",
                   "coords": [
                         -6.53085,
                         55.223327
-                  ]
-            },
-            {
-                  "name": "Portballintrae Beach",
-                  "text": "A beautiful sandy beach in Portballintrae, close to the Giant's Causeway.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.547167,
-                        55.216657
-                  ]
-            },
-            {
-                  "name": "Giant's Causeway",
-                  "text": "A famous natural wonder consisting of about 40,000 interlocking basalt columns.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.511676,
-                        55.240525
-                  ]
-            },
-            {
-                  "name": "Giant's Boot",
-                  "text": "A unique rock formation at the Giant's Causeway that resembles a large boot.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.508278,
-                        55.239905
-                  ]
-            },
-            {
-                  "name": "The Organ",
-                  "text": "A striking basalt column formation at the Giant's Causeway resembling organ pipes.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.503815,
-                        55.241424
                   ]
             }
       ]

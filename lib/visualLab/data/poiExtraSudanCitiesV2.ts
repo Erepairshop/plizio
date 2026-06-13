@@ -392,57 +392,12 @@ export const poiExtraSudanCitiesV2: POI[] = [
     id: "khartoum-bahri-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Military Museum",
-                  "text": "Militärmuseum mit historischen Waffen und Uniformen in Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.542868,
-                        15.619707
-                  ]
-            },
-            {
                   "name": "Arkaweet Park - Bahri",
                   "text": "Familienpark im Viertel Arkaweet von Bahri mit Picknickplätzen und einem Spielplatz.",
                   "category": "family",
                   "coords": [
                         32.542061,
                         15.621688
-                  ]
-            },
-            {
-                  "name": "Palace Museum",
-                  "text": "Museum in einem ehemaligen Königspalast in Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.528694,
-                        15.607966
-                  ]
-            },
-            {
-                  "name": "Ethnological Museum",
-                  "text": "Ethnologisches Museum mit traditioneller sudanesischer Kultur und Artefakten in Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.534253,
-                        15.607988
-                  ]
-            },
-            {
-                  "name": "Aboud Theme Park",
-                  "text": "Der Aboud Theme Park bietet Vergnügungsattraktionen in Khartum Bahri.",
-                  "category": "family",
-                  "coords": [
-                        32.540607,
-                        15.626326
-                  ]
-            },
-            {
-                  "name": "Natural History Museum",
-                  "text": "Naturkundemuseum mit Ausstellungen zu sudanesischer Tierwelt und Fossilien in Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.539803,
-                        15.608855
                   ]
             },
             {
@@ -491,15 +446,6 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "home",
-                  "text": "Home ist als lokaler Aussichtspunkt in Khartum Bahri ausgewiesen.",
-                  "category": "natural",
-                  "coords": [
-                        32.556762,
-                        15.621035
-                  ]
-            },
-            {
                   "name": "Lion Sands",
                   "text": "Lion Sands, eine natürliche Sandformation nahe dem Blauen Nil in Bahri.",
                   "category": "natural",
@@ -527,24 +473,6 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Atanye",
-                  "text": "Atanye, ein Museum für sudanesisches Erbe und Handwerk in Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.528784,
-                        15.605977
-                  ]
-            },
-            {
-                  "name": "Khaish Art Studio",
-                  "text": "Khaish Art Studio, ein Museum und Arbeitsraum für Maler und Bildhauer in Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.534573,
-                        15.610632
-                  ]
-            },
-            {
                   "name": "Shambat Bridge",
                   "text": "Eine Straßenbrücke über den Blauen Nil, die Khartum und Bahri verbindet.",
                   "category": "landmark",
@@ -556,15 +484,6 @@ export const poiExtraSudanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Military Museum",
-                  "text": "Katonai múzeum történelmi fegyverekkel és egyenruhákkal Bahri-ban.",
-                  "category": "museum",
-                  "coords": [
-                        32.542868,
-                        15.619707
-                  ]
-            },
-            {
                   "name": "Arkaweet Park - Bahri",
                   "text": "Családi park Bahri Arkaweet negyedében, piknikezőhelyekkel és játszótérrel.",
                   "category": "family",
@@ -574,39 +493,12 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palace Museum",
-                  "text": "Múzeum egy egykori királyi palotában Bahri-ban.",
-                  "category": "museum",
-                  "coords": [
-                        32.528694,
-                        15.607966
-                  ]
-            },
-            {
-                  "name": "Ethnological Museum",
-                  "text": "Néprajzi múzeum hagyományos szudáni kultúrával és tárgyakkal Bahri-ban.",
-                  "category": "museum",
-                  "coords": [
-                        32.534253,
-                        15.607988
-                  ]
-            },
-            {
                   "name": "Aboud Park",
                   "text": "Az Aboud Theme Park különféle szórakoztató attrakciókat kínál Khartum Bahriban.",
                   "category": "family",
                   "coords": [
                         32.540607,
                         15.626326
-                  ]
-            },
-            {
-                  "name": "Natural History Museum",
-                  "text": "Természetrajzi múzeum szudáni vadvilágról és kövületekről Bahri-ban.",
-                  "category": "museum",
-                  "coords": [
-                        32.539803,
-                        15.608855
                   ]
             },
             {
@@ -655,15 +547,6 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "home",
-                  "text": "A Home egy helyi kilátópontként van megjelölve Khartum Bahriban.",
-                  "category": "natural",
-                  "coords": [
-                        32.556762,
-                        15.621035
-                  ]
-            },
-            {
                   "name": "Lion Sands",
                   "text": "Lion Sands, egy természetes homokformáció a Kék Nílus közelében Bahri-ban.",
                   "category": "natural",
@@ -691,24 +574,6 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Atanye",
-                  "text": "Atanye, a szudáni örökség és kézművesség múzeuma Bahri-ban.",
-                  "category": "museum",
-                  "coords": [
-                        32.528784,
-                        15.605977
-                  ]
-            },
-            {
-                  "name": "Khaish Art Studio",
-                  "text": "Khaish Art Studio, múzeum és munkatér festők és szobrászok számára Bahri-ban.",
-                  "category": "museum",
-                  "coords": [
-                        32.534573,
-                        15.610632
-                  ]
-            },
-            {
                   "name": "Shambat Bridge",
                   "text": "A Kék-Níluson átívelő közúti híd, amely Kartúmot és Bahrit köti össze.",
                   "category": "landmark",
@@ -720,15 +585,6 @@ export const poiExtraSudanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Military Museum",
-                  "text": "Muzeul militar cu arme și uniforme istorice din Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.542868,
-                        15.619707
-                  ]
-            },
-            {
                   "name": "Arkaweet Park - Bahri",
                   "text": "Parcul familial din cartierul Arkaweet din Bahri, cu zone de picnic și un loc de joacă.",
                   "category": "family",
@@ -738,39 +594,12 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palace Museum",
-                  "text": "Muzeul găzduit într-un fost palat regal din Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.528694,
-                        15.607966
-                  ]
-            },
-            {
-                  "name": "Ethnological Museum",
-                  "text": "Muzeul etnologic cu cultura și artefacte tradiționale sudaneze din Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.534253,
-                        15.607988
-                  ]
-            },
-            {
                   "name": "Aboud Park",
                   "text": "Aboud Theme Park oferă atracții de agrement în Khartum Bahri.",
                   "category": "family",
                   "coords": [
                         32.540607,
                         15.626326
-                  ]
-            },
-            {
-                  "name": "Natural History Museum",
-                  "text": "Muzeul de istorie naturală cu expoziții despre fauna și fosilele sudaneze din Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.539803,
-                        15.608855
                   ]
             },
             {
@@ -819,15 +648,6 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "home",
-                  "text": "Home este desemnat ca un punct de belvedere local în Khartum Bahri.",
-                  "category": "natural",
-                  "coords": [
-                        32.556762,
-                        15.621035
-                  ]
-            },
-            {
                   "name": "Lion Sands",
                   "text": "Lion Sands, o formațiune naturală de nisip lângă Nilul Albastru din Bahri.",
                   "category": "natural",
@@ -855,24 +675,6 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Atanye",
-                  "text": "Atanye, un muzeu al patrimoniului și meșteșugurilor sudaneze din Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.528784,
-                        15.605977
-                  ]
-            },
-            {
-                  "name": "Khaish Art Studio",
-                  "text": "Khaish Art Studio, un muzeu și spațiu de lucru pentru pictori și sculptori din Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.534573,
-                        15.610632
-                  ]
-            },
-            {
                   "name": "Shambat Bridge",
                   "text": "Un pod rutier peste Nilul Albastru, care leagă Khartoum de Bahri.",
                   "category": "landmark",
@@ -884,57 +686,12 @@ export const poiExtraSudanCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Military Museum",
-                  "text": "Military museum exhibiting historic weapons and uniforms in Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.542868,
-                        15.619707
-                  ]
-            },
-            {
                   "name": "Arkaweet Park - Bahri",
                   "text": "Family park in the Arkaweet neighborhood of Bahri with picnic areas and a playground.",
                   "category": "family",
                   "coords": [
                         32.542061,
                         15.621688
-                  ]
-            },
-            {
-                  "name": "Palace Museum",
-                  "text": "Museum housed in a former royal palace in Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.528694,
-                        15.607966
-                  ]
-            },
-            {
-                  "name": "Ethnological Museum",
-                  "text": "Ethnological museum showcasing traditional Sudanese culture and artifacts in Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.534253,
-                        15.607988
-                  ]
-            },
-            {
-                  "name": "Aboud Theme Park",
-                  "text": "Aboud Theme Park provides amusement and recreational activities in Khartum Bahri.",
-                  "category": "family",
-                  "coords": [
-                        32.540607,
-                        15.626326
-                  ]
-            },
-            {
-                  "name": "Natural History Museum",
-                  "text": "Natural history museum with exhibits on Sudanese wildlife and fossils in Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.539803,
-                        15.608855
                   ]
             },
             {
@@ -974,24 +731,6 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "United Nations Development Programme (UNDP)",
-                  "text": "The United Nations Development Programme (UNDP) site acts as a monumental landmark in Khartum Bahri.",
-                  "category": "historical",
-                  "coords": [
-                        32.536439,
-                        15.60902
-                  ]
-            },
-            {
-                  "name": "home",
-                  "text": "Home is designated as a local viewpoint in Khartum Bahri.",
-                  "category": "natural",
-                  "coords": [
-                        32.556762,
-                        15.621035
-                  ]
-            },
-            {
                   "name": "Lion Sands",
                   "text": "Lion Sands, a natural sand formation near the Blue Nile in Bahri.",
                   "category": "natural",
@@ -1016,24 +755,6 @@ export const poiExtraSudanCitiesV2: POI[] = [
                   "coords": [
                         32.530064,
                         15.64084
-                  ]
-            },
-            {
-                  "name": "Atanye",
-                  "text": "Atanye, a museum of Sudanese heritage and crafts in Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.528784,
-                        15.605977
-                  ]
-            },
-            {
-                  "name": "Khaish Art Studio",
-                  "text": "Khaish Art Studio, a museum and workspace for painters and sculptors in Bahri.",
-                  "category": "museum",
-                  "coords": [
-                        32.534573,
-                        15.610632
                   ]
             },
             {
@@ -4296,50 +4017,10 @@ export const poiExtraSudanCitiesV2: POI[] = [
   },
   {
     id: "rufaa-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Roufa'a Bridge",
-                  "text": "Die Roufa'a-Brücke ist eine bemerkenswerte Überquerungsattraktion, die den Blauen Nil überspannt, lokale Gemeinden verbindet und Flussblicke bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        33.308616,
-                        14.746757
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Roufa'a Bridge",
-                  "text": "A Roufa'a híd egy nevezetes átkelőhely, amely a Kék-Níluson ível át, összekötve a helyi közösségeket és kilátást nyújtva a folyóra.",
-                  "category": "landmark",
-                  "coords": [
-                        33.308616,
-                        14.746757
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Roufa'a Bridge",
-                  "text": "Podul Roufa'a este o atracție de trecere notabilă care traversează Nilul Albastru, conectând comunitățile locale și oferind vedere la râu.",
-                  "category": "landmark",
-                  "coords": [
-                        33.308616,
-                        14.746757
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Roufa'a Bridge",
-                  "text": "Roufa'a Bridge is a notable crossing attraction that spans the Blue Nile, connecting local communities and offering river views.",
-                  "category": "landmark",
-                  "coords": [
-                        33.308616,
-                        14.746757
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "SD-GZ",

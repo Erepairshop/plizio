@@ -3305,15 +3305,6 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Knysna Waterfront",
-                  "text": "Dieses belebte Hafenviertel liegt direkt am Ufer der weitläufigen Lagune von Knysna und bietet einen lebhaften Jachthafen, Restaurants und Boutiquen.",
-                  "category": "landmark",
-                  "coords": [
-                        23.045064,
-                        -34.041295
-                  ]
-            },
-            {
                   "name": "Margaret's Viewpoint",
                   "text": "Dieser hoch über der Stadt gelegene beliebte Aussichtspunkt bietet einen weiten Blick über die Knysna-Mündung bis hin zu den berühmten Heads.",
                   "category": "natural",
@@ -3332,30 +3323,12 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Motorcycle Room",
-                  "text": "Dieses spezialisierte Museum zeigt eine einzigartige Sammlung von Oldtimer-, Custom- und klassischen Motorrädern und zelebriert die Geschichte des Zweiradsports.",
-                  "category": "museum",
-                  "coords": [
-                        23.048187,
-                        -34.047948
-                  ]
-            },
-            {
                   "name": "Belvidere Manor Houseroad",
                   "text": "Die historische Gasse führt durch ein malerisches Anwesen, das sich durch seine Architektur im Kolonialstil des 19. Jahrhunderts und seine ruhigen Gärten mit Blick auf die Lagune auszeichnet.",
                   "category": "landmark",
                   "coords": [
                         22.99783,
                         -34.046848
-                  ]
-            },
-            {
-                  "name": "Friday Market",
-                  "text": "Auf diesem lebhaften Wochenmarkt im Freien versammeln sich lokale Kunsthandwerker und Bauern, um frische regionale Produkte, Kunsthandwerk und Streetfood zu verkaufen.",
-                  "category": "landmark",
-                  "coords": [
-                        23.020574,
-                        -34.033493
                   ]
             },
             {
@@ -3404,15 +3377,6 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Featherbed Tours",
-                  "text": "Diese geführten Öko-Ausflüge bieten einen exklusiven Boots- und Fußgängerzugang über die Lagune von Knysna zum unberührten Naturschutzgebiet am Western Head.",
-                  "category": "landmark",
-                  "coords": [
-                        23.040887,
-                        -34.039165
-                  ]
-            },
-            {
                   "name": "Skuilte Private Nature Reserve",
                   "text": "Dieses private Naturschutzgebiet aus dem Dezember 1981 schützt ein abgeschiedenes Stück einheimischen südafrikanischen Küstenwaldes und Fynbos.",
                   "category": "natural",
@@ -3451,15 +3415,6 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Knysna Waterfront",
-                  "text": "A hatalmas Knysna-lagúna partján fekvő nyüzsgő rakparti negyedben élénk kikötő, éttermek és butikok találhatók.",
-                  "category": "landmark",
-                  "coords": [
-                        23.045064,
-                        -34.041295
-                  ]
-            },
-            {
                   "name": "Margaret's Viewpoint",
                   "text": "A város felett magasodó népszerű kilátóhelyről tágas panoráma nyílik a Knysna-tölcsértorkolatra és a híres Heads sziklákra.",
                   "category": "natural",
@@ -3478,30 +3433,12 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Motorcycle Room",
-                  "text": "Ez a különleges múzeum a veterán, egyedi építésű és klasszikus motorkerékpárok egyedülálló gyűjteményét mutatja be, a kétkerekű autózás történetét ünnepelve.",
-                  "category": "museum",
-                  "coords": [
-                        23.048187,
-                        -34.047948
-                  ]
-            },
-            {
                   "name": "Belvidere Manor Houseroad",
                   "text": "A történelmi sáv egy festői birtokon vezet keresztül, amelyet a 19. századi gyarmati stílusú építészet és a lagúnára néző nyugodt kertek jellemeznek.",
                   "category": "landmark",
                   "coords": [
                         22.99783,
                         -34.046848
-                  ]
-            },
-            {
-                  "name": "Friday Market",
-                  "text": "A hetente megrendezett, nyüzsgő szabadtéri piacon helyi kézművesek és gazdák gyűlnek össze, hogy friss regionális termékeket, kézműves tárgyakat és utcai ételeket áruljanak.",
-                  "category": "landmark",
-                  "coords": [
-                        23.020574,
-                        -34.033493
                   ]
             },
             {
@@ -3550,15 +3487,6 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Featherbed Tours",
-                  "text": "Ezek a vezetett ökokirándulások exkluzív hajós és gyalogos hozzáférést biztosítanak a Knysna-lagúnán keresztül a Western Head érintetlen természetvédelmi területéhez.",
-                  "category": "landmark",
-                  "coords": [
-                        23.040887,
-                        -34.039165
-                  ]
-            },
-            {
                   "name": "Skuilte Private Nature Reserve",
                   "text": "Az 1981 decemberéig visszanyúló magán természetvédelmi terület az őshonos dél-afrikai part menti erdők és a fynbos egy eldugott szakaszát védi.",
                   "category": "natural",
@@ -3597,15 +3525,6 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Knysna Waterfront",
-                  "text": "Situată direct pe malurile vastei lagune Knysna, această zonă portuară plină de viață găzduiește un port de agrement animat, restaurante și magazine de tip boutique.",
-                  "category": "landmark",
-                  "coords": [
-                        23.045064,
-                        -34.041295
-                  ]
-            },
-            {
                   "name": "Margaret's Viewpoint",
                   "text": "Cocoțat deasupra orașului, acest punct de observație popular oferă o perspectivă largă asupra estuarului Knysna și către celebrele formațiuni stâncoase Heads.",
                   "category": "natural",
@@ -3624,30 +3543,12 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Motorcycle Room",
-                  "text": "Acest muzeu specializat prezintă o colecție unică de motociclete de epocă, personalizate și clasice, celebrând istoria automobilismului pe două roți.",
-                  "category": "museum",
-                  "coords": [
-                        23.048187,
-                        -34.047948
-                  ]
-            },
-            {
                   "name": "Belvidere Manor Houseroad",
                   "text": "Această alee istorică duce printr-o proprietate pitorească caracterizată de arhitectura sa în stil colonial din secolul al XIX-lea și de grădinile liniștite cu vedere la lagună.",
                   "category": "landmark",
                   "coords": [
                         22.99783,
                         -34.046848
-                  ]
-            },
-            {
-                  "name": "Friday Market",
-                  "text": "Funcționând săptămânal, această piață vibrantă în aer liber adună artizani și fermieri locali pentru a vinde produse regionale proaspete, obiecte de artizanat și mâncare stradală.",
-                  "category": "landmark",
-                  "coords": [
-                        23.020574,
-                        -34.033493
                   ]
             },
             {
@@ -3696,15 +3597,6 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Featherbed Tours",
-                  "text": "Aceste eco-excursii ghidate oferă acces exclusiv cu barca și pe jos prin lagunele Knysna către rezervația naturală curată de pe Western Head.",
-                  "category": "landmark",
-                  "coords": [
-                        23.040887,
-                        -34.039165
-                  ]
-            },
-            {
                   "name": "Skuilte Private Nature Reserve",
                   "text": "Datând din decembrie 1981, această zonă privată de conservare protejează o porțiune retrasă a pădurii de coastă și a fynbos-ului indigen din Africa de Sud.",
                   "category": "natural",
@@ -3743,15 +3635,6 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Knysna Waterfront",
-                  "text": "Situated directly on the shores of the expansive Knysna Lagoon, this bustling quayside precinct features a lively marina, restaurants, and boutique shops.",
-                  "category": "landmark",
-                  "coords": [
-                        23.045064,
-                        -34.041295
-                  ]
-            },
-            {
                   "name": "Margaret's Viewpoint",
                   "text": "Perched above the town, this popular observation spot provides expansive vistas across the Knysna estuary and out towards the famous Heads.",
                   "category": "natural",
@@ -3770,30 +3653,12 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Motorcycle Room",
-                  "text": "This specialized museum showcases a unique collection of vintage, custom, and classic motorcycles, celebrating the history of two-wheeled motoring.",
-                  "category": "museum",
-                  "coords": [
-                        23.048187,
-                        -34.047948
-                  ]
-            },
-            {
                   "name": "Belvidere Manor Houseroad",
                   "text": "The historic lane leads through a picturesque estate characterized by its 19th-century colonial-style architecture and tranquil gardens overlooking the lagoon.",
                   "category": "landmark",
                   "coords": [
                         22.99783,
                         -34.046848
-                  ]
-            },
-            {
-                  "name": "Friday Market",
-                  "text": "Operating weekly, this vibrant outdoor market gathers local artisans and farmers to sell fresh regional produce, crafts, and street food.",
-                  "category": "landmark",
-                  "coords": [
-                        23.020574,
-                        -34.033493
                   ]
             },
             {
@@ -3839,15 +3704,6 @@ export const poiExtraSouthafricaNatureV2: POI[] = [
                   "coords": [
                         23.043763,
                         -34.031202
-                  ]
-            },
-            {
-                  "name": "Featherbed Tours",
-                  "text": "These guided eco-excursions provide exclusive boat and walking access across the Knysna Lagoon to the pristine nature reserve on the Western Head.",
-                  "category": "landmark",
-                  "coords": [
-                        23.040887,
-                        -34.039165
                   ]
             },
             {

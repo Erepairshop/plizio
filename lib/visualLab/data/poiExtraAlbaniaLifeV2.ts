@@ -105,15 +105,6 @@ imageHint: "Dajti mountain forest and peak Albania",
                         20.181561,
                         41.785419
                   ]
-            },
-            {
-                  "name": "Maja e Runja e Lures",
-                  "text": "Ein markanter Berggipfel im Nationalpark, der bei Wanderern und Naturliebhabern beliebt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        20.248333,
-                        41.778056
-                  ]
             }
       ],
       "hu": [
@@ -124,15 +115,6 @@ imageHint: "Dajti mountain forest and peak Albania",
                   "coords": [
                         20.181561,
                         41.785419
-                  ]
-            },
-            {
-                  "name": "Maja e Runja e Lures",
-                  "text": "A nemzeti park jellegzetes hegycsúcsa, amely kedvelt a túrázók és természetbarátok körében.",
-                  "category": "landmark",
-                  "coords": [
-                        20.248333,
-                        41.778056
                   ]
             }
       ],
@@ -145,15 +127,6 @@ imageHint: "Dajti mountain forest and peak Albania",
                         20.181561,
                         41.785419
                   ]
-            },
-            {
-                  "name": "Maja e Runja e Lures",
-                  "text": "Un vârf montan proeminent din parcul național, popular printre drumeți și iubitorii de natură.",
-                  "category": "landmark",
-                  "coords": [
-                        20.248333,
-                        41.778056
-                  ]
             }
       ],
       "en": [
@@ -164,15 +137,6 @@ imageHint: "Dajti mountain forest and peak Albania",
                   "coords": [
                         20.181561,
                         41.785419
-                  ]
-            },
-            {
-                  "name": "Maja e Runja e Lures",
-                  "text": "A prominent mountain peak in the national park, popular among hikers and nature lovers.",
-                  "category": "landmark",
-                  "coords": [
-                        20.248333,
-                        41.778056
                   ]
             }
       ]
@@ -232,24 +196,6 @@ imageHint: "Lura National Park glacial lake and pine trees",
                         19.904722,
                         42.408333
                   ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Ein erhaltener historischer Bunker im malerischen Nationalpark Valbonatal.",
-                  "category": "landmark",
-                  "coords": [
-                        19.889193,
-                        42.450852
-                  ]
-            },
-            {
-                  "name": "Alte Wassermühle",
-                  "text": "Die stimmungsvollen Ruinen einer traditionellen Wassermühle im Valbonatal.",
-                  "category": "historical",
-                  "coords": [
-                        19.89985,
-                        42.455645
-                  ]
             }
       ],
       "hu": [
@@ -260,24 +206,6 @@ imageHint: "Lura National Park glacial lake and pine trees",
                   "coords": [
                         19.904722,
                         42.408333
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Egy fennmaradt történelmi bunker a festői Valbona-völgy Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        19.889193,
-                        42.450852
-                  ]
-            },
-            {
-                  "name": "Mulliri i Vjetër",
-                  "text": "Egy hagyományos vízimalom hangulatos romjai a Valbona-völgyben.",
-                  "category": "historical",
-                  "coords": [
-                        19.89985,
-                        42.455645
                   ]
             }
       ],
@@ -290,24 +218,6 @@ imageHint: "Lura National Park glacial lake and pine trees",
                         19.904722,
                         42.408333
                   ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Un buncăr istoric conservat în cadrul pitorescului Parc Național Valea Valbonei.",
-                  "category": "landmark",
-                  "coords": [
-                        19.889193,
-                        42.450852
-                  ]
-            },
-            {
-                  "name": "Mulliri i Vjetër",
-                  "text": "Ruinele atmosferice ale unei mori de apă tradiționale situate în Valea Valbonei.",
-                  "category": "historical",
-                  "coords": [
-                        19.89985,
-                        42.455645
-                  ]
             }
       ],
       "en": [
@@ -318,24 +228,6 @@ imageHint: "Lura National Park glacial lake and pine trees",
                   "coords": [
                         19.904722,
                         42.408333
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "A preserved historical bunker within the scenic Valbona Valley National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        19.889193,
-                        42.450852
-                  ]
-            },
-            {
-                  "name": "Old Watermill",
-                  "text": "The atmospheric ruins of a traditional watermill located in the Valbona Valley.",
-                  "category": "historical",
-                  "coords": [
-                        19.89985,
-                        42.455645
                   ]
             }
       ]
@@ -2565,15 +2457,6 @@ imageHint: "Cukal mountains karst landscape Albania",
     id: "albania-zall-gjocaj-life-v2", "sights": {
       "de": [
             {
-                  "name": "Kalaja e Skënderbeut (Petralba) në fshatin Gur i Bardhë",
-                  "text": "Eine historische Burgruine im Nationalpark Zall-Gjoçaj.",
-                  "category": "castle",
-                  "coords": [
-                        20.188079,
-                        41.64922
-                  ]
-            },
-            {
                   "name": "Mali i Dejës",
                   "text": "Ein markanter Berggipfel im Nationalpark Zall-Gjoçaj.",
                   "category": "landmark",
@@ -2584,15 +2467,6 @@ imageHint: "Cukal mountains karst landscape Albania",
             }
       ],
       "hu": [
-            {
-                  "name": "Kalaja e Skënderbeut (Petralba) në fshatin Gur i Bardhë",
-                  "text": "Történelmi várrom a Zall-Gjoçaj Nemzeti Parkban.",
-                  "category": "castle",
-                  "coords": [
-                        20.188079,
-                        41.64922
-                  ]
-            },
             {
                   "name": "Mali i Dejës",
                   "text": "Jellegzetes hegycsúcs a Zall-Gjoçaj Nemzeti Parkban.",
@@ -2605,15 +2479,6 @@ imageHint: "Cukal mountains karst landscape Albania",
       ],
       "ro": [
             {
-                  "name": "Kalaja e Skënderbeut (Petralba) në fshatin Gur i Bardhë",
-                  "text": "Ruinele unei cetăți istorice în Parcul Național Zall-Gjoçaj.",
-                  "category": "castle",
-                  "coords": [
-                        20.188079,
-                        41.64922
-                  ]
-            },
-            {
                   "name": "Mali i Dejës",
                   "text": "Un vârf montan proeminent din Parcul Național Zall-Gjoçaj.",
                   "category": "landmark",
@@ -2624,15 +2489,6 @@ imageHint: "Cukal mountains karst landscape Albania",
             }
       ],
       "en": [
-            {
-                  "name": "Kalaja e Skënderbeut (Petralba) në fshatin Gur i Bardhë",
-                  "text": "A historic castle ruin located within the Zall-Gjoçaj National Park.",
-                  "category": "castle",
-                  "coords": [
-                        20.188079,
-                        41.64922
-                  ]
-            },
             {
                   "name": "Mali i Dejës",
                   "text": "A prominent mountain peak in the Zall-Gjoçaj National Park.",

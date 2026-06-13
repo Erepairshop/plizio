@@ -690,30 +690,12 @@ export const newcaledoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tu Koohnê Plongée",
-                  "text": "Tauchbasis mit Ausflügen zum Korallenriff des Ozeans in Kone Economic Pole.",
-                  "category": "landmark",
-                  "coords": [
-                        164.842074,
-                        -21.055876
-                  ]
-            },
-            {
                   "name": "Complexe culturel",
                   "text": "Moderner Kulturkomplex mit Theater, Bibliothek und Veranstaltungssälen in Kone Economic Pole.",
                   "category": "cultural",
                   "coords": [
                         164.863262,
                         -21.056408
-                  ]
-            },
-            {
-                  "name": "Église de Koné",
-                  "text": "Hauptkirche von Koné im Wirtschaftszentrum Kone Economic Pole.",
-                  "category": "religious",
-                  "coords": [
-                        164.861331,
-                        -21.06243
                   ]
             }
       ],
@@ -728,30 +710,12 @@ export const newcaledoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tu Koohnê Plongée",
-                  "text": "Búvárközpont kirándulásokkal az óceáni korallzátonyhoz a Kone Economic Pole-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        164.842074,
-                        -21.055876
-                  ]
-            },
-            {
                   "name": "Complexe culturel",
                   "text": "Modern kulturális komplexum színházzal, könyvtárral és rendezvénytermekkel a Kone Economic Pole-ban.",
                   "category": "cultural",
                   "coords": [
                         164.863262,
                         -21.056408
-                  ]
-            },
-            {
-                  "name": "Église de Koné",
-                  "text": "Koné főtemploma a Kone Economic Pole gazdasági központban.",
-                  "category": "religious",
-                  "coords": [
-                        164.861331,
-                        -21.06243
                   ]
             }
       ],
@@ -766,30 +730,12 @@ export const newcaledoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tu Koohnê Plongée",
-                  "text": "Bază de scufundări cu excursii la reciful de corali al oceanului în Kone Economic Pole.",
-                  "category": "landmark",
-                  "coords": [
-                        164.842074,
-                        -21.055876
-                  ]
-            },
-            {
                   "name": "Complexe culturel",
                   "text": "Complex cultural modern cu teatru, bibliotecă și săli de evenimente în Kone Economic Pole.",
                   "category": "cultural",
                   "coords": [
                         164.863262,
                         -21.056408
-                  ]
-            },
-            {
-                  "name": "Église de Koné",
-                  "text": "Biserica principală din Koné în centrul economic Kone Economic Pole.",
-                  "category": "religious",
-                  "coords": [
-                        164.861331,
-                        -21.06243
                   ]
             }
       ],
@@ -804,30 +750,12 @@ export const newcaledoniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tu Koohnê Plongée",
-                  "text": "Diving centre with trips to the ocean coral reef in Kone Economic Pole.",
-                  "category": "landmark",
-                  "coords": [
-                        164.842074,
-                        -21.055876
-                  ]
-            },
-            {
                   "name": "Complexe culturel",
                   "text": "Modern cultural complex with theatre, library and event halls in Kone Economic Pole.",
                   "category": "cultural",
                   "coords": [
                         164.863262,
                         -21.056408
-                  ]
-            },
-            {
-                  "name": "Église de Koné",
-                  "text": "Main church of Koné in the Kone Economic Pole centre.",
-                  "category": "religious",
-                  "coords": [
-                        164.861331,
-                        -21.06243
                   ]
             }
       ]

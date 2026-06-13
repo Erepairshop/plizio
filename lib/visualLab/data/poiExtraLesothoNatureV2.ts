@@ -792,15 +792,6 @@ export const poiExtraLesothoNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thaba Bosiu Amphitheater",
-                  "text": "Ein Freilufttheater am Fuße des Thaba Bosiu, das für traditionelle Aufführungen genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        27.661425,
-                        -29.345331
-                  ]
-            },
-            {
                   "name": "Thaba-Bosiu",
                   "text": "Ein historisches Sandsteinplateau, das einst als Hauptstadt und Festung von König Moshoeshoe I. diente.",
                   "category": "natural",
@@ -818,15 +809,6 @@ export const poiExtraLesothoNatureV2: POI[] = [
                   "coords": [
                         27.686176,
                         -29.348195
-                  ]
-            },
-            {
-                  "name": "Thaba Bosiu Amphitheater",
-                  "text": "A Thaba Bosiu lábánál található szabadtéri színház, amely hagyományos előadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        27.661425,
-                        -29.345331
                   ]
             },
             {
@@ -850,15 +832,6 @@ export const poiExtraLesothoNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thaba Bosiu Amphitheater",
-                  "text": "Un amfiteatru în aer liber la baza muntelui Thaba Bosiu, dedicat spectacolelor tradiționale.",
-                  "category": "cultural",
-                  "coords": [
-                        27.661425,
-                        -29.345331
-                  ]
-            },
-            {
                   "name": "Thaba-Bosiu",
                   "text": "Un platou istoric de gresie care a servit odinioară drept capitală și fortăreață a regelui Moshoeshoe I.",
                   "category": "natural",
@@ -876,15 +849,6 @@ export const poiExtraLesothoNatureV2: POI[] = [
                   "coords": [
                         27.686176,
                         -29.348195
-                  ]
-            },
-            {
-                  "name": "Thaba Bosiu Amphitheater",
-                  "text": "An open-air amphitheater venue at the base of Thaba Bosiu dedicated to traditional performances.",
-                  "category": "cultural",
-                  "coords": [
-                        27.661425,
-                        -29.345331
                   ]
             },
             {

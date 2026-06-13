@@ -537,30 +537,12 @@ export const franceReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
-                  "text": "Kernzone des UNESCO-Biosphärenreservats rund um den markanten Mont Ventoux.",
-                  "category": "natural",
-                  "coords": [
-                        5.274874,
-                        44.141264
-                  ]
-            },
-            {
                   "name": "Mont Ventoux",
                   "text": "Ein markanter Berggipfel in der Provence, bekannt als der Riese der Provence.",
                   "category": "landmark",
                   "coords": [
                         5.278398,
                         44.173965
-                  ]
-            },
-            {
-                  "name": "Mont Serein",
-                  "text": "Ein Berggipfel und Skigebiet an der Nordseite des Mont Ventoux.",
-                  "category": "landmark",
-                  "coords": [
-                        5.260282,
-                        44.185102
                   ]
             },
             {
@@ -580,15 +562,6 @@ export const franceReliefV2: POI[] = [
                         5.278424,
                         44.172889
                   ]
-            },
-            {
-                  "name": "Jas du Mian (incertain)",
-                  "text": "Die Überreste einer alten Schäferei am Hang des Mont Ventoux.",
-                  "category": "historical",
-                  "coords": [
-                        5.236876,
-                        44.156253
-                  ]
             }
       ],
       "hu": [
@@ -602,30 +575,12 @@ export const franceReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
-                  "text": "A Mont Ventoux jellegzetes csúcsa körüli UNESCO bioszféra-rezervátum központi zónája.",
-                  "category": "natural",
-                  "coords": [
-                        5.274874,
-                        44.141264
-                  ]
-            },
-            {
                   "name": "Mont Ventoux",
                   "text": "Jellegzetes hegycsúcs Provence-ban, amelyet Provence óriásának is neveznek.",
                   "category": "landmark",
                   "coords": [
                         5.278398,
                         44.173965
-                  ]
-            },
-            {
-                  "name": "Mont Serein",
-                  "text": "Hegycsúcs és síterület a Mont Ventoux északi oldalán.",
-                  "category": "landmark",
-                  "coords": [
-                        5.260282,
-                        44.185102
                   ]
             },
             {
@@ -645,15 +600,6 @@ export const franceReliefV2: POI[] = [
                         5.278424,
                         44.172889
                   ]
-            },
-            {
-                  "name": "Jas du Mian (incertain)",
-                  "text": "Egy régi pásztorszállás maradványai a Mont Ventoux lejtőjén.",
-                  "category": "historical",
-                  "coords": [
-                        5.236876,
-                        44.156253
-                  ]
             }
       ],
       "ro": [
@@ -667,30 +613,12 @@ export const franceReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
-                  "text": "Zona centrală a Rezervației UNESCO a Biosferei Mont Ventoux, în jurul muntelui emblematic.",
-                  "category": "natural",
-                  "coords": [
-                        5.274874,
-                        44.141264
-                  ]
-            },
-            {
                   "name": "Mont Ventoux",
                   "text": "Un vârf muntos proeminent din Provence, cunoscut sub numele de Uriașul Provence-ului.",
                   "category": "landmark",
                   "coords": [
                         5.278398,
                         44.173965
-                  ]
-            },
-            {
-                  "name": "Mont Serein",
-                  "text": "Un vârf muntos și zonă de schi pe latura nordică a Muntelui Ventoux.",
-                  "category": "landmark",
-                  "coords": [
-                        5.260282,
-                        44.185102
                   ]
             },
             {
@@ -710,15 +638,6 @@ export const franceReliefV2: POI[] = [
                         5.278424,
                         44.172889
                   ]
-            },
-            {
-                  "name": "Jas du Mian (incertain)",
-                  "text": "Rămășițele unei vechi stâne pe versantul Muntelui Ventoux.",
-                  "category": "historical",
-                  "coords": [
-                        5.236876,
-                        44.156253
-                  ]
             }
       ],
       "en": [
@@ -732,30 +651,12 @@ export const franceReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
-                  "text": "The core zone of the UNESCO biosphere reserve around the iconic Mont Ventoux.",
-                  "category": "natural",
-                  "coords": [
-                        5.274874,
-                        44.141264
-                  ]
-            },
-            {
                   "name": "Mont Ventoux",
                   "text": "A prominent mountain peak in Provence, known as the Giant of Provence.",
                   "category": "landmark",
                   "coords": [
                         5.278398,
                         44.173965
-                  ]
-            },
-            {
-                  "name": "Mont Serein",
-                  "text": "A mountain peak and ski area on the northern side of Mont Ventoux.",
-                  "category": "landmark",
-                  "coords": [
-                        5.260282,
-                        44.185102
                   ]
             },
             {
@@ -774,15 +675,6 @@ export const franceReliefV2: POI[] = [
                   "coords": [
                         5.278424,
                         44.172889
-                  ]
-            },
-            {
-                  "name": "Jas du Mian (incertain)",
-                  "text": "The remains of an old sheepfold on the slopes of Mont Ventoux.",
-                  "category": "historical",
-                  "coords": [
-                        5.236876,
-                        44.156253
                   ]
             }
       ]
@@ -2085,15 +1977,6 @@ export const franceReliefV2: POI[] = [
     id: "france-massif-du-ventoux-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Réserve biologique intégrale du Mont Ventoux",
-                  "text": "Streng geschütztes Waldreservat am Hang des Mont Ventoux.",
-                  "category": "natural",
-                  "coords": [
-                        5.311012,
-                        44.172708
-                  ]
-            },
-            {
                   "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
                   "text": "Kernzone des Biosphärenreservats im gesamten Massif du Ventoux.",
                   "category": "natural",
@@ -2103,39 +1986,12 @@ export const franceReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mont Ventoux",
-                  "text": "Ein markanter Berg in der Provence, bekannt durch die Tour de France.",
-                  "category": "landmark",
-                  "coords": [
-                        5.278398,
-                        44.173965
-                  ]
-            },
-            {
                   "name": "Mont Serein",
                   "text": "Ein Gipfel und kleines Skigebiet auf der Nordseite des Mont Ventoux.",
                   "category": "landmark",
                   "coords": [
                         5.260282,
                         44.185102
-                  ]
-            },
-            {
-                  "name": "Belvédère des Alpes",
-                  "text": "Aussichtspunkt am Mont Ventoux mit weitem Blick in Richtung Alpen.",
-                  "category": "natural",
-                  "coords": [
-                        5.280634,
-                        44.175034
-                  ]
-            },
-            {
-                  "name": "Belvédère de Provence",
-                  "text": "Aussichtspunkt mit Panoramablick über die Landschaft der Provence.",
-                  "category": "natural",
-                  "coords": [
-                        5.278424,
-                        44.172889
                   ]
             },
             {
@@ -2150,15 +2006,6 @@ export const franceReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Réserve biologique intégrale du Mont Ventoux",
-                  "text": "Szigorúan védett erdőrezervátum a Mont Ventoux lejtőjén.",
-                  "category": "natural",
-                  "coords": [
-                        5.311012,
-                        44.172708
-                  ]
-            },
-            {
                   "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
                   "text": "A Ventoux-hegység bioszféra-rezervátumának központi védett területe.",
                   "category": "natural",
@@ -2168,39 +2015,12 @@ export const franceReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mont Ventoux",
-                  "text": "Jellegzetes hegy Provence-ban, a Tour de France-ról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        5.278398,
-                        44.173965
-                  ]
-            },
-            {
                   "name": "Mont Serein",
                   "text": "Hegycsúcs és kis síterep a Mont Ventoux északi oldalán.",
                   "category": "landmark",
                   "coords": [
                         5.260282,
                         44.185102
-                  ]
-            },
-            {
-                  "name": "Belvédère des Alpes",
-                  "text": "Kilátópont a Mont Ventoux-n, kilátással az Alpok felé.",
-                  "category": "natural",
-                  "coords": [
-                        5.280634,
-                        44.175034
-                  ]
-            },
-            {
-                  "name": "Belvédère de Provence",
-                  "text": "Panorámás kilátópont Provence tájaira.",
-                  "category": "natural",
-                  "coords": [
-                        5.278424,
-                        44.172889
                   ]
             },
             {
@@ -2215,15 +2035,6 @@ export const franceReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Réserve biologique intégrale du Mont Ventoux",
-                  "text": "Rezervație forestieră strict protejată pe versantul Muntelui Ventoux.",
-                  "category": "natural",
-                  "coords": [
-                        5.311012,
-                        44.172708
-                  ]
-            },
-            {
                   "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
                   "text": "Zona protejată centrală a Rezervației Biosferei din Masivul Ventoux.",
                   "category": "natural",
@@ -2233,39 +2044,12 @@ export const franceReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mont Ventoux",
-                  "text": "Un munte proeminent în Provence, cunoscut datorită Turului Franței.",
-                  "category": "landmark",
-                  "coords": [
-                        5.278398,
-                        44.173965
-                  ]
-            },
-            {
                   "name": "Mont Serein",
                   "text": "Un vârf și o mică stațiune de schi pe versantul nordic al Muntelui Ventoux.",
                   "category": "landmark",
                   "coords": [
                         5.260282,
                         44.185102
-                  ]
-            },
-            {
-                  "name": "Belvédère des Alpes",
-                  "text": "Punct de belvedere pe Mont Ventoux cu vedere spre Alpi.",
-                  "category": "natural",
-                  "coords": [
-                        5.280634,
-                        44.175034
-                  ]
-            },
-            {
-                  "name": "Belvédère de Provence",
-                  "text": "Punct de belvedere cu vedere panoramică asupra peisajului provensal.",
-                  "category": "natural",
-                  "coords": [
-                        5.278424,
-                        44.172889
                   ]
             },
             {
@@ -2280,15 +2064,6 @@ export const franceReliefV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Réserve biologique intégrale du Mont Ventoux",
-                  "text": "Strictly protected forest reserve on the slopes of Mont Ventoux.",
-                  "category": "natural",
-                  "coords": [
-                        5.311012,
-                        44.172708
-                  ]
-            },
-            {
                   "name": "Réserve de biosphère du Mont Ventoux (zone centrale)",
                   "text": "The central protected area of the Mont Ventoux massif biosphere reserve.",
                   "category": "natural",
@@ -2298,39 +2073,12 @@ export const franceReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mont Ventoux",
-                  "text": "A prominent mountain in Provence, famous from the Tour de France.",
-                  "category": "landmark",
-                  "coords": [
-                        5.278398,
-                        44.173965
-                  ]
-            },
-            {
                   "name": "Mont Serein",
                   "text": "A peak and small ski resort on the north side of Mont Ventoux.",
                   "category": "landmark",
                   "coords": [
                         5.260282,
                         44.185102
-                  ]
-            },
-            {
-                  "name": "Belvédère des Alpes",
-                  "text": "Viewpoint on Mont Ventoux offering views towards the Alps.",
-                  "category": "natural",
-                  "coords": [
-                        5.280634,
-                        44.175034
-                  ]
-            },
-            {
-                  "name": "Belvédère de Provence",
-                  "text": "Viewpoint with panoramic views over the landscapes of Provence.",
-                  "category": "natural",
-                  "coords": [
-                        5.278424,
-                        44.172889
                   ]
             },
             {

@@ -33,15 +33,6 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rimba Ilmu",
-                  "text": "Dieser 1974 gegründete tropische botanische Garten dient als grünes, lebendiges Labor für die Erhaltung von Regenwaldpflanzen.",
-                  "category": "natural",
-                  "coords": [
-                        101.657239,
-                        3.129705
-                  ]
-            },
-            {
                   "name": "Masjid Saidina Abu Bakar As-Siddiq",
                   "text": "Diese 1982 eröffnete, prominente Moschee ist von traditioneller islamischer Architektur geprägt und dient der lokalen muslimischen Gemeinde.",
                   "category": "religious",
@@ -194,15 +185,6 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
                   "coords": [
                         101.680434,
                         3.137842
-                  ]
-            },
-            {
-                  "name": "Rimba Ilmu",
-                  "text": "Az 1974-ben alapított trópusi botanikus kert zöldellő élő laboratóriumként szolgál az esőerdei növények megőrzéséhez.",
-                  "category": "natural",
-                  "coords": [
-                        101.657239,
-                        3.129705
                   ]
             },
             {
@@ -361,15 +343,6 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rimba Ilmu",
-                  "text": "Înființată în 1974, această grădină botanică tropicală servește ca un laborator viu înverzit pentru conservarea plantelor din pădurea tropicală.",
-                  "category": "natural",
-                  "coords": [
-                        101.657239,
-                        3.129705
-                  ]
-            },
-            {
                   "name": "Masjid Saidina Abu Bakar As-Siddiq",
                   "text": "Deschisă în 1982, această moschee proeminentă prezintă o arhitectură islamică tradițională și deservește comunitatea musulmană locală.",
                   "category": "religious",
@@ -522,15 +495,6 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
                   "coords": [
                         101.680434,
                         3.137842
-                  ]
-            },
-            {
-                  "name": "Botanical Garden",
-                  "text": "Established in 1974, this tropical botanical garden serves as a verdant living laboratory for rainforest plant conservation.",
-                  "category": "natural",
-                  "coords": [
-                        101.657239,
-                        3.129705
                   ]
             },
             {
@@ -16158,48 +16122,12 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
     id: "putrajaya-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Mercu Tanda Putrajaya",
-                  "text": "Putrajaya Landmark ist ein 23 Meter hohes Monument in Putrajaya.",
-                  "category": "historical",
-                  "coords": [
-                        101.697586,
-                        2.940833
-                  ]
-            },
-            {
                   "name": "Taman Botani Putrajaya",
                   "text": "Der Botanische Garten von Putrajaya.",
                   "category": "park",
                   "coords": [
                         101.696775,
                         2.946429
-                  ]
-            },
-            {
-                  "name": "Anti Corruption Excelence Award Status",
-                  "text": "Das Denkmal Anti-Corruption Excellence Award Status in Putrajaya.",
-                  "category": "historical",
-                  "coords": [
-                        101.692223,
-                        2.935888
-                  ]
-            },
-            {
-                  "name": "MALAYSIA MADANI sign",
-                  "text": "Das MALAYSIA MADANI-Schild in Putrajaya.",
-                  "category": "landmark",
-                  "coords": [
-                        101.691305,
-                        2.935664
-                  ]
-            },
-            {
-                  "name": "Astaka Morocco",
-                  "text": "Der marokkanische Pavillon in Putrajaya.",
-                  "category": "landmark",
-                  "coords": [
-                        101.69311,
-                        2.943006
                   ]
             },
             {
@@ -16221,24 +16149,6 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jambatan Seri Wawasan",
-                  "text": "Ein markantes Wahrzeichen in Putrajaya ist die Brücke Jambatan Seri Wawasan. Die futuristisch gestaltete Landmarke überspannt elegant das Wasser und prägt das moderne Stadtbild.",
-                  "category": "landmark",
-                  "coords": [
-                        101.683887,
-                        2.92818
-                  ]
-            },
-            {
-                  "name": "Jambatan Seri Perdana",
-                  "text": "Die Brücke Jambatan Seri Perdana gehört zu den architektonischen Highlights von Putrajaya. Als imposante Landmarke ist sie ein beliebtes Fotomotiv und ein wichtiges infrastrukturelles Bauwerk der malaysischen Stadt.",
-                  "category": "landmark",
-                  "coords": [
-                        101.68974,
-                        2.941523
-                  ]
-            },
-            {
                   "name": "Jambatan Seri Setia",
                   "text": "Jambatan Seri Setia ist ein markantes Brückenbauwerk in der Stadt Putrajaya. Dieses malaysische Wahrzeichen fügt sich eindrucksvoll in das städtische Bild ein. Besucher können bei einer Überquerung die Aussicht auf die umgebende Landschaft genießen.",
                   "category": "landmark",
@@ -16254,15 +16164,6 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
                   "coords": [
                         101.698131,
                         2.932977
-                  ]
-            },
-            {
-                  "name": "Jambatan Putra",
-                  "text": "Die Jambatan Putra repräsentiert eine bedeutende Brücke im Stadtgebiet von Putrajaya. Reisende in Malaysia überqueren dieses Wahrzeichen häufig auf ihren Wegen durch die Stadt. Sie bietet eine zuverlässige Verbindung und gleichzeitig einen guten Aussichtspunkt.",
-                  "category": "landmark",
-                  "coords": [
-                        101.690301,
-                        2.932736
                   ]
             },
             {
@@ -16286,48 +16187,12 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Mercu Tanda Putrajaya",
-                  "text": "A Putrajaya Landmark egy 23 méter magas emlékmű Putrajayában.",
-                  "category": "historical",
-                  "coords": [
-                        101.697586,
-                        2.940833
-                  ]
-            },
-            {
                   "name": "Taman Botani Putrajaya",
                   "text": "A Putrajaya-i Botanikus Kert.",
                   "category": "park",
                   "coords": [
                         101.696775,
                         2.946429
-                  ]
-            },
-            {
-                  "name": "Anti Corruption Excelence Award Status",
-                  "text": "A korrupcióellenes kiválóság díj státusz emlékmű Putrajayában.",
-                  "category": "historical",
-                  "coords": [
-                        101.692223,
-                        2.935888
-                  ]
-            },
-            {
-                  "name": "MALAYSIA MADANI sign",
-                  "text": "A MALAYSIA MADANI felirat Putrajayában.",
-                  "category": "landmark",
-                  "coords": [
-                        101.691305,
-                        2.935664
-                  ]
-            },
-            {
-                  "name": "Astaka Morocco",
-                  "text": "A marokkói pavilon Putrajayában.",
-                  "category": "landmark",
-                  "coords": [
-                        101.69311,
-                        2.943006
                   ]
             },
             {
@@ -16349,24 +16214,6 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jambatan Seri Wawasan",
-                  "text": "Putrajaya egyik feltűnő nevezetessége a Jambatan Seri Wawasan híd. A futurisztikus kialakítású építmény elegánsan ível át a víz felett, és meghatározza a modern városképet.",
-                  "category": "landmark",
-                  "coords": [
-                        101.683887,
-                        2.92818
-                  ]
-            },
-            {
-                  "name": "Jambatan Seri Perdana",
-                  "text": "A Jambatan Seri Perdana híd Putrajaya építészeti fénypontjai közé tartozik. Impozáns nevezetességként kedvelt fotótéma és a malajziai város fontos infrastrukturális építménye.",
-                  "category": "landmark",
-                  "coords": [
-                        101.68974,
-                        2.941523
-                  ]
-            },
-            {
                   "name": "Jambatan Seri Setia",
                   "text": "A Jambatan Seri Setia egy nevezetes híd és tájékozódási pont Putrajaya városában. Ez a malajziai építmény fontos átkelőként szolgál a városi környezetben. A látogatók a hídon áthaladva gyönyörködhetnek a környező tájban.",
                   "category": "landmark",
@@ -16382,15 +16229,6 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
                   "coords": [
                         101.698131,
                         2.932977
-                  ]
-            },
-            {
-                  "name": "Jambatan Putra",
-                  "text": "A Jambatan Putra egy jelentős híd és látványosság Putrajaya városán belül. A Malajziában utazók gyakran haladnak át ezen a szerkezeten városi útjaik során. Megbízható útvonalat és kiváló kilátópontot biztosít a városi panorámához.",
-                  "category": "landmark",
-                  "coords": [
-                        101.690301,
-                        2.932736
                   ]
             },
             {
@@ -16414,48 +16252,12 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Mercu Tanda Putrajaya",
-                  "text": "Putrajaya Landmark este un monument de 23 de metri înălțime în Putrajaya.",
-                  "category": "historical",
-                  "coords": [
-                        101.697586,
-                        2.940833
-                  ]
-            },
-            {
                   "name": "Taman Botani Putrajaya",
                   "text": "Grădina Botanică din Putrajaya.",
                   "category": "park",
                   "coords": [
                         101.696775,
                         2.946429
-                  ]
-            },
-            {
-                  "name": "Anti Corruption Excelence Award Status",
-                  "text": "Monumentul Anti-Corruption Excellence Award Status din Putrajaya.",
-                  "category": "historical",
-                  "coords": [
-                        101.692223,
-                        2.935888
-                  ]
-            },
-            {
-                  "name": "MALAYSIA MADANI sign",
-                  "text": "Indicatorul MALAYSIA MADANI din Putrajaya.",
-                  "category": "landmark",
-                  "coords": [
-                        101.691305,
-                        2.935664
-                  ]
-            },
-            {
-                  "name": "Astaka Morocco",
-                  "text": "Pavilionul marocan din Putrajaya.",
-                  "category": "landmark",
-                  "coords": [
-                        101.69311,
-                        2.943006
                   ]
             },
             {
@@ -16477,24 +16279,6 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jambatan Seri Wawasan",
-                  "text": "Un punct de reper marcant în Putrajaya este podul Jambatan Seri Wawasan. Această structură cu design futurist traversează elegant apa și modelează peisajul urban modern.",
-                  "category": "landmark",
-                  "coords": [
-                        101.683887,
-                        2.92818
-                  ]
-            },
-            {
-                  "name": "Jambatan Seri Perdana",
-                  "text": "Podul Jambatan Seri Perdana este una dintre atracțiile arhitecturale din Putrajaya. Ca un reper impunător, este un motiv fotografic popular și o structură de infrastructură importantă a orașului malaezian.",
-                  "category": "landmark",
-                  "coords": [
-                        101.68974,
-                        2.941523
-                  ]
-            },
-            {
                   "name": "Jambatan Seri Setia",
                   "text": "Jambatan Seri Setia este un pod emblematic situat în orașul Putrajaya. Această structură din Malaezia servește drept un important punct de trecere în peisajul urban. Vizitatorii se pot bucura de priveliștile zonei înconjurătoare în timp ce traversează podul.",
                   "category": "landmark",
@@ -16510,15 +16294,6 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
                   "coords": [
                         101.698131,
                         2.932977
-                  ]
-            },
-            {
-                  "name": "Jambatan Putra",
-                  "text": "Jambatan Putra reprezintă un pod semnificativ din interiorul orașului Putrajaya. Călătorii din Malaezia traversează frecvent acest punct de reper în timpul călătoriilor lor urbane. Oferă o cale de acces sigură și un punct de observație excelent pentru peisajul orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        101.690301,
-                        2.932736
                   ]
             },
             {
@@ -16542,48 +16317,12 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Putrajaya Landmark",
-                  "text": "Putrajaya Landmark is a 23-metre-tall monument in Putrajaya.",
-                  "category": "historical",
-                  "coords": [
-                        101.697586,
-                        2.940833
-                  ]
-            },
-            {
                   "name": "Putrajaya Botanical Garden",
                   "text": "The Putrajaya Botanical Garden.",
                   "category": "park",
                   "coords": [
                         101.696775,
                         2.946429
-                  ]
-            },
-            {
-                  "name": "Anti Corruption Excelence Award Status",
-                  "text": "The Anti-Corruption Excellence Award Status monument in Putrajaya.",
-                  "category": "historical",
-                  "coords": [
-                        101.692223,
-                        2.935888
-                  ]
-            },
-            {
-                  "name": "MALAYSIA MADANI sign",
-                  "text": "The MALAYSIA MADANI sign in Putrajaya.",
-                  "category": "landmark",
-                  "coords": [
-                        101.691305,
-                        2.935664
-                  ]
-            },
-            {
-                  "name": "Moroccan Pavilion Putrajaya",
-                  "text": "The Moroccan Pavilion in Putrajaya.",
-                  "category": "landmark",
-                  "coords": [
-                        101.69311,
-                        2.943006
                   ]
             },
             {
@@ -16605,24 +16344,6 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seri Wawasan Bridge",
-                  "text": "A striking landmark in Putrajaya is the Jambatan Seri Wawasan bridge. The futuristically designed structure elegantly spans the water and shapes the modern cityscape.",
-                  "category": "landmark",
-                  "coords": [
-                        101.683887,
-                        2.92818
-                  ]
-            },
-            {
-                  "name": "Seri Perdana Bridge",
-                  "text": "The Jambatan Seri Perdana bridge is one of the architectural highlights of Putrajaya. As an imposing landmark, it is a popular photo motif and an important infrastructural structure of the Malaysian city.",
-                  "category": "landmark",
-                  "coords": [
-                        101.68974,
-                        2.941523
-                  ]
-            },
-            {
                   "name": "Seri Setia Bridge",
                   "text": "Jambatan Seri Setia is a notable bridge landmark located in the city of Putrajaya. This Malaysian architectural structure serves as an important crossing point within the urban landscape. Visitors can enjoy the views of the surrounding area while crossing this prominent span.",
                   "category": "landmark",
@@ -16638,15 +16359,6 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
                   "coords": [
                         101.698131,
                         2.932977
-                  ]
-            },
-            {
-                  "name": "Putra Bridge",
-                  "text": "The Jambatan Putra represents a significant landmark bridge within Putrajaya. Travelers in Malaysia frequently pass over this structural feature during their urban journeys. It provides a reliable pathway and a great vantage point for city views.",
-                  "category": "landmark",
-                  "coords": [
-                        101.690301,
-                        2.932736
                   ]
             },
             {
@@ -19380,15 +19092,6 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
     id: "sandakan-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Rumah Agnes Keith",
-                  "text": "Agnes Keith House ist das ehemalige Wohnhaus der Autorin Agnes Newton Keith, heute ein Museum in Sandakan.",
-                  "category": "museum",
-                  "coords": [
-                        118.115545,
-                        5.843051
-                  ]
-            },
-            {
                   "name": "Chartered Company Monument",
                   "text": "Chartered Company Monument erinnert an die British North Borneo Company in Sandakan.",
                   "category": "historical",
@@ -19434,30 +19137,12 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Remains of Old Staircase",
-                  "text": "Überreste einer historischen Treppe aus der Kolonialzeit.",
-                  "category": "historical",
-                  "coords": [
-                        118.110332,
-                        5.844285
-                  ]
-            },
-            {
                   "name": "Boy Scouts Centenary",
                   "text": "Denkmal zum 100-jährigen Bestehen der Pfadfinderbewegung vor Ort.",
                   "category": "historical",
                   "coords": [
                         118.112609,
                         5.84058
-                  ]
-            },
-            {
-                  "name": "Tam Kung Temple",
-                  "text": "Tam Kung Temple ist ein daoistischer Tempel, dem Seefahrerpatron Tam Kung geweiht, in Sandakan.",
-                  "category": "religious",
-                  "coords": [
-                        118.11185,
-                        5.858202
                   ]
             },
             {
@@ -19471,15 +19156,6 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Rumah Agnes Keith",
-                  "text": "Az Agnes Keith House Agnes Newton Keith írónő egykori otthona, ma múzeum Sandakanban.",
-                  "category": "museum",
-                  "coords": [
-                        118.115545,
-                        5.843051
-                  ]
-            },
             {
                   "name": "Chartered Company Monument",
                   "text": "A Chartered Company Monument a British North Borneo Companyra emlékezik Sandakanban.",
@@ -19526,30 +19202,12 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Remains of Old Staircase",
-                  "text": "Egy történelmi lépcső maradványai, feltehetően a gyarmati korszakból.",
-                  "category": "historical",
-                  "coords": [
-                        118.110332,
-                        5.844285
-                  ]
-            },
-            {
                   "name": "Boy Scouts Centenary",
                   "text": "Emlékmű a cserkészmozgalom 100. évfordulójára.",
                   "category": "historical",
                   "coords": [
                         118.112609,
                         5.84058
-                  ]
-            },
-            {
-                  "name": "Tam Kung Temple",
-                  "text": "A Tam Kung-templom egy taoista templom, amely a tengerészek védőszentjének, Tam Kungnak van szentelve Sandakanban.",
-                  "category": "religious",
-                  "coords": [
-                        118.11185,
-                        5.858202
                   ]
             },
             {
@@ -19563,15 +19221,6 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Rumah Agnes Keith",
-                  "text": "Agnes Keith House este fosta casă a scriitoarei Agnes Newton Keith, acum muzeu în Sandakan.",
-                  "category": "museum",
-                  "coords": [
-                        118.115545,
-                        5.843051
-                  ]
-            },
             {
                   "name": "Chartered Company Monument",
                   "text": "Monumentul Chartered Company comemorează Compania Britanică din Borneoul de Nord în Sandakan.",
@@ -19618,30 +19267,12 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Remains of Old Staircase",
-                  "text": "Rămășițe ale unei scări istorice, probabil din perioada colonială.",
-                  "category": "historical",
-                  "coords": [
-                        118.110332,
-                        5.844285
-                  ]
-            },
-            {
                   "name": "Boy Scouts Centenary",
                   "text": "Monument pentru centenarul mișcării de cercetași locale.",
                   "category": "historical",
                   "coords": [
                         118.112609,
                         5.84058
-                  ]
-            },
-            {
-                  "name": "Tam Kung Temple",
-                  "text": "Tam Kung Temple este un templu taoist dedicat patronului marinarilor Tam Kung în Sandakan.",
-                  "category": "religious",
-                  "coords": [
-                        118.11185,
-                        5.858202
                   ]
             },
             {
@@ -19655,15 +19286,6 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Agnes Keith House",
-                  "text": "Agnes Keith House is the former home of author Agnes Newton Keith, now a museum in Sandakan.",
-                  "category": "museum",
-                  "coords": [
-                        118.115545,
-                        5.843051
-                  ]
-            },
             {
                   "name": "Chartered Company Monument",
                   "text": "Chartered Company Monument commemorates the British North Borneo Company in Sandakan.",
@@ -19710,30 +19332,12 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Remains of Old Staircase",
-                  "text": "Remains of a historic staircase, likely from the colonial era.",
-                  "category": "historical",
-                  "coords": [
-                        118.110332,
-                        5.844285
-                  ]
-            },
-            {
                   "name": "Boy Scouts Centenary",
                   "text": "Monument marking the centenary of the Boy Scouts movement in the area.",
                   "category": "historical",
                   "coords": [
                         118.112609,
                         5.84058
-                  ]
-            },
-            {
-                  "name": "Tam Kung Temple",
-                  "text": "Tam Kung Temple is a Taoist temple dedicated to the sea-people's patron Tam Kung in Sandakan.",
-                  "category": "religious",
-                  "coords": [
-                        118.11185,
-                        5.858202
                   ]
             },
             {

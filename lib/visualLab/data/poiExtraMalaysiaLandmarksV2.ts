@@ -3423,24 +3423,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
     id: "thean-hou-tempel-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Muzium Petaling Jaya",
-                  "text": "Das Petaling Jaya Museum dokumentiert die städtebauliche Entwicklung und die historische Entwicklung der Region zu einer blühenden Satellitenstadt.",
-                  "category": "museum",
-                  "coords": [
-                        101.65036,
-                        3.105325
-                  ]
-            },
-            {
-                  "name": "Muzium Seni Asia",
-                  "text": "Das Museum of Asian Art beherbergt eine beeindruckende Sammlung regionaler Keramik, Textilien und klassischer südostasiatischer Artefakte.",
-                  "category": "museum",
-                  "coords": [
-                        101.653175,
-                        3.118197
-                  ]
-            },
-            {
                   "name": "Thai Buddhist Chetawan Temple",
                   "text": "Der thailändische buddhistische Chetawan-Tempel ist ein reich verzierter Klosterkomplex mit klassischer thailändischer Architektur und goldenen Stupas.",
                   "category": "religious",
@@ -3468,24 +3450,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzium Geologi",
-                  "text": "Das Geologiemuseum zeigt eine umfangreiche Auswahl an regionalen Gesteinsformationen, Mineralien und bedeutenden paläontologischen Fossilien.",
-                  "category": "museum",
-                  "coords": [
-                        101.652409,
-                        3.122288
-                  ]
-            },
-            {
-                  "name": "Universiti Malaya Art Gallery",
-                  "text": "Die Universiti Malaya Art Gallery zeigt zeitgenössische malaysische Kunstwerke und akademische Projekte der bildenden Kunst auf dem Campus.",
-                  "category": "museum",
-                  "coords": [
-                        101.654351,
-                        3.120331
-                  ]
-            },
-            {
                   "name": "The Nanyang Volunteer Drivers & Mechanics Memorial",
                   "text": "Dieses Museum dient als bewegendes Denkmal für die freiwilligen Fahrer und Mechaniker aus Nanyang, die während des Krieges gedient haben.",
                   "category": "museum",
@@ -3510,33 +3474,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   "coords": [
                         101.670793,
                         3.084761
-                  ]
-            },
-            {
-                  "name": "J14 - Muzium Zoologi Institut Sains Biologi",
-                  "text": "Das im Gebäude J14 gelegene Zoologiemuseum zeigt präparierte Tierexemplare und anatomische Modelle für die biologische Ausbildung.",
-                  "category": "museum",
-                  "coords": [
-                        101.654711,
-                        3.123766
-                  ]
-            },
-            {
-                  "name": "Purple Houz",
-                  "text": "Purple Houz ist ein unabhängiges Kunstzentrum, das lokale Talente durch interaktive Kreativworkshops und kleine Ausstellungen fördert.",
-                  "category": "cultural",
-                  "coords": [
-                        101.65355,
-                        3.101836
-                  ]
-            },
-            {
-                  "name": "Gazebo Kompleks Perdanasiswa",
-                  "text": "Der Gazebo Kompleks Perdanasiswa fungiert als Freiluft-Aufführungsraum für studentische Theaterproduktionen und Universitätsveranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        101.65586,
-                        3.120812
                   ]
             },
             {
@@ -3758,24 +3695,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Muzium Petaling Jaya",
-                  "text": "A Petaling Jaya Múzeum a régió városfejlesztését és virágzó szatellitvárossá válásának történelmi evolúcióját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        101.65036,
-                        3.105325
-                  ]
-            },
-            {
-                  "name": "Muzium Seni Asia",
-                  "text": "Az Ázsiai Művészeti Múzeum a regionális kerámiák, textíliák és klasszikus délkelet-ázsiai műtárgyak lenyűgöző gyűjteményének ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        101.653175,
-                        3.118197
-                  ]
-            },
-            {
                   "name": "Thai Buddhist Chetawan Temple",
                   "text": "A thai buddhista Chetawan-templom egy díszes kolostorkomplexum, amely klasszikus thai építészeti stílusokkal és arany sztúpákkal büszkélkedhet.",
                   "category": "religious",
@@ -3803,24 +3722,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzium Geologi",
-                  "text": "A Geológiai Múzeum regionális kőzetképződmények, ásványok és jelentős őslénytani kövületek széles skáláját állítja ki.",
-                  "category": "museum",
-                  "coords": [
-                        101.652409,
-                        3.122288
-                  ]
-            },
-            {
-                  "name": "Universiti Malaya Art Gallery",
-                  "text": "Az Universiti Malaya Art Gallery kortárs malajziai műalkotásokat és tudományos vizuális művészeti projekteket mutat be a campuson.",
-                  "category": "museum",
-                  "coords": [
-                        101.654351,
-                        3.120331
-                  ]
-            },
-            {
                   "name": "The Nanyang Volunteer Drivers & Mechanics Memorial",
                   "text": "Ez a múzeum megrendítő emlékműként szolgál a Nanyang önkéntes sofőrjeinek és szerelőinek, akik a háború alatt szolgáltak.",
                   "category": "museum",
@@ -3845,33 +3746,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   "coords": [
                         101.670793,
                         3.084761
-                  ]
-            },
-            {
-                  "name": "J14 - Muzium Zoologi Institut Sains Biologi",
-                  "text": "A J14-es épületben található Zoológiai Múzeum tartósított állati példányokat és anatómiai modelleket mutat be biológiai oktatás céljából.",
-                  "category": "museum",
-                  "coords": [
-                        101.654711,
-                        3.123766
-                  ]
-            },
-            {
-                  "name": "Purple Houz",
-                  "text": "A Purple Houz egy független művészeti központ, amely interaktív kreatív műhelyeken és kisléptékű kiállításokon keresztül támogatja a helyi tehetségeket.",
-                  "category": "cultural",
-                  "coords": [
-                        101.65355,
-                        3.101836
-                  ]
-            },
-            {
-                  "name": "Gazebo Kompleks Perdanasiswa",
-                  "text": "A Gazebo Kompleks Perdanasiswa szabadtéri előadótérként működik a hallgatói színházi produkciók és egyetemi rendezvények számára.",
-                  "category": "cultural",
-                  "coords": [
-                        101.65586,
-                        3.120812
                   ]
             },
             {
@@ -4093,24 +3967,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Muzium Petaling Jaya",
-                  "text": "Muzeul Petaling Jaya prezintă dezvoltarea urbană și evoluția istorică a regiunii într-un oraș satelit înfloritor.",
-                  "category": "museum",
-                  "coords": [
-                        101.65036,
-                        3.105325
-                  ]
-            },
-            {
-                  "name": "Muzium Seni Asia",
-                  "text": "Muzeul de Artă Asiatică găzduiește o colecție impresionantă de ceramică regională, textile și artefacte clasice din Asia de Sud-Est.",
-                  "category": "museum",
-                  "coords": [
-                        101.653175,
-                        3.118197
-                  ]
-            },
-            {
                   "name": "Thai Buddhist Chetawan Temple",
                   "text": "Templul budist thailandez Chetawan este un complex monahal ornamentat, având stiluri arhitecturale clasice thailandeze și stupe aurii.",
                   "category": "religious",
@@ -4138,24 +3994,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzium Geologi",
-                  "text": "Muzeul de Geologie expune o gamă extinsă de formațiuni stâncoase regionale, minerale și fosile paleontologice semnificative.",
-                  "category": "museum",
-                  "coords": [
-                        101.652409,
-                        3.122288
-                  ]
-            },
-            {
-                  "name": "Universiti Malaya Art Gallery",
-                  "text": "Galeria de Artă a Universității Malaya prezintă opere de artă contemporane din Malaezia și proiecte academice de artă vizuală în cadrul campusului.",
-                  "category": "museum",
-                  "coords": [
-                        101.654351,
-                        3.120331
-                  ]
-            },
-            {
                   "name": "The Nanyang Volunteer Drivers & Mechanics Memorial",
                   "text": "Acest muzeu servește ca un memorial emoționant dedicat șoferilor și mecanicilor voluntari din Nanyang care au servit în timpul războiului.",
                   "category": "museum",
@@ -4180,33 +4018,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   "coords": [
                         101.670793,
                         3.084761
-                  ]
-            },
-            {
-                  "name": "J14 - Muzium Zoologi Institut Sains Biologi",
-                  "text": "Situat în clădirea J14, Muzeul de Zoologie expune specimene de animale conservate și modele anatomice pentru educația biologică.",
-                  "category": "museum",
-                  "coords": [
-                        101.654711,
-                        3.123766
-                  ]
-            },
-            {
-                  "name": "Purple Houz",
-                  "text": "Purple Houz este un centru de arte independent care încurajează talentul local prin ateliere creative interactive și expoziții la scară mică.",
-                  "category": "cultural",
-                  "coords": [
-                        101.65355,
-                        3.101836
-                  ]
-            },
-            {
-                  "name": "Gazebo Kompleks Perdanasiswa",
-                  "text": "Gazebo Kompleks Perdanasiswa acționează ca un spațiu de spectacole în aer liber pentru producțiile de teatru studențești și evenimentele universitare.",
-                  "category": "cultural",
-                  "coords": [
-                        101.65586,
-                        3.120812
                   ]
             },
             {
@@ -4428,24 +4239,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Petaling Jaya Museum",
-                  "text": "Petaling Jaya Museum chronicles the urban development and historical evolution of the region into a thriving satellite city.",
-                  "category": "museum",
-                  "coords": [
-                        101.65036,
-                        3.105325
-                  ]
-            },
-            {
-                  "name": "Museum of Asian Art",
-                  "text": "The Museum of Asian Art houses an impressive collection of regional ceramics, textiles, and classical Southeast Asian artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        101.653175,
-                        3.118197
-                  ]
-            },
-            {
                   "name": "Thai Buddhist Chetawan Temple",
                   "text": "The Thai Buddhist Chetawan Temple is an ornate monastic complex featuring classic Thai architectural styles and golden stupas.",
                   "category": "religious",
@@ -4473,24 +4266,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Geology Museum",
-                  "text": "The Geology Museum exhibits an extensive range of regional rock formations, minerals, and significant paleontological fossils.",
-                  "category": "museum",
-                  "coords": [
-                        101.652409,
-                        3.122288
-                  ]
-            },
-            {
-                  "name": "Universiti Malaya Art Gallery",
-                  "text": "The Universiti Malaya Art Gallery showcases contemporary Malaysian artworks and academic visual art projects within the campus.",
-                  "category": "museum",
-                  "coords": [
-                        101.654351,
-                        3.120331
-                  ]
-            },
-            {
                   "name": "The Nanyang Volunteer Drivers & Mechanics Memorial",
                   "text": "This museum serves as a poignant memorial dedicated to the Nanyang volunteer drivers and mechanics who served during wartime.",
                   "category": "museum",
@@ -4515,33 +4290,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   "coords": [
                         101.670793,
                         3.084761
-                  ]
-            },
-            {
-                  "name": "J14 - Zoology Museum",
-                  "text": "Located in building J14, the Zoology Museum displays preserved animal specimens and anatomical models for biological education.",
-                  "category": "museum",
-                  "coords": [
-                        101.654711,
-                        3.123766
-                  ]
-            },
-            {
-                  "name": "Purple Houz",
-                  "text": "Purple Houz is an independent arts centre fostering local talent through interactive creative workshops and small-scale exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        101.65355,
-                        3.101836
-                  ]
-            },
-            {
-                  "name": "Gazebo Kompleks Perdanasiswa",
-                  "text": "The Gazebo Kompleks Perdanasiswa acts as an open-air performance space for student theatre productions and university events.",
-                  "category": "cultural",
-                  "coords": [
-                        101.65586,
-                        3.120812
                   ]
             },
             {
@@ -7881,15 +7629,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Perbadanan Putrajaya",
-                  "text": "Dieser Rathauskomplex dient als Hauptsitz der lokalen Behörde, die das Bundesterritorium Putrajaya verwaltet.",
-                  "category": "historical",
-                  "coords": [
-                        101.684038,
-                        2.918026
-                  ]
-            },
-            {
                   "name": "Monumen Alaf Baru",
                   "text": "Ein markantes metallisches Obelisken-Denkmal in Putrajaya, das von oben betrachtet einer Hibiskusblüte ähnelt.",
                   "category": "historical",
@@ -7926,15 +7665,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Tuanku Mizan Zainal Abidin",
-                  "text": "Diese als „Eiserne Moschee“ bekannte Hauptkultstätte in Putrajaya verfügt über ein architektonisches Netz aus Stahldraht.",
-                  "category": "religious",
-                  "coords": [
-                        101.681274,
-                        2.919201
-                  ]
-            },
-            {
                   "name": "Masjid Al-Hasanah",
                   "text": "Eine islamische Moschee in der Nachbarschaft, die der lokalen Gemeinschaft im Raum Putrajaya religiöse Dienste anbietet.",
                   "category": "religious",
@@ -7962,15 +7692,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jambatan Seri Bestari",
-                  "text": "Eine 152 Meter lange Bogenbrücke, die den Putrajaya-See überquert, um die Core Island mit Precinct 16 zu verbinden.",
-                  "category": "landmark",
-                  "coords": [
-                        101.698394,
-                        2.925168
-                  ]
-            },
-            {
                   "name": "Jambatan Seri Perdana",
                   "text": "Diese 370 Meter lange Brücke über den Putrajaya-See zeichnet sich durch islamische Architekturmotive und Aussichtsbereiche aus.",
                   "category": "landmark",
@@ -7995,33 +7716,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   "coords": [
                         101.690301,
                         2.932738
-                  ]
-            },
-            {
-                  "name": "Jambatan Seri Bakti",
-                  "text": "Eine 270 Meter lange zweispurige Brücke in Putrajaya, verziert mit traditionellen islamischen geometrischen Motiven.",
-                  "category": "landmark",
-                  "coords": [
-                        101.698131,
-                        2.932977
-                  ]
-            },
-            {
-                  "name": "Jambatan Seri Setia",
-                  "text": "Eine Betonfertigteilbrücke in Putrajaya, die für ihre markant gestalteten dekorativen Laternenpfähle bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        101.688319,
-                        2.910174
-                  ]
-            },
-            {
-                  "name": "Jambatan Seri Saujana",
-                  "text": "Eine markante Brücke in Putrajaya, deren Konstruktion auf einzigartige Weise Schrägseil- und Bogenbautechniken kombiniert.",
-                  "category": "landmark",
-                  "coords": [
-                        101.676366,
-                        2.913554
                   ]
             },
             {
@@ -8234,15 +7928,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Perbadanan Putrajaya",
-                  "text": "Ez a városháza-komplexum a Putrajaya szövetségi területet igazgató helyi hatóság központjaként szolgál.",
-                  "category": "historical",
-                  "coords": [
-                        101.684038,
-                        2.918026
-                  ]
-            },
-            {
                   "name": "Monumen Alaf Baru",
                   "text": "Egy kiemelkedő fém obeliszk emlékmű Putrajayában, amely felülről nézve egy hibiszkuszvirágra hasonlít.",
                   "category": "historical",
@@ -8279,15 +7964,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Tuanku Mizan Zainal Abidin",
-                  "text": "A „Vas mecsetként” is ismert fő istentiszteleti hely Putrajayában acélhuzalból készült építészeti hálóval rendelkezik.",
-                  "category": "religious",
-                  "coords": [
-                        101.681274,
-                        2.919201
-                  ]
-            },
-            {
                   "name": "Masjid Al-Hasanah",
                   "text": "Egy iszlám mecset, amely vallási szolgáltatásokat nyújt a Putrajaya térségében élő helyi közösség számára.",
                   "category": "religious",
@@ -8315,15 +7991,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jambatan Seri Bestari",
-                  "text": "Egy 152 méter hosszú ívhíd a Putrajaya tavon, amely a Core Islandet köti össze a 16-os körzettel.",
-                  "category": "landmark",
-                  "coords": [
-                        101.698394,
-                        2.925168
-                  ]
-            },
-            {
                   "name": "Jambatan Seri Perdana",
                   "text": "A Putrajaya tavon 370 méter hosszan átívelő hidat iszlám építészeti motívumok és kilátóterületek teszik különlegessé.",
                   "category": "landmark",
@@ -8348,33 +8015,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   "coords": [
                         101.690301,
                         2.932738
-                  ]
-            },
-            {
-                  "name": "Jambatan Seri Bakti",
-                  "text": "Egy 270 méter hosszú, kétszer kétsávos híd Putrajayában, amelyet hagyományos iszlám geometriai motívumok díszítenek.",
-                  "category": "landmark",
-                  "coords": [
-                        101.698131,
-                        2.932977
-                  ]
-            },
-            {
-                  "name": "Jambatan Seri Setia",
-                  "text": "Előregyártott betonhíd Putrajayában, amely a jellegzetes kialakítású dekoratív lámpaoszlopairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        101.688319,
-                        2.910174
-                  ]
-            },
-            {
-                  "name": "Jambatan Seri Saujana",
-                  "text": "Putrajaya ikonikus hídja, amelynek kialakításában egyedülálló módon ötvöződik a ferdekábeles és az íves szerkezeti technika.",
-                  "category": "landmark",
-                  "coords": [
-                        101.676366,
-                        2.913554
                   ]
             },
             {
@@ -8587,15 +8227,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Perbadanan Putrajaya",
-                  "text": "Acest complex al primăriei servește drept sediu pentru autoritatea locală care administrează teritoriul federal Putrajaya.",
-                  "category": "historical",
-                  "coords": [
-                        101.684038,
-                        2.918026
-                  ]
-            },
-            {
                   "name": "Monumen Alaf Baru",
                   "text": "Un obelisc metalic proeminent în Putrajaya, proiectat să semene cu o floare de hibiscus atunci când este privit de sus.",
                   "category": "historical",
@@ -8632,15 +8263,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Tuanku Mizan Zainal Abidin",
-                  "text": "Cunoscut sub numele de „Moscheea de Fier”, acest principal lăcaș de cult din Putrajaya prezintă o plasă arhitecturală din sârmă de oțel.",
-                  "category": "religious",
-                  "coords": [
-                        101.681274,
-                        2.919201
-                  ]
-            },
-            {
                   "name": "Masjid Al-Hasanah",
                   "text": "O moschee islamică de cartier care oferă servicii religioase comunității locale din zona Putrajaya.",
                   "category": "religious",
@@ -8668,15 +8290,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jambatan Seri Bestari",
-                  "text": "Un pod în arc lung de 152 de metri care traversează lacul Putrajaya pentru a conecta Core Island de Precinct 16.",
-                  "category": "landmark",
-                  "coords": [
-                        101.698394,
-                        2.925168
-                  ]
-            },
-            {
                   "name": "Jambatan Seri Perdana",
                   "text": "Având o lungime de 370 de metri peste lacul Putrajaya, acest pod se distinge prin motivele arhitecturale islamice și zonele de belvedere.",
                   "category": "landmark",
@@ -8701,33 +8314,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   "coords": [
                         101.690301,
                         2.932738
-                  ]
-            },
-            {
-                  "name": "Jambatan Seri Bakti",
-                  "text": "Un pod cu două sensuri de circulație, lung de 270 de metri, din Putrajaya, decorat cu motive geometrice islamice tradiționale.",
-                  "category": "landmark",
-                  "coords": [
-                        101.698131,
-                        2.932977
-                  ]
-            },
-            {
-                  "name": "Jambatan Seri Setia",
-                  "text": "Un pod din beton prefabricat din Putrajaya, cunoscut pentru stâlpii săi de iluminat decorativi cu design distinctiv.",
-                  "category": "landmark",
-                  "coords": [
-                        101.688319,
-                        2.910174
-                  ]
-            },
-            {
-                  "name": "Jambatan Seri Saujana",
-                  "text": "Un pod de referință din Putrajaya care combină în mod unic tehnicile structurale hobanate și în arc în designul său.",
-                  "category": "landmark",
-                  "coords": [
-                        101.676366,
-                        2.913554
                   ]
             },
             {
@@ -8940,15 +8526,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Putrajaya Corporation",
-                  "text": "This town hall complex serves as the headquarters for the local authority administering the federal territory of Putrajaya.",
-                  "category": "historical",
-                  "coords": [
-                        101.684038,
-                        2.918026
-                  ]
-            },
-            {
                   "name": "Millennium Monument",
                   "text": "A prominent metallic obelisk monument in Putrajaya designed to resemble a hibiscus flower when viewed from above.",
                   "category": "historical",
@@ -8985,15 +8562,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tuanku Mizan Zainal Abidin Mosque",
-                  "text": "Known as the \"Iron Mosque,\" this principal place of worship in Putrajaya features an architectural mesh made of steel wire.",
-                  "category": "religious",
-                  "coords": [
-                        101.681274,
-                        2.919201
-                  ]
-            },
-            {
                   "name": "Masjid Al-Hasanah",
                   "text": "A neighborhood Islamic mosque providing religious services to the local community in the Putrajaya area.",
                   "category": "religious",
@@ -9021,15 +8589,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seri Bestari Bridge",
-                  "text": "A 152-meter-long arch bridge crossing the Putrajaya Lake to connect the Core Island to Precinct 16.",
-                  "category": "landmark",
-                  "coords": [
-                        101.698394,
-                        2.925168
-                  ]
-            },
-            {
                   "name": "Seri Perdana Bridge",
                   "text": "Spanning 370 meters across Putrajaya Lake, this bridge is distinguished by its Islamic architectural motifs and viewing areas.",
                   "category": "landmark",
@@ -9054,33 +8613,6 @@ export const poiExtraMalaysiaLandmarksV2: POI[] = [
                   "coords": [
                         101.690301,
                         2.932738
-                  ]
-            },
-            {
-                  "name": "Seri Bakti Bridge",
-                  "text": "A 270-meter-long dual-carriageway bridge in Putrajaya decorated with traditional Islamic geometric motifs.",
-                  "category": "landmark",
-                  "coords": [
-                        101.698131,
-                        2.932977
-                  ]
-            },
-            {
-                  "name": "Seri Setia Bridge",
-                  "text": "A precast concrete bridge in Putrajaya known for its distinctively designed decorative lamp posts.",
-                  "category": "landmark",
-                  "coords": [
-                        101.688319,
-                        2.910174
-                  ]
-            },
-            {
-                  "name": "Seri Saujana Bridge",
-                  "text": "A landmark bridge in Putrajaya that uniquely combines both cable-stayed and arch structural techniques in its design.",
-                  "category": "landmark",
-                  "coords": [
-                        101.676366,
-                        2.913554
                   ]
             },
             {

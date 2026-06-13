@@ -839,50 +839,10 @@ export const poiExtraGuineaReliefV2: POI[] = [
     }, image: "/poi-images/boke-lowlands-relief-v2.webp"},
   {
     id: "siguiri-lowland-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Permanence de Siguiri",
-                  "text": "Dieses Denkmal steht stolz in der Tieflandregion von Siguiri.",
-                  "category": "historical",
-                  "coords": [
-                        -9.174386,
-                        11.41861
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Permanence de Siguiri",
-                  "text": "Ez a műemléképület büszkén áll Siguiri alföldi terepén.",
-                  "category": "historical",
-                  "coords": [
-                        -9.174386,
-                        11.41861
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Permanence de Siguiri",
-                  "text": "Această structură monumentală se înalță mândră în regiunea de câmpie a orașului Siguiri.",
-                  "category": "historical",
-                  "coords": [
-                        -9.174386,
-                        11.41861
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Permanence de Siguiri",
-                  "text": "This monument structure stands proudly within the lowland terrain of Siguiri.",
-                  "category": "historical",
-                  "coords": [
-                        -9.174386,
-                        11.41861
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "relief",
     parent: "GN-K",

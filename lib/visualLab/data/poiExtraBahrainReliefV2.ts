@@ -51,15 +51,6 @@ export const bahrainReliefV2: POI[] = [
     id: "bahrain-sakhrat-al-khabiyah-relief-v2", "sights": {
       "de": [
             {
-                  "name": "The Cathedral of Our Lady of Arabia",
-                  "text": "Diese im Dezember 2021 geweihte moderne katholische Kathedrale mit ihrem markanten zeltartigen Design dient dem Apostolischen Vikariat Nördliches Arabien.",
-                  "category": "religious",
-                  "coords": [
-                        50.545335,
-                        26.078922
-                  ]
-            },
-            {
                   "name": "Bahrain National Charter Monument",
                   "text": "Dieses große Denkmal verfügt über Mauern, in die die Namen der bahrainischen Bürger eingraviert sind, die 2001 für die Nationale Aktionscharta gestimmt haben.",
                   "category": "landmark",
@@ -70,15 +61,6 @@ export const bahrainReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "The Cathedral of Our Lady of Arabia",
-                  "text": "A 2021 decemberében felszentelt, jellegzetes sátorszerű kialakítású modern katolikus katedrális az Észak-Arábiai Apostoli Vikariátust szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        50.545335,
-                        26.078922
-                  ]
-            },
             {
                   "name": "Bahrain National Charter Monument",
                   "text": "Ez a grandiózus emlékmű olyan falakkal rendelkezik, amelyekre a 2001-es Nemzeti Cselekvési Charta mellett szavazó bahreini állampolgárok nevei vannak felvésve.",
@@ -91,15 +73,6 @@ export const bahrainReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "The Cathedral of Our Lady of Arabia",
-                  "text": "Consacrată în decembrie 2021, această catedrală catolică modernă, cu un design distinctiv în formă de cort, deservește Vicariatul Apostolic al Arabiei de Nord.",
-                  "category": "religious",
-                  "coords": [
-                        50.545335,
-                        26.078922
-                  ]
-            },
-            {
                   "name": "Bahrain National Charter Monument",
                   "text": "Acest monument grandios prezintă ziduri inscripționate cu numele cetățenilor bahreinezi care au votat în favoarea Cartei Naționale de Acțiune din 2001.",
                   "category": "landmark",
@@ -110,15 +83,6 @@ export const bahrainReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "The Cathedral of Our Lady of Arabia",
-                  "text": "Consecrated in December 2021, this modern Catholic cathedral features a distinctive tent-like architectural design serving the Apostolic Vicariate of Northern Arabia.",
-                  "category": "religious",
-                  "coords": [
-                        50.545335,
-                        26.078922
-                  ]
-            },
             {
                   "name": "Bahrain National Charter Monument",
                   "text": "This grand monument features walls inscribed with the names of Bahraini citizens who voted in favor of the 2001 National Action Charter.",

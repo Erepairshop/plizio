@@ -3505,15 +3505,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "3 Arka",
-                  "text": "Modernes Denkmal bestehend aus drei symbolischen Bögen auf einem öffentlichen Platz.",
-                  "category": "historical",
-                  "coords": [
-                        76.87702,
-                        43.205649
-                  ]
-            },
-            {
                   "name": "Pamiatnik Birzhanu Kozhakulovu",
                   "text": "Denkmal zu Ehren des berühmten kasachischen Dichters und Sängers Birzhan-Sal.",
                   "category": "historical",
@@ -3855,15 +3846,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
                   "coords": [
                         76.936075,
                         43.248712
-                  ]
-            },
-            {
-                  "name": "3 Arka",
-                  "text": "Három szimbolikus ívből álló modern emlékmű egy nyilvános téren.",
-                  "category": "historical",
-                  "coords": [
-                        76.87702,
-                        43.205649
                   ]
             },
             {
@@ -4211,15 +4193,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "3 Arka",
-                  "text": "Monument modern format din trei arcade simbolice, situat într-o piață publică.",
-                  "category": "historical",
-                  "coords": [
-                        76.87702,
-                        43.205649
-                  ]
-            },
-            {
                   "name": "Pamiatnik Birzhanu Kozhakulovu",
                   "text": "Monument ridicat în onoarea celebrului poet și cântăreț kazah Birjan-sal.",
                   "category": "historical",
@@ -4561,15 +4534,6 @@ export const poiExtraKazakhstanLandmarksV2: POI[] = [
                   "coords": [
                         76.936075,
                         43.248712
-                  ]
-            },
-            {
-                  "name": "3 Arka",
-                  "text": "Modern monument consisting of three symbolic arches located in a public square.",
-                  "category": "historical",
-                  "coords": [
-                        76.87702,
-                        43.205649
                   ]
             },
             {

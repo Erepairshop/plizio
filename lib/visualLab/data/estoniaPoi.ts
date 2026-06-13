@@ -3508,15 +3508,6 @@ const estoniaAllPoiBase: POI[] = [
                   ]
             },
             {
-                  "name": "Pärnu keskrand",
-                  "text": "Der beliebteste Sandstrand der Stadt an der Bucht von Pärnu.",
-                  "category": "recreational",
-                  "coords": [
-                        24.495036,
-                        58.373911
-                  ]
-            },
-            {
                   "name": "Koidula muuseum",
                   "text": "In Paernu widmet sich das Koidula muuseum dem literarischen Erbe der estnischen Dichterin Lydia Koidula. Das Museum bringt Besuchern ihr Leben und ihre bedeutsamen Werke näher.",
                   "category": "museum",
@@ -3697,24 +3688,6 @@ const estoniaAllPoiBase: POI[] = [
                   ]
             },
             {
-                  "name": "Türgi paisjärv",
-                  "text": "Türgi paisjärv ist ein See in Paernu, der einen ruhigen Ort für einen Spaziergang bietet.",
-                  "category": "natural",
-                  "coords": [
-                        24.616731,
-                        58.376793
-                  ]
-            },
-            {
-                  "name": "Pahkoja järv",
-                  "text": "Pahkoja järv ist ein See in Paernu, der durch seine natürliche und friedliche Umgebung besticht.",
-                  "category": "natural",
-                  "coords": [
-                        24.608938,
-                        58.386876
-                  ]
-            },
-            {
                   "name": "Batuudikeskus Up",
                   "text": "Batuudikeskus Up ist ein Trampolinpark in Paernu, der aktiven Spaß und Action für die ganze Familie bietet.",
                   "category": "family",
@@ -3766,15 +3739,6 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         24.558732,
                         58.376068
-                  ]
-            },
-            {
-                  "name": "Pärnu jõe väliujula ujumiskoht",
-                  "text": "Eine Badestelle am Fluss Pärnu mit Stegen und Umkleiden.",
-                  "category": "recreational",
-                  "coords": [
-                        24.514607,
-                        58.390759
                   ]
             }
       ],
@@ -4032,15 +3996,6 @@ const estoniaAllPoiBase: POI[] = [
                   ]
             },
             {
-                  "name": "Pärnu keskrand",
-                  "text": "A város legnépszerűbb homokos strandja a Pärnui-öbölben.",
-                  "category": "recreational",
-                  "coords": [
-                        24.495036,
-                        58.373911
-                  ]
-            },
-            {
                   "name": "Koidula muuseum",
                   "text": "A Pärnu városában található Koidula muuseum Lydia Koidula észt költőnő irodalmi örökségét ápolja. A múzeum testközelből mutatja be a látogatóknak a szerző életét és legfontosabb műveit.",
                   "category": "museum",
@@ -4221,24 +4176,6 @@ const estoniaAllPoiBase: POI[] = [
                   ]
             },
             {
-                  "name": "Türgi paisjärv",
-                  "text": "A Türgi paisjärv egy tó Paernuban, amely nyugodt helyszínt biztosít egy sétához.",
-                  "category": "natural",
-                  "coords": [
-                        24.616731,
-                        58.376793
-                  ]
-            },
-            {
-                  "name": "Pahkoja järv",
-                  "text": "A Pahkoja järv egy tó Paernuban, amely természeti és békés környezetével vonzza a látogatókat.",
-                  "category": "natural",
-                  "coords": [
-                        24.608938,
-                        58.386876
-                  ]
-            },
-            {
                   "name": "Batuudikeskus Up",
                   "text": "A Batuudikeskus Up egy trambulinpark Paernuban, amely aktív szórakozást és akciót kínál az egész családnak.",
                   "category": "family",
@@ -4290,15 +4227,6 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         24.558732,
                         58.376068
-                  ]
-            },
-            {
-                  "name": "Pärnu jõe väliujula ujumiskoht",
-                  "text": "Fürdőhely a Pärnu-folyónál stégekkel és öltözőkkel.",
-                  "category": "recreational",
-                  "coords": [
-                        24.514607,
-                        58.390759
                   ]
             }
       ],
@@ -4556,15 +4484,6 @@ const estoniaAllPoiBase: POI[] = [
                   ]
             },
             {
-                  "name": "Pärnu keskrand",
-                  "text": "Cea mai populară plajă cu nisip a orașului la Golful Pärnu.",
-                  "category": "recreational",
-                  "coords": [
-                        24.495036,
-                        58.373911
-                  ]
-            },
-            {
                   "name": "Koidula muuseum",
                   "text": "În Paernu, Koidula muuseum este dedicat moștenirii literare a poetei estoniene Lydia Koidula. Muzeul aduce în prim-plan viața și operele semnificative ale autoarei pentru vizitatori.",
                   "category": "museum",
@@ -4745,24 +4664,6 @@ const estoniaAllPoiBase: POI[] = [
                   ]
             },
             {
-                  "name": "Türgi paisjärv",
-                  "text": "Türgi paisjärv este un lac în Paernu, oferind un loc liniștit pentru o plimbare.",
-                  "category": "natural",
-                  "coords": [
-                        24.616731,
-                        58.376793
-                  ]
-            },
-            {
-                  "name": "Pahkoja järv",
-                  "text": "Pahkoja järv este un lac în Paernu, atrăgând vizitatorii prin mediul său natural și pașnic.",
-                  "category": "natural",
-                  "coords": [
-                        24.608938,
-                        58.386876
-                  ]
-            },
-            {
                   "name": "Batuudikeskus Up",
                   "text": "Batuudikeskus Up este un parc de trambuline în Paernu, oferind distracție activă și acțiune pentru întreaga familie.",
                   "category": "family",
@@ -4814,15 +4715,6 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         24.558732,
                         58.376068
-                  ]
-            },
-            {
-                  "name": "Pärnu jõe väliujula ujumiskoht",
-                  "text": "Un loc de scăldat pe râul Pärnu, dotat cu pontoane și cabine de schimb.",
-                  "category": "recreational",
-                  "coords": [
-                        24.514607,
-                        58.390759
                   ]
             }
       ],
@@ -5080,15 +4972,6 @@ const estoniaAllPoiBase: POI[] = [
                   ]
             },
             {
-                  "name": "Pärnu keskrand",
-                  "text": "The city's most popular sandy beach on Pärnu Bay.",
-                  "category": "recreational",
-                  "coords": [
-                        24.495036,
-                        58.373911
-                  ]
-            },
-            {
                   "name": "Koidula museum",
                   "text": "Located in Paernu, the Koidula muuseum is dedicated to the literary legacy of the Estonian poet Lydia Koidula. The museum introduces visitors to her life and her significant literary works.",
                   "category": "museum",
@@ -5269,24 +5152,6 @@ const estoniaAllPoiBase: POI[] = [
                   ]
             },
             {
-                  "name": "Türgi paisjärv",
-                  "text": "Türgi paisjärv is a lake in Paernu, providing a quiet spot for a walk.",
-                  "category": "natural",
-                  "coords": [
-                        24.616731,
-                        58.376793
-                  ]
-            },
-            {
-                  "name": "Pahkoja järv",
-                  "text": "Pahkoja järv is a lake in Paernu, attracting visitors with its natural and peaceful surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        24.608938,
-                        58.386876
-                  ]
-            },
-            {
                   "name": "Batuudikeskus Up",
                   "text": "Batuudikeskus Up is a trampoline park in Paernu, offering active fun and action for the whole family.",
                   "category": "family",
@@ -5338,15 +5203,6 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         24.558732,
                         58.376068
-                  ]
-            },
-            {
-                  "name": "Pärnu jõe väliujula ujumiskoht",
-                  "text": "A swimming spot on the Pärnu River with jetties and changing rooms.",
-                  "category": "recreational",
-                  "coords": [
-                        24.514607,
-                        58.390759
                   ]
             }
       ]
@@ -5542,7 +5398,1456 @@ const estoniaAllPoiBase: POI[] = [
     },
   },
   {
-    id: "ee-narva", "sights": {"de": [{"name": "Narva Muuseumi kunstigalerii", "text": "Die Art Gallery Of Narva Museum ist eine kulturelle Einrichtung, die Kunst in Narva ausstellt.", "category": "museum", "coords": [28.19645, 59.382522]}, {"name": "Narwa-Museum", "text": "Das Narva Museum ist ein lokales Museum in Narva.", "category": "museum", "coords": [28.201377, 59.375428]}, {"name": "Narva Aleksandri Kiriku Tornimuuseum", "text": "The Museum of Narva Alexander's Church ist ein informatives Museum in Narva.", "category": "museum", "coords": [28.201835, 59.370804]}, {"name": "Vaba Lava Narva", "text": "Vaba Lava Narva ist ein Theater in der Stadt Narva.", "category": "cultural", "coords": [28.189774, 59.374781]}, {"name": "Kuningavalli bastion", "text": "Die Kuningavalli bastion ist eine archäologische Stätte in Narva.", "category": "historical", "coords": [28.197246, 59.380092]}, {"name": "Kunstmuseum", "text": "Das Art Museum in Narva ist eine lokale Einrichtung, die Kunstwerke ausstellt.", "category": "museum", "coords": [28.217713, 59.376572]}, {"name": "Joaoru rand", "text": "Joaoru rand ist ein Naherholungsstrand in Narva.", "category": "recreational", "coords": [28.202577, 59.372966]}, {"name": "Museum für Militär- und Verteidigungsarchitektur in Nordwestrussland", "text": "Das Museum of North-West Russian Fortification ist ein Ausstellungsraum in Narva.", "category": "museum", "coords": [28.206343, 59.376326]}, {"name": "Võidu park", "text": "Võidu park ist ein öffentlicher Park in der Stadt Narva.", "category": "park", "coords": [28.194499, 59.366623]}, {"name": "Linda park", "text": "Linda park ist eine grüne Erholungszone in Narva.", "category": "park", "coords": [28.192832, 59.374343]}, {"name": "Maleaed", "text": "Maleaed ist ein lokaler Park in Narva.", "category": "park", "coords": [28.187628, 59.376555]}, {"name": "Narva raekoda", "text": "Das Narva Town Hall ist ein historisches Gebäude, das für seine klassizistische Architektur bekannt ist.", "category": "landmark", "coords": [28.198801, 59.379394]}, {"name": "Mõisa park", "text": "Mõisa park ist eine angenehme Außenanlage in Narva.", "category": "park", "coords": [28.175719, 59.378591]}, {"name": "Lossiaed", "text": "Lossiaed ist ein öffentlicher Park für Spaziergänge in Narva.", "category": "park", "coords": [28.197793, 59.375247]}, {"name": "EV100 park", "text": "EV100 park ist eine moderne Grünanlage in Narva.", "category": "park", "coords": [28.192869, 59.383634]}, {"name": "Sutthoffi park", "text": "Sutthoffi park ist eine Grünfläche in Narva, die nach einem historischen lokalen Anwesen benannt ist.", "category": "park", "coords": [28.193528, 59.393768]}, {"name": "Salmeaed", "text": "Salmeaed ist ein Erholungspark in der Stadt Narva.", "category": "park", "coords": [28.196009, 59.374893]}, {"name": "Rootsi lõvi", "text": "Rootsi lõvi ist ein lokaler Park in Narva.", "category": "park", "coords": [28.200435, 59.373071]}, {"name": "Puuvilla haljasala", "text": "Puuvilla haljasala ist eine öffentliche Grünfläche in Narva.", "category": "park", "coords": [28.17925, 59.362219]}, {"name": "Paju park", "text": "Der Paju park bietet eine ruhige Umgebung im Freien in Narva.", "category": "park", "coords": [28.184737, 59.385017]}, {"name": "Kanone", "text": "Пушка ist eine lokale Attraktion in Narva.", "category": "landmark", "coords": [28.208802, 59.373529]}, {"name": "Viiekroonine vaade", "text": "Der Five-Kroon view ist ein Aussichtspunkt in Narva.", "category": "natural", "coords": [28.203831, 59.371686]}, {"name": "Kanone", "text": "Cannon ist eine historische Freiluftattraktion in Narva.", "category": "landmark", "coords": [28.199736, 59.374946]}, {"name": "Chertov kamen", "text": "Devil rock ist eine lokale Attraktion in der Region Narva.", "category": "landmark", "coords": [28.224791, 59.38274]}, {"name": "Zamok", "text": "Diese lokale Attraktion (Замок) ist ein markantes Wahrzeichen in Narva.", "category": "landmark", "coords": [28.205094, 59.375093]}, {"name": "Perednii gorod", "text": "Передний город ist eine historische Attraktion in Narva.", "category": "landmark", "coords": [28.207605, 59.375211]}, {"name": "Bashnya", "text": "Dieser Tower ist eine lokale architektonische Attraktion in Narva.", "category": "landmark", "coords": [28.19924, 59.36234]}, {"name": "NART narva kunsti residentuur", "text": "Die NART narva art residency ist ein Kunstzentrum in Narva.", "category": "cultural", "coords": [28.194536, 59.361252]}, {"name": "Ingeri Maja", "text": "Das Ingrian House ist ein Zentrum für Kunst und Kultur in Narva.", "category": "cultural", "coords": [28.198122, 59.369442]}, {"name": "Nemetskaya ognevaya tochka DN-2", "text": "Немецкая огневая точка DN-2 ist eine militärische Attraktion in Narva.", "category": "landmark", "coords": [28.226676, 59.384238]}, {"name": "Detskaya shkola iskusstv", "text": "Детская школа искусств ist ein lokales Kunstzentrum für Kinder in Narva.", "category": "cultural", "coords": [28.216896, 59.372393]}, {"name": "Armeiskii magazin", "text": "Армейский магазин zeigt die Ruinen eines ehemaligen Ladens in Narva.", "category": "historical", "coords": [28.206388, 59.374406]}, {"name": "EMK Narva kogudus", "text": "EMK Narva kogudus ist eine lokale methodistische Kultstätte in der Stadt Narva.", "category": "religious", "coords": [28.201679, 59.386955]}, {"name": "Issanda Ülestõusmise Peakirik", "text": "Die Orthodox Church of Resurrection in Narva ist eine bekannte Kultstätte, die für ihren byzantinischen Architekturstil bekannt ist.", "category": "religious", "coords": [28.193601, 59.371178]}, {"name": "Narva Mihkli kirik", "text": "Narva Mihkli kirik ist eine lokale Kultstätte in Narva.", "category": "religious", "coords": [28.180674, 59.372982]}, {"name": "Narva Jumalaema Narva pühakuju kirik", "text": "Die Orthodox Church of the Narva Icon of the Mother of God ist eine aktive orthodoxe Kultstätte in Narva.", "category": "religious", "coords": [28.192573, 59.386041]}, {"name": "Freundschaftsbrücke", "text": "Die Friendship Bridge überspannt die Narva und stellt eine wichtige Verbindung zwischen Estland und Russland dar.", "category": "landmark", "coords": [28.203938, 59.376692]}, {"name": "Narva Kaheteistkümne Püha Apostli kirik", "text": "Narva Kaheteistkümne Püha Apostli kirik ist eine bekannte Kultstätte in Narva, die den Heiligen Zwölf Aposteln gewidmet ist.", "category": "religious", "coords": [28.172236, 59.377378]}, {"name": "Väike-Kadastiku karjäär", "text": "Väike-Kadastiku karjäär ist ein ruhiges Seegebiet in Narva, das sich perfekt für einen friedlichen Spaziergang eignet.", "category": "natural", "coords": [28.139502, 59.365848]}, {"name": "Narwa-Stausee", "text": "Der Narva-Stausee ist ein bedeutendes Gewässer in Narva, das weite Ausblicke und eine ruhige Atmosphäre bietet.", "category": "natural", "coords": [28.242533, 59.295487]}, {"name": "Mänguväljak kivikuhja juures", "text": "Dieser Spielplatz in Narva bietet Kindern einen unterhaltsamen Außenbereich zum Spielen und Toben.", "category": "family", "coords": [28.169648, 59.385504]}], "hu": [{"name": "Narva Muuseumi kunstigalerii", "text": "Az Art Gallery Of Narva Museum egy művészetet bemutató kulturális intézmény Narvában.", "category": "museum", "coords": [28.19645, 59.382522]}, {"name": "Narva Muuseum", "text": "A Narva Museum egy helyi múzeum Narvában.", "category": "museum", "coords": [28.201377, 59.375428]}, {"name": "Narva Aleksandri Kiriku Tornimuuseum", "text": "A The Museum of Narva Alexander's Church egy informatív múzeum Narva városában.", "category": "museum", "coords": [28.201835, 59.370804]}, {"name": "Vaba Lava Narva", "text": "A Vaba Lava Narva egy színház Narva városában.", "category": "cultural", "coords": [28.189774, 59.374781]}, {"name": "Kuningavalli bastion", "text": "A Kuningavalli bastion egy régészeti lelőhely Narvában.", "category": "historical", "coords": [28.197246, 59.380092]}, {"name": "Khudozhestvennyi muzei", "text": "Az Art Museum egy helyi intézmény, amely művészeti alkotásokat állít ki Narvában.", "category": "museum", "coords": [28.217713, 59.376572]}, {"name": "Joaoru rand", "text": "A Joaoru rand egy rekreációs strandövezet Narvában.", "category": "recreational", "coords": [28.202577, 59.372966]}, {"name": "Muzei voenno-oboronitelnogo zodchestva Severo-Zapada Rusi", "text": "A Museum of North-West Russian Fortification egy kiállítótér Narvában.", "category": "museum", "coords": [28.206343, 59.376326]}, {"name": "Võidu park", "text": "A Võidu park egy közpark Narva városában.", "category": "park", "coords": [28.194499, 59.366623]}, {"name": "Linda park", "text": "A Linda park egy rekreációs zöldterület Narvában.", "category": "park", "coords": [28.192832, 59.374343]}, {"name": "Maleaed", "text": "A Maleaed egy helyi park Narvában.", "category": "park", "coords": [28.187628, 59.376555]}, {"name": "Narva raekoda", "text": "A Narva Town Hall egy történelmi épület, amely klasszicista építészetéről ismert.", "category": "landmark", "coords": [28.198801, 59.379394]}, {"name": "Mõisa park", "text": "A Mõisa park egy kellemes szabadtéri terület Narvában.", "category": "park", "coords": [28.175719, 59.378591]}, {"name": "Lossiaed", "text": "A Lossiaed egy közpark, amely sétákat kínál Narvában.", "category": "park", "coords": [28.197793, 59.375247]}, {"name": "EV100 park", "text": "Az EV100 park egy modern zöldterület Narva városában.", "category": "park", "coords": [28.192869, 59.383634]}, {"name": "Sutthoffi park", "text": "A Sutthoffi park egy zöldterület Narvában, amely egy történelmi helyi birtokról kapta a nevét.", "category": "park", "coords": [28.193528, 59.393768]}, {"name": "Salmeaed", "text": "A Salmeaed egy pihenőpark Narva városában.", "category": "park", "coords": [28.196009, 59.374893]}, {"name": "Rootsi lõvi", "text": "A Rootsi lõvi egy helyi park Narva városában.", "category": "park", "coords": [28.200435, 59.373071]}, {"name": "Puuvilla haljasala", "text": "A Puuvilla haljasala egy nyilvános zöldterület Narvában.", "category": "park", "coords": [28.17925, 59.362219]}, {"name": "Paju park", "text": "A Paju park egy nyugodt szabadtéri környezetet biztosít Narvában.", "category": "park", "coords": [28.184737, 59.385017]}, {"name": "Pushka", "text": "A Пушка egy helyi látványosság Narva városában.", "category": "landmark", "coords": [28.208802, 59.373529]}, {"name": "Viiekroonine vaade", "text": "A Five-Kroon view egy kilátó Narvában.", "category": "natural", "coords": [28.203831, 59.371686]}, {"name": "Kahur", "text": "A Cannon egy szabadtéri látványosság Narvában.", "category": "landmark", "coords": [28.199736, 59.374946]}, {"name": "Chertov kamen", "text": "A Devil rock egy helyi látványosság a Narva régióban.", "category": "landmark", "coords": [28.224791, 59.38274]}, {"name": "Zamok", "text": "A Замок nevű helyi látványosság egy nevezetesség Narvában.", "category": "landmark", "coords": [28.205094, 59.375093]}, {"name": "Perednii gorod", "text": "A Передний город egy történelmi látványosság Narva városában.", "category": "landmark", "coords": [28.207605, 59.375211]}, {"name": "Bashnya", "text": "Ez a Tower egy helyi építészeti látványosság Narvában.", "category": "landmark", "coords": [28.19924, 59.36234]}, {"name": "NART narva kunsti residentuur", "text": "A NART narva art residency egy művészeti központ Narvában.", "category": "cultural", "coords": [28.194536, 59.361252]}, {"name": "Ingeri Maja", "text": "Az Ingrian House egy művészeti és kulturális központ Narva városában.", "category": "cultural", "coords": [28.198122, 59.369442]}, {"name": "Nemetskaya ognevaya tochka DN-2", "text": "A Немецкая огневая точка DN-2 egy katonai látványosság Narvában.", "category": "landmark", "coords": [28.226676, 59.384238]}, {"name": "Detskaya shkola iskusstv", "text": "A Детская школа искусств egy helyi gyermekművészeti központ Narvában.", "category": "cultural", "coords": [28.216896, 59.372393]}, {"name": "Armeiskii magazin", "text": "Az Армейский магазин egy egykori bolt romjait mutatja be Narvában.", "category": "historical", "coords": [28.206388, 59.374406]}, {"name": "EMK Narva kogudus", "text": "Az EMK Narva kogudus egy helyi metodista istentiszteleti hely Narva városában.", "category": "religious", "coords": [28.201679, 59.386955]}, {"name": "Issanda Ülestõusmise Peakirik", "text": "A narvai Orthodox Church of Resurrection egy kiemelkedő istentiszteleti hely, amely bizánci építészeti stílusáról ismert.", "category": "religious", "coords": [28.193601, 59.371178]}, {"name": "Narva Mihkli kirik", "text": "A Narva Mihkli kirik egy helyi istentiszteleti hely Narvában.", "category": "religious", "coords": [28.180674, 59.372982]}, {"name": "Narva Jumalaema Narva pühakuju kirik", "text": "Az Orthodox Church of the Narva Icon of the Mother of God egy aktív ortodox istentiszteleti hely Narvában.", "category": "religious", "coords": [28.192573, 59.386041]}, {"name": "Sõpruse sild / Narvskii most Druzhby", "text": "A Friendship Bridge a Narva folyón ível át, és fontos kapcsolatot teremt Észtország és Oroszország között.", "category": "landmark", "coords": [28.203938, 59.376692]}, {"name": "Narva Kaheteistkümne Püha Apostli kirik", "text": "A Narva Kaheteistkümne Püha Apostli kirik egy jelentős istentiszteleti hely Narvában, amelyet a Tizenkét Szent Apostolnak szenteltek.", "category": "religious", "coords": [28.172236, 59.377378]}, {"name": "Väike-Kadastiku karjäär", "text": "A Väike-Kadastiku karjäär egy csendes tavi terület Narvában, amely tökéletes egy nyugodt sétához.", "category": "natural", "coords": [28.139502, 59.365848]}, {"name": "Narva veehoidla / Narvskoe vodokhranilishche", "text": "A Narvai-víztározó egy jelentős vízfelület Narvában, amely tágas kilátást és nyugodt légkört kínál.", "category": "natural", "coords": [28.242533, 59.295487]}, {"name": "Mänguväljak kivikuhja juures", "text": "Ez a narvai játszótér szórakoztató szabadtéri helyet kínál a gyerekeknek a játékhoz és az aktív kikapcsolódáshoz.", "category": "family", "coords": [28.169648, 59.385504]}], "ro": [{"name": "Narva Muuseumi kunstigalerii", "text": "Art Gallery Of Narva Museum este o instituție culturală care expune artă în Narva.", "category": "museum", "coords": [28.19645, 59.382522]}, {"name": "Narva Muuseum", "text": "Narva Museum este un muzeu local din Narva.", "category": "museum", "coords": [28.201377, 59.375428]}, {"name": "Narva Aleksandri Kiriku Tornimuuseum", "text": "The Museum of Narva Alexander's Church este un muzeu informativ situat în Narva.", "category": "museum", "coords": [28.201835, 59.370804]}, {"name": "Vaba Lava Narva", "text": "Vaba Lava Narva este un teatru situat în orașul Narva.", "category": "cultural", "coords": [28.189774, 59.374781]}, {"name": "Kuningavalli bastion", "text": "Kuningavalli bastion este un sit arheologic în Narva.", "category": "historical", "coords": [28.197246, 59.380092]}, {"name": "Khudozhestvennyi muzei", "text": "Art Museum din Narva este o facilitate locală care expune lucrări artistice.", "category": "museum", "coords": [28.217713, 59.376572]}, {"name": "Joaoru rand", "text": "Joaoru rand este o zonă de plajă recreativă situată în Narva.", "category": "recreational", "coords": [28.202577, 59.372966]}, {"name": "Muzei voenno-oboronitelnogo zodchestva Severo-Zapada Rusi", "text": "Museum of North-West Russian Fortification este un muzeu situat în Narva.", "category": "museum", "coords": [28.206343, 59.376326]}, {"name": "Võidu park", "text": "Võidu park este un parc public în orașul Narva.", "category": "park", "coords": [28.194499, 59.366623]}, {"name": "Linda park", "text": "Linda park este o zonă verde de recreere situată în Narva.", "category": "park", "coords": [28.192832, 59.374343]}, {"name": "Maleaed", "text": "Maleaed este un parc local în Narva.", "category": "park", "coords": [28.187628, 59.376555]}, {"name": "Narva raekoda", "text": "Narva Town Hall este o clădire istorică notabilă pentru arhitectura sa clasicistă.", "category": "landmark", "coords": [28.198801, 59.379394]}, {"name": "Mõisa park", "text": "Mõisa park este un parc în aer liber situat în Narva.", "category": "park", "coords": [28.175719, 59.378591]}, {"name": "Lossiaed", "text": "Lossiaed este un parc public ce oferă plimbări în Narva.", "category": "park", "coords": [28.197793, 59.375247]}, {"name": "EV100 park", "text": "EV100 park este un spațiu verde modern înființat în Narva.", "category": "park", "coords": [28.192869, 59.383634]}, {"name": "Sutthoffi park", "text": "Sutthoffi park este o zonă verde din Narva, numită după o moșie istorică locală.", "category": "park", "coords": [28.193528, 59.393768]}, {"name": "Salmeaed", "text": "Salmeaed este un parc de agrement situat în orașul Narva.", "category": "park", "coords": [28.196009, 59.374893]}, {"name": "Rootsi lõvi", "text": "Rootsi lõvi este un parc local situat în Narva.", "category": "park", "coords": [28.200435, 59.373071]}, {"name": "Puuvilla haljasala", "text": "Puuvilla haljasala este un spațiu verde public situat în Narva.", "category": "park", "coords": [28.17925, 59.362219]}, {"name": "Paju park", "text": "Paju park oferă un mediu liniștit în aer liber în Narva.", "category": "park", "coords": [28.184737, 59.385017]}, {"name": "Pushka", "text": "Пушка este o atracție locală situată în Narva.", "category": "landmark", "coords": [28.208802, 59.373529]}, {"name": "Viiekroonine vaade", "text": "Five-Kroon view este un punct de belvedere în Narva.", "category": "natural", "coords": [28.203831, 59.371686]}, {"name": "Kahur", "text": "Cannon este o atracție în aer liber situată în Narva.", "category": "landmark", "coords": [28.199736, 59.374946]}, {"name": "Chertov kamen", "text": "Devil rock este o atracție din regiunea Narva.", "category": "landmark", "coords": [28.224791, 59.38274]}, {"name": "Zamok", "text": "Această atracție (Замок) servește drept reper în Narva.", "category": "landmark", "coords": [28.205094, 59.375093]}, {"name": "Perednii gorod", "text": "Передний город este o atracție istorică situată în Narva.", "category": "landmark", "coords": [28.207605, 59.375211]}, {"name": "Bashnya", "text": "Acest Tower este o atracție arhitecturală locală în Narva.", "category": "landmark", "coords": [28.19924, 59.36234]}, {"name": "NART narva kunsti residentuur", "text": "NART narva art residency este un centru de arte din Narva.", "category": "cultural", "coords": [28.194536, 59.361252]}, {"name": "Ingeri Maja", "text": "Ingrian House este un centru de artă și cultură situat în Narva.", "category": "cultural", "coords": [28.198122, 59.369442]}, {"name": "Nemetskaya ognevaya tochka DN-2", "text": "Немецкая огневая точка DN-2 este o atracție militară găsită în Narva.", "category": "landmark", "coords": [28.226676, 59.384238]}, {"name": "Detskaya shkola iskusstv", "text": "Детская школа искусств este un centru local de arte în Narva.", "category": "cultural", "coords": [28.216896, 59.372393]}, {"name": "Armeiskii magazin", "text": "Армейский магазин prezintă ruinele unui fost magazin în Narva.", "category": "historical", "coords": [28.206388, 59.374406]}, {"name": "EMK Narva kogudus", "text": "EMK Narva kogudus este un lăcaș de cult metodist situat în orașul Narva.", "category": "religious", "coords": [28.201679, 59.386955]}, {"name": "Issanda Ülestõusmise Peakirik", "text": "Orthodox Church of Resurrection din Narva este un lăcaș de cult proeminent, cunoscut pentru stilul său arhitectural bizantin.", "category": "religious", "coords": [28.193601, 59.371178]}, {"name": "Narva Mihkli kirik", "text": "Narva Mihkli kirik este un lăcaș de cult local în Narva.", "category": "religious", "coords": [28.180674, 59.372982]}, {"name": "Narva Jumalaema Narva pühakuju kirik", "text": "Orthodox Church of the Narva Icon of the Mother of God este un lăcaș de cult ortodox activ din Narva.", "category": "religious", "coords": [28.192573, 59.386041]}, {"name": "Sõpruse sild / Narvskii most Druzhby", "text": "Friendship Bridge traversează râul Narva, servind drept o conexiune semnificativă între Estonia și Rusia.", "category": "landmark", "coords": [28.203938, 59.376692]}, {"name": "Narva Kaheteistkümne Püha Apostli kirik", "text": "Narva Kaheteistkümne Püha Apostli kirik este un lăcaș de cult notabil din Narva dedicat celor Doisprezece Sfinți Apostoli.", "category": "religious", "coords": [28.172236, 59.377378]}, {"name": "Väike-Kadastiku karjäär", "text": "Väike-Kadastiku karjäär este o zonă de lac liniștită din Narva, perfectă pentru o plimbare liniștită.", "category": "natural", "coords": [28.139502, 59.365848]}, {"name": "Narva veehoidla / Narvskoe vodokhranilishche", "text": "Rezervorul Narva este un corp de apă semnificativ din Narva, oferind vederi vaste și o atmosferă calmă.", "category": "natural", "coords": [28.242533, 59.295487]}, {"name": "Mänguväljak kivikuhja juures", "text": "Acest loc de joacă din Narva oferă un spațiu distractiv în aer liber pentru ca copiii să se joace și să rămână activi.", "category": "family", "coords": [28.169648, 59.385504]}], "en": [{"name": "Art Gallery Of Narva Museum", "text": "The Art Gallery Of Narva Museum is a cultural institution showcasing art in Narva.", "category": "museum", "coords": [28.19645, 59.382522]}, {"name": "Narva Museum", "text": "Narva Museum is a local museum located in Narva.", "category": "museum", "coords": [28.201377, 59.375428]}, {"name": "The Museum of Narva Alexander's Church", "text": "The Museum of Narva Alexander's Church is an informative museum located in Narva.", "category": "museum", "coords": [28.201835, 59.370804]}, {"name": "Vaba Lava Narva", "text": "Vaba Lava Narva is a theatre venue situated in the city of Narva.", "category": "cultural", "coords": [28.189774, 59.374781]}, {"name": "Kuningavalli bastion", "text": "Kuningavalli bastion is an archaeological site offering historical insights in Narva.", "category": "historical", "coords": [28.197246, 59.380092]}, {"name": "Art Museum", "text": "The Art Museum in Narva is a local facility exhibiting various artistic works.", "category": "museum", "coords": [28.217713, 59.376572]}, {"name": "Joaoru rand", "text": "Joaoru rand is a recreational beach area located in Narva.", "category": "recreational", "coords": [28.202577, 59.372966]}, {"name": "Museum of North-West Russian Fortification", "text": "The Museum of North-West Russian Fortification is an exhibition space located in Narva.", "category": "museum", "coords": [28.206343, 59.376326]}, {"name": "Võidu park", "text": "Võidu park is a public park offering green spaces in the city of Narva.", "category": "park", "coords": [28.194499, 59.366623]}, {"name": "Linda park", "text": "Linda park is a recreational green area situated in Narva.", "category": "park", "coords": [28.192832, 59.374343]}, {"name": "Maleaed", "text": "Maleaed is a local park providing outdoor recreation in Narva.", "category": "park", "coords": [28.187628, 59.376555]}, {"name": "Narva Town Hall", "text": "Narva Town Hall is a historical building in Narva, notable for its classicist architecture and post-war restoration.", "category": "landmark", "coords": [28.198801, 59.379394]}, {"name": "Mõisa park", "text": "Mõisa park is a pleasant outdoor area located in Narva.", "category": "park", "coords": [28.175719, 59.378591]}, {"name": "Lossiaed", "text": "Lossiaed is a public park offering leisurely walks in Narva.", "category": "park", "coords": [28.197793, 59.375247]}, {"name": "EV100 park", "text": "EV100 park is a modern green space established in Narva.", "category": "park", "coords": [28.192869, 59.383634]}, {"name": "Sutthoffi park", "text": "Sutthoffi park is a green area in Narva, named after a historical local estate.", "category": "park", "coords": [28.193528, 59.393768]}, {"name": "Salmeaed", "text": "Salmeaed is a recreational park situated in the city of Narva.", "category": "park", "coords": [28.196009, 59.374893]}, {"name": "Rootsi lõvi", "text": "Rootsi lõvi is a local park space located in Narva.", "category": "park", "coords": [28.200435, 59.373071]}, {"name": "Puuvilla haljasala", "text": "Puuvilla haljasala is a public green space located in Narva.", "category": "park", "coords": [28.17925, 59.362219]}, {"name": "Paju park", "text": "Paju park provides a tranquil outdoor environment in Narva.", "category": "park", "coords": [28.184737, 59.385017]}, {"name": "Pushka", "text": "Пушка is a local outdoor attraction situated in Narva.", "category": "landmark", "coords": [28.208802, 59.373529]}, {"name": "Five-Kroon view", "text": "The Five-Kroon view is a scenic viewpoint offering vistas in Narva.", "category": "natural", "coords": [28.203831, 59.371686]}, {"name": "Cannon", "text": "This local Cannon is an outdoor historical attraction located in Narva.", "category": "landmark", "coords": [28.199736, 59.374946]}, {"name": "Devil rock", "text": "Devil rock is a local attraction found in the Narva region.", "category": "landmark", "coords": [28.224791, 59.38274]}, {"name": "Zamok", "text": "This local attraction, Замок, serves as a prominent landmark in Narva.", "category": "landmark", "coords": [28.205094, 59.375093]}, {"name": "Perednii gorod", "text": "Передний город is a historical attraction located in Narva.", "category": "landmark", "coords": [28.207605, 59.375211]}, {"name": "Tower", "text": "This local Tower stands as a distinct architectural attraction in Narva.", "category": "landmark", "coords": [28.19924, 59.36234]}, {"name": "NART narva art residency", "text": "NART narva art residency is a creative arts centre operating in Narva.", "category": "cultural", "coords": [28.194536, 59.361252]}, {"name": "Ingrian House", "text": "Ingrian House is a dedicated arts and cultural centre situated in Narva.", "category": "cultural", "coords": [28.198122, 59.369442]}, {"name": "Nemetskaya ognevaya tochka DN-2", "text": "Немецкая огневая точка DN-2 is an old military attraction found in Narva.", "category": "landmark", "coords": [28.226676, 59.384238]}, {"name": "Detskaya shkola iskusstv", "text": "Детская школа искусств is a local arts centre for children in Narva.", "category": "cultural", "coords": [28.216896, 59.372393]}, {"name": "Armeiskii magazin", "text": "Армейский магазин features the historical ruins of a building in Narva.", "category": "historical", "coords": [28.206388, 59.374406]}, {"name": "EMK Narva kogudus", "text": "EMK Narva kogudus is a local Methodist place of worship located in the city of Narva.", "category": "religious", "coords": [28.201679, 59.386955]}, {"name": "Orthodox Church of Resurrection", "text": "The Orthodox Church of Resurrection in Narva is a prominent place of worship known for its Byzantine architectural style.", "category": "religious", "coords": [28.193601, 59.371178]}, {"name": "Narva Mihkli kirik", "text": "Narva Mihkli kirik is a local place of worship providing religious services in Narva.", "category": "religious", "coords": [28.180674, 59.372982]}, {"name": "Orthodox Church of the Narva Icon of the Mother of God", "text": "The Orthodox Church of the Narva Icon of the Mother of God is an active Orthodox place of worship in Narva.", "category": "religious", "coords": [28.192573, 59.386041]}, {"name": "Friendship Bridge", "text": "The Friendship Bridge spans the Narva River, serving as a significant connection between Estonia and Russia.", "category": "landmark", "coords": [28.203938, 59.376692]}, {"name": "Narva Kaheteistkümne Püha Apostli kirik", "text": "Narva Kaheteistkümne Püha Apostli kirik is a notable place of worship in Narva dedicated to the Twelve Holy Apostles.", "category": "religious", "coords": [28.172236, 59.377378]}, {"name": "Väike-Kadastiku karjäär", "text": "Väike-Kadastiku karjäär is a quiet lake area in Narva, perfect for a peaceful walk.", "category": "natural", "coords": [28.139502, 59.365848]}, {"name": "Narva Reservoir", "text": "Narva Reservoir is a significant body of water in Narva, offering vast views and a calm atmosphere.", "category": "natural", "coords": [28.242533, 59.295487]}, {"name": "Mänguväljak kivikuhja juures", "text": "This playground in Narva offers a fun outdoor space for children to play and stay active.", "category": "family", "coords": [28.169648, 59.385504]}]},
+    id: "ee-narva", "sights": {
+      "de": [
+            {
+                  "name": "Narva Muuseumi kunstigalerii",
+                  "text": "Die Art Gallery Of Narva Museum ist eine kulturelle Einrichtung, die Kunst in Narva ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        28.19645,
+                        59.382522
+                  ]
+            },
+            {
+                  "name": "Narwa-Museum",
+                  "text": "Das Narva Museum ist ein lokales Museum in Narva.",
+                  "category": "museum",
+                  "coords": [
+                        28.201377,
+                        59.375428
+                  ]
+            },
+            {
+                  "name": "Narva Aleksandri Kiriku Tornimuuseum",
+                  "text": "The Museum of Narva Alexander's Church ist ein informatives Museum in Narva.",
+                  "category": "museum",
+                  "coords": [
+                        28.201835,
+                        59.370804
+                  ]
+            },
+            {
+                  "name": "Vaba Lava Narva",
+                  "text": "Vaba Lava Narva ist ein Theater in der Stadt Narva.",
+                  "category": "cultural",
+                  "coords": [
+                        28.189774,
+                        59.374781
+                  ]
+            },
+            {
+                  "name": "Kuningavalli bastion",
+                  "text": "Die Kuningavalli bastion ist eine archäologische Stätte in Narva.",
+                  "category": "historical",
+                  "coords": [
+                        28.197246,
+                        59.380092
+                  ]
+            },
+            {
+                  "name": "Kunstmuseum",
+                  "text": "Das Art Museum in Narva ist eine lokale Einrichtung, die Kunstwerke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        28.217713,
+                        59.376572
+                  ]
+            },
+            {
+                  "name": "Museum für Militär- und Verteidigungsarchitektur in Nordwestrussland",
+                  "text": "Das Museum of North-West Russian Fortification ist ein Ausstellungsraum in Narva.",
+                  "category": "museum",
+                  "coords": [
+                        28.206343,
+                        59.376326
+                  ]
+            },
+            {
+                  "name": "Võidu park",
+                  "text": "Võidu park ist ein öffentlicher Park in der Stadt Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.194499,
+                        59.366623
+                  ]
+            },
+            {
+                  "name": "Linda park",
+                  "text": "Linda park ist eine grüne Erholungszone in Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.192832,
+                        59.374343
+                  ]
+            },
+            {
+                  "name": "Maleaed",
+                  "text": "Maleaed ist ein lokaler Park in Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.187628,
+                        59.376555
+                  ]
+            },
+            {
+                  "name": "Narva raekoda",
+                  "text": "Das Narva Town Hall ist ein historisches Gebäude, das für seine klassizistische Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.198801,
+                        59.379394
+                  ]
+            },
+            {
+                  "name": "Mõisa park",
+                  "text": "Mõisa park ist eine angenehme Außenanlage in Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.175719,
+                        59.378591
+                  ]
+            },
+            {
+                  "name": "Lossiaed",
+                  "text": "Lossiaed ist ein öffentlicher Park für Spaziergänge in Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.197793,
+                        59.375247
+                  ]
+            },
+            {
+                  "name": "EV100 park",
+                  "text": "EV100 park ist eine moderne Grünanlage in Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.192869,
+                        59.383634
+                  ]
+            },
+            {
+                  "name": "Sutthoffi park",
+                  "text": "Sutthoffi park ist eine Grünfläche in Narva, die nach einem historischen lokalen Anwesen benannt ist.",
+                  "category": "park",
+                  "coords": [
+                        28.193528,
+                        59.393768
+                  ]
+            },
+            {
+                  "name": "Salmeaed",
+                  "text": "Salmeaed ist ein Erholungspark in der Stadt Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.196009,
+                        59.374893
+                  ]
+            },
+            {
+                  "name": "Rootsi lõvi",
+                  "text": "Rootsi lõvi ist ein lokaler Park in Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.200435,
+                        59.373071
+                  ]
+            },
+            {
+                  "name": "Puuvilla haljasala",
+                  "text": "Puuvilla haljasala ist eine öffentliche Grünfläche in Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.17925,
+                        59.362219
+                  ]
+            },
+            {
+                  "name": "Paju park",
+                  "text": "Der Paju park bietet eine ruhige Umgebung im Freien in Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.184737,
+                        59.385017
+                  ]
+            },
+            {
+                  "name": "Kanone",
+                  "text": "Пушка ist eine lokale Attraktion in Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.208802,
+                        59.373529
+                  ]
+            },
+            {
+                  "name": "Viiekroonine vaade",
+                  "text": "Der Five-Kroon view ist ein Aussichtspunkt in Narva.",
+                  "category": "natural",
+                  "coords": [
+                        28.203831,
+                        59.371686
+                  ]
+            },
+            {
+                  "name": "Kanone",
+                  "text": "Cannon ist eine historische Freiluftattraktion in Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.199736,
+                        59.374946
+                  ]
+            },
+            {
+                  "name": "Chertov kamen",
+                  "text": "Devil rock ist eine lokale Attraktion in der Region Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.224791,
+                        59.38274
+                  ]
+            },
+            {
+                  "name": "Zamok",
+                  "text": "Diese lokale Attraktion (Замок) ist ein markantes Wahrzeichen in Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.205094,
+                        59.375093
+                  ]
+            },
+            {
+                  "name": "Perednii gorod",
+                  "text": "Передний город ist eine historische Attraktion in Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.207605,
+                        59.375211
+                  ]
+            },
+            {
+                  "name": "Bashnya",
+                  "text": "Dieser Tower ist eine lokale architektonische Attraktion in Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.19924,
+                        59.36234
+                  ]
+            },
+            {
+                  "name": "NART narva kunsti residentuur",
+                  "text": "Die NART narva art residency ist ein Kunstzentrum in Narva.",
+                  "category": "cultural",
+                  "coords": [
+                        28.194536,
+                        59.361252
+                  ]
+            },
+            {
+                  "name": "Ingeri Maja",
+                  "text": "Das Ingrian House ist ein Zentrum für Kunst und Kultur in Narva.",
+                  "category": "cultural",
+                  "coords": [
+                        28.198122,
+                        59.369442
+                  ]
+            },
+            {
+                  "name": "Nemetskaya ognevaya tochka DN-2",
+                  "text": "Немецкая огневая точка DN-2 ist eine militärische Attraktion in Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.226676,
+                        59.384238
+                  ]
+            },
+            {
+                  "name": "Detskaya shkola iskusstv",
+                  "text": "Детская школа искусств ist ein lokales Kunstzentrum für Kinder in Narva.",
+                  "category": "cultural",
+                  "coords": [
+                        28.216896,
+                        59.372393
+                  ]
+            },
+            {
+                  "name": "Armeiskii magazin",
+                  "text": "Армейский магазин zeigt die Ruinen eines ehemaligen Ladens in Narva.",
+                  "category": "historical",
+                  "coords": [
+                        28.206388,
+                        59.374406
+                  ]
+            },
+            {
+                  "name": "EMK Narva kogudus",
+                  "text": "EMK Narva kogudus ist eine lokale methodistische Kultstätte in der Stadt Narva.",
+                  "category": "religious",
+                  "coords": [
+                        28.201679,
+                        59.386955
+                  ]
+            },
+            {
+                  "name": "Issanda Ülestõusmise Peakirik",
+                  "text": "Die Orthodox Church of Resurrection in Narva ist eine bekannte Kultstätte, die für ihren byzantinischen Architekturstil bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        28.193601,
+                        59.371178
+                  ]
+            },
+            {
+                  "name": "Narva Mihkli kirik",
+                  "text": "Narva Mihkli kirik ist eine lokale Kultstätte in Narva.",
+                  "category": "religious",
+                  "coords": [
+                        28.180674,
+                        59.372982
+                  ]
+            },
+            {
+                  "name": "Narva Jumalaema Narva pühakuju kirik",
+                  "text": "Die Orthodox Church of the Narva Icon of the Mother of God ist eine aktive orthodoxe Kultstätte in Narva.",
+                  "category": "religious",
+                  "coords": [
+                        28.192573,
+                        59.386041
+                  ]
+            },
+            {
+                  "name": "Freundschaftsbrücke",
+                  "text": "Die Friendship Bridge überspannt die Narva und stellt eine wichtige Verbindung zwischen Estland und Russland dar.",
+                  "category": "landmark",
+                  "coords": [
+                        28.203938,
+                        59.376692
+                  ]
+            },
+            {
+                  "name": "Narva Kaheteistkümne Püha Apostli kirik",
+                  "text": "Narva Kaheteistkümne Püha Apostli kirik ist eine bekannte Kultstätte in Narva, die den Heiligen Zwölf Aposteln gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        28.172236,
+                        59.377378
+                  ]
+            },
+            {
+                  "name": "Väike-Kadastiku karjäär",
+                  "text": "Väike-Kadastiku karjäär ist ein ruhiges Seegebiet in Narva, das sich perfekt für einen friedlichen Spaziergang eignet.",
+                  "category": "natural",
+                  "coords": [
+                        28.139502,
+                        59.365848
+                  ]
+            },
+            {
+                  "name": "Narwa-Stausee",
+                  "text": "Der Narva-Stausee ist ein bedeutendes Gewässer in Narva, das weite Ausblicke und eine ruhige Atmosphäre bietet.",
+                  "category": "natural",
+                  "coords": [
+                        28.242533,
+                        59.295487
+                  ]
+            },
+            {
+                  "name": "Mänguväljak kivikuhja juures",
+                  "text": "Dieser Spielplatz in Narva bietet Kindern einen unterhaltsamen Außenbereich zum Spielen und Toben.",
+                  "category": "family",
+                  "coords": [
+                        28.169648,
+                        59.385504
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Narva Muuseumi kunstigalerii",
+                  "text": "Az Art Gallery Of Narva Museum egy művészetet bemutató kulturális intézmény Narvában.",
+                  "category": "museum",
+                  "coords": [
+                        28.19645,
+                        59.382522
+                  ]
+            },
+            {
+                  "name": "Narva Muuseum",
+                  "text": "A Narva Museum egy helyi múzeum Narvában.",
+                  "category": "museum",
+                  "coords": [
+                        28.201377,
+                        59.375428
+                  ]
+            },
+            {
+                  "name": "Narva Aleksandri Kiriku Tornimuuseum",
+                  "text": "A The Museum of Narva Alexander's Church egy informatív múzeum Narva városában.",
+                  "category": "museum",
+                  "coords": [
+                        28.201835,
+                        59.370804
+                  ]
+            },
+            {
+                  "name": "Vaba Lava Narva",
+                  "text": "A Vaba Lava Narva egy színház Narva városában.",
+                  "category": "cultural",
+                  "coords": [
+                        28.189774,
+                        59.374781
+                  ]
+            },
+            {
+                  "name": "Kuningavalli bastion",
+                  "text": "A Kuningavalli bastion egy régészeti lelőhely Narvában.",
+                  "category": "historical",
+                  "coords": [
+                        28.197246,
+                        59.380092
+                  ]
+            },
+            {
+                  "name": "Khudozhestvennyi muzei",
+                  "text": "Az Art Museum egy helyi intézmény, amely művészeti alkotásokat állít ki Narvában.",
+                  "category": "museum",
+                  "coords": [
+                        28.217713,
+                        59.376572
+                  ]
+            },
+            {
+                  "name": "Muzei voenno-oboronitelnogo zodchestva Severo-Zapada Rusi",
+                  "text": "A Museum of North-West Russian Fortification egy kiállítótér Narvában.",
+                  "category": "museum",
+                  "coords": [
+                        28.206343,
+                        59.376326
+                  ]
+            },
+            {
+                  "name": "Võidu park",
+                  "text": "A Võidu park egy közpark Narva városában.",
+                  "category": "park",
+                  "coords": [
+                        28.194499,
+                        59.366623
+                  ]
+            },
+            {
+                  "name": "Linda park",
+                  "text": "A Linda park egy rekreációs zöldterület Narvában.",
+                  "category": "park",
+                  "coords": [
+                        28.192832,
+                        59.374343
+                  ]
+            },
+            {
+                  "name": "Maleaed",
+                  "text": "A Maleaed egy helyi park Narvában.",
+                  "category": "park",
+                  "coords": [
+                        28.187628,
+                        59.376555
+                  ]
+            },
+            {
+                  "name": "Narva raekoda",
+                  "text": "A Narva Town Hall egy történelmi épület, amely klasszicista építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        28.198801,
+                        59.379394
+                  ]
+            },
+            {
+                  "name": "Mõisa park",
+                  "text": "A Mõisa park egy kellemes szabadtéri terület Narvában.",
+                  "category": "park",
+                  "coords": [
+                        28.175719,
+                        59.378591
+                  ]
+            },
+            {
+                  "name": "Lossiaed",
+                  "text": "A Lossiaed egy közpark, amely sétákat kínál Narvában.",
+                  "category": "park",
+                  "coords": [
+                        28.197793,
+                        59.375247
+                  ]
+            },
+            {
+                  "name": "EV100 park",
+                  "text": "Az EV100 park egy modern zöldterület Narva városában.",
+                  "category": "park",
+                  "coords": [
+                        28.192869,
+                        59.383634
+                  ]
+            },
+            {
+                  "name": "Sutthoffi park",
+                  "text": "A Sutthoffi park egy zöldterület Narvában, amely egy történelmi helyi birtokról kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        28.193528,
+                        59.393768
+                  ]
+            },
+            {
+                  "name": "Salmeaed",
+                  "text": "A Salmeaed egy pihenőpark Narva városában.",
+                  "category": "park",
+                  "coords": [
+                        28.196009,
+                        59.374893
+                  ]
+            },
+            {
+                  "name": "Rootsi lõvi",
+                  "text": "A Rootsi lõvi egy helyi park Narva városában.",
+                  "category": "park",
+                  "coords": [
+                        28.200435,
+                        59.373071
+                  ]
+            },
+            {
+                  "name": "Puuvilla haljasala",
+                  "text": "A Puuvilla haljasala egy nyilvános zöldterület Narvában.",
+                  "category": "park",
+                  "coords": [
+                        28.17925,
+                        59.362219
+                  ]
+            },
+            {
+                  "name": "Paju park",
+                  "text": "A Paju park egy nyugodt szabadtéri környezetet biztosít Narvában.",
+                  "category": "park",
+                  "coords": [
+                        28.184737,
+                        59.385017
+                  ]
+            },
+            {
+                  "name": "Pushka",
+                  "text": "A Пушка egy helyi látványosság Narva városában.",
+                  "category": "landmark",
+                  "coords": [
+                        28.208802,
+                        59.373529
+                  ]
+            },
+            {
+                  "name": "Viiekroonine vaade",
+                  "text": "A Five-Kroon view egy kilátó Narvában.",
+                  "category": "natural",
+                  "coords": [
+                        28.203831,
+                        59.371686
+                  ]
+            },
+            {
+                  "name": "Kahur",
+                  "text": "A Cannon egy szabadtéri látványosság Narvában.",
+                  "category": "landmark",
+                  "coords": [
+                        28.199736,
+                        59.374946
+                  ]
+            },
+            {
+                  "name": "Chertov kamen",
+                  "text": "A Devil rock egy helyi látványosság a Narva régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.224791,
+                        59.38274
+                  ]
+            },
+            {
+                  "name": "Zamok",
+                  "text": "A Замок nevű helyi látványosság egy nevezetesség Narvában.",
+                  "category": "landmark",
+                  "coords": [
+                        28.205094,
+                        59.375093
+                  ]
+            },
+            {
+                  "name": "Perednii gorod",
+                  "text": "A Передний город egy történelmi látványosság Narva városában.",
+                  "category": "landmark",
+                  "coords": [
+                        28.207605,
+                        59.375211
+                  ]
+            },
+            {
+                  "name": "Bashnya",
+                  "text": "Ez a Tower egy helyi építészeti látványosság Narvában.",
+                  "category": "landmark",
+                  "coords": [
+                        28.19924,
+                        59.36234
+                  ]
+            },
+            {
+                  "name": "NART narva kunsti residentuur",
+                  "text": "A NART narva art residency egy művészeti központ Narvában.",
+                  "category": "cultural",
+                  "coords": [
+                        28.194536,
+                        59.361252
+                  ]
+            },
+            {
+                  "name": "Ingeri Maja",
+                  "text": "Az Ingrian House egy művészeti és kulturális központ Narva városában.",
+                  "category": "cultural",
+                  "coords": [
+                        28.198122,
+                        59.369442
+                  ]
+            },
+            {
+                  "name": "Nemetskaya ognevaya tochka DN-2",
+                  "text": "A Немецкая огневая точка DN-2 egy katonai látványosság Narvában.",
+                  "category": "landmark",
+                  "coords": [
+                        28.226676,
+                        59.384238
+                  ]
+            },
+            {
+                  "name": "Detskaya shkola iskusstv",
+                  "text": "A Детская школа искусств egy helyi gyermekművészeti központ Narvában.",
+                  "category": "cultural",
+                  "coords": [
+                        28.216896,
+                        59.372393
+                  ]
+            },
+            {
+                  "name": "Armeiskii magazin",
+                  "text": "Az Армейский магазин egy egykori bolt romjait mutatja be Narvában.",
+                  "category": "historical",
+                  "coords": [
+                        28.206388,
+                        59.374406
+                  ]
+            },
+            {
+                  "name": "EMK Narva kogudus",
+                  "text": "Az EMK Narva kogudus egy helyi metodista istentiszteleti hely Narva városában.",
+                  "category": "religious",
+                  "coords": [
+                        28.201679,
+                        59.386955
+                  ]
+            },
+            {
+                  "name": "Issanda Ülestõusmise Peakirik",
+                  "text": "A narvai Orthodox Church of Resurrection egy kiemelkedő istentiszteleti hely, amely bizánci építészeti stílusáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        28.193601,
+                        59.371178
+                  ]
+            },
+            {
+                  "name": "Narva Mihkli kirik",
+                  "text": "A Narva Mihkli kirik egy helyi istentiszteleti hely Narvában.",
+                  "category": "religious",
+                  "coords": [
+                        28.180674,
+                        59.372982
+                  ]
+            },
+            {
+                  "name": "Narva Jumalaema Narva pühakuju kirik",
+                  "text": "Az Orthodox Church of the Narva Icon of the Mother of God egy aktív ortodox istentiszteleti hely Narvában.",
+                  "category": "religious",
+                  "coords": [
+                        28.192573,
+                        59.386041
+                  ]
+            },
+            {
+                  "name": "Sõpruse sild / Narvskii most Druzhby",
+                  "text": "A Friendship Bridge a Narva folyón ível át, és fontos kapcsolatot teremt Észtország és Oroszország között.",
+                  "category": "landmark",
+                  "coords": [
+                        28.203938,
+                        59.376692
+                  ]
+            },
+            {
+                  "name": "Narva Kaheteistkümne Püha Apostli kirik",
+                  "text": "A Narva Kaheteistkümne Püha Apostli kirik egy jelentős istentiszteleti hely Narvában, amelyet a Tizenkét Szent Apostolnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        28.172236,
+                        59.377378
+                  ]
+            },
+            {
+                  "name": "Väike-Kadastiku karjäär",
+                  "text": "A Väike-Kadastiku karjäär egy csendes tavi terület Narvában, amely tökéletes egy nyugodt sétához.",
+                  "category": "natural",
+                  "coords": [
+                        28.139502,
+                        59.365848
+                  ]
+            },
+            {
+                  "name": "Narva veehoidla / Narvskoe vodokhranilishche",
+                  "text": "A Narvai-víztározó egy jelentős vízfelület Narvában, amely tágas kilátást és nyugodt légkört kínál.",
+                  "category": "natural",
+                  "coords": [
+                        28.242533,
+                        59.295487
+                  ]
+            },
+            {
+                  "name": "Mänguväljak kivikuhja juures",
+                  "text": "Ez a narvai játszótér szórakoztató szabadtéri helyet kínál a gyerekeknek a játékhoz és az aktív kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        28.169648,
+                        59.385504
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Narva Muuseumi kunstigalerii",
+                  "text": "Art Gallery Of Narva Museum este o instituție culturală care expune artă în Narva.",
+                  "category": "museum",
+                  "coords": [
+                        28.19645,
+                        59.382522
+                  ]
+            },
+            {
+                  "name": "Narva Muuseum",
+                  "text": "Narva Museum este un muzeu local din Narva.",
+                  "category": "museum",
+                  "coords": [
+                        28.201377,
+                        59.375428
+                  ]
+            },
+            {
+                  "name": "Narva Aleksandri Kiriku Tornimuuseum",
+                  "text": "The Museum of Narva Alexander's Church este un muzeu informativ situat în Narva.",
+                  "category": "museum",
+                  "coords": [
+                        28.201835,
+                        59.370804
+                  ]
+            },
+            {
+                  "name": "Vaba Lava Narva",
+                  "text": "Vaba Lava Narva este un teatru situat în orașul Narva.",
+                  "category": "cultural",
+                  "coords": [
+                        28.189774,
+                        59.374781
+                  ]
+            },
+            {
+                  "name": "Kuningavalli bastion",
+                  "text": "Kuningavalli bastion este un sit arheologic în Narva.",
+                  "category": "historical",
+                  "coords": [
+                        28.197246,
+                        59.380092
+                  ]
+            },
+            {
+                  "name": "Khudozhestvennyi muzei",
+                  "text": "Art Museum din Narva este o facilitate locală care expune lucrări artistice.",
+                  "category": "museum",
+                  "coords": [
+                        28.217713,
+                        59.376572
+                  ]
+            },
+            {
+                  "name": "Muzei voenno-oboronitelnogo zodchestva Severo-Zapada Rusi",
+                  "text": "Museum of North-West Russian Fortification este un muzeu situat în Narva.",
+                  "category": "museum",
+                  "coords": [
+                        28.206343,
+                        59.376326
+                  ]
+            },
+            {
+                  "name": "Võidu park",
+                  "text": "Võidu park este un parc public în orașul Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.194499,
+                        59.366623
+                  ]
+            },
+            {
+                  "name": "Linda park",
+                  "text": "Linda park este o zonă verde de recreere situată în Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.192832,
+                        59.374343
+                  ]
+            },
+            {
+                  "name": "Maleaed",
+                  "text": "Maleaed este un parc local în Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.187628,
+                        59.376555
+                  ]
+            },
+            {
+                  "name": "Narva raekoda",
+                  "text": "Narva Town Hall este o clădire istorică notabilă pentru arhitectura sa clasicistă.",
+                  "category": "landmark",
+                  "coords": [
+                        28.198801,
+                        59.379394
+                  ]
+            },
+            {
+                  "name": "Mõisa park",
+                  "text": "Mõisa park este un parc în aer liber situat în Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.175719,
+                        59.378591
+                  ]
+            },
+            {
+                  "name": "Lossiaed",
+                  "text": "Lossiaed este un parc public ce oferă plimbări în Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.197793,
+                        59.375247
+                  ]
+            },
+            {
+                  "name": "EV100 park",
+                  "text": "EV100 park este un spațiu verde modern înființat în Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.192869,
+                        59.383634
+                  ]
+            },
+            {
+                  "name": "Sutthoffi park",
+                  "text": "Sutthoffi park este o zonă verde din Narva, numită după o moșie istorică locală.",
+                  "category": "park",
+                  "coords": [
+                        28.193528,
+                        59.393768
+                  ]
+            },
+            {
+                  "name": "Salmeaed",
+                  "text": "Salmeaed este un parc de agrement situat în orașul Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.196009,
+                        59.374893
+                  ]
+            },
+            {
+                  "name": "Rootsi lõvi",
+                  "text": "Rootsi lõvi este un parc local situat în Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.200435,
+                        59.373071
+                  ]
+            },
+            {
+                  "name": "Puuvilla haljasala",
+                  "text": "Puuvilla haljasala este un spațiu verde public situat în Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.17925,
+                        59.362219
+                  ]
+            },
+            {
+                  "name": "Paju park",
+                  "text": "Paju park oferă un mediu liniștit în aer liber în Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.184737,
+                        59.385017
+                  ]
+            },
+            {
+                  "name": "Pushka",
+                  "text": "Пушка este o atracție locală situată în Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.208802,
+                        59.373529
+                  ]
+            },
+            {
+                  "name": "Viiekroonine vaade",
+                  "text": "Five-Kroon view este un punct de belvedere în Narva.",
+                  "category": "natural",
+                  "coords": [
+                        28.203831,
+                        59.371686
+                  ]
+            },
+            {
+                  "name": "Kahur",
+                  "text": "Cannon este o atracție în aer liber situată în Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.199736,
+                        59.374946
+                  ]
+            },
+            {
+                  "name": "Chertov kamen",
+                  "text": "Devil rock este o atracție din regiunea Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.224791,
+                        59.38274
+                  ]
+            },
+            {
+                  "name": "Zamok",
+                  "text": "Această atracție (Замок) servește drept reper în Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.205094,
+                        59.375093
+                  ]
+            },
+            {
+                  "name": "Perednii gorod",
+                  "text": "Передний город este o atracție istorică situată în Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.207605,
+                        59.375211
+                  ]
+            },
+            {
+                  "name": "Bashnya",
+                  "text": "Acest Tower este o atracție arhitecturală locală în Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.19924,
+                        59.36234
+                  ]
+            },
+            {
+                  "name": "NART narva kunsti residentuur",
+                  "text": "NART narva art residency este un centru de arte din Narva.",
+                  "category": "cultural",
+                  "coords": [
+                        28.194536,
+                        59.361252
+                  ]
+            },
+            {
+                  "name": "Ingeri Maja",
+                  "text": "Ingrian House este un centru de artă și cultură situat în Narva.",
+                  "category": "cultural",
+                  "coords": [
+                        28.198122,
+                        59.369442
+                  ]
+            },
+            {
+                  "name": "Nemetskaya ognevaya tochka DN-2",
+                  "text": "Немецкая огневая точка DN-2 este o atracție militară găsită în Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.226676,
+                        59.384238
+                  ]
+            },
+            {
+                  "name": "Detskaya shkola iskusstv",
+                  "text": "Детская школа искусств este un centru local de arte în Narva.",
+                  "category": "cultural",
+                  "coords": [
+                        28.216896,
+                        59.372393
+                  ]
+            },
+            {
+                  "name": "Armeiskii magazin",
+                  "text": "Армейский магазин prezintă ruinele unui fost magazin în Narva.",
+                  "category": "historical",
+                  "coords": [
+                        28.206388,
+                        59.374406
+                  ]
+            },
+            {
+                  "name": "EMK Narva kogudus",
+                  "text": "EMK Narva kogudus este un lăcaș de cult metodist situat în orașul Narva.",
+                  "category": "religious",
+                  "coords": [
+                        28.201679,
+                        59.386955
+                  ]
+            },
+            {
+                  "name": "Issanda Ülestõusmise Peakirik",
+                  "text": "Orthodox Church of Resurrection din Narva este un lăcaș de cult proeminent, cunoscut pentru stilul său arhitectural bizantin.",
+                  "category": "religious",
+                  "coords": [
+                        28.193601,
+                        59.371178
+                  ]
+            },
+            {
+                  "name": "Narva Mihkli kirik",
+                  "text": "Narva Mihkli kirik este un lăcaș de cult local în Narva.",
+                  "category": "religious",
+                  "coords": [
+                        28.180674,
+                        59.372982
+                  ]
+            },
+            {
+                  "name": "Narva Jumalaema Narva pühakuju kirik",
+                  "text": "Orthodox Church of the Narva Icon of the Mother of God este un lăcaș de cult ortodox activ din Narva.",
+                  "category": "religious",
+                  "coords": [
+                        28.192573,
+                        59.386041
+                  ]
+            },
+            {
+                  "name": "Sõpruse sild / Narvskii most Druzhby",
+                  "text": "Friendship Bridge traversează râul Narva, servind drept o conexiune semnificativă între Estonia și Rusia.",
+                  "category": "landmark",
+                  "coords": [
+                        28.203938,
+                        59.376692
+                  ]
+            },
+            {
+                  "name": "Narva Kaheteistkümne Püha Apostli kirik",
+                  "text": "Narva Kaheteistkümne Püha Apostli kirik este un lăcaș de cult notabil din Narva dedicat celor Doisprezece Sfinți Apostoli.",
+                  "category": "religious",
+                  "coords": [
+                        28.172236,
+                        59.377378
+                  ]
+            },
+            {
+                  "name": "Väike-Kadastiku karjäär",
+                  "text": "Väike-Kadastiku karjäär este o zonă de lac liniștită din Narva, perfectă pentru o plimbare liniștită.",
+                  "category": "natural",
+                  "coords": [
+                        28.139502,
+                        59.365848
+                  ]
+            },
+            {
+                  "name": "Narva veehoidla / Narvskoe vodokhranilishche",
+                  "text": "Rezervorul Narva este un corp de apă semnificativ din Narva, oferind vederi vaste și o atmosferă calmă.",
+                  "category": "natural",
+                  "coords": [
+                        28.242533,
+                        59.295487
+                  ]
+            },
+            {
+                  "name": "Mänguväljak kivikuhja juures",
+                  "text": "Acest loc de joacă din Narva oferă un spațiu distractiv în aer liber pentru ca copiii să se joace și să rămână activi.",
+                  "category": "family",
+                  "coords": [
+                        28.169648,
+                        59.385504
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Art Gallery Of Narva Museum",
+                  "text": "The Art Gallery Of Narva Museum is a cultural institution showcasing art in Narva.",
+                  "category": "museum",
+                  "coords": [
+                        28.19645,
+                        59.382522
+                  ]
+            },
+            {
+                  "name": "Narva Museum",
+                  "text": "Narva Museum is a local museum located in Narva.",
+                  "category": "museum",
+                  "coords": [
+                        28.201377,
+                        59.375428
+                  ]
+            },
+            {
+                  "name": "The Museum of Narva Alexander's Church",
+                  "text": "The Museum of Narva Alexander's Church is an informative museum located in Narva.",
+                  "category": "museum",
+                  "coords": [
+                        28.201835,
+                        59.370804
+                  ]
+            },
+            {
+                  "name": "Vaba Lava Narva",
+                  "text": "Vaba Lava Narva is a theatre venue situated in the city of Narva.",
+                  "category": "cultural",
+                  "coords": [
+                        28.189774,
+                        59.374781
+                  ]
+            },
+            {
+                  "name": "Kuningavalli bastion",
+                  "text": "Kuningavalli bastion is an archaeological site offering historical insights in Narva.",
+                  "category": "historical",
+                  "coords": [
+                        28.197246,
+                        59.380092
+                  ]
+            },
+            {
+                  "name": "Art Museum",
+                  "text": "The Art Museum in Narva is a local facility exhibiting various artistic works.",
+                  "category": "museum",
+                  "coords": [
+                        28.217713,
+                        59.376572
+                  ]
+            },
+            {
+                  "name": "Museum of North-West Russian Fortification",
+                  "text": "The Museum of North-West Russian Fortification is an exhibition space located in Narva.",
+                  "category": "museum",
+                  "coords": [
+                        28.206343,
+                        59.376326
+                  ]
+            },
+            {
+                  "name": "Võidu park",
+                  "text": "Võidu park is a public park offering green spaces in the city of Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.194499,
+                        59.366623
+                  ]
+            },
+            {
+                  "name": "Linda park",
+                  "text": "Linda park is a recreational green area situated in Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.192832,
+                        59.374343
+                  ]
+            },
+            {
+                  "name": "Maleaed",
+                  "text": "Maleaed is a local park providing outdoor recreation in Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.187628,
+                        59.376555
+                  ]
+            },
+            {
+                  "name": "Narva Town Hall",
+                  "text": "Narva Town Hall is a historical building in Narva, notable for its classicist architecture and post-war restoration.",
+                  "category": "landmark",
+                  "coords": [
+                        28.198801,
+                        59.379394
+                  ]
+            },
+            {
+                  "name": "Mõisa park",
+                  "text": "Mõisa park is a pleasant outdoor area located in Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.175719,
+                        59.378591
+                  ]
+            },
+            {
+                  "name": "Lossiaed",
+                  "text": "Lossiaed is a public park offering leisurely walks in Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.197793,
+                        59.375247
+                  ]
+            },
+            {
+                  "name": "EV100 park",
+                  "text": "EV100 park is a modern green space established in Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.192869,
+                        59.383634
+                  ]
+            },
+            {
+                  "name": "Sutthoffi park",
+                  "text": "Sutthoffi park is a green area in Narva, named after a historical local estate.",
+                  "category": "park",
+                  "coords": [
+                        28.193528,
+                        59.393768
+                  ]
+            },
+            {
+                  "name": "Salmeaed",
+                  "text": "Salmeaed is a recreational park situated in the city of Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.196009,
+                        59.374893
+                  ]
+            },
+            {
+                  "name": "Rootsi lõvi",
+                  "text": "Rootsi lõvi is a local park space located in Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.200435,
+                        59.373071
+                  ]
+            },
+            {
+                  "name": "Puuvilla haljasala",
+                  "text": "Puuvilla haljasala is a public green space located in Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.17925,
+                        59.362219
+                  ]
+            },
+            {
+                  "name": "Paju park",
+                  "text": "Paju park provides a tranquil outdoor environment in Narva.",
+                  "category": "park",
+                  "coords": [
+                        28.184737,
+                        59.385017
+                  ]
+            },
+            {
+                  "name": "Pushka",
+                  "text": "Пушка is a local outdoor attraction situated in Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.208802,
+                        59.373529
+                  ]
+            },
+            {
+                  "name": "Five-Kroon view",
+                  "text": "The Five-Kroon view is a scenic viewpoint offering vistas in Narva.",
+                  "category": "natural",
+                  "coords": [
+                        28.203831,
+                        59.371686
+                  ]
+            },
+            {
+                  "name": "Cannon",
+                  "text": "This local Cannon is an outdoor historical attraction located in Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.199736,
+                        59.374946
+                  ]
+            },
+            {
+                  "name": "Devil rock",
+                  "text": "Devil rock is a local attraction found in the Narva region.",
+                  "category": "landmark",
+                  "coords": [
+                        28.224791,
+                        59.38274
+                  ]
+            },
+            {
+                  "name": "Zamok",
+                  "text": "This local attraction, Замок, serves as a prominent landmark in Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.205094,
+                        59.375093
+                  ]
+            },
+            {
+                  "name": "Perednii gorod",
+                  "text": "Передний город is a historical attraction located in Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.207605,
+                        59.375211
+                  ]
+            },
+            {
+                  "name": "Tower",
+                  "text": "This local Tower stands as a distinct architectural attraction in Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.19924,
+                        59.36234
+                  ]
+            },
+            {
+                  "name": "NART narva art residency",
+                  "text": "NART narva art residency is a creative arts centre operating in Narva.",
+                  "category": "cultural",
+                  "coords": [
+                        28.194536,
+                        59.361252
+                  ]
+            },
+            {
+                  "name": "Ingrian House",
+                  "text": "Ingrian House is a dedicated arts and cultural centre situated in Narva.",
+                  "category": "cultural",
+                  "coords": [
+                        28.198122,
+                        59.369442
+                  ]
+            },
+            {
+                  "name": "Nemetskaya ognevaya tochka DN-2",
+                  "text": "Немецкая огневая точка DN-2 is an old military attraction found in Narva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.226676,
+                        59.384238
+                  ]
+            },
+            {
+                  "name": "Detskaya shkola iskusstv",
+                  "text": "Детская школа искусств is a local arts centre for children in Narva.",
+                  "category": "cultural",
+                  "coords": [
+                        28.216896,
+                        59.372393
+                  ]
+            },
+            {
+                  "name": "Armeiskii magazin",
+                  "text": "Армейский магазин features the historical ruins of a building in Narva.",
+                  "category": "historical",
+                  "coords": [
+                        28.206388,
+                        59.374406
+                  ]
+            },
+            {
+                  "name": "EMK Narva kogudus",
+                  "text": "EMK Narva kogudus is a local Methodist place of worship located in the city of Narva.",
+                  "category": "religious",
+                  "coords": [
+                        28.201679,
+                        59.386955
+                  ]
+            },
+            {
+                  "name": "Orthodox Church of Resurrection",
+                  "text": "The Orthodox Church of Resurrection in Narva is a prominent place of worship known for its Byzantine architectural style.",
+                  "category": "religious",
+                  "coords": [
+                        28.193601,
+                        59.371178
+                  ]
+            },
+            {
+                  "name": "Narva Mihkli kirik",
+                  "text": "Narva Mihkli kirik is a local place of worship providing religious services in Narva.",
+                  "category": "religious",
+                  "coords": [
+                        28.180674,
+                        59.372982
+                  ]
+            },
+            {
+                  "name": "Orthodox Church of the Narva Icon of the Mother of God",
+                  "text": "The Orthodox Church of the Narva Icon of the Mother of God is an active Orthodox place of worship in Narva.",
+                  "category": "religious",
+                  "coords": [
+                        28.192573,
+                        59.386041
+                  ]
+            },
+            {
+                  "name": "Friendship Bridge",
+                  "text": "The Friendship Bridge spans the Narva River, serving as a significant connection between Estonia and Russia.",
+                  "category": "landmark",
+                  "coords": [
+                        28.203938,
+                        59.376692
+                  ]
+            },
+            {
+                  "name": "Narva Kaheteistkümne Püha Apostli kirik",
+                  "text": "Narva Kaheteistkümne Püha Apostli kirik is a notable place of worship in Narva dedicated to the Twelve Holy Apostles.",
+                  "category": "religious",
+                  "coords": [
+                        28.172236,
+                        59.377378
+                  ]
+            },
+            {
+                  "name": "Väike-Kadastiku karjäär",
+                  "text": "Väike-Kadastiku karjäär is a quiet lake area in Narva, perfect for a peaceful walk.",
+                  "category": "natural",
+                  "coords": [
+                        28.139502,
+                        59.365848
+                  ]
+            },
+            {
+                  "name": "Narva Reservoir",
+                  "text": "Narva Reservoir is a significant body of water in Narva, offering vast views and a calm atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        28.242533,
+                        59.295487
+                  ]
+            },
+            {
+                  "name": "Mänguväljak kivikuhja juures",
+                  "text": "This playground in Narva offers a fun outdoor space for children to play and stay active.",
+                  "category": "family",
+                  "coords": [
+                        28.169648,
+                        59.385504
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ee-country",
     coords: [28.1833, 59.3833],
@@ -5693,33 +6998,6 @@ const estoniaAllPoiBase: POI[] = [
                   ]
             },
             {
-                  "name": "Paralepa supelrand",
-                  "text": "Ein beliebter Sandstrand in Haapsalu, bekannt für sein warmes Wasser und Heilschlamm.",
-                  "category": "recreational",
-                  "coords": [
-                        23.516113,
-                        58.94287
-                  ]
-            },
-            {
-                  "name": "Vasikaholmi supelrand",
-                  "text": "Ein ruhiger Strandabschnitt an der Küste von Haapsalu.",
-                  "category": "recreational",
-                  "coords": [
-                        23.52016,
-                        58.953732
-                  ]
-            },
-            {
-                  "name": "Väikese viigi supelrand",
-                  "text": "Ein kleiner Strand an der Bucht Väike viik im Herzen von Haapsalu.",
-                  "category": "recreational",
-                  "coords": [
-                        23.52952,
-                        58.949477
-                  ]
-            },
-            {
                   "name": "Rootsituru plants",
                   "text": "Ein historischer Platz mit Grünanlagen in der Altstadt von Haapsalu.",
                   "category": "park",
@@ -5807,15 +7085,6 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         23.543589,
                         58.95013
-                  ]
-            },
-            {
-                  "name": "Haapsalu talisupluskoht",
-                  "text": "Ein öffentlicher Badeplatz in Haapsalu, der speziell für das Winterschwimmen genutzt wird.",
-                  "category": "recreational",
-                  "coords": [
-                        23.523511,
-                        58.960615
                   ]
             },
             {
@@ -5929,33 +7198,6 @@ const estoniaAllPoiBase: POI[] = [
                   ]
             },
             {
-                  "name": "Paralepa supelrand",
-                  "text": "Népszerű homokos strand Haapsaluban, amely meleg vizéről és gyógyiszapjáról ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        23.516113,
-                        58.94287
-                  ]
-            },
-            {
-                  "name": "Vasikaholmi supelrand",
-                  "text": "Nyugodt tengerparti szakasz Haapsalu partjainál.",
-                  "category": "recreational",
-                  "coords": [
-                        23.52016,
-                        58.953732
-                  ]
-            },
-            {
-                  "name": "Väikese viigi supelrand",
-                  "text": "Kis strand a Väike viik-öböl partján, Haapsalu szívében.",
-                  "category": "recreational",
-                  "coords": [
-                        23.52952,
-                        58.949477
-                  ]
-            },
-            {
                   "name": "Rootsituru plants",
                   "text": "Történelmi tér zöldterületekkel Haapsalu óvárosában.",
                   "category": "park",
@@ -6043,15 +7285,6 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         23.543589,
                         58.95013
-                  ]
-            },
-            {
-                  "name": "Haapsalu talisupluskoht",
-                  "text": "Nyilvános fürdőhely Haapsaluban, amelyet kifejezetten téli úszásra használnak.",
-                  "category": "recreational",
-                  "coords": [
-                        23.523511,
-                        58.960615
                   ]
             },
             {
@@ -6165,33 +7398,6 @@ const estoniaAllPoiBase: POI[] = [
                   ]
             },
             {
-                  "name": "Paralepa supelrand",
-                  "text": "O plajă de nisip populară în Haapsalu, cunoscută pentru apa caldă și nămolul curativ.",
-                  "category": "recreational",
-                  "coords": [
-                        23.516113,
-                        58.94287
-                  ]
-            },
-            {
-                  "name": "Vasikaholmi supelrand",
-                  "text": "O porțiune liniștită de plajă pe coasta orașului Haapsalu.",
-                  "category": "recreational",
-                  "coords": [
-                        23.52016,
-                        58.953732
-                  ]
-            },
-            {
-                  "name": "Väikese viigi supelrand",
-                  "text": "O mică plajă pe malul golfului Väike viik, în inima orașului Haapsalu.",
-                  "category": "recreational",
-                  "coords": [
-                        23.52952,
-                        58.949477
-                  ]
-            },
-            {
                   "name": "Rootsituru plants",
                   "text": "O piață istorică cu spații verzi în centrul vechi al orașului Haapsalu.",
                   "category": "park",
@@ -6279,15 +7485,6 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         23.543589,
                         58.95013
-                  ]
-            },
-            {
-                  "name": "Haapsalu talisupluskoht",
-                  "text": "Un loc de scăldat public în Haapsalu, utilizat special pentru înotul de iarnă.",
-                  "category": "recreational",
-                  "coords": [
-                        23.523511,
-                        58.960615
                   ]
             },
             {
@@ -6515,15 +7712,6 @@ const estoniaAllPoiBase: POI[] = [
                   "coords": [
                         23.543589,
                         58.95013
-                  ]
-            },
-            {
-                  "name": "Haapsalu talisupluskoht",
-                  "text": "A public swimming spot in Haapsalu, specifically used for winter swimming.",
-                  "category": "recreational",
-                  "coords": [
-                        23.523511,
-                        58.960615
                   ]
             },
             {
@@ -6932,7 +8120,1231 @@ export const estoniaCities: POI[] = [
     },
   },
   {
-    id: "city-viljandi", "sights": {"de": [{"name": "Paala rand", "text": "Paala-Strand in Viljandi.", "category": "recreational", "coords": [25.589093, 58.371967]}, {"name": "Ordensburg Viljandi", "text": "Das Viljandi Castle zeigt die beeindruckenden Ruinen einer ehemaligen Festung des Livländischen Ordens in Viljandi.", "category": "castle", "coords": [25.595193, 58.359003]}, {"name": "Ugala", "text": "Ugala ist ein bemerkenswertes Theater in Viljandi und als eines der ältesten professionellen Schauspielhäuser Estlands bekannt.", "category": "cultural", "coords": [25.587966, 58.361982]}, {"name": "Viljandi maastikukaitseala", "text": "Ein Naturschutzgebiet in der Stadt Viljandi.", "category": "natural", "coords": [25.602401, 58.346373]}, {"name": "Kondase Keskus", "text": "Ein Museum für naive Kunst in Viljandi.", "category": "museum", "coords": [25.597445, 58.361885]}, {"name": "Viljandi Muuseum", "text": "Ein Museum über die lokale Geschichte in Viljandi.", "category": "museum", "coords": [25.599663, 58.363165]}, {"name": "Viljandi Kesklinna Kooli muuseum", "text": "Ein Schulmuseum in Viljandi.", "category": "museum", "coords": [25.608903, 58.36637]}, {"name": "Kohvikteater", "text": "Ein Theater in der Stadt Viljandi.", "category": "cultural", "coords": [25.576941, 58.346101]}, {"name": "Viljandi Nukuteater", "text": "Ein Puppentheater in Viljandi.", "category": "cultural", "coords": [25.600705, 58.365224]}, {"name": "Seasaare Rahvateatri Selts", "text": "Ein Volkstheater in Viljandi.", "category": "cultural", "coords": [25.598645, 58.363628]}, {"name": "Viljandi Strand", "text": "Direkt am ruhigen Binnengewässer von Viljandi empfängt der Viljandi Strand seine Gäste mit einer gemütlichen Seeatmosphäre. Dieser malerische Sandstrand in Estland eignet sich besonders gut für entspannte Familientage und erholsame Badeausflüge im Grünen. Wer im Sommer eine Abkühlung fernab der Küste sucht, findet hier einen idyllischen und leicht erreichbaren Erholungsort.", "category": "recreational", "coords": [25.607826, 58.360187]}, {"name": "Viljandi järve Huntaugu supelrand", "text": "Ein weiterer Strand am Viljandi-See.", "category": "recreational", "coords": [25.592801, 58.353442]}, {"name": "Johan Laidoneri sünnikoht", "text": "Ein Denkmal und der Geburtsort von Johan Laidoner in Viljandi.", "category": "landmark", "coords": [25.621568, 58.345946]}, {"name": "Estnisch Traditionelles Musikzentrum", "text": "Ein Zentrum für traditionelle Musik in Viljandi.", "category": "cultural", "coords": [25.5961, 58.361076]}, {"name": "Sakala Zentrum", "text": "Eine lokale Attraktion in der Stadt Viljandi.", "category": "landmark", "coords": [25.596419, 58.3655]}, {"name": "Viljandi rippsild", "text": "Eine Hängebrücke in der Stadt Viljandi.", "category": "landmark", "coords": [25.593875, 58.358983]}, {"name": "Viljandi mõisa peahoone", "text": "Das Hauptgebäude eines historischen Herrenhauses in Viljandi.", "category": "historical", "coords": [25.593732, 58.362243]}, {"name": "Deutscher Soldaten Friedhof", "text": "Ein Park, in dem sich ein bekannter deutscher Soldatenfriedhof in Viljandi befindet.", "category": "park", "coords": [25.585819, 58.359678]}, {"name": "Alter Wasserturm von Viljandi", "text": "Ein alter Wasserturm und eine Attraktion in Viljandi.", "category": "landmark", "coords": [25.600792, 58.362768]}, {"name": "Närska mägi", "text": "Ein Aussichtspunkt in der Stadt Viljandi.", "category": "natural", "coords": [25.602478, 58.35292]}, {"name": "Trepimägi", "text": "Eine lokale Attraktion in der Stadt Viljandi.", "category": "landmark", "coords": [25.603207, 58.362248]}, {"name": "Viljandi adventkirik", "text": "Eine Adventistenkirche in der Stadt Viljandi.", "category": "religious", "coords": [25.593019, 58.369245]}, {"name": "Viljandi Ristija Johannese kirik", "text": "Eine estnisch-orthodoxe Kirche des Moskauer Patriarchats in Viljandi.", "category": "religious", "coords": [25.604851, 58.36475]}, {"name": "Kösti vesiveski", "text": "Eine historische Wassermühle in Viljandi.", "category": "landmark", "coords": [25.624339, 58.366747]}, {"name": "Pärsti järv", "text": "Der Pärsti järv ist ein malerischer See bei Viljandi, der für seine ruhige und natürliche Umgebung bekannt ist.", "category": "natural", "coords": [25.537, 58.420505]}, {"name": "Karula järv", "text": "Der Karula järv ist ein friedlicher See in der Gegend von Viljandi und ein schöner Ort für Naturliebhaber.", "category": "natural", "coords": [25.600576, 58.396946]}, {"name": "Sinialliku järv", "text": "Der Sinialliku järv ist ein malerischer See in Viljandi, der eine ruhige Umgebung für einen entspannten Besuch bietet.", "category": "natural", "coords": [25.555808, 58.306634]}, {"name": "Rahetsema järv", "text": "Der Rahetsema järv ist ein ruhiger See bei Viljandi, ideal um die lokale Landschaft zu genießen.", "category": "natural", "coords": [25.548715, 58.29706]}, {"name": "Raudna tehisjärv", "text": "Der Raaudna tehisjärv ist ein künstlicher See in Viljandi, der ein angenehmes Areal zum Wandern und Entspannen bietet.", "category": "natural", "coords": [25.473283, 58.336241]}, {"name": "Kamaveski järv", "text": "Der Kamaveski järv ist ein kleiner und friedlicher See in Viljandi, der von einer Naturlandschaft umgeben ist.", "category": "natural", "coords": [25.552839, 58.299975]}, {"name": "Kõlu järv", "text": "Der Kõlu järv ist ein ruhiger See in der Region Viljandi, der sich perfekt für ein stilles Naturerlebnis eignet.", "category": "natural", "coords": [25.6249, 58.300736]}, {"name": "Alustre-Päärna veehoidla", "text": "Alustre-Päärna veehoidla ist ein Stausee in Viljandi, der eine friedliche Wasserkulisse bietet.", "category": "natural", "coords": [25.47181, 58.369655]}, {"name": "Varesemäe tehisjärv", "text": "Der Varesemäe tehisjärv ist ein lokaler künstlicher See in Viljandi, ideal für einen entspannten Bummel.", "category": "natural", "coords": [25.684689, 58.41496]}, {"name": "Kuuni järv", "text": "Der Kuuni järv ist ein malerischer See in der Gegend von Viljandi, der eine ruhige Flucht in die Natur bietet.", "category": "natural", "coords": [25.542287, 58.413343]}, {"name": "Karula järve ujumiskoht", "text": "Diese Badezone am Karula-See bietet einen natürlichen Rahmen zum Schwimmen und Entspannen.", "category": "family", "coords": [25.601123, 58.398963]}], "hu": [{"name": "Paala rand", "text": "Paala strand Viljandiban.", "category": "recreational", "coords": [25.589093, 58.371967]}, {"name": "Viljandi ordulinnus", "text": "A Viljandi Castle egy egykori livóniai lovagrendi erődítmény lenyűgöző romjait vonultatja fel Viljandiban.", "category": "castle", "coords": [25.595193, 58.359003]}, {"name": "Ugala", "text": "Az Ugala egy neves színház Viljandiban, és Észtország egyik legrégebbi profi drámaszínházaként ismert.", "category": "cultural", "coords": [25.587966, 58.361982]}, {"name": "Viljandi maastikukaitseala", "text": "Egy természetvédelmi terület Viljandi városában.", "category": "natural", "coords": [25.602401, 58.346373]}, {"name": "Kondase Keskus", "text": "Egy naiv művészeti múzeum Viljandi városában.", "category": "museum", "coords": [25.597445, 58.361885]}, {"name": "Viljandi Muuseum", "text": "Egy helytörténeti múzeum Viljandi városában.", "category": "museum", "coords": [25.599663, 58.363165]}, {"name": "Viljandi Kesklinna Kooli muuseum", "text": "Egy iskolamúzeum Viljandi városában.", "category": "museum", "coords": [25.608903, 58.36637]}, {"name": "Kohvikteater", "text": "Egy színház Viljandi városában.", "category": "cultural", "coords": [25.576941, 58.346101]}, {"name": "Viljandi Nukuteater", "text": "Egy bábszínház Viljandi városában.", "category": "cultural", "coords": [25.600705, 58.365224]}, {"name": "Seasaare Rahvateatri Selts", "text": "Egy népszínház Viljandi városában.", "category": "cultural", "coords": [25.598645, 58.363628]}, {"name": "Viljandi rand", "text": "Közvetlenül Viljandi csendes tavának partján várja vendégeit a Viljandi Strand, amely kellemes, tóparti atmoszférával rendelkezik. Ez a festői észtországi homokos part különösen alkalmas pihentető családi napokhoz és zöld környezetben tett fürdőzésekhez. Aki a nyári hőségben a tengerparttól távol keres hűsölési lehetőséget, az itt egy idilli és könnyen megközelíthető menedékre lel.", "category": "recreational", "coords": [25.607826, 58.360187]}, {"name": "Viljandi järve Huntaugu supelrand", "text": "Egy másik strand a Viljandi-tó partján.", "category": "recreational", "coords": [25.592801, 58.353442]}, {"name": "Johan Laidoneri sünnikoht", "text": "Johan Laidoner szülőhelye és emlékműve Viljandi városában.", "category": "landmark", "coords": [25.621568, 58.345946]}, {"name": "Eesti Pärimusmuusika Keskus", "text": "Egy hagyományos zenei központ Viljandi városában.", "category": "cultural", "coords": [25.5961, 58.361076]}, {"name": "Sakala Keskus", "text": "Egy helyi látványosság Viljandi városában.", "category": "landmark", "coords": [25.596419, 58.3655]}, {"name": "Viljandi rippsild", "text": "Egy nevezetes függőhíd Viljandi városában.", "category": "landmark", "coords": [25.593875, 58.358983]}, {"name": "Viljandi mõisa peahoone", "text": "Egy történelmi udvarház főépülete Viljandi városában.", "category": "historical", "coords": [25.593732, 58.362243]}, {"name": "Saksa sõdurite kalmistu", "text": "Egy park, amely egy német katonai temetőt foglal magába Viljandi városában.", "category": "park", "coords": [25.585819, 58.359678]}, {"name": "Viljandi vana veetorn", "text": "Egy régi víztorony és látványosság Viljandi városában.", "category": "landmark", "coords": [25.600792, 58.362768]}, {"name": "Närska mägi", "text": "Egy kilátóhely Viljandi városában.", "category": "natural", "coords": [25.602478, 58.35292]}, {"name": "Trepimägi", "text": "Egy helyi látványosság Viljandi városában.", "category": "landmark", "coords": [25.603207, 58.362248]}, {"name": "Viljandi adventkirik", "text": "Egy adventista templom Viljandi városában.", "category": "religious", "coords": [25.593019, 58.369245]}, {"name": "Viljandi Ristija Johannese kirik", "text": "A Moszkvai Patriarchátus észt ortodox temploma Viljandi városában.", "category": "religious", "coords": [25.604851, 58.36475]}, {"name": "Kösti vesiveski", "text": "Egy történelmi vízimalom Viljandi városában.", "category": "landmark", "coords": [25.624339, 58.366747]}, {"name": "Pärsti järv", "text": "A Viljandi közelében található Pärsti järv egy festői tó, amely nyugodt és természetes környezetéről ismert.", "category": "natural", "coords": [25.537, 58.420505]}, {"name": "Karula järv", "text": "A Karula järv egy békés tó Viljandi környékén, amely gyönyörű helyet kínál a természet kedvelőinek.", "category": "natural", "coords": [25.600576, 58.396946]}, {"name": "Sinialliku järv", "text": "A Sinialliku järv egy festői tó Viljandiban, amely nyugodt környezetet biztosít egy pihentető látogatáshoz.", "category": "natural", "coords": [25.555808, 58.306634]}, {"name": "Rahetsema järv", "text": "A Rahetsema järv egy csendes tó Viljandi közelében, amely ideális a helyi táj élvezetére.", "category": "natural", "coords": [25.548715, 58.29706]}, {"name": "Raudna tehisjärv", "text": "A Raudna tehisjärv egy mesterséges tó Viljandiban, amely kellemes területet kínál sétához és kikapcsolódáshoz.", "category": "natural", "coords": [25.473283, 58.336241]}, {"name": "Kamaveski järv", "text": "A Kamaveski järv egy kicsi és békés tó Viljandiban, természetes tájjal körülvéve.", "category": "natural", "coords": [25.552839, 58.299975]}, {"name": "Kõlu järv", "text": "A Kõlu järv egy nyugodt tó Viljandi régiójában, amely tökéletes egy csendes szabadtéri élményhez.", "category": "natural", "coords": [25.6249, 58.300736]}, {"name": "Alustre-Päärna veehoidla", "text": "Az Alustre-Päärna veehoidla egy víztározó Viljandiban, amely nyugodt vízi környezetet biztosít.", "category": "natural", "coords": [25.47181, 58.369655]}, {"name": "Varesemäe tehisjärv", "text": "A Varesemäe tehisjärv egy helyi mesterséges tó Viljandiban, amely ideális egy pihentető sétához.", "category": "natural", "coords": [25.684689, 58.41496]}, {"name": "Kuuni järv", "text": "A Kuuni järv egy festői tó Viljandi környékén, amely csendes menekülést kínál a természetbe.", "category": "natural", "coords": [25.542287, 58.413343]}, {"name": "Karula järve ujumiskoht", "text": "Ez a Karula-tónál található fürdőhely természetes környezetet biztosít az úszáshoz és a pihenéshez.", "category": "family", "coords": [25.601123, 58.398963]}], "ro": [{"name": "Paala rand", "text": "Plaja Paala în Viljandi.", "category": "recreational", "coords": [25.589093, 58.371967]}, {"name": "Viljandi ordulinnus", "text": "Viljandi Castle prezintă ruinele impresionante ale unei foste fortărețe a Ordinului Livonian situate în Viljandi.", "category": "castle", "coords": [25.595193, 58.359003]}, {"name": "Ugala", "text": "Ugala este un teatru notabil din Viljandi, cunoscut drept unul dintre cele mai vechi teatre dramatice profesioniste din Estonia.", "category": "cultural", "coords": [25.587966, 58.361982]}, {"name": "Viljandi maastikukaitseala", "text": "O rezervație naturală în orașul Viljandi.", "category": "natural", "coords": [25.602401, 58.346373]}, {"name": "Kondase Keskus", "text": "Un muzeu de artă naivă în Viljandi.", "category": "museum", "coords": [25.597445, 58.361885]}, {"name": "Viljandi Muuseum", "text": "Un muzeu situat în orașul Viljandi.", "category": "museum", "coords": [25.599663, 58.363165]}, {"name": "Viljandi Kesklinna Kooli muuseum", "text": "Un muzeu școlar în orașul Viljandi.", "category": "museum", "coords": [25.608903, 58.36637]}, {"name": "Kohvikteater", "text": "Un teatru situat în orașul Viljandi.", "category": "cultural", "coords": [25.576941, 58.346101]}, {"name": "Viljandi Nukuteater", "text": "Un teatru de păpuși în orașul Viljandi.", "category": "cultural", "coords": [25.600705, 58.365224]}, {"name": "Seasaare Rahvateatri Selts", "text": "Un teatru popular în orașul Viljandi.", "category": "cultural", "coords": [25.598645, 58.363628]}, {"name": "Viljandi rand", "text": "Direct pe malul lacului liniștit din Viljandi, Viljandi Strand își întâmpină oaspeții cu o atmosferă plăcută de apă dulce. Această plajă pitorească de nisip din Estonia este deosebit de potrivită pentru zile relaxante în familie și excursii de înot reconfortante în mijlocul naturii. Cei care caută o răcorire în timpul verii, departe de coastă, vor găsi aici un refugiu idilic și ușor accesibil.", "category": "recreational", "coords": [25.607826, 58.360187]}, {"name": "Viljandi järve Huntaugu supelrand", "text": "O plajă situată pe malul lacului Viljandi.", "category": "recreational", "coords": [25.592801, 58.353442]}, {"name": "Johan Laidoneri sünnikoht", "text": "Locul de naștere și monumentul lui Johan Laidoner în Viljandi.", "category": "landmark", "coords": [25.621568, 58.345946]}, {"name": "Eesti Pärimusmuusika Keskus", "text": "Un centru de muzică tradițională în Viljandi.", "category": "cultural", "coords": [25.5961, 58.361076]}, {"name": "Sakala Keskus", "text": "O atracție locală în orașul Viljandi.", "category": "landmark", "coords": [25.596419, 58.3655]}, {"name": "Viljandi rippsild", "text": "Un pod suspendat notabil din orașul Viljandi.", "category": "landmark", "coords": [25.593875, 58.358983]}, {"name": "Viljandi mõisa peahoone", "text": "Clădirea principală a unui conac istoric din Viljandi.", "category": "historical", "coords": [25.593732, 58.362243]}, {"name": "Saksa sõdurite kalmistu", "text": "Un parc care găzduiește un cimitir militar german în Viljandi.", "category": "park", "coords": [25.585819, 58.359678]}, {"name": "Viljandi vana veetorn", "text": "Un vechi turn de apă și o atracție în orașul Viljandi.", "category": "landmark", "coords": [25.600792, 58.362768]}, {"name": "Närska mägi", "text": "Un punct de belvedere în orașul Viljandi.", "category": "natural", "coords": [25.602478, 58.35292]}, {"name": "Trepimägi", "text": "O atracție locală din orașul Viljandi.", "category": "landmark", "coords": [25.603207, 58.362248]}, {"name": "Viljandi adventkirik", "text": "O biserică adventistă notabilă în orașul Viljandi.", "category": "religious", "coords": [25.593019, 58.369245]}, {"name": "Viljandi Ristija Johannese kirik", "text": "O biserică ortodoxă estonă a Patriarhiei Moscovei din Viljandi.", "category": "religious", "coords": [25.604851, 58.36475]}, {"name": "Kösti vesiveski", "text": "O moară de apă de patrimoniu în Viljandi.", "category": "landmark", "coords": [25.624339, 58.366747]}, {"name": "Pärsti järv", "text": "Pärsti järv este un lac pitoresc de lângă Viljandi, cunoscut pentru împrejurimile sale liniștite și naturale.", "category": "natural", "coords": [25.537, 58.420505]}, {"name": "Karula järv", "text": "Karula järv este un lac liniștit din zona Viljandi, oferind un loc frumos pentru iubitorii de natură.", "category": "natural", "coords": [25.600576, 58.396946]}, {"name": "Sinialliku järv", "text": "Sinialliku järv este un lac pitoresc din Viljandi, oferind un mediu calm pentru o vizită relaxantă.", "category": "natural", "coords": [25.555808, 58.306634]}, {"name": "Rahetsema järv", "text": "Rahetsema järv este un lac liniștit de lângă Viljandi, ideal pentru a vă bucura de peisajul local.", "category": "natural", "coords": [25.548715, 58.29706]}, {"name": "Raudna tehisjärv", "text": "Raudna tehisjärv este un lac artificial din Viljandi, care oferă o zonă plăcută pentru plimbare și relaxare.", "category": "natural", "coords": [25.473283, 58.336241]}, {"name": "Kamaveski järv", "text": "Kamaveski järv este un lac mic și liniștit din Viljandi, înconjurat de un peisaj natural.", "category": "natural", "coords": [25.552839, 58.299975]}, {"name": "Kõlu järv", "text": "Kõlu järv este un lac liniștit situat în regiunea Viljandi, perfect pentru o experiență liniștită în aer liber.", "category": "natural", "coords": [25.6249, 58.300736]}, {"name": "Alustre-Päärna veehoidla", "text": "Alustre-Päärna veehoidla este un rezervor din Viljandi, oferind un cadru acvatic liniștit.", "category": "natural", "coords": [25.47181, 58.369655]}, {"name": "Varesemäe tehisjärv", "text": "Varesemäe tehisjärv este un lac artificial local din Viljandi, ideal pentru o plimbare relaxantă.", "category": "natural", "coords": [25.684689, 58.41496]}, {"name": "Kuuni järv", "text": "Kuuni järv este un lac pitoresc din zona Viljandi, oferind o evadare liniștită în natură.", "category": "natural", "coords": [25.542287, 58.413343]}, {"name": "Karula järve ujumiskoht", "text": "Această zonă de înot de pe lacul Karula oferă un cadru natural pentru înot și relaxare.", "category": "family", "coords": [25.601123, 58.398963]}], "en": [{"name": "Paala rand", "text": "Paala beach in Viljandi.", "category": "recreational", "coords": [25.589093, 58.371967]}, {"name": "Viljandi Castle", "text": "Viljandi Castle features the impressive ruins of a former Livonian Order stronghold situated in Viljandi.", "category": "castle", "coords": [25.595193, 58.359003]}, {"name": "Ugala", "text": "Ugala is a notable theatre in Viljandi and is known as one of Estonia's oldest professional drama theatres.", "category": "cultural", "coords": [25.587966, 58.361982]}, {"name": "Viljandi maastikukaitseala", "text": "A nature reserve located in the city of Viljandi.", "category": "natural", "coords": [25.602401, 58.346373]}, {"name": "Kondas centre of naive art", "text": "A museum dedicated to naive art in Viljandi.", "category": "museum", "coords": [25.597445, 58.361885]}, {"name": "Viljandi Museum", "text": "A local museum situated in the city of Viljandi.", "category": "museum", "coords": [25.599663, 58.363165]}, {"name": "Viljandi Kesklinna Kooli muuseum", "text": "A school museum located in Viljandi.", "category": "museum", "coords": [25.608903, 58.36637]}, {"name": "Kohvikteater", "text": "A theatre located in the city of Viljandi.", "category": "cultural", "coords": [25.576941, 58.346101]}, {"name": "Viljandi Nukuteater", "text": "A puppet theatre located in Viljandi.", "category": "cultural", "coords": [25.600705, 58.365224]}, {"name": "Seasaare Rahvateatri Selts", "text": "A folk theatre located in Viljandi.", "category": "cultural", "coords": [25.598645, 58.363628]}, {"name": "Lake Viljandi Beach", "text": "Located directly on the quiet lake waters of Viljandi, Viljandi Strand welcomes its guests with a cozy inland water atmosphere. This picturesque sandy beach in Estonia is particularly well-suited for relaxed family days and refreshing swimming excursions surrounded by greenery. Anyone seeking a cooldown away from the sea during summer will find an idyllic and easily accessible retreat right here.", "category": "recreational", "coords": [25.607826, 58.360187]}, {"name": "Viljandi Lake's Huntaugu beach", "text": "Another beach on the shores of Lake Viljandi.", "category": "recreational", "coords": [25.592801, 58.353442]}, {"name": "Johan Laidoneri sünnikoht", "text": "The birthplace and monument of Johan Laidoner in Viljandi.", "category": "landmark", "coords": [25.621568, 58.345946]}, {"name": "Estonian Traditional Music Center", "text": "A traditional music center located in Viljandi.", "category": "cultural", "coords": [25.5961, 58.361076]}, {"name": "Sakala Keskus", "text": "A local attraction in the city of Viljandi.", "category": "landmark", "coords": [25.596419, 58.3655]}, {"name": "Viljandi rippsild", "text": "A notable suspension bridge located in the city of Viljandi.", "category": "landmark", "coords": [25.593875, 58.358983]}, {"name": "Viljandi mõisa peahoone", "text": "The main building of a historic manor in Viljandi.", "category": "historical", "coords": [25.593732, 58.362243]}, {"name": "German soldiers cemetery", "text": "A park encompassing a recognized German military cemetery in Viljandi.", "category": "park", "coords": [25.585819, 58.359678]}, {"name": "Viljandi Old Water Tower", "text": "An old water tower and attraction in the city of Viljandi.", "category": "landmark", "coords": [25.600792, 58.362768]}, {"name": "Närska mägi", "text": "A scenic viewpoint located in the city of Viljandi.", "category": "natural", "coords": [25.602478, 58.35292]}, {"name": "Trepimägi", "text": "A local attraction in the city of Viljandi.", "category": "landmark", "coords": [25.603207, 58.362248]}, {"name": "Viljandi adventkirik", "text": "An Adventist church located in the city of Viljandi.", "category": "religious", "coords": [25.593019, 58.369245]}, {"name": "Estonian Orthodox Church Viljandi of Moscow Patriarchate", "text": "An Estonian Orthodox church of the Moscow Patriarchate in Viljandi.", "category": "religious", "coords": [25.604851, 58.36475]}, {"name": "Kösti vesiveski", "text": "A heritage watermill located in the city of Viljandi.", "category": "landmark", "coords": [25.624339, 58.366747]}, {"name": "Pärsti järv", "text": "Pärsti järv is a scenic lake near Viljandi, known for its tranquil and natural surroundings.", "category": "natural", "coords": [25.537, 58.420505]}, {"name": "Karula järv", "text": "Karula järv is a peaceful lake in the Viljandi area, offering a beautiful spot for nature lovers.", "category": "natural", "coords": [25.600576, 58.396946]}, {"name": "Sinialliku järv", "text": "Sinialliku järv is a scenic lake in Viljandi, providing a calm environment for a relaxing visit.", "category": "natural", "coords": [25.555808, 58.306634]}, {"name": "Rahetsema järv", "text": "Rahetsema järv is a quiet lake near Viljandi, ideal for enjoying the local scenery.", "category": "natural", "coords": [25.548715, 58.29706]}, {"name": "Raudna tehisjärv", "text": "Raudna tehisjärv is an artificial lake in Viljandi, offering a pleasant area for walking and relaxation.", "category": "natural", "coords": [25.473283, 58.336241]}, {"name": "Kamaveski järv", "text": "Kamaveski järv is a small and peaceful lake in Viljandi, surrounded by a natural landscape.", "category": "natural", "coords": [25.552839, 58.299975]}, {"name": "Kõlu järv", "text": "Kõlu järv is a calm lake located in the Viljandi region, perfect for a quiet outdoor experience.", "category": "natural", "coords": [25.6249, 58.300736]}, {"name": "Alustre-Päärna veehoidla", "text": "Alustre-Päärna veehoidla is a reservoir in Viljandi, providing a peaceful water setting.", "category": "natural", "coords": [25.47181, 58.369655]}, {"name": "Varesemäe tehisjärv", "text": "Varesemäe tehisjärv is a local artificial lake in Viljandi, ideal for a relaxing stroll.", "category": "natural", "coords": [25.684689, 58.41496]}, {"name": "Kuuni järv", "text": "Kuuni järv is a scenic lake in the Viljandi area, offering a quiet escape into nature.", "category": "natural", "coords": [25.542287, 58.413343]}, {"name": "Karula järve ujumiskoht", "text": "This swimming area at Lake Karula provides a natural setting for swimming and relaxation.", "category": "family", "coords": [25.601123, 58.398963]}]},
+    id: "city-viljandi", "sights": {
+      "de": [
+            {
+                  "name": "Paala rand",
+                  "text": "Paala-Strand in Viljandi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.589093,
+                        58.371967
+                  ]
+            },
+            {
+                  "name": "Ordensburg Viljandi",
+                  "text": "Das Viljandi Castle zeigt die beeindruckenden Ruinen einer ehemaligen Festung des Livländischen Ordens in Viljandi.",
+                  "category": "castle",
+                  "coords": [
+                        25.595193,
+                        58.359003
+                  ]
+            },
+            {
+                  "name": "Ugala",
+                  "text": "Ugala ist ein bemerkenswertes Theater in Viljandi und als eines der ältesten professionellen Schauspielhäuser Estlands bekannt.",
+                  "category": "cultural",
+                  "coords": [
+                        25.587966,
+                        58.361982
+                  ]
+            },
+            {
+                  "name": "Viljandi maastikukaitseala",
+                  "text": "Ein Naturschutzgebiet in der Stadt Viljandi.",
+                  "category": "natural",
+                  "coords": [
+                        25.602401,
+                        58.346373
+                  ]
+            },
+            {
+                  "name": "Kondase Keskus",
+                  "text": "Ein Museum für naive Kunst in Viljandi.",
+                  "category": "museum",
+                  "coords": [
+                        25.597445,
+                        58.361885
+                  ]
+            },
+            {
+                  "name": "Viljandi Muuseum",
+                  "text": "Ein Museum über die lokale Geschichte in Viljandi.",
+                  "category": "museum",
+                  "coords": [
+                        25.599663,
+                        58.363165
+                  ]
+            },
+            {
+                  "name": "Viljandi Kesklinna Kooli muuseum",
+                  "text": "Ein Schulmuseum in Viljandi.",
+                  "category": "museum",
+                  "coords": [
+                        25.608903,
+                        58.36637
+                  ]
+            },
+            {
+                  "name": "Kohvikteater",
+                  "text": "Ein Theater in der Stadt Viljandi.",
+                  "category": "cultural",
+                  "coords": [
+                        25.576941,
+                        58.346101
+                  ]
+            },
+            {
+                  "name": "Viljandi Nukuteater",
+                  "text": "Ein Puppentheater in Viljandi.",
+                  "category": "cultural",
+                  "coords": [
+                        25.600705,
+                        58.365224
+                  ]
+            },
+            {
+                  "name": "Seasaare Rahvateatri Selts",
+                  "text": "Ein Volkstheater in Viljandi.",
+                  "category": "cultural",
+                  "coords": [
+                        25.598645,
+                        58.363628
+                  ]
+            },
+            {
+                  "name": "Viljandi Strand",
+                  "text": "Direkt am ruhigen Binnengewässer von Viljandi empfängt der Viljandi Strand seine Gäste mit einer gemütlichen Seeatmosphäre. Dieser malerische Sandstrand in Estland eignet sich besonders gut für entspannte Familientage und erholsame Badeausflüge im Grünen. Wer im Sommer eine Abkühlung fernab der Küste sucht, findet hier einen idyllischen und leicht erreichbaren Erholungsort.",
+                  "category": "recreational",
+                  "coords": [
+                        25.607826,
+                        58.360187
+                  ]
+            },
+            {
+                  "name": "Johan Laidoneri sünnikoht",
+                  "text": "Ein Denkmal und der Geburtsort von Johan Laidoner in Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.621568,
+                        58.345946
+                  ]
+            },
+            {
+                  "name": "Estnisch Traditionelles Musikzentrum",
+                  "text": "Ein Zentrum für traditionelle Musik in Viljandi.",
+                  "category": "cultural",
+                  "coords": [
+                        25.5961,
+                        58.361076
+                  ]
+            },
+            {
+                  "name": "Sakala Zentrum",
+                  "text": "Eine lokale Attraktion in der Stadt Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.596419,
+                        58.3655
+                  ]
+            },
+            {
+                  "name": "Viljandi rippsild",
+                  "text": "Eine Hängebrücke in der Stadt Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.593875,
+                        58.358983
+                  ]
+            },
+            {
+                  "name": "Viljandi mõisa peahoone",
+                  "text": "Das Hauptgebäude eines historischen Herrenhauses in Viljandi.",
+                  "category": "historical",
+                  "coords": [
+                        25.593732,
+                        58.362243
+                  ]
+            },
+            {
+                  "name": "Deutscher Soldaten Friedhof",
+                  "text": "Ein Park, in dem sich ein bekannter deutscher Soldatenfriedhof in Viljandi befindet.",
+                  "category": "park",
+                  "coords": [
+                        25.585819,
+                        58.359678
+                  ]
+            },
+            {
+                  "name": "Alter Wasserturm von Viljandi",
+                  "text": "Ein alter Wasserturm und eine Attraktion in Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.600792,
+                        58.362768
+                  ]
+            },
+            {
+                  "name": "Närska mägi",
+                  "text": "Ein Aussichtspunkt in der Stadt Viljandi.",
+                  "category": "natural",
+                  "coords": [
+                        25.602478,
+                        58.35292
+                  ]
+            },
+            {
+                  "name": "Trepimägi",
+                  "text": "Eine lokale Attraktion in der Stadt Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.603207,
+                        58.362248
+                  ]
+            },
+            {
+                  "name": "Viljandi adventkirik",
+                  "text": "Eine Adventistenkirche in der Stadt Viljandi.",
+                  "category": "religious",
+                  "coords": [
+                        25.593019,
+                        58.369245
+                  ]
+            },
+            {
+                  "name": "Viljandi Ristija Johannese kirik",
+                  "text": "Eine estnisch-orthodoxe Kirche des Moskauer Patriarchats in Viljandi.",
+                  "category": "religious",
+                  "coords": [
+                        25.604851,
+                        58.36475
+                  ]
+            },
+            {
+                  "name": "Kösti vesiveski",
+                  "text": "Eine historische Wassermühle in Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.624339,
+                        58.366747
+                  ]
+            },
+            {
+                  "name": "Pärsti järv",
+                  "text": "Der Pärsti järv ist ein malerischer See bei Viljandi, der für seine ruhige und natürliche Umgebung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        25.537,
+                        58.420505
+                  ]
+            },
+            {
+                  "name": "Karula järv",
+                  "text": "Der Karula järv ist ein friedlicher See in der Gegend von Viljandi und ein schöner Ort für Naturliebhaber.",
+                  "category": "natural",
+                  "coords": [
+                        25.600576,
+                        58.396946
+                  ]
+            },
+            {
+                  "name": "Sinialliku järv",
+                  "text": "Der Sinialliku järv ist ein malerischer See in Viljandi, der eine ruhige Umgebung für einen entspannten Besuch bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.555808,
+                        58.306634
+                  ]
+            },
+            {
+                  "name": "Rahetsema järv",
+                  "text": "Der Rahetsema järv ist ein ruhiger See bei Viljandi, ideal um die lokale Landschaft zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        25.548715,
+                        58.29706
+                  ]
+            },
+            {
+                  "name": "Raudna tehisjärv",
+                  "text": "Der Raaudna tehisjärv ist ein künstlicher See in Viljandi, der ein angenehmes Areal zum Wandern und Entspannen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.473283,
+                        58.336241
+                  ]
+            },
+            {
+                  "name": "Kamaveski järv",
+                  "text": "Der Kamaveski järv ist ein kleiner und friedlicher See in Viljandi, der von einer Naturlandschaft umgeben ist.",
+                  "category": "natural",
+                  "coords": [
+                        25.552839,
+                        58.299975
+                  ]
+            },
+            {
+                  "name": "Kõlu järv",
+                  "text": "Der Kõlu järv ist ein ruhiger See in der Region Viljandi, der sich perfekt für ein stilles Naturerlebnis eignet.",
+                  "category": "natural",
+                  "coords": [
+                        25.6249,
+                        58.300736
+                  ]
+            },
+            {
+                  "name": "Alustre-Päärna veehoidla",
+                  "text": "Alustre-Päärna veehoidla ist ein Stausee in Viljandi, der eine friedliche Wasserkulisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.47181,
+                        58.369655
+                  ]
+            },
+            {
+                  "name": "Varesemäe tehisjärv",
+                  "text": "Der Varesemäe tehisjärv ist ein lokaler künstlicher See in Viljandi, ideal für einen entspannten Bummel.",
+                  "category": "natural",
+                  "coords": [
+                        25.684689,
+                        58.41496
+                  ]
+            },
+            {
+                  "name": "Kuuni järv",
+                  "text": "Der Kuuni järv ist ein malerischer See in der Gegend von Viljandi, der eine ruhige Flucht in die Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.542287,
+                        58.413343
+                  ]
+            },
+            {
+                  "name": "Karula järve ujumiskoht",
+                  "text": "Diese Badezone am Karula-See bietet einen natürlichen Rahmen zum Schwimmen und Entspannen.",
+                  "category": "family",
+                  "coords": [
+                        25.601123,
+                        58.398963
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paala rand",
+                  "text": "Paala strand Viljandiban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.589093,
+                        58.371967
+                  ]
+            },
+            {
+                  "name": "Viljandi ordulinnus",
+                  "text": "A Viljandi Castle egy egykori livóniai lovagrendi erődítmény lenyűgöző romjait vonultatja fel Viljandiban.",
+                  "category": "castle",
+                  "coords": [
+                        25.595193,
+                        58.359003
+                  ]
+            },
+            {
+                  "name": "Ugala",
+                  "text": "Az Ugala egy neves színház Viljandiban, és Észtország egyik legrégebbi profi drámaszínházaként ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        25.587966,
+                        58.361982
+                  ]
+            },
+            {
+                  "name": "Viljandi maastikukaitseala",
+                  "text": "Egy természetvédelmi terület Viljandi városában.",
+                  "category": "natural",
+                  "coords": [
+                        25.602401,
+                        58.346373
+                  ]
+            },
+            {
+                  "name": "Kondase Keskus",
+                  "text": "Egy naiv művészeti múzeum Viljandi városában.",
+                  "category": "museum",
+                  "coords": [
+                        25.597445,
+                        58.361885
+                  ]
+            },
+            {
+                  "name": "Viljandi Muuseum",
+                  "text": "Egy helytörténeti múzeum Viljandi városában.",
+                  "category": "museum",
+                  "coords": [
+                        25.599663,
+                        58.363165
+                  ]
+            },
+            {
+                  "name": "Viljandi Kesklinna Kooli muuseum",
+                  "text": "Egy iskolamúzeum Viljandi városában.",
+                  "category": "museum",
+                  "coords": [
+                        25.608903,
+                        58.36637
+                  ]
+            },
+            {
+                  "name": "Kohvikteater",
+                  "text": "Egy színház Viljandi városában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.576941,
+                        58.346101
+                  ]
+            },
+            {
+                  "name": "Viljandi Nukuteater",
+                  "text": "Egy bábszínház Viljandi városában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.600705,
+                        58.365224
+                  ]
+            },
+            {
+                  "name": "Seasaare Rahvateatri Selts",
+                  "text": "Egy népszínház Viljandi városában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.598645,
+                        58.363628
+                  ]
+            },
+            {
+                  "name": "Johan Laidoneri sünnikoht",
+                  "text": "Johan Laidoner szülőhelye és emlékműve Viljandi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.621568,
+                        58.345946
+                  ]
+            },
+            {
+                  "name": "Eesti Pärimusmuusika Keskus",
+                  "text": "Egy hagyományos zenei központ Viljandi városában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.5961,
+                        58.361076
+                  ]
+            },
+            {
+                  "name": "Sakala Keskus",
+                  "text": "Egy helyi látványosság Viljandi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.596419,
+                        58.3655
+                  ]
+            },
+            {
+                  "name": "Viljandi rippsild",
+                  "text": "Egy nevezetes függőhíd Viljandi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.593875,
+                        58.358983
+                  ]
+            },
+            {
+                  "name": "Viljandi mõisa peahoone",
+                  "text": "Egy történelmi udvarház főépülete Viljandi városában.",
+                  "category": "historical",
+                  "coords": [
+                        25.593732,
+                        58.362243
+                  ]
+            },
+            {
+                  "name": "Saksa sõdurite kalmistu",
+                  "text": "Egy park, amely egy német katonai temetőt foglal magába Viljandi városában.",
+                  "category": "park",
+                  "coords": [
+                        25.585819,
+                        58.359678
+                  ]
+            },
+            {
+                  "name": "Viljandi vana veetorn",
+                  "text": "Egy régi víztorony és látványosság Viljandi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.600792,
+                        58.362768
+                  ]
+            },
+            {
+                  "name": "Närska mägi",
+                  "text": "Egy kilátóhely Viljandi városában.",
+                  "category": "natural",
+                  "coords": [
+                        25.602478,
+                        58.35292
+                  ]
+            },
+            {
+                  "name": "Trepimägi",
+                  "text": "Egy helyi látványosság Viljandi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.603207,
+                        58.362248
+                  ]
+            },
+            {
+                  "name": "Viljandi adventkirik",
+                  "text": "Egy adventista templom Viljandi városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.593019,
+                        58.369245
+                  ]
+            },
+            {
+                  "name": "Viljandi Ristija Johannese kirik",
+                  "text": "A Moszkvai Patriarchátus észt ortodox temploma Viljandi városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.604851,
+                        58.36475
+                  ]
+            },
+            {
+                  "name": "Kösti vesiveski",
+                  "text": "Egy történelmi vízimalom Viljandi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.624339,
+                        58.366747
+                  ]
+            },
+            {
+                  "name": "Pärsti järv",
+                  "text": "A Viljandi közelében található Pärsti järv egy festői tó, amely nyugodt és természetes környezetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.537,
+                        58.420505
+                  ]
+            },
+            {
+                  "name": "Karula järv",
+                  "text": "A Karula järv egy békés tó Viljandi környékén, amely gyönyörű helyet kínál a természet kedvelőinek.",
+                  "category": "natural",
+                  "coords": [
+                        25.600576,
+                        58.396946
+                  ]
+            },
+            {
+                  "name": "Sinialliku järv",
+                  "text": "A Sinialliku järv egy festői tó Viljandiban, amely nyugodt környezetet biztosít egy pihentető látogatáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.555808,
+                        58.306634
+                  ]
+            },
+            {
+                  "name": "Rahetsema järv",
+                  "text": "A Rahetsema järv egy csendes tó Viljandi közelében, amely ideális a helyi táj élvezetére.",
+                  "category": "natural",
+                  "coords": [
+                        25.548715,
+                        58.29706
+                  ]
+            },
+            {
+                  "name": "Raudna tehisjärv",
+                  "text": "A Raudna tehisjärv egy mesterséges tó Viljandiban, amely kellemes területet kínál sétához és kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        25.473283,
+                        58.336241
+                  ]
+            },
+            {
+                  "name": "Kamaveski järv",
+                  "text": "A Kamaveski järv egy kicsi és békés tó Viljandiban, természetes tájjal körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        25.552839,
+                        58.299975
+                  ]
+            },
+            {
+                  "name": "Kõlu järv",
+                  "text": "A Kõlu järv egy nyugodt tó Viljandi régiójában, amely tökéletes egy csendes szabadtéri élményhez.",
+                  "category": "natural",
+                  "coords": [
+                        25.6249,
+                        58.300736
+                  ]
+            },
+            {
+                  "name": "Alustre-Päärna veehoidla",
+                  "text": "Az Alustre-Päärna veehoidla egy víztározó Viljandiban, amely nyugodt vízi környezetet biztosít.",
+                  "category": "natural",
+                  "coords": [
+                        25.47181,
+                        58.369655
+                  ]
+            },
+            {
+                  "name": "Varesemäe tehisjärv",
+                  "text": "A Varesemäe tehisjärv egy helyi mesterséges tó Viljandiban, amely ideális egy pihentető sétához.",
+                  "category": "natural",
+                  "coords": [
+                        25.684689,
+                        58.41496
+                  ]
+            },
+            {
+                  "name": "Kuuni järv",
+                  "text": "A Kuuni järv egy festői tó Viljandi környékén, amely csendes menekülést kínál a természetbe.",
+                  "category": "natural",
+                  "coords": [
+                        25.542287,
+                        58.413343
+                  ]
+            },
+            {
+                  "name": "Karula järve ujumiskoht",
+                  "text": "Ez a Karula-tónál található fürdőhely természetes környezetet biztosít az úszáshoz és a pihenéshez.",
+                  "category": "family",
+                  "coords": [
+                        25.601123,
+                        58.398963
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paala rand",
+                  "text": "Plaja Paala în Viljandi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.589093,
+                        58.371967
+                  ]
+            },
+            {
+                  "name": "Viljandi ordulinnus",
+                  "text": "Viljandi Castle prezintă ruinele impresionante ale unei foste fortărețe a Ordinului Livonian situate în Viljandi.",
+                  "category": "castle",
+                  "coords": [
+                        25.595193,
+                        58.359003
+                  ]
+            },
+            {
+                  "name": "Ugala",
+                  "text": "Ugala este un teatru notabil din Viljandi, cunoscut drept unul dintre cele mai vechi teatre dramatice profesioniste din Estonia.",
+                  "category": "cultural",
+                  "coords": [
+                        25.587966,
+                        58.361982
+                  ]
+            },
+            {
+                  "name": "Viljandi maastikukaitseala",
+                  "text": "O rezervație naturală în orașul Viljandi.",
+                  "category": "natural",
+                  "coords": [
+                        25.602401,
+                        58.346373
+                  ]
+            },
+            {
+                  "name": "Kondase Keskus",
+                  "text": "Un muzeu de artă naivă în Viljandi.",
+                  "category": "museum",
+                  "coords": [
+                        25.597445,
+                        58.361885
+                  ]
+            },
+            {
+                  "name": "Viljandi Muuseum",
+                  "text": "Un muzeu situat în orașul Viljandi.",
+                  "category": "museum",
+                  "coords": [
+                        25.599663,
+                        58.363165
+                  ]
+            },
+            {
+                  "name": "Viljandi Kesklinna Kooli muuseum",
+                  "text": "Un muzeu școlar în orașul Viljandi.",
+                  "category": "museum",
+                  "coords": [
+                        25.608903,
+                        58.36637
+                  ]
+            },
+            {
+                  "name": "Kohvikteater",
+                  "text": "Un teatru situat în orașul Viljandi.",
+                  "category": "cultural",
+                  "coords": [
+                        25.576941,
+                        58.346101
+                  ]
+            },
+            {
+                  "name": "Viljandi Nukuteater",
+                  "text": "Un teatru de păpuși în orașul Viljandi.",
+                  "category": "cultural",
+                  "coords": [
+                        25.600705,
+                        58.365224
+                  ]
+            },
+            {
+                  "name": "Seasaare Rahvateatri Selts",
+                  "text": "Un teatru popular în orașul Viljandi.",
+                  "category": "cultural",
+                  "coords": [
+                        25.598645,
+                        58.363628
+                  ]
+            },
+            {
+                  "name": "Johan Laidoneri sünnikoht",
+                  "text": "Locul de naștere și monumentul lui Johan Laidoner în Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.621568,
+                        58.345946
+                  ]
+            },
+            {
+                  "name": "Eesti Pärimusmuusika Keskus",
+                  "text": "Un centru de muzică tradițională în Viljandi.",
+                  "category": "cultural",
+                  "coords": [
+                        25.5961,
+                        58.361076
+                  ]
+            },
+            {
+                  "name": "Sakala Keskus",
+                  "text": "O atracție locală în orașul Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.596419,
+                        58.3655
+                  ]
+            },
+            {
+                  "name": "Viljandi rippsild",
+                  "text": "Un pod suspendat notabil din orașul Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.593875,
+                        58.358983
+                  ]
+            },
+            {
+                  "name": "Viljandi mõisa peahoone",
+                  "text": "Clădirea principală a unui conac istoric din Viljandi.",
+                  "category": "historical",
+                  "coords": [
+                        25.593732,
+                        58.362243
+                  ]
+            },
+            {
+                  "name": "Saksa sõdurite kalmistu",
+                  "text": "Un parc care găzduiește un cimitir militar german în Viljandi.",
+                  "category": "park",
+                  "coords": [
+                        25.585819,
+                        58.359678
+                  ]
+            },
+            {
+                  "name": "Viljandi vana veetorn",
+                  "text": "Un vechi turn de apă și o atracție în orașul Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.600792,
+                        58.362768
+                  ]
+            },
+            {
+                  "name": "Närska mägi",
+                  "text": "Un punct de belvedere în orașul Viljandi.",
+                  "category": "natural",
+                  "coords": [
+                        25.602478,
+                        58.35292
+                  ]
+            },
+            {
+                  "name": "Trepimägi",
+                  "text": "O atracție locală din orașul Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.603207,
+                        58.362248
+                  ]
+            },
+            {
+                  "name": "Viljandi adventkirik",
+                  "text": "O biserică adventistă notabilă în orașul Viljandi.",
+                  "category": "religious",
+                  "coords": [
+                        25.593019,
+                        58.369245
+                  ]
+            },
+            {
+                  "name": "Viljandi Ristija Johannese kirik",
+                  "text": "O biserică ortodoxă estonă a Patriarhiei Moscovei din Viljandi.",
+                  "category": "religious",
+                  "coords": [
+                        25.604851,
+                        58.36475
+                  ]
+            },
+            {
+                  "name": "Kösti vesiveski",
+                  "text": "O moară de apă de patrimoniu în Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.624339,
+                        58.366747
+                  ]
+            },
+            {
+                  "name": "Pärsti järv",
+                  "text": "Pärsti järv este un lac pitoresc de lângă Viljandi, cunoscut pentru împrejurimile sale liniștite și naturale.",
+                  "category": "natural",
+                  "coords": [
+                        25.537,
+                        58.420505
+                  ]
+            },
+            {
+                  "name": "Karula järv",
+                  "text": "Karula järv este un lac liniștit din zona Viljandi, oferind un loc frumos pentru iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.600576,
+                        58.396946
+                  ]
+            },
+            {
+                  "name": "Sinialliku järv",
+                  "text": "Sinialliku järv este un lac pitoresc din Viljandi, oferind un mediu calm pentru o vizită relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        25.555808,
+                        58.306634
+                  ]
+            },
+            {
+                  "name": "Rahetsema järv",
+                  "text": "Rahetsema järv este un lac liniștit de lângă Viljandi, ideal pentru a vă bucura de peisajul local.",
+                  "category": "natural",
+                  "coords": [
+                        25.548715,
+                        58.29706
+                  ]
+            },
+            {
+                  "name": "Raudna tehisjärv",
+                  "text": "Raudna tehisjärv este un lac artificial din Viljandi, care oferă o zonă plăcută pentru plimbare și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        25.473283,
+                        58.336241
+                  ]
+            },
+            {
+                  "name": "Kamaveski järv",
+                  "text": "Kamaveski järv este un lac mic și liniștit din Viljandi, înconjurat de un peisaj natural.",
+                  "category": "natural",
+                  "coords": [
+                        25.552839,
+                        58.299975
+                  ]
+            },
+            {
+                  "name": "Kõlu järv",
+                  "text": "Kõlu järv este un lac liniștit situat în regiunea Viljandi, perfect pentru o experiență liniștită în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        25.6249,
+                        58.300736
+                  ]
+            },
+            {
+                  "name": "Alustre-Päärna veehoidla",
+                  "text": "Alustre-Päärna veehoidla este un rezervor din Viljandi, oferind un cadru acvatic liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        25.47181,
+                        58.369655
+                  ]
+            },
+            {
+                  "name": "Varesemäe tehisjärv",
+                  "text": "Varesemäe tehisjärv este un lac artificial local din Viljandi, ideal pentru o plimbare relaxantă.",
+                  "category": "natural",
+                  "coords": [
+                        25.684689,
+                        58.41496
+                  ]
+            },
+            {
+                  "name": "Kuuni järv",
+                  "text": "Kuuni järv este un lac pitoresc din zona Viljandi, oferind o evadare liniștită în natură.",
+                  "category": "natural",
+                  "coords": [
+                        25.542287,
+                        58.413343
+                  ]
+            },
+            {
+                  "name": "Karula järve ujumiskoht",
+                  "text": "Această zonă de înot de pe lacul Karula oferă un cadru natural pentru înot și relaxare.",
+                  "category": "family",
+                  "coords": [
+                        25.601123,
+                        58.398963
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paala rand",
+                  "text": "Paala beach in Viljandi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.589093,
+                        58.371967
+                  ]
+            },
+            {
+                  "name": "Viljandi Castle",
+                  "text": "Viljandi Castle features the impressive ruins of a former Livonian Order stronghold situated in Viljandi.",
+                  "category": "castle",
+                  "coords": [
+                        25.595193,
+                        58.359003
+                  ]
+            },
+            {
+                  "name": "Ugala",
+                  "text": "Ugala is a notable theatre in Viljandi and is known as one of Estonia's oldest professional drama theatres.",
+                  "category": "cultural",
+                  "coords": [
+                        25.587966,
+                        58.361982
+                  ]
+            },
+            {
+                  "name": "Viljandi maastikukaitseala",
+                  "text": "A nature reserve located in the city of Viljandi.",
+                  "category": "natural",
+                  "coords": [
+                        25.602401,
+                        58.346373
+                  ]
+            },
+            {
+                  "name": "Kondas centre of naive art",
+                  "text": "A museum dedicated to naive art in Viljandi.",
+                  "category": "museum",
+                  "coords": [
+                        25.597445,
+                        58.361885
+                  ]
+            },
+            {
+                  "name": "Viljandi Museum",
+                  "text": "A local museum situated in the city of Viljandi.",
+                  "category": "museum",
+                  "coords": [
+                        25.599663,
+                        58.363165
+                  ]
+            },
+            {
+                  "name": "Viljandi Kesklinna Kooli muuseum",
+                  "text": "A school museum located in Viljandi.",
+                  "category": "museum",
+                  "coords": [
+                        25.608903,
+                        58.36637
+                  ]
+            },
+            {
+                  "name": "Kohvikteater",
+                  "text": "A theatre located in the city of Viljandi.",
+                  "category": "cultural",
+                  "coords": [
+                        25.576941,
+                        58.346101
+                  ]
+            },
+            {
+                  "name": "Viljandi Nukuteater",
+                  "text": "A puppet theatre located in Viljandi.",
+                  "category": "cultural",
+                  "coords": [
+                        25.600705,
+                        58.365224
+                  ]
+            },
+            {
+                  "name": "Seasaare Rahvateatri Selts",
+                  "text": "A folk theatre located in Viljandi.",
+                  "category": "cultural",
+                  "coords": [
+                        25.598645,
+                        58.363628
+                  ]
+            },
+            {
+                  "name": "Lake Viljandi Beach",
+                  "text": "Located directly on the quiet lake waters of Viljandi, Viljandi Strand welcomes its guests with a cozy inland water atmosphere. This picturesque sandy beach in Estonia is particularly well-suited for relaxed family days and refreshing swimming excursions surrounded by greenery. Anyone seeking a cooldown away from the sea during summer will find an idyllic and easily accessible retreat right here.",
+                  "category": "recreational",
+                  "coords": [
+                        25.607826,
+                        58.360187
+                  ]
+            },
+            {
+                  "name": "Viljandi Lake's Huntaugu beach",
+                  "text": "Another beach on the shores of Lake Viljandi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.592801,
+                        58.353442
+                  ]
+            },
+            {
+                  "name": "Johan Laidoneri sünnikoht",
+                  "text": "The birthplace and monument of Johan Laidoner in Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.621568,
+                        58.345946
+                  ]
+            },
+            {
+                  "name": "Estonian Traditional Music Center",
+                  "text": "A traditional music center located in Viljandi.",
+                  "category": "cultural",
+                  "coords": [
+                        25.5961,
+                        58.361076
+                  ]
+            },
+            {
+                  "name": "Sakala Keskus",
+                  "text": "A local attraction in the city of Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.596419,
+                        58.3655
+                  ]
+            },
+            {
+                  "name": "Viljandi rippsild",
+                  "text": "A notable suspension bridge located in the city of Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.593875,
+                        58.358983
+                  ]
+            },
+            {
+                  "name": "Viljandi mõisa peahoone",
+                  "text": "The main building of a historic manor in Viljandi.",
+                  "category": "historical",
+                  "coords": [
+                        25.593732,
+                        58.362243
+                  ]
+            },
+            {
+                  "name": "German soldiers cemetery",
+                  "text": "A park encompassing a recognized German military cemetery in Viljandi.",
+                  "category": "park",
+                  "coords": [
+                        25.585819,
+                        58.359678
+                  ]
+            },
+            {
+                  "name": "Viljandi Old Water Tower",
+                  "text": "An old water tower and attraction in the city of Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.600792,
+                        58.362768
+                  ]
+            },
+            {
+                  "name": "Närska mägi",
+                  "text": "A scenic viewpoint located in the city of Viljandi.",
+                  "category": "natural",
+                  "coords": [
+                        25.602478,
+                        58.35292
+                  ]
+            },
+            {
+                  "name": "Trepimägi",
+                  "text": "A local attraction in the city of Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.603207,
+                        58.362248
+                  ]
+            },
+            {
+                  "name": "Viljandi adventkirik",
+                  "text": "An Adventist church located in the city of Viljandi.",
+                  "category": "religious",
+                  "coords": [
+                        25.593019,
+                        58.369245
+                  ]
+            },
+            {
+                  "name": "Estonian Orthodox Church Viljandi of Moscow Patriarchate",
+                  "text": "An Estonian Orthodox church of the Moscow Patriarchate in Viljandi.",
+                  "category": "religious",
+                  "coords": [
+                        25.604851,
+                        58.36475
+                  ]
+            },
+            {
+                  "name": "Kösti vesiveski",
+                  "text": "A heritage watermill located in the city of Viljandi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.624339,
+                        58.366747
+                  ]
+            },
+            {
+                  "name": "Pärsti järv",
+                  "text": "Pärsti järv is a scenic lake near Viljandi, known for its tranquil and natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        25.537,
+                        58.420505
+                  ]
+            },
+            {
+                  "name": "Karula järv",
+                  "text": "Karula järv is a peaceful lake in the Viljandi area, offering a beautiful spot for nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        25.600576,
+                        58.396946
+                  ]
+            },
+            {
+                  "name": "Sinialliku järv",
+                  "text": "Sinialliku järv is a scenic lake in Viljandi, providing a calm environment for a relaxing visit.",
+                  "category": "natural",
+                  "coords": [
+                        25.555808,
+                        58.306634
+                  ]
+            },
+            {
+                  "name": "Rahetsema järv",
+                  "text": "Rahetsema järv is a quiet lake near Viljandi, ideal for enjoying the local scenery.",
+                  "category": "natural",
+                  "coords": [
+                        25.548715,
+                        58.29706
+                  ]
+            },
+            {
+                  "name": "Raudna tehisjärv",
+                  "text": "Raudna tehisjärv is an artificial lake in Viljandi, offering a pleasant area for walking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        25.473283,
+                        58.336241
+                  ]
+            },
+            {
+                  "name": "Kamaveski järv",
+                  "text": "Kamaveski järv is a small and peaceful lake in Viljandi, surrounded by a natural landscape.",
+                  "category": "natural",
+                  "coords": [
+                        25.552839,
+                        58.299975
+                  ]
+            },
+            {
+                  "name": "Kõlu järv",
+                  "text": "Kõlu järv is a calm lake located in the Viljandi region, perfect for a quiet outdoor experience.",
+                  "category": "natural",
+                  "coords": [
+                        25.6249,
+                        58.300736
+                  ]
+            },
+            {
+                  "name": "Alustre-Päärna veehoidla",
+                  "text": "Alustre-Päärna veehoidla is a reservoir in Viljandi, providing a peaceful water setting.",
+                  "category": "natural",
+                  "coords": [
+                        25.47181,
+                        58.369655
+                  ]
+            },
+            {
+                  "name": "Varesemäe tehisjärv",
+                  "text": "Varesemäe tehisjärv is a local artificial lake in Viljandi, ideal for a relaxing stroll.",
+                  "category": "natural",
+                  "coords": [
+                        25.684689,
+                        58.41496
+                  ]
+            },
+            {
+                  "name": "Kuuni järv",
+                  "text": "Kuuni järv is a scenic lake in the Viljandi area, offering a quiet escape into nature.",
+                  "category": "natural",
+                  "coords": [
+                        25.542287,
+                        58.413343
+                  ]
+            },
+            {
+                  "name": "Karula järve ujumiskoht",
+                  "text": "This swimming area at Lake Karula provides a natural setting for swimming and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        25.601123,
+                        58.398963
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ee-country",
     coords: [25.5906, 58.3639],
@@ -6994,15 +9406,6 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         25.569611,
                         58.88874
-                  ]
-            },
-            {
-                  "name": "Paide supelrand - rannavollekeskus",
-                  "text": "Ein lokaler Strand in Paide, ideal zum Entspannen am Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        25.583982,
-                        58.885182
                   ]
             },
             {
@@ -7098,15 +9501,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Paide supelrand - rannavollekeskus",
-                  "text": "Paide helyi strandja, amely alkalmas a vízparti kikapcsolódásra.",
-                  "category": "recreational",
-                  "coords": [
-                        25.583982,
-                        58.885182
-                  ]
-            },
-            {
                   "name": "Lembitu park",
                   "text": "Paide központi parkja, amelyet az észt Lembitu vezérről neveztek el.",
                   "category": "park",
@@ -7196,15 +9590,6 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         25.569611,
                         58.88874
-                  ]
-            },
-            {
-                  "name": "Paide supelrand - rannavollekeskus",
-                  "text": "O plajă locală în Paide, ideală pentru relaxare lângă apă.",
-                  "category": "recreational",
-                  "coords": [
-                        25.583982,
-                        58.885182
                   ]
             },
             {
@@ -7488,15 +9873,6 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         26.993506,
                         57.846265
-                  ]
-            },
-            {
-                  "name": "Tamula supelrand",
-                  "text": "Ein beliebter Strand am Ufer des Tamula-Sees in Võru.",
-                  "category": "recreational",
-                  "coords": [
-                        26.989926,
-                        57.843533
                   ]
             },
             {
@@ -7862,15 +10238,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tamula supelrand",
-                  "text": "Népszerű strand a Võruban található Tamula-tó partján.",
-                  "category": "recreational",
-                  "coords": [
-                        26.989926,
-                        57.843533
-                  ]
-            },
-            {
                   "name": "Friedrich Reinhold Kreutzwaldi park",
                   "text": "Võru városi parkja, amelyet Kreutzwald íróról neveztek el.",
                   "category": "park",
@@ -8230,15 +10597,6 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         26.993506,
                         57.846265
-                  ]
-            },
-            {
-                  "name": "Tamula supelrand",
-                  "text": "O plajă populară pe malul lacului Tamula din Võru.",
-                  "category": "recreational",
-                  "coords": [
-                        26.989926,
-                        57.843533
                   ]
             },
             {
@@ -8966,15 +11324,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vesiroosi supelrand",
-                  "text": "Ein Strand in der Stadt Rapla.",
-                  "category": "recreational",
-                  "coords": [
-                        24.81288,
-                        58.998942
-                  ]
-            },
-            {
                   "name": "Muusikapink ''Toivo Kurmet''",
                   "text": "Eine musikalische Sitzbank und Attraktion in Rapla.",
                   "category": "landmark",
@@ -9076,15 +11425,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vesiroosi supelrand",
-                  "text": "Egy strand Rapla városában.",
-                  "category": "recreational",
-                  "coords": [
-                        24.81288,
-                        58.998942
-                  ]
-            },
-            {
                   "name": "Muusikapink ''Toivo Kurmet''",
                   "text": "Egy zenei pad és látványosság Rapla városában.",
                   "category": "landmark",
@@ -9183,15 +11523,6 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         24.789167,
                         58.962861
-                  ]
-            },
-            {
-                  "name": "Vesiroosi supelrand",
-                  "text": "O plajă situată în orașul Rapla.",
-                  "category": "recreational",
-                  "coords": [
-                        24.81288,
-                        58.998942
                   ]
             },
             {
@@ -9505,15 +11836,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kuressaare rand",
-                  "text": "Der Strand von Kuressaare ist ein beliebter Ort für Erholung. Im Sommer lädt er zum Sonnenbaden und Schwimmen ein.",
-                  "category": "recreational",
-                  "coords": [
-                        22.476702,
-                        58.244308
-                  ]
-            },
-            {
                   "name": "Kuressaare Teater",
                   "text": "Das Theater Kuressaare ist das kulturelle Zentrum der Stadt. Es bietet ein abwechslungsreiches Programm an Aufführungen.",
                   "category": "cultural",
@@ -9693,15 +12015,6 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         22.492907,
                         58.267307
-                  ]
-            },
-            {
-                  "name": "Kuressaare rand",
-                  "text": "A Kuressaare strand népszerű kikapcsolódási hely. Nyáron napozásra és úszásra csábít.",
-                  "category": "recreational",
-                  "coords": [
-                        22.476702,
-                        58.244308
                   ]
             },
             {
@@ -9887,15 +12200,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kuressaare rand",
-                  "text": "Plaja din Kuressaare este un loc popular pentru recreere. Vara, invită la plajă și înot.",
-                  "category": "recreational",
-                  "coords": [
-                        22.476702,
-                        58.244308
-                  ]
-            },
-            {
                   "name": "Kuressaare Teater",
                   "text": "Teatrul din Kuressaare este centrul cultural al orașului. Acesta oferă un program variat de spectacole.",
                   "category": "cultural",
@@ -10078,15 +12382,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kuressaare rand",
-                  "text": "Kuressaare beach is a popular spot for recreation. In summer, it invites you to sunbathe and swim.",
-                  "category": "recreational",
-                  "coords": [
-                        22.476702,
-                        58.244308
-                  ]
-            },
-            {
                   "name": "Kuressaare Teater",
                   "text": "The Kuressaare Theatre is the cultural center of the town. It offers a varied program of performances.",
                   "category": "cultural",
@@ -10260,24 +12555,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kärdla politseirand",
-                  "text": "Ein lokaler Badestrand in der Stadt Kärdla.",
-                  "category": "recreational",
-                  "coords": [
-                        22.757682,
-                        59.006046
-                  ]
-            },
-            {
-                  "name": "Kärdla paargu rand",
-                  "text": "Ein Küstenabschnitt in Kärdla, der zum Verweilen einlädt.",
-                  "category": "recreational",
-                  "coords": [
-                        22.744739,
-                        59.007023
-                  ]
-            },
-            {
                   "name": "Kärdla linnapark",
                   "text": "Die zentrale Parkanlage der Stadt Kärdla auf Hiiumaa.",
                   "category": "park",
@@ -10325,24 +12602,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kärdla politseirand",
-                  "text": "Helyi strand Kärdla városában.",
-                  "category": "recreational",
-                  "coords": [
-                        22.757682,
-                        59.006046
-                  ]
-            },
-            {
-                  "name": "Kärdla paargu rand",
-                  "text": "Tengerparti szakasz Kärdlában, amely pihenésre hívogat.",
-                  "category": "recreational",
-                  "coords": [
-                        22.744739,
-                        59.007023
-                  ]
-            },
-            {
                   "name": "Kärdla linnapark",
                   "text": "Kärdla város központi parkja Hiiumaa szigetén.",
                   "category": "park",
@@ -10387,24 +12646,6 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         22.746561,
                         59.004295
-                  ]
-            },
-            {
-                  "name": "Kärdla politseirand",
-                  "text": "O plajă locală în orașul Kärdla.",
-                  "category": "recreational",
-                  "coords": [
-                        22.757682,
-                        59.006046
-                  ]
-            },
-            {
-                  "name": "Kärdla paargu rand",
-                  "text": "O secțiune de coastă în Kärdla, ideală pentru relaxare.",
-                  "category": "recreational",
-                  "coords": [
-                        22.744739,
-                        59.007023
                   ]
             },
             {
@@ -11571,15 +13812,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Valkas novadpētniecības muzejs",
-                  "text": "Ein Museum für Regionalgeschichte in der Grenzstadt Valka.",
-                  "category": "museum",
-                  "coords": [
-                        26.006096,
-                        57.768197
-                  ]
-            },
-            {
                   "name": "Valga Muuseum",
                   "text": "Das Museum in Valga zeigt Exponate zur Stadtgeschichte und Natur.",
                   "category": "museum",
@@ -11598,15 +13830,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Valkas estrāde",
-                  "text": "Eine Freilichtbühne und ein Theaterort in Valga.",
-                  "category": "cultural",
-                  "coords": [
-                        26.004501,
-                        57.783916
-                  ]
-            },
-            {
                   "name": "Planču pilskalns",
                   "text": "Ein alter Burgwall und eine archäologische Stätte in Valga.",
                   "category": "historical",
@@ -11616,39 +13839,12 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Zviedru skansts",
-                  "text": "Die Überreste einer schwedischen Befestigungsanlage in Valga.",
-                  "category": "fortress",
-                  "coords": [
-                        26.01379,
-                        57.775607
-                  ]
-            },
-            {
-                  "name": "Valkas kultūras nams",
-                  "text": "Ein Kulturzentrum und Theaterstandort für die lokale Gemeinschaft.",
-                  "category": "cultural",
-                  "coords": [
-                        26.018162,
-                        57.773963
-                  ]
-            },
-            {
                   "name": "Linnapark",
                   "text": "Ein zentraler Stadtpark in Valga mit Grünflächen zur Entspannung.",
                   "category": "park",
                   "coords": [
                         26.050617,
                         57.779426
-                  ]
-            },
-            {
-                  "name": "Monument",
-                  "text": "Ein Gedenkmonument in der Stadt Valga.",
-                  "category": "historical",
-                  "coords": [
-                        25.998162,
-                        57.785267
                   ]
             },
             {
@@ -11706,15 +13902,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Zāģezers",
-                  "text": "Der Zāģezers ist ein See in Valga, der Einheimische und Besucher zur Erholung am Wasser einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        25.970958,
-                        57.796924
-                  ]
-            },
-            {
                   "name": "Pedeli kolmas paisjärv",
                   "text": "Der Pedeli kolmas paisjärv ist ein künstlicher See in Valga, ideal für einen Aufenthalt im Freien.",
                   "category": "natural",
@@ -11762,15 +13949,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Valkas novadpētniecības muzejs",
-                  "text": "Regionális történelmi múzeum Valka határvárosában.",
-                  "category": "museum",
-                  "coords": [
-                        26.006096,
-                        57.768197
-                  ]
-            },
-            {
                   "name": "Valga Muuseum",
                   "text": "A valga-i múzeum a város történelmét és természetvilágát mutatja be.",
                   "category": "museum",
@@ -11789,15 +13967,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Valkas estrāde",
-                  "text": "Szabadtéri színpad és színházi helyszín Valga városában.",
-                  "category": "cultural",
-                  "coords": [
-                        26.004501,
-                        57.783916
-                  ]
-            },
-            {
                   "name": "Planču pilskalns",
                   "text": "Ősi földvár és régészeti lelőhely Valga városában.",
                   "category": "historical",
@@ -11807,39 +13976,12 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Zviedru skansts",
-                  "text": "Egy svéd erődítmény romjai Valga városában.",
-                  "category": "fortress",
-                  "coords": [
-                        26.01379,
-                        57.775607
-                  ]
-            },
-            {
-                  "name": "Valkas kultūras nams",
-                  "text": "Kulturális központ és színházi helyszín a helyi közösség számára.",
-                  "category": "cultural",
-                  "coords": [
-                        26.018162,
-                        57.773963
-                  ]
-            },
-            {
                   "name": "Linnapark",
                   "text": "Központi városi park Valgában, amely zöldterületet kínál a kikapcsolódáshoz.",
                   "category": "park",
                   "coords": [
                         26.050617,
                         57.779426
-                  ]
-            },
-            {
-                  "name": "Monument",
-                  "text": "Emlékmű Valga városában.",
-                  "category": "historical",
-                  "coords": [
-                        25.998162,
-                        57.785267
                   ]
             },
             {
@@ -11897,15 +14039,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Zāģezers",
-                  "text": "A Zāģezers egy tó Valga területén, amely pihenésre hívja a helyieket és a látogatókat.",
-                  "category": "natural",
-                  "coords": [
-                        25.970958,
-                        57.796924
-                  ]
-            },
-            {
                   "name": "Pedeli kolmas paisjärv",
                   "text": "A Pedeli kolmas paisjärv egy mesterséges tó Valga területén, ideális a szabadban való tartózkodáshoz.",
                   "category": "natural",
@@ -11953,15 +14086,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Valkas novadpētniecības muzejs",
-                  "text": "Un muzeu de istorie regională în orașul de frontieră Valka.",
-                  "category": "museum",
-                  "coords": [
-                        26.006096,
-                        57.768197
-                  ]
-            },
-            {
                   "name": "Valga Muuseum",
                   "text": "Muzeul din Valga prezintă exponate despre istoria și natura orașului.",
                   "category": "museum",
@@ -11980,15 +14104,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Valkas estrāde",
-                  "text": "O scenă în aer liber și un loc de desfășurare a spectacolelor de teatru în Valga.",
-                  "category": "cultural",
-                  "coords": [
-                        26.004501,
-                        57.783916
-                  ]
-            },
-            {
                   "name": "Planču pilskalns",
                   "text": "Un sit arheologic și o veche cetate de pământ în Valga.",
                   "category": "historical",
@@ -11998,39 +14113,12 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Zviedru skansts",
-                  "text": "Ruinele unei fortificații suedeze în Valga.",
-                  "category": "fortress",
-                  "coords": [
-                        26.01379,
-                        57.775607
-                  ]
-            },
-            {
-                  "name": "Valkas kultūras nams",
-                  "text": "Un centru cultural și o sală de teatru care deservește comunitatea locală.",
-                  "category": "cultural",
-                  "coords": [
-                        26.018162,
-                        57.773963
-                  ]
-            },
-            {
                   "name": "Linnapark",
                   "text": "Un parc central din Valga care oferă spații verzi pentru relaxare.",
                   "category": "park",
                   "coords": [
                         26.050617,
                         57.779426
-                  ]
-            },
-            {
-                  "name": "Monument",
-                  "text": "Un monument comemorativ situat în orașul Valga.",
-                  "category": "historical",
-                  "coords": [
-                        25.998162,
-                        57.785267
                   ]
             },
             {
@@ -12088,15 +14176,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Zāģezers",
-                  "text": "Zāģezers este un lac în Valga, care invită localnicii și vizitatorii la relaxare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        25.970958,
-                        57.796924
-                  ]
-            },
-            {
                   "name": "Pedeli kolmas paisjärv",
                   "text": "Pedeli kolmas paisjärv este un lac artificial în Valga, ideal pentru petrecerea timpului în aer liber.",
                   "category": "natural",
@@ -12144,15 +14223,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Valkas novadpētniecības muzejs",
-                  "text": "A regional history museum in the border town of Valka.",
-                  "category": "museum",
-                  "coords": [
-                        26.006096,
-                        57.768197
-                  ]
-            },
-            {
                   "name": "Valga Museum",
                   "text": "The museum in Valga displays exhibits on city history and nature.",
                   "category": "museum",
@@ -12171,15 +14241,6 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Valkas estrāde",
-                  "text": "An open-air stage and theatre venue in Valga.",
-                  "category": "cultural",
-                  "coords": [
-                        26.004501,
-                        57.783916
-                  ]
-            },
-            {
                   "name": "Planču pilskalns",
                   "text": "An ancient hillfort and archaeological site in Valga.",
                   "category": "historical",
@@ -12189,39 +14250,12 @@ export const estoniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Zviedru skansts",
-                  "text": "The ruins of a Swedish fortification in Valga.",
-                  "category": "fortress",
-                  "coords": [
-                        26.01379,
-                        57.775607
-                  ]
-            },
-            {
-                  "name": "Culture house Valka",
-                  "text": "A cultural center and theatre venue serving the local community.",
-                  "category": "cultural",
-                  "coords": [
-                        26.018162,
-                        57.773963
-                  ]
-            },
-            {
                   "name": "Linnapark",
                   "text": "A central city park in Valga offering green space for relaxation.",
                   "category": "park",
                   "coords": [
                         26.050617,
                         57.779426
-                  ]
-            },
-            {
-                  "name": "Monument",
-                  "text": "A commemorative monument located in the city of Valga.",
-                  "category": "historical",
-                  "coords": [
-                        25.998162,
-                        57.785267
                   ]
             },
             {
@@ -12276,15 +14310,6 @@ export const estoniaCities: POI[] = [
                   "coords": [
                         26.044553,
                         57.775722
-                  ]
-            },
-            {
-                  "name": "Zāģezers",
-                  "text": "Zāģezers is a lake in Valga, inviting locals and visitors to relax by the water.",
-                  "category": "natural",
-                  "coords": [
-                        25.970958,
-                        57.796924
                   ]
             },
             {
@@ -12700,39 +14725,12 @@ export const estoniaCulture: POI[] = [
     id: "cult-rakvere", "sights": {
       "de": [
             {
-                  "name": "Burg Wesenberg",
-                  "text": "Eine beeindruckende mittelalterliche Burgruine des Livländischen Ordens in Rakvere.",
-                  "category": "castle",
-                  "coords": [
-                        26.351845,
-                        59.34774
-                  ]
-            },
-            {
-                  "name": "Arvo Pärdile pühendatud muusikamaja Ukuaru",
-                  "text": "Ein dem Komponisten Arvo Pärt gewidmetes Musikhaus und Veranstaltungsort.",
-                  "category": "cultural",
-                  "coords": [
-                        26.363875,
-                        59.343308
-                  ]
-            },
-            {
                   "name": "Rehbinderi maja",
                   "text": "Ein historisches Gebäude in Rakvere, das heute als Museum genutzt wird.",
                   "category": "museum",
                   "coords": [
                         26.354169,
                         59.350727
-                  ]
-            },
-            {
-                  "name": "Rakvere linnakodaniku majamuuseum",
-                  "text": "Ein Museum, das das städtische Leben und Wohnen im 19. Jahrhundert veranschaulicht.",
-                  "category": "museum",
-                  "coords": [
-                        26.354928,
-                        59.344786
                   ]
             },
             {
@@ -12743,45 +14741,9 @@ export const estoniaCulture: POI[] = [
                         26.349806,
                         59.350192
                   ]
-            },
-            {
-                  "name": "AQVA Hotel & Spa",
-                  "text": "Ein modernes Wellness-Zentrum mit Wasserpark und Spa-Einrichtungen in Rakvere.",
-                  "category": "recreational",
-                  "coords": [
-                        26.357091,
-                        59.347881
-                  ]
-            },
-            {
-                  "name": "Vallimägi",
-                  "text": "Ein historischer Hügel in Rakvere mit Überresten antiker Befestigungsanlagen.",
-                  "category": "historical",
-                  "coords": [
-                        26.352429,
-                        59.346329
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Rakvere ordulinnus",
-                  "text": "A Livóniai Lovagrend lenyűgöző középkori várromja Rakverében.",
-                  "category": "castle",
-                  "coords": [
-                        26.351845,
-                        59.34774
-                  ]
-            },
-            {
-                  "name": "Arvo Pärdile pühendatud muusikamaja Ukuaru",
-                  "text": "Arvo Pärt zeneszerzőnek szentelt zeneművészeti ház és rendezvényhelyszín.",
-                  "category": "cultural",
-                  "coords": [
-                        26.363875,
-                        59.343308
-                  ]
-            },
             {
                   "name": "Rehbinderi maja",
                   "text": "Történelmi épület Rakverében, amely ma múzeumként üzemel.",
@@ -12792,15 +14754,6 @@ export const estoniaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Rakvere linnakodaniku majamuuseum",
-                  "text": "A 19. századi városi életet és lakáskultúrát bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        26.354928,
-                        59.344786
-                  ]
-            },
-            {
                   "name": "Rakvere teater",
                   "text": "Profi színház Rakverében, amely változatos programokat kínál.",
                   "category": "cultural",
@@ -12808,45 +14761,9 @@ export const estoniaCulture: POI[] = [
                         26.349806,
                         59.350192
                   ]
-            },
-            {
-                  "name": "AQVA Hotel & Spa",
-                  "text": "Modern wellnessközpont élményfürdővel és gyógyfürdővel Rakverében.",
-                  "category": "recreational",
-                  "coords": [
-                        26.357091,
-                        59.347881
-                  ]
-            },
-            {
-                  "name": "Vallimägi",
-                  "text": "Történelmi domb Rakverében, ókori erődítmények maradványaival.",
-                  "category": "historical",
-                  "coords": [
-                        26.352429,
-                        59.346329
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Rakvere ordulinnus",
-                  "text": "Ruinele impresionante ale unei cetăți medievale a Ordinului Livonian din Rakvere.",
-                  "category": "castle",
-                  "coords": [
-                        26.351845,
-                        59.34774
-                  ]
-            },
-            {
-                  "name": "Arvo Pärdile pühendatud muusikamaja Ukuaru",
-                  "text": "O casă de muzică și sală de spectacole dedicată compozitorului Arvo Pärt.",
-                  "category": "cultural",
-                  "coords": [
-                        26.363875,
-                        59.343308
-                  ]
-            },
             {
                   "name": "Rehbinderi maja",
                   "text": "O clădire istorică din Rakvere, utilizată astăzi ca muzeu.",
@@ -12857,15 +14774,6 @@ export const estoniaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Rakvere linnakodaniku majamuuseum",
-                  "text": "Un muzeu care ilustrează viața urbană și locuințele din secolul al XIX-lea.",
-                  "category": "museum",
-                  "coords": [
-                        26.354928,
-                        59.344786
-                  ]
-            },
-            {
                   "name": "Rakvere teater",
                   "text": "Un teatru profesionist din Rakvere, cu un program diversificat.",
                   "category": "cultural",
@@ -12873,45 +14781,9 @@ export const estoniaCulture: POI[] = [
                         26.349806,
                         59.350192
                   ]
-            },
-            {
-                  "name": "AQVA Hotel & Spa",
-                  "text": "Un centru wellness modern, cu parc acvatic și facilități spa în Rakvere.",
-                  "category": "recreational",
-                  "coords": [
-                        26.357091,
-                        59.347881
-                  ]
-            },
-            {
-                  "name": "Vallimägi",
-                  "text": "O colină istorică în Rakvere, cu vestigii ale unor fortificații antice.",
-                  "category": "historical",
-                  "coords": [
-                        26.352429,
-                        59.346329
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Rakvere ordulinnus",
-                  "text": "Impressive medieval castle ruins of the Livonian Order in Rakvere.",
-                  "category": "castle",
-                  "coords": [
-                        26.351845,
-                        59.34774
-                  ]
-            },
-            {
-                  "name": "Arvo Pärdile pühendatud muusikamaja Ukuaru",
-                  "text": "A music house and performance venue dedicated to the composer Arvo Pärt.",
-                  "category": "cultural",
-                  "coords": [
-                        26.363875,
-                        59.343308
-                  ]
-            },
             {
                   "name": "Rehbinder's House",
                   "text": "A historic building in Rakvere that is currently used as a museum.",
@@ -12922,39 +14794,12 @@ export const estoniaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Rakvere Citizen's Home Museum",
-                  "text": "A museum illustrating 19th-century urban life and housing.",
-                  "category": "museum",
-                  "coords": [
-                        26.354928,
-                        59.344786
-                  ]
-            },
-            {
                   "name": "Rakvere teater",
                   "text": "A professional theatre in Rakvere offering a diverse program.",
                   "category": "cultural",
                   "coords": [
                         26.349806,
                         59.350192
-                  ]
-            },
-            {
-                  "name": "AQVA Hotel & Spa",
-                  "text": "A modern wellness center with a water park and spa facilities in Rakvere.",
-                  "category": "recreational",
-                  "coords": [
-                        26.357091,
-                        59.347881
-                  ]
-            },
-            {
-                  "name": "Vallimägi",
-                  "text": "A historical hill in Rakvere featuring remains of ancient fortifications.",
-                  "category": "historical",
-                  "coords": [
-                        26.352429,
-                        59.346329
                   ]
             }
       ]
@@ -13592,30 +15437,12 @@ export const estoniaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Rummu quarry",
-                  "text": "Ein ehemaliger Steinbruch, der heute ein beliebter Ort zum Schwimmen und Tauchen ist.",
-                  "category": "recreational",
-                  "coords": [
-                        24.195121,
-                        59.22712
-                  ]
-            },
-            {
                   "name": "Padise mõisa viinavabrik",
                   "text": "Die Ruinen der alten Schnapsbrennerei des Gutshofes Padise.",
                   "category": "historical",
                   "coords": [
                         24.139406,
                         59.226442
-                  ]
-            },
-            {
-                  "name": "Endine Murru vangla",
-                  "text": "Ein ehemaliges Gefängnis, das heute für Besichtigungen und Veranstaltungen genutzt wird.",
-                  "category": "landmark",
-                  "coords": [
-                        24.202626,
-                        59.22906
                   ]
             }
       ],
@@ -13639,30 +15466,12 @@ export const estoniaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Rummu quarry",
-                  "text": "Egykori kőbánya, amely ma népszerű úszó- és búvárhely.",
-                  "category": "recreational",
-                  "coords": [
-                        24.195121,
-                        59.22712
-                  ]
-            },
-            {
                   "name": "Padise mõisa viinavabrik",
                   "text": "A padisei uradalom egykori szeszfőzdéjének romjai.",
                   "category": "historical",
                   "coords": [
                         24.139406,
                         59.226442
-                  ]
-            },
-            {
-                  "name": "Endine Murru vangla",
-                  "text": "Egykori börtön, amelyet ma látogatásokra és rendezvényekre használnak.",
-                  "category": "landmark",
-                  "coords": [
-                        24.202626,
-                        59.22906
                   ]
             }
       ],
@@ -13686,30 +15495,12 @@ export const estoniaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Rummu quarry",
-                  "text": "O fostă carieră de piatră, acum un loc popular pentru înot și scufundări.",
-                  "category": "recreational",
-                  "coords": [
-                        24.195121,
-                        59.22712
-                  ]
-            },
-            {
                   "name": "Padise mõisa viinavabrik",
                   "text": "Ruinele vechii distilerii de vodcă a conacului Padise.",
                   "category": "historical",
                   "coords": [
                         24.139406,
                         59.226442
-                  ]
-            },
-            {
-                  "name": "Endine Murru vangla",
-                  "text": "O fostă închisoare, utilizată acum pentru vizite și evenimente.",
-                  "category": "landmark",
-                  "coords": [
-                        24.202626,
-                        59.22906
                   ]
             }
       ],
@@ -13733,30 +15524,12 @@ export const estoniaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Rummu quarry",
-                  "text": "A former quarry that is now a popular spot for swimming and diving.",
-                  "category": "recreational",
-                  "coords": [
-                        24.195121,
-                        59.22712
-                  ]
-            },
-            {
                   "name": "Padise mõisa viinavabrik",
                   "text": "The ruins of the old vodka distillery of the Padise manor.",
                   "category": "historical",
                   "coords": [
                         24.139406,
                         59.226442
-                  ]
-            },
-            {
-                  "name": "Former Murru Prison",
-                  "text": "A former prison, now used for tours and events.",
-                  "category": "landmark",
-                  "coords": [
-                        24.202626,
-                        59.22906
                   ]
             }
       ]
@@ -13905,15 +15678,6 @@ export const estoniaCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Sillamäe muuseum",
-                  "text": "Ein Museum, das die Geschichte und Kultur der Stadt Sillamäe dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        27.760801,
-                        59.398995
-                  ]
-            },
-            {
                   "name": "Tundmatu sõduri monument",
                   "text": "Ein Denkmal zu Ehren des unbekannten Soldaten auf dem historischen Schlachtfeld.",
                   "category": "historical",
@@ -13939,24 +15703,6 @@ export const estoniaCulture: POI[] = [
                         27.769277,
                         59.395347
                   ]
-            },
-            {
-                  "name": "Sillamäe Püha Adalberti ja Püha Georgiuse kirik",
-                  "text": "Eine katholische Kirche, die den Heiligen Adalbert und Georg gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        27.764837,
-                        59.399025
-                  ]
-            },
-            {
-                  "name": "Jumalaema Kaasani pühakuju kirik",
-                  "text": "Eine orthodoxe Kirche, die nach dem Gnadenbild der Gottesmutter von Kasan benannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        27.757292,
-                        59.394133
-                  ]
             }
       ],
       "hu": [
@@ -13967,15 +15713,6 @@ export const estoniaCulture: POI[] = [
                   "coords": [
                         27.878842,
                         59.400219
-                  ]
-            },
-            {
-                  "name": "Sillamäe muuseum",
-                  "text": "A Sillamäe városának történelmét és kultúráját bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        27.760801,
-                        59.398995
                   ]
             },
             {
@@ -14004,24 +15741,6 @@ export const estoniaCulture: POI[] = [
                         27.769277,
                         59.395347
                   ]
-            },
-            {
-                  "name": "Sillamäe Püha Adalberti ja Püha Georgiuse kirik",
-                  "text": "Szent Adalbertnak és Szent Györgynek szentelt katolikus templom.",
-                  "category": "religious",
-                  "coords": [
-                        27.764837,
-                        59.399025
-                  ]
-            },
-            {
-                  "name": "Jumalaema Kaasani pühakuju kirik",
-                  "text": "Az Istenanya Kazanyi ikonjáról elnevezett ortodox templom.",
-                  "category": "religious",
-                  "coords": [
-                        27.757292,
-                        59.394133
-                  ]
             }
       ],
       "ro": [
@@ -14032,15 +15751,6 @@ export const estoniaCulture: POI[] = [
                   "coords": [
                         27.878842,
                         59.400219
-                  ]
-            },
-            {
-                  "name": "Sillamäe muuseum",
-                  "text": "Un muzeu care documentează istoria și cultura orașului Sillamäe.",
-                  "category": "museum",
-                  "coords": [
-                        27.760801,
-                        59.398995
                   ]
             },
             {
@@ -14069,24 +15779,6 @@ export const estoniaCulture: POI[] = [
                         27.769277,
                         59.395347
                   ]
-            },
-            {
-                  "name": "Sillamäe Püha Adalberti ja Püha Georgiuse kirik",
-                  "text": "O biserică catolică dedicată Sfinților Adalbert și Gheorghe.",
-                  "category": "religious",
-                  "coords": [
-                        27.764837,
-                        59.399025
-                  ]
-            },
-            {
-                  "name": "Jumalaema Kaasani pühakuju kirik",
-                  "text": "O biserică ortodoxă numită după icoana Maicii Domnului din Kazan.",
-                  "category": "religious",
-                  "coords": [
-                        27.757292,
-                        59.394133
-                  ]
             }
       ],
       "en": [
@@ -14097,15 +15789,6 @@ export const estoniaCulture: POI[] = [
                   "coords": [
                         27.878842,
                         59.400219
-                  ]
-            },
-            {
-                  "name": "Sillamäe Museum",
-                  "text": "A museum documenting the history and culture of the town of Sillamäe.",
-                  "category": "museum",
-                  "coords": [
-                        27.760801,
-                        59.398995
                   ]
             },
             {
@@ -14133,24 +15816,6 @@ export const estoniaCulture: POI[] = [
                   "coords": [
                         27.769277,
                         59.395347
-                  ]
-            },
-            {
-                  "name": "Sillamäe Püha Adalberti ja Püha Georgiuse kirik",
-                  "text": "A Catholic church dedicated to Saints Adalbert and George.",
-                  "category": "religious",
-                  "coords": [
-                        27.764837,
-                        59.399025
-                  ]
-            },
-            {
-                  "name": "Jumalaema Kaasani pühakuju kirik",
-                  "text": "An Orthodox church named after the icon of Our Lady of Kazan.",
-                  "category": "religious",
-                  "coords": [
-                        27.757292,
-                        59.394133
                   ]
             }
       ]
@@ -14720,50 +16385,10 @@ export const estoniaCulture: POI[] = [
 export const estoniaNature: POI[] = [
   {
     id: "nat-saaremaa", "sights": {
-      "de": [
-            {
-                  "name": "Piila Peaingel Miikaeli kirik",
-                  "text": "Eine historische Holzkirche auf der estnischen Insel Saaremaa.",
-                  "category": "religious",
-                  "coords": [
-                        22.545682,
-                        58.416048
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Piila Peaingel Miikaeli kirik",
-                  "text": "Történelmi fatemplom az észtországi Saaremaa szigeten.",
-                  "category": "religious",
-                  "coords": [
-                        22.545682,
-                        58.416048
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Piila Peaingel Miikaeli kirik",
-                  "text": "O biserică istorică de lemn de pe insula estonă Saaremaa.",
-                  "category": "religious",
-                  "coords": [
-                        22.545682,
-                        58.416048
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Piila Peaingel Miikaeli kirik",
-                  "text": "A historic wooden church on the Estonian island of Saaremaa.",
-                  "category": "religious",
-                  "coords": [
-                        22.545682,
-                        58.416048
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "landmark",
     parent: "ee-country",
@@ -15009,15 +16634,6 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Vilsandi tuletorn",
-                  "text": "Ein historischer Leuchtturm am westlichsten Punkt der Insel Vilsandi.",
-                  "category": "landmark",
-                  "coords": [
-                        21.812725,
-                        58.382872
-                  ]
-            },
-            {
                   "name": "Aaperse rand",
                   "text": "Ein ruhiger Strand im Nationalpark Vilsandi.",
                   "category": "recreational",
@@ -15044,15 +16660,6 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         21.910962,
                         58.391448
-                  ]
-            },
-            {
-                  "name": "Vilsandi tuletorn",
-                  "text": "Történelmi világítótorony Vilsandi szigetének legnyugatibb pontján.",
-                  "category": "landmark",
-                  "coords": [
-                        21.812725,
-                        58.382872
                   ]
             },
             {
@@ -15085,15 +16692,6 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Vilsandi tuletorn",
-                  "text": "Un far istoric situat în cel mai vestic punct al insulei Vilsandi.",
-                  "category": "landmark",
-                  "coords": [
-                        21.812725,
-                        58.382872
-                  ]
-            },
-            {
                   "name": "Aaperse rand",
                   "text": "O plajă liniștită situată în Parcul Național Vilsandi.",
                   "category": "recreational",
@@ -15120,15 +16718,6 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         21.910962,
                         58.391448
-                  ]
-            },
-            {
-                  "name": "Vilsandi tuletorn",
-                  "text": "A historic lighthouse located on the westernmost point of Vilsandi island.",
-                  "category": "landmark",
-                  "coords": [
-                        21.812725,
-                        58.382872
                   ]
             },
             {
@@ -15243,230 +16832,10 @@ export const estoniaNature: POI[] = [
   },
   {
     id: "nat-suur-munamagi", "sights": {
-      "de": [
-            {
-                  "name": "Haanja looduspark",
-                  "text": "Ein Naturschutzgebiet im Haanja-Hochland.",
-                  "category": "natural",
-                  "coords": [
-                        27.060971,
-                        57.713335
-                  ]
-            },
-            {
-                  "name": "Kaloga jaanimägi",
-                  "text": "Eine historische archäologische Stätte in der Nähe des Suur Munamägi.",
-                  "category": "historical",
-                  "coords": [
-                        27.054429,
-                        57.744326
-                  ]
-            },
-            {
-                  "name": "Vaskna järve supelrand",
-                  "text": "Ein Badestrand am Vaskna-See.",
-                  "category": "recreational",
-                  "coords": [
-                        27.083231,
-                        57.716488
-                  ]
-            },
-            {
-                  "name": "Suur Munamägi",
-                  "text": "Der höchste Berg Estlands mit einem Aussichtsturm.",
-                  "category": "natural",
-                  "coords": [
-                        27.059966,
-                        57.714007
-                  ]
-            },
-            {
-                  "name": "National Geographic yellow window",
-                  "text": "Ein gelber Fensterrahmen von National Geographic für Landschaftsfotos.",
-                  "category": "landmark",
-                  "coords": [
-                        27.05501,
-                        57.713759
-                  ]
-            },
-            {
-                  "name": "Vihtla järve ujumiskoht",
-                  "text": "Die Badestelle am Vihtla-See in der Nähe des Suur Munamägi bietet Erfrischung in der Natur Estlands.",
-                  "category": "recreational",
-                  "coords": [
-                        27.010501,
-                        57.71346
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Haanja looduspark",
-                  "text": "Természetvédelmi terület a Haanja-hátságon.",
-                  "category": "natural",
-                  "coords": [
-                        27.060971,
-                        57.713335
-                  ]
-            },
-            {
-                  "name": "Kaloga jaanimägi",
-                  "text": "Történelmi régészeti lelőhely a Suur Munamägi közelében.",
-                  "category": "historical",
-                  "coords": [
-                        27.054429,
-                        57.744326
-                  ]
-            },
-            {
-                  "name": "Vaskna järve supelrand",
-                  "text": "Fürdőhely a Vaskna-tó partján.",
-                  "category": "recreational",
-                  "coords": [
-                        27.083231,
-                        57.716488
-                  ]
-            },
-            {
-                  "name": "Suur Munamägi",
-                  "text": "Észtország legmagasabb hegye kilátótoronnyal.",
-                  "category": "natural",
-                  "coords": [
-                        27.059966,
-                        57.714007
-                  ]
-            },
-            {
-                  "name": "National Geographic yellow window",
-                  "text": "A National Geographic sárga ablaka tájképfotózáshoz.",
-                  "category": "landmark",
-                  "coords": [
-                        27.05501,
-                        57.713759
-                  ]
-            },
-            {
-                  "name": "Vihtla järve ujumiskoht",
-                  "text": "A Vihtla-tó úszóhelye a Suur Munamägi közelében kínál felfrissülést az észt természetben.",
-                  "category": "recreational",
-                  "coords": [
-                        27.010501,
-                        57.71346
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Haanja looduspark",
-                  "text": "O rezervație naturală în podișul Haanja.",
-                  "category": "natural",
-                  "coords": [
-                        27.060971,
-                        57.713335
-                  ]
-            },
-            {
-                  "name": "Kaloga jaanimägi",
-                  "text": "Un sit arheologic istoric în apropiere de Suur Munamägi.",
-                  "category": "historical",
-                  "coords": [
-                        27.054429,
-                        57.744326
-                  ]
-            },
-            {
-                  "name": "Vaskna järve supelrand",
-                  "text": "O plajă la lacul Vaskna.",
-                  "category": "recreational",
-                  "coords": [
-                        27.083231,
-                        57.716488
-                  ]
-            },
-            {
-                  "name": "Suur Munamägi",
-                  "text": "Cel mai înalt vârf din Estonia, dotat cu un turn de observație.",
-                  "category": "natural",
-                  "coords": [
-                        27.059966,
-                        57.714007
-                  ]
-            },
-            {
-                  "name": "National Geographic yellow window",
-                  "text": "O ramă galbenă National Geographic pentru fotografii de peisaj.",
-                  "category": "landmark",
-                  "coords": [
-                        27.05501,
-                        57.713759
-                  ]
-            },
-            {
-                  "name": "Vihtla järve ujumiskoht",
-                  "text": "Locul de scăldat de pe lacul Vihtla, lângă Suur Munamägi, oferă răcorire în natura Estoniei.",
-                  "category": "recreational",
-                  "coords": [
-                        27.010501,
-                        57.71346
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Haanja Nature Park",
-                  "text": "A nature reserve in the Haanja Highlands.",
-                  "category": "natural",
-                  "coords": [
-                        27.060971,
-                        57.713335
-                  ]
-            },
-            {
-                  "name": "Kaloga jaanimägi",
-                  "text": "A historical archaeological site near Suur Munamägi.",
-                  "category": "historical",
-                  "coords": [
-                        27.054429,
-                        57.744326
-                  ]
-            },
-            {
-                  "name": "The beach Vaskna Lake",
-                  "text": "A swimming beach on the shores of Vaskna Lake.",
-                  "category": "recreational",
-                  "coords": [
-                        27.083231,
-                        57.716488
-                  ]
-            },
-            {
-                  "name": "Suur Munamägi",
-                  "text": "The highest peak in Estonia, featuring an observation tower.",
-                  "category": "natural",
-                  "coords": [
-                        27.059966,
-                        57.714007
-                  ]
-            },
-            {
-                  "name": "National Geographic yellow window",
-                  "text": "A National Geographic yellow window frame for landscape photography.",
-                  "category": "landmark",
-                  "coords": [
-                        27.05501,
-                        57.713759
-                  ]
-            },
-            {
-                  "name": "Vihtla järve ujumiskoht",
-                  "text": "The swimming spot at Lake Vihtla near Suur Munamägi offers refreshment in the Estonian nature.",
-                  "category": "recreational",
-                  "coords": [
-                        27.010501,
-                        57.71346
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "ee-country",
@@ -15638,51 +17007,6 @@ export const estoniaNature: POI[] = [
     id: "nat-puhajarv", "sights": {
       "de": [
             {
-                  "name": "Otepää Talispordimuuseum",
-                  "text": "Ein Museum in Otepää, das sich der Geschichte des estnischen Wintersports widmet.",
-                  "category": "museum",
-                  "coords": [
-                        26.501857,
-                        58.053325
-                  ]
-            },
-            {
-                  "name": "Otepää piiskopilinnus",
-                  "text": "Die Ruinen einer mittelalterlichen Bischofsburg aus dem 13. Jahrhundert in Otepää.",
-                  "category": "castle",
-                  "coords": [
-                        26.504062,
-                        58.05728
-                  ]
-            },
-            {
-                  "name": "Gustav Wulf-Õie Muuseum",
-                  "text": "Ein Museum, das dem Leben und Werk von Gustav Õie Wulf gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        26.490924,
-                        58.03423
-                  ]
-            },
-            {
-                  "name": "Eesti Lipu Muuseum",
-                  "text": "Ein Museum in Otepää, dem Ort, an dem die estnische Nationalflagge geweiht wurde.",
-                  "category": "museum",
-                  "coords": [
-                        26.501468,
-                        58.060996
-                  ]
-            },
-            {
-                  "name": "Otepää Seikluspark",
-                  "text": "Ein Abenteuerpark in Otepää mit verschiedenen Kletterparcours und Aktivitäten.",
-                  "category": "recreational",
-                  "coords": [
-                        26.509066,
-                        58.053536
-                  ]
-            },
-            {
                   "name": "Poslovitsa",
                   "text": "Ein Strandabschnitt am Pühajärv-See, ideal zum Schwimmen und Entspannen.",
                   "category": "recreational",
@@ -15717,63 +17041,9 @@ export const estoniaNature: POI[] = [
                         26.395598,
                         58.031778
                   ]
-            },
-            {
-                  "name": "Pilkuse ujumiskoht",
-                  "text": "Ein Badeplatz in Pilkuse beim Pühajärv-See.",
-                  "category": "recreational",
-                  "coords": [
-                        26.528147,
-                        58.056867
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Otepää Talispordimuuseum",
-                  "text": "Múzeum Otepääben, amely az észt téli sportok történelmének szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        26.501857,
-                        58.053325
-                  ]
-            },
-            {
-                  "name": "Otepää piiskopilinnus",
-                  "text": "Egy 13. századi középkori püspöki vár romjai Otepääben.",
-                  "category": "castle",
-                  "coords": [
-                        26.504062,
-                        58.05728
-                  ]
-            },
-            {
-                  "name": "Gustav Wulf-Õie Muuseum",
-                  "text": "Gustav Õie Wulf életének és munkásságának szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        26.490924,
-                        58.03423
-                  ]
-            },
-            {
-                  "name": "Eesti Lipu Muuseum",
-                  "text": "Múzeum Otepääben, ahol az észt nemzeti lobogót felszentelték.",
-                  "category": "museum",
-                  "coords": [
-                        26.501468,
-                        58.060996
-                  ]
-            },
-            {
-                  "name": "Otepää Seikluspark",
-                  "text": "Kalandpark Otepääben különféle mászópályákkal és tevékenységekkel.",
-                  "category": "recreational",
-                  "coords": [
-                        26.509066,
-                        58.053536
-                  ]
-            },
             {
                   "name": "Poslovitsa",
                   "text": "Strandszakasz a Pühajärv-tónál, amely ideális úszásra és pihenésre.",
@@ -15809,63 +17079,9 @@ export const estoniaNature: POI[] = [
                         26.395598,
                         58.031778
                   ]
-            },
-            {
-                  "name": "Pilkuse ujumiskoht",
-                  "text": "Fürdőhely Pilkuse területén a Pühajärv-tó közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        26.528147,
-                        58.056867
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Otepää Talispordimuuseum",
-                  "text": "Un muzeu în Otepää dedicat istoriei sporturilor de iarnă din Estonia.",
-                  "category": "museum",
-                  "coords": [
-                        26.501857,
-                        58.053325
-                  ]
-            },
-            {
-                  "name": "Otepää piiskopilinnus",
-                  "text": "Ruinele unui castel episcopal medieval din secolul al XIII-lea în Otepää.",
-                  "category": "castle",
-                  "coords": [
-                        26.504062,
-                        58.05728
-                  ]
-            },
-            {
-                  "name": "Gustav Wulf-Õie Muuseum",
-                  "text": "Un muzeu dedicat vieții și operei lui Gustav Õie Wulf.",
-                  "category": "museum",
-                  "coords": [
-                        26.490924,
-                        58.03423
-                  ]
-            },
-            {
-                  "name": "Eesti Lipu Muuseum",
-                  "text": "Un muzeu în Otepää, locul unde a fost sfințit drapelul național al Estoniei.",
-                  "category": "museum",
-                  "coords": [
-                        26.501468,
-                        58.060996
-                  ]
-            },
-            {
-                  "name": "Otepää Seikluspark",
-                  "text": "Un parc de aventură în Otepää, cu diverse trasee de cățărare și activități.",
-                  "category": "recreational",
-                  "coords": [
-                        26.509066,
-                        58.053536
-                  ]
-            },
             {
                   "name": "Poslovitsa",
                   "text": "O porțiune de plajă la lacul Pühajärv, ideală pentru înot și relaxare.",
@@ -15901,63 +17117,9 @@ export const estoniaNature: POI[] = [
                         26.395598,
                         58.031778
                   ]
-            },
-            {
-                  "name": "Pilkuse ujumiskoht",
-                  "text": "Un loc de scăldat în Pilkuse, lângă Lacul Pühajärv.",
-                  "category": "recreational",
-                  "coords": [
-                        26.528147,
-                        58.056867
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Otepää Winter Sports Museum",
-                  "text": "A museum in Otepää dedicated to the history of Estonian winter sports.",
-                  "category": "museum",
-                  "coords": [
-                        26.501857,
-                        58.053325
-                  ]
-            },
-            {
-                  "name": "Otepää Bishop's Castle",
-                  "text": "The ruins of a 13th-century medieval bishop's castle in Otepää.",
-                  "category": "castle",
-                  "coords": [
-                        26.504062,
-                        58.05728
-                  ]
-            },
-            {
-                  "name": "Gustav Õie Wulf Museum",
-                  "text": "A museum dedicated to the life and work of Gustav Õie Wulf.",
-                  "category": "museum",
-                  "coords": [
-                        26.490924,
-                        58.03423
-                  ]
-            },
-            {
-                  "name": "Estonian Flag Museum",
-                  "text": "A museum in Otepää, the place where the Estonian national flag was consecrated.",
-                  "category": "museum",
-                  "coords": [
-                        26.501468,
-                        58.060996
-                  ]
-            },
-            {
-                  "name": "Otepää Seikluspark",
-                  "text": "An adventure park in Otepää featuring various climbing courses and activities.",
-                  "category": "recreational",
-                  "coords": [
-                        26.509066,
-                        58.053536
-                  ]
-            },
             {
                   "name": "Poslovitsa",
                   "text": "A beach area on Lake Pühajärv, ideal for swimming and relaxation.",
@@ -15992,15 +17154,6 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         26.395598,
                         58.031778
-                  ]
-            },
-            {
-                  "name": "Pilkuse ujumiskoht",
-                  "text": "A swimming area in Pilkuse, near Lake Pühajärv.",
-                  "category": "recreational",
-                  "coords": [
-                        26.528147,
-                        58.056867
                   ]
             }
       ]
@@ -16957,15 +18110,6 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Kallavere sihi ülemine tulepaak",
-                  "text": "Das obere Leuchtfeuer der Richtfeuerlinie in Muuga Harbour.",
-                  "category": "landmark",
-                  "coords": [
-                        25.023896,
-                        59.49061
-                  ]
-            },
-            {
                   "name": "Muuga söeterminali kanali tulepaak",
                   "text": "Ein Leuchtfeuer für den Kohleterminal im Hafen von Muuga.",
                   "category": "landmark",
@@ -16975,75 +18119,12 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Rootsi-Kallavere Küla Muuseum",
-                  "text": "Ein Museum, das der Geschichte des Dorfes Rootsi-Kallavere gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        25.028792,
-                        59.489531
-                  ]
-            },
-            {
-                  "name": "Kabelikivi",
-                  "text": "Einer der größten Findlinge Estlands in der Nähe des Hafens Muuga.",
-                  "category": "landmark",
-                  "coords": [
-                        24.948135,
-                        59.486929
-                  ]
-            },
-            {
-                  "name": "Merekarp",
-                  "text": "Eine lokale Sehenswürdigkeit im Hafengebiet von Muuga.",
-                  "category": "landmark",
-                  "coords": [
-                        25.004593,
-                        59.46289
-                  ]
-            },
-            {
-                  "name": "Randvere Peetri kirik",
-                  "text": "Eine historische lutherische Kirche in Randvere bei Muuga.",
-                  "category": "religious",
-                  "coords": [
-                        24.908277,
-                        59.504308
-                  ]
-            },
-            {
-                  "name": "Maardu Peaingel Miikaeli kirik",
-                  "text": "Eine orthodoxe Kirche in Maardu in der Nähe des Hafens Muuga.",
-                  "category": "religious",
-                  "coords": [
-                        25.021103,
-                        59.485089
-                  ]
-            },
-            {
-                  "name": "Maardu järve vabaõhuujula",
-                  "text": "Ein öffentliches Freibad am Maardu-See, das in den Sommermonaten ein beliebter Treffpunkt für Schwimmer ist.",
-                  "category": "recreational",
-                  "coords": [
-                        24.997524,
-                        59.450853
-                  ]
-            },
-            {
                   "name": "Maardu järve ujumiskoht",
                   "text": "Dieser am See gelegene Badeort bietet einfachen Zugang zum Wasser und Platz für Freizeitaktivitäten im Freien.",
                   "category": "recreational",
                   "coords": [
                         24.99478,
                         59.450188
-                  ]
-            },
-            {
-                  "name": "Randvere ujumiskoht",
-                  "text": "Eine ruhige Badestelle in Küstennähe, die von Einheimischen zur Erholung am Wasser genutzt wird.",
-                  "category": "recreational",
-                  "coords": [
-                        24.920915,
-                        59.501359
                   ]
             }
       ],
@@ -17058,15 +18139,6 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Kallavere sihi ülemine tulepaak",
-                  "text": "A Muuga kikötő felső irányfénye.",
-                  "category": "landmark",
-                  "coords": [
-                        25.023896,
-                        59.49061
-                  ]
-            },
-            {
                   "name": "Muuga söeterminali kanali tulepaak",
                   "text": "A Muuga kikötő széntermináljának világítótornya.",
                   "category": "landmark",
@@ -17076,75 +18148,12 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Rootsi-Kallavere Küla Muuseum",
-                  "text": "Rootsi-Kallavere falu történelmét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        25.028792,
-                        59.489531
-                  ]
-            },
-            {
-                  "name": "Kabelikivi",
-                  "text": "Észtország egyik legnagyobb vándorköve a Muuga kikötő közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        24.948135,
-                        59.486929
-                  ]
-            },
-            {
-                  "name": "Merekarp",
-                  "text": "Helyi látványosság a Muuga kikötő területén.",
-                  "category": "landmark",
-                  "coords": [
-                        25.004593,
-                        59.46289
-                  ]
-            },
-            {
-                  "name": "Randvere Peetri kirik",
-                  "text": "Történelmi evangélikus templom Randvere településen, Muuga közelében.",
-                  "category": "religious",
-                  "coords": [
-                        24.908277,
-                        59.504308
-                  ]
-            },
-            {
-                  "name": "Maardu Peaingel Miikaeli kirik",
-                  "text": "Ortodox templom Maardu városában, a Muuga kikötő közelében.",
-                  "category": "religious",
-                  "coords": [
-                        25.021103,
-                        59.485089
-                  ]
-            },
-            {
-                  "name": "Maardu järve vabaõhuujula",
-                  "text": "Nyilvános szabadtéri strand a Maardu-tónál, amely a nyári hónapokban népszerű hely a fürdőzők körében.",
-                  "category": "recreational",
-                  "coords": [
-                        24.997524,
-                        59.450853
-                  ]
-            },
-            {
                   "name": "Maardu järve ujumiskoht",
                   "text": "Ez a tóparti fürdőhely egyszerű hozzáférést biztosít a vízhez és helyet kínál a szabadtéri szabadidős tevékenységekhez.",
                   "category": "recreational",
                   "coords": [
                         24.99478,
                         59.450188
-                  ]
-            },
-            {
-                  "name": "Randvere ujumiskoht",
-                  "text": "Csendes fürdőhely a part közelében, amelyet a helyiek használnak vízparti pihenésre.",
-                  "category": "recreational",
-                  "coords": [
-                        24.920915,
-                        59.501359
                   ]
             }
       ],
@@ -17159,15 +18168,6 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Kallavere sihi ülemine tulepaak",
-                  "text": "Farul superior al liniei de ghidaj din portul Muuga.",
-                  "category": "landmark",
-                  "coords": [
-                        25.023896,
-                        59.49061
-                  ]
-            },
-            {
                   "name": "Muuga söeterminali kanali tulepaak",
                   "text": "Un far pentru terminalul de cărbune din portul Muuga.",
                   "category": "landmark",
@@ -17177,75 +18177,12 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Rootsi-Kallavere Küla Muuseum",
-                  "text": "Un muzeu dedicat istoriei satului Rootsi-Kallavere.",
-                  "category": "museum",
-                  "coords": [
-                        25.028792,
-                        59.489531
-                  ]
-            },
-            {
-                  "name": "Kabelikivi",
-                  "text": "Unul dintre cei mai mari bolovani erratici din Estonia, lângă portul Muuga.",
-                  "category": "landmark",
-                  "coords": [
-                        24.948135,
-                        59.486929
-                  ]
-            },
-            {
-                  "name": "Merekarp",
-                  "text": "O atracție locală în zona portului Muuga.",
-                  "category": "landmark",
-                  "coords": [
-                        25.004593,
-                        59.46289
-                  ]
-            },
-            {
-                  "name": "Randvere Peetri kirik",
-                  "text": "O biserică luterană istorică în Randvere, lângă Muuga.",
-                  "category": "religious",
-                  "coords": [
-                        24.908277,
-                        59.504308
-                  ]
-            },
-            {
-                  "name": "Maardu Peaingel Miikaeli kirik",
-                  "text": "O biserică ortodoxă în Maardu, lângă portul Muuga.",
-                  "category": "religious",
-                  "coords": [
-                        25.021103,
-                        59.485089
-                  ]
-            },
-            {
-                  "name": "Maardu järve vabaõhuujula",
-                  "text": "O piscină publică în aer liber pe lacul Maardu, care este un punct de întâlnire popular pentru înotători în lunile de vară.",
-                  "category": "recreational",
-                  "coords": [
-                        24.997524,
-                        59.450853
-                  ]
-            },
-            {
                   "name": "Maardu järve ujumiskoht",
                   "text": "Acest loc de scăldat de pe malul lacului oferă acces ușor la apă și spațiu pentru activități recreative în aer liber.",
                   "category": "recreational",
                   "coords": [
                         24.99478,
                         59.450188
-                  ]
-            },
-            {
-                  "name": "Randvere ujumiskoht",
-                  "text": "Un loc de scăldat liniștit lângă coastă, utilizat de localnici pentru recreere pe malul apei.",
-                  "category": "recreational",
-                  "coords": [
-                        24.920915,
-                        59.501359
                   ]
             }
       ],
@@ -17260,15 +18197,6 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Kallavere sihi ülemine tulepaak",
-                  "text": "The upper lighthouse beacon of the leading line in Muuga Harbour.",
-                  "category": "landmark",
-                  "coords": [
-                        25.023896,
-                        59.49061
-                  ]
-            },
-            {
                   "name": "Muuga söeterminali kanali tulepaak",
                   "text": "A lighthouse for the coal terminal in Muuga Harbour.",
                   "category": "landmark",
@@ -17278,75 +18206,12 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Rootsi-Kallavere Village Museum",
-                  "text": "A museum dedicated to the history of Rootsi-Kallavere village.",
-                  "category": "museum",
-                  "coords": [
-                        25.028792,
-                        59.489531
-                  ]
-            },
-            {
-                  "name": "Kabelikivi",
-                  "text": "One of the largest erratic boulders in Estonia, located near Muuga Harbour.",
-                  "category": "landmark",
-                  "coords": [
-                        24.948135,
-                        59.486929
-                  ]
-            },
-            {
-                  "name": "Merekarp",
-                  "text": "A local attraction in the Muuga Harbour area.",
-                  "category": "landmark",
-                  "coords": [
-                        25.004593,
-                        59.46289
-                  ]
-            },
-            {
-                  "name": "Randvere church",
-                  "text": "A historic Lutheran church in Randvere, near Muuga.",
-                  "category": "religious",
-                  "coords": [
-                        24.908277,
-                        59.504308
-                  ]
-            },
-            {
-                  "name": "Church of Archangel Michael",
-                  "text": "An Orthodox church in Maardu, near the Muuga Harbour.",
-                  "category": "religious",
-                  "coords": [
-                        25.021103,
-                        59.485089
-                  ]
-            },
-            {
-                  "name": "Maardu järve vabaõhuujula",
-                  "text": "A public outdoor swimming area at Lake Maardu, serving as a popular spot for swimmers during summer months.",
-                  "category": "recreational",
-                  "coords": [
-                        24.997524,
-                        59.450853
-                  ]
-            },
-            {
                   "name": "Maardu järve ujumiskoht",
                   "text": "This lakeside swimming spot provides easy access to the water and space for outdoor leisure activities.",
                   "category": "recreational",
                   "coords": [
                         24.99478,
                         59.450188
-                  ]
-            },
-            {
-                  "name": "Randvere ujumiskoht",
-                  "text": "A quiet swimming spot near the coast, used by locals for relaxation by the water.",
-                  "category": "recreational",
-                  "coords": [
-                        24.920915,
-                        59.501359
                   ]
             }
       ]
@@ -17402,15 +18267,6 @@ export const estoniaNature: POI[] = [
     id: "port-paldiski-south", "sights": {
       "de": [
             {
-                  "name": "Amandus Adamsoni ateljeemuuseum",
-                  "text": "Ein Atelier und Museum, das dem estnischen Bildhauer Amandus Adamson in Paldiski gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        24.061414,
-                        59.349268
-                  ]
-            },
-            {
                   "name": "Paldiski Põhjasadama läänemuuli tulepaak",
                   "text": "Ein Leuchtfeuer an der Westmole des Nordhafens von Paldiski.",
                   "category": "landmark",
@@ -17420,30 +18276,12 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Paldiski Lõunasadama sihi alumine tulepaak",
-                  "text": "Ein Navigationsfeuer im Südhafen von Paldiski.",
-                  "category": "landmark",
-                  "coords": [
-                        24.093817,
-                        59.331333
-                  ]
-            },
-            {
                   "name": "Paldiski Põhjasadama kai nr 1 tulepaak",
                   "text": "Ein Leuchtfeuer am Kai Nr. 1 des Nordhafens von Paldiski.",
                   "category": "landmark",
                   "coords": [
                         24.050903,
                         59.348234
-                  ]
-            },
-            {
-                  "name": "Paldiski Lõunasadama sihi ülemine tulepaak",
-                  "text": "Das obere Richtfeuer des Südhafens von Paldiski zur Navigation.",
-                  "category": "landmark",
-                  "coords": [
-                        24.098297,
-                        59.331937
                   ]
             },
             {
@@ -17476,15 +18314,6 @@ export const estoniaNature: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Amandus Adamsoni ateljeemuuseum",
-                  "text": "Amandus Adamson észt szobrászművésznek szentelt műterem és múzeum Paldiskiban.",
-                  "category": "museum",
-                  "coords": [
-                        24.061414,
-                        59.349268
-                  ]
-            },
-            {
                   "name": "Paldiski Põhjasadama läänemuuli tulepaak",
                   "text": "Világítótorony Paldiski északi kikötőjének nyugati mólóján.",
                   "category": "landmark",
@@ -17494,30 +18323,12 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Paldiski Lõunasadama sihi alumine tulepaak",
-                  "text": "Navigációs fényjelző Paldiski déli kikötőjében.",
-                  "category": "landmark",
-                  "coords": [
-                        24.093817,
-                        59.331333
-                  ]
-            },
-            {
                   "name": "Paldiski Põhjasadama kai nr 1 tulepaak",
                   "text": "Világítótorony Paldiski északi kikötőjének 1-es számú rakpartján.",
                   "category": "landmark",
                   "coords": [
                         24.050903,
                         59.348234
-                  ]
-            },
-            {
-                  "name": "Paldiski Lõunasadama sihi ülemine tulepaak",
-                  "text": "Paldiski déli kikötőjének felső irányfénye a navigációhoz.",
-                  "category": "landmark",
-                  "coords": [
-                        24.098297,
-                        59.331937
                   ]
             },
             {
@@ -17550,15 +18361,6 @@ export const estoniaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Amandus Adamsoni ateljeemuuseum",
-                  "text": "Un atelier și muzeu dedicat sculptorului estonian Amandus Adamson în Paldiski.",
-                  "category": "museum",
-                  "coords": [
-                        24.061414,
-                        59.349268
-                  ]
-            },
-            {
                   "name": "Paldiski Põhjasadama läänemuuli tulepaak",
                   "text": "Un far situat pe digul de vest al portului de nord din Paldiski.",
                   "category": "landmark",
@@ -17568,30 +18370,12 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Paldiski Lõunasadama sihi alumine tulepaak",
-                  "text": "Un far de navigație situat în portul de sud din Paldiski.",
-                  "category": "landmark",
-                  "coords": [
-                        24.093817,
-                        59.331333
-                  ]
-            },
-            {
                   "name": "Paldiski Põhjasadama kai nr 1 tulepaak",
                   "text": "Un far situat pe cheiul nr. 1 al portului de nord din Paldiski.",
                   "category": "landmark",
                   "coords": [
                         24.050903,
                         59.348234
-                  ]
-            },
-            {
-                  "name": "Paldiski Lõunasadama sihi ülemine tulepaak",
-                  "text": "Farul superior de direcție al portului de sud din Paldiski pentru navigație.",
-                  "category": "landmark",
-                  "coords": [
-                        24.098297,
-                        59.331937
                   ]
             },
             {
@@ -17624,15 +18408,6 @@ export const estoniaNature: POI[] = [
       ],
       "en": [
             {
-                  "name": "Amandus Adamson Museum",
-                  "text": "A studio and museum dedicated to the Estonian sculptor Amandus Adamson in Paldiski.",
-                  "category": "museum",
-                  "coords": [
-                        24.061414,
-                        59.349268
-                  ]
-            },
-            {
                   "name": "Paldiski Põhjasadama läänemuuli tulepaak",
                   "text": "A light beacon on the western mole of the Paldiski North Harbour.",
                   "category": "landmark",
@@ -17642,30 +18417,12 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Paldiski Lõunasadam ldg.l. front light beacon",
-                  "text": "A navigational light beacon located in the Paldiski South Harbour.",
-                  "category": "landmark",
-                  "coords": [
-                        24.093817,
-                        59.331333
-                  ]
-            },
-            {
                   "name": "Paldiski Põhjasadam quay No 1 light beacon",
                   "text": "A light beacon on quay No 1 of the Paldiski North Harbour.",
                   "category": "landmark",
                   "coords": [
                         24.050903,
                         59.348234
-                  ]
-            },
-            {
-                  "name": "Paldiski Lõunasadama sihi ülemine tulepaak",
-                  "text": "The upper leading light beacon of the Paldiski South Harbour for navigation.",
-                  "category": "landmark",
-                  "coords": [
-                        24.098297,
-                        59.331937
                   ]
             },
             {
@@ -22030,15 +22787,6 @@ export const estoniaNature: POI[] = [
     id: "ee-r2big-purtse-castle", "sights": {
       "de": [
             {
-                  "name": "Purtse kindlus",
-                  "text": "Eine gut erhaltene mittelalterliche Vasallenfestung, die heute als Kulturzentrum dient.",
-                  "category": "castle",
-                  "coords": [
-                        27.01299,
-                        59.419059
-                  ]
-            },
-            {
                   "name": "Moldova tulepaak",
                   "text": "Ein kleines Bakenfeuer an der estnischen Küste nahe der Burg Purtse.",
                   "category": "landmark",
@@ -22058,15 +22806,6 @@ export const estoniaNature: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Purtse kindlus",
-                  "text": "Jó állapotban fennmaradt középkori hűbéri vár, amely ma kulturális központként működik.",
-                  "category": "castle",
-                  "coords": [
-                        27.01299,
-                        59.419059
-                  ]
-            },
             {
                   "name": "Moldova tulepaak",
                   "text": "Kisméretű irányfény az észt tengerparton, a purtsei vár közelében.",
@@ -22088,15 +22827,6 @@ export const estoniaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Purtse kindlus",
-                  "text": "O fortăreață medievală bine conservată, care astăzi servește ca centru cultural.",
-                  "category": "castle",
-                  "coords": [
-                        27.01299,
-                        59.419059
-                  ]
-            },
-            {
                   "name": "Moldova tulepaak",
                   "text": "Un mic far de coastă pe litoralul estonian, în apropierea castelului Purtse.",
                   "category": "landmark",
@@ -22116,15 +22846,6 @@ export const estoniaNature: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Purtse kindlus",
-                  "text": "A well-preserved medieval vassal fortress that now serves as a cultural center.",
-                  "category": "castle",
-                  "coords": [
-                        27.01299,
-                        59.419059
-                  ]
-            },
             {
                   "name": "Moldova tulepaak",
                   "text": "A small coastal beacon located on the Estonian coast near Purtse Castle.",
@@ -22492,15 +23213,6 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Pühajärve",
-                  "text": "Ein schöner Badestrand am Pühajärv-See, der als einer der schönsten Seen Estlands gilt.",
-                  "category": "recreational",
-                  "coords": [
-                        26.46863,
-                        58.043469
-                  ]
-            },
-            {
                   "name": "Kastolatsi Neitsi Maarja Rõõmukuulutamise kirik",
                   "text": "Die Ruinen einer orthodoxen Kirche aus dem 19. Jahrhundert in der Nähe von Pühajärv.",
                   "category": "historical",
@@ -22563,15 +23275,6 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         26.509066,
                         58.053536
-                  ]
-            },
-            {
-                  "name": "Pühajärve",
-                  "text": "Egy szép strand a Pühajärv-tónál, amelyet Észtország egyik legszebb tavának tartanak.",
-                  "category": "recreational",
-                  "coords": [
-                        26.46863,
-                        58.043469
                   ]
             },
             {
@@ -22640,15 +23343,6 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Pühajärve",
-                  "text": "O plajă frumoasă pe malul lacului Pühajärv, considerat unul dintre cele mai frumoase lacuri din Estonia.",
-                  "category": "recreational",
-                  "coords": [
-                        26.46863,
-                        58.043469
-                  ]
-            },
-            {
                   "name": "Kastolatsi Neitsi Maarja Rõõmukuulutamise kirik",
                   "text": "Ruinele unei biserici ortodoxe din secolul al XIX-lea, situată lângă Pühajärv.",
                   "category": "historical",
@@ -22711,15 +23405,6 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         26.509066,
                         58.053536
-                  ]
-            },
-            {
-                  "name": "Pühajärve",
-                  "text": "A beautiful swimming beach on Lake Pühajärv, considered one of Estonia's most beautiful lakes.",
-                  "category": "recreational",
-                  "coords": [
-                        26.46863,
-                        58.043469
                   ]
             },
             {
@@ -22907,15 +23592,6 @@ export const estoniaNature: POI[] = [
                         21.812725,
                         58.382872
                   ]
-            },
-            {
-                  "name": "Jaan Tätte",
-                  "text": "Eine Sehenswürdigkeit auf Vilsandi, die mit dem bekannten estnischen Künstler Jaan Tätte verbunden ist.",
-                  "category": "landmark",
-                  "coords": [
-                        21.856361,
-                        58.385387
-                  ]
             }
       ],
       "hu": [
@@ -22935,15 +23611,6 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         21.812725,
                         58.382872
-                  ]
-            },
-            {
-                  "name": "Jaan Tätte",
-                  "text": "Nevezetesség Vilsandin, amely Jaan Tätte ismert észt művészhez kapcsolódik.",
-                  "category": "landmark",
-                  "coords": [
-                        21.856361,
-                        58.385387
                   ]
             }
       ],
@@ -22965,15 +23632,6 @@ export const estoniaNature: POI[] = [
                         21.812725,
                         58.382872
                   ]
-            },
-            {
-                  "name": "Jaan Tätte",
-                  "text": "O atracție pe Vilsandi asociată cu cunoscutul artist estonian Jaan Tätte.",
-                  "category": "landmark",
-                  "coords": [
-                        21.856361,
-                        58.385387
-                  ]
             }
       ],
       "en": [
@@ -22993,15 +23651,6 @@ export const estoniaNature: POI[] = [
                   "coords": [
                         21.812725,
                         58.382872
-                  ]
-            },
-            {
-                  "name": "Jaan Tätte",
-                  "text": "An attraction on Vilsandi associated with the well-known Estonian artist Jaan Tätte.",
-                  "category": "landmark",
-                  "coords": [
-                        21.856361,
-                        58.385387
                   ]
             }
       ]
@@ -23545,39 +24194,12 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Eesti Pressimuuseum",
-                  "text": "Dieses Museum widmet sich der Geschichte des estnischen Pressewesens.",
-                  "category": "museum",
-                  "coords": [
-                        25.967489,
-                        58.654411
-                  ]
-            },
-            {
                   "name": "Põltsamaa Aleksandrikooli muuseumituba",
                   "text": "Ein Museumszimmer, das der Geschichte der ersten estnischen höheren Schule gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         25.980859,
                         58.631232
-                  ]
-            },
-            {
-                  "name": "Põltsamaa supelrand",
-                  "text": "Ein öffentlicher Badestrand am Fluss Põltsamaa für sommerliche Erholung.",
-                  "category": "recreational",
-                  "coords": [
-                        25.971767,
-                        58.654873
-                  ]
-            },
-            {
-                  "name": "Uue-Põltsamaa mõisa park",
-                  "text": "Ein weitläufiger Park, der zum historischen Herrenhaus von Uue-Põltsamaa gehört.",
-                  "category": "park",
-                  "coords": [
-                        25.969766,
-                        58.658408
                   ]
             }
       ],
@@ -23592,39 +24214,12 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Eesti Pressimuuseum",
-                  "text": "Ez a múzeum az észt sajtó történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        25.967489,
-                        58.654411
-                  ]
-            },
-            {
                   "name": "Põltsamaa Aleksandrikooli muuseumituba",
                   "text": "Az első észt felsőbb iskola történetének szentelt múzeumszoba.",
                   "category": "museum",
                   "coords": [
                         25.980859,
                         58.631232
-                  ]
-            },
-            {
-                  "name": "Põltsamaa supelrand",
-                  "text": "Nyilvános strand a Põltsamaa-folyónál a nyári kikapcsolódáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        25.971767,
-                        58.654873
-                  ]
-            },
-            {
-                  "name": "Uue-Põltsamaa mõisa park",
-                  "text": "Az új-põltsamaai uradalomhoz tartozó tágas park.",
-                  "category": "park",
-                  "coords": [
-                        25.969766,
-                        58.658408
                   ]
             }
       ],
@@ -23639,39 +24234,12 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Eesti Pressimuuseum",
-                  "text": "Acest muzeu este dedicat istoriei presei estoniene.",
-                  "category": "museum",
-                  "coords": [
-                        25.967489,
-                        58.654411
-                  ]
-            },
-            {
                   "name": "Põltsamaa Aleksandrikooli muuseumituba",
                   "text": "O cameră muzeală dedicată istoriei primei școli superioare estoniene.",
                   "category": "museum",
                   "coords": [
                         25.980859,
                         58.631232
-                  ]
-            },
-            {
-                  "name": "Põltsamaa supelrand",
-                  "text": "O plajă publică pe râul Põltsamaa pentru recreere de vară.",
-                  "category": "recreational",
-                  "coords": [
-                        25.971767,
-                        58.654873
-                  ]
-            },
-            {
-                  "name": "Uue-Põltsamaa mõisa park",
-                  "text": "Un parc vast care aparține conacului istoric Uue-Põltsamaa.",
-                  "category": "park",
-                  "coords": [
-                        25.969766,
-                        58.658408
                   ]
             }
       ],
@@ -23686,39 +24254,12 @@ export const estoniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Estonian Press Museum",
-                  "text": "This museum is dedicated to the history of the Estonian press.",
-                  "category": "museum",
-                  "coords": [
-                        25.967489,
-                        58.654411
-                  ]
-            },
-            {
                   "name": "Põltsamaa Aleksandrikooli muuseumituba",
                   "text": "A museum room dedicated to the history of the first Estonian higher school.",
                   "category": "museum",
                   "coords": [
                         25.980859,
                         58.631232
-                  ]
-            },
-            {
-                  "name": "Põltsamaa beach",
-                  "text": "A public bathing beach on the Põltsamaa River for summer recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        25.971767,
-                        58.654873
-                  ]
-            },
-            {
-                  "name": "Uue-Põltsamaa mõisa park",
-                  "text": "A spacious park belonging to the historic Uue-Põltsamaa manor.",
-                  "category": "park",
-                  "coords": [
-                        25.969766,
-                        58.658408
                   ]
             }
       ]

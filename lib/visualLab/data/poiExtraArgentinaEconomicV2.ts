@@ -5838,24 +5838,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Virgen del Rosario de San Nicolás",
-                  "text": "Ein bedeutendes Marienheiligtum in San Nicolás, das an die berichteten Marienerscheinungen von 1983 erinnert.",
-                  "category": "religious",
-                  "coords": [
-                        -60.22385,
-                        -33.322544
-                  ]
-            },
-            {
-                  "name": "Centro Tradicionalista José Hernández",
-                  "text": "Ein Kunstzentrum in San Nicolás, das der traditionellen argentinischen Kultur gewidmet und nach dem Autor von Martín Fierro benannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        -60.219389,
-                        -33.327124
-                  ]
-            },
-            {
                   "name": "Museo Nacional Casa del Acuerdo",
                   "text": "Ein national geschütztes Museum in dem historischen Gebäude, in dem 1852 das Abkommen von San Nicolás unterzeichnet wurde.",
                   "category": "museum",
@@ -5865,39 +5847,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Barco \"Irupé\"",
-                  "text": "Das Casa Barco „Irupé“ ist eine skurrile Bootshaus-Attraktion in der Nähe des Flusses in San Nicolás.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.221925,
-                        -33.323939
-                  ]
-            },
-            {
-                  "name": "Monumento al Coronel de Marina Juan Bautista Azopardo",
-                  "text": "Ein national geschütztes Denkmal in San Nicolás zu Ehren des Seehelden Juan Bautista Azopardo.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.212818,
-                        -33.328329
-                  ]
-            },
-            {
                   "name": "La Horqueta",
                   "text": "La Horqueta ist ein markanter natürlicher geografischer Punkt oder eine Weggabelung in der Landschaft bei San Nicolás.",
                   "category": "landmark",
                   "coords": [
                         -60.252263,
                         -33.275609
-                  ]
-            },
-            {
-                  "name": "Anfiteatro Costanero San Nicolás",
-                  "text": "Ein Freiluft-Amphitheater am Wasser, in dem öffentliche Aufführungen und Veranstaltungen an der Küste von San Nicolás stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        -60.223176,
-                        -33.32082
                   ]
             },
             {
@@ -5925,24 +5880,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -60.207422,
                         -33.298909
-                  ]
-            },
-            {
-                  "name": "Playadita Club Regatas",
-                  "text": "Playadita Club Regatas ist ein kleiner Strandbereich, der vom örtlichen Regattaclub in San Nicolás gepflegt wird.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.213937,
-                        -33.326795
-                  ]
-            },
-            {
-                  "name": "Anfiteatro",
-                  "text": "Ein lokales Freiluft-Amphitheater, das für Gemeindetreffen und kulturelle Aufführungen in San Nicolás genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        -60.208765,
-                        -33.330326
                   ]
             },
             {
@@ -6038,24 +5975,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Virgen del Rosario de San Nicolás",
-                  "text": "Egy jelentős Mária-kegyhely San Nicolásban, amely az 1983-as Mária-jelenéseknek állít emléket.",
-                  "category": "religious",
-                  "coords": [
-                        -60.22385,
-                        -33.322544
-                  ]
-            },
-            {
-                  "name": "Centro Tradicionalista José Hernández",
-                  "text": "A hagyományos argentin kultúrának szentelt művészeti központ San Nicolásban, amely a Martín Fierro szerzőjéről kapta a nevét.",
-                  "category": "cultural",
-                  "coords": [
-                        -60.219389,
-                        -33.327124
-                  ]
-            },
-            {
                   "name": "Museo Nacional Casa del Acuerdo",
                   "text": "Egy országosan védett műemlék múzeum abban a történelmi épületben, ahol az 1852-es San Nicolás-i megállapodást aláírták.",
                   "category": "museum",
@@ -6065,39 +5984,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Barco \"Irupé\"",
-                  "text": "A Casa Barco \"Irupé\" egy különleges, csónakház jellegű látványosság a folyó közelében San Nicolásban.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.221925,
-                        -33.323939
-                  ]
-            },
-            {
-                  "name": "Monumento al Coronel de Marina Juan Bautista Azopardo",
-                  "text": "Országos védelem alatt álló műemlék San Nicolásban, amely Juan Bautista Azopardo haditengerészeti hős előtt tiszteleg.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.212818,
-                        -33.328329
-                  ]
-            },
-            {
                   "name": "La Horqueta",
                   "text": "A La Horqueta egy figyelemre méltó természetes földrajzi pont vagy táji elágazás San Nicolás közelében.",
                   "category": "landmark",
                   "coords": [
                         -60.252263,
                         -33.275609
-                  ]
-            },
-            {
-                  "name": "Anfiteatro Costanero San Nicolás",
-                  "text": "Egy vízparti szabadtéri amfiteátrum, amely nyilvános előadásoknak és rendezvényeknek ad otthont a San Nicolás-i parton.",
-                  "category": "cultural",
-                  "coords": [
-                        -60.223176,
-                        -33.32082
                   ]
             },
             {
@@ -6125,24 +6017,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -60.207422,
                         -33.298909
-                  ]
-            },
-            {
-                  "name": "Playadita Club Regatas",
-                  "text": "A Playadita Club Regatas egy kis strand, amelyet a helyi regatta klub tart fenn San Nicolásban.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.213937,
-                        -33.326795
-                  ]
-            },
-            {
-                  "name": "Anfiteatro",
-                  "text": "Egy helyi szabadtéri amfiteátrum, amelyet közösségi összejövetelekre és kulturális előadásokra használnak San Nicolásban.",
-                  "category": "cultural",
-                  "coords": [
-                        -60.208765,
-                        -33.330326
                   ]
             },
             {
@@ -6238,24 +6112,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Virgen del Rosario de San Nicolás",
-                  "text": "Un altar marian major din San Nicolás care comemorează aparițiile raportate ale Fecioarei Maria din 1983.",
-                  "category": "religious",
-                  "coords": [
-                        -60.22385,
-                        -33.322544
-                  ]
-            },
-            {
-                  "name": "Centro Tradicionalista José Hernández",
-                  "text": "Un centru de arte din San Nicolás dedicat culturii tradiționale argentiniene și numit după autorul cărții Martín Fierro.",
-                  "category": "cultural",
-                  "coords": [
-                        -60.219389,
-                        -33.327124
-                  ]
-            },
-            {
                   "name": "Museo Nacional Casa del Acuerdo",
                   "text": "Un muzeu de patrimoniu protejat la nivel național, găzduit în clădirea istorică în care a fost semnat Acordul de la San Nicolás din 1852.",
                   "category": "museum",
@@ -6265,39 +6121,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Barco \"Irupé\"",
-                  "text": "Casa Barco „Irupé” este o atracție inedită în formă de casă-barcă, situată în apropierea râului din San Nicolás.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.221925,
-                        -33.323939
-                  ]
-            },
-            {
-                  "name": "Monumento al Coronel de Marina Juan Bautista Azopardo",
-                  "text": "Un monument de patrimoniu protejat la nivel național în San Nicolás, care îl onorează pe eroul naval Juan Bautista Azopardo.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.212818,
-                        -33.328329
-                  ]
-            },
-            {
                   "name": "La Horqueta",
                   "text": "La Horqueta este un punct geografic natural sau o bifurcație în peisajul din apropiere de San Nicolás.",
                   "category": "landmark",
                   "coords": [
                         -60.252263,
                         -33.275609
-                  ]
-            },
-            {
-                  "name": "Anfiteatro Costanero San Nicolás",
-                  "text": "Un amfiteatru în aer liber pe malul apei care găzduiește spectacole și evenimente publice de-a lungul coastei San Nicolás.",
-                  "category": "cultural",
-                  "coords": [
-                        -60.223176,
-                        -33.32082
                   ]
             },
             {
@@ -6325,24 +6154,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -60.207422,
                         -33.298909
-                  ]
-            },
-            {
-                  "name": "Playadita Club Regatas",
-                  "text": "Playadita Club Regatas este o mică plajă întreținută de clubul de regate local din San Nicolás.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.213937,
-                        -33.326795
-                  ]
-            },
-            {
-                  "name": "Anfiteatro",
-                  "text": "Un amfiteatru local în aer liber folosit pentru adunări comunitare și spectacole culturale în San Nicolás.",
-                  "category": "cultural",
-                  "coords": [
-                        -60.208765,
-                        -33.330326
                   ]
             },
             {
@@ -6438,24 +6249,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Virgen del Rosario de San Nicolás",
-                  "text": "A major Marian shrine in San Nicolás commemorating the reported 1983 apparitions of the Virgin Mary.",
-                  "category": "religious",
-                  "coords": [
-                        -60.22385,
-                        -33.322544
-                  ]
-            },
-            {
-                  "name": "Centro Tradicionalista José Hernández",
-                  "text": "An arts center in San Nicolás dedicated to traditional Argentine culture and named after the author of Martín Fierro.",
-                  "category": "cultural",
-                  "coords": [
-                        -60.219389,
-                        -33.327124
-                  ]
-            },
-            {
                   "name": "Museo Nacional Casa del Acuerdo",
                   "text": "A nationally protected heritage museum housed in the historic building where the 1852 San Nicolás Agreement was signed.",
                   "category": "museum",
@@ -6465,39 +6258,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Barco \"Irupé\"",
-                  "text": "The Casa Barco \"Irupé\" is a quirky boat-house attraction located near the river in San Nicolás.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.221925,
-                        -33.323939
-                  ]
-            },
-            {
-                  "name": "Monumento al Coronel de Marina Juan Bautista Azopardo",
-                  "text": "A nationally protected heritage monument in San Nicolás honoring the naval hero Juan Bautista Azopardo.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.212818,
-                        -33.328329
-                  ]
-            },
-            {
                   "name": "La Horqueta",
                   "text": "La Horqueta is a notable natural geographic point or fork in the landscape near San Nicolás.",
                   "category": "landmark",
                   "coords": [
                         -60.252263,
                         -33.275609
-                  ]
-            },
-            {
-                  "name": "Anfiteatro Costanero San Nicolás",
-                  "text": "An open-air waterfront amphitheater hosting public performances and events along the San Nicolás coast.",
-                  "category": "cultural",
-                  "coords": [
-                        -60.223176,
-                        -33.32082
                   ]
             },
             {
@@ -6525,24 +6291,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -60.207422,
                         -33.298909
-                  ]
-            },
-            {
-                  "name": "Playadita Club Regatas",
-                  "text": "Playadita Club Regatas is a small beach area maintained by the local regatta club in San Nicolás.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.213937,
-                        -33.326795
-                  ]
-            },
-            {
-                  "name": "Anfiteatro",
-                  "text": "A local outdoor amphitheater used for community gatherings and cultural performances in San Nicolás.",
-                  "category": "cultural",
-                  "coords": [
-                        -60.208765,
-                        -33.330326
                   ]
             },
             {
@@ -6779,15 +6527,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de las Gemas",
-                  "text": "Das Museo de las Gemas ist ein interessantes lokales Museum, das eine vielfältige Sammlung regionaler Mineralien und Halbedelsteine zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -65.042823,
-                        -42.776605
-                  ]
-            },
-            {
                   "name": "Ecocentro",
                   "text": "Das Ecocentro ist ein kulturelles und wissenschaftliches Museum, das sich der Interpretation der reichen marinen Ökosysteme des Patagonischen Meeres widmet.",
                   "category": "museum",
@@ -6803,15 +6542,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -65.031846,
                         -42.767907
-                  ]
-            },
-            {
-                  "name": "Museo Histórico \"Juan Meisen Ebene\"",
-                  "text": "Das Museo Histórico \"Juan Meisen Ebene\" bewahrt die Geschichte der Stadt mit historischen Artefakten und Dokumenten aus der frühen Eisenbahnära.",
-                  "category": "museum",
-                  "coords": [
-                        -65.040777,
-                        -42.765888
                   ]
             },
             {
@@ -6839,15 +6569,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -65.003996,
                         -42.784867
-                  ]
-            },
-            {
-                  "name": "Héroes Bomberos de 1994",
-                  "text": "Héroes Bomberos de 1994 ist ein feierliches Denkmal zu Ehren der mutigen freiwilligen Feuerwehrleute, die bei einem großen Flächenbrand ihr Leben verloren.",
-                  "category": "historical",
-                  "coords": [
-                        -65.03679,
-                        -42.767725
                   ]
             },
             {
@@ -7078,15 +6799,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de las Gemas",
-                  "text": "A Museo de las Gemas egy érdekes helyi múzeum, amely a regionális ásványok és féldrágakövek változatos gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -65.042823,
-                        -42.776605
-                  ]
-            },
-            {
                   "name": "Ecocentro",
                   "text": "Az Ecocentro egy kulturális és tudományos múzeum, amelyet a patagóniai tenger gazdag tengeri ökoszisztémáinak bemutatására hoztak létre.",
                   "category": "museum",
@@ -7102,15 +6814,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -65.031846,
                         -42.767907
-                  ]
-            },
-            {
-                  "name": "Museo Histórico \"Juan Meisen Ebene\"",
-                  "text": "A Museo Histórico \"Juan Meisen Ebene\" a város történetét őrzi a korai vasúti korszakból származó történelmi leletekkel és dokumentumokkal.",
-                  "category": "museum",
-                  "coords": [
-                        -65.040777,
-                        -42.765888
                   ]
             },
             {
@@ -7138,15 +6841,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -65.003996,
                         -42.784867
-                  ]
-            },
-            {
-                  "name": "Héroes Bomberos de 1994",
-                  "text": "A Héroes Bomberos de 1994 egy ünnepélyes emlékmű, amely a nagy vidéki tűzben életüket vesztett bátor önkéntes tűzoltók előtt tiszteleg.",
-                  "category": "historical",
-                  "coords": [
-                        -65.03679,
-                        -42.767725
                   ]
             },
             {
@@ -7377,15 +7071,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de las Gemas",
-                  "text": "Museo de las Gemas este un muzeu local interesant care prezintă o colecție diversă de minerale și pietre semiprețioase regionale.",
-                  "category": "museum",
-                  "coords": [
-                        -65.042823,
-                        -42.776605
-                  ]
-            },
-            {
                   "name": "Ecocentro",
                   "text": "Ecocentro este un muzeu cultural și științific dedicat interpretării bogatelor ecosisteme marine ale Mării Patagoniei.",
                   "category": "museum",
@@ -7401,15 +7086,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -65.031846,
                         -42.767907
-                  ]
-            },
-            {
-                  "name": "Museo Histórico \"Juan Meisen Ebene\"",
-                  "text": "Museo Histórico „Juan Meisen Ebene” păstrează istoria orașului cu artefacte istorice și documente din prima epocă feroviară.",
-                  "category": "museum",
-                  "coords": [
-                        -65.040777,
-                        -42.765888
                   ]
             },
             {
@@ -7437,15 +7113,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -65.003996,
                         -42.784867
-                  ]
-            },
-            {
-                  "name": "Héroes Bomberos de 1994",
-                  "text": "Héroes Bomberos de 1994 este un monument memorial solemn care onorează curajoșii pompieri voluntari care și-au pierdut viața într-un incendiu rural major.",
-                  "category": "historical",
-                  "coords": [
-                        -65.03679,
-                        -42.767725
                   ]
             },
             {
@@ -7676,15 +7343,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de las Gemas",
-                  "text": "The Museo de las Gemas is an interesting local museum showcasing a diverse collection of regional minerals and semi-precious stones.",
-                  "category": "museum",
-                  "coords": [
-                        -65.042823,
-                        -42.776605
-                  ]
-            },
-            {
                   "name": "Ecocentro",
                   "text": "The Ecocentro is a cultural and scientific museum dedicated to interpreting the rich marine ecosystems of the Patagonian Sea.",
                   "category": "museum",
@@ -7700,15 +7358,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -65.031846,
                         -42.767907
-                  ]
-            },
-            {
-                  "name": "Museo Histórico \"Juan Meisen Ebene\"",
-                  "text": "The Museo Histórico \"Juan Meisen Ebene\" preserves the history of the city with historical artifacts and documents from the early railway era.",
-                  "category": "museum",
-                  "coords": [
-                        -65.040777,
-                        -42.765888
                   ]
             },
             {
@@ -7736,15 +7385,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -65.003996,
                         -42.784867
-                  ]
-            },
-            {
-                  "name": "Héroes Bomberos de 1994",
-                  "text": "The Héroes Bomberos de 1994 is a solemn memorial monument honoring the courageous volunteer firefighters who lost their lives in a major rural fire.",
-                  "category": "historical",
-                  "coords": [
-                        -65.03679,
-                        -42.767725
                   ]
             },
             {
@@ -12957,15 +12597,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     id: "ypf-lujan-cuyo-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Museo Histórico Regional Americanista",
-                  "text": "Ein regionales Museum, das sich der Erhaltung des amerikanistischen historischen Erbes der Gegend von Luján de Cuyo widmet.",
-                  "category": "museum",
-                  "coords": [
-                        -68.892923,
-                        -33.035692
-                  ]
-            },
-            {
                   "name": "Mirador",
                   "text": "Eine landschaftlich reizvolle Aussichtsplattform mit herrlichem Blick auf die umliegende Landschaft.",
                   "category": "natural",
@@ -13120,15 +12751,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Museo Histórico Regional Americanista",
-                  "text": "Egy regionális múzeum, amely a Luján de Cuyo térség amerikanista történelmi örökségének megőrzésével foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        -68.892923,
-                        -33.035692
-                  ]
-            },
             {
                   "name": "Mirador",
                   "text": "Egy panorámás kilátóterasz, amely nagyszerű kilátást nyújt a környező tájra.",
@@ -13285,15 +12907,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Museo Histórico Regional Americanista",
-                  "text": "Un muzeu regional dedicat conservării patrimoniului istoric americanist din zona Luján de Cuyo.",
-                  "category": "museum",
-                  "coords": [
-                        -68.892923,
-                        -33.035692
-                  ]
-            },
-            {
                   "name": "Mirador",
                   "text": "O platformă de observație panoramică care oferă priveliști la înălțime asupra peisajului înconjurător.",
                   "category": "natural",
@@ -13448,15 +13061,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Museo Histórico Regional Americanista",
-                  "text": "A regional museum dedicated to preserving the Americanist historical heritage of the Luján de Cuyo area.",
-                  "category": "museum",
-                  "coords": [
-                        -68.892923,
-                        -33.035692
-                  ]
-            },
             {
                   "name": "Mirador",
                   "text": "A panoramic observation deck providing elevated views over the surrounding landscape.",
@@ -13649,15 +13253,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     id: "petrochemical-bahia-blanca-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Museo de Bellas Artes y Arte Contemporáneo",
-                  "text": "Dieses 1934 gegründete Museum beherbergt bedeutende Sammlungen der schönen und zeitgenössischen Künste.",
-                  "category": "museum",
-                  "coords": [
-                        -62.262285,
-                        -38.712982
-                  ]
-            },
-            {
                   "name": "Museo del Puerto",
                   "text": "Dieses Museum dokumentiert die maritime Geschichte und das Erbe des Ingeniero White Hafens.",
                   "category": "museum",
@@ -13673,42 +13268,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -62.261863,
                         -38.788635
-                  ]
-            },
-            {
-                  "name": "Catedral Nuestra Señora de la Merced",
-                  "text": "Diese Kathedrale ist der Barmherzigen Muttergottes geweiht und dient als zentrales Gotteshaus der Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        -62.266293,
-                        -38.716266
-                  ]
-            },
-            {
-                  "name": "Municipalidad de Bahía Blanca",
-                  "text": "In diesem Rathaus ist die Kommunalverwaltung von Bahía Blanca untergebracht.",
-                  "category": "historical",
-                  "coords": [
-                        -62.263908,
-                        -38.718437
-                  ]
-            },
-            {
-                  "name": "Parroquia del Corazón de María",
-                  "text": "Diese Pfarrkirche ist dem unbefleckten Herzen Mariä gewidmet.",
-                  "category": "religious",
-                  "coords": [
-                        -62.272472,
-                        -38.710473
-                  ]
-            },
-            {
-                  "name": "Teatro Municipal",
-                  "text": "Dieses städtische Theater ist ein wichtiges Zentrum für die darstellenden Künste.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.259797,
-                        -38.715052
                   ]
             },
             {
@@ -13730,39 +13289,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo y Parque Estereoscópico El Histórico",
-                  "text": "Ein einzigartiges Museum mit Park, das der Erhaltung stereoskopischer Fotografie und früher 3D-Bilder gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -62.273777,
-                        -38.724707
-                  ]
-            },
-            {
                   "name": "Museo de Ciencias",
                   "text": "Das 1996 gegründete Museum bietet interaktive Ausstellungen mit den Schwerpunkten Naturgeschichte und wissenschaftliche Phänomene.",
                   "category": "museum",
                   "coords": [
                         -62.31256,
                         -38.691997
-                  ]
-            },
-            {
-                  "name": "Casa Museo Ezequiel Martínez Estrada",
-                  "text": "Der ehemalige Wohnsitz des bedeutenden argentinischen Essayisten und Dichters Ezequiel Martínez Estrada, in dem heute seine Privatbibliothek aufbewahrt wird.",
-                  "category": "museum",
-                  "coords": [
-                        -62.267433,
-                        -38.70589
-                  ]
-            },
-            {
-                  "name": "Museo y Archivo Histórico Municipal",
-                  "text": "Dieses städtische Archiv und Museum bewahrt Dokumente, Fotografien und Artefakte auf, die die regionale Geschichte der Stadt dokumentieren.",
-                  "category": "museum",
-                  "coords": [
-                        -62.259017,
-                        -38.729064
                   ]
             },
             {
@@ -13775,39 +13307,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cañón Vuelta de Obligado",
-                  "text": "Dieses historische Kanonendenkmal erinnert an die Verteidigung der argentinischen Souveränität während der Schlacht von Vuelta de Obligado 1845.",
-                  "category": "historical",
-                  "coords": [
-                        -62.286104,
-                        -38.700933
-                  ]
-            },
-            {
-                  "name": "Colectividad Israelita",
-                  "text": "Ein Gedenkbau, der die kulturelle Integration und die historischen Beiträge der lokalen jüdischen Gemeinde feiert.",
-                  "category": "historical",
-                  "coords": [
-                        -62.26499,
-                        -38.717166
-                  ]
-            },
-            {
                   "name": "Monumento Cabo Alejandro Vergara",
                   "text": "Ein feierliches Steindenkmal zu Ehren des Militärdienstes und des Opfers von Korporal Alejandro Vergara.",
                   "category": "historical",
                   "coords": [
                         -62.219931,
                         -38.730051
-                  ]
-            },
-            {
-                  "name": "Monumento a León de Iraeta",
-                  "text": "Dieses öffentliche Denkmal ist eine Hommage an León de Iraeta, eine bedeutende Persönlichkeit in der historischen Entwicklung der Region.",
-                  "category": "historical",
-                  "coords": [
-                        -62.257137,
-                        -38.702077
                   ]
             },
             {
@@ -13820,15 +13325,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arcada Parque De Mayo",
-                  "text": "Ein großer neoklassizistischer Torbogen, der als monumentaler Haupteingang zu den Grünflächen des Parque de Mayo dient.",
-                  "category": "historical",
-                  "coords": [
-                        -62.271026,
-                        -38.701027
-                  ]
-            },
-            {
                   "name": "Plaza de las Banderas",
                   "text": "Ein gepflasterter Gedenkplatz mit einer Ausstellung mehrerer Flaggen, die verschiedene Nationen und Provinzen repräsentieren.",
                   "category": "historical",
@@ -13838,57 +13334,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Escuela de Artes Visuales",
-                  "text": "Ein lebendiges Ausbildungszentrum für Kunst mit Ateliers und Ausstellungsräumen für angehende lokale Maler und Bildhauer.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.264061,
-                        -38.712121
-                  ]
-            },
-            {
-                  "name": "Motor Colectivo",
-                  "text": "Ein unabhängiger Raum für Kunstkollektive, der alternative Workshops, Musikdarbietungen und zeitgenössische Ausstellungen veranstaltet.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.255791,
-                        -38.728928
-                  ]
-            },
-            {
                   "name": "Anfiteatro Tulio Angelozzi",
                   "text": "Ein steinernes Freiluft-Amphitheater, das für saisonale Gemeindetheaterstücke und Live-Musikkonzerte konzipiert wurde.",
                   "category": "cultural",
                   "coords": [
                         -62.26506,
                         -38.784662
-                  ]
-            },
-            {
-                  "name": "Teatro Don Bosco",
-                  "text": "Ein traditionelles Proszeniumstheater, das mit dem Salesianerorden verbunden ist und häufig für Schul- und klassische Aufführungen genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.271014,
-                        -38.718278
-                  ]
-            },
-            {
-                  "name": "Teatro Rossini Paradiso",
-                  "text": "Ein elegant gestaltetes Theater, das italienische Architekturelemente bewahrt und gleichzeitig dynamische darstellende Kunst auf die Bühne bringt.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.265782,
-                        -38.713941
-                  ]
-            },
-            {
-                  "name": "Teatro El Tablado",
-                  "text": "Ein intimes Theater im Black-Box-Stil, das sich stark auf die Förderung unabhängiger Dramen und lokaler Schauspielgruppen konzentriert.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.261725,
-                        -38.722424
                   ]
             },
             {
@@ -13966,15 +13417,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Museo de Bellas Artes y Arte Contemporáneo",
-                  "text": "Ez az 1934-ben alapított múzeum a képzőművészet és a kortárs művészet jelentős gyűjteményeinek ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        -62.262285,
-                        -38.712982
-                  ]
-            },
-            {
                   "name": "Museo del Puerto",
                   "text": "Ez a múzeum az Ingeniero White kikötő tengerészeti történetét és örökségét dokumentálja.",
                   "category": "museum",
@@ -13990,42 +13432,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -62.261863,
                         -38.788635
-                  ]
-            },
-            {
-                  "name": "Catedral Nuestra Señora de la Merced",
-                  "text": "Ezt a katedrálist az Irgalmas Szűzanyának szentelték, és a város központi istentiszteleti helyeként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        -62.266293,
-                        -38.716266
-                  ]
-            },
-            {
-                  "name": "Municipalidad de Bahía Blanca",
-                  "text": "Ez a városháza ad otthont Bahía Blanca helyi önkormányzatának.",
-                  "category": "historical",
-                  "coords": [
-                        -62.263908,
-                        -38.718437
-                  ]
-            },
-            {
-                  "name": "Parroquia del Corazón de María",
-                  "text": "Ezt a plébániatemplomot Mária szeplőtelen szívének szentelték.",
-                  "category": "religious",
-                  "coords": [
-                        -62.272472,
-                        -38.710473
-                  ]
-            },
-            {
-                  "name": "Teatro Municipal",
-                  "text": "Ez a városi színház az előadó-művészet fontos központja.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.259797,
-                        -38.715052
                   ]
             },
             {
@@ -14047,39 +13453,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo y Parque Estereoscópico El Histórico",
-                  "text": "Egyedülálló múzeum és park, amely a sztereoszkópikus fotózás és a korai 3D-s képek megőrzésének szenteli magát.",
-                  "category": "museum",
-                  "coords": [
-                        -62.273777,
-                        -38.724707
-                  ]
-            },
-            {
                   "name": "Museo de Ciencias",
                   "text": "Az 1996-ban alapított múzeum a természetrajzra és a tudományos jelenségekre fókuszáló interaktív kiállításokkal várja a látogatókat.",
                   "category": "museum",
                   "coords": [
                         -62.31256,
                         -38.691997
-                  ]
-            },
-            {
-                  "name": "Casa Museo Ezequiel Martínez Estrada",
-                  "text": "A neves argentin esszéíró és költő, Ezequiel Martínez Estrada egykori rezidenciája, amely ma személyes könyvtárát őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        -62.267433,
-                        -38.70589
-                  ]
-            },
-            {
-                  "name": "Museo y Archivo Histórico Municipal",
-                  "text": "Ez a városi levéltár és múzeum a város regionális történetét bemutató dokumentumokat, fényképeket és műtárgyakat őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        -62.259017,
-                        -38.729064
                   ]
             },
             {
@@ -14092,39 +13471,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cañón Vuelta de Obligado",
-                  "text": "Ez a történelmi ágyúemlékmű az argentin szuverenitás védelmének állít emléket az 1845-ös Vuelta de Obligado-i csata során.",
-                  "category": "historical",
-                  "coords": [
-                        -62.286104,
-                        -38.700933
-                  ]
-            },
-            {
-                  "name": "Colectividad Israelita",
-                  "text": "A helyi zsidó közösség kulturális integrációját és történelmi hozzájárulását ünneplő emlékmű.",
-                  "category": "historical",
-                  "coords": [
-                        -62.26499,
-                        -38.717166
-                  ]
-            },
-            {
                   "name": "Monumento Cabo Alejandro Vergara",
                   "text": "Egy ünnepélyes kőemlékmű, amely Alejandro Vergara tizedes katonai szolgálata és áldozatvállalása előtt tiszteleg.",
                   "category": "historical",
                   "coords": [
                         -62.219931,
                         -38.730051
-                  ]
-            },
-            {
-                  "name": "Monumento a León de Iraeta",
-                  "text": "Ez a köztéri emlékmű León de Iraeta, a régió történelmi fejlődésének egyik jelentős alakja előtt tiszteleg.",
-                  "category": "historical",
-                  "coords": [
-                        -62.257137,
-                        -38.702077
                   ]
             },
             {
@@ -14137,15 +13489,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arcada Parque De Mayo",
-                  "text": "Egy nagyszerű neoklasszicista boltív, amely a Parque de Mayo zöldterületeinek monumentális főbejárataként szolgál.",
-                  "category": "historical",
-                  "coords": [
-                        -62.271026,
-                        -38.701027
-                  ]
-            },
-            {
                   "name": "Plaza de las Banderas",
                   "text": "Egy kövezett emlék tér, ahol számos, különböző nemzeteket és tartományokat képviselő zászló látható.",
                   "category": "historical",
@@ -14155,57 +13498,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Escuela de Artes Visuales",
-                  "text": "Egy élénk oktatási művészeti központ, amely stúdiókat és kiállítótereket kínál a helyi feltörekvő festők és szobrászok számára.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.264061,
-                        -38.712121
-                  ]
-            },
-            {
-                  "name": "Motor Colectivo",
-                  "text": "Egy független művészeti kollektíva tere, amely alternatív workshopoknak, zenei előadásoknak és kortárs kiállításoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.255791,
-                        -38.728928
-                  ]
-            },
-            {
                   "name": "Anfiteatro Tulio Angelozzi",
                   "text": "Egy szabadtéri kőamfiteátrum, amelyet szezonális közösségi színdarabok és élő zenei koncertek rendezésére terveztek.",
                   "category": "cultural",
                   "coords": [
                         -62.26506,
                         -38.784662
-                  ]
-            },
-            {
-                  "name": "Teatro Don Bosco",
-                  "text": "A szalézi rendhez kapcsolódó hagyományos proszcéniumszínház, amely gyakran ad otthont iskolai és klasszikus produkcióknak.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.271014,
-                        -38.718278
-                  ]
-            },
-            {
-                  "name": "Teatro Rossini Paradiso",
-                  "text": "Egy elegánsan kialakított színház, amely megőrizte olaszos építészeti elemeit, miközben dinamikus előadóművészeti alkotásokat mutat be.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.265782,
-                        -38.713941
-                  ]
-            },
-            {
-                  "name": "Teatro El Tablado",
-                  "text": "Egy meghitt, black-box stílusú színház, amely erősen fókuszál a független dráma és a helyi színjátszó társulatok népszerűsítésére.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.261725,
-                        -38.722424
                   ]
             },
             {
@@ -14283,15 +13581,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Museo de Bellas Artes y Arte Contemporáneo",
-                  "text": "Fondat în 1934, acest muzeu găzduiește colecții semnificative de arte plastice și contemporane.",
-                  "category": "museum",
-                  "coords": [
-                        -62.262285,
-                        -38.712982
-                  ]
-            },
-            {
                   "name": "Museo del Puerto",
                   "text": "Acest muzeu documentează istoria maritimă și moștenirea portului Ingeniero White.",
                   "category": "museum",
@@ -14307,42 +13596,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -62.261863,
                         -38.788635
-                  ]
-            },
-            {
-                  "name": "Catedral Nuestra Señora de la Merced",
-                  "text": "Această catedrală este închinată Maicii Domnului a Milei și servește drept lăcaș central de cult al orașului.",
-                  "category": "religious",
-                  "coords": [
-                        -62.266293,
-                        -38.716266
-                  ]
-            },
-            {
-                  "name": "Municipalidad de Bahía Blanca",
-                  "text": "Această primărie găzduiește administrația locală din Bahía Blanca.",
-                  "category": "historical",
-                  "coords": [
-                        -62.263908,
-                        -38.718437
-                  ]
-            },
-            {
-                  "name": "Parroquia del Corazón de María",
-                  "text": "Această biserică parohială este dedicată Inimii Neprihănite a Mariei.",
-                  "category": "religious",
-                  "coords": [
-                        -62.272472,
-                        -38.710473
-                  ]
-            },
-            {
-                  "name": "Teatro Municipal",
-                  "text": "Acest teatru municipal este un centru important pentru artele spectacolului.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.259797,
-                        -38.715052
                   ]
             },
             {
@@ -14364,39 +13617,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo y Parque Estereoscópico El Histórico",
-                  "text": "Un muzeu și parc unic dedicat conservării fotografiei stereoscopice și imaginilor 3D timpurii.",
-                  "category": "museum",
-                  "coords": [
-                        -62.273777,
-                        -38.724707
-                  ]
-            },
-            {
                   "name": "Museo de Ciencias",
                   "text": "Înființat în 1996, acest muzeu prezintă expoziții interactive axate pe istoria naturală și fenomene științifice.",
                   "category": "museum",
                   "coords": [
                         -62.31256,
                         -38.691997
-                  ]
-            },
-            {
-                  "name": "Casa Museo Ezequiel Martínez Estrada",
-                  "text": "Fosta reședință a proeminentului eseist și poet argentinian Ezequiel Martínez Estrada, care astăzi îi păstrează biblioteca personală.",
-                  "category": "museum",
-                  "coords": [
-                        -62.267433,
-                        -38.70589
-                  ]
-            },
-            {
-                  "name": "Museo y Archivo Histórico Municipal",
-                  "text": "Această arhivă și muzeu municipal protejează documente, fotografii și artefacte care detaliază istoria regională a orașului.",
-                  "category": "museum",
-                  "coords": [
-                        -62.259017,
-                        -38.729064
                   ]
             },
             {
@@ -14409,39 +13635,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cañón Vuelta de Obligado",
-                  "text": "Acest monument istoric cu tun comemorează apărarea suveranității Argentinei în timpul bătăliei de la Vuelta de Obligado din 1845.",
-                  "category": "historical",
-                  "coords": [
-                        -62.286104,
-                        -38.700933
-                  ]
-            },
-            {
-                  "name": "Colectividad Israelita",
-                  "text": "O structură comemorativă care celebrează integrarea culturală și contribuțiile istorice ale comunității evreiești locale.",
-                  "category": "historical",
-                  "coords": [
-                        -62.26499,
-                        -38.717166
-                  ]
-            },
-            {
                   "name": "Monumento Cabo Alejandro Vergara",
                   "text": "Un memorial solemn din piatră care onorează serviciul militar și sacrificiul caporalului Alejandro Vergara.",
                   "category": "historical",
                   "coords": [
                         -62.219931,
                         -38.730051
-                  ]
-            },
-            {
-                  "name": "Monumento a León de Iraeta",
-                  "text": "Acest monument public reprezintă un tribut adus lui León de Iraeta, o figură notabilă în dezvoltarea istorică a regiunii.",
-                  "category": "historical",
-                  "coords": [
-                        -62.257137,
-                        -38.702077
                   ]
             },
             {
@@ -14454,15 +13653,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arcada Parque De Mayo",
-                  "text": "O grandioasă arcadă neoclasică ce servește drept intrare monumentală principală spre spațiile verzi din Parque de Mayo.",
-                  "category": "historical",
-                  "coords": [
-                        -62.271026,
-                        -38.701027
-                  ]
-            },
-            {
                   "name": "Plaza de las Banderas",
                   "text": "O piață comemorativă pavată care prezintă o expunere de mai multe steaguri reprezentând diverse națiuni și provincii.",
                   "category": "historical",
@@ -14472,57 +13662,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Escuela de Artes Visuales",
-                  "text": "Un centru de artă educațional vibrant, care oferă studiouri și spații de expoziție pentru pictorii și sculptorii locali aspiranți.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.264061,
-                        -38.712121
-                  ]
-            },
-            {
-                  "name": "Motor Colectivo",
-                  "text": "Un spațiu independent de artă colectivă care găzduiește ateliere alternative, spectacole muzicale și expoziții contemporane.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.255791,
-                        -38.728928
-                  ]
-            },
-            {
                   "name": "Anfiteatro Tulio Angelozzi",
                   "text": "Un amfiteatru din piatră în aer liber, conceput pentru a găzdui piese de teatru comunitare sezoniere și concerte de muzică live.",
                   "category": "cultural",
                   "coords": [
                         -62.26506,
                         -38.784662
-                  ]
-            },
-            {
-                  "name": "Teatro Don Bosco",
-                  "text": "Un teatru tradițional cu avanscenă, asociat ordinului salezian, care găzduiește frecvent producții școlare și clasice.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.271014,
-                        -38.718278
-                  ]
-            },
-            {
-                  "name": "Teatro Rossini Paradiso",
-                  "text": "O sală de teatru cu un design elegant, care păstrează elemente arhitecturale italienești în timp ce pune în scenă arte interpretative dinamice.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.265782,
-                        -38.713941
-                  ]
-            },
-            {
-                  "name": "Teatro El Tablado",
-                  "text": "Un teatru intim în stil black-box, puternic axat pe promovarea teatrului independent și a trupelor locale de actori.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.261725,
-                        -38.722424
                   ]
             },
             {
@@ -14600,15 +13745,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Museo de Bellas Artes y Arte Contemporáneo",
-                  "text": "Founded in 1934, this museum houses significant collections of fine and contemporary arts.",
-                  "category": "museum",
-                  "coords": [
-                        -62.262285,
-                        -38.712982
-                  ]
-            },
-            {
                   "name": "Museo del Puerto",
                   "text": "This museum documents the maritime history and heritage of the Ingeniero White port.",
                   "category": "museum",
@@ -14624,42 +13760,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -62.261863,
                         -38.788635
-                  ]
-            },
-            {
-                  "name": "Catedral Nuestra Señora de la Merced",
-                  "text": "This cathedral is dedicated to Our Lady of Mercy and serves as the city's central place of worship.",
-                  "category": "religious",
-                  "coords": [
-                        -62.266293,
-                        -38.716266
-                  ]
-            },
-            {
-                  "name": "Municipalidad de Bahía Blanca",
-                  "text": "This town hall houses the local municipal government of Bahía Blanca.",
-                  "category": "historical",
-                  "coords": [
-                        -62.263908,
-                        -38.718437
-                  ]
-            },
-            {
-                  "name": "Parroquia del Corazón de María",
-                  "text": "This parish church is dedicated to the Immaculate Heart of Mary.",
-                  "category": "religious",
-                  "coords": [
-                        -62.272472,
-                        -38.710473
-                  ]
-            },
-            {
-                  "name": "Teatro Municipal",
-                  "text": "This municipal theatre is an important center for the performing arts.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.259797,
-                        -38.715052
                   ]
             },
             {
@@ -14681,39 +13781,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo y Parque Estereoscópico El Histórico",
-                  "text": "A unique museum and park dedicated to the preservation of stereoscopic photography and early 3D imagery.",
-                  "category": "museum",
-                  "coords": [
-                        -62.273777,
-                        -38.724707
-                  ]
-            },
-            {
                   "name": "Museo de Ciencias",
                   "text": "Established in 1996, this museum features interactive exhibits focused on natural history and scientific phenomena.",
                   "category": "museum",
                   "coords": [
                         -62.31256,
                         -38.691997
-                  ]
-            },
-            {
-                  "name": "Casa Museo Ezequiel Martínez Estrada",
-                  "text": "The former residence of the prominent Argentine essayist and poet Ezequiel Martínez Estrada, now preserving his personal library.",
-                  "category": "museum",
-                  "coords": [
-                        -62.267433,
-                        -38.70589
-                  ]
-            },
-            {
-                  "name": "Museo y Archivo Histórico Municipal",
-                  "text": "This municipal archive and museum safeguards documents, photographs, and artifacts detailing the regional history of the city.",
-                  "category": "museum",
-                  "coords": [
-                        -62.259017,
-                        -38.729064
                   ]
             },
             {
@@ -14726,39 +13799,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cañón Vuelta de Obligado",
-                  "text": "This historic cannon monument commemorates the defense of Argentine sovereignty during the 1845 Battle of Vuelta de Obligado.",
-                  "category": "historical",
-                  "coords": [
-                        -62.286104,
-                        -38.700933
-                  ]
-            },
-            {
-                  "name": "Colectividad Israelita",
-                  "text": "A commemorative structure celebrating the cultural integration and historical contributions of the local Jewish community.",
-                  "category": "historical",
-                  "coords": [
-                        -62.26499,
-                        -38.717166
-                  ]
-            },
-            {
                   "name": "Monumento Cabo Alejandro Vergara",
                   "text": "A solemn stone memorial honoring the military service and sacrifice of Corporal Alejandro Vergara.",
                   "category": "historical",
                   "coords": [
                         -62.219931,
                         -38.730051
-                  ]
-            },
-            {
-                  "name": "Monumento a León de Iraeta",
-                  "text": "This public monument stands as a tribute to León de Iraeta, a notable figure in the region's historical development.",
-                  "category": "historical",
-                  "coords": [
-                        -62.257137,
-                        -38.702077
                   ]
             },
             {
@@ -14771,15 +13817,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arcada Parque De Mayo",
-                  "text": "A grand neoclassical archway that serves as the monumental main entrance to the green spaces of Parque de Mayo.",
-                  "category": "historical",
-                  "coords": [
-                        -62.271026,
-                        -38.701027
-                  ]
-            },
-            {
                   "name": "Plaza de las Banderas",
                   "text": "A paved commemorative plaza featuring a display of multiple flags representing diverse nations and provinces.",
                   "category": "historical",
@@ -14789,57 +13826,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Escuela de Artes Visuales",
-                  "text": "A vibrant educational arts center offering studios and exhibition spaces for local aspiring painters and sculptors.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.264061,
-                        -38.712121
-                  ]
-            },
-            {
-                  "name": "Motor Colectivo",
-                  "text": "An independent arts collective space hosting alternative workshops, music performances, and contemporary exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.255791,
-                        -38.728928
-                  ]
-            },
-            {
                   "name": "Anfiteatro Tulio Angelozzi",
                   "text": "An open-air stone amphitheater designed for hosting seasonal community plays and live musical concerts.",
                   "category": "cultural",
                   "coords": [
                         -62.26506,
                         -38.784662
-                  ]
-            },
-            {
-                  "name": "Teatro Don Bosco",
-                  "text": "A traditional proscenium theater associated with the Salesian order, frequently hosting school and classical productions.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.271014,
-                        -38.718278
-                  ]
-            },
-            {
-                  "name": "Teatro Rossini Paradiso",
-                  "text": "An elegantly designed theater venue preserving Italianate architectural elements while staging dynamic performing arts.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.265782,
-                        -38.713941
-                  ]
-            },
-            {
-                  "name": "Teatro El Tablado",
-                  "text": "An intimate, black-box style theater heavily focused on promoting independent drama and local acting troupes.",
-                  "category": "cultural",
-                  "coords": [
-                        -62.261725,
-                        -38.722424
                   ]
             },
             {
@@ -16965,57 +15957,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
     id: "comodoro-rivadavia-port-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Museo Ferroportuario",
-                  "text": "Das Museum befindet sich im ehemaligen Bahnhofsgebäude und dokumentiert die Eisenbahn- und Hafengeschichte der Stadt.",
-                  "category": "museum",
-                  "coords": [
-                        -67.478283,
-                        -45.862743
-                  ]
-            },
-            {
-                  "name": "General José de San Martín",
-                  "text": "Ein Denkmal zu Ehren von José de San Martín, dem berühmten argentinischen General und Unabhängigkeitskämpfer.",
-                  "category": "historical",
-                  "coords": [
-                        -67.482016,
-                        -45.865238
-                  ]
-            },
-            {
-                  "name": "Catedral de Comodoro Rivadavia",
-                  "text": "Eine moderne katholische Kathedrale, die dem Heiligen Johannes Bosco gewidmet ist und als Sitz der lokalen Diözese dient.",
-                  "category": "religious",
-                  "coords": [
-                        -67.485191,
-                        -45.862258
-                  ]
-            },
-            {
-                  "name": "Chenque",
-                  "text": "Dieser markante, 212 Meter hohe Hügel teilt das Stadtbild von Comodoro Rivadavia auf dramatische Weise.",
-                  "category": "natural",
-                  "coords": [
-                        -67.479746,
-                        -45.856516
-                  ]
-            },
-            {
                   "name": "Museo Nacional del Petróleo",
                   "text": "Das Museum wurde rund um das historische Bohrloch Nr. 2 errichtet, wo 1907 erstmals in Argentinien Öl entdeckt wurde.",
                   "category": "museum",
                   "coords": [
                         -67.480964,
                         -45.837161
-                  ]
-            },
-            {
-                  "name": "Museo Regional Patagónico “Profesor Antonio Garcés”",
-                  "text": "Ein regionales Museum, das umfangreiche Sammlungen zur patagonischen Paläontologie, Archäologie und Lokalgeschichte ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        -67.490363,
-                        -45.862288
                   ]
             },
             {
@@ -17052,15 +15999,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -67.450648,
                         -45.808379
-                  ]
-            },
-            {
-                  "name": "Hommage a los Colonos Galeses",
-                  "text": "Ein Denkmal, das den walisischen Einwanderern des 19. Jahrhunderts gedenkt, die Patagonien besiedelten.",
-                  "category": "historical",
-                  "coords": [
-                        -67.486462,
-                        -45.862323
                   ]
             },
             {
@@ -17289,15 +16227,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mirador Cerro Chenque",
-                  "text": "Dieser Aussichtspunkt auf dem markanten Hügel Cerro Chenque bietet einen weiten Blick auf die Stadt und den Golf von San Jorge.",
-                  "category": "natural",
-                  "coords": [
-                        -67.485044,
-                        -45.857044
-                  ]
-            },
-            {
                   "name": "Km 3",
                   "text": "Ein Küstenresort und Wohngebiet, lokal als General Mosconi bekannt, das nördlich des Stadtzentrums liegt.",
                   "category": "recreational",
@@ -17309,57 +16238,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Museo Ferroportuario",
-                  "text": "A múzeum az egykori vasútállomás épületében található, és a város vasút- és kikötőtörténetét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        -67.478283,
-                        -45.862743
-                  ]
-            },
-            {
-                  "name": "General José de San Martín",
-                  "text": "Emlékmű José de San Martín, a híres argentin tábornok és függetlenségi hős tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        -67.482016,
-                        -45.865238
-                  ]
-            },
-            {
-                  "name": "Catedral de Comodoro Rivadavia",
-                  "text": "A helyi egyházmegye székhelyeként szolgáló, Bosco Szent Jánosnak szentelt modern katolikus katedrális.",
-                  "category": "religious",
-                  "coords": [
-                        -67.485191,
-                        -45.862258
-                  ]
-            },
-            {
-                  "name": "Chenque",
-                  "text": "Ez az ikonikus, 212 méter magas domb drámaian kettészeli Comodoro Rivadavia városképét.",
-                  "category": "natural",
-                  "coords": [
-                        -67.479746,
-                        -45.856516
-                  ]
-            },
-            {
                   "name": "Museo Nacional del Petróleo",
                   "text": "A múzeum a történelmi 2-es számú kút körül épült, ahol 1907-ben először fedeztek fel olajat Argentínában.",
                   "category": "museum",
                   "coords": [
                         -67.480964,
                         -45.837161
-                  ]
-            },
-            {
-                  "name": "Museo Regional Patagónico “Profesor Antonio Garcés”",
-                  "text": "A patagóniai őslénytant, régészetet és helytörténetet bemutató gazdag gyűjteménnyel rendelkező regionális múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -67.490363,
-                        -45.862288
                   ]
             },
             {
@@ -17396,15 +16280,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -67.450648,
                         -45.808379
-                  ]
-            },
-            {
-                  "name": "Hommage a los Colonos Galeses",
-                  "text": "Emlékmű, amely a Patagóniát a 19. században benépesítő walesi bevándorlóknak állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        -67.486462,
-                        -45.862323
                   ]
             },
             {
@@ -17633,15 +16508,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mirador Cerro Chenque",
-                  "text": "Az ikonikus Cerro Chenque dombon található kilátóból elsöprő kilátás nyílik a városra és a San Jorge-öbölre.",
-                  "category": "natural",
-                  "coords": [
-                        -67.485044,
-                        -45.857044
-                  ]
-            },
-            {
                   "name": "Km 3",
                   "text": "Egy tengerparti üdülő- és lakóövezet, amelyet helyben General Mosconi néven ismernek, a városközponttól északra.",
                   "category": "recreational",
@@ -17653,57 +16519,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Museo Ferroportuario",
-                  "text": "Situat în fosta clădire a gării, acest muzeu documentează istoria feroviară și portuară a orașului.",
-                  "category": "museum",
-                  "coords": [
-                        -67.478283,
-                        -45.862743
-                  ]
-            },
-            {
-                  "name": "General José de San Martín",
-                  "text": "Un monument dedicat lui José de San Martín, celebrul general argentinian și erou al independenței.",
-                  "category": "historical",
-                  "coords": [
-                        -67.482016,
-                        -45.865238
-                  ]
-            },
-            {
-                  "name": "Catedral de Comodoro Rivadavia",
-                  "text": "O catedrală catolică modernă dedicată Sfântului Ioan Bosco, care servește drept sediu al diecezei locale.",
-                  "category": "religious",
-                  "coords": [
-                        -67.485191,
-                        -45.862258
-                  ]
-            },
-            {
-                  "name": "Chenque",
-                  "text": "Acest deal emblematic de 212 metri înălțime domină și desparte dramatic peisajul urban al orașului.",
-                  "category": "natural",
-                  "coords": [
-                        -67.479746,
-                        -45.856516
-                  ]
-            },
-            {
                   "name": "Museo Nacional del Petróleo",
                   "text": "Muzeul este construit în jurul istoricului Puț nr. 2, unde s-a descoperit pentru prima dată petrol în Argentina în anul 1907.",
                   "category": "museum",
                   "coords": [
                         -67.480964,
                         -45.837161
-                  ]
-            },
-            {
-                  "name": "Museo Regional Patagónico “Profesor Antonio Garcés”",
-                  "text": "Un muzeu regional care expune colecții vaste de paleontologie, arheologie și istorie locală patagoniană.",
-                  "category": "museum",
-                  "coords": [
-                        -67.490363,
-                        -45.862288
                   ]
             },
             {
@@ -17740,15 +16561,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -67.450648,
                         -45.808379
-                  ]
-            },
-            {
-                  "name": "Hommage a los Colonos Galeses",
-                  "text": "Un monument care comemorează imigranții galezi din secolul al XIX-lea care s-au stabilit în Patagonia.",
-                  "category": "historical",
-                  "coords": [
-                        -67.486462,
-                        -45.862323
                   ]
             },
             {
@@ -17977,15 +16789,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mirador Cerro Chenque",
-                  "text": "Situat pe colina emblematică Cerro Chenque, acest punct de observație oferă vederi ample asupra orașului și a Golfului San Jorge.",
-                  "category": "natural",
-                  "coords": [
-                        -67.485044,
-                        -45.857044
-                  ]
-            },
-            {
                   "name": "Km 3",
                   "text": "O stațiune de coastă și o zonă rezidențială, cunoscută local sub numele de General Mosconi, situată la nord de centrul orașului.",
                   "category": "recreational",
@@ -17997,57 +16800,12 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Museo Ferroportuario",
-                  "text": "Housed in the former railway station building, this museum documents the city's railway and port history.",
-                  "category": "museum",
-                  "coords": [
-                        -67.478283,
-                        -45.862743
-                  ]
-            },
-            {
-                  "name": "General José de San Martín",
-                  "text": "A monument honoring José de San Martín, the celebrated Argentine general and independence leader.",
-                  "category": "historical",
-                  "coords": [
-                        -67.482016,
-                        -45.865238
-                  ]
-            },
-            {
-                  "name": "Catedral de Comodoro Rivadavia",
-                  "text": "A modern Catholic cathedral dedicated to Saint John Bosco, serving as the seat of the local diocese.",
-                  "category": "religious",
-                  "coords": [
-                        -67.485191,
-                        -45.862258
-                  ]
-            },
-            {
-                  "name": "Chenque",
-                  "text": "This iconic 212-metre-high hill dramatically divides the urban landscape of the city.",
-                  "category": "natural",
-                  "coords": [
-                        -67.479746,
-                        -45.856516
-                  ]
-            },
-            {
                   "name": "Museo Nacional del Petróleo",
                   "text": "This museum is built around the historic Well No. 2, where oil was first discovered in Argentina in 1907.",
                   "category": "museum",
                   "coords": [
                         -67.480964,
                         -45.837161
-                  ]
-            },
-            {
-                  "name": "Museo Regional Patagónico “Profesor Antonio Garcés”",
-                  "text": "A regional museum exhibiting extensive collections of Patagonian paleontology, archaeology, and local history.",
-                  "category": "museum",
-                  "coords": [
-                        -67.490363,
-                        -45.862288
                   ]
             },
             {
@@ -18084,15 +16842,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -67.450648,
                         -45.808379
-                  ]
-            },
-            {
-                  "name": "Welsh Colony Tribute",
-                  "text": "A monument commemorating the 19th-century Welsh immigrants who settled in Patagonia.",
-                  "category": "historical",
-                  "coords": [
-                        -67.486462,
-                        -45.862323
                   ]
             },
             {
@@ -18318,15 +17067,6 @@ export const poiExtraArgentinaEconomicV2: POI[] = [
                   "coords": [
                         -67.490821,
                         -45.79882
-                  ]
-            },
-            {
-                  "name": "Mirador Cerro Chenque",
-                  "text": "Situated on the iconic Cerro Chenque hill, this vantage point provides sweeping views of the city and the San Jorge Gulf.",
-                  "category": "natural",
-                  "coords": [
-                        -67.485044,
-                        -45.857044
                   ]
             },
             {

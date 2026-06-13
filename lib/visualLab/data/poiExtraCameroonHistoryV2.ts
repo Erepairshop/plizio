@@ -1708,15 +1708,6 @@ export const poiExtraCameroonHistoryV2: POI[] = [
                         9.684759,
                         4.04002
                   ]
-            },
-            {
-                  "name": "Doual'art",
-                  "text": "Doual'art ist ein bahnbrechendes Zentrum für zeitgenössische Kunst, das sich urbanen ästhetischen Interventionen, öffentlichen Installationen und der Unterstützung moderner afrikanischer Schöpfer widmet.",
-                  "category": "cultural",
-                  "coords": [
-                        9.686914,
-                        4.043773
-                  ]
             }
       ],
       "hu": [
@@ -1736,15 +1727,6 @@ export const poiExtraCameroonHistoryV2: POI[] = [
                   "coords": [
                         9.684759,
                         4.04002
-                  ]
-            },
-            {
-                  "name": "Doual'art",
-                  "text": "A Doual'art egy úttörő kortárs művészeti központ, amely városi esztétikai beavatkozásoknak, köztéri installációknak és modern afrikai alkotók támogatásának szenteli magát.",
-                  "category": "cultural",
-                  "coords": [
-                        9.686914,
-                        4.043773
                   ]
             }
       ],
@@ -1766,15 +1748,6 @@ export const poiExtraCameroonHistoryV2: POI[] = [
                         9.684759,
                         4.04002
                   ]
-            },
-            {
-                  "name": "Doual'art",
-                  "text": "Doual'art este un centru de artă contemporană de pionierat dedicat intervențiilor estetice urbane, instalațiilor publice și sprijinirii creatorilor africani moderni.",
-                  "category": "cultural",
-                  "coords": [
-                        9.686914,
-                        4.043773
-                  ]
             }
       ],
       "en": [
@@ -1794,15 +1767,6 @@ export const poiExtraCameroonHistoryV2: POI[] = [
                   "coords": [
                         9.684759,
                         4.04002
-                  ]
-            },
-            {
-                  "name": "Doual'art",
-                  "text": "Doual'art is a pioneering contemporary art center dedicated to urban aesthetic interventions, public installations, and supporting modern African creators.",
-                  "category": "cultural",
-                  "coords": [
-                        9.686914,
-                        4.043773
                   ]
             }
       ]

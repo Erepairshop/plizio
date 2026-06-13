@@ -1178,122 +1178,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
     }, image: "/poi-images/luang-prabang-cities-v2.webp"},
   {
     id: "pakse-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Champasak Cultural Museum",
-                  "text": "Das Champasak Cultural Museum in Pakse zeigt Artefakte aus dem alten Königreich Champasak.",
-                  "category": "museum",
-                  "coords": [
-                        105.797711,
-                        15.115274
-                  ]
-            },
-            {
-                  "name": "Sala Kham",
-                  "text": "Ein natürlicher Aussichtspunkt über den Mekong in Pakse.",
-                  "category": "natural",
-                  "coords": [
-                        105.796328,
-                        15.117536
-                  ]
-            },
-            {
-                  "name": "Pakse Landmark",
-                  "text": "Ein markantes Wahrzeichen im Zentrum von Pakse, oft als Treffpunkt genutzt.",
-                  "category": "landmark",
-                  "coords": [
-                        105.798378,
-                        15.121331
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Champasak Cultural Museum",
-                  "text": "A paksei Champasak Kulturális Múzeum az ősi Champasak királyság leleteit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        105.797711,
-                        15.115274
-                  ]
-            },
-            {
-                  "name": "Sala Kham",
-                  "text": "Egy természetes kilátó, mely a Mekong folyóra néz Pakse-ban.",
-                  "category": "natural",
-                  "coords": [
-                        105.796328,
-                        15.117536
-                  ]
-            },
-            {
-                  "name": "Pakse Landmark",
-                  "text": "Egy kiemelkedő nevezetesség Pakse központjában, gyakran találkozópontként használják.",
-                  "category": "landmark",
-                  "coords": [
-                        105.798378,
-                        15.121331
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Champasak Cultural Museum",
-                  "text": "Muzeul Cultural Champasak din Pakse expune artefacte din vechiul regat Champasak.",
-                  "category": "museum",
-                  "coords": [
-                        105.797711,
-                        15.115274
-                  ]
-            },
-            {
-                  "name": "Sala Kham",
-                  "text": "Un punct de belvedere natural care oferă vedere la fluviul Mekong din Pakse.",
-                  "category": "natural",
-                  "coords": [
-                        105.796328,
-                        15.117536
-                  ]
-            },
-            {
-                  "name": "Pakse Landmark",
-                  "text": "Un reper proeminent în centrul orașului Pakse, adesea folosit ca punct de întâlnire.",
-                  "category": "landmark",
-                  "coords": [
-                        105.798378,
-                        15.121331
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Champasak Cultural Museum",
-                  "text": "The Champasak Cultural Museum in Pakse displays artifacts from the ancient Kingdom of Champasak.",
-                  "category": "museum",
-                  "coords": [
-                        105.797711,
-                        15.115274
-                  ]
-            },
-            {
-                  "name": "Sala Kham",
-                  "text": "A natural viewpoint overlooking the Mekong River in Pakse.",
-                  "category": "natural",
-                  "coords": [
-                        105.796328,
-                        15.117536
-                  ]
-            },
-            {
-                  "name": "Pakse Landmark",
-                  "text": "A prominent landmark in the center of Pakse, often used as a meeting point.",
-                  "category": "landmark",
-                  "coords": [
-                        105.798378,
-                        15.121331
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "LA-CH",
@@ -1402,15 +1290,6 @@ export const poiExtraLaosCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Memorial President Kaysone Phomvihan",
-                  "text": "Ein Denkmal zu Ehren von Kaysone Phomvihan, dem ersten Präsidenten von Laos, in Savannakhet.",
-                  "category": "landmark",
-                  "coords": [
-                        104.746757,
-                        16.561225
-                  ]
-            },
-            {
                   "name": "Mekong Viewpoint",
                   "text": "Ein malerischer Aussichtspunkt am Mekong in Savannakhet.",
                   "category": "natural",
@@ -1446,15 +1325,6 @@ export const poiExtraLaosCitiesV2: POI[] = [
                   "coords": [
                         104.746305,
                         16.553972
-                  ]
-            },
-            {
-                  "name": "Memorial President Kaysone Phomvihan",
-                  "text": "Egy emlékmű, melyet Kaysone Phomvihan-nak, Laosz első elnökének szenteltek Savannakhetben.",
-                  "category": "landmark",
-                  "coords": [
-                        104.746757,
-                        16.561225
                   ]
             },
             {
@@ -1496,15 +1366,6 @@ export const poiExtraLaosCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Memorial President Kaysone Phomvihan",
-                  "text": "Un monument memorial dedicat lui Kaysone Phomvihan, primul președinte al Laosului, în Savannakhet.",
-                  "category": "landmark",
-                  "coords": [
-                        104.746757,
-                        16.561225
-                  ]
-            },
-            {
                   "name": "Mekong Viewpoint",
                   "text": "Un punct de belvedere pitoresc de-a lungul fluviului Mekong în Savannakhet.",
                   "category": "natural",
@@ -1525,30 +1386,12 @@ export const poiExtraLaosCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Dinosaur Museum",
-                  "text": "A museum displaying dinosaur fossils excavated in Savannakhet Province.",
-                  "category": "museum",
-                  "coords": [
-                        104.745433,
-                        16.56263
-                  ]
-            },
-            {
                   "name": "Savannakhet Museum",
                   "text": "A museum dedicated to the history and culture of Savannakhet province.",
                   "category": "museum",
                   "coords": [
                         104.746305,
                         16.553972
-                  ]
-            },
-            {
-                  "name": "Memorial President Kaysone Phomvihan",
-                  "text": "A memorial monument dedicated to Kaysone Phomvihan, first president of Laos, in Savannakhet.",
-                  "category": "landmark",
-                  "coords": [
-                        104.746757,
-                        16.561225
                   ]
             },
             {
@@ -1734,194 +1577,10 @@ export const poiExtraLaosCitiesV2: POI[] = [
     }, image: "/poi-images/thakhek-cities-v2.webp"},
   {
     id: "vang-vieng-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Pha Poak",
-                  "text": "Eine Kalksteinformation mit Blick auf den Wald bei Vieng.",
-                  "category": "natural",
-                  "coords": [
-                        102.437774,
-                        18.930274
-                  ]
-            },
-            {
-                  "name": "Tham None Cave",
-                  "text": "Eine Kalksteinhöhle mit Stalaktiten und Stalagmiten bei Vieng.",
-                  "category": "landmark",
-                  "coords": [
-                        102.434147,
-                        18.947061
-                  ]
-            },
-            {
-                  "name": "Butterfly Viewpoint",
-                  "text": "Der Schmetterlings-Aussichtspunkt bietet einen Panoramablick in Vang Vieng.",
-                  "category": "natural",
-                  "coords": [
-                        102.426376,
-                        18.929058
-                  ]
-            },
-            {
-                  "name": "Viewpoint 1",
-                  "text": "Ein beliebter Aussichtspunkt über dem Tal von Vieng.",
-                  "category": "natural",
-                  "coords": [
-                        102.423014,
-                        18.926779
-                  ]
-            },
-            {
-                  "name": "Free point of view",
-                  "text": "Ein kostenloser öffentlicher Aussichtspunkt mit Panoramablick auf Vieng.",
-                  "category": "natural",
-                  "coords": [
-                        102.445896,
-                        18.924434
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Pha Poak",
-                  "text": "Egy mészkő sziklaformáció, kilátással a viengi erdőre.",
-                  "category": "natural",
-                  "coords": [
-                        102.437774,
-                        18.930274
-                  ]
-            },
-            {
-                  "name": "Tham None Cave",
-                  "text": "Egy mészkőbarlang cseppkövekkel Vieng közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        102.434147,
-                        18.947061
-                  ]
-            },
-            {
-                  "name": "Butterfly Viewpoint",
-                  "text": "A Pillangó-kilátópont panorámás kilátást nyújt Vang Viengben.",
-                  "category": "natural",
-                  "coords": [
-                        102.426376,
-                        18.929058
-                  ]
-            },
-            {
-                  "name": "Viewpoint 1",
-                  "text": "Egy népszerű kilátó, mely Vieng völgyére néz.",
-                  "category": "natural",
-                  "coords": [
-                        102.423014,
-                        18.926779
-                  ]
-            },
-            {
-                  "name": "Free point of view",
-                  "text": "Egy ingyenes nyilvános kilátó, panorámás kilátással Viengre.",
-                  "category": "natural",
-                  "coords": [
-                        102.445896,
-                        18.924434
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Pha Poak",
-                  "text": "O formațiune calcaroasă care oferă vedere spre pădurea de lângă Vieng.",
-                  "category": "natural",
-                  "coords": [
-                        102.437774,
-                        18.930274
-                  ]
-            },
-            {
-                  "name": "Tham None Cave",
-                  "text": "O peșteră de calcar cu stalactite și stalagmite lângă Vieng.",
-                  "category": "landmark",
-                  "coords": [
-                        102.434147,
-                        18.947061
-                  ]
-            },
-            {
-                  "name": "Butterfly Viewpoint",
-                  "text": "Punctul de belvedere al fluturilor oferă o vedere panoramică în Vang Vieng.",
-                  "category": "natural",
-                  "coords": [
-                        102.426376,
-                        18.929058
-                  ]
-            },
-            {
-                  "name": "Viewpoint 1",
-                  "text": "Un punct de belvedere popular care oferă vedere la valea Vieng.",
-                  "category": "natural",
-                  "coords": [
-                        102.423014,
-                        18.926779
-                  ]
-            },
-            {
-                  "name": "Free point of view",
-                  "text": "Un punct de belvedere public gratuit cu vedere panoramică asupra orașului Vieng.",
-                  "category": "natural",
-                  "coords": [
-                        102.445896,
-                        18.924434
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Pha Poak",
-                  "text": "A limestone rock formation offering views of the forest near Vieng.",
-                  "category": "natural",
-                  "coords": [
-                        102.437774,
-                        18.930274
-                  ]
-            },
-            {
-                  "name": "Tham None Cave",
-                  "text": "A limestone cave with stalactites and stalagmites near Vieng.",
-                  "category": "landmark",
-                  "coords": [
-                        102.434147,
-                        18.947061
-                  ]
-            },
-            {
-                  "name": "Butterfly Viewpoint",
-                  "text": "The Butterfly Viewpoint offers panoramic views in Vang Vieng.",
-                  "category": "natural",
-                  "coords": [
-                        102.426376,
-                        18.929058
-                  ]
-            },
-            {
-                  "name": "Viewpoint 1",
-                  "text": "A popular viewpoint overlooking the Vieng valley.",
-                  "category": "natural",
-                  "coords": [
-                        102.423014,
-                        18.926779
-                  ]
-            },
-            {
-                  "name": "Free point of view",
-                  "text": "A free public viewpoint with panoramic views of Vieng.",
-                  "category": "natural",
-                  "coords": [
-                        102.445896,
-                        18.924434
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "LA-VI",

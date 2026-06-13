@@ -985,50 +985,10 @@ export const liberiaReliefV2: POI[] = [
   },
   {
     id: "liberia-voinjama-highlands-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Pakistan Point",
-                  "text": "Pakistan Point ist ein Gedenkmonument in der Hochebene der Voinjama-Highlands.",
-                  "category": "historical",
-                  "coords": [
-                        -9.753228,
-                        8.428063
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Pakistan Point",
-                  "text": "A Pakistan Point egy emlékmű a Voinjama-felföld magaslati terepén.",
-                  "category": "historical",
-                  "coords": [
-                        -9.753228,
-                        8.428063
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Pakistan Point",
-                  "text": "Pakistan Point este un monument comemorativ situat în terenul înalt al ținuturilor Voinjama.",
-                  "category": "historical",
-                  "coords": [
-                        -9.753228,
-                        8.428063
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Pakistan Point",
-                  "text": "Pakistan Point is a commemorative monument situated in the elevated terrain of the Voinjama highlands.",
-                  "category": "historical",
-                  "coords": [
-                        -9.753228,
-                        8.428063
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LR",
     type: "mountain",
@@ -1140,15 +1100,6 @@ export const liberiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Episcopal Church",
-                  "text": "Die Episcopal Church ist ein historisches christliches Gotteshaus in der Gegend von liberia-mamba-point-relief-v2.",
-                  "category": "religious",
-                  "coords": [
-                        -10.809096,
-                        6.317687
-                  ]
-            },
-            {
                   "name": "Powr Plant Beach",
                   "text": "Powr Plant Beach bietet einen sandigen Küstenabschnitt für Besucher in liberia-mamba-point-relief-v2.",
                   "category": "recreational",
@@ -1175,15 +1126,6 @@ export const liberiaReliefV2: POI[] = [
                   "coords": [
                         -10.810205,
                         6.31909
-                  ]
-            },
-            {
-                  "name": "Episcopal Church",
-                  "text": "Az Episcopal Church egy történelmi keresztény istentiszteleti hely a liberia-mamba-point-relief-v2 területén.",
-                  "category": "religious",
-                  "coords": [
-                        -10.809096,
-                        6.317687
                   ]
             },
             {
@@ -1216,15 +1158,6 @@ export const liberiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Episcopal Church",
-                  "text": "Episcopal Church este un lăcaș de cult creștin istoric care deservește zona liberia-mamba-point-relief-v2.",
-                  "category": "religious",
-                  "coords": [
-                        -10.809096,
-                        6.317687
-                  ]
-            },
-            {
                   "name": "Powr Plant Beach",
                   "text": "Powr Plant Beach oferă o fâșie de coastă nisipoasă pentru vizitatorii din liberia-mamba-point-relief-v2.",
                   "category": "recreational",
@@ -1251,15 +1184,6 @@ export const liberiaReliefV2: POI[] = [
                   "coords": [
                         -10.810205,
                         6.31909
-                  ]
-            },
-            {
-                  "name": "Episcopal Church",
-                  "text": "The Episcopal Church is a historic Christian house of worship serving the liberia-mamba-point-relief-v2 area.",
-                  "category": "religious",
-                  "coords": [
-                        -10.809096,
-                        6.317687
                   ]
             },
             {

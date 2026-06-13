@@ -6,15 +6,6 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-hebron-shoe-industry-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Manara roundabout",
-                  "text": "Ein belebter zentraler Verkehrsknotenpunkt und Wahrzeichen im Herzen von Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.097351,
-                        31.529634
-                  ]
-            },
-            {
                   "name": "Alia mosque",
                   "text": "Eine schlichte Nachbarschaftsmoschee, die als geistliches Zentrum für die örtliche Gemeinschaft dient.",
                   "category": "landmark",
@@ -61,15 +52,6 @@ export const palestineEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Manara roundabout",
-                  "text": "Forgalmas központi közlekedési csomópont és tájékozódási pont Hebron szívében.",
-                  "category": "landmark",
-                  "coords": [
-                        35.097351,
-                        31.529634
-                  ]
-            },
             {
                   "name": "Alia mosque",
                   "text": "Egyszerű szomszédsági mecset, amely a helyi közösség szellemi központjaként szolgál.",
@@ -118,15 +100,6 @@ export const palestineEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Manara roundabout",
-                  "text": "Un nod de trafic central și punct de reper aglomerat situat în inima Hebronului.",
-                  "category": "landmark",
-                  "coords": [
-                        35.097351,
-                        31.529634
-                  ]
-            },
-            {
                   "name": "Alia mosque",
                   "text": "O moschee de cartier simplă care servește ca centru spiritual pentru comunitatea locală.",
                   "category": "landmark",
@@ -173,15 +146,6 @@ export const palestineEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Manara roundabout",
-                  "text": "A busy central traffic hub and landmark located in the heart of Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.097351,
-                        31.529634
-                  ]
-            },
             {
                   "name": "Alia mosque",
                   "text": "A simple neighborhood mosque serving as a spiritual center for the local community.",
@@ -618,30 +582,12 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-hebron-stone-quarries-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Khirbet el Kufeir",
-                  "text": "Khirbet el Kufeir ist eine archäologische Stätte mit antiken Ruinen in Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.098657,
-                        31.459731
-                  ]
-            },
-            {
                   "name": "Gheith Printer",
                   "text": "Gheith Printer ist ein lokales Kunstzentrum, das Kreativität in Hebron fördert.",
                   "category": "cultural",
                   "coords": [
                         35.118537,
                         31.51417
-                  ]
-            },
-            {
-                  "name": "Yatta Martyr Monument",
-                  "text": "Das Yatta Martyr Monument ist ein historisches Gedenkbauwerk in der Region Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.090022,
-                        31.445406
                   ]
             },
             {
@@ -935,30 +881,12 @@ export const palestineEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Khirbet el Kufeir",
-                  "text": "A Khirbet el Kufeir egy ősi romokat rejtő régészeti lelőhely Hebronban.",
-                  "category": "historical",
-                  "coords": [
-                        35.098657,
-                        31.459731
-                  ]
-            },
-            {
                   "name": "Gheith Printer",
                   "text": "A Gheith Printer egy helyi művészeti központ, amely a kreativitást ápolja Hebronban.",
                   "category": "cultural",
                   "coords": [
                         35.118537,
                         31.51417
-                  ]
-            },
-            {
-                  "name": "Yatta Martyr Monument",
-                  "text": "A Yatta Martyr Monument egy történelmi emlékmű a hebroni régióban.",
-                  "category": "historical",
-                  "coords": [
-                        35.090022,
-                        31.445406
                   ]
             },
             {
@@ -1252,30 +1180,12 @@ export const palestineEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Khirbet el Kufeir",
-                  "text": "Khirbet el Kufeir este un sit arheologic cu ruine antice în Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.098657,
-                        31.459731
-                  ]
-            },
-            {
                   "name": "Gheith Printer",
                   "text": "Gheith Printer este un centru de arte local care promovează creativitatea în Hebron.",
                   "category": "cultural",
                   "coords": [
                         35.118537,
                         31.51417
-                  ]
-            },
-            {
-                  "name": "Yatta Martyr Monument",
-                  "text": "Yatta Martyr Monument este o structură comemorativă istorică în regiunea Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.090022,
-                        31.445406
                   ]
             },
             {
@@ -1569,30 +1479,12 @@ export const palestineEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Khirbet el Kufeir",
-                  "text": "Khirbet el Kufeir is an archaeological site featuring ancient ruins in Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.098657,
-                        31.459731
-                  ]
-            },
-            {
                   "name": "Gheith Printer",
                   "text": "Gheith Printer is a local arts centre fostering creativity and culture in Hebron.",
                   "category": "cultural",
                   "coords": [
                         35.118537,
                         31.51417
-                  ]
-            },
-            {
-                  "name": "Yatta Martyr Monument",
-                  "text": "The Yatta Martyr Monument is a commemorative structure located in the Hebron area.",
-                  "category": "historical",
-                  "coords": [
-                        35.090022,
-                        31.445406
                   ]
             },
             {
@@ -3561,75 +3453,12 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Qalqilya Safari",
-                  "text": "Der einzige Zoo im Westjordanland, der zusätzlich ein naturkundliches Museum beherbergt.",
-                  "category": "park",
-                  "coords": [
-                        34.970702,
-                        32.195419
-                  ]
-            },
-            {
-                  "name": "Meshek Haotzar",
-                  "text": "Überreste einer frühen landwirtschaftlichen Siedlung aus dem frühen 20. Jahrhundert.",
-                  "category": "historical",
-                  "coords": [
-                        34.94658,
-                        32.186761
-                  ]
-            },
-            {
-                  "name": "Kfar Saba Town Hall",
-                  "text": "Das Verwaltungszentrum von Kfar Saba, bekannt für sein funktionales, modernistisches Design.",
-                  "category": "historical",
-                  "coords": [
-                        34.91231,
-                        32.174649
-                  ]
-            },
-            {
-                  "name": "Horvat Dardar",
-                  "text": "Eine archäologische Fundstätte mit antiken Ruinen und in den Fels gehauenen landwirtschaftlichen Installationen.",
-                  "category": "historical",
-                  "coords": [
-                        35.016969,
-                        32.239615
-                  ]
-            },
-            {
-                  "name": "Magdiel Synagogue",
-                  "text": "Eine markante Synagoge im Magdiel-Viertel, die durch ihren charakteristischen zentralen Turm auffällt.",
-                  "category": "religious",
-                  "coords": [
-                        34.90304,
-                        32.160634
-                  ]
-            },
-            {
-                  "name": "Gan HaMaginim",
-                  "text": "Ein Gedenkpark, der den gefallenen Soldaten der israelischen Verteidigungskräfte gewidmet ist.",
-                  "category": "park",
-                  "coords": [
-                        34.898922,
-                        32.178855
-                  ]
-            },
-            {
                   "name": "Kfar Saba park",
                   "text": "Ein großer Stadtpark mit einem künstlichen See, Wanderwegen und ausgedehnten Grünflächen.",
                   "category": "park",
                   "coords": [
                         34.924246,
                         32.17822
-                  ]
-            },
-            {
-                  "name": "Archaeological garden",
-                  "text": "Ein Freilichtmuseum, das lokale archäologische Funde aus der römischen und byzantinischen Zeit ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        34.936889,
-                        32.181785
                   ]
             },
             {
@@ -3648,15 +3477,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         35.007305,
                         32.22896
-                  ]
-            },
-            {
-                  "name": "Khirbet Ibreika",
-                  "text": "Eine antike Ruinenstätte, die für ihre in den Fels gehauenen Zisternen und Gebäudefundamente bekannt ist.",
-                  "category": "historical",
-                  "coords": [
-                        34.957962,
-                        32.199771
                   ]
             },
             {
@@ -3687,33 +3507,6 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Qalqilia Islamic Center",
-                  "text": "Ein Zentrum für religiöse Bildung und kulturelle Aktivitäten der örtlichen Gemeinschaft.",
-                  "category": "cultural",
-                  "coords": [
-                        34.967872,
-                        32.189776
-                  ]
-            },
-            {
-                  "name": "Social Center For Youth Rehabilitation",
-                  "text": "Eine soziale Einrichtung, die Programme zur beruflichen Ausbildung und Rehabilitation für Jugendliche anbietet.",
-                  "category": "cultural",
-                  "coords": [
-                        34.968812,
-                        32.195436
-                  ]
-            },
-            {
-                  "name": "Community Center",
-                  "text": "Ein Treffpunkt für soziale Projekte, Workshops und lokale kulturelle Veranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        34.991256,
-                        32.157701
-                  ]
-            },
-            {
                   "name": "widding al qaseer",
                   "text": "Ein lokaler Veranstaltungsort für traditionelle Theateraufführungen und festliche Anlässe.",
                   "category": "cultural",
@@ -3729,42 +3522,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         34.995484,
                         32.123681
-                  ]
-            },
-            {
-                  "name": "Arim Mall",
-                  "text": "Ein beliebtes Einkaufszentrum in Kfar Saba mit einem offenen Innenhof und zahlreichen Cafés.",
-                  "category": "landmark",
-                  "coords": [
-                        34.903812,
-                        32.177954
-                  ]
-            },
-            {
-                  "name": "The Courtyard",
-                  "text": "Ein städtischer Platz, der als Treffpunkt für kulturelle Märkte und öffentliche Versammlungen dient.",
-                  "category": "landmark",
-                  "coords": [
-                        34.910447,
-                        32.175471
-                  ]
-            },
-            {
-                  "name": "Ecological park",
-                  "text": "Ein Park, der dem Schutz der lokalen Flora und der Umweltbildung gewidmet ist.",
-                  "category": "landmark",
-                  "coords": [
-                        34.945649,
-                        32.184235
-                  ]
-            },
-            {
-                  "name": "Osayd",
-                  "text": "Ein lokaler Orientierungspunkt, der oft für Freizeitaktivitäten und als Treffpunkt genutzt wird.",
-                  "category": "landmark",
-                  "coords": [
-                        34.966039,
-                        32.198836
                   ]
             },
             {
@@ -3851,75 +3608,12 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Qalqilya Safari",
-                  "text": "Ciszjordánia egyetlen állatkertje, amely egy természettudományi múzeumnak is otthont ad.",
-                  "category": "park",
-                  "coords": [
-                        34.970702,
-                        32.195419
-                  ]
-            },
-            {
-                  "name": "Meshek Haotzar",
-                  "text": "Egy 20. század eleji korai mezőgazdasági település maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        34.94658,
-                        32.186761
-                  ]
-            },
-            {
-                  "name": "Kfar Saba Town Hall",
-                  "text": "Kfar Saba adminisztratív központja, amely funkcionális, modernista kialakításáról ismert.",
-                  "category": "historical",
-                  "coords": [
-                        34.91231,
-                        32.174649
-                  ]
-            },
-            {
-                  "name": "Horvat Dardar",
-                  "text": "Régészeti lelőhely antik romokkal és sziklába vájt mezőgazdasági létesítményekkel.",
-                  "category": "historical",
-                  "coords": [
-                        35.016969,
-                        32.239615
-                  ]
-            },
-            {
-                  "name": "Magdiel Synagogue",
-                  "text": "A Magdiel negyed jellegzetes zsinagógája, amely karakteres központi tornyáról ismerhető fel.",
-                  "category": "religious",
-                  "coords": [
-                        34.90304,
-                        32.160634
-                  ]
-            },
-            {
-                  "name": "Gan HaMaginim",
-                  "text": "Emlékpark, amelyet az izraeli védelmi erők elesett katonáinak tiszteletére hoztak létre.",
-                  "category": "park",
-                  "coords": [
-                        34.898922,
-                        32.178855
-                  ]
-            },
-            {
                   "name": "Kfar Saba park",
                   "text": "Hatalmas városi park mesterséges tóval, sétányokkal és kiterjedt zöldfelületekkel.",
                   "category": "park",
                   "coords": [
                         34.924246,
                         32.17822
-                  ]
-            },
-            {
-                  "name": "Archaeological garden",
-                  "text": "Szabadtéri múzeum, amely a római és bizánci korból származó helyi régészeti leleteket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        34.936889,
-                        32.181785
                   ]
             },
             {
@@ -3938,15 +3632,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         35.007305,
                         32.22896
-                  ]
-            },
-            {
-                  "name": "Khirbet Ibreika",
-                  "text": "Antik romterület, amely sziklába vájt ciszternáiról és épületalapozásairól ismert.",
-                  "category": "historical",
-                  "coords": [
-                        34.957962,
-                        32.199771
                   ]
             },
             {
@@ -3977,33 +3662,6 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Qalqilia Islamic Center",
-                  "text": "Vallási oktatási és kulturális tevékenységek központja a helyi közösség számára.",
-                  "category": "cultural",
-                  "coords": [
-                        34.967872,
-                        32.189776
-                  ]
-            },
-            {
-                  "name": "Social Center For Youth Rehabilitation",
-                  "text": "Szociális intézmény, amely szakképzési és rehabilitációs programokat kínál fiataloknak.",
-                  "category": "cultural",
-                  "coords": [
-                        34.968812,
-                        32.195436
-                  ]
-            },
-            {
-                  "name": "Community Center",
-                  "text": "Közösségi találkozóhely szociális projektek, workshopok és helyi kulturális események számára.",
-                  "category": "cultural",
-                  "coords": [
-                        34.991256,
-                        32.157701
-                  ]
-            },
-            {
                   "name": "widding al qaseer",
                   "text": "Helyi rendezvényhelyszín hagyományos színházi előadások és ünnepi események számára.",
                   "category": "cultural",
@@ -4019,42 +3677,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         34.995484,
                         32.123681
-                  ]
-            },
-            {
-                  "name": "Arim Mall",
-                  "text": "Népszerű bevásárlóközpont Kfar Sabában, nyitott udvarral és számos kávézóval.",
-                  "category": "landmark",
-                  "coords": [
-                        34.903812,
-                        32.177954
-                  ]
-            },
-            {
-                  "name": "The Courtyard",
-                  "text": "Városi tér, amely kulturális piacok és nyilvános gyűlések találkozóhelyeként szolgál.",
-                  "category": "landmark",
-                  "coords": [
-                        34.910447,
-                        32.175471
-                  ]
-            },
-            {
-                  "name": "Ecological park",
-                  "text": "A helyi flóra védelmének és a környezeti nevelésnek szentelt park.",
-                  "category": "landmark",
-                  "coords": [
-                        34.945649,
-                        32.184235
-                  ]
-            },
-            {
-                  "name": "Osayd",
-                  "text": "Helyi tájékozódási pont, amelyet gyakran szabadidős tevékenységekre és találkozóhelyként használnak.",
-                  "category": "landmark",
-                  "coords": [
-                        34.966039,
-                        32.198836
                   ]
             },
             {
@@ -4141,75 +3763,12 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Qalqilya Safari",
-                  "text": "Singura grădină zoologică din Cisiordania, care găzduiește și un muzeu de istorie naturală.",
-                  "category": "park",
-                  "coords": [
-                        34.970702,
-                        32.195419
-                  ]
-            },
-            {
-                  "name": "Meshek Haotzar",
-                  "text": "Rămășițele unei așezări agricole timpurii de la începutul secolului al XX-lea.",
-                  "category": "historical",
-                  "coords": [
-                        34.94658,
-                        32.186761
-                  ]
-            },
-            {
-                  "name": "Kfar Saba Town Hall",
-                  "text": "Centrul administrativ din Kfar Saba, cunoscut pentru designul său modernist funcțional.",
-                  "category": "historical",
-                  "coords": [
-                        34.91231,
-                        32.174649
-                  ]
-            },
-            {
-                  "name": "Horvat Dardar",
-                  "text": "Un sit arheologic cu ruine antice și instalații agricole săpate în stâncă.",
-                  "category": "historical",
-                  "coords": [
-                        35.016969,
-                        32.239615
-                  ]
-            },
-            {
-                  "name": "Magdiel Synagogue",
-                  "text": "O sinagogă emblematică din cartierul Magdiel, remarcabilă prin turnul său central distinctiv.",
-                  "category": "religious",
-                  "coords": [
-                        34.90304,
-                        32.160634
-                  ]
-            },
-            {
-                  "name": "Gan HaMaginim",
-                  "text": "Un parc memorial dedicat soldaților căzuți din forțele de apărare israeliene.",
-                  "category": "park",
-                  "coords": [
-                        34.898922,
-                        32.178855
-                  ]
-            },
-            {
                   "name": "Kfar Saba park",
                   "text": "Un parc urban mare, dotat cu un lac artificial, alei de plimbare și spații verzi vaste.",
                   "category": "park",
                   "coords": [
                         34.924246,
                         32.17822
-                  ]
-            },
-            {
-                  "name": "Archaeological garden",
-                  "text": "Un muzeu în aer liber care expune descoperiri arheologice locale din perioadele romană și bizantină.",
-                  "category": "museum",
-                  "coords": [
-                        34.936889,
-                        32.181785
                   ]
             },
             {
@@ -4228,15 +3787,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         35.007305,
                         32.22896
-                  ]
-            },
-            {
-                  "name": "Khirbet Ibreika",
-                  "text": "Un sit cu ruine antice, cunoscut pentru cisternele sale săpate în stâncă și fundațiile de clădiri.",
-                  "category": "historical",
-                  "coords": [
-                        34.957962,
-                        32.199771
                   ]
             },
             {
@@ -4267,33 +3817,6 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Qalqilia Islamic Center",
-                  "text": "Un centru pentru educație religioasă și activități culturale destinat comunității locale.",
-                  "category": "cultural",
-                  "coords": [
-                        34.967872,
-                        32.189776
-                  ]
-            },
-            {
-                  "name": "Social Center For Youth Rehabilitation",
-                  "text": "O instituție socială care oferă programe de formare profesională și reabilitare pentru tineri.",
-                  "category": "cultural",
-                  "coords": [
-                        34.968812,
-                        32.195436
-                  ]
-            },
-            {
-                  "name": "Community Center",
-                  "text": "Un punct de întâlnire pentru proiecte sociale, ateliere și evenimente culturale locale.",
-                  "category": "cultural",
-                  "coords": [
-                        34.991256,
-                        32.157701
-                  ]
-            },
-            {
                   "name": "widding al qaseer",
                   "text": "O locație locală pentru spectacole de teatru tradițional și evenimente festive.",
                   "category": "cultural",
@@ -4309,42 +3832,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         34.995484,
                         32.123681
-                  ]
-            },
-            {
-                  "name": "Arim Mall",
-                  "text": "Un centru comercial popular în Kfar Saba, cu o curte interioară deschisă și numeroase cafenele.",
-                  "category": "landmark",
-                  "coords": [
-                        34.903812,
-                        32.177954
-                  ]
-            },
-            {
-                  "name": "The Courtyard",
-                  "text": "O piață urbană care servește ca loc de întâlnire pentru piețe culturale și adunări publice.",
-                  "category": "landmark",
-                  "coords": [
-                        34.910447,
-                        32.175471
-                  ]
-            },
-            {
-                  "name": "Ecological park",
-                  "text": "Un parc dedicat conservării florei locale și educației ecologice.",
-                  "category": "landmark",
-                  "coords": [
-                        34.945649,
-                        32.184235
-                  ]
-            },
-            {
-                  "name": "Osayd",
-                  "text": "Un punct de reper local utilizat adesea pentru activități recreative și ca loc de întâlnire.",
-                  "category": "landmark",
-                  "coords": [
-                        34.966039,
-                        32.198836
                   ]
             },
             {
@@ -4431,75 +3918,12 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Qalqilya Safari",
-                  "text": "The only zoo in the West Bank, which also features a natural history museum on its grounds.",
-                  "category": "park",
-                  "coords": [
-                        34.970702,
-                        32.195419
-                  ]
-            },
-            {
-                  "name": "Meshek Haotzar",
-                  "text": "Remains of an early 20th-century agricultural settlement located near the modern city.",
-                  "category": "historical",
-                  "coords": [
-                        34.94658,
-                        32.186761
-                  ]
-            },
-            {
-                  "name": "Kfar Saba Town Hall",
-                  "text": "The administrative center of Kfar Saba, known for its functional modernist architectural design.",
-                  "category": "historical",
-                  "coords": [
-                        34.91231,
-                        32.174649
-                  ]
-            },
-            {
-                  "name": "Horvat Dardar",
-                  "text": "An archaeological site featuring ancient ruins and rock-cut agricultural installations.",
-                  "category": "historical",
-                  "coords": [
-                        35.016969,
-                        32.239615
-                  ]
-            },
-            {
-                  "name": "Magdiel Synagogue",
-                  "text": "A landmark synagogue in the Magdiel neighborhood, notable for its distinctive central tower.",
-                  "category": "religious",
-                  "coords": [
-                        34.90304,
-                        32.160634
-                  ]
-            },
-            {
-                  "name": "Gan HaMaginim",
-                  "text": "A memorial park dedicated to the fallen soldiers of the Israeli defense forces.",
-                  "category": "park",
-                  "coords": [
-                        34.898922,
-                        32.178855
-                  ]
-            },
-            {
                   "name": "Kfar Saba park",
                   "text": "A large municipal park featuring a man-made lake, walking trails, and extensive green spaces.",
                   "category": "park",
                   "coords": [
                         34.924246,
                         32.17822
-                  ]
-            },
-            {
-                  "name": "Archaeological garden",
-                  "text": "An outdoor museum displaying local archaeological finds from the Roman and Byzantine periods.",
-                  "category": "museum",
-                  "coords": [
-                        34.936889,
-                        32.181785
                   ]
             },
             {
@@ -4518,15 +3942,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         35.007305,
                         32.22896
-                  ]
-            },
-            {
-                  "name": "Khirbet Ibreika",
-                  "text": "An ancient site known for its rock-cut cisterns and foundations of early residential buildings.",
-                  "category": "historical",
-                  "coords": [
-                        34.957962,
-                        32.199771
                   ]
             },
             {
@@ -4557,33 +3972,6 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Qalqilia Islamic Center",
-                  "text": "A hub for religious education and cultural activities serving the local community.",
-                  "category": "cultural",
-                  "coords": [
-                        34.967872,
-                        32.189776
-                  ]
-            },
-            {
-                  "name": "Social Center For Youth Rehabilitation",
-                  "text": "A social institution providing vocational training and rehabilitation programs for local youth.",
-                  "category": "cultural",
-                  "coords": [
-                        34.968812,
-                        32.195436
-                  ]
-            },
-            {
-                  "name": "Community Center",
-                  "text": "A meeting point for social projects, workshops, and various local cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        34.991256,
-                        32.157701
-                  ]
-            },
-            {
                   "name": "widding al qaseer",
                   "text": "A local venue hosting traditional theater performances and various festive community events.",
                   "category": "cultural",
@@ -4599,42 +3987,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         34.995484,
                         32.123681
-                  ]
-            },
-            {
-                  "name": "Arim Mall",
-                  "text": "A popular shopping mall in Kfar Saba featuring an open-air courtyard and numerous cafes.",
-                  "category": "landmark",
-                  "coords": [
-                        34.903812,
-                        32.177954
-                  ]
-            },
-            {
-                  "name": "The Courtyard",
-                  "text": "An urban courtyard space that serves as a gathering point for cultural markets and public meetings.",
-                  "category": "landmark",
-                  "coords": [
-                        34.910447,
-                        32.175471
-                  ]
-            },
-            {
-                  "name": "Ecological park",
-                  "text": "A park dedicated to the conservation of local flora and environmental education.",
-                  "category": "landmark",
-                  "coords": [
-                        34.945649,
-                        32.184235
-                  ]
-            },
-            {
-                  "name": "Osayd",
-                  "text": "A local landmark frequently used for recreational activities and as a community meeting point.",
-                  "category": "landmark",
-                  "coords": [
-                        34.966039,
-                        32.198836
                   ]
             },
             {
@@ -5937,15 +5289,6 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-tulkarm-industrial-zone-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Al Waha Park",
-                  "text": "Erholungsgebiet in Tulkarm, das als grüne Oase mit Freizeitanlagen bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        35.036549,
-                        32.293899
-                  ]
-            },
-            {
                   "name": "Mega Land",
                   "text": "Großer Familien-Themenpark mit verschiedenen Fahrgeschäften und Attraktionen.",
                   "category": "recreational",
@@ -5988,24 +5331,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         35.028184,
                         32.314243
-                  ]
-            },
-            {
-                  "name": "tulkarm park",
-                  "text": "Beliebter Stadtpark mit schattigen Wegen und Spielbereichen für Kinder.",
-                  "category": "landmark",
-                  "coords": [
-                        35.024282,
-                        32.309797
-                  ]
-            },
-            {
-                  "name": "ayman alfar",
-                  "text": "Bedeutendes lokales Denkmal, das an wichtige historische Persönlichkeiten erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        35.026298,
-                        32.304876
                   ]
             },
             {
@@ -6209,15 +5534,6 @@ export const palestineEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Al Waha Park",
-                  "text": "Tulkarm pihenőövezete, amely szabadidős létesítményekkel ellátott zöld oázisként ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        35.036549,
-                        32.293899
-                  ]
-            },
-            {
                   "name": "Mega Land",
                   "text": "Nagy családi vidámpark különféle játékokkal és látnivalókkal.",
                   "category": "recreational",
@@ -6260,24 +5576,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         35.028184,
                         32.314243
-                  ]
-            },
-            {
-                  "name": "tulkarm park",
-                  "text": "Népszerű városi park árnyas sétányokkal és játszóterekkel a gyermekek számára.",
-                  "category": "landmark",
-                  "coords": [
-                        35.024282,
-                        32.309797
-                  ]
-            },
-            {
-                  "name": "ayman alfar",
-                  "text": "Jelentős helyi emlékmű, amely fontos történelmi személyiségeknek állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        35.026298,
-                        32.304876
                   ]
             },
             {
@@ -6481,15 +5779,6 @@ export const palestineEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Al Waha Park",
-                  "text": "Zonă de recreere în Tulkarm, cunoscută ca o oază verde cu facilități de agrement.",
-                  "category": "landmark",
-                  "coords": [
-                        35.036549,
-                        32.293899
-                  ]
-            },
-            {
                   "name": "Mega Land",
                   "text": "Parc tematic mare pentru familii, cu diverse caruseluri și atracții.",
                   "category": "recreational",
@@ -6532,24 +5821,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         35.028184,
                         32.314243
-                  ]
-            },
-            {
-                  "name": "tulkarm park",
-                  "text": "Parc urban popular, cu alei umbrite și locuri de joacă pentru copii.",
-                  "category": "landmark",
-                  "coords": [
-                        35.024282,
-                        32.309797
-                  ]
-            },
-            {
-                  "name": "ayman alfar",
-                  "text": "Monument local proeminent dedicat unor figuri istorice importante.",
-                  "category": "historical",
-                  "coords": [
-                        35.026298,
-                        32.304876
                   ]
             },
             {
@@ -6753,15 +6024,6 @@ export const palestineEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Al Waha Park",
-                  "text": "Recreational area in Tulkarm known as a green oasis with leisure facilities.",
-                  "category": "landmark",
-                  "coords": [
-                        35.036549,
-                        32.293899
-                  ]
-            },
-            {
                   "name": "Mega Land",
                   "text": "Large family theme park featuring various amusement rides and attractions.",
                   "category": "recreational",
@@ -6804,24 +6066,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         35.028184,
                         32.314243
-                  ]
-            },
-            {
-                  "name": "tulkarm park",
-                  "text": "Popular city park featuring shaded walkways and children's play areas.",
-                  "category": "landmark",
-                  "coords": [
-                        35.024282,
-                        32.309797
-                  ]
-            },
-            {
-                  "name": "ayman alfar",
-                  "text": "Prominent local monument dedicated to important historical figures.",
-                  "category": "historical",
-                  "coords": [
-                        35.026298,
-                        32.304876
                   ]
             },
             {
@@ -8385,39 +7629,12 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khirbet al-Shajra, East",
-                  "text": "Antike Überreste einer Siedlung, die sich auf den östlichen Hängen der Hügel nahe Ariel befinden.",
-                  "category": "historical",
-                  "coords": [
-                        35.184202,
-                        32.095745
-                  ]
-            },
-            {
-                  "name": "Khirbet al-Shajra, West",
-                  "text": "Archäologische Ruinen einer antiken Stätte, die auf dem Bergrücken westlich des heutigen Ariel liegen.",
-                  "category": "historical",
-                  "coords": [
-                        35.181612,
-                        32.095557
-                  ]
-            },
-            {
                   "name": "Tomb of Joshua Ben Nun",
                   "text": "Diese religiöse Stätte in Kifl Hares wird traditionell als Begräbnisort des biblischen Anführers Josua verehrt.",
                   "category": "landmark",
                   "coords": [
                         35.157286,
                         32.118738
-                  ]
-            },
-            {
-                  "name": "Salfit Municipality",
-                  "text": "Das zentrale Verwaltungsgebäude und der Sitz der lokalen Regierung in der Stadt Salfit.",
-                  "category": "historical",
-                  "coords": [
-                        35.177247,
-                        32.082006
                   ]
             },
             {
@@ -8630,39 +7847,12 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khirbet al-Shajra, East",
-                  "text": "Egy ősi település maradványai az Ariel melletti dombok keleti lejtőin.",
-                  "category": "historical",
-                  "coords": [
-                        35.184202,
-                        32.095745
-                  ]
-            },
-            {
-                  "name": "Khirbet al-Shajra, West",
-                  "text": "Egy antik helyszín régészeti romjai az újkori Arieltől nyugatra fekvő hegygerincen.",
-                  "category": "historical",
-                  "coords": [
-                        35.181612,
-                        32.095557
-                  ]
-            },
-            {
                   "name": "Tomb of Joshua Ben Nun",
                   "text": "Ez a Kifl Hares-i vallási helyszín a hagyomány szerint a bibliai Józsué vezér nyughelye.",
                   "category": "landmark",
                   "coords": [
                         35.157286,
                         32.118738
-                  ]
-            },
-            {
-                  "name": "Salfit Municipality",
-                  "text": "Szalfít városának központi adminisztratív épülete és a helyi önkormányzat székhelye.",
-                  "category": "historical",
-                  "coords": [
-                        35.177247,
-                        32.082006
                   ]
             },
             {
@@ -8875,39 +8065,12 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khirbet al-Shajra, East",
-                  "text": "Rămășițele antice ale unei așezări situate pe pantele estice ale dealurilor de lângă Ariel.",
-                  "category": "historical",
-                  "coords": [
-                        35.184202,
-                        32.095745
-                  ]
-            },
-            {
-                  "name": "Khirbet al-Shajra, West",
-                  "text": "Ruinele arheologice ale unui sit antic situate pe creasta de la vest de Arielul modern.",
-                  "category": "historical",
-                  "coords": [
-                        35.181612,
-                        32.095557
-                  ]
-            },
-            {
                   "name": "Tomb of Joshua Ben Nun",
                   "text": "Acest sit religios din Kifl Hares este venerat prin tradiție ca fiind locul de înmormântare al liderului biblic Iosua.",
                   "category": "landmark",
                   "coords": [
                         35.157286,
                         32.118738
-                  ]
-            },
-            {
-                  "name": "Salfit Municipality",
-                  "text": "Clădirea administrativă centrală și sediul administrației locale din orașul Salfit.",
-                  "category": "historical",
-                  "coords": [
-                        35.177247,
-                        32.082006
                   ]
             },
             {
@@ -9120,39 +8283,12 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khirbet al-Shajra, East",
-                  "text": "Ancient remains of a settlement situated on the eastern slopes of the hills near Ariel.",
-                  "category": "historical",
-                  "coords": [
-                        35.184202,
-                        32.095745
-                  ]
-            },
-            {
-                  "name": "Khirbet al-Shajra, West",
-                  "text": "Archaeological ruins of an ancient site located on the ridge to the west of modern Ariel.",
-                  "category": "historical",
-                  "coords": [
-                        35.181612,
-                        32.095557
-                  ]
-            },
-            {
                   "name": "Tomb of Joshua Ben Nun",
                   "text": "This religious site in Kifl Hares is traditionally revered as the burial place of the biblical leader Joshua.",
                   "category": "landmark",
                   "coords": [
                         35.157286,
                         32.118738
-                  ]
-            },
-            {
-                  "name": "Salfit Municipality",
-                  "text": "The central administrative building and seat of local government in the city of Salfit.",
-                  "category": "historical",
-                  "coords": [
-                        35.177247,
-                        32.082006
                   ]
             },
             {
@@ -9465,15 +8601,6 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "kashda farm",
-                  "text": "Ein landwirtschaftlicher Betrieb, der den lokalen Anbau in der fruchtbaren Ebene von Tubas zeigt.",
-                  "category": "landmark",
-                  "coords": [
-                        35.356381,
-                        32.308495
-                  ]
-            },
-            {
                   "name": "Mount Gadir",
                   "text": "Ein Naturschutzgebiet auf den Kalksteinhügeln mit typisch mediterraner Strauchvegetation.",
                   "category": "natural",
@@ -9599,15 +8726,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         35.376353,
                         32.323976
-                  ]
-            },
-            {
-                  "name": "kashda farm",
-                  "text": "Mezőgazdasági telep, amely a helyi növénytermesztést mutatja be Tubas termékeny síkságán.",
-                  "category": "landmark",
-                  "coords": [
-                        35.356381,
-                        32.308495
                   ]
             },
             {
@@ -9739,15 +8857,6 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "kashda farm",
-                  "text": "O fermă agricolă ce expune culturile locale din câmpia fertilă a regiunii Tubas.",
-                  "category": "landmark",
-                  "coords": [
-                        35.356381,
-                        32.308495
-                  ]
-            },
-            {
                   "name": "Mount Gadir",
                   "text": "O rezervație naturală pe dealurile calcaroase, cu vegetație mediteraneană de arbuști.",
                   "category": "natural",
@@ -9873,15 +8982,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         35.376353,
                         32.323976
-                  ]
-            },
-            {
-                  "name": "kashda farm",
-                  "text": "An agricultural farm showcasing local cultivation in the fertile Tubas plain.",
-                  "category": "landmark",
-                  "coords": [
-                        35.356381,
-                        32.308495
                   ]
             },
             {
@@ -11256,15 +10356,6 @@ export const palestineEconomicV2: POI[] = [
     id: "palestine-khan-yunis-trade-center-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Jawwal New Showroom",
-                  "text": "Ein moderner Telekommunikations-Showroom, der den Bewohnern von Khan Yunis Mobilfunkdienste, technischen Support und mobile Geräte anbietet.",
-                  "category": "landmark",
-                  "coords": [
-                        34.305549,
-                        31.345412
-                  ]
-            },
-            {
                   "name": "Bilal Mosque",
                   "text": "Dieser lokale islamische Gebetsraum in Khan Yunis fungiert als täglicher religiöser und gemeinschaftlicher Mittelpunkt für benachbarte Familien.",
                   "category": "landmark",
@@ -11275,15 +10366,6 @@ export const palestineEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Jawwal New Showroom",
-                  "text": "Egy modern telekommunikációs bemutatóterem, amely mobilszolgáltatásokat, műszaki támogatást és mobileszközöket kínál Hán Júnisz lakóinak.",
-                  "category": "landmark",
-                  "coords": [
-                        34.305549,
-                        31.345412
-                  ]
-            },
             {
                   "name": "Bilal Mosque",
                   "text": "Ez a Hán Júnisz-i helyi iszlám imaterem napi vallási és közösségi központként működik a környékbeli családok számára.",
@@ -11296,15 +10378,6 @@ export const palestineEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Jawwal New Showroom",
-                  "text": "Un showroom modern de telecomunicații care oferă servicii celulare, asistență tehnică și dispozitive mobile rezidenților din Khan Yunis.",
-                  "category": "landmark",
-                  "coords": [
-                        34.305549,
-                        31.345412
-                  ]
-            },
-            {
                   "name": "Bilal Mosque",
                   "text": "Această sală locală de rugăciune islamică din Khan Yunis funcționează ca un punct focal religios și comunitar zilnic pentru familiile din apropiere.",
                   "category": "landmark",
@@ -11315,15 +10388,6 @@ export const palestineEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Jawwal New Showroom",
-                  "text": "A modern telecommunications showroom offering cellular services, technical support, and mobile devices to the residents of Khan Yunis.",
-                  "category": "landmark",
-                  "coords": [
-                        34.305549,
-                        31.345412
-                  ]
-            },
             {
                   "name": "Bilal Mosque",
                   "text": "This local Islamic prayer hall in Khan Yunis functions as a daily religious and community focal point for nearby families.",
@@ -11598,15 +10662,6 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khirbet Kafr Jul",
-                  "text": "Antike Mauerreste an einem Hang in der Nähe der Stadt Dahirija.",
-                  "category": "historical",
-                  "coords": [
-                        34.951666,
-                        31.434464
-                  ]
-            },
-            {
                   "name": "Tel Bet Mirsham",
                   "text": "Ein bedeutender biblischer Hügel, der mit der antiken Stadt Debir identifiziert wird.",
                   "category": "historical",
@@ -11813,15 +10868,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         34.889838,
                         31.441449
-                  ]
-            },
-            {
-                  "name": "Khirbet Kafr Jul",
-                  "text": "Ókori falmaradványok egy domboldalon Dahirija városa közelében.",
-                  "category": "historical",
-                  "coords": [
-                        34.951666,
-                        31.434464
                   ]
             },
             {
@@ -12034,15 +11080,6 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khirbet Kafr Jul",
-                  "text": "Rămășițe de zidărie antică pe un deal lângă orașul Dhahiriya.",
-                  "category": "historical",
-                  "coords": [
-                        34.951666,
-                        31.434464
-                  ]
-            },
-            {
                   "name": "Tel Bet Mirsham",
                   "text": "Un important dâmb biblic identificat cu orașul antic Debir.",
                   "category": "historical",
@@ -12249,15 +11286,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         34.889838,
                         31.441449
-                  ]
-            },
-            {
-                  "name": "Khirbet Kafr Jul",
-                  "text": "Ancient masonry remains on a hillside near the town of Dhahiriya.",
-                  "category": "historical",
-                  "coords": [
-                        34.951666,
-                        31.434464
                   ]
             },
             {
@@ -13353,15 +12381,6 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Home",
-                  "text": "Ein Aussichtspunkt, der einen weiten Blick über das Stadtgebiet und die umliegenden Wohnhäuser bietet.",
-                  "category": "natural",
-                  "coords": [
-                        35.203682,
-                        31.917288
-                  ]
-            },
-            {
                   "name": "Alesra' Mosque",
                   "text": "Eine Moschee im Stadtviertel, die nach der Nachtreise des Propheten benannt ist und den lokalen Gläubigen dient.",
                   "category": "landmark",
@@ -13433,15 +12452,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         35.20747,
                         31.919977
-                  ]
-            },
-            {
-                  "name": "Home",
-                  "text": "Kilátópont, amely széles körpanorámát kínál a városi területre és a környező lakóházakra.",
-                  "category": "natural",
-                  "coords": [
-                        35.203682,
-                        31.917288
                   ]
             },
             {
@@ -13519,15 +12529,6 @@ export const palestineEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Home",
-                  "text": "Un punct de observație care oferă o vedere panoramică asupra zonei urbane și a caselor rezidențiale din jur.",
-                  "category": "natural",
-                  "coords": [
-                        35.203682,
-                        31.917288
-                  ]
-            },
-            {
                   "name": "Alesra' Mosque",
                   "text": "O moschee urbană numită după călătoria de noapte a Profetului, care servește credincioșii locali.",
                   "category": "landmark",
@@ -13599,15 +12600,6 @@ export const palestineEconomicV2: POI[] = [
                   "coords": [
                         35.20747,
                         31.919977
-                  ]
-            },
-            {
-                  "name": "Home",
-                  "text": "A viewpoint offering a broad vista over the urban area and surrounding residential houses.",
-                  "category": "natural",
-                  "coords": [
-                        35.203682,
-                        31.917288
                   ]
             },
             {

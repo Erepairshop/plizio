@@ -2287,15 +2287,6 @@ export const poiExtraPeruCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Auditorio Hector Acuña",
-                  "text": "Das Auditorio Hector Acuña in Trujillo ist ein moderner Veranstaltungssaal für Konzerte und Events.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.042693,
-                        -8.129635
-                  ]
-            },
-            {
                   "name": "Catedralicio",
                   "text": "Das Museo Catedralicio in Trujillo befindet sich in der Kathedrale und zeigt religiöse Kunst und Gegenstände.",
                   "category": "museum",
@@ -2311,15 +2302,6 @@ export const poiExtraPeruCitiesV2: POI[] = [
                   "coords": [
                         -79.030592,
                         -8.111442
-                  ]
-            },
-            {
-                  "name": "Teatro Victor Raul Lozano Ibañez",
-                  "text": "Das Teatro Victor Raul Lozano Ibañez in Trujillo ist ein Theater für Schauspiel und Musikaufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.031158,
-                        -8.127652
                   ]
             },
             {
@@ -2377,15 +2359,6 @@ export const poiExtraPeruCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Huaca La Esmeralda",
-                  "text": "Huaca La Esmeralda ist eine archäologische Ruinenstätte in Trujillo, die für ihre präkolumbianische Lehmziegelbauweise bekannt ist.",
-                  "category": "historical",
-                  "coords": [
-                        -79.044959,
-                        -8.104696
-                  ]
-            },
-            {
                   "name": "Liga de Artesanos",
                   "text": "Die Liga de Artesanos in Trujillo ist ein Kulturzentrum und Markt für lokale Kunsthandwerker.",
                   "category": "cultural",
@@ -2431,24 +2404,6 @@ export const poiExtraPeruCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sare",
-                  "text": "Das Museum Sare in Trujillo zeigt kulturelles Erbe und lokale Traditionen.",
-                  "category": "museum",
-                  "coords": [
-                        -79.034914,
-                        -8.124339
-                  ]
-            },
-            {
-                  "name": "Bellas Artes",
-                  "text": "Das Museo Bellas Artes in Trujillo zeigt Gemälde und Skulpturen regionaler Künstler.",
-                  "category": "museum",
-                  "coords": [
-                        -79.035373,
-                        -8.125428
-                  ]
-            },
-            {
                   "name": "Iglesia de La Merced",
                   "text": "Die Iglesia de La Merced in Trujillo ist eine barocke Kolonialkirche aus dem 16. Jahrhundert.",
                   "category": "religious",
@@ -2469,15 +2424,6 @@ export const poiExtraPeruCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Auditorio Hector Acuña",
-                  "text": "A trujillói Auditorio Hector Acuña egy modern előadóterem koncertek és események számára.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.042693,
-                        -8.129635
-                  ]
-            },
-            {
                   "name": "Catedralicio",
                   "text": "A trujillói Museo Catedralicio a székesegyházban található, egyházi művészetet és tárgyakat mutat be.",
                   "category": "museum",
@@ -2493,15 +2439,6 @@ export const poiExtraPeruCitiesV2: POI[] = [
                   "coords": [
                         -79.030592,
                         -8.111442
-                  ]
-            },
-            {
-                  "name": "Teatro Victor Raul Lozano Ibañez",
-                  "text": "A trujillói Teatro Victor Raul Lozano Ibañez színházi előadások és zenei koncertek helyszíne.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.031158,
-                        -8.127652
                   ]
             },
             {
@@ -2559,15 +2496,6 @@ export const poiExtraPeruCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Huaca La Esmeralda",
-                  "text": "A Huaca La Esmeralda egy romterület Trujillo városában, amely prekolumbiánus vályogépítészetéről ismert.",
-                  "category": "historical",
-                  "coords": [
-                        -79.044959,
-                        -8.104696
-                  ]
-            },
-            {
                   "name": "Liga de Artesanos",
                   "text": "A trujillói Liga de Artesanos egy kultúrközpont és piac helyi kézművesek számára.",
                   "category": "cultural",
@@ -2613,24 +2541,6 @@ export const poiExtraPeruCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sare",
-                  "text": "A trujillói Sare múzeum a kulturális örökséget és a helyi hagyományokat mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -79.034914,
-                        -8.124339
-                  ]
-            },
-            {
-                  "name": "Bellas Artes",
-                  "text": "A trujillói Museo Bellas Artes regionális művészek festményeit és szobrait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -79.035373,
-                        -8.125428
-                  ]
-            },
-            {
                   "name": "Iglesia de La Merced",
                   "text": "Az Iglesia de La Merced Trujillóban egy barokk gyarmati templom a 16. századból.",
                   "category": "religious",
@@ -2651,15 +2561,6 @@ export const poiExtraPeruCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Auditorio Hector Acuña",
-                  "text": "Auditoriul Hector Acuña din Trujillo este o sală modernă pentru concerte și evenimente.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.042693,
-                        -8.129635
-                  ]
-            },
-            {
                   "name": "Catedralicio",
                   "text": "Muzeul Catedralicio din Trujillo se află în catedrală și expune artă religioasă și obiecte de cult.",
                   "category": "museum",
@@ -2675,15 +2576,6 @@ export const poiExtraPeruCitiesV2: POI[] = [
                   "coords": [
                         -79.030592,
                         -8.111442
-                  ]
-            },
-            {
-                  "name": "Teatro Victor Raul Lozano Ibañez",
-                  "text": "Teatrul Victor Raul Lozano Ibañez din Trujillo este un teatru pentru piese de teatru și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.031158,
-                        -8.127652
                   ]
             },
             {
@@ -2741,15 +2633,6 @@ export const poiExtraPeruCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Huaca La Esmeralda",
-                  "text": "Huaca La Esmeralda este un sit cu ruine din Trujillo, recunoscut pentru construcția sa precolumbiană din chirpici.",
-                  "category": "historical",
-                  "coords": [
-                        -79.044959,
-                        -8.104696
-                  ]
-            },
-            {
                   "name": "Liga de Artesanos",
                   "text": "Liga de Artesanos din Trujillo este un centru cultural și piață pentru meșteșugarii locali.",
                   "category": "cultural",
@@ -2795,24 +2678,6 @@ export const poiExtraPeruCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sare",
-                  "text": "Muzeul Sare din Trujillo prezintă patrimoniul cultural și tradițiile locale.",
-                  "category": "museum",
-                  "coords": [
-                        -79.034914,
-                        -8.124339
-                  ]
-            },
-            {
-                  "name": "Bellas Artes",
-                  "text": "Muzeul Bellas Artes din Trujillo expune picturi și sculpturi ale artiștilor regionali.",
-                  "category": "museum",
-                  "coords": [
-                        -79.035373,
-                        -8.125428
-                  ]
-            },
-            {
                   "name": "Iglesia de La Merced",
                   "text": "Iglesia de La Merced din Trujillo este o biserică barocă colonială din secolul al XVI-lea.",
                   "category": "religious",
@@ -2833,15 +2698,6 @@ export const poiExtraPeruCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Auditorio Hector Acuña",
-                  "text": "The Auditorio Hector Acuña in Trujillo is a modern venue for concerts and events.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.042693,
-                        -8.129635
-                  ]
-            },
-            {
                   "name": "Catedralicio",
                   "text": "The Museo Catedralicio in Trujillo is located within the cathedral and displays religious art and artifacts.",
                   "category": "museum",
@@ -2857,15 +2713,6 @@ export const poiExtraPeruCitiesV2: POI[] = [
                   "coords": [
                         -79.030592,
                         -8.111442
-                  ]
-            },
-            {
-                  "name": "Teatro Victor Raul Lozano Ibañez",
-                  "text": "The Teatro Victor Raul Lozano Ibañez in Trujillo is a theatre for plays and musical performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.031158,
-                        -8.127652
                   ]
             },
             {
@@ -2923,15 +2770,6 @@ export const poiExtraPeruCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Huaca La Esmeralda",
-                  "text": "Huaca La Esmeralda is a ruined archaeological site in Trujillo, recognized for its pre-Columbian adobe construction.",
-                  "category": "historical",
-                  "coords": [
-                        -79.044959,
-                        -8.104696
-                  ]
-            },
-            {
                   "name": "Liga de Artesanos",
                   "text": "Liga de Artesanos in Trujillo is a cultural centre and marketplace for local artisans.",
                   "category": "cultural",
@@ -2974,24 +2812,6 @@ export const poiExtraPeruCitiesV2: POI[] = [
                   "coords": [
                         -79.024141,
                         -8.117475
-                  ]
-            },
-            {
-                  "name": "Sare",
-                  "text": "The Sare museum in Trujillo showcases cultural heritage and local traditions.",
-                  "category": "museum",
-                  "coords": [
-                        -79.034914,
-                        -8.124339
-                  ]
-            },
-            {
-                  "name": "Bellas Artes",
-                  "text": "The Museo Bellas Artes in Trujillo exhibits paintings and sculptures by regional artists.",
-                  "category": "museum",
-                  "coords": [
-                        -79.035373,
-                        -8.125428
                   ]
             },
             {

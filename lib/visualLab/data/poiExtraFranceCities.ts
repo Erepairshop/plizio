@@ -188,57 +188,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lac de la Taillat",
-                  "text": "Ein malerischer See bei Grenoble, ideal für friedliche Spaziergänge und Naturbeobachtungen.",
-                  "category": "natural",
-                  "coords": [
-                        5.800731,
-                        45.189868
-                  ]
-            },
-            {
-                  "name": "Lac de Fiancey",
-                  "text": "Ein ruhiger See bei Grenoble, der eine entspannende Umgebung für Spaziergänge bietet.",
-                  "category": "natural",
-                  "coords": [
-                        5.69224,
-                        45.222186
-                  ]
-            },
-            {
-                  "name": "Eva Grenoble",
-                  "text": "Ein Virtual-Reality-Zentrum in Grenoble für Hightech-Spielspaß mit der ganzen Familie.",
-                  "category": "family",
-                  "coords": [
-                        5.687015,
-                        45.203555
-                  ]
-            },
-            {
                   "name": "Seven Squares",
                   "text": "Ein Freizeitzentrum in Grenoble mit verschiedenen Spielen für einen abwechslungsreichen Familientag.",
                   "category": "family",
                   "coords": [
                         5.755763,
                         45.18386
-                  ]
-            },
-            {
-                  "name": "Laser Game Evolution",
-                  "text": "Eine spannende Laser-Tag-Arena in Grenoble, ideal für aktive Familienwettbewerbe.",
-                  "category": "family",
-                  "coords": [
-                        5.774173,
-                        45.18461
-                  ]
-            },
-            {
-                  "name": "Parc des abeilles",
-                  "text": "Ein charmanter Themen-Spielplatz in Grenoble, auf dem Kinder in grüner Umgebung spielen können.",
-                  "category": "family",
-                  "coords": [
-                        5.75442,
-                        45.188889
                   ]
             },
             {
@@ -260,39 +215,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Square Minimail",
-                  "text": "Ein kleiner städtischer Spielplatz in Grenoble, ideal für eine kurze Familienpause.",
-                  "category": "family",
-                  "coords": [
-                        5.689452,
-                        45.195557
-                  ]
-            },
-            {
                   "name": "Dracque la dragonne",
                   "text": "Ein lustiger und fantasievoller Spielplatz in Grenoble, den Kinder erkunden können.",
                   "category": "family",
                   "coords": [
                         5.713258,
                         45.187421
-                  ]
-            },
-            {
-                  "name": "La Tourbière",
-                  "text": "Ein Spielplatz in Grenoble in einer angenehmen Umgebung für Familienzeit im Freien.",
-                  "category": "family",
-                  "coords": [
-                        5.742456,
-                        45.170145
-                  ]
-            },
-            {
-                  "name": "Parc de jeux du Marais",
-                  "text": "Ein Erholungsgebiet in Grenoble mit Spielstrukturen für Kinder jeden Alters.",
-                  "category": "family",
-                  "coords": [
-                        5.751017,
-                        45.16477
                   ]
             },
             {
@@ -305,30 +233,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Les Petites Alpes",
-                  "text": "Ein von den Bergen inspirierter Themen-Spielplatz in Grenoble für aktives Spielen.",
-                  "category": "family",
-                  "coords": [
-                        5.731763,
-                        45.158386
-                  ]
-            },
-            {
                   "name": "Silence",
                   "text": "Silence ist ein öffentliches Bad in Grenoble. Es bietet einen Ort zur Entspannung.",
                   "category": "family",
                   "coords": [
                         5.728414,
                         45.182841
-                  ]
-            },
-            {
-                  "name": "piscine tardy",
-                  "text": "piscine tardy ist ein Schwimmbad in Grenoble. Besucher können hier ein erfrischendes Bad nehmen.",
-                  "category": "family",
-                  "coords": [
-                        5.71023,
-                        45.170492
                   ]
             },
             {
@@ -347,24 +257,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.750851,
                         45.183751
-                  ]
-            },
-            {
-                  "name": "Petit Bassin",
-                  "text": "Petit Bassin ist ein Schwimmbad in Grenoble. Besucher können hier ein erfrischendes Bad nehmen.",
-                  "category": "family",
-                  "coords": [
-                        5.754082,
-                        45.149681
-                  ]
-            },
-            {
-                  "name": "Piscine",
-                  "text": "Piscine ist ein Schwimmbad in Grenoble. Besucher können hier ein erfrischendes Bad nehmen.",
-                  "category": "family",
-                  "coords": [
-                        5.673065,
-                        45.208432
                   ]
             },
             {
@@ -419,33 +311,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.731473,
                         45.19766
-                  ]
-            },
-            {
-                  "name": "Musée de la Viscose",
-                  "text": "Das Musée de la Viscose in der Nähe von Grenoble widmet sich der Geschichte der Kunstseidenherstellung. Besucher erfahren hier alles über den Produktionsprozess und das Leben der Fabrikarbeiter.",
-                  "category": "museum",
-                  "coords": [
-                        5.702776,
-                        45.157369
-                  ]
-            },
-            {
-                  "name": "Musée Hébert",
-                  "text": "Das Musée Hébert befindet sich in einem ehemaligen Wohnhaus in La Tronche bei Grenoble. Es zeigt Werke des Malers Ernest Hébert in einer charmanten Umgebung mit einem gepflegten Garten.",
-                  "category": "museum",
-                  "coords": [
-                        5.751056,
-                        45.205737
-                  ]
-            },
-            {
-                  "name": "Fort de la Bastille",
-                  "text": "Das Fort de la Bastille ist eine historische Festungsanlage, die hoch über Grenoble thront. Besucher können sie mit der berühmten Seilbahn erreichen und den spektakulären Blick auf die Alpen genießen.",
-                  "category": "fortress",
-                  "coords": [
-                        5.725274,
-                        45.198953
                   ]
             },
             {
@@ -708,57 +573,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lac de la Taillat",
-                  "text": "Festői tó Grenoble környékén, amely ideális nyugodt sétákhoz és a természet megfigyeléséhez.",
-                  "category": "natural",
-                  "coords": [
-                        5.800731,
-                        45.189868
-                  ]
-            },
-            {
-                  "name": "Lac de Fiancey",
-                  "text": "Csendes tó Grenoble közelében, amely pihentető környezetet kínál a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        5.69224,
-                        45.222186
-                  ]
-            },
-            {
-                  "name": "Eva Grenoble",
-                  "text": "Virtuális valóság központ Grenoble-ban a csúcstechnológiás közös játékélményért.",
-                  "category": "family",
-                  "coords": [
-                        5.687015,
-                        45.203555
-                  ]
-            },
-            {
                   "name": "Seven Squares",
                   "text": "Szabadidőközpont Grenoble-ban különféle játékokkal egy változatos családi naphoz.",
                   "category": "family",
                   "coords": [
                         5.755763,
                         45.18386
-                  ]
-            },
-            {
-                  "name": "Laser Game Evolution",
-                  "text": "Izgalmas lézerjáték-aréna Grenoble-ban, amely tökéletes az aktív családi versenyekhez.",
-                  "category": "family",
-                  "coords": [
-                        5.774173,
-                        45.18461
-                  ]
-            },
-            {
-                  "name": "Parc des abeilles",
-                  "text": "Bájos tematikus játszótér Grenoble-ban, ahol a gyerekek zöld környezetben játszhatnak.",
-                  "category": "family",
-                  "coords": [
-                        5.75442,
-                        45.188889
                   ]
             },
             {
@@ -780,39 +600,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Square Minimail",
-                  "text": "Kis városi játszótér Grenoble-ban, amely ideális egy gyors családi szünethez.",
-                  "category": "family",
-                  "coords": [
-                        5.689452,
-                        45.195557
-                  ]
-            },
-            {
                   "name": "Dracque la dragonne",
                   "text": "Vidám és ötletes játszótér Grenoble-ban, amelyet a gyerekek felfedezhetnek.",
                   "category": "family",
                   "coords": [
                         5.713258,
                         45.187421
-                  ]
-            },
-            {
-                  "name": "La Tourbière",
-                  "text": "Játszótér Grenoble-ban, kellemes környezetben a szabadtéri családi időtöltéshez.",
-                  "category": "family",
-                  "coords": [
-                        5.742456,
-                        45.170145
-                  ]
-            },
-            {
-                  "name": "Parc de jeux du Marais",
-                  "text": "Szabadidős terület Grenoble-ban játéklehetőségekkel minden korosztály számára.",
-                  "category": "family",
-                  "coords": [
-                        5.751017,
-                        45.16477
                   ]
             },
             {
@@ -825,30 +618,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Les Petites Alpes",
-                  "text": "Hegyek ihlette tematikus játszótér Grenoble-ban az aktív játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        5.731763,
-                        45.158386
-                  ]
-            },
-            {
                   "name": "Silence",
                   "text": "A Silence egy nyilvános fürdő Grenoble-ban. Helyet kínál a pihenésre.",
                   "category": "family",
                   "coords": [
                         5.728414,
                         45.182841
-                  ]
-            },
-            {
-                  "name": "piscine tardy",
-                  "text": "A piscine tardy egy uszoda Grenoble-ban. A látogatók itt frissítő úszást élvezhetnek.",
-                  "category": "family",
-                  "coords": [
-                        5.71023,
-                        45.170492
                   ]
             },
             {
@@ -867,24 +642,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.750851,
                         45.183751
-                  ]
-            },
-            {
-                  "name": "Petit Bassin",
-                  "text": "A Petit Bassin egy uszoda Grenoble-ban. A látogatók itt frissítő úszást élvezhetnek.",
-                  "category": "family",
-                  "coords": [
-                        5.754082,
-                        45.149681
-                  ]
-            },
-            {
-                  "name": "Piscine",
-                  "text": "A Piscine egy uszoda Grenoble-ban. A látogatók itt frissítő úszást élvezhetnek.",
-                  "category": "family",
-                  "coords": [
-                        5.673065,
-                        45.208432
                   ]
             },
             {
@@ -939,33 +696,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.731473,
                         45.19766
-                  ]
-            },
-            {
-                  "name": "Musée de la Viscose",
-                  "text": "A Grenoble melletti Viszkóz Múzeum a műselyemgyártás történetének szentelt helyszín. A látogatók mindent megtudhatnak a gyártási folyamatról és a gyári munkások életéről.",
-                  "category": "museum",
-                  "coords": [
-                        5.702776,
-                        45.157369
-                  ]
-            },
-            {
-                  "name": "Musée Hébert",
-                  "text": "A Hébert Múzeum Ernest Hébert festő egykori lakóházában található La Tronche-ban, Grenoble mellett. A művész alkotásait mutatja be bájos környezetben, egy gondozott kerttel.",
-                  "category": "museum",
-                  "coords": [
-                        5.751056,
-                        45.205737
-                  ]
-            },
-            {
-                  "name": "Fort de la Bastille",
-                  "text": "A Bastille-erőd egy történelmi erődítmény, amely magasan Grenoble fölé magasodik. A látogatók a híres felvonóval érhetik el, és élvezhetik a lenyűgöző kilátást az Alpokra.",
-                  "category": "fortress",
-                  "coords": [
-                        5.725274,
-                        45.198953
                   ]
             },
             {
@@ -1228,57 +958,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lac de la Taillat",
-                  "text": "Un lac pitoresc lângă Grenoble, ideal pentru plimbări liniștite și observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        5.800731,
-                        45.189868
-                  ]
-            },
-            {
-                  "name": "Lac de Fiancey",
-                  "text": "Un lac liniștit lângă Grenoble, care oferă un mediu relaxant pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        5.69224,
-                        45.222186
-                  ]
-            },
-            {
-                  "name": "Eva Grenoble",
-                  "text": "Un centru de realitate virtuală în Grenoble pentru distracție high-tech cu întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        5.687015,
-                        45.203555
-                  ]
-            },
-            {
                   "name": "Seven Squares",
                   "text": "Un centru de agrement în Grenoble cu diverse jocuri pentru o zi variată în familie.",
                   "category": "family",
                   "coords": [
                         5.755763,
                         45.18386
-                  ]
-            },
-            {
-                  "name": "Laser Game Evolution",
-                  "text": "O arenă incitantă de laser tag în Grenoble, perfectă pentru competiții active în familie.",
-                  "category": "family",
-                  "coords": [
-                        5.774173,
-                        45.18461
-                  ]
-            },
-            {
-                  "name": "Parc des abeilles",
-                  "text": "Un teren de joacă tematic fermecător în Grenoble, unde copiii se pot juca într-un cadru verde.",
-                  "category": "family",
-                  "coords": [
-                        5.75442,
-                        45.188889
                   ]
             },
             {
@@ -1300,39 +985,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Square Minimail",
-                  "text": "Un mic teren de joacă urban în Grenoble, ideal pentru o scurtă pauză în familie.",
-                  "category": "family",
-                  "coords": [
-                        5.689452,
-                        45.195557
-                  ]
-            },
-            {
                   "name": "Dracque la dragonne",
                   "text": "Un teren de joacă distractiv și plin de imaginație în Grenoble, pe care copiii îl pot explora.",
                   "category": "family",
                   "coords": [
                         5.713258,
                         45.187421
-                  ]
-            },
-            {
-                  "name": "La Tourbière",
-                  "text": "Un teren de joacă în Grenoble situat într-un mediu plăcut pentru timp în familie în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        5.742456,
-                        45.170145
-                  ]
-            },
-            {
-                  "name": "Parc de jeux du Marais",
-                  "text": "O zonă recreativă în Grenoble cu structuri de joacă pentru copii de toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        5.751017,
-                        45.16477
                   ]
             },
             {
@@ -1345,30 +1003,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Les Petites Alpes",
-                  "text": "Un teren de joacă tematic în Grenoble, inspirat de munți, pentru joacă activă.",
-                  "category": "family",
-                  "coords": [
-                        5.731763,
-                        45.158386
-                  ]
-            },
-            {
                   "name": "Silence",
                   "text": "Silence este o baie publică în Grenoble. Oferă un loc perfect pentru relaxare.",
                   "category": "family",
                   "coords": [
                         5.728414,
                         45.182841
-                  ]
-            },
-            {
-                  "name": "piscine tardy",
-                  "text": "piscine tardy este o piscină în Grenoble. Vizitatorii se pot bucura de o baie răcoritoare aici.",
-                  "category": "family",
-                  "coords": [
-                        5.71023,
-                        45.170492
                   ]
             },
             {
@@ -1387,24 +1027,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.750851,
                         45.183751
-                  ]
-            },
-            {
-                  "name": "Petit Bassin",
-                  "text": "Petit Bassin este o piscină în Grenoble. Vizitatorii se pot bucura de o baie răcoritoare aici.",
-                  "category": "family",
-                  "coords": [
-                        5.754082,
-                        45.149681
-                  ]
-            },
-            {
-                  "name": "Piscine",
-                  "text": "Piscine este o piscină în Grenoble. Vizitatorii se pot bucura de o baie răcoritoare aici.",
-                  "category": "family",
-                  "coords": [
-                        5.673065,
-                        45.208432
                   ]
             },
             {
@@ -1459,33 +1081,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.731473,
                         45.19766
-                  ]
-            },
-            {
-                  "name": "Musée de la Viscose",
-                  "text": "Muzeul Viscozei de lângă Grenoble este dedicat istoriei fabricării mătăsii artificiale. Vizitatorii află aici totul despre procesul de producție și viața muncitorilor din fabrică.",
-                  "category": "museum",
-                  "coords": [
-                        5.702776,
-                        45.157369
-                  ]
-            },
-            {
-                  "name": "Musée Hébert",
-                  "text": "Muzeul Hébert se află în fosta reședință a pictorului Ernest Hébert din La Tronche, lângă Grenoble. Expune lucrările artistului într-un cadru fermecător, cu o grădină bine întreținută.",
-                  "category": "museum",
-                  "coords": [
-                        5.751056,
-                        45.205737
-                  ]
-            },
-            {
-                  "name": "Fort de la Bastille",
-                  "text": "Fortul Bastille este o fortificație istorică situată la înălțime deasupra orașului Grenoble. Vizitatorii pot ajunge acolo cu celebra telecabină și se pot bucura de o vedere spectaculoasă asupra Alpilor.",
-                  "category": "fortress",
-                  "coords": [
-                        5.725274,
-                        45.198953
                   ]
             },
             {
@@ -1748,57 +1343,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lac de la Taillat",
-                  "text": "A scenic lake near Grenoble ideal for peaceful walks and nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        5.800731,
-                        45.189868
-                  ]
-            },
-            {
-                  "name": "Lac de Fiancey",
-                  "text": "A quiet lake near Grenoble offering a relaxing environment for strolls.",
-                  "category": "natural",
-                  "coords": [
-                        5.69224,
-                        45.222186
-                  ]
-            },
-            {
-                  "name": "Eva Grenoble",
-                  "text": "A virtual reality center in Grenoble for high-tech gaming fun with the whole family.",
-                  "category": "family",
-                  "coords": [
-                        5.687015,
-                        45.203555
-                  ]
-            },
-            {
                   "name": "Seven Squares",
                   "text": "A leisure center in Grenoble with various games for a diverse family day out.",
                   "category": "family",
                   "coords": [
                         5.755763,
                         45.18386
-                  ]
-            },
-            {
-                  "name": "Laser Game Evolution",
-                  "text": "An exciting laser tag arena in Grenoble perfect for active family competitions.",
-                  "category": "family",
-                  "coords": [
-                        5.774173,
-                        45.18461
-                  ]
-            },
-            {
-                  "name": "Parc des abeilles",
-                  "text": "A charming themed playground in Grenoble where children can play in a green setting.",
-                  "category": "family",
-                  "coords": [
-                        5.75442,
-                        45.188889
                   ]
             },
             {
@@ -1820,39 +1370,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Square Minimail",
-                  "text": "A small urban playground in Grenoble ideal for a quick family break.",
-                  "category": "family",
-                  "coords": [
-                        5.689452,
-                        45.195557
-                  ]
-            },
-            {
                   "name": "Dracque la dragonne",
                   "text": "A fun and imaginative playground in Grenoble for children to explore.",
                   "category": "family",
                   "coords": [
                         5.713258,
                         45.187421
-                  ]
-            },
-            {
-                  "name": "La Tourbière",
-                  "text": "A playground in Grenoble located in a pleasant environment for outdoor family time.",
-                  "category": "family",
-                  "coords": [
-                        5.742456,
-                        45.170145
-                  ]
-            },
-            {
-                  "name": "Parc de jeux du Marais",
-                  "text": "A recreational area in Grenoble with play structures for children of all ages.",
-                  "category": "family",
-                  "coords": [
-                        5.751017,
-                        45.16477
                   ]
             },
             {
@@ -1865,30 +1388,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Les Petites Alpes",
-                  "text": "A themed playground in Grenoble inspired by the mountains for active play.",
-                  "category": "family",
-                  "coords": [
-                        5.731763,
-                        45.158386
-                  ]
-            },
-            {
                   "name": "Silence",
                   "text": "Silence is a public bath in Grenoble. It offers a place for relaxation.",
                   "category": "family",
                   "coords": [
                         5.728414,
                         45.182841
-                  ]
-            },
-            {
-                  "name": "piscine tardy",
-                  "text": "piscine tardy is a swimming pool in Grenoble. Visitors can enjoy a refreshing swim here.",
-                  "category": "family",
-                  "coords": [
-                        5.71023,
-                        45.170492
                   ]
             },
             {
@@ -1907,24 +1412,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.750851,
                         45.183751
-                  ]
-            },
-            {
-                  "name": "Petit Bassin",
-                  "text": "Petit Bassin is a swimming pool in Grenoble. Visitors can enjoy a refreshing swim here.",
-                  "category": "family",
-                  "coords": [
-                        5.754082,
-                        45.149681
-                  ]
-            },
-            {
-                  "name": "Piscine",
-                  "text": "Piscine is a swimming pool in Grenoble. Visitors can enjoy a refreshing swim here.",
-                  "category": "family",
-                  "coords": [
-                        5.673065,
-                        45.208432
                   ]
             },
             {
@@ -1979,33 +1466,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.731473,
                         45.19766
-                  ]
-            },
-            {
-                  "name": "Musée de la Viscose",
-                  "text": "The Viscose Museum near Grenoble is dedicated to the history of artificial silk production. Visitors can learn all about the production process and the lives of the factory workers here.",
-                  "category": "museum",
-                  "coords": [
-                        5.702776,
-                        45.157369
-                  ]
-            },
-            {
-                  "name": "Musée Hébert",
-                  "text": "The Hébert Museum is located in the former home of painter Ernest Hébert in La Tronche near Grenoble. It displays the artist's works in a charming setting with a well-kept garden.",
-                  "category": "museum",
-                  "coords": [
-                        5.751056,
-                        45.205737
-                  ]
-            },
-            {
-                  "name": "Fort de la Bastille",
-                  "text": "The Fort de la Bastille is a historical fortification perched high above Grenoble. Visitors can reach it via the famous cable car and enjoy spectacular views of the Alps.",
-                  "category": "fortress",
-                  "coords": [
-                        5.725274,
-                        45.198953
                   ]
             },
             {
@@ -2900,24 +2360,6 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Ambiance Spa",
-                  "text": "Dieses öffentliche Bad in Rouen bietet eine ruhige Atmosphäre für Entspannung und Erholung.",
-                  "category": "family",
-                  "coords": [
-                        1.094256,
-                        49.474849
-                  ]
-            },
-            {
-                  "name": "Jardin des oiseaux",
-                  "text": "Dieser Vogelgarten in Rouen ist ein schöner Ort für Familien, um die bunte Vogelwelt zu entdecken.",
-                  "category": "family",
-                  "coords": [
-                        1.055205,
-                        49.421222
-                  ]
-            },
-            {
                   "name": "Hotel particulier",
                   "text": "Ein historisches Stadtpalais in Rouen, eingetragen als Baudenkmal.",
                   "category": "castle",
@@ -3121,24 +2563,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         1.109873,
                         49.433602
-                  ]
-            },
-            {
-                  "name": "Ambiance Spa",
-                  "text": "Ez a roueni közfürdő nyugodt légkört biztosít a pihenéshez és a kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        1.094256,
-                        49.474849
-                  ]
-            },
-            {
-                  "name": "Jardin des oiseaux",
-                  "text": "Ez a roueni madárkert szép hely a családok számára a színes madárvilág felfedezéséhez.",
-                  "category": "family",
-                  "coords": [
-                        1.055205,
-                        49.421222
                   ]
             },
             {
@@ -3348,24 +2772,6 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Ambiance Spa",
-                  "text": "Această baie publică din Rouen oferă o atmosferă liniștită pentru relaxare și recuperare.",
-                  "category": "family",
-                  "coords": [
-                        1.094256,
-                        49.474849
-                  ]
-            },
-            {
-                  "name": "Jardin des oiseaux",
-                  "text": "Această grădină de păsări din Rouen este un loc plăcut pentru familii pentru a descoperi lumea colorată a păsărilor.",
-                  "category": "family",
-                  "coords": [
-                        1.055205,
-                        49.421222
-                  ]
-            },
-            {
                   "name": "Hotel particulier",
                   "text": "Un hotel particular istoric în Rouen, înscris ca monument istoric.",
                   "category": "castle",
@@ -3569,24 +2975,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         1.109873,
                         49.433602
-                  ]
-            },
-            {
-                  "name": "Ambiance Spa",
-                  "text": "This public bath in Rouen provides a quiet atmosphere for relaxation and recovery.",
-                  "category": "family",
-                  "coords": [
-                        1.094256,
-                        49.474849
-                  ]
-            },
-            {
-                  "name": "Jardin des oiseaux",
-                  "text": "This bird garden in Rouen is a lovely place for families to discover the colorful bird world.",
-                  "category": "family",
-                  "coords": [
-                        1.055205,
-                        49.421222
                   ]
             },
             {
@@ -3950,42 +3338,6 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Étang du Méjean",
-                  "text": "Der Étang du Méjean bei Montpellier ist ein ruhiger See, ideal für Naturbeobachtungen.",
-                  "category": "natural",
-                  "coords": [
-                        3.919758,
-                        43.54657
-                  ]
-            },
-            {
-                  "name": "Bras mort du Lez",
-                  "text": "Ein Altarm des Lez in Montpellier, ein natürliches Feuchtgebiet.",
-                  "category": "natural",
-                  "coords": [
-                        3.877851,
-                        43.649311
-                  ]
-            },
-            {
-                  "name": "Bras secondaire du Lez",
-                  "text": "Der Bras secondaire du Lez in Montpellier lädt zu ruhigen Momenten am Wasser ein.",
-                  "category": "natural",
-                  "coords": [
-                        3.886011,
-                        43.644361
-                  ]
-            },
-            {
-                  "name": "Lac du Crès",
-                  "text": "Der Lac du Crès bei Montpellier ist ein beliebtes Ziel für erholsame Ausflüge am See.",
-                  "category": "natural",
-                  "coords": [
-                        3.930887,
-                        43.654874
-                  ]
-            },
-            {
                   "name": "SALLE DE JEUX",
                   "text": "Die SALLE DE JEUX in Montpellier bietet abwechslungsreiche Unterhaltung für Familien.",
                   "category": "family",
@@ -4013,30 +3365,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Les Mandrous",
-                  "text": "Ein Familienpark oder Garten in Montpellier, genannt Les Mandrous.",
-                  "category": "family",
-                  "coords": [
-                        3.901921,
-                        43.631983
-                  ]
-            },
-            {
                   "name": "Laser Game",
                   "text": "Laser Game in Montpellier bietet spannende Action und Teamspaß für Familien.",
                   "category": "family",
                   "coords": [
                         3.856429,
                         43.588957
-                  ]
-            },
-            {
-                  "name": "Aire de jeux du Parc Domaine de Méric",
-                  "text": "Die Aire de jeux du Parc Domaine de Méric in Montpellier ist ein herrlicher Ort zum Spielen im Grünen.",
-                  "category": "family",
-                  "coords": [
-                        3.892396,
-                        43.630929
                   ]
             },
             {
@@ -4094,48 +3428,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Le Lunaret",
-                  "text": "Ein Familienbereich in Montpellier, möglicherweise ein Zoo (Lunaret).",
-                  "category": "family",
-                  "coords": [
-                        3.873688,
-                        43.63988
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Place de l'Aiguelongue",
-                  "text": "Ein Spielplatz auf der Place de l'Aiguelongue in Montpellier.",
-                  "category": "family",
-                  "coords": [
-                        3.880828,
-                        43.627964
-                  ]
-            },
-            {
-                  "name": "Aire des Rhinocéros Statues",
-                  "text": "Die Aire des Rhinocéros Statues in Montpellier bietet einen einzigartigen Spielbereich für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        3.877919,
-                        43.64358
-                  ]
-            },
-            {
                   "name": "Aire de jeux du Square Jean Baumel",
                   "text": "Ein Spielplatz im Square Jean Baumel in Montpellier.",
                   "category": "family",
                   "coords": [
                         3.85836,
                         43.640334
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des Grisettes",
-                  "text": "Die Aire de jeux des Grisettes in Montpellier bietet modernen Spielspaß in freundlicher Umgebung.",
-                  "category": "family",
-                  "coords": [
-                        3.85777,
-                        43.582928
                   ]
             },
             {
@@ -4181,24 +3479,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         3.888078,
                         43.606464
-                  ]
-            },
-            {
-                  "name": "Résidence Parc Academie La Rosiere",
-                  "text": "Ein familienorientiertes Wohnheim im Parc Academie La Rosiere, Montpellier.",
-                  "category": "family",
-                  "coords": [
-                        3.863128,
-                        43.640835
-                  ]
-            },
-            {
-                  "name": "Zoo de Lunaret",
-                  "text": "Zoo de Lunaret ist ein Zoo in Montpellier, der Naturerlebnisse für Groß und Klein bietet.",
-                  "category": "family",
-                  "coords": [
-                        3.88044,
-                        43.642612
                   ]
             },
             {
@@ -4571,42 +3851,6 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Étang du Méjean",
-                  "text": "A Montpellier melletti Étang du Méjean egy csendes tó, amely ideális a természet megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        3.919758,
-                        43.54657
-                  ]
-            },
-            {
-                  "name": "Bras mort du Lez",
-                  "text": "A Lez folyó holtága Montpellier-ben, természetes vizes élőhely.",
-                  "category": "natural",
-                  "coords": [
-                        3.877851,
-                        43.649311
-                  ]
-            },
-            {
-                  "name": "Bras secondaire du Lez",
-                  "text": "A montpellieri Bras secondaire du Lez nyugodt pillanatokra hív a vízparton.",
-                  "category": "natural",
-                  "coords": [
-                        3.886011,
-                        43.644361
-                  ]
-            },
-            {
-                  "name": "Lac du Crès",
-                  "text": "A Montpellier melletti Lac du Crès népszerű úti cél a tóparti pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        3.930887,
-                        43.654874
-                  ]
-            },
-            {
                   "name": "SALLE DE JEUX",
                   "text": "A montpellieri SALLE DE JEUX változatos szórakozást kínál a családoknak.",
                   "category": "family",
@@ -4634,30 +3878,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Les Mandrous",
-                  "text": "Családi park vagy kert Montpellier-ben, Les Mandrous néven.",
-                  "category": "family",
-                  "coords": [
-                        3.901921,
-                        43.631983
-                  ]
-            },
-            {
                   "name": "Laser Game",
                   "text": "A montpellieri Laser Game izgalmas akciót és csapatszórakozást kínál a családoknak.",
                   "category": "family",
                   "coords": [
                         3.856429,
                         43.588957
-                  ]
-            },
-            {
-                  "name": "Aire de jeux du Parc Domaine de Méric",
-                  "text": "A montpellieri Aire de jeux du Parc Domaine de Méric egy csodás játszótér zöld környezetben.",
-                  "category": "family",
-                  "coords": [
-                        3.892396,
-                        43.630929
                   ]
             },
             {
@@ -4715,48 +3941,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Le Lunaret",
-                  "text": "Családi terület Montpellier-ben, esetleg állatkert (Lunaret).",
-                  "category": "family",
-                  "coords": [
-                        3.873688,
-                        43.63988
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Place de l'Aiguelongue",
-                  "text": "Játszótér a Place de l'Aiguelongue-on Montpellier-ben.",
-                  "category": "family",
-                  "coords": [
-                        3.880828,
-                        43.627964
-                  ]
-            },
-            {
-                  "name": "Aire des Rhinocéros Statues",
-                  "text": "A montpellieri Aire des Rhinocéros Statues egyedülálló játszóteret kínál a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        3.877919,
-                        43.64358
-                  ]
-            },
-            {
                   "name": "Aire de jeux du Square Jean Baumel",
                   "text": "Játszótér a Square Jean Baumel-ben Montpellier-ben.",
                   "category": "family",
                   "coords": [
                         3.85836,
                         43.640334
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des Grisettes",
-                  "text": "A montpellieri Aire de jeux des Grisettes modern játékélményt nyújt barátságos környezetben.",
-                  "category": "family",
-                  "coords": [
-                        3.85777,
-                        43.582928
                   ]
             },
             {
@@ -4802,24 +3992,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         3.888078,
                         43.606464
-                  ]
-            },
-            {
-                  "name": "Résidence Parc Academie La Rosiere",
-                  "text": "Családorientált rezidencia a Parc Academie La Rosiere-ben, Montpellier-ben.",
-                  "category": "family",
-                  "coords": [
-                        3.863128,
-                        43.640835
-                  ]
-            },
-            {
-                  "name": "Zoo de Lunaret",
-                  "text": "A Zoo de Lunaret egy állatkert Montpellier városában, amely természetközeli élményt nyújt kicsiknek és nagyoknak.",
-                  "category": "family",
-                  "coords": [
-                        3.88044,
-                        43.642612
                   ]
             },
             {
@@ -5192,42 +4364,6 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Étang du Méjean",
-                  "text": "Étang du Méjean de lângă Montpellier este un lac liniștit, ideal pentru observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        3.919758,
-                        43.54657
-                  ]
-            },
-            {
-                  "name": "Bras mort du Lez",
-                  "text": "Un braț mort al râului Lez în Montpellier, o zonă umedă naturală.",
-                  "category": "natural",
-                  "coords": [
-                        3.877851,
-                        43.649311
-                  ]
-            },
-            {
-                  "name": "Bras secondaire du Lez",
-                  "text": "Bras secundaire du Lez din Montpellier invită la momente de liniște pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        3.886011,
-                        43.644361
-                  ]
-            },
-            {
-                  "name": "Lac du Crès",
-                  "text": "Lac du Crès de lângă Montpellier este o destinație populară pentru excursii relaxante la lac.",
-                  "category": "natural",
-                  "coords": [
-                        3.930887,
-                        43.654874
-                  ]
-            },
-            {
                   "name": "SALLE DE JEUX",
                   "text": "SALLE DE JEUX din Montpellier oferă divertisment variat pentru familii.",
                   "category": "family",
@@ -5255,30 +4391,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Les Mandrous",
-                  "text": "Un parc sau grădină pentru familie în Montpellier, numit Les Mandrous.",
-                  "category": "family",
-                  "coords": [
-                        3.901921,
-                        43.631983
-                  ]
-            },
-            {
                   "name": "Laser Game",
                   "text": "Laser Game din Montpellier oferă acțiune captivantă și distracție în echipă pentru familii.",
                   "category": "family",
                   "coords": [
                         3.856429,
                         43.588957
-                  ]
-            },
-            {
-                  "name": "Aire de jeux du Parc Domaine de Méric",
-                  "text": "Aire de joacă din Parc Domaine de Méric din Montpellier este un loc minunat pentru joacă în natură.",
-                  "category": "family",
-                  "coords": [
-                        3.892396,
-                        43.630929
                   ]
             },
             {
@@ -5336,48 +4454,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Le Lunaret",
-                  "text": "O zonă pentru familii în Montpellier, posibil o grădină zoologică (Lunaret).",
-                  "category": "family",
-                  "coords": [
-                        3.873688,
-                        43.63988
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Place de l'Aiguelongue",
-                  "text": "Un loc de joacă în Piața Aiguelongue din Montpellier.",
-                  "category": "family",
-                  "coords": [
-                        3.880828,
-                        43.627964
-                  ]
-            },
-            {
-                  "name": "Aire des Rhinocéros Statues",
-                  "text": "Aire des Rhinocéros Statues din Montpellier oferă o zonă de joacă unică pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        3.877919,
-                        43.64358
-                  ]
-            },
-            {
                   "name": "Aire de jeux du Square Jean Baumel",
                   "text": "Un loc de joacă în Piața Jean Baumel din Montpellier.",
                   "category": "family",
                   "coords": [
                         3.85836,
                         43.640334
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des Grisettes",
-                  "text": "Aire de joacă des Grisettes din Montpellier oferă distracție modernă într-un mediu prietenos.",
-                  "category": "family",
-                  "coords": [
-                        3.85777,
-                        43.582928
                   ]
             },
             {
@@ -5423,24 +4505,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         3.888078,
                         43.606464
-                  ]
-            },
-            {
-                  "name": "Résidence Parc Academie La Rosiere",
-                  "text": "O reședință orientată spre familie în Parc Academie La Rosiere, Montpellier.",
-                  "category": "family",
-                  "coords": [
-                        3.863128,
-                        43.640835
-                  ]
-            },
-            {
-                  "name": "Zoo de Lunaret",
-                  "text": "Zoo de Lunaret este o grădină zoologică în Montpellier care oferă experiențe în natură pentru toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        3.88044,
-                        43.642612
                   ]
             },
             {
@@ -5813,42 +4877,6 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Étang du Méjean",
-                  "text": "Étang du Méjean near Montpellier is a quiet lake, ideal for nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        3.919758,
-                        43.54657
-                  ]
-            },
-            {
-                  "name": "Bras mort du Lez",
-                  "text": "An oxbow lake of the Lez river in Montpellier, a natural wetland.",
-                  "category": "natural",
-                  "coords": [
-                        3.877851,
-                        43.649311
-                  ]
-            },
-            {
-                  "name": "Bras secondaire du Lez",
-                  "text": "Bras secondaire du Lez in Montpellier invites quiet moments by the water.",
-                  "category": "natural",
-                  "coords": [
-                        3.886011,
-                        43.644361
-                  ]
-            },
-            {
-                  "name": "Lac du Crès",
-                  "text": "Lac du Crès near Montpellier is a popular destination for relaxing trips by the lake.",
-                  "category": "natural",
-                  "coords": [
-                        3.930887,
-                        43.654874
-                  ]
-            },
-            {
                   "name": "SALLE DE JEUX",
                   "text": "SALLE DE JEUX in Montpellier offers diverse entertainment for families.",
                   "category": "family",
@@ -5876,30 +4904,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Les Mandrous",
-                  "text": "A family park or garden in Montpellier, called Les Mandrous.",
-                  "category": "family",
-                  "coords": [
-                        3.901921,
-                        43.631983
-                  ]
-            },
-            {
                   "name": "Laser Game",
                   "text": "Laser Game in Montpellier offers exciting action and team fun for families.",
                   "category": "family",
                   "coords": [
                         3.856429,
                         43.588957
-                  ]
-            },
-            {
-                  "name": "Aire de jeux du Parc Domaine de Méric",
-                  "text": "The playground at Parc Domaine de Méric in Montpellier is a wonderful spot for outdoor play.",
-                  "category": "family",
-                  "coords": [
-                        3.892396,
-                        43.630929
                   ]
             },
             {
@@ -5957,48 +4967,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Le Lunaret",
-                  "text": "A family area in Montpellier, possibly a zoo (Lunaret).",
-                  "category": "family",
-                  "coords": [
-                        3.873688,
-                        43.63988
-                  ]
-            },
-            {
-                  "name": "Aire de jeux Place de l'Aiguelongue",
-                  "text": "A playground on Place de l'Aiguelongue in Montpellier.",
-                  "category": "family",
-                  "coords": [
-                        3.880828,
-                        43.627964
-                  ]
-            },
-            {
-                  "name": "Aire des Rhinocéros Statues",
-                  "text": "The Aire des Rhinocéros Statues in Montpellier offers a unique play area for children.",
-                  "category": "family",
-                  "coords": [
-                        3.877919,
-                        43.64358
-                  ]
-            },
-            {
                   "name": "Aire de jeux du Square Jean Baumel",
                   "text": "A playground in Square Jean Baumel in Montpellier.",
                   "category": "family",
                   "coords": [
                         3.85836,
                         43.640334
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des Grisettes",
-                  "text": "The playground at des Grisettes in Montpellier offers modern play fun in a friendly environment.",
-                  "category": "family",
-                  "coords": [
-                        3.85777,
-                        43.582928
                   ]
             },
             {
@@ -6044,24 +5018,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         3.888078,
                         43.606464
-                  ]
-            },
-            {
-                  "name": "Résidence Parc Academie La Rosiere",
-                  "text": "A family-oriented residence in Parc Academie La Rosiere, Montpellier.",
-                  "category": "family",
-                  "coords": [
-                        3.863128,
-                        43.640835
-                  ]
-            },
-            {
-                  "name": "Zoo de Lunaret",
-                  "text": "Zoo de Lunaret is a zoo in Montpellier offering nature experiences for all ages.",
-                  "category": "family",
-                  "coords": [
-                        3.88044,
-                        43.642612
                   ]
             },
             {
@@ -6781,30 +5737,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin nordique",
-                  "text": "Bassin nordique ist ein Schwimmbad in Avignon. Besucher können hier ein erfrischendes Bad nehmen.",
-                  "category": "family",
-                  "coords": [
-                        4.840624,
-                        43.929778
-                  ]
-            },
-            {
                   "name": "Urban Wake Park",
                   "text": "Ein Kabelwasserskipark in Avignon, der Wassersport anbietet.",
                   "category": "family",
                   "coords": [
                         4.853904,
                         43.961172
-                  ]
-            },
-            {
-                  "name": "Musée Pierre-de-Luxembourg",
-                  "text": "Das Musée Pierre-de-Luxembourg befindet sich in Villeneuve-lès-Avignon und zeigt bedeutende sakrale Kunstwerke. Es beherbergt unter anderem das berühmte Gemälde der Krönung der Jungfrau von Enguerrand Quarton.",
-                  "category": "museum",
-                  "coords": [
-                        4.796826,
-                        43.963731
                   ]
             },
             {
@@ -6832,15 +5770,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         4.801114,
                         43.966203
-                  ]
-            },
-            {
-                  "name": "Tour Philippe le Bel",
-                  "text": "Dieser mittelalterliche Turm in Villeneuve-lès-Avignon diente einst als Brückenkopf für die berühmte Brücke Saint-Bénézet. Von seiner Spitze aus genießen Besucher einen Panoramablick auf die Umgebung.",
-                  "category": "castle",
-                  "coords": [
-                        4.797604,
-                        43.958581
                   ]
             },
             {
@@ -7186,30 +6115,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin nordique",
-                  "text": "A Bassin nordique egy uszoda Avignon-ban. A látogatók itt frissítő úszást élvezhetnek.",
-                  "category": "family",
-                  "coords": [
-                        4.840624,
-                        43.929778
-                  ]
-            },
-            {
                   "name": "Urban Wake Park",
                   "text": "Kábeles vízisí park Avignon-ban, vízi sportokat kínál.",
                   "category": "family",
                   "coords": [
                         4.853904,
                         43.961172
-                  ]
-            },
-            {
-                  "name": "Musée Pierre-de-Luxembourg",
-                  "text": "A Pierre-de-Luxembourg Múzeum Villeneuve-lès-Avignonban található, és jelentős szakrális műalkotásokat mutat be. Itt őrzik többek között Enguerrand Quarton híres festményét, a Szűz megkoronázását.",
-                  "category": "museum",
-                  "coords": [
-                        4.796826,
-                        43.963731
                   ]
             },
             {
@@ -7237,15 +6148,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         4.801114,
                         43.966203
-                  ]
-            },
-            {
-                  "name": "Tour Philippe le Bel",
-                  "text": "Ez a Villeneuve-lès-Avignonban található középkori torony egykor a híres Saint-Bénézet híd hídfőjeként szolgált. A látogatók a tetejéről panorámás kilátást élvezhetnek a környékre.",
-                  "category": "castle",
-                  "coords": [
-                        4.797604,
-                        43.958581
                   ]
             },
             {
@@ -7591,30 +6493,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin nordique",
-                  "text": "Bassin nordique este o piscină în Avignon. Vizitatorii se pot bucura de o baie răcoritoare aici.",
-                  "category": "family",
-                  "coords": [
-                        4.840624,
-                        43.929778
-                  ]
-            },
-            {
                   "name": "Urban Wake Park",
                   "text": "Un parc de wakeboarding cu cablu în Avignon, oferind sporturi nautice.",
                   "category": "family",
                   "coords": [
                         4.853904,
                         43.961172
-                  ]
-            },
-            {
-                  "name": "Musée Pierre-de-Luxembourg",
-                  "text": "Muzeul Pierre-de-Luxembourg este situat în Villeneuve-lès-Avignon și expune opere de artă sacră remarcabile. Găzduiește, printre altele, celebra pictură „Încoronarea Fecioarei” de Enguerrand Quarton.",
-                  "category": "museum",
-                  "coords": [
-                        4.796826,
-                        43.963731
                   ]
             },
             {
@@ -7642,15 +6526,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         4.801114,
                         43.966203
-                  ]
-            },
-            {
-                  "name": "Tour Philippe le Bel",
-                  "text": "Acest turn medieval din Villeneuve-lès-Avignon a servit drept cap de pod pentru faimosul pod Saint-Bénézet. Vizitatorii se pot bucura de o vedere panoramică asupra împrejurimilor de la înălțimea sa.",
-                  "category": "castle",
-                  "coords": [
-                        4.797604,
-                        43.958581
                   ]
             },
             {
@@ -7996,30 +6871,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin nordique",
-                  "text": "Bassin nordique is a swimming pool in Avignon. Visitors can enjoy a refreshing swim here.",
-                  "category": "family",
-                  "coords": [
-                        4.840624,
-                        43.929778
-                  ]
-            },
-            {
                   "name": "Urban Wake Park",
                   "text": "A cable wakeboarding park in Avignon, offering water sports.",
                   "category": "family",
                   "coords": [
                         4.853904,
                         43.961172
-                  ]
-            },
-            {
-                  "name": "Musée Pierre-de-Luxembourg",
-                  "text": "The Pierre-de-Luxembourg Museum is located in Villeneuve-lès-Avignon and displays significant sacred artworks. It houses, among others, the famous painting of the Coronation of the Virgin by Enguerrand Quarton.",
-                  "category": "museum",
-                  "coords": [
-                        4.796826,
-                        43.963731
                   ]
             },
             {
@@ -8047,15 +6904,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         4.801114,
                         43.966203
-                  ]
-            },
-            {
-                  "name": "Tour Philippe le Bel",
-                  "text": "This medieval tower in Villeneuve-lès-Avignon served as a bridgehead for the famous Saint-Bénézet bridge. Visitors can enjoy panoramic views of the surroundings from its summit.",
-                  "category": "castle",
-                  "coords": [
-                        4.797604,
-                        43.958581
                   ]
             },
             {
@@ -8632,51 +7480,6 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Néosys Paintball",
-                  "text": "Dieses Paintball-Zentrum in Dijon bietet actiongeladene Abenteuer und Spaß für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        4.996368,
-                        47.343837
-                  ]
-            },
-            {
-                  "name": "Le Parc",
-                  "text": "Ein Zoo in Dijon, der Familien die Möglichkeit bietet, Tiere aus nächster Nähe zu beobachten.",
-                  "category": "family",
-                  "coords": [
-                        4.984732,
-                        47.337146
-                  ]
-            },
-            {
-                  "name": "La ferme à l'École",
-                  "text": "Ein Zoo in Dijon, der Familien die Möglichkeit bietet, Tiere aus nächster Nähe zu beobachten.",
-                  "category": "family",
-                  "coords": [
-                        4.999569,
-                        47.291454
-                  ]
-            },
-            {
-                  "name": "Parc animalier",
-                  "text": "Ein Zoo in Dijon, der Familien die Möglichkeit bietet, Tiere aus nächster Nähe zu beobachten.",
-                  "category": "family",
-                  "coords": [
-                        5.042804,
-                        47.298668
-                  ]
-            },
-            {
-                  "name": "Parc de la Toison d'Or",
-                  "text": "Ein Zoo in Dijon, der Familien die Möglichkeit bietet, Tiere aus nächster Nähe zu beobachten.",
-                  "category": "family",
-                  "coords": [
-                        5.056362,
-                        47.355529
-                  ]
-            },
-            {
                   "name": "Piscine du Carrousel - Bassin Extérieur",
                   "text": "Ein Schwimmbad in Dijon, ideal für einen aktiven Tag im Wasser mit der Familie.",
                   "category": "family",
@@ -8872,51 +7675,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.04217,
                         47.3227
-                  ]
-            },
-            {
-                  "name": "Néosys Paintball",
-                  "text": "Ez a dijoni paintball központ akciódús kalandokat és szórakozást kínál az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        4.996368,
-                        47.343837
-                  ]
-            },
-            {
-                  "name": "Le Parc",
-                  "text": "Egy állatkert Dijon területén, amely lehetőséget nyújt a családoknak az állatok közeli megfigyelésére.",
-                  "category": "family",
-                  "coords": [
-                        4.984732,
-                        47.337146
-                  ]
-            },
-            {
-                  "name": "La ferme à l'École",
-                  "text": "Egy állatkert Dijon területén, amely lehetőséget nyújt a családoknak az állatok közeli megfigyelésére.",
-                  "category": "family",
-                  "coords": [
-                        4.999569,
-                        47.291454
-                  ]
-            },
-            {
-                  "name": "Parc animalier",
-                  "text": "Egy állatkert Dijon területén, amely lehetőséget nyújt a családoknak az állatok közeli megfigyelésére.",
-                  "category": "family",
-                  "coords": [
-                        5.042804,
-                        47.298668
-                  ]
-            },
-            {
-                  "name": "Parc de la Toison d'Or",
-                  "text": "Egy állatkert Dijon területén, amely lehetőséget nyújt a családoknak az állatok közeli megfigyelésére.",
-                  "category": "family",
-                  "coords": [
-                        5.056362,
-                        47.355529
                   ]
             },
             {
@@ -9118,51 +7876,6 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Néosys Paintball",
-                  "text": "Acest centru de paintball din Dijon oferă aventuri pline de acțiune și distracție pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        4.996368,
-                        47.343837
-                  ]
-            },
-            {
-                  "name": "Le Parc",
-                  "text": "O grădină zoologică în Dijon ce oferă familiilor ocazia de a descoperi animalele de aproape.",
-                  "category": "family",
-                  "coords": [
-                        4.984732,
-                        47.337146
-                  ]
-            },
-            {
-                  "name": "La ferme à l'École",
-                  "text": "O grădină zoologică în Dijon ce oferă familiilor ocazia de a descoperi animalele de aproape.",
-                  "category": "family",
-                  "coords": [
-                        4.999569,
-                        47.291454
-                  ]
-            },
-            {
-                  "name": "Parc animalier",
-                  "text": "O grădină zoologică în Dijon ce oferă familiilor ocazia de a descoperi animalele de aproape.",
-                  "category": "family",
-                  "coords": [
-                        5.042804,
-                        47.298668
-                  ]
-            },
-            {
-                  "name": "Parc de la Toison d'Or",
-                  "text": "O grădină zoologică în Dijon ce oferă familiilor ocazia de a descoperi animalele de aproape.",
-                  "category": "family",
-                  "coords": [
-                        5.056362,
-                        47.355529
-                  ]
-            },
-            {
                   "name": "Piscine du Carrousel - Bassin Extérieur",
                   "text": "O piscină în Dijon, ideală pentru o zi activă în apă alături de familie.",
                   "category": "family",
@@ -9358,51 +8071,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         5.04217,
                         47.3227
-                  ]
-            },
-            {
-                  "name": "Néosys Paintball",
-                  "text": "This paintball center in Dijon offers action-packed adventures and fun for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        4.996368,
-                        47.343837
-                  ]
-            },
-            {
-                  "name": "Le Parc",
-                  "text": "A zoo in Dijon offering families the chance to discover animals up close.",
-                  "category": "family",
-                  "coords": [
-                        4.984732,
-                        47.337146
-                  ]
-            },
-            {
-                  "name": "La ferme à l'École",
-                  "text": "A zoo in Dijon offering families the chance to discover animals up close.",
-                  "category": "family",
-                  "coords": [
-                        4.999569,
-                        47.291454
-                  ]
-            },
-            {
-                  "name": "Parc animalier",
-                  "text": "A zoo in Dijon offering families the chance to discover animals up close.",
-                  "category": "family",
-                  "coords": [
-                        5.042804,
-                        47.298668
-                  ]
-            },
-            {
-                  "name": "Parc de la Toison d'Or",
-                  "text": "A zoo in Dijon offering families the chance to discover animals up close.",
-                  "category": "family",
-                  "coords": [
-                        5.056362,
-                        47.355529
                   ]
             },
             {
@@ -9768,30 +8436,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "RoyaTonic",
-                  "text": "RoyaTonic ist ein Wasserpark in Clermont Ferrand für Wellness und Familienspaß.",
-                  "category": "family",
-                  "coords": [
-                        3.055257,
-                        45.766532
-                  ]
-            },
-            {
                   "name": "Etablissement Thermal de Royat-Chamalières",
                   "text": "Eine Thermalquelle in Royat-Chamalières bei Clermont-Ferrand.",
                   "category": "family",
                   "coords": [
                         3.057332,
                         45.768244
-                  ]
-            },
-            {
-                  "name": "Piscine privée",
-                  "text": "Piscine privée ist ein Wasserpark in Clermont Ferrand für private Familienerlebnisse.",
-                  "category": "family",
-                  "coords": [
-                        3.122255,
-                        45.796876
                   ]
             },
             {
@@ -9981,24 +8631,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         3.087573,
                         45.776302
-                  ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "Die Église Saint-Martin ist eine traditionelle Kirche in Clermont-Ferrand. Das Gebäude ist ein fester Bestandteil des religiösen und architektonischen Stadtbildes.",
-                  "category": "religious",
-                  "coords": [
-                        3.111783,
-                        45.750642
-                  ]
-            },
-            {
-                  "name": "Église Saint-Pierre",
-                  "text": "Die Église Saint-Pierre ist ein Sakralbau in Clermont-Ferrand. Sie dient als Ort der Andacht und ist für ihre schlichte, aber würdevolle Bauweise bekannt.",
-                  "category": "religious",
-                  "coords": [
-                        3.085933,
-                        45.750242
                   ]
             },
             {
@@ -10193,30 +8825,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "RoyaTonic",
-                  "text": "A RoyaTonic egy vízipark Clermont Ferrand városában, amely wellness élményt kínál a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        3.055257,
-                        45.766532
-                  ]
-            },
-            {
                   "name": "Etablissement Thermal de Royat-Chamalières",
                   "text": "Termálfürdő Royat-Chamalières-ben, Clermont-Ferrand közelében.",
                   "category": "family",
                   "coords": [
                         3.057332,
                         45.768244
-                  ]
-            },
-            {
-                  "name": "Piscine privée",
-                  "text": "A Piscine privée egy vízipark Clermont Ferrand városában a családok privát kikapcsolódásához.",
-                  "category": "family",
-                  "coords": [
-                        3.122255,
-                        45.796876
                   ]
             },
             {
@@ -10406,24 +9020,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         3.087573,
                         45.776302
-                  ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "Az Église Saint-Martin egy hagyományos templom Clermont-Ferrandban. Az épület a város vallási és építészeti arculatának szerves része.",
-                  "category": "religious",
-                  "coords": [
-                        3.111783,
-                        45.750642
-                  ]
-            },
-            {
-                  "name": "Église Saint-Pierre",
-                  "text": "Az Église Saint-Pierre egy szakrális épület Clermont-Ferrandban. Az áhítat helyszíneként szolgál, és egyszerű, de méltóságteljes szerkezetéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        3.085933,
-                        45.750242
                   ]
             },
             {
@@ -10618,30 +9214,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "RoyaTonic",
-                  "text": "RoyaTonic este un parc acvatic în Clermont Ferrand pentru wellness și distracție în familie.",
-                  "category": "family",
-                  "coords": [
-                        3.055257,
-                        45.766532
-                  ]
-            },
-            {
                   "name": "Etablissement Thermal de Royat-Chamalières",
                   "text": "O stațiune termală în Royat-Chamalières lângă Clermont-Ferrand.",
                   "category": "family",
                   "coords": [
                         3.057332,
                         45.768244
-                  ]
-            },
-            {
-                  "name": "Piscine privée",
-                  "text": "Piscine privée este un parc acvatic în Clermont Ferrand pentru experiențe private în familie.",
-                  "category": "family",
-                  "coords": [
-                        3.122255,
-                        45.796876
                   ]
             },
             {
@@ -10831,24 +9409,6 @@ export const poiExtraFranceCities: POI[] = [
                   "coords": [
                         3.087573,
                         45.776302
-                  ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "Église Saint-Martin este o biserică tradițională din Clermont-Ferrand. Clădirea este o parte integrantă a peisajului religios și arhitectural al orașului.",
-                  "category": "religious",
-                  "coords": [
-                        3.111783,
-                        45.750642
-                  ]
-            },
-            {
-                  "name": "Église Saint-Pierre",
-                  "text": "Église Saint-Pierre este un lăcaș de cult situat în Clermont-Ferrand. Servește ca loc de rugăciune și este cunoscută pentru structura sa simplă, dar demnă.",
-                  "category": "religious",
-                  "coords": [
-                        3.085933,
-                        45.750242
                   ]
             },
             {
@@ -11043,30 +9603,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "RoyaTonic",
-                  "text": "RoyaTonic is a water park in Clermont Ferrand for wellness and family fun.",
-                  "category": "family",
-                  "coords": [
-                        3.055257,
-                        45.766532
-                  ]
-            },
-            {
                   "name": "Etablissement Thermal de Royat-Chamalières",
                   "text": "A thermal spa establishment in Royat-Chamalières near Clermont-Ferrand.",
                   "category": "family",
                   "coords": [
                         3.057332,
                         45.768244
-                  ]
-            },
-            {
-                  "name": "Piscine privée",
-                  "text": "Piscine privée is a water park in Clermont Ferrand offering private family experiences.",
-                  "category": "family",
-                  "coords": [
-                        3.122255,
-                        45.796876
                   ]
             },
             {
@@ -11259,24 +9801,6 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Église Saint-Martin",
-                  "text": "The Église Saint-Martin is a traditional church located in Clermont-Ferrand. The building is an integral part of the city's religious and architectural landscape.",
-                  "category": "religious",
-                  "coords": [
-                        3.111783,
-                        45.750642
-                  ]
-            },
-            {
-                  "name": "Église Saint-Pierre",
-                  "text": "The Église Saint-Pierre is a religious building in Clermont-Ferrand. It serves as a place of worship and is known for its simple yet dignified structure.",
-                  "category": "religious",
-                  "coords": [
-                        3.085933,
-                        45.750242
-                  ]
-            },
-            {
                   "name": "Église du Sacré-Cœur",
                   "text": "The Église du Sacré-Cœur is a church in Clermont-Ferrand. Its Neo-Gothic architecture and location make it a significant religious landmark.",
                   "category": "religious",
@@ -11427,15 +9951,6 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Overlord Museum",
-                  "text": "Ein Museum, das die Geschichte der Operation Overlord und der Befreiung Europas zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -0.856563,
-                        49.347857
-                  ]
-            },
-            {
                   "name": "Musée Mémorial d'Omaha Beach",
                   "text": "Ein Gedenkmuseum, das an die Ereignisse des D-Day am Omaha Beach erinnert.",
                   "category": "museum",
@@ -11445,39 +9960,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Manoir de Saint-Laurent-sur-Mer",
-                  "text": "Ein historisches Herrenhaus in der Gemeinde Saint-Laurent-sur-Mer am Omaha Beach.",
-                  "category": "castle",
-                  "coords": [
-                        -0.878932,
-                        49.359363
-                  ]
-            },
-            {
                   "name": "Manoir de Vaumicel",
                   "text": "Ein befestigtes Herrenhaus aus dem 16. Jahrhundert in der Nähe der Küste der Normandie.",
                   "category": "castle",
                   "coords": [
                         -0.909511,
                         49.368373
-                  ]
-            },
-            {
-                  "name": "Château de Saint-Sever",
-                  "text": "Eine Schlossanlage in der Region Omaha Beach mit historischer Architektur.",
-                  "category": "castle",
-                  "coords": [
-                        -0.911236,
-                        49.359088
-                  ]
-            },
-            {
-                  "name": "Big Red One Museum",
-                  "text": "Ein Museum, das der Geschichte der berühmten ersten US-Infanteriedivision gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -0.850799,
-                        49.347125
                   ]
             }
       ],
@@ -11501,15 +9989,6 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Overlord Museum",
-                  "text": "Az Overlord-hadművelet és Európa felszabadításának történetét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -0.856563,
-                        49.347857
-                  ]
-            },
-            {
                   "name": "Musée Mémorial d'Omaha Beach",
                   "text": "Emlékmúzeum, amely az Omaha Beach-i partraszállás eseményeire emlékeztet.",
                   "category": "museum",
@@ -11519,39 +9998,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Manoir de Saint-Laurent-sur-Mer",
-                  "text": "Történelmi udvarház Saint-Laurent-sur-Mer községben, az Omaha Beach-nél.",
-                  "category": "castle",
-                  "coords": [
-                        -0.878932,
-                        49.359363
-                  ]
-            },
-            {
                   "name": "Manoir de Vaumicel",
                   "text": "16. századi erődített udvarház a normandiai tengerpart közelében.",
                   "category": "castle",
                   "coords": [
                         -0.909511,
                         49.368373
-                  ]
-            },
-            {
-                  "name": "Château de Saint-Sever",
-                  "text": "Kastélyegyüttes az Omaha Beach régióban, történelmi építészettel.",
-                  "category": "castle",
-                  "coords": [
-                        -0.911236,
-                        49.359088
-                  ]
-            },
-            {
-                  "name": "Big Red One Museum",
-                  "text": "A híres amerikai 1. gyalogoshadosztály történetének szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -0.850799,
-                        49.347125
                   ]
             }
       ],
@@ -11575,15 +10027,6 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Overlord Museum",
-                  "text": "Un muzeu care prezintă istoria Operațiunii Overlord și eliberarea Europei.",
-                  "category": "museum",
-                  "coords": [
-                        -0.856563,
-                        49.347857
-                  ]
-            },
-            {
                   "name": "Musée Mémorial d'Omaha Beach",
                   "text": "Un muzeu memorial care comemorează evenimentele debarcării de pe plaja Omaha.",
                   "category": "museum",
@@ -11593,39 +10036,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Manoir de Saint-Laurent-sur-Mer",
-                  "text": "Un conac istoric în comuna Saint-Laurent-sur-Mer de lângă Omaha Beach.",
-                  "category": "castle",
-                  "coords": [
-                        -0.878932,
-                        49.359363
-                  ]
-            },
-            {
                   "name": "Manoir de Vaumicel",
                   "text": "Un conac fortificat din secolul al XVI-lea situat lângă coasta Normandiei.",
                   "category": "castle",
                   "coords": [
                         -0.909511,
                         49.368373
-                  ]
-            },
-            {
-                  "name": "Château de Saint-Sever",
-                  "text": "Un complex de castele în regiunea plajei Omaha, cu arhitectură istorică.",
-                  "category": "castle",
-                  "coords": [
-                        -0.911236,
-                        49.359088
-                  ]
-            },
-            {
-                  "name": "Big Red One Museum",
-                  "text": "Un muzeu dedicat istoriei faimoasei Divizii 1 Infanterie a SUA.",
-                  "category": "museum",
-                  "coords": [
-                        -0.850799,
-                        49.347125
                   ]
             }
       ],
@@ -11649,15 +10065,6 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Overlord Museum",
-                  "text": "A museum showcasing the history of Operation Overlord and the liberation of Europe.",
-                  "category": "museum",
-                  "coords": [
-                        -0.856563,
-                        49.347857
-                  ]
-            },
-            {
                   "name": "Musée Mémorial d'Omaha Beach",
                   "text": "A memorial museum commemorating the events of D-Day at Omaha Beach.",
                   "category": "museum",
@@ -11667,39 +10074,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Manoir de Saint-Laurent-sur-Mer",
-                  "text": "A historic manor house in the commune of Saint-Laurent-sur-Mer by Omaha Beach.",
-                  "category": "castle",
-                  "coords": [
-                        -0.878932,
-                        49.359363
-                  ]
-            },
-            {
                   "name": "Manoir de Vaumicel",
                   "text": "A 16th-century fortified manor house located near the Normandy coast.",
                   "category": "castle",
                   "coords": [
                         -0.909511,
                         49.368373
-                  ]
-            },
-            {
-                  "name": "Château de Saint-Sever",
-                  "text": "A castle complex in the Omaha Beach region featuring historic architecture.",
-                  "category": "castle",
-                  "coords": [
-                        -0.911236,
-                        49.359088
-                  ]
-            },
-            {
-                  "name": "Big Red One Museum",
-                  "text": "A museum dedicated to the history of the famous US 1st Infantry Division.",
-                  "category": "museum",
-                  "coords": [
-                        -0.850799,
-                        49.347125
                   ]
             }
       ]
@@ -13186,48 +11566,12 @@ export const poiExtraFranceCities: POI[] = [
     id: "historical-lascaux-iv-extra", "sights": {
       "de": [
             {
-                  "name": "Höhle von Lascaux",
-                  "text": "Ein UNESCO-Weltkulturerbe, das für seine außergewöhnlich gut erhaltenen paläolithischen Höhlenmalereien bekannt ist.",
-                  "category": "historical",
-                  "coords": [
-                        1.170959,
-                        45.053766
-                  ]
-            },
-            {
-                  "name": "Le Régourdou",
-                  "text": "Eine bedeutende archäologische Neandertaler-Stätte und ein Bärenpark in der Nähe der Höhle von Lascaux.",
-                  "category": "historical",
-                  "coords": [
-                        1.178805,
-                        45.054972
-                  ]
-            },
-            {
                   "name": "Château de la Grande Filolie",
                   "text": "Eine historische Schlossanlage in der Region Périgord mit traditioneller Kalksteinarchitektur.",
                   "category": "castle",
                   "coords": [
                         1.210657,
                         45.044501
-                  ]
-            },
-            {
-                  "name": "Lascaux IV",
-                  "text": "Ein vollständiges und originalgetreues Faksimile der ursprünglichen Lascaux-Höhle in einem modernen Museum.",
-                  "category": "museum",
-                  "coords": [
-                        1.169523,
-                        45.05789
-                  ]
-            },
-            {
-                  "name": "Lascaux II",
-                  "text": "Die erste Teilreplik der Lascaux-Höhle, die geschaffen wurde, um die Originalstätte vor Schäden zu schützen.",
-                  "category": "landmark",
-                  "coords": [
-                        1.167186,
-                        45.053702
                   ]
             },
             {
@@ -13238,36 +11582,9 @@ export const poiExtraFranceCities: POI[] = [
                         1.122995,
                         45.036392
                   ]
-            },
-            {
-                  "name": "Petit bassin",
-                  "text": "Ein kleines Schwimmbecken für Erholung und Freizeit.",
-                  "category": "recreational",
-                  "coords": [
-                        1.160488,
-                        45.061702
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Grotte de Lascaux",
-                  "text": "UNESCO Világörökségi helyszín, amely kivételesen jól megőrzött őskőkori barlangrajzairól híres.",
-                  "category": "historical",
-                  "coords": [
-                        1.170959,
-                        45.053766
-                  ]
-            },
-            {
-                  "name": "Le Régourdou",
-                  "text": "Jelentős neandervölgyi régészeti lelőhely és medvepark a Lascaux-barlang közelében.",
-                  "category": "historical",
-                  "coords": [
-                        1.178805,
-                        45.054972
-                  ]
-            },
             {
                   "name": "Château de la Grande Filolie",
                   "text": "Történelmi kastélyegyüttes a Périgord régióban, hagyományos mészkőépítészettel.",
@@ -13278,24 +11595,6 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lascaux IV",
-                  "text": "Az eredeti Lascaux-barlang teljes és rendkívül pontos másolata egy modern múzeumban.",
-                  "category": "museum",
-                  "coords": [
-                        1.169523,
-                        45.05789
-                  ]
-            },
-            {
-                  "name": "Lascaux II",
-                  "text": "A Lascaux-barlang első részleges másolata, amelyet az eredeti helyszín állagmegóvása érdekében hoztak létre.",
-                  "category": "landmark",
-                  "coords": [
-                        1.167186,
-                        45.053702
-                  ]
-            },
-            {
                   "name": "Le Parc du Thot",
                   "text": "Jégkorszaki faunát és flórát bemutató őskori állatpark.",
                   "category": "recreational",
@@ -13303,36 +11602,9 @@ export const poiExtraFranceCities: POI[] = [
                         1.122995,
                         45.036392
                   ]
-            },
-            {
-                  "name": "Petit bassin",
-                  "text": "Kisebb úszómedence, amely pihenésre és kikapcsolódásra alkalmas.",
-                  "category": "recreational",
-                  "coords": [
-                        1.160488,
-                        45.061702
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Grotte de Lascaux",
-                  "text": "Un sit din patrimoniul mondial UNESCO, faimos pentru picturile sale rupestre paleolitice excepțional de bine conservate.",
-                  "category": "historical",
-                  "coords": [
-                        1.170959,
-                        45.053766
-                  ]
-            },
-            {
-                  "name": "Le Régourdou",
-                  "text": "Un important sit arheologic neanderstalian și parc de urși situat lângă peștera Lascaux.",
-                  "category": "historical",
-                  "coords": [
-                        1.178805,
-                        45.054972
-                  ]
-            },
             {
                   "name": "Château de la Grande Filolie",
                   "text": "Un complex istoric de castel din regiunea Périgord, cu arhitectură tradițională din piatră de calcar.",
@@ -13343,24 +11615,6 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lascaux IV",
-                  "text": "O replică completă și foarte precisă a peșterii originale Lascaux, găzduită într-un muzeu modern.",
-                  "category": "museum",
-                  "coords": [
-                        1.169523,
-                        45.05789
-                  ]
-            },
-            {
-                  "name": "Lascaux II",
-                  "text": "Prima replică parțială a peșterii Lascaux, creată pentru a proteja situl original de degradare.",
-                  "category": "landmark",
-                  "coords": [
-                        1.167186,
-                        45.053702
-                  ]
-            },
-            {
                   "name": "Le Parc du Thot",
                   "text": "Un parc de animale preistorice dedicat faunei și florei din epoca de gheață.",
                   "category": "recreational",
@@ -13368,36 +11622,9 @@ export const poiExtraFranceCities: POI[] = [
                         1.122995,
                         45.036392
                   ]
-            },
-            {
-                  "name": "Petit bassin",
-                  "text": "O piscină mică pentru recreere și petrecerea timpului liber.",
-                  "category": "recreational",
-                  "coords": [
-                        1.160488,
-                        45.061702
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Lascaux Cave",
-                  "text": "A UNESCO World Heritage site famous for its exceptionally preserved Paleolithic cave paintings.",
-                  "category": "historical",
-                  "coords": [
-                        1.170959,
-                        45.053766
-                  ]
-            },
-            {
-                  "name": "Le Régourdou",
-                  "text": "A major Neanderthal archaeological site and bear park located near the Lascaux cave.",
-                  "category": "historical",
-                  "coords": [
-                        1.178805,
-                        45.054972
-                  ]
-            },
             {
                   "name": "Château de la Grande Filolie",
                   "text": "A historic castle complex in the Périgord region, featuring traditional limestone architecture.",
@@ -13408,39 +11635,12 @@ export const poiExtraFranceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lascaux IV",
-                  "text": "A complete and highly accurate facsimile of the original Lascaux cave, housed in a modern museum.",
-                  "category": "museum",
-                  "coords": [
-                        1.169523,
-                        45.05789
-                  ]
-            },
-            {
-                  "name": "Lascaux II",
-                  "text": "The first partial replica of the Lascaux cave, created to preserve the original site from damage.",
-                  "category": "landmark",
-                  "coords": [
-                        1.167186,
-                        45.053702
-                  ]
-            },
-            {
                   "name": "Le Parc du Thot",
                   "text": "A prehistoric animal park dedicated to Ice Age fauna and flora.",
                   "category": "recreational",
                   "coords": [
                         1.122995,
                         45.036392
-                  ]
-            },
-            {
-                  "name": "Petit bassin",
-                  "text": "A small swimming pool suitable for recreation and leisure.",
-                  "category": "recreational",
-                  "coords": [
-                        1.160488,
-                        45.061702
                   ]
             }
       ]

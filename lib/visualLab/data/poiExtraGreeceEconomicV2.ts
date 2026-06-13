@@ -511,15 +511,6 @@ imageHint: "Sindos industrial park aerial with warehouses",
     id: "greece-volos-port-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Mouseio Plinthokeramopoiias",
-                  "text": "Ein Industriemuseum in Volos, das in einer ehemaligen Ziegel- und Dachziegelfabrik untergebracht ist.",
-                  "category": "museum",
-                  "coords": [
-                        22.932093,
-                        39.365256
-                  ]
-            },
-            {
                   "name": "Arkhaiologikos khoros Goritsas",
                   "text": "Eine archäologische Stätte auf einem Hügel bei Volos mit Überresten einer antiken befestigten Stadt.",
                   "category": "historical",
@@ -529,48 +520,12 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Kastro Palaion",
-                  "text": "Historische Befestigungsanlagen in Volos mit byzantinischen und osmanischen Bauelementen.",
-                  "category": "castle",
-                  "coords": [
-                        22.933295,
-                        39.365027
-                  ]
-            },
-            {
-                  "name": "Okhurose Lophou Episkopes",
-                  "text": "Überreste einer mittelalterlichen Befestigungsanlage in der Nähe des Hafens von Volos.",
-                  "category": "castle",
-                  "coords": [
-                        22.981109,
-                        39.375318
-                  ]
-            },
-            {
-                  "name": "Mouseio Poles Bolou",
-                  "text": "Ein Museum in Volos, das der Geschichte und Kultur der modernen Stadt gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        22.935723,
-                        39.363992
-                  ]
-            },
-            {
                   "name": "Therino Demotiko Theatro Neas Ionias",
                   "text": "Ein Open-Air-Theater in Volos, in dem während der Sommermonate kulturelle Aufführungen stattfinden.",
                   "category": "cultural",
                   "coords": [
                         22.934008,
                         39.379243
-                  ]
-            },
-            {
-                  "name": "Arkhaio Theatro Demetriadas",
-                  "text": "Ein antikes griechisches Theater in der Nähe von Volos, das Teil der archäologischen Stätte von Demetrias ist.",
-                  "category": "historical",
-                  "coords": [
-                        22.924355,
-                        39.343425
                   ]
             },
             {
@@ -594,15 +549,6 @@ imageHint: "Sindos industrial park aerial with warehouses",
       ],
       "hu": [
             {
-                  "name": "Mouseio Plinthokeramopoiias",
-                  "text": "Ipari múzeum Voloszban, amely egy egykori tégla- és cserépgyárban kapott helyet.",
-                  "category": "museum",
-                  "coords": [
-                        22.932093,
-                        39.365256
-                  ]
-            },
-            {
                   "name": "Arkhaiologikos khoros Goritsas",
                   "text": "Régészeti lelőhely egy dombtetőn Volosz közelében, egy ókori erődített város maradványaival.",
                   "category": "historical",
@@ -612,48 +558,12 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Kastro Palaion",
-                  "text": "Történelmi erődítmény Voloszban, bizánci és oszmán építészeti elemekkel.",
-                  "category": "castle",
-                  "coords": [
-                        22.933295,
-                        39.365027
-                  ]
-            },
-            {
-                  "name": "Okhurose Lophou Episkopes",
-                  "text": "Egy középkori erődítmény maradványai Volosz kikötőjének közelében.",
-                  "category": "castle",
-                  "coords": [
-                        22.981109,
-                        39.375318
-                  ]
-            },
-            {
-                  "name": "Mouseio Poles Bolou",
-                  "text": "Múzeum Voloszban, amely a modern város történelmének és kultúrájának van szentelve.",
-                  "category": "museum",
-                  "coords": [
-                        22.935723,
-                        39.363992
-                  ]
-            },
-            {
                   "name": "Therino Demotiko Theatro Neas Ionias",
                   "text": "Szabadtéri színház Voloszban, amely nyári kulturális előadásoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         22.934008,
                         39.379243
-                  ]
-            },
-            {
-                  "name": "Arkhaio Theatro Demetriadas",
-                  "text": "Egy ókori görög színház Volosz közelében, amely Demetrias régészeti lelőhelyének része.",
-                  "category": "historical",
-                  "coords": [
-                        22.924355,
-                        39.343425
                   ]
             },
             {
@@ -677,15 +587,6 @@ imageHint: "Sindos industrial park aerial with warehouses",
       ],
       "ro": [
             {
-                  "name": "Mouseio Plinthokeramopoiias",
-                  "text": "Un muzeu industrial din Volos, găzduit într-o fostă fabrică de cărămidă și țiglă.",
-                  "category": "museum",
-                  "coords": [
-                        22.932093,
-                        39.365256
-                  ]
-            },
-            {
                   "name": "Arkhaiologikos khoros Goritsas",
                   "text": "Un sit arheologic pe un deal lângă Volos, conținând vestigiile unui oraș fortificat antic.",
                   "category": "historical",
@@ -695,48 +596,12 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Kastro Palaion",
-                  "text": "Fortificații istorice în Volos, prezentând elemente arhitecturale bizantine și otomane.",
-                  "category": "castle",
-                  "coords": [
-                        22.933295,
-                        39.365027
-                  ]
-            },
-            {
-                  "name": "Okhurose Lophou Episkopes",
-                  "text": "Vestigiile unei fortificații medievale situate în apropierea portului Volos.",
-                  "category": "castle",
-                  "coords": [
-                        22.981109,
-                        39.375318
-                  ]
-            },
-            {
-                  "name": "Mouseio Poles Bolou",
-                  "text": "Un muzeu din Volos dedicat istoriei și culturii orașului modern.",
-                  "category": "museum",
-                  "coords": [
-                        22.935723,
-                        39.363992
-                  ]
-            },
-            {
                   "name": "Therino Demotiko Theatro Neas Ionias",
                   "text": "Un teatru în aer liber din Volos, care găzduiește spectacole culturale în timpul verii.",
                   "category": "cultural",
                   "coords": [
                         22.934008,
                         39.379243
-                  ]
-            },
-            {
-                  "name": "Arkhaio Theatro Demetriadas",
-                  "text": "Un teatru grecesc antic lângă Volos, care face parte din situl arheologic Demetrias.",
-                  "category": "historical",
-                  "coords": [
-                        22.924355,
-                        39.343425
                   ]
             },
             {
@@ -760,15 +625,6 @@ imageHint: "Sindos industrial park aerial with warehouses",
       ],
       "en": [
             {
-                  "name": "Rooftile and Brickworks Museum",
-                  "text": "An industrial museum in Volos, housed in a former brick and rooftile factory.",
-                  "category": "museum",
-                  "coords": [
-                        22.932093,
-                        39.365256
-                  ]
-            },
-            {
                   "name": "Goritsa archaeological site",
                   "text": "An archaeological site on a hill near Volos, containing the remains of an ancient fortified city.",
                   "category": "historical",
@@ -778,48 +634,12 @@ imageHint: "Sindos industrial park aerial with warehouses",
                   ]
             },
             {
-                  "name": "Castle of Palia",
-                  "text": "Historical fortifications in Volos, featuring Byzantine and Ottoman architectural elements.",
-                  "category": "castle",
-                  "coords": [
-                        22.933295,
-                        39.365027
-                  ]
-            },
-            {
-                  "name": "Fortification of Episkopi",
-                  "text": "The remains of a medieval fortification located near the port of Volos.",
-                  "category": "castle",
-                  "coords": [
-                        22.981109,
-                        39.375318
-                  ]
-            },
-            {
-                  "name": "Volos City Museum",
-                  "text": "A museum in Volos dedicated to the history and culture of the modern city.",
-                  "category": "museum",
-                  "coords": [
-                        22.935723,
-                        39.363992
-                  ]
-            },
-            {
                   "name": "Summer Theatre of Nea Ionia",
                   "text": "An open-air theatre in Volos that hosts cultural performances during the summer months.",
                   "category": "cultural",
                   "coords": [
                         22.934008,
                         39.379243
-                  ]
-            },
-            {
-                  "name": "Ancient Theater of Demetrias",
-                  "text": "An ancient Greek theatre near Volos, part of the archaeological site of Demetrias.",
-                  "category": "historical",
-                  "coords": [
-                        22.924355,
-                        39.343425
                   ]
             },
             {
@@ -936,60 +756,6 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
     id: "greece-patras-port-economic-v2", "sights": {
       "de": [
             {
-                  "name": "RomaIko Numphaio",
-                  "text": "Überreste eines monumentalen antiken römischen Brunnens in Patras.",
-                  "category": "historical",
-                  "coords": [
-                        21.734533,
-                        38.242268
-                  ]
-            },
-            {
-                  "name": "Romaiko Odeio",
-                  "text": "Ein gut erhaltenes antikes römisches Theater, das heute für Aufführungen genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        21.738316,
-                        38.243352
-                  ]
-            },
-            {
-                  "name": "Schloss Patras",
-                  "text": "Eine Festung aus byzantinischer Zeit, die am höchsten Punkt der Stadt Patras errichtet wurde.",
-                  "category": "castle",
-                  "coords": [
-                        21.741924,
-                        38.245024
-                  ]
-            },
-            {
-                  "name": "Staphidergostasio Bourloume",
-                  "text": "Eine archäologische Stätte, die sich auf dem Gelände einer ehemaligen Rosinenfabrik befindet.",
-                  "category": "historical",
-                  "coords": [
-                        21.727674,
-                        38.244318
-                  ]
-            },
-            {
-                  "name": "Romaiko Stadio",
-                  "text": "Die Ruinen eines großen antiken Stadions aus der römischen Epoche in Patras.",
-                  "category": "historical",
-                  "coords": [
-                        21.73691,
-                        38.243844
-                  ]
-            },
-            {
-                  "name": "Demotiko Theatro Apollon",
-                  "text": "Ein elegantes Opernhaus aus dem 19. Jahrhundert in Patras, entworfen von Ernst Ziller.",
-                  "category": "cultural",
-                  "coords": [
-                        21.735499,
-                        38.24663
-                  ]
-            },
-            {
                   "name": "Leuchtturm Patras",
                   "text": "Leuchtturm im Hafen von Patras, erbaut 1999.",
                   "category": "landmark",
@@ -1018,60 +784,6 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
             }
       ],
       "hu": [
-            {
-                  "name": "RomaIko Numphaio",
-                  "text": "Egy monumentális ókori római szökőkút maradványai Patraszban.",
-                  "category": "historical",
-                  "coords": [
-                        21.734533,
-                        38.242268
-                  ]
-            },
-            {
-                  "name": "Romaiko Odeio",
-                  "text": "Jó állapotban fennmaradt ókori római színház, amelyet ma is használnak előadásokra.",
-                  "category": "cultural",
-                  "coords": [
-                        21.738316,
-                        38.243352
-                  ]
-            },
-            {
-                  "name": "Kastro tes Patras",
-                  "text": "Bizánci korszakból származó erőd, amely Patrasz város legmagasabb pontján épült.",
-                  "category": "castle",
-                  "coords": [
-                        21.741924,
-                        38.245024
-                  ]
-            },
-            {
-                  "name": "Staphidergostasio Bourloume",
-                  "text": "Egy egykori mazsolagyár területén található régészeti helyszín.",
-                  "category": "historical",
-                  "coords": [
-                        21.727674,
-                        38.244318
-                  ]
-            },
-            {
-                  "name": "Romaiko Stadio",
-                  "text": "Egy nagy ókori római stadion romjai Patraszban.",
-                  "category": "historical",
-                  "coords": [
-                        21.73691,
-                        38.243844
-                  ]
-            },
-            {
-                  "name": "Demotiko Theatro Apollon",
-                  "text": "Elegáns 19. századi operaház Patraszban, amelyet Ernst Ziller tervezett.",
-                  "category": "cultural",
-                  "coords": [
-                        21.735499,
-                        38.24663
-                  ]
-            },
             {
                   "name": "Pharos tes Patras",
                   "text": "Világítótorony Patras kikötőjében, 1999-ben épült.",
@@ -1102,60 +814,6 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
       ],
       "ro": [
             {
-                  "name": "RomaIko Numphaio",
-                  "text": "Rămășițele unei fântâni monumentale din perioada romană în Patras.",
-                  "category": "historical",
-                  "coords": [
-                        21.734533,
-                        38.242268
-                  ]
-            },
-            {
-                  "name": "Romaiko Odeio",
-                  "text": "Un teatru antic roman bine conservat, utilizat astăzi pentru spectacole.",
-                  "category": "cultural",
-                  "coords": [
-                        21.738316,
-                        38.243352
-                  ]
-            },
-            {
-                  "name": "Kastro tes Patras",
-                  "text": "O cetate din epoca bizantină construită pe cel mai înalt punct al orașului Patras.",
-                  "category": "castle",
-                  "coords": [
-                        21.741924,
-                        38.245024
-                  ]
-            },
-            {
-                  "name": "Staphidergostasio Bourloume",
-                  "text": "Un sit arheologic situat pe locul unei foste fabrici de stafide.",
-                  "category": "historical",
-                  "coords": [
-                        21.727674,
-                        38.244318
-                  ]
-            },
-            {
-                  "name": "Romaiko Stadio",
-                  "text": "Ruinele unui stadion antic de mari dimensiuni din epoca romană în Patras.",
-                  "category": "historical",
-                  "coords": [
-                        21.73691,
-                        38.243844
-                  ]
-            },
-            {
-                  "name": "Demotiko Theatro Apollon",
-                  "text": "O operă elegantă din secolul al XIX-lea în Patras, proiectată de Ernst Ziller.",
-                  "category": "cultural",
-                  "coords": [
-                        21.735499,
-                        38.24663
-                  ]
-            },
-            {
                   "name": "Pharos tes Patras",
                   "text": "Far în portul Patras, construit în 1999.",
                   "category": "landmark",
@@ -1184,60 +842,6 @@ imageHint: "Heraklion port with large ferry and Venetian fortress",
             }
       ],
       "en": [
-            {
-                  "name": "Roman Nymphaio",
-                  "text": "Remains of a monumental ancient Roman fountain in Patras.",
-                  "category": "historical",
-                  "coords": [
-                        21.734533,
-                        38.242268
-                  ]
-            },
-            {
-                  "name": "Roman Odeon",
-                  "text": "A well-preserved ancient Roman theatre used today for performances.",
-                  "category": "cultural",
-                  "coords": [
-                        21.738316,
-                        38.243352
-                  ]
-            },
-            {
-                  "name": "Castle of Patra",
-                  "text": "A Byzantine-era fortress built on the highest point of the city of Patras.",
-                  "category": "castle",
-                  "coords": [
-                        21.741924,
-                        38.245024
-                  ]
-            },
-            {
-                  "name": "Vourloumis raisin factory",
-                  "text": "An archaeological site located on the grounds of a former raisin factory.",
-                  "category": "historical",
-                  "coords": [
-                        21.727674,
-                        38.244318
-                  ]
-            },
-            {
-                  "name": "Roman Stadium",
-                  "text": "The ruins of a large ancient stadium from the Roman era in Patras.",
-                  "category": "historical",
-                  "coords": [
-                        21.73691,
-                        38.243844
-                  ]
-            },
-            {
-                  "name": "Apollon Theater",
-                  "text": "An elegant 19th-century opera house in Patras, designed by Ernst Ziller.",
-                  "category": "cultural",
-                  "coords": [
-                        21.735499,
-                        38.24663
-                  ]
-            },
             {
                   "name": "Patras Lighthouse",
                   "text": "Lighthouse in Patras Port built in 1999.",

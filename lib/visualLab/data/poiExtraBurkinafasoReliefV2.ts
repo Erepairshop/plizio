@@ -499,50 +499,10 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
   },
   {
     id: "diapaga-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Eco Musée de Diapaga",
-                  "text": "Das Eco Musée de Diapaga widmet sich dem ökologischen Erbe und den in die Landschaft integrierten traditionellen Lebenspraktiken.",
-                  "category": "museum",
-                  "coords": [
-                        1.786552,
-                        12.075539
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Eco Musée de Diapaga",
-                  "text": "Az Eco Musée de Diapaga a tájba integrált ökológiai örökségnek és a hagyományos életmódnak van szentelve.",
-                  "category": "museum",
-                  "coords": [
-                        1.786552,
-                        12.075539
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Eco Musée de Diapaga",
-                  "text": "Eco Musée de Diapaga este dedicat moștenirii ecologice și practicilor tradiționale de viață integrate în peisaj.",
-                  "category": "museum",
-                  "coords": [
-                        1.786552,
-                        12.075539
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Eco Musée de Diapaga",
-                  "text": "The Eco Musée de Diapaga is dedicated to the ecological heritage and traditional living practices integrated into the surrounding landscape.",
-                  "category": "museum",
-                  "coords": [
-                        1.786552,
-                        12.075539
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "relief",
     parent: "BF-TP",

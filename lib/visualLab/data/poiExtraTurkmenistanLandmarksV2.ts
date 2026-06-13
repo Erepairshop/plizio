@@ -3136,24 +3136,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ak Kala",
-                  "text": "Die „Weiße Festung“, eine historische Anlage in Köneürgenç mit Ruinen alter Lehmwälle.",
-                  "category": "landmark",
-                  "coords": [
-                        59.152003,
-                        42.296401
-                  ]
-            },
-            {
-                  "name": "Gutlug Timuryň minarasy",
-                  "text": "Ein über 60 Meter hoher Ziegelstein-Turm aus dem 14. Jahrhundert, das höchste Minarett Zentralasiens.",
-                  "category": "tower",
-                  "coords": [
-                        59.141868,
-                        42.308649
-                  ]
-            },
-            {
                   "name": "Kyrk Molla Hill",
                   "text": "Ein heiliger archäologischer Hügel in Köneürgenç, an dem Pilger nach alter Tradition beten.",
                   "category": "landmark",
@@ -3198,24 +3180,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
                   "coords": [
                         59.17897,
                         42.318984
-                  ]
-            },
-            {
-                  "name": "Ak Kala",
-                  "text": "Az „Fehér Erőd”, Köneürgenç történelmi helyszíne ősi agyagfalak romjaival.",
-                  "category": "landmark",
-                  "coords": [
-                        59.152003,
-                        42.296401
-                  ]
-            },
-            {
-                  "name": "Gutlug Timuryň minarasy",
-                  "text": "60 méternél is magasabb, 14. századi téglatorony, Közép-Ázsia legmagasabb minaretje.",
-                  "category": "tower",
-                  "coords": [
-                        59.141868,
-                        42.308649
                   ]
             },
             {
@@ -3266,24 +3230,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ak Kala",
-                  "text": "„Cetatea Albă”, un sit istoric din Köneürgenç cu ruine ale unor ziduri vechi de lut.",
-                  "category": "landmark",
-                  "coords": [
-                        59.152003,
-                        42.296401
-                  ]
-            },
-            {
-                  "name": "Gutlug Timuryň minarasy",
-                  "text": "Un turn de cărămidă din secolul al XIV-lea de peste 60 de metri înălțime, cel mai înalt minaret din Asia Centrală.",
-                  "category": "tower",
-                  "coords": [
-                        59.141868,
-                        42.308649
-                  ]
-            },
-            {
                   "name": "Kyrk Molla Hill",
                   "text": "Un deal arheologic sacru în Köneürgenç, unde pelerinii se roagă conform tradițiilor vechi.",
                   "category": "landmark",
@@ -3328,24 +3274,6 @@ export const poiExtraTurkmenistanLandmarksV2: POI[] = [
                   "coords": [
                         59.17897,
                         42.318984
-                  ]
-            },
-            {
-                  "name": "Ak Kala",
-                  "text": "The 'White Fortress', a historic site in Köneürgenç featuring ruins of ancient clay walls.",
-                  "category": "landmark",
-                  "coords": [
-                        59.152003,
-                        42.296401
-                  ]
-            },
-            {
-                  "name": "Timur Qutlugh Minaret",
-                  "text": "A 14th-century brick tower over 60 meters tall, the highest minaret in Central Asia.",
-                  "category": "tower",
-                  "coords": [
-                        59.141868,
-                        42.308649
                   ]
             },
             {

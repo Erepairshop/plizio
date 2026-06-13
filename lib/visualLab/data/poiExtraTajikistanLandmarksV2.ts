@@ -259,15 +259,6 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tj-hisor-fortress-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Osorkhona",
-                  "text": "Dieses Museum in Hisor bewahrt archäologische Funde aus der antiken Festungsstadt auf.",
-                  "category": "museum",
-                  "coords": [
-                        68.551852,
-                        38.52606
-                  ]
-            },
-            {
                   "name": "Mavzolei Makhdumi A'zam",
                   "text": "Ein Mausoleum aus dem 16. Jahrhundert, das dem Sufi-Lehrer Makhdumi A'zam gewidmet ist.",
                   "category": "landmark",
@@ -314,15 +305,6 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Osorkhona",
-                  "text": "Ez a hiszori múzeum az ősi erődvárosból származó régészeti leleteket őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        68.551852,
-                        38.52606
-                  ]
-            },
             {
                   "name": "Mavzolei Makhdumi A'zam",
                   "text": "Egy 16. századi mauzóleum, amelyet Makhdumi A'zam szúfi tanítónak szenteltek.",
@@ -371,15 +353,6 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Osorkhona",
-                  "text": "Acest muzeu din Hisor păstrează descoperiri arheologice din orașul antic fortificat.",
-                  "category": "museum",
-                  "coords": [
-                        68.551852,
-                        38.52606
-                  ]
-            },
-            {
                   "name": "Mavzolei Makhdumi A'zam",
                   "text": "Un mauzoleu din secolul al XVI-lea, dedicat învățătorului sufit Makhdumi A'zam.",
                   "category": "landmark",
@@ -426,15 +399,6 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Osorkhona",
-                  "text": "This museum in Hisor preserves archaeological finds and artifacts from the ancient fortress city.",
-                  "category": "museum",
-                  "coords": [
-                        68.551852,
-                        38.52606
-                  ]
-            },
             {
                   "name": "Mavzolei Makhdumi A'zam",
                   "text": "A 16th-century mausoleum dedicated to the influential Sufi teacher Makhdumi A'zam.",
@@ -1869,24 +1833,6 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
     id: "tj-mausoleum-ali-hamadani-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Ismoili Somoni",
-                  "text": "Ein monumentales Denkmal zu Ehren von Ismail Somani, dem bedeutenden Emir der Samaniden-Dynastie in Kulob.",
-                  "category": "historical",
-                  "coords": [
-                        69.808046,
-                        37.933436
-                  ]
-            },
-            {
-                  "name": "Amfiteatri Kulob",
-                  "text": "Ein großes Freiluft-Amphitheater in Kulob, das als Veranstaltungsort für Musik- und Theateraufführungen dient.",
-                  "category": "cultural",
-                  "coords": [
-                        69.805597,
-                        37.933995
-                  ]
-            },
-            {
                   "name": "Kh'aikali Modar",
                   "text": "Dieses Denkmal in Kulob symbolisiert die Bedeutung der Mutterschaft in der tadschikischen Kultur.",
                   "category": "historical",
@@ -1947,24 +1893,6 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
                   "coords": [
                         69.77453,
                         37.911111
-                  ]
-            },
-            {
-                  "name": "Zooparki Kulob",
-                  "text": "Der Zoo von Kulob beherbergt verschiedene lokale und exotische Tierarten in der Nähe des Stadtzentrums.",
-                  "category": "recreational",
-                  "coords": [
-                        69.803283,
-                        37.934766
-                  ]
-            },
-            {
-                  "name": "Khona muzeii Saidali Valizoda",
-                  "text": "Das ehemalige Wohnhaus des tadschikischen Dichters Saidali Walisoda, heute ein Museum für seine literarischen Werke.",
-                  "category": "museum",
-                  "coords": [
-                        69.785478,
-                        37.920161
                   ]
             },
             {
@@ -2042,24 +1970,6 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Ismoili Somoni",
-                  "text": "Monumentális emlékmű Ismail Somani, a Szamanida-dinasztia jelentős emírjének tiszteletére Kulobban.",
-                  "category": "historical",
-                  "coords": [
-                        69.808046,
-                        37.933436
-                  ]
-            },
-            {
-                  "name": "Amfiteatri Kulob",
-                  "text": "Hatalmas szabadtéri amfiteátrum Kulobban, amely zenei és színházi előadások helyszínéül szolgál.",
-                  "category": "cultural",
-                  "coords": [
-                        69.805597,
-                        37.933995
-                  ]
-            },
-            {
                   "name": "Kh'aikali Modar",
                   "text": "Ez a kulobi emlékmű az anyaság fontosságát jelképezi a tadzsik kultúrában.",
                   "category": "historical",
@@ -2120,24 +2030,6 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
                   "coords": [
                         69.77453,
                         37.911111
-                  ]
-            },
-            {
-                  "name": "Zooparki Kulob",
-                  "text": "A kulobi állatkert különböző helyi és egzotikus állatfajoknak ad otthont a városközpont közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        69.803283,
-                        37.934766
-                  ]
-            },
-            {
-                  "name": "Khona muzeii Saidali Valizoda",
-                  "text": "Szaidali Valizoda tadzsik költő egykori lakóháza, amely ma irodalmi munkásságát bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        69.785478,
-                        37.920161
                   ]
             },
             {
@@ -2215,24 +2107,6 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ismoili Somoni",
-                  "text": "Un monument monumental în cinstea lui Ismail Somani, importantul emir al dinastiei Samanide din Kulob.",
-                  "category": "historical",
-                  "coords": [
-                        69.808046,
-                        37.933436
-                  ]
-            },
-            {
-                  "name": "Amfiteatri Kulob",
-                  "text": "Un mare amfiteatru în aer liber din Kulob, care servește drept loc de desfășurare pentru spectacole muzicale și teatrale.",
-                  "category": "cultural",
-                  "coords": [
-                        69.805597,
-                        37.933995
-                  ]
-            },
-            {
                   "name": "Kh'aikali Modar",
                   "text": "Acest monument din Kulob simbolizează importanța maternității în cultura tadjikă.",
                   "category": "historical",
@@ -2293,24 +2167,6 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
                   "coords": [
                         69.77453,
                         37.911111
-                  ]
-            },
-            {
-                  "name": "Zooparki Kulob",
-                  "text": "Grădina zoologică din Kulob adăpostește diverse specii de animale locale și exotice, aproape de centrul orașului.",
-                  "category": "recreational",
-                  "coords": [
-                        69.803283,
-                        37.934766
-                  ]
-            },
-            {
-                  "name": "Khona muzeii Saidali Valizoda",
-                  "text": "Fosta casă a poetului tadjik Saidali Valizoda, transformată astăzi în muzeu dedicat operelor sale literare.",
-                  "category": "museum",
-                  "coords": [
-                        69.785478,
-                        37.920161
                   ]
             },
             {
@@ -2388,24 +2244,6 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Ismoili Somoni",
-                  "text": "A monumental statue honoring Ismail Somani, the significant emir of the Samanid dynasty in Kulob.",
-                  "category": "historical",
-                  "coords": [
-                        69.808046,
-                        37.933436
-                  ]
-            },
-            {
-                  "name": "Amfiteatri Kulob",
-                  "text": "A large open-air amphitheatre in Kulob serving as a venue for musical and theatrical performances.",
-                  "category": "cultural",
-                  "coords": [
-                        69.805597,
-                        37.933995
-                  ]
-            },
-            {
                   "name": "Kh'aikali Modar",
                   "text": "This monument in Kulob symbolizes the importance of motherhood in Tajik culture.",
                   "category": "historical",
@@ -2466,24 +2304,6 @@ export const poiExtraTajikistanLandmarksV2: POI[] = [
                   "coords": [
                         69.77453,
                         37.911111
-                  ]
-            },
-            {
-                  "name": "Zooparki Kulob",
-                  "text": "The Kulob zoo houses various local and exotic animal species near the city center.",
-                  "category": "recreational",
-                  "coords": [
-                        69.803283,
-                        37.934766
-                  ]
-            },
-            {
-                  "name": "Khona muzeii Saidali Valizoda",
-                  "text": "The former home of the Tajik poet Saidali Valizoda, now a museum dedicated to his literary works.",
-                  "category": "museum",
-                  "coords": [
-                        69.785478,
-                        37.920161
                   ]
             },
             {

@@ -18174,15 +18174,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     id: "cucuta-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Museo Casa Natal Francisco de Paula Santander",
-                  "text": "Das Museo Casa Natal Francisco de Paula Santander befindet sich im Parque Gran Colombiano und ist im Geburtshaus des Unabhängigkeitsführers in Cúcuta untergebracht.",
-                  "category": "museum",
-                  "coords": [
-                        -72.462473,
-                        7.833857
-                  ]
-            },
-            {
                   "name": "Casa Cural San Luis Gonzaga",
                   "text": "Die Casa Cural San Luis Gonzaga ist das historische Pfarrhaus, das zur Basilica minor San Luis Gonzaga in Cúcuta gehört.",
                   "category": "religious",
@@ -18234,24 +18225,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   "coords": [
                         -72.485609,
                         7.897639
-                  ]
-            },
-            {
-                  "name": "Templo Histórico",
-                  "text": "Der Templo Histórico ist ein bedeutendes Nationaldenkmal in Cúcuta, an dessen Stelle die Verfassung von 1821 unterzeichnet wurde.",
-                  "category": "historical",
-                  "coords": [
-                        -72.462606,
-                        7.829493
-                  ]
-            },
-            {
-                  "name": "General Santander",
-                  "text": "Das Denkmal General Santander in Cúcuta ehrt den berühmten General, der eine Schlüsselrolle in der Unabhängigkeit Großkolumbiens spielte.",
-                  "category": "historical",
-                  "coords": [
-                        -72.462806,
-                        7.826906
                   ]
             },
             {
@@ -18482,15 +18455,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Museo Casa Natal Francisco de Paula Santander",
-                  "text": "A Museo Casa Natal Francisco de Paula Santander a Parque Gran Colombiano parkban található, és a függetlenségi vezető cúcutai szülőházában kapott helyet.",
-                  "category": "museum",
-                  "coords": [
-                        -72.462473,
-                        7.833857
-                  ]
-            },
-            {
                   "name": "Casa Cural San Luis Gonzaga",
                   "text": "A Casa Cural San Luis Gonzaga az a történelmi plébánia, amely a cúcutai San Luis Gonzaga kisebb bazilikához tartozik.",
                   "category": "religious",
@@ -18542,24 +18506,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   "coords": [
                         -72.485609,
                         7.897639
-                  ]
-            },
-            {
-                  "name": "Templo Histórico",
-                  "text": "A Templo Histórico egy fontos nemzeti emlékmű Cúcutában, amelyen 1821-ben aláírták az alkotmányt.",
-                  "category": "historical",
-                  "coords": [
-                        -72.462606,
-                        7.829493
-                  ]
-            },
-            {
-                  "name": "General Santander",
-                  "text": "A cúcutai General Santander emlékmű a híres tábornokot tiszteli, aki kulcsszerepet játszott Nagy-Kolumbia függetlenségében.",
-                  "category": "historical",
-                  "coords": [
-                        -72.462806,
-                        7.826906
                   ]
             },
             {
@@ -18790,15 +18736,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Museo Casa Natal Francisco de Paula Santander",
-                  "text": "Museo Casa Natal Francisco de Paula Santander este situat în Parcul Gran Colombiano, fiind găzduit în casa natală a liderului independenței din Cúcuta.",
-                  "category": "museum",
-                  "coords": [
-                        -72.462473,
-                        7.833857
-                  ]
-            },
-            {
                   "name": "Casa Cural San Luis Gonzaga",
                   "text": "Casa Cural San Luis Gonzaga este casa parohială istorică asociată cu Basilica minoră San Luis Gonzaga din Cúcuta.",
                   "category": "religious",
@@ -18850,24 +18787,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   "coords": [
                         -72.485609,
                         7.897639
-                  ]
-            },
-            {
-                  "name": "Templo Histórico",
-                  "text": "Templo Histórico este un monument național semnificativ din Cúcuta, locul în care a fost semnată constituția din 1821.",
-                  "category": "historical",
-                  "coords": [
-                        -72.462606,
-                        7.829493
-                  ]
-            },
-            {
-                  "name": "General Santander",
-                  "text": "Monumentul General Santander din Cúcuta onorează faimosul general care a jucat un rol cheie în independența Gran Colombiei.",
-                  "category": "historical",
-                  "coords": [
-                        -72.462806,
-                        7.826906
                   ]
             },
             {
@@ -19098,15 +19017,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Museo Casa Natal Francisco de Paula Santander",
-                  "text": "Museo Casa Natal Francisco de Paula Santander, located in the Gran Colombiano Park, is housed in the birthplace of the independence leader in Cúcuta.",
-                  "category": "museum",
-                  "coords": [
-                        -72.462473,
-                        7.833857
-                  ]
-            },
-            {
                   "name": "Casa Cural San Luis Gonzaga",
                   "text": "Casa Cural San Luis Gonzaga is the historical rectory connected to the Minor Basilica of San Luis Gonzaga in Cúcuta.",
                   "category": "religious",
@@ -19158,24 +19068,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   "coords": [
                         -72.485609,
                         7.897639
-                  ]
-            },
-            {
-                  "name": "Templo Histórico",
-                  "text": "Templo Histórico is a significant national monument in Cúcuta marking the site where the 1821 constitution was signed.",
-                  "category": "historical",
-                  "coords": [
-                        -72.462606,
-                        7.829493
-                  ]
-            },
-            {
-                  "name": "General Santander",
-                  "text": "The General Santander monument in Cúcuta honors the famous general who played a key role in the independence of Gran Colombia.",
-                  "category": "historical",
-                  "coords": [
-                        -72.462806,
-                        7.826906
                   ]
             },
             {
@@ -31954,39 +31846,12 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     id: "barrancabermeja-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Procinal",
-                  "text": "Ein kulturelles Zentrum in Barrancabermeja, das Veranstaltungen und Ausstellungen bietet.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.866341,
-                        7.060666
-                  ]
-            },
-            {
                   "name": "CMDHM",
                   "text": "Ein Museum in Barrancabermeja, das sich mit Menschenrechten und sozialer Geschichte befasst.",
                   "category": "museum",
                   "coords": [
                         -73.855844,
                         7.062669
-                  ]
-            },
-            {
-                  "name": "Parque Indios Yariguies",
-                  "text": "Ein Park in Barrancabermeja, der an das indigene Volk der Yariguíes erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        -73.865223,
-                        7.061544
-                  ]
-            },
-            {
-                  "name": "Parque La Constitucion",
-                  "text": "Ein natürlicher Park mit Grünflächen und Spazierwegen in Barrancabermeja.",
-                  "category": "natural",
-                  "coords": [
-                        -73.871255,
-                        7.059984
                   ]
             },
             {
@@ -32035,24 +31900,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque del Reloj",
-                  "text": "Ein Park mit einem markanten Uhrenturm in Barrancabermeja.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.859449,
-                        7.058568
-                  ]
-            },
-            {
-                  "name": "Parque Uribe Uribe",
-                  "text": "Ein Park in Barrancabermeja, der dem Politiker Rafael Uribe Uribe gewidmet ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.868381,
-                        7.058483
-                  ]
-            },
-            {
                   "name": "Parque Pueblo Nuevo",
                   "text": "Ein Park im Viertel Pueblo Nuevo in Barrancabermeja.",
                   "category": "landmark",
@@ -32069,27 +31916,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                         -73.858356,
                         7.055567
                   ]
-            },
-            {
-                  "name": "Parque Infantil",
-                  "text": "Ein Kinderspielplatz mit Spielgeräten in Barrancabermeja.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.860983,
-                        7.058972
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Procinal",
-                  "text": "Kulturális központ Barrancabermejában, rendezvényekkel és kiállításokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.866341,
-                        7.060666
-                  ]
-            },
             {
                   "name": "CMDHM",
                   "text": "Múzeum Barrancabermejában, amely emberi jogokkal és társadalomtörténettel foglalkozik.",
@@ -32097,24 +31926,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   "coords": [
                         -73.855844,
                         7.062669
-                  ]
-            },
-            {
-                  "name": "Parque Indios Yariguies",
-                  "text": "Park Barrancabermejában, amely a Yariguíes bennszülött népre emlékezik.",
-                  "category": "historical",
-                  "coords": [
-                        -73.865223,
-                        7.061544
-                  ]
-            },
-            {
-                  "name": "Parque La Constitucion",
-                  "text": "Természeti park zöldterületekkel és sétányokkal Barrancabermejában.",
-                  "category": "natural",
-                  "coords": [
-                        -73.871255,
-                        7.059984
                   ]
             },
             {
@@ -32163,24 +31974,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque del Reloj",
-                  "text": "Park jellegzetes óratoronnyal Barrancabermejában.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.859449,
-                        7.058568
-                  ]
-            },
-            {
-                  "name": "Parque Uribe Uribe",
-                  "text": "Park Barrancabermejában, Rafael Uribe Uribe politikusnak szentelve.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.868381,
-                        7.058483
-                  ]
-            },
-            {
                   "name": "Parque Pueblo Nuevo",
                   "text": "Park a Pueblo Nuevo negyedben Barrancabermejában.",
                   "category": "landmark",
@@ -32197,27 +31990,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                         -73.858356,
                         7.055567
                   ]
-            },
-            {
-                  "name": "Parque Infantil",
-                  "text": "Gyermekjátszótér játékokkal Barrancabermejában.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.860983,
-                        7.058972
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Procinal",
-                  "text": "Un centru cultural în Barrancabermeja, cu evenimente și expoziții.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.866341,
-                        7.060666
-                  ]
-            },
             {
                   "name": "CMDHM",
                   "text": "Un muzeu în Barrancabermeja dedicat drepturilor omului și istoriei sociale.",
@@ -32225,24 +32000,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   "coords": [
                         -73.855844,
                         7.062669
-                  ]
-            },
-            {
-                  "name": "Parque Indios Yariguies",
-                  "text": "Un parc în Barrancabermeja care onorează poporul indigen Yariguíes.",
-                  "category": "historical",
-                  "coords": [
-                        -73.865223,
-                        7.061544
-                  ]
-            },
-            {
-                  "name": "Parque La Constitucion",
-                  "text": "Un parc natural cu spații verzi și alei în Barrancabermeja.",
-                  "category": "natural",
-                  "coords": [
-                        -73.871255,
-                        7.059984
                   ]
             },
             {
@@ -32291,24 +32048,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque del Reloj",
-                  "text": "Un parc cu un turn de ceas proeminent în Barrancabermeja.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.859449,
-                        7.058568
-                  ]
-            },
-            {
-                  "name": "Parque Uribe Uribe",
-                  "text": "Un parc în Barrancabermeja dedicat politicianului Rafael Uribe Uribe.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.868381,
-                        7.058483
-                  ]
-            },
-            {
                   "name": "Parque Pueblo Nuevo",
                   "text": "Un parc în cartierul Pueblo Nuevo din Barrancabermeja.",
                   "category": "landmark",
@@ -32325,27 +32064,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                         -73.858356,
                         7.055567
                   ]
-            },
-            {
-                  "name": "Parque Infantil",
-                  "text": "Un parc pentru copii cu echipamente de joacă în Barrancabermeja.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.860983,
-                        7.058972
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Procinal",
-                  "text": "A cultural center in Barrancabermeja hosting events and exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.866341,
-                        7.060666
-                  ]
-            },
             {
                   "name": "CMDHM",
                   "text": "A museum in Barrancabermeja focusing on human rights and social history.",
@@ -32353,24 +32074,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   "coords": [
                         -73.855844,
                         7.062669
-                  ]
-            },
-            {
-                  "name": "Parque Indios Yariguies",
-                  "text": "A park in Barrancabermeja honoring the Yariguíes indigenous people.",
-                  "category": "historical",
-                  "coords": [
-                        -73.865223,
-                        7.061544
-                  ]
-            },
-            {
-                  "name": "Parque La Constitucion",
-                  "text": "A natural park with green spaces and walking paths in Barrancabermeja.",
-                  "category": "natural",
-                  "coords": [
-                        -73.871255,
-                        7.059984
                   ]
             },
             {
@@ -32419,24 +32122,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque del Reloj",
-                  "text": "A park with a distinctive clock tower in Barrancabermeja.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.859449,
-                        7.058568
-                  ]
-            },
-            {
-                  "name": "Parque Uribe Uribe",
-                  "text": "A park in Barrancabermeja dedicated to politician Rafael Uribe Uribe.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.868381,
-                        7.058483
-                  ]
-            },
-            {
                   "name": "Parque Pueblo Nuevo",
                   "text": "A park in the Pueblo Nuevo neighborhood of Barrancabermeja.",
                   "category": "landmark",
@@ -32452,15 +32137,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   "coords": [
                         -73.858356,
                         7.055567
-                  ]
-            },
-            {
-                  "name": "Parque Infantil",
-                  "text": "A children's playground with play equipment in Barrancabermeja.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.860983,
-                        7.058972
                   ]
             }
       ]
@@ -32567,15 +32243,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   "coords": [
                         -75.601343,
                         6.186233
-                  ]
-            },
-            {
-                  "name": "Casa Finca San José",
-                  "text": "Ein historisches Anwesen mit weiß getünchten Mauern und Ziegeldach, das inmitten der modernen Stadt erhalten geblieben ist.",
-                  "category": "historical",
-                  "coords": [
-                        -75.602416,
-                        6.186969
                   ]
             },
             {
@@ -32869,15 +32536,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Finca San José",
-                  "text": "Történelmi birtok mészfehér falakkal és cseréptetővel, amely megmaradt a modern város közepén.",
-                  "category": "historical",
-                  "coords": [
-                        -75.602416,
-                        6.186969
-                  ]
-            },
-            {
                   "name": "Casa Finca de Los del Valle",
                   "text": "Régi parasztház, amely az Aburrá-völgy hagyományos építési módját tükrözi árnyas verandáival.",
                   "category": "historical",
@@ -33165,15 +32823,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   "coords": [
                         -75.601343,
                         6.186233
-                  ]
-            },
-            {
-                  "name": "Casa Finca San José",
-                  "text": "O proprietate istorică cu ziduri albe și acoperiș de țiglă, care s-a păstrat în mijlocul orașului modern.",
-                  "category": "historical",
-                  "coords": [
-                        -75.602416,
-                        6.186969
                   ]
             },
             {
@@ -33467,15 +33116,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Finca San José",
-                  "text": "A historic estate with whitewashed walls and a tile roof, preserved amidst the modern city development.",
-                  "category": "historical",
-                  "coords": [
-                        -75.602416,
-                        6.186969
-                  ]
-            },
-            {
                   "name": "Casa Finca de Los del Valle",
                   "text": "An old farmhouse reflecting the traditional construction style of the Aburrá Valley with its shaded verandas.",
                   "category": "historical",
@@ -33762,15 +33402,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     id: "itagui-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Teatro Envigado",
-                  "text": "Ein Kulturtheater in Itagüí, das Bühnenaufführungen und Events veranstaltet.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.588703,
-                        6.169978
-                  ]
-            },
-            {
                   "name": "Museo Counitario GAV",
                   "text": "Ein Gemeinschaftsmuseum in Itagüí, betrieben von der Gruppe GAV.",
                   "category": "museum",
@@ -33843,33 +33474,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque del Artista",
-                  "text": "Ein Park in Itagüí, der lokalen Künstlern gewidmet ist und Skulpturen zeigt.",
-                  "category": "park",
-                  "coords": [
-                        -75.602507,
-                        6.178706
-                  ]
-            },
-            {
-                  "name": "Casa Finca de Los del Valle",
-                  "text": "Das historische Erbe von Itagüí wird durch die Casa Finca de Los del Valle repräsentiert. In Kolumbien bietet dieses Denkmal einen Einblick in vergangene architektonische Epochen.",
-                  "category": "historical",
-                  "coords": [
-                        -75.598923,
-                        6.188692
-                  ]
-            },
-            {
-                  "name": "casa finca FLANDES",
-                  "text": "In der kolumbianischen Stadt Itagüí zeugt die casa finca FLANDES von der lokalen Geschichte. Besucher dieses historischen Wahrzeichens können die Spuren der Vergangenheit in einer einzigartigen Umgebung erkunden.",
-                  "category": "historical",
-                  "coords": [
-                        -75.601343,
-                        6.186233
-                  ]
-            },
-            {
                   "name": "Casa Finca San José",
                   "text": "Ein weiteres Relikt der Vergangenheit in Itagüí ist die Casa Finca San José. Dieses Denkmal in Kolumbien vermittelt Gästen eindrucksvoll die historische Wohnkultur der Region.",
                   "category": "historical",
@@ -33915,15 +33519,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casadela Cultura La Barquerena",
-                  "text": "Ein Kulturhaus im Viertel La Barquereña in Itagüí mit Ausstellungen und Workshops.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.61302,
-                        6.150396
-                  ]
-            },
-            {
                   "name": "Antigua estación del ferrocarril",
                   "text": "Die Antigua estación del ferrocarril in Itagüí erinnert an die Ära der kolumbianischen Eisenbahn. Gäste dieses historischen Ortes können die Atmosphäre eines alten Verkehrsknotenpunktes nachempfinden.",
                   "category": "historical",
@@ -33931,27 +33526,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                         -75.62306,
                         6.162679
                   ]
-            },
-            {
-                  "name": "Parroquia Santa Gertrudis",
-                  "text": "Eine katholische Kirche in Envigado, Kolumbien, der Heiligen Gertrud geweiht.",
-                  "category": "religious",
-                  "coords": [
-                        -75.586961,
-                        6.169807
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Teatro Envigado",
-                  "text": "Kulturális színház Itagüíban, színpadi előadásokkal és rendezvényekkel.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.588703,
-                        6.169978
-                  ]
-            },
             {
                   "name": "Museo Counitario GAV",
                   "text": "Közösségi múzeum Itagüíban, a GAV csoport által üzemeltetve.",
@@ -34025,33 +33602,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque del Artista",
-                  "text": "Park Itagüíban, helyi művészeknek szentelve, szobrokkal.",
-                  "category": "park",
-                  "coords": [
-                        -75.602507,
-                        6.178706
-                  ]
-            },
-            {
-                  "name": "Casa Finca de Los del Valle",
-                  "text": "Az Itagüí városában megőrzött történelmi emlék, a Casa Finca de Los del Valle Kolumbia múltját idézi fel. Ezt a létesítményt felkeresve az érdeklődők megismerkedhetnek a térség épített örökségével.",
-                  "category": "historical",
-                  "coords": [
-                        -75.598923,
-                        6.188692
-                  ]
-            },
-            {
-                  "name": "casa finca FLANDES",
-                  "text": "A történelmi jelentőségű casa finca FLANDES Kolumbia Itagüí településén áll. Az ide érkezők egy múltidéző utazáson vehetnek részt ezen a különleges helyszínen.",
-                  "category": "historical",
-                  "coords": [
-                        -75.601343,
-                        6.186233
-                  ]
-            },
-            {
                   "name": "Casa Finca San José",
                   "text": "Kolumbia egyik történelmi látványossága a Casa Finca San José, amely Itagüí városában található. A látogatók ezen a helyen betekintést nyerhetnek a környék korábbi életmódjába.",
                   "category": "historical",
@@ -34097,15 +33647,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casadela Cultura La Barquerena",
-                  "text": "Kultúrház a La Barquereña negyedben Itagüíban, kiállításokkal és műhelyekkel.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.61302,
-                        6.150396
-                  ]
-            },
-            {
                   "name": "Antigua estación del ferrocarril",
                   "text": "Kolumbia vasúttörténetének egy szeletét őrzi az Antigua estación del ferrocarril nevű történelmi állomás Itagüíban. A helyszín különleges élményt nyújt a régi közlekedési módok kedvelőinek.",
                   "category": "historical",
@@ -34113,27 +33654,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                         -75.62306,
                         6.162679
                   ]
-            },
-            {
-                  "name": "Parroquia Santa Gertrudis",
-                  "text": "Katolikus templom Envigadóban, Kolumbiában, Szent Gertrúdnak szentelve.",
-                  "category": "religious",
-                  "coords": [
-                        -75.586961,
-                        6.169807
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Teatro Envigado",
-                  "text": "Un teatru cultural în Itagüí, care găzduiește spectacole și evenimente.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.588703,
-                        6.169978
-                  ]
-            },
             {
                   "name": "Museo Counitario GAV",
                   "text": "Un muzeu comunitar în Itagüí, operat de grupul GAV.",
@@ -34207,33 +33730,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque del Artista",
-                  "text": "Un parc în Itagüí dedicat artiștilor locali, cu sculpturi.",
-                  "category": "park",
-                  "coords": [
-                        -75.602507,
-                        6.178706
-                  ]
-            },
-            {
-                  "name": "Casa Finca de Los del Valle",
-                  "text": "Casa Finca de Los del Valle este un monument istoric ce se regăsește în orașul Itagüí, Columbia. Acest obiectiv turistic oferă vizitatorilor o privire asupra arhitecturii și tradițiilor din trecut.",
-                  "category": "historical",
-                  "coords": [
-                        -75.598923,
-                        6.188692
-                  ]
-            },
-            {
-                  "name": "casa finca FLANDES",
-                  "text": "Situată în orașul columbian Itagüí, casa finca FLANDES stă mărturie istoriei locului. Turistul va descoperi aici o moștenire culturală fascinantă conservată în timp.",
-                  "category": "historical",
-                  "coords": [
-                        -75.601343,
-                        6.186233
-                  ]
-            },
-            {
                   "name": "Casa Finca San José",
                   "text": "Casa Finca San José se numără printre atracțiile istorice din Itagüí. Vizitând acest monument columbian, oaspeții se pot familiariza cu elementele arhitecturale de altădată.",
                   "category": "historical",
@@ -34279,15 +33775,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casadela Cultura La Barquerena",
-                  "text": "O casă de cultură în cartierul La Barquereña din Itagüí, cu expoziții și ateliere.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.61302,
-                        6.150396
-                  ]
-            },
-            {
                   "name": "Antigua estación del ferrocarril",
                   "text": "Antigua estación del ferrocarril amintește de perioada transportului feroviar de odinioară din Itagüí, Columbia. Vizitatorii acestui monument istoric se vor bucura de arhitectura specifică stațiilor clasice.",
                   "category": "historical",
@@ -34295,27 +33782,9 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                         -75.62306,
                         6.162679
                   ]
-            },
-            {
-                  "name": "Parroquia Santa Gertrudis",
-                  "text": "O biserică catolică în Envigado, Columbia, dedicată Sfintei Gertruda.",
-                  "category": "religious",
-                  "coords": [
-                        -75.586961,
-                        6.169807
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Teatro Envigado",
-                  "text": "A cultural theater in Itagüí hosting stage performances and events.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.588703,
-                        6.169978
-                  ]
-            },
             {
                   "name": "Museo Counitario GAV",
                   "text": "A community museum in Itagüí operated by the GAV group.",
@@ -34389,33 +33858,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque del Artista",
-                  "text": "A park in Itagüí dedicated to local artists, featuring sculptures.",
-                  "category": "park",
-                  "coords": [
-                        -75.602507,
-                        6.178706
-                  ]
-            },
-            {
-                  "name": "Casa Finca de Los del Valle",
-                  "text": "Preserving local history, the Casa Finca de Los del Valle is an important monument in Itagüí, Colombia. Exploring this historic site gives guests an appreciation for the region's cultural heritage.",
-                  "category": "historical",
-                  "coords": [
-                        -75.598923,
-                        6.188692
-                  ]
-            },
-            {
-                  "name": "casa finca FLANDES",
-                  "text": "The casa finca FLANDES forms a piece of the historical tapestry in Itagüí, Colombia. Guests visiting this monument can expect to delve into the historical essence of the area.",
-                  "category": "historical",
-                  "coords": [
-                        -75.601343,
-                        6.186233
-                  ]
-            },
-            {
                   "name": "Casa Finca San José",
                   "text": "Found in Itagüí, Colombia, the Casa Finca San José serves as a notable historical monument. A visit here allows one to witness the preserved remnants of the city's past.",
                   "category": "historical",
@@ -34461,30 +33903,12 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casadela Cultura La Barquerena",
-                  "text": "A cultural center in the La Barquereña neighborhood of Itagüí, with exhibitions and workshops.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.61302,
-                        6.150396
-                  ]
-            },
-            {
                   "name": "Old train station",
                   "text": "The Antigua estación del ferrocarril serves as a historical reminder of the railway era in Itagüí, Colombia. Experiencing this monument provides a look into the region's historical transportation network.",
                   "category": "historical",
                   "coords": [
                         -75.62306,
                         6.162679
-                  ]
-            },
-            {
-                  "name": "Parroquia Santa Gertrudis",
-                  "text": "A Catholic church in Envigado, Colombia, dedicated to Saint Gertrude.",
-                  "category": "religious",
-                  "coords": [
-                        -75.586961,
-                        6.169807
                   ]
             }
       ]
@@ -37134,15 +36558,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
     id: "zipaquira-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Museo de la salmuera",
-                  "text": "Ein Museum, das der Geschichte der Salzgewinnung in den berühmten Salzminen von Zipaquirá gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -74.009222,
-                        5.019131
-                  ]
-            },
-            {
                   "name": "Museo Gabriel García Márquez",
                   "text": "Ein Museum, das das Leben und literarische Werk von Gabriel García Márquez in einem kolonialen Haus feiert.",
                   "category": "museum",
@@ -37152,30 +36567,12 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Arqueológico",
-                  "text": "Beherbergt präkolumbische Artefakte und archäologische Funde aus der Region Altiplano Cundiboyacense.",
-                  "category": "museum",
-                  "coords": [
-                        -74.006722,
-                        5.02102
-                  ]
-            },
-            {
                   "name": "Teatro Bicentenario",
                   "text": "Ein modernes Theater, das zum zweihundertjährigen Jubiläum der kolumbianischen Unabhängigkeit erbaut wurde und Theaterstücke und Konzerte beherbergt.",
                   "category": "cultural",
                   "coords": [
                         -73.997859,
                         5.015089
-                  ]
-            },
-            {
-                  "name": "Catedral de Sal",
-                  "text": "Die Catedral de Sal ist eine berühmte unterirdische römisch-katholische Kirche, die in den Tunneln eines Salzbergwerks in Zipaquirá erbaut wurde.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.010326,
-                        5.018709
                   ]
             },
             {
@@ -37190,15 +36587,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Museo de la salmuera",
-                  "text": "Múzeum, amely a híres zipaquirái sóbányák sókitermelésének történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -74.009222,
-                        5.019131
-                  ]
-            },
-            {
                   "name": "Museo Gabriel García Márquez",
                   "text": "Múzeum, amely Gabriel García Márquez életét és irodalmi munkásságát ünnepli egy gyarmati házban.",
                   "category": "museum",
@@ -37208,30 +36596,12 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Arqueológico",
-                  "text": "Prekolumbiánus tárgyakat és régészeti leleteket őriz az Altiplano Cundiboyacense régióból.",
-                  "category": "museum",
-                  "coords": [
-                        -74.006722,
-                        5.02102
-                  ]
-            },
-            {
                   "name": "Teatro Bicentenario",
                   "text": "Modern színház, amely Kolumbia függetlenségének kétszázadik évfordulójára épült, színdaraboknak és koncerteknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -73.997859,
                         5.015089
-                  ]
-            },
-            {
-                  "name": "Catedral de Sal",
-                  "text": "A Catedral de Sal egy híres földalatti római katolikus templom, amely egy sóbánya alagútjaiban épült Zipaquirában.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.010326,
-                        5.018709
                   ]
             },
             {
@@ -37246,15 +36616,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Museo de la salmuera",
-                  "text": "Un muzeu dedicat istoriei extracției sării în celebrele mine de sare de la Zipaquirá.",
-                  "category": "museum",
-                  "coords": [
-                        -74.009222,
-                        5.019131
-                  ]
-            },
-            {
                   "name": "Museo Gabriel García Márquez",
                   "text": "Un muzeu care celebrează viața și operele literare ale lui Gabriel García Márquez, într-o casă colonială.",
                   "category": "museum",
@@ -37264,30 +36625,12 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Arqueológico",
-                  "text": "Adăpostește artefacte precolumbiene și descoperiri arheologice din regiunea Altiplano Cundiboyacense.",
-                  "category": "museum",
-                  "coords": [
-                        -74.006722,
-                        5.02102
-                  ]
-            },
-            {
                   "name": "Teatro Bicentenario",
                   "text": "Un teatru modern construit pentru bicentenarul independenței Columbiei, care găzduiește piese de teatru și concerte.",
                   "category": "cultural",
                   "coords": [
                         -73.997859,
                         5.015089
-                  ]
-            },
-            {
-                  "name": "Catedral de Sal",
-                  "text": "Catedral de Sal este o faimoasă biserică romano-catolică subterană construită în tunelele unei mine de sare din Zipaquirá.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.010326,
-                        5.018709
                   ]
             },
             {
@@ -37302,15 +36645,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Museo de la salmuera",
-                  "text": "A museum dedicated to the history of salt extraction in the famous Zipaquira salt mines.",
-                  "category": "museum",
-                  "coords": [
-                        -74.009222,
-                        5.019131
-                  ]
-            },
-            {
                   "name": "Museo Gabriel García Márquez",
                   "text": "A museum celebrating the life and literary works of Gabriel García Márquez, in a colonial house.",
                   "category": "museum",
@@ -37320,30 +36654,12 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Arqueológico",
-                  "text": "Houses pre-Columbian artifacts and archaeological finds from the Altiplano Cundiboyacense region.",
-                  "category": "museum",
-                  "coords": [
-                        -74.006722,
-                        5.02102
-                  ]
-            },
-            {
                   "name": "Teatro Bicentenario",
                   "text": "A modern theater built for the bicentennial of Colombia's independence, hosting plays and concerts.",
                   "category": "cultural",
                   "coords": [
                         -73.997859,
                         5.015089
-                  ]
-            },
-            {
-                  "name": "Catedral de Sal",
-                  "text": "The Catedral de Sal is a famous underground Roman Catholic church built within the tunnels of a salt mine in Zipaquirá.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.010326,
-                        5.018709
                   ]
             },
             {
@@ -40984,15 +40300,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playita",
-                  "text": "Kleiner Strand in Turbo, beliebt zum Baden und Sonnen.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.741833,
-                        8.09237
-                  ]
-            },
-            {
                   "name": "Puerto Turbo",
                   "text": "Naturhafen von Turbo, wichtiger Umschlagplatz für Fracht und Fischerei.",
                   "category": "natural",
@@ -41028,15 +40335,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   "coords": [
                         -76.740632,
                         8.0964
-                  ]
-            },
-            {
-                  "name": "Playita",
-                  "text": "Kis strand Turbóban, népszerű fürdőzésre és napozásra.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.741833,
-                        8.09237
                   ]
             },
             {
@@ -41078,15 +40376,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playita",
-                  "text": "Plajă mică în Turbo, populară pentru înot și plajă.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.741833,
-                        8.09237
-                  ]
-            },
-            {
                   "name": "Puerto Turbo",
                   "text": "Port natural în Turbo, important punct de tranzit pentru marfă și pescuit.",
                   "category": "natural",
@@ -41122,15 +40411,6 @@ export const poiExtraColombiaCitiesV2: POI[] = [
                   "coords": [
                         -76.740632,
                         8.0964
-                  ]
-            },
-            {
-                  "name": "Playita",
-                  "text": "Small beach in Turbo, popular for swimming and sunbathing.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.741833,
-                        8.09237
                   ]
             },
             {

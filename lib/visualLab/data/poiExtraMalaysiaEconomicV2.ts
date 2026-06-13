@@ -6,15 +6,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
     id: "port-klang-trade-hub-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Galeri Diraja Sultan Abdul Aziz",
-                  "text": "Eine königliche Galerie in Klang, die die Geschichte und das Erbe der königlichen Familie von Selangor beleuchtet.",
-                  "category": "museum",
-                  "coords": [
-                        101.449222,
-                        3.041272
-                  ]
-            },
-            {
                   "name": "Majlis Bandaraya Diraja Klang",
                   "text": "Das administrative Rathausgebäude der königlichen Stadt Klang.",
                   "category": "historical",
@@ -24,39 +15,12 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Our Lady of Lourdes Church",
-                  "text": "Eine markante katholische Kirche in Klang, die für ihre gotische Architektur bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        101.444332,
-                        3.037442
-                  ]
-            },
-            {
-                  "name": "Gurdwara Sahib Klang",
-                  "text": "Eine bedeutende Sikh-Kultstätte, die der lokalen Gemeinschaft in Klang dient.",
-                  "category": "religious",
-                  "coords": [
-                        101.444596,
-                        3.041068
-                  ]
-            },
-            {
                   "name": "Jambatan Kota",
                   "text": "Eine historische Doppelstockbrücke, die den Fluss Klang überquert.",
                   "category": "landmark",
                   "coords": [
                         101.448772,
                         3.047533
-                  ]
-            },
-            {
-                  "name": "Jambatan Ketiga Klang",
-                  "text": "Eine Brücke über den Fluss Klang, die ursprünglich 1917 errichtet wurde.",
-                  "category": "landmark",
-                  "coords": [
-                        101.427095,
-                        3.051518
                   ]
             },
             {
@@ -138,24 +102,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
                   "coords": [
                         101.446393,
                         3.047498
-                  ]
-            },
-            {
-                  "name": "Little India",
-                  "text": "Eine lebendige kulturelle Enklave in Klang mit traditionellen indischen Geschäften und Restaurants.",
-                  "category": "landmark",
-                  "coords": [
-                        101.447003,
-                        3.040365
-                  ]
-            },
-            {
-                  "name": "Taman Pengkalan Hampar",
-                  "text": "Ein Erholungspark in der Nähe von Port Klang, der Platz im Freien bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        101.447939,
-                        3.045992
                   ]
             },
             {
@@ -332,15 +278,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Galeri Diraja Sultan Abdul Aziz",
-                  "text": "A Selangor királyi család történelmét és örökségét bemutató galéria Klangban.",
-                  "category": "museum",
-                  "coords": [
-                        101.449222,
-                        3.041272
-                  ]
-            },
-            {
                   "name": "Majlis Bandaraya Diraja Klang",
                   "text": "Klang királyi város közigazgatási városháza épülete.",
                   "category": "historical",
@@ -350,39 +287,12 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Our Lady of Lourdes Church",
-                  "text": "Egy kiemelkedő katolikus templom Klangban, amely gótikus építészetéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        101.444332,
-                        3.037442
-                  ]
-            },
-            {
-                  "name": "Gurdwara Sahib Klang",
-                  "text": "A klangi helyi közösséget szolgáló kiemelkedő szikh istentiszteleti hely.",
-                  "category": "religious",
-                  "coords": [
-                        101.444596,
-                        3.041068
-                  ]
-            },
-            {
                   "name": "Jambatan Kota",
                   "text": "A Klang folyót átívelő történelmi emeletes híd.",
                   "category": "landmark",
                   "coords": [
                         101.448772,
                         3.047533
-                  ]
-            },
-            {
-                  "name": "Jambatan Ketiga Klang",
-                  "text": "A Klang folyón átívelő, eredetileg 1917-ben épült híd.",
-                  "category": "landmark",
-                  "coords": [
-                        101.427095,
-                        3.051518
                   ]
             },
             {
@@ -464,24 +374,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
                   "coords": [
                         101.446393,
                         3.047498
-                  ]
-            },
-            {
-                  "name": "Little India",
-                  "text": "Egy élénk kulturális enklávé Klangban hagyományos indiai üzletekkel és éttermekkel.",
-                  "category": "landmark",
-                  "coords": [
-                        101.447003,
-                        3.040365
-                  ]
-            },
-            {
-                  "name": "Taman Pengkalan Hampar",
-                  "text": "A Port Klang közelében szabadtéri kikapcsolódást kínáló rekreációs park.",
-                  "category": "landmark",
-                  "coords": [
-                        101.447939,
-                        3.045992
                   ]
             },
             {
@@ -658,15 +550,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Galeri Diraja Sultan Abdul Aziz",
-                  "text": "O galerie regală în Klang, care evidențiază istoria și moștenirea familiei regale din Selangor.",
-                  "category": "museum",
-                  "coords": [
-                        101.449222,
-                        3.041272
-                  ]
-            },
-            {
                   "name": "Majlis Bandaraya Diraja Klang",
                   "text": "Clădirea administrativă a primăriei pentru orașul regal Klang.",
                   "category": "historical",
@@ -676,39 +559,12 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Our Lady of Lourdes Church",
-                  "text": "O biserică catolică proeminentă din Klang, cunoscută pentru arhitectura sa gotică.",
-                  "category": "religious",
-                  "coords": [
-                        101.444332,
-                        3.037442
-                  ]
-            },
-            {
-                  "name": "Gurdwara Sahib Klang",
-                  "text": "Un loc de cult proeminent sikh care servește comunitatea locală din Klang.",
-                  "category": "religious",
-                  "coords": [
-                        101.444596,
-                        3.041068
-                  ]
-            },
-            {
                   "name": "Jambatan Kota",
                   "text": "Un pod istoric cu etaj dublu care traversează râul Klang.",
                   "category": "landmark",
                   "coords": [
                         101.448772,
                         3.047533
-                  ]
-            },
-            {
-                  "name": "Jambatan Ketiga Klang",
-                  "text": "Un pod care traversează râul Klang, înființat inițial în 1917.",
-                  "category": "landmark",
-                  "coords": [
-                        101.427095,
-                        3.051518
                   ]
             },
             {
@@ -790,24 +646,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
                   "coords": [
                         101.446393,
                         3.047498
-                  ]
-            },
-            {
-                  "name": "Little India",
-                  "text": "O enclavă culturală vibrantă din Klang, cu magazine și restaurante tradiționale indiene.",
-                  "category": "landmark",
-                  "coords": [
-                        101.447003,
-                        3.040365
-                  ]
-            },
-            {
-                  "name": "Taman Pengkalan Hampar",
-                  "text": "Un parc de recreere care oferă spațiu în aer liber lângă Port Klang.",
-                  "category": "landmark",
-                  "coords": [
-                        101.447939,
-                        3.045992
                   ]
             },
             {
@@ -984,15 +822,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Sultan Abdul Aziz Royal Gallery",
-                  "text": "A royal gallery in Klang highlighting the history and heritage of the Selangor royal family.",
-                  "category": "museum",
-                  "coords": [
-                        101.449222,
-                        3.041272
-                  ]
-            },
-            {
                   "name": "Klang Royal City Council",
                   "text": "The administrative town hall building for the royal city of Klang.",
                   "category": "historical",
@@ -1002,39 +831,12 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Our Lady of Lourdes Church",
-                  "text": "A prominent Catholic church in Klang known for its distinct Gothic architecture.",
-                  "category": "religious",
-                  "coords": [
-                        101.444332,
-                        3.037442
-                  ]
-            },
-            {
-                  "name": "Gurdwara Sahib Klang",
-                  "text": "A prominent Sikh place of worship serving the local community in Klang.",
-                  "category": "religious",
-                  "coords": [
-                        101.444596,
-                        3.041068
-                  ]
-            },
-            {
                   "name": "Kota Bridge",
                   "text": "A historic double-deck bridge crossing the Klang River.",
                   "category": "landmark",
                   "coords": [
                         101.448772,
                         3.047533
-                  ]
-            },
-            {
-                  "name": "Klang Third Bridge",
-                  "text": "A bridge spanning the Klang River, originally established in 1917.",
-                  "category": "landmark",
-                  "coords": [
-                        101.427095,
-                        3.051518
                   ]
             },
             {
@@ -1116,24 +918,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
                   "coords": [
                         101.446393,
                         3.047498
-                  ]
-            },
-            {
-                  "name": "Little India",
-                  "text": "A vibrant cultural enclave in Klang featuring traditional Indian shops and eateries.",
-                  "category": "landmark",
-                  "coords": [
-                        101.447003,
-                        3.040365
-                  ]
-            },
-            {
-                  "name": "Taman Pengkalan Hampar",
-                  "text": "A recreational park area offering outdoor space near Port Klang.",
-                  "category": "landmark",
-                  "coords": [
-                        101.447939,
-                        3.045992
                   ]
             },
             {
@@ -5532,15 +5316,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sculpture",
-                  "text": "Diese Außenskulptur bietet ein Stück öffentlicher Kunst für Einwohner und Besucher, die das Stadtzentrum von Bintulu erkunden.",
-                  "category": "landmark",
-                  "coords": [
-                        113.040457,
-                        3.182156
-                  ]
-            },
-            {
                   "name": "Tumbina Bintulu",
                   "text": "Taman Tumbina in Bintulu ist ein kombinierter botanischer und zoologischer Garten auf einer hügeligen Landschaft nahe der Stadt.",
                   "category": "recreational",
@@ -5574,15 +5349,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
                   "coords": [
                         113.085722,
                         3.220908
-                  ]
-            },
-            {
-                  "name": "Pasar Malam Bintulu",
-                  "text": "Der Bintulu Night Market ist eine lebhafte Straßenattraktion, die unter Abendbeleuchtung lokales Streetfood und Waren anbietet.",
-                  "category": "landmark",
-                  "coords": [
-                        113.044303,
-                        3.171203
                   ]
             },
             {
@@ -5714,15 +5480,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sculpture",
-                  "text": "Ez a szabadtéri szobor egy köztéri műalkotás a Bintulu városközpontját felfedező lakosok és látogatók számára.",
-                  "category": "landmark",
-                  "coords": [
-                        113.040457,
-                        3.182156
-                  ]
-            },
-            {
                   "name": "Tumbina Bintulu",
                   "text": "A bintului Taman Tumbina egy kombinált botanikus és zoológiai kert, amely a város közelében, egy dombos vidéken fekszik.",
                   "category": "recreational",
@@ -5756,15 +5513,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
                   "coords": [
                         113.085722,
                         3.220908
-                  ]
-            },
-            {
-                  "name": "Pasar Malam Bintulu",
-                  "text": "A Bintulu éjszakai piac egy nyüzsgő utcai látványosság, amely esti fények alatt kínál helyi utcai ételeket és árukat.",
-                  "category": "landmark",
-                  "coords": [
-                        113.044303,
-                        3.171203
                   ]
             },
             {
@@ -5896,15 +5644,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sculpture",
-                  "text": "Această sculptură în aer liber oferă o operă de artă publică pentru rezidenții și vizitatorii care explorează centrul orașului Bintulu.",
-                  "category": "landmark",
-                  "coords": [
-                        113.040457,
-                        3.182156
-                  ]
-            },
-            {
                   "name": "Tumbina Bintulu",
                   "text": "Taman Tumbina din Bintulu este o grădină botanică și zoologică combinată, situată pe un peisaj deluros în apropierea orașului.",
                   "category": "recreational",
@@ -5938,15 +5677,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
                   "coords": [
                         113.085722,
                         3.220908
-                  ]
-            },
-            {
-                  "name": "Pasar Malam Bintulu",
-                  "text": "Piața de noapte din Bintulu este o atracție stradală plină de viață, care oferă mâncare stradală locală și bunuri sub luminile serii.",
-                  "category": "landmark",
-                  "coords": [
-                        113.044303,
-                        3.171203
                   ]
             },
             {
@@ -6078,15 +5808,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sculpture",
-                  "text": "This outdoor sculpture provides a piece of public art for residents and visitors exploring the Bintulu city centre.",
-                  "category": "landmark",
-                  "coords": [
-                        113.040457,
-                        3.182156
-                  ]
-            },
-            {
                   "name": "Tumbina Bintulu",
                   "text": "Taman Tumbina in Bintulu is a combined botanical and zoological garden situated on a hilly landscape near the town.",
                   "category": "recreational",
@@ -6120,15 +5841,6 @@ export const poiExtraMalaysiaEconomicV2: POI[] = [
                   "coords": [
                         113.085722,
                         3.220908
-                  ]
-            },
-            {
-                  "name": "Bintulu Night Market",
-                  "text": "The Bintulu Night Market is a bustling street attraction offering local street food and goods under evening lights.",
-                  "category": "landmark",
-                  "coords": [
-                        113.044303,
-                        3.171203
                   ]
             },
             {

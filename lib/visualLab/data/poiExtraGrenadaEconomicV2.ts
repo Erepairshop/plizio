@@ -393,15 +393,6 @@ export const grenadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pandy Beach",
-                  "text": "Der Pandy Beach befindet sich im Geschäftsviertel Grand Anse und präsentiert eine ruhige Ecke der weiten Küste Grenadas. Die Stimmung ist hier überwiegend friedlich und bietet eine wundervolle Alternative zu den belebteren Orten der Umgebung. Freuen Sie sich auf ruhiges Wasser und weichen Sand, die sich ideal für einen ungezwungenen Tag am Meer eignen. Wer am späten Vormittag anreist, hat ausreichend Zeit, um die Seele baumeln zu lassen.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.753229,
-                        12.041955
-                  ]
-            },
-            {
                   "name": "Mount Hartman Nature Reserve and Dove Sanctuary",
                   "text": "Das Mount Hartman Nature Reserve and Dove Sanctuary ist ein geschützter Wald auf dem Mount Hartman, Heimat der gefährdeten Grenada-Taube.",
                   "category": "natural",
@@ -471,15 +462,6 @@ export const grenadaEconomicV2: POI[] = [
                   "coords": [
                         -61.771846,
                         12.020502
-                  ]
-            },
-            {
-                  "name": "Tan Tan Beach",
-                  "text": "Tan Tan Beach bereichert das Geschäftsviertel Grand Anse in Grenada um seinen ganz eigenen, charmanten Charakter. Die Umgebung ist meist friedlich und bietet eine erholsame Küstenoase unweit des Zentrums. Spaziergänge an der Wasserkante und Sonnenbäder sind die bevorzugten Möglichkeiten, diesen Ort auszukosten. Mit einem guten Buch und ein paar lokalen Snacks wird der Aufenthalt zu einem perfekten Halbtagesausflug.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.755389,
-                        12.034759
                   ]
             },
             {
@@ -584,15 +566,6 @@ export const grenadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pandy Beach",
-                  "text": "A Grand Anse üzleti negyedben elhelyezkedő Pandy Beach Grenada hatalmas partjainak egy csendes szegletét tárja elénk. A légkör a derűs felé hajlik, így csodálatos alternatívát nyújt a környék forgalmasabb pontjaival szemben. Arra számíthat, hogy nyugodt vizeket és puha homokot élvezhet, amely éppen megfelelő egy kötetlen tengerparti naphoz. A késő délelőtti érkezés bőséges időt biztosít a teljes kikapcsolódásra.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.753229,
-                        12.041955
-                  ]
-            },
-            {
                   "name": "Mount Hartman Nature Reserve and Dove Sanctuary",
                   "text": "A Mount Hartman Természetvédelmi Terület és Galambrezervátum egy védett erdő a Mount Hartmanon, a veszélyeztetett grenadai galamb otthona.",
                   "category": "natural",
@@ -662,15 +635,6 @@ export const grenadaEconomicV2: POI[] = [
                   "coords": [
                         -61.771846,
                         12.020502
-                  ]
-            },
-            {
-                  "name": "Tan Tan Beach",
-                  "text": "A Tan Tan Beach saját, egyedi bájával gazdagítja a grenadai Grand Anse üzleti negyedet. A környezet általában békés, így egy pihentető tengerparti oázist biztosít nem messze a negyed központjától. A vízparti séta és a napozás a legkedveltebb módja e látványosság felfedezésének. Egy jó könyv és némi helyi harapnivaló magunkkal vétele tökéletes félnapos kikapcsolódássá varázsolja.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.755389,
-                        12.034759
                   ]
             },
             {
@@ -775,15 +739,6 @@ export const grenadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pandy Beach",
-                  "text": "Poziționată în districtul comercial Grand Anse, plaja Pandy Beach reprezintă un colț liniștit al țărmurilor întinse din Grenada. Atmosfera înclină spre liniște, oferind o alternativă minunată la locurile mai aglomerate din zonă. Așteptați-vă să vă bucurați de ape calme și de un nisip fin, care sunt tocmai potrivite pentru o zi lejeră pe malul mării. O sosire spre sfârșitul dimineții asigură suficient timp pentru o relaxare deplină.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.753229,
-                        12.041955
-                  ]
-            },
-            {
                   "name": "Mount Hartman Nature Reserve and Dove Sanctuary",
                   "text": "Rezervația Naturală Mount Hartman și Sanctuarul Porumbeilor este o pădure protejată pe Muntele Hartman, habitat al porumbelului endemic Grenada, specie pe cale de dispariție.",
                   "category": "natural",
@@ -853,15 +808,6 @@ export const grenadaEconomicV2: POI[] = [
                   "coords": [
                         -61.771846,
                         12.020502
-                  ]
-            },
-            {
-                  "name": "Tan Tan Beach",
-                  "text": "Tan Tan Beach adaugă propriul farmec unic districtului comercial Grand Anse din Grenada. Cadrul este în general liniștit, oferind o oază de coastă relaxantă, nu departe de centrul districtului. Plimbarea la marginea apei și plaja sunt modalitățile preferate de a îmbrățișa această priveliște. Aducerea unei cărți bune și a unor gustări locale o fac o evadare perfectă de jumătate de zi.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.755389,
-                        12.034759
                   ]
             },
             {
@@ -966,15 +912,6 @@ export const grenadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pandy Beach",
-                  "text": "Positioned within the Grand Anse Commercial District, Pandy Beach presents a quiet corner of Grenada's expansive shores. The atmosphere leans toward the serene, providing a wonderful alternative to the busier spots in the area. Expect to enjoy calm waters and soft sand that are just right for a casual day by the sea. A late morning arrival ensures plenty of time to fully unwind.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.753229,
-                        12.041955
-                  ]
-            },
-            {
                   "name": "Mount Hartman Nature Reserve and Dove Sanctuary",
                   "text": "Mount Hartman Nature Reserve and Dove Sanctuary is a protected forest on Mount Hartman, home to the critically endangered Grenada dove.",
                   "category": "natural",
@@ -1044,15 +981,6 @@ export const grenadaEconomicV2: POI[] = [
                   "coords": [
                         -61.771846,
                         12.020502
-                  ]
-            },
-            {
-                  "name": "Tan Tan Beach",
-                  "text": "Tan Tan Beach adds its own unique charm to the Grand Anse Commercial District of Grenada. The setting is generally peaceful, providing a relaxing coastal oasis not far from the district's center. Strolling along the water's edge and sunbathing are the favored ways to embrace this sight. Bringing a good book and some local snacks makes it a perfect half-day getaway.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.755389,
-                        12.034759
                   ]
             },
             {

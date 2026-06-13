@@ -5037,15 +5037,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "View-hill 360 degrees",
-                  "text": "Dieser Aussichtspunkt auf dem Hügel bietet ein unverbautes 360-Grad-Rundumpanorama auf die umliegenden Badlands und die Küste.",
-                  "category": "natural",
-                  "coords": [
-                        121.170059,
-                        22.762308
-                  ]
-            },
-            {
                   "name": "View",
                   "text": "Dieser malerische Aussichtspunkt bietet eine weitreichende Perspektive über die tief erodierten Kämme der Liji Badlands.",
                   "category": "natural",
@@ -5135,15 +5126,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
                   "coords": [
                         121.196334,
                         22.796766
-                  ]
-            },
-            {
-                  "name": "View-hill 360 degrees",
-                  "text": "Ez a dombtetőn lévő kilátó zavartalan, 360 fokos körkörös panorámát kínál a környező erodált vidékre és a partvonalra.",
-                  "category": "natural",
-                  "coords": [
-                        121.170059,
-                        22.762308
                   ]
             },
             {
@@ -5239,15 +5221,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "View-hill 360 degrees",
-                  "text": "Acest punct de belvedere de pe deal oferă o panoramă circulară neobstrucționată de 360 de grade a terenurilor erodate din jur și a coastei.",
-                  "category": "natural",
-                  "coords": [
-                        121.170059,
-                        22.762308
-                  ]
-            },
-            {
                   "name": "View",
                   "text": "Această vedere pitorească oferă o perspectivă largă asupra crestelor profund erodate ale Liji Badlands.",
                   "category": "natural",
@@ -5337,15 +5310,6 @@ export const poiExtraTaiwanReliefV2: POI[] = [
                   "coords": [
                         121.196334,
                         22.796766
-                  ]
-            },
-            {
-                  "name": "View-hill 360 degrees",
-                  "text": "This hilltop vantage point offers an unobstructed, 360-degree circular panorama of the surrounding badlands and coastline.",
-                  "category": "natural",
-                  "coords": [
-                        121.170059,
-                        22.762308
                   ]
             },
             {

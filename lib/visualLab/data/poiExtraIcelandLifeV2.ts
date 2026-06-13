@@ -4,230 +4,10 @@ export const icelandLifeV2: POI[] = [
 
   {
     id: "iceland-thingvellir-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Þingvellir: Hjarta lands og þjóðar",
-                  "text": "Eine Ausstellung über die geologische und historische Bedeutung des Þingvellir-Nationalparks.",
-                  "category": "museum",
-                  "coords": [
-                        -21.129832,
-                        64.256132
-                  ]
-            },
-            {
-                  "name": "Biskupshólar",
-                  "text": "Eine archäologische Fundstätte im Þingvellir-Nationalpark mit historischen Überresten.",
-                  "category": "historical",
-                  "coords": [
-                        -21.121481,
-                        64.257654
-                  ]
-            },
-            {
-                  "name": "Gálgaklettar",
-                  "text": "Historische Felsen, die in der Vergangenheit als Hinrichtungsstätte dienten.",
-                  "category": "historical",
-                  "coords": [
-                        -21.113106,
-                        64.268812
-                  ]
-            },
-            {
-                  "name": "Þórhallsstaðir",
-                  "text": "Überreste eines historischen Bauernhofs in der geschützten Landschaft des Nationalparks.",
-                  "category": "historical",
-                  "coords": [
-                        -21.060919,
-                        64.259273
-                  ]
-            },
-            {
-                  "name": "Bárukot",
-                  "text": "Eine Ausgrabungsstätte, die das Leben früherer Generationen im Park dokumentiert.",
-                  "category": "historical",
-                  "coords": [
-                        -21.122547,
-                        64.284127
-                  ]
-            },
-            {
-                  "name": "Amtmannsbúð eldri",
-                  "text": "Der Standort der ehemaligen Residenz des Gouverneurs in Þingvellir.",
-                  "category": "historical",
-                  "coords": [
-                        -21.123466,
-                        64.257614
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Þingvellir: Hjarta lands og þjóðar",
-                  "text": "Kiállítás, amely a Þingvellir Nemzeti Park földtani és történelmi jelentőségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -21.129832,
-                        64.256132
-                  ]
-            },
-            {
-                  "name": "Biskupshólar",
-                  "text": "Régészeti lelőhely történelmi maradványokkal a Þingvellir Nemzeti Parkban.",
-                  "category": "historical",
-                  "coords": [
-                        -21.121481,
-                        64.257654
-                  ]
-            },
-            {
-                  "name": "Gálgaklettar",
-                  "text": "Történelmi sziklák, amelyek a múltban kivégzőhelyként szolgáltak.",
-                  "category": "historical",
-                  "coords": [
-                        -21.113106,
-                        64.268812
-                  ]
-            },
-            {
-                  "name": "Þórhallsstaðir",
-                  "text": "Egy történelmi tanya maradványai a nemzeti park védett területén.",
-                  "category": "historical",
-                  "coords": [
-                        -21.060919,
-                        64.259273
-                  ]
-            },
-            {
-                  "name": "Bárukot",
-                  "text": "Régészeti helyszín, amely a park korábbi lakóinak életét dokumentálja.",
-                  "category": "historical",
-                  "coords": [
-                        -21.122547,
-                        64.284127
-                  ]
-            },
-            {
-                  "name": "Amtmannsbúð eldri",
-                  "text": "A kormányzó egykori rezidenciájának helyszíne Þingvellirben.",
-                  "category": "historical",
-                  "coords": [
-                        -21.123466,
-                        64.257614
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Þingvellir: Hjarta lands og þjóðar",
-                  "text": "O expoziție despre importanța geologică și istorică a Parcului Național Þingvellir.",
-                  "category": "museum",
-                  "coords": [
-                        -21.129832,
-                        64.256132
-                  ]
-            },
-            {
-                  "name": "Biskupshólar",
-                  "text": "Un sit arheologic cu vestigii istorice în Parcul Național Þingvellir.",
-                  "category": "historical",
-                  "coords": [
-                        -21.121481,
-                        64.257654
-                  ]
-            },
-            {
-                  "name": "Gálgaklettar",
-                  "text": "Stânci istorice care au servit drept loc de execuție în trecut.",
-                  "category": "historical",
-                  "coords": [
-                        -21.113106,
-                        64.268812
-                  ]
-            },
-            {
-                  "name": "Þórhallsstaðir",
-                  "text": "Vestigiile unei ferme istorice în peisajul protejat al parcului național.",
-                  "category": "historical",
-                  "coords": [
-                        -21.060919,
-                        64.259273
-                  ]
-            },
-            {
-                  "name": "Bárukot",
-                  "text": "Un sit arheologic ce documentează viața generațiilor trecute în parc.",
-                  "category": "historical",
-                  "coords": [
-                        -21.122547,
-                        64.284127
-                  ]
-            },
-            {
-                  "name": "Amtmannsbúð eldri",
-                  "text": "Locul fostei reședințe a guvernatorului în Þingvellir.",
-                  "category": "historical",
-                  "coords": [
-                        -21.123466,
-                        64.257614
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Þingvellir Exhibition: Heart of Iceland",
-                  "text": "An exhibition about the geological and historical importance of Þingvellir National Park.",
-                  "category": "museum",
-                  "coords": [
-                        -21.129832,
-                        64.256132
-                  ]
-            },
-            {
-                  "name": "Biskupshólar",
-                  "text": "An archaeological site with historical remains within Þingvellir National Park.",
-                  "category": "historical",
-                  "coords": [
-                        -21.121481,
-                        64.257654
-                  ]
-            },
-            {
-                  "name": "Gálgaklettar",
-                  "text": "Historical rocks that served as an execution site in the past.",
-                  "category": "historical",
-                  "coords": [
-                        -21.113106,
-                        64.268812
-                  ]
-            },
-            {
-                  "name": "Þórhallsstaðir",
-                  "text": "Remains of a historical farm in the protected landscape of the national park.",
-                  "category": "historical",
-                  "coords": [
-                        -21.060919,
-                        64.259273
-                  ]
-            },
-            {
-                  "name": "Bárukot",
-                  "text": "An archaeological site documenting the lives of former generations in the park.",
-                  "category": "historical",
-                  "coords": [
-                        -21.122547,
-                        64.284127
-                  ]
-            },
-            {
-                  "name": "Amtmannsbúð eldri",
-                  "text": "The site of the former governor's residence in Þingvellir.",
-                  "category": "historical",
-                  "coords": [
-                        -21.123466,
-                        64.257614
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "IS",
     type: "park",
@@ -277,42 +57,6 @@ imageHint: "Thingvellir National Park moss covered lava fields",
     id: "iceland-vatnajokull-life-v2", "sights": {
       "de": [
             {
-                  "name": "Sel",
-                  "text": "Ein traditionelles isländisches Torfhaus in Skaftafell, das das historische ländliche Leben zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -16.990736,
-                        64.023267
-                  ]
-            },
-            {
-                  "name": "Sjónarsker",
-                  "text": "Ein malerischer Aussichtspunkt in Skaftafell mit weitem Blick auf die Gletscher und Berge.",
-                  "category": "natural",
-                  "coords": [
-                        -16.98238,
-                        64.027787
-                  ]
-            },
-            {
-                  "name": "Sjónarnípa",
-                  "text": "Ein beliebtes Wanderziel mit Panoramablick auf den Skaftafellsjökull-Gletscher.",
-                  "category": "natural",
-                  "coords": [
-                        -16.936659,
-                        64.030475
-                  ]
-            },
-            {
-                  "name": "Svartifoss",
-                  "text": "Ein markanter Wasserfall im Vatnajökull-Nationalpark, berühmt für seine dunklen Basaltsäulen.",
-                  "category": "natural",
-                  "coords": [
-                        -16.975004,
-                        64.027366
-                  ]
-            },
-            {
                   "name": "Gigjukvisl Bridge Memorial",
                   "text": "Ein Denkmal aus verbogenen Brückenträgern von der Vulkanflut 1996 in Island.",
                   "category": "historical",
@@ -320,54 +64,9 @@ imageHint: "Thingvellir National Park moss covered lava fields",
                         -16.959558,
                         63.984553
                   ]
-            },
-            {
-                  "name": "Magnúsarfoss",
-                  "text": "Ein Wasserfall entlang des Wanderwegs zum Svartifoss im Vatnajökull-Nationalpark.",
-                  "category": "natural",
-                  "coords": [
-                        -16.979476,
-                        64.021235
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Sel",
-                  "text": "Hagyományos izlandi tőzegház Skaftafellben, amely a történelmi vidéki életet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -16.990736,
-                        64.023267
-                  ]
-            },
-            {
-                  "name": "Sjónarsker",
-                  "text": "Festői kilátópont Skaftafellben, ahonnan széles kilátás nyílik a gleccserekre és hegyekre.",
-                  "category": "natural",
-                  "coords": [
-                        -16.98238,
-                        64.027787
-                  ]
-            },
-            {
-                  "name": "Sjónarnípa",
-                  "text": "Népszerű túracélpont, ahonnan panorámás kilátás nyílik a Skaftafellsjökull-gleccserre.",
-                  "category": "natural",
-                  "coords": [
-                        -16.936659,
-                        64.030475
-                  ]
-            },
-            {
-                  "name": "Svartifoss",
-                  "text": "Különleges vízesés a Vatnajökull Nemzeti Parkban, amely sötét bazaltoszlopairól híres.",
-                  "category": "natural",
-                  "coords": [
-                        -16.975004,
-                        64.027366
-                  ]
-            },
             {
                   "name": "Gigjukvisl Bridge Memorial",
                   "text": "Az 1996-os izlandi vulkáni áradásból származó, megcsavarodott hídgerendákból álló emlékmű.",
@@ -376,54 +75,9 @@ imageHint: "Thingvellir National Park moss covered lava fields",
                         -16.959558,
                         63.984553
                   ]
-            },
-            {
-                  "name": "Magnúsarfoss",
-                  "text": "Vízesés a Svartifosshoz vezető túraútvonal mentén a Vatnajökull Nemzeti Parkban.",
-                  "category": "natural",
-                  "coords": [
-                        -16.979476,
-                        64.021235
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Sel",
-                  "text": "O casă tradițională islandeză din gazon în Skaftafell, care prezintă viața rurală istorică.",
-                  "category": "museum",
-                  "coords": [
-                        -16.990736,
-                        64.023267
-                  ]
-            },
-            {
-                  "name": "Sjónarsker",
-                  "text": "Un punct de observație pitoresc în Skaftafell, care oferă vederi largi asupra ghețarilor și munților.",
-                  "category": "natural",
-                  "coords": [
-                        -16.98238,
-                        64.027787
-                  ]
-            },
-            {
-                  "name": "Sjónarnípa",
-                  "text": "O destinație populară de drumeție care oferă vederi panoramice asupra ghețarului Skaftafellsjökull.",
-                  "category": "natural",
-                  "coords": [
-                        -16.936659,
-                        64.030475
-                  ]
-            },
-            {
-                  "name": "Svartifoss",
-                  "text": "O cascadă spectaculoasă în Parcul Național Vatnajökull, celebră pentru coloanele sale de bazalt negru.",
-                  "category": "natural",
-                  "coords": [
-                        -16.975004,
-                        64.027366
-                  ]
-            },
             {
                   "name": "Gigjukvisl Bridge Memorial",
                   "text": "Un monument realizat din grinzi de pod răsucite, provenite de la inundația vulcanică din 1996 din Islanda.",
@@ -432,54 +86,9 @@ imageHint: "Thingvellir National Park moss covered lava fields",
                         -16.959558,
                         63.984553
                   ]
-            },
-            {
-                  "name": "Magnúsarfoss",
-                  "text": "O cascadă de-a lungul traseului de drumeție către Svartifoss în Parcul Național Vatnajökull.",
-                  "category": "natural",
-                  "coords": [
-                        -16.979476,
-                        64.021235
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Sel",
-                  "text": "A traditional Icelandic turf house in Skaftafell showcasing historic rural life.",
-                  "category": "museum",
-                  "coords": [
-                        -16.990736,
-                        64.023267
-                  ]
-            },
-            {
-                  "name": "Sjónarsker",
-                  "text": "A scenic viewpoint in Skaftafell providing wide views of the glaciers and mountains.",
-                  "category": "natural",
-                  "coords": [
-                        -16.98238,
-                        64.027787
-                  ]
-            },
-            {
-                  "name": "Sjónarnípa",
-                  "text": "A popular hiking destination offering panoramic views of the Skaftafellsjökull glacier.",
-                  "category": "natural",
-                  "coords": [
-                        -16.936659,
-                        64.030475
-                  ]
-            },
-            {
-                  "name": "Svartifoss",
-                  "text": "A striking waterfall in Vatnajökull National Park famous for its dark basalt columns.",
-                  "category": "natural",
-                  "coords": [
-                        -16.975004,
-                        64.027366
-                  ]
-            },
             {
                   "name": "Gigjukvisl Bridge Memorial",
                   "text": "A memorial made of twisted bridge girders from the 1996 volcanic flood in Iceland.",
@@ -487,15 +96,6 @@ imageHint: "Thingvellir National Park moss covered lava fields",
                   "coords": [
                         -16.959558,
                         63.984553
-                  ]
-            },
-            {
-                  "name": "Magnúsarfoss",
-                  "text": "A waterfall along the hiking trail to Svartifoss in Vatnajökull National Park.",
-                  "category": "natural",
-                  "coords": [
-                        -16.979476,
-                        64.021235
                   ]
             }
       ]
@@ -601,42 +201,6 @@ imageHint: "Snaefellsjokull National Park coastline with birds",
                         -16.995002,
                         65.628822
                   ]
-            },
-            {
-                  "name": "Ytri Kleifarhóll",
-                  "text": "Ein Naturschutzgebiet und Aussichtspunkt im Bereich des Vogelschutzgebiets am See Mývatn.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.022504,
-                        65.571445
-                  ]
-            },
-            {
-                  "name": "Klasar",
-                  "text": "Einzigartige Felsformationen am Ufer des Mývatn-Sees.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.958481,
-                        65.578238
-                  ]
-            },
-            {
-                  "name": "Hamarshólar",
-                  "text": "Vulkanische Formationen und Hügel mit malerischer Aussicht in der Region Mývatn.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.0476,
-                        65.577708
-                  ]
-            },
-            {
-                  "name": "Skútustaðagígar",
-                  "text": "Eine Gruppe gut erhaltener Pseudokrater, die durch Dampfexplosionen am Mývatn-See entstanden sind.",
-                  "category": "historical",
-                  "coords": [
-                        -17.029008,
-                        65.571466
-                  ]
             }
       ],
       "hu": [
@@ -647,42 +211,6 @@ imageHint: "Snaefellsjokull National Park coastline with birds",
                   "coords": [
                         -16.995002,
                         65.628822
-                  ]
-            },
-            {
-                  "name": "Ytri Kleifarhóll",
-                  "text": "Természeti terület és kilátóhely a Mývatn-tó madárrezervátumának területén.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.022504,
-                        65.571445
-                  ]
-            },
-            {
-                  "name": "Klasar",
-                  "text": "Különleges sziklaalakzatok a Mývatn-tó partján.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.958481,
-                        65.578238
-                  ]
-            },
-            {
-                  "name": "Hamarshólar",
-                  "text": "Vulkáni képződmények és dombok, amelyek festői kilátást nyújtanak a Mývatn régióban.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.0476,
-                        65.577708
-                  ]
-            },
-            {
-                  "name": "Skútustaðagígar",
-                  "text": "Jól megőrzött álkráterek csoportja a Mývatn-tónál, amelyek gőzrobbanások révén jöttek létre.",
-                  "category": "historical",
-                  "coords": [
-                        -17.029008,
-                        65.571466
                   ]
             }
       ],
@@ -695,42 +223,6 @@ imageHint: "Snaefellsjokull National Park coastline with birds",
                         -16.995002,
                         65.628822
                   ]
-            },
-            {
-                  "name": "Ytri Kleifarhóll",
-                  "text": "Un sit natural și punct de observație în zona Rezervației de Păsări de la Lacul Mývatn.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.022504,
-                        65.571445
-                  ]
-            },
-            {
-                  "name": "Klasar",
-                  "text": "Formațiuni stâncoase unice situate pe malul lacului Mývatn.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.958481,
-                        65.578238
-                  ]
-            },
-            {
-                  "name": "Hamarshólar",
-                  "text": "Formațiuni vulcanice și dealuri care oferă vederi panoramice în regiunea Mývatn.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.0476,
-                        65.577708
-                  ]
-            },
-            {
-                  "name": "Skútustaðagígar",
-                  "text": "Un grup de pseudocratere bine conservate, formate prin explozii de abur pe lacul Mývatn.",
-                  "category": "historical",
-                  "coords": [
-                        -17.029008,
-                        65.571466
-                  ]
             }
       ],
       "en": [
@@ -741,42 +233,6 @@ imageHint: "Snaefellsjokull National Park coastline with birds",
                   "coords": [
                         -16.995002,
                         65.628822
-                  ]
-            },
-            {
-                  "name": "Ytri Kleifarhóll",
-                  "text": "A natural site and viewpoint within the Lake Mývatn Bird Reserve area.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.022504,
-                        65.571445
-                  ]
-            },
-            {
-                  "name": "Klasar",
-                  "text": "Unique rock formations located on the shores of Lake Mývatn.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.958481,
-                        65.578238
-                  ]
-            },
-            {
-                  "name": "Hamarshólar",
-                  "text": "Volcanic formations and hills offering scenic views in the Mývatn region.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.0476,
-                        65.577708
-                  ]
-            },
-            {
-                  "name": "Skútustaðagígar",
-                  "text": "A group of well-preserved pseudocraters formed by steam explosions on Lake Mývatn.",
-                  "category": "historical",
-                  "coords": [
-                        -17.029008,
-                        65.571466
                   ]
             }
       ]
@@ -1002,15 +458,6 @@ imageHint: "Arctic fox in Hornstrandir landscape",
     id: "iceland-grimsey-life-v2", "sights": {
       "de": [
             {
-                  "name": "Grímseyjarviti",
-                  "text": "Der nördlichste Leuchtturm Islands steht auf der Insel Grímsey, direkt am Polarkreis.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.981628,
-                        66.528195
-                  ]
-            },
-            {
                   "name": "Fotarklappir",
                   "text": "Ein Aussichtspunkt auf den Klippen von Grímsey, bekannt für den Blick auf das Meer und die dort brütenden Seevögel.",
                   "category": "natural",
@@ -1021,15 +468,6 @@ imageHint: "Arctic fox in Hornstrandir landscape",
             }
       ],
       "hu": [
-            {
-                  "name": "Grímseyjarviti",
-                  "text": "Izland legészakibb világítótornya a Grímsey-szigeten, közvetlenül az északi sarkkörön.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.981628,
-                        66.528195
-                  ]
-            },
             {
                   "name": "Fotarklappir",
                   "text": "Kilátópont Grímsey szikláin, ahonnan remek rálátás nyílik az óceánra és a madárvilágra.",
@@ -1042,15 +480,6 @@ imageHint: "Arctic fox in Hornstrandir landscape",
       ],
       "ro": [
             {
-                  "name": "Grímseyjarviti",
-                  "text": "Cel mai nordic far din Islanda, situat pe insula Grímsey, chiar pe Cercul Polar.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.981628,
-                        66.528195
-                  ]
-            },
-            {
                   "name": "Fotarklappir",
                   "text": "Un punct de belvedere pe stâncile din Grímsey, renumit pentru vederea spre ocean și păsările marine.",
                   "category": "natural",
@@ -1061,15 +490,6 @@ imageHint: "Arctic fox in Hornstrandir landscape",
             }
       ],
       "en": [
-            {
-                  "name": "Grímseyjarviti",
-                  "text": "Iceland's northernmost lighthouse, located on Grímsey Island directly on the Arctic Circle.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.981628,
-                        66.528195
-                  ]
-            },
             {
                   "name": "Fotarklappir",
                   "text": "A viewpoint on the cliffs of Grímsey, known for its ocean views and nesting seabirds.",

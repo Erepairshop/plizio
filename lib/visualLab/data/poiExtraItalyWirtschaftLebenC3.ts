@@ -22,15 +22,6 @@ export const poiExtraItalyWirtschaftLebenC3: POI[] = [
                         12.42358,
                         45.00002
                   ]
-            },
-            {
-                  "name": "chiesa della Beata Vergine del Rosario",
-                  "text": "Kirche der seligen Jungfrau vom Rosenkranz am Po-Fluss.",
-                  "category": "religious",
-                  "coords": [
-                        12.413398,
-                        44.954878
-                  ]
             }
       ],
       "hu": [
@@ -50,15 +41,6 @@ export const poiExtraItalyWirtschaftLebenC3: POI[] = [
                   "coords": [
                         12.42358,
                         45.00002
-                  ]
-            },
-            {
-                  "name": "chiesa della Beata Vergine del Rosario",
-                  "text": "A Rózsafüzér Királynője temploma a Pó folyónál.",
-                  "category": "religious",
-                  "coords": [
-                        12.413398,
-                        44.954878
                   ]
             }
       ],
@@ -80,15 +62,6 @@ export const poiExtraItalyWirtschaftLebenC3: POI[] = [
                         12.42358,
                         45.00002
                   ]
-            },
-            {
-                  "name": "chiesa della Beata Vergine del Rosario",
-                  "text": "Biserica Sfintei Fecioare a Rozariului pe râul Po.",
-                  "category": "religious",
-                  "coords": [
-                        12.413398,
-                        44.954878
-                  ]
             }
       ],
       "en": [
@@ -108,15 +81,6 @@ export const poiExtraItalyWirtschaftLebenC3: POI[] = [
                   "coords": [
                         12.42358,
                         45.00002
-                  ]
-            },
-            {
-                  "name": "chiesa della Beata Vergine del Rosario",
-                  "text": "Church of the Blessed Virgin of the Rosary on the Po River.",
-                  "category": "religious",
-                  "coords": [
-                        12.413398,
-                        44.954878
                   ]
             }
       ]

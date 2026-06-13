@@ -6,24 +6,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
     id: "wat-phu-history-v2", "sights": {
       "de": [
             {
-                  "name": "Boupha Garden Café",
-                  "text": "Ein entspannendes Gartencafé, das Besuchern der Region Wat Phu einen malerischen Ort bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        105.879733,
-                        14.897141
-                  ]
-            },
-            {
-                  "name": "Théâtre d'Ombres de Champasak",
-                  "text": "Ein traditionelles Theater in Champasak, das sich der Erhaltung der Kunst des Schattenspiels widmet.",
-                  "category": "cultural",
-                  "coords": [
-                        105.881961,
-                        14.90008
-                  ]
-            },
-            {
                   "name": "ບ້ານ ວັດອາມາດ ເມືອງຈໍາປາສັກ",
                   "text": "Eine historische befestigte Stätte oder burgähnliche Struktur in der Stadt Champasak.",
                   "category": "castle",
@@ -48,15 +30,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
                   "coords": [
                         105.827305,
                         14.846469
-                  ]
-            },
-            {
-                  "name": "Unfinished Royal Palace",
-                  "text": "Die faszinierenden Überreste einer unvollendeten königlichen Palaststruktur in Champasak.",
-                  "category": "landmark",
-                  "coords": [
-                        105.87898,
-                        14.89934
                   ]
             },
             {
@@ -89,24 +62,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Boupha Garden Café",
-                  "text": "Egy pihentető kerthelyiséggel rendelkező kávézó, amely festői helyet kínál a Wat Phu területét felfedező látogatóknak.",
-                  "category": "landmark",
-                  "coords": [
-                        105.879733,
-                        14.897141
-                  ]
-            },
-            {
-                  "name": "Théâtre d'Ombres de Champasak",
-                  "text": "Hagyományos színház Champasakban, amely az árnyjáték művészetének megőrzésének szenteli magát.",
-                  "category": "cultural",
-                  "coords": [
-                        105.881961,
-                        14.90008
-                  ]
-            },
-            {
                   "name": "ບ້ານ ວັດອາມາດ ເມືອງຈໍາປາສັກ",
                   "text": "Történelmi erődített hely vagy kastélyszerű építmény Champasak városában.",
                   "category": "castle",
@@ -131,15 +86,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
                   "coords": [
                         105.827305,
                         14.846469
-                  ]
-            },
-            {
-                  "name": "Unfinished Royal Palace",
-                  "text": "Egy befejezetlen királyi palota építményének érdekes maradványai Champasakban.",
-                  "category": "landmark",
-                  "coords": [
-                        105.87898,
-                        14.89934
                   ]
             },
             {
@@ -172,24 +118,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Boupha Garden Café",
-                  "text": "O cafenea cu grădină relaxantă, care oferă un loc pitoresc pentru vizitatorii care explorează zona Wat Phu.",
-                  "category": "landmark",
-                  "coords": [
-                        105.879733,
-                        14.897141
-                  ]
-            },
-            {
-                  "name": "Théâtre d'Ombres de Champasak",
-                  "text": "Un teatru tradițional dedicat conservării artei teatrului de umbre în Champasak.",
-                  "category": "cultural",
-                  "coords": [
-                        105.881961,
-                        14.90008
-                  ]
-            },
-            {
                   "name": "ບ້ານ ວັດອາມາດ ເມືອງຈໍາປາສັກ",
                   "text": "Un sit fortificat istoric sau o structură asemănătoare unui castel situată în orașul Champasak.",
                   "category": "castle",
@@ -214,15 +142,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
                   "coords": [
                         105.827305,
                         14.846469
-                  ]
-            },
-            {
-                  "name": "Unfinished Royal Palace",
-                  "text": "Rămășițele fascinante ale unei structuri de palat regal neterminate, situate în Champasak.",
-                  "category": "landmark",
-                  "coords": [
-                        105.87898,
-                        14.89934
                   ]
             },
             {
@@ -255,24 +174,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Boupha Garden Café",
-                  "text": "A relaxing garden café offering a scenic spot for visitors exploring the Wat Phu area.",
-                  "category": "landmark",
-                  "coords": [
-                        105.879733,
-                        14.897141
-                  ]
-            },
-            {
-                  "name": "Théâtre d'Ombres de Champasak",
-                  "text": "A traditional theatre dedicated to preserving the art of shadow puppetry in Champasak.",
-                  "category": "cultural",
-                  "coords": [
-                        105.881961,
-                        14.90008
-                  ]
-            },
-            {
                   "name": "ບ້ານ ວັດອາມາດ ເມືອງຈໍາປາສັກ",
                   "text": "A historic fortified site or castle-like structure located in the town of Champasak.",
                   "category": "castle",
@@ -297,15 +198,6 @@ export const poiExtraLaosHistoryV2: POI[] = [
                   "coords": [
                         105.827305,
                         14.846469
-                  ]
-            },
-            {
-                  "name": "Unfinished Royal Palace",
-                  "text": "The intriguing remains of an uncompleted royal palace structure located in Champasak.",
-                  "category": "landmark",
-                  "coords": [
-                        105.87898,
-                        14.89934
                   ]
             },
             {

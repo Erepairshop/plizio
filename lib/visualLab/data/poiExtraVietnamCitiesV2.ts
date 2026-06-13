@@ -6,39 +6,12 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "ho-chi-minh-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Bảo Tàng FITO",
-                  "text": "Ein Museum in Ho-Chi-Minh-Stadt, das der traditionellen vietnamesischen Medizin gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        106.671968,
-                        10.776283
-                  ]
-            },
-            {
-                  "name": "Nhà hát Hòa Bình",
-                  "text": "Das Hoa Binh Theater ist eines der größten und bekanntesten Theater in Ho-Chi-Minh-Stadt.",
-                  "category": "cultural",
-                  "coords": [
-                        106.673828,
-                        10.772324
-                  ]
-            },
-            {
                   "name": "Công viên nước Đại Thế Giới",
                   "text": "Ein großer Wasserpark in Ho-Chi-Minh-Stadt mit zahlreichen Attraktionen für alle Altersgruppen.",
                   "category": "family",
                   "coords": [
                         106.668778,
                         10.751467
-                  ]
-            },
-            {
-                  "name": "Rạp Xiếc và Biểu diễn đa năng Phú Thọ",
-                  "text": "Ein Zentrum für Zirkuskunst und vielseitige Aufführungen in Ho-Chi-Minh-Stadt.",
-                  "category": "cultural",
-                  "coords": [
-                        106.654987,
-                        10.770172
                   ]
             },
             {
@@ -78,15 +51,6 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tượng đài Công Nông Binh",
-                  "text": "Ein Denkmal in Ho-Chi-Minh-Stadt, das die Einheit von Arbeitern, Bauern und Soldaten symbolisiert.",
-                  "category": "historical",
-                  "coords": [
-                        106.674395,
-                        10.767687
-                  ]
-            },
-            {
                   "name": "គុយទាវ Hong Phat",
                   "text": "Ein bekanntes kulinarisches Ziel in Ho-Chi-Minh-Stadt, berühmt für seine Nudelsuppe.",
                   "category": "landmark",
@@ -120,15 +84,6 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   "coords": [
                         106.667369,
                         10.757041
-                  ]
-            },
-            {
-                  "name": "Nhà đèn Chợ Quán",
-                  "text": "Die Überreste des historischen Elektrizitätswerks Cho Quan in Ho-Chi-Minh-Stadt.",
-                  "category": "historical",
-                  "coords": [
-                        106.685909,
-                        10.753281
                   ]
             },
             {
@@ -179,39 +134,12 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Bảo Tàng FITO",
-                  "text": "Múzeum Ho Si Minh-városban, amelyet a hagyományos vietnámi orvoslásnak szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        106.671968,
-                        10.776283
-                  ]
-            },
-            {
-                  "name": "Nhà hát Hòa Bình",
-                  "text": "A Hoa Binh Színház Ho Si Minh-város egyik legnagyobb és legismertebb színháza.",
-                  "category": "cultural",
-                  "coords": [
-                        106.673828,
-                        10.772324
-                  ]
-            },
-            {
                   "name": "Công viên nước Đại Thế Giới",
                   "text": "Nagy vízipark Ho Si Minh-városban, számos látnivalóval minden korosztály számára.",
                   "category": "family",
                   "coords": [
                         106.668778,
                         10.751467
-                  ]
-            },
-            {
-                  "name": "Rạp Xiếc và Biểu diễn đa năng Phú Thọ",
-                  "text": "Cirkuszművészeti és sokoldalú előadások központja Ho Si Minh-városban.",
-                  "category": "cultural",
-                  "coords": [
-                        106.654987,
-                        10.770172
                   ]
             },
             {
@@ -251,15 +179,6 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tượng đài Công Nông Binh",
-                  "text": "Emlékmű Ho Si Minh-városban, amely a munkások, parasztok és katonák egységét jelképezi.",
-                  "category": "historical",
-                  "coords": [
-                        106.674395,
-                        10.767687
-                  ]
-            },
-            {
                   "name": "គុយទាវ Hong Phat",
                   "text": "Ismert gasztronómiai célpont Ho Si Minh-városban, amely tésztaleveséről híres.",
                   "category": "landmark",
@@ -293,15 +212,6 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   "coords": [
                         106.667369,
                         10.757041
-                  ]
-            },
-            {
-                  "name": "Nhà đèn Chợ Quán",
-                  "text": "A történelmi Cho Quan villamosmű maradványai Ho Si Minh-városban.",
-                  "category": "historical",
-                  "coords": [
-                        106.685909,
-                        10.753281
                   ]
             },
             {
@@ -352,39 +262,12 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Bảo Tàng FITO",
-                  "text": "Un muzeu din Ho Chi Minh City dedicat medicinei tradiționale vietnameze.",
-                  "category": "museum",
-                  "coords": [
-                        106.671968,
-                        10.776283
-                  ]
-            },
-            {
-                  "name": "Nhà hát Hòa Bình",
-                  "text": "Teatrul Hoa Binh este unul dintre cele mai mari și mai cunoscute teatre din Ho Chi Minh City.",
-                  "category": "cultural",
-                  "coords": [
-                        106.673828,
-                        10.772324
-                  ]
-            },
-            {
                   "name": "Công viên nước Đại Thế Giới",
                   "text": "Un parc acvatic mare în Ho Chi Minh City, cu numeroase atracții pentru toate vârstele.",
                   "category": "family",
                   "coords": [
                         106.668778,
                         10.751467
-                  ]
-            },
-            {
-                  "name": "Rạp Xiếc và Biểu diễn đa năng Phú Thọ",
-                  "text": "Un centru pentru arta circului și spectacole versatile în Ho Chi Minh City.",
-                  "category": "cultural",
-                  "coords": [
-                        106.654987,
-                        10.770172
                   ]
             },
             {
@@ -424,15 +307,6 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tượng đài Công Nông Binh",
-                  "text": "Un monument în Ho Chi Minh City care simbolizează unitatea muncitorilor, țăranilor și soldaților.",
-                  "category": "historical",
-                  "coords": [
-                        106.674395,
-                        10.767687
-                  ]
-            },
-            {
                   "name": "គុយទាវ Hong Phat",
                   "text": "O destinație culinară cunoscută în Ho Chi Minh City, celebră pentru supa sa de tăieței.",
                   "category": "landmark",
@@ -466,15 +340,6 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   "coords": [
                         106.667369,
                         10.757041
-                  ]
-            },
-            {
-                  "name": "Nhà đèn Chợ Quán",
-                  "text": "Vestigiile istoricei centrale electrice Cho Quan din Ho Chi Minh City.",
-                  "category": "historical",
-                  "coords": [
-                        106.685909,
-                        10.753281
                   ]
             },
             {
@@ -525,39 +390,12 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "FITO Museum of traditional Vietnamese medicine",
-                  "text": "A museum in Ho Chi Minh City dedicated to traditional Vietnamese medicine.",
-                  "category": "museum",
-                  "coords": [
-                        106.671968,
-                        10.776283
-                  ]
-            },
-            {
-                  "name": "Nhà hát Hòa Bình",
-                  "text": "Hoa Binh Theatre is one of the largest and best-known theatres in Ho Chi Minh City.",
-                  "category": "cultural",
-                  "coords": [
-                        106.673828,
-                        10.772324
-                  ]
-            },
-            {
                   "name": "Công viên nước Đại Thế Giới",
                   "text": "A large water park in Ho Chi Minh City with numerous attractions for all ages.",
                   "category": "family",
                   "coords": [
                         106.668778,
                         10.751467
-                  ]
-            },
-            {
-                  "name": "Rạp Xiếc và Biểu diễn đa năng Phú Thọ",
-                  "text": "A centre for circus arts and versatile performances in Ho Chi Minh City.",
-                  "category": "cultural",
-                  "coords": [
-                        106.654987,
-                        10.770172
                   ]
             },
             {
@@ -597,15 +435,6 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tượng đài Công Nông Binh",
-                  "text": "A monument in Ho Chi Minh City symbolizing the unity of workers, peasants, and soldiers.",
-                  "category": "historical",
-                  "coords": [
-                        106.674395,
-                        10.767687
-                  ]
-            },
-            {
                   "name": "គុយទាវ Hong Phat",
                   "text": "A well-known culinary destination in Ho Chi Minh City, famous for its noodle soup.",
                   "category": "landmark",
@@ -639,15 +468,6 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   "coords": [
                         106.667369,
                         10.757041
-                  ]
-            },
-            {
-                  "name": "Nhà đèn Chợ Quán",
-                  "text": "The remains of the historical Cho Quan power station in Ho Chi Minh City.",
-                  "category": "historical",
-                  "coords": [
-                        106.685909,
-                        10.753281
                   ]
             },
             {
@@ -747,15 +567,6 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     id: "bac-ninh-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Bảo tàng Bắc Ninh",
-                  "text": "Das Bac Ninh Museum ist eine Einrichtung, die sich der Erhaltung und Ausstellung der lokalen Geschichte von Bắc Ninh widmet.",
-                  "category": "museum",
-                  "coords": [
-                        106.074738,
-                        21.184123
-                  ]
-            },
-            {
                   "name": "Tượng đài Lý Thái Tổ",
                   "text": "Statue von Kaiser Lý Thái Tổ in Ninh Bình, die an den Gründer der Lý-Dynastie erinnert.",
                   "category": "historical",
@@ -820,15 +631,6 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Bảo tàng Bắc Ninh",
-                  "text": "A Bac Ninh Múzeum Bắc Ninh helytörténetének megőrzésével és bemutatásával foglalkozó intézmény.",
-                  "category": "museum",
-                  "coords": [
-                        106.074738,
-                        21.184123
-                  ]
-            },
             {
                   "name": "Tượng đài Lý Thái Tổ",
                   "text": "Lý Thái Tổ császár szobra Ninh Bìnhben, a Lý-dinasztia alapítójának emlékére.",
@@ -895,15 +697,6 @@ export const poiExtraVietnamCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Bảo tàng Bắc Ninh",
-                  "text": "Muzeul Bac Ninh este o instituție dedicată conservării și expunerii istoriei locale din Bắc Ninh.",
-                  "category": "museum",
-                  "coords": [
-                        106.074738,
-                        21.184123
-                  ]
-            },
-            {
                   "name": "Tượng đài Lý Thái Tổ",
                   "text": "Statuia împăratului Lý Thái Tổ din Ninh Bình, comemorând fondatorul dinastiei Lý.",
                   "category": "historical",
@@ -968,15 +761,6 @@ export const poiExtraVietnamCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Bac Ninh Museum",
-                  "text": "The Bac Ninh Museum is an institution dedicated to preserving and exhibiting the local history of Bắc Ninh.",
-                  "category": "museum",
-                  "coords": [
-                        106.074738,
-                        21.184123
-                  ]
-            },
             {
                   "name": "Tượng đài Lý Thái Tổ",
                   "text": "Statue of Emperor Lý Thái Tổ in Ninh Bình, commemorating the founder of the Lý dynasty.",
@@ -1954,15 +1738,6 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                         107.968596,
                         21.5373
                   ]
-            },
-            {
-                  "name": "Đền Xã Tắc",
-                  "text": "Der Xa Tac Tempel in Cai ist ein buddhistischer Tempel mit einer großen Buddha-Statue.",
-                  "category": "landmark",
-                  "coords": [
-                        107.965281,
-                        21.533804
-                  ]
             }
       ],
       "hu": [
@@ -1982,15 +1757,6 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   "coords": [
                         107.968596,
                         21.5373
-                  ]
-            },
-            {
-                  "name": "Đền Xã Tắc",
-                  "text": "A Xa Tac-templom Caiban egy buddhista templom egy hatalmas Buddha-szoborral.",
-                  "category": "landmark",
-                  "coords": [
-                        107.965281,
-                        21.533804
                   ]
             }
       ],
@@ -2012,15 +1778,6 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                         107.968596,
                         21.5373
                   ]
-            },
-            {
-                  "name": "Đền Xã Tắc",
-                  "text": "Templul Xa Tac din Cai este un templu budist cu o statuie mare a lui Buddha.",
-                  "category": "landmark",
-                  "coords": [
-                        107.965281,
-                        21.533804
-                  ]
             }
       ],
       "en": [
@@ -2031,24 +1788,6 @@ export const poiExtraVietnamCitiesV2: POI[] = [
                   "coords": [
                         107.974285,
                         21.522459
-                  ]
-            },
-            {
-                  "name": "Beilun Bridge",
-                  "text": "A bridge and attraction in the border city of Móng Cái.",
-                  "category": "landmark",
-                  "coords": [
-                        107.968596,
-                        21.5373
-                  ]
-            },
-            {
-                  "name": "Xa Tac Temple",
-                  "text": "Xa Tac Temple in Cai, a Buddhist temple with a large statue of Buddha.",
-                  "category": "landmark",
-                  "coords": [
-                        107.965281,
-                        21.533804
                   ]
             }
       ]

@@ -16775,24 +16775,6 @@ en: [
 id: "kuta-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Bali Shell Museum",
-                  "text": "Das Bali Museum in Kuta zeigt kulturelle Exponate der indonesischen Insel.",
-                  "category": "museum",
-                  "coords": [
-                        115.186715,
-                        -8.714265
-                  ]
-            },
-            {
-                  "name": "Becak museum",
-                  "text": "Das Becak Museum in Kuta widmet sich der Geschichte traditioneller Fahrradtaxis.",
-                  "category": "museum",
-                  "coords": [
-                        115.183883,
-                        -8.709344
-                  ]
-            },
-            {
                   "name": "Ekowisata mangrove",
                   "text": "Ein Mangroven-Ökotourismusgebiet in Kuta mit Holzstegen und Naturpfaden.",
                   "category": "family",
@@ -16865,24 +16847,6 @@ id: "kuta-cities-v2", "sights": {
                   ]
             },
             {
-                  "name": "Bali Bombing-Denkmal",
-                  "text": "Das Bali Bombing Memorial in Kuta erinnert an die Opfer der Anschläge von 2002.",
-                  "category": "historical",
-                  "coords": [
-                        115.174489,
-                        -8.717319
-                  ]
-            },
-            {
-                  "name": "Tari Barong & Keris",
-                  "text": "Das Tari Barong & Keris Zentrum in Kuta bietet traditionelle balinesische Tanzvorführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        115.192435,
-                        -8.718624
-                  ]
-            },
-            {
                   "name": "Teluk Benoa",
                   "text": "Eine geschützte Bucht im Süden Balis nahe Kuta, bekannt für Wassersport.",
                   "category": "landmark",
@@ -16901,51 +16865,6 @@ id: "kuta-cities-v2", "sights": {
                   ]
             },
             {
-                  "name": "Satrya Gatotkaca",
-                  "text": "Eine Statue des mythischen Helden Gatotkaca in Kuta.",
-                  "category": "historical",
-                  "coords": [
-                        115.178838,
-                        -8.744376
-                  ]
-            },
-            {
-                  "name": "Waterbom",
-                  "text": "Waterbom in Kuta ist eine bekannte Attraktion für Wassersportfreunde.",
-                  "category": "landmark",
-                  "coords": [
-                        115.169628,
-                        -8.728473
-                  ]
-            },
-            {
-                  "name": "Taman Bakau",
-                  "text": "Ein Mangrovenpark in Kuta mit Wanderwegen und Vogelbeobachtung.",
-                  "category": "landmark",
-                  "coords": [
-                        115.19316,
-                        -8.726112
-                  ]
-            },
-            {
-                  "name": "Fun Surf School",
-                  "text": "Die Fun Surf School in Kuta bietet Kurse für Wellenreiter an.",
-                  "category": "landmark",
-                  "coords": [
-                        115.166707,
-                        -8.709576
-                  ]
-            },
-            {
-                  "name": "Pandora Escape Room",
-                  "text": "Ein Escape-Room-Angebot in Kuta mit thematischen Rätselräumen.",
-                  "category": "landmark",
-                  "coords": [
-                        115.178084,
-                        -8.706966
-                  ]
-            },
-            {
                   "name": "Bali Ocean Surf",
                   "text": "Eine Surfschule und Ausrüstungsverleih in Kuta.",
                   "category": "landmark",
@@ -16955,57 +16874,12 @@ id: "kuta-cities-v2", "sights": {
                   ]
             },
             {
-                  "name": "Wave coworking",
-                  "text": "Ein Coworking-Space in Kuta für digitale Nomaden.",
-                  "category": "landmark",
-                  "coords": [
-                        115.179922,
-                        -8.710941
-                  ]
-            },
-            {
                   "name": "surf rental",
                   "text": "Verschiedene Surfverleih-Angebote finden sich direkt in Kuta.",
                   "category": "landmark",
                   "coords": [
                         115.168148,
                         -8.715503
-                  ]
-            },
-            {
-                  "name": "Monumen Jagarana",
-                  "text": "Das Monumen Jagarana in Kuta erinnert an historische Ereignisse.",
-                  "category": "historical",
-                  "coords": [
-                        115.178756,
-                        -8.724908
-                  ]
-            },
-            {
-                  "name": "Flowhouse Bali (Indoor Surfing)",
-                  "text": "Ein Indoor-Surf-Simulator in Kuta zum Wellenüben.",
-                  "category": "landmark",
-                  "coords": [
-                        115.177034,
-                        -8.70495
-                  ]
-            },
-            {
-                  "name": "Clearice",
-                  "text": "Ein bekannter Nachtclub in Kuta mit einer Eisbar.",
-                  "category": "landmark",
-                  "coords": [
-                        115.186615,
-                        -8.716826
-                  ]
-            },
-            {
-                  "name": "Kuta Jin Legian",
-                  "text": "Die belebte Legian-Straße in Kuta, gesäumt von Geschäften und Restaurants.",
-                  "category": "landmark",
-                  "coords": [
-                        115.174256,
-                        -8.716277
                   ]
             },
             {
@@ -17045,24 +16919,6 @@ id: "kuta-cities-v2", "sights": {
                   ]
             },
             {
-                  "name": "Galeri Zen1",
-                  "text": "Eine zeitgenössische Kunstgalerie in Kuta mit Werken lokaler Künstler.",
-                  "category": "museum",
-                  "coords": [
-                        115.180356,
-                        -8.738523
-                  ]
-            },
-            {
-                  "name": "Triratna Amreta Bhuwana",
-                  "text": "Ein buddhistischer Tempel in Kuta mit Meditation und spirituellen Aktivitäten.",
-                  "category": "historical",
-                  "coords": [
-                        115.160366,
-                        -8.737447
-                  ]
-            },
-            {
                   "name": "Darta gallery",
                   "text": "Eine Kunstgalerie in Kuta mit traditioneller und moderner balinesischer Kunst.",
                   "category": "landmark",
@@ -17079,36 +16935,9 @@ id: "kuta-cities-v2", "sights": {
                         115.178252,
                         -8.725847
                   ]
-            },
-            {
-                  "name": "Dharmayana Temple",
-                  "text": "Balinesischer Hindu-Tempel im Zentrum von Kuta.",
-                  "category": "religious",
-                  "coords": [
-                        115.177828,
-                        -8.723949
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Bali Shell Museum",
-                  "text": "A kutai Bali Múzeum a sziget kulturális kiállítási tárgyait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        115.186715,
-                        -8.714265
-                  ]
-            },
-            {
-                  "name": "Becak museum",
-                  "text": "A kutai Becak Múzeum a hagyományos kerékpáros taxik történetével foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        115.183883,
-                        -8.709344
-                  ]
-            },
             {
                   "name": "Ekowisata mangrove",
                   "text": "Egy mangrove ökoturisztikai terület Kutában, deszkajárdákkal és természeti ösvényekkel.",
@@ -17182,24 +17011,6 @@ id: "kuta-cities-v2", "sights": {
                   ]
             },
             {
-                  "name": "Tugu Peringatan Bom Bali",
-                  "text": "A kutai Bali Bombing Memorial a 2002-es támadások áldozatainak állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        115.174489,
-                        -8.717319
-                  ]
-            },
-            {
-                  "name": "Tari Barong & Keris",
-                  "text": "A kutai Tari Barong & Keris központ hagyományos balinéz táncelőadásokat kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        115.192435,
-                        -8.718624
-                  ]
-            },
-            {
                   "name": "Teluk Benoa",
                   "text": "Egy védett öböl a dél-balit Kuta közelében, vízi sportokról híres.",
                   "category": "landmark",
@@ -17218,51 +17029,6 @@ id: "kuta-cities-v2", "sights": {
                   ]
             },
             {
-                  "name": "Satrya Gatotkaca",
-                  "text": "A mitikus hős Gatotkaca szobra Kutában.",
-                  "category": "historical",
-                  "coords": [
-                        115.178838,
-                        -8.744376
-                  ]
-            },
-            {
-                  "name": "Waterbom",
-                  "text": "A kutai Waterbom egy ismert látnivaló a vízi sportok szerelmeseinek.",
-                  "category": "landmark",
-                  "coords": [
-                        115.169628,
-                        -8.728473
-                  ]
-            },
-            {
-                  "name": "Taman Bakau",
-                  "text": "Egy mangrove park Kutában sétányokkal és madármegfigyeléssel.",
-                  "category": "landmark",
-                  "coords": [
-                        115.19316,
-                        -8.726112
-                  ]
-            },
-            {
-                  "name": "Fun Surf School",
-                  "text": "A kutai Fun Surf School szörftanfolyamokat kínál.",
-                  "category": "landmark",
-                  "coords": [
-                        115.166707,
-                        -8.709576
-                  ]
-            },
-            {
-                  "name": "Pandora Escape Room",
-                  "text": "Egy szabadulószoba létesítmény Kutában tematikus rejtvényszobákkal.",
-                  "category": "landmark",
-                  "coords": [
-                        115.178084,
-                        -8.706966
-                  ]
-            },
-            {
                   "name": "Bali Ocean Surf",
                   "text": "Egy szörfiskola és felszerelés-kölcsönző Kutában.",
                   "category": "landmark",
@@ -17272,57 +17038,12 @@ id: "kuta-cities-v2", "sights": {
                   ]
             },
             {
-                  "name": "Wave coworking",
-                  "text": "Egy coworking hely Kutában digitális nomádok számára.",
-                  "category": "landmark",
-                  "coords": [
-                        115.179922,
-                        -8.710941
-                  ]
-            },
-            {
                   "name": "surf rental",
                   "text": "Kutában számos szörfdeszka-kölcsönző található.",
                   "category": "landmark",
                   "coords": [
                         115.168148,
                         -8.715503
-                  ]
-            },
-            {
-                  "name": "Monumen Jagarana",
-                  "text": "A kutai Monumen Jagarana történelmi eseményeknek állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        115.178756,
-                        -8.724908
-                  ]
-            },
-            {
-                  "name": "Flowhouse Bali (Indoor Surfing)",
-                  "text": "Egy beltéri szörfszimulátor Kutában a hullámok gyakorlásához.",
-                  "category": "landmark",
-                  "coords": [
-                        115.177034,
-                        -8.70495
-                  ]
-            },
-            {
-                  "name": "Clearice",
-                  "text": "Egy népszerű éjszakai klub Kutában, jégbárral.",
-                  "category": "landmark",
-                  "coords": [
-                        115.186615,
-                        -8.716826
-                  ]
-            },
-            {
-                  "name": "Kuta Jin Legian",
-                  "text": "A nyüzsgő Legian utca Kutában, üzletekkel és éttermekkel szegélyezve.",
-                  "category": "landmark",
-                  "coords": [
-                        115.174256,
-                        -8.716277
                   ]
             },
             {
@@ -17362,24 +17083,6 @@ id: "kuta-cities-v2", "sights": {
                   ]
             },
             {
-                  "name": "Galeri Zen1",
-                  "text": "Egy kortárs művészeti galéria Kutában, helyi művészek alkotásaival.",
-                  "category": "museum",
-                  "coords": [
-                        115.180356,
-                        -8.738523
-                  ]
-            },
-            {
-                  "name": "Triratna Amreta Bhuwana",
-                  "text": "Egy buddhista templom Kutában, meditációs és spirituális tevékenységekkel.",
-                  "category": "historical",
-                  "coords": [
-                        115.160366,
-                        -8.737447
-                  ]
-            },
-            {
                   "name": "Darta gallery",
                   "text": "Egy művészeti galéria Kutában hagyományos és modern balinéz művészettel.",
                   "category": "landmark",
@@ -17396,36 +17099,9 @@ id: "kuta-cities-v2", "sights": {
                         115.178252,
                         -8.725847
                   ]
-            },
-            {
-                  "name": "Dharmayana Temple",
-                  "text": "Balinéz hindu templom Kuta központjában.",
-                  "category": "religious",
-                  "coords": [
-                        115.177828,
-                        -8.723949
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Bali Shell Museum",
-                  "text": "Muzeul Bali din Kuta prezintă exponate culturale ale insulei indoneziene.",
-                  "category": "museum",
-                  "coords": [
-                        115.186715,
-                        -8.714265
-                  ]
-            },
-            {
-                  "name": "Becak museum",
-                  "text": "Muzeul Becak din Kuta este dedicat istoriei taxiurilor tradiționale pe bicicletă.",
-                  "category": "museum",
-                  "coords": [
-                        115.183883,
-                        -8.709344
-                  ]
-            },
             {
                   "name": "Ekowisata mangrove",
                   "text": "O zonă de ecoturism de mangrove în Kuta, cu alei din lemn și trasee naturale.",
@@ -17499,24 +17175,6 @@ id: "kuta-cities-v2", "sights": {
                   ]
             },
             {
-                  "name": "Tugu Peringatan Bom Bali",
-                  "text": "Bali Bombing Memorial din Kuta comemorează victimele atacurilor din 2002.",
-                  "category": "historical",
-                  "coords": [
-                        115.174489,
-                        -8.717319
-                  ]
-            },
-            {
-                  "name": "Tari Barong & Keris",
-                  "text": "Centrul Tari Barong & Keris din Kuta oferă spectacole de dans tradițional balinez.",
-                  "category": "cultural",
-                  "coords": [
-                        115.192435,
-                        -8.718624
-                  ]
-            },
-            {
                   "name": "Teluk Benoa",
                   "text": "Un golf protejat în sudul Baliului, lângă Kuta, cunoscut pentru sporturi nautice.",
                   "category": "landmark",
@@ -17535,51 +17193,6 @@ id: "kuta-cities-v2", "sights": {
                   ]
             },
             {
-                  "name": "Satrya Gatotkaca",
-                  "text": "O statuie a eroului mitic Gatotkaca în Kuta.",
-                  "category": "historical",
-                  "coords": [
-                        115.178838,
-                        -8.744376
-                  ]
-            },
-            {
-                  "name": "Waterbom",
-                  "text": "Waterbom din Kuta este o atracție cunoscută pentru pasionații de sporturi acvatice.",
-                  "category": "landmark",
-                  "coords": [
-                        115.169628,
-                        -8.728473
-                  ]
-            },
-            {
-                  "name": "Taman Bakau",
-                  "text": "Un parc de mangrove în Kuta, cu poteci de mers și observarea păsărilor.",
-                  "category": "landmark",
-                  "coords": [
-                        115.19316,
-                        -8.726112
-                  ]
-            },
-            {
-                  "name": "Fun Surf School",
-                  "text": "Fun Surf School din Kuta oferă cursuri pentru pasionații de surfing.",
-                  "category": "landmark",
-                  "coords": [
-                        115.166707,
-                        -8.709576
-                  ]
-            },
-            {
-                  "name": "Pandora Escape Room",
-                  "text": "O locație de escape room în Kuta, cu camere de puzzle tematice.",
-                  "category": "landmark",
-                  "coords": [
-                        115.178084,
-                        -8.706966
-                  ]
-            },
-            {
                   "name": "Bali Ocean Surf",
                   "text": "O școală de surf și închiriere de echipamente în Kuta.",
                   "category": "landmark",
@@ -17589,57 +17202,12 @@ id: "kuta-cities-v2", "sights": {
                   ]
             },
             {
-                  "name": "Wave coworking",
-                  "text": "Un spațiu de coworking în Kuta pentru nomazii digitali.",
-                  "category": "landmark",
-                  "coords": [
-                        115.179922,
-                        -8.710941
-                  ]
-            },
-            {
                   "name": "surf rental",
                   "text": "Diverse opțiuni de închiriere pentru surfing pot fi găsite chiar în Kuta.",
                   "category": "landmark",
                   "coords": [
                         115.168148,
                         -8.715503
-                  ]
-            },
-            {
-                  "name": "Monumen Jagarana",
-                  "text": "Monumen Jagarana din Kuta comemorează evenimente istorice.",
-                  "category": "historical",
-                  "coords": [
-                        115.178756,
-                        -8.724908
-                  ]
-            },
-            {
-                  "name": "Flowhouse Bali (Indoor Surfing)",
-                  "text": "Un simulator de surf interior în Kuta pentru a practica valurile.",
-                  "category": "landmark",
-                  "coords": [
-                        115.177034,
-                        -8.70495
-                  ]
-            },
-            {
-                  "name": "Clearice",
-                  "text": "Un club de noapte popular în Kuta, cu un bar de gheață.",
-                  "category": "landmark",
-                  "coords": [
-                        115.186615,
-                        -8.716826
-                  ]
-            },
-            {
-                  "name": "Kuta Jin Legian",
-                  "text": "Strada aglomerată Legian din Kuta, mărginită de magazine și restaurante.",
-                  "category": "landmark",
-                  "coords": [
-                        115.174256,
-                        -8.716277
                   ]
             },
             {
@@ -17679,24 +17247,6 @@ id: "kuta-cities-v2", "sights": {
                   ]
             },
             {
-                  "name": "Galeri Zen1",
-                  "text": "O galerie de artă contemporană în Kuta, cu lucrări ale artiștilor locali.",
-                  "category": "museum",
-                  "coords": [
-                        115.180356,
-                        -8.738523
-                  ]
-            },
-            {
-                  "name": "Triratna Amreta Bhuwana",
-                  "text": "Un templu budist în Kuta, oferind meditație și activități spirituale.",
-                  "category": "historical",
-                  "coords": [
-                        115.160366,
-                        -8.737447
-                  ]
-            },
-            {
                   "name": "Darta gallery",
                   "text": "O galerie de artă în Kuta cu artă balineză tradițională și modernă.",
                   "category": "landmark",
@@ -17713,36 +17263,9 @@ id: "kuta-cities-v2", "sights": {
                         115.178252,
                         -8.725847
                   ]
-            },
-            {
-                  "name": "Dharmayana Temple",
-                  "text": "Templu hindus balinez în centrul Kutei.",
-                  "category": "religious",
-                  "coords": [
-                        115.177828,
-                        -8.723949
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Bali Shell Museum",
-                  "text": "The Bali Museum in Kuta displays cultural exhibits of the Indonesian island.",
-                  "category": "museum",
-                  "coords": [
-                        115.186715,
-                        -8.714265
-                  ]
-            },
-            {
-                  "name": "Becak museum",
-                  "text": "The Becak Museum in Kuta is dedicated to the history of traditional bicycle taxis.",
-                  "category": "museum",
-                  "coords": [
-                        115.183883,
-                        -8.709344
-                  ]
-            },
             {
                   "name": "Ekowisata mangrove",
                   "text": "A mangrove ecotourism area in Kuta with boardwalks and nature trails.",
@@ -17816,24 +17339,6 @@ id: "kuta-cities-v2", "sights": {
                   ]
             },
             {
-                  "name": "Bali Bombing Memorial (Ground Zero Monument)",
-                  "text": "The Bali Bombing Memorial in Kuta commemorates the victims of the 2002 attacks.",
-                  "category": "historical",
-                  "coords": [
-                        115.174489,
-                        -8.717319
-                  ]
-            },
-            {
-                  "name": "Tari Barong & Keris",
-                  "text": "The Tari Barong & Keris center in Kuta offers traditional Balinese dance performances.",
-                  "category": "cultural",
-                  "coords": [
-                        115.192435,
-                        -8.718624
-                  ]
-            },
-            {
                   "name": "Benoa Bay",
                   "text": "A sheltered bay in southern Bali near Kuta, known for water sports.",
                   "category": "landmark",
@@ -17852,51 +17357,6 @@ id: "kuta-cities-v2", "sights": {
                   ]
             },
             {
-                  "name": "Satrya Gatotkaca",
-                  "text": "A statue of the mythical hero Gatotkaca in Kuta.",
-                  "category": "historical",
-                  "coords": [
-                        115.178838,
-                        -8.744376
-                  ]
-            },
-            {
-                  "name": "Waterbom",
-                  "text": "Waterbom in Kuta is a well-known attraction for water sports enthusiasts.",
-                  "category": "landmark",
-                  "coords": [
-                        115.169628,
-                        -8.728473
-                  ]
-            },
-            {
-                  "name": "Taman Bakau",
-                  "text": "A mangrove park in Kuta with walking paths and birdwatching.",
-                  "category": "landmark",
-                  "coords": [
-                        115.19316,
-                        -8.726112
-                  ]
-            },
-            {
-                  "name": "Fun Surf School",
-                  "text": "The Fun Surf School in Kuta offers courses for surfers.",
-                  "category": "landmark",
-                  "coords": [
-                        115.166707,
-                        -8.709576
-                  ]
-            },
-            {
-                  "name": "Pandora Escape Room",
-                  "text": "An escape room venue in Kuta offering themed puzzle rooms.",
-                  "category": "landmark",
-                  "coords": [
-                        115.178084,
-                        -8.706966
-                  ]
-            },
-            {
                   "name": "Bali Ocean Surf",
                   "text": "A surf school and equipment rental shop in Kuta.",
                   "category": "landmark",
@@ -17906,57 +17366,12 @@ id: "kuta-cities-v2", "sights": {
                   ]
             },
             {
-                  "name": "Wave coworking",
-                  "text": "A coworking space in Kuta for digital nomads.",
-                  "category": "landmark",
-                  "coords": [
-                        115.179922,
-                        -8.710941
-                  ]
-            },
-            {
                   "name": "surf rental",
                   "text": "Various surf rental options can be found right in Kuta.",
                   "category": "landmark",
                   "coords": [
                         115.168148,
                         -8.715503
-                  ]
-            },
-            {
-                  "name": "Monumen Jagarana",
-                  "text": "The Monumen Jagarana in Kuta commemorates historic events.",
-                  "category": "historical",
-                  "coords": [
-                        115.178756,
-                        -8.724908
-                  ]
-            },
-            {
-                  "name": "Flowhouse Bali (Indoor Surfing)",
-                  "text": "An indoor surfing simulator in Kuta for practicing waves.",
-                  "category": "landmark",
-                  "coords": [
-                        115.177034,
-                        -8.70495
-                  ]
-            },
-            {
-                  "name": "Clearice",
-                  "text": "A popular nightclub in Kuta known for its ice bar.",
-                  "category": "landmark",
-                  "coords": [
-                        115.186615,
-                        -8.716826
-                  ]
-            },
-            {
-                  "name": "Kuta Jin Legian",
-                  "text": "The bustling Legian Street area in Kuta, lined with shops and restaurants.",
-                  "category": "landmark",
-                  "coords": [
-                        115.174256,
-                        -8.716277
                   ]
             },
             {
@@ -17996,24 +17411,6 @@ id: "kuta-cities-v2", "sights": {
                   ]
             },
             {
-                  "name": "Galeri Zen1",
-                  "text": "A contemporary art gallery in Kuta exhibiting local artists.",
-                  "category": "museum",
-                  "coords": [
-                        115.180356,
-                        -8.738523
-                  ]
-            },
-            {
-                  "name": "Triratna Amreta Bhuwana",
-                  "text": "A Buddhist temple in Kuta offering meditation and spiritual activities.",
-                  "category": "historical",
-                  "coords": [
-                        115.160366,
-                        -8.737447
-                  ]
-            },
-            {
                   "name": "Darta gallery",
                   "text": "An art gallery in Kuta featuring traditional and modern Balinese art.",
                   "category": "landmark",
@@ -18029,15 +17426,6 @@ id: "kuta-cities-v2", "sights": {
                   "coords": [
                         115.178252,
                         -8.725847
-                  ]
-            },
-            {
-                  "name": "Dharmayana Temple",
-                  "text": "Balinese Hindu temple in central Kuta.",
-                  "category": "religious",
-                  "coords": [
-                        115.177828,
-                        -8.723949
                   ]
             }
       ]

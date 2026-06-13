@@ -382,15 +382,6 @@ export const moldovaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Un val cu șanț",
-                  "text": "Ein historischer Verteidigungswall mit Graben am Ufer des Dnister.",
-                  "category": "landmark",
-                  "coords": [
-                        29.138352,
-                        47.386337
-                  ]
-            },
-            {
                   "name": "Cruce",
                   "text": "Ein am Dnister errichtetes Kreuz, das als lokales Wahrzeichen dient.",
                   "category": "landmark",
@@ -453,15 +444,6 @@ export const moldovaNatureV2: POI[] = [
                   "coords": [
                         29.085838,
                         47.397911
-                  ]
-            },
-            {
-                  "name": "Un val cu șanț",
-                  "text": "Történelmi védmű és árok a Dnyeszter folyó mentén.",
-                  "category": "landmark",
-                  "coords": [
-                        29.138352,
-                        47.386337
                   ]
             },
             {
@@ -530,15 +512,6 @@ export const moldovaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Un val cu șanț",
-                  "text": "Un val de apărare istoric cu șanț situat pe malul Nistrului.",
-                  "category": "landmark",
-                  "coords": [
-                        29.138352,
-                        47.386337
-                  ]
-            },
-            {
                   "name": "Cruce",
                   "text": "O cruce ridicată pe malul Nistrului, servind ca punct de interes local.",
                   "category": "landmark",
@@ -601,15 +574,6 @@ export const moldovaNatureV2: POI[] = [
                   "coords": [
                         29.085838,
                         47.397911
-                  ]
-            },
-            {
-                  "name": "Un val cu șanț",
-                  "text": "A historical defensive rampart and ditch located along the banks of the Dniester River.",
-                  "category": "landmark",
-                  "coords": [
-                        29.138352,
-                        47.386337
                   ]
             },
             {

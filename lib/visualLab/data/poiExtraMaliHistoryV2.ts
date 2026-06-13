@@ -1147,50 +1147,10 @@ export const poiExtraMaliHistoryV2: POI[] = [
   },
   {
     id: "mali-kamablon-kangaba-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Fara Dje",
-                  "text": "Fara Dje ist eine lokale Attraktion im historisch bedeutsamen Kangaba, das für seine tiefen Wurzeln in der Manding-Kultur bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.416457,
-                        11.937556
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Fara Dje",
-                  "text": "A Fara Dje egy helyi látványosság a történelmileg gazdag Kangaba területén, amely a manding kultúrában gyökerezik.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.416457,
-                        11.937556
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Fara Dje",
-                  "text": "Fara Dje este o atracție locală din zona bogată istoric Kangaba, cunoscută pentru rădăcinile sale adânci în cultura mandingă.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.416457,
-                        11.937556
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Fara Dje",
-                  "text": "Fara Dje is a local attraction set in the historically rich Kangaba area, known for its deep roots in Manding culture.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.416457,
-                        11.937556
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "ML-2",
@@ -1237,50 +1197,10 @@ export const poiExtraMaliHistoryV2: POI[] = [
   },
   {
     id: "mali-tondidarou-megaliths-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Musée Ali Farka Toure",
-                  "text": "Ein Museum, das dem Leben und Erbe des legendären malischen Musikers Ali Farka Touré gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -3.96965,
-                        15.943463
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Musée Ali Farka Toure",
-                  "text": "A legendás mali zenész, Ali Farka Touré életének és örökségének szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -3.96965,
-                        15.943463
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Musée Ali Farka Toure",
-                  "text": "Un muzeu dedicat vieții și moștenirii legendarului muzician malian Ali Farka Touré.",
-                  "category": "museum",
-                  "coords": [
-                        -3.96965,
-                        15.943463
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Musée Ali Farka Toure",
-                  "text": "A museum dedicated to the life and legacy of the legendary Malian musician Ali Farka Touré.",
-                  "category": "museum",
-                  "coords": [
-                        -3.96965,
-                        15.943463
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "ML-6",
@@ -2245,50 +2165,10 @@ export const poiExtraMaliHistoryV2: POI[] = [
   },
   {
     id: "mali-bougouni-colonial-buildings-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Centre Culturel Siraba TOGOLA",
-                  "text": "Das Centre Culturel Siraba TOGOLA dient der Region Bougouni als Treffpunkt für Theateraufführungen und die Präsentation lokaler Kunst.",
-                  "category": "cultural",
-                  "coords": [
-                        -7.484556,
-                        11.421701
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Centre Culturel Siraba TOGOLA",
-                  "text": "A Centre Culturel Siraba TOGOLA a bougouni régió központjaként szolgál színházi előadásokhoz és a helyi művészet bemutatásához.",
-                  "category": "cultural",
-                  "coords": [
-                        -7.484556,
-                        11.421701
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Centre Culturel Siraba TOGOLA",
-                  "text": "Centrul Cultural Siraba TOGOLA servește regiunea Bougouni ca loc de întâlnire pentru spectacole de teatru și prezentarea artei locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -7.484556,
-                        11.421701
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Centre Culturel Siraba TOGOLA",
-                  "text": "The Centre Culturel Siraba TOGOLA serves the Bougouni area as a gathering place for theatrical performances and local art showcases.",
-                  "category": "cultural",
-                  "coords": [
-                        -7.484556,
-                        11.421701
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "ML-3",
@@ -2335,50 +2215,10 @@ export const poiExtraMaliHistoryV2: POI[] = [
   },
   {
     id: "mali-segou-old-walls-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Musée Régional des Masques et Marionnettes de Ségou",
-                  "text": "Das Museum zeigt eine beeindruckende Sammlung traditioneller Masken und Marionnetten, die bei lokalen Zeremonien verwendet werden.",
-                  "category": "museum",
-                  "coords": [
-                        -6.277548,
-                        13.437131
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Musée Régional des Masques et Marionnettes de Ségou",
-                  "text": "A múzeum egy lenyűgöző gyűjteményt állít ki a helyi szertartásokon használt hagyományos maszkokból és bábokból.",
-                  "category": "museum",
-                  "coords": [
-                        -6.277548,
-                        13.437131
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Musée Régional des Masques et Marionnettes de Ségou",
-                  "text": "Muzeul expune o colecție impresionantă de măști și marionete tradiționale folosite în ceremoniile locale.",
-                  "category": "museum",
-                  "coords": [
-                        -6.277548,
-                        13.437131
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Musée Régional des Masques et Marionnettes de Ségou",
-                  "text": "The museum exhibits an impressive collection of traditional masks and puppets used in local ceremonies.",
-                  "category": "museum",
-                  "coords": [
-                        -6.277548,
-                        13.437131
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "ML-4",
@@ -2652,15 +2492,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
     id: "mali-kayes-railway-station-history-v2", "sights": {
       "de": [
             {
-                  "name": "Ancienne Salle Massa Makan Diabaté De Kayes",
-                  "text": "Die Ancienne Salle Massa Makan Diabaté De Kayes ist ein altes Theatergebäude, das einst als Bühne für lokale Vorstellungen diente.",
-                  "category": "cultural",
-                  "coords": [
-                        -11.43866,
-                        14.436166
-                  ]
-            },
-            {
                   "name": "Stade Bassi Coulibaly",
                   "text": "Das Stade Bassi Coulibaly ist ein weitläufiges Stadion und Freizeitgelände im Freien, das Platz für große Versammlungen in der Nähe des Bahnhofs Kayes bietet.",
                   "category": "recreational",
@@ -2689,15 +2520,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Ancienne Salle Massa Makan Diabaté De Kayes",
-                  "text": "Az Ancienne Salle Massa Makan Diabaté De Kayes egy régi színházépület, amely egykor helyi előadások színpadaként szolgált.",
-                  "category": "cultural",
-                  "coords": [
-                        -11.43866,
-                        14.436166
-                  ]
-            },
             {
                   "name": "Stade Bassi Coulibaly",
                   "text": "A Stade Bassi Coulibaly egy tágas stadion és szabadtéri rekreációs terület, amely helyet biztosít nagyobb összejöveteleknek a kayesi vasútállomás közelében.",
@@ -2728,15 +2550,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ancienne Salle Massa Makan Diabaté De Kayes",
-                  "text": "Ancienne Salle Massa Makan Diabaté De Kayes este o veche clădire de teatru care a oferit cândva o scenă pentru spectacole locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -11.43866,
-                        14.436166
-                  ]
-            },
-            {
                   "name": "Stade Bassi Coulibaly",
                   "text": "Stade Bassi Coulibaly este un stadion și spațiu de recreere în aer liber întins, oferind loc pentru adunări mari lângă gara din Kayes.",
                   "category": "recreational",
@@ -2765,15 +2578,6 @@ export const poiExtraMaliHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Ancienne Salle Massa Makan Diabaté De Kayes",
-                  "text": "The Ancienne Salle Massa Makan Diabaté De Kayes is an old theatre building that once provided a stage for local performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -11.43866,
-                        14.436166
-                  ]
-            },
             {
                   "name": "Stade Bassi Coulibaly",
                   "text": "Stade Bassi Coulibaly is an expansive stadium and outdoor recreational ground providing space for large gatherings near the Kayes railway station.",

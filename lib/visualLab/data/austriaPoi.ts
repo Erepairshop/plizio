@@ -3538,24 +3538,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Turm 9 (Apollonia)",
-                  "text": "Turm 9 (Apollonia) ist ein historischer Befestigungsturm, der heute als Museum in Linz dient.",
-                  "category": "museum",
-                  "coords": [
-                        14.261745,
-                        48.286227
-                  ]
-            },
-            {
-                  "name": "Peinherrnhof",
-                  "text": "Der Peinherrnhof ist ein historisches Schloss in der Stadt Linz.",
-                  "category": "castle",
-                  "coords": [
-                        14.256253,
-                        48.29605
-                  ]
-            },
-            {
                   "name": "NORDICO Stadtmuseum Linz",
                   "text": "Das NORDICO Stadtmuseum Linz ist ein Museum für die Geschichte und Kultur der Stadt Linz.",
                   "category": "museum",
@@ -3706,15 +3688,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.306629,
                         48.31591
-                  ]
-            },
-            {
-                  "name": "Klause Adelgunde",
-                  "text": "Die Klause Adelgunde, auch als Burschenschafterturm bekannt, ist eine bemerkenswerte historische Attraktion in Linz.",
-                  "category": "landmark",
-                  "coords": [
-                        14.246445,
-                        48.30816
                   ]
             },
             {
@@ -3889,15 +3862,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "St. Konrad Kirche",
-                  "text": "Die St. Konrad church ist ein Gotteshaus in Linz.",
-                  "category": "religious",
-                  "coords": [
-                        14.273257,
-                        48.289561
-                  ]
-            },
-            {
                   "name": "St. Markus",
                   "text": "St. Markus ist ein Gotteshaus in Linz.",
                   "category": "religious",
@@ -3979,30 +3943,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Großer Weikerlsee",
-                  "text": "Der Große Weikerlsee in Linz bietet eine weitläufige Naturkulisse für Erholungsuchende.",
-                  "category": "natural",
-                  "coords": [
-                        14.370663,
-                        48.265198
-                  ]
-            },
-            {
                   "name": "Pleschinger See",
                   "text": "Der Pleschinger See in Linz ist ein beliebtes Naherholungsgebiet für Spaziergänge und Freizeit.",
                   "category": "natural",
                   "coords": [
                         14.332361,
                         48.31934
-                  ]
-            },
-            {
-                  "name": "Kleiner Weikerlsee",
-                  "text": "Der Kleine Weikerlsee in Linz bietet eine ruhige Atmosphäre inmitten der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        14.36122,
-                        48.263528
                   ]
             },
             {
@@ -4075,15 +4021,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.294203,
                         48.323588
-                  ]
-            },
-            {
-                  "name": "Holzheimerspielplatz",
-                  "text": "Der Holzheimerspielplatz in Linz lädt Kinder zum Spielen und Entdecken ein.",
-                  "category": "family",
-                  "coords": [
-                        14.254544,
-                        48.296949
                   ]
             },
             {
@@ -4195,15 +4132,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hummelhofbad",
-                  "text": "Das Hummelhofbad in Linz ist ein Erlebnisbad, das Spaß und Erholung im Wasser kombiniert.",
-                  "category": "family",
-                  "coords": [
-                        14.291106,
-                        48.276938
-                  ]
-            },
-            {
                   "name": "FKK-Bereich",
                   "text": "Der FKK-Bereich in Linz bietet einen ausgewiesenen Badebereich für Freunde der Freikörperkultur.",
                   "category": "family",
@@ -4231,30 +4159,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kinderbad Kudlichstraße",
-                  "text": "Das Kinderbad Kudlichstraße in Linz ist speziell auf die Bedürfnisse junger Badegäste zugeschnitten.",
-                  "category": "family",
-                  "coords": [
-                        14.281278,
-                        48.28495
-                  ]
-            },
-            {
                   "name": "Kinderbad Wimhölzelstraße",
                   "text": "Das Kinderbad Wimhölzelstraße in Linz bietet sicheren Wasserspaß für Kinder in der Stadt.",
                   "category": "family",
                   "coords": [
                         14.316728,
                         48.296321
-                  ]
-            },
-            {
-                  "name": "Hallenbad",
-                  "text": "Das Hallenbad in Linz ermöglicht wetterunabhängiges Schwimmvergnügen für alle Besucher.",
-                  "category": "family",
-                  "coords": [
-                        14.271453,
-                        48.280684
                   ]
             },
             {
@@ -4284,24 +4194,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.2571,
                         48.323404
-                  ]
-            },
-            {
-                  "name": "Turm 9 (Apollonia)",
-                  "text": "A 9. torony (Apollonia) egy történelmi erődítménytorony, amely ma múzeumként működik Linzben.",
-                  "category": "museum",
-                  "coords": [
-                        14.261745,
-                        48.286227
-                  ]
-            },
-            {
-                  "name": "Peinherrnhof",
-                  "text": "A Peinherrnhof egy történelmi kastély Linz városában.",
-                  "category": "castle",
-                  "coords": [
-                        14.256253,
-                        48.29605
                   ]
             },
             {
@@ -4455,15 +4347,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.306629,
                         48.31591
-                  ]
-            },
-            {
-                  "name": "Klause Adelgunde",
-                  "text": "A Klause Adelgunde, más néven Burschenschafterturm, egy nevezetes történelmi látványosság Linzben.",
-                  "category": "landmark",
-                  "coords": [
-                        14.246445,
-                        48.30816
                   ]
             },
             {
@@ -4638,15 +4521,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "St. Konrad Kirche",
-                  "text": "A St. Konrad church egy vallási épület Linz városában.",
-                  "category": "religious",
-                  "coords": [
-                        14.273257,
-                        48.289561
-                  ]
-            },
-            {
                   "name": "St. Markus",
                   "text": "A St. Markus egy vallási épület Linzben.",
                   "category": "religious",
@@ -4728,30 +4602,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Großer Weikerlsee",
-                  "text": "A Linz városában található Großer Weikerlsee tágas természeti környezetet kínál a pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        14.370663,
-                        48.265198
-                  ]
-            },
-            {
                   "name": "Pleschinger See",
                   "text": "A Linz melletti Pleschinger See népszerű kirándulóhely a kikapcsolódni vágyók számára.",
                   "category": "natural",
                   "coords": [
                         14.332361,
                         48.31934
-                  ]
-            },
-            {
-                  "name": "Kleiner Weikerlsee",
-                  "text": "A Linz területén fekvő Kleiner Weikerlsee csendes környezetet biztosít a pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        14.36122,
-                        48.263528
                   ]
             },
             {
@@ -4824,15 +4680,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.294203,
                         48.323588
-                  ]
-            },
-            {
-                  "name": "Holzheimerspielplatz",
-                  "text": "A Linz városában található Holzheimer játszótér vidám szórakozást kínál a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        14.254544,
-                        48.296949
                   ]
             },
             {
@@ -4944,15 +4791,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hummelhofbad",
-                  "text": "A linzi Hummelhofbad egy élményfürdő, amely ötvözi a szórakozást és a vízi kikapcsolódást.",
-                  "category": "family",
-                  "coords": [
-                        14.291106,
-                        48.276938
-                  ]
-            },
-            {
                   "name": "FKK-Bereich",
                   "text": "A linzi FKK-részleg kijelölt fürdőhelyet biztosít a naturizmus kedvelőinek.",
                   "category": "family",
@@ -4980,30 +4818,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kinderbad Kudlichstraße",
-                  "text": "A linzi Kudlichstraße gyerekfürdője kifejezetten a fiatal fürdőzők igényeire lett szabva.",
-                  "category": "family",
-                  "coords": [
-                        14.281278,
-                        48.28495
-                  ]
-            },
-            {
                   "name": "Kinderbad Wimhölzelstraße",
                   "text": "A linzi Wimhölzelstraße gyerekfürdője biztonságos vízi szórakozást kínál a városi gyermekeknek.",
                   "category": "family",
                   "coords": [
                         14.316728,
                         48.296321
-                  ]
-            },
-            {
-                  "name": "Hallenbad",
-                  "text": "A linzi fedett uszoda az időjárástól függetlenül biztosít úszási lehetőséget minden látogatónak.",
-                  "category": "family",
-                  "coords": [
-                        14.271453,
-                        48.280684
                   ]
             },
             {
@@ -5033,24 +4853,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.2571,
                         48.323404
-                  ]
-            },
-            {
-                  "name": "Turm 9 (Apollonia)",
-                  "text": "Turnul 9 (Apollonia) este un turn istoric de fortificație care servește astăzi ca muzeu în Linz.",
-                  "category": "museum",
-                  "coords": [
-                        14.261745,
-                        48.286227
-                  ]
-            },
-            {
-                  "name": "Peinherrnhof",
-                  "text": "Peinherrnhof este un castel istoric situat în orașul Linz.",
-                  "category": "castle",
-                  "coords": [
-                        14.256253,
-                        48.29605
                   ]
             },
             {
@@ -5204,15 +5006,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.306629,
                         48.31591
-                  ]
-            },
-            {
-                  "name": "Klause Adelgunde",
-                  "text": "Klause Adelgunde, cunoscută și sub numele de Burschenschafterturm, este o atracție istorică notabilă din Linz.",
-                  "category": "landmark",
-                  "coords": [
-                        14.246445,
-                        48.30816
                   ]
             },
             {
@@ -5387,15 +5180,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "St. Konrad Kirche",
-                  "text": "St. Konrad church este un lăcaș de cult din Linz.",
-                  "category": "religious",
-                  "coords": [
-                        14.273257,
-                        48.289561
-                  ]
-            },
-            {
                   "name": "St. Markus",
                   "text": "St. Markus este un lăcaș de cult situat în Linz.",
                   "category": "religious",
@@ -5477,30 +5261,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Großer Weikerlsee",
-                  "text": "Großer Weikerlsee din Linz oferă un cadru natural vast pentru relaxare și plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        14.370663,
-                        48.265198
-                  ]
-            },
-            {
                   "name": "Pleschinger See",
                   "text": "Lacul Pleschinger din Linz este o zonă de agrement populară pentru plimbări și relaxare.",
                   "category": "natural",
                   "coords": [
                         14.332361,
                         48.31934
-                  ]
-            },
-            {
-                  "name": "Kleiner Weikerlsee",
-                  "text": "Kleiner Weikerlsee din Linz oferă o atmosferă liniștită în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        14.36122,
-                        48.263528
                   ]
             },
             {
@@ -5573,15 +5339,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.294203,
                         48.323588
-                  ]
-            },
-            {
-                  "name": "Holzheimerspielplatz",
-                  "text": "Locul de joacă Holzheimer din Linz invită copiii la joacă și explorare.",
-                  "category": "family",
-                  "coords": [
-                        14.254544,
-                        48.296949
                   ]
             },
             {
@@ -5693,15 +5450,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hummelhofbad",
-                  "text": "Hummelhofbad din Linz este un parc acvatic care îmbină distracția cu relaxarea în apă.",
-                  "category": "family",
-                  "coords": [
-                        14.291106,
-                        48.276938
-                  ]
-            },
-            {
                   "name": "FKK-Bereich",
                   "text": "Zona FKK din Linz oferă un spațiu de înot special amenajat pentru nudiști.",
                   "category": "family",
@@ -5729,30 +5477,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kinderbad Kudlichstraße",
-                  "text": "Kinderbad Kudlichstraße din Linz este adaptat special nevoilor micilor înotători.",
-                  "category": "family",
-                  "coords": [
-                        14.281278,
-                        48.28495
-                  ]
-            },
-            {
                   "name": "Kinderbad Wimhölzelstraße",
                   "text": "Kinderbad Wimhölzelstraße din Linz oferă distracție acvatică sigură pentru copiii din oraș.",
                   "category": "family",
                   "coords": [
                         14.316728,
                         48.296321
-                  ]
-            },
-            {
-                  "name": "Hallenbad",
-                  "text": "Piscina interioară din Linz permite bucuria înotului indiferent de vreme pentru toți vizitatorii.",
-                  "category": "family",
-                  "coords": [
-                        14.271453,
-                        48.280684
                   ]
             },
             {
@@ -5782,24 +5512,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.2571,
                         48.323404
-                  ]
-            },
-            {
-                  "name": "Tower 9 (Apollonia)",
-                  "text": "Tower 9 (Apollonia) is a historic fortification tower that now serves as a museum in Linz.",
-                  "category": "museum",
-                  "coords": [
-                        14.261745,
-                        48.286227
-                  ]
-            },
-            {
-                  "name": "Peinherrnhof",
-                  "text": "Peinherrnhof is a historic castle located in the city of Linz.",
-                  "category": "castle",
-                  "coords": [
-                        14.256253,
-                        48.29605
                   ]
             },
             {
@@ -5953,15 +5665,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.306629,
                         48.31591
-                  ]
-            },
-            {
-                  "name": "Klause Adelgunde",
-                  "text": "Klause Adelgunde, also known as Burschenschafterturm, is a notable historic attraction in Linz.",
-                  "category": "landmark",
-                  "coords": [
-                        14.246445,
-                        48.30816
                   ]
             },
             {
@@ -6136,15 +5839,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "St. Konrad church",
-                  "text": "St. Konrad church is a place of worship situated in Linz.",
-                  "category": "religious",
-                  "coords": [
-                        14.273257,
-                        48.289561
-                  ]
-            },
-            {
                   "name": "St. Markus",
                   "text": "St. Markus is a place of worship located in Linz.",
                   "category": "religious",
@@ -6226,30 +5920,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Großer Weikerlsee",
-                  "text": "Großer Weikerlsee in Linz offers an extensive natural setting for relaxation and walks.",
-                  "category": "natural",
-                  "coords": [
-                        14.370663,
-                        48.265198
-                  ]
-            },
-            {
                   "name": "Pleschinger See",
                   "text": "Pleschinger See in Linz is a popular recreation area for walking and leisure activities.",
                   "category": "natural",
                   "coords": [
                         14.332361,
                         48.31934
-                  ]
-            },
-            {
-                  "name": "Kleiner Weikerlsee",
-                  "text": "Kleiner Weikerlsee in Linz offers a peaceful atmosphere surrounded by nature.",
-                  "category": "natural",
-                  "coords": [
-                        14.36122,
-                        48.263528
                   ]
             },
             {
@@ -6322,15 +5998,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.294203,
                         48.323588
-                  ]
-            },
-            {
-                  "name": "Holzheimerspielplatz",
-                  "text": "The Holzheimer playground in Linz invites children to play and explore.",
-                  "category": "family",
-                  "coords": [
-                        14.254544,
-                        48.296949
                   ]
             },
             {
@@ -6442,15 +6109,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hummelhofbad",
-                  "text": "Hummelhofbad in Linz is a water park that combines fun and relaxation in the water.",
-                  "category": "family",
-                  "coords": [
-                        14.291106,
-                        48.276938
-                  ]
-            },
-            {
                   "name": "FKK-Bereich",
                   "text": "The FKK-Bereich in Linz provides a designated swimming area for nudism enthusiasts.",
                   "category": "family",
@@ -6478,30 +6136,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kinderbad Kudlichstraße",
-                  "text": "Kinderbad Kudlichstraße in Linz is specifically tailored to the needs of young bathers.",
-                  "category": "family",
-                  "coords": [
-                        14.281278,
-                        48.28495
-                  ]
-            },
-            {
                   "name": "Kinderbad Wimhölzelstraße",
                   "text": "Kinderbad Wimhölzelstraße in Linz offers safe water fun for children in the city.",
                   "category": "family",
                   "coords": [
                         14.316728,
                         48.296321
-                  ]
-            },
-            {
-                  "name": "Hallenbad",
-                  "text": "The indoor pool in Linz enables swimming enjoyment regardless of the weather for all visitors.",
-                  "category": "family",
-                  "coords": [
-                        14.271453,
-                        48.280684
                   ]
             },
             {
@@ -6595,15 +6235,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tirol Panorama",
-                  "text": "Das Museum beherbergt das monumentale Riesenrundgemälde über die Tiroler Freiheitskämpfe.",
-                  "category": "museum",
-                  "coords": [
-                        11.401576,
-                        47.250476
-                  ]
-            },
-            {
                   "name": "Palais Fugger-Taxis",
                   "text": "Ein historisches Palais in der Innsbrucker Altstadt, das heute öffentliche Ämter beherbergt.",
                   "category": "castle",
@@ -6628,15 +6259,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.397733,
                         47.267323
-                  ]
-            },
-            {
-                  "name": "Kastell von Veldidena",
-                  "text": "Archäologische Überreste einer bedeutenden römischen Siedlung und Militärstation.",
-                  "category": "historical",
-                  "coords": [
-                        11.400887,
-                        47.255688
                   ]
             },
             {
@@ -6694,24 +6316,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Israelitische Kultusgemeinde für  Tirol und Vorarlberg",
-                  "text": "Das religiöse und soziale Zentrum der jüdischen Gemeinde in Tirol und Vorarlberg.",
-                  "category": "religious",
-                  "coords": [
-                        11.399627,
-                        47.268026
-                  ]
-            },
-            {
-                  "name": "Stiftskirche Wilten",
-                  "text": "Ein bedeutendes Prämonstratenserstift mit einer langen Geschichte und reicher barocker Ausstattung.",
-                  "category": "religious",
-                  "coords": [
-                        11.40046,
-                        47.253725
-                  ]
-            },
-            {
                   "name": "Alte Höttinger Kirche",
                   "text": "Die alte Pfarrkirche von Hötting ist ein markantes historisches Sakralgebäude am Hang.",
                   "category": "religious",
@@ -6739,48 +6343,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Maria Himmelfahrt",
-                  "text": "Die Pfarrkirche des Stadtteils Amras ist der Himmelfahrt Mariens geweiht.",
-                  "category": "religious",
-                  "coords": [
-                        11.429017,
-                        47.259501
-                  ]
-            },
-            {
-                  "name": "St. Pirmin",
-                  "text": "Eine moderne katholische Pfarrkirche im Innsbrucker Stadtteil Reichenau.",
-                  "category": "religious",
-                  "coords": [
-                        11.425828,
-                        47.269607
-                  ]
-            },
-            {
                   "name": "Spitalskirche",
                   "text": "Die zentrale Barockkirche in der Maria-Theresien-Straße ist für ihre prachtvolle Fassade bekannt.",
                   "category": "religious",
                   "coords": [
                         11.393436,
                         47.266597
-                  ]
-            },
-            {
-                  "name": "Kapuzinerkirche",
-                  "text": "Die Kirche des Kapuzinerklosters ist ein schlichter Sakralbau mit historischer Bedeutung.",
-                  "category": "religious",
-                  "coords": [
-                        11.400305,
-                        47.270052
-                  ]
-            },
-            {
-                  "name": "Dreiheiligen",
-                  "text": "Eine Votivkirche, die zum Dank für das Ende einer Pestepidemie errichtet wurde.",
-                  "category": "religious",
-                  "coords": [
-                        11.40271,
-                        47.26813
                   ]
             },
             {
@@ -6793,75 +6361,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Siebenkapellenkirche",
-                  "text": "Eine historische Kirche in Innsbruck, die ihren Namen von den ehemals sieben umliegenden Kapellen hat.",
-                  "category": "religious",
-                  "coords": [
-                        11.406351,
-                        47.271415
-                  ]
-            },
-            {
-                  "name": "Pauluskirche",
-                  "text": "Die katholische Pfarrkirche St. Paulus ist ein moderner Sakralbau im Osten der Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        11.416468,
-                        47.273005
-                  ]
-            },
-            {
-                  "name": "Evangelische Christuskirche",
-                  "text": "Die evangelische Christuskirche ist das zentrale Gotteshaus der lutherischen Gemeinde in Innsbruck.",
-                  "category": "religious",
-                  "coords": [
-                        11.401691,
-                        47.276295
-                  ]
-            },
-            {
-                  "name": "Klosterkirche der Barmherzigen Schwestern",
-                  "text": "Die Klosterkirche gehört zum Konvent der Barmherzigen Schwestern vom heiligen Vinzenz von Paul.",
-                  "category": "religious",
-                  "coords": [
-                        11.405193,
-                        47.279277
-                  ]
-            },
-            {
                   "name": "Petrus Canisius",
                   "text": "Eine moderne katholische Pfarrkirche, die dem Heiligen Petrus Canisius geweiht ist.",
                   "category": "religious",
                   "coords": [
                         11.380999,
                         47.26361
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Pradl",
-                  "text": "Die neuromanische Pfarrkirche prägt das Zentrum des Stadtteils Pradl.",
-                  "category": "religious",
-                  "coords": [
-                        11.407947,
-                        47.266679
-                  ]
-            },
-            {
-                  "name": "Pfarrkiche Maria am Gestade",
-                  "text": "Eine moderne Kirche im Stadtteil Sieglanger, die Maria am Gestade geweiht ist.",
-                  "category": "religious",
-                  "coords": [
-                        11.364148,
-                        47.252319
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Allerheiligen",
-                  "text": "Die Pfarrkirche Allerheiligen ist ein zeitgenössisches Sakralgebäude im Westen von Innsbruck.",
-                  "category": "religious",
-                  "coords": [
-                        11.355567,
-                        47.26796
                   ]
             },
             {
@@ -6946,78 +6451,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Mühlauer Brücke",
-                  "text": "Eine wichtige Straßenbrücke, die das Stadtgebiet mit dem Stadtteil Mühlau verbindet.",
-                  "category": "landmark",
-                  "coords": [
-                        11.404874,
-                        47.280302
-                  ]
-            },
-            {
-                  "name": "Olympiabrücke",
-                  "text": "Die Brücke wurde anlässlich der Olympischen Winterspiele errichtet und führt über die Bahngleise.",
-                  "category": "landmark",
-                  "coords": [
-                        11.402589,
-                        47.257448
-                  ]
-            },
-            {
-                  "name": "Bergisel",
-                  "text": "Der Bergisel ist ein bekannter Hügel in Innsbruck, der vor allem für seine Skisprungschanze berühmt ist.",
-                  "category": "natural",
-                  "coords": [
-                        11.400137,
-                        47.246752
-                  ]
-            },
-            {
-                  "name": "Baggersee Rossau",
-                  "text": "Der Baggersee Rossau in Innsbruck lädt zu entspannten Stunden am Wasser und Spaziergängen ein.",
-                  "category": "natural",
-                  "coords": [
-                        11.447011,
-                        47.265799
-                  ]
-            },
-            {
-                  "name": "Natterersee",
-                  "text": "Der Natterersee bei Innsbruck bietet eine idyllische Kulisse für Spaziergänge und Naturgenuss.",
-                  "category": "natural",
-                  "coords": [
-                        11.341358,
-                        47.237396
-                  ]
-            },
-            {
-                  "name": "Speicherteich Römerstraße",
-                  "text": "Der Speicherteich Römerstraße in Innsbruck ist ein ruhiger Ort, der zum Verweilen und Spazierengehen einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        11.423279,
-                        47.218298
-                  ]
-            },
-            {
-                  "name": "Momentanspeicher Lemmenhofwiese",
-                  "text": "Der Momentanspeicher Lemmenhofwiese in Innsbruck bietet eine natürliche Umgebung für kurze Ausflüge.",
-                  "category": "natural",
-                  "coords": [
-                        11.407769,
-                        47.250088
-                  ]
-            },
-            {
-                  "name": "Speicher Sillkraftwerk",
-                  "text": "Der Speicher des Sillkraftwerks in Innsbruck lädt zu Spaziergängen am Wasser in städtischer Nähe ein.",
-                  "category": "natural",
-                  "coords": [
-                        11.396083,
-                        47.200093
-                  ]
-            },
-            {
                   "name": "Gramartwiese",
                   "text": "Die Gramartwiese in Innsbruck ist ein beliebter Spielplatz und Erholungsort im Grünen für Familien.",
                   "category": "family",
@@ -7033,87 +6466,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.395502,
                         47.289561
-                  ]
-            },
-            {
-                  "name": "Spielplatz Siebererschule",
-                  "text": "Der Spielplatz der Siebererschule in Innsbruck bietet Kindern Raum für Bewegung und Spiel im Freien.",
-                  "category": "family",
-                  "coords": [
-                        11.403942,
-                        47.273345
-                  ]
-            },
-            {
-                  "name": "Kranewitterpark",
-                  "text": "Der Kranewitterpark in Innsbruck verfügt über einen Spielplatz in einer angenehmen Grünanlage.",
-                  "category": "family",
-                  "coords": [
-                        11.420296,
-                        47.264648
-                  ]
-            },
-            {
-                  "name": "Widum Mühlau",
-                  "text": "Der Spielplatz Widum Mühlau in Innsbruck bietet Spielmöglichkeiten für Kinder in einer ruhigen Umgebung.",
-                  "category": "family",
-                  "coords": [
-                        11.41295,
-                        47.28495
-                  ]
-            },
-            {
-                  "name": "Spielplatz Wasserwerk Mühlau",
-                  "text": "Der Spielplatz beim Wasserwerk Mühlau in Innsbruck bietet Abwechslung für Kinder im Freien.",
-                  "category": "family",
-                  "coords": [
-                        11.41382,
-                        47.287732
-                  ]
-            },
-            {
-                  "name": "Sieben Zwerge",
-                  "text": "Der Spielplatz Sieben Zwerge in Innsbruck ist ein fantasievoller Ort für kleine Kinder zum Spielen.",
-                  "category": "family",
-                  "coords": [
-                        11.409487,
-                        47.286988
-                  ]
-            },
-            {
-                  "name": "Schillerpark",
-                  "text": "Der Schillerpark in Innsbruck bietet einen zentral gelegenen Spielplatz für Familien und Kinder.",
-                  "category": "family",
-                  "coords": [
-                        11.407046,
-                        47.274795
-                  ]
-            },
-            {
-                  "name": "Campagne-Areal",
-                  "text": "Das Campagne-Areal in Innsbruck bietet moderne Spielmöglichkeiten für Kinder im städtischen Raum.",
-                  "category": "family",
-                  "coords": [
-                        11.42415,
-                        47.271022
-                  ]
-            },
-            {
-                  "name": "Mini Lollipop",
-                  "text": "Mini Lollipop in Innsbruck bietet einen geschützten Bereich für Kinder zum Spielen und Entdecken.",
-                  "category": "family",
-                  "coords": [
-                        11.404377,
-                        47.266508
-                  ]
-            },
-            {
-                  "name": "Tivoli",
-                  "text": "Der Spielplatz Tivoli in Innsbruck bietet vielfältige Möglichkeiten zum Toben und Spielen im Freien.",
-                  "category": "family",
-                  "coords": [
-                        11.40671,
-                        47.259205
                   ]
             },
             {
@@ -7144,24 +6496,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Jahnpark",
-                  "text": "Der Jahnpark in Innsbruck bietet einen schön angelegten Spielplatz für Kinder und Familien.",
-                  "category": "family",
-                  "coords": [
-                        11.405986,
-                        47.270497
-                  ]
-            },
-            {
-                  "name": "Resselpark",
-                  "text": "Der Resselpark in Innsbruck verfügt über einen Spielplatz, der Abwechslung im städtischen Alltag bietet.",
-                  "category": "family",
-                  "coords": [
-                        11.409851,
-                        47.260798
-                  ]
-            },
-            {
                   "name": "Prandtauerufer",
                   "text": "Das Prandtauerufer in Innsbruck bietet Spielmöglichkeiten für Kinder in direkter Nähe zum Inn.",
                   "category": "family",
@@ -7177,60 +6511,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.371384,
                         47.255598
-                  ]
-            },
-            {
-                  "name": "Spielplatz Dr.-Stumpf-Straße West",
-                  "text": "Ein abwechslungsreicher Spielplatz in Innsbruck für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        11.364868,
-                        47.254101
-                  ]
-            },
-            {
-                  "name": "Martinas Bauernhof",
-                  "text": "Ein Erlebnishof in Innsbruck, wo Kinder Tiere hautnah erleben können.",
-                  "category": "family",
-                  "coords": [
-                        11.375264,
-                        47.243121
-                  ]
-            },
-            {
-                  "name": "Freibad Tivoli",
-                  "text": "Ein bekanntes Freibad in Innsbruck mit Blick auf die Berge.",
-                  "category": "family",
-                  "coords": [
-                        11.408454,
-                        47.260165
-                  ]
-            },
-            {
-                  "name": "Kampfbecken",
-                  "text": "Ein Sportbecken in Innsbruck für intensives Schwimmtraining.",
-                  "category": "family",
-                  "coords": [
-                        11.406944,
-                        47.260924
-                  ]
-            },
-            {
-                  "name": "Lansersee",
-                  "text": "Ein malerischer See bei Innsbruck, ideal zum Schwimmen und Sonnenbaden.",
-                  "category": "family",
-                  "coords": [
-                        11.41715,
-                        47.240273
-                  ]
-            },
-            {
-                  "name": "H32",
-                  "text": "Ein Schwimmbad in Innsbruck, das Wasserfreunden Möglichkeiten zum Bahnenziehen bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        11.355943,
-                        47.257174
                   ]
             }
       ],
@@ -7281,15 +6561,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tirol Panorama",
-                  "text": "A múzeum ad otthont a tiroli szabadságharcokat ábrázoló monumentális óriás körképnek.",
-                  "category": "museum",
-                  "coords": [
-                        11.401576,
-                        47.250476
-                  ]
-            },
-            {
                   "name": "Palais Fugger-Taxis",
                   "text": "Történelmi palota Innsbruck óvárosában, amely ma közhivataloknak ad otthont.",
                   "category": "castle",
@@ -7314,15 +6585,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.397733,
                         47.267323
-                  ]
-            },
-            {
-                  "name": "Kastell von Veldidena",
-                  "text": "Egy jelentős római település és katonai állomás régészeti maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        11.400887,
-                        47.255688
                   ]
             },
             {
@@ -7380,24 +6642,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Israelitische Kultusgemeinde für  Tirol und Vorarlberg",
-                  "text": "Tirol és Vorarlberg zsidó közösségének vallási és társadalmi központja.",
-                  "category": "religious",
-                  "coords": [
-                        11.399627,
-                        47.268026
-                  ]
-            },
-            {
-                  "name": "Stiftskirche Wilten",
-                  "text": "Jelentős premontrei apátság hosszú múlttal és gazdag barokk berendezéssel.",
-                  "category": "religious",
-                  "coords": [
-                        11.40046,
-                        47.253725
-                  ]
-            },
-            {
                   "name": "Alte Höttinger Kirche",
                   "text": "Hötting régi plébániatemploma egy jellegzetes történelmi szakrális épület a hegyoldalban.",
                   "category": "religious",
@@ -7425,48 +6669,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Maria Himmelfahrt",
-                  "text": "Amras városrész plébániatemploma Szűz Mária mennybemenetelének van szentelve.",
-                  "category": "religious",
-                  "coords": [
-                        11.429017,
-                        47.259501
-                  ]
-            },
-            {
-                  "name": "St. Pirmin",
-                  "text": "Modern katolikus plébániatemplom Innsbruck Reichenau városrészében.",
-                  "category": "religious",
-                  "coords": [
-                        11.425828,
-                        47.269607
-                  ]
-            },
-            {
                   "name": "Spitalskirche",
                   "text": "A Maria-Theresien-Straße központi barokk temploma pompás homlokzatáról ismert.",
                   "category": "religious",
                   "coords": [
                         11.393436,
                         47.266597
-                  ]
-            },
-            {
-                  "name": "Kapuzinerkirche",
-                  "text": "A kapucinus kolostor temploma egy egyszerű szakrális épület, történelmi jelentőséggel.",
-                  "category": "religious",
-                  "coords": [
-                        11.400305,
-                        47.270052
-                  ]
-            },
-            {
-                  "name": "Dreiheiligen",
-                  "text": "Fogadalmi templom, amelyet a pestisjárvány végéért való hálából emeltek.",
-                  "category": "religious",
-                  "coords": [
-                        11.40271,
-                        47.26813
                   ]
             },
             {
@@ -7479,75 +6687,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Siebenkapellenkirche",
-                  "text": "Történelmi templom Innsbruckban, amely a nevét az egykor körülötte lévő hét kápolnáról kapta.",
-                  "category": "religious",
-                  "coords": [
-                        11.406351,
-                        47.271415
-                  ]
-            },
-            {
-                  "name": "Pauluskirche",
-                  "text": "A Szent Pál katolikus plébániatemplom egy modern szakrális épület a város keleti részén.",
-                  "category": "religious",
-                  "coords": [
-                        11.416468,
-                        47.273005
-                  ]
-            },
-            {
-                  "name": "Evangelische Christuskirche",
-                  "text": "Az evangélikus Krisztus-templom az innsbrucki lutheránus gyülekezet központi temploma.",
-                  "category": "religious",
-                  "coords": [
-                        11.401691,
-                        47.276295
-                  ]
-            },
-            {
-                  "name": "Klosterkirche der Barmherzigen Schwestern",
-                  "text": "A kolostortemplom az irgalmas nővérek rendjéhez tartozik.",
-                  "category": "religious",
-                  "coords": [
-                        11.405193,
-                        47.279277
-                  ]
-            },
-            {
                   "name": "Petrus Canisius",
                   "text": "Modern katolikus plébániatemplom, amelyet Szent Petrus Canisiusnak szenteltek.",
                   "category": "religious",
                   "coords": [
                         11.380999,
                         47.26361
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Pradl",
-                  "text": "Az újromán stílusú plébániatemplom meghatározza Pradl városrész központját.",
-                  "category": "religious",
-                  "coords": [
-                        11.407947,
-                        47.266679
-                  ]
-            },
-            {
-                  "name": "Pfarrkiche Maria am Gestade",
-                  "text": "Modern templom Sieglanger városrészben, amelyet Szűz Máriának szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        11.364148,
-                        47.252319
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Allerheiligen",
-                  "text": "A Mindenszentek plébániatemplom egy kortárs szakrális épület Innsbruck nyugati részén.",
-                  "category": "religious",
-                  "coords": [
-                        11.355567,
-                        47.26796
                   ]
             },
             {
@@ -7632,78 +6777,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Mühlauer Brücke",
-                  "text": "Fontos közúti híd, amely a városközpontot köti össze Mühlau városrésszel.",
-                  "category": "landmark",
-                  "coords": [
-                        11.404874,
-                        47.280302
-                  ]
-            },
-            {
-                  "name": "Olympiabrücke",
-                  "text": "A hidat a téli olimpiai játékok alkalmából emelték, és a vasúti sínek felett vezet át.",
-                  "category": "landmark",
-                  "coords": [
-                        11.402589,
-                        47.257448
-                  ]
-            },
-            {
-                  "name": "Bergisel",
-                  "text": "A Bergisel egy domb Innsbruckban, amely leginkább az olimpiai síugrósáncáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        11.400137,
-                        47.246752
-                  ]
-            },
-            {
-                  "name": "Baggersee Rossau",
-                  "text": "Az innsbrucki Baggersee Rossau kellemes vízparti órákra és sétákra hívogat.",
-                  "category": "natural",
-                  "coords": [
-                        11.447011,
-                        47.265799
-                  ]
-            },
-            {
-                  "name": "Natterersee",
-                  "text": "Az Innsbruck közeli Natterersee idilli környezetet biztosít a sétákhoz és a természet élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        11.341358,
-                        47.237396
-                  ]
-            },
-            {
-                  "name": "Speicherteich Römerstraße",
-                  "text": "Az innsbrucki Speicherteich Römerstraße egy nyugodt hely, amely pihenésre és sétákra hív.",
-                  "category": "natural",
-                  "coords": [
-                        11.423279,
-                        47.218298
-                  ]
-            },
-            {
-                  "name": "Momentanspeicher Lemmenhofwiese",
-                  "text": "Az innsbrucki Lemmenhofwiese víztározója természetes környezetet biztosít rövid kirándulásokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        11.407769,
-                        47.250088
-                  ]
-            },
-            {
-                  "name": "Speicher Sillkraftwerk",
-                  "text": "Az innsbrucki Sillkraftwerk víztározója a város közelében kínál vízparti sétákat.",
-                  "category": "natural",
-                  "coords": [
-                        11.396083,
-                        47.200093
-                  ]
-            },
-            {
                   "name": "Gramartwiese",
                   "text": "Az innsbrucki Gramartwiese népszerű játszótér és zöldövezeti pihenőhely a családok számára.",
                   "category": "family",
@@ -7719,87 +6792,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.395502,
                         47.289561
-                  ]
-            },
-            {
-                  "name": "Spielplatz Siebererschule",
-                  "text": "Az innsbrucki Siebererschule játszótere helyet biztosít a gyerekeknek a mozgáshoz és a szabadtéri játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        11.403942,
-                        47.273345
-                  ]
-            },
-            {
-                  "name": "Kranewitterpark",
-                  "text": "Az innsbrucki Kranewitterpark egy kellemes zöldövezeti játszótérrel rendelkezik.",
-                  "category": "family",
-                  "coords": [
-                        11.420296,
-                        47.264648
-                  ]
-            },
-            {
-                  "name": "Widum Mühlau",
-                  "text": "Az innsbrucki Widum Mühlau játszótér játéklehetőséget biztosít a gyerekeknek nyugodt környezetben.",
-                  "category": "family",
-                  "coords": [
-                        11.41295,
-                        47.28495
-                  ]
-            },
-            {
-                  "name": "Spielplatz Wasserwerk Mühlau",
-                  "text": "Az innsbrucki Wasserwerk Mühlau melletti játszótér kikapcsolódást nyújt a gyerekeknek a szabadban.",
-                  "category": "family",
-                  "coords": [
-                        11.41382,
-                        47.287732
-                  ]
-            },
-            {
-                  "name": "Sieben Zwerge",
-                  "text": "Az innsbrucki Sieben Zwerge (Hét törpe) játszótér fantáziadús hely a kisgyermekek számára a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        11.409487,
-                        47.286988
-                  ]
-            },
-            {
-                  "name": "Schillerpark",
-                  "text": "Az innsbrucki Schillerpark központi helyen lévő játszóteret kínál családok és gyerekek számára.",
-                  "category": "family",
-                  "coords": [
-                        11.407046,
-                        47.274795
-                  ]
-            },
-            {
-                  "name": "Campagne-Areal",
-                  "text": "Az innsbrucki Campagne-Areal modern játéklehetőségeket kínál a gyerekeknek városi környezetben.",
-                  "category": "family",
-                  "coords": [
-                        11.42415,
-                        47.271022
-                  ]
-            },
-            {
-                  "name": "Mini Lollipop",
-                  "text": "Az innsbrucki Mini Lollipop védett területet biztosít a gyerekeknek a játékhoz és a felfedezéshez.",
-                  "category": "family",
-                  "coords": [
-                        11.404377,
-                        47.266508
-                  ]
-            },
-            {
-                  "name": "Tivoli",
-                  "text": "Az innsbrucki Tivoli játszótér változatos lehetőségeket kínál a hancúrozáshoz és a szabadban való játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        11.40671,
-                        47.259205
                   ]
             },
             {
@@ -7830,24 +6822,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Jahnpark",
-                  "text": "Az innsbrucki Jahnpark szépen kialakított játszóteret kínál gyerekek és családok számára.",
-                  "category": "family",
-                  "coords": [
-                        11.405986,
-                        47.270497
-                  ]
-            },
-            {
-                  "name": "Resselpark",
-                  "text": "Az innsbrucki Resselpark játszótere kikapcsolódást nyújt a városi mindennapokban.",
-                  "category": "family",
-                  "coords": [
-                        11.409851,
-                        47.260798
-                  ]
-            },
-            {
                   "name": "Prandtauerufer",
                   "text": "Az innsbrucki Prandtauerufer játéklehetőséget biztosít a gyerekeknek az Inn közvetlen közelében.",
                   "category": "family",
@@ -7863,60 +6837,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.371384,
                         47.255598
-                  ]
-            },
-            {
-                  "name": "Spielplatz Dr.-Stumpf-Straße West",
-                  "text": "Változatos játszótér Innsbruckban a gyermekek számára.",
-                  "category": "family",
-                  "coords": [
-                        11.364868,
-                        47.254101
-                  ]
-            },
-            {
-                  "name": "Martinas Bauernhof",
-                  "text": "Élménygazdaság Innsbruckban, ahol a gyerekek testközelből láthatnak állatokat.",
-                  "category": "family",
-                  "coords": [
-                        11.375264,
-                        47.243121
-                  ]
-            },
-            {
-                  "name": "Freibad Tivoli",
-                  "text": "Ismert szabadtéri strand Innsbruckban, kilátással a hegyekre.",
-                  "category": "family",
-                  "coords": [
-                        11.408454,
-                        47.260165
-                  ]
-            },
-            {
-                  "name": "Kampfbecken",
-                  "text": "Sportmedence Innsbruckban intenzív úszóedzésekhez.",
-                  "category": "family",
-                  "coords": [
-                        11.406944,
-                        47.260924
-                  ]
-            },
-            {
-                  "name": "Lansersee",
-                  "text": "Festői tó Innsbruck közelében, ideális úszáshoz és napozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        11.41715,
-                        47.240273
-                  ]
-            },
-            {
-                  "name": "H32",
-                  "text": "Innsbrucki uszoda, amely lehetőséget biztosít az úszni vágyók számára.",
-                  "category": "recreational",
-                  "coords": [
-                        11.355943,
-                        47.257174
                   ]
             }
       ],
@@ -7967,15 +6887,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tirol Panorama",
-                  "text": "Muzeul găzduiește pictura panoramică monumentală despre luptele pentru libertate ale tirolezilor.",
-                  "category": "museum",
-                  "coords": [
-                        11.401576,
-                        47.250476
-                  ]
-            },
-            {
                   "name": "Palais Fugger-Taxis",
                   "text": "Un palat istoric din orașul vechi Innsbruck, care astăzi găzduiește birouri publice.",
                   "category": "castle",
@@ -8000,15 +6911,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.397733,
                         47.267323
-                  ]
-            },
-            {
-                  "name": "Kastell von Veldidena",
-                  "text": "Rămășițe arheologice ale unei importante așezări romane și stații militare.",
-                  "category": "historical",
-                  "coords": [
-                        11.400887,
-                        47.255688
                   ]
             },
             {
@@ -8066,24 +6968,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Israelitische Kultusgemeinde für  Tirol und Vorarlberg",
-                  "text": "Centrul religios și social al comunității evreiești din Tirol și Vorarlberg.",
-                  "category": "religious",
-                  "coords": [
-                        11.399627,
-                        47.268026
-                  ]
-            },
-            {
-                  "name": "Stiftskirche Wilten",
-                  "text": "O importantă abație premonstratensă cu o istorie lungă și dotări baroce bogate.",
-                  "category": "religious",
-                  "coords": [
-                        11.40046,
-                        47.253725
-                  ]
-            },
-            {
                   "name": "Alte Höttinger Kirche",
                   "text": "Vechea biserică parohială din Hötting este o clădire sacră istorică proeminentă pe versant.",
                   "category": "religious",
@@ -8111,48 +6995,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Maria Himmelfahrt",
-                  "text": "Biserica parohială a cartierului Amras este dedicată Înălțării Fecioarei Maria.",
-                  "category": "religious",
-                  "coords": [
-                        11.429017,
-                        47.259501
-                  ]
-            },
-            {
-                  "name": "St. Pirmin",
-                  "text": "O biserică parohială catolică modernă în cartierul Reichenau din Innsbruck.",
-                  "category": "religious",
-                  "coords": [
-                        11.425828,
-                        47.269607
-                  ]
-            },
-            {
                   "name": "Spitalskirche",
                   "text": "Biserica barocă centrală de pe Maria-Theresien-Straße este cunoscută pentru fațada sa splendidă.",
                   "category": "religious",
                   "coords": [
                         11.393436,
                         47.266597
-                  ]
-            },
-            {
-                  "name": "Kapuzinerkirche",
-                  "text": "Biserica mănăstirii capucine este un edificiu sacru simplu, cu importanță istorică.",
-                  "category": "religious",
-                  "coords": [
-                        11.400305,
-                        47.270052
-                  ]
-            },
-            {
-                  "name": "Dreiheiligen",
-                  "text": "O biserică votivă ridicată ca mulțumire pentru sfârșitul unei epidemii de ciumă.",
-                  "category": "religious",
-                  "coords": [
-                        11.40271,
-                        47.26813
                   ]
             },
             {
@@ -8165,75 +7013,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Siebenkapellenkirche",
-                  "text": "O biserică istorică din Innsbruck, care își trage numele de la cele șapte capele care o înconjurau odinioară.",
-                  "category": "religious",
-                  "coords": [
-                        11.406351,
-                        47.271415
-                  ]
-            },
-            {
-                  "name": "Pauluskirche",
-                  "text": "Biserica parohială catolică Sfântul Pavel este un edificiu sacru modern în estul orașului.",
-                  "category": "religious",
-                  "coords": [
-                        11.416468,
-                        47.273005
-                  ]
-            },
-            {
-                  "name": "Evangelische Christuskirche",
-                  "text": "Biserica evanghelică a lui Hristos este lăcașul de cult central al comunității luterane din Innsbruck.",
-                  "category": "religious",
-                  "coords": [
-                        11.401691,
-                        47.276295
-                  ]
-            },
-            {
-                  "name": "Klosterkirche der Barmherzigen Schwestern",
-                  "text": "Biserica mănăstirii aparține conventului Surorilor de Caritate ale Sfântului Vincențiu de Paul.",
-                  "category": "religious",
-                  "coords": [
-                        11.405193,
-                        47.279277
-                  ]
-            },
-            {
                   "name": "Petrus Canisius",
                   "text": "O biserică parohială catolică modernă, dedicată Sfântului Petru Canisius.",
                   "category": "religious",
                   "coords": [
                         11.380999,
                         47.26361
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Pradl",
-                  "text": "Biserica parohială neoromanică domină centrul cartierului Pradl.",
-                  "category": "religious",
-                  "coords": [
-                        11.407947,
-                        47.266679
-                  ]
-            },
-            {
-                  "name": "Pfarrkiche Maria am Gestade",
-                  "text": "O biserică modernă în cartierul Sieglanger, dedicată Fecioarei Maria.",
-                  "category": "religious",
-                  "coords": [
-                        11.364148,
-                        47.252319
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Allerheiligen",
-                  "text": "Biserica parohială Allerheiligen este un edificiu sacru contemporan în vestul orașului Innsbruck.",
-                  "category": "religious",
-                  "coords": [
-                        11.355567,
-                        47.26796
                   ]
             },
             {
@@ -8318,78 +7103,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Mühlauer Brücke",
-                  "text": "Un important pod rutier care conectează zona orașului cu cartierul Mühlau.",
-                  "category": "landmark",
-                  "coords": [
-                        11.404874,
-                        47.280302
-                  ]
-            },
-            {
-                  "name": "Olympiabrücke",
-                  "text": "Podul a fost construit cu ocazia Jocurilor Olimpice de iarnă și traversează liniile de cale ferată.",
-                  "category": "landmark",
-                  "coords": [
-                        11.402589,
-                        47.257448
-                  ]
-            },
-            {
-                  "name": "Bergisel",
-                  "text": "Bergisel este un deal din Innsbruck, renumit în special pentru trambulina sa de sărituri cu schiurile.",
-                  "category": "natural",
-                  "coords": [
-                        11.400137,
-                        47.246752
-                  ]
-            },
-            {
-                  "name": "Baggersee Rossau",
-                  "text": "Baggersee Rossau din Innsbruck invită la ore relaxante lângă apă și la plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        11.447011,
-                        47.265799
-                  ]
-            },
-            {
-                  "name": "Natterersee",
-                  "text": "Natterersee de lângă Innsbruck oferă un cadru idilic pentru plimbări și bucuria de a fi în natură.",
-                  "category": "natural",
-                  "coords": [
-                        11.341358,
-                        47.237396
-                  ]
-            },
-            {
-                  "name": "Speicherteich Römerstraße",
-                  "text": "Speicherteich Römerstraße din Innsbruck este un loc liniștit, care invită la relaxare și plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        11.423279,
-                        47.218298
-                  ]
-            },
-            {
-                  "name": "Momentanspeicher Lemmenhofwiese",
-                  "text": "Momentanspeicher Lemmenhofwiese din Innsbruck oferă un mediu natural pentru scurte excursii.",
-                  "category": "natural",
-                  "coords": [
-                        11.407769,
-                        47.250088
-                  ]
-            },
-            {
-                  "name": "Speicher Sillkraftwerk",
-                  "text": "Rezervorul Sillkraftwerk din Innsbruck invită la plimbări lângă apă în apropierea orașului.",
-                  "category": "natural",
-                  "coords": [
-                        11.396083,
-                        47.200093
-                  ]
-            },
-            {
                   "name": "Gramartwiese",
                   "text": "Gramartwiese din Innsbruck este un loc de joacă și de recreere popular în natură pentru familii.",
                   "category": "family",
@@ -8405,87 +7118,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.395502,
                         47.289561
-                  ]
-            },
-            {
-                  "name": "Spielplatz Siebererschule",
-                  "text": "Locul de joacă al școlii Siebererschule din Innsbruck oferă copiilor spațiu pentru mișcare și joacă în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        11.403942,
-                        47.273345
-                  ]
-            },
-            {
-                  "name": "Kranewitterpark",
-                  "text": "Kranewitterpark din Innsbruck dispune de un loc de joacă într-o zonă verde plăcută.",
-                  "category": "family",
-                  "coords": [
-                        11.420296,
-                        47.264648
-                  ]
-            },
-            {
-                  "name": "Widum Mühlau",
-                  "text": "Locul de joacă Widum Mühlau din Innsbruck oferă facilități de joacă pentru copii într-un mediu liniștit.",
-                  "category": "family",
-                  "coords": [
-                        11.41295,
-                        47.28495
-                  ]
-            },
-            {
-                  "name": "Spielplatz Wasserwerk Mühlau",
-                  "text": "Locul de joacă de la stația de apă Mühlau din Innsbruck oferă divertisment pentru copii în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        11.41382,
-                        47.287732
-                  ]
-            },
-            {
-                  "name": "Sieben Zwerge",
-                  "text": "Locul de joacă Sieben Zwerge din Innsbruck este un loc plin de imaginație pentru copiii mici.",
-                  "category": "family",
-                  "coords": [
-                        11.409487,
-                        47.286988
-                  ]
-            },
-            {
-                  "name": "Schillerpark",
-                  "text": "Schillerpark din Innsbruck oferă un loc de joacă situat central pentru familii și copii.",
-                  "category": "family",
-                  "coords": [
-                        11.407046,
-                        47.274795
-                  ]
-            },
-            {
-                  "name": "Campagne-Areal",
-                  "text": "Campagne-Areal din Innsbruck oferă facilități de joacă moderne pentru copii în spațiul urban.",
-                  "category": "family",
-                  "coords": [
-                        11.42415,
-                        47.271022
-                  ]
-            },
-            {
-                  "name": "Mini Lollipop",
-                  "text": "Mini Lollipop din Innsbruck oferă o zonă protejată pentru copii, pentru joacă și explorare.",
-                  "category": "family",
-                  "coords": [
-                        11.404377,
-                        47.266508
-                  ]
-            },
-            {
-                  "name": "Tivoli",
-                  "text": "Locul de joacă Tivoli din Innsbruck oferă diverse posibilități pentru mișcare și joacă în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        11.40671,
-                        47.259205
                   ]
             },
             {
@@ -8516,24 +7148,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Jahnpark",
-                  "text": "Jahnpark din Innsbruck oferă un loc de joacă frumos amenajat pentru copii și familii.",
-                  "category": "family",
-                  "coords": [
-                        11.405986,
-                        47.270497
-                  ]
-            },
-            {
-                  "name": "Resselpark",
-                  "text": "Resselpark din Innsbruck dispune de un loc de joacă care oferă diversitate în viața urbană de zi cu zi.",
-                  "category": "family",
-                  "coords": [
-                        11.409851,
-                        47.260798
-                  ]
-            },
-            {
                   "name": "Prandtauerufer",
                   "text": "Prandtauerufer din Innsbruck oferă facilități de joacă pentru copii în imediata apropiere a râului Inn.",
                   "category": "family",
@@ -8549,60 +7163,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.371384,
                         47.255598
-                  ]
-            },
-            {
-                  "name": "Spielplatz Dr.-Stumpf-Straße West",
-                  "text": "Un loc de joacă variat în Innsbruck pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        11.364868,
-                        47.254101
-                  ]
-            },
-            {
-                  "name": "Martinas Bauernhof",
-                  "text": "O fermă de aventură în Innsbruck, unde copiii pot experimenta animalele de aproape.",
-                  "category": "family",
-                  "coords": [
-                        11.375264,
-                        47.243121
-                  ]
-            },
-            {
-                  "name": "Freibad Tivoli",
-                  "text": "O piscină cunoscută în aer liber din Innsbruck, cu vedere la munți.",
-                  "category": "family",
-                  "coords": [
-                        11.408454,
-                        47.260165
-                  ]
-            },
-            {
-                  "name": "Kampfbecken",
-                  "text": "O piscină sportivă în Innsbruck pentru antrenamente intense de înot.",
-                  "category": "family",
-                  "coords": [
-                        11.406944,
-                        47.260924
-                  ]
-            },
-            {
-                  "name": "Lansersee",
-                  "text": "Un lac pitoresc lângă Innsbruck, ideal pentru înot și plajă.",
-                  "category": "family",
-                  "coords": [
-                        11.41715,
-                        47.240273
-                  ]
-            },
-            {
-                  "name": "H32",
-                  "text": "O piscină în Innsbruck, care oferă facilități pentru înotătorii amatori și profesioniști.",
-                  "category": "recreational",
-                  "coords": [
-                        11.355943,
-                        47.257174
                   ]
             }
       ],
@@ -8653,15 +7213,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tirol Panorama",
-                  "text": "The museum houses the monumental giant panoramic painting of the Tyrolean rebellion.",
-                  "category": "museum",
-                  "coords": [
-                        11.401576,
-                        47.250476
-                  ]
-            },
-            {
                   "name": "Palais Fugger-Taxis",
                   "text": "A historic palace in Innsbruck's old town, now housing public offices.",
                   "category": "castle",
@@ -8686,15 +7237,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.397733,
                         47.267323
-                  ]
-            },
-            {
-                  "name": "Kastell von Veldidena",
-                  "text": "Archaeological remains of a significant Roman settlement and military station.",
-                  "category": "historical",
-                  "coords": [
-                        11.400887,
-                        47.255688
                   ]
             },
             {
@@ -8752,24 +7294,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Israelitische Kultusgemeinde für  Tirol und Vorarlberg",
-                  "text": "The religious and social center of the Jewish community in Tyrol and Vorarlberg.",
-                  "category": "religious",
-                  "coords": [
-                        11.399627,
-                        47.268026
-                  ]
-            },
-            {
-                  "name": "Wilten Abbey",
-                  "text": "A significant Premonstratensian abbey with a long history and rich Baroque furnishings.",
-                  "category": "religious",
-                  "coords": [
-                        11.40046,
-                        47.253725
-                  ]
-            },
-            {
                   "name": "Alte Höttinger Kirche",
                   "text": "The old parish church of Hötting is a prominent historic sacred building on the hillside.",
                   "category": "religious",
@@ -8797,48 +7321,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Maria Himmelfahrt",
-                  "text": "The parish church of the Amras district is dedicated to the Assumption of Mary.",
-                  "category": "religious",
-                  "coords": [
-                        11.429017,
-                        47.259501
-                  ]
-            },
-            {
-                  "name": "St. Pirmin",
-                  "text": "A modern Catholic parish church in the Reichenau district of Innsbruck.",
-                  "category": "religious",
-                  "coords": [
-                        11.425828,
-                        47.269607
-                  ]
-            },
-            {
                   "name": "Hospital Church",
                   "text": "The central Baroque church on Maria-Theresien-Straße is known for its magnificent facade.",
                   "category": "religious",
                   "coords": [
                         11.393436,
                         47.266597
-                  ]
-            },
-            {
-                  "name": "Kapuzinerkirche",
-                  "text": "The church of the Capuchin monastery is a simple sacred building of historical significance.",
-                  "category": "religious",
-                  "coords": [
-                        11.400305,
-                        47.270052
-                  ]
-            },
-            {
-                  "name": "Dreiheiligen",
-                  "text": "A votive church erected in gratitude for the end of a plague epidemic.",
-                  "category": "religious",
-                  "coords": [
-                        11.40271,
-                        47.26813
                   ]
             },
             {
@@ -8851,75 +7339,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Siebenkapellenkirche",
-                  "text": "A historic church in Innsbruck that takes its name from the seven chapels that formerly surrounded it.",
-                  "category": "religious",
-                  "coords": [
-                        11.406351,
-                        47.271415
-                  ]
-            },
-            {
-                  "name": "Pauluskirche",
-                  "text": "The Catholic parish church of St. Paul is a modern sacred building in the east of the city.",
-                  "category": "religious",
-                  "coords": [
-                        11.416468,
-                        47.273005
-                  ]
-            },
-            {
-                  "name": "Evangelical Church of Christ",
-                  "text": "The evangelical Church of Christ is the central place of worship for the Lutheran community in Innsbruck.",
-                  "category": "religious",
-                  "coords": [
-                        11.401691,
-                        47.276295
-                  ]
-            },
-            {
-                  "name": "Klosterkirche der Barmherzigen Schwestern",
-                  "text": "The monastery church belongs to the convent of the Sisters of Mercy of St. Vincent de Paul.",
-                  "category": "religious",
-                  "coords": [
-                        11.405193,
-                        47.279277
-                  ]
-            },
-            {
                   "name": "Petrus Canisius",
                   "text": "A modern Catholic parish church dedicated to Saint Peter Canisius.",
                   "category": "religious",
                   "coords": [
                         11.380999,
                         47.26361
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Pradl",
-                  "text": "The neo-Romanesque parish church dominates the center of the Pradl district.",
-                  "category": "religious",
-                  "coords": [
-                        11.407947,
-                        47.266679
-                  ]
-            },
-            {
-                  "name": "Pfarrkiche Maria am Gestade",
-                  "text": "A modern church in the Sieglanger district dedicated to Mary on the Banks.",
-                  "category": "religious",
-                  "coords": [
-                        11.364148,
-                        47.252319
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche Allerheiligen",
-                  "text": "The Allerheiligen parish church is a contemporary sacred building in the west of Innsbruck.",
-                  "category": "religious",
-                  "coords": [
-                        11.355567,
-                        47.26796
                   ]
             },
             {
@@ -9004,78 +7429,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Mühlauer Brücke",
-                  "text": "An important road bridge connecting the city area with the Mühlau district.",
-                  "category": "landmark",
-                  "coords": [
-                        11.404874,
-                        47.280302
-                  ]
-            },
-            {
-                  "name": "Olympiabrücke",
-                  "text": "The bridge was built for the Winter Olympics and passes over the railway tracks.",
-                  "category": "landmark",
-                  "coords": [
-                        11.402589,
-                        47.257448
-                  ]
-            },
-            {
-                  "name": "Bergisel",
-                  "text": "Bergisel is a hill in Innsbruck, famous primarily for its Olympic ski jump ramp.",
-                  "category": "natural",
-                  "coords": [
-                        11.400137,
-                        47.246752
-                  ]
-            },
-            {
-                  "name": "Baggersee Rossau",
-                  "text": "The Baggersee Rossau in Innsbruck invites for relaxing hours by the water and walks.",
-                  "category": "natural",
-                  "coords": [
-                        11.447011,
-                        47.265799
-                  ]
-            },
-            {
-                  "name": "Natterersee",
-                  "text": "The Natterersee near Innsbruck offers an idyllic setting for walks and enjoying nature.",
-                  "category": "natural",
-                  "coords": [
-                        11.341358,
-                        47.237396
-                  ]
-            },
-            {
-                  "name": "Speicherteich Römerstraße",
-                  "text": "The Speicherteich Römerstraße in Innsbruck is a quiet spot that invites for lingering and walking.",
-                  "category": "natural",
-                  "coords": [
-                        11.423279,
-                        47.218298
-                  ]
-            },
-            {
-                  "name": "Momentanspeicher Lemmenhofwiese",
-                  "text": "The Lemmenhofwiese reservoir in Innsbruck offers a natural setting for short excursions.",
-                  "category": "natural",
-                  "coords": [
-                        11.407769,
-                        47.250088
-                  ]
-            },
-            {
-                  "name": "Speicher Sillkraftwerk",
-                  "text": "The Sillkraftwerk reservoir in Innsbruck invites for walks by the water close to the city.",
-                  "category": "natural",
-                  "coords": [
-                        11.396083,
-                        47.200093
-                  ]
-            },
-            {
                   "name": "Gramartwiese",
                   "text": "The Gramartwiese in Innsbruck is a popular playground and green recreation area for families.",
                   "category": "family",
@@ -9091,87 +7444,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.395502,
                         47.289561
-                  ]
-            },
-            {
-                  "name": "Spielplatz Siebererschule",
-                  "text": "The playground of the Siebererschule in Innsbruck offers children space for movement and outdoor play.",
-                  "category": "family",
-                  "coords": [
-                        11.403942,
-                        47.273345
-                  ]
-            },
-            {
-                  "name": "Kranewitterpark",
-                  "text": "The Kranewitterpark in Innsbruck features a playground in a pleasant green area.",
-                  "category": "family",
-                  "coords": [
-                        11.420296,
-                        47.264648
-                  ]
-            },
-            {
-                  "name": "Widum Mühlau",
-                  "text": "The Widum Mühlau playground in Innsbruck offers play opportunities for children in a quiet environment.",
-                  "category": "family",
-                  "coords": [
-                        11.41295,
-                        47.28495
-                  ]
-            },
-            {
-                  "name": "Spielplatz Wasserwerk Mühlau",
-                  "text": "The playground at the Mühlau waterworks in Innsbruck offers variety for children outdoors.",
-                  "category": "family",
-                  "coords": [
-                        11.41382,
-                        47.287732
-                  ]
-            },
-            {
-                  "name": "Sieben Zwerge",
-                  "text": "The Sieben Zwerge playground in Innsbruck is an imaginative place for small children to play.",
-                  "category": "family",
-                  "coords": [
-                        11.409487,
-                        47.286988
-                  ]
-            },
-            {
-                  "name": "Schillerpark",
-                  "text": "The Schillerpark in Innsbruck offers a centrally located playground for families and children.",
-                  "category": "family",
-                  "coords": [
-                        11.407046,
-                        47.274795
-                  ]
-            },
-            {
-                  "name": "Campagne-Areal",
-                  "text": "The Campagne-Areal in Innsbruck offers modern play opportunities for children in an urban setting.",
-                  "category": "family",
-                  "coords": [
-                        11.42415,
-                        47.271022
-                  ]
-            },
-            {
-                  "name": "Mini Lollipop",
-                  "text": "Mini Lollipop in Innsbruck offers a protected area for children to play and discover.",
-                  "category": "family",
-                  "coords": [
-                        11.404377,
-                        47.266508
-                  ]
-            },
-            {
-                  "name": "Tivoli",
-                  "text": "The Tivoli playground in Innsbruck offers various opportunities for romping and playing outdoors.",
-                  "category": "family",
-                  "coords": [
-                        11.40671,
-                        47.259205
                   ]
             },
             {
@@ -9202,24 +7474,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Jahnpark",
-                  "text": "The Jahnpark in Innsbruck offers a beautifully laid out playground for children and families.",
-                  "category": "family",
-                  "coords": [
-                        11.405986,
-                        47.270497
-                  ]
-            },
-            {
-                  "name": "Resselpark",
-                  "text": "The Resselpark in Innsbruck features a playground that offers variety in urban daily life.",
-                  "category": "family",
-                  "coords": [
-                        11.409851,
-                        47.260798
-                  ]
-            },
-            {
                   "name": "Prandtauerufer",
                   "text": "The Prandtauerufer in Innsbruck offers play opportunities for children in the immediate vicinity of the Inn river.",
                   "category": "family",
@@ -9235,60 +7489,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         11.371384,
                         47.255598
-                  ]
-            },
-            {
-                  "name": "Spielplatz Dr.-Stumpf-Straße West",
-                  "text": "A diverse playground in Innsbruck for children.",
-                  "category": "family",
-                  "coords": [
-                        11.364868,
-                        47.254101
-                  ]
-            },
-            {
-                  "name": "Martinas Bauernhof",
-                  "text": "An adventure farm in Innsbruck where children can experience animals up close.",
-                  "category": "family",
-                  "coords": [
-                        11.375264,
-                        47.243121
-                  ]
-            },
-            {
-                  "name": "Freibad Tivoli",
-                  "text": "A well-known outdoor pool in Innsbruck with mountain views.",
-                  "category": "family",
-                  "coords": [
-                        11.408454,
-                        47.260165
-                  ]
-            },
-            {
-                  "name": "Kampfbecken",
-                  "text": "A sports pool in Innsbruck for intensive swimming training.",
-                  "category": "family",
-                  "coords": [
-                        11.406944,
-                        47.260924
-                  ]
-            },
-            {
-                  "name": "Lansersee",
-                  "text": "A picturesque lake near Innsbruck, ideal for swimming and sunbathing.",
-                  "category": "family",
-                  "coords": [
-                        11.41715,
-                        47.240273
-                  ]
-            },
-            {
-                  "name": "H32",
-                  "text": "A swimming pool in Innsbruck providing facilities for swimmers and water enthusiasts.",
-                  "category": "recreational",
-                  "coords": [
-                        11.355943,
-                        47.257174
                   ]
             }
       ]
@@ -9328,15 +7528,6 @@ export const austriaCities: POI[] = [
     id: "AT-Klagenfurt", "sights": {
       "de": [
             {
-                  "name": "Museum Moderner Kunst Kärnten",
-                  "text": "Ein Museum in der Klagenfurter Burg, das zeitgenössische Kunst und Kärntner Klassiker präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        14.310132,
-                        46.62417
-                  ]
-            },
-            {
                   "name": "Eboardmuseum",
                   "text": "Ein einzigartiges Museum in Klagenfurt, das sich elektronischen Tasteninstrumenten widmet.",
                   "category": "museum",
@@ -9352,15 +7543,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.309381,
                         46.622353
-                  ]
-            },
-            {
-                  "name": "Robert Musil Museum",
-                  "text": "Das Geburtshaus des Schriftstellers Robert Musil dient heute als Literaturmuseum und Forschungsstätte.",
-                  "category": "museum",
-                  "coords": [
-                        14.313034,
-                        46.616579
                   ]
             },
             {
@@ -9760,24 +7942,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Schloss Welzenegg",
-                  "text": "Ein Renaissance-Schloss im Osten der Stadt Klagenfurt.",
-                  "category": "castle",
-                  "coords": [
-                        14.332251,
-                        46.628315
-                  ]
-            },
-            {
-                  "name": "Landesmuseum Karnten",
-                  "text": "Das Kärntner Landesmuseum zeigt Exponate zu Archäologie, Kunst und Natur.",
-                  "category": "museum",
-                  "coords": [
-                        14.312461,
-                        46.621046
-                  ]
-            },
-            {
                   "name": "Schloss Zigguln",
                   "text": "Historisches Schloss und Anwesen am Stadtrand von Klagenfurt.",
                   "category": "castle",
@@ -9788,15 +7952,6 @@ export const austriaCities: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Museum Moderner Kunst Kärnten",
-                  "text": "Klagenfurt várában található múzeum, amely kortárs művészetet és karintiai klasszikusokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        14.310132,
-                        46.62417
-                  ]
-            },
             {
                   "name": "Eboardmuseum",
                   "text": "Egyedülálló klagenfurti múzeum, amelyet elektronikus billentyűs hangszereknek szenteltek.",
@@ -9813,15 +7968,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.309381,
                         46.622353
-                  ]
-            },
-            {
-                  "name": "Robert Musil Museum",
-                  "text": "Robert Musil író szülőháza ma irodalmi múzeumként és kutatóhelyként szolgál.",
-                  "category": "museum",
-                  "coords": [
-                        14.313034,
-                        46.616579
                   ]
             },
             {
@@ -10221,24 +8367,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Schloss Welzenegg",
-                  "text": "Reneszánsz kastély Klagenfurt városának keleti részén.",
-                  "category": "castle",
-                  "coords": [
-                        14.332251,
-                        46.628315
-                  ]
-            },
-            {
-                  "name": "Landesmuseum Karnten",
-                  "text": "A Karintiai Tartományi Múzeum régészeti, művészeti és természeti tárgyakat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        14.312461,
-                        46.621046
-                  ]
-            },
-            {
                   "name": "Schloss Zigguln",
                   "text": "Történelmi kastély és birtok Klagenfurt szélén.",
                   "category": "castle",
@@ -10249,15 +8377,6 @@ export const austriaCities: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Museum Moderner Kunst Kärnten",
-                  "text": "Un muzeu din castelul Klagenfurt care prezintă artă contemporană și clasici din Carintia.",
-                  "category": "museum",
-                  "coords": [
-                        14.310132,
-                        46.62417
-                  ]
-            },
             {
                   "name": "Eboardmuseum",
                   "text": "Un muzeu unic din Klagenfurt dedicat instrumentelor cu claviatură electronice.",
@@ -10274,15 +8393,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.309381,
                         46.622353
-                  ]
-            },
-            {
-                  "name": "Robert Musil Museum",
-                  "text": "Casa natală a scriitorului Robert Musil servește astăzi drept muzeu literar și centru de cercetare.",
-                  "category": "museum",
-                  "coords": [
-                        14.313034,
-                        46.616579
                   ]
             },
             {
@@ -10682,24 +8792,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Schloss Welzenegg",
-                  "text": "Un castel renascentist în estul orașului Klagenfurt.",
-                  "category": "castle",
-                  "coords": [
-                        14.332251,
-                        46.628315
-                  ]
-            },
-            {
-                  "name": "Landesmuseum Karnten",
-                  "text": "Muzeul de Stat al Carintiei expune obiecte de arheologie, artă și natură.",
-                  "category": "museum",
-                  "coords": [
-                        14.312461,
-                        46.621046
-                  ]
-            },
-            {
                   "name": "Schloss Zigguln",
                   "text": "Castel istoric și domeniu la marginea orașului Klagenfurt.",
                   "category": "castle",
@@ -10710,15 +8802,6 @@ export const austriaCities: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Museum Moderner Kunst Kärnten",
-                  "text": "A museum in the Klagenfurt Castle presenting contemporary art and Carinthian classics.",
-                  "category": "museum",
-                  "coords": [
-                        14.310132,
-                        46.62417
-                  ]
-            },
             {
                   "name": "Eboardmuseum",
                   "text": "A unique museum in Klagenfurt dedicated to electronic keyboard instruments.",
@@ -10735,15 +8818,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.309381,
                         46.622353
-                  ]
-            },
-            {
-                  "name": "Robert Musil Museum",
-                  "text": "The birthplace of writer Robert Musil now serves as a literary museum and research center.",
-                  "category": "museum",
-                  "coords": [
-                        14.313034,
-                        46.616579
                   ]
             },
             {
@@ -11143,24 +9217,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Schloss Welzenegg",
-                  "text": "A Renaissance castle in the east of the city of Klagenfurt.",
-                  "category": "castle",
-                  "coords": [
-                        14.332251,
-                        46.628315
-                  ]
-            },
-            {
-                  "name": "Landesmuseum Karnten",
-                  "text": "The Carinthian State Museum displays exhibits on archaeology, art, and nature.",
-                  "category": "museum",
-                  "coords": [
-                        14.312461,
-                        46.621046
-                  ]
-            },
-            {
                   "name": "Schloss Zigguln",
                   "text": "Historic castle and estate on the outskirts of Klagenfurt.",
                   "category": "castle",
@@ -11252,15 +9308,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Naturschutzgebiet Mehrerauer Seeufer – Bregenzerachmündung",
-                  "text": "Dies ist ein Naturschutzgebiet an der Mündung der Bregenzerach in den Bodensee in Bregenz.",
-                  "category": "natural",
-                  "coords": [
-                        9.70601,
-                        47.500601
-                  ]
-            },
-            {
                   "name": "Alpenwildpark Pfänder",
                   "text": "Der Alpenwildpark Pfänder ist ein Zoo in Bregenz.",
                   "category": "family",
@@ -11324,15 +9371,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Villa Grünau",
-                  "text": "Die Villa Grünau ist eine historische und architektonisch bedeutsame Villa in Bregenz.",
-                  "category": "landmark",
-                  "coords": [
-                        9.762376,
-                        47.4791
-                  ]
-            },
-            {
                   "name": "Känzele",
                   "text": "Das Känzele ist ein beliebter Aussichtspunkt in der Nähe des Gebhardsbergs in Bregenz.",
                   "category": "natural",
@@ -11357,15 +9395,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         9.747027,
                         47.50094
-                  ]
-            },
-            {
-                  "name": "Hofsteigsaal Lauterach",
-                  "text": "Der Hofsteigsaal Lauterach ist ein Kunstzentrum in Bregenz.",
-                  "category": "cultural",
-                  "coords": [
-                        9.730814,
-                        47.481075
                   ]
             },
             {
@@ -11504,15 +9533,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hl. Josef",
-                  "text": "Hl. Josef ist ein lokales Gotteshaus in Bregenz.",
-                  "category": "religious",
-                  "coords": [
-                        9.766066,
-                        47.480272
-                  ]
-            },
-            {
                   "name": "Nepomukkapelle",
                   "text": "Die Nepomukkapelle ist ein bekanntes barockes Gotteshaus in Bregenz.",
                   "category": "religious",
@@ -11594,24 +9614,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Möckle Weiher",
-                  "text": "Der Möckle Weiher in Bregenz bietet eine ruhige Naturkulisse für entspannte Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        9.716245,
-                        47.443666
-                  ]
-            },
-            {
-                  "name": "Schleienloch",
-                  "text": "Das Schleienloch in Bregenz ist ein idyllischer Ort für Naturliebhaber und Spaziergänger.",
-                  "category": "natural",
-                  "coords": [
-                        9.673412,
-                        47.495179
-                  ]
-            },
-            {
                   "name": "Bregenzer Sporthafen",
                   "text": "Der Bregenzer Sporthafen bietet eine maritime Atmosphäre für einen Spaziergang am Wasser.",
                   "category": "natural",
@@ -11630,39 +9632,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bodensee",
-                  "text": "Der Bodensee in Bregenz bietet weite Ausblicke und vielfältige Möglichkeiten für Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        9.30627,
-                        47.647787
-                  ]
-            },
-            {
-                  "name": "Auhafenteich",
-                  "text": "Der Auhafenteich in Bregenz bietet eine ruhige Atmosphäre für einen Spaziergang in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        9.689407,
-                        47.502258
-                  ]
-            },
-            {
                   "name": "Spielplatz Lehenweg",
                   "text": "Der Spielplatz Lehenweg in Bregenz bietet Kindern eine sichere und schöne Fläche zum Spielen.",
                   "category": "family",
                   "coords": [
                         9.72064,
                         47.495127
-                  ]
-            },
-            {
-                  "name": "Achspieli Lauterach",
-                  "text": "Ein schöner Spielplatz in Bregenz, der viel Platz zum Toben für Kinder bietet.",
-                  "category": "family",
-                  "coords": [
-                        9.734273,
-                        47.484994
                   ]
             },
             {
@@ -11681,42 +9656,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         9.75442,
                         47.511966
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kaisermannstraße",
-                  "text": "Ein kinderfreundlicher Spielplatz in Bregenz mit verschiedenen Spielgeräten.",
-                  "category": "family",
-                  "coords": [
-                        9.721494,
-                        47.488398
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Margarethendamm",
-                  "text": "Ein schöner Ort in Bregenz, an dem Kinder sicher spielen und sich austoben können.",
-                  "category": "family",
-                  "coords": [
-                        9.711769,
-                        47.486405
-                  ]
-            },
-            {
-                  "name": "Spielplatz an der Ach",
-                  "text": "Dieser Spielplatz in Bregenz bietet Kindern eine tolle Umgebung für Bewegung an der frischen Luft.",
-                  "category": "family",
-                  "coords": [
-                        9.748688,
-                        47.482017
-                  ]
-            },
-            {
-                  "name": "Spielplatz Steinachstraße",
-                  "text": "Ein einladender Spielplatz in Bregenz für Kinder jeden Alters.",
-                  "category": "family",
-                  "coords": [
-                        9.71395,
-                        47.492414
                   ]
             },
             {
@@ -11821,15 +9760,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Naturschutzgebiet Mehrerauer Seeufer – Bregenzerachmündung",
-                  "text": "Ez egy természetvédelmi terület a Bregenzerach folyó torkolatánál, a Bódeni-tónál Bregenzben.",
-                  "category": "natural",
-                  "coords": [
-                        9.70601,
-                        47.500601
-                  ]
-            },
-            {
                   "name": "Alpenwildpark Pfänder",
                   "text": "Az Alpenwildpark Pfänder egy állatkert Bregenzben.",
                   "category": "family",
@@ -11893,15 +9823,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Villa Grünau",
-                  "text": "A Villa Grünau egy történelmi és építészeti szempontból jelentős villa Bregenzben.",
-                  "category": "landmark",
-                  "coords": [
-                        9.762376,
-                        47.4791
-                  ]
-            },
-            {
                   "name": "Känzele",
                   "text": "A Känzele egy népszerű kilátó a Gebhardsberg közelében Bregenzben.",
                   "category": "natural",
@@ -11926,15 +9847,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         9.747027,
                         47.50094
-                  ]
-            },
-            {
-                  "name": "Hofsteigsaal Lauterach",
-                  "text": "A Hofsteigsaal Lauterach egy művészeti központ Bregenzben.",
-                  "category": "cultural",
-                  "coords": [
-                        9.730814,
-                        47.481075
                   ]
             },
             {
@@ -12073,15 +9985,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hl. Josef",
-                  "text": "A Hl. Josef egy helyi istentiszteleti hely Bregenz területén.",
-                  "category": "religious",
-                  "coords": [
-                        9.766066,
-                        47.480272
-                  ]
-            },
-            {
                   "name": "Nepomukkapelle",
                   "text": "A Nepomukkapelle egy nevezetes barokk istentiszteleti hely Bregenzben.",
                   "category": "religious",
@@ -12163,24 +10066,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Möckle Weiher",
-                  "text": "A Bregenz közelében található Möckle Weiher kellemes környezetet biztosít a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        9.716245,
-                        47.443666
-                  ]
-            },
-            {
-                  "name": "Schleienloch",
-                  "text": "A Bregenz területén fekvő Schleienloch festői környezetet kínál a kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        9.673412,
-                        47.495179
-                  ]
-            },
-            {
                   "name": "Bregenzer Sporthafen",
                   "text": "A Bregenzer Sporthafen kellemes vízparti környezetet biztosít a kikapcsolódáshoz.",
                   "category": "natural",
@@ -12199,39 +10084,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bodensee",
-                  "text": "A Bregenz városánál fekvő Bódeni-tó csodás panorámát és sétalehetőségeket kínál.",
-                  "category": "natural",
-                  "coords": [
-                        9.30627,
-                        47.647787
-                  ]
-            },
-            {
-                  "name": "Auhafenteich",
-                  "text": "A Bregenz területén található Auhafenteich csendes környezetet biztosít a pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        9.689407,
-                        47.502258
-                  ]
-            },
-            {
                   "name": "Spielplatz Lehenweg",
                   "text": "A bregenzi Lehenweg játszótér vidám szórakozást és biztonságos játékteret kínál.",
                   "category": "family",
                   "coords": [
                         9.72064,
                         47.495127
-                  ]
-            },
-            {
-                  "name": "Achspieli Lauterach",
-                  "text": "Nagyszerű játszótér Bregenzben, amely sok helyet kínál a gyerekeknek a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        9.734273,
-                        47.484994
                   ]
             },
             {
@@ -12250,42 +10108,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         9.75442,
                         47.511966
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kaisermannstraße",
-                  "text": "Gyerekbarát játszótér Bregenzben különféle játékokkal felszerelve.",
-                  "category": "family",
-                  "coords": [
-                        9.721494,
-                        47.488398
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Margarethendamm",
-                  "text": "Szép hely Bregenzben, ahol a gyerekek biztonságban játszhatnak és mozoghatnak.",
-                  "category": "family",
-                  "coords": [
-                        9.711769,
-                        47.486405
-                  ]
-            },
-            {
-                  "name": "Spielplatz an der Ach",
-                  "text": "Ez a bregenzi játszótér remek környezetet biztosít a gyerekeknek a szabadban való mozgáshoz.",
-                  "category": "family",
-                  "coords": [
-                        9.748688,
-                        47.482017
-                  ]
-            },
-            {
-                  "name": "Spielplatz Steinachstraße",
-                  "text": "Hívogató játszótér Bregenzben minden korosztályú gyermek számára.",
-                  "category": "family",
-                  "coords": [
-                        9.71395,
-                        47.492414
                   ]
             },
             {
@@ -12390,15 +10212,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Naturschutzgebiet Mehrerauer Seeufer – Bregenzerachmündung",
-                  "text": "Aceasta este o rezervație naturală la gura de vărsare a râului Bregenzerach în Lacul Constanța, în Bregenz.",
-                  "category": "natural",
-                  "coords": [
-                        9.70601,
-                        47.500601
-                  ]
-            },
-            {
                   "name": "Alpenwildpark Pfänder",
                   "text": "Alpenwildpark Pfänder este o grădină zoologică din Bregenz.",
                   "category": "family",
@@ -12462,15 +10275,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Villa Grünau",
-                  "text": "Villa Grünau este o vilă istorică și semnificativă arhitectural din Bregenz.",
-                  "category": "landmark",
-                  "coords": [
-                        9.762376,
-                        47.4791
-                  ]
-            },
-            {
                   "name": "Känzele",
                   "text": "Känzele este un punct de belvedere popular situat în apropiere de Gebhardsberg din Bregenz.",
                   "category": "natural",
@@ -12495,15 +10299,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         9.747027,
                         47.50094
-                  ]
-            },
-            {
-                  "name": "Hofsteigsaal Lauterach",
-                  "text": "Hafenkastell Lauterach este un centru de artă din Bregenz.",
-                  "category": "cultural",
-                  "coords": [
-                        9.730814,
-                        47.481075
                   ]
             },
             {
@@ -12642,15 +10437,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hl. Josef",
-                  "text": "Hl. Josef este un lăcaș de cult situat în Bregenz.",
-                  "category": "religious",
-                  "coords": [
-                        9.766066,
-                        47.480272
-                  ]
-            },
-            {
                   "name": "Nepomukkapelle",
                   "text": "Nepomukkapelle este un lăcaș de cult baroc notabil situat în Bregenz.",
                   "category": "religious",
@@ -12732,24 +10518,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Möckle Weiher",
-                  "text": "Möckle Weiher din Bregenz oferă un cadru natural liniștit pentru plimbări relaxante.",
-                  "category": "natural",
-                  "coords": [
-                        9.716245,
-                        47.443666
-                  ]
-            },
-            {
-                  "name": "Schleienloch",
-                  "text": "Schleienloch din Bregenz este un loc idilic pentru iubitorii de natură și plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        9.673412,
-                        47.495179
-                  ]
-            },
-            {
                   "name": "Bregenzer Sporthafen",
                   "text": "Portul sportiv din Bregenz oferă o atmosferă maritimă pentru o plimbare pe malul apei.",
                   "category": "natural",
@@ -12768,39 +10536,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bodensee",
-                  "text": "Lacul Constanța (Bodensee) din Bregenz oferă priveliști vaste și numeroase opțiuni de plimbare.",
-                  "category": "natural",
-                  "coords": [
-                        9.30627,
-                        47.647787
-                  ]
-            },
-            {
-                  "name": "Auhafenteich",
-                  "text": "Lacul Auhafenteich din Bregenz oferă o atmosferă liniștită pentru o plimbare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.689407,
-                        47.502258
-                  ]
-            },
-            {
                   "name": "Spielplatz Lehenweg",
                   "text": "Locul de joacă Lehenweg din Bregenz oferă copiilor un spațiu frumos și sigur pentru joacă.",
                   "category": "family",
                   "coords": [
                         9.72064,
                         47.495127
-                  ]
-            },
-            {
-                  "name": "Achspieli Lauterach",
-                  "text": "Un loc de joacă frumos în Bregenz, care oferă mult spațiu pentru joaca copiilor.",
-                  "category": "family",
-                  "coords": [
-                        9.734273,
-                        47.484994
                   ]
             },
             {
@@ -12819,42 +10560,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         9.75442,
                         47.511966
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kaisermannstraße",
-                  "text": "Un loc de joacă prietenos pentru copii în Bregenz, dotat cu diverse echipamente.",
-                  "category": "family",
-                  "coords": [
-                        9.721494,
-                        47.488398
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Margarethendamm",
-                  "text": "Un loc frumos în Bregenz unde copiii se pot juca și se pot mișca în siguranță.",
-                  "category": "family",
-                  "coords": [
-                        9.711769,
-                        47.486405
-                  ]
-            },
-            {
-                  "name": "Spielplatz an der Ach",
-                  "text": "Acest loc de joacă din Bregenz oferă copiilor un mediu excelent pentru mișcare în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        9.748688,
-                        47.482017
-                  ]
-            },
-            {
-                  "name": "Spielplatz Steinachstraße",
-                  "text": "Un loc de joacă primitor în Bregenz pentru copii de toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        9.71395,
-                        47.492414
                   ]
             },
             {
@@ -12959,15 +10664,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Naturschutzgebiet Mehrerauer Seeufer – Bregenzerachmündung",
-                  "text": "This is a protected nature reserve at the mouth of the Bregenzerach river by Lake Constance in Bregenz.",
-                  "category": "natural",
-                  "coords": [
-                        9.70601,
-                        47.500601
-                  ]
-            },
-            {
                   "name": "Alpenwildpark Pfänder",
                   "text": "The Alpenwildpark Pfänder is a zoo located in Bregenz.",
                   "category": "family",
@@ -13031,15 +10727,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Villa Grünau",
-                  "text": "Villa Grünau is a historic and architecturally significant villa located in Bregenz.",
-                  "category": "landmark",
-                  "coords": [
-                        9.762376,
-                        47.4791
-                  ]
-            },
-            {
                   "name": "Känzele",
                   "text": "Känzele is a popular scenic viewpoint situated near the Gebhardsberg in Bregenz.",
                   "category": "natural",
@@ -13064,15 +10751,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         9.747027,
                         47.50094
-                  ]
-            },
-            {
-                  "name": "Hofsteigsaal Lauterach",
-                  "text": "The Hofsteigsaal Lauterach is an arts centre in Bregenz.",
-                  "category": "cultural",
-                  "coords": [
-                        9.730814,
-                        47.481075
                   ]
             },
             {
@@ -13211,15 +10889,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hl. Josef",
-                  "text": "Hl. Josef is a local place of worship located in Bregenz.",
-                  "category": "religious",
-                  "coords": [
-                        9.766066,
-                        47.480272
-                  ]
-            },
-            {
                   "name": "Nepomukkapelle",
                   "text": "Nepomukkapelle is a notable historic place of worship located in Bregenz.",
                   "category": "religious",
@@ -13301,24 +10970,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Möckle Weiher",
-                  "text": "Möckle Weiher in Bregenz offers a peaceful natural setting for relaxing walks.",
-                  "category": "natural",
-                  "coords": [
-                        9.716245,
-                        47.443666
-                  ]
-            },
-            {
-                  "name": "Schleienloch",
-                  "text": "Schleienloch in Bregenz is an idyllic spot for nature lovers and walkers.",
-                  "category": "natural",
-                  "coords": [
-                        9.673412,
-                        47.495179
-                  ]
-            },
-            {
                   "name": "Bregenzer Sporthafen",
                   "text": "The Bregenzer Sporthafen offers a maritime atmosphere for a walk by the water.",
                   "category": "natural",
@@ -13337,39 +10988,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lake Constance",
-                  "text": "Lake Constance in Bregenz offers vast views and various opportunities for scenic walks.",
-                  "category": "natural",
-                  "coords": [
-                        9.30627,
-                        47.647787
-                  ]
-            },
-            {
-                  "name": "Auhafenteich",
-                  "text": "Auhafenteich in Bregenz offers a peaceful atmosphere for a walk in nature.",
-                  "category": "natural",
-                  "coords": [
-                        9.689407,
-                        47.502258
-                  ]
-            },
-            {
                   "name": "Spielplatz Lehenweg",
                   "text": "The Lehenweg playground in Bregenz offers a nice and safe area for children to play.",
                   "category": "family",
                   "coords": [
                         9.72064,
                         47.495127
-                  ]
-            },
-            {
-                  "name": "Achspieli Lauterach",
-                  "text": "A nice playground in Bregenz offering plenty of space for children to play.",
-                  "category": "family",
-                  "coords": [
-                        9.734273,
-                        47.484994
                   ]
             },
             {
@@ -13388,42 +11012,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         9.75442,
                         47.511966
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kaisermannstraße",
-                  "text": "A child-friendly playground in Bregenz equipped with various play structures.",
-                  "category": "family",
-                  "coords": [
-                        9.721494,
-                        47.488398
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Margarethendamm",
-                  "text": "A nice spot in Bregenz where children can play safely and burn off energy.",
-                  "category": "family",
-                  "coords": [
-                        9.711769,
-                        47.486405
-                  ]
-            },
-            {
-                  "name": "Spielplatz an der Ach",
-                  "text": "This playground in Bregenz provides a great environment for children to enjoy outdoor activities.",
-                  "category": "family",
-                  "coords": [
-                        9.748688,
-                        47.482017
-                  ]
-            },
-            {
-                  "name": "Spielplatz Steinachstraße",
-                  "text": "An inviting playground in Bregenz for children of all ages.",
-                  "category": "family",
-                  "coords": [
-                        9.71395,
-                        47.492414
                   ]
             },
             {
@@ -14431,7 +12019,880 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-StPolten", "sights": {"de": [{"name": "Museum am Dom", "text": "Das Museum präsentiert sakrale Kunst im Dom von St. Pölten.", "category": "museum", "coords": [15.626639, 48.205539]}, {"name": "Museum Niederösterreich", "text": "Das Landesmuseum für Natur, Kunst und Geschichte in St. Pölten.", "category": "museum", "coords": [15.631198, 48.200051]}, {"name": "Ehemalige Synagoge", "text": "Die ehemalige Synagoge dient heute als Kulturzentrum und Mahnmal.", "category": "museum", "coords": [15.628742, 48.202499]}, {"name": "KinderKunstLabor", "text": "Ein innovativer Ausstellungsort für zeitgenössische Kunst in St. Pölten.", "category": "museum", "coords": [15.62793, 48.201275]}, {"name": "Stadtmuseum", "text": "Das Museum dokumentiert die Stadtgeschichte von St. Pölten.", "category": "museum", "coords": [15.622489, 48.204183]}, {"name": "Ausstellungsbrücke", "text": "Ein Ausstellungsraum im Landhausviertel von St. Pölten.", "category": "museum", "coords": [15.633168, 48.201113]}, {"name": "Kleiner Saal", "text": "Ein kleinerer Theatersaal für intime Aufführungen in St. Pölten.", "category": "cultural", "coords": [15.630796, 48.201125]}, {"name": "Theaterwerkstatt", "text": "Ein experimenteller Theaterraum in St. Pölten.", "category": "cultural", "coords": [15.621674, 48.2056]}, {"name": "Hofbühne", "text": "Eine Kleinkunstbühne für Theater und Kabarett in St. Pölten.", "category": "cultural", "coords": [15.625929, 48.184449]}, {"name": "Theater des Ballets", "text": "Ein Theater in St. Pölten, das sich dem Tanz und Ballett widmet.", "category": "cultural", "coords": [15.651112, 48.207381]}, {"name": "Sommerbad \"Citysplash\"", "text": "Ein beliebtes Freibad mit Wasserattraktionen in St. Pölten.", "category": "family", "coords": [15.627051, 48.195413]}, {"name": "AquaCity", "text": "Ein modernes Hallenbad und Wellnesszentrum in St. Pölten.", "category": "family", "coords": [15.619865, 48.205146]}, {"name": "Bühne im Hof", "text": "Ein Veranstaltungsort für Kleinkunst und Musik in St. Pölten.", "category": "cultural", "coords": [15.621533, 48.2032]}, {"name": "Künstmühle", "text": "Ein Kulturzentrum in einer ehemaligen Mühle in St. Pölten.", "category": "cultural", "coords": [15.629715, 48.205596]}, {"name": "Kalvarienberg", "text": "Eine religiöse Gedenkstätte mit Kreuzwegstationen in St. Pölten.", "category": "historical", "coords": [15.612106, 48.199954]}, {"name": "Passauer Wolf", "text": "Ein historisches Denkmal in St. Pölten.", "category": "historical", "coords": [15.632063, 48.204207]}, {"name": "Kaiser-Franz-Joseph-Denkmal", "text": "Ein Denkmal zu Ehren von Kaiser Franz Joseph I. in St. Pölten.", "category": "historical", "coords": [15.634082, 48.20205]}, {"name": "Hippolyt & Töchter", "text": "Die Galerie Hippolyt & Töchter bereichert die Kulturszene von St Poelten mit Ausstellungen zur zeitgenössischen Kunst. In diesem Museum können Kunstinteressierte moderne Werke entdecken.", "category": "museum", "coords": [15.626055, 48.204055]}, {"name": "Galeria mobile", "text": "Eine kleine, mobile Kunstgalerie in St. Pölten.", "category": "museum", "coords": [15.636666, 48.22342]}, {"name": "ISB Hofmann", "text": "Ein Ausstellungsraum für Kunst in St. Pölten.", "category": "museum", "coords": [15.625045, 48.20454]}, {"name": "Food Art Gallery", "text": "Eine Galerie, die Kunst und kulinarische Themen verbindet.", "category": "museum", "coords": [15.627548, 48.204677]}, {"name": "Tiergehege", "text": "Ein kleines Gehege mit heimischen Tieren in St. Pölten.", "category": "landmark", "coords": [15.610008, 48.203477]}, {"name": "Altes Forum-Kino", "text": "Ein ehemaliges Kino, das heute für kulturelle Zwecke genutzt wird.", "category": "cultural", "coords": [15.623638, 48.195311]}, {"name": "Flederhaus", "text": "Ein markanter hölzerner Aussichtspunkt in St. Pölten.", "category": "natural", "coords": [15.61584, 48.20859]}, {"name": "Eisbergspitze", "text": "Ein Aussichtspunkt mit Blick über St. Pölten.", "category": "natural", "coords": [15.607305, 48.204359]}, {"name": "Pfarre St.Pölten-Maria Lourdes KH", "text": "Die Krankenhauskapelle im Universitätsklinikum St. Pölten.", "category": "religious", "coords": [15.626466, 48.214104]}, {"name": "Millenniumskirche", "text": "Ein modernes Kirchengebäude in St. Pölten.", "category": "religious", "coords": [15.638877, 48.18291]}, {"name": "Franziskanerkirche", "text": "Eine bedeutende Barockkirche im Stadtzentrum von St. Pölten.", "category": "religious", "coords": [15.623097, 48.205852]}, {"name": "Herz-Jesu-Kirche", "text": "Eine im neugotischen Stil erbaute Kirche in St. Pölten.", "category": "religious", "coords": [15.623136, 48.201877]}, {"name": "St. Johannes Kapistran", "text": "Eine moderne katholische Kirche in St. Pölten.", "category": "religious", "coords": [15.62207, 48.188276]}, {"name": "Josefskirche", "text": "Eine dem heiligen Josef geweihte Kirche in St. Pölten.", "category": "religious", "coords": [15.621851, 48.195598]}, {"name": "Kapelle des Priesterseminars", "text": "Die Kapelle innerhalb des Priesterseminars von St. Pölten.", "category": "religious", "coords": [15.628592, 48.204438]}, {"name": "Zwingerturm", "text": "Ein historischer Turm der ehemaligen Stadtbefestigung von St. Pölten.", "category": "tower", "coords": [15.627743, 48.202625]}, {"name": "Pfarre St. Michael Wagram", "text": "Die katholische Pfarrkirche im Stadtteil Wagram in St. Pölten.", "category": "religious", "coords": [15.650087, 48.20499]}, {"name": "Spielplatz Kaiserwald", "text": "Der Spielplatz Kaiserwald in St. Pölten bietet viel Platz zum Spielen im Grünen.", "category": "family", "coords": [15.613157, 48.203156]}, {"name": "Kidsworld St. Pölten", "text": "Dieser Indoor-Spielplatz in St. Pölten bietet wetterunabhängiges Spielvergnügen für Familien.", "category": "family", "coords": [15.613426, 48.179095]}, {"name": "Minigolf am Ratzersdorfer See", "text": "Die Minigolfanlage am Ratzersdorfer See in St. Pölten ist ein ideales Ausflugsziel.", "category": "family", "coords": [15.652549, 48.222673]}, {"name": "Jumpzone X", "text": "Dieser Trampolinpark in St. Pölten bietet aktive Unterhaltung für Kinder und Jugendliche.", "category": "family", "coords": [15.627134, 48.217164]}, {"name": "Spielplatz Eisberg", "text": "Ein schön gelegener Spielplatz in St. Pölten mit verschiedenen Klettergeräten.", "category": "family", "coords": [15.607349, 48.210437]}, {"name": "Spielplatz Englstorferstraße", "text": "Dieser Spielplatz in St. Pölten bietet eine sichere Umgebung für Kinder zum Spielen.", "category": "family", "coords": [15.633777, 48.185619]}], "hu": [{"name": "Museum am Dom", "text": "A múzeum szakrális művészeti alkotásokat mutat be a St. Pölten-i dómban.", "category": "museum", "coords": [15.626639, 48.205539]}, {"name": "Museum Niederösterreich", "text": "Alsó-Ausztria természeti, művészeti és történelmi múzeuma St. Pöltenben.", "category": "museum", "coords": [15.631198, 48.200051]}, {"name": "Ehemalige Synagoge", "text": "Az egykori zsinagóga ma kulturális központként és emlékhelyként szolgál.", "category": "museum", "coords": [15.628742, 48.202499]}, {"name": "KinderKunstLabor", "text": "Kortárs művészeti kiállítóhely St. Pöltenben.", "category": "museum", "coords": [15.62793, 48.201275]}, {"name": "Stadtmuseum", "text": "A múzeum St. Pölten várostörténetét mutatja be.", "category": "museum", "coords": [15.622489, 48.204183]}, {"name": "Ausstellungsbrücke", "text": "Kiállítóhely St. Pölten kormányzati negyedében.", "category": "museum", "coords": [15.633168, 48.201113]}, {"name": "Kleiner Saal", "text": "Kisebb színházterem bensőséges előadásokhoz St. Pöltenben.", "category": "cultural", "coords": [15.630796, 48.201125]}, {"name": "Theaterwerkstatt", "text": "Kísérleti színházi tér St. Pöltenben.", "category": "cultural", "coords": [15.621674, 48.2056]}, {"name": "Hofbühne", "text": "Színpad St. Pöltenben színházi és kabaré előadásokhoz.", "category": "cultural", "coords": [15.625929, 48.184449]}, {"name": "Theater des Ballets", "text": "Táncnak és balettnek szentelt színház St. Pöltenben.", "category": "cultural", "coords": [15.651112, 48.207381]}, {"name": "Sommerbad \"Citysplash\"", "text": "Népszerű szabadtéri strand vízi attrakciókkal St. Pöltenben.", "category": "family", "coords": [15.627051, 48.195413]}, {"name": "AquaCity", "text": "Modern fedett uszoda és wellnessközpont St. Pöltenben.", "category": "family", "coords": [15.619865, 48.205146]}, {"name": "Bühne im Hof", "text": "Kulturális rendezvényhelyszín St. Pöltenben zenével és kabarével.", "category": "cultural", "coords": [15.621533, 48.2032]}, {"name": "Künstmühle", "text": "Kulturális központ egy egykori malomban St. Pöltenben.", "category": "cultural", "coords": [15.629715, 48.205596]}, {"name": "Kalvarienberg", "text": "Vallási emlékhely keresztúti stációkkal St. Pöltenben.", "category": "historical", "coords": [15.612106, 48.199954]}, {"name": "Passauer Wolf", "text": "Történelmi emlékmű St. Pöltenben.", "category": "historical", "coords": [15.632063, 48.204207]}, {"name": "Kaiser-Franz-Joseph-Denkmal", "text": "I. Ferenc József császár tiszteletére emelt emlékmű St. Pöltenben.", "category": "historical", "coords": [15.634082, 48.20205]}, {"name": "Hippolyt & Töchter", "text": "A Hippolyt & Töchter galéria St Poelten kulturális életét színesíti kortárs művészeti kiállításaival. Ebben a múzeumban a művészetkedvelők modern alkotásokat fedezhetnek fel.", "category": "museum", "coords": [15.626055, 48.204055]}, {"name": "Galeria mobile", "text": "Kisméretű, mobil művészeti galéria St. Pöltenben.", "category": "museum", "coords": [15.636666, 48.22342]}, {"name": "ISB Hofmann", "text": "Művészeti kiállítóhely St. Pöltenben.", "category": "museum", "coords": [15.625045, 48.20454]}, {"name": "Food Art Gallery", "text": "A művészetet és a gasztronómiát ötvöző galéria.", "category": "museum", "coords": [15.627548, 48.204677]}, {"name": "Tiergehege", "text": "Kis állatkifutó helyi állatokkal St. Pöltenben.", "category": "landmark", "coords": [15.610008, 48.203477]}, {"name": "Altes Forum-Kino", "text": "Egykori mozi, amelyet ma kulturális célokra használnak.", "category": "cultural", "coords": [15.623638, 48.195311]}, {"name": "Flederhaus", "text": "Jellegzetes fa kilátópont St. Pöltenben.", "category": "natural", "coords": [15.61584, 48.20859]}, {"name": "Eisbergspitze", "text": "Kilátópont kilátással St. Pöltenre.", "category": "natural", "coords": [15.607305, 48.204359]}, {"name": "Pfarre St.Pölten-Maria Lourdes KH", "text": "A St. Pölten-i egyetemi klinika kórházi kápolnája.", "category": "religious", "coords": [15.626466, 48.214104]}, {"name": "Millenniumskirche", "text": "Modern templomépület St. Pöltenben.", "category": "religious", "coords": [15.638877, 48.18291]}, {"name": "Franziskanerkirche", "text": "Jelentős barokk templom St. Pölten városközpontjában.", "category": "religious", "coords": [15.623097, 48.205852]}, {"name": "Herz-Jesu-Kirche", "text": "Neogótikus stílusban épült templom St. Pöltenben.", "category": "religious", "coords": [15.623136, 48.201877]}, {"name": "St. Johannes Kapistran", "text": "Modern katolikus templom St. Pöltenben.", "category": "religious", "coords": [15.62207, 48.188276]}, {"name": "Josefskirche", "text": "Szent Józsefnek szentelt templom St. Pöltenben.", "category": "religious", "coords": [15.621851, 48.195598]}, {"name": "Kapelle des Priesterseminars", "text": "A St. Pölten-i papnevelde kápolnája.", "category": "religious", "coords": [15.628592, 48.204438]}, {"name": "Zwingerturm", "text": "St. Pölten egykori városfalának történelmi toronya.", "category": "tower", "coords": [15.627743, 48.202625]}, {"name": "Pfarre St. Michael Wagram", "text": "Katolikus plébániatemplom St. Pölten Wagram városrészében.", "category": "religious", "coords": [15.650087, 48.20499]}, {"name": "Spielplatz Kaiserwald", "text": "A St. Pölten-i Kaiserwald játszótér bőséges helyet kínál a játékhoz a zöldben.", "category": "family", "coords": [15.613157, 48.203156]}, {"name": "Kidsworld St. Pölten", "text": "Ez a St. Pölten-i fedett játszóház időjárástól független szórakozást kínál a családoknak.", "category": "family", "coords": [15.613426, 48.179095]}, {"name": "Minigolf am Ratzersdorfer See", "text": "A St. Pölten-i Ratzersdorfer See melletti minigolfpálya ideális kirándulóhely.", "category": "family", "coords": [15.652549, 48.222673]}, {"name": "Jumpzone X", "text": "Ez a St. Pölten-i trambulinpark aktív szórakozást nyújt gyerekeknek és fiataloknak.", "category": "family", "coords": [15.627134, 48.217164]}, {"name": "Spielplatz Eisberg", "text": "Szép fekvésű játszótér St. Pöltenben különféle mászókákkal.", "category": "family", "coords": [15.607349, 48.210437]}, {"name": "Spielplatz Englstorferstraße", "text": "Ez a St. Pölten-i játszótér biztonságos környezetet nyújt a gyerekeknek a játékhoz.", "category": "family", "coords": [15.633777, 48.185619]}], "ro": [{"name": "Museum am Dom", "text": "Muzeul prezintă artă sacră în catedrala din St. Pölten.", "category": "museum", "coords": [15.626639, 48.205539]}, {"name": "Museum Niederösterreich", "text": "Muzeul de stat pentru natură, artă și istorie din St. Pölten.", "category": "museum", "coords": [15.631198, 48.200051]}, {"name": "Ehemalige Synagoge", "text": "Fosta sinagogă servește astăzi ca centru cultural și memorial.", "category": "museum", "coords": [15.628742, 48.202499]}, {"name": "KinderKunstLabor", "text": "Un spațiu expozițional inovator pentru artă contemporană în St. Pölten.", "category": "museum", "coords": [15.62793, 48.201275]}, {"name": "Stadtmuseum", "text": "Muzeul documentează istoria orașului St. Pölten.", "category": "museum", "coords": [15.622489, 48.204183]}, {"name": "Ausstellungsbrücke", "text": "Un spațiu expozițional în cartierul Landhaus din St. Pölten.", "category": "museum", "coords": [15.633168, 48.201113]}, {"name": "Kleiner Saal", "text": "O sală de teatru mai mică pentru spectacole intime în St. Pölten.", "category": "cultural", "coords": [15.630796, 48.201125]}, {"name": "Theaterwerkstatt", "text": "Un spațiu teatral experimental în St. Pölten.", "category": "cultural", "coords": [15.621674, 48.2056]}, {"name": "Hofbühne", "text": "O scenă pentru teatru și cabaret în St. Pölten.", "category": "cultural", "coords": [15.625929, 48.184449]}, {"name": "Theater des Ballets", "text": "Un teatru din St. Pölten dedicat dansului și baletului.", "category": "cultural", "coords": [15.651112, 48.207381]}, {"name": "Sommerbad \"Citysplash\"", "text": "Un ștrand popular cu atracții acvatice în St. Pölten.", "category": "family", "coords": [15.627051, 48.195413]}, {"name": "AquaCity", "text": "O piscină acoperită modernă și centru wellness în St. Pölten.", "category": "family", "coords": [15.619865, 48.205146]}, {"name": "Bühne im Hof", "text": "Un spațiu pentru evenimente culturale și muzică în St. Pölten.", "category": "cultural", "coords": [15.621533, 48.2032]}, {"name": "Künstmühle", "text": "Un centru cultural situat într-o fostă moară din St. Pölten.", "category": "cultural", "coords": [15.629715, 48.205596]}, {"name": "Kalvarienberg", "text": "Un monument religios cu stațiile Căii Crucii în St. Pölten.", "category": "historical", "coords": [15.612106, 48.199954]}, {"name": "Passauer Wolf", "text": "Un monument istoric din St. Pölten.", "category": "historical", "coords": [15.632063, 48.204207]}, {"name": "Kaiser-Franz-Joseph-Denkmal", "text": "Un monument în onoarea împăratului Franz Joseph I în St. Pölten.", "category": "historical", "coords": [15.634082, 48.20205]}, {"name": "Hippolyt & Töchter", "text": "Galeria Hippolyt & Töchter din St Poelten expune artă contemporană, îmbogățind scena culturală locală. Acest muzeu oferă pasionaților de artă ocazia de a descoperi lucrări moderne.", "category": "museum", "coords": [15.626055, 48.204055]}, {"name": "Galeria mobile", "text": "O mică galerie de artă mobilă în St. Pölten.", "category": "museum", "coords": [15.636666, 48.22342]}, {"name": "ISB Hofmann", "text": "Un spațiu expozițional de artă în St. Pölten.", "category": "museum", "coords": [15.625045, 48.20454]}, {"name": "Food Art Gallery", "text": "O galerie care îmbină arta cu teme culinare.", "category": "museum", "coords": [15.627548, 48.204677]}, {"name": "Tiergehege", "text": "Un mic țarc cu animale locale în St. Pölten.", "category": "landmark", "coords": [15.610008, 48.203477]}, {"name": "Altes Forum-Kino", "text": "Un fost cinematograf, utilizat astăzi în scopuri culturale.", "category": "cultural", "coords": [15.623638, 48.195311]}, {"name": "Flederhaus", "text": "Un punct de observație din lemn distinctiv în St. Pölten.", "category": "natural", "coords": [15.61584, 48.20859]}, {"name": "Eisbergspitze", "text": "Un punct de observație cu vedere asupra orașului St. Pölten.", "category": "natural", "coords": [15.607305, 48.204359]}, {"name": "Pfarre St.Pölten-Maria Lourdes KH", "text": "Capela spitalului din cadrul clinicii universitare din St. Pölten.", "category": "religious", "coords": [15.626466, 48.214104]}, {"name": "Millenniumskirche", "text": "O clădire de biserică modernă în St. Pölten.", "category": "religious", "coords": [15.638877, 48.18291]}, {"name": "Franziskanerkirche", "text": "O biserică barocă importantă în centrul orașului St. Pölten.", "category": "religious", "coords": [15.623097, 48.205852]}, {"name": "Herz-Jesu-Kirche", "text": "O biserică construită în stil neogotic în St. Pölten.", "category": "religious", "coords": [15.623136, 48.201877]}, {"name": "St. Johannes Kapistran", "text": "O biserică catolică modernă în St. Pölten.", "category": "religious", "coords": [15.62207, 48.188276]}, {"name": "Josefskirche", "text": "O biserică dedicată Sfântului Iosif din St. Pölten.", "category": "religious", "coords": [15.621851, 48.195598]}, {"name": "Kapelle des Priesterseminars", "text": "Capela din cadrul seminarului teologic din St. Pölten.", "category": "religious", "coords": [15.628592, 48.204438]}, {"name": "Zwingerturm", "text": "Un turn istoric al fostei fortificații a orașului St. Pölten.", "category": "tower", "coords": [15.627743, 48.202625]}, {"name": "Pfarre St. Michael Wagram", "text": "Biserica parohială catolică din cartierul Wagram din St. Pölten.", "category": "religious", "coords": [15.650087, 48.20499]}, {"name": "Spielplatz Kaiserwald", "text": "Locul de joacă Kaiserwald din St. Pölten oferă mult spațiu pentru joacă în natură.", "category": "family", "coords": [15.613157, 48.203156]}, {"name": "Kidsworld St. Pölten", "text": "Acest loc de joacă interior din St. Pölten oferă distracție indiferent de vreme pentru familii.", "category": "family", "coords": [15.613426, 48.179095]}, {"name": "Minigolf am Ratzersdorfer See", "text": "Terenul de minigolf de la lacul Ratzersdorfer din St. Pölten este o destinație ideală de excursie.", "category": "family", "coords": [15.652549, 48.222673]}, {"name": "Jumpzone X", "text": "Acest parc de trambuline din St. Pölten oferă divertisment activ pentru copii și tineri.", "category": "family", "coords": [15.627134, 48.217164]}, {"name": "Spielplatz Eisberg", "text": "Un loc de joacă frumos situat în St. Pölten cu diverse structuri de cățărare.", "category": "family", "coords": [15.607349, 48.210437]}, {"name": "Spielplatz Englstorferstraße", "text": "Acest loc de joacă din St. Pölten oferă un mediu sigur pentru joaca copiilor.", "category": "family", "coords": [15.633777, 48.185619]}], "en": [{"name": "Museum am Dom", "text": "The museum presents sacred art within the St. Pölten Cathedral.", "category": "museum", "coords": [15.626639, 48.205539]}, {"name": "Museum Niederösterreich", "text": "The state museum for nature, art, and history in St. Pölten.", "category": "museum", "coords": [15.631198, 48.200051]}, {"name": "Ehemalige Synagoge", "text": "The former synagogue now serves as a cultural center and memorial.", "category": "museum", "coords": [15.628742, 48.202499]}, {"name": "KinderKunstLabor", "text": "An innovative exhibition space for contemporary art in St. Pölten.", "category": "museum", "coords": [15.62793, 48.201275]}, {"name": "Stadtmuseum", "text": "The museum documents the history of the city of St. Pölten.", "category": "museum", "coords": [15.622489, 48.204183]}, {"name": "Ausstellungsbrücke", "text": "An exhibition space in the Landhaus district of St. Pölten.", "category": "museum", "coords": [15.633168, 48.201113]}, {"name": "Kleiner Saal", "text": "A smaller theater hall for intimate performances in St. Pölten.", "category": "cultural", "coords": [15.630796, 48.201125]}, {"name": "Theaterwerkstatt", "text": "An experimental theater space in St. Pölten.", "category": "cultural", "coords": [15.621674, 48.2056]}, {"name": "Hofbühne", "text": "A stage for theater and cabaret performances in St. Pölten.", "category": "cultural", "coords": [15.625929, 48.184449]}, {"name": "Theater des Ballets", "text": "A theater in St. Pölten dedicated to dance and ballet.", "category": "cultural", "coords": [15.651112, 48.207381]}, {"name": "Sommerbad \"Citysplash\"", "text": "A popular outdoor pool with water attractions in St. Pölten.", "category": "family", "coords": [15.627051, 48.195413]}, {"name": "AquaCity", "text": "A modern indoor pool and wellness center in St. Pölten.", "category": "family", "coords": [15.619865, 48.205146]}, {"name": "Bühne im Hof", "text": "A venue for cultural events and music in St. Pölten.", "category": "cultural", "coords": [15.621533, 48.2032]}, {"name": "Künstmühle", "text": "A cultural center located in a former mill in St. Pölten.", "category": "cultural", "coords": [15.629715, 48.205596]}, {"name": "Kalvarienberg", "text": "A religious memorial site with Stations of the Cross in St. Pölten.", "category": "historical", "coords": [15.612106, 48.199954]}, {"name": "Passauer Wolf", "text": "A historical monument in St. Pölten.", "category": "historical", "coords": [15.632063, 48.204207]}, {"name": "Kaiser-Franz-Joseph-Denkmal", "text": "A monument honoring Emperor Franz Joseph I in St. Pölten.", "category": "historical", "coords": [15.634082, 48.20205]}, {"name": "Hippolyt & Töchter", "text": "The Hippolyt & Töchter gallery in St Poelten enriches the local cultural scene by showcasing contemporary art. Visitors to this museum can discover a variety of modern artistic works.", "category": "museum", "coords": [15.626055, 48.204055]}, {"name": "Galeria mobile", "text": "A small, mobile art gallery in St. Pölten.", "category": "museum", "coords": [15.636666, 48.22342]}, {"name": "ISB Hofmann", "text": "An art exhibition space in St. Pölten.", "category": "museum", "coords": [15.625045, 48.20454]}, {"name": "Food Art Gallery", "text": "A gallery combining art and culinary themes.", "category": "museum", "coords": [15.627548, 48.204677]}, {"name": "Tiergehege", "text": "A small enclosure with local animals in St. Pölten.", "category": "landmark", "coords": [15.610008, 48.203477]}, {"name": "Altes Forum-Kino", "text": "A former cinema, now used for cultural purposes.", "category": "cultural", "coords": [15.623638, 48.195311]}, {"name": "Flederhaus", "text": "A distinctive wooden viewpoint in St. Pölten.", "category": "natural", "coords": [15.61584, 48.20859]}, {"name": "Eisbergspitze", "text": "A viewpoint offering views over St. Pölten.", "category": "natural", "coords": [15.607305, 48.204359]}, {"name": "Pfarre St.Pölten-Maria Lourdes KH", "text": "The hospital chapel within the St. Pölten University Hospital.", "category": "religious", "coords": [15.626466, 48.214104]}, {"name": "Millenniumskirche", "text": "A modern church building in St. Pölten.", "category": "religious", "coords": [15.638877, 48.18291]}, {"name": "Franziskanerkirche", "text": "A significant Baroque church in the city center of St. Pölten.", "category": "religious", "coords": [15.623097, 48.205852]}, {"name": "Herz-Jesu-Kirche", "text": "A church built in the Neo-Gothic style in St. Pölten.", "category": "religious", "coords": [15.623136, 48.201877]}, {"name": "St. Johannes Kapistran", "text": "A modern Catholic church in St. Pölten.", "category": "religious", "coords": [15.62207, 48.188276]}, {"name": "Josefskirche", "text": "A church dedicated to St. Joseph in St. Pölten.", "category": "religious", "coords": [15.621851, 48.195598]}, {"name": "Kapelle des Priesterseminars", "text": "The chapel within the St. Pölten seminary.", "category": "religious", "coords": [15.628592, 48.204438]}, {"name": "Zwingerturm", "text": "A historic tower of the former city fortifications of St. Pölten.", "category": "tower", "coords": [15.627743, 48.202625]}, {"name": "Pfarre St. Michael Wagram", "text": "The Catholic parish church in the Wagram district of St. Pölten.", "category": "religious", "coords": [15.650087, 48.20499]}, {"name": "Spielplatz Kaiserwald", "text": "The Kaiserwald playground in St. Pölten offers plenty of space for playing in a green setting.", "category": "family", "coords": [15.613157, 48.203156]}, {"name": "Kidsworld St. Pölten", "text": "This indoor playground in St. Pölten offers weather-independent fun for families.", "category": "family", "coords": [15.613426, 48.179095]}, {"name": "Minigolf am Ratzersdorfer See", "text": "The miniature golf course at Ratzersdorfer See in St. Pölten is an ideal excursion destination.", "category": "family", "coords": [15.652549, 48.222673]}, {"name": "Jumpzone X", "text": "This trampoline park in St. Pölten offers active entertainment for children and teenagers.", "category": "family", "coords": [15.627134, 48.217164]}, {"name": "Spielplatz Eisberg", "text": "A beautifully located playground in St. Pölten with various climbing structures.", "category": "family", "coords": [15.607349, 48.210437]}, {"name": "Spielplatz Englstorferstraße", "text": "This playground in St. Pölten provides a safe environment for children to play.", "category": "family", "coords": [15.633777, 48.185619]}]}, type: "city", parent: "AT-3", coords: [15.6333, 48.2],
+    id: "AT-StPolten", "sights": {
+      "de": [
+            {
+                  "name": "Museum Niederösterreich",
+                  "text": "Das Landesmuseum für Natur, Kunst und Geschichte in St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.631198,
+                        48.200051
+                  ]
+            },
+            {
+                  "name": "Ehemalige Synagoge",
+                  "text": "Die ehemalige Synagoge dient heute als Kulturzentrum und Mahnmal.",
+                  "category": "museum",
+                  "coords": [
+                        15.628742,
+                        48.202499
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Das Museum dokumentiert die Stadtgeschichte von St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.622489,
+                        48.204183
+                  ]
+            },
+            {
+                  "name": "Ausstellungsbrücke",
+                  "text": "Ein Ausstellungsraum im Landhausviertel von St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.633168,
+                        48.201113
+                  ]
+            },
+            {
+                  "name": "Kleiner Saal",
+                  "text": "Ein kleinerer Theatersaal für intime Aufführungen in St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.630796,
+                        48.201125
+                  ]
+            },
+            {
+                  "name": "Theaterwerkstatt",
+                  "text": "Ein experimenteller Theaterraum in St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.621674,
+                        48.2056
+                  ]
+            },
+            {
+                  "name": "Hofbühne",
+                  "text": "Eine Kleinkunstbühne für Theater und Kabarett in St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.625929,
+                        48.184449
+                  ]
+            },
+            {
+                  "name": "Theater des Ballets",
+                  "text": "Ein Theater in St. Pölten, das sich dem Tanz und Ballett widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        15.651112,
+                        48.207381
+                  ]
+            },
+            {
+                  "name": "Sommerbad \"Citysplash\"",
+                  "text": "Ein beliebtes Freibad mit Wasserattraktionen in St. Pölten.",
+                  "category": "family",
+                  "coords": [
+                        15.627051,
+                        48.195413
+                  ]
+            },
+            {
+                  "name": "Passauer Wolf",
+                  "text": "Ein historisches Denkmal in St. Pölten.",
+                  "category": "historical",
+                  "coords": [
+                        15.632063,
+                        48.204207
+                  ]
+            },
+            {
+                  "name": "Kaiser-Franz-Joseph-Denkmal",
+                  "text": "Ein Denkmal zu Ehren von Kaiser Franz Joseph I. in St. Pölten.",
+                  "category": "historical",
+                  "coords": [
+                        15.634082,
+                        48.20205
+                  ]
+            },
+            {
+                  "name": "Hippolyt & Töchter",
+                  "text": "Die Galerie Hippolyt & Töchter bereichert die Kulturszene von St Poelten mit Ausstellungen zur zeitgenössischen Kunst. In diesem Museum können Kunstinteressierte moderne Werke entdecken.",
+                  "category": "museum",
+                  "coords": [
+                        15.626055,
+                        48.204055
+                  ]
+            },
+            {
+                  "name": "ISB Hofmann",
+                  "text": "Ein Ausstellungsraum für Kunst in St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.625045,
+                        48.20454
+                  ]
+            },
+            {
+                  "name": "Food Art Gallery",
+                  "text": "Eine Galerie, die Kunst und kulinarische Themen verbindet.",
+                  "category": "museum",
+                  "coords": [
+                        15.627548,
+                        48.204677
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "Ein kleines Gehege mit heimischen Tieren in St. Pölten.",
+                  "category": "landmark",
+                  "coords": [
+                        15.610008,
+                        48.203477
+                  ]
+            },
+            {
+                  "name": "Altes Forum-Kino",
+                  "text": "Ein ehemaliges Kino, das heute für kulturelle Zwecke genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        15.623638,
+                        48.195311
+                  ]
+            },
+            {
+                  "name": "Flederhaus",
+                  "text": "Ein markanter hölzerner Aussichtspunkt in St. Pölten.",
+                  "category": "natural",
+                  "coords": [
+                        15.61584,
+                        48.20859
+                  ]
+            },
+            {
+                  "name": "Eisbergspitze",
+                  "text": "Ein Aussichtspunkt mit Blick über St. Pölten.",
+                  "category": "natural",
+                  "coords": [
+                        15.607305,
+                        48.204359
+                  ]
+            },
+            {
+                  "name": "Millenniumskirche",
+                  "text": "Ein modernes Kirchengebäude in St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.638877,
+                        48.18291
+                  ]
+            },
+            {
+                  "name": "St. Johannes Kapistran",
+                  "text": "Eine moderne katholische Kirche in St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.62207,
+                        48.188276
+                  ]
+            },
+            {
+                  "name": "Josefskirche",
+                  "text": "Eine dem heiligen Josef geweihte Kirche in St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.621851,
+                        48.195598
+                  ]
+            },
+            {
+                  "name": "Pfarre St. Michael Wagram",
+                  "text": "Die katholische Pfarrkirche im Stadtteil Wagram in St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.650087,
+                        48.20499
+                  ]
+            },
+            {
+                  "name": "Kidsworld St. Pölten",
+                  "text": "Dieser Indoor-Spielplatz in St. Pölten bietet wetterunabhängiges Spielvergnügen für Familien.",
+                  "category": "family",
+                  "coords": [
+                        15.613426,
+                        48.179095
+                  ]
+            },
+            {
+                  "name": "Spielplatz Englstorferstraße",
+                  "text": "Dieser Spielplatz in St. Pölten bietet eine sichere Umgebung für Kinder zum Spielen.",
+                  "category": "family",
+                  "coords": [
+                        15.633777,
+                        48.185619
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Niederösterreich",
+                  "text": "Alsó-Ausztria természeti, művészeti és történelmi múzeuma St. Pöltenben.",
+                  "category": "museum",
+                  "coords": [
+                        15.631198,
+                        48.200051
+                  ]
+            },
+            {
+                  "name": "Ehemalige Synagoge",
+                  "text": "Az egykori zsinagóga ma kulturális központként és emlékhelyként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        15.628742,
+                        48.202499
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "A múzeum St. Pölten várostörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.622489,
+                        48.204183
+                  ]
+            },
+            {
+                  "name": "Ausstellungsbrücke",
+                  "text": "Kiállítóhely St. Pölten kormányzati negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        15.633168,
+                        48.201113
+                  ]
+            },
+            {
+                  "name": "Kleiner Saal",
+                  "text": "Kisebb színházterem bensőséges előadásokhoz St. Pöltenben.",
+                  "category": "cultural",
+                  "coords": [
+                        15.630796,
+                        48.201125
+                  ]
+            },
+            {
+                  "name": "Theaterwerkstatt",
+                  "text": "Kísérleti színházi tér St. Pöltenben.",
+                  "category": "cultural",
+                  "coords": [
+                        15.621674,
+                        48.2056
+                  ]
+            },
+            {
+                  "name": "Hofbühne",
+                  "text": "Színpad St. Pöltenben színházi és kabaré előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        15.625929,
+                        48.184449
+                  ]
+            },
+            {
+                  "name": "Theater des Ballets",
+                  "text": "Táncnak és balettnek szentelt színház St. Pöltenben.",
+                  "category": "cultural",
+                  "coords": [
+                        15.651112,
+                        48.207381
+                  ]
+            },
+            {
+                  "name": "Sommerbad \"Citysplash\"",
+                  "text": "Népszerű szabadtéri strand vízi attrakciókkal St. Pöltenben.",
+                  "category": "family",
+                  "coords": [
+                        15.627051,
+                        48.195413
+                  ]
+            },
+            {
+                  "name": "Passauer Wolf",
+                  "text": "Történelmi emlékmű St. Pöltenben.",
+                  "category": "historical",
+                  "coords": [
+                        15.632063,
+                        48.204207
+                  ]
+            },
+            {
+                  "name": "Kaiser-Franz-Joseph-Denkmal",
+                  "text": "I. Ferenc József császár tiszteletére emelt emlékmű St. Pöltenben.",
+                  "category": "historical",
+                  "coords": [
+                        15.634082,
+                        48.20205
+                  ]
+            },
+            {
+                  "name": "Hippolyt & Töchter",
+                  "text": "A Hippolyt & Töchter galéria St Poelten kulturális életét színesíti kortárs művészeti kiállításaival. Ebben a múzeumban a művészetkedvelők modern alkotásokat fedezhetnek fel.",
+                  "category": "museum",
+                  "coords": [
+                        15.626055,
+                        48.204055
+                  ]
+            },
+            {
+                  "name": "ISB Hofmann",
+                  "text": "Művészeti kiállítóhely St. Pöltenben.",
+                  "category": "museum",
+                  "coords": [
+                        15.625045,
+                        48.20454
+                  ]
+            },
+            {
+                  "name": "Food Art Gallery",
+                  "text": "A művészetet és a gasztronómiát ötvöző galéria.",
+                  "category": "museum",
+                  "coords": [
+                        15.627548,
+                        48.204677
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "Kis állatkifutó helyi állatokkal St. Pöltenben.",
+                  "category": "landmark",
+                  "coords": [
+                        15.610008,
+                        48.203477
+                  ]
+            },
+            {
+                  "name": "Altes Forum-Kino",
+                  "text": "Egykori mozi, amelyet ma kulturális célokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        15.623638,
+                        48.195311
+                  ]
+            },
+            {
+                  "name": "Flederhaus",
+                  "text": "Jellegzetes fa kilátópont St. Pöltenben.",
+                  "category": "natural",
+                  "coords": [
+                        15.61584,
+                        48.20859
+                  ]
+            },
+            {
+                  "name": "Eisbergspitze",
+                  "text": "Kilátópont kilátással St. Pöltenre.",
+                  "category": "natural",
+                  "coords": [
+                        15.607305,
+                        48.204359
+                  ]
+            },
+            {
+                  "name": "Millenniumskirche",
+                  "text": "Modern templomépület St. Pöltenben.",
+                  "category": "religious",
+                  "coords": [
+                        15.638877,
+                        48.18291
+                  ]
+            },
+            {
+                  "name": "St. Johannes Kapistran",
+                  "text": "Modern katolikus templom St. Pöltenben.",
+                  "category": "religious",
+                  "coords": [
+                        15.62207,
+                        48.188276
+                  ]
+            },
+            {
+                  "name": "Josefskirche",
+                  "text": "Szent Józsefnek szentelt templom St. Pöltenben.",
+                  "category": "religious",
+                  "coords": [
+                        15.621851,
+                        48.195598
+                  ]
+            },
+            {
+                  "name": "Pfarre St. Michael Wagram",
+                  "text": "Katolikus plébániatemplom St. Pölten Wagram városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        15.650087,
+                        48.20499
+                  ]
+            },
+            {
+                  "name": "Kidsworld St. Pölten",
+                  "text": "Ez a St. Pölten-i fedett játszóház időjárástól független szórakozást kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        15.613426,
+                        48.179095
+                  ]
+            },
+            {
+                  "name": "Spielplatz Englstorferstraße",
+                  "text": "Ez a St. Pölten-i játszótér biztonságos környezetet nyújt a gyerekeknek a játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        15.633777,
+                        48.185619
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Niederösterreich",
+                  "text": "Muzeul de stat pentru natură, artă și istorie din St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.631198,
+                        48.200051
+                  ]
+            },
+            {
+                  "name": "Ehemalige Synagoge",
+                  "text": "Fosta sinagogă servește astăzi ca centru cultural și memorial.",
+                  "category": "museum",
+                  "coords": [
+                        15.628742,
+                        48.202499
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Muzeul documentează istoria orașului St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.622489,
+                        48.204183
+                  ]
+            },
+            {
+                  "name": "Ausstellungsbrücke",
+                  "text": "Un spațiu expozițional în cartierul Landhaus din St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.633168,
+                        48.201113
+                  ]
+            },
+            {
+                  "name": "Kleiner Saal",
+                  "text": "O sală de teatru mai mică pentru spectacole intime în St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.630796,
+                        48.201125
+                  ]
+            },
+            {
+                  "name": "Theaterwerkstatt",
+                  "text": "Un spațiu teatral experimental în St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.621674,
+                        48.2056
+                  ]
+            },
+            {
+                  "name": "Hofbühne",
+                  "text": "O scenă pentru teatru și cabaret în St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.625929,
+                        48.184449
+                  ]
+            },
+            {
+                  "name": "Theater des Ballets",
+                  "text": "Un teatru din St. Pölten dedicat dansului și baletului.",
+                  "category": "cultural",
+                  "coords": [
+                        15.651112,
+                        48.207381
+                  ]
+            },
+            {
+                  "name": "Sommerbad \"Citysplash\"",
+                  "text": "Un ștrand popular cu atracții acvatice în St. Pölten.",
+                  "category": "family",
+                  "coords": [
+                        15.627051,
+                        48.195413
+                  ]
+            },
+            {
+                  "name": "Passauer Wolf",
+                  "text": "Un monument istoric din St. Pölten.",
+                  "category": "historical",
+                  "coords": [
+                        15.632063,
+                        48.204207
+                  ]
+            },
+            {
+                  "name": "Kaiser-Franz-Joseph-Denkmal",
+                  "text": "Un monument în onoarea împăratului Franz Joseph I în St. Pölten.",
+                  "category": "historical",
+                  "coords": [
+                        15.634082,
+                        48.20205
+                  ]
+            },
+            {
+                  "name": "Hippolyt & Töchter",
+                  "text": "Galeria Hippolyt & Töchter din St Poelten expune artă contemporană, îmbogățind scena culturală locală. Acest muzeu oferă pasionaților de artă ocazia de a descoperi lucrări moderne.",
+                  "category": "museum",
+                  "coords": [
+                        15.626055,
+                        48.204055
+                  ]
+            },
+            {
+                  "name": "ISB Hofmann",
+                  "text": "Un spațiu expozițional de artă în St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.625045,
+                        48.20454
+                  ]
+            },
+            {
+                  "name": "Food Art Gallery",
+                  "text": "O galerie care îmbină arta cu teme culinare.",
+                  "category": "museum",
+                  "coords": [
+                        15.627548,
+                        48.204677
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "Un mic țarc cu animale locale în St. Pölten.",
+                  "category": "landmark",
+                  "coords": [
+                        15.610008,
+                        48.203477
+                  ]
+            },
+            {
+                  "name": "Altes Forum-Kino",
+                  "text": "Un fost cinematograf, utilizat astăzi în scopuri culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        15.623638,
+                        48.195311
+                  ]
+            },
+            {
+                  "name": "Flederhaus",
+                  "text": "Un punct de observație din lemn distinctiv în St. Pölten.",
+                  "category": "natural",
+                  "coords": [
+                        15.61584,
+                        48.20859
+                  ]
+            },
+            {
+                  "name": "Eisbergspitze",
+                  "text": "Un punct de observație cu vedere asupra orașului St. Pölten.",
+                  "category": "natural",
+                  "coords": [
+                        15.607305,
+                        48.204359
+                  ]
+            },
+            {
+                  "name": "Millenniumskirche",
+                  "text": "O clădire de biserică modernă în St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.638877,
+                        48.18291
+                  ]
+            },
+            {
+                  "name": "St. Johannes Kapistran",
+                  "text": "O biserică catolică modernă în St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.62207,
+                        48.188276
+                  ]
+            },
+            {
+                  "name": "Josefskirche",
+                  "text": "O biserică dedicată Sfântului Iosif din St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.621851,
+                        48.195598
+                  ]
+            },
+            {
+                  "name": "Pfarre St. Michael Wagram",
+                  "text": "Biserica parohială catolică din cartierul Wagram din St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.650087,
+                        48.20499
+                  ]
+            },
+            {
+                  "name": "Kidsworld St. Pölten",
+                  "text": "Acest loc de joacă interior din St. Pölten oferă distracție indiferent de vreme pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        15.613426,
+                        48.179095
+                  ]
+            },
+            {
+                  "name": "Spielplatz Englstorferstraße",
+                  "text": "Acest loc de joacă din St. Pölten oferă un mediu sigur pentru joaca copiilor.",
+                  "category": "family",
+                  "coords": [
+                        15.633777,
+                        48.185619
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Niederösterreich",
+                  "text": "The state museum for nature, art, and history in St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.631198,
+                        48.200051
+                  ]
+            },
+            {
+                  "name": "Ehemalige Synagoge",
+                  "text": "The former synagogue now serves as a cultural center and memorial.",
+                  "category": "museum",
+                  "coords": [
+                        15.628742,
+                        48.202499
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "The museum documents the history of the city of St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.622489,
+                        48.204183
+                  ]
+            },
+            {
+                  "name": "Ausstellungsbrücke",
+                  "text": "An exhibition space in the Landhaus district of St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.633168,
+                        48.201113
+                  ]
+            },
+            {
+                  "name": "Kleiner Saal",
+                  "text": "A smaller theater hall for intimate performances in St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.630796,
+                        48.201125
+                  ]
+            },
+            {
+                  "name": "Theaterwerkstatt",
+                  "text": "An experimental theater space in St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.621674,
+                        48.2056
+                  ]
+            },
+            {
+                  "name": "Hofbühne",
+                  "text": "A stage for theater and cabaret performances in St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.625929,
+                        48.184449
+                  ]
+            },
+            {
+                  "name": "Theater des Ballets",
+                  "text": "A theater in St. Pölten dedicated to dance and ballet.",
+                  "category": "cultural",
+                  "coords": [
+                        15.651112,
+                        48.207381
+                  ]
+            },
+            {
+                  "name": "Sommerbad \"Citysplash\"",
+                  "text": "A popular outdoor pool with water attractions in St. Pölten.",
+                  "category": "family",
+                  "coords": [
+                        15.627051,
+                        48.195413
+                  ]
+            },
+            {
+                  "name": "Passauer Wolf",
+                  "text": "A historical monument in St. Pölten.",
+                  "category": "historical",
+                  "coords": [
+                        15.632063,
+                        48.204207
+                  ]
+            },
+            {
+                  "name": "Kaiser-Franz-Joseph-Denkmal",
+                  "text": "A monument honoring Emperor Franz Joseph I in St. Pölten.",
+                  "category": "historical",
+                  "coords": [
+                        15.634082,
+                        48.20205
+                  ]
+            },
+            {
+                  "name": "Hippolyt & Töchter",
+                  "text": "The Hippolyt & Töchter gallery in St Poelten enriches the local cultural scene by showcasing contemporary art. Visitors to this museum can discover a variety of modern artistic works.",
+                  "category": "museum",
+                  "coords": [
+                        15.626055,
+                        48.204055
+                  ]
+            },
+            {
+                  "name": "ISB Hofmann",
+                  "text": "An art exhibition space in St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.625045,
+                        48.20454
+                  ]
+            },
+            {
+                  "name": "Food Art Gallery",
+                  "text": "A gallery combining art and culinary themes.",
+                  "category": "museum",
+                  "coords": [
+                        15.627548,
+                        48.204677
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "A small enclosure with local animals in St. Pölten.",
+                  "category": "landmark",
+                  "coords": [
+                        15.610008,
+                        48.203477
+                  ]
+            },
+            {
+                  "name": "Altes Forum-Kino",
+                  "text": "A former cinema, now used for cultural purposes.",
+                  "category": "cultural",
+                  "coords": [
+                        15.623638,
+                        48.195311
+                  ]
+            },
+            {
+                  "name": "Flederhaus",
+                  "text": "A distinctive wooden viewpoint in St. Pölten.",
+                  "category": "natural",
+                  "coords": [
+                        15.61584,
+                        48.20859
+                  ]
+            },
+            {
+                  "name": "Eisbergspitze",
+                  "text": "A viewpoint offering views over St. Pölten.",
+                  "category": "natural",
+                  "coords": [
+                        15.607305,
+                        48.204359
+                  ]
+            },
+            {
+                  "name": "Millenniumskirche",
+                  "text": "A modern church building in St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.638877,
+                        48.18291
+                  ]
+            },
+            {
+                  "name": "St. Johannes Kapistran",
+                  "text": "A modern Catholic church in St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.62207,
+                        48.188276
+                  ]
+            },
+            {
+                  "name": "Josefskirche",
+                  "text": "A church dedicated to St. Joseph in St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.621851,
+                        48.195598
+                  ]
+            },
+            {
+                  "name": "Pfarre St. Michael Wagram",
+                  "text": "The Catholic parish church in the Wagram district of St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.650087,
+                        48.20499
+                  ]
+            },
+            {
+                  "name": "Kidsworld St. Pölten",
+                  "text": "This indoor playground in St. Pölten offers weather-independent fun for families.",
+                  "category": "family",
+                  "coords": [
+                        15.613426,
+                        48.179095
+                  ]
+            },
+            {
+                  "name": "Spielplatz Englstorferstraße",
+                  "text": "This playground in St. Pölten provides a safe environment for children to play.",
+                  "category": "family",
+                  "coords": [
+                        15.633777,
+                        48.185619
+                  ]
+            }
+      ]
+}, type: "city", parent: "AT-3", coords: [15.6333, 48.2],
     name: { de: "St. Pölten", hu: "St. Pölten", ro: "St. Pölten", en: "St. Pölten" },
     image: "/geo-images/austria/st-p-lten.webp",
     description: { de: "St. Pölten, die charmante Hauptstadt Niederösterreichs, blickt auf eine faszinierende Geschichte als eine der ältesten Städte Österreichs zurück. Gleichzeitig ist sie die jüngste Landeshauptstadt, da sie diesen Titel erst 1986 von Wien übernahm. Die Stadt präsentiert einen spannenden architektonischen Mix: Während die historische Altstadt mit prachtvollen barocken Bauwerken, romantischen Plätzen und einem eindrucksvollen Dom glänzt, symbolisiert das Regierungsviertel mit seiner modernen, avantgardistischen Architektur den Aufbruch in die Zukunft. Eingebettet in das fruchtbare Alpenvorland und nah an der Wachau gelegen, ist St. Pölten ein aufstrebendes kulturelles Zentrum, das durch das renommierte Festspielhaus und eine lebendige Veranstaltungsszene bereichert wird.", hu: "St. Pölten, Alsó-Ausztria bájos fővárosa, Ausztria egyik legrégebbi városaként lenyűgöző történelemre tekinthet vissza. Ugyanakkor ez a legfiatalabb tartományi főváros is, hiszen ezt a címet csak 1986-ban vette át Bécstől. A város izgalmas építészeti keveréket mutat be: míg a történelmi óváros pompás barokk épületekkel, romantikus terekkel és egy lenyűgöző dóm épületével büszkélkedhet, addig a kormányzati negyed modern, avantgárd építészetével a jövőbe való indulást szimbolizálja. A termékeny Alpokalján, a Wachau közelében fekvő St. Pölten egy feltörekvő kulturális központ, amelyet a híres Festspielhaus (Fesztiválpalota) és az élénk rendezvényi élet is gazdagít.", ro: "St. Pölten, fermecătoarea capitală a Austriei Inferioare, are o istorie fascinantă fiind unul dintre cele mai vechi orașe din Austria. În același timp, este cea mai tânără capitală de stat, preluând acest titlu de la Viena abia în 1986. Orașul prezintă un mix arhitectural captivant: în timp ce centrul istoric strălucește cu clădiri baroce magnifice, piețe romantice și o catedrală impresionantă, cartierul guvernamental, cu arhitectura sa modernă, de avangardă, simbolizează un salt spre viitor. Situat la poalele fertile ale Alpilor și aproape de regiunea Wachau, St. Pölten este un centru cultural în plină ascensiune, îmbogățit de renumita Festspielhaus (Sala de Festivaluri) și de o scenă de evenimente vibrantă.", en: "St. Pölten, the charming capital of Lower Austria, looks back on a fascinating history as one of the oldest cities in Austria. At the same time, it is the youngest state capital, having only taken over this title from Vienna in 1986. The city presents an exciting architectural mix: while the historic old town shines with magnificent Baroque buildings, romantic squares, and an impressive cathedral, the government district, with its modern, avant-garde architecture, symbolizes a leap into the future. Nestled in the fertile Alpine foothills and located close to the Wachau, St. Pölten is an emerging cultural center, enriched by the renowned Festspielhaus and a vibrant events scene." , es: "St. Pölten, la encantadora capital de la Baja Austria, tiene una historia fascinante como una de las ciudades más antiguas de Austria. Al mismo tiempo, es la capital estatal más joven, ya que no asumió este título de Viena hasta 1986. La ciudad presenta una emocionante mezcla arquitectónica: mientras que el casco antiguo histórico brilla con magníficos edificios barrocos, plazas románticas y una impresionante catedral, el barrio gubernamental simboliza la entrada en el futuro con su arquitectura moderna y vanguardista. Enclavada en las fértiles estribaciones de los Alpes y cerca de la Wachau, St. Pölten es un centro cultural emergente, enriquecido por el renombrado Festspielhaus y una animada escena de eventos.", pt: "St. Pölten, a encantadora capital da Baixa Áustria, recorda uma história fascinante como uma das cidades mais antigas da Áustria. Ao mesmo tempo, é a capital provincial mais jovem, tendo assumido este título de Viena apenas em 1986. A cidade apresenta uma mistura arquitetónica emocionante: enquanto o centro histórico brilha com magníficos edifícios barrocos, praças românticas e uma catedral impressionante, o bairro governamental simboliza o início do futuro com a sua arquitetura moderna e vanguardista. Inserida no fértil sopé dos Alpes e situada perto de Wachau, St. Pölten é um centro cultural emergente, enriquecido pelo renomeado Festspielhaus e por uma cena de eventos vibrante.", fr: "St. Pölten, la charmante capitale de la Basse-Autriche, s'appuie sur une histoire fascinante en tant qu'une des plus anciennes villes d'Autriche. Parallèlement, elle est la capitale provinciale la plus jeune, n'ayant repris ce titre à Vienne qu'en 1986. La ville présente un mélange architectural passionnant : alors que la vieille ville historique brille par ses magnifiques édifices baroques, ses places romantiques et son impressionnante cathédrale, le quartier du gouvernement symbolise le départ vers l'avenir avec son architecture moderne et avant-gardiste. Nichée dans les contreforts fertiles des Alpes et située à proximité de la Wachau, St. Pölten est un centre culturel émergent, enrichi par le célèbre Festspielhaus et une scène événementielle animée."},
@@ -14483,78 +12944,6 @@ export const austriaCities: POI[] = [
     id: "AT-Hofburg", "sights": {
       "de": [
             {
-                  "name": "Albertina",
-                  "text": "Ein weltberühmtes Kunstmuseum in der Wiener Hofburg mit einer bedeutenden grafischen Sammlung.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Ein bekanntes Theater in Wien, das für seine zeitgenössischen Inszenierungen bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Ein traditionsreiches Wiener Veranstaltungszentrum für Konzerte und Kabarett.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Ein bekanntes Wiener Theater, das sich auf Vorstellungen für junges Publikum spezialisiert hat.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Ein renommiertes Kunstmuseum in Wien, das bedeutende Wechselausstellungen präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Ein Museum in der Wiener Hofburg, das sich der modernen Architektur widmet.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Ein Museum in Wien, das die Geschichte der Pfadfinderbewegung dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Ein traditionsreiches Theater in Wien, das Teil des Theaters an der Josefstadt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
                   "name": "Schmetterlinghaus",
                   "text": "Ein tropisches Schmetterlingshaus im Burggarten nahe der Hofburg.",
                   "category": "recreational",
@@ -14562,126 +12951,9 @@ export const austriaCities: POI[] = [
                         16.366445,
                         48.205459
                   ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Ein Wellness- und Sportzentrum im Wiener Sonnwendviertel.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Ein großes öffentliches Aquarium in einem ehemaligen Flakturm in Wien.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Ein traditionelles Hamam und Spa in der Nähe der Hofburg.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Ein familienfreundliches Freibad am Einsiedlerplatz in Wien.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Familienbad Hofferplatz",
-                  "text": "Ein öffentliches Familienbad am Hofferplatz in Wien.",
-                  "category": "recreational",
-                  "coords": [
-                        16.333431,
-                        48.209064
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Albertina",
-                  "text": "Világhírű művészeti múzeum a bécsi Hofburgban, jelentős grafikai gyűjteménnyel.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Ismert bécsi színház, amely kortárs előadásairól nevezetes.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Hagyományőrző bécsi rendezvényközpont koncertek és kabaré számára.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Ismert bécsi színház, amely a fiatal közönségnek szóló előadásokra szakosodott.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria kortárs művészeti fórum",
-                  "text": "Neves bécsi művészeti múzeum, amely jelentős időszaki kiállításokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Bécsi Építészeti Központ",
-                  "text": "A bécsi Hofburgban található múzeum, amely a modern építészetnek szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Bécsi múzeum, amely a cserkészmozgalom történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Hagyományos bécsi színház, a Theater an der Josefstadt része.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
             {
                   "name": "Lepkeház",
                   "text": "Trópusi lepkeház a Burggartenben, a Hofburg közelében.",
@@ -14690,126 +12962,9 @@ export const austriaCities: POI[] = [
                         16.366445,
                         48.205459
                   ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Wellness- és sportközpont a bécsi Sonnwendviertelben.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Hatalmas nyilvános akvárium egy egykori bécsi légvédelmi toronyban.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Tradicionális hammam és gyógyfürdő a Hofburg közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Családbarát strandfürdő a bécsi Einsiedlerplatzon.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Familienbad Hofferplatz",
-                  "text": "Nyilvános családi fürdő a bécsi Hofferplatzon.",
-                  "category": "recreational",
-                  "coords": [
-                        16.333431,
-                        48.209064
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Albertina",
-                  "text": "Un muzeu de artă de renume mondial din Hofburg, Viena, cu o colecție grafică importantă.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Un teatru cunoscut din Viena, apreciat pentru producțiile sale contemporane.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Un centru de evenimente tradițional din Viena pentru concerte și cabaret.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Un teatru cunoscut din Viena, specializat în spectacole pentru publicul tânăr.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Un muzeu de artă renumit din Viena, care găzduiește expoziții temporare importante.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Un muzeu din complexul Hofburg din Viena dedicat arhitecturii moderne.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Un muzeu din Viena care documentează istoria mișcării de cercetași.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Un teatru tradițional din Viena, parte a Theater an der Josefstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
             {
                   "name": "Schmetterlinghaus",
                   "text": "O casă tropicală a fluturilor în Burggarten, lângă Palatul Hofburg.",
@@ -14818,126 +12973,9 @@ export const austriaCities: POI[] = [
                         16.366445,
                         48.205459
                   ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Un centru de wellness și sport în cartierul Sonnwendviertel din Viena.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Un acvariu public de mari dimensiuni situat într-un fost turn antiaerian din Viena.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Un hamam și centru spa tradițional situat lângă Palatul Hofburg.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Un ștrand pentru familii situat în Einsiedlerplatz, Viena.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Familienbad Hofferplatz",
-                  "text": "Un ștrand public pentru familii în Hofferplatz, Viena.",
-                  "category": "recreational",
-                  "coords": [
-                        16.333431,
-                        48.209064
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Albertina",
-                  "text": "A world-famous art museum in the Hofburg, Vienna, with a significant graphic collection.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "A well-known theatre in Vienna known for its contemporary productions.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "A traditional Viennese event venue for concerts and cabaret.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "A well-known Viennese theatre specializing in performances for young audiences.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "A renowned art museum in Vienna that hosts significant temporary exhibitions.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architecture Centre Vienna",
-                  "text": "A museum in the Hofburg, Vienna, dedicated to modern architecture.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "A museum in Vienna documenting the history of the scouting movement.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "A traditional theatre in Vienna, part of the Theater an der Josefstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
             {
                   "name": "Butterfly House",
                   "text": "A tropical butterfly house in the Burggarten near Hofburg Palace.",
@@ -14945,51 +12983,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.366445,
                         48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "A wellness and sports centre in Vienna's Sonnwendviertel district.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "House of the Sea",
-                  "text": "A large public aquarium located in a former flak tower in Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "A traditional hammam and spa located near Hofburg Palace.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "A family-friendly outdoor swimming pool at Einsiedlerplatz in Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Familienbad Hofferplatz",
-                  "text": "A family-friendly public swimming pool at Hofferplatz in Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.333431,
-                        48.209064
                   ]
             }
       ]
@@ -15018,518 +13011,10 @@ export const austriaCities: POI[] = [
   },
   {
     id: "AT-Stephansdom", "sights": {
-      "de": [
-            {
-                  "name": "Albertina",
-                  "text": "Ein weltberühmtes Kunstmuseum in Wien, das eine der bedeutendsten grafischen Sammlungen beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Ein bekanntes Wiener Theater, das für seine zeitgenössischen und kabarettistischen Produktionen berühmt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Ein traditionsreiches Wiener Veranstaltungszentrum, das für Konzerte, Musicals und Kabarett bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Eine Spielstätte in Wien, die vor allem Theateraufführungen für Kinder und Jugendliche anbietet.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Ein privates Kunstmuseum in Wien, das hochkarätige Wechselausstellungen zur klassischen Moderne zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Das österreichische Architekturmuseum, das Ausstellungen zur Baukunst und Stadtplanung präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Ein Museum in Wien, das die Geschichte und Werte der weltweiten Pfadfinderbewegung dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Eine traditionsreiche Bühne in Wien, die für Komödien und zeitgenössische Theaterstücke bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "Ein tropisches Schmetterlingshaus im Zentrum Wiens.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Ein modernes Wellness- und Sportzentrum in Wien.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Ein bedeutendes Aquarium in einem historischen Flakturm in Wien.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Ein orientalisches Hamam und Wellnesszentrum in Wien.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Ein öffentliches Bad für Familien im Wiener Einsiedlerplatz-Viertel.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "Ein Sport- und Freizeitzentrum mit Schwimmbad in Wien.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Albertina",
-                  "text": "Világhírű bécsi művészeti múzeum, amely az egyik legjelentősebb grafikai gyűjteménynek ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Ismert bécsi színház, amely kortárs és kabaréprodukcióiról híres.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Gazdag hagyományokkal rendelkező bécsi rendezvényközpont, amely koncertekről és musicalekről ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Bécsi játszóhely, amely elsősorban gyermek- és ifjúsági színházi előadásokat kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria kortárs művészeti fórum",
-                  "text": "Privát bécsi művészeti múzeum, amely a klasszikus modernizmus rangos időszaki kiállításait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Bécsi Építészeti Központ",
-                  "text": "Az osztrák építészeti múzeum, amely az építőművészettel és várostervezéssel kapcsolatos kiállításokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Bécsi múzeum, amely a globális cserkészmozgalom történetét és értékeit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Hagyományos bécsi színpad, amely vígjátékairól és kortárs színdarabjairól ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Lepkeház",
-                  "text": "Trópusi lepkeház Bécs belvárosában.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Modern wellness- és sportközpont Bécsben.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Jelentős akvárium egy történelmi bécsi légvédelmi toronyban.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Keleti hangulatú hammam és wellnessközpont Bécsben.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Nyilvános családi fürdő a bécsi Einsiedlerplatz környékén.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "Sport- és szabadidőközpont úszómedencével Bécsben.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Albertina",
-                  "text": "Un muzeu de artă de renume mondial din Viena, care adăpostește una dintre cele mai importante colecții grafice.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Un cunoscut teatru vienez, renumit pentru producțiile sale contemporane și de cabaret.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Un centru de evenimente vienez cu tradiție, cunoscut pentru concerte, musicaluri și cabaret.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "O sală de spectacole din Viena, care oferă în principal piese de teatru pentru copii și tineret.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Un muzeu de artă privat din Viena, care prezintă expoziții temporare de modernism clasic.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Muzeul austriac de arhitectură, care prezintă expoziții despre arta construcțiilor și urbanism.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Un muzeu din Viena care documentează istoria și valorile mișcării de cercetași.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "O scenă cu tradiție din Viena, cunoscută pentru comedii și piese de teatru moderne.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "O casă tropicală a fluturilor în centrul Vienei.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Un centru modern de wellness și sport în Viena.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Un acvariu important situat într-un turn antiaerian istoric din Viena.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Un hamam oriental și centru de wellness în Viena.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Un ștrand public pentru familii în zona Einsiedlerplatz din Viena.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "Un centru sportiv și de agrement cu piscină în Viena.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Albertina",
-                  "text": "A world-renowned art museum in Vienna housing one of the most significant graphic collections.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "A well-known Viennese theatre famous for its contemporary and cabaret productions.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "A traditional Viennese venue known for hosting concerts, musicals, and cabaret performances.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "A venue in Vienna primarily offering theatre performances for children and young audiences.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "A private art museum in Vienna presenting high-profile temporary exhibitions on classic modernism.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architecture Centre Vienna",
-                  "text": "The Austrian architecture museum, showcasing exhibitions on building arts and urban planning.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "A museum in Vienna documenting the history and values of the global scouting movement.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "A traditional stage in Vienna known for comedies and contemporary theatrical plays.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Butterfly House",
-                  "text": "A tropical butterfly house in the center of Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "A modern wellness and sports centre in Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "House of the Sea",
-                  "text": "A major aquarium housed in a historic flak tower in Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "An oriental hammam and wellness centre in Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "A public family bath in the Einsiedlerplatz area of Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "A sports and leisure centre with a swimming pool in Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, type: "landmark", parent: "AT-9", coords: [16.3731, 48.2085],
     name: { de: "Stephansdom", hu: "Szent István-székesegyház", ro: "Catedrala Sfântul Ștefan", en: "St. Stephen's Cathedral" },
     image: "/geo-images/austria/st-stephen-s-cathedral.webp",
@@ -16481,15 +13966,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bergsee Angerer Alm",
-                  "text": "Ein idyllischer Bergsee in Kitzbühel mit einer beeindruckenden Aussicht auf die Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        12.424274,
-                        47.494892
-                  ]
-            },
-            {
                   "name": "Astbergsee",
                   "text": "Ein schöner See in Kitzbühel, der zu einer erholsamen Auszeit im Freien einlädt.",
                   "category": "natural",
@@ -16786,15 +14262,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         12.358583,
                         47.420556
-                  ]
-            },
-            {
-                  "name": "Bergsee Angerer Alm",
-                  "text": "Idilli hegyi tó Kitzbühelben, lenyűgöző kilátással a tájra.",
-                  "category": "natural",
-                  "coords": [
-                        12.424274,
-                        47.494892
                   ]
             },
             {
@@ -17097,15 +14564,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bergsee Angerer Alm",
-                  "text": "Un lac montan idilic în Kitzbuehel, cu o priveliște impresionantă asupra peisajului.",
-                  "category": "natural",
-                  "coords": [
-                        12.424274,
-                        47.494892
-                  ]
-            },
-            {
                   "name": "Astbergsee",
                   "text": "Un lac frumos în Kitzbuehel, care invită la o pauză relaxantă în aer liber.",
                   "category": "natural",
@@ -17402,15 +14860,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         12.358583,
                         47.420556
-                  ]
-            },
-            {
-                  "name": "Bergsee Angerer Alm",
-                  "text": "An idyllic mountain lake in Kitzbuehel with impressive views of the landscape.",
-                  "category": "natural",
-                  "coords": [
-                        12.424274,
-                        47.494892
                   ]
             },
             {
@@ -18634,15 +16083,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Badzone Gamsjaga",
-                  "text": "Ein Badebereich am Ufer des Wolfgangsees.",
-                  "category": "recreational",
-                  "coords": [
-                        13.394884,
-                        47.738792
-                  ]
-            },
-            {
                   "name": "ABARENA",
                   "text": "Ein Erlebnispark am Wolfgangsee mit Attraktionen für Kinder.",
                   "category": "recreational",
@@ -18714,15 +16154,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         13.413953,
                         47.726652
-                  ]
-            },
-            {
-                  "name": "Badzone Gamsjaga",
-                  "text": "Fürdőhely a Wolfgang-tó partján.",
-                  "category": "recreational",
-                  "coords": [
-                        13.394884,
-                        47.738792
                   ]
             },
             {
@@ -18800,15 +16231,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Badzone Gamsjaga",
-                  "text": "O zonă de scăldat pe malul lacului Wolfgang.",
-                  "category": "recreational",
-                  "coords": [
-                        13.394884,
-                        47.738792
-                  ]
-            },
-            {
                   "name": "ABARENA",
                   "text": "Un parc de distracții la lacul Wolfgang, cu atracții pentru copii.",
                   "category": "recreational",
@@ -18880,15 +16302,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         13.413953,
                         47.726652
-                  ]
-            },
-            {
-                  "name": "Badzone Gamsjaga",
-                  "text": "A bathing area on the shores of Lake Wolfgang.",
-                  "category": "recreational",
-                  "coords": [
-                        13.394884,
-                        47.738792
                   ]
             },
             {
@@ -19141,15 +16554,6 @@ export const austriaCities: POI[] = [
     id: "AT-Melk", "sights": {
       "de": [
             {
-                  "name": "Höhensiedlung Wachberg",
-                  "text": "Eine archäologische Fundstätte einer prähistorischen Höhensiedlung nahe Melk.",
-                  "category": "historical",
-                  "coords": [
-                        15.367272,
-                        48.213491
-                  ]
-            },
-            {
                   "name": "Burgruine Gossam",
                   "text": "Mittelalterliche Burgruine auf einem Felsen oberhalb der Donau.",
                   "category": "castle",
@@ -19202,27 +16606,9 @@ export const austriaCities: POI[] = [
                         15.333346,
                         48.228653
                   ]
-            },
-            {
-                  "name": "Wachaubad",
-                  "text": "Ein öffentliches Erlebnisbad in Melk für Sport und Freizeitspaß im Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        15.345865,
-                        48.224479
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Höhensiedlung Wachberg",
-                  "text": "Egy őskori magaslati település régészeti lelőhelye Melk közelében.",
-                  "category": "historical",
-                  "coords": [
-                        15.367272,
-                        48.213491
-                  ]
-            },
             {
                   "name": "Burgruine Gossam",
                   "text": "Középkori várrom egy sziklán, a Duna felett.",
@@ -19276,27 +16662,9 @@ export const austriaCities: POI[] = [
                         15.333346,
                         48.228653
                   ]
-            },
-            {
-                  "name": "Wachaubad",
-                  "text": "Nyilvános élményfürdő Melkben sportoláshoz és vízi kikapcsolódáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        15.345865,
-                        48.224479
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Höhensiedlung Wachberg",
-                  "text": "Un sit arheologic al unei așezări preistorice de înălțime lângă Melk.",
-                  "category": "historical",
-                  "coords": [
-                        15.367272,
-                        48.213491
-                  ]
-            },
             {
                   "name": "Burgruine Gossam",
                   "text": "Ruinele unei cetăți medievale situate pe o stâncă deasupra Dunării.",
@@ -19350,27 +16718,9 @@ export const austriaCities: POI[] = [
                         15.333346,
                         48.228653
                   ]
-            },
-            {
-                  "name": "Wachaubad",
-                  "text": "Un parc acvatic public în Melk pentru sport și distracție recreativă în apă.",
-                  "category": "recreational",
-                  "coords": [
-                        15.345865,
-                        48.224479
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Höhensiedlung Wachberg",
-                  "text": "An archaeological site of a prehistoric hilltop settlement near Melk.",
-                  "category": "historical",
-                  "coords": [
-                        15.367272,
-                        48.213491
-                  ]
-            },
             {
                   "name": "Burgruine Gossam",
                   "text": "Medieval castle ruins situated on a rock above the Danube.",
@@ -19423,15 +16773,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         15.333346,
                         48.228653
-                  ]
-            },
-            {
-                  "name": "Wachaubad",
-                  "text": "A public water park in Melk for sports and recreational swimming.",
-                  "category": "recreational",
-                  "coords": [
-                        15.345865,
-                        48.224479
                   ]
             }
       ]
@@ -20136,15 +17477,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Arbeskopf",
-                  "text": "Ein Gipfel in der Gebirgsgruppe der Venediger- oder Reichenspitzgruppe.",
-                  "category": "landmark",
-                  "coords": [
-                        12.154689,
-                        47.194269
-                  ]
-            },
-            {
                   "name": "Achkogel",
                   "text": "Ein Gipfel in den Alpen nahe der Krimmler Wasserfälle.",
                   "category": "landmark",
@@ -20207,15 +17539,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         12.135277,
                         47.224859
-                  ]
-            },
-            {
-                  "name": "Arbeskopf",
-                  "text": "Egy hegycsúcs a Venediger- vagy a Reichenspitz-csoportban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.154689,
-                        47.194269
                   ]
             },
             {
@@ -20284,15 +17607,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Arbeskopf",
-                  "text": "Un vârf în grupul muntos Venediger sau Reichenspitz.",
-                  "category": "landmark",
-                  "coords": [
-                        12.154689,
-                        47.194269
-                  ]
-            },
-            {
                   "name": "Achkogel",
                   "text": "Un vârf montan în Alpi, aproape de Cascada Krimml.",
                   "category": "landmark",
@@ -20355,15 +17669,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         12.135277,
                         47.224859
-                  ]
-            },
-            {
-                  "name": "Arbeskopf",
-                  "text": "A mountain peak in the Venediger or Reichenspitz group.",
-                  "category": "landmark",
-                  "coords": [
-                        12.154689,
-                        47.194269
                   ]
             },
             {
@@ -20452,69 +17757,6 @@ export const austriaCities: POI[] = [
                         13.619213,
                         47.443013
                   ]
-            },
-            {
-                  "name": "Hohe Gamsfeldspitze",
-                  "text": "Ein Berggipfel in der Region Dachstein.",
-                  "category": "landmark",
-                  "coords": [
-                        13.645396,
-                        47.451982
-                  ]
-            },
-            {
-                  "name": "Großer Koppenkarstein",
-                  "text": "Ein markanter Berggipfel im Dachsteingebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        13.64015,
-                        47.466309
-                  ]
-            },
-            {
-                  "name": "Hinterer Türlspitz",
-                  "text": "Ein Gipfel im Dachsteinmassiv.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635552,
-                        47.46271
-                  ]
-            },
-            {
-                  "name": "Hunerkogel",
-                  "text": "Ein Berggipfel in der Dachsteinregion.",
-                  "category": "landmark",
-                  "coords": [
-                        13.626113,
-                        47.46809
-                  ]
-            },
-            {
-                  "name": "Kleiner Koppenkarstein",
-                  "text": "Ein Berggipfel im Dachsteingebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635496,
-                        47.466334
-                  ]
-            },
-            {
-                  "name": "Marstein",
-                  "text": "Ein Gipfel in der Dachsteinregion.",
-                  "category": "landmark",
-                  "coords": [
-                        13.596974,
-                        47.463315
-                  ]
-            },
-            {
-                  "name": "Mitterspitz",
-                  "text": "Ein markanter Berggipfel im Dachsteinmassiv.",
-                  "category": "landmark",
-                  "coords": [
-                        13.595527,
-                        47.476101
-                  ]
             }
       ],
       "hu": [
@@ -20525,69 +17767,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         13.619213,
                         47.443013
-                  ]
-            },
-            {
-                  "name": "Hohe Gamsfeldspitze",
-                  "text": "Hegycsúcs a Dachstein-régióban.",
-                  "category": "landmark",
-                  "coords": [
-                        13.645396,
-                        47.451982
-                  ]
-            },
-            {
-                  "name": "Großer Koppenkarstein",
-                  "text": "Jellegzetes hegycsúcs a Dachstein-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        13.64015,
-                        47.466309
-                  ]
-            },
-            {
-                  "name": "Hinterer Türlspitz",
-                  "text": "Egy hegycsúcs a Dachstein-masszívumban.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635552,
-                        47.46271
-                  ]
-            },
-            {
-                  "name": "Hunerkogel",
-                  "text": "Hegycsúcs a Dachstein régióban.",
-                  "category": "landmark",
-                  "coords": [
-                        13.626113,
-                        47.46809
-                  ]
-            },
-            {
-                  "name": "Kleiner Koppenkarstein",
-                  "text": "Hegycsúcs a Dachstein-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635496,
-                        47.466334
-                  ]
-            },
-            {
-                  "name": "Marstein",
-                  "text": "Egy hegycsúcs a Dachstein régióban.",
-                  "category": "landmark",
-                  "coords": [
-                        13.596974,
-                        47.463315
-                  ]
-            },
-            {
-                  "name": "Mitterspitz",
-                  "text": "Jellegzetes hegycsúcs a Dachstein-masszívumban.",
-                  "category": "landmark",
-                  "coords": [
-                        13.595527,
-                        47.476101
                   ]
             }
       ],
@@ -20600,69 +17779,6 @@ export const austriaCities: POI[] = [
                         13.619213,
                         47.443013
                   ]
-            },
-            {
-                  "name": "Hohe Gamsfeldspitze",
-                  "text": "Un vârf muntos în regiunea Dachstein.",
-                  "category": "landmark",
-                  "coords": [
-                        13.645396,
-                        47.451982
-                  ]
-            },
-            {
-                  "name": "Großer Koppenkarstein",
-                  "text": "Un vârf muntos proeminent în munții Dachstein.",
-                  "category": "landmark",
-                  "coords": [
-                        13.64015,
-                        47.466309
-                  ]
-            },
-            {
-                  "name": "Hinterer Türlspitz",
-                  "text": "Un vârf în masivul Dachstein.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635552,
-                        47.46271
-                  ]
-            },
-            {
-                  "name": "Hunerkogel",
-                  "text": "Un vârf muntos în regiunea Dachstein.",
-                  "category": "landmark",
-                  "coords": [
-                        13.626113,
-                        47.46809
-                  ]
-            },
-            {
-                  "name": "Kleiner Koppenkarstein",
-                  "text": "Un vârf muntos în munții Dachstein.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635496,
-                        47.466334
-                  ]
-            },
-            {
-                  "name": "Marstein",
-                  "text": "Un vârf în regiunea Dachstein.",
-                  "category": "landmark",
-                  "coords": [
-                        13.596974,
-                        47.463315
-                  ]
-            },
-            {
-                  "name": "Mitterspitz",
-                  "text": "Un vârf muntos proeminent în masivul Dachstein.",
-                  "category": "landmark",
-                  "coords": [
-                        13.595527,
-                        47.476101
-                  ]
             }
       ],
       "en": [
@@ -20673,69 +17789,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         13.619213,
                         47.443013
-                  ]
-            },
-            {
-                  "name": "Hohe Gamsfeldspitze",
-                  "text": "A mountain peak in the Dachstein region.",
-                  "category": "landmark",
-                  "coords": [
-                        13.645396,
-                        47.451982
-                  ]
-            },
-            {
-                  "name": "Großer Koppenkarstein",
-                  "text": "A prominent mountain peak in the Dachstein Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        13.64015,
-                        47.466309
-                  ]
-            },
-            {
-                  "name": "Hinterer Türlspitz",
-                  "text": "A peak in the Dachstein massif.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635552,
-                        47.46271
-                  ]
-            },
-            {
-                  "name": "Hunerkogel",
-                  "text": "A mountain peak in the Dachstein region.",
-                  "category": "landmark",
-                  "coords": [
-                        13.626113,
-                        47.46809
-                  ]
-            },
-            {
-                  "name": "Kleiner Koppenkarstein",
-                  "text": "A mountain peak in the Dachstein Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635496,
-                        47.466334
-                  ]
-            },
-            {
-                  "name": "Marstein",
-                  "text": "A peak in the Dachstein region.",
-                  "category": "landmark",
-                  "coords": [
-                        13.596974,
-                        47.463315
-                  ]
-            },
-            {
-                  "name": "Mitterspitz",
-                  "text": "A prominent mountain peak in the Dachstein massif.",
-                  "category": "landmark",
-                  "coords": [
-                        13.595527,
-                        47.476101
                   ]
             }
       ]
@@ -20784,87 +17837,6 @@ export const austriaCities: POI[] = [
     id: "AT-Staatsoper", "sights": {
       "de": [
             {
-                  "name": "Albertina",
-                  "text": "Dieses berühmte Wiener Museum beherbergt eine der bedeutendsten grafischen Sammlungen der Welt.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Ein zeitgenössisches Theater im Wiener Rabenhof, das für seine vielfältigen Produktionen bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Ein beliebtes Wiener Unterhaltungstheater, das Musicals, Kabarett und Konzerte anbietet.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Ein Wiener Theater, das sich auf Aufführungen für Kinder und Jugendliche spezialisiert hat.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Ein wichtiges Ausstellungszentrum in Wien, das bedeutende Werke der klassischen Moderne zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Dieses Museum im Wiener MuseumsQuartier widmet sich der Architektur und Stadtplanung.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Dieses Museum in Wien dokumentiert die Geschichte der Pfadfinderbewegung.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Ein traditionsreiches Wiener Boulevardtheater, das zum Theater in der Josefstadt gehört.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "Ein tropisches Schmetterlingshaus, das eine Vielzahl exotischer Schmetterlingsarten beherbergt.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
                   "name": "Wellnessoase Sonnwendviertel",
                   "text": "Ein modernes Sport- und Wellnesszentrum, das verschiedene Erholungs- und Fitnessmöglichkeiten bietet.",
                   "category": "recreational",
@@ -20872,126 +17844,9 @@ export const austriaCities: POI[] = [
                         16.380213,
                         48.181047
                   ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Dieses Aquarium ist in einem ehemaligen Flakturm untergebracht und zeigt eine vielfältige Meeresfauna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Ein orientalisches Hammam und Spa, das Entspannung in einem stilvollen Ambiente bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Ein familienfreundliches Freibad mit verschiedenen Wasserbecken für Kinder.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "Ein Sportzentrum mit Schwimmbecken und Einrichtungen für sportliche Aktivitäten.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Albertina",
-                  "text": "Ez a híres bécsi múzeum a világ egyik legjelentősebb grafikai gyűjteményének ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Kortárs színház a bécsi Rabenhof lakótelepen, amely változatos produkcióiról ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Népszerű bécsi szórakoztató színház, amely musicaleket, kabarékat és koncerteket kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Bécsi színház, amely gyermekeknek és fiataloknak szóló előadásokra szakosodott.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria kortárs művészeti fórum",
-                  "text": "Fontos bécsi kiállítóhely, amely a klasszikus modernizmus jelentős alkotásait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Bécsi Építészeti Központ",
-                  "text": "Ez a bécsi MuseumsQuartierban található múzeum az építészetnek és a várostervezésnek szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Ez a bécsi múzeum a cserkészmozgalom történelmét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Hagyományőrző bécsi bulvárszínház, amely a Theater in der Josefstadthoz tartozik.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Lepkeház",
-                  "text": "Egy trópusi lepkeház, amely számos egzotikus lepkefajnak ad otthont.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
             {
                   "name": "Wellnessoase Sonnwendviertel",
                   "text": "Modern sport- és wellnessközpont, amely különféle kikapcsolódási és fitneszlehetőségeket kínál.",
@@ -21000,126 +17855,9 @@ export const austriaCities: POI[] = [
                         16.380213,
                         48.181047
                   ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Ez az akvárium egy egykori légvédelmi toronyban található, és változatos tengeri élővilágot mutat be.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Orientális hammam és fürdő, amely stílusos környezetben kínál pihenést.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Családbarát szabadtéri strand különböző medencékkel gyerekek számára.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "Sportközpont úszómedencével és különféle sportolási lehetőségekkel.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Albertina",
-                  "text": "Acest faimos muzeu din Viena găzduiește una dintre cele mai importante colecții grafice din lume.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Un teatru contemporan situat în complexul Rabenhof din Viena, cunoscut pentru producțiile sale diverse.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Un teatru de divertisment popular din Viena, care oferă musicaluri, cabaret și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Un teatru din Viena specializat în spectacole pentru copii și tineri.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Un centru expozițional important din Viena, care prezintă opere semnificative ale modernismului clasic.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Acest muzeu din cartierul muzeelor din Viena este dedicat arhitecturii și urbanismului.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Acest muzeu din Viena documentează istoria mișcării de cercetași.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Un teatru de bulevard cu tradiție din Viena, care aparține de Theater in der Josefstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "O casă tropicală a fluturilor care adăpostește numeroase specii exotice.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
             {
                   "name": "Wellnessoase Sonnwendviertel",
                   "text": "Un centru modern de sport și wellness care oferă diverse facilități de recreere și fitness.",
@@ -21128,126 +17866,9 @@ export const austriaCities: POI[] = [
                         16.380213,
                         48.181047
                   ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Acest acvariu este situat într-un fost turn antiaerian și prezintă o faună marină diversă.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Un hamam și spa oriental care oferă relaxare într-un cadru elegant.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Un ștrand pentru familii cu diverse bazine destinate copiilor.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "Un centru sportiv cu piscină și facilități pentru activități atletice.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Albertina",
-                  "text": "This famous Vienna museum houses one of the most important graphic collections in the world.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "A contemporary theatre in Vienna's Rabenhof, known for its diverse productions.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "A popular Vienna entertainment theatre offering musicals, cabaret, and concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "A Vienna theatre specializing in performances for children and young people.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "An important exhibition center in Vienna featuring major works of classical modernism.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architecture Centre Vienna",
-                  "text": "This museum in Vienna's MuseumsQuartier is dedicated to architecture and urban planning.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "This museum in Vienna documents the history of the scouting movement.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "A traditional Vienna boulevard theatre belonging to the Theater in der Josefstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Butterfly House",
-                  "text": "A tropical butterfly house home to numerous exotic species.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
             {
                   "name": "Wellnessoase Sonnwendviertel",
                   "text": "A modern sports and wellness centre offering various recreation and fitness facilities.",
@@ -21255,42 +17876,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.380213,
                         48.181047
-                  ]
-            },
-            {
-                  "name": "House of the Sea",
-                  "text": "This aquarium is housed in a former flak tower and displays a diverse marine fauna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "An oriental hammam and spa offering relaxation in a stylish setting.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "A family-friendly outdoor pool with various basins for children.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "A sports centre with a swimming pool and facilities for athletic activities.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
                   ]
             }
       ]
@@ -21328,123 +17913,6 @@ export const austriaCities: POI[] = [
                         16.36826,
                         48.204636
                   ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Ein bekanntes Theater im Wiener Rabenhof, das für sein zeitgenössisches Programm geschätzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Ein traditionsreiches Wiener Theater und Veranstaltungszentrum im Stadtteil Hernals.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Ein Wiener Theater, das sich auf Aufführungen für Kinder und Jugendliche spezialisiert hat.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Ein bekanntes Kunstmuseum in Wien, das bedeutende internationale Wechselausstellungen zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Ein Museum und Ausstellungszentrum in Wien, das sich der modernen Architektur widmet.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Ein Museum in Wien, das die Geschichte und Kultur der Pfadfinderbewegung dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Ein traditionsreiches Wiener Theater, das für seine Unterhaltungsstücke bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "Ein tropisches Schmetterlingshaus in Wien, nahe der Albertina.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Ein modernes Sport- und Wellnesszentrum im Wiener Sonnwendviertel.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Ein großes Aquarium und Vivarium in einem ehemaligen Flakturm.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Ein traditionelles Hamam und Spa für Entspannung im Herzen Wiens.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Ein öffentliches Familienbad und eine Wasseranlage am Wiener Einsiedlerplatz.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "Eine Sport- und Badeanlage, die verschiedene Freizeitaktivitäten bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
-                  ]
             }
       ],
       "hu": [
@@ -21455,123 +17923,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.36826,
                         48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Ismert színház a bécsi Rabenhofban, amelyet kortárs programjaiért értékelnek.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Nagy múltú bécsi színház és rendezvényközpont Hernals városrészben.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Gyermek- és ifjúsági előadásokra szakosodott bécsi színház.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria kortárs művészeti fórum",
-                  "text": "Bécsi művészeti múzeum, amely jelentős nemzetközi időszaki kiállításoknak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Bécsi Építészeti Központ",
-                  "text": "Bécsi múzeum és kiállítási központ, amely a modern építészetre összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Bécsi múzeum, amely a cserkészmozgalom történetét és kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Hagyományos bécsi színház, amely szórakoztató darabjairól ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Lepkeház",
-                  "text": "Trópusi lepkeház Bécsben, az Albertina közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Modern sport- és wellnessközpont a bécsi Sonnwendviertel negyedben.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Hatalmas akvárium és vivárium egy egykori légvédelmi toronyban.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Tradicionális hammam és gyógyfürdő Bécs szívében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Nyilvános családi fürdő és vízi létesítmény a bécsi Einsiedlerplatzon.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "Sport- és fürdőlétesítmény, amely különféle szabadidős tevékenységeket kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
                   ]
             }
       ],
@@ -21584,123 +17935,6 @@ export const austriaCities: POI[] = [
                         16.36826,
                         48.204636
                   ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Un teatru cunoscut în complexul Rabenhof din Viena, apreciat pentru programul său contemporan.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Un teatru și centru de evenimente cu tradiție din Viena, situat în cartierul Hernals.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Un teatru din Viena specializat în spectacole pentru copii și tineret.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Un muzeu de artă renumit din Viena, care găzduiește expoziții internaționale temporare majore.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Un muzeu și centru de expoziții din Viena dedicat arhitecturii moderne.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Un muzeu din Viena care documentează istoria și cultura mișcării cercetașilor.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Un teatru tradițional din Viena, cunoscut pentru spectacolele sale de divertisment.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "O casă tropicală pentru fluturi în Viena, lângă Albertina.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Un centru modern de sport și wellness în cartierul Sonnwendviertel din Viena.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Un acvariu și vivariu de mari dimensiuni, situat într-un fost turn antiaerian.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Un hamam și spa tradițional pentru relaxare în inima Vienei.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Un parc acvatic public și centru de înot pentru familii în Einsiedlerplatz, Viena.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "O facilitate sportivă și de înot care oferă diverse activități recreative.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
-                  ]
             }
       ],
       "en": [
@@ -21711,123 +17945,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.36826,
                         48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "A well-known theatre in Vienna's Rabenhof complex, valued for its contemporary programming.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "A long-standing Viennese theatre and event center located in the Hernals district.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "A Viennese theatre specializing in performances for children and young people.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "A well-known art museum in Vienna hosting major international temporary exhibitions.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architecture Centre Vienna",
-                  "text": "A museum and exhibition center in Vienna dedicated to modern architecture.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "A museum in Vienna documenting the history and culture of the scouting movement.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "A traditional Vienna theatre known for its entertainment plays.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Butterfly House",
-                  "text": "A tropical butterfly house in Vienna, located near the Albertina.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "A modern sports and wellness center in Vienna's Sonnwendviertel district.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "House of the Sea",
-                  "text": "A large aquarium and vivarium housed in a former anti-aircraft tower.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "A traditional hammam and spa offering relaxation in the heart of Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "A public water park and swimming facility for families at Vienna's Einsiedlerplatz.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "A sports and swimming facility providing various recreational activities.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
                   ]
             }
       ]
@@ -21858,105 +17975,6 @@ export const austriaCities: POI[] = [
     id: "AT-KHM", "sights": {
       "de": [
             {
-                  "name": "Albertina",
-                  "text": "Ein bedeutendes Kunstmuseum in Wien mit einer der größten grafischen Sammlungen der Welt.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Ein Wiener Theater, das für zeitgenössische Stücke und Kabarett bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Ein bekanntes Wiener Veranstaltungszentrum für Musik und Theater.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Ein Wiener Theater, das sich auf Aufführungen für Kinder und Jugendliche spezialisiert hat.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Ein renommiertes Ausstellungshaus für bildende Kunst in der Wiener Innenstadt.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Das österreichische Museum für Architektur im MuseumsQuartier Wien.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Ein Museum in Wien, das die Geschichte der Pfadfinderbewegung dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Ein traditionsreiches Wiener Theater, das zum Theater in der Josefstadt gehört.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "Ein tropisches Schmetterlingshaus nahe dem Kunsthistorischen Museum.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Ein Sport- und Wellnesszentrum in der Nähe des Wiener Sonnwendviertels.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Ein großes Aquarium in Wien, das in einem historischen Flakturm untergebracht ist.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
                   "name": "Aux Gazelles Hammam-Spa",
                   "text": "Ein orientalisches Bad und Spa nahe dem Kunsthistorischen Museum.",
                   "category": "recreational",
@@ -21964,126 +17982,9 @@ export const austriaCities: POI[] = [
                         16.360922,
                         48.201632
                   ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Ein familienfreundliches Wasserbecken am Einsiedlerplatz.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Familienbad Hofferplatz",
-                  "text": "Ein öffentliches Familienbad am Hofferplatz in Wien.",
-                  "category": "recreational",
-                  "coords": [
-                        16.333431,
-                        48.209064
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Albertina",
-                  "text": "Bécs egyik legjelentősebb művészeti múzeuma, a világ egyik legnagyobb grafikai gyűjteményével.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Kortárs darabokról és kabaréiról ismert bécsi színház.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Ismert bécsi rendezvényközpont zenei és színházi előadások számára.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Gyermek- és ifjúsági előadásokra szakosodott bécsi színház.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria kortárs művészeti fórum",
-                  "text": "A képzőművészet elismert kiállítóhelye Bécs belvárosában.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Bécsi Építészeti Központ",
-                  "text": "Ausztria építészeti múzeuma a bécsi MuseumsQuartierben.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Bécsi múzeum, amely a cserkészmozgalom történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Nagy múltú bécsi színház, amely a Theater in der Josefstadt részét képezi.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Lepkeház",
-                  "text": "Trópusi lepkeház a Szépművészeti Múzeum közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Sport- és wellnessközpont a bécsi Sonnwendviertel közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Bécsi akvárium, amely egy történelmi légvédelmi toronyban kapott helyet.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
             {
                   "name": "Aux Gazelles Hammam-Spa",
                   "text": "Orientális fürdő és spa a Szépművészeti Múzeum közelében.",
@@ -22092,126 +17993,9 @@ export const austriaCities: POI[] = [
                         16.360922,
                         48.201632
                   ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Családbarát medence az Einsiedlerplatzon.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Familienbad Hofferplatz",
-                  "text": "Nyilvános családi fürdő a bécsi Hofferplatzon.",
-                  "category": "recreational",
-                  "coords": [
-                        16.333431,
-                        48.209064
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Albertina",
-                  "text": "Un muzeu de artă major din Viena, cu una dintre cele mai mari colecții grafice din lume.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Un teatru vienez cunoscut pentru piese contemporane și cabaret.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Un centru de evenimente cunoscut în Viena pentru muzică și teatru.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Un teatru din Viena specializat în spectacole pentru copii și tineret.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "O prestigioasă casă de expoziții pentru arte plastice în centrul Vienei.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Muzeul austriac de arhitectură din MuseumsQuartier Viena.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Un muzeu din Viena care documentează istoria mișcării cercetașilor.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Un teatru vienez cu tradiție, care aparține de Theater in der Josefstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "O casă tropicală pentru fluturi lângă Muzeul de Istorie a Artei.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Un centru de sport și wellness în apropierea cartierului Sonnwendviertel.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Un acvariu mare din Viena, adăpostit într-un turn antiaerian istoric.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
             {
                   "name": "Aux Gazelles Hammam-Spa",
                   "text": "O baie orientală și spa lângă Muzeul de Istorie a Artei.",
@@ -22220,126 +18004,9 @@ export const austriaCities: POI[] = [
                         16.360922,
                         48.201632
                   ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "O piscină pentru familii situată în Einsiedlerplatz.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Familienbad Hofferplatz",
-                  "text": "Un parc acvatic public pentru familii în Hofferplatz, Viena.",
-                  "category": "recreational",
-                  "coords": [
-                        16.333431,
-                        48.209064
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Albertina",
-                  "text": "A major art museum in Vienna housing one of the world's largest graphic collections.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "A Viennese theatre known for contemporary plays and cabaret.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "A well-known Viennese event venue for music and theatre.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "A Viennese theatre specializing in performances for children and young people.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "A renowned exhibition venue for fine arts in Vienna's city center.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architecture Centre Vienna",
-                  "text": "The Austrian museum of architecture located in the MuseumsQuartier Vienna.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "A museum in Vienna documenting the history of the scouting movement.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "A traditional Viennese theatre belonging to the Theater in der Josefstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Butterfly House",
-                  "text": "A tropical butterfly house located near the Kunsthistorisches Museum.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "A sports and wellness center near the Sonnwendviertel district in Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "House of the Sea",
-                  "text": "A large aquarium in Vienna housed in a historic anti-aircraft tower.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
             {
                   "name": "Aux Gazelles Hammam-Spa",
                   "text": "An oriental bath and spa located near the Kunsthistorisches Museum.",
@@ -22347,24 +18014,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.360922,
                         48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "A family-friendly swimming facility located at Einsiedlerplatz.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Familienbad Hofferplatz",
-                  "text": "A public water park for families at Hofferplatz in Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.333431,
-                        48.209064
                   ]
             }
       ]
@@ -22395,66 +18044,12 @@ export const austriaCities: POI[] = [
     id: "AT-Prater", "sights": {
       "de": [
             {
-                  "name": "Albertina",
-                  "text": "Die Albertina beherbergt eine der bedeutendsten grafischen Sammlungen der Welt.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
                   "name": "Rabenhof",
                   "text": "Ein populäres Wiener Theater, das für seine zeitgenössischen Produktionen und Kabaretts bekannt ist.",
                   "category": "cultural",
                   "coords": [
                         16.401665,
                         48.19582
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Ein Theater in Wien, das sich besonders auf Aufführungen für ein junges Publikum konzentriert.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Ein renommiertes Museum in Wien, das bedeutende Wechselausstellungen zur klassischen Moderne zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Das österreichische Architekturmuseum präsentiert Ausstellungen zur Architektur des 20. und 21. Jahrhunderts.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Eine traditionsreiche Bühne der Josefstadt, die vor allem für Unterhaltungstheater bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Jüdisches Museum Wien",
-                  "text": "Das Museum dokumentiert die Geschichte und Kultur der jüdischen Gemeinde in Wien.",
-                  "category": "museum",
-                  "coords": [
-                        16.369293,
-                        48.20713
                   ]
             },
             {
@@ -22467,15 +18062,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Schmetterlinghaus",
-                  "text": "Ein tropisches Schmetterlingshaus, das eine Vielzahl exotischer Schmetterlingsarten beherbergt.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
                   "name": "Kinderfreibad der Stadt Wien",
                   "text": "Ein speziell auf Kinder ausgerichtetes Freibad mit flachen Becken und Spielbereichen.",
                   "category": "recreational",
@@ -22483,54 +18069,9 @@ export const austriaCities: POI[] = [
                         16.44361,
                         48.243327
                   ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Ein modernes Sport- und Wellnesszentrum, das verschiedene Erholungs- und Fitnessmöglichkeiten bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Dieses Aquarium ist in einem ehemaligen Flakturm untergebracht und zeigt eine vielfältige Meeresfauna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Ein orientalisches Hammam und Spa, das Entspannung in einem stilvollen Ambiente bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Ein familienfreundliches Freibad mit verschiedenen Wasserbecken für Kinder.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Albertina",
-                  "text": "Az Albertina a világ egyik legjelentősebb grafikai gyűjteményének ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
             {
                   "name": "Rabenhof",
                   "text": "Népszerű bécsi színház, amely kortárs produkcióiról és kabaréiról ismert.",
@@ -22538,51 +18079,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.401665,
                         48.19582
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Bécsi színház, amely elsősorban a fiatal közönségnek szóló előadásokra összpontosít.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria kortárs művészeti fórum",
-                  "text": "Renomált bécsi múzeum, amely jelentős időszaki kiállításokat mutat be a klasszikus modernizmusról.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Bécsi Építészeti Központ",
-                  "text": "Az osztrák építészeti múzeum a 20. és 21. századi építészetet bemutató kiállításokat kínál.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "A Josefstadt nagy múltú színpada, amely elsősorban szórakoztató darabjairól ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Bécsi Zsidó Múzeum",
-                  "text": "A múzeum a bécsi zsidó közösség történelmét és kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        16.369293,
-                        48.20713
                   ]
             },
             {
@@ -22595,15 +18091,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lepkeház",
-                  "text": "Egy trópusi lepkeház, amely számos egzotikus lepkefajnak ad otthont.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
                   "name": "Kinderfreibad der Stadt Wien",
                   "text": "Kifejezetten gyerekeknek kialakított strand sekély medencékkel és játszóterekkel.",
                   "category": "recreational",
@@ -22611,54 +18098,9 @@ export const austriaCities: POI[] = [
                         16.44361,
                         48.243327
                   ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Modern sport- és wellnessközpont, amely különféle kikapcsolódási és fitneszlehetőségeket kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Ez az akvárium egy egykori légvédelmi toronyban található, és változatos tengeri élővilágot mutat be.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Orientális hammam és fürdő, amely stílusos környezetben kínál pihenést.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Családbarát szabadtéri strand különböző medencékkel gyerekek számára.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Albertina",
-                  "text": "Albertina găzduiește una dintre cele mai importante colecții de grafică din lume.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
             {
                   "name": "Rabenhof",
                   "text": "Un teatru popular din Viena, cunoscut pentru producțiile sale contemporane și spectacolele de cabaret.",
@@ -22666,51 +18108,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.401665,
                         48.19582
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Un teatru din Viena care se concentrează în special pe spectacole pentru publicul tânăr.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Un muzeu renumit din Viena, care prezintă expoziții temporare importante de artă modernă clasică.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Muzeul austriac de arhitectură prezintă expoziții despre arhitectura secolelor XX și XXI.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "O scenă cu tradiție a Teatrului Josefstadt, cunoscută în special pentru spectacole de divertisment.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Jüdisches Museum Wien",
-                  "text": "Muzeul documentează istoria și cultura comunității evreiești din Viena.",
-                  "category": "museum",
-                  "coords": [
-                        16.369293,
-                        48.20713
                   ]
             },
             {
@@ -22723,15 +18120,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Schmetterlinghaus",
-                  "text": "O casă tropicală a fluturilor care adăpostește numeroase specii exotice.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
                   "name": "Kinderfreibad der Stadt Wien",
                   "text": "Un ștrand special pentru copii, cu bazine puțin adânci și zone de joacă.",
                   "category": "recreational",
@@ -22739,54 +18127,9 @@ export const austriaCities: POI[] = [
                         16.44361,
                         48.243327
                   ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Un centru modern de sport și wellness care oferă diverse facilități de recreere și fitness.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Acest acvariu este situat într-un fost turn antiaerian și prezintă o faună marină diversă.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Un hamam și spa oriental care oferă relaxare într-un cadru elegant.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Un ștrand pentru familii cu diverse bazine destinate copiilor.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Albertina",
-                  "text": "The Albertina houses one of the most significant graphic collections in the world.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
             {
                   "name": "Rabenhof",
                   "text": "A popular Viennese theatre known for its contemporary productions and cabarets.",
@@ -22794,51 +18137,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.401665,
                         48.19582
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "A theatre in Vienna that focuses particularly on performances for a young audience.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "A renowned museum in Vienna showcasing significant temporary exhibitions of classic modern art.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architecture Centre Vienna",
-                  "text": "The Austrian architecture museum presents exhibitions on 20th and 21st-century architecture.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "A traditional stage of the Josefstadt Theatre, known primarily for entertainment theatre.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Jewish Museum Vienna",
-                  "text": "The museum documents the history and culture of the Jewish community in Vienna.",
-                  "category": "museum",
-                  "coords": [
-                        16.369293,
-                        48.20713
                   ]
             },
             {
@@ -22851,57 +18149,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Butterfly House",
-                  "text": "A tropical butterfly house home to numerous exotic species.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
                   "name": "Kinderfreibad der Stadt Wien",
                   "text": "An outdoor pool specifically designed for children with shallow basins and play areas.",
                   "category": "recreational",
                   "coords": [
                         16.44361,
                         48.243327
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "A modern sports and wellness centre offering various recreation and fitness facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "House of the Sea",
-                  "text": "This aquarium is housed in a former flak tower and displays a diverse marine fauna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "An oriental hammam and spa offering relaxation in a stylish setting.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "A family-friendly outdoor pool with various basins for children.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
                   ]
             }
       ]
@@ -25655,33 +20908,6 @@ export const austriaCities: POI[] = [
                         12.661473,
                         47.174557
                   ]
-            },
-            {
-                  "name": "Jaggeser",
-                  "text": "Ein Berggipfel in der Nähe des Kitzsteinhorns in den österreichischen Alpen.",
-                  "category": "landmark",
-                  "coords": [
-                        12.644689,
-                        47.206023
-                  ]
-            },
-            {
-                  "name": "Rettinger",
-                  "text": "Ein Alpengipfel im Gebiet des Kitzsteinhorns.",
-                  "category": "landmark",
-                  "coords": [
-                        12.676983,
-                        47.223274
-                  ]
-            },
-            {
-                  "name": "Lakarschneid",
-                  "text": "Ein Berggipfel in der Gebirgsgruppe des Kitzsteinhorns.",
-                  "category": "landmark",
-                  "coords": [
-                        12.682132,
-                        47.218939
-                  ]
             }
       ],
       "hu": [
@@ -25728,33 +20954,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         12.661473,
                         47.174557
-                  ]
-            },
-            {
-                  "name": "Jaggeser",
-                  "text": "Egy hegycsúcs a Kitzsteinhorn közelében az osztrák Alpokban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.644689,
-                        47.206023
-                  ]
-            },
-            {
-                  "name": "Rettinger",
-                  "text": "Egy alpesi hegycsúcs a Kitzsteinhorn vidékén.",
-                  "category": "landmark",
-                  "coords": [
-                        12.676983,
-                        47.223274
-                  ]
-            },
-            {
-                  "name": "Lakarschneid",
-                  "text": "Egy hegycsúcs a Kitzsteinhorn hegycsoportjában.",
-                  "category": "landmark",
-                  "coords": [
-                        12.682132,
-                        47.218939
                   ]
             }
       ],
@@ -25803,33 +21002,6 @@ export const austriaCities: POI[] = [
                         12.661473,
                         47.174557
                   ]
-            },
-            {
-                  "name": "Jaggeser",
-                  "text": "Un vârf montan situat în apropierea Kitzsteinhorn din Alpii austrieci.",
-                  "category": "landmark",
-                  "coords": [
-                        12.644689,
-                        47.206023
-                  ]
-            },
-            {
-                  "name": "Rettinger",
-                  "text": "Un vârf alpin în zona Kitzsteinhorn.",
-                  "category": "landmark",
-                  "coords": [
-                        12.676983,
-                        47.223274
-                  ]
-            },
-            {
-                  "name": "Lakarschneid",
-                  "text": "Un vârf muntos din grupul Kitzsteinhorn.",
-                  "category": "landmark",
-                  "coords": [
-                        12.682132,
-                        47.218939
-                  ]
             }
       ],
       "en": [
@@ -25876,33 +21048,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         12.661473,
                         47.174557
-                  ]
-            },
-            {
-                  "name": "Jaggeser",
-                  "text": "A mountain peak located near the Kitzsteinhorn in the Austrian Alps.",
-                  "category": "landmark",
-                  "coords": [
-                        12.644689,
-                        47.206023
-                  ]
-            },
-            {
-                  "name": "Rettinger",
-                  "text": "An alpine peak in the Kitzsteinhorn area.",
-                  "category": "landmark",
-                  "coords": [
-                        12.676983,
-                        47.223274
-                  ]
-            },
-            {
-                  "name": "Lakarschneid",
-                  "text": "A mountain peak in the Kitzsteinhorn mountain group.",
-                  "category": "landmark",
-                  "coords": [
-                        12.682132,
-                        47.218939
                   ]
             }
       ]
@@ -26536,33 +21681,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hochtor",
-                  "text": "Der höchste Berg in den Ennstaler Alpen.",
-                  "category": "landmark",
-                  "coords": [
-                        14.632606,
-                        47.561847
-                  ]
-            },
-            {
-                  "name": "Hochzinödl",
-                  "text": "Ein markanter Berggipfel in der Region Gesäuse.",
-                  "category": "landmark",
-                  "coords": [
-                        14.666104,
-                        47.565503
-                  ]
-            },
-            {
-                  "name": "Planspitze",
-                  "text": "Auffälliger Kalksteingipfel, beliebt bei Wanderern und Bergsteigern.",
-                  "category": "landmark",
-                  "coords": [
-                        14.640091,
-                        47.573581
-                  ]
-            },
-            {
                   "name": "Gstatterstein",
                   "text": "Ein Berggipfel im Nationalpark Gesäuse.",
                   "category": "landmark",
@@ -26598,33 +21716,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.636356,
                         47.591637
-                  ]
-            },
-            {
-                  "name": "Hochtor",
-                  "text": "Az Ennstali-Alpok legmagasabb hegycsúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        14.632606,
-                        47.561847
-                  ]
-            },
-            {
-                  "name": "Hochzinödl",
-                  "text": "Jellegzetes hegycsúcs a Gesäuse régióban.",
-                  "category": "landmark",
-                  "coords": [
-                        14.666104,
-                        47.565503
-                  ]
-            },
-            {
-                  "name": "Planspitze",
-                  "text": "Látványos mészkőcsúcs, amely népszerű a túrázók és sziklamászók körében.",
-                  "category": "landmark",
-                  "coords": [
-                        14.640091,
-                        47.573581
                   ]
             },
             {
@@ -26666,33 +21757,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hochtor",
-                  "text": "Cel mai înalt munte din Alpii Ennstal.",
-                  "category": "landmark",
-                  "coords": [
-                        14.632606,
-                        47.561847
-                  ]
-            },
-            {
-                  "name": "Hochzinödl",
-                  "text": "Un vârf montan proeminent în regiunea Gesäuse.",
-                  "category": "landmark",
-                  "coords": [
-                        14.666104,
-                        47.565503
-                  ]
-            },
-            {
-                  "name": "Planspitze",
-                  "text": "Un vârf calcaros impresionant, popular printre drumeți și alpiniști.",
-                  "category": "landmark",
-                  "coords": [
-                        14.640091,
-                        47.573581
-                  ]
-            },
-            {
                   "name": "Gstatterstein",
                   "text": "Un vârf muntos în Parcul Național Gesäuse.",
                   "category": "landmark",
@@ -26728,33 +21792,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.636356,
                         47.591637
-                  ]
-            },
-            {
-                  "name": "Hochtor",
-                  "text": "The highest mountain in the Ennstaler Alps.",
-                  "category": "landmark",
-                  "coords": [
-                        14.632606,
-                        47.561847
-                  ]
-            },
-            {
-                  "name": "Hochzinödl",
-                  "text": "A prominent mountain peak in the Gesäuse region.",
-                  "category": "landmark",
-                  "coords": [
-                        14.666104,
-                        47.565503
-                  ]
-            },
-            {
-                  "name": "Planspitze",
-                  "text": "A striking limestone peak popular with hikers and climbers.",
-                  "category": "landmark",
-                  "coords": [
-                        14.640091,
-                        47.573581
                   ]
             },
             {
@@ -26856,15 +21893,6 @@ export const austriaCities: POI[] = [
     "id": "at-thayatal-np", "sights": {
       "de": [
             {
-                  "name": "Burg Hardegg",
-                  "text": "Eine mächtige Burganlage über der Thaya, bekannt für ihre gut erhaltenen Wehranlagen.",
-                  "category": "castle",
-                  "coords": [
-                        15.856877,
-                        48.853735
-                  ]
-            },
-            {
                   "name": "Ruine Kaja",
                   "text": "Die Ruinen einer mittelalterlichen Höhenburg im Nationalpark Thayatal.",
                   "category": "castle",
@@ -26881,63 +21909,9 @@ export const austriaCities: POI[] = [
                         15.922762,
                         48.814457
                   ]
-            },
-            {
-                  "name": "Guckkastenmuseum",
-                  "text": "Ein Museum im Thayatal, das die Geschichte und Technik von Guckkästen präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        15.858186,
-                        48.854389
-                  ]
-            },
-            {
-                  "name": "ehem. Zollhaus",
-                  "text": "Ein kleines Museum in einem ehemaligen Zollhaus an der Grenze zwischen Österreich und Tschechien.",
-                  "category": "museum",
-                  "coords": [
-                        15.86231,
-                        48.852548
-                  ]
-            },
-            {
-                  "name": "Waldbad Hardegg",
-                  "text": "Ein beheiztes Freibad in Hardegg, das Erholung inmitten des Nationalparks bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        15.850037,
-                        48.853763
-                  ]
-            },
-            {
-                  "name": "Ruine Neuhäusl",
-                  "text": "Die eindrucksvollen Ruinen einer Doppelburg im Thayatal, nahe der tschechischen Grenze.",
-                  "category": "historical",
-                  "coords": [
-                        15.906216,
-                        48.837267
-                  ]
-            },
-            {
-                  "name": "Hardegger Warte",
-                  "text": "Ein Aussichtspunkt im Nationalpark Thayatal mit Blick auf die Stadt Hardegg.",
-                  "category": "natural",
-                  "coords": [
-                        15.860989,
-                        48.857428
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Burg Hardegg",
-                  "text": "Hatalmas várrendszer a Thaya folyó felett, amely jól megőrzött védműveiről ismert.",
-                  "category": "castle",
-                  "coords": [
-                        15.856877,
-                        48.853735
-                  ]
-            },
             {
                   "name": "Ruine Kaja",
                   "text": "Egy középkori hegyi vár romjai a Thayatal Nemzeti Parkban.",
@@ -26955,63 +21929,9 @@ export const austriaCities: POI[] = [
                         15.922762,
                         48.814457
                   ]
-            },
-            {
-                  "name": "Guckkastenmuseum",
-                  "text": "Múzeum a Thaya-völgyben, amely a kukucskáló dobozok (Guckkasten) történetét és technikáját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        15.858186,
-                        48.854389
-                  ]
-            },
-            {
-                  "name": "ehem. Zollhaus",
-                  "text": "Kismúzeum egy egykori vámszáz épületében az osztrák-cseh határon.",
-                  "category": "museum",
-                  "coords": [
-                        15.86231,
-                        48.852548
-                  ]
-            },
-            {
-                  "name": "Waldbad Hardegg",
-                  "text": "Fűtött szabadtéri strand Hardeggben, amely kikapcsolódást nyújt a nemzeti park közepén.",
-                  "category": "recreational",
-                  "coords": [
-                        15.850037,
-                        48.853763
-                  ]
-            },
-            {
-                  "name": "Nový Hrádek",
-                  "text": "Egy kettősvár lenyűgöző romjai a Thaya-völgyben, a cseh határ közelében.",
-                  "category": "historical",
-                  "coords": [
-                        15.906216,
-                        48.837267
-                  ]
-            },
-            {
-                  "name": "Hardegger Warte",
-                  "text": "Kilátópont a Thayatal Nemzeti Parkban, ahonnan Hardegg városára nyílik kilátás.",
-                  "category": "natural",
-                  "coords": [
-                        15.860989,
-                        48.857428
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Burg Hardegg",
-                  "text": "O cetate impunătoare deasupra râului Thaya, cunoscută pentru fortificațiile sale bine conservate.",
-                  "category": "castle",
-                  "coords": [
-                        15.856877,
-                        48.853735
-                  ]
-            },
             {
                   "name": "Ruine Kaja",
                   "text": "Ruinele unui castel medieval situat pe deal în Parcul Național Thayatal.",
@@ -27029,63 +21949,9 @@ export const austriaCities: POI[] = [
                         15.922762,
                         48.814457
                   ]
-            },
-            {
-                  "name": "Guckkastenmuseum",
-                  "text": "Un muzeu în Valea Thaya, care prezintă istoria și tehnica cutiilor optice (Guckkasten).",
-                  "category": "museum",
-                  "coords": [
-                        15.858186,
-                        48.854389
-                  ]
-            },
-            {
-                  "name": "ehem. Zollhaus",
-                  "text": "Un mic muzeu situat într-o fostă vamă la granița dintre Austria și Cehia.",
-                  "category": "museum",
-                  "coords": [
-                        15.86231,
-                        48.852548
-                  ]
-            },
-            {
-                  "name": "Waldbad Hardegg",
-                  "text": "O piscină în aer liber în Hardegg, oferind recreere în mijlocul parcului național.",
-                  "category": "recreational",
-                  "coords": [
-                        15.850037,
-                        48.853763
-                  ]
-            },
-            {
-                  "name": "Nový Hrádek",
-                  "text": "Ruinele impresionante ale unui castel dublu în Valea Thaya, aproape de granița cu Cehia.",
-                  "category": "historical",
-                  "coords": [
-                        15.906216,
-                        48.837267
-                  ]
-            },
-            {
-                  "name": "Hardegger Warte",
-                  "text": "Un punct de observare în Parcul Național Thayatal, cu vedere spre orașul Hardegg.",
-                  "category": "natural",
-                  "coords": [
-                        15.860989,
-                        48.857428
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Burg Hardegg",
-                  "text": "A mighty castle complex above the Thaya, known for its well-preserved fortifications.",
-                  "category": "castle",
-                  "coords": [
-                        15.856877,
-                        48.853735
-                  ]
-            },
             {
                   "name": "Ruine Kaja",
                   "text": "The ruins of a medieval hilltop castle in the Thayatal National Park.",
@@ -27102,51 +21968,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         15.922762,
                         48.814457
-                  ]
-            },
-            {
-                  "name": "Guckkastenmuseum",
-                  "text": "A museum in the Thaya Valley presenting the history and technique of peep boxes.",
-                  "category": "museum",
-                  "coords": [
-                        15.858186,
-                        48.854389
-                  ]
-            },
-            {
-                  "name": "ehem. Zollhaus",
-                  "text": "A small museum housed in a former customs house on the Austrian-Czech border.",
-                  "category": "museum",
-                  "coords": [
-                        15.86231,
-                        48.852548
-                  ]
-            },
-            {
-                  "name": "Waldbad Hardegg",
-                  "text": "An outdoor swimming pool in Hardegg, offering recreation in the middle of the national park.",
-                  "category": "recreational",
-                  "coords": [
-                        15.850037,
-                        48.853763
-                  ]
-            },
-            {
-                  "name": "Nový Hrádek",
-                  "text": "The impressive ruins of a double castle in the Thaya Valley, near the Czech border.",
-                  "category": "historical",
-                  "coords": [
-                        15.906216,
-                        48.837267
-                  ]
-            },
-            {
-                  "name": "Hardegg vista",
-                  "text": "A viewpoint in the Thayatal National Park with a view of the town of Hardegg.",
-                  "category": "natural",
-                  "coords": [
-                        15.860989,
-                        48.857428
                   ]
             }
       ]
@@ -27988,39 +22809,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Schloss Röthelstein",
-                  "text": "Dieses barocke Schloss thront über Admont und dient heute als Tagungszentrum.",
-                  "category": "castle",
-                  "coords": [
-                        14.452927,
-                        47.566699
-                  ]
-            },
-            {
-                  "name": "Freibad Hall",
-                  "text": "Ein lokales Freibad in Hall bei Admont für sommerliches Badevergnügen.",
-                  "category": "recreational",
-                  "coords": [
-                        14.456881,
-                        47.603342
-                  ]
-            },
-            {
                   "name": "Dörfelstein",
                   "text": "Ein markanter Berggipfel in der Region um das Stift Admont.",
                   "category": "landmark",
                   "coords": [
                         14.478498,
                         47.603687
-                  ]
-            },
-            {
-                  "name": "Leichenberg",
-                  "text": "Ein Berggipfel in der alpinen Landschaft nahe Admont.",
-                  "category": "landmark",
-                  "coords": [
-                        14.427173,
-                        47.591159
                   ]
             },
             {
@@ -28039,15 +22833,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.50487,
                         47.560005
-                  ]
-            },
-            {
-                  "name": "Hallenbad Admont",
-                  "text": "Ein Hallenbad in Admont, das ganzjähriges Schwimmvergnügen für Besucher bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        14.45857,
-                        47.578527
                   ]
             },
             {
@@ -28080,39 +22865,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Schloss Röthelstein",
-                  "text": "Ez a barokk kastély Admont felett magasodik, ma rendezvényközpontként működik.",
-                  "category": "castle",
-                  "coords": [
-                        14.452927,
-                        47.566699
-                  ]
-            },
-            {
-                  "name": "Freibad Hall",
-                  "text": "Helyi szabadtéri strand Admont közelében a nyári kikapcsolódáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        14.456881,
-                        47.603342
-                  ]
-            },
-            {
                   "name": "Dörfelstein",
                   "text": "Egy jellegzetes hegycsúcs az admonti apátság környékén.",
                   "category": "landmark",
                   "coords": [
                         14.478498,
                         47.603687
-                  ]
-            },
-            {
-                  "name": "Leichenberg",
-                  "text": "Hegycsúcs az Admont környéki alpesi tájon.",
-                  "category": "landmark",
-                  "coords": [
-                        14.427173,
-                        47.591159
                   ]
             },
             {
@@ -28131,15 +22889,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.50487,
                         47.560005
-                  ]
-            },
-            {
-                  "name": "Hallenbad Admont",
-                  "text": "Fedett uszoda Admontban, amely egész évben úszási lehetőséget biztosít a látogatóknak.",
-                  "category": "recreational",
-                  "coords": [
-                        14.45857,
-                        47.578527
                   ]
             },
             {
@@ -28172,39 +22921,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Schloss Röthelstein",
-                  "text": "Acest castel baroc domină localitatea Admont și servește astăzi drept centru de conferințe.",
-                  "category": "castle",
-                  "coords": [
-                        14.452927,
-                        47.566699
-                  ]
-            },
-            {
-                  "name": "Freibad Hall",
-                  "text": "Un ștrand local în Hall lângă Admont pentru relaxare pe timp de vară.",
-                  "category": "recreational",
-                  "coords": [
-                        14.456881,
-                        47.603342
-                  ]
-            },
-            {
                   "name": "Dörfelstein",
                   "text": "Un vârf montan proeminent în regiunea din jurul abației Admont.",
                   "category": "landmark",
                   "coords": [
                         14.478498,
                         47.603687
-                  ]
-            },
-            {
-                  "name": "Leichenberg",
-                  "text": "Un vârf montan în peisajul alpin de lângă Admont.",
-                  "category": "landmark",
-                  "coords": [
-                        14.427173,
-                        47.591159
                   ]
             },
             {
@@ -28223,15 +22945,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.50487,
                         47.560005
-                  ]
-            },
-            {
-                  "name": "Hallenbad Admont",
-                  "text": "O piscină acoperită în Admont, care oferă facilități de înot pe tot parcursul anului.",
-                  "category": "recreational",
-                  "coords": [
-                        14.45857,
-                        47.578527
                   ]
             },
             {
@@ -28264,39 +22977,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Schloss Röthelstein",
-                  "text": "This Baroque castle overlooks Admont and now serves as a conference center.",
-                  "category": "castle",
-                  "coords": [
-                        14.452927,
-                        47.566699
-                  ]
-            },
-            {
-                  "name": "Freibad Hall",
-                  "text": "A local outdoor swimming pool in Hall near Admont for summer recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        14.456881,
-                        47.603342
-                  ]
-            },
-            {
                   "name": "Dörfelstein",
                   "text": "A prominent mountain peak in the region around Admont Abbey.",
                   "category": "landmark",
                   "coords": [
                         14.478498,
                         47.603687
-                  ]
-            },
-            {
-                  "name": "Leichenberg",
-                  "text": "A mountain peak in the alpine landscape near Admont.",
-                  "category": "landmark",
-                  "coords": [
-                        14.427173,
-                        47.591159
                   ]
             },
             {
@@ -28315,15 +23001,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         14.50487,
                         47.560005
-                  ]
-            },
-            {
-                  "name": "Hallenbad Admont",
-                  "text": "An indoor swimming pool in Admont providing year-round swimming facilities for visitors.",
-                  "category": "recreational",
-                  "coords": [
-                        14.45857,
-                        47.578527
                   ]
             },
             {
@@ -29294,123 +23971,6 @@ export const austriaCities: POI[] = [
     id: "at-historic-centre-vienna", "sights": {
       "de": [
             {
-                  "name": "Rabenhof",
-                  "text": "Ein beliebtes Theater in einem historischen Gemeindebau im 3. Wiener Gemeindebezirk.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Ein vielseitiger Veranstaltungsort und Theater in Wien, bekannt für Musicals und Konzerte.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Ein bedeutendes Kinder- und Jugendtheater im Herzen von Wien.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Ein Ausstellungsraum in Wien, berühmt für seine großen Retrospektiven moderner Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Österreichs nationales Museum und Ausstellungszentrum für Architektur und Stadtplanung.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Ein Museum in Wien, das der Geschichte der Pfadfinderbewegung gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Ein Traditionstheater in der Wiener Innenstadt, bekannt für Boulevardstücke und Komödien.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Jüdisches Museum Wien",
-                  "text": "Ein Museum zur Geschichte, Kultur und zum Leben der jüdischen Gemeinde in Wien.",
-                  "category": "museum",
-                  "coords": [
-                        16.369293,
-                        48.20713
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "Ein tropisches Schmetterlingshaus im historischen Zentrum von Wien.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Ein modernes Sportzentrum für Wellness und Fitness in Wien.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Ein Aquarium und Zoo, der in einem massiven ehemaligen Flakturm untergebracht ist.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Ein orientalisches Hamam und Spa für Entspannung und Wellness.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Ein beliebter Wasserpark für Familien im Herzen der Stadt.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
                   "name": "Siemens-Bad",
                   "text": "Ein Sportzentrum mit Schwimmbad und verschiedenen Fitnesseinrichtungen.",
                   "category": "recreational",
@@ -29421,123 +23981,6 @@ export const austriaCities: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Rabenhof",
-                  "text": "Népszerű színház egy történelmi önkormányzati lakóépületben Bécs 3. kerületében.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Sokoldalú szórakoztatóhely és színház Bécsben, amely musicaljeiről és koncertjeiről ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Jelentős gyermek- és ifjúsági színház Bécs szívében.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria kortárs művészeti fórum",
-                  "text": "Kiállítóhely Bécsben, amely a modern művészet nagy retrospektív tárlatairól híres.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Bécsi Építészeti Központ",
-                  "text": "Ausztria nemzeti építészeti és várostervezési múzeuma és kiállítóhelye.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Bécsi múzeum, amely a cserkészmozgalom történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Hagyományos színház Bécs belvárosában, amely bulvárdarabjairól és vígjátékairól ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Bécsi Zsidó Múzeum",
-                  "text": "A bécsi zsidó közösség történelmét, kultúráját és életét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        16.369293,
-                        48.20713
-                  ]
-            },
-            {
-                  "name": "Lepkeház",
-                  "text": "Trópusi lepkeház Bécs történelmi belvárosában.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Modern sportközpont wellness- és fitneszszolgáltatásokkal Bécsben.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Hatalmas egykori légvédelmi toronyban kialakított akvárium és állatkert.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Orientális hammam és gyógyfürdő pihenésre és felfrissülésre.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Népszerű családi élményfürdő a város szívében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
             {
                   "name": "Siemens-Bad",
                   "text": "Sportközpont úszómedencével és különféle fitneszlétesítményekkel.",
@@ -29550,123 +23993,6 @@ export const austriaCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rabenhof",
-                  "text": "Un teatru popular situat într-un complex istoric de locuințe municipale din districtul 3 al Vienei.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "O locație versatilă de divertisment și teatru din Viena, cunoscută pentru musicaluri și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Un important teatru pentru copii și tineret situat în inima Vienei.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Un spațiu expozițional din Viena, renumit pentru marile sale retrospective de artă modernă.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Muzeul național și centrul expozițional al Austriei dedicat arhitecturii și designului urban.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Un muzeu din Viena dedicat istoriei mișcării cercetașilor.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Un teatru tradițional din centrul Vienei, cunoscut pentru piesele de bulevard și comedii.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Jüdisches Museum Wien",
-                  "text": "Un muzeu care prezintă istoria, cultura și viața comunității evreiești din Viena.",
-                  "category": "museum",
-                  "coords": [
-                        16.369293,
-                        48.20713
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "O casă tropicală a fluturilor în centrul istoric al Vienei.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Un centru sportiv modern pentru wellness și fitness în Viena.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Un acvariu și grădină zoologică găzduite într-un fost turn antiaerian masiv.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Un hammam și spa oriental pentru relaxare și wellness.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Un parc acvatic popular pentru familii în inima orașului.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
                   "name": "Siemens-Bad",
                   "text": "Un centru sportiv cu piscină și diverse facilități de fitness.",
                   "category": "recreational",
@@ -29677,123 +24003,6 @@ export const austriaCities: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Rabenhof",
-                  "text": "A popular theatre located in a historic municipal housing complex in Vienna's 3rd district.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "A versatile entertainment venue and theatre in Vienna known for its musicals and concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "A prominent children's and youth theatre located in the heart of Vienna.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "An exhibition space in Vienna famous for its major retrospectives of modern art.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architecture Centre Vienna",
-                  "text": "Austria's national museum and exhibition center dedicated to architecture and urban design.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "A museum in Vienna dedicated to the history of the scouting movement.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "A traditional theatre in Vienna's inner city, known for its boulevard plays and comedies.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Jewish Museum Vienna",
-                  "text": "A museum chronicling the history, culture, and life of the Jewish community in Vienna.",
-                  "category": "museum",
-                  "coords": [
-                        16.369293,
-                        48.20713
-                  ]
-            },
-            {
-                  "name": "Butterfly House",
-                  "text": "A tropical butterfly house in the historic centre of Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "A modern sports center for wellness and fitness in Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "House of the Sea",
-                  "text": "An aquarium and zoo housed in a massive former flak tower.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "An oriental hammam and spa for relaxation and wellness.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "A popular family-friendly water park in the heart of the city.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
             {
                   "name": "Siemens-Bad",
                   "text": "A sports centre with a swimming pool and various fitness facilities.",
@@ -30001,24 +24210,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Schloss Grabenhof",
-                  "text": "Ein historisches Schlossgebäude in der Wachau-Region in Niederösterreich.",
-                  "category": "castle",
-                  "coords": [
-                        15.471325,
-                        48.300696
-                  ]
-            },
-            {
-                  "name": "Schloss Gurhof",
-                  "text": "Ein barockes Landschloss in der niederösterreichischen Gemeinde Dunkelsteinerwald.",
-                  "category": "castle",
-                  "coords": [
-                        15.467883,
-                        48.29227
-                  ]
-            },
-            {
                   "name": "Burgruine Aggstein",
                   "text": "Eine imposante Burgruine hoch über der Donau mit weitem Blick über die Wachau.",
                   "category": "castle",
@@ -30063,24 +24254,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         15.404266,
                         48.323397
-                  ]
-            },
-            {
-                  "name": "Schloss Grabenhof",
-                  "text": "Történelmi kastélyépület az alsó-ausztriai Wachau régióban.",
-                  "category": "castle",
-                  "coords": [
-                        15.471325,
-                        48.300696
-                  ]
-            },
-            {
-                  "name": "Schloss Gurhof",
-                  "text": "Barokk vidéki kastély az alsó-ausztriai Dunkelsteinerwald községben.",
-                  "category": "castle",
-                  "coords": [
-                        15.467883,
-                        48.29227
                   ]
             },
             {
@@ -30131,24 +24304,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Schloss Grabenhof",
-                  "text": "O clădire istorică de castel situată în regiunea Wachau din Austria Inferioară.",
-                  "category": "castle",
-                  "coords": [
-                        15.471325,
-                        48.300696
-                  ]
-            },
-            {
-                  "name": "Schloss Gurhof",
-                  "text": "Un castel baroc situat în comuna Dunkelsteinerwald din Austria Inferioară.",
-                  "category": "castle",
-                  "coords": [
-                        15.467883,
-                        48.29227
-                  ]
-            },
-            {
                   "name": "Burgruine Aggstein",
                   "text": "O ruină de castel impunătoare deasupra Dunării, oferind o vedere panoramică asupra regiunii Wachau.",
                   "category": "castle",
@@ -30193,24 +24348,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         15.404266,
                         48.323397
-                  ]
-            },
-            {
-                  "name": "Schloss Grabenhof",
-                  "text": "A historical castle building located in the Wachau region of Lower Austria.",
-                  "category": "castle",
-                  "coords": [
-                        15.471325,
-                        48.300696
-                  ]
-            },
-            {
-                  "name": "Schloss Gurhof",
-                  "text": "A Baroque country castle in the Lower Austrian municipality of Dunkelsteinerwald.",
-                  "category": "castle",
-                  "coords": [
-                        15.467883,
-                        48.29227
                   ]
             },
             {
@@ -31426,15 +25563,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hirschenkogel",
-                  "text": "Berggipfel am Semmering-Pass, bekannt für Skifahren und Wandern.",
-                  "category": "landmark",
-                  "coords": [
-                        15.833766,
-                        47.622151
-                  ]
-            },
-            {
                   "name": "Rabenkropf",
                   "text": "Aussichtspunkt im Stuhleck-Gebiet mit Blick auf die Alpen.",
                   "category": "natural",
@@ -31488,15 +25616,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         15.827919,
                         47.635081
-                  ]
-            },
-            {
-                  "name": "Hirschenkogel",
-                  "text": "A Semmering-hágó közeli hegycsúcs, amely sípályáiról és túraútvonalairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        15.833766,
-                        47.622151
                   ]
             },
             {
@@ -31556,15 +25675,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hirschenkogel",
-                  "text": "Vârf montan de lângă pasul Semmering, cunoscut pentru schi și drumeții.",
-                  "category": "landmark",
-                  "coords": [
-                        15.833766,
-                        47.622151
-                  ]
-            },
-            {
                   "name": "Rabenkropf",
                   "text": "Punct de observație în Munții Stuhleck ce oferă panorame alpine.",
                   "category": "natural",
@@ -31618,15 +25728,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         15.827919,
                         47.635081
-                  ]
-            },
-            {
-                  "name": "Hirschenkogel",
-                  "text": "Mountain peak near the Semmering Pass, known for skiing and hiking.",
-                  "category": "landmark",
-                  "coords": [
-                        15.833766,
-                        47.622151
                   ]
             },
             {
@@ -32203,120 +26304,12 @@ export const austriaCities: POI[] = [
     id: "at-burgtheater", "sights": {
       "de": [
             {
-                  "name": "Albertina",
-                  "text": "Ein bedeutendes Kunstmuseum in Wien mit einer der weltweit größten grafischen Sammlungen.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Ein bekanntes Wiener Theater, das für seine zeitgenössischen Aufführungen geschätzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Ein vielseitiger Veranstaltungsort und Theater im Wiener Bezirk Hernals.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Ein Theater im Zentrum Wiens, das auf Kinder- und Jugendstücke spezialisiert ist.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
                   "name": "Bank Austria Kunstforum",
                   "text": "Ein renommiertes Ausstellungshaus in Wien für internationale Kunst.",
                   "category": "museum",
                   "coords": [
                         16.366258,
                         48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Ein Museum und Forschungszentrum für Architektur im Wiener Museumsquartier.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Ein Museum in Wien, das die Geschichte der Pfadfinderbewegung dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Eine traditionsreiche Spielstätte des Theaters in der Josefstadt in Wien.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "Ein tropisches Schmetterlingshaus in der Nähe des Wiener Burgtheaters.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Ein modernes Wellnesszentrum für Sport und Erholung.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Ein Aquarium und Zoo, der in einem massiven ehemaligen Flakturm untergebracht ist.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Ein orientalisches Spa, das traditionelle Hamam-Behandlungen bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Ein kinderfreundlicher Wasserpark mit flachen Becken und Spielbereichen.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
                   ]
             },
             {
@@ -32331,120 +26324,12 @@ export const austriaCities: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Albertina",
-                  "text": "Jelentős bécsi művészeti múzeum, amely a világ egyik legnagyobb grafikai gyűjteményének ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Ismert bécsi színház, amely kortárs előadásairól nevezetes.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Sokoldalú rendezvényhelyszín és színház Bécs Hernals negyedében.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Bécs központjában található színház, amely gyermek- és ifjúsági darabokra szakosodott.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
                   "name": "Bank Austria kortárs művészeti fórum",
                   "text": "Néves bécsi kiállítóhely, amely nemzetközi művészeti tárlatoknak ad otthont.",
                   "category": "museum",
                   "coords": [
                         16.366258,
                         48.211441
-                  ]
-            },
-            {
-                  "name": "Bécsi Építészeti Központ",
-                  "text": "Építészeti múzeum és kutatóközpont a bécsi Museumsquartier területén.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Bécsi múzeum, amely a cserkészmozgalom történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "A bécsi Theater in der Josefstadt patinás kamaraszínpada.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Lepkeház",
-                  "text": "Trópusi lepkeház a bécsi Burgtheater közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Modern wellnessközpont sportoláshoz és kikapcsolódáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Hatalmas egykori légvédelmi toronyban kialakított akvárium és állatkert.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Tradicionális hammam kezeléseket kínáló orientális gyógyfürdő.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Gyermekbarát élményfürdő sekély medencékkel és játszóterekkel.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
                   ]
             },
             {
@@ -32459,120 +26344,12 @@ export const austriaCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Albertina",
-                  "text": "Un muzeu de artă major din Viena, care găzduiește una dintre cele mai mari colecții grafice din lume.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Un teatru vienez renumit, apreciat pentru spectacolele sale contemporane.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "O locație versatilă pentru evenimente și teatru în districtul Hernals din Viena.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Un teatru din centrul Vienei specializat în piese pentru copii și tineret.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
                   "name": "Bank Austria Kunstforum",
                   "text": "O casă de expoziții renumită din Viena dedicată artei internaționale.",
                   "category": "museum",
                   "coords": [
                         16.366258,
                         48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Un muzeu și centru de cercetare pentru arhitectură situat în cartierul muzeelor din Viena.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Un muzeu din Viena care documentează istoria mișcării cercetașilor.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "O scenă tradițională a teatrului vienez Josefstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "O casă tropicală a fluturilor lângă Burgtheater din Viena.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Un centru de wellness modern pentru sport și recreere.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Un acvariu și grădină zoologică găzduite într-un fost turn antiaerian masiv.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Un spa oriental care oferă tratamente tradiționale de hammam.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Un parc acvatic pentru copii, cu bazine puțin adânci și zone de joacă.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
                   ]
             },
             {
@@ -32587,120 +26364,12 @@ export const austriaCities: POI[] = [
       ],
       "en": [
             {
-                  "name": "Albertina",
-                  "text": "A major art museum in Vienna housing one of the world's largest graphic art collections.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "A well-known Viennese theatre appreciated for its contemporary performances.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "A versatile event venue and theatre in Vienna's Hernals district.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "A theatre in the center of Vienna specializing in plays for children and young audiences.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
                   "name": "Bank Austria Kunstforum",
                   "text": "A renowned exhibition venue in Vienna for international art.",
                   "category": "museum",
                   "coords": [
                         16.366258,
                         48.211441
-                  ]
-            },
-            {
-                  "name": "Architecture Centre Vienna",
-                  "text": "A museum and research center for architecture located in Vienna's Museumsquartier.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "A museum in Vienna documenting the history of the scouting movement.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "A traditional theatre venue in Vienna belonging to the Theater in der Josefstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Butterfly House",
-                  "text": "A tropical butterfly house located near the Burgtheater in Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "A modern wellness center for sports and recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "House of the Sea",
-                  "text": "An aquarium and zoo housed in a massive former flak tower.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "An oriental spa offering traditional hammam treatments.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "A child-friendly water park with shallow pools and play areas.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
                   ]
             },
             {
@@ -32758,518 +26427,10 @@ export const austriaCities: POI[] = [
   },
   {
     id: "at-austrian-parliament", "sights": {
-      "de": [
-            {
-                  "name": "Albertina",
-                  "text": "Eines der bedeutendsten Kunstmuseen Wiens mit einer weltberühmten Grafischen Sammlung.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Ein modernes Theater in einem Wiener Gemeindebau, bekannt für Kabarett und Satire.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Ein bekanntes Wiener Veranstaltungshaus für Musik, Theater und Kabarett.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Ein Wiener Theater, das sich auf anspruchsvolle Stücke für Kinder und Jugendliche spezialisiert hat.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Ein renommiertes Ausstellungshaus in Wien für internationale klassische Moderne.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Ein Zentrum in Wien, das sich der Vermittlung und Erforschung von Architektur widmet.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Ein kleines Museum in Wien, das die Geschichte der Pfadfinderbewegung dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Ein traditionsreiches Wiener Theater, das Unterhaltung auf hohem Niveau bietet.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "Ein tropisches Schmetterlingshaus im Wiener Burggarten.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Ein modernes Sport- und Wellnesszentrum im Sonnwendviertel.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Ein Aquarium und Zoo, der in einem massiven ehemaligen Flakturm untergebracht ist.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Ein traditionelles Hamam und Spa, das Entspannung in orientalischer Atmosphäre bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Ein familienfreundlicher Wasserpark mit speziellen Bereichen für Kinder.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Familienbad Hofferplatz",
-                  "text": "Ein öffentliches Freibad für Familien mit verschiedenen Spielmöglichkeiten.",
-                  "category": "recreational",
-                  "coords": [
-                        16.333431,
-                        48.209064
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Albertina",
-                  "text": "Bécs egyik legfontosabb művészeti múzeuma világírű grafikai gyűjteménnyel.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Modern színház egy bécsi lakótelepen, amely kabaréiról és szatíráiról ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Ismert bécsi rendezvényhelyszín zenei esteknek, színháznak és kabarénak.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Gyermekeknek és fiataloknak szóló igényes darabokra szakosodott bécsi színház.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria kortárs művészeti fórum",
-                  "text": "Rangos bécsi kiállítóhely, amely a nemzetközi klasszikus modern művészetre összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Bécsi Építészeti Központ",
-                  "text": "Bécsi központ, amely az építészet közvetítésével és kutatásával foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Kismúzeum Bécsben, amely a cserkészmozgalom történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Nagy múltú bécsi színház, amely színvonalas szórakoztató darabokat kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Lepkeház",
-                  "text": "Trópusi lepkeház a bécsi Burggarten területén.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Modern sport- és wellnessközpont a Sonnwendviertel negyedben.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Hatalmas egykori légvédelmi toronyban kialakított akvárium és állatkert.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Hagyományos hammam és gyógyfürdő, amely keleti hangulatú kikapcsolódást kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Családbarát élményfürdő speciális gyermekrészlegekkel.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Familienbad Hofferplatz",
-                  "text": "Családi szabadtéri strand különféle játéklehetőségekkel.",
-                  "category": "recreational",
-                  "coords": [
-                        16.333431,
-                        48.209064
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Albertina",
-                  "text": "Unul dintre cele mai importante muzee de artă din Viena, cu o colecție grafică celebră.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Un teatru modern într-un complex de locuințe din Viena, cunoscut pentru cabaret și satiră.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "O cunoscută sală de spectacole din Viena pentru muzică, teatru și cabaret.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Un teatru vienez specializat în piese de calitate pentru copii și tineret.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "O renumită galerie de artă din Viena, axată pe modernismul clasic internațional.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Un centru din Viena dedicat medierii și cercetării arhitecturii.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Un mic muzeu în Viena care documentează istoria mișcării cercetașilor.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Un teatru vienez cu tradiție, care oferă spectacole de divertisment de înaltă calitate.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "O casă tropicală a fluturilor situată în Burggarten, Viena.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Un centru sportiv și de wellness modern în cartierul Sonnwendviertel.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Un acvariu și grădină zoologică găzduite într-un fost turn antiaerian masiv.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Un hammam și spa tradițional care oferă relaxare într-o atmosferă orientală.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Un parc acvatic pentru familii, cu zone speciale pentru copii.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Familienbad Hofferplatz",
-                  "text": "Un ștrand public pentru familii, cu diverse facilități de joacă.",
-                  "category": "recreational",
-                  "coords": [
-                        16.333431,
-                        48.209064
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Albertina",
-                  "text": "One of Vienna's most important art museums, home to a world-famous graphic collection.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "A modern theatre in a Vienna housing estate, known for cabaret and satire.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "A well-known Vienna venue for music, theatre, and cabaret performances.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "A Vienna theatre specializing in high-quality plays for children and young people.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "A renowned exhibition venue in Vienna focusing on international classic modern art.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architecture Centre Vienna",
-                  "text": "A centre in Vienna dedicated to the communication and research of architecture.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "A small museum in Vienna documenting the history of the scouting movement.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "A traditional Vienna theatre offering high-quality entertainment and comedy.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Butterfly House",
-                  "text": "A tropical butterfly house located in the Burggarten in Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "A modern sports and wellness center in the Sonnwendviertel district.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "House of the Sea",
-                  "text": "An aquarium and zoo housed in a massive former flak tower.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "A traditional hammam and spa offering relaxation in an oriental atmosphere.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "A family-friendly water park with special areas for children.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Familienbad Hofferplatz",
-                  "text": "A public outdoor pool for families with various play facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        16.333431,
-                        48.209064
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "landmark",
     parent: "AT",
@@ -33317,120 +26478,12 @@ export const austriaCities: POI[] = [
     id: "at-vienna-city-hall", "sights": {
       "de": [
             {
-                  "name": "Albertina",
-                  "text": "Ein bedeutendes Kunstmuseum in Wien, das eine der weltweit größten grafischen Sammlungen beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Ein Theater in einem historischen Gemeindebau, bekannt für zeitgenössische Stücke.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
                   "name": "Metropol",
                   "text": "Ein beliebtes Wiener Veranstaltungslokal für Konzerte, Musicals und Kabarett.",
                   "category": "cultural",
                   "coords": [
                         16.33422,
                         48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Eine Spielstätte des Theaters der Jugend, spezialisiert auf Aufführungen für ein junges Publikum.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Eine private Kunstgalerie in Wien, die Wechselausstellungen moderner und zeitgenössischer Kunst zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Ein Museum in Wien, das der Architektur und Baukultur gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Ein Museum in Wien, das die Geschichte der Pfadfinderbewegung dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Ein traditionsreiches Wiener Theater, das heute Teil des Theaters in der Josefstadt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "Ein tropisches Schmetterlingshaus, das eine Vielzahl exotischer Schmetterlingsarten beherbergt.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Ein modernes Sport- und Wellnesszentrum, das verschiedene Erholungs- und Fitnessmöglichkeiten bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Dieses Aquarium ist in einem ehemaligen Flakturm untergebracht und zeigt eine vielfältige Meeresfauna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Ein orientalisches Hammam und Spa, das Entspannung in einem stilvollen Ambiente bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Ein familienfreundliches Freibad mit verschiedenen Wasserbecken für Kinder.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
                   ]
             },
             {
@@ -33445,120 +26498,12 @@ export const austriaCities: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Albertina",
-                  "text": "Bécs egyik jelentős művészeti múzeuma, amely a világ egyik legnagyobb grafikai gyűjteményének ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Egy történelmi önkormányzati lakótelepen található színház, amely kortárs darabjairól ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
                   "name": "Metropol",
                   "text": "Népszerű bécsi szórakozóhely, amely koncerteknek, musicaleknek és kabaréknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         16.33422,
                         48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "A Theater der Jugend egyik játszóhelye, amely fiatal közönségnek szóló előadásokra szakosodott.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria kortárs művészeti fórum",
-                  "text": "Magánművészeti galéria Bécsben, amely modern és kortárs művészeti időszaki kiállításoknak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Bécsi Építészeti Központ",
-                  "text": "Bécsi múzeum, amely az építészetnek és az építészeti kultúrának szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "A cserkészmozgalom történetét bemutató múzeum Bécsben.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Nagy múltú bécsi színház, amely ma a Theater in der Josefstadt része.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Lepkeház",
-                  "text": "Egy trópusi lepkeház, amely számos egzotikus lepkefajnak ad otthont.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Modern sport- és wellnessközpont, amely különféle kikapcsolódási és fitneszlehetőségeket kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Ez az akvárium egy egykori légvédelmi toronyban található, és változatos tengeri élővilágot mutat be.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Orientális hammam és fürdő, amely stílusos környezetben kínál pihenést.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Családbarát szabadtéri strand különböző medencékkel gyerekek számára.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
                   ]
             },
             {
@@ -33573,120 +26518,12 @@ export const austriaCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Albertina",
-                  "text": "Un important muzeu de artă din Viena, care adăpostește una dintre cele mai mari colecții de grafică din lume.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Un teatru situat într-un complex istoric de locuințe municipale, cunoscut pentru piese contemporane.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
                   "name": "Metropol",
                   "text": "O locație populară de divertisment din Viena, care găzduiește concerte, musicaluri și cabaret.",
                   "category": "cultural",
                   "coords": [
                         16.33422,
                         48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "O locație a Theater der Jugend, specializată în spectacole pentru publicul tânăr.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "O galerie de artă privată din Viena care găzduiește expoziții temporare de artă modernă și contemporană.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Un muzeu din Viena dedicat arhitecturii și culturii arhitecturale.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Un muzeu din Viena care documentează istoria mișcării cercetașilor.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Un teatru tradițional din Viena, care astăzi face parte din Theater in der Josefstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "O casă tropicală a fluturilor care adăpostește numeroase specii exotice.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Un centru modern de sport și wellness care oferă diverse facilități de recreere și fitness.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Acest acvariu este situat într-un fost turn antiaerian și prezintă o faună marină diversă.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Un hamam și spa oriental care oferă relaxare într-un cadru elegant.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Un ștrand pentru familii cu diverse bazine destinate copiilor.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
                   ]
             },
             {
@@ -33701,120 +26538,12 @@ export const austriaCities: POI[] = [
       ],
       "en": [
             {
-                  "name": "Albertina",
-                  "text": "A major art museum in Vienna housing one of the world's largest print rooms.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "A theatre located in a historic municipal housing complex, known for contemporary plays.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
                   "name": "Metropol",
                   "text": "A popular entertainment venue in Vienna hosting concerts, musicals, and cabaret.",
                   "category": "cultural",
                   "coords": [
                         16.33422,
                         48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "A venue of the Theater der Jugend, specializing in performances for young audiences.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "A private art gallery in Vienna hosting temporary exhibitions of modern and contemporary art.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architecture Centre Vienna",
-                  "text": "A museum in Vienna dedicated to architecture and architectural culture.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "A museum in Vienna documenting the history of the Scouting movement.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "A traditional Viennese theatre that is now part of the Theater in der Josefstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
-                  "name": "Butterfly House",
-                  "text": "A tropical butterfly house home to numerous exotic species.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "A modern sports and wellness centre offering various recreation and fitness facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "House of the Sea",
-                  "text": "This aquarium is housed in a former flak tower and displays a diverse marine fauna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "An oriental hammam and spa offering relaxation in a stylish setting.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "A family-friendly outdoor pool with various basins for children.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
                   ]
             },
             {
@@ -33874,51 +26603,6 @@ export const austriaCities: POI[] = [
     id: "at-museumquartier", "sights": {
       "de": [
             {
-                  "name": "Albertina",
-                  "text": "Ein weltberühmtes Kunstmuseum in Wien mit einer umfangreichen grafischen Sammlung.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Ein populäres Wiener Theater, das für sein vielfältiges Programm und seine soziale Satire bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Ein bekannter Veranstaltungsort in Wien für Musik, Kabarett und Theateraufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Ein Theater im Wiener Stadtzentrum, das vor allem Stücke für Kinder und Jugendliche zeigt.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Eine bedeutende Wiener Kunstgalerie, die große Wechselausstellungen moderner und klassischer Kunst zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
                   "name": "Architekturzentrum Wien",
                   "text": "Ein Museum und Forschungszentrum im Wiener MuseumsQuartier mit Schwerpunkt auf moderner Architektur.",
                   "category": "museum",
@@ -33937,48 +26621,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kammerspiele",
-                  "text": "Ein historisches Wiener Theater, das zur Bühne des Theaters in der Josefstadt gehört.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
                   "name": "Haus des Meeres",
                   "text": "Ein Aquarium und Zoo, der in einem massiven ehemaligen Flakturm untergebracht ist.",
                   "category": "recreational",
                   "coords": [
                         16.352958,
                         48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Ein Hamam-Spa im MuseumsQuartier, das Wellnessbehandlungen bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "Ein tropisches Schmetterlingshaus in der Nähe des MuseumsQuartiers.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Ein modernes Sport- und Fitnesszentrum für aktive Erholung.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
                   ]
             },
             {
@@ -33989,63 +26637,9 @@ export const austriaCities: POI[] = [
                         16.349541,
                         48.18571
                   ]
-            },
-            {
-                  "name": "Familienbad Hofferplatz",
-                  "text": "Ein familienfreundliches Freibad am Hofferplatz im Wiener MuseumsQuartier-Viertel.",
-                  "category": "recreational",
-                  "coords": [
-                        16.333431,
-                        48.209064
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Albertina",
-                  "text": "Világhírű bécsi művészeti múzeum, amely jelentős grafikai gyűjteménnyel rendelkezik.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Népszerű bécsi színház, amely változatos programjáról és társadalmi szatíráiról ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Ismert bécsi szórakozóhely, amely koncerteknek, kabaréknak és színházi előadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Bécs belvárosában található színház, amely elsősorban gyermek- és ifjúsági előadásokra szakosodott.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria kortárs művészeti fórum",
-                  "text": "Jelentős bécsi művészeti galéria, amely modern és klasszikus művészeti időszaki kiállításoknak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
             {
                   "name": "Bécsi Építészeti Központ",
                   "text": "A bécsi MuseumsQuartier területén található múzeum és kutatóhely, amely a modern építészetre összpontosít.",
@@ -34065,48 +26659,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kammerspiele",
-                  "text": "Történelmi bécsi színház, amely a Theater in der Josefstadt részét képezi.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
                   "name": "Haus des Meeres",
                   "text": "Hatalmas egykori légvédelmi toronyban kialakított akvárium és állatkert.",
                   "category": "recreational",
                   "coords": [
                         16.352958,
                         48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Hammam gyógyfürdő a MuseumsQuartier területén wellness szolgáltatásokkal.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Lepkeház",
-                  "text": "Trópusi lepkeház a MuseumsQuartier közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Modern sport- és fitneszközpont az aktív kikapcsolódáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
                   ]
             },
             {
@@ -34117,63 +26675,9 @@ export const austriaCities: POI[] = [
                         16.349541,
                         48.18571
                   ]
-            },
-            {
-                  "name": "Familienbad Hofferplatz",
-                  "text": "Családbarát szabadtéri strand a Hofferplatzon, a MuseumsQuartier közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.333431,
-                        48.209064
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Albertina",
-                  "text": "Un muzeu de artă de renume mondial din Viena, care adăpostește o colecție vastă de artă grafică.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "Un teatru popular din Viena, cunoscut pentru programul său divers și satira socială.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "O locație cunoscută din Viena care găzduiește spectacole de muzică, cabaret și teatru.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Un teatru din centrul Vienei, dedicat în principal spectacolelor pentru copii și tineret.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "O galerie de artă proeminentă din Viena, care găzduiește expoziții temporare majore de artă modernă și clasică.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
             {
                   "name": "Architekturzentrum Wien",
                   "text": "Un muzeu și centru de cercetare din MuseumsQuartier, Viena, concentrat pe arhitectura modernă.",
@@ -34193,48 +26697,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kammerspiele",
-                  "text": "Un teatru istoric din Viena, care face parte din ansamblul Theater in der Josefstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
                   "name": "Haus des Meeres",
                   "text": "Un acvariu și grădină zoologică găzduite într-un fost turn antiaerian masiv.",
                   "category": "recreational",
                   "coords": [
                         16.352958,
                         48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Un centru hammam spa în MuseumsQuartier, care oferă tratamente de wellness.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "O casă tropicală a fluturilor lângă MuseumsQuartier.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Un centru sportiv și de fitness modern pentru recreere activă.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
                   ]
             },
             {
@@ -34245,63 +26713,9 @@ export const austriaCities: POI[] = [
                         16.349541,
                         48.18571
                   ]
-            },
-            {
-                  "name": "Familienbad Hofferplatz",
-                  "text": "O piscină în aer liber pentru familii situată în Hofferplatz, lângă cartierul MuseumsQuartier.",
-                  "category": "recreational",
-                  "coords": [
-                        16.333431,
-                        48.209064
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Albertina",
-                  "text": "A world-famous art museum in Vienna housing an extensive collection of graphic arts.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Rabenhof",
-                  "text": "A popular theatre in Vienna known for its diverse program and social satire.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "A well-known venue in Vienna hosting music, cabaret, and theatre performances.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "A theatre in Vienna's city center dedicated primarily to performances for children and youth.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "A prominent art gallery in Vienna hosting major temporary exhibitions of modern and classical art.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
             {
                   "name": "Architecture Centre Vienna",
                   "text": "A museum and research facility in Vienna's MuseumsQuartier focused on modern architecture.",
@@ -34321,15 +26735,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kammerspiele",
-                  "text": "A historic theatre in Vienna forming part of the Theater in der Josefstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
                   "name": "House of the Sea",
                   "text": "An aquarium and zoo housed in a massive former flak tower.",
                   "category": "recreational",
@@ -34339,48 +26744,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "A hammam spa in the MuseumsQuartier offering wellness treatments.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Butterfly House",
-                  "text": "A tropical butterfly house located near the MuseumsQuartier.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "A modern sports and fitness center for active recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
                   "name": "Familienbad Einsiedlerplatz",
                   "text": "A public water park for families with various leisure pools.",
                   "category": "recreational",
                   "coords": [
                         16.349541,
                         48.18571
-                  ]
-            },
-            {
-                  "name": "Familienbad Hofferplatz",
-                  "text": "A family-friendly outdoor pool located at Hofferplatz in the MuseumsQuartier area.",
-                  "category": "recreational",
-                  "coords": [
-                        16.333431,
-                        48.209064
                   ]
             }
       ]
@@ -34431,66 +26800,12 @@ export const austriaCities: POI[] = [
     id: "at-haus-der-musik", "sights": {
       "de": [
             {
-                  "name": "Albertina",
-                  "text": "Die Albertina ist ein weltberühmtes Kunstmuseum in Wien mit einer bedeutenden grafischen Sammlung.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Das Metropol ist ein bekanntes Veranstaltungs- und Theaterzentrum in Wien.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
                   "name": "Theater im Zentrum",
                   "text": "Dieses Wiener Theater gehört zum Theater der Jugend und konzentriert sich auf junges Publikum.",
                   "category": "cultural",
                   "coords": [
                         16.372964,
                         48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Das Bank Austria Kunstforum ist ein renommiertes Ausstellungshaus für moderne Kunst in Wien.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Das Architekturzentrum Wien ist ein Museum, das der Architektur und Baukultur gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Dieses Museum dokumentiert die Geschichte der Pfadfinderbewegung in Österreich.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Die Kammerspiele sind eine traditionsreiche Spielstätte des Theaters in der Josefstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
                   ]
             },
             {
@@ -34501,81 +26816,9 @@ export const austriaCities: POI[] = [
                         16.369293,
                         48.20713
                   ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "Ein Schmetterlingshaus beim Haus der Musik.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Ein Sportzentrum beim Haus der Musik.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Ein Aquarium im ehemaligen Flakturm, bekannt für seine Haifischbecken.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Ein öffentliches Bad beim Haus der Musik.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Ein Wasserpark beim Haus der Musik.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "Ein Sportzentrum beim Haus der Musik.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Albertina",
-                  "text": "Az Albertina egy világhírű bécsi művészeti múzeum jelentős grafikai gyűjteménnyel.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "A Metropol egy ismert bécsi rendezvény- és színházi központ.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
             {
                   "name": "Theater im Zentrum",
                   "text": "Ez a bécsi színház az Ifjúsági Színház része, és a fiatal közönségre összpontosít.",
@@ -34586,42 +26829,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bank Austria kortárs művészeti fórum",
-                  "text": "A Bank Austria Kunstforum egy neves bécsi kiállítóhely a modern művészet számára.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Bécsi Építészeti Központ",
-                  "text": "Az Architekturzentrum Wien az építészetnek és az építészeti kultúrának szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Ez a múzeum a cserkészmozgalom történetét mutatja be Ausztriában.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "A Kammerspiele a Theater in der Josefstadt nagy múltú játszóhelye.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
                   "name": "Bécsi Zsidó Múzeum",
                   "text": "A Zsidó Múzeum Bécs város zsidó közösségének történelmét és kultúráját mutatja be.",
                   "category": "museum",
@@ -34629,81 +26836,9 @@ export const austriaCities: POI[] = [
                         16.369293,
                         48.20713
                   ]
-            },
-            {
-                  "name": "Lepkeház",
-                  "text": "Lepkeház a Haus der Musik közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Sportközpont a Haus der Musik közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Akvárium egy egykori légvédelmi toronyban, amely cápamedencéiről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Nyilvános fürdő a Haus der Musik közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Vízi park a Haus der Musik közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "Sportközpont a Haus der Musik közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Albertina",
-                  "text": "Albertina este un muzeu de artă de renume mondial din Viena, cu o colecție grafică importantă.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Metropol este un cunoscut centru de evenimente și teatru din Viena.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
             {
                   "name": "Theater im Zentrum",
                   "text": "Acest teatru vienez face parte din Teatrul Tineretului și se concentrează pe publicul tânăr.",
@@ -34714,42 +26849,6 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Bank Austria Kunstforum este un renumit spațiu de expoziții de artă modernă din Viena.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Centrul de Arhitectură din Viena este un muzeu dedicat arhitecturii și culturii construcțiilor.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Acest muzeu documentează istoria mișcării cercetașilor din Austria.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "Kammerspiele este o locație cu tradiție a Teatrului din Josefstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
                   "name": "Jüdisches Museum Wien",
                   "text": "Muzeul Evreiesc din Viena prezintă istoria și cultura comunității evreiești din oraș.",
                   "category": "museum",
@@ -34757,81 +26856,9 @@ export const austriaCities: POI[] = [
                         16.369293,
                         48.20713
                   ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "O casă a fluturilor lângă Haus der Musik.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Un centru sportiv lângă Haus der Musik.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Un acvariu situat într-un fost turn de artilerie, cunoscut pentru bazinele cu rechini.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "O baie publică lângă Haus der Musik.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Un parc acvatic lângă Haus der Musik.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "Un centru sportiv lângă Haus der Musik.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Albertina",
-                  "text": "The Albertina is a world-famous art museum in Vienna housing a significant graphic collection.",
-                  "category": "museum",
-                  "coords": [
-                        16.36826,
-                        48.204636
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "The Metropol is a well-known event and theatre center in Vienna.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
             {
                   "name": "Theater im Zentrum",
                   "text": "This Viennese theatre is part of the Theater der Jugend and focuses on young audiences.",
@@ -34842,102 +26869,12 @@ export const austriaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "The Bank Austria Kunstforum is a renowned exhibition venue for modern art in Vienna.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architecture Centre Vienna",
-                  "text": "The Architecture Centre Vienna is a museum dedicated to architecture and building culture.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "This museum documents the history of the scouting movement in Austria.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
-                  "name": "Kammerspiele",
-                  "text": "The Kammerspiele is a long-standing theatre venue of the Theater in der Josefstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        16.375983,
-                        48.211105
-                  ]
-            },
-            {
                   "name": "Jewish Museum Vienna",
                   "text": "The Jewish Museum Vienna showcases the history and culture of the city's Jewish community.",
                   "category": "museum",
                   "coords": [
                         16.369293,
                         48.20713
-                  ]
-            },
-            {
-                  "name": "Butterfly House",
-                  "text": "A butterfly house near the House of Music.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "A sports centre near the House of Music.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "House of the Sea",
-                  "text": "An aquarium housed in a former flak tower, known for its shark tanks.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "A public bath near the House of Music.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "A water park near the House of Music.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "A sports centre near the House of Music.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
                   ]
             }
       ]
@@ -34988,60 +26925,6 @@ export const austriaCities: POI[] = [
     id: "at-ankeruhr", "sights": {
       "de": [
             {
-                  "name": "Rabenhof",
-                  "text": "Ein beliebtes Theater in einem historischen Gemeindebau in Wien.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Ein bekannter Veranstaltungsort für Konzerte und Musiktheater in Wien.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Ein bekanntes Kinder- und Jugendtheater im Zentrum von Wien.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Ein bedeutendes Kunstmuseum in Wien, das wichtige Wechselausstellungen zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Österreichs Architekturmuseum im Wiener MuseumsQuartier.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Ein Museum in Wien, das der Geschichte der Pfadfinderbewegung gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
-            {
                   "name": "Kammerspiele",
                   "text": "Eine traditionelle Wiener Spielstätte, die zum Theater in der Josefstadt gehört.",
                   "category": "cultural",
@@ -35049,126 +26932,9 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
-            },
-            {
-                  "name": "Jüdisches Museum Wien",
-                  "text": "Ein Museum, das die Geschichte und das Leben der jüdischen Gemeinde in Wien dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        16.369293,
-                        48.20713
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "Ein tropisches Schmetterlingshaus unweit der Ankeruhr.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Ein Sport- und Wellnessangebot im Wiener Sonnwendviertel.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Ein Aquarium mit Meeres- und Süßwassertieren in einem Wiener Flakturm.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Ein Wellness- und Spa-Zentrum im Herzen von Wien.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Ein öffentliches Freibad für Familien im 5. Wiener Bezirk.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "Eine Sport- und Schwimmstätte im zentralen Bereich Wiens.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Rabenhof",
-                  "text": "Népszerű színház Bécs egyik történelmi lakóépületében.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "Ismert koncerthelyszín és zenés színház Bécsben.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Jelentős gyermek- és ifjúsági színház Bécs központjában.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria kortárs művészeti fórum",
-                  "text": "Bécs egyik jelentős művészeti múzeuma, amely fontos időszaki kiállításoknak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Bécsi Építészeti Központ",
-                  "text": "Ausztria építészeti múzeuma a bécsi MuseumsQuartier területén.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "A cserkészmozgalom történetének szentelt múzeum Bécsben.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
             {
                   "name": "Kammerspiele",
                   "text": "Tradicionális bécsi színház, a Theater in der Josefstadt része.",
@@ -35177,126 +26943,9 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
-            },
-            {
-                  "name": "Bécsi Zsidó Múzeum",
-                  "text": "A bécsi zsidó közösség történelmét és életét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        16.369293,
-                        48.20713
-                  ]
-            },
-            {
-                  "name": "Lepkeház",
-                  "text": "Trópusi lepkeház az Anker-óra közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Sport- és wellness-szolgáltatások a bécsi Sonnwendviertelben.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Tengeri és édesvízi akvárium egy bécsi légvédelmi toronyban.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Wellness- és spa központ Bécs szívében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Nyilvános családi strandfürdő Bécs 5. kerületében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "Sport- és úszólétesítmény Bécs központi részén.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Rabenhof",
-                  "text": "Un teatru popular situat într-un complex rezidențial istoric din Viena.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "O locație cunoscută pentru concerte și teatru muzical din Viena.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "Un important teatru pentru copii și tineret situat în inima Vienei.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "Un muzeu de artă major din Viena care găzduiește expoziții temporare importante.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architekturzentrum Wien",
-                  "text": "Muzeul național de arhitectură al Austriei, situat în cartierul muzeelor din Viena.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "Un muzeu din Viena dedicat istoriei mișcării de cercetași.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
             {
                   "name": "Kammerspiele",
                   "text": "O sală de teatru tradițională din Viena, parte a teatrului din Josefstadt.",
@@ -35305,126 +26954,9 @@ export const austriaCities: POI[] = [
                         16.375983,
                         48.211105
                   ]
-            },
-            {
-                  "name": "Jüdisches Museum Wien",
-                  "text": "Un muzeu care documentează istoria și viața comunității evreiești din Viena.",
-                  "category": "museum",
-                  "coords": [
-                        16.369293,
-                        48.20713
-                  ]
-            },
-            {
-                  "name": "Schmetterlinghaus",
-                  "text": "O casă tropicală a fluturilor situată nu departe de Ceasul Anker.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "Facilități de sport și wellness în cartierul Sonnwendviertel din Viena.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "Haus des Meeres",
-                  "text": "Un acvariu cu specii marine și de apă dulce într-un turn antiaerian din Viena.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "Un centru de wellness și spa în inima Vienei.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "Un ștrand public pentru familii în districtul 5 al Vienei.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "O facilitate sportivă și de înot în zona centrală a Vienei.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Rabenhof",
-                  "text": "A popular theatre venue located in a historic residential complex in Vienna.",
-                  "category": "cultural",
-                  "coords": [
-                        16.401665,
-                        48.19582
-                  ]
-            },
-            {
-                  "name": "Metropol",
-                  "text": "A well-known venue for concerts and musical theatre in Vienna.",
-                  "category": "cultural",
-                  "coords": [
-                        16.33422,
-                        48.217006
-                  ]
-            },
-            {
-                  "name": "Theater im Zentrum",
-                  "text": "A prominent children's and youth theatre located in the heart of Vienna.",
-                  "category": "cultural",
-                  "coords": [
-                        16.372964,
-                        48.207203
-                  ]
-            },
-            {
-                  "name": "Bank Austria Kunstforum",
-                  "text": "A major art museum in Vienna hosting significant temporary exhibitions.",
-                  "category": "museum",
-                  "coords": [
-                        16.366258,
-                        48.211441
-                  ]
-            },
-            {
-                  "name": "Architecture Centre Vienna",
-                  "text": "Austria's national museum for architecture, located in the MuseumsQuartier.",
-                  "category": "museum",
-                  "coords": [
-                        16.357616,
-                        48.204179
-                  ]
-            },
-            {
-                  "name": "Pfadfindermuseum",
-                  "text": "A museum in Vienna dedicated to the history of the scouting movement.",
-                  "category": "museum",
-                  "coords": [
-                        16.325881,
-                        48.199936
-                  ]
-            },
             {
                   "name": "Kammerspiele",
                   "text": "A traditional theatre venue in Vienna, part of the Theater in der Josefstadt.",
@@ -35432,69 +26964,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.375983,
                         48.211105
-                  ]
-            },
-            {
-                  "name": "Jewish Museum Vienna",
-                  "text": "A museum documenting the history and life of the Jewish community in Vienna.",
-                  "category": "museum",
-                  "coords": [
-                        16.369293,
-                        48.20713
-                  ]
-            },
-            {
-                  "name": "Butterfly House",
-                  "text": "A tropical butterfly house located near the Anker Clock.",
-                  "category": "recreational",
-                  "coords": [
-                        16.366445,
-                        48.205459
-                  ]
-            },
-            {
-                  "name": "Wellnessoase Sonnwendviertel",
-                  "text": "A sports and wellness facility in Vienna's Sonnwendviertel.",
-                  "category": "recreational",
-                  "coords": [
-                        16.380213,
-                        48.181047
-                  ]
-            },
-            {
-                  "name": "House of the Sea",
-                  "text": "An aquarium with marine and freshwater life in a Vienna flak tower.",
-                  "category": "recreational",
-                  "coords": [
-                        16.352958,
-                        48.197578
-                  ]
-            },
-            {
-                  "name": "Aux Gazelles Hammam-Spa",
-                  "text": "A wellness and spa centre in the heart of Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.360922,
-                        48.201632
-                  ]
-            },
-            {
-                  "name": "Familienbad Einsiedlerplatz",
-                  "text": "A public outdoor family pool in Vienna's 5th district.",
-                  "category": "recreational",
-                  "coords": [
-                        16.349541,
-                        48.18571
-                  ]
-            },
-            {
-                  "name": "Siemens-Bad",
-                  "text": "A sports and swimming facility in the central area of Vienna.",
-                  "category": "recreational",
-                  "coords": [
-                        16.431643,
-                        48.219262
                   ]
             }
       ]

@@ -91,15 +91,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Zivilschutzmuseum",
-                  "text": "Dieses Museum in Zürich gewährt Einblicke in die Geschichte des Zivilschutzes in der Schweiz.",
-                  "category": "museum",
-                  "coords": [
-                        8.526978,
-                        47.391959
-                  ]
-            },
-            {
                   "name": "Museum Rietberg",
                   "text": "Ein renommiertes Museum in Zürich, das sich der außereuropäischen Kunst widmet.",
                   "category": "museum",
@@ -115,15 +106,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.538542,
                         47.370925
-                  ]
-            },
-            {
-                  "name": "Haus Konstruktiv",
-                  "text": "Ein Museum in Zürich, das auf konstruktive, konkrete und konzeptuelle Kunst spezialisiert ist.",
-                  "category": "museum",
-                  "coords": [
-                        8.525269,
-                        47.38913
                   ]
             },
             {
@@ -160,15 +142,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.547457,
                         47.378357
-                  ]
-            },
-            {
-                  "name": "Museum für Gestaltung - Schaudepot",
-                  "text": "Das Schaudepot des Museums für Gestaltung in Zürich zeigt eine umfangreiche Designsammlung.",
-                  "category": "museum",
-                  "coords": [
-                        8.512069,
-                        47.390229
                   ]
             },
             {
@@ -325,15 +298,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Katholische Kirche St. Felix und Regula",
-                  "text": "Eine katholische Pfarrkirche in Zürich, die den Stadtheiligen Felix und Regula gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        8.513588,
-                        47.381053
-                  ]
-            },
-            {
                   "name": "Pauluskirche",
                   "text": "Eine neugotische Kirche in Zürich, die für ihre markante Architektur bekannt ist.",
                   "category": "religious",
@@ -352,39 +316,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Andreaskirche",
-                  "text": "Eine evangelisch-reformierte Kirche im Zürcher Stadtteil Sihlfeld.",
-                  "category": "religious",
-                  "coords": [
-                        8.501689,
-                        47.378736
-                  ]
-            },
-            {
-                  "name": "Chinagarten Zürich",
-                  "text": "Ein prächtiger chinesischer Garten direkt am Zürichsee, ein Geschenk der Partnerstadt Kunming.",
-                  "category": "landmark",
-                  "coords": [
-                        8.551991,
-                        47.354972
-                  ]
-            },
-            {
                   "name": "MAWS301 Zürichberg",
                   "text": "Ein markanter Fernmeldeturm auf dem Zürichberg, der weithin sichtbar ist.",
                   "category": "tower",
                   "coords": [
                         8.568086,
                         47.385984
-                  ]
-            },
-            {
-                  "name": "Hardturm",
-                  "text": "Ein historisches Turmbauwerk in Zürich, bekannt als ehemaliger Standort des Stadions.",
-                  "category": "tower",
-                  "coords": [
-                        8.513749,
-                        47.394022
                   ]
             },
             {
@@ -421,15 +358,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.540016,
                         47.380847
-                  ]
-            },
-            {
-                  "name": "Bäckeranlage",
-                  "text": "Eine belebte Parkanlage im Aussersihl-Quartier mit Spielplätzen und einem Gemeinschaftszentrum.",
-                  "category": "park",
-                  "coords": [
-                        8.523613,
-                        47.377816
                   ]
             },
             {
@@ -559,78 +487,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Unterer Katzensee",
-                  "text": "Ein idyllischer Badesee in Zürich, umgeben von einem Naturschutzgebiet.",
-                  "category": "natural",
-                  "coords": [
-                        8.490574,
-                        47.431289
-                  ]
-            },
-            {
-                  "name": "Oberer Katzensee",
-                  "text": "Ein ruhiger See in Zürich, ideal für Naturbeobachtungen und Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        8.497333,
-                        47.433687
-                  ]
-            },
-            {
-                  "name": "GWW Hardhof, Anreicherungsbecken 1",
-                  "text": "Ein Wasserbecken in Zürich, das in eine Grünanlage eingebettet ist.",
-                  "category": "natural",
-                  "coords": [
-                        8.50276,
-                        47.394767
-                  ]
-            },
-            {
-                  "name": "GWW Hardhof, Anreicherungsbecken 2",
-                  "text": "Ein ruhiges Gewässer im Hardhof-Areal in Zürich für kurze Pausen.",
-                  "category": "natural",
-                  "coords": [
-                        8.499338,
-                        47.394478
-                  ]
-            },
-            {
-                  "name": "GWW Hardhof, Anreicherungsbecken 3",
-                  "text": "Teil der Wasseranlagen in Zürich, umgeben von Spazierwegen.",
-                  "category": "natural",
-                  "coords": [
-                        8.495741,
-                        47.394364
-                  ]
-            },
-            {
-                  "name": "Gehrenholz Weiher",
-                  "text": "Ein kleiner Weiher in Zürich, der einen Ort der Ruhe im Grünen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        8.509279,
-                        47.364062
-                  ]
-            },
-            {
-                  "name": "Martinseiher",
-                  "text": "Ein ruhiges Gewässer in Zürich, ideal für eine kleine Auszeit in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        8.468391,
-                        47.425588
-                  ]
-            },
-            {
-                  "name": "Zürichsee",
-                  "text": "Der Zürichsee bietet zahlreiche Freizeitmöglichkeiten und schöne Uferpromenaden.",
-                  "category": "natural",
-                  "coords": [
-                        8.74144,
-                        47.279095
-                  ]
-            },
-            {
                   "name": "GZ Schindlergut",
                   "text": "Ein beliebter Spielplatz in Zürich mit vielen Aktivitäten für Kinder.",
                   "category": "family",
@@ -667,48 +523,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Drahtzugstrasse",
-                  "text": "Ein lokaler Spielplatz in Zürich, der Kindern viel Bewegungsfreiheit bietet.",
-                  "category": "family",
-                  "coords": [
-                        8.564469,
-                        47.359684
-                  ]
-            },
-            {
-                  "name": "Obere Waidstrasse",
-                  "text": "Ein freundlicher Spielplatz in Zürich, ideal für einen Ausflug mit Kindern.",
-                  "category": "family",
-                  "coords": [
-                        8.522097,
-                        47.399581
-                  ]
-            },
-            {
                   "name": "Hohe Promenade",
                   "text": "Ein Spielplatz mit schöner Aussicht in Zürich für die ganze Familie.",
                   "category": "family",
                   "coords": [
                         8.548885,
                         47.367793
-                  ]
-            },
-            {
-                  "name": "Aemtleranlage",
-                  "text": "Ein weitläufiger Spielbereich in Zürich mit verschiedenen Spielgeräten.",
-                  "category": "family",
-                  "coords": [
-                        8.511082,
-                        47.373799
-                  ]
-            },
-            {
-                  "name": "Heiligfeld",
-                  "text": "Ein moderner Spielplatz in Zürich, der Kinder zum Entdecken einlädt.",
-                  "category": "family",
-                  "coords": [
-                        8.505058,
-                        47.37959
                   ]
             },
             {
@@ -739,48 +559,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Steinkluppenanlage",
-                  "text": "Ein einladender Spielplatz in Zürich für Kinder jeden Alters.",
-                  "category": "family",
-                  "coords": [
-                        8.540147,
-                        47.400819
-                  ]
-            },
-            {
                   "name": "Kasernenareal",
                   "text": "Ein zentraler Spielbereich in Zürich auf dem Kasernenareal.",
                   "category": "family",
                   "coords": [
                         8.53021,
                         47.377311
-                  ]
-            },
-            {
-                  "name": "Keen",
-                  "text": "Keen in Zürich ist eine öffentliche Badeanlage zur Erholung.",
-                  "category": "family",
-                  "coords": [
-                        8.524962,
-                        47.387245
-                  ]
-            },
-            {
-                  "name": "Float Zürich",
-                  "text": "Float Zürich bietet Entspannung durch Floating in der Stadt Zürich.",
-                  "category": "family",
-                  "coords": [
-                        8.528118,
-                        47.393383
-                  ]
-            },
-            {
-                  "name": "Schulschwimmanlage Kügeliloo",
-                  "text": "Die Schulschwimmanlage Kügeliloo in Zürich dient als Ort zum Schwimmen.",
-                  "category": "family",
-                  "coords": [
-                        8.528038,
-                        47.411068
                   ]
             },
             {
@@ -793,33 +577,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Hammam Basar",
-                  "text": "Der Hammam Basar in Zürich lädt zu traditionellen Badeerlebnissen ein.",
-                  "category": "family",
-                  "coords": [
-                        8.558633,
-                        47.35699
-                  ]
-            },
-            {
-                  "name": "Zürichhorn",
-                  "text": "Das Zürichhorn bietet Bademöglichkeiten direkt am Zürichsee.",
-                  "category": "family",
-                  "coords": [
-                        8.550254,
-                        47.353746
-                  ]
-            },
-            {
-                  "name": "Schul-Schwimmbad Altweg",
-                  "text": "Das Schul-Schwimmbad Altweg in Zürich ist ein Ort für Schwimmaktivitäten.",
-                  "category": "family",
-                  "coords": [
-                        8.492076,
-                        47.372468
-                  ]
-            },
-            {
                   "name": "Hammam & Spa, Stadtbad Zürich",
                   "text": "Das Hammam & Spa im Stadtbad Zürich bietet Erholung und Wellness.",
                   "category": "family",
@@ -829,66 +586,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Wellenbad",
-                  "text": "Das Wellenbad in Zürich bietet ein Schwimmerlebnis mit Wellen.",
-                  "category": "family",
-                  "coords": [
-                        8.498531,
-                        47.378678
-                  ]
-            },
-            {
                   "name": "Strandbad Mythenquai",
                   "text": "Das Strandbad Mythenquai in Zürich ist ein beliebtes öffentliches Bad am See.",
                   "category": "family",
                   "coords": [
                         8.535755,
                         47.353559
-                  ]
-            },
-            {
-                  "name": "Tierpark Waidberg",
-                  "text": "Der Tierpark Waidberg in Zürich beheimatet verschiedene Wildtiere.",
-                  "category": "family",
-                  "coords": [
-                        8.517004,
-                        47.400329
-                  ]
-            },
-            {
-                  "name": "Flussbad Unterer Letten",
-                  "text": "Das Flussbad Unterer Letten bietet Schwimmen in der Limmat in Zürich.",
-                  "category": "family",
-                  "coords": [
-                        8.529185,
-                        47.389359
-                  ]
-            },
-            {
-                  "name": "Strandbad Wollishofen",
-                  "text": "Das Strandbad Wollishofen in Zürich lädt zum Baden am Seeufer ein.",
-                  "category": "family",
-                  "coords": [
-                        8.537657,
-                        47.341041
-                  ]
-            },
-            {
-                  "name": "Strandbad Tiefenbrunnen",
-                  "text": "Das Strandbad Tiefenbrunnen in Zürich bietet vielfältige Bademöglichkeiten am See.",
-                  "category": "family",
-                  "coords": [
-                        8.556214,
-                        47.352266
-                  ]
-            },
-            {
-                  "name": "Planschbecken Fritschiwiese",
-                  "text": "Das Planschbecken Fritschiwiese in Zürich ist ein Wasserbereich für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        8.512264,
-                        47.37654
                   ]
             },
             {
@@ -928,51 +631,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Planschbecken Josefwiese",
-                  "text": "Das Planschbecken Josefwiese in Zürich bietet Kindern eine Abkühlung im Sommer.",
-                  "category": "family",
-                  "coords": [
-                        8.522806,
-                        47.38598
-                  ]
-            },
-            {
-                  "name": "Planschbecken Borrweg",
-                  "text": "Das Planschbecken Borrweg in Zürich ist ein flaches Becken für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        8.50549,
-                        47.360278
-                  ]
-            },
-            {
-                  "name": "Vogelzucht Martins",
-                  "text": "Die Vogelzucht Martins in Zürich widmet sich der Haltung von Vögeln.",
-                  "category": "family",
-                  "coords": [
-                        8.502493,
-                        47.396737
-                  ]
-            },
-            {
-                  "name": "Planschbecken Bullingerhof",
-                  "text": "Das Planschbecken Bullingerhof in Zürich bietet Wasserspaß für Kinder im Quartier.",
-                  "category": "family",
-                  "coords": [
-                        8.514025,
-                        47.378844
-                  ]
-            },
-            {
-                  "name": "Planschbecken Föhrenwald",
-                  "text": "Das Planschbecken Föhrenwald in Zürich ist ein Ort zum Planschen für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        8.541697,
-                        47.405836
-                  ]
-            },
-            {
                   "name": "Planschbecken Schlössliareal",
                   "text": "Ein Planschbecken in Zürich für Familien mit kleinen Kindern.",
                   "category": "family",
@@ -997,15 +655,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.536456,
                         47.384451
-                  ]
-            },
-            {
-                  "name": "Offener Stall",
-                  "text": "Ein kleiner Zoo in Zürich mit Tieren für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        8.520687,
-                        47.392797
                   ]
             },
             {
@@ -1074,15 +723,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Zivilschutzmuseum",
-                  "text": "Ez a zürichi múzeum betekintést nyújt a svájci polgári védelem történetébe.",
-                  "category": "museum",
-                  "coords": [
-                        8.526978,
-                        47.391959
-                  ]
-            },
-            {
                   "name": "Museum Rietberg",
                   "text": "Renomált zürichi múzeum, amely az Európán kívüli művészeteknek szenteli magát.",
                   "category": "museum",
@@ -1098,15 +738,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.538542,
                         47.370925
-                  ]
-            },
-            {
-                  "name": "Haus Konstruktiv",
-                  "text": "Zürichi múzeum, amely a konstruktív, konkrét és konceptuális művészetre specializálódott.",
-                  "category": "museum",
-                  "coords": [
-                        8.525269,
-                        47.38913
                   ]
             },
             {
@@ -1143,15 +774,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.547457,
                         47.378357
-                  ]
-            },
-            {
-                  "name": "Museum für Gestaltung - Schaudepot",
-                  "text": "A zürichi Museum für Gestaltung raktárkiállítása kiterjedt dizájngyűjteményt mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        8.512069,
-                        47.390229
                   ]
             },
             {
@@ -1308,15 +930,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Katholische Kirche St. Felix und Regula",
-                  "text": "Zürichi katolikus plébániatemplom, amelyet a város védőszentjeinek, Felixnek és Regulának szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        8.513588,
-                        47.381053
-                  ]
-            },
-            {
                   "name": "Pauluskirche",
                   "text": "Neogótikus templom Zürichben, amely jellegzetes építészetéről ismert.",
                   "category": "religious",
@@ -1335,39 +948,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Andreaskirche",
-                  "text": "Evangélikus-református templom Zürich Sihlfeld negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        8.501689,
-                        47.378736
-                  ]
-            },
-            {
-                  "name": "Chinagarten Zürich",
-                  "text": "Pompás kínai kert a Zürichi-tó partján, Kunming partnerváros ajándéka.",
-                  "category": "landmark",
-                  "coords": [
-                        8.551991,
-                        47.354972
-                  ]
-            },
-            {
                   "name": "MAWS301 Zürichberg",
                   "text": "Jellegzetes távközlési torony a Zürichberg hegyen, amely messziről is jól látható.",
                   "category": "tower",
                   "coords": [
                         8.568086,
                         47.385984
-                  ]
-            },
-            {
-                  "name": "Hardturm",
-                  "text": "Történelmi toronyépítmény Zürichben, a korábbi stadion helyszíneként ismert.",
-                  "category": "tower",
-                  "coords": [
-                        8.513749,
-                        47.394022
                   ]
             },
             {
@@ -1404,15 +990,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.540016,
                         47.380847
-                  ]
-            },
-            {
-                  "name": "Bäckeranlage",
-                  "text": "Életteli park az Aussersihl negyedben játszóterekkel és közösségi központtal.",
-                  "category": "park",
-                  "coords": [
-                        8.523613,
-                        47.377816
                   ]
             },
             {
@@ -1542,78 +1119,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Unterer Katzensee",
-                  "text": "Idilli fürdőtó Zürichben, természetvédelmi területtel körülvéve.",
-                  "category": "natural",
-                  "coords": [
-                        8.490574,
-                        47.431289
-                  ]
-            },
-            {
-                  "name": "Oberer Katzensee",
-                  "text": "Csendes tó Zürichben, ideális természetjáráshoz és sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        8.497333,
-                        47.433687
-                  ]
-            },
-            {
-                  "name": "GWW Hardhof, Anreicherungsbecken 1",
-                  "text": "Vízmedence Zürichben, amely egy parkba van ágyazva.",
-                  "category": "natural",
-                  "coords": [
-                        8.50276,
-                        47.394767
-                  ]
-            },
-            {
-                  "name": "GWW Hardhof, Anreicherungsbecken 2",
-                  "text": "Csendes vízfelület a zürichi Hardhof területén rövid pihenőkhöz.",
-                  "category": "natural",
-                  "coords": [
-                        8.499338,
-                        47.394478
-                  ]
-            },
-            {
-                  "name": "GWW Hardhof, Anreicherungsbecken 3",
-                  "text": "Zürichi vízi létesítmények része, sétányokkal körülvéve.",
-                  "category": "natural",
-                  "coords": [
-                        8.495741,
-                        47.394364
-                  ]
-            },
-            {
-                  "name": "Gehrenholz Weiher",
-                  "text": "Kicsi tó Zürichben, amely a nyugalom szigete a zöldben.",
-                  "category": "natural",
-                  "coords": [
-                        8.509279,
-                        47.364062
-                  ]
-            },
-            {
-                  "name": "Martinseiher",
-                  "text": "Csendes vízfelület Zürichben, ideális egy kis kikapcsolódáshoz a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        8.468391,
-                        47.425588
-                  ]
-            },
-            {
-                  "name": "Zürichsee",
-                  "text": "A Zürichi-tó számos szabadidős lehetőséget és szép tóparti sétányokat kínál.",
-                  "category": "natural",
-                  "coords": [
-                        8.74144,
-                        47.279095
-                  ]
-            },
-            {
                   "name": "GZ Schindlergut",
                   "text": "Népszerű játszótér Zürichben, sok tevékenységgel gyerekeknek.",
                   "category": "family",
@@ -1650,48 +1155,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Drahtzugstrasse",
-                  "text": "Helyi játszótér Zürichben, amely nagy mozgásszabadságot ad a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        8.564469,
-                        47.359684
-                  ]
-            },
-            {
-                  "name": "Obere Waidstrasse",
-                  "text": "Barátságos játszótér Zürichben, ideális kiránduláshoz gyerekekkel.",
-                  "category": "family",
-                  "coords": [
-                        8.522097,
-                        47.399581
-                  ]
-            },
-            {
                   "name": "Hohe Promenade",
                   "text": "Játszótér szép kilátással Zürichben az egész család számára.",
                   "category": "family",
                   "coords": [
                         8.548885,
                         47.367793
-                  ]
-            },
-            {
-                  "name": "Aemtleranlage",
-                  "text": "Tágas játszóhely Zürichben különféle játékeszközökkel.",
-                  "category": "family",
-                  "coords": [
-                        8.511082,
-                        47.373799
-                  ]
-            },
-            {
-                  "name": "Heiligfeld",
-                  "text": "Modern játszótér Zürichben, amely felfedezésre hívja a gyerekeket.",
-                  "category": "family",
-                  "coords": [
-                        8.505058,
-                        47.37959
                   ]
             },
             {
@@ -1722,48 +1191,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Steinkluppenanlage",
-                  "text": "Hívogató játszótér Zürichben minden korosztályú gyermek számára.",
-                  "category": "family",
-                  "coords": [
-                        8.540147,
-                        47.400819
-                  ]
-            },
-            {
                   "name": "Kasernenareal",
                   "text": "Központi játszóhely Zürichben a laktanya területén.",
                   "category": "family",
                   "coords": [
                         8.53021,
                         47.377311
-                  ]
-            },
-            {
-                  "name": "Keen",
-                  "text": "A zürichi Keen egy nyilvános fürdőhely a pihenésre vágyóknak.",
-                  "category": "family",
-                  "coords": [
-                        8.524962,
-                        47.387245
-                  ]
-            },
-            {
-                  "name": "Float Zürich",
-                  "text": "A Float Zürich lebegés útján kínál pihenést Zürich városában.",
-                  "category": "family",
-                  "coords": [
-                        8.528118,
-                        47.393383
-                  ]
-            },
-            {
-                  "name": "Schulschwimmanlage Kügeliloo",
-                  "text": "A zürichi Schulschwimmanlage Kügeliloo úszási lehetőséget biztosít.",
-                  "category": "family",
-                  "coords": [
-                        8.528038,
-                        47.411068
                   ]
             },
             {
@@ -1776,33 +1209,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Hammam Basar",
-                  "text": "A zürichi Hammam Basar tradicionális fürdőélményekre hív.",
-                  "category": "family",
-                  "coords": [
-                        8.558633,
-                        47.35699
-                  ]
-            },
-            {
-                  "name": "Zürichhorn",
-                  "text": "A Zürichhorn fürdőzési lehetőséget kínál közvetlenül a Zürichi-tónál.",
-                  "category": "family",
-                  "coords": [
-                        8.550254,
-                        47.353746
-                  ]
-            },
-            {
-                  "name": "Schul-Schwimmbad Altweg",
-                  "text": "A zürichi Schul-Schwimmbad Altweg úszásra alkalmas helyszín.",
-                  "category": "family",
-                  "coords": [
-                        8.492076,
-                        47.372468
-                  ]
-            },
-            {
                   "name": "Hammam & Spa, Stadtbad Zürich",
                   "text": "A zürichi Hammam & Spa, Stadtbad Zürich pihenést és wellness élményt nyújt.",
                   "category": "family",
@@ -1812,66 +1218,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Wellenbad",
-                  "text": "A zürichi Wellenbad hullámmedencés úszási élményt kínál.",
-                  "category": "family",
-                  "coords": [
-                        8.498531,
-                        47.378678
-                  ]
-            },
-            {
                   "name": "Strandbad Mythenquai",
                   "text": "A zürichi Strandbad Mythenquai egy népszerű nyilvános tóparti strand.",
                   "category": "family",
                   "coords": [
                         8.535755,
                         47.353559
-                  ]
-            },
-            {
-                  "name": "Tierpark Waidberg",
-                  "text": "A zürichi Tierpark Waidberg különféle vadállatoknak ad otthont.",
-                  "category": "family",
-                  "coords": [
-                        8.517004,
-                        47.400329
-                  ]
-            },
-            {
-                  "name": "Flussbad Unterer Letten",
-                  "text": "A Flussbad Unterer Letten folyóparti úszást kínál a Limmatban, Zürichben.",
-                  "category": "family",
-                  "coords": [
-                        8.529185,
-                        47.389359
-                  ]
-            },
-            {
-                  "name": "Strandbad Wollishofen",
-                  "text": "A zürichi Strandbad Wollishofen tóparti fürdőzésre hív.",
-                  "category": "family",
-                  "coords": [
-                        8.537657,
-                        47.341041
-                  ]
-            },
-            {
-                  "name": "Strandbad Tiefenbrunnen",
-                  "text": "A zürichi Strandbad Tiefenbrunnen változatos tóparti fürdőzési lehetőségeket kínál.",
-                  "category": "family",
-                  "coords": [
-                        8.556214,
-                        47.352266
-                  ]
-            },
-            {
-                  "name": "Planschbecken Fritschiwiese",
-                  "text": "A zürichi Planschbecken Fritschiwiese egy vízi játszóhely gyermekeknek.",
-                  "category": "family",
-                  "coords": [
-                        8.512264,
-                        47.37654
                   ]
             },
             {
@@ -1911,51 +1263,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Planschbecken Josefwiese",
-                  "text": "A zürichi Planschbecken Josefwiese hűsölési lehetőséget kínál a gyerekeknek nyáron.",
-                  "category": "family",
-                  "coords": [
-                        8.522806,
-                        47.38598
-                  ]
-            },
-            {
-                  "name": "Planschbecken Borrweg",
-                  "text": "A zürichi Planschbecken Borrweg egy sekély medence gyermekek számára.",
-                  "category": "family",
-                  "coords": [
-                        8.50549,
-                        47.360278
-                  ]
-            },
-            {
-                  "name": "Vogelzucht Martins",
-                  "text": "A zürichi Vogelzucht Martins madarak tartásával foglalkozik.",
-                  "category": "family",
-                  "coords": [
-                        8.502493,
-                        47.396737
-                  ]
-            },
-            {
-                  "name": "Planschbecken Bullingerhof",
-                  "text": "A zürichi Planschbecken Bullingerhof vízi szórakozást kínál a környékbeli gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        8.514025,
-                        47.378844
-                  ]
-            },
-            {
-                  "name": "Planschbecken Föhrenwald",
-                  "text": "A zürichi Planschbecken Föhrenwald egy pancsolóhely gyermekek számára.",
-                  "category": "family",
-                  "coords": [
-                        8.541697,
-                        47.405836
-                  ]
-            },
-            {
                   "name": "Planschbecken Schlössliareal",
                   "text": "Pancsolómedence Zürichben kisgyermekes családok számára.",
                   "category": "family",
@@ -1980,15 +1287,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.536456,
                         47.384451
-                  ]
-            },
-            {
-                  "name": "Offener Stall",
-                  "text": "Egy kis állatkert Zürichben állatokkal az egész család számára.",
-                  "category": "family",
-                  "coords": [
-                        8.520687,
-                        47.392797
                   ]
             },
             {
@@ -2057,15 +1355,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Zivilschutzmuseum",
-                  "text": "Acest muzeu din Zürich oferă informații despre istoria protecției civile în Elveția.",
-                  "category": "museum",
-                  "coords": [
-                        8.526978,
-                        47.391959
-                  ]
-            },
-            {
                   "name": "Museum Rietberg",
                   "text": "Un muzeu renumit din Zürich dedicat artei non-europene.",
                   "category": "museum",
@@ -2081,15 +1370,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.538542,
                         47.370925
-                  ]
-            },
-            {
-                  "name": "Haus Konstruktiv",
-                  "text": "Un muzeu din Zürich specializat în artă constructivă, concretă și conceptuală.",
-                  "category": "museum",
-                  "coords": [
-                        8.525269,
-                        47.38913
                   ]
             },
             {
@@ -2126,15 +1406,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.547457,
                         47.378357
-                  ]
-            },
-            {
-                  "name": "Museum für Gestaltung - Schaudepot",
-                  "text": "Depozitul vizitabil al Muzeului de Design din Zürich expune o colecție vastă de design.",
-                  "category": "museum",
-                  "coords": [
-                        8.512069,
-                        47.390229
                   ]
             },
             {
@@ -2291,15 +1562,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Katholische Kirche St. Felix und Regula",
-                  "text": "O biserică parohială catolică din Zürich, dedicată sfinților patroni ai orașului, Felix și Regula.",
-                  "category": "religious",
-                  "coords": [
-                        8.513588,
-                        47.381053
-                  ]
-            },
-            {
                   "name": "Pauluskirche",
                   "text": "O biserică neogotică din Zürich, cunoscută pentru arhitectura sa distinctivă.",
                   "category": "religious",
@@ -2318,39 +1580,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Andreaskirche",
-                  "text": "O biserică evanghelică reformată situată în districtul Sihlfeld din Zürich.",
-                  "category": "religious",
-                  "coords": [
-                        8.501689,
-                        47.378736
-                  ]
-            },
-            {
-                  "name": "Chinagarten Zürich",
-                  "text": "O grădină chinezescă magnifică pe malul lacului Zürich, un cadou de la orașul înfrățit Kunming.",
-                  "category": "landmark",
-                  "coords": [
-                        8.551991,
-                        47.354972
-                  ]
-            },
-            {
                   "name": "MAWS301 Zürichberg",
                   "text": "Un turn de telecomunicații proeminent pe muntele Zürichberg, vizibil de la distanță.",
                   "category": "tower",
                   "coords": [
                         8.568086,
                         47.385984
-                  ]
-            },
-            {
-                  "name": "Hardturm",
-                  "text": "O structură istorică de turn în Zürich, cunoscută ca fostul amplasament al stadionului.",
-                  "category": "tower",
-                  "coords": [
-                        8.513749,
-                        47.394022
                   ]
             },
             {
@@ -2387,15 +1622,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.540016,
                         47.380847
-                  ]
-            },
-            {
-                  "name": "Bäckeranlage",
-                  "text": "Un parc plin de viață în cartierul Aussersihl, cu locuri de joacă și un centru comunitar.",
-                  "category": "park",
-                  "coords": [
-                        8.523613,
-                        47.377816
                   ]
             },
             {
@@ -2525,78 +1751,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Unterer Katzensee",
-                  "text": "Un lac idilic pentru scăldat în Zurich, înconjurat de o rezervație naturală.",
-                  "category": "natural",
-                  "coords": [
-                        8.490574,
-                        47.431289
-                  ]
-            },
-            {
-                  "name": "Oberer Katzensee",
-                  "text": "Un lac liniștit în Zurich, ideal pentru observarea naturii și plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        8.497333,
-                        47.433687
-                  ]
-            },
-            {
-                  "name": "GWW Hardhof, Anreicherungsbecken 1",
-                  "text": "Un bazin de apă în Zurich, situat într-o zonă verde.",
-                  "category": "natural",
-                  "coords": [
-                        8.50276,
-                        47.394767
-                  ]
-            },
-            {
-                  "name": "GWW Hardhof, Anreicherungsbecken 2",
-                  "text": "O apă liniștită în zona Hardhof din Zurich pentru pauze scurte.",
-                  "category": "natural",
-                  "coords": [
-                        8.499338,
-                        47.394478
-                  ]
-            },
-            {
-                  "name": "GWW Hardhof, Anreicherungsbecken 3",
-                  "text": "Parte a instalațiilor de apă din Zurich, înconjurată de alei de plimbare.",
-                  "category": "natural",
-                  "coords": [
-                        8.495741,
-                        47.394364
-                  ]
-            },
-            {
-                  "name": "Gehrenholz Weiher",
-                  "text": "Un mic iaz în Zurich, care oferă un loc de liniște în natură.",
-                  "category": "natural",
-                  "coords": [
-                        8.509279,
-                        47.364062
-                  ]
-            },
-            {
-                  "name": "Martinseiher",
-                  "text": "O apă liniștită în Zurich, ideală pentru o mică pauză în natură.",
-                  "category": "natural",
-                  "coords": [
-                        8.468391,
-                        47.425588
-                  ]
-            },
-            {
-                  "name": "Zürichsee",
-                  "text": "Lacul Zurich oferă numeroase posibilități de recreere și promenade frumoase pe mal.",
-                  "category": "natural",
-                  "coords": [
-                        8.74144,
-                        47.279095
-                  ]
-            },
-            {
                   "name": "GZ Schindlergut",
                   "text": "Un teren de joacă popular în Zurich, cu multe activități pentru copii.",
                   "category": "family",
@@ -2633,48 +1787,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Drahtzugstrasse",
-                  "text": "Un teren de joacă local în Zurich, care oferă copiilor multă libertate de mișcare.",
-                  "category": "family",
-                  "coords": [
-                        8.564469,
-                        47.359684
-                  ]
-            },
-            {
-                  "name": "Obere Waidstrasse",
-                  "text": "Un teren de joacă prietenos în Zurich, ideal pentru o excursie cu copiii.",
-                  "category": "family",
-                  "coords": [
-                        8.522097,
-                        47.399581
-                  ]
-            },
-            {
                   "name": "Hohe Promenade",
                   "text": "Un teren de joacă cu o vedere frumoasă în Zurich pentru întreaga familie.",
                   "category": "family",
                   "coords": [
                         8.548885,
                         47.367793
-                  ]
-            },
-            {
-                  "name": "Aemtleranlage",
-                  "text": "O zonă de joacă vastă în Zurich, cu diverse echipamente de joacă.",
-                  "category": "family",
-                  "coords": [
-                        8.511082,
-                        47.373799
-                  ]
-            },
-            {
-                  "name": "Heiligfeld",
-                  "text": "Un teren de joacă modern în Zurich, care invită copiii la explorare.",
-                  "category": "family",
-                  "coords": [
-                        8.505058,
-                        47.37959
                   ]
             },
             {
@@ -2705,48 +1823,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Steinkluppenanlage",
-                  "text": "Un teren de joacă primitor în Zurich pentru copii de toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        8.540147,
-                        47.400819
-                  ]
-            },
-            {
                   "name": "Kasernenareal",
                   "text": "O zonă de joacă centrală în Zurich pe teritoriul cazărmii.",
                   "category": "family",
                   "coords": [
                         8.53021,
                         47.377311
-                  ]
-            },
-            {
-                  "name": "Keen",
-                  "text": "Keen din Zurich este o baie publică destinată relaxării.",
-                  "category": "family",
-                  "coords": [
-                        8.524962,
-                        47.387245
-                  ]
-            },
-            {
-                  "name": "Float Zürich",
-                  "text": "Float Zürich oferă relaxare prin plutire în orașul Zurich.",
-                  "category": "family",
-                  "coords": [
-                        8.528118,
-                        47.393383
-                  ]
-            },
-            {
-                  "name": "Schulschwimmanlage Kügeliloo",
-                  "text": "Schulschwimmanlage Kügeliloo din Zurich este un loc destinat înotului.",
-                  "category": "family",
-                  "coords": [
-                        8.528038,
-                        47.411068
                   ]
             },
             {
@@ -2759,33 +1841,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Hammam Basar",
-                  "text": "Hammam Basar din Zurich invită vizitatorii la experiențe tradiționale de scăldat.",
-                  "category": "family",
-                  "coords": [
-                        8.558633,
-                        47.35699
-                  ]
-            },
-            {
-                  "name": "Zürichhorn",
-                  "text": "Zürichhorn oferă posibilități de scăldat direct pe malul lacului Zurich.",
-                  "category": "family",
-                  "coords": [
-                        8.550254,
-                        47.353746
-                  ]
-            },
-            {
-                  "name": "Schul-Schwimmbad Altweg",
-                  "text": "Schul-Schwimmbad Altweg din Zurich este un loc pentru activități de înot.",
-                  "category": "family",
-                  "coords": [
-                        8.492076,
-                        47.372468
-                  ]
-            },
-            {
                   "name": "Hammam & Spa, Stadtbad Zürich",
                   "text": "Hammam & Spa, Stadtbad Zurich oferă relaxare și servicii de wellness.",
                   "category": "family",
@@ -2795,66 +1850,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Wellenbad",
-                  "text": "Wellenbad din Zurich oferă o experiență de înot cu valuri.",
-                  "category": "family",
-                  "coords": [
-                        8.498531,
-                        47.378678
-                  ]
-            },
-            {
                   "name": "Strandbad Mythenquai",
                   "text": "Strandbad Mythenquai din Zurich este o plajă publică populară pe malul lacului.",
                   "category": "family",
                   "coords": [
                         8.535755,
                         47.353559
-                  ]
-            },
-            {
-                  "name": "Tierpark Waidberg",
-                  "text": "Tierpark Waidberg din Zurich găzduiește diverse animale sălbatice.",
-                  "category": "family",
-                  "coords": [
-                        8.517004,
-                        47.400329
-                  ]
-            },
-            {
-                  "name": "Flussbad Unterer Letten",
-                  "text": "Flussbad Unterer Letten oferă posibilitatea de a înota în râul Limmat din Zurich.",
-                  "category": "family",
-                  "coords": [
-                        8.529185,
-                        47.389359
-                  ]
-            },
-            {
-                  "name": "Strandbad Wollishofen",
-                  "text": "Strandbad Wollishofen din Zurich invită vizitatorii la scăldat pe malul lacului.",
-                  "category": "family",
-                  "coords": [
-                        8.537657,
-                        47.341041
-                  ]
-            },
-            {
-                  "name": "Strandbad Tiefenbrunnen",
-                  "text": "Strandbad Tiefenbrunnen din Zurich oferă diverse posibilități de scăldat la lac.",
-                  "category": "family",
-                  "coords": [
-                        8.556214,
-                        47.352266
-                  ]
-            },
-            {
-                  "name": "Planschbecken Fritschiwiese",
-                  "text": "Planschbecken Fritschiwiese din Zurich este o zonă cu apă pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        8.512264,
-                        47.37654
                   ]
             },
             {
@@ -2894,51 +1895,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Planschbecken Josefwiese",
-                  "text": "Planschbecken Josefwiese din Zurich oferă copiilor o modalitate de a se răcori vara.",
-                  "category": "family",
-                  "coords": [
-                        8.522806,
-                        47.38598
-                  ]
-            },
-            {
-                  "name": "Planschbecken Borrweg",
-                  "text": "Planschbecken Borrweg din Zurich este un bazin de mică adâncime pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        8.50549,
-                        47.360278
-                  ]
-            },
-            {
-                  "name": "Vogelzucht Martins",
-                  "text": "Vogelzucht Martins din Zurich este dedicată creșterii păsărilor.",
-                  "category": "family",
-                  "coords": [
-                        8.502493,
-                        47.396737
-                  ]
-            },
-            {
-                  "name": "Planschbecken Bullingerhof",
-                  "text": "Planschbecken Bullingerhof din Zurich oferă distracție acvatică pentru copiii din zonă.",
-                  "category": "family",
-                  "coords": [
-                        8.514025,
-                        47.378844
-                  ]
-            },
-            {
-                  "name": "Planschbecken Föhrenwald",
-                  "text": "Planschbecken Föhrenwald din Zurich este un loc de scăldat pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        8.541697,
-                        47.405836
-                  ]
-            },
-            {
                   "name": "Planschbecken Schlössliareal",
                   "text": "O piscină pentru copii în Zurich pentru familii cu copii mici.",
                   "category": "family",
@@ -2963,15 +1919,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.536456,
                         47.384451
-                  ]
-            },
-            {
-                  "name": "Offener Stall",
-                  "text": "O mică grădină zoologică în Zurich cu animale pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        8.520687,
-                        47.392797
                   ]
             },
             {
@@ -3040,15 +1987,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Zivilschutzmuseum",
-                  "text": "This museum in Zürich provides insights into the history of civil defence in Switzerland.",
-                  "category": "museum",
-                  "coords": [
-                        8.526978,
-                        47.391959
-                  ]
-            },
-            {
                   "name": "Rietberg Museum",
                   "text": "A renowned museum in Zürich dedicated to non-European art.",
                   "category": "museum",
@@ -3064,15 +2002,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.538542,
                         47.370925
-                  ]
-            },
-            {
-                  "name": "Haus Konstruktiv",
-                  "text": "A museum in Zürich specializing in constructive, concrete, and conceptual art.",
-                  "category": "museum",
-                  "coords": [
-                        8.525269,
-                        47.38913
                   ]
             },
             {
@@ -3109,15 +2038,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.547457,
                         47.378357
-                  ]
-            },
-            {
-                  "name": "Museum für Gestaltung - Schaudepot",
-                  "text": "The open storage of the Museum of Design in Zürich showcases an extensive design collection.",
-                  "category": "museum",
-                  "coords": [
-                        8.512069,
-                        47.390229
                   ]
             },
             {
@@ -3274,15 +2194,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Katholische Kirche St. Felix und Regula",
-                  "text": "A Catholic parish church in Zürich dedicated to the city's patron saints, Felix and Regula.",
-                  "category": "religious",
-                  "coords": [
-                        8.513588,
-                        47.381053
-                  ]
-            },
-            {
                   "name": "Pauluskirche",
                   "text": "A neo-Gothic church in Zürich known for its striking architecture.",
                   "category": "religious",
@@ -3301,39 +2212,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Andreaskirche",
-                  "text": "An Evangelical Reformed church located in the Sihlfeld district of Zürich.",
-                  "category": "religious",
-                  "coords": [
-                        8.501689,
-                        47.378736
-                  ]
-            },
-            {
-                  "name": "Chinagarten Zürich",
-                  "text": "A magnificent Chinese garden on the shores of Lake Zurich, a gift from the partner city of Kunming.",
-                  "category": "landmark",
-                  "coords": [
-                        8.551991,
-                        47.354972
-                  ]
-            },
-            {
                   "name": "MAWS301 Zürichberg",
                   "text": "A prominent telecommunications tower on the Zürichberg hill, visible from afar.",
                   "category": "tower",
                   "coords": [
                         8.568086,
                         47.385984
-                  ]
-            },
-            {
-                  "name": "Hardturm",
-                  "text": "A historical tower structure in Zurich, known as the former site of the stadium.",
-                  "category": "tower",
-                  "coords": [
-                        8.513749,
-                        47.394022
                   ]
             },
             {
@@ -3370,15 +2254,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.540016,
                         47.380847
-                  ]
-            },
-            {
-                  "name": "Bäckeranlage",
-                  "text": "A lively park in the Aussersihl district with playgrounds and a community center.",
-                  "category": "park",
-                  "coords": [
-                        8.523613,
-                        47.377816
                   ]
             },
             {
@@ -3508,78 +2383,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Unterer Katzensee",
-                  "text": "An idyllic swimming lake in Zurich, surrounded by a nature reserve.",
-                  "category": "natural",
-                  "coords": [
-                        8.490574,
-                        47.431289
-                  ]
-            },
-            {
-                  "name": "Oberer Katzensee",
-                  "text": "A quiet lake in Zurich, ideal for nature observation and walks.",
-                  "category": "natural",
-                  "coords": [
-                        8.497333,
-                        47.433687
-                  ]
-            },
-            {
-                  "name": "GWW Hardhof, Anreicherungsbecken 1",
-                  "text": "A water basin in Zurich nestled in a green area.",
-                  "category": "natural",
-                  "coords": [
-                        8.50276,
-                        47.394767
-                  ]
-            },
-            {
-                  "name": "GWW Hardhof, Anreicherungsbecken 2",
-                  "text": "A quiet body of water in the Hardhof area in Zurich for short breaks.",
-                  "category": "natural",
-                  "coords": [
-                        8.499338,
-                        47.394478
-                  ]
-            },
-            {
-                  "name": "GWW Hardhof, Anreicherungsbecken 3",
-                  "text": "Part of the water facilities in Zurich, surrounded by walking paths.",
-                  "category": "natural",
-                  "coords": [
-                        8.495741,
-                        47.394364
-                  ]
-            },
-            {
-                  "name": "Gehrenholz Weiher",
-                  "text": "A small pond in Zurich that offers a place of peace in the greenery.",
-                  "category": "natural",
-                  "coords": [
-                        8.509279,
-                        47.364062
-                  ]
-            },
-            {
-                  "name": "Martinseiher",
-                  "text": "A quiet body of water in Zurich, ideal for a small break in nature.",
-                  "category": "natural",
-                  "coords": [
-                        8.468391,
-                        47.425588
-                  ]
-            },
-            {
-                  "name": "Lake Zurich",
-                  "text": "Lake Zurich offers numerous leisure activities and beautiful lakeside promenades.",
-                  "category": "natural",
-                  "coords": [
-                        8.74144,
-                        47.279095
-                  ]
-            },
-            {
                   "name": "GZ Schindlergut",
                   "text": "A popular playground in Zurich with many activities for children.",
                   "category": "family",
@@ -3616,48 +2419,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Drahtzugstrasse",
-                  "text": "A local playground in Zurich that offers children plenty of freedom to move.",
-                  "category": "family",
-                  "coords": [
-                        8.564469,
-                        47.359684
-                  ]
-            },
-            {
-                  "name": "Obere Waidstrasse",
-                  "text": "A friendly playground in Zurich, ideal for an outing with children.",
-                  "category": "family",
-                  "coords": [
-                        8.522097,
-                        47.399581
-                  ]
-            },
-            {
                   "name": "Hohe Promenade",
                   "text": "A playground with a beautiful view in Zurich for the whole family.",
                   "category": "family",
                   "coords": [
                         8.548885,
                         47.367793
-                  ]
-            },
-            {
-                  "name": "Aemtleranlage",
-                  "text": "A spacious play area in Zurich with various play equipment.",
-                  "category": "family",
-                  "coords": [
-                        8.511082,
-                        47.373799
-                  ]
-            },
-            {
-                  "name": "Heiligfeld",
-                  "text": "A modern playground in Zurich that invites children to discover.",
-                  "category": "family",
-                  "coords": [
-                        8.505058,
-                        47.37959
                   ]
             },
             {
@@ -3688,48 +2455,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Steinkluppenanlage",
-                  "text": "An inviting playground in Zurich for children of all ages.",
-                  "category": "family",
-                  "coords": [
-                        8.540147,
-                        47.400819
-                  ]
-            },
-            {
                   "name": "Kasernenareal",
                   "text": "A central play area in Zurich on the barracks grounds.",
                   "category": "family",
                   "coords": [
                         8.53021,
                         47.377311
-                  ]
-            },
-            {
-                  "name": "Keen",
-                  "text": "Keen in Zurich is a public bath inviting visitors for a relaxing experience.",
-                  "category": "family",
-                  "coords": [
-                        8.524962,
-                        47.387245
-                  ]
-            },
-            {
-                  "name": "Float Zürich",
-                  "text": "Float Zürich provides a unique spa experience for deep relaxation in the city.",
-                  "category": "family",
-                  "coords": [
-                        8.528118,
-                        47.393383
-                  ]
-            },
-            {
-                  "name": "Schulschwimmanlage Kügeliloo",
-                  "text": "Schulschwimmanlage Kügeliloo in Zurich is a swimming facility for various activities.",
-                  "category": "family",
-                  "coords": [
-                        8.528038,
-                        47.411068
                   ]
             },
             {
@@ -3742,33 +2473,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Hammam Basar",
-                  "text": "Hammam Basar in Zurich offers a traditional and relaxing public bath atmosphere.",
-                  "category": "family",
-                  "coords": [
-                        8.558633,
-                        47.35699
-                  ]
-            },
-            {
-                  "name": "Zürichhorn",
-                  "text": "Zürichhorn is a popular lakeside area in Zurich with space for swimming.",
-                  "category": "family",
-                  "coords": [
-                        8.550254,
-                        47.353746
-                  ]
-            },
-            {
-                  "name": "Schul-Schwimmbad Altweg",
-                  "text": "Schul-Schwimmbad Altweg in Zurich is a swimming pool used for various programs.",
-                  "category": "family",
-                  "coords": [
-                        8.492076,
-                        47.372468
-                  ]
-            },
-            {
                   "name": "Hammam & Spa, Stadtbad Zürich",
                   "text": "Hammam & Spa at Stadtbad Zürich is a public bath focused on wellness and relaxation.",
                   "category": "family",
@@ -3778,66 +2482,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Wellenbad",
-                  "text": "Wellenbad in Zurich is a swimming pool featuring wave actions for extra fun.",
-                  "category": "family",
-                  "coords": [
-                        8.498531,
-                        47.378678
-                  ]
-            },
-            {
                   "name": "Strandbad Mythenquai",
                   "text": "Strandbad Mythenquai in Zurich is a well-known public bath by the lake.",
                   "category": "family",
                   "coords": [
                         8.535755,
                         47.353559
-                  ]
-            },
-            {
-                  "name": "Tierpark Waidberg",
-                  "text": "Tierpark Waidberg in Zurich is a zoo where families can observe local wildlife.",
-                  "category": "family",
-                  "coords": [
-                        8.517004,
-                        47.400329
-                  ]
-            },
-            {
-                  "name": "Flussbad Unterer Letten",
-                  "text": "Flussbad Unterer Letten is a historic river bath in Zurich for outdoor swimming.",
-                  "category": "family",
-                  "coords": [
-                        8.529185,
-                        47.389359
-                  ]
-            },
-            {
-                  "name": "Strandbad Wollishofen",
-                  "text": "Strandbad Wollishofen in Zurich is a public bath offering access to the lake.",
-                  "category": "family",
-                  "coords": [
-                        8.537657,
-                        47.341041
-                  ]
-            },
-            {
-                  "name": "Strandbad Tiefenbrunnen",
-                  "text": "Strandbad Tiefenbrunnen in Zurich is a spacious public bath on Lake Zurich.",
-                  "category": "family",
-                  "coords": [
-                        8.556214,
-                        47.352266
-                  ]
-            },
-            {
-                  "name": "Planschbecken Fritschiwiese",
-                  "text": "Planschbecken Fritschiwiese in Zurich is a paddling pool perfect for kids.",
-                  "category": "family",
-                  "coords": [
-                        8.512264,
-                        47.37654
                   ]
             },
             {
@@ -3877,51 +2527,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Planschbecken Josefwiese",
-                  "text": "Planschbecken Josefwiese in Zurich is a popular paddling pool for family fun.",
-                  "category": "family",
-                  "coords": [
-                        8.522806,
-                        47.38598
-                  ]
-            },
-            {
-                  "name": "Planschbecken Borrweg",
-                  "text": "Planschbecken Borrweg in Zurich is a small pool ideal for young children to play.",
-                  "category": "family",
-                  "coords": [
-                        8.50549,
-                        47.360278
-                  ]
-            },
-            {
-                  "name": "Vogelzucht Martins",
-                  "text": "Vogelzucht Martins in Zurich is a small zoo focused on avian species.",
-                  "category": "family",
-                  "coords": [
-                        8.502493,
-                        47.396737
-                  ]
-            },
-            {
-                  "name": "Planschbecken Bullingerhof",
-                  "text": "Planschbecken Bullingerhof in Zurich is a community paddling pool for children.",
-                  "category": "family",
-                  "coords": [
-                        8.514025,
-                        47.378844
-                  ]
-            },
-            {
-                  "name": "Planschbecken Föhrenwald",
-                  "text": "Planschbecken Föhrenwald in Zurich is a quiet paddling pool for young visitors.",
-                  "category": "family",
-                  "coords": [
-                        8.541697,
-                        47.405836
-                  ]
-            },
-            {
                   "name": "Planschbecken Schlössliareal",
                   "text": "A paddling pool in Zurich for families with small children.",
                   "category": "family",
@@ -3946,15 +2551,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         8.536456,
                         47.384451
-                  ]
-            },
-            {
-                  "name": "Offener Stall",
-                  "text": "A small zoo in Zurich with animals for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        8.520687,
-                        47.392797
                   ]
             },
             {
@@ -4104,24 +2700,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Musée Ariana",
-                  "text": "Das Schweizer Museum für Keramik und Glas, untergebracht in einem klassizistischen Palast in Genf.",
-                  "category": "museum",
-                  "coords": [
-                        6.138855,
-                        46.225405
-                  ]
-            },
-            {
-                  "name": "Internationales Rotkreuz- und Rothalbmondmuseum",
-                  "text": "Das Internationale Rotkreuz- und Rothalbmondmuseum in Genf.",
-                  "category": "museum",
-                  "coords": [
-                        6.136901,
-                        46.22741
-                  ]
-            },
-            {
                   "name": "Palais Eynard",
                   "text": "Ein klassizistischer Palast in Genf, der als Sitz der Stadtregierung dient.",
                   "category": "historical",
@@ -4176,24 +2754,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Sainte-Croix",
-                  "text": "Eine markante Kirche in Carouge, die für ihre Architektur bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        6.139825,
-                        46.18402
-                  ]
-            },
-            {
-                  "name": "Église Saint-Paul",
-                  "text": "Eine Pfarrkirche in Cologny, die als Ort der Anbetung dient.",
-                  "category": "religious",
-                  "coords": [
-                        6.1756,
-                        46.202464
-                  ]
-            },
-            {
                   "name": "Jet d'eau",
                   "text": "Eine große Fontäne im Genfersee und das berühmteste Wahrzeichen der Stadt.",
                   "category": "landmark",
@@ -4209,33 +2769,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.146384,
                         46.200547
-                  ]
-            },
-            {
-                  "name": "Tour de Champel",
-                  "text": "Ein neugotischer Turm im Stadtteil Champel, der einen weiten Ausblick bietet.",
-                  "category": "tower",
-                  "coords": [
-                        6.152119,
-                        46.187444
-                  ]
-            },
-            {
-                  "name": "Pont de Vessy",
-                  "text": "Eine Brücke in Genf, die den Fluss Arve überquert.",
-                  "category": "landmark",
-                  "coords": [
-                        6.159912,
-                        46.18105
-                  ]
-            },
-            {
-                  "name": "Pont du Val-d'Arve",
-                  "text": "Eine wichtige Brücke, die die Ufer der Arve in Genf verbindet.",
-                  "category": "landmark",
-                  "coords": [
-                        6.153976,
-                        46.183344
                   ]
             },
             {
@@ -4290,15 +2823,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.167038,
                         46.206275
-                  ]
-            },
-            {
-                  "name": "Parc Chuit",
-                  "text": "Eine gepflegte Grünanlage in Genf, die zum Spazierengehen einlädt.",
-                  "category": "park",
-                  "coords": [
-                        6.123616,
-                        46.191623
                   ]
             },
             {
@@ -4392,15 +2916,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Théâtre de Carouge",
-                  "text": "Ein renommiertes Theater in Carouge, das für seine zeitgenössischen Produktionen bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        6.142084,
-                        46.181177
-                  ]
-            },
-            {
                   "name": "Casino Théâtre",
                   "text": "Ein charmantes Theater im Herzen der Genfer Altstadt.",
                   "category": "cultural",
@@ -4428,42 +2943,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Mosquée du Petit-Saconnex",
-                  "text": "Die größte Moschee in Genf und ein wichtiges religiöses Zentrum für die muslimische Gemeinschaft.",
-                  "category": "religious",
-                  "coords": [
-                        6.121945,
-                        46.223622
-                  ]
-            },
-            {
-                  "name": "Temple du Petit-Saconnex",
-                  "text": "Ein historischer protestantischer Tempel im Stadtteil Petit-Saconnex.",
-                  "category": "religious",
-                  "coords": [
-                        6.127956,
-                        46.222972
-                  ]
-            },
-            {
-                  "name": "Christ-Roi",
-                  "text": "Eine katholische Kirche in Genf, die dem Christkönig gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        6.117234,
-                        46.189058
-                  ]
-            },
-            {
-                  "name": "Notre-Dame des Grâces",
-                  "text": "Eine katholische Kirche, die als Ort der Anbetung und Besinnung dient.",
-                  "category": "religious",
-                  "coords": [
-                        6.12109,
-                        46.182374
-                  ]
-            },
-            {
                   "name": "Église Sainte-Trinité",
                   "text": "Eine Kirche in Genf, die der Heiligen Dreifaltigkeit gewidmet ist.",
                   "category": "religious",
@@ -4479,15 +2958,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.149136,
                         46.195905
-                  ]
-            },
-            {
-                  "name": "Communauté Israélite Libérale de Genève-GIL",
-                  "text": "Das religiöse Zentrum der liberalen jüdischen Gemeinschaft in Genf.",
-                  "category": "religious",
-                  "coords": [
-                        6.170838,
-                        46.200674
                   ]
             },
             {
@@ -4563,24 +3033,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Genfersee",
-                  "text": "Der Genfersee in Genf ist ein zentrales Element der Stadt und bietet zahlreiche Freizeitaktivitäten am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        6.539468,
-                        46.361359
-                  ]
-            },
-            {
-                  "name": "Parc de la Tortue",
-                  "text": "Der Parc de la Tortue in Genf bietet einen freundlichen Spielbereich für Kinder mitten in der Stadt.",
-                  "category": "family",
-                  "coords": [
-                        6.13929,
-                        46.189858
-                  ]
-            },
-            {
                   "name": "Lézard des Grottes",
                   "text": "Lézard des Grottes in Genf bietet fantasievolle Spielmöglichkeiten für Kinder in einem städtischen Park.",
                   "category": "family",
@@ -4605,33 +3057,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.161956,
                         46.203183
-                  ]
-            },
-            {
-                  "name": "Parc de l'abeille",
-                  "text": "Der Parc de l'abeille in Genf bietet Kindern einen naturnahen Raum zum Spielen und Entdecken.",
-                  "category": "family",
-                  "coords": [
-                        6.120897,
-                        46.19239
-                  ]
-            },
-            {
-                  "name": "Petit Train",
-                  "text": "Petit Train in Genf ist ein besonderer Spielbereich, der die Fantasie der Kinder anregt.",
-                  "category": "family",
-                  "coords": [
-                        6.11781,
-                        46.190206
-                  ]
-            },
-            {
-                  "name": "Préau couvert",
-                  "text": "Der Préau couvert in Genf bietet einen geschützten Bereich für Spiel und Bewegung im Freien.",
-                  "category": "family",
-                  "coords": [
-                        6.11946,
-                        46.188647
                   ]
             },
             {
@@ -4662,15 +3087,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Piscine du Grand-Saconnex",
-                  "text": "Ein Schwimmbad in Genf für sportliche Betätigung und Wasserspaß.",
-                  "category": "family",
-                  "coords": [
-                        6.127523,
-                        46.233798
-                  ]
-            },
-            {
                   "name": "Plage du Rhône",
                   "text": "Ein öffentlicher Badeplatz am Rhône in Genf für eine Abkühlung.",
                   "category": "family",
@@ -4698,39 +3114,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ponton de baignade",
-                  "text": "Ein öffentlicher Badeponton in Genf für Schwimmvergnügen im See.",
-                  "category": "family",
-                  "coords": [
-                        6.177703,
-                        46.218705
-                  ]
-            },
-            {
-                  "name": "Plage du Reposoir",
-                  "text": "Ein öffentlicher Badestrand in Genf für erholsame Stunden am Genfersee.",
-                  "category": "family",
-                  "coords": [
-                        6.150152,
-                        46.230494
-                  ]
-            },
-            {
                   "name": "Plage du Quai-Wilson",
                   "text": "Ein öffentlicher Badeplatz in Genf für eine Erfrischung im Sommer.",
                   "category": "family",
                   "coords": [
                         6.152267,
                         46.214763
-                  ]
-            },
-            {
-                  "name": "Pontons de Cologny",
-                  "text": "Öffentliche Badestege in Genf für den Zugang zum Genfersee.",
-                  "category": "family",
-                  "coords": [
-                        6.181107,
-                        46.222968
                   ]
             },
             {
@@ -4749,24 +3138,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.138702,
                         46.213882
-                  ]
-            },
-            {
-                  "name": "Fontaines de Carouge (pataugeoire)",
-                  "text": "Ein öffentliches Schwimmbad in Genf für Kinder zum Planschen.",
-                  "category": "family",
-                  "coords": [
-                        6.137176,
-                        46.18401
-                  ]
-            },
-            {
-                  "name": "Pataugeoire MSC Country Club",
-                  "text": "Ein Planschbecken in Genf für die jüngsten Besucher zum Wasserspaß.",
-                  "category": "family",
-                  "coords": [
-                        6.181282,
-                        46.194674
                   ]
             },
             {
@@ -4796,24 +3167,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.13688,
                         46.197871
-                  ]
-            },
-            {
-                  "name": "Musée Ariana",
-                  "text": "Svájci kerámia- és üvegmúzeum, amely egy neoklasszicista palotában található Genfben.",
-                  "category": "museum",
-                  "coords": [
-                        6.138855,
-                        46.225405
-                  ]
-            },
-            {
-                  "name": "Musée International de la Croix-Rouge et du Croissant-Rouge",
-                  "text": "A Nemzetközi Vöröskereszt és Vörös Félhold Múzeuma Genfben.",
-                  "category": "museum",
-                  "coords": [
-                        6.136901,
-                        46.22741
                   ]
             },
             {
@@ -4871,24 +3224,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Sainte-Croix",
-                  "text": "Jellegzetes templom Carouge-ban, amely építészetéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        6.139825,
-                        46.18402
-                  ]
-            },
-            {
-                  "name": "Église Saint-Paul",
-                  "text": "Plébániatemplom Cologny-ban, amely istentiszteleti helyként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        6.1756,
-                        46.202464
-                  ]
-            },
-            {
                   "name": "Jet d'eau",
                   "text": "Hatalmas szökőkút a Genfi-tavon, a város leghíresebb jelképe.",
                   "category": "landmark",
@@ -4904,33 +3239,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.146384,
                         46.200547
-                  ]
-            },
-            {
-                  "name": "Tour de Champel",
-                  "text": "Neogótikus torony Champel negyedében, amely széles kilátást nyújt.",
-                  "category": "tower",
-                  "coords": [
-                        6.152119,
-                        46.187444
-                  ]
-            },
-            {
-                  "name": "Pont de Vessy",
-                  "text": "Egy híd Genfben, amely az Arve folyót íveli át.",
-                  "category": "landmark",
-                  "coords": [
-                        6.159912,
-                        46.18105
-                  ]
-            },
-            {
-                  "name": "Pont du Val-d'Arve",
-                  "text": "Fontos híd, amely az Arve partjait köti össze Genfben.",
-                  "category": "landmark",
-                  "coords": [
-                        6.153976,
-                        46.183344
                   ]
             },
             {
@@ -4985,15 +3293,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.167038,
                         46.206275
-                  ]
-            },
-            {
-                  "name": "Parc Chuit",
-                  "text": "Gondozott zöldterület Genfben, amely sétálásra invitál.",
-                  "category": "park",
-                  "coords": [
-                        6.123616,
-                        46.191623
                   ]
             },
             {
@@ -5087,15 +3386,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Théâtre de Carouge",
-                  "text": "Neves színház Carouge-ban, amely kortárs produkcióiról ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        6.142084,
-                        46.181177
-                  ]
-            },
-            {
                   "name": "Casino Théâtre",
                   "text": "Bájos színház Genf óvárosának szívében.",
                   "category": "cultural",
@@ -5123,42 +3413,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Mosquée du Petit-Saconnex",
-                  "text": "Genf legnagyobb mecsetje és a muszlim közösség fontos vallási központja.",
-                  "category": "religious",
-                  "coords": [
-                        6.121945,
-                        46.223622
-                  ]
-            },
-            {
-                  "name": "Temple du Petit-Saconnex",
-                  "text": "Történelmi protestáns templom Petit-Saconnex negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        6.127956,
-                        46.222972
-                  ]
-            },
-            {
-                  "name": "Christ-Roi",
-                  "text": "Krisztus Királynak szentelt katolikus templom Genfben.",
-                  "category": "religious",
-                  "coords": [
-                        6.117234,
-                        46.189058
-                  ]
-            },
-            {
-                  "name": "Notre-Dame des Grâces",
-                  "text": "Katolikus templom, amely az istentisztelet és az elmélkedés helyszíne.",
-                  "category": "religious",
-                  "coords": [
-                        6.12109,
-                        46.182374
-                  ]
-            },
-            {
                   "name": "Église Sainte-Trinité",
                   "text": "A Szentháromságnak szentelt templom Genfben.",
                   "category": "religious",
@@ -5174,15 +3428,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.149136,
                         46.195905
-                  ]
-            },
-            {
-                  "name": "Communauté Israélite Libérale de Genève-GIL",
-                  "text": "A genfi liberális zsidó közösség vallási központja.",
-                  "category": "religious",
-                  "coords": [
-                        6.170838,
-                        46.200674
                   ]
             },
             {
@@ -5258,24 +3503,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Genfi-tó",
-                  "text": "A genfi Genfi-tó a város központi eleme, amely számos vízparti kikapcsolódási lehetőséget nyújt.",
-                  "category": "natural",
-                  "coords": [
-                        6.539468,
-                        46.361359
-                  ]
-            },
-            {
-                  "name": "Parc de la Tortue",
-                  "text": "A genfi Parc de la Tortue barátságos játszóhelyet kínál a gyerekeknek a város közepén.",
-                  "category": "family",
-                  "coords": [
-                        6.13929,
-                        46.189858
-                  ]
-            },
-            {
                   "name": "Lézard des Grottes",
                   "text": "A genfi Lézard des Grottes ötletes játéklehetőségeket kínál a gyerekeknek egy városi parkban.",
                   "category": "family",
@@ -5300,33 +3527,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.161956,
                         46.203183
-                  ]
-            },
-            {
-                  "name": "Parc de l'abeille",
-                  "text": "A genfi Parc de l'abeille természetközeli helyet biztosít a gyerekeknek a játékhoz és felfedezéshez.",
-                  "category": "family",
-                  "coords": [
-                        6.120897,
-                        46.19239
-                  ]
-            },
-            {
-                  "name": "Petit Train",
-                  "text": "A genfi Petit Train egy különleges játszóhely, amely megmozgatja a gyerekek képzeletét.",
-                  "category": "family",
-                  "coords": [
-                        6.11781,
-                        46.190206
-                  ]
-            },
-            {
-                  "name": "Préau couvert",
-                  "text": "A genfi Préau couvert fedett területet biztosít a szabadtéri játékhoz és mozgáshoz.",
-                  "category": "family",
-                  "coords": [
-                        6.11946,
-                        46.188647
                   ]
             },
             {
@@ -5357,15 +3557,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Piscine du Grand-Saconnex",
-                  "text": "Úszómedence Genfben sportoláshoz és vízi szórakozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        6.127523,
-                        46.233798
-                  ]
-            },
-            {
                   "name": "Plage du Rhône",
                   "text": "Nyilvános fürdőhely a Rhone partján, Genfben a hűsöléshez.",
                   "category": "family",
@@ -5393,39 +3584,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ponton de baignade",
-                  "text": "Nyilvános fürdőstég Genfben a tavi úszáshoz.",
-                  "category": "family",
-                  "coords": [
-                        6.177703,
-                        46.218705
-                  ]
-            },
-            {
-                  "name": "Plage du Reposoir",
-                  "text": "Nyilvános fürdőstrand Genfben a Genfi-tó partján való pihenéshez.",
-                  "category": "family",
-                  "coords": [
-                        6.150152,
-                        46.230494
-                  ]
-            },
-            {
                   "name": "Plage du Quai-Wilson",
                   "text": "Nyilvános fürdőhely Genfben a nyári felfrissüléshez.",
                   "category": "family",
                   "coords": [
                         6.152267,
                         46.214763
-                  ]
-            },
-            {
-                  "name": "Pontons de Cologny",
-                  "text": "Nyilvános fürdőstégek Genfben a Genfi-tóhoz való hozzáféréshez.",
-                  "category": "family",
-                  "coords": [
-                        6.181107,
-                        46.222968
                   ]
             },
             {
@@ -5444,24 +3608,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.138702,
                         46.213882
-                  ]
-            },
-            {
-                  "name": "Fontaines de Carouge (pataugeoire)",
-                  "text": "Nyilvános úszómedence Genfben a gyerekek pancsolásához.",
-                  "category": "family",
-                  "coords": [
-                        6.137176,
-                        46.18401
-                  ]
-            },
-            {
-                  "name": "Pataugeoire MSC Country Club",
-                  "text": "Pancsolómedence Genfben a legfiatalabb látogatók vízi szórakozásához.",
-                  "category": "family",
-                  "coords": [
-                        6.181282,
-                        46.194674
                   ]
             },
             {
@@ -5491,24 +3637,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.13688,
                         46.197871
-                  ]
-            },
-            {
-                  "name": "Musée Ariana",
-                  "text": "Muzeul Elvețian de Ceramică și Sticlă, situat într-un palat neoclasic din Geneva.",
-                  "category": "museum",
-                  "coords": [
-                        6.138855,
-                        46.225405
-                  ]
-            },
-            {
-                  "name": "Musée International de la Croix-Rouge et du Croissant-Rouge",
-                  "text": "Muzeul Internațional al Crucii Roșii și Semilunii Roșii din Geneva.",
-                  "category": "museum",
-                  "coords": [
-                        6.136901,
-                        46.22741
                   ]
             },
             {
@@ -5566,24 +3694,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Sainte-Croix",
-                  "text": "O biserică importantă din Carouge, cunoscută pentru arhitectura sa.",
-                  "category": "religious",
-                  "coords": [
-                        6.139825,
-                        46.18402
-                  ]
-            },
-            {
-                  "name": "Église Saint-Paul",
-                  "text": "O biserică parohială din Cologny care servește ca loc de cult.",
-                  "category": "religious",
-                  "coords": [
-                        6.1756,
-                        46.202464
-                  ]
-            },
-            {
                   "name": "Jet d'eau",
                   "text": "O fântână mare pe Lacul Geneva și cel mai faimos punct de reper al orașului.",
                   "category": "landmark",
@@ -5599,33 +3709,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.146384,
                         46.200547
-                  ]
-            },
-            {
-                  "name": "Tour de Champel",
-                  "text": "Un turn neogotic în cartierul Champel, care oferă o vedere panoramică.",
-                  "category": "tower",
-                  "coords": [
-                        6.152119,
-                        46.187444
-                  ]
-            },
-            {
-                  "name": "Pont de Vessy",
-                  "text": "Un pod din Geneva care traversează râul Arve.",
-                  "category": "landmark",
-                  "coords": [
-                        6.159912,
-                        46.18105
-                  ]
-            },
-            {
-                  "name": "Pont du Val-d'Arve",
-                  "text": "Un pod important care leagă malurile râului Arve în Geneva.",
-                  "category": "landmark",
-                  "coords": [
-                        6.153976,
-                        46.183344
                   ]
             },
             {
@@ -5680,15 +3763,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.167038,
                         46.206275
-                  ]
-            },
-            {
-                  "name": "Parc Chuit",
-                  "text": "Un spațiu verde bine întreținut în Geneva, ideal pentru plimbări.",
-                  "category": "park",
-                  "coords": [
-                        6.123616,
-                        46.191623
                   ]
             },
             {
@@ -5782,15 +3856,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Théâtre de Carouge",
-                  "text": "Un teatru renumit din Carouge, cunoscut pentru producțiile sale contemporane.",
-                  "category": "cultural",
-                  "coords": [
-                        6.142084,
-                        46.181177
-                  ]
-            },
-            {
                   "name": "Casino Théâtre",
                   "text": "Un teatru fermecător situat în inima orașului vechi din Geneva.",
                   "category": "cultural",
@@ -5818,42 +3883,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Mosquée du Petit-Saconnex",
-                  "text": "Cea mai mare moschee din Geneva și un centru religios important pentru comunitatea musulmană.",
-                  "category": "religious",
-                  "coords": [
-                        6.121945,
-                        46.223622
-                  ]
-            },
-            {
-                  "name": "Temple du Petit-Saconnex",
-                  "text": "Un templu protestant istoric situat în cartierul Petit-Saconnex.",
-                  "category": "religious",
-                  "coords": [
-                        6.127956,
-                        46.222972
-                  ]
-            },
-            {
-                  "name": "Christ-Roi",
-                  "text": "O biserică catolică din Geneva dedicată lui Cristos Rege.",
-                  "category": "religious",
-                  "coords": [
-                        6.117234,
-                        46.189058
-                  ]
-            },
-            {
-                  "name": "Notre-Dame des Grâces",
-                  "text": "O biserică catolică ce servește ca loc de închinare și reflecție.",
-                  "category": "religious",
-                  "coords": [
-                        6.12109,
-                        46.182374
-                  ]
-            },
-            {
                   "name": "Église Sainte-Trinité",
                   "text": "O biserică din Geneva dedicată Sfintei Treimi.",
                   "category": "religious",
@@ -5869,15 +3898,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.149136,
                         46.195905
-                  ]
-            },
-            {
-                  "name": "Communauté Israélite Libérale de Genève-GIL",
-                  "text": "Centrul religios al comunității evreiești liberale din Geneva.",
-                  "category": "religious",
-                  "coords": [
-                        6.170838,
-                        46.200674
                   ]
             },
             {
@@ -5953,24 +3973,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Le Léman",
-                  "text": "Lacul Geneva din Geneva este un element central al orașului, oferind numeroase activități de agrement pe apă.",
-                  "category": "natural",
-                  "coords": [
-                        6.539468,
-                        46.361359
-                  ]
-            },
-            {
-                  "name": "Parc de la Tortue",
-                  "text": "Parcul de la Tortue din Geneva oferă o zonă de joacă primitoare pentru copii în centrul orașului.",
-                  "category": "family",
-                  "coords": [
-                        6.13929,
-                        46.189858
-                  ]
-            },
-            {
                   "name": "Lézard des Grottes",
                   "text": "Lézard des Grottes din Geneva oferă posibilități de joacă inventive pentru copii într-un parc urban.",
                   "category": "family",
@@ -5995,33 +3997,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.161956,
                         46.203183
-                  ]
-            },
-            {
-                  "name": "Parc de l'abeille",
-                  "text": "Parcul de l'abeille din Geneva oferă copiilor un spațiu natural pentru joacă și explorare.",
-                  "category": "family",
-                  "coords": [
-                        6.120897,
-                        46.19239
-                  ]
-            },
-            {
-                  "name": "Petit Train",
-                  "text": "Petit Train din Geneva este o zonă de joacă specială care stimulează imaginația copiilor.",
-                  "category": "family",
-                  "coords": [
-                        6.11781,
-                        46.190206
-                  ]
-            },
-            {
-                  "name": "Préau couvert",
-                  "text": "Préau couvert din Geneva oferă o zonă protejată pentru joacă și mișcare în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        6.11946,
-                        46.188647
                   ]
             },
             {
@@ -6052,15 +4027,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Piscine du Grand-Saconnex",
-                  "text": "O piscină în Geneva pentru activități sportive și distracție în apă.",
-                  "category": "family",
-                  "coords": [
-                        6.127523,
-                        46.233798
-                  ]
-            },
-            {
                   "name": "Plage du Rhône",
                   "text": "Un loc public de scăldat pe malul Ronului în Geneva pentru răcorire.",
                   "category": "family",
@@ -6088,39 +4054,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ponton de baignade",
-                  "text": "Un ponton public de scăldat în Geneva pentru înot în lac.",
-                  "category": "family",
-                  "coords": [
-                        6.177703,
-                        46.218705
-                  ]
-            },
-            {
-                  "name": "Plage du Reposoir",
-                  "text": "O plajă publică în Geneva pentru ore de relaxare pe malul lacului Leman.",
-                  "category": "family",
-                  "coords": [
-                        6.150152,
-                        46.230494
-                  ]
-            },
-            {
                   "name": "Plage du Quai-Wilson",
                   "text": "Un loc public de scăldat în Geneva für o răcorire în timpul verii.",
                   "category": "family",
                   "coords": [
                         6.152267,
                         46.214763
-                  ]
-            },
-            {
-                  "name": "Pontons de Cologny",
-                  "text": "Pontoane publice de scăldat în Geneva pentru accesul la lacul Leman.",
-                  "category": "family",
-                  "coords": [
-                        6.181107,
-                        46.222968
                   ]
             },
             {
@@ -6139,24 +4078,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.138702,
                         46.213882
-                  ]
-            },
-            {
-                  "name": "Fontaines de Carouge (pataugeoire)",
-                  "text": "O piscină publică în Geneva pentru bălăceala copiilor.",
-                  "category": "family",
-                  "coords": [
-                        6.137176,
-                        46.18401
-                  ]
-            },
-            {
-                  "name": "Pataugeoire MSC Country Club",
-                  "text": "O piscină pentru copii în Geneva pentru distracția în apă a celor mai tineri vizitatori.",
-                  "category": "family",
-                  "coords": [
-                        6.181282,
-                        46.194674
                   ]
             },
             {
@@ -6186,24 +4107,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.13688,
                         46.197871
-                  ]
-            },
-            {
-                  "name": "Musée Ariana",
-                  "text": "The Swiss Museum of Ceramics and Glass, located in a neoclassical palace in Geneva.",
-                  "category": "museum",
-                  "coords": [
-                        6.138855,
-                        46.225405
-                  ]
-            },
-            {
-                  "name": "ICRC",
-                  "text": "The International Red Cross and Red Crescent Museum in Geneva.",
-                  "category": "museum",
-                  "coords": [
-                        6.136901,
-                        46.22741
                   ]
             },
             {
@@ -6261,24 +4164,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Sainte-Croix",
-                  "text": "A prominent church in Carouge known for its architecture.",
-                  "category": "religious",
-                  "coords": [
-                        6.139825,
-                        46.18402
-                  ]
-            },
-            {
-                  "name": "Église Saint-Paul",
-                  "text": "A parish church in Cologny serving as a place of worship.",
-                  "category": "religious",
-                  "coords": [
-                        6.1756,
-                        46.202464
-                  ]
-            },
-            {
                   "name": "Jet d'eau",
                   "text": "A large fountain on Lake Geneva and the city's most famous landmark.",
                   "category": "landmark",
@@ -6294,33 +4179,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.146384,
                         46.200547
-                  ]
-            },
-            {
-                  "name": "Tour de Champel",
-                  "text": "A neogothic tower in the Champel district offering wide views.",
-                  "category": "tower",
-                  "coords": [
-                        6.152119,
-                        46.187444
-                  ]
-            },
-            {
-                  "name": "Pont de Vessy",
-                  "text": "A bridge in Geneva that crosses the Arve river.",
-                  "category": "landmark",
-                  "coords": [
-                        6.159912,
-                        46.18105
-                  ]
-            },
-            {
-                  "name": "Pont du Val-d'Arve",
-                  "text": "An important bridge connecting the banks of the Arve in Geneva.",
-                  "category": "landmark",
-                  "coords": [
-                        6.153976,
-                        46.183344
                   ]
             },
             {
@@ -6375,15 +4233,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.167038,
                         46.206275
-                  ]
-            },
-            {
-                  "name": "Parc Chuit",
-                  "text": "A well-maintained green space in Geneva, inviting for walks.",
-                  "category": "park",
-                  "coords": [
-                        6.123616,
-                        46.191623
                   ]
             },
             {
@@ -6477,15 +4326,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Théâtre de Carouge",
-                  "text": "A renowned theatre in Carouge known for its contemporary productions.",
-                  "category": "cultural",
-                  "coords": [
-                        6.142084,
-                        46.181177
-                  ]
-            },
-            {
                   "name": "Casino Théâtre",
                   "text": "A charming theatre located in the heart of Geneva's old town.",
                   "category": "cultural",
@@ -6513,42 +4353,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Mosquée du Petit-Saconnex",
-                  "text": "The largest mosque in Geneva and an important religious center for the Muslim community.",
-                  "category": "religious",
-                  "coords": [
-                        6.121945,
-                        46.223622
-                  ]
-            },
-            {
-                  "name": "Temple du Petit-Saconnex",
-                  "text": "A historic Protestant temple in the Petit-Saconnex district.",
-                  "category": "religious",
-                  "coords": [
-                        6.127956,
-                        46.222972
-                  ]
-            },
-            {
-                  "name": "Christ-Roi",
-                  "text": "A Catholic church in Geneva dedicated to Christ the King.",
-                  "category": "religious",
-                  "coords": [
-                        6.117234,
-                        46.189058
-                  ]
-            },
-            {
-                  "name": "Notre-Dame des Grâces",
-                  "text": "A Catholic church serving as a place of worship and reflection.",
-                  "category": "religious",
-                  "coords": [
-                        6.12109,
-                        46.182374
-                  ]
-            },
-            {
                   "name": "Église Sainte-Trinité",
                   "text": "A church in Geneva dedicated to the Holy Trinity.",
                   "category": "religious",
@@ -6564,15 +4368,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.149136,
                         46.195905
-                  ]
-            },
-            {
-                  "name": "Communauté Israélite Libérale de Genève-GIL",
-                  "text": "The religious center of the liberal Jewish community in Geneva.",
-                  "category": "religious",
-                  "coords": [
-                        6.170838,
-                        46.200674
                   ]
             },
             {
@@ -6648,24 +4443,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Lake Geneva",
-                  "text": "Lake Geneva in Geneva is a central feature of the city, offering numerous lakeside recreational activities.",
-                  "category": "natural",
-                  "coords": [
-                        6.539468,
-                        46.361359
-                  ]
-            },
-            {
-                  "name": "Parc de la Tortue",
-                  "text": "Parc de la Tortue in Geneva offers a friendly play area for children in the heart of the city.",
-                  "category": "family",
-                  "coords": [
-                        6.13929,
-                        46.189858
-                  ]
-            },
-            {
                   "name": "Lézard des Grottes",
                   "text": "Lézard des Grottes in Geneva offers imaginative play opportunities for children in an urban park.",
                   "category": "family",
@@ -6690,33 +4467,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.161956,
                         46.203183
-                  ]
-            },
-            {
-                  "name": "Parc de l'abeille",
-                  "text": "Parc de l'abeille in Geneva offers children a nature-oriented space for play and discovery.",
-                  "category": "family",
-                  "coords": [
-                        6.120897,
-                        46.19239
-                  ]
-            },
-            {
-                  "name": "Petit Train",
-                  "text": "Petit Train in Geneva is a special play area that sparks children's imagination.",
-                  "category": "family",
-                  "coords": [
-                        6.11781,
-                        46.190206
-                  ]
-            },
-            {
-                  "name": "Préau couvert",
-                  "text": "Préau couvert in Geneva offers a sheltered area for outdoor play and exercise.",
-                  "category": "family",
-                  "coords": [
-                        6.11946,
-                        46.188647
                   ]
             },
             {
@@ -6747,15 +4497,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Piscine du Grand-Saconnex",
-                  "text": "A swimming pool in Geneva for sports activities and water fun.",
-                  "category": "family",
-                  "coords": [
-                        6.127523,
-                        46.233798
-                  ]
-            },
-            {
                   "name": "Plage du Rhône",
                   "text": "A public bathing spot on the Rhone in Geneva for cooling off.",
                   "category": "family",
@@ -6783,39 +4524,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Ponton de baignade",
-                  "text": "A public bathing pontoon in Geneva for swimming fun in the lake.",
-                  "category": "family",
-                  "coords": [
-                        6.177703,
-                        46.218705
-                  ]
-            },
-            {
-                  "name": "Plage du Reposoir",
-                  "text": "A public bathing beach in Geneva for relaxing hours by Lake Geneva.",
-                  "category": "family",
-                  "coords": [
-                        6.150152,
-                        46.230494
-                  ]
-            },
-            {
                   "name": "Plage du Quai-Wilson",
                   "text": "A public bathing spot in Geneva for a summer refreshment.",
                   "category": "family",
                   "coords": [
                         6.152267,
                         46.214763
-                  ]
-            },
-            {
-                  "name": "Pontons de Cologny",
-                  "text": "Public bathing pontoons in Geneva for access to Lake Geneva.",
-                  "category": "family",
-                  "coords": [
-                        6.181107,
-                        46.222968
                   ]
             },
             {
@@ -6834,24 +4548,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.138702,
                         46.213882
-                  ]
-            },
-            {
-                  "name": "Fontaines de Carouge (pataugeoire)",
-                  "text": "A public swimming pool in Geneva for children to splash around.",
-                  "category": "family",
-                  "coords": [
-                        6.137176,
-                        46.18401
-                  ]
-            },
-            {
-                  "name": "Pataugeoire MSC Country Club",
-                  "text": "A paddling pool in Geneva for the youngest visitors to enjoy water fun.",
-                  "category": "family",
-                  "coords": [
-                        6.181282,
-                        46.194674
                   ]
             },
             {
@@ -7005,15 +4701,6 @@ export const switzerlandRegions: POI[] = [
     id: "city-basel", "sights": {
       "de": [
             {
-                  "name": "Hafenmuseum Basel",
-                  "text": "Das Museum dokumentiert die Bedeutung der Binnenschifffahrt für die Schweiz.",
-                  "category": "museum",
-                  "coords": [
-                        7.589432,
-                        47.582638
-                  ]
-            },
-            {
                   "name": "Museum der Kulturen",
                   "text": "Eines der bedeutendsten ethnologischen Museen in Europa.",
                   "category": "museum",
@@ -7083,15 +4770,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         7.595105,
                         47.554475
-                  ]
-            },
-            {
-                  "name": "Schloss Binningen",
-                  "text": "Ein historisches Schloss in Binningen, das heute als Restaurant genutzt wird.",
-                  "category": "castle",
-                  "coords": [
-                        7.574616,
-                        47.536831
                   ]
             },
             {
@@ -7203,33 +4881,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Allerheiligenkirche",
-                  "text": "Eine moderne katholische Kirche aus der Mitte des 20. Jahrhunderts.",
-                  "category": "religious",
-                  "coords": [
-                        7.568396,
-                        47.547873
-                  ]
-            },
-            {
-                  "name": "St. Margarethen-Kirche",
-                  "text": "Eine malerische Kirche auf dem Margarethenhügel in Binningen.",
-                  "category": "religious",
-                  "coords": [
-                        7.579577,
-                        47.54312
-                  ]
-            },
-            {
-                  "name": "Schwarzwaldbrücke",
-                  "text": "Eine kombinierte Eisenbahn- und Straßenbrücke über den Rhein.",
-                  "category": "landmark",
-                  "coords": [
-                        7.613961,
-                        47.55795
-                  ]
-            },
-            {
                   "name": "Viaduktstrasse",
                   "text": "Ein Eisenbahnviadukt, das den Birsig im Stadtgebiet überquert.",
                   "category": "landmark",
@@ -7275,24 +4926,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Pruntrutermatte",
-                  "text": "Ein öffentlicher Park und Sportplatz im Südwesten der Stadt.",
-                  "category": "park",
-                  "coords": [
-                        7.580204,
-                        47.544637
-                  ]
-            },
-            {
-                  "name": "Zoologischer Garten Basel",
-                  "text": "Der älteste und größte Zoo der Schweiz, lokal als 'Zolli' bekannt.",
-                  "category": "family",
-                  "coords": [
-                        7.579184,
-                        47.546856
-                  ]
-            },
-            {
                   "name": "Cartoonmuseum Basel",
                   "text": "Museum für satirische Kunst, Karikaturen und Comics.",
                   "category": "museum",
@@ -7326,33 +4959,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         7.593141,
                         47.554356
-                  ]
-            },
-            {
-                  "name": "Birsfelder Museum",
-                  "text": "Ein lokales Museum, das die Geschichte von Birsfelden dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        7.624693,
-                        47.55514
-                  ]
-            },
-            {
-                  "name": "Ortsmuseum Binningen",
-                  "text": "Das Museum zeigt die Geschichte und ländliche Kultur von Binningen.",
-                  "category": "museum",
-                  "coords": [
-                        7.572686,
-                        47.543348
-                  ]
-            },
-            {
-                  "name": "Museum Tinguely",
-                  "text": "Ein Museum gewidmet dem Leben und Werk des Künstlers Jean Tinguely.",
-                  "category": "museum",
-                  "coords": [
-                        7.612336,
-                        47.559172
                   ]
             },
             {
@@ -7410,66 +5016,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Bruder-Klaus-Kirche",
-                  "text": "Eine nach dem Heiligen Bruder Klaus benannte Kirche in Basel.",
-                  "category": "religious",
-                  "coords": [
-                        7.625983,
-                        47.551661
-                  ]
-            },
-            {
-                  "name": "Reservoir Spitalholz",
-                  "text": "Ein ruhiges Gewässer in Basel, das eine entspannte Atmosphäre in der Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        7.62421,
-                        47.503256
-                  ]
-            },
-            {
-                  "name": "Quellsee",
-                  "text": "Ein klarer See in Basel, ideal für einen erholsamen Aufenthalt am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        7.618165,
-                        47.530761
-                  ]
-            },
-            {
                   "name": "Sandbox",
                   "text": "Ein Sandspielplatz in Basel, der kleinen Kindern viel Freude beim Buddeln und Bauen bereitet.",
                   "category": "family",
                   "coords": [
                         7.569192,
                         47.565425
-                  ]
-            },
-            {
-                  "name": "Dürrenmatten",
-                  "text": "Ein attraktiver Spielplatz in Basel, der Familien einen abwechslungsreichen Aufenthalt bietet.",
-                  "category": "family",
-                  "coords": [
-                        7.550053,
-                        47.554329
-                  ]
-            },
-            {
-                  "name": "Pumpwerkspielplatz",
-                  "text": "Ein origineller Spielplatz in Basel, der Kindern spannende Möglichkeiten zum Entdecken bietet.",
-                  "category": "family",
-                  "coords": [
-                        7.614915,
-                        47.574047
-                  ]
-            },
-            {
-                  "name": "Pfirteranlage",
-                  "text": "Eine kinderfreundliche Anlage in Basel, die zu aktiver Freizeitgestaltung im Freien einlädt.",
-                  "category": "family",
-                  "coords": [
-                        7.578254,
-                        47.549168
                   ]
             },
             {
@@ -7482,24 +5034,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Robi Allmend",
-                  "text": "Ein Abenteuerspielplatz in Basel, der Kindern viel Raum für eigene Ideen und Projekte lässt.",
-                  "category": "family",
-                  "coords": [
-                        7.624027,
-                        47.563915
-                  ]
-            },
-            {
-                  "name": "Robi Birsfelden",
-                  "text": "Ein vielseitiger Treffpunkt für Kinder in Basel, der zum gemeinsamen Spielen anregt.",
-                  "category": "family",
-                  "coords": [
-                        7.625709,
-                        47.557732
-                  ]
-            },
-            {
                   "name": "Spielplatz im Erlenmattpark",
                   "text": "Ein moderner Spielplatz im Basler Erlenmattpark, der ideal in die Grünanlage integriert ist.",
                   "category": "family",
@@ -7509,84 +5043,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Sigi von Koeding-Anlage",
-                  "text": "Ein schön gestalteter Spielbereich in Basel, der Familien zur Erholung einlädt.",
-                  "category": "family",
-                  "coords": [
-                        7.598064,
-                        47.543762
-                  ]
-            },
-            {
-                  "name": "Robi-Spielplatz Binningen",
-                  "text": "Ein abenteuerlicher Spielplatz in Basel, der Kindern spannende Erlebnisse in der Natur bietet.",
-                  "category": "family",
-                  "coords": [
-                        7.576328,
-                        47.541517
-                  ]
-            },
-            {
-                  "name": "Schwarzwaldalleespielplatz",
-                  "text": "Ein gut erreichbarer Spielplatz in Basel, der eine willkommene Abwechslung im Stadtalltag ist.",
-                  "category": "family",
-                  "coords": [
-                        7.610644,
-                        47.561748
-                  ]
-            },
-            {
                   "name": "Die Spielaue",
                   "text": "Ein fantasievoller Spielbereich in Basel, der die Spielfreude von Kindern weckt.",
                   "category": "family",
                   "coords": [
                         7.604417,
                         47.574347
-                  ]
-            },
-            {
-                  "name": "Spielplatz 1 Duradero",
-                  "text": "Ein ansprechender Spielplatz in Basel mit verschiedenen Möglichkeiten zum Klettern und Toben.",
-                  "category": "family",
-                  "coords": [
-                        7.553131,
-                        47.557729
-                  ]
-            },
-            {
-                  "name": "Spielplatz 2 Duradero",
-                  "text": "Ein weiterer Spielbereich in Basel, der für Spaß und Bewegung im Freien sorgt.",
-                  "category": "family",
-                  "coords": [
-                        7.551469,
-                        47.557375
-                  ]
-            },
-            {
-                  "name": "Madeleine-Born-Platz",
-                  "text": "Ein zentraler Platz in Basel, der auch für Kinder attraktive Spielmöglichkeiten bietet.",
-                  "category": "family",
-                  "coords": [
-                        7.564816,
-                        47.553227
-                  ]
-            },
-            {
-                  "name": "Le Parc des Carrières",
-                  "text": "Eine moderne Anlage in Basel, die Familien Raum für Freizeit und Spiel bietet.",
-                  "category": "family",
-                  "coords": [
-                        7.549868,
-                        47.566577
-                  ]
-            },
-            {
-                  "name": "Lindenplatz",
-                  "text": "Ein kinderfreundlicher Treffpunkt in Basel, der zum Verweilen im Freien einlädt.",
-                  "category": "family",
-                  "coords": [
-                        7.560262,
-                        47.558081
                   ]
             },
             {
@@ -7617,30 +5079,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Laguna Badeland",
-                  "text": "Wasserpark mit Rutschen und Becken für die Familie in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.615906,
-                        47.585943
-                  ]
-            },
-            {
                   "name": "Einstiegstelle Basler Rheinschwimmen",
                   "text": "Einstiegsstelle für das Schwimmen im Rhein in Basel.",
                   "category": "family",
                   "coords": [
                         7.604461,
                         47.556971
-                  ]
-            },
-            {
-                  "name": "Gartenbad Eglisee",
-                  "text": "Großer Wasserpark und Gartenbad im Freien in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.614109,
-                        47.571036
                   ]
             },
             {
@@ -7653,39 +5097,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Frauenbad",
-                  "text": "Schwimmbad für Frauen in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.61542,
-                        47.57085
-                  ]
-            },
-            {
                   "name": "Sprungbecken",
                   "text": "Spezielles Becken zum Tauchen und Springen in Basel.",
                   "category": "family",
                   "coords": [
                         7.612794,
                         47.570506
-                  ]
-            },
-            {
-                  "name": "Bassin 2",
-                  "text": "Standard-Schwimmbecken für sportliche Betätigung in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.557406,
-                        47.576588
-                  ]
-            },
-            {
-                  "name": "Laguna",
-                  "text": "Wasserpark für den Familienspaß in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.614837,
-                        47.585687
                   ]
             },
             {
@@ -7698,48 +5115,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Hallenbad Sesselacker",
-                  "text": "Hallenbad für das ganze Jahr in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.597757,
-                        47.535532
-                  ]
-            },
-            {
-                  "name": "Parc des Eaux Vives",
-                  "text": "Wasserpark für Aktivitäten im Freien in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.581687,
-                        47.590358
-                  ]
-            },
-            {
-                  "name": "Kinderbecken",
-                  "text": "Flaches Becken für Kinder in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.580915,
-                        47.54096
-                  ]
-            },
-            {
                   "name": "Voliere",
                   "text": "Voliere mit verschiedenen Vögeln in Basel.",
                   "category": "family",
                   "coords": [
                         7.559283,
                         47.572045
-                  ]
-            },
-            {
-                  "name": "Brunnen im Bruderholzschulhaus",
-                  "text": "Einfaches Schwimmbecken beim Schulhaus in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.595512,
-                        47.530953
                   ]
             },
             {
@@ -7753,15 +5134,6 @@ export const switzerlandRegions: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Hafenmuseum Basel",
-                  "text": "A múzeum a belvízi hajózás jelentőségét mutatja be Svájc számára.",
-                  "category": "museum",
-                  "coords": [
-                        7.589432,
-                        47.582638
-                  ]
-            },
             {
                   "name": "Museum der Kulturen",
                   "text": "Európa egyik legjelentősebb néprajzi múzeuma.",
@@ -7832,15 +5204,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         7.595105,
                         47.554475
-                  ]
-            },
-            {
-                  "name": "Schloss Binningen",
-                  "text": "Történelmi kastély Binningenben, amely ma étteremként működik.",
-                  "category": "castle",
-                  "coords": [
-                        7.574616,
-                        47.536831
                   ]
             },
             {
@@ -7952,33 +5315,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Allerheiligenkirche",
-                  "text": "Modern katolikus templom a 20. század közepéről.",
-                  "category": "religious",
-                  "coords": [
-                        7.568396,
-                        47.547873
-                  ]
-            },
-            {
-                  "name": "St. Margarethen-Kirche",
-                  "text": "Gleccserkori dombon álló festői templom a binningeni Margarethen-hegyen.",
-                  "category": "religious",
-                  "coords": [
-                        7.579577,
-                        47.54312
-                  ]
-            },
-            {
-                  "name": "Schwarzwaldbrücke",
-                  "text": "Kombinált vasúti és közúti híd a Rajna felett.",
-                  "category": "landmark",
-                  "coords": [
-                        7.613961,
-                        47.55795
-                  ]
-            },
-            {
                   "name": "Viaduktstrasse",
                   "text": "Vasúti viadukt, amely a város területén keresztezi a Birsig folyót.",
                   "category": "landmark",
@@ -8024,24 +5360,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Pruntrutermatte",
-                  "text": "Nyilvános park és sportpálya a város délnyugati részén.",
-                  "category": "park",
-                  "coords": [
-                        7.580204,
-                        47.544637
-                  ]
-            },
-            {
-                  "name": "Zoologischer Garten Basel",
-                  "text": "Svájc legrégebbi és legnagyobb állatkertje, helyi nevén a 'Zolli'.",
-                  "category": "family",
-                  "coords": [
-                        7.579184,
-                        47.546856
-                  ]
-            },
-            {
                   "name": "Cartoonmuseum Basel",
                   "text": "Szatirikus művészeti, karikatúra- és képregénymúzeum.",
                   "category": "museum",
@@ -8075,33 +5393,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         7.593141,
                         47.554356
-                  ]
-            },
-            {
-                  "name": "Birsfelder Museum",
-                  "text": "Helytörténeti múzeum, amely Birsfelden múltját dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        7.624693,
-                        47.55514
-                  ]
-            },
-            {
-                  "name": "Ortsmuseum Binningen",
-                  "text": "A múzeum Binningen történetét és vidéki kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        7.572686,
-                        47.543348
-                  ]
-            },
-            {
-                  "name": "Museum Tinguely",
-                  "text": "Jean Tinguely képzőművész életének és munkásságának szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        7.612336,
-                        47.559172
                   ]
             },
             {
@@ -8159,66 +5450,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Bruder-Klaus-Kirche",
-                  "text": "Flüei Szent Miklósról elnevezett templom Bázelben.",
-                  "category": "religious",
-                  "coords": [
-                        7.625983,
-                        47.551661
-                  ]
-            },
-            {
-                  "name": "Reservoir Spitalholz",
-                  "text": "Csendes vízfelület Bázelben, amely nyugodt környezetet biztosít a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        7.62421,
-                        47.503256
-                  ]
-            },
-            {
-                  "name": "Quellsee",
-                  "text": "Tiszta tó Bázelben, amely ideális egy pihentető vízparti időtöltéshez.",
-                  "category": "natural",
-                  "coords": [
-                        7.618165,
-                        47.530761
-                  ]
-            },
-            {
                   "name": "Sandbox",
                   "text": "Homokozós játszótér Bázelben, amely nagy örömet okoz a kisgyerekeknek az ásásban és építésben.",
                   "category": "family",
                   "coords": [
                         7.569192,
                         47.565425
-                  ]
-            },
-            {
-                  "name": "Dürrenmatten",
-                  "text": "Vonzó játszótér Bázelben, amely változatos időtöltést kínál a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        7.550053,
-                        47.554329
-                  ]
-            },
-            {
-                  "name": "Pumpwerkspielplatz",
-                  "text": "Eredeti játszótér Bázelben, amely izgalmas felfedezési lehetőségeket kínál a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        7.614915,
-                        47.574047
-                  ]
-            },
-            {
-                  "name": "Pfirteranlage",
-                  "text": "Gyermekbarát létesítmény Bázelben, amely aktív szabadtéri időtöltésre hívogat.",
-                  "category": "family",
-                  "coords": [
-                        7.578254,
-                        47.549168
                   ]
             },
             {
@@ -8231,24 +5468,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Robi Allmend",
-                  "text": "Kalandjátszótér Bázelben, amely sok teret enged a gyerekek saját ötleteinek és projektjeinek.",
-                  "category": "family",
-                  "coords": [
-                        7.624027,
-                        47.563915
-                  ]
-            },
-            {
-                  "name": "Robi Birsfelden",
-                  "text": "Sokoldalú találkozóhely gyerekeknek Bázelben, amely közös játékra ösztönöz.",
-                  "category": "family",
-                  "coords": [
-                        7.625709,
-                        47.557732
-                  ]
-            },
-            {
                   "name": "Spielplatz im Erlenmattpark",
                   "text": "Modern játszótér a bázeli Erlenmattparkban, amely ideálisan illeszkedik a zöldövezetbe.",
                   "category": "family",
@@ -8258,84 +5477,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Sigi von Koeding-Anlage",
-                  "text": "Szépen kialakított játszóterület Bázelben, amely kikapcsolódásra hívja a családokat.",
-                  "category": "family",
-                  "coords": [
-                        7.598064,
-                        47.543762
-                  ]
-            },
-            {
-                  "name": "Robi-Spielplatz Binningen",
-                  "text": "Kalandos játszótér Bázelben, amely izgalmas élményeket kínál a gyerekeknek a természetben.",
-                  "category": "family",
-                  "coords": [
-                        7.576328,
-                        47.541517
-                  ]
-            },
-            {
-                  "name": "Schwarzwaldalleespielplatz",
-                  "text": "Könnyen megközelíthető játszótér Bázelben, amely kellemes színfolt a városi mindennapokban.",
-                  "category": "family",
-                  "coords": [
-                        7.610644,
-                        47.561748
-                  ]
-            },
-            {
                   "name": "Die Spielaue",
                   "text": "Fantáziadús játszóterület Bázelben, amely felébreszti a gyermekek játékkedvét.",
                   "category": "family",
                   "coords": [
                         7.604417,
                         47.574347
-                  ]
-            },
-            {
-                  "name": "Spielplatz 1 Duradero",
-                  "text": "Vonzó játszótér Bázelben, különféle mászási és hancúrozási lehetőségekkel.",
-                  "category": "family",
-                  "coords": [
-                        7.553131,
-                        47.557729
-                  ]
-            },
-            {
-                  "name": "Spielplatz 2 Duradero",
-                  "text": "Egy újabb játszóterület Bázelben, amely gondoskodik a szabadtéri szórakozásról és mozgásról.",
-                  "category": "family",
-                  "coords": [
-                        7.551469,
-                        47.557375
-                  ]
-            },
-            {
-                  "name": "Madeleine-Born-Platz",
-                  "text": "Központi tér Bázelben, amely a gyermekek számára is vonzó játéklehetőségeket kínál.",
-                  "category": "family",
-                  "coords": [
-                        7.564816,
-                        47.553227
-                  ]
-            },
-            {
-                  "name": "Le Parc des Carrières",
-                  "text": "Modern létesítmény Bázelben, amely teret biztosít a családoknak a szabadidőhöz és játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        7.549868,
-                        47.566577
-                  ]
-            },
-            {
-                  "name": "Lindenplatz",
-                  "text": "Gyermekbarát találkozóhely Bázelben, amely szabadtéri időtöltésre hívogat.",
-                  "category": "family",
-                  "coords": [
-                        7.560262,
-                        47.558081
                   ]
             },
             {
@@ -8366,30 +5513,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Laguna Badeland",
-                  "text": "Vízipark csúszdákkal és medencékkel a családnak Bázelben.",
-                  "category": "family",
-                  "coords": [
-                        7.615906,
-                        47.585943
-                  ]
-            },
-            {
                   "name": "Einstiegstelle Basler Rheinschwimmen",
                   "text": "Beszállóhely a rajnai úszáshoz Bázelben.",
                   "category": "family",
                   "coords": [
                         7.604461,
                         47.556971
-                  ]
-            },
-            {
-                  "name": "Gartenbad Eglisee",
-                  "text": "Nagy szabadtéri vízipark és kerti fürdő Bázelben.",
-                  "category": "family",
-                  "coords": [
-                        7.614109,
-                        47.571036
                   ]
             },
             {
@@ -8402,39 +5531,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Frauenbad",
-                  "text": "Úszómedence nők számára Bázelben.",
-                  "category": "family",
-                  "coords": [
-                        7.61542,
-                        47.57085
-                  ]
-            },
-            {
                   "name": "Sprungbecken",
                   "text": "Speciális medence búvárkodáshoz és ugráláshoz Bázelben.",
                   "category": "family",
                   "coords": [
                         7.612794,
                         47.570506
-                  ]
-            },
-            {
-                  "name": "Bassin 2",
-                  "text": "Hagyományos úszómedence sportoláshoz Bázelben.",
-                  "category": "family",
-                  "coords": [
-                        7.557406,
-                        47.576588
-                  ]
-            },
-            {
-                  "name": "Laguna",
-                  "text": "Vízipark a családi szórakozáshoz Bázelben.",
-                  "category": "family",
-                  "coords": [
-                        7.614837,
-                        47.585687
                   ]
             },
             {
@@ -8447,48 +5549,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Hallenbad Sesselacker",
-                  "text": "Fedett uszoda egész éves használatra Bázelben.",
-                  "category": "family",
-                  "coords": [
-                        7.597757,
-                        47.535532
-                  ]
-            },
-            {
-                  "name": "Parc des Eaux Vives",
-                  "text": "Vízipark szabadtéri tevékenységekhez Bázelben.",
-                  "category": "family",
-                  "coords": [
-                        7.581687,
-                        47.590358
-                  ]
-            },
-            {
-                  "name": "Kinderbecken",
-                  "text": "Sekély medence gyermekeknek Bázelben.",
-                  "category": "family",
-                  "coords": [
-                        7.580915,
-                        47.54096
-                  ]
-            },
-            {
                   "name": "Voliere",
                   "text": "Röpde különböző madarakkal Bázelben.",
                   "category": "family",
                   "coords": [
                         7.559283,
                         47.572045
-                  ]
-            },
-            {
-                  "name": "Brunnen im Bruderholzschulhaus",
-                  "text": "Egyszerű úszómedence az iskolaépületnél Bázelben.",
-                  "category": "family",
-                  "coords": [
-                        7.595512,
-                        47.530953
                   ]
             },
             {
@@ -8502,15 +5568,6 @@ export const switzerlandRegions: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Hafenmuseum Basel",
-                  "text": "Muzeul documentează importanța navigației pe căile navigabile interioare pentru Elveția.",
-                  "category": "museum",
-                  "coords": [
-                        7.589432,
-                        47.582638
-                  ]
-            },
             {
                   "name": "Museum der Kulturen",
                   "text": "Unul dintre cele mai importante muzee etnologice din Europa.",
@@ -8581,15 +5638,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         7.595105,
                         47.554475
-                  ]
-            },
-            {
-                  "name": "Schloss Binningen",
-                  "text": "Un castel istoric din Binningen, care astăzi servește drept restaurant.",
-                  "category": "castle",
-                  "coords": [
-                        7.574616,
-                        47.536831
                   ]
             },
             {
@@ -8701,33 +5749,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Allerheiligenkirche",
-                  "text": "O biserică catolică modernă de la mijlocul secolului al XX-lea.",
-                  "category": "religious",
-                  "coords": [
-                        7.568396,
-                        47.547873
-                  ]
-            },
-            {
-                  "name": "St. Margarethen-Kirche",
-                  "text": "O biserică pitorească pe dealul Margarethen din Binningen.",
-                  "category": "religious",
-                  "coords": [
-                        7.579577,
-                        47.54312
-                  ]
-            },
-            {
-                  "name": "Schwarzwaldbrücke",
-                  "text": "Un pod combinat de cale ferată și șosea peste Rin.",
-                  "category": "landmark",
-                  "coords": [
-                        7.613961,
-                        47.55795
-                  ]
-            },
-            {
                   "name": "Viaduktstrasse",
                   "text": "Un viaduct feroviar care traversează râul Birsig în zona urbană.",
                   "category": "landmark",
@@ -8773,24 +5794,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Pruntrutermatte",
-                  "text": "Un parc public și teren de sport în sud-vestul orașului.",
-                  "category": "park",
-                  "coords": [
-                        7.580204,
-                        47.544637
-                  ]
-            },
-            {
-                  "name": "Zoologischer Garten Basel",
-                  "text": "Cea mai veche și mai mare grădină zoologică din Elveția, cunoscută local sub numele de „Zolli”.",
-                  "category": "family",
-                  "coords": [
-                        7.579184,
-                        47.546856
-                  ]
-            },
-            {
                   "name": "Cartoonmuseum Basel",
                   "text": "Muzeu pentru artă satirică, caricaturi și benzi desenate.",
                   "category": "museum",
@@ -8824,33 +5827,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         7.593141,
                         47.554356
-                  ]
-            },
-            {
-                  "name": "Birsfelder Museum",
-                  "text": "Un muzeu local care documentează istoria localității Birsfelden.",
-                  "category": "museum",
-                  "coords": [
-                        7.624693,
-                        47.55514
-                  ]
-            },
-            {
-                  "name": "Ortsmuseum Binningen",
-                  "text": "Muzeul prezintă istoria și cultura rurală din Binningen.",
-                  "category": "museum",
-                  "coords": [
-                        7.572686,
-                        47.543348
-                  ]
-            },
-            {
-                  "name": "Museum Tinguely",
-                  "text": "Un muzeu dedicat vieții și operei artistului Jean Tinguely.",
-                  "category": "museum",
-                  "coords": [
-                        7.612336,
-                        47.559172
                   ]
             },
             {
@@ -8908,66 +5884,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Bruder-Klaus-Kirche",
-                  "text": "O biserică numită după Sfântul Bruder Klaus în Basel.",
-                  "category": "religious",
-                  "coords": [
-                        7.625983,
-                        47.551661
-                  ]
-            },
-            {
-                  "name": "Reservoir Spitalholz",
-                  "text": "O zonă cu apă liniștită în Basel, care oferă o atmosferă relaxantă în natură.",
-                  "category": "natural",
-                  "coords": [
-                        7.62421,
-                        47.503256
-                  ]
-            },
-            {
-                  "name": "Quellsee",
-                  "text": "Un lac cu apă limpede în Basel, ideal pentru un sejur relaxant pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        7.618165,
-                        47.530761
-                  ]
-            },
-            {
                   "name": "Sandbox",
                   "text": "Un teren de joacă cu nisip în Basel, care le oferă copiilor mici multă bucurie la săpat și construit.",
                   "category": "family",
                   "coords": [
                         7.569192,
                         47.565425
-                  ]
-            },
-            {
-                  "name": "Dürrenmatten",
-                  "text": "Un teren de joacă atractiv în Basel, care oferă familiilor un sejur variat.",
-                  "category": "family",
-                  "coords": [
-                        7.550053,
-                        47.554329
-                  ]
-            },
-            {
-                  "name": "Pumpwerkspielplatz",
-                  "text": "Un teren de joacă original în Basel, care le oferă copiilor oportunități captivante de explorare.",
-                  "category": "family",
-                  "coords": [
-                        7.614915,
-                        47.574047
-                  ]
-            },
-            {
-                  "name": "Pfirteranlage",
-                  "text": "O amenajare prietenoasă pentru copii în Basel, care invită la activități recreative în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        7.578254,
-                        47.549168
                   ]
             },
             {
@@ -8980,24 +5902,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Robi Allmend",
-                  "text": "Un teren de joacă de aventură în Basel, care le lasă copiilor mult spațiu pentru propriile idei.",
-                  "category": "family",
-                  "coords": [
-                        7.624027,
-                        47.563915
-                  ]
-            },
-            {
-                  "name": "Robi Birsfelden",
-                  "text": "Un loc de întâlnire versatil pentru copii în Basel, care încurajează joaca împreună.",
-                  "category": "family",
-                  "coords": [
-                        7.625709,
-                        47.557732
-                  ]
-            },
-            {
                   "name": "Spielplatz im Erlenmattpark",
                   "text": "Un teren de joacă modern în Erlenmattpark din Basel, integrat ideal în zona verde.",
                   "category": "family",
@@ -9007,84 +5911,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Sigi von Koeding-Anlage",
-                  "text": "O zonă de joacă frumos amenajată în Basel, care invită familiile la relaxare.",
-                  "category": "family",
-                  "coords": [
-                        7.598064,
-                        47.543762
-                  ]
-            },
-            {
-                  "name": "Robi-Spielplatz Binningen",
-                  "text": "Un teren de joacă plin de aventură în Basel, care oferă copiilor experiențe captivante în natură.",
-                  "category": "family",
-                  "coords": [
-                        7.576328,
-                        47.541517
-                  ]
-            },
-            {
-                  "name": "Schwarzwaldalleespielplatz",
-                  "text": "Un teren de joacă ușor accesibil în Basel, care reprezintă o schimbare binevenită în cotidianul urban.",
-                  "category": "family",
-                  "coords": [
-                        7.610644,
-                        47.561748
-                  ]
-            },
-            {
                   "name": "Die Spielaue",
                   "text": "O zonă de joacă plină de fantezie în Basel, care trezește bucuria de a juca a copiilor.",
                   "category": "family",
                   "coords": [
                         7.604417,
                         47.574347
-                  ]
-            },
-            {
-                  "name": "Spielplatz 1 Duradero",
-                  "text": "Un teren de joacă atractiv în Basel, cu diverse posibilități de cățărare și zbânțuială.",
-                  "category": "family",
-                  "coords": [
-                        7.553131,
-                        47.557729
-                  ]
-            },
-            {
-                  "name": "Spielplatz 2 Duradero",
-                  "text": "O altă zonă de joacă în Basel, care asigură distracție și mișcare în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        7.551469,
-                        47.557375
-                  ]
-            },
-            {
-                  "name": "Madeleine-Born-Platz",
-                  "text": "O piață centrală în Basel, care oferă posibilități de joacă atractive și pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        7.564816,
-                        47.553227
-                  ]
-            },
-            {
-                  "name": "Le Parc des Carrières",
-                  "text": "O amenajare modernă în Basel, care oferă familiilor spațiu pentru timp liber și joacă.",
-                  "category": "family",
-                  "coords": [
-                        7.549868,
-                        47.566577
-                  ]
-            },
-            {
-                  "name": "Lindenplatz",
-                  "text": "Un loc de întâlnire prietenos pentru copii în Basel, care invită la petrecerea timpului în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        7.560262,
-                        47.558081
                   ]
             },
             {
@@ -9115,30 +5947,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Laguna Badeland",
-                  "text": "Parc acvatic cu tobogane și piscine pentru familie în Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.615906,
-                        47.585943
-                  ]
-            },
-            {
                   "name": "Einstiegstelle Basler Rheinschwimmen",
                   "text": "Punct de intrare pentru înotul în Rin în Basel.",
                   "category": "family",
                   "coords": [
                         7.604461,
                         47.556971
-                  ]
-            },
-            {
-                  "name": "Gartenbad Eglisee",
-                  "text": "Parc acvatic mare și ștrand în aer liber în Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.614109,
-                        47.571036
                   ]
             },
             {
@@ -9151,39 +5965,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Frauenbad",
-                  "text": "Piscină pentru femei în Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.61542,
-                        47.57085
-                  ]
-            },
-            {
                   "name": "Sprungbecken",
                   "text": "Piscină specială pentru scufundări și sărituri în Basel.",
                   "category": "family",
                   "coords": [
                         7.612794,
                         47.570506
-                  ]
-            },
-            {
-                  "name": "Bassin 2",
-                  "text": "Piscină standard pentru activități sportive în Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.557406,
-                        47.576588
-                  ]
-            },
-            {
-                  "name": "Laguna",
-                  "text": "Parc acvatic pentru distracția familiei în Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.614837,
-                        47.585687
                   ]
             },
             {
@@ -9196,48 +5983,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Hallenbad Sesselacker",
-                  "text": "Piscină acoperită pentru tot parcursul anului în Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.597757,
-                        47.535532
-                  ]
-            },
-            {
-                  "name": "Parc des Eaux Vives",
-                  "text": "Parc acvatic pentru activități în aer liber în Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.581687,
-                        47.590358
-                  ]
-            },
-            {
-                  "name": "Kinderbecken",
-                  "text": "Piscină cu apă puțin adâncă pentru copii în Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.580915,
-                        47.54096
-                  ]
-            },
-            {
                   "name": "Voliere",
                   "text": "Volieră cu diverse păsări în Basel.",
                   "category": "family",
                   "coords": [
                         7.559283,
                         47.572045
-                  ]
-            },
-            {
-                  "name": "Brunnen im Bruderholzschulhaus",
-                  "text": "Piscină simplă lângă școală în Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.595512,
-                        47.530953
                   ]
             },
             {
@@ -9251,15 +6002,6 @@ export const switzerlandRegions: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Hafenmuseum Basel",
-                  "text": "The museum documents the importance of inland navigation for Switzerland.",
-                  "category": "museum",
-                  "coords": [
-                        7.589432,
-                        47.582638
-                  ]
-            },
             {
                   "name": "Museum der Kulturen",
                   "text": "One of the most important ethnological museums in Europe.",
@@ -9330,15 +6072,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         7.595105,
                         47.554475
-                  ]
-            },
-            {
-                  "name": "Schloss Binningen",
-                  "text": "A historical castle in Binningen, which today serves as a restaurant.",
-                  "category": "castle",
-                  "coords": [
-                        7.574616,
-                        47.536831
                   ]
             },
             {
@@ -9450,33 +6183,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Allerheiligenkirche",
-                  "text": "A modern Catholic church from the middle of the 20th century.",
-                  "category": "religious",
-                  "coords": [
-                        7.568396,
-                        47.547873
-                  ]
-            },
-            {
-                  "name": "St. Margarethen-Kirche",
-                  "text": "A picturesque church on the Margarethen hill in Binningen.",
-                  "category": "religious",
-                  "coords": [
-                        7.579577,
-                        47.54312
-                  ]
-            },
-            {
-                  "name": "Schwarzwaldbrücke",
-                  "text": "A combined railway and road bridge over the Rhine.",
-                  "category": "landmark",
-                  "coords": [
-                        7.613961,
-                        47.55795
-                  ]
-            },
-            {
                   "name": "Viaduktstrasse",
                   "text": "A railway viaduct crossing the Birsig river in the urban area.",
                   "category": "landmark",
@@ -9522,24 +6228,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Pruntrutermatte",
-                  "text": "A public park and sports field in the southwest of the city.",
-                  "category": "park",
-                  "coords": [
-                        7.580204,
-                        47.544637
-                  ]
-            },
-            {
-                  "name": "Zoologischer Garten Basel",
-                  "text": "The oldest and largest zoo in Switzerland, locally known as 'Zolli'.",
-                  "category": "family",
-                  "coords": [
-                        7.579184,
-                        47.546856
-                  ]
-            },
-            {
                   "name": "Cartoonmuseum Basel",
                   "text": "Museum for satirical art, caricatures, and comics.",
                   "category": "museum",
@@ -9573,33 +6261,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         7.593141,
                         47.554356
-                  ]
-            },
-            {
-                  "name": "Birsfelder Museum",
-                  "text": "A local museum documenting the history of Birsfelden.",
-                  "category": "museum",
-                  "coords": [
-                        7.624693,
-                        47.55514
-                  ]
-            },
-            {
-                  "name": "Ortsmuseum Binningen",
-                  "text": "The museum displays the history and rural culture of Binningen.",
-                  "category": "museum",
-                  "coords": [
-                        7.572686,
-                        47.543348
-                  ]
-            },
-            {
-                  "name": "Museum Tinguely",
-                  "text": "A museum dedicated to the life and work of the artist Jean Tinguely.",
-                  "category": "museum",
-                  "coords": [
-                        7.612336,
-                        47.559172
                   ]
             },
             {
@@ -9657,66 +6318,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Bruder-Klaus-Kirche",
-                  "text": "A church named after Saint Bruder Klaus in Basel.",
-                  "category": "religious",
-                  "coords": [
-                        7.625983,
-                        47.551661
-                  ]
-            },
-            {
-                  "name": "Reservoir Spitalholz",
-                  "text": "A quiet body of water in Basel, offering a relaxed atmosphere in nature.",
-                  "category": "natural",
-                  "coords": [
-                        7.62421,
-                        47.503256
-                  ]
-            },
-            {
-                  "name": "Quellsee",
-                  "text": "A clear lake in Basel, ideal for a relaxing stay by the water.",
-                  "category": "natural",
-                  "coords": [
-                        7.618165,
-                        47.530761
-                  ]
-            },
-            {
                   "name": "Sandbox",
                   "text": "A sand playground in Basel that brings great joy to small children digging and building.",
                   "category": "family",
                   "coords": [
                         7.569192,
                         47.565425
-                  ]
-            },
-            {
-                  "name": "Dürrenmatten",
-                  "text": "An attractive playground in Basel offering families a varied stay.",
-                  "category": "family",
-                  "coords": [
-                        7.550053,
-                        47.554329
-                  ]
-            },
-            {
-                  "name": "Pumpwerkspielplatz",
-                  "text": "An original playground in Basel offering children exciting opportunities for discovery.",
-                  "category": "family",
-                  "coords": [
-                        7.614915,
-                        47.574047
-                  ]
-            },
-            {
-                  "name": "Pfirteranlage",
-                  "text": "A child-friendly facility in Basel inviting active outdoor leisure activities.",
-                  "category": "family",
-                  "coords": [
-                        7.578254,
-                        47.549168
                   ]
             },
             {
@@ -9729,24 +6336,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Robi Allmend",
-                  "text": "An adventure playground in Basel giving children plenty of room for their own ideas.",
-                  "category": "family",
-                  "coords": [
-                        7.624027,
-                        47.563915
-                  ]
-            },
-            {
-                  "name": "Robi Birsfelden",
-                  "text": "A versatile meeting point for children in Basel that encourages playing together.",
-                  "category": "family",
-                  "coords": [
-                        7.625709,
-                        47.557732
-                  ]
-            },
-            {
                   "name": "Spielplatz im Erlenmattpark",
                   "text": "A modern playground in Basel's Erlenmattpark, ideally integrated into the green space.",
                   "category": "family",
@@ -9756,84 +6345,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Sigi von Koeding-Anlage",
-                  "text": "A beautifully designed play area in Basel inviting families to relax.",
-                  "category": "family",
-                  "coords": [
-                        7.598064,
-                        47.543762
-                  ]
-            },
-            {
-                  "name": "Robi-Spielplatz Binningen",
-                  "text": "An adventurous playground in Basel offering children exciting experiences in nature.",
-                  "category": "family",
-                  "coords": [
-                        7.576328,
-                        47.541517
-                  ]
-            },
-            {
-                  "name": "Schwarzwaldalleespielplatz",
-                  "text": "An easily accessible playground in Basel, providing a welcome break from city life.",
-                  "category": "family",
-                  "coords": [
-                        7.610644,
-                        47.561748
-                  ]
-            },
-            {
                   "name": "Die Spielaue",
                   "text": "An imaginative play area in Basel that sparks children's joy in playing.",
                   "category": "family",
                   "coords": [
                         7.604417,
                         47.574347
-                  ]
-            },
-            {
-                  "name": "Spielplatz 1 Duradero",
-                  "text": "An appealing playground in Basel with various options for climbing and romping.",
-                  "category": "family",
-                  "coords": [
-                        7.553131,
-                        47.557729
-                  ]
-            },
-            {
-                  "name": "Spielplatz 2 Duradero",
-                  "text": "Another play area in Basel that ensures fun and movement outdoors.",
-                  "category": "family",
-                  "coords": [
-                        7.551469,
-                        47.557375
-                  ]
-            },
-            {
-                  "name": "Madeleine-Born-Platz",
-                  "text": "A central square in Basel that also offers attractive play options for children.",
-                  "category": "family",
-                  "coords": [
-                        7.564816,
-                        47.553227
-                  ]
-            },
-            {
-                  "name": "Le Parc des Carrières",
-                  "text": "A modern facility in Basel offering families space for leisure and play.",
-                  "category": "family",
-                  "coords": [
-                        7.549868,
-                        47.566577
-                  ]
-            },
-            {
-                  "name": "Lindenplatz",
-                  "text": "A child-friendly meeting point in Basel inviting people to spend time outdoors.",
-                  "category": "family",
-                  "coords": [
-                        7.560262,
-                        47.558081
                   ]
             },
             {
@@ -9864,30 +6381,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Laguna Badeland",
-                  "text": "Water park with slides and pools for the family in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.615906,
-                        47.585943
-                  ]
-            },
-            {
                   "name": "Einstiegstelle Basler Rheinschwimmen",
                   "text": "Entry point for swimming in the Rhine in Basel.",
                   "category": "family",
                   "coords": [
                         7.604461,
                         47.556971
-                  ]
-            },
-            {
-                  "name": "Gartenbad Eglisee",
-                  "text": "Large outdoor water park and garden bath in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.614109,
-                        47.571036
                   ]
             },
             {
@@ -9900,39 +6399,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Frauenbad",
-                  "text": "Swimming pool for women in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.61542,
-                        47.57085
-                  ]
-            },
-            {
                   "name": "Sprungbecken",
                   "text": "Special pool for diving and jumping in Basel.",
                   "category": "family",
                   "coords": [
                         7.612794,
                         47.570506
-                  ]
-            },
-            {
-                  "name": "Bassin 2",
-                  "text": "Standard swimming pool for exercise in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.557406,
-                        47.576588
-                  ]
-            },
-            {
-                  "name": "Laguna",
-                  "text": "Water park for family fun in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.614837,
-                        47.585687
                   ]
             },
             {
@@ -9945,48 +6417,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Hallenbad Sesselacker",
-                  "text": "Indoor swimming pool for year-round use in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.597757,
-                        47.535532
-                  ]
-            },
-            {
-                  "name": "Parc des Eaux Vives",
-                  "text": "Water park for outdoor activities in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.581687,
-                        47.590358
-                  ]
-            },
-            {
-                  "name": "Kinderbecken",
-                  "text": "Shallow pool for children in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.580915,
-                        47.54096
-                  ]
-            },
-            {
                   "name": "Voliere",
                   "text": "Aviary with various birds in Basel.",
                   "category": "family",
                   "coords": [
                         7.559283,
                         47.572045
-                  ]
-            },
-            {
-                  "name": "Brunnen im Bruderholzschulhaus",
-                  "text": "Simple swimming pool at the schoolhouse in Basel.",
-                  "category": "family",
-                  "coords": [
-                        7.595512,
-                        47.530953
                   ]
             },
             {
@@ -10125,15 +6561,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Musée romain de Lausanne-Vidy",
-                  "text": "Das Museum zeigt die Ausgrabungen und das Leben in der römischen Siedlung Lousonna.",
-                  "category": "museum",
-                  "coords": [
-                        6.598673,
-                        46.518957
-                  ]
-            },
-            {
                   "name": "Château d'Ouchy",
                   "text": "Ein am See gelegenes Schloss, das heute als Hotel genutzt wird und ein Wahrzeichen von Ouchy ist.",
                   "category": "castle",
@@ -10185,33 +6612,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.625203,
                         46.517944
-                  ]
-            },
-            {
-                  "name": "Ruines romaines Lousonna",
-                  "text": "Archäologische Überreste der antiken römischen Siedlung am Ufer des Genfersees.",
-                  "category": "historical",
-                  "coords": [
-                        6.601068,
-                        46.516484
-                  ]
-            },
-            {
-                  "name": "Tour Haldimand",
-                  "text": "Eine neugotische Turmruine direkt am Ufer des Genfersees in Lausanne-Ouchy.",
-                  "category": "historical",
-                  "coords": [
-                        6.641524,
-                        46.505114
-                  ]
-            },
-            {
-                  "name": "Villa Eupalinos",
-                  "text": "Ein elegantes Herrenhaus in Lausanne, bekannt für seine Architektur und Lage.",
-                  "category": "historical",
-                  "coords": [
-                        6.662301,
-                        46.52362
                   ]
             },
             {
@@ -10314,30 +6714,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Musée d'art de Pully",
-                  "text": "Ein Museum in Pully bei Lausanne, das sich der bildenden Kunst widmet.",
-                  "category": "museum",
-                  "coords": [
-                        6.660403,
-                        46.509034
-                  ]
-            },
-            {
                   "name": "Fondation Claude Verdan - Musée de la Main",
                   "text": "Ein interaktives Museum, das wissenschaftliche und medizinische Themen rund um den Menschen erkundet.",
                   "category": "museum",
                   "coords": [
                         6.640613,
                         46.524987
-                  ]
-            },
-            {
-                  "name": "Château de Valency",
-                  "text": "Ein historisches Anwesen in Lausanne, das heute einen öffentlichen Park umgibt.",
-                  "category": "castle",
-                  "coords": [
-                        6.608896,
-                        46.529404
                   ]
             },
             {
@@ -10365,33 +6747,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.632167,
                         46.522758
-                  ]
-            },
-            {
-                  "name": "Château de Vidy",
-                  "text": "Ein ehemaliges Schloss in Lausanne, das heute Verwaltungszwecken dient.",
-                  "category": "castle",
-                  "coords": [
-                        6.596509,
-                        46.518468
-                  ]
-            },
-            {
-                  "name": "Château de Prilly",
-                  "text": "Ein historisches Schlossgebäude in der Gemeinde Prilly bei Lausanne.",
-                  "category": "castle",
-                  "coords": [
-                        6.605122,
-                        46.535146
-                  ]
-            },
-            {
-                  "name": "Villa romaine de Pully",
-                  "text": "Eine archäologische Ausgrabungsstätte mit Überresten einer römischen Villa in Pully.",
-                  "category": "historical",
-                  "coords": [
-                        6.662165,
-                        46.509489
                   ]
             },
             {
@@ -10485,15 +6840,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Chapelle Saint-Matthieu",
-                  "text": "Eine kleine christliche Kapelle in der Stadt Lausanne.",
-                  "category": "religious",
-                  "coords": [
-                        6.617916,
-                        46.534493
-                  ]
-            },
-            {
                   "name": "Temple Saint-Luc",
                   "text": "Ein reformiertes Kirchengebäude in Lausanne.",
                   "category": "religious",
@@ -10512,57 +6858,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Genfersee",
-                  "text": "Der Genfersee bei Lausanne bietet eine prachtvolle Kulisse für Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        6.539468,
-                        46.361359
-                  ]
-            },
-            {
                   "name": "Lac de Sauvabelin",
                   "text": "Ein idyllischer kleiner See in einem Park in Lausanne, ideal für Familien.",
                   "category": "natural",
                   "coords": [
                         6.63814,
                         46.537599
-                  ]
-            },
-            {
-                  "name": "Étang de la Bressonne",
-                  "text": "Ein ruhiger See in Lausanne, ideal für entspannte Spaziergänge in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        6.699861,
-                        46.572755
-                  ]
-            },
-            {
-                  "name": "The Jump Spot",
-                  "text": "Dieser Trampolinpark in Lausanne bietet aktiven Springspaß für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        6.61063,
-                        46.525365
-                  ]
-            },
-            {
-                  "name": "Terrain d'Aventure de Malley",
-                  "text": "Ein abwechslungsreicher Spielplatz in Lausanne, der Kindern viel Raum für Abenteuer bietet.",
-                  "category": "family",
-                  "coords": [
-                        6.603857,
-                        46.523127
-                  ]
-            },
-            {
-                  "name": "Parc des Faverges",
-                  "text": "Ein freundlicher Nachbarschaftsspielplatz in Lausanne für Spiel und Bewegung im Freien.",
-                  "category": "family",
-                  "coords": [
-                        6.645918,
-                        46.513683
                   ]
             },
             {
@@ -10575,39 +6876,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "La Dune de Malley",
-                  "text": "Ein moderner Spielplatz in Lausanne, der zum Klettern und Toben einlädt.",
-                  "category": "family",
-                  "coords": [
-                        6.604182,
-                        46.524429
-                  ]
-            },
-            {
                   "name": "Chandieu",
                   "text": "Ein schöner Spielbereich in Lausanne für Familien mit Kindern.",
                   "category": "family",
                   "coords": [
                         6.63966,
                         46.512563
-                  ]
-            },
-            {
-                  "name": "Aire de Jeux du Grand-Pré",
-                  "text": "Ein einladender Spielplatz in Lausanne mit verschiedenen Geräten für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        6.602771,
-                        46.533946
-                  ]
-            },
-            {
-                  "name": "Piscine couverte",
-                  "text": "Die Piscine couverte in Lausanne bietet Möglichkeiten zum Hallenschwimmen.",
-                  "category": "family",
-                  "coords": [
-                        6.655796,
-                        46.510506
                   ]
             },
             {
@@ -10635,33 +6909,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.656222,
                         46.512867
-                  ]
-            },
-            {
-                  "name": "Piscine de la Fleur-de-Lys",
-                  "text": "Die Piscine de la Fleur-de-Lys in Lausanne bietet Platz zum Schwimmen.",
-                  "category": "family",
-                  "coords": [
-                        6.604128,
-                        46.542766
-                  ]
-            },
-            {
-                  "name": "Piscine de Montétan",
-                  "text": "Die Piscine de Montétan in Lausanne ist ein Ort für Schwimmaktivitäten.",
-                  "category": "family",
-                  "coords": [
-                        6.611819,
-                        46.530517
-                  ]
-            },
-            {
-                  "name": "Aquatis",
-                  "text": "Aquatis in Lausanne ist ein grosses Aquarium und Vivarium für Süsswasserarten.",
-                  "category": "family",
-                  "coords": [
-                        6.657228,
-                        46.540843
                   ]
             },
             {
@@ -10730,15 +6977,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Musée romain de Lausanne-Vidy",
-                  "text": "A múzeum Lousonna római településének ásatásait és életét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        6.598673,
-                        46.518957
-                  ]
-            },
-            {
                   "name": "Château d'Ouchy",
                   "text": "Tóparti kastély, amely ma szállodaként működik, és Ouchy jelképe.",
                   "category": "castle",
@@ -10790,33 +7028,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.625203,
                         46.517944
-                  ]
-            },
-            {
-                  "name": "Ruines romaines Lousonna",
-                  "text": "Az ókori római település régészeti maradványai a Genfi-tó partján.",
-                  "category": "historical",
-                  "coords": [
-                        6.601068,
-                        46.516484
-                  ]
-            },
-            {
-                  "name": "Tour Haldimand",
-                  "text": "Neogótikus toronyrom közvetlenül a Genfi-tó partján, Lausanne-Ouchy-ban.",
-                  "category": "historical",
-                  "coords": [
-                        6.641524,
-                        46.505114
-                  ]
-            },
-            {
-                  "name": "Villa Eupalinos",
-                  "text": "Elegáns udvarház Lausanne-ban, amely építészetéről és elhelyezkedéséről ismert.",
-                  "category": "historical",
-                  "coords": [
-                        6.662301,
-                        46.52362
                   ]
             },
             {
@@ -10919,30 +7130,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Musée d'art de Pully",
-                  "text": "Pully-ban, Lausanne mellett található múzeum, amely a képzőművészetnek szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        6.660403,
-                        46.509034
-                  ]
-            },
-            {
                   "name": "Fondation Claude Verdan - Musée de la Main",
                   "text": "Interaktív múzeum, amely az emberrel kapcsolatos tudományos és orvosi témákat mutat be.",
                   "category": "museum",
                   "coords": [
                         6.640613,
                         46.524987
-                  ]
-            },
-            {
-                  "name": "Château de Valency",
-                  "text": "Történelmi birtok Lausanne-ban, amelyet ma nyilvános park vesz körül.",
-                  "category": "castle",
-                  "coords": [
-                        6.608896,
-                        46.529404
                   ]
             },
             {
@@ -10970,33 +7163,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.632167,
                         46.522758
-                  ]
-            },
-            {
-                  "name": "Château de Vidy",
-                  "text": "Egy egykori kastély Lausanne-ban, amely ma közigazgatási célokat szolgál.",
-                  "category": "castle",
-                  "coords": [
-                        6.596509,
-                        46.518468
-                  ]
-            },
-            {
-                  "name": "Château de Prilly",
-                  "text": "Egy történelmi kastélyépület Prilly községben, Lausanne mellett.",
-                  "category": "castle",
-                  "coords": [
-                        6.605122,
-                        46.535146
-                  ]
-            },
-            {
-                  "name": "Villa romaine de Pully",
-                  "text": "Régészeti lelőhely egy római villa maradványaival Pully-ban.",
-                  "category": "historical",
-                  "coords": [
-                        6.662165,
-                        46.509489
                   ]
             },
             {
@@ -11090,15 +7256,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Chapelle Saint-Matthieu",
-                  "text": "Egy kis keresztény kápolna Lausanne városában.",
-                  "category": "religious",
-                  "coords": [
-                        6.617916,
-                        46.534493
-                  ]
-            },
-            {
                   "name": "Temple Saint-Luc",
                   "text": "Egy református templomépület Lausanne-ban.",
                   "category": "religious",
@@ -11117,57 +7274,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Genfi-tó",
-                  "text": "A Genfi-tó Lausanne-nál pompás hátteret nyújt a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        6.539468,
-                        46.361359
-                  ]
-            },
-            {
                   "name": "Lac de Sauvabelin",
                   "text": "Idilli kis tó egy lausanne-i parkban, ideális családok számára.",
                   "category": "natural",
                   "coords": [
                         6.63814,
                         46.537599
-                  ]
-            },
-            {
-                  "name": "Étang de la Bressonne",
-                  "text": "Nyugodt tó Lausanne-ban, amely ideális a természetben való kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        6.699861,
-                        46.572755
-                  ]
-            },
-            {
-                  "name": "The Jump Spot",
-                  "text": "Ez a lausanne-i trambulinpark aktív ugrálási élményt kínál az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        6.61063,
-                        46.525365
-                  ]
-            },
-            {
-                  "name": "Terrain d'Aventure de Malley",
-                  "text": "Változatos játszótér Lausanne-ban, amely sok helyet kínál a gyerekeknek a kalandozásra.",
-                  "category": "family",
-                  "coords": [
-                        6.603857,
-                        46.523127
-                  ]
-            },
-            {
-                  "name": "Parc des Faverges",
-                  "text": "Barátságos környékbeli játszótér Lausanne-ban a szabadtéri játékhoz és mozgáshoz.",
-                  "category": "family",
-                  "coords": [
-                        6.645918,
-                        46.513683
                   ]
             },
             {
@@ -11180,39 +7292,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "La Dune de Malley",
-                  "text": "Modern játszótér Lausanne-ban, amely mászásra és hancúrozásra hívogat.",
-                  "category": "family",
-                  "coords": [
-                        6.604182,
-                        46.524429
-                  ]
-            },
-            {
                   "name": "Chandieu",
                   "text": "Szép játszóterület Lausanne-ban gyermekes családok számára.",
                   "category": "family",
                   "coords": [
                         6.63966,
                         46.512563
-                  ]
-            },
-            {
-                  "name": "Aire de Jeux du Grand-Pré",
-                  "text": "Hívogató játszótér Lausanne-ban különböző játékokkal a gyermekek számára.",
-                  "category": "family",
-                  "coords": [
-                        6.602771,
-                        46.533946
-                  ]
-            },
-            {
-                  "name": "Piscine couverte",
-                  "text": "A lausanne-i Piscine couverte fedett pályás úszási lehetőséget kínál.",
-                  "category": "family",
-                  "coords": [
-                        6.655796,
-                        46.510506
                   ]
             },
             {
@@ -11240,33 +7325,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.656222,
                         46.512867
-                  ]
-            },
-            {
-                  "name": "Piscine de la Fleur-de-Lys",
-                  "text": "A lausanne-i Piscine de la Fleur-de-Lys úszási lehetőséget biztosít.",
-                  "category": "family",
-                  "coords": [
-                        6.604128,
-                        46.542766
-                  ]
-            },
-            {
-                  "name": "Piscine de Montétan",
-                  "text": "A lausanne-i Piscine de Montétan úszásra alkalmas helyszín.",
-                  "category": "family",
-                  "coords": [
-                        6.611819,
-                        46.530517
-                  ]
-            },
-            {
-                  "name": "Aquatis",
-                  "text": "A lausanne-i Aquatis egy nagy akvárium és vivárium édesvízi fajok számára.",
-                  "category": "family",
-                  "coords": [
-                        6.657228,
-                        46.540843
                   ]
             },
             {
@@ -11335,15 +7393,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Musée romain de Lausanne-Vidy",
-                  "text": "Muzeul prezintă săpăturile și viața în așezarea romană Lousonna.",
-                  "category": "museum",
-                  "coords": [
-                        6.598673,
-                        46.518957
-                  ]
-            },
-            {
                   "name": "Château d'Ouchy",
                   "text": "Un castel situat pe malul lacului, utilizat astăzi ca hotel și simbol al cartierului Ouchy.",
                   "category": "castle",
@@ -11395,33 +7444,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.625203,
                         46.517944
-                  ]
-            },
-            {
-                  "name": "Ruines romaines Lousonna",
-                  "text": "Vestigii arheologice ale anticei așezări romane de pe malul lacului Geneva.",
-                  "category": "historical",
-                  "coords": [
-                        6.601068,
-                        46.516484
-                  ]
-            },
-            {
-                  "name": "Tour Haldimand",
-                  "text": "O ruină de turn neogotic chiar pe malul lacului Geneva în Lausanne-Ouchy.",
-                  "category": "historical",
-                  "coords": [
-                        6.641524,
-                        46.505114
-                  ]
-            },
-            {
-                  "name": "Villa Eupalinos",
-                  "text": "Un conac elegant în Lausanne, cunoscut pentru arhitectura și locația sa.",
-                  "category": "historical",
-                  "coords": [
-                        6.662301,
-                        46.52362
                   ]
             },
             {
@@ -11524,30 +7546,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Musée d'art de Pully",
-                  "text": "Un muzeu din Pully, lângă Lausanne, dedicat artelor vizuale.",
-                  "category": "museum",
-                  "coords": [
-                        6.660403,
-                        46.509034
-                  ]
-            },
-            {
                   "name": "Fondation Claude Verdan - Musée de la Main",
                   "text": "Un muzeu interactiv care explorează teme științifice și medicale legate de om.",
                   "category": "museum",
                   "coords": [
                         6.640613,
                         46.524987
-                  ]
-            },
-            {
-                  "name": "Château de Valency",
-                  "text": "O proprietate istorică din Lausanne, înconjurată astăzi de un parc public.",
-                  "category": "castle",
-                  "coords": [
-                        6.608896,
-                        46.529404
                   ]
             },
             {
@@ -11575,33 +7579,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.632167,
                         46.522758
-                  ]
-            },
-            {
-                  "name": "Château de Vidy",
-                  "text": "Un fost castel din Lausanne, folosit astăzi în scopuri administrative.",
-                  "category": "castle",
-                  "coords": [
-                        6.596509,
-                        46.518468
-                  ]
-            },
-            {
-                  "name": "Château de Prilly",
-                  "text": "O clădire istorică de castel în comuna Prilly de lângă Lausanne.",
-                  "category": "castle",
-                  "coords": [
-                        6.605122,
-                        46.535146
-                  ]
-            },
-            {
-                  "name": "Villa romaine de Pully",
-                  "text": "Un sit arheologic cu vestigiile unei vile romane în Pully.",
-                  "category": "historical",
-                  "coords": [
-                        6.662165,
-                        46.509489
                   ]
             },
             {
@@ -11695,15 +7672,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Chapelle Saint-Matthieu",
-                  "text": "O mică capelă creștină în orașul Lausanne.",
-                  "category": "religious",
-                  "coords": [
-                        6.617916,
-                        46.534493
-                  ]
-            },
-            {
                   "name": "Temple Saint-Luc",
                   "text": "O clădire bisericească reformată în Lausanne.",
                   "category": "religious",
@@ -11722,57 +7690,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Le Léman",
-                  "text": "Lacul Geneva de lângă Lausanne oferă un cadru magnific pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        6.539468,
-                        46.361359
-                  ]
-            },
-            {
                   "name": "Lac de Sauvabelin",
                   "text": "Un mic lac idilic într-un parc din Lausanne, ideal pentru familii.",
                   "category": "natural",
                   "coords": [
                         6.63814,
                         46.537599
-                  ]
-            },
-            {
-                  "name": "Étang de la Bressonne",
-                  "text": "Un lac liniștit în Lausanne, ideal pentru plimbări relaxante în natură.",
-                  "category": "natural",
-                  "coords": [
-                        6.699861,
-                        46.572755
-                  ]
-            },
-            {
-                  "name": "The Jump Spot",
-                  "text": "Acest parc de trambuline din Lausanne oferă distracție activă pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        6.61063,
-                        46.525365
-                  ]
-            },
-            {
-                  "name": "Terrain d'Aventure de Malley",
-                  "text": "Un teren de joacă variat în Lausanne, care oferă copiilor mult spațiu pentru aventură.",
-                  "category": "family",
-                  "coords": [
-                        6.603857,
-                        46.523127
-                  ]
-            },
-            {
-                  "name": "Parc des Faverges",
-                  "text": "Un loc de joacă prietenos în Lausanne pentru jocuri și mișcare în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        6.645918,
-                        46.513683
                   ]
             },
             {
@@ -11785,39 +7708,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "La Dune de Malley",
-                  "text": "Un loc de joacă modern în Lausanne, care invită copiii la cățărat și joacă.",
-                  "category": "family",
-                  "coords": [
-                        6.604182,
-                        46.524429
-                  ]
-            },
-            {
                   "name": "Chandieu",
                   "text": "O zonă frumoasă de joacă în Lausanne pentru familii cu copii.",
                   "category": "family",
                   "coords": [
                         6.63966,
                         46.512563
-                  ]
-            },
-            {
-                  "name": "Aire de Jeux du Grand-Pré",
-                  "text": "Un loc de joacă primitor în Lausanne, cu diverse echipamente pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        6.602771,
-                        46.533946
-                  ]
-            },
-            {
-                  "name": "Piscine couverte",
-                  "text": "Piscine couverte din Lausanne oferă posibilități de înot în interior.",
-                  "category": "family",
-                  "coords": [
-                        6.655796,
-                        46.510506
                   ]
             },
             {
@@ -11845,33 +7741,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.656222,
                         46.512867
-                  ]
-            },
-            {
-                  "name": "Piscine de la Fleur-de-Lys",
-                  "text": "Piscine de la Fleur-de-Lys din Lausanne oferă spațiu pentru înot.",
-                  "category": "family",
-                  "coords": [
-                        6.604128,
-                        46.542766
-                  ]
-            },
-            {
-                  "name": "Piscine de Montétan",
-                  "text": "Piscine de Montétan din Lausanne este un loc pentru activități de înot.",
-                  "category": "family",
-                  "coords": [
-                        6.611819,
-                        46.530517
-                  ]
-            },
-            {
-                  "name": "Aquatis",
-                  "text": "Aquatis din Lausanne este un acvariu și vivariu mare pentru specii de apă dulce.",
-                  "category": "family",
-                  "coords": [
-                        6.657228,
-                        46.540843
                   ]
             },
             {
@@ -11940,15 +7809,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Musée romain de Lausanne-Vidy",
-                  "text": "The museum presents the excavations and life in the Roman settlement of Lousonna.",
-                  "category": "museum",
-                  "coords": [
-                        6.598673,
-                        46.518957
-                  ]
-            },
-            {
                   "name": "Château d'Ouchy",
                   "text": "A lakeside castle now used as a hotel and a landmark of the Ouchy district.",
                   "category": "castle",
@@ -12000,33 +7860,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.625203,
                         46.517944
-                  ]
-            },
-            {
-                  "name": "Roman Ruins of Lousonna",
-                  "text": "Archaeological remains of the ancient Roman settlement on the shores of Lake Geneva.",
-                  "category": "historical",
-                  "coords": [
-                        6.601068,
-                        46.516484
-                  ]
-            },
-            {
-                  "name": "Tour Haldimand",
-                  "text": "A neo-Gothic tower ruin right on the shores of Lake Geneva in Lausanne-Ouchy.",
-                  "category": "historical",
-                  "coords": [
-                        6.641524,
-                        46.505114
-                  ]
-            },
-            {
-                  "name": "Villa Eupalinos",
-                  "text": "An elegant manor in Lausanne, known for its architecture and location.",
-                  "category": "historical",
-                  "coords": [
-                        6.662301,
-                        46.52362
                   ]
             },
             {
@@ -12129,30 +7962,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Musée d'art de Pully",
-                  "text": "A museum in Pully near Lausanne dedicated to the visual arts.",
-                  "category": "museum",
-                  "coords": [
-                        6.660403,
-                        46.509034
-                  ]
-            },
-            {
                   "name": "Fondation Claude Verdan - Musée de la Main",
                   "text": "An interactive museum exploring scientific and medical topics related to humans.",
                   "category": "museum",
                   "coords": [
                         6.640613,
                         46.524987
-                  ]
-            },
-            {
-                  "name": "Château de Valency",
-                  "text": "A historical estate in Lausanne, today surrounded by a public park.",
-                  "category": "castle",
-                  "coords": [
-                        6.608896,
-                        46.529404
                   ]
             },
             {
@@ -12180,33 +7995,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.632167,
                         46.522758
-                  ]
-            },
-            {
-                  "name": "Château de Vidy",
-                  "text": "A former castle in Lausanne, now used for administrative purposes.",
-                  "category": "castle",
-                  "coords": [
-                        6.596509,
-                        46.518468
-                  ]
-            },
-            {
-                  "name": "Château de Prilly",
-                  "text": "A historic castle building in the municipality of Prilly near Lausanne.",
-                  "category": "castle",
-                  "coords": [
-                        6.605122,
-                        46.535146
-                  ]
-            },
-            {
-                  "name": "Villa romaine de Pully",
-                  "text": "An archaeological site featuring the remains of a Roman villa in Pully.",
-                  "category": "historical",
-                  "coords": [
-                        6.662165,
-                        46.509489
                   ]
             },
             {
@@ -12300,15 +8088,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Chapelle Saint-Matthieu",
-                  "text": "A small Christian chapel in the city of Lausanne.",
-                  "category": "religious",
-                  "coords": [
-                        6.617916,
-                        46.534493
-                  ]
-            },
-            {
                   "name": "Temple Saint-Luc",
                   "text": "A Reformed church building in Lausanne.",
                   "category": "religious",
@@ -12327,57 +8106,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Lake Geneva",
-                  "text": "Lake Geneva near Lausanne offers a magnificent backdrop for walks.",
-                  "category": "natural",
-                  "coords": [
-                        6.539468,
-                        46.361359
-                  ]
-            },
-            {
                   "name": "Lac de Sauvabelin",
                   "text": "An idyllic small lake in a park in Lausanne, ideal for families.",
                   "category": "natural",
                   "coords": [
                         6.63814,
                         46.537599
-                  ]
-            },
-            {
-                  "name": "Étang de la Bressonne",
-                  "text": "A peaceful lake in Lausanne, ideal for relaxing walks in nature.",
-                  "category": "natural",
-                  "coords": [
-                        6.699861,
-                        46.572755
-                  ]
-            },
-            {
-                  "name": "The Jump Spot",
-                  "text": "This trampoline park in Lausanne offers active jumping fun for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        6.61063,
-                        46.525365
-                  ]
-            },
-            {
-                  "name": "Terrain d'Aventure de Malley",
-                  "text": "A varied playground in Lausanne offering children plenty of space for adventure.",
-                  "category": "family",
-                  "coords": [
-                        6.603857,
-                        46.523127
-                  ]
-            },
-            {
-                  "name": "Parc des Faverges",
-                  "text": "A friendly neighborhood playground in Lausanne for outdoor play and exercise.",
-                  "category": "family",
-                  "coords": [
-                        6.645918,
-                        46.513683
                   ]
             },
             {
@@ -12390,39 +8124,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "La Dune de Malley",
-                  "text": "A modern playground in Lausanne that invites climbing and active play.",
-                  "category": "family",
-                  "coords": [
-                        6.604182,
-                        46.524429
-                  ]
-            },
-            {
                   "name": "Chandieu",
                   "text": "A nice play area in Lausanne for families with children.",
                   "category": "family",
                   "coords": [
                         6.63966,
                         46.512563
-                  ]
-            },
-            {
-                  "name": "Aire de Jeux du Grand-Pré",
-                  "text": "An inviting playground in Lausanne with various equipment for children.",
-                  "category": "family",
-                  "coords": [
-                        6.602771,
-                        46.533946
-                  ]
-            },
-            {
-                  "name": "Piscine couverte",
-                  "text": "Piscine couverte in Lausanne is an indoor swimming pool for all-year use.",
-                  "category": "family",
-                  "coords": [
-                        6.655796,
-                        46.510506
                   ]
             },
             {
@@ -12450,33 +8157,6 @@ export const switzerlandRegions: POI[] = [
                   "coords": [
                         6.656222,
                         46.512867
-                  ]
-            },
-            {
-                  "name": "Piscine de la Fleur-de-Lys",
-                  "text": "Piscine de la Fleur-de-Lys in Lausanne is a swimming pool for the general public.",
-                  "category": "family",
-                  "coords": [
-                        6.604128,
-                        46.542766
-                  ]
-            },
-            {
-                  "name": "Piscine de Montétan",
-                  "text": "Piscine de Montétan in Lausanne is a facility dedicated to swimming and exercise.",
-                  "category": "family",
-                  "coords": [
-                        6.611819,
-                        46.530517
-                  ]
-            },
-            {
-                  "name": "Aquatis",
-                  "text": "Aquatis in Lausanne is a large aquarium showcasing various freshwater species.",
-                  "category": "family",
-                  "coords": [
-                        6.657228,
-                        46.540843
                   ]
             },
             {
@@ -12627,7 +8307,1924 @@ export const switzerlandRegions: POI[] = [
     },
   },
   {
-    id: "city-lucerne", "sights": {"de": [{"name": "Kunstmuseum Luzern", "text": "Ein bedeutendes Kunstmuseum in Luzern, das sich im modernen KKL-Gebäude befindet.", "category": "museum", "coords": [8.311666, 47.050437]}, {"name": "Bourbaki Panorama", "text": "Ein monumentales Rundgemälde, das den Übertritt der französischen Bourbaki-Armee zeigt.", "category": "museum", "coords": [8.311226, 47.056958]}, {"name": "Zivilschutzanlage Sonnenberg", "text": "Eine ehemalige Zivilschutzanlage im Autobahntunnel, die heute als Museum besichtigt werden kann.", "category": "museum", "coords": [8.296638, 47.046464]}, {"name": "Museum im Bellpark", "text": "Ein Museum für Fotografie und Kunst, untergebracht in einer historischen Villa in Kriens.", "category": "museum", "coords": [8.282842, 47.034507]}, {"name": "Gletschergarten Luzern", "text": "Ein Naturdenkmal mit Gletschertöpfen aus der Eiszeit und einem Spiegellabyrinth.", "category": "museum", "coords": [8.310689, 47.058856]}, {"name": "Verkehrshaus der Schweiz", "text": "Das meistbesuchte Museum der Schweiz zeigt eine umfangreiche Sammlung zur Geschichte des Verkehrs und der Mobilität.", "category": "museum", "coords": [8.336482, 47.052794]}, {"name": "Kleintheater", "text": "Ein bekanntes Kleintheater in Luzern, das eine Bühne für Kabarett, Schauspiel und Musik bietet.", "category": "cultural", "coords": [8.308516, 47.046009]}, {"name": "Franziskanerkirche", "text": "Diese bedeutende mittelalterliche Bettelordenskirche ist für ihre gotische Architektur und reiche Ausstattung bekannt.", "category": "religious", "coords": [8.303472, 47.049666]}, {"name": "Matthäuskirche", "text": "Eine evangelisch-reformierte Kirche in Luzern, die als wichtiger Ort für Gottesdienste und Konzerte dient.", "category": "religious", "coords": [8.309313, 47.054405]}, {"name": "Kirche St. Karl", "text": "Eine markante katholische Kirche in Luzern, die durch ihre moderne Architektur und sakrale Kunst besticht.", "category": "religious", "coords": [8.292434, 47.055661]}, {"name": "St. Leodegar im Hof (Hofkirche)", "text": "Die prachtvolle Stiftskirche mit ihren markanten Doppeltürmen gilt als eines der wichtigsten Wahrzeichen von Luzern.", "category": "religious", "coords": [8.314081, 47.055601]}, {"name": "Rathaussteg", "text": "Diese Fussgängerbrücke über die Reuss verbindet die Altstadt mit dem Theaterplatz.", "category": "landmark", "coords": [8.306038, 47.051297]}, {"name": "Wasserturm", "text": "Der achteckige Turm ist Teil der berühmten Kapellbrücke und diente einst als Wachturm und Archiv.", "category": "tower", "coords": [8.307294, 47.051268]}, {"name": "Dreilindenpark", "text": "Eine weitläufige Parkanlage auf einem Hügel, die für ihre Ruhe und die Aussicht auf das Seebecken geschätzt wird.", "category": "park", "coords": [8.321661, 47.061341]}, {"name": "Männliturm", "text": "Einer der neun Türme der Museggmauer, der öffentlich zugänglich ist und eine grossartige Aussicht bietet.", "category": "natural", "coords": [8.300824, 47.053501]}, {"name": "Sammlung Rosengart", "text": "Dieses Kunstmuseum beherbergt eine bedeutende Sammlung von Werken Pablo Picassos und Paul Klees.", "category": "museum", "coords": [8.307317, 47.049685]}, {"name": "Museum Luzern", "text": "Ein Museum in Luzern, das sich der lokalen Geschichte und kulturellen Themen der Region widmet.", "category": "museum", "coords": [8.300968, 47.051713]}, {"name": "Richard Wagner Museum", "text": "Das ehemalige Wohnhaus des Komponisten zeigt persönliche Gegenstände und Dokumente aus seinem Leben in Luzern.", "category": "museum", "coords": [8.329041, 47.042389]}, {"name": "Landsitz Hünenberg", "text": "Ein historisches Anwesen in Luzern, das als Beispiel für die herrschaftliche Architektur der Region gilt.", "category": "castle", "coords": [8.318211, 47.067311]}, {"name": "Schlössli Schönegg", "text": "Ein schlossartiges Gebäude in Luzern, das durch seine malerische Lage und Architektur besticht.", "category": "castle", "coords": [8.297247, 47.050609]}, {"name": "Altes Bahnhofstor", "text": "Das verbliebene Portal des alten Bahnhofs von Luzern steht heute als Denkmal auf dem Bahnhofplatz.", "category": "historical", "coords": [8.310208, 47.050745]}, {"name": "Galluskirche", "text": "Eine charmante Kirche in Luzern, die als Ort der Ruhe und des Gebets dient.", "category": "religious", "coords": [8.279287, 47.032868]}, {"name": "Mariahilfkirche", "text": "Eine katholische Kirche in Luzern, die für ihre sakrale Atmosphäre und Gemeindearbeit bekannt ist.", "category": "religious", "coords": [8.306415, 47.054406]}, {"name": "Peterskapelle", "text": "Die älteste Kirche der Stadt Luzern liegt direkt am Kapellplatz und ist ein bedeutender spiritueller Ort.", "category": "religious", "coords": [8.307932, 47.052524]}, {"name": "Pauluskirche", "text": "Eine markante Kirche in Luzern, die ein wichtiges Zentrum für das kirchliche Leben im Quartier darstellt.", "category": "religious", "coords": [8.303106, 47.042004]}, {"name": "Kirche St. Maria", "text": "Diese Kirche ist ein Ort der Andacht und Teil der vielfältigen Kirchenlandschaft von Luzern.", "category": "religious", "coords": [8.28558, 47.070905]}, {"name": "Kirche St. Philipp Neri", "text": "Eine sakrale Stätte in Luzern, die der Gemeinde für Gottesdienste und Besinnung offen steht.", "category": "religious", "coords": [8.282968, 47.064739]}, {"name": "Bruder Klaus", "text": "Eine moderne katholische Kirche in Luzern, die dem Schweizer Nationalheiligen gewidmet ist.", "category": "religious", "coords": [8.290832, 47.033358]}, {"name": "St. Michael", "text": "Eine der Kirchen in Luzern, die als wichtiger Treffpunkt für Gläubige und die lokale Gemeinschaft dient.", "category": "religious", "coords": [8.312021, 47.037714]}, {"name": "Kirche Weinbergli", "text": "Eine Quartierkirche in Luzern, die Raum für Gottesdienste und soziale Aktivitäten bietet.", "category": "religious", "coords": [8.31823, 47.038682]}, {"name": "Markuskirche", "text": "Diese Kirche ist ein fester Bestandteil des religiösen Lebens in Luzern.", "category": "religious", "coords": [8.316507, 47.055275]}, {"name": "Kirche St. Anton", "text": "Eine katholische Pfarrkirche in Luzern, die durch ihre Architektur und Gemeindeangebote überzeugt.", "category": "religious", "coords": [8.323278, 47.039863]}, {"name": "Der MaiHof", "text": "Ein Begegnungszentrum und Kirchenraum in Luzern, der für Offenheit und Gemeinschaft steht.", "category": "religious", "coords": [8.308857, 47.063419]}, {"name": "Karl-Borromäus-Kapelle", "text": "Eine kleine Kapelle in Luzern, die zur stillen Einkehr und zum Gebet einlädt.", "category": "religious", "coords": [8.293574, 47.056082]}, {"name": "Lukaskirche", "text": "Eine markante evangelische Kirche in Luzern, bekannt für ihre moderne Gestaltung und gute Akustik.", "category": "religious", "coords": [8.30875, 47.048054]}, {"name": "Jesuitenkirche", "text": "Die erste grosse Barockkirche der Schweiz beeindruckt durch ihre prunkvolle Innenausstattung.", "category": "religious", "coords": [8.305126, 47.050441]}, {"name": "St. Johannes", "text": "Eine katholische Kirche in Luzern, die als Ort der Besinnung und des gottesdienstlichen Lebens dient.", "category": "religious", "coords": [8.345125, 47.055543]}, {"name": "Alpineum museum", "text": "Ein Museum in Luzern, das mit grossen 3D-Dioramen die Welt der Alpen und Gletscher zeigt.", "category": "landmark", "coords": [8.310419, 47.057918]}, {"name": "Allenwindenturm", "text": "Einer der historischen Türme der Museggmauer, der das Stadtbild von Luzern prägt.", "category": "tower", "coords": [8.307441, 47.055194]}, {"name": "Luegislandturm", "text": "Ein markanter Wachturm der Museggmauer mit einem charakteristischen Spitzdach.", "category": "tower", "coords": [8.302149, 47.053859]}, {"name": "Nölliturm", "text": "Der westlichste Turm der Museggmauer steht direkt am Reussufer.", "category": "tower", "coords": [8.299541, 47.053216]}, {"name": "Seebrücke Luzern", "text": "Die wichtigste Strassenbrücke in Luzern verbindet den Bahnhofplatz mit der Schwanenplatz-Seite.", "category": "landmark", "coords": [8.309062, 47.052065]}, {"name": "Seeburgturm", "text": "Ein historischer Turm am Seeufer, der einst zu einer privaten Parkanlage gehörte.", "category": "tower", "coords": [8.343189, 47.050534]}, {"name": "Alter Friedhof", "text": "Eine ehemalige Begräbnisstätte, die heute als ruhiger Park und Ort des Gedenkens genutzt wird.", "category": "park", "coords": [8.315734, 47.056936]}, {"name": "Gameorama", "text": "Ein interaktives Museum in Luzern, das die Geschichte der Gesellschafts- und Videospiele erlebbar macht.", "category": "museum", "coords": [8.301024, 47.050745]}, {"name": "Swiss Chocolate Adventure", "text": "Eine multimediale Erlebniswelt im Verkehrshaus, die den Weg der Kakaobohne bis zur Schweizer Schokolade zeigt.", "category": "museum", "coords": [8.335192, 47.053405]}, {"name": "Haus der Instrumente", "text": "Ein Museum in Luzern, das eine vielfältige Sammlung historischer Musikinstrumente präsentiert.", "category": "museum", "coords": [8.296624, 47.030849]}, {"name": "Puppenhausmuseum Luzern", "text": "Dieses Museum zeigt eine liebevoll kuratierte Sammlung von historischen Puppenhäusern und Spielzeug.", "category": "museum", "coords": [8.327893, 47.055759]}, {"name": "simgalerie", "text": "Eine Galerie für moderne Kunst in Luzern, die lokalen und internationalen Künstlern eine Plattform bietet.", "category": "museum", "coords": [8.312404, 47.043439]}, {"name": "Elephanthaus", "text": "Ein historisches Gebäude in Luzern, das heute als Raum für Kunst und kulturelle Veranstaltungen genutzt wird.", "category": "museum", "coords": [8.308782, 47.043989]}, {"name": "Vierwaldstättersee", "text": "Der Vierwaldstättersee bei Luzern bietet eine spektakuläre Kulisse für Ausflüge und Wassersport.", "category": "natural", "coords": [8.451902, 46.985428]}, {"name": "Rotsee", "text": "Der Rotsee bei Luzern ist bekannt für seine natürliche Schönheit und als Austragungsort für Ruderregatten.", "category": "natural", "coords": [8.314276, 47.069701]}, {"name": "Spielplatz Militärstrasse", "text": "Der Spielplatz Militärstrasse in Luzern bietet Kindern Raum für Bewegung und Spiel im Stadtviertel.", "category": "family", "coords": [8.297475, 47.053642]}, {"name": "Lidospielplatz", "text": "Der Lidospielplatz in Luzern liegt direkt am See und bietet Kindern attraktive Spielgeräte.", "category": "family", "coords": [8.335754, 47.050437]}, {"name": "Dammgärtli", "text": "Dammgärtli in Luzern ist ein kleiner, freundlicher Spielplatz für Kinder aus der Umgebung.", "category": "family", "coords": [8.292344, 47.054684]}, {"name": "Spielplatz Inseli", "text": "Der Spielplatz Inseli in Luzern bietet Kindern Spielspaß mit direktem Blick auf den See.", "category": "family", "coords": [8.314542, 47.049342]}, {"name": "Spielplatz Bleichergärtli", "text": "Der Spielplatz Bleichergärtli in Luzern bietet vielfältige Klettermöglichkeiten und Spielgeräte.", "category": "family", "coords": [8.306539, 47.043802]}, {"name": "Minigolfanlage Sonnenberg", "text": "Die Minigolfanlage Sonnenberg in Luzern bietet Freizeitvergnügen für die ganze Familie mit schöner Aussicht.", "category": "family", "coords": [8.274031, 47.044089]}, {"name": "Spielplatz Reusszopf", "text": "Der Spielplatz Reusszopf in Luzern bietet Kindern attraktive Spielmöglichkeiten direkt am Flussufer.", "category": "family", "coords": [8.284702, 47.064697]}, {"name": "Parkbad", "text": "Das Parkbad in Luzern bietet neben dem Schwimmbereich auch Spielflächen für Kinder an Land.", "category": "family", "coords": [8.285817, 47.030659]}, {"name": "Gabeldingen", "text": "Gabeldingen in Luzern bietet einen Spielplatz in ruhiger Lage für entspanntes Spielen im Freien.", "category": "family", "coords": [8.280641, 47.040751]}, {"name": "Lido Minigolf", "text": "Das Lido Minigolf im schweizerischen Luzern bietet ein charmantes Freizeiterlebnis unweit des Vierwaldstättersees. Die familienfreundliche Atmosphäre sorgt für fröhliche und aktive Stunden an der frischen Luft. Hier stehen das gemeinsame Spiel und der Spaß am Minigolf im Zentrum des Aufenthalts. Ein Besuch lässt sich hervorragend mit einem anschließenden Spaziergang am Seeufer abrunden.", "category": "family", "coords": [8.336912, 47.051411]}, {"name": "Spielplatz Täschmatt", "text": "Der Spielplatz Täschmatt in Luzern ist ein schönes Ziel für einen Familienausflug mit Kindern.", "category": "family", "coords": [8.280752, 47.065147]}, {"name": "Spielplatz Mettlen", "text": "Spielplatz Mettlen in Luzern bietet abwechslungsreiche Spielmöglichkeiten für Kinder.", "category": "family", "coords": [8.285053, 47.029287]}, {"name": "Schwimmhalle Krauer", "text": "Ein Hallenbad in Luzern für sportliches Schwimmen und Familienfreizeit.", "category": "family", "coords": [8.28082, 47.032632]}, {"name": "Schwimmbad Schmiedhof", "text": "Ein öffentliches Schwimmbad in Luzern für den Wasserspaß mit der Familie.", "category": "family", "coords": [8.33227, 47.076115]}, {"name": "Spa Centre", "text": "Ein Wellnesscenter in Luzern für erholsame Stunden und Entspannung.", "category": "family", "coords": [8.301428, 47.04875]}, {"name": "Mooshüsli", "text": "Ein Wasserpark in Luzern mit verschiedenen Attraktionen für Familien.", "category": "family", "coords": [8.287368, 47.078938]}, {"name": "Rotsee-Badi Ebikon", "text": "Ein öffentliches Bad am Rotsee bei Luzern für Schwimmen und Erholung.", "category": "family", "coords": [8.324872, 47.07391]}, {"name": "Hirschpark Luzern", "text": "Ein Wildpark in Luzern für Spaziergänge und Tierbeobachtungen.", "category": "family", "coords": [8.29183, 47.058004]}], "hu": [{"name": "Kunstmuseum Luzern", "text": "Jelentős művészeti múzeum Luzernben, amely a modern KKL épületében található.", "category": "museum", "coords": [8.311666, 47.050437]}, {"name": "Bourbaki Panorama", "text": "Monumentális körkép, amely a francia Bourbaki-hadsereg átlépését ábrázolja.", "category": "museum", "coords": [8.311226, 47.056958]}, {"name": "Zivilschutzanlage Sonnenberg", "text": "Egykori polgári védelmi létesítmény az autópálya-alagútban, amely ma múzeumként látogatható.", "category": "museum", "coords": [8.296638, 47.046464]}, {"name": "Museum im Bellpark", "text": "Fotográfiai és művészeti múzeum egy történelmi villában, Kriens-ben.", "category": "museum", "coords": [8.282842, 47.034507]}, {"name": "Gletschergarten Luzern", "text": "Természeti emlékhely jégkorszaki gleccserüstökkel és egy tükörlabirintussal.", "category": "museum", "coords": [8.310689, 47.058856]}, {"name": "Verkehrshaus der Schweiz", "text": "Svájc leglátogatottabb múzeuma, amely a közlekedés és a mobilitás történetét mutatja be.", "category": "museum", "coords": [8.336482, 47.052794]}, {"name": "Kleintheater", "text": "Luzern ismert kísérleti színháza, amely kabarénak, drámának és zenének ad otthont.", "category": "cultural", "coords": [8.308516, 47.046009]}, {"name": "Franziskanerkirche", "text": "Ez a jelentős középkori koldulórendi templom gótikus építészetéről és gazdag díszítéséről ismert.", "category": "religious", "coords": [8.303472, 47.049666]}, {"name": "Matthäuskirche", "text": "Evangélikus-református templom Luzernben, amely istentiszteletek és koncertek fontos helyszíne.", "category": "religious", "coords": [8.309313, 47.054405]}, {"name": "Kirche St. Karl", "text": "Jellegzetes katolikus templom Luzernben, amely modern építészetével és szakrális művészetével tűnik ki.", "category": "religious", "coords": [8.292434, 47.055661]}, {"name": "St. Leodegar im Hof (Hofkirche)", "text": "A jellegzetes ikertornyaival rendelkező pompás apátsági templom Luzern egyik legfontosabb jelképe.", "category": "religious", "coords": [8.314081, 47.055601]}, {"name": "Rathaussteg", "text": "Ez a Reuss folyón átívelő gyalogoshíd köti össze az óvárost a Theaterplatz-cal.", "category": "landmark", "coords": [8.306038, 47.051297]}, {"name": "Wasserturm", "text": "A nyolcszögletű torony a híres Kapellbrücke része, egykor őrtoronyként és archívumként szolgált.", "category": "tower", "coords": [8.307294, 47.051268]}, {"name": "Dreilindenpark", "text": "Egy dombtetőn fekvő tágas park, amelyet nyugalmáért és a tóra nyíló kilátásáért kedvelnek.", "category": "park", "coords": [8.321661, 47.061341]}, {"name": "Männliturm", "text": "A Museggmauer kilenc tornyának egyike, amely látogatható és nagyszerű kilátást kínál.", "category": "natural", "coords": [8.300824, 47.053501]}, {"name": "Sammlung Rosengart", "text": "Ez a művészeti múzeum Pablo Picasso és Paul Klee műveinek jelentős gyűjteményének ad otthont.", "category": "museum", "coords": [8.307317, 47.049685]}, {"name": "Museum Luzern", "text": "Luzerni múzeum, amely a régió helytörténetének és kulturális témáinak szenteli kiállításait.", "category": "museum", "coords": [8.300968, 47.051713]}, {"name": "Richard Wagner Museum", "text": "A zeneszerző egykori lakóháza, amely luzerni életének személyes tárgyait és dokumentumait mutatja be.", "category": "museum", "coords": [8.329041, 47.042389]}, {"name": "Landsitz Hünenberg", "text": "Történelmi birtok Luzernben, amely a régió nemesi építészetének egyik példája.", "category": "castle", "coords": [8.318211, 47.067311]}, {"name": "Schlössli Schönegg", "text": "Kastélyszerű épület Luzernben, amely festői elhelyezkedésével és építészetével tűnik ki.", "category": "castle", "coords": [8.297247, 47.050609]}, {"name": "Altes Bahnhofstor", "text": "Luzern régi pályaudvarának megmaradt kapuja, amely ma emlékműként áll a pályaudvar előtti téren.", "category": "historical", "coords": [8.310208, 47.050745]}, {"name": "Galluskirche", "text": "Bájos templom Luzernben, amely a nyugalom és az imádság helyszíneként szolgál.", "category": "religious", "coords": [8.279287, 47.032868]}, {"name": "Mariahilfkirche", "text": "Katolikus templom Luzernben, amely szakrális atmoszférájáról és közösségi munkájáról ismert.", "category": "religious", "coords": [8.306415, 47.054406]}, {"name": "Peterskapelle", "text": "Luzern város legidősebb temploma a Kapellplatz-on található, és jelentős spirituális helyszín.", "category": "religious", "coords": [8.307932, 47.052524]}, {"name": "Pauluskirche", "text": "Jellegzetes templom Luzernben, amely a negyed egyházi életének fontos központja.", "category": "religious", "coords": [8.303106, 47.042004]}, {"name": "Kirche St. Maria", "text": "Ez a templom az áhítat helyszíne, és része Luzern változatos templomi tájképének.", "category": "religious", "coords": [8.28558, 47.070905]}, {"name": "Kirche St. Philipp Neri", "text": "Szakrális helyszín Luzernben, amely nyitva áll a közösség előtt istentiszteletekre és elmélyülésre.", "category": "religious", "coords": [8.282968, 47.064739]}, {"name": "Bruder Klaus", "text": "Modern katolikus templom Luzernben, amelyet Svájc nemzeti szentjének szenteltek.", "category": "religious", "coords": [8.290832, 47.033358]}, {"name": "St. Michael", "text": "Luzern egyik temploma, amely a hívők és a helyi közösség fontos találkozóhelye.", "category": "religious", "coords": [8.312021, 47.037714]}, {"name": "Kirche Weinbergli", "text": "Negyedi templom Luzernben, amely istentiszteleteknek és szociális tevékenységeknek ad helyet.", "category": "religious", "coords": [8.31823, 47.038682]}, {"name": "Markuskirche", "text": "Ez a templom szerves része Luzern vallási életének.", "category": "religious", "coords": [8.316507, 47.055275]}, {"name": "Kirche St. Anton", "text": "Katolikus plébániatemplom Luzernben, amely építészetével és közösségi kínálatával tűnik ki.", "category": "religious", "coords": [8.323278, 47.039863]}, {"name": "Der MaiHof", "text": "Találkozóhely és templomtér Luzernben, amely a nyitottságot és a közösséget képviseli.", "category": "religious", "coords": [8.308857, 47.063419]}, {"name": "Karl-Borromäus-Kapelle", "text": "Kicsiny kápolna Luzernben, amely csendes elmélyülésre és imádságra hív.", "category": "religious", "coords": [8.293574, 47.056082]}, {"name": "Lukaskirche", "text": "Jellegzetes evangélikus templom Luzernben, amely modern kialakításáról és jó akusztikájáról ismert.", "category": "religious", "coords": [8.30875, 47.048054]}, {"name": "Jesuitenkirche", "text": "Svájc első nagy barokk temploma, amely pompás belső díszítésével nyűgözi le a látogatókat.", "category": "religious", "coords": [8.305126, 47.050441]}, {"name": "St. Johannes", "text": "Katolikus templom Luzernben, amely az elmélyülés és a hitélet helyszíne.", "category": "religious", "coords": [8.345125, 47.055543]}, {"name": "Alpineum museum", "text": "Luzerni múzeum, amely nagy 3D-diorámákkal mutatja be az Alpok és a gleccserek világát.", "category": "landmark", "coords": [8.310419, 47.057918]}, {"name": "Allenwindenturm", "text": "A Museggmauer egyik történelmi tornya, amely meghatározza Luzern városképét.", "category": "tower", "coords": [8.307441, 47.055194]}, {"name": "Luegislandturm", "text": "A Museggmauer egyik jellegzetes őrtornya, karakteres csúcsos tetővel.", "category": "tower", "coords": [8.302149, 47.053859]}, {"name": "Nölliturm", "text": "A Museggmauer legnyugatibb tornya, amely közvetlenül a Reuss partján áll.", "category": "tower", "coords": [8.299541, 47.053216]}, {"name": "Seebrücke Luzern", "text": "Luzern legfontosabb közúti hídja, amely a pályaudvart köti össze a Schwanenplatz oldalával.", "category": "landmark", "coords": [8.309062, 47.052065]}, {"name": "Seeburgturm", "text": "Történelmi torony a tóparton, amely egykor egy magánparkhoz tartozott.", "category": "tower", "coords": [8.343189, 47.050534]}, {"name": "Alter Friedhof", "text": "Egykori temetkezési hely, amelyet ma csendes parkként és emlékhelyként használnak.", "category": "park", "coords": [8.315734, 47.056936]}, {"name": "Gameorama", "text": "Interaktív múzeum Luzernben, amely a társas- és videojátékok történetét teszi átélhetővé.", "category": "museum", "coords": [8.301024, 47.050745]}, {"name": "Swiss Chocolate Adventure", "text": "Multimédiás élményvilág a Közlekedési Múzeumban, amely a kakaóbab útját mutatja be a svájci csokoládéig.", "category": "museum", "coords": [8.335192, 47.053405]}, {"name": "Haus der Instrumente", "text": "Luzerni múzeum, amely történelmi hangszerek változatos gyűjteményét mutatja be.", "category": "museum", "coords": [8.296624, 47.030849]}, {"name": "Puppenhausmuseum Luzern", "text": "Ez a múzeum történelmi babaházak és játékok gondosan válogatott gyűjteményét mutatja be.", "category": "museum", "coords": [8.327893, 47.055759]}, {"name": "simgalerie", "text": "Modern művészeti galéria Luzernben, amely helyi és nemzetközi művészeknek kínál platformot.", "category": "museum", "coords": [8.312404, 47.043439]}, {"name": "Elephanthaus", "text": "Történelmi épület Luzernben, amelyet ma művészeti és kulturális rendezvények helyszíneként használnak.", "category": "museum", "coords": [8.308782, 47.043989]}, {"name": "Vierwaldstättersee", "text": "A Luzern melletti Vierwaldstätter-tó látványos környezetet biztosít a kirándulásokhoz és vízi sportokhoz.", "category": "natural", "coords": [8.451902, 46.985428]}, {"name": "Rotsee", "text": "A Luzern melletti Rotsee természeti szépségéről és evezős versenyeiről híres.", "category": "natural", "coords": [8.314276, 47.069701]}, {"name": "Spielplatz Militärstrasse", "text": "A luzerni Militärstrasse játszótér helyet biztosít a gyerekeknek a játékhoz és mozgáshoz a városnegyedben.", "category": "family", "coords": [8.297475, 47.053642]}, {"name": "Lidospielplatz", "text": "A luzerni Lidospielplatz közvetlenül a tóparton található, és vonzó játékokat kínál a gyerekeknek.", "category": "family", "coords": [8.335754, 47.050437]}, {"name": "Dammgärtli", "text": "A luzerni Dammgärtli egy kicsi, barátságos játszótér a környékbeli gyerekeknek.", "category": "family", "coords": [8.292344, 47.054684]}, {"name": "Spielplatz Inseli", "text": "A luzerni Inseli játszótér közvetlen tóparti kilátással kínál játékélményt a gyerekeknek.", "category": "family", "coords": [8.314542, 47.049342]}, {"name": "Spielplatz Bleichergärtli", "text": "A luzerni Bleichergärtli játszótér változatos mászófalakat és játékeszközöket kínál.", "category": "family", "coords": [8.306539, 47.043802]}, {"name": "Minigolfanlage Sonnenberg", "text": "A luzerni Sonnenberg minigolfpálya szép kilátással kínál kikapcsolódást az egész családnak.", "category": "family", "coords": [8.274031, 47.044089]}, {"name": "Spielplatz Reusszopf", "text": "A luzerni Reusszopf játszótér vonzó játéklehetőségeket kínál a gyerekeknek közvetlenül a folyóparton.", "category": "family", "coords": [8.284702, 47.064697]}, {"name": "Parkbad", "text": "A luzerni Parkbad az úszófelület mellett szárazföldi játszóhelyeket is biztosít a gyerekeknek.", "category": "family", "coords": [8.285817, 47.030659]}, {"name": "Gabeldingen", "text": "A luzerni Gabeldingen csendes helyen lévő játszóteret kínál a nyugodt szabadtéri játékhoz.", "category": "family", "coords": [8.280641, 47.040751]}, {"name": "Lido Minigolf", "text": "A svájci Luzernben található Lido Minigolf hangulatos szabadidős élményt nyújt a Vierwaldstätti-tó közelében. A családbarát légkör vidám és aktív órákról gondoskodik a friss levegőn. Itt a közös játék és a minigolf adta örömök állnak a középpontban. A látogatást kiválóan meg lehet koronázni egy tóparti sétával.", "category": "family", "coords": [8.336912, 47.051411]}, {"name": "Spielplatz Täschmatt", "text": "A luzerni Spielplatz Täschmatt ideális helyszín egy családi kikapcsolódáshoz a gyerekekkel.", "category": "family", "coords": [8.280752, 47.065147]}, {"name": "Spielplatz Mettlen", "text": "A luzerni Spielplatz Mettlen változatos játéklehetőségeket kínál a gyermekek számára.", "category": "family", "coords": [8.285053, 47.029287]}, {"name": "Schwimmhalle Krauer", "text": "Fedett uszoda Luzernben sportoláshoz és családi kikapcsolódáshoz.", "category": "family", "coords": [8.28082, 47.032632]}, {"name": "Schwimmbad Schmiedhof", "text": "Nyilvános úszómedence Luzernben a családi vízi szórakozáshoz.", "category": "family", "coords": [8.33227, 47.076115]}, {"name": "Spa Centre", "text": "Wellnessközpont Luzernben a pihenéshez és kikapcsolódáshoz.", "category": "family", "coords": [8.301428, 47.04875]}, {"name": "Mooshüsli", "text": "Vízi park Luzernben, különféle attrakciókkal családok számára.", "category": "family", "coords": [8.287368, 47.078938]}, {"name": "Rotsee-Badi Ebikon", "text": "Nyilvános fürdő a Rotsee-nél, Luzern közelében, úszáshoz és pihenéshez.", "category": "family", "coords": [8.324872, 47.07391]}, {"name": "Hirschpark Luzern", "text": "Vadaspark Luzernben sétákhoz és állatmegfigyelésekhez.", "category": "family", "coords": [8.29183, 47.058004]}], "ro": [{"name": "Kunstmuseum Luzern", "text": "Un muzeu de artă important din Lucerna, situat în clădirea modernă KKL.", "category": "museum", "coords": [8.311666, 47.050437]}, {"name": "Bourbaki Panorama", "text": "O pictură circulară monumentală care înfățișează trecerea armatei franceze Bourbaki.", "category": "museum", "coords": [8.311226, 47.056958]}, {"name": "Zivilschutzanlage Sonnenberg", "text": "O fostă instalație de protecție civilă din tunelul autostrăzii, care poate fi vizitată astăzi ca muzeu.", "category": "museum", "coords": [8.296638, 47.046464]}, {"name": "Museum im Bellpark", "text": "Un muzeu de fotografie și artă, găzduit într-o vilă istorică din Kriens.", "category": "museum", "coords": [8.282842, 47.034507]}, {"name": "Gletschergarten Luzern", "text": "Un monument natural cu marmite glaciare din epoca de gheață și un labirint de oglinzi.", "category": "museum", "coords": [8.310689, 47.058856]}, {"name": "Verkehrshaus der Schweiz", "text": "Cel mai vizitat muzeu din Elveția prezintă o colecție vastă despre istoria transportului și a mobilității.", "category": "museum", "coords": [8.336482, 47.052794]}, {"name": "Kleintheater", "text": "Un teatru mic și renumit din Lucerna, care oferă o scenă pentru cabaret, teatru și muzică.", "category": "cultural", "coords": [8.308516, 47.046009]}, {"name": "Franziskanerkirche", "text": "Această importantă biserică medievală a unui ordin mendicant este cunoscută pentru arhitectura sa gotică.", "category": "religious", "coords": [8.303472, 47.049666]}, {"name": "Matthäuskirche", "text": "O biserică evanghelică-reformată din Lucerna, care servește ca loc important pentru slujbe și concerte.", "category": "religious", "coords": [8.309313, 47.054405]}, {"name": "Kirche St. Karl", "text": "O biserică catolică marcantă din Lucerna, care impresionează prin arhitectura sa modernă și arta sacră.", "category": "religious", "coords": [8.292434, 47.055661]}, {"name": "St. Leodegar im Hof (Hofkirche)", "text": "Splendida biserică colegială cu turnurile sale gemene este considerată unul dintre cele mai importante simboluri din Lucerna.", "category": "religious", "coords": [8.314081, 47.055601]}, {"name": "Rathaussteg", "text": "Acest pod pietonal peste râul Reuss face legătura între orașul vechi și Theaterplatz.", "category": "landmark", "coords": [8.306038, 47.051297]}, {"name": "Wasserturm", "text": "Turnul octogonal face parte din celebrul pod Kapellbrücke și a servit odinioară ca turn de veghe și arhivă.", "category": "tower", "coords": [8.307294, 47.051268]}, {"name": "Dreilindenpark", "text": "Un parc vast situat pe o colină, apreciat pentru liniștea sa și vederea spre bazinul lacului.", "category": "park", "coords": [8.321661, 47.061341]}, {"name": "Männliturm", "text": "Unul dintre cele nouă turnuri ale zidului Musegg, care este deschis publicului și oferă o vedere spectaculoasă.", "category": "natural", "coords": [8.300824, 47.053501]}, {"name": "Sammlung Rosengart", "text": "Acest muzeu de artă găzduiește o colecție importantă de lucrări semnate de Pablo Picasso și Paul Klee.", "category": "museum", "coords": [8.307317, 47.049685]}, {"name": "Museum Luzern", "text": "Un muzeu din Lucerna dedicat istoriei locale și temelor culturale ale regiunii.", "category": "museum", "coords": [8.300968, 47.051713]}, {"name": "Richard Wagner Museum", "text": "Fosta reședință a compozitorului expune obiecte personale și documente din viața sa petrecută în Lucerna.", "category": "museum", "coords": [8.329041, 47.042389]}, {"name": "Landsitz Hünenberg", "text": "O proprietate istorică din Lucerna, considerată un exemplu al arhitecturii nobiliare din regiune.", "category": "castle", "coords": [8.318211, 47.067311]}, {"name": "Schlössli Schönegg", "text": "O clădire asemănătoare unui castel din Lucerna, care impresionează prin locația și arhitectura sa pitorească.", "category": "castle", "coords": [8.297247, 47.050609]}, {"name": "Altes Bahnhofstor", "text": "Portalul rămas al vechii gări din Lucerna, care stă astăzi ca monument în piața gării.", "category": "historical", "coords": [8.310208, 47.050745]}, {"name": "Galluskirche", "text": "O biserică fermecătoare din Lucerna, care servește ca loc de liniște și rugăciune.", "category": "religious", "coords": [8.279287, 47.032868]}, {"name": "Mariahilfkirche", "text": "O biserică catolică din Lucerna, cunoscută pentru atmosfera sa sacră și activitatea comunitară.", "category": "religious", "coords": [8.306415, 47.054406]}, {"name": "Peterskapelle", "text": "Cea mai veche biserică din orașul Lucerna, situată direct în Kapellplatz, este un loc spiritual important.", "category": "religious", "coords": [8.307932, 47.052524]}, {"name": "Pauluskirche", "text": "O biserică marcantă din Lucerna, care reprezintă un centru important pentru viața bisericească din cartier.", "category": "religious", "coords": [8.303106, 47.042004]}, {"name": "Kirche St. Maria", "text": "Această biserică este un loc de rugăciune și face parte din peisajul ecleziastic divers al Lucernei.", "category": "religious", "coords": [8.28558, 47.070905]}, {"name": "Kirche St. Philipp Neri", "text": "Un lăcaș de cult din Lucerna, deschis comunității pentru slujbe și reflecție.", "category": "religious", "coords": [8.282968, 47.064739]}, {"name": "Bruder Klaus", "text": "O biserică catolică modernă din Lucerna, dedicată sfântului național al Elveției.", "category": "religious", "coords": [8.290832, 47.033358]}, {"name": "St. Michael", "text": "Una dintre bisericile din Lucerna, care servește ca loc important de întâlnire pentru credincioși și comunitatea locală.", "category": "religious", "coords": [8.312021, 47.037714]}, {"name": "Kirche Weinbergli", "text": "O biserică de cartier din Lucerna, care oferă spațiu pentru slujbe și activități sociale.", "category": "religious", "coords": [8.31823, 47.038682]}, {"name": "Markuskirche", "text": "Această biserică este o parte integrantă a vieții religioase din Lucerna.", "category": "religious", "coords": [8.316507, 47.055275]}, {"name": "Kirche St. Anton", "text": "O biserică parohială catolică din Lucerna, care se remarcă prin arhitectura sa și serviciile comunitare.", "category": "religious", "coords": [8.323278, 47.039863]}, {"name": "Der MaiHof", "text": "Un centru de întâlnire și spațiu bisericesc din Lucerna, care simbolizează deschiderea și comunitatea.", "category": "religious", "coords": [8.308857, 47.063419]}, {"name": "Karl-Borromäus-Kapelle", "text": "O mică capelă din Lucerna, care invită la reculegere și rugăciune.", "category": "religious", "coords": [8.293574, 47.056082]}, {"name": "Lukaskirche", "text": "O biserică evanghelică marcantă din Lucerna, cunoscută pentru designul său modern și acustica bună.", "category": "religious", "coords": [8.30875, 47.048054]}, {"name": "Jesuitenkirche", "text": "Prima mare biserică barocă din Elveția impresionează prin decorul său interior somptuos.", "category": "religious", "coords": [8.305126, 47.050441]}, {"name": "St. Johannes", "text": "O biserică catolică din Lucerna, care servește ca loc de reflecție și viață religioasă.", "category": "religious", "coords": [8.345125, 47.055543]}, {"name": "Alpineum museum", "text": "Un muzeu din Lucerna care prezintă lumea Alpilor și a ghețarilor prin diorame 3D mari.", "category": "landmark", "coords": [8.310419, 47.057918]}, {"name": "Allenwindenturm", "text": "Unul dintre turnurile istorice ale zidului Musegg, care definește peisajul urban al Lucernei.", "category": "tower", "coords": [8.307441, 47.055194]}, {"name": "Luegislandturm", "text": "Un turn de veghe marcant al zidului Musegg, cu un acoperiș ascuțit caracteristic.", "category": "tower", "coords": [8.302149, 47.053859]}, {"name": "Nölliturm", "text": "Cel mai vestic turn al zidului Musegg, situat direct pe malul râului Reuss.", "category": "tower", "coords": [8.299541, 47.053216]}, {"name": "Seebrücke Luzern", "text": "Cel mai important pod rutier din Lucerna, care face legătura între piața gării și zona Schwanenplatz.", "category": "landmark", "coords": [8.309062, 47.052065]}, {"name": "Seeburgturm", "text": "Un turn istoric de pe malul lacului, care a aparținut odinioară unui parc privat.", "category": "tower", "coords": [8.343189, 47.050534]}, {"name": "Alter Friedhof", "text": "Un fost cimitir, utilizat astăzi ca parc liniștit și loc de comemorare.", "category": "park", "coords": [8.315734, 47.056936]}, {"name": "Gameorama", "text": "Un muzeu interactiv din Lucerna care face accesibilă istoria jocurilor de societate și video.", "category": "museum", "coords": [8.301024, 47.050745]}, {"name": "Swiss Chocolate Adventure", "text": "O lume multimedia la Muzeul Transporturilor, care prezintă drumul bobului de cacao până la ciocolata elvețiană.", "category": "museum", "coords": [8.335192, 47.053405]}, {"name": "Haus der Instrumente", "text": "Un muzeu din Lucerna care prezintă o colecție diversă de instrumente muzicale istorice.", "category": "museum", "coords": [8.296624, 47.030849]}, {"name": "Puppenhausmuseum Luzern", "text": "Acest muzeu expune o colecție curatoriată cu drag de căsuțe de păpuși istorice și jucării.", "category": "museum", "coords": [8.327893, 47.055759]}, {"name": "simgalerie", "text": "O galerie de artă modernă din Lucerna care oferă o platformă artiștilor locali și internaționali.", "category": "museum", "coords": [8.312404, 47.043439]}, {"name": "Elephanthaus", "text": "O clădire istorică din Lucerna, utilizată astăzi ca spațiu pentru artă și evenimente culturale.", "category": "museum", "coords": [8.308782, 47.043989]}, {"name": "Vierwaldstättersee", "text": "Lacul Lucerna de lângă Lucerna oferă un cadru spectaculos pentru excursii și sporturi nautice.", "category": "natural", "coords": [8.451902, 46.985428]}, {"name": "Rotsee", "text": "Rotsee de lângă Lucerna este cunoscut pentru frumusețea sa naturală și ca loc de desfășurare pentru regate de canotaj.", "category": "natural", "coords": [8.314276, 47.069701]}, {"name": "Spielplatz Militärstrasse", "text": "Locul de joacă Militärstrasse din Lucerna oferă copiilor spațiu pentru mișcare și joacă în cartier.", "category": "family", "coords": [8.297475, 47.053642]}, {"name": "Lidospielplatz", "text": "Locul de joacă Lido din Lucerna este situat direct pe malul lacului și oferă copiilor echipamente atractive.", "category": "family", "coords": [8.335754, 47.050437]}, {"name": "Dammgärtli", "text": "Dammgärtli din Lucerna este un loc de joacă mic și primitor pentru copiii din zonă.", "category": "family", "coords": [8.292344, 47.054684]}, {"name": "Spielplatz Inseli", "text": "Locul de joacă Inseli din Lucerna oferă copiilor distracție cu vedere directă la lac.", "category": "family", "coords": [8.314542, 47.049342]}, {"name": "Spielplatz Bleichergärtli", "text": "Locul de joacă Bleichergärtli din Lucerna oferă diverse posibilități de cățărare și echipamente de joacă.", "category": "family", "coords": [8.306539, 47.043802]}, {"name": "Minigolfanlage Sonnenberg", "text": "Terenul de minigolf Sonnenberg din Lucerna oferă distracție pentru întreaga familie, având o priveliște frumoasă.", "category": "family", "coords": [8.274031, 47.044089]}, {"name": "Spielplatz Reusszopf", "text": "Locul de joacă Reusszopf din Lucerna oferă copiilor posibilități atractive de joacă direct pe malul râului.", "category": "family", "coords": [8.284702, 47.064697]}, {"name": "Parkbad", "text": "Parkbad din Lucerna oferă, pe lângă zona de înot, și spații de joacă pentru copii pe uscat.", "category": "family", "coords": [8.285817, 47.030659]}, {"name": "Gabeldingen", "text": "Gabeldingen din Lucerna oferă un loc de joacă într-o locație liniștită pentru joacă relaxată în aer liber.", "category": "family", "coords": [8.280641, 47.040751]}, {"name": "Lido Minigolf", "text": "Lido Minigolf din Lucerna, Elveția, oferă o experiență de agrement fermecătoare, nu departe de Lacul celor Patru Cantoane. Atmosfera favorabilă familiilor asigură ore vesele și active în aer liber. Aici, jocul împreună și distracția la minigolf sunt în centrul șederii. O vizită poate fi completată perfect cu o plimbare ulterioară pe malul lacului.", "category": "family", "coords": [8.336912, 47.051411]}, {"name": "Spielplatz Täschmatt", "text": "Locul de joacă Täschmatt din Lucerna este o destinație frumoasă pentru o ieșire în familie cu copiii.", "category": "family", "coords": [8.280752, 47.065147]}, {"name": "Spielplatz Mettlen", "text": "Locul de joacă Mettlen din Lucerna oferă diverse posibilități de joacă pentru copii.", "category": "family", "coords": [8.285053, 47.029287]}, {"name": "Schwimmhalle Krauer", "text": "O piscină acoperită în Lucerna pentru înot sportiv și petrecerea timpului liber în familie.", "category": "family", "coords": [8.28082, 47.032632]}, {"name": "Schwimmbad Schmiedhof", "text": "O piscină publică în Lucerna pentru distracție în apă cu familia.", "category": "family", "coords": [8.33227, 47.076115]}, {"name": "Spa Centre", "text": "Un centru spa în Lucerna pentru ore de relaxare și destindere.", "category": "family", "coords": [8.301428, 47.04875]}, {"name": "Mooshüsli", "text": "Un parc acvatic în Lucerna cu diverse atracții pentru familii.", "category": "family", "coords": [8.287368, 47.078938]}, {"name": "Rotsee-Badi Ebikon", "text": "O baie publică pe Rotsee lângă Lucerna pentru înot și relaxare.", "category": "family", "coords": [8.324872, 47.07391]}, {"name": "Hirschpark Luzern", "text": "Un parc de cerbi în Lucerna pentru plimbări și observații de animale.", "category": "family", "coords": [8.29183, 47.058004]}], "en": [{"name": "Kunstmuseum Luzern", "text": "A major art museum in Lucerne located in the modern KKL building.", "category": "museum", "coords": [8.311666, 47.050437]}, {"name": "Bourbaki Panorama", "text": "A monumental circular painting depicting the crossing of the French Bourbaki army.", "category": "museum", "coords": [8.311226, 47.056958]}, {"name": "Zivilschutzanlage Sonnenberg", "text": "A former civil defense facility in the motorway tunnel, now open to the public as a museum.", "category": "museum", "coords": [8.296638, 47.046464]}, {"name": "Museum im Bellpark", "text": "A museum for photography and art housed in a historic villa in Kriens.", "category": "museum", "coords": [8.282842, 47.034507]}, {"name": "Glacier garden", "text": "A natural monument featuring ice age glacial potholes and a mirror labyrinth.", "category": "museum", "coords": [8.310689, 47.058856]}, {"name": "Swiss Museum of Transport", "text": "Switzerland's most visited museum features an extensive collection dedicated to the history of transport and mobility.", "category": "museum", "coords": [8.336482, 47.052794]}, {"name": "Kleintheater", "text": "A well-known intimate theatre in Lucerne providing a stage for cabaret, drama, and music.", "category": "cultural", "coords": [8.308516, 47.046009]}, {"name": "Franziskanerkirche", "text": "This significant medieval mendicant church is known for its Gothic architecture and rich interior.", "category": "religious", "coords": [8.303472, 47.049666]}, {"name": "Matthäuskirche", "text": "An Evangelical Reformed church in Lucerne that serves as an important venue for worship and concerts.", "category": "religious", "coords": [8.309313, 47.054405]}, {"name": "Kirche St. Karl", "text": "A striking Catholic church in Lucerne, notable for its modern architecture and sacred art.", "category": "religious", "coords": [8.292434, 47.055661]}, {"name": "St. Leodegar im Hof (Hofkirche)", "text": "The magnificent collegiate church with its iconic twin towers is one of Lucerne's most important landmarks.", "category": "religious", "coords": [8.314081, 47.055601]}, {"name": "Rathaussteg Bridge", "text": "This pedestrian bridge over the Reuss river connects the old town with the Theaterplatz.", "category": "landmark", "coords": [8.306038, 47.051297]}, {"name": "Wasserturm", "text": "The octagonal tower is part of the famous Chapel Bridge and once served as a watchtower and archive.", "category": "tower", "coords": [8.307294, 47.051268]}, {"name": "Dreilindenpark", "text": "A spacious hillside park appreciated for its tranquility and views over the lake basin.", "category": "park", "coords": [8.321661, 47.061341]}, {"name": "Männliturm", "text": "One of the nine towers of the Musegg Wall that is open to the public and offers a great viewpoint.", "category": "natural", "coords": [8.300824, 47.053501]}, {"name": "Rosengart Collection", "text": "This art museum houses a significant collection of works by Pablo Picasso and Paul Klee.", "category": "museum", "coords": [8.307317, 47.049685]}, {"name": "Museum Luzern", "text": "A museum in Lucerne dedicated to the local history and cultural themes of the region.", "category": "museum", "coords": [8.300968, 47.051713]}, {"name": "Richard Wagner Museum", "text": "The composer's former residence displays personal items and documents from his life in Lucerne.", "category": "museum", "coords": [8.329041, 47.042389]}, {"name": "Landsitz Hünenberg", "text": "A historic estate in Lucerne serving as an example of the region's stately architecture.", "category": "castle", "coords": [8.318211, 47.067311]}, {"name": "Schlössli Schönegg", "text": "A castle-like building in Lucerne, notable for its picturesque location and architecture.", "category": "castle", "coords": [8.297247, 47.050609]}, {"name": "Altes Bahnhofstor", "text": "The remaining portal of Lucerne's old railway station, now standing as a monument on the station square.", "category": "historical", "coords": [8.310208, 47.050745]}, {"name": "Galluskirche", "text": "A charming church in Lucerne that serves as a place of peace and prayer.", "category": "religious", "coords": [8.279287, 47.032868]}, {"name": "Mariahilfkirche", "text": "A Catholic church in Lucerne known for its sacred atmosphere and community work.", "category": "religious", "coords": [8.306415, 47.054406]}, {"name": "Peterskapelle", "text": "The oldest church in the city of Lucerne, located on Kapellplatz, is a significant spiritual site.", "category": "religious", "coords": [8.307932, 47.052524]}, {"name": "Pauluskirche", "text": "A striking church in Lucerne that serves as an important center for religious life in the neighborhood.", "category": "religious", "coords": [8.303106, 47.042004]}, {"name": "Kirche St. Maria", "text": "This church is a place of worship and part of the diverse religious landscape of Lucerne.", "category": "religious", "coords": [8.28558, 47.070905]}, {"name": "Kirche St. Philipp Neri", "text": "A sacred site in Lucerne open to the community for worship and reflection.", "category": "religious", "coords": [8.282968, 47.064739]}, {"name": "Bruder Klaus", "text": "A modern Catholic church in Lucerne dedicated to the Swiss national saint.", "category": "religious", "coords": [8.290832, 47.033358]}, {"name": "St. Michael", "text": "One of the churches in Lucerne serving as an important meeting point for believers and the local community.", "category": "religious", "coords": [8.312021, 47.037714]}, {"name": "Kirche Weinbergli", "text": "A neighborhood church in Lucerne providing space for worship and social activities.", "category": "religious", "coords": [8.31823, 47.038682]}, {"name": "Markuskirche", "text": "This church is an integral part of the religious life in Lucerne.", "category": "religious", "coords": [8.316507, 47.055275]}, {"name": "Kirche St. Anton", "text": "A Catholic parish church in Lucerne notable for its architecture and community services.", "category": "religious", "coords": [8.323278, 47.039863]}, {"name": "Der MaiHof", "text": "A meeting center and church space in Lucerne representing openness and community.", "category": "religious", "coords": [8.308857, 47.063419]}, {"name": "Karl-Borromäus-Kapelle", "text": "A small chapel in Lucerne inviting quiet reflection and prayer.", "category": "religious", "coords": [8.293574, 47.056082]}, {"name": "Lukaskirche", "text": "A striking Evangelical church in Lucerne, known for its modern design and excellent acoustics.", "category": "religious", "coords": [8.30875, 47.048054]}, {"name": "Jesuitenkirche", "text": "The first large Baroque church in Switzerland, impressive for its magnificent interior decoration.", "category": "religious", "coords": [8.305126, 47.050441]}, {"name": "St. Johannes", "text": "A Catholic church in Lucerne serving as a place for reflection and liturgical life.", "category": "religious", "coords": [8.345125, 47.055543]}, {"name": "Alpineum museum", "text": "A museum in Lucerne displaying the world of the Alps and glaciers through large 3D dioramas.", "category": "landmark", "coords": [8.310419, 47.057918]}, {"name": "Allenwindenturm", "text": "One of the historic towers of the Musegg Wall that characterizes the cityscape of Lucerne.", "category": "tower", "coords": [8.307441, 47.055194]}, {"name": "Luegislandturm", "text": "A striking watchtower of the Musegg Wall with a characteristic pointed roof.", "category": "tower", "coords": [8.302149, 47.053859]}, {"name": "Nölliturm", "text": "The westernmost tower of the Musegg Wall, situated directly on the banks of the Reuss river.", "category": "tower", "coords": [8.299541, 47.053216]}, {"name": "Seebrücke Luzern", "text": "The main road bridge in Lucerne connecting the railway station square with the Schwanenplatz area.", "category": "landmark", "coords": [8.309062, 47.052065]}, {"name": "Seeburgturm", "text": "A historic tower on the lakeside that once belonged to a private park.", "category": "tower", "coords": [8.343189, 47.050534]}, {"name": "Alter Friedhof", "text": "A former burial ground now used as a quiet park and place of remembrance.", "category": "park", "coords": [8.315734, 47.056936]}, {"name": "Gameorama", "text": "An interactive museum in Lucerne where the history of board and video games can be experienced.", "category": "museum", "coords": [8.301024, 47.050745]}, {"name": "Swiss Chocolate Adventure", "text": "A multimedia experience at the Museum of Transport showing the journey of the cocoa bean to Swiss chocolate.", "category": "museum", "coords": [8.335192, 47.053405]}, {"name": "Haus der Instrumente", "text": "A museum in Lucerne presenting a diverse collection of historic musical instruments.", "category": "museum", "coords": [8.296624, 47.030849]}, {"name": "Puppenhausmuseum Luzern", "text": "This museum displays a lovingly curated collection of historic dollhouses and toys.", "category": "museum", "coords": [8.327893, 47.055759]}, {"name": "simgalerie", "text": "A gallery for modern art in Lucerne providing a platform for local and international artists.", "category": "museum", "coords": [8.312404, 47.043439]}, {"name": "Elephanthaus", "text": "A historic building in Lucerne now used as a space for art and cultural events.", "category": "museum", "coords": [8.308782, 47.043989]}, {"name": "Lake Lucerne", "text": "Lake Lucerne near Lucerne offers a spectacular setting for outings and water sports.", "category": "natural", "coords": [8.451902, 46.985428]}, {"name": "Rotsee", "text": "Rotsee near Lucerne is known for its natural beauty and as a venue for rowing regattas.", "category": "natural", "coords": [8.314276, 47.069701]}, {"name": "Spielplatz Militärstrasse", "text": "The Militärstrasse playground in Lucerne offers children space for exercise and play in the neighborhood.", "category": "family", "coords": [8.297475, 47.053642]}, {"name": "Lidospielplatz", "text": "The Lido playground in Lucerne is located right by the lake and offers attractive play equipment for children.", "category": "family", "coords": [8.335754, 47.050437]}, {"name": "Dammgärtli", "text": "Dammgärtli in Lucerne is a small, friendly playground for children from the area.", "category": "family", "coords": [8.292344, 47.054684]}, {"name": "Spielplatz Inseli", "text": "The Inseli playground in Lucerne offers children play fun with a direct view of the lake.", "category": "family", "coords": [8.314542, 47.049342]}, {"name": "Spielplatz Bleichergärtli", "text": "The Bleichergärtli playground in Lucerne offers various climbing opportunities and play equipment.", "category": "family", "coords": [8.306539, 47.043802]}, {"name": "Minigolfanlage Sonnenberg", "text": "The Sonnenberg miniature golf course in Lucerne offers leisure fun for the whole family with a beautiful view.", "category": "family", "coords": [8.274031, 47.044089]}, {"name": "Spielplatz Reusszopf", "text": "The Reusszopf playground in Lucerne offers children attractive play opportunities right on the riverbank.", "category": "family", "coords": [8.284702, 47.064697]}, {"name": "Parkbad", "text": "The Parkbad in Lucerne offers play areas for children on land alongside the swimming area.", "category": "family", "coords": [8.285817, 47.030659]}, {"name": "Gabeldingen", "text": "Gabeldingen in Lucerne offers a playground in a quiet location for relaxed outdoor play.", "category": "family", "coords": [8.280641, 47.040751]}, {"name": "Lido Minigolf", "text": "Lido Minigolf in Lucerne, Switzerland, offers a charming leisure experience not far from Lake Lucerne. The family-friendly atmosphere ensures cheerful and active hours in the fresh air. Here, playing together and the fun of mini-golf are at the center of the stay. A visit can be perfectly rounded off with a subsequent walk along the lake shore.", "category": "family", "coords": [8.336912, 47.051411]}, {"name": "Spielplatz Täschmatt", "text": "The Spielplatz Täschmatt in Lucerne is a lovely destination for a family outing with children.", "category": "family", "coords": [8.280752, 47.065147]}, {"name": "Spielplatz Mettlen", "text": "Spielplatz Mettlen in Lucerne offers various play opportunities for children.", "category": "family", "coords": [8.285053, 47.029287]}, {"name": "Schwimmhalle Krauer", "text": "An indoor swimming pool in Lucerne for sports and family leisure.", "category": "family", "coords": [8.28082, 47.032632]}, {"name": "Schwimmbad Schmiedhof", "text": "A public swimming pool in Lucerne for water fun with the family.", "category": "family", "coords": [8.33227, 47.076115]}, {"name": "Spa Centre", "text": "A spa centre in Lucerne for relaxing hours and relaxation.", "category": "family", "coords": [8.301428, 47.04875]}, {"name": "Mooshüsli", "text": "A water park in Lucerne with various attractions for families.", "category": "family", "coords": [8.287368, 47.078938]}, {"name": "Rotsee-Badi Ebikon", "text": "A public bath on Rotsee near Lucerne for swimming and relaxation.", "category": "family", "coords": [8.324872, 47.07391]}, {"name": "Hirschpark Luzern", "text": "A deer park in Lucerne for walks and animal observations.", "category": "family", "coords": [8.29183, 47.058004]}]},
+    id: "city-lucerne", "sights": {
+      "de": [
+            {
+                  "name": "Kunstmuseum Luzern",
+                  "text": "Ein bedeutendes Kunstmuseum in Luzern, das sich im modernen KKL-Gebäude befindet.",
+                  "category": "museum",
+                  "coords": [
+                        8.311666,
+                        47.050437
+                  ]
+            },
+            {
+                  "name": "Bourbaki Panorama",
+                  "text": "Ein monumentales Rundgemälde, das den Übertritt der französischen Bourbaki-Armee zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.311226,
+                        47.056958
+                  ]
+            },
+            {
+                  "name": "Zivilschutzanlage Sonnenberg",
+                  "text": "Eine ehemalige Zivilschutzanlage im Autobahntunnel, die heute als Museum besichtigt werden kann.",
+                  "category": "museum",
+                  "coords": [
+                        8.296638,
+                        47.046464
+                  ]
+            },
+            {
+                  "name": "Gletschergarten Luzern",
+                  "text": "Ein Naturdenkmal mit Gletschertöpfen aus der Eiszeit und einem Spiegellabyrinth.",
+                  "category": "museum",
+                  "coords": [
+                        8.310689,
+                        47.058856
+                  ]
+            },
+            {
+                  "name": "Verkehrshaus der Schweiz",
+                  "text": "Das meistbesuchte Museum der Schweiz zeigt eine umfangreiche Sammlung zur Geschichte des Verkehrs und der Mobilität.",
+                  "category": "museum",
+                  "coords": [
+                        8.336482,
+                        47.052794
+                  ]
+            },
+            {
+                  "name": "Kleintheater",
+                  "text": "Ein bekanntes Kleintheater in Luzern, das eine Bühne für Kabarett, Schauspiel und Musik bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        8.308516,
+                        47.046009
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Diese bedeutende mittelalterliche Bettelordenskirche ist für ihre gotische Architektur und reiche Ausstattung bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        8.303472,
+                        47.049666
+                  ]
+            },
+            {
+                  "name": "Matthäuskirche",
+                  "text": "Eine evangelisch-reformierte Kirche in Luzern, die als wichtiger Ort für Gottesdienste und Konzerte dient.",
+                  "category": "religious",
+                  "coords": [
+                        8.309313,
+                        47.054405
+                  ]
+            },
+            {
+                  "name": "Kirche St. Karl",
+                  "text": "Eine markante katholische Kirche in Luzern, die durch ihre moderne Architektur und sakrale Kunst besticht.",
+                  "category": "religious",
+                  "coords": [
+                        8.292434,
+                        47.055661
+                  ]
+            },
+            {
+                  "name": "St. Leodegar im Hof (Hofkirche)",
+                  "text": "Die prachtvolle Stiftskirche mit ihren markanten Doppeltürmen gilt als eines der wichtigsten Wahrzeichen von Luzern.",
+                  "category": "religious",
+                  "coords": [
+                        8.314081,
+                        47.055601
+                  ]
+            },
+            {
+                  "name": "Rathaussteg",
+                  "text": "Diese Fussgängerbrücke über die Reuss verbindet die Altstadt mit dem Theaterplatz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.306038,
+                        47.051297
+                  ]
+            },
+            {
+                  "name": "Wasserturm",
+                  "text": "Der achteckige Turm ist Teil der berühmten Kapellbrücke und diente einst als Wachturm und Archiv.",
+                  "category": "tower",
+                  "coords": [
+                        8.307294,
+                        47.051268
+                  ]
+            },
+            {
+                  "name": "Dreilindenpark",
+                  "text": "Eine weitläufige Parkanlage auf einem Hügel, die für ihre Ruhe und die Aussicht auf das Seebecken geschätzt wird.",
+                  "category": "park",
+                  "coords": [
+                        8.321661,
+                        47.061341
+                  ]
+            },
+            {
+                  "name": "Männliturm",
+                  "text": "Einer der neun Türme der Museggmauer, der öffentlich zugänglich ist und eine grossartige Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.300824,
+                        47.053501
+                  ]
+            },
+            {
+                  "name": "Sammlung Rosengart",
+                  "text": "Dieses Kunstmuseum beherbergt eine bedeutende Sammlung von Werken Pablo Picassos und Paul Klees.",
+                  "category": "museum",
+                  "coords": [
+                        8.307317,
+                        47.049685
+                  ]
+            },
+            {
+                  "name": "Museum Luzern",
+                  "text": "Ein Museum in Luzern, das sich der lokalen Geschichte und kulturellen Themen der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.300968,
+                        47.051713
+                  ]
+            },
+            {
+                  "name": "Richard Wagner Museum",
+                  "text": "Das ehemalige Wohnhaus des Komponisten zeigt persönliche Gegenstände und Dokumente aus seinem Leben in Luzern.",
+                  "category": "museum",
+                  "coords": [
+                        8.329041,
+                        47.042389
+                  ]
+            },
+            {
+                  "name": "Landsitz Hünenberg",
+                  "text": "Ein historisches Anwesen in Luzern, das als Beispiel für die herrschaftliche Architektur der Region gilt.",
+                  "category": "castle",
+                  "coords": [
+                        8.318211,
+                        47.067311
+                  ]
+            },
+            {
+                  "name": "Schlössli Schönegg",
+                  "text": "Ein schlossartiges Gebäude in Luzern, das durch seine malerische Lage und Architektur besticht.",
+                  "category": "castle",
+                  "coords": [
+                        8.297247,
+                        47.050609
+                  ]
+            },
+            {
+                  "name": "Altes Bahnhofstor",
+                  "text": "Das verbliebene Portal des alten Bahnhofs von Luzern steht heute als Denkmal auf dem Bahnhofplatz.",
+                  "category": "historical",
+                  "coords": [
+                        8.310208,
+                        47.050745
+                  ]
+            },
+            {
+                  "name": "Mariahilfkirche",
+                  "text": "Eine katholische Kirche in Luzern, die für ihre sakrale Atmosphäre und Gemeindearbeit bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.306415,
+                        47.054406
+                  ]
+            },
+            {
+                  "name": "Peterskapelle",
+                  "text": "Die älteste Kirche der Stadt Luzern liegt direkt am Kapellplatz und ist ein bedeutender spiritueller Ort.",
+                  "category": "religious",
+                  "coords": [
+                        8.307932,
+                        47.052524
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "Eine markante Kirche in Luzern, die ein wichtiges Zentrum für das kirchliche Leben im Quartier darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        8.303106,
+                        47.042004
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "Eine der Kirchen in Luzern, die als wichtiger Treffpunkt für Gläubige und die lokale Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        8.312021,
+                        47.037714
+                  ]
+            },
+            {
+                  "name": "Kirche Weinbergli",
+                  "text": "Eine Quartierkirche in Luzern, die Raum für Gottesdienste und soziale Aktivitäten bietet.",
+                  "category": "religious",
+                  "coords": [
+                        8.31823,
+                        47.038682
+                  ]
+            },
+            {
+                  "name": "Markuskirche",
+                  "text": "Diese Kirche ist ein fester Bestandteil des religiösen Lebens in Luzern.",
+                  "category": "religious",
+                  "coords": [
+                        8.316507,
+                        47.055275
+                  ]
+            },
+            {
+                  "name": "Kirche St. Anton",
+                  "text": "Eine katholische Pfarrkirche in Luzern, die durch ihre Architektur und Gemeindeangebote überzeugt.",
+                  "category": "religious",
+                  "coords": [
+                        8.323278,
+                        47.039863
+                  ]
+            },
+            {
+                  "name": "Der MaiHof",
+                  "text": "Ein Begegnungszentrum und Kirchenraum in Luzern, der für Offenheit und Gemeinschaft steht.",
+                  "category": "religious",
+                  "coords": [
+                        8.308857,
+                        47.063419
+                  ]
+            },
+            {
+                  "name": "Karl-Borromäus-Kapelle",
+                  "text": "Eine kleine Kapelle in Luzern, die zur stillen Einkehr und zum Gebet einlädt.",
+                  "category": "religious",
+                  "coords": [
+                        8.293574,
+                        47.056082
+                  ]
+            },
+            {
+                  "name": "Lukaskirche",
+                  "text": "Eine markante evangelische Kirche in Luzern, bekannt für ihre moderne Gestaltung und gute Akustik.",
+                  "category": "religious",
+                  "coords": [
+                        8.30875,
+                        47.048054
+                  ]
+            },
+            {
+                  "name": "Jesuitenkirche",
+                  "text": "Die erste grosse Barockkirche der Schweiz beeindruckt durch ihre prunkvolle Innenausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        8.305126,
+                        47.050441
+                  ]
+            },
+            {
+                  "name": "Alpineum museum",
+                  "text": "Ein Museum in Luzern, das mit grossen 3D-Dioramen die Welt der Alpen und Gletscher zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        8.310419,
+                        47.057918
+                  ]
+            },
+            {
+                  "name": "Allenwindenturm",
+                  "text": "Einer der historischen Türme der Museggmauer, der das Stadtbild von Luzern prägt.",
+                  "category": "tower",
+                  "coords": [
+                        8.307441,
+                        47.055194
+                  ]
+            },
+            {
+                  "name": "Luegislandturm",
+                  "text": "Ein markanter Wachturm der Museggmauer mit einem charakteristischen Spitzdach.",
+                  "category": "tower",
+                  "coords": [
+                        8.302149,
+                        47.053859
+                  ]
+            },
+            {
+                  "name": "Nölliturm",
+                  "text": "Der westlichste Turm der Museggmauer steht direkt am Reussufer.",
+                  "category": "tower",
+                  "coords": [
+                        8.299541,
+                        47.053216
+                  ]
+            },
+            {
+                  "name": "Seebrücke Luzern",
+                  "text": "Die wichtigste Strassenbrücke in Luzern verbindet den Bahnhofplatz mit der Schwanenplatz-Seite.",
+                  "category": "landmark",
+                  "coords": [
+                        8.309062,
+                        47.052065
+                  ]
+            },
+            {
+                  "name": "Seeburgturm",
+                  "text": "Ein historischer Turm am Seeufer, der einst zu einer privaten Parkanlage gehörte.",
+                  "category": "tower",
+                  "coords": [
+                        8.343189,
+                        47.050534
+                  ]
+            },
+            {
+                  "name": "Alter Friedhof",
+                  "text": "Eine ehemalige Begräbnisstätte, die heute als ruhiger Park und Ort des Gedenkens genutzt wird.",
+                  "category": "park",
+                  "coords": [
+                        8.315734,
+                        47.056936
+                  ]
+            },
+            {
+                  "name": "Gameorama",
+                  "text": "Ein interaktives Museum in Luzern, das die Geschichte der Gesellschafts- und Videospiele erlebbar macht.",
+                  "category": "museum",
+                  "coords": [
+                        8.301024,
+                        47.050745
+                  ]
+            },
+            {
+                  "name": "Swiss Chocolate Adventure",
+                  "text": "Eine multimediale Erlebniswelt im Verkehrshaus, die den Weg der Kakaobohne bis zur Schweizer Schokolade zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.335192,
+                        47.053405
+                  ]
+            },
+            {
+                  "name": "Puppenhausmuseum Luzern",
+                  "text": "Dieses Museum zeigt eine liebevoll kuratierte Sammlung von historischen Puppenhäusern und Spielzeug.",
+                  "category": "museum",
+                  "coords": [
+                        8.327893,
+                        47.055759
+                  ]
+            },
+            {
+                  "name": "simgalerie",
+                  "text": "Eine Galerie für moderne Kunst in Luzern, die lokalen und internationalen Künstlern eine Plattform bietet.",
+                  "category": "museum",
+                  "coords": [
+                        8.312404,
+                        47.043439
+                  ]
+            },
+            {
+                  "name": "Elephanthaus",
+                  "text": "Ein historisches Gebäude in Luzern, das heute als Raum für Kunst und kulturelle Veranstaltungen genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        8.308782,
+                        47.043989
+                  ]
+            },
+            {
+                  "name": "Rotsee",
+                  "text": "Der Rotsee bei Luzern ist bekannt für seine natürliche Schönheit und als Austragungsort für Ruderregatten.",
+                  "category": "natural",
+                  "coords": [
+                        8.314276,
+                        47.069701
+                  ]
+            },
+            {
+                  "name": "Spielplatz Militärstrasse",
+                  "text": "Der Spielplatz Militärstrasse in Luzern bietet Kindern Raum für Bewegung und Spiel im Stadtviertel.",
+                  "category": "family",
+                  "coords": [
+                        8.297475,
+                        47.053642
+                  ]
+            },
+            {
+                  "name": "Lidospielplatz",
+                  "text": "Der Lidospielplatz in Luzern liegt direkt am See und bietet Kindern attraktive Spielgeräte.",
+                  "category": "family",
+                  "coords": [
+                        8.335754,
+                        47.050437
+                  ]
+            },
+            {
+                  "name": "Dammgärtli",
+                  "text": "Dammgärtli in Luzern ist ein kleiner, freundlicher Spielplatz für Kinder aus der Umgebung.",
+                  "category": "family",
+                  "coords": [
+                        8.292344,
+                        47.054684
+                  ]
+            },
+            {
+                  "name": "Spielplatz Inseli",
+                  "text": "Der Spielplatz Inseli in Luzern bietet Kindern Spielspaß mit direktem Blick auf den See.",
+                  "category": "family",
+                  "coords": [
+                        8.314542,
+                        47.049342
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bleichergärtli",
+                  "text": "Der Spielplatz Bleichergärtli in Luzern bietet vielfältige Klettermöglichkeiten und Spielgeräte.",
+                  "category": "family",
+                  "coords": [
+                        8.306539,
+                        47.043802
+                  ]
+            },
+            {
+                  "name": "Lido Minigolf",
+                  "text": "Das Lido Minigolf im schweizerischen Luzern bietet ein charmantes Freizeiterlebnis unweit des Vierwaldstättersees. Die familienfreundliche Atmosphäre sorgt für fröhliche und aktive Stunden an der frischen Luft. Hier stehen das gemeinsame Spiel und der Spaß am Minigolf im Zentrum des Aufenthalts. Ein Besuch lässt sich hervorragend mit einem anschließenden Spaziergang am Seeufer abrunden.",
+                  "category": "family",
+                  "coords": [
+                        8.336912,
+                        47.051411
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Schmiedhof",
+                  "text": "Ein öffentliches Schwimmbad in Luzern für den Wasserspaß mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        8.33227,
+                        47.076115
+                  ]
+            },
+            {
+                  "name": "Spa Centre",
+                  "text": "Ein Wellnesscenter in Luzern für erholsame Stunden und Entspannung.",
+                  "category": "family",
+                  "coords": [
+                        8.301428,
+                        47.04875
+                  ]
+            },
+            {
+                  "name": "Hirschpark Luzern",
+                  "text": "Ein Wildpark in Luzern für Spaziergänge und Tierbeobachtungen.",
+                  "category": "family",
+                  "coords": [
+                        8.29183,
+                        47.058004
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kunstmuseum Luzern",
+                  "text": "Jelentős művészeti múzeum Luzernben, amely a modern KKL épületében található.",
+                  "category": "museum",
+                  "coords": [
+                        8.311666,
+                        47.050437
+                  ]
+            },
+            {
+                  "name": "Bourbaki Panorama",
+                  "text": "Monumentális körkép, amely a francia Bourbaki-hadsereg átlépését ábrázolja.",
+                  "category": "museum",
+                  "coords": [
+                        8.311226,
+                        47.056958
+                  ]
+            },
+            {
+                  "name": "Zivilschutzanlage Sonnenberg",
+                  "text": "Egykori polgári védelmi létesítmény az autópálya-alagútban, amely ma múzeumként látogatható.",
+                  "category": "museum",
+                  "coords": [
+                        8.296638,
+                        47.046464
+                  ]
+            },
+            {
+                  "name": "Gletschergarten Luzern",
+                  "text": "Természeti emlékhely jégkorszaki gleccserüstökkel és egy tükörlabirintussal.",
+                  "category": "museum",
+                  "coords": [
+                        8.310689,
+                        47.058856
+                  ]
+            },
+            {
+                  "name": "Verkehrshaus der Schweiz",
+                  "text": "Svájc leglátogatottabb múzeuma, amely a közlekedés és a mobilitás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.336482,
+                        47.052794
+                  ]
+            },
+            {
+                  "name": "Kleintheater",
+                  "text": "Luzern ismert kísérleti színháza, amely kabarénak, drámának és zenének ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        8.308516,
+                        47.046009
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Ez a jelentős középkori koldulórendi templom gótikus építészetéről és gazdag díszítéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        8.303472,
+                        47.049666
+                  ]
+            },
+            {
+                  "name": "Matthäuskirche",
+                  "text": "Evangélikus-református templom Luzernben, amely istentiszteletek és koncertek fontos helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        8.309313,
+                        47.054405
+                  ]
+            },
+            {
+                  "name": "Kirche St. Karl",
+                  "text": "Jellegzetes katolikus templom Luzernben, amely modern építészetével és szakrális művészetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        8.292434,
+                        47.055661
+                  ]
+            },
+            {
+                  "name": "St. Leodegar im Hof (Hofkirche)",
+                  "text": "A jellegzetes ikertornyaival rendelkező pompás apátsági templom Luzern egyik legfontosabb jelképe.",
+                  "category": "religious",
+                  "coords": [
+                        8.314081,
+                        47.055601
+                  ]
+            },
+            {
+                  "name": "Rathaussteg",
+                  "text": "Ez a Reuss folyón átívelő gyalogoshíd köti össze az óvárost a Theaterplatz-cal.",
+                  "category": "landmark",
+                  "coords": [
+                        8.306038,
+                        47.051297
+                  ]
+            },
+            {
+                  "name": "Wasserturm",
+                  "text": "A nyolcszögletű torony a híres Kapellbrücke része, egykor őrtoronyként és archívumként szolgált.",
+                  "category": "tower",
+                  "coords": [
+                        8.307294,
+                        47.051268
+                  ]
+            },
+            {
+                  "name": "Dreilindenpark",
+                  "text": "Egy dombtetőn fekvő tágas park, amelyet nyugalmáért és a tóra nyíló kilátásáért kedvelnek.",
+                  "category": "park",
+                  "coords": [
+                        8.321661,
+                        47.061341
+                  ]
+            },
+            {
+                  "name": "Männliturm",
+                  "text": "A Museggmauer kilenc tornyának egyike, amely látogatható és nagyszerű kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        8.300824,
+                        47.053501
+                  ]
+            },
+            {
+                  "name": "Sammlung Rosengart",
+                  "text": "Ez a művészeti múzeum Pablo Picasso és Paul Klee műveinek jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        8.307317,
+                        47.049685
+                  ]
+            },
+            {
+                  "name": "Museum Luzern",
+                  "text": "Luzerni múzeum, amely a régió helytörténetének és kulturális témáinak szenteli kiállításait.",
+                  "category": "museum",
+                  "coords": [
+                        8.300968,
+                        47.051713
+                  ]
+            },
+            {
+                  "name": "Richard Wagner Museum",
+                  "text": "A zeneszerző egykori lakóháza, amely luzerni életének személyes tárgyait és dokumentumait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.329041,
+                        47.042389
+                  ]
+            },
+            {
+                  "name": "Landsitz Hünenberg",
+                  "text": "Történelmi birtok Luzernben, amely a régió nemesi építészetének egyik példája.",
+                  "category": "castle",
+                  "coords": [
+                        8.318211,
+                        47.067311
+                  ]
+            },
+            {
+                  "name": "Schlössli Schönegg",
+                  "text": "Kastélyszerű épület Luzernben, amely festői elhelyezkedésével és építészetével tűnik ki.",
+                  "category": "castle",
+                  "coords": [
+                        8.297247,
+                        47.050609
+                  ]
+            },
+            {
+                  "name": "Altes Bahnhofstor",
+                  "text": "Luzern régi pályaudvarának megmaradt kapuja, amely ma emlékműként áll a pályaudvar előtti téren.",
+                  "category": "historical",
+                  "coords": [
+                        8.310208,
+                        47.050745
+                  ]
+            },
+            {
+                  "name": "Mariahilfkirche",
+                  "text": "Katolikus templom Luzernben, amely szakrális atmoszférájáról és közösségi munkájáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        8.306415,
+                        47.054406
+                  ]
+            },
+            {
+                  "name": "Peterskapelle",
+                  "text": "Luzern város legidősebb temploma a Kapellplatz-on található, és jelentős spirituális helyszín.",
+                  "category": "religious",
+                  "coords": [
+                        8.307932,
+                        47.052524
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "Jellegzetes templom Luzernben, amely a negyed egyházi életének fontos központja.",
+                  "category": "religious",
+                  "coords": [
+                        8.303106,
+                        47.042004
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "Luzern egyik temploma, amely a hívők és a helyi közösség fontos találkozóhelye.",
+                  "category": "religious",
+                  "coords": [
+                        8.312021,
+                        47.037714
+                  ]
+            },
+            {
+                  "name": "Kirche Weinbergli",
+                  "text": "Negyedi templom Luzernben, amely istentiszteleteknek és szociális tevékenységeknek ad helyet.",
+                  "category": "religious",
+                  "coords": [
+                        8.31823,
+                        47.038682
+                  ]
+            },
+            {
+                  "name": "Markuskirche",
+                  "text": "Ez a templom szerves része Luzern vallási életének.",
+                  "category": "religious",
+                  "coords": [
+                        8.316507,
+                        47.055275
+                  ]
+            },
+            {
+                  "name": "Kirche St. Anton",
+                  "text": "Katolikus plébániatemplom Luzernben, amely építészetével és közösségi kínálatával tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        8.323278,
+                        47.039863
+                  ]
+            },
+            {
+                  "name": "Der MaiHof",
+                  "text": "Találkozóhely és templomtér Luzernben, amely a nyitottságot és a közösséget képviseli.",
+                  "category": "religious",
+                  "coords": [
+                        8.308857,
+                        47.063419
+                  ]
+            },
+            {
+                  "name": "Karl-Borromäus-Kapelle",
+                  "text": "Kicsiny kápolna Luzernben, amely csendes elmélyülésre és imádságra hív.",
+                  "category": "religious",
+                  "coords": [
+                        8.293574,
+                        47.056082
+                  ]
+            },
+            {
+                  "name": "Lukaskirche",
+                  "text": "Jellegzetes evangélikus templom Luzernben, amely modern kialakításáról és jó akusztikájáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        8.30875,
+                        47.048054
+                  ]
+            },
+            {
+                  "name": "Jesuitenkirche",
+                  "text": "Svájc első nagy barokk temploma, amely pompás belső díszítésével nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        8.305126,
+                        47.050441
+                  ]
+            },
+            {
+                  "name": "Alpineum museum",
+                  "text": "Luzerni múzeum, amely nagy 3D-diorámákkal mutatja be az Alpok és a gleccserek világát.",
+                  "category": "landmark",
+                  "coords": [
+                        8.310419,
+                        47.057918
+                  ]
+            },
+            {
+                  "name": "Allenwindenturm",
+                  "text": "A Museggmauer egyik történelmi tornya, amely meghatározza Luzern városképét.",
+                  "category": "tower",
+                  "coords": [
+                        8.307441,
+                        47.055194
+                  ]
+            },
+            {
+                  "name": "Luegislandturm",
+                  "text": "A Museggmauer egyik jellegzetes őrtornya, karakteres csúcsos tetővel.",
+                  "category": "tower",
+                  "coords": [
+                        8.302149,
+                        47.053859
+                  ]
+            },
+            {
+                  "name": "Nölliturm",
+                  "text": "A Museggmauer legnyugatibb tornya, amely közvetlenül a Reuss partján áll.",
+                  "category": "tower",
+                  "coords": [
+                        8.299541,
+                        47.053216
+                  ]
+            },
+            {
+                  "name": "Seebrücke Luzern",
+                  "text": "Luzern legfontosabb közúti hídja, amely a pályaudvart köti össze a Schwanenplatz oldalával.",
+                  "category": "landmark",
+                  "coords": [
+                        8.309062,
+                        47.052065
+                  ]
+            },
+            {
+                  "name": "Seeburgturm",
+                  "text": "Történelmi torony a tóparton, amely egykor egy magánparkhoz tartozott.",
+                  "category": "tower",
+                  "coords": [
+                        8.343189,
+                        47.050534
+                  ]
+            },
+            {
+                  "name": "Alter Friedhof",
+                  "text": "Egykori temetkezési hely, amelyet ma csendes parkként és emlékhelyként használnak.",
+                  "category": "park",
+                  "coords": [
+                        8.315734,
+                        47.056936
+                  ]
+            },
+            {
+                  "name": "Gameorama",
+                  "text": "Interaktív múzeum Luzernben, amely a társas- és videojátékok történetét teszi átélhetővé.",
+                  "category": "museum",
+                  "coords": [
+                        8.301024,
+                        47.050745
+                  ]
+            },
+            {
+                  "name": "Swiss Chocolate Adventure",
+                  "text": "Multimédiás élményvilág a Közlekedési Múzeumban, amely a kakaóbab útját mutatja be a svájci csokoládéig.",
+                  "category": "museum",
+                  "coords": [
+                        8.335192,
+                        47.053405
+                  ]
+            },
+            {
+                  "name": "Puppenhausmuseum Luzern",
+                  "text": "Ez a múzeum történelmi babaházak és játékok gondosan válogatott gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.327893,
+                        47.055759
+                  ]
+            },
+            {
+                  "name": "simgalerie",
+                  "text": "Modern művészeti galéria Luzernben, amely helyi és nemzetközi művészeknek kínál platformot.",
+                  "category": "museum",
+                  "coords": [
+                        8.312404,
+                        47.043439
+                  ]
+            },
+            {
+                  "name": "Elephanthaus",
+                  "text": "Történelmi épület Luzernben, amelyet ma művészeti és kulturális rendezvények helyszíneként használnak.",
+                  "category": "museum",
+                  "coords": [
+                        8.308782,
+                        47.043989
+                  ]
+            },
+            {
+                  "name": "Rotsee",
+                  "text": "A Luzern melletti Rotsee természeti szépségéről és evezős versenyeiről híres.",
+                  "category": "natural",
+                  "coords": [
+                        8.314276,
+                        47.069701
+                  ]
+            },
+            {
+                  "name": "Spielplatz Militärstrasse",
+                  "text": "A luzerni Militärstrasse játszótér helyet biztosít a gyerekeknek a játékhoz és mozgáshoz a városnegyedben.",
+                  "category": "family",
+                  "coords": [
+                        8.297475,
+                        47.053642
+                  ]
+            },
+            {
+                  "name": "Lidospielplatz",
+                  "text": "A luzerni Lidospielplatz közvetlenül a tóparton található, és vonzó játékokat kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.335754,
+                        47.050437
+                  ]
+            },
+            {
+                  "name": "Dammgärtli",
+                  "text": "A luzerni Dammgärtli egy kicsi, barátságos játszótér a környékbeli gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.292344,
+                        47.054684
+                  ]
+            },
+            {
+                  "name": "Spielplatz Inseli",
+                  "text": "A luzerni Inseli játszótér közvetlen tóparti kilátással kínál játékélményt a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        8.314542,
+                        47.049342
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bleichergärtli",
+                  "text": "A luzerni Bleichergärtli játszótér változatos mászófalakat és játékeszközöket kínál.",
+                  "category": "family",
+                  "coords": [
+                        8.306539,
+                        47.043802
+                  ]
+            },
+            {
+                  "name": "Lido Minigolf",
+                  "text": "A svájci Luzernben található Lido Minigolf hangulatos szabadidős élményt nyújt a Vierwaldstätti-tó közelében. A családbarát légkör vidám és aktív órákról gondoskodik a friss levegőn. Itt a közös játék és a minigolf adta örömök állnak a középpontban. A látogatást kiválóan meg lehet koronázni egy tóparti sétával.",
+                  "category": "family",
+                  "coords": [
+                        8.336912,
+                        47.051411
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Schmiedhof",
+                  "text": "Nyilvános úszómedence Luzernben a családi vízi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.33227,
+                        47.076115
+                  ]
+            },
+            {
+                  "name": "Spa Centre",
+                  "text": "Wellnessközpont Luzernben a pihenéshez és kikapcsolódáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.301428,
+                        47.04875
+                  ]
+            },
+            {
+                  "name": "Hirschpark Luzern",
+                  "text": "Vadaspark Luzernben sétákhoz és állatmegfigyelésekhez.",
+                  "category": "family",
+                  "coords": [
+                        8.29183,
+                        47.058004
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kunstmuseum Luzern",
+                  "text": "Un muzeu de artă important din Lucerna, situat în clădirea modernă KKL.",
+                  "category": "museum",
+                  "coords": [
+                        8.311666,
+                        47.050437
+                  ]
+            },
+            {
+                  "name": "Bourbaki Panorama",
+                  "text": "O pictură circulară monumentală care înfățișează trecerea armatei franceze Bourbaki.",
+                  "category": "museum",
+                  "coords": [
+                        8.311226,
+                        47.056958
+                  ]
+            },
+            {
+                  "name": "Zivilschutzanlage Sonnenberg",
+                  "text": "O fostă instalație de protecție civilă din tunelul autostrăzii, care poate fi vizitată astăzi ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        8.296638,
+                        47.046464
+                  ]
+            },
+            {
+                  "name": "Gletschergarten Luzern",
+                  "text": "Un monument natural cu marmite glaciare din epoca de gheață și un labirint de oglinzi.",
+                  "category": "museum",
+                  "coords": [
+                        8.310689,
+                        47.058856
+                  ]
+            },
+            {
+                  "name": "Verkehrshaus der Schweiz",
+                  "text": "Cel mai vizitat muzeu din Elveția prezintă o colecție vastă despre istoria transportului și a mobilității.",
+                  "category": "museum",
+                  "coords": [
+                        8.336482,
+                        47.052794
+                  ]
+            },
+            {
+                  "name": "Kleintheater",
+                  "text": "Un teatru mic și renumit din Lucerna, care oferă o scenă pentru cabaret, teatru și muzică.",
+                  "category": "cultural",
+                  "coords": [
+                        8.308516,
+                        47.046009
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Această importantă biserică medievală a unui ordin mendicant este cunoscută pentru arhitectura sa gotică.",
+                  "category": "religious",
+                  "coords": [
+                        8.303472,
+                        47.049666
+                  ]
+            },
+            {
+                  "name": "Matthäuskirche",
+                  "text": "O biserică evanghelică-reformată din Lucerna, care servește ca loc important pentru slujbe și concerte.",
+                  "category": "religious",
+                  "coords": [
+                        8.309313,
+                        47.054405
+                  ]
+            },
+            {
+                  "name": "Kirche St. Karl",
+                  "text": "O biserică catolică marcantă din Lucerna, care impresionează prin arhitectura sa modernă și arta sacră.",
+                  "category": "religious",
+                  "coords": [
+                        8.292434,
+                        47.055661
+                  ]
+            },
+            {
+                  "name": "St. Leodegar im Hof (Hofkirche)",
+                  "text": "Splendida biserică colegială cu turnurile sale gemene este considerată unul dintre cele mai importante simboluri din Lucerna.",
+                  "category": "religious",
+                  "coords": [
+                        8.314081,
+                        47.055601
+                  ]
+            },
+            {
+                  "name": "Rathaussteg",
+                  "text": "Acest pod pietonal peste râul Reuss face legătura între orașul vechi și Theaterplatz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.306038,
+                        47.051297
+                  ]
+            },
+            {
+                  "name": "Wasserturm",
+                  "text": "Turnul octogonal face parte din celebrul pod Kapellbrücke și a servit odinioară ca turn de veghe și arhivă.",
+                  "category": "tower",
+                  "coords": [
+                        8.307294,
+                        47.051268
+                  ]
+            },
+            {
+                  "name": "Dreilindenpark",
+                  "text": "Un parc vast situat pe o colină, apreciat pentru liniștea sa și vederea spre bazinul lacului.",
+                  "category": "park",
+                  "coords": [
+                        8.321661,
+                        47.061341
+                  ]
+            },
+            {
+                  "name": "Männliturm",
+                  "text": "Unul dintre cele nouă turnuri ale zidului Musegg, care este deschis publicului și oferă o vedere spectaculoasă.",
+                  "category": "natural",
+                  "coords": [
+                        8.300824,
+                        47.053501
+                  ]
+            },
+            {
+                  "name": "Sammlung Rosengart",
+                  "text": "Acest muzeu de artă găzduiește o colecție importantă de lucrări semnate de Pablo Picasso și Paul Klee.",
+                  "category": "museum",
+                  "coords": [
+                        8.307317,
+                        47.049685
+                  ]
+            },
+            {
+                  "name": "Museum Luzern",
+                  "text": "Un muzeu din Lucerna dedicat istoriei locale și temelor culturale ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        8.300968,
+                        47.051713
+                  ]
+            },
+            {
+                  "name": "Richard Wagner Museum",
+                  "text": "Fosta reședință a compozitorului expune obiecte personale și documente din viața sa petrecută în Lucerna.",
+                  "category": "museum",
+                  "coords": [
+                        8.329041,
+                        47.042389
+                  ]
+            },
+            {
+                  "name": "Landsitz Hünenberg",
+                  "text": "O proprietate istorică din Lucerna, considerată un exemplu al arhitecturii nobiliare din regiune.",
+                  "category": "castle",
+                  "coords": [
+                        8.318211,
+                        47.067311
+                  ]
+            },
+            {
+                  "name": "Schlössli Schönegg",
+                  "text": "O clădire asemănătoare unui castel din Lucerna, care impresionează prin locația și arhitectura sa pitorească.",
+                  "category": "castle",
+                  "coords": [
+                        8.297247,
+                        47.050609
+                  ]
+            },
+            {
+                  "name": "Altes Bahnhofstor",
+                  "text": "Portalul rămas al vechii gări din Lucerna, care stă astăzi ca monument în piața gării.",
+                  "category": "historical",
+                  "coords": [
+                        8.310208,
+                        47.050745
+                  ]
+            },
+            {
+                  "name": "Mariahilfkirche",
+                  "text": "O biserică catolică din Lucerna, cunoscută pentru atmosfera sa sacră și activitatea comunitară.",
+                  "category": "religious",
+                  "coords": [
+                        8.306415,
+                        47.054406
+                  ]
+            },
+            {
+                  "name": "Peterskapelle",
+                  "text": "Cea mai veche biserică din orașul Lucerna, situată direct în Kapellplatz, este un loc spiritual important.",
+                  "category": "religious",
+                  "coords": [
+                        8.307932,
+                        47.052524
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "O biserică marcantă din Lucerna, care reprezintă un centru important pentru viața bisericească din cartier.",
+                  "category": "religious",
+                  "coords": [
+                        8.303106,
+                        47.042004
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "Una dintre bisericile din Lucerna, care servește ca loc important de întâlnire pentru credincioși și comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        8.312021,
+                        47.037714
+                  ]
+            },
+            {
+                  "name": "Kirche Weinbergli",
+                  "text": "O biserică de cartier din Lucerna, care oferă spațiu pentru slujbe și activități sociale.",
+                  "category": "religious",
+                  "coords": [
+                        8.31823,
+                        47.038682
+                  ]
+            },
+            {
+                  "name": "Markuskirche",
+                  "text": "Această biserică este o parte integrantă a vieții religioase din Lucerna.",
+                  "category": "religious",
+                  "coords": [
+                        8.316507,
+                        47.055275
+                  ]
+            },
+            {
+                  "name": "Kirche St. Anton",
+                  "text": "O biserică parohială catolică din Lucerna, care se remarcă prin arhitectura sa și serviciile comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        8.323278,
+                        47.039863
+                  ]
+            },
+            {
+                  "name": "Der MaiHof",
+                  "text": "Un centru de întâlnire și spațiu bisericesc din Lucerna, care simbolizează deschiderea și comunitatea.",
+                  "category": "religious",
+                  "coords": [
+                        8.308857,
+                        47.063419
+                  ]
+            },
+            {
+                  "name": "Karl-Borromäus-Kapelle",
+                  "text": "O mică capelă din Lucerna, care invită la reculegere și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        8.293574,
+                        47.056082
+                  ]
+            },
+            {
+                  "name": "Lukaskirche",
+                  "text": "O biserică evanghelică marcantă din Lucerna, cunoscută pentru designul său modern și acustica bună.",
+                  "category": "religious",
+                  "coords": [
+                        8.30875,
+                        47.048054
+                  ]
+            },
+            {
+                  "name": "Jesuitenkirche",
+                  "text": "Prima mare biserică barocă din Elveția impresionează prin decorul său interior somptuos.",
+                  "category": "religious",
+                  "coords": [
+                        8.305126,
+                        47.050441
+                  ]
+            },
+            {
+                  "name": "Alpineum museum",
+                  "text": "Un muzeu din Lucerna care prezintă lumea Alpilor și a ghețarilor prin diorame 3D mari.",
+                  "category": "landmark",
+                  "coords": [
+                        8.310419,
+                        47.057918
+                  ]
+            },
+            {
+                  "name": "Allenwindenturm",
+                  "text": "Unul dintre turnurile istorice ale zidului Musegg, care definește peisajul urban al Lucernei.",
+                  "category": "tower",
+                  "coords": [
+                        8.307441,
+                        47.055194
+                  ]
+            },
+            {
+                  "name": "Luegislandturm",
+                  "text": "Un turn de veghe marcant al zidului Musegg, cu un acoperiș ascuțit caracteristic.",
+                  "category": "tower",
+                  "coords": [
+                        8.302149,
+                        47.053859
+                  ]
+            },
+            {
+                  "name": "Nölliturm",
+                  "text": "Cel mai vestic turn al zidului Musegg, situat direct pe malul râului Reuss.",
+                  "category": "tower",
+                  "coords": [
+                        8.299541,
+                        47.053216
+                  ]
+            },
+            {
+                  "name": "Seebrücke Luzern",
+                  "text": "Cel mai important pod rutier din Lucerna, care face legătura între piața gării și zona Schwanenplatz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.309062,
+                        47.052065
+                  ]
+            },
+            {
+                  "name": "Seeburgturm",
+                  "text": "Un turn istoric de pe malul lacului, care a aparținut odinioară unui parc privat.",
+                  "category": "tower",
+                  "coords": [
+                        8.343189,
+                        47.050534
+                  ]
+            },
+            {
+                  "name": "Alter Friedhof",
+                  "text": "Un fost cimitir, utilizat astăzi ca parc liniștit și loc de comemorare.",
+                  "category": "park",
+                  "coords": [
+                        8.315734,
+                        47.056936
+                  ]
+            },
+            {
+                  "name": "Gameorama",
+                  "text": "Un muzeu interactiv din Lucerna care face accesibilă istoria jocurilor de societate și video.",
+                  "category": "museum",
+                  "coords": [
+                        8.301024,
+                        47.050745
+                  ]
+            },
+            {
+                  "name": "Swiss Chocolate Adventure",
+                  "text": "O lume multimedia la Muzeul Transporturilor, care prezintă drumul bobului de cacao până la ciocolata elvețiană.",
+                  "category": "museum",
+                  "coords": [
+                        8.335192,
+                        47.053405
+                  ]
+            },
+            {
+                  "name": "Puppenhausmuseum Luzern",
+                  "text": "Acest muzeu expune o colecție curatoriată cu drag de căsuțe de păpuși istorice și jucării.",
+                  "category": "museum",
+                  "coords": [
+                        8.327893,
+                        47.055759
+                  ]
+            },
+            {
+                  "name": "simgalerie",
+                  "text": "O galerie de artă modernă din Lucerna care oferă o platformă artiștilor locali și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        8.312404,
+                        47.043439
+                  ]
+            },
+            {
+                  "name": "Elephanthaus",
+                  "text": "O clădire istorică din Lucerna, utilizată astăzi ca spațiu pentru artă și evenimente culturale.",
+                  "category": "museum",
+                  "coords": [
+                        8.308782,
+                        47.043989
+                  ]
+            },
+            {
+                  "name": "Rotsee",
+                  "text": "Rotsee de lângă Lucerna este cunoscut pentru frumusețea sa naturală și ca loc de desfășurare pentru regate de canotaj.",
+                  "category": "natural",
+                  "coords": [
+                        8.314276,
+                        47.069701
+                  ]
+            },
+            {
+                  "name": "Spielplatz Militärstrasse",
+                  "text": "Locul de joacă Militärstrasse din Lucerna oferă copiilor spațiu pentru mișcare și joacă în cartier.",
+                  "category": "family",
+                  "coords": [
+                        8.297475,
+                        47.053642
+                  ]
+            },
+            {
+                  "name": "Lidospielplatz",
+                  "text": "Locul de joacă Lido din Lucerna este situat direct pe malul lacului și oferă copiilor echipamente atractive.",
+                  "category": "family",
+                  "coords": [
+                        8.335754,
+                        47.050437
+                  ]
+            },
+            {
+                  "name": "Dammgärtli",
+                  "text": "Dammgärtli din Lucerna este un loc de joacă mic și primitor pentru copiii din zonă.",
+                  "category": "family",
+                  "coords": [
+                        8.292344,
+                        47.054684
+                  ]
+            },
+            {
+                  "name": "Spielplatz Inseli",
+                  "text": "Locul de joacă Inseli din Lucerna oferă copiilor distracție cu vedere directă la lac.",
+                  "category": "family",
+                  "coords": [
+                        8.314542,
+                        47.049342
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bleichergärtli",
+                  "text": "Locul de joacă Bleichergärtli din Lucerna oferă diverse posibilități de cățărare și echipamente de joacă.",
+                  "category": "family",
+                  "coords": [
+                        8.306539,
+                        47.043802
+                  ]
+            },
+            {
+                  "name": "Lido Minigolf",
+                  "text": "Lido Minigolf din Lucerna, Elveția, oferă o experiență de agrement fermecătoare, nu departe de Lacul celor Patru Cantoane. Atmosfera favorabilă familiilor asigură ore vesele și active în aer liber. Aici, jocul împreună și distracția la minigolf sunt în centrul șederii. O vizită poate fi completată perfect cu o plimbare ulterioară pe malul lacului.",
+                  "category": "family",
+                  "coords": [
+                        8.336912,
+                        47.051411
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Schmiedhof",
+                  "text": "O piscină publică în Lucerna pentru distracție în apă cu familia.",
+                  "category": "family",
+                  "coords": [
+                        8.33227,
+                        47.076115
+                  ]
+            },
+            {
+                  "name": "Spa Centre",
+                  "text": "Un centru spa în Lucerna pentru ore de relaxare și destindere.",
+                  "category": "family",
+                  "coords": [
+                        8.301428,
+                        47.04875
+                  ]
+            },
+            {
+                  "name": "Hirschpark Luzern",
+                  "text": "Un parc de cerbi în Lucerna pentru plimbări și observații de animale.",
+                  "category": "family",
+                  "coords": [
+                        8.29183,
+                        47.058004
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kunstmuseum Luzern",
+                  "text": "A major art museum in Lucerne located in the modern KKL building.",
+                  "category": "museum",
+                  "coords": [
+                        8.311666,
+                        47.050437
+                  ]
+            },
+            {
+                  "name": "Bourbaki Panorama",
+                  "text": "A monumental circular painting depicting the crossing of the French Bourbaki army.",
+                  "category": "museum",
+                  "coords": [
+                        8.311226,
+                        47.056958
+                  ]
+            },
+            {
+                  "name": "Zivilschutzanlage Sonnenberg",
+                  "text": "A former civil defense facility in the motorway tunnel, now open to the public as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        8.296638,
+                        47.046464
+                  ]
+            },
+            {
+                  "name": "Glacier garden",
+                  "text": "A natural monument featuring ice age glacial potholes and a mirror labyrinth.",
+                  "category": "museum",
+                  "coords": [
+                        8.310689,
+                        47.058856
+                  ]
+            },
+            {
+                  "name": "Swiss Museum of Transport",
+                  "text": "Switzerland's most visited museum features an extensive collection dedicated to the history of transport and mobility.",
+                  "category": "museum",
+                  "coords": [
+                        8.336482,
+                        47.052794
+                  ]
+            },
+            {
+                  "name": "Kleintheater",
+                  "text": "A well-known intimate theatre in Lucerne providing a stage for cabaret, drama, and music.",
+                  "category": "cultural",
+                  "coords": [
+                        8.308516,
+                        47.046009
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "This significant medieval mendicant church is known for its Gothic architecture and rich interior.",
+                  "category": "religious",
+                  "coords": [
+                        8.303472,
+                        47.049666
+                  ]
+            },
+            {
+                  "name": "Matthäuskirche",
+                  "text": "An Evangelical Reformed church in Lucerne that serves as an important venue for worship and concerts.",
+                  "category": "religious",
+                  "coords": [
+                        8.309313,
+                        47.054405
+                  ]
+            },
+            {
+                  "name": "Kirche St. Karl",
+                  "text": "A striking Catholic church in Lucerne, notable for its modern architecture and sacred art.",
+                  "category": "religious",
+                  "coords": [
+                        8.292434,
+                        47.055661
+                  ]
+            },
+            {
+                  "name": "St. Leodegar im Hof (Hofkirche)",
+                  "text": "The magnificent collegiate church with its iconic twin towers is one of Lucerne's most important landmarks.",
+                  "category": "religious",
+                  "coords": [
+                        8.314081,
+                        47.055601
+                  ]
+            },
+            {
+                  "name": "Rathaussteg Bridge",
+                  "text": "This pedestrian bridge over the Reuss river connects the old town with the Theaterplatz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.306038,
+                        47.051297
+                  ]
+            },
+            {
+                  "name": "Wasserturm",
+                  "text": "The octagonal tower is part of the famous Chapel Bridge and once served as a watchtower and archive.",
+                  "category": "tower",
+                  "coords": [
+                        8.307294,
+                        47.051268
+                  ]
+            },
+            {
+                  "name": "Dreilindenpark",
+                  "text": "A spacious hillside park appreciated for its tranquility and views over the lake basin.",
+                  "category": "park",
+                  "coords": [
+                        8.321661,
+                        47.061341
+                  ]
+            },
+            {
+                  "name": "Männliturm",
+                  "text": "One of the nine towers of the Musegg Wall that is open to the public and offers a great viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        8.300824,
+                        47.053501
+                  ]
+            },
+            {
+                  "name": "Rosengart Collection",
+                  "text": "This art museum houses a significant collection of works by Pablo Picasso and Paul Klee.",
+                  "category": "museum",
+                  "coords": [
+                        8.307317,
+                        47.049685
+                  ]
+            },
+            {
+                  "name": "Museum Luzern",
+                  "text": "A museum in Lucerne dedicated to the local history and cultural themes of the region.",
+                  "category": "museum",
+                  "coords": [
+                        8.300968,
+                        47.051713
+                  ]
+            },
+            {
+                  "name": "Richard Wagner Museum",
+                  "text": "The composer's former residence displays personal items and documents from his life in Lucerne.",
+                  "category": "museum",
+                  "coords": [
+                        8.329041,
+                        47.042389
+                  ]
+            },
+            {
+                  "name": "Landsitz Hünenberg",
+                  "text": "A historic estate in Lucerne serving as an example of the region's stately architecture.",
+                  "category": "castle",
+                  "coords": [
+                        8.318211,
+                        47.067311
+                  ]
+            },
+            {
+                  "name": "Schlössli Schönegg",
+                  "text": "A castle-like building in Lucerne, notable for its picturesque location and architecture.",
+                  "category": "castle",
+                  "coords": [
+                        8.297247,
+                        47.050609
+                  ]
+            },
+            {
+                  "name": "Altes Bahnhofstor",
+                  "text": "The remaining portal of Lucerne's old railway station, now standing as a monument on the station square.",
+                  "category": "historical",
+                  "coords": [
+                        8.310208,
+                        47.050745
+                  ]
+            },
+            {
+                  "name": "Mariahilfkirche",
+                  "text": "A Catholic church in Lucerne known for its sacred atmosphere and community work.",
+                  "category": "religious",
+                  "coords": [
+                        8.306415,
+                        47.054406
+                  ]
+            },
+            {
+                  "name": "Peterskapelle",
+                  "text": "The oldest church in the city of Lucerne, located on Kapellplatz, is a significant spiritual site.",
+                  "category": "religious",
+                  "coords": [
+                        8.307932,
+                        47.052524
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "A striking church in Lucerne that serves as an important center for religious life in the neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        8.303106,
+                        47.042004
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "One of the churches in Lucerne serving as an important meeting point for believers and the local community.",
+                  "category": "religious",
+                  "coords": [
+                        8.312021,
+                        47.037714
+                  ]
+            },
+            {
+                  "name": "Kirche Weinbergli",
+                  "text": "A neighborhood church in Lucerne providing space for worship and social activities.",
+                  "category": "religious",
+                  "coords": [
+                        8.31823,
+                        47.038682
+                  ]
+            },
+            {
+                  "name": "Markuskirche",
+                  "text": "This church is an integral part of the religious life in Lucerne.",
+                  "category": "religious",
+                  "coords": [
+                        8.316507,
+                        47.055275
+                  ]
+            },
+            {
+                  "name": "Kirche St. Anton",
+                  "text": "A Catholic parish church in Lucerne notable for its architecture and community services.",
+                  "category": "religious",
+                  "coords": [
+                        8.323278,
+                        47.039863
+                  ]
+            },
+            {
+                  "name": "Der MaiHof",
+                  "text": "A meeting center and church space in Lucerne representing openness and community.",
+                  "category": "religious",
+                  "coords": [
+                        8.308857,
+                        47.063419
+                  ]
+            },
+            {
+                  "name": "Karl-Borromäus-Kapelle",
+                  "text": "A small chapel in Lucerne inviting quiet reflection and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        8.293574,
+                        47.056082
+                  ]
+            },
+            {
+                  "name": "Lukaskirche",
+                  "text": "A striking Evangelical church in Lucerne, known for its modern design and excellent acoustics.",
+                  "category": "religious",
+                  "coords": [
+                        8.30875,
+                        47.048054
+                  ]
+            },
+            {
+                  "name": "Jesuitenkirche",
+                  "text": "The first large Baroque church in Switzerland, impressive for its magnificent interior decoration.",
+                  "category": "religious",
+                  "coords": [
+                        8.305126,
+                        47.050441
+                  ]
+            },
+            {
+                  "name": "Alpineum museum",
+                  "text": "A museum in Lucerne displaying the world of the Alps and glaciers through large 3D dioramas.",
+                  "category": "landmark",
+                  "coords": [
+                        8.310419,
+                        47.057918
+                  ]
+            },
+            {
+                  "name": "Allenwindenturm",
+                  "text": "One of the historic towers of the Musegg Wall that characterizes the cityscape of Lucerne.",
+                  "category": "tower",
+                  "coords": [
+                        8.307441,
+                        47.055194
+                  ]
+            },
+            {
+                  "name": "Luegislandturm",
+                  "text": "A striking watchtower of the Musegg Wall with a characteristic pointed roof.",
+                  "category": "tower",
+                  "coords": [
+                        8.302149,
+                        47.053859
+                  ]
+            },
+            {
+                  "name": "Nölliturm",
+                  "text": "The westernmost tower of the Musegg Wall, situated directly on the banks of the Reuss river.",
+                  "category": "tower",
+                  "coords": [
+                        8.299541,
+                        47.053216
+                  ]
+            },
+            {
+                  "name": "Seebrücke Luzern",
+                  "text": "The main road bridge in Lucerne connecting the railway station square with the Schwanenplatz area.",
+                  "category": "landmark",
+                  "coords": [
+                        8.309062,
+                        47.052065
+                  ]
+            },
+            {
+                  "name": "Seeburgturm",
+                  "text": "A historic tower on the lakeside that once belonged to a private park.",
+                  "category": "tower",
+                  "coords": [
+                        8.343189,
+                        47.050534
+                  ]
+            },
+            {
+                  "name": "Alter Friedhof",
+                  "text": "A former burial ground now used as a quiet park and place of remembrance.",
+                  "category": "park",
+                  "coords": [
+                        8.315734,
+                        47.056936
+                  ]
+            },
+            {
+                  "name": "Gameorama",
+                  "text": "An interactive museum in Lucerne where the history of board and video games can be experienced.",
+                  "category": "museum",
+                  "coords": [
+                        8.301024,
+                        47.050745
+                  ]
+            },
+            {
+                  "name": "Swiss Chocolate Adventure",
+                  "text": "A multimedia experience at the Museum of Transport showing the journey of the cocoa bean to Swiss chocolate.",
+                  "category": "museum",
+                  "coords": [
+                        8.335192,
+                        47.053405
+                  ]
+            },
+            {
+                  "name": "Puppenhausmuseum Luzern",
+                  "text": "This museum displays a lovingly curated collection of historic dollhouses and toys.",
+                  "category": "museum",
+                  "coords": [
+                        8.327893,
+                        47.055759
+                  ]
+            },
+            {
+                  "name": "simgalerie",
+                  "text": "A gallery for modern art in Lucerne providing a platform for local and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        8.312404,
+                        47.043439
+                  ]
+            },
+            {
+                  "name": "Elephanthaus",
+                  "text": "A historic building in Lucerne now used as a space for art and cultural events.",
+                  "category": "museum",
+                  "coords": [
+                        8.308782,
+                        47.043989
+                  ]
+            },
+            {
+                  "name": "Rotsee",
+                  "text": "Rotsee near Lucerne is known for its natural beauty and as a venue for rowing regattas.",
+                  "category": "natural",
+                  "coords": [
+                        8.314276,
+                        47.069701
+                  ]
+            },
+            {
+                  "name": "Spielplatz Militärstrasse",
+                  "text": "The Militärstrasse playground in Lucerne offers children space for exercise and play in the neighborhood.",
+                  "category": "family",
+                  "coords": [
+                        8.297475,
+                        47.053642
+                  ]
+            },
+            {
+                  "name": "Lidospielplatz",
+                  "text": "The Lido playground in Lucerne is located right by the lake and offers attractive play equipment for children.",
+                  "category": "family",
+                  "coords": [
+                        8.335754,
+                        47.050437
+                  ]
+            },
+            {
+                  "name": "Dammgärtli",
+                  "text": "Dammgärtli in Lucerne is a small, friendly playground for children from the area.",
+                  "category": "family",
+                  "coords": [
+                        8.292344,
+                        47.054684
+                  ]
+            },
+            {
+                  "name": "Spielplatz Inseli",
+                  "text": "The Inseli playground in Lucerne offers children play fun with a direct view of the lake.",
+                  "category": "family",
+                  "coords": [
+                        8.314542,
+                        47.049342
+                  ]
+            },
+            {
+                  "name": "Spielplatz Bleichergärtli",
+                  "text": "The Bleichergärtli playground in Lucerne offers various climbing opportunities and play equipment.",
+                  "category": "family",
+                  "coords": [
+                        8.306539,
+                        47.043802
+                  ]
+            },
+            {
+                  "name": "Lido Minigolf",
+                  "text": "Lido Minigolf in Lucerne, Switzerland, offers a charming leisure experience not far from Lake Lucerne. The family-friendly atmosphere ensures cheerful and active hours in the fresh air. Here, playing together and the fun of mini-golf are at the center of the stay. A visit can be perfectly rounded off with a subsequent walk along the lake shore.",
+                  "category": "family",
+                  "coords": [
+                        8.336912,
+                        47.051411
+                  ]
+            },
+            {
+                  "name": "Schwimmbad Schmiedhof",
+                  "text": "A public swimming pool in Lucerne for water fun with the family.",
+                  "category": "family",
+                  "coords": [
+                        8.33227,
+                        47.076115
+                  ]
+            },
+            {
+                  "name": "Spa Centre",
+                  "text": "A spa centre in Lucerne for relaxing hours and relaxation.",
+                  "category": "family",
+                  "coords": [
+                        8.301428,
+                        47.04875
+                  ]
+            },
+            {
+                  "name": "Hirschpark Luzern",
+                  "text": "A deer park in Lucerne for walks and animal observations.",
+                  "category": "family",
+                  "coords": [
+                        8.29183,
+                        47.058004
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [8.3093, 47.0502],
@@ -12699,48 +10296,12 @@ export const switzerlandRegions: POI[] = [
     id: "nature-jungfraujoch", "sights": {
       "de": [
             {
-                  "name": "Eiger",
-                  "text": "Ein weltberühmter Berggipfel in den Berner Alpen, bekannt für seine gewaltige Nordwand.",
-                  "category": "landmark",
-                  "coords": [
-                        8.005469,
-                        46.577632
-                  ]
-            },
-            {
-                  "name": "Rotstock",
-                  "text": "Ein markanter Berggipfel in der Nähe des Eigers in den Berner Alpen.",
-                  "category": "landmark",
-                  "coords": [
-                        7.984182,
-                        46.577392
-                  ]
-            },
-            {
                   "name": "Trugberg",
                   "text": "Ein Gipfel in den Berner Alpen, südlich von Mönch und Eiger gelegen.",
                   "category": "landmark",
                   "coords": [
                         8.015381,
                         46.54662
-                  ]
-            },
-            {
-                  "name": "Louwihorn",
-                  "text": "Ein Berggipfel im Jungfrau-Massiv in den Schweizer Alpen.",
-                  "category": "landmark",
-                  "coords": [
-                        7.969277,
-                        46.526887
-                  ]
-            },
-            {
-                  "name": "Kranzberg",
-                  "text": "Ein Berggipfel in der Jungfrau-Region der Berner Alpen.",
-                  "category": "landmark",
-                  "coords": [
-                        7.980681,
-                        46.522095
                   ]
             },
             {
@@ -12751,45 +10312,9 @@ export const switzerlandRegions: POI[] = [
                         7.997269,
                         46.558502
                   ]
-            },
-            {
-                  "name": "Jungfrau",
-                  "text": "Ein berühmter Berggipfel in den Schweizer Alpen, namensgebend für die Jungfrau-Region.",
-                  "category": "landmark",
-                  "coords": [
-                        7.962591,
-                        46.536774
-                  ]
-            },
-            {
-                  "name": "Rottalhorn",
-                  "text": "Ein Hochgebirgsgipfel in den Berner Alpen nahe der Jungfrau.",
-                  "category": "landmark",
-                  "coords": [
-                        7.9673,
-                        46.532004
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Eiger",
-                  "text": "A Berni-Alpok világhírű csúcsa, amely hatalmas északi faláról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        8.005469,
-                        46.577632
-                  ]
-            },
-            {
-                  "name": "Rotstock",
-                  "text": "Jellegzetes hegycsúcs az Eiger közelében, a Berni-Alpokban.",
-                  "category": "landmark",
-                  "coords": [
-                        7.984182,
-                        46.577392
-                  ]
-            },
             {
                   "name": "Trugberg",
                   "text": "Hegycsúcs a Berni-Alpokban, a Mönch és az Eiger déli szomszédságában.",
@@ -12800,24 +10325,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Louwihorn",
-                  "text": "Hegycsúcs a Jungfrau-masszívumban, a Svájci-Alpokban.",
-                  "category": "landmark",
-                  "coords": [
-                        7.969277,
-                        46.526887
-                  ]
-            },
-            {
-                  "name": "Kranzberg",
-                  "text": "Hegycsúcs a Berni-Alpok Jungfrau régiójában.",
-                  "category": "landmark",
-                  "coords": [
-                        7.980681,
-                        46.522095
-                  ]
-            },
-            {
                   "name": "Mönch",
                   "text": "A Berni-Alpok egyik legjelentősebb négyezres csúcsa az Eiger és a Jungfrau mellett.",
                   "category": "landmark",
@@ -12825,45 +10332,9 @@ export const switzerlandRegions: POI[] = [
                         7.997269,
                         46.558502
                   ]
-            },
-            {
-                  "name": "Jungfrau",
-                  "text": "Svájc egyik leghíresebb hegycsúcsa, a Jungfrau-régió névadója.",
-                  "category": "landmark",
-                  "coords": [
-                        7.962591,
-                        46.536774
-                  ]
-            },
-            {
-                  "name": "Rottalhorn",
-                  "text": "Magashegyi csúcs a Berni-Alpokban, a Jungfrau közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        7.9673,
-                        46.532004
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Eiger",
-                  "text": "Un vârf montan faimos în Alpii Bernezi, cunoscut pentru peretele său nordic masiv.",
-                  "category": "landmark",
-                  "coords": [
-                        8.005469,
-                        46.577632
-                  ]
-            },
-            {
-                  "name": "Rotstock",
-                  "text": "Un vârf montan distinctiv situat lângă Eiger, în Alpii Bernezi.",
-                  "category": "landmark",
-                  "coords": [
-                        7.984182,
-                        46.577392
-                  ]
-            },
             {
                   "name": "Trugberg",
                   "text": "Un vârf în Alpii Bernezi, situat la sud de Mönch și Eiger.",
@@ -12874,24 +10345,6 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Louwihorn",
-                  "text": "Un vârf muntos în masivul Jungfrau din Alpii Elvețieni.",
-                  "category": "landmark",
-                  "coords": [
-                        7.969277,
-                        46.526887
-                  ]
-            },
-            {
-                  "name": "Kranzberg",
-                  "text": "Un vârf montan în regiunea Jungfrau din Alpii Bernezi.",
-                  "category": "landmark",
-                  "coords": [
-                        7.980681,
-                        46.522095
-                  ]
-            },
-            {
                   "name": "Mönch",
                   "text": "Un vârf proeminent de peste patru mii de metri, parte din triada Eiger, Mönch și Jungfrau.",
                   "category": "landmark",
@@ -12899,45 +10352,9 @@ export const switzerlandRegions: POI[] = [
                         7.997269,
                         46.558502
                   ]
-            },
-            {
-                  "name": "Jungfrau",
-                  "text": "Un vârf montan celebru din Alpii Elvețieni, care dă numele regiunii Jungfrau.",
-                  "category": "landmark",
-                  "coords": [
-                        7.962591,
-                        46.536774
-                  ]
-            },
-            {
-                  "name": "Rottalhorn",
-                  "text": "Un vârf montan înalt în Alpii Bernezi, lângă Jungfrau.",
-                  "category": "landmark",
-                  "coords": [
-                        7.9673,
-                        46.532004
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Eiger",
-                  "text": "A world-famous peak in the Bernese Alps, renowned for its massive north face.",
-                  "category": "landmark",
-                  "coords": [
-                        8.005469,
-                        46.577632
-                  ]
-            },
-            {
-                  "name": "Rotstock",
-                  "text": "A distinctive mountain peak located near the Eiger in the Bernese Alps.",
-                  "category": "landmark",
-                  "coords": [
-                        7.984182,
-                        46.577392
-                  ]
-            },
             {
                   "name": "Trugberg",
                   "text": "A mountain peak in the Bernese Alps, situated south of the Mönch and Eiger.",
@@ -12948,48 +10365,12 @@ export const switzerlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Louwihorn",
-                  "text": "A mountain peak in the Jungfrau massif within the Swiss Alps.",
-                  "category": "landmark",
-                  "coords": [
-                        7.969277,
-                        46.526887
-                  ]
-            },
-            {
-                  "name": "Kranzberg",
-                  "text": "A mountain peak in the Jungfrau region of the Bernese Alps.",
-                  "category": "landmark",
-                  "coords": [
-                        7.980681,
-                        46.522095
-                  ]
-            },
-            {
                   "name": "Moench",
                   "text": "A prominent four-thousand-meter peak in the Bernese Alps, part of the Eiger and Jungfrau trio.",
                   "category": "landmark",
                   "coords": [
                         7.997269,
                         46.558502
-                  ]
-            },
-            {
-                  "name": "Jungfrau",
-                  "text": "A famous mountain peak in the Swiss Alps, giving its name to the Jungfrau region.",
-                  "category": "landmark",
-                  "coords": [
-                        7.962591,
-                        46.536774
-                  ]
-            },
-            {
-                  "name": "Rottalhorn",
-                  "text": "A high-altitude peak in the Bernese Alps near the Jungfrau mountain.",
-                  "category": "landmark",
-                  "coords": [
-                        7.9673,
-                        46.532004
                   ]
             }
       ]
@@ -16793,7 +14174,2176 @@ export const switzerlandCities: POI[] = [
     },
   },
   {
-    id: "city-lugano", "sights": {"de": [{"name": "Museo d'arte della Svizzera italiana", "text": "Das Kunstmuseum in Lugano präsentiert ein breites Spektrum an moderner und zeitgenössischer Kunst der italienischen Schweiz.", "category": "museum", "coords": [8.948178, 45.999155]}, {"name": "Museo cantonale di storia naturale", "text": "Dieses Museum widmet sich der Flora, Fauna und Geologie des Kantons Tessin.", "category": "museum", "coords": [8.960631, 46.004141]}, {"name": "Museo delle Culture", "text": "Ein ethnographisches Museum in Lugano, das sich auf die Kulturen aussereuropäischer Völker spezialisiert hat.", "category": "museum", "coords": [8.946647, 45.996349]}, {"name": "Chiesa Santa Lucia", "text": "Eine historische Kirche in Lugano, die für ihre religiöse Bedeutung und Architektur geschätzt wird.", "category": "religious", "coords": [8.942939, 46.012501]}, {"name": "Chiesa di San Massimiliano Kolbe", "text": "Eine moderne römisch-katholische Kirche im Stadtteil Pregassona in Lugano.", "category": "religious", "coords": [8.968622, 46.02512]}, {"name": "Chiesa di San Giorgio", "text": "Eine historische Kirche im Ortsteil Castagnola, die für ihre Panoramalage bekannt ist.", "category": "religious", "coords": [8.978062, 46.002544]}, {"name": "Chiesa di San Nicolao della Flüe", "text": "Ein markantes modernes Kirchengebäude, das dem Schweizer Nationalheiligen gewidmet ist.", "category": "religious", "coords": [8.941211, 46.006514]}, {"name": "Chiesa di Loreto", "text": "Eine Barockkirche am Rande des Luganer Stadtzentrums, nahe dem Seeufer.", "category": "religious", "coords": [8.945382, 45.997938]}, {"name": "Chiesa dei Santi Quirico e Giulitta", "text": "Die Pfarrkirche von Barbengo ist ein geschütztes Kulturgut in der Region Lugano.", "category": "religious", "coords": [8.925653, 46.003048]}, {"name": "Chiesa Parrocchiale di Sant'Abbondio", "text": "Diese barocke Stiftskirche in Gentilino ist für ihre markante Zypressenallee berühmt.", "category": "religious", "coords": [8.927941, 45.988455]}, {"name": "Chiesa di San Giuseppe", "text": "Eine römisch-katholische Kirche, die als religiöser Treffpunkt in Lugano dient.", "category": "religious", "coords": [8.950766, 46.006444]}, {"name": "Chiesa del Sacro Cuore", "text": "Eine Basilika aus den 1920er Jahren, die sich im Zentrum von Lugano befindet.", "category": "religious", "coords": [8.955783, 46.010448]}, {"name": "Chiesa Santa Maria di Pazzalino", "text": "Die historische Marienkirche befindet sich im Luganer Stadtteil Viganello.", "category": "religious", "coords": [8.97458, 46.016825]}, {"name": "Chiesa di Santa Teresa di Lisieux", "text": "Eine katholische Kultusstätte in Lugano, die der Heiligen Teresa von Lisieux geweiht ist.", "category": "religious", "coords": [8.96697, 46.011003]}, {"name": "Santa Maria dello Stradone", "text": "Ein religiöses Bauwerk in Lugano, das der Jungfrau Maria gewidmet ist.", "category": "religious", "coords": [8.956811, 46.011825]}, {"name": "Cattedrale di San Lorenzo", "text": "Die Kathedrale des Bistums Lugano bietet eine prachtvolle Fassade im Stil der Renaissance.", "category": "landmark", "coords": [8.948551, 46.004609]}, {"name": "Monte San Salvatore", "text": "Ein markanter Berg südlich von Lugano, der für seine Seilbahn und die weite Aussicht bekannt ist.", "category": "natural", "coords": [8.947302, 45.977112]}, {"name": "Monte Bre", "text": "Dieser Aussichtspunkt über Lugano ist als einer der sonnigsten Orte der Schweiz bekannt.", "category": "natural", "coords": [8.98741, 46.009085]}, {"name": "Villa Favorita", "text": "Ein weitläufiger Park am Seeufer mit einer historischen Villa und bedeutender Architektur.", "category": "park", "coords": [8.975808, 46.001391]}, {"name": "Museo Mario Bernasconi", "text": "Ein Künstlermuseum in Pazzallo, das den Werken des Bildhauers Mario Bernasconi gewidmet ist.", "category": "museum", "coords": [8.94263, 45.984087]}, {"name": "Museo Rainis e Aspazija", "text": "In der Schweizer Stadt Lugano befindet sich das Museo Rainis e Aspazija. Das Museum rückt das Leben und die bedeutenden Werke der lettischen Dichter Rainis und Aspazija in den Mittelpunkt. Literaturbegeisterte Gäste finden hier eine detaillierte Aufarbeitung des Schaffens dieses berühmten Paares.", "category": "museum", "coords": [8.977264, 46.001543]}, {"name": "Museo Villa Pia", "text": "Ein Museum in einer historischen Villa, das wechselnde Kunstausstellungen beherbergt.", "category": "museum", "coords": [8.95258, 46.026192]}, {"name": "Memorial Room Clay Regazzoni", "text": "Eine Gedenkstätte für den berühmten Schweizer Formel-1-Rennfahrer Clay Regazzoni.", "category": "museum", "coords": [8.974049, 46.026448]}, {"name": "Museo della Tipografia Renato Fontana", "text": "Ein spezialisiertes Museum, das die Geschichte und Technik des Buchdrucks dokumentiert.", "category": "museum", "coords": [8.969391, 46.028022]}, {"name": "Absolute Art Gallery", "text": "Eine moderne Kunstgalerie im Zentrum von Lugano, die zeitgenössische Werke präsentiert.", "category": "museum", "coords": [8.957603, 46.00615]}, {"name": "Teatro Foce", "text": "Ein städtisches Theater in Lugano, das Raum für verschiedene kulturelle Aufführungen bietet.", "category": "cultural", "coords": [8.961374, 46.005613]}, {"name": "Teatro Pan", "text": "Ein Theaterensemble und Spielort in Lugano, bekannt für seine innovativen Inszenierungen.", "category": "cultural", "coords": [8.96032, 46.006622]}, {"name": "Villa Ciani", "text": "Ein herrschaftliches Gebäude im Stadtpark, das für Kunstausstellungen und Veranstaltungen genutzt wird.", "category": "cultural", "coords": [8.956542, 46.00463]}, {"name": "Chiesa San Rocco", "text": "Eine barocke Kirche im Herzen von Lugano, die für ihre elegante Architektur bekannt ist.", "category": "religious", "coords": [8.95394, 46.004576]}, {"name": "Chiesa di Sant'Antonio Abate", "text": "Diese historische Kirche im Zentrum von Lugano besticht durch ihre barocke Innenausstattung.", "category": "religious", "coords": [8.951436, 46.004887]}, {"name": "Chiesa dei Santi Bernardino e Martino", "text": "Eine charmante Dorfkirche im Stadtteil Cassarate, die den Heiligen Bernhard und Martin gewidmet ist.", "category": "religious", "coords": [8.954628, 46.027332]}, {"name": "Madonna della Salute", "text": "Eine kleine Kirche in Lugano, die als Ort der Andacht und Ruhe dient.", "category": "religious", "coords": [8.943474, 46.010747]}, {"name": "Chiesa di Santa Maria dell'Annunciazione", "text": "Ein religiöses Gebäude im Luganer Stadtteil Pazzallo, das der Verkündigung gewidmet ist.", "category": "religious", "coords": [8.922491, 45.998351]}, {"name": "Oratorio di San Sebastiano", "text": "Ein historisches Oratorium im Zentrum von Lugano, das dem Heiligen Sebastian geweiht ist.", "category": "religious", "coords": [8.929164, 46.006702]}, {"name": "Chiesa di San Carlo Borromeo", "text": "Eine katholische Kirche in Lugano, die nach dem heiligen Karl Borromäus benannt wurde.", "category": "religious", "coords": [8.949659, 46.002707]}, {"name": "Chiesa della Santissima Trinità", "text": "Ein Gotteshaus in Lugano, das der Heiligen Dreifaltigkeit gewidmet ist.", "category": "religious", "coords": [8.949276, 46.008285]}, {"name": "Chiesa riformata", "text": "Das zentrale Kirchengebäude der evangelisch-reformierten Gemeinde in Lugano.", "category": "religious", "coords": [8.959024, 46.005405]}, {"name": "San Pietro", "text": "Eine katholische Kirche, die dem Apostel Petrus gewidmet ist und in Lugano liegt.", "category": "religious", "coords": [8.935786, 45.986223]}, {"name": "Oratorio di San Pietro delle Erbette", "text": "Eine kleine Kapelle oder ein Gebetshaus im Gebiet von Lugano.", "category": "religious", "coords": [8.969902, 46.006047]}, {"name": "Chiesa-oratorio di San Martino", "text": "Ein kleines religiöses Gebäude, das dem Heiligen Martin gewidmet ist.", "category": "religious", "coords": [8.940689, 46.026332]}, {"name": "Chiesa Evangelica Battista Betel", "text": "Das Kirchengebäude der baptistischen Gemeinde in Lugano.", "category": "religious", "coords": [8.952329, 46.010052]}, {"name": "fondazione Filippo Ciani", "text": "Ein Museum oder eine kulturelle Einrichtung, die mit dem Namen der Familie Ciani verbunden ist.", "category": "museum", "coords": [8.956545, 46.005898]}, {"name": "Dal tam-tam alla radio digitale", "text": "Ein spezialisiertes Museum in Lugano, das die Entwicklung der Kommunikationstechnik zeigt.", "category": "museum", "coords": [8.941213, 46.019152]}, {"name": "Imago Art Gallery", "text": "Eine Galerie in Lugano, die sich auf internationale zeitgenössische Kunst konzentriert.", "category": "museum", "coords": [8.949495, 46.00165]}, {"name": "[dip]", "text": "Eine Galerie in Lugano, die sich der Förderung zeitgenössischer Kunst widmet.", "category": "museum", "coords": [8.953107, 46.011052]}, {"name": "Galleria Art on... Paper", "text": "Eine spezialisierte Kunstgalerie, die sich auf Werke auf Papier konzentriert.", "category": "museum", "coords": [8.944946, 45.992563]}, {"name": "Marco Lucchetti Art Gallery", "text": "Eine Galerie in Lugano, die für ihre Ausstellungen im Bereich der Illustrationskunst bekannt ist.", "category": "museum", "coords": [8.949646, 46.00445]}, {"name": "Galleria Doppia V", "text": "Eine etablierte Galerie in Lugano, die moderne und zeitgenössische Kunst ausstellt.", "category": "museum", "coords": [8.942879, 46.0056]}, {"name": "Antimo Bertolino", "text": "Eine private Kunstgalerie oder ein Ausstellungsraum in Lugano.", "category": "museum", "coords": [8.958335, 46.007104]}, {"name": "SofiArt Gallery", "text": "Eine Galerie in Lugano, die eine Auswahl an verschiedenen Kunstwerken präsentiert.", "category": "museum", "coords": [8.946053, 45.993608]}, {"name": "Lo Spartaco di Vela", "text": "Ein bedeutendes Denkmal in Lugano, das den Sklavenanführer Spartacus darstellt.", "category": "historical", "coords": [8.951329, 46.003367]}, {"name": "Laghetto di Muzzano", "text": "Der Laghetto di Muzzano bei Lugano ist ein malerischer See, der zu entspannten Spaziergängen einlädt.", "category": "natural", "coords": [8.927558, 45.996691]}, {"name": "Laghetto di Origlio", "text": "Der Laghetto di Origlio in Lugano bietet eine ruhige Atmosphäre und schöne Natur.", "category": "natural", "coords": [8.942752, 46.050666]}, {"name": "Lago di Caslé", "text": "Der Lago di Caslé ist ein ruhiges Gewässer in der Nähe von Lugano.", "category": "natural", "coords": [9.040105, 45.995865]}, {"name": "Acquedotto di Ponte Capriasca", "text": "Der Acquedotto di Ponte Capriasca ist ein lokales Gewässer in der Region Lugano.", "category": "natural", "coords": [8.955354, 46.06346]}, {"name": "Luganersee", "text": "Der Luganersee besticht durch seine beeindruckende Kulisse und vielfältige Freizeitmöglichkeiten.", "category": "natural", "coords": [8.991961, 45.969645]}, {"name": "Parco Giochi Barzaghi", "text": "Der Parco Giochi Barzaghi in Lugano ist ein idealer Ort für Kinder zum Spielen im Freien.", "category": "family", "coords": [8.947875, 45.990049]}, {"name": "Parco Giochi Zorzi", "text": "Parco Giochi Zorzi bietet in Lugano einen sicheren und freundlichen Spielbereich für Familien.", "category": "family", "coords": [8.942384, 45.989922]}, {"name": "Montagnola Pool", "text": "Ein Schwimmbad in Lugano für die Freizeitgestaltung mit der Familie.", "category": "family", "coords": [8.918083, 45.989256]}, {"name": "Lido San Domenico", "text": "Ein Strandbad in Lugano für sommerliches Schwimmvergnügen im See.", "category": "family", "coords": [8.989521, 46.00219]}, {"name": "Villa Principe Leopoldo Hotel & SPA", "text": "Ein Schwimmbad in Lugano für Entspannung in gehobener Atmosphäre.", "category": "family", "coords": [8.939994, 45.992999]}, {"name": "Collina Azzura", "text": "Ein Schwimmbad in Lugano für den Wasserspaß mit der ganzen Familie.", "category": "family", "coords": [8.950879, 45.988261]}], "hu": [{"name": "Museo d'arte della Svizzera italiana", "text": "Lugano művészeti múzeuma az olasz Svájc modern és kortárs művészetének széles skáláját mutatja be.", "category": "museum", "coords": [8.948178, 45.999155]}, {"name": "Museo cantonale di storia naturale", "text": "Ez a múzeum Ticino kanton flórájának, faunájának és geológiájának szenteli kiállításait.", "category": "museum", "coords": [8.960631, 46.004141]}, {"name": "Museo delle Culture", "text": "Néprajzi múzeum Luganóban, amely az Európán kívüli népek kultúráira szakosodott.", "category": "museum", "coords": [8.946647, 45.996349]}, {"name": "Chiesa Santa Lucia", "text": "Történelmi templom Luganóban, amelyet vallási jelentősége és építészete miatt kedvelnek.", "category": "religious", "coords": [8.942939, 46.012501]}, {"name": "Chiesa di San Massimiliano Kolbe", "text": "Modern római katolikus templom Lugano Pregassona negyedében.", "category": "religious", "coords": [8.968622, 46.02512]}, {"name": "Chiesa di San Giorgio", "text": "Történelmi templom Castagnola városrészben, amely panorámás fekvéséről ismert.", "category": "religious", "coords": [8.978062, 46.002544]}, {"name": "Chiesa di San Nicolao della Flüe", "text": "Jellegzetes modern templomépület, amelyet Svájc nemzeti szentjének szenteltek.", "category": "religious", "coords": [8.941211, 46.006514]}, {"name": "Chiesa di Loreto", "text": "Barokk templom Lugano városközpontjának szélén, a tópart közelében.", "category": "religious", "coords": [8.945382, 45.997938]}, {"name": "Chiesa dei Santi Quirico e Giulitta", "text": "Barbengo plébániatemploma védett kulturális javak közé tartozik Lugano régiójában.", "category": "religious", "coords": [8.925653, 46.003048]}, {"name": "Chiesa Parrocchiale di Sant'Abbondio", "text": "Ez a barokk apátsági templom Gentilinóban a jellegzetes ciprusfasoráról híres.", "category": "religious", "coords": [8.927941, 45.988455]}, {"name": "Chiesa di San Giuseppe", "text": "Római katolikus templom, amely vallási találkozóhelyként szolgál Luganóban.", "category": "religious", "coords": [8.950766, 46.006444]}, {"name": "Chiesa del Sacro Cuore", "text": "Az 1920-as években épült bazilika Lugano központjában található.", "category": "religious", "coords": [8.955783, 46.010448]}, {"name": "Chiesa Santa Maria di Pazzalino", "text": "A történelmi Szűz Mária-templom Lugano Viganello negyedében található.", "category": "religious", "coords": [8.97458, 46.016825]}, {"name": "Chiesa di Santa Teresa di Lisieux", "text": "Lisieux-i Szent Teréznek szentelt katolikus kegyhely Luganóban.", "category": "religious", "coords": [8.96697, 46.011003]}, {"name": "Santa Maria dello Stradone", "text": "Szűz Máriának szentelt vallási épület Luganóban.", "category": "religious", "coords": [8.956811, 46.011825]}, {"name": "Cattedrale di San Lorenzo", "text": "A Luganói egyházmegye székesegyháza pompás reneszánsz homlokzattal rendelkezik.", "category": "landmark", "coords": [8.948551, 46.004609]}, {"name": "Monte San Salvatore", "text": "Luganótól délre fekvő jellegzetes hegy, amely siklójáról és tágas kilátásáról ismert.", "category": "natural", "coords": [8.947302, 45.977112]}, {"name": "Monte Bre", "text": "Ez a Lugano feletti kilátópont Svájc egyik legnaposabb helyeként ismert.", "category": "natural", "coords": [8.98741, 46.009085]}, {"name": "Villa Favorita", "text": "Kiterjedt tóparti park történelmi villával és jelentős építészeti elemekkel.", "category": "park", "coords": [8.975808, 46.001391]}, {"name": "Museo Mario Bernasconi", "text": "Művészeti múzeum Pazzallóban, amely Mario Bernasconi szobrász műveinek van szentelve.", "category": "museum", "coords": [8.94263, 45.984087]}, {"name": "Museo Rainis e Aspazija", "text": "A svájci Lugano városában kapott helyet a Museo Rainis e Aspazija nevű múzeum. Az intézmény a híres lett költőpáros, Rainis és Aspazija élettörténetének és munkásságának állít emléket. A látogatók mélyebb bepillantást nyerhetnek e két irodalmi alak svájci éveibe és örökségébe.", "category": "museum", "coords": [8.977264, 46.001543]}, {"name": "Museo Villa Pia", "text": "Történelmi villában található múzeum, amely időszaki művészeti kiállításoknak ad otthont.", "category": "museum", "coords": [8.95258, 46.026192]}, {"name": "Memorial Room Clay Regazzoni", "text": "Emlékhely a híres svájci Forma-1-es versenyző, Clay Regazzoni tiszteletére.", "category": "museum", "coords": [8.974049, 46.026448]}, {"name": "Museo della Tipografia Renato Fontana", "text": "Speciális múzeum, amely a könyvnyomtatás történetét és technikáját dokumentálja.", "category": "museum", "coords": [8.969391, 46.028022]}, {"name": "Absolute Art Gallery", "text": "Modern művészeti galéria Lugano központjában, amely kortárs alkotásokat mutat be.", "category": "museum", "coords": [8.957603, 46.00615]}, {"name": "Teatro Foce", "text": "Luganói városi színház, amely különféle kulturális előadásoknak ad helyet.", "category": "cultural", "coords": [8.961374, 46.005613]}, {"name": "Teatro Pan", "text": "Luganói színházi társulat és játszóhely, amely innovatív előadásairól ismert.", "category": "cultural", "coords": [8.96032, 46.006622]}, {"name": "Villa Ciani", "text": "Városi parkban található impozáns épület, amelyet művészeti kiállításokra és rendezvényekre használnak.", "category": "cultural", "coords": [8.956542, 46.00463]}, {"name": "Chiesa San Rocco", "text": "Barokk templom Lugano szívében, amely elegáns építészetéről ismert.", "category": "religious", "coords": [8.95394, 46.004576]}, {"name": "Chiesa di Sant'Antonio Abate", "text": "Ez a Lugano központjában található történelmi templom barokk belső díszítésével tűnik ki.", "category": "religious", "coords": [8.951436, 46.004887]}, {"name": "Chiesa dei Santi Bernardino e Martino", "text": "Bájos falusi templom Cassarate negyedben, amelyet Szent Bernátnak és Mártonnak szenteltek.", "category": "religious", "coords": [8.954628, 46.027332]}, {"name": "Madonna della Salute", "text": "Kisméretű templom Luganóban, amely az áhítat és a nyugalom helyszíneként szolgál.", "category": "religious", "coords": [8.943474, 46.010747]}, {"name": "Chiesa di Santa Maria dell'Annunciazione", "text": "Vallási épület Lugano Pazzallo negyedében, amelyet az Angyali üdvözletnek szenteltek.", "category": "religious", "coords": [8.922491, 45.998351]}, {"name": "Oratorio di San Sebastiano", "text": "Történelmi oratórium Lugano központjában, amelyet Szent Sebestyénnek szenteltek.", "category": "religious", "coords": [8.929164, 46.006702]}, {"name": "Chiesa di San Carlo Borromeo", "text": "Borromeo Szent Károlyról elnevezett katolikus templom Luganóban.", "category": "religious", "coords": [8.949659, 46.002707]}, {"name": "Chiesa della Santissima Trinità", "text": "A Szentháromságnak szentelt templom Luganóban.", "category": "religious", "coords": [8.949276, 46.008285]}, {"name": "Chiesa riformata", "text": "A luganói evangélikus-református gyülekezet központi templomépülete.", "category": "religious", "coords": [8.959024, 46.005405]}, {"name": "San Pietro", "text": "Szent Péter apostolnak szentelt katolikus templom Luganóban.", "category": "religious", "coords": [8.935786, 45.986223]}, {"name": "Oratorio di San Pietro delle Erbette", "text": "Kisméretű kápolna vagy imaház Lugano területén.", "category": "religious", "coords": [8.969902, 46.006047]}, {"name": "Chiesa-oratorio di San Martino", "text": "Szent Mártonnak szentelt kisméretű vallási épület.", "category": "religious", "coords": [8.940689, 46.026332]}, {"name": "Chiesa Evangelica Battista Betel", "text": "A luganói baptista gyülekezet templomépülete.", "category": "religious", "coords": [8.952329, 46.010052]}, {"name": "fondazione Filippo Ciani", "text": "A Ciani család nevéhez fűződő múzeum vagy kulturális intézmény.", "category": "museum", "coords": [8.956545, 46.005898]}, {"name": "Dal tam-tam alla radio digitale", "text": "Speciális múzeum Luganóban, amely a kommunikációs technológia fejlődését mutatja be.", "category": "museum", "coords": [8.941213, 46.019152]}, {"name": "Imago Art Gallery", "text": "Luganói galéria, amely a nemzetközi kortárs művészetre összpontosít.", "category": "museum", "coords": [8.949495, 46.00165]}, {"name": "[dip]", "text": "Luganói galéria, amely a kortárs művészet népszerűsítésének szenteli magát.", "category": "museum", "coords": [8.953107, 46.011052]}, {"name": "Galleria Art on... Paper", "text": "Papír alapú művekre szakosodott művészeti galéria.", "category": "museum", "coords": [8.944946, 45.992563]}, {"name": "Marco Lucchetti Art Gallery", "text": "Illusztrációs művészetek terén ismert galéria Luganóban.", "category": "museum", "coords": [8.949646, 46.00445]}, {"name": "Galleria Doppia V", "text": "Luganói galéria, amely modern és kortárs művészetet állít ki.", "category": "museum", "coords": [8.942879, 46.0056]}, {"name": "Antimo Bertolino", "text": "Magán művészeti galéria vagy kiállítóhely Luganóban.", "category": "museum", "coords": [8.958335, 46.007104]}, {"name": "SofiArt Gallery", "text": "Különféle műalkotások válogatását bemutató galéria Luganóban.", "category": "museum", "coords": [8.946053, 45.993608]}, {"name": "Lo Spartaco di Vela", "text": "Lugano jelentős emlékműve, amely Spartacust, a rabszolgavezért ábrázolja.", "category": "historical", "coords": [8.951329, 46.003367]}, {"name": "Laghetto di Muzzano", "text": "A Lugano melletti Laghetto di Muzzano egy festői tó, amely kellemes sétákra hívogat.", "category": "natural", "coords": [8.927558, 45.996691]}, {"name": "Laghetto di Origlio", "text": "A luganói Laghetto di Origlio nyugodt légkört és szép természeti környezetet kínál.", "category": "natural", "coords": [8.942752, 46.050666]}, {"name": "Lago di Caslé", "text": "A Lago di Caslé egy csendes tó Lugano közelében.", "category": "natural", "coords": [9.040105, 45.995865]}, {"name": "Acquedotto di Ponte Capriasca", "text": "Az Acquedotto di Ponte Capriasca egy helyi tó Lugano régiójában.", "category": "natural", "coords": [8.955354, 46.06346]}, {"name": "Lago di Lugano", "text": "A Luganói-tó lenyűgöző látványával és változatos kikapcsolódási lehetőségeivel várja a látogatókat.", "category": "natural", "coords": [8.991961, 45.969645]}, {"name": "Parco Giochi Barzaghi", "text": "A luganói Parco Giochi Barzaghi ideális hely a gyerekeknek a szabadtéri játékhoz.", "category": "family", "coords": [8.947875, 45.990049]}, {"name": "Parco Giochi Zorzi", "text": "A luganói Parco Giochi Zorzi biztonságos és barátságos játszóteret kínál a családoknak.", "category": "family", "coords": [8.942384, 45.989922]}, {"name": "Montagnola Pool", "text": "Úszómedence Luganóban a családi szabadidős tevékenységekhez.", "category": "family", "coords": [8.918083, 45.989256]}, {"name": "Lido San Domenico", "text": "Strandfürdő Luganóban a nyári tavi úszáshoz.", "category": "family", "coords": [8.989521, 46.00219]}, {"name": "Villa Principe Leopoldo Hotel & SPA", "text": "Úszómedence Luganóban a kikapcsolódáshoz elegáns környezetben.", "category": "family", "coords": [8.939994, 45.992999]}, {"name": "Collina Azzura", "text": "Úszómedence Luganóban az egész családi vízi szórakozáshoz.", "category": "family", "coords": [8.950879, 45.988261]}], "ro": [{"name": "Museo d'arte della Svizzera italiana", "text": "Muzeul de artă din Lugano prezintă un spectru larg de artă modernă și contemporană din Elveția italiană.", "category": "museum", "coords": [8.948178, 45.999155]}, {"name": "Museo cantonale di storia naturale", "text": "Acest muzeu este dedicat florei, faunei și geologiei cantonului Ticino.", "category": "museum", "coords": [8.960631, 46.004141]}, {"name": "Museo delle Culture", "text": "Un muzeu etnografic din Lugano, specializat în culturile popoarelor extraeuropene.", "category": "museum", "coords": [8.946647, 45.996349]}, {"name": "Chiesa Santa Lucia", "text": "O biserică istorică din Lugano, apreciată pentru importanța sa religioasă și arhitectură.", "category": "religious", "coords": [8.942939, 46.012501]}, {"name": "Chiesa di San Massimiliano Kolbe", "text": "O biserică romano-catolică modernă situată în cartierul Pregassona din Lugano.", "category": "religious", "coords": [8.968622, 46.02512]}, {"name": "Chiesa di San Giorgio", "text": "O biserică istorică din districtul Castagnola, cunoscută pentru locația sa panoramică.", "category": "religious", "coords": [8.978062, 46.002544]}, {"name": "Chiesa di San Nicolao della Flüe", "text": "O clădire de biserică modernă distinctivă, dedicată sfântului național al Elveției.", "category": "religious", "coords": [8.941211, 46.006514]}, {"name": "Chiesa di Loreto", "text": "O biserică barocă la marginea centrului orașului Lugano, lângă malul lacului.", "category": "religious", "coords": [8.945382, 45.997938]}, {"name": "Chiesa dei Santi Quirico e Giulitta", "text": "Biserica parohială din Barbengo este un bun cultural protejat în regiunea Lugano.", "category": "religious", "coords": [8.925653, 46.003048]}, {"name": "Chiesa Parrocchiale di Sant'Abbondio", "text": "Această biserică abațială barocă din Gentilino este faimoasă pentru aleea sa de chiparoși.", "category": "religious", "coords": [8.927941, 45.988455]}, {"name": "Chiesa di San Giuseppe", "text": "O biserică romano-catolică care servește ca loc de întâlnire religios în Lugano.", "category": "religious", "coords": [8.950766, 46.006444]}, {"name": "Chiesa del Sacro Cuore", "text": "O bazilică din anii 1920, situată în centrul orașului Lugano.", "category": "religious", "coords": [8.955783, 46.010448]}, {"name": "Chiesa Santa Maria di Pazzalino", "text": "Biserica istorică Sfânta Maria este situată în districtul Viganello din Lugano.", "category": "religious", "coords": [8.97458, 46.016825]}, {"name": "Chiesa di Santa Teresa di Lisieux", "text": "Un lăcaș de cult catolic din Lugano, dedicat Sfintei Tereza de Lisieux.", "category": "religious", "coords": [8.96697, 46.011003]}, {"name": "Santa Maria dello Stradone", "text": "O structură religioasă din Lugano dedicată Fecioarei Maria.", "category": "religious", "coords": [8.956811, 46.011825]}, {"name": "Cattedrale di San Lorenzo", "text": "Catedrala Episcopiei de Lugano oferă o fațadă splendidă în stil renascentist.", "category": "landmark", "coords": [8.948551, 46.004609]}, {"name": "Monte San Salvatore", "text": "Un munte distinctiv la sud de Lugano, cunoscut pentru funicularul său și priveliștea largă.", "category": "natural", "coords": [8.947302, 45.977112]}, {"name": "Monte Bre", "text": "Acest punct de belvedere deasupra Lugano este cunoscut ca unul dintre cele mai însorite locuri din Elveția.", "category": "natural", "coords": [8.98741, 46.009085]}, {"name": "Villa Favorita", "text": "Un parc vast pe malul lacului, cu o vilă istorică și arhitectură semnificativă.", "category": "park", "coords": [8.975808, 46.001391]}, {"name": "Museo Mario Bernasconi", "text": "Un muzeu de artă în Pazzallo, dedicat lucrărilor sculptorului Mario Bernasconi.", "category": "museum", "coords": [8.94263, 45.984087]}, {"name": "Museo Rainis e Aspazija", "text": "Museo Rainis e Aspazija este o instituție muzeală situată în orașul elvețian Lugano. Muzeul este consacrat vieții și creației literare a iluștrilor poeți letoni Rainis și Aspazija. Pasionații de literatură vor descoperi aici documente și obiecte care ilustrează exilul și moștenirea lor culturală.", "category": "museum", "coords": [8.977264, 46.001543]}, {"name": "Museo Villa Pia", "text": "Un muzeu într-o vilă istorică, care găzduiește expoziții de artă temporare.", "category": "museum", "coords": [8.95258, 46.026192]}, {"name": "Memorial Room Clay Regazzoni", "text": "O cameră memorială dedicată celebrului pilot elvețian de Formula 1, Clay Regazzoni.", "category": "museum", "coords": [8.974049, 46.026448]}, {"name": "Museo della Tipografia Renato Fontana", "text": "Un muzeu specializat care documentează istoria și tehnica tiparului.", "category": "museum", "coords": [8.969391, 46.028022]}, {"name": "Absolute Art Gallery", "text": "O galerie de artă modernă în centrul orașului Lugano, care prezintă lucrări contemporane.", "category": "museum", "coords": [8.957603, 46.00615]}, {"name": "Teatro Foce", "text": "Un teatru municipal din Lugano care oferă spațiu pentru diverse spectacole culturale.", "category": "cultural", "coords": [8.961374, 46.005613]}, {"name": "Teatro Pan", "text": "O companie de teatru și locație din Lugano, cunoscută pentru producțiile sale inovatoare.", "category": "cultural", "coords": [8.96032, 46.006622]}, {"name": "Villa Ciani", "text": "O clădire impunătoare în parcul orașului, utilizată pentru expoziții de artă și evenimente.", "category": "cultural", "coords": [8.956542, 46.00463]}, {"name": "Chiesa San Rocco", "text": "O biserică barocă în inima orașului Lugano, cunoscută pentru arhitectura sa elegantă.", "category": "religious", "coords": [8.95394, 46.004576]}, {"name": "Chiesa di Sant'Antonio Abate", "text": "Această biserică istorică din centrul orașului Lugano impresionează prin decorul său interior baroc.", "category": "religious", "coords": [8.951436, 46.004887]}, {"name": "Chiesa dei Santi Bernardino e Martino", "text": "O biserică fermecătoare de sat în districtul Cassarate, dedicată Sfinților Bernard și Martin.", "category": "religious", "coords": [8.954628, 46.027332]}, {"name": "Madonna della Salute", "text": "O mică biserică din Lugano care servește ca loc de devoțiune și liniște.", "category": "religious", "coords": [8.943474, 46.010747]}, {"name": "Chiesa di Santa Maria dell'Annunciazione", "text": "O clădire religioasă în districtul Pazzallo din Lugano, dedicată Bunei Vestiri.", "category": "religious", "coords": [8.922491, 45.998351]}, {"name": "Oratorio di San Sebastiano", "text": "Un oratoriu istoric în centrul orașului Lugano, dedicat Sfântului Sebastian.", "category": "religious", "coords": [8.929164, 46.006702]}, {"name": "Chiesa di San Carlo Borromeo", "text": "O biserică catolică din Lugano, numită după Sfântul Carol Borromeo.", "category": "religious", "coords": [8.949659, 46.002707]}, {"name": "Chiesa della Santissima Trinità", "text": "Un lăcaș de cult în Lugano dedicat Sfintei Treimi.", "category": "religious", "coords": [8.949276, 46.008285]}, {"name": "Chiesa riformata", "text": "Clădirea centrală a bisericii comunității evanghelice reformate din Lugano.", "category": "religious", "coords": [8.959024, 46.005405]}, {"name": "San Pietro", "text": "O biserică catolică dedicată Sfântului Petru, situată în Lugano.", "category": "religious", "coords": [8.935786, 45.986223]}, {"name": "Oratorio di San Pietro delle Erbette", "text": "O mică capelă sau casă de rugăciune în zona Lugano.", "category": "religious", "coords": [8.969902, 46.006047]}, {"name": "Chiesa-oratorio di San Martino", "text": "O mică clădire religioasă dedicată Sfântului Martin.", "category": "religious", "coords": [8.940689, 46.026332]}, {"name": "Chiesa Evangelica Battista Betel", "text": "Clădirea bisericii comunității baptiste din Lugano.", "category": "religious", "coords": [8.952329, 46.010052]}, {"name": "fondazione Filippo Ciani", "text": "Un muzeu sau o instituție culturală asociată cu numele familiei Ciani.", "category": "museum", "coords": [8.956545, 46.005898]}, {"name": "Dal tam-tam alla radio digitale", "text": "Un muzeu specializat din Lugano care prezintă evoluția tehnologiei de comunicare.", "category": "museum", "coords": [8.941213, 46.019152]}, {"name": "Imago Art Gallery", "text": "O galerie din Lugano care se concentrează pe arta contemporană internațională.", "category": "museum", "coords": [8.949495, 46.00165]}, {"name": "[dip]", "text": "O galerie din Lugano dedicată promovării artei contemporane.", "category": "museum", "coords": [8.953107, 46.011052]}, {"name": "Galleria Art on... Paper", "text": "O galerie de artă specializată, concentrată pe lucrări pe hârtie.", "category": "museum", "coords": [8.944946, 45.992563]}, {"name": "Marco Lucchetti Art Gallery", "text": "O galerie din Lugano cunoscută pentru expozițiile sale de artă ilustrativă.", "category": "museum", "coords": [8.949646, 46.00445]}, {"name": "Galleria Doppia V", "text": "O galerie stabilită în Lugano care expune artă modernă și contemporană.", "category": "museum", "coords": [8.942879, 46.0056]}, {"name": "Antimo Bertolino", "text": "O galerie de artă privată sau spațiu expozițional în Lugano.", "category": "museum", "coords": [8.958335, 46.007104]}, {"name": "SofiArt Gallery", "text": "O galerie în Lugano care prezintă o selecție de diverse opere de artă.", "category": "museum", "coords": [8.946053, 45.993608]}, {"name": "Lo Spartaco di Vela", "text": "Un monument important din Lugano, reprezentându-l pe conducătorul sclavilor, Spartacus.", "category": "historical", "coords": [8.951329, 46.003367]}, {"name": "Laghetto di Muzzano", "text": "Laghetto di Muzzano de lângă Lugano este un lac pitoresc, ideal pentru plimbări relaxante.", "category": "natural", "coords": [8.927558, 45.996691]}, {"name": "Laghetto di Origlio", "text": "Laghetto di Origlio din Lugano oferă o atmosferă liniștită și natură frumoasă.", "category": "natural", "coords": [8.942752, 46.050666]}, {"name": "Lago di Caslé", "text": "Lago di Caslé este un lac liniștit situat în apropiere de Lugano.", "category": "natural", "coords": [9.040105, 45.995865]}, {"name": "Acquedotto di Ponte Capriasca", "text": "Acquedotto di Ponte Capriasca este un ochi de apă local în regiunea Lugano.", "category": "natural", "coords": [8.955354, 46.06346]}, {"name": "Lago di Lugano", "text": "Lacul Lugano impresionează prin peisajul său spectaculos și oportunitățile diverse de recreere.", "category": "natural", "coords": [8.991961, 45.969645]}, {"name": "Parco Giochi Barzaghi", "text": "Parco Giochi Barzaghi din Lugano este un loc ideal pentru copii să se joace în aer liber.", "category": "family", "coords": [8.947875, 45.990049]}, {"name": "Parco Giochi Zorzi", "text": "Parco Giochi Zorzi din Lugano oferă o zonă de joacă sigură și prietenoasă pentru familii.", "category": "family", "coords": [8.942384, 45.989922]}, {"name": "Montagnola Pool", "text": "O piscină în Lugano pentru activități de petrecere a timpului liber în familie.", "category": "family", "coords": [8.918083, 45.989256]}, {"name": "Lido San Domenico", "text": "Un ștrand în Lugano pentru înot de vară în lac.", "category": "family", "coords": [8.989521, 46.00219]}, {"name": "Villa Principe Leopoldo Hotel & SPA", "text": "O piscină în Lugano pentru relaxare într-o atmosferă rafinată.", "category": "family", "coords": [8.939994, 45.992999]}, {"name": "Collina Azzura", "text": "O piscină în Lugano pentru distracție în apă cu întreaga familie.", "category": "family", "coords": [8.950879, 45.988261]}], "en": [{"name": "Museo d'arte della Svizzera italiana", "text": "The art museum in Lugano presents a wide spectrum of modern and contemporary art from Italian-speaking Switzerland.", "category": "museum", "coords": [8.948178, 45.999155]}, {"name": "Museo cantonale di storia naturale", "text": "This museum is dedicated to the flora, fauna, and geology of the canton of Ticino.", "category": "museum", "coords": [8.960631, 46.004141]}, {"name": "Museo delle Culture", "text": "An ethnographic museum in Lugano specialized in the cultures of non-European peoples.", "category": "museum", "coords": [8.946647, 45.996349]}, {"name": "Chiesa Santa Lucia", "text": "A historic church in Lugano appreciated for its religious significance and architecture.", "category": "religious", "coords": [8.942939, 46.012501]}, {"name": "Chiesa di San Massimiliano Kolbe", "text": "A modern Roman Catholic church located in the Pregassona district of Lugano.", "category": "religious", "coords": [8.968622, 46.02512]}, {"name": "Chiesa di San Giorgio", "text": "A historical church in the Castagnola district, known for its panoramic location.", "category": "religious", "coords": [8.978062, 46.002544]}, {"name": "Chiesa di San Nicolao della Flüe", "text": "A distinctive modern church building dedicated to the national saint of Switzerland.", "category": "religious", "coords": [8.941211, 46.006514]}, {"name": "Chiesa di Loreto", "text": "A Baroque church on the edge of Lugano's city center, near the lakeshore.", "category": "religious", "coords": [8.945382, 45.997938]}, {"name": "Chiesa dei Santi Quirico e Giulitta", "text": "The parish church of Barbengo is a protected cultural asset in the Lugano region.", "category": "religious", "coords": [8.925653, 46.003048]}, {"name": "Chiesa Parrocchiale di Sant'Abbondio", "text": "This Baroque collegiate church in Gentilino is famous for its distinctive cypress avenue.", "category": "religious", "coords": [8.927941, 45.988455]}, {"name": "Chiesa di San Giuseppe", "text": "A Roman Catholic church serving as a religious meeting point in Lugano.", "category": "religious", "coords": [8.950766, 46.006444]}, {"name": "Chiesa del Sacro Cuore", "text": "A basilica from the 1920s located in the center of Lugano.", "category": "religious", "coords": [8.955783, 46.010448]}, {"name": "Chiesa Santa Maria di Pazzalino", "text": "The historical Saint Mary church is located in the Viganello district of Lugano.", "category": "religious", "coords": [8.97458, 46.016825]}, {"name": "Chiesa di Santa Teresa di Lisieux", "text": "A Catholic place of worship in Lugano dedicated to Saint Therese of Lisieux.", "category": "religious", "coords": [8.96697, 46.011003]}, {"name": "Santa Maria dello Stradone", "text": "A religious structure in Lugano dedicated to the Virgin Mary.", "category": "religious", "coords": [8.956811, 46.011825]}, {"name": "Cathedral of Saint Lawrence", "text": "The cathedral of the Diocese of Lugano features a magnificent Renaissance facade.", "category": "landmark", "coords": [8.948551, 46.004609]}, {"name": "Monte San Salvatore", "text": "A prominent mountain south of Lugano known for its funicular and expansive views.", "category": "natural", "coords": [8.947302, 45.977112]}, {"name": "Monte Bre", "text": "This viewpoint above Lugano is known as one of the sunniest spots in Switzerland.", "category": "natural", "coords": [8.98741, 46.009085]}, {"name": "Villa Favorita", "text": "An extensive lakeside park featuring a historical villa and significant architecture.", "category": "park", "coords": [8.975808, 46.001391]}, {"name": "Museo Mario Bernasconi", "text": "An art museum in Pazzallo dedicated to the works of sculptor Mario Bernasconi.", "category": "museum", "coords": [8.94263, 45.984087]}, {"name": "Museo Rainis e Aspazija", "text": "The Museo Rainis e Aspazija is a museum nestled in the Swiss city of Lugano. It is entirely devoted to preserving the life story and literary works of the Latvian poets Rainis and Aspazija. Visitors will find detailed exhibits that explore the couple's time in Switzerland and their lasting cultural impact.", "category": "museum", "coords": [8.977264, 46.001543]}, {"name": "Museo Villa Pia", "text": "A museum in a historical villa that hosts rotating art exhibitions.", "category": "museum", "coords": [8.95258, 46.026192]}, {"name": "Memorial Room Clay Regazzoni", "text": "A memorial room dedicated to the famous Swiss Formula 1 driver Clay Regazzoni.", "category": "museum", "coords": [8.974049, 46.026448]}, {"name": "Museo della Tipografia Renato Fontana", "text": "A specialized museum documenting the history and technique of typography.", "category": "museum", "coords": [8.969391, 46.028022]}, {"name": "Absolute Art Gallery", "text": "A modern art gallery in the center of Lugano presenting contemporary works.", "category": "museum", "coords": [8.957603, 46.00615]}, {"name": "Teatro Foce", "text": "A municipal theatre in Lugano providing space for various cultural performances.", "category": "cultural", "coords": [8.961374, 46.005613]}, {"name": "Teatro Pan", "text": "A theatre company and venue in Lugano known for its innovative productions.", "category": "cultural", "coords": [8.96032, 46.006622]}, {"name": "Villa Ciani", "text": "A stately building in the city park used for art exhibitions and events.", "category": "cultural", "coords": [8.956542, 46.00463]}, {"name": "Chiesa San Rocco", "text": "A Baroque church in the heart of Lugano known for its elegant architecture.", "category": "religious", "coords": [8.95394, 46.004576]}, {"name": "Chiesa di Sant'Antonio Abate", "text": "This historical church in the center of Lugano stands out for its Baroque interior decoration.", "category": "religious", "coords": [8.951436, 46.004887]}, {"name": "Chiesa dei Santi Bernardino e Martino", "text": "A charming village church in the Cassarate district dedicated to Saints Bernard and Martin.", "category": "religious", "coords": [8.954628, 46.027332]}, {"name": "Madonna della Salute", "text": "A small church in Lugano serving as a place of devotion and quiet.", "category": "religious", "coords": [8.943474, 46.010747]}, {"name": "Chiesa di Santa Maria dell'Annunciazione", "text": "A religious building in the Pazzallo district of Lugano dedicated to the Annunciation.", "category": "religious", "coords": [8.922491, 45.998351]}, {"name": "Oratorio di San Sebastiano", "text": "A historical oratory in the center of Lugano dedicated to Saint Sebastian.", "category": "religious", "coords": [8.929164, 46.006702]}, {"name": "Chiesa di San Carlo Borromeo", "text": "A Catholic church in Lugano named after Saint Charles Borromeo.", "category": "religious", "coords": [8.949659, 46.002707]}, {"name": "Chiesa della Santissima Trinità", "text": "A place of worship in Lugano dedicated to the Holy Trinity.", "category": "religious", "coords": [8.949276, 46.008285]}, {"name": "Chiesa riformata", "text": "The central church building of the Evangelical Reformed community in Lugano.", "category": "religious", "coords": [8.959024, 46.005405]}, {"name": "San Pietro", "text": "A Catholic church dedicated to Saint Peter, located in Lugano.", "category": "religious", "coords": [8.935786, 45.986223]}, {"name": "Oratorio di San Pietro delle Erbette", "text": "A small chapel or house of prayer in the Lugano area.", "category": "religious", "coords": [8.969902, 46.006047]}, {"name": "Chiesa-oratorio di San Martino", "text": "A small religious building dedicated to Saint Martin.", "category": "religious", "coords": [8.940689, 46.026332]}, {"name": "Chiesa Evangelica Battista Betel", "text": "The church building of the Baptist community in Lugano.", "category": "religious", "coords": [8.952329, 46.010052]}, {"name": "fondazione Filippo Ciani", "text": "A museum or cultural institution associated with the name of the Ciani family.", "category": "museum", "coords": [8.956545, 46.005898]}, {"name": "Dal tam-tam alla radio digitale", "text": "A specialized museum in Lugano showing the evolution of communication technology.", "category": "museum", "coords": [8.941213, 46.019152]}, {"name": "Imago Art Gallery", "text": "A gallery in Lugano focusing on international contemporary art.", "category": "museum", "coords": [8.949495, 46.00165]}, {"name": "[dip]", "text": "A gallery in Lugano dedicated to the promotion of contemporary art.", "category": "museum", "coords": [8.953107, 46.011052]}, {"name": "Galleria Art on... Paper", "text": "A specialized art gallery focusing on works on paper.", "category": "museum", "coords": [8.944946, 45.992563]}, {"name": "Marco Lucchetti Art Gallery", "text": "A gallery in Lugano known for its exhibitions in the field of illustrative art.", "category": "museum", "coords": [8.949646, 46.00445]}, {"name": "Galleria Doppia V", "text": "An established gallery in Lugano exhibiting modern and contemporary art.", "category": "museum", "coords": [8.942879, 46.0056]}, {"name": "Antimo Bertolino", "text": "A private art gallery or exhibition space in Lugano.", "category": "museum", "coords": [8.958335, 46.007104]}, {"name": "SofiArt Gallery", "text": "A gallery in Lugano presenting a selection of various artworks.", "category": "museum", "coords": [8.946053, 45.993608]}, {"name": "Lo Spartaco di Vela", "text": "A significant monument in Lugano representing the slave leader Spartacus.", "category": "historical", "coords": [8.951329, 46.003367]}, {"name": "Laghetto di Muzzano", "text": "The Laghetto di Muzzano near Lugano is a picturesque lake perfect for relaxing walks.", "category": "natural", "coords": [8.927558, 45.996691]}, {"name": "Laghetto di Origlio", "text": "The Laghetto di Origlio in Lugano offers a peaceful atmosphere and beautiful nature.", "category": "natural", "coords": [8.942752, 46.050666]}, {"name": "Lago di Caslé", "text": "Lago di Caslé is a quiet lake located near Lugano.", "category": "natural", "coords": [9.040105, 45.995865]}, {"name": "Acquedotto di Ponte Capriasca", "text": "The Acquedotto di Ponte Capriasca is a local body of water in the Lugano region.", "category": "natural", "coords": [8.955354, 46.06346]}, {"name": "Lago di Lugano", "text": "Lake Lugano impresses with its stunning scenery and diverse recreational opportunities.", "category": "natural", "coords": [8.991961, 45.969645]}, {"name": "Parco Giochi Barzaghi", "text": "Parco Giochi Barzaghi in Lugano is an ideal place for children to play outdoors.", "category": "family", "coords": [8.947875, 45.990049]}, {"name": "Parco Giochi Zorzi", "text": "Parco Giochi Zorzi in Lugano offers a safe and friendly play area for families.", "category": "family", "coords": [8.942384, 45.989922]}, {"name": "Montagnola Pool", "text": "A swimming pool in Lugano for family leisure activities.", "category": "family", "coords": [8.918083, 45.989256]}, {"name": "Lido San Domenico", "text": "A beach resort in Lugano for summer swimming fun in the lake.", "category": "family", "coords": [8.989521, 46.00219]}, {"name": "Villa Principe Leopoldo Hotel & SPA", "text": "A swimming pool in Lugano for relaxation in a sophisticated atmosphere.", "category": "family", "coords": [8.939994, 45.992999]}, {"name": "Collina Azzura", "text": "A swimming pool in Lugano for water fun with the whole family.", "category": "family", "coords": [8.950879, 45.988261]}]},
+    id: "city-lugano", "sights": {
+      "de": [
+            {
+                  "name": "Museo d'arte della Svizzera italiana",
+                  "text": "Das Kunstmuseum in Lugano präsentiert ein breites Spektrum an moderner und zeitgenössischer Kunst der italienischen Schweiz.",
+                  "category": "museum",
+                  "coords": [
+                        8.948178,
+                        45.999155
+                  ]
+            },
+            {
+                  "name": "Museo cantonale di storia naturale",
+                  "text": "Dieses Museum widmet sich der Flora, Fauna und Geologie des Kantons Tessin.",
+                  "category": "museum",
+                  "coords": [
+                        8.960631,
+                        46.004141
+                  ]
+            },
+            {
+                  "name": "Museo delle Culture",
+                  "text": "Ein ethnographisches Museum in Lugano, das sich auf die Kulturen aussereuropäischer Völker spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        8.946647,
+                        45.996349
+                  ]
+            },
+            {
+                  "name": "Chiesa Santa Lucia",
+                  "text": "Eine historische Kirche in Lugano, die für ihre religiöse Bedeutung und Architektur geschätzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        8.942939,
+                        46.012501
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Massimiliano Kolbe",
+                  "text": "Eine moderne römisch-katholische Kirche im Stadtteil Pregassona in Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.968622,
+                        46.02512
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giorgio",
+                  "text": "Eine historische Kirche im Ortsteil Castagnola, die für ihre Panoramalage bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.978062,
+                        46.002544
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicolao della Flüe",
+                  "text": "Ein markantes modernes Kirchengebäude, das dem Schweizer Nationalheiligen gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.941211,
+                        46.006514
+                  ]
+            },
+            {
+                  "name": "Chiesa di Loreto",
+                  "text": "Eine Barockkirche am Rande des Luganer Stadtzentrums, nahe dem Seeufer.",
+                  "category": "religious",
+                  "coords": [
+                        8.945382,
+                        45.997938
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Quirico e Giulitta",
+                  "text": "Die Pfarrkirche von Barbengo ist ein geschütztes Kulturgut in der Region Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.925653,
+                        46.003048
+                  ]
+            },
+            {
+                  "name": "Chiesa Parrocchiale di Sant'Abbondio",
+                  "text": "Diese barocke Stiftskirche in Gentilino ist für ihre markante Zypressenallee berühmt.",
+                  "category": "religious",
+                  "coords": [
+                        8.927941,
+                        45.988455
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giuseppe",
+                  "text": "Eine römisch-katholische Kirche, die als religiöser Treffpunkt in Lugano dient.",
+                  "category": "religious",
+                  "coords": [
+                        8.950766,
+                        46.006444
+                  ]
+            },
+            {
+                  "name": "Chiesa del Sacro Cuore",
+                  "text": "Eine Basilika aus den 1920er Jahren, die sich im Zentrum von Lugano befindet.",
+                  "category": "religious",
+                  "coords": [
+                        8.955783,
+                        46.010448
+                  ]
+            },
+            {
+                  "name": "Chiesa Santa Maria di Pazzalino",
+                  "text": "Die historische Marienkirche befindet sich im Luganer Stadtteil Viganello.",
+                  "category": "religious",
+                  "coords": [
+                        8.97458,
+                        46.016825
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Teresa di Lisieux",
+                  "text": "Eine katholische Kultusstätte in Lugano, die der Heiligen Teresa von Lisieux geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.96697,
+                        46.011003
+                  ]
+            },
+            {
+                  "name": "Santa Maria dello Stradone",
+                  "text": "Ein religiöses Bauwerk in Lugano, das der Jungfrau Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.956811,
+                        46.011825
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Lorenzo",
+                  "text": "Die Kathedrale des Bistums Lugano bietet eine prachtvolle Fassade im Stil der Renaissance.",
+                  "category": "landmark",
+                  "coords": [
+                        8.948551,
+                        46.004609
+                  ]
+            },
+            {
+                  "name": "Monte San Salvatore",
+                  "text": "Ein markanter Berg südlich von Lugano, der für seine Seilbahn und die weite Aussicht bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        8.947302,
+                        45.977112
+                  ]
+            },
+            {
+                  "name": "Monte Bre",
+                  "text": "Dieser Aussichtspunkt über Lugano ist als einer der sonnigsten Orte der Schweiz bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        8.98741,
+                        46.009085
+                  ]
+            },
+            {
+                  "name": "Villa Favorita",
+                  "text": "Ein weitläufiger Park am Seeufer mit einer historischen Villa und bedeutender Architektur.",
+                  "category": "park",
+                  "coords": [
+                        8.975808,
+                        46.001391
+                  ]
+            },
+            {
+                  "name": "Museo Mario Bernasconi",
+                  "text": "Ein Künstlermuseum in Pazzallo, das den Werken des Bildhauers Mario Bernasconi gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.94263,
+                        45.984087
+                  ]
+            },
+            {
+                  "name": "Museo Rainis e Aspazija",
+                  "text": "In der Schweizer Stadt Lugano befindet sich das Museo Rainis e Aspazija. Das Museum rückt das Leben und die bedeutenden Werke der lettischen Dichter Rainis und Aspazija in den Mittelpunkt. Literaturbegeisterte Gäste finden hier eine detaillierte Aufarbeitung des Schaffens dieses berühmten Paares.",
+                  "category": "museum",
+                  "coords": [
+                        8.977264,
+                        46.001543
+                  ]
+            },
+            {
+                  "name": "Museo Villa Pia",
+                  "text": "Ein Museum in einer historischen Villa, das wechselnde Kunstausstellungen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        8.95258,
+                        46.026192
+                  ]
+            },
+            {
+                  "name": "Memorial Room Clay Regazzoni",
+                  "text": "Eine Gedenkstätte für den berühmten Schweizer Formel-1-Rennfahrer Clay Regazzoni.",
+                  "category": "museum",
+                  "coords": [
+                        8.974049,
+                        46.026448
+                  ]
+            },
+            {
+                  "name": "Museo della Tipografia Renato Fontana",
+                  "text": "Ein spezialisiertes Museum, das die Geschichte und Technik des Buchdrucks dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.969391,
+                        46.028022
+                  ]
+            },
+            {
+                  "name": "Absolute Art Gallery",
+                  "text": "Eine moderne Kunstgalerie im Zentrum von Lugano, die zeitgenössische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.957603,
+                        46.00615
+                  ]
+            },
+            {
+                  "name": "Teatro Foce",
+                  "text": "Ein städtisches Theater in Lugano, das Raum für verschiedene kulturelle Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        8.961374,
+                        46.005613
+                  ]
+            },
+            {
+                  "name": "Teatro Pan",
+                  "text": "Ein Theaterensemble und Spielort in Lugano, bekannt für seine innovativen Inszenierungen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.96032,
+                        46.006622
+                  ]
+            },
+            {
+                  "name": "Villa Ciani",
+                  "text": "Ein herrschaftliches Gebäude im Stadtpark, das für Kunstausstellungen und Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        8.956542,
+                        46.00463
+                  ]
+            },
+            {
+                  "name": "Chiesa San Rocco",
+                  "text": "Eine barocke Kirche im Herzen von Lugano, die für ihre elegante Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.95394,
+                        46.004576
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Antonio Abate",
+                  "text": "Diese historische Kirche im Zentrum von Lugano besticht durch ihre barocke Innenausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        8.951436,
+                        46.004887
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Bernardino e Martino",
+                  "text": "Eine charmante Dorfkirche im Stadtteil Cassarate, die den Heiligen Bernhard und Martin gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.954628,
+                        46.027332
+                  ]
+            },
+            {
+                  "name": "Madonna della Salute",
+                  "text": "Eine kleine Kirche in Lugano, die als Ort der Andacht und Ruhe dient.",
+                  "category": "religious",
+                  "coords": [
+                        8.943474,
+                        46.010747
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria dell'Annunciazione",
+                  "text": "Ein religiöses Gebäude im Luganer Stadtteil Pazzallo, das der Verkündigung gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.922491,
+                        45.998351
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Sebastiano",
+                  "text": "Ein historisches Oratorium im Zentrum von Lugano, das dem Heiligen Sebastian geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.929164,
+                        46.006702
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Carlo Borromeo",
+                  "text": "Eine katholische Kirche in Lugano, die nach dem heiligen Karl Borromäus benannt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        8.949659,
+                        46.002707
+                  ]
+            },
+            {
+                  "name": "Chiesa della Santissima Trinità",
+                  "text": "Ein Gotteshaus in Lugano, das der Heiligen Dreifaltigkeit gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.949276,
+                        46.008285
+                  ]
+            },
+            {
+                  "name": "Chiesa riformata",
+                  "text": "Das zentrale Kirchengebäude der evangelisch-reformierten Gemeinde in Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.959024,
+                        46.005405
+                  ]
+            },
+            {
+                  "name": "San Pietro",
+                  "text": "Eine katholische Kirche, die dem Apostel Petrus gewidmet ist und in Lugano liegt.",
+                  "category": "religious",
+                  "coords": [
+                        8.935786,
+                        45.986223
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Pietro delle Erbette",
+                  "text": "Eine kleine Kapelle oder ein Gebetshaus im Gebiet von Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.969902,
+                        46.006047
+                  ]
+            },
+            {
+                  "name": "Chiesa-oratorio di San Martino",
+                  "text": "Ein kleines religiöses Gebäude, das dem Heiligen Martin gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.940689,
+                        46.026332
+                  ]
+            },
+            {
+                  "name": "Chiesa Evangelica Battista Betel",
+                  "text": "Das Kirchengebäude der baptistischen Gemeinde in Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.952329,
+                        46.010052
+                  ]
+            },
+            {
+                  "name": "fondazione Filippo Ciani",
+                  "text": "Ein Museum oder eine kulturelle Einrichtung, die mit dem Namen der Familie Ciani verbunden ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.956545,
+                        46.005898
+                  ]
+            },
+            {
+                  "name": "Dal tam-tam alla radio digitale",
+                  "text": "Ein spezialisiertes Museum in Lugano, das die Entwicklung der Kommunikationstechnik zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.941213,
+                        46.019152
+                  ]
+            },
+            {
+                  "name": "Imago Art Gallery",
+                  "text": "Eine Galerie in Lugano, die sich auf internationale zeitgenössische Kunst konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        8.949495,
+                        46.00165
+                  ]
+            },
+            {
+                  "name": "[dip]",
+                  "text": "Eine Galerie in Lugano, die sich der Förderung zeitgenössischer Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.953107,
+                        46.011052
+                  ]
+            },
+            {
+                  "name": "Galleria Art on... Paper",
+                  "text": "Eine spezialisierte Kunstgalerie, die sich auf Werke auf Papier konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        8.944946,
+                        45.992563
+                  ]
+            },
+            {
+                  "name": "Marco Lucchetti Art Gallery",
+                  "text": "Eine Galerie in Lugano, die für ihre Ausstellungen im Bereich der Illustrationskunst bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.949646,
+                        46.00445
+                  ]
+            },
+            {
+                  "name": "Galleria Doppia V",
+                  "text": "Eine etablierte Galerie in Lugano, die moderne und zeitgenössische Kunst ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        8.942879,
+                        46.0056
+                  ]
+            },
+            {
+                  "name": "Antimo Bertolino",
+                  "text": "Eine private Kunstgalerie oder ein Ausstellungsraum in Lugano.",
+                  "category": "museum",
+                  "coords": [
+                        8.958335,
+                        46.007104
+                  ]
+            },
+            {
+                  "name": "SofiArt Gallery",
+                  "text": "Eine Galerie in Lugano, die eine Auswahl an verschiedenen Kunstwerken präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.946053,
+                        45.993608
+                  ]
+            },
+            {
+                  "name": "Lo Spartaco di Vela",
+                  "text": "Ein bedeutendes Denkmal in Lugano, das den Sklavenanführer Spartacus darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        8.951329,
+                        46.003367
+                  ]
+            },
+            {
+                  "name": "Laghetto di Muzzano",
+                  "text": "Der Laghetto di Muzzano bei Lugano ist ein malerischer See, der zu entspannten Spaziergängen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.927558,
+                        45.996691
+                  ]
+            },
+            {
+                  "name": "Lago di Caslé",
+                  "text": "Der Lago di Caslé ist ein ruhiges Gewässer in der Nähe von Lugano.",
+                  "category": "natural",
+                  "coords": [
+                        9.040105,
+                        45.995865
+                  ]
+            },
+            {
+                  "name": "Luganersee",
+                  "text": "Der Luganersee besticht durch seine beeindruckende Kulisse und vielfältige Freizeitmöglichkeiten.",
+                  "category": "natural",
+                  "coords": [
+                        8.991961,
+                        45.969645
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Barzaghi",
+                  "text": "Der Parco Giochi Barzaghi in Lugano ist ein idealer Ort für Kinder zum Spielen im Freien.",
+                  "category": "family",
+                  "coords": [
+                        8.947875,
+                        45.990049
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Zorzi",
+                  "text": "Parco Giochi Zorzi bietet in Lugano einen sicheren und freundlichen Spielbereich für Familien.",
+                  "category": "family",
+                  "coords": [
+                        8.942384,
+                        45.989922
+                  ]
+            },
+            {
+                  "name": "Montagnola Pool",
+                  "text": "Ein Schwimmbad in Lugano für die Freizeitgestaltung mit der Familie.",
+                  "category": "family",
+                  "coords": [
+                        8.918083,
+                        45.989256
+                  ]
+            },
+            {
+                  "name": "Lido San Domenico",
+                  "text": "Ein Strandbad in Lugano für sommerliches Schwimmvergnügen im See.",
+                  "category": "family",
+                  "coords": [
+                        8.989521,
+                        46.00219
+                  ]
+            },
+            {
+                  "name": "Villa Principe Leopoldo Hotel & SPA",
+                  "text": "Ein Schwimmbad in Lugano für Entspannung in gehobener Atmosphäre.",
+                  "category": "family",
+                  "coords": [
+                        8.939994,
+                        45.992999
+                  ]
+            },
+            {
+                  "name": "Collina Azzura",
+                  "text": "Ein Schwimmbad in Lugano für den Wasserspaß mit der ganzen Familie.",
+                  "category": "family",
+                  "coords": [
+                        8.950879,
+                        45.988261
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo d'arte della Svizzera italiana",
+                  "text": "Lugano művészeti múzeuma az olasz Svájc modern és kortárs művészetének széles skáláját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.948178,
+                        45.999155
+                  ]
+            },
+            {
+                  "name": "Museo cantonale di storia naturale",
+                  "text": "Ez a múzeum Ticino kanton flórájának, faunájának és geológiájának szenteli kiállításait.",
+                  "category": "museum",
+                  "coords": [
+                        8.960631,
+                        46.004141
+                  ]
+            },
+            {
+                  "name": "Museo delle Culture",
+                  "text": "Néprajzi múzeum Luganóban, amely az Európán kívüli népek kultúráira szakosodott.",
+                  "category": "museum",
+                  "coords": [
+                        8.946647,
+                        45.996349
+                  ]
+            },
+            {
+                  "name": "Chiesa Santa Lucia",
+                  "text": "Történelmi templom Luganóban, amelyet vallási jelentősége és építészete miatt kedvelnek.",
+                  "category": "religious",
+                  "coords": [
+                        8.942939,
+                        46.012501
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Massimiliano Kolbe",
+                  "text": "Modern római katolikus templom Lugano Pregassona negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        8.968622,
+                        46.02512
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giorgio",
+                  "text": "Történelmi templom Castagnola városrészben, amely panorámás fekvéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        8.978062,
+                        46.002544
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicolao della Flüe",
+                  "text": "Jellegzetes modern templomépület, amelyet Svájc nemzeti szentjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        8.941211,
+                        46.006514
+                  ]
+            },
+            {
+                  "name": "Chiesa di Loreto",
+                  "text": "Barokk templom Lugano városközpontjának szélén, a tópart közelében.",
+                  "category": "religious",
+                  "coords": [
+                        8.945382,
+                        45.997938
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Quirico e Giulitta",
+                  "text": "Barbengo plébániatemploma védett kulturális javak közé tartozik Lugano régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        8.925653,
+                        46.003048
+                  ]
+            },
+            {
+                  "name": "Chiesa Parrocchiale di Sant'Abbondio",
+                  "text": "Ez a barokk apátsági templom Gentilinóban a jellegzetes ciprusfasoráról híres.",
+                  "category": "religious",
+                  "coords": [
+                        8.927941,
+                        45.988455
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giuseppe",
+                  "text": "Római katolikus templom, amely vallási találkozóhelyként szolgál Luganóban.",
+                  "category": "religious",
+                  "coords": [
+                        8.950766,
+                        46.006444
+                  ]
+            },
+            {
+                  "name": "Chiesa del Sacro Cuore",
+                  "text": "Az 1920-as években épült bazilika Lugano központjában található.",
+                  "category": "religious",
+                  "coords": [
+                        8.955783,
+                        46.010448
+                  ]
+            },
+            {
+                  "name": "Chiesa Santa Maria di Pazzalino",
+                  "text": "A történelmi Szűz Mária-templom Lugano Viganello negyedében található.",
+                  "category": "religious",
+                  "coords": [
+                        8.97458,
+                        46.016825
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Teresa di Lisieux",
+                  "text": "Lisieux-i Szent Teréznek szentelt katolikus kegyhely Luganóban.",
+                  "category": "religious",
+                  "coords": [
+                        8.96697,
+                        46.011003
+                  ]
+            },
+            {
+                  "name": "Santa Maria dello Stradone",
+                  "text": "Szűz Máriának szentelt vallási épület Luganóban.",
+                  "category": "religious",
+                  "coords": [
+                        8.956811,
+                        46.011825
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Lorenzo",
+                  "text": "A Luganói egyházmegye székesegyháza pompás reneszánsz homlokzattal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        8.948551,
+                        46.004609
+                  ]
+            },
+            {
+                  "name": "Monte San Salvatore",
+                  "text": "Luganótól délre fekvő jellegzetes hegy, amely siklójáról és tágas kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        8.947302,
+                        45.977112
+                  ]
+            },
+            {
+                  "name": "Monte Bre",
+                  "text": "Ez a Lugano feletti kilátópont Svájc egyik legnaposabb helyeként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        8.98741,
+                        46.009085
+                  ]
+            },
+            {
+                  "name": "Villa Favorita",
+                  "text": "Kiterjedt tóparti park történelmi villával és jelentős építészeti elemekkel.",
+                  "category": "park",
+                  "coords": [
+                        8.975808,
+                        46.001391
+                  ]
+            },
+            {
+                  "name": "Museo Mario Bernasconi",
+                  "text": "Művészeti múzeum Pazzallóban, amely Mario Bernasconi szobrász műveinek van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        8.94263,
+                        45.984087
+                  ]
+            },
+            {
+                  "name": "Museo Rainis e Aspazija",
+                  "text": "A svájci Lugano városában kapott helyet a Museo Rainis e Aspazija nevű múzeum. Az intézmény a híres lett költőpáros, Rainis és Aspazija élettörténetének és munkásságának állít emléket. A látogatók mélyebb bepillantást nyerhetnek e két irodalmi alak svájci éveibe és örökségébe.",
+                  "category": "museum",
+                  "coords": [
+                        8.977264,
+                        46.001543
+                  ]
+            },
+            {
+                  "name": "Museo Villa Pia",
+                  "text": "Történelmi villában található múzeum, amely időszaki művészeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        8.95258,
+                        46.026192
+                  ]
+            },
+            {
+                  "name": "Memorial Room Clay Regazzoni",
+                  "text": "Emlékhely a híres svájci Forma-1-es versenyző, Clay Regazzoni tiszteletére.",
+                  "category": "museum",
+                  "coords": [
+                        8.974049,
+                        46.026448
+                  ]
+            },
+            {
+                  "name": "Museo della Tipografia Renato Fontana",
+                  "text": "Speciális múzeum, amely a könyvnyomtatás történetét és technikáját dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        8.969391,
+                        46.028022
+                  ]
+            },
+            {
+                  "name": "Absolute Art Gallery",
+                  "text": "Modern művészeti galéria Lugano központjában, amely kortárs alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.957603,
+                        46.00615
+                  ]
+            },
+            {
+                  "name": "Teatro Foce",
+                  "text": "Luganói városi színház, amely különféle kulturális előadásoknak ad helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        8.961374,
+                        46.005613
+                  ]
+            },
+            {
+                  "name": "Teatro Pan",
+                  "text": "Luganói színházi társulat és játszóhely, amely innovatív előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        8.96032,
+                        46.006622
+                  ]
+            },
+            {
+                  "name": "Villa Ciani",
+                  "text": "Városi parkban található impozáns épület, amelyet művészeti kiállításokra és rendezvényekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        8.956542,
+                        46.00463
+                  ]
+            },
+            {
+                  "name": "Chiesa San Rocco",
+                  "text": "Barokk templom Lugano szívében, amely elegáns építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        8.95394,
+                        46.004576
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Antonio Abate",
+                  "text": "Ez a Lugano központjában található történelmi templom barokk belső díszítésével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        8.951436,
+                        46.004887
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Bernardino e Martino",
+                  "text": "Bájos falusi templom Cassarate negyedben, amelyet Szent Bernátnak és Mártonnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        8.954628,
+                        46.027332
+                  ]
+            },
+            {
+                  "name": "Madonna della Salute",
+                  "text": "Kisméretű templom Luganóban, amely az áhítat és a nyugalom helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        8.943474,
+                        46.010747
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria dell'Annunciazione",
+                  "text": "Vallási épület Lugano Pazzallo negyedében, amelyet az Angyali üdvözletnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        8.922491,
+                        45.998351
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Sebastiano",
+                  "text": "Történelmi oratórium Lugano központjában, amelyet Szent Sebestyénnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        8.929164,
+                        46.006702
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Carlo Borromeo",
+                  "text": "Borromeo Szent Károlyról elnevezett katolikus templom Luganóban.",
+                  "category": "religious",
+                  "coords": [
+                        8.949659,
+                        46.002707
+                  ]
+            },
+            {
+                  "name": "Chiesa della Santissima Trinità",
+                  "text": "A Szentháromságnak szentelt templom Luganóban.",
+                  "category": "religious",
+                  "coords": [
+                        8.949276,
+                        46.008285
+                  ]
+            },
+            {
+                  "name": "Chiesa riformata",
+                  "text": "A luganói evangélikus-református gyülekezet központi templomépülete.",
+                  "category": "religious",
+                  "coords": [
+                        8.959024,
+                        46.005405
+                  ]
+            },
+            {
+                  "name": "San Pietro",
+                  "text": "Szent Péter apostolnak szentelt katolikus templom Luganóban.",
+                  "category": "religious",
+                  "coords": [
+                        8.935786,
+                        45.986223
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Pietro delle Erbette",
+                  "text": "Kisméretű kápolna vagy imaház Lugano területén.",
+                  "category": "religious",
+                  "coords": [
+                        8.969902,
+                        46.006047
+                  ]
+            },
+            {
+                  "name": "Chiesa-oratorio di San Martino",
+                  "text": "Szent Mártonnak szentelt kisméretű vallási épület.",
+                  "category": "religious",
+                  "coords": [
+                        8.940689,
+                        46.026332
+                  ]
+            },
+            {
+                  "name": "Chiesa Evangelica Battista Betel",
+                  "text": "A luganói baptista gyülekezet templomépülete.",
+                  "category": "religious",
+                  "coords": [
+                        8.952329,
+                        46.010052
+                  ]
+            },
+            {
+                  "name": "fondazione Filippo Ciani",
+                  "text": "A Ciani család nevéhez fűződő múzeum vagy kulturális intézmény.",
+                  "category": "museum",
+                  "coords": [
+                        8.956545,
+                        46.005898
+                  ]
+            },
+            {
+                  "name": "Dal tam-tam alla radio digitale",
+                  "text": "Speciális múzeum Luganóban, amely a kommunikációs technológia fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.941213,
+                        46.019152
+                  ]
+            },
+            {
+                  "name": "Imago Art Gallery",
+                  "text": "Luganói galéria, amely a nemzetközi kortárs művészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        8.949495,
+                        46.00165
+                  ]
+            },
+            {
+                  "name": "[dip]",
+                  "text": "Luganói galéria, amely a kortárs művészet népszerűsítésének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        8.953107,
+                        46.011052
+                  ]
+            },
+            {
+                  "name": "Galleria Art on... Paper",
+                  "text": "Papír alapú művekre szakosodott művészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        8.944946,
+                        45.992563
+                  ]
+            },
+            {
+                  "name": "Marco Lucchetti Art Gallery",
+                  "text": "Illusztrációs művészetek terén ismert galéria Luganóban.",
+                  "category": "museum",
+                  "coords": [
+                        8.949646,
+                        46.00445
+                  ]
+            },
+            {
+                  "name": "Galleria Doppia V",
+                  "text": "Luganói galéria, amely modern és kortárs művészetet állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        8.942879,
+                        46.0056
+                  ]
+            },
+            {
+                  "name": "Antimo Bertolino",
+                  "text": "Magán művészeti galéria vagy kiállítóhely Luganóban.",
+                  "category": "museum",
+                  "coords": [
+                        8.958335,
+                        46.007104
+                  ]
+            },
+            {
+                  "name": "SofiArt Gallery",
+                  "text": "Különféle műalkotások válogatását bemutató galéria Luganóban.",
+                  "category": "museum",
+                  "coords": [
+                        8.946053,
+                        45.993608
+                  ]
+            },
+            {
+                  "name": "Lo Spartaco di Vela",
+                  "text": "Lugano jelentős emlékműve, amely Spartacust, a rabszolgavezért ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        8.951329,
+                        46.003367
+                  ]
+            },
+            {
+                  "name": "Laghetto di Muzzano",
+                  "text": "A Lugano melletti Laghetto di Muzzano egy festői tó, amely kellemes sétákra hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        8.927558,
+                        45.996691
+                  ]
+            },
+            {
+                  "name": "Lago di Caslé",
+                  "text": "A Lago di Caslé egy csendes tó Lugano közelében.",
+                  "category": "natural",
+                  "coords": [
+                        9.040105,
+                        45.995865
+                  ]
+            },
+            {
+                  "name": "Lago di Lugano",
+                  "text": "A Luganói-tó lenyűgöző látványával és változatos kikapcsolódási lehetőségeivel várja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        8.991961,
+                        45.969645
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Barzaghi",
+                  "text": "A luganói Parco Giochi Barzaghi ideális hely a gyerekeknek a szabadtéri játékhoz.",
+                  "category": "family",
+                  "coords": [
+                        8.947875,
+                        45.990049
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Zorzi",
+                  "text": "A luganói Parco Giochi Zorzi biztonságos és barátságos játszóteret kínál a családoknak.",
+                  "category": "family",
+                  "coords": [
+                        8.942384,
+                        45.989922
+                  ]
+            },
+            {
+                  "name": "Montagnola Pool",
+                  "text": "Úszómedence Luganóban a családi szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        8.918083,
+                        45.989256
+                  ]
+            },
+            {
+                  "name": "Lido San Domenico",
+                  "text": "Strandfürdő Luganóban a nyári tavi úszáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.989521,
+                        46.00219
+                  ]
+            },
+            {
+                  "name": "Villa Principe Leopoldo Hotel & SPA",
+                  "text": "Úszómedence Luganóban a kikapcsolódáshoz elegáns környezetben.",
+                  "category": "family",
+                  "coords": [
+                        8.939994,
+                        45.992999
+                  ]
+            },
+            {
+                  "name": "Collina Azzura",
+                  "text": "Úszómedence Luganóban az egész családi vízi szórakozáshoz.",
+                  "category": "family",
+                  "coords": [
+                        8.950879,
+                        45.988261
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo d'arte della Svizzera italiana",
+                  "text": "Muzeul de artă din Lugano prezintă un spectru larg de artă modernă și contemporană din Elveția italiană.",
+                  "category": "museum",
+                  "coords": [
+                        8.948178,
+                        45.999155
+                  ]
+            },
+            {
+                  "name": "Museo cantonale di storia naturale",
+                  "text": "Acest muzeu este dedicat florei, faunei și geologiei cantonului Ticino.",
+                  "category": "museum",
+                  "coords": [
+                        8.960631,
+                        46.004141
+                  ]
+            },
+            {
+                  "name": "Museo delle Culture",
+                  "text": "Un muzeu etnografic din Lugano, specializat în culturile popoarelor extraeuropene.",
+                  "category": "museum",
+                  "coords": [
+                        8.946647,
+                        45.996349
+                  ]
+            },
+            {
+                  "name": "Chiesa Santa Lucia",
+                  "text": "O biserică istorică din Lugano, apreciată pentru importanța sa religioasă și arhitectură.",
+                  "category": "religious",
+                  "coords": [
+                        8.942939,
+                        46.012501
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Massimiliano Kolbe",
+                  "text": "O biserică romano-catolică modernă situată în cartierul Pregassona din Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.968622,
+                        46.02512
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giorgio",
+                  "text": "O biserică istorică din districtul Castagnola, cunoscută pentru locația sa panoramică.",
+                  "category": "religious",
+                  "coords": [
+                        8.978062,
+                        46.002544
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicolao della Flüe",
+                  "text": "O clădire de biserică modernă distinctivă, dedicată sfântului național al Elveției.",
+                  "category": "religious",
+                  "coords": [
+                        8.941211,
+                        46.006514
+                  ]
+            },
+            {
+                  "name": "Chiesa di Loreto",
+                  "text": "O biserică barocă la marginea centrului orașului Lugano, lângă malul lacului.",
+                  "category": "religious",
+                  "coords": [
+                        8.945382,
+                        45.997938
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Quirico e Giulitta",
+                  "text": "Biserica parohială din Barbengo este un bun cultural protejat în regiunea Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.925653,
+                        46.003048
+                  ]
+            },
+            {
+                  "name": "Chiesa Parrocchiale di Sant'Abbondio",
+                  "text": "Această biserică abațială barocă din Gentilino este faimoasă pentru aleea sa de chiparoși.",
+                  "category": "religious",
+                  "coords": [
+                        8.927941,
+                        45.988455
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giuseppe",
+                  "text": "O biserică romano-catolică care servește ca loc de întâlnire religios în Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.950766,
+                        46.006444
+                  ]
+            },
+            {
+                  "name": "Chiesa del Sacro Cuore",
+                  "text": "O bazilică din anii 1920, situată în centrul orașului Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.955783,
+                        46.010448
+                  ]
+            },
+            {
+                  "name": "Chiesa Santa Maria di Pazzalino",
+                  "text": "Biserica istorică Sfânta Maria este situată în districtul Viganello din Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.97458,
+                        46.016825
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Teresa di Lisieux",
+                  "text": "Un lăcaș de cult catolic din Lugano, dedicat Sfintei Tereza de Lisieux.",
+                  "category": "religious",
+                  "coords": [
+                        8.96697,
+                        46.011003
+                  ]
+            },
+            {
+                  "name": "Santa Maria dello Stradone",
+                  "text": "O structură religioasă din Lugano dedicată Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        8.956811,
+                        46.011825
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Lorenzo",
+                  "text": "Catedrala Episcopiei de Lugano oferă o fațadă splendidă în stil renascentist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.948551,
+                        46.004609
+                  ]
+            },
+            {
+                  "name": "Monte San Salvatore",
+                  "text": "Un munte distinctiv la sud de Lugano, cunoscut pentru funicularul său și priveliștea largă.",
+                  "category": "natural",
+                  "coords": [
+                        8.947302,
+                        45.977112
+                  ]
+            },
+            {
+                  "name": "Monte Bre",
+                  "text": "Acest punct de belvedere deasupra Lugano este cunoscut ca unul dintre cele mai însorite locuri din Elveția.",
+                  "category": "natural",
+                  "coords": [
+                        8.98741,
+                        46.009085
+                  ]
+            },
+            {
+                  "name": "Villa Favorita",
+                  "text": "Un parc vast pe malul lacului, cu o vilă istorică și arhitectură semnificativă.",
+                  "category": "park",
+                  "coords": [
+                        8.975808,
+                        46.001391
+                  ]
+            },
+            {
+                  "name": "Museo Mario Bernasconi",
+                  "text": "Un muzeu de artă în Pazzallo, dedicat lucrărilor sculptorului Mario Bernasconi.",
+                  "category": "museum",
+                  "coords": [
+                        8.94263,
+                        45.984087
+                  ]
+            },
+            {
+                  "name": "Museo Rainis e Aspazija",
+                  "text": "Museo Rainis e Aspazija este o instituție muzeală situată în orașul elvețian Lugano. Muzeul este consacrat vieții și creației literare a iluștrilor poeți letoni Rainis și Aspazija. Pasionații de literatură vor descoperi aici documente și obiecte care ilustrează exilul și moștenirea lor culturală.",
+                  "category": "museum",
+                  "coords": [
+                        8.977264,
+                        46.001543
+                  ]
+            },
+            {
+                  "name": "Museo Villa Pia",
+                  "text": "Un muzeu într-o vilă istorică, care găzduiește expoziții de artă temporare.",
+                  "category": "museum",
+                  "coords": [
+                        8.95258,
+                        46.026192
+                  ]
+            },
+            {
+                  "name": "Memorial Room Clay Regazzoni",
+                  "text": "O cameră memorială dedicată celebrului pilot elvețian de Formula 1, Clay Regazzoni.",
+                  "category": "museum",
+                  "coords": [
+                        8.974049,
+                        46.026448
+                  ]
+            },
+            {
+                  "name": "Museo della Tipografia Renato Fontana",
+                  "text": "Un muzeu specializat care documentează istoria și tehnica tiparului.",
+                  "category": "museum",
+                  "coords": [
+                        8.969391,
+                        46.028022
+                  ]
+            },
+            {
+                  "name": "Absolute Art Gallery",
+                  "text": "O galerie de artă modernă în centrul orașului Lugano, care prezintă lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        8.957603,
+                        46.00615
+                  ]
+            },
+            {
+                  "name": "Teatro Foce",
+                  "text": "Un teatru municipal din Lugano care oferă spațiu pentru diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        8.961374,
+                        46.005613
+                  ]
+            },
+            {
+                  "name": "Teatro Pan",
+                  "text": "O companie de teatru și locație din Lugano, cunoscută pentru producțiile sale inovatoare.",
+                  "category": "cultural",
+                  "coords": [
+                        8.96032,
+                        46.006622
+                  ]
+            },
+            {
+                  "name": "Villa Ciani",
+                  "text": "O clădire impunătoare în parcul orașului, utilizată pentru expoziții de artă și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        8.956542,
+                        46.00463
+                  ]
+            },
+            {
+                  "name": "Chiesa San Rocco",
+                  "text": "O biserică barocă în inima orașului Lugano, cunoscută pentru arhitectura sa elegantă.",
+                  "category": "religious",
+                  "coords": [
+                        8.95394,
+                        46.004576
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Antonio Abate",
+                  "text": "Această biserică istorică din centrul orașului Lugano impresionează prin decorul său interior baroc.",
+                  "category": "religious",
+                  "coords": [
+                        8.951436,
+                        46.004887
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Bernardino e Martino",
+                  "text": "O biserică fermecătoare de sat în districtul Cassarate, dedicată Sfinților Bernard și Martin.",
+                  "category": "religious",
+                  "coords": [
+                        8.954628,
+                        46.027332
+                  ]
+            },
+            {
+                  "name": "Madonna della Salute",
+                  "text": "O mică biserică din Lugano care servește ca loc de devoțiune și liniște.",
+                  "category": "religious",
+                  "coords": [
+                        8.943474,
+                        46.010747
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria dell'Annunciazione",
+                  "text": "O clădire religioasă în districtul Pazzallo din Lugano, dedicată Bunei Vestiri.",
+                  "category": "religious",
+                  "coords": [
+                        8.922491,
+                        45.998351
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Sebastiano",
+                  "text": "Un oratoriu istoric în centrul orașului Lugano, dedicat Sfântului Sebastian.",
+                  "category": "religious",
+                  "coords": [
+                        8.929164,
+                        46.006702
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Carlo Borromeo",
+                  "text": "O biserică catolică din Lugano, numită după Sfântul Carol Borromeo.",
+                  "category": "religious",
+                  "coords": [
+                        8.949659,
+                        46.002707
+                  ]
+            },
+            {
+                  "name": "Chiesa della Santissima Trinità",
+                  "text": "Un lăcaș de cult în Lugano dedicat Sfintei Treimi.",
+                  "category": "religious",
+                  "coords": [
+                        8.949276,
+                        46.008285
+                  ]
+            },
+            {
+                  "name": "Chiesa riformata",
+                  "text": "Clădirea centrală a bisericii comunității evanghelice reformate din Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.959024,
+                        46.005405
+                  ]
+            },
+            {
+                  "name": "San Pietro",
+                  "text": "O biserică catolică dedicată Sfântului Petru, situată în Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.935786,
+                        45.986223
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Pietro delle Erbette",
+                  "text": "O mică capelă sau casă de rugăciune în zona Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.969902,
+                        46.006047
+                  ]
+            },
+            {
+                  "name": "Chiesa-oratorio di San Martino",
+                  "text": "O mică clădire religioasă dedicată Sfântului Martin.",
+                  "category": "religious",
+                  "coords": [
+                        8.940689,
+                        46.026332
+                  ]
+            },
+            {
+                  "name": "Chiesa Evangelica Battista Betel",
+                  "text": "Clădirea bisericii comunității baptiste din Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.952329,
+                        46.010052
+                  ]
+            },
+            {
+                  "name": "fondazione Filippo Ciani",
+                  "text": "Un muzeu sau o instituție culturală asociată cu numele familiei Ciani.",
+                  "category": "museum",
+                  "coords": [
+                        8.956545,
+                        46.005898
+                  ]
+            },
+            {
+                  "name": "Dal tam-tam alla radio digitale",
+                  "text": "Un muzeu specializat din Lugano care prezintă evoluția tehnologiei de comunicare.",
+                  "category": "museum",
+                  "coords": [
+                        8.941213,
+                        46.019152
+                  ]
+            },
+            {
+                  "name": "Imago Art Gallery",
+                  "text": "O galerie din Lugano care se concentrează pe arta contemporană internațională.",
+                  "category": "museum",
+                  "coords": [
+                        8.949495,
+                        46.00165
+                  ]
+            },
+            {
+                  "name": "[dip]",
+                  "text": "O galerie din Lugano dedicată promovării artei contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        8.953107,
+                        46.011052
+                  ]
+            },
+            {
+                  "name": "Galleria Art on... Paper",
+                  "text": "O galerie de artă specializată, concentrată pe lucrări pe hârtie.",
+                  "category": "museum",
+                  "coords": [
+                        8.944946,
+                        45.992563
+                  ]
+            },
+            {
+                  "name": "Marco Lucchetti Art Gallery",
+                  "text": "O galerie din Lugano cunoscută pentru expozițiile sale de artă ilustrativă.",
+                  "category": "museum",
+                  "coords": [
+                        8.949646,
+                        46.00445
+                  ]
+            },
+            {
+                  "name": "Galleria Doppia V",
+                  "text": "O galerie stabilită în Lugano care expune artă modernă și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        8.942879,
+                        46.0056
+                  ]
+            },
+            {
+                  "name": "Antimo Bertolino",
+                  "text": "O galerie de artă privată sau spațiu expozițional în Lugano.",
+                  "category": "museum",
+                  "coords": [
+                        8.958335,
+                        46.007104
+                  ]
+            },
+            {
+                  "name": "SofiArt Gallery",
+                  "text": "O galerie în Lugano care prezintă o selecție de diverse opere de artă.",
+                  "category": "museum",
+                  "coords": [
+                        8.946053,
+                        45.993608
+                  ]
+            },
+            {
+                  "name": "Lo Spartaco di Vela",
+                  "text": "Un monument important din Lugano, reprezentându-l pe conducătorul sclavilor, Spartacus.",
+                  "category": "historical",
+                  "coords": [
+                        8.951329,
+                        46.003367
+                  ]
+            },
+            {
+                  "name": "Laghetto di Muzzano",
+                  "text": "Laghetto di Muzzano de lângă Lugano este un lac pitoresc, ideal pentru plimbări relaxante.",
+                  "category": "natural",
+                  "coords": [
+                        8.927558,
+                        45.996691
+                  ]
+            },
+            {
+                  "name": "Lago di Caslé",
+                  "text": "Lago di Caslé este un lac liniștit situat în apropiere de Lugano.",
+                  "category": "natural",
+                  "coords": [
+                        9.040105,
+                        45.995865
+                  ]
+            },
+            {
+                  "name": "Lago di Lugano",
+                  "text": "Lacul Lugano impresionează prin peisajul său spectaculos și oportunitățile diverse de recreere.",
+                  "category": "natural",
+                  "coords": [
+                        8.991961,
+                        45.969645
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Barzaghi",
+                  "text": "Parco Giochi Barzaghi din Lugano este un loc ideal pentru copii să se joace în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        8.947875,
+                        45.990049
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Zorzi",
+                  "text": "Parco Giochi Zorzi din Lugano oferă o zonă de joacă sigură și prietenoasă pentru familii.",
+                  "category": "family",
+                  "coords": [
+                        8.942384,
+                        45.989922
+                  ]
+            },
+            {
+                  "name": "Montagnola Pool",
+                  "text": "O piscină în Lugano pentru activități de petrecere a timpului liber în familie.",
+                  "category": "family",
+                  "coords": [
+                        8.918083,
+                        45.989256
+                  ]
+            },
+            {
+                  "name": "Lido San Domenico",
+                  "text": "Un ștrand în Lugano pentru înot de vară în lac.",
+                  "category": "family",
+                  "coords": [
+                        8.989521,
+                        46.00219
+                  ]
+            },
+            {
+                  "name": "Villa Principe Leopoldo Hotel & SPA",
+                  "text": "O piscină în Lugano pentru relaxare într-o atmosferă rafinată.",
+                  "category": "family",
+                  "coords": [
+                        8.939994,
+                        45.992999
+                  ]
+            },
+            {
+                  "name": "Collina Azzura",
+                  "text": "O piscină în Lugano pentru distracție în apă cu întreaga familie.",
+                  "category": "family",
+                  "coords": [
+                        8.950879,
+                        45.988261
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo d'arte della Svizzera italiana",
+                  "text": "The art museum in Lugano presents a wide spectrum of modern and contemporary art from Italian-speaking Switzerland.",
+                  "category": "museum",
+                  "coords": [
+                        8.948178,
+                        45.999155
+                  ]
+            },
+            {
+                  "name": "Museo cantonale di storia naturale",
+                  "text": "This museum is dedicated to the flora, fauna, and geology of the canton of Ticino.",
+                  "category": "museum",
+                  "coords": [
+                        8.960631,
+                        46.004141
+                  ]
+            },
+            {
+                  "name": "Museo delle Culture",
+                  "text": "An ethnographic museum in Lugano specialized in the cultures of non-European peoples.",
+                  "category": "museum",
+                  "coords": [
+                        8.946647,
+                        45.996349
+                  ]
+            },
+            {
+                  "name": "Chiesa Santa Lucia",
+                  "text": "A historic church in Lugano appreciated for its religious significance and architecture.",
+                  "category": "religious",
+                  "coords": [
+                        8.942939,
+                        46.012501
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Massimiliano Kolbe",
+                  "text": "A modern Roman Catholic church located in the Pregassona district of Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.968622,
+                        46.02512
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giorgio",
+                  "text": "A historical church in the Castagnola district, known for its panoramic location.",
+                  "category": "religious",
+                  "coords": [
+                        8.978062,
+                        46.002544
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicolao della Flüe",
+                  "text": "A distinctive modern church building dedicated to the national saint of Switzerland.",
+                  "category": "religious",
+                  "coords": [
+                        8.941211,
+                        46.006514
+                  ]
+            },
+            {
+                  "name": "Chiesa di Loreto",
+                  "text": "A Baroque church on the edge of Lugano's city center, near the lakeshore.",
+                  "category": "religious",
+                  "coords": [
+                        8.945382,
+                        45.997938
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Quirico e Giulitta",
+                  "text": "The parish church of Barbengo is a protected cultural asset in the Lugano region.",
+                  "category": "religious",
+                  "coords": [
+                        8.925653,
+                        46.003048
+                  ]
+            },
+            {
+                  "name": "Chiesa Parrocchiale di Sant'Abbondio",
+                  "text": "This Baroque collegiate church in Gentilino is famous for its distinctive cypress avenue.",
+                  "category": "religious",
+                  "coords": [
+                        8.927941,
+                        45.988455
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giuseppe",
+                  "text": "A Roman Catholic church serving as a religious meeting point in Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.950766,
+                        46.006444
+                  ]
+            },
+            {
+                  "name": "Chiesa del Sacro Cuore",
+                  "text": "A basilica from the 1920s located in the center of Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.955783,
+                        46.010448
+                  ]
+            },
+            {
+                  "name": "Chiesa Santa Maria di Pazzalino",
+                  "text": "The historical Saint Mary church is located in the Viganello district of Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.97458,
+                        46.016825
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Teresa di Lisieux",
+                  "text": "A Catholic place of worship in Lugano dedicated to Saint Therese of Lisieux.",
+                  "category": "religious",
+                  "coords": [
+                        8.96697,
+                        46.011003
+                  ]
+            },
+            {
+                  "name": "Santa Maria dello Stradone",
+                  "text": "A religious structure in Lugano dedicated to the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        8.956811,
+                        46.011825
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Lawrence",
+                  "text": "The cathedral of the Diocese of Lugano features a magnificent Renaissance facade.",
+                  "category": "landmark",
+                  "coords": [
+                        8.948551,
+                        46.004609
+                  ]
+            },
+            {
+                  "name": "Monte San Salvatore",
+                  "text": "A prominent mountain south of Lugano known for its funicular and expansive views.",
+                  "category": "natural",
+                  "coords": [
+                        8.947302,
+                        45.977112
+                  ]
+            },
+            {
+                  "name": "Monte Bre",
+                  "text": "This viewpoint above Lugano is known as one of the sunniest spots in Switzerland.",
+                  "category": "natural",
+                  "coords": [
+                        8.98741,
+                        46.009085
+                  ]
+            },
+            {
+                  "name": "Villa Favorita",
+                  "text": "An extensive lakeside park featuring a historical villa and significant architecture.",
+                  "category": "park",
+                  "coords": [
+                        8.975808,
+                        46.001391
+                  ]
+            },
+            {
+                  "name": "Museo Mario Bernasconi",
+                  "text": "An art museum in Pazzallo dedicated to the works of sculptor Mario Bernasconi.",
+                  "category": "museum",
+                  "coords": [
+                        8.94263,
+                        45.984087
+                  ]
+            },
+            {
+                  "name": "Museo Rainis e Aspazija",
+                  "text": "The Museo Rainis e Aspazija is a museum nestled in the Swiss city of Lugano. It is entirely devoted to preserving the life story and literary works of the Latvian poets Rainis and Aspazija. Visitors will find detailed exhibits that explore the couple's time in Switzerland and their lasting cultural impact.",
+                  "category": "museum",
+                  "coords": [
+                        8.977264,
+                        46.001543
+                  ]
+            },
+            {
+                  "name": "Museo Villa Pia",
+                  "text": "A museum in a historical villa that hosts rotating art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        8.95258,
+                        46.026192
+                  ]
+            },
+            {
+                  "name": "Memorial Room Clay Regazzoni",
+                  "text": "A memorial room dedicated to the famous Swiss Formula 1 driver Clay Regazzoni.",
+                  "category": "museum",
+                  "coords": [
+                        8.974049,
+                        46.026448
+                  ]
+            },
+            {
+                  "name": "Museo della Tipografia Renato Fontana",
+                  "text": "A specialized museum documenting the history and technique of typography.",
+                  "category": "museum",
+                  "coords": [
+                        8.969391,
+                        46.028022
+                  ]
+            },
+            {
+                  "name": "Absolute Art Gallery",
+                  "text": "A modern art gallery in the center of Lugano presenting contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        8.957603,
+                        46.00615
+                  ]
+            },
+            {
+                  "name": "Teatro Foce",
+                  "text": "A municipal theatre in Lugano providing space for various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        8.961374,
+                        46.005613
+                  ]
+            },
+            {
+                  "name": "Teatro Pan",
+                  "text": "A theatre company and venue in Lugano known for its innovative productions.",
+                  "category": "cultural",
+                  "coords": [
+                        8.96032,
+                        46.006622
+                  ]
+            },
+            {
+                  "name": "Villa Ciani",
+                  "text": "A stately building in the city park used for art exhibitions and events.",
+                  "category": "cultural",
+                  "coords": [
+                        8.956542,
+                        46.00463
+                  ]
+            },
+            {
+                  "name": "Chiesa San Rocco",
+                  "text": "A Baroque church in the heart of Lugano known for its elegant architecture.",
+                  "category": "religious",
+                  "coords": [
+                        8.95394,
+                        46.004576
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Antonio Abate",
+                  "text": "This historical church in the center of Lugano stands out for its Baroque interior decoration.",
+                  "category": "religious",
+                  "coords": [
+                        8.951436,
+                        46.004887
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Bernardino e Martino",
+                  "text": "A charming village church in the Cassarate district dedicated to Saints Bernard and Martin.",
+                  "category": "religious",
+                  "coords": [
+                        8.954628,
+                        46.027332
+                  ]
+            },
+            {
+                  "name": "Madonna della Salute",
+                  "text": "A small church in Lugano serving as a place of devotion and quiet.",
+                  "category": "religious",
+                  "coords": [
+                        8.943474,
+                        46.010747
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria dell'Annunciazione",
+                  "text": "A religious building in the Pazzallo district of Lugano dedicated to the Annunciation.",
+                  "category": "religious",
+                  "coords": [
+                        8.922491,
+                        45.998351
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Sebastiano",
+                  "text": "A historical oratory in the center of Lugano dedicated to Saint Sebastian.",
+                  "category": "religious",
+                  "coords": [
+                        8.929164,
+                        46.006702
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Carlo Borromeo",
+                  "text": "A Catholic church in Lugano named after Saint Charles Borromeo.",
+                  "category": "religious",
+                  "coords": [
+                        8.949659,
+                        46.002707
+                  ]
+            },
+            {
+                  "name": "Chiesa della Santissima Trinità",
+                  "text": "A place of worship in Lugano dedicated to the Holy Trinity.",
+                  "category": "religious",
+                  "coords": [
+                        8.949276,
+                        46.008285
+                  ]
+            },
+            {
+                  "name": "Chiesa riformata",
+                  "text": "The central church building of the Evangelical Reformed community in Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.959024,
+                        46.005405
+                  ]
+            },
+            {
+                  "name": "San Pietro",
+                  "text": "A Catholic church dedicated to Saint Peter, located in Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.935786,
+                        45.986223
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Pietro delle Erbette",
+                  "text": "A small chapel or house of prayer in the Lugano area.",
+                  "category": "religious",
+                  "coords": [
+                        8.969902,
+                        46.006047
+                  ]
+            },
+            {
+                  "name": "Chiesa-oratorio di San Martino",
+                  "text": "A small religious building dedicated to Saint Martin.",
+                  "category": "religious",
+                  "coords": [
+                        8.940689,
+                        46.026332
+                  ]
+            },
+            {
+                  "name": "Chiesa Evangelica Battista Betel",
+                  "text": "The church building of the Baptist community in Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.952329,
+                        46.010052
+                  ]
+            },
+            {
+                  "name": "fondazione Filippo Ciani",
+                  "text": "A museum or cultural institution associated with the name of the Ciani family.",
+                  "category": "museum",
+                  "coords": [
+                        8.956545,
+                        46.005898
+                  ]
+            },
+            {
+                  "name": "Dal tam-tam alla radio digitale",
+                  "text": "A specialized museum in Lugano showing the evolution of communication technology.",
+                  "category": "museum",
+                  "coords": [
+                        8.941213,
+                        46.019152
+                  ]
+            },
+            {
+                  "name": "Imago Art Gallery",
+                  "text": "A gallery in Lugano focusing on international contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        8.949495,
+                        46.00165
+                  ]
+            },
+            {
+                  "name": "[dip]",
+                  "text": "A gallery in Lugano dedicated to the promotion of contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        8.953107,
+                        46.011052
+                  ]
+            },
+            {
+                  "name": "Galleria Art on... Paper",
+                  "text": "A specialized art gallery focusing on works on paper.",
+                  "category": "museum",
+                  "coords": [
+                        8.944946,
+                        45.992563
+                  ]
+            },
+            {
+                  "name": "Marco Lucchetti Art Gallery",
+                  "text": "A gallery in Lugano known for its exhibitions in the field of illustrative art.",
+                  "category": "museum",
+                  "coords": [
+                        8.949646,
+                        46.00445
+                  ]
+            },
+            {
+                  "name": "Galleria Doppia V",
+                  "text": "An established gallery in Lugano exhibiting modern and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        8.942879,
+                        46.0056
+                  ]
+            },
+            {
+                  "name": "Antimo Bertolino",
+                  "text": "A private art gallery or exhibition space in Lugano.",
+                  "category": "museum",
+                  "coords": [
+                        8.958335,
+                        46.007104
+                  ]
+            },
+            {
+                  "name": "SofiArt Gallery",
+                  "text": "A gallery in Lugano presenting a selection of various artworks.",
+                  "category": "museum",
+                  "coords": [
+                        8.946053,
+                        45.993608
+                  ]
+            },
+            {
+                  "name": "Lo Spartaco di Vela",
+                  "text": "A significant monument in Lugano representing the slave leader Spartacus.",
+                  "category": "historical",
+                  "coords": [
+                        8.951329,
+                        46.003367
+                  ]
+            },
+            {
+                  "name": "Laghetto di Muzzano",
+                  "text": "The Laghetto di Muzzano near Lugano is a picturesque lake perfect for relaxing walks.",
+                  "category": "natural",
+                  "coords": [
+                        8.927558,
+                        45.996691
+                  ]
+            },
+            {
+                  "name": "Lago di Caslé",
+                  "text": "Lago di Caslé is a quiet lake located near Lugano.",
+                  "category": "natural",
+                  "coords": [
+                        9.040105,
+                        45.995865
+                  ]
+            },
+            {
+                  "name": "Lago di Lugano",
+                  "text": "Lake Lugano impresses with its stunning scenery and diverse recreational opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        8.991961,
+                        45.969645
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Barzaghi",
+                  "text": "Parco Giochi Barzaghi in Lugano is an ideal place for children to play outdoors.",
+                  "category": "family",
+                  "coords": [
+                        8.947875,
+                        45.990049
+                  ]
+            },
+            {
+                  "name": "Parco Giochi Zorzi",
+                  "text": "Parco Giochi Zorzi in Lugano offers a safe and friendly play area for families.",
+                  "category": "family",
+                  "coords": [
+                        8.942384,
+                        45.989922
+                  ]
+            },
+            {
+                  "name": "Montagnola Pool",
+                  "text": "A swimming pool in Lugano for family leisure activities.",
+                  "category": "family",
+                  "coords": [
+                        8.918083,
+                        45.989256
+                  ]
+            },
+            {
+                  "name": "Lido San Domenico",
+                  "text": "A beach resort in Lugano for summer swimming fun in the lake.",
+                  "category": "family",
+                  "coords": [
+                        8.989521,
+                        46.00219
+                  ]
+            },
+            {
+                  "name": "Villa Principe Leopoldo Hotel & SPA",
+                  "text": "A swimming pool in Lugano for relaxation in a sophisticated atmosphere.",
+                  "category": "family",
+                  "coords": [
+                        8.939994,
+                        45.992999
+                  ]
+            },
+            {
+                  "name": "Collina Azzura",
+                  "text": "A swimming pool in Lugano for water fun with the whole family.",
+                  "category": "family",
+                  "coords": [
+                        8.950879,
+                        45.988261
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [8.9536, 46.0037],
@@ -16884,24 +16434,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         9.330503,
                         47.420376
-                  ]
-            },
-            {
-                  "name": "Rückstau Wehranlage List",
-                  "text": "Ein Gewässer in St. Gallen, das eine friedliche Atmosphäre in der Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.36374,
-                        47.360151
-                  ]
-            },
-            {
-                  "name": "Gübsensee",
-                  "text": "Ein idyllischer Stausee in St. Gallen, der zu Wanderungen und Naturbeobachtungen einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        9.314419,
-                        47.39864
                   ]
             },
             {
@@ -17015,24 +16547,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Rückstau Wehranlage List",
-                  "text": "St. Gallen-i állóvíz, amely békés környezetet kínál a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        9.36374,
-                        47.360151
-                  ]
-            },
-            {
-                  "name": "Gübsensee",
-                  "text": "Idilli víztározó St. Gallenben, amely túrázásra és természetfigyelésre hívogat.",
-                  "category": "natural",
-                  "coords": [
-                        9.314419,
-                        47.39864
-                  ]
-            },
-            {
                   "name": "Spielplatz Lerchenfeld",
                   "text": "Szép játszótér St. Gallenben minden korosztály számára.",
                   "category": "family",
@@ -17143,24 +16657,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Rückstau Wehranlage List",
-                  "text": "O zonă cu apă în St. Gallen care oferă o atmosferă liniștită în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.36374,
-                        47.360151
-                  ]
-            },
-            {
-                  "name": "Gübsensee",
-                  "text": "Un lac de acumulare idilic în St. Gallen, care invită la drumeții și observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        9.314419,
-                        47.39864
-                  ]
-            },
-            {
                   "name": "Spielplatz Lerchenfeld",
                   "text": "Un loc de joacă frumos în St. Gallen pentru copii de toate vârstele.",
                   "category": "family",
@@ -17268,24 +16764,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         9.330503,
                         47.420376
-                  ]
-            },
-            {
-                  "name": "Rückstau Wehranlage List",
-                  "text": "A body of water in St. Gallen offering a peaceful atmosphere in nature.",
-                  "category": "natural",
-                  "coords": [
-                        9.36374,
-                        47.360151
-                  ]
-            },
-            {
-                  "name": "Gübsensee",
-                  "text": "An idyllic reservoir in St. Gallen inviting for hikes and nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        9.314419,
-                        47.39864
                   ]
             },
             {
@@ -17743,15 +17221,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Meienriedseeli",
-                  "text": "Ein kleiner, idyllischer See bei Biel Bienne, ideal für Naturliebhaber.",
-                  "category": "natural",
-                  "coords": [
-                        7.342581,
-                        47.140659
-                  ]
-            },
-            {
                   "name": "Bielersee",
                   "text": "Der Bielersee bietet vielfältige Wassersportmöglichkeiten und malerische Uferwege.",
                   "category": "natural",
@@ -18129,15 +17598,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.255544,
                         47.117257
-                  ]
-            },
-            {
-                  "name": "Meienriedseeli",
-                  "text": "Kicsi, idilli tó Biel Bienne közelében, ideális a természet kedvelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        7.342581,
-                        47.140659
                   ]
             },
             {
@@ -18521,15 +17981,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Meienriedseeli",
-                  "text": "Un lac mic și idilic lângă Biel Bienne, ideal pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        7.342581,
-                        47.140659
-                  ]
-            },
-            {
                   "name": "Bielersee / Lac de Bienne",
                   "text": "Lacul Bienne oferă diverse posibilități pentru sporturi nautice și poteci pitorești pe mal.",
                   "category": "natural",
@@ -18910,15 +18361,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Meienriedseeli",
-                  "text": "A small, idyllic lake near Biel Bienne, ideal for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        7.342581,
-                        47.140659
-                  ]
-            },
-            {
                   "name": "Lake Bienne",
                   "text": "Lake Bienne offers diverse water sports opportunities and scenic lakeside paths.",
                   "category": "natural",
@@ -19157,30 +18599,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vogelhaus",
-                  "text": "Ein Vogelhaus im Tierpark von Thun zur Beobachtung verschiedener Vogelarten.",
-                  "category": "family",
-                  "coords": [
-                        7.623158,
-                        46.762354
-                  ]
-            },
-            {
                   "name": "Hünegg",
                   "text": "Ein Wasserpark in Thun, der Erholung und Freizeitaktivitäten am Wasser bietet.",
                   "category": "family",
                   "coords": [
                         7.656543,
                         46.736341
-                  ]
-            },
-            {
-                  "name": "Rabenflue",
-                  "text": "Ein Aussichtspunkt über Thun, der einen weiten Blick auf die Stadt und die Alpen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        7.642611,
-                        46.762128
                   ]
             },
             {
@@ -19319,15 +18743,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kirche Lerchenfeld",
-                  "text": "Die evangelisch-reformierte Kirche im Thuner Quartier Lerchenfeld.",
-                  "category": "religious",
-                  "coords": [
-                        7.599357,
-                        46.765282
-                  ]
-            },
-            {
                   "name": "Kirche Schönau",
                   "text": "Ein reformiertes Kirchengebäude im Stadtteil Schönau in Thun.",
                   "category": "religious",
@@ -19382,24 +18797,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Dittligsee",
-                  "text": "Der Dittligsee bei Thun ist ein idyllisches Gewässer in einer naturnahen Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        7.533645,
-                        46.756096
-                  ]
-            },
-            {
-                  "name": "Feuerwehr-Weiher",
-                  "text": "Der Feuerwehr-Weiher in Thun ist ein kleiner, lokaler See.",
-                  "category": "natural",
-                  "coords": [
-                        7.67553,
-                        46.812622
-                  ]
-            },
-            {
                   "name": "Thunersee",
                   "text": "Der Thunersee ist bekannt für sein klares Wasser und die umliegende Alpenlandschaft.",
                   "category": "natural",
@@ -19424,15 +18821,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.57675,
                         46.724748
-                  ]
-            },
-            {
-                  "name": "KITA Aare",
-                  "text": "KITA Aare in Thun bietet einen freundlichen Spielplatz für kleine Kinder.",
-                  "category": "family",
-                  "coords": [
-                        7.609668,
-                        46.765589
                   ]
             },
             {
@@ -19463,30 +18851,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Aarefeld",
-                  "text": "Der Spielplatz Aarefeld in Thun ist ein moderner Treffpunkt für Familien.",
-                  "category": "family",
-                  "coords": [
-                        7.607322,
-                        46.769685
-                  ]
-            },
-            {
                   "name": "Eichbühl",
                   "text": "Eichbühl in Thun ist ein schöner Ort für Kinder zum Spielen und Entdecken.",
                   "category": "family",
                   "coords": [
                         7.651732,
                         46.743299
-                  ]
-            },
-            {
-                  "name": "Flussbad Schwäbis",
-                  "text": "Ein schönes Flussbad in Thun, das ideale Möglichkeiten zum Schwimmen im Freien bietet.",
-                  "category": "family",
-                  "coords": [
-                        7.624304,
-                        46.761709
                   ]
             }
       ],
@@ -19564,30 +18934,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vogelhaus",
-                  "text": "Madárház a thuni állatkertben, ahol különféle madárfajok láthatóak.",
-                  "category": "family",
-                  "coords": [
-                        7.623158,
-                        46.762354
-                  ]
-            },
-            {
                   "name": "Hünegg",
                   "text": "Vízi park Thunban, amely kikapcsolódást és szabadidős tevékenységeket kínál.",
                   "category": "family",
                   "coords": [
                         7.656543,
                         46.736341
-                  ]
-            },
-            {
-                  "name": "Rabenflue",
-                  "text": "Kilátópont Thun felett, ahonnan panoráma nyílik a városra és az Alpokra.",
-                  "category": "natural",
-                  "coords": [
-                        7.642611,
-                        46.762128
                   ]
             },
             {
@@ -19726,15 +19078,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kirche Lerchenfeld",
-                  "text": "Evangélikus-református templom a thuni Lerchenfeld negyedben.",
-                  "category": "religious",
-                  "coords": [
-                        7.599357,
-                        46.765282
-                  ]
-            },
-            {
                   "name": "Kirche Schönau",
                   "text": "Református templomépület a thuni Schönau városrészben.",
                   "category": "religious",
@@ -19789,24 +19132,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Dittligsee",
-                  "text": "A Thun melletti Dittligsee egy idilli tó természetközeli környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        7.533645,
-                        46.756096
-                  ]
-            },
-            {
-                  "name": "Feuerwehr-Weiher",
-                  "text": "A thuni Feuerwehr-Weiher egy apró helyi tavacska.",
-                  "category": "natural",
-                  "coords": [
-                        7.67553,
-                        46.812622
-                  ]
-            },
-            {
                   "name": "Thunersee",
                   "text": "A Thuni-tó tiszta vizéről és az azt körülölelő alpesi tájról ismert.",
                   "category": "natural",
@@ -19831,15 +19156,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.57675,
                         46.724748
-                  ]
-            },
-            {
-                  "name": "KITA Aare",
-                  "text": "A thuni KITA Aare barátságos játszóteret biztosít a kisgyermekek számára.",
-                  "category": "family",
-                  "coords": [
-                        7.609668,
-                        46.765589
                   ]
             },
             {
@@ -19870,30 +19186,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Aarefeld",
-                  "text": "A thuni Spielplatz Aarefeld modern találkozóhely a családok számára.",
-                  "category": "family",
-                  "coords": [
-                        7.607322,
-                        46.769685
-                  ]
-            },
-            {
                   "name": "Eichbühl",
                   "text": "A thuni Eichbühl remek hely a gyerekeknek a játékhoz és felfedezéshez.",
                   "category": "family",
                   "coords": [
                         7.651732,
                         46.743299
-                  ]
-            },
-            {
-                  "name": "Flussbad Schwäbis",
-                  "text": "Egy kellemes folyami strand Thunban, amely kiváló lehetőséget nyújt a szabadtéri úszáshoz.",
-                  "category": "family",
-                  "coords": [
-                        7.624304,
-                        46.761709
                   ]
             }
       ],
@@ -19971,30 +19269,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vogelhaus",
-                  "text": "O casă a păsărilor în parcul zoologic din Thun pentru observarea diferitelor specii.",
-                  "category": "family",
-                  "coords": [
-                        7.623158,
-                        46.762354
-                  ]
-            },
-            {
                   "name": "Hünegg",
                   "text": "Un parc acvatic în Thun, care oferă relaxare și activități de agrement pe apă.",
                   "category": "family",
                   "coords": [
                         7.656543,
                         46.736341
-                  ]
-            },
-            {
-                  "name": "Rabenflue",
-                  "text": "Un punct de belvedere deasupra orașului Thun, oferind o vedere panoramică asupra orașului și a Alpilor.",
-                  "category": "natural",
-                  "coords": [
-                        7.642611,
-                        46.762128
                   ]
             },
             {
@@ -20133,15 +19413,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kirche Lerchenfeld",
-                  "text": "Biserica evanghelică-reformată din cartierul Lerchenfeld din Thun.",
-                  "category": "religious",
-                  "coords": [
-                        7.599357,
-                        46.765282
-                  ]
-            },
-            {
                   "name": "Kirche Schönau",
                   "text": "O clădire de biserică reformată în cartierul Schönau din Thun.",
                   "category": "religious",
@@ -20196,24 +19467,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Dittligsee",
-                  "text": "Dittligsee de lângă Thun este un lac idilic într-un cadru natural.",
-                  "category": "natural",
-                  "coords": [
-                        7.533645,
-                        46.756096
-                  ]
-            },
-            {
-                  "name": "Feuerwehr-Weiher",
-                  "text": "Feuerwehr-Weiher din Thun este un mic lac local.",
-                  "category": "natural",
-                  "coords": [
-                        7.67553,
-                        46.812622
-                  ]
-            },
-            {
                   "name": "Thunersee",
                   "text": "Lacul Thun este cunoscut pentru apele sale limpezi și peisajul alpin înconjurător.",
                   "category": "natural",
@@ -20238,15 +19491,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.57675,
                         46.724748
-                  ]
-            },
-            {
-                  "name": "KITA Aare",
-                  "text": "KITA Aare din Thun oferă un loc de joacă prietenos pentru copiii mici.",
-                  "category": "family",
-                  "coords": [
-                        7.609668,
-                        46.765589
                   ]
             },
             {
@@ -20277,30 +19521,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Aarefeld",
-                  "text": "Locul de joacă Aarefeld din Thun este un punct de întâlnire modern pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        7.607322,
-                        46.769685
-                  ]
-            },
-            {
                   "name": "Eichbühl",
                   "text": "Eichbühl din Thun este un loc frumos pentru copii să se joace și să exploreze.",
                   "category": "family",
                   "coords": [
                         7.651732,
                         46.743299
-                  ]
-            },
-            {
-                  "name": "Flussbad Schwäbis",
-                  "text": "O zonă de înot pe râu în Thun, care oferă condiții ideale pentru scăldat în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        7.624304,
-                        46.761709
                   ]
             }
       ],
@@ -20378,30 +19604,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vogelhaus",
-                  "text": "A bird house in the Thun zoo for observing various bird species.",
-                  "category": "family",
-                  "coords": [
-                        7.623158,
-                        46.762354
-                  ]
-            },
-            {
                   "name": "Hünegg",
                   "text": "A water park in Thun offering relaxation and leisure activities by the water.",
                   "category": "family",
                   "coords": [
                         7.656543,
                         46.736341
-                  ]
-            },
-            {
-                  "name": "Rabenflue",
-                  "text": "A viewpoint above Thun offering a wide view of the city and the Alps.",
-                  "category": "natural",
-                  "coords": [
-                        7.642611,
-                        46.762128
                   ]
             },
             {
@@ -20540,15 +19748,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kirche Lerchenfeld",
-                  "text": "The Evangelical Reformed church in the Lerchenfeld district of Thun.",
-                  "category": "religious",
-                  "coords": [
-                        7.599357,
-                        46.765282
-                  ]
-            },
-            {
                   "name": "Kirche Schönau",
                   "text": "A Reformed church building in the Schönau district of Thun.",
                   "category": "religious",
@@ -20603,24 +19802,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Dittligsee",
-                  "text": "The Dittligsee near Thun is an idyllic lake in a natural setting.",
-                  "category": "natural",
-                  "coords": [
-                        7.533645,
-                        46.756096
-                  ]
-            },
-            {
-                  "name": "Feuerwehr-Weiher",
-                  "text": "The Feuerwehr-Weiher in Thun is a small local lake.",
-                  "category": "natural",
-                  "coords": [
-                        7.67553,
-                        46.812622
-                  ]
-            },
-            {
                   "name": "Thunersee",
                   "text": "Lake Thun is known for its clear water and the surrounding Alpine landscape.",
                   "category": "natural",
@@ -20645,15 +19826,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.57675,
                         46.724748
-                  ]
-            },
-            {
-                  "name": "KITA Aare",
-                  "text": "KITA Aare in Thun provides a friendly playground for young children.",
-                  "category": "family",
-                  "coords": [
-                        7.609668,
-                        46.765589
                   ]
             },
             {
@@ -20684,30 +19856,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Aarefeld",
-                  "text": "The Spielplatz Aarefeld in Thun is a modern meeting point for families.",
-                  "category": "family",
-                  "coords": [
-                        7.607322,
-                        46.769685
-                  ]
-            },
-            {
                   "name": "Eichbühl",
                   "text": "Eichbühl in Thun is a lovely place for children to play and explore.",
                   "category": "family",
                   "coords": [
                         7.651732,
                         46.743299
-                  ]
-            },
-            {
-                  "name": "Flussbad Schwäbis",
-                  "text": "A pleasant river bathing area in Thun that offers great opportunities for outdoor swimming.",
-                  "category": "family",
-                  "coords": [
-                        7.624304,
-                        46.761709
                   ]
             }
       ]
@@ -20787,15 +19941,6 @@ export const switzerlandCities: POI[] = [
     id: "city-schaffhausen", "sights": {
       "de": [
             {
-                  "name": "Schloss Laufen",
-                  "text": "Dieses Schloss oberhalb des Rheinfalls bietet eine spektakuläre Aussicht auf die Wasserfälle.",
-                  "category": "castle",
-                  "coords": [
-                        8.61495,
-                        47.676798
-                  ]
-            },
-            {
                   "name": "Rathauslaube",
                   "text": "Das historische Rathaus von Schaffhausen ist bekannt für seine prächtige Architektur.",
                   "category": "historical",
@@ -20829,15 +19974,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.65238,
                         47.686735
-                  ]
-            },
-            {
-                  "name": "Rheinfall",
-                  "text": "Der größte Wasserfall Europas bei Schaffhausen.",
-                  "category": "landmark",
-                  "coords": [
-                        8.615072,
-                        47.677719
                   ]
             },
             {
@@ -20895,15 +20031,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hörnliturm",
-                  "text": "Ein hölzerner Aussichtsturm auf dem Cholfirst bei Schaffhausen.",
-                  "category": "natural",
-                  "coords": [
-                        8.639788,
-                        47.672391
-                  ]
-            },
-            {
                   "name": "Museum im Zeughaus",
                   "text": "Ein Museum in Schaffhausen, das sich der Schweizer Militär- und Technikgeschichte widmet.",
                   "category": "museum",
@@ -20937,15 +20064,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.634473,
                         47.697108
-                  ]
-            },
-            {
-                  "name": "Ev. ref. Kirche Laufen am Rheinfall",
-                  "text": "Eine reformierte Kirche oberhalb des Rheinfalls bei Schaffhausen.",
-                  "category": "religious",
-                  "coords": [
-                        8.614531,
-                        47.675864
                   ]
             },
             {
@@ -21003,15 +20121,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Katholische Kirche Heilig Kreuz",
-                  "text": "Eine römisch-katholische Kirche in Schaffhausen.",
-                  "category": "religious",
-                  "coords": [
-                        8.617218,
-                        47.681778
-                  ]
-            },
-            {
                   "name": "St. Maria",
                   "text": "Eine katholische Kirche in der Stadt Schaffhausen.",
                   "category": "religious",
@@ -21048,33 +20157,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Moser Familienmuseum Charlottenfels",
-                  "text": "Ein Museum im Schloss Charlottenfels, das der Industriellenfamilie Moser gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        8.621394,
-                        47.690511
-                  ]
-            },
-            {
-                  "name": "Smilestones",
-                  "text": "Eine große Miniaturwelt in Schaffhausen, die Schweizer Sehenswürdigkeiten darstellt.",
-                  "category": "museum",
-                  "coords": [
-                        8.613561,
-                        47.682645
-                  ]
-            },
-            {
-                  "name": "Rhyality Immersive Art Hall",
-                  "text": "Eine Kunsthalle in Schaffhausen, die immersive 360-Grad-Projektionen zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        8.617942,
-                        47.678241
-                  ]
-            },
-            {
                   "name": "Die Diskette",
                   "text": "Ein Museum in Schaffhausen, das sich der Geschichte der Computertechnik widmet.",
                   "category": "museum",
@@ -21102,15 +20184,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Trottentheater",
-                  "text": "Ein lokales Theater in Schaffhausen.",
-                  "category": "cultural",
-                  "coords": [
-                        8.623792,
-                        47.680693
-                  ]
-            },
-            {
                   "name": "Fass-Galerie und -Bühne",
                   "text": "Ein Zentrum für Kunst und Kultur mit Galerie und Bühne in Schaffhausen.",
                   "category": "cultural",
@@ -21129,39 +20202,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Mühlerad Bistro",
-                  "text": "Ein Bistro mit einem historischen Mühlerad in Schaffhausen.",
-                  "category": "landmark",
-                  "coords": [
-                        8.615297,
-                        47.678798
-                  ]
-            },
-            {
-                  "name": "Trockenstandort und Deckenschotteraufschluss Chirchhölzli",
-                  "text": "Ein Naturschutzgebiet bei Schaffhausen mit geologischer und ökologischer Bedeutung.",
-                  "category": "natural",
-                  "coords": [
-                        8.63755,
-                        47.673291
-                  ]
-            },
-            {
                   "name": "Urwerf",
                   "text": "Ein Naturschutzgebiet in der Region Schaffhausen.",
                   "category": "natural",
                   "coords": [
                         8.622161,
                         47.695205
-                  ]
-            },
-            {
-                  "name": "Sonnenhalde/Tüfelschuchi",
-                  "text": "Ein Naturschutzgebiet mit vielfältiger Flora und Fauna bei Schaffhausen.",
-                  "category": "natural",
-                  "coords": [
-                        8.59801,
-                        47.697951
                   ]
             },
             {
@@ -21174,24 +20220,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Alpenzeiger Hohflue",
-                  "text": "Ein Aussichtspunkt bei Schaffhausen mit weitem Blick auf die Alpen.",
-                  "category": "natural",
-                  "coords": [
-                        8.616352,
-                        47.69273
-                  ]
-            },
-            {
-                  "name": "Aussichtspunkt Rheinweg",
-                  "text": "Ein Aussichtspunkt am Rheinweg in Schaffhausen.",
-                  "category": "natural",
-                  "coords": [
-                        8.617001,
-                        47.678193
-                  ]
-            },
-            {
                   "name": "Fenisberg",
                   "text": "Ein Aussichtspunkt in der Nähe von Schaffhausen.",
                   "category": "natural",
@@ -21201,39 +20229,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Aussichtspunkt Rheinfallstrasse",
-                  "text": "Ein Aussichtspunkt an der Rheinfallstrasse mit Blick auf die Wasserfälle.",
-                  "category": "natural",
-                  "coords": [
-                        8.612654,
-                        47.680181
-                  ]
-            },
-            {
                   "name": "Ängiwäiher",
                   "text": "Ein malerischer Weiher in Schaffhausen, der zur Entspannung in der Natur einlädt.",
                   "category": "natural",
                   "coords": [
                         8.607505,
                         47.702132
-                  ]
-            },
-            {
-                  "name": "Galgenbuck",
-                  "text": "Ein weitläufiger Spielplatz in Schaffhausen für Familienausflüge.",
-                  "category": "family",
-                  "coords": [
-                        8.613706,
-                        47.688642
-                  ]
-            },
-            {
-                  "name": "Spielplatz Burgunvilla",
-                  "text": "Ein schöner Spielplatz in Schaffhausen für Kinder zum Klettern und Toben.",
-                  "category": "family",
-                  "coords": [
-                        8.621731,
-                        47.685484
                   ]
             },
             {
@@ -21252,15 +20253,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.617459,
                         47.695327
-                  ]
-            },
-            {
-                  "name": "Goldbergstrasse",
-                  "text": "Ein öffentlicher Kinderspielplatz in Schaffhausen mit verschiedenen Geräten.",
-                  "category": "family",
-                  "coords": [
-                        8.617055,
-                        47.69108
                   ]
             },
             {
@@ -21336,15 +20328,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Engi",
-                  "text": "Ein kinderfreundlicher Ort in Schaffhausen für Spiel und Begegnung.",
-                  "category": "family",
-                  "coords": [
-                        8.600872,
-                        47.695727
-                  ]
-            },
-            {
                   "name": "Spielplatz Munotpromenade",
                   "text": "Ein schön gelegener Spielplatz in Schaffhausen mit Blick auf die Umgebung.",
                   "category": "family",
@@ -21408,15 +20391,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Freibad Otterstall",
-                  "text": "Sport- und Freibadanlage in Schaffhausen.",
-                  "category": "family",
-                  "coords": [
-                        8.607445,
-                        47.678668
-                  ]
-            },
-            {
                   "name": "Mannenhägli",
                   "text": "Lokales Schwimmbad in Schaffhausen.",
                   "category": "family",
@@ -21464,15 +20438,6 @@ export const switzerlandCities: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Schloss Laufen",
-                  "text": "A Rajna-vízesés feletti kastély látványos kilátást nyújt a vízesésekre.",
-                  "category": "castle",
-                  "coords": [
-                        8.61495,
-                        47.676798
-                  ]
-            },
-            {
                   "name": "Rathauslaube",
                   "text": "Schaffhausen történelmi városházája pompás építészetéről ismert.",
                   "category": "historical",
@@ -21506,15 +20471,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.65238,
                         47.686735
-                  ]
-            },
-            {
-                  "name": "Rheinfall",
-                  "text": "Európa legnagyobb vízesése Schaffhausen közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        8.615072,
-                        47.677719
                   ]
             },
             {
@@ -21572,15 +20528,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hörnliturm",
-                  "text": "Fából készült kilátótorony a Cholfirst-hegyen, Schaffhausen közelében.",
-                  "category": "natural",
-                  "coords": [
-                        8.639788,
-                        47.672391
-                  ]
-            },
-            {
                   "name": "Museum im Zeughaus",
                   "text": "Schaffhauseni múzeum, amely a svájci haditechnika és technológia történetét mutatja be.",
                   "category": "museum",
@@ -21614,15 +20561,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.634473,
                         47.697108
-                  ]
-            },
-            {
-                  "name": "Ev. ref. Kirche Laufen am Rheinfall",
-                  "text": "Református templom a Rajna-vízesés felett, Schaffhausen közelében.",
-                  "category": "religious",
-                  "coords": [
-                        8.614531,
-                        47.675864
                   ]
             },
             {
@@ -21680,15 +20618,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Katholische Kirche Heilig Kreuz",
-                  "text": "Római katolikus templom Schaffhausenben.",
-                  "category": "religious",
-                  "coords": [
-                        8.617218,
-                        47.681778
-                  ]
-            },
-            {
                   "name": "St. Maria",
                   "text": "Katolikus templom Schaffhausen városában.",
                   "category": "religious",
@@ -21725,33 +20654,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Moser Familienmuseum Charlottenfels",
-                  "text": "Az iparos Moser családnak szentelt múzeum a Charlottenfels-kastélyban.",
-                  "category": "museum",
-                  "coords": [
-                        8.621394,
-                        47.690511
-                  ]
-            },
-            {
-                  "name": "Smilestones",
-                  "text": "Nagyszabású makettvilág Schaffhausenben, amely svájci látnivalókat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        8.613561,
-                        47.682645
-                  ]
-            },
-            {
-                  "name": "Rhyality Immersive Art Hall",
-                  "text": "Művészeti csarnok Schaffhausenben, amely magával ragadó 360 fokos vetítéseket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        8.617942,
-                        47.678241
-                  ]
-            },
-            {
                   "name": "Die Diskette",
                   "text": "Schaffhauseni múzeum, amely a számítástechnika történetével foglalkozik.",
                   "category": "museum",
@@ -21779,15 +20681,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Trottentheater",
-                  "text": "Helyi színház Schaffhausenben.",
-                  "category": "cultural",
-                  "coords": [
-                        8.623792,
-                        47.680693
-                  ]
-            },
-            {
                   "name": "Fass-Galerie und -Bühne",
                   "text": "Művészeti és kulturális központ galériával és színpaddal Schaffhausenben.",
                   "category": "cultural",
@@ -21806,39 +20699,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Mühlerad Bistro",
-                  "text": "Bisztró egy történelmi malomkerékkel Schaffhausenben.",
-                  "category": "landmark",
-                  "coords": [
-                        8.615297,
-                        47.678798
-                  ]
-            },
-            {
-                  "name": "Trockenstandort und Deckenschotteraufschluss Chirchhölzli",
-                  "text": "Természetvédelmi terület Schaffhausen közelében, geológiai és ökológiai jelentőséggel.",
-                  "category": "natural",
-                  "coords": [
-                        8.63755,
-                        47.673291
-                  ]
-            },
-            {
                   "name": "Urwerf",
                   "text": "Természetvédelmi terület Schaffhausen régiójában.",
                   "category": "natural",
                   "coords": [
                         8.622161,
                         47.695205
-                  ]
-            },
-            {
-                  "name": "Sonnenhalde/Tüfelschuchi",
-                  "text": "Természetvédelmi terület változatos növény- és állatvilággal Schaffhausen közelében.",
-                  "category": "natural",
-                  "coords": [
-                        8.59801,
-                        47.697951
                   ]
             },
             {
@@ -21851,24 +20717,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Alpenzeiger Hohflue",
-                  "text": "Kilátóhely Schaffhausen közelében, ahonnan messzire ellátni az Alpokig.",
-                  "category": "natural",
-                  "coords": [
-                        8.616352,
-                        47.69273
-                  ]
-            },
-            {
-                  "name": "Aussichtspunkt Rheinweg",
-                  "text": "Kilátóhely a Schaffhausen-i Rheinwegen.",
-                  "category": "natural",
-                  "coords": [
-                        8.617001,
-                        47.678193
-                  ]
-            },
-            {
                   "name": "Fenisberg",
                   "text": "Kilátóhely Schaffhausen környékén.",
                   "category": "natural",
@@ -21878,39 +20726,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Aussichtspunkt Rheinfallstrasse",
-                  "text": "Kilátóhely a Rheinfallstrasse mentén, kilátással a vízesésre.",
-                  "category": "natural",
-                  "coords": [
-                        8.612654,
-                        47.680181
-                  ]
-            },
-            {
                   "name": "Ängiwäiher",
                   "text": "Festői tó Schaffhausenben, amely természeti kikapcsolódásra hívogat.",
                   "category": "natural",
                   "coords": [
                         8.607505,
                         47.702132
-                  ]
-            },
-            {
-                  "name": "Galgenbuck",
-                  "text": "Tágas játszótér Schaffhausenben családi kirándulásokhoz.",
-                  "category": "family",
-                  "coords": [
-                        8.613706,
-                        47.688642
-                  ]
-            },
-            {
-                  "name": "Spielplatz Burgunvilla",
-                  "text": "Szép játszótér Schaffhausenben mászáshoz és hancúrozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        8.621731,
-                        47.685484
                   ]
             },
             {
@@ -21929,15 +20750,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.617459,
                         47.695327
-                  ]
-            },
-            {
-                  "name": "Goldbergstrasse",
-                  "text": "Közterületi gyermekjátszótér Schaffhausenben különféle játékokkal.",
-                  "category": "family",
-                  "coords": [
-                        8.617055,
-                        47.69108
                   ]
             },
             {
@@ -22013,15 +20825,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Engi",
-                  "text": "Gyerekbarát hely Schaffhausenben játékhoz és találkozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        8.600872,
-                        47.695727
-                  ]
-            },
-            {
                   "name": "Spielplatz Munotpromenade",
                   "text": "Szép fekvésű játszótér Schaffhausenben kilátással a környékre.",
                   "category": "family",
@@ -22085,15 +20888,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Freibad Otterstall",
-                  "text": "Sport- és szabadtéri strand Schaffhausenben.",
-                  "category": "family",
-                  "coords": [
-                        8.607445,
-                        47.678668
-                  ]
-            },
-            {
                   "name": "Mannenhägli",
                   "text": "Helyi úszómedence Schaffhausenben.",
                   "category": "family",
@@ -22141,15 +20935,6 @@ export const switzerlandCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Schloss Laufen",
-                  "text": "Acest castel deasupra cascadei Rinului oferă o priveliște spectaculoasă asupra căderilor de apă.",
-                  "category": "castle",
-                  "coords": [
-                        8.61495,
-                        47.676798
-                  ]
-            },
-            {
                   "name": "Rathauslaube",
                   "text": "Primăria istorică din Schaffhausen este cunoscută pentru arhitectura sa splendidă.",
                   "category": "historical",
@@ -22183,15 +20968,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.65238,
                         47.686735
-                  ]
-            },
-            {
-                  "name": "Cascada Rinului",
-                  "text": "Cea mai mare cascadă din Europa, situată lângă Schaffhausen.",
-                  "category": "landmark",
-                  "coords": [
-                        8.615072,
-                        47.677719
                   ]
             },
             {
@@ -22249,15 +21025,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hörnliturm",
-                  "text": "Un turn de observație din lemn pe muntele Cholfirst, lângă Schaffhausen.",
-                  "category": "natural",
-                  "coords": [
-                        8.639788,
-                        47.672391
-                  ]
-            },
-            {
                   "name": "Museum im Zeughaus",
                   "text": "Un muzeu din Schaffhausen dedicat istoriei militare și tehnice a Elveției.",
                   "category": "museum",
@@ -22291,15 +21058,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.634473,
                         47.697108
-                  ]
-            },
-            {
-                  "name": "Ev. ref. Kirche Laufen am Rheinfall",
-                  "text": "O biserică reformată situată deasupra Cascadei Rinului, lângă Schaffhausen.",
-                  "category": "religious",
-                  "coords": [
-                        8.614531,
-                        47.675864
                   ]
             },
             {
@@ -22357,15 +21115,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Katholische Kirche Heilig Kreuz",
-                  "text": "O biserică romano-catolică din Schaffhausen.",
-                  "category": "religious",
-                  "coords": [
-                        8.617218,
-                        47.681778
-                  ]
-            },
-            {
                   "name": "St. Maria",
                   "text": "O biserică catolică din orașul Schaffhausen.",
                   "category": "religious",
@@ -22402,33 +21151,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Moser Familienmuseum Charlottenfels",
-                  "text": "Un muzeu situat în castelul Charlottenfels, dedicat familiei de industriași Moser.",
-                  "category": "museum",
-                  "coords": [
-                        8.621394,
-                        47.690511
-                  ]
-            },
-            {
-                  "name": "Smilestones",
-                  "text": "O lume miniaturală vastă din Schaffhausen, care prezintă obiective turistice elvețiene.",
-                  "category": "museum",
-                  "coords": [
-                        8.613561,
-                        47.682645
-                  ]
-            },
-            {
-                  "name": "Rhyality Immersive Art Hall",
-                  "text": "O sală de artă din Schaffhausen care prezintă proiecții imersive la 360 de grade.",
-                  "category": "museum",
-                  "coords": [
-                        8.617942,
-                        47.678241
-                  ]
-            },
-            {
                   "name": "Die Diskette",
                   "text": "Un muzeu din Schaffhausen dedicat istoriei tehnologiei computerelor.",
                   "category": "museum",
@@ -22456,15 +21178,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Trottentheater",
-                  "text": "Un teatru local din Schaffhausen.",
-                  "category": "cultural",
-                  "coords": [
-                        8.623792,
-                        47.680693
-                  ]
-            },
-            {
                   "name": "Fass-Galerie und -Bühne",
                   "text": "Un centru de artă și cultură cu galerie și scenă în Schaffhausen.",
                   "category": "cultural",
@@ -22483,39 +21196,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Mühlerad Bistro",
-                  "text": "Un bistro cu o roată de moară istorică în Schaffhausen.",
-                  "category": "landmark",
-                  "coords": [
-                        8.615297,
-                        47.678798
-                  ]
-            },
-            {
-                  "name": "Trockenstandort und Deckenschotteraufschluss Chirchhölzli",
-                  "text": "O rezervație naturală lângă Schaffhausen cu importanță geologică și ecologică.",
-                  "category": "natural",
-                  "coords": [
-                        8.63755,
-                        47.673291
-                  ]
-            },
-            {
                   "name": "Urwerf",
                   "text": "O rezervație naturală din regiunea Schaffhausen.",
                   "category": "natural",
                   "coords": [
                         8.622161,
                         47.695205
-                  ]
-            },
-            {
-                  "name": "Sonnenhalde/Tüfelschuchi",
-                  "text": "O rezervație naturală cu floră și faună diversă lângă Schaffhausen.",
-                  "category": "natural",
-                  "coords": [
-                        8.59801,
-                        47.697951
                   ]
             },
             {
@@ -22528,24 +21214,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Alpenzeiger Hohflue",
-                  "text": "Un punct de observație lângă Schaffhausen, cu o vedere panoramică spre Alpi.",
-                  "category": "natural",
-                  "coords": [
-                        8.616352,
-                        47.69273
-                  ]
-            },
-            {
-                  "name": "Aussichtspunkt Rheinweg",
-                  "text": "Un punct de observație pe strada Rheinweg din Schaffhausen.",
-                  "category": "natural",
-                  "coords": [
-                        8.617001,
-                        47.678193
-                  ]
-            },
-            {
                   "name": "Fenisberg",
                   "text": "Un punct de observație în apropiere de Schaffhausen.",
                   "category": "natural",
@@ -22555,39 +21223,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Aussichtspunkt Rheinfallstrasse",
-                  "text": "Un punct de observație pe strada Rheinfallstrasse, cu vedere spre cascadă.",
-                  "category": "natural",
-                  "coords": [
-                        8.612654,
-                        47.680181
-                  ]
-            },
-            {
                   "name": "Ängiwäiher",
                   "text": "Un lac pitoresc în Schaffhausen care invită la relaxare în natură.",
                   "category": "natural",
                   "coords": [
                         8.607505,
                         47.702132
-                  ]
-            },
-            {
-                  "name": "Galgenbuck",
-                  "text": "Un loc de joacă spațios în Schaffhausen pentru ieșiri cu familia.",
-                  "category": "family",
-                  "coords": [
-                        8.613706,
-                        47.688642
-                  ]
-            },
-            {
-                  "name": "Spielplatz Burgunvilla",
-                  "text": "Un loc de joacă frumos în Schaffhausen pentru copii, pentru cățărat și joacă.",
-                  "category": "family",
-                  "coords": [
-                        8.621731,
-                        47.685484
                   ]
             },
             {
@@ -22606,15 +21247,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.617459,
                         47.695327
-                  ]
-            },
-            {
-                  "name": "Goldbergstrasse",
-                  "text": "Un loc de joacă public pentru copii în Schaffhausen cu diverse echipamente.",
-                  "category": "family",
-                  "coords": [
-                        8.617055,
-                        47.69108
                   ]
             },
             {
@@ -22690,15 +21322,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Engi",
-                  "text": "Un loc prietenos cu copiii în Schaffhausen pentru joacă și socializare.",
-                  "category": "family",
-                  "coords": [
-                        8.600872,
-                        47.695727
-                  ]
-            },
-            {
                   "name": "Spielplatz Munotpromenade",
                   "text": "Un loc de joacă frumos situat în Schaffhausen cu vedere spre împrejurimi.",
                   "category": "family",
@@ -22762,15 +21385,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Freibad Otterstall",
-                  "text": "Complex sportiv și ștrand în Schaffhausen.",
-                  "category": "family",
-                  "coords": [
-                        8.607445,
-                        47.678668
-                  ]
-            },
-            {
                   "name": "Mannenhägli",
                   "text": "Piscină locală în Schaffhausen.",
                   "category": "family",
@@ -22818,15 +21432,6 @@ export const switzerlandCities: POI[] = [
       ],
       "en": [
             {
-                  "name": "Schloss Laufen",
-                  "text": "This castle above the Rhine Falls offers spectacular views of the waterfalls.",
-                  "category": "castle",
-                  "coords": [
-                        8.61495,
-                        47.676798
-                  ]
-            },
-            {
                   "name": "Rathauslaube",
                   "text": "The historical town hall of Schaffhausen is known for its magnificent architecture.",
                   "category": "historical",
@@ -22860,15 +21465,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.65238,
                         47.686735
-                  ]
-            },
-            {
-                  "name": "Rhine Falls",
-                  "text": "The largest waterfall in Europe, located near Schaffhausen.",
-                  "category": "landmark",
-                  "coords": [
-                        8.615072,
-                        47.677719
                   ]
             },
             {
@@ -22926,15 +21522,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hörnliturm",
-                  "text": "A wooden observation tower on the Cholfirst hill near Schaffhausen.",
-                  "category": "natural",
-                  "coords": [
-                        8.639788,
-                        47.672391
-                  ]
-            },
-            {
                   "name": "Museum im Zeughaus",
                   "text": "A museum in Schaffhausen dedicated to Swiss military and technical history.",
                   "category": "museum",
@@ -22968,15 +21555,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.634473,
                         47.697108
-                  ]
-            },
-            {
-                  "name": "Ev. ref. Kirche Laufen am Rheinfall",
-                  "text": "A reformed church located above the Rhine Falls near Schaffhausen.",
-                  "category": "religious",
-                  "coords": [
-                        8.614531,
-                        47.675864
                   ]
             },
             {
@@ -23034,15 +21612,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Katholische Kirche Heilig Kreuz",
-                  "text": "A Roman Catholic church in Schaffhausen.",
-                  "category": "religious",
-                  "coords": [
-                        8.617218,
-                        47.681778
-                  ]
-            },
-            {
                   "name": "St. Maria",
                   "text": "A Catholic church in the city of Schaffhausen.",
                   "category": "religious",
@@ -23079,33 +21648,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Moser Familienmuseum Charlottenfels",
-                  "text": "A museum in Charlottenfels Castle dedicated to the Moser industrialist family.",
-                  "category": "museum",
-                  "coords": [
-                        8.621394,
-                        47.690511
-                  ]
-            },
-            {
-                  "name": "Smilestones",
-                  "text": "A large miniature world in Schaffhausen depicting Swiss landmarks.",
-                  "category": "museum",
-                  "coords": [
-                        8.613561,
-                        47.682645
-                  ]
-            },
-            {
-                  "name": "Rhyality Immersive Art Hall",
-                  "text": "An art hall in Schaffhausen featuring immersive 360-degree projections.",
-                  "category": "museum",
-                  "coords": [
-                        8.617942,
-                        47.678241
-                  ]
-            },
-            {
                   "name": "Die Diskette",
                   "text": "A museum in Schaffhausen dedicated to the history of computer technology.",
                   "category": "museum",
@@ -23133,15 +21675,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Trottentheater",
-                  "text": "A local theatre in Schaffhausen.",
-                  "category": "cultural",
-                  "coords": [
-                        8.623792,
-                        47.680693
-                  ]
-            },
-            {
                   "name": "Fass-Galerie und -Bühne",
                   "text": "A center for art and culture featuring a gallery and stage in Schaffhausen.",
                   "category": "cultural",
@@ -23160,39 +21693,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Mühlerad Bistro",
-                  "text": "A bistro featuring a historic mill wheel in Schaffhausen.",
-                  "category": "landmark",
-                  "coords": [
-                        8.615297,
-                        47.678798
-                  ]
-            },
-            {
-                  "name": "Trockenstandort und Deckenschotteraufschluss Chirchhölzli",
-                  "text": "A nature reserve near Schaffhausen with geological and ecological significance.",
-                  "category": "natural",
-                  "coords": [
-                        8.63755,
-                        47.673291
-                  ]
-            },
-            {
                   "name": "Urwerf",
                   "text": "A nature reserve located in the Schaffhausen region.",
                   "category": "natural",
                   "coords": [
                         8.622161,
                         47.695205
-                  ]
-            },
-            {
-                  "name": "Sonnenhalde/Tüfelschuchi",
-                  "text": "A nature reserve with diverse flora and fauna near Schaffhausen.",
-                  "category": "natural",
-                  "coords": [
-                        8.59801,
-                        47.697951
                   ]
             },
             {
@@ -23205,24 +21711,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Alpenzeiger Hohflue",
-                  "text": "A viewpoint near Schaffhausen offering far-reaching views of the Alps.",
-                  "category": "natural",
-                  "coords": [
-                        8.616352,
-                        47.69273
-                  ]
-            },
-            {
-                  "name": "Aussichtspunkt Rheinweg",
-                  "text": "A viewpoint located on Rheinweg in Schaffhausen.",
-                  "category": "natural",
-                  "coords": [
-                        8.617001,
-                        47.678193
-                  ]
-            },
-            {
                   "name": "Fenisberg",
                   "text": "A viewpoint in the vicinity of Schaffhausen.",
                   "category": "natural",
@@ -23232,39 +21720,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Aussichtspunkt Rheinfallstrasse",
-                  "text": "A viewpoint on Rheinfallstrasse offering views of the falls.",
-                  "category": "natural",
-                  "coords": [
-                        8.612654,
-                        47.680181
-                  ]
-            },
-            {
                   "name": "Ängiwäiher",
                   "text": "A picturesque lake in Schaffhausen inviting for relaxation in nature.",
                   "category": "natural",
                   "coords": [
                         8.607505,
                         47.702132
-                  ]
-            },
-            {
-                  "name": "Galgenbuck",
-                  "text": "A spacious playground in Schaffhausen for family outings.",
-                  "category": "family",
-                  "coords": [
-                        8.613706,
-                        47.688642
-                  ]
-            },
-            {
-                  "name": "Spielplatz Burgunvilla",
-                  "text": "A nice playground in Schaffhausen for children to climb and play.",
-                  "category": "family",
-                  "coords": [
-                        8.621731,
-                        47.685484
                   ]
             },
             {
@@ -23283,15 +21744,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.617459,
                         47.695327
-                  ]
-            },
-            {
-                  "name": "Goldbergstrasse",
-                  "text": "A public children's playground in Schaffhausen with various equipment.",
-                  "category": "family",
-                  "coords": [
-                        8.617055,
-                        47.69108
                   ]
             },
             {
@@ -23367,15 +21819,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Engi",
-                  "text": "A child-friendly place in Schaffhausen for play and meeting.",
-                  "category": "family",
-                  "coords": [
-                        8.600872,
-                        47.695727
-                  ]
-            },
-            {
                   "name": "Spielplatz Munotpromenade",
                   "text": "A beautifully located playground in Schaffhausen with views of the surroundings.",
                   "category": "family",
@@ -23436,15 +21879,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         8.637146,
                         47.700107
-                  ]
-            },
-            {
-                  "name": "Freibad Otterstall",
-                  "text": "Outdoor sports and swimming facility in Schaffhausen.",
-                  "category": "family",
-                  "coords": [
-                        8.607445,
-                        47.678668
                   ]
             },
             {
@@ -23623,15 +22057,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "La pierre fourchue",
-                  "text": "Ein markanter Findling, der der Gemeinde Pierrafortscha ihren Namen gab.",
-                  "category": "landmark",
-                  "coords": [
-                        7.179815,
-                        46.782866
-                  ]
-            },
-            {
                   "name": "Räsch",
                   "text": "Eine historische Schlossanlage in der Region Freiburg.",
                   "category": "castle",
@@ -23650,39 +22075,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Musée d'histoire naturelle",
-                  "text": "Ein Museum, das der Naturgeschichte und der Artenvielfalt der Region gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        7.15714,
-                        46.793148
-                  ]
-            },
-            {
-                  "name": "(Futur) Musée d'histoire naturelle",
-                  "text": "Der geplante zukünftige Standort des Naturhistorischen Museums in Freiburg.",
-                  "category": "museum",
-                  "coords": [
-                        7.151301,
-                        46.795917
-                  ]
-            },
-            {
                   "name": "Schloss Übewil",
                   "text": "Ein historisches Herrenhaus und Schloss in Übewil bei Freiburg.",
                   "category": "castle",
                   "coords": [
                         7.179816,
                         46.813526
-                  ]
-            },
-            {
-                  "name": "Schloss Hattenberg",
-                  "text": "Ein elegantes Schlossgebäude in der Nähe von Freiburg.",
-                  "category": "castle",
-                  "coords": [
-                        7.196624,
-                        46.804549
                   ]
             },
             {
@@ -23713,15 +22111,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Loretto",
-                  "text": "Eine historische Kapelle mit Panoramablick auf die Freiburger Altstadt.",
-                  "category": "religious",
-                  "coords": [
-                        7.166197,
-                        46.801053
-                  ]
-            },
-            {
                   "name": "Kappelle zu Ehren Unserer Lieben Frau von den Sieben Schmerzen",
                   "text": "Eine stille Kapelle, die der Mater Dolorosa gewidmet ist.",
                   "category": "religious",
@@ -23731,48 +22120,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Sankt Johann",
-                  "text": "Eine traditionelle, dem Heiligen Johannes gewidmete Kirche in Freiburg.",
-                  "category": "religious",
-                  "coords": [
-                        7.163063,
-                        46.80304
-                  ]
-            },
-            {
                   "name": "Liebfrauenkirche",
                   "text": "Ein bedeutendes religiöses Gebäude und die älteste Kirche der Stadt.",
                   "category": "religious",
                   "coords": [
                         7.161662,
                         46.806914
-                  ]
-            },
-            {
-                  "name": "Pfarrkirche St. Peter",
-                  "text": "Eine lokale Pfarrkirche in Freiburg, die dem Heiligen Petrus gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        7.146992,
-                        46.803116
-                  ]
-            },
-            {
-                  "name": "Unsere Liebe Frau von Bürglen",
-                  "text": "Eine bekannte Wallfahrtskapelle auf einem Hügel über Freiburg.",
-                  "category": "religious",
-                  "coords": [
-                        7.176767,
-                        46.800075
-                  ]
-            },
-            {
-                  "name": "Reformierte Kirche",
-                  "text": "Das wichtigste Gotteshaus der reformierten Gemeinde in Freiburg.",
-                  "category": "religious",
-                  "coords": [
-                        7.153271,
-                        46.80435
                   ]
             },
             {
@@ -23803,15 +22156,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "St. Sacrament",
-                  "text": "Ein Gotteshaus in Freiburg, das dem Allerheiligsten Sakrament gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        7.149018,
-                        46.784656
-                  ]
-            },
-            {
                   "name": "Église Sainte Marie-Madeleine",
                   "text": "Eine der Heiligen Maria Magdalena gewidmete Kirche in der Stadt.",
                   "category": "religious",
@@ -23830,30 +22174,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Pérollesbrücke",
-                  "text": "Eine hohe Brücke, die das Saane-Tal in Freiburg überspannt.",
-                  "category": "landmark",
-                  "coords": [
-                        7.1551,
-                        46.788192
-                  ]
-            },
-            {
                   "name": "Gottéron-Brücke",
                   "text": "Eine markante Brücke, die die tiefe Gottéron-Schlucht überquert.",
                   "category": "landmark",
                   "coords": [
                         7.171892,
                         46.804517
-                  ]
-            },
-            {
-                  "name": "Swiss Museum for Electronic Music Instruments",
-                  "text": "Ein Museum und Archiv, das der Geschichte elektronischer Musikinstrumente gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        7.147162,
-                        46.797709
                   ]
             },
             {
@@ -23890,15 +22216,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.159568,
                         46.807935
-                  ]
-            },
-            {
-                  "name": "Château de Boccard",
-                  "text": "Ein elegantes Herrenhaus und historischer Wohnsitz in der Gegend von Freiburg.",
-                  "category": "castle",
-                  "coords": [
-                        7.125563,
-                        46.812187
                   ]
             },
             {
@@ -23947,15 +22264,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Nuithonie",
-                  "text": "Ein modernes Zentrum für darstellende Künste in Villars-sur-Glâne bei Freiburg.",
-                  "category": "cultural",
-                  "coords": [
-                        7.132126,
-                        46.79476
-                  ]
-            },
-            {
                   "name": "Café-Théâtre Le Bilboquet",
                   "text": "Ein gemütliches Café-Theater, das für Comedy und Kleinkunst bekannt ist.",
                   "category": "cultural",
@@ -23992,24 +22300,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lac de Pérolles",
-                  "text": "Ein wunderschönes Naturschutzgebiet um einen Stausee an der Saane.",
-                  "category": "natural",
-                  "coords": [
-                        7.157342,
-                        46.791539
-                  ]
-            },
-            {
-                  "name": "Schiffenensee",
-                  "text": "Ein Stausee bei Fribourg, bekannt für seine beeindruckende Landschaft und Wassersportmöglichkeiten.",
-                  "category": "natural",
-                  "coords": [
-                        7.167615,
-                        46.849885
-                  ]
-            },
-            {
                   "name": "Minigolf du Jura",
                   "text": "Ein schöner Minigolfplatz in Fribourg für entspannte Stunden mit der Familie.",
                   "category": "family",
@@ -24019,30 +22309,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Cour de la Vignettaz",
-                  "text": "Ein Schulspielplatz in Fribourg, der auch in der Freizeit zum Spielen einlädt.",
-                  "category": "family",
-                  "coords": [
-                        7.144083,
-                        46.798004
-                  ]
-            },
-            {
                   "name": "Le parcours de l'aventure d'Hubert Audriaz",
                   "text": "Ein erlebnisreicher Abenteuerpfad in Fribourg, gestaltet für fantasievolles Spiel.",
                   "category": "family",
                   "coords": [
                         7.163744,
                         46.807091
-                  ]
-            },
-            {
-                  "name": "Maggenberg",
-                  "text": "Ein Quartiersspielplatz in Fribourg mit Platz zum Rennen und Spielen.",
-                  "category": "family",
-                  "coords": [
-                        7.180407,
-                        46.807822
                   ]
             }
       ],
@@ -24102,15 +22374,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "La pierre fourchue",
-                  "text": "Egy figyelemre méltó vándorkő, amelyről Pierrafortscha község a nevét kapta.",
-                  "category": "landmark",
-                  "coords": [
-                        7.179815,
-                        46.782866
-                  ]
-            },
-            {
                   "name": "Räsch",
                   "text": "Egy történelmi kastély Freiburg környékén.",
                   "category": "castle",
@@ -24129,39 +22392,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Musée d'histoire naturelle",
-                  "text": "A régió természetrajzával és élővilágával foglalkozó múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        7.15714,
-                        46.793148
-                  ]
-            },
-            {
-                  "name": "(Futur) Musée d'histoire naturelle",
-                  "text": "Freiburg természetrajzi múzeumának tervezett jövőbeli helyszíne.",
-                  "category": "museum",
-                  "coords": [
-                        7.151301,
-                        46.795917
-                  ]
-            },
-            {
                   "name": "Schloss Übewil",
                   "text": "Egy történelmi kúria és kastély Übewilben, Freiburg közelében.",
                   "category": "castle",
                   "coords": [
                         7.179816,
                         46.813526
-                  ]
-            },
-            {
-                  "name": "Schloss Hattenberg",
-                  "text": "Egy elegáns kastélyépület Freiburg szomszédságában.",
-                  "category": "castle",
-                  "coords": [
-                        7.196624,
-                        46.804549
                   ]
             },
             {
@@ -24192,15 +22428,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lorette",
-                  "text": "Történelmi kápolna, amely panorámás kilátást nyújt Freiburg óvárosára.",
-                  "category": "religious",
-                  "coords": [
-                        7.166197,
-                        46.801053
-                  ]
-            },
-            {
                   "name": "Kappelle zu Ehren Unserer Lieben Frau von den Sieben Schmerzen",
                   "text": "A Fájdalmas Szűzanyának szentelt csendes kápolna.",
                   "category": "religious",
@@ -24210,48 +22437,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Saint-Jean",
-                  "text": "Keresztelő Szent Jánosnak szentelt hagyományos templom Freiburg városában.",
-                  "category": "religious",
-                  "coords": [
-                        7.163063,
-                        46.80304
-                  ]
-            },
-            {
                   "name": "Basilique Notre-Dame / Liebfrauenkirche",
                   "text": "Jelentős vallási épület és a város legrégebbi temploma.",
                   "category": "religious",
                   "coords": [
                         7.161662,
                         46.806914
-                  ]
-            },
-            {
-                  "name": "Saint-Pierre",
-                  "text": "Szent Péternek szentelt helyi plébániatemplom Freiburgban.",
-                  "category": "religious",
-                  "coords": [
-                        7.146992,
-                        46.803116
-                  ]
-            },
-            {
-                  "name": "Notre-Dame de Bourguillon",
-                  "text": "Ismert zarándokkápolna egy dombon, Freiburg felett.",
-                  "category": "religious",
-                  "coords": [
-                        7.176767,
-                        46.800075
-                  ]
-            },
-            {
-                  "name": "Temple réformé",
-                  "text": "A református közösség fő temploma Freiburgban.",
-                  "category": "religious",
-                  "coords": [
-                        7.153271,
-                        46.80435
                   ]
             },
             {
@@ -24282,15 +22473,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "St. Sacrament",
-                  "text": "Az Oltáriszentségnek szentelt templom Freiburgban.",
-                  "category": "religious",
-                  "coords": [
-                        7.149018,
-                        46.784656
-                  ]
-            },
-            {
                   "name": "Église Sainte Marie-Madeleine",
                   "text": "Szent Mária Magdolnának szentelt templom a városban.",
                   "category": "religious",
@@ -24309,30 +22491,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Pont de Pérolles",
-                  "text": "Magas híd, amely a Saane folyó völgyét íveli át Freiburgban.",
-                  "category": "landmark",
-                  "coords": [
-                        7.1551,
-                        46.788192
-                  ]
-            },
-            {
                   "name": "Pont du Gottéron",
                   "text": "Eine markante Brücke, die die tiefe Gottéron-Schlucht überquert.",
                   "category": "landmark",
                   "coords": [
                         7.171892,
                         46.804517
-                  ]
-            },
-            {
-                  "name": "Swiss Museum for Electronic Music Instruments",
-                  "text": "Az elektronikus hangszerek történetének szentelt múzeum és archívum.",
-                  "category": "museum",
-                  "coords": [
-                        7.147162,
-                        46.797709
                   ]
             },
             {
@@ -24369,15 +22533,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.159568,
                         46.807935
-                  ]
-            },
-            {
-                  "name": "Château de Boccard",
-                  "text": "Elegáns kúria és történelmi rezidencia Freiburg környékén.",
-                  "category": "castle",
-                  "coords": [
-                        7.125563,
-                        46.812187
                   ]
             },
             {
@@ -24426,15 +22581,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Nuithonie",
-                  "text": "Modern előadó-művészeti központ Villars-sur-Glâne-ban, Freiburg közelében.",
-                  "category": "cultural",
-                  "coords": [
-                        7.132126,
-                        46.79476
-                  ]
-            },
-            {
                   "name": "Café-Théâtre Le Bilboquet",
                   "text": "Bensőséges kávéház-színház, amely vígjátékairól és kisléptékű előadásairól ismert.",
                   "category": "cultural",
@@ -24471,24 +22617,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lac de Pérolles",
-                  "text": "Gyönyörű természetvédelmi terület a Saane folyó gátja által kialakított tó körül.",
-                  "category": "natural",
-                  "coords": [
-                        7.157342,
-                        46.791539
-                  ]
-            },
-            {
-                  "name": "Schiffenensee",
-                  "text": "Fribourg közeli víztározó, amely lenyűgöző tájáról és vízisport-lehetőségeiről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        7.167615,
-                        46.849885
-                  ]
-            },
-            {
                   "name": "Minigolf du Jura",
                   "text": "Szép minigolfpálya Fribourgban a családdal töltött kikapcsolódáshoz.",
                   "category": "family",
@@ -24498,30 +22626,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Cour de la Vignettaz",
-                  "text": "Iskolai játszótér Fribourgban, amely szabadidőben is játékra hívogat.",
-                  "category": "family",
-                  "coords": [
-                        7.144083,
-                        46.798004
-                  ]
-            },
-            {
                   "name": "Le parcours de l'aventure d'Hubert Audriaz",
                   "text": "Élménydús kalandösvény Fribourgban, a fantáziadús játékra tervezve.",
                   "category": "family",
                   "coords": [
                         7.163744,
                         46.807091
-                  ]
-            },
-            {
-                  "name": "Maggenberg",
-                  "text": "Környékbeli játszótér Fribourgban, ahol bőven van hely a szaladgáláshoz és játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        7.180407,
-                        46.807822
                   ]
             }
       ],
@@ -24581,15 +22691,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "La pierre fourchue",
-                  "text": "Un bloc erratic impresionant care a dat numele municipalității Pierrafortscha.",
-                  "category": "landmark",
-                  "coords": [
-                        7.179815,
-                        46.782866
-                  ]
-            },
-            {
                   "name": "Räsch",
                   "text": "Un castel istoric situat în regiunea Freiburg.",
                   "category": "castle",
@@ -24608,39 +22709,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Musée d'histoire naturelle",
-                  "text": "Un muzeu dedicat istoriei naturale și biodiversității regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        7.15714,
-                        46.793148
-                  ]
-            },
-            {
-                  "name": "(Futur) Musée d'histoire naturelle",
-                  "text": "Viitorul sediu planificat pentru muzeul de istorie naturală din Freiburg.",
-                  "category": "museum",
-                  "coords": [
-                        7.151301,
-                        46.795917
-                  ]
-            },
-            {
                   "name": "Schloss Übewil",
                   "text": "Un conac istoric și castel situat în Übewil, lângă Freiburg.",
                   "category": "castle",
                   "coords": [
                         7.179816,
                         46.813526
-                  ]
-            },
-            {
-                  "name": "Schloss Hattenberg",
-                  "text": "O clădire elegantă de castel situată în apropiere de Freiburg.",
-                  "category": "castle",
-                  "coords": [
-                        7.196624,
-                        46.804549
                   ]
             },
             {
@@ -24671,15 +22745,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lorette",
-                  "text": "O capelă istorică ce oferă o vedere panoramică asupra centrului vechi din Freiburg.",
-                  "category": "religious",
-                  "coords": [
-                        7.166197,
-                        46.801053
-                  ]
-            },
-            {
                   "name": "Kappelle zu Ehren Unserer Lieben Frau von den Sieben Schmerzen",
                   "text": "O capelă liniștită dedicată Maicii Domnului a celor Șapte Dureri.",
                   "category": "religious",
@@ -24689,48 +22754,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Saint-Jean",
-                  "text": "O biserică tradițională dedicată Sfântului Ioan în orașul Freiburg.",
-                  "category": "religious",
-                  "coords": [
-                        7.163063,
-                        46.80304
-                  ]
-            },
-            {
                   "name": "Basilique Notre-Dame / Liebfrauenkirche",
                   "text": "O clădire religioasă semnificativă și cea mai veche biserică din oraș.",
                   "category": "religious",
                   "coords": [
                         7.161662,
                         46.806914
-                  ]
-            },
-            {
-                  "name": "Saint-Pierre",
-                  "text": "O biserică parohială locală dedicată Sfântului Petru în Freiburg.",
-                  "category": "religious",
-                  "coords": [
-                        7.146992,
-                        46.803116
-                  ]
-            },
-            {
-                  "name": "Notre-Dame de Bourguillon",
-                  "text": "O cunoscută capelă de pelerinaj situată pe un deal care domină Freiburgul.",
-                  "category": "religious",
-                  "coords": [
-                        7.176767,
-                        46.800075
-                  ]
-            },
-            {
-                  "name": "Temple réformé",
-                  "text": "Principalul lăcaș de cult al comunității reformate din Freiburg.",
-                  "category": "religious",
-                  "coords": [
-                        7.153271,
-                        46.80435
                   ]
             },
             {
@@ -24761,15 +22790,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "St. Sacrament",
-                  "text": "Un lăcaș de cult din Freiburg dedicat Preasfântului Sacrament.",
-                  "category": "religious",
-                  "coords": [
-                        7.149018,
-                        46.784656
-                  ]
-            },
-            {
                   "name": "Église Sainte Marie-Madeleine",
                   "text": "O biserică dedicată Sfintei Maria Magdalena situată în oraș.",
                   "category": "religious",
@@ -24788,30 +22808,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Pont de Pérolles",
-                  "text": "Un pod înalt care traversează valea râului Sarine în Freiburg.",
-                  "category": "landmark",
-                  "coords": [
-                        7.1551,
-                        46.788192
-                  ]
-            },
-            {
                   "name": "Pont du Gottéron",
                   "text": "Un pod remarcabil care traversează defileul adânc Gottéron.",
                   "category": "landmark",
                   "coords": [
                         7.171892,
                         46.804517
-                  ]
-            },
-            {
-                  "name": "Swiss Museum for Electronic Music Instruments",
-                  "text": "Un muzeu și arhivă dedicate istoriei instrumentelor muzicale electronice.",
-                  "category": "museum",
-                  "coords": [
-                        7.147162,
-                        46.797709
                   ]
             },
             {
@@ -24848,15 +22850,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.159568,
                         46.807935
-                  ]
-            },
-            {
-                  "name": "Château de Boccard",
-                  "text": "Un conac elegant și reședință istorică în zona Freiburg.",
-                  "category": "castle",
-                  "coords": [
-                        7.125563,
-                        46.812187
                   ]
             },
             {
@@ -24905,15 +22898,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Nuithonie",
-                  "text": "Un centru modern de arte spectacolului situat în Villars-sur-Glâne, lângă Freiburg.",
-                  "category": "cultural",
-                  "coords": [
-                        7.132126,
-                        46.79476
-                  ]
-            },
-            {
                   "name": "Café-Théâtre Le Bilboquet",
                   "text": "Un cafenea-teatru intim, cunoscut pentru comedie și spectacole la scară mică.",
                   "category": "cultural",
@@ -24950,24 +22934,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lac de Pérolles",
-                  "text": "O frumoasă rezervație naturală în jurul unui lac format de un baraj pe râul Sarine.",
-                  "category": "natural",
-                  "coords": [
-                        7.157342,
-                        46.791539
-                  ]
-            },
-            {
-                  "name": "Schiffenensee",
-                  "text": "Un lac de acumulare lângă Fribourg, cunoscut pentru peisajul impresionant și sporturile nautice.",
-                  "category": "natural",
-                  "coords": [
-                        7.167615,
-                        46.849885
-                  ]
-            },
-            {
                   "name": "Minigolf du Jura",
                   "text": "Un teren frumos de minigolf în Fribourg pentru ore relaxante cu familia.",
                   "category": "family",
@@ -24977,30 +22943,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Cour de la Vignettaz",
-                  "text": "Un loc de joacă școlar în Fribourg, care invită la joacă și în timpul liber.",
-                  "category": "family",
-                  "coords": [
-                        7.144083,
-                        46.798004
-                  ]
-            },
-            {
                   "name": "Le parcours de l'aventure d'Hubert Audriaz",
                   "text": "Un traseu de aventură plin de experiențe în Fribourg, creat pentru joc plin de imaginație.",
                   "category": "family",
                   "coords": [
                         7.163744,
                         46.807091
-                  ]
-            },
-            {
-                  "name": "Maggenberg",
-                  "text": "Un loc de joacă de cartier în Fribourg, cu spațiu pentru alergat și joacă.",
-                  "category": "family",
-                  "coords": [
-                        7.180407,
-                        46.807822
                   ]
             }
       ],
@@ -25042,30 +22990,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bern Bridge",
-                  "text": "The last covered wooden bridge in the city of Fribourg, crossing the Saane river.",
-                  "category": "landmark",
-                  "coords": [
-                        7.168997,
-                        46.804293
-                  ]
-            },
-            {
                   "name": "Porte de Morat / Murtentor",
                   "text": "A historic city gate in Fribourg, part of the ancient fortifications.",
                   "category": "tower",
                   "coords": [
                         7.157738,
                         46.811455
-                  ]
-            },
-            {
-                  "name": "La pierre fourchue",
-                  "text": "An impressive erratic block that gave its name to the municipality of Pierrafortscha.",
-                  "category": "landmark",
-                  "coords": [
-                        7.179815,
-                        46.782866
                   ]
             },
             {
@@ -25087,39 +23017,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Musée d'histoire naturelle",
-                  "text": "A museum dedicated to the natural history and biodiversity of the region.",
-                  "category": "museum",
-                  "coords": [
-                        7.15714,
-                        46.793148
-                  ]
-            },
-            {
-                  "name": "(Futur) Musée d'histoire naturelle",
-                  "text": "The planned future site for Freiburg's natural history museum.",
-                  "category": "museum",
-                  "coords": [
-                        7.151301,
-                        46.795917
-                  ]
-            },
-            {
                   "name": "Schloss Übewil",
                   "text": "A historic manor house and castle located in Übewil near Freiburg.",
                   "category": "castle",
                   "coords": [
                         7.179816,
                         46.813526
-                  ]
-            },
-            {
-                  "name": "Schloss Hattenberg",
-                  "text": "An elegant castle building situated in the vicinity of Freiburg.",
-                  "category": "castle",
-                  "coords": [
-                        7.196624,
-                        46.804549
                   ]
             },
             {
@@ -25150,15 +23053,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lorette",
-                  "text": "A historic chapel offering a panoramic view of Freiburg's old town.",
-                  "category": "religious",
-                  "coords": [
-                        7.166197,
-                        46.801053
-                  ]
-            },
-            {
                   "name": "Kappelle zu Ehren Unserer Lieben Frau von den Sieben Schmerzen",
                   "text": "A quiet chapel dedicated to Our Lady of the Seven Sorrows.",
                   "category": "religious",
@@ -25168,48 +23062,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Saint-Jean",
-                  "text": "A traditional church dedicated to Saint John in the city of Freiburg.",
-                  "category": "religious",
-                  "coords": [
-                        7.163063,
-                        46.80304
-                  ]
-            },
-            {
                   "name": "Basilique Notre-Dame / Liebfrauenkirche",
                   "text": "A significant religious building and the oldest church in the city.",
                   "category": "religious",
                   "coords": [
                         7.161662,
                         46.806914
-                  ]
-            },
-            {
-                  "name": "Saint-Pierre",
-                  "text": "A local parish church dedicated to Saint Peter in Freiburg.",
-                  "category": "religious",
-                  "coords": [
-                        7.146992,
-                        46.803116
-                  ]
-            },
-            {
-                  "name": "Notre-Dame de Bourguillon",
-                  "text": "A well-known pilgrimage chapel situated on a hill overlooking Freiburg.",
-                  "category": "religious",
-                  "coords": [
-                        7.176767,
-                        46.800075
-                  ]
-            },
-            {
-                  "name": "Temple réformé",
-                  "text": "The main place of worship for the Reformed community in Freiburg.",
-                  "category": "religious",
-                  "coords": [
-                        7.153271,
-                        46.80435
                   ]
             },
             {
@@ -25240,15 +23098,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "St. Sacrament",
-                  "text": "A place of worship in Freiburg dedicated to the Blessed Sacrament.",
-                  "category": "religious",
-                  "coords": [
-                        7.149018,
-                        46.784656
-                  ]
-            },
-            {
                   "name": "Église Sainte Marie-Madeleine",
                   "text": "A church dedicated to Saint Mary Magdalene located in the city.",
                   "category": "religious",
@@ -25267,30 +23116,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Pont de Pérolles",
-                  "text": "A high bridge spanning the Sarine river valley in Freiburg.",
-                  "category": "landmark",
-                  "coords": [
-                        7.1551,
-                        46.788192
-                  ]
-            },
-            {
                   "name": "Gottéron Bridge",
                   "text": "A notable bridge crossing the deep Gottéron gorge.",
                   "category": "landmark",
                   "coords": [
                         7.171892,
                         46.804517
-                  ]
-            },
-            {
-                  "name": "Swiss Museum for Electronic Music Instruments",
-                  "text": "A museum and archive dedicated to the history of electronic musical instruments.",
-                  "category": "museum",
-                  "coords": [
-                        7.147162,
-                        46.797709
                   ]
             },
             {
@@ -25327,15 +23158,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.159568,
                         46.807935
-                  ]
-            },
-            {
-                  "name": "Château de Boccard",
-                  "text": "An elegant manor house and historic residence in the Freiburg area.",
-                  "category": "castle",
-                  "coords": [
-                        7.125563,
-                        46.812187
                   ]
             },
             {
@@ -25384,15 +23206,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Nuithonie",
-                  "text": "A modern performing arts center located in Villars-sur-Glâne near Freiburg.",
-                  "category": "cultural",
-                  "coords": [
-                        7.132126,
-                        46.79476
-                  ]
-            },
-            {
                   "name": "Café-Théâtre Le Bilboquet",
                   "text": "An intimate cafe-theatre known for comedy and small-scale performances.",
                   "category": "cultural",
@@ -25429,24 +23242,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lac de Pérolles",
-                  "text": "A beautiful nature reserve around a lake formed by a dam on the Sarine river.",
-                  "category": "natural",
-                  "coords": [
-                        7.157342,
-                        46.791539
-                  ]
-            },
-            {
-                  "name": "Schiffenensee",
-                  "text": "A reservoir near Fribourg known for its impressive scenery and water sports.",
-                  "category": "natural",
-                  "coords": [
-                        7.167615,
-                        46.849885
-                  ]
-            },
-            {
                   "name": "Minigolf du Jura",
                   "text": "A nice miniature golf course in Fribourg for relaxing hours with the family.",
                   "category": "family",
@@ -25456,30 +23251,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Cour de la Vignettaz",
-                  "text": "A school playground in Fribourg that invites children to play during leisure time.",
-                  "category": "family",
-                  "coords": [
-                        7.144083,
-                        46.798004
-                  ]
-            },
-            {
                   "name": "Le parcours de l'aventure d'Hubert Audriaz",
                   "text": "An eventful adventure path in Fribourg designed for imaginative play.",
                   "category": "family",
                   "coords": [
                         7.163744,
                         46.807091
-                  ]
-            },
-            {
-                  "name": "Maggenberg",
-                  "text": "A neighborhood playground in Fribourg with space to run and play.",
-                  "category": "family",
-                  "coords": [
-                        7.180407,
-                        46.807822
                   ]
             }
       ]
@@ -25574,15 +23351,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.35834,
                         46.233432
-                  ]
-            },
-            {
-                  "name": "Chateau de la Soie",
-                  "text": "Die Überreste einer ehemaligen Burg auf einem Hügel in der Nähe von Sitten.",
-                  "category": "castle",
-                  "coords": [
-                        7.326847,
-                        46.24353
                   ]
             },
             {
@@ -25730,15 +23498,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Culturel Le Baladin",
-                  "text": "Das Kulturzentrum 'Le Baladin' in Savièse bei Sitten für verschiedene Anlässe.",
-                  "category": "cultural",
-                  "coords": [
-                        7.351892,
-                        46.24863
-                  ]
-            },
-            {
                   "name": "Chapelle de Vissigen",
                   "text": "Eine kleine Kapelle im Ortsteil Vissigen in der Stadt Sitten.",
                   "category": "religious",
@@ -25784,15 +23543,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Eglise de St-Germain",
-                  "text": "Eine historische Kirche im Stadtteil St-Germain von Sitten.",
-                  "category": "religious",
-                  "coords": [
-                        7.349594,
-                        46.250667
-                  ]
-            },
-            {
                   "name": "Lac de la Corne",
                   "text": "Der Lac de la Corne bei Sion ist ein ruhiger Bergsee in schöner Landschaft.",
                   "category": "natural",
@@ -25802,57 +23552,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Etang des Rochers",
-                  "text": "Der Etang des Rochers in Sion ist ein kleiner See, ideal für einen kurzen Spaziergang.",
-                  "category": "natural",
-                  "coords": [
-                        7.354673,
-                        46.262507
-                  ]
-            },
-            {
-                  "name": "Etang d'Arvisi",
-                  "text": "Etang d'Arvisi ist ein naturbelassener Teich in der Umgebung von Sion.",
-                  "category": "natural",
-                  "coords": [
-                        7.35426,
-                        46.263727
-                  ]
-            },
-            {
-                  "name": "Etang de Binii",
-                  "text": "Der Etang de Binii in Sion bietet eine friedliche Atmosphäre am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        7.345398,
-                        46.260395
-                  ]
-            },
-            {
-                  "name": "Lac des Bousses",
-                  "text": "Lac des Bousses ist ein klares Gewässer in der Region Sion.",
-                  "category": "natural",
-                  "coords": [
-                        7.455407,
-                        46.255062
-                  ]
-            },
-            {
                   "name": "Etang de Motone",
                   "text": "Der Etang de Motone ist ein idyllischer Weiher in der Nähe von Sion.",
                   "category": "natural",
                   "coords": [
                         7.347041,
                         46.259422
-                  ]
-            },
-            {
-                  "name": "Mur de grimpe",
-                  "text": "Mur de grimpe in Sion ist ein Kletterspielplatz für aktive Familien.",
-                  "category": "family",
-                  "coords": [
-                        7.332384,
-                        46.214188
                   ]
             },
             {
@@ -25882,15 +23587,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.35834,
                         46.233432
-                  ]
-            },
-            {
-                  "name": "Chateau de la Soie",
-                  "text": "Egy egykori vár maradványai egy dombon Sitten közelében.",
-                  "category": "castle",
-                  "coords": [
-                        7.326847,
-                        46.24353
                   ]
             },
             {
@@ -26038,15 +23734,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Culturel Le Baladin",
-                  "text": "A Sitten közeli Savièse-ben található 'Le Baladin' kulturális központ.",
-                  "category": "cultural",
-                  "coords": [
-                        7.351892,
-                        46.24863
-                  ]
-            },
-            {
                   "name": "Chapelle de Vissigen",
                   "text": "Kis kápolna Sitten városának Vissigen negyedében.",
                   "category": "religious",
@@ -26092,15 +23779,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Eglise de St-Germain",
-                  "text": "Történelmi templom Sitten St-Germain negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        7.349594,
-                        46.250667
-                  ]
-            },
-            {
                   "name": "Lac de la Corne",
                   "text": "A Sion melletti Lac de la Corne egy csendes hegyi tó szép környezetben.",
                   "category": "natural",
@@ -26110,57 +23788,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Etang des Rochers",
-                  "text": "A sioni Etang des Rochers egy kis tó, ideális egy rövid sétához.",
-                  "category": "natural",
-                  "coords": [
-                        7.354673,
-                        46.262507
-                  ]
-            },
-            {
-                  "name": "Etang d'Arvisi",
-                  "text": "Az Etang d'Arvisi egy természetes tavacska Sion környékén.",
-                  "category": "natural",
-                  "coords": [
-                        7.35426,
-                        46.263727
-                  ]
-            },
-            {
-                  "name": "Etang de Binii",
-                  "text": "A sioni Etang de Binii békés hangulatot áraszt a vízparton.",
-                  "category": "natural",
-                  "coords": [
-                        7.345398,
-                        46.260395
-                  ]
-            },
-            {
-                  "name": "Lac des Bousses",
-                  "text": "A Lac des Bousses egy tiszta vizű tó Sion régiójában.",
-                  "category": "natural",
-                  "coords": [
-                        7.455407,
-                        46.255062
-                  ]
-            },
-            {
                   "name": "Etang de Motone",
                   "text": "Az Etang de Motone egy idilli tavacska Sion közelében.",
                   "category": "natural",
                   "coords": [
                         7.347041,
                         46.259422
-                  ]
-            },
-            {
-                  "name": "Mur de grimpe",
-                  "text": "A sioni Mur de grimpe egy mászásra kialakított játszótér aktív családoknak.",
-                  "category": "family",
-                  "coords": [
-                        7.332384,
-                        46.214188
                   ]
             },
             {
@@ -26190,15 +23823,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.35834,
                         46.233432
-                  ]
-            },
-            {
-                  "name": "Chateau de la Soie",
-                  "text": "Rămășițele unui fost castel pe un deal din apropiere de Sion.",
-                  "category": "castle",
-                  "coords": [
-                        7.326847,
-                        46.24353
                   ]
             },
             {
@@ -26346,15 +23970,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Culturel Le Baladin",
-                  "text": "Centrul cultural „Le Baladin” din Savièse, lângă Sion, pentru diverse evenimente.",
-                  "category": "cultural",
-                  "coords": [
-                        7.351892,
-                        46.24863
-                  ]
-            },
-            {
                   "name": "Chapelle de Vissigen",
                   "text": "O mică chapelă în cartierul Vissigen din orașul Sion.",
                   "category": "religious",
@@ -26400,15 +24015,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Eglise de St-Germain",
-                  "text": "O biserică istorică aflată în cartierul St-Germain din Sion.",
-                  "category": "religious",
-                  "coords": [
-                        7.349594,
-                        46.250667
-                  ]
-            },
-            {
                   "name": "Lac de la Corne",
                   "text": "Lac de la Corne de lângă Sion este un lac montan liniștit într-un peisaj frumos.",
                   "category": "natural",
@@ -26418,57 +24024,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Etang des Rochers",
-                  "text": "Etang des Rochers din Sion este un lac mic, ideal pentru o plimbare scurtă.",
-                  "category": "natural",
-                  "coords": [
-                        7.354673,
-                        46.262507
-                  ]
-            },
-            {
-                  "name": "Etang d'Arvisi",
-                  "text": "Etang d'Arvisi este un iaz natural în împrejurimile orașului Sion.",
-                  "category": "natural",
-                  "coords": [
-                        7.35426,
-                        46.263727
-                  ]
-            },
-            {
-                  "name": "Etang de Binii",
-                  "text": "Etang de Binii din Sion oferă o atmosferă liniștită pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        7.345398,
-                        46.260395
-                  ]
-            },
-            {
-                  "name": "Lac des Bousses",
-                  "text": "Lac des Bousses este un lac cu ape limpezi în regiunea Sion.",
-                  "category": "natural",
-                  "coords": [
-                        7.455407,
-                        46.255062
-                  ]
-            },
-            {
                   "name": "Etang de Motone",
                   "text": "Etang de Motone este un iaz idilic în apropiere de Sion.",
                   "category": "natural",
                   "coords": [
                         7.347041,
                         46.259422
-                  ]
-            },
-            {
-                  "name": "Mur de grimpe",
-                  "text": "Mur de grimpe din Sion este un loc de joacă pentru cățărat, ideal pentru familii active.",
-                  "category": "family",
-                  "coords": [
-                        7.332384,
-                        46.214188
                   ]
             },
             {
@@ -26498,15 +24059,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.35834,
                         46.233432
-                  ]
-            },
-            {
-                  "name": "Chateau de la Soie",
-                  "text": "The remains of a former castle on a hill near Sion.",
-                  "category": "castle",
-                  "coords": [
-                        7.326847,
-                        46.24353
                   ]
             },
             {
@@ -26654,15 +24206,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Culturel Le Baladin",
-                  "text": "The 'Le Baladin' cultural center in Savièse near Sion for various events.",
-                  "category": "cultural",
-                  "coords": [
-                        7.351892,
-                        46.24863
-                  ]
-            },
-            {
                   "name": "Chapelle de Vissigen",
                   "text": "A small chapel in the Vissigen district of the city of Sion.",
                   "category": "religious",
@@ -26708,15 +24251,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Eglise de St-Germain",
-                  "text": "A historic church located in the St-Germain district of Sion.",
-                  "category": "religious",
-                  "coords": [
-                        7.349594,
-                        46.250667
-                  ]
-            },
-            {
                   "name": "Lac de la Corne",
                   "text": "The Lac de la Corne near Sion is a peaceful mountain lake in a beautiful landscape.",
                   "category": "natural",
@@ -26726,57 +24260,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Etang des Rochers",
-                  "text": "The Etang des Rochers in Sion is a small lake, ideal for a short walk.",
-                  "category": "natural",
-                  "coords": [
-                        7.354673,
-                        46.262507
-                  ]
-            },
-            {
-                  "name": "Etang d'Arvisi",
-                  "text": "Etang d'Arvisi is a natural pond in the surroundings of Sion.",
-                  "category": "natural",
-                  "coords": [
-                        7.35426,
-                        46.263727
-                  ]
-            },
-            {
-                  "name": "Etang de Binii",
-                  "text": "The Etang de Binii in Sion offers a peaceful atmosphere by the water.",
-                  "category": "natural",
-                  "coords": [
-                        7.345398,
-                        46.260395
-                  ]
-            },
-            {
-                  "name": "Lac des Bousses",
-                  "text": "Lac des Bousses is a clear body of water in the Sion region.",
-                  "category": "natural",
-                  "coords": [
-                        7.455407,
-                        46.255062
-                  ]
-            },
-            {
                   "name": "Etang de Motone",
                   "text": "The Etang de Motone is an idyllic pond near Sion.",
                   "category": "natural",
                   "coords": [
                         7.347041,
                         46.259422
-                  ]
-            },
-            {
-                  "name": "Mur de grimpe",
-                  "text": "Mur de grimpe in Sion is a climbing playground for active families.",
-                  "category": "family",
-                  "coords": [
-                        7.332384,
-                        46.214188
                   ]
             },
             {
@@ -27018,15 +24507,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Genfersee",
-                  "text": "Der Genfersee bei Montreux bietet beeindruckende Ausblicke und Möglichkeiten für Uferspaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        6.539468,
-                        46.361359
-                  ]
-            },
-            {
                   "name": "Place de jeux parc Nicole-Clarens",
                   "text": "Ein gut gelegener Spielplatz in Montreux für Kinder zum Spielen im Freien.",
                   "category": "family",
@@ -27197,15 +24677,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         6.995991,
                         46.389031
-                  ]
-            },
-            {
-                  "name": "Genfi-tó",
-                  "text": "A Genfi-tó Montreux-nél lenyűgöző kilátást és parti sétalehetőségeket kínál.",
-                  "category": "natural",
-                  "coords": [
-                        6.539468,
-                        46.361359
                   ]
             },
             {
@@ -27382,15 +24853,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Le Léman",
-                  "text": "Lacul Leman la Montreux oferă vederi impresionante și posibilități de plimbare pe mal.",
-                  "category": "natural",
-                  "coords": [
-                        6.539468,
-                        46.361359
-                  ]
-            },
-            {
                   "name": "Place de jeux parc Nicole-Clarens",
                   "text": "Un loc de joacă bine situat în Montreux pentru copii pentru joacă în aer liber.",
                   "category": "family",
@@ -27561,15 +25023,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         6.995991,
                         46.389031
-                  ]
-            },
-            {
-                  "name": "Lake Geneva",
-                  "text": "Lake Geneva at Montreux offers impressive views and opportunities for walks along the shore.",
-                  "category": "natural",
-                  "coords": [
-                        6.539468,
-                        46.361359
                   ]
             },
             {
@@ -28269,30 +25722,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Trugberg",
-                  "text": "Ein markanter Berggipfel in den Berner Alpen, südlich des Mönchs gelegen.",
-                  "category": "landmark",
-                  "coords": [
-                        8.015381,
-                        46.54662
-                  ]
-            },
-            {
                   "name": "Walcherhorn",
                   "text": "Ein Berggipfel in den Berner Alpen in der Schweiz.",
                   "category": "landmark",
                   "coords": [
                         8.035006,
                         46.559982
-                  ]
-            },
-            {
-                  "name": "Mönch",
-                  "text": "Ein 4.107 Meter hoher Hauptgipfel der Berner Alpen, der ein Dreigestirn mit Eiger und Jungfrau bildet.",
-                  "category": "landmark",
-                  "coords": [
-                        7.997269,
-                        46.558502
                   ]
             },
             {
@@ -28343,30 +25778,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Trugberg",
-                  "text": "Markáns hegycsúcs a Berni-Alpokban, a Mönchtől délre.",
-                  "category": "landmark",
-                  "coords": [
-                        8.015381,
-                        46.54662
-                  ]
-            },
-            {
                   "name": "Walcherhorn",
                   "text": "Hegycsúcs a svájci Berni-Alpokban.",
                   "category": "landmark",
                   "coords": [
                         8.035006,
                         46.559982
-                  ]
-            },
-            {
-                  "name": "Mönch",
-                  "text": "A Berni-Alpok egyik legjelentősebb, 4107 méteres csúcsa, amely az Eigerrel és a Jungfrauval alkot hármast.",
-                  "category": "landmark",
-                  "coords": [
-                        7.997269,
-                        46.558502
                   ]
             },
             {
@@ -28417,30 +25834,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Trugberg",
-                  "text": "Un vârf muntos proeminent din Alpii Bernezi, situat la sud de Mönch.",
-                  "category": "landmark",
-                  "coords": [
-                        8.015381,
-                        46.54662
-                  ]
-            },
-            {
                   "name": "Walcherhorn",
                   "text": "Un vârf muntos din Alpii Bernezi, în Elveția.",
                   "category": "landmark",
                   "coords": [
                         8.035006,
                         46.559982
-                  ]
-            },
-            {
-                  "name": "Mönch",
-                  "text": "Un vârf major de 4.107 metri din Alpii Bernezi, formând un trio cu Eiger și Jungfrau.",
-                  "category": "landmark",
-                  "coords": [
-                        7.997269,
-                        46.558502
                   ]
             },
             {
@@ -28491,30 +25890,12 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Trugberg",
-                  "text": "A prominent mountain peak in the Bernese Alps, situated south of the Mönch.",
-                  "category": "landmark",
-                  "coords": [
-                        8.015381,
-                        46.54662
-                  ]
-            },
-            {
                   "name": "Walcherhorn",
                   "text": "A mountain peak in the Bernese Alps of Switzerland.",
                   "category": "landmark",
                   "coords": [
                         8.035006,
                         46.559982
-                  ]
-            },
-            {
-                  "name": "Moench",
-                  "text": "A major 4,107-meter peak in the Bernese Alps, forming a trio with the Eiger and Jungfrau.",
-                  "category": "landmark",
-                  "coords": [
-                        7.997269,
-                        46.558502
                   ]
             },
             {
@@ -28666,15 +26047,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Mönch",
-                  "text": "Einer der drei berühmten Gipfel des Berner Oberlandes mit einer Höhe von 4.107 Metern.",
-                  "category": "landmark",
-                  "coords": [
-                        7.997269,
-                        46.558502
-                  ]
-            },
-            {
                   "name": "Jungfrau",
                   "text": "Ein weltbekannter Berg in der Schweiz und Namensgeber der gesamten Jungfrau-Region.",
                   "category": "landmark",
@@ -28737,15 +26109,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.953371,
                         46.508034
-                  ]
-            },
-            {
-                  "name": "Mönch",
-                  "text": "A Berni-felvidék három híres csúcsának egyike, 4107 méteres magassággal.",
-                  "category": "landmark",
-                  "coords": [
-                        7.997269,
-                        46.558502
                   ]
             },
             {
@@ -28814,15 +26177,6 @@ export const switzerlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Mönch",
-                  "text": "Unul dintre cele trei vârfuri celebre ale regiunii Berner Oberland, cu o înălțime de 4.107 metri.",
-                  "category": "landmark",
-                  "coords": [
-                        7.997269,
-                        46.558502
-                  ]
-            },
-            {
                   "name": "Jungfrau",
                   "text": "Un munte renumit în întreaga lume în Elveția, care dă numele întregii regiuni Jungfrau.",
                   "category": "landmark",
@@ -28885,15 +26239,6 @@ export const switzerlandCities: POI[] = [
                   "coords": [
                         7.953371,
                         46.508034
-                  ]
-            },
-            {
-                  "name": "Moench",
-                  "text": "One of the three famous peaks of the Bernese Oberland, standing at 4,107 metres.",
-                  "category": "landmark",
-                  "coords": [
-                        7.997269,
-                        46.558502
                   ]
             },
             {
@@ -31162,15 +28507,6 @@ export const switzerlandCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Pizzo Palù Centrale",
-                  "text": "Der zentrale Gipfel des Piz Palü-Massivs in den Bernina-Alpen.",
-                  "category": "landmark",
-                  "coords": [
-                        9.960115,
-                        46.378798
-                  ]
-            },
-            {
                   "name": "Piz Campasc",
                   "text": "Ein Aussichtsberg in der Nähe des Berninapasses.",
                   "category": "natural",
@@ -31214,15 +28550,6 @@ export const switzerlandCulture: POI[] = [
                         9.983687,
                         46.39736
                   ]
-            },
-            {
-                  "name": "Piz Lagalb",
-                  "text": "Ein Berggipfel in den Bernina-Alpen, der als Skigebiet bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        10.023588,
-                        46.431579
-                  ]
             }
       ],
       "hu": [
@@ -31233,15 +28560,6 @@ export const switzerlandCulture: POI[] = [
                   "coords": [
                         9.977715,
                         46.387288
-                  ]
-            },
-            {
-                  "name": "Pizzo Palù Centrale",
-                  "text": "A Piz Palü-masszívum középső csúcsa a Bernina-Alpokban.",
-                  "category": "landmark",
-                  "coords": [
-                        9.960115,
-                        46.378798
                   ]
             },
             {
@@ -31288,15 +28606,6 @@ export const switzerlandCulture: POI[] = [
                         9.983687,
                         46.39736
                   ]
-            },
-            {
-                  "name": "Piz Lagalb",
-                  "text": "Hegycsúcs a Bernina-Alpokban, amely síterepként is ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        10.023588,
-                        46.431579
-                  ]
             }
       ],
       "ro": [
@@ -31307,15 +28616,6 @@ export const switzerlandCulture: POI[] = [
                   "coords": [
                         9.977715,
                         46.387288
-                  ]
-            },
-            {
-                  "name": "Pizzo Palù Centrale",
-                  "text": "Vârful central al masivului Piz Palü din Alpii Bernina.",
-                  "category": "landmark",
-                  "coords": [
-                        9.960115,
-                        46.378798
                   ]
             },
             {
@@ -31362,15 +28662,6 @@ export const switzerlandCulture: POI[] = [
                         9.983687,
                         46.39736
                   ]
-            },
-            {
-                  "name": "Piz Lagalb",
-                  "text": "Un vârf în Alpii Bernina, cunoscut ca zonă de schi.",
-                  "category": "landmark",
-                  "coords": [
-                        10.023588,
-                        46.431579
-                  ]
             }
       ],
       "en": [
@@ -31381,15 +28672,6 @@ export const switzerlandCulture: POI[] = [
                   "coords": [
                         9.977715,
                         46.387288
-                  ]
-            },
-            {
-                  "name": "Pizzo Palù Centrale",
-                  "text": "The central peak of the Piz Palü massif in the Bernina Alps.",
-                  "category": "landmark",
-                  "coords": [
-                        9.960115,
-                        46.378798
                   ]
             },
             {
@@ -31435,15 +28717,6 @@ export const switzerlandCulture: POI[] = [
                   "coords": [
                         9.983687,
                         46.39736
-                  ]
-            },
-            {
-                  "name": "Piz Lagalb",
-                  "text": "A mountain peak in the Bernina Alps known for its ski area.",
-                  "category": "landmark",
-                  "coords": [
-                        10.023588,
-                        46.431579
                   ]
             }
       ]

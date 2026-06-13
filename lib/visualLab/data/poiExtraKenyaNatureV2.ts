@@ -950,15 +950,6 @@ export const poiExtraKenyaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zebra and giraffe free safari",
-                  "text": "Ein landschaftlich reizvoller Aussichtspunkt am Naivashasee, an dem man grasende Zebras und Giraffen in der Savanne beobachten kann.",
-                  "category": "natural",
-                  "coords": [
-                        36.434578,
-                        -0.736009
-                  ]
-            },
-            {
                   "name": "Boat Trips",
                   "text": "Der Startpunkt für geführte Bootsausflüge über das Süßwasser des Naivashasees zur Vogel- und Wildtierbeobachtung.",
                   "category": "landmark",
@@ -1039,15 +1030,6 @@ export const poiExtraKenyaNatureV2: POI[] = [
                   "coords": [
                         36.362267,
                         -0.838145
-                  ]
-            },
-            {
-                  "name": "Zebra and giraffe free safari",
-                  "text": "Egy festői kilátópont a Naivasha-tó közelében, ahol legelésző zebrákat és zsiráfokat lehet megfigyelni a szavannán.",
-                  "category": "natural",
-                  "coords": [
-                        36.434578,
-                        -0.736009
                   ]
             },
             {
@@ -1134,15 +1116,6 @@ export const poiExtraKenyaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zebra and giraffe free safari",
-                  "text": "Un punct de belvedere pitoresc lângă Lacul Naivasha, unde pot fi observate zebre și girafe păscând în savană.",
-                  "category": "natural",
-                  "coords": [
-                        36.434578,
-                        -0.736009
-                  ]
-            },
-            {
                   "name": "Boat Trips",
                   "text": "Punctul de plecare pentru excursii ghidate cu barca pe apele dulci ale Lacului Naivasha pentru observarea păsărilor și faunei sălbatice.",
                   "category": "landmark",
@@ -1223,15 +1196,6 @@ export const poiExtraKenyaNatureV2: POI[] = [
                   "coords": [
                         36.362267,
                         -0.838145
-                  ]
-            },
-            {
-                  "name": "Zebra and giraffe free safari",
-                  "text": "A scenic viewpoint near Lake Naivasha where grazing zebras and giraffes can be observed in the savanna.",
-                  "category": "natural",
-                  "coords": [
-                        36.434578,
-                        -0.736009
                   ]
             },
             {

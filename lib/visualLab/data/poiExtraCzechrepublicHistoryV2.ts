@@ -2429,33 +2429,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Národní Dům",
-                  "text": "Das Nationalhaus ist ein Theater und kultureller Veranstaltungsort im jüdischen Viertel von Třebíč.",
-                  "category": "cultural",
-                  "coords": [
-                        15.879946,
-                        49.21564
-                  ]
-            },
-            {
-                  "name": "Laguna",
-                  "text": "Laguna ist ein Wasserpark in der Nähe des jüdischen Viertels von Třebíč, der Möglichkeiten zum Schwimmen und für Wassersport bietet.",
-                  "category": "family",
-                  "coords": [
-                        15.886541,
-                        49.220827
-                  ]
-            },
-            {
-                  "name": "Pasáž",
-                  "text": "Pasáž ist ein Kulturzentrum und Theater in der Nähe des jüdischen Viertels von Třebíč.",
-                  "category": "cultural",
-                  "coords": [
-                        15.880308,
-                        49.213315
-                  ]
-            },
-            {
                   "name": "Alternátor",
                   "text": "Alternátor ist ein interaktives Wissenschafts- und Technikmuseum in der Nähe des jüdischen Viertels von Třebíč.",
                   "category": "museum",
@@ -2465,30 +2438,12 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "rodný dům Bohumíra Šmerala",
-                  "text": "Das Geburtshaus von Bohumír Šmeral fungiert als Museum, das seinem Leben in Třebíč gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        15.889452,
-                        49.214733
-                  ]
-            },
-            {
                   "name": "Židovské muzeum",
                   "text": "Das Jüdische Museum dokumentiert die reiche Geschichte und Kultur der jüdischen Gemeinde in Třebíč.",
                   "category": "museum",
                   "coords": [
                         15.87916,
                         49.217747
-                  ]
-            },
-            {
-                  "name": "Depozitář Muzeum Vysočiny",
-                  "text": "Diese Einrichtung dient als Depot für die Sammlungen des Museums der Region Vysočina in Třebíč.",
-                  "category": "museum",
-                  "coords": [
-                        15.885884,
-                        49.208624
                   ]
             },
             {
@@ -2510,15 +2465,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hasskova zahrada",
-                  "text": "Hasskova zahrada ist ein schöner öffentlicher Park im jüdischen Viertel von Třebíč.",
-                  "category": "park",
-                  "coords": [
-                        15.883932,
-                        49.216721
-                  ]
-            },
-            {
                   "name": "Krankenhaus",
                   "text": "Dieses historische Krankenhausgebäude ist ein bemerkenswertes Wahrzeichen im jüdischen Viertel von Třebíč.",
                   "category": "landmark",
@@ -2537,57 +2483,12 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fórum",
-                  "text": "Das Fórum ist ein Kunstzentrum, das kulturelle und künstlerische Veranstaltungen in Třebíč ausrichtet.",
-                  "category": "cultural",
-                  "coords": [
-                        15.878878,
-                        49.213777
-                  ]
-            },
-            {
                   "name": "Hájek",
                   "text": "Hájek ist ein öffentlicher Park, der ein Naherholungsgebiet in Třebíč bietet.",
                   "category": "park",
                   "coords": [
                         15.886614,
                         49.222162
-                  ]
-            },
-            {
-                  "name": "Janáčkovo stromořadí",
-                  "text": "Die Janáček-Allee ist ein von Bäumen gesäumter Park, der sich ideal zum Spazierengehen in Třebíč.",
-                  "category": "park",
-                  "coords": [
-                        15.893817,
-                        49.212134
-                  ]
-            },
-            {
-                  "name": "Máchovy sady",
-                  "text": "Park, benannt nach dem Dichter Karel Hynek Mácha, im jüdischen Viertel von Třebíč.",
-                  "category": "park",
-                  "coords": [
-                        15.887308,
-                        49.212863
-                  ]
-            },
-            {
-                  "name": "Radostínské sady (Lísčí)",
-                  "text": "Park mit Obstbäumen im jüdischen Viertel von Třebíč.",
-                  "category": "park",
-                  "coords": [
-                        15.894938,
-                        49.213965
-                  ]
-            },
-            {
-                  "name": "U Starého hřbitova",
-                  "text": "U Starého hřbitova ist eine Grünfläche in der Nähe des alten Friedhofs im jüdischen Viertel von Třebíč.",
-                  "category": "park",
-                  "coords": [
-                        15.879398,
-                        49.211416
                   ]
             },
             {
@@ -2600,24 +2501,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Astronomical observatory",
-                  "text": "Dieses astronomische Observatorium bietet einen Aussichtspunkt für die Sternenbeobachtung in Třebíč.",
-                  "category": "natural",
-                  "coords": [
-                        15.875861,
-                        49.207055
-                  ]
-            },
-            {
-                  "name": "Strážná hora",
-                  "text": "Strážná hora ist ein erhöhter Aussichtspunkt, der malerische Panoramen über Třebíč bietet.",
-                  "category": "natural",
-                  "coords": [
-                        15.873694,
-                        49.2099
-                  ]
-            },
-            {
                   "name": "Apartmány U synagogy",
                   "text": "Apartmány U synagogy ist ein bemerkenswertes Gebäude und eine Attraktion neben der Synagoge in Třebíč.",
                   "category": "landmark",
@@ -2627,66 +2510,12 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "kruhová bašta na Hrádku",
-                  "text": "Die kruhová bašta na Hrádku ist eine historische Ruine im Jüdischen Viertel in Třebíč.",
-                  "category": "historical",
-                  "coords": [
-                        15.882991,
-                        49.217582
-                  ]
-            },
-            {
                   "name": "Nalezení sv. Kříže",
                   "text": "Nalezení sv. Kříže ist eine religiöse Kultstätte im Jüdischen Viertel in Třebíč.",
                   "category": "religious",
                   "coords": [
                         15.873171,
                         49.224322
-                  ]
-            },
-            {
-                  "name": "Církev Ježíše Krista Svatých posledních dnů",
-                  "text": "Církev Ježíše Krista Svatých posledních dnů ist eine Kultstätte der Kirche Jesu Christi der Heiligen der Letzten Tage im Jüdischen Viertel in Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.886253,
-                        49.212228
-                  ]
-            },
-            {
-                  "name": "Evangelický kostel",
-                  "text": "Der Evangelický kostel ist eine evangelische Kirche und Kultstätte im Jüdischen Viertel in Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.884646,
-                        49.212817
-                  ]
-            },
-            {
-                  "name": "Proměnění Páně",
-                  "text": "Proměnění Páně ist eine religiöse Kultstätte im Jüdischen Viertel in Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.885553,
-                        49.214042
-                  ]
-            },
-            {
-                  "name": "Kaple svatých Petra a Pavla",
-                  "text": "Die Kaple svatých Petra a Pavla ist eine lokale Kultstätte im Jüdischen Viertel in Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.887215,
-                        49.21418
-                  ]
-            },
-            {
-                  "name": "Kostel svatého Václava a svaté Ludmily",
-                  "text": "Kostel svatého Václava a svaté Ludmily ist eine Kultstätte im Jüdischen Viertel in Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.878598,
-                        49.21264
                   ]
             },
             {
@@ -2719,33 +2548,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Národní Dům",
-                  "text": "A Nemzeti Ház egy színház és kulturális helyszín a třebíči zsidó negyedben.",
-                  "category": "cultural",
-                  "coords": [
-                        15.879946,
-                        49.21564
-                  ]
-            },
-            {
-                  "name": "Laguna",
-                  "text": "A Laguna egy vízipark, amely rekreációs úszást és vízi tevékenységeket kínál a třebíči zsidó negyed közelében.",
-                  "category": "family",
-                  "coords": [
-                        15.886541,
-                        49.220827
-                  ]
-            },
-            {
-                  "name": "Pasáž",
-                  "text": "A Pasáž egy kulturális központ és színház a třebíči zsidó negyed közelében.",
-                  "category": "cultural",
-                  "coords": [
-                        15.880308,
-                        49.213315
-                  ]
-            },
-            {
                   "name": "Alternátor",
                   "text": "Az Alternátor egy interaktív tudományos és technológiai múzeum a třebíči zsidó negyed közelében.",
                   "category": "museum",
@@ -2755,30 +2557,12 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "rodný dům Bohumíra Šmerala",
-                  "text": "Bohumír Šmeral szülőháza múzeumként működik, amelyet az ő életének szenteltek Třebíčben.",
-                  "category": "museum",
-                  "coords": [
-                        15.889452,
-                        49.214733
-                  ]
-            },
-            {
                   "name": "Židovské muzeum",
                   "text": "A Zsidó Múzeum a třebíči zsidó közösség gazdag történelmét és kultúráját dokumentálja.",
                   "category": "museum",
                   "coords": [
                         15.87916,
                         49.217747
-                  ]
-            },
-            {
-                  "name": "Depozitář Muzeum Vysočiny",
-                  "text": "Ez a létesítmény a Vysočina Régió Múzeuma gyűjteményeinek raktáraként szolgál Třebíčben.",
-                  "category": "museum",
-                  "coords": [
-                        15.885884,
-                        49.208624
                   ]
             },
             {
@@ -2800,15 +2584,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hasskova zahrada",
-                  "text": "A Hasskova zahrada egy kellemes nyilvános park a třebíči zsidó negyedben.",
-                  "category": "park",
-                  "coords": [
-                        15.883932,
-                        49.216721
-                  ]
-            },
-            {
                   "name": "Krankenhaus",
                   "text": "Ez a történelmi kórházépület egy figyelemre méltó nevezetesség a třebíči zsidó negyedben.",
                   "category": "landmark",
@@ -2827,57 +2602,12 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fórum",
-                  "text": "A Fórum egy művészeti központ, amely kulturális és művészeti eseményeknek ad otthont Třebíčben.",
-                  "category": "cultural",
-                  "coords": [
-                        15.878878,
-                        49.213777
-                  ]
-            },
-            {
                   "name": "Hájek",
                   "text": "A Hájek egy nyilvános park, amely rekreációs zöldterületet biztosít Třebíčben.",
                   "category": "park",
                   "coords": [
                         15.886614,
                         49.222162
-                  ]
-            },
-            {
-                  "name": "Janáčkovo stromořadí",
-                  "text": "A Janáček fasor egy fákkal szegélyezett park, amely tökéletes sétákhoz Třebíčben.",
-                  "category": "park",
-                  "coords": [
-                        15.893817,
-                        49.212134
-                  ]
-            },
-            {
-                  "name": "Máchovy sady",
-                  "text": "Karel Hynek Mácha költőről elnevezett park a trebíči zsidó negyedben.",
-                  "category": "park",
-                  "coords": [
-                        15.887308,
-                        49.212863
-                  ]
-            },
-            {
-                  "name": "Radostínské sady (Lísčí)",
-                  "text": "Gyümölcsfás park a trebíči zsidó negyedben.",
-                  "category": "park",
-                  "coords": [
-                        15.894938,
-                        49.213965
-                  ]
-            },
-            {
-                  "name": "U Starého hřbitova",
-                  "text": "Az U Starého hřbitova egy zöldterület a régi temető közelében a třebíči zsidó negyedben.",
-                  "category": "park",
-                  "coords": [
-                        15.879398,
-                        49.211416
                   ]
             },
             {
@@ -2890,24 +2620,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Astronomical observatory",
-                  "text": "Ez a csillagvizsgáló csillagászati megfigyelésekre alkalmas kilátópontot nyújt Třebíčben.",
-                  "category": "natural",
-                  "coords": [
-                        15.875861,
-                        49.207055
-                  ]
-            },
-            {
-                  "name": "Strážná hora",
-                  "text": "A Strážná hora egy magaslati kilátópont, amely festői panorámát nyújt Třebíč felett.",
-                  "category": "natural",
-                  "coords": [
-                        15.873694,
-                        49.2099
-                  ]
-            },
-            {
                   "name": "Apartmány U synagogy",
                   "text": "Az Apartmány U synagogy egy jelentős épület és látványosság a zsinagóga mellett Třebíčben.",
                   "category": "landmark",
@@ -2917,66 +2629,12 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "kruhová bašta na Hrádku",
-                  "text": "A kruhová bašta na Hrádku egy történelmi rom a Jüdisches Viertel in Třebíč területén.",
-                  "category": "historical",
-                  "coords": [
-                        15.882991,
-                        49.217582
-                  ]
-            },
-            {
                   "name": "Nalezení sv. Kříže",
                   "text": "A Nalezení sv. Kříže egy vallási istentiszteleti hely a Jüdisches Viertel in Třebíč területén.",
                   "category": "religious",
                   "coords": [
                         15.873171,
                         49.224322
-                  ]
-            },
-            {
-                  "name": "Církev Ježíše Krista Svatých posledních dnů",
-                  "text": "A Církev Ježíše Krista Svatých posledních dnů Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza gyülekezeti helye a Jüdisches Viertel in Třebíč területén.",
-                  "category": "religious",
-                  "coords": [
-                        15.886253,
-                        49.212228
-                  ]
-            },
-            {
-                  "name": "Evangelický kostel",
-                  "text": "Az Evangelický kostel egy evangélikus templom és istentiszteleti hely a Jüdisches Viertel in Třebíč területén.",
-                  "category": "religious",
-                  "coords": [
-                        15.884646,
-                        49.212817
-                  ]
-            },
-            {
-                  "name": "Proměnění Páně",
-                  "text": "A Proměnění Páně egy vallási istentiszteleti hely a Jüdisches Viertel in Třebíč területén.",
-                  "category": "religious",
-                  "coords": [
-                        15.885553,
-                        49.214042
-                  ]
-            },
-            {
-                  "name": "Kaple svatých Petra a Pavla",
-                  "text": "A Kaple svatých Petra a Pavla egy helyi istentiszteleti hely a Jüdisches Viertel in Třebíč területén.",
-                  "category": "religious",
-                  "coords": [
-                        15.887215,
-                        49.21418
-                  ]
-            },
-            {
-                  "name": "Kostel svatého Václava a svaté Ludmily",
-                  "text": "A Kostel svatého Václava a svaté Ludmily egy istentiszteleti hely a Jüdisches Viertel in Třebíč területén.",
-                  "category": "religious",
-                  "coords": [
-                        15.878598,
-                        49.21264
                   ]
             },
             {
@@ -3009,33 +2667,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Národní Dům",
-                  "text": "Casa Națională este un teatru și un loc cultural în Cartierul Evreiesc din Třebíč.",
-                  "category": "cultural",
-                  "coords": [
-                        15.879946,
-                        49.21564
-                  ]
-            },
-            {
-                  "name": "Laguna",
-                  "text": "Laguna este un parc acvatic care oferă activități recreative și de înot lângă Cartierul Evreiesc din Třebíč.",
-                  "category": "family",
-                  "coords": [
-                        15.886541,
-                        49.220827
-                  ]
-            },
-            {
-                  "name": "Pasáž",
-                  "text": "Pasáž este un centru cultural și teatru situat în vecinătatea Cartierului Evreiesc din Třebíč.",
-                  "category": "cultural",
-                  "coords": [
-                        15.880308,
-                        49.213315
-                  ]
-            },
-            {
                   "name": "Alternátor",
                   "text": "Alternátor este un muzeu interactiv de știință și tehnologie situat lângă Cartierul Evreiesc din Třebíč.",
                   "category": "museum",
@@ -3045,30 +2676,12 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "rodný dům Bohumíra Šmerala",
-                  "text": "Casa natală a lui Bohumír Šmeral funcționează ca un muzeu dedicat vieții sale în Třebíč.",
-                  "category": "museum",
-                  "coords": [
-                        15.889452,
-                        49.214733
-                  ]
-            },
-            {
                   "name": "Židovské muzeum",
                   "text": "Muzeul Evreiesc documentează istoria și cultura bogată a comunității evreiești din Třebíč.",
                   "category": "museum",
                   "coords": [
                         15.87916,
                         49.217747
-                  ]
-            },
-            {
-                  "name": "Depozitář Muzeum Vysočiny",
-                  "text": "Această facilitate servește ca depozit pentru colecțiile Muzeului Regiunii Vysočina din Třebíč.",
-                  "category": "museum",
-                  "coords": [
-                        15.885884,
-                        49.208624
                   ]
             },
             {
@@ -3090,15 +2703,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hasskova zahrada",
-                  "text": "Hasskova zahrada este un parc public plăcut situat în Cartierul Evreiesc din Třebíč.",
-                  "category": "park",
-                  "coords": [
-                        15.883932,
-                        49.216721
-                  ]
-            },
-            {
                   "name": "Krankenhaus",
                   "text": "Această clădire istorică a unui spital este un reper notabil în Cartierul Evreiesc din Třebíč.",
                   "category": "landmark",
@@ -3117,57 +2721,12 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fórum",
-                  "text": "Fórum este un centru de arte care găzduiește evenimente culturale și artistice în Třebíč.",
-                  "category": "cultural",
-                  "coords": [
-                        15.878878,
-                        49.213777
-                  ]
-            },
-            {
                   "name": "Hájek",
                   "text": "Hájek este un parc public care oferă o zonă verde de recreere în Třebíč.",
                   "category": "park",
                   "coords": [
                         15.886614,
                         49.222162
-                  ]
-            },
-            {
-                  "name": "Janáčkovo stromořadí",
-                  "text": "Aleea Janáček este un parc mărginit de copaci, perfect pentru plimbări în Třebíč.",
-                  "category": "park",
-                  "coords": [
-                        15.893817,
-                        49.212134
-                  ]
-            },
-            {
-                  "name": "Máchovy sady",
-                  "text": "Parcul numit după poetul Karel Hynek Mácha, în Cartierul Evreiesc din Třebíč.",
-                  "category": "park",
-                  "coords": [
-                        15.887308,
-                        49.212863
-                  ]
-            },
-            {
-                  "name": "Radostínské sady (Lísčí)",
-                  "text": "Parcul cu pomi fructiferi în Cartierul Evreiesc din Třebíč.",
-                  "category": "park",
-                  "coords": [
-                        15.894938,
-                        49.213965
-                  ]
-            },
-            {
-                  "name": "U Starého hřbitova",
-                  "text": "U Starého hřbitova este un spațiu verde situat lângă vechiul cimitir din Cartierul Evreiesc din Třebíč.",
-                  "category": "park",
-                  "coords": [
-                        15.879398,
-                        49.211416
                   ]
             },
             {
@@ -3180,24 +2739,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Astronomical observatory",
-                  "text": "Acest observator astronomic oferă un punct de observație pentru privitul stelelor în Třebíč.",
-                  "category": "natural",
-                  "coords": [
-                        15.875861,
-                        49.207055
-                  ]
-            },
-            {
-                  "name": "Strážná hora",
-                  "text": "Strážná hora este un punct de belvedere înalt care oferă panorame pitorești asupra orașului Třebíč.",
-                  "category": "natural",
-                  "coords": [
-                        15.873694,
-                        49.2099
-                  ]
-            },
-            {
                   "name": "Apartmány U synagogy",
                   "text": "Apartmány U synagogy este o clădire notabilă și o atracție situată lângă sinagoga din Třebíč.",
                   "category": "landmark",
@@ -3207,66 +2748,12 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "kruhová bašta na Hrádku",
-                  "text": "Kruhová bašta na Hrádku este o ruină istorică situată în Jüdisches Viertel in Třebíč.",
-                  "category": "historical",
-                  "coords": [
-                        15.882991,
-                        49.217582
-                  ]
-            },
-            {
                   "name": "Nalezení sv. Kříže",
                   "text": "Nalezení sv. Kříže este un lăcaș de cult situat în Jüdisches Viertel in Třebíč.",
                   "category": "religious",
                   "coords": [
                         15.873171,
                         49.224322
-                  ]
-            },
-            {
-                  "name": "Církev Ježíše Krista Svatých posledních dnů",
-                  "text": "Církev Ježíše Krista Svatých posledních dnů este un lăcaș de cult al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din Jüdisches Viertel in Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.886253,
-                        49.212228
-                  ]
-            },
-            {
-                  "name": "Evangelický kostel",
-                  "text": "Evangelický kostel este o biserică evanghelică și un lăcaș de cult din Jüdisches Viertel in Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.884646,
-                        49.212817
-                  ]
-            },
-            {
-                  "name": "Proměnění Páně",
-                  "text": "Proměnění Páně este un lăcaș de cult situat în Jüdisches Viertel in Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.885553,
-                        49.214042
-                  ]
-            },
-            {
-                  "name": "Kaple svatých Petra a Pavla",
-                  "text": "Kaple svatých Petra a Pavla este un lăcaș de cult situat în Jüdisches Viertel in Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.887215,
-                        49.21418
-                  ]
-            },
-            {
-                  "name": "Kostel svatého Václava a svaté Ludmily",
-                  "text": "Kostel svatého Václava a svaté Ludmily este un lăcaș de cult situat în Jüdisches Viertel in Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.878598,
-                        49.21264
                   ]
             },
             {
@@ -3299,33 +2786,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Národní Dům",
-                  "text": "The National House is a theatre and cultural venue in the Jewish Quarter of Třebíč.",
-                  "category": "cultural",
-                  "coords": [
-                        15.879946,
-                        49.21564
-                  ]
-            },
-            {
-                  "name": "Laguna",
-                  "text": "Laguna is a water park providing recreational swimming and water activities near Třebíč's Jewish Quarter.",
-                  "category": "family",
-                  "coords": [
-                        15.886541,
-                        49.220827
-                  ]
-            },
-            {
-                  "name": "Pasáž",
-                  "text": "Pasáž is a cultural centre and theatre located in the vicinity of Třebíč's Jewish Quarter.",
-                  "category": "cultural",
-                  "coords": [
-                        15.880308,
-                        49.213315
-                  ]
-            },
-            {
                   "name": "Alternátor",
                   "text": "Alternátor is an interactive science and technology museum situated near Třebíč's Jewish Quarter.",
                   "category": "museum",
@@ -3335,30 +2795,12 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "rodný dům Bohumíra Šmerala",
-                  "text": "The birthplace of Bohumír Šmeral operates as a museum dedicated to his life in Třebíč.",
-                  "category": "museum",
-                  "coords": [
-                        15.889452,
-                        49.214733
-                  ]
-            },
-            {
                   "name": "Židovské muzeum",
                   "text": "The Jewish Museum documents the rich history and culture of the Jewish community in Třebíč.",
                   "category": "museum",
                   "coords": [
                         15.87916,
                         49.217747
-                  ]
-            },
-            {
-                  "name": "Depozitář Muzeum Vysočiny",
-                  "text": "This facility serves as the depository for the collections of the Museum of the Vysočina Region in Třebíč.",
-                  "category": "museum",
-                  "coords": [
-                        15.885884,
-                        49.208624
                   ]
             },
             {
@@ -3380,15 +2822,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hasskova zahrada",
-                  "text": "Hasskova zahrada is a pleasant public park located in Třebíč's Jewish Quarter.",
-                  "category": "park",
-                  "coords": [
-                        15.883932,
-                        49.216721
-                  ]
-            },
-            {
                   "name": "Krankenhaus",
                   "text": "This historic hospital building is a notable landmark in the Jewish Quarter of Třebíč.",
                   "category": "landmark",
@@ -3407,57 +2840,12 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fórum",
-                  "text": "Fórum is an arts centre hosting cultural and artistic events in Třebíč.",
-                  "category": "cultural",
-                  "coords": [
-                        15.878878,
-                        49.213777
-                  ]
-            },
-            {
                   "name": "Hájek",
                   "text": "Hájek is a public park providing a recreational green area in Třebíč.",
                   "category": "park",
                   "coords": [
                         15.886614,
                         49.222162
-                  ]
-            },
-            {
-                  "name": "Janáčkovo stromořadí",
-                  "text": "Janáček's Avenue is a tree-lined park perfect for walking in Třebíč.",
-                  "category": "park",
-                  "coords": [
-                        15.893817,
-                        49.212134
-                  ]
-            },
-            {
-                  "name": "Máchovy sady",
-                  "text": "Park named after poet Karel Hynek Mácha in Trebic's Jewish Quarter.",
-                  "category": "park",
-                  "coords": [
-                        15.887308,
-                        49.212863
-                  ]
-            },
-            {
-                  "name": "Radostínské sady (Lísčí)",
-                  "text": "Orchard park with fruit trees in Trebic's Jewish Quarter.",
-                  "category": "park",
-                  "coords": [
-                        15.894938,
-                        49.213965
-                  ]
-            },
-            {
-                  "name": "U Starého hřbitova",
-                  "text": "U Starého hřbitova is a green space located near the old cemetery in Třebíč's Jewish Quarter.",
-                  "category": "park",
-                  "coords": [
-                        15.879398,
-                        49.211416
                   ]
             },
             {
@@ -3470,24 +2858,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Astronomical observatory",
-                  "text": "This astronomical observatory provides a viewpoint for stargazing in Třebíč.",
-                  "category": "natural",
-                  "coords": [
-                        15.875861,
-                        49.207055
-                  ]
-            },
-            {
-                  "name": "Strážná hora",
-                  "text": "Strážná hora is an elevated viewpoint providing scenic panoramas over Třebíč.",
-                  "category": "natural",
-                  "coords": [
-                        15.873694,
-                        49.2099
-                  ]
-            },
-            {
                   "name": "Apartmány U synagogy",
                   "text": "Apartments U synagogy is a notable building and attraction situated next to the synagogue in Třebíč.",
                   "category": "landmark",
@@ -3497,66 +2867,12 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "kruhová bašta na Hrádku",
-                  "text": "The kruhová bašta na Hrádku is a historic ruin located in the Jüdisches Viertel in Třebíč.",
-                  "category": "historical",
-                  "coords": [
-                        15.882991,
-                        49.217582
-                  ]
-            },
-            {
                   "name": "Nalezení sv. Kříže",
                   "text": "Nalezení sv. Kříže is a religious place of worship located in the Jüdisches Viertel in Třebíč.",
                   "category": "religious",
                   "coords": [
                         15.873171,
                         49.224322
-                  ]
-            },
-            {
-                  "name": "Církev Ježíše Krista Svatých posledních dnů",
-                  "text": "Církev Ježíše Krista Svatých posledních dnů is a place of worship for the Church of Jesus Christ of Latter-day Saints in the Jüdisches Viertel in Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.886253,
-                        49.212228
-                  ]
-            },
-            {
-                  "name": "Evangelický kostel",
-                  "text": "Evangelický kostel is an evangelical church and place of worship located in the Jüdisches Viertel in Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.884646,
-                        49.212817
-                  ]
-            },
-            {
-                  "name": "Proměnění Páně",
-                  "text": "Proměnění Páně is a religious place of worship located in the Jüdisches Viertel in Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.885553,
-                        49.214042
-                  ]
-            },
-            {
-                  "name": "Kaple svatých Petra a Pavla",
-                  "text": "Kaple svatých Petra a Pavla is a local place of worship in the Jüdisches Viertel in Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.887215,
-                        49.21418
-                  ]
-            },
-            {
-                  "name": "Kostel svatého Václava a svaté Ludmily",
-                  "text": "Kostel svatého Václava a svaté Ludmily is a place of worship located in the Jüdisches Viertel in Třebíč.",
-                  "category": "religious",
-                  "coords": [
-                        15.878598,
-                        49.21264
                   ]
             },
             {
@@ -3628,24 +2944,6 @@ export const czechrepublicHistoryV2: POI[] = [
     id: "czechrepublic-rabi-ruins-history-v2", "sights": {
       "de": [
             {
-                  "name": "zámek Žichovice",
-                  "text": "Ein barockes Schloss in Žichovice, das auf den Fundamenten einer älteren Festung errichtet wurde.",
-                  "category": "castle",
-                  "coords": [
-                        13.625457,
-                        49.266681
-                  ]
-            },
-            {
-                  "name": "přírodní rezervace Čepičná",
-                  "text": "Ein Naturschutzgebiet mit wertvollen Kalkstein-Pflanzengesellschaften in der Nähe der Burgruine Rabí.",
-                  "category": "natural",
-                  "coords": [
-                        13.587347,
-                        49.272409
-                  ]
-            },
-            {
                   "name": "Přírodní park Budětice",
                   "text": "Ein Naturpark in der Region Budětice, der für seine malerische Landschaft und Artenvielfalt geschützt ist.",
                   "category": "natural",
@@ -3680,36 +2978,9 @@ export const czechrepublicHistoryV2: POI[] = [
                         13.669218,
                         49.283746
                   ]
-            },
-            {
-                  "name": "Čepičná",
-                  "text": "Ein markanter Gipfel in der Region Rabí, der Teil eines geschützten Naturgebiets ist.",
-                  "category": "landmark",
-                  "coords": [
-                        13.582326,
-                        49.271667
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "zámek Žichovice",
-                  "text": "Barokk kastély Žichovicében, amely egy régebbi erődítmény alapjaira épült.",
-                  "category": "castle",
-                  "coords": [
-                        13.625457,
-                        49.266681
-                  ]
-            },
-            {
-                  "name": "přírodní rezervace Čepičná",
-                  "text": "Természetvédelmi terület értékes mészkő-növénytársulásokkal a Rabí várrom közelében.",
-                  "category": "natural",
-                  "coords": [
-                        13.587347,
-                        49.272409
-                  ]
-            },
             {
                   "name": "Přírodní park Budětice",
                   "text": "Természetvédelmi park Budětice térségében, amely festői tájáról és biológiai sokféleségéről ismert.",
@@ -3745,36 +3016,9 @@ export const czechrepublicHistoryV2: POI[] = [
                         13.669218,
                         49.283746
                   ]
-            },
-            {
-                  "name": "Čepičná",
-                  "text": "Jellegzetes hegycsúcs Rabí térségében, amely egy védett természeti terület része.",
-                  "category": "landmark",
-                  "coords": [
-                        13.582326,
-                        49.271667
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "zámek Žichovice",
-                  "text": "Un castel baroc în Žichovice, construit pe fundațiile unei fortărețe mai vechi.",
-                  "category": "castle",
-                  "coords": [
-                        13.625457,
-                        49.266681
-                  ]
-            },
-            {
-                  "name": "přírodní rezervace Čepičná",
-                  "text": "O rezervație naturală cu comunități valoroase de plante calcaroase lângă ruinele castelului Rabí.",
-                  "category": "natural",
-                  "coords": [
-                        13.587347,
-                        49.272409
-                  ]
-            },
             {
                   "name": "Přírodní park Budětice",
                   "text": "Un parc natural în regiunea Budětice, protejat pentru peisajul său pitoresc și biodiversitate.",
@@ -3810,36 +3054,9 @@ export const czechrepublicHistoryV2: POI[] = [
                         13.669218,
                         49.283746
                   ]
-            },
-            {
-                  "name": "Čepičná",
-                  "text": "Un vârf proeminent în regiunea Rabí, care face parte dintr-o zonă naturală protejată.",
-                  "category": "landmark",
-                  "coords": [
-                        13.582326,
-                        49.271667
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "zámek Žichovice",
-                  "text": "A Baroque castle in Žichovice built on the foundations of an older fortress.",
-                  "category": "castle",
-                  "coords": [
-                        13.625457,
-                        49.266681
-                  ]
-            },
-            {
-                  "name": "přírodní rezervace Čepičná",
-                  "text": "A nature reserve featuring valuable limestone plant communities near the Rabí castle ruins.",
-                  "category": "natural",
-                  "coords": [
-                        13.587347,
-                        49.272409
-                  ]
-            },
             {
                   "name": "Přírodní park Budětice",
                   "text": "A nature park in the Budětice area, protected for its picturesque landscape and biodiversity.",
@@ -3874,15 +3091,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         13.669218,
                         49.283746
-                  ]
-            },
-            {
-                  "name": "Čepičná",
-                  "text": "A prominent peak in the Rabí area, part of a protected natural site.",
-                  "category": "landmark",
-                  "coords": [
-                        13.582326,
-                        49.271667
                   ]
             }
       ]
@@ -6828,33 +6036,6 @@ export const czechrepublicHistoryV2: POI[] = [
     id: "czechrepublic-hradiste-u-znojma-history-v2", "sights": {
       "de": [
             {
-                  "name": "Městské divadlo Znojmo",
-                  "text": "Das Stadttheater von Znojmo, das eine Vielzahl von dramatischen Aufführungen bietet.",
-                  "category": "cultural",
-                  "coords": [
-                        16.054024,
-                        48.85324
-                  ]
-            },
-            {
-                  "name": "Dům umění",
-                  "text": "Eine Galerie und ein Kunstzentrum in Znojmo, das regionale Kunst zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        16.050713,
-                        48.854159
-                  ]
-            },
-            {
-                  "name": "Znojemský hrad",
-                  "text": "Ein historischer Burg- und Schlosskomplex mit Blick auf den Fluss Thaya in Znojmo.",
-                  "category": "castle",
-                  "coords": [
-                        16.042438,
-                        48.855647
-                  ]
-            },
-            {
                   "name": "Hradiště sv. Hypolita",
                   "text": "Eine großmährische Wallburg und archäologische Stätte in der Nähe von Znojmo.",
                   "category": "museum",
@@ -6862,72 +6043,9 @@ export const czechrepublicHistoryV2: POI[] = [
                         16.033194,
                         48.858902
                   ]
-            },
-            {
-                  "name": "Pivovar",
-                  "text": "Eine lokale Brauerei in Znojmo, die Einblicke in die traditionelle Bierherstellung bietet.",
-                  "category": "museum",
-                  "coords": [
-                        16.044275,
-                        48.85567
-                  ]
-            },
-            {
-                  "name": "Znojemské podzemí",
-                  "text": "Ein weitläufiges System historischer unterirdischer Keller und Tunnel in Znojmo.",
-                  "category": "museum",
-                  "coords": [
-                        16.049229,
-                        48.855838
-                  ]
-            },
-            {
-                  "name": "Alšovka",
-                  "text": "Ein lokales Museum oder eine kulturelle Ausstellungsstätte in der Region Znojmo.",
-                  "category": "museum",
-                  "coords": [
-                        16.05577,
-                        48.857476
-                  ]
-            },
-            {
-                  "name": "Lázně",
-                  "text": "Ein Wasserpark in der Nähe des Burgwalls Hradiště u Znojma.",
-                  "category": "recreational",
-                  "coords": [
-                        16.048834,
-                        48.860124
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Městské divadlo Znojmo",
-                  "text": "Znojmo városi színháza, amely különféle drámai előadásokat kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        16.054024,
-                        48.85324
-                  ]
-            },
-            {
-                  "name": "Dům umění",
-                  "text": "Galéria és művészeti központ Znojmóban, amely regionális művészetet mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        16.050713,
-                        48.854159
-                  ]
-            },
-            {
-                  "name": "Znojemský hrad",
-                  "text": "Történelmi vár- és kastélykomplexum, amely a Dyje folyóra néz Znojmóban.",
-                  "category": "castle",
-                  "coords": [
-                        16.042438,
-                        48.855647
-                  ]
-            },
             {
                   "name": "Hradiště sv. Hypolita",
                   "text": "Nagymorva erődített település és régészeti lelőhely Znojmo közelében.",
@@ -6936,72 +6054,9 @@ export const czechrepublicHistoryV2: POI[] = [
                         16.033194,
                         48.858902
                   ]
-            },
-            {
-                  "name": "Pivovar",
-                  "text": "Helyi sörfőzde Znojmóban, amely betekintést nyújt a hagyományos sörfőzésbe.",
-                  "category": "museum",
-                  "coords": [
-                        16.044275,
-                        48.85567
-                  ]
-            },
-            {
-                  "name": "Znojemské podzemí",
-                  "text": "Történelmi földalatti pincék és alagutak kiterjedt rendszere Znojmóban.",
-                  "category": "museum",
-                  "coords": [
-                        16.049229,
-                        48.855838
-                  ]
-            },
-            {
-                  "name": "Alšovka",
-                  "text": "Helyi múzeum vagy kulturális kiállítóhely Znojmo régiójában.",
-                  "category": "museum",
-                  "coords": [
-                        16.05577,
-                        48.857476
-                  ]
-            },
-            {
-                  "name": "Lázně",
-                  "text": "Vízipark a Hradiště u Znojma várhely közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.048834,
-                        48.860124
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Městské divadlo Znojmo",
-                  "text": "Teatrul municipal din Znojmo, care oferă o varietate de spectacole dramatice.",
-                  "category": "cultural",
-                  "coords": [
-                        16.054024,
-                        48.85324
-                  ]
-            },
-            {
-                  "name": "Dům umění",
-                  "text": "O galerie și centru de artă din Znojmo care expune artă regională.",
-                  "category": "museum",
-                  "coords": [
-                        16.050713,
-                        48.854159
-                  ]
-            },
-            {
-                  "name": "Znojemský hrad",
-                  "text": "Un castel istoric și complex de palate cu vedere la râul Dyje din Znojmo.",
-                  "category": "castle",
-                  "coords": [
-                        16.042438,
-                        48.855647
-                  ]
-            },
             {
                   "name": "Hradiště sv. Hypolita",
                   "text": "O așezare fortificată din Moravia Mare și sit arheologic lângă Znojmo.",
@@ -7010,72 +6065,9 @@ export const czechrepublicHistoryV2: POI[] = [
                         16.033194,
                         48.858902
                   ]
-            },
-            {
-                  "name": "Pivovar",
-                  "text": "O fabrică de bere locală din Znojmo, care oferă informații despre fabricarea tradițională a berii.",
-                  "category": "museum",
-                  "coords": [
-                        16.044275,
-                        48.85567
-                  ]
-            },
-            {
-                  "name": "Znojemské podzemí",
-                  "text": "Un sistem vast de pivnițe și tuneluri subterane istorice situate în Znojmo.",
-                  "category": "museum",
-                  "coords": [
-                        16.049229,
-                        48.855838
-                  ]
-            },
-            {
-                  "name": "Alšovka",
-                  "text": "Un muzeu local sau sit de expoziție culturală din regiunea Znojmo.",
-                  "category": "museum",
-                  "coords": [
-                        16.05577,
-                        48.857476
-                  ]
-            },
-            {
-                  "name": "Lázně",
-                  "text": "Un parc acvatic situat în apropierea cetății Hradiště u Znojma.",
-                  "category": "recreational",
-                  "coords": [
-                        16.048834,
-                        48.860124
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Městské divadlo Znojmo",
-                  "text": "The municipal theater of Znojmo, offering a variety of dramatic performances.",
-                  "category": "cultural",
-                  "coords": [
-                        16.054024,
-                        48.85324
-                  ]
-            },
-            {
-                  "name": "Dům umění",
-                  "text": "A gallery and arts center in Znojmo showcasing regional art.",
-                  "category": "museum",
-                  "coords": [
-                        16.050713,
-                        48.854159
-                  ]
-            },
-            {
-                  "name": "Znojemský hrad",
-                  "text": "A historic castle and chateau complex overlooking the Dyje river in Znojmo.",
-                  "category": "castle",
-                  "coords": [
-                        16.042438,
-                        48.855647
-                  ]
-            },
             {
                   "name": "Hradiště sv. Hypolita",
                   "text": "A Great Moravian fortified settlement and archaeological site near Znojmo.",
@@ -7083,42 +6075,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         16.033194,
                         48.858902
-                  ]
-            },
-            {
-                  "name": "Pivovar",
-                  "text": "A local brewery site in Znojmo, offering insights into traditional beer making.",
-                  "category": "museum",
-                  "coords": [
-                        16.044275,
-                        48.85567
-                  ]
-            },
-            {
-                  "name": "Znojemské podzemí",
-                  "text": "A large system of historical underground cellars and tunnels located in Znojmo.",
-                  "category": "museum",
-                  "coords": [
-                        16.049229,
-                        48.855838
-                  ]
-            },
-            {
-                  "name": "Alšovka",
-                  "text": "A local museum or cultural exhibition site in the Znojmo region.",
-                  "category": "museum",
-                  "coords": [
-                        16.05577,
-                        48.857476
-                  ]
-            },
-            {
-                  "name": "Lázně",
-                  "text": "A water park located near the Hradiště u Znojma hillfort.",
-                  "category": "recreational",
-                  "coords": [
-                        16.048834,
-                        48.860124
                   ]
             }
       ]
@@ -8151,42 +7107,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Přírodní park Budětice",
-                  "text": "Ein Naturpark in der Nähe von Rabí, der die malerische Hügellandschaft der Region Buděticko schützt.",
-                  "category": "natural",
-                  "coords": [
-                        13.566945,
-                        49.282663
-                  ]
-            },
-            {
-                  "name": "hrad Rabí",
-                  "text": "Die Burg Rabí ist die größte Burgruine in Böhmen und verfügt über ein massives Befestigungssystem.",
-                  "category": "castle",
-                  "coords": [
-                        13.618349,
-                        49.279147
-                  ]
-            },
-            {
-                  "name": "Muzeum remesel",
-                  "text": "Ein Museum in der Nähe der Burg Rabí, das traditionelle Handwerkstechniken der Region ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        13.619082,
-                        49.280564
-                  ]
-            },
-            {
-                  "name": "PR Pučanka",
-                  "text": "Ein botanisch wertvolles Naturschutzgebiet bei Rabí, das wichtige Kalkstein-Lebensräume schützt.",
-                  "category": "natural",
-                  "coords": [
-                        13.669218,
-                        49.283746
-                  ]
-            },
-            {
                   "name": "Čepičná",
                   "text": "Ein markanter Kalksteingipfel bei Rabí, der Teil des gleichnamigen Naturschutzgebietes ist.",
                   "category": "landmark",
@@ -8213,42 +7133,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         13.587347,
                         49.272409
-                  ]
-            },
-            {
-                  "name": "Přírodní park Budětice",
-                  "text": "Természetvédelmi park Rabí közelében, amely a Buděticko-régió festői dombvidékét óvja.",
-                  "category": "natural",
-                  "coords": [
-                        13.566945,
-                        49.282663
-                  ]
-            },
-            {
-                  "name": "hrad Rabí",
-                  "text": "A Rabí-vár Csehország legnagyobb várromja, amely hatalmas erődítményrendszerrel rendelkezik.",
-                  "category": "castle",
-                  "coords": [
-                        13.618349,
-                        49.279147
-                  ]
-            },
-            {
-                  "name": "Muzeum remesel",
-                  "text": "Múzeum a Rabí-vár közelében, amely a régió hagyományos kézműves mesterségeit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        13.619082,
-                        49.280564
-                  ]
-            },
-            {
-                  "name": "PR Pučanka",
-                  "text": "Botanikai szempontból értékes természetvédelmi terület Rabí közelében, amely fontos mészkő-élőhelyeket véd.",
-                  "category": "natural",
-                  "coords": [
-                        13.669218,
-                        49.283746
                   ]
             },
             {
@@ -8281,42 +7165,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Přírodní park Budětice",
-                  "text": "Un parc natural lângă Rabí, care protejează peisajul deluros pitoresc al regiunii Buděticko.",
-                  "category": "natural",
-                  "coords": [
-                        13.566945,
-                        49.282663
-                  ]
-            },
-            {
-                  "name": "hrad Rabí",
-                  "text": "Cetatea Rabí este cea mai mare ruină de castel din Boemia, având un sistem masiv de fortificații.",
-                  "category": "castle",
-                  "coords": [
-                        13.618349,
-                        49.279147
-                  ]
-            },
-            {
-                  "name": "Muzeum remesel",
-                  "text": "Un muzeu lângă cetatea Rabí, care expune meșteșugurile tradiționale din regiune.",
-                  "category": "museum",
-                  "coords": [
-                        13.619082,
-                        49.280564
-                  ]
-            },
-            {
-                  "name": "PR Pučanka",
-                  "text": "O rezervație naturală valoroasă din punct de vedere botanic lângă Rabí, ce protejează habitate calcaroase importante.",
-                  "category": "natural",
-                  "coords": [
-                        13.669218,
-                        49.283746
-                  ]
-            },
-            {
                   "name": "Čepičná",
                   "text": "Un vârf calcaros proeminent lângă Rabí, care face parte din rezervația naturală cu același nume.",
                   "category": "landmark",
@@ -8343,42 +7191,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         13.587347,
                         49.272409
-                  ]
-            },
-            {
-                  "name": "Přírodní park Budětice",
-                  "text": "A nature park near Rabí protecting the scenic hilly landscape of the Buděticko region.",
-                  "category": "natural",
-                  "coords": [
-                        13.566945,
-                        49.282663
-                  ]
-            },
-            {
-                  "name": "hrad Rabí",
-                  "text": "Rabí Castle is the largest castle ruin in Bohemia, featuring a massive fortification system.",
-                  "category": "castle",
-                  "coords": [
-                        13.618349,
-                        49.279147
-                  ]
-            },
-            {
-                  "name": "Muzeum remesel",
-                  "text": "A museum near Rabí Castle showcasing the traditional crafts of the region.",
-                  "category": "museum",
-                  "coords": [
-                        13.619082,
-                        49.280564
-                  ]
-            },
-            {
-                  "name": "PR Pučanka",
-                  "text": "A botanically valuable nature reserve near Rabí, protecting important limestone habitats.",
-                  "category": "natural",
-                  "coords": [
-                        13.669218,
-                        49.283746
                   ]
             },
             {
@@ -9924,30 +8736,12 @@ export const czechrepublicHistoryV2: POI[] = [
     id: "czechrepublic-trebon-fortifications-history-v2", "sights": {
       "de": [
             {
-                  "name": "zámek Třeboň",
-                  "text": "Ein prächtiges Renaissanceschloss in Třeboň, das zu den größten in der Tschechischen Republik gehört.",
-                  "category": "castle",
-                  "coords": [
-                        14.76944,
-                        49.003282
-                  ]
-            },
-            {
                   "name": "přírodní památka Soví les",
                   "text": "Ein Naturdenkmal bei Třeboň, das wertvolle Moorwald-Ökosysteme schützt.",
                   "category": "natural",
                   "coords": [
                         14.81654,
                         48.98395
-                  ]
-            },
-            {
-                  "name": "přírodní památka Branské doubí",
-                  "text": "Ein geschützter Eichenhain bei Třeboň mit sehr alten, monumentalen Bäumen.",
-                  "category": "natural",
-                  "coords": [
-                        14.782467,
-                        48.97607
                   ]
             },
             {
@@ -9976,27 +8770,9 @@ export const czechrepublicHistoryV2: POI[] = [
                         14.7681,
                         49.016188
                   ]
-            },
-            {
-                  "name": "Ostende",
-                  "text": "Ein Schwimmbad bei den Stadtbefestigungen von Třeboň, das Erholung in historischer Umgebung bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        14.757983,
-                        48.994317
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "zámek Třeboň",
-                  "text": "Impozáns reneszánsz kastély Třeboňban, Csehország egyik legnagyobb ilyen építménye.",
-                  "category": "castle",
-                  "coords": [
-                        14.76944,
-                        49.003282
-                  ]
-            },
             {
                   "name": "přírodní památka Soví les",
                   "text": "Természeti emlékhely Třeboň közelében, amely értékes láperdei ökoszisztémát véd.",
@@ -10004,15 +8780,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         14.81654,
                         48.98395
-                  ]
-            },
-            {
-                  "name": "přírodní památka Branské doubí",
-                  "text": "Védett tölgyes Třeboň közelében, ahol igen idős, monumentális fák találhatók.",
-                  "category": "natural",
-                  "coords": [
-                        14.782467,
-                        48.97607
                   ]
             },
             {
@@ -10041,27 +8808,9 @@ export const czechrepublicHistoryV2: POI[] = [
                         14.7681,
                         49.016188
                   ]
-            },
-            {
-                  "name": "Ostende",
-                  "text": "Úszómedence Třeboň városi erődítményei mellett, amely pihenést kínál történelmi környezetben.",
-                  "category": "recreational",
-                  "coords": [
-                        14.757983,
-                        48.994317
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "zámek Třeboň",
-                  "text": "Un castel renascentist impunător din Třeboň, unul dintre cele mai mari din Republica Cehă.",
-                  "category": "castle",
-                  "coords": [
-                        14.76944,
-                        49.003282
-                  ]
-            },
             {
                   "name": "přírodní památka Soví les",
                   "text": "Un monument al naturii de lângă Třeboň, care protejează un ecosistem valoros de pădure mlăștinoasă.",
@@ -10069,15 +8818,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         14.81654,
                         48.98395
-                  ]
-            },
-            {
-                  "name": "přírodní památka Branské doubí",
-                  "text": "O dumbravă de stejari protejată lângă Třeboň, cu arbori seculari monumentali.",
-                  "category": "natural",
-                  "coords": [
-                        14.782467,
-                        48.97607
                   ]
             },
             {
@@ -10106,27 +8846,9 @@ export const czechrepublicHistoryV2: POI[] = [
                         14.7681,
                         49.016188
                   ]
-            },
-            {
-                  "name": "Ostende",
-                  "text": "O piscină lângă fortificațiile orașului Třeboň, oferind recreere într-un cadru istoric.",
-                  "category": "recreational",
-                  "coords": [
-                        14.757983,
-                        48.994317
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "zámek Třeboň",
-                  "text": "A magnificent Renaissance castle in Třeboň, one of the largest in the Czech Republic.",
-                  "category": "castle",
-                  "coords": [
-                        14.76944,
-                        49.003282
-                  ]
-            },
             {
                   "name": "přírodní památka Soví les",
                   "text": "A natural monument near Třeboň protecting valuable swamp forest ecosystems.",
@@ -10134,15 +8856,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         14.81654,
                         48.98395
-                  ]
-            },
-            {
-                  "name": "přírodní památka Branské doubí",
-                  "text": "A protected oak grove near Třeboň featuring very old, monumental trees.",
-                  "category": "natural",
-                  "coords": [
-                        14.782467,
-                        48.97607
                   ]
             },
             {
@@ -10170,15 +8883,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         14.7681,
                         49.016188
-                  ]
-            },
-            {
-                  "name": "Ostende",
-                  "text": "A swimming pool by the Třeboň city fortifications, offering recreation in a historical setting.",
-                  "category": "recreational",
-                  "coords": [
-                        14.757983,
-                        48.994317
                   ]
             }
       ]
@@ -10230,15 +8934,6 @@ export const czechrepublicHistoryV2: POI[] = [
     id: "czechrepublic-vranov-castle-history-v2", "sights": {
       "de": [
             {
-                  "name": "Zámek Vranov nad Dyjí",
-                  "text": "Ein prächtiges Barockschloss auf einem Felsen über der Thaya.",
-                  "category": "castle",
-                  "coords": [
-                        15.811139,
-                        48.892592
-                  ]
-            },
-            {
                   "name": "Lusthaus",
                   "text": "Ein historisches Lustschloss im Nationalpark Podyjí nahe Vranov.",
                   "category": "castle",
@@ -10248,48 +8943,12 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeum Pohraničního opevnění",
-                  "text": "Ein Museum, das die Geschichte der tschechoslowakischen Grenzbefestigungen zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        15.800968,
-                        48.894565
-                  ]
-            },
-            {
-                  "name": "RM Perlmuttdesign GmbH",
-                  "text": "Ein spezialisiertes Museum in Vranov, das der Kunst der Perlmuttverarbeitung gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        15.799744,
-                        48.864184
-                  ]
-            },
-            {
                   "name": "Mniszkův kříž",
                   "text": "Ein historisches Denkmal in der Nähe des Schlosses Vranov nad Dyjí.",
                   "category": "historical",
                   "coords": [
                         15.817041,
                         48.895806
-                  ]
-            },
-            {
-                  "name": "kamenný most",
-                  "text": "Eine historische Brücke und Sehenswürdigkeit im Gebiet von Vranov.",
-                  "category": "landmark",
-                  "coords": [
-                        15.793622,
-                        48.898216
-                  ]
-            },
-            {
-                  "name": "Hallamasskova vyhlídka",
-                  "text": "Ein Aussichtspunkt mit weitem Blick auf die Landschaft um Vranov nad Dyjí.",
-                  "category": "natural",
-                  "coords": [
-                        15.810079,
-                        48.893495
                   ]
             },
             {
@@ -10304,15 +8963,6 @@ export const czechrepublicHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Zámek Vranov nad Dyjí",
-                  "text": "Pompás barokk kastély egy sziklán a Thaya folyó felett.",
-                  "category": "castle",
-                  "coords": [
-                        15.811139,
-                        48.892592
-                  ]
-            },
-            {
                   "name": "Letohrádek",
                   "text": "Történelmi mulatókastély a Podyjí Nemzeti Parkban, Vranov közelében.",
                   "category": "castle",
@@ -10322,48 +8972,12 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeum Pohraničního opevnění",
-                  "text": "A csehszlovák határvédelmi erődrendszer történetét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        15.800968,
-                        48.894565
-                  ]
-            },
-            {
-                  "name": "RM Perlmuttdesign GmbH",
-                  "text": "Speciális múzeum Vranovban, amely a gyöngyházmegmunkálás művészetének szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        15.799744,
-                        48.864184
-                  ]
-            },
-            {
                   "name": "Mniszkův kříž",
                   "text": "Történelmi emlékmű a Vranov nad Dyjí-i kastély közelében.",
                   "category": "historical",
                   "coords": [
                         15.817041,
                         48.895806
-                  ]
-            },
-            {
-                  "name": "kamenný most",
-                  "text": "Történelmi híd és látnivaló Vranov környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        15.793622,
-                        48.898216
-                  ]
-            },
-            {
-                  "name": "Hallamasskova vyhlídka",
-                  "text": "Kilátópont, ahonnan tágas kilátás nyílik Vranov nad Dyjí környékére.",
-                  "category": "natural",
-                  "coords": [
-                        15.810079,
-                        48.893495
                   ]
             },
             {
@@ -10378,15 +8992,6 @@ export const czechrepublicHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Zámek Vranov nad Dyjí",
-                  "text": "Un castel baroc magnific situat pe o stâncă deasupra râului Thaya.",
-                  "category": "castle",
-                  "coords": [
-                        15.811139,
-                        48.892592
-                  ]
-            },
-            {
                   "name": "Letohrádek",
                   "text": "Un pavilion istoric de vânătoare în Parcul Național Podyjí, lângă Vranov.",
                   "category": "castle",
@@ -10396,48 +9001,12 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeum Pohraničního opevnění",
-                  "text": "Un muzeu dedicat istoriei fortificațiilor de frontieră cehoslovace.",
-                  "category": "museum",
-                  "coords": [
-                        15.800968,
-                        48.894565
-                  ]
-            },
-            {
-                  "name": "RM Perlmuttdesign GmbH",
-                  "text": "Un muzeu specializat în Vranov dedicat artei prelucrării sidefului.",
-                  "category": "museum",
-                  "coords": [
-                        15.799744,
-                        48.864184
-                  ]
-            },
-            {
                   "name": "Mniszkův kříž",
                   "text": "Un monument istoric situat în apropierea castelului Vranov nad Dyjí.",
                   "category": "historical",
                   "coords": [
                         15.817041,
                         48.895806
-                  ]
-            },
-            {
-                  "name": "kamenný most",
-                  "text": "Un pod istoric și atracție turistică în zona Vranov.",
-                  "category": "landmark",
-                  "coords": [
-                        15.793622,
-                        48.898216
-                  ]
-            },
-            {
-                  "name": "Hallamasskova vyhlídka",
-                  "text": "Un punct de belvedere cu o vedere largă asupra peisajului din jurul Vranov nad Dyjí.",
-                  "category": "natural",
-                  "coords": [
-                        15.810079,
-                        48.893495
                   ]
             },
             {
@@ -10452,15 +9021,6 @@ export const czechrepublicHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Zámek Vranov nad Dyjí",
-                  "text": "A magnificent Baroque castle perched on a rock overlooking the Thaya river.",
-                  "category": "castle",
-                  "coords": [
-                        15.811139,
-                        48.892592
-                  ]
-            },
-            {
                   "name": "Letohrádek",
                   "text": "A historic summer palace located in the Podyjí National Park near Vranov.",
                   "category": "castle",
@@ -10470,48 +9030,12 @@ export const czechrepublicHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeum Pohraničního opevnění",
-                  "text": "A museum showcasing the history of the Czechoslovak border fortifications.",
-                  "category": "museum",
-                  "coords": [
-                        15.800968,
-                        48.894565
-                  ]
-            },
-            {
-                  "name": "RM Perlmuttdesign GmbH",
-                  "text": "A specialized museum in Vranov dedicated to the art of mother-of-pearl design.",
-                  "category": "museum",
-                  "coords": [
-                        15.799744,
-                        48.864184
-                  ]
-            },
-            {
                   "name": "Mniszkův kříž",
                   "text": "A historic monument located near the Vranov nad Dyjí castle.",
                   "category": "historical",
                   "coords": [
                         15.817041,
                         48.895806
-                  ]
-            },
-            {
-                  "name": "kamenný most",
-                  "text": "A historic stone bridge and attraction in the Vranov area.",
-                  "category": "landmark",
-                  "coords": [
-                        15.793622,
-                        48.898216
-                  ]
-            },
-            {
-                  "name": "Hallamasskova vyhlídka",
-                  "text": "A scenic viewpoint offering broad views of the landscape around Vranov nad Dyjí.",
-                  "category": "natural",
-                  "coords": [
-                        15.810079,
-                        48.893495
                   ]
             },
             {
@@ -11175,15 +9699,6 @@ export const czechrepublicHistoryV2: POI[] = [
     id: "czechrepublic-znojmo-fortifications-history-v2", "sights": {
       "de": [
             {
-                  "name": "Městské divadlo Znojmo",
-                  "text": "Das Stadttheater von Znaim, in dem verschiedene kulturelle Aufführungen stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        16.054024,
-                        48.85324
-                  ]
-            },
-            {
                   "name": "Dům umění",
                   "text": "Ein Kunstmuseum in Znaim, das zeitgenössische und historische Werke ausstellt.",
                   "category": "museum",
@@ -11199,15 +9714,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         16.042438,
                         48.855647
-                  ]
-            },
-            {
-                  "name": "Hradiště sv. Hypolita",
-                  "text": "Eine bedeutende archäologische Stätte und ein Museum in Znaim mit großmährischen Überresten.",
-                  "category": "museum",
-                  "coords": [
-                        16.033194,
-                        48.858902
                   ]
             },
             {
@@ -11249,15 +9755,6 @@ export const czechrepublicHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Městské divadlo Znojmo",
-                  "text": "Znojmo városi színháza, amely különféle kulturális előadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        16.054024,
-                        48.85324
-                  ]
-            },
-            {
                   "name": "Dům umění",
                   "text": "Znojmói művészeti múzeum, amely kortárs és történelmi műveket mutat be.",
                   "category": "museum",
@@ -11273,15 +9770,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         16.042438,
                         48.855647
-                  ]
-            },
-            {
-                  "name": "Hradiště sv. Hypolita",
-                  "text": "Fontos régészeti lelőhely és múzeum Znojmóban, nagymorva maradványokkal.",
-                  "category": "museum",
-                  "coords": [
-                        16.033194,
-                        48.858902
                   ]
             },
             {
@@ -11323,15 +9811,6 @@ export const czechrepublicHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Městské divadlo Znojmo",
-                  "text": "Teatrul municipal din Znojmo, care găzduiește diverse spectacole culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        16.054024,
-                        48.85324
-                  ]
-            },
-            {
                   "name": "Dům umění",
                   "text": "Un muzeu de artă din Znojmo care expune lucrări contemporane și istorice.",
                   "category": "museum",
@@ -11347,15 +9826,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         16.042438,
                         48.855647
-                  ]
-            },
-            {
-                  "name": "Hradiště sv. Hypolita",
-                  "text": "Un sit arheologic important și un muzeu din Znojmo, care prezintă vestigii ale Marii Moravii.",
-                  "category": "museum",
-                  "coords": [
-                        16.033194,
-                        48.858902
                   ]
             },
             {
@@ -11397,15 +9867,6 @@ export const czechrepublicHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Městské divadlo Znojmo",
-                  "text": "The municipal theatre of Znojmo, hosting various cultural performances.",
-                  "category": "cultural",
-                  "coords": [
-                        16.054024,
-                        48.85324
-                  ]
-            },
-            {
                   "name": "Dům umění",
                   "text": "An art museum in Znojmo showcasing contemporary and historical works.",
                   "category": "museum",
@@ -11421,15 +9882,6 @@ export const czechrepublicHistoryV2: POI[] = [
                   "coords": [
                         16.042438,
                         48.855647
-                  ]
-            },
-            {
-                  "name": "Hradiště sv. Hypolita",
-                  "text": "An important archaeological site and museum in Znojmo featuring Great Moravian remains.",
-                  "category": "museum",
-                  "coords": [
-                        16.033194,
-                        48.858902
                   ]
             },
             {

@@ -6,15 +6,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
     id: "pico-de-sao-tome-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Cascata Angolares",
-                  "text": "Cascata Angolares ist ein malerischer Wasserfall an den üppig grünen Hängen des Pico de São Tomé.",
-                  "category": "landmark",
-                  "coords": [
-                        6.553862,
-                        0.297169
-                  ]
-            },
-            {
                   "name": "Cruce de Senderos",
                   "text": "Diese Wegkreuzung leitet Wanderer, die das zerklüftete, tropische Gelände rund um den Pico de São Tomé erkunden.",
                   "category": "landmark",
@@ -25,15 +16,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Cascata Angolares",
-                  "text": "A Cascata Angolares egy festői vízesés, amely a Pico de São Tomé buja lejtőin található.",
-                  "category": "landmark",
-                  "coords": [
-                        6.553862,
-                        0.297169
-                  ]
-            },
             {
                   "name": "Cruce de Senderos",
                   "text": "Ez az ösvénykereszteződés a Pico de São Tomé körüli zord, trópusi terepet felfedező túrázókat segíti.",
@@ -46,15 +28,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Cascata Angolares",
-                  "text": "Cascata Angolares este o cascadă pitorească situată pe pantele luxuriante ale Pico de São Tomé.",
-                  "category": "landmark",
-                  "coords": [
-                        6.553862,
-                        0.297169
-                  ]
-            },
-            {
                   "name": "Cruce de Senderos",
                   "text": "Această intersecție de trasee ghidează drumeții care explorează terenul tropical accidentat din jurul Pico de São Tomé.",
                   "category": "landmark",
@@ -65,15 +38,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Cascata Angolares",
-                  "text": "Cascata Angolares is a scenic waterfall attraction located on the lush slopes of Pico de São Tomé.",
-                  "category": "landmark",
-                  "coords": [
-                        6.553862,
-                        0.297169
-                  ]
-            },
             {
                   "name": "Trail junction",
                   "text": "This trail junction guides hikers exploring the rugged, tropical terrain around Pico de São Tomé.",
@@ -158,15 +122,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
                         6.566361,
                         0.118189
                   ]
-            },
-            {
-                  "name": "Praia Grande",
-                  "text": "Praia Grande ist ein weitläufiger Sandstrand an der Küste nahe dem ikonischen Pico Cão Grande.",
-                  "category": "recreational",
-                  "coords": [
-                        6.570629,
-                        0.085242
-                  ]
             }
       ],
       "hu": [
@@ -177,15 +132,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
                   "coords": [
                         6.566361,
                         0.118189
-                  ]
-            },
-            {
-                  "name": "Praia Grande",
-                  "text": "A Praia Grande egy tágas, hosszan elnyúló homokos strand a part mentén, az ikonikus Pico Cão Grande közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        6.570629,
-                        0.085242
                   ]
             }
       ],
@@ -198,15 +144,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
                         6.566361,
                         0.118189
                   ]
-            },
-            {
-                  "name": "Praia Grande",
-                  "text": "Praia Grande este o plajă vastă de nisip de-a lungul coastei, în apropierea emblematicului Pico Cão Grande.",
-                  "category": "recreational",
-                  "coords": [
-                        6.570629,
-                        0.085242
-                  ]
             }
       ],
       "en": [
@@ -217,15 +154,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
                   "coords": [
                         6.566361,
                         0.118189
-                  ]
-            },
-            {
-                  "name": "Praia Grande",
-                  "text": "Praia Grande is an expansive, sweeping sandy beach along the coast near the iconic Pico Cão Grande.",
-                  "category": "recreational",
-                  "coords": [
-                        6.570629,
-                        0.085242
                   ]
             }
       ]
@@ -1332,15 +1260,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
     id: "ilheu-bom-bom-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Praia Boi",
-                  "text": "Praia Boi ist ein idyllischer natürlicher Sandstrand, der von üppiger Dschungelvegetation in der Nähe des Ilhéu Bom Bom gesäumt wird.",
-                  "category": "recreational",
-                  "coords": [
-                        7.4596,
-                        1.68065
-                  ]
-            },
-            {
                   "name": "Praia Campanha",
                   "text": "Praia Campanha bietet einen malerischen weißen Sandstrand an der Küste, der von den grünen Wäldern im Norden von Príncipe geschützt wird.",
                   "category": "recreational",
@@ -1369,15 +1288,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Praia Boi",
-                  "text": "A Praia Boi egy idilli természetes homokos strand, amelyet buja dzsungel növényzet szegélyez az Ilhéu Bom Bom közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        7.4596,
-                        1.68065
-                  ]
-            },
             {
                   "name": "Praia Campanha",
                   "text": "A Praia Campanha egy festői fehér homokos partszakaszt kínál, amelyet Észak-Príncipe zöldellő erdei védelmeznek.",
@@ -1408,15 +1318,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Praia Boi",
-                  "text": "Praia Boi este o plajă cu nisip naturală idilică, mărginită de vegetație luxuriantă de junglă lângă Ilhéu Bom Bom.",
-                  "category": "recreational",
-                  "coords": [
-                        7.4596,
-                        1.68065
-                  ]
-            },
-            {
                   "name": "Praia Campanha",
                   "text": "Praia Campanha oferă o fâșie pitorească de coastă cu nisip alb, adăpostită de pădurile înverzite din nordul insulei Príncipe.",
                   "category": "recreational",
@@ -1445,15 +1346,6 @@ export const poiExtraSaotomeandprincipeNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Praia Boi",
-                  "text": "Praia Boi is an idyllic natural sandy beach fringed by lush jungle vegetation near the Ilhéu Bom Bom.",
-                  "category": "recreational",
-                  "coords": [
-                        7.4596,
-                        1.68065
-                  ]
-            },
             {
                   "name": "Praia Campanha",
                   "text": "Praia Campanha offers a picturesque coastal stretch of white sand sheltered by the verdant forests of northern Príncipe.",

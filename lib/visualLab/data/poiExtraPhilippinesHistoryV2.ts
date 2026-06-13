@@ -4506,15 +4506,6 @@ image: "/poi-images/leyte-landing-memorial-park-history-v2.webp",
                   ]
             },
             {
-                  "name": "Dambana ng Pinaglabanan",
-                  "text": "The Spirit of Pinaglabanan ist ein bemerkenswertes Denkmal, das an die historische Schlacht der Katipunan-Revolutionäre im Jahr 1896 erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        121.031708,
-                        14.605227
-                  ]
-            },
-            {
                   "name": "People Power Monument",
                   "text": "Das People Power Monument ist eine markante skulpturale Hommage an die friedliche Revolution von 1986, die eine Diktatur stürzte.",
                   "category": "historical",
@@ -4533,24 +4524,6 @@ image: "/poi-images/leyte-landing-memorial-park-history-v2.webp",
                   ]
             },
             {
-                  "name": "Saint John the Baptist Parish Church",
-                  "text": "Die Saint John the Baptist Parish Church, auch bekannt als Pinaglabanan Church, ist ein bedeutendes historisches Gotteshaus mit klassischer Architektur.",
-                  "category": "religious",
-                  "coords": [
-                        121.027998,
-                        14.604936
-                  ]
-            },
-            {
-                  "name": "Santuario del Santo Cristo",
-                  "text": "Santuario del Santo Cristo ist eine historische katholische Kirche, die ursprünglich 1774 gegründet wurde und für die Beherbergung eines hochverehrten Bildes des gekreuzigten Christus bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        121.030765,
-                        14.598423
-                  ]
-            },
-            {
                   "name": "Santuario de San Jose",
                   "text": "Santuario de San Jose ist eine ruhige Pfarrkirche, die als spirituelle Heimat für die lokale Gemeinde in Greenhills anerkannt ist.",
                   "category": "religious",
@@ -4566,33 +4539,6 @@ image: "/poi-images/leyte-landing-memorial-park-history-v2.webp",
                   "coords": [
                         121.030478,
                         14.614284
-                  ]
-            },
-            {
-                  "name": "Ocean Sky Chan Monastery",
-                  "text": "Das Ocean Sky Chan Monastery ist ein friedliches buddhistisches Gotteshaus, das sich der Lehre der Zen-Meditation und des Dharma im Herzen der Stadt widmet.",
-                  "category": "religious",
-                  "coords": [
-                        121.038182,
-                        14.597968
-                  ]
-            },
-            {
-                  "name": "Art Underground",
-                  "text": "Art Underground ist ein zeitgenössischer Galerieraum, in dem hochmoderne visuelle Werke von aufstrebenden lokalen Künstlern ausgestellt werden.",
-                  "category": "museum",
-                  "coords": [
-                        121.040777,
-                        14.594799
-                  ]
-            },
-            {
-                  "name": "Museo Sansó",
-                  "text": "Das Museo Sansó ist ein Spezialmuseum, das die umfangreichen persönlichen Archive und die unverwechselbare bildende Kunst des gefeierten Malers Juvenal Sansó präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        121.036824,
-                        14.597911
                   ]
             },
             {
@@ -4832,15 +4778,6 @@ image: "/poi-images/leyte-landing-memorial-park-history-v2.webp",
                   ]
             },
             {
-                  "name": "Dambana ng Pinaglabanan",
-                  "text": "A Pinaglabanan Szelleme egy figyelemre méltó emlékmű, amely a Katipunan forradalmárok történelmi, 1896-os csatájának állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        121.031708,
-                        14.605227
-                  ]
-            },
-            {
                   "name": "People Power Monument",
                   "text": "A People Power Monument egy lenyűgöző szobrászati tiszteletadás az 1986-os békés forradalom előtt, amely megbuktatott egy diktatúrát.",
                   "category": "historical",
@@ -4859,24 +4796,6 @@ image: "/poi-images/leyte-landing-memorial-park-history-v2.webp",
                   ]
             },
             {
-                  "name": "Saint John the Baptist Parish Church",
-                  "text": "A Keresztelő Szent János-plébániatemplom, más néven Pinaglabanan templom, a klasszikus építészetet felvonultató jelentős történelmi istentiszteleti hely.",
-                  "category": "religious",
-                  "coords": [
-                        121.027998,
-                        14.604936
-                  ]
-            },
-            {
-                  "name": "Santuario del Santo Cristo",
-                  "text": "A Santuario del Santo Cristo egy történelmi katolikus templom, amelyet eredetileg 1774-ben alapítottak, és arról híres, hogy a megfeszített Krisztus nagyon tisztelt képmásának ad otthont.",
-                  "category": "religious",
-                  "coords": [
-                        121.030765,
-                        14.598423
-                  ]
-            },
-            {
                   "name": "Santuario de San Jose",
                   "text": "A Santuario de San Jose egy nyugodt plébániai istentiszteleti hely, amelyet a helyi Greenhills közösség spirituális otthonaként ismernek el.",
                   "category": "religious",
@@ -4892,33 +4811,6 @@ image: "/poi-images/leyte-landing-memorial-park-history-v2.webp",
                   "coords": [
                         121.030478,
                         14.614284
-                  ]
-            },
-            {
-                  "name": "Ocean Sky Chan Monastery",
-                  "text": "Az Ocean Sky Chan Kolostor egy békés buddhista istentiszteleti hely, amelyet a zen meditáció és a dharma tanításának szenteltek a város szívében.",
-                  "category": "religious",
-                  "coords": [
-                        121.038182,
-                        14.597968
-                  ]
-            },
-            {
-                  "name": "Art Underground",
-                  "text": "Az Art Underground egy kortárs galériatér, amely feltörekvő helyi művészek élvonalbeli vizuális alkotásait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        121.040777,
-                        14.594799
-                  ]
-            },
-            {
-                  "name": "Museo Sansó",
-                  "text": "A Museo Sansó egy specializált múzeum, amely Juvenal Sansó elismert festő kiterjedt személyes archívumát és jellegzetes képzőművészetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        121.036824,
-                        14.597911
                   ]
             },
             {
@@ -5158,15 +5050,6 @@ image: "/poi-images/leyte-landing-memorial-park-history-v2.webp",
                   ]
             },
             {
-                  "name": "Dambana ng Pinaglabanan",
-                  "text": "Spirit of Pinaglabanan este un monument notabil care comemorează bătălia istorică din 1896 purtată de revoluționarii Katipunan.",
-                  "category": "historical",
-                  "coords": [
-                        121.031708,
-                        14.605227
-                  ]
-            },
-            {
                   "name": "People Power Monument",
                   "text": "Monumentul Puterii Poporului este un omagiu sculptural impresionant adus revoluției pașnice din 1986 care a înlăturat o dictatură.",
                   "category": "historical",
@@ -5185,24 +5068,6 @@ image: "/poi-images/leyte-landing-memorial-park-history-v2.webp",
                   ]
             },
             {
-                  "name": "Saint John the Baptist Parish Church",
-                  "text": "Biserica Parohială Sfântul Ioan Botezătorul, cunoscută și sub numele de Biserica Pinaglabanan, este un lăcaș de cult istoric semnificativ, cu o arhitectură clasică.",
-                  "category": "religious",
-                  "coords": [
-                        121.027998,
-                        14.604936
-                  ]
-            },
-            {
-                  "name": "Santuario del Santo Cristo",
-                  "text": "Santuario del Santo Cristo este o biserică catolică istorică, fondată inițial în 1774, renumită pentru adăpostirea unei imagini foarte venerate a lui Hristos răstignit.",
-                  "category": "religious",
-                  "coords": [
-                        121.030765,
-                        14.598423
-                  ]
-            },
-            {
                   "name": "Santuario de San Jose",
                   "text": "Santuario de San Jose este un lăcaș de cult parohial liniștit, recunoscut ca sediu spiritual al comunității locale Greenhills.",
                   "category": "religious",
@@ -5218,33 +5083,6 @@ image: "/poi-images/leyte-landing-memorial-park-history-v2.webp",
                   "coords": [
                         121.030478,
                         14.614284
-                  ]
-            },
-            {
-                  "name": "Ocean Sky Chan Monastery",
-                  "text": "Mănăstirea Ocean Sky Chan este un lăcaș de cult budist liniștit, dedicat predării meditației Zen și a Dharmei în inima orașului.",
-                  "category": "religious",
-                  "coords": [
-                        121.038182,
-                        14.597968
-                  ]
-            },
-            {
-                  "name": "Art Underground",
-                  "text": "Art Underground este un spațiu de galerie contemporan care expune lucrări vizuale de ultimă oră ale artiștilor locali emergenți.",
-                  "category": "museum",
-                  "coords": [
-                        121.040777,
-                        14.594799
-                  ]
-            },
-            {
-                  "name": "Museo Sansó",
-                  "text": "Museo Sansó este un muzeu specializat care prezintă arhivele personale extinse și arta plastică distinctivă a apreciatului pictor Juvenal Sansó.",
-                  "category": "museum",
-                  "coords": [
-                        121.036824,
-                        14.597911
                   ]
             },
             {
@@ -5484,15 +5322,6 @@ image: "/poi-images/leyte-landing-memorial-park-history-v2.webp",
                   ]
             },
             {
-                  "name": "Spirit of Pinaglabanan",
-                  "text": "The Spirit of Pinaglabanan is a notable monument commemorating the historic 1896 battle fought by the Katipunan revolutionaries.",
-                  "category": "historical",
-                  "coords": [
-                        121.031708,
-                        14.605227
-                  ]
-            },
-            {
                   "name": "People Power Monument",
                   "text": "The People Power Monument is a striking sculptural tribute to the peaceful 1986 revolution that ousted a dictatorship.",
                   "category": "historical",
@@ -5511,24 +5340,6 @@ image: "/poi-images/leyte-landing-memorial-park-history-v2.webp",
                   ]
             },
             {
-                  "name": "Saint John the Baptist Parish Church",
-                  "text": "Saint John the Baptist Parish Church, also known as Pinaglabanan Church, is a significant historic place of worship featuring classical architecture.",
-                  "category": "religious",
-                  "coords": [
-                        121.027998,
-                        14.604936
-                  ]
-            },
-            {
-                  "name": "Santuario del Santo Cristo",
-                  "text": "Santuario del Santo Cristo is a historic Catholic church originally established in 1774, renowned for housing a highly venerated image of the crucified Christ.",
-                  "category": "religious",
-                  "coords": [
-                        121.030765,
-                        14.598423
-                  ]
-            },
-            {
                   "name": "Santuario de San Jose",
                   "text": "Santuario de San Jose is a serene parish place of worship recognized as the spiritual home for the local Greenhills community.",
                   "category": "religious",
@@ -5544,33 +5355,6 @@ image: "/poi-images/leyte-landing-memorial-park-history-v2.webp",
                   "coords": [
                         121.030478,
                         14.614284
-                  ]
-            },
-            {
-                  "name": "Ocean Sky Chan Monastery",
-                  "text": "Ocean Sky Chan Monastery is a peaceful Buddhist place of worship dedicated to teaching Zen meditation and Dharma in the heart of the city.",
-                  "category": "religious",
-                  "coords": [
-                        121.038182,
-                        14.597968
-                  ]
-            },
-            {
-                  "name": "Art Underground",
-                  "text": "Art Underground is a contemporary gallery space exhibiting cutting-edge visual works by emerging local artists.",
-                  "category": "museum",
-                  "coords": [
-                        121.040777,
-                        14.594799
-                  ]
-            },
-            {
-                  "name": "Museo Sansó",
-                  "text": "Museo Sansó is a specialized museum showcasing the extensive personal archives and distinctive fine art of acclaimed painter Juvenal Sansó.",
-                  "category": "museum",
-                  "coords": [
-                        121.036824,
-                        14.597911
                   ]
             },
             {
@@ -7205,15 +6989,6 @@ image: "/poi-images/blood-compact-shrine-history-v2.webp",
                   ]
             },
             {
-                  "name": "Imus Cathedral",
-                  "text": "Eine historische Kathedrale aus Kalkstein und Backstein mit einem kunstvollen Altaraufsatz.",
-                  "category": "religious",
-                  "coords": [
-                        120.936069,
-                        14.429779
-                  ]
-            },
-            {
                   "name": "St. Francis of Assisi Parish",
                   "text": "Eine im 18. Jahrhundert während der spanischen Kolonialzeit errichtete Steinkirche im Konventstil.",
                   "category": "religious",
@@ -7250,48 +7025,12 @@ image: "/poi-images/blood-compact-shrine-history-v2.webp",
                   ]
             },
             {
-                  "name": "Bacoor Hall of Justice",
-                  "text": "Ein Verwaltungsgebäude in der historischen Stadt Bacoor, dem Sitz der lokalen Justizbehörden.",
-                  "category": "historical",
-                  "coords": [
-                        120.940026,
-                        14.460586
-                  ]
-            },
-            {
-                  "name": "Cathedral of Saint Michael the Archangel",
-                  "text": "Der Sitz der Diözese Imus befindet sich in diesem historischen Bauwerk aus der spanischen Zeit.",
-                  "category": "religious",
-                  "coords": [
-                        120.941871,
-                        14.460041
-                  ]
-            },
-            {
                   "name": "The Holy Cross Parish Church",
                   "text": "Eine katholische Pfarrkirche, die die Gemeinde von Tanza seit dem späten 18. Jahrhundert betreut.",
                   "category": "religious",
                   "coords": [
                         120.856992,
                         14.40122
-                  ]
-            },
-            {
-                  "name": "Imus Bridge",
-                  "text": "Eine wichtige Brücke in Imus, die oft mit bedeutenden Ereignissen der philippinischen Revolution in Verbindung gebracht wird.",
-                  "category": "landmark",
-                  "coords": [
-                        120.942931,
-                        14.424132
-                  ]
-            },
-            {
-                  "name": "Plaza de Padre Mariano A. Gomez",
-                  "text": "Ein öffentlicher Platz in der Nähe der Kirche von Bacoor, benannt nach dem als Märtyrer gestorbenen Priester.",
-                  "category": "park",
-                  "coords": [
-                        120.940156,
-                        14.459593
                   ]
             },
             {
@@ -7522,15 +7261,6 @@ image: "/poi-images/blood-compact-shrine-history-v2.webp",
                   ]
             },
             {
-                  "name": "Imus Cathedral",
-                  "text": "Történelmi mészkő- és téglaszékesegyház, amely díszes oltárfaláról nevezetes.",
-                  "category": "religious",
-                  "coords": [
-                        120.936069,
-                        14.429779
-                  ]
-            },
-            {
                   "name": "St. Francis of Assisi Parish",
                   "text": "A spanyol gyarmati korszakban, a 18. században épült, kolostor stílusú kőtemplom.",
                   "category": "religious",
@@ -7567,48 +7297,12 @@ image: "/poi-images/blood-compact-shrine-history-v2.webp",
                   ]
             },
             {
-                  "name": "Bacoor Hall of Justice",
-                  "text": "Adminisztratív épület a történelmi Bacoor városában, a helyi igazságügyi hatóságok székhelye.",
-                  "category": "historical",
-                  "coords": [
-                        120.940026,
-                        14.460586
-                  ]
-            },
-            {
-                  "name": "Cathedral of Saint Michael the Archangel",
-                  "text": "Az Imusi egyházmegye székhelye, amely egy történelmi, spanyol kori épületben található.",
-                  "category": "religious",
-                  "coords": [
-                        120.941871,
-                        14.460041
-                  ]
-            },
-            {
                   "name": "The Holy Cross Parish Church",
                   "text": "Katolikus plébániatemplom, amely a 18. század vége óta szolgálja Tanza közösségét.",
                   "category": "religious",
                   "coords": [
                         120.856992,
                         14.40122
-                  ]
-            },
-            {
-                  "name": "Imus Bridge",
-                  "text": "Fontos híd Imusban, amely gyakran kapcsolódik a fülöp-szigeteki forradalom jelentős eseményeihez.",
-                  "category": "landmark",
-                  "coords": [
-                        120.942931,
-                        14.424132
-                  ]
-            },
-            {
-                  "name": "Plaza de Padre Mariano A. Gomez",
-                  "text": "A mártír papról elnevezett közterület a bacoori templom közelében.",
-                  "category": "park",
-                  "coords": [
-                        120.940156,
-                        14.459593
                   ]
             },
             {
@@ -7839,15 +7533,6 @@ image: "/poi-images/blood-compact-shrine-history-v2.webp",
                   ]
             },
             {
-                  "name": "Imus Cathedral",
-                  "text": "O catedrală istorică din calcar și cărămidă, cu un retablu ornamentat.",
-                  "category": "religious",
-                  "coords": [
-                        120.936069,
-                        14.429779
-                  ]
-            },
-            {
                   "name": "St. Francis of Assisi Parish",
                   "text": "O biserică de piatră în stil mănăstiresc, construită în secolul al XVIII-lea, în perioada colonială spaniolă.",
                   "category": "religious",
@@ -7884,48 +7569,12 @@ image: "/poi-images/blood-compact-shrine-history-v2.webp",
                   ]
             },
             {
-                  "name": "Bacoor Hall of Justice",
-                  "text": "O clădire administrativă în orașul istoric Bacoor, sediul autorităților judiciare locale.",
-                  "category": "historical",
-                  "coords": [
-                        120.940026,
-                        14.460586
-                  ]
-            },
-            {
-                  "name": "Cathedral of Saint Michael the Archangel",
-                  "text": "Sediul Diecezei de Imus, situat într-o structură istorică din epoca spaniolă.",
-                  "category": "religious",
-                  "coords": [
-                        120.941871,
-                        14.460041
-                  ]
-            },
-            {
                   "name": "The Holy Cross Parish Church",
                   "text": "O biserică parohială catolică ce deservește comunitatea din Tanza încă de la sfârșitul secolului al XVIII-lea.",
                   "category": "religious",
                   "coords": [
                         120.856992,
                         14.40122
-                  ]
-            },
-            {
-                  "name": "Imus Bridge",
-                  "text": "Un pod important din Imus, asociat adesea cu evenimente semnificative ale revoluției filipineze.",
-                  "category": "landmark",
-                  "coords": [
-                        120.942931,
-                        14.424132
-                  ]
-            },
-            {
-                  "name": "Plaza de Padre Mariano A. Gomez",
-                  "text": "O piață publică situată lângă biserica din Bacoor, numită după preotul martirizat.",
-                  "category": "park",
-                  "coords": [
-                        120.940156,
-                        14.459593
                   ]
             },
             {
@@ -8156,15 +7805,6 @@ image: "/poi-images/blood-compact-shrine-history-v2.webp",
                   ]
             },
             {
-                  "name": "Imus Cathedral",
-                  "text": "A historic limestone and brick cathedral featuring an ornate retablo.",
-                  "category": "religious",
-                  "coords": [
-                        120.936069,
-                        14.429779
-                  ]
-            },
-            {
                   "name": "St. Francis of Assisi Parish",
                   "text": "A convent-style stone church built during the Spanish colonial era in the 18th century.",
                   "category": "religious",
@@ -8201,48 +7841,12 @@ image: "/poi-images/blood-compact-shrine-history-v2.webp",
                   ]
             },
             {
-                  "name": "Bacoor Hall of Justice",
-                  "text": "An administrative building in the historic city of Bacoor, housing the local judicial authorities.",
-                  "category": "historical",
-                  "coords": [
-                        120.940026,
-                        14.460586
-                  ]
-            },
-            {
-                  "name": "Cathedral of Saint Michael the Archangel",
-                  "text": "The seat of the Diocese of Imus, located in a historic Spanish-era structure.",
-                  "category": "religious",
-                  "coords": [
-                        120.941871,
-                        14.460041
-                  ]
-            },
-            {
                   "name": "The Holy Cross Parish Church",
                   "text": "A Catholic parish church serving the Tanza community since the late 18th century.",
                   "category": "religious",
                   "coords": [
                         120.856992,
                         14.40122
-                  ]
-            },
-            {
-                  "name": "Imus Bridge",
-                  "text": "A key bridge in Imus, often associated with significant events of the Philippine Revolution.",
-                  "category": "landmark",
-                  "coords": [
-                        120.942931,
-                        14.424132
-                  ]
-            },
-            {
-                  "name": "Plaza de Padre Mariano A. Gomez",
-                  "text": "A public square named after the martyred priest, located near the Bacoor church.",
-                  "category": "park",
-                  "coords": [
-                        120.940156,
-                        14.459593
                   ]
             },
             {

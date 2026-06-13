@@ -933,15 +933,6 @@ export const poiExtraLaosEconomicV2: POI[] = [
     id: "savan-seno-special-economic-zone-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Wat Si Mongkhon Tai",
-                  "text": "Ein historischer thailändischer Tempel am Mekong in Mukdahan, der wichtige buddhistische Reliquien der Savan-Seno-Grenzregion beherbergt.",
-                  "category": "religious",
-                  "coords": [
-                        104.731032,
-                        16.543668
-                  ]
-            },
-            {
                   "name": "Phu Manorom",
                   "text": "Dieser markante Hügel im Savan-Seno-Wirtschaftsraum bietet einen Panoramablick über das Mekong-Tal und beherbergt eine große Buddhastatue.",
                   "category": "natural",
@@ -957,15 +948,6 @@ export const poiExtraLaosEconomicV2: POI[] = [
                   "coords": [
                         104.745433,
                         16.56263
-                  ]
-            },
-            {
-                  "name": "Savannakhet Museum;ຫໍພິພິທະພັນ ແຂວງສະຫວັນນະເຂດ",
-                  "text": "Dieses Provinzmuseum dokumentiert die reiche Geschichte, die ethnische Vielfalt und das französische Kolonialerbe des Savan-Seno-Gebiets.",
-                  "category": "museum",
-                  "coords": [
-                        104.746301,
-                        16.553972
                   ]
             },
             {
@@ -1241,15 +1223,6 @@ export const poiExtraLaosEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Wat Si Mongkhon Tai",
-                  "text": "Történelmi thai templom a Mekong partján, Mukdahanban, amely a Savan-Seno határvidék fontos buddhista ereklyéit őrzi.",
-                  "category": "religious",
-                  "coords": [
-                        104.731032,
-                        16.543668
-                  ]
-            },
-            {
                   "name": "Phu Manorom",
                   "text": "Ez a kiemelkedő hegy a Savan-Seno gazdasági övezetben panorámás kilátást nyújt a Mekong völgyére, és egy hatalmas Buddha-szobornak ad otthont.",
                   "category": "natural",
@@ -1265,15 +1238,6 @@ export const poiExtraLaosEconomicV2: POI[] = [
                   "coords": [
                         104.745433,
                         16.56263
-                  ]
-            },
-            {
-                  "name": "Savannakhet Museum;ຫໍພິພິທະພັນ ແຂວງສະຫວັນນະເຂດ",
-                  "text": "Ez a tartományi múzeum a Savan-Seno terület gazdag történelmét, etnikai sokszínűségét és francia gyarmati örökségét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        104.746301,
-                        16.553972
                   ]
             },
             {
@@ -1549,15 +1513,6 @@ export const poiExtraLaosEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Wat Si Mongkhon Tai",
-                  "text": "Un templu thailandez istoric situat de-a lungul râului Mekong în Mukdahan, adăpostind relicve budiste importante din regiunea de frontieră Savan-Seno.",
-                  "category": "religious",
-                  "coords": [
-                        104.731032,
-                        16.543668
-                  ]
-            },
-            {
                   "name": "Phu Manorom",
                   "text": "Acest deal proeminent din zona economică Savan-Seno oferă o vedere panoramică asupra văii Mekong și găzduiește o mare statuie a lui Buddha.",
                   "category": "natural",
@@ -1573,15 +1528,6 @@ export const poiExtraLaosEconomicV2: POI[] = [
                   "coords": [
                         104.745433,
                         16.56263
-                  ]
-            },
-            {
-                  "name": "Savannakhet Museum;ຫໍພິພິທະພັນ ແຂວງສະຫວັນນະເຂດ",
-                  "text": "Acest muzeu provincial documentează istoria bogată, diversitatea etnică și moștenirea colonială franceză a zonei Savan-Seno.",
-                  "category": "museum",
-                  "coords": [
-                        104.746301,
-                        16.553972
                   ]
             },
             {
@@ -1857,15 +1803,6 @@ export const poiExtraLaosEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Wat Si Mongkhon Tai",
-                  "text": "An historic Thai temple situated along the Mekong River in Mukdahan, housing important Buddhist relics of the Savan-Seno border region.",
-                  "category": "religious",
-                  "coords": [
-                        104.731032,
-                        16.543668
-                  ]
-            },
-            {
                   "name": "Phu Manorom",
                   "text": "This prominent hill in the Savan-Seno economic zone offers a panoramic view over the Mekong Valley and hosts a massive Buddha statue.",
                   "category": "natural",
@@ -1881,15 +1818,6 @@ export const poiExtraLaosEconomicV2: POI[] = [
                   "coords": [
                         104.745433,
                         16.56263
-                  ]
-            },
-            {
-                  "name": "Savannakhet Museum",
-                  "text": "This provincial museum documents the rich history, ethnic diversity, and French colonial heritage of the Savan-Seno area.",
-                  "category": "museum",
-                  "coords": [
-                        104.746301,
-                        16.553972
                   ]
             },
             {
@@ -4551,39 +4479,12 @@ export const poiExtraLaosEconomicV2: POI[] = [
     id: "houayxay-port-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Kaysone Monument",
-                  "text": "Ein Denkmal zu Ehren von Kaysone Phomvihane, dem ersten Anführer der laotischen Revolution.",
-                  "category": "historical",
-                  "coords": [
-                        100.416099,
-                        20.26598
-                  ]
-            },
-            {
                   "name": "Fort Carnot Viewpoint",
                   "text": "Dieser Aussichtspunkt bei der alten französischen Festung bietet den besten Blick auf Houayxay und den Mekong.",
                   "category": "natural",
                   "coords": [
                         100.415179,
                         20.272324
-                  ]
-            },
-            {
-                  "name": "Outdoor market",
-                  "text": "Ein lebhafter Morgenmarkt, auf dem lokale Bergvölker handgefertigte Waren und exotische Lebensmittel anbieten.",
-                  "category": "landmark",
-                  "coords": [
-                        100.408691,
-                        20.25332
-                  ]
-            },
-            {
-                  "name": "Giant Catfish",
-                  "text": "Diese Stätte widmet sich dem seltenen Mekong-Riesenwels, einem der größten Süßwasserfische der Welt.",
-                  "category": "landmark",
-                  "coords": [
-                        100.413191,
-                        20.252389
                   ]
             },
             {
@@ -4661,39 +4562,12 @@ export const poiExtraLaosEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Kaysone Monument",
-                  "text": "Emlékmű Kaysone Phomvihane, a laoszi forradalom első vezetőjének tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        100.416099,
-                        20.26598
-                  ]
-            },
-            {
                   "name": "Fort Carnot Viewpoint",
                   "text": "A régi francia erőd melletti kilátópontról nyílik a legjobb rálátás Houayxay városára és a Mekongra.",
                   "category": "natural",
                   "coords": [
                         100.415179,
                         20.272324
-                  ]
-            },
-            {
-                  "name": "Outdoor market",
-                  "text": "Élénk reggeli piac, ahol a helyi hegyi törzsek kézműves termékeket és egzotikus élelmiszereket árusítanak.",
-                  "category": "landmark",
-                  "coords": [
-                        100.408691,
-                        20.25332
-                  ]
-            },
-            {
-                  "name": "Giant Catfish",
-                  "text": "Ez a helyszín a ritka Mekong-óriásharcsának, a világ egyik legnagyobb édesvízi halának van szentelve.",
-                  "category": "landmark",
-                  "coords": [
-                        100.413191,
-                        20.252389
                   ]
             },
             {
@@ -4771,39 +4645,12 @@ export const poiExtraLaosEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Kaysone Monument",
-                  "text": "Un monument ridicat în onoarea lui Kaysone Phomvihane, primul lider al revoluției laoțiene.",
-                  "category": "historical",
-                  "coords": [
-                        100.416099,
-                        20.26598
-                  ]
-            },
-            {
                   "name": "Fort Carnot Viewpoint",
                   "text": "Acest punct de observare de lângă vechea fortăreață franceză oferă cea mai bună vedere asupra orașului Houayxay și a Mekongului.",
                   "category": "natural",
                   "coords": [
                         100.415179,
                         20.272324
-                  ]
-            },
-            {
-                  "name": "Outdoor market",
-                  "text": "O piață de dimineață plină de viață, unde triburile locale de munte vând produse artizanale și alimente exotice.",
-                  "category": "landmark",
-                  "coords": [
-                        100.408691,
-                        20.25332
-                  ]
-            },
-            {
-                  "name": "Giant Catfish",
-                  "text": "Acest sit este dedicat somnului gigant de Mekong, unul dintre cei mai mari pești de apă dulce din lume.",
-                  "category": "landmark",
-                  "coords": [
-                        100.413191,
-                        20.252389
                   ]
             },
             {
@@ -4881,39 +4728,12 @@ export const poiExtraLaosEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Kaysone Monument",
-                  "text": "A monument dedicated to Kaysone Phomvihane, the first leader of the Laotian revolution.",
-                  "category": "historical",
-                  "coords": [
-                        100.416099,
-                        20.26598
-                  ]
-            },
-            {
                   "name": "Fort Carnot Viewpoint",
                   "text": "This viewpoint by the old French fort offers the best vantage point over Houayxay and the Mekong River.",
                   "category": "natural",
                   "coords": [
                         100.415179,
                         20.272324
-                  ]
-            },
-            {
-                  "name": "Outdoor market",
-                  "text": "A bustling morning market where local hill tribes sell handmade goods and exotic food items.",
-                  "category": "landmark",
-                  "coords": [
-                        100.408691,
-                        20.25332
-                  ]
-            },
-            {
-                  "name": "Giant Catfish",
-                  "text": "This site is dedicated to the rare Mekong giant catfish, one of the world's largest freshwater fish.",
-                  "category": "landmark",
-                  "coords": [
-                        100.413191,
-                        20.252389
                   ]
             },
             {

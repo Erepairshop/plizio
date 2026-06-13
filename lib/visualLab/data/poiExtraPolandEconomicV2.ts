@@ -2394,15 +2394,6 @@ export const polandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Elka",
-                  "text": "50 Meter hohes Riesenrad mit Blick über das Geschäftsviertel.",
-                  "category": "landmark",
-                  "coords": [
-                        18.98565,
-                        50.282702
-                  ]
-            },
-            {
                   "name": "Wieża spadochronowa",
                   "text": "Fallschirmturm (Wieża spadochronowa), denkmalgeschützt im Katowice Business Center.",
                   "category": "tower",
@@ -2418,15 +2409,6 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         19.021779,
                         50.268341
-                  ]
-            },
-            {
-                  "name": "Skwer Walentego Fojkisa",
-                  "text": "Walenty-Fojkis-Platz in Kattowitz, eine Grünanlage mit Spielplatz und Bänken.",
-                  "category": "park",
-                  "coords": [
-                        19.017691,
-                        50.284343
                   ]
             },
             {
@@ -2454,24 +2436,6 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         19.004104,
                         50.243307
-                  ]
-            },
-            {
-                  "name": "Schlesischer Tierpark",
-                  "text": "Zoo mit über 2000 Tieren und einem Delfinarium.",
-                  "category": "family",
-                  "coords": [
-                        18.994016,
-                        50.282158
-                  ]
-            },
-            {
-                  "name": "Legendia Schlesischer Vergnügungspark",
-                  "text": "Legendia Śląskie Wesołe Miasteczko ist ein bekannter Freizeitpark im Geschäftszentrum Kattowitz.",
-                  "category": "family",
-                  "coords": [
-                        18.991634,
-                        50.275957
                   ]
             },
             {
@@ -2547,24 +2511,6 @@ export const polandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stawiki",
-                  "text": "Stawiki ist ein See im Katowice Business Center, der eine grüne Oase für kurze Pausen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        19.10933,
-                        50.273862
-                  ]
-            },
-            {
-                  "name": "Bolina",
-                  "text": "Bolina ist ein See in der Nähe des Katowice Business Center, ideal für einen Spaziergang im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        19.08792,
-                        50.237397
-                  ]
-            },
-            {
                   "name": "cybermagia",
                   "text": "cybermagia ist eine moderne Spielhalle im Katowice Business Center mit vielfältigen digitalen Spielen.",
                   "category": "family",
@@ -2634,15 +2580,6 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         18.993718,
                         50.253159
-                  ]
-            },
-            {
-                  "name": "Kąpielisko Fala",
-                  "text": "Dieser Wasserpark in der Region Katowice bietet familienfreundliche Pools und Rutschen.",
-                  "category": "family",
-                  "coords": [
-                        18.986024,
-                        50.285828
                   ]
             }
       ],
@@ -2963,15 +2900,6 @@ export const polandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Elka",
-                  "text": "50 méter magas óriáskerék kilátással az üzleti negyedre.",
-                  "category": "landmark",
-                  "coords": [
-                        18.98565,
-                        50.282702
-                  ]
-            },
-            {
                   "name": "Wieża spadochronowa",
                   "text": "Ejtőernyős torony (Wieża spadochronowa), műemlék a Katowice Business Centerben.",
                   "category": "tower",
@@ -2987,15 +2915,6 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         19.021779,
                         50.268341
-                  ]
-            },
-            {
-                  "name": "Skwer Walentego Fojkisa",
-                  "text": "Walenty Fojkis tér Katowicében, zöld terület játszótérrel és padokkal.",
-                  "category": "park",
-                  "coords": [
-                        19.017691,
-                        50.284343
                   ]
             },
             {
@@ -3023,24 +2942,6 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         19.004104,
                         50.243307
-                  ]
-            },
-            {
-                  "name": "Śląski Ogród Zoologiczny",
-                  "text": "Állatkert több mint 2000 állattal és delfináriummal.",
-                  "category": "family",
-                  "coords": [
-                        18.994016,
-                        50.282158
-                  ]
-            },
-            {
-                  "name": "Legendia Śląskie Wesołe Miasteczko",
-                  "text": "A Legendia Śląskie Wesołe Miasteczko egy ismert vidámpark a Geschäftszentrum Kattowitz területén.",
-                  "category": "family",
-                  "coords": [
-                        18.991634,
-                        50.275957
                   ]
             },
             {
@@ -3116,24 +3017,6 @@ export const polandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stawiki",
-                  "text": "A Stawiki egy tó a Katowice Business Centerben, amely zöld oázist kínál a rövid szünetekhez.",
-                  "category": "natural",
-                  "coords": [
-                        19.10933,
-                        50.273862
-                  ]
-            },
-            {
-                  "name": "Bolina",
-                  "text": "A Bolina egy tó a Katowice Business Center közelében, ideális egy szabadtéri sétához.",
-                  "category": "natural",
-                  "coords": [
-                        19.08792,
-                        50.237397
-                  ]
-            },
-            {
                   "name": "cybermagia",
                   "text": "A cybermagia egy modern játékterem a Katowice Business Centerben, változatos digitális játékokkal.",
                   "category": "family",
@@ -3203,15 +3086,6 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         18.993718,
                         50.253159
-                  ]
-            },
-            {
-                  "name": "Kąpielisko Fala",
-                  "text": "Ez a Katowice környéki vízipark családbarát medencéket és csúszdákat kínál.",
-                  "category": "family",
-                  "coords": [
-                        18.986024,
-                        50.285828
                   ]
             }
       ],
@@ -3532,15 +3406,6 @@ export const polandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Elka",
-                  "text": "Roata mare de 50 de metri cu vedere asupra cartierului de afaceri.",
-                  "category": "landmark",
-                  "coords": [
-                        18.98565,
-                        50.282702
-                  ]
-            },
-            {
                   "name": "Wieża spadochronowa",
                   "text": "Turnul de parașute (Wieża spadochronowa), monument protejat în Katowice Business Center.",
                   "category": "tower",
@@ -3556,15 +3421,6 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         19.021779,
                         50.268341
-                  ]
-            },
-            {
-                  "name": "Skwer Walentego Fojkisa",
-                  "text": "Piața Walenty Fojkis din Katowice, o zonă verde cu loc de joacă și bănci.",
-                  "category": "park",
-                  "coords": [
-                        19.017691,
-                        50.284343
                   ]
             },
             {
@@ -3592,24 +3448,6 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         19.004104,
                         50.243307
-                  ]
-            },
-            {
-                  "name": "Śląski Ogród Zoologiczny",
-                  "text": "Grădină zoologică cu peste 2000 de animale și un delfinariu.",
-                  "category": "family",
-                  "coords": [
-                        18.994016,
-                        50.282158
-                  ]
-            },
-            {
-                  "name": "Legendia Śląskie Wesołe Miasteczko",
-                  "text": "Legendia Śląskie Wesołe Miasteczko este un parc de distracții notabil în Geschäftszentrum Kattowitz.",
-                  "category": "family",
-                  "coords": [
-                        18.991634,
-                        50.275957
                   ]
             },
             {
@@ -3685,24 +3523,6 @@ export const polandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stawiki",
-                  "text": "Stawiki este un lac în Katowice Business Center, oferind o oază de verdeață pentru pauze scurte.",
-                  "category": "natural",
-                  "coords": [
-                        19.10933,
-                        50.273862
-                  ]
-            },
-            {
-                  "name": "Bolina",
-                  "text": "Bolina este un lac în apropiere de Katowice Business Center, ideal pentru o plimbare în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        19.08792,
-                        50.237397
-                  ]
-            },
-            {
                   "name": "cybermagia",
                   "text": "cybermagia este o sală de jocuri modernă în Katowice Business Center, cu diverse jocuri digitale.",
                   "category": "family",
@@ -3772,15 +3592,6 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         18.993718,
                         50.253159
-                  ]
-            },
-            {
-                  "name": "Kąpielisko Fala",
-                  "text": "Acest parc acvatic din zona Katowice oferă piscine și tobogane potrivite pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        18.986024,
-                        50.285828
                   ]
             }
       ],
@@ -4101,15 +3912,6 @@ export const polandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Elka",
-                  "text": "50m high Ferris wheel overlooking the business district.",
-                  "category": "landmark",
-                  "coords": [
-                        18.98565,
-                        50.282702
-                  ]
-            },
-            {
                   "name": "Wieża spadochronowa",
                   "text": "Parachute tower (Wieża spadochronowa), a listed tower in Katowice Business Center.",
                   "category": "tower",
@@ -4125,15 +3927,6 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         19.021779,
                         50.268341
-                  ]
-            },
-            {
-                  "name": "Skwer Walentego Fojkisa",
-                  "text": "Square of Walenty Fojkis in Katowice, a green area with a playground and benches.",
-                  "category": "park",
-                  "coords": [
-                        19.017691,
-                        50.284343
                   ]
             },
             {
@@ -4161,24 +3954,6 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         19.004104,
                         50.243307
-                  ]
-            },
-            {
-                  "name": "Śląski Ogród Zoologiczny",
-                  "text": "Zoo with over 2,000 animals and a dolphinarium.",
-                  "category": "family",
-                  "coords": [
-                        18.994016,
-                        50.282158
-                  ]
-            },
-            {
-                  "name": "Legendia Śląskie Wesołe Miasteczko",
-                  "text": "Legendia Śląskie Wesołe Miasteczko is a notable theme park located in Geschäftszentrum Kattowitz.",
-                  "category": "family",
-                  "coords": [
-                        18.991634,
-                        50.275957
                   ]
             },
             {
@@ -4254,24 +4029,6 @@ export const polandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stawiki",
-                  "text": "Stawiki is a lake at Katowice Business Center, providing a green oasis for short breaks.",
-                  "category": "natural",
-                  "coords": [
-                        19.10933,
-                        50.273862
-                  ]
-            },
-            {
-                  "name": "Bolina",
-                  "text": "Bolina is a lake near Katowice Business Center, ideal for an outdoor walk.",
-                  "category": "natural",
-                  "coords": [
-                        19.08792,
-                        50.237397
-                  ]
-            },
-            {
                   "name": "cybermagia",
                   "text": "cybermagia is a modern amusement arcade in Katowice Business Center featuring various digital games.",
                   "category": "family",
@@ -4341,15 +4098,6 @@ export const polandEconomicV2: POI[] = [
                   "coords": [
                         18.993718,
                         50.253159
-                  ]
-            },
-            {
-                  "name": "Kąpielisko Fala",
-                  "text": "This water park in the Katowice area offers family-friendly pools and slides.",
-                  "category": "family",
-                  "coords": [
-                        18.986024,
-                        50.285828
                   ]
             }
       ]

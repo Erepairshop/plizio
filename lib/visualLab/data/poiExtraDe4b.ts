@@ -469,30 +469,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Schmidts TIVOLI",
-                  "text": "Ein bekanntes Privattheater auf der Hamburger Reeperbahn, berühmt für seine Revuen und Musicals.",
-                  "category": "cultural",
-                  "coords": [
-                        9.963342,
-                        53.549127
-                  ]
-            },
-            {
                   "name": "Theater für Kinder",
                   "text": "Das erste private Theater für Kinder in Deutschland, gelegen im Hamburger Stadtteil Altona.",
                   "category": "cultural",
                   "coords": [
                         9.941885,
                         53.554847
-                  ]
-            },
-            {
-                  "name": "Kellertheater Hamburg",
-                  "text": "Ein kleines, unabhängiges Theater in Hamburg, das seit den 1950er Jahren zeitgenössische Stücke aufführt.",
-                  "category": "cultural",
-                  "coords": [
-                        9.979256,
-                        53.554823
                   ]
             },
             {
@@ -586,33 +568,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Övelgönne",
-                  "text": "Historischer Ortsteil an der Elbe mit Sandstrand und denkmalgeschützten Fischerhäusern.",
-                  "category": "recreational",
-                  "coords": [
-                        9.90596,
-                        53.544274
-                  ]
-            },
-            {
-                  "name": "Stage Theater Neue Flora",
-                  "text": "Eines der größten Musicaltheater Deutschlands, gelegen im Hamburger Stadtteil Altona.",
-                  "category": "cultural",
-                  "coords": [
-                        9.950268,
-                        53.562634
-                  ]
-            },
-            {
-                  "name": "DELPHI Showpalast",
-                  "text": "Traditionsreiches Varieté-Theater und Veranstaltungsort im Hamburger Stadtteil Eimsbüttel.",
-                  "category": "cultural",
-                  "coords": [
-                        9.958057,
-                        53.565832
-                  ]
-            },
-            {
                   "name": "Stadtteilarchiv Ottensen e.V.",
                   "text": "Ein Archiv und Museum in Altona, das sich der Dokumentation und Erforschung der lokalen Geschichte von Ottensen widmet.",
                   "category": "museum",
@@ -655,15 +610,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.92853,
                         53.546246
-                  ]
-            },
-            {
-                  "name": "Kaifu Sommerfreibad",
-                  "text": "Der weitläufige Außenbereich des traditionsreichen Kaifu-Bades, ideal für sportliches Schwimmen im Sommer.",
-                  "category": "family",
-                  "coords": [
-                        9.962712,
-                        53.571872
                   ]
             },
             {
@@ -739,15 +685,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Henry-Vahl-Park",
-                  "text": "Eine gepflegte Grünanlage in Altona, die dem beliebten Hamburger Volksschauspieler Henry Vahl gewidmet ist.",
-                  "category": "park",
-                  "coords": [
-                        9.954259,
-                        53.576369
-                  ]
-            },
-            {
                   "name": "Bismarck-Denkmal",
                   "text": "Das weltweit größte Standbild für Otto von Bismarck ragt imposant über dem Hamburger Hafen auf.",
                   "category": "historical",
@@ -784,48 +721,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Unna-Park",
-                  "text": "Diese Parkanlage in Altona ist nach dem bedeutenden Hamburger Dermatologen Paul Gerson Unna benannt.",
-                  "category": "park",
-                  "coords": [
-                        9.949652,
-                        53.575394
-                  ]
-            },
-            {
                   "name": "Wiese Mitte Altona",
                   "text": "Ein zentraler Park im Stadtteil Altona für Freizeit und Erholung im Grünen.",
                   "category": "park",
                   "coords": [
                         9.937874,
                         53.560643
-                  ]
-            },
-            {
-                  "name": "Schilleroper",
-                  "text": "Die markante Ruine eines ehemaligen Zirkus- und Opernhauses im Hamburger Stadtteil Altona.",
-                  "category": "historical",
-                  "coords": [
-                        9.961749,
-                        53.558006
-                  ]
-            },
-            {
-                  "name": "Parksee",
-                  "text": "Der Parksee in Altona ist ein zentral gelegenes Gewässer in einer Grünanlage.",
-                  "category": "natural",
-                  "coords": [
-                        9.981157,
-                        53.561992
-                  ]
-            },
-            {
-                  "name": "Rückhaltebecken Kronsaalsweg",
-                  "text": "Das Rückhaltebecken Kronsaalsweg in Altona fügt sich in die lokale Umgebung ein.",
-                  "category": "natural",
-                  "coords": [
-                        9.913848,
-                        53.597839
                   ]
             },
             {
@@ -847,42 +748,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Schiffloch",
-                  "text": "Schiffloch: ein Gewässer im Hamburger Stadtteil Altona-Schiffloch.",
-                  "category": "natural",
-                  "coords": [
-                        9.998141,
-                        53.580493
-                  ]
-            },
-            {
-                  "name": "Bürgerhaus-See",
-                  "text": "Der Bürgerhaus-See in Altona ist ein See, der zum Spazierengehen und zur Erholung in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        9.996504,
-                        53.500141
-                  ]
-            },
-            {
-                  "name": "Außenalster",
-                  "text": "Die Außenalster in Altona ist ein See, der zum Spazierengehen und zur Erholung in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        10.005994,
-                        53.568917
-                  ]
-            },
-            {
-                  "name": "Binnenalster",
-                  "text": "Die Binnenalster in Altona ist ein See, der zum Spazierengehen und zur Erholung in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        9.995706,
-                        53.554798
-                  ]
-            },
-            {
                   "name": "Alte Süderelbe",
                   "text": "Die Alte Süderelbe in Altona ist ein See, der zum Spazierengehen und zur Erholung in der Natur einlädt.",
                   "category": "natural",
@@ -892,48 +757,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Kloksi",
-                  "text": "Der Spielplatz Kloksi in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
-                  "category": "family",
-                  "coords": [
-                        9.966029,
-                        53.567894
-                  ]
-            },
-            {
                   "name": "Hof Spielplatz",
                   "text": "Der Hof Spielplatz in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
                   "category": "family",
                   "coords": [
                         9.907891,
                         53.568419
-                  ]
-            },
-            {
-                  "name": "Spielplatz Am Ziegelteich",
-                  "text": "Der Spielplatz Am Ziegelteich in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
-                  "category": "family",
-                  "coords": [
-                        9.933895,
-                        53.574362
-                  ]
-            },
-            {
-                  "name": "Spielplatz Paulsenplatz",
-                  "text": "Der Spielplatz Paulsenplatz in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
-                  "category": "family",
-                  "coords": [
-                        9.956917,
-                        53.559754
-                  ]
-            },
-            {
-                  "name": "Spielplatz Bellealliancestraße",
-                  "text": "Der Spielplatz Bellealliancestraße in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
-                  "category": "family",
-                  "coords": [
-                        9.961771,
-                        53.568775
                   ]
             },
             {
@@ -952,15 +781,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.947604,
                         53.569101
-                  ]
-            },
-            {
-                  "name": "Spielplatz Alsenpark",
-                  "text": "Der Spielplatz Alsenpark in Altona bietet vielfältige Spielmöglichkeiten für Kinder und ist ein Ziel für Familien.",
-                  "category": "family",
-                  "coords": [
-                        9.949995,
-                        53.565776
                   ]
             },
             {
@@ -1089,30 +909,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Schmidts TIVOLI",
-                  "text": "Ismert magánszínház a hamburgi Reeperbahnon, amely revüiről és musicaljeiről híres.",
-                  "category": "cultural",
-                  "coords": [
-                        9.963342,
-                        53.549127
-                  ]
-            },
-            {
                   "name": "Theater für Kinder",
                   "text": "Németország első magán gyermekszínháza, amely Hamburg Altona negyedében található.",
                   "category": "cultural",
                   "coords": [
                         9.941885,
                         53.554847
-                  ]
-            },
-            {
-                  "name": "Kellertheater Hamburg",
-                  "text": "Kicsi, független színház Hamburgban, amely az 1950-es évek óta játszik kortárs darabokat.",
-                  "category": "cultural",
-                  "coords": [
-                        9.979256,
-                        53.554823
                   ]
             },
             {
@@ -1206,33 +1008,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Övelgönne",
-                  "text": "Történelmi halászfalu az Elba partján, homokos stranddal és régi kapitányházakkal.",
-                  "category": "recreational",
-                  "coords": [
-                        9.90596,
-                        53.544274
-                  ]
-            },
-            {
-                  "name": "Stage Theater Neue Flora",
-                  "text": "Németország egyik legnagyobb musicalszínháza Hamburg Altona negyedében.",
-                  "category": "cultural",
-                  "coords": [
-                        9.950268,
-                        53.562634
-                  ]
-            },
-            {
-                  "name": "DELPHI Showpalast",
-                  "text": "Rendezvényhelyszín és varieté-színház Hamburg Eimsbüttel negyedében, látványos show-műsorokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        9.958057,
-                        53.565832
-                  ]
-            },
-            {
                   "name": "Stadtteilarchiv Ottensen e.V.",
                   "text": "Altonai archívum és múzeum, amely Ottensen negyed helyi történelmének dokumentálásával foglalkozik.",
                   "category": "museum",
@@ -1275,15 +1050,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.92853,
                         53.546246
-                  ]
-            },
-            {
-                  "name": "Kaifu Sommerfreibad",
-                  "text": "A patinás Kaifu-Bad tágas szabadtéri része, amely ideális a nyári sportoláshoz és úszáshoz.",
-                  "category": "family",
-                  "coords": [
-                        9.962712,
-                        53.571872
                   ]
             },
             {
@@ -1359,15 +1125,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Henry-Vahl-Park",
-                  "text": "Gondozott park Altonában, amelyet a népszerű hamburgi színész, Henry Vahl emlékére neveztek el.",
-                  "category": "park",
-                  "coords": [
-                        9.954259,
-                        53.576369
-                  ]
-            },
-            {
                   "name": "Bismarck-Denkmal",
                   "text": "Otto von Bismarck világviszonylatban is legnagyobb szobra impozánsan magasodik a hamburgi kikötő fölé.",
                   "category": "historical",
@@ -1404,48 +1161,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Unna-Park",
-                  "text": "Ezt az altonai parkot a neves hamburgi bőrgyógyászról, Paul Gerson Unnáról nevezték el.",
-                  "category": "park",
-                  "coords": [
-                        9.949652,
-                        53.575394
-                  ]
-            },
-            {
                   "name": "Wiese Mitte Altona",
                   "text": "Központi park Altona negyedében, amely pihenésre és szabadidős tevékenységekre szolgál.",
                   "category": "park",
                   "coords": [
                         9.937874,
                         53.560643
-                  ]
-            },
-            {
-                  "name": "Schilleroper",
-                  "text": "Egy egykori hamburgi cirkusz- és operaház jellegzetes romjai Altona negyedében.",
-                  "category": "historical",
-                  "coords": [
-                        9.961749,
-                        53.558006
-                  ]
-            },
-            {
-                  "name": "Parksee",
-                  "text": "Az altonai Parksee egy központi fekvésű tó egy parkban.",
-                  "category": "natural",
-                  "coords": [
-                        9.981157,
-                        53.561992
-                  ]
-            },
-            {
-                  "name": "Rückhaltebecken Kronsaalsweg",
-                  "text": "Az altonai Kronsaalsweg visszatartó medence illeszkedik a helyi környezetbe.",
-                  "category": "natural",
-                  "coords": [
-                        9.913848,
-                        53.597839
                   ]
             },
             {
@@ -1467,42 +1188,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Schiffloch",
-                  "text": "Schiffloch: egy víztest Hamburg Altona-Schiffloch negyedében.",
-                  "category": "natural",
-                  "coords": [
-                        9.998141,
-                        53.580493
-                  ]
-            },
-            {
-                  "name": "Bürgerhaus-See",
-                  "text": "Az Altona városában található Bürgerhaus-See egy tó, amely kikapcsolódást és kellemes sétákat kínál a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        9.996504,
-                        53.500141
-                  ]
-            },
-            {
-                  "name": "Außenalster",
-                  "text": "Az Altona városában található Außenalster egy tó, amely kikapcsolódást és kellemes sétákat kínál a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        10.005994,
-                        53.568917
-                  ]
-            },
-            {
-                  "name": "Binnenalster",
-                  "text": "Az Altona városában található Binnenalster egy tó, amely kikapcsolódást és kellemes sétákat kínál a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        9.995706,
-                        53.554798
-                  ]
-            },
-            {
                   "name": "Alte Süderelbe",
                   "text": "Az Altona városában található Alte Süderelbe egy tó, amely kikapcsolódást és kellemes sétákat kínál a természetben.",
                   "category": "natural",
@@ -1512,48 +1197,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Kloksi",
-                  "text": "Az Altona városában található Spielplatz Kloksi változatos játéklehetőségeket kínál a gyermekek és családok számára.",
-                  "category": "family",
-                  "coords": [
-                        9.966029,
-                        53.567894
-                  ]
-            },
-            {
                   "name": "Hof Spielplatz",
                   "text": "Az Altona városában található Hof Spielplatz változatos játéklehetőségeket kínál a gyermekek és családok számára.",
                   "category": "family",
                   "coords": [
                         9.907891,
                         53.568419
-                  ]
-            },
-            {
-                  "name": "Spielplatz Am Ziegelteich",
-                  "text": "Az Altona városában található Spielplatz Am Ziegelteich változatos játéklehetőségeket kínál a gyermekek és családok számára.",
-                  "category": "family",
-                  "coords": [
-                        9.933895,
-                        53.574362
-                  ]
-            },
-            {
-                  "name": "Spielplatz Paulsenplatz",
-                  "text": "Az Altona városában található Spielplatz Paulsenplatz változatos játéklehetőségeket kínál a gyermekek és családok számára.",
-                  "category": "family",
-                  "coords": [
-                        9.956917,
-                        53.559754
-                  ]
-            },
-            {
-                  "name": "Spielplatz Bellealliancestraße",
-                  "text": "Az Altona városában található Spielplatz Bellealliancestraße változatos játéklehetőségeket kínál a gyermekek és családok számára.",
-                  "category": "family",
-                  "coords": [
-                        9.961771,
-                        53.568775
                   ]
             },
             {
@@ -1572,15 +1221,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.947604,
                         53.569101
-                  ]
-            },
-            {
-                  "name": "Spielplatz Alsenpark",
-                  "text": "Az Altona városában található Spielplatz Alsenpark változatos játéklehetőségeket kínál a gyermekek és családok számára.",
-                  "category": "family",
-                  "coords": [
-                        9.949995,
-                        53.565776
                   ]
             },
             {
@@ -1709,30 +1349,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Schmidts TIVOLI",
-                  "text": "Un cunoscut teatru privat de pe Reeperbahn din Hamburg, renumit pentru revistele și musicalurile sale.",
-                  "category": "cultural",
-                  "coords": [
-                        9.963342,
-                        53.549127
-                  ]
-            },
-            {
                   "name": "Theater für Kinder",
                   "text": "Primul teatru privat pentru copii din Germania, situat în cartierul Altona din Hamburg.",
                   "category": "cultural",
                   "coords": [
                         9.941885,
                         53.554847
-                  ]
-            },
-            {
-                  "name": "Kellertheater Hamburg",
-                  "text": "Un teatru mic și independent din Hamburg, care pune în scenă piese contemporane încă din anii 1950.",
-                  "category": "cultural",
-                  "coords": [
-                        9.979256,
-                        53.554823
                   ]
             },
             {
@@ -1826,33 +1448,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Övelgönne",
-                  "text": "Cartier istoric pe malul Elbei, cu o plajă de nisip și case vechi de pescari protejate.",
-                  "category": "recreational",
-                  "coords": [
-                        9.90596,
-                        53.544274
-                  ]
-            },
-            {
-                  "name": "Stage Theater Neue Flora",
-                  "text": "Unul dintre cele mai mari teatre de musical din Germania, situat în districtul Altona din Hamburg.",
-                  "category": "cultural",
-                  "coords": [
-                        9.950268,
-                        53.562634
-                  ]
-            },
-            {
-                  "name": "DELPHI Showpalast",
-                  "text": "Loc de evenimente și teatru de varietăți în Hamburg-Eimsbüttel, specializat în spectacole și muzică.",
-                  "category": "cultural",
-                  "coords": [
-                        9.958057,
-                        53.565832
-                  ]
-            },
-            {
                   "name": "Stadtteilarchiv Ottensen e.V.",
                   "text": "O arhivă și un muzeu din Altona dedicate documentării și cercetării istoriei locale a cartierului Ottensen.",
                   "category": "museum",
@@ -1895,15 +1490,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.92853,
                         53.546246
-                  ]
-            },
-            {
-                  "name": "Kaifu Sommerfreibad",
-                  "text": "Zona exterioară spațioasă a băii tradiționale Kaifu, ideală pentru înot sportiv pe timpul verii.",
-                  "category": "family",
-                  "coords": [
-                        9.962712,
-                        53.571872
                   ]
             },
             {
@@ -1979,15 +1565,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Henry-Vahl-Park",
-                  "text": "Un spațiu verde îngrijit în Altona, dedicat popularului actor de teatru din Hamburg, Henry Vahl.",
-                  "category": "park",
-                  "coords": [
-                        9.954259,
-                        53.576369
-                  ]
-            },
-            {
                   "name": "Bismarck-Denkmal",
                   "text": "Cea mai mare statuie din lume dedicată lui Otto von Bismarck domină impunător portul Hamburg.",
                   "category": "historical",
@@ -2024,48 +1601,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Unna-Park",
-                  "text": "Acest parc din Altona poartă numele importantului dermatolog hamburghez Paul Gerson Unna.",
-                  "category": "park",
-                  "coords": [
-                        9.949652,
-                        53.575394
-                  ]
-            },
-            {
                   "name": "Wiese Mitte Altona",
                   "text": "Un parc central în districtul Altona, oferind spațiu pentru relaxare și activități în aer liber.",
                   "category": "park",
                   "coords": [
                         9.937874,
                         53.560643
-                  ]
-            },
-            {
-                  "name": "Schilleroper",
-                  "text": "Ruinele marcante ale unei foste case de operă și circ din districtul Altona al orașului Hamburg.",
-                  "category": "historical",
-                  "coords": [
-                        9.961749,
-                        53.558006
-                  ]
-            },
-            {
-                  "name": "Parksee",
-                  "text": "Lacul din parc din Altona este un corp de apă situat central într-un spațiu verde.",
-                  "category": "natural",
-                  "coords": [
-                        9.981157,
-                        53.561992
-                  ]
-            },
-            {
-                  "name": "Rückhaltebecken Kronsaalsweg",
-                  "text": "Bazinul de retenție Kronsaalsweg din Altona se integrează în mediul local.",
-                  "category": "natural",
-                  "coords": [
-                        9.913848,
-                        53.597839
                   ]
             },
             {
@@ -2087,42 +1628,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Schiffloch",
-                  "text": "Schiffloch: un corp de apă în cartierul Altona-Schiffloch din Hamburg.",
-                  "category": "natural",
-                  "coords": [
-                        9.998141,
-                        53.580493
-                  ]
-            },
-            {
-                  "name": "Bürgerhaus-See",
-                  "text": "Bürgerhaus-See din Altona este un lac ideal pentru plimbări relaxante și momente de liniște în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.996504,
-                        53.500141
-                  ]
-            },
-            {
-                  "name": "Außenalster",
-                  "text": "Außenalster din Altona este un lac ideal pentru plimbări relaxante și momente de liniște în natură.",
-                  "category": "natural",
-                  "coords": [
-                        10.005994,
-                        53.568917
-                  ]
-            },
-            {
-                  "name": "Binnenalster",
-                  "text": "Binnenalster din Altona este un lac ideal pentru plimbări relaxante și momente de liniște în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.995706,
-                        53.554798
-                  ]
-            },
-            {
                   "name": "Alte Süderelbe",
                   "text": "Alte Süderelbe din Altona este un lac ideal pentru plimbări relaxante și momente de liniște în natură.",
                   "category": "natural",
@@ -2132,48 +1637,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Kloksi",
-                  "text": "Spielplatz Kloksi din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        9.966029,
-                        53.567894
-                  ]
-            },
-            {
                   "name": "Hof Spielplatz",
                   "text": "Hof Spielplatz din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
                   "category": "family",
                   "coords": [
                         9.907891,
                         53.568419
-                  ]
-            },
-            {
-                  "name": "Spielplatz Am Ziegelteich",
-                  "text": "Spielplatz Am Ziegelteich din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        9.933895,
-                        53.574362
-                  ]
-            },
-            {
-                  "name": "Spielplatz Paulsenplatz",
-                  "text": "Spielplatz Paulsenplatz din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        9.956917,
-                        53.559754
-                  ]
-            },
-            {
-                  "name": "Spielplatz Bellealliancestraße",
-                  "text": "Spielplatz Bellealliancestraße din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        9.961771,
-                        53.568775
                   ]
             },
             {
@@ -2192,15 +1661,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.947604,
                         53.569101
-                  ]
-            },
-            {
-                  "name": "Spielplatz Alsenpark",
-                  "text": "Spielplatz Alsenpark din Altona oferă diverse posibilități de joacă pentru copii și este o destinație pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        9.949995,
-                        53.565776
                   ]
             },
             {
@@ -2329,30 +1789,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Schmidts TIVOLI",
-                  "text": "A well-known private theatre on Hamburg's Reeperbahn, famous for its revues and musicals.",
-                  "category": "cultural",
-                  "coords": [
-                        9.963342,
-                        53.549127
-                  ]
-            },
-            {
                   "name": "Theater für Kinder",
                   "text": "The first private theatre for children in Germany, located in Hamburg's Altona district.",
                   "category": "cultural",
                   "coords": [
                         9.941885,
                         53.554847
-                  ]
-            },
-            {
-                  "name": "Kellertheater Hamburg",
-                  "text": "A small, independent theatre in Hamburg that has been performing contemporary plays since the 1950s.",
-                  "category": "cultural",
-                  "coords": [
-                        9.979256,
-                        53.554823
                   ]
             },
             {
@@ -2446,33 +1888,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Övelgönne",
-                  "text": "Historic riverside area on the Elbe featuring a sandy beach and heritage-listed pilot houses.",
-                  "category": "recreational",
-                  "coords": [
-                        9.90596,
-                        53.544274
-                  ]
-            },
-            {
-                  "name": "Stage Theater Neue Flora",
-                  "text": "One of Germany's largest musical theatres, located in the Altona district of Hamburg.",
-                  "category": "cultural",
-                  "coords": [
-                        9.950268,
-                        53.562634
-                  ]
-            },
-            {
-                  "name": "DELPHI Showpalast",
-                  "text": "Event venue and variety theatre in Hamburg-Eimsbüttel focusing on shows and music.",
-                  "category": "cultural",
-                  "coords": [
-                        9.958057,
-                        53.565832
-                  ]
-            },
-            {
                   "name": "Stadtteilarchiv Ottensen e.V.",
                   "text": "An archive and museum in Altona dedicated to documenting and researching the local history of Ottensen.",
                   "category": "museum",
@@ -2515,15 +1930,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.92853,
                         53.546246
-                  ]
-            },
-            {
-                  "name": "Kaifu Sommerfreibad",
-                  "text": "The spacious outdoor area of the traditional Kaifu-Bad, ideal for lap swimming during the summer.",
-                  "category": "family",
-                  "coords": [
-                        9.962712,
-                        53.571872
                   ]
             },
             {
@@ -2599,15 +2005,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Henry-Vahl-Park",
-                  "text": "A well-kept green space in Altona dedicated to the popular Hamburg folk actor Henry Vahl.",
-                  "category": "park",
-                  "coords": [
-                        9.954259,
-                        53.576369
-                  ]
-            },
-            {
                   "name": "Bismarck-Denkmal",
                   "text": "The world's largest statue of Otto von Bismarck rises imposingly above the Hamburg harbor.",
                   "category": "historical",
@@ -2644,48 +2041,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Unna-Park",
-                  "text": "This park in Altona is named after the prominent Hamburg dermatologist Paul Gerson Unna.",
-                  "category": "park",
-                  "coords": [
-                        9.949652,
-                        53.575394
-                  ]
-            },
-            {
                   "name": "Wiese Mitte Altona",
                   "text": "A central park in the Altona district, providing space for relaxation and outdoor activities.",
                   "category": "park",
                   "coords": [
                         9.937874,
                         53.560643
-                  ]
-            },
-            {
-                  "name": "Schilleroper",
-                  "text": "The striking ruins of a former circus and opera house in the Altona district of Hamburg.",
-                  "category": "historical",
-                  "coords": [
-                        9.961749,
-                        53.558006
-                  ]
-            },
-            {
-                  "name": "Parksee",
-                  "text": "The Parksee in Altona is a centrally located body of water in a green area.",
-                  "category": "natural",
-                  "coords": [
-                        9.981157,
-                        53.561992
-                  ]
-            },
-            {
-                  "name": "Rückhaltebecken Kronsaalsweg",
-                  "text": "The retention basin on Kronsaalsweg in Altona blends into the local environment.",
-                  "category": "natural",
-                  "coords": [
-                        9.913848,
-                        53.597839
                   ]
             },
             {
@@ -2707,42 +2068,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Schiffloch",
-                  "text": "Schiffloch: a water body in Hamburg's Altona-Schiffloch district.",
-                  "category": "natural",
-                  "coords": [
-                        9.998141,
-                        53.580493
-                  ]
-            },
-            {
-                  "name": "Bürgerhaus-See",
-                  "text": "The Bürgerhaus-See in Altona is a lake suitable for walks and enjoying the natural surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        9.996504,
-                        53.500141
-                  ]
-            },
-            {
-                  "name": "Außenalster",
-                  "text": "The Außenalster in Altona is a lake suitable for walks and enjoying the natural surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        10.005994,
-                        53.568917
-                  ]
-            },
-            {
-                  "name": "Binnenalster",
-                  "text": "The Binnenalster in Altona is a lake suitable for walks and enjoying the natural surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        9.995706,
-                        53.554798
-                  ]
-            },
-            {
                   "name": "Alte Süderelbe",
                   "text": "The Alte Süderelbe in Altona is a lake suitable for walks and enjoying the natural surroundings.",
                   "category": "natural",
@@ -2752,48 +2077,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Kloksi",
-                  "text": "Spielplatz Kloksi in Altona provides various play options for children and is a popular spot for families.",
-                  "category": "family",
-                  "coords": [
-                        9.966029,
-                        53.567894
-                  ]
-            },
-            {
                   "name": "Hof Spielplatz",
                   "text": "Hof Spielplatz in Altona provides various play options for children and is a popular spot for families.",
                   "category": "family",
                   "coords": [
                         9.907891,
                         53.568419
-                  ]
-            },
-            {
-                  "name": "Spielplatz Am Ziegelteich",
-                  "text": "Spielplatz Am Ziegelteich in Altona provides various play options for children and is a popular spot for families.",
-                  "category": "family",
-                  "coords": [
-                        9.933895,
-                        53.574362
-                  ]
-            },
-            {
-                  "name": "Spielplatz Paulsenplatz",
-                  "text": "Spielplatz Paulsenplatz in Altona provides various play options for children and is a popular spot for families.",
-                  "category": "family",
-                  "coords": [
-                        9.956917,
-                        53.559754
-                  ]
-            },
-            {
-                  "name": "Spielplatz Bellealliancestraße",
-                  "text": "Spielplatz Bellealliancestraße in Altona provides various play options for children and is a popular spot for families.",
-                  "category": "family",
-                  "coords": [
-                        9.961771,
-                        53.568775
                   ]
             },
             {
@@ -2812,15 +2101,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.947604,
                         53.569101
-                  ]
-            },
-            {
-                  "name": "Spielplatz Alsenpark",
-                  "text": "Spielplatz Alsenpark in Altona provides various play options for children and is a popular spot for families.",
-                  "category": "family",
-                  "coords": [
-                        9.949995,
-                        53.565776
                   ]
             },
             {
@@ -3133,15 +2413,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Burg Wentorf",
-                  "text": "Archäologische Stätte einer ehemaligen Niederungsburg in der Nähe von Hamburg-Bergedorf.",
-                  "category": "historical",
-                  "coords": [
-                        10.250582,
-                        53.494481
-                  ]
-            },
-            {
                   "name": "Fernmeldeturm Hamburg-Lohbrügge",
                   "text": "Markanter Fernmeldeturm aus Stahlbeton in Hamburg-Lohbrügge, der als Sendeanlage dient.",
                   "category": "tower",
@@ -3160,15 +2431,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Boberger See",
-                  "text": "Der Boberger See in Bergedorf liegt in einer reizvollen Landschaft und lädt zum Verweilen ein.",
-                  "category": "natural",
-                  "coords": [
-                        10.13561,
-                        53.514768
-                  ]
-            },
-            {
                   "name": "Westensee",
                   "text": "Der Westensee bei Bergedorf ist ein ruhiger Ort für Naturerlebnisse im Freien.",
                   "category": "natural",
@@ -3184,15 +2446,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         10.16279,
                         53.480498
-                  ]
-            },
-            {
-                  "name": "Regenwasserrückhaltebecken",
-                  "text": "Das Regenwasserrückhaltebecken in Bergedorf fügt sich als Wasserfläche in die Umgebung ein.",
-                  "category": "natural",
-                  "coords": [
-                        10.236796,
-                        53.518819
                   ]
             },
             {
@@ -3286,24 +2539,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Schaumanns Kamp Kehre",
-                  "text": "Der Spielplatz Schaumanns Kamp in Bergedorf lädt zum Spielen in einer ruhigen Umgebung ein.",
-                  "category": "family",
-                  "coords": [
-                        10.227562,
-                        53.501852
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Petersilienberg",
-                  "text": "Der Spielplatz am Petersilienberg in Bergedorf bietet vielfältige Spielmöglichkeiten für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        10.252961,
-                        53.498024
-                  ]
-            },
-            {
                   "name": "Kindertagesstätte Schulenbrook",
                   "text": "Der Spielplatz der Kindertagesstätte Schulenbrook in Bergedorf bietet einen geschützten Raum für Kinder.",
                   "category": "family",
@@ -3373,15 +2608,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Burg Wentorf",
-                  "text": "Egy egykori alföldi vár régészeti lelőhelye Hamburg-Bergedorf közelében.",
-                  "category": "historical",
-                  "coords": [
-                        10.250582,
-                        53.494481
-                  ]
-            },
-            {
                   "name": "Fernmeldeturm Hamburg-Lohbrügge",
                   "text": "Jellegzetes vasbeton távközlési torony Hamburg-Lohbrüggében, amely adótoronyként szolgál.",
                   "category": "tower",
@@ -3400,15 +2626,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Boberger See",
-                  "text": "A bergedorfi Boberger See szép táji környezetben fekszik, és pihenésre hív.",
-                  "category": "natural",
-                  "coords": [
-                        10.13561,
-                        53.514768
-                  ]
-            },
-            {
                   "name": "Westensee",
                   "text": "A Bergedorf közeli Westensee egy nyugodt hely a természet élvezetére a szabadban.",
                   "category": "natural",
@@ -3424,15 +2641,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         10.16279,
                         53.480498
-                  ]
-            },
-            {
-                  "name": "Regenwasserrückhaltebecken",
-                  "text": "A bergedorfi esővíz-visszatartó medence vízfelületként simul a környezetébe.",
-                  "category": "natural",
-                  "coords": [
-                        10.236796,
-                        53.518819
                   ]
             },
             {
@@ -3526,24 +2734,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Schaumanns Kamp Kehre",
-                  "text": "A bergedorfi Schaumanns Kamp játszótér nyugodt környezetben várja a gyerekeket.",
-                  "category": "family",
-                  "coords": [
-                        10.227562,
-                        53.501852
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Petersilienberg",
-                  "text": "A bergedorfi Petersilienberg játszótere változatos játéklehetőségeket kínál a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        10.252961,
-                        53.498024
-                  ]
-            },
-            {
                   "name": "Kindertagesstätte Schulenbrook",
                   "text": "A bergedorfi Schulenbrook óvoda játszótere védett teret biztosít a gyerekeknek.",
                   "category": "family",
@@ -3613,15 +2803,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Burg Wentorf",
-                  "text": "Sit arheologic al unei foste cetăți de câmpie în apropiere de Hamburg-Bergedorf.",
-                  "category": "historical",
-                  "coords": [
-                        10.250582,
-                        53.494481
-                  ]
-            },
-            {
                   "name": "Fernmeldeturm Hamburg-Lohbrügge",
                   "text": "Turn de telecomunicații proeminent din beton armat în Hamburg-Lohbrügge, servind ca emițător.",
                   "category": "tower",
@@ -3640,15 +2821,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Boberger See",
-                  "text": "Lacul Boberger See din Bergedorf este situat într-un peisaj atrăgător și invită la relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        10.13561,
-                        53.514768
-                  ]
-            },
-            {
                   "name": "Westensee",
                   "text": "Lacul Westensee de lângă Bergedorf este un loc liniștit pentru experiențe în natură.",
                   "category": "natural",
@@ -3664,15 +2836,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         10.16279,
                         53.480498
-                  ]
-            },
-            {
-                  "name": "Regenwasserrückhaltebecken",
-                  "text": "Bazinul de retenție a apei pluviale din Bergedorf este o suprafață de apă integrată în mediu.",
-                  "category": "natural",
-                  "coords": [
-                        10.236796,
-                        53.518819
                   ]
             },
             {
@@ -3766,24 +2929,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Schaumanns Kamp Kehre",
-                  "text": "Locul de joacă Schaumanns Kamp din Bergedorf invită la joacă într-un mediu liniștit.",
-                  "category": "family",
-                  "coords": [
-                        10.227562,
-                        53.501852
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Petersilienberg",
-                  "text": "Locul de joacă de pe Petersilienberg din Bergedorf oferă diverse oportunități de joacă pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        10.252961,
-                        53.498024
-                  ]
-            },
-            {
                   "name": "Kindertagesstätte Schulenbrook",
                   "text": "Locul de joacă al grădiniței Schulenbrook din Bergedorf oferă un spațiu protejat pentru copii.",
                   "category": "family",
@@ -3853,15 +2998,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Burg Wentorf",
-                  "text": "Archaeological site of a former lowland castle located near Hamburg-Bergedorf.",
-                  "category": "historical",
-                  "coords": [
-                        10.250582,
-                        53.494481
-                  ]
-            },
-            {
                   "name": "Fernmeldeturm Hamburg-Lohbrügge",
                   "text": "Prominent reinforced concrete telecommunication tower in Hamburg-Lohbrügge, serving as a transmitter.",
                   "category": "tower",
@@ -3880,15 +3016,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Boberger See",
-                  "text": "Boberger See in Bergedorf is located in a charming landscape and invites you to linger.",
-                  "category": "natural",
-                  "coords": [
-                        10.13561,
-                        53.514768
-                  ]
-            },
-            {
                   "name": "Westensee",
                   "text": "Westensee near Bergedorf is a quiet place for outdoor nature experiences.",
                   "category": "natural",
@@ -3904,15 +3031,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         10.16279,
                         53.480498
-                  ]
-            },
-            {
-                  "name": "Regenwasserrückhaltebecken",
-                  "text": "The rainwater retention basin in Bergedorf blends into the surroundings as a water surface.",
-                  "category": "natural",
-                  "coords": [
-                        10.236796,
-                        53.518819
                   ]
             },
             {
@@ -4003,24 +3121,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         10.232213,
                         53.476052
-                  ]
-            },
-            {
-                  "name": "Schaumanns Kamp Kehre",
-                  "text": "The Schaumanns Kamp playground in Bergedorf invites children to play in a quiet environment.",
-                  "category": "family",
-                  "coords": [
-                        10.227562,
-                        53.501852
-                  ]
-            },
-            {
-                  "name": "Spielplatz am Petersilienberg",
-                  "text": "The playground at Petersilienberg in Bergedorf offers various play opportunities for children.",
-                  "category": "family",
-                  "coords": [
-                        10.252961,
-                        53.498024
                   ]
             },
             {
@@ -4410,16 +3510,6 @@ export const poiExtraDe4b: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Harburger Rathaus",
-                  "text": "Ein prächtiger Backsteinbau im Stil der Neorenaissance, der das politische Herz des Bezirks Harburg bildet.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        9.980815,
-                        53.459883
-                  ]
-            },
-            {
                   "name": "Archäologisches Museum Hamburg",
                   "text": "Eines der bedeutendsten archäologischen Museen Norddeutschlands, das die Vor- und Frühgeschichte der Region zeigt.",
                   "category": "museum",
@@ -4427,16 +3517,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.97737,
                         53.45902
-                  ]
-            },
-            {
-                  "name": "Harburger Binnenhafen",
-                  "text": "Ein moderner High-Tech-Standort in historischer Hafenatmosphäre mit Brücken, Speichern und modernen Glasbauten.",
-                  "category": "port",
-                  "confidence": "high",
-                  "coords": [
-                        9.98689,
-                        53.468448
                   ]
             },
             {
@@ -4466,24 +3546,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.98173,
                         53.464306
-                  ]
-            },
-            {
-                  "name": "Harburger Schloss",
-                  "text": "Das historische Schloss liegt auf der Schlossinsel im Hamburger Stadtteil Harburg.",
-                  "category": "castle",
-                  "coords": [
-                        9.985318,
-                        53.469629
-                  ]
-            },
-            {
-                  "name": "Badestelle Finkenriek",
-                  "text": "Eine öffentliche Badestelle im Hamburger Süden für sommerliche Erholung.",
-                  "category": "recreational",
-                  "coords": [
-                        10.002285,
-                        53.473998
                   ]
             },
             {
@@ -4532,15 +3594,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Eichbaumsee",
-                  "text": "Ein beliebter See in Hamburg Harburg für Spaziergänge und Naturbeobachtungen.",
-                  "category": "natural",
-                  "coords": [
-                        10.103238,
-                        53.485172
-                  ]
-            },
-            {
                   "name": "See im Großen Moor",
                   "text": "Natursee in Hamburg Harburg, der zu einer friedlichen Auszeit im Grünen einlädt.",
                   "category": "natural",
@@ -4550,30 +3603,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Tidegebiet Kreetsand",
-                  "text": "Besonderes Tidegebiet in Hamburg Harburg, das interessante Einblicke in die Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        10.047004,
-                        53.500196
-                  ]
-            },
-            {
                   "name": "Teich am Kolk",
                   "text": "Ein kleiner, idyllischer Teich in Hamburg Harburg für eine ruhige Pause.",
                   "category": "natural",
                   "coords": [
                         9.982633,
                         53.399019
-                  ]
-            },
-            {
-                  "name": "Bürgerhaus-See",
-                  "text": "Dieser See in Hamburg Harburg ist ein schöner Ort für einen Spaziergang im Viertel.",
-                  "category": "natural",
-                  "coords": [
-                        9.996504,
-                        53.500141
                   ]
             },
             {
@@ -4604,24 +3639,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz an der Lutherkirche",
-                  "text": "Dieser Spielplatz in Hamburg Harburg bietet Familien einen angenehmen Ort zum Verweilen.",
-                  "category": "family",
-                  "coords": [
-                        9.959213,
-                        53.455231
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Hirschfeldplatz",
-                  "text": "Zentraler Treffpunkt in Hamburg Harburg für Kinder, um draußen zu spielen.",
-                  "category": "family",
-                  "coords": [
-                        9.968673,
-                        53.457248
-                  ]
-            },
-            {
                   "name": "Abenteuerspielplatz Harburg",
                   "text": "Abenteuerlicher Spielplatz in Hamburg Harburg, der zum Entdecken und Toben einlädt.",
                   "category": "family",
@@ -4640,30 +3657,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "An der Rennkoppel",
-                  "text": "Ein einladender Platz in Hamburg Harburg, an dem Kinder aktiv sein können.",
-                  "category": "family",
-                  "coords": [
-                        9.959664,
-                        53.464882
-                  ]
-            },
-            {
                   "name": "Kinderspielplatz Buchholzer Weg",
                   "text": "Dieser Spielplatz in Hamburg Harburg bietet Kindern abwechslungsreiche Spielmöglichkeiten.",
                   "category": "family",
                   "coords": [
                         9.991229,
                         53.431922
-                  ]
-            },
-            {
-                  "name": "Kiefernberg Spielplatz",
-                  "text": "Ein beliebter Spielplatz in Hamburg Harburg für Kinder aus der Nachbarschaft.",
-                  "category": "family",
-                  "coords": [
-                        9.951716,
-                        53.464289
                   ]
             },
             {
@@ -4683,37 +3682,9 @@ export const poiExtraDe4b: POI[] = [
                         9.983669,
                         53.455615
                   ]
-            },
-            {
-                  "name": "Spielplatz Woellmerstraße / Vorderhof",
-                  "text": "Ein einladender Spielplatz in Hamburg Harburg für Kinder jeden Alters.",
-                  "category": "family",
-                  "coords": [
-                        9.962355,
-                        53.466814
-                  ]
-            },
-            {
-                  "name": "Kinderbauernhof Kirchdorf",
-                  "text": "Der Kinderbauernhof Kirchdorf in Hamburg Harburg ermöglicht Kindern den Kontakt zu Nutztieren.",
-                  "category": "family",
-                  "coords": [
-                        10.012708,
-                        53.483254
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Harburgi városháza",
-                  "text": "Impozáns neoreneszánsz téglaépület, amely Harburg kerület politikai és adminisztratív központjaként szolgál.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        9.980815,
-                        53.459883
-                  ]
-            },
             {
                   "name": "Hamburgi Régészeti Múzeum",
                   "text": "Észak-Németország egyik legfontosabb régészeti gyűjteménye, amely a régió őstörténetét mutatja be interaktív módon.",
@@ -4722,16 +3693,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.97737,
                         53.45902
-                  ]
-            },
-            {
-                  "name": "Harburgi belső kikötő",
-                  "text": "Modern technológiai központ történelmi kikötői környezetben, ahol régi raktárak és üvegpaloták találkoznak.",
-                  "category": "port",
-                  "confidence": "high",
-                  "coords": [
-                        9.98689,
-                        53.468448
                   ]
             },
             {
@@ -4761,24 +3722,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.98173,
                         53.464306
-                  ]
-            },
-            {
-                  "name": "Harburger Schloss",
-                  "text": "Történelmi kastély Hamburg Harburg negyedében, a várkastély-szigeten.",
-                  "category": "castle",
-                  "coords": [
-                        9.985318,
-                        53.469629
-                  ]
-            },
-            {
-                  "name": "Badestelle Finkenriek",
-                  "text": "Nyilvános fürdőhely Hamburg déli részén, ideális nyári kikapcsolódáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        10.002285,
-                        53.473998
                   ]
             },
             {
@@ -4827,15 +3770,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Eichbaumsee",
-                  "text": "Kedvelt tó Hamburg Harburgban sétákhoz és természeti megfigyelésekhez.",
-                  "category": "natural",
-                  "coords": [
-                        10.103238,
-                        53.485172
-                  ]
-            },
-            {
                   "name": "See im Großen Moor",
                   "text": "Természetes tó Hamburg Harburgban, amely békés kikapcsolódásra hív a zöldben.",
                   "category": "natural",
@@ -4845,30 +3779,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Tidegebiet Kreetsand",
-                  "text": "Különleges árapály-terület Hamburg Harburgban, amely érdekes betekintést nyújt a természetbe.",
-                  "category": "natural",
-                  "coords": [
-                        10.047004,
-                        53.500196
-                  ]
-            },
-            {
                   "name": "Teich am Kolk",
                   "text": "Egy kicsi, idilli tavacska Hamburg Harburgban egy csendes pihenőhöz.",
                   "category": "natural",
                   "coords": [
                         9.982633,
                         53.399019
-                  ]
-            },
-            {
-                  "name": "Bürgerhaus-See",
-                  "text": "Ez a tó Hamburg Harburgban szép hely egy sétához a környéken.",
-                  "category": "natural",
-                  "coords": [
-                        9.996504,
-                        53.500141
                   ]
             },
             {
@@ -4899,24 +3815,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz an der Lutherkirche",
-                  "text": "Ez a hamburg-harburgi játszótér kellemes helyet kínál a családoknak az időtöltéshez.",
-                  "category": "family",
-                  "coords": [
-                        9.959213,
-                        53.455231
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Hirschfeldplatz",
-                  "text": "Központi találkozóhely Hamburg Harburgban a gyerekeknek a szabadtéri játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        9.968673,
-                        53.457248
-                  ]
-            },
-            {
                   "name": "Abenteuerspielplatz Harburg",
                   "text": "Kalandos játszótér Hamburg Harburgban, amely felfedezésre és hancúrozásra hív.",
                   "category": "family",
@@ -4935,30 +3833,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "An der Rennkoppel",
-                  "text": "Egy hívogató hely Hamburg Harburgban, ahol a gyerekek aktívak lehetnek.",
-                  "category": "family",
-                  "coords": [
-                        9.959664,
-                        53.464882
-                  ]
-            },
-            {
                   "name": "Kinderspielplatz Buchholzer Weg",
                   "text": "Ez a hamburg-harburgi játszótér változatos játéklehetőségeket kínál a gyerekeknek.",
                   "category": "family",
                   "coords": [
                         9.991229,
                         53.431922
-                  ]
-            },
-            {
-                  "name": "Kiefernberg Spielplatz",
-                  "text": "Népszerű játszótér Hamburg Harburgban a környékbeli gyerekek számára.",
-                  "category": "family",
-                  "coords": [
-                        9.951716,
-                        53.464289
                   ]
             },
             {
@@ -4978,37 +3858,9 @@ export const poiExtraDe4b: POI[] = [
                         9.983669,
                         53.455615
                   ]
-            },
-            {
-                  "name": "Spielplatz Woellmerstraße / Vorderhof",
-                  "text": "Hívogató játszótér Hamburg Harburgban minden korosztályú gyermek számára.",
-                  "category": "family",
-                  "coords": [
-                        9.962355,
-                        53.466814
-                  ]
-            },
-            {
-                  "name": "Kinderbauernhof Kirchdorf",
-                  "text": "A hamburgi Harburgban található Kirchdorf gyermekfarm lehetővé teszi a gyerekeknek a haszonállatokkal való ismerkedést.",
-                  "category": "family",
-                  "coords": [
-                        10.012708,
-                        53.483254
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Primăria din Harburg",
-                  "text": "O clădire impunătoare din cărămidă în stil neorenascentist, reprezentând centrul administrativ al districtului.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        9.980815,
-                        53.459883
-                  ]
-            },
             {
                   "name": "Muzeul Arheologic din Hamburg",
                   "text": "Situat în Harburg, acest muzeu prezintă istoria timpurie a regiunii prin exponate fascinante și descoperiri locale.",
@@ -5017,16 +3869,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.97737,
                         53.45902
-                  ]
-            },
-            {
-                  "name": "Portul interior Harburg",
-                  "text": "O zonă contrastantă unde arhitectura industrială veche întâlnește clădirile moderne de birouri și tehnologie.",
-                  "category": "port",
-                  "confidence": "high",
-                  "coords": [
-                        9.98689,
-                        53.468448
                   ]
             },
             {
@@ -5056,24 +3898,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.98173,
                         53.464306
-                  ]
-            },
-            {
-                  "name": "Harburger Schloss",
-                  "text": "Castelul istoric este situat pe insula castelului din cartierul Harburg din Hamburg.",
-                  "category": "castle",
-                  "coords": [
-                        9.985318,
-                        53.469629
-                  ]
-            },
-            {
-                  "name": "Badestelle Finkenriek",
-                  "text": "Un loc public de scăldat în sudul Hamburgului pentru recreere de vară.",
-                  "category": "recreational",
-                  "coords": [
-                        10.002285,
-                        53.473998
                   ]
             },
             {
@@ -5122,15 +3946,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Eichbaumsee",
-                  "text": "Un lac popular în Hamburg Harburg pentru plimbări și observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        10.103238,
-                        53.485172
-                  ]
-            },
-            {
                   "name": "See im Großen Moor",
                   "text": "Lac natural în Hamburg Harburg, care invită la o evadare liniștită în natură.",
                   "category": "natural",
@@ -5140,30 +3955,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Tidegebiet Kreetsand",
-                  "text": "Zonă specială de maree în Hamburg Harburg, care oferă perspective interesante asupra naturii.",
-                  "category": "natural",
-                  "coords": [
-                        10.047004,
-                        53.500196
-                  ]
-            },
-            {
                   "name": "Teich am Kolk",
                   "text": "Un iaz mic și idilic în Hamburg Harburg pentru o pauză liniștită.",
                   "category": "natural",
                   "coords": [
                         9.982633,
                         53.399019
-                  ]
-            },
-            {
-                  "name": "Bürgerhaus-See",
-                  "text": "Acest lac din Hamburg Harburg este un loc frumos pentru o plimbare în cartier.",
-                  "category": "natural",
-                  "coords": [
-                        9.996504,
-                        53.500141
                   ]
             },
             {
@@ -5194,24 +3991,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz an der Lutherkirche",
-                  "text": "Acest loc de joacă din Hamburg Harburg oferă familiilor un loc plăcut pentru relaxare.",
-                  "category": "family",
-                  "coords": [
-                        9.959213,
-                        53.455231
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Hirschfeldplatz",
-                  "text": "Loc de întâlnire central în Hamburg Harburg pentru copii, pentru joacă în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        9.968673,
-                        53.457248
-                  ]
-            },
-            {
                   "name": "Abenteuerspielplatz Harburg",
                   "text": "Loc de joacă aventuros în Hamburg Harburg, care invită la explorare și joacă.",
                   "category": "family",
@@ -5230,30 +4009,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "An der Rennkoppel",
-                  "text": "Un loc primitor în Hamburg Harburg unde copiii pot fi activi.",
-                  "category": "family",
-                  "coords": [
-                        9.959664,
-                        53.464882
-                  ]
-            },
-            {
                   "name": "Kinderspielplatz Buchholzer Weg",
                   "text": "Acest loc de joacă din Hamburg Harburg oferă copiilor posibilități variate de joacă.",
                   "category": "family",
                   "coords": [
                         9.991229,
                         53.431922
-                  ]
-            },
-            {
-                  "name": "Kiefernberg Spielplatz",
-                  "text": "Un loc de joacă popular în Hamburg Harburg pentru copiii din cartier.",
-                  "category": "family",
-                  "coords": [
-                        9.951716,
-                        53.464289
                   ]
             },
             {
@@ -5273,37 +4034,9 @@ export const poiExtraDe4b: POI[] = [
                         9.983669,
                         53.455615
                   ]
-            },
-            {
-                  "name": "Spielplatz Woellmerstraße / Vorderhof",
-                  "text": "Un loc de joacă primitor în Hamburg Harburg pentru copiii de toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        9.962355,
-                        53.466814
-                  ]
-            },
-            {
-                  "name": "Kinderbauernhof Kirchdorf",
-                  "text": "Ferma pentru copii Kirchdorf din Hamburg Harburg permite copiilor contactul cu animalele de fermă.",
-                  "category": "family",
-                  "coords": [
-                        10.012708,
-                        53.483254
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Harburg Town Hall",
-                  "text": "A magnificent Neo-Renaissance brick building that serves as the administrative heart of the Harburg district.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        9.980815,
-                        53.459883
-                  ]
-            },
             {
                   "name": "Archaeological Museum Hamburg",
                   "text": "A major museum in Harburg focusing on the prehistory and early history of Northern Germany and the Elbe region.",
@@ -5312,16 +4045,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.97737,
                         53.45902
-                  ]
-            },
-            {
-                  "name": "Harburg Inland Port",
-                  "text": "A revitalized harbor area combining historic warehouses and bridges with modern high-tech architecture.",
-                  "category": "port",
-                  "confidence": "high",
-                  "coords": [
-                        9.98689,
-                        53.468448
                   ]
             },
             {
@@ -5351,24 +4074,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.98173,
                         53.464306
-                  ]
-            },
-            {
-                  "name": "Harburger Schloss",
-                  "text": "The historic castle is located on the castle island in the Harburg district of Hamburg.",
-                  "category": "castle",
-                  "coords": [
-                        9.985318,
-                        53.469629
-                  ]
-            },
-            {
-                  "name": "Badestelle Finkenriek",
-                  "text": "A public swimming spot in southern Hamburg ideal for summer recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        10.002285,
-                        53.473998
                   ]
             },
             {
@@ -5417,15 +4122,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Eichbaumsee",
-                  "text": "A popular lake in Hamburg Harburg for walks and nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        10.103238,
-                        53.485172
-                  ]
-            },
-            {
                   "name": "See im Großen Moor",
                   "text": "Natural lake in Hamburg Harburg that invites you to a peaceful break in nature.",
                   "category": "natural",
@@ -5435,30 +4131,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Tidegebiet Kreetsand",
-                  "text": "Special tidal area in Hamburg Harburg that offers interesting insights into nature.",
-                  "category": "natural",
-                  "coords": [
-                        10.047004,
-                        53.500196
-                  ]
-            },
-            {
                   "name": "Teich am Kolk",
                   "text": "A small, idyllic pond in Hamburg Harburg for a quiet break.",
                   "category": "natural",
                   "coords": [
                         9.982633,
                         53.399019
-                  ]
-            },
-            {
-                  "name": "Bürgerhaus-See",
-                  "text": "This lake in Hamburg Harburg is a nice place for a walk in the neighborhood.",
-                  "category": "natural",
-                  "coords": [
-                        9.996504,
-                        53.500141
                   ]
             },
             {
@@ -5489,24 +4167,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz an der Lutherkirche",
-                  "text": "This playground in Hamburg Harburg offers families a pleasant place to spend time.",
-                  "category": "family",
-                  "coords": [
-                        9.959213,
-                        53.455231
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Hirschfeldplatz",
-                  "text": "Central meeting point in Hamburg Harburg for children to play outside.",
-                  "category": "family",
-                  "coords": [
-                        9.968673,
-                        53.457248
-                  ]
-            },
-            {
                   "name": "Abenteuerspielplatz Harburg",
                   "text": "Adventurous playground in Hamburg Harburg that invites discovery and romping.",
                   "category": "family",
@@ -5525,30 +4185,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "An der Rennkoppel",
-                  "text": "An inviting place in Hamburg Harburg where children can be active.",
-                  "category": "family",
-                  "coords": [
-                        9.959664,
-                        53.464882
-                  ]
-            },
-            {
                   "name": "Kinderspielplatz Buchholzer Weg",
                   "text": "This playground in Hamburg Harburg offers children varied play options.",
                   "category": "family",
                   "coords": [
                         9.991229,
                         53.431922
-                  ]
-            },
-            {
-                  "name": "Kiefernberg Spielplatz",
-                  "text": "A popular playground in Hamburg Harburg for local children.",
-                  "category": "family",
-                  "coords": [
-                        9.951716,
-                        53.464289
                   ]
             },
             {
@@ -5567,24 +4209,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         9.983669,
                         53.455615
-                  ]
-            },
-            {
-                  "name": "Spielplatz Woellmerstraße / Vorderhof",
-                  "text": "An inviting playground in Hamburg Harburg for children of all ages.",
-                  "category": "family",
-                  "coords": [
-                        9.962355,
-                        53.466814
-                  ]
-            },
-            {
-                  "name": "Kinderbauernhof Kirchdorf",
-                  "text": "The Kinderbauernhof Kirchdorf in Hamburg Harburg allows children to have contact with farm animals.",
-                  "category": "family",
-                  "coords": [
-                        10.012708,
-                        53.483254
                   ]
             }
       ]
@@ -6935,46 +5559,6 @@ export const poiExtraDe4b: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Schlossberghöhlen",
-                  "text": "Europas größte Buntsandsteinhöhlen mit riesigen Domen und geheimnisvollen Gängen unter der Ruine Hohenburg.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        7.34333,
-                        49.3211
-                  ]
-            },
-            {
-                  "name": "Römermuseum Schwarzenacker",
-                  "text": "Ein archäologisches Freilichtmuseum, das ausgegrabene Teile einer römischen Siedlung und Villen zeigt.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.31663,
-                        49.2828
-                  ]
-            },
-            {
-                  "name": "Schloss Karlsberg",
-                  "text": "Die Ruinen einer ehemals prunkvollen barocken Schlossanlage im Wald, heute ein Ziel für Wanderer.",
-                  "category": "castle",
-                  "confidence": "high",
-                  "coords": [
-                        7.37889,
-                        49.3347
-                  ]
-            },
-            {
-                  "name": "Jägersburger Weiher",
-                  "text": "Ein beliebtes Naherholungsgebiet mit Seen, Bootsverleih und einem Kletterpark am Stadtrand von Homburg.",
-                  "category": "lake",
-                  "confidence": "high",
-                  "coords": [
-                        7.312092,
-                        49.362156
-                  ]
-            },
-            {
                   "name": "Burgruine Hohenburg",
                   "text": "Mittelalterliche Burgruine auf dem Schlossberg mit weitem Blick über die Stadt Homburg.",
                   "category": "castle",
@@ -7008,15 +5592,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         7.359066,
                         49.313205
-                  ]
-            },
-            {
-                  "name": "Homburger Aqualit",
-                  "text": "Eine öffentliche Einrichtung in Homburg, die Besuchern Einblicke in die Welt der Aquaristik bietet.",
-                  "category": "family",
-                  "coords": [
-                        7.340626,
-                        49.322984
                   ]
             },
             {
@@ -7059,36 +5634,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Schwarzenackeri Római Múzeum",
-                  "text": "Régészeti szabadtéri múzeum, amely egy római kori település utcáit, házait és mozaikjait mutatja be.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.31663,
-                        49.2828
-                  ]
-            },
-            {
-                  "name": "Karlsberg-kastély romjai",
-                  "text": "Egy valaha pompás barokk kastély maradványai az erdő mélyén, amely ma kedvelt túracélpont.",
-                  "category": "castle",
-                  "confidence": "high",
-                  "coords": [
-                        7.37889,
-                        49.3347
-                  ]
-            },
-            {
-                  "name": "Jägersburgi-tavak",
-                  "text": "Népszerű pihenőövezet tavakkal, csónakázási lehetőséggel és kalandparkkal Homburg határában.",
-                  "category": "lake",
-                  "confidence": "high",
-                  "coords": [
-                        7.312092,
-                        49.362156
-                  ]
-            },
-            {
                   "name": "Burgruine Hohenburg",
                   "text": "Középkori várrom a Schlossberg-en, ahonnan pazar kilátás nyílik Homburg városára.",
                   "category": "castle",
@@ -7125,15 +5670,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Homburger Aqualit",
-                  "text": "Homburgi közintézmény, amely betekintést nyújt a látogatóknak az akvarisztika világába.",
-                  "category": "family",
-                  "coords": [
-                        7.340626,
-                        49.322984
-                  ]
-            },
-            {
                   "name": "Zollbahnhof",
                   "text": "Természetvédelmi területté alakított egykori vasúti terület védett biotópokkal.",
                   "category": "natural",
@@ -7162,36 +5698,6 @@ export const poiExtraDe4b: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Peșterile Schlossberg",
-                  "text": "Cele mai mari peșteri de gresie colorată din Europa, cu domuri uriașe săpate sub ruinele cetății Hohenburg.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        7.34333,
-                        49.3211
-                  ]
-            },
-            {
-                  "name": "Muzeul Roman Schwarzenacker",
-                  "text": "Un parc arheologic în aer liber care expune ruinele unui vicus roman, inclusiv case și ateliere reconstruite.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.31663,
-                        49.2828
-                  ]
-            },
-            {
-                  "name": "Castelul Karlsberg",
-                  "text": "Ruinele unui fost palat baroc grandios, situat într-o zonă împădurită ideală pentru drumeții istorice.",
-                  "category": "castle",
-                  "confidence": "high",
-                  "coords": [
-                        7.37889,
-                        49.3347
-                  ]
-            },
             {
                   "name": "Lacul Jägersburg",
                   "text": "Zonă de agrement cu lacuri, facilități pentru sporturi nautice și un parc de aventură în natură.",
@@ -7239,15 +5745,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Homburger Aqualit",
-                  "text": "O facilitate publică din Homburg care oferă vizitatorilor o incursiune în lumea acvatică.",
-                  "category": "family",
-                  "coords": [
-                        7.340626,
-                        49.322984
-                  ]
-            },
-            {
                   "name": "Zollbahnhof",
                   "text": "Un fost amplasament feroviar transformat în rezervație naturală cu biotopuri protejate.",
                   "category": "natural",
@@ -7276,46 +5773,6 @@ export const poiExtraDe4b: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Schlossberg Caves",
-                  "text": "Europe's largest colorful sandstone caves, featuring massive halls and tunnels underneath the Hohenburg ruins.",
-                  "category": "landmark",
-                  "confidence": "high",
-                  "coords": [
-                        7.34333,
-                        49.3211
-                  ]
-            },
-            {
-                  "name": "Schwarzenacker Roman Museum",
-                  "text": "An open-air archaeological museum showcasing excavated Roman villas and a trade settlement.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        7.31663,
-                        49.2828
-                  ]
-            },
-            {
-                  "name": "Karlsberg Castle Ruins",
-                  "text": "The ruins of what was once a grand Baroque palace complex in the forest, now a destination for hikers.",
-                  "category": "castle",
-                  "confidence": "high",
-                  "coords": [
-                        7.37889,
-                        49.3347
-                  ]
-            },
-            {
-                  "name": "Jägersburg Ponds",
-                  "text": "A popular recreation area with scenic lakes, boat rentals, and a high-ropes course on Homburg's outskirts.",
-                  "category": "lake",
-                  "confidence": "high",
-                  "coords": [
-                        7.312092,
-                        49.362156
-                  ]
-            },
             {
                   "name": "Burgruine Hohenburg",
                   "text": "Medieval castle ruins on the Schlossberg offering panoramic views over the city of Homburg.",
@@ -7350,15 +5807,6 @@ export const poiExtraDe4b: POI[] = [
                   "coords": [
                         7.359066,
                         49.313205
-                  ]
-            },
-            {
-                  "name": "Homburger Aqualit",
-                  "text": "A public facility in Homburg offering visitors insights into the world of aquatics.",
-                  "category": "family",
-                  "coords": [
-                        7.340626,
-                        49.322984
                   ]
             },
             {
@@ -7615,15 +6063,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "ehem. Wasserburg",
-                  "text": "Die Überreste einer ehemaligen Wasserburg, die von der historischen Befestigung der Region zeugen.",
-                  "category": "castle",
-                  "coords": [
-                        7.074014,
-                        49.539486
-                  ]
-            },
-            {
                   "name": "Ziegengehege",
                   "text": "Ein kleines Tiergehege am Bostalsee, in dem Besucher Ziegen beobachten und füttern können.",
                   "category": "recreational",
@@ -7633,39 +6072,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Aqua Mundo",
-                  "text": "Ein großer tropischer Wasserpark am Bostalsee mit verschiedenen Rutschen und Badebecken.",
-                  "category": "recreational",
-                  "coords": [
-                        7.082552,
-                        49.570174
-                  ]
-            },
-            {
                   "name": "Losenberg",
                   "text": "Ein Hügel in der Nähe des Bostalsees, der Ausblicke auf die umliegende Landschaft des Saarlandes bietet.",
                   "category": "landmark",
                   "coords": [
                         7.062009,
                         49.529084
-                  ]
-            },
-            {
-                  "name": "Kunstzentrum Bosener Mühle",
-                  "text": "Ein Kulturzentrum in einer historischen Mühle, das Kunstausstellungen und kreative Workshops anbietet.",
-                  "category": "cultural",
-                  "coords": [
-                        7.065432,
-                        49.573892
-                  ]
-            },
-            {
-                  "name": "Strandbad Bosen",
-                  "text": "Ein beliebtes Strandbad am Bostalsee, ideal zum Schwimmen, Surfen und für Familienausflüge.",
-                  "category": "recreational",
-                  "coords": [
-                        7.065724,
-                        49.567594
                   ]
             },
             {
@@ -7698,15 +6110,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "ehem. Wasserburg",
-                  "text": "Egy egykori vízi vár maradványai, amelyek a régió történelmi erődítményeiről tanúskodnak.",
-                  "category": "castle",
-                  "coords": [
-                        7.074014,
-                        49.539486
-                  ]
-            },
-            {
                   "name": "Ziegengehege",
                   "text": "Kis állatkifutó a Bostalsee-nél, ahol a látogatók kecskéket figyelhetnek meg és etethetnek.",
                   "category": "recreational",
@@ -7716,39 +6119,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Aqua Mundo",
-                  "text": "Nagy trópusi vízi park a Bostalsee-nél, különféle csúszdákkal és medencékkel.",
-                  "category": "recreational",
-                  "coords": [
-                        7.082552,
-                        49.570174
-                  ]
-            },
-            {
                   "name": "Losenberg",
                   "text": "Domb a Bostalsee közelében, amely kilátást nyújt a környező saar-vidéki tájra.",
                   "category": "landmark",
                   "coords": [
                         7.062009,
                         49.529084
-                  ]
-            },
-            {
-                  "name": "Kunstzentrum Bosener Mühle",
-                  "text": "Kulturális központ egy történelmi malomban, amely művészeti kiállításokat és kreatív műhelyeket kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        7.065432,
-                        49.573892
-                  ]
-            },
-            {
-                  "name": "Strandbad Bosen",
-                  "text": "Népszerű strandfürdő a Bostalsee-nél, amely ideális úszáshoz, szörfözéshez és családi kirándulásokhoz.",
-                  "category": "recreational",
-                  "coords": [
-                        7.065724,
-                        49.567594
                   ]
             },
             {
@@ -7781,15 +6157,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "ehem. Wasserburg",
-                  "text": "Rămășițele unei foste cetăți pe apă, care atestă fortificațiile istorice ale regiunii.",
-                  "category": "castle",
-                  "coords": [
-                        7.074014,
-                        49.539486
-                  ]
-            },
-            {
                   "name": "Ziegengehege",
                   "text": "Un mic țarc de animale la Bostalsee, unde vizitatorii pot observa și hrăni capre.",
                   "category": "recreational",
@@ -7799,39 +6166,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Aqua Mundo",
-                  "text": "Un mare parc acvatic tropical la Bostalsee, cu diverse tobogane și piscine.",
-                  "category": "recreational",
-                  "coords": [
-                        7.082552,
-                        49.570174
-                  ]
-            },
-            {
                   "name": "Losenberg",
                   "text": "Un deal în apropiere de Bostalsee, care oferă panorame asupra peisajului înconjurător din Saarland.",
                   "category": "landmark",
                   "coords": [
                         7.062009,
                         49.529084
-                  ]
-            },
-            {
-                  "name": "Kunstzentrum Bosener Mühle",
-                  "text": "Un centru cultural într-o moară istorică, ce oferă expoziții de artă și ateliere creative.",
-                  "category": "cultural",
-                  "coords": [
-                        7.065432,
-                        49.573892
-                  ]
-            },
-            {
-                  "name": "Strandbad Bosen",
-                  "text": "O zonă de plajă populară la lacul Bostal, ideală pentru înot, surfing și excursii în familie.",
-                  "category": "recreational",
-                  "coords": [
-                        7.065724,
-                        49.567594
                   ]
             },
             {
@@ -7864,15 +6204,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "ehem. Wasserburg",
-                  "text": "The remains of a former water castle, testifying to the historical fortifications of the region.",
-                  "category": "castle",
-                  "coords": [
-                        7.074014,
-                        49.539486
-                  ]
-            },
-            {
                   "name": "Ziegengehege",
                   "text": "A small animal enclosure at Bostalsee where visitors can observe and feed goats.",
                   "category": "recreational",
@@ -7882,39 +6213,12 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Aqua Mundo",
-                  "text": "A large tropical water park at Bostalsee featuring various slides and swimming pools.",
-                  "category": "recreational",
-                  "coords": [
-                        7.082552,
-                        49.570174
-                  ]
-            },
-            {
                   "name": "Losenberg",
                   "text": "A hill near Bostalsee offering views of the surrounding Saarland landscape.",
                   "category": "landmark",
                   "coords": [
                         7.062009,
                         49.529084
-                  ]
-            },
-            {
-                  "name": "Kunstzentrum Bosener Mühle",
-                  "text": "A cultural center in a historic mill offering art exhibitions and creative workshops.",
-                  "category": "cultural",
-                  "coords": [
-                        7.065432,
-                        49.573892
-                  ]
-            },
-            {
-                  "name": "Strandbad Bosen",
-                  "text": "A popular beach bath at Lake Bostal, ideal for swimming, surfing, and family outings.",
-                  "category": "recreational",
-                  "coords": [
-                        7.065724,
-                        49.567594
                   ]
             },
             {
@@ -8198,26 +6502,6 @@ export const poiExtraDe4b: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Großer Markt",
-                  "text": "Der zentrale Marktplatz der Stadt diente einst als Exerzierplatz und beeindruckt heute durch seine streng geometrische, weitläufige Form.",
-                  "category": "historic square",
-                  "confidence": "high",
-                  "coords": [
-                        6.75044,
-                        49.31558
-                  ]
-            },
-            {
-                  "name": "Vauban-Insel",
-                  "text": "Ehemals Teil der Verteidigungsanlagen, dient die Insel heute als grüner Park mit dem Denkmal des Marschalls Ney und kulturellen Events.",
-                  "category": "park",
-                  "confidence": "high",
-                  "coords": [
-                        6.744298,
-                        49.315394
-                  ]
-            },
-            {
                   "name": "Saarlouiser Rathaus",
                   "text": "Das Gebäude beherbergt den prachtvollen Gobelinsaal mit Wandteppichen, die Szenen aus der Geschichte der Stadt und Ludwig XIV. zeigen.",
                   "category": "town hall",
@@ -8229,26 +6513,6 @@ export const poiExtraDe4b: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Großer Markt",
-                  "text": "A város központi tere, amely egykor katonai gyakorlótér volt, ma pedig tágas, geometrikus formájával uralja a belvárost.",
-                  "category": "historic square",
-                  "confidence": "high",
-                  "coords": [
-                        6.75044,
-                        49.31558
-                  ]
-            },
-            {
-                  "name": "Vauban-sziget",
-                  "text": "Az egykori erődítmény maradványain kialakított park, ahol Ney marsall emlékműve áll és szabadtéri kulturális programokat tartanak.",
-                  "category": "park",
-                  "confidence": "high",
-                  "coords": [
-                        6.744298,
-                        49.315394
-                  ]
-            },
             {
                   "name": "Városháza",
                   "text": "A modern épület híres a Gobelin-terméről, ahol XIV. Lajos korát idéző értékes falikárpitok díszítik a tanácskozóhelyiséget.",
@@ -8272,16 +6536,6 @@ export const poiExtraDe4b: POI[] = [
                   ]
             },
             {
-                  "name": "Insula Vauban",
-                  "text": "Fost element defensiv, insula este acum o zonă verde de recreere care găzduiește monumentul Mareșalului Ney și evenimente culturale.",
-                  "category": "park",
-                  "confidence": "high",
-                  "coords": [
-                        6.744298,
-                        49.315394
-                  ]
-            },
-            {
                   "name": "Primăria Saarlouis",
                   "text": "Sediul administrației orașului este cunoscut pentru Sala Goblenurilor, decorată cu tapiserii ce ilustrează istoria fondării cetății.",
                   "category": "town hall",
@@ -8293,26 +6547,6 @@ export const poiExtraDe4b: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Großer Markt",
-                  "text": "The city's expansive central square, originally a parade ground for the French garrison, reflecting the town's geometric layout.",
-                  "category": "historic square",
-                  "confidence": "high",
-                  "coords": [
-                        6.75044,
-                        49.31558
-                  ]
-            },
-            {
-                  "name": "Vauban Island",
-                  "text": "Once part of the outer defenses, this green island now features a monument to Marshal Ney and serves as a popular event venue.",
-                  "category": "park",
-                  "confidence": "high",
-                  "coords": [
-                        6.744298,
-                        49.315394
-                  ]
-            },
             {
                   "name": "Saarlouis Town Hall",
                   "text": "The building is famous for its Gobelin Hall, which contains historical tapestries depicting the city's royal French heritage.",

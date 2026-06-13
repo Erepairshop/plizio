@@ -1125,15 +1125,6 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
   },   {     id: "ng-warri-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Olu Of Warri Palace",
-                  "text": "Der Olu of Warri Kingdom Palace ist die traditionelle königliche Residenz in Warri.",
-                  "category": "castle",
-                  "coords": [
-                        5.735951,
-                        5.52699
-                  ]
-            },
-            {
                   "name": "Event Center",
                   "text": "Ein Veranstaltungszentrum in Warri, ein Ort für gesellschaftliche Zusammenkünfte und Feierlichkeiten.",
                   "category": "landmark",
@@ -1170,15 +1161,6 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
                   ]
             },
             {
-                  "name": "Word of Life Bible Church",
-                  "text": "Bibeltreue Gemeinde in Warri mit Schwerpunkt auf Evangelisation.",
-                  "category": "religious",
-                  "coords": [
-                        5.734567,
-                        5.529007
-                  ]
-            },
-            {
                   "name": "First Baptist Church Mission Road Branch Warri",
                   "text": "First Baptist Church Mission Road Branch Warri ist eine Baptistenkirche an der Mission Road in Warri.",
                   "category": "religious",
@@ -1189,15 +1171,6 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             }
       ],
       "hu": [
-            {
-                  "name": "Olu Of Warri Palace",
-                  "text": "Az Olu of Warri Kingdom Palace a warri törzsfőnök hagyományos lakóhelye.",
-                  "category": "castle",
-                  "coords": [
-                        5.735951,
-                        5.52699
-                  ]
-            },
             {
                   "name": "Event Center",
                   "text": "Rendezvényközpont Warriban, társasági összejövetelek és ünnepségek helyszíne.",
@@ -1235,15 +1208,6 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
                   ]
             },
             {
-                  "name": "Word of Life Bible Church",
-                  "text": "Ige Élete Biblia Gyülekezet Warriban, evangélizációs fókusszal.",
-                  "category": "religious",
-                  "coords": [
-                        5.734567,
-                        5.529007
-                  ]
-            },
-            {
                   "name": "First Baptist Church Mission Road Branch Warri",
                   "text": "A First Baptist Church Mission Road Branch Warri egy baptista templom a Mission Roadon, Warriban.",
                   "category": "religious",
@@ -1254,15 +1218,6 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             }
       ],
       "ro": [
-            {
-                  "name": "Olu Of Warri Palace",
-                  "text": "Palatul Olu of Warri este reședința regală tradițională din Warri.",
-                  "category": "castle",
-                  "coords": [
-                        5.735951,
-                        5.52699
-                  ]
-            },
             {
                   "name": "Event Center",
                   "text": "Un centru de evenimente în Warri, o locație pentru întruniri sociale și sărbători.",
@@ -1300,15 +1255,6 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
                   ]
             },
             {
-                  "name": "Word of Life Bible Church",
-                  "text": "Biserica Biblică Cuvântul Vieții din Warri, axată pe evanghelizare.",
-                  "category": "religious",
-                  "coords": [
-                        5.734567,
-                        5.529007
-                  ]
-            },
-            {
                   "name": "First Baptist Church Mission Road Branch Warri",
                   "text": "First Baptist Church Mission Road Branch Warri este o biserică baptistă pe strada Mission din Warri.",
                   "category": "religious",
@@ -1319,15 +1265,6 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
             }
       ],
       "en": [
-            {
-                  "name": "Olu Of Warri Kingdom Palace",
-                  "text": "Olu of Warri Palace is the traditional royal residence in Warri.",
-                  "category": "castle",
-                  "coords": [
-                        5.735951,
-                        5.52699
-                  ]
-            },
             {
                   "name": "Event Center",
                   "text": "An event center in Warri, a venue for social gatherings and celebrations.",
@@ -1362,15 +1299,6 @@ import type { POI } from "./poi";  export const poiExtraNigeriaCitiesV2: POI[] =
                   "coords": [
                         5.749636,
                         5.515074
-                  ]
-            },
-            {
-                  "name": "Word of Life Bible Church",
-                  "text": "Word of Life Bible Church in Warri, focused on evangelism.",
-                  "category": "religious",
-                  "coords": [
-                        5.734567,
-                        5.529007
                   ]
             },
             {

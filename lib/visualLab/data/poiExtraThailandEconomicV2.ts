@@ -5183,15 +5183,6 @@ export const poiExtraThailandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "The sculpture of serpent",
-                  "text": "Die Schlangenskulptur ist ein markantes mythisches Naga-Körpersegment, das in die Küstenlandschaft integriert ist.",
-                  "category": "landmark",
-                  "coords": [
-                        100.588474,
-                        7.212529
-                  ]
-            },
-            {
                   "name": "Samila Beach",
                   "text": "Samila Beach ist ein beliebter Küstenstreifen, der für seinen goldenen Sand und die goldene Meerjungfrauenstatue bekannt ist.",
                   "category": "landmark",
@@ -5201,39 +5192,12 @@ export const poiExtraThailandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Songkhla National Museum",
-                  "text": "Das Songkhla Nationalmuseum ist in einem prächtigen chinesisch-portugiesischen Herrenhaus aus dem 19. Jahrhundert untergebracht.",
-                  "category": "museum",
-                  "coords": [
-                        100.588944,
-                        7.202397
-                  ]
-            },
-            {
-                  "name": "Khao Tangkuan Lighthouse",
-                  "text": "Der Leuchtturm Khao Tangkuan ist ein maritimes Leuchtfeuer auf einem Hügel, das einen weiten Panoramablick auf die Küste bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        100.589312,
-                        7.210439
-                  ]
-            },
-            {
                   "name": "Street Art",
                   "text": "Diese Street-Art-Installation bringt lebendige zeitgenössische Wandmalereien auf die verwitterten Mauern des historischen Viertels.",
                   "category": "landmark",
                   "coords": [
                         100.590667,
                         7.196061
-                  ]
-            },
-            {
-                  "name": "Nakhon Nai Museum",
-                  "text": "Das Nakhon Nai Museum befindet sich in einem traditionellen hölzernen Hofhaus und zeigt Artefakte des lokalen Erbes.",
-                  "category": "museum",
-                  "coords": [
-                        100.589121,
-                        7.197218
                   ]
             },
             {
@@ -5261,33 +5225,6 @@ export const poiExtraThailandEconomicV2: POI[] = [
                   "coords": [
                         100.579806,
                         7.224871
-                  ]
-            },
-            {
-                  "name": "Khao Noi Palace",
-                  "text": "Der Khao Noi Palast ist eine historische aristokratische Residenz, die sich an den Fuß eines markanten lokalen Hügels schmiegt.",
-                  "category": "landmark",
-                  "coords": [
-                        100.593191,
-                        7.20852
-                  ]
-            },
-            {
-                  "name": "Wat Yang Thong",
-                  "text": "Wat Yang Thong ist ein etablierter buddhistischer Tempelkomplex, der für seine traditionelle thailändische religiöse Architektur bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        100.589798,
-                        7.198269
-                  ]
-            },
-            {
-                  "name": "Chaloem Thong Songkhla Theater",
-                  "text": "Das Chaloem Thong Songkhla Theater ist ein spezieller Kulturort, an dem traditionelle und moderne Bühnenaufführungen stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        100.593395,
-                        7.201509
                   ]
             },
             {
@@ -5446,15 +5383,6 @@ export const poiExtraThailandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "The sculpture of serpent",
-                  "text": "A kígyó szobra egy kiemelkedő mitikus Naga testrészlet, amely a tengerparti tájba illeszkedik.",
-                  "category": "landmark",
-                  "coords": [
-                        100.588474,
-                        7.212529
-                  ]
-            },
-            {
                   "name": "Samila Beach",
                   "text": "A Samila Beach egy népszerű tengerparti sáv, amely híres aranyszínű homokjáról és az arany sellőszoborról.",
                   "category": "landmark",
@@ -5464,39 +5392,12 @@ export const poiExtraThailandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Songkhla National Museum",
-                  "text": "A Songkhla Nemzeti Múzeum egy 19. századi, egykori kormányzónak épült, grandiózus kínai-portugál kastélyban kapott helyet.",
-                  "category": "museum",
-                  "coords": [
-                        100.588944,
-                        7.202397
-                  ]
-            },
-            {
-                  "name": "Khao Tangkuan Lighthouse",
-                  "text": "A Khao Tangkuan világítótorony egy hegytetőn álló tengeri jelzőfény, ahonnan pazar panoráma nyílik a partra.",
-                  "category": "landmark",
-                  "coords": [
-                        100.589312,
-                        7.210439
-                  ]
-            },
-            {
                   "name": "Street Art",
                   "text": "Ez a street art installáció élénk kortárs falfestményeket varázsol a történelmi negyed viharvert falaira.",
                   "category": "landmark",
                   "coords": [
                         100.590667,
                         7.196061
-                  ]
-            },
-            {
-                  "name": "Nakhon Nai Museum",
-                  "text": "A Nakhon Nai Múzeum egy hagyományos fa udvarházban található, és a helyi örökség tárgyait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        100.589121,
-                        7.197218
                   ]
             },
             {
@@ -5524,33 +5425,6 @@ export const poiExtraThailandEconomicV2: POI[] = [
                   "coords": [
                         100.579806,
                         7.224871
-                  ]
-            },
-            {
-                  "name": "Khao Noi Palace",
-                  "text": "A Khao Noi palota egy történelmi arisztokrata rezidencia, amely egy kiemelkedő helyi domb lábánál fészkel.",
-                  "category": "landmark",
-                  "coords": [
-                        100.593191,
-                        7.20852
-                  ]
-            },
-            {
-                  "name": "Wat Yang Thong",
-                  "text": "A Wat Yang Thong egy elismert buddhista templomkomplexum, amely a hagyományos thai vallási építészetről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        100.589798,
-                        7.198269
-                  ]
-            },
-            {
-                  "name": "Chaloem Thong Songkhla Theater",
-                  "text": "A Chaloem Thong Songkhla Színház egy dedikált kulturális helyszín, amely hagyományos és modern színpadi előadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        100.593395,
-                        7.201509
                   ]
             },
             {
@@ -5709,15 +5583,6 @@ export const poiExtraThailandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "The sculpture of serpent",
-                  "text": "Sculptura șarpelui este un segment proeminent al corpului mitic Naga, integrat în peisajul de coastă.",
-                  "category": "landmark",
-                  "coords": [
-                        100.588474,
-                        7.212529
-                  ]
-            },
-            {
                   "name": "Samila Beach",
                   "text": "Plaja Samila este o fâșie de coastă populară, renumită pentru nisipul său auriu și statuia sirenei de aur.",
                   "category": "landmark",
@@ -5727,39 +5592,12 @@ export const poiExtraThailandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Songkhla National Museum",
-                  "text": "Muzeul Național Songkhla este găzduit într-un grandios conac chino-portughez din secolul al XIX-lea, construit pentru un fost guvernator.",
-                  "category": "museum",
-                  "coords": [
-                        100.588944,
-                        7.202397
-                  ]
-            },
-            {
-                  "name": "Khao Tangkuan Lighthouse",
-                  "text": "Farul Khao Tangkuan este un far maritim situat pe un deal, oferind vederi panoramice ample asupra coastei.",
-                  "category": "landmark",
-                  "coords": [
-                        100.589312,
-                        7.210439
-                  ]
-            },
-            {
                   "name": "Street Art",
                   "text": "Această instalație de artă stradală aduce picturi murale contemporane vibrante pe pereții erodați ai cartierului istoric.",
                   "category": "landmark",
                   "coords": [
                         100.590667,
                         7.196061
-                  ]
-            },
-            {
-                  "name": "Nakhon Nai Museum",
-                  "text": "Muzeul Nakhon Nai se află într-o casă tradițională din lemn cu curte interioară, expunând artefacte de patrimoniu local.",
-                  "category": "museum",
-                  "coords": [
-                        100.589121,
-                        7.197218
                   ]
             },
             {
@@ -5787,33 +5625,6 @@ export const poiExtraThailandEconomicV2: POI[] = [
                   "coords": [
                         100.579806,
                         7.224871
-                  ]
-            },
-            {
-                  "name": "Khao Noi Palace",
-                  "text": "Palatul Khao Noi este o reședință aristocratică istorică, ascunsă la poalele unui deal local proeminent.",
-                  "category": "landmark",
-                  "coords": [
-                        100.593191,
-                        7.20852
-                  ]
-            },
-            {
-                  "name": "Wat Yang Thong",
-                  "text": "Wat Yang Thong este un complex de temple budiste consacrat, cunoscut pentru arhitectura sa religioasă tradițională thailandeză.",
-                  "category": "religious",
-                  "coords": [
-                        100.589798,
-                        7.198269
-                  ]
-            },
-            {
-                  "name": "Chaloem Thong Songkhla Theater",
-                  "text": "Teatrul Chaloem Thong Songkhla este o locație culturală dedicată, care găzduiește spectacole de scenă tradiționale și moderne.",
-                  "category": "cultural",
-                  "coords": [
-                        100.593395,
-                        7.201509
                   ]
             },
             {
@@ -5972,15 +5783,6 @@ export const poiExtraThailandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "The sculpture of serpent",
-                  "text": "The sculpture of serpent is a prominent mythical Naga body segment integrated into the coastal landscape.",
-                  "category": "landmark",
-                  "coords": [
-                        100.588474,
-                        7.212529
-                  ]
-            },
-            {
                   "name": "Samila Beach",
                   "text": "Samila Beach is a popular coastal strip famous for its golden sand and the golden mermaid statue.",
                   "category": "landmark",
@@ -5990,39 +5792,12 @@ export const poiExtraThailandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Songkhla National Museum",
-                  "text": "Songkhla National Museum is housed in a grand 19th-century Sino-Portuguese mansion built for a former governor.",
-                  "category": "museum",
-                  "coords": [
-                        100.588944,
-                        7.202397
-                  ]
-            },
-            {
-                  "name": "Khao Tangkuan Lighthouse",
-                  "text": "Khao Tangkuan Lighthouse is a hilltop maritime beacon providing sweeping panoramic views of the coast.",
-                  "category": "landmark",
-                  "coords": [
-                        100.589312,
-                        7.210439
-                  ]
-            },
-            {
                   "name": "Street Art",
                   "text": "This street art installation brings vibrant contemporary murals to the weathered walls of the historic district.",
                   "category": "landmark",
                   "coords": [
                         100.590667,
                         7.196061
-                  ]
-            },
-            {
-                  "name": "Nakhon Nai Museum",
-                  "text": "Nakhon Nai Museum is set in a traditional wooden courtyard house displaying local heritage artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        100.589121,
-                        7.197218
                   ]
             },
             {
@@ -6050,33 +5825,6 @@ export const poiExtraThailandEconomicV2: POI[] = [
                   "coords": [
                         100.579806,
                         7.224871
-                  ]
-            },
-            {
-                  "name": "Khao Noi Palace",
-                  "text": "Khao Noi Palace is a historical aristocratic residence nestled at the foot of a prominent local hill.",
-                  "category": "landmark",
-                  "coords": [
-                        100.593191,
-                        7.20852
-                  ]
-            },
-            {
-                  "name": "Wat Yang Thong",
-                  "text": "Wat Yang Thong is an established Buddhist temple complex known for its traditional Thai religious architecture.",
-                  "category": "religious",
-                  "coords": [
-                        100.589798,
-                        7.198269
-                  ]
-            },
-            {
-                  "name": "Chaloem Thong Songkhla Theater",
-                  "text": "Chaloem Thong Songkhla Theater is a dedicated cultural venue hosting traditional and modern stage performances.",
-                  "category": "cultural",
-                  "coords": [
-                        100.593395,
-                        7.201509
                   ]
             },
             {

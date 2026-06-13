@@ -89,86 +89,10 @@ export const poiExtraGhanaEconomicV2: POI[] = [
   },
   {
     id: "ghana-takoradi-port", "sights": {
-      "de": [
-            {
-                  "name": "Allan Beach",
-                  "text": "Ein Küstenstrandresort in der Nähe des geschäftigen maritimen Zentrums des Hafens von Takoradi.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.751492,
-                        4.878978
-                  ]
-            },
-            {
-                  "name": "Last Hour Beach",
-                  "text": "Ein sandiger Küstenabschnitt in der Nähe des Hafens von Takoradi.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.753621,
-                        4.878399
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Allan Beach",
-                  "text": "Egy tengerparti üdülőhely, amely a Takoradi kikötő nyüzsgő tengeri csomópontja közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.751492,
-                        4.878978
-                  ]
-            },
-            {
-                  "name": "Last Hour Beach",
-                  "text": "Egy homokos tengerparti szakasz, amely a Takoradi kikötő közelében található.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.753621,
-                        4.878399
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Allan Beach",
-                  "text": "O stațiune de plajă de coastă situată în apropierea centrului maritim aglomerat al portului Takoradi.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.751492,
-                        4.878978
-                  ]
-            },
-            {
-                  "name": "Last Hour Beach",
-                  "text": "O întindere de coastă cu nisip situată în vecinătatea portului Takoradi.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.753621,
-                        4.878399
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Allan Beach",
-                  "text": "A coastal beach resort situated near the bustling maritime hub of Takoradi Port.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.751492,
-                        4.878978
-                  ]
-            },
-            {
-                  "name": "Last Hour Beach",
-                  "text": "A sandy stretch of coastline located in the vicinity of Takoradi Port.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.753621,
-                        4.878399
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "port",
     parent: "GH-WP",
@@ -1391,15 +1315,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
     id: "ghana-ghacem-tema", "sights": {
       "de": [
             {
-                  "name": "Aquarium Marshall",
-                  "text": "Eine Wassereinrichtung in Tema, die eine Vielzahl von regionalen und marinen Fischarten ausstellt.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.059189,
-                        5.645528
-                  ]
-            },
-            {
                   "name": "Green Fm 88.9",
                   "text": "Der Hauptsitz eines beliebten lokalen Radiosenders in Tema.",
                   "category": "landmark",
@@ -1428,15 +1343,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Aquarium Marshall",
-                  "text": "Különféle regionális és tengeri halfajokat bemutató vízi létesítmény Temában.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.059189,
-                        5.645528
-                  ]
-            },
             {
                   "name": "Green Fm 88.9",
                   "text": "Egy népszerű helyi rádióállomás központja Temában.",
@@ -1467,15 +1373,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Aquarium Marshall",
-                  "text": "O unitate acvatică din Tema ce expune o varietate de specii de pești regionali și marini.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.059189,
-                        5.645528
-                  ]
-            },
-            {
                   "name": "Green Fm 88.9",
                   "text": "Sediul central al unui post de radio local popular din Tema.",
                   "category": "landmark",
@@ -1504,15 +1401,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Aquarium Marshall",
-                  "text": "An aquatic facility in Tema exhibiting a variety of regional and marine fish species.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.059189,
-                        5.645528
-                  ]
-            },
             {
                   "name": "Green Fm 88.9",
                   "text": "The headquarters of a popular local radio broadcasting station in Tema.",
@@ -1587,15 +1475,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
                         -1.765365,
                         4.901318
                   ]
-            },
-            {
-                  "name": "Africa Beach",
-                  "text": "Ein Küstenresort vor der Kulisse des Industriegebiets Ghacem in Takoradi.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.766386,
-                        4.875995
-                  ]
             }
       ],
       "hu": [
@@ -1606,15 +1485,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
                   "coords": [
                         -1.765365,
                         4.901318
-                  ]
-            },
-            {
-                  "name": "Africa Beach",
-                  "text": "Egy tengerparti üdülőlétesítmény a takaradi-i Ghacem ipari zóna hátterében.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.766386,
-                        4.875995
                   ]
             }
       ],
@@ -1627,15 +1497,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
                         -1.765365,
                         4.901318
                   ]
-            },
-            {
-                  "name": "Africa Beach",
-                  "text": "O stațiune de coastă amplasată pe fundalul zonei industriale Ghacem din Takoradi.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.766386,
-                        4.875995
-                  ]
             }
       ],
       "en": [
@@ -1646,15 +1507,6 @@ export const poiExtraGhanaEconomicV2: POI[] = [
                   "coords": [
                         -1.765365,
                         4.901318
-                  ]
-            },
-            {
-                  "name": "Africa Beach",
-                  "text": "A coastal resort property set against the backdrop of the Ghacem industrial zone in Takoradi.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.766386,
-                        4.875995
                   ]
             }
       ]

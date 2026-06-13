@@ -4236,15 +4236,6 @@ export const mexicoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Irving Alvarez",
-                  "text": "Die nach Irving Alvarez benannte historische Stätte im Central-de-Abasto-Viertel.",
-                  "category": "historical",
-                  "coords": [
-                        -99.020972,
-                        19.387432
-                  ]
-            },
-            {
                   "name": "Arcos de colonial, entrada Ermita",
                   "text": "Kolonialbögen am Eingang Ermita im Central-de-Abasto-Viertel.",
                   "category": "historical",
@@ -4532,15 +4523,6 @@ export const mexicoEconomicV2: POI[] = [
                   "coords": [
                         -99.103148,
                         19.382495
-                  ]
-            },
-            {
-                  "name": "Irving Alvarez",
-                  "text": "Irving Alvarezről elnevezett történelmi hely a Central de Abasto negyedben.",
-                  "category": "historical",
-                  "coords": [
-                        -99.020972,
-                        19.387432
                   ]
             },
             {
@@ -4834,15 +4816,6 @@ export const mexicoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Irving Alvarez",
-                  "text": "Situl istoric numit după Irving Alvarez în cartierul Central de Abasto.",
-                  "category": "historical",
-                  "coords": [
-                        -99.020972,
-                        19.387432
-                  ]
-            },
-            {
                   "name": "Arcos de colonial, entrada Ermita",
                   "text": "Arcuri coloniale la intrarea Ermita în cartierul Central de Abasto.",
                   "category": "historical",
@@ -5130,15 +5103,6 @@ export const mexicoEconomicV2: POI[] = [
                   "coords": [
                         -99.103148,
                         19.382495
-                  ]
-            },
-            {
-                  "name": "Irving Alvarez",
-                  "text": "A historical site named after Irving Alvarez in the Central de Abasto district.",
-                  "category": "historical",
-                  "coords": [
-                        -99.020972,
-                        19.387432
                   ]
             },
             {
@@ -7683,24 +7647,6 @@ export const mexicoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Regional de La Laguna",
-                  "text": "Ein Regionalmuseum zur Geschichte und Kultur von La Laguna in der Milchwirtschaftsregion La Laguna.",
-                  "category": "museum",
-                  "coords": [
-                        -103.432664,
-                        25.539017
-                  ]
-            },
-            {
-                  "name": "Antigua Jabonera",
-                  "text": "Eine ehemalige Seifenfabrik, umgewandelt in ein Museum in der Milchwirtschaftsregion La Laguna.",
-                  "category": "museum",
-                  "coords": [
-                        -103.495496,
-                        25.574286
-                  ]
-            },
-            {
                   "name": "Museo de la Revolución",
                   "text": "Ein Museum, das der mexikanischen Revolution in der Milchwirtschaftsregion La Laguna gewidmet ist.",
                   "category": "museum",
@@ -7716,15 +7662,6 @@ export const mexicoEconomicV2: POI[] = [
                   "coords": [
                         -103.461969,
                         25.537776
-                  ]
-            },
-            {
-                  "name": "Galería del deporte lagunero",
-                  "text": "Eine Galerie, die der lokalen Sportgeschichte in der Milchwirtschaftsregion La Laguna gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -103.411748,
-                        25.534459
                   ]
             },
             {
@@ -7764,42 +7701,6 @@ export const mexicoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Recinto de la Revolución",
-                  "text": "Ein Museum zum Thema Revolution in der Region La Laguna.",
-                  "category": "museum",
-                  "coords": [
-                        -103.496945,
-                        25.561584
-                  ]
-            },
-            {
-                  "name": "Centro de Artes \"Casa Faya\"",
-                  "text": "1912 gegründetes Kunstzentrum in der La Laguna Dairy Region.",
-                  "category": "museum",
-                  "coords": [
-                        -103.497791,
-                        25.566073
-                  ]
-            },
-            {
-                  "name": "Xiximes, A. C.",
-                  "text": "Museum, das von einer mexikanischen Organisation betrieben wird.",
-                  "category": "museum",
-                  "coords": [
-                        -103.498208,
-                        25.569879
-                  ]
-            },
-            {
-                  "name": "El Acertijo Museo Interactivo Laguna Durango",
-                  "text": "Ein interaktives Rätselmuseum in der Milchwirtschaftsregion La Laguna.",
-                  "category": "museum",
-                  "coords": [
-                        -103.494281,
-                        25.573785
-                  ]
-            },
-            {
                   "name": "Manto de la Virgen",
                   "text": "Eine historische religiöse Stätte, die den Mantel der Jungfrau Maria in der Milchwirtschaftsregion La Laguna darstellt.",
                   "category": "historical",
@@ -7833,33 +7734,6 @@ export const mexicoEconomicV2: POI[] = [
                   "coords": [
                         -103.468653,
                         25.543154
-                  ]
-            },
-            {
-                  "name": "Torre Eiffel",
-                  "text": "Eine Nachbildung des Eiffelturms in der Milchwirtschaftsregion La Laguna.",
-                  "category": "historical",
-                  "coords": [
-                        -103.479045,
-                        25.549856
-                  ]
-            },
-            {
-                  "name": "Al Maestro",
-                  "text": "Ein Denkmal für Lehrer in der Milchwirtschaftsregion La Laguna.",
-                  "category": "historical",
-                  "coords": [
-                        -103.493443,
-                        25.55522
-                  ]
-            },
-            {
-                  "name": "Gral. Guadalupe Victoria",
-                  "text": "Denkmal für Guadalupe Victoria, den ersten Präsidenten Mexikos, in der Region La Laguna.",
-                  "category": "historical",
-                  "coords": [
-                        -103.489643,
-                        25.55257
                   ]
             },
             {
@@ -7897,24 +7771,6 @@ export const mexicoEconomicV2: POI[] = [
                         -103.39052,
                         25.552853
                   ]
-            },
-            {
-                  "name": "lienzo charro",
-                  "text": "Veranstaltungsstätte für traditionelle mexikanische Reitersportarten in der Region La Laguna.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.481148,
-                        25.552534
-                  ]
-            },
-            {
-                  "name": "Centro de Convenciones Francisco Zarco",
-                  "text": "Das Francisco Zarco Kongresszentrum in der Milchwirtschaftsregion La Laguna.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.476928,
-                        25.549538
-                  ]
             }
       ],
       "hu": [
@@ -7946,24 +7802,6 @@ export const mexicoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Regional de La Laguna",
-                  "text": "Regionális múzeum, amely La Laguna történelmét és kultúráját mutatja be a La Laguna tejtermelő régióban.",
-                  "category": "museum",
-                  "coords": [
-                        -103.432664,
-                        25.539017
-                  ]
-            },
-            {
-                  "name": "Antigua Jabonera",
-                  "text": "Egykori szappangyár, amelyet múzeummá alakítottak át a La Laguna tejtermelő régióban.",
-                  "category": "museum",
-                  "coords": [
-                        -103.495496,
-                        25.574286
-                  ]
-            },
-            {
                   "name": "Museo de la Revolución",
                   "text": "Mexikói forradalomnak szentelt múzeum a La Laguna tejtermelő régióban.",
                   "category": "museum",
@@ -7979,15 +7817,6 @@ export const mexicoEconomicV2: POI[] = [
                   "coords": [
                         -103.461969,
                         25.537776
-                  ]
-            },
-            {
-                  "name": "Galería del deporte lagunero",
-                  "text": "Helyi sporttörténetnek szentelt galéria a La Laguna tejtermelő régióban.",
-                  "category": "museum",
-                  "coords": [
-                        -103.411748,
-                        25.534459
                   ]
             },
             {
@@ -8027,42 +7856,6 @@ export const mexicoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Recinto de la Revolución",
-                  "text": "Forradalmi Múzeum a La Laguna régióban.",
-                  "category": "museum",
-                  "coords": [
-                        -103.496945,
-                        25.561584
-                  ]
-            },
-            {
-                  "name": "Centro de Artes \"Casa Faya\"",
-                  "text": "1912-ben alapított művészeti központ a La Laguna tejipari régióban.",
-                  "category": "museum",
-                  "coords": [
-                        -103.497791,
-                        25.566073
-                  ]
-            },
-            {
-                  "name": "Xiximes, A. C.",
-                  "text": "Egy mexikói szervezet által üzemeltetett múzeum a La Laguna régióban.",
-                  "category": "museum",
-                  "coords": [
-                        -103.498208,
-                        25.569879
-                  ]
-            },
-            {
-                  "name": "El Acertijo Museo Interactivo Laguna Durango",
-                  "text": "Interaktív rejtvénymúzeum a La Laguna tejtermelő régióban.",
-                  "category": "museum",
-                  "coords": [
-                        -103.494281,
-                        25.573785
-                  ]
-            },
-            {
                   "name": "Manto de la Virgen",
                   "text": "Történelmi vallási helyszín, amely Szűz Mária palástját ábrázolja a La Laguna tejtermelő régióban.",
                   "category": "historical",
@@ -8096,33 +7889,6 @@ export const mexicoEconomicV2: POI[] = [
                   "coords": [
                         -103.468653,
                         25.543154
-                  ]
-            },
-            {
-                  "name": "Torre Eiffel",
-                  "text": "Az Eiffel-torony másolata a La Laguna tejtermelő régióban.",
-                  "category": "historical",
-                  "coords": [
-                        -103.479045,
-                        25.549856
-                  ]
-            },
-            {
-                  "name": "Al Maestro",
-                  "text": "Tanároknak szentelt emlékmű a La Laguna tejtermelő régióban.",
-                  "category": "historical",
-                  "coords": [
-                        -103.493443,
-                        25.55522
-                  ]
-            },
-            {
-                  "name": "Gral. Guadalupe Victoria",
-                  "text": "Guadalupe Victoria, Mexikó első elnökének emlékműve a La Laguna régióban.",
-                  "category": "historical",
-                  "coords": [
-                        -103.489643,
-                        25.55257
                   ]
             },
             {
@@ -8160,24 +7926,6 @@ export const mexicoEconomicV2: POI[] = [
                         -103.39052,
                         25.552853
                   ]
-            },
-            {
-                  "name": "lienzo charro",
-                  "text": "Hagyományos mexikói lovassportok helyszíne a La Laguna régióban.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.481148,
-                        25.552534
-                  ]
-            },
-            {
-                  "name": "Centro de Convenciones Francisco Zarco",
-                  "text": "Francisco Zarco Kongresszusi Központ a La Laguna tejtermelő régióban.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.476928,
-                        25.549538
-                  ]
             }
       ],
       "ro": [
@@ -8209,24 +7957,6 @@ export const mexicoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Regional de La Laguna",
-                  "text": "Un muzeu regional care prezintă istoria și cultura La Lagunei în regiunea lactată La Laguna.",
-                  "category": "museum",
-                  "coords": [
-                        -103.432664,
-                        25.539017
-                  ]
-            },
-            {
-                  "name": "Antigua Jabonera",
-                  "text": "O fostă fabrică de săpun transformată în muzeu în regiunea lactată La Laguna.",
-                  "category": "museum",
-                  "coords": [
-                        -103.495496,
-                        25.574286
-                  ]
-            },
-            {
                   "name": "Museo de la Revolución",
                   "text": "Un muzeu dedicat Revoluției Mexicane în regiunea lactată La Laguna.",
                   "category": "museum",
@@ -8242,15 +7972,6 @@ export const mexicoEconomicV2: POI[] = [
                   "coords": [
                         -103.461969,
                         25.537776
-                  ]
-            },
-            {
-                  "name": "Galería del deporte lagunero",
-                  "text": "O galerie dedicată istoriei sportului local în regiunea lactată La Laguna.",
-                  "category": "museum",
-                  "coords": [
-                        -103.411748,
-                        25.534459
                   ]
             },
             {
@@ -8290,42 +8011,6 @@ export const mexicoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Recinto de la Revolución",
-                  "text": "Complexul Revoluției, un muzeu în regiunea La Laguna.",
-                  "category": "museum",
-                  "coords": [
-                        -103.496945,
-                        25.561584
-                  ]
-            },
-            {
-                  "name": "Centro de Artes \"Casa Faya\"",
-                  "text": "Centru de artă fondat în 1912 în Regiunea Lactate La Laguna.",
-                  "category": "museum",
-                  "coords": [
-                        -103.497791,
-                        25.566073
-                  ]
-            },
-            {
-                  "name": "Xiximes, A. C.",
-                  "text": "Muzeul Xiximes, administrat de o asociație mexicană.",
-                  "category": "museum",
-                  "coords": [
-                        -103.498208,
-                        25.569879
-                  ]
-            },
-            {
-                  "name": "El Acertijo Museo Interactivo Laguna Durango",
-                  "text": "Un muzeu interactiv de puzzle-uri în regiunea lactată La Laguna.",
-                  "category": "museum",
-                  "coords": [
-                        -103.494281,
-                        25.573785
-                  ]
-            },
-            {
                   "name": "Manto de la Virgen",
                   "text": "Un sit religios istoric care înfățișează mantia Fecioarei Maria în regiunea lactată La Laguna.",
                   "category": "historical",
@@ -8359,33 +8044,6 @@ export const mexicoEconomicV2: POI[] = [
                   "coords": [
                         -103.468653,
                         25.543154
-                  ]
-            },
-            {
-                  "name": "Torre Eiffel",
-                  "text": "O replică a Turnului Eiffel în regiunea lactată La Laguna.",
-                  "category": "historical",
-                  "coords": [
-                        -103.479045,
-                        25.549856
-                  ]
-            },
-            {
-                  "name": "Al Maestro",
-                  "text": "Un monument dedicat profesorilor în regiunea lactată La Laguna.",
-                  "category": "historical",
-                  "coords": [
-                        -103.493443,
-                        25.55522
-                  ]
-            },
-            {
-                  "name": "Gral. Guadalupe Victoria",
-                  "text": "Monumentul lui Guadalupe Victoria, primul președinte al Mexicului, în regiunea La Laguna.",
-                  "category": "historical",
-                  "coords": [
-                        -103.489643,
-                        25.55257
                   ]
             },
             {
@@ -8423,24 +8081,6 @@ export const mexicoEconomicV2: POI[] = [
                         -103.39052,
                         25.552853
                   ]
-            },
-            {
-                  "name": "lienzo charro",
-                  "text": "Arenă pentru sporturi ecvestre tradiționale mexicane în regiunea La Laguna.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.481148,
-                        25.552534
-                  ]
-            },
-            {
-                  "name": "Centro de Convenciones Francisco Zarco",
-                  "text": "Centrul de Convenții Francisco Zarco în regiunea lactată La Laguna.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.476928,
-                        25.549538
-                  ]
             }
       ],
       "en": [
@@ -8472,24 +8112,6 @@ export const mexicoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Regional de La Laguna",
-                  "text": "A regional museum showcasing the history and culture of La Laguna in La Laguna Dairy Region.",
-                  "category": "museum",
-                  "coords": [
-                        -103.432664,
-                        25.539017
-                  ]
-            },
-            {
-                  "name": "Antigua Jabonera",
-                  "text": "A former soap factory converted into a museum in La Laguna Dairy Region.",
-                  "category": "museum",
-                  "coords": [
-                        -103.495496,
-                        25.574286
-                  ]
-            },
-            {
                   "name": "Museo de la Revolución",
                   "text": "A museum dedicated to the Mexican Revolution in La Laguna Dairy Region.",
                   "category": "museum",
@@ -8505,15 +8127,6 @@ export const mexicoEconomicV2: POI[] = [
                   "coords": [
                         -103.461969,
                         25.537776
-                  ]
-            },
-            {
-                  "name": "Galería del deporte lagunero",
-                  "text": "A gallery dedicated to local sports history in La Laguna Dairy Region.",
-                  "category": "museum",
-                  "coords": [
-                        -103.411748,
-                        25.534459
                   ]
             },
             {
@@ -8553,42 +8166,6 @@ export const mexicoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Recinto de la Revolución",
-                  "text": "A museum focused on revolutionary history in the La Laguna region.",
-                  "category": "museum",
-                  "coords": [
-                        -103.496945,
-                        25.561584
-                  ]
-            },
-            {
-                  "name": "Centro de Artes \"Casa Faya\"",
-                  "text": "Arts centre founded in 1912 in the La Laguna Dairy Region.",
-                  "category": "museum",
-                  "coords": [
-                        -103.497791,
-                        25.566073
-                  ]
-            },
-            {
-                  "name": "Xiximes, A. C.",
-                  "text": "Museum operated by a Mexican civil association in the La Laguna region.",
-                  "category": "museum",
-                  "coords": [
-                        -103.498208,
-                        25.569879
-                  ]
-            },
-            {
-                  "name": "El Acertijo Museo Interactivo Laguna Durango",
-                  "text": "An interactive puzzle museum in La Laguna Dairy Region.",
-                  "category": "museum",
-                  "coords": [
-                        -103.494281,
-                        25.573785
-                  ]
-            },
-            {
                   "name": "Manto de la Virgen",
                   "text": "A historical religious site depicting the mantle of the Virgin Mary in La Laguna Dairy Region.",
                   "category": "historical",
@@ -8625,33 +8202,6 @@ export const mexicoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Torre Eiffel",
-                  "text": "A replica of the Eiffel Tower in La Laguna Dairy Region.",
-                  "category": "historical",
-                  "coords": [
-                        -103.479045,
-                        25.549856
-                  ]
-            },
-            {
-                  "name": "Al Maestro",
-                  "text": "A monument dedicated to teachers in La Laguna Dairy Region.",
-                  "category": "historical",
-                  "coords": [
-                        -103.493443,
-                        25.55522
-                  ]
-            },
-            {
-                  "name": "Gral. Guadalupe Victoria",
-                  "text": "Monument to Guadalupe Victoria, first president of Mexico, in the La Laguna region.",
-                  "category": "historical",
-                  "coords": [
-                        -103.489643,
-                        25.55257
-                  ]
-            },
-            {
                   "name": "Placa Adela Ayala Poetisa Lagunera",
                   "text": "Plaque for poetess Adela Ayala in the La Laguna region.",
                   "category": "historical",
@@ -8685,24 +8235,6 @@ export const mexicoEconomicV2: POI[] = [
                   "coords": [
                         -103.39052,
                         25.552853
-                  ]
-            },
-            {
-                  "name": "lienzo charro",
-                  "text": "Arena for traditional Mexican equestrian sports in the La Laguna region.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.481148,
-                        25.552534
-                  ]
-            },
-            {
-                  "name": "Centro de Convenciones Francisco Zarco",
-                  "text": "The Francisco Zarco Convention Center in La Laguna Dairy Region.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.476928,
-                        25.549538
                   ]
             }
       ]

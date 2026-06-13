@@ -5706,15 +5706,6 @@ export const poiExtraGreeceCities: POI[] = [
     id: "city-lefkada-extra", "sights": {
       "de": [
             {
-                  "name": "Archaiologiko Moyseio Leykadas",
-                  "text": "Museum in Lefkada-Stadt, das archäologische Funde der Insel präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        20.704042,
-                        38.835034
-                  ]
-            },
-            {
                   "name": "Kastro Agias Mayras",
                   "text": "Eine imposante mittelalterliche Festung am Eingang der Insel Lefkada.",
                   "category": "castle",
@@ -5730,24 +5721,6 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         20.708019,
                         38.833503
-                  ]
-            },
-            {
-                  "name": "Gyra (Anna)",
-                  "text": "Gyra (Anna) ist ein abgelegener Kieselstrand mit türkisfarbenem Wasser nahe Lefkada-Stadt.",
-                  "category": "recreational",
-                  "coords": [
-                        20.701049,
-                        38.849331
-                  ]
-            },
-            {
-                  "name": "Agios Ioannis",
-                  "text": "Beliebter Strand bei Lefkada-Stadt, bekannt für seine Windmühlen und zum Kitesurfen.",
-                  "category": "recreational",
-                  "coords": [
-                        20.680637,
-                        38.841876
                   ]
             },
             {
@@ -5823,15 +5796,6 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Agglikaniki Ekklisia Leykados",
-                  "text": "Die Anglikanische Kirche von Lefkada wurde im 19. Jahrhundert von den Briten erbaut.",
-                  "category": "historical",
-                  "coords": [
-                        20.703254,
-                        38.828804
-                  ]
-            },
-            {
                   "name": "Ereipia archaias polis",
                   "text": "Die Ruinen der antiken Stadt Lefkada umfassen Fundamente und Mauern rund um die Stadt.",
                   "category": "historical",
@@ -5868,39 +5832,12 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Agios Minas",
-                  "text": "Orthodoxe Kirche Agios Minas mit barocken Einflüssen in Lefkada-Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        20.704439,
-                        38.830702
-                  ]
-            },
-            {
-                  "name": "Agioi Anargyroi",
-                  "text": "Ein religiöses Gebäude und Ort der Andacht in Lefkada-Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        20.705688,
-                        38.833355
-                  ]
-            },
-            {
                   "name": "Alykes Alexandroy",
                   "text": "Die Alexandros-Salinen in Lefkada bieten eine interessante Kulisse.",
                   "category": "natural",
                   "coords": [
                         20.722807,
                         38.804601
-                  ]
-            },
-            {
-                  "name": "Limnothalassa Gyras",
-                  "text": "Der Gyra-See ist eine flache Salzwasserlagune bei Lefkada, bekannt für Vogelbeobachtung.",
-                  "category": "natural",
-                  "coords": [
-                        20.699663,
-                        38.842369
                   ]
             },
             {
@@ -5924,15 +5861,6 @@ export const poiExtraGreeceCities: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Archaiologiko Moyseio Leykadas",
-                  "text": "Lefkada városának múzeuma, amely a sziget régészeti leleteit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.704042,
-                        38.835034
-                  ]
-            },
-            {
                   "name": "Kastro Agias Mayras",
                   "text": "Impozáns középkori erődítmény Lefkada szigetének bejáratánál.",
                   "category": "castle",
@@ -5948,24 +5876,6 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         20.708019,
                         38.833503
-                  ]
-            },
-            {
-                  "name": "Gyra (Anna)",
-                  "text": "A Gyra (Anna) egy félreeső kavicsos strand türkizkék vízzel Lefkada városa közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        20.701049,
-                        38.849331
-                  ]
-            },
-            {
-                  "name": "Agios Ioannis",
-                  "text": "Népszerű tengerpart Lefkada városánál, szélmalmairól és kiteszörfözésről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        20.680637,
-                        38.841876
                   ]
             },
             {
@@ -6041,15 +5951,6 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Agglikaniki Ekklisia Leykados",
-                  "text": "A Lefkadai Anglikán templomot a 19. században építették a britek.",
-                  "category": "historical",
-                  "coords": [
-                        20.703254,
-                        38.828804
-                  ]
-            },
-            {
                   "name": "Ereipia archaias polis",
                   "text": "Az ókori Lefkada város romjai alapfalakat és falakat foglalnak magukban a város körül.",
                   "category": "historical",
@@ -6086,39 +5987,12 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Agios Minas",
-                  "text": "Barokk hatásokat mutató Agios Minas ortodox templom Lefkada városában.",
-                  "category": "religious",
-                  "coords": [
-                        20.704439,
-                        38.830702
-                  ]
-            },
-            {
-                  "name": "Agioi Anargyroi",
-                  "text": "Vallási épület és istentiszteleti hely Lefkada városában.",
-                  "category": "religious",
-                  "coords": [
-                        20.705688,
-                        38.833355
-                  ]
-            },
-            {
                   "name": "Alykes Alexandroy",
                   "text": "A Lefkada Town-beli Alexandros sólepárlók érdekes látványt nyújtanak.",
                   "category": "natural",
                   "coords": [
                         20.722807,
                         38.804601
-                  ]
-            },
-            {
-                  "name": "Limnothalassa Gyras",
-                  "text": "A Gyra-tó egy sekély sós lagúna Lefkadánál, madármegfigyelésről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        20.699663,
-                        38.842369
                   ]
             },
             {
@@ -6142,15 +6016,6 @@ export const poiExtraGreeceCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Archaiologiko Moyseio Leykadas",
-                  "text": "Muzeu din orașul Lefkada, care prezintă descoperiri arheologice de pe insulă.",
-                  "category": "museum",
-                  "coords": [
-                        20.704042,
-                        38.835034
-                  ]
-            },
-            {
                   "name": "Kastro Agias Mayras",
                   "text": "O fortăreață medievală impunătoare la intrarea pe insula Lefkada.",
                   "category": "castle",
@@ -6166,24 +6031,6 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         20.708019,
                         38.833503
-                  ]
-            },
-            {
-                  "name": "Gyra (Anna)",
-                  "text": "Gyra (Anna) este o plajă izolată cu pietriș și apă turcoaz lângă orașul Lefkada.",
-                  "category": "recreational",
-                  "coords": [
-                        20.701049,
-                        38.849331
-                  ]
-            },
-            {
-                  "name": "Agios Ioannis",
-                  "text": "Plajă populară lângă orașul Lefkada, cunoscută pentru morile de vânt și kitesurfing.",
-                  "category": "recreational",
-                  "coords": [
-                        20.680637,
-                        38.841876
                   ]
             },
             {
@@ -6259,15 +6106,6 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Agglikaniki Ekklisia Leykados",
-                  "text": "Biserica Anglicană din Lefkada a fost construită în secolul al XIX-lea de britanici.",
-                  "category": "historical",
-                  "coords": [
-                        20.703254,
-                        38.828804
-                  ]
-            },
-            {
                   "name": "Ereipia archaias polis",
                   "text": "Ruinele orașului antic Lefkada includ fundații și ziduri împrăștiate în jurul orașului.",
                   "category": "historical",
@@ -6304,39 +6142,12 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Agios Minas",
-                  "text": "Biserica ortodoxă Agios Minas cu influențe baroce din orașul Lefkada.",
-                  "category": "religious",
-                  "coords": [
-                        20.704439,
-                        38.830702
-                  ]
-            },
-            {
-                  "name": "Agioi Anargyroi",
-                  "text": "O clădire religioasă și loc de cult în orașul Lefkada.",
-                  "category": "religious",
-                  "coords": [
-                        20.705688,
-                        38.833355
-                  ]
-            },
-            {
                   "name": "Alykes Alexandroy",
                   "text": "Salinele Alexandros din Lefkada oferă un cadru interesant.",
                   "category": "natural",
                   "coords": [
                         20.722807,
                         38.804601
-                  ]
-            },
-            {
-                  "name": "Limnothalassa Gyras",
-                  "text": "Lacul Gyra este o lagună sărată puțin adâncă lângă Lefkada, cunoscută pentru observarea păsărilor.",
-                  "category": "natural",
-                  "coords": [
-                        20.699663,
-                        38.842369
                   ]
             },
             {
@@ -6360,15 +6171,6 @@ export const poiExtraGreeceCities: POI[] = [
       ],
       "en": [
             {
-                  "name": "Archaeological Museum of Lefkada",
-                  "text": "Museum in Lefkada Town presenting archaeological finds from across the island.",
-                  "category": "museum",
-                  "coords": [
-                        20.704042,
-                        38.835034
-                  ]
-            },
-            {
                   "name": "Agia Mavra Castle",
                   "text": "An impressive medieval fortress located at the entrance to Lefkada island.",
                   "category": "castle",
@@ -6384,24 +6186,6 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         20.708019,
                         38.833503
-                  ]
-            },
-            {
-                  "name": "Gyra (Anna)",
-                  "text": "Gyra (Anna) is a secluded pebble beach with turquoise water near Lefkada Town.",
-                  "category": "recreational",
-                  "coords": [
-                        20.701049,
-                        38.849331
-                  ]
-            },
-            {
-                  "name": "Agios Ioannis",
-                  "text": "Popular beach near Lefkada Town, known for its windmills and kitesurfing.",
-                  "category": "recreational",
-                  "coords": [
-                        20.680637,
-                        38.841876
                   ]
             },
             {
@@ -6477,15 +6261,6 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Agglikaniki Ekklisia Leykados",
-                  "text": "The Anglican Church of Lefkada was built in the 19th century by the British.",
-                  "category": "historical",
-                  "coords": [
-                        20.703254,
-                        38.828804
-                  ]
-            },
-            {
                   "name": "Ancient City Ruins",
                   "text": "The ancient city ruins of Lefkada include foundations and walls scattered around the town.",
                   "category": "historical",
@@ -6522,39 +6297,12 @@ export const poiExtraGreeceCities: POI[] = [
                   ]
             },
             {
-                  "name": "Agios Minas",
-                  "text": "Agios Minas Orthodox church featuring Baroque influences in Lefkada Town.",
-                  "category": "religious",
-                  "coords": [
-                        20.704439,
-                        38.830702
-                  ]
-            },
-            {
-                  "name": "Agioi Anargyroi",
-                  "text": "A religious building and place of worship in Lefkada Town.",
-                  "category": "religious",
-                  "coords": [
-                        20.705688,
-                        38.833355
-                  ]
-            },
-            {
                   "name": "Alexandros salt pans",
                   "text": "The Alexandros salt pans in Lefkada offer an interesting backdrop.",
                   "category": "natural",
                   "coords": [
                         20.722807,
                         38.804601
-                  ]
-            },
-            {
-                  "name": "Gyra Lake",
-                  "text": "Gyra Lake is a shallow saltwater lagoon near Lefkada, known for birdwatching.",
-                  "category": "natural",
-                  "coords": [
-                        20.699663,
-                        38.842369
                   ]
             },
             {

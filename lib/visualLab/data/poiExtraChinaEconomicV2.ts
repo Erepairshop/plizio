@@ -3123,15 +3123,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
     id: "datong-coal-industry-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Statue of Mao Tse Tung",
-                  "text": "Eine monumentale Statue des Gründers der Volksrepublik China auf einem zentralen Platz in Datong.",
-                  "category": "landmark",
-                  "coords": [
-                        113.281894,
-                        40.079924
-                  ]
-            },
-            {
                   "name": "China Sculpture Museum",
                   "text": "Das moderne Museum in der restaurierten Stadtmauer präsentiert zeitgenössische und klassische chinesische Bildhauerei.",
                   "category": "museum",
@@ -3286,15 +3277,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Statue of Mao Tse Tung",
-                  "text": "Kína alapítójának monumentális szobra Datong egyik központi terén.",
-                  "category": "landmark",
-                  "coords": [
-                        113.281894,
-                        40.079924
-                  ]
-            },
             {
                   "name": "China Sculpture Museum",
                   "text": "A restaurált városfalban található modern múzeum kortárs és klasszikus kínai szobrászatot mutat be.",
@@ -3451,15 +3433,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Statue of Mao Tse Tung",
-                  "text": "O statuie monumentală a fondatorului Republicii Populare Chineze într-o piață centrală din Datong.",
-                  "category": "landmark",
-                  "coords": [
-                        113.281894,
-                        40.079924
-                  ]
-            },
-            {
                   "name": "China Sculpture Museum",
                   "text": "Muzeul modern din zidul restaurat al orașului prezintă sculptură chineză contemporană și clasică.",
                   "category": "museum",
@@ -3614,15 +3587,6 @@ export const poiExtraChinaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Statue of Mao Tse Tung",
-                  "text": "A monumental statue of the founder of the People's Republic of China in a central Datong square.",
-                  "category": "landmark",
-                  "coords": [
-                        113.281894,
-                        40.079924
-                  ]
-            },
             {
                   "name": "China Sculpture Museum",
                   "text": "The modern museum within the restored city wall showcases contemporary and classical Chinese sculpture.",

@@ -1497,24 +1497,6 @@ export const poiExtraEcuadorLifeV2: POI[] = [
     id: "arenillas-naturreservat-life-v2", "sights": {
       "de": [
             {
-                  "name": "LAS TRES CRUCES",
-                  "text": "Ein Aussichtspunkt auf einem Hügel, markiert durch drei Kreuze, mit weitem Panoramablick über das Naturschutzgebiet.",
-                  "category": "natural",
-                  "coords": [
-                        -80.061909,
-                        -3.556511
-                  ]
-            },
-            {
-                  "name": "Arenillas City",
-                  "text": "Ein erhöhter Aussichtspunkt, der weitläufige Blicke über die städtische Landschaft und die umliegenden Grünflächen gewährt.",
-                  "category": "natural",
-                  "coords": [
-                        -80.055899,
-                        -3.5579
-                  ]
-            },
-            {
                   "name": "Balneario Santa Marianita",
                   "text": "Ein beliebtes lokales Flussbad, das erfrischendes Wasser im tropischen Klima bietet.",
                   "category": "landmark",
@@ -1642,24 +1624,6 @@ export const poiExtraEcuadorLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "LAS TRES CRUCES",
-                  "text": "Három kereszttel jelölt dombtetői kilátó, ahonnan elsöprő panoráma nyílik a természetvédelmi területre.",
-                  "category": "natural",
-                  "coords": [
-                        -80.061909,
-                        -3.556511
-                  ]
-            },
-            {
-                  "name": "Arenillas City",
-                  "text": "Magaslati megfigyelőhely, ahonnan kiterjedt kilátás nyílik a városi tájra és a környező zöldterületekre.",
-                  "category": "natural",
-                  "coords": [
-                        -80.055899,
-                        -3.5579
-                  ]
-            },
             {
                   "name": "Balneario Santa Marianita",
                   "text": "Népszerű helyi folyóparti fürdőhely, amely hűsítő vizet kínál a trópusi éghajlaton.",
@@ -1789,24 +1753,6 @@ export const poiExtraEcuadorLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "LAS TRES CRUCES",
-                  "text": "Un punct de observație pe deal, marcat de trei cruci, oferind panorame vaste peste rezervația naturală.",
-                  "category": "natural",
-                  "coords": [
-                        -80.061909,
-                        -3.556511
-                  ]
-            },
-            {
-                  "name": "Arenillas City",
-                  "text": "Un punct de observație elevat ce oferă vederi extinse asupra peisajului urban și a spațiilor verzi înconjurătoare.",
-                  "category": "natural",
-                  "coords": [
-                        -80.055899,
-                        -3.5579
-                  ]
-            },
-            {
                   "name": "Balneario Santa Marianita",
                   "text": "O stațiune balneară populară pe malul râului, oferind ape revigorante în climatul tropical.",
                   "category": "landmark",
@@ -1934,24 +1880,6 @@ export const poiExtraEcuadorLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "LAS TRES CRUCES",
-                  "text": "A scenic hilltop viewpoint marked by three crosses, offering sweeping panoramas over the nature reserve.",
-                  "category": "natural",
-                  "coords": [
-                        -80.061909,
-                        -3.556511
-                  ]
-            },
-            {
-                  "name": "Arenillas City",
-                  "text": "An elevated observation spot providing extensive views over the urban landscape and surrounding green spaces.",
-                  "category": "natural",
-                  "coords": [
-                        -80.055899,
-                        -3.5579
-                  ]
-            },
             {
                   "name": "Balneario Santa Marianita",
                   "text": "A popular local riverside bathing resort offering refreshing waters in the tropical climate.",
@@ -6822,15 +6750,6 @@ export const poiExtraEcuadorLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo del Pueblo Kichwa Otavalo",
-                  "text": "Das Museum zeigt das reiche kulturelle Erbe und das Kunsthandwerk der Kichwa aus Otavalo.",
-                  "category": "museum",
-                  "coords": [
-                        -78.267578,
-                        0.241908
-                  ]
-            },
-            {
                   "name": "La cruz del socavón",
                   "text": "Ein großes weißes Kreuz auf einem Hügel mit weitem Blick über das Otavalo-Tal.",
                   "category": "historical",
@@ -6840,39 +6759,12 @@ export const poiExtraEcuadorLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Los Danzantes",
-                  "text": "Dieses Denkmal ehrt die traditionellen Tänzer der farbenfrohen regionalen Feste.",
-                  "category": "historical",
-                  "coords": [
-                        -78.258622,
-                        0.232403
-                  ]
-            },
-            {
-                  "name": "molino de las Almas",
-                  "text": "Ruinen einer alten Mühle, um die sich lokale Legenden und Geistergeschichten ranken.",
-                  "category": "historical",
-                  "coords": [
-                        -78.266468,
-                        0.224102
-                  ]
-            },
-            {
                   "name": "Inti Watana (calendario solar)",
                   "text": "Ein antikes Observatorium, das von indigenen Völkern als Sonnenkalender genutzt wurde.",
                   "category": "historical",
                   "coords": [
                         -78.242636,
                         0.240765
-                  ]
-            },
-            {
-                  "name": "Bolivar",
-                  "text": "Ein wichtiges Kultur- und Theaterzentrum im Herzen der Stadt Otavalo.",
-                  "category": "cultural",
-                  "coords": [
-                        -78.262739,
-                        0.226991
                   ]
             },
             {
@@ -7047,57 +6939,12 @@ export const poiExtraEcuadorLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina La Playita",
-                  "text": "Ein beliebter natürlicher Badeplatz am Flussufer, bekannt für sein klares Wasser und die entspannte Atmosphäre im Grünen.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.256718,
-                        0.228583
-                  ]
-            },
-            {
-                  "name": "Meet",
-                  "text": "Ein lokaler Treffpunkt in der Gegend von Otavalo, der oft als Ausgangspunkt für Wanderungen in die Anden dient.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.262066,
-                        0.222516
-                  ]
-            },
-            {
-                  "name": "Muralla Pintada",
-                  "text": "Dieses farbenfrohe Wandgemälde zeigt Szenen des indigenen Lebens und die reiche kulturelle Identität der Menschen von Otavalo.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.26034,
-                        0.231718
-                  ]
-            },
-            {
-                  "name": "Taller ÑANDA MAÑACHI",
-                  "text": "In dieser Werkstatt werden traditionelle Andeninstrumente wie Panflöten und Quenas in Handarbeit aus Bambus gefertigt.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.245084,
-                        0.252294
-                  ]
-            },
-            {
                   "name": "CASA MATICO",
                   "text": "Ein Zentrum für traditionelle Medizin, das auf die heilende Wirkung der Matico-Pflanze und andine Kräuterkunde spezialisiert ist.",
                   "category": "landmark",
                   "coords": [
                         -78.246009,
                         0.257269
-                  ]
-            },
-            {
-                  "name": "San Juan Kapilla",
-                  "text": "Diese Kapelle ist ein zentraler Ort für die San-Juan-Feierlichkeiten im Juni, wenn indigene Tänzer hier ihre Rituale vollziehen.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.270018,
-                        0.235252
                   ]
             },
             {
@@ -7121,15 +6968,6 @@ export const poiExtraEcuadorLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo del Pueblo Kichwa Otavalo",
-                  "text": "A múzeum az otavalói kichwa nép gazdag kulturális örökségét és kézművességét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -78.267578,
-                        0.241908
-                  ]
-            },
-            {
                   "name": "La cruz del socavón",
                   "text": "Egy dombtetőn álló nagy fehér kereszt, ahonnan kilátás nyílik az Otavalo-völgyre.",
                   "category": "historical",
@@ -7139,39 +6977,12 @@ export const poiExtraEcuadorLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Los Danzantes",
-                  "text": "Ez az emlékmű a színes regionális fesztiválok hagyományos táncosai előtt tiszteleg.",
-                  "category": "historical",
-                  "coords": [
-                        -78.258622,
-                        0.232403
-                  ]
-            },
-            {
-                  "name": "molino de las Almas",
-                  "text": "Egy régi malom romjai, amelyhez helyi legendák és kísértethistóriák fűződnek.",
-                  "category": "historical",
-                  "coords": [
-                        -78.266468,
-                        0.224102
-                  ]
-            },
-            {
                   "name": "Inti Watana (calendario solar)",
                   "text": "Ősi obszervatórium, amelyet a bennszülött népek napnaptárként használtak.",
                   "category": "historical",
                   "coords": [
                         -78.242636,
                         0.240765
-                  ]
-            },
-            {
-                  "name": "Bolivar",
-                  "text": "Fontos kulturális és színházi központ Otavalo városának szívében.",
-                  "category": "cultural",
-                  "coords": [
-                        -78.262739,
-                        0.226991
                   ]
             },
             {
@@ -7346,57 +7157,12 @@ export const poiExtraEcuadorLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina La Playita",
-                  "text": "Népszerű természetes fürdőhely a folyóparton, amely tiszta vizéről és a zöldövezeti, nyugodt légköréről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.256718,
-                        0.228583
-                  ]
-            },
-            {
-                  "name": "Meet",
-                  "text": "Helyi találkozóhely Otavalo környékén, amely gyakran szolgál az andoki túrák kiindulópontjaként.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.262066,
-                        0.222516
-                  ]
-            },
-            {
-                  "name": "Muralla Pintada",
-                  "text": "Ez a színes falfestmény az őslakos élet jeleneteit és az otavalói emberek gazdag kulturális identitását mutatja be.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.26034,
-                        0.231718
-                  ]
-            },
-            {
-                  "name": "Taller ÑANDA MAÑACHI",
-                  "text": "Ebben a műhelyben hagyományos andoki hangszereket, például pánsípokat és quenákat készítenek kézzel bambuszból.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.245084,
-                        0.252294
-                  ]
-            },
-            {
                   "name": "CASA MATICO",
                   "text": "Hagyományos orvoslási központ, amely a matico növény gyógyító hatásaira és az andoki gyógynövényismeretre specializálódott.",
                   "category": "landmark",
                   "coords": [
                         -78.246009,
                         0.257269
-                  ]
-            },
-            {
-                  "name": "San Juan Kapilla",
-                  "text": "Ez a kápolna a júniusi San Juan-ünnepségek központi helyszíne, amikor az őslakos táncosok itt mutatják be rituáléikat.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.270018,
-                        0.235252
                   ]
             },
             {
@@ -7420,15 +7186,6 @@ export const poiExtraEcuadorLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo del Pueblo Kichwa Otavalo",
-                  "text": "Muzeul prezintă moștenirea culturală bogată și meșteșugurile poporului Kichwa din Otavalo.",
-                  "category": "museum",
-                  "coords": [
-                        -78.267578,
-                        0.241908
-                  ]
-            },
-            {
                   "name": "La cruz del socavón",
                   "text": "O cruce albă mare pe un deal, oferind vedere spre valea Otavalo.",
                   "category": "historical",
@@ -7438,39 +7195,12 @@ export const poiExtraEcuadorLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Los Danzantes",
-                  "text": "Acest monument onorează dansatorii tradiționali ai festivalurilor regionale colorate.",
-                  "category": "historical",
-                  "coords": [
-                        -78.258622,
-                        0.232403
-                  ]
-            },
-            {
-                  "name": "molino de las Almas",
-                  "text": "Ruinele unei vechi mori, înconjurate de legende locale și povești cu spirite.",
-                  "category": "historical",
-                  "coords": [
-                        -78.266468,
-                        0.224102
-                  ]
-            },
-            {
                   "name": "Inti Watana (calendario solar)",
                   "text": "Un observator antic folosit de popoarele indigene ca calendar solar.",
                   "category": "historical",
                   "coords": [
                         -78.242636,
                         0.240765
-                  ]
-            },
-            {
-                  "name": "Bolivar",
-                  "text": "Un centru cultural și teatral important în inima orașului Otavalo.",
-                  "category": "cultural",
-                  "coords": [
-                        -78.262739,
-                        0.226991
                   ]
             },
             {
@@ -7645,57 +7375,12 @@ export const poiExtraEcuadorLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina La Playita",
-                  "text": "Un loc popular de înot natural pe malul râului, cunoscut pentru apa sa limpede și atmosfera relaxată în mijlocul naturii.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.256718,
-                        0.228583
-                  ]
-            },
-            {
-                  "name": "Meet",
-                  "text": "Un loc de întâlnire local în zona Otavalo, care servește adesea ca punct de plecare pentru drumeții în Munții Anzi.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.262066,
-                        0.222516
-                  ]
-            },
-            {
-                  "name": "Muralla Pintada",
-                  "text": "Această pictură murală colorată înfățișează scene din viața indigenă și identitatea culturală bogată a oamenilor din Otavalo.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.26034,
-                        0.231718
-                  ]
-            },
-            {
-                  "name": "Taller ÑANDA MAÑACHI",
-                  "text": "În acest atelier, instrumente tradiționale andine, cum ar fi naiurile și quenas, sunt fabricate manual din bambus.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.245084,
-                        0.252294
-                  ]
-            },
-            {
                   "name": "CASA MATICO",
                   "text": "Un centru de medicină tradițională specializat în efectele curative ale plantei matico și în fitoterapia andină.",
                   "category": "landmark",
                   "coords": [
                         -78.246009,
                         0.257269
-                  ]
-            },
-            {
-                  "name": "San Juan Kapilla",
-                  "text": "Această chapelă este un loc central pentru festivitățile San Juan din iunie, când dansatorii indigeni își desfășoară ritualurile aici.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.270018,
-                        0.235252
                   ]
             },
             {
@@ -7719,15 +7404,6 @@ export const poiExtraEcuadorLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo del Pueblo Kichwa Otavalo",
-                  "text": "The museum displays the rich cultural heritage and crafts of the Otavalo Kichwa people.",
-                  "category": "museum",
-                  "coords": [
-                        -78.267578,
-                        0.241908
-                  ]
-            },
-            {
                   "name": "La cruz del socavón",
                   "text": "A large white cross on a hill overlooking the Otavalo valley.",
                   "category": "historical",
@@ -7737,39 +7413,12 @@ export const poiExtraEcuadorLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Los Danzantes",
-                  "text": "This monument honors the traditional dancers of the colorful regional festivals.",
-                  "category": "historical",
-                  "coords": [
-                        -78.258622,
-                        0.232403
-                  ]
-            },
-            {
-                  "name": "molino de las Almas",
-                  "text": "Ruins of an old mill surrounded by local legends and ghost stories.",
-                  "category": "historical",
-                  "coords": [
-                        -78.266468,
-                        0.224102
-                  ]
-            },
-            {
                   "name": "Inti Watana (calendario solar)",
                   "text": "An ancient observatory used by indigenous peoples as a solar calendar.",
                   "category": "historical",
                   "coords": [
                         -78.242636,
                         0.240765
-                  ]
-            },
-            {
-                  "name": "Bolivar",
-                  "text": "An important cultural and theater center in the heart of Otavalo city.",
-                  "category": "cultural",
-                  "coords": [
-                        -78.262739,
-                        0.226991
                   ]
             },
             {
@@ -7944,57 +7593,12 @@ export const poiExtraEcuadorLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina La Playita",
-                  "text": "A popular natural swimming spot on the riverbank, known for its clear water and relaxed atmosphere in the greenery.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.256718,
-                        0.228583
-                  ]
-            },
-            {
-                  "name": "Meet",
-                  "text": "A local meeting point in the Otavalo area, often serving as a starting point for hikes into the Andes.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.262066,
-                        0.222516
-                  ]
-            },
-            {
-                  "name": "Painted wall",
-                  "text": "This colorful mural depicts scenes of indigenous life and the rich cultural identity of the people of Otavalo.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.26034,
-                        0.231718
-                  ]
-            },
-            {
-                  "name": "Taller ÑANDA MAÑACHI",
-                  "text": "In this workshop, traditional Andean instruments like panpipes and quenas are handcrafted from bamboo.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.245084,
-                        0.252294
-                  ]
-            },
-            {
                   "name": "CASA MATICO",
                   "text": "A traditional medicine center specializing in the healing properties of the matico plant and Andean herbalism.",
                   "category": "landmark",
                   "coords": [
                         -78.246009,
                         0.257269
-                  ]
-            },
-            {
-                  "name": "San Juan Kapilla",
-                  "text": "This chapel is a focal point for the San Juan celebrations in June, when indigenous dancers perform their rituals here.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.270018,
-                        0.235252
                   ]
             },
             {
@@ -11340,39 +10944,12 @@ export const poiExtraEcuadorLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Degat",
-                  "text": "Ein lokales Museum, das kuratierte Artefakte von regionaler Bedeutung ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        -79.6819,
-                        -3.681159
-                  ]
-            },
-            {
                   "name": "Museo Municipal",
                   "text": "Ein städtisches Museum, das die städtische Geschichte und das kulturelle Erbe bewahrt und präsentiert.",
                   "category": "museum",
                   "coords": [
                         -79.610055,
                         -3.692776
-                  ]
-            },
-            {
-                  "name": "La Cadena",
-                  "text": "Ein öffentliches Denkmal, das lokal als \"Die Kette\" bekannt ist und als symbolisches Wahrzeichen der Gemeinde dient.",
-                  "category": "historical",
-                  "coords": [
-                        -79.67945,
-                        -3.681071
-                  ]
-            },
-            {
-                  "name": "Monumento Al Soldado",
-                  "text": "Ein Gedenkmonument, das den Dienst und die Opfer von Militärsoldaten ehrt.",
-                  "category": "historical",
-                  "coords": [
-                        -79.683065,
-                        -3.679203
                   ]
             },
             {
@@ -11612,39 +11189,12 @@ export const poiExtraEcuadorLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Degat",
-                  "text": "Helyi múzeum, amely regionális jelentőségű, válogatott műtárgyakat állít ki.",
-                  "category": "museum",
-                  "coords": [
-                        -79.6819,
-                        -3.681159
-                  ]
-            },
-            {
                   "name": "Museo Municipal",
                   "text": "Városi múzeum, amely megőrzi és bemutatja a város történelmét és kulturális örökségét.",
                   "category": "museum",
                   "coords": [
                         -79.610055,
                         -3.692776
-                  ]
-            },
-            {
-                  "name": "La Cadena",
-                  "text": "Nyilvános emlékmű, amelyet a helyiek \"A Lánc\" néven ismernek, és a közösség szimbolikus tájékozódási pontjaként szolgál.",
-                  "category": "historical",
-                  "coords": [
-                        -79.67945,
-                        -3.681071
-                  ]
-            },
-            {
-                  "name": "Monumento Al Soldado",
-                  "text": "Emlékmű, amely a katonák szolgálata és áldozatvállalása előtt tiszteleg.",
-                  "category": "historical",
-                  "coords": [
-                        -79.683065,
-                        -3.679203
                   ]
             },
             {
@@ -11884,39 +11434,12 @@ export const poiExtraEcuadorLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Degat",
-                  "text": "Un muzeu local care expune artefacte curatoriate de importanță regională.",
-                  "category": "museum",
-                  "coords": [
-                        -79.6819,
-                        -3.681159
-                  ]
-            },
-            {
                   "name": "Museo Municipal",
                   "text": "Un muzeu civic care păstrează și expune istoria municipală și patrimoniul cultural.",
                   "category": "museum",
                   "coords": [
                         -79.610055,
                         -3.692776
-                  ]
-            },
-            {
-                  "name": "La Cadena",
-                  "text": "Un monument public cunoscut pe plan local sub numele de „Lanțul”, servind ca un punct de reper simbolic al comunității.",
-                  "category": "historical",
-                  "coords": [
-                        -79.67945,
-                        -3.681071
-                  ]
-            },
-            {
-                  "name": "Monumento Al Soldado",
-                  "text": "Un monument memorial care onorează serviciul și sacrificiul soldaților militari.",
-                  "category": "historical",
-                  "coords": [
-                        -79.683065,
-                        -3.679203
                   ]
             },
             {
@@ -12156,39 +11679,12 @@ export const poiExtraEcuadorLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Degat",
-                  "text": "A local museum exhibiting curated artifacts of regional significance.",
-                  "category": "museum",
-                  "coords": [
-                        -79.6819,
-                        -3.681159
-                  ]
-            },
-            {
                   "name": "Museo Municipal",
                   "text": "A civic museum preserving and displaying the municipal history and cultural heritage.",
                   "category": "museum",
                   "coords": [
                         -79.610055,
                         -3.692776
-                  ]
-            },
-            {
-                  "name": "La Cadena",
-                  "text": "A public monument known locally as \"The Chain\", serving as a symbolic community landmark.",
-                  "category": "historical",
-                  "coords": [
-                        -79.67945,
-                        -3.681071
-                  ]
-            },
-            {
-                  "name": "Monumento Al Soldado",
-                  "text": "A memorial monument honoring the service and sacrifice of military soldiers.",
-                  "category": "historical",
-                  "coords": [
-                        -79.683065,
-                        -3.679203
                   ]
             },
             {

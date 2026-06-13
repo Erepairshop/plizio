@@ -3156,15 +3156,6 @@ export const italyLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pietra del Verticchio",
-                  "text": "Eine markante natürliche Felsformation im Nationalpark, die ein beliebtes Ziel für Wanderer ist.",
-                  "category": "landmark",
-                  "coords": [
-                        13.858932,
-                        41.761489
-                  ]
-            },
-            {
                   "name": "Chiesa di Santa Maria Assunta",
                   "text": "Eine historische religiöse Stätte im Gebiet des Nationalparks, die für die lokale Gemeinschaft von Bedeutung ist.",
                   "category": "religious",
@@ -3209,15 +3200,6 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         13.856351,
                         41.777426
-                  ]
-            },
-            {
-                  "name": "Pietra del Verticchio",
-                  "text": "A nemzeti park jellegzetes természetes sziklaalakzata, amely a túrázók kedvelt célpontja.",
-                  "category": "landmark",
-                  "coords": [
-                        13.858932,
-                        41.761489
                   ]
             },
             {
@@ -3268,15 +3250,6 @@ export const italyLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pietra del Verticchio",
-                  "text": "O formațiune stâncoasă naturală distinctivă din parcul național, fiind o destinație populară pentru drumeți.",
-                  "category": "landmark",
-                  "coords": [
-                        13.858932,
-                        41.761489
-                  ]
-            },
-            {
                   "name": "Chiesa di Santa Maria Assunta",
                   "text": "Un lăcaș de cult istoric situat în zona parcului național, având o importanță semnificativă pentru comunitatea locală.",
                   "category": "religious",
@@ -3321,15 +3294,6 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         13.856351,
                         41.777426
-                  ]
-            },
-            {
-                  "name": "Pietra del Verticchio",
-                  "text": "A distinctive natural rock formation in the national park that is a popular destination for hikers.",
-                  "category": "landmark",
-                  "coords": [
-                        13.858932,
-                        41.761489
                   ]
             },
             {
@@ -3633,33 +3597,6 @@ export const italyLifeV2: POI[] = [
     id: "italy-parco-regionale-dell-etna-life-v2", "sights": {
       "de": [
             {
-                  "name": "Park des Ätna",
-                  "text": "Ein Naturschutzgebiet rund um den Ätna, den höchsten aktiven Vulkan Europas.",
-                  "category": "natural",
-                  "coords": [
-                        14.982056,
-                        37.755196
-                  ]
-            },
-            {
-                  "name": "Punta Lucia",
-                  "text": "Ein hoher Berggipfel im Ätna-Massiv auf Sizilien.",
-                  "category": "landmark",
-                  "coords": [
-                        14.985847,
-                        37.764782
-                  ]
-            },
-            {
-                  "name": "Versante occidentale colata lavica 2015",
-                  "text": "Ein markantes Lavafeld am westlichen Rand des Ätna-Parks.",
-                  "category": "landmark",
-                  "coords": [
-                        14.991551,
-                        37.741351
-                  ]
-            },
-            {
                   "name": "Colata lavica 2019",
                   "text": "Stätte eines Lavastroms aus dem Ausbruch des Ätna im Jahr 2019.",
                   "category": "landmark",
@@ -3670,33 +3607,6 @@ export const italyLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Parco dell'Etna",
-                  "text": "Természetvédelmi terület az Etna, Európa legmagasabb aktív vulkánja körül.",
-                  "category": "natural",
-                  "coords": [
-                        14.982056,
-                        37.755196
-                  ]
-            },
-            {
-                  "name": "Punta Lucia",
-                  "text": "Magas hegycsúcs az Etna-masszívumban, Szicíliában.",
-                  "category": "landmark",
-                  "coords": [
-                        14.985847,
-                        37.764782
-                  ]
-            },
-            {
-                  "name": "Versante occidentale colata lavica 2015",
-                  "text": "Jellegzetes lávamező az Etna Park nyugati szélén.",
-                  "category": "landmark",
-                  "coords": [
-                        14.991551,
-                        37.741351
-                  ]
-            },
             {
                   "name": "Colata lavica 2019",
                   "text": "Az Etna 2019-es kitöréséből származó lávafolyam helyszíne.",
@@ -3709,33 +3619,6 @@ export const italyLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Parco dell'Etna",
-                  "text": "O rezervație naturală în jurul Muntelui Etna, cel mai înalt vulcan activ din Europa.",
-                  "category": "natural",
-                  "coords": [
-                        14.982056,
-                        37.755196
-                  ]
-            },
-            {
-                  "name": "Punta Lucia",
-                  "text": "Un vârf muntos înalt în masivul Etna din Sicilia.",
-                  "category": "landmark",
-                  "coords": [
-                        14.985847,
-                        37.764782
-                  ]
-            },
-            {
-                  "name": "Versante occidentale colata lavica 2015",
-                  "text": "Un câmp de lavă distinctiv la marginea vestică a Parcului Etna.",
-                  "category": "landmark",
-                  "coords": [
-                        14.991551,
-                        37.741351
-                  ]
-            },
-            {
                   "name": "Colata lavica 2019",
                   "text": "Locul unui flux de lavă provenit din erupția Etnei din anul 2019.",
                   "category": "landmark",
@@ -3746,33 +3629,6 @@ export const italyLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Mount Etna",
-                  "text": "A protected nature reserve surrounding Mount Etna, Europe's highest active volcano.",
-                  "category": "natural",
-                  "coords": [
-                        14.982056,
-                        37.755196
-                  ]
-            },
-            {
-                  "name": "Punta Lucia",
-                  "text": "A high mountain peak within the Mount Etna massif in Sicily.",
-                  "category": "landmark",
-                  "coords": [
-                        14.985847,
-                        37.764782
-                  ]
-            },
-            {
-                  "name": "Lava Field West Margin",
-                  "text": "A notable lava field located on the western margin of the Etna Park.",
-                  "category": "landmark",
-                  "coords": [
-                        14.991551,
-                        37.741351
-                  ]
-            },
             {
                   "name": "Lava stream 2019",
                   "text": "Site of a lava stream from the 2019 eruption of Mount Etna.",
@@ -4281,15 +4137,6 @@ export const italyLifeV2: POI[] = [
     id: "italy-parco-nazionale-gran-sasso-life-v2", "sights": {
       "de": [
             {
-                  "name": "Pizzo Cefalone",
-                  "text": "Ein markanter Berggipfel im Nationalpark Gran Sasso.",
-                  "category": "landmark",
-                  "coords": [
-                        13.524703,
-                        42.450872
-                  ]
-            },
-            {
                   "name": "Corno Grande - Vetta Orientale",
                   "text": "Einer der Hauptgipfel des Corno Grande im Gran Sasso Massiv.",
                   "category": "landmark",
@@ -4299,48 +4146,12 @@ export const italyLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte Portella",
-                  "text": "Ein Berg im Gran-Sasso-Massiv mit weitem Ausblick.",
-                  "category": "landmark",
-                  "coords": [
-                        13.546025,
-                        42.447545
-                  ]
-            },
-            {
-                  "name": "Corno Piccolo",
-                  "text": "Zweithöchster Gipfel des Gran Sasso, 2655 Meter hoch.",
-                  "category": "landmark",
-                  "coords": [
-                        13.559981,
-                        42.479132
-                  ]
-            },
-            {
-                  "name": "Pizzo d'Intermesoli",
-                  "text": "2635 Meter hoher Berg im Gran-Sasso-Massiv.",
-                  "category": "landmark",
-                  "coords": [
-                        13.527238,
-                        42.472526
-                  ]
-            },
-            {
                   "name": "Monte Aquila",
                   "text": "Ein Berggipfel im Gran Sasso Massiv in der Region Abruzzen.",
                   "category": "landmark",
                   "coords": [
                         13.56855,
                         42.456385
-                  ]
-            },
-            {
-                  "name": "Vetta Settentrionale d'Intermesoli",
-                  "text": "Der Nordgipfel des Pizzo d'Intermesoli im Gran Sasso.",
-                  "category": "landmark",
-                  "coords": [
-                        13.523354,
-                        42.481946
                   ]
             },
             {
@@ -4355,15 +4166,6 @@ export const italyLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Pizzo Cefalone",
-                  "text": "Egy jellegzetes hegycsúcs a Gran Sasso Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        13.524703,
-                        42.450872
-                  ]
-            },
-            {
                   "name": "Corno Grande - Vetta Orientale",
                   "text": "A Corno Grande egyik fő csúcsa a Gran Sasso-hegységben.",
                   "category": "landmark",
@@ -4373,48 +4175,12 @@ export const italyLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte Portella",
-                  "text": "Egy hegy a Gran Sasso-hegységben, ahonnan széles kilátás nyílik.",
-                  "category": "landmark",
-                  "coords": [
-                        13.546025,
-                        42.447545
-                  ]
-            },
-            {
-                  "name": "Corno Piccolo",
-                  "text": "A Gran Sasso második legmagasabb csúcsa, 2655 méter.",
-                  "category": "landmark",
-                  "coords": [
-                        13.559981,
-                        42.479132
-                  ]
-            },
-            {
-                  "name": "Pizzo d'Intermesoli",
-                  "text": "2635 méter magas hegy a Gran Sasso masszívumban.",
-                  "category": "landmark",
-                  "coords": [
-                        13.527238,
-                        42.472526
-                  ]
-            },
-            {
                   "name": "Monte Aquila",
                   "text": "Egy hegycsúcs a Gran Sasso-hegységben, Abruzzo régióban.",
                   "category": "landmark",
                   "coords": [
                         13.56855,
                         42.456385
-                  ]
-            },
-            {
-                  "name": "Vetta Settentrionale d'Intermesoli",
-                  "text": "A Pizzo d'Intermesoli északi csúcsa a Gran Sasso-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        13.523354,
-                        42.481946
                   ]
             },
             {
@@ -4429,15 +4195,6 @@ export const italyLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Pizzo Cefalone",
-                  "text": "Un vârf muntos proeminent în Parcul Național Gran Sasso.",
-                  "category": "landmark",
-                  "coords": [
-                        13.524703,
-                        42.450872
-                  ]
-            },
-            {
                   "name": "Corno Grande - Vetta Orientale",
                   "text": "Unul dintre vârfurile principale ale masivului Corno Grande din Gran Sasso.",
                   "category": "landmark",
@@ -4447,48 +4204,12 @@ export const italyLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte Portella",
-                  "text": "Un munte în masivul Gran Sasso, oferind vederi panoramice.",
-                  "category": "landmark",
-                  "coords": [
-                        13.546025,
-                        42.447545
-                  ]
-            },
-            {
-                  "name": "Corno Piccolo",
-                  "text": "Al doilea cel mai înalt vârf al Gran Sasso, 2655 m.",
-                  "category": "landmark",
-                  "coords": [
-                        13.559981,
-                        42.479132
-                  ]
-            },
-            {
-                  "name": "Pizzo d'Intermesoli",
-                  "text": "Munte de 2635 m în masivul Gran Sasso.",
-                  "category": "landmark",
-                  "coords": [
-                        13.527238,
-                        42.472526
-                  ]
-            },
-            {
                   "name": "Monte Aquila",
                   "text": "Un vârf muntos în masivul Gran Sasso din regiunea Abruzzo.",
                   "category": "landmark",
                   "coords": [
                         13.56855,
                         42.456385
-                  ]
-            },
-            {
-                  "name": "Vetta Settentrionale d'Intermesoli",
-                  "text": "Vârful nordic al masivului Pizzo d'Intermesoli din Gran Sasso.",
-                  "category": "landmark",
-                  "coords": [
-                        13.523354,
-                        42.481946
                   ]
             },
             {
@@ -4503,15 +4224,6 @@ export const italyLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Pizzo Cefalone",
-                  "text": "A prominent mountain peak in the Gran Sasso National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        13.524703,
-                        42.450872
-                  ]
-            },
-            {
                   "name": "Corno Grande - Vetta Orientale",
                   "text": "One of the main peaks of the Corno Grande in the Gran Sasso massif.",
                   "category": "landmark",
@@ -4521,48 +4233,12 @@ export const italyLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte Portella",
-                  "text": "A mountain in the Gran Sasso massif offering panoramic views.",
-                  "category": "landmark",
-                  "coords": [
-                        13.546025,
-                        42.447545
-                  ]
-            },
-            {
-                  "name": "Corno Piccolo",
-                  "text": "Second highest peak of the Gran Sasso, rising to 2,655 meters.",
-                  "category": "landmark",
-                  "coords": [
-                        13.559981,
-                        42.479132
-                  ]
-            },
-            {
-                  "name": "Pizzo d'Intermesoli",
-                  "text": "A 2,635-meter-high mountain in the Gran Sasso massif.",
-                  "category": "landmark",
-                  "coords": [
-                        13.527238,
-                        42.472526
-                  ]
-            },
-            {
                   "name": "Monte Aquila",
                   "text": "A mountain peak in the Gran Sasso massif in the Abruzzo region.",
                   "category": "landmark",
                   "coords": [
                         13.56855,
                         42.456385
-                  ]
-            },
-            {
-                  "name": "Vetta Settentrionale d'Intermesoli",
-                  "text": "The northern peak of the Pizzo d'Intermesoli in the Gran Sasso.",
-                  "category": "landmark",
-                  "coords": [
-                        13.523354,
-                        42.481946
                   ]
             },
             {
@@ -5028,15 +4704,6 @@ export const italyLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pizzo del Diavolo",
-                  "text": "Ein imposanter Berggipfel im Monti Sibillini Nationalpark.",
-                  "category": "landmark",
-                  "coords": [
-                        13.259347,
-                        42.826365
-                  ]
-            },
-            {
                   "name": "Cima del Lago",
                   "text": "Ein Berggipfel in den Monti Sibillini, der über dem Lago di Pilato thront.",
                   "category": "landmark",
@@ -5061,15 +4728,6 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         13.249861,
                         42.837693
-                  ]
-            },
-            {
-                  "name": "Monte Vettore",
-                  "text": "Der höchste Gipfel des Monti-Sibillini-Massivs mit einer Höhe von 2476 Metern.",
-                  "category": "landmark",
-                  "coords": [
-                        13.274972,
-                        42.824412
                   ]
             },
             {
@@ -5102,15 +4760,6 @@ export const italyLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pizzo del Diavolo",
-                  "text": "Impozáns hegycsúcs a Monti Sibillini Nemzeti Park területén.",
-                  "category": "landmark",
-                  "coords": [
-                        13.259347,
-                        42.826365
-                  ]
-            },
-            {
                   "name": "Cima del Lago",
                   "text": "Hegycsúcs a Monti Sibillini hegységben, amely a Pilátus-tó felett magasodik.",
                   "category": "landmark",
@@ -5135,15 +4784,6 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         13.249861,
                         42.837693
-                  ]
-            },
-            {
-                  "name": "Monte Vettore",
-                  "text": "A Monti Sibillini-hegység legmagasabb csúcsa, 2476 méteres magassággal.",
-                  "category": "landmark",
-                  "coords": [
-                        13.274972,
-                        42.824412
                   ]
             },
             {
@@ -5176,15 +4816,6 @@ export const italyLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pizzo del Diavolo",
-                  "text": "Un vârf muntos impunător situat în Parcul Național Monti Sibillini.",
-                  "category": "landmark",
-                  "coords": [
-                        13.259347,
-                        42.826365
-                  ]
-            },
-            {
                   "name": "Cima del Lago",
                   "text": "Un vârf muntos din Monti Sibillini, situat deasupra lacului Pilato.",
                   "category": "landmark",
@@ -5209,15 +4840,6 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         13.249861,
                         42.837693
-                  ]
-            },
-            {
-                  "name": "Monte Vettore",
-                  "text": "Cel mai înalt vârf din masivul Monti Sibillini, având o înălțime de 2476 metri.",
-                  "category": "landmark",
-                  "coords": [
-                        13.274972,
-                        42.824412
                   ]
             },
             {
@@ -5250,15 +4872,6 @@ export const italyLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pizzo del Diavolo",
-                  "text": "An impressive mountain peak within the Monti Sibillini National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        13.259347,
-                        42.826365
-                  ]
-            },
-            {
                   "name": "Cima del Lago",
                   "text": "A mountain peak in the Monti Sibillini, overlooking the Pilato Lake.",
                   "category": "landmark",
@@ -5283,15 +4896,6 @@ export const italyLifeV2: POI[] = [
                   "coords": [
                         13.249861,
                         42.837693
-                  ]
-            },
-            {
-                  "name": "Monte Vettore",
-                  "text": "The highest peak of the Monti Sibillini massif, reaching an elevation of 2,476 meters.",
-                  "category": "landmark",
-                  "coords": [
-                        13.274972,
-                        42.824412
                   ]
             },
             {

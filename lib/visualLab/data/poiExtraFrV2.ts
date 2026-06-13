@@ -1676,7 +1676,168 @@ export const poiExtraFrV2: POI[] = [
             }
       ]
 }},
-  {"id": "antibes", "type": "city", "parent": "FR-PAC", "coords": [7.1239, 43.5808], "population": 74944, "tier": 1, "name": {"de": "Antibes", "hu": "Antibes", "ro": "Antibes", "en": "Antibes"}, "description": {"de": "Antibes ist eine charmante Hafenstadt an der Côte d'Azur, bekannt für ihre historische Altstadt, das Picasso-Museum und den luxuriösen Yachthafen Port Vauban.", "hu": "Antibes a Francia Riviéra egyik legvonzóbb városa, ahol a középkori várfalak, a Picasso Múzeum és Európa legnagyobb jachtkikötője találkozik.", "ro": "Antibes este o bijuterie a Coastei de Azur, faimoasă pentru orașul său vechi fortificat, Muzeul Picasso și luxosul port de iahturi Port Vauban.", "en": "Antibes is a historic coastal city on the French Riviera, renowned for its old town, the Picasso Museum, and the Mediterranean's largest yachting harbor."}, "facts": {"de": ["Größter Yachthafen im Mittelmeer", "Historische Stadtmauern von Vauban", "Ehemaliges Grimaldi-Schloss (Picasso-Museum)", "Berühmter provenzalischer Markt", "Exklusive Halbinsel Cap d'Antibes", "Jahresmittel von 300 Sonnentagen", "Gegründet als griechische Kolonie Antipolis", "Bekannt für den Jazz-Festival Jazz à Juan"], "hu": ["A Földközi-tenger legnagyobb jachtkikötője", "Vauban által tervezett erődrendszer", "Picasso Múzeum a Grimaldi-kastélyban", "Híres provence-i napi piac", "A luxusnegyedéről ismert Cap d'Antibes", "Átlagosan évi 300 napsütéses nap", "Görög kolóniaként alapították (Antipolis)", "A Jazz à Juan fesztivál otthona"], "ro": ["Cel mai mare port de iahturi din Mediterană", "Ziduri fortificate proiectate de Vauban", "Muzeul Picasso în castelul Grimaldi", "Piață provensală tradițională celebră", "Peninsula exclusivistă Cap d'Antibes", "Peste 300 de zile cu soare pe an", "Fondat de greci sub numele Antipolis", "Gazda festivalului Jazz à Juan"], "en": ["Largest yacht harbor in the Mediterranean", "Ancient fortified walls by Vauban", "Picasso Museum housed in Grimaldi Castle", "Famous daily Provençal market", "Exclusive Cap d'Antibes peninsula", "Average of 300 sunny days per year", "Founded as the Greek colony Antipolis", "Host of the Jazz à Juan festival"]}, "image": "/geo-images/france/antibes.webp", "imageHint": "Antibes old town skyline with the Grimaldi Castle and Port Vauban", "descriptionAdvanced": {"de": "Antibes liegt strategisch günstig zwischen Cannes und Nizza und blickt auf eine über 2000-jährige Geschichte zurück. Ursprünglich von den Griechen als Antipolis gegründet, entwickelte sich die Stadt im Mittelalter zu einer wichtigen Grenzfestung. Die mächtigen Stadtmauern, die heute noch den alten Kern umschließen, wurden von dem berühmten Baumeister Vauban verstärkt. Das Herzstück der Altstadt ist das Château Grimaldi, in dem Pablo Picasso 1946 sein Atelier hatte; heute beherbergt es eines der bedeutendsten Picasso-Museen weltweit. Antibes ist zudem ein Magnet für die Superreichen: Im Port Vauban liegen an der sogenannten 'Milliardärskai' die größten Privatyachten der Welt. Die angrenzende Halbinsel Cap d'Antibes ist bekannt für ihre Luxusvillen, versteckten Buchten und den 'Sentier du Littoral', einen spektakulären Küstenwanderweg. Im Sommer verwandelt sich der Stadtteil Juan-les-Pins in ein pulsierendes Zentrum für Jazz-Liebhaber.", "hu": "Antibes a Côte d'Azur egyik legrégebbi és legkarakteresebb városa, amely sikeresen ötvözi a történelmi bájt a modern luxussal. A várost a görögök alapították Antipolis néven, majd a rómaiak alatt vált fontos kereskedelmi központtá. Óvárosát ma is a 17. századi erődítmények és Vauban bástyái védik, labirintusszerű utcái pedig tele vannak galériákkal és kézműves boltokkal. A Grimaldi-kastélyban működő Picasso Múzeum a világ egyik legjelentősebb gyűjteményének ad otthont, mivel a művész egy ideig itt élt és alkotott. A város kikötője, a Port Vauban, Európa legnagyobb mélyvízi jachtkikötője, ahol a világ legdrágább szuperjachtjai horgonyoznak. A Cap d’Antibes félsziget a gazdagok és híresek búvóhelye, míg a szomszédos Juan-les-Pins a homokos strandjairól és a legendás jazzfesztiváljáról híres.", "ro": "Situat între Nisa și Cannes, Antibes este un oraș care îmbină perfect istoria antică cu rafinamentul modern al Rivierei Franceze. Fondat ca Antipolis de către greci, orașul păstrează un aer medieval în cartierul vechi, unde străzile înguste sunt mărginite de flori și ateliere de artă. Castelul Grimaldi, dominând marea, a fost locul unde Picasso a creat numeroase opere în 1946, devenind astăzi primul muzeu dedicat artistului. Port Vauban, cu impresionantul său 'Moll des Milliardaires', este centrul nautic al Mediteranei, găzduind cele mai mari iahturi private din lume. Cap d'Antibes, peninsula împădurită din sud, oferă peisaje sălbatice pe poteca de coastă și adăpostește vile legendare precum Eden-Roc. Orașul este de asemenea renumit pentru piața sa provensală autentică, unde parfumurile locale de lavandă și condimente atrag turiștii în fiecare dimineață.", "en": "Antibes is a gem of the French Riviera, positioned between Nice and Cannes. Founded by Greek Phocaeans as Antipolis, it has evolved from a Roman trading post and a medieval stronghold into a luxury tourist destination. The Old Town is protected by 17th-century ramparts designed by Vauban, offering a stark contrast to the modern superyachts docked in Port Vauban, the largest marina in the Mediterranean. The Château Grimaldi stands as a cultural landmark, housing the Picasso Museum after the artist spent several productive months here in 1946. South of the city lies the Cap d'Antibes, a wooded peninsula famous for its opulent villas and the stunning Sentier du Littoral coastal path. The town is also famous for its vibrant flower industry and the Juan-les-Pins district, which hosts the world-renowned 'Jazz à Juan' festival every July."}, "factsAdvanced": {"de": ["Picasso Museum besitzt über 240 Werke des Künstlers", "Port Vauban verfügt über 1700 Liegeplätze", "Fort Carré stammt aus dem 16. Jahrhundert", "Cap d'Antibes ist Heimat der Villa Eilenroc", "Le Marché Provençal findet täglich statt", "Höchster Punkt ist der Garoupe-Hügel mit Kapelle"], "hu": ["A Picasso Múzeum több mint 240 művet őriz", "A Port Vauban kikötőben 1700 férőhely van", "A Fort Carré erőd a 16. században épült", "Cap d'Antibes-en található a híres Villa Eilenroc", "A provence-i piac minden nap várja a látogatókat", "A Garoupe-domb tetejéről panorámás kilátás nyílik"], "ro": ["Muzeul Picasso deține peste 240 de lucrări originale", "Port Vauban oferă peste 1700 de locuri de acostare", "Fortul Carré a fost construit în secolul al XVI-lea", "Cap d'Antibes găzduiește eleganta Villa Eilenroc", "Piața Provensală este deschisă zilnic în orașul vechi", "Dealul Garoupe oferă cea mai bună vedere panoramică"], "en": ["The Picasso Museum holds over 240 works by the artist", "Port Vauban can accommodate 1700 boats and yachts", "Fort Carré is a 16th-century star-shaped fortress", "Cap d'Antibes is home to the historic Villa Eilenroc", "The Provençal market is held daily in the covered hall", "Garoupe Hill offers a panoramic view over the coastline"]}, "sights": {"de": [{"name": "Musée Picasso", "text": "Das im historischen Château Grimaldi untergebrachte Museum zeigt eine außergewöhnliche Sammlung von Picassos Kunstwerken, die er hier schuf.", "category": "museums", "confidence": "high", "coords": [7.128333, 43.580833]}, {"name": "Fort Carré", "text": "Eine prächtige sternförmige Festung aus dem 16. Jahrhundert auf einer Halbinsel, die einen herrlichen Panoramablick auf das Mittelmeer bietet.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [7.127222, 43.590278]}, {"name": "Marché Provençal", "text": "Ein lebhafter, farbenfroher Markt in der Altstadt, der frische regionale Produkte, Gewürze und lokales traditionelles Kunsthandwerk anbietet.", "category": "squares/old-town", "confidence": "high", "coords": [7.127555, 43.581003]}, {"name": "Port Vauban", "text": "Einer der größten Yachthäfen im Mittelmeer, berühmt für seinen Kai der Milliardäre mit den größten und luxuriösesten Yachten der Welt.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.126944, 43.586667]}, {"name": "Phare de la Garoupe", "text": "Ein ikonischer Leuchtturm auf der Halbinsel Cap d'Antibes, der Schiffe führt und einen wahrhaft atemberaubenden Blick über die Küste bietet.", "category": "bridges/lighthouses", "confidence": "high", "coords": [7.13306, 43.5642]}, {"name": "Cathédrale Notre-Dame-de-la-Platea", "text": "Die größte Kirche in Antibes mit einer auffälligen italienischen Fassade und einem wunderschönen Holzaltar aus dem 16. Jahrhundert.", "category": "churches/cathedrals", "confidence": "high", "coords": [7.128333, 43.581111]}, {"name": "Sentier du Littoral", "text": "Ein spektakulärer, zerklüfteter Küstenwanderweg rund um das Cap d'Antibes, der dramatische Meerblicke und tosenden Wellen bietet.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.139687, 43.555293]}, {"name": "Plage du Fort Carré", "text": "Im historischen Schatten des Fort Carré in Antibes breitet sich dieser charmante Strandabschnitt aus. Das Zusammentreffen von kulturellem Erbe und mediterranem Küstenflair verleiht dem Ort eine ganz besondere und ruhige Ausstrahlung. Nach einer Besichtigung der alten Festung bietet sich hier eine erfrischende Pause am Meer hervorragend an.", "category": "recreational", "coords": [7.125709, 43.593349]}, {"name": "Plage du port", "text": "Dieser gemütliche lokale Strand befindet sich in greifbarer Nähe zum lebendigen Hafen von Antibes. Man spürt das maritime Treiben der vorüberziehenden Boote, während man gleichzeitig im Sand entspannen oder spazieren gehen kann. Für einen kurzen Zwischenstopp oder ein schnelles Bad während eines Stadtbummels ist dieser Abschnitt ideal.", "category": "recreational", "coords": [7.129886, 43.584046]}, {"name": "Plage de la Base de Voile", "text": "Stark mit dem lokalen Segelsport verwurzelt, versprüht die Plage de la Base de Voile in Antibes eine sehr sportliche und dynamische Atmosphäre. Hier blickt man oft auf weiße Segel am Horizont, während man selbst in die Wellen taucht oder das rege Treiben am Ufer beobachtet. Ein Besuch lohnt sich besonders an windigen Tagen, um das Spektakel auf dem Wasser zu bewundern.", "category": "recreational", "coords": [7.127915, 43.572003]}], "hu": [{"name": "Musée Picasso", "text": "A történelmi Château Grimaldiban található múzeum Picasso itt tartózkodása alatt készített egyedülálló műveinek kivételes gyűjteményét mutatja be.", "category": "museums", "confidence": "high", "coords": [7.128333, 43.580833]}, {"name": "Fort Carré", "text": "Egy csodálatos 16. századi csillag alakú erődítmény egy félszigeten, amely mesés panorámás kilátást nyújt Antibes-ra és a Földközi-tengerre.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [7.127222, 43.590278]}, {"name": "Marché Provençal", "text": "Nyüzsgő és színes napi piac az óvárosban, amely friss regionális termékeket, fűszereket, levendulát és helyi kézműves termékeket kínál.", "category": "squares/old-town", "confidence": "high", "coords": [7.127555, 43.581003]}, {"name": "Port Vauban", "text": "A Földközi-tenger egyik legnagyobb jachtkikötője, híres a Milliárdosok mólójáról, amely a világ legfényűzőbb luxusjachtjait fogadja nap mint nap.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.126944, 43.586667]}, {"name": "Phare de la Garoupe", "text": "Ikonikus világítótorony a Cap d'Antibes félszigeten, amely megbízhatóan irányítja a hajókat és lélegzetelállító kilátást nyújt a Francia Riviérára.", "category": "bridges/lighthouses", "confidence": "high", "coords": [7.13306, 43.5642]}, {"name": "Cathédrale Notre-Dame-de-la-Platea", "text": "Antibes legnagyobb temploma, amely feltűnő olaszos homlokzattal és egy gyönyörű, 16. századi eredeti faragott fa oltárképpel büszkélkedhet.", "category": "churches/cathedrals", "confidence": "high", "coords": [7.128333, 43.581111]}, {"name": "Sentier du Littoral", "text": "Egy látványosan zord parti túraútvonal, amely a Cap d'Antibes partjai körül kanyarog, drámai tengeri kilátást és vad hullámokat nyújtva.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.139687, 43.555293]}, {"name": "Plage du Fort Carré", "text": "Ez a bájos partszakasz az antibesi Fort Carré történelmi árnyékában terül el. A kulturális örökség és a mediterrán tengerparti hangulat találkozása nagyon különleges és nyugodt atmoszférát kölcsönöz a helynek. Az ősi erőd bejárása után fantasztikus ötlet itt egy frissítő pihenőt tartani a tengerparton.", "category": "recreational", "coords": [7.125709, 43.593349]}, {"name": "Plage du port", "text": "Ez a hangulatos helyi strand könnyen elérhető közelségben található a nyüzsgő antibesi kikötőtől. Érezhető az elhaladó hajók tengeri nyüzsgése, miközben a homokon pihenhetünk vagy sétálhatunk. Egy rövid megállóra vagy egy gyors úszásra egy városi séta során ez a hely egyszerűen ideális.", "category": "recreational", "coords": [7.129886, 43.584046]}, {"name": "Plage de la Base de Voile", "text": "A helyi vitorláséletben mélyen gyökerező antibesi Plage de la Base de Voile rendkívül sportos és dinamikus légkört áraszt. Gyakran gyönyörködhetünk a horizonton feltűnő fehér vitorlákban, miközben magunk is a hullámok közé vetjük magunkat, vagy figyeljük a part élénk nyüzsgését. Különösen szeles napokon érdemes ellátogatni ide, hogy megcsodáljuk a vízi látványosságot.", "category": "recreational", "coords": [7.127915, 43.572003]}], "ro": [{"name": "Musée Picasso", "text": "Găzduit în istoricul Château Grimaldi, acest muzeu prezintă o colecție excepțională de lucrări unice create de Picasso în timpul șederii sale.", "category": "museums", "confidence": "high", "coords": [7.128333, 43.580833]}, {"name": "Fort Carré", "text": "O fortăreață magnifică în formă de stea din secolul al XVI-lea, situată pe o peninsulă, oferind vederi panoramice superbe ale Mării Mediterane.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [7.127222, 43.590278]}, {"name": "Marché Provençal", "text": "Un târg zilnic vibrant și colorat în orașul vechi, oferind produse regionale proaspete, condimente, levănțică și artizanat local tradițional.", "category": "squares/old-town", "confidence": "high", "coords": [7.127555, 43.581003]}, {"name": "Port Vauban", "text": "Unul dintre cele mai mari porturi de agrement din Mediterana, renumit pentru faimosul chei al miliardarilor cu iahturi extrem de luxoase.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.126944, 43.586667]}, {"name": "Phare de la Garoupe", "text": "Un far emblematic pe peninsula Cap d'Antibes care ghidează navele și oferă un punct de vedere absolut uluitor asupra întregii Rivierei Franceze.", "category": "bridges/lighthouses", "confidence": "high", "coords": [7.13306, 43.5642]}, {"name": "Cathédrale Notre-Dame-de-la-Platea", "text": "Cea mai mare biserică din Antibes, cu o fațadă italiană izbitoare și un foarte frumos retablu sculptat din lemn care datează din secolul al XVI-lea.", "category": "churches/cathedrals", "confidence": "high", "coords": [7.128333, 43.581111]}, {"name": "Sentier du Littoral", "text": "Un traseu de coastă pietonal spectaculos de accidentat care șerpuiește în jurul Capului d'Antibes, cu vederi dramatice la mare și valuri puternice.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.139687, 43.555293]}, {"name": "Plage du Fort Carré", "text": "Această porțiune fermecătoare de plajă se întinde în umbra istorică a Fortului Carré din Antibes. Intersecția dintre moștenirea culturală și flerul de coastă mediteranean oferă locației o atmosferă cu totul specială și liniștită. După ce ați vizitat vechea fortăreață, o pauză revigorantă lângă mare aici este o idee fantastică.", "category": "recreational", "coords": [7.125709, 43.593349]}, {"name": "Plage du port", "text": "Această plajă locală confortabilă este situată la mică distanță de portul plin de viață din Antibes. Puteți simți agitația maritimă a bărcilor care trec în timp ce vă relaxați simultan pe nisip sau faceți o plimbare. Pentru o scurtă escală sau o înotare rapidă în timpul unei plimbări prin oraș, acest loc este ideal.", "category": "recreational", "coords": [7.129886, 43.584046]}, {"name": "Plage de la Base de Voile", "text": "Profund înrădăcinată în scena locală de navigație, Plage de la Base de Voile din Antibes emană o atmosferă extrem de sportivă și dinamică. Vă puteți uita adesea la pânzele albe de la orizont în timp ce vă scufundați singur în valuri sau urmăriți activitatea plină de viață de pe mal. O vizită este deosebit de utilă în zilele cu vânt pentru a admira spectacolul de pe apă.", "category": "recreational", "coords": [7.127915, 43.572003]}], "en": [{"name": "Musée Picasso", "text": "Housed in the historic Château Grimaldi, this wonderful museum features an exceptional collection of artworks created by Picasso during his stay here.", "category": "museums", "confidence": "high", "coords": [7.128333, 43.580833]}, {"name": "Fort Carré", "text": "A magnificent 16th-century star-shaped fortress strategically situated on a peninsula, offering stunningly panoramic views of the Mediterranean.", "category": "castles/fortresses/towers", "confidence": "high", "coords": [7.127222, 43.590278]}, {"name": "Marché Provençal", "text": "A vibrant and colorful daily market in the Old Town, offering fresh regional produce, fragrant spices, lavender, and beautiful local artisan crafts.", "category": "squares/old-town", "confidence": "high", "coords": [7.127555, 43.581003]}, {"name": "Port Vauban", "text": "One of the largest marinas in the Mediterranean, famous for its Billionaires' Quay routinely hosting some of the world's most luxurious superyachts.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.126944, 43.586667]}, {"name": "Phare de la Garoupe", "text": "An iconic lighthouse on the beautiful Cap d'Antibes peninsula that guides passing ships and provides a breathtaking viewpoint over the French Riviera.", "category": "bridges/lighthouses", "confidence": "high", "coords": [7.13306, 43.5642]}, {"name": "Cathédrale Notre-Dame-de-la-Platea", "text": "The largest church in Antibes, featuring a striking Italianate facade and a beautifully preserved wooden altarpiece dating back to the 16th century.", "category": "churches/cathedrals", "confidence": "high", "coords": [7.128333, 43.581111]}, {"name": "Sentier du Littoral", "text": "A spectacularly rugged coastal walking trail winding wildly around the Cap d'Antibes, offering dramatic and uninterrupted sea views and crashing waves.", "category": "parks/promenades/beaches", "confidence": "high", "coords": [7.139687, 43.555293]}, {"name": "Plage du Fort Carré", "text": "This charming stretch of beach unfolds in the historical shadow of Fort Carré in Antibes. The intersection of cultural heritage and Mediterranean coastal flair gives the location a very special and tranquil vibe. After touring the ancient fortress, taking a refreshing break by the sea here is a fantastic idea.", "category": "recreational", "coords": [7.125709, 43.593349]}, {"name": "Plage du port", "text": "This cozy local beach is situated within easy reach of the lively port of Antibes. You can sense the maritime hustle and bustle of passing boats while simultaneously relaxing on the sand or taking a walk. For a brief stopover or a quick swim during a stroll through the town, this spot is ideal.", "category": "recreational", "coords": [7.129886, 43.584046]}, {"name": "Plage de la Base de Voile", "text": "Deeply rooted in the local sailing scene, Plage de la Base de Voile in Antibes exudes a highly sporty and dynamic atmosphere. You can often gaze at white sails on the horizon while diving into the waves yourself or watching the lively activity on the shore. Visiting is especially worthwhile on windy days to admire the spectacle on the water.", "category": "recreational", "coords": [7.127915, 43.572003]}]}},
+  {"id": "antibes", "type": "city", "parent": "FR-PAC", "coords": [7.1239, 43.5808], "population": 74944, "tier": 1, "name": {"de": "Antibes", "hu": "Antibes", "ro": "Antibes", "en": "Antibes"}, "description": {"de": "Antibes ist eine charmante Hafenstadt an der Côte d'Azur, bekannt für ihre historische Altstadt, das Picasso-Museum und den luxuriösen Yachthafen Port Vauban.", "hu": "Antibes a Francia Riviéra egyik legvonzóbb városa, ahol a középkori várfalak, a Picasso Múzeum és Európa legnagyobb jachtkikötője találkozik.", "ro": "Antibes este o bijuterie a Coastei de Azur, faimoasă pentru orașul său vechi fortificat, Muzeul Picasso și luxosul port de iahturi Port Vauban.", "en": "Antibes is a historic coastal city on the French Riviera, renowned for its old town, the Picasso Museum, and the Mediterranean's largest yachting harbor."}, "facts": {"de": ["Größter Yachthafen im Mittelmeer", "Historische Stadtmauern von Vauban", "Ehemaliges Grimaldi-Schloss (Picasso-Museum)", "Berühmter provenzalischer Markt", "Exklusive Halbinsel Cap d'Antibes", "Jahresmittel von 300 Sonnentagen", "Gegründet als griechische Kolonie Antipolis", "Bekannt für den Jazz-Festival Jazz à Juan"], "hu": ["A Földközi-tenger legnagyobb jachtkikötője", "Vauban által tervezett erődrendszer", "Picasso Múzeum a Grimaldi-kastélyban", "Híres provence-i napi piac", "A luxusnegyedéről ismert Cap d'Antibes", "Átlagosan évi 300 napsütéses nap", "Görög kolóniaként alapították (Antipolis)", "A Jazz à Juan fesztivál otthona"], "ro": ["Cel mai mare port de iahturi din Mediterană", "Ziduri fortificate proiectate de Vauban", "Muzeul Picasso în castelul Grimaldi", "Piață provensală tradițională celebră", "Peninsula exclusivistă Cap d'Antibes", "Peste 300 de zile cu soare pe an", "Fondat de greci sub numele Antipolis", "Gazda festivalului Jazz à Juan"], "en": ["Largest yacht harbor in the Mediterranean", "Ancient fortified walls by Vauban", "Picasso Museum housed in Grimaldi Castle", "Famous daily Provençal market", "Exclusive Cap d'Antibes peninsula", "Average of 300 sunny days per year", "Founded as the Greek colony Antipolis", "Host of the Jazz à Juan festival"]}, "image": "/geo-images/france/antibes.webp", "imageHint": "Antibes old town skyline with the Grimaldi Castle and Port Vauban", "descriptionAdvanced": {"de": "Antibes liegt strategisch günstig zwischen Cannes und Nizza und blickt auf eine über 2000-jährige Geschichte zurück. Ursprünglich von den Griechen als Antipolis gegründet, entwickelte sich die Stadt im Mittelalter zu einer wichtigen Grenzfestung. Die mächtigen Stadtmauern, die heute noch den alten Kern umschließen, wurden von dem berühmten Baumeister Vauban verstärkt. Das Herzstück der Altstadt ist das Château Grimaldi, in dem Pablo Picasso 1946 sein Atelier hatte; heute beherbergt es eines der bedeutendsten Picasso-Museen weltweit. Antibes ist zudem ein Magnet für die Superreichen: Im Port Vauban liegen an der sogenannten 'Milliardärskai' die größten Privatyachten der Welt. Die angrenzende Halbinsel Cap d'Antibes ist bekannt für ihre Luxusvillen, versteckten Buchten und den 'Sentier du Littoral', einen spektakulären Küstenwanderweg. Im Sommer verwandelt sich der Stadtteil Juan-les-Pins in ein pulsierendes Zentrum für Jazz-Liebhaber.", "hu": "Antibes a Côte d'Azur egyik legrégebbi és legkarakteresebb városa, amely sikeresen ötvözi a történelmi bájt a modern luxussal. A várost a görögök alapították Antipolis néven, majd a rómaiak alatt vált fontos kereskedelmi központtá. Óvárosát ma is a 17. századi erődítmények és Vauban bástyái védik, labirintusszerű utcái pedig tele vannak galériákkal és kézműves boltokkal. A Grimaldi-kastélyban működő Picasso Múzeum a világ egyik legjelentősebb gyűjteményének ad otthont, mivel a művész egy ideig itt élt és alkotott. A város kikötője, a Port Vauban, Európa legnagyobb mélyvízi jachtkikötője, ahol a világ legdrágább szuperjachtjai horgonyoznak. A Cap d’Antibes félsziget a gazdagok és híresek búvóhelye, míg a szomszédos Juan-les-Pins a homokos strandjairól és a legendás jazzfesztiváljáról híres.", "ro": "Situat între Nisa și Cannes, Antibes este un oraș care îmbină perfect istoria antică cu rafinamentul modern al Rivierei Franceze. Fondat ca Antipolis de către greci, orașul păstrează un aer medieval în cartierul vechi, unde străzile înguste sunt mărginite de flori și ateliere de artă. Castelul Grimaldi, dominând marea, a fost locul unde Picasso a creat numeroase opere în 1946, devenind astăzi primul muzeu dedicat artistului. Port Vauban, cu impresionantul său 'Moll des Milliardaires', este centrul nautic al Mediteranei, găzduind cele mai mari iahturi private din lume. Cap d'Antibes, peninsula împădurită din sud, oferă peisaje sălbatice pe poteca de coastă și adăpostește vile legendare precum Eden-Roc. Orașul este de asemenea renumit pentru piața sa provensală autentică, unde parfumurile locale de lavandă și condimente atrag turiștii în fiecare dimineață.", "en": "Antibes is a gem of the French Riviera, positioned between Nice and Cannes. Founded by Greek Phocaeans as Antipolis, it has evolved from a Roman trading post and a medieval stronghold into a luxury tourist destination. The Old Town is protected by 17th-century ramparts designed by Vauban, offering a stark contrast to the modern superyachts docked in Port Vauban, the largest marina in the Mediterranean. The Château Grimaldi stands as a cultural landmark, housing the Picasso Museum after the artist spent several productive months here in 1946. South of the city lies the Cap d'Antibes, a wooded peninsula famous for its opulent villas and the stunning Sentier du Littoral coastal path. The town is also famous for its vibrant flower industry and the Juan-les-Pins district, which hosts the world-renowned 'Jazz à Juan' festival every July."}, "factsAdvanced": {"de": ["Picasso Museum besitzt über 240 Werke des Künstlers", "Port Vauban verfügt über 1700 Liegeplätze", "Fort Carré stammt aus dem 16. Jahrhundert", "Cap d'Antibes ist Heimat der Villa Eilenroc", "Le Marché Provençal findet täglich statt", "Höchster Punkt ist der Garoupe-Hügel mit Kapelle"], "hu": ["A Picasso Múzeum több mint 240 művet őriz", "A Port Vauban kikötőben 1700 férőhely van", "A Fort Carré erőd a 16. században épült", "Cap d'Antibes-en található a híres Villa Eilenroc", "A provence-i piac minden nap várja a látogatókat", "A Garoupe-domb tetejéről panorámás kilátás nyílik"], "ro": ["Muzeul Picasso deține peste 240 de lucrări originale", "Port Vauban oferă peste 1700 de locuri de acostare", "Fortul Carré a fost construit în secolul al XVI-lea", "Cap d'Antibes găzduiește eleganta Villa Eilenroc", "Piața Provensală este deschisă zilnic în orașul vechi", "Dealul Garoupe oferă cea mai bună vedere panoramică"], "en": ["The Picasso Museum holds over 240 works by the artist", "Port Vauban can accommodate 1700 boats and yachts", "Fort Carré is a 16th-century star-shaped fortress", "Cap d'Antibes is home to the historic Villa Eilenroc", "The Provençal market is held daily in the covered hall", "Garoupe Hill offers a panoramic view over the coastline"]}, "sights": {
+      "de": [
+            {
+                  "name": "Marché Provençal",
+                  "text": "Ein lebhafter, farbenfroher Markt in der Altstadt, der frische regionale Produkte, Gewürze und lokales traditionelles Kunsthandwerk anbietet.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        7.127555,
+                        43.581003
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame-de-la-Platea",
+                  "text": "Die größte Kirche in Antibes mit einer auffälligen italienischen Fassade und einem wunderschönen Holzaltar aus dem 16. Jahrhundert.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        7.128333,
+                        43.581111
+                  ]
+            },
+            {
+                  "name": "Plage du Fort Carré",
+                  "text": "Im historischen Schatten des Fort Carré in Antibes breitet sich dieser charmante Strandabschnitt aus. Das Zusammentreffen von kulturellem Erbe und mediterranem Küstenflair verleiht dem Ort eine ganz besondere und ruhige Ausstrahlung. Nach einer Besichtigung der alten Festung bietet sich hier eine erfrischende Pause am Meer hervorragend an.",
+                  "category": "recreational",
+                  "coords": [
+                        7.125709,
+                        43.593349
+                  ]
+            },
+            {
+                  "name": "Plage de la Base de Voile",
+                  "text": "Stark mit dem lokalen Segelsport verwurzelt, versprüht die Plage de la Base de Voile in Antibes eine sehr sportliche und dynamische Atmosphäre. Hier blickt man oft auf weiße Segel am Horizont, während man selbst in die Wellen taucht oder das rege Treiben am Ufer beobachtet. Ein Besuch lohnt sich besonders an windigen Tagen, um das Spektakel auf dem Wasser zu bewundern.",
+                  "category": "recreational",
+                  "coords": [
+                        7.127915,
+                        43.572003
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marché Provençal",
+                  "text": "Nyüzsgő és színes napi piac az óvárosban, amely friss regionális termékeket, fűszereket, levendulát és helyi kézműves termékeket kínál.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        7.127555,
+                        43.581003
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame-de-la-Platea",
+                  "text": "Antibes legnagyobb temploma, amely feltűnő olaszos homlokzattal és egy gyönyörű, 16. századi eredeti faragott fa oltárképpel büszkélkedhet.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        7.128333,
+                        43.581111
+                  ]
+            },
+            {
+                  "name": "Plage du Fort Carré",
+                  "text": "Ez a bájos partszakasz az antibesi Fort Carré történelmi árnyékában terül el. A kulturális örökség és a mediterrán tengerparti hangulat találkozása nagyon különleges és nyugodt atmoszférát kölcsönöz a helynek. Az ősi erőd bejárása után fantasztikus ötlet itt egy frissítő pihenőt tartani a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        7.125709,
+                        43.593349
+                  ]
+            },
+            {
+                  "name": "Plage de la Base de Voile",
+                  "text": "A helyi vitorláséletben mélyen gyökerező antibesi Plage de la Base de Voile rendkívül sportos és dinamikus légkört áraszt. Gyakran gyönyörködhetünk a horizonton feltűnő fehér vitorlákban, miközben magunk is a hullámok közé vetjük magunkat, vagy figyeljük a part élénk nyüzsgését. Különösen szeles napokon érdemes ellátogatni ide, hogy megcsodáljuk a vízi látványosságot.",
+                  "category": "recreational",
+                  "coords": [
+                        7.127915,
+                        43.572003
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marché Provençal",
+                  "text": "Un târg zilnic vibrant și colorat în orașul vechi, oferind produse regionale proaspete, condimente, levănțică și artizanat local tradițional.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        7.127555,
+                        43.581003
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame-de-la-Platea",
+                  "text": "Cea mai mare biserică din Antibes, cu o fațadă italiană izbitoare și un foarte frumos retablu sculptat din lemn care datează din secolul al XVI-lea.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        7.128333,
+                        43.581111
+                  ]
+            },
+            {
+                  "name": "Plage du Fort Carré",
+                  "text": "Această porțiune fermecătoare de plajă se întinde în umbra istorică a Fortului Carré din Antibes. Intersecția dintre moștenirea culturală și flerul de coastă mediteranean oferă locației o atmosferă cu totul specială și liniștită. După ce ați vizitat vechea fortăreață, o pauză revigorantă lângă mare aici este o idee fantastică.",
+                  "category": "recreational",
+                  "coords": [
+                        7.125709,
+                        43.593349
+                  ]
+            },
+            {
+                  "name": "Plage de la Base de Voile",
+                  "text": "Profund înrădăcinată în scena locală de navigație, Plage de la Base de Voile din Antibes emană o atmosferă extrem de sportivă și dinamică. Vă puteți uita adesea la pânzele albe de la orizont în timp ce vă scufundați singur în valuri sau urmăriți activitatea plină de viață de pe mal. O vizită este deosebit de utilă în zilele cu vânt pentru a admira spectacolul de pe apă.",
+                  "category": "recreational",
+                  "coords": [
+                        7.127915,
+                        43.572003
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marché Provençal",
+                  "text": "A vibrant and colorful daily market in the Old Town, offering fresh regional produce, fragrant spices, lavender, and beautiful local artisan crafts.",
+                  "category": "squares/old-town",
+                  "confidence": "high",
+                  "coords": [
+                        7.127555,
+                        43.581003
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame-de-la-Platea",
+                  "text": "The largest church in Antibes, featuring a striking Italianate facade and a beautifully preserved wooden altarpiece dating back to the 16th century.",
+                  "category": "churches/cathedrals",
+                  "confidence": "high",
+                  "coords": [
+                        7.128333,
+                        43.581111
+                  ]
+            },
+            {
+                  "name": "Plage du Fort Carré",
+                  "text": "This charming stretch of beach unfolds in the historical shadow of Fort Carré in Antibes. The intersection of cultural heritage and Mediterranean coastal flair gives the location a very special and tranquil vibe. After touring the ancient fortress, taking a refreshing break by the sea here is a fantastic idea.",
+                  "category": "recreational",
+                  "coords": [
+                        7.125709,
+                        43.593349
+                  ]
+            },
+            {
+                  "name": "Plage de la Base de Voile",
+                  "text": "Deeply rooted in the local sailing scene, Plage de la Base de Voile in Antibes exudes a highly sporty and dynamic atmosphere. You can often gaze at white sails on the horizon while diving into the waves yourself or watching the lively activity on the shore. Visiting is especially worthwhile on windy days to admire the spectacle on the water.",
+                  "category": "recreational",
+                  "coords": [
+                        7.127915,
+                        43.572003
+                  ]
+            }
+      ]
+}},
   {"id": "azay-le-rideau", "type": "city", "parent": "FR-CVL", "coords": [0.4694, 47.2611], "population": 3415, "tier": 2, "name": {"de": "Azay-le-Rideau", "hu": "Azay-le-Rideau", "ro": "Azay-le-Rideau", "en": "Azay-le-Rideau"}, "description": {"de": "Ein malerischer Ort im Herzen des Loiretals, berühmt für sein zauberhaftes Renaissance-Schloss.", "hu": "Festői település a Loire-völgy szívében, híres varázslatos reneszánsz kastélyáról.", "ro": "Un loc pitoresc în inima Văii Loarei, faimos pentru castelul său renascentist fermecător.", "en": "A picturesque village in the heart of the Loire Valley, famous for its enchanting Renaissance château."}, "facts": {"de": ["Renaissance-Schloss im Wasser", "Liegt am Fluss Indre", "Kulturerbe des Loiretals", "Bekannt für Architektur", "Charmantes Ortsbild"], "hu": ["Reneszánsz vízi kastély", "Az Indre folyó partján fekszik", "A Loire-völgy kulturális öröksége", "Építészetéről ismert", "Bájos városkép"], "ro": ["Castel renascentist pe apă", "Situat pe râul Indre", "Patrimoniul cultural al Văii Loarei", "Cunoscut pentru arhitectură", "Imagine pitorească"], "en": ["Renaissance water castle", "Located on the River Indre", "Loire Valley cultural heritage", "Known for architecture", "Charming townscape"]}, "descriptionAdvanced": {"de": "Azay-le-Rideau im Département Indre-et-Loire ist ein Inbegriff der französischen Renaissance und ein absolutes Muss für jeden Besucher des Loiretals. Weltweite Berühmtheit genießt die Stadt durch das märchenhafte Château d'Azay-le-Rideau. Das im frühen 16. Jahrhundert unter der Leitung von Gilles Berthelot errichtete Schloss wurde auf einer kleinen Insel im Fluss Indre erbaut und scheint förmlich auf dem Wasser zu schweben. Der Schriftsteller Honoré de Balzac beschrieb es einst treffend als 'einen im Indre gefassten Diamanten mit unzähligen Facetten'. Die eleganten Proportionen, die feinen Steinarbeiten und der romantische englische Landschaftspark um das Schloss ziehen jährlich unzählige Besucher in ihren Bann. Das charmante Städtchen selbst lädt mit seinen historischen Gassen, blumengeschmückten Fachwerkhäusern und gemütlichen Cafés zum Verweilen ein. Nur wenige Kilometer außerhalb finden Geschichts- und Naturinteressierte das Tal der Troglodyten von Goupillières, eine Ansammlung von in den Tuffstein gehauenen Höhlenwohnungen, die das einfache bäuerliche Leben vergangener Jahrhunderte dokumentieren. Azay-le-Rideau ist die perfekte Synthese aus königlicher Architektur, literarischer Romantik und idyllischer Flusslandschaft.", "hu": "Az Indre-et-Loire megyében található Azay-le-Rideau a francia reneszánsz egyik legfényesebb ékköve, amely a Loire-völgy látogatói számára kötelező megálló. A kisváros világhírét a mesébe illő Château d'Azay-le-Rideau kastélynak köszönheti. A 16. század elején, Gilles Berthelot pénzügyminiszter megbízásából épült remekmű egyenesen az Indre folyó egy apró szigetére épült, így alapjai a vízből emelkednek ki, tükörképével varázslatos látványt nyújtva. Nem véletlen, hogy Honoré de Balzac író 'az Indre folyóba foglalt, csiszolt gyémántnak' nevezte. A kastély finom kőfaragványait egy romantikus, angol stílusú tájpark öleli körül. Maga a városka is megéri a sétát: macskaköves utcái, virágos fagerendás házai és apró kézműves boltjai igazi közép-franciaországi hangulatot árasztanak. A központtól alig pár kilométerre a látogatók felfedezhetik a Goupillières-i troglodita völgyet, ahol a puha tufasziklákba vájt ősi barlanglakások a környék egykori paraszti életébe engednek bepillantást. Azay-le-Rideau az elegáns reneszánsz építészet, az irodalmi romantika és a békés folyóparti természeti környezet tökéletes találkozása.", "ro": "Situat în departamentul Indre-et-Loire, Azay-le-Rideau este o chintesență a Renașterii franceze și o oprire obligatorie pentru orice vizitator al Văii Loarei. Faima sa mondială se datorează în întregime castelului de basm Château d'Azay-le-Rideau. Construit la începutul secolului al XVI-lea de finanțistul Gilles Berthelot, acest capodoperă arhitecturală a fost ridicată pe o mică insulă de pe râul Indre, fundațiile sale ridicându-se direct din apă. Celebrul scriitor Honoré de Balzac l-a descris în mod poetic drept 'un diamant fațetat montat pe râul Indre'. Proporțiile sale elegante și decorațiunile fine din piatră sunt perfect completate de un parc romantic în stil englezesc. Orășelul în sine este extrem de fermecător, oferind străduțe pietruite, case tradiționale cu structură din lemn și o atmosferă primitoare, ideală pentru o pauză la o cafenea locală. La doar câțiva kilometri de centru, vizitatorii pot explora Valea Troglodiților din Goupillières, un complex fascinant de locuințe săpate direct în roca de tuf calcaros, care ilustrează viața țăranilor de-a lungul secolelor. Azay-le-Rideau combină magistral eleganța aristocrată cu pitorescul vieții rurale tradiționale.", "en": "Located in the Indre-et-Loire department, Azay-le-Rideau is a quintessential gem of the French Renaissance and an absolute must-see destination in the Loire Valley. The town’s global fame is anchored by the fairy-tale Château d'Azay-le-Rideau. Constructed in the early 16th century by the wealthy financier Gilles Berthelot, this architectural masterpiece was built on a small island in the Indre river, with its foundations rising directly out of the water to create stunning reflections. The renowned author Honoré de Balzac famously described it as 'a faceted diamond set in the Indre'. The chateau's elegant stonework is perfectly framed by a lush, romantic English-style landscape park. The town itself is a delight to explore, featuring narrow cobbled streets lined with half-timbered houses, artisan boutiques, and inviting outdoor cafes. Just a short drive from the center, visitors can step back into a different kind of history at the Troglodyte Valley of Goupillières, a fascinating collection of cave dwellings carved into the soft tufa rock that showcase the humble peasant life of past centuries. Azay-le-Rideau seamlessly blends aristocratic elegance with serene riverside charm."}, "factsAdvanced": {"de": ["Einwohnerzahl: ca. 3415", "Schloss erbaut im 16. Jhd.", "Fluss: Indre", "Gehört zum UNESCO-Welterbe", "Zentrum der französischen Renaissance", "Bekannt durch Balzac"], "hu": ["Lakosság: kb. 3415 fő", "A kastély a 16. században épült", "Folyó: Indre", "Az UNESCO világörökség része", "A francia reneszánsz központja", "Balzac tette híressé"], "ro": ["Populație: aprox. 3415 locuitori", "Castel construit în sec. XVI", "Râu: Indre", "Parte a Patrimoniului Mondial UNESCO", "Centrul Renașterii franceze", "Faimos datorită lui Balzac"], "en": ["Population: approx. 3415", "Château built in the 16th century", "River: Indre", "Part of UNESCO World Heritage", "Center of French Renaissance", "Made famous by Balzac"]}, "image": "/geo-images/france/azay-le-rideau.webp", "sights": {
       "de": [
             {
@@ -10855,24 +11016,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plage de la Mala",
-                  "text": "Eingerahmt von markanten Küstenklippen ist die Plage de la Mala ein sehr gefragtes Reiseziel am Meer in der Nähe von Eze. Ihr klares, einladendes Wasser ist ideal zum Schwimmen und schafft eine lebhafte, luxuriöse Atmosphäre, die typisch für die Riviera ist. Aufgrund ihrer Beliebtheit ist es die beste Strategie, früh am Morgen anzukommen, um sich einen erstklassigen Liegeplatz zu sichern.",
-                  "category": "recreational",
-                  "coords": [
-                        7.390088,
-                        43.722384
-                  ]
-            },
-            {
-                  "name": "Plage Marquet",
-                  "text": "Die Plage Marquet bietet einen beruhigenden Zufluchtsort an der Küste in der Nähe der eleganten Stadt Eze. Das flache Ufer eignet sich perfekt für ein gemütliches Bad oder einfach zum Ausruhen am Strand unter der mediterranen Sonne. Es ist eine fantastische Option für Familien und diejenigen, die einen unaufgeregten, gut zugänglichen Nachmittag am Meer verbringen möchten.",
-                  "category": "recreational",
-                  "coords": [
-                        7.411928,
-                        43.724175
-                  ]
-            },
-            {
                   "name": "Plage naturiste des Pissarelles",
                   "text": "Die Plage naturiste des Pissarelles liegt eingebettet in das raue Küstengelände von Eze und bietet eine befreiende Umgebung am Meer. Diese intime FKK-Oase wird von Besuchern geschätzt, die fernab der üblichen Touristenpfade ein ruhiges Bad und natürliches Sonnenbaden suchen. Der steile Weg hinunter zum Wasser macht bequeme Wanderschuhe für Ihren Besuch unerlässlich.",
                   "category": "recreational",
@@ -10891,39 +11034,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plage Pointe des Douaniers (Est)",
-                  "text": "Die Plage Pointe des Douaniers (Est) in Eze markiert den östlichen Rand eines wunderschönen Küstenpfads und bietet einen atemberaubenden Aussichtspunkt über das Mittelmeer. Die felsige und natürliche Umgebung zieht diejenigen an, die es genießen, die Küstenstrukturen zu erkunden und ein erfrischendes Bad zu nehmen. Ein Paar Wasserschuhe mitzubringen, macht die Fortbewegung am unebenen Ufer viel angenehmer.",
-                  "category": "recreational",
-                  "coords": [
-                        7.405621,
-                        43.719673
-                  ]
-            },
-            {
-                  "name": "Plage Pointe des Douaniers (Ouest)",
-                  "text": "Der westliche Abschnitt, bekannt als Plage Pointe des Douaniers (Ouest), fängt die dramatische, zerklüftete Schönheit ein, die typisch für die Küste von Eze ist. Dieser Ort ist perfekt, um eine ruhigere Atmosphäre am Meer zu genießen, vorbeifahrende Boote zu beobachten und im tiefblauen Wasser zu schwimmen. Wie an weiten Teilen dieser Felsküste ist das Tragen von geeignetem Schuhwerk für einen komfortablen Besuch sehr zu empfehlen.",
-                  "category": "recreational",
-                  "coords": [
-                        7.404412,
-                        43.720018
-                  ]
-            },
-            {
                   "name": "Oppidum du Castellar",
                   "text": "Das Oppidum du Castellar ist eine antike archäologische Stätte auf den Höhen von Èze. Diese ehemalige befestigte Siedlung bietet Einblicke in die frühe Geschichte und Verteidigungsstrategien der Region.",
                   "category": "historical",
                   "coords": [
                         7.349812,
                         43.7303
-                  ]
-            },
-            {
-                  "name": "Fort de la Drête",
-                  "text": "Fort de la Drête ist eine ehemalige militärische Befestigung auf den Höhen von Eze. Es bietet einen Panoramablick auf die Mittelmeerküste und die umliegenden Berge.",
-                  "category": "fortress",
-                  "coords": [
-                        7.338974,
-                        43.73905
                   ]
             },
             {
@@ -11052,24 +11168,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plage de la Mala",
-                  "text": "A lenyűgöző parti sziklák által keretezett Plage de la Mala egy nagyon keresett tengerparti úti cél Eze közelében. Tiszta, hívogató vize ideális az úszáshoz, és élénk, fényűző légkört teremt, amely jellemző a Riviérára. Népszerűsége miatt a kora reggeli érkezés a legjobb stratégia a prémium pihenőhely biztosítására.",
-                  "category": "recreational",
-                  "coords": [
-                        7.390088,
-                        43.722384
-                  ]
-            },
-            {
-                  "name": "Plage Marquet",
-                  "text": "A Plage Marquet nyugtató tengerparti menekülést kínál az elegáns Eze városa közelében. A szelíd partvonal tökéletesen alkalmas egy ráérős úszásra vagy egyszerűen csak a strandon való pihenésre a mediterrán nap alatt. Fantasztikus lehetőség a családoknak és azoknak, akik egy visszafogott, könnyen megközelíthető tengerparti délutánt keresnek.",
-                  "category": "recreational",
-                  "coords": [
-                        7.411928,
-                        43.724175
-                  ]
-            },
-            {
                   "name": "Plage naturiste des Pissarelles",
                   "text": "A Plage naturiste des Pissarelles Eze zord parti terepén fekszik, és felszabadító tengerparti környezetet kínál. Ezt a meghitt naturista menedéket azok a látogatók kedvelik, akik a szokásos turistautaktól távol szeretnének csendes úszást és természetes napozást élvezni. A vízhez vezető meredek ösvény miatt a kényelmes sétacipő elengedhetetlen a látogatáshoz.",
                   "category": "recreational",
@@ -11088,39 +11186,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plage Pointe des Douaniers (Est)",
-                  "text": "A gyönyörű parti ösvény keleti szélét jelző eze-i Plage Pointe des Douaniers (Est) lenyűgöző kilátópontot nyújt a Földközi-tengerre. A sziklás és természetes környezet azokat vonzza, akik szeretik felfedezni a tengerparti textúrákat, valamint egy frissítő csobbanást tenni. Egy pár vízi cipő magunkkal vitele sokkal kellemesebbé teszi a navigálást az egyenetlen parton.",
-                  "category": "recreational",
-                  "coords": [
-                        7.405621,
-                        43.719673
-                  ]
-            },
-            {
-                  "name": "Plage Pointe des Douaniers (Ouest)",
-                  "text": "A Plage Pointe des Douaniers (Ouest) néven ismert nyugati szakasz megragadja az Eze partvonalára jellemző drámai, zord szépséget. Ez a hely tökéletes egy csendesebb tengerparti légkör élvezetére, a hajók elhaladásának megfigyelésére és a mélykék vizekben való úszásra. Mint ezen a sziklás parton oly sok helyen, a megfelelő lábbeli viselése itt is erősen ajánlott a kényelmes látogatáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        7.404412,
-                        43.720018
-                  ]
-            },
-            {
                   "name": "Oppidum du Castellar",
                   "text": "Az Oppidum du Castellar egy ókori régészeti lelőhely Èze magaslatain. Ez az egykori erődített település betekintést nyújt a régió korai történelmébe és védelmi stratégiáiba.",
                   "category": "historical",
                   "coords": [
                         7.349812,
                         43.7303
-                  ]
-            },
-            {
-                  "name": "Fort de la Drête",
-                  "text": "A Fort de la Drête egy egykori katonai erődítmény Eze magasan fekvő területén. Panorámás kilátást nyújt a földközi-tengeri partvidékre és a környező hegyekre.",
-                  "category": "fortress",
-                  "coords": [
-                        7.338974,
-                        43.73905
                   ]
             },
             {
@@ -11249,24 +11320,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plage de la Mala",
-                  "text": "Încadrată de stânci de coastă impresionante, Plage de la Mala este o destinație pe litoral foarte căutată lângă Eze. Apele sale clare și primitoare sunt ideale pentru înot și creează o atmosferă vibrantă și luxoasă, tipică Rivierei. Datorită popularității sale, sosirea dimineața devreme este cea mai bună strategie pentru a asigura un loc de relaxare excelent.",
-                  "category": "recreational",
-                  "coords": [
-                        7.390088,
-                        43.722384
-                  ]
-            },
-            {
-                  "name": "Plage Marquet",
-                  "text": "Plage Marquet oferă o evadare liniștitoare pe coastă, în apropierea elegantului oraș Eze. Țărmul blând este perfect adaptat pentru o baie pe îndelete sau pur și simplu pentru a vă odihni pe plajă sub soarele mediteranean. Este o opțiune fantastică pentru familii și pentru cei care caută o după-amiază accesibilă și discretă pe litoral.",
-                  "category": "recreational",
-                  "coords": [
-                        7.411928,
-                        43.724175
-                  ]
-            },
-            {
                   "name": "Plage naturiste des Pissarelles",
                   "text": "Plage naturiste des Pissarelles se află cuibărită în terenul accidentat de coastă din Eze, oferind un mediu eliberator la malul mării. Acest refugiu naturist intim este favorizat de vizitatorii care caută o baie liniștită și plajă naturală, departe de traseele turistice obișnuite. Poteca abruptă care coboară spre apă înseamnă că o încălțăminte confortabilă pentru mers este esențială pentru vizita dumneavoastră.",
                   "category": "recreational",
@@ -11285,39 +11338,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plage Pointe des Douaniers (Est)",
-                  "text": "Marcând marginea estică a unei frumoase poteci de coastă, Plage Pointe des Douaniers (Est) din Eze oferă un punct de observație uimitor asupra Mediteranei. Cadrul stâncos și natural îi atrage pe cei cărora le place să exploreze texturile coastei, precum și să facă o baie răcoritoare. Aducerea unei perechi de pantofi de apă va face navigarea pe țărmul denivelat mult mai plăcută.",
-                  "category": "recreational",
-                  "coords": [
-                        7.405621,
-                        43.719673
-                  ]
-            },
-            {
-                  "name": "Plage Pointe des Douaniers (Ouest)",
-                  "text": "Întinderea vestică cunoscută sub numele de Plage Pointe des Douaniers (Ouest) captează frumusețea dramatică și stâncoasă tipică coastei Eze. Acest loc este perfect pentru a vă bucura de o atmosferă mai liniștită la malul mării, pentru a privi bărcile care trec și pentru a înota în apele de un albastru intens. La fel ca în mare parte din această coastă stâncoasă, purtarea încălțămintei adecvate este foarte recomandată pentru o vizită confortabilă.",
-                  "category": "recreational",
-                  "coords": [
-                        7.404412,
-                        43.720018
-                  ]
-            },
-            {
                   "name": "Oppidum du Castellar",
                   "text": "Oppidum du Castellar este un sit arheologic antic situat pe înălțimile din Èze. Această fostă așezare fortificată oferă perspective asupra istoriei timpurii și a strategiilor defensive ale regiunii.",
                   "category": "historical",
                   "coords": [
                         7.349812,
                         43.7303
-                  ]
-            },
-            {
-                  "name": "Fort de la Drête",
-                  "text": "Fort de la Drête este o fostă fortificație militară situată pe înălțimile din Eze. Oferă vedere panoramică asupra coastei mediteraneene și a munților din jur.",
-                  "category": "fortress",
-                  "coords": [
-                        7.338974,
-                        43.73905
                   ]
             },
             {
@@ -11446,24 +11472,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plage de la Mala",
-                  "text": "Framed by striking coastal cliffs, Plage de la Mala is a highly sought-after seaside destination near Eze. Its clear, inviting waters are ideal for swimming and create a vibrant, luxurious atmosphere typical of the Riviera. Because of its popularity, arriving early in the morning is the best strategy to secure a prime lounging spot.",
-                  "category": "recreational",
-                  "coords": [
-                        7.390088,
-                        43.722384
-                  ]
-            },
-            {
-                  "name": "Plage Marquet",
-                  "text": "Plage Marquet provides a calming coastal escape near the elegant town of Eze. The gentle shoreline is perfectly suited for a leisurely swim or simply resting on the beach under the Mediterranean sun. It is a fantastic option for families and those seeking a low-key, accessible seaside afternoon.",
-                  "category": "recreational",
-                  "coords": [
-                        7.411928,
-                        43.724175
-                  ]
-            },
-            {
                   "name": "Plage naturiste des Pissarelles",
                   "text": "The Plage naturiste des Pissarelles lies nestled in the rugged coastal terrain of Eze, offering a liberating seaside environment. This intimate naturist haven is favored by visitors looking for a quiet swim and natural sunbathing away from the usual tourist trails. The steep path down to the water means comfortable walking shoes are essential for your visit.",
                   "category": "recreational",
@@ -11482,39 +11490,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plage Pointe des Douaniers (Est)",
-                  "text": "Marking the eastern edge of a beautiful coastal path, Plage Pointe des Douaniers (Est) in Eze provides a stunning vantage point over the Mediterranean. The rocky and natural setting attracts those who enjoy exploring coastal textures as well as taking a refreshing dip. Bringing along a pair of water shoes will make navigating the uneven shore much more pleasant.",
-                  "category": "recreational",
-                  "coords": [
-                        7.405621,
-                        43.719673
-                  ]
-            },
-            {
-                  "name": "Plage Pointe des Douaniers (Ouest)",
-                  "text": "The western stretch known as Plage Pointe des Douaniers (Ouest) captures the dramatic, craggy beauty typical of the Eze coastline. This spot is perfect for enjoying a quieter seaside atmosphere, watching the boats go by, and swimming in the deep blue waters. Like much of this rocky coast, wearing appropriate footwear is highly advised for a comfortable visit.",
-                  "category": "recreational",
-                  "coords": [
-                        7.404412,
-                        43.720018
-                  ]
-            },
-            {
                   "name": "Oppidum du Castellar",
                   "text": "Oppidum du Castellar is an ancient archaeological site located on the heights of Èze. This former fortified settlement offers insights into the early history and defensive strategies of the region.",
                   "category": "historical",
                   "coords": [
                         7.349812,
                         43.7303
-                  ]
-            },
-            {
-                  "name": "Fort de la Drête",
-                  "text": "Fort de la Drête is a former military fortification located on the heights of Eze. It offers panoramic views of the Mediterranean coastline and the surrounding mountains.",
-                  "category": "fortress",
-                  "coords": [
-                        7.338974,
-                        43.73905
                   ]
             },
             {
@@ -14320,15 +14301,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mini-Golf du Port",
-                  "text": "Ein unterhaltsamer Minigolfplatz in Soorts-Hossegor für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        -1.436734,
-                        43.650083
-                  ]
-            },
-            {
                   "name": "Aire de jeu du parc Rosny",
                   "text": "Ein Spielplatz in Soorts-Hossegor, auf dem Kinder im Freien spielen können.",
                   "category": "family",
@@ -14362,15 +14334,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -1.438695,
                         43.654885
-                  ]
-            },
-            {
-                  "name": "Église Saint-Nicolas",
-                  "text": "Die Église Saint-Nicolas ist eine friedliche Gebetsstätte in Soorts Hossegor. Besucher können die ruhige Atmosphäre und die architektonischen Details dieser spirituellen Stätte schätzen.",
-                  "category": "religious",
-                  "coords": [
-                        -1.430732,
-                        43.639873
                   ]
             },
             {
@@ -14461,24 +14424,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -1.445966,
                         43.649647
-                  ]
-            },
-            {
-                  "name": "Plage de la Piste",
-                  "text": "Plage de la Piste ist ein beliebter Strand in Soorts Hossegor. Er ist ein idealer Ort zum Sonnenbaden und für verschiedene Wassersportarten während der Sommersaison.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.447511,
-                        43.641767
-                  ]
-            },
-            {
-                  "name": "Plage du Santocha",
-                  "text": "Plage du Santocha ist ein beliebter Strand in Soorts Hossegor. Er ist ein idealer Ort zum Sonnenbaden und für verschiedene Wassersportarten während der Sommersaison.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.445676,
-                        43.645797
                   ]
             }
       ],
@@ -14634,15 +14579,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mini-Golf du Port",
-                  "text": "Szórakoztató minigolfpálya Soorts-Hossegorban az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        -1.436734,
-                        43.650083
-                  ]
-            },
-            {
                   "name": "Aire de jeu du parc Rosny",
                   "text": "Játszótér Soorts-Hossegorban, ahol a gyerekek a szabadban játszhatnak.",
                   "category": "family",
@@ -14676,15 +14612,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -1.438695,
                         43.654885
-                  ]
-            },
-            {
-                  "name": "Église Saint-Nicolas",
-                  "text": "Az Église Saint-Nicolas egy békés vallási helyszín Soorts Hossegor területén. A látogatók értékelhetik a nyugodt légkört és e szellemi központ építészeti részleteit.",
-                  "category": "religious",
-                  "coords": [
-                        -1.430732,
-                        43.639873
                   ]
             },
             {
@@ -14775,24 +14702,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -1.445966,
                         43.649647
-                  ]
-            },
-            {
-                  "name": "Plage de la Piste",
-                  "text": "A Plage de la Piste egy népszerű strand Soorts Hossegor területén. Ideális hely a napozáshoz és a különféle vízi sportokhoz a nyári szezonban.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.447511,
-                        43.641767
-                  ]
-            },
-            {
-                  "name": "Plage du Santocha",
-                  "text": "A Plage du Santocha egy népszerű strand Soorts Hossegor területén. Ideális hely a napozáshoz és a különféle vízi sportokhoz a nyári szezonban.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.445676,
-                        43.645797
                   ]
             }
       ],
@@ -14948,15 +14857,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mini-Golf du Port",
-                  "text": "Un teren de minigolf distractiv în Soorts-Hossegor pentru toată familia.",
-                  "category": "family",
-                  "coords": [
-                        -1.436734,
-                        43.650083
-                  ]
-            },
-            {
                   "name": "Aire de jeu du parc Rosny",
                   "text": "Un loc de joacă în Soorts-Hossegor unde copiii se pot juca în aer liber.",
                   "category": "family",
@@ -14990,15 +14890,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -1.438695,
                         43.654885
-                  ]
-            },
-            {
-                  "name": "Église Saint-Nicolas",
-                  "text": "Église Saint-Nicolas este un lăcaș de cult liniştit din Soorts Hossegor. Vizitatorii pot aprecia atmosfera senină și detaliile arhitecturale ale acestui sit spiritual.",
-                  "category": "religious",
-                  "coords": [
-                        -1.430732,
-                        43.639873
                   ]
             },
             {
@@ -15089,24 +14980,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -1.445966,
                         43.649647
-                  ]
-            },
-            {
-                  "name": "Plage de la Piste",
-                  "text": "Plage de la Piste este o plajă populară situată în Soorts Hossegor. Este un loc ideal pentru plajă și pentru a te bucura de diverse sporturi nautice în timpul sezonului estival.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.447511,
-                        43.641767
-                  ]
-            },
-            {
-                  "name": "Plage du Santocha",
-                  "text": "Plage du Santocha este o plajă populară situată în Soorts Hossegor. Este un loc ideal pentru plajă și pentru a te bucura de diverse sporturi nautice în timpul sezonului estival.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.445676,
-                        43.645797
                   ]
             }
       ],
@@ -15262,15 +15135,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mini-Golf du Port",
-                  "text": "A fun miniature golf course in Soorts-Hossegor for all the family.",
-                  "category": "family",
-                  "coords": [
-                        -1.436734,
-                        43.650083
-                  ]
-            },
-            {
                   "name": "Aire de jeu du parc Rosny",
                   "text": "A playground in Soorts-Hossegor where children can enjoy outdoor play.",
                   "category": "family",
@@ -15304,15 +15168,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -1.438695,
                         43.654885
-                  ]
-            },
-            {
-                  "name": "Église Saint-Nicolas",
-                  "text": "The Église Saint-Nicolas is a peaceful place of worship in Soorts Hossegor. Visitors can appreciate its serene atmosphere and the architectural details of this spiritual site.",
-                  "category": "religious",
-                  "coords": [
-                        -1.430732,
-                        43.639873
                   ]
             },
             {
@@ -15403,24 +15258,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         -1.445966,
                         43.649647
-                  ]
-            },
-            {
-                  "name": "Plage de la Piste",
-                  "text": "Plage de la Piste is a popular beach located in Soorts Hossegor. It is an ideal spot for sunbathing and enjoying various water sports during the summer season.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.447511,
-                        43.641767
-                  ]
-            },
-            {
-                  "name": "Plage du Santocha",
-                  "text": "Plage du Santocha is a popular beach located in Soorts Hossegor. It is an ideal spot for sunbathing and enjoying various water sports during the summer season.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.445676,
-                        43.645797
                   ]
             }
       ]
@@ -17605,15 +17442,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Otaries de Stellers",
-                  "text": "Ein See in Juan-les-Pins, der einen angenehmen Rahmen für einen Spaziergang bietet.",
-                  "category": "natural",
-                  "coords": [
-                        7.12573,
-                        43.613153
-                  ]
-            },
-            {
                   "name": "Square Lutetia",
                   "text": "Ein Spielplatz in Juan-les-Pins, der eine unterhaltsame Umgebung für Kinder bietet.",
                   "category": "family",
@@ -17623,66 +17451,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jeux Piscine Municipale",
-                  "text": "Ein Kinderspielbereich in Juan-les-Pins, perfekt für Familienausflüge.",
-                  "category": "family",
-                  "coords": [
-                        7.119417,
-                        43.589079
-                  ]
-            },
-            {
-                  "name": "Square Loucé",
-                  "text": "Ein kleiner Spielplatz in Juan-les-Pins, auf dem Kinder sicher spielen können.",
-                  "category": "family",
-                  "coords": [
-                        7.073602,
-                        43.569675
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des roses",
-                  "text": "Ein lokaler Spielplatz in Juan-les-Pins, ideal für den Freizeitspaß von Kindern im Freien.",
-                  "category": "family",
-                  "coords": [
-                        7.099158,
-                        43.587834
-                  ]
-            },
-            {
-                  "name": "Piscine Les Mimosas",
-                  "text": "Ein familienfreundliches Schwimmbad, benannt nach Mimosen, in Juan-les-Pins.",
-                  "category": "family",
-                  "coords": [
-                        7.095614,
-                        43.591821
-                  ]
-            },
-            {
-                  "name": "Le Moustié",
-                  "text": "Le Moustié ist ein Schwimmbad in Juan Les Pins.",
-                  "category": "family",
-                  "coords": [
-                        7.0971,
-                        43.592315
-                  ]
-            },
-            {
                   "name": "Chapelle Saint-Jean",
                   "text": "Die Chapelle Saint-Jean ist eine charmante spirituelle Stätte in der Gegend von Antibes bei Juan Les Pins. Sie ist bekannt für ihre traditionelle Architektur und ihre Rolle bei lokalen religiösen Feierlichkeiten.",
                   "category": "religious",
                   "coords": [
                         7.091002,
                         43.586386
-                  ]
-            },
-            {
-                  "name": "Phare de la Garoupe",
-                  "text": "Der Phare de la Garoupe ist ein leistungsstarker Leuchtturm auf der Halbinsel Cap d'Antibes. Von seinem Standort aus können Besucher eines der schönsten Panoramen der Côte d'Azur genießen.",
-                  "category": "landmark",
-                  "coords": [
-                        7.132716,
-                        43.564341
                   ]
             },
             {
@@ -17701,15 +17475,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.12744,
                         43.580844
-                  ]
-            },
-            {
-                  "name": "Château Salé",
-                  "text": "Das Château Salé ist ein sehenswerter castle in Juan Les Pins. Es bietet einen interessanten Einblick in die lokale Kultur und ist ein lohnendes Ziel für Touristen.",
-                  "category": "castle",
-                  "coords": [
-                        7.11208,
-                        43.585082
                   ]
             },
             {
@@ -18073,15 +17838,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Otaries de Stellers",
-                  "text": "Tó Juan-les-Pins-ben, amely kellemes környezetet nyújt egy sétához.",
-                  "category": "natural",
-                  "coords": [
-                        7.12573,
-                        43.613153
-                  ]
-            },
-            {
                   "name": "Square Lutetia",
                   "text": "Játszótér Juan-les-Pins-ben, amely vidám környezetet biztosít a gyerekeknek.",
                   "category": "family",
@@ -18091,66 +17847,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jeux Piscine Municipale",
-                  "text": "Gyermekjátszóhely Juan-les-Pins-ben, amely tökéletes családi kirándulásokhoz.",
-                  "category": "family",
-                  "coords": [
-                        7.119417,
-                        43.589079
-                  ]
-            },
-            {
-                  "name": "Square Loucé",
-                  "text": "Kisebb játszótér Juan-les-Pins-ben, ahol a gyerekek biztonságban játszhatnak.",
-                  "category": "family",
-                  "coords": [
-                        7.073602,
-                        43.569675
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des roses",
-                  "text": "Helyi játszótér Juan-les-Pins-ben, amely ideális a gyerekek szabadtéri szórakozásához.",
-                  "category": "family",
-                  "coords": [
-                        7.099158,
-                        43.587834
-                  ]
-            },
-            {
-                  "name": "Piscine Les Mimosas",
-                  "text": "Családbarát uszoda, mimózáról elnevezve, Juan-les-Pins-ben.",
-                  "category": "family",
-                  "coords": [
-                        7.095614,
-                        43.591821
-                  ]
-            },
-            {
-                  "name": "Le Moustié",
-                  "text": "A Le Moustié egy uszoda Juan Les Pins városában.",
-                  "category": "family",
-                  "coords": [
-                        7.0971,
-                        43.592315
-                  ]
-            },
-            {
                   "name": "Chapelle Saint-Jean",
                   "text": "A Chapelle Saint-Jean egy bájos vallási helyszín Antibes környékén, Juan Les Pins közelében. Hagyományos építészetéről és a helyi vallási ünnepségekben betöltött szerepéről ismert.",
                   "category": "religious",
                   "coords": [
                         7.091002,
                         43.586386
-                  ]
-            },
-            {
-                  "name": "Phare de la Garoupe",
-                  "text": "A Phare de la Garoupe egy nagy teljesítményű világítótorony a Cap d'Antibes félszigeten. Talpazatától a látogatók a Francia Riviéra egyik legszebb panorámáját élvezhetik.",
-                  "category": "landmark",
-                  "coords": [
-                        7.132716,
-                        43.564341
                   ]
             },
             {
@@ -18169,15 +17871,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.12744,
                         43.580844
-                  ]
-            },
-            {
-                  "name": "Château Salé",
-                  "text": "A Château Salé egy figyelemre méltó castle Juan Les Pins területén. A helyi örökség különleges szeletét mutatja be, és kellemes pihenőhely a látogatók számára.",
-                  "category": "castle",
-                  "coords": [
-                        7.11208,
-                        43.585082
                   ]
             },
             {
@@ -18541,15 +18234,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Otaries de Stellers",
-                  "text": "Un lac în Juan-les-Pins care oferă un cadru plăcut pentru o plimbare.",
-                  "category": "natural",
-                  "coords": [
-                        7.12573,
-                        43.613153
-                  ]
-            },
-            {
                   "name": "Square Lutetia",
                   "text": "Un loc de joacă în Juan-les-Pins care oferă un mediu distractiv pentru copii.",
                   "category": "family",
@@ -18559,66 +18243,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jeux Piscine Municipale",
-                  "text": "O zonă de joacă pentru copii în Juan-les-Pins, perfectă pentru ieșiri în familie.",
-                  "category": "family",
-                  "coords": [
-                        7.119417,
-                        43.589079
-                  ]
-            },
-            {
-                  "name": "Square Loucé",
-                  "text": "Un mic loc de joacă în Juan-les-Pins unde copiii se pot juca în siguranță.",
-                  "category": "family",
-                  "coords": [
-                        7.073602,
-                        43.569675
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des roses",
-                  "text": "Un loc de joacă local în Juan-les-Pins, ideal pentru distracția copiilor în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        7.099158,
-                        43.587834
-                  ]
-            },
-            {
-                  "name": "Piscine Les Mimosas",
-                  "text": "O piscină prietenoasă pentru familii, numită după mimoze, în Juan-les-Pins.",
-                  "category": "family",
-                  "coords": [
-                        7.095614,
-                        43.591821
-                  ]
-            },
-            {
-                  "name": "Le Moustié",
-                  "text": "Le Moustié este un bazin de înot situat în Juan Les Pins.",
-                  "category": "family",
-                  "coords": [
-                        7.0971,
-                        43.592315
-                  ]
-            },
-            {
                   "name": "Chapelle Saint-Jean",
                   "text": "Chapelle Saint-Jean este un sit spiritual fermecător situat în zona Antibes, lângă Juan Les Pins. Este cunoscută pentru arhitectura sa tradițională și rolul său în celebrările religioase locale.",
                   "category": "religious",
                   "coords": [
                         7.091002,
                         43.586386
-                  ]
-            },
-            {
-                  "name": "Phare de la Garoupe",
-                  "text": "Phare de la Garoupe este un far puternic situat pe peninsula Cap d'Antibes. De la baza sa, vizitatorii se pot bucura de una dintre cele mai frumoase panorame ale Rivierei Franceze.",
-                  "category": "landmark",
-                  "coords": [
-                        7.132716,
-                        43.564341
                   ]
             },
             {
@@ -18637,15 +18267,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.12744,
                         43.580844
-                  ]
-            },
-            {
-                  "name": "Château Salé",
-                  "text": "Château Salé este un castle remarcabil situat în Juan Les Pins. Oferă o perspectivă unică asupra patrimoniului local și este o oprire plăcută pentru vizitatori.",
-                  "category": "castle",
-                  "coords": [
-                        7.11208,
-                        43.585082
                   ]
             },
             {
@@ -19009,15 +18630,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Otaries de Stellers",
-                  "text": "A lake in Juan-les-Pins offering a pleasant setting for a stroll.",
-                  "category": "natural",
-                  "coords": [
-                        7.12573,
-                        43.613153
-                  ]
-            },
-            {
                   "name": "Square Lutetia",
                   "text": "A playground in Juan-les-Pins providing a fun environment for children.",
                   "category": "family",
@@ -19027,66 +18639,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jeux Piscine Municipale",
-                  "text": "A children's play area in Juan-les-Pins perfect for family outings.",
-                  "category": "family",
-                  "coords": [
-                        7.119417,
-                        43.589079
-                  ]
-            },
-            {
-                  "name": "Square Loucé",
-                  "text": "A small playground in Juan-les-Pins where kids can play safely.",
-                  "category": "family",
-                  "coords": [
-                        7.073602,
-                        43.569675
-                  ]
-            },
-            {
-                  "name": "Aire de jeux des roses",
-                  "text": "A local playground in Juan-les-Pins ideal for children's outdoor fun.",
-                  "category": "family",
-                  "coords": [
-                        7.099158,
-                        43.587834
-                  ]
-            },
-            {
-                  "name": "Piscine Les Mimosas",
-                  "text": "A family-friendly swimming pool named after mimosas in Juan-les-Pins.",
-                  "category": "family",
-                  "coords": [
-                        7.095614,
-                        43.591821
-                  ]
-            },
-            {
-                  "name": "Le Moustié",
-                  "text": "Le Moustié is a swimming pool located in Juan Les Pins.",
-                  "category": "family",
-                  "coords": [
-                        7.0971,
-                        43.592315
-                  ]
-            },
-            {
                   "name": "Chapelle Saint-Jean",
                   "text": "The Chapelle Saint-Jean is a charming spiritual site located in the Antibes area near Juan Les Pins. It is known for its traditional architecture and its role in local religious celebrations.",
                   "category": "religious",
                   "coords": [
                         7.091002,
                         43.586386
-                  ]
-            },
-            {
-                  "name": "Phare de la Garoupe",
-                  "text": "The Phare de la Garoupe is a powerful lighthouse situated on the Cap d'Antibes peninsula. From its base, visitors can enjoy one of the most beautiful panoramas of the French Riviera.",
-                  "category": "landmark",
-                  "coords": [
-                        7.132716,
-                        43.564341
                   ]
             },
             {
@@ -19105,15 +18663,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.12744,
                         43.580844
-                  ]
-            },
-            {
-                  "name": "Château Salé",
-                  "text": "The Château Salé is a notable castle situated in Juan Les Pins. It offers a unique glimpse into the local heritage and is a pleasant stop for visitors.",
-                  "category": "castle",
-                  "coords": [
-                        7.11208,
-                        43.585082
                   ]
             },
             {
@@ -20912,33 +20461,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac du Peirou",
-                  "text": "Ein malerischer See in Les Baux-de-Provence, perfekt für einen ruhigen Spaziergang.",
-                  "category": "natural",
-                  "coords": [
-                        4.828733,
-                        43.770262
-                  ]
-            },
-            {
-                  "name": "Lac de Barreau",
-                  "text": "Ein friedlicher See in Les Baux-de-Provence, der eine ruhige natürliche Umgebung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        4.804448,
-                        43.81024
-                  ]
-            },
-            {
-                  "name": "King Loisirs - La terre des princes",
-                  "text": "King Loisirs - La terre des princes ist ein Freizeitpark in Les Baux De Provence. Es bietet Spaß und Unterhaltung für die Familie.",
-                  "category": "family",
-                  "coords": [
-                        4.794757,
-                        43.77862
-                  ]
-            },
-            {
                   "name": "Le Grenier à Olives",
                   "text": "Le Grenier à Olives ist ein Museum in Les Baux De Provence. Die Einrichtung zeigt Sammlungen zur lokalen Geschichte oder Kunst.",
                   "category": "museum",
@@ -21107,33 +20629,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         4.795082,
                         43.743728
-                  ]
-            },
-            {
-                  "name": "Lac du Peirou",
-                  "text": "Festői tó Les Baux-de-Provence-ban, tökéletes egy csendes sétához.",
-                  "category": "natural",
-                  "coords": [
-                        4.828733,
-                        43.770262
-                  ]
-            },
-            {
-                  "name": "Lac de Barreau",
-                  "text": "Békés tó Les Baux-de-Provence-ban, amely nyugodt természeti környezetet kínál.",
-                  "category": "natural",
-                  "coords": [
-                        4.804448,
-                        43.81024
-                  ]
-            },
-            {
-                  "name": "King Loisirs - La terre des princes",
-                  "text": "A King Loisirs - La terre des princes egy vidámpark Les Baux De Provence városában. Szórakozást kínál az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        4.794757,
-                        43.77862
                   ]
             },
             {
@@ -21308,33 +20803,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac du Peirou",
-                  "text": "Un lac pitoresc în Les Baux-de-Provence, perfect pentru o plimbare liniștită.",
-                  "category": "natural",
-                  "coords": [
-                        4.828733,
-                        43.770262
-                  ]
-            },
-            {
-                  "name": "Lac de Barreau",
-                  "text": "Un lac liniștit în Les Baux-de-Provence care oferă un cadru natural calm.",
-                  "category": "natural",
-                  "coords": [
-                        4.804448,
-                        43.81024
-                  ]
-            },
-            {
-                  "name": "King Loisirs - La terre des princes",
-                  "text": "King Loisirs - La terre des princes este un parc tematic în Les Baux De Provence. Oferă distracție și divertisment pentru familie.",
-                  "category": "family",
-                  "coords": [
-                        4.794757,
-                        43.77862
-                  ]
-            },
-            {
                   "name": "Le Grenier à Olives",
                   "text": "Le Grenier à Olives este un muzeu situat în Les Baux De Provence. Instituția expune colecții legate de istoria sau arta locală.",
                   "category": "museum",
@@ -21503,33 +20971,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         4.795082,
                         43.743728
-                  ]
-            },
-            {
-                  "name": "Lac du Peirou",
-                  "text": "A scenic lake in Les Baux-de-Provence perfect for a quiet walk.",
-                  "category": "natural",
-                  "coords": [
-                        4.828733,
-                        43.770262
-                  ]
-            },
-            {
-                  "name": "Lac de Barreau",
-                  "text": "A peaceful lake in Les Baux-de-Provence offering a calm natural setting.",
-                  "category": "natural",
-                  "coords": [
-                        4.804448,
-                        43.81024
-                  ]
-            },
-            {
-                  "name": "King Loisirs - La terre des princes",
-                  "text": "King Loisirs - La terre des princes is a theme park located in Les Baux De Provence. It offers fun and entertainment for the family.",
-                  "category": "family",
-                  "coords": [
-                        4.794757,
-                        43.77862
                   ]
             },
             {
@@ -22748,30 +22189,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin de décantation de Saint-Christophe",
-                  "text": "Ein Seegebiet in Lourmarin, das einen ruhigen Ort zum Spazierengehen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        5.353027,
-                        43.705753
-                  ]
-            },
-            {
                   "name": "Bassin de l'étang",
                   "text": "Ein See in Lourmarin, geeignet für einen friedlichen Spaziergang und um die Landschaft zu genießen.",
                   "category": "natural",
                   "coords": [
                         5.43876,
                         43.774291
-                  ]
-            },
-            {
-                  "name": "Lac du domaine des Iscles",
-                  "text": "Ein See in Lourmarin, der einen malerischen Rahmen für Entspannung im Freien bietet.",
-                  "category": "natural",
-                  "coords": [
-                        5.316438,
-                        43.729487
                   ]
             },
             {
@@ -22853,30 +22276,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin de décantation de Saint-Christophe",
-                  "text": "Tó Lourmarinban, amely csendes helyszínt biztosít a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        5.353027,
-                        43.705753
-                  ]
-            },
-            {
                   "name": "Bassin de l'étang",
                   "text": "Tó Lourmarinban, amely alkalmas egy békés sétára és a táj élvezetére.",
                   "category": "natural",
                   "coords": [
                         5.43876,
                         43.774291
-                  ]
-            },
-            {
-                  "name": "Lac du domaine des Iscles",
-                  "text": "Tó Lourmarinban, amely festői környezetet kínál a szabadtéri kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        5.316438,
-                        43.729487
                   ]
             },
             {
@@ -22958,30 +22363,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin de décantation de Saint-Christophe",
-                  "text": "O zonă lacustră în Lourmarin care oferă un loc liniștit pentru plimbare.",
-                  "category": "natural",
-                  "coords": [
-                        5.353027,
-                        43.705753
-                  ]
-            },
-            {
                   "name": "Bassin de l'étang",
                   "text": "Un lac în Lourmarin, potrivit pentru o plimbare liniștită și pentru a admira peisajul.",
                   "category": "natural",
                   "coords": [
                         5.43876,
                         43.774291
-                  ]
-            },
-            {
-                  "name": "Lac du domaine des Iscles",
-                  "text": "Un lac în Lourmarin care oferă un cadru pitoresc pentru relaxare în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        5.316438,
-                        43.729487
                   ]
             },
             {
@@ -23063,30 +22450,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bassin de décantation de Saint-Christophe",
-                  "text": "A lake area in Lourmarin providing a quiet spot for walking.",
-                  "category": "natural",
-                  "coords": [
-                        5.353027,
-                        43.705753
-                  ]
-            },
-            {
                   "name": "Bassin de l'étang",
                   "text": "A lake in Lourmarin suitable for a peaceful walk and enjoying the scenery.",
                   "category": "natural",
                   "coords": [
                         5.43876,
                         43.774291
-                  ]
-            },
-            {
-                  "name": "Lac du domaine des Iscles",
-                  "text": "A lake in Lourmarin offering a scenic setting for outdoor relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        5.316438,
-                        43.729487
                   ]
             },
             {
@@ -23215,15 +22584,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.578688,
                         45.792004
-                  ]
-            },
-            {
-                  "name": "Lacs de la Cavettaz",
-                  "text": "Diese kleinen Seen bieten eine friedliche Naturkulisse für Wanderer in Megève.",
-                  "category": "natural",
-                  "coords": [
-                        6.656313,
-                        45.923112
                   ]
             },
             {
@@ -23398,15 +22758,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacs de la Cavettaz",
-                  "text": "Ezek a kis tavak békés természeti környezetet biztosítanak a Megève-i túrázók számára.",
-                  "category": "natural",
-                  "coords": [
-                        6.656313,
-                        45.923112
-                  ]
-            },
-            {
                   "name": "Pumptrack",
                   "text": "Modern pumptrack gyerekeknek és fiataloknak, hogy teszteljék ügyességüket kerekeken.",
                   "category": "family",
@@ -23578,15 +22929,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacs de la Cavettaz",
-                  "text": "Aceste lacuri mici oferă un cadru natural liniștit pentru drumeții din Megève.",
-                  "category": "natural",
-                  "coords": [
-                        6.656313,
-                        45.923112
-                  ]
-            },
-            {
                   "name": "Pumptrack",
                   "text": "Un pumptrack modern pentru copii și tineri, pentru a-și testa abilitățile pe roți.",
                   "category": "family",
@@ -23755,15 +23097,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.578688,
                         45.792004
-                  ]
-            },
-            {
-                  "name": "Lacs de la Cavettaz",
-                  "text": "These small lakes provide a peaceful natural setting for hikers in Megève.",
-                  "category": "natural",
-                  "coords": [
-                        6.656313,
-                        45.923112
                   ]
             },
             {
@@ -24242,75 +23575,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac Biollay",
-                  "text": "Ein malerischer See in Méribel, der eine ruhige Umgebung für Naturliebhaber bietet.",
-                  "category": "natural",
-                  "coords": [
-                        6.630433,
-                        45.407876
-                  ]
-            },
-            {
-                  "name": "Lac des Creux",
-                  "text": "Ein friedlicher See in Méribel, ideal für einen erfrischenden Spaziergang in den Bergen.",
-                  "category": "natural",
-                  "coords": [
-                        6.625493,
-                        45.376452
-                  ]
-            },
-            {
-                  "name": "Lac Bleu",
-                  "text": "Ein wunderschöner Bergsee in Méribel, bekannt für seine malerische Aussicht.",
-                  "category": "natural",
-                  "coords": [
-                        6.610724,
-                        45.405599
-                  ]
-            },
-            {
                   "name": "Grand Lac",
                   "text": "Ein großer See in Méribel, der eine friedliche Umgebung zum Spazierengehen bietet.",
                   "category": "natural",
                   "coords": [
                         6.55747,
                         45.350034
-                  ]
-            },
-            {
-                  "name": "Lac Merlet Supérieur",
-                  "text": "Ein Hochgebirgssee in Méribel, perfekt für einen ruhigen Spaziergang.",
-                  "category": "natural",
-                  "coords": [
-                        6.640304,
-                        45.360222
-                  ]
-            },
-            {
-                  "name": "Lac Merlet Inférieur",
-                  "text": "Ein malerischer See in Méribel, der Wanderern ein ruhiges Plätzchen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        6.648522,
-                        45.358534
-                  ]
-            },
-            {
-                  "name": "Lac de la Rosière",
-                  "text": "Ein malerischer See in Méribel, ideal zum Spazierengehen und Genießen der Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        6.665507,
-                        45.411293
-                  ]
-            },
-            {
-                  "name": "Plan du Vah",
-                  "text": "Ein natürliches Plateau oder eine Wiese in Méribel, beliebt zum Wandern und Skifahren.",
-                  "category": "natural",
-                  "coords": [
-                        6.644548,
-                        45.404981
                   ]
             },
             {
@@ -24350,30 +23620,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacs Merlet",
-                  "text": "Die Lacs Merlet in Meribel sind bekannt für ihr klares Wasser und die ruhige Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        6.644575,
-                        45.359276
-                  ]
-            },
-            {
                   "name": "Scierie et moulin du Raffort",
                   "text": "Dieses Museum in Méribel zeigt eine historische Sägemühle und eine Getreidemühle.",
                   "category": "museum",
                   "coords": [
                         6.560436,
                         45.409101
-                  ]
-            },
-            {
-                  "name": "Rocher de la Loze",
-                  "text": "Ein markanter Berggipfel in der Nähe von Méribel, beliebt bei Wanderern.",
-                  "category": "landmark",
-                  "coords": [
-                        6.605222,
-                        45.401074
                   ]
             },
             {
@@ -24457,75 +23709,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac Biollay",
-                  "text": "Festői tó Méribelben, amely nyugodt környezetet biztosít a természet kedvelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        6.630433,
-                        45.407876
-                  ]
-            },
-            {
-                  "name": "Lac des Creux",
-                  "text": "Békés tó Méribelben, ideális egy frissítő hegyi sétához.",
-                  "category": "natural",
-                  "coords": [
-                        6.625493,
-                        45.376452
-                  ]
-            },
-            {
-                  "name": "Lac Bleu",
-                  "text": "Gyönyörű hegyi tó Méribelben, amely festői kilátásáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        6.610724,
-                        45.405599
-                  ]
-            },
-            {
                   "name": "Grand Lac",
                   "text": "Nagy tó Méribelben, amely nyugodt helyszínt biztosít a sétákhoz.",
                   "category": "natural",
                   "coords": [
                         6.55747,
                         45.350034
-                  ]
-            },
-            {
-                  "name": "Lac Merlet Supérieur",
-                  "text": "Magaslati hegyi tó Méribelben, tökéletes egy csendes sétához.",
-                  "category": "natural",
-                  "coords": [
-                        6.640304,
-                        45.360222
-                  ]
-            },
-            {
-                  "name": "Lac Merlet Inférieur",
-                  "text": "Festői tó Méribelben, amely nyugodt pihenőhelyet kínál a túrázóknak.",
-                  "category": "natural",
-                  "coords": [
-                        6.648522,
-                        45.358534
-                  ]
-            },
-            {
-                  "name": "Lac de la Rosière",
-                  "text": "Gidres-völgyi festői tó Méribelben, ideális sétákhoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        6.665507,
-                        45.411293
-                  ]
-            },
-            {
-                  "name": "Plan du Vah",
-                  "text": "Természetes fennsík vagy rét Méribelben, túrázásra és síelésre alkalmas.",
-                  "category": "natural",
-                  "coords": [
-                        6.644548,
-                        45.404981
                   ]
             },
             {
@@ -24565,30 +23754,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacs Merlet",
-                  "text": "A Meribelben található Lacs Merlet tiszta vizéről és nyugodt környezetéről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        6.644575,
-                        45.359276
-                  ]
-            },
-            {
                   "name": "Scierie et moulin du Raffort",
                   "text": "Ez a méribeli múzeum egy történelmi fűrésztelepet és malmot mutat be.",
                   "category": "museum",
                   "coords": [
                         6.560436,
                         45.409101
-                  ]
-            },
-            {
-                  "name": "Rocher de la Loze",
-                  "text": "Jellegzetes hegycsúcs Méribel közelében, a túrázók kedvelt célpontja.",
-                  "category": "landmark",
-                  "coords": [
-                        6.605222,
-                        45.401074
                   ]
             },
             {
@@ -24672,75 +23843,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac Biollay",
-                  "text": "Un lac pitoresc în Méribel care oferă un cadru calm pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        6.630433,
-                        45.407876
-                  ]
-            },
-            {
-                  "name": "Lac des Creux",
-                  "text": "Un lac liniștit în Méribel, ideal pentru o plimbare revigorantă la munte.",
-                  "category": "natural",
-                  "coords": [
-                        6.625493,
-                        45.376452
-                  ]
-            },
-            {
-                  "name": "Lac Bleu",
-                  "text": "Un lac montan frumos în Méribel, cunoscut pentru vederile sale pitorești.",
-                  "category": "natural",
-                  "coords": [
-                        6.610724,
-                        45.405599
-                  ]
-            },
-            {
                   "name": "Grand Lac",
                   "text": "Un lac mare în Méribel care oferă un cadru liniștit pentru plimbare.",
                   "category": "natural",
                   "coords": [
                         6.55747,
                         45.350034
-                  ]
-            },
-            {
-                  "name": "Lac Merlet Supérieur",
-                  "text": "Un lac de munte înalt în Méribel, perfect pentru o plimbare liniștită.",
-                  "category": "natural",
-                  "coords": [
-                        6.640304,
-                        45.360222
-                  ]
-            },
-            {
-                  "name": "Lac Merlet Inférieur",
-                  "text": "Un lac pitoresc în Méribel care oferă un loc liniștit pentru drumeți.",
-                  "category": "natural",
-                  "coords": [
-                        6.648522,
-                        45.358534
-                  ]
-            },
-            {
-                  "name": "Lac de la Rosière",
-                  "text": "Un lac pitoresc în Méribel, ideal pentru plimbări și admirarea peisajului.",
-                  "category": "natural",
-                  "coords": [
-                        6.665507,
-                        45.411293
-                  ]
-            },
-            {
-                  "name": "Plan du Vah",
-                  "text": "Un platou sau pajiște naturală în Méribel, popular pentru drumeții și schi.",
-                  "category": "natural",
-                  "coords": [
-                        6.644548,
-                        45.404981
                   ]
             },
             {
@@ -24780,30 +23888,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacs Merlet",
-                  "text": "Lacs Merlet din Meribel sunt cunoscute pentru apa lor limpede și mediul liniștit.",
-                  "category": "natural",
-                  "coords": [
-                        6.644575,
-                        45.359276
-                  ]
-            },
-            {
                   "name": "Scierie et moulin du Raffort",
                   "text": "Acest muzeu din Méribel prezintă un gater și o moară istorică.",
                   "category": "museum",
                   "coords": [
                         6.560436,
                         45.409101
-                  ]
-            },
-            {
-                  "name": "Rocher de la Loze",
-                  "text": "Un vârf montan proeminent lângă Méribel, popular printre drumeți.",
-                  "category": "landmark",
-                  "coords": [
-                        6.605222,
-                        45.401074
                   ]
             },
             {
@@ -24887,75 +23977,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac Biollay",
-                  "text": "A scenic lake in Méribel providing a calm environment for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        6.630433,
-                        45.407876
-                  ]
-            },
-            {
-                  "name": "Lac des Creux",
-                  "text": "A peaceful lake in Méribel ideal for a refreshing walk in the mountains.",
-                  "category": "natural",
-                  "coords": [
-                        6.625493,
-                        45.376452
-                  ]
-            },
-            {
-                  "name": "Lac Bleu",
-                  "text": "A beautiful mountain lake in Méribel known for its scenic views.",
-                  "category": "natural",
-                  "coords": [
-                        6.610724,
-                        45.405599
-                  ]
-            },
-            {
                   "name": "Grand Lac",
                   "text": "A large lake in Méribel offering a peaceful setting for walking and scenery.",
                   "category": "natural",
                   "coords": [
                         6.55747,
                         45.350034
-                  ]
-            },
-            {
-                  "name": "Lac Merlet Supérieur",
-                  "text": "A high mountain lake in Méribel perfect for a quiet walk.",
-                  "category": "natural",
-                  "coords": [
-                        6.640304,
-                        45.360222
-                  ]
-            },
-            {
-                  "name": "Lac Merlet Inférieur",
-                  "text": "A scenic lake in Méribel providing a tranquil spot for hikers.",
-                  "category": "natural",
-                  "coords": [
-                        6.648522,
-                        45.358534
-                  ]
-            },
-            {
-                  "name": "Lac de la Rosière",
-                  "text": "A picturesque lake in Méribel ideal for walking and enjoying the scenery.",
-                  "category": "natural",
-                  "coords": [
-                        6.665507,
-                        45.411293
-                  ]
-            },
-            {
-                  "name": "Plan du Vah",
-                  "text": "A natural plateau or meadow in Méribel, popular for hiking and skiing.",
-                  "category": "natural",
-                  "coords": [
-                        6.644548,
-                        45.404981
                   ]
             },
             {
@@ -24995,30 +24022,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacs Merlet",
-                  "text": "The Lacs Merlet in Meribel are known for their clear water and peaceful surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        6.644575,
-                        45.359276
-                  ]
-            },
-            {
                   "name": "Scierie et moulin du Raffort",
                   "text": "This museum in Méribel showcases a historic sawmill and mill.",
                   "category": "museum",
                   "coords": [
                         6.560436,
                         45.409101
-                  ]
-            },
-            {
-                  "name": "Rocher de la Loze",
-                  "text": "A prominent mountain peak near Méribel, popular with hikers.",
-                  "category": "landmark",
-                  "coords": [
-                        6.605222,
-                        45.401074
                   ]
             },
             {
@@ -26045,15 +25054,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plage de la Darse",
-                  "text": "Ein kleiner Strand in der Nähe des Hafens von Saint-Jean-Cap-Ferrat.",
-                  "category": "recreational",
-                  "coords": [
-                        7.307756,
-                        43.697228
-                  ]
-            },
-            {
                   "name": "Villa Kerylos",
                   "text": "Ein Museum im Stil einer antiken griechischen Villa, erbaut zu Beginn des 20. Jahrhunderts.",
                   "category": "museum",
@@ -26212,15 +25212,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.339356,
                         43.686316
-                  ]
-            },
-            {
-                  "name": "Plage de la Darse",
-                  "text": "Kis strand Saint-Jean-Cap-Ferrat kikötőjének közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        7.307756,
-                        43.697228
                   ]
             },
             {
@@ -26385,15 +25376,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plage de la Darse",
-                  "text": "O plajă mică situată în apropierea portului din Saint-Jean-Cap-Ferrat.",
-                  "category": "recreational",
-                  "coords": [
-                        7.307756,
-                        43.697228
-                  ]
-            },
-            {
                   "name": "Villa Kerylos",
                   "text": "O vilă-muzeu construită în stil antic grecesc la începutul secolului XX.",
                   "category": "museum",
@@ -26555,15 +25537,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plage de la Darse",
-                  "text": "A small beach located near the harbor of Saint-Jean-Cap-Ferrat.",
-                  "category": "recreational",
-                  "coords": [
-                        7.307756,
-                        43.697228
-                  ]
-            },
-            {
                   "name": "Villa Kerylos",
                   "text": "A museum built in the style of an ancient Greek villa at the start of the 20th century.",
                   "category": "museum",
@@ -26643,42 +25616,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.098417,
                         43.627375
-                  ]
-            },
-            {
-                  "name": "Jeu de Paume",
-                  "text": "Ein öffentlicher Platz in Saint-Paul-de-Vence, auf dem Kinder sicher spielen können.",
-                  "category": "family",
-                  "coords": [
-                        7.09988,
-                        43.686664
-                  ]
-            },
-            {
-                  "name": "Ludiparc",
-                  "text": "Der Freizeitpark Ludiparc in Saint-Paul-de-Vence ist ein Ziel für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        7.082926,
-                        43.680274
-                  ]
-            },
-            {
-                  "name": "Bassin Ludique",
-                  "text": "Das Schwimmbad Bassin Ludique befindet sich in Saint-Paul-de-Vence.",
-                  "category": "family",
-                  "coords": [
-                        7.099959,
-                        43.681342
-                  ]
-            },
-            {
-                  "name": "Abbaye du Canadel",
-                  "text": "Abbaye du Canadel ist ein Kloster in Saint Paul De Vence. Der Komplex wurde traditionell von einer religiösen Gemeinschaft genutzt.",
-                  "category": "religious",
-                  "coords": [
-                        7.102801,
-                        43.685602
                   ]
             },
             {
@@ -26770,15 +25707,6 @@ export const poiExtraFrV2: POI[] = [
                         7.113764,
                         43.693553
                   ]
-            },
-            {
-                  "name": "Église Saint-Jacques le Majeur",
-                  "text": "Église Saint-Jacques le Majeur ist eine Kultstätte in Saint Paul De Vence. Dieses religiöse Gebäude dient als Ort des Gebets und der lokalen Traditionen.",
-                  "category": "religious",
-                  "coords": [
-                        7.105712,
-                        43.686825
-                  ]
             }
       ],
       "hu": [
@@ -26840,42 +25768,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.098417,
                         43.627375
-                  ]
-            },
-            {
-                  "name": "Jeu de Paume",
-                  "text": "Nyilvános tér Saint-Paul-de-Vence-ben, ahol a gyerekek biztonságosan játszhatnak.",
-                  "category": "family",
-                  "coords": [
-                        7.09988,
-                        43.686664
-                  ]
-            },
-            {
-                  "name": "Ludiparc",
-                  "text": "A Saint-Paul-de-Vence-i Ludiparc szabadidőpark az egész család számára kínál kikapcsolódást.",
-                  "category": "family",
-                  "coords": [
-                        7.082926,
-                        43.680274
-                  ]
-            },
-            {
-                  "name": "Bassin Ludique",
-                  "text": "A Bassin Ludique úszómedence Saint-Paul-de-Vence-ben található.",
-                  "category": "family",
-                  "coords": [
-                        7.099959,
-                        43.681342
-                  ]
-            },
-            {
-                  "name": "Abbaye du Canadel",
-                  "text": "A Abbaye du Canadel egy kolostor Saint Paul De Vence városában. A komplexumot hagyományosan egy vallási közösség használta hitéleti célokra.",
-                  "category": "religious",
-                  "coords": [
-                        7.102801,
-                        43.685602
                   ]
             },
             {
@@ -26967,15 +25859,6 @@ export const poiExtraFrV2: POI[] = [
                         7.113764,
                         43.693553
                   ]
-            },
-            {
-                  "name": "Église Saint-Jacques le Majeur",
-                  "text": "A Église Saint-Jacques le Majeur egy templom Saint Paul De Vence városában. Ez a vallási épület az imádság és a helyi hagyományok helyszíne.",
-                  "category": "religious",
-                  "coords": [
-                        7.105712,
-                        43.686825
-                  ]
             }
       ],
       "ro": [
@@ -27037,42 +25920,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.098417,
                         43.627375
-                  ]
-            },
-            {
-                  "name": "Jeu de Paume",
-                  "text": "O piață publică în Saint-Paul-de-Vence, unde copiii se pot juca în siguranță.",
-                  "category": "family",
-                  "coords": [
-                        7.09988,
-                        43.686664
-                  ]
-            },
-            {
-                  "name": "Ludiparc",
-                  "text": "Parcul de distracții Ludiparc din Saint Paul De Vence este o destinație pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        7.082926,
-                        43.680274
-                  ]
-            },
-            {
-                  "name": "Bassin Ludique",
-                  "text": "Piscina Bassin Ludique este situată în Saint Paul De Vence.",
-                  "category": "family",
-                  "coords": [
-                        7.099959,
-                        43.681342
-                  ]
-            },
-            {
-                  "name": "Abbaye du Canadel",
-                  "text": "Abbaye du Canadel este un mănăstire situat în Saint Paul De Vence. Complexul a fost folosit tradițional de o comunitate religioasă pentru viața spirituală.",
-                  "category": "religious",
-                  "coords": [
-                        7.102801,
-                        43.685602
                   ]
             },
             {
@@ -27164,15 +26011,6 @@ export const poiExtraFrV2: POI[] = [
                         7.113764,
                         43.693553
                   ]
-            },
-            {
-                  "name": "Église Saint-Jacques le Majeur",
-                  "text": "Église Saint-Jacques le Majeur este un lăcaș de cult situat în Saint Paul De Vence. Această clădire religioasă servește ca loc de rugăciune și tradiții locale.",
-                  "category": "religious",
-                  "coords": [
-                        7.105712,
-                        43.686825
-                  ]
             }
       ],
       "en": [
@@ -27234,42 +26072,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         7.098417,
                         43.627375
-                  ]
-            },
-            {
-                  "name": "Jeu de Paume",
-                  "text": "A public square in Saint-Paul-de-Vence where children can play safely.",
-                  "category": "family",
-                  "coords": [
-                        7.09988,
-                        43.686664
-                  ]
-            },
-            {
-                  "name": "Ludiparc",
-                  "text": "The theme park Ludiparc in Saint Paul De Vence is a destination for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        7.082926,
-                        43.680274
-                  ]
-            },
-            {
-                  "name": "Bassin Ludique",
-                  "text": "The swimming pool Bassin Ludique is located in Saint Paul De Vence.",
-                  "category": "family",
-                  "coords": [
-                        7.099959,
-                        43.681342
-                  ]
-            },
-            {
-                  "name": "Abbaye du Canadel",
-                  "text": "Abbaye du Canadel is a monastery located in Saint Paul De Vence. The complex was traditionally used by a religious community for spiritual life.",
-                  "category": "religious",
-                  "coords": [
-                        7.102801,
-                        43.685602
                   ]
             },
             {
@@ -27361,30 +26163,11 @@ export const poiExtraFrV2: POI[] = [
                         7.113764,
                         43.693553
                   ]
-            },
-            {
-                  "name": "Église Saint-Jacques le Majeur",
-                  "text": "Église Saint-Jacques le Majeur is a place of worship located in Saint Paul De Vence. This religious building serves as a site for prayer and local traditions.",
-                  "category": "religious",
-                  "coords": [
-                        7.105712,
-                        43.686825
-                  ]
             }
       ]
 }},
   {"id": "saint-tropez", "type": "city", "parent": "FR-PAC", "coords": [6.6406, 43.2675], "population": 3937, "tier": 1, "name": {"de": "Saint-Tropez", "hu": "Saint-Tropez", "ro": "Saint-Tropez", "en": "Saint-Tropez"}, "description": {"de": "Saint-Tropez ist das wohl berühmteste Fischerdorf der Welt, ein Symbol für Luxus, Glamour und die goldene Ära des französischen Kinos an der Côte d'Azur.", "hu": "Saint-Tropez a világ leghíresebb halászfaluja, a luxus és a csillogás jelképe, amely Brigitte Bardot és a francia filmművészet révén vált legendássá.", "ro": "Saint-Tropez este cel mai faimos sat de pescari din lume, un simbol al luxului și extravaganței, renumit pentru viața de noapte și iahturile sale.", "en": "Saint-Tropez is arguably the world's most famous fishing village, a global symbol of luxury, glamour, and the sun-drenched French Riviera lifestyle."}, "facts": {"de": ["Einst ein einfaches Fischerdorf", "Berühmt durch Brigitte Bardot (1956)", "Legendärer Strand Plage de Pampelonne", "Zentrum für High-Society und Luxusyachten", "Hafenpromenade mit Cafés wie Sénéquier", "Historische Zitadelle aus dem 17. Jh.", "Bekannt für den Kuchen 'Tarte Tropézienne'", "Austragungsort der Les Voiles de Saint-Tropez"], "hu": ["Egykor egyszerű halászfalu volt", "Brigitte Bardot tette világhírűvé 1956-ban", "A híres Pampelonne-strand otthona", "A nemzetközi jet-set központja", "Ikonikus kikötői kávézók (pl. Sénéquier)", "17. századi citadella uralja a várost", "Itt született a Tarte Tropézienne sütemény", "A Les Voiles de Saint-Tropez regatta helyszíne"], "ro": ["Fost sat pescăresc modest", "Devenit celebru datorită lui Brigitte Bardot", "Găzduiește celebra plajă Pampelonne", "Hub global pentru jet-set și iahturi de lux", "Cafenele iconice precum Sénéquier în port", "Citadelă istorică din secolul al XVII-lea", "Locul de origine al prăjiturii Tarte Tropézienne", "Gazda regatei Les Voiles de Saint-Tropez"], "en": ["Once a simple fishing village", "Made famous by Brigitte Bardot in 1956", "Home to the iconic Pampelonne Beach", "Global hub for high society and mega-yachts", "Legendary port-side cafés like Sénéquier", "17th-century citadel overlooking the town", "Birthplace of the Tarte Tropézienne pastry", "Host of the Les Voiles de Saint-Tropez regatta"]}, "image": "/geo-images/france/saint-tropez.webp", "imageHint": "Saint-Tropez harbor with luxury yachts and colorful houses", "descriptionAdvanced": {"de": "Saint-Tropez verwandelte sich in den 1950er Jahren von einem verschlafenen Fischerort in den ultimativen Treffpunkt der internationalen Prominenz. Den Anstoß gab der Film 'Und immer lockt das Weib' mit Brigitte Bardot, der die Schönheit des Ortes weltweit bekannt machte. Trotz des enormen Besucherandrangs im Sommer hat Saint-Tropez seinen provenzalischen Kern bewahrt. Die engen Gassen von 'La Ponche', dem alten Fischerviertel, führen zu malerischen Plätzen wie dem Place des Lices, wo Einheimische unter Platanen Boule spielen. Über der Stadt thront die Zitadelle, die heute ein Marinemuseum beherbergt und einen Panoramablick über den Golf von Saint-Tropez bietet. Die eigentlichen Partys finden meist etwas außerhalb am fünf Kilometer langen Sandstrand von Pampelonne statt, wo exklusive Beach Clubs wie der Club 55 zu finden sind. Kulturell bietet der Ort mit dem Musée de l'Annonciade eine erstklassige Sammlung moderner Kunst, die an die Zeit erinnert, als Maler wie Signac den Ort entdeckten.", "hu": "Saint-Tropez az 1950-es évekig egy csendes, elszigetelt halászfalu volt, amíg Brigitte Bardot és az 'És Isten megteremté a nőt' című film örökre meg nem változtatta a sorsát. Ma a város a globális elit találkozóhelye, ahol a kikötőben sorakozó hatalmas jachtok látványa mindennapos. Az óváros, a 'La Ponche' mégis megőrizte eredeti báját pasztellszínű házaival és szűk sikátoraival. A Place des Lices téren minden kedden és szombaton piacot tartanak, ahol a helyiek a platánfák alatt ma is pétanque-ot játszanak. A város fölé magasodó 17. századi citadellából csodás kilátás nyílik az öbölre. Saint-Tropez gasztronómiai védjegye a Tarte Tropézienne, egy krémmel töltött édes brios-tészta, amelyet egy lengyel cukrász alkotott meg. A művészetkedvelőknek az Annonciade Múzeum kötelező, amely Signac és Matisse műveivel mutatja be a város festői múltját.", "ro": "Saint-Tropez s-a metamorfozat dintr-un sat de pescari izolat în epicentrul strălucirii mediteraneene după cel de-al Doilea Război Mondial. Succesul răsunător al filmului 'Și Dumnezeu a creat femeia' cu Brigitte Bardot a pus acest loc pe harta mondială a turismului de lux. Deși portul este plin de iahturi extravagante și cafenele scumpe precum Sénéquier, Saint-Tropez își păstrează esența provensală în piața Place des Lices, unde localnicii joacă petancă la umbra platanilor. Vechiul cartier de pescari, La Ponche, oferă o atmosferă mult mai liniștită, cu străzi pavate și mici golfuri ascunse. Citadela orașului, construită în secolul al XVII-lea, rămâne unul dintre cele mai importante monumente istorice, oferind o perspectivă unică asupra golfului. Stațiunea este de asemenea celebră pentru viața de noapte din cluburile de pe plaja Pampelonne și pentru regatele de iahting care atrag amatori din întreaga lume.", "en": "Saint-Tropez rose to international fame in the 1950s, largely thanks to Brigitte Bardot and the film 'And God Created Woman.' What was once a quiet fishing port became a playground for the world's rich and famous. Despite its glamorous reputation, the town maintains its Provencal soul in the narrow streets of the La Ponche district and the bustling market at Place des Lices, where locals still play pétanque. The harbor is the town's focal point, lined with red-awninged cafés and multi-million dollar yachts. High above, the 17th-century Citadel provides historical context and stunning views of the bay. A few kilometers away lies the famous Pampelonne Beach, home to legendary beach clubs like Club 55. Culturally, the Musée de l'Annonciade showcases works by Signac, Matisse, and other masters who were drawn to the town's exceptional light long before the movie stars arrived."}, "factsAdvanced": {"de": ["Plage de Pampelonne ist technisch gesehen in Ramatuelle", "Musée de l'Annonciade war früher eine Kapelle", "Zitadelle wurde zwischen 1602 und 1608 erbaut", "Place des Lices Markt findet Di und Sa statt", "Tarte Tropézienne wurde 1955 von Alexandre Micka erfunden", "Gendarmerie-Museum erinnert an die 'Louis de Funès' Filme"], "hu": ["A Pampelonne-strand valójában Ramatuelle területén fekszik", "Az Annonciade Múzeum egy 16. századi kápolnában van", "A citadellát 1602 és 1608 között építették", "A Place des Lices piaca kedden és szombaton van", "A Tarte Tropézienne receptje 1955-ben született", "Csendőrmúzeum állít emléket Louis de Funès filmjeinek"], "ro": ["Plaja Pampelonne aparține administrativ de Ramatuelle", "Muzeul Annonciade este situat într-o fostă capelă", "Citadela a fost ridicată între anii 1602 și 1608", "Piața din Place des Lices are loc marțea și sâmbăta", "Tarte Tropézienne a fost creată în 1955 de Alexandre Micka", "Muzeul Jandarmeriei celebrează filmele cu Louis de Funès"], "en": ["Pampelonne Beach is technically located in Ramatuelle", "The Annonciade Museum is housed in a 16th-century chapel", "The Citadel was built between 1602 and 1608", "The Place des Lices market runs on Tuesdays and Saturdays", "The Tarte Tropézienne was invented in 1955 by Alexandre Micka", "The Gendarmerie Museum pays tribute to the Louis de Funès films"]}, "sights": {
       "de": [
-            {
-                  "name": "Citadelle de Saint-Tropez",
-                  "text": "Eine imposante Hügelfestung aus dem 17. Jahrhundert mit hexagonalen Bastionen, in der sich das wunderbare moderne Schifffahrtsmuseum befindet.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "coords": [
-                        6.64458,
-                        43.2722
-                  ]
-            },
             {
                   "name": "Vieux Port",
                   "text": "Der historische alte Hafen, gesäumt von pastellfarbenen Cafés, wo traditionelle rustikale Fischerboote auf moderne Luxusyachten treffen.",
@@ -27393,46 +26176,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.63912,
                         43.273177
-                  ]
-            },
-            {
-                  "name": "Musée de l'Annonciade",
-                  "text": "Dieses außergewöhnliche Kunstmuseum in einer ehemaligen Kapelle aus dem 16. Jahrhundert zeigt eindrucksvolle postimpressionistische Meisterwerke.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        6.637123,
-                        43.271079
-                  ]
-            },
-            {
-                  "name": "Place des Lices",
-                  "text": "Ein typisch provenzalischer, von Platanen beschatteter Platz, berühmt für tägliche Pétanque-Spiele und seinen besonders lebhaften Wochenmarkt.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        6.641139,
-                        43.27
-                  ]
-            },
-            {
-                  "name": "Église Notre-Dame-de-l'Assomption",
-                  "text": "Die ikonische italienisch-barocke Kirche mit ihrem markanten gelben Glockenturm, der unverwechselbar die Skyline von Saint-Tropez symbolisiert.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        6.640127,
-                        43.272855
-                  ]
-            },
-            {
-                  "name": "Plage de Pampelonne",
-                  "text": "Fünf Kilometer weißer Sand und wunderbar kristallklares Wasser machen den Plage de Pampelonne in Saint-Tropez weltberühmt. Zwischen exklusiven Strandclubs und schimmerndem Meer pulsiert hier das glamouröse Leben der französischen Riviera. Wer den vollen Luxus der Côte d'Azur erleben möchte, verbringt hier einen unvergesslichen Tag in der Sonne.",
-                  "category": "parks/promenades/beaches",
-                  "confidence": "high",
-                  "coords": [
-                        6.648086,
-                        43.235772
                   ]
             },
             {
@@ -27549,16 +26292,6 @@ export const poiExtraFrV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Citadelle de Saint-Tropez",
-                  "text": "Impozáns 17. századi dombtetőn álló erődítmény hatszögletű bástyákkal, amely jelenleg egy kiváló modern tengerészeti múzeumnak ad otthont.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "coords": [
-                        6.64458,
-                        43.2722
-                  ]
-            },
-            {
                   "name": "Vieux Port",
                   "text": "A nyüzsgő történelmi régi kikötő, amelyet pasztellszínű kávézók szegélyeznek, és ahol hagyományos halászhajók találkoznak hatalmas luxusjachtokkal.",
                   "category": "squares/old-town",
@@ -27566,46 +26299,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.63912,
                         43.273177
-                  ]
-            },
-            {
-                  "name": "Musée de l'Annonciade",
-                  "text": "Egy egykori 16. századi kápolnában helyet kapó kivételes művészeti múzeum lenyűgöző posztimpresszionista és fauvista remekműveket mutat be.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        6.637123,
-                        43.271079
-                  ]
-            },
-            {
-                  "name": "Place des Lices",
-                  "text": "Jellegzetes platánfákkal árnyékolt provence-i tér, amely híres a helyiek mindennapos pétanque-mérkőzéseiről és a nyüzsgő, színes heti piacáról.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        6.641139,
-                        43.27
-                  ]
-            },
-            {
-                  "name": "Église Notre-Dame-de-l'Assomption",
-                  "text": "Az ikonikus olasz barokk templom jellegzetes sárga és terrakotta harangtornyával, amely egyértelműen Saint-Tropez látképének fő szimbóluma.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        6.640127,
-                        43.272855
-                  ]
-            },
-            {
-                  "name": "Plage de Pampelonne",
-                  "text": "Öt kilométernyi fehér homok és csodálatosan kristálytiszta víz tette világhírűvé a Saint-Tropez-ban található Plage de Pampelonne-t. Az exkluzív strandklubok és a csillogó tenger között lüktet a francia Riviéra elbűvölő élete. Aki szeretné megtapasztalni a Côte d'Azur teljes luxusát, egy felejthetetlen napot tölthet itt a napfényben.",
-                  "category": "parks/promenades/beaches",
-                  "confidence": "high",
-                  "coords": [
-                        6.648086,
-                        43.235772
                   ]
             },
             {
@@ -27722,16 +26415,6 @@ export const poiExtraFrV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Citadelle de Saint-Tropez",
-                  "text": "O fortăreață impunătoare pe deal din secolul al XVII-lea, cu bastioane hexagonale, adăpostind astăzi Muzeul modern de Istorie Maritimă.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "coords": [
-                        6.64458,
-                        43.2722
-                  ]
-            },
-            {
                   "name": "Vieux Port",
                   "text": "Vechiul port istoric plin de viață, străjuit de cafenele în culori pastelate, unde bărcile tradiționale rustice întâlnesc iahturile de lux.",
                   "category": "squares/old-town",
@@ -27739,46 +26422,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.63912,
                         43.273177
-                  ]
-            },
-            {
-                  "name": "Musée de l'Annonciade",
-                  "text": "Găzduit într-o fostă capelă pitorească din secolul al XVI-lea, acest muzeu de artă excepțional expune capodopere postimpresioniste impresionante.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        6.637123,
-                        43.271079
-                  ]
-            },
-            {
-                  "name": "Place des Lices",
-                  "text": "O piață provensală umbrită de platani, renumită pentru meciurile locale zilnice de pétanque și piața sa tradițională extrem de plină de viață.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        6.641139,
-                        43.27
-                  ]
-            },
-            {
-                  "name": "Église Notre-Dame-de-l'Assomption",
-                  "text": "Biserica barocă italiană emblematică, cu clopotnița sa distinctă galbenă, care simbolizează instantaneu orizontul fermecător al orașului Saint-Tropez.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        6.640127,
-                        43.272855
-                  ]
-            },
-            {
-                  "name": "Plage de Pampelonne",
-                  "text": "Cinci kilometri de nisip alb și apă uimitor de cristalină fac Plage de Pampelonne din Saint-Tropez faimoasă în întreaga lume. Viața plină de farmec a Rivierei franceze pulsează aici între cluburile de plajă exclusive și marea strălucitoare. Cei care doresc să experimenteze luxul deplin al Coastei de Azur vor petrece aici o zi de neuitat la soare.",
-                  "category": "parks/promenades/beaches",
-                  "confidence": "high",
-                  "coords": [
-                        6.648086,
-                        43.235772
                   ]
             },
             {
@@ -27895,16 +26538,6 @@ export const poiExtraFrV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Citadelle de Saint-Tropez",
-                  "text": "An imposing 17th-century hilltop fortress featuring hexagonal bastions, currently housing the surprisingly modern and engaging Maritime History Museum.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "coords": [
-                        6.64458,
-                        43.2722
-                  ]
-            },
-            {
                   "name": "Vieux Port",
                   "text": "The bustling historical old harbor lined with pastel-colored cafes and lovely restaurants, where traditional fishing boats meet luxury superyachts.",
                   "category": "squares/old-town",
@@ -27912,46 +26545,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.63912,
                         43.273177
-                  ]
-            },
-            {
-                  "name": "Musée de l'Annonciade",
-                  "text": "Housed in a beautifully converted former 16th-century chapel, this exceptional art museum displays stunningly vivid post-Impressionist masterpieces.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        6.637123,
-                        43.271079
-                  ]
-            },
-            {
-                  "name": "Place des Lices",
-                  "text": "A quintessential Provencal square shaded by tall plane trees, wildly famous for local daily pétanque matches and its exceedingly lively weekly market.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        6.641139,
-                        43.27
-                  ]
-            },
-            {
-                  "name": "Église Notre-Dame-de-l'Assomption",
-                  "text": "The iconic Italian-baroque church with its distinctive yellow and terracotta bell tower that instantly symbolizes the charming skyline of Saint-Tropez.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        6.640127,
-                        43.272855
-                  ]
-            },
-            {
-                  "name": "Plage de Pampelonne",
-                  "text": "Five kilometers of white sand and wonderfully crystal-clear water make the Plage de Pampelonne in Saint-Tropez world-famous. Between exclusive beach clubs and the shimmering sea, the glamorous life of the French Riviera pulses here. Anyone looking to experience the full luxury of the Côte d'Azur will spend an unforgettable day in the sun here.",
-                  "category": "parks/promenades/beaches",
-                  "confidence": "high",
-                  "coords": [
-                        6.648086,
-                        43.235772
                   ]
             },
             {
@@ -28806,16 +27399,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pont d'Asfeld",
-                  "text": "Eine spektakuläre Steinbogenbrücke über die tiefe Durance-Schlucht, die die Stadt seit 1734 mit dem historischen Fort des Têtes verbindet.",
-                  "category": "bridges/lighthouses",
-                  "confidence": "high",
-                  "coords": [
-                        6.6473,
-                        44.8988
-                  ]
-            },
-            {
                   "name": "Collégiale Notre-Dame-et-Saint-Nicolas",
                   "text": "Eine imposante Stiftskirche mit einer majestätischen gelben Fassade und zwei Türmen, die die Skyline der historischen Vauban-Stadt dominiert.",
                   "category": "churches/cathedrals",
@@ -29017,16 +27600,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.65,
                         44.89528
-                  ]
-            },
-            {
-                  "name": "Pont d'Asfeld",
-                  "text": "Egy látványos kőívhíd a mély Durance-szurdok felett, amely 1734 óta köti össze a várost a lenyűgöző Fort des Têtes erőddel.",
-                  "category": "bridges/lighthouses",
-                  "confidence": "high",
-                  "coords": [
-                        6.6473,
-                        44.8988
                   ]
             },
             {
@@ -29234,16 +27807,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pont d'Asfeld",
-                  "text": "Un pod de piatră spectaculos peste cheile Durance, care conectează orașul istoric cu Fort des Têtes încă din anul 1734.",
-                  "category": "bridges/lighthouses",
-                  "confidence": "high",
-                  "coords": [
-                        6.6473,
-                        44.8988
-                  ]
-            },
-            {
                   "name": "Collégiale Notre-Dame-et-Saint-Nicolas",
                   "text": "O biserică impresionantă cu o fațadă galbenă maiestuoasă și turnuri gemene, dominând orizontul unicului oraș fortificat Vauban.",
                   "category": "churches/cathedrals",
@@ -29445,16 +28008,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.65,
                         44.89528
-                  ]
-            },
-            {
-                  "name": "Pont d'Asfeld",
-                  "text": "A spectacular stone arch bridge spanning the deep Durance gorge, gracefully connecting the town to the Fort des Têtes since 1734.",
-                  "category": "bridges/lighthouses",
-                  "confidence": "high",
-                  "coords": [
-                        6.6473,
-                        44.8988
                   ]
             },
             {
@@ -29751,48 +28304,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac de la Sassière",
-                  "text": "Ein beeindruckender Stausee im Hochgebirge, ideal für eine Wanderung in Tignes.",
-                  "category": "natural",
-                  "coords": [
-                        7.008879,
-                        45.482388
-                  ]
-            },
-            {
-                  "name": "Lac du Grapillon",
-                  "text": "Ein kleiner, versteckter See, der Ruhe und eine schöne alpine Flora bietet.",
-                  "category": "natural",
-                  "coords": [
-                        6.926496,
-                        45.409666
-                  ]
-            },
-            {
-                  "name": "Lac de l'Ouillette",
-                  "text": "Ein See in herrlicher Lage, der für seine Spiegelungen der Berge bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        6.992272,
-                        45.428847
-                  ]
-            },
-            {
                   "name": "Lac du Grand Huit",
                   "text": "Ein malerischer Bergsee, der ein ruhiges Ziel für Wanderer in Tignes darstellt.",
                   "category": "natural",
                   "coords": [
                         6.881282,
                         45.470364
-                  ]
-            },
-            {
-                  "name": "Lac du Plan du Cheval",
-                  "text": "Ein kleiner alpiner See, der zum Entspannen inmitten der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        6.977456,
-                        45.47924
                   ]
             },
             {
@@ -29823,15 +28340,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac du Grand Creux",
-                  "text": "Ein hochgelegener See mit wildem Charme, ideal für erfahrene Bergwanderer.",
-                  "category": "natural",
-                  "coords": [
-                        6.995646,
-                        45.478701
-                  ]
-            },
-            {
                   "name": "Lac du Plan Séry",
                   "text": "Der Lac du Plan Séry in Tignes bietet eine friedliche Kulisse für malerische Spaziergänge und Erholung.",
                   "category": "natural",
@@ -29856,15 +28364,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.916679,
                         45.51123
-                  ]
-            },
-            {
-                  "name": "Lac du Saut",
-                  "text": "Der Lac du Saut in Tignes ist ein malerischer See, der Besuchern eine wunderschöne Aussicht und Ruhe bietet.",
-                  "category": "natural",
-                  "coords": [
-                        6.971136,
-                        45.486973
                   ]
             },
             {
@@ -30048,48 +28547,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac de la Sassière",
-                  "text": "Lenyűgöző magashegyi víztározó, amely ideális egy Tignes-i túrához.",
-                  "category": "natural",
-                  "coords": [
-                        7.008879,
-                        45.482388
-                  ]
-            },
-            {
-                  "name": "Lac du Grapillon",
-                  "text": "Kicsi, rejtett tó, amely nyugalmat és szép alpesi flórát kínál.",
-                  "category": "natural",
-                  "coords": [
-                        6.926496,
-                        45.409666
-                  ]
-            },
-            {
-                  "name": "Lac de l'Ouillette",
-                  "text": "Csodálatos elhelyezkedésű tó, amely a hegyek tükröződéséről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        6.992272,
-                        45.428847
-                  ]
-            },
-            {
                   "name": "Lac du Grand Huit",
                   "text": "Festői hegyi tó, amely nyugodt célpont a Tignes-i túrázók számára.",
                   "category": "natural",
                   "coords": [
                         6.881282,
                         45.470364
-                  ]
-            },
-            {
-                  "name": "Lac du Plan du Cheval",
-                  "text": "Kicsi alpesi tó, amely pihenésre hív a természet közepén.",
-                  "category": "natural",
-                  "coords": [
-                        6.977456,
-                        45.47924
                   ]
             },
             {
@@ -30120,15 +28583,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac du Grand Creux",
-                  "text": "Magaslati tó vad bájjal, ideális tapasztalt hegyi túrázóknak.",
-                  "category": "natural",
-                  "coords": [
-                        6.995646,
-                        45.478701
-                  ]
-            },
-            {
                   "name": "Lac du Plan Séry",
                   "text": "A Tignes településen található Lac du Plan Séry békés környezetet kínál festői sétákhoz és kikapcsolódáshoz.",
                   "category": "natural",
@@ -30153,15 +28607,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.916679,
                         45.51123
-                  ]
-            },
-            {
-                  "name": "Lac du Saut",
-                  "text": "A Tignes-i Lac du Saut egy festői tó, amely gyönyörű kilátást és nyugalmat kínál a látogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        6.971136,
-                        45.486973
                   ]
             },
             {
@@ -30345,48 +28790,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac de la Sassière",
-                  "text": "Un lac de acumulare impresionant la mare altitudine, ideal pentru o drumeție în Tignes.",
-                  "category": "natural",
-                  "coords": [
-                        7.008879,
-                        45.482388
-                  ]
-            },
-            {
-                  "name": "Lac du Grapillon",
-                  "text": "Un lac mic și ascuns, care oferă liniște și o floră alpină frumoasă.",
-                  "category": "natural",
-                  "coords": [
-                        6.926496,
-                        45.409666
-                  ]
-            },
-            {
-                  "name": "Lac de l'Ouillette",
-                  "text": "Un lac într-o locație superbă, cunoscut pentru reflexiile munților.",
-                  "category": "natural",
-                  "coords": [
-                        6.992272,
-                        45.428847
-                  ]
-            },
-            {
                   "name": "Lac du Grand Huit",
                   "text": "Un lac montan pitoresc, care reprezintă o destinație liniștită pentru drumeții din Tignes.",
                   "category": "natural",
                   "coords": [
                         6.881282,
                         45.470364
-                  ]
-            },
-            {
-                  "name": "Lac du Plan du Cheval",
-                  "text": "Un mic lac alpin care invită la relaxare în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        6.977456,
-                        45.47924
                   ]
             },
             {
@@ -30417,15 +28826,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac du Grand Creux",
-                  "text": "Un lac la altitudine cu farmec sălbatic, ideal pentru drumeții montani experimentați.",
-                  "category": "natural",
-                  "coords": [
-                        6.995646,
-                        45.478701
-                  ]
-            },
-            {
                   "name": "Lac du Plan Séry",
                   "text": "Lac du Plan Séry din Tignes oferă un cadru liniștit pentru plimbări pitorești și relaxare.",
                   "category": "natural",
@@ -30450,15 +28850,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.916679,
                         45.51123
-                  ]
-            },
-            {
-                  "name": "Lac du Saut",
-                  "text": "Lac du Saut din Tignes este un lac pitoresc care oferă vizitatorilor priveliști frumoase și liniște.",
-                  "category": "natural",
-                  "coords": [
-                        6.971136,
-                        45.486973
                   ]
             },
             {
@@ -30642,48 +29033,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac de la Sassière",
-                  "text": "An impressive high-mountain reservoir, ideal for a hike in Tignes.",
-                  "category": "natural",
-                  "coords": [
-                        7.008879,
-                        45.482388
-                  ]
-            },
-            {
-                  "name": "Lac du Grapillon",
-                  "text": "A small, hidden lake offering peace and beautiful alpine flora.",
-                  "category": "natural",
-                  "coords": [
-                        6.926496,
-                        45.409666
-                  ]
-            },
-            {
-                  "name": "Lac de l'Ouillette",
-                  "text": "A lake in a wonderful location, known for its reflections of the mountains.",
-                  "category": "natural",
-                  "coords": [
-                        6.992272,
-                        45.428847
-                  ]
-            },
-            {
                   "name": "Lac du Grand Huit",
                   "text": "A picturesque mountain lake that represents a quiet destination for hikers in Tignes.",
                   "category": "natural",
                   "coords": [
                         6.881282,
                         45.470364
-                  ]
-            },
-            {
-                  "name": "Lac du Plan du Cheval",
-                  "text": "A small alpine lake inviting relaxation in the heart of nature.",
-                  "category": "natural",
-                  "coords": [
-                        6.977456,
-                        45.47924
                   ]
             },
             {
@@ -30714,15 +29069,6 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac du Grand Creux",
-                  "text": "A high-altitude lake with wild charm, ideal for experienced mountain hikers.",
-                  "category": "natural",
-                  "coords": [
-                        6.995646,
-                        45.478701
-                  ]
-            },
-            {
                   "name": "Lac du Plan Séry",
                   "text": "The Lac du Plan Séry in Tignes offers a peaceful setting for scenic walks and relaxation.",
                   "category": "natural",
@@ -30747,15 +29093,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.916679,
                         45.51123
-                  ]
-            },
-            {
-                  "name": "Lac du Saut",
-                  "text": "The Lac du Saut in Tignes is a picturesque lake offering beautiful views and tranquility to visitors.",
-                  "category": "natural",
-                  "coords": [
-                        6.971136,
-                        45.486973
                   ]
             },
             {
@@ -30914,30 +29251,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac du Chevril",
-                  "text": "Der Lac du Chevril in Val D Isere ist ein großer Stausee, der die alpine Landschaft der Region prägt.",
-                  "category": "natural",
-                  "coords": [
-                        6.94246,
-                        45.482111
-                  ]
-            },
-            {
                   "name": "Lac de Tignes",
                   "text": "Der Lac de Tignes bietet in Val D Isere eine malerische Kulisse für Spaziergänge und Wassersport.",
                   "category": "natural",
                   "coords": [
                         6.903965,
                         45.46569
-                  ]
-            },
-            {
-                  "name": "Grand Lac de Chardonet",
-                  "text": "Der Grand Lac de Chardonet ist ein abgelegener Gebirgssee in Val D Isere, ideal für ruhige Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        6.883035,
-                        45.465677
                   ]
             },
             {
@@ -30995,30 +29314,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac du Grand Huit",
-                  "text": "Der Lac du Grand Huit in Val D Isere ist ein hochgelegener See, der für seine klare Sicht bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        6.881282,
-                        45.470364
-                  ]
-            },
-            {
                   "name": "Lac du Plan du Cheval",
                   "text": "Der Lac du Plan du Cheval in Val D Isere ist ein malerischer Ort für Wanderungen in der Hochgebirgswelt.",
                   "category": "natural",
                   "coords": [
                         6.977456,
                         45.47924
-                  ]
-            },
-            {
-                  "name": "Lac de la Leisse",
-                  "text": "Der Lac de la Leisse in Val D Isere bietet eine wilde und unberührte Naturkulisse für Besucher.",
-                  "category": "natural",
-                  "coords": [
-                        6.910994,
-                        45.419
                   ]
             },
             {
@@ -31055,15 +29356,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.995646,
                         45.478701
-                  ]
-            },
-            {
-                  "name": "Lac proglacière de Roselin",
-                  "text": "Ein interessantes Ausflugsziel für Wanderer in der alpinen Umgebung von Val D Isere.",
-                  "category": "natural",
-                  "coords": [
-                        6.883125,
-                        45.428882
                   ]
             },
             {
@@ -31211,30 +29503,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac du Chevril",
-                  "text": "A Val D Isere-i Lac du Chevril egy nagy víztározó, amely meghatározza a régió alpesi táját.",
-                  "category": "natural",
-                  "coords": [
-                        6.94246,
-                        45.482111
-                  ]
-            },
-            {
                   "name": "Lac de Tignes",
                   "text": "A Lac de Tignes festői környezetet biztosít Val D Isere-ben a sétákhoz és vízi sportokhoz.",
                   "category": "natural",
                   "coords": [
                         6.903965,
                         45.46569
-                  ]
-            },
-            {
-                  "name": "Grand Lac de Chardonet",
-                  "text": "A Grand Lac de Chardonet egy félreeső hegyi tó Val D Isere-ben, ideális a nyugodt természetjáráshoz.",
-                  "category": "natural",
-                  "coords": [
-                        6.883035,
-                        45.465677
                   ]
             },
             {
@@ -31292,30 +29566,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac du Grand Huit",
-                  "text": "A Val D Isere-i Lac du Grand Huit egy magasan fekvő tó, amely tiszta kilátásáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        6.881282,
-                        45.470364
-                  ]
-            },
-            {
                   "name": "Lac du Plan du Cheval",
                   "text": "A Val D Isere-i Lac du Plan du Cheval festői helyszín a magashegyi túrákhoz.",
                   "category": "natural",
                   "coords": [
                         6.977456,
                         45.47924
-                  ]
-            },
-            {
-                  "name": "Lac de la Leisse",
-                  "text": "A Val D Isere-i Lac de la Leisse vad és érintetlen természeti környezetet kínál a látogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        6.910994,
-                        45.419
                   ]
             },
             {
@@ -31352,15 +29608,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.995646,
                         45.478701
-                  ]
-            },
-            {
-                  "name": "Lac proglacière de Roselin",
-                  "text": "Érdekes kirándulóhely túrázók számára Val D Isere alpesi környezetében.",
-                  "category": "natural",
-                  "coords": [
-                        6.883125,
-                        45.428882
                   ]
             },
             {
@@ -31508,30 +29755,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac du Chevril",
-                  "text": "Lac du Chevril din Val D Isere este un mare lac de acumulare care marchează peisajul alpin al regiunii.",
-                  "category": "natural",
-                  "coords": [
-                        6.94246,
-                        45.482111
-                  ]
-            },
-            {
                   "name": "Lac de Tignes",
                   "text": "Lac de Tignes oferă în Val D Isere un cadru pitoresc pentru plimbări și sporturi nautice.",
                   "category": "natural",
                   "coords": [
                         6.903965,
                         45.46569
-                  ]
-            },
-            {
-                  "name": "Grand Lac de Chardonet",
-                  "text": "Grand Lac de Chardonet este un lac montan izolat în Val D Isere, ideal pentru experiențe liniștite în natură.",
-                  "category": "natural",
-                  "coords": [
-                        6.883035,
-                        45.465677
                   ]
             },
             {
@@ -31589,30 +29818,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac du Grand Huit",
-                  "text": "Lac du Grand Huit din Val D Isere este un lac situat la altitudine, cunoscut pentru vizibilitatea sa clară.",
-                  "category": "natural",
-                  "coords": [
-                        6.881282,
-                        45.470364
-                  ]
-            },
-            {
                   "name": "Lac du Plan du Cheval",
                   "text": "Lac du Plan du Cheval din Val D Isere este un loc pitoresc pentru drumeții în lumea montană înaltă.",
                   "category": "natural",
                   "coords": [
                         6.977456,
                         45.47924
-                  ]
-            },
-            {
-                  "name": "Lac de la Leisse",
-                  "text": "Lac de la Leisse din Val D Isere oferă vizitatorilor un cadru natural sălbatic și neatins.",
-                  "category": "natural",
-                  "coords": [
-                        6.910994,
-                        45.419
                   ]
             },
             {
@@ -31649,15 +29860,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.995646,
                         45.478701
-                  ]
-            },
-            {
-                  "name": "Lac proglacière de Roselin",
-                  "text": "O destinație interesantă pentru drumeții în mediul alpin din Val D Isere.",
-                  "category": "natural",
-                  "coords": [
-                        6.883125,
-                        45.428882
                   ]
             },
             {
@@ -31805,30 +30007,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac du Chevril",
-                  "text": "Lac du Chevril in Val D Isere is a large reservoir that shapes the region's alpine landscape.",
-                  "category": "natural",
-                  "coords": [
-                        6.94246,
-                        45.482111
-                  ]
-            },
-            {
                   "name": "Lac de Tignes",
                   "text": "Lac de Tignes in Val D Isere provides a picturesque backdrop for walks and water sports.",
                   "category": "natural",
                   "coords": [
                         6.903965,
                         45.46569
-                  ]
-            },
-            {
-                  "name": "Grand Lac de Chardonet",
-                  "text": "Grand Lac de Chardonet is a remote mountain lake in Val D Isere, ideal for peaceful nature experiences.",
-                  "category": "natural",
-                  "coords": [
-                        6.883035,
-                        45.465677
                   ]
             },
             {
@@ -31886,30 +30070,12 @@ export const poiExtraFrV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac du Grand Huit",
-                  "text": "Lac du Grand Huit in Val D Isere is a high-altitude lake known for its clear views.",
-                  "category": "natural",
-                  "coords": [
-                        6.881282,
-                        45.470364
-                  ]
-            },
-            {
                   "name": "Lac du Plan du Cheval",
                   "text": "Lac du Plan du Cheval in Val D Isere is a picturesque spot for hikes in the high mountain world.",
                   "category": "natural",
                   "coords": [
                         6.977456,
                         45.47924
-                  ]
-            },
-            {
-                  "name": "Lac de la Leisse",
-                  "text": "Lac de la Leisse in Val D Isere offers a wild and untouched natural setting for visitors.",
-                  "category": "natural",
-                  "coords": [
-                        6.910994,
-                        45.419
                   ]
             },
             {
@@ -31946,15 +30112,6 @@ export const poiExtraFrV2: POI[] = [
                   "coords": [
                         6.995646,
                         45.478701
-                  ]
-            },
-            {
-                  "name": "Lac proglacière de Roselin",
-                  "text": "An interesting destination for hikers in the alpine environment of Val D Isere.",
-                  "category": "natural",
-                  "coords": [
-                        6.883125,
-                        45.428882
                   ]
             },
             {

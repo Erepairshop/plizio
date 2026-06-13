@@ -787,230 +787,10 @@ imageHint: "Venetian fortress walls of Rethymno overlooking the city",
     image: "/poi-images/greece-fortezza-rethymno-landmarks-v2.webp",
 },  {
     id: "greece-temple-apollo-delphi-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Marmara Sanctuary",
-                  "text": "Die Ruinen eines antiken Heiligtums innerhalb der archäologischen Stätte von Delphi.",
-                  "category": "historical",
-                  "coords": [
-                        22.518138,
-                        38.482601
-                  ]
-            },
-            {
-                  "name": "Delphoi",
-                  "text": "Die weltberühmte antike Stätte von Delphi galt in der Antike als der Mittelpunkt der Welt.",
-                  "category": "historical",
-                  "coords": [
-                        22.501761,
-                        38.481893
-                  ]
-            },
-            {
-                  "name": "Mouseio Delphon",
-                  "text": "Dieses bedeutende Museum beherbergt wertvolle Fundstücke aus den Ausgrabungen von Delphi.",
-                  "category": "museum",
-                  "coords": [
-                        22.4997,
-                        38.480235
-                  ]
-            },
-            {
-                  "name": "Santuario de Dionisio",
-                  "text": "Überreste eines antiken Heiligtums, das dem Gott Dionysos in Delphi gewidmet war.",
-                  "category": "historical",
-                  "coords": [
-                        22.500832,
-                        38.48266
-                  ]
-            },
-            {
-                  "name": "Phrunikhos",
-                  "text": "Überreste einer antiken Theaterstätte am historischen Ort Delphi.",
-                  "category": "cultural",
-                  "coords": [
-                        22.487628,
-                        38.48361
-                  ]
-            },
-            {
-                  "name": "Delphi tower",
-                  "text": "Archäologische Überreste eines antiken Turms in der Umgebung von Delphi.",
-                  "category": "historical",
-                  "coords": [
-                        22.518066,
-                        38.479561
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Marmara Sanctuary",
-                  "text": "Egy ókori szentély romjai a delphoi régészeti területen belül.",
-                  "category": "historical",
-                  "coords": [
-                        22.518138,
-                        38.482601
-                  ]
-            },
-            {
-                  "name": "Delphoi",
-                  "text": "Delphoi világhírű ókori lelőhelye, amelyet az antikvitásban a világ közepének tartottak.",
-                  "category": "historical",
-                  "coords": [
-                        22.501761,
-                        38.481893
-                  ]
-            },
-            {
-                  "name": "Mouseio Delphon",
-                  "text": "Ez a jelentős múzeum a delphoi ásatások legfontosabb leleteit őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        22.4997,
-                        38.480235
-                  ]
-            },
-            {
-                  "name": "Santuario de Dionisio",
-                  "text": "Dionüszosznak szentelt ókori szentély maradványai Delphoiban.",
-                  "category": "historical",
-                  "coords": [
-                        22.500832,
-                        38.48266
-                  ]
-            },
-            {
-                  "name": "Phrunikhos",
-                  "text": "Egy ókori színház maradványai a történelmi Delphoi területén.",
-                  "category": "cultural",
-                  "coords": [
-                        22.487628,
-                        38.48361
-                  ]
-            },
-            {
-                  "name": "Delphi tower",
-                  "text": "Egy ókori torony régészeti maradványai Delphoi környékén.",
-                  "category": "historical",
-                  "coords": [
-                        22.518066,
-                        38.479561
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Marmara Sanctuary",
-                  "text": "Ruinele unui sanctuar antic în cadrul sitului arheologic din Delphi.",
-                  "category": "historical",
-                  "coords": [
-                        22.518138,
-                        38.482601
-                  ]
-            },
-            {
-                  "name": "Delphoi",
-                  "text": "Situl antic de renume mondial Delphi, considerat în antichitate centrul lumii.",
-                  "category": "historical",
-                  "coords": [
-                        22.501761,
-                        38.481893
-                  ]
-            },
-            {
-                  "name": "Mouseio Delphon",
-                  "text": "Acest muzeu important adăpostește descoperiri valoroase din săpăturile de la Delphi.",
-                  "category": "museum",
-                  "coords": [
-                        22.4997,
-                        38.480235
-                  ]
-            },
-            {
-                  "name": "Santuario de Dionisio",
-                  "text": "Vestigiile unui sanctuar antic dedicat zeului Dionysos la Delphi.",
-                  "category": "historical",
-                  "coords": [
-                        22.500832,
-                        38.48266
-                  ]
-            },
-            {
-                  "name": "Phrunikhos",
-                  "text": "Vestigiile unui teatru antic situat în cadrul sitului istoric Delphi.",
-                  "category": "cultural",
-                  "coords": [
-                        22.487628,
-                        38.48361
-                  ]
-            },
-            {
-                  "name": "Delphi tower",
-                  "text": "Vestigii arheologice ale unui turn antic din proximitatea sitului Delphi.",
-                  "category": "historical",
-                  "coords": [
-                        22.518066,
-                        38.479561
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Marmara Sanctuary",
-                  "text": "The ruins of an ancient sanctuary within the archaeological site of Delphi.",
-                  "category": "historical",
-                  "coords": [
-                        22.518138,
-                        38.482601
-                  ]
-            },
-            {
-                  "name": "Delphi",
-                  "text": "The world-famous ancient site of Delphi, considered the center of the world in antiquity.",
-                  "category": "historical",
-                  "coords": [
-                        22.501761,
-                        38.481893
-                  ]
-            },
-            {
-                  "name": "Delphi Museum",
-                  "text": "This important museum houses significant artifacts from the excavations at Delphi.",
-                  "category": "museum",
-                  "coords": [
-                        22.4997,
-                        38.480235
-                  ]
-            },
-            {
-                  "name": "Santuario de Dionisio",
-                  "text": "Remains of an ancient sanctuary dedicated to the god Dionysus in Delphi.",
-                  "category": "historical",
-                  "coords": [
-                        22.500832,
-                        38.48266
-                  ]
-            },
-            {
-                  "name": "Frynihos",
-                  "text": "Remains of an ancient theatre site located within historical Delphi.",
-                  "category": "cultural",
-                  "coords": [
-                        22.487628,
-                        38.48361
-                  ]
-            },
-            {
-                  "name": "Delphi tower",
-                  "text": "Archaeological remains of an ancient tower in the vicinity of Delphi.",
-                  "category": "historical",
-                  "coords": [
-                        22.518066,
-                        38.479561
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "GR",
     type: "ruins",
@@ -1069,42 +849,6 @@ imageHint: "Doric columns of the Temple of Apollo in Delphi",
                   ]
             },
             {
-                  "name": "Delphoi",
-                  "text": "Die antike Stadt Delphi, die einst als das Zentrum der Welt und Sitz des Orakels galt.",
-                  "category": "historical",
-                  "coords": [
-                        22.501761,
-                        38.481893
-                  ]
-            },
-            {
-                  "name": "Mouseio Delphon",
-                  "text": "Das Museum zeigt bedeutende Funde aus dem Heiligtum von Delphi, darunter den berühmten Wagenlenker.",
-                  "category": "museum",
-                  "coords": [
-                        22.4997,
-                        38.480235
-                  ]
-            },
-            {
-                  "name": "Santuario de Dionisio",
-                  "text": "Die archäologischen Überreste eines Heiligtums, das dem Gott Dionysos in Delphi gewidmet war.",
-                  "category": "historical",
-                  "coords": [
-                        22.500832,
-                        38.48266
-                  ]
-            },
-            {
-                  "name": "Phrunikhos",
-                  "text": "Ein antikes Theater in Delphi, das für Aufführungen und kulturelle Veranstaltungen genutzt wurde.",
-                  "category": "cultural",
-                  "coords": [
-                        22.487628,
-                        38.48361
-                  ]
-            },
-            {
                   "name": "Delphi tower",
                   "text": "Die Ruinen eines antiken Turms innerhalb des archäologischen Komplexes von Delphi.",
                   "category": "historical",
@@ -1122,42 +866,6 @@ imageHint: "Doric columns of the Temple of Apollo in Delphi",
                   "coords": [
                         22.518138,
                         38.482601
-                  ]
-            },
-            {
-                  "name": "Delphoi",
-                  "text": "Delphoi ókori városa, amelyet egykor a világ központjaként és a jósda székhelyeként tiszteltek.",
-                  "category": "historical",
-                  "coords": [
-                        22.501761,
-                        38.481893
-                  ]
-            },
-            {
-                  "name": "Mouseio Delphon",
-                  "text": "A múzeum a delphoi szentély jelentős leleteit mutatja be, köztük a híres kocsihajtót.",
-                  "category": "museum",
-                  "coords": [
-                        22.4997,
-                        38.480235
-                  ]
-            },
-            {
-                  "name": "Santuario de Dionisio",
-                  "text": "Dionüszosz istennek szentelt delphoi szentély régészeti maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        22.500832,
-                        38.48266
-                  ]
-            },
-            {
-                  "name": "Phrunikhos",
-                  "text": "Ókori színház Delphoiban, amelyet előadásokra és kulturális eseményekre használtak.",
-                  "category": "cultural",
-                  "coords": [
-                        22.487628,
-                        38.48361
                   ]
             },
             {
@@ -1181,42 +889,6 @@ imageHint: "Doric columns of the Temple of Apollo in Delphi",
                   ]
             },
             {
-                  "name": "Delphoi",
-                  "text": "Orașul antic Delfi, considerat odinioară centrul lumii și sediul celebrului oracol.",
-                  "category": "historical",
-                  "coords": [
-                        22.501761,
-                        38.481893
-                  ]
-            },
-            {
-                  "name": "Mouseio Delphon",
-                  "text": "Muzeul expune descoperiri importante din sanctuarul Delfi, inclusiv faimosul Auriga.",
-                  "category": "museum",
-                  "coords": [
-                        22.4997,
-                        38.480235
-                  ]
-            },
-            {
-                  "name": "Santuario de Dionisio",
-                  "text": "Resturile arheologice ale unui sanctuar dedicat zeului Dionysos la Delfi.",
-                  "category": "historical",
-                  "coords": [
-                        22.500832,
-                        38.48266
-                  ]
-            },
-            {
-                  "name": "Phrunikhos",
-                  "text": "Un teatru antic în Delfi, utilizat pentru spectacole și evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        22.487628,
-                        38.48361
-                  ]
-            },
-            {
                   "name": "Delphi tower",
                   "text": "Ruinele unui turn antic în cadrul complexului arheologic de la Delfi.",
                   "category": "historical",
@@ -1234,42 +906,6 @@ imageHint: "Doric columns of the Temple of Apollo in Delphi",
                   "coords": [
                         22.518138,
                         38.482601
-                  ]
-            },
-            {
-                  "name": "Delphi",
-                  "text": "The ancient city of Delphi, once considered the center of the world and home to the oracle.",
-                  "category": "historical",
-                  "coords": [
-                        22.501761,
-                        38.481893
-                  ]
-            },
-            {
-                  "name": "Delphi Museum",
-                  "text": "The museum displays significant finds from the Delphi sanctuary, including the famous Charioteer.",
-                  "category": "museum",
-                  "coords": [
-                        22.4997,
-                        38.480235
-                  ]
-            },
-            {
-                  "name": "Santuario de Dionisio",
-                  "text": "The archaeological remains of a sanctuary dedicated to the god Dionysus in Delphi.",
-                  "category": "historical",
-                  "coords": [
-                        22.500832,
-                        38.48266
-                  ]
-            },
-            {
-                  "name": "Frynihos",
-                  "text": "An ancient theatre in Delphi used for performances and cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        22.487628,
-                        38.48361
                   ]
             },
             {
@@ -1340,15 +976,6 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   ]
             },
             {
-                  "name": "Okhuromatikos Purgos Phikhtion",
-                  "text": "Fichtia-Blockhaus, ein mykenischer Wachposten nahe dem Löwentor von Mykene.",
-                  "category": "historical",
-                  "coords": [
-                        22.720658,
-                        37.744253
-                  ]
-            },
-            {
                   "name": "Gräberrund A",
                   "text": "Königlicher Grabkreis in Mykene, entdeckt von Schliemann, bekannt für die Maske des Agamemnon.",
                   "category": "historical",
@@ -1364,15 +991,6 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   "coords": [
                         22.757713,
                         37.730351
-                  ]
-            },
-            {
-                  "name": "Archäologisches Museum Mykene",
-                  "text": "Museum mit Funden aus der antiken Stadt Mykene.",
-                  "category": "museum",
-                  "coords": [
-                        22.756526,
-                        37.731856
                   ]
             },
             {
@@ -1405,15 +1023,6 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   ]
             },
             {
-                  "name": "Okhuromatikos Purgos Phikhtion",
-                  "text": "Fichtia blokkház, egy mükénéi őrposzt Mükéné Oroszlánkapuja közelében.",
-                  "category": "historical",
-                  "coords": [
-                        22.720658,
-                        37.744253
-                  ]
-            },
-            {
                   "name": "Taphikos kuklos A",
                   "text": "Királyi sírkör Mükénében, Schliemann fedezte fel, híres Agamemnón maszkjáról.",
                   "category": "historical",
@@ -1429,15 +1038,6 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   "coords": [
                         22.757713,
                         37.730351
-                  ]
-            },
-            {
-                  "name": "Arkhaiologiko mouseio Mukenon",
-                  "text": "Múzeum a mükénéi ásatások leleteivel.",
-                  "category": "museum",
-                  "coords": [
-                        22.756526,
-                        37.731856
                   ]
             },
             {
@@ -1470,15 +1070,6 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   ]
             },
             {
-                  "name": "Okhuromatikos Purgos Phikhtion",
-                  "text": "Blockhaus Fichtia, un post de gardă micenian lângă Poarta Leilor din Micene.",
-                  "category": "historical",
-                  "coords": [
-                        22.720658,
-                        37.744253
-                  ]
-            },
-            {
                   "name": "Taphikos kuklos A",
                   "text": "Cerc funerar regal la Micene, descoperit de Schliemann, celebru pentru masca lui Agamemnon.",
                   "category": "historical",
@@ -1494,15 +1085,6 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   "coords": [
                         22.757713,
                         37.730351
-                  ]
-            },
-            {
-                  "name": "Arkhaiologiko mouseio Mukenon",
-                  "text": "Muzeu cu descoperiri din orașul antic Micene.",
-                  "category": "museum",
-                  "coords": [
-                        22.756526,
-                        37.731856
                   ]
             },
             {
@@ -1535,15 +1117,6 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   ]
             },
             {
-                  "name": "Fichtia Blockhouse",
-                  "text": "Fichtia blockhouse, a Mycenaean guard post near the Lion Gate of Mycenae.",
-                  "category": "historical",
-                  "coords": [
-                        22.720658,
-                        37.744253
-                  ]
-            },
-            {
                   "name": "Grave Circle A",
                   "text": "Royal burial circle at Mycenae, discovered by Schliemann, famous for the Mask of Agamemnon.",
                   "category": "historical",
@@ -1559,15 +1132,6 @@ imageHint: "The circular Tholos structure at Delphi Sanctuary",
                   "coords": [
                         22.757713,
                         37.730351
-                  ]
-            },
-            {
-                  "name": "Archaeological Museum of Mycenae",
-                  "text": "A museum showcasing artifacts from the ancient city of Mycenae.",
-                  "category": "museum",
-                  "coords": [
-                        22.756526,
-                        37.731856
                   ]
             },
             {
@@ -4239,15 +3803,6 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
     id: "greece-filippi-archaeological-site-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Dikili Tash",
-                  "text": "Ein bedeutender prähistorischer Siedlungshügel in der Nähe von Philippi, der wichtige archäologische Funde lieferte.",
-                  "category": "historical",
-                  "coords": [
-                        24.308773,
-                        41.010418
-                  ]
-            },
-            {
                   "name": "Philippi Rock Art",
                   "text": "Antike Felsritzungen in der Nähe von Philippi, die Einblicke in die frühe menschliche Kunst und Symbolik geben.",
                   "category": "historical",
@@ -4255,27 +3810,9 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                         24.346653,
                         41.016942
                   ]
-            },
-            {
-                  "name": "Dikili Tash Caius Vibius Quartus Monument",
-                  "text": "Ein römisches Grabdenkmal in der Nähe von Dikili Tash, das einem hochrangigen Beamten gewidmet war.",
-                  "category": "historical",
-                  "coords": [
-                        24.311247,
-                        41.012135
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Dikili Tash",
-                  "text": "Egy jelentős őskori településhalom Philippi közelében, amely fontos régészeti leletekkel szolgált.",
-                  "category": "historical",
-                  "coords": [
-                        24.308773,
-                        41.010418
-                  ]
-            },
             {
                   "name": "Philippi Rock Art",
                   "text": "Ősi sziklarajzok Philippi közelében, amelyek betekintést nyújtanak a korai emberi művészetbe és szimbolikába.",
@@ -4284,27 +3821,9 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                         24.346653,
                         41.016942
                   ]
-            },
-            {
-                  "name": "Dikili Tash Caius Vibius Quartus Monument",
-                  "text": "Egy római síremlék Dikili Tash közelében, amelyet egy magas rangú tisztviselőnek szenteltek.",
-                  "category": "historical",
-                  "coords": [
-                        24.311247,
-                        41.012135
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Dikili Tash",
-                  "text": "Un sit preistoric important de lângă Philippi, reprezentat de un dâmb care a oferit descoperiri arheologice valoroase.",
-                  "category": "historical",
-                  "coords": [
-                        24.308773,
-                        41.010418
-                  ]
-            },
             {
                   "name": "Philippi Rock Art",
                   "text": "Gravuri rupestre antice lângă Philippi, care oferă o perspectivă asupra artei și simbolismului uman timpuriu.",
@@ -4313,27 +3832,9 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                         24.346653,
                         41.016942
                   ]
-            },
-            {
-                  "name": "Dikili Tash Caius Vibius Quartus Monument",
-                  "text": "Un monument funerar roman situat lângă Dikili Tash, dedicat unui oficial de rang înalt.",
-                  "category": "historical",
-                  "coords": [
-                        24.311247,
-                        41.012135
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Dikili Tash",
-                  "text": "A significant prehistoric settlement mound near Philippi that has yielded important archaeological finds.",
-                  "category": "historical",
-                  "coords": [
-                        24.308773,
-                        41.010418
-                  ]
-            },
             {
                   "name": "Philippi Rock Art",
                   "text": "Ancient rock carvings near Philippi providing insight into early human art and symbolism.",
@@ -4341,15 +3842,6 @@ imageHint: "Heraklion Archaeological Museum Minoan frescoes",
                   "coords": [
                         24.346653,
                         41.016942
-                  ]
-            },
-            {
-                  "name": "Dikili Tash Caius Vibius Quartus Monument",
-                  "text": "A Roman funerary monument located near Dikili Tash, dedicated to a high-ranking official.",
-                  "category": "historical",
-                  "coords": [
-                        24.311247,
-                        41.012135
                   ]
             }
       ]

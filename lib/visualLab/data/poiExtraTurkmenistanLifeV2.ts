@@ -879,33 +879,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     id: "tm-mary-cotton-fields-life-v2", "sights": {
       "de": [
             {
-                  "name": "World War II Monument",
-                  "text": "Ein Denkmal in Mary, das an die Opfer und Helden des Zweiten Weltkriegs erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        61.83992,
-                        37.594071
-                  ]
-            },
-            {
-                  "name": "Magtymguly Monument",
-                  "text": "Diese Statue ehrt Magtymguly Pyragy, den bedeutendsten Dichter und geistigen Führer der turkmenischen Literatur.",
-                  "category": "historical",
-                  "coords": [
-                        61.837974,
-                        37.588666
-                  ]
-            },
-            {
-                  "name": "Saparmyrat Nyýazow",
-                  "text": "Ein monumentales Denkmal für Saparmurat Nijasow, den ersten Präsidenten des unabhängigen Turkmenistans.",
-                  "category": "historical",
-                  "coords": [
-                        61.839878,
-                        37.591313
-                  ]
-            },
-            {
                   "name": "Nakgaşlar birleşiginiň ussahanalary we sergi jaýy",
                   "text": "Die Galerie des örtlichen Künstlerverbandes präsentiert zeitgenössische Werke und traditionelles Kunsthandwerk aus Mary.",
                   "category": "museum",
@@ -934,33 +907,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "World War II Monument",
-                  "text": "Egy emlékmű Mary városában, amely a második világháború áldozatainak és hőseinek állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        61.83992,
-                        37.594071
-                  ]
-            },
-            {
-                  "name": "Magtymguly Monument",
-                  "text": "Ez a szobor Magtymguly Pyragy-nak, a türkmén irodalom legjelentősebb költőjének és szellemi vezetőjének állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        61.837974,
-                        37.588666
-                  ]
-            },
-            {
-                  "name": "Saparmyrat Nyýazow",
-                  "text": "Monumentális emlékmű Saparmurat Niyazovnak, a független Türkmenisztán első elnökének.",
-                  "category": "historical",
-                  "coords": [
-                        61.839878,
-                        37.591313
-                  ]
-            },
             {
                   "name": "Nakgaşlar birleşiginiň ussahanalary we sergi jaýy",
                   "text": "A helyi művészeti szövetség galériája Mary városának kortárs alkotásait és hagyományos kézműves termékeit mutatja be.",
@@ -991,33 +937,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "World War II Monument",
-                  "text": "Un monument din Mary, care onorează sacrificiul și memoria celor care au luptat în cel de-al Doilea Război Mondial.",
-                  "category": "historical",
-                  "coords": [
-                        61.83992,
-                        37.594071
-                  ]
-            },
-            {
-                  "name": "Magtymguly Monument",
-                  "text": "Această statuie îl onorează pe Magtymguly Pyragy, cel mai important poet și lider spiritual al literaturii turkmene.",
-                  "category": "historical",
-                  "coords": [
-                        61.837974,
-                        37.588666
-                  ]
-            },
-            {
-                  "name": "Saparmyrat Nyýazow",
-                  "text": "Un monument monumental dedicat lui Saparmurat Niyazov, primul președinte al Turkmenistanului independent.",
-                  "category": "historical",
-                  "coords": [
-                        61.839878,
-                        37.591313
-                  ]
-            },
-            {
                   "name": "Nakgaşlar birleşiginiň ussahanalary we sergi jaýy",
                   "text": "Galeria uniunii artiștilor locali prezintă lucrări contemporane și meșteșuguri tradiționale din Mary.",
                   "category": "museum",
@@ -1046,33 +965,6 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "World War II Monument",
-                  "text": "A monument in Mary commemorating the victims and heroes of the Second World War.",
-                  "category": "historical",
-                  "coords": [
-                        61.83992,
-                        37.594071
-                  ]
-            },
-            {
-                  "name": "Magtymguly Monument",
-                  "text": "This statue honors Magtymguly Pyragy, the most significant poet and spiritual leader of Turkmen literature.",
-                  "category": "historical",
-                  "coords": [
-                        61.837974,
-                        37.588666
-                  ]
-            },
-            {
-                  "name": "Saparmurad Niyazov",
-                  "text": "A monumental memorial dedicated to Saparmurat Niyazov, the first president of independent Turkmenistan.",
-                  "category": "historical",
-                  "coords": [
-                        61.839878,
-                        37.591313
-                  ]
-            },
             {
                   "name": "Nakgaşlar birleşiginiň ussahanalary we sergi jaýy",
                   "text": "The gallery of the local artists' union showcases contemporary works and traditional crafts from Mary.",

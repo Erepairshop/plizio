@@ -453,57 +453,12 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
     id: "warri-port-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Igbo Market",
-                  "text": "Ein geschäftiger Freiluftmarkt, der als wichtiger Knotenpunkt für den regionalen Handel in Warri dient.",
-                  "category": "cultural",
-                  "coords": [
-                        5.749636,
-                        5.515074
-                  ]
-            },
-            {
-                  "name": "Royal Event Center",
-                  "text": "Ein großer Veranstaltungsort, der speziell für die Ausrichtung bedeutender Versammlungen und festlicher gesellschaftlicher Ereignisse konzipiert wurde.",
-                  "category": "landmark",
-                  "coords": [
-                        5.752219,
-                        5.528428
-                  ]
-            },
-            {
-                  "name": "Janet Social Club for Gentleman",
-                  "text": "Ein lokaler Social Club, der seinen Mitgliedern einen exklusiven Versammlungsort und Unterhaltungsort bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        5.747961,
-                        5.531296
-                  ]
-            },
-            {
-                  "name": "Event Center",
-                  "text": "Eine zweckmäßig gebaute Einrichtung, die für die Ausrichtung verschiedener Gemeindetreffen und privater Feiern vorgesehen ist.",
-                  "category": "landmark",
-                  "coords": [
-                        5.750525,
-                        5.532021
-                  ]
-            },
-            {
                   "name": "Olu Of Warri Palace",
                   "text": "Der königliche Palastkomplex, der als traditioneller Sitz und Residenz des Olu des Königreichs Warri dient.",
                   "category": "castle",
                   "coords": [
                         5.735951,
                         5.52699
-                  ]
-            },
-            {
-                  "name": "First Baptist Church Mission Road Branch Warri",
-                  "text": "Die First Baptist Church an der Mission Road dient der lokalen Gemeinde in Warri als bedeutendes christliches Gotteshaus.",
-                  "category": "religious",
-                  "coords": [
-                        5.74613,
-                        5.518227
                   ]
             },
             {
@@ -527,57 +482,12 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Igbo Market",
-                  "text": "Egy nyüzsgő szabadtéri piac, amely a regionális kereskedelem fontos központjaként szolgál Warriban.",
-                  "category": "cultural",
-                  "coords": [
-                        5.749636,
-                        5.515074
-                  ]
-            },
-            {
-                  "name": "Royal Event Center",
-                  "text": "Egy nagy helyszín, amelyet kifejezetten jelentős összejövetelek és ünnepi társadalmi események lebonyolítására terveztek.",
-                  "category": "landmark",
-                  "coords": [
-                        5.752219,
-                        5.528428
-                  ]
-            },
-            {
-                  "name": "Janet Social Club for Gentleman",
-                  "text": "Egy helyi társasklub, amely exkluzív gyülekezőhelyet és szórakozóhelyet biztosít tagjai számára.",
-                  "category": "landmark",
-                  "coords": [
-                        5.747961,
-                        5.531296
-                  ]
-            },
-            {
-                  "name": "Event Center",
-                  "text": "Egy erre a célra épült létesítmény, amelyet különféle közösségi összejövetelek és magánünnepségek lebonyolítására szántak.",
-                  "category": "landmark",
-                  "coords": [
-                        5.750525,
-                        5.532021
-                  ]
-            },
-            {
                   "name": "Olu Of Warri Palace",
                   "text": "A királyi palotakomplexum, amely a Warri Királyság Olu-jának hagyományos székhelyeként és rezidenciájaként szolgál.",
                   "category": "castle",
                   "coords": [
                         5.735951,
                         5.52699
-                  ]
-            },
-            {
-                  "name": "First Baptist Church Mission Road Branch Warri",
-                  "text": "A Mission Roadon található First Baptist Church a helyi gyülekezet jelentős keresztény istentiszteleti helyeként szolgál Warriban.",
-                  "category": "religious",
-                  "coords": [
-                        5.74613,
-                        5.518227
                   ]
             },
             {
@@ -601,57 +511,12 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Igbo Market",
-                  "text": "O piață în aer liber plină de viață, care servește drept un centru major pentru comerțul regional în Warri.",
-                  "category": "cultural",
-                  "coords": [
-                        5.749636,
-                        5.515074
-                  ]
-            },
-            {
-                  "name": "Royal Event Center",
-                  "text": "O locație spațioasă concepută special pentru a găzdui adunări semnificative și evenimente sociale festive.",
-                  "category": "landmark",
-                  "coords": [
-                        5.752219,
-                        5.528428
-                  ]
-            },
-            {
-                  "name": "Janet Social Club for Gentleman",
-                  "text": "Un club social local care oferă un spațiu de adunare exclusivist și un loc de divertisment pentru membrii săi.",
-                  "category": "landmark",
-                  "coords": [
-                        5.747961,
-                        5.531296
-                  ]
-            },
-            {
-                  "name": "Event Center",
-                  "text": "O facilitate construită special, dedicată găzduirii diverselor adunări comunitare și sărbători private.",
-                  "category": "landmark",
-                  "coords": [
-                        5.750525,
-                        5.532021
-                  ]
-            },
-            {
                   "name": "Olu Of Warri Palace",
                   "text": "Complexul palatului regal care servește drept reședință și sediu tradițional al Olu-ului din Regatul Warri.",
                   "category": "castle",
                   "coords": [
                         5.735951,
                         5.52699
-                  ]
-            },
-            {
-                  "name": "First Baptist Church Mission Road Branch Warri",
-                  "text": "First Baptist Church de pe Mission Road este un lăcaș de cult creștin proeminent pentru congregația locală din Warri.",
-                  "category": "religious",
-                  "coords": [
-                        5.74613,
-                        5.518227
                   ]
             },
             {
@@ -675,57 +540,12 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Igbo Market",
-                  "text": "A bustling open-air marketplace serving as a major hub for regional commerce and trading in Warri.",
-                  "category": "cultural",
-                  "coords": [
-                        5.749636,
-                        5.515074
-                  ]
-            },
-            {
-                  "name": "Royal Event Center",
-                  "text": "A large venue specifically designed to host significant gatherings and festive social events.",
-                  "category": "landmark",
-                  "coords": [
-                        5.752219,
-                        5.528428
-                  ]
-            },
-            {
-                  "name": "Janet Social Club for Gentleman",
-                  "text": "A local social club providing an exclusive gathering space and entertainment venue for its members.",
-                  "category": "landmark",
-                  "coords": [
-                        5.747961,
-                        5.531296
-                  ]
-            },
-            {
-                  "name": "Event Center",
-                  "text": "A purpose-built facility dedicated to hosting various community gatherings and private celebrations.",
-                  "category": "landmark",
-                  "coords": [
-                        5.750525,
-                        5.532021
-                  ]
-            },
-            {
                   "name": "Olu Of Warri Kingdom Palace",
                   "text": "The regal palace complex serving as the traditional seat and residence of the Olu of the Kingdom of Warri.",
                   "category": "castle",
                   "coords": [
                         5.735951,
                         5.52699
-                  ]
-            },
-            {
-                  "name": "First Baptist Church Mission Road Branch Warri",
-                  "text": "The First Baptist Church on Mission Road serves as a prominent Christian place of worship for the local congregation in Warri.",
-                  "category": "religious",
-                  "coords": [
-                        5.74613,
-                        5.518227
                   ]
             },
             {
@@ -901,15 +721,6 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
                         5.737266,
                         5.897914
                   ]
-            },
-            {
-                  "name": "WATER SIDE SAPELE",
-                  "text": "Die Water Side in Sapele ist ein lebendiges Ufergebiet, an dem maritime Aktivitäten und lokaler Handel zusammenlaufen.",
-                  "category": "landmark",
-                  "coords": [
-                        5.67114,
-                        5.906599
-                  ]
             }
       ],
       "hu": [
@@ -920,15 +731,6 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
                   "coords": [
                         5.737266,
                         5.897914
-                  ]
-            },
-            {
-                  "name": "WATER SIDE SAPELE",
-                  "text": "A sapele-i Water Side egy élénk folyóparti terület, ahol a tengeri tevékenység és a helyi kereskedelem találkozik.",
-                  "category": "landmark",
-                  "coords": [
-                        5.67114,
-                        5.906599
                   ]
             }
       ],
@@ -941,15 +743,6 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
                         5.737266,
                         5.897914
                   ]
-            },
-            {
-                  "name": "WATER SIDE SAPELE",
-                  "text": "Water Side din Sapele este o zonă plină de viață pe malul râului, unde activitatea maritimă și comerțul local converg.",
-                  "category": "landmark",
-                  "coords": [
-                        5.67114,
-                        5.906599
-                  ]
             }
       ],
       "en": [
@@ -960,15 +753,6 @@ export const poiExtraNigeriaEconomicV2: POI[] = [
                   "coords": [
                         5.737266,
                         5.897914
-                  ]
-            },
-            {
-                  "name": "WATER SIDE SAPELE",
-                  "text": "The Water Side in Sapele is a lively riverfront area where maritime activity and local trade converge.",
-                  "category": "landmark",
-                  "coords": [
-                        5.67114,
-                        5.906599
                   ]
             }
       ]

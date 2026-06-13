@@ -699,24 +699,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque de jeux enfants",
-                  "text": "Dieser Outdoor-Vergnügungspark bietet bunte Rutschen, Karussells und Erholungsbereiche, die speziell für kleine Kinder konzipiert wurden.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.114257,
-                        33.525315
-                  ]
-            },
-            {
-                  "name": "Main Auditorium",
-                  "text": "Dieses große, moderne Theater dient als primärer Veranstaltungsort für akademische Vorlesungen und große kulturelle Aufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.106594,
-                        33.537621
-                  ]
-            },
-            {
                   "name": "Parc National D'Ifrane",
                   "text": "Dieses weitläufige Bergreservat ist bekannt dafür, ausgedehnte Zedernwälder zu beherbergen und dem gefährdeten Berberaffen ein Schutzgebiet zu bieten.",
                   "category": "natural",
@@ -770,24 +752,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
                   "coords": [
                         -5.105888,
                         33.528424
-                  ]
-            },
-            {
-                  "name": "Parque de jeux enfants",
-                  "text": "Ez a szabadtéri vidámpark színes csúszdákkal, körhintákkal és kifejezetten kisgyermekek számára kialakított pihenőövezetekkel várja a látogatókat.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.114257,
-                        33.525315
-                  ]
-            },
-            {
-                  "name": "Main Auditorium",
-                  "text": "Ez a nagy, modern színház az akadémiai előadások és a nagyszabású kulturális előadások elsődleges helyszíneként szolgál.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.106594,
-                        33.537621
                   ]
             },
             {
@@ -847,24 +811,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque de jeux enfants",
-                  "text": "Acest parc de distracții în aer liber oferă tobogane colorate, carusele și zone de recreere concepute special pentru copiii mici.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.114257,
-                        33.525315
-                  ]
-            },
-            {
-                  "name": "Main Auditorium",
-                  "text": "Acest teatru mare și modern servește drept loc principal pentru prelegeri academice și spectacole culturale la scară largă.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.106594,
-                        33.537621
-                  ]
-            },
-            {
                   "name": "Parc National D'Ifrane",
                   "text": "Această vastă rezervație montană este renumită pentru adăpostirea pădurilor întinse de cedru și pentru oferirea unui sanctuar macacului berber pe cale de dispariție.",
                   "category": "natural",
@@ -909,33 +855,6 @@ export const poiExtraMoroccoLifeV2: POI[] = [
                   "coords": [
                         -5.075919,
                         33.419674
-                  ]
-            },
-            {
-                  "name": "Lion Statue",
-                  "text": "Carved by a World War II prisoner, this iconic stone lion commemorates the wild predators that once roamed these mountains.",
-                  "category": "historical",
-                  "coords": [
-                        -5.105888,
-                        33.528424
-                  ]
-            },
-            {
-                  "name": "Parque de jeux enfants",
-                  "text": "This outdoor amusement park features colorful slides, merry-go-rounds, and recreational areas designed specifically for young children.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.114257,
-                        33.525315
-                  ]
-            },
-            {
-                  "name": "Main Auditorium",
-                  "text": "This large, modern theatre serves as the primary venue for academic lectures and large-scale cultural performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.106594,
-                        33.537621
                   ]
             },
             {
@@ -1900,39 +1819,12 @@ export const poiExtraMoroccoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grillade Brahim",
-                  "text": "Grillade Brahim ist ein lokaler Gastronomiebetrieb in der Region Fès, der für seine traditionellen marokkanischen Fleischgerichte bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.992407,
-                        34.016813
-                  ]
-            },
-            {
                   "name": "Salle des fêtes Jamai",
                   "text": "Die Salle des fêtes Jamai ist ein großer Veranstaltungssaal in der Region Fès, in dem feierliche lokale Events stattfinden.",
                   "category": "landmark",
                   "coords": [
                         -4.993713,
                         34.01635
-                  ]
-            },
-            {
-                  "name": "Sandwich Benmaseoud",
-                  "text": "Sandwich Benmaseoud ist ein beliebter Anlaufpunkt für marokkanisches Street Food im Großraum Fès.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.985331,
-                        34.024652
-                  ]
-            },
-            {
-                  "name": "Art shows alami",
-                  "text": "Art shows alami ist eine Kunstgalerie in der Region Fès, die zeitgenössische Gemälde und Skulpturen ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        -5.005712,
-                        34.017663
                   ]
             },
             {
@@ -1965,39 +1857,12 @@ export const poiExtraMoroccoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grillade Brahim",
-                  "text": "A Grillade Brahim egy helyi vendéglátóhely a Fès régióban, amely hagyományos marokkói húsételeket kínál.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.992407,
-                        34.016813
-                  ]
-            },
-            {
                   "name": "Salle des fêtes Jamai",
                   "text": "A Salle des fêtes Jamai egy nagy rendezvényterem a Fès régióban, amely ünnepi eseményeknek és esküvőknek ad otthont.",
                   "category": "landmark",
                   "coords": [
                         -4.993713,
                         34.01635
-                  ]
-            },
-            {
-                  "name": "Sandwich Benmaseoud",
-                  "text": "A Sandwich Benmaseoud a marokkói utcai ételek kedvelt lelőhelye Fès környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.985331,
-                        34.024652
-                  ]
-            },
-            {
-                  "name": "Art shows alami",
-                  "text": "Az Art shows alami egy művészeti galéria a Fès régióban, amely kortárs festményeket és szobrokat állít ki.",
-                  "category": "museum",
-                  "coords": [
-                        -5.005712,
-                        34.017663
                   ]
             },
             {
@@ -2030,39 +1895,12 @@ export const poiExtraMoroccoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grillade Brahim",
-                  "text": "Grillade Brahim este un local de atracție culinară din regiunea Fès, cunoscut pentru preparatele tradiționale din carne la grătar.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.992407,
-                        34.016813
-                  ]
-            },
-            {
                   "name": "Salle des fêtes Jamai",
                   "text": "Salle des fêtes Jamai este o sală mare de evenimente din regiunea Fès, dedicată festivităților și adunărilor locale.",
                   "category": "landmark",
                   "coords": [
                         -4.993713,
                         34.01635
-                  ]
-            },
-            {
-                  "name": "Sandwich Benmaseoud",
-                  "text": "Sandwich Benmaseoud este un punct de atracție pentru mâncarea stradală marocană rapidă în zona Fès.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.985331,
-                        34.024652
-                  ]
-            },
-            {
-                  "name": "Art shows alami",
-                  "text": "Art shows alami este o galerie de artă din regiunea Fès ce prezintă picturi și sculpturi contemporane.",
-                  "category": "museum",
-                  "coords": [
-                        -5.005712,
-                        34.017663
                   ]
             },
             {
@@ -2095,39 +1933,12 @@ export const poiExtraMoroccoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grillade Brahim",
-                  "text": "Grillade Brahim is a local culinary attraction in the Fes region offering traditional Moroccan grilled meats.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.992407,
-                        34.016813
-                  ]
-            },
-            {
                   "name": "Salle des fêtes Jamai",
                   "text": "Salle des fêtes Jamai is a spacious event hall in the Fes region used for local celebrations and community gatherings.",
                   "category": "landmark",
                   "coords": [
                         -4.993713,
                         34.01635
-                  ]
-            },
-            {
-                  "name": "Sandwich Benmaseoud",
-                  "text": "Sandwich Benmaseoud is a local street food spot offering quick, traditional Moroccan bites in the Fes area.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.985331,
-                        34.024652
-                  ]
-            },
-            {
-                  "name": "Art shows alami",
-                  "text": "Art shows alami is a gallery in the Fes region exhibiting contemporary Moroccan paintings and sculptures.",
-                  "category": "museum",
-                  "coords": [
-                        -5.005712,
-                        34.017663
                   ]
             },
             {
@@ -2176,50 +1987,10 @@ export const poiExtraMoroccoLifeV2: POI[] = [
     }, image: "/poi-images/fes-region-agriculture-life-v2.webp"},
   {
     id: "midelt-apple-agriculture-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Rond Point La Pomme",
-                  "text": "Ein Kreisverkehrsdenkmal in Midelt, das dem lokalen Apfelanbau der Region Tribut zollt.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.74084,
-                        32.67979
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Rond Point La Pomme",
-                  "text": "Körforgalmi emlékmű Mideltben, amely a régió helyi almatermesztése előtt tiszteleg.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.74084,
-                        32.67979
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Rond Point La Pomme",
-                  "text": "Un monument într-un sens giratoriu din Midelt, care aduce un omagiu agriculturii locale de mere din regiune.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.74084,
-                        32.67979
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Rond Point La Pomme",
-                  "text": "A roundabout monument in Midelt paying tribute to the region's local apple agriculture.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.74084,
-                        32.67979
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "agriculture",
     parent: "MA-25",

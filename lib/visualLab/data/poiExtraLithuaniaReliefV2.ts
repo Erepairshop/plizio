@@ -6,33 +6,6 @@ export const lithuaniaReliefV2: POI[] = [
     id: "lithuania-juozapine-hill-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Schloss Medinkai",
-                  "text": "Die Burg Medininkai ist eine bedeutende mittelalterliche Festung in der Nähe des Juozapinė-Hügels in Litauen.",
-                  "category": "castle",
-                  "coords": [
-                        25.650005,
-                        54.539627
-                  ]
-            },
-            {
-                  "name": "Pasieniečių muziejus",
-                  "text": "Ein Museum beim Juozapinė-Hügel, das der Geschichte und Arbeit des Grenzschutzes gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        25.667053,
-                        54.551175
-                  ]
-            },
-            {
-                  "name": "Aukštojas",
-                  "text": "Der Aukštojas ist mit 293,84 Metern der höchste Punkt Litauens.",
-                  "category": "landmark",
-                  "coords": [
-                        25.625687,
-                        54.526959
-                  ]
-            },
-            {
                   "name": "Josephinenberg",
                   "text": "Der Juozapinė-Hügel galt lange Zeit als die höchste Erhebung Litauens und bietet eine weite Aussicht.",
                   "category": "natural",
@@ -70,33 +43,6 @@ export const lithuaniaReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Medininkų pilis",
-                  "text": "A Medininkai vár egy jelentős középkori erődítmény Litvániában, a Juozapinė-domb közelében.",
-                  "category": "castle",
-                  "coords": [
-                        25.650005,
-                        54.539627
-                  ]
-            },
-            {
-                  "name": "Pasieniečių muziejus",
-                  "text": "A határőrség történetének és munkájának szentelt múzeum a Juozapinė-dombnál.",
-                  "category": "museum",
-                  "coords": [
-                        25.667053,
-                        54.551175
-                  ]
-            },
-            {
-                  "name": "Aukštojas",
-                  "text": "Az Aukštojas 293,84 méteres magasságával Litvánia legmagasabb pontja.",
-                  "category": "landmark",
-                  "coords": [
-                        25.625687,
-                        54.526959
-                  ]
-            },
             {
                   "name": "Juozapinės kalnas",
                   "text": "A Juozapinė-dombot sokáig Litvánia legmagasabb pontjának tartották, és széles kilátást nyújt a környékre.",
@@ -136,33 +82,6 @@ export const lithuaniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Medininkų pilis",
-                  "text": "Castelul Medininkai este o importantă fortăreață medievală din Lituania, situată lângă dealul Juozapinė.",
-                  "category": "castle",
-                  "coords": [
-                        25.650005,
-                        54.539627
-                  ]
-            },
-            {
-                  "name": "Pasieniečių muziejus",
-                  "text": "Un muzeu situat pe dealul Juozapinė, dedicat istoriei și activității poliției de frontieră.",
-                  "category": "museum",
-                  "coords": [
-                        25.667053,
-                        54.551175
-                  ]
-            },
-            {
-                  "name": "Aukštojas",
-                  "text": "Aukštojas este cel mai înalt punct din Lituania, având o altitudine de 293,84 metri.",
-                  "category": "landmark",
-                  "coords": [
-                        25.625687,
-                        54.526959
-                  ]
-            },
-            {
                   "name": "Juozapinės kalnas",
                   "text": "Dealul Juozapinė a fost considerat mult timp cel mai înalt punct din Lituania și oferă o vedere largă.",
                   "category": "natural",
@@ -200,33 +119,6 @@ export const lithuaniaReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Medininkų pilis",
-                  "text": "Medininkai Castle is a significant medieval fortress in Lithuania, located near Juozapinė Hill.",
-                  "category": "castle",
-                  "coords": [
-                        25.650005,
-                        54.539627
-                  ]
-            },
-            {
-                  "name": "Borderguard museum",
-                  "text": "A museum located at Juozapinė Hill dedicated to the history and work of the border guard.",
-                  "category": "museum",
-                  "coords": [
-                        25.667053,
-                        54.551175
-                  ]
-            },
-            {
-                  "name": "Aukštojas",
-                  "text": "Aukštojas is the highest point in Lithuania, reaching an elevation of 293.84 meters.",
-                  "category": "landmark",
-                  "coords": [
-                        25.625687,
-                        54.526959
-                  ]
-            },
             {
                   "name": "Juozapinė Hill",
                   "text": "Juozapinė Hill was long considered the highest point in Lithuania and offers a wide view of the surroundings.",
@@ -985,66 +877,12 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
                   ]
             },
             {
-                  "name": "Ginučiai-Hügel",
-                  "text": "Der Ginučiai-Burghügel ist eine bedeutende archäologische Stätte im Aukštaitija-Nationalpark.",
-                  "category": "historical",
-                  "coords": [
-                        25.985028,
-                        55.373694
-                  ]
-            },
-            {
-                  "name": "Papiliakalne-Hügel",
-                  "text": "Papiliakalnė ist ein historischer litauischer Burghügel in der Nähe des Ladakalnis.",
-                  "category": "historical",
-                  "coords": [
-                        25.983472,
-                        55.375222
-                  ]
-            },
-            {
-                  "name": "Linkmenių piliakalnis",
-                  "text": "Der Linkmenys-Burghügel ist ein archäologisches Denkmal in der Nähe des Dorfes Ginučiai.",
-                  "category": "historical",
-                  "coords": [
-                        25.967583,
-                        55.343444
-                  ]
-            },
-            {
-                  "name": "Puziniškio piliakalnis",
-                  "text": "Der Puziniškis-Burghügel ist eine antike Verteidigungsanlage in der Region Ignalina.",
-                  "category": "historical",
-                  "coords": [
-                        26.013972,
-                        55.361111
-                  ]
-            },
-            {
                   "name": "Kimbariškių akmens amžiaus gyvenvietė",
                   "text": "Die Siedlung Kimbariškės ist eine archäologische Fundstätte aus der Steinzeit.",
                   "category": "historical",
                   "coords": [
                         25.983653,
                         55.359847
-                  ]
-            },
-            {
-                  "name": "Ginučių vandens malūno paplūdimys",
-                  "text": "Ein malerischer Strand in der Nähe der historischen Wassermühle von Ginučiai bei Ladakalnis Hill.",
-                  "category": "recreational",
-                  "coords": [
-                        25.994654,
-                        55.385604
-                  ]
-            },
-            {
-                  "name": "Paukščių kaimas",
-                  "text": "Vogel-Dorf am Ladakalnis-Hügel.",
-                  "category": "recreational",
-                  "coords": [
-                        25.988435,
-                        55.324478
                   ]
             }
       ],
@@ -1059,66 +897,12 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
                   ]
             },
             {
-                  "name": "Ginučių piliakalnis",
-                  "text": "A Ginučiai-várhegy az Aukštaitija Nemzeti Park egyik jelentős régészeti lelőhelye.",
-                  "category": "historical",
-                  "coords": [
-                        25.985028,
-                        55.373694
-                  ]
-            },
-            {
-                  "name": "Papiliakalnės piliakalnis",
-                  "text": "A Papiliakalnė egy történelmi litván várhegy a Ladakalnis közelében.",
-                  "category": "historical",
-                  "coords": [
-                        25.983472,
-                        55.375222
-                  ]
-            },
-            {
-                  "name": "Linkmenių piliakalnis",
-                  "text": "A Linkmenys-várhegy egy régészeti műemlék Ginučiai falu közelében.",
-                  "category": "historical",
-                  "coords": [
-                        25.967583,
-                        55.343444
-                  ]
-            },
-            {
-                  "name": "Puziniškio piliakalnis",
-                  "text": "A Puziniškis-várhegy egy ókori védelmi építmény az Ignalina régióban.",
-                  "category": "historical",
-                  "coords": [
-                        26.013972,
-                        55.361111
-                  ]
-            },
-            {
                   "name": "Kimbariškių akmens amžiaus gyvenvietė",
                   "text": "A Kimbariškés település egy kőkorszaki régészeti lelőhely.",
                   "category": "historical",
                   "coords": [
                         25.983653,
                         55.359847
-                  ]
-            },
-            {
-                  "name": "Ginučių vandens malūno paplūdimys",
-                  "text": "Festői strand a történelmi Ginučiai vízimolnár közelében, a Ladakalnis-dombnál.",
-                  "category": "recreational",
-                  "coords": [
-                        25.994654,
-                        55.385604
-                  ]
-            },
-            {
-                  "name": "Paukščių kaimas",
-                  "text": "Madárfalu a Ladakalnis-dombnál.",
-                  "category": "recreational",
-                  "coords": [
-                        25.988435,
-                        55.324478
                   ]
             }
       ],
@@ -1133,66 +917,12 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
                   ]
             },
             {
-                  "name": "Ginučių piliakalnis",
-                  "text": "Fortăreața Ginučiai este un sit arheologic important din Parcul Național Aukštaitija.",
-                  "category": "historical",
-                  "coords": [
-                        25.985028,
-                        55.373694
-                  ]
-            },
-            {
-                  "name": "Papiliakalnės piliakalnis",
-                  "text": "Papiliakalnė este o colină fortificată istorică din Lituania, situată lângă Ladakalnis.",
-                  "category": "historical",
-                  "coords": [
-                        25.983472,
-                        55.375222
-                  ]
-            },
-            {
-                  "name": "Linkmenių piliakalnis",
-                  "text": "Fortăreața Linkmenys este un monument arheologic situat în apropierea satului Ginučiai.",
-                  "category": "historical",
-                  "coords": [
-                        25.967583,
-                        55.343444
-                  ]
-            },
-            {
-                  "name": "Puziniškio piliakalnis",
-                  "text": "Fortăreața Puziniškis este o structură defensivă antică din regiunea Ignalina.",
-                  "category": "historical",
-                  "coords": [
-                        26.013972,
-                        55.361111
-                  ]
-            },
-            {
                   "name": "Kimbariškių akmens amžiaus gyvenvietė",
                   "text": "Așezarea Kimbariškės este un sit arheologic ce datează din epoca pietrei.",
                   "category": "historical",
                   "coords": [
                         25.983653,
                         55.359847
-                  ]
-            },
-            {
-                  "name": "Ginučių vandens malūno paplūdimys",
-                  "text": "O plajă pitorească situată lângă moara de apă istorică din Ginučiai, la dealul Ladakalnis.",
-                  "category": "recreational",
-                  "coords": [
-                        25.994654,
-                        55.385604
-                  ]
-            },
-            {
-                  "name": "Paukščių kaimas",
-                  "text": "Satul păsărilor lângă Dealul Ladakalnis.",
-                  "category": "recreational",
-                  "coords": [
-                        25.988435,
-                        55.324478
                   ]
             }
       ],
@@ -1207,66 +937,12 @@ imageHint: "Girniu hill Anyksciai district Lithuania",
                   ]
             },
             {
-                  "name": "Ginučių piliakalnis",
-                  "text": "Ginučiai hillfort is a significant archaeological site in the Aukštaitija National Park.",
-                  "category": "historical",
-                  "coords": [
-                        25.985028,
-                        55.373694
-                  ]
-            },
-            {
-                  "name": "Papiliakalnės piliakalnis",
-                  "text": "Papiliakalnė is a historic Lithuanian hillfort located near Ladakalnis.",
-                  "category": "historical",
-                  "coords": [
-                        25.983472,
-                        55.375222
-                  ]
-            },
-            {
-                  "name": "Linkmenių piliakalnis",
-                  "text": "Linkmenys hillfort is an archaeological monument located near the village of Ginučiai.",
-                  "category": "historical",
-                  "coords": [
-                        25.967583,
-                        55.343444
-                  ]
-            },
-            {
-                  "name": "Puziniškio piliakalnis",
-                  "text": "Puziniškis hillfort is an ancient defensive structure in the Ignalina region.",
-                  "category": "historical",
-                  "coords": [
-                        26.013972,
-                        55.361111
-                  ]
-            },
-            {
                   "name": "Kimbariškių akmens amžiaus gyvenvietė",
                   "text": "The Kimbariškės settlement is an archaeological site dating back to the Stone Age.",
                   "category": "historical",
                   "coords": [
                         25.983653,
                         55.359847
-                  ]
-            },
-            {
-                  "name": "Ginučių vandens malūno paplūdimys",
-                  "text": "A scenic beach located near the historic Ginučiai water mill at Ladakalnis Hill.",
-                  "category": "recreational",
-                  "coords": [
-                        25.994654,
-                        55.385604
-                  ]
-            },
-            {
-                  "name": "Paukščių kaimas",
-                  "text": "Bird Village near Ladakalnis Hill.",
-                  "category": "recreational",
-                  "coords": [
-                        25.988435,
-                        55.324478
                   ]
             }
       ]
@@ -1455,122 +1131,10 @@ imageHint: "Dzukija highland forest and hills Lithuania",
     image: "/poi-images/lithuania-dzukai-upland-relief-v2.webp",
 },  {
     id: "lithuania-medininkai-upland-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Aukštojas",
-                  "text": "Der Aukštojas ist mit 293,84 Metern der höchste Berg Litauens.",
-                  "category": "landmark",
-                  "coords": [
-                        25.625687,
-                        54.526959
-                  ]
-            },
-            {
-                  "name": "Josephinenberg",
-                  "text": "Ein bekannter Hügel im Medininkai-Hochland, der früher als höchster Punkt Litauens galt.",
-                  "category": "natural",
-                  "coords": [
-                        25.627783,
-                        54.531068
-                  ]
-            },
-            {
-                  "name": "Atodanga",
-                  "text": "Ein schöner Aussichtspunkt mit Blick auf die umliegende Landschaft des Medininkai-Hochlands.",
-                  "category": "natural",
-                  "coords": [
-                        25.622715,
-                        54.526298
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Aukštojas",
-                  "text": "Az Aukštojas Litvánia legmagasabb pontja, tengerszint feletti magassága 293,84 méter.",
-                  "category": "landmark",
-                  "coords": [
-                        25.625687,
-                        54.526959
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalnas",
-                  "text": "Ismert domb a Medininkai-hátságon, amelyet korábban Litvánia legmagasabb pontjának hittek.",
-                  "category": "natural",
-                  "coords": [
-                        25.627783,
-                        54.531068
-                  ]
-            },
-            {
-                  "name": "Atodanga",
-                  "text": "Szép kilátópont, ahonnan panoráma nyílik a Medininkai-hátság vidékére.",
-                  "category": "natural",
-                  "coords": [
-                        25.622715,
-                        54.526298
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Aukštojas",
-                  "text": "Aukštojas este cel mai înalt punct din Lituania, având o altitudine de 293,84 metri.",
-                  "category": "landmark",
-                  "coords": [
-                        25.625687,
-                        54.526959
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalnas",
-                  "text": "O colină cunoscută din Podișul Medininkai, considerată anterior cel mai înalt punct din Lituania.",
-                  "category": "natural",
-                  "coords": [
-                        25.627783,
-                        54.531068
-                  ]
-            },
-            {
-                  "name": "Atodanga",
-                  "text": "Un punct de observație ce oferă o panoramă asupra peisajului din Podișul Medininkai.",
-                  "category": "natural",
-                  "coords": [
-                        25.622715,
-                        54.526298
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Aukštojas",
-                  "text": "Aukštojas is the highest point in Lithuania, reaching an elevation of 293,84 meters.",
-                  "category": "landmark",
-                  "coords": [
-                        25.625687,
-                        54.526959
-                  ]
-            },
-            {
-                  "name": "Juozapinė Hill",
-                  "text": "A prominent hill in the Medininkai Highland, formerly believed to be the highest point in Lithuania.",
-                  "category": "natural",
-                  "coords": [
-                        25.627783,
-                        54.531068
-                  ]
-            },
-            {
-                  "name": "Atodanga",
-                  "text": "A scenic viewpoint offering vistas of the surrounding Medininkai Highland landscape.",
-                  "category": "natural",
-                  "coords": [
-                        25.622715,
-                        54.526298
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LT",
     type: "mountain",
@@ -2550,15 +2114,6 @@ imageHint: "Birute hill with chapel Palanga Lithuania",
                   ]
             },
             {
-                  "name": "Staniuliškių piliakalnis",
-                  "text": "Eine antike Wallburg in Litauen, die Zeugnis von frühen Siedlungen ablegt.",
-                  "category": "historical",
-                  "coords": [
-                        25.930583,
-                        55.363083
-                  ]
-            },
-            {
                   "name": "Ginučiai-Hügel",
                   "text": "Eine bedeutende Wallburg im Nationalpark Aukštaitija, historisch ein wichtiger Verteidigungsort.",
                   "category": "historical",
@@ -2575,33 +2130,6 @@ imageHint: "Birute hill with chapel Palanga Lithuania",
                         25.983472,
                         55.375222
                   ]
-            },
-            {
-                  "name": "Linkmenių piliakalnis",
-                  "text": "Eine historische Wallburg mit malerischem Blick auf die umliegenden litauischen Seen.",
-                  "category": "historical",
-                  "coords": [
-                        25.967583,
-                        55.343444
-                  ]
-            },
-            {
-                  "name": "Puziniškio piliakalnis",
-                  "text": "Ein antiker Hügel und archäologische Stätte in der Region Ginučiai.",
-                  "category": "historical",
-                  "coords": [
-                        26.013972,
-                        55.361111
-                  ]
-            },
-            {
-                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
-                  "text": "Archäologische Stätte einer steinzeitlichen Siedlung in der Nähe von Ginučiai.",
-                  "category": "historical",
-                  "coords": [
-                        25.983653,
-                        55.359847
-                  ]
             }
       ],
       "hu": [
@@ -2612,15 +2140,6 @@ imageHint: "Birute hill with chapel Palanga Lithuania",
                   "coords": [
                         25.994645,
                         55.385602
-                  ]
-            },
-            {
-                  "name": "Staniuliškių piliakalnis",
-                  "text": "Egy ősi várhely Litvániában, amely korai települések nyomait őrzi.",
-                  "category": "historical",
-                  "coords": [
-                        25.930583,
-                        55.363083
                   ]
             },
             {
@@ -2640,33 +2159,6 @@ imageHint: "Birute hill with chapel Palanga Lithuania",
                         25.983472,
                         55.375222
                   ]
-            },
-            {
-                  "name": "Linkmenių piliakalnis",
-                  "text": "Történelmi várhely, amely festői kilátást nyújt a környező litván tavakra.",
-                  "category": "historical",
-                  "coords": [
-                        25.967583,
-                        55.343444
-                  ]
-            },
-            {
-                  "name": "Puziniškio piliakalnis",
-                  "text": "Ókori halom és régészeti lelőhely a Ginučiai régióban.",
-                  "category": "historical",
-                  "coords": [
-                        26.013972,
-                        55.361111
-                  ]
-            },
-            {
-                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
-                  "text": "Kőkorszaki település régészeti lelőhelye Ginučiai közelében.",
-                  "category": "historical",
-                  "coords": [
-                        25.983653,
-                        55.359847
-                  ]
             }
       ],
       "ro": [
@@ -2677,15 +2169,6 @@ imageHint: "Birute hill with chapel Palanga Lithuania",
                   "coords": [
                         25.994645,
                         55.385602
-                  ]
-            },
-            {
-                  "name": "Staniuliškių piliakalnis",
-                  "text": "Un sit antic de fortificație pe deal din Lituania care oferă dovezi ale așezărilor timpurii.",
-                  "category": "historical",
-                  "coords": [
-                        25.930583,
-                        55.363083
                   ]
             },
             {
@@ -2705,33 +2188,6 @@ imageHint: "Birute hill with chapel Palanga Lithuania",
                         25.983472,
                         55.375222
                   ]
-            },
-            {
-                  "name": "Linkmenių piliakalnis",
-                  "text": "Un sit istoric de fortificație pe deal care oferă vederi panoramice asupra lacurilor lituaniene din jur.",
-                  "category": "historical",
-                  "coords": [
-                        25.967583,
-                        55.343444
-                  ]
-            },
-            {
-                  "name": "Puziniškio piliakalnis",
-                  "text": "Un tumul antic și sit arheologic situat în regiunea Ginučiai.",
-                  "category": "historical",
-                  "coords": [
-                        26.013972,
-                        55.361111
-                  ]
-            },
-            {
-                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
-                  "text": "Sit arheologic al unei așezări din epoca pietrei situat lângă Ginučiai.",
-                  "category": "historical",
-                  "coords": [
-                        25.983653,
-                        55.359847
-                  ]
             }
       ],
       "en": [
@@ -2742,15 +2198,6 @@ imageHint: "Birute hill with chapel Palanga Lithuania",
                   "coords": [
                         25.994645,
                         55.385602
-                  ]
-            },
-            {
-                  "name": "Staniuliškių piliakalnis",
-                  "text": "An ancient hill fort site in Lithuania providing evidence of early settlements.",
-                  "category": "historical",
-                  "coords": [
-                        25.930583,
-                        55.363083
                   ]
             },
             {
@@ -2769,33 +2216,6 @@ imageHint: "Birute hill with chapel Palanga Lithuania",
                   "coords": [
                         25.983472,
                         55.375222
-                  ]
-            },
-            {
-                  "name": "Linkmenių piliakalnis",
-                  "text": "A historical hill fort site offering scenic views of the surrounding Lithuanian lakes.",
-                  "category": "historical",
-                  "coords": [
-                        25.967583,
-                        55.343444
-                  ]
-            },
-            {
-                  "name": "Puziniškio piliakalnis",
-                  "text": "An ancient mound and archaeological site located in the Ginučiai region.",
-                  "category": "historical",
-                  "coords": [
-                        26.013972,
-                        55.361111
-                  ]
-            },
-            {
-                  "name": "Kimbariškių akmens amžiaus gyvenvietė",
-                  "text": "Archaeological site of a Stone Age settlement located near Ginučiai.",
-                  "category": "historical",
-                  "coords": [
-                        25.983653,
-                        55.359847
                   ]
             }
       ]
@@ -3326,194 +2746,10 @@ imageHint: "Dyburiai river loop view Minija Lithuania",
   },
   {
     id: "lithuania-juozapine-ridge-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Aukštojas",
-                  "text": "Der höchste Punkt Litauens, gelegen auf dem Juozapinė-Rücken.",
-                  "category": "landmark",
-                  "coords": [
-                        25.625687,
-                        54.526959
-                  ]
-            },
-            {
-                  "name": "Josephinenberg",
-                  "text": "Ein Hügel und Aussichtspunkt, der früher als der höchste Punkt Litauens galt.",
-                  "category": "natural",
-                  "coords": [
-                        25.627783,
-                        54.531068
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno II regykla",
-                  "text": "Zweiter Aussichtspunkt auf dem Juozapinė-Kamm.",
-                  "category": "natural",
-                  "coords": [
-                        25.629523,
-                        54.532234
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno III regykla",
-                  "text": "Dritter Aussichtspunkt auf dem Juozapinė-Kamm.",
-                  "category": "natural",
-                  "coords": [
-                        25.627874,
-                        54.53248
-                  ]
-            },
-            {
-                  "name": "Atodanga",
-                  "text": "Ein Aussichtspunkt mit Panoramablick auf dem Juozapinė-Rücken.",
-                  "category": "natural",
-                  "coords": [
-                        25.622715,
-                        54.526298
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Aukštojas",
-                  "text": "Litvánia legmagasabb pontja, amely a Juozapinė-hátságon található.",
-                  "category": "landmark",
-                  "coords": [
-                        25.625687,
-                        54.526959
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalnas",
-                  "text": "Egy domb és kilátópont, amelyet korábban Litvánia legmagasabb pontjának tartottak.",
-                  "category": "natural",
-                  "coords": [
-                        25.627783,
-                        54.531068
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno II regykla",
-                  "text": "Második kilátó a Juozapinė-gerincen.",
-                  "category": "natural",
-                  "coords": [
-                        25.629523,
-                        54.532234
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno III regykla",
-                  "text": "Harmadik kilátó a Juozapinė-gerincen.",
-                  "category": "natural",
-                  "coords": [
-                        25.627874,
-                        54.53248
-                  ]
-            },
-            {
-                  "name": "Atodanga",
-                  "text": "Kilátópont panorámás kilátással a Juozapinė-hátságon.",
-                  "category": "natural",
-                  "coords": [
-                        25.622715,
-                        54.526298
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Aukštojas",
-                  "text": "Cel mai înalt punct din Lituania, situat pe culmea Juozapinė.",
-                  "category": "landmark",
-                  "coords": [
-                        25.625687,
-                        54.526959
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalnas",
-                  "text": "Un deal și punct de belvedere, considerat anterior cel mai înalt punct din Lituania.",
-                  "category": "natural",
-                  "coords": [
-                        25.627783,
-                        54.531068
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno II regykla",
-                  "text": "Al doilea punct de observare pe Creasta Juozapinė.",
-                  "category": "natural",
-                  "coords": [
-                        25.629523,
-                        54.532234
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno III regykla",
-                  "text": "Al treilea punct de observare pe Creasta Juozapinė.",
-                  "category": "natural",
-                  "coords": [
-                        25.627874,
-                        54.53248
-                  ]
-            },
-            {
-                  "name": "Atodanga",
-                  "text": "Un punct de belvedere cu vedere panoramică pe culmea Juozapinė.",
-                  "category": "natural",
-                  "coords": [
-                        25.622715,
-                        54.526298
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Aukštojas",
-                  "text": "The highest point in Lithuania, located on the Juozapinė Ridge.",
-                  "category": "landmark",
-                  "coords": [
-                        25.625687,
-                        54.526959
-                  ]
-            },
-            {
-                  "name": "Juozapinė Hill",
-                  "text": "A hill and viewpoint formerly considered the highest point in Lithuania.",
-                  "category": "natural",
-                  "coords": [
-                        25.627783,
-                        54.531068
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno II regykla",
-                  "text": "Second observation point on Juozapinė Ridge.",
-                  "category": "natural",
-                  "coords": [
-                        25.629523,
-                        54.532234
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno III regykla",
-                  "text": "Third observation point on Juozapinė Ridge.",
-                  "category": "natural",
-                  "coords": [
-                        25.627874,
-                        54.53248
-                  ]
-            },
-            {
-                  "name": "Atodanga",
-                  "text": "A viewpoint with panoramic views on the Juozapinė Ridge.",
-                  "category": "natural",
-                  "coords": [
-                        25.622715,
-                        54.526298
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "LT",

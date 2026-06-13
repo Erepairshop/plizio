@@ -1460,15 +1460,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     id: "haifa-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Tell Abu Hawam",
-                  "text": "Ein archäologischer Tell aus der Bronzezeit am Hafen von Haifa.",
-                  "category": "historical",
-                  "coords": [
-                        35.019167,
-                        32.800833
-                  ]
-            },
-            {
                   "name": "Kunstmuseum Haifa",
                   "text": "Das wichtigste Kunstmuseum Haifas, mit moderner und zeitgenössischer Kunst.",
                   "category": "museum",
@@ -1496,57 +1487,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Madatech",
-                  "text": "Madatech ist das israelische Nationalmuseum für Wissenschaft und Technologie in Haifa.",
-                  "category": "museum",
-                  "coords": [
-                        34.996341,
-                        32.810139
-                  ]
-            },
-            {
                   "name": "Haifa Stadttheater",
                   "text": "Ein modernes Theater am Carmel-Berg in Haifa mit 900 Plätzen.",
                   "category": "cultural",
                   "coords": [
                         34.999142,
                         32.806302
-                  ]
-            },
-            {
-                  "name": "Israelisches Eisenbahnmuseum",
-                  "text": "Eisenbahnmuseum im historischen Bahnhof Haifa Ost.",
-                  "category": "museum",
-                  "coords": [
-                        35.006688,
-                        32.811172
-                  ]
-            },
-            {
-                  "name": "Mane-Katz-Museum",
-                  "text": "Museum mit der Sammlung des Malers Mane-Katz in Haifa.",
-                  "category": "museum",
-                  "coords": [
-                        34.987149,
-                        32.807905
-                  ]
-            },
-            {
-                  "name": "Zappa Haifa",
-                  "text": "Zappa Haifa, ein Live-Musikclub in Haifa mit internationalen und lokalen Acts.",
-                  "category": "cultural",
-                  "coords": [
-                        34.963086,
-                        32.789648
-                  ]
-            },
-            {
-                  "name": "Bahá'í Gardens",
-                  "text": "Terrassengärten am Karmel mit dem goldenen Schrein des Bab.",
-                  "category": "landmark",
-                  "coords": [
-                        34.988603,
-                        32.81726
                   ]
             },
             {
@@ -1586,48 +1532,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ursula Malbin Sculpture Garden",
-                  "text": "Skulpturengarten mit Outdoor-Kunstwerken israelischer Künstler.",
-                  "category": "park",
-                  "coords": [
-                        34.981652,
-                        32.816345
-                  ]
-            },
-            {
-                  "name": "Schrein des Bab",
-                  "text": "Das goldene Kuppelheiligtum der Bahai-Religion, umgeben von Terrassengärten am Karmel.",
-                  "category": "landmark",
-                  "coords": [
-                        34.987142,
-                        32.814595
-                  ]
-            },
-            {
                   "name": "Zentrum für das Studium der heiligen Schriften",
                   "text": "Das Forschungszentrum der Bahai für die Heiligen Texte am Karmelberg.",
                   "category": "landmark",
                   "coords": [
                         34.986652,
                         32.812462
-                  ]
-            },
-            {
-                  "name": "Internationales Lehrzentrum",
-                  "text": "Verwaltungsgebäude des Baháʼí-Weltzentrums auf dem Karmel.",
-                  "category": "landmark",
-                  "coords": [
-                        34.988681,
-                        32.811517
-                  ]
-            },
-            {
-                  "name": "Haus der Gerechtigkeit",
-                  "text": "Das Verwaltungszentrum des Bahai-Glaubens in Haifa.",
-                  "category": "landmark",
-                  "coords": [
-                        34.987459,
-                        32.81156
                   ]
             },
             {
@@ -1685,15 +1595,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Izgotovlenie kartin i ram",
-                  "text": "Museum zur Geschichte der Malerei und Rahmenherstellung in einer ehemaligen Werkstatt.",
-                  "category": "museum",
-                  "coords": [
-                        34.99953,
-                        32.808212
-                  ]
-            },
-            {
                   "name": "Carmelite Church Ruins",
                   "text": "Karmelitenkloster auf dem Berg Karmel, traditionell mit dem Propheten Elija verbunden.",
                   "category": "historical",
@@ -1739,57 +1640,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Elias Russian church",
-                  "text": "Eine russisch-orthodoxe Kirche im Stadtteil German Colony von Haifa.",
-                  "category": "religious",
-                  "coords": [
-                        34.980296,
-                        32.812979
-                  ]
-            },
-            {
                   "name": "Or VeYeshua Yeshiva",
                   "text": "Sephardische Jeschiwa im Neve-David-Viertel Haifas.",
                   "category": "religious",
                   "coords": [
                         35.017143,
                         32.785349
-                  ]
-            },
-            {
-                  "name": "Al-Jarina Mosque",
-                  "text": "Eine Moschee aus der osmanischen Zeit im Wadi Nisnas-Viertel von Haifa.",
-                  "category": "religious",
-                  "coords": [
-                        35.002273,
-                        32.816671
-                  ]
-            },
-            {
-                  "name": "St. Joseph's Church",
-                  "text": "Eine römisch-katholische Kirche in der Haifaer Oberstadt, im französischen Stil erbaut.",
-                  "category": "religious",
-                  "coords": [
-                        34.993502,
-                        32.820958
-                  ]
-            },
-            {
-                  "name": "St. Louis the King Cathedral",
-                  "text": "Die katholische Kathedrale St. Ludwig, Sitz des lateinischen Bischofs von Haifa.",
-                  "category": "religious",
-                  "coords": [
-                        34.999084,
-                        32.817024
-                  ]
-            },
-            {
-                  "name": "Saint Elijah Cathedral",
-                  "text": "Die maronitische Kathedrale des heiligen Elias im Stadtzentrum von Haifa.",
-                  "category": "religious",
-                  "coords": [
-                        34.994647,
-                        32.819231
                   ]
             },
             {
@@ -1822,15 +1678,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Tell Abu Hawam",
-                  "text": "Bronzkori tell (települési halom) Haifa kikötője mellett.",
-                  "category": "historical",
-                  "coords": [
-                        35.019167,
-                        32.800833
-                  ]
-            },
-            {
                   "name": "Haifai Művészeti Múzeum",
                   "text": "Haifa fő művészeti múzeuma, modern és kortárs művészettel.",
                   "category": "museum",
@@ -1858,15 +1705,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Madatech",
-                  "text": "A Madatech az Izraeli Nemzeti Tudományos és Technológiai Múzeum Haifában.",
-                  "category": "museum",
-                  "coords": [
-                        34.996341,
-                        32.810139
-                  ]
-            },
-            {
                   "name": "Haifai Színház",
                   "text": "Modern színház a Carmel-hegyen, 900 férőhellyel.",
                   "category": "cultural",
@@ -1891,15 +1729,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.987149,
                         32.807905
-                  ]
-            },
-            {
-                  "name": "Zappa Haifa",
-                  "text": "Zappa Haifa, egy élő zenei klub Haifában, nemzetközi és helyi fellépőkkel.",
-                  "category": "cultural",
-                  "coords": [
-                        34.963086,
-                        32.789648
                   ]
             },
             {
@@ -1948,48 +1777,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ursula Malbin Sculpture Garden",
-                  "text": "Szoborkert izraeli művészek kültéri alkotásaival.",
-                  "category": "park",
-                  "coords": [
-                        34.981652,
-                        32.816345
-                  ]
-            },
-            {
-                  "name": "Shrine of the Báb",
-                  "text": "A bahái vallás aranykupolás szentélye, teraszos kertekkel a Karmel-hegyen.",
-                  "category": "landmark",
-                  "coords": [
-                        34.987142,
-                        32.814595
-                  ]
-            },
-            {
                   "name": "Mashriqu'l-Adhkár",
                   "text": "A bahái szent szövegek kutatási központja a Karmel-hegyen.",
                   "category": "landmark",
                   "coords": [
                         34.986652,
                         32.812462
-                  ]
-            },
-            {
-                  "name": "International Teaching Center",
-                  "text": "A Baháʼí Világközpont adminisztratív épülete a Kármelen.",
-                  "category": "landmark",
-                  "coords": [
-                        34.988681,
-                        32.811517
-                  ]
-            },
-            {
-                  "name": "Universal House of Justice",
-                  "text": "A bahái hit adminisztratív központja Haifában.",
-                  "category": "landmark",
-                  "coords": [
-                        34.987459,
-                        32.81156
                   ]
             },
             {
@@ -2047,15 +1840,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Izgotovlenie kartin i ram",
-                  "text": "Múzeum, amely a festészet és keretkészítés történetét mutatja be egy egykori műhelyben.",
-                  "category": "museum",
-                  "coords": [
-                        34.99953,
-                        32.808212
-                  ]
-            },
-            {
                   "name": "Carmelite Church Ruins",
                   "text": "Kármelita kolostor a Kármel-hegyen, hagyományosan Illés prófétához kötődik.",
                   "category": "historical",
@@ -2101,57 +1885,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Elias Russian church",
-                  "text": "Orosz ortodox templom Haifa Német Kolónia negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        34.980296,
-                        32.812979
-                  ]
-            },
-            {
                   "name": "Or VeYeshua Yeshiva",
                   "text": "Sefárd jesiva Haifa Neve David negyedében.",
                   "category": "religious",
                   "coords": [
                         35.017143,
                         32.785349
-                  ]
-            },
-            {
-                  "name": "Al-Jarina Mosque",
-                  "text": "Oszmán kori mecset Haifa Wadi Nisnas negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        35.002273,
-                        32.816671
-                  ]
-            },
-            {
-                  "name": "St. Joseph's Church",
-                  "text": "Római katolikus templom Haifa felsővárosában, francia stílusban.",
-                  "category": "religious",
-                  "coords": [
-                        34.993502,
-                        32.820958
-                  ]
-            },
-            {
-                  "name": "Szent Lajos király székesegyház",
-                  "text": "Szent Lajos székesegyház, a haifai latin püspök székhelye.",
-                  "category": "religious",
-                  "coords": [
-                        34.999084,
-                        32.817024
-                  ]
-            },
-            {
-                  "name": "Saint Elijah Cathedral",
-                  "text": "A maronita Szent Illés székesegyház Haifa belvárosában.",
-                  "category": "religious",
-                  "coords": [
-                        34.994647,
-                        32.819231
                   ]
             },
             {
@@ -2184,15 +1923,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Tell Abu Hawam",
-                  "text": "Un tell arheologic din epoca bronzului lângă portul Haifa.",
-                  "category": "historical",
-                  "coords": [
-                        35.019167,
-                        32.800833
-                  ]
-            },
-            {
                   "name": "Muzeul de Artă din Haifa",
                   "text": "Principalul muzeu de artă din Haifa, cu artă modernă și contemporană.",
                   "category": "museum",
@@ -2202,30 +1932,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Haifa Educational Zoo",
-                  "text": "Grădina zoologică educativă din Haifa oferă perspective asupra faunei.",
-                  "category": "family",
-                  "coords": [
-                        34.985233,
-                        32.80657
-                  ]
-            },
-            {
                   "name": "Muzeul Tikotin de Artă Japoneză",
                   "text": "Singurul muzeu de artă japoneză din Orientul Mijlociu, în cartierul Carmel din Haifa.",
                   "category": "museum",
                   "coords": [
                         34.985385,
                         32.809349
-                  ]
-            },
-            {
-                  "name": "Madatech",
-                  "text": "Madatech este Muzeul Național de Știință și Tehnologie din Israel, situat în Haifa.",
-                  "category": "museum",
-                  "coords": [
-                        34.996341,
-                        32.810139
                   ]
             },
             {
@@ -2253,24 +1965,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.987149,
                         32.807905
-                  ]
-            },
-            {
-                  "name": "Zappa Haifa",
-                  "text": "Zappa Haifa, un club de muzică live din Haifa cu artiști internaționali și locali.",
-                  "category": "cultural",
-                  "coords": [
-                        34.963086,
-                        32.789648
-                  ]
-            },
-            {
-                  "name": "Bahá'í Gardens",
-                  "text": "Grădini în terase pe Muntele Carmel, cu altarul auriu al lui Bab.",
-                  "category": "landmark",
-                  "coords": [
-                        34.988603,
-                        32.81726
                   ]
             },
             {
@@ -2310,48 +2004,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ursula Malbin Sculpture Garden",
-                  "text": "Grădină de sculpturi cu lucrări în aer liber ale artiștilor israelieni.",
-                  "category": "park",
-                  "coords": [
-                        34.981652,
-                        32.816345
-                  ]
-            },
-            {
-                  "name": "Shrine of the Báb",
-                  "text": "Sanctuarul bahá'í cu cupolă de aur, înconjurat de grădini în terase pe Muntele Carmel.",
-                  "category": "landmark",
-                  "coords": [
-                        34.987142,
-                        32.814595
-                  ]
-            },
-            {
                   "name": "Mashriqu'l-Adhkár",
                   "text": "Centrul de studiu al textelor sfinte bahá'í de pe Muntele Carmel.",
                   "category": "landmark",
                   "coords": [
                         34.986652,
                         32.812462
-                  ]
-            },
-            {
-                  "name": "International Teaching Center",
-                  "text": "Clădirea administrativă a Centrului Mondial Baháʼí pe Muntele Carmel.",
-                  "category": "landmark",
-                  "coords": [
-                        34.988681,
-                        32.811517
-                  ]
-            },
-            {
-                  "name": "Universal House of Justice",
-                  "text": "Centrul administrativ al credinței Bahá'í în Haifa.",
-                  "category": "landmark",
-                  "coords": [
-                        34.987459,
-                        32.81156
                   ]
             },
             {
@@ -2409,15 +2067,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Izgotovlenie kartin i ram",
-                  "text": "Muzeu dedicat istoriei picturii și fabricării ramelor, găzduit într-un fost atelier.",
-                  "category": "museum",
-                  "coords": [
-                        34.99953,
-                        32.808212
-                  ]
-            },
-            {
                   "name": "Carmelite Church Ruins",
                   "text": "Mănăstire carmelită pe Muntele Carmel, asociată în mod tradițional cu profetul Ilie.",
                   "category": "historical",
@@ -2463,57 +2112,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Elias Russian church",
-                  "text": "O biserică ortodoxă rusă în cartierul German Colony din Haifa.",
-                  "category": "religious",
-                  "coords": [
-                        34.980296,
-                        32.812979
-                  ]
-            },
-            {
                   "name": "Or VeYeshua Yeshiva",
                   "text": "Dați o școală talmudică sefardă în cartierul Neve David din Haifa.",
                   "category": "religious",
                   "coords": [
                         35.017143,
                         32.785349
-                  ]
-            },
-            {
-                  "name": "Al-Jarina Mosque",
-                  "text": "O moschee din perioada otomană în cartierul Wadi Nisnas din Haifa.",
-                  "category": "religious",
-                  "coords": [
-                        35.002273,
-                        32.816671
-                  ]
-            },
-            {
-                  "name": "St. Joseph's Church",
-                  "text": "O biserică romano-catolică în orașul superior al Haifei, construită în stil francez.",
-                  "category": "religious",
-                  "coords": [
-                        34.993502,
-                        32.820958
-                  ]
-            },
-            {
-                  "name": "St. Louis the King Cathedral",
-                  "text": "Catedrala catolică Sf. Ludovic, sediul episcopului latin de Haifa.",
-                  "category": "religious",
-                  "coords": [
-                        34.999084,
-                        32.817024
-                  ]
-            },
-            {
-                  "name": "Saint Elijah Cathedral",
-                  "text": "Catedrala maronită Sfântul Ilie în centrul Haifei.",
-                  "category": "religious",
-                  "coords": [
-                        34.994647,
-                        32.819231
                   ]
             },
             {
@@ -2546,51 +2150,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Tell Abu Hawam",
-                  "text": "A Bronze Age archaeological tell near Haifa port.",
-                  "category": "historical",
-                  "coords": [
-                        35.019167,
-                        32.800833
-                  ]
-            },
-            {
-                  "name": "Haifa Museum of Art",
-                  "text": "Haifa's main art museum, housing modern and contemporary art.",
-                  "category": "museum",
-                  "coords": [
-                        34.992697,
-                        32.815104
-                  ]
-            },
-            {
-                  "name": "Haifa educational zoo",
-                  "text": "The educational zoo in Haifa provides insights into wildlife.",
-                  "category": "family",
-                  "coords": [
-                        34.985233,
-                        32.80657
-                  ]
-            },
-            {
-                  "name": "Tikotin Museum of Japanese Art",
-                  "text": "The only Japanese art museum in the Middle East, in Haifa's Carmel Center.",
-                  "category": "museum",
-                  "coords": [
-                        34.985385,
-                        32.809349
-                  ]
-            },
-            {
-                  "name": "Madatech",
-                  "text": "Madatech is the Israel National Museum of Science, Technology, and Space in Haifa.",
-                  "category": "museum",
-                  "coords": [
-                        34.996341,
-                        32.810139
-                  ]
-            },
-            {
                   "name": "Haifa Theatre",
                   "text": "A modern theater on Mount Carmel in Haifa, seating 900.",
                   "category": "cultural",
@@ -2600,57 +2159,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Railway Museum",
-                  "text": "Railway museum housed in the historic Haifa East station.",
-                  "category": "museum",
-                  "coords": [
-                        35.006688,
-                        32.811172
-                  ]
-            },
-            {
-                  "name": "Mane-Katz Museum",
-                  "text": "Museum showcasing the collection of painter Mane-Katz in Haifa.",
-                  "category": "museum",
-                  "coords": [
-                        34.987149,
-                        32.807905
-                  ]
-            },
-            {
-                  "name": "Zappa Haifa",
-                  "text": "Zappa Haifa, a live music club in Haifa hosting international and local acts.",
-                  "category": "cultural",
-                  "coords": [
-                        34.963086,
-                        32.789648
-                  ]
-            },
-            {
-                  "name": "Bahá'í gardens",
-                  "text": "Terraced gardens on Mount Carmel with the golden Shrine of the Bab.",
-                  "category": "landmark",
-                  "coords": [
-                        34.988603,
-                        32.81726
-                  ]
-            },
-            {
                   "name": "Ein Ovadia",
                   "text": "A Paleolithic site with bone remains on Mount Carmel.",
                   "category": "landmark",
                   "coords": [
                         34.993634,
                         32.772434
-                  ]
-            },
-            {
-                  "name": "Chiat Orchard",
-                  "text": "Public park in Haifa created from a historic citrus orchard.",
-                  "category": "park",
-                  "coords": [
-                        34.969974,
-                        32.80262
                   ]
             },
             {
@@ -2672,48 +2186,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ursula Malbin Sculpture Garden",
-                  "text": "Sculpture garden featuring outdoor works by Israeli artists.",
-                  "category": "park",
-                  "coords": [
-                        34.981652,
-                        32.816345
-                  ]
-            },
-            {
-                  "name": "Shrine of the Bab",
-                  "text": "The golden-domed Baha'i shrine, surrounded by terraced gardens on Mount Carmel.",
-                  "category": "landmark",
-                  "coords": [
-                        34.987142,
-                        32.814595
-                  ]
-            },
-            {
                   "name": "Centre for the Study of the Texts",
                   "text": "The Baha'i Center for the Study of the Sacred Texts on Mount Carmel.",
                   "category": "landmark",
                   "coords": [
                         34.986652,
                         32.812462
-                  ]
-            },
-            {
-                  "name": "International Teaching Center",
-                  "text": "Administrative building of the Baháʼí World Centre on Mount Carmel.",
-                  "category": "landmark",
-                  "coords": [
-                        34.988681,
-                        32.811517
-                  ]
-            },
-            {
-                  "name": "Universal House of Justice",
-                  "text": "The administrative centre of the Baha'i Faith in Haifa.",
-                  "category": "landmark",
-                  "coords": [
-                        34.987459,
-                        32.81156
                   ]
             },
             {
@@ -2771,15 +2249,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Izgotovlenie kartin i ram",
-                  "text": "Museum showcasing the history of painting and frame-making, housed in a former workshop.",
-                  "category": "museum",
-                  "coords": [
-                        34.99953,
-                        32.808212
-                  ]
-            },
-            {
                   "name": "Carmelite church",
                   "text": "Carmelite monastery on Mount Carmel, traditionally associated with the prophet Elijah.",
                   "category": "historical",
@@ -2798,84 +2267,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. John church in Haifa",
-                  "text": "A 19th-century Catholic church in central Haifa.",
-                  "category": "religious",
-                  "coords": [
-                        34.994679,
-                        32.81768
-                  ]
-            },
-            {
-                  "name": "Haifa Municipality",
-                  "text": "Haifa's historic city hall, built in the 1920s in Oriental style.",
-                  "category": "historical",
-                  "coords": [
-                        34.998959,
-                        32.812628
-                  ]
-            },
-            {
-                  "name": "Mahmood Mosque",
-                  "text": "The largest mosque in Haifa with a minaret near the port.",
-                  "category": "religious",
-                  "coords": [
-                        34.969839,
-                        32.805036
-                  ]
-            },
-            {
-                  "name": "Elias Russian church",
-                  "text": "A Russian Orthodox church in Haifa's German Colony.",
-                  "category": "religious",
-                  "coords": [
-                        34.980296,
-                        32.812979
-                  ]
-            },
-            {
                   "name": "Or VeYeshua Yeshiva",
                   "text": "Sephardic yeshiva in Haifa's Neve David neighborhood.",
                   "category": "religious",
                   "coords": [
                         35.017143,
                         32.785349
-                  ]
-            },
-            {
-                  "name": "Al-Jarina Mosque",
-                  "text": "An Ottoman-era mosque in Haifa's Wadi Nisnas neighborhood.",
-                  "category": "religious",
-                  "coords": [
-                        35.002273,
-                        32.816671
-                  ]
-            },
-            {
-                  "name": "St. Joseph's Church",
-                  "text": "A Roman Catholic church in upper Haifa, built in French style.",
-                  "category": "religious",
-                  "coords": [
-                        34.993502,
-                        32.820958
-                  ]
-            },
-            {
-                  "name": "St. Louis the King Cathedral",
-                  "text": "St. Louis the King Cathedral, seat of the Latin Bishop of Haifa.",
-                  "category": "religious",
-                  "coords": [
-                        34.999084,
-                        32.817024
-                  ]
-            },
-            {
-                  "name": "Saint Elijah Cathedral",
-                  "text": "The Maronite Saint Elijah Cathedral in downtown Haifa.",
-                  "category": "religious",
-                  "coords": [
-                        34.994647,
-                        32.819231
                   ]
             },
             {
@@ -2894,15 +2291,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         35.001671,
                         32.808795
-                  ]
-            },
-            {
-                  "name": "Our Lady Church, Melkite",
-                  "text": "A Melkite Greek Catholic church in Haifa's Old City.",
-                  "category": "religious",
-                  "coords": [
-                        35.000594,
-                        32.816247
                   ]
             }
       ]
@@ -5300,15 +4688,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mei Ami Beach",
-                  "text": "The חוף מי עמי is a popular recreational beach in the coastal city of Ashdod. Bathers and recreation seekers will find a wonderful resting place right on the Mediterranean, inviting them to enjoy carefree hours by the water.",
-                  "category": "recreational",
-                  "coords": [
-                        34.638375,
-                        31.812204
-                  ]
-            },
-            {
                   "name": "Hakshatot Beach",
                   "text": "Known as a beautiful recreation area in Ashdod, the חוף הקשתות awaits its visitors with soft sand and the sound of the sea. This stretch of beach is perfect for sun worshipers wanting to enjoy Israel's maritime flair.",
                   "category": "recreational",
@@ -5387,15 +4766,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.653768,
                         31.773353
-                  ]
-            },
-            {
-                  "name": "Giv'at Yona",
-                  "text": "Coastal hill, the highest point in Ashdod.",
-                  "category": "natural",
-                  "coords": [
-                        34.646617,
-                        31.813883
                   ]
             },
             {
@@ -5531,15 +4901,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.64916,
                         31.817869
-                  ]
-            },
-            {
-                  "name": "Lachish promenade end",
-                  "text": "Southern terminus of the Lachish Promenade in Ashdod, offering views of the river mouth.",
-                  "category": "landmark",
-                  "coords": [
-                        34.641215,
-                        31.814947
                   ]
             },
             {
@@ -7853,33 +7214,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ten Mills",
-                  "text": "Ein Gelände mit zehn historischen Mühlen in Bnei Brak.",
-                  "category": "historical",
-                  "coords": [
-                        34.826587,
-                        32.106079
-                  ]
-            },
-            {
-                  "name": "Ramat Gan Theater",
-                  "text": "Ein Kulturzentrum in Bnei Brak mit Veranstaltungen und Aufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        34.821776,
-                        32.079173
-                  ]
-            },
-            {
-                  "name": "Tel Gerisa",
-                  "text": "Tel Gerisa ist eine archäologische Stätte bei Bnei Brak, auch als Napoleon-Hügel bekannt.",
-                  "category": "historical",
-                  "coords": [
-                        34.807888,
-                        32.091684
-                  ]
-            },
-            {
                   "name": "Beit Russell",
                   "text": "Ein nach Bertrand Russell benanntes Gemeinschaftszentrum in Bnei Brak.",
                   "category": "cultural",
@@ -7889,30 +7223,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seven Mills",
-                  "text": "Seven Mills ist eine archäologische Stätte in der Nähe von Bnei Brak, bekannt für ihre historischen Mühlen.",
-                  "category": "historical",
-                  "coords": [
-                        34.808012,
-                        32.096207
-                  ]
-            },
-            {
                   "name": "Yahalom Theater",
                   "text": "Theater in Bnei Brak mit dem Namen ‚Yahalom‘ (Diamant) für kulturelle Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         34.802299,
                         32.084417
-                  ]
-            },
-            {
-                  "name": "David Labkovsky Zentrum für jüdische Kunst",
-                  "text": "Museum für jüdische Kunst in Bnei Brak, das Werke von David Labkovsky zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        34.821323,
-                        32.077207
                   ]
             },
             {
@@ -7934,75 +7250,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beit Natan Rappaport",
-                  "text": "Museum in Bnei Brak, das Skulpturen und Kunstwerke von Natan Rappaport beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        34.818389,
-                        32.09617
-                  ]
-            },
-            {
                   "name": "Zappa Park - Ganei Yehoshua",
                   "text": "Freiluft-Musikclub der Kette Zappa in einem Park in Bnei Brak.",
                   "category": "cultural",
                   "coords": [
                         34.811769,
                         32.102143
-                  ]
-            },
-            {
-                  "name": "Rosh Zipor",
-                  "text": "Eine Skulptur eines Vogelkopfes als Wahrzeichen in Bnei Brak.",
-                  "category": "landmark",
-                  "coords": [
-                        34.80573,
-                        32.098585
-                  ]
-            },
-            {
-                  "name": "Kaktusim Garten",
-                  "text": "Ein Kakteengarten in Bnei Brak mit verschiedenen Sukkulenten.",
-                  "category": "park",
-                  "coords": [
-                        34.814402,
-                        32.100359
-                  ]
-            },
-            {
-                  "name": "Gazum Garten",
-                  "text": "Ein nach Gazum benannter Garten in Bnei Brak mit Sitzgelegenheiten.",
-                  "category": "park",
-                  "coords": [
-                        34.814877,
-                        32.099156
-                  ]
-            },
-            {
-                  "name": "Kozlovsky-Hügel",
-                  "text": "Hügel in Bnei Brak, heute ein Park.",
-                  "category": "natural",
-                  "coords": [
-                        34.816058,
-                        32.072137
-                  ]
-            },
-            {
-                  "name": "HaAliya HaShniya Garten",
-                  "text": "Ein Garten in Bnei Brak, der an die Zweite Alija erinnert.",
-                  "category": "park",
-                  "coords": [
-                        34.814906,
-                        32.069828
-                  ]
-            },
-            {
-                  "name": "Gan Avraham",
-                  "text": "Öffentlicher Park in Bnei Brak, benannt nach dem biblischen Abraham.",
-                  "category": "park",
-                  "coords": [
-                        34.818497,
-                        32.087192
                   ]
             },
             {
@@ -8060,30 +7313,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "TLV Balloon",
-                  "text": "Ein großer Heißluftballon als Wahrzeichen in Bnei Brak.",
-                  "category": "landmark",
-                  "coords": [
-                        34.810185,
-                        32.099755
-                  ]
-            },
-            {
                   "name": "Israel Trail Bibliothek",
                   "text": "Bibliothek in Bnei Brak, spezialisiert auf Wander- und Naturbücher über den Israel National Trail.",
                   "category": "landmark",
                   "coords": [
                         34.810696,
                         32.096851
-                  ]
-            },
-            {
-                  "name": "Nili",
-                  "text": "Historische Stätte in Bnei Brak, die an das Spionagenetz Nili aus dem Ersten Weltkrieg erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        34.808935,
-                        32.086239
                   ]
             },
             {
@@ -8150,39 +7385,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Side Winder",
-                  "text": "Wahrzeichen in Bnei Brak mit einem gewundenen, schlangenförmigen Design.",
-                  "category": "landmark",
-                  "coords": [
-                        34.819806,
-                        32.100025
-                  ]
-            },
-            {
                   "name": "Haruzim Park",
                   "text": "Öffentlicher Platz in Bnei Brak namens Haruzim Park mit Grünflächen und Sitzgelegenheiten.",
                   "category": "landmark",
                   "coords": [
                         34.804131,
                         32.091715
-                  ]
-            },
-            {
-                  "name": "Große Synagoge",
-                  "text": "Die Große Synagoge von Bnei Brak, ein bedeutender religiöser Ort.",
-                  "category": "religious",
-                  "coords": [
-                        34.815307,
-                        32.083472
-                  ]
-            },
-            {
-                  "name": "Ramat Gan Municipality",
-                  "text": "Das historische ehemalige Rathaus von Ramat Gan in Bnei Brak.",
-                  "category": "historical",
-                  "coords": [
-                        34.814294,
-                        32.082575
                   ]
             },
             {
@@ -8269,24 +7477,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ten Mills",
-                  "text": "Tíz történelmi malom helyszíne Bnei Brakban.",
-                  "category": "historical",
-                  "coords": [
-                        34.826587,
-                        32.106079
-                  ]
-            },
-            {
-                  "name": "Ramat Gan Theater",
-                  "text": "Kulturális központ Bnei Brakban, rendezvényekkel és előadásokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        34.821776,
-                        32.079173
-                  ]
-            },
-            {
                   "name": "Napoleon Hill (Tel Gerisa)",
                   "text": "Tel Gerisa egy régészeti lelőhely Bnei Brak mellett, más néven Napóleon-domb.",
                   "category": "historical",
@@ -8305,30 +7495,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seven Mills",
-                  "text": "Seven Mills egy régészeti lelőhely Bnei Brak mellett, amely történelmi malmairól ismert.",
-                  "category": "historical",
-                  "coords": [
-                        34.808012,
-                        32.096207
-                  ]
-            },
-            {
                   "name": "Yahalom Theater",
                   "text": "Színház Bnei Brakban, a ‚Yahalom‘ (Gyémánt) néven, kulturális előadások számára.",
                   "category": "cultural",
                   "coords": [
                         34.802299,
                         32.084417
-                  ]
-            },
-            {
-                  "name": "David Labkovsky Zsidó Művészeti Központ",
-                  "text": "Zsidó művészeti múzeum Bnei Brakban, David Labkovszky műveivel.",
-                  "category": "museum",
-                  "coords": [
-                        34.821323,
-                        32.077207
                   ]
             },
             {
@@ -8350,15 +7522,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beit Natan Rappaport",
-                  "text": "Múzeum Bnei Brakban, amely Natan Rappaport szobrait és műalkotásait őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        34.818389,
-                        32.09617
-                  ]
-            },
-            {
                   "name": "Zappa Park - Ganei Yehoshua",
                   "text": "A Zappa lánc szabadtéri zenei klubja egy parkban Bnei Brakban.",
                   "category": "cultural",
@@ -8377,48 +7540,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kaktusim Kert",
-                  "text": "Kaktuszkert Bnei Brakban, különféle pozsgásokkal.",
-                  "category": "park",
-                  "coords": [
-                        34.814402,
-                        32.100359
-                  ]
-            },
-            {
-                  "name": "Gazum Kert",
-                  "text": "Gazumról elnevezett kert Bnei Brakban, árnyékos ülőhelyekkel.",
-                  "category": "park",
-                  "coords": [
-                        34.814877,
-                        32.099156
-                  ]
-            },
-            {
                   "name": "Kozlovsky-domb",
                   "text": "Domb Bnei Brakban, ma park.",
                   "category": "natural",
                   "coords": [
                         34.816058,
                         32.072137
-                  ]
-            },
-            {
-                  "name": "HaAliya HaShniya Kert",
-                  "text": "Egy kert Bnei Brakban, amely a Második Alijjára emlékezik.",
-                  "category": "park",
-                  "coords": [
-                        34.814906,
-                        32.069828
-                  ]
-            },
-            {
-                  "name": "Gan Avraham",
-                  "text": "Nyilvános park Bnei Brakban, Ábrahám bibliai alakról elnevezve.",
-                  "category": "park",
-                  "coords": [
-                        34.818497,
-                        32.087192
                   ]
             },
             {
@@ -8476,30 +7603,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "TLV Balloon",
-                  "text": "Egy nagy hőlégballon, Bnei Brak nevezetessége.",
-                  "category": "landmark",
-                  "coords": [
-                        34.810185,
-                        32.099755
-                  ]
-            },
-            {
                   "name": "Izraeli Ösvény Könyvtár",
                   "text": "Könyvtár Bnei Brakban, amely az Izraeli Nemzeti Túraútvonal túrákkal és természettel kapcsolatos könyveire specializálódott.",
                   "category": "landmark",
                   "coords": [
                         34.810696,
                         32.096851
-                  ]
-            },
-            {
-                  "name": "Nili",
-                  "text": "Történelmi helyszín Bnei Brakban, amely a Nili első világháborús kémhálózatra emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        34.808935,
-                        32.086239
                   ]
             },
             {
@@ -8566,39 +7675,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Side Winder",
-                  "text": "Nevezetesség Bnei Brakban, kanyargós, kígyószerű kialakítással.",
-                  "category": "landmark",
-                  "coords": [
-                        34.819806,
-                        32.100025
-                  ]
-            },
-            {
                   "name": "Haruzim Park",
                   "text": "Nyilvános tér Bnei Brakban, Haruzim Park néven, zöldterületekkel és ülőhelyekkel.",
                   "category": "landmark",
                   "coords": [
                         34.804131,
                         32.091715
-                  ]
-            },
-            {
-                  "name": "Nagy Zsinagóga",
-                  "text": "Bnei Brak nagy zsinagógája, fontos vallási helyszín.",
-                  "category": "religious",
-                  "coords": [
-                        34.815307,
-                        32.083472
-                  ]
-            },
-            {
-                  "name": "Ramat Gan Municipality",
-                  "text": "Ramat Gan történelmi egykori városházája Bnei Brakban.",
-                  "category": "historical",
-                  "coords": [
-                        34.814294,
-                        32.082575
                   ]
             },
             {
@@ -8685,30 +7767,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ten Mills",
-                  "text": "Un sit cu zece mori istorice în Bnei Brak.",
-                  "category": "historical",
-                  "coords": [
-                        34.826587,
-                        32.106079
-                  ]
-            },
-            {
                   "name": "Teatrul Ramat Gan",
                   "text": "Un centru cultural în Bnei Brak, cu evenimente și spectacole.",
                   "category": "cultural",
                   "coords": [
                         34.821776,
                         32.079173
-                  ]
-            },
-            {
-                  "name": "Tel Gerisa",
-                  "text": "Tel Gerisa este un sit arheologic lângă Bnei Brak, cunoscut și sub numele de Dealul lui Napoleon.",
-                  "category": "historical",
-                  "coords": [
-                        34.807888,
-                        32.091684
                   ]
             },
             {
@@ -8721,30 +7785,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seven Mills",
-                  "text": "Seven Mills este un sit arheologic lângă Bnei Brak, cunoscut pentru morile sale istorice.",
-                  "category": "historical",
-                  "coords": [
-                        34.808012,
-                        32.096207
-                  ]
-            },
-            {
                   "name": "Teatrul Yahalom",
                   "text": "Teatru în Bnei Brak numit ‚Yahalom‘ (Diamant), pentru spectacole culturale.",
                   "category": "cultural",
                   "coords": [
                         34.802299,
                         32.084417
-                  ]
-            },
-            {
-                  "name": "Centrul David Labkovsky pentru Artă Evreiască",
-                  "text": "Muzeu de artă evreiască în Bnei Brak, cu lucrări ale lui David Labkovsky.",
-                  "category": "museum",
-                  "coords": [
-                        34.821323,
-                        32.077207
                   ]
             },
             {
@@ -8781,60 +7827,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.811769,
                         32.102143
-                  ]
-            },
-            {
-                  "name": "Rosh Zipor",
-                  "text": "O sculptură a unui cap de pasăre, reper în Bnei Brak.",
-                  "category": "landmark",
-                  "coords": [
-                        34.80573,
-                        32.098585
-                  ]
-            },
-            {
-                  "name": "Grădina Kaktusim",
-                  "text": "O grădină de cactuși în Bnei Brak, cu diverse suculente.",
-                  "category": "park",
-                  "coords": [
-                        34.814402,
-                        32.100359
-                  ]
-            },
-            {
-                  "name": "Grădina Gazum",
-                  "text": "O grădină numită Gazum în Bnei Brak, cu locuri de ședere umbrite.",
-                  "category": "park",
-                  "coords": [
-                        34.814877,
-                        32.099156
-                  ]
-            },
-            {
-                  "name": "Dealul Kozlovsky",
-                  "text": "Deal în Bnei Brak, acum un parc.",
-                  "category": "natural",
-                  "coords": [
-                        34.816058,
-                        32.072137
-                  ]
-            },
-            {
-                  "name": "Grădina HaAliya HaShniya",
-                  "text": "O grădină în Bnei Brak care comemorează a Doua Aliyah.",
-                  "category": "park",
-                  "coords": [
-                        34.814906,
-                        32.069828
-                  ]
-            },
-            {
-                  "name": "Gan Avraham",
-                  "text": "Parc public în Bnei Brak, numit după patriarhul biblic Avraam.",
-                  "category": "park",
-                  "coords": [
-                        34.818497,
-                        32.087192
                   ]
             },
             {
@@ -8892,30 +7884,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "TLV Balloon",
-                  "text": "Un balon cu aer cald mare, reper în Bnei Brak.",
-                  "category": "landmark",
-                  "coords": [
-                        34.810185,
-                        32.099755
-                  ]
-            },
-            {
                   "name": "Biblioteca Israel Trail",
                   "text": "Bibliotecă în Bnei Brak specializată în cărți de drumeții și natură despre Traseul Național Israelian.",
                   "category": "landmark",
                   "coords": [
                         34.810696,
                         32.096851
-                  ]
-            },
-            {
-                  "name": "Nili",
-                  "text": "Loc istoric în Bnei Brak care comemorează rețeaua de spionaj Nili din Primul Război Mondial.",
-                  "category": "historical",
-                  "coords": [
-                        34.808935,
-                        32.086239
                   ]
             },
             {
@@ -8982,30 +7956,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Side Winder",
-                  "text": "Reper în Bnei Brak cu un design sinuos, asemănător unui șarpe.",
-                  "category": "landmark",
-                  "coords": [
-                        34.819806,
-                        32.100025
-                  ]
-            },
-            {
                   "name": "Parcul Haruzim",
                   "text": "Piață publică în Bnei Brak numită Haruzim Park, cu spații verzi și locuri de stat.",
                   "category": "landmark",
                   "coords": [
                         34.804131,
                         32.091715
-                  ]
-            },
-            {
-                  "name": "Marea Sinagogă",
-                  "text": "Marea Sinagogă din Bnei Brak, un important loc religios.",
-                  "category": "religious",
-                  "coords": [
-                        34.815307,
-                        32.083472
                   ]
             },
             {
@@ -9101,66 +8057,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ten Mills",
-                  "text": "A site of ten historical mills in Bnei Brak.",
-                  "category": "historical",
-                  "coords": [
-                        34.826587,
-                        32.106079
-                  ]
-            },
-            {
-                  "name": "Ramat Gan",
-                  "text": "A cultural center in Bnei Brak hosting performances and events.",
-                  "category": "cultural",
-                  "coords": [
-                        34.821776,
-                        32.079173
-                  ]
-            },
-            {
-                  "name": "Tel Gerisa",
-                  "text": "Tel Gerisa is an archaeological site near Bnei Brak, also known as Napoleon Hill.",
-                  "category": "historical",
-                  "coords": [
-                        34.807888,
-                        32.091684
-                  ]
-            },
-            {
                   "name": "Beit Russell",
                   "text": "A community cultural center named Beit Russell in Bnei Brak.",
                   "category": "cultural",
                   "coords": [
                         34.834221,
                         32.068683
-                  ]
-            },
-            {
-                  "name": "Seven Mills",
-                  "text": "Seven Mills is an archaeological site near Bnei Brak, known for its historic mills.",
-                  "category": "historical",
-                  "coords": [
-                        34.808012,
-                        32.096207
-                  ]
-            },
-            {
-                  "name": "Yahalom Theatre",
-                  "text": "Theater in Bnei Brak named 'Yahalom' (Diamond), hosting cultural performances.",
-                  "category": "cultural",
-                  "coords": [
-                        34.802299,
-                        32.084417
-                  ]
-            },
-            {
-                  "name": "David Labkovsky Center for Jewish Art",
-                  "text": "Museum of Jewish art in Bnei Brak, featuring works by David Labkovsky.",
-                  "category": "museum",
-                  "coords": [
-                        34.821323,
-                        32.077207
                   ]
             },
             {
@@ -9182,87 +8084,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beit Natan Rappaport",
-                  "text": "Museum in Bnei Brak housing sculptures and artworks by Natan Rappaport.",
-                  "category": "museum",
-                  "coords": [
-                        34.818389,
-                        32.09617
-                  ]
-            },
-            {
-                  "name": "Zappa in the park",
-                  "text": "Outdoor music club of the Zappa chain, located in a park in Bnei Brak.",
-                  "category": "cultural",
-                  "coords": [
-                        34.811769,
-                        32.102143
-                  ]
-            },
-            {
-                  "name": "Rosh Zipor",
-                  "text": "A landmark sculpture of a bird's head in Bnei Brak.",
-                  "category": "landmark",
-                  "coords": [
-                        34.80573,
-                        32.098585
-                  ]
-            },
-            {
-                  "name": "Kaktusim Garden",
-                  "text": "A cactus garden in Bnei Brak, featuring various succulent species.",
-                  "category": "park",
-                  "coords": [
-                        34.814402,
-                        32.100359
-                  ]
-            },
-            {
-                  "name": "Gazum Garden",
-                  "text": "A garden named Gazum in Bnei Brak, with shaded seating areas.",
-                  "category": "park",
-                  "coords": [
-                        34.814877,
-                        32.099156
-                  ]
-            },
-            {
-                  "name": "Kozlovsky Hill",
-                  "text": "A hill in Bnei Brak, now a park.",
-                  "category": "natural",
-                  "coords": [
-                        34.816058,
-                        32.072137
-                  ]
-            },
-            {
-                  "name": "HaAliya HaShniya Garden",
-                  "text": "A garden commemorating the Second Aliyah in Bnei Brak.",
-                  "category": "park",
-                  "coords": [
-                        34.814906,
-                        32.069828
-                  ]
-            },
-            {
-                  "name": "Gan Avraham",
-                  "text": "Public park in Bnei Brak named after the biblical patriarch Abraham.",
-                  "category": "park",
-                  "coords": [
-                        34.818497,
-                        32.087192
-                  ]
-            },
-            {
-                  "name": "Shaul Garden",
-                  "text": "A park named after King Saul in Bnei Brak.",
-                  "category": "park",
-                  "coords": [
-                        34.811364,
-                        32.082281
-                  ]
-            },
-            {
                   "name": "David Park",
                   "text": "A park named after King David in Bnei Brak.",
                   "category": "park",
@@ -9281,15 +8102,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gan Hamelech David",
-                  "text": "Park in Bnei Brak named after King David, with gardens and playgrounds.",
-                  "category": "park",
-                  "coords": [
-                        34.813832,
-                        32.086269
-                  ]
-            },
-            {
                   "name": "Gan Dror",
                   "text": "A park named Dror in Bnei Brak.",
                   "category": "park",
@@ -9305,33 +8117,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.809779,
                         32.069814
-                  ]
-            },
-            {
-                  "name": "TLV Balloon",
-                  "text": "A large hot air balloon landmark in Bnei Brak.",
-                  "category": "landmark",
-                  "coords": [
-                        34.810185,
-                        32.099755
-                  ]
-            },
-            {
-                  "name": "Israel Trail Library",
-                  "text": "Library in Bnei Brak specializing in hiking and nature books about the Israel National Trail.",
-                  "category": "landmark",
-                  "coords": [
-                        34.810696,
-                        32.096851
-                  ]
-            },
-            {
-                  "name": "Nili",
-                  "text": "Historical site in Bnei Brak commemorating the Nili spy network of World War I.",
-                  "category": "historical",
-                  "coords": [
-                        34.808935,
-                        32.086239
                   ]
             },
             {
@@ -9362,30 +8147,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sculptures Garden",
-                  "text": "Outdoor sculpture garden in Bnei Brak displaying modern artworks.",
-                  "category": "landmark",
-                  "coords": [
-                        34.814209,
-                        32.104475
-                  ]
-            },
-            {
                   "name": "Givat Shmuel Community Center",
                   "text": "Community center in Bnei Brak serving local cultural activities and events.",
                   "category": "cultural",
                   "coords": [
                         34.848112,
                         32.079225
-                  ]
-            },
-            {
-                  "name": "Beit Aharon Kahana",
-                  "text": "Museum in Bnei Brak dedicated to the life of Rabbi Aharon Kahana.",
-                  "category": "museum",
-                  "coords": [
-                        34.819402,
-                        32.095544
                   ]
             },
             {
@@ -9398,39 +8165,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Side Winder",
-                  "text": "Landmark in Bnei Brak with a winding, snake-like design (Side Winder).",
-                  "category": "landmark",
-                  "coords": [
-                        34.819806,
-                        32.100025
-                  ]
-            },
-            {
                   "name": "Haruzim Park",
                   "text": "Public square in Bnei Brak named Haruzim Park, with green spaces and seating.",
                   "category": "landmark",
                   "coords": [
                         34.804131,
                         32.091715
-                  ]
-            },
-            {
-                  "name": "Great Synagogue",
-                  "text": "The Great Synagogue of Bnei Brak, a major religious site.",
-                  "category": "religious",
-                  "coords": [
-                        34.815307,
-                        32.083472
-                  ]
-            },
-            {
-                  "name": "Ramat Gan Municipality",
-                  "text": "The historical former municipal building of Ramat Gan in Bnei Brak.",
-                  "category": "historical",
-                  "coords": [
-                        34.814294,
-                        32.082575
                   ]
             },
             {
@@ -10306,57 +9046,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seven Mills",
-                  "text": "Seven Mills ist eine archäologische Stätte in Ramat Gan, die historische Mühlen am Yarkon-Fluss umfasst.",
-                  "category": "historical",
-                  "coords": [
-                        34.808012,
-                        32.096207
-                  ]
-            },
-            {
-                  "name": "Bnei Brak Municipality",
-                  "text": "Die Bnei Brak Municipality ist das historische Rathausgebäude, das in Ramat Gan verortet ist.",
-                  "category": "historical",
-                  "coords": [
-                        34.827566,
-                        32.083728
-                  ]
-            },
-            {
-                  "name": "HaCameri",
-                  "text": "Das HaCameri ist ein bekanntes Theater in Ramat Gan, das zu den führenden Bühnen Israels zählt.",
-                  "category": "cultural",
-                  "coords": [
-                        34.784533,
-                        32.077006
-                  ]
-            },
-            {
-                  "name": "Heichal HaTarbut",
-                  "text": "Der Heichal HaTarbut ist ein bedeutendes Theater- und Kulturzentrum in Ramat Gan.",
-                  "category": "cultural",
-                  "coords": [
-                        34.780012,
-                        32.073427
-                  ]
-            },
-            {
                   "name": "Nahalat Yitzhak Ateret Nehemia Yeshiva",
                   "text": "Jeschiwa in Gan Jawne, die sephardische und litauische Traditionen verbindet.",
                   "category": "religious",
                   "coords": [
                         34.798646,
                         32.078053
-                  ]
-            },
-            {
-                  "name": "Hechal Yehuda Synagogue",
-                  "text": "Die Hechal Yehuda Synagogue ist eine bemerkenswerte Gebetsstätte in Ramat Gan, die für ihre muschelartige Architektur bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        34.783388,
-                        32.086819
                   ]
             },
             {
@@ -10387,39 +9082,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ohel Kedoshim",
-                  "text": "Ohel Kedoshim ist eine bemerkenswerte Kultstätte in Ramat Gan.",
-                  "category": "religious",
-                  "coords": [
-                        34.832267,
-                        32.083274
-                  ]
-            },
-            {
-                  "name": "Beit Meir Yeshiva",
-                  "text": "Die Beit Meir Yeshiva ist eine prominente Kult- und Studienstätte in Ramat Gan.",
-                  "category": "religious",
-                  "coords": [
-                        34.83606,
-                        32.078174
-                  ]
-            },
-            {
                   "name": "Hostages Square",
                   "text": "Der Hostages Square ist eine bekannte öffentliche Attraktion in der Gegend von Ramat Gan.",
                   "category": "landmark",
                   "coords": [
                         34.787155,
                         32.077076
-                  ]
-            },
-            {
-                  "name": "Sarona Market",
-                  "text": "Der Sarona Market ist ein belebter Marktplatz, der für sein vielfältiges kulinarisches Angebot in der Gegend von Ramat Gan bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        34.787061,
-                        32.071107
                   ]
             },
             {
@@ -10459,48 +9127,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gan HaGat",
-                  "text": "Biblischer Park mit einer antiken Kelter in Gan Jawne.",
-                  "category": "park",
-                  "coords": [
-                        34.791569,
-                        32.084789
-                  ]
-            },
-            {
                   "name": "Edith-Wolfson-Park",
                   "text": "Park in Gan, benannt nach Edith Wolfson, mit Spielplätzen und Spazierwegen.",
                   "category": "park",
                   "coords": [
                         34.806194,
                         32.058951
-                  ]
-            },
-            {
-                  "name": "TLV Balloon",
-                  "text": "Der TLV-Ballon ist eine bemerkenswerte Attraktion, die einen Panoramablick auf die Gegend von Ramat Gan bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        34.810185,
-                        32.099755
-                  ]
-            },
-            {
-                  "name": "Alexander Museum of Postal History and Philately",
-                  "text": "Das Alexander-Museum für Postgeschichte und Philatelie widmet sich der Postgeschichte und Briefmarken in Ramat Gan.",
-                  "category": "museum",
-                  "coords": [
-                        34.79758,
-                        32.103314
-                  ]
-            },
-            {
-                  "name": "Eretz-Israel-Museum",
-                  "text": "Das Eretz-Israel-Museum ist eine große Einrichtung, die archäologische und historische Artefakte in der Gegend von Ramat Gan zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        34.795991,
-                        32.102104
                   ]
             },
             {
@@ -10549,15 +9181,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beit Russell",
-                  "text": "Beit Russell ist eine lokale Theatereinrichtung, in der kulturelle Veranstaltungen in Ramat Gan stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        34.834221,
-                        32.068683
-                  ]
-            },
-            {
                   "name": "Große Synagoge",
                   "text": "Die Große Synagoge ist ein bedeutendes Gotteshaus in Ramat Gan.",
                   "category": "religious",
@@ -10573,15 +9196,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.838331,
                         32.07847
-                  ]
-            },
-            {
-                  "name": "Rosh Zipor",
-                  "text": "Rosh Zipor ist eine lokale Attraktion, die Erholungsmöglichkeiten im Freien in Ramat Gan bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        34.80573,
-                        32.098585
                   ]
             },
             {
@@ -10648,57 +9262,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Air Force Garden",
-                  "text": "Der Air Force Garden ist ein gut gepflegter Park zur öffentlichen Erholung in Ramat Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.807122,
-                        32.063299
-                  ]
-            },
-            {
-                  "name": "Volovelski Karni",
-                  "text": "Ein nach Volovelski Karni benannter Park in Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.794807,
-                        32.081507
-                  ]
-            },
-            {
-                  "name": "David-Park",
-                  "text": "Der David-Park ist ein ruhiger Park mit Grünflächen in Ramat Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.830826,
-                        32.071722
-                  ]
-            },
-            {
-                  "name": "Gan Yakir",
-                  "text": "Ein kleiner Park namens Yakir in Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.82678,
-                        32.067321
-                  ]
-            },
-            {
                   "name": "Gan Hamelech David",
                   "text": "Park benannt nach König David in Gan.",
                   "category": "park",
                   "coords": [
                         34.813832,
                         32.086269
-                  ]
-            },
-            {
-                  "name": "Gan Dror",
-                  "text": "Ein öffentlicher Park mit schattigen Wegen im Gartenort Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.827379,
-                        32.065119
                   ]
             },
             {
@@ -10726,15 +9295,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.809779,
                         32.069814
-                  ]
-            },
-            {
-                  "name": "Luna Park",
-                  "text": "Der Luna Park ist ein großer Vergnügungs- und Themenpark in der Gegend von Ramat Gan.",
-                  "category": "family",
-                  "coords": [
-                        34.812081,
-                        32.106587
                   ]
             },
             {
@@ -10776,57 +9336,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seven Mills",
-                  "text": "A Seven Mills egy régészeti lelőhely Ramat Gan városában, amely a Yarkon-folyó menti történelmi malmokat foglalja magában.",
-                  "category": "historical",
-                  "coords": [
-                        34.808012,
-                        32.096207
-                  ]
-            },
-            {
-                  "name": "Bnei Brak Municipality",
-                  "text": "A Bnei Brak Municipality a történelmi városháza épülete, amely Ramat Gan területén található.",
-                  "category": "historical",
-                  "coords": [
-                        34.827566,
-                        32.083728
-                  ]
-            },
-            {
-                  "name": "HaCameri",
-                  "text": "A HaCameri egy ismert színház Ramat Gan városában, amely Izrael egyik vezető teátruma.",
-                  "category": "cultural",
-                  "coords": [
-                        34.784533,
-                        32.077006
-                  ]
-            },
-            {
-                  "name": "Heichal HaTarbut",
-                  "text": "A Heichal HaTarbut egy jelentős színház és kulturális központ Ramat Gan városában.",
-                  "category": "cultural",
-                  "coords": [
-                        34.780012,
-                        32.073427
-                  ]
-            },
-            {
                   "name": "Nahalat Yitzhak Ateret Nehemia Yeshiva",
                   "text": "Jesiva Gan Javnéban, egyesítve a szefárd és litván hagyományokat.",
                   "category": "religious",
                   "coords": [
                         34.798646,
                         32.078053
-                  ]
-            },
-            {
-                  "name": "Hechal Yehuda Synagogue",
-                  "text": "A Hechal Yehuda Synagogue egy figyelemre méltó imaház Ramat Gan városában, amely kagylószerű építészetéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        34.783388,
-                        32.086819
                   ]
             },
             {
@@ -10857,39 +9372,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ohel Kedoshim",
-                  "text": "Az Ohel Kedoshim egy nevezetes istentiszteleti hely Ramat Ganban.",
-                  "category": "religious",
-                  "coords": [
-                        34.832267,
-                        32.083274
-                  ]
-            },
-            {
-                  "name": "Beit Meir Jesiva",
-                  "text": "A Beit Meir Jesiva egy jelentős istentiszteleti és tanulási hely Ramat Ganban.",
-                  "category": "religious",
-                  "coords": [
-                        34.83606,
-                        32.078174
-                  ]
-            },
-            {
                   "name": "Hostages Square",
                   "text": "A Hostages Square egy jelentős nyilvános látványosság Ramat Gan területén.",
                   "category": "landmark",
                   "coords": [
                         34.787155,
                         32.077076
-                  ]
-            },
-            {
-                  "name": "Sarona Market",
-                  "text": "A Sarona Market egy nyüzsgő piac, amely változatos kulináris kínálatáról ismert Ramat Gan környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        34.787061,
-                        32.071107
                   ]
             },
             {
@@ -10929,30 +9417,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gan HaGat",
-                  "text": "Bibliai tematikájú park egy ókori borsajtóval Gan Javnéban.",
-                  "category": "park",
-                  "coords": [
-                        34.791569,
-                        32.084789
-                  ]
-            },
-            {
                   "name": "Edith Wolfson Park",
                   "text": "Park Ganban, Edith Wolfsonról elnevezve, játszóterekkel és sétányokkal.",
                   "category": "park",
                   "coords": [
                         34.806194,
                         32.058951
-                  ]
-            },
-            {
-                  "name": "TLV Balloon",
-                  "text": "A TLV Ballon egy nevezetes látványosság, amely panorámás kilátást nyújt Ramat Gan környékéről.",
-                  "category": "landmark",
-                  "coords": [
-                        34.810185,
-                        32.099755
                   ]
             },
             {
@@ -11019,15 +9489,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beit Russell",
-                  "text": "A Beit Russell egy helyi színházi létesítmény, amely kulturális eseményeknek ad otthont Ramat Ganban.",
-                  "category": "cultural",
-                  "coords": [
-                        34.834221,
-                        32.068683
-                  ]
-            },
-            {
                   "name": "Nagy Zsinagóga",
                   "text": "A Nagy Zsinagóga egy jelentős istentiszteleti hely Ramat Ganban.",
                   "category": "religious",
@@ -11043,15 +9504,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.838331,
                         32.07847
-                  ]
-            },
-            {
-                  "name": "Rosh Zipor",
-                  "text": "A Rosh Zipor egy helyi látványosság, amely szabadtéri kikapcsolódást kínál Ramat Ganban.",
-                  "category": "landmark",
-                  "coords": [
-                        34.80573,
-                        32.098585
                   ]
             },
             {
@@ -11127,48 +9579,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Volovelski Karni",
-                  "text": "Volovelski Karniról elnevezett park Ganban.",
-                  "category": "park",
-                  "coords": [
-                        34.794807,
-                        32.081507
-                  ]
-            },
-            {
-                  "name": "David Park",
-                  "text": "A David Park egy nyugodt park, amely zöldterületeket kínál Ramat Ganban.",
-                  "category": "park",
-                  "coords": [
-                        34.830826,
-                        32.071722
-                  ]
-            },
-            {
-                  "name": "Gan Yakir",
-                  "text": "Egy kis park, Yakir, Ganban.",
-                  "category": "park",
-                  "coords": [
-                        34.82678,
-                        32.067321
-                  ]
-            },
-            {
                   "name": "Gan Hamelech David",
                   "text": "Dávid királyról elnevezett park Ganban.",
                   "category": "park",
                   "coords": [
                         34.813832,
                         32.086269
-                  ]
-            },
-            {
-                  "name": "Gan Dror",
-                  "text": "Egy közpark árnyas sétányokkal a Gan nevű kertvárosban.",
-                  "category": "park",
-                  "coords": [
-                        34.827379,
-                        32.065119
                   ]
             },
             {
@@ -11196,15 +9612,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.809779,
                         32.069814
-                  ]
-            },
-            {
-                  "name": "Luna Park",
-                  "text": "A Luna Park egy jelentős vidámpark Ramat Gan környékén.",
-                  "category": "family",
-                  "coords": [
-                        34.812081,
-                        32.106587
                   ]
             },
             {
@@ -11246,57 +9653,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seven Mills",
-                  "text": "Seven Mills este un sit arheologic din Ramat Gan ce include mori istorice pe râul Yarkon.",
-                  "category": "historical",
-                  "coords": [
-                        34.808012,
-                        32.096207
-                  ]
-            },
-            {
-                  "name": "Bnei Brak Municipality",
-                  "text": "Bnei Brak Municipality este clădirea istorică a primăriei, localizată în Ramat Gan.",
-                  "category": "historical",
-                  "coords": [
-                        34.827566,
-                        32.083728
-                  ]
-            },
-            {
-                  "name": "HaCameri",
-                  "text": "HaCameri este un teatru renumit din Ramat Gan, fiind una dintre principalele scene din Israel.",
-                  "category": "cultural",
-                  "coords": [
-                        34.784533,
-                        32.077006
-                  ]
-            },
-            {
-                  "name": "Heichal HaTarbut",
-                  "text": "Heichal HaTarbut este un teatru și un centru cultural important din Ramat Gan.",
-                  "category": "cultural",
-                  "coords": [
-                        34.780012,
-                        32.073427
-                  ]
-            },
-            {
                   "name": "Nahalat Yitzhak Ateret Nehemia Yeshiva",
                   "text": "Dați o școală talmudică în Gan Yavne, combinând tradițiile sefardă și lituaniană.",
                   "category": "religious",
                   "coords": [
                         34.798646,
                         32.078053
-                  ]
-            },
-            {
-                  "name": "Hechal Yehuda Synagogue",
-                  "text": "Hechal Yehuda Synagogue este un lăcaș de cult remarcabil din Ramat Gan, cunoscut pentru arhitectura sa în formă de scoică.",
-                  "category": "religious",
-                  "coords": [
-                        34.783388,
-                        32.086819
                   ]
             },
             {
@@ -11327,39 +9689,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ohel Kedoshim",
-                  "text": "Ohel Kedoshim este un lăcaș de cult notabil situat în Ramat Gan.",
-                  "category": "religious",
-                  "coords": [
-                        34.832267,
-                        32.083274
-                  ]
-            },
-            {
-                  "name": "Beit Meir Yeshiva",
-                  "text": "Beit Meir Yeshiva este un loc de cult și studiu proeminent din Ramat Gan.",
-                  "category": "religious",
-                  "coords": [
-                        34.83606,
-                        32.078174
-                  ]
-            },
-            {
                   "name": "Hostages Square",
                   "text": "Hostages Square este o atracție publică proeminentă situată în zona Ramat Gan.",
                   "category": "landmark",
                   "coords": [
                         34.787155,
                         32.077076
-                  ]
-            },
-            {
-                  "name": "Sarona Market",
-                  "text": "Sarona Market este o piață animată, cunoscută pentru ofertele sale culinare diverse în zona Ramat Gan.",
-                  "category": "landmark",
-                  "coords": [
-                        34.787061,
-                        32.071107
                   ]
             },
             {
@@ -11399,39 +9734,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gan HaGat",
-                  "text": "Parcul cu temă biblică și o presă de vin antică în Gan Yavne.",
-                  "category": "park",
-                  "coords": [
-                        34.791569,
-                        32.084789
-                  ]
-            },
-            {
                   "name": "Parcul Edith Wolfson",
                   "text": "Parc în Gan, numit după Edith Wolfson, cu locuri de joacă și alei.",
                   "category": "park",
                   "coords": [
                         34.806194,
                         32.058951
-                  ]
-            },
-            {
-                  "name": "TLV Balloon",
-                  "text": "Balonul TLV este o atracție notabilă care oferă vederi panoramice din zona Ramat Gan.",
-                  "category": "landmark",
-                  "coords": [
-                        34.810185,
-                        32.099755
-                  ]
-            },
-            {
-                  "name": "Alexander Museum of Postal History and Philately",
-                  "text": "Muzeul Alexander de Istorie Poștală și Filatelie explorează istoria poștală și timbrele în Ramat Gan.",
-                  "category": "museum",
-                  "coords": [
-                        34.79758,
-                        32.103314
                   ]
             },
             {
@@ -11489,15 +9797,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beit Russell",
-                  "text": "Beit Russell este o facilitate teatrală locală care găzduiește evenimente culturale în Ramat Gan.",
-                  "category": "cultural",
-                  "coords": [
-                        34.834221,
-                        32.068683
-                  ]
-            },
-            {
                   "name": "Marea Sinagogă",
                   "text": "Marea Sinagogă este un lăcaș de cult important situat în Ramat Gan.",
                   "category": "religious",
@@ -11513,15 +9812,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.838331,
                         32.07847
-                  ]
-            },
-            {
-                  "name": "Rosh Zipor",
-                  "text": "Rosh Zipor este o atracție locală care oferă recreere în aer liber în Ramat Gan.",
-                  "category": "landmark",
-                  "coords": [
-                        34.80573,
-                        32.098585
                   ]
             },
             {
@@ -11588,57 +9878,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Air Force Garden",
-                  "text": "Air Force Garden este un parc bine întreținut dedicat recreerii publice în Ramat Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.807122,
-                        32.063299
-                  ]
-            },
-            {
-                  "name": "Volovelski Karni",
-                  "text": "Un parc numit după Volovelski Karni în Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.794807,
-                        32.081507
-                  ]
-            },
-            {
-                  "name": "Parcul David",
-                  "text": "Parcul David este un parc liniștit care oferă spații verzi în Ramat Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.830826,
-                        32.071722
-                  ]
-            },
-            {
-                  "name": "Gan Yakir",
-                  "text": "Un mic parc numit Yakir în Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.82678,
-                        32.067321
-                  ]
-            },
-            {
                   "name": "Gan Hamelech David",
                   "text": "Parcul numit după regele David din Gan.",
                   "category": "park",
                   "coords": [
                         34.813832,
                         32.086269
-                  ]
-            },
-            {
-                  "name": "Gan Dror",
-                  "text": "Un parc public cu alei umbrite în orașul-grădină Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.827379,
-                        32.065119
                   ]
             },
             {
@@ -11669,15 +9914,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Luna Park",
-                  "text": "Luna Park este un important parc de distracții și tematic situat în zona Ramat Gan.",
-                  "category": "family",
-                  "coords": [
-                        34.812081,
-                        32.106587
-                  ]
-            },
-            {
                   "name": "Centrul David Labkovsky pentru Arta Evreiască",
                   "text": "Muzeu de artă evreiască numit după David Labkovsky în Gan.",
                   "category": "museum",
@@ -11698,75 +9934,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Hapalmach Museum",
-                  "text": "The Hapalmach Museum is a museum in Ramat Gan dedicated to the history of the Palmach strike force.",
-                  "category": "museum",
-                  "coords": [
-                        34.799259,
-                        32.104534
-                  ]
-            },
-            {
-                  "name": "Tel Gerisa",
-                  "text": "Tel Gerisa, also known as Tel Napoleon, is a significant archaeological site in Ramat Gan.",
-                  "category": "historical",
-                  "coords": [
-                        34.807888,
-                        32.091684
-                  ]
-            },
-            {
-                  "name": "Seven Mills",
-                  "text": "Seven Mills is an archaeological site in Ramat Gan featuring historical mills along the Yarkon River.",
-                  "category": "historical",
-                  "coords": [
-                        34.808012,
-                        32.096207
-                  ]
-            },
-            {
-                  "name": "Bnei Brak Municipality",
-                  "text": "The Bnei Brak Municipality is a historic town hall building located in Ramat Gan.",
-                  "category": "historical",
-                  "coords": [
-                        34.827566,
-                        32.083728
-                  ]
-            },
-            {
-                  "name": "HaCameri",
-                  "text": "The HaCameri is a well-known theatre in Ramat Gan and one of Israel's leading stages.",
-                  "category": "cultural",
-                  "coords": [
-                        34.784533,
-                        32.077006
-                  ]
-            },
-            {
-                  "name": "Heichal HaTarbut",
-                  "text": "The Heichal HaTarbut is a major theatre and cultural centre located in Ramat Gan.",
-                  "category": "cultural",
-                  "coords": [
-                        34.780012,
-                        32.073427
-                  ]
-            },
-            {
                   "name": "Nahalat Yitzhak Ateret Nehemia Yeshiva",
                   "text": "Yeshiva in Gan Yavne combining Sephardic and Lithuanian traditions.",
                   "category": "religious",
                   "coords": [
                         34.798646,
                         32.078053
-                  ]
-            },
-            {
-                  "name": "Hechal Yehuda Synagogue",
-                  "text": "The Hechal Yehuda Synagogue is a notable place of worship in Ramat Gan, known for its seashell-like architecture.",
-                  "category": "religious",
-                  "coords": [
-                        34.783388,
-                        32.086819
                   ]
             },
             {
@@ -11797,57 +9970,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ohel Kedoshim",
-                  "text": "Ohel Kedoshim is a notable place of worship located in Ramat Gan.",
-                  "category": "religious",
-                  "coords": [
-                        34.832267,
-                        32.083274
-                  ]
-            },
-            {
-                  "name": "Beit Meir Yeshiva",
-                  "text": "Beit Meir Yeshiva is a prominent place of worship and study in Ramat Gan.",
-                  "category": "religious",
-                  "coords": [
-                        34.83606,
-                        32.078174
-                  ]
-            },
-            {
                   "name": "Hostages Square",
                   "text": "Hostages Square is a prominent public attraction located in the Ramat Gan area.",
                   "category": "landmark",
                   "coords": [
                         34.787155,
                         32.077076
-                  ]
-            },
-            {
-                  "name": "Sarona Market",
-                  "text": "Sarona Market is a bustling marketplace known for its diverse culinary offerings in the Ramat Gan area.",
-                  "category": "landmark",
-                  "coords": [
-                        34.787061,
-                        32.071107
-                  ]
-            },
-            {
-                  "name": "Sarona Bridge",
-                  "text": "Historic stone bridge over the Sorek River in Gan Yavne.",
-                  "category": "landmark",
-                  "coords": [
-                        34.799884,
-                        32.082355
-                  ]
-            },
-            {
-                  "name": "Yarkon Bridge",
-                  "text": "The Yarkon Bridge is a recognized bridge structure crossing the river in the Ramat Gan area.",
-                  "category": "landmark",
-                  "coords": [
-                        34.793747,
-                        32.097603
                   ]
             },
             {
@@ -11860,24 +9988,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Soutine garden",
-                  "text": "Soutine Garden is a well-known park providing a green space in Ramat Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.78616,
-                        32.082412
-                  ]
-            },
-            {
-                  "name": "Gan HaGat",
-                  "text": "Biblical-themed park with an ancient winepress in Gan Yavne.",
-                  "category": "park",
-                  "coords": [
-                        34.791569,
-                        32.084789
-                  ]
-            },
-            {
                   "name": "Edith Wolfson park",
                   "text": "Park in Gan named after Edith Wolfson, with playgrounds and walking paths.",
                   "category": "park",
@@ -11887,57 +9997,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "TLV Balloon",
-                  "text": "The TLV Balloon is a notable attraction offering panoramic views from the Ramat Gan area.",
-                  "category": "landmark",
-                  "coords": [
-                        34.810185,
-                        32.099755
-                  ]
-            },
-            {
-                  "name": "Alexander Museum of Postal History and Philately",
-                  "text": "The Alexander Museum of Postal History and Philately explores postal history and stamps in Ramat Gan.",
-                  "category": "museum",
-                  "coords": [
-                        34.79758,
-                        32.103314
-                  ]
-            },
-            {
-                  "name": "Eretz Israel Museum",
-                  "text": "The Eretz Israel Museum is a large institution displaying archaeological and historical artifacts in the Ramat Gan area.",
-                  "category": "museum",
-                  "coords": [
-                        34.795991,
-                        32.102104
-                  ]
-            },
-            {
                   "name": "Ramat Gan Municipality",
                   "text": "The Ramat Gan Municipality building serves as the administrative center for the city.",
                   "category": "historical",
                   "coords": [
                         34.814294,
                         32.082575
-                  ]
-            },
-            {
-                  "name": "Tel Aviv-Yafo Municipality",
-                  "text": "The Tel Aviv-Yafo Municipality is a key administrative building located near the Ramat Gan area.",
-                  "category": "historical",
-                  "coords": [
-                        34.780583,
-                        32.081816
-                  ]
-            },
-            {
-                  "name": "Givataim Theatre",
-                  "text": "The Givataim Theatre is a local performing arts venue in the Ramat Gan area.",
-                  "category": "cultural",
-                  "coords": [
-                        34.803949,
-                        32.067192
                   ]
             },
             {
@@ -11959,15 +10024,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beit Russell",
-                  "text": "Beit Russell is a local theatre facility hosting cultural events in Ramat Gan.",
-                  "category": "cultural",
-                  "coords": [
-                        34.834221,
-                        32.068683
-                  ]
-            },
-            {
                   "name": "Great Synagogue",
                   "text": "The Great Synagogue is a major place of worship situated in Ramat Gan.",
                   "category": "religious",
@@ -11983,60 +10039,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.838331,
                         32.07847
-                  ]
-            },
-            {
-                  "name": "Rosh Zipor",
-                  "text": "Rosh Zipor is a local attraction offering outdoor recreation in Ramat Gan.",
-                  "category": "landmark",
-                  "coords": [
-                        34.80573,
-                        32.098585
-                  ]
-            },
-            {
-                  "name": "Haim Landau Bridge",
-                  "text": "A bridge named after Haim Landau in Gan.",
-                  "category": "landmark",
-                  "coords": [
-                        34.793316,
-                        32.072871
-                  ]
-            },
-            {
-                  "name": "Moda'i Bridge",
-                  "text": "Moda'i Bridge is a bridge infrastructure connecting different parts of Ramat Gan.",
-                  "category": "landmark",
-                  "coords": [
-                        34.798722,
-                        32.085096
-                  ]
-            },
-            {
-                  "name": "Kaktusim Garden",
-                  "text": "Kaktusim Garden is a landscaped area known for its cactus collection in Ramat Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.814402,
-                        32.100359
-                  ]
-            },
-            {
-                  "name": "Gazum Garden",
-                  "text": "A garden named Gazum in Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.814877,
-                        32.099156
-                  ]
-            },
-            {
-                  "name": "Kikar Hill",
-                  "text": "Kikar Hill is an elevated park offering green surroundings in Ramat Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.781958,
-                        32.094463
                   ]
             },
             {
@@ -12058,75 +10060,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Air Force Garden",
-                  "text": "Air Force Garden is a well-maintained park dedicated to public enjoyment in Ramat Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.807122,
-                        32.063299
-                  ]
-            },
-            {
-                  "name": "Volovelski Karni",
-                  "text": "A park named Volovelski Karni in Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.794807,
-                        32.081507
-                  ]
-            },
-            {
-                  "name": "David Park",
-                  "text": "David Park is a tranquil park offering green spaces in Ramat Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.830826,
-                        32.071722
-                  ]
-            },
-            {
-                  "name": "Gan Yakir",
-                  "text": "A small park named Yakir in Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.82678,
-                        32.067321
-                  ]
-            },
-            {
                   "name": "Gan Hamelech David",
                   "text": "Park named after King David in Gan.",
                   "category": "park",
                   "coords": [
                         34.813832,
                         32.086269
-                  ]
-            },
-            {
-                  "name": "Gan Dror",
-                  "text": "A public park with shaded paths in the garden town of Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.827379,
-                        32.065119
-                  ]
-            },
-            {
-                  "name": "Yaldei Teheran Garden",
-                  "text": "A garden commemorating the Jewish children from Tehran.",
-                  "category": "park",
-                  "coords": [
-                        34.805419,
-                        32.064684
-                  ]
-            },
-            {
-                  "name": "Yaldi Ha'Ganim Garden",
-                  "text": "Children’s garden named 'My Child of the Gardens' in Gan.",
-                  "category": "park",
-                  "coords": [
-                        34.814238,
-                        32.060319
                   ]
             },
             {
@@ -12139,30 +10078,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Luna Park",
-                  "text": "Luna Park is a major amusement and theme park located in the Ramat Gan area.",
-                  "category": "family",
-                  "coords": [
-                        34.812081,
-                        32.106587
-                  ]
-            },
-            {
                   "name": "David Labkovsky Center for Jewish Art",
                   "text": "Museum dedicated to Jewish art, named after David Labkovsky in Gan.",
                   "category": "museum",
                   "coords": [
                         34.821323,
                         32.077207
-                  ]
-            },
-            {
-                  "name": "The Israeli Museum.",
-                  "text": "The Israeli Museum in Ramat Gan offers various cultural and historical exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        34.799478,
-                        32.102891
                   ]
             }
       ]
@@ -15204,30 +13125,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pensioners House",
-                  "text": "Kulturzentrum für Senioren in Kfar Saba.",
-                  "category": "cultural",
-                  "coords": [
-                        34.888376,
-                        32.151414
-                  ]
-            },
-            {
                   "name": "Hod HaSharon Pumptrack",
                   "text": "Pumptrack für Fahrräder in Hod HaSharon (Kfar Saba).",
                   "category": "landmark",
                   "coords": [
                         34.90888,
                         32.162083
-                  ]
-            },
-            {
-                  "name": "Magdiel Synagogue",
-                  "text": "Die Synagoge im Stadtteil Magdiel von Kfar Saba.",
-                  "category": "religious",
-                  "coords": [
-                        34.90304,
-                        32.160634
                   ]
             },
             {
@@ -15395,30 +13298,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pensioners House",
-                  "text": "Idősek kulturális központja Kfar Sabában.",
-                  "category": "cultural",
-                  "coords": [
-                        34.888376,
-                        32.151414
-                  ]
-            },
-            {
                   "name": "Hod HaSharon Pumptrack",
                   "text": "Kerékpáros pumpapálya Hod HaSharonban (Kfar Saba).",
                   "category": "landmark",
                   "coords": [
                         34.90888,
                         32.162083
-                  ]
-            },
-            {
-                  "name": "Magdiel Synagogue",
-                  "text": "A magdieli zsinagóga Kfar Sabában.",
-                  "category": "religious",
-                  "coords": [
-                        34.90304,
-                        32.160634
                   ]
             },
             {
@@ -15586,30 +13471,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pensioners House",
-                  "text": "Centru cultural pentru seniori în Kfar Saba.",
-                  "category": "cultural",
-                  "coords": [
-                        34.888376,
-                        32.151414
-                  ]
-            },
-            {
                   "name": "Hod HaSharon Pumptrack",
                   "text": "Pumptrack pentru biciclete în Hod HaSharon (Kfar Saba).",
                   "category": "landmark",
                   "coords": [
                         34.90888,
                         32.162083
-                  ]
-            },
-            {
-                  "name": "Magdiel Synagogue",
-                  "text": "Sinagoga din cartierul Magdiel al Kfar Sabei.",
-                  "category": "religious",
-                  "coords": [
-                        34.90304,
-                        32.160634
                   ]
             },
             {
@@ -15705,15 +13572,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gan Menashe",
-                  "text": "Park with playgrounds and a pond in Kfar Saba.",
-                  "category": "park",
-                  "coords": [
-                        34.898093,
-                        32.195817
-                  ]
-            },
-            {
                   "name": "Municipal Gallery",
                   "text": "Municipal art gallery in Kfar Saba.",
                   "category": "cultural",
@@ -15777,30 +13635,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pensioners House",
-                  "text": "Cultural center for seniors in Kfar Saba.",
-                  "category": "cultural",
-                  "coords": [
-                        34.888376,
-                        32.151414
-                  ]
-            },
-            {
                   "name": "Hod HaSharon Pumptrack",
                   "text": "Cycling pumptrack in Hod HaSharon (Kfar Saba).",
                   "category": "landmark",
                   "coords": [
                         34.90888,
                         32.162083
-                  ]
-            },
-            {
-                  "name": "Magdiel Synagogue",
-                  "text": "The synagogue in the Magdiel neighborhood of Kfar Saba.",
-                  "category": "religious",
-                  "coords": [
-                        34.90304,
-                        32.160634
                   ]
             },
             {
@@ -15913,15 +13753,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Petting Zoo",
-                  "text": "Dieser lokale Streichelzoo bietet familienfreundliche Tierbegegnungen in Herzlia.",
-                  "category": "family",
-                  "coords": [
-                        34.85191,
-                        32.187671
-                  ]
-            },
-            {
                   "name": "Soldiers Memorial",
                   "text": "Das Soldiers Memorial ist ein Denkmal in Herzlia zu Ehren gefallener Militärangehöriger.",
                   "category": "historical",
@@ -15949,39 +13780,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Raanana Lehi Children",
-                  "text": "Denkmal für die Kinder der Lehi-Untergrundorganisation in Herzlia.",
-                  "category": "historical",
-                  "coords": [
-                        34.862005,
-                        32.177172
-                  ]
-            },
-            {
                   "name": "Herzl-Denkmal",
                   "text": "Denkmal für Theodor Herzl in Herzlia.",
                   "category": "historical",
                   "coords": [
                         34.811605,
                         32.159565
-                  ]
-            },
-            {
-                  "name": "Raanana Pumptrack",
-                  "text": "Pumptrack für Fahrräder in Herzlia.",
-                  "category": "landmark",
-                  "coords": [
-                        34.851065,
-                        32.186244
-                  ]
-            },
-            {
-                  "name": "Raanana-See",
-                  "text": "Künstlicher See in Herzlia, Teil eines Parks.",
-                  "category": "landmark",
-                  "coords": [
-                        34.847517,
-                        32.188376
                   ]
             },
             {
@@ -16041,15 +13845,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Petting Zoo",
-                  "text": "Ez a helyi állatsimogató családbarát állatos programokat kínál Herzliyában.",
-                  "category": "family",
-                  "coords": [
-                        34.85191,
-                        32.187671
-                  ]
-            },
-            {
                   "name": "Soldiers Memorial",
                   "text": "A Katonai Emlékmű egy herzliyai emlékmű, amely az elesett katonák előtt tiszteleg.",
                   "category": "historical",
@@ -16077,39 +13872,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Raanana Lehi Children",
-                  "text": "A Lehi földalatti szervezet gyermekeinek emlékműve Herzlijában.",
-                  "category": "historical",
-                  "coords": [
-                        34.862005,
-                        32.177172
-                  ]
-            },
-            {
                   "name": "Herzl-emlékmű",
                   "text": "Herzl Tivadar emlékműve Herzlijában.",
                   "category": "historical",
                   "coords": [
                         34.811605,
                         32.159565
-                  ]
-            },
-            {
-                  "name": "Raanana Pumptrack",
-                  "text": "Kerékpáros pumpapálya Herzlijában.",
-                  "category": "landmark",
-                  "coords": [
-                        34.851065,
-                        32.186244
-                  ]
-            },
-            {
-                  "name": "Raanana-tó",
-                  "text": "Mesterséges tó Herzlijában, egy park része.",
-                  "category": "landmark",
-                  "coords": [
-                        34.847517,
-                        32.188376
                   ]
             },
             {
@@ -16169,15 +13937,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Petting Zoo",
-                  "text": "Această grădină zoologică locală oferă întâlniri cu animale, potrivite pentru familii, în Herzliya.",
-                  "category": "family",
-                  "coords": [
-                        34.85191,
-                        32.187671
-                  ]
-            },
-            {
                   "name": "Soldiers Memorial",
                   "text": "Soldiers Memorial este un monument din Herzliya care onorează personalul militar căzut.",
                   "category": "historical",
@@ -16205,39 +13964,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Raanana Lehi Children",
-                  "text": "Monument dedicat copiilor organizației subterane Lehi în Herzliya.",
-                  "category": "historical",
-                  "coords": [
-                        34.862005,
-                        32.177172
-                  ]
-            },
-            {
                   "name": "Monumentul Herzl",
                   "text": "Monumentul lui Theodor Herzl în Herzliya.",
                   "category": "historical",
                   "coords": [
                         34.811605,
                         32.159565
-                  ]
-            },
-            {
-                  "name": "Raanana Pumptrack",
-                  "text": "Pumptrack pentru biciclete în Herzliya.",
-                  "category": "landmark",
-                  "coords": [
-                        34.851065,
-                        32.186244
-                  ]
-            },
-            {
-                  "name": "Lacul Raanana",
-                  "text": "Lac artificial în Herzliya, parte a unui parc.",
-                  "category": "landmark",
-                  "coords": [
-                        34.847517,
-                        32.188376
                   ]
             },
             {
@@ -16297,15 +14029,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Petting Zoo",
-                  "text": "This local petting zoo offers family-friendly animal encounters in Herzliya.",
-                  "category": "family",
-                  "coords": [
-                        34.85191,
-                        32.187671
-                  ]
-            },
-            {
                   "name": "Soldiers Memorial",
                   "text": "The Soldiers Memorial is a monument in Herzliya honoring fallen military personnel.",
                   "category": "historical",
@@ -16333,39 +14056,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Raanana Lehi Children",
-                  "text": "Monument to the children of the Lehi underground in Herzliya.",
-                  "category": "historical",
-                  "coords": [
-                        34.862005,
-                        32.177172
-                  ]
-            },
-            {
                   "name": "Herzl Monument",
                   "text": "Monument to Theodor Herzl in Herzliya.",
                   "category": "historical",
                   "coords": [
                         34.811605,
                         32.159565
-                  ]
-            },
-            {
-                  "name": "Raanana Pumptrack",
-                  "text": "Cycling pumptrack in Herzliya.",
-                  "category": "landmark",
-                  "coords": [
-                        34.851065,
-                        32.186244
-                  ]
-            },
-            {
-                  "name": "Raanana Lake",
-                  "text": "Artificial lake in Herzliya, part of a park.",
-                  "category": "landmark",
-                  "coords": [
-                        34.847517,
-                        32.188376
                   ]
             },
             {
@@ -20110,24 +17806,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Soldiers Memorial",
-                  "text": "Ein Denkmal für die gefallenen Soldaten aus Raanana.",
-                  "category": "historical",
-                  "coords": [
-                        34.851602,
-                        32.167774
-                  ]
-            },
-            {
-                  "name": "Gan HaMaginim",
-                  "text": "Ein Park, der den Verteidigern Israels gewidmet ist (in Raanana).",
-                  "category": "park",
-                  "coords": [
-                        34.898959,
-                        32.178841
-                  ]
-            },
-            {
                   "name": "Gan Menashe",
                   "text": "Gan Menashe ist ein historischer öffentlicher Park in der Stadt Ra’anana.",
                   "category": "park",
@@ -20211,24 +17889,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Soldiers Memorial",
-                  "text": "Emlékmű a raananai elesett katonák tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        34.851602,
-                        32.167774
-                  ]
-            },
-            {
-                  "name": "Gan HaMaginim",
-                  "text": "Egy park, amely Izrael védelmezőinek állít emléket (Raananában).",
-                  "category": "park",
-                  "coords": [
-                        34.898959,
-                        32.178841
-                  ]
-            },
-            {
                   "name": "Gan Menashe",
                   "text": "A Gan Menashe egy történelmi közpark Ra’anana városában.",
                   "category": "park",
@@ -20244,15 +17904,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.877219,
                         32.188894
-                  ]
-            },
-            {
-                  "name": "Municipal Gallery",
-                  "text": "Városi galéria kortárs izraeli művészek időszaki kiállításaival Raananában.",
-                  "category": "cultural",
-                  "coords": [
-                        34.899838,
-                        32.175909
                   ]
             },
             {
@@ -20309,24 +17960,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.85191,
                         32.187671
-                  ]
-            },
-            {
-                  "name": "Soldiers Memorial",
-                  "text": "Un monument în cinstea soldaților căzuți din Ra'anana.",
-                  "category": "historical",
-                  "coords": [
-                        34.851602,
-                        32.167774
-                  ]
-            },
-            {
-                  "name": "Gan HaMaginim",
-                  "text": "Un parc dedicat apărătorilor Israelului (în Ra'anana).",
-                  "category": "park",
-                  "coords": [
-                        34.898959,
-                        32.178841
                   ]
             },
             {
@@ -20413,24 +18046,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Soldiers Memorial",
-                  "text": "A monument honoring soldiers from Ra'anana who died in Israel's wars.",
-                  "category": "historical",
-                  "coords": [
-                        34.851602,
-                        32.167774
-                  ]
-            },
-            {
-                  "name": "Gan HaMaginim",
-                  "text": "A park dedicated to the defenders of Israel (in Ra'anana).",
-                  "category": "park",
-                  "coords": [
-                        34.898959,
-                        32.178841
-                  ]
-            },
-            {
                   "name": "Gan Menashe",
                   "text": "Gan Menashe is a scenic and historic public park located in the city of Ra’anana.",
                   "category": "park",
@@ -20446,15 +18061,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.877219,
                         32.188894
-                  ]
-            },
-            {
-                  "name": "Municipal Gallery",
-                  "text": "Municipal gallery with rotating exhibitions of contemporary Israeli artists in Raanana.",
-                  "category": "cultural",
-                  "coords": [
-                        34.899838,
-                        32.175909
                   ]
             },
             {
@@ -20805,15 +18411,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Yad LaBanim Cultural Center, Kfar Saba",
-                  "text": "Ein bedeutendes Kultur- und Theaterzentrum in Hod haScharon.",
-                  "category": "cultural",
-                  "coords": [
-                        34.905262,
-                        32.176698
-                  ]
-            },
-            {
                   "name": "The First Barrack",
                   "text": "Ein Museum, das sich den frühen Siedlungen in Hod haScharon widmet.",
                   "category": "museum",
@@ -20829,24 +18426,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.887197,
                         32.132434
-                  ]
-            },
-            {
-                  "name": "Maginim Park",
-                  "text": "Ein Park, der den Verteidigern Israels gewidmet ist (in der Scharonebene).",
-                  "category": "park",
-                  "coords": [
-                        34.898959,
-                        32.178841
-                  ]
-            },
-            {
-                  "name": "Memorial Garden",
-                  "text": "Garten in der Scharonebene zum Gedenken an die Kriegstoten.",
-                  "category": "park",
-                  "coords": [
-                        34.916314,
-                        32.172646
                   ]
             },
             {
@@ -20868,57 +18447,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Municipal Gallery",
-                  "text": "Kommunale Galerie mit Fokus auf regionale Künstler aus der Region HaSharon.",
-                  "category": "cultural",
-                  "coords": [
-                        34.899838,
-                        32.175909
-                  ]
-            },
-            {
-                  "name": "Kfar Saba Market Courtyard",
-                  "text": "Restaurierter Innenhof mit Geschäften, Cafés und kulturellen Veranstaltungen im alten HaSharon.",
-                  "category": "landmark",
-                  "coords": [
-                        34.910447,
-                        32.175471
-                  ]
-            },
-            {
-                  "name": "HaMoshava Square",
-                  "text": "Zentraler Platz mit einem Uhrturm und wöchentlichem Bauernmarkt in HaSharon.",
-                  "category": "landmark",
-                  "coords": [
-                        34.901578,
-                        32.168678
-                  ]
-            },
-            {
-                  "name": "Arim Mall",
-                  "text": "Einkaufszentrum auf zwei Ebenen mit einem Food-Court und einem Supermarkt in HaSharon.",
-                  "category": "landmark",
-                  "coords": [
-                        34.903812,
-                        32.177954
-                  ]
-            },
-            {
                   "name": "Pensioners House",
                   "text": "Kulturzentrum für Senioren mit Vorträgen, Workshops und einem Garten in HaSharon.",
                   "category": "cultural",
                   "coords": [
                         34.888376,
                         32.151414
-                  ]
-            },
-            {
-                  "name": "Hod HaSharon Pumptrack",
-                  "text": "Pumptrack-Strecke in Hod HaSharon mit Hindernissen für BMX- und Mountainbiker.",
-                  "category": "landmark",
-                  "coords": [
-                        34.90888,
-                        32.162083
                   ]
             },
             {
@@ -20938,15 +18472,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                         34.90304,
                         32.160634
                   ]
-            },
-            {
-                  "name": "Kfar Saba Town Hall",
-                  "text": "Das historische Rathaus von Kfar Saba in der Scharonebene.",
-                  "category": "historical",
-                  "coords": [
-                        34.91231,
-                        32.174649
-                  ]
             }
       ],
       "hu": [
@@ -20957,15 +18482,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.889217,
                         32.129742
-                  ]
-            },
-            {
-                  "name": "Yad LaBanim Cultural Center, Kfar Saba",
-                  "text": "Fontos kulturális központ és színház Hod haScharonban.",
-                  "category": "cultural",
-                  "coords": [
-                        34.905262,
-                        32.176698
                   ]
             },
             {
@@ -20987,24 +18503,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maginim Park",
-                  "text": "Egy park, amely Izrael védelmezőinek állít emléket (a Saron-síkságon).",
-                  "category": "park",
-                  "coords": [
-                        34.898959,
-                        32.178841
-                  ]
-            },
-            {
-                  "name": "Memorial Garden",
-                  "text": "Emlékkert a Saron-síkságon a háborús halottak tiszteletére.",
-                  "category": "park",
-                  "coords": [
-                        34.916314,
-                        32.172646
-                  ]
-            },
-            {
                   "name": "Hod HaSharon Ecological Park",
                   "text": "Nagy városi park tóval Hod HaScharonban.",
                   "category": "park",
@@ -21023,57 +18521,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Municipal Gallery",
-                  "text": "Önkormányzati galéria, amely a HaSharon régió művészeire összpontosít.",
-                  "category": "cultural",
-                  "coords": [
-                        34.899838,
-                        32.175909
-                  ]
-            },
-            {
-                  "name": "Kfar Saba Market Courtyard",
-                  "text": "Felújított belső udvar üzletekkel, kávézókkal és kulturális eseményekkel a régi HaSharonban.",
-                  "category": "landmark",
-                  "coords": [
-                        34.910447,
-                        32.175471
-                  ]
-            },
-            {
-                  "name": "HaMoshava Square",
-                  "text": "Központi tér óratoronnyal és heti termelői piaccal HaSharonban.",
-                  "category": "landmark",
-                  "coords": [
-                        34.901578,
-                        32.168678
-                  ]
-            },
-            {
-                  "name": "Arim Mall",
-                  "text": "Kétszintes bevásárlóközpont ételudvarral és szupermarkettel HaSharonban.",
-                  "category": "landmark",
-                  "coords": [
-                        34.903812,
-                        32.177954
-                  ]
-            },
-            {
                   "name": "Pensioners House",
                   "text": "Idősek kulturális központja előadásokkal, műhelyekkel és kerttel HaSharonban.",
                   "category": "cultural",
                   "coords": [
                         34.888376,
                         32.151414
-                  ]
-            },
-            {
-                  "name": "Hod HaSharon Pumptrack",
-                  "text": "Pump track pálya Hod HaSharonban akadályokkal BMX és hegyi kerékpárosok számára.",
-                  "category": "landmark",
-                  "coords": [
-                        34.90888,
-                        32.162083
                   ]
             },
             {
@@ -21093,15 +18546,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                         34.90304,
                         32.160634
                   ]
-            },
-            {
-                  "name": "Kfar Saba Town Hall",
-                  "text": "Kfar Saba történelmi városházája a Saron-síkságon.",
-                  "category": "historical",
-                  "coords": [
-                        34.91231,
-                        32.174649
-                  ]
             }
       ],
       "ro": [
@@ -21112,15 +18556,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.889217,
                         32.129742
-                  ]
-            },
-            {
-                  "name": "Yad LaBanim Cultural Center, Kfar Saba",
-                  "text": "Un centru cultural și teatru semnificativ în Hod haScharon.",
-                  "category": "cultural",
-                  "coords": [
-                        34.905262,
-                        32.176698
                   ]
             },
             {
@@ -21142,24 +18577,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maginim Park",
-                  "text": "Un parc dedicat apărătorilor Israelului (în câmpia Sharon).",
-                  "category": "park",
-                  "coords": [
-                        34.898959,
-                        32.178841
-                  ]
-            },
-            {
-                  "name": "Memorial Garden",
-                  "text": "Grădină în câmpia Sharon în memoria morților de război.",
-                  "category": "park",
-                  "coords": [
-                        34.916314,
-                        32.172646
-                  ]
-            },
-            {
                   "name": "Hod HaSharon Ecological Park",
                   "text": "Parcul urban mare cu un lac în Hod HaSharon.",
                   "category": "park",
@@ -21178,57 +18595,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Municipal Gallery",
-                  "text": "Galerie municipală cu accent pe artiști din regiunea HaSharon.",
-                  "category": "cultural",
-                  "coords": [
-                        34.899838,
-                        32.175909
-                  ]
-            },
-            {
-                  "name": "Kfar Saba Market Courtyard",
-                  "text": "Curte interioară restaurată cu magazine, cafenele și evenimente culturale în vechiul HaSharon.",
-                  "category": "landmark",
-                  "coords": [
-                        34.910447,
-                        32.175471
-                  ]
-            },
-            {
-                  "name": "HaMoshava Square",
-                  "text": "Piață centrală cu un turn cu ceas și o piață de fermieri săptămânală în HaSharon.",
-                  "category": "landmark",
-                  "coords": [
-                        34.901578,
-                        32.168678
-                  ]
-            },
-            {
-                  "name": "Arim Mall",
-                  "text": "Centru comercial pe două niveluri cu un food court și un supermarket în HaSharon.",
-                  "category": "landmark",
-                  "coords": [
-                        34.903812,
-                        32.177954
-                  ]
-            },
-            {
                   "name": "Pensioners House",
                   "text": "Centru cultural pentru seniori cu prelegeri, ateliere și o grădină în HaSharon.",
                   "category": "cultural",
                   "coords": [
                         34.888376,
                         32.151414
-                  ]
-            },
-            {
-                  "name": "Hod HaSharon Pumptrack",
-                  "text": "Pistă de pump track în Hod HaSharon cu obstacole pentru bicicliști BMX și mountain bike.",
-                  "category": "landmark",
-                  "coords": [
-                        34.90888,
-                        32.162083
                   ]
             },
             {
@@ -21248,15 +18620,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                         34.90304,
                         32.160634
                   ]
-            },
-            {
-                  "name": "Kfar Saba Town Hall",
-                  "text": "Primăria istorică a Kfar Sabei în câmpia Sharon.",
-                  "category": "historical",
-                  "coords": [
-                        34.91231,
-                        32.174649
-                  ]
             }
       ],
       "en": [
@@ -21267,15 +18630,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.889217,
                         32.129742
-                  ]
-            },
-            {
-                  "name": "Yad LaBanim Cultural Center, Kfar Saba",
-                  "text": "A significant cultural centre and theatre in Hod haScharon.",
-                  "category": "cultural",
-                  "coords": [
-                        34.905262,
-                        32.176698
                   ]
             },
             {
@@ -21297,24 +18651,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gan HaMaginim",
-                  "text": "A park dedicated to the defenders of Israel (in the Sharon plain).",
-                  "category": "park",
-                  "coords": [
-                        34.898959,
-                        32.178841
-                  ]
-            },
-            {
-                  "name": "Memorial Garden",
-                  "text": "Garden in the Sharon plain honoring local war dead.",
-                  "category": "park",
-                  "coords": [
-                        34.916314,
-                        32.172646
-                  ]
-            },
-            {
                   "name": "Hod Hasharon Park",
                   "text": "Large urban park with a lake in Hod Hasharon.",
                   "category": "park",
@@ -21333,57 +18669,12 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Municipal Gallery",
-                  "text": "Municipal gallery focusing on regional artists from the HaSharon area.",
-                  "category": "cultural",
-                  "coords": [
-                        34.899838,
-                        32.175909
-                  ]
-            },
-            {
-                  "name": "The Courtyard",
-                  "text": "Restored courtyard with shops, cafés, and cultural events in old HaSharon.",
-                  "category": "landmark",
-                  "coords": [
-                        34.910447,
-                        32.175471
-                  ]
-            },
-            {
-                  "name": "HaMoshava Square",
-                  "text": "Central square with a clock tower and a weekly farmers' market in HaSharon.",
-                  "category": "landmark",
-                  "coords": [
-                        34.901578,
-                        32.168678
-                  ]
-            },
-            {
-                  "name": "Arim Mall",
-                  "text": "Two-story shopping mall with a food court and a supermarket in HaSharon.",
-                  "category": "landmark",
-                  "coords": [
-                        34.903812,
-                        32.177954
-                  ]
-            },
-            {
                   "name": "Pensioners House",
                   "text": "Senior citizens' cultural center with lectures, workshops, and a garden in HaSharon.",
                   "category": "cultural",
                   "coords": [
                         34.888376,
                         32.151414
-                  ]
-            },
-            {
-                  "name": "Hod HaSharon Pumptrack",
-                  "text": "Pumptrack course in Hod HaSharon with obstacles for BMX and mountain bikers.",
-                  "category": "landmark",
-                  "coords": [
-                        34.90888,
-                        32.162083
                   ]
             },
             {
@@ -21402,15 +18693,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.90304,
                         32.160634
-                  ]
-            },
-            {
-                  "name": "Kfar Saba Town Hall",
-                  "text": "The historic town hall of Kfar Saba in the Sharon plain.",
-                  "category": "historical",
-                  "coords": [
-                        34.91231,
-                        32.174649
                   ]
             }
       ]
@@ -21636,42 +18918,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Star Of The Sea Beach",
-                  "text": "Ein sandiger Strand am Roten Meer in Eilat, benannt „Stern des Meeres“.",
-                  "category": "recreational",
-                  "coords": [
-                        34.964973,
-                        29.547635
-                  ]
-            },
-            {
-                  "name": "Neviot Beach",
-                  "text": "Ein ruhiger Strand mit Palmen in Eilat.",
-                  "category": "recreational",
-                  "coords": [
-                        34.962052,
-                        29.54864
-                  ]
-            },
-            {
-                  "name": "Sun Bay Beach",
-                  "text": "Ein goldsandiger Strand zum Sonnenbaden in Eilat.",
-                  "category": "recreational",
-                  "coords": [
-                        34.97017,
-                        29.546115
-                  ]
-            },
-            {
-                  "name": "Dekel Beach",
-                  "text": "Ein von Palmen gesäumter Strand in Eilat.",
-                  "category": "recreational",
-                  "coords": [
-                        34.947178,
-                        29.540478
-                  ]
-            },
-            {
                   "name": "Tarshish Beach",
                   "text": "Sandstrand am Roten Meer in Eilat.",
                   "category": "recreational",
@@ -21735,24 +18981,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Fishermen Beach",
-                  "text": "Felsiger Strand, der bei einheimischen Anglern und zum Schnorcheln an Korallenriffen beliebt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        34.953178,
-                        29.547029
-                  ]
-            },
-            {
-                  "name": "#S4",
-                  "text": "Schnorchelspot über seichten Korallengärten an der Südspitze von Eilat.",
-                  "category": "recreational",
-                  "coords": [
-                        34.948373,
-                        29.541604
-                  ]
-            },
-            {
                   "name": "Har Shahmon",
                   "text": "Berg in den Eilat-Bergen nordwestlich der Stadt.",
                   "category": "natural",
@@ -21777,24 +19005,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.965126,
                         29.551899
-                  ]
-            },
-            {
-                  "name": "Buggy",
-                  "text": "Buggy-Verleih für Wüsten-Safaris mit geführten Routen durch die Arava-Wüste.",
-                  "category": "landmark",
-                  "coords": [
-                        34.962921,
-                        29.561832
-                  ]
-            },
-            {
-                  "name": "Eilat Bird-Watching Park",
-                  "text": "Vogelbeobachtungspark mit Teichen, Verstecken und Zugvogelrouten am Nordstrand von Eilat.",
-                  "category": "landmark",
-                  "coords": [
-                        34.971728,
-                        29.572453
                   ]
             },
             {
@@ -21823,15 +19033,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                         34.940726,
                         29.525818
                   ]
-            },
-            {
-                  "name": "Ayla Oasis",
-                  "text": "Luxuriöser Resort-Komplex mit Marina, künstlichem Strand und Lagunen in Eilat.",
-                  "category": "landmark",
-                  "coords": [
-                        34.988716,
-                        29.553456
-                  ]
             }
       ],
       "hu": [
@@ -21842,42 +19043,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.95296,
                         29.551766
-                  ]
-            },
-            {
-                  "name": "Star Of The Sea Beach",
-                  "text": "Egy homokos strand a Vörös-tenger partján Eilatban, „A tenger csillaga” néven.",
-                  "category": "recreational",
-                  "coords": [
-                        34.964973,
-                        29.547635
-                  ]
-            },
-            {
-                  "name": "Neviot Beach",
-                  "text": "Egy nyugodt strand pálmafákkal Eilatban.",
-                  "category": "recreational",
-                  "coords": [
-                        34.962052,
-                        29.54864
-                  ]
-            },
-            {
-                  "name": "Sun Bay Beach",
-                  "text": "Egy aranyhomokos strand napozásra Eilatban.",
-                  "category": "recreational",
-                  "coords": [
-                        34.97017,
-                        29.546115
-                  ]
-            },
-            {
-                  "name": "Dekel Beach",
-                  "text": "Egy pálmafákkal szegélyezett strand Eilatban.",
-                  "category": "recreational",
-                  "coords": [
-                        34.947178,
-                        29.540478
                   ]
             },
             {
@@ -21944,24 +19109,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Fishermen Beach",
-                  "text": "Sziklás strand, amelyet a helyi horgászok kedvelnek, és korallzátonyokhoz való sznorkelezésre alkalmas.",
-                  "category": "recreational",
-                  "coords": [
-                        34.953178,
-                        29.547029
-                  ]
-            },
-            {
-                  "name": "#S4",
-                  "text": "Sznorkelezőhely sekély korallkertek felett Eilat déli csücskénél.",
-                  "category": "recreational",
-                  "coords": [
-                        34.948373,
-                        29.541604
-                  ]
-            },
-            {
                   "name": "Har Shahmon",
                   "text": "Hegy az Eilati-hegységben, a várostól északnyugatra.",
                   "category": "natural",
@@ -21986,24 +19133,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.965126,
                         29.551899
-                  ]
-            },
-            {
-                  "name": "Buggy",
-                  "text": "Buggy bérlés sivatagi szafarikhoz vezetett útvonalakkal az Arava-sivatagon keresztül.",
-                  "category": "landmark",
-                  "coords": [
-                        34.962921,
-                        29.561832
-                  ]
-            },
-            {
-                  "name": "Eilat Bird-Watching Park",
-                  "text": "Madármegfigyelő park tavakkal, leshelyekkel és vonulási útvonalakkal Eilat északi partján.",
-                  "category": "landmark",
-                  "coords": [
-                        34.971728,
-                        29.572453
                   ]
             },
             {
@@ -22032,15 +19161,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                         34.940726,
                         29.525818
                   ]
-            },
-            {
-                  "name": "Ayla Oasis",
-                  "text": "Luxus üdülőkomplexum kikötővel, mesterséges stranddal és lagúnákkal Eilatban.",
-                  "category": "landmark",
-                  "coords": [
-                        34.988716,
-                        29.553456
-                  ]
             }
       ],
       "ro": [
@@ -22051,42 +19171,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.95296,
                         29.551766
-                  ]
-            },
-            {
-                  "name": "Star Of The Sea Beach",
-                  "text": "O plajă nisipoasă pe Marea Roșie în Eilat, numită „Steaua Mării”.",
-                  "category": "recreational",
-                  "coords": [
-                        34.964973,
-                        29.547635
-                  ]
-            },
-            {
-                  "name": "Neviot Beach",
-                  "text": "O plajă liniștită cu palmieri în Eilat.",
-                  "category": "recreational",
-                  "coords": [
-                        34.962052,
-                        29.54864
-                  ]
-            },
-            {
-                  "name": "Sun Bay Beach",
-                  "text": "O plajă cu nisip auriu pentru plajă în Eilat.",
-                  "category": "recreational",
-                  "coords": [
-                        34.97017,
-                        29.546115
-                  ]
-            },
-            {
-                  "name": "Dekel Beach",
-                  "text": "O plajă mărginită de palmieri în Eilat.",
-                  "category": "recreational",
-                  "coords": [
-                        34.947178,
-                        29.540478
                   ]
             },
             {
@@ -22153,24 +19237,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Fishermen Beach",
-                  "text": "Plajă stâncoasă populară printre pescarii locali și pentru snorkeling la recife de corali.",
-                  "category": "recreational",
-                  "coords": [
-                        34.953178,
-                        29.547029
-                  ]
-            },
-            {
-                  "name": "#S4",
-                  "text": "Loc de snorkeling peste grădini de corali puțin adânci la vârful sudic al Eilatului.",
-                  "category": "recreational",
-                  "coords": [
-                        34.948373,
-                        29.541604
-                  ]
-            },
-            {
                   "name": "Har Shahmon",
                   "text": "Munte în Munții Eilat, la nord-vest de oraș.",
                   "category": "natural",
@@ -22195,24 +19261,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.965126,
                         29.551899
-                  ]
-            },
-            {
-                  "name": "Buggy",
-                  "text": "Închiriere de buggy pentru safariuri în deșert cu trasee ghidate prin Deșertul Arava.",
-                  "category": "landmark",
-                  "coords": [
-                        34.962921,
-                        29.561832
-                  ]
-            },
-            {
-                  "name": "Eilat Bird-Watching Park",
-                  "text": "Parcul de observare a păsărilor cu iazuri, ascunzișuri și rute de migrație pe plaja de nord a Eilatului.",
-                  "category": "landmark",
-                  "coords": [
-                        34.971728,
-                        29.572453
                   ]
             },
             {
@@ -22241,15 +19289,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                         34.940726,
                         29.525818
                   ]
-            },
-            {
-                  "name": "Ayla Oasis",
-                  "text": "Complex de stațiune de lux cu marină, plajă artificială și lagune în Eilat.",
-                  "category": "landmark",
-                  "coords": [
-                        34.988716,
-                        29.553456
-                  ]
             }
       ],
       "en": [
@@ -22260,42 +19299,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.95296,
                         29.551766
-                  ]
-            },
-            {
-                  "name": "Star Of The Sea Beach",
-                  "text": "A sandy beach on the Red Sea in Eilat, named 'Star of the Sea'.",
-                  "category": "recreational",
-                  "coords": [
-                        34.964973,
-                        29.547635
-                  ]
-            },
-            {
-                  "name": "Neviot Beach",
-                  "text": "A calm beach with palm trees in Eilat.",
-                  "category": "recreational",
-                  "coords": [
-                        34.962052,
-                        29.54864
-                  ]
-            },
-            {
-                  "name": "Sun Bay Beach",
-                  "text": "A golden-sand beach for sunbathing in Eilat.",
-                  "category": "recreational",
-                  "coords": [
-                        34.97017,
-                        29.546115
-                  ]
-            },
-            {
-                  "name": "Dekel Beach",
-                  "text": "A palm-fringed beach in Eilat.",
-                  "category": "recreational",
-                  "coords": [
-                        34.947178,
-                        29.540478
                   ]
             },
             {
@@ -22362,24 +19365,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Fishermen Beach",
-                  "text": "Rocky beach popular with local fishermen and for snorkeling on coral reefs.",
-                  "category": "recreational",
-                  "coords": [
-                        34.953178,
-                        29.547029
-                  ]
-            },
-            {
-                  "name": "#S4",
-                  "text": "Snorkeling spot over shallow coral gardens at the southern tip of Eilat.",
-                  "category": "recreational",
-                  "coords": [
-                        34.948373,
-                        29.541604
-                  ]
-            },
-            {
                   "name": "Har Shahmon",
                   "text": "Mountain in the Eilat Mountains northwest of the city.",
                   "category": "natural",
@@ -22407,24 +19392,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Buggy",
-                  "text": "Buggy rentals for desert safaris with guided routes through the Arava Desert.",
-                  "category": "landmark",
-                  "coords": [
-                        34.962921,
-                        29.561832
-                  ]
-            },
-            {
-                  "name": "Eilat Bird-Watching Park",
-                  "text": "Bird-watching park with ponds, hides, and migration routes on Eilat's north beach.",
-                  "category": "landmark",
-                  "coords": [
-                        34.971728,
-                        29.572453
-                  ]
-            },
-            {
                   "name": "Farm RZRs",
                   "text": "ATV rentals for off-road rides through the desert valleys around Eilat.",
                   "category": "landmark",
@@ -22449,15 +19416,6 @@ export const poiExtraIsraelCitiesV2: POI[] = [
                   "coords": [
                         34.940726,
                         29.525818
-                  ]
-            },
-            {
-                  "name": "Ayla Oasis",
-                  "text": "Luxury resort complex with a marina, artificial beach, and lagoons in Eilat.",
-                  "category": "landmark",
-                  "coords": [
-                        34.988716,
-                        29.553456
                   ]
             }
       ]

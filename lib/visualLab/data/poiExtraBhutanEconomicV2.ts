@@ -1260,15 +1260,6 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "dagachhu-hydropower-plant-economic-v2", "sights": {
       "de": [
             {
-                  "name": "MSTF",
-                  "text": "Ein Aussichtspunkt mit weitem Blick über das Dagachhu-Flusstal und das Wasserkraftwerk.",
-                  "category": "natural",
-                  "coords": [
-                        89.880599,
-                        27.073865
-                  ]
-            },
-            {
                   "name": "Ta Dzong",
                   "text": "Ursprünglich ein Wachturm, dient dieses Bauwerk heute als heilige Kultstätte über dem Bezirk.",
                   "category": "religious",
@@ -1342,15 +1333,6 @@ export const poiExtraBhutanEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "MSTF",
-                  "text": "Kilátópont, ahonnan pazar kilátás nyílik a Dagachhu-folyó völgyére és a vízerőműre.",
-                  "category": "natural",
-                  "coords": [
-                        89.880599,
-                        27.073865
-                  ]
-            },
             {
                   "name": "Ta Dzong",
                   "text": "Az eredetileg őrtoronyként funkcionáló építmény ma szent istentiszteleti helyként szolgál.",
@@ -1426,15 +1408,6 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "MSTF",
-                  "text": "Un punct de observație care oferă vederi panoramice asupra văii râului Dagachhu și a hidrocentralei.",
-                  "category": "natural",
-                  "coords": [
-                        89.880599,
-                        27.073865
-                  ]
-            },
-            {
                   "name": "Ta Dzong",
                   "text": "Inițial un turn de veghe, această structură servește acum ca un lăcaș de cult sacru.",
                   "category": "religious",
@@ -1508,15 +1481,6 @@ export const poiExtraBhutanEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "MSTF",
-                  "text": "A vantage point offering sweeping views of the Dagachhu river valley and the hydropower plant.",
-                  "category": "natural",
-                  "coords": [
-                        89.880599,
-                        27.073865
-                  ]
-            },
             {
                   "name": "Ta Dzong",
                   "text": "Originally a watchtower, this structure now serves as a sacred place of worship overlooking the district.",
@@ -1841,15 +1805,6 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     id: "motanga-industrial-park-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Dewangiri",
-                  "text": "Die historischen Ruinen einer alten Siedlung in den Hügeln nahe dem Industriegebiet Motanga.",
-                  "category": "historical",
-                  "coords": [
-                        91.4646,
-                        26.866487
-                  ]
-            },
-            {
                   "name": "Jangchu Chhorten",
                   "text": "Ein traditioneller weißer buddhistischer Stupa, der als spirituelles Wahrzeichen in der Nähe von Motanga dient.",
                   "category": "landmark",
@@ -1878,15 +1833,6 @@ export const poiExtraBhutanEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Dewangiri",
-                  "text": "Egy ősi település történelmi romjai a Motanga ipari terület melletti dombokon.",
-                  "category": "historical",
-                  "coords": [
-                        91.4646,
-                        26.866487
-                  ]
-            },
             {
                   "name": "Jangchu Chhorten",
                   "text": "Egy hagyományos fehér buddhista sztúpa, amely spirituális jelképként szolgál Motanga környékén.",
@@ -1917,15 +1863,6 @@ export const poiExtraBhutanEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Dewangiri",
-                  "text": "Ruinele istorice ale unei așezări antice situate pe dealurile de lângă zona industrială Motanga.",
-                  "category": "historical",
-                  "coords": [
-                        91.4646,
-                        26.866487
-                  ]
-            },
-            {
                   "name": "Jangchu Chhorten",
                   "text": "O stupă budistă albă tradițională care servește ca reper spiritual lângă zona Motanga.",
                   "category": "landmark",
@@ -1954,15 +1891,6 @@ export const poiExtraBhutanEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Dewangiri",
-                  "text": "The historical ruins of an ancient settlement located on the hills near the Motanga industrial area.",
-                  "category": "historical",
-                  "coords": [
-                        91.4646,
-                        26.866487
-                  ]
-            },
             {
                   "name": "Jangchu Chhorten",
                   "text": "A traditional white Buddhist stupa serving as a spiritual landmark near the Motanga area.",

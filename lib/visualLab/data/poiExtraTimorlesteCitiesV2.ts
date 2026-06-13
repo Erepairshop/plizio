@@ -635,24 +635,6 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     id: "lospalos-cities-v2", "sights": {
       "de": [
             {
-                  "name": "New market",
-                  "text": "Ein lokaler Marktplatz in Lospalos, der als Zentrum für Handel und Begegnung dient.",
-                  "category": "landmark",
-                  "coords": [
-                        127.003503,
-                        -8.51095
-                  ]
-            },
-            {
-                  "name": "Fataluku House",
-                  "text": "Ein traditionelles Haus der Fataluku in Lospalos, bekannt für seine charakteristische Architektur.",
-                  "category": "landmark",
-                  "coords": [
-                        126.998897,
-                        -8.521876
-                  ]
-            },
-            {
                   "name": "Herois",
                   "text": "Ein Denkmal in Lospalos, das den Helden der Region gewidmet ist.",
                   "category": "historical",
@@ -663,24 +645,6 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "New market",
-                  "text": "Helyi piactér Lospalosban, amely a kereskedelem és a találkozások központjaként szolgál.",
-                  "category": "landmark",
-                  "coords": [
-                        127.003503,
-                        -8.51095
-                  ]
-            },
-            {
-                  "name": "Fataluku House",
-                  "text": "Egy tradicionális fataluku ház Lospalosban, jellegzetes építészetéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        126.998897,
-                        -8.521876
-                  ]
-            },
             {
                   "name": "Herois",
                   "text": "Emlékmű Lospalosban, amelyet a régió hőseinek szenteltek.",
@@ -693,24 +657,6 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "New market",
-                  "text": "O piață locală în Lospalos, care servește ca centru pentru comerț și întâlniri.",
-                  "category": "landmark",
-                  "coords": [
-                        127.003503,
-                        -8.51095
-                  ]
-            },
-            {
-                  "name": "Fataluku House",
-                  "text": "O casă tradițională Fataluku din Lospalos, cunoscută pentru arhitectura sa caracteristică.",
-                  "category": "landmark",
-                  "coords": [
-                        126.998897,
-                        -8.521876
-                  ]
-            },
-            {
                   "name": "Herois",
                   "text": "Un monument în Lospalos dedicat eroilor regiunii.",
                   "category": "historical",
@@ -721,24 +667,6 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "New market",
-                  "text": "A local marketplace in Lospalos serving as a center for trade and social gathering.",
-                  "category": "landmark",
-                  "coords": [
-                        127.003503,
-                        -8.51095
-                  ]
-            },
-            {
-                  "name": "Fataluku House",
-                  "text": "A traditional Fataluku house in Lospalos, known for its distinctive architecture.",
-                  "category": "landmark",
-                  "coords": [
-                        126.998897,
-                        -8.521876
-                  ]
-            },
             {
                   "name": "Herois",
                   "text": "A monument in Lospalos dedicated to the heroes of the region.",
@@ -1330,50 +1258,10 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
   },
   {
     id: "aileu-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Jardim ADS Massacre do Aileu",
-                  "text": "Gedenkgarten für das Massaker von Aileu, historische Stätte.",
-                  "category": "historical",
-                  "coords": [
-                        125.567365,
-                        -8.731301
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Jardim ADS Massacre do Aileu",
-                  "text": "Emlékkert az aileui mészárlásnak, történelmi hely.",
-                  "category": "historical",
-                  "coords": [
-                        125.567365,
-                        -8.731301
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Jardim ADS Massacre do Aileu",
-                  "text": "Grădină memorială pentru masacrul de la Aileu, loc istoric.",
-                  "category": "historical",
-                  "coords": [
-                        125.567365,
-                        -8.731301
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Jardim ADS Massacre do Aileu",
-                  "text": "A memorial garden for the Aileu massacre, a historical site.",
-                  "category": "historical",
-                  "coords": [
-                        125.567365,
-                        -8.731301
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "TL-AL",
@@ -2042,15 +1930,6 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
                         125.04361,
                         -8.969515
                   ]
-            },
-            {
-                  "name": "old portuguese barracks;Former Portuguese garrison (ruins)",
-                  "text": "Ruinen einer alten portugiesischen Kaserne in Balibo.",
-                  "category": "historical",
-                  "coords": [
-                        125.045204,
-                        -8.969838
-                  ]
             }
       ],
       "hu": [
@@ -2061,15 +1940,6 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
                   "coords": [
                         125.04361,
                         -8.969515
-                  ]
-            },
-            {
-                  "name": "old portuguese barracks;Former Portuguese garrison (ruins)",
-                  "text": "Egy régi portugál laktanya romjai Balibóban.",
-                  "category": "historical",
-                  "coords": [
-                        125.045204,
-                        -8.969838
                   ]
             }
       ],
@@ -2082,15 +1952,6 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
                         125.04361,
                         -8.969515
                   ]
-            },
-            {
-                  "name": "old portuguese barracks;Former Portuguese garrison (ruins)",
-                  "text": "Ruinele unei vechi cazărmi portugheze în Balibo.",
-                  "category": "historical",
-                  "coords": [
-                        125.045204,
-                        -8.969838
-                  ]
             }
       ],
       "en": [
@@ -2101,15 +1962,6 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
                   "coords": [
                         125.04361,
                         -8.969515
-                  ]
-            },
-            {
-                  "name": "old portuguese barracks;Former Portuguese garrison (ruins)",
-                  "text": "Ruins of a former Portuguese barracks in Balibo.",
-                  "category": "historical",
-                  "coords": [
-                        125.045204,
-                        -8.969838
                   ]
             }
       ]

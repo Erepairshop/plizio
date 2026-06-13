@@ -3433,15 +3433,6 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
     id: "russia-catherine-palace-history-v2", "sights": {
       "de": [
             {
-                  "name": "Alexanderpalast",
-                  "text": "Ein ehemaliger kaiserlicher Palast beim Katharinenpalast, der heute als Museum dient.",
-                  "category": "museum",
-                  "coords": [
-                        30.392877,
-                        59.721156
-                  ]
-            },
-            {
                   "name": "Kameronova galereia",
                   "text": "Eine klassizistische Galerie im Katharinenpark, entworfen vom Architekten Charles Cameron.",
                   "category": "museum",
@@ -3469,30 +3460,12 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Tsarskosel'skii arsenal",
-                  "text": "Ein Museum im Katharinenpalast, das eine umfangreiche Sammlung historischer kaiserlicher Waffen und Rüstungen zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        30.377538,
-                        59.721783
-                  ]
-            },
-            {
                   "name": "Dom-muzei P. P. Chistiakova",
                   "text": "Das ehemalige Wohnhaus und Atelier des einflussreichen russischen Malers und Lehrers Pawel Tschistjakow, heute ein Museum.",
                   "category": "museum",
                   "coords": [
                         30.426301,
                         59.713087
-                  ]
-            },
-            {
-                  "name": "Muzei khramov Tsarskosel'skogo blagochiniia",
-                  "text": "Ein Museum, das der Geschichte und Architektur der Kirchen im kirchlichen Bezirk Zarskoje Selo gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        30.406938,
-                        59.720547
                   ]
             },
             {
@@ -3503,36 +3476,9 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                         30.413535,
                         59.697937
                   ]
-            },
-            {
-                  "name": "Pavliny i utki",
-                  "text": "Ein kleiner Tierbereich mit Pfauen und Enten in der Nähe des Katharinenpalasts.",
-                  "category": "recreational",
-                  "coords": [
-                        30.380007,
-                        59.726912
-                  ]
-            },
-            {
-                  "name": "Bania No. 5",
-                  "text": "Ein öffentliches Bad in der Nähe des Katharinenpalasts, bekannt für seine traditionellen Einrichtungen.",
-                  "category": "recreational",
-                  "coords": [
-                        30.345846,
-                        59.72929
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Aleksandrovskii dvorets",
-                  "text": "Egykori császári palota a Katalin-palotánál, amely ma múzeumként működik.",
-                  "category": "museum",
-                  "coords": [
-                        30.392877,
-                        59.721156
-                  ]
-            },
             {
                   "name": "Kameronova galereia",
                   "text": "Klasszicista galéria a Katalin-parkban, amelyet Charles Cameron építész tervezett.",
@@ -3561,30 +3507,12 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Tsarskosel'skii arsenal",
-                  "text": "A Katalin-palotában található múzeum, amely történelmi császári fegyverek és páncélok széles gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        30.377538,
-                        59.721783
-                  ]
-            },
-            {
                   "name": "Dom-muzei P. P. Chistiakova",
                   "text": "Pavel Csistyakov befolyásos orosz festő és tanár egykori otthona és műterme, amely ma múzeumként működik.",
                   "category": "museum",
                   "coords": [
                         30.426301,
                         59.713087
-                  ]
-            },
-            {
-                  "name": "Muzei khramov Tsarskosel'skogo blagochiniia",
-                  "text": "A Carszkoje Szelo-i esperesség templomainak történetét és építészetét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        30.406938,
-                        59.720547
                   ]
             },
             {
@@ -3595,36 +3523,9 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                         30.413535,
                         59.697937
                   ]
-            },
-            {
-                  "name": "Pavliny i utki",
-                  "text": "Kis állatkert pávákkal és kacsákkal a Katalin-palota közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        30.380007,
-                        59.726912
-                  ]
-            },
-            {
-                  "name": "Bania No. 5",
-                  "text": "Nyilvános fürdő a Katalin-palota közelében, amely hagyományos szolgáltatásairól ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        30.345846,
-                        59.72929
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Aleksandrovskii dvorets",
-                  "text": "Un fost palat imperial de lângă Palatul Ecaterina, care astăzi servește ca muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        30.392877,
-                        59.721156
-                  ]
-            },
             {
                   "name": "Kameronova galereia",
                   "text": "O galerie clasicistă în Parcul Ecaterinei, proiectată de arhitectul Charles Cameron.",
@@ -3653,30 +3554,12 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Tsarskosel'skii arsenal",
-                  "text": "Un muzeu din Palatul Ecaterina care expune o colecție vastă de arme și armuri imperiale istorice.",
-                  "category": "museum",
-                  "coords": [
-                        30.377538,
-                        59.721783
-                  ]
-            },
-            {
                   "name": "Dom-muzei P. P. Chistiakova",
                   "text": "Fosta casă și atelierul influentului pictor și profesor rus Pavel Cistiakov, astăzi muzeu.",
                   "category": "museum",
                   "coords": [
                         30.426301,
                         59.713087
-                  ]
-            },
-            {
-                  "name": "Muzei khramov Tsarskosel'skogo blagochiniia",
-                  "text": "Un muzeu dedicat istoriei și arhitecturii bisericilor din cadrul protopopiatului Țarskoe Selo.",
-                  "category": "museum",
-                  "coords": [
-                        30.406938,
-                        59.720547
                   ]
             },
             {
@@ -3687,36 +3570,9 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                         30.413535,
                         59.697937
                   ]
-            },
-            {
-                  "name": "Pavliny i utki",
-                  "text": "O mică zonă cu animale, cu păuni și rațe, în apropierea Palatului Ecaterina.",
-                  "category": "recreational",
-                  "coords": [
-                        30.380007,
-                        59.726912
-                  ]
-            },
-            {
-                  "name": "Bania No. 5",
-                  "text": "O baie publică lângă Palatul Ecaterina, cunoscută pentru facilitățile sale tradiționale.",
-                  "category": "recreational",
-                  "coords": [
-                        30.345846,
-                        59.72929
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Alexander Palace",
-                  "text": "A former imperial palace near the Catherine Palace, which now serves as a museum.",
-                  "category": "museum",
-                  "coords": [
-                        30.392877,
-                        59.721156
-                  ]
-            },
             {
                   "name": "Cameron gallery",
                   "text": "A classicist gallery in the Catherine Park, designed by architect Charles Cameron.",
@@ -3745,15 +3601,6 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "The Imperial Arms Collection",
-                  "text": "A museum in the Catherine Palace showcasing a vast collection of historic imperial weaponry and armor.",
-                  "category": "museum",
-                  "coords": [
-                        30.377538,
-                        59.721783
-                  ]
-            },
-            {
                   "name": "The P.P. Chistyakov House-Museum",
                   "text": "The former home and studio of the influential Russian painter and teacher Pavel Chistyakov, now a museum.",
                   "category": "museum",
@@ -3763,39 +3610,12 @@ imageHint: "Winter Palace Hermitage Museum St Petersburg",
                   ]
             },
             {
-                  "name": "Museum of churches of the Tsarskoye Selo deanery",
-                  "text": "A museum dedicated to the history and architecture of the churches within the Tsarskoye Selo ecclesiastical district.",
-                  "category": "museum",
-                  "coords": [
-                        30.406938,
-                        59.720547
-                  ]
-            },
-            {
                   "name": "Bassein",
                   "text": "A swimming pool near the Catherine Palace, offering recreation in a historic setting.",
                   "category": "recreational",
                   "coords": [
                         30.413535,
                         59.697937
-                  ]
-            },
-            {
-                  "name": "Pavliny i utki",
-                  "text": "A small animal area featuring peacocks and ducks near the Catherine Palace.",
-                  "category": "recreational",
-                  "coords": [
-                        30.380007,
-                        59.726912
-                  ]
-            },
-            {
-                  "name": "Bania No. 5",
-                  "text": "A public bath near the Catherine Palace, known for its traditional facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        30.345846,
-                        59.72929
                   ]
             }
       ]
@@ -5082,15 +4902,6 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   ]
             },
             {
-                  "name": "Dom-muzei P. P. Chistiakova",
-                  "text": "Ein Museum, das dem Leben und Werk des Künstlers Pawel Tschistjakow gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        30.426301,
-                        59.713087
-                  ]
-            },
-            {
                   "name": "Pavlovskii park",
                   "text": "Ein weitläufiger Landschaftspark im englischen Stil, der das Schloss Pawlowsk umgibt.",
                   "category": "park",
@@ -5106,15 +4917,6 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   "coords": [
                         30.453334,
                         59.689112
-                  ]
-            },
-            {
-                  "name": "Bassein",
-                  "text": "Schwimmbecken in der Nähe des Pawlowsker Palastes.",
-                  "category": "recreational",
-                  "coords": [
-                        30.413535,
-                        59.697937
                   ]
             }
       ],
@@ -5138,15 +4940,6 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   ]
             },
             {
-                  "name": "Dom-muzei P. P. Chistiakova",
-                  "text": "Pavel Csisztyakov művész életének és munkásságának szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        30.426301,
-                        59.713087
-                  ]
-            },
-            {
                   "name": "Pavlovskii park",
                   "text": "A pavlovszki palotát körülvevő hatalmas, angol stílusú tájképi park.",
                   "category": "park",
@@ -5162,15 +4955,6 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   "coords": [
                         30.453334,
                         59.689112
-                  ]
-            },
-            {
-                  "name": "Bassein",
-                  "text": "Úszómedence a Pavlovszki-palota közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        30.413535,
-                        59.697937
                   ]
             }
       ],
@@ -5194,15 +4978,6 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   ]
             },
             {
-                  "name": "Dom-muzei P. P. Chistiakova",
-                  "text": "Un muzeu dedicat vieții și operei artistului Pavel Cisteakov.",
-                  "category": "museum",
-                  "coords": [
-                        30.426301,
-                        59.713087
-                  ]
-            },
-            {
                   "name": "Pavlovskii park",
                   "text": "Un vast parc peisagistic care înconjoară palatul Pavlovsk, proiectat în stil englezesc.",
                   "category": "park",
@@ -5218,15 +4993,6 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   "coords": [
                         30.453334,
                         59.689112
-                  ]
-            },
-            {
-                  "name": "Bassein",
-                  "text": "Piscină situată în apropierea Palatului Pavlovsk.",
-                  "category": "recreational",
-                  "coords": [
-                        30.413535,
-                        59.697937
                   ]
             }
       ],
@@ -5250,15 +5016,6 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   ]
             },
             {
-                  "name": "The P.P. Chistyakov House-Museum",
-                  "text": "A museum dedicated to the life and work of the artist Pavel Chistyakov.",
-                  "category": "museum",
-                  "coords": [
-                        30.426301,
-                        59.713087
-                  ]
-            },
-            {
                   "name": "Pavlovsk Park",
                   "text": "A vast landscape park surrounding the Pavlovsk Palace, designed in the English style.",
                   "category": "park",
@@ -5274,15 +5031,6 @@ imageHint: "Gatchina Palace and park St Petersburg",
                   "coords": [
                         30.453334,
                         59.689112
-                  ]
-            },
-            {
-                  "name": "Bassein",
-                  "text": "Swimming pool facility located near the Pavlovsk Palace.",
-                  "category": "recreational",
-                  "coords": [
-                        30.413535,
-                        59.697937
                   ]
             }
       ]
@@ -6444,24 +6192,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Kraevedcheskii muzei",
-                  "text": "Das Museum für Geschichte und Archäologie des Urals ist ein Heimatmuseum in Jekaterinburg, das die regionale Geschichte erforscht.",
-                  "category": "museum",
-                  "coords": [
-                        60.622421,
-                        56.840853
-                  ]
-            },
-            {
-                  "name": "Muzei kukol i detskoi knigi <<Strana chudes>>",
-                  "text": "Das Museum für Puppen und Kinderbücher „Wunderland“ ist ein einzigartiges Literatur- und Kulturmuseum in Jekaterinburg.",
-                  "category": "museum",
-                  "coords": [
-                        60.606447,
-                        56.843381
-                  ]
-            },
-            {
                   "name": "Dom-muzei D. N. Mamina-Sibiriaka",
                   "text": "Das D. N. Mamin-Sibirjak-Gedenkhausmuseum ist ein Literaturmuseum in Jekaterinburg, das dem bekannten Ural-Schriftsteller gewidmet ist.",
                   "category": "museum",
@@ -6480,30 +6210,12 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Muzei istorii Ekaterinburga",
-                  "text": "Das Museum der Geschichte von Jekaterinburg dokumentiert die Stadtentwicklung und die Sozialgeschichte Jekaterinburgs.",
-                  "category": "museum",
-                  "coords": [
-                        60.611312,
-                        56.840729
-                  ]
-            },
-            {
                   "name": "Nev'ianskaia ikona",
                   "text": "Das Museum der Newjansker Ikonen in Jekaterinburg widmet sich der einzigartigen altgläubigen Ikonenmalerei-Schule des Urals.",
                   "category": "museum",
                   "coords": [
                         60.615147,
                         56.833564
-                  ]
-            },
-            {
-                  "name": "Muzei Vysotskogo",
-                  "text": "Das Wladimir-Wyssozki-Museum in Jekaterinburg ehrt den legendären russischen Sänger, Dichter und Schauspieler.",
-                  "category": "museum",
-                  "coords": [
-                        60.614302,
-                        56.835977
                   ]
             },
             {
@@ -6516,30 +6228,12 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Muzei arkhitektury i dizaina UGAKhA",
-                  "text": "Das Museum für Architektur und Design in Jekaterinburg zeigt Ausstellungen zur Industriearchitektur des Urals und zu modernem Design.",
-                  "category": "museum",
-                  "coords": [
-                        60.605652,
-                        56.835907
-                  ]
-            },
-            {
                   "name": "Muzei izobrazitel'nykh iskusstv",
                   "text": "Das Jekaterinburger Museum der Bildenden Künste beherbergt eine bedeutende Sammlung russischer Gemälde und komplexer Eisenarbeiten.",
                   "category": "museum",
                   "coords": [
                         60.60324,
                         56.835181
-                  ]
-            },
-            {
-                  "name": "Sverdlovskii oblastnoi kraevedcheskii muzei",
-                  "text": "Das regionale Heimatmuseum von Swerdlowsk in Jekaterinburg enthält umfangreiche historische und naturkundliche Exponate, darunter das Schigir-Idol.",
-                  "category": "museum",
-                  "coords": [
-                        60.602915,
-                        56.834114
                   ]
             },
             {
@@ -6576,24 +6270,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         60.606867,
                         56.842442
-                  ]
-            },
-            {
-                  "name": "Dom Metenkova",
-                  "text": "Das Metenkow-Haus in Jekaterinburg ist ein Fotomuseum, das sich im ehemaligen Wohnsitz eines berühmten lokalen Fotografen befindet.",
-                  "category": "museum",
-                  "coords": [
-                        60.611025,
-                        56.841974
-                  ]
-            },
-            {
-                  "name": "Khudozhestvennyi Muzei Ernsta Neizvestnogo",
-                  "text": "Das Ernst-Neiswestny-Kunstmuseum in Jekaterinburg zeigt die Skulpturen und Kunstwerke des bekannten sowjetisch-amerikanischen Künstlers.",
-                  "category": "museum",
-                  "coords": [
-                        60.603762,
-                        56.831727
                   ]
             },
             {
@@ -6660,15 +6336,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Teatr kukol",
-                  "text": "Das Puppentheater in Jekaterinburg unterhält Familien und Kinder mit seinen Aufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        60.618767,
-                        56.838172
-                  ]
-            },
-            {
                   "name": "Teatr baleta <<Shchelkunchik>>",
                   "text": "Das Ballett-Theater Nussknacker ist eine Tanz- und Aufführungsstätte in Jekaterinburg.",
                   "category": "cultural",
@@ -6714,15 +6381,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Akademicheskii teatr dramy",
-                  "text": "Das Akademische Schauspielhaus ist eine bedeutende Theaterbühne in Jekaterinburg.",
-                  "category": "cultural",
-                  "coords": [
-                        60.593197,
-                        56.843723
-                  ]
-            },
-            {
                   "name": "Khram vo imia Vsekh Sviatykh",
                   "text": "Die Allerheiligenkirche ist eine religiöse Einrichtung für die örtliche Gemeinde in Jekaterinburg.",
                   "category": "religious",
@@ -6738,15 +6396,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         60.612766,
                         56.844767
-                  ]
-            },
-            {
-                  "name": "Kathedrale auf dem Blut",
-                  "text": "Die Kathedrale auf dem Blut in Jekaterinburg wurde an der Stelle errichtet, an der die Zarenfamilie Romanow ermordet wurde.",
-                  "category": "religious",
-                  "coords": [
-                        60.608972,
-                        56.844389
                   ]
             }
       ],
@@ -6770,24 +6419,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Kraevedcheskii muzei",
-                  "text": "Az Urál Történeti és Régészeti Múzeuma egy helytörténeti múzeum Jekaterinburgban, amely a régió történetét tárja fel.",
-                  "category": "museum",
-                  "coords": [
-                        60.622421,
-                        56.840853
-                  ]
-            },
-            {
-                  "name": "Muzei kukol i detskoi knigi <<Strana chudes>>",
-                  "text": "A „Csodaország” Babák és Gyermekkönyvek Múzeuma egy egyedülálló irodalmi és kulturális múzeum Jekaterinburgban.",
-                  "category": "museum",
-                  "coords": [
-                        60.606447,
-                        56.843381
-                  ]
-            },
-            {
                   "name": "Dom-muzei D. N. Mamina-Sibiriaka",
                   "text": "A D. N. Mamin-Szibirjak Emlékház-Múzeum egy jekaterinburgi irodalmi múzeum, amelyet a neves uráli írónak szenteltek.",
                   "category": "museum",
@@ -6806,30 +6437,12 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Muzei istorii Ekaterinburga",
-                  "text": "A Jekaterinburg Történeti Múzeum Jekaterinburg városfejlődését és társadalomtörténetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        60.611312,
-                        56.840729
-                  ]
-            },
-            {
                   "name": "Nev'ianskaia ikona",
                   "text": "A jekaterinburgi Nyevjanszki Ikon Múzeumot az Urál egyedülálló óhitű ikonfestő iskolájának szentelték.",
                   "category": "museum",
                   "coords": [
                         60.615147,
                         56.833564
-                  ]
-            },
-            {
-                  "name": "Muzei Vysotskogo",
-                  "text": "A jekaterinburgi Vlagyimir Viszockij Múzeum a legendás orosz énekesnek, költőnek és színésznek állít emléket.",
-                  "category": "museum",
-                  "coords": [
-                        60.614302,
-                        56.835977
                   ]
             },
             {
@@ -6842,30 +6455,12 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Muzei arkhitektury i dizaina UGAKhA",
-                  "text": "A jekaterinburgi Építészeti és Dizájn Múzeum az uráli ipari építészetet és a modern dizájnt bemutató kiállításokkal rendelkezik.",
-                  "category": "museum",
-                  "coords": [
-                        60.605652,
-                        56.835907
-                  ]
-            },
-            {
                   "name": "Muzei izobrazitel'nykh iskusstv",
                   "text": "A Jekaterinburgi Szépművészeti Múzeum jelentős orosz festmény- és bonyolult vasmunkagyűjteménynek ad otthont.",
                   "category": "museum",
                   "coords": [
                         60.60324,
                         56.835181
-                  ]
-            },
-            {
-                  "name": "Sverdlovskii oblastnoi kraevedcheskii muzei",
-                  "text": "A jekaterinburgi Szverdlovszki Regionális Helytörténeti Múzeum kiterjedt történelmi és természeti kiállításokat, köztük a Sigir-bálványt tartalmazza.",
-                  "category": "museum",
-                  "coords": [
-                        60.602915,
-                        56.834114
                   ]
             },
             {
@@ -6902,24 +6497,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         60.606867,
                         56.842442
-                  ]
-            },
-            {
-                  "name": "Dom Metenkova",
-                  "text": "A jekaterinburgi Metenkov-ház egy fotográfiai múzeum, amely egy híres helyi fotós egykori rezidenciáján található.",
-                  "category": "museum",
-                  "coords": [
-                        60.611025,
-                        56.841974
-                  ]
-            },
-            {
-                  "name": "Khudozhestvennyi Muzei Ernsta Neizvestnogo",
-                  "text": "A jekaterinburgi Ernst Neizvestnij Művészeti Múzeum a neves szovjet-amerikai művész szobrait és műalkotásait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        60.603762,
-                        56.831727
                   ]
             },
             {
@@ -6986,15 +6563,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Teatr kukol",
-                  "text": "A jekatyerinburgi Bábszínház előadásaival szórakoztatja a családokat és a gyermekeket.",
-                  "category": "cultural",
-                  "coords": [
-                        60.618767,
-                        56.838172
-                  ]
-            },
-            {
                   "name": "Teatr baleta <<Shchelkunchik>>",
                   "text": "A Diótörő Balettszínház egy tánc- és előadóművészeti helyszín Jekatyerinburgban.",
                   "category": "cultural",
@@ -7040,15 +6608,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Akademicheskii teatr dramy",
-                  "text": "Az Akadémiai Drámaszínház egy jelentős színházi helyszín Jekatyerinburgban.",
-                  "category": "cultural",
-                  "coords": [
-                        60.593197,
-                        56.843723
-                  ]
-            },
-            {
                   "name": "Khram vo imia Vsekh Sviatykh",
                   "text": "A Mindenszentek-templom egy vallási intézmény a helyi közösség számára Jekatyerinburgban.",
                   "category": "religious",
@@ -7064,15 +6623,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         60.612766,
                         56.844767
-                  ]
-            },
-            {
-                  "name": "Khram na Krovi",
-                  "text": "A jekatyerinburgi Véreken Épült Templomot azon a helyen emelték, ahol a Romanov cári családot meggyilkolták.",
-                  "category": "religious",
-                  "coords": [
-                        60.608972,
-                        56.844389
                   ]
             }
       ],
@@ -7096,24 +6646,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Kraevedcheskii muzei",
-                  "text": "Muzeul de Istorie și Arheologie a Uralului este un muzeu de istorie locală din Ekaterinburg, care explorează istoria regională.",
-                  "category": "museum",
-                  "coords": [
-                        60.622421,
-                        56.840853
-                  ]
-            },
-            {
-                  "name": "Muzei kukol i detskoi knigi <<Strana chudes>>",
-                  "text": "Muzeul de Păpuși și Cărți pentru Copii „Țara Minunilor” este un muzeu literar și cultural unic din Ekaterinburg.",
-                  "category": "museum",
-                  "coords": [
-                        60.606447,
-                        56.843381
-                  ]
-            },
-            {
                   "name": "Dom-muzei D. N. Mamina-Sibiriaka",
                   "text": "Casa memorială-muzeu D. N. Mamin-Sibiryak este un muzeu literar din Ekaterinburg dedicat renumitului scriitor uralic.",
                   "category": "museum",
@@ -7132,30 +6664,12 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Muzei istorii Ekaterinburga",
-                  "text": "Muzeul de Istorie a Ekaterinburgului documentează dezvoltarea urbană și istoria socială a orașului Ekaterinburg.",
-                  "category": "museum",
-                  "coords": [
-                        60.611312,
-                        56.840729
-                  ]
-            },
-            {
                   "name": "Nev'ianskaia ikona",
                   "text": "Muzeul Icoanelor Nevyansk din Ekaterinburg este dedicat școlii unice de pictură a icoanelor a Vechilor Credincioși din Urali.",
                   "category": "museum",
                   "coords": [
                         60.615147,
                         56.833564
-                  ]
-            },
-            {
-                  "name": "Muzei Vysotskogo",
-                  "text": "Muzeul Vladimir Vîsoțki din Ekaterinburg aduce un omagiu legendarului cântăreț, poet și actor rus.",
-                  "category": "museum",
-                  "coords": [
-                        60.614302,
-                        56.835977
                   ]
             },
             {
@@ -7168,30 +6682,12 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Muzei arkhitektury i dizaina UGAKhA",
-                  "text": "Muzeul de Arhitectură și Design din Ekaterinburg prezintă expoziții despre arhitectura industrială din Urali și designul modern.",
-                  "category": "museum",
-                  "coords": [
-                        60.605652,
-                        56.835907
-                  ]
-            },
-            {
                   "name": "Muzei izobrazitel'nykh iskusstv",
                   "text": "Muzeul de Arte Frumoase din Ekaterinburg găzduiește o colecție semnificativă de picturi rusești și feronerie complexă.",
                   "category": "museum",
                   "coords": [
                         60.60324,
                         56.835181
-                  ]
-            },
-            {
-                  "name": "Sverdlovskii oblastnoi kraevedcheskii muzei",
-                  "text": "Muzeul Regional de Tradiții Locale Sverdlovsk din Ekaterinburg conține ample exponate istorice și naturale, inclusiv Idolul Șigir.",
-                  "category": "museum",
-                  "coords": [
-                        60.602915,
-                        56.834114
                   ]
             },
             {
@@ -7228,24 +6724,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         60.606867,
                         56.842442
-                  ]
-            },
-            {
-                  "name": "Dom Metenkova",
-                  "text": "Casa Metenkov din Ekaterinburg este un muzeu de fotografie situat în fosta reședință a unui celebru fotograf local.",
-                  "category": "museum",
-                  "coords": [
-                        60.611025,
-                        56.841974
-                  ]
-            },
-            {
-                  "name": "Khudozhestvennyi Muzei Ernsta Neizvestnogo",
-                  "text": "Muzeul de Artă Ernst Neizvestny din Ekaterinburg prezintă sculpturile și operele de artă ale renumitului artist sovieto-american.",
-                  "category": "museum",
-                  "coords": [
-                        60.603762,
-                        56.831727
                   ]
             },
             {
@@ -7312,15 +6790,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Teatr kukol",
-                  "text": "Teatrul de Păpuși din Ekaterinburg distrează familiile și copiii cu spectacolele sale.",
-                  "category": "cultural",
-                  "coords": [
-                        60.618767,
-                        56.838172
-                  ]
-            },
-            {
                   "name": "Teatr baleta <<Shchelkunchik>>",
                   "text": "Teatrul de Balet Spărgătorul de Nuci este un loc de dans și spectacol în Ekaterinburg.",
                   "category": "cultural",
@@ -7366,15 +6835,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Akademicheskii teatr dramy",
-                  "text": "Teatrul Academic de Dramă este o scenă de teatru semnificativă în Ekaterinburg.",
-                  "category": "cultural",
-                  "coords": [
-                        60.593197,
-                        56.843723
-                  ]
-            },
-            {
                   "name": "Khram vo imia Vsekh Sviatykh",
                   "text": "Biserica Tuturor Sfinților este o instituție religioasă pentru comunitatea locală din Ekaterinburg.",
                   "category": "religious",
@@ -7390,15 +6850,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         60.612766,
                         56.844767
-                  ]
-            },
-            {
-                  "name": "Khram na Krovi",
-                  "text": "Biserica pe Sânge din Ekaterinburg a fost construită pe locul unde a fost asasinată familia imperială Romanov.",
-                  "category": "religious",
-                  "coords": [
-                        60.608972,
-                        56.844389
                   ]
             }
       ],
@@ -7422,48 +6873,12 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Kraevedcheskii muzei",
-                  "text": "The Museum of History and Archaeology of the Urals is a local lore museum in Yekaterinburg exploring regional history.",
-                  "category": "museum",
-                  "coords": [
-                        60.622421,
-                        56.840853
-                  ]
-            },
-            {
-                  "name": "Muzei kukol i detskoi knigi <<Strana chudes>>",
-                  "text": "The \"Wonderland\" Museum of Dolls and Children's Books is a unique literary and cultural museum in Yekaterinburg.",
-                  "category": "museum",
-                  "coords": [
-                        60.606447,
-                        56.843381
-                  ]
-            },
-            {
                   "name": "Dom-muzei D. N. Mamina-Sibiriaka",
                   "text": "The D. N. Mamin-Sibiryak Memorial House Museum is a literary museum in Yekaterinburg dedicated to the renowned Ural writer.",
                   "category": "museum",
                   "coords": [
                         60.607212,
                         56.841319
-                  ]
-            },
-            {
-                  "name": "Museum of Stone-Rain and Jewelry Art",
-                  "text": "The Museum of Stone-Carving and Jewelry Art in Yekaterinburg showcases the rich tradition of Ural gem cutting.",
-                  "category": "museum",
-                  "coords": [
-                        60.606948,
-                        56.839087
-                  ]
-            },
-            {
-                  "name": "Ekaterinburg History Museum",
-                  "text": "The Ekaterinburg History Museum chronicles the urban development and social history of Yekaterinburg.",
-                  "category": "museum",
-                  "coords": [
-                        60.611312,
-                        56.840729
                   ]
             },
             {
@@ -7476,48 +6891,12 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Muzei Vysotskogo",
-                  "text": "The Vladimir Vysotsky Museum in Yekaterinburg pays tribute to the legendary Russian singer, poet, and actor.",
-                  "category": "museum",
-                  "coords": [
-                        60.614302,
-                        56.835977
-                  ]
-            },
-            {
                   "name": "Bashnia na Plotinke",
                   "text": "Bashnia na Plotinke is a historic water tower in Yekaterinburg that now serves as a museum space.",
                   "category": "museum",
                   "coords": [
                         60.605469,
                         56.837892
-                  ]
-            },
-            {
-                  "name": "Museum of architecture & design",
-                  "text": "The Museum of Architecture and Design in Yekaterinburg features exhibits on Ural industrial architecture and modern design.",
-                  "category": "museum",
-                  "coords": [
-                        60.605652,
-                        56.835907
-                  ]
-            },
-            {
-                  "name": "Ekaterinburg Museum of Fine Arts",
-                  "text": "The Ekaterinburg Museum of Fine Arts houses a significant collection of Russian paintings and intricate ironworks.",
-                  "category": "museum",
-                  "coords": [
-                        60.60324,
-                        56.835181
-                  ]
-            },
-            {
-                  "name": "Sverdlovskii oblastnoi kraevedcheskii muzei",
-                  "text": "The Sverdlovsk Regional Museum of Local Lore in Yekaterinburg contains extensive historical and natural exhibits, including the Shigir Idol.",
-                  "category": "museum",
-                  "coords": [
-                        60.602915,
-                        56.834114
                   ]
             },
             {
@@ -7557,24 +6936,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Dom Metenkova",
-                  "text": "Metenkov House in Yekaterinburg is a museum of photography located in the former residence of a famous local photographer.",
-                  "category": "museum",
-                  "coords": [
-                        60.611025,
-                        56.841974
-                  ]
-            },
-            {
-                  "name": "Khudozhestvennyi Muzei Ernsta Neizvestnogo",
-                  "text": "The Ernst Neizvestny Art Museum in Yekaterinburg showcases the sculptures and artworks of the renowned Soviet-American artist.",
-                  "category": "museum",
-                  "coords": [
-                        60.603762,
-                        56.831727
-                  ]
-            },
-            {
                   "name": "Muzei Bazhova",
                   "text": "The Bazhov Memorial House-Museum in Yekaterinburg preserves the home of Pavel Bazhov, author of famous Ural folktales.",
                   "category": "museum",
@@ -7611,15 +6972,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Young Spectator Theater",
-                  "text": "The Young Spectator Theater in Yekaterinburg is a cultural institution geared towards a young audience.",
-                  "category": "cultural",
-                  "coords": [
-                        60.610788,
-                        56.847363
-                  ]
-            },
-            {
                   "name": "Teatr muzykal'noi komedii",
                   "text": "The Sverdlovsk State Academic Theater of Musical Comedy offers performances in Yekaterinburg.",
                   "category": "cultural",
@@ -7635,15 +6987,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         60.610839,
                         56.834073
-                  ]
-            },
-            {
-                  "name": "Teatr kukol",
-                  "text": "The Puppet Theater in Yekaterinburg entertains families and children with its performances.",
-                  "category": "cultural",
-                  "coords": [
-                        60.618767,
-                        56.838172
                   ]
             },
             {
@@ -7683,24 +7026,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Great Zlatoust Church",
-                  "text": "The Great Zlatoust Church is a rebuilt bell-tower temple in the center of Yekaterinburg.",
-                  "category": "religious",
-                  "coords": [
-                        60.600545,
-                        56.83467
-                  ]
-            },
-            {
-                  "name": "Akademicheskii teatr dramy",
-                  "text": "The Academic Drama Theater is a significant theatrical venue in Yekaterinburg.",
-                  "category": "cultural",
-                  "coords": [
-                        60.593197,
-                        56.843723
-                  ]
-            },
-            {
                   "name": "Khram vo imia Vsekh Sviatykh",
                   "text": "The Church of All Saints is a religious facility for the local community in Yekaterinburg.",
                   "category": "religious",
@@ -7716,15 +7041,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         60.612766,
                         56.844767
-                  ]
-            },
-            {
-                  "name": "Church on Blood in Honour of All Saints Resplendent in the Russian Land",
-                  "text": "The Church on Blood in Yekaterinburg was built on the site where the Romanov imperial family was assassinated.",
-                  "category": "religious",
-                  "coords": [
-                        60.608972,
-                        56.844389
                   ]
             }
       ]
@@ -7776,114 +7092,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
     id: "russia-tula-samovar-museum-history-v2", "sights": {
       "de": [
             {
-                  "name": "Samowarmuseum",
-                  "text": "Ein Museum in Tula, das der Geschichte und Herstellung russischer Samoware gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        37.61894,
-                        54.194274
-                  ]
-            },
-            {
-                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
-                  "text": "Heimatmuseum im Kreml von Tula.",
-                  "category": "museum",
-                  "coords": [
-                        37.618568,
-                        54.191066
-                  ]
-            },
-            {
-                  "name": "Kreml",
-                  "text": "Die historische Festung von Tula, erbaut im frühen 16. Jahrhundert.",
-                  "category": "castle",
-                  "coords": [
-                        37.62039,
-                        54.195076
-                  ]
-            },
-            {
-                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
-                  "text": "Eines der ältesten Schauspielhäuser Russlands, benannt nach Maxim Gorki.",
-                  "category": "cultural",
-                  "coords": [
-                        37.609754,
-                        54.188476
-                  ]
-            },
-            {
-                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
-                  "text": "Ein Museumszentrum, das sich mit der Archäologie und Geschichte der Region Tula befasst.",
-                  "category": "museum",
-                  "coords": [
-                        37.610572,
-                        54.186416
-                  ]
-            },
-            {
-                  "name": "Memorial'nyi muzei N. I. Beloborodova",
-                  "text": "Ein Gedenkmuseum für den Erfinder des chromatischen Akkordeons.",
-                  "category": "museum",
-                  "coords": [
-                        37.615196,
-                        54.191507
-                  ]
-            },
-            {
-                  "name": "Muzei Prianika",
-                  "text": "Ein Museum, das den berühmten Tulak Lebkuchen gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        37.622309,
-                        54.211542
-                  ]
-            },
-            {
-                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
-                  "text": "Ein Kammertheater in Tula, das moderne und klassische Stücke aufführt.",
-                  "category": "cultural",
-                  "coords": [
-                        37.626177,
-                        54.191998
-                  ]
-            },
-            {
-                  "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Fabrika - Klub virtual'noi real'nosti ist ein Virtual-Reality-Club in einer ehemaligen Fabrik in der Nähe des Tulaer Samowarmuseums.",
-                  "category": "recreational",
-                  "coords": [
-                        37.599277,
-                        54.175531
-                  ]
-            },
-            {
-                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "Ein Exotarium mit Reptilien beim Samowar-Museum in Tula.",
-                  "category": "recreational",
-                  "coords": [
-                        37.588762,
-                        54.180884
-                  ]
-            },
-            {
-                  "name": "Kharakter",
-                  "text": "Ein Freizeitbereich mit dem Namen ‚Kharakter‘ (Charakter) innerhalb des Tula-Samowar-Museums.",
-                  "category": "recreational",
-                  "coords": [
-                        37.593657,
-                        54.197341
-                  ]
-            },
-            {
-                  "name": "Otryv",
-                  "text": "Ein Erlebnisraum namens ‚Otryv‘ (Ablösung) im Tula-Samowar-Museum.",
-                  "category": "recreational",
-                  "coords": [
-                        37.602294,
-                        54.197773
-                  ]
-            },
-            {
                   "name": "Komnata iarosti Raznos",
                   "text": "Ein Raum mit dem Namen ‚Komnata iarosti Raznos‘ (Wutraum) im Tula-Samowar-Museum.",
                   "category": "recreational",
@@ -7894,114 +7102,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             }
       ],
       "hu": [
-            {
-                  "name": "Tul'skie samovary",
-                  "text": "Tula városának múzeuma, amely az orosz szamovárok történetét és készítését mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        37.61894,
-                        54.194274
-                  ]
-            },
-            {
-                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
-                  "text": "Helytörténeti múzeum Tula Kremljében.",
-                  "category": "museum",
-                  "coords": [
-                        37.618568,
-                        54.191066
-                  ]
-            },
-            {
-                  "name": "Kreml'",
-                  "text": "Tula történelmi erődítménye, amely a 16. század elején épült.",
-                  "category": "castle",
-                  "coords": [
-                        37.62039,
-                        54.195076
-                  ]
-            },
-            {
-                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
-                  "text": "Oroszország egyik legrégebbi színháza, amely Maxim Gorkij nevét viseli.",
-                  "category": "cultural",
-                  "coords": [
-                        37.609754,
-                        54.188476
-                  ]
-            },
-            {
-                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
-                  "text": "Múzeumi központ, amely Tula régiójának régészetével és történelmével foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        37.610572,
-                        54.186416
-                  ]
-            },
-            {
-                  "name": "Memorial'nyi muzei N. I. Beloborodova",
-                  "text": "Emlékmúzeum a kromatikus harmonika feltalálója tiszteletére.",
-                  "category": "museum",
-                  "coords": [
-                        37.615196,
-                        54.191507
-                  ]
-            },
-            {
-                  "name": "Muzei Prianika",
-                  "text": "A híres tulai mézeskalácsnak szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        37.622309,
-                        54.211542
-                  ]
-            },
-            {
-                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
-                  "text": "Tulai kamaradrámai színház, amely modern és klasszikus darabokat mutat be.",
-                  "category": "cultural",
-                  "coords": [
-                        37.626177,
-                        54.191998
-                  ]
-            },
-            {
-                  "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "A Fabrika - Klub virtual'noi real'nosti egy virtuális valóság klub egy egykori gyárépületben, a Tula Szamovár Múzeum közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        37.599277,
-                        54.175531
-                  ]
-            },
-            {
-                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "Egzotikus állatkert a Tula-szamovár Múzeum közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        37.588762,
-                        54.180884
-                  ]
-            },
-            {
-                  "name": "Kharakter",
-                  "text": "Egy 'Kharakter' (Karakter) nevű szabadidős zóna a Tula Szamovármúzeum területén.",
-                  "category": "recreational",
-                  "coords": [
-                        37.593657,
-                        54.197341
-                  ]
-            },
-            {
-                  "name": "Otryv",
-                  "text": "Egy 'Otryv' (Leválás) nevű élménytér a Tula Szamovármúzeumban.",
-                  "category": "recreational",
-                  "coords": [
-                        37.602294,
-                        54.197773
-                  ]
-            },
             {
                   "name": "Komnata iarosti Raznos",
                   "text": "Egy 'Komnata iarosti Raznos' (Dühszoba) nevű helyiség a Tula Szamovármúzeumban.",
@@ -8014,114 +7114,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
       ],
       "ro": [
             {
-                  "name": "Tul'skie samovary",
-                  "text": "Un muzeu din Tula dedicat istoriei și fabricării samovarelor rusești.",
-                  "category": "museum",
-                  "coords": [
-                        37.61894,
-                        54.194274
-                  ]
-            },
-            {
-                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
-                  "text": "Muzeul de istorie locală în Kremlinul din Tula.",
-                  "category": "museum",
-                  "coords": [
-                        37.618568,
-                        54.191066
-                  ]
-            },
-            {
-                  "name": "Kreml'",
-                  "text": "Cetatea istorică din Tula, construită la începutul secolului al XVI-lea.",
-                  "category": "castle",
-                  "coords": [
-                        37.62039,
-                        54.195076
-                  ]
-            },
-            {
-                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
-                  "text": "Unul dintre cele mai vechi teatre de dramă din Rusia, numit după Maxim Gorki.",
-                  "category": "cultural",
-                  "coords": [
-                        37.609754,
-                        54.188476
-                  ]
-            },
-            {
-                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
-                  "text": "Un centru muzeal dedicat arheologiei și istoriei regiunii Tula.",
-                  "category": "museum",
-                  "coords": [
-                        37.610572,
-                        54.186416
-                  ]
-            },
-            {
-                  "name": "Memorial'nyi muzei N. I. Beloborodova",
-                  "text": "Un muzeu memorial dedicat inventatorului acordeonului cromatic.",
-                  "category": "museum",
-                  "coords": [
-                        37.615196,
-                        54.191507
-                  ]
-            },
-            {
-                  "name": "Muzei Prianika",
-                  "text": "Un muzeu dedicat celebrului turtă dulce din Tula.",
-                  "category": "museum",
-                  "coords": [
-                        37.622309,
-                        54.211542
-                  ]
-            },
-            {
-                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
-                  "text": "Un teatru de cameră din Tula care pune în scenă piese moderne și clasice.",
-                  "category": "cultural",
-                  "coords": [
-                        37.626177,
-                        54.191998
-                  ]
-            },
-            {
-                  "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Fabrika - Klub virtual'noi real'nosti este un club de realitate virtuală într-o fostă fabrică, lângă Muzeul Samovarului din Tula.",
-                  "category": "recreational",
-                  "coords": [
-                        37.599277,
-                        54.175531
-                  ]
-            },
-            {
-                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "Un exotarium lângă Muzeul Samovarelor din Tula.",
-                  "category": "recreational",
-                  "coords": [
-                        37.588762,
-                        54.180884
-                  ]
-            },
-            {
-                  "name": "Kharakter",
-                  "text": "O zonă de agrement numită 'Kharakter' (Caracter) în incinta Muzeului Samovarului din Tula.",
-                  "category": "recreational",
-                  "coords": [
-                        37.593657,
-                        54.197341
-                  ]
-            },
-            {
-                  "name": "Otryv",
-                  "text": "Un spațiu de experiență numit 'Otryv' (Desprindere) în Muzeul Samovarului din Tula.",
-                  "category": "recreational",
-                  "coords": [
-                        37.602294,
-                        54.197773
-                  ]
-            },
-            {
                   "name": "Komnata iarosti Raznos",
                   "text": "O încăpere numită 'Komnata iarosti Raznos' (Cameră de furie) în Muzeul Samovarului din Tula.",
                   "category": "recreational",
@@ -8132,114 +7124,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
             }
       ],
       "en": [
-            {
-                  "name": "Tula Samovars' Museum",
-                  "text": "A museum in Tula dedicated to the history and production of Russian samovars.",
-                  "category": "museum",
-                  "coords": [
-                        37.61894,
-                        54.194274
-                  ]
-            },
-            {
-                  "name": "Tula Local Museum",
-                  "text": "Local history museum in the Kremlin of Tula.",
-                  "category": "museum",
-                  "coords": [
-                        37.618568,
-                        54.191066
-                  ]
-            },
-            {
-                  "name": "Kremlin",
-                  "text": "The historical fortress of Tula, built in the early 16th century.",
-                  "category": "castle",
-                  "coords": [
-                        37.62039,
-                        54.195076
-                  ]
-            },
-            {
-                  "name": "Tula Academic Drama Theater",
-                  "text": "One of the oldest drama theaters in Russia, named after Maxim Gorky.",
-                  "category": "cultural",
-                  "coords": [
-                        37.609754,
-                        54.188476
-                  ]
-            },
-            {
-                  "name": "The Museum and Exhibition Center \"Tula Antiquites\"",
-                  "text": "A museum center focused on the archaeology and history of the Tula region.",
-                  "category": "museum",
-                  "coords": [
-                        37.610572,
-                        54.186416
-                  ]
-            },
-            {
-                  "name": "N. I. Beloborodov Memorial Museum",
-                  "text": "A memorial museum dedicated to the inventor of the chromatic accordion.",
-                  "category": "museum",
-                  "coords": [
-                        37.615196,
-                        54.191507
-                  ]
-            },
-            {
-                  "name": "Pryanik Museum",
-                  "text": "A museum dedicated to the famous Tula gingerbread (pryanik).",
-                  "category": "museum",
-                  "coords": [
-                        37.622309,
-                        54.211542
-                  ]
-            },
-            {
-                  "name": "Tula Chamber Drama Theater",
-                  "text": "A chamber drama theater in Tula performing modern and classical plays.",
-                  "category": "cultural",
-                  "coords": [
-                        37.626177,
-                        54.191998
-                  ]
-            },
-            {
-                  "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Fabrika - Klub virtual'noi real'nosti is a virtual reality club in a former factory building, near the Tula Samovar Museum.",
-                  "category": "recreational",
-                  "coords": [
-                        37.599277,
-                        54.175531
-                  ]
-            },
-            {
-                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "An exotarium featuring reptiles near the Tula Samovar Museum.",
-                  "category": "recreational",
-                  "coords": [
-                        37.588762,
-                        54.180884
-                  ]
-            },
-            {
-                  "name": "Kharakter",
-                  "text": "A recreational zone named 'Kharakter' inside the Tula Samovar Museum.",
-                  "category": "recreational",
-                  "coords": [
-                        37.593657,
-                        54.197341
-                  ]
-            },
-            {
-                  "name": "Otryv",
-                  "text": "An experience room called 'Otryv' (Breakaway) in the Tula Samovar Museum.",
-                  "category": "recreational",
-                  "coords": [
-                        37.602294,
-                        54.197773
-                  ]
-            },
             {
                   "name": "Komnata iarosti Raznos",
                   "text": "A room called 'Komnata iarosti Raznos' (Rage Room) in the Tula Samovar Museum.",
@@ -8298,102 +7182,12 @@ imageHint: "Pavlovsk Palace golden facade and dome",
     id: "russia-tula-arms-museum-history-v2", "sights": {
       "de": [
             {
-                  "name": "Samowarmuseum",
-                  "text": "Ein Museum, das der Geschichte und Vielfalt der traditionellen Tula-Samoware gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        37.61894,
-                        54.194274
-                  ]
-            },
-            {
-                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
-                  "text": "Ein Regionalmuseum, das die Geschichte, Kultur und Natur der Region Tula zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        37.618568,
-                        54.191066
-                  ]
-            },
-            {
-                  "name": "Kreml",
-                  "text": "Eine historische Festung aus dem 16. Jahrhundert und ein Architekturdenkmal in Tula.",
-                  "category": "castle",
-                  "coords": [
-                        37.62039,
-                        54.195076
-                  ]
-            },
-            {
-                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
-                  "text": "Eines der ältesten professionellen Dramentheater Russlands, gegründet in Tula.",
-                  "category": "cultural",
-                  "coords": [
-                        37.609754,
-                        54.188476
-                  ]
-            },
-            {
-                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
-                  "text": "Ein Ausstellungszentrum, das sich auf das archäologische Erbe der Region Tula konzentriert.",
-                  "category": "museum",
-                  "coords": [
-                        37.610572,
-                        54.186416
-                  ]
-            },
-            {
-                  "name": "Memorial'nyi muzei N. I. Beloborodova",
-                  "text": "Ein Gedenkmuseum, das dem Erfinder des chromatischen Akkordeons gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        37.615196,
-                        54.191507
-                  ]
-            },
-            {
                   "name": "Muzei Prianika",
                   "text": "Ein einzigartiges Museum, das die Geschichte und Herstellung des berühmten Tula-Lebkuchens zeigt.",
                   "category": "museum",
                   "coords": [
                         37.622309,
                         54.211542
-                  ]
-            },
-            {
-                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
-                  "text": "Ein kleines professionelles Theater in Tula, das intime Dramenaufführungen anbietet.",
-                  "category": "cultural",
-                  "coords": [
-                        37.626177,
-                        54.191998
-                  ]
-            },
-            {
-                  "name": "Trogatel'nyi zoopark",
-                  "text": "Ein ‚Trogatel'nyi zoopark‘ (Streichelzoo) im Tulaer Waffenmuseum.",
-                  "category": "recreational",
-                  "coords": [
-                        37.596199,
-                        54.179942
-                  ]
-            },
-            {
-                  "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Ein Virtual-Reality-Club namens ‚Fabrika - Klub virtual'noi real'nosti‘ im Tulaer Waffenmuseum.",
-                  "category": "recreational",
-                  "coords": [
-                        37.599277,
-                        54.175531
-                  ]
-            },
-            {
-                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "Die neue Ausstellung des Tulaer Exotariums im Tulaer Waffenmuseum.",
-                  "category": "recreational",
-                  "coords": [
-                        37.588762,
-                        54.180884
                   ]
             },
             {
@@ -8417,102 +7211,12 @@ imageHint: "Pavlovsk Palace golden facade and dome",
       ],
       "hu": [
             {
-                  "name": "Tul'skie samovary",
-                  "text": "A hagyományos tulai szamovárok történetének és változatosságának szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        37.61894,
-                        54.194274
-                  ]
-            },
-            {
-                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
-                  "text": "Regionális múzeum, amely Tula környékének történelmét, kultúráját és természetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        37.618568,
-                        54.191066
-                  ]
-            },
-            {
-                  "name": "Kreml'",
-                  "text": "Történelmi 16. századi erőd és építészeti műemlék Tulában.",
-                  "category": "castle",
-                  "coords": [
-                        37.62039,
-                        54.195076
-                  ]
-            },
-            {
-                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
-                  "text": "Oroszország egyik legrégebbi professzionális drámai színháza Tulában.",
-                  "category": "cultural",
-                  "coords": [
-                        37.609754,
-                        54.188476
-                  ]
-            },
-            {
-                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
-                  "text": "Kiállítóhely, amely Tula régió régészeti örökségére összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        37.610572,
-                        54.186416
-                  ]
-            },
-            {
-                  "name": "Memorial'nyi muzei N. I. Beloborodova",
-                  "text": "Emlékmúzeum, amelyet a kromatikus harmonika feltalálójának szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        37.615196,
-                        54.191507
-                  ]
-            },
-            {
                   "name": "Muzei Prianika",
                   "text": "Egyedülálló múzeum, amely a híres tulai mézeskalács történetét és készítését mutatja be.",
                   "category": "museum",
                   "coords": [
                         37.622309,
                         54.211542
-                  ]
-            },
-            {
-                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
-                  "text": "Egy kis professzionális színház Tulában, amely bensőséges drámai előadásokat kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        37.626177,
-                        54.191998
-                  ]
-            },
-            {
-                  "name": "Trogatel'nyi zoopark",
-                  "text": "Egy 'Trogatel'nyi zoopark' (Simogató állatkert) a Tula Fegyvermúzeumban.",
-                  "category": "recreational",
-                  "coords": [
-                        37.596199,
-                        54.179942
-                  ]
-            },
-            {
-                  "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Egy 'Fabrika - Klub virtual'noi real'nosti' nevű virtuális valóság klub a Tula Fegyvermúzeumban.",
-                  "category": "recreational",
-                  "coords": [
-                        37.599277,
-                        54.175531
-                  ]
-            },
-            {
-                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "A Tula Egzotárium új kiállítása a Tula Fegyvermúzeumban.",
-                  "category": "recreational",
-                  "coords": [
-                        37.588762,
-                        54.180884
                   ]
             },
             {
@@ -8536,102 +7240,12 @@ imageHint: "Pavlovsk Palace golden facade and dome",
       ],
       "ro": [
             {
-                  "name": "Tul'skie samovary",
-                  "text": "Un muzeu dedicat istoriei și varietății samovarelor tradiționale din Tula.",
-                  "category": "museum",
-                  "coords": [
-                        37.61894,
-                        54.194274
-                  ]
-            },
-            {
-                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
-                  "text": "Un muzeu regional care prezintă istoria, cultura și natura zonei Tula.",
-                  "category": "museum",
-                  "coords": [
-                        37.618568,
-                        54.191066
-                  ]
-            },
-            {
-                  "name": "Kreml'",
-                  "text": "O cetate istorică din secolul al XVI-lea și un monument arhitectural din Tula.",
-                  "category": "castle",
-                  "coords": [
-                        37.62039,
-                        54.195076
-                  ]
-            },
-            {
-                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
-                  "text": "Unul dintre cele mai vechi teatre dramatice profesioniste din Rusia, înființat la Tula.",
-                  "category": "cultural",
-                  "coords": [
-                        37.609754,
-                        54.188476
-                  ]
-            },
-            {
-                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
-                  "text": "Un centru expozițional axat pe moștenirea arheologică a regiunii Tula.",
-                  "category": "museum",
-                  "coords": [
-                        37.610572,
-                        54.186416
-                  ]
-            },
-            {
-                  "name": "Memorial'nyi muzei N. I. Beloborodova",
-                  "text": "Un muzeu memorial dedicat inventatorului acordeonului cromatic.",
-                  "category": "museum",
-                  "coords": [
-                        37.615196,
-                        54.191507
-                  ]
-            },
-            {
                   "name": "Muzei Prianika",
                   "text": "Un muzeu unic care explorează istoria și producția faimosului turtă dulce din Tula.",
                   "category": "museum",
                   "coords": [
                         37.622309,
                         54.211542
-                  ]
-            },
-            {
-                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
-                  "text": "Un mic teatru profesionist din Tula, care oferă spectacole dramatice intime.",
-                  "category": "cultural",
-                  "coords": [
-                        37.626177,
-                        54.191998
-                  ]
-            },
-            {
-                  "name": "Trogatel'nyi zoopark",
-                  "text": "Un 'Trogatel'nyi zoopark' (Grădină zoologică de contact) la Muzeul Armelor din Tula.",
-                  "category": "recreational",
-                  "coords": [
-                        37.596199,
-                        54.179942
-                  ]
-            },
-            {
-                  "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Un club de realitate virtuală numit 'Fabrika - Klub virtual'noi real'nosti' la Muzeul Armelor din Tula.",
-                  "category": "recreational",
-                  "coords": [
-                        37.599277,
-                        54.175531
-                  ]
-            },
-            {
-                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "Noua expoziție a Exotariului din Tula, găzduită de Muzeul Armelor din Tula.",
-                  "category": "recreational",
-                  "coords": [
-                        37.588762,
-                        54.180884
                   ]
             },
             {
@@ -8655,102 +7269,12 @@ imageHint: "Pavlovsk Palace golden facade and dome",
       ],
       "en": [
             {
-                  "name": "Tula Samovars' Museum",
-                  "text": "A museum dedicated to the history and variety of traditional Tula samovars.",
-                  "category": "museum",
-                  "coords": [
-                        37.61894,
-                        54.194274
-                  ]
-            },
-            {
-                  "name": "Tula Local Museum",
-                  "text": "A regional museum showcasing the history, culture, and nature of the Tula area.",
-                  "category": "museum",
-                  "coords": [
-                        37.618568,
-                        54.191066
-                  ]
-            },
-            {
-                  "name": "Kremlin",
-                  "text": "A historic 16th-century fortress and architectural monument in Tula.",
-                  "category": "castle",
-                  "coords": [
-                        37.62039,
-                        54.195076
-                  ]
-            },
-            {
-                  "name": "Tula Academic Drama Theater",
-                  "text": "One of Russia's oldest professional drama theaters, established in Tula.",
-                  "category": "cultural",
-                  "coords": [
-                        37.609754,
-                        54.188476
-                  ]
-            },
-            {
-                  "name": "The Museum and Exhibition Center \"Tula Antiquites\"",
-                  "text": "An exhibition center focusing on the archaeological heritage of the Tula region.",
-                  "category": "museum",
-                  "coords": [
-                        37.610572,
-                        54.186416
-                  ]
-            },
-            {
-                  "name": "N. I. Beloborodov Memorial Museum",
-                  "text": "A memorial museum dedicated to the inventor of the chromatic accordion.",
-                  "category": "museum",
-                  "coords": [
-                        37.615196,
-                        54.191507
-                  ]
-            },
-            {
                   "name": "Pryanik Museum",
                   "text": "A unique museum exploring the history and production of the famous Tula gingerbread.",
                   "category": "museum",
                   "coords": [
                         37.622309,
                         54.211542
-                  ]
-            },
-            {
-                  "name": "Tula Chamber Drama Theater",
-                  "text": "A small professional theater in Tula offering intimate drama performances.",
-                  "category": "cultural",
-                  "coords": [
-                        37.626177,
-                        54.191998
-                  ]
-            },
-            {
-                  "name": "Trogatel'nyi zoopark",
-                  "text": "A petting zoo named 'Trogatel'nyi zoopark' at the Tula Arms Museum.",
-                  "category": "recreational",
-                  "coords": [
-                        37.596199,
-                        54.179942
-                  ]
-            },
-            {
-                  "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "A VR club called 'Fabrika - Klub virtual'noi real'nosti' inside the Tula Arms Museum.",
-                  "category": "recreational",
-                  "coords": [
-                        37.599277,
-                        54.175531
-                  ]
-            },
-            {
-                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "The new exhibition of the Tula Exotarium inside the Tula Arms Museum.",
-                  "category": "recreational",
-                  "coords": [
-                        37.588762,
-                        54.180884
                   ]
             },
             {
@@ -11871,15 +10395,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Tseikhgauz",
-                  "text": "Ein restauriertes Arsenalgebäude im Kreml, das heute für Kunst- und Geschichtsausstellungen genutzt wird.",
-                  "category": "museum",
-                  "coords": [
-                        48.02768,
-                        46.348365
-                  ]
-            },
-            {
                   "name": "Artilleriiskii Dvor",
                   "text": "Ein historischer Militärhof innerhalb der Kremlmauern mit alten Kanonen und Befestigungen.",
                   "category": "museum",
@@ -12194,15 +10709,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         48.036489,
                         46.351127
-                  ]
-            },
-            {
-                  "name": "Tseikhgauz",
-                  "text": "Restaurált történelmi fegyvertár a Kremlben, amely ma művészeti és történelmi kiállításoknak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        48.02768,
-                        46.348365
                   ]
             },
             {
@@ -12523,15 +11029,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Tseikhgauz",
-                  "text": "O clădire istorică a arsenalului restaurată în interiorul Kremlinului, folosită pentru expoziții de artă.",
-                  "category": "museum",
-                  "coords": [
-                        48.02768,
-                        46.348365
-                  ]
-            },
-            {
                   "name": "Artilleriiskii Dvor",
                   "text": "O curte militară istorică în zidurile Kremlinului, care prezintă tunuri vechi și fortificații.",
                   "category": "museum",
@@ -12849,15 +11346,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Tseikhgauz",
-                  "text": "A restored historic arsenal building inside the Kremlin used for art and historical exhibitions.",
-                  "category": "museum",
-                  "coords": [
-                        48.02768,
-                        46.348365
-                  ]
-            },
-            {
                   "name": "Artilleriiskii Dvor",
                   "text": "A historic military courtyard within the Kremlin walls showcasing old cannons and fortifications.",
                   "category": "museum",
@@ -13066,86 +11554,10 @@ imageHint: "Pavlovsk Palace golden facade and dome",
   },
   {
     id: "russia-rostov-kremlin-belfry-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Shihanov brothers",
-                  "text": "Eine Galerie im Glockenturm des Rostower Kremls.",
-                  "category": "museum",
-                  "coords": [
-                        39.415088,
-                        57.185812
-                  ]
-            },
-            {
-                  "name": "Khram Sv Ioanna Bogoslova na Ishne",
-                  "text": "Eine seltene und gut erhaltene Holzkirche aus dem 17. Jahrhundert.",
-                  "category": "religious",
-                  "coords": [
-                        39.354207,
-                        57.180342
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Shihanov brothers",
-                  "text": "Galéria a Rosztovi Kreml harangtornyában.",
-                  "category": "museum",
-                  "coords": [
-                        39.415088,
-                        57.185812
-                  ]
-            },
-            {
-                  "name": "Khram Sv Ioanna Bogoslova na Ishne",
-                  "text": "Ritka és jól megőrzött 17. századi fatemplom.",
-                  "category": "religious",
-                  "coords": [
-                        39.354207,
-                        57.180342
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Shihanov brothers",
-                  "text": "O galerie situată în clopotnița Kremlinului din Rostov.",
-                  "category": "museum",
-                  "coords": [
-                        39.415088,
-                        57.185812
-                  ]
-            },
-            {
-                  "name": "Khram Sv Ioanna Bogoslova na Ishne",
-                  "text": "O biserică din lemn rară și bine conservată din secolul al XVII-lea.",
-                  "category": "religious",
-                  "coords": [
-                        39.354207,
-                        57.180342
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Shihanov brothers",
-                  "text": "A gallery located within the belfry of the Rostov Kremlin.",
-                  "category": "museum",
-                  "coords": [
-                        39.415088,
-                        57.185812
-                  ]
-            },
-            {
-                  "name": "Ishnya Church",
-                  "text": "A rare and well-preserved wooden church dating from the 17th century.",
-                  "category": "religious",
-                  "coords": [
-                        39.354207,
-                        57.180342
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "tower",
     parent: "RU",
@@ -14715,33 +13127,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
     id: "russia-tula-kremlin-tower-history-v2", "sights": {
       "de": [
             {
-                  "name": "Samowarmuseum",
-                  "text": "Ein einzigartiges Museum in Tula, das eine große Sammlung traditioneller russischer Samoware zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        37.61894,
-                        54.194274
-                  ]
-            },
-            {
-                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
-                  "text": "Ein Museum, das der Geschichte, Kultur und natürlichen Umwelt der Region Tula gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        37.618568,
-                        54.191066
-                  ]
-            },
-            {
-                  "name": "Kreml",
-                  "text": "Das Tulaer Kreml ist eine historische Festung und ein bedeutendes Architekturdenkmal in Tula.",
-                  "category": "castle",
-                  "coords": [
-                        37.62039,
-                        54.195076
-                  ]
-            },
-            {
                   "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
                   "text": "Dieses renommierte Theater in Tula bietet eine Vielzahl von dramatischen Aufführungen.",
                   "category": "cultural",
@@ -14766,24 +13151,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         37.615196,
                         54.191507
-                  ]
-            },
-            {
-                  "name": "Muzei Prianika",
-                  "text": "Dieses Museum zeigt die Geschichte und Herstellung der berühmten Tulaer Lebkuchen.",
-                  "category": "museum",
-                  "coords": [
-                        37.622309,
-                        54.211542
-                  ]
-            },
-            {
-                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
-                  "text": "Ein Kammertheater in Tula, das für seine intimen und ausdrucksstarken Aufführungen bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        37.626177,
-                        54.191998
                   ]
             },
             {
@@ -14812,54 +13179,9 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                         37.588762,
                         54.180884
                   ]
-            },
-            {
-                  "name": "Kharakter",
-                  "text": "Ein Freizeitbereich namens ‚Kharakter‘ am Tulaer Kreml-Turm.",
-                  "category": "recreational",
-                  "coords": [
-                        37.593657,
-                        54.197341
-                  ]
-            },
-            {
-                  "name": "Otryv",
-                  "text": "Ein Erlebnisraum namens ‚Otryv‘ am Tulaer Kreml-Turm.",
-                  "category": "recreational",
-                  "coords": [
-                        37.602294,
-                        54.197773
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Tul'skie samovary",
-                  "text": "Egyedülálló múzeum Tulában, amely hagyományos orosz szamovárok hatalmas gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        37.61894,
-                        54.194274
-                  ]
-            },
-            {
-                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
-                  "text": "Tula régió történelmének, kultúrájának és természeti környezetének szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        37.618568,
-                        54.191066
-                  ]
-            },
-            {
-                  "name": "Kreml'",
-                  "text": "A tulai kreml egy történelmi erődítmény és jelentős építészeti emlékmű Tulában.",
-                  "category": "castle",
-                  "coords": [
-                        37.62039,
-                        54.195076
-                  ]
-            },
             {
                   "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
                   "text": "Ez a neves tulai színház számos drámai előadásnak ad otthont.",
@@ -14888,24 +13210,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Muzei Prianika",
-                  "text": "Ez a múzeum a híres tulai mézeskalács történetét és készítését mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        37.622309,
-                        54.211542
-                  ]
-            },
-            {
-                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
-                  "text": "Egy tulai kamaraszínház, amely bensőséges és kifejező előadásairól ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        37.626177,
-                        54.191998
-                  ]
-            },
-            {
                   "name": "Trogatel'nyi zoopark",
                   "text": "Egy 'Trogatel'nyi zoopark' (Simogató állatkert) a Tula Kreml torony mellett.",
                   "category": "recreational",
@@ -14931,54 +13235,9 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                         37.588762,
                         54.180884
                   ]
-            },
-            {
-                  "name": "Kharakter",
-                  "text": "Egy 'Kharakter' (Karakter) nevű szabadidős zóna a Tula Kreml torony közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        37.593657,
-                        54.197341
-                  ]
-            },
-            {
-                  "name": "Otryv",
-                  "text": "Egy 'Otryv' (Leválás) nevű élménytér a Tula Kreml torony mellett.",
-                  "category": "recreational",
-                  "coords": [
-                        37.602294,
-                        54.197773
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Tul'skie samovary",
-                  "text": "Un muzeu unic în Tula, care expune o colecție vastă de samovare rusești tradiționale.",
-                  "category": "museum",
-                  "coords": [
-                        37.61894,
-                        54.194274
-                  ]
-            },
-            {
-                  "name": "Tul'skii oblastnoi kraevedcheskii muzei",
-                  "text": "Un muzeu dedicat istoriei, culturii și mediului natural al regiunii Tula.",
-                  "category": "museum",
-                  "coords": [
-                        37.618568,
-                        54.191066
-                  ]
-            },
-            {
-                  "name": "Kreml'",
-                  "text": "Kremlinul din Tula este o cetate istorică și un monument arhitectural important din Tula.",
-                  "category": "castle",
-                  "coords": [
-                        37.62039,
-                        54.195076
-                  ]
-            },
             {
                   "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
                   "text": "Acest teatru renumit din Tula oferă o varietate de spectacole dramatice.",
@@ -15007,24 +13266,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Muzei Prianika",
-                  "text": "Acest muzeu prezintă istoria și fabricarea faimoaselor turtă dulce din Tula.",
-                  "category": "museum",
-                  "coords": [
-                        37.622309,
-                        54.211542
-                  ]
-            },
-            {
-                  "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
-                  "text": "Un teatru de cameră din Tula, cunoscut pentru spectacolele sale intime și expresive.",
-                  "category": "cultural",
-                  "coords": [
-                        37.626177,
-                        54.191998
-                  ]
-            },
-            {
                   "name": "Trogatel'nyi zoopark",
                   "text": "O grădină zoologică de contact numită 'Trogatel'nyi zoopark' lângă Turnul Kremlinului din Tula.",
                   "category": "recreational",
@@ -15050,54 +13291,9 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                         37.588762,
                         54.180884
                   ]
-            },
-            {
-                  "name": "Kharakter",
-                  "text": "O zonă de agrement numită 'Kharakter' lângă Turnul Kremlinului din Tula.",
-                  "category": "recreational",
-                  "coords": [
-                        37.593657,
-                        54.197341
-                  ]
-            },
-            {
-                  "name": "Otryv",
-                  "text": "Un spațiu de experiență numit 'Otryv' lângă Turnul Kremlinului din Tula.",
-                  "category": "recreational",
-                  "coords": [
-                        37.602294,
-                        54.197773
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Tula Samovars' Museum",
-                  "text": "A unique museum in Tula displaying a vast collection of traditional Russian samovars.",
-                  "category": "museum",
-                  "coords": [
-                        37.61894,
-                        54.194274
-                  ]
-            },
-            {
-                  "name": "Tula Local Museum",
-                  "text": "A museum dedicated to the history, culture, and natural environment of the Tula region.",
-                  "category": "museum",
-                  "coords": [
-                        37.618568,
-                        54.191066
-                  ]
-            },
-            {
-                  "name": "Kremlin",
-                  "text": "The Tula Kremlin is a historic fortress and a significant architectural monument in Tula.",
-                  "category": "castle",
-                  "coords": [
-                        37.62039,
-                        54.195076
-                  ]
-            },
             {
                   "name": "Tula Academic Drama Theater",
                   "text": "This renowned theater in Tula offers a variety of dramatic performances.",
@@ -15126,24 +13322,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Pryanik Museum",
-                  "text": "This museum showcases the history and production of the famous Tula gingerbread.",
-                  "category": "museum",
-                  "coords": [
-                        37.622309,
-                        54.211542
-                  ]
-            },
-            {
-                  "name": "Tula Chamber Drama Theater",
-                  "text": "A chamber theater in Tula known for its intimate and expressive performances.",
-                  "category": "cultural",
-                  "coords": [
-                        37.626177,
-                        54.191998
-                  ]
-            },
-            {
                   "name": "Trogatel'nyi zoopark",
                   "text": "A petting zoo called 'Trogatel'nyi zoopark' near the Tula Kremlin Tower.",
                   "category": "recreational",
@@ -15168,24 +13346,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         37.588762,
                         54.180884
-                  ]
-            },
-            {
-                  "name": "Kharakter",
-                  "text": "A recreational zone called 'Kharakter' near the Tula Kremlin Tower.",
-                  "category": "recreational",
-                  "coords": [
-                        37.593657,
-                        54.197341
-                  ]
-            },
-            {
-                  "name": "Otryv",
-                  "text": "An experience room called 'Otryv' by the Tula Kremlin Tower.",
-                  "category": "recreational",
-                  "coords": [
-                        37.602294,
-                        54.197773
                   ]
             }
       ]
@@ -15297,15 +13457,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         92.881743,
                         56.011324
-                  ]
-            },
-            {
-                  "name": "Muzeinyi tsentr <<Ploshchad' Mira>>",
-                  "text": "Das größte Zentrum für zeitgenössische Kunst in Sibirien, ehemals ein Lenin-Museum.",
-                  "category": "museum",
-                  "coords": [
-                        92.893811,
-                        56.010964
                   ]
             },
             {
@@ -15426,15 +13577,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Vinogradovskii most",
-                  "text": "Eine Schrägseil-Fußgängerbrücke, die das Stadtzentrum mit der Erholungsinsel Tatyschew verbindet.",
-                  "category": "landmark",
-                  "coords": [
-                        92.900448,
-                        56.013797
-                  ]
-            },
-            {
                   "name": "Chasovnia Paraskevy Piatnitsy",
                   "text": "Eine ikonische Kapelle auf einem Hügel, die auf der russischen 10-Rubel-Banknote abgebildet ist.",
                   "category": "landmark",
@@ -15552,15 +13694,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Khogvarts Kholl",
-                  "text": "Ein thematisches Museum und Ausstellungsraum, inspiriert von der magischen Welt der Fantasy-Literatur.",
-                  "category": "museum",
-                  "coords": [
-                        92.901223,
-                        56.019715
-                  ]
-            },
-            {
                   "name": "Narodnyi muzei istorii OVD Krasnoiarskogo kraia",
                   "text": "Ein Fachmuseum, das die Geschichte und Entwicklung der regionalen Strafverfolgungsbehörden detailliert darstellt.",
                   "category": "museum",
@@ -15594,15 +13727,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         92.846674,
                         56.010631
-                  ]
-            },
-            {
-                  "name": "Memorial Pobedy",
-                  "text": "Ein feierlicher Gedenkkomplex mit einer ewigen Flamme, gewidmet den Soldaten des Großen Vaterländischen Krieges.",
-                  "category": "museum",
-                  "coords": [
-                        92.886896,
-                        56.023144
                   ]
             },
             {
@@ -15650,15 +13774,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         92.881743,
                         56.011324
-                  ]
-            },
-            {
-                  "name": "Muzeinyi tsentr <<Ploshchad' Mira>>",
-                  "text": "Szibéria legnagyobb kortárs művészeti központja, amely korábban Lenin-múzeum volt.",
-                  "category": "museum",
-                  "coords": [
-                        92.893811,
-                        56.010964
                   ]
             },
             {
@@ -15779,15 +13894,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Vinogradovskii most",
-                  "text": "Kábeltartós gyalogoshíd, amely a városközpontot köti össze a szabadidős Tatisev-szigettel.",
-                  "category": "landmark",
-                  "coords": [
-                        92.900448,
-                        56.013797
-                  ]
-            },
-            {
                   "name": "Chasovnia Paraskevy Piatnitsy",
                   "text": "Egy dombtetőn álló ikonikus kápolna, amely az orosz 10 rubeles bankjegyen is szerepel.",
                   "category": "landmark",
@@ -15905,15 +14011,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Khogvarts Kholl",
-                  "text": "Tematikus múzeum és kiállítótér, amelyet a fantasy irodalom mágikus világa ihletett.",
-                  "category": "museum",
-                  "coords": [
-                        92.901223,
-                        56.019715
-                  ]
-            },
-            {
                   "name": "Narodnyi muzei istorii OVD Krasnoiarskogo kraia",
                   "text": "Speciális múzeum, amely a regionális bűnüldözés és belügyek történetét és fejlődését mutatja be.",
                   "category": "museum",
@@ -15947,15 +14044,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         92.846674,
                         56.010631
-                  ]
-            },
-            {
-                  "name": "Memorial Pobedy",
-                  "text": "Komor emlékkomplexum öröklánggal, amelyet a Nagy Honvédő Háború katonáinak szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        92.886896,
-                        56.023144
                   ]
             },
             {
@@ -16003,15 +14091,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         92.881743,
                         56.011324
-                  ]
-            },
-            {
-                  "name": "Muzeinyi tsentr <<Ploshchad' Mira>>",
-                  "text": "Cel mai mare centru de artă contemporană din Siberia, fost muzeu dedicat lui Lenin.",
-                  "category": "museum",
-                  "coords": [
-                        92.893811,
-                        56.010964
                   ]
             },
             {
@@ -16132,15 +14211,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Vinogradovskii most",
-                  "text": "Un pod pietonal hobanat care leagă centrul orașului de insula de recreere Tatîșev.",
-                  "category": "landmark",
-                  "coords": [
-                        92.900448,
-                        56.013797
-                  ]
-            },
-            {
                   "name": "Chasovnia Paraskevy Piatnitsy",
                   "text": "O capelă emblematică pe un deal, reprezentată pe bancnota rusească de 10 ruble.",
                   "category": "landmark",
@@ -16258,15 +14328,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Khogvarts Kholl",
-                  "text": "Un muzeu tematic și spațiu expozițional inspirat de lumea magică a literaturii fantasy.",
-                  "category": "museum",
-                  "coords": [
-                        92.901223,
-                        56.019715
-                  ]
-            },
-            {
                   "name": "Narodnyi muzei istorii OVD Krasnoiarskogo kraia",
                   "text": "Un muzeu specializat ce detaliază istoria și dezvoltarea forțelor de ordine și a afacerilor interne regionale.",
                   "category": "museum",
@@ -16300,15 +14361,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         92.846674,
                         56.010631
-                  ]
-            },
-            {
-                  "name": "Memorial Pobedy",
-                  "text": "Un complex memorial solemn cu o flacără eternă, dedicat soldaților din Marele Război pentru Apărarea Patriei.",
-                  "category": "museum",
-                  "coords": [
-                        92.886896,
-                        56.023144
                   ]
             },
             {
@@ -16359,24 +14411,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Muzeinyi tsentr <<Ploshchad' Mira>>",
-                  "text": "The largest contemporary art center in Siberia, formerly a museum dedicated to Lenin.",
-                  "category": "museum",
-                  "coords": [
-                        92.893811,
-                        56.010964
-                  ]
-            },
-            {
-                  "name": "Steamship \"Sainted Nicholas\"",
-                  "text": "A historic 19th-century river steamer, now a museum anchored on the Yenisei River.",
-                  "category": "museum",
-                  "coords": [
-                        92.894969,
-                        56.0106
-                  ]
-            },
-            {
                   "name": "Muzei-usad'ba Vasiliia Ivanovicha Surikova",
                   "text": "The preserved wooden estate where the celebrated painter Vasily Surikov was born.",
                   "category": "museum",
@@ -16419,15 +14453,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         92.894792,
                         56.01246
-                  ]
-            },
-            {
-                  "name": "Krasnoyarsk State Circus",
-                  "text": "A permanent circus venue featuring a distinctive dome structure on the city's right bank.",
-                  "category": "cultural",
-                  "coords": [
-                        92.907502,
-                        55.995657
                   ]
             },
             {
@@ -16482,15 +14507,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         92.872459,
                         56.009503
-                  ]
-            },
-            {
-                  "name": "Vinogradovskii most",
-                  "text": "A cable-stayed pedestrian bridge connecting the city center to the recreational Tatyshev Island.",
-                  "category": "landmark",
-                  "coords": [
-                        92.900448,
-                        56.013797
                   ]
             },
             {
@@ -16611,15 +14627,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   ]
             },
             {
-                  "name": "Khogvarts Kholl",
-                  "text": "A thematic museum and exhibition space inspired by the magical world of fantasy literature.",
-                  "category": "museum",
-                  "coords": [
-                        92.901223,
-                        56.019715
-                  ]
-            },
-            {
                   "name": "Narodnyi muzei istorii OVD Krasnoiarskogo kraia",
                   "text": "A specialized museum detailing the history and development of the regional law enforcement and internal affairs.",
                   "category": "museum",
@@ -16653,15 +14660,6 @@ imageHint: "Pavlovsk Palace golden facade and dome",
                   "coords": [
                         92.846674,
                         56.010631
-                  ]
-            },
-            {
-                  "name": "Victory Memorial",
-                  "text": "A somber memorial complex with an eternal flame dedicated to the soldiers of the Great Patriotic War.",
-                  "category": "museum",
-                  "coords": [
-                        92.886896,
-                        56.023144
                   ]
             },
             {

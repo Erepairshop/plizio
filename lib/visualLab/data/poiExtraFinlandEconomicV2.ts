@@ -15,15 +15,6 @@ export const finlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gesterbyn museoalue",
-                  "text": "Ein Freilichtmuseum in Kirkkonummi, das die lokale Geschichte präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        24.444921,
-                        60.131411
-                  ]
-            },
-            {
                   "name": "Ragvaldsin museoalue",
                   "text": "Ein historisches Museumsgelände mit einem alten Bauernhof in Kirkkonummi.",
                   "category": "museum",
@@ -33,48 +24,12 @@ export const finlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Perämoottorimuseo",
-                  "text": "Ein spezialisiertes Museum in Kirkkonummi, das Außenbordmotoren gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        24.470005,
-                        60.118717
-                  ]
-            },
-            {
-                  "name": "Högbergetin ikimetsä",
-                  "text": "Altwald auf dem Högberget-Hügel mit uralten Bäumen.",
-                  "category": "natural",
-                  "coords": [
-                        24.488712,
-                        60.111706
-                  ]
-            },
-            {
-                  "name": "Barkas naturskyddsområde",
-                  "text": "Ein Naturschutzgebiet in der Nähe von Kirkkonummi, das der Erhaltung der lokalen Flora dient.",
-                  "category": "natural",
-                  "coords": [
-                        24.480521,
-                        60.148422
-                  ]
-            },
-            {
                   "name": "Vaipon luonnonsuojelualue",
                   "text": "Naturschutzgebiet mit vielfältigen Lebensräumen in Vaipo.",
                   "category": "natural",
                   "coords": [
                         24.373443,
                         60.128482
-                  ]
-            },
-            {
-                  "name": "Hemträskets naturskyddsområde",
-                  "text": "Ein Naturschutzgebiet in Kirkkonummi, das wertvolle Feuchtgebiete umfasst.",
-                  "category": "natural",
-                  "coords": [
-                        24.480348,
-                        60.151293
                   ]
             },
             {
@@ -98,15 +53,6 @@ export const finlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gesterbyn museoalue",
-                  "text": "Kirkkonummi szabadtéri múzeuma, amely a helyi történelmet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        24.444921,
-                        60.131411
-                  ]
-            },
-            {
                   "name": "Ragvaldsin museoalue",
                   "text": "Történelmi múzeumi terület egy régi tanyával Kirkkonummiban.",
                   "category": "museum",
@@ -116,48 +62,12 @@ export const finlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Perämoottorimuseo",
-                  "text": "Speciális múzeum Kirkkonummiban, amelyet a csónakmotoroknak szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        24.470005,
-                        60.118717
-                  ]
-            },
-            {
-                  "name": "Högbergetin ikimetsä",
-                  "text": "Őserdő a Högberget-dombon, évszázados fákkal.",
-                  "category": "natural",
-                  "coords": [
-                        24.488712,
-                        60.111706
-                  ]
-            },
-            {
-                  "name": "Barkas naturskyddsområde",
-                  "text": "Természetvédelmi terület Kirkkonummi közelében a helyi flóra megőrzésére.",
-                  "category": "natural",
-                  "coords": [
-                        24.480521,
-                        60.148422
-                  ]
-            },
-            {
                   "name": "Vaipon luonnonsuojelualue",
                   "text": "Természetvédelmi terület változatos élőhelyekkel Vaipoban.",
                   "category": "natural",
                   "coords": [
                         24.373443,
                         60.128482
-                  ]
-            },
-            {
-                  "name": "Hemträskets naturskyddsområde",
-                  "text": "Értékes lápos területeket magában foglaló természetvédelmi terület Kirkkonummiban.",
-                  "category": "natural",
-                  "coords": [
-                        24.480348,
-                        60.151293
                   ]
             },
             {
@@ -181,15 +91,6 @@ export const finlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gesterbyn museoalue",
-                  "text": "Un muzeu în aer liber în Kirkkonummi, care prezintă istoria locală.",
-                  "category": "museum",
-                  "coords": [
-                        24.444921,
-                        60.131411
-                  ]
-            },
-            {
                   "name": "Ragvaldsin museoalue",
                   "text": "Un sit muzeal istoric cu o fermă veche în Kirkkonummi.",
                   "category": "museum",
@@ -199,48 +100,12 @@ export const finlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Perämoottorimuseo",
-                  "text": "Un muzeu specializat în Kirkkonummi dedicat motoarelor outboard.",
-                  "category": "museum",
-                  "coords": [
-                        24.470005,
-                        60.118717
-                  ]
-            },
-            {
-                  "name": "Högbergetin ikimetsä",
-                  "text": "Pădure seculară pe dealul Högberget, cu arbori bătrâni.",
-                  "category": "natural",
-                  "coords": [
-                        24.488712,
-                        60.111706
-                  ]
-            },
-            {
-                  "name": "Barkas naturskyddsområde",
-                  "text": "O rezervație naturală lângă Kirkkonummi, dedicată conservării florei locale.",
-                  "category": "natural",
-                  "coords": [
-                        24.480521,
-                        60.148422
-                  ]
-            },
-            {
                   "name": "Vaipon luonnonsuojelualue",
                   "text": "Rezervație naturală cu habitate diverse în Vaipo.",
                   "category": "natural",
                   "coords": [
                         24.373443,
                         60.128482
-                  ]
-            },
-            {
-                  "name": "Hemträskets naturskyddsområde",
-                  "text": "O rezervație naturală în Kirkkonummi, care cuprinde zone umede valoroase.",
-                  "category": "natural",
-                  "coords": [
-                        24.480348,
-                        60.151293
                   ]
             },
             {
@@ -264,15 +129,6 @@ export const finlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gesterbyn museoalue",
-                  "text": "An open-air museum in Kirkkonummi showcasing local history.",
-                  "category": "museum",
-                  "coords": [
-                        24.444921,
-                        60.131411
-                  ]
-            },
-            {
                   "name": "Ragvaldsin museoalue",
                   "text": "A historical museum site featuring an old farmstead in Kirkkonummi.",
                   "category": "museum",
@@ -282,48 +138,12 @@ export const finlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Perämoottorimuseo",
-                  "text": "A specialized museum in Kirkkonummi dedicated to outboard motors.",
-                  "category": "museum",
-                  "coords": [
-                        24.470005,
-                        60.118717
-                  ]
-            },
-            {
-                  "name": "Högbergetin ikimetsä",
-                  "text": "Old-growth forest on Högberget hill, with ancient trees.",
-                  "category": "natural",
-                  "coords": [
-                        24.488712,
-                        60.111706
-                  ]
-            },
-            {
-                  "name": "Barkas naturskyddsområde",
-                  "text": "A nature reserve near Kirkkonummi dedicated to preserving local flora.",
-                  "category": "natural",
-                  "coords": [
-                        24.480521,
-                        60.148422
-                  ]
-            },
-            {
                   "name": "Vaipon luonnonsuojelualue",
                   "text": "Protected nature reserve with diverse habitats in Vaipo.",
                   "category": "natural",
                   "coords": [
                         24.373443,
                         60.128482
-                  ]
-            },
-            {
-                  "name": "Hemträskets naturskyddsområde",
-                  "text": "A nature reserve in Kirkkonummi encompassing valuable wetlands.",
-                  "category": "natural",
-                  "coords": [
-                        24.480348,
-                        60.151293
                   ]
             },
             {
@@ -456,30 +276,12 @@ export const finlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hangon museo",
-                  "text": "Ein lokales Museum, das die Geschichte und das maritime Erbe der Stadt Hanko dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        22.95601,
-                        59.827654
-                  ]
-            },
-            {
                   "name": "Puistovuoren hiidenkirnu",
                   "text": "Riesentöpfe, also glaziale Erosionsformen, die sich im Gebiet Puistovuori befinden.",
                   "category": "natural",
                   "coords": [
                         22.981176,
                         59.820257
-                  ]
-            },
-            {
-                  "name": "Slaktiksen uimaranta",
-                  "text": "Ein öffentlicher Badestrand im Küstengebiet von Hanko.",
-                  "category": "recreational",
-                  "coords": [
-                        22.926066,
-                        59.831755
                   ]
             },
             {
@@ -521,30 +323,12 @@ export const finlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hangon museo",
-                  "text": "Helyi múzeum, amely Hanko városának történelmét és tengeri örökségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        22.95601,
-                        59.827654
-                  ]
-            },
-            {
                   "name": "Puistovuoren hiidenkirnu",
                   "text": "Gleccsereróziós képződmények, úgynevezett óriásüstök Puistovuori területén.",
                   "category": "natural",
                   "coords": [
                         22.981176,
                         59.820257
-                  ]
-            },
-            {
-                  "name": "Slaktiksen uimaranta",
-                  "text": "Nyilvános strand Hanko tengerparti övezetében.",
-                  "category": "recreational",
-                  "coords": [
-                        22.926066,
-                        59.831755
                   ]
             },
             {
@@ -586,30 +370,12 @@ export const finlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hangon museo",
-                  "text": "Un muzeu local care documentează istoria și patrimoniul maritim al orașului Hanko.",
-                  "category": "museum",
-                  "coords": [
-                        22.95601,
-                        59.827654
-                  ]
-            },
-            {
                   "name": "Puistovuoren hiidenkirnu",
                   "text": "Marmite de gigant, formațiuni de eroziune glaciară, situate în zona Puistovuori.",
                   "category": "natural",
                   "coords": [
                         22.981176,
                         59.820257
-                  ]
-            },
-            {
-                  "name": "Slaktiksen uimaranta",
-                  "text": "O plajă publică situată în zona de coastă a orașului Hanko.",
-                  "category": "recreational",
-                  "coords": [
-                        22.926066,
-                        59.831755
                   ]
             },
             {
@@ -651,30 +417,12 @@ export const finlandEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hangon museo",
-                  "text": "A local museum documenting the history and maritime heritage of the town of Hanko.",
-                  "category": "museum",
-                  "coords": [
-                        22.95601,
-                        59.827654
-                  ]
-            },
-            {
                   "name": "Puistovuoren hiidenkirnu",
                   "text": "Giant's kettles, which are glacial erosion formations, located in the Puistovuori area.",
                   "category": "natural",
                   "coords": [
                         22.981176,
                         59.820257
-                  ]
-            },
-            {
-                  "name": "Slaktiksen uimaranta",
-                  "text": "A public swimming beach located in the coastal area of Hanko.",
-                  "category": "recreational",
-                  "coords": [
-                        22.926066,
-                        59.831755
                   ]
             },
             {

@@ -1938,15 +1938,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
     id: "tijuana-cities-v2", "sights": {
       "de": [
             {
-                  "name": "El Cubo",
-                  "text": "Würfelförmiges Gebäude, das zeitgenössische Kunstausstellungen beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        -117.023286,
-                        32.529471
-                  ]
-            },
-            {
                   "name": "Audiorama",
                   "text": "Open-Air-Konzertort in Tijuanas Zona Río.",
                   "category": "cultural",
@@ -1980,15 +1971,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -117.037036,
                         32.527394
-                  ]
-            },
-            {
-                  "name": "Museo 1889",
-                  "text": "Museum in einem Gebäude von 1889 in Tijuana, das die Stadtgeschichte zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -117.036705,
-                        32.535056
                   ]
             },
             {
@@ -2264,15 +2246,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "El Cubo",
-                  "text": "Kocka alakú épület, kortárs művészeti kiállításoknak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        -117.023286,
-                        32.529471
-                  ]
-            },
-            {
                   "name": "Audiorama",
                   "text": "Szabadtéri koncerthelyszín Tijuana Zona Río negyedében.",
                   "category": "cultural",
@@ -2306,15 +2279,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -117.037036,
                         32.527394
-                  ]
-            },
-            {
-                  "name": "Museo 1889",
-                  "text": "Múzeum egy 1889-es épületben Tijuanában, a város történetét bemutatva.",
-                  "category": "museum",
-                  "coords": [
-                        -117.036705,
-                        32.535056
                   ]
             },
             {
@@ -2590,15 +2554,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "El Cubo",
-                  "text": "Clădire cubică ce găzduiește expoziții de artă contemporană.",
-                  "category": "museum",
-                  "coords": [
-                        -117.023286,
-                        32.529471
-                  ]
-            },
-            {
                   "name": "Audiorama",
                   "text": "Loc de concerte în aer liber în Zona Río din Tijuana.",
                   "category": "cultural",
@@ -2632,15 +2587,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -117.037036,
                         32.527394
-                  ]
-            },
-            {
-                  "name": "Museo 1889",
-                  "text": "Muzeu într-o clădire din 1889 în Tijuana, care prezintă istoria orașului.",
-                  "category": "museum",
-                  "coords": [
-                        -117.036705,
-                        32.535056
                   ]
             },
             {
@@ -2916,15 +2862,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "El Cubo",
-                  "text": "A cubic building housing contemporary art exhibitions.",
-                  "category": "museum",
-                  "coords": [
-                        -117.023286,
-                        32.529471
-                  ]
-            },
-            {
                   "name": "Audiorama",
                   "text": "Open-air concert venue in Tijuana's Zona Río.",
                   "category": "cultural",
@@ -2958,15 +2895,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -117.037036,
                         32.527394
-                  ]
-            },
-            {
-                  "name": "Museo 1889",
-                  "text": "Museum in an 1889 building in Tijuana, showcasing the city's history.",
-                  "category": "museum",
-                  "coords": [
-                        -117.036705,
-                        32.535056
                   ]
             },
             {
@@ -3270,33 +3198,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
     id: "ciudad-juarez-cities-v2", "sights": {
       "de": [
             {
-                  "name": "El Paso Museum of Art",
-                  "text": "Museum mit einer Sammlung europäischer und mexikanischer Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        -106.49034,
-                        31.758577
-                  ]
-            },
-            {
-                  "name": "El Paso Museum of History",
-                  "text": "El Paso Museum of History ist ein Geschichtsmuseum in Juarez.",
-                  "category": "museum",
-                  "coords": [
-                        -106.491575,
-                        31.760197
-                  ]
-            },
-            {
-                  "name": "El Paso Holocaust Museum",
-                  "text": "Museum zur Holocaust-Aufklärung mit Überlebensgeschichten.",
-                  "category": "museum",
-                  "coords": [
-                        -106.491964,
-                        31.762325
-                  ]
-            },
-            {
                   "name": "Museo de Arte de Ciudad Juárez",
                   "text": "Kunstmuseum mit zeitgenössischen Werken in Ciudad Juárez.",
                   "category": "museum",
@@ -3321,15 +3222,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -106.485958,
                         31.74299
-                  ]
-            },
-            {
-                  "name": "Salón de la fama del deportista juarense",
-                  "text": "Ruhmeshalle für Sportler aus Juárez.",
-                  "category": "museum",
-                  "coords": [
-                        -106.469655,
-                        31.752017
                   ]
             },
             {
@@ -3360,30 +3252,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Abraham Chavez Theatre",
-                  "text": "Theater für darstellende Künste, benannt nach Abraham Chávez in Juárez.",
-                  "category": "cultural",
-                  "coords": [
-                        -106.490771,
-                        31.757529
-                  ]
-            },
-            {
                   "name": "Monumento a Benito Juárez",
                   "text": "Monumento a Benito Juárez ist ein Denkmal für Benito Juárez in Juarez.",
                   "category": "historical",
                   "coords": [
                         -106.479045,
                         31.735409
-                  ]
-            },
-            {
-                  "name": "Parque Público Federal El Chamizal",
-                  "text": "Der Parque Público Federal El Chamizal ist ein Stadtpark in Ciudad Juárez, der an die Beilegung eines Grenzstreits erinnert.",
-                  "category": "park",
-                  "coords": [
-                        -106.457962,
-                        31.756542
                   ]
             },
             {
@@ -3488,33 +3362,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "El Paso Museum of Art",
-                  "text": "Múzeum európai és mexikói művészeti gyűjteménnyel.",
-                  "category": "museum",
-                  "coords": [
-                        -106.49034,
-                        31.758577
-                  ]
-            },
-            {
-                  "name": "El Paso Museum of History",
-                  "text": "Az El Paso Museum of History egy történeti múzeum Juarezben.",
-                  "category": "museum",
-                  "coords": [
-                        -106.491575,
-                        31.760197
-                  ]
-            },
-            {
-                  "name": "El Paso Holocaust Museum",
-                  "text": "Holokauszt-oktatási múzeum túlélők történeteivel.",
-                  "category": "museum",
-                  "coords": [
-                        -106.491964,
-                        31.762325
-                  ]
-            },
-            {
                   "name": "Museo de Arte de Ciudad Juárez",
                   "text": "Kortárs művészeti múzeum Ciudad Juárezben.",
                   "category": "museum",
@@ -3539,15 +3386,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -106.485958,
                         31.74299
-                  ]
-            },
-            {
-                  "name": "Salón de la fama del deportista juarense",
-                  "text": "Juárezi sportolók dicsőségcsarnoka.",
-                  "category": "museum",
-                  "coords": [
-                        -106.469655,
-                        31.752017
                   ]
             },
             {
@@ -3578,30 +3416,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Abraham Chavez Theatre",
-                  "text": "Előadóművészeti színház, Abraham Chávezről elnevezve Juárezben.",
-                  "category": "cultural",
-                  "coords": [
-                        -106.490771,
-                        31.757529
-                  ]
-            },
-            {
                   "name": "Monumento a Benito Juárez",
                   "text": "A Monumento a Benito Juárez egy Benito Juárez emlékmű Juarezben.",
                   "category": "historical",
                   "coords": [
                         -106.479045,
                         31.735409
-                  ]
-            },
-            {
-                  "name": "Parque Público Federal El Chamizal",
-                  "text": "A Parque Público Federal El Chamizal egy városi park Ciudad Juárez-ben, amely egy határvita rendezésének állít emléket.",
-                  "category": "park",
-                  "coords": [
-                        -106.457962,
-                        31.756542
                   ]
             },
             {
@@ -3706,33 +3526,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "El Paso Museum of Art",
-                  "text": "Muzeu cu o colecție de artă europeană și mexicană.",
-                  "category": "museum",
-                  "coords": [
-                        -106.49034,
-                        31.758577
-                  ]
-            },
-            {
-                  "name": "El Paso Museum of History",
-                  "text": "El Paso Museum of History este un muzeu de istorie din Juarez.",
-                  "category": "museum",
-                  "coords": [
-                        -106.491575,
-                        31.760197
-                  ]
-            },
-            {
-                  "name": "El Paso Holocaust Museum",
-                  "text": "Muzeu de educație despre Holocaust cu povești ale supraviețuitorilor.",
-                  "category": "museum",
-                  "coords": [
-                        -106.491964,
-                        31.762325
-                  ]
-            },
-            {
                   "name": "Museo de Arte de Ciudad Juárez",
                   "text": "Muzeu de artă cu lucrări contemporane în Ciudad Juárez.",
                   "category": "museum",
@@ -3757,15 +3550,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -106.485958,
                         31.74299
-                  ]
-            },
-            {
-                  "name": "Salón de la fama del deportista juarense",
-                  "text": "Sala faimei pentru sportivii din Juárez.",
-                  "category": "museum",
-                  "coords": [
-                        -106.469655,
-                        31.752017
                   ]
             },
             {
@@ -3796,30 +3580,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Abraham Chavez Theatre",
-                  "text": "Teatru de arte performative numit după Abraham Chávez în Juárez.",
-                  "category": "cultural",
-                  "coords": [
-                        -106.490771,
-                        31.757529
-                  ]
-            },
-            {
                   "name": "Monumento a Benito Juárez",
                   "text": "Monumento a Benito Juárez este un monument dedicat lui Benito Juárez în Juarez.",
                   "category": "historical",
                   "coords": [
                         -106.479045,
                         31.735409
-                  ]
-            },
-            {
-                  "name": "Parque Público Federal El Chamizal",
-                  "text": "Parque Público Federal El Chamizal este un parc urban din Ciudad Juárez, legat istoric de soluționarea unei dispute de frontieră.",
-                  "category": "park",
-                  "coords": [
-                        -106.457962,
-                        31.756542
                   ]
             },
             {
@@ -3924,33 +3690,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "El Paso Museum of Art",
-                  "text": "A museum with a collection of European and Mexican art.",
-                  "category": "museum",
-                  "coords": [
-                        -106.49034,
-                        31.758577
-                  ]
-            },
-            {
-                  "name": "El Paso Museum of History",
-                  "text": "El Paso Museum of History is a history museum in Juarez.",
-                  "category": "museum",
-                  "coords": [
-                        -106.491575,
-                        31.760197
-                  ]
-            },
-            {
-                  "name": "El Paso Holocaust Museum",
-                  "text": "A museum dedicated to Holocaust education, featuring survivor stories.",
-                  "category": "museum",
-                  "coords": [
-                        -106.491964,
-                        31.762325
-                  ]
-            },
-            {
                   "name": "Museo de Arte de Ciudad Juárez",
                   "text": "Art museum with contemporary works in Ciudad Juárez.",
                   "category": "museum",
@@ -3975,15 +3714,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -106.485958,
                         31.74299
-                  ]
-            },
-            {
-                  "name": "Salón de la fama del deportista juarense",
-                  "text": "Hall of fame for athletes from Juárez.",
-                  "category": "museum",
-                  "coords": [
-                        -106.469655,
-                        31.752017
                   ]
             },
             {
@@ -4014,30 +3744,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Abraham Chavez Theatre",
-                  "text": "Performing arts theatre named after Abraham Chávez in Juárez.",
-                  "category": "cultural",
-                  "coords": [
-                        -106.490771,
-                        31.757529
-                  ]
-            },
-            {
                   "name": "Monumento a Benito Juárez",
                   "text": "Monumento a Benito Juárez is a monument to Benito Juárez in Juarez.",
                   "category": "historical",
                   "coords": [
                         -106.479045,
                         31.735409
-                  ]
-            },
-            {
-                  "name": "Parque Público Federal El Chamizal",
-                  "text": "Parque Público Federal El Chamizal is an urban park in Ciudad Juárez associated with a historic border dispute settlement.",
-                  "category": "park",
-                  "coords": [
-                        -106.457962,
-                        31.756542
                   ]
             },
             {
@@ -5052,30 +4764,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Los Valentinos",
-                  "text": "Ein Themenpark in Zapopan mit Unterhaltung für Kinder und Familien.",
-                  "category": "recreational",
-                  "coords": [
-                        -103.349866,
-                        20.696938
-                  ]
-            },
-            {
                   "name": "Balneario Los Alamitos Parque de Agua",
                   "text": "Ein Wasserpark in Zapopan mit Pools und Rutschen für Familienspaß.",
                   "category": "recreational",
                   "coords": [
                         -103.436886,
                         20.765289
-                  ]
-            },
-            {
-                  "name": "Mundo Marino Guadalajara",
-                  "text": "Ein großes Aquarium in Zapopan mit Meereslebewesen, perfekt für Familienbildung.",
-                  "category": "wildlife",
-                  "coords": [
-                        -103.310317,
-                        20.723397
                   ]
             },
             {
@@ -5112,15 +4806,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -103.456261,
                         20.735026
-                  ]
-            },
-            {
-                  "name": "Acuario Michin",
-                  "text": "Ein Zoo und Aquarium in Zapopan, bekannt für seine Meeresausstellungen, geeignet für Familien.",
-                  "category": "wildlife",
-                  "coords": [
-                        -103.351163,
-                        20.692437
                   ]
             },
             {
@@ -5513,30 +5198,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Los Valentinos",
-                  "text": "Egy vidámpark Zapopanban, gyerekek és családok szórakoztatására.",
-                  "category": "recreational",
-                  "coords": [
-                        -103.349866,
-                        20.696938
-                  ]
-            },
-            {
                   "name": "Balneario Los Alamitos Parque de Agua",
                   "text": "Egy vízipark Zapopanban, medencékkel és csúszdákkal családi szórakozáshoz.",
                   "category": "recreational",
                   "coords": [
                         -103.436886,
                         20.765289
-                  ]
-            },
-            {
-                  "name": "Mundo Marino Guadalajara",
-                  "text": "Egy nagy akvárium Zapopanban, tengeri élőlényekkel, tökéletes családi oktatáshoz.",
-                  "category": "wildlife",
-                  "coords": [
-                        -103.310317,
-                        20.723397
                   ]
             },
             {
@@ -5573,15 +5240,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -103.456261,
                         20.735026
-                  ]
-            },
-            {
-                  "name": "Acuario Michin",
-                  "text": "Egy állatkert és akvárium Zapopanban, tengeri kiállításairól ismert, alkalmas családok számára.",
-                  "category": "wildlife",
-                  "coords": [
-                        -103.351163,
-                        20.692437
                   ]
             },
             {
@@ -5974,30 +5632,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Los Valentinos",
-                  "text": "Un parc tematic în Zapopan cu divertisment pentru copii și familii.",
-                  "category": "recreational",
-                  "coords": [
-                        -103.349866,
-                        20.696938
-                  ]
-            },
-            {
                   "name": "Balneario Los Alamitos Parque de Agua",
                   "text": "Un parc acvatic în Zapopan cu piscine și tobogane pentru distracție în familie.",
                   "category": "recreational",
                   "coords": [
                         -103.436886,
                         20.765289
-                  ]
-            },
-            {
-                  "name": "Mundo Marino Guadalajara",
-                  "text": "Un acvariu mare în Zapopan cu exponate de viață marină, perfect pentru educația în familie.",
-                  "category": "wildlife",
-                  "coords": [
-                        -103.310317,
-                        20.723397
                   ]
             },
             {
@@ -6034,15 +5674,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -103.456261,
                         20.735026
-                  ]
-            },
-            {
-                  "name": "Acuario Michin",
-                  "text": "O grădină zoologică și acvariu în Zapopan, cunoscut pentru exponatele marine, potrivit pentru familii.",
-                  "category": "wildlife",
-                  "coords": [
-                        -103.351163,
-                        20.692437
                   ]
             },
             {
@@ -6435,30 +6066,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Los Valentinos",
-                  "text": "A theme park in Zapopan offering entertainment for children and families.",
-                  "category": "recreational",
-                  "coords": [
-                        -103.349866,
-                        20.696938
-                  ]
-            },
-            {
                   "name": "Balneario Los Alamitos Parque de Agua",
                   "text": "A water park in Zapopan with pools and slides for family fun.",
                   "category": "recreational",
                   "coords": [
                         -103.436886,
                         20.765289
-                  ]
-            },
-            {
-                  "name": "Mundo Marino Guadalajara",
-                  "text": "A large aquarium in Zapopan with marine life exhibits, perfect for family education.",
-                  "category": "wildlife",
-                  "coords": [
-                        -103.310317,
-                        20.723397
                   ]
             },
             {
@@ -6495,15 +6108,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -103.456261,
                         20.735026
-                  ]
-            },
-            {
-                  "name": "Acuario Michin",
-                  "text": "A zoo and aquarium in Zapopan, known for its marine exhibits, suitable for families.",
-                  "category": "wildlife",
-                  "coords": [
-                        -103.351163,
-                        20.692437
                   ]
             },
             {
@@ -6672,15 +6276,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zoológico de San Juan de Aragón",
-                  "text": "Zoo in Nezahualcóyotl, einer der größten Zoos in Mexiko-Stadt.",
-                  "category": "wildlife",
-                  "coords": [
-                        -99.083555,
-                        19.461538
-                  ]
-            },
-            {
                   "name": "Alberca Portátil",
                   "text": "Tragbares Schwimmbad in Nezahualcóyotl, oft temporär aufgebaut.",
                   "category": "recreational",
@@ -6788,15 +6383,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -99.083652,
                         19.414742
-                  ]
-            },
-            {
-                  "name": "Zoológico de San Juan de Aragón",
-                  "text": "Állatkert Nezahualcóyotlban, Mexikóváros egyik legnagyobb állatkertje.",
-                  "category": "wildlife",
-                  "coords": [
-                        -99.083555,
-                        19.461538
                   ]
             },
             {
@@ -6910,15 +6496,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zoológico de San Juan de Aragón",
-                  "text": "Grădină zoologică în Nezahualcóyotl, una dintre cele mai mari din Mexico City.",
-                  "category": "wildlife",
-                  "coords": [
-                        -99.083555,
-                        19.461538
-                  ]
-            },
-            {
                   "name": "Alberca Portátil",
                   "text": "Piscină portabilă în Nezahualcóyotl, adesea instalată temporar.",
                   "category": "recreational",
@@ -7026,15 +6603,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -99.083652,
                         19.414742
-                  ]
-            },
-            {
-                  "name": "Zoológico de San Juan de Aragón",
-                  "text": "Zoo in Nezahualcóyotl, one of the largest zoos in Mexico City.",
-                  "category": "wildlife",
-                  "coords": [
-                        -99.083555,
-                        19.461538
                   ]
             },
             {
@@ -11841,15 +11409,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro",
-                  "text": "Das Teatro ist ein Veranstaltungsort für Aufführungen in Acapulco. Es dient der lokalen Kulturpflege.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.908892,
-                        16.848693
-                  ]
-            },
-            {
                   "name": "Playa Tamarindos",
                   "text": "An den lebhaften Ufern von Acapulco gelegen, ist Playa Tamarindos ein bekanntes Strandziel. Der Strand besitzt ein einladendes, klassisches Küstenflair und bietet gleichzeitig einen wunderschönen, weiten Blick über die ikonische Bucht. Er bietet eine hervorragende Gelegenheit zum Sonnenbaden, Schwimmen im warmen Wasser und für einen entspannenden Spaziergang. Es ist eine gute Idee, eine Kamera mitzubringen, um die atemberaubende Küstenlandschaft einzufangen, besonders gegen Abend.",
                   "category": "recreational",
@@ -11859,30 +11418,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playa Las Hamacas",
-                  "text": "Playa Las Hamacas bietet einen ruhigen Rückzugsort am Meer direkt in Acapulco. Geprägt von einer entspannten und beruhigenden Atmosphäre, wird dieser Strand von allen bevorzugt, die einfach nur am Ozean abschalten möchten. Besucher können sich auf friedliche Momente beim Sonnenbaden, lockeres Schwimmen und Spaziergänge entlang der Küste freuen. Eine Ankunft außerhalb der Haupttageszeiten garantiert ein noch ruhigeres Erlebnis am Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.899191,
-                        16.853203
-                  ]
-            },
-            {
                   "name": "Playa Icacos",
                   "text": "Playa Icacos erstreckt sich breit entlang der Küste von Acapulco und ist eine sehr beliebte Sand-Oase. Die energiegeladene Atmosphäre wird durch seine Weitläufigkeit und das lebhafte Angebot an Wassersportarten entlang des Ufers bestimmt. Es ist eine fantastische Kulisse für aktive Besucher, um zu schwimmen, Meeresaktivitäten auszuprobieren oder einen langen Strandspaziergang zu unternehmen. Sonnencreme und Abenteuerlust sind alles, was Sie für einen unvergesslichen Tag hier brauchen.",
                   "category": "recreational",
                   "coords": [
                         -99.857635,
                         16.845225
-                  ]
-            },
-            {
-                  "name": "Playa Tlacopanocha",
-                  "text": "Eingebettet im Herzen von Acapulco, ist die Playa Tlacopanocha für ihre besonders ruhigen Gewässer bekannt. Dieser malerische Strand bietet eine sehr familienfreundliche und traditionell mexikanische Küstenatmosphäre. Die sanften Wellen machen ihn außergewöhnlich sicher und einladend für entspanntes Schwimmen und unbeschwertes Planschen in Ufernähe. Frühzeitiges Eintreffen ist ein kluger Weg, um sich ein gemütliches Plätzchen an diesem bei Einheimischen oft sehr geschätzten Strand zu sichern.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.907688,
-                        16.845175
                   ]
             },
             {
@@ -11922,48 +11463,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de las 7 regiones",
-                  "text": "Das Museo de las 7 regiones in Acapulco zeigt die kulturelle Vielfalt der Region. Es präsentiert lokale Traditionen und Handwerk.",
-                  "category": "museum",
-                  "coords": [
-                        -99.903922,
-                        16.849847
-                  ]
-            },
-            {
-                  "name": "Playa La Aguada",
-                  "text": "Direkt an den glitzernden Gewässern von Acapulco gelegen, ist die Playa La Aguada ein geschätzter lokaler Sandstrand. Die Umgebung bewahrt eine einladende und angenehme Atmosphäre, die Strandbesucher, die den Tag genießen möchten, auf natürliche Weise anzieht. Es ist ein fantastisches Ziel, um Stunden mit Schwimmen, Sonnenbaden oder entspannten Barfuß-Spaziergängen am Strand zu verbringen. Ein Besuch in den wärmeren Monaten garantiert ein durch und durch mexikanisches Küstenerlebnis.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.901042,
-                        16.839433
-                  ]
-            },
-            {
-                  "name": "Mirador de la Bahía",
-                  "text": "Aussichtspunkt mit Panoramablick auf die Bucht von Acapulco.",
-                  "category": "natural",
-                  "coords": [
-                        -99.897847,
-                        16.854412
-                  ]
-            },
-            {
                   "name": "zona arquelogica de Palma Sola",
                   "text": "Die archäologische Zone Palma Sola zeigt historische Stätten in Acapulco.",
                   "category": "landmark",
                   "coords": [
                         -99.90125,
                         16.886304
-                  ]
-            },
-            {
-                  "name": "Monumento José María Morelos y Pavón",
-                  "text": "Denkmal für den Unabhängigkeitshelden José María Morelos an der Küstenstraße von Acapulco.",
-                  "category": "historical",
-                  "coords": [
-                        -99.901086,
-                        16.851899
                   ]
             },
             {
@@ -11996,15 +11501,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro",
-                  "text": "A Teatro egy előadóhely Acapulcóban. A helyi kultúra ápolását szolgálja.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.908892,
-                        16.848693
-                  ]
-            },
-            {
                   "name": "Playa Tamarindos",
                   "text": "Acapulco nyüzsgő partjait díszítve a Playa Tamarindos egy jól ismert homokos úti cél. A strand hívogató, klasszikus tengerparti hangulattal rendelkezik, miközben gyönyörű, széles kilátást nyújt az ikonikus öbölre. Kiváló lehetőséget kínál a napozásra, a meleg vizekben való úszásra és egy pihentető sétára. Fényképezőgép hozatala remek ötlet a lenyűgöző tengerparti táj megörökítéséhez, különösen az esti órák felé.",
                   "category": "recreational",
@@ -12014,30 +11510,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playa Las Hamacas",
-                  "text": "A Playa Las Hamacas nyugodt tengerparti menedéket nyújt közvetlenül Acapulcóban. A laza és megnyugtató légkörrel jellemezhető strandot azok kedvelik, akik egyszerűen csak ki akarnak kapcsolódni az óceán mellett. A látogatók a napozás békés pillanataira, kötetlen úszásra és a part menti sétákra számíthatnak. A csúcsidőn kívüli érkezés még békésebb élményt biztosít a vízparton.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.899191,
-                        16.853203
-                  ]
-            },
-            {
                   "name": "Playa Icacos",
                   "text": "Az acapulcói part mentén hosszan elnyúló Playa Icacos egy széles körben népszerű homokos menedék. Az energikus légkört a tágasság és a parton zajló vízi sportok élénk választéka hajtja. Fantasztikus helyszín az aktív látogatók számára az úszáshoz, a tengeri tevékenységek kipróbálásához vagy egy hosszú tengerparti sétához. Naptejre és kalandvágyra van csak szükség egy emlékezetes naphoz.",
                   "category": "recreational",
                   "coords": [
                         -99.857635,
                         16.845225
-                  ]
-            },
-            {
-                  "name": "Playa Tlacopanocha",
-                  "text": "Acapulco szívében megbújva a Playa Tlacopanocha figyelemre méltóan nyugodt vizeiről híres. Ez a festői strand rendkívül családbarát és hagyományos mexikói tengerparti hangulatot kínál. A szelíd hullámok kivételesen biztonságossá és hívogatóvá teszik a pihentető úszáshoz és a gondtalan pancsoláshoz a part közelében. A korai érkezés okos módja annak, hogy lefoglaljunk egy hangulatos helyet ezen a gyakran a helyiek által kedvelt strandon.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.907688,
-                        16.845175
                   ]
             },
             {
@@ -12077,48 +11555,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de las 7 regiones",
-                  "text": "Az acapulcói Museo de las 7 regiones a régió kulturális sokszínűségét mutatja be. Helyi hagyományokat és kézművességet állít ki.",
-                  "category": "museum",
-                  "coords": [
-                        -99.903922,
-                        16.849847
-                  ]
-            },
-            {
-                  "name": "Playa La Aguada",
-                  "text": "Közvetlenül Acapulco csillogó vizei mentén található a Playa La Aguada, amely egy kedvelt helyi homokos helyszín. A környezet megőrzi a hívogató és kellemes légkört, amely természetesen vonzza a napot élvezni vágyó strandolókat. Fantasztikus úti cél az órákig tartó úszáshoz, napozáshoz vagy a mezítlábas, pihentető tengerparti sétákhoz. A melegebb hónapokban tett látogatás garantálja a hamisítatlan mexikói tengerparti élményt.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.901042,
-                        16.839433
-                  ]
-            },
-            {
-                  "name": "Mirador de la Bahía",
-                  "text": "Kilátó panorámás kilátással az Acapulco-öbölre.",
-                  "category": "natural",
-                  "coords": [
-                        -99.897847,
-                        16.854412
-                  ]
-            },
-            {
                   "name": "zona arquelogica de Palma Sola",
                   "text": "A Palma Sola régészeti zóna történelmi helyszíneket mutat be Acapulcóban.",
                   "category": "landmark",
                   "coords": [
                         -99.90125,
                         16.886304
-                  ]
-            },
-            {
-                  "name": "Monumento José María Morelos y Pavón",
-                  "text": "José María Morelos függetlenségi hős szobra az acapulcói parti úton.",
-                  "category": "historical",
-                  "coords": [
-                        -99.901086,
-                        16.851899
                   ]
             },
             {
@@ -12151,15 +11593,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro",
-                  "text": "Teatro este o locație pentru spectacole în Acapulco. Servește la cultivarea culturii locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.908892,
-                        16.848693
-                  ]
-            },
-            {
                   "name": "Playa Tamarindos",
                   "text": "Împodobind țărmurile pline de viață din Acapulco, Playa Tamarindos este o destinație de nisip bine cunoscută. Plaja are o atmosferă de coastă primitoare și clasică, oferind în același timp vederi frumoase și ample asupra iconicului golf. Prezintă o oportunitate excelentă pentru plajă, înot în apele calde și bucuria unei plimbări relaxante. Aducerea unui aparat foto este o idee grozavă pentru a surprinde peisajul de coastă uimitor, mai ales spre seară.",
                   "category": "recreational",
@@ -12169,30 +11602,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playa Las Hamacas",
-                  "text": "Playa Las Hamacas oferă o evadare liniștită pe litoral direct în Acapulco. Caracterizată de o atmosferă relaxată și liniștitoare, această plajă este preferată de cei care doresc pur și simplu să se relaxeze la malul oceanului. Vizitatorii se pot aștepta la momente pașnice de plajă, înot lejer și plimbări de-a lungul țărmului. Sosirea în afara orelor de vârf ale zilei asigură o experiență și mai liniștită lângă apă.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.899191,
-                        16.853203
-                  ]
-            },
-            {
                   "name": "Playa Icacos",
                   "text": "Întinzându-se pe larg de-a lungul coastei Acapulco, Playa Icacos este un refugiu de nisip foarte popular. Atmosfera plină de energie este determinată de spațiozitatea sa și de gama vibrantă de sporturi nautice care au loc de-a lungul țărmului. Este un cadru fantastic pentru vizitatorii activi pentru a înota, a încerca activități marine sau a se bucura de o plimbare lungă pe plajă. Crema de soare și un sentiment de aventură sunt tot ce ai nevoie pentru o zi memorabilă aici.",
                   "category": "recreational",
                   "coords": [
                         -99.857635,
                         16.845225
-                  ]
-            },
-            {
-                  "name": "Playa Tlacopanocha",
-                  "text": "Amplasată în inima orașului Acapulco, Playa Tlacopanocha este renumită pentru apele sale deosebit de calme. Această plajă pitorească oferă o atmosferă de coastă mexicană tradițională și foarte potrivită pentru familii. Valurile blânde o fac excepțional de sigură și primitoare pentru înoturi relaxante și bălăceală fără griji lângă mal. Sosirea devreme este o modalitate inteligentă de a revendica un loc confortabil pe această plajă adesea prețuită de localnici.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.907688,
-                        16.845175
                   ]
             },
             {
@@ -12232,48 +11647,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de las 7 regiones",
-                  "text": "Museo de las 7 regiones din Acapulco prezintă diversitatea culturală a regiunii. Exponatele includ tradiții și meșteșuguri locale.",
-                  "category": "museum",
-                  "coords": [
-                        -99.903922,
-                        16.849847
-                  ]
-            },
-            {
-                  "name": "Playa La Aguada",
-                  "text": "Situată chiar de-a lungul apelor strălucitoare din Acapulco, Playa La Aguada este un loc de nisip local prețuit. Cadrul păstrează o atmosferă primitoare și plăcută, care atrage în mod natural vizitatorii plajei care doresc să se bucure de zi. Este o destinație fantastică pentru a petrece ore întregi înotând, făcând plajă sau bucurându-vă de plimbări relaxante desculț pe plajă. Vizitarea în lunile mai calde garantează o experiență esențială a coastei mexicane.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.901042,
-                        16.839433
-                  ]
-            },
-            {
-                  "name": "Mirador de la Bahía",
-                  "text": "Punct de belvedere cu vedere panoramică asupra Golfului Acapulco.",
-                  "category": "natural",
-                  "coords": [
-                        -99.897847,
-                        16.854412
-                  ]
-            },
-            {
                   "name": "zona arquelogica de Palma Sola",
                   "text": "Zona arheologică Palma Sola prezintă situri istorice în Acapulco.",
                   "category": "landmark",
                   "coords": [
                         -99.90125,
                         16.886304
-                  ]
-            },
-            {
-                  "name": "Monumento José María Morelos y Pavón",
-                  "text": "Monument al eroului independenței José María Morelos pe bulevardul de coastă din Acapulco.",
-                  "category": "historical",
-                  "coords": [
-                        -99.901086,
-                        16.851899
                   ]
             },
             {
@@ -12306,15 +11685,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro",
-                  "text": "The Teatro is a performance venue in Acapulco. It serves the cultivation of local culture.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.908892,
-                        16.848693
-                  ]
-            },
-            {
                   "name": "Playa Tamarindos",
                   "text": "Gracing the lively shores of Acapulco, Playa Tamarindos is a well-known sandy destination. The beach possesses a welcoming, classic coastal vibe while offering beautiful, sweeping views over the iconic bay. It presents an excellent opportunity for sunbathing, swimming in the warm waters, and enjoying a relaxing stroll. Bringing a camera is a great idea to capture the stunning coastal scenery, especially towards the evening.",
                   "category": "recreational",
@@ -12324,30 +11694,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playa Las Hamacas",
-                  "text": "Playa Las Hamacas provides a tranquil seaside escape directly within Acapulco. Characterized by a relaxed and soothing atmosphere, this beach is favored by those wanting to simply unwind by the ocean. Visitors can look forward to peaceful moments of sunbathing, casual swimming, and walking along the shoreline. Arriving outside of peak daytime hours ensures an even more peaceful experience by the water.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.899191,
-                        16.853203
-                  ]
-            },
-            {
                   "name": "Playa Icacos",
                   "text": "Stretching broadly along the Acapulco coast, Playa Icacos is a widely popular sandy haven. The energetic atmosphere is driven by its spaciousness and the vibrant array of watersports taking place along the shore. It is a fantastic setting for active visitors to swim, try out marine activities, or enjoy a long walk on the beach. Sunscreen and a sense of adventure are all you need for a memorable day here.",
                   "category": "recreational",
                   "coords": [
                         -99.857635,
                         16.845225
-                  ]
-            },
-            {
-                  "name": "Playa Tlacopanocha",
-                  "text": "Nestled in the heart of Acapulco, Playa Tlacopanocha is renowned for its notably calm waters. This quaint beach offers a highly family-friendly and traditional Mexican coastal atmosphere. The gentle waves make it exceptionally safe and inviting for relaxing swims and carefree splashing near the shore. Arriving early is a smart way to claim a cozy spot on this often locally cherished beach.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.907688,
-                        16.845175
                   ]
             },
             {
@@ -12387,48 +11739,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de las 7 regiones",
-                  "text": "The Museo de las 7 regiones in Acapulco showcases the cultural diversity of the region. It features local traditions and crafts.",
-                  "category": "museum",
-                  "coords": [
-                        -99.903922,
-                        16.849847
-                  ]
-            },
-            {
-                  "name": "Playa La Aguada",
-                  "text": "Located right along the sparkling waters of Acapulco, Playa La Aguada is a cherished local sandy spot. The setting retains a welcoming and pleasant atmosphere that naturally draws beachgoers looking to enjoy the day. It is a fantastic destination to spend hours swimming, sunbathing, or enjoying relaxed walks barefoot on the beach. Visiting during the warmer months guarantees a quintessential Mexican coastal experience.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.901042,
-                        16.839433
-                  ]
-            },
-            {
-                  "name": "Mirador de la Bahía",
-                  "text": "Scenic overlook offering panoramic views of Acapulco Bay.",
-                  "category": "natural",
-                  "coords": [
-                        -99.897847,
-                        16.854412
-                  ]
-            },
-            {
                   "name": "zona arquelogica de Palma Sola",
                   "text": "The Palma Sola archaeological zone features historical sites in Acapulco.",
                   "category": "landmark",
                   "coords": [
                         -99.90125,
                         16.886304
-                  ]
-            },
-            {
-                  "name": "Monumento José María Morelos y Pavón",
-                  "text": "Statue of independence hero José María Morelos on Acapulco's coastal avenue.",
-                  "category": "historical",
-                  "coords": [
-                        -99.901086,
-                        16.851899
                   ]
             },
             {
@@ -13776,15 +13092,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
     id: "torreon-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Auditorio Bosque Urbano",
-                  "text": "Freiluftauditorium umgeben von Bäumen im Bosque Urbano-Park in Torreón.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.390522,
-                        25.552868
-                  ]
-            },
-            {
                   "name": "Museo Regional de La Laguna",
                   "text": "Regionalmuseum der La-Laguna-Region, untergebracht in einem ehemaligen Bahnhof in Torreón.",
                   "category": "museum",
@@ -13822,15 +13129,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Auditorio Bosque Urbano",
-                  "text": "Szabadtéri színház fákkal körülvéve a Torreóni Bosque Urbano parkban.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.390522,
-                        25.552868
-                  ]
-            },
             {
                   "name": "Museo Regional de La Laguna",
                   "text": "A La Laguna régió regionális múzeuma egykori vasútállomásban, Torreónban.",
@@ -13870,15 +13168,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Auditorio Bosque Urbano",
-                  "text": "Auditoriu în aer liber înconjurat de copaci în parcul Bosque Urbano din Torreón.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.390522,
-                        25.552868
-                  ]
-            },
-            {
                   "name": "Museo Regional de La Laguna",
                   "text": "Muzeul regional al regiunii La Laguna, găzduit într-o fostă gară în Torreón.",
                   "category": "museum",
@@ -13916,15 +13205,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Auditorio Bosque Urbano",
-                  "text": "Open-air auditorium surrounded by trees in Torreón's Bosque Urbano park.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.390522,
-                        25.552868
-                  ]
-            },
             {
                   "name": "Museo Regional de La Laguna",
                   "text": "Regional museum of the La Laguna region, housed in a former railroad station in Torreón.",
@@ -14373,15 +13653,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Histórico Naval",
-                  "text": "Museum zur Geschichte der mexikanischen Marine in der ehemaligen Marineschule.",
-                  "category": "museum",
-                  "coords": [
-                        -96.135077,
-                        19.199229
-                  ]
-            },
-            {
                   "name": "Playa Regatas",
                   "text": "An der Golfküste in Veracruz gelegen, bietet die Playa Regatas einen herrlichen Ausflugsort am Sandstrand. Der Strand ist bekannt für seine unprätentiöse und entspannte lokale Atmosphäre, die jeden an der Küste willkommen heißt. Gäste können sich auf ungezwungenes Schwimmen, Faulenzen im Sand und leichte Spaziergänge am Meer freuen. Ein morgendlicher Ausflug hierher ist für diejenigen, die der Mittagshitze entgehen wollen, sehr zu empfehlen.",
                   "category": "recreational",
@@ -14391,39 +13662,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Antiguo Hospital Militar San Carlos",
-                  "text": "Museum im ehemaligen Militärkrankenhaus San Carlos aus dem 19. Jahrhundert.",
-                  "category": "museum",
-                  "coords": [
-                        -96.140058,
-                        19.19699
-                  ]
-            },
-            {
-                  "name": "Teatro de la Reforma IVEC",
-                  "text": "Theater im Reforma-Viertel, betrieben vom Kulturinstitut von Veracruz.",
-                  "category": "cultural",
-                  "coords": [
-                        -96.136646,
-                        19.195448
-                  ]
-            },
-            {
                   "name": "Fototeca de Veracruz",
                   "text": "Fotografiemuseum mit historischen Aufnahmen aus Veracruz.",
                   "category": "museum",
                   "coords": [
                         -96.137524,
                         19.200257
-                  ]
-            },
-            {
-                  "name": "Museo de la Ciudad",
-                  "text": "Stadtmuseum, das die Geschichte von Veracruz von der Kolonialzeit bis heute zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -96.135813,
-                        19.197905
                   ]
             },
             {
@@ -14463,48 +13707,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Columna de la libertad",
-                  "text": "Freiheitssäule auf einem Platz in Veracruz, Symbol der Unabhängigkeit.",
-                  "category": "historical",
-                  "coords": [
-                        -96.134266,
-                        19.196271
-                  ]
-            },
-            {
                   "name": "Venta de tiquetes",
                   "text": "Historischer Fahrkartenschalter als Wahrzeichen im Hafen von Veracruz.",
                   "category": "landmark",
                   "coords": [
                         -96.12357,
                         19.18637
-                  ]
-            },
-            {
-                  "name": "Auditorio Campo Redondo",
-                  "text": "Freiluftauditorium in runder Form für Konzerte und Theater.",
-                  "category": "cultural",
-                  "coords": [
-                        -96.134572,
-                        19.19803
-                  ]
-            },
-            {
-                  "name": "Tranvía del Recuerdo",
-                  "text": "Historische Straßenbahnfahrt durch die Straßen von Veracruz.",
-                  "category": "historical",
-                  "coords": [
-                        -96.135251,
-                        19.195667
-                  ]
-            },
-            {
-                  "name": "El CaSon",
-                  "text": "Kulturzentrum in einem großen Kolonialhaus mit Veranstaltungsräumen.",
-                  "category": "cultural",
-                  "coords": [
-                        -96.130858,
-                        19.19217
                   ]
             },
             {
@@ -14654,15 +13862,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Histórico Naval",
-                  "text": "A mexikói haditengerészet történetét bemutató múzeum a volt haditengerészeti iskolában.",
-                  "category": "museum",
-                  "coords": [
-                        -96.135077,
-                        19.199229
-                  ]
-            },
-            {
                   "name": "Playa Regatas",
                   "text": "A Mexikói-öböl partján, Veracruzban található Playa Regatas kedves homokos menedéket nyújt. A strand szerény és nyugodt helyi hangulatáról ismert, amely mindenkit szeretettel vár a parton. A vendégek számíthatnak a kötetlen úszásra, a homokban való heverészésre és a könnyed tengerparti sétákra. A reggeli kirándulás ide kifejezetten ajánlott azoknak, akik szeretnék elkerülni a déli hőséget.",
                   "category": "recreational",
@@ -14672,39 +13871,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Antiguo Hospital Militar San Carlos",
-                  "text": "Múzeum a 19. századi San Carlos katonai kórház épületében.",
-                  "category": "museum",
-                  "coords": [
-                        -96.140058,
-                        19.19699
-                  ]
-            },
-            {
-                  "name": "Teatro de la Reforma IVEC",
-                  "text": "Színház a Reforma negyedben, a Veracruzi Kulturális Intézet üzemeltetésében.",
-                  "category": "cultural",
-                  "coords": [
-                        -96.136646,
-                        19.195448
-                  ]
-            },
-            {
                   "name": "Fototeca de Veracruz",
                   "text": "Fotómúzeum Veracruz történelmi felvételeivel.",
                   "category": "museum",
                   "coords": [
                         -96.137524,
                         19.200257
-                  ]
-            },
-            {
-                  "name": "Museo de la Ciudad",
-                  "text": "Városi múzeum, amely Veracruz történetét mutatja be a gyarmati időktől napjainkig.",
-                  "category": "museum",
-                  "coords": [
-                        -96.135813,
-                        19.197905
                   ]
             },
             {
@@ -14744,48 +13916,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Columna de la libertad",
-                  "text": "Szabadság oszlop egy veracruzi téren, a függetlenség szimbóluma.",
-                  "category": "historical",
-                  "coords": [
-                        -96.134266,
-                        19.196271
-                  ]
-            },
-            {
                   "name": "Venta de tiquetes",
                   "text": "Történelmi jegyárusító bódé, Veracruz kikötőjének nevezetessége.",
                   "category": "landmark",
                   "coords": [
                         -96.12357,
                         19.18637
-                  ]
-            },
-            {
-                  "name": "Auditorio Campo Redondo",
-                  "text": "Kör alakú szabadtéri színház koncertek és színházi előadások számára.",
-                  "category": "cultural",
-                  "coords": [
-                        -96.134572,
-                        19.19803
-                  ]
-            },
-            {
-                  "name": "Tranvía del Recuerdo",
-                  "text": "Történelmi villamosút Veracruz utcáin.",
-                  "category": "historical",
-                  "coords": [
-                        -96.135251,
-                        19.195667
-                  ]
-            },
-            {
-                  "name": "El CaSon",
-                  "text": "Kulturális központ egy nagy gyarmati házban, rendezvénytermekkel.",
-                  "category": "cultural",
-                  "coords": [
-                        -96.130858,
-                        19.19217
                   ]
             },
             {
@@ -14935,15 +14071,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Histórico Naval",
-                  "text": "Muzeu al istoriei navale mexicane în fosta școală navală.",
-                  "category": "museum",
-                  "coords": [
-                        -96.135077,
-                        19.199229
-                  ]
-            },
-            {
                   "name": "Playa Regatas",
                   "text": "Situată de-a lungul coastei Golfului în Veracruz, Playa Regatas oferă o evadare minunată pe nisip. Plaja este cunoscută pentru atmosfera sa locală nepretențioasă și relaxată, care îi întâmpină pe toți pe țărm. Oaspeții se pot aștepta la înoturi lejere, la lenevitul pe nisip și la plimbări ușoare pe malul mării. O excursie de dimineață aici este foarte recomandată pentru cei care doresc să învingă căldura amiezii.",
                   "category": "recreational",
@@ -14953,39 +14080,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Antiguo Hospital Militar San Carlos",
-                  "text": "Muzeu în fosta unitate spitalicească militară San Carlos, din secolul al XIX-lea.",
-                  "category": "museum",
-                  "coords": [
-                        -96.140058,
-                        19.19699
-                  ]
-            },
-            {
-                  "name": "Teatro de la Reforma IVEC",
-                  "text": "Teatru în cartierul Reforma, administrat de Institutul Cultural din Veracruz.",
-                  "category": "cultural",
-                  "coords": [
-                        -96.136646,
-                        19.195448
-                  ]
-            },
-            {
                   "name": "Fototeca de Veracruz",
                   "text": "Muzeu de fotografie cu imagini istorice din Veracruz.",
                   "category": "museum",
                   "coords": [
                         -96.137524,
                         19.200257
-                  ]
-            },
-            {
-                  "name": "Museo de la Ciudad",
-                  "text": "Muzeul orașului, care prezintă istoria Veracruzului din perioada colonială până în prezent.",
-                  "category": "museum",
-                  "coords": [
-                        -96.135813,
-                        19.197905
                   ]
             },
             {
@@ -15025,48 +14125,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Columna de la libertad",
-                  "text": "Coloana libertății pe o piață din Veracruz, simbol al independenței.",
-                  "category": "historical",
-                  "coords": [
-                        -96.134266,
-                        19.196271
-                  ]
-            },
-            {
                   "name": "Venta de tiquetes",
                   "text": "Ghișeu istoric de bilete, reper în portul Veracruzului.",
                   "category": "landmark",
                   "coords": [
                         -96.12357,
                         19.18637
-                  ]
-            },
-            {
-                  "name": "Auditorio Campo Redondo",
-                  "text": "Auditoriu în aer liber, de formă circulară, pentru concerte și teatru.",
-                  "category": "cultural",
-                  "coords": [
-                        -96.134572,
-                        19.19803
-                  ]
-            },
-            {
-                  "name": "Tranvía del Recuerdo",
-                  "text": "Tramvai istoric care străbate străzile din Veracruz.",
-                  "category": "historical",
-                  "coords": [
-                        -96.135251,
-                        19.195667
-                  ]
-            },
-            {
-                  "name": "El CaSon",
-                  "text": "Centru cultural într-o casă colonială mare, cu săli de evenimente.",
-                  "category": "cultural",
-                  "coords": [
-                        -96.130858,
-                        19.19217
                   ]
             },
             {
@@ -15216,15 +14280,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Histórico Naval",
-                  "text": "Museum of Mexican naval history housed in the former naval academy.",
-                  "category": "museum",
-                  "coords": [
-                        -96.135077,
-                        19.199229
-                  ]
-            },
-            {
                   "name": "Playa Regatas",
                   "text": "Setting the scene along the Gulf coast in Veracruz, Playa Regatas provides a lovely sandy getaway. The beach is known for its unpretentious and relaxed local vibe that welcomes everyone to the shoreline. Guests can look forward to casual swims, lounging on the sand, and partaking in easy seaside walks. A morning trip here is highly recommended for those who want to beat the midday heat.",
                   "category": "recreational",
@@ -15234,39 +14289,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Antiguo Hospital Militar San Carlos",
-                  "text": "Museum in the former San Carlos military hospital from the 19th century.",
-                  "category": "museum",
-                  "coords": [
-                        -96.140058,
-                        19.19699
-                  ]
-            },
-            {
-                  "name": "Teatro de la Reforma IVEC",
-                  "text": "Theater in the Reforma neighborhood, operated by the Veracruz Institute of Culture.",
-                  "category": "cultural",
-                  "coords": [
-                        -96.136646,
-                        19.195448
-                  ]
-            },
-            {
                   "name": "Fototeca de Veracruz",
                   "text": "Photography museum featuring historical images of Veracruz.",
                   "category": "museum",
                   "coords": [
                         -96.137524,
                         19.200257
-                  ]
-            },
-            {
-                  "name": "Museo de la Ciudad",
-                  "text": "City museum showcasing the history of Veracruz from colonial times to the present.",
-                  "category": "museum",
-                  "coords": [
-                        -96.135813,
-                        19.197905
                   ]
             },
             {
@@ -15306,48 +14334,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Columna de la libertad",
-                  "text": "Liberty column on a square in Veracruz, symbol of independence.",
-                  "category": "historical",
-                  "coords": [
-                        -96.134266,
-                        19.196271
-                  ]
-            },
-            {
                   "name": "Venta de tiquetes",
                   "text": "Historic ticket booth landmark in Veracruz's port.",
                   "category": "landmark",
                   "coords": [
                         -96.12357,
                         19.18637
-                  ]
-            },
-            {
-                  "name": "Auditorio Campo Redondo",
-                  "text": "Round open-air auditorium for concerts and theater performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -96.134572,
-                        19.19803
-                  ]
-            },
-            {
-                  "name": "Tranvía del Recuerdo",
-                  "text": "Historic tram ride through the streets of Veracruz.",
-                  "category": "historical",
-                  "coords": [
-                        -96.135251,
-                        19.195667
-                  ]
-            },
-            {
-                  "name": "El CaSon",
-                  "text": "Cultural center in a large colonial house with event spaces.",
-                  "category": "cultural",
-                  "coords": [
-                        -96.130858,
-                        19.19217
                   ]
             },
             {
@@ -17322,48 +16314,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
     id: "mazatlan-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Museo Que viva Sinaloa",
-                  "text": "Das Museo Que viva Sinaloa in Mazatlán zeigt die Kultur und Geschichte des Bundesstaates Sinaloa.",
-                  "category": "museum",
-                  "coords": [
-                        -106.42332,
-                        23.197248
-                  ]
-            },
-            {
-                  "name": "Museo El Rincón de Pedro Infante",
-                  "text": "Das Museo El Rincón de Pedro Infante in Mazatlán ist dem mexikanischen Schauspieler und Sänger gewidmet.",
-                  "category": "museum",
-                  "coords": [
-                        -106.416856,
-                        23.200001
-                  ]
-            },
-            {
-                  "name": "CICMA Centro de Innovación Cultural Mazatlán",
-                  "text": "CICMA Centro de Innovación Cultural Mazatlán ist ein Zentrum für kulturelle Innovation in Mazatlán.",
-                  "category": "museum",
-                  "coords": [
-                        -106.424121,
-                        23.198388
-                  ]
-            },
-            {
                   "name": "Teatro Antonio Haas",
                   "text": "Das Teatro Antonio Haas in Mazatlán ist ein historisches Theater mit klassischer Architektur.",
                   "category": "cultural",
                   "coords": [
                         -106.420999,
                         23.211743
-                  ]
-            },
-            {
-                  "name": "Teatro Ángela Peralta",
-                  "text": "Das Teatro Ángela Peralta in Mazatlán ist ein prächtiges Opernhaus aus dem 19. Jahrhundert.",
-                  "category": "cultural",
-                  "coords": [
-                        -106.422339,
-                        23.198043
                   ]
             },
             {
@@ -17457,15 +16413,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monuments A La Continuidad de La...",
-                  "text": "Das Monumento a la Continuidad de la Vida in Mazatlán ist eine abstrakte Skulptur am Meer.",
-                  "category": "historical",
-                  "coords": [
-                        -106.429843,
-                        23.204769
-                  ]
-            },
-            {
                   "name": "Playa Norte (white sandy beach & sunset spot)",
                   "text": "Dieser besondere Abschnitt der Playa Norte ziert die Küste von Mazatlán und wird für seinen unberührten weißen Sand gefeiert. Der Ort besitzt eine bemerkenswert romantische und friedliche Atmosphäre, die als abendlicher Aussichtspunkt besonders beliebt ist. Besucher können ihre Nachmittage mit Schwimmen und Sonnenbaden verbringen, bevor sie bei einem gemütlichen Spaziergang die wechselnden Farben des Himmels genießen. Es ist sehr zu empfehlen, bis zur Dämmerung zu bleiben, um die legendären pazifischen Sonnenuntergänge in vollen Zügen zu genießen.",
                   "category": "natural",
@@ -17481,15 +16428,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -106.445219,
                         23.238094
-                  ]
-            },
-            {
-                  "name": "Casas de colores",
-                  "text": "Die Casas de colores in Mazatlán sind bunt bemalte Häuser im historischen Viertel.",
-                  "category": "landmark",
-                  "coords": [
-                        -106.4253,
-                        23.199459
                   ]
             },
             {
@@ -17576,48 +16514,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Museo Que viva Sinaloa",
-                  "text": "A Museo Que viva Sinaloa Mazatlánban Sinaloa állam kultúráját és történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -106.42332,
-                        23.197248
-                  ]
-            },
-            {
-                  "name": "Museo El Rincón de Pedro Infante",
-                  "text": "A Museo El Rincón de Pedro Infante Mazatlánban a mexikói színésznek és énekesnek állít emléket.",
-                  "category": "museum",
-                  "coords": [
-                        -106.416856,
-                        23.200001
-                  ]
-            },
-            {
-                  "name": "CICMA Centro de Innovación Cultural Mazatlán",
-                  "text": "A CICMA Centro de Innovación Cultural Mazatlán egy kulturális innovációs központ Mazatlánban.",
-                  "category": "museum",
-                  "coords": [
-                        -106.424121,
-                        23.198388
-                  ]
-            },
-            {
                   "name": "Teatro Antonio Haas",
                   "text": "A Teatro Antonio Haas Mazatlánban egy történelmi színház klasszikus építészettel.",
                   "category": "cultural",
                   "coords": [
                         -106.420999,
                         23.211743
-                  ]
-            },
-            {
-                  "name": "Teatro Ángela Peralta",
-                  "text": "A Teatro Ángela Peralta Mazatlánban egy 19. századi díszes operaház.",
-                  "category": "cultural",
-                  "coords": [
-                        -106.422339,
-                        23.198043
                   ]
             },
             {
@@ -17711,15 +16613,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monuments A La Continuidad de La...",
-                  "text": "A Monumento a la Continuidad de la Vida Mazatlánban egy absztrakt szobor a tengerparton.",
-                  "category": "historical",
-                  "coords": [
-                        -106.429843,
-                        23.204769
-                  ]
-            },
-            {
                   "name": "Playa Norte (white sandy beach & sunset spot)",
                   "text": "A mazatláni partvidéket díszítő Playa Norte ezen szakasza érintetlen fehér homokjáról híres. A hely figyelemre méltóan romantikus és békés légkörrel rendelkezik, és különösen esti kilátóhelyként kedvelt. A látogatók a délutánokat úszással és napozással tölthetik, mielőtt élveznék a kényelmes sétát, miközben az égbolt színei megváltoznak. Kifejezetten ajánlott szürkületig maradni, hogy teljes mértékben értékelni lehessen a legendás csendes-óceáni naplementéket.",
                   "category": "natural",
@@ -17735,15 +16628,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -106.445219,
                         23.238094
-                  ]
-            },
-            {
-                  "name": "Casas de colores",
-                  "text": "A Casas de colores Mazatlánban színesre festett házak a történelmi negyedben.",
-                  "category": "landmark",
-                  "coords": [
-                        -106.4253,
-                        23.199459
                   ]
             },
             {
@@ -17830,48 +16714,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Museo Que viva Sinaloa",
-                  "text": "Muzeul Museo Que viva Sinaloa din Mazatlán prezintă cultura și istoria statului Sinaloa.",
-                  "category": "museum",
-                  "coords": [
-                        -106.42332,
-                        23.197248
-                  ]
-            },
-            {
-                  "name": "Museo El Rincón de Pedro Infante",
-                  "text": "Muzeul Museo El Rincón de Pedro Infante din Mazatlán este dedicat actorului și cântărețului mexican.",
-                  "category": "museum",
-                  "coords": [
-                        -106.416856,
-                        23.200001
-                  ]
-            },
-            {
-                  "name": "CICMA Centro de Innovación Cultural Mazatlán",
-                  "text": "CICMA Centro de Innovación Cultural Mazatlán este un centru de inovare culturală din Mazatlán.",
-                  "category": "museum",
-                  "coords": [
-                        -106.424121,
-                        23.198388
-                  ]
-            },
-            {
                   "name": "Teatro Antonio Haas",
                   "text": "Teatrul Antonio Haas din Mazatlán este un teatru istoric cu arhitectură clasică.",
                   "category": "cultural",
                   "coords": [
                         -106.420999,
                         23.211743
-                  ]
-            },
-            {
-                  "name": "Teatro Ángela Peralta",
-                  "text": "Teatrul Ángela Peralta din Mazatlán este o splendidă operă din secolul al XIX-lea.",
-                  "category": "cultural",
-                  "coords": [
-                        -106.422339,
-                        23.198043
                   ]
             },
             {
@@ -17965,15 +16813,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monuments A La Continuidad de La...",
-                  "text": "Monumentul Monumento a la Continuidad de la Vida din Mazatlán este o sculptură abstractă pe malul mării.",
-                  "category": "historical",
-                  "coords": [
-                        -106.429843,
-                        23.204769
-                  ]
-            },
-            {
                   "name": "Playa Norte (white sandy beach & sunset spot)",
                   "text": "Împodobind coasta din Mazatlán, această porțiune particulară a Playa Norte este celebrată pentru nisipurile sale albe imaculate. Locația deține o atmosferă remarcabil de romantică și pașnică, fiind deosebit de iubită ca punct de belvedere seral. Vizitatorii își pot petrece după-amiezile înotând și făcând plajă înainte de a se bucura de o plimbare pe îndelete pe măsură ce cerul își schimbă culorile. Rămânerea până la lăsarea întunericului este foarte recomandată pentru a aprecia pe deplin apusurile de soare legendare din Pacific.",
                   "category": "natural",
@@ -17989,15 +16828,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -106.445219,
                         23.238094
-                  ]
-            },
-            {
-                  "name": "Casas de colores",
-                  "text": "Casas de colores din Mazatlán sunt case pictate colorat în cartierul istoric.",
-                  "category": "landmark",
-                  "coords": [
-                        -106.4253,
-                        23.199459
                   ]
             },
             {
@@ -18084,48 +16914,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Museo Que viva Sinaloa",
-                  "text": "The Museo Que viva Sinaloa in Mazatlán showcases the culture and history of Sinaloa state.",
-                  "category": "museum",
-                  "coords": [
-                        -106.42332,
-                        23.197248
-                  ]
-            },
-            {
-                  "name": "Museo El Rincón de Pedro Infante",
-                  "text": "The Museo El Rincón de Pedro Infante in Mazatlán is dedicated to the Mexican actor and singer.",
-                  "category": "museum",
-                  "coords": [
-                        -106.416856,
-                        23.200001
-                  ]
-            },
-            {
-                  "name": "CICMA Centro de Innovación Cultural Mazatlán",
-                  "text": "CICMA Centro de Innovación Cultural Mazatlán is a cultural innovation center in Mazatlán.",
-                  "category": "museum",
-                  "coords": [
-                        -106.424121,
-                        23.198388
-                  ]
-            },
-            {
                   "name": "Teatro Antonio Haas",
                   "text": "The Teatro Antonio Haas in Mazatlán is a historic theatre with classical architecture.",
                   "category": "cultural",
                   "coords": [
                         -106.420999,
                         23.211743
-                  ]
-            },
-            {
-                  "name": "Teatro Ángela Peralta",
-                  "text": "The Teatro Ángela Peralta in Mazatlán is a splendid 19th-century opera house.",
-                  "category": "cultural",
-                  "coords": [
-                        -106.422339,
-                        23.198043
                   ]
             },
             {
@@ -18219,15 +17013,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monuments A La Continuidad de La...",
-                  "text": "The Monumento a la Continuidad de la Vida in Mazatlán is an abstract sculpture by the sea.",
-                  "category": "historical",
-                  "coords": [
-                        -106.429843,
-                        23.204769
-                  ]
-            },
-            {
                   "name": "Playa Norte (white sandy beach & sunset spot)",
                   "text": "Adorning the Mazatlan coastline, this particular stretch of Playa Norte is celebrated for its pristine white sands. The location holds a remarkably romantic and peaceful atmosphere, especially beloved as an evening viewpoint. Visitors can spend their afternoons swimming and sunbathing before enjoying a leisurely walk as the sky changes colors. Staying until dusk is highly recommended to fully appreciate the legendary Pacific sunsets.",
                   "category": "natural",
@@ -18243,15 +17028,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -106.445219,
                         23.238094
-                  ]
-            },
-            {
-                  "name": "Casas de colores",
-                  "text": "The Casas de colores in Mazatlán are brightly painted houses in the historic district.",
-                  "category": "landmark",
-                  "coords": [
-                        -106.4253,
-                        23.199459
                   ]
             },
             {
@@ -30609,30 +29385,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Las Truchas",
-                  "text": "Las Truchas ist ein Fischzuchtbetrieb für Forellen mit einem Restaurant und Angelmöglichkeit.",
-                  "category": "recreational",
-                  "coords": [
-                        -98.154621,
-                        19.356888
-                  ]
-            },
-            {
                   "name": "Balnearios Santa Lucía",
                   "text": "Balnearios Santa Lucía sind natürliche Thermalquellen in einem Park mit mehreren Pools.",
                   "category": "landmark",
                   "coords": [
                         -98.161225,
                         19.360487
-                  ]
-            },
-            {
-                  "name": "Ex Fábrica Santa Elena",
-                  "text": "Die Ex Fábrica Santa Elena ist eine umgebaute Textilfabrik aus dem 19. Jahrhundert, heute ein Kulturzentrum.",
-                  "category": "recreational",
-                  "coords": [
-                        -98.161869,
-                        19.356968
                   ]
             }
       ],
@@ -30836,30 +29594,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Las Truchas",
-                  "text": "A Las Truchas egy pisztrángtenyészet étteremmel és horgászási lehetőséggel.",
-                  "category": "recreational",
-                  "coords": [
-                        -98.154621,
-                        19.356888
-                  ]
-            },
-            {
                   "name": "Balnearios Santa Lucía",
                   "text": "A Balnearios Santa Lucía természetes termálforrások egy parkban, több medencével.",
                   "category": "landmark",
                   "coords": [
                         -98.161225,
                         19.360487
-                  ]
-            },
-            {
-                  "name": "Ex Fábrica Santa Elena",
-                  "text": "Az Ex Fábrica Santa Elena egy 19. századi textilgyárból átalakított kulturális központ.",
-                  "category": "recreational",
-                  "coords": [
-                        -98.161869,
-                        19.356968
                   ]
             }
       ],
@@ -31063,30 +29803,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Las Truchas",
-                  "text": "Las Truchas este o fermă piscicolă de păstrăv cu restaurant și posibilitate de pescuit.",
-                  "category": "recreational",
-                  "coords": [
-                        -98.154621,
-                        19.356888
-                  ]
-            },
-            {
                   "name": "Balnearios Santa Lucía",
                   "text": "Balnearios Santa Lucía sunt izvoare termale naturale într-un parc, cu mai multe piscine.",
                   "category": "landmark",
                   "coords": [
                         -98.161225,
                         19.360487
-                  ]
-            },
-            {
-                  "name": "Ex Fábrica Santa Elena",
-                  "text": "Ex Fábrica Santa Elena este o fostă fabrică textilă din secolul al XIX-lea transformată în centru cultural.",
-                  "category": "recreational",
-                  "coords": [
-                        -98.161869,
-                        19.356968
                   ]
             }
       ],
@@ -31290,30 +30012,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Las Truchas",
-                  "text": "Las Truchas is a trout farm with a restaurant and fishing opportunity.",
-                  "category": "recreational",
-                  "coords": [
-                        -98.154621,
-                        19.356888
-                  ]
-            },
-            {
                   "name": "Balnearios Santa Lucía",
                   "text": "Balnearios Santa Lucía are natural hot springs in a park with multiple pools.",
                   "category": "landmark",
                   "coords": [
                         -98.161225,
                         19.360487
-                  ]
-            },
-            {
-                  "name": "Ex Fábrica Santa Elena",
-                  "text": "Ex Fábrica Santa Elena is a former 19th-century textile mill converted into a cultural center.",
-                  "category": "recreational",
-                  "coords": [
-                        -98.161869,
-                        19.356968
                   ]
             }
       ]
@@ -31830,15 +30534,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Xcaret",
-                  "text": "Xcaret ist ein ökologisch-archäologischer Park in Playa del Carmen mit unterirdischen Flüssen und Shows.",
-                  "category": "recreational",
-                  "coords": [
-                        -87.119388,
-                        20.580774
-                  ]
-            },
-            {
                   "name": "Central Pool",
                   "text": "Der zentrale Pool in Del Carmen.",
                   "category": "recreational",
@@ -31854,15 +30549,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -87.127281,
                         20.584647
-                  ]
-            },
-            {
-                  "name": "XPLOR Park",
-                  "text": "XPLOR Park in Playa del Carmen bietet Abenteuer wie Ziplining und ATV-Fahrten für die ganze Familie.",
-                  "category": "recreational",
-                  "coords": [
-                        -87.122751,
-                        20.593327
                   ]
             },
             {
@@ -32066,15 +30752,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Xcaret",
-                  "text": "A Xcaret egy ökológiai-régészeti park Playa del Carmenben föld alatti folyókkal és show-műsorokkal.",
-                  "category": "recreational",
-                  "coords": [
-                        -87.119388,
-                        20.580774
-                  ]
-            },
-            {
                   "name": "Central Pool",
                   "text": "A központi medence Del Carmenben.",
                   "category": "recreational",
@@ -32090,15 +30767,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -87.127281,
                         20.584647
-                  ]
-            },
-            {
-                  "name": "XPLOR Park",
-                  "text": "A XPLOR Park Playa del Carmenben kalandokat kínál, mint a cipzárvonal és ATV-túrák az egész családnak.",
-                  "category": "recreational",
-                  "coords": [
-                        -87.122751,
-                        20.593327
                   ]
             },
             {
@@ -32302,15 +30970,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Xcaret",
-                  "text": "Xcaret este un parc eco-arheologic în Playa del Carmen cu râuri subterane și spectacole.",
-                  "category": "recreational",
-                  "coords": [
-                        -87.119388,
-                        20.580774
-                  ]
-            },
-            {
                   "name": "Central Pool",
                   "text": "Piscina centrală din Del Carmen.",
                   "category": "recreational",
@@ -32326,15 +30985,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -87.127281,
                         20.584647
-                  ]
-            },
-            {
-                  "name": "XPLOR Park",
-                  "text": "XPLOR Park în Playa del Carmen oferă aventuri precum tiroliană și trasee ATV pentru întreaga familie.",
-                  "category": "recreational",
-                  "coords": [
-                        -87.122751,
-                        20.593327
                   ]
             },
             {
@@ -32538,15 +31188,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Xcaret",
-                  "text": "Xcaret is an eco-archaeological park in Playa del Carmen with underground rivers and shows.",
-                  "category": "recreational",
-                  "coords": [
-                        -87.119388,
-                        20.580774
-                  ]
-            },
-            {
                   "name": "Central Pool",
                   "text": "The central swimming pool in Del Carmen.",
                   "category": "recreational",
@@ -32562,15 +31203,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -87.127281,
                         20.584647
-                  ]
-            },
-            {
-                  "name": "XPLOR Park",
-                  "text": "XPLOR Park in Playa del Carmen offers adventures like ziplining and ATV rides for the whole family.",
-                  "category": "recreational",
-                  "coords": [
-                        -87.122751,
-                        20.593327
                   ]
             },
             {
@@ -33135,24 +31767,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
     id: "tula-de-allende-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Tula",
-                  "text": "Die antike toltekische Stadt Tula in De Allende, berühmt für ihre Atlantenstatuen.",
-                  "category": "historical",
-                  "coords": [
-                        -99.334321,
-                        20.067333
-                  ]
-            },
-            {
-                  "name": "Coatepantli",
-                  "text": "Die Coatepantli, eine mit Schlangenreliefs verzierte Mauer in der archäologischen Stätte von Tula in De Allende.",
-                  "category": "historical",
-                  "coords": [
-                        -99.34036,
-                        20.064414
-                  ]
-            },
-            {
                   "name": "Parque Nacional Tula",
                   "text": "Der Nationalpark Tula in De Allende schützt die archäologische Zone und ihre natürliche Umgebung.",
                   "category": "natural",
@@ -33180,15 +31794,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sala de Orientación y Servicios Guadalupe Mastache",
-                  "text": "Ein Museumssaal, benannt nach der Archäologin Guadalupe Mastache, am Tula-Standort in De Allende.",
-                  "category": "museum",
-                  "coords": [
-                        -99.341801,
-                        20.061981
-                  ]
-            },
-            {
                   "name": "capilla abierta",
                   "text": "Eine offene Kapelle (Capilla Abierta) aus der Kolonialzeit in De Allende.",
                   "category": "historical",
@@ -33208,24 +31813,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Tula",
-                  "text": "Tula ősi tolték városa De Allendében, híres az atlanti szobrokról.",
-                  "category": "historical",
-                  "coords": [
-                        -99.334321,
-                        20.067333
-                  ]
-            },
-            {
-                  "name": "Coatepantli",
-                  "text": "A Coatepantli, kígyódomborművekkel díszített fal a tulai régészeti lelőhelyen De Allendében.",
-                  "category": "historical",
-                  "coords": [
-                        -99.34036,
-                        20.064414
-                  ]
-            },
             {
                   "name": "Parque Nacional Tula",
                   "text": "A Tula Nemzeti Park De Allendében védi a régészeti zónát és annak természetes környezetét.",
@@ -33254,15 +31841,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sala de Orientación y Servicios Guadalupe Mastache",
-                  "text": "Múzeumi terem, amely Guadalupe Mastache régész nevét viseli a tula-i lelőhelyen De Allendében.",
-                  "category": "museum",
-                  "coords": [
-                        -99.341801,
-                        20.061981
-                  ]
-            },
-            {
                   "name": "capilla abierta",
                   "text": "Egy nyitott kápolna (capilla abierta) a gyarmati korból De Allendében.",
                   "category": "historical",
@@ -33282,24 +31860,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Tula",
-                  "text": "Orașul antic toltec Tula din De Allende, faimos pentru statuile sale atlantice.",
-                  "category": "historical",
-                  "coords": [
-                        -99.334321,
-                        20.067333
-                  ]
-            },
-            {
-                  "name": "Coatepantli",
-                  "text": "Coatepantli, un zid ornamentat cu reliefuri de șerpi la situl arheologic Tula din De Allende.",
-                  "category": "historical",
-                  "coords": [
-                        -99.34036,
-                        20.064414
-                  ]
-            },
             {
                   "name": "Parque Nacional Tula",
                   "text": "Parcul Național Tula din De Allende protejează zona arheologică și împrejurimile sale naturale.",
@@ -33328,15 +31888,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sala de Orientación y Servicios Guadalupe Mastache",
-                  "text": "O sală muzeală numită după arheologul Guadalupe Mastache la situl Tula din De Allende.",
-                  "category": "museum",
-                  "coords": [
-                        -99.341801,
-                        20.061981
-                  ]
-            },
-            {
                   "name": "capilla abierta",
                   "text": "O capelă deschisă (capilla abierta) din perioada colonială în De Allende.",
                   "category": "historical",
@@ -33356,24 +31907,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Tula",
-                  "text": "The ancient Toltec city of Tula in De Allende, famous for its Atlantean warrior statues.",
-                  "category": "historical",
-                  "coords": [
-                        -99.334321,
-                        20.067333
-                  ]
-            },
-            {
-                  "name": "Coatepantli",
-                  "text": "The Coatepantli adorned with serpent reliefs at the Tula archaeological site in De Allende.",
-                  "category": "historical",
-                  "coords": [
-                        -99.34036,
-                        20.064414
-                  ]
-            },
             {
                   "name": "Parque Nacional Tula",
                   "text": "The Tula National Park in De Allende, protecting the archaeological zone and its natural surroundings.",
@@ -33399,15 +31932,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -99.345894,
                         20.062242
-                  ]
-            },
-            {
-                  "name": "Sala de Orientación y Servicios Guadalupe Mastache",
-                  "text": "A museum room named after archaeologist Guadalupe Mastache at the Tula site in De Allende.",
-                  "category": "museum",
-                  "coords": [
-                        -99.341801,
-                        20.061981
                   ]
             },
             {
@@ -33486,30 +32010,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de Espectáculos 'La Macarena'",
-                  "text": "Das Unterhaltungszentrum La Macarena in Uruapan mit Shows und Veranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.042797,
-                        19.416148
-                  ]
-            },
-            {
                   "name": "Parque Nacional Barranca del Cupatitzio",
                   "text": "Der Nationalpark Barranca del Cupatitzio in Uruapan, bekannt für seine Flussschlucht und Wasserfälle.",
                   "category": "natural",
                   "coords": [
                         -102.103618,
                         19.429357
-                  ]
-            },
-            {
-                  "name": "Gral. Lázaro Cárdenas",
-                  "text": "Ein historisches Denkmal für General Lázaro Cárdenas in Uruapan.",
-                  "category": "historical",
-                  "coords": [
-                        -102.050652,
-                        19.417989
                   ]
             },
             {
@@ -33549,15 +32055,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taller Escuela de Artes Plásticas y Artesanías MAPECO",
-                  "text": "Die MAPECO-Werkstattschule für bildende Kunst und Handwerk in Uruapan.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.046943,
-                        19.408917
-                  ]
-            },
-            {
                   "name": "Mansión del Cupatitzio",
                   "text": "Die Mansión del Cupatitzio, ein Wahrzeichen am Fluss Cupatitzio in Uruapan.",
                   "category": "landmark",
@@ -33573,24 +32070,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -102.073703,
                         19.442184
-                  ]
-            },
-            {
-                  "name": "Balneario Juntas del Cupatitzio",
-                  "text": "Das Balneario Juntas del Cupatitzio in Uruapan ist ein Wasserpark, ideal für Familienausflüge.",
-                  "category": "recreational",
-                  "coords": [
-                        -102.061513,
-                        19.387956
-                  ]
-            },
-            {
-                  "name": "Balneario Villa Paraíso",
-                  "text": "Das Balneario Villa Paraíso in Uruapan ist ein Wasserpark, geeignet für Familien und Kinder.",
-                  "category": "recreational",
-                  "coords": [
-                        -102.018294,
-                        19.418761
                   ]
             },
             {
@@ -33632,30 +32111,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de Espectáculos 'La Macarena'",
-                  "text": "A La Macarena szórakoztató központ Uruapanban műsorokkal és eseményekkel.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.042797,
-                        19.416148
-                  ]
-            },
-            {
                   "name": "Parque Nacional Barranca del Cupatitzio",
                   "text": "A Barranca del Cupatitzio Nemzeti Park Uruapanban, híres folyami szurdokáról és vízeséseiről.",
                   "category": "natural",
                   "coords": [
                         -102.103618,
                         19.429357
-                  ]
-            },
-            {
-                  "name": "Gral. Lázaro Cárdenas",
-                  "text": "Történelmi emlékmű Lázaro Cárdenas tábornok tiszteletére Uruapanban.",
-                  "category": "historical",
-                  "coords": [
-                        -102.050652,
-                        19.417989
                   ]
             },
             {
@@ -33695,15 +32156,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taller Escuela de Artes Plásticas y Artesanías MAPECO",
-                  "text": "A MAPECO képzőművészeti és kézműves műhelyiskola Uruapanban.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.046943,
-                        19.408917
-                  ]
-            },
-            {
                   "name": "Mansión del Cupatitzio",
                   "text": "A Mansión del Cupatitzio, egy nevezetesség a Cupatitzio folyó mentén Uruapanban.",
                   "category": "landmark",
@@ -33719,24 +32171,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -102.073703,
                         19.442184
-                  ]
-            },
-            {
-                  "name": "Balneario Juntas del Cupatitzio",
-                  "text": "Az Uruapan-i Balneario Juntas del Cupatitzio egy vízipark, tökéletes családi kirándulásokhoz.",
-                  "category": "recreational",
-                  "coords": [
-                        -102.061513,
-                        19.387956
-                  ]
-            },
-            {
-                  "name": "Balneario Villa Paraíso",
-                  "text": "Az Uruapan-i Balneario Villa Paraíso egy vízipark, családok és gyerekek számára.",
-                  "category": "recreational",
-                  "coords": [
-                        -102.018294,
-                        19.418761
                   ]
             },
             {
@@ -33778,30 +32212,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de Espectáculos 'La Macarena'",
-                  "text": "Centrul de divertisment La Macarena din Uruapan, care oferă spectacole și evenimente.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.042797,
-                        19.416148
-                  ]
-            },
-            {
                   "name": "Parque Nacional Barranca del Cupatitzio",
                   "text": "Parcul Național Barranca del Cupatitzio din Uruapan, cunoscut pentru canionul său și cascade.",
                   "category": "natural",
                   "coords": [
                         -102.103618,
                         19.429357
-                  ]
-            },
-            {
-                  "name": "Gral. Lázaro Cárdenas",
-                  "text": "Un monument istoric dedicat generalului Lázaro Cárdenas în Uruapan.",
-                  "category": "historical",
-                  "coords": [
-                        -102.050652,
-                        19.417989
                   ]
             },
             {
@@ -33841,15 +32257,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taller Escuela de Artes Plásticas y Artesanías MAPECO",
-                  "text": "Școala-atelier de arte plastice și meșteșuguri MAPECO din Uruapan.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.046943,
-                        19.408917
-                  ]
-            },
-            {
                   "name": "Mansión del Cupatitzio",
                   "text": "Mansión del Cupatitzio, un reper de-a lungul râului Cupatitzio din Uruapan.",
                   "category": "landmark",
@@ -33865,24 +32272,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -102.073703,
                         19.442184
-                  ]
-            },
-            {
-                  "name": "Balneario Juntas del Cupatitzio",
-                  "text": "Balneario Juntas del Cupatitzio din Uruapan este un parc acvatic, ideal pentru excursii în familie.",
-                  "category": "recreational",
-                  "coords": [
-                        -102.061513,
-                        19.387956
-                  ]
-            },
-            {
-                  "name": "Balneario Villa Paraíso",
-                  "text": "Balneario Villa Paraíso din Uruapan este un parc acvatic, potrivit pentru familii și copii.",
-                  "category": "recreational",
-                  "coords": [
-                        -102.018294,
-                        19.418761
                   ]
             },
             {
@@ -33924,30 +32313,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de Espectáculos 'La Macarena'",
-                  "text": "La Macarena entertainment center in Uruapan offering shows and events.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.042797,
-                        19.416148
-                  ]
-            },
-            {
                   "name": "Parque Nacional Barranca del Cupatitzio",
                   "text": "Barranca del Cupatitzio National Park in Uruapan, known for its river canyon and waterfalls.",
                   "category": "natural",
                   "coords": [
                         -102.103618,
                         19.429357
-                  ]
-            },
-            {
-                  "name": "Gral. Lázaro Cárdenas",
-                  "text": "A historical monument to General Lázaro Cárdenas in Uruapan.",
-                  "category": "historical",
-                  "coords": [
-                        -102.050652,
-                        19.417989
                   ]
             },
             {
@@ -33987,15 +32358,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taller Escuela de Artes Plásticas y Artesanías MAPECO",
-                  "text": "MAPECO workshop school of visual arts and crafts in Uruapan.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.046943,
-                        19.408917
-                  ]
-            },
-            {
                   "name": "Mansión del Cupatitzio",
                   "text": "Mansión del Cupatitzio, a landmark alongside the Cupatitzio River in Uruapan.",
                   "category": "landmark",
@@ -34011,24 +32373,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -102.073703,
                         19.442184
-                  ]
-            },
-            {
-                  "name": "Balneario Juntas del Cupatitzio",
-                  "text": "Balneario Juntas del Cupatitzio in Uruapan is a water park, great for family trips.",
-                  "category": "recreational",
-                  "coords": [
-                        -102.061513,
-                        19.387956
-                  ]
-            },
-            {
-                  "name": "Balneario Villa Paraíso",
-                  "text": "Balneario Villa Paraíso in Uruapan is a water park, suitable for families and kids.",
-                  "category": "recreational",
-                  "coords": [
-                        -102.018294,
-                        19.418761
                   ]
             },
             {
@@ -34755,15 +33099,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
     id: "los-mochis-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Casa de La Cultura Conrado Espinoza",
-                  "text": "Ein Kulturhaus, benannt nach dem Dichter Conrado Espinoza, in Mochis.",
-                  "category": "museum",
-                  "coords": [
-                        -108.972525,
-                        25.804469
-                  ]
-            },
-            {
                   "name": "Trapiche Museo Interactivo",
                   "text": "Ein interaktives Museum in einer ehemaligen Zuckerrohrmühle in Mochis.",
                   "category": "museum",
@@ -34797,15 +33132,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -109.00036,
                         25.788608
-                  ]
-            },
-            {
-                  "name": "La Pergola",
-                  "text": "Eine Gartenlaube (Pergola) zur Erholung in Mochis.",
-                  "category": "natural",
-                  "coords": [
-                        -108.972815,
-                        25.805474
                   ]
             },
             {
@@ -34847,15 +33173,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Casa de La Cultura Conrado Espinoza",
-                  "text": "A Conrado Espinoza költőről elnevezett kulturális ház Mochisban.",
-                  "category": "museum",
-                  "coords": [
-                        -108.972525,
-                        25.804469
-                  ]
-            },
-            {
                   "name": "Trapiche Museo Interactivo",
                   "text": "Interaktív múzeum egy egykori cukormalomban Mochisban.",
                   "category": "museum",
@@ -34889,15 +33206,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -109.00036,
                         25.788608
-                  ]
-            },
-            {
-                  "name": "La Pergola",
-                  "text": "Kerti lugas (pergola) pihenésre Mochisban.",
-                  "category": "natural",
-                  "coords": [
-                        -108.972815,
-                        25.805474
                   ]
             },
             {
@@ -34939,15 +33247,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Casa de La Cultura Conrado Espinoza",
-                  "text": "O casă de cultură numită după poetul Conrado Espinoza în Mochis.",
-                  "category": "museum",
-                  "coords": [
-                        -108.972525,
-                        25.804469
-                  ]
-            },
-            {
                   "name": "Trapiche Museo Interactivo",
                   "text": "Un muzeu interactiv într-o fostă moară de zahăr în Mochis.",
                   "category": "museum",
@@ -34981,15 +33280,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -109.00036,
                         25.788608
-                  ]
-            },
-            {
-                  "name": "La Pergola",
-                  "text": "O pergolă de grădină pentru relaxare în Mochis.",
-                  "category": "natural",
-                  "coords": [
-                        -108.972815,
-                        25.805474
                   ]
             },
             {
@@ -35031,15 +33321,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Casa de La Cultura Conrado Espinoza",
-                  "text": "A house of culture named after poet Conrado Espinoza in Mochis.",
-                  "category": "museum",
-                  "coords": [
-                        -108.972525,
-                        25.804469
-                  ]
-            },
-            {
                   "name": "Trapiche Museo Interactivo",
                   "text": "An interactive museum in a former sugar mill in Mochis.",
                   "category": "museum",
@@ -35073,15 +33354,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -109.00036,
                         25.788608
-                  ]
-            },
-            {
-                  "name": "La Pergola",
-                  "text": "A garden pergola for relaxation in Mochis.",
-                  "category": "natural",
-                  "coords": [
-                        -108.972815,
-                        25.805474
                   ]
             },
             {
@@ -35547,57 +33819,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
     id: "nuevo-laredo-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Fort McIntosh",
-                  "text": "Historisches Fort von 1849 am Rio Grande in Laredo.",
-                  "category": "fortress",
-                  "coords": [
-                        -99.521676,
-                        27.507033
-                  ]
-            },
-            {
-                  "name": "Republic of the Rio Grande Museum",
-                  "text": "Das Republic of the Rio Grande Museum ist ein Museum in Nuevo Laredo, das die Geschichte der kurzlebigen Republic of the Rio Grande beleuchtet.",
-                  "category": "museum",
-                  "coords": [
-                        -99.505956,
-                        27.502014
-                  ]
-            },
-            {
-                  "name": "Lamar Bruni Vergara Environmental Science Center",
-                  "text": "Das Lamar Bruni Vergara Environmental Science Center ist ein Zoo auf dem Campus des Laredo College in Nuevo Laredo.",
-                  "category": "family",
-                  "coords": [
-                        -99.523529,
-                        27.509014
-                  ]
-            },
-            {
                   "name": "Alberca Ilusion Acuatica",
                   "text": "Ein Wasserpark mit Becken und Rutschen in Laredo.",
                   "category": "family",
                   "coords": [
                         -99.490026,
                         27.490751
-                  ]
-            },
-            {
-                  "name": "Laredo Theater Guild",
-                  "text": "1940 gegründetes Theatergilde in Laredo.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.518312,
-                        27.505951
-                  ]
-            },
-            {
-                  "name": "Imaginarium of South Texas",
-                  "text": "Ein interaktives Kindermuseum in Laredo.",
-                  "category": "museum",
-                  "coords": [
-                        -99.519726,
-                        27.50863
                   ]
             },
             {
@@ -35619,33 +33846,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Villa Antigua Border Heritage Museum",
-                  "text": "Ein Museum zur Grenzgeschichte in einer historischen Villa in Laredo.",
-                  "category": "museum",
-                  "coords": [
-                        -99.504167,
-                        27.502338
-                  ]
-            },
-            {
-                  "name": "Las Palmas Bird Sanctuary",
-                  "text": "Ein Vogelschutzgebiet im Las Palmas Gebiet von Laredo, Heimat von Zugvögeln.",
-                  "category": "natural",
-                  "coords": [
-                        -99.498309,
-                        27.499825
-                  ]
-            },
-            {
-                  "name": "Riverbend Nature Preserve",
-                  "text": "Ein Naturschutzgebiet entlang einer Flussbiegung in Laredo mit Wanderwegen.",
-                  "category": "natural",
-                  "coords": [
-                        -99.522247,
-                        27.499946
-                  ]
-            },
-            {
                   "name": "Teatro De La Ciudad",
                   "text": "Das städtische Theater in der Innenstadt von Laredo mit kulturellen Aufführungen.",
                   "category": "cultural",
@@ -35661,60 +33861,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -99.507363,
                         27.486288
-                  ]
-            },
-            {
-                  "name": "Texas Sesquicentennial 1836 - 1986",
-                  "text": "Das Texas Sesquicentennial 1836 - 1986 ist ein Gedenkmonument in Nuevo Laredo.",
-                  "category": "historical",
-                  "coords": [
-                        -99.503148,
-                        27.508063
-                  ]
-            },
-            {
-                  "name": "American Legion 50th Anniversary Flame",
-                  "text": "Die American Legion 50th Anniversary Flame ist ein Denkmal in Nuevo Laredo.",
-                  "category": "historical",
-                  "coords": [
-                        -99.508956,
-                        27.506275
-                  ]
-            },
-            {
-                  "name": "Veterans Eternal Flame",
-                  "text": "Eine ewige Flamme zum Gedenken an die Veteranen in Laredo.",
-                  "category": "historical",
-                  "coords": [
-                        -99.521981,
-                        27.504973
-                  ]
-            },
-            {
-                  "name": "Los Olvidados Art Gallery",
-                  "text": "Eine Kunstgalerie mit Werken vergessener Künstler in Laredo.",
-                  "category": "museum",
-                  "coords": [
-                        -99.506484,
-                        27.503033
-                  ]
-            },
-            {
-                  "name": "Laredo Center For the Arts",
-                  "text": "1883 gegründetes Kunstzentrum in Laredo.",
-                  "category": "museum",
-                  "coords": [
-                        -99.506134,
-                        27.504611
-                  ]
-            },
-            {
-                  "name": "Casa Daphne",
-                  "text": "Ein historisches Hausmuseum namens Casa Daphne in Laredo.",
-                  "category": "museum",
-                  "coords": [
-                        -99.510159,
-                        27.509067
                   ]
             },
             {
@@ -35742,42 +33888,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -99.507755,
                         27.470236
-                  ]
-            },
-            {
-                  "name": "El Portal",
-                  "text": "Ein steinerner Torbogen am Eingang zum historischen Viertel von Laredo.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.509488,
-                        27.501178
-                  ]
-            },
-            {
-                  "name": "Juárez–Lincoln International Bridge / Puente Internacional Juárez-Lincoln",
-                  "text": "Die Juárez–Lincoln International Bridge ist eine Brücke in Nuevo Laredo, die die Vereinigten Staaten und Mexiko über den Rio Grande verbindet.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.502705,
-                        27.50019
-                  ]
-            },
-            {
-                  "name": "Puente Internacional del Ferrocarril Mexicano de Texas",
-                  "text": "Eisenbahnbrücke zwischen Laredo und Nuevo Laredo, eingeweiht im Dezember 2024.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.516243,
-                        27.49769
-                  ]
-            },
-            {
-                  "name": "Puente Internacional Puerta de las Américas",
-                  "text": "Die Gateway to the Americas International Bridge ist eine internationale Brücke in Nuevo Laredo, die dem Fahrzeug- und Fußgängerverkehr dient.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.507498,
-                        27.499956
                   ]
             },
             {
@@ -35819,57 +33929,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Fort McIntosh",
-                  "text": "Történelmi erőd 1849-ből a Rio Grande folyónál Laredóban.",
-                  "category": "fortress",
-                  "coords": [
-                        -99.521676,
-                        27.507033
-                  ]
-            },
-            {
-                  "name": "Republic of the Rio Grande Museum",
-                  "text": "A Nuevo Laredóban található Republic of the Rio Grande Museum bemutatja a rövid életű Republic of the Rio Grande történetét.",
-                  "category": "museum",
-                  "coords": [
-                        -99.505956,
-                        27.502014
-                  ]
-            },
-            {
-                  "name": "Lamar Bruni Vergara Environmental Science Center",
-                  "text": "A Lamar Bruni Vergara Environmental Science Center egy állatkert Nuevo Laredóban, a Laredo College kampuszán.",
-                  "category": "family",
-                  "coords": [
-                        -99.523529,
-                        27.509014
-                  ]
-            },
-            {
                   "name": "Alberca Ilusion Acuatica",
                   "text": "Vidámpark medencékkel és csúszdákkal Laredóban.",
                   "category": "family",
                   "coords": [
                         -99.490026,
                         27.490751
-                  ]
-            },
-            {
-                  "name": "Laredo Theater Guild",
-                  "text": "1940-ben alapított színházi céh Laredóban.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.518312,
-                        27.505951
-                  ]
-            },
-            {
-                  "name": "Imaginarium of South Texas",
-                  "text": "Interaktív gyermekmúzeum Laredóban.",
-                  "category": "museum",
-                  "coords": [
-                        -99.519726,
-                        27.50863
                   ]
             },
             {
@@ -35891,33 +33956,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Villa Antigua Border Heritage Museum",
-                  "text": "Határtörténeti múzeum egy történelmi villában Laredóban.",
-                  "category": "museum",
-                  "coords": [
-                        -99.504167,
-                        27.502338
-                  ]
-            },
-            {
-                  "name": "Las Palmas Bird Sanctuary",
-                  "text": "Madárrezervátum Laredo Las Palmas területén, vonuló madarak otthona.",
-                  "category": "natural",
-                  "coords": [
-                        -99.498309,
-                        27.499825
-                  ]
-            },
-            {
-                  "name": "Riverbend Nature Preserve",
-                  "text": "Természetvédelmi terület egy folyókanyar mentén Laredóban, túraútvonalakkal.",
-                  "category": "natural",
-                  "coords": [
-                        -99.522247,
-                        27.499946
-                  ]
-            },
-            {
                   "name": "Teatro De La Ciudad",
                   "text": "A városi színház Laredo belvárosában kulturális előadásokkal.",
                   "category": "cultural",
@@ -35933,60 +33971,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -99.507363,
                         27.486288
-                  ]
-            },
-            {
-                  "name": "Texas Sesquicentennial 1836 - 1986",
-                  "text": "A Texas Sesquicentennial 1836 - 1986 egy emlékmű Nuevo Laredo városában.",
-                  "category": "historical",
-                  "coords": [
-                        -99.503148,
-                        27.508063
-                  ]
-            },
-            {
-                  "name": "American Legion 50th Anniversary Flame",
-                  "text": "Az American Legion 50th Anniversary Flame egy emlékmű Nuevo Laredo városában.",
-                  "category": "historical",
-                  "coords": [
-                        -99.508956,
-                        27.506275
-                  ]
-            },
-            {
-                  "name": "Veterans Eternal Flame",
-                  "text": "Örök láng a veteránok emlékére Laredóban.",
-                  "category": "historical",
-                  "coords": [
-                        -99.521981,
-                        27.504973
-                  ]
-            },
-            {
-                  "name": "Los Olvidados Art Gallery",
-                  "text": "Művészeti galéria elfeledett művészek munkáival Laredóban.",
-                  "category": "museum",
-                  "coords": [
-                        -99.506484,
-                        27.503033
-                  ]
-            },
-            {
-                  "name": "Laredo Center For the Arts",
-                  "text": "1883-ban alapított művészeti központ Laredóban.",
-                  "category": "museum",
-                  "coords": [
-                        -99.506134,
-                        27.504611
-                  ]
-            },
-            {
-                  "name": "Casa Daphne",
-                  "text": "Casa Daphne nevű történelmi házmúzeum Laredóban.",
-                  "category": "museum",
-                  "coords": [
-                        -99.510159,
-                        27.509067
                   ]
             },
             {
@@ -36014,42 +33998,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -99.507755,
                         27.470236
-                  ]
-            },
-            {
-                  "name": "El Portal",
-                  "text": "Kőkapu Laredo történelmi negyedének bejáratánál.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.509488,
-                        27.501178
-                  ]
-            },
-            {
-                  "name": "Juárez–Lincoln International Bridge / Puente Internacional Juárez-Lincoln",
-                  "text": "A Juárez–Lincoln International Bridge egy híd Nuevo Laredo városában, amely az Egyesült Államokat és Mexikót köti össze a Rio Grande felett.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.502705,
-                        27.50019
-                  ]
-            },
-            {
-                  "name": "Puente Internacional del Ferrocarril Mexicano de Texas",
-                  "text": "Vasúti híd Laredo és Nuevo Laredo között, 2024 decemberében avatták fel.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.516243,
-                        27.49769
-                  ]
-            },
-            {
-                  "name": "Puente Internacional Puerta de las Américas",
-                  "text": "A Gateway to the Americas International Bridge egy nemzetközi híd Nuevo Laredo városában, amely jármű- és gyalogosforgalmat is bonyolít.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.507498,
-                        27.499956
                   ]
             },
             {
@@ -36091,57 +34039,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Fort McIntosh",
-                  "text": "Fort istoric din 1849 pe malul râului Rio Grande în Laredo.",
-                  "category": "fortress",
-                  "coords": [
-                        -99.521676,
-                        27.507033
-                  ]
-            },
-            {
-                  "name": "Republic of the Rio Grande Museum",
-                  "text": "Republic of the Rio Grande Museum este un muzeu din Nuevo Laredo care evidențiază istoria efemerei Republic of the Rio Grande.",
-                  "category": "museum",
-                  "coords": [
-                        -99.505956,
-                        27.502014
-                  ]
-            },
-            {
-                  "name": "Lamar Bruni Vergara Environmental Science Center",
-                  "text": "Lamar Bruni Vergara Environmental Science Center este o grădină zoologică situată în campusul Laredo College din Nuevo Laredo.",
-                  "category": "family",
-                  "coords": [
-                        -99.523529,
-                        27.509014
-                  ]
-            },
-            {
                   "name": "Alberca Ilusion Acuatica",
                   "text": "Un parc acvatic cu piscine și tobogane în Laredo.",
                   "category": "family",
                   "coords": [
                         -99.490026,
                         27.490751
-                  ]
-            },
-            {
-                  "name": "Laredo Theater Guild",
-                  "text": "Breaslă de teatru fondată în 1940 în Laredo.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.518312,
-                        27.505951
-                  ]
-            },
-            {
-                  "name": "Imaginarium of South Texas",
-                  "text": "Un muzeu interactiv pentru copii în Laredo.",
-                  "category": "museum",
-                  "coords": [
-                        -99.519726,
-                        27.50863
                   ]
             },
             {
@@ -36163,33 +34066,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Villa Antigua Border Heritage Museum",
-                  "text": "Un muzeu al istoriei de frontieră într-o vilă istorică din Laredo.",
-                  "category": "museum",
-                  "coords": [
-                        -99.504167,
-                        27.502338
-                  ]
-            },
-            {
-                  "name": "Las Palmas Bird Sanctuary",
-                  "text": "Un sanctuar de păsări în zona Las Palmas din Laredo, adăpostind păsări migratoare.",
-                  "category": "natural",
-                  "coords": [
-                        -99.498309,
-                        27.499825
-                  ]
-            },
-            {
-                  "name": "Riverbend Nature Preserve",
-                  "text": "O rezervație naturală de-a lungul unui cot de râu în Laredo, cu trasee.",
-                  "category": "natural",
-                  "coords": [
-                        -99.522247,
-                        27.499946
-                  ]
-            },
-            {
                   "name": "Teatro De La Ciudad",
                   "text": "Teatrul municipal din centrul Laredoului, cu spectacole culturale.",
                   "category": "cultural",
@@ -36205,60 +34081,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -99.507363,
                         27.486288
-                  ]
-            },
-            {
-                  "name": "Texas Sesquicentennial 1836 - 1986",
-                  "text": "Texas Sesquicentennial 1836 - 1986 este un monument comemorativ situat în Nuevo Laredo.",
-                  "category": "historical",
-                  "coords": [
-                        -99.503148,
-                        27.508063
-                  ]
-            },
-            {
-                  "name": "American Legion 50th Anniversary Flame",
-                  "text": "American Legion 50th Anniversary Flame este un monument situat în Nuevo Laredo.",
-                  "category": "historical",
-                  "coords": [
-                        -99.508956,
-                        27.506275
-                  ]
-            },
-            {
-                  "name": "Veterans Eternal Flame",
-                  "text": "O flacără veșnică dedicată veteranilor în Laredo.",
-                  "category": "historical",
-                  "coords": [
-                        -99.521981,
-                        27.504973
-                  ]
-            },
-            {
-                  "name": "Los Olvidados Art Gallery",
-                  "text": "O galerie de artă cu lucrări ale artiștilor uitați în Laredo.",
-                  "category": "museum",
-                  "coords": [
-                        -99.506484,
-                        27.503033
-                  ]
-            },
-            {
-                  "name": "Laredo Center For the Arts",
-                  "text": "Centru de artă fondat în 1883 în Laredo.",
-                  "category": "museum",
-                  "coords": [
-                        -99.506134,
-                        27.504611
-                  ]
-            },
-            {
-                  "name": "Casa Daphne",
-                  "text": "Un muzeu în casă istorică numit Casa Daphne în Laredo.",
-                  "category": "museum",
-                  "coords": [
-                        -99.510159,
-                        27.509067
                   ]
             },
             {
@@ -36286,42 +34108,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -99.507755,
                         27.470236
-                  ]
-            },
-            {
-                  "name": "El Portal",
-                  "text": "Un arc de piatră la intrarea în cartierul istoric din Laredo.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.509488,
-                        27.501178
-                  ]
-            },
-            {
-                  "name": "Juárez–Lincoln International Bridge / Puente Internacional Juárez-Lincoln",
-                  "text": "Juárez–Lincoln International Bridge este un pod în Nuevo Laredo care leagă Statele Unite și Mexicul peste Rio Grande.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.502705,
-                        27.50019
-                  ]
-            },
-            {
-                  "name": "Puente Internacional del Ferrocarril Mexicano de Texas",
-                  "text": "Pod feroviar între Laredo și Nuevo Laredo, inaugurat în decembrie 2024.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.516243,
-                        27.49769
-                  ]
-            },
-            {
-                  "name": "Puente Internacional Puerta de las Américas",
-                  "text": "Gateway to the Americas International Bridge este un pod internațional din Nuevo Laredo, care deservește traficul auto și pietonal.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.507498,
-                        27.499956
                   ]
             },
             {
@@ -36363,57 +34149,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Fort McIntosh",
-                  "text": "A historic fort from 1849 on the Rio Grande in Laredo.",
-                  "category": "fortress",
-                  "coords": [
-                        -99.521676,
-                        27.507033
-                  ]
-            },
-            {
-                  "name": "Republic of the Rio Grande Museum",
-                  "text": "Republic of the Rio Grande Museum is a museum located in Nuevo Laredo that highlights the history of the short-lived Republic of the Rio Grande.",
-                  "category": "museum",
-                  "coords": [
-                        -99.505956,
-                        27.502014
-                  ]
-            },
-            {
-                  "name": "Lamar Bruni Vergara Environmental Science Center",
-                  "text": "Lamar Bruni Vergara Environmental Science Center is a zoo located in Nuevo Laredo on the campus of Laredo College.",
-                  "category": "family",
-                  "coords": [
-                        -99.523529,
-                        27.509014
-                  ]
-            },
-            {
                   "name": "Alberca Ilusion Acuatica",
                   "text": "A water park with pools and slides in Laredo.",
                   "category": "family",
                   "coords": [
                         -99.490026,
                         27.490751
-                  ]
-            },
-            {
-                  "name": "Laredo Theater Guild",
-                  "text": "Theater guild founded in 1940 in Laredo.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.518312,
-                        27.505951
-                  ]
-            },
-            {
-                  "name": "Imaginarium of South Texas",
-                  "text": "An interactive children's museum in Laredo.",
-                  "category": "museum",
-                  "coords": [
-                        -99.519726,
-                        27.50863
                   ]
             },
             {
@@ -36435,33 +34176,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Villa Antigua Border Heritage Museum",
-                  "text": "A border heritage museum in a historic villa in Laredo.",
-                  "category": "museum",
-                  "coords": [
-                        -99.504167,
-                        27.502338
-                  ]
-            },
-            {
-                  "name": "Las Palmas Bird Sanctuary",
-                  "text": "A bird sanctuary in the Las Palmas area of Laredo, home to migratory birds.",
-                  "category": "natural",
-                  "coords": [
-                        -99.498309,
-                        27.499825
-                  ]
-            },
-            {
-                  "name": "Riverbend Nature Preserve",
-                  "text": "A nature preserve along a river bend in Laredo, with trails.",
-                  "category": "natural",
-                  "coords": [
-                        -99.522247,
-                        27.499946
-                  ]
-            },
-            {
                   "name": "Teatro De La Ciudad",
                   "text": "The municipal theater in downtown Laredo, hosting cultural performances.",
                   "category": "cultural",
@@ -36477,60 +34191,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -99.507363,
                         27.486288
-                  ]
-            },
-            {
-                  "name": "Texas Sesquicentennial 1836 - 1986",
-                  "text": "The Texas Sesquicentennial 1836 - 1986 is a commemorative monument located in Nuevo Laredo.",
-                  "category": "historical",
-                  "coords": [
-                        -99.503148,
-                        27.508063
-                  ]
-            },
-            {
-                  "name": "American Legion 50th Anniversary Flame",
-                  "text": "The American Legion 50th Anniversary Flame is a monument situated in Nuevo Laredo.",
-                  "category": "historical",
-                  "coords": [
-                        -99.508956,
-                        27.506275
-                  ]
-            },
-            {
-                  "name": "Veterans Eternal Flame",
-                  "text": "An eternal flame memorial dedicated to veterans in Laredo.",
-                  "category": "historical",
-                  "coords": [
-                        -99.521981,
-                        27.504973
-                  ]
-            },
-            {
-                  "name": "Los Olvidados Art Gallery",
-                  "text": "An art gallery featuring works by forgotten artists in Laredo.",
-                  "category": "museum",
-                  "coords": [
-                        -99.506484,
-                        27.503033
-                  ]
-            },
-            {
-                  "name": "Laredo Center For the Arts",
-                  "text": "Arts centre founded in 1883 in Laredo.",
-                  "category": "museum",
-                  "coords": [
-                        -99.506134,
-                        27.504611
-                  ]
-            },
-            {
-                  "name": "Casa Daphne",
-                  "text": "A historic house museum named Casa Daphne in Laredo.",
-                  "category": "museum",
-                  "coords": [
-                        -99.510159,
-                        27.509067
                   ]
             },
             {
@@ -36558,42 +34218,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -99.507755,
                         27.470236
-                  ]
-            },
-            {
-                  "name": "El Portal",
-                  "text": "A stone archway landmark at the entrance to Laredo's historic district.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.509488,
-                        27.501178
-                  ]
-            },
-            {
-                  "name": "Juárez–Lincoln International Bridge",
-                  "text": "The Juárez–Lincoln International Bridge is a bridge in Nuevo Laredo connecting the United States and Mexico across the Rio Grande.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.502705,
-                        27.50019
-                  ]
-            },
-            {
-                  "name": "Texas Mexican Railway International Bridge",
-                  "text": "A railway bridge connecting Laredo and Nuevo Laredo, inaugurated in December 2024.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.516243,
-                        27.49769
-                  ]
-            },
-            {
-                  "name": "Gateway to the Americas International Bridge",
-                  "text": "The Gateway to the Americas International Bridge is an international bridge in Nuevo Laredo serving vehicular and pedestrian traffic.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.507498,
-                        27.499956
                   ]
             },
             {
@@ -43326,24 +40950,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Foro",
-                  "text": "Das Foro in San Miguel de Allende ist ein kultureller Freiluftplatz im Hauptgarten.",
-                  "category": "cultural",
-                  "coords": [
-                        -100.735178,
-                        20.916576
-                  ]
-            },
-            {
-                  "name": "Foro San Miguel",
-                  "text": "Foro San Miguel ist eine Bühne für Konzerte und Veranstaltungen im Viertel Guadalupe.",
-                  "category": "cultural",
-                  "coords": [
-                        -100.715002,
-                        20.909649
-                  ]
-            },
-            {
                   "name": "Beautiful Street Corner",
                   "text": "Beautiful Street Corner ist eine Kopfsteinpflaster-Kreuzung mit einem Brunnen und Bougainvilleen.",
                   "category": "landmark",
@@ -43371,30 +40977,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Charco del Ingenio",
-                  "text": "Charco del Ingenio ist eine lokale Attraktion in San Miguel de Allende.",
-                  "category": "landmark",
-                  "coords": [
-                        -100.727746,
-                        20.918477
-                  ]
-            },
-            {
                   "name": "Ted Davis Galeria",
                   "text": "Die Ted Davis Galería in San Miguel de Allende ist auf zeitgenössische mexikanische Kunst spezialisiert.",
                   "category": "museum",
                   "coords": [
                         -100.746441,
                         20.911281
-                  ]
-            },
-            {
-                  "name": "Conservatorio de Plantas Mexicanas",
-                  "text": "Der Conservatorio de Plantas Mexicanas ist ein botanischer Garten mit endemischen Arten im Parque Juárez.",
-                  "category": "landmark",
-                  "coords": [
-                        -100.723695,
-                        20.917614
                   ]
             },
             {
@@ -43425,42 +41013,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Capella",
-                  "text": "Capella ist ein Monumentalbauwerk in San Miguel de Allende.",
-                  "category": "historical",
-                  "coords": [
-                        -100.736086,
-                        20.915643
-                  ]
-            },
-            {
-                  "name": "Arco de San Miguel",
-                  "text": "Der Arco de San Miguel ist ein Stadttor aus rosa Bruchstein in San Miguel de Allende.",
-                  "category": "landmark",
-                  "coords": [
-                        -100.73603,
-                        20.913631
-                  ]
-            },
-            {
-                  "name": "Mirador",
-                  "text": "Der Mirador in San Miguel de Allende bietet einen Panoramablick auf die Parroquia und das Tal.",
-                  "category": "natural",
-                  "coords": [
-                        -100.73802,
-                        20.907818
-                  ]
-            },
-            {
-                  "name": "Danyel Joy Art",
-                  "text": "Danyel Joy Art ist eine Galerie für naive Kunst mit Werken aus der Region in San Miguel de Allende.",
-                  "category": "museum",
-                  "coords": [
-                        -100.748161,
-                        20.90678
-                  ]
-            },
-            {
                   "name": "Bag Colorin",
                   "text": "Bag Colorin ist eine Galerie in der Stadt San Miguel de Allende.",
                   "category": "museum",
@@ -43476,15 +41028,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -100.799477,
                         20.967263
-                  ]
-            },
-            {
-                  "name": "Recinto Ferial San Miguel de Allende",
-                  "text": "Das Recinto Ferial San Miguel de Allende ist ein Themenpark und Messegelände, ideal für Veranstaltungen und Familien.",
-                  "category": "recreational",
-                  "coords": [
-                        -100.71009,
-                        20.905714
                   ]
             }
       ],
@@ -43544,24 +41087,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Foro",
-                  "text": "A San Miguel de Allende-i Foro egy szabadtéri kulturális tér a főkertben.",
-                  "category": "cultural",
-                  "coords": [
-                        -100.735178,
-                        20.916576
-                  ]
-            },
-            {
-                  "name": "Foro San Miguel",
-                  "text": "A Foro San Miguel egy színpad koncertek és események számára a Guadalupe negyedben.",
-                  "category": "cultural",
-                  "coords": [
-                        -100.715002,
-                        20.909649
-                  ]
-            },
-            {
                   "name": "Beautiful Street Corner",
                   "text": "A Beautiful Street Corner egy macskaköves útkereszteződés szökőkúttal és bougainvilleákkal.",
                   "category": "landmark",
@@ -43589,30 +41114,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Charco del Ingenio",
-                  "text": "A Charco del Ingenio egy helyi látványosság San Miguel de Allende városában.",
-                  "category": "landmark",
-                  "coords": [
-                        -100.727746,
-                        20.918477
-                  ]
-            },
-            {
                   "name": "Ted Davis Galeria",
                   "text": "A San Miguel de Allende-i Ted Davis Galería kortárs mexikói művészetre szakosodott.",
                   "category": "museum",
                   "coords": [
                         -100.746441,
                         20.911281
-                  ]
-            },
-            {
-                  "name": "Conservatorio de Plantas Mexicanas",
-                  "text": "A Conservatorio de Plantas Mexicanas egy botanikus kert endemikus fajokkal a Parque Juárezben.",
-                  "category": "landmark",
-                  "coords": [
-                        -100.723695,
-                        20.917614
                   ]
             },
             {
@@ -43643,42 +41150,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Capella",
-                  "text": "A Capella egy műemlék építmény San Miguel de Allende-ben.",
-                  "category": "historical",
-                  "coords": [
-                        -100.736086,
-                        20.915643
-                  ]
-            },
-            {
-                  "name": "Arco de San Miguel",
-                  "text": "Az Arco de San Miguel egy rózsaszín kőből készült városkapu San Miguel de Allendében.",
-                  "category": "landmark",
-                  "coords": [
-                        -100.73603,
-                        20.913631
-                  ]
-            },
-            {
-                  "name": "Mirador",
-                  "text": "A San Miguel de Allende-i Mirador panorámás kilátást nyújt a Parroquia-ra és a völgyre.",
-                  "category": "natural",
-                  "coords": [
-                        -100.73802,
-                        20.907818
-                  ]
-            },
-            {
-                  "name": "Danyel Joy Art",
-                  "text": "A Danyel Joy Art egy naiv művészeti galéria, amely a régió alkotásait mutatja be San Miguel de Allendében.",
-                  "category": "museum",
-                  "coords": [
-                        -100.748161,
-                        20.90678
-                  ]
-            },
-            {
                   "name": "Bag Colorin",
                   "text": "A Bag Colorin egy galéria San Miguel de Allende városában.",
                   "category": "museum",
@@ -43694,15 +41165,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -100.799477,
                         20.967263
-                  ]
-            },
-            {
-                  "name": "Recinto Ferial San Miguel de Allende",
-                  "text": "A San Miguel de Allende-i Recinto Ferial egy tematikus park és vásártér, ideális rendezvényekre és családok számára.",
-                  "category": "recreational",
-                  "coords": [
-                        -100.71009,
-                        20.905714
                   ]
             }
       ],
@@ -43762,24 +41224,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Foro",
-                  "text": "Foroul din San Miguel de Allende este o piață culturală în aer liber în grădina principală.",
-                  "category": "cultural",
-                  "coords": [
-                        -100.735178,
-                        20.916576
-                  ]
-            },
-            {
-                  "name": "Foro San Miguel",
-                  "text": "Foro San Miguel este o scenă pentru concerte și evenimente în cartierul Guadalupe.",
-                  "category": "cultural",
-                  "coords": [
-                        -100.715002,
-                        20.909649
-                  ]
-            },
-            {
                   "name": "Beautiful Street Corner",
                   "text": "Beautiful Street Corner este o intersecție pietruită cu o fântână și bougainvillea.",
                   "category": "landmark",
@@ -43807,30 +41251,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Charco del Ingenio",
-                  "text": "Charco del Ingenio este o atracție locală situată în San Miguel de Allende.",
-                  "category": "landmark",
-                  "coords": [
-                        -100.727746,
-                        20.918477
-                  ]
-            },
-            {
                   "name": "Ted Davis Galeria",
                   "text": "Galeria Ted Davis din San Miguel de Allende este specializată în arta contemporană mexicană.",
                   "category": "museum",
                   "coords": [
                         -100.746441,
                         20.911281
-                  ]
-            },
-            {
-                  "name": "Conservatorio de Plantas Mexicanas",
-                  "text": "Conservatorio de Plantas Mexicanas este o grădină botanică cu specii endemice în Parcul Juárez.",
-                  "category": "landmark",
-                  "coords": [
-                        -100.723695,
-                        20.917614
                   ]
             },
             {
@@ -43861,42 +41287,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Capella",
-                  "text": "Capella este o structură monumentală situată în San Miguel de Allende.",
-                  "category": "historical",
-                  "coords": [
-                        -100.736086,
-                        20.915643
-                  ]
-            },
-            {
-                  "name": "Arco de San Miguel",
-                  "text": "Arco de San Miguel este o poartă a orașului din piatră roz în San Miguel de Allende.",
-                  "category": "landmark",
-                  "coords": [
-                        -100.73603,
-                        20.913631
-                  ]
-            },
-            {
-                  "name": "Mirador",
-                  "text": "Miradorul din San Miguel de Allende oferă o vedere panoramică asupra Parroquiei și a văii.",
-                  "category": "natural",
-                  "coords": [
-                        -100.73802,
-                        20.907818
-                  ]
-            },
-            {
-                  "name": "Danyel Joy Art",
-                  "text": "Danyel Joy Art este o galerie de artă naivă cu lucrări din regiune în San Miguel de Allende.",
-                  "category": "museum",
-                  "coords": [
-                        -100.748161,
-                        20.90678
-                  ]
-            },
-            {
                   "name": "Bag Colorin",
                   "text": "Bag Colorin este o galerie situată în orașul San Miguel de Allende.",
                   "category": "museum",
@@ -43912,15 +41302,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -100.799477,
                         20.967263
-                  ]
-            },
-            {
-                  "name": "Recinto Ferial San Miguel de Allende",
-                  "text": "Recinto Ferial San Miguel de Allende este un parc tematic și teren de târg, ideal pentru evenimente și familii.",
-                  "category": "recreational",
-                  "coords": [
-                        -100.71009,
-                        20.905714
                   ]
             }
       ],
@@ -43980,24 +41361,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Foro",
-                  "text": "Foro in San Miguel de Allende is an outdoor cultural space in the main garden.",
-                  "category": "cultural",
-                  "coords": [
-                        -100.735178,
-                        20.916576
-                  ]
-            },
-            {
-                  "name": "Foro San Miguel",
-                  "text": "Foro San Miguel is a stage for concerts and events in the Guadalupe neighbourhood.",
-                  "category": "cultural",
-                  "coords": [
-                        -100.715002,
-                        20.909649
-                  ]
-            },
-            {
                   "name": "Beautiful Street Corner",
                   "text": "Beautiful Street Corner is a cobblestone intersection with a fountain and bougainvillea.",
                   "category": "landmark",
@@ -44025,30 +41388,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Charco del Ingenio",
-                  "text": "Charco del Ingenio is a local attraction situated in San Miguel de Allende.",
-                  "category": "landmark",
-                  "coords": [
-                        -100.727746,
-                        20.918477
-                  ]
-            },
-            {
                   "name": "Ted Davis Galeria",
                   "text": "Ted Davis Galería in San Miguel de Allende specializes in contemporary Mexican art.",
                   "category": "museum",
                   "coords": [
                         -100.746441,
                         20.911281
-                  ]
-            },
-            {
-                  "name": "Conservatorio de Plantas Mexicanas",
-                  "text": "Conservatorio de Plantas Mexicanas is a botanical garden with endemic species in Parque Juárez.",
-                  "category": "landmark",
-                  "coords": [
-                        -100.723695,
-                        20.917614
                   ]
             },
             {
@@ -44079,42 +41424,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Capella",
-                  "text": "Capella is a monumental structure located in San Miguel de Allende.",
-                  "category": "historical",
-                  "coords": [
-                        -100.736086,
-                        20.915643
-                  ]
-            },
-            {
-                  "name": "Arco de San Miguel",
-                  "text": "Arco de San Miguel is a city gate made of pink stone in San Miguel de Allende.",
-                  "category": "landmark",
-                  "coords": [
-                        -100.73603,
-                        20.913631
-                  ]
-            },
-            {
-                  "name": "Mirador",
-                  "text": "The Mirador in San Miguel de Allende offers a panoramic view of Parroquia and the valley.",
-                  "category": "natural",
-                  "coords": [
-                        -100.73802,
-                        20.907818
-                  ]
-            },
-            {
-                  "name": "Danyel Joy Art",
-                  "text": "Danyel Joy Art is a naïve art gallery featuring works from the region in San Miguel de Allende.",
-                  "category": "museum",
-                  "coords": [
-                        -100.748161,
-                        20.90678
-                  ]
-            },
-            {
                   "name": "Bag Colorin",
                   "text": "Bag Colorin is a gallery located in the city of San Miguel de Allende.",
                   "category": "museum",
@@ -44130,15 +41439,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -100.799477,
                         20.967263
-                  ]
-            },
-            {
-                  "name": "Recinto Ferial San Miguel de Allende",
-                  "text": "Recinto Ferial San Miguel de Allende is a theme park and fairground, ideal for events and families.",
-                  "category": "recreational",
-                  "coords": [
-                        -100.71009,
-                        20.905714
                   ]
             }
       ]
@@ -44172,15 +41472,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
     id: "taxco-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Museo de arte virreinal",
-                  "text": "Das Museo de arte virreinal in Taxco ist im ehemaligen Münzamt aus dem 16. Jahrhundert untergebracht.",
-                  "category": "museum",
-                  "coords": [
-                        -99.604229,
-                        18.556848
-                  ]
-            },
-            {
                   "name": "Casa Borda",
                   "text": "Barockes Herrenhaus des Silbermagnaten José de la Borda im historischen Zentrum von Taxco.",
                   "category": "cultural",
@@ -44208,15 +41499,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento al Minero",
-                  "text": "Bronzestatue eines Bergmanns, Symbol der Silberbergbautradition von Taxco.",
-                  "category": "historical",
-                  "coords": [
-                        -99.601406,
-                        18.560766
-                  ]
-            },
-            {
                   "name": "Pozas azules de Atzala",
                   "text": "Die Pozas azules de Atzala in Taxco sind natürliche blaue Schwimmbecken, ideal zum Schwimmen in der Natur.",
                   "category": "recreational",
@@ -44227,15 +41509,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Museo de arte virreinal",
-                  "text": "A taxcói Museo de arte virreinal a 16. századi egykori pénzverdében működik.",
-                  "category": "museum",
-                  "coords": [
-                        -99.604229,
-                        18.556848
-                  ]
-            },
             {
                   "name": "Casa Borda",
                   "text": "José de la Borda ezüstbárók barokk kastélya Taxco történelmi központjában.",
@@ -44264,15 +41537,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento al Minero",
-                  "text": "Egy bányász bronzszobra, Taxco ezüstbányászatának szimbóluma.",
-                  "category": "historical",
-                  "coords": [
-                        -99.601406,
-                        18.560766
-                  ]
-            },
-            {
                   "name": "Pozas azules de Atzala",
                   "text": "A Taxco-i Pozas azules de Atzala természetes kék medencék, ideálisak a természetben való úszáshoz.",
                   "category": "recreational",
@@ -44283,15 +41547,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Museo de arte virreinal",
-                  "text": "Muzeul de artă viceregală din Taxco este găzduit în fosta monetărie din secolul al XVI-lea.",
-                  "category": "museum",
-                  "coords": [
-                        -99.604229,
-                        18.556848
-                  ]
-            },
             {
                   "name": "Casa Borda",
                   "text": "Conacul baroc al magnatului de argint José de la Borda în centrul istoric al orașului Taxco.",
@@ -44320,15 +41575,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento al Minero",
-                  "text": "Statuie de bronz a unui miner, simbol al tradiției mineritului de argint din Taxco.",
-                  "category": "historical",
-                  "coords": [
-                        -99.601406,
-                        18.560766
-                  ]
-            },
-            {
                   "name": "Pozas azules de Atzala",
                   "text": "Pozas azules de Atzala din Taxco sunt bazine naturale albastre, ideale pentru înot în natură.",
                   "category": "recreational",
@@ -44339,15 +41585,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Museo de arte virreinal",
-                  "text": "The Museo de arte virreinal in Taxco is housed in the former 16th-century mint.",
-                  "category": "museum",
-                  "coords": [
-                        -99.604229,
-                        18.556848
-                  ]
-            },
             {
                   "name": "Casa Borda",
                   "text": "Baroque mansion of silver magnate José de la Borda in Taxco's historic center.",
@@ -44373,15 +41610,6 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   "coords": [
                         -99.585259,
                         18.566055
-                  ]
-            },
-            {
-                  "name": "Monumento al Minero",
-                  "text": "Bronze statue of a miner, symbol of Taxco's silver mining heritage.",
-                  "category": "historical",
-                  "coords": [
-                        -99.601406,
-                        18.560766
                   ]
             },
             {
@@ -46098,30 +43326,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Loro Puebla",
-                  "text": "Ein Zoo und Vogelpark in Cholula, berühmt für seine Papageien, geeignet für Familien und Naturliebhaber.",
-                  "category": "wildlife",
-                  "coords": [
-                        -98.292837,
-                        19.023739
-                  ]
-            },
-            {
                   "name": "Balneario Puerto Escondido",
                   "text": "Ein öffentliches Bad und Spa in Cholula, ideal zur Entspannung und Wellness.",
                   "category": "recreational",
                   "coords": [
                         -98.297711,
                         19.053236
-                  ]
-            },
-            {
-                  "name": "Acuario NORED",
-                  "text": "Ein Aquarium in Cholula, das Wasserarten zeigt, toll für Familienbesuche.",
-                  "category": "wildlife",
-                  "coords": [
-                        -98.306693,
-                        19.064488
                   ]
             },
             {
@@ -46152,30 +43362,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Amazonic",
-                  "text": "Ein Aquarium in Cholula mit Amazonas-Thema, geeignet für Familien und Kinder.",
-                  "category": "wildlife",
-                  "coords": [
-                        -98.317742,
-                        19.060137
-                  ]
-            },
-            {
                   "name": "Baños Temazcal",
                   "text": "Ein traditionelles Temazcal-Bad in Cholula, das ein entspannendes Dampfbad-Erlebnis bietet.",
                   "category": "recreational",
                   "coords": [
                         -98.320746,
                         19.060171
-                  ]
-            },
-            {
-                  "name": "Agua Azul",
-                  "text": "Ein Wasserpark in Cholula mit Becken und Rutschen, ideal für Familien und Spaß.",
-                  "category": "recreational",
-                  "coords": [
-                        -98.22321,
-                        19.026888
                   ]
             }
       ],
@@ -46199,30 +43391,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Loro Puebla",
-                  "text": "Egy állatkert és madárpark Cholulában, híres papagájairól, alkalmas családok és természetkedvelők számára.",
-                  "category": "wildlife",
-                  "coords": [
-                        -98.292837,
-                        19.023739
-                  ]
-            },
-            {
                   "name": "Balneario Puerto Escondido",
                   "text": "Egy nyilvános fürdő és gyógyfürdő Cholulában, ideális pihenésre és wellnessre.",
                   "category": "recreational",
                   "coords": [
                         -98.297711,
                         19.053236
-                  ]
-            },
-            {
-                  "name": "Acuario NORED",
-                  "text": "Egy akvárium Cholulában, vízi fajokat bemutatva, kiváló családi látogatásokhoz.",
-                  "category": "wildlife",
-                  "coords": [
-                        -98.306693,
-                        19.064488
                   ]
             },
             {
@@ -46253,30 +43427,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Amazonic",
-                  "text": "Egy akvárium Cholulában, Amazonas témájú, alkalmas családok és gyerekek számára.",
-                  "category": "wildlife",
-                  "coords": [
-                        -98.317742,
-                        19.060137
-                  ]
-            },
-            {
                   "name": "Baños Temazcal",
                   "text": "Egy hagyományos temazcal fürdő Cholulában, pihentető gőzfürdő élményt nyújtva.",
                   "category": "recreational",
                   "coords": [
                         -98.320746,
                         19.060171
-                  ]
-            },
-            {
-                  "name": "Agua Azul",
-                  "text": "Egy vízipark Cholulában, medencékkel és csúszdákkal, ideális családok és szórakozás számára.",
-                  "category": "recreational",
-                  "coords": [
-                        -98.22321,
-                        19.026888
                   ]
             }
       ],
@@ -46300,30 +43456,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Loro Puebla",
-                  "text": "O grădină zoologică și parc de păsări în Cholula, faimos pentru papagaii săi, potrivit pentru familii și iubitorii de natură.",
-                  "category": "wildlife",
-                  "coords": [
-                        -98.292837,
-                        19.023739
-                  ]
-            },
-            {
                   "name": "Balneario Puerto Escondido",
                   "text": "O baie publică și spa în Cholula, ideală pentru relaxare și wellness.",
                   "category": "recreational",
                   "coords": [
                         -98.297711,
                         19.053236
-                  ]
-            },
-            {
-                  "name": "Acuario NORED",
-                  "text": "Un acvariu în Cholula, prezentând specii acvatice, excelent pentru vizite în familie.",
-                  "category": "wildlife",
-                  "coords": [
-                        -98.306693,
-                        19.064488
                   ]
             },
             {
@@ -46354,30 +43492,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Amazonic",
-                  "text": "Un acvariu în Cholula, tematic Amazon, potrivit pentru familii și copii.",
-                  "category": "wildlife",
-                  "coords": [
-                        -98.317742,
-                        19.060137
-                  ]
-            },
-            {
                   "name": "Baños Temazcal",
                   "text": "O baie tradițională temazcal în Cholula, oferind o experiență relaxantă de baie cu aburi.",
                   "category": "recreational",
                   "coords": [
                         -98.320746,
                         19.060171
-                  ]
-            },
-            {
-                  "name": "Agua Azul",
-                  "text": "Un parc acvatic în Cholula, cu piscine și tobogane, ideal pentru familii și distracție.",
-                  "category": "recreational",
-                  "coords": [
-                        -98.22321,
-                        19.026888
                   ]
             }
       ],
@@ -46401,30 +43521,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Loro Puebla",
-                  "text": "A zoo and bird park in Cholula, famous for its parrots, suitable for families and nature lovers.",
-                  "category": "wildlife",
-                  "coords": [
-                        -98.292837,
-                        19.023739
-                  ]
-            },
-            {
                   "name": "Balneario Puerto Escondido",
                   "text": "A public bath and spa in Cholula, ideal for relaxation and wellness.",
                   "category": "recreational",
                   "coords": [
                         -98.297711,
                         19.053236
-                  ]
-            },
-            {
-                  "name": "Acuario NORED",
-                  "text": "An aquarium in Cholula, showcasing aquatic species, great for family visits.",
-                  "category": "wildlife",
-                  "coords": [
-                        -98.306693,
-                        19.064488
                   ]
             },
             {
@@ -46455,30 +43557,12 @@ export const poiExtraMexicoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Amazonic",
-                  "text": "An aquarium in Cholula, themed around the Amazon, suitable for families and children.",
-                  "category": "wildlife",
-                  "coords": [
-                        -98.317742,
-                        19.060137
-                  ]
-            },
-            {
                   "name": "Baños Temazcal",
                   "text": "A traditional temazcal bath in Cholula, offering a relaxing steam bath experience.",
                   "category": "recreational",
                   "coords": [
                         -98.320746,
                         19.060171
-                  ]
-            },
-            {
-                  "name": "Agua Azul",
-                  "text": "A water park in Cholula, featuring pools and slides, ideal for families and fun.",
-                  "category": "recreational",
-                  "coords": [
-                        -98.22321,
-                        19.026888
                   ]
             }
       ]

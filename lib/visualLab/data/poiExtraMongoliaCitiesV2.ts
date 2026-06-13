@@ -1380,86 +1380,10 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
     }, image: "/poi-images/mn-erdenet-cities-v2.webp"},
   {
     id: "mn-darkhan-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Khurimiin ordon",
-                  "text": "Ein Naturgebiet in Darkhan, markiert durch einen traditionellen Ovoo (Steinhaufen) in der Steppe.",
-                  "category": "natural",
-                  "coords": [
-                        105.940174,
-                        49.482611
-                  ]
-            },
-            {
-                  "name": "Morin khuur dursgal",
-                  "text": "Ein Denkmal in Darkhan, gewidmet der Morin Khuur (Pferdekopfgeige), ein Symbol der mongolischen Musik.",
-                  "category": "historical",
-                  "coords": [
-                        105.948087,
-                        49.475479
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Khurimiin ordon",
-                  "text": "Egy természeti terület Darkhanban, egy hagyományos ovóval (kőkupaccal) a sztyeppén.",
-                  "category": "natural",
-                  "coords": [
-                        105.940174,
-                        49.482611
-                  ]
-            },
-            {
-                  "name": "Morin khuur dursgal",
-                  "text": "Egy emlékmű Darkhanban, a morin khuur (lófejű hegedű) tiszteletére, a mongol zene szimbóluma.",
-                  "category": "historical",
-                  "coords": [
-                        105.948087,
-                        49.475479
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Khurimiin ordon",
-                  "text": "O zonă naturală în Darkhan, marcată de un ovoo tradițional (grămadă de pietre) pe stepă.",
-                  "category": "natural",
-                  "coords": [
-                        105.940174,
-                        49.482611
-                  ]
-            },
-            {
-                  "name": "Morin khuur dursgal",
-                  "text": "Un monument în Darkhan dedicat morin khuur (viorii cu cap de cal), simbol al muzicii mongole.",
-                  "category": "historical",
-                  "coords": [
-                        105.948087,
-                        49.475479
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Khurimiin ordon",
-                  "text": "A natural area in Darkhan, marked by a traditional ovoo (stone cairn) on the steppe.",
-                  "category": "natural",
-                  "coords": [
-                        105.940174,
-                        49.482611
-                  ]
-            },
-            {
-                  "name": "Morin Khuur Monument",
-                  "text": "A monument in Darkhan dedicated to the morin khuur (horsehead fiddle), symbol of Mongolian music.",
-                  "category": "historical",
-                  "coords": [
-                        105.948087,
-                        49.475479
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "MN-037",
@@ -2060,15 +1984,6 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khovd ?",
-                  "text": "Ein Theater in Khovd, das Schauspiel- und Musikvorführungen für die lokale Gemeinschaft veranstaltet.",
-                  "category": "cultural",
-                  "coords": [
-                        91.642816,
-                        48.004162
-                  ]
-            },
-            {
                   "name": "Khovd Park",
                   "text": "Ein Familienpark in Khovd mit Spielplätzen, Spazierwegen und Picknickbereichen.",
                   "category": "family",
@@ -2104,15 +2019,6 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
                   "coords": [
                         91.640937,
                         48.006769
-                  ]
-            },
-            {
-                  "name": "Khovd ?",
-                  "text": "Egy színház Khovdban, amely színpadi és zenei előadásokat tart a helyi közösség számára.",
-                  "category": "cultural",
-                  "coords": [
-                        91.642816,
-                        48.004162
                   ]
             },
             {
@@ -2154,15 +2060,6 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khovd ?",
-                  "text": "Un teatru în Khovd, care găzduiește spectacole dramatice și muzicale pentru comunitatea locală.",
-                  "category": "cultural",
-                  "coords": [
-                        91.642816,
-                        48.004162
-                  ]
-            },
-            {
                   "name": "Khovd Park",
                   "text": "Un parc familial în Khovd cu locuri de joacă, poteci de plimbare și zone de picnic.",
                   "category": "family",
@@ -2198,15 +2095,6 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
                   "coords": [
                         91.640937,
                         48.006769
-                  ]
-            },
-            {
-                  "name": "Khovd Theater",
-                  "text": "A theater in Khovd, hosting dramatic and musical performances for the local community.",
-                  "category": "cultural",
-                  "coords": [
-                        91.642816,
-                        48.004162
                   ]
             },
             {
@@ -6125,57 +6013,12 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kloster Erdene Dsuu",
-                  "text": "Erdene Zuu ist ein Kloster in Charchorin, das als das älteste noch erhaltene buddhistische Kloster der Mongolei gilt.",
-                  "category": "religious",
-                  "coords": [
-                        102.843149,
-                        47.201618
-                  ]
-            },
-            {
                   "name": "Soyoliin Tov",
                   "text": "Das Kulturzentrum (Soyoliin Tov) in Kharkhorin, das Ausstellungen und Aufführungen beherbergt.",
                   "category": "cultural",
                   "coords": [
                         102.816258,
                         47.192632
-                  ]
-            },
-            {
-                  "name": "Kharakhorum Museum",
-                  "text": "Das Kharakhorum-Museum in Kharkhorin, das Artefakte aus der alten mongolischen Hauptstadt zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        102.839153,
-                        47.195227
-                  ]
-            },
-            {
-                  "name": "Ögödei's palace",
-                  "text": "Der Palast von Ögedei Khan, dem zweiten Herrscher des Mongolischen Reiches, in Karakorum.",
-                  "category": "castle",
-                  "coords": [
-                        102.840945,
-                        47.207502
-                  ]
-            },
-            {
-                  "name": "Erdenesiin Khuree Calligraphy and Art Center",
-                  "text": "Ein Kalligrafie- und Kunstzentrum in Kharkhorin, in der Nähe des Erdene-Zuu-Klosters, das der mongolischen Schrift gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        102.835752,
-                        47.196908
-                  ]
-            },
-            {
-                  "name": "Ovoo",
-                  "text": "Ein traditioneller Ovoo (Steinhaufen) in Kharkhorin, eine heilige Stätte für Opfergaben und Gebete.",
-                  "category": "natural",
-                  "coords": [
-                        102.851512,
-                        47.181563
                   ]
             },
             {
@@ -6199,57 +6042,12 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Erdeni Dzú",
-                  "text": "Az Erdene Zuu egy kolostor Charchorin városában, amely Mongólia legrégebbi fennmaradt buddhista kolostoraként ismert.",
-                  "category": "religious",
-                  "coords": [
-                        102.843149,
-                        47.201618
-                  ]
-            },
-            {
                   "name": "Soyoliin Tov",
                   "text": "A Soyoliin Tov kulturális központ Kharkhorinban, kiállításoknak és előadásoknak ad otthont.",
                   "category": "cultural",
                   "coords": [
                         102.816258,
                         47.192632
-                  ]
-            },
-            {
-                  "name": "Kharakhorum Museum",
-                  "text": "A Kharakhorum Múzeum Kharkhorinban, amely az ősi mongol főváros tárgyait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        102.839153,
-                        47.195227
-                  ]
-            },
-            {
-                  "name": "Ögödei's palace",
-                  "text": "Ögödei kán palotája, a Mongol Birodalom második uralkodójáé, Karakorumban.",
-                  "category": "castle",
-                  "coords": [
-                        102.840945,
-                        47.207502
-                  ]
-            },
-            {
-                  "name": "Erdenesiin Khuree Calligraphy and Art Center",
-                  "text": "Egy kalligráfiai és művészeti központ Kharkhorinban, az Erdene Zuu kolostor közelében, a mongol írásnak szentelve.",
-                  "category": "museum",
-                  "coords": [
-                        102.835752,
-                        47.196908
-                  ]
-            },
-            {
-                  "name": "Ovoo",
-                  "text": "Egy hagyományos ovó (kőkupac) Kharkhorinban, egy szent hely áldozatok és imák számára.",
-                  "category": "natural",
-                  "coords": [
-                        102.851512,
-                        47.181563
                   ]
             },
             {
@@ -6273,57 +6071,12 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Erdene Zuu",
-                  "text": "Erdene Zuu este o mănăstire în Charchorin, cunoscută drept cea mai veche mănăstire budistă supraviețuitoare din Mongolia.",
-                  "category": "religious",
-                  "coords": [
-                        102.843149,
-                        47.201618
-                  ]
-            },
-            {
                   "name": "Soyoliin Tov",
                   "text": "Centrul cultural (Soyoliin Tov) din Kharkhorin, care găzduiește expoziții și spectacole.",
                   "category": "cultural",
                   "coords": [
                         102.816258,
                         47.192632
-                  ]
-            },
-            {
-                  "name": "Kharakhorum Museum",
-                  "text": "Muzeul Kharakhorum din Kharkhorin, care expune artefacte din vechea capitală mongolă.",
-                  "category": "museum",
-                  "coords": [
-                        102.839153,
-                        47.195227
-                  ]
-            },
-            {
-                  "name": "Ögödei's palace",
-                  "text": "Palatul lui Ögedei Han, al doilea conducător al Imperiului Mongol, situat în Karakorum.",
-                  "category": "castle",
-                  "coords": [
-                        102.840945,
-                        47.207502
-                  ]
-            },
-            {
-                  "name": "Erdenesiin Khuree Calligraphy and Art Center",
-                  "text": "Un centru de caligrafie și artă în Kharkhorin, lângă Mănăstirea Erdene Zuu, dedicat scrisului mongol.",
-                  "category": "museum",
-                  "coords": [
-                        102.835752,
-                        47.196908
-                  ]
-            },
-            {
-                  "name": "Ovoo",
-                  "text": "Un ovoo tradițional (grămadă de pietre) în Kharkhorin, un loc sacru pentru ofrande și rugăciuni.",
-                  "category": "natural",
-                  "coords": [
-                        102.851512,
-                        47.181563
                   ]
             },
             {
@@ -6347,57 +6100,12 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Erdene Zuu",
-                  "text": "Erdene Zuu is a monastery in Charchorin, known as the oldest surviving Buddhist monastery in Mongolia.",
-                  "category": "religious",
-                  "coords": [
-                        102.843149,
-                        47.201618
-                  ]
-            },
-            {
                   "name": "Soyoliin Tov",
                   "text": "The cultural center (Soyoliin Tov) in Kharkhorin, hosting exhibitions and performances.",
                   "category": "cultural",
                   "coords": [
                         102.816258,
                         47.192632
-                  ]
-            },
-            {
-                  "name": "Kharakhorum Museum",
-                  "text": "The Kharakhorum Museum in Kharkhorin, displaying artifacts from the ancient Mongol capital.",
-                  "category": "museum",
-                  "coords": [
-                        102.839153,
-                        47.195227
-                  ]
-            },
-            {
-                  "name": "Ögödei's palace",
-                  "text": "The palace of Ögedei Khan, the second ruler of the Mongol Empire, located in Karakorum.",
-                  "category": "castle",
-                  "coords": [
-                        102.840945,
-                        47.207502
-                  ]
-            },
-            {
-                  "name": "Erdenesiin Khuree Calligraphy and Art Center",
-                  "text": "A calligraphy and art center in Kharkhorin, near Erdene Zuu Monastery, dedicated to Mongolian script.",
-                  "category": "museum",
-                  "coords": [
-                        102.835752,
-                        47.196908
-                  ]
-            },
-            {
-                  "name": "Ovoo",
-                  "text": "A traditional ovoo (stone cairn) in Kharkhorin, a sacred site for offerings and prayers.",
-                  "category": "natural",
-                  "coords": [
-                        102.851512,
-                        47.181563
                   ]
             },
             {

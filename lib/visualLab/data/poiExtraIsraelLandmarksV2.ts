@@ -51,15 +51,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teich Bethesda",
-                  "text": "Antike Becken in der Nähe des Löwentors, die im Neuen Testament als Ort einer Wunderheilung durch Jesus bekannt sind.",
-                  "category": "landmark",
-                  "coords": [
-                        35.235954,
-                        31.781494
-                  ]
-            },
-            {
                   "name": "Dome of Solomon",
                   "text": "Ein achteckiges Gebäude auf dem Tempelberg-Gelände, das dem biblischen König Salomo gewidmet ist.",
                   "category": "landmark",
@@ -113,15 +104,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   "coords": [
                         35.235736,
                         31.778079
-                  ]
-            },
-            {
-                  "name": "Bethesda fürdő",
-                  "text": "Ókori medencék az Oroszlános kapu közelében, amelyek az Újszövetségben Jézus egyik csodás gyógyításának helyszíneként ismertek.",
-                  "category": "landmark",
-                  "coords": [
-                        35.235954,
-                        31.781494
                   ]
             },
             {
@@ -181,15 +163,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Scăldătoarea Betezda",
-                  "text": "Bazine antice lângă Poarta Leilor, cunoscute în Noul Testament ca locul unei vindecări miraculoase făcute de Iisus.",
-                  "category": "landmark",
-                  "coords": [
-                        35.235954,
-                        31.781494
-                  ]
-            },
-            {
                   "name": "Cupola lui Solomon",
                   "text": "O clădire octogonală din incinta Muntelui Templului, dedicată regelui biblic Solomon.",
                   "category": "landmark",
@@ -243,15 +216,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   "coords": [
                         35.235736,
                         31.778079
-                  ]
-            },
-            {
-                  "name": "Pool of Bethesda",
-                  "text": "Ancient pools near the Lions' Gate, known in the New Testament as the site of a miraculous healing by Jesus.",
-                  "category": "landmark",
-                  "coords": [
-                        35.235954,
-                        31.781494
                   ]
             },
             {
@@ -464,15 +428,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Haifa Auditorium",
-                  "text": "Größter Konzertsaal der Stadt, in dem kulturelle Großveranstaltungen und internationale Filmfestivals stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        34.985023,
-                        32.803551
-                  ]
-            },
-            {
                   "name": "Elias Russian church",
                   "text": "Russisch-orthodoxe Kirche auf dem Berg Karmel, bekannt für ihre traditionellen Ikonen und den blau gekuppelten Turm.",
                   "category": "religious",
@@ -587,15 +542,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   "coords": [
                         34.99953,
                         32.808212
-                  ]
-            },
-            {
-                  "name": "Carmelite church",
-                  "text": "Ruinen eines frühen religiösen Bauwerks des Karmeliterordens auf dem Berg Karmel.",
-                  "category": "historical",
-                  "coords": [
-                        34.973387,
-                        32.801058
                   ]
             },
             {
@@ -763,15 +709,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Haifa Auditorium",
-                  "text": "A város legnagyobb hangversenyterme, amely kulturális eseményeknek és nemzetközi filmfesztiváloknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        34.985023,
-                        32.803551
-                  ]
-            },
-            {
                   "name": "Elias Russian church",
                   "text": "Orosz ortodox templom a Kármel-hegyen, amely hagyományos ikonjairól és kék kupolás tornyáról ismert.",
                   "category": "religious",
@@ -886,15 +823,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   "coords": [
                         34.99953,
                         32.808212
-                  ]
-            },
-            {
-                  "name": "Carmelite church",
-                  "text": "A Kármel-hegyi karmelita rendhez köthető korai vallási építmény maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        34.973387,
-                        32.801058
                   ]
             },
             {
@@ -1062,15 +990,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Haifa Auditorium",
-                  "text": "Cea mai mare sală de concerte din oraș, care găzduiește evenimente culturale majore și festivaluri internaționale de film.",
-                  "category": "cultural",
-                  "coords": [
-                        34.985023,
-                        32.803551
-                  ]
-            },
-            {
                   "name": "Elias Russian church",
                   "text": "Biserică ortodoxă rusă de pe Muntele Carmel, cunoscută pentru icoanele sale tradiționale și turnul cu cupolă albastră.",
                   "category": "religious",
@@ -1185,15 +1104,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   "coords": [
                         34.99953,
                         32.808212
-                  ]
-            },
-            {
-                  "name": "Carmelite church",
-                  "text": "Ruinele unei structuri religioase timpurii asociate cu Ordinul Carmelit de pe Muntele Carmel.",
-                  "category": "historical",
-                  "coords": [
-                        34.973387,
-                        32.801058
                   ]
             },
             {
@@ -1361,15 +1271,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Haifa Auditorium",
-                  "text": "Largest concert hall in the city, hosting major cultural events and international film festivals.",
-                  "category": "cultural",
-                  "coords": [
-                        34.985023,
-                        32.803551
-                  ]
-            },
-            {
                   "name": "Elias Russian church",
                   "text": "Russian Orthodox church on Mount Carmel known for its traditional icons and blue-domed tower.",
                   "category": "religious",
@@ -1484,15 +1385,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   "coords": [
                         34.99953,
                         32.808212
-                  ]
-            },
-            {
-                  "name": "Carmelite church",
-                  "text": "Ruins of an early religious structure associated with the Carmelite Order on Mount Carmel.",
-                  "category": "historical",
-                  "coords": [
-                        34.973387,
-                        32.801058
                   ]
             },
             {
@@ -2082,15 +1974,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grab des Lazarus",
-                  "text": "Der Überlieferung nach ist dies das Grab in Bethanien, in dem Jesus Lazarus von den Toten auferweckte.",
-                  "category": "religious",
-                  "coords": [
-                        35.255789,
-                        31.771521
-                  ]
-            },
-            {
                   "name": "Bethphage monastery",
                   "text": "Dieses Franziskanerkloster markiert den Ort, an dem Jesus seinen Einzug nach Jerusalem am Palmsonntag begann.",
                   "category": "religious",
@@ -2261,15 +2144,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   "coords": [
                         35.300478,
                         31.779245
-                  ]
-            },
-            {
-                  "name": "Lazarus Tomb",
-                  "text": "A hagyomány szerint ez az a betániai sír, ahol Jézus feltámasztotta Lázárt a halálból.",
-                  "category": "religious",
-                  "coords": [
-                        35.255789,
-                        31.771521
                   ]
             },
             {
@@ -2446,15 +2320,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mormântul lui Lazăr din Betania",
-                  "text": "Conform tradiției, acesta este mormântul din Betania unde Iisus l-a înviat pe Lazăr din morți.",
-                  "category": "religious",
-                  "coords": [
-                        35.255789,
-                        31.771521
-                  ]
-            },
-            {
                   "name": "Bethphage monastery",
                   "text": "Această mănăstire franciscană marchează locul de unde Iisus și-a început intrarea în Ierusalim în Duminica Floriilor.",
                   "category": "religious",
@@ -2625,15 +2490,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   "coords": [
                         35.300478,
                         31.779245
-                  ]
-            },
-            {
-                  "name": "Lazarus Tomb",
-                  "text": "Tradition holds that this is the tomb in Bethany where Jesus raised Lazarus from the dead.",
-                  "category": "religious",
-                  "coords": [
-                        35.255789,
-                        31.771521
                   ]
             },
             {
@@ -12959,33 +12815,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mensa Christi Church",
-                  "text": "Eine kleine Kirche in Nazareth, die einen massiven Kalksteinblock beherbergt, der als „Tisch Christi“ bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        35.295104,
-                        32.70431
-                  ]
-            },
-            {
-                  "name": "Verkündigungsbasilika",
-                  "text": "Eine monumentale moderne Basilika, die über der Grotte errichtet wurde, in der Maria die Verkündigung empfing.",
-                  "category": "religious",
-                  "coords": [
-                        35.29778,
-                        32.702074
-                  ]
-            },
-            {
-                  "name": "Josefskirche",
-                  "text": "Eine römisch-katholische Kirche, die über Höhlen erbaut wurde, die als Zimmermannswerkstatt Josefs gelten.",
-                  "category": "religious",
-                  "coords": [
-                        35.298437,
-                        32.703098
-                  ]
-            },
-            {
                   "name": "Greek Orthodox Church of the Annunciation",
                   "text": "Diese 1763 erbaute griechisch-orthodoxe Kirche steht über der Quelle, die Marias Brunnen speist.",
                   "category": "religious",
@@ -13022,15 +12851,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nazareth Village",
-                  "text": "Ein Freilichtmuseum, das das ländliche Leben in Nazareth vor 2.000 Jahren mit rekonstruierten Farmen nachstellt.",
-                  "category": "museum",
-                  "coords": [
-                        35.291722,
-                        32.700073
-                  ]
-            },
-            {
                   "name": "circassian museum",
                   "text": "Ein Museum in Kfar Kama, das die einzigartige Kultur, Tracht und Geschichte des tscherkessischen Volkes präsentiert.",
                   "category": "museum",
@@ -13046,24 +12866,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   "coords": [
                         35.411338,
                         32.721364
-                  ]
-            },
-            {
-                  "name": "Al-Salam Mosque",
-                  "text": "Eine moderne Moschee in der Region des Berges Tabor, die als religiöser Mittelpunkt für die lokale Gemeinschaft dient.",
-                  "category": "religious",
-                  "coords": [
-                        35.301232,
-                        32.703861
-                  ]
-            },
-            {
-                  "name": "Ein Ammat Avel",
-                  "text": "Eine natürliche Süßwasserquelle in der hügeligen Landschaft Untergaliläas in der Nähe des Berges Tabor.",
-                  "category": "landmark",
-                  "coords": [
-                        35.319444,
-                        32.713889
                   ]
             },
             {
@@ -13211,24 +13013,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mount Precipice",
-                  "text": "Ein markanter Gipfel bei Nazareth mit Panoramablick auf die Jesreel-Ebene, der traditionell als Ort der Ablehnung Jesu gilt.",
-                  "category": "natural",
-                  "coords": [
-                        35.298024,
-                        32.680745
-                  ]
-            },
-            {
-                  "name": "Mt. Hapitzetz",
-                  "text": "Ein Gipfel im Nazareth-Gebirge, der weite Ausblicke über die Hügel Galiläas bietet.",
-                  "category": "natural",
-                  "coords": [
-                        35.320755,
-                        32.701637
-                  ]
-            },
-            {
                   "name": "Yona",
                   "text": "Ein Hügel in der Nähe von Gath-Hepher, der traditionell mit dem biblischen Propheten Jona in Verbindung gebracht wird.",
                   "category": "natural",
@@ -13244,15 +13028,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   "coords": [
                         35.334055,
                         32.69561
-                  ]
-            },
-            {
-                  "name": "Mearat Kesullot",
-                  "text": "Ein Höhleneingang in den Kalksteinfelsen des Mount Kesulot mit Blick auf das Tal.",
-                  "category": "natural",
-                  "coords": [
-                        35.325416,
-                        32.692714
                   ]
             },
             {
@@ -13294,33 +13069,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mensa Christi Church",
-                  "text": "Kisméretű názáreti templom, amelyben egy masszív mészkőtömb, a „Krisztus asztala” található.",
-                  "category": "religious",
-                  "coords": [
-                        35.295104,
-                        32.70431
-                  ]
-            },
-            {
-                  "name": "Angyali üdvözlet-bazilika",
-                  "text": "Monumentális modern bazilika, amelyet azon barlang fölé emeltek, ahol Mária az angyali üdvözletet kapta.",
-                  "category": "religious",
-                  "coords": [
-                        35.29778,
-                        32.702074
-                  ]
-            },
-            {
-                  "name": "Saint Joseph's Church",
-                  "text": "Római katolikus templom, amelyet a József asztalosműhelyének vélt barlangok fölé építettek.",
-                  "category": "religious",
-                  "coords": [
-                        35.298437,
-                        32.703098
-                  ]
-            },
-            {
                   "name": "Greek Orthodox Church of the Annunciation",
                   "text": "Ez az 1763-ban épült görögkeleti templom a Mária-kutat tápláló forrás fölött áll.",
                   "category": "religious",
@@ -13357,15 +13105,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nazareth Village",
-                  "text": "Szabadtéri múzeum, amely rekonstruált farmokkal mutatja be a 2000 évvel ezelőtti názáreti életet.",
-                  "category": "museum",
-                  "coords": [
-                        35.291722,
-                        32.700073
-                  ]
-            },
-            {
                   "name": "circassian museum",
                   "text": "Múzeum Kfar Kamában, amely a cserkesz nép egyedülálló kultúráját, népviseletét és történelmét mutatja be.",
                   "category": "museum",
@@ -13381,24 +13120,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   "coords": [
                         35.411338,
                         32.721364
-                  ]
-            },
-            {
-                  "name": "Al-Salam Mosque",
-                  "text": "Egy modern mecset a Tabor-hegy környékén, amely a helyi közösség vallási központjaként működik.",
-                  "category": "religious",
-                  "coords": [
-                        35.301232,
-                        32.703861
-                  ]
-            },
-            {
-                  "name": "Ein Ammat Avel",
-                  "text": "Természetes édesvízforrás Alsó-Galilea dombos vidékén, a Tabor-hegy közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        35.319444,
-                        32.713889
                   ]
             },
             {
@@ -13546,24 +13267,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mount Precipice",
-                  "text": "Názáret közeli csúcs, ahonnan panorámás kilátás nyílik a Jezréel-völgyre; a hagyomány szerint Jézus elűzésének helyszíne.",
-                  "category": "natural",
-                  "coords": [
-                        35.298024,
-                        32.680745
-                  ]
-            },
-            {
-                  "name": "Mt. Hapitzetz",
-                  "text": "A Názáreti-hegység egyik csúcsa, ahonnan tágas kilátás nyílik Galilea dombjaira.",
-                  "category": "natural",
-                  "coords": [
-                        35.320755,
-                        32.701637
-                  ]
-            },
-            {
                   "name": "Yona",
                   "text": "Gath-Hepher közeli domb, amelyet a hagyomány Jónás bibliai prófétához köt.",
                   "category": "natural",
@@ -13579,15 +13282,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   "coords": [
                         35.334055,
                         32.69561
-                  ]
-            },
-            {
-                  "name": "Mearat Kesullot",
-                  "text": "Barlangbejárat a Kesulot-hegy mészkőszikláiban, kilátással a völgyre.",
-                  "category": "natural",
-                  "coords": [
-                        35.325416,
-                        32.692714
                   ]
             },
             {
@@ -13629,33 +13323,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mensa Christi Church",
-                  "text": "O biserică mică din Nazaret care adăpostește un bloc masiv de calcar cunoscut sub numele de „Masa lui Cristos”.",
-                  "category": "religious",
-                  "coords": [
-                        35.295104,
-                        32.70431
-                  ]
-            },
-            {
-                  "name": "Church of the Annunciation",
-                  "text": "O basilică modernă monumentală construită deasupra grotei unde Maria a primit Buna Vestire.",
-                  "category": "religious",
-                  "coords": [
-                        35.29778,
-                        32.702074
-                  ]
-            },
-            {
-                  "name": "Saint Joseph's Church",
-                  "text": "O biserică romano-catolică construită deasupra unor peșteri despre care se crede că au fost atelierul de tâmplărie al lui Iosif.",
-                  "category": "religious",
-                  "coords": [
-                        35.298437,
-                        32.703098
-                  ]
-            },
-            {
                   "name": "Greek Orthodox Church of the Annunciation",
                   "text": "Această biserică ortodoxă greacă construită în 1763 se află deasupra izvorului care alimentează Fântâna Mariei.",
                   "category": "religious",
@@ -13692,15 +13359,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nazareth Village",
-                  "text": "Un muzeu în aer liber care recreează viața din Nazaret de acum 2.000 de ani cu ferme reconstruite.",
-                  "category": "museum",
-                  "coords": [
-                        35.291722,
-                        32.700073
-                  ]
-            },
-            {
                   "name": "circassian museum",
                   "text": "Un muzeu în Kfar Kama care prezintă cultura, portul și istoria unice ale poporului circassian.",
                   "category": "museum",
@@ -13716,24 +13374,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   "coords": [
                         35.411338,
                         32.721364
-                  ]
-            },
-            {
-                  "name": "Al-Salam Mosque",
-                  "text": "O moschee modernă în regiunea Muntelui Tabor, servind drept centru religios pentru comunitatea locală.",
-                  "category": "religious",
-                  "coords": [
-                        35.301232,
-                        32.703861
-                  ]
-            },
-            {
-                  "name": "Ein Ammat Avel",
-                  "text": "Un izvor natural de apă dulce în peisajul deluros al Galileii de Jos, lângă Munteul Tabor.",
-                  "category": "landmark",
-                  "coords": [
-                        35.319444,
-                        32.713889
                   ]
             },
             {
@@ -13881,24 +13521,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mount Precipice",
-                  "text": "Un vârf proeminent lângă Nazaret, cu vederi panoramice asupra văii Izreel, considerat tradițional locul respingerii lui Iisus.",
-                  "category": "natural",
-                  "coords": [
-                        35.298024,
-                        32.680745
-                  ]
-            },
-            {
-                  "name": "Mt. Hapitzetz",
-                  "text": "Un vârf în munții Nazaretului, oferind vederi largi peste dealurile Galileii.",
-                  "category": "natural",
-                  "coords": [
-                        35.320755,
-                        32.701637
-                  ]
-            },
-            {
                   "name": "Yona",
                   "text": "Un deal lângă Gath-Hepher, asociat tradițional cu profetul biblic Iona.",
                   "category": "natural",
@@ -13914,15 +13536,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   "coords": [
                         35.334055,
                         32.69561
-                  ]
-            },
-            {
-                  "name": "Mearat Kesullot",
-                  "text": "O intrare în peșteră în stâncile calcaroase ale Muntelui Kesulot, cu vedere spre vale.",
-                  "category": "natural",
-                  "coords": [
-                        35.325416,
-                        32.692714
                   ]
             },
             {
@@ -13964,33 +13577,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mensa Christi Church",
-                  "text": "A small church in Nazareth housing a massive limestone block known as the 'Table of Christ.'",
-                  "category": "religious",
-                  "coords": [
-                        35.295104,
-                        32.70431
-                  ]
-            },
-            {
-                  "name": "Church of the Annunciation",
-                  "text": "A massive modern basilica built over the grotto where Mary received the Annunciation.",
-                  "category": "religious",
-                  "coords": [
-                        35.29778,
-                        32.702074
-                  ]
-            },
-            {
-                  "name": "Saint Joseph's Church",
-                  "text": "A Roman Catholic church built over caves believed to be the carpentry workshop of Joseph.",
-                  "category": "religious",
-                  "coords": [
-                        35.298437,
-                        32.703098
-                  ]
-            },
-            {
                   "name": "Greek Orthodox Church of the Annunciation",
                   "text": "This Greek Orthodox church built in 1763 stands over the spring that supplies Mary's Well.",
                   "category": "religious",
@@ -14027,15 +13613,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nazareth Village",
-                  "text": "An open-air museum recreating life in Nazareth 2,000 years ago with reconstructed farms.",
-                  "category": "museum",
-                  "coords": [
-                        35.291722,
-                        32.700073
-                  ]
-            },
-            {
                   "name": "The Circassian Center",
                   "text": "A museum in Kfar Kama showcasing the unique culture, dress, and history of the Circassian people.",
                   "category": "museum",
@@ -14051,24 +13628,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   "coords": [
                         35.411338,
                         32.721364
-                  ]
-            },
-            {
-                  "name": "Al-Salam Mosque",
-                  "text": "A modern mosque in the Mount Tabor region, serving as a religious center for the local community.",
-                  "category": "religious",
-                  "coords": [
-                        35.301232,
-                        32.703861
-                  ]
-            },
-            {
-                  "name": "Ein Ammat Avel",
-                  "text": "A natural freshwater spring flowing in the hilly landscape of Lower Galilee near Mount Tabor.",
-                  "category": "landmark",
-                  "coords": [
-                        35.319444,
-                        32.713889
                   ]
             },
             {
@@ -14216,24 +13775,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mount Precipice",
-                  "text": "A prominent peak near Nazareth offering panoramic views of the Jezreel Valley, traditionally identified as the site of Jesus' rejection.",
-                  "category": "natural",
-                  "coords": [
-                        35.298024,
-                        32.680745
-                  ]
-            },
-            {
-                  "name": "Mt. Hapitzetz",
-                  "text": "A peak in the Nazareth mountains, offering expansive views over the hills of Galilee.",
-                  "category": "natural",
-                  "coords": [
-                        35.320755,
-                        32.701637
-                  ]
-            },
-            {
                   "name": "Yona",
                   "text": "A hill near Gath-Hepher, traditionally associated with the biblical prophet Jonah.",
                   "category": "natural",
@@ -14249,15 +13790,6 @@ export const poiExtraIsraelLandmarksV2: POI[] = [
                   "coords": [
                         35.334055,
                         32.69561
-                  ]
-            },
-            {
-                  "name": "Mearat Kesullot",
-                  "text": "A cave entrance in the limestone cliffs of Mount Kesulot, overlooking the valley.",
-                  "category": "natural",
-                  "coords": [
-                        35.325416,
-                        32.692714
                   ]
             },
             {

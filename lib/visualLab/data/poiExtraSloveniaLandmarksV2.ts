@@ -819,15 +819,6 @@ imageHint: "Old Vine House in Maribor with green vine on facade",
     id: "slovenia-kostanjevica-monastery-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Krakovski pragozd",
-                  "text": "Einer der seltenen Urwälder Sloweniens mit einem geschützten Ökosystem.",
-                  "category": "natural",
-                  "coords": [
-                        15.406938,
-                        45.876533
-                  ]
-            },
-            {
                   "name": "Galerija Božidar Jakac (Former Monastary Fons Beatae Mariae)",
                   "text": "Ein bedeutendes Kunstmuseum, das in den Räumlichkeiten eines ehemaligen Klosters untergebracht ist.",
                   "category": "museum",
@@ -835,27 +826,9 @@ imageHint: "Old Vine House in Maribor with green vine on facade",
                         15.416405,
                         45.835181
                   ]
-            },
-            {
-                  "name": "Kostanjeviška jama",
-                  "text": "Eine faszinierende Tropfsteinhöhle in der Nähe von Kostanjevica na Krki.",
-                  "category": "landmark",
-                  "coords": [
-                        15.434388,
-                        45.838203
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Krakovski pragozd",
-                  "text": "Szlovénia ritka őserdeinek egyike, védett ökoszisztémával.",
-                  "category": "natural",
-                  "coords": [
-                        15.406938,
-                        45.876533
-                  ]
-            },
             {
                   "name": "Galerija Božidar Jakac (Former Monastary Fons Beatae Mariae)",
                   "text": "Jelentős művészeti galéria, amely egy egykori kolostor épületében kapott helyet.",
@@ -864,27 +837,9 @@ imageHint: "Old Vine House in Maribor with green vine on facade",
                         15.416405,
                         45.835181
                   ]
-            },
-            {
-                  "name": "Kostanjeviška jama",
-                  "text": "Lenyűgöző cseppkőbarlang Kostanjevica na Krki közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        15.434388,
-                        45.838203
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Krakovski pragozd",
-                  "text": "Una dintre rarele păduri virgine din Slovenia, cu un ecosistem protejat.",
-                  "category": "natural",
-                  "coords": [
-                        15.406938,
-                        45.876533
-                  ]
-            },
             {
                   "name": "Galerija Božidar Jakac (Former Monastary Fons Beatae Mariae)",
                   "text": "O galerie de artă importantă situată în incinta unei foste mănăstiri.",
@@ -893,27 +848,9 @@ imageHint: "Old Vine House in Maribor with green vine on facade",
                         15.416405,
                         45.835181
                   ]
-            },
-            {
-                  "name": "Kostanjeviška jama",
-                  "text": "O peșteră cu stalactite fascinantă situată lângă Kostanjevica na Krki.",
-                  "category": "landmark",
-                  "coords": [
-                        15.434388,
-                        45.838203
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Krakovski pragozd",
-                  "text": "One of the rare virgin forests in Slovenia with a protected ecosystem.",
-                  "category": "natural",
-                  "coords": [
-                        15.406938,
-                        45.876533
-                  ]
-            },
             {
                   "name": "Galerija Božidar Jakac (Former Monastary Fons Beatae Mariae)",
                   "text": "A significant art gallery housed in the premises of a former monastery.",
@@ -921,15 +858,6 @@ imageHint: "Old Vine House in Maribor with green vine on facade",
                   "coords": [
                         15.416405,
                         45.835181
-                  ]
-            },
-            {
-                  "name": "Kostanjeviška jama",
-                  "text": "A fascinating stalactite cave located near Kostanjevica na Krki.",
-                  "category": "landmark",
-                  "coords": [
-                        15.434388,
-                        45.838203
                   ]
             }
       ]

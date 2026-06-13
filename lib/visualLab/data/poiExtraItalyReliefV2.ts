@@ -609,39 +609,12 @@ export const italyReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cresta Gastaldi",
-                  "text": "Ein schroffer Felsgrat im Herzen des Gran-Paradiso-Massivs.",
-                  "category": "landmark",
-                  "coords": [
-                        7.27534,
-                        45.514113
-                  ]
-            },
-            {
                   "name": "Becca di Montandayné",
                   "text": "Ein Hochgebirgsgipfel im Aostatal innerhalb des Gran-Paradiso-Massivs.",
                   "category": "landmark",
                   "coords": [
                         7.269954,
                         45.532427
-                  ]
-            },
-            {
-                  "name": "Tresenta",
-                  "text": "Ein beliebter Gipfel für Bergsteiger in der Gran-Paradiso-Gruppe.",
-                  "category": "landmark",
-                  "coords": [
-                        7.264217,
-                        45.499216
-                  ]
-            },
-            {
-                  "name": "Punta di Ceresole",
-                  "text": "Ein Berggipfel an der Grenze zwischen dem Piemont und dem Aostatal.",
-                  "category": "landmark",
-                  "coords": [
-                        7.285211,
-                        45.513111
                   ]
             },
             {
@@ -683,39 +656,12 @@ export const italyReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cresta Gastaldi",
-                  "text": "Sziporkázó sziklagerinc a Gran Paradiso-masszívum szívében.",
-                  "category": "landmark",
-                  "coords": [
-                        7.27534,
-                        45.514113
-                  ]
-            },
-            {
                   "name": "Becca di Montandayné",
                   "text": "Magashegyi csúcs az Aosta-völgyben, a Gran Paradiso-masszívumban.",
                   "category": "landmark",
                   "coords": [
                         7.269954,
                         45.532427
-                  ]
-            },
-            {
-                  "name": "Tresenta",
-                  "text": "A hegymászók körében népszerű csúcs a Gran Paradiso-csoportban.",
-                  "category": "landmark",
-                  "coords": [
-                        7.264217,
-                        45.499216
-                  ]
-            },
-            {
-                  "name": "Punta di Ceresole",
-                  "text": "Hegycsúcs Piemont és az Aosta-völgy határán.",
-                  "category": "landmark",
-                  "coords": [
-                        7.285211,
-                        45.513111
                   ]
             },
             {
@@ -757,39 +703,12 @@ export const italyReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cresta Gastaldi",
-                  "text": "O creastă stâncoasă zimțată în inima masivului Gran Paradiso.",
-                  "category": "landmark",
-                  "coords": [
-                        7.27534,
-                        45.514113
-                  ]
-            },
-            {
                   "name": "Becca di Montandayné",
                   "text": "Un vârf montan înalt în Valea Aosta, în cadrul masivului Gran Paradiso.",
                   "category": "landmark",
                   "coords": [
                         7.269954,
                         45.532427
-                  ]
-            },
-            {
-                  "name": "Tresenta",
-                  "text": "Un vârf popular pentru alpiniști în grupul Gran Paradiso.",
-                  "category": "landmark",
-                  "coords": [
-                        7.264217,
-                        45.499216
-                  ]
-            },
-            {
-                  "name": "Punta di Ceresole",
-                  "text": "Un vârf montan la granița dintre Piemont și Valea Aosta.",
-                  "category": "landmark",
-                  "coords": [
-                        7.285211,
-                        45.513111
                   ]
             },
             {
@@ -831,39 +750,12 @@ export const italyReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cresta Gastaldi",
-                  "text": "A rugged rocky ridge in the heart of the Gran Paradiso massif.",
-                  "category": "landmark",
-                  "coords": [
-                        7.27534,
-                        45.514113
-                  ]
-            },
-            {
                   "name": "Becca di Montandayné",
                   "text": "A high mountain peak in the Aosta Valley within the Gran Paradiso massif.",
                   "category": "landmark",
                   "coords": [
                         7.269954,
                         45.532427
-                  ]
-            },
-            {
-                  "name": "Tresenta",
-                  "text": "A popular peak for mountaineers in the Gran Paradiso group.",
-                  "category": "landmark",
-                  "coords": [
-                        7.264217,
-                        45.499216
-                  ]
-            },
-            {
-                  "name": "Punta di Ceresole",
-                  "text": "A mountain peak on the border between Piedmont and the Aosta Valley.",
-                  "category": "landmark",
-                  "coords": [
-                        7.285211,
-                        45.513111
                   ]
             },
             {
@@ -3093,57 +2985,12 @@ export const italyReliefV2: POI[] = [
     id: "italy-monte-vettore-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Monte Argentella",
-                  "text": "Ein Gipfel in den Sibillinischen Bergen im zentralen Apennin in Italien.",
-                  "category": "landmark",
-                  "coords": [
-                        13.243643,
-                        42.858775
-                  ]
-            },
-            {
-                  "name": "Cima del Redentore",
-                  "text": "Der zweithöchste Gipfel im Sibillini-Gebirge mit Panoramablick.",
-                  "category": "landmark",
-                  "coords": [
-                        13.255051,
-                        42.825433
-                  ]
-            },
-            {
                   "name": "Pizzo del Diavolo",
                   "text": "Ein scharfer Berggipfel im Sibillini-Gebirge in der Nähe des Monte Vettore.",
                   "category": "landmark",
                   "coords": [
                         13.259347,
                         42.826365
-                  ]
-            },
-            {
-                  "name": "Cima del Lago",
-                  "text": "Ein Berggipfel im Sibillini-Gebirge mit Blick auf den Pilato-See.",
-                  "category": "landmark",
-                  "coords": [
-                        13.258793,
-                        42.818335
-                  ]
-            },
-            {
-                  "name": "Cima dell'Osservatorio",
-                  "text": "Ein Berggipfel im Monte-Vettore-Massiv im Apennin.",
-                  "category": "landmark",
-                  "coords": [
-                        13.253218,
-                        42.831561
-                  ]
-            },
-            {
-                  "name": "Quarto San Lorenzo",
-                  "text": "Ein Berggipfel im zentralen Apennin in der Nähe des Gebiets Monte Vettore.",
-                  "category": "landmark",
-                  "coords": [
-                        13.249861,
-                        42.837693
                   ]
             },
             {
@@ -3158,57 +3005,12 @@ export const italyReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Monte Argentella",
-                  "text": "Hegycsúcs a Szibillini-hegységben, az olaszországi Központi-Appenninekben.",
-                  "category": "landmark",
-                  "coords": [
-                        13.243643,
-                        42.858775
-                  ]
-            },
-            {
-                  "name": "Cima del Redentore",
-                  "text": "A Szibillini-hegység második legmagasabb csúcsa, panorámás kilátással.",
-                  "category": "landmark",
-                  "coords": [
-                        13.255051,
-                        42.825433
-                  ]
-            },
-            {
                   "name": "Pizzo del Diavolo",
                   "text": "Egy éles hegycsúcs a Szibillini-hegységben, a Monte Vettore közelében.",
                   "category": "landmark",
                   "coords": [
                         13.259347,
                         42.826365
-                  ]
-            },
-            {
-                  "name": "Cima del Lago",
-                  "text": "Hegycsúcs a Szibillini-hegységben, kilátással a Pilato-tóra.",
-                  "category": "landmark",
-                  "coords": [
-                        13.258793,
-                        42.818335
-                  ]
-            },
-            {
-                  "name": "Cima dell'Osservatorio",
-                  "text": "Hegycsúcs a Monte Vettore-masszívumban az Appenninekben.",
-                  "category": "landmark",
-                  "coords": [
-                        13.253218,
-                        42.831561
-                  ]
-            },
-            {
-                  "name": "Quarto San Lorenzo",
-                  "text": "Hegycsúcs a Központi-Appenninekben, a Monte Vettore környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        13.249861,
-                        42.837693
                   ]
             },
             {
@@ -3223,57 +3025,12 @@ export const italyReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Monte Argentella",
-                  "text": "Un vârf în Munții Sibillini din Apeninii centrali în Italia.",
-                  "category": "landmark",
-                  "coords": [
-                        13.243643,
-                        42.858775
-                  ]
-            },
-            {
-                  "name": "Cima del Redentore",
-                  "text": "Al doilea cel mai înalt vârf din Munții Sibillini, oferind vederi panoramice.",
-                  "category": "landmark",
-                  "coords": [
-                        13.255051,
-                        42.825433
-                  ]
-            },
-            {
                   "name": "Pizzo del Diavolo",
                   "text": "Un vârf montan ascuțit în Munții Sibillini, lângă Monte Vettore.",
                   "category": "landmark",
                   "coords": [
                         13.259347,
                         42.826365
-                  ]
-            },
-            {
-                  "name": "Cima del Lago",
-                  "text": "Un vârf muntos în Munții Sibillini, cu vedere spre Lacul Pilato.",
-                  "category": "landmark",
-                  "coords": [
-                        13.258793,
-                        42.818335
-                  ]
-            },
-            {
-                  "name": "Cima dell'Osservatorio",
-                  "text": "Un vârf muntos situat în masivul Monte Vettore din Apenini.",
-                  "category": "landmark",
-                  "coords": [
-                        13.253218,
-                        42.831561
-                  ]
-            },
-            {
-                  "name": "Quarto San Lorenzo",
-                  "text": "Un vârf muntos în Apeninii centrali, lângă zona Monte Vettore.",
-                  "category": "landmark",
-                  "coords": [
-                        13.249861,
-                        42.837693
                   ]
             },
             {
@@ -3288,57 +3045,12 @@ export const italyReliefV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Monte Argentella",
-                  "text": "A peak in the Sibillini Mountains of the central Apennines in Italy.",
-                  "category": "landmark",
-                  "coords": [
-                        13.243643,
-                        42.858775
-                  ]
-            },
-            {
-                  "name": "Cima del Redentore",
-                  "text": "The second highest peak in the Sibillini Mountains, offering panoramic views.",
-                  "category": "landmark",
-                  "coords": [
-                        13.255051,
-                        42.825433
-                  ]
-            },
-            {
                   "name": "Pizzo del Diavolo",
                   "text": "A sharp mountain peak in the Sibillini range near Monte Vettore.",
                   "category": "landmark",
                   "coords": [
                         13.259347,
                         42.826365
-                  ]
-            },
-            {
-                  "name": "Cima del Lago",
-                  "text": "A mountain peak in the Sibillini Mountains overlooking Lake Pilato.",
-                  "category": "landmark",
-                  "coords": [
-                        13.258793,
-                        42.818335
-                  ]
-            },
-            {
-                  "name": "Cima dell'Osservatorio",
-                  "text": "A mountain peak located within the Monte Vettore massif in the Apennines.",
-                  "category": "landmark",
-                  "coords": [
-                        13.253218,
-                        42.831561
-                  ]
-            },
-            {
-                  "name": "Quarto San Lorenzo",
-                  "text": "A mountain peak in the central Apennines near the Monte Vettore area.",
-                  "category": "landmark",
-                  "coords": [
-                        13.249861,
-                        42.837693
                   ]
             },
             {
@@ -3561,15 +3273,6 @@ export const italyReliefV2: POI[] = [
     id: "italy-altopiano-della-sila-relief-v2", "sights": {
       "de": [
             {
-                  "name": "I Giganti della Sila",
-                  "text": "Naturschutzgebiet auf dem Sila-Plateau mit riesigen, jahrhundertealten Schwarzkiefern.",
-                  "category": "natural",
-                  "coords": [
-                        16.467468,
-                        39.324645
-                  ]
-            },
-            {
                   "name": "Pietra dell'Altare",
                   "text": "Eine markante Felsformation auf dem Sila-Plateau in Kalabrien.",
                   "category": "landmark",
@@ -3589,15 +3292,6 @@ export const italyReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "I Giganti della Sila",
-                  "text": "Természetvédelmi terület a Sila-fennsíkon, óriási, évszázados feketefenyőkkel.",
-                  "category": "natural",
-                  "coords": [
-                        16.467468,
-                        39.324645
-                  ]
-            },
             {
                   "name": "Pietra dell'Altare",
                   "text": "Jellegzetes sziklaformáció a calabriai Sila-fennsíkon.",
@@ -3619,15 +3313,6 @@ export const italyReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "I Giganti della Sila",
-                  "text": "Rezervație naturală pe Podișul Sila, adăpostind pini negri uriași și seculari.",
-                  "category": "natural",
-                  "coords": [
-                        16.467468,
-                        39.324645
-                  ]
-            },
-            {
                   "name": "Pietra dell'Altare",
                   "text": "O formațiune stâncoasă proeminentă pe Podișul Sila din Calabria.",
                   "category": "landmark",
@@ -3647,15 +3332,6 @@ export const italyReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "I Giganti della Sila",
-                  "text": "Nature reserve on the Sila Plateau home to giant, centuries-old black pines.",
-                  "category": "natural",
-                  "coords": [
-                        16.467468,
-                        39.324645
-                  ]
-            },
             {
                   "name": "Pietra dell'Altare",
                   "text": "A prominent rock formation on the Sila Plateau in Calabria.",
@@ -3993,15 +3669,6 @@ export const italyReliefV2: POI[] = [
     id: "italy-monte-marsicano-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Museo dell'uomo e della foresta",
-                  "text": "Ein Museum, das sich der Beziehung zwischen den Menschen und dem lokalen Waldökosystem widmet.",
-                  "category": "museum",
-                  "coords": [
-                        13.856351,
-                        41.777426
-                  ]
-            },
-            {
                   "name": "Parco Nazionale d'Abruzzo, Lazio e Molise",
                   "text": "Ein weitläufiges Schutzgebiet, das für seine unberührte Natur und den Schutz seltener Tierarten bekannt ist.",
                   "category": "natural",
@@ -4048,15 +3715,6 @@ export const italyReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Museo dell'uomo e della foresta",
-                  "text": "A múzeum az emberek és a helyi erdei ökoszisztéma közötti kapcsolatnak szenteli kiállításait.",
-                  "category": "museum",
-                  "coords": [
-                        13.856351,
-                        41.777426
-                  ]
-            },
             {
                   "name": "Parco Nazionale d'Abruzzo, Lazio e Molise",
                   "text": "Hatalmas védett terület, amely érintetlen természetéről és ritka állatfajok védelméről ismert.",
@@ -4105,15 +3763,6 @@ export const italyReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Museo dell'uomo e della foresta",
-                  "text": "Un muzeu dedicat relației dintre oameni și ecosistemul forestier local.",
-                  "category": "museum",
-                  "coords": [
-                        13.856351,
-                        41.777426
-                  ]
-            },
-            {
                   "name": "Parco Nazionale d'Abruzzo, Lazio e Molise",
                   "text": "O zonă protejată vastă, cunoscută pentru natura sa curată și protejarea speciilor rare.",
                   "category": "natural",
@@ -4160,15 +3809,6 @@ export const italyReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Museo dell'uomo e della foresta",
-                  "text": "A museum dedicated to the relationship between humans and the local forest ecosystem.",
-                  "category": "museum",
-                  "coords": [
-                        13.856351,
-                        41.777426
-                  ]
-            },
             {
                   "name": "Parco Nazionale d'Abruzzo, Lazio e Molise",
                   "text": "A vast protected area known for its pristine nature and the protection of rare animal species.",
@@ -5838,30 +5478,12 @@ export const italyReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte La Piella",
-                  "text": "Ein hoher Berggipfel mit Panoramablick auf die Apenninen.",
-                  "category": "landmark",
-                  "coords": [
-                        10.405576,
-                        44.278437
-                  ]
-            },
-            {
                   "name": "Monte Ravino",
                   "text": "Berg in der Nähe des Monte Cusna im Apennin.",
                   "category": "landmark",
                   "coords": [
                         10.445139,
                         44.25601
-                  ]
-            },
-            {
-                  "name": "Monte Prado",
-                  "text": "Der höchste Berg der Toskana, gelegen im Apennin-Gebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        10.407503,
-                        44.249325
                   ]
             },
             {
@@ -5903,30 +5525,12 @@ export const italyReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte La Piella",
-                  "text": "Egy magas hegycsúcs, ahonnan panorámás kilátás nyílik az Appenninekre.",
-                  "category": "landmark",
-                  "coords": [
-                        10.405576,
-                        44.278437
-                  ]
-            },
-            {
                   "name": "Monte Ravino",
                   "text": "Hegy a Monte Cusna közelében az Appenninekben.",
                   "category": "landmark",
                   "coords": [
                         10.445139,
                         44.25601
-                  ]
-            },
-            {
-                  "name": "Monte Prado",
-                  "text": "Toszkána legmagasabb hegye az Appenninekben.",
-                  "category": "landmark",
-                  "coords": [
-                        10.407503,
-                        44.249325
                   ]
             },
             {
@@ -5968,30 +5572,12 @@ export const italyReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte La Piella",
-                  "text": "Un vârf muntos înalt care oferă o vedere panoramică asupra Apeninilor.",
-                  "category": "landmark",
-                  "coords": [
-                        10.405576,
-                        44.278437
-                  ]
-            },
-            {
                   "name": "Monte Ravino",
                   "text": "Munte lângă Monte Cusna în Apenini.",
                   "category": "landmark",
                   "coords": [
                         10.445139,
                         44.25601
-                  ]
-            },
-            {
-                  "name": "Monte Prado",
-                  "text": "Cel mai înalt munte din Toscana, situat în munții Apenini.",
-                  "category": "landmark",
-                  "coords": [
-                        10.407503,
-                        44.249325
                   ]
             },
             {
@@ -6033,30 +5619,12 @@ export const italyReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte La Piella",
-                  "text": "A high mountain peak offering panoramic views of the Apennines.",
-                  "category": "landmark",
-                  "coords": [
-                        10.405576,
-                        44.278437
-                  ]
-            },
-            {
                   "name": "Monte Ravino",
                   "text": "Mountain near Monte Cusna in the Apennines.",
                   "category": "landmark",
                   "coords": [
                         10.445139,
                         44.25601
-                  ]
-            },
-            {
-                  "name": "Monte Prado",
-                  "text": "The highest mountain in Tuscany, located in the Apennine range.",
-                  "category": "landmark",
-                  "coords": [
-                        10.407503,
-                        44.249325
                   ]
             },
             {

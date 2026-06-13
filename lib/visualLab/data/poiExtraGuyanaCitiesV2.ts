@@ -2688,86 +2688,10 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
     },
   }, {
     id: "lusignan-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Linden drive",
-                  "text": "Eine von Linden gesäumte Allee in Lusignan, Guyana.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.005943,
-                        6.776297
-                  ]
-            },
-            {
-                  "name": "Golden Heart Day and Night Care Centre",
-                  "text": "Ein 24-Stunden-Pflegezentrum für Senioren und Behinderte in Lusignan.",
-                  "category": "cultural",
-                  "coords": [
-                        -57.999148,
-                        6.763985
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Linden drive",
-                  "text": "Egy hársfákkal szegélyezett út Lusignanban, Guyanában.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.005943,
-                        6.776297
-                  ]
-            },
-            {
-                  "name": "Golden Heart Day and Night Care Centre",
-                  "text": "Egy 24 órás gondozási központ idősek és fogyatékossággal élők számára Lusignanban.",
-                  "category": "cultural",
-                  "coords": [
-                        -57.999148,
-                        6.763985
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Linden drive",
-                  "text": "O alee mărginită de tei în Lusignan, Guyana.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.005943,
-                        6.776297
-                  ]
-            },
-            {
-                  "name": "Golden Heart Day and Night Care Centre",
-                  "text": "Un centru de îngrijire 24 de ore pentru vârstnici și persoane cu handicap în Lusignan.",
-                  "category": "cultural",
-                  "coords": [
-                        -57.999148,
-                        6.763985
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Linden drive",
-                  "text": "A tree-lined drive named after the linden tree in Lusignan, Guyana.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.005943,
-                        6.776297
-                  ]
-            },
-            {
-                  "name": "Golden Heart Day and Night Care Centre",
-                  "text": "A 24-hour care centre for the elderly and disabled in Lusignan.",
-                  "category": "cultural",
-                  "coords": [
-                        -57.999148,
-                        6.763985
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "GY-DE",
@@ -2816,50 +2740,10 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
     },
   }, {
     id: "buxton-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Linden drive",
-                  "text": "Eine von Linden gesäumte Allee in Buxton, Guyana.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.005943,
-                        6.776297
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Linden drive",
-                  "text": "Egy hársfákkal szegélyezett út Buxtonban, Guyanában.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.005943,
-                        6.776297
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Linden drive",
-                  "text": "O alee mărginită de tei în Buxton, Guyana.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.005943,
-                        6.776297
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Linden drive",
-                  "text": "A tree-lined drive named after the linden tree in Buxton, Guyana.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.005943,
-                        6.776297
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "GY-DE",
@@ -3013,15 +2897,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
                   ]
             },
             {
-                  "name": "Start",
-                  "text": "Eine natürliche Markierung, die den Beginn eines Baches oder Weges in Haslington anzeigt.",
-                  "category": "natural",
-                  "coords": [
-                        -57.968687,
-                        6.751762
-                  ]
-            },
-            {
                   "name": "End",
                   "text": "Eine natürliche Markierung, die das Ende eines Baches oder Weges in Haslington anzeigt.",
                   "category": "natural",
@@ -3038,24 +2913,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
                         -57.959835,
                         6.742337
                   ]
-            },
-            {
-                  "name": "End 2",
-                  "text": "Eine zweite natürliche Endmarkierung in Haslington.",
-                  "category": "natural",
-                  "coords": [
-                        -57.969611,
-                        6.752492
-                  ]
-            },
-            {
-                  "name": "Eric",
-                  "text": "Eine nach Eric benannte natürliche Quelle oder Wasserstelle in Haslington.",
-                  "category": "natural",
-                  "coords": [
-                        -57.943767,
-                        6.725544
-                  ]
             }
       ],
       "hu": [
@@ -3066,15 +2923,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
                   "coords": [
                         -57.961752,
                         6.750276
-                  ]
-            },
-            {
-                  "name": "Start",
-                  "text": "Egy természetes jelölés, amely egy patak vagy ösvény kezdetét jelzi Haslingtonban.",
-                  "category": "natural",
-                  "coords": [
-                        -57.968687,
-                        6.751762
                   ]
             },
             {
@@ -3094,24 +2942,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
                         -57.959835,
                         6.742337
                   ]
-            },
-            {
-                  "name": "End 2",
-                  "text": "Egy második természetes végjelölés Haslingtonban.",
-                  "category": "natural",
-                  "coords": [
-                        -57.969611,
-                        6.752492
-                  ]
-            },
-            {
-                  "name": "Eric",
-                  "text": "Egy Eric nevű természetes forrás vagy vízi jelenség Haslingtonban.",
-                  "category": "natural",
-                  "coords": [
-                        -57.943767,
-                        6.725544
-                  ]
             }
       ],
       "ro": [
@@ -3122,15 +2952,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
                   "coords": [
                         -57.961752,
                         6.750276
-                  ]
-            },
-            {
-                  "name": "Start",
-                  "text": "Un reper natural care indică începutul unui pârâu sau traseu în Haslington.",
-                  "category": "natural",
-                  "coords": [
-                        -57.968687,
-                        6.751762
                   ]
             },
             {
@@ -3150,24 +2971,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
                         -57.959835,
                         6.742337
                   ]
-            },
-            {
-                  "name": "End 2",
-                  "text": "Un al doilea reper natural de final în Haslington.",
-                  "category": "natural",
-                  "coords": [
-                        -57.969611,
-                        6.752492
-                  ]
-            },
-            {
-                  "name": "Eric",
-                  "text": "Un izvor sau element natural de apă numit Eric în Haslington.",
-                  "category": "natural",
-                  "coords": [
-                        -57.943767,
-                        6.725544
-                  ]
             }
       ],
       "en": [
@@ -3178,15 +2981,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
                   "coords": [
                         -57.961752,
                         6.750276
-                  ]
-            },
-            {
-                  "name": "Start",
-                  "text": "A natural marker indicating the start of a creek or trail in Haslington.",
-                  "category": "natural",
-                  "coords": [
-                        -57.968687,
-                        6.751762
                   ]
             },
             {
@@ -3205,24 +2999,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
                   "coords": [
                         -57.959835,
                         6.742337
-                  ]
-            },
-            {
-                  "name": "End 2",
-                  "text": "A second natural endpoint marker in Haslington.",
-                  "category": "natural",
-                  "coords": [
-                        -57.969611,
-                        6.752492
-                  ]
-            },
-            {
-                  "name": "Eric",
-                  "text": "A named natural spring or water feature called Eric in Haslington.",
-                  "category": "natural",
-                  "coords": [
-                        -57.943767,
-                        6.725544
                   ]
             }
       ]
@@ -3872,15 +3648,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
     id: "triumph-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Navo",
-                  "text": "Eine historische Plantage oder Siedlungsstätte in Navo bei Triumph, Guyana.",
-                  "category": "historical",
-                  "coords": [
-                        -58.017528,
-                        6.786932
-                  ]
-            },
-            {
                   "name": "Linden drive",
                   "text": "Eine von Linden gesäumte Allee in Triumph, Guyana.",
                   "category": "landmark",
@@ -3900,15 +3667,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             }
       ],
       "hu": [
-            {
-                  "name": "Navo",
-                  "text": "Egy történelmi ültetvény vagy településhely Navóban, Triumph közelében, Guyanában.",
-                  "category": "historical",
-                  "coords": [
-                        -58.017528,
-                        6.786932
-                  ]
-            },
             {
                   "name": "Linden drive",
                   "text": "Egy hársfákkal szegélyezett út Triumphban, Guyanában.",
@@ -3930,15 +3688,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
       ],
       "ro": [
             {
-                  "name": "Navo",
-                  "text": "Un sit istoric de plantație sau așezare la Navo în Triumph, Guyana.",
-                  "category": "historical",
-                  "coords": [
-                        -58.017528,
-                        6.786932
-                  ]
-            },
-            {
                   "name": "Linden drive",
                   "text": "O alee mărginită de tei în Triumph, Guyana.",
                   "category": "landmark",
@@ -3958,15 +3707,6 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
             }
       ],
       "en": [
-            {
-                  "name": "Navo",
-                  "text": "A historical plantation or settlement site at Navo in Triumph, Guyana.",
-                  "category": "historical",
-                  "coords": [
-                        -58.017528,
-                        6.786932
-                  ]
-            },
             {
                   "name": "Linden drive",
                   "text": "A tree-lined drive named after the linden tree in Triumph, Guyana.",
@@ -4382,122 +4122,10 @@ export const poiExtraGuyanaCitiesV2: POI[] = [ {
     },
   }, {
     id: "rosignol-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Fort St. Andries",
-                  "text": "Ein historisches niederländisches Fort am Berbice-Fluss, erbaut im 18. Jahrhundert.",
-                  "category": "historical",
-                  "coords": [
-                        -57.512386,
-                        6.25873
-                  ]
-            },
-            {
-                  "name": "The Six Cannons Military monument",
-                  "text": "Ein Militärdenkmal mit sechs Kanonen in Rosignol, Guyana.",
-                  "category": "historical",
-                  "coords": [
-                        -57.519143,
-                        6.252259
-                  ]
-            },
-            {
-                  "name": "Berbice Bridge",
-                  "text": "Eine schwimmende Pontonbrücke über den Berbice-Fluss zwischen Rosignol und New Amsterdam.",
-                  "category": "landmark",
-                  "coords": [
-                        -57.528003,
-                        6.281063
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Fort St. Andries",
-                  "text": "Egy történelmi holland erőd a Berbice folyón, a 18. században épült.",
-                  "category": "historical",
-                  "coords": [
-                        -57.512386,
-                        6.25873
-                  ]
-            },
-            {
-                  "name": "The Six Cannons Military monument",
-                  "text": "Egy hat ágyút tartalmazó katonai emlékmű Rosignolban, Guyanában.",
-                  "category": "historical",
-                  "coords": [
-                        -57.519143,
-                        6.252259
-                  ]
-            },
-            {
-                  "name": "Berbice Bridge",
-                  "text": "Egy úszó pontonhíd a Berbice folyón Rosignol és New Amsterdam között.",
-                  "category": "landmark",
-                  "coords": [
-                        -57.528003,
-                        6.281063
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Fort St. Andries",
-                  "text": "Un fort olandez istoric pe râul Berbice, construit în secolul al XVIII-lea.",
-                  "category": "historical",
-                  "coords": [
-                        -57.512386,
-                        6.25873
-                  ]
-            },
-            {
-                  "name": "The Six Cannons Military monument",
-                  "text": "Un monument militar cu șase tunuri în Rosignol, Guyana.",
-                  "category": "historical",
-                  "coords": [
-                        -57.519143,
-                        6.252259
-                  ]
-            },
-            {
-                  "name": "Berbice Bridge",
-                  "text": "Un pod plutitor de pontoane peste râul Berbice între Rosignol și New Amsterdam.",
-                  "category": "landmark",
-                  "coords": [
-                        -57.528003,
-                        6.281063
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Fort St. Andries",
-                  "text": "A historic Dutch fort on the Berbice River built in the 18th century.",
-                  "category": "historical",
-                  "coords": [
-                        -57.512386,
-                        6.25873
-                  ]
-            },
-            {
-                  "name": "The Six Cannons Military monument",
-                  "text": "A military monument featuring six cannons in Rosignol, Guyana.",
-                  "category": "historical",
-                  "coords": [
-                        -57.519143,
-                        6.252259
-                  ]
-            },
-            {
-                  "name": "Berbice Bridge",
-                  "text": "A floating pontoon bridge crossing the Berbice River between Rosignol and New Amsterdam.",
-                  "category": "landmark",
-                  "coords": [
-                        -57.528003,
-                        6.281063
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "GY-MA",

@@ -346,30 +346,12 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cunil",
-                  "text": "Ein lokaler Point of Interest und eine Attraktion in Orange Walk Town.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.569503,
-                        18.061795
-                  ]
-            },
-            {
                   "name": "Marcus Canul Monument",
                   "text": "Ein Denkmal in Orange Walk Town zu Ehren des Maya-Anführers Marcus Canul.",
                   "category": "historical",
                   "coords": [
                         -88.5618,
                         18.07927
-                  ]
-            },
-            {
-                  "name": "Shuga City",
-                  "text": "Ein Wahrzeichen-Denkmal, das das Erbe der Zuckerindustrie von Orange Walk Town darstellt.",
-                  "category": "historical",
-                  "coords": [
-                        -88.565557,
-                        18.055205
                   ]
             },
             {
@@ -420,30 +402,12 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cunil",
-                  "text": "Helyi érdekesség és látnivaló Orange Walk Townban.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.569503,
-                        18.061795
-                  ]
-            },
-            {
                   "name": "Marcus Canul Monument",
                   "text": "Marcus Canul maja vezető tiszteletére emelt emlékmű Orange Walk Townban.",
                   "category": "historical",
                   "coords": [
                         -88.5618,
                         18.07927
-                  ]
-            },
-            {
-                  "name": "Shuga City",
-                  "text": "Orange Walk Town cukoripari örökségét jelképező emlékmű.",
-                  "category": "historical",
-                  "coords": [
-                        -88.565557,
-                        18.055205
                   ]
             },
             {
@@ -494,30 +458,12 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cunil",
-                  "text": "Un punct de interes local și o atracție în Orange Walk Town.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.569503,
-                        18.061795
-                  ]
-            },
-            {
                   "name": "Marcus Canul Monument",
                   "text": "Un monument din Orange Walk Town care îl onorează pe liderul mayaș Marcus Canul.",
                   "category": "historical",
                   "coords": [
                         -88.5618,
                         18.07927
-                  ]
-            },
-            {
-                  "name": "Shuga City",
-                  "text": "Un monument emblematic care reprezintă moștenirea industriei zahărului din Orange Walk Town.",
-                  "category": "historical",
-                  "coords": [
-                        -88.565557,
-                        18.055205
                   ]
             },
             {
@@ -568,30 +514,12 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cunil",
-                  "text": "A local point of interest and attraction in Orange Walk Town.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.569503,
-                        18.061795
-                  ]
-            },
-            {
                   "name": "Marcus Canul Monument",
                   "text": "A monument in Orange Walk Town honoring the Maya leader Marcus Canul.",
                   "category": "historical",
                   "coords": [
                         -88.5618,
                         18.07927
-                  ]
-            },
-            {
-                  "name": "Shuga City",
-                  "text": "A landmark monument representing the sugar industry heritage of Orange Walk Town.",
-                  "category": "historical",
-                  "coords": [
-                        -88.565557,
-                        18.055205
                   ]
             },
             {
@@ -837,39 +765,12 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Benque Archaeological Park",
-                  "text": "Ein archäologischer Park mit Maya-Ruinen in Benque Viejo del Carmen.",
-                  "category": "historical",
-                  "coords": [
-                        -89.14238,
-                        17.070891
-                  ]
-            },
-            {
                   "name": "Mayan Ruins unexcavated",
                   "text": "Nicht ausgegrabene Überreste alter Maya-Strukturen in Benque Viejo del Carmen.",
                   "category": "historical",
                   "coords": [
                         -89.130236,
                         17.046325
-                  ]
-            },
-            {
-                  "name": "Centro de Salud",
-                  "text": "Gesundheitszentrum in Viejo Del Carmen.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.157589,
-                        17.067412
-                  ]
-            },
-            {
-                  "name": "More ruins",
-                  "text": "Weitere archäologische Ruinen in Benque Viejo del Carmen.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.142824,
-                        17.090174
                   ]
             },
             {
@@ -888,15 +789,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                   "coords": [
                         -89.138644,
                         17.073257
-                  ]
-            },
-            {
-                  "name": "Monumento al Chiclero",
-                  "text": "Ein Denkmal zu Ehren der Chicleros in Benque Viejo del Carmen.",
-                  "category": "historical",
-                  "coords": [
-                        -89.154183,
-                        17.066404
                   ]
             }
       ],
@@ -929,39 +821,12 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Benque Archaeological Park",
-                  "text": "Maja romokat bemutató régészeti park Benque Viejo del Carmenben.",
-                  "category": "historical",
-                  "coords": [
-                        -89.14238,
-                        17.070891
-                  ]
-            },
-            {
                   "name": "Mayan Ruins unexcavated",
                   "text": "Feltáratlan ősi maja romok Benque Viejo del Carmen területén.",
                   "category": "historical",
                   "coords": [
                         -89.130236,
                         17.046325
-                  ]
-            },
-            {
-                  "name": "Centro de Salud",
-                  "text": "Egészségügyi központ Viejo Del Carmenben.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.157589,
-                        17.067412
-                  ]
-            },
-            {
-                  "name": "More ruins",
-                  "text": "További régészeti romok Benque Viejo del Carmenben.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.142824,
-                        17.090174
                   ]
             },
             {
@@ -980,15 +845,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                   "coords": [
                         -89.138644,
                         17.073257
-                  ]
-            },
-            {
-                  "name": "Monumento al Chiclero",
-                  "text": "A chiclerók tiszteletére emelt emlékmű Benque Viejo del Carmenben.",
-                  "category": "historical",
-                  "coords": [
-                        -89.154183,
-                        17.066404
                   ]
             }
       ],
@@ -1021,39 +877,12 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Benque Archaeological Park",
-                  "text": "Un parc arheologic care prezintă ruine mayașe în Benque Viejo del Carmen.",
-                  "category": "historical",
-                  "coords": [
-                        -89.14238,
-                        17.070891
-                  ]
-            },
-            {
                   "name": "Mayan Ruins unexcavated",
                   "text": "Ruine mayașe neexcavate situate în Benque Viejo del Carmen.",
                   "category": "historical",
                   "coords": [
                         -89.130236,
                         17.046325
-                  ]
-            },
-            {
-                  "name": "Centro de Salud",
-                  "text": "Centru de sănătate în Viejo Del Carmen.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.157589,
-                        17.067412
-                  ]
-            },
-            {
-                  "name": "More ruins",
-                  "text": "Alte ruine arheologice în Benque Viejo del Carmen.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.142824,
-                        17.090174
                   ]
             },
             {
@@ -1072,15 +901,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                   "coords": [
                         -89.138644,
                         17.073257
-                  ]
-            },
-            {
-                  "name": "Monumento al Chiclero",
-                  "text": "Un monument dedicat culegătorilor de gumă (chicleros) din Benque Viejo del Carmen.",
-                  "category": "historical",
-                  "coords": [
-                        -89.154183,
-                        17.066404
                   ]
             }
       ],
@@ -1113,39 +933,12 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Benque Archaeological Park",
-                  "text": "An archaeological park featuring Mayan ruins in Benque Viejo del Carmen.",
-                  "category": "historical",
-                  "coords": [
-                        -89.14238,
-                        17.070891
-                  ]
-            },
-            {
                   "name": "Mayan Ruins unexcavated",
                   "text": "Unexcavated remains of ancient Mayan structures in Benque Viejo del Carmen.",
                   "category": "historical",
                   "coords": [
                         -89.130236,
                         17.046325
-                  ]
-            },
-            {
-                  "name": "Health Centre",
-                  "text": "Health centre in Viejo Del Carmen.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.157589,
-                        17.067412
-                  ]
-            },
-            {
-                  "name": "More ruins",
-                  "text": "Additional archaeological ruins in Benque Viejo del Carmen.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.142824,
-                        17.090174
                   ]
             },
             {
@@ -1164,15 +957,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                   "coords": [
                         -89.138644,
                         17.073257
-                  ]
-            },
-            {
-                  "name": "Monumento al Chiclero",
-                  "text": "A monument dedicated to the chicleros in Benque Viejo del Carmen.",
-                  "category": "historical",
-                  "coords": [
-                        -89.154183,
-                        17.066404
                   ]
             }
       ]
@@ -1440,57 +1224,12 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     id: "santa-elena-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Cahal Pech Archaeological Reserve",
-                  "text": "Eine Ruine einer Maya-Siedlung in Santa Elena, die für ihre Palastanlagen bekannt ist.",
-                  "category": "historical",
-                  "coords": [
-                        -89.073858,
-                        17.145446
-                  ]
-            },
-            {
                   "name": "Belize Natural History Archive",
                   "text": "Naturhistorisches Archiv von Belize in Elena.",
                   "category": "museum",
                   "coords": [
                         -89.060392,
                         17.170105
-                  ]
-            },
-            {
-                  "name": "Cahal Pech Visitor Center",
-                  "text": "Informationszentrum für Besucher der archäologischen Stätte Cahal Pech in Santa Elena.",
-                  "category": "museum",
-                  "coords": [
-                        -89.07473,
-                        17.147249
-                  ]
-            },
-            {
-                  "name": "Soul Project",
-                  "text": "Ein kulturelles Zentrum in Santa Elena, das lokale Kunst und Musik fördert.",
-                  "category": "cultural",
-                  "coords": [
-                        -89.069683,
-                        17.155961
-                  ]
-            },
-            {
-                  "name": "Green Iguana Conservation Project",
-                  "text": "Ein Schutzprojekt in Santa Elena, das sich dem Erhalt des Grünen Leguans widmet.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.068382,
-                        17.153615
-                  ]
-            },
-            {
-                  "name": "Ajaw Chocolate",
-                  "text": "Ein Ort in Santa Elena, der über die traditionelle Herstellung von Maya-Schokolade informiert.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.071334,
-                        17.154756
                   ]
             },
             {
@@ -1514,57 +1253,12 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Cahal Pech Archaeological Reserve",
-                  "text": "Egy maja település romjai Santa Elenában, amely palotaegyütteseiről ismert.",
-                  "category": "historical",
-                  "coords": [
-                        -89.073858,
-                        17.145446
-                  ]
-            },
-            {
                   "name": "Belize Natural History Archive",
                   "text": "Belize Természetrajzi Archívuma Elenában.",
                   "category": "museum",
                   "coords": [
                         -89.060392,
                         17.170105
-                  ]
-            },
-            {
-                  "name": "Cahal Pech Visitor Center",
-                  "text": "Látogatóközpont a Santa Elena-i Cahal Pech régészeti lelőhelyhez.",
-                  "category": "museum",
-                  "coords": [
-                        -89.07473,
-                        17.147249
-                  ]
-            },
-            {
-                  "name": "Soul Project",
-                  "text": "Kulturális központ Santa Elenában, amely a helyi művészetet és zenét támogatja.",
-                  "category": "cultural",
-                  "coords": [
-                        -89.069683,
-                        17.155961
-                  ]
-            },
-            {
-                  "name": "Green Iguana Conservation Project",
-                  "text": "Természetvédelmi projekt Santa Elenában, amely a zöld leguánok megőrzésével foglalkozik.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.068382,
-                        17.153615
-                  ]
-            },
-            {
-                  "name": "Ajaw Chocolate",
-                  "text": "Helyszín Santa Elenában, amely a hagyományos maja csokoládékészítést mutatja be.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.071334,
-                        17.154756
                   ]
             },
             {
@@ -1588,57 +1282,12 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Cahal Pech Archaeological Reserve",
-                  "text": "Ruinele unei așezări mayașe în Santa Elena, cunoscută pentru complexele sale palatiale.",
-                  "category": "historical",
-                  "coords": [
-                        -89.073858,
-                        17.145446
-                  ]
-            },
-            {
                   "name": "Belize Natural History Archive",
                   "text": "Arhiva de Istorie Naturală a Belize-ului în Elena.",
                   "category": "museum",
                   "coords": [
                         -89.060392,
                         17.170105
-                  ]
-            },
-            {
-                  "name": "Cahal Pech Visitor Center",
-                  "text": "Centru de vizitare pentru situl arheologic Cahal Pech din Santa Elena.",
-                  "category": "museum",
-                  "coords": [
-                        -89.07473,
-                        17.147249
-                  ]
-            },
-            {
-                  "name": "Soul Project",
-                  "text": "Un centru cultural în Santa Elena care promovează arta și muzica locală.",
-                  "category": "cultural",
-                  "coords": [
-                        -89.069683,
-                        17.155961
-                  ]
-            },
-            {
-                  "name": "Green Iguana Conservation Project",
-                  "text": "Un proiect de conservare în Santa Elena dedicat protejării iguanei verzi.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.068382,
-                        17.153615
-                  ]
-            },
-            {
-                  "name": "Ajaw Chocolate",
-                  "text": "Un loc în Santa Elena care oferă informații despre fabricarea tradițională a ciocolatei mayașe.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.071334,
-                        17.154756
                   ]
             },
             {
@@ -1662,57 +1311,12 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Cahal Pech Archaeological Reserve",
-                  "text": "Ruins of a Maya settlement in Santa Elena, known for its palace complexes.",
-                  "category": "historical",
-                  "coords": [
-                        -89.073858,
-                        17.145446
-                  ]
-            },
-            {
                   "name": "Belize Natural History Archive",
                   "text": "Belize Natural History Archive in Elena.",
                   "category": "museum",
                   "coords": [
                         -89.060392,
                         17.170105
-                  ]
-            },
-            {
-                  "name": "Cahal Pech Visitor Center",
-                  "text": "Information center for visitors to the Cahal Pech archaeological site in Santa Elena.",
-                  "category": "museum",
-                  "coords": [
-                        -89.07473,
-                        17.147249
-                  ]
-            },
-            {
-                  "name": "Soul Project",
-                  "text": "A cultural centre in Santa Elena promoting local art and music.",
-                  "category": "cultural",
-                  "coords": [
-                        -89.069683,
-                        17.155961
-                  ]
-            },
-            {
-                  "name": "Green Iguana Conservation Project",
-                  "text": "A conservation project in Santa Elena dedicated to preserving the green iguana.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.068382,
-                        17.153615
-                  ]
-            },
-            {
-                  "name": "Ajaw Chocolate",
-                  "text": "A site in Santa Elena providing information on traditional Maya chocolate making.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.071334,
-                        17.154756
                   ]
             },
             {
@@ -2984,86 +2588,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     }, image: "/poi-images/san-narciso-cities-v2.webp"},
   {
     id: "san-pedro-columbia-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Eladio's chocolate adventure",
-                  "text": "Ein interaktives Erlebnis in San Pedro Columbia, das in die Welt der Schokoladenherstellung einführt.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.956724,
-                        16.273832
-                  ]
-            },
-            {
-                  "name": "The Butterfly Ecopark & Guesthouse",
-                  "text": "Ein ökologischer Park und Gästehaus, das sich auf den Schutz von Schmetterlingen spezialisiert hat.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.946848,
-                        16.27097
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Eladio's chocolate adventure",
-                  "text": "Interaktív élmény San Pedro Columbiában, amely bevezet a csokoládékészítés világába.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.956724,
-                        16.273832
-                  ]
-            },
-            {
-                  "name": "The Butterfly Ecopark & Guesthouse",
-                  "text": "Ökológiai park és vendégház, amely a pillangók védelmére szakosodott.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.946848,
-                        16.27097
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Eladio's chocolate adventure",
-                  "text": "O experiență interactivă în San Pedro Columbia, care introduce vizitatorii în lumea producției de ciocolată.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.956724,
-                        16.273832
-                  ]
-            },
-            {
-                  "name": "The Butterfly Ecopark & Guesthouse",
-                  "text": "Un parc ecologic și pensiune, specializată în protejarea fluturilor.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.946848,
-                        16.27097
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Eladio's chocolate adventure",
-                  "text": "An interactive experience in San Pedro Columbia that introduces visitors to the world of chocolate making.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.956724,
-                        16.273832
-                  ]
-            },
-            {
-                  "name": "The Butterfly Ecopark & Guesthouse",
-                  "text": "An ecological park and guesthouse specializing in butterfly conservation.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.946848,
-                        16.27097
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "BZ-TOL",
@@ -3374,39 +2902,12 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     id: "san-jose-palmar-cities-v2", "sights": {
       "de": [
             {
-                  "name": "George Price Monument",
-                  "text": "Ein Denkmal für George Price in San Jose Palmar.",
-                  "category": "historical",
-                  "coords": [
-                        -88.567718,
-                        18.08473
-                  ]
-            },
-            {
-                  "name": "Boats to Lamanai",
-                  "text": "Anlegestelle für Bootsfahrten zur Maya-Stätte Lamanai in San Jose Palmar.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.557129,
-                        18.07707
-                  ]
-            },
-            {
                   "name": "Cunil",
                   "text": "Archäologische Stätte der Cunil-Kultur in Jose Palmar.",
                   "category": "landmark",
                   "coords": [
                         -88.569503,
                         18.061795
-                  ]
-            },
-            {
-                  "name": "Marcus Canul Monument",
-                  "text": "Denkmal für den Maya-Widerstandskämpfer Marcus Canul in Jose Palmar.",
-                  "category": "historical",
-                  "coords": [
-                        -88.5618,
-                        18.07927
                   ]
             },
             {
@@ -3417,36 +2918,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                         -88.565557,
                         18.055205
                   ]
-            },
-            {
-                  "name": "Tourist Info Booth",
-                  "text": "Touristeninformationsstand in Jose Palmar.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.561141,
-                        18.080173
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "George Price Monument",
-                  "text": "George Price tiszteletére emelt emlékmű San Jose Palmarban.",
-                  "category": "historical",
-                  "coords": [
-                        -88.567718,
-                        18.08473
-                  ]
-            },
-            {
-                  "name": "Boats to Lamanai",
-                  "text": "Hajók indulási helye Lamanai maja romjaihoz San Jose Palmarból.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.557129,
-                        18.07707
-                  ]
-            },
             {
                   "name": "Cunil",
                   "text": "Cunil-kultúra régészeti lelőhelye Jose Palmar-ban.",
@@ -3457,15 +2931,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Marcus Canul Monument",
-                  "text": "Marcus Canul maja ellenálló emlékműve Jose Palmar-ban.",
-                  "category": "historical",
-                  "coords": [
-                        -88.5618,
-                        18.07927
-                  ]
-            },
-            {
                   "name": "Shuga City",
                   "text": "Shuga City történelmi helyszín (régi cukorgyár?) Jose Palmar-ban.",
                   "category": "historical",
@@ -3473,36 +2938,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                         -88.565557,
                         18.055205
                   ]
-            },
-            {
-                  "name": "Tourist Info Booth",
-                  "text": "Turisztikai információs pont Jose Palmar-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.561141,
-                        18.080173
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "George Price Monument",
-                  "text": "Un monument dedicat lui George Price în San Jose Palmar.",
-                  "category": "historical",
-                  "coords": [
-                        -88.567718,
-                        18.08473
-                  ]
-            },
-            {
-                  "name": "Boats to Lamanai",
-                  "text": "Punct de plecare pentru bărcile către situl Lamanai din San Jose Palmar.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.557129,
-                        18.07707
-                  ]
-            },
             {
                   "name": "Cunil",
                   "text": "Sit arheologic al culturii Cunil în Jose Palmar.",
@@ -3513,15 +2951,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Marcus Canul Monument",
-                  "text": "Monumentul lui Marcus Canul, luptător maya, în Jose Palmar.",
-                  "category": "historical",
-                  "coords": [
-                        -88.5618,
-                        18.07927
-                  ]
-            },
-            {
                   "name": "Shuga City",
                   "text": "Sit istoric Shuga City (fosta fabrică de zahăr?) în Jose Palmar.",
                   "category": "historical",
@@ -3529,36 +2958,9 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                         -88.565557,
                         18.055205
                   ]
-            },
-            {
-                  "name": "Tourist Info Booth",
-                  "text": "Punct de informare turistică în Jose Palmar.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.561141,
-                        18.080173
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "George Price Monument",
-                  "text": "A monument dedicated to George Price in San Jose Palmar.",
-                  "category": "historical",
-                  "coords": [
-                        -88.567718,
-                        18.08473
-                  ]
-            },
-            {
-                  "name": "Boats to Lamanai",
-                  "text": "Departure point for boat trips to the Lamanai Mayan ruins in San Jose Palmar.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.557129,
-                        18.07707
-                  ]
-            },
             {
                   "name": "Cunil",
                   "text": "Cunil culture archaeological site in Jose Palmar.",
@@ -3569,30 +2971,12 @@ export const poiExtraBelizeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Marcus Canul Monument",
-                  "text": "Monument to Maya resistance leader Marcus Canul in Jose Palmar.",
-                  "category": "historical",
-                  "coords": [
-                        -88.5618,
-                        18.07927
-                  ]
-            },
-            {
                   "name": "Shuga City",
                   "text": "Shuga City historic site (former sugar mill?) in Jose Palmar.",
                   "category": "historical",
                   "coords": [
                         -88.565557,
                         18.055205
-                  ]
-            },
-            {
-                  "name": "Tourist Info Booth",
-                  "text": "Tourist info booth in Jose Palmar.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.561141,
-                        18.080173
                   ]
             }
       ]
@@ -3683,194 +3067,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     }, image: "/poi-images/yo-creek-cities-v2.webp"},
   {
     id: "trial-farm-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Banquitas House of Culture",
-                  "text": "Ein Kulturhaus und Museum in Trial Farm, das die lokale Geschichte und Traditionen präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        -88.558947,
-                        18.083337
-                  ]
-            },
-            {
-                  "name": "George Price Monument",
-                  "text": "Ein Denkmal zu Ehren von George Price, dem Vater der Unabhängigkeit von Belize.",
-                  "category": "historical",
-                  "coords": [
-                        -88.567718,
-                        18.08473
-                  ]
-            },
-            {
-                  "name": "Boats to Lamanai",
-                  "text": "Ein Abfahrtsort in Trial Farm für Bootstouren zur antiken Maya-Stätte Lamanai.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.557129,
-                        18.07707
-                  ]
-            },
-            {
-                  "name": "Marcus Canul Monument",
-                  "text": "Ein Denkmal in Trial Farm, das an den Maya-Anführer Marcus Canul erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        -88.5618,
-                        18.07927
-                  ]
-            },
-            {
-                  "name": "Tourist Info Booth",
-                  "text": "Ein Informationsstand in Trial Farm, der Besuchern Auskunft über lokale Sehenswürdigkeiten gibt.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.561141,
-                        18.080173
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Banquitas House of Culture",
-                  "text": "Kulturális központ és múzeum Trial Farmban, amely a helyi történelmet és hagyományokat mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -88.558947,
-                        18.083337
-                  ]
-            },
-            {
-                  "name": "George Price Monument",
-                  "text": "Emlékmű George Price, Belize függetlenségi atyjának tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        -88.567718,
-                        18.08473
-                  ]
-            },
-            {
-                  "name": "Boats to Lamanai",
-                  "text": "Indulási pont Trial Farmban a Lamanai maja régészeti lelőhelyhez induló hajótúrákhoz.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.557129,
-                        18.07707
-                  ]
-            },
-            {
-                  "name": "Marcus Canul Monument",
-                  "text": "Emlékmű Trial Farmban, amely Marcus Canul maja vezetőnek állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        -88.5618,
-                        18.07927
-                  ]
-            },
-            {
-                  "name": "Tourist Info Booth",
-                  "text": "Információs pult Trial Farmban, amely tájékoztatást nyújt a látogatóknak a helyi látnivalókról.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.561141,
-                        18.080173
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Banquitas House of Culture",
-                  "text": "O casă de cultură și muzeu în Trial Farm, care prezintă istoria și tradițiile locale.",
-                  "category": "museum",
-                  "coords": [
-                        -88.558947,
-                        18.083337
-                  ]
-            },
-            {
-                  "name": "George Price Monument",
-                  "text": "Un monument în onoarea lui George Price, tatăl independenței statului Belize.",
-                  "category": "historical",
-                  "coords": [
-                        -88.567718,
-                        18.08473
-                  ]
-            },
-            {
-                  "name": "Boats to Lamanai",
-                  "text": "Un punct de plecare în Trial Farm pentru tururile cu barca spre situl arheologic mayaș Lamanai.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.557129,
-                        18.07707
-                  ]
-            },
-            {
-                  "name": "Marcus Canul Monument",
-                  "text": "Un monument în Trial Farm care îl comemorează pe liderul mayaș Marcus Canul.",
-                  "category": "historical",
-                  "coords": [
-                        -88.5618,
-                        18.07927
-                  ]
-            },
-            {
-                  "name": "Tourist Info Booth",
-                  "text": "Un punct de informare în Trial Farm care oferă vizitatorilor detalii despre atracțiile locale.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.561141,
-                        18.080173
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Banquitas House of Culture",
-                  "text": "A cultural house and museum in Trial Farm showcasing local history and traditions.",
-                  "category": "museum",
-                  "coords": [
-                        -88.558947,
-                        18.083337
-                  ]
-            },
-            {
-                  "name": "George Price Monument",
-                  "text": "A monument honoring George Price, the father of Belize's independence.",
-                  "category": "historical",
-                  "coords": [
-                        -88.567718,
-                        18.08473
-                  ]
-            },
-            {
-                  "name": "Boats to Lamanai",
-                  "text": "A departure point in Trial Farm for boat tours to the ancient Maya site of Lamanai.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.557129,
-                        18.07707
-                  ]
-            },
-            {
-                  "name": "Marcus Canul Monument",
-                  "text": "A monument in Trial Farm commemorating the Maya leader Marcus Canul.",
-                  "category": "historical",
-                  "coords": [
-                        -88.5618,
-                        18.07927
-                  ]
-            },
-            {
-                  "name": "Tourist Info Booth",
-                  "text": "An information booth in Trial Farm providing visitors with details about local attractions.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.561141,
-                        18.080173
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "BZ-OW",
@@ -4443,15 +3643,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     id: "consejo-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Acuario Mamisha",
-                  "text": "Aquarium in Consejo mit Meereslebewesen, geeignet für Kinder und Familien.",
-                  "category": "wildlife",
-                  "coords": [
-                        -88.309149,
-                        18.516576
-                  ]
-            },
-            {
                   "name": "Fosa de clavados Chetumal",
                   "text": "Schwimmbad mit Sprungturm in Consejo, ideal für Wassersportler.",
                   "category": "recreational",
@@ -4462,15 +3653,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Acuario Mamisha",
-                  "text": "Akvárium Consejóban tengeri élőlényekkel, gyerekeknek és családoknak.",
-                  "category": "wildlife",
-                  "coords": [
-                        -88.309149,
-                        18.516576
-                  ]
-            },
             {
                   "name": "Fosa de clavados Chetumal",
                   "text": "Úszómedence ugrótoronnyal Consejóban, vízi sportokhoz.",
@@ -4483,15 +3665,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Acuario Mamisha",
-                  "text": "Acvariu în Consejo cu viețuitoare marine, pentru copii și familii.",
-                  "category": "wildlife",
-                  "coords": [
-                        -88.309149,
-                        18.516576
-                  ]
-            },
-            {
                   "name": "Fosa de clavados Chetumal",
                   "text": "Piscină cu trambulină în Consejo, pentru sporturi acvatice.",
                   "category": "recreational",
@@ -4502,15 +3675,6 @@ export const poiExtraBelizeCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Acuario Mamisha",
-                  "text": "Aquarium in Consejo with marine life, suitable for children and families.",
-                  "category": "wildlife",
-                  "coords": [
-                        -88.309149,
-                        18.516576
-                  ]
-            },
             {
                   "name": "Fosa de clavados Chetumal",
                   "text": "Swimming pool with diving board in Consejo, for water sports.",
@@ -6628,86 +5792,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     }, image: "/poi-images/biscayne-cities-v2.webp"},
   {
     id: "silk-grass-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Hawai'i",
-                  "text": "Ein malerischer Strandabschnitt in der Nähe von Silk Grass, ideal für Ruhesuchende.",
-                  "category": "recreational",
-                  "coords": [
-                        -88.288416,
-                        16.87968
-                  ]
-            },
-            {
-                  "name": "Hopkins Bay",
-                  "text": "Ein Ferienort am Strand von Silk Grass, bekannt für seine entspannte Atmosphäre und Meeresnähe.",
-                  "category": "recreational",
-                  "coords": [
-                        -88.287817,
-                        16.875494
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Hawai'i",
-                  "text": "Gle festői tengerparti szakasz Silk Grass közelében, ideális a nyugalomra vágyók számára.",
-                  "category": "recreational",
-                  "coords": [
-                        -88.288416,
-                        16.87968
-                  ]
-            },
-            {
-                  "name": "Hopkins Bay",
-                  "text": "Tengerparti üdülőhely Silk Grassnál, amely nyugodt légköréről és a tenger közelségéről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        -88.287817,
-                        16.875494
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Hawai'i",
-                  "text": "O secțiune de plajă pitorească lângă Silk Grass, ideală pentru cei care caută liniște.",
-                  "category": "recreational",
-                  "coords": [
-                        -88.288416,
-                        16.87968
-                  ]
-            },
-            {
-                  "name": "Hopkins Bay",
-                  "text": "O stațiune de vacanță la plaja din Silk Grass, cunoscută pentru atmosfera relaxată și proximitatea față de mare.",
-                  "category": "recreational",
-                  "coords": [
-                        -88.287817,
-                        16.875494
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Hawai'i",
-                  "text": "A scenic stretch of beach near Silk Grass, ideal for those seeking tranquility.",
-                  "category": "recreational",
-                  "coords": [
-                        -88.288416,
-                        16.87968
-                  ]
-            },
-            {
-                  "name": "Hopkins Bay",
-                  "text": "A beach resort at Silk Grass known for its relaxed atmosphere and proximity to the sea.",
-                  "category": "recreational",
-                  "coords": [
-                        -88.287817,
-                        16.875494
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "BZ-SC",
@@ -7146,50 +6234,10 @@ export const poiExtraBelizeCitiesV2: POI[] = [
   },
   {
     id: "buena-vista-cayo-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Stones",
-                  "text": "Ein lokales Denkmal in Buena Vista, das an historische Ereignisse oder Persönlichkeiten erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        -88.971013,
-                        17.247689
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Stones",
-                  "text": "Helyi emlékmű Buena Vistában, amely történelmi eseményekre vagy személyiségekre emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        -88.971013,
-                        17.247689
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Stones",
-                  "text": "Un monument local în Buena Vista, care comemorează evenimente istorice sau personalități.",
-                  "category": "historical",
-                  "coords": [
-                        -88.971013,
-                        17.247689
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Stones",
-                  "text": "A local monument in Buena Vista commemorating historical events or figures.",
-                  "category": "historical",
-                  "coords": [
-                        -88.971013,
-                        17.247689
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "BZ-CYO",

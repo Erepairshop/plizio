@@ -447,24 +447,6 @@ export const poiExtraJordanReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Buqat",
-                  "text": "Ruinen antiker Steinstrukturen, die über das raue Gelände des Belqa-Plateaus verstreut liegen.",
-                  "category": "historical",
-                  "coords": [
-                        35.731751,
-                        32.048782
-                  ]
-            },
-            {
-                  "name": "Salt Türk Şehitliği",
-                  "text": "Ein Gedenkort für osmanische Soldaten, die im Ersten Weltkrieg gefallen sind, mit einem Ehrenmal und Gräbern.",
-                  "category": "historical",
-                  "coords": [
-                        35.7246,
-                        32.041154
-                  ]
-            },
-            {
                   "name": "Khirbat Zayy",
                   "text": "Überreste einer antiken Siedlung mit behauenem Mauerwerk und in den Fels gehauenen Zisternen bei Salt.",
                   "category": "historical",
@@ -498,33 +480,6 @@ export const poiExtraJordanReliefV2: POI[] = [
                   "coords": [
                         35.730936,
                         32.031388
-                  ]
-            },
-            {
-                  "name": "Archäologisches Museum Salt",
-                  "text": "Ein Museum im historischen Beit Touqan, das Funde von der Kupfersteinzeit bis zur islamischen Periode zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        35.729332,
-                        32.03828
-                  ]
-            },
-            {
-                  "name": "Abu Jaber Museum",
-                  "text": "Ein Historisches Museum in einem prächtigen Kaufmannshaus des 19. Jahrhunderts mit osmanischer Architektur.",
-                  "category": "museum",
-                  "coords": [
-                        35.726172,
-                        32.038645
-                  ]
-            },
-            {
-                  "name": "Old English Hospital Museum",
-                  "text": "Das erste Krankenhaus der Region, das heute als Museum in einem markanten Steingebäude aus dem späten 19. Jahrhundert dient.",
-                  "category": "museum",
-                  "coords": [
-                        35.725718,
-                        32.03959
                   ]
             },
             {
@@ -584,24 +539,6 @@ export const poiExtraJordanReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Buqat",
-                  "text": "Ősi kőszerkezetek romjai, amelyek szétszórva találhatók a Belqa-fennsík zord terepén.",
-                  "category": "historical",
-                  "coords": [
-                        35.731751,
-                        32.048782
-                  ]
-            },
-            {
-                  "name": "Salt Türk Şehitliği",
-                  "text": "Az első világháborúban elesett oszmán katonák emlékhelye emlékművel és sírokkal.",
-                  "category": "historical",
-                  "coords": [
-                        35.7246,
-                        32.041154
-                  ]
-            },
-            {
                   "name": "Khirbat Zayy",
                   "text": "Egy antik település maradványai megmunkált falazattal és sziklába vájt ciszternákkal Salt közelében.",
                   "category": "historical",
@@ -635,33 +572,6 @@ export const poiExtraJordanReliefV2: POI[] = [
                   "coords": [
                         35.730936,
                         32.031388
-                  ]
-            },
-            {
-                  "name": "Salt Archaeological Museum",
-                  "text": "A történelmi Beit Touqan épületében működő múzeum, amely a kőrézkortól az iszlám korig mutat be leleteket.",
-                  "category": "museum",
-                  "coords": [
-                        35.729332,
-                        32.03828
-                  ]
-            },
-            {
-                  "name": "Abu Jaber Museum",
-                  "text": "Történeti múzeum egy pompás 19. századi kereskedőházban, amely az oszmán építészetet képviseli.",
-                  "category": "museum",
-                  "coords": [
-                        35.726172,
-                        32.038645
-                  ]
-            },
-            {
-                  "name": "Old English Hospital Museum",
-                  "text": "A régió első kórháza, amely ma múzeumként működik egy jellegzetes, 19. század végi kőépületben.",
-                  "category": "museum",
-                  "coords": [
-                        35.725718,
-                        32.03959
                   ]
             },
             {
@@ -721,24 +631,6 @@ export const poiExtraJordanReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Buqat",
-                  "text": "Ruine ale unor structuri antice de piatră, împrăștiate pe terenul accidentat al podișului Belqa.",
-                  "category": "historical",
-                  "coords": [
-                        35.731751,
-                        32.048782
-                  ]
-            },
-            {
-                  "name": "Salt Türk Şehitliği",
-                  "text": "Un loc de comemorare pentru soldații otomani căzuți în Primul Război Mondial, cu un monument și morminte.",
-                  "category": "historical",
-                  "coords": [
-                        35.7246,
-                        32.041154
-                  ]
-            },
-            {
                   "name": "Khirbat Zayy",
                   "text": "Vestigii ale unei așezări antice cu zidărie fasonată și cisterne săpate în stâncă lângă Salt.",
                   "category": "historical",
@@ -772,33 +664,6 @@ export const poiExtraJordanReliefV2: POI[] = [
                   "coords": [
                         35.730936,
                         32.031388
-                  ]
-            },
-            {
-                  "name": "Salt Archaeological Museum",
-                  "text": "Un muzeu în istorica clădire Beit Touqan, care expune descoperiri din calcolitic până în perioada islamică.",
-                  "category": "museum",
-                  "coords": [
-                        35.729332,
-                        32.03828
-                  ]
-            },
-            {
-                  "name": "Abu Jaber Museum",
-                  "text": "Un muzeu de istorie într-o somptuoasă casă de negustori din secolul al XIX-lea, cu arhitectură otomană.",
-                  "category": "museum",
-                  "coords": [
-                        35.726172,
-                        32.038645
-                  ]
-            },
-            {
-                  "name": "Old English Hospital Museum",
-                  "text": "Primul spital din regiune, care servește astăzi ca muzeu într-o clădire de piatră de la sfârșitul secolului al XIX-lea.",
-                  "category": "museum",
-                  "coords": [
-                        35.725718,
-                        32.03959
                   ]
             },
             {
@@ -858,24 +723,6 @@ export const poiExtraJordanReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Buqat",
-                  "text": "Ruins of ancient stone structures scattered across the rugged terrain of the Belqa plateau.",
-                  "category": "historical",
-                  "coords": [
-                        35.731751,
-                        32.048782
-                  ]
-            },
-            {
-                  "name": "Salt Türk Şehitliği",
-                  "text": "A memorial site for Ottoman soldiers fallen in World War I, featuring a monument and graves.",
-                  "category": "historical",
-                  "coords": [
-                        35.7246,
-                        32.041154
-                  ]
-            },
-            {
                   "name": "Khirbat Zayy",
                   "text": "Remnants of an ancient settlement featuring dressed masonry and rock-cut cisterns near Salt.",
                   "category": "historical",
@@ -909,33 +756,6 @@ export const poiExtraJordanReliefV2: POI[] = [
                   "coords": [
                         35.730936,
                         32.031388
-                  ]
-            },
-            {
-                  "name": "Salt Archaeological Museum",
-                  "text": "A museum in the historic Beit Touqan building, displaying finds from the Chalcolithic to the Islamic period.",
-                  "category": "museum",
-                  "coords": [
-                        35.729332,
-                        32.03828
-                  ]
-            },
-            {
-                  "name": "Abu Jaber Museum",
-                  "text": "A history museum set in a grand 19th-century merchant house featuring Ottoman architecture.",
-                  "category": "museum",
-                  "coords": [
-                        35.726172,
-                        32.038645
-                  ]
-            },
-            {
-                  "name": "Old English Hospital Museum",
-                  "text": "The region's first hospital, now serving as a museum in a distinctive late 19th-century stone building.",
-                  "category": "museum",
-                  "coords": [
-                        35.725718,
-                        32.03959
                   ]
             },
             {

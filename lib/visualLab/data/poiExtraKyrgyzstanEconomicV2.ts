@@ -2796,15 +2796,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     id: "kant-cement-plant-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Dubovyi park",
-                  "text": "Eine friedliche Grünanlage in Kant, die von alten Eichen beschattet wird und zu Spaziergängen nahe dem Stadtzentrum einlädt.",
-                  "category": "landmark",
-                  "coords": [
-                        74.850478,
-                        42.90077
-                  ]
-            },
-            {
                   "name": "Novopokrovskaia tserkov'",
                   "text": "Ein lokales christliches Gebetshaus, das der spirituellen Gemeinschaft der Industriestadt Kant dient.",
                   "category": "landmark",
@@ -2878,15 +2869,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Dubovyi park",
-                  "text": "Békés zöldövezet Kantban, amelyet öreg tölgyfák árnyékolnak, kedvelt sétatér a városközpont közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        74.850478,
-                        42.90077
-                  ]
-            },
             {
                   "name": "Novopokrovskaia tserkov'",
                   "text": "Helyi keresztény imaház, amely Kant iparváros hívő közösségét szolgálja.",
@@ -2962,15 +2944,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Dubovyi park",
-                  "text": "Un spațiu verde liniștit în Kant, umbrit de stejari bătrâni, popular pentru plimbări în apropierea centrului orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        74.850478,
-                        42.90077
-                  ]
-            },
-            {
                   "name": "Novopokrovskaia tserkov'",
                   "text": "O casă de rugăciune creștină locală care deservește comunitatea spirituală din orașul industrial Kant.",
                   "category": "landmark",
@@ -3044,15 +3017,6 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Dubovyi park",
-                  "text": "A peaceful green space in Kant shaded by mature oak trees, popular for strolls near the town center.",
-                  "category": "landmark",
-                  "coords": [
-                        74.850478,
-                        42.90077
-                  ]
-            },
             {
                   "name": "hurch",
                   "text": "A local Christian house of prayer serving the spiritual community of the industrial town of Kant.",

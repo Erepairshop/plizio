@@ -11760,24 +11760,6 @@ export const poiExtraBangladeshLifeV2: POI[] = [
     id: "himchari-national-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Cox's Bazar Lighthouse",
-                  "text": "Ein historischer Leuchtturm in Cox's Bazar, der auf einem Hügel thront und die Küste überwacht.",
-                  "category": "landmark",
-                  "coords": [
-                        91.978305,
-                        21.431389
-                  ]
-            },
-            {
-                  "name": "Cox Bazar Beach",
-                  "text": "Ein Abschnitt des weltlängsten natürlichen Sandstrandes am Golf von Bengalen bei Cox's Bazar.",
-                  "category": "landmark",
-                  "coords": [
-                        91.970534,
-                        21.428067
-                  ]
-            },
-            {
                   "name": "গনপূর্ত পার্ক",
                   "text": "Ein öffentlicher Stadtpark in Cox's Bazar, der Grünflächen zur Erholung in Küstennähe bietet.",
                   "category": "recreational",
@@ -11793,15 +11775,6 @@ export const poiExtraBangladeshLifeV2: POI[] = [
                   "coords": [
                         92.025755,
                         21.355136
-                  ]
-            },
-            {
-                  "name": "Cox's Bazar Cultural Center",
-                  "text": "Ein Kulturzentrum in Cox's Bazar, das Kunst, Musik und die Traditionen der lokalen Stämme pflegt.",
-                  "category": "cultural",
-                  "coords": [
-                        91.976117,
-                        21.428585
                   ]
             },
             {
@@ -11924,24 +11897,6 @@ export const poiExtraBangladeshLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Cox's Bazar Lighthouse",
-                  "text": "Történelmi világítótorony Cox's Bazarban, amely egy dombtetőről felügyeli a tengerpartot.",
-                  "category": "landmark",
-                  "coords": [
-                        91.978305,
-                        21.431389
-                  ]
-            },
-            {
-                  "name": "Cox Bazar Beach",
-                  "text": "A világ leghosszabb természetes homokos tengerpartjának egy szakasza Cox's Bazarnál, a Bengáli-öböl partján.",
-                  "category": "landmark",
-                  "coords": [
-                        91.970534,
-                        21.428067
-                  ]
-            },
-            {
                   "name": "গনপূর্ত পার্ক",
                   "text": "Városi park Cox's Bazarban, amely zöldfelületet és kikapcsolódást kínál a tengerpart közelében.",
                   "category": "recreational",
@@ -11957,15 +11912,6 @@ export const poiExtraBangladeshLifeV2: POI[] = [
                   "coords": [
                         92.025755,
                         21.355136
-                  ]
-            },
-            {
-                  "name": "Cox's Bazar Cultural Center",
-                  "text": "Kulturális központ Cox's Bazarban, amely a helyi törzsek művészetét, zenéjét és hagyományait ápolja.",
-                  "category": "cultural",
-                  "coords": [
-                        91.976117,
-                        21.428585
                   ]
             },
             {
@@ -12088,24 +12034,6 @@ export const poiExtraBangladeshLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Cox's Bazar Lighthouse",
-                  "text": "Un far istoric în Cox's Bazar, cocoțat pe un deal pentru a monitoriza coasta.",
-                  "category": "landmark",
-                  "coords": [
-                        91.978305,
-                        21.431389
-                  ]
-            },
-            {
-                  "name": "Cox Bazar Beach",
-                  "text": "O secțiune a celei mai lungi plaje naturale de nisip din lume, la Golful Bengal în Cox's Bazar.",
-                  "category": "landmark",
-                  "coords": [
-                        91.970534,
-                        21.428067
-                  ]
-            },
-            {
                   "name": "গনপূর্ত পার্ক",
                   "text": "Un parc public în Cox's Bazar, oferind spații verzi pentru recreere în apropierea coastei.",
                   "category": "recreational",
@@ -12121,15 +12049,6 @@ export const poiExtraBangladeshLifeV2: POI[] = [
                   "coords": [
                         92.025755,
                         21.355136
-                  ]
-            },
-            {
-                  "name": "Cox's Bazar Cultural Center",
-                  "text": "Un centru cultural în Cox's Bazar, dedicat artei, muzicii și tradițiilor triburilor locale.",
-                  "category": "cultural",
-                  "coords": [
-                        91.976117,
-                        21.428585
                   ]
             },
             {
@@ -12252,48 +12171,12 @@ export const poiExtraBangladeshLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Cox's Bazar Lighthouse",
-                  "text": "A historic lighthouse in Cox's Bazar, perched on a hill to monitor the coastline.",
-                  "category": "landmark",
-                  "coords": [
-                        91.978305,
-                        21.431389
-                  ]
-            },
-            {
-                  "name": "Cox Bazar Beach",
-                  "text": "A section of the world's longest natural sandy beach along the Bay of Bengal at Cox's Bazar.",
-                  "category": "landmark",
-                  "coords": [
-                        91.970534,
-                        21.428067
-                  ]
-            },
-            {
-                  "name": "PWD Park",
-                  "text": "A public urban park in Cox's Bazar, offering green spaces for recreation near the coast.",
-                  "category": "recreational",
-                  "coords": [
-                        91.981899,
-                        21.421711
-                  ]
-            },
-            {
                   "name": "Himchori Falls",
                   "text": "A small waterfall in Himchari National Park, cascading over mossy rocks within the tropical forest.",
                   "category": "landmark",
                   "coords": [
                         92.025755,
                         21.355136
-                  ]
-            },
-            {
-                  "name": "Cox's Bazar Cultural Center",
-                  "text": "A cultural center in Cox's Bazar promoting the art, music, and traditions of local tribes.",
-                  "category": "cultural",
-                  "coords": [
-                        91.976117,
-                        21.428585
                   ]
             },
             {

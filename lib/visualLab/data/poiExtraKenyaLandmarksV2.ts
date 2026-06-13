@@ -2136,15 +2136,6 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
     id: "ke-nyali-bridge-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Market",
-                  "text": "Dieser belebte Freiluftmarkt in der Nähe der Brücke ist voller Verkaufsstände mit frischen regionalen Produkten und Alltagsgütern.",
-                  "category": "landmark",
-                  "coords": [
-                        39.667875,
-                        -4.043611
-                  ]
-            },
-            {
                   "name": "Mavi mavi beach",
                   "text": "Mavi Mavi Beach ist ein malerischer Sandstrandabschnitt mit direktem Gezeitenzugang zu den warmen Gewässern des Indischen Ozeans.",
                   "category": "recreational",
@@ -2164,15 +2155,6 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Market",
-                  "text": "Ez a hídhoz közeli nyüzsgő szabadtéri piac tele van friss regionális termékeket és mindennapi cikkeket árusító standokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        39.667875,
-                        -4.043611
-                  ]
-            },
             {
                   "name": "Mavi mavi beach",
                   "text": "A Mavi Mavi Beach egy festői homokos partvidék, amely közvetlen hozzáférést biztosít az Indiai-óceán vizéhez az árapály zónában.",
@@ -2194,15 +2176,6 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Market",
-                  "text": "Această piață aglomerată în aer liber, de lângă pod, este plină de tarabe ce oferă produse regionale proaspete.",
-                  "category": "landmark",
-                  "coords": [
-                        39.667875,
-                        -4.043611
-                  ]
-            },
-            {
                   "name": "Mavi mavi beach",
                   "text": "Plaja Mavi Mavi este o zonă de coastă nisipoasă pitorească, oferind acces direct la apele Oceanului Indian.",
                   "category": "recreational",
@@ -2222,15 +2195,6 @@ export const poiExtraKenyaLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Market",
-                  "text": "This bustling open-air marketplace near the bridge is packed with vendor stalls selling fresh regional produce and everyday goods.",
-                  "category": "landmark",
-                  "coords": [
-                        39.667875,
-                        -4.043611
-                  ]
-            },
             {
                   "name": "Mavi mavi beach",
                   "text": "Mavi Mavi Beach is a scenic sandy coastal area offering direct tidal access to the warm waters of the Indian Ocean.",

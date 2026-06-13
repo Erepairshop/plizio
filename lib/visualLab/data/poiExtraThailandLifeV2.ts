@@ -7013,33 +7013,6 @@ export const poiExtraThailandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Phra Thad Chaeng Chum Worawihan Temple",
-                  "text": "Der Tempel Wat Phra Thad Chaeng Chum Worawihan beherbergt einen markanten heiligen Stupa, der ein wichtiger Wallfahrtsort in Sakon Nakhon ist.",
-                  "category": "religious",
-                  "coords": [
-                        104.153471,
-                        17.164463
-                  ]
-            },
-            {
-                  "name": "Freshwater Fish Aquarium",
-                  "text": "Das Süßwasseraquarium in Sakon Nakhon verfügt über Becken mit verschiedenen Wasserlebewesen, die in den Seen und Flüssen der Region heimisch sind.",
-                  "category": "recreational",
-                  "coords": [
-                        104.152421,
-                        17.170548
-                  ]
-            },
-            {
-                  "name": "Phu Phan Museum",
-                  "text": "Das Phu Phan Museum zeigt das kulturelle Erbe und die Naturgeschichte des Phu Phan-Gebirges in Sakon Nakhon.",
-                  "category": "museum",
-                  "coords": [
-                        104.144884,
-                        17.173128
-                  ]
-            },
-            {
                   "name": "Achan Man Phurithatto Museum",
                   "text": "Das Achan Man Phurithatto Museum in Sakon Nakhon bewahrt die Lebensgeschichte und Artefakte des berühmten Meditationsmeisters.",
                   "category": "museum",
@@ -7174,33 +7147,6 @@ export const poiExtraThailandLifeV2: POI[] = [
                   "coords": [
                         104.164381,
                         17.144034
-                  ]
-            },
-            {
-                  "name": "Wat Phra Thad Chaeng Chum Worawihan Temple",
-                  "text": "A Wat Phra Thad Chaeng Chum Worawihan templom egy kiemelkedő szent sztúpának ad otthont, amely fontos zarándokhely Sakon Nakhonban.",
-                  "category": "religious",
-                  "coords": [
-                        104.153471,
-                        17.164463
-                  ]
-            },
-            {
-                  "name": "Freshwater Fish Aquarium",
-                  "text": "A Sakon Nakhon-i Édesvízi Akvárium medencéiben a régió tavaiban és folyóiban őshonos különféle vízi fajokat mutatnak be.",
-                  "category": "recreational",
-                  "coords": [
-                        104.152421,
-                        17.170548
-                  ]
-            },
-            {
-                  "name": "Phu Phan Museum",
-                  "text": "A Phu Phan Múzeum a Phu Phan hegység kulturális örökségét és természetrajzát mutatja be Sakon Nakhonban.",
-                  "category": "museum",
-                  "coords": [
-                        104.144884,
-                        17.173128
                   ]
             },
             {
@@ -7341,33 +7287,6 @@ export const poiExtraThailandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Phra Thad Chaeng Chum Worawihan Temple",
-                  "text": "Templul Wat Phra Thad Chaeng Chum Worawihan găzduiește o stupă sacră proeminentă, care este un loc major de pelerinaj în Sakon Nakhon.",
-                  "category": "religious",
-                  "coords": [
-                        104.153471,
-                        17.164463
-                  ]
-            },
-            {
-                  "name": "Freshwater Fish Aquarium",
-                  "text": "Acvariul cu pești de apă dulce din Sakon Nakhon prezintă bazine care expun diverse specii acvatice native din lacurile și râurile regiunii.",
-                  "category": "recreational",
-                  "coords": [
-                        104.152421,
-                        17.170548
-                  ]
-            },
-            {
-                  "name": "Phu Phan Museum",
-                  "text": "Muzeul Phu Phan prezintă patrimoniul cultural și istoria naturală a lanțului muntos Phu Phan din Sakon Nakhon.",
-                  "category": "museum",
-                  "coords": [
-                        104.144884,
-                        17.173128
-                  ]
-            },
-            {
                   "name": "Achan Man Phurithatto Museum",
                   "text": "Muzeul Achan Man Phurithatto din Sakon Nakhon păstrează povestea vieții și artefactele celebrului maestru de meditație.",
                   "category": "museum",
@@ -7502,33 +7421,6 @@ export const poiExtraThailandLifeV2: POI[] = [
                   "coords": [
                         104.164381,
                         17.144034
-                  ]
-            },
-            {
-                  "name": "Wat Phra Thad Chaeng Chum Worawihan Temple",
-                  "text": "Wat Phra Thad Chaeng Chum Worawihan Temple houses a prominent sacred stupa that is a major pilgrimage site in Sakon Nakhon.",
-                  "category": "religious",
-                  "coords": [
-                        104.153471,
-                        17.164463
-                  ]
-            },
-            {
-                  "name": "Freshwater Fish Aquarium",
-                  "text": "The Freshwater Fish Aquarium in Sakon Nakhon features tanks displaying various aquatic species native to the region's lakes and rivers.",
-                  "category": "recreational",
-                  "coords": [
-                        104.152421,
-                        17.170548
-                  ]
-            },
-            {
-                  "name": "Phu Phan Museum",
-                  "text": "The Phu Phan Museum showcases the cultural heritage and natural history of the Phu Phan mountain range in Sakon Nakhon.",
-                  "category": "museum",
-                  "coords": [
-                        104.144884,
-                        17.173128
                   ]
             },
             {
@@ -15524,15 +15416,6 @@ export const poiExtraThailandLifeV2: POI[] = [
     id: "coro-field-ratchaburi-life-v2", "sights": {
       "de": [
             {
-                  "name": "Chedi Hak",
-                  "text": "Die verfallenen Ziegelruinen eines alten Stupa, die als historisches Überbleibsel in der Nähe von Ratchaburi stehen.",
-                  "category": "historical",
-                  "coords": [
-                        99.798427,
-                        13.543049
-                  ]
-            },
-            {
                   "name": "Wat Aranyik Kawas",
                   "text": "Ein buddhistischer Waldtempel in Ratchaburi mit markanten alten Laterit-Stupas mit Khmer-Einfluss.",
                   "category": "religious",
@@ -15651,15 +15534,6 @@ export const poiExtraThailandLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Chedi Hak",
-                  "text": "Egy ősi sztúpa omladozó tégla romjai, amelyek történelmi emlékként állnak Ratchaburi közelében.",
-                  "category": "historical",
-                  "coords": [
-                        99.798427,
-                        13.543049
-                  ]
-            },
             {
                   "name": "Wat Aranyik Kawas",
                   "text": "Buddhista erdei templom Ratchaburiban, amely a khmer hatásokat tükröző jellegzetes ősi laterit sztúpákkal rendelkezik.",
@@ -15780,15 +15654,6 @@ export const poiExtraThailandLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Chedi Hak",
-                  "text": "Ruinele de cărămidă prăbușite ale unei vechi stupe, stând ca o rămășiță istorică lângă Ratchaburi.",
-                  "category": "historical",
-                  "coords": [
-                        99.798427,
-                        13.543049
-                  ]
-            },
-            {
                   "name": "Wat Aranyik Kawas",
                   "text": "Un templu budist din pădure din Ratchaburi, care prezintă stupe antice distinctive din laterit cu influență khmeră.",
                   "category": "religious",
@@ -15907,15 +15772,6 @@ export const poiExtraThailandLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Chedi Hak",
-                  "text": "The crumbling brick ruins of an ancient stupa standing as a historical remnant near Ratchaburi.",
-                  "category": "historical",
-                  "coords": [
-                        99.798427,
-                        13.543049
-                  ]
-            },
             {
                   "name": "Wat Aranyik Kawas",
                   "text": "A Buddhist forest temple in Ratchaburi featuring distinctive ancient laterite stupas of Khmer influence.",

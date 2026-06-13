@@ -427,50 +427,10 @@ export const bosniaherzegovinaNatureV2: POI[] = [
   },
   {
     id: "bosniaherzegovina-prenj-mountain-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Zelena glava",
-                  "text": "Der höchste Gipfel des Prenj-Gebirges in Bosnien und Herzegowina.",
-                  "category": "landmark",
-                  "coords": [
-                        17.9038,
-                        43.549682
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Zelena glava",
-                  "text": "A Prenj-hegység legmagasabb csúcsa Bosznia-Hercegovinában.",
-                  "category": "landmark",
-                  "coords": [
-                        17.9038,
-                        43.549682
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Zelena glava",
-                  "text": "Cel mai înalt vârf al masivului Prenj din Bosnia și Herțegovina.",
-                  "category": "landmark",
-                  "coords": [
-                        17.9038,
-                        43.549682
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Zelena glava",
-                  "text": "The highest peak of the Prenj mountain range in Bosnia and Herzegovina.",
-                  "category": "landmark",
-                  "coords": [
-                        17.9038,
-                        43.549682
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "BA",
     type: "mountain",
@@ -519,50 +479,10 @@ export const bosniaherzegovinaNatureV2: POI[] = [
   },
   {
     id: "bosniaherzegovina-cvrsnica-mountain-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Pločno",
-                  "text": "Pločno ist der höchste Gipfel des Čvrsnica-Gebirges in Bosnien und Herzegowina.",
-                  "category": "landmark",
-                  "coords": [
-                        17.564727,
-                        43.599349
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Pločno",
-                  "text": "A Pločno a Čvrsnica-hegység legmagasabb csúcsa Bosznia-Hercegovinában.",
-                  "category": "landmark",
-                  "coords": [
-                        17.564727,
-                        43.599349
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Pločno",
-                  "text": "Pločno este cel mai înalt vârf din munții Čvrsnica, în Bosnia și Herțegovina.",
-                  "category": "landmark",
-                  "coords": [
-                        17.564727,
-                        43.599349
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Pločno",
-                  "text": "Pločno is the highest peak of the Čvrsnica mountain range in Bosnia and Herzegovina.",
-                  "category": "landmark",
-                  "coords": [
-                        17.564727,
-                        43.599349
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "BA",
     type: "peak",
@@ -2132,15 +2052,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
   {id: "bosniaherzegovina-krivaja-river-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Zaštićeni pejzaž „Konjuh“",
-                  "text": "Ein geschütztes Naturgebiet am Fluss Krivaja, das für seine Artenvielfalt bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        18.577743,
-                        44.29124
-                  ]
-            },
-            {
                   "name": "Konjuh",
                   "text": "Ein Gebirgszug und Gipfel in Bosnien und Herzegowina, beliebt bei Wanderern.",
                   "category": "landmark",
@@ -2151,15 +2062,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Zaštićeni pejzaž „Konjuh“",
-                  "text": "Védett természeti terület a Krivaja-folyó mentén, amely gazdag élővilágáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        18.577743,
-                        44.29124
-                  ]
-            },
             {
                   "name": "Konjuh",
                   "text": "Hegység és hegycsúcs Bosznia-Hercegovinában, a túrázók kedvelt célpontja.",
@@ -2172,15 +2074,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Zaštićeni pejzaž „Konjuh“",
-                  "text": "O zonă naturală protejată de-a lungul râului Krivaja, cunoscută pentru biodiversitatea sa.",
-                  "category": "natural",
-                  "coords": [
-                        18.577743,
-                        44.29124
-                  ]
-            },
-            {
                   "name": "Konjuh",
                   "text": "Un masiv muntos și vârf în Bosnia și Herțegovina, popular printre excursioniști.",
                   "category": "landmark",
@@ -2191,15 +2084,6 @@ export const bosniaherzegovinaNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Protected Landscape Konjuh",
-                  "text": "A protected natural area along the Krivaja River, known for its biodiversity.",
-                  "category": "natural",
-                  "coords": [
-                        18.577743,
-                        44.29124
-                  ]
-            },
             {
                   "name": "Konjuh",
                   "text": "A mountain range and peak in Bosnia and Herzegovina, popular among hikers.",

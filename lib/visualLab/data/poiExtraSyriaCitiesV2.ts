@@ -36,57 +36,12 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     id: "aleppo-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Aleppo Old City",
-                  "text": "Aleppo Old City ist eine archäologische Stätte in Aleppo. Sie ist als UNESCO-Weltkulturerbe bekannt.",
-                  "category": "historical",
-                  "coords": [
-                        37.163613,
-                        36.199469
-                  ]
-            },
-            {
-                  "name": "Museum of Popular Tradition",
-                  "text": "Das Museum für Volkstradition in Aleppo zeigt die Alltagskultur der syrischen Stadt.",
-                  "category": "museum",
-                  "coords": [
-                        37.156521,
-                        36.205996
-                  ]
-            },
-            {
                   "name": "Arghuni Bimaristan",
                   "text": "Das Arghuni Bimaristan in Aleppo ist ein mittelalterliches Krankenhaus, das heute Museum ist.",
                   "category": "museum",
                   "coords": [
                         37.156854,
                         36.196697
-                  ]
-            },
-            {
-                  "name": "National Museum of Aleppo",
-                  "text": "Das Nationalmuseum von Aleppo ist in einem ehemaligen osmanischen Palast untergebracht und zeigt archäologische Funde.",
-                  "category": "museum",
-                  "coords": [
-                        37.150264,
-                        36.203517
-                  ]
-            },
-            {
-                  "name": "Eisentor",
-                  "text": "Bab al-Hadid ist ein Denkmal in Aleppo. Es ist eines der historischen Tore der antiken Stadt.",
-                  "category": "historical",
-                  "coords": [
-                        37.167286,
-                        36.203346
-                  ]
-            },
-            {
-                  "name": "Bab al-Jinan",
-                  "text": "Bab al-Jinan ist eine Ruinenstätte in Aleppo. Sie markiert den Standort eines der ehemaligen Stadttore.",
-                  "category": "historical",
-                  "coords": [
-                        37.151897,
-                        36.201746
                   ]
             },
             {
@@ -99,111 +54,12 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Sultaniyeh Mosque Ruins",
-                  "text": "Al Sultaniyeh Mosque Ruins ist ein Denkmal in Aleppo. Es ist als historischer religiöser und pädagogischer Komplex bekannt.",
-                  "category": "historical",
-                  "coords": [
-                        37.16187,
-                        36.197206
-                  ]
-            },
-            {
-                  "name": "Bab al-Faraj",
-                  "text": "Bab al-Faraj ist eines der antiken Tore der Altstadt von Aleppo und blickt auf das Tal.",
-                  "category": "historical",
-                  "coords": [
-                        37.152755,
-                        36.204059
-                  ]
-            },
-            {
-                  "name": "Bab Antakeya",
-                  "text": "Bab Antakeya ist das südliche Tor der Altstadt von Aleppo, benannt nach Antiochia.",
-                  "category": "historical",
-                  "coords": [
-                        37.151613,
-                        36.198858
-                  ]
-            },
-            {
-                  "name": "Bab al-Maqam",
-                  "text": "Bab al-Maqam führt zur Abrahams-Schrein in Aleppo.",
-                  "category": "historical",
-                  "coords": [
-                        37.160471,
-                        36.192091
-                  ]
-            },
-            {
-                  "name": "Bab al-Nasr",
-                  "text": "Bab al-Nasr ist das größte Tor der Altstadt von Aleppo aus dem 13. Jahrhundert.",
-                  "category": "historical",
-                  "coords": [
-                        37.160642,
-                        36.204031
-                  ]
-            },
-            {
-                  "name": "Bab Qinnesrin",
-                  "text": "Bab Qinnesrin ist das südwestliche Tor der Altstadt von Aleppo in Richtung Qinnesrin.",
-                  "category": "historical",
-                  "coords": [
-                        37.155899,
-                        36.194488
-                  ]
-            },
-            {
                   "name": "Al Matbkh Al Ajami",
                   "text": "Al Matbkh Al Ajami ist ein restaurierter ayyubidischer Palast in der Altstadt von Aleppo.",
                   "category": "historical",
                   "coords": [
                         37.158531,
                         36.200208
-                  ]
-            },
-            {
-                  "name": "Mosque of Abraham",
-                  "text": "Die Abraham-Moschee in Aleppo markiert die Stelle, an der Abraham gebetet haben soll.",
-                  "category": "historical",
-                  "coords": [
-                        37.162135,
-                        36.199373
-                  ]
-            },
-            {
-                  "name": "Al-Andalus district",
-                  "text": "Der Al-Andalus-Bezirk in Aleppo ist ein Wohngebiet, benannt nach dem maurischen Spanien.",
-                  "category": "natural",
-                  "coords": [
-                        37.12122,
-                        36.221422
-                  ]
-            },
-            {
-                  "name": "Fardos district",
-                  "text": "Der Fardos-Bezirk in Aleppo ist ein grünes Wohnviertel („Paradies“).",
-                  "category": "natural",
-                  "coords": [
-                        37.147871,
-                        36.186388
-                  ]
-            },
-            {
-                  "name": "Kallaseh district",
-                  "text": "Der Kallaseh-Bezirk in Aleppo ist ein historisches christliches Viertel.",
-                  "category": "natural",
-                  "coords": [
-                        37.147522,
-                        36.192276
-                  ]
-            },
-            {
-                  "name": "Qal'at al-Sharif district",
-                  "text": "Der Qal'at al-Sharif-Bezirk in Aleppo liegt auf einem Hügel in der Nähe der Zitadelle.",
-                  "category": "natural",
-                  "coords": [
-                        37.157698,
-                        36.193975
                   ]
             },
             {
@@ -214,117 +70,9 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                         37.125608,
                         36.19142
                   ]
-            },
-            {
-                  "name": "I love Aleppo",
-                  "text": "„I love Aleppo“ ist ein Wahrzeichen-Schild im Stadtzentrum von Aleppo.",
-                  "category": "historical",
-                  "coords": [
-                        37.147618,
-                        36.207104
-                  ]
-            },
-            {
-                  "name": "ALP461 Ansari 2",
-                  "text": "ALP461 Ansari 2 ist ein benanntes Grundstück im Ansari-Viertel von Aleppo.",
-                  "category": "natural",
-                  "coords": [
-                        37.143113,
-                        36.176994
-                  ]
-            },
-            {
-                  "name": "Al-Saffahiyah Mosque",
-                  "text": "Al-Saffahiyah Mosque ist eine Kultstätte in Aleppo. Es ist eine wichtige historische Moschee in der Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        37.160497,
-                        36.197379
-                  ]
-            },
-            {
-                  "name": "Al-Rahman Mosque",
-                  "text": "Al-Rahman Mosque ist eine Kultstätte in Aleppo. Es ist eine bekannte lokale Moschee.",
-                  "category": "religious",
-                  "coords": [
-                        37.138261,
-                        36.216264
-                  ]
-            },
-            {
-                  "name": "Mahmandar Mosque",
-                  "text": "Mahmandar Mosque ist eine Kultstätte in Aleppo. Sie ist als alte historische Moschee anerkannt.",
-                  "category": "religious",
-                  "coords": [
-                        37.159774,
-                        36.202325
-                  ]
-            },
-            {
-                  "name": "Al-Bahramiyya Mosque",
-                  "text": "Die Al-Bahramiyya-Moschee ist eine historische Moschee aus der Mamlukenzeit mit einer großen Kuppel im alten Aleppo.",
-                  "category": "religious",
-                  "coords": [
-                        37.154668,
-                        36.198239
-                  ]
-            },
-            {
-                  "name": "Al-Tawashi Mosque",
-                  "text": "Al-Tawashi Mosque ist eine Kultstätte in Aleppo. Sie ist als historische Moschee in der Gegend bekannt.",
-                  "category": "religious",
-                  "coords": [
-                        37.161877,
-                        36.194926
-                  ]
-            },
-            {
-                  "name": "Al-Adiliyah Mosque",
-                  "text": "Al-Adiliyah Mosque ist eine Kultstätte in Aleppo. Es ist ein bedeutender Moscheekomplex aus der osmanischen Zeit.",
-                  "category": "religious",
-                  "coords": [
-                        37.157757,
-                        36.197396
-                  ]
-            },
-            {
-                  "name": "Altun Bogha Mosque",
-                  "text": "Die Altun Bogha-Moschee ist eine Mamluken-Moschee mit einem schwarz-weiß gestreiften Minarett in Aleppo.",
-                  "category": "religious",
-                  "coords": [
-                        37.166474,
-                        36.196587
-                  ]
-            },
-            {
-                  "name": "Al-Tawhid Mosque",
-                  "text": "Al-Tawhid Mosque ist eine Kultstätte in Aleppo. Sie verfügt über eine bemerkenswerte moderne Architektur.",
-                  "category": "religious",
-                  "coords": [
-                        37.153397,
-                        36.214334
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Aleppo Old City",
-                  "text": "Az Aleppo Old City egy régészeti lelőhely Aleppóban. Az UNESCO Világörökség részeként ismert.",
-                  "category": "historical",
-                  "coords": [
-                        37.163613,
-                        36.199469
-                  ]
-            },
-            {
-                  "name": "Museum of Popular Tradition",
-                  "text": "Az aleppói Népi Hagyományok Múzeuma a város hétköznapi életét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        37.156521,
-                        36.205996
-                  ]
-            },
             {
                   "name": "Arghuni Bimaristan",
                   "text": "Az aleppói Arghuni Bimaristan egy középkori kórház, ma múzeum.",
@@ -332,33 +80,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   "coords": [
                         37.156854,
                         36.196697
-                  ]
-            },
-            {
-                  "name": "National Museum of Aleppo",
-                  "text": "Az aleppói Nemzeti Múzeum egy egykori oszmán palotában található, régészeti leletekkel.",
-                  "category": "museum",
-                  "coords": [
-                        37.150264,
-                        36.203517
-                  ]
-            },
-            {
-                  "name": "Bab al-Hadid",
-                  "text": "A Bab al-Hadid egy emlékmű Aleppóban. Az ősi város egyik történelmi kapuja.",
-                  "category": "historical",
-                  "coords": [
-                        37.167286,
-                        36.203346
-                  ]
-            },
-            {
-                  "name": "Bab al-Jinan",
-                  "text": "A Bab al-Jinan egy romterület Aleppóban. Az egyik egykori városkapu helyét jelöli.",
-                  "category": "historical",
-                  "coords": [
-                        37.151897,
-                        36.201746
                   ]
             },
             {
@@ -371,111 +92,12 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Sultaniyeh Mosque Ruins",
-                  "text": "Az Al Sultaniyeh Mosque Ruins egy emlékmű Aleppóban. Történelmi vallási és oktatási komplexumként ismert.",
-                  "category": "historical",
-                  "coords": [
-                        37.16187,
-                        36.197206
-                  ]
-            },
-            {
-                  "name": "Bab al-Faraj",
-                  "text": "Bab al-Faraj Aleppó óvárosának egyik régi kapuja, a völgyre néz.",
-                  "category": "historical",
-                  "coords": [
-                        37.152755,
-                        36.204059
-                  ]
-            },
-            {
-                  "name": "Bab Antakeya",
-                  "text": "Bab Antakeja Aleppó óvárosának déli kapuja, Antiokiáról elnevezve.",
-                  "category": "historical",
-                  "coords": [
-                        37.151613,
-                        36.198858
-                  ]
-            },
-            {
-                  "name": "Bab al-Maqam",
-                  "text": "Bab al-Maqam Aleppóban Ábrahám szentélyéhez vezet.",
-                  "category": "historical",
-                  "coords": [
-                        37.160471,
-                        36.192091
-                  ]
-            },
-            {
-                  "name": "Bab al-Nasr",
-                  "text": "Bab an-Naszr Aleppó óvárosának legnagyobb kapuja a 13. századból.",
-                  "category": "historical",
-                  "coords": [
-                        37.160642,
-                        36.204031
-                  ]
-            },
-            {
-                  "name": "Bab Qinnesrin",
-                  "text": "Bab Qinnesrin Aleppó óvárosának délnyugati kapuja Qinnesrin felé.",
-                  "category": "historical",
-                  "coords": [
-                        37.155899,
-                        36.194488
-                  ]
-            },
-            {
                   "name": "Al Matbkh Al Ajami",
                   "text": "Al Matbkh Al Ajami egy helyreállított ajjúbida palota Aleppó óvárosában.",
                   "category": "historical",
                   "coords": [
                         37.158531,
                         36.200208
-                  ]
-            },
-            {
-                  "name": "Mosque of Abraham",
-                  "text": "Az aleppói Ábrahám-mecset azt a helyet jelöli, ahol Ábrahám imádkozott.",
-                  "category": "historical",
-                  "coords": [
-                        37.162135,
-                        36.199373
-                  ]
-            },
-            {
-                  "name": "Al-Andalus district",
-                  "text": "Az aleppói Al-Andalus negyed egy lakónegyed, a mór Spanyolországról elnevezve.",
-                  "category": "natural",
-                  "coords": [
-                        37.12122,
-                        36.221422
-                  ]
-            },
-            {
-                  "name": "Fardos district",
-                  "text": "Az aleppói Fardos negyed egy zöld lakónegyed („Paradicsom”).",
-                  "category": "natural",
-                  "coords": [
-                        37.147871,
-                        36.186388
-                  ]
-            },
-            {
-                  "name": "Kallaseh district",
-                  "text": "Az aleppói Kallaseh negyed egy történelmi keresztény negyed.",
-                  "category": "natural",
-                  "coords": [
-                        37.147522,
-                        36.192276
-                  ]
-            },
-            {
-                  "name": "Qal'at al-Sharif district",
-                  "text": "Az aleppói Qal'at al-Sharif negyed egy dombon fekszik a citadella közelében.",
-                  "category": "natural",
-                  "coords": [
-                        37.157698,
-                        36.193975
                   ]
             },
             {
@@ -486,117 +108,9 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                         37.125608,
                         36.19142
                   ]
-            },
-            {
-                  "name": "I love Aleppo",
-                  "text": "„I love Aleppo” egy emlékműszerű tábla Aleppó központjában.",
-                  "category": "historical",
-                  "coords": [
-                        37.147618,
-                        36.207104
-                  ]
-            },
-            {
-                  "name": "ALP461 Ansari 2",
-                  "text": "ALP461 Ansari 2 egy elnevezett telek Aleppó Ansari negyedében.",
-                  "category": "natural",
-                  "coords": [
-                        37.143113,
-                        36.176994
-                  ]
-            },
-            {
-                  "name": "Al-Saffahiyah Mosque",
-                  "text": "Az Al-Saffahiyah Mosque egy istentiszteleti hely Aleppóban. Ez egy fontos történelmi mecset a városban.",
-                  "category": "religious",
-                  "coords": [
-                        37.160497,
-                        36.197379
-                  ]
-            },
-            {
-                  "name": "Al-Rahman Mosque",
-                  "text": "Az Al-Rahman Mosque egy istentiszteleti hely Aleppóban. Ez egy kiemelkedő helyi mecset.",
-                  "category": "religious",
-                  "coords": [
-                        37.138261,
-                        36.216264
-                  ]
-            },
-            {
-                  "name": "Mahmandar Mosque",
-                  "text": "A Mahmandar Mosque egy istentiszteleti hely Aleppóban. Régi történelmi mecsetként ismert.",
-                  "category": "religious",
-                  "coords": [
-                        37.159774,
-                        36.202325
-                  ]
-            },
-            {
-                  "name": "Al-Bahramiyya Mosque",
-                  "text": "Az Al-Bahramiyya mecset egy történelmi mamluk kori mecset nagy kupolával a régi Aleppóban.",
-                  "category": "religious",
-                  "coords": [
-                        37.154668,
-                        36.198239
-                  ]
-            },
-            {
-                  "name": "Al-Tawashi Mosque",
-                  "text": "Az Al-Tawashi Mosque egy istentiszteleti hely Aleppóban. Történelmi mecsetként ismert a környéken.",
-                  "category": "religious",
-                  "coords": [
-                        37.161877,
-                        36.194926
-                  ]
-            },
-            {
-                  "name": "Al-Adiliyah Mosque",
-                  "text": "Az Al-Adiliyah Mosque egy istentiszteleti hely Aleppóban. Ez egy jelentős mecsetkomplexum az oszmán időszakból.",
-                  "category": "religious",
-                  "coords": [
-                        37.157757,
-                        36.197396
-                  ]
-            },
-            {
-                  "name": "Altun Bogha Mosque",
-                  "text": "Az Altun Bogha-mecset egy mamluk mecset fekete-fehér csíkos minarettel Aleppóban.",
-                  "category": "religious",
-                  "coords": [
-                        37.166474,
-                        36.196587
-                  ]
-            },
-            {
-                  "name": "Al-Tawhid Mosque",
-                  "text": "Az Al-Tawhid Mosque egy istentiszteleti hely Aleppóban. Jelentős modern építészettel rendelkezik.",
-                  "category": "religious",
-                  "coords": [
-                        37.153397,
-                        36.214334
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Aleppo Old City",
-                  "text": "Aleppo Old City este un sit arheologic din Alep. Este renumit ca sit al Patrimoniului Mondial UNESCO.",
-                  "category": "historical",
-                  "coords": [
-                        37.163613,
-                        36.199469
-                  ]
-            },
-            {
-                  "name": "Museum of Popular Tradition",
-                  "text": "Muzeul Tradițiilor Populare din Alep prezintă cultura cotidiană a orașului sirian.",
-                  "category": "museum",
-                  "coords": [
-                        37.156521,
-                        36.205996
-                  ]
-            },
             {
                   "name": "Arghuni Bimaristan",
                   "text": "Arghuni Bimaristan din Alep este un spital medieval transformat în muzeu.",
@@ -604,33 +118,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   "coords": [
                         37.156854,
                         36.196697
-                  ]
-            },
-            {
-                  "name": "National Museum of Aleppo",
-                  "text": "Muzeul Național din Alep este găzduit într-un fost palat otoman, cu artefacte arheologice.",
-                  "category": "museum",
-                  "coords": [
-                        37.150264,
-                        36.203517
-                  ]
-            },
-            {
-                  "name": "Bab al-Hadid",
-                  "text": "Bab al-Hadid este un monument în Alep. Este una dintre porțile istorice ale orașului antic.",
-                  "category": "historical",
-                  "coords": [
-                        37.167286,
-                        36.203346
-                  ]
-            },
-            {
-                  "name": "Bab al-Jinan",
-                  "text": "Bab al-Jinan este un sit în ruină situat în Alep. Acesta marchează locația uneia dintre fostele porți ale orașului.",
-                  "category": "historical",
-                  "coords": [
-                        37.151897,
-                        36.201746
                   ]
             },
             {
@@ -643,111 +130,12 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Sultaniyeh Mosque Ruins",
-                  "text": "Al Sultaniyeh Mosque Ruins este un monument situat în Alep. Este cunoscut ca un complex religios și educațional istoric.",
-                  "category": "historical",
-                  "coords": [
-                        37.16187,
-                        36.197206
-                  ]
-            },
-            {
-                  "name": "Bab al-Faraj",
-                  "text": "Bab al-Faraj este una dintre porțile antice ale orașului vechi din Alep, cu vedere spre vale.",
-                  "category": "historical",
-                  "coords": [
-                        37.152755,
-                        36.204059
-                  ]
-            },
-            {
-                  "name": "Bab Antakeya",
-                  "text": "Bab Antakeya este poarta sudică a orașului vechi din Alep, numită după Antiohia.",
-                  "category": "historical",
-                  "coords": [
-                        37.151613,
-                        36.198858
-                  ]
-            },
-            {
-                  "name": "Bab al-Maqam",
-                  "text": "Bab al-Maqam duce la sanctuarul lui Avraam din Alep.",
-                  "category": "historical",
-                  "coords": [
-                        37.160471,
-                        36.192091
-                  ]
-            },
-            {
-                  "name": "Bab al-Nasr",
-                  "text": "Bab al-Nasr este cea mai mare poartă a orașului vechi din Alep, datând din secolul al XIII-lea.",
-                  "category": "historical",
-                  "coords": [
-                        37.160642,
-                        36.204031
-                  ]
-            },
-            {
-                  "name": "Bab Qinnesrin",
-                  "text": "Bab Qinnesrin este poarta de sud-vest a orașului vechi din Alep, către Qinnesrin.",
-                  "category": "historical",
-                  "coords": [
-                        37.155899,
-                        36.194488
-                  ]
-            },
-            {
                   "name": "Al Matbkh Al Ajami",
                   "text": "Al Matbkh Al Ajami este un palat ayyubid restaurat în orașul vechi din Alep.",
                   "category": "historical",
                   "coords": [
                         37.158531,
                         36.200208
-                  ]
-            },
-            {
-                  "name": "Mosque of Abraham",
-                  "text": "Moscheea lui Avraam din Alep marchează locul unde se spune că Avraam s-a rugat.",
-                  "category": "historical",
-                  "coords": [
-                        37.162135,
-                        36.199373
-                  ]
-            },
-            {
-                  "name": "Al-Andalus district",
-                  "text": "Cartierul Al-Andalus din Alep este o zonă rezidențială numită după Spania maură.",
-                  "category": "natural",
-                  "coords": [
-                        37.12122,
-                        36.221422
-                  ]
-            },
-            {
-                  "name": "Fardos district",
-                  "text": "Cartierul Fardos din Alep este o zonă rezidențială verde („Paradis”).",
-                  "category": "natural",
-                  "coords": [
-                        37.147871,
-                        36.186388
-                  ]
-            },
-            {
-                  "name": "Kallaseh district",
-                  "text": "Cartierul Kallaseh din Alep este un cartier istoric creștin.",
-                  "category": "natural",
-                  "coords": [
-                        37.147522,
-                        36.192276
-                  ]
-            },
-            {
-                  "name": "Qal'at al-Sharif district",
-                  "text": "Cartierul Qal'at al-Sharif din Alep este situat pe o colină lângă cetate.",
-                  "category": "natural",
-                  "coords": [
-                        37.157698,
-                        36.193975
                   ]
             },
             {
@@ -758,117 +146,9 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                         37.125608,
                         36.19142
                   ]
-            },
-            {
-                  "name": "I love Aleppo",
-                  "text": "„I love Aleppo” este un semn emblematic în centrul orașului Alep.",
-                  "category": "historical",
-                  "coords": [
-                        37.147618,
-                        36.207104
-                  ]
-            },
-            {
-                  "name": "ALP461 Ansari 2",
-                  "text": "ALP461 Ansari 2 este un lot denumit în cartierul Ansari din Alep.",
-                  "category": "natural",
-                  "coords": [
-                        37.143113,
-                        36.176994
-                  ]
-            },
-            {
-                  "name": "Al-Saffahiyah Mosque",
-                  "text": "Al-Saffahiyah Mosque este un lăcaș de cult situat în Alep. Este o importantă moschee istorică din oraș.",
-                  "category": "religious",
-                  "coords": [
-                        37.160497,
-                        36.197379
-                  ]
-            },
-            {
-                  "name": "Al-Rahman Mosque",
-                  "text": "Al-Rahman Mosque este un lăcaș de cult situat în Alep. Este o moschee locală proeminentă.",
-                  "category": "religious",
-                  "coords": [
-                        37.138261,
-                        36.216264
-                  ]
-            },
-            {
-                  "name": "Mahmandar Mosque",
-                  "text": "Mahmandar Mosque este un lăcaș de cult situat în Alep. Este recunoscută ca o moschee istorică antică.",
-                  "category": "religious",
-                  "coords": [
-                        37.159774,
-                        36.202325
-                  ]
-            },
-            {
-                  "name": "Al-Bahramiyya Mosque",
-                  "text": "Moscheea Al-Bahramiyya este o moschee istorică din perioada mamelucă, cu o cupolă mare în vechiul Alep.",
-                  "category": "religious",
-                  "coords": [
-                        37.154668,
-                        36.198239
-                  ]
-            },
-            {
-                  "name": "Al-Tawashi Mosque",
-                  "text": "Al-Tawashi Mosque este un lăcaș de cult situat în Alep. Este cunoscută ca o moschee istorică în zonă.",
-                  "category": "religious",
-                  "coords": [
-                        37.161877,
-                        36.194926
-                  ]
-            },
-            {
-                  "name": "Al-Adiliyah Mosque",
-                  "text": "Al-Adiliyah Mosque este un lăcaș de cult situat în Alep. Este un complex de moschei semnificativ din perioada otomană.",
-                  "category": "religious",
-                  "coords": [
-                        37.157757,
-                        36.197396
-                  ]
-            },
-            {
-                  "name": "Altun Bogha Mosque",
-                  "text": "Moscheea Altun Bogha este o moschee mamelucă cu un minaret cu dungi alb-negru în Alep.",
-                  "category": "religious",
-                  "coords": [
-                        37.166474,
-                        36.196587
-                  ]
-            },
-            {
-                  "name": "Al-Tawhid Mosque",
-                  "text": "Al-Tawhid Mosque este un lăcaș de cult situat în Alep. Prezintă o arhitectură modernă notabilă.",
-                  "category": "religious",
-                  "coords": [
-                        37.153397,
-                        36.214334
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Aleppo Old City",
-                  "text": "Aleppo Old City is an archaeological site in Aleppo. It is renowned as a UNESCO World Heritage site.",
-                  "category": "historical",
-                  "coords": [
-                        37.163613,
-                        36.199469
-                  ]
-            },
-            {
-                  "name": "Museum of Popular Tradition",
-                  "text": "Museum of Popular Tradition in Aleppo exhibits the city's everyday folk culture.",
-                  "category": "museum",
-                  "coords": [
-                        37.156521,
-                        36.205996
-                  ]
-            },
             {
                   "name": "Arghuni Bimaristan",
                   "text": "Arghuni Bimaristan in Aleppo is a medieval hospital turned museum.",
@@ -876,33 +156,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   "coords": [
                         37.156854,
                         36.196697
-                  ]
-            },
-            {
-                  "name": "National Museum of Aleppo",
-                  "text": "National Museum of Aleppo is housed in a former Ottoman palace, displaying archaeological finds.",
-                  "category": "museum",
-                  "coords": [
-                        37.150264,
-                        36.203517
-                  ]
-            },
-            {
-                  "name": "Bab al-Hadid",
-                  "text": "Bab al-Hadid is a monument in Aleppo. It is one of the historic gates of the ancient city.",
-                  "category": "historical",
-                  "coords": [
-                        37.167286,
-                        36.203346
-                  ]
-            },
-            {
-                  "name": "Bab al-Jinan",
-                  "text": "Bab al-Jinan is a ruins site located in Aleppo. It marks the location of one of the former city gates.",
-                  "category": "historical",
-                  "coords": [
-                        37.151897,
-                        36.201746
                   ]
             },
             {
@@ -915,60 +168,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Sultaniyeh Mosque Ruins",
-                  "text": "Al Sultaniyeh Mosque Ruins is a monument situated in Aleppo. It is known as a historic religious and educational complex.",
-                  "category": "historical",
-                  "coords": [
-                        37.16187,
-                        36.197206
-                  ]
-            },
-            {
-                  "name": "Bab al-Faraj",
-                  "text": "Bab al-Faraj is one of the ancient gates of Aleppo's old city overlooking the valley.",
-                  "category": "historical",
-                  "coords": [
-                        37.152755,
-                        36.204059
-                  ]
-            },
-            {
-                  "name": "Bab Antakeya",
-                  "text": "Bab Antakeya is the southern gate of Aleppo's old city, named after Antioch.",
-                  "category": "historical",
-                  "coords": [
-                        37.151613,
-                        36.198858
-                  ]
-            },
-            {
-                  "name": "Bab al-Maqam",
-                  "text": "Bab al-Maqam leads to the shrine of Abraham in Aleppo.",
-                  "category": "historical",
-                  "coords": [
-                        37.160471,
-                        36.192091
-                  ]
-            },
-            {
-                  "name": "Bab al-Nasr",
-                  "text": "Bab al-Nasr is the largest gate of Aleppo's old city, dating from the 13th century.",
-                  "category": "historical",
-                  "coords": [
-                        37.160642,
-                        36.204031
-                  ]
-            },
-            {
-                  "name": "Bab Qinnesrin",
-                  "text": "Bab Qinnesrin is the southwestern gate of Aleppo's old city, leading towards Qinnesrin.",
-                  "category": "historical",
-                  "coords": [
-                        37.155899,
-                        36.194488
-                  ]
-            },
-            {
                   "name": "Al Matbkh Al Ajami",
                   "text": "Al Matbkh Al Ajami is a restored Ayyubid palace in Aleppo's old city.",
                   "category": "historical",
@@ -978,147 +177,12 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mosque of Abraham",
-                  "text": "Mosque of Abraham in Aleppo marks the spot where Abraham is said to have prayed.",
-                  "category": "historical",
-                  "coords": [
-                        37.162135,
-                        36.199373
-                  ]
-            },
-            {
-                  "name": "Al-Andalus district",
-                  "text": "Al-Andalus district in Aleppo is a residential area named after Moorish Spain.",
-                  "category": "natural",
-                  "coords": [
-                        37.12122,
-                        36.221422
-                  ]
-            },
-            {
-                  "name": "Fardos district",
-                  "text": "Fardos district in Aleppo is a green residential area („Paradise”).",
-                  "category": "natural",
-                  "coords": [
-                        37.147871,
-                        36.186388
-                  ]
-            },
-            {
-                  "name": "Kallaseh district",
-                  "text": "Kallaseh district in Aleppo is a historic Christian quarter.",
-                  "category": "natural",
-                  "coords": [
-                        37.147522,
-                        36.192276
-                  ]
-            },
-            {
-                  "name": "Qal'at al-Sharif district",
-                  "text": "Qal'at al-Sharif district in Aleppo is a hilltop residential area near the citadel.",
-                  "category": "natural",
-                  "coords": [
-                        37.157698,
-                        36.193975
-                  ]
-            },
-            {
                   "name": "Sayf al-Dawla",
                   "text": "Sayf al-Dawla district in Aleppo is named after the medieval Hamdanid ruler.",
                   "category": "natural",
                   "coords": [
                         37.125608,
                         36.19142
-                  ]
-            },
-            {
-                  "name": "I love Aleppo",
-                  "text": "„I love Aleppo” is a landmark sign in Aleppo city center.",
-                  "category": "historical",
-                  "coords": [
-                        37.147618,
-                        36.207104
-                  ]
-            },
-            {
-                  "name": "ALP461 Ansari 2",
-                  "text": "ALP461 Ansari 2 is a named plot in the Ansari neighborhood of Aleppo.",
-                  "category": "natural",
-                  "coords": [
-                        37.143113,
-                        36.176994
-                  ]
-            },
-            {
-                  "name": "Al-Saffahiyah Mosque",
-                  "text": "Al-Saffahiyah Mosque is a place of worship located in Aleppo. It is an important historic mosque in the city.",
-                  "category": "religious",
-                  "coords": [
-                        37.160497,
-                        36.197379
-                  ]
-            },
-            {
-                  "name": "Al-Rahman Mosque",
-                  "text": "Al-Rahman Mosque is a place of worship situated in Aleppo. It is a prominent local mosque.",
-                  "category": "religious",
-                  "coords": [
-                        37.138261,
-                        36.216264
-                  ]
-            },
-            {
-                  "name": "Mahmandar Mosque",
-                  "text": "Mahmandar Mosque is a place of worship located in Aleppo. It is recognized as an ancient historic mosque.",
-                  "category": "religious",
-                  "coords": [
-                        37.159774,
-                        36.202325
-                  ]
-            },
-            {
-                  "name": "Al-Bahramiyya Mosque",
-                  "text": "Al-Bahramiyya Mosque is a historic Mamluk-era mosque with a large dome in old Aleppo.",
-                  "category": "religious",
-                  "coords": [
-                        37.154668,
-                        36.198239
-                  ]
-            },
-            {
-                  "name": "Al-Tawashi Mosque",
-                  "text": "Al-Tawashi Mosque is a place of worship situated in Aleppo. It is known as a historic mosque in the area.",
-                  "category": "religious",
-                  "coords": [
-                        37.161877,
-                        36.194926
-                  ]
-            },
-            {
-                  "name": "Al-Adiliyah Mosque",
-                  "text": "Al-Adiliyah Mosque is a place of worship located in Aleppo. It is a significant mosque complex from the Ottoman period.",
-                  "category": "religious",
-                  "coords": [
-                        37.157757,
-                        36.197396
-                  ]
-            },
-            {
-                  "name": "Altun Bogha Mosque",
-                  "text": "Altun Bogha Mosque is a Mamluk mosque with a black-and-white striped minaret in Aleppo.",
-                  "category": "religious",
-                  "coords": [
-                        37.166474,
-                        36.196587
-                  ]
-            },
-            {
-                  "name": "Al-Tawhid Mosque",
-                  "text": "Al-Tawhid Mosque is a place of worship situated in Aleppo. It features notable modern architecture.",
-                  "category": "religious",
-                  "coords": [
-                        37.153397,
-                        36.214334
                   ]
             }
       ]
@@ -3362,24 +2426,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Raqqa Museum",
-                  "text": "Museum mit Funden aus der reichen Geschichte der Region Rakka.",
-                  "category": "museum",
-                  "coords": [
-                        39.016724,
-                        35.945835
-                  ]
-            },
-            {
-                  "name": "Baghdad Gate",
-                  "text": "Eindrucksvolles abbasidisches Stadttor aus dem 8. Jahrhundert.",
-                  "category": "castle",
-                  "coords": [
-                        39.027167,
-                        35.942918
-                  ]
-            },
-            {
                   "name": "Amfiteatr",
                   "text": "Kulturelle Veranstaltungsstätte und Amphitheater in der Stadt Rakka.",
                   "category": "cultural",
@@ -3395,15 +2441,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   "coords": [
                         39.02087,
                         35.951912
-                  ]
-            },
-            {
-                  "name": "Qasr al-Banat",
-                  "text": "Qasr al-Banat ist ein historischer Palast in der Nähe des Euphrat in Raqqah.",
-                  "category": "historical",
-                  "coords": [
-                        39.026189,
-                        35.948008
                   ]
             }
       ],
@@ -3427,24 +2464,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Raqqa Museum",
-                  "text": "Múzeum, amely Rakka régiójának gazdag történelmi emlékeit őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        39.016724,
-                        35.945835
-                  ]
-            },
-            {
-                  "name": "Baghdad Gate",
-                  "text": "Hatásos abbászida városkapu a 8. századból.",
-                  "category": "castle",
-                  "coords": [
-                        39.027167,
-                        35.942918
-                  ]
-            },
-            {
                   "name": "Amfiteatr",
                   "text": "Kulturális rendezvényhelyszín és amfiteátrum Rakka városában.",
                   "category": "cultural",
@@ -3460,15 +2479,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   "coords": [
                         39.02087,
                         35.951912
-                  ]
-            },
-            {
-                  "name": "Qasr al-Banat",
-                  "text": "Qasr al-Banat egy történelmi palota az Eufrátesz közelében Rakkában.",
-                  "category": "historical",
-                  "coords": [
-                        39.026189,
-                        35.948008
                   ]
             }
       ],
@@ -3492,24 +2502,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Raqqa Museum",
-                  "text": "Muzeu ce adăpostește descoperiri din istoria bogată a regiunii Raqqa.",
-                  "category": "museum",
-                  "coords": [
-                        39.016724,
-                        35.945835
-                  ]
-            },
-            {
-                  "name": "Baghdad Gate",
-                  "text": "Poartă impresionantă a orașului din epoca abbasidă (secolul VIII).",
-                  "category": "castle",
-                  "coords": [
-                        39.027167,
-                        35.942918
-                  ]
-            },
-            {
                   "name": "Amfiteatr",
                   "text": "Locație pentru evenimente culturale și amfiteatru în orașul Raqqa.",
                   "category": "cultural",
@@ -3525,15 +2517,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   "coords": [
                         39.02087,
                         35.951912
-                  ]
-            },
-            {
-                  "name": "Qasr al-Banat",
-                  "text": "Qasr al-Banat este un palat istoric lângă Eufrat în Raqqa.",
-                  "category": "historical",
-                  "coords": [
-                        39.026189,
-                        35.948008
                   ]
             }
       ],
@@ -3557,24 +2540,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Raqqa Museum",
-                  "text": "Museum housing finds from the rich history of the Raqqa region.",
-                  "category": "museum",
-                  "coords": [
-                        39.016724,
-                        35.945835
-                  ]
-            },
-            {
-                  "name": "Baghdad Gate",
-                  "text": "Impressive Abbasid city gate dating back to the 8th century.",
-                  "category": "castle",
-                  "coords": [
-                        39.027167,
-                        35.942918
-                  ]
-            },
-            {
                   "name": "Amfiteatr",
                   "text": "Cultural event venue and amphitheater in the city of Raqqa.",
                   "category": "cultural",
@@ -3590,15 +2555,6 @@ export const poiExtraSyriaCitiesV2: POI[] = [
                   "coords": [
                         39.02087,
                         35.951912
-                  ]
-            },
-            {
-                  "name": "Qasr al-Banat",
-                  "text": "Qasr al-Banat is a historic palace near the Euphrates in Raqqah.",
-                  "category": "historical",
-                  "coords": [
-                        39.026189,
-                        35.948008
                   ]
             }
       ]

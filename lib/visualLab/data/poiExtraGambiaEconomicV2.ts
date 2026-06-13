@@ -161,15 +161,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
                         -16.674481,
                         13.462587
                   ]
-            },
-            {
-                  "name": "Pipeline Mosque",
-                  "text": "Diese islamische Kultstätte bietet der lokalen muslimischen Gemeinschaft einen geräumigen Gebetssaal.",
-                  "category": "religious",
-                  "coords": [
-                        -16.685138,
-                        13.457678
-                  ]
             }
       ],
       "hu": [
@@ -180,15 +171,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
                   "coords": [
                         -16.674481,
                         13.462587
-                  ]
-            },
-            {
-                  "name": "Pipeline Mosque",
-                  "text": "Ez az iszlám istentiszteleti hely tágas imatermet biztosít a helyi muszlim közösség számára.",
-                  "category": "religious",
-                  "coords": [
-                        -16.685138,
-                        13.457678
                   ]
             }
       ],
@@ -201,15 +183,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
                         -16.674481,
                         13.462587
                   ]
-            },
-            {
-                  "name": "Pipeline Mosque",
-                  "text": "Acest lăcaș de cult islamic oferă o sală de rugăciune spațioasă pentru comunitatea musulmană locală.",
-                  "category": "religious",
-                  "coords": [
-                        -16.685138,
-                        13.457678
-                  ]
             }
       ],
       "en": [
@@ -220,15 +193,6 @@ export const poiExtraGambiaEconomicV2: POI[] = [
                   "coords": [
                         -16.674481,
                         13.462587
-                  ]
-            },
-            {
-                  "name": "Pipeline Mosque",
-                  "text": "This Islamic place of worship provides a spacious prayer hall for the local Muslim community.",
-                  "category": "religious",
-                  "coords": [
-                        -16.685138,
-                        13.457678
                   ]
             }
       ]

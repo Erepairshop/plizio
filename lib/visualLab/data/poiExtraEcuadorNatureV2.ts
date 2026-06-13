@@ -4512,30 +4512,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plaza Rodolfo Baquerizo Moreno",
-                  "text": "Dieser in die malerische Uferpromenade Malecón del Salado integrierte offene Platz bietet öffentliche Veranstaltungsflächen und malerische Ausblicke auf die Mündungswasserstraße.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.898026,
-                        -2.186948
-                  ]
-            },
-            {
                   "name": "Safari Park",
                   "text": "Dieser familienorientierte Freizeitpark wurde 2009 am Flussufer eröffnet und erfreut Kinder mit seinem klassischen Karussell und den lebhaften Fahrgeschäften.",
                   "category": "recreational",
                   "coords": [
                         -79.896207,
                         -2.186204
-                  ]
-            },
-            {
-                  "name": "Museo Presley Norton",
-                  "text": "Dieses Museum in einer wunderschön restaurierten historischen Villa zeigt eine beeindruckende Sammlung präkolumbianischer archäologischer Artefakte der Küstenkulturen Ecuadors.",
-                  "category": "museum",
-                  "coords": [
-                        -79.895298,
-                        -2.187605
                   ]
             },
             {
@@ -4694,30 +4676,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plaza Rodolfo Baquerizo Moreno",
-                  "text": "A festői Malecón del Salado sétányba integrált nyitott tér nyilvános rendezvényhelyszíneket és gyönyörű kilátást kínál a torkolati víziútra.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.898026,
-                        -2.186948
-                  ]
-            },
-            {
                   "name": "Safari Park",
                   "text": "Ez a folyópart mentén 2009-ben megnyílt családbarát vidámpark klasszikus körhintájával és nyüzsgő vidámparki játékaival örvendezteti meg a gyerekeket.",
                   "category": "recreational",
                   "coords": [
                         -79.896207,
                         -2.186204
-                  ]
-            },
-            {
-                  "name": "Museo Presley Norton",
-                  "text": "Ez a gyönyörűen felújított műemlék villában található múzeum Ecuador tengerparti kultúráinak Kolumbusz előtti régészeti leleteiből mutat be lenyűgöző gyűjteményt.",
-                  "category": "museum",
-                  "coords": [
-                        -79.895298,
-                        -2.187605
                   ]
             },
             {
@@ -4876,30 +4840,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plaza Rodolfo Baquerizo Moreno",
-                  "text": "Integrată în promenada pitorească Malecón del Salado, această piațetă deschisă oferă spații pentru evenimente publice și vederi pitorești ale căii navigabile din estuar.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.898026,
-                        -2.186948
-                  ]
-            },
-            {
                   "name": "Safari Park",
                   "text": "Deschis în 2009 de-a lungul malului râului, acest parc tematic orientat spre familie încântă copiii cu caruselul său clasic și atracțiile de distracție vibrante.",
                   "category": "recreational",
                   "coords": [
                         -79.896207,
                         -2.186204
-                  ]
-            },
-            {
-                  "name": "Museo Presley Norton",
-                  "text": "Găzduit într-o vilă de patrimoniu frumos restaurată, acest muzeu expune o colecție impresionantă de artefacte arheologice precolumbiene din culturile de coastă ale Ecuadorului.",
-                  "category": "museum",
-                  "coords": [
-                        -79.895298,
-                        -2.187605
                   ]
             },
             {
@@ -5058,30 +5004,12 @@ export const poiExtraEcuadorNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plaza Rodolfo Baquerizo Moreno",
-                  "text": "Integrated into the scenic Malecón del Salado boardwalk, this open plaza features public event spaces and scenic views of the estuarine waterway.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.898026,
-                        -2.186948
-                  ]
-            },
-            {
                   "name": "Safari Park",
                   "text": "Opened in 2009 along the riverfront, this family-oriented theme park delights children with its classic carousel and vibrant amusement rides.",
                   "category": "recreational",
                   "coords": [
                         -79.896207,
                         -2.186204
-                  ]
-            },
-            {
-                  "name": "Museo Presley Norton",
-                  "text": "Housed in a beautifully restored heritage villa, this museum exhibits an impressive collection of pre-Columbian archaeological artifacts from Ecuador's coastal cultures.",
-                  "category": "museum",
-                  "coords": [
-                        -79.895298,
-                        -2.187605
                   ]
             },
             {

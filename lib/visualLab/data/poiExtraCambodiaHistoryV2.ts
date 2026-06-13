@@ -6,15 +6,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
     id: "angkor-wat-history-v2", "sights": {
       "de": [
             {
-                  "name": "Angkor National Museum",
-                  "text": "Ein archäologisches Museum, das sich der Erhaltung und Präsentation von Artefakten aus der Angkor-Zeit widmet.",
-                  "category": "museum",
-                  "coords": [
-                        103.859527,
-                        13.366376
-                  ]
-            },
-            {
                   "name": "Angkor Green Gardens",
                   "text": "Ein Park, der als \"Cambodian Cultural Village\" bekannt war und traditionelle Häuser sowie Miniaturmodelle zeigt.",
                   "category": "landmark",
@@ -42,57 +33,12 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Angkor Conservancy",
-                  "text": "Ein Depot, in dem Tausende antike Khmer-Statuen und architektonische Fragmente gelagert und restauriert werden.",
-                  "category": "museum",
-                  "coords": [
-                        103.86463,
-                        13.373402
-                  ]
-            },
-            {
-                  "name": "VIMEAN SOKHA MUSEUM",
-                  "text": "Ein privates Museum, das eine umfangreiche Sammlung von Vintage-Gegenständen und alten Kameras ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        103.856646,
-                        13.385614
-                  ]
-            },
-            {
-                  "name": "MGC Asian Traditional Textiles Museum",
-                  "text": "Ein Museum, das traditionelle Textilien und Webtechniken aus den Ländern entlang des Mekong und Ganges zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        103.880242,
-                        13.375373
-                  ]
-            },
-            {
-                  "name": "Red Khmers Museum",
-                  "text": "Ein historisches Museum, das die tragische Geschichte und die Gräueltaten des Rote-Khmer-Regimes dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        103.860158,
-                        13.382484
-                  ]
-            },
-            {
                   "name": "Preah Norodom Sihanouk-Angkor Museum",
                   "text": "Ein archäologisches Museum, das seltene Artefakte ausstellt, die bei den Ausgrabungen des Banteay-Kdei-Tempels gefunden wurden.",
                   "category": "museum",
                   "coords": [
                         103.880727,
                         13.382109
-                  ]
-            },
-            {
-                  "name": "Angkor Panorama Museum (closed)",
-                  "text": "Ein derzeit geschlossenes Museum, das für sein massives 3D-Rundbild mit Szenen aus dem Khmer-Reich bekannt war.",
-                  "category": "museum",
-                  "coords": [
-                        103.880728,
-                        13.377518
                   ]
             },
             {
@@ -111,24 +57,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   "coords": [
                         103.866932,
                         13.413428
-                  ]
-            },
-            {
-                  "name": "Build Your Future Today Center",
-                  "text": "Ein Kunstzentrum und eine Gemeinschaftseinrichtung, die Handwerksprodukte benachteiligter Familien präsentiert.",
-                  "category": "cultural",
-                  "coords": [
-                        103.866341,
-                        13.364379
-                  ]
-            },
-            {
-                  "name": "Jayav Art",
-                  "text": "Ein Kunstatelier, das sich auf komplizierte Papiermaché-Skulpturen spezialisiert hat, die von der traditionellen Khmer-Kunst inspiriert sind.",
-                  "category": "cultural",
-                  "coords": [
-                        103.862368,
-                        13.380669
                   ]
             },
             {
@@ -186,15 +114,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sacred Dancers of Angkor",
-                  "text": "Eine kulturelle Attraktion mit traditionellen Apsara-Tanzaufführungen im Geiste der klassischen Khmer-Choreografie.",
-                  "category": "landmark",
-                  "coords": [
-                        103.865057,
-                        13.370955
-                  ]
-            },
-            {
                   "name": "Sunrise viewing spot",
                   "text": "Ein ausgewiesener Aussichtspunkt an den Wasserbecken, der dafür berühmt ist, den Sonnenaufgang über den Tempeltürmen zu beobachten.",
                   "category": "landmark",
@@ -222,15 +141,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mortar",
-                  "text": "Eine archäologische Attraktion, die einen alten Mörser zeigt, der früher zum Zerstampfen oder Bauen verwendet wurde.",
-                  "category": "landmark",
-                  "coords": [
-                        103.855521,
-                        13.385191
-                  ]
-            },
-            {
                   "name": "Watermill",
                   "text": "Ein traditionelles Wasserrad in der Nähe von Angkor Wat, das historische Wasserbautechniken demonstriert.",
                   "category": "landmark",
@@ -250,15 +160,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Angkor National Museum",
-                  "text": "Régészeti múzeum, amely az angkori korszakból származó leletek megőrzésének és bemutatásának szenteli magát.",
-                  "category": "museum",
-                  "coords": [
-                        103.859527,
-                        13.366376
-                  ]
-            },
             {
                   "name": "Angkor Green Gardens",
                   "text": "Korábban \"Kambodzsai Kulturális Falu\" néven ismert park, amely hagyományos házakat és miniatűr modelleket mutat be.",
@@ -287,57 +188,12 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Angkor Conservancy",
-                  "text": "Egy raktár- és restaurálóműhely, ahol több ezer ókori khmer szobrot és építészeti töredéket őriznek.",
-                  "category": "museum",
-                  "coords": [
-                        103.86463,
-                        13.373402
-                  ]
-            },
-            {
-                  "name": "VIMEAN SOKHA MUSEUM",
-                  "text": "Magánmúzeum, amely vintage tárgyak és régi fényképezőgépek kiterjedt gyűjteményét állítja ki.",
-                  "category": "museum",
-                  "coords": [
-                        103.856646,
-                        13.385614
-                  ]
-            },
-            {
-                  "name": "MGC Asian Traditional Textiles Museum",
-                  "text": "A Mekong és a Gangesz menti országok hagyományos textíliáit és szövési technikáit bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        103.880242,
-                        13.375373
-                  ]
-            },
-            {
-                  "name": "Red Khmers Museum",
-                  "text": "A Vörös Khmer rezsim tragikus történelmét és atrocitásait dokumentáló történelmi múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        103.860158,
-                        13.382484
-                  ]
-            },
-            {
                   "name": "Preah Norodom Sihanouk-Angkor Museum",
                   "text": "Régészeti múzeum, amely a Banteay Kdei templom ásatásai során előkerült ritka leleteket állítja ki.",
                   "category": "museum",
                   "coords": [
                         103.880727,
                         13.382109
-                  ]
-            },
-            {
-                  "name": "Angkor Panorama Museum (closed)",
-                  "text": "Jelenleg zárva tartó múzeum, amely a Khmer Birodalom jeleneteit ábrázoló hatalmas 3D-s körképéről volt ismert.",
-                  "category": "museum",
-                  "coords": [
-                        103.880728,
-                        13.377518
                   ]
             },
             {
@@ -356,24 +212,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   "coords": [
                         103.866932,
                         13.413428
-                  ]
-            },
-            {
-                  "name": "Build Your Future Today Center",
-                  "text": "Egy művészeti és közösségi központ, amely hátrányos helyzetű családok kézműves termékeit mutatja be.",
-                  "category": "cultural",
-                  "coords": [
-                        103.866341,
-                        13.364379
-                  ]
-            },
-            {
-                  "name": "Jayav Art",
-                  "text": "A hagyományos khmer művészet által ihletett, bonyolult papírmasé szobrokra szakosodott művészeti stúdió.",
-                  "category": "cultural",
-                  "coords": [
-                        103.862368,
-                        13.380669
                   ]
             },
             {
@@ -431,15 +269,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sacred Dancers of Angkor",
-                  "text": "Kulturális látványosság hagyományos apsara táncelőadásokkal, a klasszikus khmer koreográfia szellemében.",
-                  "category": "landmark",
-                  "coords": [
-                        103.865057,
-                        13.370955
-                  ]
-            },
-            {
                   "name": "Sunrise viewing spot",
                   "text": "A medencék melletti kijelölt kilátóhely, amely arról híres, hogy innen nézhető a napfelkelte a templomtornyok felett.",
                   "category": "landmark",
@@ -467,15 +296,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mortar",
-                  "text": "Régészeti látványosság, amely egy régi mozsarat mutat be, amelyet egykor zúzásra vagy építkezéshez használtak.",
-                  "category": "landmark",
-                  "coords": [
-                        103.855521,
-                        13.385191
-                  ]
-            },
-            {
                   "name": "Watermill",
                   "text": "Egy hagyományos vízkerék Angkorvat közelében, amely a történelmi vízemelési technikákat mutatja be.",
                   "category": "landmark",
@@ -495,15 +315,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Angkor National Museum",
-                  "text": "Un muzeu arheologic dedicat conservării și prezentării artefactelor din perioada Angkor.",
-                  "category": "museum",
-                  "coords": [
-                        103.859527,
-                        13.366376
-                  ]
-            },
             {
                   "name": "Angkor Green Gardens",
                   "text": "Un parc, cunoscut anterior sub numele de Satul Cultural Cambodgian, care prezintă case tradiționale și modele în miniatură.",
@@ -532,57 +343,12 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Angkor Conservancy",
-                  "text": "Un depozit unde sunt păstrate și restaurate mii de statui antice khmere și fragmente arhitecturale.",
-                  "category": "museum",
-                  "coords": [
-                        103.86463,
-                        13.373402
-                  ]
-            },
-            {
-                  "name": "VIMEAN SOKHA MUSEUM",
-                  "text": "Un muzeu privat care expune o vastă colecție de obiecte vintage și camere foto vechi.",
-                  "category": "museum",
-                  "coords": [
-                        103.856646,
-                        13.385614
-                  ]
-            },
-            {
-                  "name": "MGC Asian Traditional Textiles Museum",
-                  "text": "Un muzeu care prezintă textile tradiționale și tehnici de țesut din țările situate de-a lungul râurilor Mekong și Gange.",
-                  "category": "museum",
-                  "coords": [
-                        103.880242,
-                        13.375373
-                  ]
-            },
-            {
-                  "name": "Red Khmers Museum",
-                  "text": "Un muzeu istoric care documentează istoria tragică și atrocitățile regimului Khmerilor Roșii.",
-                  "category": "museum",
-                  "coords": [
-                        103.860158,
-                        13.382484
-                  ]
-            },
-            {
                   "name": "Preah Norodom Sihanouk-Angkor Museum",
                   "text": "Un muzeu arheologic care expune artefacte rare descoperite în timpul excavațiilor de la templul Banteay Kdei.",
                   "category": "museum",
                   "coords": [
                         103.880727,
                         13.382109
-                  ]
-            },
-            {
-                  "name": "Angkor Panorama Museum (closed)",
-                  "text": "Un muzeu în prezent închis, cunoscut pentru imensa sa panoramă 3D care înfățișa scene din Imperiul Khmer.",
-                  "category": "museum",
-                  "coords": [
-                        103.880728,
-                        13.377518
                   ]
             },
             {
@@ -601,24 +367,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   "coords": [
                         103.866932,
                         13.413428
-                  ]
-            },
-            {
-                  "name": "Build Your Future Today Center",
-                  "text": "Un centru de artă și comunitar care prezintă obiecte de artizanat realizate de familii defavorizate.",
-                  "category": "cultural",
-                  "coords": [
-                        103.866341,
-                        13.364379
-                  ]
-            },
-            {
-                  "name": "Jayav Art",
-                  "text": "Un studio de artă specializat în sculpturi complicate din papier-mâché, inspirate din arta tradițională khmeră.",
-                  "category": "cultural",
-                  "coords": [
-                        103.862368,
-                        13.380669
                   ]
             },
             {
@@ -676,15 +424,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sacred Dancers of Angkor",
-                  "text": "O atracție culturală care prezintă spectacole de dans tradițional Apsara în spiritul coregrafiei clasice khmere.",
-                  "category": "landmark",
-                  "coords": [
-                        103.865057,
-                        13.370955
-                  ]
-            },
-            {
                   "name": "Sunrise viewing spot",
                   "text": "Un punct de observație desemnat lângă bazinele de apă, renumit pentru vizionarea răsăritului de soare peste turnurile templului.",
                   "category": "landmark",
@@ -712,15 +451,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mortar",
-                  "text": "O atracție arheologică ce expune un mojar vechi, folosit anterior pentru zdrobire sau în construcții.",
-                  "category": "landmark",
-                  "coords": [
-                        103.855521,
-                        13.385191
-                  ]
-            },
-            {
                   "name": "Watermill",
                   "text": "O moară de apă tradițională lângă Angkor Wat, care demonstrează tehnicile istorice de irigare.",
                   "category": "landmark",
@@ -740,15 +470,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Angkor National Museum",
-                  "text": "An archaeological museum dedicated to the preservation and presentation of Angkorian artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        103.859527,
-                        13.366376
-                  ]
-            },
             {
                   "name": "Angkor Green Gardens",
                   "text": "A park formerly known as the Cambodian Cultural Village, featuring traditional houses and miniature models.",
@@ -777,57 +498,12 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Angkor Conservancy",
-                  "text": "A compound where thousands of ancient Khmer statues and architectural fragments are stored and restored.",
-                  "category": "museum",
-                  "coords": [
-                        103.86463,
-                        13.373402
-                  ]
-            },
-            {
-                  "name": "VIMEAN SOKHA MUSEUM",
-                  "text": "A private museum displaying an extensive collection of vintage items and old cameras.",
-                  "category": "museum",
-                  "coords": [
-                        103.856646,
-                        13.385614
-                  ]
-            },
-            {
-                  "name": "MGC Asian Traditional Textiles Museum",
-                  "text": "A museum showcasing traditional textiles and weaving techniques from countries along the Mekong and Ganges rivers.",
-                  "category": "museum",
-                  "coords": [
-                        103.880242,
-                        13.375373
-                  ]
-            },
-            {
-                  "name": "Red Khmers Museum",
-                  "text": "A historical museum documenting the tragic history and atrocities of the Khmer Rouge regime.",
-                  "category": "museum",
-                  "coords": [
-                        103.860158,
-                        13.382484
-                  ]
-            },
-            {
                   "name": "Preah Norodom Sihanouk-Angkor Museum",
                   "text": "An archaeological museum exhibiting rare artifacts unearthed during the excavations of the Banteay Kdei temple.",
                   "category": "museum",
                   "coords": [
                         103.880727,
                         13.382109
-                  ]
-            },
-            {
-                  "name": "Angkor Panorama Museum (closed)",
-                  "text": "A currently closed museum that was known for its massive 3D cyclorama depicting scenes from the Khmer Empire.",
-                  "category": "museum",
-                  "coords": [
-                        103.880728,
-                        13.377518
                   ]
             },
             {
@@ -846,24 +522,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   "coords": [
                         103.866932,
                         13.413428
-                  ]
-            },
-            {
-                  "name": "Build Your Future Today Center",
-                  "text": "An arts center and community facility showcasing crafts made by disadvantaged families.",
-                  "category": "cultural",
-                  "coords": [
-                        103.866341,
-                        13.364379
-                  ]
-            },
-            {
-                  "name": "Jayav Art",
-                  "text": "An art studio specializing in intricate papier-mâché sculptures inspired by traditional Khmer art.",
-                  "category": "cultural",
-                  "coords": [
-                        103.862368,
-                        13.380669
                   ]
             },
             {
@@ -921,15 +579,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sacred Dancers of Angkor",
-                  "text": "A cultural attraction featuring traditional Apsara dance performances preserving classical Khmer choreography.",
-                  "category": "landmark",
-                  "coords": [
-                        103.865057,
-                        13.370955
-                  ]
-            },
-            {
                   "name": "Sunrise viewing spot",
                   "text": "A designated viewing spot near the reflection pools, famous for watching the sunrise over the temple spires.",
                   "category": "landmark",
@@ -954,15 +603,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   "coords": [
                         103.862272,
                         13.384907
-                  ]
-            },
-            {
-                  "name": "Mortar",
-                  "text": "An archaeological attraction displaying an ancient mortar previously used for pounding or construction.",
-                  "category": "landmark",
-                  "coords": [
-                        103.855521,
-                        13.385191
                   ]
             },
             {
@@ -10350,33 +9990,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Sangker",
-                  "text": "Wat Sangker ist ein markanter buddhistischer Tempelkomplex, der wunderschön an den Ufern des Sangkae-Flusses liegt.",
-                  "category": "religious",
-                  "coords": [
-                        103.201526,
-                        13.092862
-                  ]
-            },
-            {
-                  "name": "Wat Kandal",
-                  "text": "Wat Kandal ist eine bekannte traditionelle buddhistische Pagode mit komplizierten religiösen Gemälden und farbenfrohen Statuen.",
-                  "category": "religious",
-                  "coords": [
-                        103.202054,
-                        13.097713
-                  ]
-            },
-            {
-                  "name": "Wat Bovil",
-                  "text": "Wat Bovil ist ein bemerkenswerter buddhistischer Tempel, der für seine klassischen architektonischen Elemente und seine Bedeutung für die lokale Gemeinschaft geschätzt wird.",
-                  "category": "religious",
-                  "coords": [
-                        103.203788,
-                        13.101421
-                  ]
-            },
-            {
                   "name": "វត្តពិភិទ្ធារាម",
                   "text": "Wat Piphitthearam ist eine aktive Kultstätte, die mit traditionellen Khmer-Dekorationen und steilen, mehrstöckigen Dächern geschmückt ist.",
                   "category": "religious",
@@ -10401,51 +10014,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   "coords": [
                         103.185569,
                         13.11192
-                  ]
-            },
-            {
-                  "name": "Wat Damrey Sar",
-                  "text": "Wat Damrey Sar, auch als Weiße Elefantenpagode bekannt, ist ein visuell markanter Tempel, der für seine einzigartigen Tierskulpturen bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        103.197153,
-                        13.094963
-                  ]
-            },
-            {
-                  "name": "Tep Kao Sol",
-                  "text": "Tep Kao Sol ist eine intime Kunstgalerie, die die lebendigen Werke lokaler zeitgenössischer kambodschanischer Künstler präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        103.198404,
-                        13.099575
-                  ]
-            },
-            {
-                  "name": "KC Heritage Gallery",
-                  "text": "Die KC Heritage Gallery ist ein spezieller Museumsraum, der die lokale Geschichte, alte Fotografien und kulturelle Artefakte ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        103.197966,
-                        13.10099
-                  ]
-            },
-            {
-                  "name": "Battambang Museum",
-                  "text": "Das Battambang Museum beherbergt eine bedeutende Sammlung regionaler Artefakte, darunter fein geschnitzte Angkor-Stürze und antike Statuen.",
-                  "category": "museum",
-                  "coords": [
-                        103.198107,
-                        13.094855
-                  ]
-            },
-            {
-                  "name": "Ta Dumbong Statue - តាដំបងក្រញូង",
-                  "text": "Dieses prominente Kreisverkehrsdenkmal zeigt eine massive Statue eines mythischen starken Mannes, der den magischen schwarzen Stock hält, der der Stadt ihren Namen gab.",
-                  "category": "historical",
-                  "coords": [
-                        103.208499,
-                        13.090637
                   ]
             },
             {
@@ -10482,15 +10050,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   "coords": [
                         103.200553,
                         13.105386
-                  ]
-            },
-            {
-                  "name": "Steung Sankae Theater Hall",
-                  "text": "Die Steung Sankae Theater Hall ist ein lokaler Kulturort, der regelmäßig traditionelle kambodschanische Aufführungen und Gemeindeveranstaltungen beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        103.199043,
-                        13.108545
                   ]
             },
             {
@@ -10545,15 +10104,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   "coords": [
                         103.215301,
                         13.107924
-                  ]
-            },
-            {
-                  "name": "Boules ground",
-                  "text": "Ein spezielles Freizeitgelände für das traditionelle, französisch geprägte Boule-Spiel.",
-                  "category": "landmark",
-                  "coords": [
-                        103.196072,
-                        13.103276
                   ]
             },
             {
@@ -10649,33 +10199,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Sangker",
-                  "text": "A Wat Sangker egy kiemelkedő buddhista templomkomplexum, amely gyönyörű helyen, a Sangkae folyó partján fekszik.",
-                  "category": "religious",
-                  "coords": [
-                        103.201526,
-                        13.092862
-                  ]
-            },
-            {
-                  "name": "Wat Kandal",
-                  "text": "A Wat Kandal egy jól ismert hagyományos buddhista pagoda, amely bonyolult vallási festményekkel és színes szobrokkal büszkélkedhet.",
-                  "category": "religious",
-                  "coords": [
-                        103.202054,
-                        13.097713
-                  ]
-            },
-            {
-                  "name": "Wat Bovil",
-                  "text": "A Wat Bovil egy figyelemre méltó buddhista templom, amely a klasszikus építészeti elemeiről és a helyi közösség számára betöltött fontosságáról ismert.",
-                  "category": "religious",
-                  "coords": [
-                        103.203788,
-                        13.101421
-                  ]
-            },
-            {
                   "name": "វត្តពិភិទ្ធារាម",
                   "text": "A Wat Piphitthearam egy aktív istentiszteleti hely, amelyet hagyományos khmer buddhista díszítések és meredek, többszintes tetők ékesítenek.",
                   "category": "religious",
@@ -10700,51 +10223,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   "coords": [
                         103.185569,
                         13.11192
-                  ]
-            },
-            {
-                  "name": "Wat Damrey Sar",
-                  "text": "A Fehér Elefánt pagodaként is ismert Wat Damrey Sar egy vizuálisan lenyűgöző buddhista templom, amely egyedi állatszobrairól híres.",
-                  "category": "landmark",
-                  "coords": [
-                        103.197153,
-                        13.094963
-                  ]
-            },
-            {
-                  "name": "Tep Kao Sol",
-                  "text": "A Tep Kao Sol egy meghitt művészeti galéria, amely helyi kortárs kambodzsai művészek élénk alkotásait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        103.198404,
-                        13.099575
-                  ]
-            },
-            {
-                  "name": "KC Heritage Gallery",
-                  "text": "A KC Heritage Gallery egy dedikált múzeumi tér, amely a helyi történelmet, vintage fényképeket és kulturális tárgyakat állít ki.",
-                  "category": "museum",
-                  "coords": [
-                        103.197966,
-                        13.10099
-                  ]
-            },
-            {
-                  "name": "Battambang Museum",
-                  "text": "A Battambang Múzeum jelentős regionális leleteket, köztük finoman faragott angkori áthidalókat és ősi szobrokat őriz.",
-                  "category": "museum",
-                  "coords": [
-                        103.198107,
-                        13.094855
-                  ]
-            },
-            {
-                  "name": "Ta Dumbong Statue - តាដំបងក្រញូង",
-                  "text": "Ez a kiemelkedő körforgalmi emlékmű egy mitikus erős ember hatalmas szobrát ábrázolja, aki azt a varázslatos fekete botot tartja, amelyről a város a nevét kapta.",
-                  "category": "historical",
-                  "coords": [
-                        103.208499,
-                        13.090637
                   ]
             },
             {
@@ -10781,15 +10259,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   "coords": [
                         103.200553,
                         13.105386
-                  ]
-            },
-            {
-                  "name": "Steung Sankae Theater Hall",
-                  "text": "A Steung Sankae Színházterem egy helyi kulturális helyszín, amely rendszeresen ad otthont hagyományos kambodzsai előadásoknak és közösségi eseményeknek.",
-                  "category": "cultural",
-                  "coords": [
-                        103.199043,
-                        13.108545
                   ]
             },
             {
@@ -10844,15 +10313,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   "coords": [
                         103.215301,
                         13.107924
-                  ]
-            },
-            {
-                  "name": "Boules ground",
-                  "text": "A hagyományos francia eredetű golyójáték, a pétanque játszására szolgáló rekreációs pálya.",
-                  "category": "landmark",
-                  "coords": [
-                        103.196072,
-                        13.103276
                   ]
             },
             {
@@ -10948,33 +10408,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Sangker",
-                  "text": "Wat Sangker este un complex proeminent de temple budiste situat frumos pe malurile râului Sangkae.",
-                  "category": "religious",
-                  "coords": [
-                        103.201526,
-                        13.092862
-                  ]
-            },
-            {
-                  "name": "Wat Kandal",
-                  "text": "Wat Kandal este o pagodă budistă tradițională bine-cunoscută, cu picturi religioase complicate și statui colorate.",
-                  "category": "religious",
-                  "coords": [
-                        103.202054,
-                        13.097713
-                  ]
-            },
-            {
-                  "name": "Wat Bovil",
-                  "text": "Wat Bovil este un templu budist remarcabil recunoscut pentru elementele sale arhitecturale clasice și importanța pentru comunitatea locală.",
-                  "category": "religious",
-                  "coords": [
-                        103.203788,
-                        13.101421
-                  ]
-            },
-            {
                   "name": "វត្តពិភិទ្ធារាម",
                   "text": "Wat Piphitthearam este un loc de cult activ, împodobit cu decorațiuni budiste khmere tradiționale și acoperișuri abrupte cu mai multe niveluri.",
                   "category": "religious",
@@ -10999,51 +10432,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   "coords": [
                         103.185569,
                         13.11192
-                  ]
-            },
-            {
-                  "name": "Wat Damrey Sar",
-                  "text": "Cunoscut și sub numele de Pagoda Elefantului Alb, Wat Damrey Sar este un templu budist remarcabil, cunoscut pentru sculpturile sale unice cu animale.",
-                  "category": "landmark",
-                  "coords": [
-                        103.197153,
-                        13.094963
-                  ]
-            },
-            {
-                  "name": "Tep Kao Sol",
-                  "text": "Tep Kao Sol este o galerie de artă intimă care prezintă lucrările vibrante ale artiștilor contemporani cambodgieni locali.",
-                  "category": "museum",
-                  "coords": [
-                        103.198404,
-                        13.099575
-                  ]
-            },
-            {
-                  "name": "KC Heritage Gallery",
-                  "text": "KC Heritage Gallery este un spațiu muzeal dedicat expoziției de istorie locală, fotografii de epocă și artefacte culturale.",
-                  "category": "museum",
-                  "coords": [
-                        103.197966,
-                        13.10099
-                  ]
-            },
-            {
-                  "name": "Battambang Museum",
-                  "text": "Muzeul Battambang adăpostește o colecție semnificativă de artefacte regionale, inclusiv buiandrugi angkorieni fin sculptați și statui antice.",
-                  "category": "museum",
-                  "coords": [
-                        103.198107,
-                        13.094855
-                  ]
-            },
-            {
-                  "name": "Ta Dumbong Statue - តាដំបងក្រញូង",
-                  "text": "Acest monument proeminent dintr-un sens giratoriu prezintă o statuie masivă a unui bărbat puternic mitic ținând bățul negru magic care a dat numele orașului.",
-                  "category": "historical",
-                  "coords": [
-                        103.208499,
-                        13.090637
                   ]
             },
             {
@@ -11080,15 +10468,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   "coords": [
                         103.200553,
                         13.105386
-                  ]
-            },
-            {
-                  "name": "Steung Sankae Theater Hall",
-                  "text": "Sala de Teatru Steung Sankae este o locație culturală locală care găzduiește în mod regulat spectacole tradiționale cambodgiene și evenimente comunitare.",
-                  "category": "cultural",
-                  "coords": [
-                        103.199043,
-                        13.108545
                   ]
             },
             {
@@ -11143,15 +10522,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   "coords": [
                         103.215301,
                         13.107924
-                  ]
-            },
-            {
-                  "name": "Boules ground",
-                  "text": "Un teren de recreere dedicat jocului tradițional de bile de influență franceză.",
-                  "category": "landmark",
-                  "coords": [
-                        103.196072,
-                        13.103276
                   ]
             },
             {
@@ -11238,51 +10608,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Phsar Nat",
-                  "text": "Phsar Nat is Battambang's central market, known for its distinctive French colonial-era yellow building and clock tower.",
-                  "category": "cultural",
-                  "coords": [
-                        103.198486,
-                        13.102121
-                  ]
-            },
-            {
-                  "name": "Wat Sangker",
-                  "text": "Wat Sangker is a prominent Buddhist temple complex beautifully situated along the banks of the Sangkae River.",
-                  "category": "religious",
-                  "coords": [
-                        103.201526,
-                        13.092862
-                  ]
-            },
-            {
-                  "name": "Wat Kandal",
-                  "text": "Wat Kandal is a well-known traditional Buddhist pagoda featuring intricate religious paintings and colorful statues.",
-                  "category": "religious",
-                  "coords": [
-                        103.202054,
-                        13.097713
-                  ]
-            },
-            {
-                  "name": "Wat Bovil",
-                  "text": "Wat Bovil is a notable Buddhist temple recognized for its classic architectural elements and importance to the local community.",
-                  "category": "religious",
-                  "coords": [
-                        103.203788,
-                        13.101421
-                  ]
-            },
-            {
-                  "name": "Wat Piphitthearam",
-                  "text": "Wat Piphitthearam is an active place of worship adorned with traditional Khmer Buddhist decorations and steep multi-tiered roofs.",
-                  "category": "religious",
-                  "coords": [
-                        103.198505,
-                        13.104388
-                  ]
-            },
-            {
                   "name": "Wat Ek Phnom",
                   "text": "Wat Ek Phnom features atmospheric 11th-century Angkorian ruins situated next to a modern pagoda and a massive white Buddha statue.",
                   "category": "religious",
@@ -11298,96 +10623,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   "coords": [
                         103.185569,
                         13.11192
-                  ]
-            },
-            {
-                  "name": "Wat Damrey Sar",
-                  "text": "Also known as the White Elephant Pagoda, Wat Damrey Sar is a visually striking Buddhist temple noted for its unique animal sculptures.",
-                  "category": "landmark",
-                  "coords": [
-                        103.197153,
-                        13.094963
-                  ]
-            },
-            {
-                  "name": "Tep Kao Sol",
-                  "text": "Tep Kao Sol is an intimate art gallery showcasing the vibrant works of local contemporary Cambodian artists.",
-                  "category": "museum",
-                  "coords": [
-                        103.198404,
-                        13.099575
-                  ]
-            },
-            {
-                  "name": "KC Heritage Gallery",
-                  "text": "The KC Heritage Gallery is a dedicated museum space exhibiting local history, vintage photographs, and cultural artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        103.197966,
-                        13.10099
-                  ]
-            },
-            {
-                  "name": "Battambang Museum",
-                  "text": "The Battambang Museum houses a significant collection of regional artifacts, including finely carved Angkorian lintels and ancient statuary.",
-                  "category": "museum",
-                  "coords": [
-                        103.198107,
-                        13.094855
-                  ]
-            },
-            {
-                  "name": "Lok Ta Dambong",
-                  "text": "This prominent roundabout monument features a massive statue of a mythical strongman holding the magical black stick that gave the city its name.",
-                  "category": "historical",
-                  "coords": [
-                        103.208499,
-                        13.090637
-                  ]
-            },
-            {
-                  "name": "Yeay Tep Roundabout",
-                  "text": "Yeay Tep Roundabout is a central traffic circle monument built to honor a highly revered local spiritual figure.",
-                  "category": "historical",
-                  "coords": [
-                        103.173263,
-                        13.105797
-                  ]
-            },
-            {
-                  "name": "White Horse Roundabout",
-                  "text": "The White Horse Roundabout is a distinctive roadside monument featuring a large equestrian statue that serves as an important local landmark.",
-                  "category": "historical",
-                  "coords": [
-                        103.198537,
-                        13.107591
-                  ]
-            },
-            {
-                  "name": "Apsara Roundabout",
-                  "text": "This busy intersection is marked by an elegant monument depicting a traditional Khmer Apsara dancer in a classic pose.",
-                  "category": "historical",
-                  "coords": [
-                        103.199636,
-                        13.107407
-                  ]
-            },
-            {
-                  "name": "Ganesh Statue",
-                  "text": "This outdoor monument is dedicated to Ganesh, featuring an ornate statue of the widely revered Hindu elephant-headed deity.",
-                  "category": "historical",
-                  "coords": [
-                        103.200553,
-                        13.105386
-                  ]
-            },
-            {
-                  "name": "Steung Sankae Theater Hall",
-                  "text": "The Steung Sankae Theater Hall is a local cultural venue that regularly hosts traditional Cambodian performances and community events.",
-                  "category": "cultural",
-                  "coords": [
-                        103.199043,
-                        13.108545
                   ]
             },
             {
@@ -11442,15 +10677,6 @@ export const poiExtraCambodiaHistoryV2: POI[] = [
                   "coords": [
                         103.215301,
                         13.107924
-                  ]
-            },
-            {
-                  "name": "Boules ground",
-                  "text": "A dedicated recreational ground for playing the traditional French-influenced game of boules.",
-                  "category": "landmark",
-                  "coords": [
-                        103.196072,
-                        13.103276
                   ]
             },
             {

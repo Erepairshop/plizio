@@ -6,60 +6,6 @@ export const belarusNatureV2: POI[] = [
     id: "belarus-belovezhskaya-pushcha-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Skansen Architektury Drewnianej Ludności Ruskiej Podlasia",
-                  "text": "Ein Freilichtmuseum für die Holzbauweise der ruthenischen Bevölkerung in der Region Podlachien.",
-                  "category": "museum",
-                  "coords": [
-                        23.834875,
-                        52.702446
-                  ]
-            },
-            {
-                  "name": "Muzeum Przyrodniczo-Leśne BPN im. prof. Jana Miklaszewskiego",
-                  "text": "Dieses Museum dokumentiert die Naturgeschichte und Forstwirtschaft des Nationalparks Białowieża.",
-                  "category": "museum",
-                  "coords": [
-                        23.847264,
-                        52.703488
-                  ]
-            },
-            {
-                  "name": "Strefa ochrony ścisłej Białowieskiego Parku Narodowego",
-                  "text": "Ein streng geschützter Bereich des Nationalparks Białowieża, der den ursprünglichen Urwald bewahrt.",
-                  "category": "natural",
-                  "coords": [
-                        23.874065,
-                        52.751219
-                  ]
-            },
-            {
-                  "name": "Jagiełło-Eiche",
-                  "text": "Eine berühmte historische Eiche im Nationalpark Białowieża, die nach dem polnischen König benannt wurde.",
-                  "category": "landmark",
-                  "coords": [
-                        23.8294,
-                        52.721995
-                  ]
-            },
-            {
-                  "name": "Zrekonstuowany Peron \"Białowieża Pałac\"",
-                  "text": "Ein rekonstruierter Bahnhofsbereich, der früher dem kaiserlichen Palast in Białowieża diente.",
-                  "category": "landmark",
-                  "coords": [
-                        23.847206,
-                        52.699431
-                  ]
-            },
-            {
-                  "name": "Sosna Masztowa",
-                  "text": "Eine markante Kiefer im Nationalpark, die aufgrund ihres geraden Wuchses als Mastbaum bezeichnet wird.",
-                  "category": "landmark",
-                  "coords": [
-                        23.830804,
-                        52.722455
-                  ]
-            },
-            {
                   "name": "Osada Dziedzinka",
                   "text": "Eine historische Waldsiedlung im Nationalpark Białowieża, bekannt für ihre traditionellen Blockhäuser.",
                   "category": "landmark",
@@ -70,60 +16,6 @@ export const belarusNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Skansen Architektury Drewnianej Ludności Ruskiej Podlasia",
-                  "text": "A podlasiei ruszin lakosság faépítészetét bemutató szabadtéri múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        23.834875,
-                        52.702446
-                  ]
-            },
-            {
-                  "name": "Muzeum Przyrodniczo-Leśne BPN im. prof. Jana Miklaszewskiego",
-                  "text": "A Białowieża Nemzeti Park természettudományi és erdészeti értékeit bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        23.847264,
-                        52.703488
-                  ]
-            },
-            {
-                  "name": "Strefa ochrony ścisłej Białowieskiego Parku Narodowego",
-                  "text": "A Białowieża Nemzeti Park szigorúan védett területe, amely az ősi erdőt őrzi.",
-                  "category": "natural",
-                  "coords": [
-                        23.874065,
-                        52.751219
-                  ]
-            },
-            {
-                  "name": "Dąb Jagiełły",
-                  "text": "A Białowieża Nemzeti Park híres történelmi tölgyfája, amelyet a lengyel királyról neveztek el.",
-                  "category": "landmark",
-                  "coords": [
-                        23.8294,
-                        52.721995
-                  ]
-            },
-            {
-                  "name": "Zrekonstuowany Peron \"Białowieża Pałac\"",
-                  "text": "Rekonstruált vasúti peron, amely egykor a białowieżai cári palotát szolgálta ki.",
-                  "category": "landmark",
-                  "coords": [
-                        23.847206,
-                        52.699431
-                  ]
-            },
-            {
-                  "name": "Sosna Masztowa",
-                  "text": "Jellegzetes erdei fenyő, amelyet egyenes növekedése miatt árbocfenyőnek neveznek.",
-                  "category": "landmark",
-                  "coords": [
-                        23.830804,
-                        52.722455
-                  ]
-            },
             {
                   "name": "Osada Dziedzinka",
                   "text": "Történelmi erdei település, amely hagyományos rönkházairól ismert.",
@@ -136,60 +28,6 @@ export const belarusNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Skansen Architektury Drewnianej Ludności Ruskiej Podlasia",
-                  "text": "Un muzeu în aer liber dedicat arhitecturii de lemn a populației rutene din regiunea Podlasia.",
-                  "category": "museum",
-                  "coords": [
-                        23.834875,
-                        52.702446
-                  ]
-            },
-            {
-                  "name": "Muzeum Przyrodniczo-Leśne BPN im. prof. Jana Miklaszewskiego",
-                  "text": "Acest muzeu documentează istoria naturală și silvicultura Parcului Național Białowieża.",
-                  "category": "museum",
-                  "coords": [
-                        23.847264,
-                        52.703488
-                  ]
-            },
-            {
-                  "name": "Strefa ochrony ścisłej Białowieskiego Parku Narodowego",
-                  "text": "O zonă strict protejată a Parcului Național Białowieża care conservă pădurea virgină.",
-                  "category": "natural",
-                  "coords": [
-                        23.874065,
-                        52.751219
-                  ]
-            },
-            {
-                  "name": "Dąb Jagiełły",
-                  "text": "Un stejar istoric celebru din Parcul Național Białowieża, numit după regele polonez.",
-                  "category": "landmark",
-                  "coords": [
-                        23.8294,
-                        52.721995
-                  ]
-            },
-            {
-                  "name": "Zrekonstuowany Peron \"Białowieża Pałac\"",
-                  "text": "O platformă feroviară reconstruită care deservea fostul palat imperial.",
-                  "category": "landmark",
-                  "coords": [
-                        23.847206,
-                        52.699431
-                  ]
-            },
-            {
-                  "name": "Sosna Masztowa",
-                  "text": "Un pin proeminent din parcul național, numit arbore de catarg datorită creșterii sale drepte.",
-                  "category": "landmark",
-                  "coords": [
-                        23.830804,
-                        52.722455
-                  ]
-            },
-            {
                   "name": "Osada Dziedzinka",
                   "text": "O așezare istorică de pădure, cunoscută pentru casele sale tradiționale din bușteni.",
                   "category": "landmark",
@@ -200,60 +38,6 @@ export const belarusNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Skansen Architektury Drewnianej Ludności Ruskiej Podlasia",
-                  "text": "An open-air museum showcasing the wooden architecture of the Ruthenian population in the Podlasie region.",
-                  "category": "museum",
-                  "coords": [
-                        23.834875,
-                        52.702446
-                  ]
-            },
-            {
-                  "name": "Muzeum Przyrodniczo-Leśne BPN im. prof. Jana Miklaszewskiego",
-                  "text": "This museum documents the natural history and forestry of the Białowieża National Park.",
-                  "category": "museum",
-                  "coords": [
-                        23.847264,
-                        52.703488
-                  ]
-            },
-            {
-                  "name": "Białowieża National Park Restricted Area",
-                  "text": "A strictly protected area of the Białowieża National Park preserving the primeval forest.",
-                  "category": "natural",
-                  "coords": [
-                        23.874065,
-                        52.751219
-                  ]
-            },
-            {
-                  "name": "The King Jogaila Oak",
-                  "text": "A famous historic oak tree in the Białowieża National Park, named after the Polish king.",
-                  "category": "landmark",
-                  "coords": [
-                        23.8294,
-                        52.721995
-                  ]
-            },
-            {
-                  "name": "Reconstructed Peron \"Bialowieza Palace",
-                  "text": "A reconstructed railway platform that formerly served the imperial palace in Białowieża.",
-                  "category": "landmark",
-                  "coords": [
-                        23.847206,
-                        52.699431
-                  ]
-            },
-            {
-                  "name": "Mast Pine tree",
-                  "text": "A prominent pine tree in the national park, referred to as a mast tree due to its straight growth.",
-                  "category": "landmark",
-                  "coords": [
-                        23.830804,
-                        52.722455
-                  ]
-            },
             {
                   "name": "Osada Dziedzinka",
                   "text": "A historic forest settlement in the Białowieża National Park, known for its traditional log houses.",

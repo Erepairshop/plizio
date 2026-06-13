@@ -573,48 +573,12 @@ export const estoniaNatureV2: POI[] = [
     id: "estonia-haanja-upland-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Haanja looduspark",
-                  "text": "Naturschutzgebiet in Estland, das die Landschaft des Haanja-Hochlandes bewahrt.",
-                  "category": "natural",
-                  "coords": [
-                        27.060971,
-                        57.713335
-                  ]
-            },
-            {
                   "name": "Kaloga jaanimägi",
                   "text": "Archäologische Stätte und historischer Hügel im Haanja-Hochland.",
                   "category": "historical",
                   "coords": [
                         27.054429,
                         57.744326
-                  ]
-            },
-            {
-                  "name": "Vaskna järve supelrand",
-                  "text": "Strand am See, der Erholung in der Region Haanja bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        27.083231,
-                        57.716488
-                  ]
-            },
-            {
-                  "name": "Suur Munamägi",
-                  "text": "Der höchste Gipfel Estlands und des Baltikums mit einem Aussichtsturm.",
-                  "category": "natural",
-                  "coords": [
-                        27.059966,
-                        57.714007
-                  ]
-            },
-            {
-                  "name": "National Geographic yellow window",
-                  "text": "Ikonischer gelber Rahmen, der einen malerischen Blick auf die estnische Landschaft bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        27.05501,
-                        57.713759
                   ]
             },
             {
@@ -629,48 +593,12 @@ export const estoniaNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Haanja looduspark",
-                  "text": "Természetvédelmi terület Észtországban, amely a Haanja-hátság tájképét őrzi.",
-                  "category": "natural",
-                  "coords": [
-                        27.060971,
-                        57.713335
-                  ]
-            },
-            {
                   "name": "Kaloga jaanimägi",
                   "text": "Régészeti lelőhely és történelmi domb a Haanja-hátságon.",
                   "category": "historical",
                   "coords": [
                         27.054429,
                         57.744326
-                  ]
-            },
-            {
-                  "name": "Vaskna järve supelrand",
-                  "text": "Tóparti strand, amely kikapcsolódást kínál a Haanja régióban.",
-                  "category": "recreational",
-                  "coords": [
-                        27.083231,
-                        57.716488
-                  ]
-            },
-            {
-                  "name": "Suur Munamägi",
-                  "text": "Észtország és a balti államok legmagasabb csúcsa, kilátóval.",
-                  "category": "natural",
-                  "coords": [
-                        27.059966,
-                        57.714007
-                  ]
-            },
-            {
-                  "name": "National Geographic yellow window",
-                  "text": "Ikonikus sárga keret, amely festői kilátást nyújt az észt tájra.",
-                  "category": "landmark",
-                  "coords": [
-                        27.05501,
-                        57.713759
                   ]
             },
             {
@@ -685,48 +613,12 @@ export const estoniaNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Haanja looduspark",
-                  "text": "Arie protejată din Estonia care conservă peisajul podișului Haanja.",
-                  "category": "natural",
-                  "coords": [
-                        27.060971,
-                        57.713335
-                  ]
-            },
-            {
                   "name": "Kaloga jaanimägi",
                   "text": "Sit arheologic și deal istoric în podișul Haanja.",
                   "category": "historical",
                   "coords": [
                         27.054429,
                         57.744326
-                  ]
-            },
-            {
-                  "name": "Vaskna järve supelrand",
-                  "text": "Plajă pe malul lacului care oferă recreere în regiunea Haanja.",
-                  "category": "recreational",
-                  "coords": [
-                        27.083231,
-                        57.716488
-                  ]
-            },
-            {
-                  "name": "Suur Munamägi",
-                  "text": "Cel mai înalt vârf din Estonia și statele baltice, dotat cu un turn de observare.",
-                  "category": "natural",
-                  "coords": [
-                        27.059966,
-                        57.714007
-                  ]
-            },
-            {
-                  "name": "National Geographic yellow window",
-                  "text": "Cadru galben emblematic care oferă o vedere pitorească asupra peisajului estonian.",
-                  "category": "landmark",
-                  "coords": [
-                        27.05501,
-                        57.713759
                   ]
             },
             {
@@ -741,48 +633,12 @@ export const estoniaNatureV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Haanja Nature Park",
-                  "text": "Protected area in Estonia preserving the landscape of the Haanja Upland.",
-                  "category": "natural",
-                  "coords": [
-                        27.060971,
-                        57.713335
-                  ]
-            },
-            {
                   "name": "Kaloga jaanimägi",
                   "text": "Archaeological site and historical hill in the Haanja Upland.",
                   "category": "historical",
                   "coords": [
                         27.054429,
                         57.744326
-                  ]
-            },
-            {
-                  "name": "The beach Vaskna Lake",
-                  "text": "The beach at Vaskna Lake offers recreation in the Haanja region.",
-                  "category": "recreational",
-                  "coords": [
-                        27.083231,
-                        57.716488
-                  ]
-            },
-            {
-                  "name": "Suur Munamägi",
-                  "text": "The highest peak in Estonia and the Baltic states, featuring an observation tower.",
-                  "category": "natural",
-                  "coords": [
-                        27.059966,
-                        57.714007
-                  ]
-            },
-            {
-                  "name": "National Geographic yellow window",
-                  "text": "Iconic yellow frame offering a scenic view of the Estonian landscape.",
-                  "category": "landmark",
-                  "coords": [
-                        27.05501,
-                        57.713759
                   ]
             },
             {
@@ -1228,24 +1084,6 @@ export const estoniaNatureV2: POI[] = [
                         25.189142,
                         59.374358
                   ]
-            },
-            {
-                  "name": "Ruu ujumiskoht",
-                  "text": "Eine Badestelle am Fluss Jägala in der Nähe des Dorfes Ruu.",
-                  "category": "recreational",
-                  "coords": [
-                        25.190078,
-                        59.442308
-                  ]
-            },
-            {
-                  "name": "Tammiku ujumiskoht",
-                  "text": "Ein Badeplatz am Flussufer des Jägala in Estland.",
-                  "category": "recreational",
-                  "coords": [
-                        25.216228,
-                        59.425846
-                  ]
             }
       ],
       "hu": [
@@ -1274,24 +1112,6 @@ export const estoniaNatureV2: POI[] = [
                   "coords": [
                         25.189142,
                         59.374358
-                  ]
-            },
-            {
-                  "name": "Ruu ujumiskoht",
-                  "text": "Fürdőhely a Jägala-folyónál, Ruu falu közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        25.190078,
-                        59.442308
-                  ]
-            },
-            {
-                  "name": "Tammiku ujumiskoht",
-                  "text": "Folyóparti fürdőhely az észtországi Jägala-folyó mentén.",
-                  "category": "recreational",
-                  "coords": [
-                        25.216228,
-                        59.425846
                   ]
             }
       ],
@@ -1322,24 +1142,6 @@ export const estoniaNatureV2: POI[] = [
                         25.189142,
                         59.374358
                   ]
-            },
-            {
-                  "name": "Ruu ujumiskoht",
-                  "text": "Un loc pentru scăldat pe râul Jägala, în apropierea satului Ruu.",
-                  "category": "recreational",
-                  "coords": [
-                        25.190078,
-                        59.442308
-                  ]
-            },
-            {
-                  "name": "Tammiku ujumiskoht",
-                  "text": "Un loc pentru scăldat pe malul râului Jägala din Estonia.",
-                  "category": "recreational",
-                  "coords": [
-                        25.216228,
-                        59.425846
-                  ]
             }
       ],
       "en": [
@@ -1368,24 +1170,6 @@ export const estoniaNatureV2: POI[] = [
                   "coords": [
                         25.189142,
                         59.374358
-                  ]
-            },
-            {
-                  "name": "Ruu ujumiskoht",
-                  "text": "A swimming spot on the Jägala River located near the village of Ruu.",
-                  "category": "recreational",
-                  "coords": [
-                        25.190078,
-                        59.442308
-                  ]
-            },
-            {
-                  "name": "Tammiku ujumiskoht",
-                  "text": "A riverside swimming area along the Jägala River in Estonia.",
-                  "category": "recreational",
-                  "coords": [
-                        25.216228,
-                        59.425846
                   ]
             }
       ]

@@ -441,15 +441,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Municipal Etnográfico Cancebí",
-                  "text": "Dieses ethnografische Museum bewahrt kulturelle Gegenstände auf, die den Alltag der historischen Cancebí-Kultur dokumentieren.",
-                  "category": "museum",
-                  "coords": [
-                        -80.721659,
-                        -0.947589
-                  ]
-            },
-            {
                   "name": "Museo del Mar",
                   "text": "Das Museo del Mar widmet sich der maritimen Biodiversität und den tief verwurzelten Fischereitraditionen des Pazifischen Ozeans.",
                   "category": "museum",
@@ -459,48 +450,12 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Centro Cultural Manta",
-                  "text": "Dieses Kulturzentrum mit Museum präsentiert historische Exponate und moderne Kunstwerke, die Mantas städtische Entwicklung widerspiegeln.",
-                  "category": "museum",
-                  "coords": [
-                        -80.730417,
-                        -0.941874
-                  ]
-            },
-            {
-                  "name": "Cuerpo de Bomberos Manta",
-                  "text": "Dieses im Jahr 2020 eingeweihte Denkmal ehrt den mutigen Einsatz der städtischen Feuerwehr von Manta.",
-                  "category": "historical",
-                  "coords": [
-                        -80.747712,
-                        -0.957798
-                  ]
-            },
-            {
                   "name": "Al Pescador",
                   "text": "Dieses öffentliche Denkmal ist den hart arbeitenden lokalen Fischern gewidmet, die die maritime Wirtschaft der Stadt stützen.",
                   "category": "historical",
                   "coords": [
                         -80.717259,
                         -0.952455
-                  ]
-            },
-            {
-                  "name": "Eloy Alfaro Delgado",
-                  "text": "Dieses Denkmal aus dem Jahr 2012 erinnert an das Vermächtnis des einflussreichen ecuadorianischen Politikers Eloy Alfaro Delgado.",
-                  "category": "historical",
-                  "coords": [
-                        -80.745954,
-                        -0.954752
-                  ]
-            },
-            {
-                  "name": "La Trinchera",
-                  "text": "La Trinchera ist ein unabhängiger Theatersaal, in dem zeitgenössische dramatische Aufführungen der lokalen Theaterszene stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.743467,
-                        -0.946053
                   ]
             },
             {
@@ -564,15 +519,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   "coords": [
                         -80.717566,
                         -0.947039
-                  ]
-            },
-            {
-                  "name": "Letras de Manta",
-                  "text": "Dieses Wahrzeichen besteht aus großen bunten Buchstaben, die den Namen Manta bilden und als beliebtes Fotomotiv am Strand dienen.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.722112,
-                        -0.945218
                   ]
             },
             {
@@ -776,15 +722,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Municipal Etnográfico Cancebí",
-                  "text": "Ez az néprajzi múzeum olyan kulturális tárgyakat őriz, amelyek a történelmi Cancebí kultúra mindennapjait dokumentálják.",
-                  "category": "museum",
-                  "coords": [
-                        -80.721659,
-                        -0.947589
-                  ]
-            },
-            {
                   "name": "Museo del Mar",
                   "text": "A Museo del Mar a tengeri biológiai sokféleségnek és a Csendes-óceán mélyen gyökerező halászati hagyományainak szenteli kiállításait.",
                   "category": "museum",
@@ -794,48 +731,12 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Centro Cultural Manta",
-                  "text": "Ez a múzeummal egybekötött kulturális központ történelmi kiállítási tárgyakat és modern művészeti alkotásokat mutat be Manta fejlődéséről.",
-                  "category": "museum",
-                  "coords": [
-                        -80.730417,
-                        -0.941874
-                  ]
-            },
-            {
-                  "name": "Cuerpo de Bomberos Manta",
-                  "text": "Ezt a 2020-ban felavatott emlékművet a mantai városi tűzoltóság bátor munkájának tiszteletére emelték.",
-                  "category": "historical",
-                  "coords": [
-                        -80.747712,
-                        -0.957798
-                  ]
-            },
-            {
                   "name": "Al Pescador",
                   "text": "Ezt a köztéri emlékművet a keményen dolgozó helyi halászoknak szentelték, akik a város tengeri gazdaságát fenntartják.",
                   "category": "historical",
                   "coords": [
                         -80.717259,
                         -0.952455
-                  ]
-            },
-            {
-                  "name": "Eloy Alfaro Delgado",
-                  "text": "Ez a 2012-ben emelt emlékmű Eloy Alfaro Delgado befolyásos ecuadori politikus örökségének állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        -80.745954,
-                        -0.954752
-                  ]
-            },
-            {
-                  "name": "La Trinchera",
-                  "text": "A La Trinchera egy független színházterem, ahol a helyi társulatok kortárs drámai előadásait láthatja a közönség.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.743467,
-                        -0.946053
                   ]
             },
             {
@@ -899,15 +800,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   "coords": [
                         -80.717566,
                         -0.947039
-                  ]
-            },
-            {
-                  "name": "Letras de Manta",
-                  "text": "Ez a nagy, színes betűkből álló Manta felirat népszerű fotózási helyszínként szolgál a tengerpart közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.722112,
-                        -0.945218
                   ]
             },
             {
@@ -1111,15 +1003,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Municipal Etnográfico Cancebí",
-                  "text": "Acest muzeu etnografic conservă obiecte culturale care documentează viața de zi cu zi a culturii istorice Cancebí.",
-                  "category": "museum",
-                  "coords": [
-                        -80.721659,
-                        -0.947589
-                  ]
-            },
-            {
                   "name": "Museo del Mar",
                   "text": "Museo del Mar este dedicat biodiversității marine și tradițiilor de pescuit adânc înrădăcinate la Oceanul Pacific.",
                   "category": "museum",
@@ -1129,48 +1012,12 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Centro Cultural Manta",
-                  "text": "Acest centru cultural și muzeu prezintă exponate istorice și opere de artă modernă care reflectă dezvoltarea urbană a orașului Manta.",
-                  "category": "museum",
-                  "coords": [
-                        -80.730417,
-                        -0.941874
-                  ]
-            },
-            {
-                  "name": "Cuerpo de Bomberos Manta",
-                  "text": "Inaugurat în 2020, acest monument onorează eforturile curajoase ale departamentului de pompieri din Manta.",
-                  "category": "historical",
-                  "coords": [
-                        -80.747712,
-                        -0.957798
-                  ]
-            },
-            {
                   "name": "Al Pescador",
                   "text": "Acest monument public este dedicat pescarilor locali muncitori care susțin economia maritimă a orașului.",
                   "category": "historical",
                   "coords": [
                         -80.717259,
                         -0.952455
-                  ]
-            },
-            {
-                  "name": "Eloy Alfaro Delgado",
-                  "text": "Acest monument din 2012 comemorează moștenirea influentului lider politic ecuadorian Eloy Alfaro Delgado.",
-                  "category": "historical",
-                  "coords": [
-                        -80.745954,
-                        -0.954752
-                  ]
-            },
-            {
-                  "name": "La Trinchera",
-                  "text": "La Trinchera este o sală de teatru independentă care găzduiește spectacole dramatice contemporane ale scenei locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.743467,
-                        -0.946053
                   ]
             },
             {
@@ -1234,15 +1081,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   "coords": [
                         -80.717566,
                         -0.947039
-                  ]
-            },
-            {
-                  "name": "Letras de Manta",
-                  "text": "Acest punct de reper format din litere mari și colorate ce compun cuvântul Manta este un loc popular pentru fotografii lângă plajă.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.722112,
-                        -0.945218
                   ]
             },
             {
@@ -1446,15 +1284,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Municipal Etnográfico Cancebí",
-                  "text": "This ethnographic museum preserves cultural artifacts documenting the daily life of the historical Cancebí people.",
-                  "category": "museum",
-                  "coords": [
-                        -80.721659,
-                        -0.947589
-                  ]
-            },
-            {
                   "name": "Museo del Mar",
                   "text": "Museo del Mar is dedicated to the marine biodiversity and deep-rooted fishing traditions of the Pacific Ocean.",
                   "category": "museum",
@@ -1464,48 +1293,12 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Centro Cultural Manta",
-                  "text": "This cultural center and museum presents historical exhibits and modern artworks reflecting Manta's urban development.",
-                  "category": "museum",
-                  "coords": [
-                        -80.730417,
-                        -0.941874
-                  ]
-            },
-            {
-                  "name": "Cuerpo de Bomberos Manta",
-                  "text": "Unveiled in 2020, this monument honors the courageous service of the Manta municipal fire department.",
-                  "category": "historical",
-                  "coords": [
-                        -80.747712,
-                        -0.957798
-                  ]
-            },
-            {
                   "name": "To the fisherman",
                   "text": "This public monument is dedicated to the hardworking local fishermen who sustain the city's maritime economy.",
                   "category": "historical",
                   "coords": [
                         -80.717259,
                         -0.952455
-                  ]
-            },
-            {
-                  "name": "Eloy Alfaro Delgado",
-                  "text": "Dating back to 2012, this monument commemorates the legacy of the influential Ecuadorian political leader Eloy Alfaro Delgado.",
-                  "category": "historical",
-                  "coords": [
-                        -80.745954,
-                        -0.954752
-                  ]
-            },
-            {
-                  "name": "La Trinchera",
-                  "text": "La Trinchera is an independent theatre space hosting contemporary dramatic performances from the local arts scene.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.743467,
-                        -0.946053
                   ]
             },
             {
@@ -1569,15 +1362,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   "coords": [
                         -80.717566,
                         -0.947039
-                  ]
-            },
-            {
-                  "name": "Manta Sign",
-                  "text": "Composed of large colourful letters spelling Manta, this landmark serves as a popular photo spot near the beach.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.722112,
-                        -0.945218
                   ]
             },
             {
@@ -8297,15 +8081,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Salinas Yacht Club",
-                  "text": "Diese Anlage fungiert sowohl als Seezeichen als auch als exklusiver Yachthafen und führt Boote, die auf den belebten Gewässern der Halbinsel Salinas navigieren.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.972579,
-                        -2.199906
-                  ]
-            },
-            {
                   "name": "Loberia",
                   "text": "Dieser natürliche Aussichtspunkt an der felsigen Küste bietet hervorragende Möglichkeiten, Seelöwen beim Sonnenbaden in ihrem Lebensraum an der Küste zu beobachten.",
                   "category": "natural",
@@ -8321,24 +8096,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   "coords": [
                         -81.010873,
                         -2.18968
-                  ]
-            },
-            {
-                  "name": "Mar Bravo",
-                  "text": "Diese exponierte Sandküste ist berühmt für ihre spektakulär lebhaften Sonnenuntergänge und ist starken Hochseewellen ausgesetzt, was das Schwimmen gefährlich, aber Strandspaziergänge perfekt macht.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.970653,
-                        -2.224732
-                  ]
-            },
-            {
-                  "name": "Museo Salinas Siglo XXI",
-                  "text": "Diese kulturelle Einrichtung zeigt archäologische Artefakte antiker Küstenkulturen neben Exponaten zur ecuadorianischen Seefahrtsgeschichte und der lokalen Salzindustrie.",
-                  "category": "museum",
-                  "coords": [
-                        -80.966883,
-                        -2.20591
                   ]
             },
             {
@@ -8461,15 +8218,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Salinas Yacht Club",
-                  "text": "A tengerészeti jelzőfényként és exkluzív jachtkikötőként is működő létesítmény útbaigazítja a Salinas-félsziget forgalmas vizein navigáló hajókat.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.972579,
-                        -2.199906
-                  ]
-            },
-            {
                   "name": "Loberia",
                   "text": "A sziklás partvonal mentén található természetes kilátópont kiváló lehetőséget kínál a tengerparti élőhelyükön napozó oroszlánfókák megfigyelésére.",
                   "category": "natural",
@@ -8485,24 +8233,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   "coords": [
                         -81.010873,
                         -2.18968
-                  ]
-            },
-            {
-                  "name": "Mar Bravo",
-                  "text": "A látványosan élénk naplementéiről híres nyílt, homokos partvidék az óceán erős hullámainak van kitéve, így fürdésre nem, de tengerparti sétákra kiválóan alkalmas.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.970653,
-                        -2.224732
-                  ]
-            },
-            {
-                  "name": "Museo Salinas Siglo XXI",
-                  "text": "Ez a kulturális intézmény az ősi tengerparti kultúrák régészeti leleteit mutatja be az ecuadori tengerészeti történelem és a helyi sóipar kiállításai mellett.",
-                  "category": "museum",
-                  "coords": [
-                        -80.966883,
-                        -2.20591
                   ]
             },
             {
@@ -8625,15 +8355,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Salinas Yacht Club",
-                  "text": "Funcționând atât ca far maritim, cât și ca port de agrement exclusivist, această facilitate ghidează bărcile care navighează în apele aglomerate ale peninsulei Salinas.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.972579,
-                        -2.199906
-                  ]
-            },
-            {
                   "name": "Loberia",
                   "text": "Poziționat de-a lungul țărmului stâncos, acest punct de belvedere natural oferă oportunități excelente de a observa leii de mare care se încălzesc la soare în habitatul lor de coastă.",
                   "category": "natural",
@@ -8649,24 +8370,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   "coords": [
                         -81.010873,
                         -2.18968
-                  ]
-            },
-            {
-                  "name": "Mar Bravo",
-                  "text": "Faimoasă pentru apusurile sale spectaculos de vii, această coastă nisipoasă expusă se confruntă cu valuri intense ale oceanului deschis, făcând-o nesigură pentru înot, dar perfectă pentru plimbări.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.970653,
-                        -2.224732
-                  ]
-            },
-            {
-                  "name": "Museo Salinas Siglo XXI",
-                  "text": "Această instituție culturală expune artefacte arheologice ale culturilor antice de coastă, alături de exponate despre istoria maritimă a Ecuadorului și industria locală a sării.",
-                  "category": "museum",
-                  "coords": [
-                        -80.966883,
-                        -2.20591
                   ]
             },
             {
@@ -8789,15 +8492,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Salinas Yacht Club",
-                  "text": "Operating as both a maritime beacon and an exclusive marina, this facility guides boats navigating the busy waters of the Salinas peninsula.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.972579,
-                        -2.199906
-                  ]
-            },
-            {
                   "name": "Loberia",
                   "text": "Positioned along the rocky shoreline, this natural viewpoint offers excellent opportunities to observe sea lions basking in their coastal habitat.",
                   "category": "natural",
@@ -8813,24 +8507,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   "coords": [
                         -81.010873,
                         -2.18968
-                  ]
-            },
-            {
-                  "name": "Mar Bravo Beach",
-                  "text": "Famed for its spectacularly vivid sunsets, this exposed sandy shoreline faces intense open-ocean waves that make it unsafe for swimming but perfect for coastal walks.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.970653,
-                        -2.224732
-                  ]
-            },
-            {
-                  "name": "Museo Salinas Siglo XXI",
-                  "text": "This cultural institution displays archaeological artifacts from ancient coastal cultures alongside exhibits on Ecuador's maritime history and the local salt industry.",
-                  "category": "museum",
-                  "coords": [
-                        -80.966883,
-                        -2.20591
                   ]
             },
             {
@@ -10820,15 +10496,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sitio Arqueológico Puntiachil",
-                  "text": "Diese präkolumbianische Ausgrabungsstätte beherbergt zeremonielle Erdhügel, die einst für astronomische Beobachtungen genutzt wurden.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.137949,
-                        0.040892
-                  ]
-            },
-            {
                   "name": "Virgen del Mirador",
                   "text": "Diese Marienstatue auf einem Hügel bietet einen weiten Ausblick über die Stadt Cayambe und den gleichnamigen Vulkan.",
                   "category": "landmark",
@@ -10853,15 +10520,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   "coords": [
                         -78.103042,
                         0.091641
-                  ]
-            },
-            {
-                  "name": "Laguna Yaznan",
-                  "text": "Diese kleine Lagune bietet Möglichkeiten zur Vogelbeobachtung und Erholung in der Nähe der Äquatorlinie.",
-                  "category": "recreational",
-                  "coords": [
-                        -78.149693,
-                        0.028929
                   ]
             },
             {
@@ -11002,15 +10660,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sitio Arqueológico Puntiachil",
-                  "text": "Ezen a prekolumbián régészeti lelőhelyen ceremoniális dombok találhatók, amelyeket egykor csillagászati megfigyelésekre használtak.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.137949,
-                        0.040892
-                  ]
-            },
-            {
                   "name": "Virgen del Mirador",
                   "text": "Ez a dombtetőn álló Szűzanya-szobor tágas kilátást nyújt Cayambe városára és a névadó vulkánra.",
                   "category": "landmark",
@@ -11035,15 +10684,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   "coords": [
                         -78.103042,
                         0.091641
-                  ]
-            },
-            {
-                  "name": "Laguna Yaznan",
-                  "text": "Ez a kis laguna madármegfigyelési és kikapcsolódási lehetőséget kínál az egyenlítői vonal közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -78.149693,
-                        0.028929
                   ]
             },
             {
@@ -11184,15 +10824,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sitio Arqueológico Puntiachil",
-                  "text": "Acest sit arheologic precolumbian adăpostește movile ceremoniale care au fost folosite cândva pentru observații astronomice.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.137949,
-                        0.040892
-                  ]
-            },
-            {
                   "name": "Virgen del Mirador",
                   "text": "Această statuie a Fecioarei de pe deal oferă o vedere largă asupra orașului Cayambe și a vulcanului omonim.",
                   "category": "landmark",
@@ -11217,15 +10848,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   "coords": [
                         -78.103042,
                         0.091641
-                  ]
-            },
-            {
-                  "name": "Laguna Yaznan",
-                  "text": "Această mică lagună oferă oportunități pentru observarea păsărilor și recreere lângă linia ecuatorului.",
-                  "category": "recreational",
-                  "coords": [
-                        -78.149693,
-                        0.028929
                   ]
             },
             {
@@ -11366,15 +10988,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sitio Arqueológico Puntiachil",
-                  "text": "This pre-Columbian archaeological site features ceremonial mounds once used for astronomical observations.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.137949,
-                        0.040892
-                  ]
-            },
-            {
                   "name": "Virgen del Mirador",
                   "text": "This hilltop statue of the Virgin offers a sweeping view over the city of Cayambe and the namesake volcano.",
                   "category": "landmark",
@@ -11399,15 +11012,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   "coords": [
                         -78.103042,
                         0.091641
-                  ]
-            },
-            {
-                  "name": "Laguna Yaznan",
-                  "text": "This small lagoon offers birdwatching and recreation opportunities near the equatorial line.",
-                  "category": "recreational",
-                  "coords": [
-                        -78.149693,
-                        0.028929
                   ]
             },
             {
@@ -17123,15 +16727,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Salón del Reino de los Testigos de Jehová",
-                  "text": "Dieser Königreichssaal dient als Hauptversammlungsort für eine lokale Versammlung der Zeugen Jehovas in Durán.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.822318,
-                        -2.187768
-                  ]
-            },
-            {
                   "name": "dB ProMedia Durán",
                   "text": "dB ProMedia ist ein lokaler Anlaufpunkt in Durán, der sich auf Medien- und Audiodienstleistungen konzentriert.",
                   "category": "landmark",
@@ -17410,15 +17005,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   "coords": [
                         -79.841743,
                         -2.158033
-                  ]
-            },
-            {
-                  "name": "Salón del Reino de los Testigos de Jehová",
-                  "text": "Ez a Királyság-terem egy helyi Jehova Tanúi gyülekezet fő találkozóhelyeként szolgál Duránban.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.822318,
-                        -2.187768
                   ]
             },
             {
@@ -17703,15 +17289,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Salón del Reino de los Testigos de Jehová",
-                  "text": "Această Sală a Regatului servește drept principalul loc de întâlnire pentru o congregație locală a Martorilor lui Iehova din Durán.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.822318,
-                        -2.187768
-                  ]
-            },
-            {
                   "name": "dB ProMedia Durán",
                   "text": "Funcționând ca un punct de interes local în Durán, dB ProMedia se concentrează pe servicii media și audio.",
                   "category": "landmark",
@@ -17993,15 +17570,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Salón del Reino de los Testigos de Jehová",
-                  "text": "This Kingdom Hall serves as the primary meeting place for a local congregation of Jehovah's Witnesses in Durán.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.822318,
-                        -2.187768
-                  ]
-            },
-            {
                   "name": "dB ProMedia Durán",
                   "text": "Operating as a local point of interest in Durán, dB ProMedia focuses on media and audio services.",
                   "category": "landmark",
@@ -18151,24 +17719,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
   {
     id: "adelca-stahlwerk-milagro-economic-v2", "sights": {
       "de": [
-            {
-                  "name": "Museo Julio Viteri Gamboa",
-                  "text": "Dieses überdachte Museum beherbergt regionale Artefakte und historische Sammlungen zur Bewahrung des lokalen Erbes.",
-                  "category": "museum",
-                  "coords": [
-                        -79.601126,
-                        -2.133895
-                  ]
-            },
-            {
-                  "name": "Casa de PETITA",
-                  "text": "Ein exzentrisches, schlossähnliches lokales Wohnhaus, das sich durch seine markante Steinarchitektur im Festungsstil auszeichnet.",
-                  "category": "castle",
-                  "coords": [
-                        -79.59867,
-                        -2.133628
-                  ]
-            },
             {
                   "name": "Monumento a la Piña",
                   "text": "Diese große öffentliche Skulptur einer Ananas repräsentiert stolz den Status der Stadt als wichtiges landwirtschaftliches Zentrum für diese Frucht.",
@@ -18469,24 +18019,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Museo Julio Viteri Gamboa",
-                  "text": "Ez a beltéri múzeum regionális leleteket és történelmi gyűjteményeket ad ki, megőrizve a helyi örökséget.",
-                  "category": "museum",
-                  "coords": [
-                        -79.601126,
-                        -2.133895
-                  ]
-            },
-            {
-                  "name": "Casa de PETITA",
-                  "text": "Különc, kastélyszerű helyi rezidencia, amely jellegzetes erődítmény stílusú kőépítészetével tűnik ki.",
-                  "category": "castle",
-                  "coords": [
-                        -79.59867,
-                        -2.133628
-                  ]
-            },
-            {
                   "name": "Monumento a la Piña",
                   "text": "Ez a hatalmas köztéri ananászszobor büszkén hirdeti a város jelentős mezőgazdasági központként betöltött szerepét e gyümölcs termesztésében.",
                   "category": "historical",
@@ -18786,24 +18318,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Museo Julio Viteri Gamboa",
-                  "text": "Acest muzeu acoperit găzduiește artefacte regionale și colecții istorice care păstrează moștenirea locală.",
-                  "category": "museum",
-                  "coords": [
-                        -79.601126,
-                        -2.133895
-                  ]
-            },
-            {
-                  "name": "Casa de PETITA",
-                  "text": "O reședință locală excentrică, asemănătoare unui castel, care iese în evidență prin arhitectura sa distinctă din piatră în stil de fortăreață.",
-                  "category": "castle",
-                  "coords": [
-                        -79.59867,
-                        -2.133628
-                  ]
-            },
-            {
                   "name": "Monumento a la Piña",
                   "text": "Această sculptură publică mare reprezentând un ananas simbolizează cu mândrie statutul orașului de centru agricol major pentru acest fruct.",
                   "category": "historical",
@@ -19102,24 +18616,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Museo Julio Viteri Gamboa",
-                  "text": "This indoor museum houses regional artifacts and historical collections preserving the local heritage.",
-                  "category": "museum",
-                  "coords": [
-                        -79.601126,
-                        -2.133895
-                  ]
-            },
-            {
-                  "name": "Casa de PETITA",
-                  "text": "An eccentric, castle-like local residence standing out with its distinctive fortress-style stone architecture.",
-                  "category": "castle",
-                  "coords": [
-                        -79.59867,
-                        -2.133628
-                  ]
-            },
             {
                   "name": "Monumento a la Piña",
                   "text": "This large public sculpture of a pineapple proudly represents the city's status as a major agricultural hub for the fruit.",
@@ -20993,15 +20489,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
     id: "ingenio-valdez-zuckerfabrik-economic-v2", "sights": {
       "de": [
             {
-                  "name": "San Jacinto de Yaguachi",
-                  "text": "Ein Denkmal zu Ehren von San Jacinto, das das starke historische und katholische Erbe des Kantons Yaguachi widerspiegelt.",
-                  "category": "historical",
-                  "coords": [
-                        -79.695915,
-                        -2.093567
-                  ]
-            },
-            {
                   "name": "taburetes",
                   "text": "Ein einzigartiges öffentliches Denkmal in Yaguachi in Form von traditionellen Hockern (taburetes), das die lokale Alltagskultur feiert.",
                   "category": "historical",
@@ -21057,15 +20544,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "San Jacinto de Yaguachi",
-                  "text": "A San Jacintót ábrázoló emlékmű, amely a Yaguachi kanton erős történelmi és katolikus örökségét tükrözi.",
-                  "category": "historical",
-                  "coords": [
-                        -79.695915,
-                        -2.093567
-                  ]
-            },
             {
                   "name": "taburetes",
                   "text": "Egyedülálló köztéri emlékmű Yaguachiban, amely hagyományos hokedliket (taburetes) ábrázol, ünnepelve a helyi mindennapi kultúrát.",
@@ -21123,15 +20601,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "San Jacinto de Yaguachi",
-                  "text": "Un monument în onoarea lui San Jacinto, reflectând puternica moștenire istorică și catolică a cantonului Yaguachi.",
-                  "category": "historical",
-                  "coords": [
-                        -79.695915,
-                        -2.093567
-                  ]
-            },
-            {
                   "name": "taburetes",
                   "text": "Un monument public unic în Yaguachi, având forma unor taburete tradiționale (taburetes), celebrând cultura locală de zi cu zi.",
                   "category": "historical",
@@ -21187,15 +20656,6 @@ export const poiExtraEcuadorEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "San Jacinto de Yaguachi",
-                  "text": "A monument honoring San Jacinto, reflecting the strong historical and Catholic heritage of the Yaguachi canton.",
-                  "category": "historical",
-                  "coords": [
-                        -79.695915,
-                        -2.093567
-                  ]
-            },
             {
                   "name": "taburetes",
                   "text": "A unique public monument in Yaguachi featuring the shape of traditional stools (taburetes), celebrating local everyday culture.",

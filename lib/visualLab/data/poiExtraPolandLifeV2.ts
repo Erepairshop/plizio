@@ -6,57 +6,12 @@ export const polandLifeV2: POI[] = [
     id: "poland-bialowieza-national-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Muzeum Przyrodniczo-Leśne BPN im. prof. Jana Miklaszewskiego",
-                  "text": "Ein modernes Museum in Białowieża, das die einzigartige Natur und Geschichte des Urwalds präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        23.847264,
-                        52.703488
-                  ]
-            },
-            {
                   "name": "Strefa ochrony ścisłej Białowieskiego Parku Narodowego",
                   "text": "Ein streng geschütztes Kerngebiet des Białowieża-Waldes, das nur mit einem lizenzierten Führer zugänglich ist.",
                   "category": "natural",
                   "coords": [
                         23.874065,
                         52.751219
-                  ]
-            },
-            {
-                  "name": "Jagiełło-Eiche",
-                  "text": "Eine berühmteste historische Eiche im Białowieża-Wald, benannt nach dem polnischen König.",
-                  "category": "landmark",
-                  "coords": [
-                        23.8294,
-                        52.721995
-                  ]
-            },
-            {
-                  "name": "Zrekonstuowany Peron \"Białowieża Pałac\"",
-                  "text": "Ein rekonstruierter Bahnsteig, der einst dem kaiserlichen Jagdschloss im Wald diente.",
-                  "category": "landmark",
-                  "coords": [
-                        23.847206,
-                        52.699431
-                  ]
-            },
-            {
-                  "name": "Sosna Masztowa",
-                  "text": "Ein bemerkenswertes Exemplar einer Kiefer im Nationalpark, das den Urwaldcharakter des Waldes repräsentiert.",
-                  "category": "landmark",
-                  "coords": [
-                        23.830804,
-                        52.722455
-                  ]
-            },
-            {
-                  "name": "Osada Dziedzinka",
-                  "text": "Eine historische Waldsiedlung im Herzen des Nationalparks, bekannt als Wohnort der Naturforscherin Simona Kossak.",
-                  "category": "landmark",
-                  "coords": [
-                        23.907224,
-                        52.722127
                   ]
             },
             {
@@ -71,57 +26,12 @@ export const polandLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Muzeum Przyrodniczo-Leśne BPN im. prof. Jana Miklaszewskiego",
-                  "text": "Modern múzeum Białowieżában, amely az őserdő egyedülálló természetét és történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        23.847264,
-                        52.703488
-                  ]
-            },
-            {
                   "name": "Strefa ochrony ścisłej Białowieskiego Parku Narodowego",
                   "text": "A Białowieża-erdő szigorúan védett magterülete, amely csak engedéllyel rendelkező vezetővel látogatható.",
                   "category": "natural",
                   "coords": [
                         23.874065,
                         52.751219
-                  ]
-            },
-            {
-                  "name": "Dąb Jagiełły",
-                  "text": "A Białowieża-erdő egyik leghíresebb történelmi tölgyfája, amelyet a lengyel királyról neveztek el.",
-                  "category": "landmark",
-                  "coords": [
-                        23.8294,
-                        52.721995
-                  ]
-            },
-            {
-                  "name": "Zrekonstuowany Peron \"Białowieża Pałac\"",
-                  "text": "Rekonstruált vasúti peron, amely egykor az erdőben található császári vadászkastélyt szolgálta ki.",
-                  "category": "landmark",
-                  "coords": [
-                        23.847206,
-                        52.699431
-                  ]
-            },
-            {
-                  "name": "Sosna Masztowa",
-                  "text": "A nemzeti park egyik figyelemre méltó fenyőpéldánya, amely az erdő ősi jellegét reprezentálja.",
-                  "category": "landmark",
-                  "coords": [
-                        23.830804,
-                        52.722455
-                  ]
-            },
-            {
-                  "name": "Osada Dziedzinka",
-                  "text": "Történelmi erdei település a nemzeti park szívében, amely Simona Kossak természettudós otthonaként ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        23.907224,
-                        52.722127
                   ]
             },
             {
@@ -136,57 +46,12 @@ export const polandLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Muzeum Przyrodniczo-Leśne BPN im. prof. Jana Miklaszewskiego",
-                  "text": "Un muzeu modern în Białowieża care prezintă natura și istoria unică a pădurii virgine.",
-                  "category": "museum",
-                  "coords": [
-                        23.847264,
-                        52.703488
-                  ]
-            },
-            {
                   "name": "Strefa ochrony ścisłej Białowieskiego Parku Narodowego",
                   "text": "O zonă centrală strict protejată a Pădurii Białowieża, accesibilă numai cu un ghid autorizat.",
                   "category": "natural",
                   "coords": [
                         23.874065,
                         52.751219
-                  ]
-            },
-            {
-                  "name": "Dąb Jagiełły",
-                  "text": "Unul dintre cei mai faimoși stejari istorici din Pădurea Białowieża, numit după regele polonez.",
-                  "category": "landmark",
-                  "coords": [
-                        23.8294,
-                        52.721995
-                  ]
-            },
-            {
-                  "name": "Zrekonstuowany Peron \"Białowieża Pałac\"",
-                  "text": "Un peron feroviar reconstruit care a servit cândva palatul imperial de vânătoare din pădure.",
-                  "category": "landmark",
-                  "coords": [
-                        23.847206,
-                        52.699431
-                  ]
-            },
-            {
-                  "name": "Sosna Masztowa",
-                  "text": "Un exemplar remarcabil de pin din parcul național, reprezentativ pentru caracterul virgin al pădurii.",
-                  "category": "landmark",
-                  "coords": [
-                        23.830804,
-                        52.722455
-                  ]
-            },
-            {
-                  "name": "Osada Dziedzinka",
-                  "text": "O așezare forestieră istorică în inima parcului național, cunoscută ca locuința naturalistei Simona Kossak.",
-                  "category": "landmark",
-                  "coords": [
-                        23.907224,
-                        52.722127
                   ]
             },
             {
@@ -201,57 +66,12 @@ export const polandLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Muzeum Przyrodniczo-Leśne BPN im. prof. Jana Miklaszewskiego",
-                  "text": "A modern museum in Białowieża showcasing the unique nature and history of the primeval forest.",
-                  "category": "museum",
-                  "coords": [
-                        23.847264,
-                        52.703488
-                  ]
-            },
-            {
                   "name": "Białowieża National Park Restricted Area",
                   "text": "A strictly protected core area of the Białowieża Forest, accessible only with a licensed guide.",
                   "category": "natural",
                   "coords": [
                         23.874065,
                         52.751219
-                  ]
-            },
-            {
-                  "name": "The King Jogaila Oak",
-                  "text": "One of the most famous historic oak trees in the Białowieża Forest, named after the Polish king.",
-                  "category": "landmark",
-                  "coords": [
-                        23.8294,
-                        52.721995
-                  ]
-            },
-            {
-                  "name": "Reconstructed Peron \"Bialowieza Palace",
-                  "text": "A reconstructed railway platform that once served the imperial hunting palace in the forest.",
-                  "category": "landmark",
-                  "coords": [
-                        23.847206,
-                        52.699431
-                  ]
-            },
-            {
-                  "name": "Mast Pine tree",
-                  "text": "A remarkable specimen of a pine tree in the national park, representative of the forest's primeval character.",
-                  "category": "landmark",
-                  "coords": [
-                        23.830804,
-                        52.722455
-                  ]
-            },
-            {
-                  "name": "Osada Dziedzinka",
-                  "text": "A historic forest settlement in the heart of the national park, known as the home of naturalist Simona Kossak.",
-                  "category": "landmark",
-                  "coords": [
-                        23.907224,
-                        52.722127
                   ]
             },
             {
@@ -646,15 +466,6 @@ export const polandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kamienna / Kamenná lúka",
-                  "text": "Ein Aussichtspunkt an der Grenze zwischen Polen und der Slowakei in den Bieszczady.",
-                  "category": "natural",
-                  "coords": [
-                        22.547181,
-                        49.090899
-                  ]
-            },
-            {
                   "name": "Wierch Wyżniański",
                   "text": "Ein Berggipfel im Nationalpark Bieszczady mit malerischer Aussicht.",
                   "category": "landmark",
@@ -708,15 +519,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         22.63197,
                         49.07194
-                  ]
-            },
-            {
-                  "name": "Kamienna / Kamenná lúka",
-                  "text": "Kilátópont a lengyel-szlovák határon a Bieszczady-hegységben.",
-                  "category": "natural",
-                  "coords": [
-                        22.547181,
-                        49.090899
                   ]
             },
             {
@@ -776,15 +578,6 @@ export const polandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kamienna / Kamenná lúka",
-                  "text": "Un punct de belvedere la granița dintre Polonia și Slovacia, în Munții Bieszczady.",
-                  "category": "natural",
-                  "coords": [
-                        22.547181,
-                        49.090899
-                  ]
-            },
-            {
                   "name": "Wierch Wyżniański",
                   "text": "Un vârf muntos care oferă vederi pitorești în cadrul Parcului Național Bieszczady.",
                   "category": "landmark",
@@ -838,15 +631,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         22.63197,
                         49.07194
-                  ]
-            },
-            {
-                  "name": "Kamienna / Kamenná lúka",
-                  "text": "A viewpoint on the border between Poland and Slovakia in the Bieszczady.",
-                  "category": "natural",
-                  "coords": [
-                        22.547181,
-                        49.090899
                   ]
             },
             {
@@ -916,15 +700,6 @@ export const polandLifeV2: POI[] = [
     id: "poland-kampinos-national-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Nationalpark Kampinos",
-                  "text": "Ein großer Nationalpark bei Warschau, bekannt für seine Binnendünen, Feuchtgebiete und vielfältige Tierwelt.",
-                  "category": "natural",
-                  "coords": [
-                        20.579499,
-                        52.323647
-                  ]
-            },
-            {
                   "name": "Roztoka",
                   "text": "Ein Naturschutzgebiet im Nationalpark Kampinos zum Schutz wertvoller Waldökosysteme.",
                   "category": "natural",
@@ -940,15 +715,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         20.576905,
                         52.320096
-                  ]
-            },
-            {
-                  "name": "Biela",
-                  "text": "Ein Waldreservat im Nationalpark Kampinos, das der Erhaltung natürlicher Waldgebiete gewidmet ist.",
-                  "category": "natural",
-                  "coords": [
-                        20.569589,
-                        52.35065
                   ]
             },
             {
@@ -981,15 +747,6 @@ export const polandLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Kampinoski Park Narodowy",
-                  "text": "Varsó közeli nagy nemzeti park, amely belső dűnéiről, vizes élőhelyeiről és változatos élővilágáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        20.579499,
-                        52.323647
-                  ]
-            },
-            {
                   "name": "Roztoka",
                   "text": "Természetvédelmi terület a Kampinos Nemzeti Parkban, amely értékes erdei ökoszisztémákat véd.",
                   "category": "natural",
@@ -1005,15 +762,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         20.576905,
                         52.320096
-                  ]
-            },
-            {
-                  "name": "Biela",
-                  "text": "Erdei rezervátum a Kampinos Nemzeti Parkban, amely a természetes erdők megőrzését szolgálja.",
-                  "category": "natural",
-                  "coords": [
-                        20.569589,
-                        52.35065
                   ]
             },
             {
@@ -1046,15 +794,6 @@ export const polandLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Kampinoski Park Narodowy",
-                  "text": "Un parc național mare lângă Varșovia, cunoscut pentru dunele sale interioare, zonele umede și fauna diversă.",
-                  "category": "natural",
-                  "coords": [
-                        20.579499,
-                        52.323647
-                  ]
-            },
-            {
                   "name": "Roztoka",
                   "text": "O rezervație naturală în cadrul Parcului Național Kampinos care protejează ecosisteme forestiere valoroase.",
                   "category": "natural",
@@ -1070,15 +809,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         20.576905,
                         52.320096
-                  ]
-            },
-            {
-                  "name": "Biela",
-                  "text": "O rezervație forestieră în Parcul Național Kampinos dedicată conservării pădurilor naturale.",
-                  "category": "natural",
-                  "coords": [
-                        20.569589,
-                        52.35065
                   ]
             },
             {
@@ -1111,15 +841,6 @@ export const polandLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Kampinos National Park",
-                  "text": "A large national park near Warsaw known for its inland dunes, wetlands, and diverse wildlife.",
-                  "category": "natural",
-                  "coords": [
-                        20.579499,
-                        52.323647
-                  ]
-            },
-            {
                   "name": "Roztoka",
                   "text": "A nature reserve within Kampinos National Park protecting valuable forest ecosystems.",
                   "category": "natural",
@@ -1135,15 +856,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         20.576905,
                         52.320096
-                  ]
-            },
-            {
-                  "name": "Biela",
-                  "text": "A forest reserve in Kampinos National Park dedicated to the preservation of natural woodland.",
-                  "category": "natural",
-                  "coords": [
-                        20.569589,
-                        52.35065
                   ]
             },
             {
@@ -1358,57 +1070,12 @@ export const polandLifeV2: POI[] = [
     id: "poland-pieniny-national-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Pieninen-Burg",
-                  "text": "Burgruine aus dem 13. Jahrhundert im Nationalpark Pieninen.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Rotes Kloster",
-                  "text": "Ein historisches Kartäuserkloster, bekannt für seine architektonischen Details aus rotem Backstein.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
                   "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
                   "text": "Ein Ausstellungs- und Informationszentrum am Startpunkt der Dunajec-Floßfahrt.",
                   "category": "museum",
                   "coords": [
                         20.367983,
                         49.406449
-                  ]
-            },
-            {
-                  "name": "Ninja Park",
-                  "text": "Ein Outdoor-Abenteuerpark mit verschiedenen Hindernisparcours und Aktivitäten für Familien.",
-                  "category": "recreational",
-                  "coords": [
-                        20.415994,
-                        49.440811
-                  ]
-            },
-            {
-                  "name": "Wystawa Przyrodnicza PPN",
-                  "text": "Eine naturkundliche Ausstellung, die die vielfältige Flora und Fauna des Nationalparks Pieniny zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        20.419414,
-                        49.440268
-                  ]
-            },
-            {
-                  "name": "ABlandia",
-                  "text": "Ein Freizeitpark in der Region Pieniny mit Seilgärten und Outdoor-Unterhaltung für die ganze Familie.",
-                  "category": "recreational",
-                  "coords": [
-                        20.414995,
-                        49.440683
                   ]
             },
             {
@@ -1428,45 +1095,9 @@ export const polandLifeV2: POI[] = [
                         20.419253,
                         49.442686
                   ]
-            },
-            {
-                  "name": "Spiska Kraina",
-                  "text": "Ein Themenpark im Pieniny-Nationalpark, der Unterhaltung für Familien bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        20.316798,
-                        49.417138
-                  ]
-            },
-            {
-                  "name": "Park Miniatur - Sanktuaria Maryjne",
-                  "text": "Ein Miniaturpark im Pieniny-Nationalpark, der Modelle bekannter Marienheiligtümer zeigt.",
-                  "category": "recreational",
-                  "coords": [
-                        20.318632,
-                        49.418605
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Zamek Pieniński",
-                  "text": "13. századi várrom a Pieninek Nemzeti Parkban.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Vöröskolostor",
-                  "text": "Történelmi karthauzi kolostor, amely vörös téglás építészeti elemeiről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
             {
                   "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
                   "text": "Kiállító- és információs központ a dunajeci tutajozás kiindulópontjánál.",
@@ -1474,33 +1105,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         20.367983,
                         49.406449
-                  ]
-            },
-            {
-                  "name": "Ninja Park",
-                  "text": "Szabadtéri kalandpark, amely különféle akadálypályákat és tevékenységeket kínál családoknak.",
-                  "category": "recreational",
-                  "coords": [
-                        20.415994,
-                        49.440811
-                  ]
-            },
-            {
-                  "name": "Wystawa Przyrodnicza PPN",
-                  "text": "Természettudományi kiállítás, amely a Pieninek Nemzeti Park változatos növény- és állatvilágát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.419414,
-                        49.440268
-                  ]
-            },
-            {
-                  "name": "ABlandia",
-                  "text": "Kalandpark a Pieninek régióban, kötélpályákkal és szabadtéri családi szórakozási lehetőségekkel.",
-                  "category": "recreational",
-                  "coords": [
-                        20.414995,
-                        49.440683
                   ]
             },
             {
@@ -1520,45 +1124,9 @@ export const polandLifeV2: POI[] = [
                         20.419253,
                         49.442686
                   ]
-            },
-            {
-                  "name": "Spiska Kraina",
-                  "text": "Vidámpark a Pieniny Nemzeti Parkban, szórakozást kínálva a családoknak.",
-                  "category": "recreational",
-                  "coords": [
-                        20.316798,
-                        49.417138
-                  ]
-            },
-            {
-                  "name": "Park Miniatur - Sanktuaria Maryjne",
-                  "text": "Miniatűrpark a Pieniny Nemzeti Parkban, amely híres Mária-kegyhelyek makettjeit mutatja be.",
-                  "category": "recreational",
-                  "coords": [
-                        20.318632,
-                        49.418605
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Zamek Pieniński",
-                  "text": "Ruinele unui castel din secolul al XIII-lea în Parcul Național Pieniny.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Červený kláštor",
-                  "text": "O mănăstire cartusiană istorică, cunoscută pentru detaliile sale arhitecturale din cărămidă roșie.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
             {
                   "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
                   "text": "Un centru de expoziții și informații situat la punctul de plecare al raftingului pe râul Dunajec.",
@@ -1566,33 +1134,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         20.367983,
                         49.406449
-                  ]
-            },
-            {
-                  "name": "Ninja Park",
-                  "text": "Un parc de aventură în aer liber care oferă diverse trasee cu obstacole și activități pentru familii.",
-                  "category": "recreational",
-                  "coords": [
-                        20.415994,
-                        49.440811
-                  ]
-            },
-            {
-                  "name": "Wystawa Przyrodnicza PPN",
-                  "text": "O expoziție de istorie naturală care prezintă flora și fauna diversă a Parcului Național Pieniny.",
-                  "category": "museum",
-                  "coords": [
-                        20.419414,
-                        49.440268
-                  ]
-            },
-            {
-                  "name": "ABlandia",
-                  "text": "Un parc tematic din regiunea Pieniny, cu trasee de frânghii și divertisment în aer liber pentru familii.",
-                  "category": "recreational",
-                  "coords": [
-                        20.414995,
-                        49.440683
                   ]
             },
             {
@@ -1612,45 +1153,9 @@ export const polandLifeV2: POI[] = [
                         20.419253,
                         49.442686
                   ]
-            },
-            {
-                  "name": "Spiska Kraina",
-                  "text": "Un parc tematic în Parcul Național Pieniny, oferind divertisment pentru familii.",
-                  "category": "recreational",
-                  "coords": [
-                        20.316798,
-                        49.417138
-                  ]
-            },
-            {
-                  "name": "Park Miniatur - Sanktuaria Maryjne",
-                  "text": "Un parc de miniaturi în Parcul Național Pieniny, prezentând machete ale unor sanctuare mariane.",
-                  "category": "recreational",
-                  "coords": [
-                        20.318632,
-                        49.418605
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Pieniny Castle",
-                  "text": "13th-century castle ruins in Pieniny National Park.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Červený kláštor",
-                  "text": "A historic Carthusian monastery known for its red brick architectural details.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
             {
                   "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
                   "text": "An exhibition and information center located at the starting point of the Dunajec river rafting.",
@@ -1658,33 +1163,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         20.367983,
                         49.406449
-                  ]
-            },
-            {
-                  "name": "Ninja Park",
-                  "text": "An outdoor adventure park offering various obstacle courses and activities for families.",
-                  "category": "recreational",
-                  "coords": [
-                        20.415994,
-                        49.440811
-                  ]
-            },
-            {
-                  "name": "Wystawa Przyrodnicza PPN",
-                  "text": "A natural history exhibition showcasing the diverse flora and fauna of the Pieniny National Park.",
-                  "category": "museum",
-                  "coords": [
-                        20.419414,
-                        49.440268
-                  ]
-            },
-            {
-                  "name": "ABlandia",
-                  "text": "A theme park in the Pieniny region featuring rope courses and outdoor family entertainment.",
-                  "category": "recreational",
-                  "coords": [
-                        20.414995,
-                        49.440683
                   ]
             },
             {
@@ -1703,24 +1181,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         20.419253,
                         49.442686
-                  ]
-            },
-            {
-                  "name": "Spiska Kraina",
-                  "text": "A theme park in the Pieniny National Park, offering entertainment and activities for families.",
-                  "category": "recreational",
-                  "coords": [
-                        20.316798,
-                        49.417138
-                  ]
-            },
-            {
-                  "name": "Park Miniatur - Sanktuaria Maryjne",
-                  "text": "A miniature park in the Pieniny National Park showcasing models of famous Marian sanctuaries.",
-                  "category": "recreational",
-                  "coords": [
-                        20.318632,
-                        49.418605
                   ]
             }
       ]
@@ -1772,24 +1232,6 @@ export const polandLifeV2: POI[] = [
     id: "poland-wigry-national-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Pomost",
-                  "text": "Ein Steg im Nationalpark Wigry, der weite Ausblicke über den See bietet.",
-                  "category": "natural",
-                  "coords": [
-                        23.025303,
-                        54.012513
-                  ]
-            },
-            {
-                  "name": "Widoki",
-                  "text": "Ein Aussichtspunkt im Nationalpark Wigry mit Blick auf die natürliche Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        23.056582,
-                        54.022582
-                  ]
-            },
-            {
                   "name": "Kościół pw. Matki Bożej Anielskiej",
                   "text": "Eine historische Holzkirche in Monkiniach, die Teil des Nationalparks Wigry ist.",
                   "category": "religious",
@@ -1809,24 +1251,6 @@ export const polandLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Pomost",
-                  "text": "Egy móló a Wigry Nemzeti Parkban, amely szép kilátást nyújt a tóra.",
-                  "category": "natural",
-                  "coords": [
-                        23.025303,
-                        54.012513
-                  ]
-            },
-            {
-                  "name": "Widoki",
-                  "text": "Kilátóhely a Wigry Nemzeti Parkban, rálátással a természetes környezetre.",
-                  "category": "natural",
-                  "coords": [
-                        23.056582,
-                        54.022582
-                  ]
-            },
             {
                   "name": "Kościół pw. Matki Bożej Anielskiej",
                   "text": "Egy történelmi fatemplom Monkiniachban, amely a Wigry Nemzeti Park részét képezi.",
@@ -1848,24 +1272,6 @@ export const polandLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Pomost",
-                  "text": "Un pont situat în Parcul Național Wigry, oferind vederi panoramice asupra lacului.",
-                  "category": "natural",
-                  "coords": [
-                        23.025303,
-                        54.012513
-                  ]
-            },
-            {
-                  "name": "Widoki",
-                  "text": "Un punct de observație în Parcul Național Wigry, cu vedere spre împrejurimile naturale.",
-                  "category": "natural",
-                  "coords": [
-                        23.056582,
-                        54.022582
-                  ]
-            },
-            {
                   "name": "Kościół pw. Matki Bożej Anielskiej",
                   "text": "O biserică istorică de lemn din Monkiniach, aflată în cadrul Parcului Național Wigry.",
                   "category": "religious",
@@ -1885,24 +1291,6 @@ export const polandLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Pomost",
-                  "text": "A pier in the Wigry National Park offering wide views over the lake.",
-                  "category": "natural",
-                  "coords": [
-                        23.025303,
-                        54.012513
-                  ]
-            },
-            {
-                  "name": "Widoki",
-                  "text": "A viewpoint in the Wigry National Park overlooking the natural surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        23.056582,
-                        54.022582
-                  ]
-            },
             {
                   "name": "Kościół pw. Matki Bożej Anielskiej",
                   "text": "A historic wooden church in Monkiniach, located within the Wigry National Park.",
@@ -1970,33 +1358,6 @@ export const polandLifeV2: POI[] = [
     id: "poland-karkonosze-national-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Muzeum Kostek LEGO",
-                  "text": "Dieses Museum zeigt eine umfangreiche Sammlung von LEGO-Modellen und Bauwerken.",
-                  "category": "museum",
-                  "coords": [
-                        15.605548,
-                        50.726108
-                  ]
-            },
-            {
-                  "name": "Aquapark",
-                  "text": "Dieser Aquapark bietet verschiedene Wasserattraktionen und Erholungsmöglichkeiten.",
-                  "category": "recreational",
-                  "coords": [
-                        15.609347,
-                        50.734069
-                  ]
-            },
-            {
-                  "name": "Mädelsteine",
-                  "text": "Diese markanten Granitfelsen befinden sich auf dem Hauptkamm des Riesengebirges.",
-                  "category": "landmark",
-                  "coords": [
-                        15.601756,
-                        50.77681
-                  ]
-            },
-            {
                   "name": "Kleine Sturmhaube",
                   "text": "Der Mały Szyszak ist ein Gipfel an der Grenze zwischen Polen und Tschechien im Riesengebirge.",
                   "category": "landmark",
@@ -2043,33 +1404,6 @@ export const polandLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Muzeum Kostek LEGO",
-                  "text": "Ez a múzeum LEGO-modellek és építmények széles körű gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        15.605548,
-                        50.726108
-                  ]
-            },
-            {
-                  "name": "Aquapark",
-                  "text": "Ez az aquapark különféle vízi attrakciókat és kikapcsolódási lehetőségeket kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        15.609347,
-                        50.734069
-                  ]
-            },
-            {
-                  "name": "Śląskie Kamienie / Dívčí kameny",
-                  "text": "Ezek a jellegzetes gránitsziklák az Óriás-hegység főgerincén találhatók.",
-                  "category": "landmark",
-                  "coords": [
-                        15.601756,
-                        50.77681
-                  ]
-            },
             {
                   "name": "Mały Szyszak / Malý Šišák",
                   "text": "A Mały Szyszak egy hegycsúcs a lengyel-cseh határon, az Óriás-hegységben.",
@@ -2118,33 +1452,6 @@ export const polandLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Muzeum Kostek LEGO",
-                  "text": "Acest muzeu expune o colecție vastă de modele și construcții LEGO.",
-                  "category": "museum",
-                  "coords": [
-                        15.605548,
-                        50.726108
-                  ]
-            },
-            {
-                  "name": "Aquapark",
-                  "text": "Acest aquapark oferă diverse atracții acvatice și facilități de relaxare.",
-                  "category": "recreational",
-                  "coords": [
-                        15.609347,
-                        50.734069
-                  ]
-            },
-            {
-                  "name": "Śląskie Kamienie / Dívčí kameny",
-                  "text": "Aceste formațiuni stâncoase de granit se află pe creasta principală a Munților Karkonosze.",
-                  "category": "landmark",
-                  "coords": [
-                        15.601756,
-                        50.77681
-                  ]
-            },
-            {
                   "name": "Mały Szyszak / Malý Šišák",
                   "text": "Mały Szyszak este un vârf de la granița polono-cehă din Munții Karkonosze.",
                   "category": "landmark",
@@ -2191,33 +1498,6 @@ export const polandLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Muzeum Kostek LEGO",
-                  "text": "This museum displays an extensive collection of LEGO models and structures.",
-                  "category": "museum",
-                  "coords": [
-                        15.605548,
-                        50.726108
-                  ]
-            },
-            {
-                  "name": "Aquapark",
-                  "text": "This water park offers various water attractions and recreational facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        15.609347,
-                        50.734069
-                  ]
-            },
-            {
-                  "name": "Śląskie Kamienie / Dívčí kameny",
-                  "text": "These prominent granite rock formations are located on the main ridge of the Karkonosze Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        15.601756,
-                        50.77681
-                  ]
-            },
             {
                   "name": "Mały Szyszak / Malý Šišák",
                   "text": "Mały Szyszak is a mountain peak on the Polish-Czech border in the Karkonosze Mountains.",
@@ -2744,24 +2024,6 @@ export const polandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Weiberberg",
-                  "text": "Der höchste Gipfel der Beskiden an der Grenze zwischen Polen und der Slowakei.",
-                  "category": "landmark",
-                  "coords": [
-                        19.52933,
-                        49.573023
-                  ]
-            },
-            {
-                  "name": "Gówniak",
-                  "text": "Der Gówniak ist ein Gipfel im Massiv der Babia Góra.",
-                  "category": "landmark",
-                  "coords": [
-                        19.540206,
-                        49.575128
-                  ]
-            },
-            {
                   "name": "Sokolica",
                   "text": "Ein markanter Gipfel im Babia-Góra-Massiv mit schöner Aussicht.",
                   "category": "landmark",
@@ -2777,15 +2039,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         19.556816,
                         49.579968
-                  ]
-            },
-            {
-                  "name": "Bukovský grúň",
-                  "text": "Der Bukovský grúň ist ein Berggipfel im Nationalpark Babia Góra.",
-                  "category": "landmark",
-                  "coords": [
-                        19.494364,
-                        49.564554
                   ]
             },
             {
@@ -2818,24 +2071,6 @@ export const polandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Babia Góra / Babia hora",
-                  "text": "A Beszkidek legmagasabb csúcsa a lengyel-szlovák határon.",
-                  "category": "landmark",
-                  "coords": [
-                        19.52933,
-                        49.573023
-                  ]
-            },
-            {
-                  "name": "Gówniak",
-                  "text": "A Gówniak egy csúcs a Babia Góra-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        19.540206,
-                        49.575128
-                  ]
-            },
-            {
                   "name": "Sokolica",
                   "text": "Jellegzetes csúcs a Babia Góra-hegységben, szép kilátással.",
                   "category": "landmark",
@@ -2851,15 +2086,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         19.556816,
                         49.579968
-                  ]
-            },
-            {
-                  "name": "Bukovský grúň",
-                  "text": "A Bukovský grúň egy hegycsúcs a Babia Góra Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        19.494364,
-                        49.564554
                   ]
             },
             {
@@ -2892,24 +2118,6 @@ export const polandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Babia Góra / Babia hora",
-                  "text": "Cel mai înalt vârf din Beskizi, la granița dintre Polonia și Slovacia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.52933,
-                        49.573023
-                  ]
-            },
-            {
-                  "name": "Gówniak",
-                  "text": "Gówniak este un vârf în masivul Babia Góra.",
-                  "category": "landmark",
-                  "coords": [
-                        19.540206,
-                        49.575128
-                  ]
-            },
-            {
                   "name": "Sokolica",
                   "text": "Un vârf distinctiv în masivul Babia Góra, cu vederi frumoase.",
                   "category": "landmark",
@@ -2925,15 +2133,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         19.556816,
                         49.579968
-                  ]
-            },
-            {
-                  "name": "Bukovský grúň",
-                  "text": "Bukovský grúň este un vârf montan în Parcul Național Babia Góra.",
-                  "category": "landmark",
-                  "coords": [
-                        19.494364,
-                        49.564554
                   ]
             },
             {
@@ -2966,24 +2165,6 @@ export const polandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Babia Góra / Babia hora",
-                  "text": "The highest peak of the Beskids on the border between Poland and Slovakia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.52933,
-                        49.573023
-                  ]
-            },
-            {
-                  "name": "Gówniak",
-                  "text": "Gówniak is a peak in the Babia Góra massif.",
-                  "category": "landmark",
-                  "coords": [
-                        19.540206,
-                        49.575128
-                  ]
-            },
-            {
                   "name": "Sokolica",
                   "text": "A distinctive peak in the Babia Góra range with beautiful views.",
                   "category": "landmark",
@@ -2999,15 +2180,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         19.556816,
                         49.579968
-                  ]
-            },
-            {
-                  "name": "Bukovský grúň",
-                  "text": "Bukovský grúň is a mountain peak in Babia Gora National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        19.494364,
-                        49.564554
                   ]
             },
             {
@@ -3401,33 +2573,6 @@ export const polandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Große Heuscheuer",
-                  "text": "Der höchste Gipfel des Heuscheuergebirges, bekannt für sein weitläufiges Felsenlabyrinth aus Sandstein und Aussichtspunkte.",
-                  "category": "natural",
-                  "coords": [
-                        16.341006,
-                        50.484814
-                  ]
-            },
-            {
-                  "name": "Kleine Heuscheuer",
-                  "text": "Ein Sandsteingipfel im Nationalpark Heuscheuergebirge, direkt neben seinem höheren Nachbarn Szczeliniec Wielki gelegen.",
-                  "category": "landmark",
-                  "coords": [
-                        16.33362,
-                        50.483646
-                  ]
-            },
-            {
-                  "name": "Spiegelberg",
-                  "text": "Der zweithöchste Gipfel des Heuscheuergebirges mit einem flachen Gipfelplateau und Felsformationen.",
-                  "category": "landmark",
-                  "coords": [
-                        16.321601,
-                        50.472158
-                  ]
-            },
-            {
                   "name": "Eckstein",
                   "text": "Ein beliebter Gipfel im Heuscheuergebirge, der von seinen markanten Sandsteinfelsen einen Panoramablick bietet.",
                   "category": "landmark",
@@ -3472,33 +2617,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         16.347134,
                         50.463762
-                  ]
-            },
-            {
-                  "name": "Szczeliniec Wielki",
-                  "text": "A Tábla-hegység legmagasabb csúcsa, amely kiterjedt homokkő sziklalabirintusáról és kilátóiról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        16.341006,
-                        50.484814
-                  ]
-            },
-            {
-                  "name": "Szczeliniec Mały",
-                  "text": "Homokkő csúcs a Tábla-hegység Nemzeti Parkban, a magasabb Szczeliniec Wielki szomszédságában.",
-                  "category": "landmark",
-                  "coords": [
-                        16.33362,
-                        50.483646
-                  ]
-            },
-            {
-                  "name": "Skalniak",
-                  "text": "A Tábla-hegység második legmagasabb csúcsa, lapos fennsíkkal és különleges sziklaalakzatokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        16.321601,
-                        50.472158
                   ]
             },
             {
@@ -3549,33 +2667,6 @@ export const polandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Szczeliniec Wielki",
-                  "text": "Cel mai înalt vârf din Munții Stołowe, cunoscut pentru labirintul său de stânci de gresie și punctele de belvedere.",
-                  "category": "natural",
-                  "coords": [
-                        16.341006,
-                        50.484814
-                  ]
-            },
-            {
-                  "name": "Szczeliniec Mały",
-                  "text": "Un vârf de gresie în Parcul Național Munții Stołowe, situat lângă vecinul său mai înalt, Szczeliniec Wielki.",
-                  "category": "landmark",
-                  "coords": [
-                        16.33362,
-                        50.483646
-                  ]
-            },
-            {
-                  "name": "Skalniak",
-                  "text": "Al doilea cel mai înalt vârf din Munții Stołowe, cu un platou somital plat și formațiuni stâncoase.",
-                  "category": "landmark",
-                  "coords": [
-                        16.321601,
-                        50.472158
-                  ]
-            },
-            {
                   "name": "Narożnik",
                   "text": "Un vârf popular în Munții Stołowe care oferă vederi panoramice de pe stâncile sale caracteristice de gresie.",
                   "category": "landmark",
@@ -3620,33 +2711,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         16.347134,
                         50.463762
-                  ]
-            },
-            {
-                  "name": "Szczeliniec Wielki",
-                  "text": "The highest peak of the Stołowe Mountains, known for its extensive sandstone rock labyrinth and viewpoints.",
-                  "category": "natural",
-                  "coords": [
-                        16.341006,
-                        50.484814
-                  ]
-            },
-            {
-                  "name": "Szczeliniec Mały",
-                  "text": "A sandstone peak in the Stołowe Mountains National Park, situated next to its higher neighbor Szczeliniec Wielki.",
-                  "category": "landmark",
-                  "coords": [
-                        16.33362,
-                        50.483646
-                  ]
-            },
-            {
-                  "name": "Skalniak",
-                  "text": "The second highest peak of the Stołowe Mountains, featuring a flat summit plateau with rock formations.",
-                  "category": "landmark",
-                  "coords": [
-                        16.321601,
-                        50.472158
                   ]
             },
             {
@@ -4112,48 +3176,12 @@ export const polandLifeV2: POI[] = [
     id: "poland-ojcow-national-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Jaskinia Ciemna",
-                  "text": "Eine bedeutende archäologische Höhle im Nationalpark Ojców mit Spuren früher Besiedlung.",
-                  "category": "historical",
-                  "coords": [
-                        19.83175,
-                        50.196843
-                  ]
-            },
-            {
-                  "name": "Ekspozycja Przyrodnicza",
-                  "text": "Die naturkundliche Ausstellung des Nationalparks Ojców, die dessen Flora und Fauna vorstellt.",
-                  "category": "museum",
-                  "coords": [
-                        19.829362,
-                        50.209963
-                  ]
-            },
-            {
-                  "name": "Grodzisko na górze Okopy",
-                  "text": "Überreste einer frühmittelalterlichen Wallburg auf dem Hügel Okopy im Nationalpark Ojców.",
-                  "category": "historical",
-                  "coords": [
-                        19.836401,
-                        50.192155
-                  ]
-            },
-            {
                   "name": "Boroniówka",
                   "text": "Historische Wasser- und Sägemühle im Nationalpark Ojców, die heute als Freilichtmuseum dient.",
                   "category": "museum",
                   "coords": [
                         19.832501,
                         50.222358
-                  ]
-            },
-            {
-                  "name": "Jaskinia Łokietka",
-                  "text": "Die größte Höhle im Nationalpark Ojców, in der sich laut Legende König Władysław Łokietek versteckte.",
-                  "category": "landmark",
-                  "coords": [
-                        19.818897,
-                        50.201633
                   ]
             },
             {
@@ -4177,48 +3205,12 @@ export const polandLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Jaskinia Ciemna",
-                  "text": "Jelentős régészeti barlang az Ojcówi Nemzeti Parkban, korai emberi jelenlét nyomaival.",
-                  "category": "historical",
-                  "coords": [
-                        19.83175,
-                        50.196843
-                  ]
-            },
-            {
-                  "name": "Ekspozycja Przyrodnicza",
-                  "text": "Az Ojcówi Nemzeti Park természetrajzi kiállítása, amely a helyi élővilágot mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        19.829362,
-                        50.209963
-                  ]
-            },
-            {
-                  "name": "Grodzisko na górze Okopy",
-                  "text": "Kora középkori földvár maradványai az Okopy-hegyen, az Ojcówi Nemzeti Parkban.",
-                  "category": "historical",
-                  "coords": [
-                        19.836401,
-                        50.192155
-                  ]
-            },
-            {
                   "name": "Boroniówka",
                   "text": "Történelmi vízimalom és fűrésztelep az Ojcówi Nemzeti Parkban, amely ma múzeumként működik.",
                   "category": "museum",
                   "coords": [
                         19.832501,
                         50.222358
-                  ]
-            },
-            {
-                  "name": "Jaskinia Łokietka",
-                  "text": "Az Ojcówi Nemzeti Park legnagyobb barlangja, ahol a legenda szerint I. Ulászló lengyel király rejtőzködött.",
-                  "category": "landmark",
-                  "coords": [
-                        19.818897,
-                        50.201633
                   ]
             },
             {
@@ -4242,48 +3234,12 @@ export const polandLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Jaskinia Ciemna",
-                  "text": "O peșteră arheologică importantă în Parcul Național Ojców, cu urme de locuire timpurie.",
-                  "category": "historical",
-                  "coords": [
-                        19.83175,
-                        50.196843
-                  ]
-            },
-            {
-                  "name": "Ekspozycja Przyrodnicza",
-                  "text": "Expoziția naturală a Parcului Național Ojców, care prezintă flora și fauna locală.",
-                  "category": "museum",
-                  "coords": [
-                        19.829362,
-                        50.209963
-                  ]
-            },
-            {
-                  "name": "Grodzisko na górze Okopy",
-                  "text": "Rămășițele unei cetăți medievale timpurii pe dealul Okopy din Parcul Național Ojców.",
-                  "category": "historical",
-                  "coords": [
-                        19.836401,
-                        50.192155
-                  ]
-            },
-            {
                   "name": "Boroniówka",
                   "text": "O moară de apă și un gater istoric în Parcul Național Ojców, care funcționează astăzi ca muzeu.",
                   "category": "museum",
                   "coords": [
                         19.832501,
                         50.222358
-                  ]
-            },
-            {
-                  "name": "Jaskinia Łokietka",
-                  "text": "Cea mai mare peșteră din Parcul Național Ojców, unde legenda spune că s-a ascuns regele Władysław Łokietek.",
-                  "category": "landmark",
-                  "coords": [
-                        19.818897,
-                        50.201633
                   ]
             },
             {
@@ -4307,48 +3263,12 @@ export const polandLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Jaskinia Ciemna",
-                  "text": "A significant archaeological cave in Ojców National Park with traces of early human settlement.",
-                  "category": "historical",
-                  "coords": [
-                        19.83175,
-                        50.196843
-                  ]
-            },
-            {
-                  "name": "Ekspozycja Przyrodnicza",
-                  "text": "The natural history exhibition of Ojców National Park, presenting its flora and fauna.",
-                  "category": "museum",
-                  "coords": [
-                        19.829362,
-                        50.209963
-                  ]
-            },
-            {
-                  "name": "Grodzisko na górze Okopy",
-                  "text": "Remains of an early medieval hillfort on Okopy hill in the Ojców National Park.",
-                  "category": "historical",
-                  "coords": [
-                        19.836401,
-                        50.192155
-                  ]
-            },
-            {
                   "name": "Boroniówka",
                   "text": "Historical watermill and sawmill in the Ojców National Park, now serving as a museum.",
                   "category": "museum",
                   "coords": [
                         19.832501,
                         50.222358
-                  ]
-            },
-            {
-                  "name": "Jaskinia Łokietka",
-                  "text": "The largest cave in the Ojców National Park, where legend says King Władysław Łokietek once hid.",
-                  "category": "landmark",
-                  "coords": [
-                        19.818897,
-                        50.201633
                   ]
             },
             {
@@ -4443,15 +3363,6 @@ export const polandLifeV2: POI[] = [
                         20.952109,
                         50.851565
                   ]
-            },
-            {
-                  "name": "Park Rozrywki w Hucie",
-                  "text": "Ein Freizeit- und Bildungspark in der Nähe des Nationalparks Świętokrzyski.",
-                  "category": "recreational",
-                  "coords": [
-                        21.022434,
-                        50.863774
-                  ]
             }
       ],
       "hu": [
@@ -4480,15 +3391,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         20.952109,
                         50.851565
-                  ]
-            },
-            {
-                  "name": "Park Rozrywki w Hucie",
-                  "text": "Szórakoztató és oktatási park a Świętokrzyski Nemzeti Park közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        21.022434,
-                        50.863774
                   ]
             }
       ],
@@ -4519,15 +3421,6 @@ export const polandLifeV2: POI[] = [
                         20.952109,
                         50.851565
                   ]
-            },
-            {
-                  "name": "Park Rozrywki w Hucie",
-                  "text": "Un parc de distracții și educațional situat lângă Parcul Național Świętokrzyski.",
-                  "category": "recreational",
-                  "coords": [
-                        21.022434,
-                        50.863774
-                  ]
             }
       ],
       "en": [
@@ -4556,15 +3449,6 @@ export const polandLifeV2: POI[] = [
                   "coords": [
                         20.952109,
                         50.851565
-                  ]
-            },
-            {
-                  "name": "Park Rozrywki w Hucie",
-                  "text": "An amusement and educational park located near the Świętokrzyski National Park.",
-                  "category": "recreational",
-                  "coords": [
-                        21.022434,
-                        50.863774
                   ]
             }
       ]
@@ -5696,33 +4580,6 @@ export const polandLifeV2: POI[] = [
     id: "poland-gorce-national-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Nationalpark Gorce",
-                  "text": "Ein Nationalpark in den Gorce-Bergen in Polen, bekannt für seine Buchenwälder.",
-                  "category": "natural",
-                  "coords": [
-                        20.150395,
-                        49.56146
-                  ]
-            },
-            {
-                  "name": "Przełęcz Borek",
-                  "text": "Ein Gebirgspass in den Gorce-Bergen mit weitem Ausblick.",
-                  "category": "natural",
-                  "coords": [
-                        20.145664,
-                        49.559179
-                  ]
-            },
-            {
-                  "name": "Jaworzyna Kamienicka",
-                  "text": "Der zweithöchste Gipfel im Gorce-Gebirge, gelegen im Nationalpark.",
-                  "category": "landmark",
-                  "coords": [
-                        20.157368,
-                        49.547766
-                  ]
-            },
-            {
                   "name": "Turbaczyk",
                   "text": "Der Turbaczyk ist ein Gipfel in den Gorcen, Teil des Nationalparks Gorce.",
                   "category": "landmark",
@@ -5769,33 +4626,6 @@ export const polandLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Gorczański Park Narodowy",
-                  "text": "Nemzeti park a lengyelországi Gorce-hegységben, bükkerdeiről nevezetes.",
-                  "category": "natural",
-                  "coords": [
-                        20.150395,
-                        49.56146
-                  ]
-            },
-            {
-                  "name": "Przełęcz Borek",
-                  "text": "Hegyi hágó a Gorce-hegységben, széles kilátással.",
-                  "category": "natural",
-                  "coords": [
-                        20.145664,
-                        49.559179
-                  ]
-            },
-            {
-                  "name": "Jaworzyna Kamienicka",
-                  "text": "A Gorce-hegység második legmagasabb csúcsa a nemzeti park területén.",
-                  "category": "landmark",
-                  "coords": [
-                        20.157368,
-                        49.547766
-                  ]
-            },
             {
                   "name": "Turbaczyk",
                   "text": "A Turbaczyk egy csúcs a Gorce-hegységben, a Gorce Nemzeti Park része.",
@@ -5844,33 +4674,6 @@ export const polandLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Gorczański Park Narodowy",
-                  "text": "Un parc național în munții Gorce din Polonia, cunoscut pentru pădurile sale de fag.",
-                  "category": "natural",
-                  "coords": [
-                        20.150395,
-                        49.56146
-                  ]
-            },
-            {
-                  "name": "Przełęcz Borek",
-                  "text": "O trecătoare montană în munții Gorce, oferind o panoramă vastă.",
-                  "category": "natural",
-                  "coords": [
-                        20.145664,
-                        49.559179
-                  ]
-            },
-            {
-                  "name": "Jaworzyna Kamienicka",
-                  "text": "Al doilea cel mai înalt vârf din munții Gorce, situat în parcul național.",
-                  "category": "landmark",
-                  "coords": [
-                        20.157368,
-                        49.547766
-                  ]
-            },
-            {
                   "name": "Turbaczyk",
                   "text": "Turbaczyk este un vârf în Munții Gorce, parte a Parcului Național Gorce.",
                   "category": "landmark",
@@ -5917,33 +4720,6 @@ export const polandLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Gorce National Park",
-                  "text": "A national park in the Gorce Mountains of Poland, known for its beech forests.",
-                  "category": "natural",
-                  "coords": [
-                        20.150395,
-                        49.56146
-                  ]
-            },
-            {
-                  "name": "Borek pass",
-                  "text": "A mountain pass in the Gorce Mountains with expansive views.",
-                  "category": "natural",
-                  "coords": [
-                        20.145664,
-                        49.559179
-                  ]
-            },
-            {
-                  "name": "Jaworzyna Kamienicka",
-                  "text": "The second highest peak in the Gorce Mountains, located within the national park.",
-                  "category": "landmark",
-                  "coords": [
-                        20.157368,
-                        49.547766
-                  ]
-            },
             {
                   "name": "Turbaczyk",
                   "text": "Turbaczyk is a peak in the Gorce Mountains, part of Gorce National Park.",

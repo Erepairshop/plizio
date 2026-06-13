@@ -24,15 +24,6 @@ export const ukraineNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dantsizh",
-                  "text": "Ein Berg im Tschornohora-Massiv der ukrainischen Karpaten.",
-                  "category": "landmark",
-                  "coords": [
-                        24.531469,
-                        48.135295
-                  ]
-            },
-            {
                   "name": "Pozhizhevs'ka",
                   "text": "Ein Gipfel in der Hohen Beskid-Region der Ukraine, bekannt für seine alpine Landschaft.",
                   "category": "landmark",
@@ -68,15 +59,6 @@ export const ukraineNatureV2: POI[] = [
                   "coords": [
                         24.510544,
                         48.150334
-                  ]
-            },
-            {
-                  "name": "Dantsizh",
-                  "text": "Hegycsúcs az Ukrán-Kárpátokhoz tartozó Máramarosi-havasokban.",
-                  "category": "landmark",
-                  "coords": [
-                        24.531469,
-                        48.135295
                   ]
             },
             {
@@ -118,15 +100,6 @@ export const ukraineNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dantsizh",
-                  "text": "Un munte situat în masivul Ciornohora din Carpații Ucraineni.",
-                  "category": "landmark",
-                  "coords": [
-                        24.531469,
-                        48.135295
-                  ]
-            },
-            {
                   "name": "Pozhizhevs'ka",
                   "text": "Un vârf din regiunea masivului Ciornohora, cunoscut pentru peisajul său alpin.",
                   "category": "landmark",
@@ -162,15 +135,6 @@ export const ukraineNatureV2: POI[] = [
                   "coords": [
                         24.510544,
                         48.150334
-                  ]
-            },
-            {
-                  "name": "Dantsyzh",
-                  "text": "A mountain located in the Chornohora range of the Ukrainian Carpathians.",
-                  "category": "landmark",
-                  "coords": [
-                        24.531469,
-                        48.135295
                   ]
             },
             {
@@ -676,50 +640,10 @@ imageHint: "Askania-Nova steppe with wild horses",
     image: "/poi-images/ukraine-askania-nova-nature-v2.webp",
 },  {
     id: "ukraine-oleshky-sands-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Oleshkivs'ki piski",
-                  "text": "Ein Aussichtspunkt in den Oleschky-Sanden, der größten Sandwüste der Ukraine.",
-                  "category": "natural",
-                  "coords": [
-                        33.05804,
-                        46.59836
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Oleshkivs'ki piski",
-                  "text": "Kilátó az Oleski-homokpusztán, Ukrajna legnagyobb homoksivatagában.",
-                  "category": "natural",
-                  "coords": [
-                        33.05804,
-                        46.59836
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Oleshkivs'ki piski",
-                  "text": "Un punct de observare în Nisipurile Oleșki, cel mai mare deșert de nisip din Ucraina.",
-                  "category": "natural",
-                  "coords": [
-                        33.05804,
-                        46.59836
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Desert",
-                  "text": "A viewpoint in the Oleshky Sands, the largest sand desert in Ukraine.",
-                  "category": "natural",
-                  "coords": [
-                        33.05804,
-                        46.59836
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "UA",
     type: "valley",
@@ -995,15 +919,6 @@ imageHint: "Shypit waterfall in the forest",
                   ]
             },
             {
-                  "name": "Dzembronia",
-                  "text": "Ein beliebter Wandergipfel in der Nähe des gleichnamigen Dorfes im Chornohora-Gebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        24.6054,
-                        48.076208
-                  ]
-            },
-            {
                   "name": "Staiki",
                   "text": "Ein Berg im Tschornohora-Massiv, der Teil einer bekannten Wanderroute durch die Karpaten ist.",
                   "category": "landmark",
@@ -1057,15 +972,6 @@ imageHint: "Shypit waterfall in the forest",
                   "coords": [
                         24.648195,
                         48.031266
-                  ]
-            },
-            {
-                  "name": "Dzembronia",
-                  "text": "Népszerű túrázócsúcs az azonos nevű falu közelében, a Csornohora-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        24.6054,
-                        48.076208
                   ]
             },
             {
@@ -1125,15 +1031,6 @@ imageHint: "Shypit waterfall in the forest",
                   ]
             },
             {
-                  "name": "Dzembronia",
-                  "text": "Un vârf popular pentru drumeții lângă satul cu același nume din munții Ciornohora.",
-                  "category": "landmark",
-                  "coords": [
-                        24.6054,
-                        48.076208
-                  ]
-            },
-            {
                   "name": "Staiki",
                   "text": "Un munte în masivul Ciornohora, parte a unui traseu de drumeție cunoscut prin Carpați.",
                   "category": "landmark",
@@ -1187,15 +1084,6 @@ imageHint: "Shypit waterfall in the forest",
                   "coords": [
                         24.648195,
                         48.031266
-                  ]
-            },
-            {
-                  "name": "Dzembronia",
-                  "text": "A popular hiking peak near the village of the same name in the Chornohora mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        24.6054,
-                        48.076208
                   ]
             },
             {
@@ -1817,15 +1705,6 @@ imageHint: "Aktove Canyon granite rocks and river",
                   ]
             },
             {
-                  "name": "Stig",
-                  "text": "Der Stih ist ein 1.708 m hoher Gipfel im Swydowez-Massiv der Karpaten.",
-                  "category": "landmark",
-                  "coords": [
-                        24.224105,
-                        48.250893
-                  ]
-            },
-            {
                   "name": "Dogiaska",
                   "text": "Ein markanter Gipfel in den Karpaten, bekannt für seine Aussicht.",
                   "category": "landmark",
@@ -1852,15 +1731,6 @@ imageHint: "Aktove Canyon granite rocks and river",
                   "coords": [
                         24.192787,
                         48.276332
-                  ]
-            },
-            {
-                  "name": "Stig",
-                  "text": "A Stih egy 1708 m magas csúcs a Szvidovec-hegységben, a Kárpátokban.",
-                  "category": "landmark",
-                  "coords": [
-                        24.224105,
-                        48.250893
                   ]
             },
             {
@@ -1893,15 +1763,6 @@ imageHint: "Aktove Canyon granite rocks and river",
                   ]
             },
             {
-                  "name": "Stig",
-                  "text": "Stih este un vârf de 1.708 m în masivul Svydoveț din Carpați.",
-                  "category": "landmark",
-                  "coords": [
-                        24.224105,
-                        48.250893
-                  ]
-            },
-            {
                   "name": "Dogiaska",
                   "text": "Un vârf proeminent din Carpați, cunoscut pentru panoramele sale.",
                   "category": "landmark",
@@ -1928,15 +1789,6 @@ imageHint: "Aktove Canyon granite rocks and river",
                   "coords": [
                         24.192787,
                         48.276332
-                  ]
-            },
-            {
-                  "name": "Stih",
-                  "text": "Stih is a 1,708 m peak in the Svydovets massif of the Carpathians.",
-                  "category": "landmark",
-                  "coords": [
-                        24.224105,
-                        48.250893
                   ]
             },
             {
@@ -2007,48 +1859,12 @@ imageHint: "Vorozheska mountain lake aerial view",
     id: "ukraine-nesamovyte-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Breskul",
-                  "text": "Ein Berggipfel im Tschornohora-Massiv in den ukrainischen Karpaten.",
-                  "category": "landmark",
-                  "coords": [
-                        24.510544,
-                        48.150334
-                  ]
-            },
-            {
-                  "name": "Rebra",
-                  "text": "Einer der höchsten Gipfel der ukrainischen Karpaten im Tschornohora-Massiv.",
-                  "category": "landmark",
-                  "coords": [
-                        24.558564,
-                        48.111195
-                  ]
-            },
-            {
-                  "name": "Gutin Tomnatik",
-                  "text": "Ein markanter Gipfel in der Tschornohora-Region nahe dem Nesamowyte-See.",
-                  "category": "landmark",
-                  "coords": [
-                        24.556651,
-                        48.09944
-                  ]
-            },
-            {
                   "name": "Turkul",
                   "text": "Ein Berg in den ukrainischen Karpaten, bekannt für seine alpine Landschaft.",
                   "category": "landmark",
                   "coords": [
                         24.530508,
                         48.123489
-                  ]
-            },
-            {
-                  "name": "Shpitsi",
-                  "text": "Ein Gipfel im Tschornohora-Gebirge, der für seine bizarren Felsformationen bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        24.567254,
-                        48.125624
                   ]
             },
             {
@@ -2081,48 +1897,12 @@ imageHint: "Vorozheska mountain lake aerial view",
       ],
       "hu": [
             {
-                  "name": "Breskul",
-                  "text": "Hegycsúcs az ukrán Kárpátokban, a Csornohora-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        24.510544,
-                        48.150334
-                  ]
-            },
-            {
-                  "name": "Rebra",
-                  "text": "Az ukrán Kárpátok egyik legmagasabb csúcsa a Csornohora-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        24.558564,
-                        48.111195
-                  ]
-            },
-            {
-                  "name": "Gutin Tomnatik",
-                  "text": "Jellegzetes hegycsúcs a Csornohora-régióban, a Neszamovite-tó közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        24.556651,
-                        48.09944
-                  ]
-            },
-            {
                   "name": "Turkul",
                   "text": "Hegy az ukrán Kárpátokban, amely alpesi tájairól ismert.",
                   "category": "landmark",
                   "coords": [
                         24.530508,
                         48.123489
-                  ]
-            },
-            {
-                  "name": "Shpitsi",
-                  "text": "Csúcs a Csornohora-hegységben, amely bizarr sziklaalakzatairól nevezetes.",
-                  "category": "landmark",
-                  "coords": [
-                        24.567254,
-                        48.125624
                   ]
             },
             {
@@ -2155,48 +1935,12 @@ imageHint: "Vorozheska mountain lake aerial view",
       ],
       "ro": [
             {
-                  "name": "Breskul",
-                  "text": "Un vârf muntos din masivul Ciornohora, în Carpații ucraineni.",
-                  "category": "landmark",
-                  "coords": [
-                        24.510544,
-                        48.150334
-                  ]
-            },
-            {
-                  "name": "Rebra",
-                  "text": "Unul dintre cele mai înalte vârfuri din Carpații ucraineni, în masivul Ciornohora.",
-                  "category": "landmark",
-                  "coords": [
-                        24.558564,
-                        48.111195
-                  ]
-            },
-            {
-                  "name": "Gutin Tomnatik",
-                  "text": "Un vârf proeminent în regiunea Ciornohora, lângă lacul Nesamovyte.",
-                  "category": "landmark",
-                  "coords": [
-                        24.556651,
-                        48.09944
-                  ]
-            },
-            {
                   "name": "Turkul",
                   "text": "Un munte din Carpații ucraineni, cunoscut pentru peisajele sale alpine.",
                   "category": "landmark",
                   "coords": [
                         24.530508,
                         48.123489
-                  ]
-            },
-            {
-                  "name": "Shpitsi",
-                  "text": "Un vârf din munții Ciornohora, cunoscut pentru formațiunile sale stâncoase bizare.",
-                  "category": "landmark",
-                  "coords": [
-                        24.567254,
-                        48.125624
                   ]
             },
             {
@@ -2229,48 +1973,12 @@ imageHint: "Vorozheska mountain lake aerial view",
       ],
       "en": [
             {
-                  "name": "Breskul",
-                  "text": "A mountain peak in the Chornohora range of the Ukrainian Carpathians.",
-                  "category": "landmark",
-                  "coords": [
-                        24.510544,
-                        48.150334
-                  ]
-            },
-            {
-                  "name": "Rebra",
-                  "text": "One of the highest peaks in the Ukrainian Carpathians, located in the Chornohora range.",
-                  "category": "landmark",
-                  "coords": [
-                        24.558564,
-                        48.111195
-                  ]
-            },
-            {
-                  "name": "Hutyn Tomnatyk",
-                  "text": "A prominent peak in the Chornohora region near Nesamovyte Lake.",
-                  "category": "landmark",
-                  "coords": [
-                        24.556651,
-                        48.09944
-                  ]
-            },
-            {
                   "name": "Turkul",
                   "text": "A mountain in the Ukrainian Carpathians, known for its alpine scenery.",
                   "category": "landmark",
                   "coords": [
                         24.530508,
                         48.123489
-                  ]
-            },
-            {
-                  "name": "Shpytsi",
-                  "text": "A peak in the Chornohora mountains, famous for its bizarre rock formations.",
-                  "category": "landmark",
-                  "coords": [
-                        24.567254,
-                        48.125624
                   ]
             },
             {
@@ -2757,50 +2465,10 @@ imageHint: "Syvash pink lake aerial view",
     image: "/poi-images/ukraine-syvash-nature-v2.webp",
 },  {
     id: "ukraine-bakota-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Bakots'kii monastir",
-                  "text": "Ein antikes Höhlenkloster mit Blick auf den Fluss Dnister.",
-                  "category": "religious",
-                  "coords": [
-                        26.998582,
-                        48.585898
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Bakots'kii monastir",
-                  "text": "Ősi barlangkolostor, amely a Dnyeszter folyóra néz.",
-                  "category": "religious",
-                  "coords": [
-                        26.998582,
-                        48.585898
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Bakots'kii monastir",
-                  "text": "O mănăstire rupestră antică cu vedere la râul Nistru.",
-                  "category": "religious",
-                  "coords": [
-                        26.998582,
-                        48.585898
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Bakota Cave Monastery",
-                  "text": "An ancient cave monastery overlooking the Dniester River.",
-                  "category": "religious",
-                  "coords": [
-                        26.998582,
-                        48.585898
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "UA",
     type: "valley",
@@ -3684,15 +3352,6 @@ imageHint: "Manyava waterfall in the mountains",
     id: "ukraine-blyznytsya-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Stig",
-                  "text": "Ein Gipfel im Swydowez-Massiv der ukrainischen Karpaten, nahe dem Berg Blyznytsja.",
-                  "category": "landmark",
-                  "coords": [
-                        24.224105,
-                        48.250893
-                  ]
-            },
-            {
                   "name": "Zhandarm",
                   "text": "Ein markanter Gipfel in den ukrainischen Karpaten, der Teil des Wandergebiets um die Blyznytsja ist.",
                   "category": "landmark",
@@ -3712,15 +3371,6 @@ imageHint: "Manyava waterfall in the mountains",
             }
       ],
       "hu": [
-            {
-                  "name": "Stig",
-                  "text": "Hegycsúcs az ukrán Kárpátok Szvidovec-masszívumában, a Bliznyicja-hegy közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        24.224105,
-                        48.250893
-                  ]
-            },
             {
                   "name": "Zhandarm",
                   "text": "Jellegzetes hegycsúcs az ukrán Kárpátokban, a Bliznyicja körüli túraútvonalak része.",
@@ -3742,15 +3392,6 @@ imageHint: "Manyava waterfall in the mountains",
       ],
       "ro": [
             {
-                  "name": "Stig",
-                  "text": "Un vârf în masivul Svîdoveț din Carpații Ucraineni, situat lângă muntele Blîznîțea.",
-                  "category": "landmark",
-                  "coords": [
-                        24.224105,
-                        48.250893
-                  ]
-            },
-            {
                   "name": "Zhandarm",
                   "text": "Un vârf distinctiv din Carpații Ucraineni, făcând parte din zona de drumeție din jurul muntelui Blîznîțea.",
                   "category": "landmark",
@@ -3770,15 +3411,6 @@ imageHint: "Manyava waterfall in the mountains",
             }
       ],
       "en": [
-            {
-                  "name": "Stih",
-                  "text": "A peak in the Svydovets massif of the Ukrainian Carpathians, near Mount Blyznytsya.",
-                  "category": "landmark",
-                  "coords": [
-                        24.224105,
-                        48.250893
-                  ]
-            },
             {
                   "name": "Zhandarm",
                   "text": "A prominent peak in the Ukrainian Carpathians, part of the hiking area around Mount Blyznytsya.",

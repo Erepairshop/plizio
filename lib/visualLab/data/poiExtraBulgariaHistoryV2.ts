@@ -184,158 +184,10 @@ export const bulgariaHistoryV2: POI[] = [
   },
   {
     id: "bulgaria-magura-cave-paintings-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Istoricheski muzei Белоградчик",
-                  "text": "Ein historisches Museum in der Nähe der berühmten Höhlenmalereien von Magura.",
-                  "category": "museum",
-                  "coords": [
-                        22.681527,
-                        43.624882
-                  ]
-            },
-            {
-                  "name": "Belogradchishka krepost",
-                  "text": "Eine beeindruckende Festung, die in die bizarren Felsformationen von Belogradtschik integriert ist.",
-                  "category": "castle",
-                  "coords": [
-                        22.678036,
-                        43.623123
-                  ]
-            },
-            {
-                  "name": "Latin fortress",
-                  "text": "Mittelalterliche Burg in der Nähe der Magura-Höhlenmalereien.",
-                  "category": "castle",
-                  "coords": [
-                        22.675532,
-                        43.621837
-                  ]
-            },
-            {
-                  "name": "Boginiata Maika",
-                  "text": "Ein Aussichtspunkt mit Blick auf markante Felsformationen in der Nähe von Magura.",
-                  "category": "natural",
-                  "coords": [
-                        22.68947,
-                        43.615575
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Istoricheski muzei Белоградчик",
-                  "text": "Történeti múzeum a híres magurai barlangrajzok közelében.",
-                  "category": "museum",
-                  "coords": [
-                        22.681527,
-                        43.624882
-                  ]
-            },
-            {
-                  "name": "Belogradchishka krepost",
-                  "text": "Lenyűgöző erődítmény, amely a belogradcsiki különleges sziklaalakzatok közé épült.",
-                  "category": "castle",
-                  "coords": [
-                        22.678036,
-                        43.623123
-                  ]
-            },
-            {
-                  "name": "Latin fortress",
-                  "text": "Középkori vár a Magura-barlangfestmények közelében.",
-                  "category": "castle",
-                  "coords": [
-                        22.675532,
-                        43.621837
-                  ]
-            },
-            {
-                  "name": "Boginiata Maika",
-                  "text": "Kilátóhely, ahonnan rálátás nyílik a Magura közeli jellegzetes sziklákra.",
-                  "category": "natural",
-                  "coords": [
-                        22.68947,
-                        43.615575
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Istoricheski muzei Белоградчик",
-                  "text": "Un muzeu de istorie situat în apropierea celebrelor picturi rupestre de la Magura.",
-                  "category": "museum",
-                  "coords": [
-                        22.681527,
-                        43.624882
-                  ]
-            },
-            {
-                  "name": "Belogradchishka krepost",
-                  "text": "O fortăreață impresionantă integrată în formațiunile stâncoase unice de la Belogradcik.",
-                  "category": "castle",
-                  "coords": [
-                        22.678036,
-                        43.623123
-                  ]
-            },
-            {
-                  "name": "Latin fortress",
-                  "text": "Castel medieval lângă picturile rupestre de la Magura.",
-                  "category": "castle",
-                  "coords": [
-                        22.675532,
-                        43.621837
-                  ]
-            },
-            {
-                  "name": "Boginiata Maika",
-                  "text": "Un punct de belvedere cu vedere spre formațiunile stâncoase de lângă Magura.",
-                  "category": "natural",
-                  "coords": [
-                        22.68947,
-                        43.615575
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "History Museum",
-                  "text": "A history museum located near the famous Magura Cave paintings.",
-                  "category": "museum",
-                  "coords": [
-                        22.681527,
-                        43.624882
-                  ]
-            },
-            {
-                  "name": "Belogradchik Fortress",
-                  "text": "An impressive fortress integrated into the unique rock formations of Belogradchik.",
-                  "category": "castle",
-                  "coords": [
-                        22.678036,
-                        43.623123
-                  ]
-            },
-            {
-                  "name": "Latin fortress",
-                  "text": "Medieval fortress near the Magura Cave paintings.",
-                  "category": "castle",
-                  "coords": [
-                        22.675532,
-                        43.621837
-                  ]
-            },
-            {
-                  "name": "Goddess Mother",
-                  "text": "A viewpoint offering vistas of prominent rock formations near Magura.",
-                  "category": "natural",
-                  "coords": [
-                        22.68947,
-                        43.615575
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "ruins",
     parent: "BG",
@@ -1633,15 +1485,6 @@ export const bulgariaHistoryV2: POI[] = [
                         25.322236,
                         42.746463
                   ]
-            },
-            {
-                  "name": "Khram-pametnik \"Rozhdestvo Khristovo\"",
-                  "text": "Diese markante orthodoxe Kirche mit ihren goldenen Kuppeln erinnert an die Gefallenen der Kämpfe am Schipkapass.",
-                  "category": "religious",
-                  "coords": [
-                        25.329029,
-                        42.716061
-                  ]
             }
       ],
       "hu": [
@@ -1652,15 +1495,6 @@ export const bulgariaHistoryV2: POI[] = [
                   "coords": [
                         25.322236,
                         42.746463
-                  ]
-            },
-            {
-                  "name": "Khram-pametnik \"Rozhdestvo Khristovo\"",
-                  "text": "Ez a jellegzetes aranykupolás ortodox templom a Sipka-szorosnál vívott harcok elesett katonáinak állít emléket.",
-                  "category": "religious",
-                  "coords": [
-                        25.329029,
-                        42.716061
                   ]
             }
       ],
@@ -1673,15 +1507,6 @@ export const bulgariaHistoryV2: POI[] = [
                         25.322236,
                         42.746463
                   ]
-            },
-            {
-                  "name": "Khram-pametnik \"Rozhdestvo Khristovo\"",
-                  "text": "Această biserică ortodoxă remarcabilă, cu cupole aurii, este dedicată memoriei celor căzuți în luptele din Pasul Șipka.",
-                  "category": "religious",
-                  "coords": [
-                        25.329029,
-                        42.716061
-                  ]
             }
       ],
       "en": [
@@ -1692,15 +1517,6 @@ export const bulgariaHistoryV2: POI[] = [
                   "coords": [
                         25.322236,
                         42.746463
-                  ]
-            },
-            {
-                  "name": "Shipka Memorial Church",
-                  "text": "This striking Orthodox church with golden domes commemorates those who fell during the battles at Shipka Pass.",
-                  "category": "religious",
-                  "coords": [
-                        25.329029,
-                        42.716061
                   ]
             }
       ]
@@ -1923,15 +1739,6 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Park Druzhba",
-                  "text": "Ein zentraler Stadtpark für Erholung und Spaziergänge in Weliko Tarnowo.",
-                  "category": "park",
-                  "coords": [
-                        25.629244,
-                        43.074778
-                  ]
-            },
-            {
                   "name": "Park Kolo Ficheto",
                   "text": "Parkanlage zu Ehren des berühmten bulgarischen Baumeisters Koljo Fitscheto.",
                   "category": "park",
@@ -2049,30 +1856,12 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "ezero \"Sveta gora\"",
-                  "text": "See „Heiliger Berg” in der Nähe von Weliko Tarnowo.",
-                  "category": "natural",
-                  "coords": [
-                        25.655615,
-                        43.069764
-                  ]
-            },
-            {
                   "name": "yaz. Belyakovets",
                   "text": "Ein ruhiges Gewässer in Weliko Tarnowo, ideal für einen Spaziergang.",
                   "category": "natural",
                   "coords": [
                         25.567608,
                         43.099207
-                  ]
-            },
-            {
-                  "name": "yazovir \"Sini vir\"",
-                  "text": "Ein schöner See in Weliko Tarnowo, der zum Verweilen einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        25.569241,
-                        43.064531
                   ]
             },
             {
@@ -2222,15 +2011,6 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Park Druzhba",
-                  "text": "Központi városi park kikapcsolódáshoz és sétákhoz Veliko Tarnovóban.",
-                  "category": "park",
-                  "coords": [
-                        25.629244,
-                        43.074778
-                  ]
-            },
-            {
                   "name": "Park Kolo Ficheto",
                   "text": "A híres bolgár építőmester, Koljo Ficseto tiszteletére elnevezett park.",
                   "category": "park",
@@ -2348,30 +2128,12 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "ezero \"Sveta gora\"",
-                  "text": "„Szent hegy” nevű tó Veliko Tarnovo közelében.",
-                  "category": "natural",
-                  "coords": [
-                        25.655615,
-                        43.069764
-                  ]
-            },
-            {
                   "name": "yaz. Belyakovets",
                   "text": "Csendes vízfelület Veliko Tarnovo területén, ideális egy sétához.",
                   "category": "natural",
                   "coords": [
                         25.567608,
                         43.099207
-                  ]
-            },
-            {
-                  "name": "yazovir \"Sini vir\"",
-                  "text": "Szép tó Veliko Tarnovo közelében, amely pihenésre hívogat.",
-                  "category": "natural",
-                  "coords": [
-                        25.569241,
-                        43.064531
                   ]
             },
             {
@@ -2521,15 +2283,6 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Park Druzhba",
-                  "text": "Un parc urban central pentru recreere și plimbări în Veliko Tărnovo.",
-                  "category": "park",
-                  "coords": [
-                        25.629244,
-                        43.074778
-                  ]
-            },
-            {
                   "name": "Park Kolo Ficheto",
                   "text": "Parc numit în onoarea celebrului constructor bulgar Kolyo Ficheto.",
                   "category": "park",
@@ -2647,30 +2400,12 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "ezero \"Sveta gora\"",
-                  "text": "Lacul „Muntele Sfânt” lângă Veliko Tarnovo.",
-                  "category": "natural",
-                  "coords": [
-                        25.655615,
-                        43.069764
-                  ]
-            },
-            {
                   "name": "yaz. Belyakovets",
                   "text": "O apă liniștită în Veliko Tarnovo, ideală pentru o plimbare.",
                   "category": "natural",
                   "coords": [
                         25.567608,
                         43.099207
-                  ]
-            },
-            {
-                  "name": "yazovir \"Sini vir\"",
-                  "text": "Un lac frumos în Veliko Tarnovo, care te invită la relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        25.569241,
-                        43.064531
                   ]
             },
             {
@@ -2820,15 +2555,6 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Park Druzhba",
-                  "text": "A central city park for recreation and walks in Veliko Tarnovo.",
-                  "category": "park",
-                  "coords": [
-                        25.629244,
-                        43.074778
-                  ]
-            },
-            {
                   "name": "Park Kolo Ficheto",
                   "text": "Park named in honor of the famous Bulgarian master builder Kolyo Ficheto.",
                   "category": "park",
@@ -2946,30 +2672,12 @@ export const bulgariaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "ezero \"Sveta gora\"",
-                  "text": "Lake named 'Holy Mountain' near Veliko Tarnovo.",
-                  "category": "natural",
-                  "coords": [
-                        25.655615,
-                        43.069764
-                  ]
-            },
-            {
                   "name": "yaz. Belyakovets",
                   "text": "A quiet body of water in Veliko Tarnovo, ideal for a stroll.",
                   "category": "natural",
                   "coords": [
                         25.567608,
                         43.099207
-                  ]
-            },
-            {
-                  "name": "yazovir \"Sini vir\"",
-                  "text": "A beautiful lake in Veliko Tarnovo that invites visitors to linger.",
-                  "category": "natural",
-                  "coords": [
-                        25.569241,
-                        43.064531
                   ]
             },
             {

@@ -441,33 +441,6 @@ imageHint: "Krivan mountain peak Slovakia",
     id: "slovakia-dumbier-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Múzeum Lanovky",
-                  "text": "Dieses Museum widmet sich der Geschichte der Seilbahnen und Bergbahnen.",
-                  "category": "museum",
-                  "coords": [
-                        19.597423,
-                        48.932571
-                  ]
-            },
-            {
-                  "name": "Konské",
-                  "text": "Ein markanter Berggipfel in der Niederen Tatra in der Slowakei.",
-                  "category": "landmark",
-                  "coords": [
-                        19.605839,
-                        48.941429
-                  ]
-            },
-            {
-                  "name": "Jaskyňa mŕtvych netopierov",
-                  "text": "Eine hochalpine Höhle, benannt nach den dort gefundenen tausenden Fledermausknochen.",
-                  "category": "landmark",
-                  "coords": [
-                        19.639081,
-                        48.925156
-                  ]
-            },
-            {
                   "name": "Krúpova hoľa",
                   "text": "Ein bedeutender Gipfel im Hauptkamm der Niederen Tatra.",
                   "category": "landmark",
@@ -495,15 +468,6 @@ imageHint: "Krivan mountain peak Slovakia",
                   ]
             },
             {
-                  "name": "Besná",
-                  "text": "Ein Gipfel in der Niederen Tatra, der Teil des Wanderwegenetzes ist.",
-                  "category": "landmark",
-                  "coords": [
-                        19.675266,
-                        48.918188
-                  ]
-            },
-            {
                   "name": "Prašivá",
                   "text": "Ein Berg im westlichen Teil der Niederen Tatra in der Mittelslowakei.",
                   "category": "landmark",
@@ -514,33 +478,6 @@ imageHint: "Krivan mountain peak Slovakia",
             }
       ],
       "hu": [
-            {
-                  "name": "Múzeum Lanovky",
-                  "text": "Ez a múzeum a felvonók és drótkötélpályák történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        19.597423,
-                        48.932571
-                  ]
-            },
-            {
-                  "name": "Konské",
-                  "text": "Jellegzetes hegycsúcs az Alacsony-Tátrában, Szlovákiában.",
-                  "category": "landmark",
-                  "coords": [
-                        19.605839,
-                        48.941429
-                  ]
-            },
-            {
-                  "name": "Jaskyňa mŕtvych netopierov",
-                  "text": "Magashegyi barlang, amely a benne talált több ezer denevércsontról kapta nevét.",
-                  "category": "landmark",
-                  "coords": [
-                        19.639081,
-                        48.925156
-                  ]
-            },
             {
                   "name": "Krúpova hoľa",
                   "text": "Az Alacsony-Tátra főgerincének egyik jelentős hegycsúcsa.",
@@ -569,15 +506,6 @@ imageHint: "Krivan mountain peak Slovakia",
                   ]
             },
             {
-                  "name": "Besná",
-                  "text": "Az Alacsony-Tátra egyik csúcsa, amely a túraútvonal-hálózat része.",
-                  "category": "landmark",
-                  "coords": [
-                        19.675266,
-                        48.918188
-                  ]
-            },
-            {
                   "name": "Prašivá",
                   "text": "Hegy az Alacsony-Tátra nyugati részén, Közép-Szlovákiában.",
                   "category": "landmark",
@@ -588,33 +516,6 @@ imageHint: "Krivan mountain peak Slovakia",
             }
       ],
       "ro": [
-            {
-                  "name": "Múzeum Lanovky",
-                  "text": "Acest muzeu este dedicat istoriei telefericelor și a transportului pe cablu.",
-                  "category": "museum",
-                  "coords": [
-                        19.597423,
-                        48.932571
-                  ]
-            },
-            {
-                  "name": "Konské",
-                  "text": "Un vârf montan proeminent din Munții Tatra Joasă, în Slovacia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.605839,
-                        48.941429
-                  ]
-            },
-            {
-                  "name": "Jaskyňa mŕtvych netopierov",
-                  "text": "O peșteră alpină de mare altitudine, numită după miile de oase de liliac găsite în interior.",
-                  "category": "landmark",
-                  "coords": [
-                        19.639081,
-                        48.925156
-                  ]
-            },
             {
                   "name": "Krúpova hoľa",
                   "text": "Un vârf important din creasta principală a Munților Tatra Joasă.",
@@ -643,15 +544,6 @@ imageHint: "Krivan mountain peak Slovakia",
                   ]
             },
             {
-                  "name": "Besná",
-                  "text": "Un vârf din Tatra Joasă, inclus în rețeaua de trasee montane.",
-                  "category": "landmark",
-                  "coords": [
-                        19.675266,
-                        48.918188
-                  ]
-            },
-            {
                   "name": "Prašivá",
                   "text": "Un munte situat în partea de vest a Munților Tatra Joasă, în centrul Slovaciei.",
                   "category": "landmark",
@@ -662,33 +554,6 @@ imageHint: "Krivan mountain peak Slovakia",
             }
       ],
       "en": [
-            {
-                  "name": "Múzeum Lanovky",
-                  "text": "This museum is dedicated to the history of cable cars and ropeways.",
-                  "category": "museum",
-                  "coords": [
-                        19.597423,
-                        48.932571
-                  ]
-            },
-            {
-                  "name": "Konské",
-                  "text": "A prominent mountain peak in the Low Tatras of Slovakia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.605839,
-                        48.941429
-                  ]
-            },
-            {
-                  "name": "Jaskyňa mŕtvych netopierov",
-                  "text": "A high-altitude alpine cave named after the thousands of bat bones found inside.",
-                  "category": "landmark",
-                  "coords": [
-                        19.639081,
-                        48.925156
-                  ]
-            },
             {
                   "name": "Krúpova hoľa",
                   "text": "A significant peak in the main ridge of the Low Tatras.",
@@ -714,15 +579,6 @@ imageHint: "Krivan mountain peak Slovakia",
                   "coords": [
                         19.653826,
                         48.936639
-                  ]
-            },
-            {
-                  "name": "Besná",
-                  "text": "A peak in the Low Tatras that is part of the hiking trail network.",
-                  "category": "landmark",
-                  "coords": [
-                        19.675266,
-                        48.918188
                   ]
             },
             {
@@ -830,15 +686,6 @@ imageHint: "Krivan mountain peak Slovakia",
                   ]
             },
             {
-                  "name": "Krúpova hoľa",
-                  "text": "Ein hoher Gipfel in der Niederen Tatra, der direkt am Hauptkammweg liegt.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630716,
-                        48.93904
-                  ]
-            },
-            {
                   "name": "Zákľuky",
                   "text": "Ein grasbewachsener Gipfel in der Niederen Tatra, bekannt für seine malerischen Wanderwege.",
                   "category": "landmark",
@@ -901,15 +748,6 @@ imageHint: "Krivan mountain peak Slovakia",
                   "coords": [
                         19.572804,
                         48.940531
-                  ]
-            },
-            {
-                  "name": "Krúpova hoľa",
-                  "text": "Az Alacsony-Tátra egyik magas csúcsa a hegység főgerincén.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630716,
-                        48.93904
                   ]
             },
             {
@@ -978,15 +816,6 @@ imageHint: "Krivan mountain peak Slovakia",
                   ]
             },
             {
-                  "name": "Krúpova hoľa",
-                  "text": "Un vârf înalt din Tatra Joasă situat pe creasta principală.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630716,
-                        48.93904
-                  ]
-            },
-            {
                   "name": "Zákľuky",
                   "text": "Un vârf înierbat din Tatra Joasă, cunoscut pentru potecile sale pitorești de drumeție.",
                   "category": "landmark",
@@ -1049,15 +878,6 @@ imageHint: "Krivan mountain peak Slovakia",
                   "coords": [
                         19.572804,
                         48.940531
-                  ]
-            },
-            {
-                  "name": "Krúpova hoľa",
-                  "text": "A high peak in the Low Tatras located along the main ridge trail.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630716,
-                        48.93904
                   ]
             },
             {
@@ -1480,15 +1300,6 @@ imageHint: "Velky Rozsutec rocky peak",
                   ]
             },
             {
-                  "name": "Suchý vrch",
-                  "text": "Ein bewaldeter Berg im Gebirge der Großen Fatra in der Slowakei.",
-                  "category": "landmark",
-                  "coords": [
-                        19.088206,
-                        48.909844
-                  ]
-            },
-            {
                   "name": "Frčkov",
                   "text": "Ein Gipfel im Hauptkamm der Großen Fatra, nahe dem Berg Ostredok.",
                   "category": "landmark",
@@ -1504,15 +1315,6 @@ imageHint: "Velky Rozsutec rocky peak",
                   "coords": [
                         19.046658,
                         48.885871
-                  ]
-            },
-            {
-                  "name": "Chyžky",
-                  "text": "Ein Gebirgssattel und Gipfelbereich im Gebirgszug der Großen Fatra.",
-                  "category": "landmark",
-                  "coords": [
-                        19.101017,
-                        48.924105
                   ]
             },
             {
@@ -1554,15 +1356,6 @@ imageHint: "Velky Rozsutec rocky peak",
                   ]
             },
             {
-                  "name": "Suchý vrch",
-                  "text": "Erdős hegycsúcs a szlovákiai Nagy-Fátra hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        19.088206,
-                        48.909844
-                  ]
-            },
-            {
                   "name": "Frčkov",
                   "text": "A Nagy-Fátra főgerincének egyik csúcsa, az Ostredok közelében.",
                   "category": "landmark",
@@ -1578,15 +1371,6 @@ imageHint: "Velky Rozsutec rocky peak",
                   "coords": [
                         19.046658,
                         48.885871
-                  ]
-            },
-            {
-                  "name": "Chyžky",
-                  "text": "Hegyi hágó és csúcs a Nagy-Fátra hegyláncában.",
-                  "category": "landmark",
-                  "coords": [
-                        19.101017,
-                        48.924105
                   ]
             },
             {
@@ -1628,15 +1412,6 @@ imageHint: "Velky Rozsutec rocky peak",
                   ]
             },
             {
-                  "name": "Suchý vrch",
-                  "text": "Un vârf muntos împădurit situat în Munții Fatra Mare din Slovacia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.088206,
-                        48.909844
-                  ]
-            },
-            {
                   "name": "Frčkov",
                   "text": "Un vârf de pe creasta principală a munților Fatra Mare, lângă Ostredok.",
                   "category": "landmark",
@@ -1652,15 +1427,6 @@ imageHint: "Velky Rozsutec rocky peak",
                   "coords": [
                         19.046658,
                         48.885871
-                  ]
-            },
-            {
-                  "name": "Chyžky",
-                  "text": "O șa montană și o zonă de vârf în lanțul muntos Fatra Mare.",
-                  "category": "landmark",
-                  "coords": [
-                        19.101017,
-                        48.924105
                   ]
             },
             {
@@ -1702,15 +1468,6 @@ imageHint: "Velky Rozsutec rocky peak",
                   ]
             },
             {
-                  "name": "Suchý vrch",
-                  "text": "A forested mountain peak located in the Greater Fatra range in Slovakia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.088206,
-                        48.909844
-                  ]
-            },
-            {
                   "name": "Frčkov",
                   "text": "A peak on the main ridge of the Greater Fatra, close to mount Ostredok.",
                   "category": "landmark",
@@ -1726,15 +1483,6 @@ imageHint: "Velky Rozsutec rocky peak",
                   "coords": [
                         19.046658,
                         48.885871
-                  ]
-            },
-            {
-                  "name": "Chyžky",
-                  "text": "A mountain pass and peak area located in the Greater Fatra mountain range.",
-                  "category": "landmark",
-                  "coords": [
-                        19.101017,
-                        48.924105
                   ]
             },
             {
@@ -1917,15 +1665,6 @@ imageHint: "Ostredok peak Velka Fatra",
                   ]
             },
             {
-                  "name": "Veľký Bukovec",
-                  "text": "Ein bewaldeter Gipfel im Nationalpark Poloniny, der Teil des UNESCO-Welterbes der Buchenurwälder ist.",
-                  "category": "landmark",
-                  "coords": [
-                        22.435531,
-                        49.048595
-                  ]
-            },
-            {
                   "name": "sv. Michala archanjela",
                   "text": "Eine historische Holzkirche in der Poloniny-Region, die dem Erzengel Michael geweiht ist.",
                   "category": "landmark",
@@ -1952,15 +1691,6 @@ imageHint: "Ostredok peak Velka Fatra",
                   "coords": [
                         22.398599,
                         49.045562
-                  ]
-            },
-            {
-                  "name": "Veľký Bukovec",
-                  "text": "Erdős csúcs a Poloniny Nemzeti Parkban, az UNESCO Világörökség részét képező bükkös őserdők területén.",
-                  "category": "landmark",
-                  "coords": [
-                        22.435531,
-                        49.048595
                   ]
             },
             {
@@ -1993,15 +1723,6 @@ imageHint: "Ostredok peak Velka Fatra",
                   ]
             },
             {
-                  "name": "Veľký Bukovec",
-                  "text": "Un vârf împădurit în Parcul Național Poloniny, parte a patrimoniului mondial UNESCO al pădurilor primare de fag.",
-                  "category": "landmark",
-                  "coords": [
-                        22.435531,
-                        49.048595
-                  ]
-            },
-            {
                   "name": "sv. Michala archanjela",
                   "text": "O biserică istorică de lemn din regiunea Poloniny, dedicată Arhanghelului Mihail.",
                   "category": "landmark",
@@ -2028,15 +1749,6 @@ imageHint: "Ostredok peak Velka Fatra",
                   "coords": [
                         22.398599,
                         49.045562
-                  ]
-            },
-            {
-                  "name": "Veľký Bukovec",
-                  "text": "A forested peak in the Poloniny National Park, part of the UNESCO-listed primeval beech forests.",
-                  "category": "landmark",
-                  "coords": [
-                        22.435531,
-                        49.048595
                   ]
             },
             {
@@ -3744,15 +3456,6 @@ imageHint: "Chocske vrchy mountains forest",
                   ]
             },
             {
-                  "name": "Bezovec",
-                  "text": "Ein bekannter Gipfel und ein beliebtes Wintersportgebiet im Považský Inovec.",
-                  "category": "landmark",
-                  "coords": [
-                        17.974632,
-                        48.672819
-                  ]
-            },
-            {
                   "name": "Rozhľadňa Panská Javorina",
                   "text": "Ein hölzerner Aussichtsturm auf dem Gipfel der Panská Javorina.",
                   "category": "natural",
@@ -3806,15 +3509,6 @@ imageHint: "Chocske vrchy mountains forest",
                   "coords": [
                         17.991871,
                         48.706811
-                  ]
-            },
-            {
-                  "name": "Bezovec",
-                  "text": "Népszerű hegycsúcs és síközpont az Inóc-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        17.974632,
-                        48.672819
                   ]
             },
             {
@@ -3874,15 +3568,6 @@ imageHint: "Chocske vrchy mountains forest",
                   ]
             },
             {
-                  "name": "Bezovec",
-                  "text": "Un vârf cunoscut și o stațiune de schi populară în munții Považský Inovec.",
-                  "category": "landmark",
-                  "coords": [
-                        17.974632,
-                        48.672819
-                  ]
-            },
-            {
                   "name": "Rozhľadňa Panská Javorina",
                   "text": "Un turn de observație din lemn situat pe vârful Panská javorina.",
                   "category": "natural",
@@ -3936,15 +3621,6 @@ imageHint: "Chocske vrchy mountains forest",
                   "coords": [
                         17.991871,
                         48.706811
-                  ]
-            },
-            {
-                  "name": "Bezovec",
-                  "text": "A prominent peak and popular ski resort area in the Považský Inovec mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        17.974632,
-                        48.672819
                   ]
             },
             {
@@ -4819,30 +4495,12 @@ imageHint: "Chocske vrchy mountains forest",
     id: "slovakia-tribec-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Čierny hrad",
-                  "text": "Die Ruinen einer mittelalterlichen Burg im Tribeč-Gebirge in der Slowakei.",
-                  "category": "castle",
-                  "coords": [
-                        18.292512,
-                        48.473633
-                  ]
-            },
-            {
                   "name": "Obranný val, Hradisko Veľký Tribeč - národná kultúr. pamiatka",
                   "text": "Überreste eines alten Verteidigungswalls und einer Burgstätte auf dem Berg Veľký Tribeč.",
                   "category": "historical",
                   "coords": [
                         18.242943,
                         48.471278
-                  ]
-            },
-            {
-                  "name": "Velčicky hrad",
-                  "text": "Eine archäologische Stätte im Tribeč-Gebirge, die den Standort einer ehemaligen Burg markiert.",
-                  "category": "historical",
-                  "coords": [
-                        18.282079,
-                        48.450629
                   ]
             },
             {
@@ -4893,30 +4551,12 @@ imageHint: "Chocske vrchy mountains forest",
       ],
       "hu": [
             {
-                  "name": "Čierny hrad",
-                  "text": "Egy középkori vár romjai a szlovákiai Tribeč-hegységben.",
-                  "category": "castle",
-                  "coords": [
-                        18.292512,
-                        48.473633
-                  ]
-            },
-            {
                   "name": "Obranný val, Hradisko Veľký Tribeč - národná kultúr. pamiatka",
                   "text": "Egy ősi védőfal és várhely maradványai a Veľký Tribeč-hegyen.",
                   "category": "historical",
                   "coords": [
                         18.242943,
                         48.471278
-                  ]
-            },
-            {
-                  "name": "Velčicky hrad",
-                  "text": "Régészeti lelőhely a Tribeč-hegységben, amely egy egykori vár helyét jelzi.",
-                  "category": "historical",
-                  "coords": [
-                        18.282079,
-                        48.450629
                   ]
             },
             {
@@ -4967,30 +4607,12 @@ imageHint: "Chocske vrchy mountains forest",
       ],
       "ro": [
             {
-                  "name": "Čierny hrad",
-                  "text": "Ruinele unui castel medieval din munții Tribeč, în Slovacia.",
-                  "category": "castle",
-                  "coords": [
-                        18.292512,
-                        48.473633
-                  ]
-            },
-            {
                   "name": "Obranný val, Hradisko Veľký Tribeč - národná kultúr. pamiatka",
                   "text": "Resturile unui vechi val de apărare și ale unei așezări fortificate pe muntele Veľký Tribeč.",
                   "category": "historical",
                   "coords": [
                         18.242943,
                         48.471278
-                  ]
-            },
-            {
-                  "name": "Velčicky hrad",
-                  "text": "Un sit arheologic din munții Tribeč, care marchează locul unui fost castel.",
-                  "category": "historical",
-                  "coords": [
-                        18.282079,
-                        48.450629
                   ]
             },
             {
@@ -5041,30 +4663,12 @@ imageHint: "Chocske vrchy mountains forest",
       ],
       "en": [
             {
-                  "name": "Čierny hrad",
-                  "text": "The ruins of a medieval castle located in the Tribeč mountains of Slovakia.",
-                  "category": "castle",
-                  "coords": [
-                        18.292512,
-                        48.473633
-                  ]
-            },
-            {
                   "name": "Obranný val, Hradisko Veľký Tribeč - národná kultúr. pamiatka",
                   "text": "Remains of an ancient defensive rampart and hillfort on the Veľký Tribeč mountain.",
                   "category": "historical",
                   "coords": [
                         18.242943,
                         48.471278
-                  ]
-            },
-            {
-                  "name": "Velčicky hrad",
-                  "text": "An archaeological site in the Tribeč mountains marking the location of a former castle.",
-                  "category": "historical",
-                  "coords": [
-                        18.282079,
-                        48.450629
                   ]
             },
             {
@@ -5497,302 +5101,10 @@ imageHint: "Chocske vrchy mountains forest",
 ,
   {
     id: "slovakia-trinast-horskych-pasem-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Jaskyňa mŕtvych netopierov",
-                  "text": "Eine hochgelegene Höhle in der Niederen Tatra, bekannt für ihre zahlreichen Skelettfunde von Fledermäusen.",
-                  "category": "landmark",
-                  "coords": [
-                        19.639081,
-                        48.925156
-                  ]
-            },
-            {
-                  "name": "Krúpova hoľa",
-                  "text": "Ein Berggipfel in der Niederen Tatra, der weite Ausblicke über das Gebirge bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630716,
-                        48.93904
-                  ]
-            },
-            {
-                  "name": "Štiavnica",
-                  "text": "Ein prominenter Gipfel im Hauptkamm der Niederen Tatra in der Slowakei.",
-                  "category": "landmark",
-                  "coords": [
-                        19.653826,
-                        48.936639
-                  ]
-            },
-            {
-                  "name": "Besná",
-                  "text": "Ein Berg in der Niederen Tatra, der Teil der alpinen Landschaft dieser Region ist.",
-                  "category": "landmark",
-                  "coords": [
-                        19.675266,
-                        48.918188
-                  ]
-            },
-            {
-                  "name": "Baňa",
-                  "text": "Ein Gipfel in der Niederen Tatra, der über Wanderwege für Bergtouren erreichbar ist.",
-                  "category": "landmark",
-                  "coords": [
-                        19.641004,
-                        48.942502
-                  ]
-            },
-            {
-                  "name": "Veľký Gápeľ",
-                  "text": "Ein Bergmassiv in der Niederen Tatra, das für seine markante Form bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630412,
-                        48.915483
-                  ]
-            },
-            {
-                  "name": "Ďumbier",
-                  "text": "Mit 2043 Metern ist dies der höchste Gipfel des Niederen Tatra-Gebirges.",
-                  "category": "landmark",
-                  "coords": [
-                        19.640266,
-                        48.936399
-                  ]
-            },
-            {
-                  "name": "Králička",
-                  "text": "Ein Aussichtspunkt in der Niederen Tatra, der eine beeindruckende Fernsicht ermöglicht.",
-                  "category": "natural",
-                  "coords": [
-                        19.655009,
-                        48.924185
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Jaskyňa mŕtvych netopierov",
-                  "text": "Magasan fekvő barlang az Alacsony-Tátrában, amely számos denevércsontváz-leletéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        19.639081,
-                        48.925156
-                  ]
-            },
-            {
-                  "name": "Krúpova hoľa",
-                  "text": "Hegycsúcs az Alacsony-Tátrában, amely széles kilátást nyújt a hegységre.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630716,
-                        48.93904
-                  ]
-            },
-            {
-                  "name": "Štiavnica",
-                  "text": "Jelentős hegycsúcs az Alacsony-Tátra főgerincén, Szlovákiában.",
-                  "category": "landmark",
-                  "coords": [
-                        19.653826,
-                        48.936639
-                  ]
-            },
-            {
-                  "name": "Besná",
-                  "text": "Hegy az Alacsony-Tátrában, amely a régió alpesi tájának része.",
-                  "category": "landmark",
-                  "coords": [
-                        19.675266,
-                        48.918188
-                  ]
-            },
-            {
-                  "name": "Baňa",
-                  "text": "Hegycsúcs az Alacsony-Tátrában, amely turistaútvonalakon keresztül érhető el.",
-                  "category": "landmark",
-                  "coords": [
-                        19.641004,
-                        48.942502
-                  ]
-            },
-            {
-                  "name": "Veľký Gápeľ",
-                  "text": "Hegymasszívum az Alacsony-Tátrában, amely jellegzetes formájáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630412,
-                        48.915483
-                  ]
-            },
-            {
-                  "name": "Gyömbér",
-                  "text": "2043 méteres magasságával ez az Alacsony-Tátra legmagasabb csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        19.640266,
-                        48.936399
-                  ]
-            },
-            {
-                  "name": "Králička",
-                  "text": "Kilátópont az Alacsony-Tátrában, ahonnan lenyűgöző távlatok nyílnak a környékre.",
-                  "category": "natural",
-                  "coords": [
-                        19.655009,
-                        48.924185
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Jaskyňa mŕtvych netopierov",
-                  "text": "O peșteră situată la mare altitudine în Tatra Joasă, cunoscută pentru numeroasele schelete de lilieci găsite aici.",
-                  "category": "landmark",
-                  "coords": [
-                        19.639081,
-                        48.925156
-                  ]
-            },
-            {
-                  "name": "Krúpova hoľa",
-                  "text": "Un vârf muntos din Tatra Joasă, oferind panorame extinse asupra munților.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630716,
-                        48.93904
-                  ]
-            },
-            {
-                  "name": "Štiavnica",
-                  "text": "Un vârf proeminent în creasta principală a munților Tatra Joasă din Slovacia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.653826,
-                        48.936639
-                  ]
-            },
-            {
-                  "name": "Besná",
-                  "text": "Un munte din Tatra Joasă, făcând parte din peisajul alpin al acestei regiuni.",
-                  "category": "landmark",
-                  "coords": [
-                        19.675266,
-                        48.918188
-                  ]
-            },
-            {
-                  "name": "Baňa",
-                  "text": "Un vârf din Tatra Joasă, accesibil prin trasee de drumeție pentru excursii montane.",
-                  "category": "landmark",
-                  "coords": [
-                        19.641004,
-                        48.942502
-                  ]
-            },
-            {
-                  "name": "Veľký Gápeľ",
-                  "text": "Un masiv muntos din Tatra Joasă, cunoscut pentru forma sa distinctivă.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630412,
-                        48.915483
-                  ]
-            },
-            {
-                  "name": "Ďumbier",
-                  "text": "Cu o înălțime de 2043 de metri, acesta este cel mai înalt vârf din munții Tatra Joasă.",
-                  "category": "landmark",
-                  "coords": [
-                        19.640266,
-                        48.936399
-                  ]
-            },
-            {
-                  "name": "Králička",
-                  "text": "Un punct de belvedere în Tatra Joasă, care oferă o vedere impresionantă la distanță.",
-                  "category": "natural",
-                  "coords": [
-                        19.655009,
-                        48.924185
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Jaskyňa mŕtvych netopierov",
-                  "text": "A high-altitude cave in the Low Tatras, known for its numerous bat skeleton remains.",
-                  "category": "landmark",
-                  "coords": [
-                        19.639081,
-                        48.925156
-                  ]
-            },
-            {
-                  "name": "Krúpova hoľa",
-                  "text": "A mountain peak in the Low Tatras offering wide views over the mountain range.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630716,
-                        48.93904
-                  ]
-            },
-            {
-                  "name": "Štiavnica",
-                  "text": "A prominent peak in the main ridge of the Low Tatra mountains in Slovakia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.653826,
-                        48.936639
-                  ]
-            },
-            {
-                  "name": "Besná",
-                  "text": "A mountain in the Low Tatras, forming part of the alpine landscape of this region.",
-                  "category": "landmark",
-                  "coords": [
-                        19.675266,
-                        48.918188
-                  ]
-            },
-            {
-                  "name": "Baňa",
-                  "text": "A peak in the Low Tatras accessible via hiking trails for mountain tours.",
-                  "category": "landmark",
-                  "coords": [
-                        19.641004,
-                        48.942502
-                  ]
-            },
-            {
-                  "name": "Veľký Gápeľ",
-                  "text": "A mountain massif in the Low Tatras known for its distinctive shape.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630412,
-                        48.915483
-                  ]
-            },
-            {
-                  "name": "Ďumbier",
-                  "text": "At 2043 meters, this is the highest peak of the Low Tatra mountain range.",
-                  "category": "landmark",
-                  "coords": [
-                        19.640266,
-                        48.936399
-                  ]
-            },
-            {
-                  "name": "Králička",
-                  "text": "A viewpoint in the Low Tatras that provides an impressive distant view of the surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        19.655009,
-                        48.924185
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "SK",

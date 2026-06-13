@@ -393,15 +393,6 @@ image: "/poi-images/kakaoplantage-sampaka-life-v2.webp",
     id: "kaffeegaerten-moca-life-v2", "sights": {
       "de": [
             {
-                  "name": "Vista de Moka",
-                  "text": "Dieser erhöhte Aussichtspunkt bietet weite Panoramen über die umliegenden hochgelegenen Kaffeegärten von Moka.",
-                  "category": "natural",
-                  "coords": [
-                        8.663727,
-                        3.364905
-                  ]
-            },
-            {
                   "name": "Centro de Vida Salvaje BBPP de Moka",
                   "text": "Dieses Museum und Naturschutzzentrum dokumentiert die einzigartige Artenvielfalt in den Kaffeegärten der Moka-Region.",
                   "category": "museum",
@@ -412,15 +403,6 @@ image: "/poi-images/kakaoplantage-sampaka-life-v2.webp",
             }
       ],
       "hu": [
-            {
-                  "name": "Vista de Moka",
-                  "text": "Ez a magaslati kilátó kiterjedt panorámát kínál a környező, magasan fekvő mokai kávékertekre.",
-                  "category": "natural",
-                  "coords": [
-                        8.663727,
-                        3.364905
-                  ]
-            },
             {
                   "name": "Centro de Vida Salvaje BBPP de Moka",
                   "text": "Ez a múzeum és természetvédelmi központ a mokai régió kávékertjeinek egyedülálló biodiverzitását dokumentálja.",
@@ -433,15 +415,6 @@ image: "/poi-images/kakaoplantage-sampaka-life-v2.webp",
       ],
       "ro": [
             {
-                  "name": "Vista de Moka",
-                  "text": "Acest punct de observație înalt oferă panorame vaste asupra grădinilor de cafea de mare altitudine din Moka.",
-                  "category": "natural",
-                  "coords": [
-                        8.663727,
-                        3.364905
-                  ]
-            },
-            {
                   "name": "Centro de Vida Salvaje BBPP de Moka",
                   "text": "Acest muzeu și centru de conservare documentează biodiversitatea unică din grădinile de cafea din regiunea Moka.",
                   "category": "museum",
@@ -452,15 +425,6 @@ image: "/poi-images/kakaoplantage-sampaka-life-v2.webp",
             }
       ],
       "en": [
-            {
-                  "name": "Vista de Moka",
-                  "text": "This elevated viewpoint offers expansive panoramas over the surrounding high-altitude coffee gardens of Moka.",
-                  "category": "natural",
-                  "coords": [
-                        8.663727,
-                        3.364905
-                  ]
-            },
             {
                   "name": "Wildlife Centre BBPP of Moka",
                   "text": "This museum and conservation center details the unique biodiversity found in the coffee gardens of the Moka region.",

@@ -825,24 +825,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ang Mo Kio Town Garden West",
-                  "text": "Dieser ruhige Stadtpark wurde auf einem kleinen Hügel erbaut und bietet sekundäre Waldgebiete sowie eine markante Treppe mit 120 Stufen, die zu einem Platz führt.",
-                  "category": "park",
-                  "coords": [
-                        103.842933,
-                        1.374211
-                  ]
-            },
-            {
-                  "name": "Amphitheatre",
-                  "text": "Dieses Freiluft-Amphitheater in der Nähe des Windsor Nature Parks bietet eine Bühne für kommunale Aufführungen im Freien.",
-                  "category": "cultural",
-                  "coords": [
-                        103.857075,
-                        1.378687
-                  ]
-            },
-            {
                   "name": "Chinese Puppet Play Stand",
                   "text": "In diesem speziellen Theaterbau in der Gegend des Windsor Nature Parks werden traditionelle chinesische Puppenspiele aufgeführt.",
                   "category": "cultural",
@@ -959,24 +941,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
                   "coords": [
                         103.836244,
                         1.361297
-                  ]
-            },
-            {
-                  "name": "Ang Mo Kio Town Garden West",
-                  "text": "A dombon épült nyugodt városi park másodlagos erdőterületekkel és egy jellegzetes, 120 lépcsőfokból álló lépcsősorral rendelkezik, amely egy térre vezet.",
-                  "category": "park",
-                  "coords": [
-                        103.842933,
-                        1.374211
-                  ]
-            },
-            {
-                  "name": "Amphitheatre",
-                  "text": "Ez a Windsor Nature Park közelében található szabadtéri amfiteátrum szabadtéri közösségi előadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        103.857075,
-                        1.378687
                   ]
             },
             {
@@ -1099,24 +1063,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ang Mo Kio Town Garden West",
-                  "text": "Construit pe o colină, acest parc urban liniștit prezintă zone de pădure secundară și un rând distinct de 120 de trepte care duc la o piațetă.",
-                  "category": "park",
-                  "coords": [
-                        103.842933,
-                        1.374211
-                  ]
-            },
-            {
-                  "name": "Amphitheatre",
-                  "text": "Acest amfiteatru în aer liber de lângă Parcul Natural Windsor oferă un spațiu amenajat pentru spectacole comunitare în aer liber.",
-                  "category": "cultural",
-                  "coords": [
-                        103.857075,
-                        1.378687
-                  ]
-            },
-            {
                   "name": "Chinese Puppet Play Stand",
                   "text": "Spectacole tradiționale chinezești de păpuși sunt puse în scenă la această structură de teatru dedicată din zona Parcului Natural Windsor.",
                   "category": "cultural",
@@ -1233,24 +1179,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
                   "coords": [
                         103.836244,
                         1.361297
-                  ]
-            },
-            {
-                  "name": "Ang Mo Kio Town Garden West",
-                  "text": "Built on a hillock, this tranquil urban park features secondary forest areas and a distinct flight of 120 steps leading to a plaza.",
-                  "category": "park",
-                  "coords": [
-                        103.842933,
-                        1.374211
-                  ]
-            },
-            {
-                  "name": "Amphitheatre",
-                  "text": "This open-air amphitheatre near Windsor Nature Park provides a staged area for outdoor community performances.",
-                  "category": "cultural",
-                  "coords": [
-                        103.857075,
-                        1.378687
                   ]
             },
             {
@@ -1488,24 +1416,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
     id: "sg-bedok-reservoir-park-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Air Force Museum",
-                  "text": "Dieses Museum im Gebiet Bedok zeigt die Luftfahrtgeschichte und die Militärflugzeuge der lokalen Luftwaffe.",
-                  "category": "museum",
-                  "coords": [
-                        103.899343,
-                        1.346772
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Ansar",
-                  "text": "Diese Moschee ist für ihre markante blaue Kuppel und ihr markantes Minarett bekannt und stellt einen wichtigen Gebetsort in der Gegend von Bedok dar.",
-                  "category": "religious",
-                  "coords": [
-                        103.926386,
-                        1.326983
-                  ]
-            },
-            {
                   "name": "Aqua Adventure",
                   "text": "Dieser Wasserpark im Bedok-Gebiet verfügt über aquatische Spielstrukturen und Planschbereiche für Freizeitspaß.",
                   "category": "recreational",
@@ -1521,15 +1431,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
                   "coords": [
                         103.913993,
                         1.3367
-                  ]
-            },
-            {
-                  "name": "Wat Pālēlāika",
-                  "text": "Dieser traditionelle thailändisch-buddhistische Tempel im Gebiet Bedok ist für seine authentische Architektur und seine ruhigen Meditationsräume bekannt.",
-                  "category": "religious",
-                  "coords": [
-                        103.946245,
-                        1.331225
                   ]
             },
             {
@@ -1679,24 +1580,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Air Force Museum",
-                  "text": "Ez a Bedok környéki múzeum a helyi légierő repüléstörténetét és katonai repülőgépeit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        103.899343,
-                        1.346772
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Ansar",
-                  "text": "A jellegzetes kék kupolájáról és magas minaretjéről ismert mecset a Bedok terület fontos istentiszteleti helye.",
-                  "category": "religious",
-                  "coords": [
-                        103.926386,
-                        1.326983
-                  ]
-            },
-            {
                   "name": "Aqua Adventure",
                   "text": "Ez a Bedok területén található vízi park vízi játékelemekkel és csobbanó zónákkal várja a kikapcsolódni vágyókat.",
                   "category": "recreational",
@@ -1712,15 +1595,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
                   "coords": [
                         103.913993,
                         1.3367
-                  ]
-            },
-            {
-                  "name": "Wat Pālēlāika",
-                  "text": "Ez a Bedok területén található hagyományos thai buddhista templom autentikus építészetéről és békés meditációs tereiről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        103.946245,
-                        1.331225
                   ]
             },
             {
@@ -1870,24 +1744,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Air Force Museum",
-                  "text": "Acest muzeu din zona Bedok prezintă istoria aviației și avioanele militare ale forțelor aeriene locale.",
-                  "category": "museum",
-                  "coords": [
-                        103.899343,
-                        1.346772
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Ansar",
-                  "text": "Cunoscută pentru cupola sa albastră distinctivă și minaretul proeminent, această moschee este un lăcaș de cult major în zona Bedok.",
-                  "category": "religious",
-                  "coords": [
-                        103.926386,
-                        1.326983
-                  ]
-            },
-            {
                   "name": "Aqua Adventure",
                   "text": "Acest parc acvatic din zona Bedok dispune de structuri de joacă acvatice și zone de stropire pentru distracție recreativă.",
                   "category": "recreational",
@@ -1903,15 +1759,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
                   "coords": [
                         103.913993,
                         1.3367
-                  ]
-            },
-            {
-                  "name": "Wat Pālēlāika",
-                  "text": "Acest templu budist tradițional thailandez din zona Bedok este recunoscut pentru arhitectura sa autentică și spațiile senine de meditație.",
-                  "category": "religious",
-                  "coords": [
-                        103.946245,
-                        1.331225
                   ]
             },
             {
@@ -2061,24 +1908,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Air Force Museum",
-                  "text": "This museum in the Bedok area showcases the aviation history and military aircraft of the local air force.",
-                  "category": "museum",
-                  "coords": [
-                        103.899343,
-                        1.346772
-                  ]
-            },
-            {
-                  "name": "Al-Ansar Mosque",
-                  "text": "Known for its distinctive blue dome and prominent minaret, this mosque is a major place of worship in the Bedok area.",
-                  "category": "religious",
-                  "coords": [
-                        103.926386,
-                        1.326983
-                  ]
-            },
-            {
                   "name": "Aqua Adventure",
                   "text": "This water park in the Bedok area features aquatic play structures and splash zones for recreational fun.",
                   "category": "recreational",
@@ -2094,15 +1923,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
                   "coords": [
                         103.913993,
                         1.3367
-                  ]
-            },
-            {
-                  "name": "Palelai Buddhist Temple",
-                  "text": "This traditional Thai Buddhist temple in the Bedok area is recognized for its authentic architecture and serene meditation spaces.",
-                  "category": "religious",
-                  "coords": [
-                        103.946245,
-                        1.331225
                   ]
             },
             {
@@ -2595,39 +2415,12 @@ export const poiExtraSingaporeNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Certis Cisco west hub",
-                  "text": "Dieser moderne Komplex dient als westlicher operativer Knotenpunkt für die Sicherheitsorganisation.",
-                  "category": "landmark",
-                  "coords": [
-                        103.738572,
-                        1.33057
-                  ]
-            },
-            {
-                  "name": "Paddle Lodge Pandan Reservoir",
-                  "text": "Diese Freizeiteinrichtung stellt Ausrüstung zum Kajakfahren und Paddeln auf den Gewässern des Pandan-Stausees zur Verfügung.",
-                  "category": "landmark",
-                  "coords": [
-                        103.736618,
-                        1.320033
-                  ]
-            },
-            {
                   "name": "Clusia Cove",
                   "text": "Diese familienfreundliche Attraktion bietet flache Becken und Wasserspielbereiche, die eine natürliche Küstenumgebung simulieren.",
                   "category": "landmark",
                   "coords": [
                         103.724879,
                         1.34034
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Mukminin",
-                  "text": "Diese islamische Kultstätte verfügt über markante Minarette und bietet einen Gebetssaal für die lokale muslimische Gemeinde.",
-                  "category": "religious",
-                  "coords": [
-                        103.741509,
-                        1.339135
                   ]
             },
             {
@@ -2885,39 +2678,12 @@ export const poiExtraSingaporeNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Certis Cisco west hub",
-                  "text": "Ez a modern komplexum a biztonsági szervezet nyugati műveleti központjaként szolgál.",
-                  "category": "landmark",
-                  "coords": [
-                        103.738572,
-                        1.33057
-                  ]
-            },
-            {
-                  "name": "Paddle Lodge Pandan Reservoir",
-                  "text": "Ez a szabadidős létesítmény felszerelést biztosít kajakozáshoz és evezéshez a Pandan-víztározó vizén.",
-                  "category": "landmark",
-                  "coords": [
-                        103.736618,
-                        1.320033
-                  ]
-            },
-            {
                   "name": "Clusia Cove",
                   "text": "Ez a családbarát látványosság sekély medencékkel és vizes játszóterekkel rendelkezik, amelyek egy természetes tengerparti környezetet szimulálnak.",
                   "category": "landmark",
                   "coords": [
                         103.724879,
                         1.34034
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Mukminin",
-                  "text": "Ez az iszlám istentiszteleti hely jellegzetes minaretekkel rendelkezik, és imatermet biztosít a helyi muszlim közösség számára.",
-                  "category": "religious",
-                  "coords": [
-                        103.741509,
-                        1.339135
                   ]
             },
             {
@@ -3175,39 +2941,12 @@ export const poiExtraSingaporeNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Certis Cisco west hub",
-                  "text": "Acest complex modern servește drept centru operațional vestic pentru organizația de securitate.",
-                  "category": "landmark",
-                  "coords": [
-                        103.738572,
-                        1.33057
-                  ]
-            },
-            {
-                  "name": "Paddle Lodge Pandan Reservoir",
-                  "text": "Această facilitate de agrement oferă echipamente pentru caiac și vâslit pe apele rezervorului Pandan.",
-                  "category": "landmark",
-                  "coords": [
-                        103.736618,
-                        1.320033
-                  ]
-            },
-            {
                   "name": "Clusia Cove",
                   "text": "Această atracție pentru familii are piscine puțin adânci și zone de joacă cu apă care simulează un mediu de coastă natural.",
                   "category": "landmark",
                   "coords": [
                         103.724879,
                         1.34034
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Mukminin",
-                  "text": "Acest lăcaș de cult islamic are minarete distincte și oferă o sală de rugăciune pentru comunitatea musulmană locală.",
-                  "category": "religious",
-                  "coords": [
-                        103.741509,
-                        1.339135
                   ]
             },
             {
@@ -3465,39 +3204,12 @@ export const poiExtraSingaporeNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Certis Cisco west hub",
-                  "text": "This modern complex serves as a western operational hub for the security organization.",
-                  "category": "landmark",
-                  "coords": [
-                        103.738572,
-                        1.33057
-                  ]
-            },
-            {
-                  "name": "Paddle Lodge Pandan Reservoir",
-                  "text": "This recreational facility provides equipment for kayaking and paddling on the waters of the Pandan Reservoir.",
-                  "category": "landmark",
-                  "coords": [
-                        103.736618,
-                        1.320033
-                  ]
-            },
-            {
                   "name": "Clusia Cove",
                   "text": "This family-friendly attraction features shallow pools and water play areas simulating a natural coastal environment.",
                   "category": "landmark",
                   "coords": [
                         103.724879,
                         1.34034
-                  ]
-            },
-            {
-                  "name": "Al-Mukminin Mosque",
-                  "text": "This Islamic place of worship features distinct minarets and provides a prayer hall for the local Muslim community.",
-                  "category": "religious",
-                  "coords": [
-                        103.741509,
-                        1.339135
                   ]
             },
             {
@@ -3777,15 +3489,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pasir Ris Town Park",
-                  "text": "Dieser bekannte Park umfasst einen großen Meerwasserteich inmitten einer üppigen grünen Vegetation.",
-                  "category": "park",
-                  "coords": [
-                        103.952483,
-                        1.371506
-                  ]
-            },
-            {
                   "name": "Pasir Ris Park",
                   "text": "Dieser 1989 gegründete, berühmte Küstenpark verfügt über ausgedehnte Mangrovenstege und Sandstrände.",
                   "category": "park",
@@ -3839,15 +3542,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
                   "coords": [
                         103.954578,
                         1.378045
-                  ]
-            },
-            {
-                  "name": "Pasir Ris Town Park",
-                  "text": "Ez a jól ismert park egy nagy tengeri tavat is magában foglal buja zöld növényzet között.",
-                  "category": "park",
-                  "coords": [
-                        103.952483,
-                        1.371506
                   ]
             },
             {
@@ -3907,15 +3601,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pasir Ris Town Park",
-                  "text": "Acest parc binecunoscut include un mare iaz marin situat în mijlocul unei vegetații verzi luxuriante.",
-                  "category": "park",
-                  "coords": [
-                        103.952483,
-                        1.371506
-                  ]
-            },
-            {
                   "name": "Pasir Ris Park",
                   "text": "Înființat în 1989, acest faimos parc de coastă oferă promenade extinse prin mangrove și țărmuri nisipoase.",
                   "category": "park",
@@ -3969,15 +3654,6 @@ export const poiExtraSingaporeNatureV2: POI[] = [
                   "coords": [
                         103.954578,
                         1.378045
-                  ]
-            },
-            {
-                  "name": "Pasir Ris Town Park",
-                  "text": "This well-known park includes a large marine pond set amongst lush green vegetation.",
-                  "category": "park",
-                  "coords": [
-                        103.952483,
-                        1.371506
                   ]
             },
             {

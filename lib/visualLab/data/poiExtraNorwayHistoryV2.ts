@@ -1050,15 +1050,6 @@ export const norwayHistoryV2: POI[] = [
     id: "norway-skudenes-old-town-history-v2", "sights": {
       "de": [
             {
-                  "name": "Mælandsgården",
-                  "text": "Ein gut erhaltenes Kaufmannshaus aus dem 19. Jahrhundert in Skudeneshavn.",
-                  "category": "museum",
-                  "coords": [
-                        5.260548,
-                        59.147938
-                  ]
-            },
-            {
                   "name": "Geitungen fyr",
                   "text": "Ein markanter Leuchtturm im Art-Déco-Stil südlich von Skudeneshavn.",
                   "category": "landmark",
@@ -1068,30 +1059,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skudesnes kystfort",
-                  "text": "Ehemalige Küstenbefestigung mit Überresten von Bunkern und Geschützstellungen.",
-                  "category": "fortress",
-                  "coords": [
-                        5.290491,
-                        59.157897
-                  ]
-            },
-            {
                   "name": "Skudesnes fort",
                   "text": "Historische Verteidigungsanlagen mit Blick auf die Küstenzugänge.",
                   "category": "fortress",
                   "coords": [
                         5.270735,
                         59.145716
-                  ]
-            },
-            {
-                  "name": "Derikhuset",
-                  "text": "Ein historisches Haus in Skudeneshavn, das das lokale Kulturerbe zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        5.273702,
-                        59.16487
                   ]
             },
             {
@@ -1106,15 +1079,6 @@ export const norwayHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Mælandsgården",
-                  "text": "Egy jól megőrzött 19. századi kereskedőház Skudeneshavnban.",
-                  "category": "museum",
-                  "coords": [
-                        5.260548,
-                        59.147938
-                  ]
-            },
-            {
                   "name": "Geitungen fyr",
                   "text": "Jellegzetes Art Deco stílusú világítótorony Skudeneshavntól délre.",
                   "category": "landmark",
@@ -1124,30 +1088,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skudesnes kystfort",
-                  "text": "Korábbi parti erődítmény bunkerek és ágyúállások maradványaival.",
-                  "category": "fortress",
-                  "coords": [
-                        5.290491,
-                        59.157897
-                  ]
-            },
-            {
                   "name": "Skudesnes fort",
                   "text": "Történelmi védelmi építmények, amelyek a tengerparti megközelítésekre néznek.",
                   "category": "fortress",
                   "coords": [
                         5.270735,
                         59.145716
-                  ]
-            },
-            {
-                  "name": "Derikhuset",
-                  "text": "Történelmi ház Skudeneshavnban, amely a helyi kulturális örökséget mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        5.273702,
-                        59.16487
                   ]
             },
             {
@@ -1162,15 +1108,6 @@ export const norwayHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Mælandsgården",
-                  "text": "O casă de negustor bine conservată din secolul al XIX-lea în Skudeneshavn.",
-                  "category": "museum",
-                  "coords": [
-                        5.260548,
-                        59.147938
-                  ]
-            },
-            {
                   "name": "Geitungen fyr",
                   "text": "Un far distinctiv în stil Art Deco situat la sud de Skudeneshavn.",
                   "category": "landmark",
@@ -1180,30 +1117,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skudesnes kystfort",
-                  "text": "Fostă fortificație de coastă cu resturi de buncăre și poziții de tunuri.",
-                  "category": "fortress",
-                  "coords": [
-                        5.290491,
-                        59.157897
-                  ]
-            },
-            {
                   "name": "Skudesnes fort",
                   "text": "Structuri defensive istorice care domină căile de acces de coastă.",
                   "category": "fortress",
                   "coords": [
                         5.270735,
                         59.145716
-                  ]
-            },
-            {
-                  "name": "Derikhuset",
-                  "text": "O casă istorică din Skudeneshavn care prezintă patrimoniul cultural local.",
-                  "category": "museum",
-                  "coords": [
-                        5.273702,
-                        59.16487
                   ]
             },
             {
@@ -1218,15 +1137,6 @@ export const norwayHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Mælandsgården",
-                  "text": "A well-preserved merchant's house from the 19th century in Skudeneshavn.",
-                  "category": "museum",
-                  "coords": [
-                        5.260548,
-                        59.147938
-                  ]
-            },
-            {
                   "name": "Geitungen fyr",
                   "text": "A distinctive Art Deco style lighthouse located south of Skudeneshavn.",
                   "category": "landmark",
@@ -1236,30 +1146,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skudesnes kystfort",
-                  "text": "Former coastal fortification with remains of bunkers and gun positions.",
-                  "category": "fortress",
-                  "coords": [
-                        5.290491,
-                        59.157897
-                  ]
-            },
-            {
                   "name": "Skudesnes fort",
                   "text": "Historic defensive structures overlooking the coastal approaches.",
                   "category": "fortress",
                   "coords": [
                         5.270735,
                         59.145716
-                  ]
-            },
-            {
-                  "name": "Derikhuset",
-                  "text": "A historic house in Skudeneshavn showcasing local cultural heritage.",
-                  "category": "museum",
-                  "coords": [
-                        5.273702,
-                        59.16487
                   ]
             },
             {
@@ -1662,15 +1554,6 @@ export const norwayHistoryV2: POI[] = [
     id: "norway-stave-church-heddal-history-v2", "sights": {
       "de": [
             {
-                  "name": "Semsøyene naturreservat",
-                  "text": "Ein Naturschutzgebiet bestehend aus mehreren Inseln, bekannt für seine Vogelwelt.",
-                  "category": "natural",
-                  "coords": [
-                        9.22073,
-                        59.556897
-                  ]
-            },
-            {
                   "name": "Heddal Bygdetun",
                   "text": "Ein Freilichtmuseum bei Heddal, das traditionelle norwegische Gebäude zeigt.",
                   "category": "museum",
@@ -1708,15 +1591,6 @@ export const norwayHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Semsøyene naturreservat",
-                  "text": "Több szigetből álló természetvédelmi terület, amely madárvilágáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        9.22073,
-                        59.556897
-                  ]
-            },
             {
                   "name": "Heddal Bygdetun",
                   "text": "Szabadtéri múzeum Heddal közelében, amely hagyományos norvég épületeket mutat be.",
@@ -1756,15 +1630,6 @@ export const norwayHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Semsøyene naturreservat",
-                  "text": "O rezervație naturală formată din mai multe insule, cunoscută pentru fauna aviară.",
-                  "category": "natural",
-                  "coords": [
-                        9.22073,
-                        59.556897
-                  ]
-            },
-            {
                   "name": "Heddal Bygdetun",
                   "text": "Un muzeu în aer liber lângă Heddal, care prezintă clădiri tradiționale norvegiene.",
                   "category": "museum",
@@ -1802,15 +1667,6 @@ export const norwayHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Semsøyene naturreservat",
-                  "text": "A nature reserve consisting of several islands, known for its birdlife.",
-                  "category": "natural",
-                  "coords": [
-                        9.22073,
-                        59.556897
-                  ]
-            },
             {
                   "name": "Heddal Bygdetun",
                   "text": "An open-air museum near Heddal showcasing traditional Norwegian buildings.",
@@ -1968,15 +1824,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rogaland Teater",
-                  "text": "Das Rogaland Teater ist Norwegens ältestes Theatergebäude von 1883 in der Altstadt von Stavanger.",
-                  "category": "cultural",
-                  "coords": [
-                        5.732826,
-                        58.965363
-                  ]
-            },
-            {
                   "name": "Stavanger maritime museum",
                   "text": "Das Maritime Museum dokumentiert Stavangers lange Geschichte als bedeutende Seefahrerstadt.",
                   "category": "museum",
@@ -1992,15 +1839,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         5.703364,
                         58.954819
-                  ]
-            },
-            {
-                  "name": "Arkeologisk museum",
-                  "text": "Das Archäologische Museum in Stavanger präsentiert bedeutende Funde aus der Region Rogaland.",
-                  "category": "museum",
-                  "coords": [
-                        5.730116,
-                        58.963297
                   ]
             },
             {
@@ -2022,30 +1860,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reidar Berge-museet",
-                  "text": "Das Reidar Berge-Museum zeigt das Werk des lokalen Künstlers und Seemanns in Stavanger.",
-                  "category": "museum",
-                  "coords": [
-                        5.738453,
-                        58.971181
-                  ]
-            },
-            {
                   "name": "Helleristninger i Rudlå",
                   "text": "Die Felsritzungen in Rudlå sind prähistorische Kunstwerke aus der Bronzezeit in Stavanger.",
                   "category": "historical",
                   "coords": [
                         5.719983,
                         58.971574
-                  ]
-            },
-            {
-                  "name": "Emmaus-stranden",
-                  "text": "Der Emmaus-Strand ist ein kleiner, ruhiger Badeplatz im Osten von Stavanger.",
-                  "category": "recreational",
-                  "coords": [
-                        5.76584,
-                        58.958816
                   ]
             },
             {
@@ -2076,48 +1896,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Godalen",
-                  "text": "Ein beliebter Badestrand in Stavanger, der ideale Bedingungen für Erholung am Meer bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        5.75662,
-                        58.953972
-                  ]
-            },
-            {
-                  "name": "Rosenli-stranden",
-                  "text": "Ein ruhiger Strandabschnitt in Stavanger, der zum Verweilen und Schwimmen einlädt.",
-                  "category": "recreational",
-                  "coords": [
-                        5.767806,
-                        58.961461
-                  ]
-            },
-            {
                   "name": "Sølvberget (Bibliotek og Kulturhus)",
                   "text": "Ein bedeutendes Kulturzentrum in Stavanger, das eine Bibliothek, ein Kino und Veranstaltungsräume beherbergt.",
                   "category": "cultural",
                   "coords": [
                         5.73335,
                         58.97143
-                  ]
-            },
-            {
-                  "name": "Vålandspibå",
-                  "text": "Ein Aussichtspunkt in Stavanger, der einen weiten Blick über die Stadt und die Umgebung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        5.728597,
-                        58.957249
-                  ]
-            },
-            {
-                  "name": "Asbjørn Kloster",
-                  "text": "Ein Denkmal zu Ehren von Asbjørn Kloster, dem Begründer der modernen norwegischen Abstinenzbewegung.",
-                  "category": "historical",
-                  "coords": [
-                        5.728271,
-                        58.964691
                   ]
             },
             {
@@ -2154,24 +1938,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         5.729727,
                         58.968843
-                  ]
-            },
-            {
-                  "name": "Rogaland kunstsenter",
-                  "text": "Ein Zentrum für zeitgenössische Kunst in Stavanger, das Ausstellungen und Projekte lokaler Künstler zeigt.",
-                  "category": "cultural",
-                  "coords": [
-                        5.739264,
-                        58.969951
-                  ]
-            },
-            {
-                  "name": "Admiral Cornelius Cruys",
-                  "text": "Ein Denkmal für Cornelius Cruys, einen in Stavanger geborenen Admiral, der die russische Marine mit aufbaute.",
-                  "category": "historical",
-                  "coords": [
-                        5.735628,
-                        58.971912
                   ]
             },
             {
@@ -2220,51 +1986,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musikkpaviljongen",
-                  "text": "Ein charmanter Musikpavillon im Stadtpark von Stavanger, der für kulturelle Darbietungen genutzt wird.",
-                  "category": "landmark",
-                  "coords": [
-                        5.7343,
-                        58.968945
-                  ]
-            },
-            {
-                  "name": "Anna af Sand",
-                  "text": "Die Anna af Sand ist eine historische Hardanger-Jakt und eines der ältesten noch segelnden Holzschiffe Norwegens.",
-                  "category": "landmark",
-                  "coords": [
-                        5.7454,
-                        58.971956
-                  ]
-            },
-            {
-                  "name": "St. Johannes kirke",
-                  "text": "Eine markante Kirche in Stavanger, die für ihre Architektur und ihre Rolle im Gemeindeleben bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        5.74919,
-                        58.96872
-                  ]
-            },
-            {
-                  "name": "Bekkefaret kirke",
-                  "text": "Eine moderne Kirche in Stavanger, die als religiöser und sozialer Treffpunkt für das Viertel dient.",
-                  "category": "religious",
-                  "coords": [
-                        5.728539,
-                        58.951011
-                  ]
-            },
-            {
-                  "name": "Hillevåg kirke",
-                  "text": "Die Hillevåg-Kirche ist ein wichtiger sakraler Ort und Versammlungspunkt im Stadtteil Hillevåg.",
-                  "category": "religious",
-                  "coords": [
-                        5.740728,
-                        58.944147
-                  ]
-            },
-            {
                   "name": "Kampen kirke",
                   "text": "Eine Kirche im Stadtteil Kampen, die das geistliche Leben der Bewohner von Stavanger bereichert.",
                   "category": "religious",
@@ -2274,57 +1995,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "St.-Petri-Kirche",
-                  "text": "Die St.-Peter-Kirche ist eine christliche Gebetsstätte in Stavanger, die für Gottesdienste und Gemeindeaktivitäten offen steht.",
-                  "category": "religious",
-                  "coords": [
-                        5.736722,
-                        58.970556
-                  ]
-            },
-            {
                   "name": "Tjensvoll kirke",
                   "text": "Eine moderne Gemeindekirche in Stavanger, die durch ihre zeitgenössische Architektur besticht.",
                   "category": "religious",
                   "coords": [
                         5.702318,
                         58.950593
-                  ]
-            },
-            {
-                  "name": "Varden kirke",
-                  "text": "Die Varden-Kirche dient der lokalen Bevölkerung in Stavanger als Ort für Gebet und Gemeinschaft.",
-                  "category": "religious",
-                  "coords": [
-                        5.751109,
-                        58.95941
-                  ]
-            },
-            {
-                  "name": "St. Svithun katolske kirke",
-                  "text": "Die St. Svithun katolske kirke ist die einzige katholische Kirche Stavangers, erbaut aus Backstein im 20. Jahrhundert.",
-                  "category": "religious",
-                  "coords": [
-                        5.729751,
-                        58.965799
-                  ]
-            },
-            {
-                  "name": "Frue kirke",
-                  "text": "Die Frue-Kirche ist ein sakrales Bauwerk in Stavanger, das für seine friedvolle Atmosphäre bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        5.741133,
-                        58.968164
-                  ]
-            },
-            {
-                  "name": "Stavanger døvekirke",
-                  "text": "Eine spezialisierte Kirche in Stavanger, die Gottesdienste und Seelsorge für die Gehörlosengemeinschaft anbietet.",
-                  "category": "religious",
-                  "coords": [
-                        5.738618,
-                        58.965601
                   ]
             },
             {
@@ -2343,15 +2019,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         5.693482,
                         58.981319
-                  ]
-            },
-            {
-                  "name": "Vassøyferjå",
-                  "text": "Die Stavanger-Stadtbrücke ist eine markante Schrägseilbrücke, die das Stadtzentrum mit der Insel Hundvåg verbindet.",
-                  "category": "landmark",
-                  "coords": [
-                        5.74723,
-                        58.973992
                   ]
             }
       ],
@@ -2384,15 +2051,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rogaland Teater",
-                  "text": "A Rogaland Teater Norvégia legrégebbi színházépülete 1883-ból, Stavanger óvárosában.",
-                  "category": "cultural",
-                  "coords": [
-                        5.732826,
-                        58.965363
-                  ]
-            },
-            {
                   "name": "Stavanger maritime museum",
                   "text": "A Tengerészeti Múzeum Stavanger jelentős hajózási múltját dokumentálja.",
                   "category": "museum",
@@ -2408,15 +2066,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         5.703364,
                         58.954819
-                  ]
-            },
-            {
-                  "name": "Arkeologisk museum",
-                  "text": "A stavangeri Régészeti Múzeum Rogaland régió jelentős leleteit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        5.730116,
-                        58.963297
                   ]
             },
             {
@@ -2438,30 +2087,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reidar Berge-museet",
-                  "text": "A Reidar Berge-múzeum a helyi művész és tengerész munkásságát mutatja be Stavangerben.",
-                  "category": "museum",
-                  "coords": [
-                        5.738453,
-                        58.971181
-                  ]
-            },
-            {
                   "name": "Helleristninger i Rudlå",
                   "text": "A rudlåi sziklarajzok bronzkori őskori műalkotások Stavangerben.",
                   "category": "historical",
                   "coords": [
                         5.719983,
                         58.971574
-                  ]
-            },
-            {
-                  "name": "Emmaus-stranden",
-                  "text": "Az Emmaus-strand egy kicsi, csendes fürdőhely Stavanger keleti részén.",
-                  "category": "recreational",
-                  "coords": [
-                        5.76584,
-                        58.958816
                   ]
             },
             {
@@ -2492,48 +2123,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Godalen",
-                  "text": "Népszerű strand Stavangerben, amely ideális feltételeket kínál a tengerparti kikapcsolódáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        5.75662,
-                        58.953972
-                  ]
-            },
-            {
-                  "name": "Rosenli-stranden",
-                  "text": "Stavanger egy csendes tengerparti szakasza, amely pihenésre és úszásra hívogat.",
-                  "category": "recreational",
-                  "coords": [
-                        5.767806,
-                        58.961461
-                  ]
-            },
-            {
                   "name": "Sølvberget (Bibliotek og Kulturhus)",
                   "text": "Stavanger jelentős kulturális központja, amely könyvtárnak, mozinak és rendezvénytermeknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         5.73335,
                         58.97143
-                  ]
-            },
-            {
-                  "name": "Vålandspibå",
-                  "text": "Kilátópont Stavangerben, ahonnan széles körkilátás nyílik a városra és a környékre.",
-                  "category": "natural",
-                  "coords": [
-                        5.728597,
-                        58.957249
-                  ]
-            },
-            {
-                  "name": "Asbjørn Kloster",
-                  "text": "Emlékmű Asbjørn Kloster, a modern norvég absztinens mozgalom alapítójának tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        5.728271,
-                        58.964691
                   ]
             },
             {
@@ -2570,24 +2165,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         5.729727,
                         58.968843
-                  ]
-            },
-            {
-                  "name": "Rogaland kunstsenter",
-                  "text": "Kortárs művészeti központ Stavangerben, amely helyi művészek kiállításait és projektjeit mutatja be.",
-                  "category": "cultural",
-                  "coords": [
-                        5.739264,
-                        58.969951
-                  ]
-            },
-            {
-                  "name": "Admiral Cornelius Cruys",
-                  "text": "Emlékmű Cornelius Cruysnak, a Stavangerben született tengernagynak, aki segített az orosz haditengerészet felépítésében.",
-                  "category": "historical",
-                  "coords": [
-                        5.735628,
-                        58.971912
                   ]
             },
             {
@@ -2636,51 +2213,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musikkpaviljongen",
-                  "text": "Bájos zenepavilon Stavanger városi parkjában, amelyet kulturális előadásokhoz használnak.",
-                  "category": "landmark",
-                  "coords": [
-                        5.7343,
-                        58.968945
-                  ]
-            },
-            {
-                  "name": "Anna af Sand",
-                  "text": "Az Anna af Sand egy történelmi Hardanger-jakt, Norvégia egyik legrégebbi, még vitorlázó fahajója.",
-                  "category": "landmark",
-                  "coords": [
-                        5.7454,
-                        58.971956
-                  ]
-            },
-            {
-                  "name": "St. Johannes kirke",
-                  "text": "Jellegzetes templom Stavangerben, amely építészetéről és a közösségi életben betöltött szerepéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        5.74919,
-                        58.96872
-                  ]
-            },
-            {
-                  "name": "Bekkefaret kirke",
-                  "text": "Modern templom Stavangerben, amely a környék vallási és társadalmi találkozóhelyeként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        5.728539,
-                        58.951011
-                  ]
-            },
-            {
-                  "name": "Hillevåg kirke",
-                  "text": "A hillevågi templom fontos szakrális hely és gyülekezőpont Hillevåg városrészben.",
-                  "category": "religious",
-                  "coords": [
-                        5.740728,
-                        58.944147
-                  ]
-            },
-            {
                   "name": "Kampen kirke",
                   "text": "Templom Kampen városrészben, amely Stavanger lakóinak lelki életét gazdagítja.",
                   "category": "religious",
@@ -2690,57 +2222,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. Petri kirke",
-                  "text": "A Szent Péter-templom keresztény imaház Stavangerben, amely istentiszteleteknek és közösségi tevékenységeknek ad helyet.",
-                  "category": "religious",
-                  "coords": [
-                        5.736722,
-                        58.970556
-                  ]
-            },
-            {
                   "name": "Tjensvoll kirke",
                   "text": "Modern közösségi templom Stavangerben, amely kortárs építészetével tűnik ki.",
                   "category": "religious",
                   "coords": [
                         5.702318,
                         58.950593
-                  ]
-            },
-            {
-                  "name": "Varden kirke",
-                  "text": "A vardeni templom a helyi lakosság imádságának és közösségének helyszíneként szolgál Stavangerben.",
-                  "category": "religious",
-                  "coords": [
-                        5.751109,
-                        58.95941
-                  ]
-            },
-            {
-                  "name": "St. Svithun katolske kirke",
-                  "text": "A St. Svithun katolske kirke Stavanger egyetlen katolikus temploma, a 20. században téglából épült.",
-                  "category": "religious",
-                  "coords": [
-                        5.729751,
-                        58.965799
-                  ]
-            },
-            {
-                  "name": "Frue kirke",
-                  "text": "A Frue-templom szakrális épület Stavangerben, amely békés légköréről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        5.741133,
-                        58.968164
-                  ]
-            },
-            {
-                  "name": "Stavanger døvekirke",
-                  "text": "Speciális templom Stavangerben, amely istentiszteleteket és lelkigondozást kínál a siketek közösségének.",
-                  "category": "religious",
-                  "coords": [
-                        5.738618,
-                        58.965601
                   ]
             },
             {
@@ -2759,15 +2246,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         5.693482,
                         58.981319
-                  ]
-            },
-            {
-                  "name": "Vassøyferjå",
-                  "text": "A stavangeri városi híd egy jellegzetes ferdekábeles híd, amely a városközpontot köti össze Hundvåg szigetével.",
-                  "category": "landmark",
-                  "coords": [
-                        5.74723,
-                        58.973992
                   ]
             }
       ],
@@ -2800,15 +2278,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rogaland Teater",
-                  "text": "Rogaland Teater este cea mai veche clădire de teatru din Norvegia, datând din 1883, în orașul vechi Stavanger.",
-                  "category": "cultural",
-                  "coords": [
-                        5.732826,
-                        58.965363
-                  ]
-            },
-            {
                   "name": "Stavanger maritime museum",
                   "text": "Muzeul Maritim documentează istoria lungă a orașului Stavanger ca oraș maritim important.",
                   "category": "museum",
@@ -2824,15 +2293,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         5.703364,
                         58.954819
-                  ]
-            },
-            {
-                  "name": "Arkeologisk museum",
-                  "text": "Muzeul de Arheologie din Stavanger prezintă descoperiri importante din regiunea Rogaland.",
-                  "category": "museum",
-                  "coords": [
-                        5.730116,
-                        58.963297
                   ]
             },
             {
@@ -2854,30 +2314,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reidar Berge-museet",
-                  "text": "Muzeul Reidar Berge prezintă opera artistului și marinarului local din Stavanger.",
-                  "category": "museum",
-                  "coords": [
-                        5.738453,
-                        58.971181
-                  ]
-            },
-            {
                   "name": "Helleristninger i Rudlå",
                   "text": "Gravurile rupestre din Rudlå sunt opere de artă preistorice din Epoca Bronzului în Stavanger.",
                   "category": "historical",
                   "coords": [
                         5.719983,
                         58.971574
-                  ]
-            },
-            {
-                  "name": "Emmaus-stranden",
-                  "text": "Plaja Emmaus este un loc de scăldat mic și liniștit în estul orașului Stavanger.",
-                  "category": "recreational",
-                  "coords": [
-                        5.76584,
-                        58.958816
                   ]
             },
             {
@@ -2908,48 +2350,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Godalen",
-                  "text": "O plajă populară în Stavanger, oferind condiții ideale pentru recreere la malul mării.",
-                  "category": "recreational",
-                  "coords": [
-                        5.75662,
-                        58.953972
-                  ]
-            },
-            {
-                  "name": "Rosenli-stranden",
-                  "text": "O porțiune liniștită de plajă în Stavanger, care invită la relaxare și înot.",
-                  "category": "recreational",
-                  "coords": [
-                        5.767806,
-                        58.961461
-                  ]
-            },
-            {
                   "name": "Sølvberget (Bibliotek og Kulturhus)",
                   "text": "Un centru cultural important din Stavanger, care găzduiește o bibliotecă, un cinematograf și săli de evenimente.",
                   "category": "cultural",
                   "coords": [
                         5.73335,
                         58.97143
-                  ]
-            },
-            {
-                  "name": "Vålandspibå",
-                  "text": "Un punct de observație în Stavanger, oferind o vedere panoramică asupra orașului și împrejurimilor.",
-                  "category": "natural",
-                  "coords": [
-                        5.728597,
-                        58.957249
-                  ]
-            },
-            {
-                  "name": "Asbjørn Kloster",
-                  "text": "Un monument în onoarea lui Asbjørn Kloster, fondatorul mișcării moderne norvegiene pentru abstinență.",
-                  "category": "historical",
-                  "coords": [
-                        5.728271,
-                        58.964691
                   ]
             },
             {
@@ -2986,24 +2392,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         5.729727,
                         58.968843
-                  ]
-            },
-            {
-                  "name": "Rogaland kunstsenter",
-                  "text": "Un centru de artă contemporană din Stavanger, care prezintă expoziții și proiecte ale artiștilor locali.",
-                  "category": "cultural",
-                  "coords": [
-                        5.739264,
-                        58.969951
-                  ]
-            },
-            {
-                  "name": "Admiral Cornelius Cruys",
-                  "text": "Un monument pentru Cornelius Cruys, un amiral născut în Stavanger care a ajutat la construirea marinei ruse.",
-                  "category": "historical",
-                  "coords": [
-                        5.735628,
-                        58.971912
                   ]
             },
             {
@@ -3052,51 +2440,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musikkpaviljongen",
-                  "text": "Un pavilion muzical fermecător în parcul orașului Stavanger, utilizat pentru spectacole culturale.",
-                  "category": "landmark",
-                  "coords": [
-                        5.7343,
-                        58.968945
-                  ]
-            },
-            {
-                  "name": "Anna af Sand",
-                  "text": "Anna af Sand este un iaht istoric de tip Hardanger și una dintre cele mai vechi nave de lemn care încă navighează în Norvegia.",
-                  "category": "landmark",
-                  "coords": [
-                        5.7454,
-                        58.971956
-                  ]
-            },
-            {
-                  "name": "St. Johannes kirke",
-                  "text": "O biserică remarcabilă din Stavanger, cunoscută pentru arhitectura sa și rolul său în viața comunității.",
-                  "category": "religious",
-                  "coords": [
-                        5.74919,
-                        58.96872
-                  ]
-            },
-            {
-                  "name": "Bekkefaret kirke",
-                  "text": "O biserică modernă din Stavanger, care servește ca punct de întâlnire religios și social pentru cartier.",
-                  "category": "religious",
-                  "coords": [
-                        5.728539,
-                        58.951011
-                  ]
-            },
-            {
-                  "name": "Hillevåg kirke",
-                  "text": "Biserica Hillevåg este un loc sacru important și un punct de adunare în districtul Hillevåg.",
-                  "category": "religious",
-                  "coords": [
-                        5.740728,
-                        58.944147
-                  ]
-            },
-            {
                   "name": "Kampen kirke",
                   "text": "O biserică în districtul Kampen, care îmbogățește viața spirituală a locuitorilor din Stavanger.",
                   "category": "religious",
@@ -3106,57 +2449,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. Petri kirke",
-                  "text": "Biserica Sfântul Petru este un lăcaș de cult creștin din Stavanger, deschis pentru slujbe și activități comunitare.",
-                  "category": "religious",
-                  "coords": [
-                        5.736722,
-                        58.970556
-                  ]
-            },
-            {
                   "name": "Tjensvoll kirke",
                   "text": "O biserică parohială modernă din Stavanger, care impresionează prin arhitectura sa contemporană.",
                   "category": "religious",
                   "coords": [
                         5.702318,
                         58.950593
-                  ]
-            },
-            {
-                  "name": "Varden kirke",
-                  "text": "Biserica Varden servește populația locală din Stavanger ca loc pentru rugăciune și comunitate.",
-                  "category": "religious",
-                  "coords": [
-                        5.751109,
-                        58.95941
-                  ]
-            },
-            {
-                  "name": "St. Svithun katolske kirke",
-                  "text": "St. Svithun katolske kirke este singura biserică catolică din Stavanger, construită din cărămidă în secolul al XX-lea.",
-                  "category": "religious",
-                  "coords": [
-                        5.729751,
-                        58.965799
-                  ]
-            },
-            {
-                  "name": "Frue kirke",
-                  "text": "Biserica Frue este un edificiu sacru din Stavanger, cunoscut pentru atmosfera sa liniștită.",
-                  "category": "religious",
-                  "coords": [
-                        5.741133,
-                        58.968164
-                  ]
-            },
-            {
-                  "name": "Stavanger døvekirke",
-                  "text": "O biserică specializată din Stavanger, care oferă slujbe și asistență spirituală pentru comunitatea persoanelor cu deficiențe de auz.",
-                  "category": "religious",
-                  "coords": [
-                        5.738618,
-                        58.965601
                   ]
             },
             {
@@ -3175,15 +2473,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         5.693482,
                         58.981319
-                  ]
-            },
-            {
-                  "name": "Vassøyferjå",
-                  "text": "Podul orașului Stavanger este un pod hobanat remarcabil care conectează centrul orașului cu insula Hundvåg.",
-                  "category": "landmark",
-                  "coords": [
-                        5.74723,
-                        58.973992
                   ]
             }
       ],
@@ -3216,15 +2505,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rogaland Teater",
-                  "text": "Rogaland Teater is Norway's oldest theater building, dating from 1883 in Stavanger's old town.",
-                  "category": "cultural",
-                  "coords": [
-                        5.732826,
-                        58.965363
-                  ]
-            },
-            {
                   "name": "Stavanger Maritime Museum",
                   "text": "Stavanger Maritime Museum documents the city's long history as a major seafaring town.",
                   "category": "museum",
@@ -3240,15 +2520,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         5.703364,
                         58.954819
-                  ]
-            },
-            {
-                  "name": "The Museum of Archaeology",
-                  "text": "The Museum of Archaeology in Stavanger presents significant finds from the Rogaland region.",
-                  "category": "museum",
-                  "coords": [
-                        5.730116,
-                        58.963297
                   ]
             },
             {
@@ -3270,30 +2541,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reidar Berge-museet",
-                  "text": "Reidar Berge-museet showcases the work of the local artist and seaman in Stavanger.",
-                  "category": "museum",
-                  "coords": [
-                        5.738453,
-                        58.971181
-                  ]
-            },
-            {
                   "name": "Helleristninger i Rudlå",
                   "text": "The rock carvings in Rudlå are prehistoric artworks from the Bronze Age in Stavanger.",
                   "category": "historical",
                   "coords": [
                         5.719983,
                         58.971574
-                  ]
-            },
-            {
-                  "name": "Emmaus-stranden",
-                  "text": "Emmaus beach is a small, quiet swimming spot in the east of Stavanger.",
-                  "category": "recreational",
-                  "coords": [
-                        5.76584,
-                        58.958816
                   ]
             },
             {
@@ -3324,48 +2577,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Godalen",
-                  "text": "A popular swimming beach in Stavanger offering ideal conditions for seaside recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        5.75662,
-                        58.953972
-                  ]
-            },
-            {
-                  "name": "Rosenli-stranden",
-                  "text": "A quiet stretch of beach in Stavanger that invites visitors to relax and swim.",
-                  "category": "recreational",
-                  "coords": [
-                        5.767806,
-                        58.961461
-                  ]
-            },
-            {
                   "name": "Sølvberget Stavanger Library and Culture Center",
                   "text": "A major cultural center in Stavanger housing a library, cinema, and event spaces.",
                   "category": "cultural",
                   "coords": [
                         5.73335,
                         58.97143
-                  ]
-            },
-            {
-                  "name": "Vålandspibå",
-                  "text": "A viewpoint in Stavanger offering a wide view over the city and its surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        5.728597,
-                        58.957249
-                  ]
-            },
-            {
-                  "name": "Asbjørn Kloster",
-                  "text": "A monument honoring Asbjørn Kloster, the founder of the modern Norwegian temperance movement.",
-                  "category": "historical",
-                  "coords": [
-                        5.728271,
-                        58.964691
                   ]
             },
             {
@@ -3402,24 +2619,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         5.729727,
                         58.968843
-                  ]
-            },
-            {
-                  "name": "Rogaland kunstsenter",
-                  "text": "A contemporary art centre in Stavanger showcasing exhibitions and projects by local artists.",
-                  "category": "cultural",
-                  "coords": [
-                        5.739264,
-                        58.969951
-                  ]
-            },
-            {
-                  "name": "Admiral Cornelius Cruys",
-                  "text": "A monument to Cornelius Cruys, a Stavanger-born admiral who helped build the Russian Navy.",
-                  "category": "historical",
-                  "coords": [
-                        5.735628,
-                        58.971912
                   ]
             },
             {
@@ -3468,51 +2667,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musikkpaviljongen",
-                  "text": "A charming music pavilion in Stavanger's city park used for cultural performances.",
-                  "category": "landmark",
-                  "coords": [
-                        5.7343,
-                        58.968945
-                  ]
-            },
-            {
-                  "name": "Anna af Sand",
-                  "text": "Anna af Sand is a historic Hardanger jakt and one of Norway's oldest wooden ships still in use.",
-                  "category": "landmark",
-                  "coords": [
-                        5.7454,
-                        58.971956
-                  ]
-            },
-            {
-                  "name": "St. Johannes kirke",
-                  "text": "A prominent church in Stavanger known for its architecture and role in community life.",
-                  "category": "religious",
-                  "coords": [
-                        5.74919,
-                        58.96872
-                  ]
-            },
-            {
-                  "name": "Bekkefaret kirke",
-                  "text": "A modern church in Stavanger serving as a religious and social gathering place for the neighborhood.",
-                  "category": "religious",
-                  "coords": [
-                        5.728539,
-                        58.951011
-                  ]
-            },
-            {
-                  "name": "Hillevåg kirke",
-                  "text": "Hillevåg Church is an important sacred site and gathering point in the Hillevåg district.",
-                  "category": "religious",
-                  "coords": [
-                        5.740728,
-                        58.944147
-                  ]
-            },
-            {
                   "name": "Kampen kirke",
                   "text": "A church in the Kampen district that enriches the spiritual life of Stavanger residents.",
                   "category": "religious",
@@ -3522,57 +2676,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. Peter's Church",
-                  "text": "St. Peter's Church is a Christian place of worship in Stavanger open for services and community activities.",
-                  "category": "religious",
-                  "coords": [
-                        5.736722,
-                        58.970556
-                  ]
-            },
-            {
                   "name": "Tjensvoll kirke",
                   "text": "A modern community church in Stavanger that stands out with its contemporary architecture.",
                   "category": "religious",
                   "coords": [
                         5.702318,
                         58.950593
-                  ]
-            },
-            {
-                  "name": "Varden kirke",
-                  "text": "Varden Church serves the local population in Stavanger as a place for prayer and community.",
-                  "category": "religious",
-                  "coords": [
-                        5.751109,
-                        58.95941
-                  ]
-            },
-            {
-                  "name": "St. Svithun katolske kirke",
-                  "text": "St. Svithun katolske kirke is the only Catholic church in Stavanger, built of brick in the 20th century.",
-                  "category": "religious",
-                  "coords": [
-                        5.729751,
-                        58.965799
-                  ]
-            },
-            {
-                  "name": "Frue kirke",
-                  "text": "Frue Church is a sacred building in Stavanger known for its peaceful atmosphere.",
-                  "category": "religious",
-                  "coords": [
-                        5.741133,
-                        58.968164
-                  ]
-            },
-            {
-                  "name": "Stavanger døvekirke",
-                  "text": "A specialized church in Stavanger offering services and pastoral care for the deaf community.",
-                  "category": "religious",
-                  "coords": [
-                        5.738618,
-                        58.965601
                   ]
             },
             {
@@ -3591,15 +2700,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         5.693482,
                         58.981319
-                  ]
-            },
-            {
-                  "name": "Vassøyferjå",
-                  "text": "Stavanger City Bridge is a prominent cable-stayed bridge connecting the city center to the island of Hundvåg.",
-                  "category": "landmark",
-                  "coords": [
-                        5.74723,
-                        58.973992
                   ]
             }
       ]
@@ -4218,51 +3318,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skansen",
-                  "text": "Eine historische Festung und das älteste Gebäude in Tromsø aus dem Mittelalter.",
-                  "category": "castle",
-                  "coords": [
-                        18.964275,
-                        69.652909
-                  ]
-            },
-            {
-                  "name": "Prestvatn landskapsvernområde",
-                  "text": "Ein Landschaftsschutzgebiet in Tromsø rund um einen örtlichen See.",
-                  "category": "natural",
-                  "coords": [
-                        18.9363,
-                        69.658322
-                  ]
-            },
-            {
-                  "name": "Perspektivet museum",
-                  "text": "Ein Fotografiemuseum in Tromsø, das sich auf dokumentarische und soziale Themen konzentriert.",
-                  "category": "museum",
-                  "coords": [
-                        18.95925,
-                        69.652332
-                  ]
-            },
-            {
-                  "name": "Nordnorsk kunstmuseum",
-                  "text": "Ein Museum in Tromsø, das der Kunst und visuellen Kultur Nordnorwegens gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        18.959557,
-                        69.648326
-                  ]
-            },
-            {
-                  "name": "Polarmuseet",
-                  "text": "Ein Museum in Tromsø, das die Geschichte der Polarforschung und Jagd zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        18.963317,
-                        69.652207
-                  ]
-            },
-            {
                   "name": "Tromsø domkirke",
                   "text": "Die 1861 von Christian Heinrich Grosch erbaute Tromsø domkirke in Gamle Tromsø ist Norwegens einzige Holzkathedrale.",
                   "category": "landmark",
@@ -4272,39 +3327,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Eismeerkathedrale",
-                  "text": "Diese markante Kirche in Tromsø ist für ihre moderne Architektur und das große Glasmosaik bekannt.",
-                  "category": "landmark",
-                  "coords": [
-                        18.987492,
-                        69.648032
-                  ]
-            },
-            {
                   "name": "Elverhøy kirke",
                   "text": "Eine historische Holzkirche in Tromsø, die ursprünglich an einem anderen Ort stand.",
                   "category": "landmark",
                   "coords": [
                         18.921289,
                         69.648461
-                  ]
-            },
-            {
-                  "name": "Vår Frue kirke",
-                  "text": "Die nördlichste katholische Bischofskirche der Welt befindet sich im Zentrum von Tromsø.",
-                  "category": "landmark",
-                  "coords": [
-                        18.956892,
-                        69.651679
-                  ]
-            },
-            {
-                  "name": "Krane Galleri & Rammeverksted",
-                  "text": "Eine Kunstgalerie und Rahmenwerkstatt im Herzen der Altstadt von Tromsø.",
-                  "category": "museum",
-                  "coords": [
-                        18.956396,
-                        69.650322
                   ]
             },
             {
@@ -4323,15 +3351,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         18.953494,
                         69.647635
-                  ]
-            },
-            {
-                  "name": "Aurora Boralis Viewpoint",
-                  "text": "Ein beliebter Aussichtspunkt in Tromsø zur Beobachtung der Polarlichter.",
-                  "category": "natural",
-                  "coords": [
-                        18.935759,
-                        69.660594
                   ]
             },
             {
@@ -4359,33 +3378,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         18.93339,
                         69.640866
-                  ]
-            },
-            {
-                  "name": "Ropes Course",
-                  "text": "Ein Abenteuerpark mit Kletterparcours im Freien in der Nähe von Tromsø.",
-                  "category": "landmark",
-                  "coords": [
-                        18.929337,
-                        69.672592
-                  ]
-            },
-            {
-                  "name": "Tromsø-Brücke",
-                  "text": "Eine markante Auslegerbrücke, die das Stadtzentrum von Tromsø mit dem Festland verbindet.",
-                  "category": "landmark",
-                  "coords": [
-                        18.975232,
-                        69.651574
-                  ]
-            },
-            {
-                  "name": "Rødbrua",
-                  "text": "Eine lokale Brücke in Tromsø, die wichtige Verkehrsverbindungen ermöglicht.",
-                  "category": "landmark",
-                  "coords": [
-                        19.007103,
-                        69.649244
                   ]
             }
       ],
@@ -4436,51 +3428,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skansen",
-                  "text": "Történelmi erődítmény és Tromsø legrégebbi épülete, amely a középkorból származik.",
-                  "category": "castle",
-                  "coords": [
-                        18.964275,
-                        69.652909
-                  ]
-            },
-            {
-                  "name": "Prestvatn landskapsvernområde",
-                  "text": "Tájvédelmi terület Tromsøben egy helyi tó körül.",
-                  "category": "natural",
-                  "coords": [
-                        18.9363,
-                        69.658322
-                  ]
-            },
-            {
-                  "name": "Perspektivet museum",
-                  "text": "Fotómúzeum Tromsøben, amely dokumentarista és társadalmi témákra összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        18.95925,
-                        69.652332
-                  ]
-            },
-            {
-                  "name": "Nordnorsk kunstmuseum",
-                  "text": "Tromsø-i múzeum, amely Észak-Norvégia művészetének és vizuális kultúrájának szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        18.959557,
-                        69.648326
-                  ]
-            },
-            {
-                  "name": "Polarmuseet",
-                  "text": "Múzeum Tromsøben, amely a sarki felfedezések és a vadászat történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        18.963317,
-                        69.652207
-                  ]
-            },
-            {
                   "name": "Tromsø domkirke",
                   "text": "A Gamle Tromsø-i Tromsø-székesegyház 1861-ben épült Christian Heinrich Grosch tervei alapján, Norvégia egyetlen fakatedrálisa.",
                   "category": "landmark",
@@ -4490,39 +3437,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tromsdalen kirke",
-                  "text": "Ez a jellegzetes tromsøi templom modern építészetéről és nagy üvegmozaikjáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        18.987492,
-                        69.648032
-                  ]
-            },
-            {
                   "name": "Elverhøy kirke",
                   "text": "Történelmi fatemplom Tromsøben, amely eredetileg egy másik helyszínen állt.",
                   "category": "landmark",
                   "coords": [
                         18.921289,
                         69.648461
-                  ]
-            },
-            {
-                  "name": "Vår Frue kirke",
-                  "text": "A világ legészakibb katolikus püspöki temploma Tromsø központjában található.",
-                  "category": "landmark",
-                  "coords": [
-                        18.956892,
-                        69.651679
-                  ]
-            },
-            {
-                  "name": "Krane Galleri & Rammeverksted",
-                  "text": "Művészeti galéria és keretezőműhely Tromsø óvárosának szívében.",
-                  "category": "museum",
-                  "coords": [
-                        18.956396,
-                        69.650322
                   ]
             },
             {
@@ -4541,15 +3461,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         18.953494,
                         69.647635
-                  ]
-            },
-            {
-                  "name": "Aurora Boralis Viewpoint",
-                  "text": "Népszerű kilátópont Tromsøben az északi fény megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        18.935759,
-                        69.660594
                   ]
             },
             {
@@ -4577,33 +3488,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         18.93339,
                         69.640866
-                  ]
-            },
-            {
-                  "name": "Ropes Course",
-                  "text": "Kalandpark szabadtéri kötélpályákkal Tromsø közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        18.929337,
-                        69.672592
-                  ]
-            },
-            {
-                  "name": "Tromsøbrua",
-                  "text": "Jellegzetes konzolos híd, amely Tromsø városközpontját köti össze a szárazfölddel.",
-                  "category": "landmark",
-                  "coords": [
-                        18.975232,
-                        69.651574
-                  ]
-            },
-            {
-                  "name": "Rødbrua",
-                  "text": "Helyi híd Tromsøben, amely fontos közlekedési kapcsolatot biztosít.",
-                  "category": "landmark",
-                  "coords": [
-                        19.007103,
-                        69.649244
                   ]
             }
       ],
@@ -4654,51 +3538,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skansen",
-                  "text": "O fortăreață istorică și cea mai veche clădire din Tromsø, datând din perioada medievală.",
-                  "category": "castle",
-                  "coords": [
-                        18.964275,
-                        69.652909
-                  ]
-            },
-            {
-                  "name": "Prestvatn landskapsvernområde",
-                  "text": "O zonă de peisaj protejată în Tromsø, centrată în jurul unui lac local.",
-                  "category": "natural",
-                  "coords": [
-                        18.9363,
-                        69.658322
-                  ]
-            },
-            {
-                  "name": "Perspektivet museum",
-                  "text": "Un muzeu de fotografie din Tromsø axat pe teme documentare și sociale.",
-                  "category": "museum",
-                  "coords": [
-                        18.95925,
-                        69.652332
-                  ]
-            },
-            {
-                  "name": "Nordnorsk kunstmuseum",
-                  "text": "Un muzeu în Tromsø dedicat artei și culturii vizuale din Norvegia de Nord.",
-                  "category": "museum",
-                  "coords": [
-                        18.959557,
-                        69.648326
-                  ]
-            },
-            {
-                  "name": "Polarmuseet",
-                  "text": "Un muzeu din Tromsø care prezintă istoria explorării polare și a vânătorii.",
-                  "category": "museum",
-                  "coords": [
-                        18.963317,
-                        69.652207
-                  ]
-            },
-            {
                   "name": "Tromsø domkirke",
                   "text": "Catedrala Tromsø din Gamle Tromsø, construită în 1861 de Christian Heinrich Grosch, este singura catedrală de lemn din Norvegia.",
                   "category": "landmark",
@@ -4708,39 +3547,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tromsdalen kirke",
-                  "text": "Această biserică emblematică din Tromsø este cunoscută pentru arhitectura sa modernă și mozaicul mare de sticlă.",
-                  "category": "landmark",
-                  "coords": [
-                        18.987492,
-                        69.648032
-                  ]
-            },
-            {
                   "name": "Elverhøy kirke",
                   "text": "O biserică istorică de lemn din Tromsø, care a stat inițial într-o altă locație.",
                   "category": "landmark",
                   "coords": [
                         18.921289,
                         69.648461
-                  ]
-            },
-            {
-                  "name": "Vår Frue kirke",
-                  "text": "Cea mai nordică biserică episcopală catolică din lume se află în centrul orașului Tromsø.",
-                  "category": "landmark",
-                  "coords": [
-                        18.956892,
-                        69.651679
-                  ]
-            },
-            {
-                  "name": "Krane Galleri & Rammeverksted",
-                  "text": "O galerie de artă și atelier de înrămare în inima orașului vechi din Tromsø.",
-                  "category": "museum",
-                  "coords": [
-                        18.956396,
-                        69.650322
                   ]
             },
             {
@@ -4759,15 +3571,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         18.953494,
                         69.647635
-                  ]
-            },
-            {
-                  "name": "Aurora Boralis Viewpoint",
-                  "text": "Un punct de observație popular din Tromsø pentru vizionarea aurorei boreale.",
-                  "category": "natural",
-                  "coords": [
-                        18.935759,
-                        69.660594
                   ]
             },
             {
@@ -4795,33 +3598,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         18.93339,
                         69.640866
-                  ]
-            },
-            {
-                  "name": "Ropes Course",
-                  "text": "Un parc de aventură cu trasee de cățărare în aer liber lângă Tromsø.",
-                  "category": "landmark",
-                  "coords": [
-                        18.929337,
-                        69.672592
-                  ]
-            },
-            {
-                  "name": "Tromsøbrua",
-                  "text": "Un pod în consolă emblematic care leagă centrul orașului Tromsø de continent.",
-                  "category": "landmark",
-                  "coords": [
-                        18.975232,
-                        69.651574
-                  ]
-            },
-            {
-                  "name": "Rødbrua",
-                  "text": "Un pod local din Tromsø care asigură legături importante de transport.",
-                  "category": "landmark",
-                  "coords": [
-                        19.007103,
-                        69.649244
                   ]
             }
       ],
@@ -4872,51 +3648,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skansen",
-                  "text": "A historic fortress and the oldest building in Tromsø, dating to medieval times.",
-                  "category": "castle",
-                  "coords": [
-                        18.964275,
-                        69.652909
-                  ]
-            },
-            {
-                  "name": "Prestvatn landskapsvernområde",
-                  "text": "A protected landscape area in Tromsø centered around a local lake.",
-                  "category": "natural",
-                  "coords": [
-                        18.9363,
-                        69.658322
-                  ]
-            },
-            {
-                  "name": "Perspektivet museum",
-                  "text": "A photography museum in Tromsø focused on documentary and social themes.",
-                  "category": "museum",
-                  "coords": [
-                        18.95925,
-                        69.652332
-                  ]
-            },
-            {
-                  "name": "Nordnorsk kunstmuseum",
-                  "text": "A museum in Tromsø dedicated to the art and visual culture of Northern Norway.",
-                  "category": "museum",
-                  "coords": [
-                        18.959557,
-                        69.648326
-                  ]
-            },
-            {
-                  "name": "Polarmuseet",
-                  "text": "A museum in Tromsø showcasing history of polar exploration and hunting.",
-                  "category": "museum",
-                  "coords": [
-                        18.963317,
-                        69.652207
-                  ]
-            },
-            {
                   "name": "Tromsø domkirke",
                   "text": "Tromsø Cathedral in Gamle Tromsø, built in 1861 by Christian Heinrich Grosch, is Norway's only wooden cathedral.",
                   "category": "landmark",
@@ -4926,39 +3657,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arctic Cathedral",
-                  "text": "This landmark church in Tromsø is famous for its modern architecture and large glass mosaic.",
-                  "category": "landmark",
-                  "coords": [
-                        18.987492,
-                        69.648032
-                  ]
-            },
-            {
                   "name": "Elverhøy Parish Church",
                   "text": "A historic wooden church in Tromsø that originally stood at a different location.",
                   "category": "landmark",
                   "coords": [
                         18.921289,
                         69.648461
-                  ]
-            },
-            {
-                  "name": "Vår Frue kirke",
-                  "text": "The world's northernmost Catholic episcopal church is located in the center of Tromsø.",
-                  "category": "landmark",
-                  "coords": [
-                        18.956892,
-                        69.651679
-                  ]
-            },
-            {
-                  "name": "Krane Galleri & Rammeverksted",
-                  "text": "An art gallery and framing workshop in the heart of Tromsø's old town.",
-                  "category": "museum",
-                  "coords": [
-                        18.956396,
-                        69.650322
                   ]
             },
             {
@@ -4977,15 +3681,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         18.953494,
                         69.647635
-                  ]
-            },
-            {
-                  "name": "Aurora Boralis Viewpoint",
-                  "text": "A popular viewpoint in Tromsø for observing the Northern Lights.",
-                  "category": "natural",
-                  "coords": [
-                        18.935759,
-                        69.660594
                   ]
             },
             {
@@ -5013,33 +3708,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         18.93339,
                         69.640866
-                  ]
-            },
-            {
-                  "name": "Ropes Course",
-                  "text": "An adventure park featuring outdoor climbing courses near Tromsø.",
-                  "category": "landmark",
-                  "coords": [
-                        18.929337,
-                        69.672592
-                  ]
-            },
-            {
-                  "name": "Tromsøbrua",
-                  "text": "An iconic cantilever bridge connecting Tromsø city center with the mainland.",
-                  "category": "landmark",
-                  "coords": [
-                        18.975232,
-                        69.651574
-                  ]
-            },
-            {
-                  "name": "Rødbrua",
-                  "text": "A local bridge in Tromsø providing important transport connections.",
-                  "category": "landmark",
-                  "coords": [
-                        19.007103,
-                        69.649244
                   ]
             }
       ]
@@ -5190,15 +3858,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parken kulturhus",
-                  "text": "Ein vielseitiger Kulturort in Ålesund, an dem Konzerte und Theatervorstellungen stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        6.160383,
-                        62.472929
-                  ]
-            },
-            {
                   "name": "Parrvika",
                   "text": "Ein lokaler Strandabschnitt, der Erholung und Küstenblick in Ålesund bietet.",
                   "category": "recreational",
@@ -5214,15 +3873,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         6.106968,
                         62.468179
-                  ]
-            },
-            {
-                  "name": "Molja fyr",
-                  "text": "Ein historischer Leuchtturm an der Hafeneinfahrt, der heute als einzigartiges Hotelzimmer dient.",
-                  "category": "landmark",
-                  "coords": [
-                        6.150124,
-                        62.474535
                   ]
             },
             {
@@ -5259,15 +3909,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         6.166366,
                         62.474979
-                  ]
-            },
-            {
-                  "name": "Studio Hugo Opdal",
-                  "text": "Eine Kunstgalerie mit Werken zeitgenössischer norwegischer und internationaler Künstler.",
-                  "category": "museum",
-                  "coords": [
-                        6.156892,
-                        62.473571
                   ]
             },
             {
@@ -5399,15 +4040,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parken kulturhus",
-                  "text": "Sokoldalú kulturális helyszín Ålesundban, amely koncerteknek és színházi előadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        6.160383,
-                        62.472929
-                  ]
-            },
-            {
                   "name": "Parrvika",
                   "text": "Helyi strandterület, amely kikapcsolódást és tengerparti kilátást kínál Ålesundban.",
                   "category": "recreational",
@@ -5423,15 +4055,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         6.106968,
                         62.468179
-                  ]
-            },
-            {
-                  "name": "Molja fyr",
-                  "text": "Történelmi világítótorony a kikötő bejáratánál, amely ma különleges szállodai szobaként működik.",
-                  "category": "landmark",
-                  "coords": [
-                        6.150124,
-                        62.474535
                   ]
             },
             {
@@ -5468,15 +4091,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         6.166366,
                         62.474979
-                  ]
-            },
-            {
-                  "name": "Studio Hugo Opdal",
-                  "text": "Kortárs norvég és nemzetközi művészek alkotásait bemutató művészeti galéria.",
-                  "category": "museum",
-                  "coords": [
-                        6.156892,
-                        62.473571
                   ]
             },
             {
@@ -5608,15 +4222,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parken kulturhus",
-                  "text": "Un loc cultural versatil din Ålesund care găzduiește concerte și spectacole de teatru.",
-                  "category": "cultural",
-                  "coords": [
-                        6.160383,
-                        62.472929
-                  ]
-            },
-            {
                   "name": "Parrvika",
                   "text": "O zonă de plajă locală care oferă recreere și vederi de coastă în Ålesund.",
                   "category": "recreational",
@@ -5632,15 +4237,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         6.106968,
                         62.468179
-                  ]
-            },
-            {
-                  "name": "Molja fyr",
-                  "text": "Un far istoric la intrarea în port, funcționând acum ca o cameră de hotel unică.",
-                  "category": "landmark",
-                  "coords": [
-                        6.150124,
-                        62.474535
                   ]
             },
             {
@@ -5677,15 +4273,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         6.166366,
                         62.474979
-                  ]
-            },
-            {
-                  "name": "Studio Hugo Opdal",
-                  "text": "O galerie de artă care prezintă lucrări ale artiștilor contemporani norvegieni și internaționali.",
-                  "category": "museum",
-                  "coords": [
-                        6.156892,
-                        62.473571
                   ]
             },
             {
@@ -5817,15 +4404,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parken kulturhus",
-                  "text": "A versatile cultural venue in Ålesund hosting concerts and theatrical shows.",
-                  "category": "cultural",
-                  "coords": [
-                        6.160383,
-                        62.472929
-                  ]
-            },
-            {
                   "name": "Parrvika",
                   "text": "A local beach area providing recreation and coastal views in Ålesund.",
                   "category": "recreational",
@@ -5841,15 +4419,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         6.106968,
                         62.468179
-                  ]
-            },
-            {
-                  "name": "Molja fyr",
-                  "text": "A historic lighthouse at the harbor entrance, now functioning as a unique hotel room.",
-                  "category": "landmark",
-                  "coords": [
-                        6.150124,
-                        62.474535
                   ]
             },
             {
@@ -5886,15 +4455,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         6.166366,
                         62.474979
-                  ]
-            },
-            {
-                  "name": "Studio Hugo Opdal",
-                  "text": "An art gallery featuring works by contemporary Norwegian and international artists.",
-                  "category": "museum",
-                  "coords": [
-                        6.156892,
-                        62.473571
                   ]
             },
             {
@@ -6342,42 +4902,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Naturmuseum og botanisk hage Universitetet i Agder",
-                  "text": "Ein Naturkundemuseum mit einem botanischen Garten, der die Vielfalt der regionalen Flora zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        8.003637,
-                        58.158973
-                  ]
-            },
-            {
-                  "name": "Bystranda",
-                  "text": "Bystranda ist ein beliebter Sandstrand im Stadtzentrum von Kristiansand mit der Blauen Flagge.",
-                  "category": "recreational",
-                  "coords": [
-                        8.007349,
-                        58.146
-                  ]
-            },
-            {
-                  "name": "Christiansholm festning",
-                  "text": "Eine im 17. Jahrhundert errichtete Festung zum Schutz von Kristiansand, die heute für kulturelle Veranstaltungen genutzt wird.",
-                  "category": "fortress",
-                  "coords": [
-                        8.003574,
-                        58.144124
-                  ]
-            },
-            {
-                  "name": "Kristiansand museum",
-                  "text": "Ein Freilichtmuseum in Kristiansand, das historische Gebäude und die Kulturgeschichte der Region Südnorwegen zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        8.030896,
-                        58.161562
-                  ]
-            },
-            {
                   "name": "Kristiansand kommuneskog dyrelivsfredning",
                   "text": "Ein geschütztes Waldgebiet bei Kristiansand, das der Erhaltung der lokalen Tierwelt dient.",
                   "category": "natural",
@@ -6414,33 +4938,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kuholmen batteri",
-                  "text": "Eine historische Verteidigungsanlage in Kristiansand, die ehemals Teil der Küstenbefestigung war.",
-                  "category": "fortress",
-                  "coords": [
-                        8.016425,
-                        58.143234
-                  ]
-            },
-            {
-                  "name": "Galgebergtangen",
-                  "text": "Ein Strandbereich in Kristiansand, der Besuchern einen einfachen Zugang zum Meer und Platz für Erholung bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        8.019051,
-                        58.144195
-                  ]
-            },
-            {
-                  "name": "Rosegården teaterhus",
-                  "text": "Ein kleines Theaterhaus in Kristiansand, das als Plattform für lokale Theatergruppen und Projekte dient.",
-                  "category": "cultural",
-                  "coords": [
-                        8.030154,
-                        58.149243
-                  ]
-            },
-            {
                   "name": "Odderøya Museumshavn",
                   "text": "Ein Museumshafen auf der Insel Odderøya, der die maritime Geschichte und Bootstraditionen der Region zeigt.",
                   "category": "museum",
@@ -6468,30 +4965,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wergelandsparken",
-                  "text": "Ein Park im Zentrum von Kristiansand, benannt nach dem norwegischen Dichter Henrik Wergeland.",
-                  "category": "park",
-                  "coords": [
-                        7.995605,
-                        58.146701
-                  ]
-            },
-            {
                   "name": "Otterdalsparken",
                   "text": "Eine Parkanlage am Hafen von Kristiansand, die für ihre markanten Brunnen und Skulpturen bekannt ist.",
                   "category": "park",
                   "coords": [
                         7.999851,
                         58.143023
-                  ]
-            },
-            {
-                  "name": "Stener Heyerdahls park",
-                  "text": "Der Stener Heyerdahls Park ist eine kleine Grünanlage mit einer Statue von Stener Heyerdahl im historischen Viertel von Kristiansand.",
-                  "category": "park",
-                  "coords": [
-                        7.992577,
-                        58.149113
                   ]
             },
             {
@@ -6510,15 +4989,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         7.992187,
                         58.144641
-                  ]
-            },
-            {
-                  "name": "Posebyen",
-                  "text": "Das historische Viertel mit traditionellen Holzhäusern in Kristiansand.",
-                  "category": "landmark",
-                  "coords": [
-                        7.998165,
-                        58.148983
                   ]
             },
             {
@@ -6594,39 +5064,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kristiansand rådhus",
-                  "text": "Historisches Rathaus am Hauptplatz der Altstadt von Kristiansand.",
-                  "category": "historical",
-                  "coords": [
-                        7.997024,
-                        58.146731
-                  ]
-            },
-            {
                   "name": "Grim kirke",
                   "text": "Die 1969 von Alv Erikstad erbaute Grim kirke in Kristiansand Altstadt ist eine moderne Betonkirche.",
                   "category": "religious",
                   "coords": [
                         7.97241,
                         58.148019
-                  ]
-            },
-            {
-                  "name": "Oddernes kirke",
-                  "text": "Die Oddernes kirke in Kristiansand, erbaut um 1100, ist eine der ältesten Steinkirchen Norwegens.",
-                  "category": "religious",
-                  "coords": [
-                        8.013573,
-                        58.159708
-                  ]
-            },
-            {
-                  "name": "Lund kirke",
-                  "text": "Die 1987 erbaute Lund-Kirche in der Altstadt von Kristiansand, Architekten J. Landsverk und Nordbø.",
-                  "category": "religious",
-                  "coords": [
-                        8.012024,
-                        58.152571
                   ]
             }
       ],
@@ -6638,42 +5081,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         8.002248,
                         58.131441
-                  ]
-            },
-            {
-                  "name": "Naturmuseum og botanisk hage Universitetet i Agder",
-                  "text": "Természettudományi múzeum botanikus kerttel, amely a regionális flóra sokszínűségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        8.003637,
-                        58.158973
-                  ]
-            },
-            {
-                  "name": "Bystranda",
-                  "text": "A Bystranda egy népszerű homokos strand Kristiansand városközpontjában, Kék Zászló minősítéssel.",
-                  "category": "recreational",
-                  "coords": [
-                        8.007349,
-                        58.146
-                  ]
-            },
-            {
-                  "name": "Christiansholm festning",
-                  "text": "A 17. században épült erőd Kristiansand védelmére, amelyet ma kulturális rendezvényekre használnak.",
-                  "category": "fortress",
-                  "coords": [
-                        8.003574,
-                        58.144124
-                  ]
-            },
-            {
-                  "name": "Kristiansand museum",
-                  "text": "Szabadtéri múzeum Kristiansandban, amely Dél-Norvégia történelmi épületeit és kultúrtörténetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        8.030896,
-                        58.161562
                   ]
             },
             {
@@ -6713,33 +5120,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kuholmen batteri",
-                  "text": "Történelmi védelmi létesítmény Kristiansandban, amely korábban a parti erődítmény része volt.",
-                  "category": "fortress",
-                  "coords": [
-                        8.016425,
-                        58.143234
-                  ]
-            },
-            {
-                  "name": "Galgebergtangen",
-                  "text": "Strandterület Kristiansandban, amely könnyű kijutást biztosít a tengerhez és helyet kínál a pihenéshez.",
-                  "category": "recreational",
-                  "coords": [
-                        8.019051,
-                        58.144195
-                  ]
-            },
-            {
-                  "name": "Rosegården teaterhus",
-                  "text": "Kisméretű színház Kristiansandban, amely helyi színtársulatok és projektek platformjaként szolgál.",
-                  "category": "cultural",
-                  "coords": [
-                        8.030154,
-                        58.149243
-                  ]
-            },
-            {
                   "name": "Odderøya Museumshavn",
                   "text": "Múzeumi kikötő Odderøya szigetén, amely a régió tengerészeti történelmét és hajózási hagyományait mutatja be.",
                   "category": "museum",
@@ -6767,30 +5147,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wergelandsparken",
-                  "text": "Kristiansand központjában található park, amelyet Henrik Wergeland norvég költőről neveztek el.",
-                  "category": "park",
-                  "coords": [
-                        7.995605,
-                        58.146701
-                  ]
-            },
-            {
                   "name": "Otterdalsparken",
                   "text": "Kristiansand kikötőjénél található park, amely jellegzetes szökőkútjairól és szobrairól ismert.",
                   "category": "park",
                   "coords": [
                         7.999851,
                         58.143023
-                  ]
-            },
-            {
-                  "name": "Stener Heyerdahls park",
-                  "text": "A Stener Heyerdahls park egy kis zöldterület Stener Heyerdahl szobrával Kristiansand történelmi negyedében.",
-                  "category": "park",
-                  "coords": [
-                        7.992577,
-                        58.149113
                   ]
             },
             {
@@ -6809,15 +5171,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         7.992187,
                         58.144641
-                  ]
-            },
-            {
-                  "name": "Posebyen",
-                  "text": "Kristiansand történelmi negyede hagyományos faházakkal.",
-                  "category": "landmark",
-                  "coords": [
-                        7.998165,
-                        58.148983
                   ]
             },
             {
@@ -6893,39 +5246,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kristiansand rådhus",
-                  "text": "Történelmi városháza Kristiansand óvárosának főterén.",
-                  "category": "historical",
-                  "coords": [
-                        7.997024,
-                        58.146731
-                  ]
-            },
-            {
                   "name": "Grim kirke",
                   "text": "A Kristiansand óvárosi Grim-templom 1969-ben épült Alv Erikstad tervei alapján, modern betontemplom.",
                   "category": "religious",
                   "coords": [
                         7.97241,
                         58.148019
-                  ]
-            },
-            {
-                  "name": "Oddernes kirke",
-                  "text": "A Kristiansand-i Oddernes templom 1100 körül épült, Norvégia egyik legrégebbi kőtemploma.",
-                  "category": "religious",
-                  "coords": [
-                        8.013573,
-                        58.159708
-                  ]
-            },
-            {
-                  "name": "Lund kirke",
-                  "text": "A kristiansandi óvárosi Lund templom, 1987-ben épült, J. Landsverk és Nordbø tervezte.",
-                  "category": "religious",
-                  "coords": [
-                        8.012024,
-                        58.152571
                   ]
             }
       ],
@@ -6937,42 +5263,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         8.002248,
                         58.131441
-                  ]
-            },
-            {
-                  "name": "Naturmuseum og botanisk hage Universitetet i Agder",
-                  "text": "Un muzeu de istorie naturală cu o grădină botanică ce prezintă diversitatea florei regionale.",
-                  "category": "museum",
-                  "coords": [
-                        8.003637,
-                        58.158973
-                  ]
-            },
-            {
-                  "name": "Bystranda",
-                  "text": "Bystranda este o plajă de nisip populară în centrul orașului Kristiansand, certificată cu Steagul Albastru.",
-                  "category": "recreational",
-                  "coords": [
-                        8.007349,
-                        58.146
-                  ]
-            },
-            {
-                  "name": "Christiansholm festning",
-                  "text": "O fortăreață construită în secolul al XVII-lea pentru protecția orașului Kristiansand, utilizată astăzi pentru evenimente culturale.",
-                  "category": "fortress",
-                  "coords": [
-                        8.003574,
-                        58.144124
-                  ]
-            },
-            {
-                  "name": "Kristiansand museum",
-                  "text": "Un muzeu în aer liber din Kristiansand, care prezintă clădiri istorice și istoria culturală a regiunii Norvegiei de Sud.",
-                  "category": "museum",
-                  "coords": [
-                        8.030896,
-                        58.161562
                   ]
             },
             {
@@ -7012,33 +5302,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kuholmen batteri",
-                  "text": "O fortificație istorică în Kristiansand, care anterior a făcut parte din sistemul de apărare de coastă.",
-                  "category": "fortress",
-                  "coords": [
-                        8.016425,
-                        58.143234
-                  ]
-            },
-            {
-                  "name": "Galgebergtangen",
-                  "text": "O zonă de plajă în Kristiansand, oferind vizitatorilor acces ușor la mare și spațiu pentru recreere.",
-                  "category": "recreational",
-                  "coords": [
-                        8.019051,
-                        58.144195
-                  ]
-            },
-            {
-                  "name": "Rosegården teaterhus",
-                  "text": "O casă de teatru mică în Kristiansand, care servește ca platformă pentru trupe de teatru și proiecte locale.",
-                  "category": "cultural",
-                  "coords": [
-                        8.030154,
-                        58.149243
-                  ]
-            },
-            {
                   "name": "Odderøya Museumshavn",
                   "text": "Un port muzeu pe insula Odderøya, care prezintă istoria maritimă și tradițiile navale ale regiunii.",
                   "category": "museum",
@@ -7066,30 +5329,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wergelandsparken",
-                  "text": "Un parc în centrul orașului Kristiansand, numit după poetul norvegian Henrik Wergeland.",
-                  "category": "park",
-                  "coords": [
-                        7.995605,
-                        58.146701
-                  ]
-            },
-            {
                   "name": "Otterdalsparken",
                   "text": "Un parc lângă portul Kristiansand, cunoscut pentru fântânile și sculpturile sale remarcabile.",
                   "category": "park",
                   "coords": [
                         7.999851,
                         58.143023
-                  ]
-            },
-            {
-                  "name": "Stener Heyerdahls park",
-                  "text": "Parcul Stener Heyerdahls este un spațiu verde mic cu o statuie a lui Stener Heyerdahl în cartierul istoric al Kristiansandului.",
-                  "category": "park",
-                  "coords": [
-                        7.992577,
-                        58.149113
                   ]
             },
             {
@@ -7108,15 +5353,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         7.992187,
                         58.144641
-                  ]
-            },
-            {
-                  "name": "Posebyen",
-                  "text": "Cartierul istoric din Kristiansand, cunoscut pentru casele sale tradiționale din lemn.",
-                  "category": "landmark",
-                  "coords": [
-                        7.998165,
-                        58.148983
                   ]
             },
             {
@@ -7192,39 +5428,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kristiansand rådhus",
-                  "text": "Primărie istorică în piața principală a orașului vechi Kristiansand.",
-                  "category": "historical",
-                  "coords": [
-                        7.997024,
-                        58.146731
-                  ]
-            },
-            {
                   "name": "Grim kirke",
                   "text": "Biserica Grim din centrul vechi al Kristiansandului, construită în 1969 de Alv Erikstad, este o biserică modernă din beton.",
                   "category": "religious",
                   "coords": [
                         7.97241,
                         58.148019
-                  ]
-            },
-            {
-                  "name": "Oddernes kirke",
-                  "text": "Biserica Oddernes kirke din Kristiansand, construită în jurul anului 1100, este una dintre cele mai vechi biserici de piatră din Norvegia.",
-                  "category": "religious",
-                  "coords": [
-                        8.013573,
-                        58.159708
-                  ]
-            },
-            {
-                  "name": "Lund kirke",
-                  "text": "Biserica Lund din Cartierul Vechi al Kristiansandului, construită în 1987, proiectată de J. Landsverk și Nordbø.",
-                  "category": "religious",
-                  "coords": [
-                        8.012024,
-                        58.152571
                   ]
             }
       ],
@@ -7236,42 +5445,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         8.002248,
                         58.131441
-                  ]
-            },
-            {
-                  "name": "Naturmuseum og botanisk hage Universitetet i Agder",
-                  "text": "A natural history museum with a botanical garden showcasing the diversity of regional flora.",
-                  "category": "museum",
-                  "coords": [
-                        8.003637,
-                        58.158973
-                  ]
-            },
-            {
-                  "name": "Bystranda",
-                  "text": "Bystranda is a popular sandy beach in Kristiansand city center, holding Blue Flag certification.",
-                  "category": "recreational",
-                  "coords": [
-                        8.007349,
-                        58.146
-                  ]
-            },
-            {
-                  "name": "Christiansholm festning",
-                  "text": "A 17th-century fortress built to protect Kristiansand, now used for cultural events.",
-                  "category": "fortress",
-                  "coords": [
-                        8.003574,
-                        58.144124
-                  ]
-            },
-            {
-                  "name": "Kristiansand museum",
-                  "text": "An open-air museum in Kristiansand showcasing historic buildings and the cultural history of Southern Norway.",
-                  "category": "museum",
-                  "coords": [
-                        8.030896,
-                        58.161562
                   ]
             },
             {
@@ -7311,33 +5484,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kuholmen batteri",
-                  "text": "A historic defense site in Kristiansand that was formerly part of the coastal fortifications.",
-                  "category": "fortress",
-                  "coords": [
-                        8.016425,
-                        58.143234
-                  ]
-            },
-            {
-                  "name": "Galgebergtangen",
-                  "text": "A beach area in Kristiansand offering visitors easy access to the sea and space for recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        8.019051,
-                        58.144195
-                  ]
-            },
-            {
-                  "name": "Rosegården teaterhus",
-                  "text": "A small theatre house in Kristiansand serving as a platform for local theatre groups and projects.",
-                  "category": "cultural",
-                  "coords": [
-                        8.030154,
-                        58.149243
-                  ]
-            },
-            {
                   "name": "Odderøya Museumshavn",
                   "text": "A museum harbor on Odderøya island showcasing the region's maritime history and boating traditions.",
                   "category": "museum",
@@ -7365,30 +5511,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wergelandsparken",
-                  "text": "A park in the center of Kristiansand named after the Norwegian poet Henrik Wergeland.",
-                  "category": "park",
-                  "coords": [
-                        7.995605,
-                        58.146701
-                  ]
-            },
-            {
                   "name": "Otterdalsparken",
                   "text": "A park by Kristiansand's harbor known for its distinctive fountains and sculptures.",
                   "category": "park",
                   "coords": [
                         7.999851,
                         58.143023
-                  ]
-            },
-            {
-                  "name": "Stener Heyerdahls park",
-                  "text": "Stener Heyerdahls park is a small park with a statue of Stener Heyerdahl in Kristiansand's historic quarter.",
-                  "category": "park",
-                  "coords": [
-                        7.992577,
-                        58.149113
                   ]
             },
             {
@@ -7407,15 +5535,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         7.992187,
                         58.144641
-                  ]
-            },
-            {
-                  "name": "Posebyen",
-                  "text": "The historic district of Kristiansand, known for its traditional wooden houses.",
-                  "category": "landmark",
-                  "coords": [
-                        7.998165,
-                        58.148983
                   ]
             },
             {
@@ -7491,39 +5610,12 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kristiansand rådhus",
-                  "text": "Historic town hall on the main square of Kristiansand's old town.",
-                  "category": "historical",
-                  "coords": [
-                        7.997024,
-                        58.146731
-                  ]
-            },
-            {
                   "name": "Grim kirke",
                   "text": "Grim Church in Kristiansand Old Town, built in 1969 by Alv Erikstad, is a modern concrete church.",
                   "category": "religious",
                   "coords": [
                         7.97241,
                         58.148019
-                  ]
-            },
-            {
-                  "name": "Oddernes kirke",
-                  "text": "Oddernes Church in Kristiansand, built around 1100, is one of Norway's oldest stone churches.",
-                  "category": "religious",
-                  "coords": [
-                        8.013573,
-                        58.159708
-                  ]
-            },
-            {
-                  "name": "Lund kirke",
-                  "text": "Lund Church in Kristiansand Old Town, built in 1987, designed by J. Landsverk and Nordbø.",
-                  "category": "religious",
-                  "coords": [
-                        8.012024,
-                        58.152571
                   ]
             }
       ]
@@ -7746,24 +5838,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grimetjørn",
-                  "text": "Der historische Teich Grimetjørn in der Altstadt von Flekkefjord.",
-                  "category": "historical",
-                  "coords": [
-                        6.640362,
-                        58.292051
-                  ]
-            },
-            {
-                  "name": "Jettegryte",
-                  "text": "Ein faszinierendes geologisches Phänomen einer Gletschermühle bei Flekkefjord.",
-                  "category": "landmark",
-                  "coords": [
-                        6.678895,
-                        58.290142
-                  ]
-            },
-            {
                   "name": "Flekkfjordbanen",
                   "text": "Eine stillgelegte Eisenbahnstrecke, die heute für touristische Draisinenfahrten genutzt wird.",
                   "category": "landmark",
@@ -7817,24 +5891,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         6.653755,
                         58.301441
-                  ]
-            },
-            {
-                  "name": "Grimetjørn",
-                  "text": "A történelmi tó Grimetjørn Flekkefjord óvárosában.",
-                  "category": "historical",
-                  "coords": [
-                        6.640362,
-                        58.292051
-                  ]
-            },
-            {
-                  "name": "Jettegryte",
-                  "text": "Lenyűgöző geológiai jelenség, egy gleccsermalom Flekkefjord közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        6.678895,
-                        58.290142
                   ]
             },
             {
@@ -7894,24 +5950,6 @@ export const norwayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grimetjørn",
-                  "text": "Lacul istoric Grimetjørn în orașul vechi Flekkefjord.",
-                  "category": "historical",
-                  "coords": [
-                        6.640362,
-                        58.292051
-                  ]
-            },
-            {
-                  "name": "Jettegryte",
-                  "text": "Un fenomen geologic fascinant, o marmită de gigant lângă Flekkefjord.",
-                  "category": "landmark",
-                  "coords": [
-                        6.678895,
-                        58.290142
-                  ]
-            },
-            {
                   "name": "Flekkfjordbanen",
                   "text": "O cale ferată dezafectată, folosită astăzi pentru plimbări turistice cu drezina.",
                   "category": "landmark",
@@ -7965,24 +6003,6 @@ export const norwayHistoryV2: POI[] = [
                   "coords": [
                         6.653755,
                         58.301441
-                  ]
-            },
-            {
-                  "name": "Grimetjørn",
-                  "text": "Grimetjørn historic pond in Flekkefjord old town.",
-                  "category": "historical",
-                  "coords": [
-                        6.640362,
-                        58.292051
-                  ]
-            },
-            {
-                  "name": "Jettegryte",
-                  "text": "A fascinating geological phenomenon of a giant's kettle near Flekkefjord.",
-                  "category": "landmark",
-                  "coords": [
-                        6.678895,
-                        58.290142
                   ]
             },
             {

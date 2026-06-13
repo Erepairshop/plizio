@@ -4253,30 +4253,12 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro de la Confraternidad Ferroviaria",
-                  "text": "Theater der Eisenbahner – ehemaliges Vereinshaus der Eisenbahner-Gemeinschaft.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.134553,
-                        -37.314299
-                  ]
-            },
-            {
                   "name": "Museo Vehiculos de Epoca",
                   "text": "Oldtimermuseum – Sammlung historischer Fahrzeuge aus den 1920er bis 1970er Jahren.",
                   "category": "museum",
                   "coords": [
                         -59.129194,
                         -37.331036
-                  ]
-            },
-            {
-                  "name": "Casa de la Historia y la Cultura del Bicentenario",
-                  "text": "Haus der Geschichte und Kultur des Bicentenario – Kulturzentrum im ehemaligen Rathaus.",
-                  "category": "museum",
-                  "coords": [
-                        -59.107239,
-                        -37.306591
                   ]
             },
             {
@@ -4343,39 +4325,12 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Avión Mirage",
-                  "text": "Ausgemusterter Mirage-Kampfjet auf einem Sockel im Stadtpark.",
-                  "category": "historical",
-                  "coords": [
-                        -59.158349,
-                        -37.311608
-                  ]
-            },
-            {
                   "name": "Monumento a la Madre",
                   "text": "Mutter-Denkmal – Bronzestatue einer Mutter mit Kind im Kreisverkehr.",
                   "category": "historical",
                   "coords": [
                         -59.132067,
                         -37.336701
-                  ]
-            },
-            {
-                  "name": "Denominación de Origen Tandil",
-                  "text": "Schild der geschützten Herkunftsbezeichnung „Tandil“ am Stadteingang.",
-                  "category": "historical",
-                  "coords": [
-                        -59.116732,
-                        -37.313648
-                  ]
-            },
-            {
-                  "name": "Monumento Santiago Selvetti",
-                  "text": "Büste von Santiago Selvetti, einem lokalen Politiker, im Park.",
-                  "category": "historical",
-                  "coords": [
-                        -59.144988,
-                        -37.313194
                   ]
             },
             {
@@ -4394,15 +4349,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -59.127921,
                         -37.326525
-                  ]
-            },
-            {
-                  "name": "Monumento al Gaucho",
-                  "text": "Gaucho-Denkmal – Reiterstatue eines traditionellen argentinischen Cowboys.",
-                  "category": "historical",
-                  "coords": [
-                        -59.118561,
-                        -37.315264
                   ]
             },
             {
@@ -4430,15 +4376,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -59.113433,
                         -37.335422
-                  ]
-            },
-            {
-                  "name": "Incubadora de Arte",
-                  "text": "Kunstinkubator – Atelierräume und Workshops für aufstrebende Künstler.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.135934,
-                        -37.310579
                   ]
             },
             {
@@ -4534,30 +4471,12 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro de la Confraternidad Ferroviaria",
-                  "text": "Vasutas Színház – a vasutas közösség egykori egyesületi háza.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.134553,
-                        -37.314299
-                  ]
-            },
-            {
                   "name": "Museo Vehiculos de Epoca",
                   "text": "Veteránjármű Múzeum – 1920-as és 1970-es évek közötti történelmi járművek gyűjteménye.",
                   "category": "museum",
                   "coords": [
                         -59.129194,
                         -37.331036
-                  ]
-            },
-            {
-                  "name": "Casa de la Historia y la Cultura del Bicentenario",
-                  "text": "A Bicentenario Története és Kulturája Háza – az egykori városházán működő kulturális központ.",
-                  "category": "museum",
-                  "coords": [
-                        -59.107239,
-                        -37.306591
                   ]
             },
             {
@@ -4624,39 +4543,12 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Avión Mirage",
-                  "text": "Leszerelt Mirage vadászgép talapzaton a városi parkban.",
-                  "category": "historical",
-                  "coords": [
-                        -59.158349,
-                        -37.311608
-                  ]
-            },
-            {
                   "name": "Monumento a la Madre",
                   "text": "Anyaság emlékmű – gyermekét tartó anya bronzszobra a körforgalomban.",
                   "category": "historical",
                   "coords": [
                         -59.132067,
                         -37.336701
-                  ]
-            },
-            {
-                  "name": "Denominación de Origen Tandil",
-                  "text": "„Tandil” védett eredetmegjelölés táblája a város bejáratánál.",
-                  "category": "historical",
-                  "coords": [
-                        -59.116732,
-                        -37.313648
-                  ]
-            },
-            {
-                  "name": "Monumento Santiago Selvetti",
-                  "text": "Santiago Selvetti helyi politikus mellszobra a parkban.",
-                  "category": "historical",
-                  "coords": [
-                        -59.144988,
-                        -37.313194
                   ]
             },
             {
@@ -4675,15 +4567,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -59.127921,
                         -37.326525
-                  ]
-            },
-            {
-                  "name": "Monumento al Gaucho",
-                  "text": "Gaucho emlékmű – hagyományos argentin cowboy lovas szobra.",
-                  "category": "historical",
-                  "coords": [
-                        -59.118561,
-                        -37.315264
                   ]
             },
             {
@@ -4711,15 +4594,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -59.113433,
                         -37.335422
-                  ]
-            },
-            {
-                  "name": "Incubadora de Arte",
-                  "text": "Művészeti inkubátor – műhelyek és stúdiók feltörekvő művészek számára.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.135934,
-                        -37.310579
                   ]
             },
             {
@@ -4815,30 +4689,12 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro de la Confraternidad Ferroviaria",
-                  "text": "Teatrul Frăției Feroviare – fosta casă a asociației feroviarilor.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.134553,
-                        -37.314299
-                  ]
-            },
-            {
                   "name": "Museo Vehiculos de Epoca",
                   "text": "Muzeul Vehiculelor de Epocă – colecție de vehicule istorice din anii 1920–1970.",
                   "category": "museum",
                   "coords": [
                         -59.129194,
                         -37.331036
-                  ]
-            },
-            {
-                  "name": "Casa de la Historia y la Cultura del Bicentenario",
-                  "text": "Casa Istoriei și Culturii Bicentenarului – centru cultural în fosta primărie.",
-                  "category": "museum",
-                  "coords": [
-                        -59.107239,
-                        -37.306591
                   ]
             },
             {
@@ -4905,39 +4761,12 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Avión Mirage",
-                  "text": "Avion Mirage retras din serviciu, pe un soclu în parcul orașului.",
-                  "category": "historical",
-                  "coords": [
-                        -59.158349,
-                        -37.311608
-                  ]
-            },
-            {
                   "name": "Monumento a la Madre",
                   "text": "Monumentul Mamei – statuie de bronz a unei mame cu copil în sensul giratoriu.",
                   "category": "historical",
                   "coords": [
                         -59.132067,
                         -37.336701
-                  ]
-            },
-            {
-                  "name": "Denominación de Origen Tandil",
-                  "text": "Indicator al denumirii de origine protejate „Tandil” la intrarea în oraș.",
-                  "category": "historical",
-                  "coords": [
-                        -59.116732,
-                        -37.313648
-                  ]
-            },
-            {
-                  "name": "Monumento Santiago Selvetti",
-                  "text": "Bustul lui Santiago Selvetti, politician local, în parc.",
-                  "category": "historical",
-                  "coords": [
-                        -59.144988,
-                        -37.313194
                   ]
             },
             {
@@ -4956,15 +4785,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -59.127921,
                         -37.326525
-                  ]
-            },
-            {
-                  "name": "Monumento al Gaucho",
-                  "text": "Monumentul Gaucho – statuie ecvestră a unui cowboy argentinian tradițional.",
-                  "category": "historical",
-                  "coords": [
-                        -59.118561,
-                        -37.315264
                   ]
             },
             {
@@ -4992,15 +4812,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -59.113433,
                         -37.335422
-                  ]
-            },
-            {
-                  "name": "Incubadora de Arte",
-                  "text": "Incubator de Artă – ateliere și spații de lucru pentru artiști emergenți.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.135934,
-                        -37.310579
                   ]
             },
             {
@@ -5096,30 +4907,12 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro de la Confraternidad Ferroviaria",
-                  "text": "Theater of the Railway Brotherhood – former clubhouse of the railway workers' community.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.134553,
-                        -37.314299
-                  ]
-            },
-            {
                   "name": "Museo Vehiculos de Epoca",
                   "text": "Museum of Vintage Vehicles – collection of historic vehicles from the 1920s to 1970s.",
                   "category": "museum",
                   "coords": [
                         -59.129194,
                         -37.331036
-                  ]
-            },
-            {
-                  "name": "Casa de la Historia y la Cultura del Bicentenario",
-                  "text": "House of History and Culture of the Bicentennial – cultural center in the former town hall.",
-                  "category": "museum",
-                  "coords": [
-                        -59.107239,
-                        -37.306591
                   ]
             },
             {
@@ -5186,39 +4979,12 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Avión Mirage",
-                  "text": "Retired Mirage fighter jet on a pedestal in the city park.",
-                  "category": "historical",
-                  "coords": [
-                        -59.158349,
-                        -37.311608
-                  ]
-            },
-            {
                   "name": "Monumento a la Madre",
                   "text": "Mother Monument – bronze statue of a mother with child in a roundabout.",
                   "category": "historical",
                   "coords": [
                         -59.132067,
                         -37.336701
-                  ]
-            },
-            {
-                  "name": "Denominación de Origen Tandil",
-                  "text": "Sign of the protected designation of origin 'Tandil' at the city entrance.",
-                  "category": "historical",
-                  "coords": [
-                        -59.116732,
-                        -37.313648
-                  ]
-            },
-            {
-                  "name": "Monumento Santiago Selvetti",
-                  "text": "Bust of Santiago Selvetti, a local politician, in the park.",
-                  "category": "historical",
-                  "coords": [
-                        -59.144988,
-                        -37.313194
                   ]
             },
             {
@@ -5237,15 +5003,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -59.127921,
                         -37.326525
-                  ]
-            },
-            {
-                  "name": "Monumento al Gaucho",
-                  "text": "Gaucho Monument – equestrian statue of a traditional Argentine cowboy.",
-                  "category": "historical",
-                  "coords": [
-                        -59.118561,
-                        -37.315264
                   ]
             },
             {
@@ -5273,15 +5030,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -59.113433,
                         -37.335422
-                  ]
-            },
-            {
-                  "name": "Incubadora de Arte",
-                  "text": "Art Incubator – studio spaces and workshops for emerging artists.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.135934,
-                        -37.310579
                   ]
             },
             {
@@ -7714,24 +7462,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Malvinas",
-                  "text": "Malvinas-Museum – Gedenkstätte für die Gefallenen des Falklandkriegs mit Fotografien und Uniformen.",
-                  "category": "museum",
-                  "coords": [
-                        -60.199777,
-                        -33.349639
-                  ]
-            },
-            {
-                  "name": "El Arenal",
-                  "text": "El Arenal ist ein Strand in der Stadt San Nicolás de los Arroyos.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.189,
-                        -33.320721
-                  ]
-            },
-            {
                   "name": "Casa Barco \"Irupé\"",
                   "text": "Casa Barco \"Irupé\" ist eine lokale Sehenswürdigkeit in San Nicolás de los Arroyos.",
                   "category": "landmark",
@@ -7794,24 +7524,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -60.208749,
                         -33.330309
-                  ]
-            },
-            {
-                  "name": "Museo de Malvinas",
-                  "text": "Malvinas Múzeum – emlékhely a Falklandi háború elesettjeinek fényképekkel és egyenruhákkal.",
-                  "category": "museum",
-                  "coords": [
-                        -60.199777,
-                        -33.349639
-                  ]
-            },
-            {
-                  "name": "El Arenal",
-                  "text": "Az El Arenal egy strand San Nicolás de los Arroyos városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.189,
-                        -33.320721
                   ]
             },
             {
@@ -7880,24 +7592,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Malvinas",
-                  "text": "Muzeul Malvinelor – memorial pentru căzuții războiului din Falkland, cu fotografii și uniforme.",
-                  "category": "museum",
-                  "coords": [
-                        -60.199777,
-                        -33.349639
-                  ]
-            },
-            {
-                  "name": "El Arenal",
-                  "text": "El Arenal este o plajă din San Nicolás de los Arroyos.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.189,
-                        -33.320721
-                  ]
-            },
-            {
                   "name": "Casa Barco \"Irupé\"",
                   "text": "Casa Barco \"Irupé\" este o atracție turistică în San Nicolás de los Arroyos.",
                   "category": "landmark",
@@ -7960,24 +7654,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -60.208749,
                         -33.330309
-                  ]
-            },
-            {
-                  "name": "Museo de Malvinas",
-                  "text": "Malvinas Museum – memorial for Falklands War fallen, with photographs and uniforms.",
-                  "category": "museum",
-                  "coords": [
-                        -60.199777,
-                        -33.349639
-                  ]
-            },
-            {
-                  "name": "El Arenal",
-                  "text": "El Arenal is a beach in the city of San Nicolás de los Arroyos.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.189,
-                        -33.320721
                   ]
             },
             {
@@ -11611,15 +11287,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "CEPTur Centro de Exposición y Promoción Turística",
-                  "text": "CEPTur – Tourismusinformationszentrum mit interaktiver Karte der Region Comodoro Rivadavia.",
-                  "category": "museum",
-                  "coords": [
-                        -67.477254,
-                        -45.863439
-                  ]
-            },
-            {
                   "name": "Chenque",
                   "text": "Der Chenque ist ein markanter Hügel, der die Stadt Comodoro Rivadavia überblickt.",
                   "category": "natural",
@@ -11656,24 +11323,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cartel de Comodoro",
-                  "text": "Großes Schild „Comodoro“ am Stadtrand – beliebtes Fotomotiv mit Blick auf den Golf.",
-                  "category": "landmark",
-                  "coords": [
-                        -67.473305,
-                        -45.860704
-                  ]
-            },
-            {
-                  "name": "Km 3",
-                  "text": "Km 3 ist ein Badeort in der Nähe von Comodoro Rivadavia.",
-                  "category": "recreational",
-                  "coords": [
-                        -67.468994,
-                        -45.844545
-                  ]
-            },
-            {
                   "name": "Catedral de Comodoro Rivadavia",
                   "text": "Die Catedral de Comodoro Rivadavia ist die Hauptkirche der Stadt und San Juan Bosco gewidmet.",
                   "category": "religious",
@@ -11700,15 +11349,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -67.490363,
                         -45.862288
-                  ]
-            },
-            {
-                  "name": "CEPTur Centro de Exposición y Promoción Turística",
-                  "text": "CEPTur – turisztikai információközpont interaktív térképpel Comodoro Rivadavia régiójáról.",
-                  "category": "museum",
-                  "coords": [
-                        -67.477254,
-                        -45.863439
                   ]
             },
             {
@@ -11748,24 +11388,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cartel de Comodoro",
-                  "text": "Hatalmas „Comodoro” felirat a város szélén – népszerű fotóhelyszín az öbölre néző kilátással.",
-                  "category": "landmark",
-                  "coords": [
-                        -67.473305,
-                        -45.860704
-                  ]
-            },
-            {
-                  "name": "Km 3",
-                  "text": "A Km 3 egy üdülőhely Comodoro Rivadavia közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -67.468994,
-                        -45.844545
-                  ]
-            },
-            {
                   "name": "Catedral de Comodoro Rivadavia",
                   "text": "A Catedral de Comodoro Rivadavia a város főtemploma, amelyet Bosco Szent Jánosnak szenteltek.",
                   "category": "religious",
@@ -11792,15 +11414,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -67.490363,
                         -45.862288
-                  ]
-            },
-            {
-                  "name": "CEPTur Centro de Exposición y Promoción Turística",
-                  "text": "CEPTur – centru de informare turistică cu hartă interactivă a regiunii Comodoro Rivadavia.",
-                  "category": "museum",
-                  "coords": [
-                        -67.477254,
-                        -45.863439
                   ]
             },
             {
@@ -11840,24 +11453,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cartel de Comodoro",
-                  "text": "Indicator uriaș „Comodoro” la marginea orașului – loc popular de fotografiat cu vedere spre golf.",
-                  "category": "landmark",
-                  "coords": [
-                        -67.473305,
-                        -45.860704
-                  ]
-            },
-            {
-                  "name": "Km 3",
-                  "text": "Km 3 este o stațiune balneară lângă Comodoro Rivadavia.",
-                  "category": "recreational",
-                  "coords": [
-                        -67.468994,
-                        -45.844545
-                  ]
-            },
-            {
                   "name": "Catedral de Comodoro Rivadavia",
                   "text": "Catedral de Comodoro Rivadavia este biserica principală a orașului, dedicată lui Sfântul Ioan Bosco.",
                   "category": "religious",
@@ -11884,15 +11479,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -67.490363,
                         -45.862288
-                  ]
-            },
-            {
-                  "name": "CEPTur Centro de Exposición y Promoción Turística",
-                  "text": "CEPTur – tourism information center with an interactive map of Comodoro Rivadavia region.",
-                  "category": "museum",
-                  "coords": [
-                        -67.477254,
-                        -45.863439
                   ]
             },
             {
@@ -11929,24 +11515,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -67.486462,
                         -45.862323
-                  ]
-            },
-            {
-                  "name": "Cartel de Comodoro",
-                  "text": "Large 'Comodoro' sign at the city edge – popular photo spot with views of the Gulf.",
-                  "category": "landmark",
-                  "coords": [
-                        -67.473305,
-                        -45.860704
-                  ]
-            },
-            {
-                  "name": "Km 3",
-                  "text": "Km 3 is a beach resort located near Comodoro Rivadavia.",
-                  "category": "recreational",
-                  "coords": [
-                        -67.468994,
-                        -45.844545
                   ]
             },
             {
@@ -12434,15 +12002,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro La Rosada",
-                  "text": "Das Teatro La Rosada ist ein lokales Theater in der Stadt Puerto Madryn.",
-                  "category": "cultural",
-                  "coords": [
-                        -65.038253,
-                        -42.761227
-                  ]
-            },
-            {
                   "name": "Cine Teatro Auditorium",
                   "text": "Kino- und Theatergebäude an der Uferpromenade von Puerto Madryn.",
                   "category": "cultural",
@@ -12458,15 +12017,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -65.04076,
                         -42.765886
-                  ]
-            },
-            {
-                  "name": "Museo Provincial de Ciencias Naturales y Oceanográfico",
-                  "text": "Provinzmuseum für Naturwissenschaften und Ozeanographie mit Blick auf den Atlantik.",
-                  "category": "museum",
-                  "coords": [
-                        -65.03978,
-                        -42.762179
                   ]
             },
             {
@@ -12490,15 +12040,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro La Rosada",
-                  "text": "A Teatro La Rosada egy helyi színház Puerto Madryn városában.",
-                  "category": "cultural",
-                  "coords": [
-                        -65.038253,
-                        -42.761227
-                  ]
-            },
-            {
                   "name": "Cine Teatro Auditorium",
                   "text": "Mozi- és színházépület a Puerto Madryn-i tengerparti sétányon.",
                   "category": "cultural",
@@ -12514,15 +12055,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -65.04076,
                         -42.765886
-                  ]
-            },
-            {
-                  "name": "Museo Provincial de Ciencias Naturales y Oceanográfico",
-                  "text": "Természettudományi és oceanográfiai tartományi múzeum az Atlanti-óceánra néző kilátással.",
-                  "category": "museum",
-                  "coords": [
-                        -65.03978,
-                        -42.762179
                   ]
             },
             {
@@ -12546,15 +12078,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro La Rosada",
-                  "text": "Teatro La Rosada este un teatru local situat în orașul Puerto Madryn.",
-                  "category": "cultural",
-                  "coords": [
-                        -65.038253,
-                        -42.761227
-                  ]
-            },
-            {
                   "name": "Cine Teatro Auditorium",
                   "text": "Cinematograf și teatru pe faleza din Puerto Madryn.",
                   "category": "cultural",
@@ -12570,15 +12093,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -65.04076,
                         -42.765886
-                  ]
-            },
-            {
-                  "name": "Museo Provincial de Ciencias Naturales y Oceanográfico",
-                  "text": "Muzeul provincial de științe naturale și oceanografie cu vedere la Atlantic.",
-                  "category": "museum",
-                  "coords": [
-                        -65.03978,
-                        -42.762179
                   ]
             },
             {
@@ -12602,15 +12116,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro La Rosada",
-                  "text": "Teatro La Rosada is a local theatre located in the city of Puerto Madryn.",
-                  "category": "cultural",
-                  "coords": [
-                        -65.038253,
-                        -42.761227
-                  ]
-            },
-            {
                   "name": "Cine Teatro Auditorium",
                   "text": "Cinema and theatre venue on the waterfront in Puerto Madryn.",
                   "category": "cultural",
@@ -12626,15 +12131,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -65.04076,
                         -42.765886
-                  ]
-            },
-            {
-                  "name": "Museo Provincial de Ciencias Naturales y Oceanográfico",
-                  "text": "Provincial museum of natural sciences and oceanography overlooking the Atlantic coast.",
-                  "category": "museum",
-                  "coords": [
-                        -65.03978,
-                        -42.762179
                   ]
             },
             {
@@ -29912,33 +29408,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Veterinaria Doctor Eduardo Murthag",
-                  "text": "Dieses Fachmuseum bewahrt historische veterinärmedizinische Instrumente und Dokumente, die die Entwicklung der Tierheilkunde in der Region detailliert darstellen.",
-                  "category": "museum",
-                  "coords": [
-                        -68.848243,
-                        -32.917968
-                  ]
-            },
-            {
-                  "name": "Museo Farmacéutico",
-                  "text": "Besucher können in diesem Pharmaziemuseum antike Apothekergefäße, Waagen und traditionelle Medizinzubereitungen besichtigen.",
-                  "category": "museum",
-                  "coords": [
-                        -68.845611,
-                        -32.924402
-                  ]
-            },
-            {
-                  "name": "Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas",
-                  "text": "Dieses historische Museum konzentriert sich auf die frühe Kolonialverwaltung und zeigt Artefakte aus der Zeit der spanischen Gründungsbehörden der Region.",
-                  "category": "museum",
-                  "coords": [
-                        -68.845112,
-                        -32.925986
-                  ]
-            },
-            {
                   "name": "Sala de Arte Patrimonial",
                   "text": "Dieser kuratierte Galerieraum widmet sich der Erhaltung und Ausstellung klassischer Kunstwerke aus der städtischen Sammlung Mendozas.",
                   "category": "museum",
@@ -29999,15 +29468,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -68.74148,
                         -32.919419
-                  ]
-            },
-            {
-                  "name": "Virgen De La Medalla Milagrosa",
-                  "text": "Ein friedlicher Außenschrein mit einer Statue der Jungfrau Maria, der einen ruhigen Ort für die lokale katholische Andacht bietet.",
-                  "category": "historical",
-                  "coords": [
-                        -68.840782,
-                        -32.938426
                   ]
             },
             {
@@ -30247,33 +29707,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Veterinaria Doctor Eduardo Murthag",
-                  "text": "Ez a szakmúzeum történelmi állatorvosi eszközöket és dokumentumokat őriz, amelyek a régió állatgyógyászatának fejlődését részletezik.",
-                  "category": "museum",
-                  "coords": [
-                        -68.848243,
-                        -32.917968
-                  ]
-            },
-            {
-                  "name": "Museo Farmacéutico",
-                  "text": "A látogatók antik patikaedényeket, mérlegeket és hagyományos gyógyszerkészítményeket tekinthetnek meg ebben a gyógyszerészeti múzeumban.",
-                  "category": "museum",
-                  "coords": [
-                        -68.845611,
-                        -32.924402
-                  ]
-            },
-            {
-                  "name": "Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas",
-                  "text": "A korai gyarmati közigazgatásra összpontosító történelmi múzeum a régiót alapító spanyol hatóságok idejéből származó tárgyakat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -68.845112,
-                        -32.925986
-                  ]
-            },
-            {
                   "name": "Sala de Arte Patrimonial",
                   "text": "Ezt a kuratált galériateret a mendozai városi gyűjtemény klasszikus örökséget képező művészeti alkotásainak megőrzésére és kiállítására szentelték.",
                   "category": "museum",
@@ -30334,15 +29767,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -68.74148,
                         -32.919419
-                  ]
-            },
-            {
-                  "name": "Virgen De La Medalla Milagrosa",
-                  "text": "Ez a békés szabadtéri szentély egy Szűz Mária-szoborral rendelkezik, és csendes helyet kínál a helyi katolikus áhítathoz.",
-                  "category": "historical",
-                  "coords": [
-                        -68.840782,
-                        -32.938426
                   ]
             },
             {
@@ -30582,33 +30006,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Veterinaria Doctor Eduardo Murthag",
-                  "text": "Acest muzeu specializat păstrează instrumente veterinare istorice și documente care detaliază evoluția îngrijirii animalelor în regiune.",
-                  "category": "museum",
-                  "coords": [
-                        -68.848243,
-                        -32.917968
-                  ]
-            },
-            {
-                  "name": "Museo Farmacéutico",
-                  "text": "Vizitatorii pot explora borcane antice de farmacie, cântare și preparate medicamentoase tradiționale în acest muzeu farmaceutic.",
-                  "category": "museum",
-                  "coords": [
-                        -68.845611,
-                        -32.924402
-                  ]
-            },
-            {
-                  "name": "Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas",
-                  "text": "Axat pe administrația colonială timpurie, acest muzeu istoric expune artefacte din perioada autorităților fondatoare spaniole ale regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        -68.845112,
-                        -32.925986
-                  ]
-            },
-            {
                   "name": "Sala de Arte Patrimonial",
                   "text": "Acest spațiu curatorial este dedicat conservării și expunerii operelor de artă clasice din colecția municipală a orașului.",
                   "category": "museum",
@@ -30669,15 +30066,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -68.74148,
                         -32.919419
-                  ]
-            },
-            {
-                  "name": "Virgen De La Medalla Milagrosa",
-                  "text": "Un altar în aer liber liniștit, cu o statuie a Fecioarei Maria, oferind un loc tăcut pentru devoțiunea catolică locală.",
-                  "category": "historical",
-                  "coords": [
-                        -68.840782,
-                        -32.938426
                   ]
             },
             {
@@ -30917,33 +30305,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Veterinaria Doctor Eduardo Murthag",
-                  "text": "This specialized museum preserves historical veterinary instruments and documents detailing the evolution of animal care in the region.",
-                  "category": "museum",
-                  "coords": [
-                        -68.848243,
-                        -32.917968
-                  ]
-            },
-            {
-                  "name": "Museo Farmacéutico",
-                  "text": "Visitors can explore antique apothecaries' jars, scales, and traditional medicine preparations in this pharmaceutical museum.",
-                  "category": "museum",
-                  "coords": [
-                        -68.845611,
-                        -32.924402
-                  ]
-            },
-            {
-                  "name": "Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas",
-                  "text": "Focusing on early colonial administration, this historical museum displays artifacts related to the region's founding Spanish authorities.",
-                  "category": "museum",
-                  "coords": [
-                        -68.845112,
-                        -32.925986
-                  ]
-            },
-            {
                   "name": "Sala de Arte Patrimonial",
                   "text": "This curated gallery space is dedicated to preserving and exhibiting classical heritage artworks from the city's municipal collection.",
                   "category": "museum",
@@ -31004,15 +30365,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -68.74148,
                         -32.919419
-                  ]
-            },
-            {
-                  "name": "Virgen De La Medalla Milagrosa",
-                  "text": "A serene outdoor shrine featuring a statue of the Virgin Mary, offering a quiet place for local Catholic devotion.",
-                  "category": "historical",
-                  "coords": [
-                        -68.840782,
-                        -32.938426
                   ]
             },
             {
@@ -31329,15 +30681,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
     id: "ar-m-godoy-cruz-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Memorial de la Bandera de Los Andes",
-                  "text": "Memorial de la Bandera de Los Andes, ein Museum zur Geschichte der Andenflagge in Godoy Cruz.",
-                  "category": "museum",
-                  "coords": [
-                        -68.846339,
-                        -32.897898
-                  ]
-            },
-            {
                   "name": "Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas",
                   "text": "Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas, ein Museum im ehemaligen Wohnhaus des Kapitäns mit Kolonialmöbeln.",
                   "category": "museum",
@@ -31401,15 +30744,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pinacoteca Sanmartiniana \"Fidel Roig Matóns\"",
-                  "text": "Pinacoteca Sanmartiniana 'Fidel Roig Matóns', eine Kunstgalerie mit Werken zu General San Martín in Godoy Cruz.",
-                  "category": "museum",
-                  "coords": [
-                        -68.843064,
-                        -32.898412
-                  ]
-            },
-            {
                   "name": "Teatro Selectro",
                   "text": "Das Selectro Theater ist ein Veranstaltungsort in Godoy Cruz.",
                   "category": "cultural",
@@ -31447,15 +30781,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Memorial de la Bandera de Los Andes",
-                  "text": "Memorial de la Bandera de Los Andes, egy múzeum az Andok zászlójának történetéről Godoy Cruzban.",
-                  "category": "museum",
-                  "coords": [
-                        -68.846339,
-                        -32.897898
-                  ]
-            },
             {
                   "name": "Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas",
                   "text": "Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas, a kapitány egykori lakóházában kialakított múzeum gyarmati bútorokkal.",
@@ -31520,15 +30845,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pinacoteca Sanmartiniana \"Fidel Roig Matóns\"",
-                  "text": "Pinacoteca Sanmartiniana 'Fidel Roig Matóns', egy művészeti galéria San Martín tábornok életével kapcsolatos alkotásokkal Godoy Cruzban.",
-                  "category": "museum",
-                  "coords": [
-                        -68.843064,
-                        -32.898412
-                  ]
-            },
-            {
                   "name": "Teatro Selectro",
                   "text": "A Selectro Theater egy előadó-művészeti helyszín Godoy Cruzban.",
                   "category": "cultural",
@@ -31566,15 +30882,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Memorial de la Bandera de Los Andes",
-                  "text": "Memorial de la Bandera de Los Andes, un muzeu dedicat istoriei drapelului Anzilor în Godoy Cruz.",
-                  "category": "museum",
-                  "coords": [
-                        -68.846339,
-                        -32.897898
-                  ]
-            },
             {
                   "name": "Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas",
                   "text": "Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas, un muzeu în fosta casă a căpitanului, cu mobilier colonial.",
@@ -31639,15 +30946,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pinacoteca Sanmartiniana \"Fidel Roig Matóns\"",
-                  "text": "Pinacoteca Sanmartiniana 'Fidel Roig Matóns', o galerie de artă cu lucrări despre generalul San Martín în Godoy Cruz.",
-                  "category": "museum",
-                  "coords": [
-                        -68.843064,
-                        -32.898412
-                  ]
-            },
-            {
                   "name": "Teatro Selectro",
                   "text": "Selectro Theater este un teatru situat în Godoy Cruz.",
                   "category": "cultural",
@@ -31685,15 +30983,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Memorial de la Bandera de Los Andes",
-                  "text": "Memorial de la Bandera de Los Andes, a museum on the history of the Flag of the Andes in Godoy Cruz.",
-                  "category": "museum",
-                  "coords": [
-                        -68.846339,
-                        -32.897898
-                  ]
-            },
             {
                   "name": "Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas",
                   "text": "Museo Alguacil Mayor Capitán Don Gaspar Miguel Ruiz de Rojas, a museum in the captain's former house with colonial furniture.",
@@ -31755,15 +31044,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -68.858382,
                         -32.902024
-                  ]
-            },
-            {
-                  "name": "Pinacoteca Sanmartiniana \"Fidel Roig Matóns\"",
-                  "text": "Pinacoteca Sanmartiniana 'Fidel Roig Matóns', an art gallery with works on General San Martín in Godoy Cruz.",
-                  "category": "museum",
-                  "coords": [
-                        -68.843064,
-                        -32.898412
                   ]
             },
             {
@@ -35592,15 +34872,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Provincial Carlos Ameghino",
-                  "text": "Das Provinzmuseum Carlos Ameghino beherbergt regionale paläontologische und naturkundliche Sammlungen.",
-                  "category": "museum",
-                  "coords": [
-                        -67.995388,
-                        -38.91871
-                  ]
-            },
-            {
                   "name": "Delegación Municipal Centro",
                   "text": "Das zentrale Rathausgebäude dient als lokales Verwaltungszentrum für Neuquén.",
                   "category": "historical",
@@ -35670,15 +34941,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -68.012689,
                         -38.942964
-                  ]
-            },
-            {
-                  "name": "Museo Ferroviario de Cipolletti",
-                  "text": "Das Eisenbahnmuseum von Cipolletti in der Nähe von Neuquén stellt die lokale Geschichte des Zugverkehrs aus.",
-                  "category": "museum",
-                  "coords": [
-                        -67.996456,
-                        -38.941799
                   ]
             },
             {
@@ -35842,24 +35104,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                         -68.061022,
                         -38.948042
                   ]
-            },
-            {
-                  "name": "La Caja Mágica",
-                  "text": "Ein unabhängiges Theater für darstellende Kunst, das vielfältige Theaterstücke und Schauspiel-Workshops für die Gemeinde anbietet.",
-                  "category": "cultural",
-                  "coords": [
-                        -68.007207,
-                        -38.932683
-                  ]
-            },
-            {
-                  "name": "Arcos Romanos",
-                  "text": "Ein Freilicht-Amphitheater mit markanten Bögen im römischen Stil, das für öffentliche Aufführungen und Konzerte genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        -68.001805,
-                        -38.934005
-                  ]
             }
       ],
       "hu": [
@@ -35888,15 +35132,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -68.053552,
                         -38.956554
-                  ]
-            },
-            {
-                  "name": "Museo Provincial Carlos Ameghino",
-                  "text": "A Carlos Ameghino Tartományi Múzeum regionális őslénytani és természettudományi gyűjteményeknek ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        -67.995388,
-                        -38.91871
                   ]
             },
             {
@@ -35969,15 +35204,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -68.012689,
                         -38.942964
-                  ]
-            },
-            {
-                  "name": "Museo Ferroviario de Cipolletti",
-                  "text": "A Neuquénhez közeli cipolletti vasúti múzeum a vonatközlekedés helyi történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -67.996456,
-                        -38.941799
                   ]
             },
             {
@@ -36141,24 +35367,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                         -68.061022,
                         -38.948042
                   ]
-            },
-            {
-                  "name": "La Caja Mágica",
-                  "text": "Független előadó-művészeti színház, amely változatos színdarabokat és színészműhelyeket kínál a közösség számára.",
-                  "category": "cultural",
-                  "coords": [
-                        -68.007207,
-                        -38.932683
-                  ]
-            },
-            {
-                  "name": "Arcos Romanos",
-                  "text": "Különleges római stílusú boltívekkel rendelkező szabadtéri amfiteátrum, amelyet nyilvános előadásokhoz és koncertekhez használnak.",
-                  "category": "cultural",
-                  "coords": [
-                        -68.001805,
-                        -38.934005
-                  ]
             }
       ],
       "ro": [
@@ -36187,15 +35395,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -68.053552,
                         -38.956554
-                  ]
-            },
-            {
-                  "name": "Museo Provincial Carlos Ameghino",
-                  "text": "Muzeul Provincial Carlos Ameghino găzduiește colecții regionale de paleontologie și istorie naturală.",
-                  "category": "museum",
-                  "coords": [
-                        -67.995388,
-                        -38.91871
                   ]
             },
             {
@@ -36268,15 +35467,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -68.012689,
                         -38.942964
-                  ]
-            },
-            {
-                  "name": "Museo Ferroviario de Cipolletti",
-                  "text": "Muzeul Feroviar din Cipolletti, lângă Neuquén, expune istoria locală a transportului cu trenul.",
-                  "category": "museum",
-                  "coords": [
-                        -67.996456,
-                        -38.941799
                   ]
             },
             {
@@ -36440,24 +35630,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                         -68.061022,
                         -38.948042
                   ]
-            },
-            {
-                  "name": "La Caja Mágica",
-                  "text": "Un teatru independent de arte ale spectacolului care prezintă diverse piese și ateliere de actorie pentru comunitate.",
-                  "category": "cultural",
-                  "coords": [
-                        -68.007207,
-                        -38.932683
-                  ]
-            },
-            {
-                  "name": "Arcos Romanos",
-                  "text": "Un amfiteatru în aer liber, cu arcade distincte în stil roman, folosit pentru spectacole publice și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        -68.001805,
-                        -38.934005
-                  ]
             }
       ],
       "en": [
@@ -36486,15 +35658,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -68.053552,
                         -38.956554
-                  ]
-            },
-            {
-                  "name": "Museo Provincial Carlos Ameghino",
-                  "text": "The Carlos Ameghino Provincial Museum houses regional paleontological and natural history collections.",
-                  "category": "museum",
-                  "coords": [
-                        -67.995388,
-                        -38.91871
                   ]
             },
             {
@@ -36567,15 +35730,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -68.012689,
                         -38.942964
-                  ]
-            },
-            {
-                  "name": "Museo Ferroviario de Cipolletti",
-                  "text": "The Cipolletti Railway Museum near Neuquén exhibits the local history of train transport.",
-                  "category": "museum",
-                  "coords": [
-                        -67.996456,
-                        -38.941799
                   ]
             },
             {
@@ -36738,24 +35892,6 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
                   "coords": [
                         -68.061022,
                         -38.948042
-                  ]
-            },
-            {
-                  "name": "La Caja Mágica",
-                  "text": "An independent performing arts theatre featuring diverse plays and acting workshops for the community.",
-                  "category": "cultural",
-                  "coords": [
-                        -68.007207,
-                        -38.932683
-                  ]
-            },
-            {
-                  "name": "Arcos Romanos",
-                  "text": "An open-air amphitheatre with distinctive Roman-style arches, used for public performances and concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        -68.001805,
-                        -38.934005
                   ]
             }
       ]

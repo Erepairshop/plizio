@@ -607,15 +607,6 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "St. Tadevos",
-                  "text": "A historic Armenian Apostolic church in the Shengavit district featuring traditional stone architecture.",
-                  "category": "religious",
-                  "coords": [
-                        44.442038,
-                        40.062206
-                  ]
-            },
-            {
                   "name": "Armenian pyramid",
                   "text": "An ancient settlement mound known as 'Glass Hill,' famous for its numerous obsidian flakes.",
                   "category": "landmark",
@@ -1376,24 +1367,6 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Museum of Armenia(Alaverdi Branch)",
-                  "text": "Dieses Museum zeigt die Geschichte des Bergbaus und das kulturelle Erbe von Alawerdi.",
-                  "category": "museum",
-                  "coords": [
-                        44.653201,
-                        41.098844
-                  ]
-            },
-            {
-                  "name": "Sanahin bridge",
-                  "text": "Eine elegante Steinbrücke aus dem 12. Jahrhundert, die den Fluss Debed überspannt.",
-                  "category": "landmark",
-                  "coords": [
-                        44.657548,
-                        41.099001
-                  ]
-            },
-            {
                   "name": "Հունական եկեղեցի",
                   "text": "Diese Kirche wurde von der griechischen Bergbaugemeinde gegründet, die sich in Alawerdi niederließ.",
                   "category": "landmark",
@@ -1447,24 +1420,6 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
                   "coords": [
                         44.667607,
                         41.107111
-                  ]
-            },
-            {
-                  "name": "National Museum of Armenia(Alaverdi Branch)",
-                  "text": "Ez a múzeum bemutatja Alaverdi bányászati történetét és kulturális örökségét.",
-                  "category": "museum",
-                  "coords": [
-                        44.653201,
-                        41.098844
-                  ]
-            },
-            {
-                  "name": "Sanahin bridge",
-                  "text": "Elegáns, 12. századi kőhíd, amely a Debed-folyó felett ível át.",
-                  "category": "landmark",
-                  "coords": [
-                        44.657548,
-                        41.099001
                   ]
             },
             {
@@ -1524,24 +1479,6 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Museum of Armenia(Alaverdi Branch)",
-                  "text": "Acest muzeu prezintă istoria mineritului și moștenirea culturală din Alaverdi.",
-                  "category": "museum",
-                  "coords": [
-                        44.653201,
-                        41.098844
-                  ]
-            },
-            {
-                  "name": "Sanahin bridge",
-                  "text": "Un pod elegant de piatră din secolul al XII-lea, care traversează râul Debed.",
-                  "category": "landmark",
-                  "coords": [
-                        44.657548,
-                        41.099001
-                  ]
-            },
-            {
                   "name": "Հունական եկեղեցի",
                   "text": "Această biserică a fost fondată de comunitatea de mineri greci care s-a stabilit în Alaverdi.",
                   "category": "landmark",
@@ -1595,24 +1532,6 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
                   "coords": [
                         44.667607,
                         41.107111
-                  ]
-            },
-            {
-                  "name": "National Museum of Armenia(Alaverdi Branch)",
-                  "text": "This museum showcases the mining history and cultural heritage of Alaverdi.",
-                  "category": "museum",
-                  "coords": [
-                        44.653201,
-                        41.098844
-                  ]
-            },
-            {
-                  "name": "Sanahin bridge",
-                  "text": "An elegant 12th-century stone bridge spanning the Debed River.",
-                  "category": "landmark",
-                  "coords": [
-                        44.657548,
-                        41.099001
                   ]
             },
             {
@@ -3644,30 +3563,12 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
     id: "shirak-airport-cargo-center-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Museum für Volksarchitektur und Stadtleben",
-                  "text": "Das Museum of National Architecture and Urban Life ist ein kulturelles Museum in der Nähe der Wirtschaftszone des Shirak Airport Cargo Centers. Es ist in der historischen Dzitoghtsyan-Villa untergebracht, die das Leben in Gjumri im 19. Jahrhundert zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        43.845564,
-                        40.781324
-                  ]
-            },
-            {
                   "name": "Սև Բերդ",
                   "text": "Die Black Fortress ist eine verlassene russische kaiserliche Festung in der Nähe des Wirtschaftsbereichs des Shirak Airport Cargo Centers.",
                   "category": "castle",
                   "coords": [
                         43.825287,
                         40.782339
-                  ]
-            },
-            {
-                  "name": "Muttergotteskathedrale",
-                  "text": "Die Cathedral of the Holy Mother of God ist eine markante Kirche aus dem 19. Jahrhundert in der Region des Shirak Airport Cargo Centers.",
-                  "category": "religious",
-                  "coords": [
-                        43.842333,
-                        40.786187
                   ]
             },
             {
@@ -3725,30 +3626,12 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kumayri Archeological Museum",
-                  "text": "Das Archäologische Museum Kumayri ist eine kulturelle Einrichtung in shirak-airport-cargo-center-economic-v2.",
-                  "category": "museum",
-                  "coords": [
-                        43.85072,
-                        40.781308
-                  ]
-            },
-            {
                   "name": "Շիրակի երկրագիտական թանգարան",
                   "text": "Das Shirak Regional Museum zeigt das lokale Erbe in shirak-airport-cargo-center-economic-v2.",
                   "category": "museum",
                   "coords": [
                         43.837887,
                         40.786829
-                  ]
-            },
-            {
-                  "name": "Poloz Mukuch",
-                  "text": "Poloz Mukuch ist ein lokales Denkmal in shirak-airport-cargo-center-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        43.841026,
-                        40.782565
                   ]
             },
             {
@@ -3767,15 +3650,6 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
                   "coords": [
                         43.845928,
                         40.788291
-                  ]
-            },
-            {
-                  "name": "Former touristic base ruins",
-                  "text": "Die Ruinen der Former touristic base können in shirak-airport-cargo-center-economic-v2 erkundet werden.",
-                  "category": "historical",
-                  "coords": [
-                        43.8328,
-                        40.78813
                   ]
             },
             {
@@ -3898,30 +3772,12 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kumayri Archeological Museum",
-                  "text": "A Kumayri Régészeti Múzeum egy kulturális intézmény shirak-airport-cargo-center-economic-v2 területén.",
-                  "category": "museum",
-                  "coords": [
-                        43.85072,
-                        40.781308
-                  ]
-            },
-            {
                   "name": "Շիրակի երկրագիտական թանգարան",
                   "text": "A Shirak Regionális Múzeum a helyi örökséget mutatja be shirak-airport-cargo-center-economic-v2 régióban.",
                   "category": "museum",
                   "coords": [
                         43.837887,
                         40.786829
-                  ]
-            },
-            {
-                  "name": "Poloz Mukuch",
-                  "text": "A Poloz Mukuch egy helyi emlékmű shirak-airport-cargo-center-economic-v2 területén.",
-                  "category": "historical",
-                  "coords": [
-                        43.841026,
-                        40.782565
                   ]
             },
             {
@@ -3940,15 +3796,6 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
                   "coords": [
                         43.845928,
                         40.788291
-                  ]
-            },
-            {
-                  "name": "Former touristic base ruins",
-                  "text": "A Former touristic base romjai fedezhetők fel shirak-airport-cargo-center-economic-v2 területén.",
-                  "category": "historical",
-                  "coords": [
-                        43.8328,
-                        40.78813
                   ]
             },
             {
@@ -4071,30 +3918,12 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kumayri Archeological Museum",
-                  "text": "Muzeul Arheologic Kumayri este o instituție culturală situată în shirak-airport-cargo-center-economic-v2.",
-                  "category": "museum",
-                  "coords": [
-                        43.85072,
-                        40.781308
-                  ]
-            },
-            {
                   "name": "Շիրակի երկրագիտական թանգարան",
                   "text": "Muzeul Regional Shirak expune moștenirea locală în shirak-airport-cargo-center-economic-v2.",
                   "category": "museum",
                   "coords": [
                         43.837887,
                         40.786829
-                  ]
-            },
-            {
-                  "name": "Poloz Mukuch",
-                  "text": "Poloz Mukuch este un monument local situat în shirak-airport-cargo-center-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        43.841026,
-                        40.782565
                   ]
             },
             {
@@ -4113,15 +3942,6 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
                   "coords": [
                         43.845928,
                         40.788291
-                  ]
-            },
-            {
-                  "name": "Former touristic base ruins",
-                  "text": "Ruinele Former touristic base pot fi explorate în shirak-airport-cargo-center-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        43.8328,
-                        40.78813
                   ]
             },
             {
@@ -4163,60 +3983,6 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Museum of National Architecture and Urban Life",
-                  "text": "The Museum of National Architecture and Urban Life is a cultural museum located near the Shirak Airport cargo center economic zone. It is housed in the historic Dzitoghtsyan mansion showcasing 19th-century Gyumri life.",
-                  "category": "museum",
-                  "coords": [
-                        43.845564,
-                        40.781324
-                  ]
-            },
-            {
-                  "name": "Black Fortress",
-                  "text": "The Black Fortress is an abandoned Russian imperial fortress near the Shirak Airport cargo center economic area.",
-                  "category": "castle",
-                  "coords": [
-                        43.825287,
-                        40.782339
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Holy Mother of God",
-                  "text": "The Cathedral of the Holy Mother of God is a prominent 19th-century church located near the Shirak Airport cargo center region.",
-                  "category": "religious",
-                  "coords": [
-                        43.842333,
-                        40.786187
-                  ]
-            },
-            {
-                  "name": "Avetic Isahakyan's Home and Museum",
-                  "text": "Avetic Isahakyan's Home and Museum is a cultural institution situated near the Shirak Airport cargo center economic area.",
-                  "category": "museum",
-                  "coords": [
-                        43.843283,
-                        40.788293
-                  ]
-            },
-            {
-                  "name": "The Gallery of Mariam and Eranuhi Aslamazyan Sister",
-                  "text": "The Gallery of Mariam and Eranuhi Aslamazyan Sister is a fine arts museum near the Shirak Airport cargo center economic region.",
-                  "category": "museum",
-                  "coords": [
-                        43.840954,
-                        40.786246
-                  ]
-            },
-            {
-                  "name": "St. Amenaprkitch",
-                  "text": "St. Amenaprkitch is a local church offering a place of worship near the Shirak Airport cargo center economic zone.",
-                  "category": "religious",
-                  "coords": [
-                        43.841194,
-                        40.78409
-                  ]
-            },
-            {
                   "name": "Surb Nshan church",
                   "text": "Surb Nshan church is a religious place of worship located by the Shirak Airport cargo center economic area.",
                   "category": "religious",
@@ -4226,75 +3992,12 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vardan Ajemyan Drama Theater",
-                  "text": "Vardan Ajemyan Drama Theater is a performing arts venue situated close to the Shirak Airport cargo center economic zone.",
-                  "category": "cultural",
-                  "coords": [
-                        43.844896,
-                        40.79068
-                  ]
-            },
-            {
-                  "name": "St Gregory the Illuminator",
-                  "text": "St Gregory the Illuminator is a place of worship located in shirak-airport-cargo-center-economic-v2.",
-                  "category": "religious",
-                  "coords": [
-                        43.838201,
-                        40.789528
-                  ]
-            },
-            {
-                  "name": "Kumayri Archeological Museum",
-                  "text": "The Kumayri Archeological Museum is a cultural institution situated in shirak-airport-cargo-center-economic-v2.",
-                  "category": "museum",
-                  "coords": [
-                        43.85072,
-                        40.781308
-                  ]
-            },
-            {
-                  "name": "Shirak Regional Museum",
-                  "text": "The Shirak Regional Museum exhibits local heritage in shirak-airport-cargo-center-economic-v2.",
-                  "category": "museum",
-                  "coords": [
-                        43.837887,
-                        40.786829
-                  ]
-            },
-            {
-                  "name": "Poloz Mukuch",
-                  "text": "Poloz Mukuch is a dedicated monument located in shirak-airport-cargo-center-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        43.841026,
-                        40.782565
-                  ]
-            },
-            {
                   "name": "Row of famous figure head statues",
                   "text": "The Row of famous figure head statues is a sculptural monument in shirak-airport-cargo-center-economic-v2.",
                   "category": "historical",
                   "coords": [
                         43.844632,
                         40.78104
-                  ]
-            },
-            {
-                  "name": "Sayat-Nova Monument",
-                  "text": "The Sayat-Nova Monument honors the historical poet in shirak-airport-cargo-center-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        43.845928,
-                        40.788291
-                  ]
-            },
-            {
-                  "name": "Former touristic base ruins",
-                  "text": "The ruins of the Former touristic base can be explored in shirak-airport-cargo-center-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        43.8328,
-                        40.78813
                   ]
             },
             {
@@ -5286,15 +4989,6 @@ export const poiExtraArmeniaEconomicV2: POI[] = [
                   "coords": [
                         44.595955,
                         39.955376
-                  ]
-            },
-            {
-                  "name": "Saint Jacob Church",
-                  "text": "A historic stone church in Mrgavan, known for its classical Armenian ecclesiastical proportions.",
-                  "category": "religious",
-                  "coords": [
-                        44.534747,
-                        39.973527
                   ]
             },
             {

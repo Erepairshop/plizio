@@ -1096,24 +1096,6 @@ export const poiExtraLibyaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Qaşr al Baţḩā’",
-                  "text": "Diese historischen Ruinen in der Nähe von Kyrene bieten einen Einblick in die antike Architektur der Region.",
-                  "category": "historical",
-                  "coords": [
-                        21.836201,
-                        32.845268
-                  ]
-            },
-            {
-                  "name": "Acropolis",
-                  "text": "Die verfallene antike Akropolis von Kyrene liegt auf einer Anhöhe und diente einst als Hauptverteidigungsanlage der Stadt.",
-                  "category": "historical",
-                  "coords": [
-                        21.850813,
-                        32.821902
-                  ]
-            },
-            {
                   "name": "Shahhat Museum",
                   "text": "Dieses Museum im modernen Shahhat beherbergt zahlreiche Artefakte, die in der nahegelegenen antiken griechischen Stadt Kyrene ausgegraben wurden.",
                   "category": "museum",
@@ -1147,15 +1129,6 @@ export const poiExtraLibyaHistoryV2: POI[] = [
                   "coords": [
                         21.852532,
                         32.823629
-                  ]
-            },
-            {
-                  "name": "Temple of Apollo",
-                  "text": "Diese archäologische Stätte umfasst die Überreste eines großen Tempels im Herzen von Kyrene, der Apollon gewidmet war.",
-                  "category": "historical",
-                  "coords": [
-                        21.851593,
-                        32.823948
                   ]
             },
             {
@@ -1224,24 +1197,6 @@ export const poiExtraLibyaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Qaşr al Baţḩā’",
-                  "text": "Ezek a Küréné közelében fekvő történelmi romok bepillantást engednek a régió ókori építészetébe.",
-                  "category": "historical",
-                  "coords": [
-                        21.836201,
-                        32.845268
-                  ]
-            },
-            {
-                  "name": "Acropolis",
-                  "text": "Küréné romos ókori akropolisza egy magaslaton áll, amely egykor a város fő védelmi fellegváraként szolgált.",
-                  "category": "historical",
-                  "coords": [
-                        21.850813,
-                        32.821902
-                  ]
-            },
-            {
                   "name": "Shahhat Museum",
                   "text": "A modern Shahhatban található múzeum a közeli ókori görög városból, Kürénéből feltárt számos műtárgynak ad otthont.",
                   "category": "museum",
@@ -1275,15 +1230,6 @@ export const poiExtraLibyaHistoryV2: POI[] = [
                   "coords": [
                         21.852532,
                         32.823629
-                  ]
-            },
-            {
-                  "name": "Temple of Apollo",
-                  "text": "Ez a régészeti lelőhely egy jelentős, Apollónnak szentelt templom maradványait foglalja magában Küréné szívében.",
-                  "category": "historical",
-                  "coords": [
-                        21.851593,
-                        32.823948
                   ]
             },
             {
@@ -1352,24 +1298,6 @@ export const poiExtraLibyaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Qaşr al Baţḩā’",
-                  "text": "Aceste ruine istorice din apropiere de Cirene oferă o privire în arhitectura antică a regiunii.",
-                  "category": "historical",
-                  "coords": [
-                        21.836201,
-                        32.845268
-                  ]
-            },
-            {
-                  "name": "Acropolis",
-                  "text": "Acropola antică în ruină din Cirene este situată pe un teren înalt, servind odinioară drept principală cetate de apărare a orașului.",
-                  "category": "historical",
-                  "coords": [
-                        21.850813,
-                        32.821902
-                  ]
-            },
-            {
                   "name": "Shahhat Museum",
                   "text": "Situat în orașul modern Shahhat, acest muzeu găzduiește numeroase artefacte excavate din orașul antic grec Cirene din apropiere.",
                   "category": "museum",
@@ -1403,15 +1331,6 @@ export const poiExtraLibyaHistoryV2: POI[] = [
                   "coords": [
                         21.852532,
                         32.823629
-                  ]
-            },
-            {
-                  "name": "Temple of Apollo",
-                  "text": "Acest sit arheologic cuprinde rămășițele unui templu major dedicat lui Apollo în inima orașului Cirene.",
-                  "category": "historical",
-                  "coords": [
-                        21.851593,
-                        32.823948
                   ]
             },
             {
@@ -1480,24 +1399,6 @@ export const poiExtraLibyaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Qaşr al Baţḩā’",
-                  "text": "These historical ruins near Cyrene offer a glimpse into the region's ancient architectural past.",
-                  "category": "historical",
-                  "coords": [
-                        21.836201,
-                        32.845268
-                  ]
-            },
-            {
-                  "name": "Acropolis",
-                  "text": "The ruined ancient Acropolis of Cyrene stands on high ground, once serving as the city's main defensive citadel.",
-                  "category": "historical",
-                  "coords": [
-                        21.850813,
-                        32.821902
-                  ]
-            },
-            {
                   "name": "Shahhat Museum",
                   "text": "Located in modern Shahhat, this museum houses numerous artifacts excavated from the nearby ancient Greek city of Cyrene.",
                   "category": "museum",
@@ -1531,15 +1432,6 @@ export const poiExtraLibyaHistoryV2: POI[] = [
                   "coords": [
                         21.852532,
                         32.823629
-                  ]
-            },
-            {
-                  "name": "Temple of Apollo",
-                  "text": "This archaeological site encompasses the remains of a major temple dedicated to Apollo in the heart of Cyrene.",
-                  "category": "historical",
-                  "coords": [
-                        21.851593,
-                        32.823948
                   ]
             },
             {
@@ -1659,15 +1551,6 @@ export const poiExtraLibyaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "West Necropolis of Apollonia",
-                  "text": "Eine ausgedehnte antike Friedhofsanlage mit zahlreichen Felsengräbern auf der Westseite von Apollonia.",
-                  "category": "historical",
-                  "coords": [
-                        21.957227,
-                        32.899959
-                  ]
-            },
-            {
                   "name": "Susa Resort & Beach",
                   "text": "Ein moderner mediterraner Rückzugsort am Meer, der sich in der Nähe der historischen Ruinen von Apollonia befindet.",
                   "category": "recreational",
@@ -1766,15 +1649,6 @@ export const poiExtraLibyaHistoryV2: POI[] = [
                   "coords": [
                         21.967273,
                         32.904341
-                  ]
-            },
-            {
-                  "name": "West Necropolis of Apollonia",
-                  "text": "Egy kiterjedt ősi temető, amely számos sziklába vájt sírt tartalmaz Apollónia nyugati oldalán.",
-                  "category": "historical",
-                  "coords": [
-                        21.957227,
-                        32.899959
                   ]
             },
             {
@@ -1879,15 +1753,6 @@ export const poiExtraLibyaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "West Necropolis of Apollonia",
-                  "text": "Un vast cimitir antic ce conține numeroase morminte tăiate în stâncă pe latura vestică a Apolloniei.",
-                  "category": "historical",
-                  "coords": [
-                        21.957227,
-                        32.899959
-                  ]
-            },
-            {
                   "name": "Susa Resort & Beach",
                   "text": "O destinație modernă de vacanță pe litoralul mediteranean, situată aproape de ruinele istorice ale Apolloniei.",
                   "category": "recreational",
@@ -1986,15 +1851,6 @@ export const poiExtraLibyaHistoryV2: POI[] = [
                   "coords": [
                         21.967273,
                         32.904341
-                  ]
-            },
-            {
-                  "name": "West Necropolis of Apollonia",
-                  "text": "An expansive ancient cemetery site containing numerous rock-cut tombs on the western side of Apollonia.",
-                  "category": "historical",
-                  "coords": [
-                        21.957227,
-                        32.899959
                   ]
             },
             {
@@ -2713,48 +2569,12 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     id: "ly-tocra-history-v2", "sights": {
       "de": [
             {
-                  "name": "Tocra Castle",
-                  "text": "Eine widerstandsfähige steinerne Küstenfestung, die über der antiken Siedlung Tocra am Rande des Mittelmeers thront.",
-                  "category": "castle",
-                  "coords": [
-                        20.568276,
-                        32.54056
-                  ]
-            },
-            {
-                  "name": "Taucheira",
-                  "text": "Eine weitläufige antike griechische Ausgrabungsstätte, die um 630 v. Chr. gegründet wurde und gut erhaltene Küstenruinen aufweist.",
-                  "category": "historical",
-                  "coords": [
-                        20.575779,
-                        32.544445
-                  ]
-            },
-            {
                   "name": "Al Bakoor Castle",
                   "text": "Die steinernen Ruinenfundamente einer antiken Festung, die einst die historischen Routen in der Nähe von Tocra bewachte.",
                   "category": "historical",
                   "coords": [
                         20.63195,
                         32.517021
-                  ]
-            },
-            {
-                  "name": "Taucheira/Arsinoe (Libya)",
-                  "text": "Die historischen Überreste einer in Arsinoe umbenannten hellenistischen Stadt, die Reste massiver Verteidigungsmauern und antiker ziviler Strukturen zeigen.",
-                  "category": "historical",
-                  "coords": [
-                        20.567591,
-                        32.539001
-                  ]
-            },
-            {
-                  "name": "Palace of the Byzantine governor",
-                  "text": "Diese archäologischen Überreste in Tocra markieren den antiken Sitz des byzantinischen Statthalters.",
-                  "category": "historical",
-                  "coords": [
-                        20.56843,
-                        32.536626
                   ]
             },
             {
@@ -2769,48 +2589,12 @@ export const poiExtraLibyaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Tocra Castle",
-                  "text": "Ellenálló tengerparti kőerőd, amely az ősi Tocra település felett magasodik a Földközi-tenger partján.",
-                  "category": "castle",
-                  "coords": [
-                        20.568276,
-                        32.54056
-                  ]
-            },
-            {
-                  "name": "Taucheira",
-                  "text": "Kr. e. 630 körül alapított kiterjedt ókori görög régészeti lelőhely, amely jól karbantartott tengerparti romokkal büszkélkedhet.",
-                  "category": "historical",
-                  "coords": [
-                        20.575779,
-                        32.544445
-                  ]
-            },
-            {
                   "name": "Al Bakoor Castle",
                   "text": "Egy antik erőd romos kőalapjai, amely egykor a Tocra környéki történelmi útvonalakat őrizte.",
                   "category": "historical",
                   "coords": [
                         20.63195,
                         32.517021
-                  ]
-            },
-            {
-                  "name": "Taucheira/Arsinoe (Libya)",
-                  "text": "Az Arsinoe-ra átkeresztelt hellenisztikus város történelmi maradványai, amelyek hatalmas védőfalakat és ősi polgári épületeket tárnak fel.",
-                  "category": "historical",
-                  "coords": [
-                        20.567591,
-                        32.539001
-                  ]
-            },
-            {
-                  "name": "Palace of the Byzantine governor",
-                  "text": "Ezek a tocrai régészeti maradványok a bizánci kormányzó egykori székhelyét jelzik.",
-                  "category": "historical",
-                  "coords": [
-                        20.56843,
-                        32.536626
                   ]
             },
             {
@@ -2825,48 +2609,12 @@ export const poiExtraLibyaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Tocra Castle",
-                  "text": "O fortăreață de coastă rezistentă din piatră, care se înalță deasupra așezării antice Tocra de-a lungul marginii Mediteranei.",
-                  "category": "castle",
-                  "coords": [
-                        20.568276,
-                        32.54056
-                  ]
-            },
-            {
-                  "name": "Taucheira",
-                  "text": "Un vast sit arheologic antic grecesc fondat în jurul anului 630 î.Hr., care prezintă ruine de coastă bine conservate.",
-                  "category": "historical",
-                  "coords": [
-                        20.575779,
-                        32.544445
-                  ]
-            },
-            {
                   "name": "Al Bakoor Castle",
                   "text": "Fundațiile de piatră în ruine ale unei fortărețe antice care păzea odată rutele istorice din apropiere de Tocra.",
                   "category": "historical",
                   "coords": [
                         20.63195,
                         32.517021
-                  ]
-            },
-            {
-                  "name": "Taucheira/Arsinoe (Libya)",
-                  "text": "Rămășițele istorice ale unei cetăți elenistice redenumite Arsinoe, prezentând vestigii ale unor ziduri de apărare masive și structuri civice antice.",
-                  "category": "historical",
-                  "coords": [
-                        20.567591,
-                        32.539001
-                  ]
-            },
-            {
-                  "name": "Palace of the Byzantine governor",
-                  "text": "Aceste vestigii arheologice din Tocra marchează vechiul sediu al guvernatorului bizantin.",
-                  "category": "historical",
-                  "coords": [
-                        20.56843,
-                        32.536626
                   ]
             },
             {
@@ -2881,48 +2629,12 @@ export const poiExtraLibyaHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Tocra Castle",
-                  "text": "A resilient stone coastal fortress standing over the ancient settlement of Tocra along the Mediterranean edge.",
-                  "category": "castle",
-                  "coords": [
-                        20.568276,
-                        32.54056
-                  ]
-            },
-            {
-                  "name": "Taucheira",
-                  "text": "An expansive ancient Greek archaeological site founded around 630 BC, featuring well-preserved coastal ruins.",
-                  "category": "historical",
-                  "coords": [
-                        20.575779,
-                        32.544445
-                  ]
-            },
-            {
                   "name": "Al Bakoor Castle",
                   "text": "The ruined stone foundations of an antique fortress that once guarded the historic routes near Tocra.",
                   "category": "historical",
                   "coords": [
                         20.63195,
                         32.517021
-                  ]
-            },
-            {
-                  "name": "Taucheira/Arsinoe (Libya)",
-                  "text": "The historic remains of a Hellenistic city renamed Arsinoe, showcasing remnants of massive defensive walls and ancient civic structures.",
-                  "category": "historical",
-                  "coords": [
-                        20.567591,
-                        32.539001
-                  ]
-            },
-            {
-                  "name": "Palace of the Byzantine governor",
-                  "text": "These archaeological remains in Tocra mark the ancient seat of the Byzantine governor.",
-                  "category": "historical",
-                  "coords": [
-                        20.56843,
-                        32.536626
                   ]
             },
             {
@@ -4888,24 +4600,6 @@ export const poiExtraLibyaHistoryV2: POI[] = [
     id: "ly-hospitaller-fort-benghazi-history-v2", "sights": {
       "de": [
             {
-                  "name": "Theatre",
-                  "text": "Ein etablierter kultureller Saal, der als prominente Bühne für Theaterproduktionen und lokale Künste in Bengasi dient.",
-                  "category": "cultural",
-                  "coords": [
-                        20.078973,
-                        32.1231
-                  ]
-            },
-            {
-                  "name": "Benghazi exhibition Commercial",
-                  "text": "Ein weitläufiger Ausstellungskomplex, der für große Handelsmessen und regionale Kunstpräsentationen konzipiert wurde.",
-                  "category": "cultural",
-                  "coords": [
-                        20.067572,
-                        32.117584
-                  ]
-            },
-            {
                   "name": "Alboudozerah",
                   "text": "Ein beliebter Freizeitpark mit Seepromenaden, Fahrgeschäften und Erholungseinrichtungen für Familien.",
                   "category": "recreational",
@@ -4913,36 +4607,9 @@ export const poiExtraLibyaHistoryV2: POI[] = [
                         20.132222,
                         32.168064
                   ]
-            },
-            {
-                  "name": "Sidi Oubed Cemetery",
-                  "text": "Eine bedeutende historische Begräbnisstätte mit alten Gräbern, die Einblicke in vergangene Generationen von Bengasi bieten.",
-                  "category": "historical",
-                  "coords": [
-                        20.087757,
-                        32.135067
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Theatre",
-                  "text": "Elismert kulturális nézőtér, amely színházi produkciók és a helyi művészetek kiemelkedő színpadaként szolgál Bengáziban.",
-                  "category": "cultural",
-                  "coords": [
-                        20.078973,
-                        32.1231
-                  ]
-            },
-            {
-                  "name": "Benghazi exhibition Commercial",
-                  "text": "Tágas kiállítási komplexum, amelyet nagy volumenű kereskedelmi vásárok és regionális művészeti bemutatók megrendezésére terveztek.",
-                  "category": "cultural",
-                  "coords": [
-                        20.067572,
-                        32.117584
-                  ]
-            },
             {
                   "name": "Alboudozerah",
                   "text": "Népszerű vidámpark, amely tóparti sétányokkal, vidámparki játékokkal és családi szabadidős létesítményekkel rendelkezik.",
@@ -4951,36 +4618,9 @@ export const poiExtraLibyaHistoryV2: POI[] = [
                         20.132222,
                         32.168064
                   ]
-            },
-            {
-                  "name": "Sidi Oubed Cemetery",
-                  "text": "Jelentős történelmi temető régi sírokkal, amelyek bepillantást engednek Bengázi múltbéli generációinak életébe.",
-                  "category": "historical",
-                  "coords": [
-                        20.087757,
-                        32.135067
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Theatre",
-                  "text": "O sală de spectacole culturală consacrată, care servește ca o scenă proeminentă pentru producții teatrale și arte locale în Benghazi.",
-                  "category": "cultural",
-                  "coords": [
-                        20.078973,
-                        32.1231
-                  ]
-            },
-            {
-                  "name": "Benghazi exhibition Commercial",
-                  "text": "Un complex expozițional spațios, conceput pentru a găzdui târguri comerciale la scară largă și expoziții de artă regionale.",
-                  "category": "cultural",
-                  "coords": [
-                        20.067572,
-                        32.117584
-                  ]
-            },
             {
                   "name": "Alboudozerah",
                   "text": "Un parc tematic de agrement popular, care oferă promenade pe malul lacului, atracții de distracție și facilități de petrecere a timpului liber pentru familii.",
@@ -4989,36 +4629,9 @@ export const poiExtraLibyaHistoryV2: POI[] = [
                         20.132222,
                         32.168064
                   ]
-            },
-            {
-                  "name": "Sidi Oubed Cemetery",
-                  "text": "Un cimitir istoric semnificativ, care conține morminte vechi ce oferă o perspectivă asupra generațiilor trecute din Benghazi.",
-                  "category": "historical",
-                  "coords": [
-                        20.087757,
-                        32.135067
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Theatre",
-                  "text": "An established cultural auditorium serving as a prominent stage for theatrical productions and local arts in Benghazi.",
-                  "category": "cultural",
-                  "coords": [
-                        20.078973,
-                        32.1231
-                  ]
-            },
-            {
-                  "name": "Benghazi exhibition Commercial",
-                  "text": "A spacious exhibition complex designed to host large-scale commercial trade fairs and regional art showcases.",
-                  "category": "cultural",
-                  "coords": [
-                        20.067572,
-                        32.117584
-                  ]
-            },
             {
                   "name": "Alboudozerah",
                   "text": "A popular recreational theme park featuring lakeside promenades, amusement rides, and family leisure facilities.",
@@ -5026,15 +4639,6 @@ export const poiExtraLibyaHistoryV2: POI[] = [
                   "coords": [
                         20.132222,
                         32.168064
-                  ]
-            },
-            {
-                  "name": "Sidi Oubed Cemetery",
-                  "text": "A significant historical burial ground containing aged tombs that provide insight into Benghazi's past generations.",
-                  "category": "historical",
-                  "coords": [
-                        20.087757,
-                        32.135067
                   ]
             }
       ]

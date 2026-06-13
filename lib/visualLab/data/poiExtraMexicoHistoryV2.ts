@@ -2566,15 +2566,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "capilla abierta",
-                  "text": "Freiluftkapelle in Tula, ein frühkoloniales religiöses Bauwerk.",
-                  "category": "historical",
-                  "coords": [
-                        -99.338579,
-                        20.061492
-                  ]
-            },
-            {
                   "name": "Coatepantli",
                   "text": "Eine archäologische Stätte in Tula; die berühmte Schlangenmauer ist mit Serpentenreliefs verziert.",
                   "category": "historical",
@@ -2611,30 +2602,12 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tula Chico",
-                  "text": "Eine archäologische Stätte in Tula; ein älterer Teil der toltekischen Zone.",
-                  "category": "historical",
-                  "coords": [
-                        -99.345891,
-                        20.062257
-                  ]
-            },
-            {
                   "name": "Parque Nacional Tula",
                   "text": "Nationalpark Tula, umfasst die toltekische archäologische Stätte und die umliegende Landschaft.",
                   "category": "natural",
                   "coords": [
                         -99.336989,
                         20.067169
-                  ]
-            },
-            {
-                  "name": "La Cantera",
-                  "text": "Erholungsgebiet La Cantera in Tula, ein ehemaliger Steinbruch, der zu einem Park umgestaltet wurde.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.30943,
-                        20.04073
                   ]
             }
       ],
@@ -2664,15 +2637,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   "coords": [
                         -99.334321,
                         20.067333
-                  ]
-            },
-            {
-                  "name": "capilla abierta",
-                  "text": "Szabadtéri kápolna Tulában, egy korai gyarmati vallási építmény.",
-                  "category": "historical",
-                  "coords": [
-                        -99.338579,
-                        20.061492
                   ]
             },
             {
@@ -2712,30 +2676,12 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tula Chico",
-                  "text": "Egy régészeti lelőhely Tula városában; a tolték zóna korábbi része.",
-                  "category": "historical",
-                  "coords": [
-                        -99.345891,
-                        20.062257
-                  ]
-            },
-            {
                   "name": "Parque Nacional Tula",
                   "text": "Tula Nemzeti Park, magában foglalja a tolték régészeti lelőhelyet és a környező tájat.",
                   "category": "natural",
                   "coords": [
                         -99.336989,
                         20.067169
-                  ]
-            },
-            {
-                  "name": "La Cantera",
-                  "text": "La Cantera pihenőövezet Tulában, egykori kőfejtőből kialakított park.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.30943,
-                        20.04073
                   ]
             }
       ],
@@ -2765,15 +2711,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   "coords": [
                         -99.334321,
                         20.067333
-                  ]
-            },
-            {
-                  "name": "capilla abierta",
-                  "text": "Capelă în aer liber în Tula, o structură religioasă colonială timpurie.",
-                  "category": "historical",
-                  "coords": [
-                        -99.338579,
-                        20.061492
                   ]
             },
             {
@@ -2813,30 +2750,12 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tula Chico",
-                  "text": "Un sit arheologic în Tula; o parte mai veche a zonei toltece.",
-                  "category": "historical",
-                  "coords": [
-                        -99.345891,
-                        20.062257
-                  ]
-            },
-            {
                   "name": "Parque Nacional Tula",
                   "text": "Parcul Național Tula, cuprinzând situl arheologic toltec și peisajul înconjurător.",
                   "category": "natural",
                   "coords": [
                         -99.336989,
                         20.067169
-                  ]
-            },
-            {
-                  "name": "La Cantera",
-                  "text": "Zonă recreațională La Cantera în Tula, o fostă carieră transformată în parc.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.30943,
-                        20.04073
                   ]
             }
       ],
@@ -2866,15 +2785,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   "coords": [
                         -99.334321,
                         20.067333
-                  ]
-            },
-            {
-                  "name": "capilla abierta",
-                  "text": "Open-air chapel in Tula, an early colonial religious structure.",
-                  "category": "historical",
-                  "coords": [
-                        -99.338579,
-                        20.061492
                   ]
             },
             {
@@ -2914,30 +2824,12 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tula Chico",
-                  "text": "An archaeological site in Tula; an earlier section of the Toltec zone.",
-                  "category": "historical",
-                  "coords": [
-                        -99.345891,
-                        20.062257
-                  ]
-            },
-            {
                   "name": "Parque Nacional Tula",
                   "text": "Tula National Park, encompassing the Toltec archaeological site and surrounding landscape.",
                   "category": "natural",
                   "coords": [
                         -99.336989,
                         20.067169
-                  ]
-            },
-            {
-                  "name": "La Cantera",
-                  "text": "La Cantera recreational area in Tula, a former quarry turned park.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.30943,
-                        20.04073
                   ]
             }
       ]
@@ -6115,15 +6007,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Lima Museo Parque",
-                  "text": "Die Casa Lima Museo Parque in Rey ist ein Museum im archäologischen Park El Rey mit Maya-Funden.",
-                  "category": "museum",
-                  "coords": [
-                        -86.836964,
-                        21.142204
-                  ]
-            },
-            {
                   "name": "Museo de Sitio, Zona Arqueológica El Rey",
                   "text": "Das Museo de Sitio der Zone El Rey zeigt Fundstücke der präkolumbischen Maya-Siedlung.",
                   "category": "museum",
@@ -6211,15 +6094,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   "coords": [
                         -86.772967,
                         21.088493
-                  ]
-            },
-            {
-                  "name": "Caracoles y Estrellas de Mar (El Ceviche)",
-                  "text": "Caracoles y Estrellas de Mar (El Ceviche) ist ein Strandrestaurant mit Ceviche und Muscheldekor.",
-                  "category": "landmark",
-                  "coords": [
-                        -86.825296,
-                        21.156963
                   ]
             },
             {
@@ -6414,15 +6288,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Lima Museo Parque",
-                  "text": "A Rey-i Casa Lima Museo Parque egy múzeum az El Rey régészeti parkban, maja leletekkel.",
-                  "category": "museum",
-                  "coords": [
-                        -86.836964,
-                        21.142204
-                  ]
-            },
-            {
                   "name": "Museo de Sitio, Zona Arqueológica El Rey",
                   "text": "Az El Rey zóna Helyszíni Múzeuma a prekolumbiánus maja település leleteit mutatja be.",
                   "category": "museum",
@@ -6510,15 +6375,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   "coords": [
                         -86.772967,
                         21.088493
-                  ]
-            },
-            {
-                  "name": "Caracoles y Estrellas de Mar (El Ceviche)",
-                  "text": "A Caracoles y Estrellas de Mar (El Ceviche) egy tengerparti étterem ceviche-vel és kagyló díszítéssel.",
-                  "category": "landmark",
-                  "coords": [
-                        -86.825296,
-                        21.156963
                   ]
             },
             {
@@ -6713,15 +6569,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Lima Museo Parque",
-                  "text": "Casa Lima Museo Parque din Rey este un muzeu în parcul arheologic El Rey, cu artefacte mayașe.",
-                  "category": "museum",
-                  "coords": [
-                        -86.836964,
-                        21.142204
-                  ]
-            },
-            {
                   "name": "Museo de Sitio, Zona Arqueológica El Rey",
                   "text": "Muzeul de Sit al Zonei Arheologice El Rey expune artefacte din așezarea mayașă precolumbiană.",
                   "category": "museum",
@@ -6809,15 +6656,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   "coords": [
                         -86.772967,
                         21.088493
-                  ]
-            },
-            {
-                  "name": "Caracoles y Estrellas de Mar (El Ceviche)",
-                  "text": "Caracoles y Estrellas de Mar (El Ceviche) este un restaurant pe plajă cu ceviche și decor cu scoici.",
-                  "category": "landmark",
-                  "coords": [
-                        -86.825296,
-                        21.156963
                   ]
             },
             {
@@ -7012,15 +6850,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Lima Museo Parque",
-                  "text": "Casa Lima Museo Parque in Rey is a museum within the El Rey archaeological park featuring Maya artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        -86.836964,
-                        21.142204
-                  ]
-            },
-            {
                   "name": "Museo de Sitio, Zona Arqueológica El Rey",
                   "text": "The Museo de Sitio of the El Rey archaeological zone displays artifacts from the pre-Columbian Maya settlement.",
                   "category": "museum",
@@ -7108,15 +6937,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   "coords": [
                         -86.772967,
                         21.088493
-                  ]
-            },
-            {
-                  "name": "Caracoles y Estrellas de Mar (El Ceviche)",
-                  "text": "Caracoles y Estrellas de Mar (El Ceviche) is a beachfront restaurant known for ceviche and seashell decor.",
-                  "category": "landmark",
-                  "coords": [
-                        -86.825296,
-                        21.156963
                   ]
             },
             {
@@ -13403,15 +13223,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     id: "san-miguel-de-allende-history-v2", "sights": {
       "de": [
             {
-                  "name": "Teatro Sana Ana",
-                  "text": "Teatro San Ana ist ein kulturelles Theater in Miguel de Allende.",
-                  "category": "cultural",
-                  "coords": [
-                        -100.74313,
-                        20.916752
-                  ]
-            },
-            {
                   "name": "Kuna Galería",
                   "text": "Kuna Galería ist eine Museumsgalerie in Miguel de Allende.",
                   "category": "museum",
@@ -13427,15 +13238,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   "coords": [
                         -100.744255,
                         20.914335
-                  ]
-            },
-            {
-                  "name": "Museo la Esquina",
-                  "text": "Ein Museum für Spielzeug und Kindheit in San Miguel de Allende. (La Esquina ist das Mexikanische Spielzeugmuseum.)",
-                  "category": "museum",
-                  "coords": [
-                        -100.740137,
-                        20.914695
                   ]
             },
             {
@@ -13475,15 +13277,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Antiguo Acueducto",
-                  "text": "Antiguo Acueducto ist ein historisches antikes Aquädukt in Miguel de Allende.",
-                  "category": "historical",
-                  "coords": [
-                        -100.73745,
-                        20.922888
-                  ]
-            },
-            {
                   "name": "La Troje",
                   "text": "La Troje ist ein kultureller Veranstaltungsort in Miguel de Allende.",
                   "category": "cultural",
@@ -13511,75 +13304,12 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bag Colorin",
-                  "text": "Eine Galerie in San Miguel de Allende, die farbenfrohe Taschen präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        -100.742366,
-                        20.918079
-                  ]
-            },
-            {
-                  "name": "Galeria Ascender",
-                  "text": "Eine Galerie in San Miguel de Allende, die zeitgenössische Kunst zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -100.744243,
-                        20.919042
-                  ]
-            },
-            {
-                  "name": "Juan Zaragoza Gallery",
-                  "text": "Eine Galerie in San Miguel de Allende, benannt nach Juan Zaragoza.",
-                  "category": "museum",
-                  "coords": [
-                        -100.742198,
-                        20.921467
-                  ]
-            },
-            {
-                  "name": "La Aurora",
-                  "text": "Eine Galerie in San Miguel de Allende mit wechselnden Kunstausstellungen.",
-                  "category": "museum",
-                  "coords": [
-                        -100.74039,
-                        20.923241
-                  ]
-            },
-            {
-                  "name": "Sienna Galeria",
-                  "text": "Eine Galerie in San Miguel de Allende, die Werke lokaler Künstler zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -100.746487,
-                        20.913938
-                  ]
-            },
-            {
-                  "name": "Ted Davis Galeria",
-                  "text": "Eine Galerie in San Miguel de Allende, benannt nach Ted Davis.",
-                  "category": "museum",
-                  "coords": [
-                        -100.746441,
-                        20.911281
-                  ]
-            },
-            {
                   "name": "Danyel Joy Art",
                   "text": "Eine Galerie in San Miguel de Allende mit Kunst von Danyel Joy.",
                   "category": "museum",
                   "coords": [
                         -100.748161,
                         20.90678
-                  ]
-            },
-            {
-                  "name": "Xote",
-                  "text": "Ein Wasserpark in San Miguel de Allende mit Rutschen und Pools.",
-                  "category": "recreational",
-                  "coords": [
-                        -100.799477,
-                        20.967263
                   ]
             },
             {
@@ -13630,15 +13360,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Teatro Sana Ana",
-                  "text": "Teatro San Ana egy kulturális színház Miguel de Allendében.",
-                  "category": "cultural",
-                  "coords": [
-                        -100.74313,
-                        20.916752
-                  ]
-            },
-            {
                   "name": "Kuna Galería",
                   "text": "Kuna Galería egy múzeumgaléria Miguel de Allendében.",
                   "category": "museum",
@@ -13654,15 +13375,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   "coords": [
                         -100.744255,
                         20.914335
-                  ]
-            },
-            {
-                  "name": "Museo la Esquina",
-                  "text": "Egy játékoknak és gyermekkornak szentelt múzeum San Miguel de Allendében. (A La Esquina a Mexikói Játékmúzeum.)",
-                  "category": "museum",
-                  "coords": [
-                        -100.740137,
-                        20.914695
                   ]
             },
             {
@@ -13702,15 +13414,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Antiguo Acueducto",
-                  "text": "Antiguo Acueducto egy történelmi ókori vízvezeték Miguel de Allendében.",
-                  "category": "historical",
-                  "coords": [
-                        -100.73745,
-                        20.922888
-                  ]
-            },
-            {
                   "name": "La Troje",
                   "text": "La Troje egy kulturális helyszín Miguel de Allendében.",
                   "category": "cultural",
@@ -13738,75 +13441,12 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bag Colorin",
-                  "text": "Egy galéria San Miguel de Allendében, amely színes táskákat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -100.742366,
-                        20.918079
-                  ]
-            },
-            {
-                  "name": "Galeria Ascender",
-                  "text": "Egy galéria San Miguel de Allendében, amely kortárs művészetet mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -100.744243,
-                        20.919042
-                  ]
-            },
-            {
-                  "name": "Juan Zaragoza Gallery",
-                  "text": "Egy galéria San Miguel de Allendében, amely Juan Zaragozáról kapta a nevét.",
-                  "category": "museum",
-                  "coords": [
-                        -100.742198,
-                        20.921467
-                  ]
-            },
-            {
-                  "name": "La Aurora",
-                  "text": "Egy galéria San Miguel de Allendében változó művészeti kiállításokkal.",
-                  "category": "museum",
-                  "coords": [
-                        -100.74039,
-                        20.923241
-                  ]
-            },
-            {
-                  "name": "Sienna Galeria",
-                  "text": "Egy galéria San Miguel de Allendében, amely helyi művészek munkáit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -100.746487,
-                        20.913938
-                  ]
-            },
-            {
-                  "name": "Ted Davis Galeria",
-                  "text": "Egy galéria San Miguel de Allendében, amely Ted Davisről kapta a nevét.",
-                  "category": "museum",
-                  "coords": [
-                        -100.746441,
-                        20.911281
-                  ]
-            },
-            {
                   "name": "Danyel Joy Art",
                   "text": "Egy galéria San Miguel de Allendében Danyel Joy művészetével.",
                   "category": "museum",
                   "coords": [
                         -100.748161,
                         20.90678
-                  ]
-            },
-            {
-                  "name": "Xote",
-                  "text": "Egy vízipark San Miguel de Allendében csúszdákkal és medencékkel.",
-                  "category": "recreational",
-                  "coords": [
-                        -100.799477,
-                        20.967263
                   ]
             },
             {
@@ -13857,15 +13497,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Teatro Sana Ana",
-                  "text": "Teatro San Ana este un teatru cultural în Miguel de Allende.",
-                  "category": "cultural",
-                  "coords": [
-                        -100.74313,
-                        20.916752
-                  ]
-            },
-            {
                   "name": "Kuna Galería",
                   "text": "Kuna Galería este o galerie muzeală în Miguel de Allende.",
                   "category": "museum",
@@ -13881,15 +13512,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   "coords": [
                         -100.744255,
                         20.914335
-                  ]
-            },
-            {
-                  "name": "Museo la Esquina",
-                  "text": "Un muzeu dedicat jucăriilor și copilăriei în San Miguel de Allende. (La Esquina este Muzeul Mexican al Jucăriilor.)",
-                  "category": "museum",
-                  "coords": [
-                        -100.740137,
-                        20.914695
                   ]
             },
             {
@@ -13929,15 +13551,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Antiguo Acueducto",
-                  "text": "Antiguo Acueducto este un apeduct antic istoric în Miguel de Allende.",
-                  "category": "historical",
-                  "coords": [
-                        -100.73745,
-                        20.922888
-                  ]
-            },
-            {
                   "name": "La Troje",
                   "text": "La Troje este un loc cultural în Miguel de Allende.",
                   "category": "cultural",
@@ -13965,75 +13578,12 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bag Colorin",
-                  "text": "O galerie din San Miguel de Allende care prezintă genți colorate.",
-                  "category": "museum",
-                  "coords": [
-                        -100.742366,
-                        20.918079
-                  ]
-            },
-            {
-                  "name": "Galeria Ascender",
-                  "text": "O galerie din San Miguel de Allende care expune artă contemporană.",
-                  "category": "museum",
-                  "coords": [
-                        -100.744243,
-                        20.919042
-                  ]
-            },
-            {
-                  "name": "Juan Zaragoza Gallery",
-                  "text": "O galerie din San Miguel de Allende numită după Juan Zaragoza.",
-                  "category": "museum",
-                  "coords": [
-                        -100.742198,
-                        20.921467
-                  ]
-            },
-            {
-                  "name": "La Aurora",
-                  "text": "O galerie din San Miguel de Allende cu expoziții de artă temporare.",
-                  "category": "museum",
-                  "coords": [
-                        -100.74039,
-                        20.923241
-                  ]
-            },
-            {
-                  "name": "Sienna Galeria",
-                  "text": "O galerie din San Miguel de Allende care expune lucrări ale artiștilor locali.",
-                  "category": "museum",
-                  "coords": [
-                        -100.746487,
-                        20.913938
-                  ]
-            },
-            {
-                  "name": "Ted Davis Galeria",
-                  "text": "O galerie din San Miguel de Allende numită după Ted Davis.",
-                  "category": "museum",
-                  "coords": [
-                        -100.746441,
-                        20.911281
-                  ]
-            },
-            {
                   "name": "Danyel Joy Art",
                   "text": "O galerie din San Miguel de Allende cu arta lui Danyel Joy.",
                   "category": "museum",
                   "coords": [
                         -100.748161,
                         20.90678
-                  ]
-            },
-            {
-                  "name": "Xote",
-                  "text": "Un parc acvatic în San Miguel de Allende cu tobogane și piscine.",
-                  "category": "recreational",
-                  "coords": [
-                        -100.799477,
-                        20.967263
                   ]
             },
             {
@@ -14084,15 +13634,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Teatro Sana Ana",
-                  "text": "Teatro San Ana is a cultural theater in Miguel de Allende.",
-                  "category": "cultural",
-                  "coords": [
-                        -100.74313,
-                        20.916752
-                  ]
-            },
-            {
                   "name": "Kuna Galería",
                   "text": "Kuna Galería is a museum gallery in Miguel de Allende.",
                   "category": "museum",
@@ -14108,15 +13649,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   "coords": [
                         -100.744255,
                         20.914335
-                  ]
-            },
-            {
-                  "name": "Museo la Esquina",
-                  "text": "A museum dedicated to toys and childhood in San Miguel de Allende. (La Esquina is the Mexican Toy Museum.)",
-                  "category": "museum",
-                  "coords": [
-                        -100.740137,
-                        20.914695
                   ]
             },
             {
@@ -14156,15 +13688,6 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Antiguo Acueducto",
-                  "text": "Antiguo Acueducto is a historical ancient aqueduct in Miguel de Allende.",
-                  "category": "historical",
-                  "coords": [
-                        -100.73745,
-                        20.922888
-                  ]
-            },
-            {
                   "name": "La Troje",
                   "text": "La Troje is a cultural venue in Miguel de Allende.",
                   "category": "cultural",
@@ -14192,75 +13715,12 @@ export const poiExtraMexicoHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bag Colorin",
-                  "text": "A gallery in San Miguel de Allende showcasing colorful bags.",
-                  "category": "museum",
-                  "coords": [
-                        -100.742366,
-                        20.918079
-                  ]
-            },
-            {
-                  "name": "Galeria Ascender",
-                  "text": "A gallery in San Miguel de Allende displaying contemporary art.",
-                  "category": "museum",
-                  "coords": [
-                        -100.744243,
-                        20.919042
-                  ]
-            },
-            {
-                  "name": "Juan Zaragoza Gallery",
-                  "text": "A gallery in San Miguel de Allende named after Juan Zaragoza.",
-                  "category": "museum",
-                  "coords": [
-                        -100.742198,
-                        20.921467
-                  ]
-            },
-            {
-                  "name": "La Aurora",
-                  "text": "A gallery in San Miguel de Allende with rotating art exhibitions.",
-                  "category": "museum",
-                  "coords": [
-                        -100.74039,
-                        20.923241
-                  ]
-            },
-            {
-                  "name": "Sienna Galeria",
-                  "text": "A gallery in San Miguel de Allende featuring works by local artists.",
-                  "category": "museum",
-                  "coords": [
-                        -100.746487,
-                        20.913938
-                  ]
-            },
-            {
-                  "name": "Ted Davis Galeria",
-                  "text": "A gallery in San Miguel de Allende named after Ted Davis.",
-                  "category": "museum",
-                  "coords": [
-                        -100.746441,
-                        20.911281
-                  ]
-            },
-            {
                   "name": "Danyel Joy Art",
                   "text": "A gallery in San Miguel de Allende featuring art by Danyel Joy.",
                   "category": "museum",
                   "coords": [
                         -100.748161,
                         20.90678
-                  ]
-            },
-            {
-                  "name": "Xote",
-                  "text": "A water park in San Miguel de Allende with slides and pools.",
-                  "category": "recreational",
-                  "coords": [
-                        -100.799477,
-                        20.967263
                   ]
             },
             {

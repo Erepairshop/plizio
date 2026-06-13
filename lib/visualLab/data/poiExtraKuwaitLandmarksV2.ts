@@ -2505,15 +2505,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
     id: "tareq-rajab-museum-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Tariq Rajab Museum",
-                  "text": "Das Tariq Rajab Museum beherbergt eine umfangreiche Privatsammlung islamischer Kunst, Keramik und exquisiten Schmucks aus dem gesamten Nahen Osten.",
-                  "category": "museum",
-                  "coords": [
-                        48.047192,
-                        29.316956
-                  ]
-            },
-            {
                   "name": "Ibrahim Al-Hajri Mosque",
                   "text": "Nur eine kurze Strecke vom Museumsviertel entfernt, bedient die Ibrahim-Al-Hajri-Moschee die täglichen Gebetsbedürfnisse der lokalen islamischen Gemeinde.",
                   "category": "landmark",
@@ -2605,15 +2596,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Tariq Rajab Museum",
-                  "text": "A Tariq Rajab Múzeum kiterjedt magángyűjteménynek ad otthont az egész Közel-Keletről származó iszlám művészeti alkotásokból, kerámiákból és gyönyörű ékszerekből.",
-                  "category": "museum",
-                  "coords": [
-                        48.047192,
-                        29.316956
-                  ]
-            },
             {
                   "name": "Ibrahim Al-Hajri Mosque",
                   "text": "A múzeumi negyedtől rövid távolságra található Ibrahim Al-Hajri mecset a helyi iszlám közösség napi imaszükségleteit szolgálja.",
@@ -2707,15 +2689,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Tariq Rajab Museum",
-                  "text": "Muzeul Tariq Rajab adăpostește o vastă colecție privată de artă islamică, ceramică și bijuterii rafinate din întregul Orient Mijlociu.",
-                  "category": "museum",
-                  "coords": [
-                        48.047192,
-                        29.316956
-                  ]
-            },
-            {
                   "name": "Ibrahim Al-Hajri Mosque",
                   "text": "Situată la o scurtă distanță de cartierul muzeal, Moscheea Ibrahim Al-Hajri deservește nevoile zilnice de rugăciune ale comunității islamice locale.",
                   "category": "landmark",
@@ -2807,15 +2780,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Tariq Rajab Museum",
-                  "text": "The Tariq Rajab Museum houses an extensive private collection of Islamic art, ceramics, and exquisite jewelry from across the Middle East.",
-                  "category": "museum",
-                  "coords": [
-                        48.047192,
-                        29.316956
-                  ]
-            },
             {
                   "name": "Ibrahim Al-Hajri Mosque",
                   "text": "Located just a short distance from the museum district, the Ibrahim Al-Hajri Mosque serves the local Islamic community's daily prayer needs.",
@@ -3636,15 +3600,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
     id: "marina-crescent-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Imam Zayn Al-Aabideen Mosque",
-                  "text": "Die Zain-al-Abidin-Moschee ist ein markantes Gotteshaus, das für seine auffällige architektonische Präsenz nahe der Küste von Marina Crescent bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        48.079834,
-                        29.326292
-                  ]
-            },
-            {
                   "name": "Bin Salaama Mosque",
                   "text": "Die Bin-Salaama-Moschee bedient mit ihren traditionellen islamischen Gebetssälen die lebhafte Küstengemeinde rund um Marina Crescent.",
                   "category": "landmark",
@@ -3727,15 +3682,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Imam Zayn Al-Aabideen Mosque",
-                  "text": "Az Imam Zayn Al-Aabideen mecset egy kiemelkedő imahely, amely a Marina Crescent partvonala melletti lenyűgöző építészeti jelenlétéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        48.079834,
-                        29.326292
-                  ]
-            },
             {
                   "name": "Bin Salaama Mosque",
                   "text": "A Bin Salaama mecset hagyományos iszlám imatermeivel a Marina Crescentet körülvevő pezsgő partmenti közösséget szolgálja.",
@@ -3820,15 +3766,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Imam Zayn Al-Aabideen Mosque",
-                  "text": "Moscheea Imam Zayn Al-Aabideen este un lăcaș de cult remarcabil, cunoscut pentru prezența sa arhitecturală impresionantă în apropierea coastei Marina Crescent.",
-                  "category": "religious",
-                  "coords": [
-                        48.079834,
-                        29.326292
-                  ]
-            },
-            {
                   "name": "Bin Salaama Mosque",
                   "text": "Moscheea Bin Salaama deservește comunitatea de coastă vibrantă din jurul Marina Crescent cu sălile sale tradiționale de rugăciune islamică.",
                   "category": "landmark",
@@ -3911,15 +3848,6 @@ export const poiExtraKuwaitLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Imam Zayn Al-Aabideen Mosque",
-                  "text": "The Imam Zayn Al-Aabideen Mosque is a prominent place of worship known for its striking architectural presence near the Marina Crescent coastline.",
-                  "category": "religious",
-                  "coords": [
-                        48.079834,
-                        29.326292
-                  ]
-            },
             {
                   "name": "Bin Salaama Mosque",
                   "text": "Bin Salaama Mosque serves the vibrant coastal community surrounding the Marina Crescent with its traditional Islamic prayer halls.",

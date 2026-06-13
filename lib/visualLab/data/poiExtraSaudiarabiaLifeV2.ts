@@ -1266,24 +1266,6 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "`Ayn an Najm",
-                  "text": "Ein historischer Ort mit Schwefelquellen, dessen Ruinen heute von der Bedeutung der Thermalbäder in Al-Ahsa zeugen.",
-                  "category": "historical",
-                  "coords": [
-                        49.558598,
-                        25.406664
-                  ]
-            },
-            {
-                  "name": "Qasr Sahud",
-                  "text": "Eine bedeutende Festung aus dem späten 18. Jahrhundert in Mubarraz, die als Kaserne für das osmanische Militär diente.",
-                  "category": "landmark",
-                  "coords": [
-                        49.583342,
-                        25.414152
-                  ]
-            },
-            {
                   "name": "Sayyidah Zaynab Mosque",
                   "text": "Ein muslimisches Gotteshaus in der Al-Ahsa-Oase, das durch seine verzierten Minarette und die ruhige Gebetsatmosphäre besticht.",
                   "category": "landmark",
@@ -1364,24 +1346,6 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
                   "coords": [
                         49.550005,
                         25.400119
-                  ]
-            },
-            {
-                  "name": "`Ayn an Najm",
-                  "text": "Kénes forrásoknál fekvő történelmi helyszín, amelynek romjai ma az al-ahszái termálfürdők egykori jelentőségéről tanúskodnak.",
-                  "category": "historical",
-                  "coords": [
-                        49.558598,
-                        25.406664
-                  ]
-            },
-            {
-                  "name": "Qasr Sahud",
-                  "text": "Jelentős 18. század végi erőd Mubarrazban, amely egykor az oszmán katonaság laktanyájaként szolgált.",
-                  "category": "landmark",
-                  "coords": [
-                        49.583342,
-                        25.414152
                   ]
             },
             {
@@ -1468,24 +1432,6 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "`Ayn an Najm",
-                  "text": "Un sit istoric cu izvoare sulfuroase, ale cărui ruine atestă astăzi importanța băilor termale din Al-Ahsa.",
-                  "category": "historical",
-                  "coords": [
-                        49.558598,
-                        25.406664
-                  ]
-            },
-            {
-                  "name": "Qasr Sahud",
-                  "text": "O fortăreață importantă de la sfârșitul secolului al XVIII-lea din Mubarraz, care a servit drept cazarmă pentru armata otomană.",
-                  "category": "landmark",
-                  "coords": [
-                        49.583342,
-                        25.414152
-                  ]
-            },
-            {
                   "name": "Sayyidah Zaynab Mosque",
                   "text": "Un lăcaș de cult musulman în oaza Al-Ahsa, remarcat prin minaretele sale decorate și atmosfera liniștită de rugăciune.",
                   "category": "landmark",
@@ -1566,24 +1512,6 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
                   "coords": [
                         49.550005,
                         25.400119
-                  ]
-            },
-            {
-                  "name": "`Ayn an Najm",
-                  "text": "A historic site featuring sulfur springs, whose ruins today testify to the importance of thermal baths in Al-Ahsa.",
-                  "category": "historical",
-                  "coords": [
-                        49.558598,
-                        25.406664
-                  ]
-            },
-            {
-                  "name": "Qasr Sahud",
-                  "text": "A significant late 18th-century fortress in Mubarraz that served as barracks for the Ottoman military.",
-                  "category": "landmark",
-                  "coords": [
-                        49.583342,
-                        25.414152
                   ]
             },
             {
@@ -2292,15 +2220,6 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shubra Palace",
-                  "text": "Ein ehemaliger königlicher Palast mit markanter weißer Fassade und filigranen Holzschnitzereien.",
-                  "category": "museum",
-                  "coords": [
-                        40.415207,
-                        21.2862
-                  ]
-            },
-            {
                   "name": "Msjd Alkw'e",
                   "text": "Die historische Al-Kua-Moschee ist bekannt für den Stein, der an eine Rast des Propheten erinnern soll.",
                   "category": "landmark",
@@ -2354,15 +2273,6 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
                   "coords": [
                         40.355619,
                         21.329951
-                  ]
-            },
-            {
-                  "name": "Shubra Palace",
-                  "text": "Egykori királyi palota jellegzetes fehér homlokzattal és finom fafaragásokkal.",
-                  "category": "museum",
-                  "coords": [
-                        40.415207,
-                        21.2862
                   ]
             },
             {
@@ -2422,15 +2332,6 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shubra Palace",
-                  "text": "Un fost palat regal cu o fațadă albă distinctivă și sculpturi detaliate în lemn.",
-                  "category": "museum",
-                  "coords": [
-                        40.415207,
-                        21.2862
-                  ]
-            },
-            {
                   "name": "Msjd Alkw'e",
                   "text": "Istorica moschee Al-Kua este cunoscută pentru piatra care se spune că amintește de un moment de odihnă al profetului.",
                   "category": "landmark",
@@ -2484,15 +2385,6 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
                   "coords": [
                         40.355619,
                         21.329951
-                  ]
-            },
-            {
-                  "name": "Shubra Palace",
-                  "text": "A former royal residence featuring a distinctive white facade and intricate wooden lattice work.",
-                  "category": "museum",
-                  "coords": [
-                        40.415207,
-                        21.2862
                   ]
             },
             {
@@ -3318,24 +3210,6 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Hokair Time",
-                  "text": "Ein beliebter Familienfreizeitpark mit Fahrgeschäften, Spielen und Indoor-Unterhaltung in Taif.",
-                  "category": "recreational",
-                  "coords": [
-                        40.414947,
-                        21.245603
-                  ]
-            },
-            {
-                  "name": "Abdullah Ibn Abbas Mosque",
-                  "text": "Eine der historischsten Moscheen von Taif, die das Grab des Prophetengefährten Ibn Abbas beherbergt.",
-                  "category": "religious",
-                  "coords": [
-                        40.408425,
-                        21.27037
-                  ]
-            },
-            {
                   "name": "Msajid Khulafa al Rashdeen",
                   "text": "Eine moderne Moschee in Taif, gewidmet den rechtgeleiteten Kalifen des Islam.",
                   "category": "landmark",
@@ -3369,15 +3243,6 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
                   "coords": [
                         40.41163,
                         21.262791
-                  ]
-            },
-            {
-                  "name": "Al-Madhoun Mosque",
-                  "text": "Diese 1846 erbaute Moschee zeichnet sich durch ihr einzigartiges zylindrisches Minarett aus.",
-                  "category": "landmark",
-                  "coords": [
-                        40.391346,
-                        21.256103
                   ]
             }
       ],
@@ -3419,24 +3284,6 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Hokair Time",
-                  "text": "Népszerű családi szórakoztató központ vidámparki játékokkal és beltéri kikapcsolódási lehetőségekkel Taifban.",
-                  "category": "recreational",
-                  "coords": [
-                        40.414947,
-                        21.245603
-                  ]
-            },
-            {
-                  "name": "Abdullah Ibn Abbas Mosque",
-                  "text": "Taif egyik legtörténelmibb mecsete, amely a próféta társa, Ibn Abbász sírját őrzi.",
-                  "category": "religious",
-                  "coords": [
-                        40.408425,
-                        21.27037
-                  ]
-            },
-            {
                   "name": "Msajid Khulafa al Rashdeen",
                   "text": "Modern mecset Taifban, amelyet az iszlám igaz úton járó kalifáinak szenteltek.",
                   "category": "landmark",
@@ -3470,15 +3317,6 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
                   "coords": [
                         40.41163,
                         21.262791
-                  ]
-            },
-            {
-                  "name": "Al-Madhoun Mosque",
-                  "text": "Ez az 1846-ban épült mecset az egyedülálló hengeres minaretjéről nevezetes.",
-                  "category": "landmark",
-                  "coords": [
-                        40.391346,
-                        21.256103
                   ]
             }
       ],
@@ -3520,24 +3358,6 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Hokair Time",
-                  "text": "Un centru popular de divertisment pentru familii, cu atracții, jocuri și divertisment interior în Taif.",
-                  "category": "recreational",
-                  "coords": [
-                        40.414947,
-                        21.245603
-                  ]
-            },
-            {
-                  "name": "Abdullah Ibn Abbas Mosque",
-                  "text": "Una dintre cele mai istorice moschei din Taif, care adăpostește mormântul însoțitorului profetului, Ibn Abbas.",
-                  "category": "religious",
-                  "coords": [
-                        40.408425,
-                        21.27037
-                  ]
-            },
-            {
                   "name": "Msajid Khulafa al Rashdeen",
                   "text": "O moschee modernă din Taif, dedicată califilor drept-călăuziți ai islamului.",
                   "category": "landmark",
@@ -3571,15 +3391,6 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
                   "coords": [
                         40.41163,
                         21.262791
-                  ]
-            },
-            {
-                  "name": "Al-Madhoun Mosque",
-                  "text": "Această moschee construită în 1846 se remarcă prin minaretul său cilindric unic.",
-                  "category": "landmark",
-                  "coords": [
-                        40.391346,
-                        21.256103
                   ]
             }
       ],
@@ -3621,24 +3432,6 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Hokair Time",
-                  "text": "A popular family entertainment center featuring rides, games, and indoor entertainment in Taif.",
-                  "category": "recreational",
-                  "coords": [
-                        40.414947,
-                        21.245603
-                  ]
-            },
-            {
-                  "name": "Abdullah Ibn Abbas Mosque",
-                  "text": "One of Taif's most historic mosques, housing the tomb of the Prophet's companion Ibn Abbas.",
-                  "category": "religious",
-                  "coords": [
-                        40.408425,
-                        21.27037
-                  ]
-            },
-            {
                   "name": "Msajid Khulafa al Rashdeen",
                   "text": "A modern mosque in Taif dedicated to the Rashidun Caliphs of Islam.",
                   "category": "landmark",
@@ -3672,15 +3465,6 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
                   "coords": [
                         40.41163,
                         21.262791
-                  ]
-            },
-            {
-                  "name": "Al-Madhoun Mosque",
-                  "text": "Built in 1846, this mosque is notable for its unique cylindrical minaret.",
-                  "category": "landmark",
-                  "coords": [
-                        40.391346,
-                        21.256103
                   ]
             }
       ]

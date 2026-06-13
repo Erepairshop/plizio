@@ -282,15 +282,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Szcientológia Egyház Központi Szervezet",
-                  "text": "Das Zentrale Organ der Kirche der Scientology in Óbuda wurde am 23. Juli 2016 eröffnet.",
-                  "category": "religious",
-                  "coords": [
-                        19.074823,
-                        47.552
-                  ]
-            },
-            {
                   "name": "Margaretenkirche",
                   "text": "Eine Kirche in Óbuda, die der Heiligen Margareta von Ungarn gewidmet ist.",
                   "category": "religious",
@@ -534,15 +525,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Szent Mihály-templom",
-                  "text": "Barocke römisch-katholische Kirche in der Altstadt von Óbuda.",
-                  "category": "religious",
-                  "coords": [
-                        19.077039,
-                        47.547224
-                  ]
-            },
-            {
                   "name": "Szépvölgyi úti körmeneti kápolna",
                   "text": "Eine denkmalgeschützte Prozessionskapelle von 1854, entworfen von Knabe Ignác.",
                   "category": "religious",
@@ -648,15 +630,6 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.068964,
                         47.522919
-                  ]
-            },
-            {
-                  "name": "Római Strandfürdő",
-                  "text": "Ein Wasserpark in Óbuda mit historischem Flair und vielen Becken.",
-                  "category": "family",
-                  "coords": [
-                        19.052551,
-                        47.575332
                   ]
             },
             {
@@ -941,15 +914,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Szcientológia Egyház Központi Szervezet",
-                  "text": "A Szcientológia Egyház Központi Szervezete Óbudán 2016. július 23-án nyílt meg.",
-                  "category": "religious",
-                  "coords": [
-                        19.074823,
-                        47.552
-                  ]
-            },
-            {
                   "name": "Szent Margit-templom",
                   "text": "Egy templom Óbudán, amelyet Árpád-házi Szent Margitnak szenteltek.",
                   "category": "religious",
@@ -1193,15 +1157,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Szent Mihály-templom",
-                  "text": "Barokk római katolikus templom Óbuda óvárosában.",
-                  "category": "religious",
-                  "coords": [
-                        19.077039,
-                        47.547224
-                  ]
-            },
-            {
                   "name": "Szépvölgyi úti körmeneti kápolna",
                   "text": "Knabe Ignác által 1854-ben tervezett, védett körmeneti kápolna.",
                   "category": "religious",
@@ -1307,15 +1262,6 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.068964,
                         47.522919
-                  ]
-            },
-            {
-                  "name": "Római Strandfürdő",
-                  "text": "Római strandfürdő Óbudán, történelmi hangulattal és számos medencével.",
-                  "category": "family",
-                  "coords": [
-                        19.052551,
-                        47.575332
                   ]
             },
             {
@@ -1600,15 +1546,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Szcientológia Egyház Központi Szervezet",
-                  "text": "Organizația Centrală a Bisericii Scientologice din Óbuda s-a deschis pe 23 iulie 2016.",
-                  "category": "religious",
-                  "coords": [
-                        19.074823,
-                        47.552
-                  ]
-            },
-            {
                   "name": "Szent Margit-templom",
                   "text": "O biserică în Óbuda dedicată Sfintei Margareta a Ungariei.",
                   "category": "religious",
@@ -1852,15 +1789,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Szent Mihály-templom",
-                  "text": "Biserică romano-catolică barocă în centrul istoric al Óbudei.",
-                  "category": "religious",
-                  "coords": [
-                        19.077039,
-                        47.547224
-                  ]
-            },
-            {
                   "name": "Szépvölgyi úti körmeneti kápolna",
                   "text": "O capelă de procesiune din 1854, protejată, proiectată de Knabe Ignác.",
                   "category": "religious",
@@ -1966,15 +1894,6 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.068964,
                         47.522919
-                  ]
-            },
-            {
-                  "name": "Római Strandfürdő",
-                  "text": "Un parc acvatic în Óbuda cu un aer istoric și multe piscine.",
-                  "category": "family",
-                  "coords": [
-                        19.052551,
-                        47.575332
                   ]
             },
             {
@@ -2259,15 +2178,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Szcientológia Egyház Központi Szervezet",
-                  "text": "The Church of Scientology Central Organization in Óbuda opened on 23 July 2016.",
-                  "category": "religious",
-                  "coords": [
-                        19.074823,
-                        47.552
-                  ]
-            },
-            {
                   "name": "Szent Margit-templom",
                   "text": "A church in Óbuda dedicated to Saint Margaret of Hungary.",
                   "category": "religious",
@@ -2511,15 +2421,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Szent Mihály-templom",
-                  "text": "Baroque Roman Catholic church in Óbuda's old town.",
-                  "category": "religious",
-                  "coords": [
-                        19.077039,
-                        47.547224
-                  ]
-            },
-            {
                   "name": "Szépvölgyi úti körmeneti kápolna",
                   "text": "A Grade II historic processional chapel from 1854 designed by Knabe Ignác.",
                   "category": "religious",
@@ -2625,15 +2526,6 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.068964,
                         47.522919
-                  ]
-            },
-            {
-                  "name": "Római Strandfürdő",
-                  "text": "A water park in Óbuda with historical flair and many pools.",
-                  "category": "family",
-                  "coords": [
-                        19.052551,
-                        47.575332
                   ]
             },
             {
@@ -2930,24 +2822,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Sziget Fesztivál",
-                  "text": "Eines der größten Musikfestivals Europas, das jährlich auf der Obuda-Insel stattfindet.",
-                  "category": "landmark",
-                  "coords": [
-                        19.054324,
-                        47.553129
-                  ]
-            },
-            {
-                  "name": "FOKA-öböl",
-                  "text": "Eine Bucht an der Donau, die als Erholungsgebiet und Hafen dient.",
-                  "category": "landmark",
-                  "coords": [
-                        19.06467,
-                        47.544453
-                  ]
-            },
-            {
                   "name": "Magyar Autóklub",
                   "text": "Das Dienstleistungszentrum des ungarischen Automobilclubs in Budapest.",
                   "category": "landmark",
@@ -3083,15 +2957,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Tours-i Szent Márton-templom",
-                  "text": "Ein moderner römisch-katholischer Kirchenkomplex im Stadtteil Angyalföld.",
-                  "category": "religious",
-                  "coords": [
-                        19.069408,
-                        47.537646
-                  ]
-            },
-            {
                   "name": "Szent István-templom",
                   "text": "Katholische Pfarrkirche, dem heiligen Stephan geweiht, in Újpest.",
                   "category": "religious",
@@ -3128,42 +2993,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "tanmedence",
-                  "text": "Ein Übungsbecken in Újpest zur Verbesserung der Schwimmkenntnisse.",
-                  "category": "family",
-                  "coords": [
-                        19.062414,
-                        47.541088
-                  ]
-            },
-            {
-                  "name": "Wildgarten",
-                  "text": "Ein kleiner Tierpark in Újpest für tierische Erlebnisse mit Kindern.",
-                  "category": "family",
-                  "coords": [
-                        19.050224,
-                        47.52586
-                  ]
-            },
-            {
-                  "name": "Úszómedence",
-                  "text": "Schwimmbecken in Újpest.",
-                  "category": "family",
-                  "coords": [
-                        19.046689,
-                        47.528703
-                  ]
-            },
-            {
-                  "name": "Honvéd uszoda",
-                  "text": "Ein Hallenbad in Újpest für regelmäßige sportliche Aktivitäten.",
-                  "category": "family",
-                  "coords": [
-                        19.068964,
-                        47.522919
-                  ]
-            },
-            {
                   "name": "Paskál Gyógy- és Strandfürdő",
                   "text": "Ein Thermal- und Strandbad in Újpest für Entspannung und Gesundheit.",
                   "category": "family",
@@ -3179,15 +3008,6 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.052551,
                         47.575332
-                  ]
-            },
-            {
-                  "name": "Hullámmedence",
-                  "text": "Wellenbad in Újpest.",
-                  "category": "family",
-                  "coords": [
-                        19.046017,
-                        47.527625
                   ]
             },
             {
@@ -3227,39 +3047,12 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Termál",
-                  "text": "Ein Thermalbecken in Újpest zum entspannten Baden im warmen Wasser.",
-                  "category": "family",
-                  "coords": [
-                        19.05749,
-                        47.534048
-                  ]
-            },
-            {
-                  "name": "Haifischschule",
-                  "text": "Ein Aquarium in Újpest, das Einblicke in die faszinierende Unterwasserwelt bietet.",
-                  "category": "family",
-                  "coords": [
-                        19.08071,
-                        47.519954
-                  ]
-            },
-            {
                   "name": "Csillaghegyi Árpád Forrásfürdő és Székely Éva Uszoda",
                   "text": "Ein traditionsreiches Bad in Újpest für Wellness und sportliches Schwimmen.",
                   "category": "family",
                   "coords": [
                         19.040927,
                         47.584538
-                  ]
-            },
-            {
-                  "name": "versenymedence",
-                  "text": "Ein Wettbewerbsbecken in Újpest für professionelles Schwimmtraining.",
-                  "category": "family",
-                  "coords": [
-                        19.060951,
-                        47.541033
                   ]
             }
       ],
@@ -3466,24 +3259,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Sziget Fesztivál",
-                  "text": "Európa egyik legnagyobb zenei fesztiválja, amelyet évente az Óbudai-szigeten rendeznek meg.",
-                  "category": "landmark",
-                  "coords": [
-                        19.054324,
-                        47.553129
-                  ]
-            },
-            {
-                  "name": "FOKA-öböl",
-                  "text": "A Duna menti öböl, amely üdülőhelyként és kikötőként szolgál.",
-                  "category": "landmark",
-                  "coords": [
-                        19.06467,
-                        47.544453
-                  ]
-            },
-            {
                   "name": "Magyar Autóklub",
                   "text": "A Magyar Autóklub szolgáltató központja és székháza Budapesten.",
                   "category": "landmark",
@@ -3619,15 +3394,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Tours-i Szent Márton-templom",
-                  "text": "Modern római katolikus templomegyüttes Angyalföld városrészben.",
-                  "category": "religious",
-                  "coords": [
-                        19.069408,
-                        47.537646
-                  ]
-            },
-            {
                   "name": "Szent István-templom",
                   "text": "Szent Istvánnak szentelt katolikus plébániatemplom Újpesten.",
                   "category": "religious",
@@ -3664,42 +3430,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "tanmedence",
-                  "text": "Tanmedence Újpesten az úszástudás fejlesztésére.",
-                  "category": "family",
-                  "coords": [
-                        19.062414,
-                        47.541088
-                  ]
-            },
-            {
-                  "name": "Margitszigeti Kisállatkert",
-                  "text": "Mini állatkert Újpesten állatos élményekkel a legkisebbeknek.",
-                  "category": "family",
-                  "coords": [
-                        19.050224,
-                        47.52586
-                  ]
-            },
-            {
-                  "name": "Úszómedence",
-                  "text": "Úszómedence Újpesten.",
-                  "category": "family",
-                  "coords": [
-                        19.046689,
-                        47.528703
-                  ]
-            },
-            {
-                  "name": "Honvéd uszoda",
-                  "text": "Honvéd uszoda Újpesten rendszeres sportolási lehetőségekkel.",
-                  "category": "family",
-                  "coords": [
-                        19.068964,
-                        47.522919
-                  ]
-            },
-            {
                   "name": "Paskál Gyógy- és Strandfürdő",
                   "text": "Paskál Gyógy- és Strandfürdő Újpesten pihenésre és gyógyulásra.",
                   "category": "family",
@@ -3715,15 +3445,6 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.052551,
                         47.575332
-                  ]
-            },
-            {
-                  "name": "Hullámmedence",
-                  "text": "Hullámmedence Újpesten.",
-                  "category": "family",
-                  "coords": [
-                        19.046017,
-                        47.527625
                   ]
             },
             {
@@ -3763,39 +3484,12 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Termál",
-                  "text": "Termálmedence Újpesten kellemes pihenést nyújt a meleg vízben.",
-                  "category": "family",
-                  "coords": [
-                        19.05749,
-                        47.534048
-                  ]
-            },
-            {
-                  "name": "Cápasuli",
-                  "text": "Shark School akvárium Újpesten betekintést nyújt a vízi világba.",
-                  "category": "family",
-                  "coords": [
-                        19.08071,
-                        47.519954
-                  ]
-            },
-            {
                   "name": "Csillaghegyi Árpád Forrásfürdő és Székely Éva Uszoda",
                   "text": "Klasszikus fürdő és uszoda Újpesten pihenésre és sportolásra.",
                   "category": "family",
                   "coords": [
                         19.040927,
                         47.584538
-                  ]
-            },
-            {
-                  "name": "versenymedence",
-                  "text": "Versenymedence Újpesten profi úszóedzésekhez és versenyekhez.",
-                  "category": "family",
-                  "coords": [
-                        19.060951,
-                        47.541033
                   ]
             }
       ],
@@ -4002,24 +3696,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Sziget Fesztivál",
-                  "text": "Unul dintre cele mai mari festivaluri de muzică din Europa, desfășurat anual pe insula Obuda.",
-                  "category": "landmark",
-                  "coords": [
-                        19.054324,
-                        47.553129
-                  ]
-            },
-            {
-                  "name": "FOKA-öböl",
-                  "text": "Un golf de-a lungul Dunării care servește ca zonă de recreere și port.",
-                  "category": "landmark",
-                  "coords": [
-                        19.06467,
-                        47.544453
-                  ]
-            },
-            {
                   "name": "Magyar Autóklub",
                   "text": "Centrul de servicii și sediul Clubului Auto Maghiar din Budapesta.",
                   "category": "landmark",
@@ -4155,15 +3831,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Tours-i Szent Márton-templom",
-                  "text": "Un complex modern de biserică romano-catolică în cartierul Angyalföld.",
-                  "category": "religious",
-                  "coords": [
-                        19.069408,
-                        47.537646
-                  ]
-            },
-            {
                   "name": "Szent István-templom",
                   "text": "Biserică parohială catolică dedicată Sfântului Ștefan în Újpest.",
                   "category": "religious",
@@ -4200,42 +3867,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "tanmedence",
-                  "text": "O piscină de antrenament în Újpest pentru îmbunătățirea abilităților de înot.",
-                  "category": "family",
-                  "coords": [
-                        19.062414,
-                        47.541088
-                  ]
-            },
-            {
-                  "name": "Margitszigeti Kisállatkert",
-                  "text": "O mică grădină zoologică în Újpest pentru experiențe cu animale pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        19.050224,
-                        47.52586
-                  ]
-            },
-            {
-                  "name": "Úszómedence",
-                  "text": "Bazin de înot în Újpest.",
-                  "category": "family",
-                  "coords": [
-                        19.046689,
-                        47.528703
-                  ]
-            },
-            {
-                  "name": "Honvéd uszoda",
-                  "text": "O piscină acoperită în Újpest pentru activități sportive regulate.",
-                  "category": "family",
-                  "coords": [
-                        19.068964,
-                        47.522919
-                  ]
-            },
-            {
                   "name": "Paskál Gyógy- és Strandfürdő",
                   "text": "O baie termală și de plajă în Újpest pentru relaxare și sănătate.",
                   "category": "family",
@@ -4251,15 +3882,6 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.052551,
                         47.575332
-                  ]
-            },
-            {
-                  "name": "Hullámmedence",
-                  "text": "Bazin cu valuri în Újpest.",
-                  "category": "family",
-                  "coords": [
-                        19.046017,
-                        47.527625
                   ]
             },
             {
@@ -4299,39 +3921,12 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Termál",
-                  "text": "O piscină termală în Újpest pentru relaxare în apă caldă.",
-                  "category": "family",
-                  "coords": [
-                        19.05749,
-                        47.534048
-                  ]
-            },
-            {
-                  "name": "Cápasuli",
-                  "text": "Un acvariu în Újpest care oferă o privire în lumea subvatică fascinantă.",
-                  "category": "family",
-                  "coords": [
-                        19.08071,
-                        47.519954
-                  ]
-            },
-            {
                   "name": "Csillaghegyi Árpád Forrásfürdő és Székely Éva Uszoda",
                   "text": "O baie tradițională în Újpest pentru wellness și înot sportiv.",
                   "category": "family",
                   "coords": [
                         19.040927,
                         47.584538
-                  ]
-            },
-            {
-                  "name": "versenymedence",
-                  "text": "O piscină de competiție în Újpest pentru antrenament profesional.",
-                  "category": "family",
-                  "coords": [
-                        19.060951,
-                        47.541033
                   ]
             }
       ],
@@ -4538,24 +4133,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Sziget Festival",
-                  "text": "One of Europe's largest music festivals, held annually on Obuda Island.",
-                  "category": "landmark",
-                  "coords": [
-                        19.054324,
-                        47.553129
-                  ]
-            },
-            {
-                  "name": "FOKA-öböl",
-                  "text": "A bay along the Danube serving as a recreational area and harbor.",
-                  "category": "landmark",
-                  "coords": [
-                        19.06467,
-                        47.544453
-                  ]
-            },
-            {
                   "name": "Magyar Autóklub",
                   "text": "The service center and headquarters of the Hungarian Auto Club in Budapest.",
                   "category": "landmark",
@@ -4691,15 +4268,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Tours-i Szent Márton-templom",
-                  "text": "A modern Roman Catholic church complex in the Angyalföld district.",
-                  "category": "religious",
-                  "coords": [
-                        19.069408,
-                        47.537646
-                  ]
-            },
-            {
                   "name": "Szent István-templom",
                   "text": "Catholic parish church dedicated to St. Stephen in Újpest.",
                   "category": "religious",
@@ -4736,42 +4304,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "tanmedence",
-                  "text": "A training pool in Újpest for improving swimming skills.",
-                  "category": "family",
-                  "coords": [
-                        19.062414,
-                        47.541088
-                  ]
-            },
-            {
-                  "name": "Mini Zoo",
-                  "text": "A small zoo in Újpest for animal experiences with children.",
-                  "category": "family",
-                  "coords": [
-                        19.050224,
-                        47.52586
-                  ]
-            },
-            {
-                  "name": "Úszómedence",
-                  "text": "Swimming pool in Újpest.",
-                  "category": "family",
-                  "coords": [
-                        19.046689,
-                        47.528703
-                  ]
-            },
-            {
-                  "name": "Honvéd uszoda",
-                  "text": "An indoor pool in Újpest for regular sporting activities.",
-                  "category": "family",
-                  "coords": [
-                        19.068964,
-                        47.522919
-                  ]
-            },
-            {
                   "name": "Paskál Gyógy- és Strandfürdő",
                   "text": "A thermal and beach bath in Újpest for relaxation and health.",
                   "category": "family",
@@ -4787,15 +4319,6 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.052551,
                         47.575332
-                  ]
-            },
-            {
-                  "name": "Wave pool",
-                  "text": "Wave pool in Újpest.",
-                  "category": "family",
-                  "coords": [
-                        19.046017,
-                        47.527625
                   ]
             },
             {
@@ -4835,39 +4358,12 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Termál",
-                  "text": "A thermal pool in Újpest for relaxed bathing in warm water.",
-                  "category": "family",
-                  "coords": [
-                        19.05749,
-                        47.534048
-                  ]
-            },
-            {
-                  "name": "Shark School",
-                  "text": "An aquarium in Újpest providing insights into the fascinating underwater world.",
-                  "category": "family",
-                  "coords": [
-                        19.08071,
-                        47.519954
-                  ]
-            },
-            {
                   "name": "Csillaghegyi Árpád Forrásfürdő és Székely Éva Uszoda",
                   "text": "A traditional bath in Újpest for wellness and sports swimming.",
                   "category": "family",
                   "coords": [
                         19.040927,
                         47.584538
-                  ]
-            },
-            {
-                  "name": "versenymedence",
-                  "text": "A competition pool in Újpest for professional swimming training.",
-                  "category": "family",
-                  "coords": [
-                        19.060951,
-                        47.541033
                   ]
             }
       ]
@@ -8504,17 +8000,6 @@ export const poiExtraHu1: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Bahnhof Füzesabony",
-                  "text": "Eines der schönsten historischen Bahnhofsgebäude Ungarns, entworfen von dem berühmten Architekten Ferenc Pfaff. Die prächtige Ziegelarchitektur zeugt von der Bedeutung der Stadt als Verkehrsknotenpunkt.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "source_hint": "wiki",
-                  "coords": [
-                        20.412697,
-                        47.750706
-                  ]
-            },
-            {
                   "name": "Artesischer Brunnen",
                   "text": "Dieser Brunnen aus dem Jahr 1930 ist ein wichtiges lokales Denkmal und ein Treffpunkt im Stadtzentrum.",
                   "category": "civic",
@@ -8640,17 +8125,6 @@ export const poiExtraHu1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Gara Füzesabony",
-                  "text": "Proiectată de celebrul arhitect Ferenc Pfaff, clădirea este una dintre cele mai frumoase monumente feroviare din Ungaria. Arhitectura sa din cărămidă decorativă este impresionantă.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "source_hint": "wiki",
-                  "coords": [
-                        20.412697,
-                        47.750706
-                  ]
-            },
-            {
                   "name": "Fântâna arteziană",
                   "text": "O fântână datând din 1930, care servește ca punct de întâlnire popular și monument istoric în centrul orașului.",
                   "category": "civic",
@@ -8707,17 +8181,6 @@ export const poiExtraHu1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Füzesabony Railway Station",
-                  "text": "One of Hungary's most beautiful historic railway stations, designed by the renowned architect Ferenc Pfaff. Its ornate brickwork reflects the town's importance as a regional hub.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "source_hint": "wiki",
-                  "coords": [
-                        20.412697,
-                        47.750706
-                  ]
-            },
             {
                   "name": "Artesian Well",
                   "text": "An artesian well established in 1930, serving as a popular local landmark and meeting point in the city center.",
@@ -10073,17 +9536,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Bergbaumuseum Oroszlány",
-                  "text": "Das Museum befindet sich am ehemaligen Schacht XVI und präsentiert die reiche Bergbaugeschichte der Region. Besucher können originale Maschinen, Werkzeuge und die Arbeitsbedingungen der Bergleute in den ehemaligen Kohleminen besichtigen.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "source_hint": "known",
-                  "coords": [
-                        18.341125,
-                        47.491186
-                  ]
-            },
-            {
                   "name": "St.-Stephans-Kirche",
                   "text": "Eine katholische Kirche im modernen Zentrum der Stadt, die ein wichtiger Ort für das Gemeinschaftsleben der Gläubigen ist. Der Innenraum ist mit modernen Kunstwerken geschmückt.",
                   "category": "civic",
@@ -10138,17 +9590,6 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         18.338765,
                         47.498203
-                  ]
-            },
-            {
-                  "name": "Oroszlányi Bányászati Múzeum",
-                  "text": "A város egykori XVI-os aknájának területén kialakított kiállítóhely, amely a helyi szénbányászat emlékeit őrzi. A látogatók megtekinthetik az eredeti bányagépeket, szerszámokat és a bányászok egykori munkakörülményeit bemutató tárlatokat.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "source_hint": "known",
-                  "coords": [
-                        18.341125,
-                        47.491186
                   ]
             },
             {
@@ -10209,17 +9650,6 @@ export const poiExtraHu1: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeul Mineritului din Oroszlány",
-                  "text": "Situat în incinta fostei mine XVI, muzeul prezintă istoria bogată a exploatării cărbunelui din regiune. Vizitatorii pot vedea utilaje originale, unelte și expoziții care detaliază viața și munca dificilă a minerilor locali.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "source_hint": "known",
-                  "coords": [
-                        18.341125,
-                        47.491186
-                  ]
-            },
-            {
                   "name": "Biserica Sfântul Ștefan",
                   "text": "O biserică catolică situată în centrul modern al orașului, un loc important pentru viața comunitară a credincioșilor. Interiorul clădirii este decorat cu opere de artă modernă.",
                   "category": "civic",
@@ -10274,17 +9704,6 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         18.338765,
                         47.498203
-                  ]
-            },
-            {
-                  "name": "Oroszlány Mining Museum",
-                  "text": "Located at the former shaft XVI, this museum preserves the memories of the local coal mining industry. Visitors can explore original mining machinery, tools, and exhibitions depicting the daily lives and working conditions of miners.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "source_hint": "known",
-                  "coords": [
-                        18.341125,
-                        47.491186
                   ]
             },
             {

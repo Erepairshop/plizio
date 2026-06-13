@@ -3951,30 +3951,12 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gayasan Mt.",
-                  "text": "Der Berg Gayasan ist ein markanter Gipfel, dessen steile Hänge Wanderwege bieten.",
-                  "category": "natural",
-                  "coords": [
-                        127.698421,
-                        34.963976
-                  ]
-            },
-            {
                   "name": "Okgok",
                   "text": "Okgok ist eine lokale Attraktion, die die Geschichte und Kultur der umliegenden Region widerspiegelt.",
                   "category": "landmark",
                   "coords": [
                         127.694942,
                         34.989711
-                  ]
-            },
-            {
-                  "name": "Gwangyang Young Culture Center",
-                  "text": "Das Gwangyang Young Culture Center ist eine Kunsteinrichtung, die speziell auf die kreative Entwicklung junger Menschen ausgerichtet ist.",
-                  "category": "cultural",
-                  "coords": [
-                        127.690895,
-                        34.937287
                   ]
             },
             {
@@ -4034,30 +4016,12 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gayasan Mt.",
-                  "text": "A Gayasan-hegy egy kiemelkedő csúcs, amelynek meredek lejtői túraútvonalakat kínálnak.",
-                  "category": "natural",
-                  "coords": [
-                        127.698421,
-                        34.963976
-                  ]
-            },
-            {
                   "name": "Okgok",
                   "text": "Okgok egy helyi látványosság, amely tükrözi a környező régió történelmét és kultúráját.",
                   "category": "landmark",
                   "coords": [
                         127.694942,
                         34.989711
-                  ]
-            },
-            {
-                  "name": "Gwangyang Young Culture Center",
-                  "text": "A Gwangyang Young Culture Center egy művészeti létesítmény, amely kifejezetten a fiatalok kreatív fejlődésére összpontosít.",
-                  "category": "cultural",
-                  "coords": [
-                        127.690895,
-                        34.937287
                   ]
             },
             {
@@ -4117,30 +4081,12 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gayasan Mt.",
-                  "text": "Muntele Gayasan este un vârf proeminent ale cărui pante abrupte oferă trasee de drumeție.",
-                  "category": "natural",
-                  "coords": [
-                        127.698421,
-                        34.963976
-                  ]
-            },
-            {
                   "name": "Okgok",
                   "text": "Okgok este o atracție locală ce reflectă istoria și cultura regiunii înconjurătoare.",
                   "category": "landmark",
                   "coords": [
                         127.694942,
                         34.989711
-                  ]
-            },
-            {
-                  "name": "Gwangyang Young Culture Center",
-                  "text": "Gwangyang Young Culture Center este o instituție de artă orientată spre dezvoltarea creativă a tinerilor.",
-                  "category": "cultural",
-                  "coords": [
-                        127.690895,
-                        34.937287
                   ]
             },
             {
@@ -4200,30 +4146,12 @@ export const poiExtraSouthkoreaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gayasan Mt.",
-                  "text": "Gayasan Mt. is a prominent peak whose steep slopes offer hiking paths.",
-                  "category": "natural",
-                  "coords": [
-                        127.698421,
-                        34.963976
-                  ]
-            },
-            {
                   "name": "Okgok",
                   "text": "Okgok is a local attraction reflecting the history and culture of the surrounding region.",
                   "category": "landmark",
                   "coords": [
                         127.694942,
                         34.989711
-                  ]
-            },
-            {
-                  "name": "Gwangyang Young Culture Center",
-                  "text": "Gwangyang Young Culture Center is an arts facility geared towards youth creative development.",
-                  "category": "cultural",
-                  "coords": [
-                        127.690895,
-                        34.937287
                   ]
             },
             {

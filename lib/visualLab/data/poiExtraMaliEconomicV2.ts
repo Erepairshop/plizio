@@ -750,15 +750,6 @@ export const poiExtraMaliEconomicV2: POI[] = [
                         -5.442186,
                         12.351848
                   ]
-            },
-            {
-                  "name": "Salle de Spectacle",
-                  "text": "Dieses Kunstzentrum dient als Veranstaltungsort für die Gemeinde rund um die Baumwollspinnerei in Koutiala.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.465174,
-                        12.386641
-                  ]
             }
       ],
       "hu": [
@@ -778,15 +769,6 @@ export const poiExtraMaliEconomicV2: POI[] = [
                   "coords": [
                         -5.442186,
                         12.351848
-                  ]
-            },
-            {
-                  "name": "Salle de Spectacle",
-                  "text": "Ez a művészeti központ szórakozóhelyként szolgál a koutialai gyapotüzem környékén élő közösség számára.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.465174,
-                        12.386641
                   ]
             }
       ],
@@ -808,15 +790,6 @@ export const poiExtraMaliEconomicV2: POI[] = [
                         -5.442186,
                         12.351848
                   ]
-            },
-            {
-                  "name": "Salle de Spectacle",
-                  "text": "Acest centru de arte servește drept loc de divertisment pentru comunitatea din jurul fabricii de bumbac din Koutiala.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.465174,
-                        12.386641
-                  ]
             }
       ],
       "en": [
@@ -836,15 +809,6 @@ export const poiExtraMaliEconomicV2: POI[] = [
                   "coords": [
                         -5.442186,
                         12.351848
-                  ]
-            },
-            {
-                  "name": "Salle de Spectacle",
-                  "text": "This arts centre serves as an entertainment venue for the community around the Koutiala cotton plant.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.465174,
-                        12.386641
                   ]
             }
       ]

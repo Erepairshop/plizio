@@ -429,30 +429,12 @@ export const poiExtraUaeEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Karcher FZE",
-                  "text": "Der regionale Hauptsitz des deutschen Marktführers für Reinigungsgeräte, gelegen im Herzen der Freizone Jebel Ali.",
-                  "category": "landmark",
-                  "coords": [
-                        55.09467,
-                        24.961248
-                  ]
-            },
-            {
                   "name": "Essentra FZE",
                   "text": "Eine große Produktionsstätte in Jebel Ali, die wichtige Industriekomponenten und Filter für den weltweiten Export herstellt.",
                   "category": "landmark",
                   "coords": [
                         55.08568,
                         24.955928
-                  ]
-            },
-            {
-                  "name": "BK gulf office",
-                  "text": "Ein Aussichtspunkt mit Blick auf das Industriegebiet Jebel Ali und den Persischen Golf.",
-                  "category": "natural",
-                  "coords": [
-                        55.108277,
-                        24.995259
                   ]
             },
             {
@@ -602,30 +584,12 @@ export const poiExtraUaeEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Karcher FZE",
-                  "text": "A német takarítóeszköz-gyártó regionális központja, amely a Jebel Ali szabadövezet szívében található.",
-                  "category": "landmark",
-                  "coords": [
-                        55.09467,
-                        24.961248
-                  ]
-            },
-            {
                   "name": "Essentra FZE",
                   "text": "Nagyszabású gyártóüzem Jebel Aliban, amely alapvető ipari alkatrészeket és szűrőket gyárt globális exportra.",
                   "category": "landmark",
                   "coords": [
                         55.08568,
                         24.955928
-                  ]
-            },
-            {
-                  "name": "BK gulf office",
-                  "text": "Kilátópont, ahonnan rálátás nyílik a Jebel Ali ipari negyedre és a Perzsa-öböl partjára.",
-                  "category": "natural",
-                  "coords": [
-                        55.108277,
-                        24.995259
                   ]
             },
             {
@@ -775,30 +739,12 @@ export const poiExtraUaeEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Karcher FZE",
-                  "text": "Sediul regional al liderului german de echipamente de curățare, situat în inima Zonei Libere Jebel Ali.",
-                  "category": "landmark",
-                  "coords": [
-                        55.09467,
-                        24.961248
-                  ]
-            },
-            {
                   "name": "Essentra FZE",
                   "text": "O unitate de producție la scară largă în Jebel Ali, care produce componente industriale esențiale și filtre pentru exportul global.",
                   "category": "landmark",
                   "coords": [
                         55.08568,
                         24.955928
-                  ]
-            },
-            {
-                  "name": "BK gulf office",
-                  "text": "Un punct de observație care oferă vederi asupra zonei industriale Jebel Ali și a Golfului Persic.",
-                  "category": "natural",
-                  "coords": [
-                        55.108277,
-                        24.995259
                   ]
             },
             {
@@ -948,30 +894,12 @@ export const poiExtraUaeEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Karcher FZE",
-                  "text": "The regional headquarters for the German cleaning equipment leader, located in the heart of the Jebel Ali Free Zone.",
-                  "category": "landmark",
-                  "coords": [
-                        55.09467,
-                        24.961248
-                  ]
-            },
-            {
                   "name": "Essentra FZE",
                   "text": "A large-scale manufacturing facility in Jebel Ali that produces essential industrial components and filters for global export.",
                   "category": "landmark",
                   "coords": [
                         55.08568,
                         24.955928
-                  ]
-            },
-            {
-                  "name": "BK gulf office",
-                  "text": "A viewpoint offering panoramas of the Jebel Ali industrial zone and the Persian Gulf coastline.",
-                  "category": "natural",
-                  "coords": [
-                        55.108277,
-                        24.995259
                   ]
             },
             {

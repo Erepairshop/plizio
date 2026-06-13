@@ -6,60 +6,6 @@ export const lithuaniaHistoryV2: POI[] = [
     id: "lithuania-kernave-archaeological-site-history-v2", "sights": {
       "de": [
             {
-                  "name": "Aukuro kalnas",
-                  "text": "Einer der fünf markanten Burghügel der archäologischen Stätte von Kernavė in Litauen.",
-                  "category": "historical",
-                  "coords": [
-                        24.85112,
-                        54.882093
-                  ]
-            },
-            {
-                  "name": "Kriveikiškio piliakalnis",
-                  "text": "Ein archäologischer Burghügel in Kernavė, der Teil des UNESCO-Welterbes ist.",
-                  "category": "historical",
-                  "coords": [
-                        24.858028,
-                        54.878222
-                  ]
-            },
-            {
-                  "name": "Lizdeikos kalnas",
-                  "text": "Ein historischer Burghügel innerhalb des archäologischen Ensembles von Kernavė.",
-                  "category": "historical",
-                  "coords": [
-                        24.852735,
-                        54.882025
-                  ]
-            },
-            {
-                  "name": "Latvių piliakalnis",
-                  "text": "Ein antiker Siedlungshügel in der historischen Stätte von Kernavė.",
-                  "category": "historical",
-                  "coords": [
-                        24.803306,
-                        54.868833
-                  ]
-            },
-            {
-                  "name": "Pilies kalnas",
-                  "text": "Der Schlossberg ist einer der bedeutendsten Burghügel im archäologischen Reservat Kernavė.",
-                  "category": "historical",
-                  "coords": [
-                        24.851173,
-                        54.883398
-                  ]
-            },
-            {
-                  "name": "Mindaugo sostas",
-                  "text": "Dieser Burghügel wird traditionell mit dem litauischen König Mindaugas in Verbindung gebracht.",
-                  "category": "historical",
-                  "coords": [
-                        24.852421,
-                        54.883168
-                  ]
-            },
-            {
                   "name": "Kernavės archeologijos ir istorijos muziejus",
                   "text": "Das Museum präsentiert Funde aus der prähistorischen und mittelalterlichen Geschichte von Kernavė.",
                   "category": "museum",
@@ -79,60 +25,6 @@ export const lithuaniaHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Aukuro kalnas",
-                  "text": "A litvániai Kernavė régészeti helyszín öt jellegzetes várhalmának egyike.",
-                  "category": "historical",
-                  "coords": [
-                        24.85112,
-                        54.882093
-                  ]
-            },
-            {
-                  "name": "Kriveikiškio piliakalnis",
-                  "text": "Régészeti várhalom Kernavėban, amely az UNESCO Világörökség részét képezi.",
-                  "category": "historical",
-                  "coords": [
-                        24.858028,
-                        54.878222
-                  ]
-            },
-            {
-                  "name": "Lizdeikos kalnas",
-                  "text": "Történelmi várhalom a Kernavė régészeti együttes területén.",
-                  "category": "historical",
-                  "coords": [
-                        24.852735,
-                        54.882025
-                  ]
-            },
-            {
-                  "name": "Latvių piliakalnis",
-                  "text": "Ősi településhalom Kernavė történelmi helyszínén.",
-                  "category": "historical",
-                  "coords": [
-                        24.803306,
-                        54.868833
-                  ]
-            },
-            {
-                  "name": "Pilies kalnas",
-                  "text": "A Várhegy Kernavė régészeti rezervátumának egyik legjelentősenyebb várhalma.",
-                  "category": "historical",
-                  "coords": [
-                        24.851173,
-                        54.883398
-                  ]
-            },
-            {
-                  "name": "Mindaugo sostas",
-                  "text": "Ezt a várhalmot a hagyomány Mindaugas litván király trónjával hozza összefüggésbe.",
-                  "category": "historical",
-                  "coords": [
-                        24.852421,
-                        54.883168
-                  ]
-            },
             {
                   "name": "Kernavės archeologijos ir istorijos muziejus",
                   "text": "A múzeum Kernavė őskori és középkori történelmének leleteit mutatja be.",
@@ -154,60 +46,6 @@ export const lithuaniaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Aukuro kalnas",
-                  "text": "Unul dintre cele cinci movile fortificate distinctive de la situl arheologic Kernavė din Lituania.",
-                  "category": "historical",
-                  "coords": [
-                        24.85112,
-                        54.882093
-                  ]
-            },
-            {
-                  "name": "Kriveikiškio piliakalnis",
-                  "text": "O movilă fortificată arheologică din Kernavė, parte a Patrimoniului Mondial UNESCO.",
-                  "category": "historical",
-                  "coords": [
-                        24.858028,
-                        54.878222
-                  ]
-            },
-            {
-                  "name": "Lizdeikos kalnas",
-                  "text": "O movilă fortificată istorică din cadrul ansamblului arheologic Kernavė.",
-                  "category": "historical",
-                  "coords": [
-                        24.852735,
-                        54.882025
-                  ]
-            },
-            {
-                  "name": "Latvių piliakalnis",
-                  "text": "O movilă de așezare antică situată în situl istoric Kernavė.",
-                  "category": "historical",
-                  "coords": [
-                        24.803306,
-                        54.868833
-                  ]
-            },
-            {
-                  "name": "Pilies kalnas",
-                  "text": "Dealul Castelului este unul dintre cele mai importante movile fortificate din rezervația arheologică Kernavė.",
-                  "category": "historical",
-                  "coords": [
-                        24.851173,
-                        54.883398
-                  ]
-            },
-            {
-                  "name": "Mindaugo sostas",
-                  "text": "Această movilă fortificată este asociată tradițional cu tronul regelui lituanian Mindaugas.",
-                  "category": "historical",
-                  "coords": [
-                        24.852421,
-                        54.883168
-                  ]
-            },
-            {
                   "name": "Kernavės archeologijos ir istorijos muziejus",
                   "text": "Muzeul prezintă descoperiri din istoria preistorică și medievală a localității Kernavė.",
                   "category": "museum",
@@ -227,60 +65,6 @@ export const lithuaniaHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Aukuro kalnas",
-                  "text": "One of the five prominent hillforts at the Kernavė Archaeological Site in Lithuania.",
-                  "category": "historical",
-                  "coords": [
-                        24.85112,
-                        54.882093
-                  ]
-            },
-            {
-                  "name": "Kriveikiškio piliakalnis",
-                  "text": "An archaeological hillfort in Kernavė, part of the UNESCO World Heritage site.",
-                  "category": "historical",
-                  "coords": [
-                        24.858028,
-                        54.878222
-                  ]
-            },
-            {
-                  "name": "Lizdeikos kalnas",
-                  "text": "A historical hillfort within the Kernavė archaeological complex.",
-                  "category": "historical",
-                  "coords": [
-                        24.852735,
-                        54.882025
-                  ]
-            },
-            {
-                  "name": "Latvių piliakalnis",
-                  "text": "An ancient settlement hill located at the historical site of Kernavė.",
-                  "category": "historical",
-                  "coords": [
-                        24.803306,
-                        54.868833
-                  ]
-            },
-            {
-                  "name": "Pilies kalnas",
-                  "text": "The Castle Hill is one of the most significant hillforts in the Kernavė archaeological reserve.",
-                  "category": "historical",
-                  "coords": [
-                        24.851173,
-                        54.883398
-                  ]
-            },
-            {
-                  "name": "Mindaugo sostas",
-                  "text": "This hillfort is traditionally associated with the throne of the Lithuanian King Mindaugas.",
-                  "category": "historical",
-                  "coords": [
-                        24.852421,
-                        54.883168
-                  ]
-            },
             {
                   "name": "Kernavės archeologijos ir istorijos muziejus",
                   "text": "The museum presents finds from the prehistoric and medieval history of Kernavė.",
@@ -595,51 +379,6 @@ imageHint: "Palace of the Grand Dukes Vilnius courtyard architecture",
                         25.667053,
                         54.551175
                   ]
-            },
-            {
-                  "name": "Aukštojas",
-                  "text": "Der höchste Berg Litauens in unmittelbarer Nähe zur weißrussischen Grenze.",
-                  "category": "landmark",
-                  "coords": [
-                        25.625687,
-                        54.526959
-                  ]
-            },
-            {
-                  "name": "Josephinenberg",
-                  "text": "Der höchste Punkt Litauens mit 293 m.",
-                  "category": "natural",
-                  "coords": [
-                        25.627783,
-                        54.531068
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno II regykla",
-                  "text": "Ein weiterer Aussichtspunkt am Juozapinė-Hügel mit weitem Blick über die Region.",
-                  "category": "natural",
-                  "coords": [
-                        25.629523,
-                        54.532234
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno III regykla",
-                  "text": "Ein Aussichtspunkt im Hochland von Medininkai im Osten Litauens.",
-                  "category": "natural",
-                  "coords": [
-                        25.627874,
-                        54.53248
-                  ]
-            },
-            {
-                  "name": "Atodanga",
-                  "text": "Ein geologischer Aufschluss mit Panoramablick auf die umliegende Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        25.622715,
-                        54.526298
-                  ]
             }
       ],
       "hu": [
@@ -659,51 +398,6 @@ imageHint: "Palace of the Grand Dukes Vilnius courtyard architecture",
                   "coords": [
                         25.667053,
                         54.551175
-                  ]
-            },
-            {
-                  "name": "Aukštojas",
-                  "text": "Litvánia legmagasabb pontja, közvetlenül a fehérorosz határ mellett.",
-                  "category": "landmark",
-                  "coords": [
-                        25.625687,
-                        54.526959
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalnas",
-                  "text": "Litvánia legmagasabb pontja, 293 m.",
-                  "category": "natural",
-                  "coords": [
-                        25.627783,
-                        54.531068
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno II regykla",
-                  "text": "Újabb kilátópont a Juozapinė-dombon, széles kilátással a régióra.",
-                  "category": "natural",
-                  "coords": [
-                        25.629523,
-                        54.532234
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno III regykla",
-                  "text": "Kilátóhely a Medininkai-felvidéken, Kelet-Litvániában.",
-                  "category": "natural",
-                  "coords": [
-                        25.627874,
-                        54.53248
-                  ]
-            },
-            {
-                  "name": "Atodanga",
-                  "text": "Geológiai feltárás panorámás kilátással a környező tájra.",
-                  "category": "natural",
-                  "coords": [
-                        25.622715,
-                        54.526298
                   ]
             }
       ],
@@ -725,51 +419,6 @@ imageHint: "Palace of the Grand Dukes Vilnius courtyard architecture",
                         25.667053,
                         54.551175
                   ]
-            },
-            {
-                  "name": "Aukštojas",
-                  "text": "Cel mai înalt punct din Lituania, situat chiar lângă granița cu Belarus.",
-                  "category": "landmark",
-                  "coords": [
-                        25.625687,
-                        54.526959
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalnas",
-                  "text": "Cel mai înalt punct al Lituaniei, la 293 m.",
-                  "category": "natural",
-                  "coords": [
-                        25.627783,
-                        54.531068
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno II regykla",
-                  "text": "Un alt punct de belvedere pe dealul Juozapinė, cu vedere largă asupra regiunii.",
-                  "category": "natural",
-                  "coords": [
-                        25.629523,
-                        54.532234
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno III regykla",
-                  "text": "Un punct de observație în podișul Medininkai din estul Lituaniei.",
-                  "category": "natural",
-                  "coords": [
-                        25.627874,
-                        54.53248
-                  ]
-            },
-            {
-                  "name": "Atodanga",
-                  "text": "Un afloriment geologic cu vedere panoramică asupra peisajului înconjurător.",
-                  "category": "natural",
-                  "coords": [
-                        25.622715,
-                        54.526298
-                  ]
             }
       ],
       "en": [
@@ -789,51 +438,6 @@ imageHint: "Palace of the Grand Dukes Vilnius courtyard architecture",
                   "coords": [
                         25.667053,
                         54.551175
-                  ]
-            },
-            {
-                  "name": "Aukštojas",
-                  "text": "The highest point in Lithuania, located right next to the Belarusian border.",
-                  "category": "landmark",
-                  "coords": [
-                        25.625687,
-                        54.526959
-                  ]
-            },
-            {
-                  "name": "Juozapinė Hill",
-                  "text": "The highest point in Lithuania at 293 m.",
-                  "category": "natural",
-                  "coords": [
-                        25.627783,
-                        54.531068
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno II regykla",
-                  "text": "Another viewpoint on the Juozapinė Hill offering broad views of the region.",
-                  "category": "natural",
-                  "coords": [
-                        25.629523,
-                        54.532234
-                  ]
-            },
-            {
-                  "name": "Juozapinės kalno III regykla",
-                  "text": "A viewpoint in the Medininkai Highlands in eastern Lithuania.",
-                  "category": "natural",
-                  "coords": [
-                        25.627874,
-                        54.53248
-                  ]
-            },
-            {
-                  "name": "Atodanga",
-                  "text": "A geological outcrop offering panoramic views of the surrounding landscape.",
-                  "category": "natural",
-                  "coords": [
-                        25.622715,
-                        54.526298
                   ]
             }
       ]
@@ -1410,24 +1014,6 @@ imageHint: "Raudonė Castle red brick tower river view",
                         23.981849,
                         55.287683
                   ]
-            },
-            {
-                  "name": "Evangelisch-Lutherische Kirche Kėdainiai",
-                  "text": "1629 erbaute evangelisch-lutherische Kirche.",
-                  "category": "religious",
-                  "coords": [
-                        23.970797,
-                        55.28582
-                  ]
-            },
-            {
-                  "name": "Vaivorykštės tiltas",
-                  "text": "Eine markante Fußgängerbrücke über die Nevėžis in Kėdainiai.",
-                  "category": "landmark",
-                  "coords": [
-                        23.97187,
-                        55.279896
-                  ]
             }
       ],
       "hu": [
@@ -1510,24 +1096,6 @@ imageHint: "Raudonė Castle red brick tower river view",
                   "coords": [
                         23.981849,
                         55.287683
-                  ]
-            },
-            {
-                  "name": "Kėdainių evangelikų liuteronų bažnyčia",
-                  "text": "1629-ben épült evangélikus-lutheránus templom.",
-                  "category": "religious",
-                  "coords": [
-                        23.970797,
-                        55.28582
-                  ]
-            },
-            {
-                  "name": "Vaivorykštės tiltas",
-                  "text": "Jellegzetes gyalogoshíd a Nevėžis folyó felett Kėdainiaiban.",
-                  "category": "landmark",
-                  "coords": [
-                        23.97187,
-                        55.279896
                   ]
             }
       ],
@@ -1612,24 +1180,6 @@ imageHint: "Raudonė Castle red brick tower river view",
                         23.981849,
                         55.287683
                   ]
-            },
-            {
-                  "name": "Kėdainių evangelikų liuteronų bažnyčia",
-                  "text": "Biserică evanghelică-luterană construită în 1629.",
-                  "category": "religious",
-                  "coords": [
-                        23.970797,
-                        55.28582
-                  ]
-            },
-            {
-                  "name": "Vaivorykštės tiltas",
-                  "text": "Un pod pietonal distinctiv peste râul Nevėžis în Kėdainiai.",
-                  "category": "landmark",
-                  "coords": [
-                        23.97187,
-                        55.279896
-                  ]
             }
       ],
       "en": [
@@ -1713,24 +1263,6 @@ imageHint: "Raudonė Castle red brick tower river view",
                         23.981849,
                         55.287683
                   ]
-            },
-            {
-                  "name": "Kėdainių evangelikų liuteronų bažnyčia",
-                  "text": "Evangelical Lutheran church built in 1629.",
-                  "category": "religious",
-                  "coords": [
-                        23.970797,
-                        55.28582
-                  ]
-            },
-            {
-                  "name": "Vaivorykštės tiltas",
-                  "text": "A distinctive pedestrian bridge crossing the Nevėžis River in Kėdainiai.",
-                  "category": "landmark",
-                  "coords": [
-                        23.97187,
-                        55.279896
-                  ]
             }
       ]
 },
@@ -1800,15 +1332,6 @@ imageHint: "Kėdainiai Old Town market square colorful houses",
                   ]
             },
             {
-                  "name": "Pakačinių piliakalnis",
-                  "text": "Eine alte Wallburg in Litauen, die von der frühen Siedlungsgeschichte zeugt.",
-                  "category": "historical",
-                  "coords": [
-                        25.885194,
-                        55.813417
-                  ]
-            },
-            {
                   "name": "Velikuškių II piliakalnis",
                   "text": "Ein weiterer wichtiger archäologischer Fundplatz in der Nähe von Stelmužė.",
                   "category": "historical",
@@ -1871,15 +1394,6 @@ imageHint: "Kėdainiai Old Town market square colorful houses",
                   "coords": [
                         25.853278,
                         55.83675
-                  ]
-            },
-            {
-                  "name": "Pakačinių piliakalnis",
-                  "text": "Ősi várhely Litvániában, amely a korai letelepedésről tanúskodik.",
-                  "category": "historical",
-                  "coords": [
-                        25.885194,
-                        55.813417
                   ]
             },
             {
@@ -1948,15 +1462,6 @@ imageHint: "Kėdainiai Old Town market square colorful houses",
                   ]
             },
             {
-                  "name": "Pakačinių piliakalnis",
-                  "text": "O veche cetate în Lituania, care atestă istoria timpurie a așezărilor.",
-                  "category": "historical",
-                  "coords": [
-                        25.885194,
-                        55.813417
-                  ]
-            },
-            {
                   "name": "Velikuškių II piliakalnis",
                   "text": "Un alt sit arheologic important situat în apropiere de Stelmužė.",
                   "category": "historical",
@@ -2019,15 +1524,6 @@ imageHint: "Kėdainiai Old Town market square colorful houses",
                   "coords": [
                         25.853278,
                         55.83675
-                  ]
-            },
-            {
-                  "name": "Pakačinių piliakalnis",
-                  "text": "An ancient hillfort in Lithuania, witnessing early settlement history.",
-                  "category": "historical",
-                  "coords": [
-                        25.885194,
-                        55.813417
                   ]
             },
             {
@@ -3431,30 +2927,12 @@ imageHint: "Siesikai Castle Renaissance building lake view",
     id: "lithuania-rumsiskes-museum-history-v2", "sights": {
       "de": [
             {
-                  "name": "Litauisches Freilichtmuseum",
-                  "text": "Eines der größten Freilichtmuseen Europas, das die traditionelle bäuerliche Architektur und Lebensweise Litauens zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        24.201172,
-                        54.866425
-                  ]
-            },
-            {
                   "name": "Rumšiškių piliakalnis",
                   "text": "Ein historischer Burghügel in Rumšiškės, der Zeugnis von der frühen Besiedlung der Region ablegt.",
                   "category": "historical",
                   "coords": [
                         24.19716,
                         54.858318
-                  ]
-            },
-            {
-                  "name": "Kaišiadorių muziejaus Jono Aisčio skyrius",
-                  "text": "Diese Abteilung des Kaišiadorys-Museums ist dem Leben und Werk des Dichters Jonas Aistis gewidmet.",
-                  "category": "museum",
-                  "coords": [
-                        24.221284,
-                        54.866837
                   ]
             },
             {
@@ -3485,15 +2963,6 @@ imageHint: "Siesikai Castle Renaissance building lake view",
                   ]
             },
             {
-                  "name": "Aristavėlės dvaro rūmai",
-                  "text": "Ein historisches Herrenhaus, das in das Freilichtmuseum von Rumšiškės versetzt wurde, um die adelige Architektur zu zeigen.",
-                  "category": "historical",
-                  "coords": [
-                        24.184437,
-                        54.875443
-                  ]
-            },
-            {
                   "name": "Gastilionių pažintinis takas",
                   "text": "Ein Lehrpfad, der durch die Natur von Gastilionys führt und Informationen über die lokale Flora und Fauna bietet.",
                   "category": "landmark",
@@ -3505,30 +2974,12 @@ imageHint: "Siesikai Castle Renaissance building lake view",
       ],
       "hu": [
             {
-                  "name": "Lietuvos liaudies buities muziejus",
-                  "text": "Európa egyik legnagyobb szabadtéri múzeuma, amely Litvánia hagyományos paraszti építészetét és életmódját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        24.201172,
-                        54.866425
-                  ]
-            },
-            {
                   "name": "Rumšiškių piliakalnis",
                   "text": "Egy történelmi várhalom Rumšiškėsben, amely a régió korai betelepüléséről tanúskodik.",
                   "category": "historical",
                   "coords": [
                         24.19716,
                         54.858318
-                  ]
-            },
-            {
-                  "name": "Kaišiadorių muziejaus Jono Aisčio skyrius",
-                  "text": "A Kaišiadorys Múzeum ezen részlege Jonas Aistis költő életének és munkásságának van szentelve.",
-                  "category": "museum",
-                  "coords": [
-                        24.221284,
-                        54.866837
                   ]
             },
             {
@@ -3559,15 +3010,6 @@ imageHint: "Siesikai Castle Renaissance building lake view",
                   ]
             },
             {
-                  "name": "Aristavėlės dvaro rūmai",
-                  "text": "Egy történelmi udvarház, amelyet a rumšiškési szabadtéri múzeumba szállítottak, hogy bemutassák a nemesi építészetet.",
-                  "category": "historical",
-                  "coords": [
-                        24.184437,
-                        54.875443
-                  ]
-            },
-            {
                   "name": "Gastilionių pažintinis takas",
                   "text": "Tanösvény, amely Gastilionys természetén vezet keresztül, információkat nyújtva a helyi növény- és állatvilágról.",
                   "category": "landmark",
@@ -3579,30 +3021,12 @@ imageHint: "Siesikai Castle Renaissance building lake view",
       ],
       "ro": [
             {
-                  "name": "Lietuvos liaudies buities muziejus",
-                  "text": "Unul dintre cele mai mari muzee în aer liber din Europa, care prezintă arhitectura tradițională țărănească și modul de viață din Lituania.",
-                  "category": "museum",
-                  "coords": [
-                        24.201172,
-                        54.866425
-                  ]
-            },
-            {
                   "name": "Rumšiškių piliakalnis",
                   "text": "O movilă istorică de cetate în Rumšiškės, care atestă așezarea timpurie a regiunii.",
                   "category": "historical",
                   "coords": [
                         24.19716,
                         54.858318
-                  ]
-            },
-            {
-                  "name": "Kaišiadorių muziejaus Jono Aisčio skyrius",
-                  "text": "Această secție a Muzeului Kaišiadorys este dedicată vieții și operei poetului Jonas Aistis.",
-                  "category": "museum",
-                  "coords": [
-                        24.221284,
-                        54.866837
                   ]
             },
             {
@@ -3633,15 +3057,6 @@ imageHint: "Siesikai Castle Renaissance building lake view",
                   ]
             },
             {
-                  "name": "Aristavėlės dvaro rūmai",
-                  "text": "Un conac istoric mutat în muzeul în aer liber din Rumšiškės pentru a prezenta arhitectura nobiliară.",
-                  "category": "historical",
-                  "coords": [
-                        24.184437,
-                        54.875443
-                  ]
-            },
-            {
                   "name": "Gastilionių pažintinis takas",
                   "text": "Un traseu educațional care trece prin natura din Gastilionys, oferind informații despre flora și fauna locală.",
                   "category": "landmark",
@@ -3653,30 +3068,12 @@ imageHint: "Siesikai Castle Renaissance building lake view",
       ],
       "en": [
             {
-                  "name": "Lietuvos liaudies buities muziejus",
-                  "text": "One of the largest open-air museums in Europe, showcasing Lithuania's traditional rural architecture and lifestyle.",
-                  "category": "museum",
-                  "coords": [
-                        24.201172,
-                        54.866425
-                  ]
-            },
-            {
                   "name": "Rumšiškių piliakalnis",
                   "text": "A historical hillfort in Rumšiškės that bears witness to the early settlement of the region.",
                   "category": "historical",
                   "coords": [
                         24.19716,
                         54.858318
-                  ]
-            },
-            {
-                  "name": "Kaišiadorių muziejaus Jono Aisčio skyrius",
-                  "text": "This branch of the Kaišiadorys Museum is dedicated to the life and work of the poet Jonas Aistis.",
-                  "category": "museum",
-                  "coords": [
-                        24.221284,
-                        54.866837
                   ]
             },
             {
@@ -3704,15 +3101,6 @@ imageHint: "Siesikai Castle Renaissance building lake view",
                   "coords": [
                         24.15394,
                         54.875422
-                  ]
-            },
-            {
-                  "name": "Aristavėlės dvaro rūmai",
-                  "text": "A historic manor house moved to the Rumšiškės open-air museum to showcase noble architecture.",
-                  "category": "historical",
-                  "coords": [
-                        24.184437,
-                        54.875443
                   ]
             },
             {

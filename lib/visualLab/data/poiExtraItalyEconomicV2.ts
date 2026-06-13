@@ -888,78 +888,6 @@ export const italyEconomicV2: POI[] = [
     id: "italy-porto-di-livorno-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Teatro Goldoni",
-                  "text": "Ein prächtiges historisches Theater in Livorno, bekannt für seine Architektur.",
-                  "category": "cultural",
-                  "coords": [
-                        10.313889,
-                        43.545924
-                  ]
-            },
-            {
-                  "name": "Nuovo Teatro delle Commedie",
-                  "text": "Ein zeitgenössisches Theaterzentrum für Aufführungen im Hafen von Livorno.",
-                  "category": "cultural",
-                  "coords": [
-                        10.319704,
-                        43.553691
-                  ]
-            },
-            {
-                  "name": "Casa natale di Amedeo Modigliani",
-                  "text": "Das Geburtshaus des berühmten Malers Amedeo Modigliani in Livorno.",
-                  "category": "museum",
-                  "coords": [
-                        10.313337,
-                        43.543729
-                  ]
-            },
-            {
-                  "name": "Museo diocesano \"Leonello Barsotti\"",
-                  "text": "Ein Diözesanmuseum in Livorno, das religiöse Kunstwerke und Artefakte ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        10.317751,
-                        43.553541
-                  ]
-            },
-            {
-                  "name": "Museo ebraico Yeshivà Marini",
-                  "text": "Ein Museum in Livorno, das die jüdische Geschichte und Kultur der Stadt dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        10.320407,
-                        43.548068
-                  ]
-            },
-            {
-                  "name": "Museo della città",
-                  "text": "Ein Museum, das der Geschichte und kulturellen Entwicklung von Livorno gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        10.306309,
-                        43.554956
-                  ]
-            },
-            {
-                  "name": "Museo di Arte Sacra di Santa Giulia",
-                  "text": "Ein Museum in Livorno, das sich auf sakrale Kunst und religiöse Gegenstände spezialisiert hat.",
-                  "category": "museum",
-                  "coords": [
-                        10.310089,
-                        43.549951
-                  ]
-            },
-            {
-                  "name": "Museo Civico Giovanni Fattori",
-                  "text": "Ein Kunstmuseum in Livorno, das Werke des Malers Giovanni Fattori und der Macchiaioli zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        10.305888,
-                        43.535362
-                  ]
-            },
-            {
                   "name": "Single fin",
                   "text": "Ein modern ausgestattetes Strandbad in der Nähe des Hafens von Livorno.",
                   "category": "recreational",
@@ -1015,78 +943,6 @@ export const italyEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Teatro Goldoni",
-                  "text": "Livorno pompás történelmi színháza, amely építészetéről nevezetes.",
-                  "category": "cultural",
-                  "coords": [
-                        10.313889,
-                        43.545924
-                  ]
-            },
-            {
-                  "name": "Nuovo Teatro delle Commedie",
-                  "text": "Kortárs színházi központ előadások számára Livorno kikötőjében.",
-                  "category": "cultural",
-                  "coords": [
-                        10.319704,
-                        43.553691
-                  ]
-            },
-            {
-                  "name": "Casa natale di Amedeo Modigliani",
-                  "text": "A híres festő, Amedeo Modigliani szülőháza Livornóban.",
-                  "category": "museum",
-                  "coords": [
-                        10.313337,
-                        43.543729
-                  ]
-            },
-            {
-                  "name": "Museo diocesano \"Leonello Barsotti\"",
-                  "text": "Egyházmegyei múzeum Livornóban, amely vallási műalkotásokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        10.317751,
-                        43.553541
-                  ]
-            },
-            {
-                  "name": "Museo ebraico Yeshivà Marini",
-                  "text": "Livorno zsidó történelmét és kultúráját bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        10.320407,
-                        43.548068
-                  ]
-            },
-            {
-                  "name": "Museo della città",
-                  "text": "Livorno történelmének és kulturális fejlődésének szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        10.306309,
-                        43.554956
-                  ]
-            },
-            {
-                  "name": "Museo di Arte Sacra di Santa Giulia",
-                  "text": "Szakrális művészetre és vallási tárgyakra szakosodott múzeum Livornóban.",
-                  "category": "museum",
-                  "coords": [
-                        10.310089,
-                        43.549951
-                  ]
-            },
-            {
-                  "name": "Museo Civico Giovanni Fattori",
-                  "text": "Művészeti múzeum Livornóban, Giovanni Fattori és a Macchiaioli műveivel.",
-                  "category": "museum",
-                  "coords": [
-                        10.305888,
-                        43.535362
-                  ]
-            },
             {
                   "name": "Single fin",
                   "text": "Modern felszereltségű strandközpont Livorno kikötőjének közelében.",
@@ -1144,78 +1000,6 @@ export const italyEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Teatro Goldoni",
-                  "text": "Un teatru istoric magnific în Livorno, cunoscut pentru arhitectura sa.",
-                  "category": "cultural",
-                  "coords": [
-                        10.313889,
-                        43.545924
-                  ]
-            },
-            {
-                  "name": "Nuovo Teatro delle Commedie",
-                  "text": "Un centru teatral contemporan pentru spectacole în portul Livorno.",
-                  "category": "cultural",
-                  "coords": [
-                        10.319704,
-                        43.553691
-                  ]
-            },
-            {
-                  "name": "Casa natale di Amedeo Modigliani",
-                  "text": "Casa natală a celebrului pictor Amedeo Modigliani din Livorno.",
-                  "category": "museum",
-                  "coords": [
-                        10.313337,
-                        43.543729
-                  ]
-            },
-            {
-                  "name": "Museo diocesano \"Leonello Barsotti\"",
-                  "text": "Un muzeu diecezan în Livorno care expune artă religioasă și artefacte.",
-                  "category": "museum",
-                  "coords": [
-                        10.317751,
-                        43.553541
-                  ]
-            },
-            {
-                  "name": "Museo ebraico Yeshivà Marini",
-                  "text": "Un muzeu în Livorno care documentează istoria și cultura evreiască a orașului.",
-                  "category": "museum",
-                  "coords": [
-                        10.320407,
-                        43.548068
-                  ]
-            },
-            {
-                  "name": "Museo della città",
-                  "text": "Un muzeu dedicat istoriei și dezvoltării culturale a orașului Livorno.",
-                  "category": "museum",
-                  "coords": [
-                        10.306309,
-                        43.554956
-                  ]
-            },
-            {
-                  "name": "Museo di Arte Sacra di Santa Giulia",
-                  "text": "Un muzeu din Livorno specializat în artă sacră și obiecte religioase.",
-                  "category": "museum",
-                  "coords": [
-                        10.310089,
-                        43.549951
-                  ]
-            },
-            {
-                  "name": "Museo Civico Giovanni Fattori",
-                  "text": "Un muzeu de artă din Livorno ce expune lucrări de Giovanni Fattori și ale grupului Macchiaioli.",
-                  "category": "museum",
-                  "coords": [
-                        10.305888,
-                        43.535362
-                  ]
-            },
-            {
                   "name": "Single fin",
                   "text": "O stațiune de plajă dotată modern, situată lângă Portul Livorno.",
                   "category": "recreational",
@@ -1271,78 +1055,6 @@ export const italyEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Teatro Goldoni",
-                  "text": "A magnificent historic theatre in Livorno, known for its architecture.",
-                  "category": "cultural",
-                  "coords": [
-                        10.313889,
-                        43.545924
-                  ]
-            },
-            {
-                  "name": "Nuovo Teatro delle Commedie",
-                  "text": "A contemporary theatre center for performances in the Port of Livorno.",
-                  "category": "cultural",
-                  "coords": [
-                        10.319704,
-                        43.553691
-                  ]
-            },
-            {
-                  "name": "Casa natale di Amedeo Modigliani",
-                  "text": "The birthplace of the famous painter Amedeo Modigliani in Livorno.",
-                  "category": "museum",
-                  "coords": [
-                        10.313337,
-                        43.543729
-                  ]
-            },
-            {
-                  "name": "Museo diocesano \"Leonello Barsotti\"",
-                  "text": "A diocesan museum in Livorno exhibiting religious artworks and artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        10.317751,
-                        43.553541
-                  ]
-            },
-            {
-                  "name": "Museo ebraico Yeshivà Marini",
-                  "text": "A museum in Livorno documenting the city's Jewish history and culture.",
-                  "category": "museum",
-                  "coords": [
-                        10.320407,
-                        43.548068
-                  ]
-            },
-            {
-                  "name": "Museo della città",
-                  "text": "A museum dedicated to the history and cultural development of Livorno.",
-                  "category": "museum",
-                  "coords": [
-                        10.306309,
-                        43.554956
-                  ]
-            },
-            {
-                  "name": "Museo di Arte Sacra di Santa Giulia",
-                  "text": "A museum in Livorno specializing in sacred art and religious items.",
-                  "category": "museum",
-                  "coords": [
-                        10.310089,
-                        43.549951
-                  ]
-            },
-            {
-                  "name": "Museo Civico Giovanni Fattori",
-                  "text": "An art museum in Livorno showcasing works by Giovanni Fattori and the Macchiaioli.",
-                  "category": "museum",
-                  "coords": [
-                        10.305888,
-                        43.535362
-                  ]
-            },
             {
                   "name": "Single fin",
                   "text": "A modernly equipped beach resort located near the Port of Livorno.",
@@ -1761,24 +1473,6 @@ export const italyEconomicV2: POI[] = [
     id: "italy-porto-di-ancona-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Museo Tattile Statale Omero",
-                  "text": "Ein staatliches Tastmuseum in Ancona für blinde und sehende Besucher.",
-                  "category": "museum",
-                  "coords": [
-                        13.5037,
-                        43.613977
-                  ]
-            },
-            {
-                  "name": "Teatro Sperimentale \"Lirio Arena\"",
-                  "text": "Kleines experimentelles Theater im Hafenviertel von Ancona.",
-                  "category": "cultural",
-                  "coords": [
-                        13.515407,
-                        43.613519
-                  ]
-            },
-            {
                   "name": "Sala museale Contrammiraglio Guglielmo Marconi",
                   "text": "Ein Museum in Ancona, das der maritimen Geschichte und Guglielmo Marconi gewidmet ist.",
                   "category": "museum",
@@ -1804,72 +1498,9 @@ export const italyEconomicV2: POI[] = [
                         13.511058,
                         43.620882
                   ]
-            },
-            {
-                  "name": "Forte Scrima",
-                  "text": "Eine historische Festungsanlage, die zur Verteidigung des Hafens von Ancona diente.",
-                  "category": "fortress",
-                  "coords": [
-                        13.496975,
-                        43.603807
-                  ]
-            },
-            {
-                  "name": "Cittadella",
-                  "text": "Die Zitadelle von Ancona ist eine imposante Festung auf dem Hügel Astagno über dem Hafen.",
-                  "category": "castle",
-                  "coords": [
-                        13.508794,
-                        43.613369
-                  ]
-            },
-            {
-                  "name": "Lunetta di Santo Stefano",
-                  "text": "Ein Teil der historischen Befestigungsanlagen von Ancona mit Blick auf die Stadt und den Hafen.",
-                  "category": "castle",
-                  "coords": [
-                        13.518028,
-                        43.612994
-                  ]
-            },
-            {
-                  "name": "Il Valentino",
-                  "text": "Ein Strandbad in der Nähe des Hafens von Ancona.",
-                  "category": "recreational",
-                  "coords": [
-                        13.533558,
-                        43.617171
-                  ]
-            },
-            {
-                  "name": "Piscina del Passetto",
-                  "text": "Ein Schwimmbad im Viertel Passetto in Ancona, nahe dem Hafen.",
-                  "category": "recreational",
-                  "coords": [
-                        13.536331,
-                        43.612201
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Museo Tattile Statale Omero",
-                  "text": "Állami tapintható múzeum Anconában vakok és látók számára.",
-                  "category": "museum",
-                  "coords": [
-                        13.5037,
-                        43.613977
-                  ]
-            },
-            {
-                  "name": "Teatro Sperimentale \"Lirio Arena\"",
-                  "text": "Kis kísérleti színház Ancona kikötői negyedében.",
-                  "category": "cultural",
-                  "coords": [
-                        13.515407,
-                        43.613519
-                  ]
-            },
             {
                   "name": "Sala museale Contrammiraglio Guglielmo Marconi",
                   "text": "Az anconai kikötőben található múzeum, amely Guglielmo Marconinak állít emléket.",
@@ -1896,72 +1527,9 @@ export const italyEconomicV2: POI[] = [
                         13.511058,
                         43.620882
                   ]
-            },
-            {
-                  "name": "Forte Scrima",
-                  "text": "Történelmi erődítmény, amely Ancona kikötőjének védelmét szolgálta.",
-                  "category": "fortress",
-                  "coords": [
-                        13.496975,
-                        43.603807
-                  ]
-            },
-            {
-                  "name": "Cittadella",
-                  "text": "Ancona citadellája egy impozáns erődítmény az Astagno-dombon, a kikötő felett.",
-                  "category": "castle",
-                  "coords": [
-                        13.508794,
-                        43.613369
-                  ]
-            },
-            {
-                  "name": "Lunetta di Santo Stefano",
-                  "text": "Ancona történelmi erődítményeinek része, amely rálátást biztosít a városra és a kikötőre.",
-                  "category": "castle",
-                  "coords": [
-                        13.518028,
-                        43.612994
-                  ]
-            },
-            {
-                  "name": "Il Valentino",
-                  "text": "Egy strandüdülőhely Ancona kikötője közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        13.533558,
-                        43.617171
-                  ]
-            },
-            {
-                  "name": "Piscina del Passetto",
-                  "text": "Egy úszómedence Ancona Passetto negyedében, a kikötő közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        13.536331,
-                        43.612201
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Museo Tattile Statale Omero",
-                  "text": "Un muzeu tactil de stat în Ancona pentru vizitatori nevăzători și văzători.",
-                  "category": "museum",
-                  "coords": [
-                        13.5037,
-                        43.613977
-                  ]
-            },
-            {
-                  "name": "Teatro Sperimentale \"Lirio Arena\"",
-                  "text": "Teatru experimental mic în cartierul portuar din Ancona.",
-                  "category": "cultural",
-                  "coords": [
-                        13.515407,
-                        43.613519
-                  ]
-            },
             {
                   "name": "Sala museale Contrammiraglio Guglielmo Marconi",
                   "text": "Un muzeu situat în portul Ancona, dedicat contraamiralului Guglielmo Marconi.",
@@ -1988,72 +1556,9 @@ export const italyEconomicV2: POI[] = [
                         13.511058,
                         43.620882
                   ]
-            },
-            {
-                  "name": "Forte Scrima",
-                  "text": "O fortificație istorică ce a servit la apărarea portului Ancona.",
-                  "category": "fortress",
-                  "coords": [
-                        13.496975,
-                        43.603807
-                  ]
-            },
-            {
-                  "name": "Cittadella",
-                  "text": "Citadela din Ancona este o fortificație impunătoare situată pe dealul Astagno, deasupra portului.",
-                  "category": "castle",
-                  "coords": [
-                        13.508794,
-                        43.613369
-                  ]
-            },
-            {
-                  "name": "Lunetta di Santo Stefano",
-                  "text": "O parte a fortificațiilor istorice din Ancona, oferind vedere spre oraș și port.",
-                  "category": "castle",
-                  "coords": [
-                        13.518028,
-                        43.612994
-                  ]
-            },
-            {
-                  "name": "Il Valentino",
-                  "text": "O stațiune balneară situată lângă portul din Ancona.",
-                  "category": "recreational",
-                  "coords": [
-                        13.533558,
-                        43.617171
-                  ]
-            },
-            {
-                  "name": "Piscina del Passetto",
-                  "text": "O piscină situată în zona Passetto din Ancona, aproape de port.",
-                  "category": "recreational",
-                  "coords": [
-                        13.536331,
-                        43.612201
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Museo Tattile Statale Omero",
-                  "text": "A state tactile museum in Ancona for blind and sighted visitors.",
-                  "category": "museum",
-                  "coords": [
-                        13.5037,
-                        43.613977
-                  ]
-            },
-            {
-                  "name": "Teatro Sperimentale \"Lirio Arena\"",
-                  "text": "Small experimental theater in the port area of Ancona.",
-                  "category": "cultural",
-                  "coords": [
-                        13.515407,
-                        43.613519
-                  ]
-            },
             {
                   "name": "Sala museale Contrammiraglio Guglielmo Marconi",
                   "text": "A museum in the Port of Ancona dedicated to Rear Admiral Guglielmo Marconi.",
@@ -2079,51 +1584,6 @@ export const italyEconomicV2: POI[] = [
                   "coords": [
                         13.511058,
                         43.620882
-                  ]
-            },
-            {
-                  "name": "Forte Scrima",
-                  "text": "A historical fort that served as part of the defensive system for the Port of Ancona.",
-                  "category": "fortress",
-                  "coords": [
-                        13.496975,
-                        43.603807
-                  ]
-            },
-            {
-                  "name": "Cittadella",
-                  "text": "The Citadel of Ancona is an imposing fortress located on the Astagno hill overlooking the port.",
-                  "category": "castle",
-                  "coords": [
-                        13.508794,
-                        43.613369
-                  ]
-            },
-            {
-                  "name": "Lunetta di Santo Stefano",
-                  "text": "Part of Ancona's historical fortifications, offering views over the city and the port.",
-                  "category": "castle",
-                  "coords": [
-                        13.518028,
-                        43.612994
-                  ]
-            },
-            {
-                  "name": "Il Valentino",
-                  "text": "A beach resort facility located near the Port of Ancona.",
-                  "category": "recreational",
-                  "coords": [
-                        13.533558,
-                        43.617171
-                  ]
-            },
-            {
-                  "name": "Piscina del Passetto",
-                  "text": "A swimming pool located in the Passetto area of Ancona, near the port.",
-                  "category": "recreational",
-                  "coords": [
-                        13.536331,
-                        43.612201
                   ]
             }
       ]

@@ -1169,15 +1169,6 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     id: "victoria-falls-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Victoria Falls Bridge Visitor Centre",
-                  "text": "Besucherzentrum an der Victoriafälle-Brücke mit Ausstellungen zu deren Bau und der Schlucht.",
-                  "category": "museum",
-                  "coords": [
-                        25.85768,
-                        -17.929589
-                  ]
-            },
-            {
                   "name": "The Snake Pit",
                   "text": "Familienattraktion in Victoria Falls mit einer Sammlung von Schlangen.",
                   "category": "family",
@@ -1250,120 +1241,12 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Danger Point",
-                  "text": "Danger Point, ein Klippenaussichtspunkt mit dramatischem Blick auf die Schlucht unterhalb.",
-                  "category": "natural",
-                  "coords": [
-                        25.859155,
-                        -17.926972
-                  ]
-            },
-            {
-                  "name": "Boiling Pot",
-                  "text": "Boiling Pot, der turbulente Kessel am Fuß der Victoriafälle.",
-                  "category": "natural",
-                  "coords": [
-                        25.859391,
-                        -17.928151
-                  ]
-            },
-            {
-                  "name": "Big Tree (Baobab)",
-                  "text": "Big Tree, ein riesiger Baobab in der Nähe der Victoriafälle, der auf über 1.000 Jahre geschätzt wird.",
-                  "category": "landmark",
-                  "coords": [
-                        25.84125,
-                        -17.912613
-                  ]
-            },
-            {
-                  "name": "14 Rainbow Falls",
-                  "text": "14 Rainbow Falls ist ein etablierter Aussichtspunkt in Victoria Falls.",
-                  "category": "natural",
-                  "coords": [
-                        25.856644,
-                        -17.925845
-                  ]
-            },
-            {
-                  "name": "The log",
-                  "text": "The log ist ein lokaler Aussichtspunkt in Victoria Falls.",
-                  "category": "natural",
-                  "coords": [
-                        25.847257,
-                        -17.921792
-                  ]
-            },
-            {
                   "name": "7. Cataract Island View",
                   "text": "7. Cataract Island View ist ein malerischer Aussichtspunkt in Victoria Falls.",
                   "category": "natural",
                   "coords": [
                         25.849417,
                         -17.923968
-                  ]
-            },
-            {
-                  "name": "12 Livingstone Island",
-                  "text": "12 Livingstone Island ist ein Aussichtspunkt in Victoria Falls.",
-                  "category": "natural",
-                  "coords": [
-                        25.85329,
-                        -17.925003
-                  ]
-            },
-            {
-                  "name": "13 Horse Shoe Falls",
-                  "text": "13 Horseshoe Falls, eine Reihe kleiner Wasserfälle oberhalb der Victoriafälle.",
-                  "category": "natural",
-                  "coords": [
-                        25.854963,
-                        -17.925385
-                  ]
-            },
-            {
-                  "name": "Gorge Swing",
-                  "text": "Gorge Swing ist eine Extremsport-Attraktion in Victoria Falls.",
-                  "category": "landmark",
-                  "coords": [
-                        25.8565,
-                        -17.944877
-                  ]
-            },
-            {
-                  "name": "Bridge Swing & Zipline - End (Shearwater)",
-                  "text": "Endpunkt von Shearwaters Brückenschaukel und Zipline an der Victoriafälle-Brücke.",
-                  "category": "landmark",
-                  "coords": [
-                        25.857253,
-                        -17.928479
-                  ]
-            },
-            {
-                  "name": "Bridge Zipline - Beginning (Shearwater)",
-                  "text": "Startpunkt von Shearwaters Zipline an der Victoriafälle-Brücke.",
-                  "category": "landmark",
-                  "coords": [
-                        25.85659,
-                        -17.929566
-                  ]
-            },
-            {
-                  "name": "Baobab trees road",
-                  "text": "Die Baobab trees road ist eine landschaftlich reizvolle Route und Sehenswürdigkeit in Victoria Falls.",
-                  "category": "landmark",
-                  "coords": [
-                        25.843328,
-                        -17.914314
-                  ]
-            },
-            {
-                  "name": "Zambezi river view point",
-                  "text": "Aussichtspunkt mit Blick auf den Sambesi nahe den Victoriafällen.",
-                  "category": "natural",
-                  "coords": [
-                        25.847457,
-                        -17.920218
                   ]
             },
             {
@@ -1385,15 +1268,6 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gorge Swing & Zipline (Wild Horizons)",
-                  "text": "Wild Horizons‘ Schluchtschaukel und Zipline über der Batoka-Schlucht.",
-                  "category": "landmark",
-                  "coords": [
-                        25.848257,
-                        -17.928627
-                  ]
-            },
-            {
                   "name": "Adventure zone",
                   "text": "Abenteuerzone in Victoria Falls mit verschiedenen Nervenkitzel-Aktivitäten.",
                   "category": "landmark",
@@ -1404,15 +1278,6 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Victoria Falls Bridge Visitor Centre",
-                  "text": "Látogatóközpont a Viktória-vízesés hídjánál, a híd építését és a szurdokot bemutató kiállításokkal.",
-                  "category": "museum",
-                  "coords": [
-                        25.85768,
-                        -17.929589
-                  ]
-            },
             {
                   "name": "The Snake Pit",
                   "text": "Családi látványosság Victoria Fallsban, kígyógyűjteménnyel.",
@@ -1486,120 +1351,12 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Danger Point",
-                  "text": "Danger Point, egy sziklás kilátópont, drámai kilátással az alatta lévő szurdokra.",
-                  "category": "natural",
-                  "coords": [
-                        25.859155,
-                        -17.926972
-                  ]
-            },
-            {
-                  "name": "Boiling Pot",
-                  "text": "Boiling Pot, a Viktória-vízesés lábánál lévő örvénylő medence.",
-                  "category": "natural",
-                  "coords": [
-                        25.859391,
-                        -17.928151
-                  ]
-            },
-            {
-                  "name": "Big Tree (Baobab)",
-                  "text": "Big Tree, egy hatalmas baobabfa a Viktória-vízesés közelében, becslések szerint több mint 1000 éves.",
-                  "category": "landmark",
-                  "coords": [
-                        25.84125,
-                        -17.912613
-                  ]
-            },
-            {
-                  "name": "14 Rainbow Falls",
-                  "text": "A 14 Rainbow Falls egy kiépített kilátóhely Victoria Falls területén.",
-                  "category": "natural",
-                  "coords": [
-                        25.856644,
-                        -17.925845
-                  ]
-            },
-            {
-                  "name": "The log",
-                  "text": "A The log egy helyi kilátóhely Victoria Falls területén.",
-                  "category": "natural",
-                  "coords": [
-                        25.847257,
-                        -17.921792
-                  ]
-            },
-            {
                   "name": "7. Cataract Island View",
                   "text": "A 7. Cataract Island View egy festői kilátóhely Victoria Falls területén.",
                   "category": "natural",
                   "coords": [
                         25.849417,
                         -17.923968
-                  ]
-            },
-            {
-                  "name": "12 Livingstone Island",
-                  "text": "A 12 Livingstone Island egy kilátóhely Victoria Falls területén.",
-                  "category": "natural",
-                  "coords": [
-                        25.85329,
-                        -17.925003
-                  ]
-            },
-            {
-                  "name": "13 Horse Shoe Falls",
-                  "text": "13 Horseshoe Falls, egy sor kisebb vízesés a Viktória-vízesés felett.",
-                  "category": "natural",
-                  "coords": [
-                        25.854963,
-                        -17.925385
-                  ]
-            },
-            {
-                  "name": "Gorge Swing",
-                  "text": "A Gorge Swing egy extrém sportlétesítmény Victoria Falls területén.",
-                  "category": "landmark",
-                  "coords": [
-                        25.8565,
-                        -17.944877
-                  ]
-            },
-            {
-                  "name": "Bridge Swing & Zipline - End (Shearwater)",
-                  "text": "A Shearwater híd-lengő és kötélpálya végpontja a Viktória-vízesés hídján.",
-                  "category": "landmark",
-                  "coords": [
-                        25.857253,
-                        -17.928479
-                  ]
-            },
-            {
-                  "name": "Bridge Zipline - Beginning (Shearwater)",
-                  "text": "A Shearwater kötélpálya indulópontja a Viktória-vízesés hídján.",
-                  "category": "landmark",
-                  "coords": [
-                        25.85659,
-                        -17.929566
-                  ]
-            },
-            {
-                  "name": "Baobab trees road",
-                  "text": "A Baobab trees road egy festői útvonal és látványosság Victoria Falls területén.",
-                  "category": "landmark",
-                  "coords": [
-                        25.843328,
-                        -17.914314
-                  ]
-            },
-            {
-                  "name": "Zambezi river view point",
-                  "text": "Kilátópont a Zambézi folyóra a Viktória-vízesés közelében.",
-                  "category": "natural",
-                  "coords": [
-                        25.847457,
-                        -17.920218
                   ]
             },
             {
@@ -1621,15 +1378,6 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gorge Swing & Zipline (Wild Horizons)",
-                  "text": "A Wild Horizons szurdokhintája és kötélpályája a Batoka-szurdok felett.",
-                  "category": "landmark",
-                  "coords": [
-                        25.848257,
-                        -17.928627
-                  ]
-            },
-            {
                   "name": "Adventure zone",
                   "text": "Kalandzóna Victoria Fallsban, számos izgalmas tevékenységgel.",
                   "category": "landmark",
@@ -1640,15 +1388,6 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Victoria Falls Bridge Visitor Centre",
-                  "text": "Centru de vizitare la Podul Cascadelor Victoria, cu exponate despre construcția sa și a defileului.",
-                  "category": "museum",
-                  "coords": [
-                        25.85768,
-                        -17.929589
-                  ]
-            },
             {
                   "name": "The Snake Pit",
                   "text": "Atracție pentru familii în Victoria Falls, cu o colecție de șerpi.",
@@ -1722,120 +1461,12 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Danger Point",
-                  "text": "Danger Point, un punct de belvedere pe stâncă cu vederi spectaculoase asupra defileului de dedesubt.",
-                  "category": "natural",
-                  "coords": [
-                        25.859155,
-                        -17.926972
-                  ]
-            },
-            {
-                  "name": "Boiling Pot",
-                  "text": "Boiling Pot, bazinul turbulent de la baza Cascadelor Victoria.",
-                  "category": "natural",
-                  "coords": [
-                        25.859391,
-                        -17.928151
-                  ]
-            },
-            {
-                  "name": "Big Tree (Baobab)",
-                  "text": "Big Tree, un baobab uriaș lângă Cascadelor Victoria, estimat la peste 1.000 de ani.",
-                  "category": "landmark",
-                  "coords": [
-                        25.84125,
-                        -17.912613
-                  ]
-            },
-            {
-                  "name": "14 Rainbow Falls",
-                  "text": "14 Rainbow Falls este un punct de belvedere stabilit situat în Victoria Falls.",
-                  "category": "natural",
-                  "coords": [
-                        25.856644,
-                        -17.925845
-                  ]
-            },
-            {
-                  "name": "The log",
-                  "text": "The log este un punct local de belvedere situat în Victoria Falls.",
-                  "category": "natural",
-                  "coords": [
-                        25.847257,
-                        -17.921792
-                  ]
-            },
-            {
                   "name": "7. Cataract Island View",
                   "text": "7. Cataract Island View este un punct de belvedere pitoresc situat în Victoria Falls.",
                   "category": "natural",
                   "coords": [
                         25.849417,
                         -17.923968
-                  ]
-            },
-            {
-                  "name": "12 Livingstone Island",
-                  "text": "12 Livingstone Island este un punct de belvedere situat în Victoria Falls.",
-                  "category": "natural",
-                  "coords": [
-                        25.85329,
-                        -17.925003
-                  ]
-            },
-            {
-                  "name": "13 Horse Shoe Falls",
-                  "text": "13 Horseshoe Falls, o serie de cascade mici în amonte de Cascadelor Victoria.",
-                  "category": "natural",
-                  "coords": [
-                        25.854963,
-                        -17.925385
-                  ]
-            },
-            {
-                  "name": "Gorge Swing",
-                  "text": "Gorge Swing este o atracție de sporturi extreme situată în Victoria Falls.",
-                  "category": "landmark",
-                  "coords": [
-                        25.8565,
-                        -17.944877
-                  ]
-            },
-            {
-                  "name": "Bridge Swing & Zipline - End (Shearwater)",
-                  "text": "Punctul final al saltului de pe pod și tirolianei Shearwater pe Podul Cascadelor Victoria.",
-                  "category": "landmark",
-                  "coords": [
-                        25.857253,
-                        -17.928479
-                  ]
-            },
-            {
-                  "name": "Bridge Zipline - Beginning (Shearwater)",
-                  "text": "Punctul de plecare al tirolianei Shearwater pe Podul Cascadelor Victoria.",
-                  "category": "landmark",
-                  "coords": [
-                        25.85659,
-                        -17.929566
-                  ]
-            },
-            {
-                  "name": "Baobab trees road",
-                  "text": "Baobab trees road este un traseu pitoresc și o atracție situată în Victoria Falls.",
-                  "category": "landmark",
-                  "coords": [
-                        25.843328,
-                        -17.914314
-                  ]
-            },
-            {
-                  "name": "Zambezi river view point",
-                  "text": "Punct de belvedere cu vedere la râul Zambezi lângă Cascadelor Victoria.",
-                  "category": "natural",
-                  "coords": [
-                        25.847457,
-                        -17.920218
                   ]
             },
             {
@@ -1857,15 +1488,6 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gorge Swing & Zipline (Wild Horizons)",
-                  "text": "Saltul în defileu și tiroliana Wild Horizons deasupra Defileului Batoka.",
-                  "category": "landmark",
-                  "coords": [
-                        25.848257,
-                        -17.928627
-                  ]
-            },
-            {
                   "name": "Adventure zone",
                   "text": "Zonă de aventură în Victoria Falls, cu diverse activități de senzație.",
                   "category": "landmark",
@@ -1876,15 +1498,6 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Victoria Falls Bridge Visitor Centre",
-                  "text": "Visitor centre at Victoria Falls Bridge with exhibits on its construction and the gorge.",
-                  "category": "museum",
-                  "coords": [
-                        25.85768,
-                        -17.929589
-                  ]
-            },
             {
                   "name": "The Snake Pit",
                   "text": "Family attraction in Victoria Falls featuring a collection of snakes.",
@@ -1958,120 +1571,12 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Danger Point",
-                  "text": "Danger Point, a cliff viewpoint offering dramatic views of the gorge below.",
-                  "category": "natural",
-                  "coords": [
-                        25.859155,
-                        -17.926972
-                  ]
-            },
-            {
-                  "name": "Boiling Pot",
-                  "text": "Boiling Pot, the turbulent pool at the base of Victoria Falls.",
-                  "category": "natural",
-                  "coords": [
-                        25.859391,
-                        -17.928151
-                  ]
-            },
-            {
-                  "name": "Big Tree (Baobab)",
-                  "text": "Big Tree, a giant baobab estimated to be over 1,000 years old near Victoria Falls.",
-                  "category": "landmark",
-                  "coords": [
-                        25.84125,
-                        -17.912613
-                  ]
-            },
-            {
-                  "name": "14 Rainbow Falls",
-                  "text": "14 Rainbow Falls is an established viewpoint located in Victoria Falls.",
-                  "category": "natural",
-                  "coords": [
-                        25.856644,
-                        -17.925845
-                  ]
-            },
-            {
-                  "name": "The log",
-                  "text": "The log is a local observational viewpoint located in Victoria Falls.",
-                  "category": "natural",
-                  "coords": [
-                        25.847257,
-                        -17.921792
-                  ]
-            },
-            {
                   "name": "7. Cataract Island View",
                   "text": "7. Cataract Island View is a scenic viewpoint situated in Victoria Falls.",
                   "category": "natural",
                   "coords": [
                         25.849417,
                         -17.923968
-                  ]
-            },
-            {
-                  "name": "12 Livingstone Island",
-                  "text": "12 Livingstone Island is an observational viewpoint located in Victoria Falls.",
-                  "category": "natural",
-                  "coords": [
-                        25.85329,
-                        -17.925003
-                  ]
-            },
-            {
-                  "name": "13 Horse Shoe Falls",
-                  "text": "13 Horseshoe Falls, a series of small waterfalls upstream of Victoria Falls.",
-                  "category": "natural",
-                  "coords": [
-                        25.854963,
-                        -17.925385
-                  ]
-            },
-            {
-                  "name": "Gorge Swing",
-                  "text": "Gorge Swing is an extreme sports attraction located in Victoria Falls.",
-                  "category": "landmark",
-                  "coords": [
-                        25.8565,
-                        -17.944877
-                  ]
-            },
-            {
-                  "name": "Bridge Swing & Zipline - End (Shearwater)",
-                  "text": "End point of Shearwater's bridge swing and zipline on Victoria Falls Bridge.",
-                  "category": "landmark",
-                  "coords": [
-                        25.857253,
-                        -17.928479
-                  ]
-            },
-            {
-                  "name": "Bridge Zipline - Beginning (Shearwater)",
-                  "text": "Start point of Shearwater's zipline on Victoria Falls Bridge.",
-                  "category": "landmark",
-                  "coords": [
-                        25.85659,
-                        -17.929566
-                  ]
-            },
-            {
-                  "name": "Baobab trees road",
-                  "text": "Baobab trees road is a scenic route and attraction located in Victoria Falls.",
-                  "category": "landmark",
-                  "coords": [
-                        25.843328,
-                        -17.914314
-                  ]
-            },
-            {
-                  "name": "Zambezi river view point",
-                  "text": "Viewpoint overlooking the Zambezi River near Victoria Falls.",
-                  "category": "natural",
-                  "coords": [
-                        25.847457,
-                        -17.920218
                   ]
             },
             {
@@ -2090,15 +1595,6 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
                   "coords": [
                         25.83757,
                         -17.919781
-                  ]
-            },
-            {
-                  "name": "Gorge Swing & Zipline (Wild Horizons)",
-                  "text": "Wild Horizons' gorge swing and zipline over the Batoka Gorge.",
-                  "category": "landmark",
-                  "coords": [
-                        25.848257,
-                        -17.928627
                   ]
             },
             {

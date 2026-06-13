@@ -507,24 +507,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                         -56.217258,
                         -34.721109
                   ]
-            },
-            {
-                  "name": "Las Piedras",
-                  "text": "Ein Wahrzeichen oder Platz, der den Namen der Stadt Las Piedras trägt.",
-                  "category": "landmark",
-                  "coords": [
-                        -56.245153,
-                        -34.7212
-                  ]
-            },
-            {
-                  "name": "Molino",
-                  "text": "Eine historische Windmühle, die von der landwirtschaftlichen Vergangenheit von Las Piedras zeugt.",
-                  "category": "landmark",
-                  "coords": [
-                        -56.223515,
-                        -34.734445
-                  ]
             }
       ],
       "hu": [
@@ -544,24 +526,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   "coords": [
                         -56.217258,
                         -34.721109
-                  ]
-            },
-            {
-                  "name": "Las Piedras",
-                  "text": "A város nevét viselő jellegzetes helyszín vagy tér Las Piedrasban.",
-                  "category": "landmark",
-                  "coords": [
-                        -56.245153,
-                        -34.7212
-                  ]
-            },
-            {
-                  "name": "Molino",
-                  "text": "Egy történelmi szélmalom, amely Las Piedras mezőgazdasági múltjáról tanúskodik.",
-                  "category": "landmark",
-                  "coords": [
-                        -56.223515,
-                        -34.734445
                   ]
             }
       ],
@@ -583,24 +547,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                         -56.217258,
                         -34.721109
                   ]
-            },
-            {
-                  "name": "Las Piedras",
-                  "text": "Un punct de reper sau o piață care poartă numele orașului Las Piedras.",
-                  "category": "landmark",
-                  "coords": [
-                        -56.245153,
-                        -34.7212
-                  ]
-            },
-            {
-                  "name": "Molino",
-                  "text": "O moară de vânt istorică ce atestă trecutul agricol al localității Las Piedras.",
-                  "category": "landmark",
-                  "coords": [
-                        -56.223515,
-                        -34.734445
-                  ]
             }
       ],
       "en": [
@@ -620,24 +566,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   "coords": [
                         -56.217258,
                         -34.721109
-                  ]
-            },
-            {
-                  "name": "Las Piedras",
-                  "text": "A landmark or square bearing the name of the city of Las Piedras.",
-                  "category": "landmark",
-                  "coords": [
-                        -56.245153,
-                        -34.7212
-                  ]
-            },
-            {
-                  "name": "Molino",
-                  "text": "A historical windmill testifying to the agricultural past of Las Piedras.",
-                  "category": "landmark",
-                  "coords": [
-                        -56.223515,
-                        -34.734445
                   ]
             }
       ]
@@ -685,50 +613,10 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     }, image: "/poi-images/las-piedras-cities-v2.webp"},
   {
     id: "pando-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Pando",
-                  "text": "Pando ist eine Industrie- und Handelsstadt in Uruguay, die als wichtiger Verkehrsknotenpunkt bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.963963,
-                        -34.726949
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Pando",
-                  "text": "Pando egy ipari és kereskedelmi város Uruguayban, amely fontos közlekedési csomópontként ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.963963,
-                        -34.726949
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Pando",
-                  "text": "Pando este un oraș industrial și comercial din Uruguay, cunoscut ca un important nod de transport.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.963963,
-                        -34.726949
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Pando",
-                  "text": "Pando is an industrial and commercial city in Uruguay, known as an important transport hub.",
-                  "category": "landmark",
-                  "coords": [
-                        -55.963963,
-                        -34.726949
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "UY-CA",
@@ -1984,15 +1872,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                         -55.763322,
                         -34.775477
                   ]
-            },
-            {
-                  "name": "Parroquia Cristo Obrero",
-                  "text": "Die Kirche Christi des Arbeiters ist ein architektonisch beeindruckendes Gotteshaus in Atlantida.",
-                  "category": "religious",
-                  "coords": [
-                        -55.766368,
-                        -34.743939
-                  ]
             }
       ],
       "hu": [
@@ -2039,15 +1918,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   "coords": [
                         -55.763322,
                         -34.775477
-                  ]
-            },
-            {
-                  "name": "Parroquia Cristo Obrero",
-                  "text": "A Munkás Krisztus-templom egy lenyűgöző építészeti istentiszteleti hely Atlantidában.",
-                  "category": "religious",
-                  "coords": [
-                        -55.766368,
-                        -34.743939
                   ]
             }
       ],
@@ -2096,15 +1966,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                         -55.763322,
                         -34.775477
                   ]
-            },
-            {
-                  "name": "Parroquia Cristo Obrero",
-                  "text": "Biserica Hristos Muncitorul este un lăcaș de cult arhitectural remarcabil din Atlantida.",
-                  "category": "religious",
-                  "coords": [
-                        -55.766368,
-                        -34.743939
-                  ]
             }
       ],
       "en": [
@@ -2151,15 +2012,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   "coords": [
                         -55.763322,
                         -34.775477
-                  ]
-            },
-            {
-                  "name": "Parroquia Cristo Obrero",
-                  "text": "The Church of Christ the Worker is a striking architectural place of worship in Atlantida.",
-                  "category": "religious",
-                  "coords": [
-                        -55.766368,
-                        -34.743939
                   ]
             }
       ]
@@ -2732,15 +2584,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Mano",
-                  "text": "Die berühmte Skulptur einer aus dem Sand ragenden Hand am Strand Brava.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.937291,
-                        -34.957892
-                  ]
-            },
-            {
                   "name": "Mirador Punta de Salinas",
                   "text": "Ein Aussichtspunkt am südlichsten Punkt Uruguays, wo der Río de la Plata auf den Ozean trifft.",
                   "category": "natural",
@@ -2759,24 +2602,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muelle La Pastora",
-                  "text": "Sunset point: ein natürlicher Aussichtspunkt an der Küste von Punta del Este, berühmt für seine Sonnenuntergänge.",
-                  "category": "natural",
-                  "coords": [
-                        -54.942055,
-                        -34.951868
-                  ]
-            },
-            {
-                  "name": "Montepilatus",
-                  "text": "Montepilatus: ein Museum nach dem Schweizer Berg benannt, gelegen in Punta del Este.",
-                  "category": "museum",
-                  "coords": [
-                        -54.930734,
-                        -34.951008
-                  ]
-            },
-            {
                   "name": "La Vista",
                   "text": "La Vista: ein Museum mit malerischem Blick auf die Küste von Punta del Este.",
                   "category": "museum",
@@ -2792,24 +2617,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   "coords": [
                         -54.949041,
                         -34.965454
-                  ]
-            },
-            {
-                  "name": "Batería de La Concepción",
-                  "text": "Conception's Battery: eine Küstenartillerie-Batterie aus dem 19. Jahrhundert in Punta del Este.",
-                  "category": "historical",
-                  "coords": [
-                        -54.972624,
-                        -34.949989
-                  ]
-            },
-            {
-                  "name": "Batería de Santa Ana",
-                  "text": "Saint Ana's Battery: eine historische Küstenfestung in Punta del Este.",
-                  "category": "historical",
-                  "coords": [
-                        -54.975692,
-                        -34.951855
                   ]
             },
             {
@@ -2833,15 +2640,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Mano",
-                  "text": "A híres, homokból kiemelkedő kezet ábrázoló szobor a Brava-strandon.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.937291,
-                        -34.957892
-                  ]
-            },
-            {
                   "name": "Mirador Punta de Salinas",
                   "text": "Kilátópont Uruguay legdélebbi pontján, ahol a Río de la Plata találkozik az óceánnal.",
                   "category": "natural",
@@ -2860,24 +2658,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muelle La Pastora",
-                  "text": "Sunset point: egy természetes kilátópont Punta del Este partján, híres naplementéiről.",
-                  "category": "natural",
-                  "coords": [
-                        -54.942055,
-                        -34.951868
-                  ]
-            },
-            {
-                  "name": "Montepilatus",
-                  "text": "Montepilatus: a svájci hegyről elnevezett múzeum Punta del Estében.",
-                  "category": "museum",
-                  "coords": [
-                        -54.930734,
-                        -34.951008
-                  ]
-            },
-            {
                   "name": "La Vista",
                   "text": "La Vista: múzeum, mely gyönyörű kilátást nyújt Punta del Este partvidékére.",
                   "category": "museum",
@@ -2893,24 +2673,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   "coords": [
                         -54.949041,
                         -34.965454
-                  ]
-            },
-            {
-                  "name": "Batería de La Concepción",
-                  "text": "Conception's Battery: egy 19. századi tengerparti tüzérségi üteg Punta del Estében.",
-                  "category": "historical",
-                  "coords": [
-                        -54.972624,
-                        -34.949989
-                  ]
-            },
-            {
-                  "name": "Batería de Santa Ana",
-                  "text": "Saint Ana's Battery: történelmi tengerparti erőd Punta del Estében.",
-                  "category": "historical",
-                  "coords": [
-                        -54.975692,
-                        -34.951855
                   ]
             },
             {
@@ -2934,15 +2696,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Mano",
-                  "text": "Celebra sculptură a unei mâini care iese din nisip, situată pe plaja Brava.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.937291,
-                        -34.957892
-                  ]
-            },
-            {
                   "name": "Mirador Punta de Salinas",
                   "text": "Un punct de observare în cel mai sudic punct al Uruguayului, unde Río de la Plata se întâlnește cu oceanul.",
                   "category": "natural",
@@ -2961,24 +2714,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muelle La Pastora",
-                  "text": "Sunset point: un punct de belvedere natural pe coasta Punta del Este, renumit pentru apusurile sale.",
-                  "category": "natural",
-                  "coords": [
-                        -54.942055,
-                        -34.951868
-                  ]
-            },
-            {
-                  "name": "Montepilatus",
-                  "text": "Montepilatus: un muzeu denumit după muntele elvețian, situat în Punta del Este.",
-                  "category": "museum",
-                  "coords": [
-                        -54.930734,
-                        -34.951008
-                  ]
-            },
-            {
                   "name": "La Vista",
                   "text": "La Vista: un muzeu care oferă o vedere pitorească asupra coastei Punta del Este.",
                   "category": "museum",
@@ -2994,24 +2729,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   "coords": [
                         -54.949041,
                         -34.965454
-                  ]
-            },
-            {
-                  "name": "Batería de La Concepción",
-                  "text": "Conception's Battery: o baterie de artilerie de coastă din secolul al XIX-lea în Punta del Este.",
-                  "category": "historical",
-                  "coords": [
-                        -54.972624,
-                        -34.949989
-                  ]
-            },
-            {
-                  "name": "Batería de Santa Ana",
-                  "text": "Saint Ana's Battery: o fortăreață istorică de coastă în Punta del Este.",
-                  "category": "historical",
-                  "coords": [
-                        -54.975692,
-                        -34.951855
                   ]
             },
             {
@@ -3035,15 +2752,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Hand",
-                  "text": "The famous sculpture of a hand emerging from the sand at Brava Beach.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.937291,
-                        -34.957892
-                  ]
-            },
-            {
                   "name": "Mirador Punta de Salinas",
                   "text": "A viewpoint at the southernmost point of Uruguay, where the Río de la Plata meets the ocean.",
                   "category": "natural",
@@ -3062,24 +2770,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sunset point",
-                  "text": "Sunset point: a natural viewpoint on the coast of Punta del Este, famous for its sunsets.",
-                  "category": "natural",
-                  "coords": [
-                        -54.942055,
-                        -34.951868
-                  ]
-            },
-            {
-                  "name": "Montepilatus",
-                  "text": "Montepilatus: a museum named after the Swiss mountain, located in Punta del Este.",
-                  "category": "museum",
-                  "coords": [
-                        -54.930734,
-                        -34.951008
-                  ]
-            },
-            {
                   "name": "La Vista",
                   "text": "La Vista: a museum offering scenic views of Punta del Este's coastline.",
                   "category": "museum",
@@ -3095,24 +2785,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   "coords": [
                         -54.949041,
                         -34.965454
-                  ]
-            },
-            {
-                  "name": "Conception's Battery",
-                  "text": "Conception's Battery: a 19th-century coastal artillery battery in Punta del Este.",
-                  "category": "historical",
-                  "coords": [
-                        -54.972624,
-                        -34.949989
-                  ]
-            },
-            {
-                  "name": "Saint Ana's Battery",
-                  "text": "Saint Ana's Battery: a historical coastal fortress in Punta del Este.",
-                  "category": "historical",
-                  "coords": [
-                        -54.975692,
-                        -34.951855
                   ]
             },
             {
@@ -3198,7 +2870,160 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
     }, image: "/poi-images/san-carlos-cities-v2.webp"},
   {
-    id: "piriapolis-cities-v2", "sights": {"de": [{"name": "Museo Ferroviario", "text": "Dieses Museum in Piriápolis zeigt die Geschichte des Schienenverkehrs in Uruguay und der lokalen Region.", "category": "museum", "coords": [-55.277254, -34.863988]}, {"name": "Museo de Arte de Piriápolis - Les Mouettes", "text": "Ein Kunstraum in Piriápolis mit zeitgenössischen Werken und ausstellungen von lokalen und regionalen Künstlern.", "category": "museum", "coords": [-55.275357, -34.872735]}, {"name": "Pabellón de las Rosas", "text": "Ein historischer Veranstaltungsort in Piriápolis, der für seine schöne Architektur und kulturellen Veranstaltungen bekannt ist.", "category": "cultural", "coords": [-55.278606, -34.86212]}, {"name": "Cerro San Antonio", "text": "Ein beliebter Hügel in Piriápolis mit einer Kapelle auf dem Gipfel und einem Panoramablick auf die Küste.", "category": "natural", "coords": [-55.274025, -34.878172]}, {"name": "Cerro del Toro", "text": "Ein Hügel in Piriápolis, der für die Quelle des Stiers bekannt ist, eine Bronzestatue, aus der natürliches Wasser fließt.", "category": "natural", "coords": [-55.252519, -34.863546]}, {"name": "Cerro del Indio", "text": "Einer der Küstenhügel in Piriápolis, der einen natürlichen Aussichtspunkt zum Wandern und Beobachten bietet.", "category": "natural", "coords": [-55.265031, -34.877724]}, {"name": "Cerro del Tambo", "text": "Ein Hügel bei Piriápolis, der Teil der vielfältigen Küstenlandschaft der Region ist.", "category": "natural", "coords": [-55.253367, -34.872958]}, {"name": "Vista panoramica de Playa de Piriápolis", "text": "Elegant in Piriapolis gelegen, bietet dieser Aussichtspunkt eine weite und atemberaubende Perspektive auf den Hauptstrand und die Uferpromenade. Die Atmosphäre ist lebhaft und zugleich ehrfurchtgebietend, was unzählige Besucher anzieht, die die Schönheit der Küste genießen möchten. Gäste können sich hier auf gemütliche Spaziergänge und spektakuläre Fotomotive anstelle von klassischem Sonnenbaden freuen. Wer kurz vor Sonnenuntergang kommt, erlebt ein absolut magisches Licht über der weiten Meereslandschaft.", "category": "landmark", "coords": [-55.276938, -34.872222]}, {"name": "Camino Corta Fuego", "text": "Ein malerischer Fußweg in Piriápolis, der ursprünglich als Brandschutzstreifen angelegt wurde.", "category": "natural", "coords": [-55.260107, -34.869455]}], "hu": [{"name": "Museo Ferroviario", "text": "Ez a piriápolisi múzeum Uruguay és a környék vasúti közlekedésének történetét mutatja be.", "category": "museum", "coords": [-55.277254, -34.863988]}, {"name": "Museo de Arte de Piriápolis - Les Mouettes", "text": "Művészeti tér Piriápolisban, amely helyi és regionális művészek kortárs alkotásait és kiállításait mutatja be.", "category": "museum", "coords": [-55.275357, -34.872735]}, {"name": "Pabellón de las Rosas", "text": "Történelmi előadóhely Piriápolisban, amely gyönyörű építészetéről és kulturális eseményeiről ismert.", "category": "cultural", "coords": [-55.278606, -34.86212]}, {"name": "Cerro San Antonio", "text": "Népszerű domb Piriápolisban, melynek tetején kápolna és a tengerpartra nyíló panoráma várja a látogatókat.", "category": "natural", "coords": [-55.274025, -34.878172]}, {"name": "Cerro del Toro", "text": "Piriápolisi domb, amely a Bika forrásáról híres; ez egy bronzszobor, amelyből természetes víz folyik.", "category": "natural", "coords": [-55.252519, -34.863546]}, {"name": "Cerro del Indio", "text": "Piriápolis egyik tengerparti dombja, amely természetes helyszínt biztosít a túrázáshoz és a nézelődéshez.", "category": "natural", "coords": [-55.265031, -34.877724]}, {"name": "Cerro del Tambo", "text": "Piriápolis közeli domb, amely a régió változatos tengerparti tájának részét képezi.", "category": "natural", "coords": [-55.253367, -34.872958]}, {"name": "Vista panoramica de Playa de Piriápolis", "text": "A Piriapolisban elegánsan magasodó panorámás kilátóhely elsöprő és lélegzetelállító kilátást nyújt a fő strandra és a tengerparti sétányra. A hangulat egyszerre vibráló és lenyűgöző, amely vonzza a part menti szépségre vágyó városnézőket. A hagyományos napozás helyett a látogatók kényelmes sétákra és lenyűgöző fényképek készítésére számíthatnak. Ha közvetlenül naplemente előtt érkezik, teljesen varázslatos fényben tündöklik a lenti elterülő tengeri táj.", "category": "landmark", "coords": [-55.276938, -34.872222]}, {"name": "Camino Corta Fuego", "text": "Festői sétány Piriápolisban, amelyet eredetileg tűzvédelmi sávként hoztak létre, ma gyönyörű kilátást nyújt.", "category": "natural", "coords": [-55.260107, -34.869455]}], "ro": [{"name": "Museo Ferroviario", "text": "Acest muzeu din Piriápolis prezintă istoria transportului feroviar din Uruguay și din zona locală.", "category": "museum", "coords": [-55.277254, -34.863988]}, {"name": "Museo de Arte de Piriápolis - Les Mouettes", "text": "Un spațiu de artă din Piriápolis care prezintă lucrări contemporane și expoziții ale artiștilor locali și regionali.", "category": "museum", "coords": [-55.275357, -34.872735]}, {"name": "Pabellón de las Rosas", "text": "Un loc istoric de spectacole din Piriápolis, cunoscut pentru arhitectura sa frumoasă și evenimentele culturale.", "category": "cultural", "coords": [-55.278606, -34.86212]}, {"name": "Cerro San Antonio", "text": "Un deal popular din Piriápolis, care oferă o capelă pe vârful său și vederi panoramice ale coastei.", "category": "natural", "coords": [-55.274025, -34.878172]}, {"name": "Cerro del Toro", "text": "Un deal din Piriápolis renumit pentru Izvorul Taurului, o statuie de bronz din care curge apă naturală.", "category": "natural", "coords": [-55.252519, -34.863546]}, {"name": "Cerro del Indio", "text": "Unul dintre dealurile de coastă din Piriápolis, oferind un punct natural pitoresc pentru drumeții și observație.", "category": "natural", "coords": [-55.265031, -34.877724]}, {"name": "Cerro del Tambo", "text": "Un deal lângă Piriápolis care face parte din peisajul de coastă divers al regiunii.", "category": "natural", "coords": [-55.253367, -34.872958]}, {"name": "Vista panoramica de Playa de Piriápolis", "text": "Așezat elegant în Piriapolis, acest punct de belvedere panoramic oferă o perspectivă amplă și uluitoare asupra plajei principale și a promenadei de pe malul apei. Atmosfera este vibrantă, dar impresionantă, atrăgând turiștii dornici să admire frumusețea coastei. Vizitatorii se pot aștepta să se bucure de plimbări pe îndelete și să surprindă fotografii uimitoare în loc de plajă tradițională. Ajungerea chiar înainte de apusul soarelui oferă o strălucire absolut magică peste peisajul marin întins de dedesubt.", "category": "landmark", "coords": [-55.276938, -34.872222]}, {"name": "Camino Corta Fuego", "text": "O alee pitorească din Piriápolis creată inițial ca barieră împotriva incendiilor, oferind acum vederi frumoase.", "category": "natural", "coords": [-55.260107, -34.869455]}], "en": [{"name": "Museo Ferroviario", "text": "This museum in Piriápolis showcases the history of rail transport in Uruguay and the local area.", "category": "museum", "coords": [-55.277254, -34.863988]}, {"name": "Museo de Arte de Piriápolis - Les Mouettes", "text": "An art space in Piriápolis featuring contemporary works and exhibitions by local and regional artists.", "category": "museum", "coords": [-55.275357, -34.872735]}, {"name": "Pabellón de las Rosas", "text": "A historic performance venue in Piriápolis known for its beautiful architecture and cultural events.", "category": "cultural", "coords": [-55.278606, -34.86212]}, {"name": "Cerro San Antonio", "text": "A popular hill in Piriápolis offering a chapel at its summit and panoramic views of the coastline.", "category": "natural", "coords": [-55.274025, -34.878172]}, {"name": "Cerro del Toro", "text": "A hill in Piriápolis famous for the 'Source of the Bull,' a bronze statue from which natural water flows.", "category": "natural", "coords": [-55.252519, -34.863546]}, {"name": "Cerro del Indio", "text": "One of the coastal hills in Piriápolis, providing a natural scenic spot for hiking and observation.", "category": "natural", "coords": [-55.265031, -34.877724]}, {"name": "Cerro del Tambo", "text": "A hill near Piriápolis that forms part of the region's diverse coastal landscape.", "category": "natural", "coords": [-55.253367, -34.872958]}, {"name": "Vista panoramica de Playa de Piriápolis", "text": "Perched elegantly in Piriapolis, this panoramic viewpoint offers a sweeping and breathtaking perspective of the main beach and waterfront promenade. The atmosphere is vibrant yet awe-inspiring, drawing sightseers eager to take in the coastal beauty. Visitors can expect to enjoy leisurely strolls and capture stunning photographs rather than traditional sunbathing. Arriving right before sunset provides an absolutely magical glow over the sprawling seascape below.", "category": "landmark", "coords": [-55.276938, -34.872222]}, {"name": "Walking hallway (created to stop wildfires)", "text": "A scenic walkway in Piriápolis originally created as a firebreak, now offering beautiful coastal views.", "category": "natural", "coords": [-55.260107, -34.869455]}]},
+    id: "piriapolis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Ferroviario",
+                  "text": "Dieses Museum in Piriápolis zeigt die Geschichte des Schienenverkehrs in Uruguay und der lokalen Region.",
+                  "category": "museum",
+                  "coords": [
+                        -55.277254,
+                        -34.863988
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Piriápolis - Les Mouettes",
+                  "text": "Ein Kunstraum in Piriápolis mit zeitgenössischen Werken und ausstellungen von lokalen und regionalen Künstlern.",
+                  "category": "museum",
+                  "coords": [
+                        -55.275357,
+                        -34.872735
+                  ]
+            },
+            {
+                  "name": "Pabellón de las Rosas",
+                  "text": "Ein historischer Veranstaltungsort in Piriápolis, der für seine schöne Architektur und kulturellen Veranstaltungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.278606,
+                        -34.86212
+                  ]
+            },
+            {
+                  "name": "Vista panoramica de Playa de Piriápolis",
+                  "text": "Elegant in Piriapolis gelegen, bietet dieser Aussichtspunkt eine weite und atemberaubende Perspektive auf den Hauptstrand und die Uferpromenade. Die Atmosphäre ist lebhaft und zugleich ehrfurchtgebietend, was unzählige Besucher anzieht, die die Schönheit der Küste genießen möchten. Gäste können sich hier auf gemütliche Spaziergänge und spektakuläre Fotomotive anstelle von klassischem Sonnenbaden freuen. Wer kurz vor Sonnenuntergang kommt, erlebt ein absolut magisches Licht über der weiten Meereslandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.276938,
+                        -34.872222
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Ferroviario",
+                  "text": "Ez a piriápolisi múzeum Uruguay és a környék vasúti közlekedésének történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -55.277254,
+                        -34.863988
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Piriápolis - Les Mouettes",
+                  "text": "Művészeti tér Piriápolisban, amely helyi és regionális művészek kortárs alkotásait és kiállításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -55.275357,
+                        -34.872735
+                  ]
+            },
+            {
+                  "name": "Pabellón de las Rosas",
+                  "text": "Történelmi előadóhely Piriápolisban, amely gyönyörű építészetéről és kulturális eseményeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.278606,
+                        -34.86212
+                  ]
+            },
+            {
+                  "name": "Vista panoramica de Playa de Piriápolis",
+                  "text": "A Piriapolisban elegánsan magasodó panorámás kilátóhely elsöprő és lélegzetelállító kilátást nyújt a fő strandra és a tengerparti sétányra. A hangulat egyszerre vibráló és lenyűgöző, amely vonzza a part menti szépségre vágyó városnézőket. A hagyományos napozás helyett a látogatók kényelmes sétákra és lenyűgöző fényképek készítésére számíthatnak. Ha közvetlenül naplemente előtt érkezik, teljesen varázslatos fényben tündöklik a lenti elterülő tengeri táj.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.276938,
+                        -34.872222
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Ferroviario",
+                  "text": "Acest muzeu din Piriápolis prezintă istoria transportului feroviar din Uruguay și din zona locală.",
+                  "category": "museum",
+                  "coords": [
+                        -55.277254,
+                        -34.863988
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Piriápolis - Les Mouettes",
+                  "text": "Un spațiu de artă din Piriápolis care prezintă lucrări contemporane și expoziții ale artiștilor locali și regionali.",
+                  "category": "museum",
+                  "coords": [
+                        -55.275357,
+                        -34.872735
+                  ]
+            },
+            {
+                  "name": "Pabellón de las Rosas",
+                  "text": "Un loc istoric de spectacole din Piriápolis, cunoscut pentru arhitectura sa frumoasă și evenimentele culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.278606,
+                        -34.86212
+                  ]
+            },
+            {
+                  "name": "Vista panoramica de Playa de Piriápolis",
+                  "text": "Așezat elegant în Piriapolis, acest punct de belvedere panoramic oferă o perspectivă amplă și uluitoare asupra plajei principale și a promenadei de pe malul apei. Atmosfera este vibrantă, dar impresionantă, atrăgând turiștii dornici să admire frumusețea coastei. Vizitatorii se pot aștepta să se bucure de plimbări pe îndelete și să surprindă fotografii uimitoare în loc de plajă tradițională. Ajungerea chiar înainte de apusul soarelui oferă o strălucire absolut magică peste peisajul marin întins de dedesubt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.276938,
+                        -34.872222
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Ferroviario",
+                  "text": "This museum in Piriápolis showcases the history of rail transport in Uruguay and the local area.",
+                  "category": "museum",
+                  "coords": [
+                        -55.277254,
+                        -34.863988
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Piriápolis - Les Mouettes",
+                  "text": "An art space in Piriápolis featuring contemporary works and exhibitions by local and regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        -55.275357,
+                        -34.872735
+                  ]
+            },
+            {
+                  "name": "Pabellón de las Rosas",
+                  "text": "A historic performance venue in Piriápolis known for its beautiful architecture and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.278606,
+                        -34.86212
+                  ]
+            },
+            {
+                  "name": "Vista panoramica de Playa de Piriápolis",
+                  "text": "Perched elegantly in Piriapolis, this panoramic viewpoint offers a sweeping and breathtaking perspective of the main beach and waterfront promenade. The atmosphere is vibrant yet awe-inspiring, drawing sightseers eager to take in the coastal beauty. Visitors can expect to enjoy leisurely strolls and capture stunning photographs rather than traditional sunbathing. Arriving right before sunset provides an absolutely magical glow over the sprawling seascape below.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.276938,
+                        -34.872222
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-MA",
     coords: [-55.2833, -34.8667],
@@ -3244,15 +3069,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     id: "pan-de-azucar-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Reserva de Fauna y Flora Pan de Azúcar",
-                  "text": "Das Fauna- und Flora-Reservat Pan de Azúcar fungiert als Zoo und Naturschutzgebiet.",
-                  "category": "family",
-                  "coords": [
-                        -55.249976,
-                        -34.813525
-                  ]
-            },
-            {
                   "name": "Cerro Pan de Azúcar",
                   "text": "Der Cerro Pan de Azúcar ist ein markanter Hügel und der dritthöchste Punkt in Uruguay.",
                   "category": "natural",
@@ -3281,15 +3097,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Reserva de Fauna y Flora Pan de Azúcar",
-                  "text": "A Pan de Azúcar Állat- és Növényrezervátum állatkertként és természetvédelmi területként működik.",
-                  "category": "family",
-                  "coords": [
-                        -55.249976,
-                        -34.813525
-                  ]
-            },
             {
                   "name": "Cerro Pan de Azúcar",
                   "text": "A Cerro Pan de Azúcar egy kiemelkedő domb és Uruguay harmadik legmagasabb pontja.",
@@ -3320,15 +3127,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Reserva de Fauna y Flora Pan de Azúcar",
-                  "text": "Rezervația de Faună și Floră Pan de Azúcar funcționează ca o grădină zoologică și zonă de conservare.",
-                  "category": "family",
-                  "coords": [
-                        -55.249976,
-                        -34.813525
-                  ]
-            },
-            {
                   "name": "Cerro Pan de Azúcar",
                   "text": "Cerro Pan de Azúcar este un deal proeminent și al treilea cel mai înalt punct din Uruguay.",
                   "category": "natural",
@@ -3357,15 +3155,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Reserva de Fauna y Flora Pan de Azúcar",
-                  "text": "The Pan de Azúcar Fauna and Flora Reserve functions as a zoo and conservation area.",
-                  "category": "family",
-                  "coords": [
-                        -55.249976,
-                        -34.813525
-                  ]
-            },
             {
                   "name": "Cerro Pan de Azúcar",
                   "text": "Cerro Pan de Azúcar is a prominent hill and the third highest point in Uruguay.",
@@ -5748,30 +5537,12 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     id: "bella-union-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Parque Acuático Termal Monte Caseros",
-                  "text": "Ein Thermal-Wasserpark in Bella Unión mit verschiedenen Becken und Rutschen.",
-                  "category": "family",
-                  "coords": [
-                        -57.624967,
-                        -30.259363
-                  ]
-            },
-            {
                   "name": "Casa de Turismo",
                   "text": "Eine archäologische Stätte in Bella Unión, die Einblicke in die lokale Geschichte bietet.",
                   "category": "historical",
                   "coords": [
                         -57.62143,
                         -30.253845
-                  ]
-            },
-            {
-                  "name": "Playas Sur de Monte Caseros",
-                  "text": "Ein Ferienort am Strand in Bella Unión mit verschiedenen Freizeitmöglichkeiten.",
-                  "category": "recreational",
-                  "coords": [
-                        -57.623112,
-                        -30.259139
                   ]
             },
             {
@@ -5786,30 +5557,12 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Parque Acuático Termal Monte Caseros",
-                  "text": "Termálvizes élménypark Bella Uniónban, különféle medencékkel és csúszdákkal.",
-                  "category": "family",
-                  "coords": [
-                        -57.624967,
-                        -30.259363
-                  ]
-            },
-            {
                   "name": "Casa de Turismo",
                   "text": "Régészeti lelőhely Bella Uniónban, amely betekintést nyújt a helyi történelembe.",
                   "category": "historical",
                   "coords": [
                         -57.62143,
                         -30.253845
-                  ]
-            },
-            {
-                  "name": "Playas Sur de Monte Caseros",
-                  "text": "Tengerparti üdülőhely Bella Uniónban, különféle szabadidős lehetőségekkel.",
-                  "category": "recreational",
-                  "coords": [
-                        -57.623112,
-                        -30.259139
                   ]
             },
             {
@@ -5824,30 +5577,12 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Parque Acuático Termal Monte Caseros",
-                  "text": "Un parc acvatic termal în Bella Unión, cu diverse bazine și tobogane.",
-                  "category": "family",
-                  "coords": [
-                        -57.624967,
-                        -30.259363
-                  ]
-            },
-            {
                   "name": "Casa de Turismo",
                   "text": "Un sit arheologic în Bella Unión care oferă perspective asupra istoriei locale.",
                   "category": "historical",
                   "coords": [
                         -57.62143,
                         -30.253845
-                  ]
-            },
-            {
-                  "name": "Playas Sur de Monte Caseros",
-                  "text": "O stațiune de plajă în Bella Unión, oferind diverse facilități recreative.",
-                  "category": "recreational",
-                  "coords": [
-                        -57.623112,
-                        -30.259139
                   ]
             },
             {
@@ -5862,30 +5597,12 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Parque Acuático Termal Monte Caseros",
-                  "text": "A thermal water park in Bella Unión featuring various pools and slides.",
-                  "category": "family",
-                  "coords": [
-                        -57.624967,
-                        -30.259363
-                  ]
-            },
-            {
                   "name": "Casa de Turismo",
                   "text": "An archaeological site in Bella Unión providing insights into local history.",
                   "category": "historical",
                   "coords": [
                         -57.62143,
                         -30.253845
-                  ]
-            },
-            {
-                  "name": "Playas Sur de Monte Caseros",
-                  "text": "A beach resort in Bella Unión offering various recreational facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        -57.623112,
-                        -30.259139
                   ]
             },
             {
@@ -8178,42 +7895,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                         -54.176003,
                         -34.662363
                   ]
-            },
-            {
-                  "name": "Tortugas Karumbé",
-                  "text": "Ein Zentrum zum Schutz von Meeresschildkröten in La Paloma.",
-                  "category": "family",
-                  "coords": [
-                        -54.153969,
-                        -34.66159
-                  ]
-            },
-            {
-                  "name": "Faro Cabo Santa Maria",
-                  "text": "Der Leuchtturm Faro Cabo Santa Maria in Paloma steht auf einer sandigen Landzunge an der Südspitze Uruguays.",
-                  "category": "natural",
-                  "coords": [
-                        -54.152853,
-                        -34.668214
-                  ]
-            },
-            {
-                  "name": "Puerto",
-                  "text": "Der Hafenbereich von La Paloma mit Blick auf die Küste.",
-                  "category": "natural",
-                  "coords": [
-                        -54.144643,
-                        -34.648212
-                  ]
-            },
-            {
-                  "name": "La Paloma",
-                  "text": "La Paloma: der ikonische Leuchtturm von La Paloma, ein Wahrzeichen an der Küste.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.154847,
-                        -34.667688
-                  ]
             }
       ],
       "hu": [
@@ -8251,42 +7932,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   "coords": [
                         -54.176003,
                         -34.662363
-                  ]
-            },
-            {
-                  "name": "Tortugas Karumbé",
-                  "text": "Tengeri teknősök védelmével foglalkozó központ La Palomában.",
-                  "category": "family",
-                  "coords": [
-                        -54.153969,
-                        -34.66159
-                  ]
-            },
-            {
-                  "name": "Faro Cabo Santa Maria",
-                  "text": "A Faro Cabo Santa Maria világítótorony Palomában egy homokos földnyelven áll, Uruguay déli csücskén.",
-                  "category": "natural",
-                  "coords": [
-                        -54.152853,
-                        -34.668214
-                  ]
-            },
-            {
-                  "name": "Puerto",
-                  "text": "La Paloma kikötői negyede, kilátással a tengerpartra.",
-                  "category": "natural",
-                  "coords": [
-                        -54.144643,
-                        -34.648212
-                  ]
-            },
-            {
-                  "name": "La Paloma",
-                  "text": "La Paloma: La Paloma ikonikus világítótornya, egy tengerparti nevezetesség.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.154847,
-                        -34.667688
                   ]
             }
       ],
@@ -8326,42 +7971,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                         -54.176003,
                         -34.662363
                   ]
-            },
-            {
-                  "name": "Tortugas Karumbé",
-                  "text": "Un centru pentru protecția țestoaselor marine în La Paloma.",
-                  "category": "family",
-                  "coords": [
-                        -54.153969,
-                        -34.66159
-                  ]
-            },
-            {
-                  "name": "Faro Cabo Santa Maria",
-                  "text": "Farul Faro Cabo Santa Maria din Paloma se află pe un promontoriu nisipos la extremitatea sudică a Uruguayului.",
-                  "category": "natural",
-                  "coords": [
-                        -54.152853,
-                        -34.668214
-                  ]
-            },
-            {
-                  "name": "Puerto",
-                  "text": "Zona portuară din La Paloma, oferind vedere spre coastă.",
-                  "category": "natural",
-                  "coords": [
-                        -54.144643,
-                        -34.648212
-                  ]
-            },
-            {
-                  "name": "La Paloma",
-                  "text": "La Paloma: farul iconic al localității La Paloma, un reper de pe coastă.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.154847,
-                        -34.667688
-                  ]
             }
       ],
       "en": [
@@ -8399,42 +8008,6 @@ export const poiExtraUruguayCitiesV2: POI[] = [
                   "coords": [
                         -54.176003,
                         -34.662363
-                  ]
-            },
-            {
-                  "name": "Tortugas Karumbé",
-                  "text": "A center for the protection of sea turtles in La Paloma.",
-                  "category": "family",
-                  "coords": [
-                        -54.153969,
-                        -34.66159
-                  ]
-            },
-            {
-                  "name": "Faro Cabo Santa Maria",
-                  "text": "Faro Cabo Santa Maria lighthouse in Paloma stands on a sandy headland at the southern tip of Uruguay.",
-                  "category": "natural",
-                  "coords": [
-                        -54.152853,
-                        -34.668214
-                  ]
-            },
-            {
-                  "name": "Puerto",
-                  "text": "The port area of La Paloma offering views of the coast.",
-                  "category": "natural",
-                  "coords": [
-                        -54.144643,
-                        -34.648212
-                  ]
-            },
-            {
-                  "name": "La Paloma",
-                  "text": "La Paloma: the iconic lighthouse at La Paloma, a landmark along the coast.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.154847,
-                        -34.667688
                   ]
             }
       ]

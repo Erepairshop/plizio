@@ -1968,39 +1968,12 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "chor-minor-bukhara-history-v2", "sights": {
       "de": [
             {
-                  "name": "Mavzolei Saifeddina Bokharzi",
-                  "text": "Dieses Mausoleum aus dem 13. und 14. Jahrhundert ist dem Sufi-Scheich Saif ed-Din Bokharzi gewidmet und zeigt beeindruckende Ziegelverzierungen.",
-                  "category": "landmark",
-                  "coords": [
-                        64.444692,
-                        39.766631
-                  ]
-            },
-            {
-                  "name": "Peshekhodnyi mostik",
-                  "text": "Eine kleine Fußgängerbrücke, die einen malerischen Blick auf die historischen Kanäle und die umliegende Architektur von Buchara bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        64.428414,
-                        39.791864
-                  ]
-            },
-            {
                   "name": "Atlantis pool",
                   "text": "Ein moderner Wasserpark mit mehreren Rutschen und Schwimmbecken, der Abkühlung in der sommerlichen Hitze von Buchara bietet.",
                   "category": "recreational",
                   "coords": [
                         64.440532,
                         39.766755
-                  ]
-            },
-            {
-                  "name": "Khram Arkhistratiga Mikhaila",
-                  "text": "Die einzige russisch-orthodoxe Kirche in Buchara wurde Ende des 19. Jahrhunderts in einem ehemaligen Bahnhofsgebäude eingerichtet.",
-                  "category": "religious",
-                  "coords": [
-                        64.433263,
-                        39.771471
                   ]
             },
             {
@@ -2028,15 +2001,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
                   "coords": [
                         64.430616,
                         39.775442
-                  ]
-            },
-            {
-                  "name": "Amfiteatr",
-                  "text": "Ein modernes Freilufttheater, in dem kulturelle Veranstaltungen, traditionelle Tänze und Musikfestivals vor historischer Kulisse stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        64.429252,
-                        39.793865
                   ]
             },
             {
@@ -2186,39 +2150,12 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Mavzolei Saifeddina Bokharzi",
-                  "text": "Ez a 13-14. századi mauzóleum Szeif ed-Din Boharzi szúfi sejknek állít emléket, lenyűgöző tégladíszítéssel.",
-                  "category": "landmark",
-                  "coords": [
-                        64.444692,
-                        39.766631
-                  ]
-            },
-            {
-                  "name": "Peshekhodnyi mostik",
-                  "text": "Egy kis gyalogoshíd, amely festői kilátást nyújt Buhara történelmi csatornáira és a környező építészetre.",
-                  "category": "landmark",
-                  "coords": [
-                        64.428414,
-                        39.791864
-                  ]
-            },
-            {
                   "name": "Atlantis pool",
                   "text": "Modern vízi park csúszdákkal és medencékkel, amely felfrissülést nyújt a buharai nyári hőségben.",
                   "category": "recreational",
                   "coords": [
                         64.440532,
                         39.766755
-                  ]
-            },
-            {
-                  "name": "Khram Arkhistratiga Mikhaila",
-                  "text": "Buhara egyetlen orosz ortodox temploma, amelyet a 19. század végén alakítottak ki egy korábbi vasúti épületben.",
-                  "category": "religious",
-                  "coords": [
-                        64.433263,
-                        39.771471
                   ]
             },
             {
@@ -2246,15 +2183,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
                   "coords": [
                         64.430616,
                         39.775442
-                  ]
-            },
-            {
-                  "name": "Amfiteatr",
-                  "text": "Modern szabadtéri színház, ahol kulturális eseményeket, hagyományos táncokat és zenei fesztiválokat rendeznek a történelmi háttér előtt.",
-                  "category": "cultural",
-                  "coords": [
-                        64.429252,
-                        39.793865
                   ]
             },
             {
@@ -2404,39 +2332,12 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Mavzolei Saifeddina Bokharzi",
-                  "text": "Acest mausoleu din secolele XIII-XIV este dedicat șeicului sufit Saif ed-Din Bokharzi și prezintă decorațiuni impresionante din cărămidă.",
-                  "category": "landmark",
-                  "coords": [
-                        64.444692,
-                        39.766631
-                  ]
-            },
-            {
-                  "name": "Peshekhodnyi mostik",
-                  "text": "Un mic pod pietonal care oferă o vedere pitorească asupra canalelor istorice și a arhitecturii înconjurătoare din Buhara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.428414,
-                        39.791864
-                  ]
-            },
-            {
                   "name": "Atlantis pool",
                   "text": "Un parc acvatic modern cu tobogane și piscine, oferind relaxare în timpul căldurii de vară din Buhara.",
                   "category": "recreational",
                   "coords": [
                         64.440532,
                         39.766755
-                  ]
-            },
-            {
-                  "name": "Khram Arkhistratiga Mikhaila",
-                  "text": "Singura biserică ortodoxă rusă din Buhara, stabilită la sfârșitul secolului al XIX-lea într-o fostă clădire feroviară.",
-                  "category": "religious",
-                  "coords": [
-                        64.433263,
-                        39.771471
                   ]
             },
             {
@@ -2464,15 +2365,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
                   "coords": [
                         64.430616,
                         39.775442
-                  ]
-            },
-            {
-                  "name": "Amfiteatr",
-                  "text": "Un amfiteatru modern în aer liber care găzduiește evenimente culturale, dansuri tradiționale și festivaluri de muzică într-un cadru istoric.",
-                  "category": "cultural",
-                  "coords": [
-                        64.429252,
-                        39.793865
                   ]
             },
             {
@@ -2622,39 +2514,12 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Mavzolei Saifeddina Bokharzi",
-                  "text": "This 13th-14th century mausoleum is dedicated to the Sufi sheikh Saif ed-Din Bokharzi and features impressive brickwork.",
-                  "category": "landmark",
-                  "coords": [
-                        64.444692,
-                        39.766631
-                  ]
-            },
-            {
-                  "name": "Peshekhodnyi mostik",
-                  "text": "A small pedestrian bridge offering picturesque views of the historical canals and surrounding architecture of Bukhara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.428414,
-                        39.791864
-                  ]
-            },
-            {
                   "name": "Atlantis pool",
                   "text": "A modern water park with slides and pools, providing a place to cool off during the summer heat of Bukhara.",
                   "category": "recreational",
                   "coords": [
                         64.440532,
                         39.766755
-                  ]
-            },
-            {
-                  "name": "Church of Archangel Michael in Bukhara",
-                  "text": "The only Russian Orthodox church in Bukhara, established in the late 19th century within a former railway building.",
-                  "category": "religious",
-                  "coords": [
-                        64.433263,
-                        39.771471
                   ]
             },
             {
@@ -2682,15 +2547,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
                   "coords": [
                         64.430616,
                         39.775442
-                  ]
-            },
-            {
-                  "name": "Amfiteatr",
-                  "text": "A modern open-air theater used for cultural events, traditional dances, and music festivals set against a historic backdrop.",
-                  "category": "cultural",
-                  "coords": [
-                        64.429252,
-                        39.793865
                   ]
             },
             {
@@ -5487,24 +5343,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hamza uy-muzeyi",
-                  "text": "Dieses Museum im ehemaligen Wohnhaus in Kokand ist dem usbekischen Dichter und Dramatiker Hamza gewidmet.",
-                  "category": "museum",
-                  "coords": [
-                        70.946612,
-                        40.531996
-                  ]
-            },
-            {
-                  "name": "Khuzhra muzei Mukimi",
-                  "text": "Ein kleines Museum in einer ehemaligen Madrasa, das dem satirischen Dichter Mukimi gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        70.945382,
-                        40.528168
-                  ]
-            },
-            {
                   "name": "Literaturnyi muzei G. Guliama",
                   "text": "Ein Museum, das Leben und Werk des einflussreichen usbekischen Schriftstellers Gafur Gulyam zeigt.",
                   "category": "museum",
@@ -5619,15 +5457,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
                   "coords": [
                         70.972067,
                         40.540197
-                  ]
-            },
-            {
-                  "name": "Kamal-Kasi-Medrese",
-                  "text": "Eine Koranschule aus dem 19. Jahrhundert mit einem markanten Ziegelportal und ehemaligen Studentenzellen.",
-                  "category": "landmark",
-                  "coords": [
-                        70.944723,
-                        40.532429
                   ]
             },
             {
@@ -5822,24 +5651,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hamza uy-muzeyi",
-                  "text": "Az üzbég költőnek és drámaírónak, Hamzának szentelt múzeum egykori kokandi lakhelyén.",
-                  "category": "museum",
-                  "coords": [
-                        70.946612,
-                        40.531996
-                  ]
-            },
-            {
-                  "name": "Khuzhra muzei Mukimi",
-                  "text": "Egy egykori medreszében kialakított kis múzeumszoba, amelyet Mukimi szatirikus költőnek szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        70.945382,
-                        40.528168
-                  ]
-            },
-            {
                   "name": "Literaturnyi muzei G. Guliama",
                   "text": "Múzeum, amely a hatásos üzbég író, Gafur Gulyam életét és műveit mutatja be.",
                   "category": "museum",
@@ -5954,15 +5765,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
                   "coords": [
                         70.972067,
                         40.540197
-                  ]
-            },
-            {
-                  "name": "Kamol kazi medrese",
-                  "text": "19. századi medresze jellegzetes tégla kapuval és egykori diákszobákkal.",
-                  "category": "landmark",
-                  "coords": [
-                        70.944723,
-                        40.532429
                   ]
             },
             {
@@ -6157,24 +5959,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hamza uy-muzeyi",
-                  "text": "Muzeu dedicat poetului și dramaturgului uzbec Hamza, situat în fosta sa reședință din Kokand.",
-                  "category": "museum",
-                  "coords": [
-                        70.946612,
-                        40.531996
-                  ]
-            },
-            {
-                  "name": "Khuzhra muzei Mukimi",
-                  "text": "Un mic muzeu situat într-o fostă madrasă, dedicat poetului satiric Mukimi.",
-                  "category": "museum",
-                  "coords": [
-                        70.945382,
-                        40.528168
-                  ]
-            },
-            {
                   "name": "Literaturnyi muzei G. Guliama",
                   "text": "Un muzeu care prezintă viața și opera influentului scriitor uzbec Gafur Gulyam.",
                   "category": "museum",
@@ -6289,15 +6073,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
                   "coords": [
                         70.972067,
                         40.540197
-                  ]
-            },
-            {
-                  "name": "Kamol kazi medrese",
-                  "text": "O medresă din secolul al XIX-lea, cu un portal distinctiv din cărămidă și foste chilii pentru studenți.",
-                  "category": "landmark",
-                  "coords": [
-                        70.944723,
-                        40.532429
                   ]
             },
             {
@@ -6492,24 +6267,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "House-museum of Hamza Hakimzoda Niyoziy",
-                  "text": "A museum dedicated to the Uzbek poet and playwright Hamza, set in his former Kokand residence.",
-                  "category": "museum",
-                  "coords": [
-                        70.946612,
-                        40.531996
-                  ]
-            },
-            {
-                  "name": "Hujra-museum of Mukimi",
-                  "text": "A small cell-museum in a former madrasah dedicated to the satirical poet Mukimi.",
-                  "category": "museum",
-                  "coords": [
-                        70.945382,
-                        40.528168
-                  ]
-            },
-            {
                   "name": "Literaturnyi muzei G. Guliama",
                   "text": "A museum showcasing the life and works of the influential Uzbek writer Gafur Gulyam.",
                   "category": "museum",
@@ -6624,15 +6381,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
                   "coords": [
                         70.972067,
                         40.540197
-                  ]
-            },
-            {
-                  "name": "Kamol kazi medrese",
-                  "text": "A 19th-century madrasa featuring a distinctive brick portal and former student cells.",
-                  "category": "landmark",
-                  "coords": [
-                        70.944723,
-                        40.532429
                   ]
             },
             {
@@ -8619,15 +8367,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
     id: "ak-saray-palace-shahrisabz-history-v2", "sights": {
       "de": [
             {
-                  "name": "Medrese Koba",
-                  "text": "Eine historische islamische Schule in Shahrisabz mit traditioneller Ziegelbauweise und Innenhof.",
-                  "category": "landmark",
-                  "coords": [
-                        66.827752,
-                        39.055105
-                  ]
-            },
-            {
                   "name": "Amir Temur",
                   "text": "Eine monumentale Statue des Eroberers Tamerlan im Herzen seines Geburtsortes Shahrisabz.",
                   "category": "landmark",
@@ -8746,15 +8485,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Medrese Koba",
-                  "text": "Történelmi iszlám iskola Sahriszabszban, hagyományos téglaépítéssel és belső udvarral.",
-                  "category": "landmark",
-                  "coords": [
-                        66.827752,
-                        39.055105
-                  ]
-            },
             {
                   "name": "Amir Temur",
                   "text": "Timur Lenk, a nagy hódító monumentális szobra szülővárosának szívében.",
@@ -8875,15 +8605,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Medrese Koba",
-                  "text": "O școală islamică istorică din Shahrisabz, cu zidărie tradițională din cărămidă și o curte interioară.",
-                  "category": "landmark",
-                  "coords": [
-                        66.827752,
-                        39.055105
-                  ]
-            },
-            {
                   "name": "Amir Temur",
                   "text": "O statuie monumentală a cuceritorului Timur Lenk, situată în inima locului său de naștere.",
                   "category": "landmark",
@@ -9002,15 +8723,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Medrese Koba",
-                  "text": "A historic Islamic school in Shahrisabz featuring traditional brickwork and a courtyard layout.",
-                  "category": "landmark",
-                  "coords": [
-                        66.827752,
-                        39.055105
-                  ]
-            },
             {
                   "name": "Amir Temur",
                   "text": "A monumental statue of the conqueror Tamerlane, standing in the heart of his birthplace.",
@@ -9321,24 +9033,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tschorsu",
-                  "text": "Ein historischer, überkuppelter Marktplatz an der Kreuzung von Handelswegen, typisch für das mittelalterliche zentralasiatische Stadtdesign.",
-                  "category": "landmark",
-                  "coords": [
-                        66.8269,
-                        39.053702
-                  ]
-            },
-            {
-                  "name": "Hammam",
-                  "text": "Die Ruinen eines mittelalterlichen Badehauses in Shahrisabz, die die fortschrittlichen Hydrauliksysteme der Timuridenzeit zeigen.",
-                  "category": "historical",
-                  "coords": [
-                        66.82856,
-                        39.054
-                  ]
-            },
-            {
                   "name": "jom'e masjid",
                   "text": "Diese Moschee dient als Gebetsort für das Stadtviertel in der Nähe des historischen Kuk-Gumbaz-Ensembles.",
                   "category": "landmark",
@@ -9410,24 +9104,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
                   "coords": [
                         66.828605,
                         39.050372
-                  ]
-            },
-            {
-                  "name": "Chorsu",
-                  "text": "Történelmi kupolás piactér a kereskedelmi útvonalak kereszteződésében, amely a középkori közép-ázsiai várostervezés tipikus példája.",
-                  "category": "landmark",
-                  "coords": [
-                        66.8269,
-                        39.053702
-                  ]
-            },
-            {
-                  "name": "Hammam",
-                  "text": "Egy középkori fürdő romjai Sahriszabzban, amelyek a timurida korszak fejlett hidraulikus rendszereit mutatják be.",
-                  "category": "historical",
-                  "coords": [
-                        66.82856,
-                        39.054
                   ]
             },
             {
@@ -9505,24 +9181,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chorsu",
-                  "text": "O piață istorică cu cupolă la intersecția rutelor comerciale, tipică designului urban medieval din Asia Centrală.",
-                  "category": "landmark",
-                  "coords": [
-                        66.8269,
-                        39.053702
-                  ]
-            },
-            {
-                  "name": "Hammam",
-                  "text": "Ruinele unei băi medievale din Shahrisabz, care prezintă sistemele hidraulice avansate din epoca timuridă.",
-                  "category": "historical",
-                  "coords": [
-                        66.82856,
-                        39.054
-                  ]
-            },
-            {
                   "name": "jom'e masjid",
                   "text": "Această moschee servește ca loc de rugăciune pentru cartierul aflat în apropierea ansamblului istoric Kuk Gumbaz.",
                   "category": "landmark",
@@ -9594,24 +9252,6 @@ export const poiExtraUzbekistanHistoryV2: POI[] = [
                   "coords": [
                         66.828605,
                         39.050372
-                  ]
-            },
-            {
-                  "name": "Chorsu",
-                  "text": "A historic domed marketplace at the intersection of trade routes, typical of medieval Central Asian urban design.",
-                  "category": "landmark",
-                  "coords": [
-                        66.8269,
-                        39.053702
-                  ]
-            },
-            {
-                  "name": "Hammam",
-                  "text": "The ruins of a medieval bathhouse in Shahrisabz, showcasing the advanced hydraulic systems of the Timurid era.",
-                  "category": "historical",
-                  "coords": [
-                        66.82856,
-                        39.054
                   ]
             },
             {

@@ -204,15 +204,6 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
     id: "shota-rustaveli-peak-relief-v2", "sights": {
       "de": [
             {
-                  "name": "gistola - Gestola",
-                  "text": "Die Gistola ist ein Berggipfel neben dem Rustaveli-Gipfel im Kaukasus.",
-                  "category": "landmark",
-                  "coords": [
-                        43.025768,
-                        43.048008
-                  ]
-            },
-            {
                   "name": "Katyntau / kat`int`au",
                   "text": "Der Katintayu (Katyn-Tau) ist ein hoher Gipfel nahe dem Rustaveli-Gipfel im Kaukasus, eine Herausforderung für Kletterer.",
                   "category": "landmark",
@@ -238,27 +229,9 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                         43.05748,
                         43.018317
                   ]
-            },
-            {
-                  "name": "Tetnuldi",
-                  "text": "Ein markanter, vergletscherter Gipfel in der georgischen Region Swanetien.",
-                  "category": "landmark",
-                  "coords": [
-                        42.993294,
-                        43.030674
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "gistola - Gestola",
-                  "text": "A Gistola egy hegycsúcs a Rustaveli-csúcs mellett a Kaukázusban.",
-                  "category": "landmark",
-                  "coords": [
-                        43.025768,
-                        43.048008
-                  ]
-            },
             {
                   "name": "Katyntau / kat`int`au",
                   "text": "A Katintayu (Katyn-Tau) egy magas csúcs a Rustaveli-csúcs közelében a Kaukázusban, kihívás a mászók számára.",
@@ -298,15 +271,6 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "gistola - Gestola",
-                  "text": "Gistola este un vârf de munte alăturat Vârfului Rustaveli din Caucaz.",
-                  "category": "landmark",
-                  "coords": [
-                        43.025768,
-                        43.048008
-                  ]
-            },
-            {
                   "name": "Katyntau / kat`int`au",
                   "text": "Katintayu (Katyn-Tau) este un vârf înalt lângă Vârful Rustaveli din Caucaz, o provocare pentru alpiniști.",
                   "category": "landmark",
@@ -345,15 +309,6 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Gistola",
-                  "text": "Gistola is a mountain peak adjacent to Rustaveli Peak in the Caucasus range.",
-                  "category": "landmark",
-                  "coords": [
-                        43.025768,
-                        43.048008
-                  ]
-            },
-            {
                   "name": "Katintayu",
                   "text": "Katintayu (Katyn-Tau) is a high peak near Rustaveli Peak in the Caucasus, a challenge for climbers.",
                   "category": "landmark",
@@ -378,15 +333,6 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   "coords": [
                         43.05748,
                         43.018317
-                  ]
-            },
-            {
-                  "name": "Tetnuldi",
-                  "text": "A prominent glacier-covered peak in the Svaneti region of Georgia.",
-                  "category": "landmark",
-                  "coords": [
-                        42.993294,
-                        43.030674
                   ]
             }
       ]
@@ -4191,24 +4137,6 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Keşikçidağ Qareci Monastır Kompleksi",
-                  "text": "Ein Aussichtspunkt mit Blick auf die alten, in den Fels gehauenen Höhlen des Gareja-Klosterkomplexes.",
-                  "category": "natural",
-                  "coords": [
-                        45.376941,
-                        41.440955
-                  ]
-            },
-            {
-                  "name": "Kloster Dawit Garedsha",
-                  "text": "Der zentrale Teil des Höhlenklosterkomplexes mit in den Fels gehauenen Zellen und einem Innenhof.",
-                  "category": "religious",
-                  "coords": [
-                        45.37667,
-                        41.447473
-                  ]
-            },
-            {
                   "name": "დავით გარეჯას წამებულის სახელობის მონასტერი (დასავლეთის)",
                   "text": "Teil des berühmten Höhlenklosterkomplexes, der in die zerklüfteten Felsen der Udabno-Wüste gehauen wurde.",
                   "category": "landmark",
@@ -4289,15 +4217,6 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   "coords": [
                         45.286559,
                         41.515388
-                  ]
-            },
-            {
-                  "name": "Keşikçidağ Qareci Monastır Kompleksi",
-                  "text": "Kilátópont, ahonnan rálátni a Gareja kolostorkomplexum ősi, sziklába vájt barlangjaira.",
-                  "category": "natural",
-                  "coords": [
-                        45.376941,
-                        41.440955
                   ]
             },
             {
@@ -4393,15 +4312,6 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Keşikçidağ Qareci Monastır Kompleksi",
-                  "text": "Un punct de belvedere cu vedere la vechile peșteri săpate în stâncă ale complexului monahal Gareja.",
-                  "category": "natural",
-                  "coords": [
-                        45.376941,
-                        41.440955
-                  ]
-            },
-            {
                   "name": "დავითის ლავრა",
                   "text": "Partea centrală a complexului monahal rupestru, cu chilii săpate în stâncă și o curte interioară.",
                   "category": "religious",
@@ -4491,24 +4401,6 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   "coords": [
                         45.286559,
                         41.515388
-                  ]
-            },
-            {
-                  "name": "Keşikçidağ Qareci Monastır Kompleksi",
-                  "text": "A viewpoint overlooking the ancient rock-cut caves of the Gareja monastery complex.",
-                  "category": "natural",
-                  "coords": [
-                        45.376941,
-                        41.440955
-                  ]
-            },
-            {
-                  "name": "David Gareja Lavra",
-                  "text": "The central part of the cave monastery complex, featuring rock-cut cells and a courtyard.",
-                  "category": "religious",
-                  "coords": [
-                        45.37667,
-                        41.447473
                   ]
             },
             {
@@ -5340,15 +5232,6 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Arsha fortress",
-                  "text": "The ruins of a medieval fortress situated on a hill in the Sno Valley.",
-                  "category": "castle",
-                  "coords": [
-                        44.599299,
-                        42.631729
-                  ]
-            },
-            {
                   "name": "Sno fortress",
                   "text": "Medieval Sno fortress in the Sno valley.",
                   "category": "castle",
@@ -5437,17 +5320,7 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   ]
             }
       ],
-      "en": [
-            {
-                  "name": "Tamar Fortress",
-                  "text": "Ruins of a medieval fortress overlooking the Darial Gorge.",
-                  "category": "historical",
-                  "coords": [
-                        44.625742,
-                        42.738133
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "valley",
     parent: "GE-MM",
@@ -5493,15 +5366,6 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   "coords": [
                         43.365592,
                         41.760514
-                  ]
-            },
-            {
-                  "name": "St. Nino chapel",
-                  "text": "Die Ruinen dieser historischen Kapelle sind der Heiligen Nino, der Erleuchterin Georgiens, gewidmet.",
-                  "category": "historical",
-                  "coords": [
-                        43.367142,
-                        41.840206
                   ]
             },
             {
@@ -5732,15 +5596,6 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. Nino chapel",
-                  "text": "E történelmi kápolna romjai Szent Ninónak, Grúzia felvilágosítójának vannak szentelve.",
-                  "category": "historical",
-                  "coords": [
-                        43.367142,
-                        41.840206
-                  ]
-            },
-            {
                   "name": "მწვანე მონასტერი",
                   "text": "Ez a 9. századi kolostor a zöldesen csillogó köveiről ismert egy erdős völgyben.",
                   "category": "religious",
@@ -5968,15 +5823,6 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. Nino chapel",
-                  "text": "Ruinele acestei capele istorice sunt dedicate Sfintei Nino, încreștinătoarea Georgiei.",
-                  "category": "historical",
-                  "coords": [
-                        43.367142,
-                        41.840206
-                  ]
-            },
-            {
                   "name": "მწვანე მონასტერი",
                   "text": "Această mănăstire din secolul al IX-lea este cunoscută pentru pietrele sale verzui dintr-o vale împădurită.",
                   "category": "religious",
@@ -6201,15 +6047,6 @@ export const poiExtraGeorgiaReliefV2: POI[] = [
                   "coords": [
                         43.365592,
                         41.760514
-                  ]
-            },
-            {
-                  "name": "St. Nino chapel",
-                  "text": "The ruins of this historic chapel are dedicated to Saint Nino, the enlightener of Georgia.",
-                  "category": "historical",
-                  "coords": [
-                        43.367142,
-                        41.840206
                   ]
             },
             {

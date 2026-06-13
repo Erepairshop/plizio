@@ -4112,33 +4112,6 @@ imageHint: "Hermitage Museum in Saint Petersburg",
     id: "russia-novosibirsk-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Staatliches Akademisches Opern- und Ballett-Theater Nowosibirsk",
-                  "text": "Das größte Opernhaus Russlands mit einer markanten Kuppel.",
-                  "category": "cultural",
-                  "coords": [
-                        82.924511,
-                        55.030433
-                  ]
-            },
-            {
-                  "name": "Teatr kukol",
-                  "text": "Nowosibirsker Regionales Puppentheater.",
-                  "category": "cultural",
-                  "coords": [
-                        82.90945,
-                        55.029409
-                  ]
-            },
-            {
-                  "name": "Krasnyi fakel",
-                  "text": "Krasnyj Fakel (Rote Fackel) Schauspielhaus in Nowosibirsk.",
-                  "category": "cultural",
-                  "coords": [
-                        82.908378,
-                        55.028278
-                  ]
-            },
-            {
                   "name": "Teatr Afanaseva",
                   "text": "Ein Schauspielhaus im Zentrum von Nowosibirsk.",
                   "category": "cultural",
@@ -4374,33 +4347,6 @@ imageHint: "Hermitage Museum in Saint Petersburg",
             }
       ],
       "hu": [
-            {
-                  "name": "Novosibirskii gosudarstvennyi akademicheskii teatr opery i baleta",
-                  "text": "Oroszország legnagyobb operaháza jellegzetes kupolával.",
-                  "category": "cultural",
-                  "coords": [
-                        82.924511,
-                        55.030433
-                  ]
-            },
-            {
-                  "name": "Teatr kukol",
-                  "text": "Novoszibirszki Területi Bábszínház.",
-                  "category": "cultural",
-                  "coords": [
-                        82.90945,
-                        55.029409
-                  ]
-            },
-            {
-                  "name": "Krasnyi fakel",
-                  "text": "Krasznij Fakel (Vörös Fáklya) Drámaszínház Novoszibirszkben.",
-                  "category": "cultural",
-                  "coords": [
-                        82.908378,
-                        55.028278
-                  ]
-            },
             {
                   "name": "Teatr Afanaseva",
                   "text": "Egy színház Novoszibirszk központjában.",
@@ -4638,33 +4584,6 @@ imageHint: "Hermitage Museum in Saint Petersburg",
       ],
       "ro": [
             {
-                  "name": "Novosibirskii gosudarstvennyi akademicheskii teatr opery i baleta",
-                  "text": "Cea mai mare operă din Rusia, cu o cupolă distinctivă.",
-                  "category": "cultural",
-                  "coords": [
-                        82.924511,
-                        55.030433
-                  ]
-            },
-            {
-                  "name": "Teatr kukol",
-                  "text": "Teatrul Regional de Păpuși din Novosibirsk.",
-                  "category": "cultural",
-                  "coords": [
-                        82.90945,
-                        55.029409
-                  ]
-            },
-            {
-                  "name": "Krasnyi fakel",
-                  "text": "Teatrul Dramatic Krasnîi Fakel (Torța Roșie) din Novosibirsk.",
-                  "category": "cultural",
-                  "coords": [
-                        82.908378,
-                        55.028278
-                  ]
-            },
-            {
                   "name": "Teatr Afanaseva",
                   "text": "Un teatru în centrul orașului Novosibirsk.",
                   "category": "cultural",
@@ -4900,33 +4819,6 @@ imageHint: "Hermitage Museum in Saint Petersburg",
             }
       ],
       "en": [
-            {
-                  "name": "Novosibirsk State Academic Opera and Ballet Theatre",
-                  "text": "Russia's largest opera house with a distinctive dome.",
-                  "category": "cultural",
-                  "coords": [
-                        82.924511,
-                        55.030433
-                  ]
-            },
-            {
-                  "name": "Teatr kukol",
-                  "text": "Novosibirsk Regional Puppet Theatre.",
-                  "category": "cultural",
-                  "coords": [
-                        82.90945,
-                        55.029409
-                  ]
-            },
-            {
-                  "name": "Krasnyi fakel",
-                  "text": "Krasnyi Fakel (Red Torch) Drama Theatre in Novosibirsk.",
-                  "category": "cultural",
-                  "coords": [
-                        82.908378,
-                        55.028278
-                  ]
-            },
             {
                   "name": "Afanasyev Theatre",
                   "text": "A drama theatre in central Novosibirsk.",
@@ -5355,15 +5247,6 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
                   ]
             },
             {
-                  "name": "Muzei Bazhova",
-                  "text": "Gedenkhaus-Museum des Schriftstellers Pawel Baschow, erbaut 1911–1914 in Jekaterinburg.",
-                  "category": "museum",
-                  "coords": [
-                        60.613476,
-                        56.818375
-                  ]
-            },
-            {
                   "name": "Khudozhestvennyi Muzei Ernsta Neizvestnogo",
                   "text": "Kunstmuseum Ernst Neiswestny in einem Gebäude aus dem 19. Jahrhundert in Jekaterinburg.",
                   "category": "museum",
@@ -5418,15 +5301,6 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
                   ]
             },
             {
-                  "name": "Teatr Volkhonka",
-                  "text": "Intimes Dramatheater in der Wolchonka-Straße, spezialisiert auf zeitgenössische Stücke.",
-                  "category": "cultural",
-                  "coords": [
-                        60.591417,
-                        56.833311
-                  ]
-            },
-            {
                   "name": "Teatr kukol",
                   "text": "1932 gegründet, eines der ältesten Puppentheater im Ural, mit einem Repertoire aus klassischen und modernen Stücken.",
                   "category": "cultural",
@@ -5442,15 +5316,6 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
                   "coords": [
                         60.640927,
                         56.842908
-                  ]
-            },
-            {
-                  "name": "Teatr baleta «Shchelkunchik»",
-                  "text": "Kinderballettschule und -theater, benannt nach dem Nussknacker, mit Aufführungen klassischer Ballette.",
-                  "category": "cultural",
-                  "coords": [
-                        60.60723,
-                        56.814432
                   ]
             },
             {
@@ -5559,15 +5424,6 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
                   "coords": [
                         60.582359,
                         56.815585
-                  ]
-            },
-            {
-                  "name": "Uspenskii sobor na VIZe",
-                  "text": "Orthodoxe Mariä-Entschlafens-Kathedrale aus dem 19. Jahrhundert mit fünf Kuppeln im Viertel WIS an der Iset.",
-                  "category": "religious",
-                  "coords": [
-                        60.556302,
-                        56.839153
                   ]
             },
             {
@@ -5852,15 +5708,6 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
                   ]
             },
             {
-                  "name": "Muzei Bazhova",
-                  "text": "Pavel Bazsov író emlékház-múzeuma, 1911–1914-ben épült Jekatyerinburgban.",
-                  "category": "museum",
-                  "coords": [
-                        60.613476,
-                        56.818375
-                  ]
-            },
-            {
                   "name": "Khudozhestvennyi Muzei Ernsta Neizvestnogo",
                   "text": "Ernst Neizvesztnij Művészeti Múzeum egy 19. századi épületben Jekatyerinburgban.",
                   "category": "museum",
@@ -5915,15 +5762,6 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
                   ]
             },
             {
-                  "name": "Teatr Volkhonka",
-                  "text": "Intim drámaszínház a Volhonszkaja utcában, kortárs darabokra specializálódva.",
-                  "category": "cultural",
-                  "coords": [
-                        60.591417,
-                        56.833311
-                  ]
-            },
-            {
                   "name": "Teatr kukol",
                   "text": "1932-ben alapították, az Urál egyik legrégebbi bábszínháza, klasszikus és modern darabok repertoárjával.",
                   "category": "cultural",
@@ -5939,15 +5777,6 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
                   "coords": [
                         60.640927,
                         56.842908
-                  ]
-            },
-            {
-                  "name": "Teatr baleta «Shchelkunchik»",
-                  "text": "Gyermekbalett-iskola és -színház, a Diótörőről elnevezve, klasszikus balettek előadásával.",
-                  "category": "cultural",
-                  "coords": [
-                        60.60723,
-                        56.814432
                   ]
             },
             {
@@ -6056,15 +5885,6 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
                   "coords": [
                         60.582359,
                         56.815585
-                  ]
-            },
-            {
-                  "name": "Uspenskii sobor na VIZe",
-                  "text": "19. századi ortodox elszenderülési székesegyház öt kupolával a VIZ negyedben, az Iset folyó mellett.",
-                  "category": "religious",
-                  "coords": [
-                        60.556302,
-                        56.839153
                   ]
             },
             {
@@ -6349,15 +6169,6 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
                   ]
             },
             {
-                  "name": "Muzei Bazhova",
-                  "text": "Casa-muzeu memorială a scriitorului Pavel Bajov, construită între 1911 și 1914 în Ekaterinburg.",
-                  "category": "museum",
-                  "coords": [
-                        60.613476,
-                        56.818375
-                  ]
-            },
-            {
                   "name": "Khudozhestvennyi Muzei Ernsta Neizvestnogo",
                   "text": "Muzeul de Artă Ernst Neizvestny, într-o clădire din secolul al XIX-lea în Ekaterinburg.",
                   "category": "museum",
@@ -6412,15 +6223,6 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
                   ]
             },
             {
-                  "name": "Teatr Volkhonka",
-                  "text": "Teatru dramatic intim pe strada Volhonka, specializat în piese contemporane.",
-                  "category": "cultural",
-                  "coords": [
-                        60.591417,
-                        56.833311
-                  ]
-            },
-            {
                   "name": "Teatr kukol",
                   "text": "Fondat în 1932, unul dintre cele mai vechi teatre de păpuși din Ural, cu un repertoriu de piese clasice și moderne.",
                   "category": "cultural",
@@ -6436,15 +6238,6 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
                   "coords": [
                         60.640927,
                         56.842908
-                  ]
-            },
-            {
-                  "name": "Teatr baleta «Shchelkunchik»",
-                  "text": "Școală și teatru de balet pentru copii, numit după Spărgătorul de Nuci, cu spectacole de balete clasice.",
-                  "category": "cultural",
-                  "coords": [
-                        60.60723,
-                        56.814432
                   ]
             },
             {
@@ -6553,15 +6346,6 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
                   "coords": [
                         60.582359,
                         56.815585
-                  ]
-            },
-            {
-                  "name": "Uspenskii sobor na VIZe",
-                  "text": "Catedrală ortodoxă a Adormirii Maicii Domnului din secolul al XIX-lea, cu cinci cupole, în cartierul VIZ lângă râul Iset.",
-                  "category": "religious",
-                  "coords": [
-                        60.556302,
-                        56.839153
                   ]
             },
             {
@@ -6846,15 +6630,6 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
                   ]
             },
             {
-                  "name": "Muzei Bazhova",
-                  "text": "Memorial house-museum of writer Pavel Bazhov, built 1911–1914 in Yekaterinburg.",
-                  "category": "museum",
-                  "coords": [
-                        60.613476,
-                        56.818375
-                  ]
-            },
-            {
                   "name": "Khudozhestvennyi Muzei Ernsta Neizvestnogo",
                   "text": "Ernst Neizvestny Art Museum housed in a 19th-century building in Yekaterinburg.",
                   "category": "museum",
@@ -6909,15 +6684,6 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
                   ]
             },
             {
-                  "name": "Teatr Volkhonka",
-                  "text": "Intimate drama theater on Volkhonka Street, specializing in contemporary plays.",
-                  "category": "cultural",
-                  "coords": [
-                        60.591417,
-                        56.833311
-                  ]
-            },
-            {
                   "name": "Teatr kukol",
                   "text": "Founded in 1932, one of the oldest puppet theaters in the Urals, with classic and modern repertoire.",
                   "category": "cultural",
@@ -6933,15 +6699,6 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
                   "coords": [
                         60.640927,
                         56.842908
-                  ]
-            },
-            {
-                  "name": "Teatr baleta «Shchelkunchik»",
-                  "text": "Children's ballet school and theater named after The Nutcracker, performing classic ballets.",
-                  "category": "cultural",
-                  "coords": [
-                        60.60723,
-                        56.814432
                   ]
             },
             {
@@ -7050,15 +6807,6 @@ imageHint: "Novosibirsk Opera and Ballet Theatre",
                   "coords": [
                         60.582359,
                         56.815585
-                  ]
-            },
-            {
-                  "name": "Uspenskii sobor na VIZe",
-                  "text": "19th-century Orthodox Dormition Cathedral with five domes, in the VIZ district near the Iset River.",
-                  "category": "religious",
-                  "coords": [
-                        60.556302,
-                        56.839153
                   ]
             },
             {
@@ -14101,15 +13849,6 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
                   ]
             },
             {
-                  "name": "Regionalmuseum Krasnojarsk",
-                  "text": "Das Museum für Heimatkunde ist ein Museum in Krasnojarsk. Es ist eines der ältesten und größten regionalgeschichtlichen Museen in Sibirien.",
-                  "category": "museum",
-                  "coords": [
-                        92.872803,
-                        56.007412
-                  ]
-            },
-            {
                   "name": "Krasnoyarskii gosudarstvennyi teatr opery i baleta",
                   "text": "Das Staatliche Opern- und Ballett-Theater Krasnojarsk ist ein Theater in Krasnojarsk. Es ist eine herausragende Kulturinstitution, die nach Dmitri Hvorostovsky benannt ist.",
                   "category": "cultural",
@@ -14218,15 +13957,6 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
                   ]
             },
             {
-                  "name": "Dom-muzei P.A. Krasikova",
-                  "text": "Das Hausmuseum P.A. Krasikow in Krasnojarsk dokumentiert das Leben des bolschewistischen Revolutionärs.",
-                  "category": "museum",
-                  "coords": [
-                        92.847788,
-                        56.012501
-                  ]
-            },
-            {
                   "name": "Krasnoyarskii dramaticheskii teatr imeni A. S. Pushkina",
                   "text": "Das Krasnojarsker Dramatheater A.S. Puschkin ist ein prächtiges Gebäude am Hauptplatz der Stadt.",
                   "category": "cultural",
@@ -14314,15 +14044,6 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
                   "coords": [
                         92.876652,
                         56.012826
-                  ]
-            },
-            {
-                  "name": "V tsentre mira",
-                  "text": "Das Museum ‚V tsentre mira‘ in Krasnojarsk widmet sich Astronomie und interaktiven Weltraumausstellungen.",
-                  "category": "museum",
-                  "coords": [
-                        92.861261,
-                        56.011678
                   ]
             },
             {
@@ -14499,15 +14220,6 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
                   ]
             },
             {
-                  "name": "Dom-muzei P.A. Krasikova",
-                  "text": "A P.A. Kraszikov Házmúzeum Krasznojarszkban a bolsevik forradalmár életét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        92.847788,
-                        56.012501
-                  ]
-            },
-            {
                   "name": "Krasnoyarskii dramaticheskii teatr imeni A. S. Pushkina",
                   "text": "A Krasznojarszki A. Sz. Puskin Drámaszínház egy impozáns épület a város főterén.",
                   "category": "cultural",
@@ -14595,15 +14307,6 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
                   "coords": [
                         92.876652,
                         56.012826
-                  ]
-            },
-            {
-                  "name": "V tsentre mira",
-                  "text": "A ‚V tsentre mira‘ múzeum Krasznojarszkban csillagászatnak és interaktív űrkiállításoknak szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        92.861261,
-                        56.011678
                   ]
             },
             {
@@ -14780,15 +14483,6 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
                   ]
             },
             {
-                  "name": "Dom-muzei P.A. Krasikova",
-                  "text": "Casa-muzeu P.A. Krasikov din Krasnoyarsk documentează viața revoluționarului bolșevic.",
-                  "category": "museum",
-                  "coords": [
-                        92.847788,
-                        56.012501
-                  ]
-            },
-            {
                   "name": "Krasnoyarskii dramaticheskii teatr imeni A. S. Pushkina",
                   "text": "Teatrul Dramatic A.S. Pușkin din Krasnoyarsk este o clădire impunătoare pe piața principală a orașului.",
                   "category": "cultural",
@@ -14879,15 +14573,6 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
                   ]
             },
             {
-                  "name": "V tsentre mira",
-                  "text": "Muzeul ‚V tsentre mira‘ din Krasnoyarsk este dedicat astronomiei și expozițiilor interactive spațiale.",
-                  "category": "museum",
-                  "coords": [
-                        92.861261,
-                        56.011678
-                  ]
-            },
-            {
                   "name": "Shkola iskusstv im. Surikova",
                   "text": "Școala de Arte Surikov este un centru de artă situat în Krasnojarsk.",
                   "category": "cultural",
@@ -14941,24 +14626,6 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
                   "coords": [
                         92.893773,
                         56.01099
-                  ]
-            },
-            {
-                  "name": "Museum of local studies",
-                  "text": "The Museum of local studies is a museum in Krasnojarsk. It is one of the oldest and largest regional history museums in Siberia.",
-                  "category": "museum",
-                  "coords": [
-                        92.872803,
-                        56.007412
-                  ]
-            },
-            {
-                  "name": "Krasnoyarsk State Opera and Ballet Theatre",
-                  "text": "Krasnoyarsk State Opera and Ballet Theatre is a theatre in Krasnojarsk. It is a prominent cultural institution named after Dmitri Hvorostovsky.",
-                  "category": "cultural",
-                  "coords": [
-                        92.868386,
-                        56.008656
                   ]
             },
             {
@@ -15061,15 +14728,6 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
                   ]
             },
             {
-                  "name": "Dom-muzei P.A. Krasikova",
-                  "text": "The house-museum of P.A. Krasikov in Krasnoyarsk documents the life of the Bolshevik revolutionary.",
-                  "category": "museum",
-                  "coords": [
-                        92.847788,
-                        56.012501
-                  ]
-            },
-            {
                   "name": "Krasnoyarskii dramaticheskii teatr imeni A. S. Pushkina",
                   "text": "The Krasnoyarsk Drama Theatre named after A.S. Pushkin is an imposing building on the city's main square.",
                   "category": "cultural",
@@ -15160,30 +14818,12 @@ imageHint: "Monument to Salavat Yulaev in Ufa",
                   ]
             },
             {
-                  "name": "V tsentre mira",
-                  "text": "The museum ‚V tsentre mira‘ in Krasnoyarsk is dedicated to astronomy and interactive space exhibitions.",
-                  "category": "museum",
-                  "coords": [
-                        92.861261,
-                        56.011678
-                  ]
-            },
-            {
                   "name": "Shkola iskusstv im. Surikova",
                   "text": "The Surikov School of Arts is an arts centre located in Krasnojarsk.",
                   "category": "cultural",
                   "coords": [
                         92.866975,
                         56.013063
-                  ]
-            },
-            {
-                  "name": "Roman Catholic Transfiguration Parish",
-                  "text": "The Roman Catholic Transfiguration Parish is a notable place of worship in Krasnojarsk, distinguished by its Gothic Revival architecture.",
-                  "category": "religious",
-                  "coords": [
-                        92.847463,
-                        56.00759
                   ]
             },
             {
@@ -34237,39 +33877,12 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
     id: "russia-astrakhan-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Astrakhanskii gosudarstvennyi teatr opery i baleta",
-                  "text": "Das Staatliche Opern- und Balletttheater von Astrachan, ein prächtiges Gebäude an der Wolga-Promenade.",
-                  "category": "cultural",
-                  "coords": [
-                        48.044158,
-                        46.360156
-                  ]
-            },
-            {
                   "name": "Astrakhanskii teatr yunogo zritelya",
                   "text": "Das Staatliche Theater für junge Zuschauer in Astrachan bietet Theateraufführungen in der Stadt.",
                   "category": "cultural",
                   "coords": [
                         48.032557,
                         46.346556
-                  ]
-            },
-            {
-                  "name": "Staatliches Dramentheater Astrachan",
-                  "text": "Das Staatliche Dramatheater von Astrachan, ein historisches Theater mit neoklassizistischer Fassade.",
-                  "category": "cultural",
-                  "coords": [
-                        48.044444,
-                        46.348527
-                  ]
-            },
-            {
-                  "name": "Astrachaner Staatliches Puppentheater",
-                  "text": "Das Staatliche Puppentheater von Astrachan, ein farbenfrohes Gebäude in der Nähe des Astrachansker Kremls.",
-                  "category": "cultural",
-                  "coords": [
-                        48.031055,
-                        46.353287
                   ]
             },
             {
@@ -34309,15 +33922,6 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   ]
             },
             {
-                  "name": "Ioanno-Predtechenskii muzhskoi monastyr",
-                  "text": "Das Johannes-der-Täufer-Kloster ist eine orthodoxe Kultstätte in Astrachan.",
-                  "category": "religious",
-                  "coords": [
-                        48.058431,
-                        46.349011
-                  ]
-            },
-            {
                   "name": "Tserkov Uspeniya Presvyatoi bogoroditse Rimsko-Katolicheskoi tserkvi",
                   "text": "1721 erbaute Mariä-Himmelfahrt-Kirche in Astrachan.",
                   "category": "religious",
@@ -34333,24 +33937,6 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   "coords": [
                         48.050677,
                         46.360313
-                  ]
-            },
-            {
-                  "name": "Astrakhanskii dub",
-                  "text": "Die Astrachan-Eiche ist eine natürliche Sehenswürdigkeit in der Stadt Astrachan.",
-                  "category": "landmark",
-                  "coords": [
-                        48.062495,
-                        46.359727
-                  ]
-            },
-            {
-                  "name": "Kraevedcheskii muzei",
-                  "text": "Das Heimatmuseum ist eine Einrichtung in Astrachan, die regionale Ausstellungen zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        48.04166,
-                        46.349591
                   ]
             },
             {
@@ -34381,42 +33967,6 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   ]
             },
             {
-                  "name": "Muzei istorii goroda",
-                  "text": "Das Stadtmuseum zeigt Artefakte zur Entwicklung von Astrachan.",
-                  "category": "museum",
-                  "coords": [
-                        48.031598,
-                        46.35214
-                  ]
-            },
-            {
-                  "name": "Muzei shokolada",
-                  "text": "Das Schokoladenmuseum ist eine reizvolle Attraktion in Astrachan, die Schokoladenkunst präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        48.039695,
-                        46.351094
-                  ]
-            },
-            {
-                  "name": "Troitskii Sobor",
-                  "text": "Die Dreifaltigkeitskathedrale ist ein beeindruckendes historisches Bauwerk in Astrachan.",
-                  "category": "castle",
-                  "coords": [
-                        48.031875,
-                        46.350222
-                  ]
-            },
-            {
-                  "name": "Artilleriiskii Dvor",
-                  "text": "Der Artilleriehof ist ein Museum in Astrachan, das historische militärische Artefakte ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        48.033423,
-                        46.35085
-                  ]
-            },
-            {
                   "name": "Tseikhgauz",
                   "text": "Das Zeughaus ist ein historisches Arsenal, das heute als Museum in Astrachan dient.",
                   "category": "museum",
@@ -34444,39 +33994,12 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   ]
             },
             {
-                  "name": "Dom-muzei B.M. Kustodieva",
-                  "text": "Das Hausmuseum von B.M. Kustodijew widmet sich dem Leben und Werk des bekannten Künstlers in Astrachan.",
-                  "category": "museum",
-                  "coords": [
-                        48.049333,
-                        46.350272
-                  ]
-            },
-            {
-                  "name": "Muzei boevoi slavy",
-                  "text": "Das Museum des militärischen Ruhms ehrt mit seinen Ausstellungen die Militärgeschichte in Astrachan.",
-                  "category": "museum",
-                  "coords": [
-                        48.036488,
-                        46.351145
-                  ]
-            },
-            {
                   "name": "Astrakhanskaya Kartinnaya galereya",
                   "text": "Die Astrachaner Gemäldegalerie zeigt eine umfangreiche Sammlung bildender Kunst in der Stadt.",
                   "category": "museum",
                   "coords": [
                         48.05194,
                         46.349267
-                  ]
-            },
-            {
-                  "name": "0 kilometr",
-                  "text": "Das Nullkilometer-Denkmal markiert das symbolische Zentrum der Stadt Astrachan.",
-                  "category": "historical",
-                  "coords": [
-                        48.036702,
-                        46.348772
                   ]
             },
             {
@@ -34504,15 +34027,6 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   "coords": [
                         48.040775,
                         46.35062
-                  ]
-            },
-            {
-                  "name": "Palitra",
-                  "text": "Palette ist ein lebendiges Kunstzentrum in der Stadt Astrachan.",
-                  "category": "cultural",
-                  "coords": [
-                        48.044168,
-                        46.369693
                   ]
             },
             {
@@ -34734,39 +34248,12 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
       ],
       "hu": [
             {
-                  "name": "Astrakhanskii gosudarstvennyi teatr opery i baleta",
-                  "text": "Az Astraháni Állami Operett- és Balettszínház, egy pompás épület a Volga sétányon.",
-                  "category": "cultural",
-                  "coords": [
-                        48.044158,
-                        46.360156
-                  ]
-            },
-            {
                   "name": "Astrakhanskii teatr yunogo zritelya",
                   "text": "Az Asztraháni Állami Ifjúsági Színház színházi előadásokat kínál a városban.",
                   "category": "cultural",
                   "coords": [
                         48.032557,
                         46.346556
-                  ]
-            },
-            {
-                  "name": "Astrakhanskii gosudarstvennyi dramaticheskii teatr",
-                  "text": "Az Astraháni Állami Drámaszínház, egy történelmi színház neoklasszicista homlokzattal.",
-                  "category": "cultural",
-                  "coords": [
-                        48.044444,
-                        46.348527
-                  ]
-            },
-            {
-                  "name": "Astrakhanskii teatr kukol",
-                  "text": "Az Astraháni Állami Bábszínház, egy színes épület az Astraháni Kreml közelében.",
-                  "category": "cultural",
-                  "coords": [
-                        48.031055,
-                        46.353287
                   ]
             },
             {
@@ -34806,15 +34293,6 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   ]
             },
             {
-                  "name": "Ioanno-Predtechenskii muzhskoi monastyr",
-                  "text": "A Keresztelő Szent János kolostor egy ortodox vallási központ Asztrahánban.",
-                  "category": "religious",
-                  "coords": [
-                        48.058431,
-                        46.349011
-                  ]
-            },
-            {
                   "name": "Tserkov Uspeniya Presvyatoi bogoroditse Rimsko-Katolicheskoi tserkvi",
                   "text": "1721-ben épült Nagyboldogasszony-templom Asztrahánban.",
                   "category": "religious",
@@ -34830,24 +34308,6 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   "coords": [
                         48.050677,
                         46.360313
-                  ]
-            },
-            {
-                  "name": "Astrakhanskii dub",
-                  "text": "Az Asztraháni Tölgy egy természeti látványosság Asztrahán városában.",
-                  "category": "landmark",
-                  "coords": [
-                        48.062495,
-                        46.359727
-                  ]
-            },
-            {
-                  "name": "Kraevedcheskii muzei",
-                  "text": "A Helytörténeti Múzeum regionális kiállításokat bemutató intézmény Asztrahánban.",
-                  "category": "museum",
-                  "coords": [
-                        48.04166,
-                        46.349591
                   ]
             },
             {
@@ -34878,42 +34338,6 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   ]
             },
             {
-                  "name": "Muzei istorii goroda",
-                  "text": "A Várostörténeti Múzeum Asztrahán fejlődésével kapcsolatos tárgyakat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        48.031598,
-                        46.35214
-                  ]
-            },
-            {
-                  "name": "Muzei shokolada",
-                  "text": "A Csokoládémúzeum egy érdekes látványosság Asztrahánban, amely csokoládéművészetet mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        48.039695,
-                        46.351094
-                  ]
-            },
-            {
-                  "name": "Troitskii Sobor",
-                  "text": "A Szentháromság-székesegyház egy lenyűgöző történelmi építmény Asztrahánban.",
-                  "category": "castle",
-                  "coords": [
-                        48.031875,
-                        46.350222
-                  ]
-            },
-            {
-                  "name": "Artilleriiskii Dvor",
-                  "text": "Az Tüzérségi Udvar történelmi katonai tárgyakat bemutató múzeum Asztrahánban.",
-                  "category": "museum",
-                  "coords": [
-                        48.033423,
-                        46.35085
-                  ]
-            },
-            {
                   "name": "Tseikhgauz",
                   "text": "A Zeughaus egy történelmi fegyvertár, amely ma múzeumként működik Asztrahánban.",
                   "category": "museum",
@@ -34941,39 +34365,12 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   ]
             },
             {
-                  "name": "Dom-muzei B.M. Kustodieva",
-                  "text": "B. M. Kustogyijev Emlékmúzeuma a neves művész életét és munkásságát mutatja be Asztrahánban.",
-                  "category": "museum",
-                  "coords": [
-                        48.049333,
-                        46.350272
-                  ]
-            },
-            {
-                  "name": "Muzei boevoi slavy",
-                  "text": "A Katonai Dicsőség Múzeuma a hadtörténelem előtt tisztelgő kiállításokat vonultat fel Asztrahánban.",
-                  "category": "museum",
-                  "coords": [
-                        48.036488,
-                        46.351145
-                  ]
-            },
-            {
                   "name": "Astrakhanskaya Kartinnaya galereya",
                   "text": "Az Asztraháni Képtár a képzőművészet széles körű gyűjteményét mutatja be a városban.",
                   "category": "museum",
                   "coords": [
                         48.05194,
                         46.349267
-                  ]
-            },
-            {
-                  "name": "0 kilometr",
-                  "text": "A Nulla kilométerkő emlékmű Asztrahán városának szimbolikus központját jelöli.",
-                  "category": "historical",
-                  "coords": [
-                        48.036702,
-                        46.348772
                   ]
             },
             {
@@ -35001,15 +34398,6 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   "coords": [
                         48.040775,
                         46.35062
-                  ]
-            },
-            {
-                  "name": "Palitra",
-                  "text": "A Paletta egy nyüzsgő művészeti központ Asztrahán városában.",
-                  "category": "cultural",
-                  "coords": [
-                        48.044168,
-                        46.369693
                   ]
             },
             {
@@ -35231,39 +34619,12 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
       ],
       "ro": [
             {
-                  "name": "Astrakhanskii gosudarstvennyi teatr opery i baleta",
-                  "text": "Teatrul de Operă și Balet de Stat din Astrahan, o clădire grandioasă pe faleza Volgăi.",
-                  "category": "cultural",
-                  "coords": [
-                        48.044158,
-                        46.360156
-                  ]
-            },
-            {
                   "name": "Astrakhanskii teatr yunogo zritelya",
                   "text": "Teatrul de Stat pentru Tineret din Astrahan oferă spectacole de teatru în oraș.",
                   "category": "cultural",
                   "coords": [
                         48.032557,
                         46.346556
-                  ]
-            },
-            {
-                  "name": "Astrakhanskii gosudarstvennyi dramaticheskii teatr",
-                  "text": "Teatrul Dramatic de Stat din Astrahan, un teatru istoric cu fațadă neoclasică.",
-                  "category": "cultural",
-                  "coords": [
-                        48.044444,
-                        46.348527
-                  ]
-            },
-            {
-                  "name": "Astrakhanskii teatr kukol",
-                  "text": "Teatrul de Păpuși de Stat din Astrahan, o clădire colorată lângă Kremlinul din Astrahan.",
-                  "category": "cultural",
-                  "coords": [
-                        48.031055,
-                        46.353287
                   ]
             },
             {
@@ -35303,15 +34664,6 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   ]
             },
             {
-                  "name": "Ioanno-Predtechenskii muzhskoi monastyr",
-                  "text": "Mănăstirea Sfântul Ioan Botezătorul este un lăcaș de cult ortodox din Astrahan.",
-                  "category": "religious",
-                  "coords": [
-                        48.058431,
-                        46.349011
-                  ]
-            },
-            {
                   "name": "Tserkov Uspeniya Presvyatoi bogoroditse Rimsko-Katolicheskoi tserkvi",
                   "text": "Biserica Adormirea Maicii Domnului construită în 1721 în Astrahan.",
                   "category": "religious",
@@ -35327,24 +34679,6 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   "coords": [
                         48.050677,
                         46.360313
-                  ]
-            },
-            {
-                  "name": "Astrakhanskii dub",
-                  "text": "Stejarul din Astrahan este o atracție naturală situată în oraș.",
-                  "category": "landmark",
-                  "coords": [
-                        48.062495,
-                        46.359727
-                  ]
-            },
-            {
-                  "name": "Kraevedcheskii muzei",
-                  "text": "Muzeul de Istorie Locală este o instituție care prezintă expoziții regionale în Astrahan.",
-                  "category": "museum",
-                  "coords": [
-                        48.04166,
-                        46.349591
                   ]
             },
             {
@@ -35375,42 +34709,6 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   ]
             },
             {
-                  "name": "Muzei istorii goroda",
-                  "text": "Muzeul de Istorie a Orașului expune artefacte legate de dezvoltarea Astrahanului.",
-                  "category": "museum",
-                  "coords": [
-                        48.031598,
-                        46.35214
-                  ]
-            },
-            {
-                  "name": "Muzei shokolada",
-                  "text": "Muzeul Ciocolatei este o atracție interesantă care prezintă arta ciocolatei în Astrahan.",
-                  "category": "museum",
-                  "coords": [
-                        48.039695,
-                        46.351094
-                  ]
-            },
-            {
-                  "name": "Troitskii Sobor",
-                  "text": "Catedrala Sfânta Treime este o structură istorică impresionantă situată în Astrahan.",
-                  "category": "castle",
-                  "coords": [
-                        48.031875,
-                        46.350222
-                  ]
-            },
-            {
-                  "name": "Artilleriiskii Dvor",
-                  "text": "Curtea de Artilerie este un muzeu care expune artefacte militare istorice în Astrahan.",
-                  "category": "museum",
-                  "coords": [
-                        48.033423,
-                        46.35085
-                  ]
-            },
-            {
                   "name": "Tseikhgauz",
                   "text": "Zeughaus este un arsenal istoric care funcționează acum ca muzeu în Astrahan.",
                   "category": "museum",
@@ -35438,39 +34736,12 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   ]
             },
             {
-                  "name": "Dom-muzei B.M. Kustodieva",
-                  "text": "Casa-Muzeu a lui B.M. Kustodiev este dedicată vieții și operei renumitului artist din Astrahan.",
-                  "category": "museum",
-                  "coords": [
-                        48.049333,
-                        46.350272
-                  ]
-            },
-            {
-                  "name": "Muzei boevoi slavy",
-                  "text": "Muzeul Gloriei Militare prezintă expoziții care onorează istoria militară în Astrahan.",
-                  "category": "museum",
-                  "coords": [
-                        48.036488,
-                        46.351145
-                  ]
-            },
-            {
                   "name": "Astrakhanskaya Kartinnaya galereya",
                   "text": "Galeria de Artă din Astrahan expune o vastă colecție de arte vizuale în oraș.",
                   "category": "museum",
                   "coords": [
                         48.05194,
                         46.349267
-                  ]
-            },
-            {
-                  "name": "0 kilometr",
-                  "text": "Monumentul Kilometrul Zero marchează centrul simbolic al orașului Astrahan.",
-                  "category": "historical",
-                  "coords": [
-                        48.036702,
-                        46.348772
                   ]
             },
             {
@@ -35498,15 +34769,6 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   "coords": [
                         48.040775,
                         46.35062
-                  ]
-            },
-            {
-                  "name": "Palitra",
-                  "text": "Paleta este un centru de arte vibrant situat în orașul Astrahan.",
-                  "category": "cultural",
-                  "coords": [
-                        48.044168,
-                        46.369693
                   ]
             },
             {
@@ -35728,39 +34990,12 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
       ],
       "en": [
             {
-                  "name": "Astrakhan State Theatre of Opera and Ballet",
-                  "text": "The Astrakhan State Opera and Ballet Theatre, a grand building on the Volga embankment.",
-                  "category": "cultural",
-                  "coords": [
-                        48.044158,
-                        46.360156
-                  ]
-            },
-            {
                   "name": "Astrakhanskii teatr yunogo zritelya",
                   "text": "The Astrakhan State Theatre for Young Audiences offers theatrical performances in the city.",
                   "category": "cultural",
                   "coords": [
                         48.032557,
                         46.346556
-                  ]
-            },
-            {
-                  "name": "Astrakhan State Drama Theatre",
-                  "text": "The Astrakhan State Drama Theatre, a historic theatre with a Neoclassical facade.",
-                  "category": "cultural",
-                  "coords": [
-                        48.044444,
-                        46.348527
-                  ]
-            },
-            {
-                  "name": "Astrakhan State Puppet Theatre",
-                  "text": "The Astrakhan State Puppet Theatre, a colorful building near the Astrakhan Kremlin.",
-                  "category": "cultural",
-                  "coords": [
-                        48.031055,
-                        46.353287
                   ]
             },
             {
@@ -35800,51 +35035,6 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   ]
             },
             {
-                  "name": "Ioanno-Predtechenskii muzhskoi monastyr",
-                  "text": "The St. John the Baptist Monastery is an Orthodox place of worship in Astrachan.",
-                  "category": "religious",
-                  "coords": [
-                        48.058431,
-                        46.349011
-                  ]
-            },
-            {
-                  "name": "Church of the Assumption of Mary",
-                  "text": "Church of the Assumption of Mary built in 1721 in Astrakhan.",
-                  "category": "religious",
-                  "coords": [
-                        48.051015,
-                        46.345924
-                  ]
-            },
-            {
-                  "name": "Astrakhan TV Tower",
-                  "text": "The Astrakhan TV Tower, a 180-meter lattice tower dominating the city skyline.",
-                  "category": "tower",
-                  "coords": [
-                        48.050677,
-                        46.360313
-                  ]
-            },
-            {
-                  "name": "Astrakhanskii dub",
-                  "text": "The Astrakhan Oak is a natural attraction located in the city of Astrachan.",
-                  "category": "landmark",
-                  "coords": [
-                        48.062495,
-                        46.359727
-                  ]
-            },
-            {
-                  "name": "Kraevedcheskii muzei",
-                  "text": "The Local History Museum is an institution showcasing regional exhibits in Astrachan.",
-                  "category": "museum",
-                  "coords": [
-                        48.04166,
-                        46.349591
-                  ]
-            },
-            {
                   "name": "Muzei kultury Astrakhani",
                   "text": "The Museum of Astrakhan Culture offers exhibits dedicated to local traditions.",
                   "category": "museum",
@@ -35869,42 +35059,6 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   "coords": [
                         48.030788,
                         46.354603
-                  ]
-            },
-            {
-                  "name": "Muzei istorii goroda",
-                  "text": "The Museum of City History displays artifacts related to the development of Astrachan.",
-                  "category": "museum",
-                  "coords": [
-                        48.031598,
-                        46.35214
-                  ]
-            },
-            {
-                  "name": "Muzei shokolada",
-                  "text": "The Chocolate Museum is an engaging attraction showcasing chocolate art in Astrachan.",
-                  "category": "museum",
-                  "coords": [
-                        48.039695,
-                        46.351094
-                  ]
-            },
-            {
-                  "name": "Troitskii Sobor",
-                  "text": "The Trinity Cathedral is an impressive historic structure located in Astrachan.",
-                  "category": "castle",
-                  "coords": [
-                        48.031875,
-                        46.350222
-                  ]
-            },
-            {
-                  "name": "Artilleriiskii Dvor",
-                  "text": "The Artillery Courtyard is a museum exhibiting historical military artifacts in Astrachan.",
-                  "category": "museum",
-                  "coords": [
-                        48.033423,
-                        46.35085
                   ]
             },
             {
@@ -35935,39 +35089,12 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   ]
             },
             {
-                  "name": "Dom-muzei B.M. Kustodieva",
-                  "text": "The House-Museum of B.M. Kustodiev is dedicated to the life and work of the renowned artist in Astrachan.",
-                  "category": "museum",
-                  "coords": [
-                        48.049333,
-                        46.350272
-                  ]
-            },
-            {
-                  "name": "Muzei boevoi slavy",
-                  "text": "The Museum of Military Glory features exhibits honoring military history in Astrachan.",
-                  "category": "museum",
-                  "coords": [
-                        48.036488,
-                        46.351145
-                  ]
-            },
-            {
                   "name": "Astrakhanskaya Kartinnaya galereya",
                   "text": "The Astrakhan Art Gallery displays a wide collection of visual arts in the city.",
                   "category": "museum",
                   "coords": [
                         48.05194,
                         46.349267
-                  ]
-            },
-            {
-                  "name": "0 kilometr",
-                  "text": "The Kilometer Zero monument marks the symbolic center of the city of Astrachan.",
-                  "category": "historical",
-                  "coords": [
-                        48.036702,
-                        46.348772
                   ]
             },
             {
@@ -35995,15 +35122,6 @@ imageHint: "KAMAZ factory in Naberezhnye Chelny",
                   "coords": [
                         48.040775,
                         46.35062
-                  ]
-            },
-            {
-                  "name": "Palitra",
-                  "text": "Palette is a vibrant arts centre located in the city of Astrachan.",
-                  "category": "cultural",
-                  "coords": [
-                        48.044168,
-                        46.369693
                   ]
             },
             {
@@ -49274,24 +48392,6 @@ imageHint: "Belgorod city center architecture",
                   ]
             },
             {
-                  "name": "Teatr SurGU",
-                  "text": "Studententheater der Staatlichen Universität Surgut mit modernen und klassischen Stücken.",
-                  "category": "cultural",
-                  "coords": [
-                        73.410955,
-                        61.239536
-                  ]
-            },
-            {
-                  "name": "Muzei PAO \"Surgutneftegaz\"",
-                  "text": "Museum über die Erdölförderung von Surgutneftegaz mit Industrieexponaten.",
-                  "category": "museum",
-                  "coords": [
-                        73.373404,
-                        61.263344
-                  ]
-            },
-            {
                   "name": "Akvamarin",
                   "text": "Familienunterhaltungszentrum mit Wasserrutschen und Spielbereichen.",
                   "category": "family",
@@ -49355,15 +48455,6 @@ imageHint: "Belgorod city center architecture",
                   ]
             },
             {
-                  "name": "Petrushka",
-                  "text": "Kulturelles Zentrum mit Puppentheater für Kinder und Erwachsene.",
-                  "category": "cultural",
-                  "coords": [
-                        73.393061,
-                        61.240083
-                  ]
-            },
-            {
                   "name": "Rossiya – Moya istoriya. Yugra",
                   "text": "Multimedia-Museum über die russische Geschichte mit Fokus auf die Region Jugra.",
                   "category": "museum",
@@ -49409,15 +48500,6 @@ imageHint: "Belgorod city center architecture",
                   ]
             },
             {
-                  "name": "Sterkh",
-                  "text": "Museum über den Sibirischen Kranich (Sterkh) und Feuchtgebiete.",
-                  "category": "museum",
-                  "coords": [
-                        73.375119,
-                        61.258231
-                  ]
-            },
-            {
                   "name": "Surgutskaya filarmoniya",
                   "text": "Philharmonie mit Konzertsaal für klassische und moderne Musik.",
                   "category": "cultural",
@@ -49434,24 +48516,6 @@ imageHint: "Belgorod city center architecture",
                         73.439675,
                         61.258715
                   ]
-            },
-            {
-                  "name": "School of Rock",
-                  "text": "Musikschule mit Bandproberäumen und Gitarrenunterricht.",
-                  "category": "cultural",
-                  "coords": [
-                        73.384421,
-                        61.2419
-                  ]
-            },
-            {
-                  "name": "Kamerton",
-                  "text": "Kulturhaus mit Aufführungen von Tanz- und Musikensembles.",
-                  "category": "cultural",
-                  "coords": [
-                        73.401539,
-                        61.260796
-                  ]
             }
       ],
       "hu": [
@@ -49462,24 +48526,6 @@ imageHint: "Belgorod city center architecture",
                   "coords": [
                         73.377953,
                         61.237695
-                  ]
-            },
-            {
-                  "name": "Teatr SurGU",
-                  "text": "A Szurguti Állami Egyetem színháza modern és klasszikus darabokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        73.410955,
-                        61.239536
-                  ]
-            },
-            {
-                  "name": "Muzei PAO \"Surgutneftegaz\"",
-                  "text": "A Surgutneftegaz olajkitermelését bemutató múzeum ipari kiállítási tárgyakkal.",
-                  "category": "museum",
-                  "coords": [
-                        73.373404,
-                        61.263344
                   ]
             },
             {
@@ -49546,15 +48592,6 @@ imageHint: "Belgorod city center architecture",
                   ]
             },
             {
-                  "name": "Petrushka",
-                  "text": "Kulturális központ bábszínházzal gyermekeknek és felnőtteknek.",
-                  "category": "cultural",
-                  "coords": [
-                        73.393061,
-                        61.240083
-                  ]
-            },
-            {
                   "name": "Rossiya – Moya istoriya. Yugra",
                   "text": "Multimédiás múzeum Oroszország történelméről, középpontban a Jugra régióval.",
                   "category": "museum",
@@ -49600,15 +48637,6 @@ imageHint: "Belgorod city center architecture",
                   ]
             },
             {
-                  "name": "Sterkh",
-                  "text": "Múzeum a szibériai daruról (Sterkh) és a vizes élőhelyekről.",
-                  "category": "museum",
-                  "coords": [
-                        73.375119,
-                        61.258231
-                  ]
-            },
-            {
                   "name": "Surgutskaya filarmoniya",
                   "text": "Filharmónia hangversenyteremmel klasszikus és modern zene számára.",
                   "category": "cultural",
@@ -49625,24 +48653,6 @@ imageHint: "Belgorod city center architecture",
                         73.439675,
                         61.258715
                   ]
-            },
-            {
-                  "name": "School of Rock",
-                  "text": "Zeneiskola próbatermekkel és gitároktatással.",
-                  "category": "cultural",
-                  "coords": [
-                        73.384421,
-                        61.2419
-                  ]
-            },
-            {
-                  "name": "Kamerton",
-                  "text": "Kultúrház tánc- és zenei együttesek előadásaival.",
-                  "category": "cultural",
-                  "coords": [
-                        73.401539,
-                        61.260796
-                  ]
             }
       ],
       "ro": [
@@ -49653,24 +48663,6 @@ imageHint: "Belgorod city center architecture",
                   "coords": [
                         73.377953,
                         61.237695
-                  ]
-            },
-            {
-                  "name": "Teatr SurGU",
-                  "text": "Teatrul studențesc al Universității de Stat Surgut, cu piese moderne și clasice.",
-                  "category": "cultural",
-                  "coords": [
-                        73.410955,
-                        61.239536
-                  ]
-            },
-            {
-                  "name": "Muzei PAO \"Surgutneftegaz\"",
-                  "text": "Muzeu dedicat extracției de petrol a Surgutneftegaz, cu exponate industriale.",
-                  "category": "museum",
-                  "coords": [
-                        73.373404,
-                        61.263344
                   ]
             },
             {
@@ -49737,15 +48729,6 @@ imageHint: "Belgorod city center architecture",
                   ]
             },
             {
-                  "name": "Petrushka",
-                  "text": "Centru cultural cu teatru de păpuși pentru copii și adulți.",
-                  "category": "cultural",
-                  "coords": [
-                        73.393061,
-                        61.240083
-                  ]
-            },
-            {
                   "name": "Rossiya – Moya istoriya. Yugra",
                   "text": "Muzeu multimedia despre istoria Rusiei, concentrându-se pe regiunea Iugra.",
                   "category": "museum",
@@ -49791,15 +48774,6 @@ imageHint: "Belgorod city center architecture",
                   ]
             },
             {
-                  "name": "Sterkh",
-                  "text": "Muzeu despre cocorul siberian (Sterkh) și zonele umede.",
-                  "category": "museum",
-                  "coords": [
-                        73.375119,
-                        61.258231
-                  ]
-            },
-            {
                   "name": "Surgutskaya filarmoniya",
                   "text": "Filarmonică cu sală de concerte pentru muzică clasică și modernă.",
                   "category": "cultural",
@@ -49816,24 +48790,6 @@ imageHint: "Belgorod city center architecture",
                         73.439675,
                         61.258715
                   ]
-            },
-            {
-                  "name": "School of Rock",
-                  "text": "Școală de muzică cu săli de repetiții și lecții de chitară.",
-                  "category": "cultural",
-                  "coords": [
-                        73.384421,
-                        61.2419
-                  ]
-            },
-            {
-                  "name": "Kamerton",
-                  "text": "Casă de cultură cu spectacole ale ansamblurilor de dans și muzică.",
-                  "category": "cultural",
-                  "coords": [
-                        73.401539,
-                        61.260796
-                  ]
             }
       ],
       "en": [
@@ -49847,39 +48803,12 @@ imageHint: "Belgorod city center architecture",
                   ]
             },
             {
-                  "name": "Teatr SurGU",
-                  "text": "Student theatre at Surgut State University, staging modern and classic plays.",
-                  "category": "cultural",
-                  "coords": [
-                        73.410955,
-                        61.239536
-                  ]
-            },
-            {
-                  "name": "Muzei PAO \"Surgutneftegaz\"",
-                  "text": "Museum about Surgutneftegaz oil production with industrial exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        73.373404,
-                        61.263344
-                  ]
-            },
-            {
                   "name": "Akvamarin",
                   "text": "Family entertainment center with water slides and play areas.",
                   "category": "family",
                   "coords": [
                         73.429982,
                         61.26346
-                  ]
-            },
-            {
-                  "name": "\"Merchant's manor. The house of the merchant G.S.Klepikov\"",
-                  "text": "Museum in the former house of merchant G.S. Klepikov showcasing merchant life.",
-                  "category": "museum",
-                  "coords": [
-                        73.403301,
-                        61.234948
                   ]
             },
             {
@@ -49928,15 +48857,6 @@ imageHint: "Belgorod city center architecture",
                   ]
             },
             {
-                  "name": "Petrushka",
-                  "text": "Cultural center with puppet theater for children and adults.",
-                  "category": "cultural",
-                  "coords": [
-                        73.393061,
-                        61.240083
-                  ]
-            },
-            {
                   "name": "Rossiya – Moya istoriya. Yugra",
                   "text": "Multimedia museum about Russian history focusing on the Yugra region.",
                   "category": "museum",
@@ -49982,15 +48902,6 @@ imageHint: "Belgorod city center architecture",
                   ]
             },
             {
-                  "name": "Sterkh",
-                  "text": "Museum about the Siberian crane (Sterkh) and wetlands.",
-                  "category": "museum",
-                  "coords": [
-                        73.375119,
-                        61.258231
-                  ]
-            },
-            {
                   "name": "Surgutskaya filarmoniya",
                   "text": "Philharmonic with concert hall for classical and contemporary music.",
                   "category": "cultural",
@@ -50006,24 +48917,6 @@ imageHint: "Belgorod city center architecture",
                   "coords": [
                         73.439675,
                         61.258715
-                  ]
-            },
-            {
-                  "name": "School of Rock",
-                  "text": "Music school with band rehearsal rooms and guitar lessons.",
-                  "category": "cultural",
-                  "coords": [
-                        73.384421,
-                        61.2419
-                  ]
-            },
-            {
-                  "name": "Kamerton",
-                  "text": "Cultural house with performances by dance and music ensembles.",
-                  "category": "cultural",
-                  "coords": [
-                        73.401539,
-                        61.260796
                   ]
             }
       ]
@@ -57575,48 +56468,12 @@ imageHint: "Alyosha Monument in Murmansk",
                   ]
             },
             {
-                  "name": "Muzei prirody",
-                  "text": "Naturkundemuseum mit Dioramen der sibirischen Tierwelt und Geologie.",
-                  "category": "museum",
-                  "coords": [
-                        68.255793,
-                        58.202503
-                  ]
-            },
-            {
-                  "name": "Dom masterov",
-                  "text": "Ein Handwerksmuseum in der Stadt Tobolsk.",
-                  "category": "museum",
-                  "coords": [
-                        68.256766,
-                        58.201005
-                  ]
-            },
-            {
-                  "name": "Muzei pechati",
-                  "text": "Museum zur Geschichte des Buchdrucks, mit alten Druckpressen und Lettern.",
-                  "category": "museum",
-                  "coords": [
-                        68.262262,
-                        58.206128
-                  ]
-            },
-            {
                   "name": "Muzei semi Imperatora Nikolaya II",
                   "text": "Ein Museum in Tobolsk, das der Familie von Kaiser Nikolaus II. gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         68.243331,
                         58.193626
-                  ]
-            },
-            {
-                  "name": "Muzei sibirskoi katorgi i ssylki",
-                  "text": "Ein Museum in Tobolsk über die Geschichte der sibirischen Zwangsarbeit und Verbannung.",
-                  "category": "museum",
-                  "coords": [
-                        68.24953,
-                        58.201378
                   ]
             },
             {
@@ -57937,48 +56794,12 @@ imageHint: "Alyosha Monument in Murmansk",
                   ]
             },
             {
-                  "name": "Muzei prirody",
-                  "text": "Természetrajzi Múzeum szibériai állatvilágot és geológiát bemutató diorámákkal.",
-                  "category": "museum",
-                  "coords": [
-                        68.255793,
-                        58.202503
-                  ]
-            },
-            {
-                  "name": "Dom masterov",
-                  "text": "Egy mesterségeket bemutató múzeum Tobolszkban.",
-                  "category": "museum",
-                  "coords": [
-                        68.256766,
-                        58.201005
-                  ]
-            },
-            {
-                  "name": "Muzei pechati",
-                  "text": "Nyomdászat-történeti Múzeum, régi nyomdagépekkel és betűkkel.",
-                  "category": "museum",
-                  "coords": [
-                        68.262262,
-                        58.206128
-                  ]
-            },
-            {
                   "name": "Muzei semi Imperatora Nikolaya II",
                   "text": "Egy múzeum Tobolszkban, amelyet II. Miklós cár családjának szenteltek.",
                   "category": "museum",
                   "coords": [
                         68.243331,
                         58.193626
-                  ]
-            },
-            {
-                  "name": "Muzei sibirskoi katorgi i ssylki",
-                  "text": "Egy tobolszki múzeum, amely a szibériai kényszermunka és száműzetés történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        68.24953,
-                        58.201378
                   ]
             },
             {
@@ -58299,48 +57120,12 @@ imageHint: "Alyosha Monument in Murmansk",
                   ]
             },
             {
-                  "name": "Muzei prirody",
-                  "text": "Muzeul Naturii, cu diorame ale faunei și geologiei siberiene.",
-                  "category": "museum",
-                  "coords": [
-                        68.255793,
-                        58.202503
-                  ]
-            },
-            {
-                  "name": "Dom masterov",
-                  "text": "Un muzeu dedicat meșteșugurilor în orașul Tobolsk.",
-                  "category": "museum",
-                  "coords": [
-                        68.256766,
-                        58.201005
-                  ]
-            },
-            {
-                  "name": "Muzei pechati",
-                  "text": "Muzeul Tiparului, cu prese de tipărit vechi și caractere tipografice.",
-                  "category": "museum",
-                  "coords": [
-                        68.262262,
-                        58.206128
-                  ]
-            },
-            {
                   "name": "Muzei semi Imperatora Nikolaya II",
                   "text": "Un muzeu din Tobolsk dedicat familiei împăratului Nicolae al II-lea.",
                   "category": "museum",
                   "coords": [
                         68.243331,
                         58.193626
-                  ]
-            },
-            {
-                  "name": "Muzei sibirskoi katorgi i ssylki",
-                  "text": "Un muzeu din Tobolsk despre istoria muncii silnice și a exilului în Siberia.",
-                  "category": "museum",
-                  "coords": [
-                        68.24953,
-                        58.201378
                   ]
             },
             {
@@ -58661,48 +57446,12 @@ imageHint: "Alyosha Monument in Murmansk",
                   ]
             },
             {
-                  "name": "Muzei prirody",
-                  "text": "Natural History Museum, with dioramas of Siberian wildlife and geology.",
-                  "category": "museum",
-                  "coords": [
-                        68.255793,
-                        58.202503
-                  ]
-            },
-            {
-                  "name": "Dom masterov",
-                  "text": "A museum dedicated to traditional crafts in the city of Tobolsk.",
-                  "category": "museum",
-                  "coords": [
-                        68.256766,
-                        58.201005
-                  ]
-            },
-            {
-                  "name": "Muzei pechati",
-                  "text": "Museum of Printing, featuring antique printing presses and type.",
-                  "category": "museum",
-                  "coords": [
-                        68.262262,
-                        58.206128
-                  ]
-            },
-            {
                   "name": "Muzei semi Imperatora Nikolaya II",
                   "text": "A museum in Tobolsk dedicated to the family of Emperor Nicholas II.",
                   "category": "museum",
                   "coords": [
                         68.243331,
                         58.193626
-                  ]
-            },
-            {
-                  "name": "Muzei sibirskoi katorgi i ssylki",
-                  "text": "A museum in Tobolsk covering the history of Siberian hard labor and exile.",
-                  "category": "museum",
-                  "coords": [
-                        68.24953,
-                        58.201378
                   ]
             },
             {
@@ -69518,15 +68267,6 @@ imageHint: "Alyosha Monument in Murmansk",
                   ]
             },
             {
-                  "name": "Staryi obdorskii dom",
-                  "text": "Das Staryi obdorskii dom ist ein historisches Holzhaus aus der Gründungszeit Salechards.",
-                  "category": "historical",
-                  "coords": [
-                        66.589377,
-                        66.52575
-                  ]
-            },
-            {
                   "name": "Kulturno-delovoi tsentr",
                   "text": "Das Kulturno-delovoi tsentr ist ein modernes Kultur- und Geschäftszentrum im Zentrum Salechards.",
                   "category": "cultural",
@@ -69542,15 +68282,6 @@ imageHint: "Alyosha Monument in Murmansk",
                   "coords": [
                         66.63892,
                         66.526925
-                  ]
-            },
-            {
-                  "name": "Ostrog ili Gorod masterov",
-                  "text": "Das Ostrog ili Gorod masterov ist ein Freilichtmuseum, das einen sibirischen Ostrog und Handwerksstätten zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        66.588826,
-                        66.522272
                   ]
             },
             {
@@ -69655,15 +68386,6 @@ imageHint: "Alyosha Monument in Murmansk",
                   ]
             },
             {
-                  "name": "Staryi obdorskii dom",
-                  "text": "A Staryi obdorskii dom egy történelmi faház Szalechárd alapításának korából.",
-                  "category": "historical",
-                  "coords": [
-                        66.589377,
-                        66.52575
-                  ]
-            },
-            {
                   "name": "Kulturno-delovoi tsentr",
                   "text": "A Kulturno-delovoi tsentr egy modern kulturális és üzleti központ Szalechárd központjában.",
                   "category": "cultural",
@@ -69679,15 +68401,6 @@ imageHint: "Alyosha Monument in Murmansk",
                   "coords": [
                         66.63892,
                         66.526925
-                  ]
-            },
-            {
-                  "name": "Ostrog ili Gorod masterov",
-                  "text": "Az Ostrog ili Gorod masterov egy szabadtéri múzeum, amely egy szibériai erődöt és kézműves műhelyeket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        66.588826,
-                        66.522272
                   ]
             },
             {
@@ -69792,15 +68505,6 @@ imageHint: "Alyosha Monument in Murmansk",
                   ]
             },
             {
-                  "name": "Staryi obdorskii dom",
-                  "text": "Staryi obdorskii dom este o casă istorică din lemn din perioada fondării orașului Salekhard.",
-                  "category": "historical",
-                  "coords": [
-                        66.589377,
-                        66.52575
-                  ]
-            },
-            {
                   "name": "Kulturno-delovoi tsentr",
                   "text": "Kulturno-delovoi tsentr este un centru cultural și de afaceri modern în centrul orașului Salekhard.",
                   "category": "cultural",
@@ -69816,15 +68520,6 @@ imageHint: "Alyosha Monument in Murmansk",
                   "coords": [
                         66.63892,
                         66.526925
-                  ]
-            },
-            {
-                  "name": "Ostrog ili Gorod masterov",
-                  "text": "Ostrog ili Gorod masterov este un muzeu în aer liber care reconstituie un ostrog siberian și ateliere meșteșugărești.",
-                  "category": "museum",
-                  "coords": [
-                        66.588826,
-                        66.522272
                   ]
             },
             {
@@ -69929,15 +68624,6 @@ imageHint: "Alyosha Monument in Murmansk",
                   ]
             },
             {
-                  "name": "Staryi obdorskii dom",
-                  "text": "Staryi obdorskii dom is a historic wooden house from the founding period of Salekhard.",
-                  "category": "historical",
-                  "coords": [
-                        66.589377,
-                        66.52575
-                  ]
-            },
-            {
                   "name": "Kulturno-delovoi tsentr",
                   "text": "Kulturno-delovoi tsentr is a modern cultural and business centre in central Salekhard.",
                   "category": "cultural",
@@ -69953,15 +68639,6 @@ imageHint: "Alyosha Monument in Murmansk",
                   "coords": [
                         66.63892,
                         66.526925
-                  ]
-            },
-            {
-                  "name": "Ostrog ili Gorod masterov",
-                  "text": "Ostrog ili Gorod masterov is an open-air museum recreating a Siberian ostrog and artisan workshops.",
-                  "category": "museum",
-                  "coords": [
-                        66.588826,
-                        66.522272
                   ]
             },
             {

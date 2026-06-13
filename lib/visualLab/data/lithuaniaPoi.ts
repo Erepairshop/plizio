@@ -6432,48 +6432,12 @@ export const lithuaniaAllPoi = [
                   ]
             },
             {
-                  "name": "ež. Baltis",
-                  "text": "Der See ež. Baltis in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
-                  "category": "natural",
-                  "coords": [
-                        25.011661,
-                        54.660549
-                  ]
-            },
-            {
                   "name": "Totoriskessee",
                   "text": "Der See Totoriškių ež. in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
                   "category": "natural",
                   "coords": [
                         24.92868,
                         54.641101
-                  ]
-            },
-            {
-                  "name": "ež. Ežerėlis",
-                  "text": "Der See ež. Ežerėlis in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
-                  "category": "natural",
-                  "coords": [
-                        24.98038,
-                        54.696258
-                  ]
-            },
-            {
-                  "name": "Lentvario ež.",
-                  "text": "Der See Lentvario ež. in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
-                  "category": "natural",
-                  "coords": [
-                        25.037783,
-                        54.656087
-                  ]
-            },
-            {
-                  "name": "ež. Kulpis",
-                  "text": "Der See ež. Kulpis in Trakai ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
-                  "category": "natural",
-                  "coords": [
-                        25.000024,
-                        54.680361
                   ]
             },
             {
@@ -6857,48 +6821,12 @@ export const lithuaniaAllPoi = [
                   ]
             },
             {
-                  "name": "ež. Baltis",
-                  "text": "A(z) ež. Baltis tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
-                  "category": "natural",
-                  "coords": [
-                        25.011661,
-                        54.660549
-                  ]
-            },
-            {
                   "name": "Totoriškių ež.",
                   "text": "A(z) Totoriškių ež. tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
                   "category": "natural",
                   "coords": [
                         24.92868,
                         54.641101
-                  ]
-            },
-            {
-                  "name": "ež. Ežerėlis",
-                  "text": "A(z) ež. Ežerėlis tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
-                  "category": "natural",
-                  "coords": [
-                        24.98038,
-                        54.696258
-                  ]
-            },
-            {
-                  "name": "Lentvario ež.",
-                  "text": "A(z) Lentvario ež. tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
-                  "category": "natural",
-                  "coords": [
-                        25.037783,
-                        54.656087
-                  ]
-            },
-            {
-                  "name": "ež. Kulpis",
-                  "text": "A(z) ež. Kulpis tó Trakai területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
-                  "category": "natural",
-                  "coords": [
-                        25.000024,
-                        54.680361
                   ]
             },
             {
@@ -7282,48 +7210,12 @@ export const lithuaniaAllPoi = [
                   ]
             },
             {
-                  "name": "ež. Baltis",
-                  "text": "Lacul ež. Baltis din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
-                  "category": "natural",
-                  "coords": [
-                        25.011661,
-                        54.660549
-                  ]
-            },
-            {
                   "name": "Totoriškių ež.",
                   "text": "Lacul Totoriškių ež. din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
                   "category": "natural",
                   "coords": [
                         24.92868,
                         54.641101
-                  ]
-            },
-            {
-                  "name": "ež. Ežerėlis",
-                  "text": "Lacul ež. Ežerėlis din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
-                  "category": "natural",
-                  "coords": [
-                        24.98038,
-                        54.696258
-                  ]
-            },
-            {
-                  "name": "Lentvario ež.",
-                  "text": "Lacul Lentvario ež. din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
-                  "category": "natural",
-                  "coords": [
-                        25.037783,
-                        54.656087
-                  ]
-            },
-            {
-                  "name": "ež. Kulpis",
-                  "text": "Lacul ež. Kulpis din Trakai este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
-                  "category": "natural",
-                  "coords": [
-                        25.000024,
-                        54.680361
                   ]
             },
             {
@@ -7707,48 +7599,12 @@ export const lithuaniaAllPoi = [
                   ]
             },
             {
-                  "name": "ež. Baltis",
-                  "text": "ež. Baltis is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
-                  "category": "natural",
-                  "coords": [
-                        25.011661,
-                        54.660549
-                  ]
-            },
-            {
                   "name": "Totoriškių ež.",
                   "text": "Totoriškių ež. is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
                   "category": "natural",
                   "coords": [
                         24.92868,
                         54.641101
-                  ]
-            },
-            {
-                  "name": "ež. Ežerėlis",
-                  "text": "ež. Ežerėlis is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
-                  "category": "natural",
-                  "coords": [
-                        24.98038,
-                        54.696258
-                  ]
-            },
-            {
-                  "name": "Lentvario ež.",
-                  "text": "Lentvario ež. is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
-                  "category": "natural",
-                  "coords": [
-                        25.037783,
-                        54.656087
-                  ]
-            },
-            {
-                  "name": "ež. Kulpis",
-                  "text": "ež. Kulpis is a lake in Trakai, perfect for a relaxing walk or enjoying the local scenery.",
-                  "category": "natural",
-                  "coords": [
-                        25.000024,
-                        54.680361
                   ]
             },
             {
@@ -8107,15 +7963,6 @@ export const lithuaniaAllPoi = [
                         24.852421,
                         54.883168
                   ]
-            },
-            {
-                  "name": "Kernavės archeologijos ir istorijos muziejus",
-                  "text": "Ein Museum, das dem archäologischen und historischen Erbe von Kernavė gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        24.853817,
-                        54.885587
-                  ]
             }
       ],
       "hu": [
@@ -8180,15 +8027,6 @@ export const lithuaniaAllPoi = [
                   "coords": [
                         24.852421,
                         54.883168
-                  ]
-            },
-            {
-                  "name": "Kernavės archeologijos ir istorijos muziejus",
-                  "text": "Kernavė régészeti és történelmi örökségét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        24.853817,
-                        54.885587
                   ]
             }
       ],
@@ -8255,15 +8093,6 @@ export const lithuaniaAllPoi = [
                         24.852421,
                         54.883168
                   ]
-            },
-            {
-                  "name": "Kernavės archeologijos ir istorijos muziejus",
-                  "text": "Un muzeu dedicat patrimoniului arheologic și istoric din Kernavė.",
-                  "category": "museum",
-                  "coords": [
-                        24.853817,
-                        54.885587
-                  ]
             }
       ],
       "en": [
@@ -8328,15 +8157,6 @@ export const lithuaniaAllPoi = [
                   "coords": [
                         24.852421,
                         54.883168
-                  ]
-            },
-            {
-                  "name": "Kernavės archeologijos ir istorijos muziejus",
-                  "text": "A museum dedicated to the archaeological and historical heritage of Kernavė.",
-                  "category": "museum",
-                  "coords": [
-                        24.853817,
-                        54.885587
                   ]
             }
       ]

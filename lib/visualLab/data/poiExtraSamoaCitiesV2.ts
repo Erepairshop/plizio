@@ -6,66 +6,12 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-apia-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Museum of Samoa",
-                  "text": "Ein Museum, das die Kultur und Geschichte von Samoa in Apia präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        -171.762695,
-                        -13.839718
-                  ]
-            },
-            {
-                  "name": "Snorkelling Start",
-                  "text": "Startpunkt für Schnorcheltouren am Riff in Apia.",
-                  "category": "family",
-                  "coords": [
-                        -171.757999,
-                        -13.825029
-                  ]
-            },
-            {
-                  "name": "Snorkel Rest Point",
-                  "text": "Ein Rastplatz für Schnorchler in der Küstenzone von Apia.",
-                  "category": "family",
-                  "coords": [
-                        -171.754928,
-                        -13.823354
-                  ]
-            },
-            {
                   "name": "Siva Afi Entertainment Centre",
                   "text": "Kulturzentrum für traditionellen samoanischen Feuermesser-Tanz (Siva Afi) in Apia.",
                   "category": "cultural",
                   "coords": [
                         -171.76586,
                         -13.830218
-                  ]
-            },
-            {
-                  "name": "Loto o Samasoni Reserve",
-                  "text": "Ein geschütztes Naturgebiet zur Erhaltung der lokalen Flora und Fauna in Apia.",
-                  "category": "natural",
-                  "coords": [
-                        -171.758999,
-                        -13.840973
-                  ]
-            },
-            {
-                  "name": "Lelata Reserve",
-                  "text": "Naturschutzgebiet zur Bewahrung der natürlichen Umgebung in Apia.",
-                  "category": "natural",
-                  "coords": [
-                        -171.754685,
-                        -13.84585
-                  ]
-            },
-            {
-                  "name": "Mulinu'u Nature Reservce",
-                  "text": "Ein bedeutendes Naturschutzgebiet auf dem Mulinu'u Point in Apia.",
-                  "category": "natural",
-                  "coords": [
-                        -171.778718,
-                        -13.817039
                   ]
             },
             {
@@ -78,84 +24,12 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samoa Conservation Society Moamoa Reserve",
-                  "text": "Schutzgebiet der Samoa Conservation Society nahe Apia.",
-                  "category": "natural",
-                  "coords": [
-                        -171.789719,
-                        -13.868982
-                  ]
-            },
-            {
-                  "name": "1927 Magiagi Hydro Scheme Building Ruins",
-                  "text": "Ruinen des Wasserkraftwerks Magiagi von 1927, heute Museum in Apia.",
-                  "category": "museum",
-                  "coords": [
-                        -171.754185,
-                        -13.851024
-                  ]
-            },
-            {
-                  "name": "Mulinu'u Point Nature Reserve",
-                  "text": "Naturschutzgebiet am Mulinu'u Point an der Küste nahe Apia.",
-                  "category": "natural",
-                  "coords": [
-                        -171.780881,
-                        -13.815707
-                  ]
-            },
-            {
                   "name": "Cathedral of the Immaculate Conception",
                   "text": "Katholische Kathedrale der Unbefleckten Empfängnis im Zentrum von Apia.",
                   "category": "landmark",
                   "coords": [
                         -171.766451,
                         -13.832191
-                  ]
-            },
-            {
-                  "name": "Apia Park",
-                  "text": "Hauptsportstadion von Apia, Austragungsort der Pazifikspiele.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.751309,
-                        -13.836217
-                  ]
-            },
-            {
-                  "name": "Western Samoa 1962 Independence Memorial",
-                  "text": "Denkmal zur Erinnerung an die Unabhängigkeit Samoas 1962 in Apia.",
-                  "category": "historical",
-                  "coords": [
-                        -171.777508,
-                        -13.818364
-                  ]
-            },
-            {
-                  "name": "Western Samoa Retired Nurses Association",
-                  "text": "Ein Denkmal zur Ehrung der Verdienste der Krankenpfleger in Apia.",
-                  "category": "historical",
-                  "coords": [
-                        -171.763398,
-                        -13.844919
-                  ]
-            },
-            {
-                  "name": "Madd Gallery",
-                  "text": "Eine Kunstgalerie mit Werken lokaler Künstler in Apia.",
-                  "category": "museum",
-                  "coords": [
-                        -171.763183,
-                        -13.842607
-                  ]
-            },
-            {
-                  "name": "Vaiala Beach Cottages",
-                  "text": "Die Vaiala Beach Cottages bieten eine Urlaubsunterkunft direkt am Strand von Apia, sodass Gäste unmittelbar den samoanischen Sand betreten können. Diese Küstenlage ist ein hervorragender Ausgangspunkt für Strandspaziergänge, Sonnenbäder und ein erfrischendes Bad im nahen Ozean. Eine warme und authentische Atmosphäre prägt diesen lokalen Ort, der ideal ist, um das Inselleben zu genießen. In der Hauptreisezeit ist es ratsam, frühzeitig zu planen oder rechtzeitig anzureisen.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.753534,
-                        -13.828899
                   ]
             },
             {
@@ -166,54 +40,9 @@ export const samoaCitiesV2: POI[] = [
                         -171.775339,
                         -13.837887
                   ]
-            },
-            {
-                  "name": "Taumeasina Beach Fales",
-                  "text": "Die Taumeasina Beach Fales bieten traditionelle Strandunterkünfte direkt an der Küste von Apia. Diese Umgebung lässt Besucher in eine kulturell reiche Meereskulisse eintauchen, in der der Rhythmus des samoanischen Ozeans den Tag bestimmt. Gäste können sich am Wasser entspannen oder das authentische Strandgefühl der Insel genießen. Es ist wunderbar, die unmittelbare Uferlinie während der kühleren Morgenstunden zu erkunden.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.747135,
-                        -13.832675
-                  ]
-            },
-            {
-                  "name": "Apia Samoa Temple",
-                  "text": "Ein bedeutender Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage in Apia.",
-                  "category": "religious",
-                  "coords": [
-                        -171.783043,
-                        -13.838128
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Museum of Samoa",
-                  "text": "Múzeum, amely bemutatja Szamoa kultúráját és történelmét Apiában.",
-                  "category": "museum",
-                  "coords": [
-                        -171.762695,
-                        -13.839718
-                  ]
-            },
-            {
-                  "name": "Snorkelling Start",
-                  "text": "Búvártúrák kiindulópontja a zátonynál Apiában.",
-                  "category": "family",
-                  "coords": [
-                        -171.757999,
-                        -13.825029
-                  ]
-            },
-            {
-                  "name": "Snorkel Rest Point",
-                  "text": "Pihenőhely a könnyűbúvárok számára Apia part menti zónájában.",
-                  "category": "family",
-                  "coords": [
-                        -171.754928,
-                        -13.823354
-                  ]
-            },
             {
                   "name": "Siva Afi Entertainment Centre",
                   "text": "Hagyományos szamoai tűztánc (Siva Afi) kulturális központja Apiában.",
@@ -221,33 +50,6 @@ export const samoaCitiesV2: POI[] = [
                   "coords": [
                         -171.76586,
                         -13.830218
-                  ]
-            },
-            {
-                  "name": "Loto o Samasoni Reserve",
-                  "text": "Védett természeti terület a helyi növény- és állatvilág megőrzésére Apiában.",
-                  "category": "natural",
-                  "coords": [
-                        -171.758999,
-                        -13.840973
-                  ]
-            },
-            {
-                  "name": "Lelata Reserve",
-                  "text": "Természetvédelmi terület a természeti környezet megőrzésére Apiában.",
-                  "category": "natural",
-                  "coords": [
-                        -171.754685,
-                        -13.84585
-                  ]
-            },
-            {
-                  "name": "Mulinu'u Nature Reservce",
-                  "text": "Jelentős természetvédelmi terület a Mulinu'u Pointon, Apiában.",
-                  "category": "natural",
-                  "coords": [
-                        -171.778718,
-                        -13.817039
                   ]
             },
             {
@@ -260,84 +62,12 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samoa Conservation Society Moamoa Reserve",
-                  "text": "A Samoa Conservation Society által kezelt védett terület Apia közelében.",
-                  "category": "natural",
-                  "coords": [
-                        -171.789719,
-                        -13.868982
-                  ]
-            },
-            {
-                  "name": "1927 Magiagi Hydro Scheme Building Ruins",
-                  "text": "Az 1927-es Magiagi vízierőmű romjai, ma múzeum Apiában.",
-                  "category": "museum",
-                  "coords": [
-                        -171.754185,
-                        -13.851024
-                  ]
-            },
-            {
-                  "name": "Mulinu'u Point Nature Reserve",
-                  "text": "Természetvédelmi terület a Mulinu'u-foknál, a parton Apia közelében.",
-                  "category": "natural",
-                  "coords": [
-                        -171.780881,
-                        -13.815707
-                  ]
-            },
-            {
                   "name": "Cathedral of the Immaculate Conception",
                   "text": "Szeplőtelen Fogantatás székesegyház Apia központjában.",
                   "category": "landmark",
                   "coords": [
                         -171.766451,
                         -13.832191
-                  ]
-            },
-            {
-                  "name": "Apia Park",
-                  "text": "Apia fő sportstadionja, a Csendes-óceáni Játékok helyszíne.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.751309,
-                        -13.836217
-                  ]
-            },
-            {
-                  "name": "Western Samoa 1962 Independence Memorial",
-                  "text": "Szamoa 1962-es függetlenségének emlékműve Apiában.",
-                  "category": "historical",
-                  "coords": [
-                        -171.777508,
-                        -13.818364
-                  ]
-            },
-            {
-                  "name": "Western Samoa Retired Nurses Association",
-                  "text": "Emlékmű a nyugdíjas nővérek szolgálatának tiszteletére Apiában.",
-                  "category": "historical",
-                  "coords": [
-                        -171.763398,
-                        -13.844919
-                  ]
-            },
-            {
-                  "name": "Madd Gallery",
-                  "text": "Művészeti galéria helyi művészek alkotásaival Apiában.",
-                  "category": "museum",
-                  "coords": [
-                        -171.763183,
-                        -13.842607
-                  ]
-            },
-            {
-                  "name": "Vaiala Beach Cottages",
-                  "text": "Az Apiában található Vaiala Beach Cottages közvetlen tengerparti szállást kínál, ahonnan a vendégek egyből a szamoai homokba léphetnek. Ez a parti környezet kiváló bázist nyújt a tengerparti sétákhoz, napozáshoz és a közeli óceánban való megmártózáshoz. Meleg és autentikus hangulat jellemzi ezt a helyi pontot, amely tökéletes a szigeti élet átéléséhez. Főszezonban érdemes előre foglalni vagy időben érkezni.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.753534,
-                        -13.828899
                   ]
             },
             {
@@ -348,54 +78,9 @@ export const samoaCitiesV2: POI[] = [
                         -171.775339,
                         -13.837887
                   ]
-            },
-            {
-                  "name": "Taumeasina Beach Fales",
-                  "text": "A Taumeasina Beach Fales hagyományos tengerparti szállásokat kínál közvetlenül Apia partjainál. Ez a környezet egy kulturálisan gazdag tengerparti világba vonzza a látogatókat, ahol a szamoai óceán ritmusa határozza meg a napot. A vendégek a vízparton pihenhetnek, vagy élvezhetik a helyi, autentikus strandhangulatot. A hűvösebb reggeli órákban tett tengerparti séta csodálatos módja a nap indításának.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.747135,
-                        -13.832675
-                  ]
-            },
-            {
-                  "name": "Apia Samoa Temple",
-                  "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza jelentős temploma Apiában.",
-                  "category": "religious",
-                  "coords": [
-                        -171.783043,
-                        -13.838128
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Museum of Samoa",
-                  "text": "Un muzeu care prezintă cultura și istoria statului Samoa în Apia.",
-                  "category": "museum",
-                  "coords": [
-                        -171.762695,
-                        -13.839718
-                  ]
-            },
-            {
-                  "name": "Snorkelling Start",
-                  "text": "Punct de plecare pentru expediții de snorkeling la recif în Apia.",
-                  "category": "family",
-                  "coords": [
-                        -171.757999,
-                        -13.825029
-                  ]
-            },
-            {
-                  "name": "Snorkel Rest Point",
-                  "text": "Un punct de odihnă pentru snorkeleri în zona de coastă din Apia.",
-                  "category": "family",
-                  "coords": [
-                        -171.754928,
-                        -13.823354
-                  ]
-            },
             {
                   "name": "Siva Afi Entertainment Centre",
                   "text": "Centru cultural pentru dansul tradițional samoan cu foc (Siva Afi) în Apia.",
@@ -403,33 +88,6 @@ export const samoaCitiesV2: POI[] = [
                   "coords": [
                         -171.76586,
                         -13.830218
-                  ]
-            },
-            {
-                  "name": "Loto o Samasoni Reserve",
-                  "text": "O zonă naturală protejată pentru conservarea florei și faunei locale în Apia.",
-                  "category": "natural",
-                  "coords": [
-                        -171.758999,
-                        -13.840973
-                  ]
-            },
-            {
-                  "name": "Lelata Reserve",
-                  "text": "Rezervație naturală pentru conservarea mediului natural în Apia.",
-                  "category": "natural",
-                  "coords": [
-                        -171.754685,
-                        -13.84585
-                  ]
-            },
-            {
-                  "name": "Mulinu'u Nature Reservce",
-                  "text": "O rezervație naturală importantă situată la Mulinu'u Point în Apia.",
-                  "category": "natural",
-                  "coords": [
-                        -171.778718,
-                        -13.817039
                   ]
             },
             {
@@ -442,84 +100,12 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samoa Conservation Society Moamoa Reserve",
-                  "text": "Rezervație gestionată de Samoa Conservation Society lângă Apia.",
-                  "category": "natural",
-                  "coords": [
-                        -171.789719,
-                        -13.868982
-                  ]
-            },
-            {
-                  "name": "1927 Magiagi Hydro Scheme Building Ruins",
-                  "text": "Ruinele hidrocentralei Magiagi din 1927, acum muzeu în Apia.",
-                  "category": "museum",
-                  "coords": [
-                        -171.754185,
-                        -13.851024
-                  ]
-            },
-            {
-                  "name": "Mulinu'u Point Nature Reserve",
-                  "text": "Rezervație naturală la Mulinu'u Point pe coastă lângă Apia.",
-                  "category": "natural",
-                  "coords": [
-                        -171.780881,
-                        -13.815707
-                  ]
-            },
-            {
                   "name": "Cathedral of the Immaculate Conception",
                   "text": "Catedrala catolică a Imaculatei Concepții în centrul Apiei.",
                   "category": "landmark",
                   "coords": [
                         -171.766451,
                         -13.832191
-                  ]
-            },
-            {
-                  "name": "Apia Park",
-                  "text": "Stadionul principal din Apia, gazdă a Jocurilor Pacificului.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.751309,
-                        -13.836217
-                  ]
-            },
-            {
-                  "name": "Western Samoa 1962 Independence Memorial",
-                  "text": "Monument care marchează independența Samoei din 1962, în Apia.",
-                  "category": "historical",
-                  "coords": [
-                        -171.777508,
-                        -13.818364
-                  ]
-            },
-            {
-                  "name": "Western Samoa Retired Nurses Association",
-                  "text": "Un monument în onoarea meritelor asistentelor medicale pensionate din Apia.",
-                  "category": "historical",
-                  "coords": [
-                        -171.763398,
-                        -13.844919
-                  ]
-            },
-            {
-                  "name": "Madd Gallery",
-                  "text": "O galerie de artă care expune lucrări ale artiștilor locali din Apia.",
-                  "category": "museum",
-                  "coords": [
-                        -171.763183,
-                        -13.842607
-                  ]
-            },
-            {
-                  "name": "Vaiala Beach Cottages",
-                  "text": "Oferind cazare direct pe plajă în Apia, Vaiala Beach Cottages le permite oaspeților să pășească direct pe nisipul din Samoa. Acest cadru de coastă oferă o bază excelentă pentru plimbări pe plajă, băi de soare și o baie în oceanul din apropiere. O atmosferă caldă și autentică caracterizează acest loc, perfect pentru a te bucura de viața insulară. Se recomandă o vizită planificată din timp în timpul sezoanelor de vârf.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.753534,
-                        -13.828899
                   ]
             },
             {
@@ -530,54 +116,9 @@ export const samoaCitiesV2: POI[] = [
                         -171.775339,
                         -13.837887
                   ]
-            },
-            {
-                  "name": "Taumeasina Beach Fales",
-                  "text": "Taumeasina Beach Fales prezintă unități de cazare tradiționale chiar pe coasta orașului Apia. Acest cadru scufundă vizitatorii într-un mediu maritim bogat cultural, unde ritmul oceanului din Samoa dictează ziua. Oaspeții se pot relaxa lângă apă sau se pot bucura de atmosfera autentică a plajei locale. Explorarea țărmului imediat în timpul orelor mai răcoroase ale dimineții este o modalitate minunată de a începe ziua.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.747135,
-                        -13.832675
-                  ]
-            },
-            {
-                  "name": "Apia Samoa Temple",
-                  "text": "Un templu important al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă în Apia.",
-                  "category": "religious",
-                  "coords": [
-                        -171.783043,
-                        -13.838128
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Museum of Samoa",
-                  "text": "A museum showcasing the culture and history of Samoa in Apia.",
-                  "category": "museum",
-                  "coords": [
-                        -171.762695,
-                        -13.839718
-                  ]
-            },
-            {
-                  "name": "Snorkelling Start",
-                  "text": "Starting point for snorkelling trips on the reef at Apia.",
-                  "category": "family",
-                  "coords": [
-                        -171.757999,
-                        -13.825029
-                  ]
-            },
-            {
-                  "name": "Snorkel Rest Point",
-                  "text": "A rest point for snorkelers in the coastal zone of Apia.",
-                  "category": "family",
-                  "coords": [
-                        -171.754928,
-                        -13.823354
-                  ]
-            },
             {
                   "name": "Siva Afi Entertainment Centre",
                   "text": "Cultural centre showcasing traditional Samoan fire knife dancing (Siva Afi) in Apia.",
@@ -585,33 +126,6 @@ export const samoaCitiesV2: POI[] = [
                   "coords": [
                         -171.76586,
                         -13.830218
-                  ]
-            },
-            {
-                  "name": "Loto o Samasoni Reserve",
-                  "text": "A protected nature area for conserving local flora and fauna in Apia.",
-                  "category": "natural",
-                  "coords": [
-                        -171.758999,
-                        -13.840973
-                  ]
-            },
-            {
-                  "name": "Lelata Reserve",
-                  "text": "Nature reserve for preserving the natural environment in Apia.",
-                  "category": "natural",
-                  "coords": [
-                        -171.754685,
-                        -13.84585
-                  ]
-            },
-            {
-                  "name": "Mulinu'u Nature Reservce",
-                  "text": "A significant nature reserve located at Mulinu'u Point in Apia.",
-                  "category": "natural",
-                  "coords": [
-                        -171.778718,
-                        -13.817039
                   ]
             },
             {
@@ -624,33 +138,6 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samoa Conservation Society Moamoa Reserve",
-                  "text": "Conservation reserve managed by the Samoa Conservation Society near Apia.",
-                  "category": "natural",
-                  "coords": [
-                        -171.789719,
-                        -13.868982
-                  ]
-            },
-            {
-                  "name": "1927 Magiagi Hydro Scheme Building Ruins",
-                  "text": "Ruins of the 1927 Magiagi hydroelectric plant, now a museum in Apia.",
-                  "category": "museum",
-                  "coords": [
-                        -171.754185,
-                        -13.851024
-                  ]
-            },
-            {
-                  "name": "Mulinu'u Point Nature Reserve",
-                  "text": "Nature reserve at Mulinu'u Point on the coast near Apia.",
-                  "category": "natural",
-                  "coords": [
-                        -171.780881,
-                        -13.815707
-                  ]
-            },
-            {
                   "name": "Cathedral of the Immaculate Conception",
                   "text": "Catholic Cathedral of the Immaculate Conception in central Apia.",
                   "category": "landmark",
@@ -660,75 +147,12 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Apia Park",
-                  "text": "Main sports stadium in Apia, venue for the Pacific Games.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.751309,
-                        -13.836217
-                  ]
-            },
-            {
-                  "name": "Western Samoa 1962 Independence Memorial",
-                  "text": "Memorial marking Samoa's independence in 1962, located in Apia.",
-                  "category": "historical",
-                  "coords": [
-                        -171.777508,
-                        -13.818364
-                  ]
-            },
-            {
-                  "name": "Western Samoa Retired Nurses Association",
-                  "text": "A monument honoring the services of retired nurses in Apia.",
-                  "category": "historical",
-                  "coords": [
-                        -171.763398,
-                        -13.844919
-                  ]
-            },
-            {
-                  "name": "Madd Gallery",
-                  "text": "An art gallery showcasing works of local artists in Apia.",
-                  "category": "museum",
-                  "coords": [
-                        -171.763183,
-                        -13.842607
-                  ]
-            },
-            {
-                  "name": "Vaiala Beach Cottages",
-                  "text": "Offering direct beachside accommodation in Apia, Vaiala Beach Cottages allow guests to step right onto the Samoan sands. The coastal setting provides an excellent base for beach walks, sunbathing, and taking a dip in the nearby ocean. A warm and authentic atmosphere characterizes this local spot, perfect for soaking up island life. Booking ahead or arriving with plenty of time is suggested during peak holiday seasons.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.753534,
-                        -13.828899
-                  ]
-            },
-            {
                   "name": "SPACE | Samoa Performing Arts & Creative Excellence",
                   "text": "Performing arts venue for contemporary Samoan theatre and dance in Apia.",
                   "category": "cultural",
                   "coords": [
                         -171.775339,
                         -13.837887
-                  ]
-            },
-            {
-                  "name": "Taumeasina Beach Fales",
-                  "text": "Taumeasina Beach Fales presents traditional beach accommodations right on the coast of Apia. This setting immerses visitors in a culturally rich seaside environment, where the rhythm of the Samoan ocean dictates the day. Guests can look forward to relaxing near the water or enjoying the authentic local beach vibe. Exploring the immediate shoreline during the cooler morning hours is a wonderful way to start the day.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.747135,
-                        -13.832675
-                  ]
-            },
-            {
-                  "name": "Apia Samoa Temple",
-                  "text": "A significant temple of The Church of Jesus Christ of Latter-day Saints in Apia.",
-                  "category": "religious",
-                  "coords": [
-                        -171.783043,
-                        -13.838128
                   ]
             }
       ]
@@ -805,15 +229,6 @@ export const samoaCitiesV2: POI[] = [
                         -171.798883,
                         -13.847148
                   ]
-            },
-            {
-                  "name": "Apia Samoa Temple",
-                  "text": "Apia Samoa Temple ist eine Andachtsstätte in Vaitele. Es handelt sich um einen bekannten Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage.",
-                  "category": "religious",
-                  "coords": [
-                        -171.783043,
-                        -13.838128
-                  ]
             }
       ],
       "hu": [
@@ -842,15 +257,6 @@ export const samoaCitiesV2: POI[] = [
                   "coords": [
                         -171.798883,
                         -13.847148
-                  ]
-            },
-            {
-                  "name": "Apia Samoa Temple",
-                  "text": "Apia Samoa Temple egy istentiszteleti hely Vaitele területén. Ez az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza egyik nevezetes temploma.",
-                  "category": "religious",
-                  "coords": [
-                        -171.783043,
-                        -13.838128
                   ]
             }
       ],
@@ -881,15 +287,6 @@ export const samoaCitiesV2: POI[] = [
                         -171.798883,
                         -13.847148
                   ]
-            },
-            {
-                  "name": "Apia Samoa Temple",
-                  "text": "Apia Samoa Temple este un lăcaș de cult în Vaitele. Este un templu important al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă.",
-                  "category": "religious",
-                  "coords": [
-                        -171.783043,
-                        -13.838128
-                  ]
             }
       ],
       "en": [
@@ -918,15 +315,6 @@ export const samoaCitiesV2: POI[] = [
                   "coords": [
                         -171.798883,
                         -13.847148
-                  ]
-            },
-            {
-                  "name": "Apia Samoa Temple",
-                  "text": "Apia Samoa Temple is a place of worship located in Vaitele. It is a notable temple of the Church of Jesus Christ of Latter-day Saints.",
-                  "category": "religious",
-                  "coords": [
-                        -171.783043,
-                        -13.838128
                   ]
             }
       ]
@@ -1111,122 +499,10 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-faleula-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Samoa Fiafia Waterpark",
-                  "text": "Wasserpark in Faleula, Teil der Samoa Fiafia-Kette.",
-                  "category": "family",
-                  "coords": [
-                        -171.833131,
-                        -13.842624
-                  ]
-            },
-            {
-                  "name": "Tiama'a Rock Mound",
-                  "text": "Alter Steinhügel von kultureller Bedeutung in Faleula.",
-                  "category": "historical",
-                  "coords": [
-                        -171.809736,
-                        -13.81415
-                  ]
-            },
-            {
-                  "name": "Vaitele Fou Reserve",
-                  "text": "Naturschutzgebiet nahe Faleula (Teil des Vaitele Fou).",
-                  "category": "natural",
-                  "coords": [
-                        -171.818383,
-                        -13.82971
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Samoa Fiafia Waterpark",
-                  "text": "Vidámpark Faleulában, a Samoa Fiafia lánc része.",
-                  "category": "family",
-                  "coords": [
-                        -171.833131,
-                        -13.842624
-                  ]
-            },
-            {
-                  "name": "Tiama'a Rock Mound",
-                  "text": "Ősi kőhalom, kulturális jelentőséggel Faleulában.",
-                  "category": "historical",
-                  "coords": [
-                        -171.809736,
-                        -13.81415
-                  ]
-            },
-            {
-                  "name": "Vaitele Fou Reserve",
-                  "text": "Természetvédelmi terület Faleula közelében (a Vaitele Fou része).",
-                  "category": "natural",
-                  "coords": [
-                        -171.818383,
-                        -13.82971
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Samoa Fiafia Waterpark",
-                  "text": "Parc acvatic în Faleula, parte a lanțului Samoa Fiafia.",
-                  "category": "family",
-                  "coords": [
-                        -171.833131,
-                        -13.842624
-                  ]
-            },
-            {
-                  "name": "Tiama'a Rock Mound",
-                  "text": "Movilă de piatră antică cu semnificație culturală în Faleula.",
-                  "category": "historical",
-                  "coords": [
-                        -171.809736,
-                        -13.81415
-                  ]
-            },
-            {
-                  "name": "Vaitele Fou Reserve",
-                  "text": "Rezervație naturală lângă Faleula (parte din Vaitele Fou).",
-                  "category": "natural",
-                  "coords": [
-                        -171.818383,
-                        -13.82971
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Samoa Fiafia Waterpark",
-                  "text": "Waterpark in Faleula, part of the Samoa Fiafia chain.",
-                  "category": "family",
-                  "coords": [
-                        -171.833131,
-                        -13.842624
-                  ]
-            },
-            {
-                  "name": "Tiama'a Rock Mound",
-                  "text": "Ancient rock mound of cultural significance in Faleula.",
-                  "category": "historical",
-                  "coords": [
-                        -171.809736,
-                        -13.81415
-                  ]
-            },
-            {
-                  "name": "Vaitele Fou Reserve",
-                  "text": "Nature reserve near Faleula (part of Vaitele Fou reserve).",
-                  "category": "natural",
-                  "coords": [
-                        -171.818383,
-                        -13.82971
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "WS",
     type: "village",
@@ -1410,102 +686,12 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-vaiusu-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Siva Afi Entertainment Centre",
-                  "text": "Kulturzentrum für Siva-Afi-Aufführungen in Vaiusu.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.76586,
-                        -13.830218
-                  ]
-            },
-            {
-                  "name": "Tiama'a Rock Mound",
-                  "text": "Steinhügel nahe Vaiusu, ähnlich dem Tiama'a-Hügel in Faleula.",
-                  "category": "historical",
-                  "coords": [
-                        -171.809736,
-                        -13.81415
-                  ]
-            },
-            {
-                  "name": "Mulinu'u Nature Reservce",
-                  "text": "Naturschutzgebiet am Mulinu'u nahe Vaiusu.",
-                  "category": "natural",
-                  "coords": [
-                        -171.778718,
-                        -13.817039
-                  ]
-            },
-            {
-                  "name": "Vaitele Fou Reserve",
-                  "text": "Naturschutzgebiet in Vaiusu, Teil des Vaitele-Fou-Reservatsystems.",
-                  "category": "natural",
-                  "coords": [
-                        -171.818383,
-                        -13.82971
-                  ]
-            },
-            {
-                  "name": "Faleata Nature Reserve",
-                  "text": "Das Faleata Nature Reserve ist ein ausgewiesenes Naturschutzgebiet in Vaiusu.",
-                  "category": "natural",
-                  "coords": [
-                        -171.798883,
-                        -13.847148
-                  ]
-            },
-            {
-                  "name": "Lalovaea Sisifos Nature Reserve",
-                  "text": "Küsten-Naturschutzgebiet nahe Vaiusu, Teil von Lalovaea.",
-                  "category": "natural",
-                  "coords": [
-                        -171.768886,
-                        -13.844833
-                  ]
-            },
-            {
                   "name": "Samoa Conservation Society Moamoa Reserve",
                   "text": "Schutzgebiet der Samoa Conservation Society nahe Vaiusu.",
                   "category": "natural",
                   "coords": [
                         -171.789719,
                         -13.868982
-                  ]
-            },
-            {
-                  "name": "Mulinu'u Point Nature Reserve",
-                  "text": "Naturschutzgebiet am Mulinu'u Point nahe Vaiusu.",
-                  "category": "natural",
-                  "coords": [
-                        -171.780881,
-                        -13.815707
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "Kirche der Unbefleckten Empfängnis in Vaiusu.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.766451,
-                        -13.832191
-                  ]
-            },
-            {
-                  "name": "Western Samoa 1962 Independence Memorial",
-                  "text": "Denkmal zur Unabhängigkeit Samoas von 1962 in Vaiusu.",
-                  "category": "historical",
-                  "coords": [
-                        -171.777508,
-                        -13.818364
-                  ]
-            },
-            {
-                  "name": "SPACE | Samoa Performing Arts & Creative Excellence",
-                  "text": "Kulturzentrum für samoanische darstellende Kunst und Kreativität in Vaiusu.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.775339,
-                        -13.837887
                   ]
             },
             {
@@ -1520,102 +706,12 @@ export const samoaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Siva Afi Entertainment Centre",
-                  "text": "Siva Afi előadások kulturális központja Vaiusuban.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.76586,
-                        -13.830218
-                  ]
-            },
-            {
-                  "name": "Tiama'a Rock Mound",
-                  "text": "Kőhalom Vaiusu közelében, hasonló a faleulai Tiama'a halomhoz.",
-                  "category": "historical",
-                  "coords": [
-                        -171.809736,
-                        -13.81415
-                  ]
-            },
-            {
-                  "name": "Mulinu'u Nature Reservce",
-                  "text": "Természetvédelmi terület a Mulinu'u-nál Vaiusu közelében.",
-                  "category": "natural",
-                  "coords": [
-                        -171.778718,
-                        -13.817039
-                  ]
-            },
-            {
-                  "name": "Vaitele Fou Reserve",
-                  "text": "Természetvédelmi terület Vaiusuban, a Vaitele Fou-rendszer része.",
-                  "category": "natural",
-                  "coords": [
-                        -171.818383,
-                        -13.82971
-                  ]
-            },
-            {
-                  "name": "Faleata Nature Reserve",
-                  "text": "A Faleata Nature Reserve egy természetvédelmi terület Vaiusu városában.",
-                  "category": "natural",
-                  "coords": [
-                        -171.798883,
-                        -13.847148
-                  ]
-            },
-            {
-                  "name": "Lalovaea Sisifos Nature Reserve",
-                  "text": "Parti természetvédelmi terület Vaiusu közelében, a Lalovaea része.",
-                  "category": "natural",
-                  "coords": [
-                        -171.768886,
-                        -13.844833
-                  ]
-            },
-            {
                   "name": "Samoa Conservation Society Moamoa Reserve",
                   "text": "A Samoa Conservation Society védett területe Vaiusu közelében.",
                   "category": "natural",
                   "coords": [
                         -171.789719,
                         -13.868982
-                  ]
-            },
-            {
-                  "name": "Mulinu'u Point Nature Reserve",
-                  "text": "Természetvédelmi terület a Mulinu'u-foknál Vaiusu közelében.",
-                  "category": "natural",
-                  "coords": [
-                        -171.780881,
-                        -13.815707
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "Szeplőtelen Fogantatás temploma Vaiusuban.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.766451,
-                        -13.832191
-                  ]
-            },
-            {
-                  "name": "Western Samoa 1962 Independence Memorial",
-                  "text": "Szamoa 1962-es függetlenségének emlékműve Vaiusuban.",
-                  "category": "historical",
-                  "coords": [
-                        -171.777508,
-                        -13.818364
-                  ]
-            },
-            {
-                  "name": "SPACE | Samoa Performing Arts & Creative Excellence",
-                  "text": "Szamoai előadó-művészeti és kreatív központ Vaiusuban.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.775339,
-                        -13.837887
                   ]
             },
             {
@@ -1630,102 +726,12 @@ export const samoaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Siva Afi Entertainment Centre",
-                  "text": "Centru cultural pentru spectacole Siva Afi în Vaiusu.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.76586,
-                        -13.830218
-                  ]
-            },
-            {
-                  "name": "Tiama'a Rock Mound",
-                  "text": "Movilă de piatră lângă Vaiusu, similară movilei Tiama'a din Faleula.",
-                  "category": "historical",
-                  "coords": [
-                        -171.809736,
-                        -13.81415
-                  ]
-            },
-            {
-                  "name": "Mulinu'u Nature Reservce",
-                  "text": "Rezervație naturală la Mulinu'u lângă Vaiusu.",
-                  "category": "natural",
-                  "coords": [
-                        -171.778718,
-                        -13.817039
-                  ]
-            },
-            {
-                  "name": "Vaitele Fou Reserve",
-                  "text": "Rezervație naturală în Vaiusu, parte a sistemului de rezervații Vaitele Fou.",
-                  "category": "natural",
-                  "coords": [
-                        -171.818383,
-                        -13.82971
-                  ]
-            },
-            {
-                  "name": "Faleata Nature Reserve",
-                  "text": "Faleata Nature Reserve este o rezervație naturală desemnată din Vaiusu.",
-                  "category": "natural",
-                  "coords": [
-                        -171.798883,
-                        -13.847148
-                  ]
-            },
-            {
-                  "name": "Lalovaea Sisifos Nature Reserve",
-                  "text": "Rezervație naturală de coastă lângă Vaiusu, parte din Lalovaea.",
-                  "category": "natural",
-                  "coords": [
-                        -171.768886,
-                        -13.844833
-                  ]
-            },
-            {
                   "name": "Samoa Conservation Society Moamoa Reserve",
                   "text": "Rezervație gestionată de Samoa Conservation Society lângă Vaiusu.",
                   "category": "natural",
                   "coords": [
                         -171.789719,
                         -13.868982
-                  ]
-            },
-            {
-                  "name": "Mulinu'u Point Nature Reserve",
-                  "text": "Rezervație naturală la Mulinu'u Point lângă Vaiusu.",
-                  "category": "natural",
-                  "coords": [
-                        -171.780881,
-                        -13.815707
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "Biserica Imaculatei Concepții din Vaiusu.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.766451,
-                        -13.832191
-                  ]
-            },
-            {
-                  "name": "Western Samoa 1962 Independence Memorial",
-                  "text": "Monumentul Independenței Samoei din 1962 în Vaiusu.",
-                  "category": "historical",
-                  "coords": [
-                        -171.777508,
-                        -13.818364
-                  ]
-            },
-            {
-                  "name": "SPACE | Samoa Performing Arts & Creative Excellence",
-                  "text": "Centru cultural pentru artele spectacolului și creativitatea samoane în Vaiusu.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.775339,
-                        -13.837887
                   ]
             },
             {
@@ -1740,102 +746,12 @@ export const samoaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Siva Afi Entertainment Centre",
-                  "text": "Cultural centre for Siva Afi performances in Vaiusu.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.76586,
-                        -13.830218
-                  ]
-            },
-            {
-                  "name": "Tiama'a Rock Mound",
-                  "text": "Rock mound near Vaiusu, similar to the Tiama'a mound in Faleula.",
-                  "category": "historical",
-                  "coords": [
-                        -171.809736,
-                        -13.81415
-                  ]
-            },
-            {
-                  "name": "Mulinu'u Nature Reservce",
-                  "text": "Nature reserve at Mulinu'u near Vaiusu.",
-                  "category": "natural",
-                  "coords": [
-                        -171.778718,
-                        -13.817039
-                  ]
-            },
-            {
-                  "name": "Vaitele Fou Reserve",
-                  "text": "Nature reserve in Vaiusu, part of the Vaitele Fou reserve system.",
-                  "category": "natural",
-                  "coords": [
-                        -171.818383,
-                        -13.82971
-                  ]
-            },
-            {
-                  "name": "Faleata Nature Reserve",
-                  "text": "Faleata Nature Reserve is a designated environmental protection area located in Vaiusu.",
-                  "category": "natural",
-                  "coords": [
-                        -171.798883,
-                        -13.847148
-                  ]
-            },
-            {
-                  "name": "Lalovaea Sisifos Nature Reserve",
-                  "text": "Coastal nature reserve near Vaiusu, part of Lalovaea.",
-                  "category": "natural",
-                  "coords": [
-                        -171.768886,
-                        -13.844833
-                  ]
-            },
-            {
                   "name": "Samoa Conservation Society Moamoa Reserve",
                   "text": "Conservation reserve near Vaiusu, managed by Samoa Conservation Society.",
                   "category": "natural",
                   "coords": [
                         -171.789719,
                         -13.868982
-                  ]
-            },
-            {
-                  "name": "Mulinu'u Point Nature Reserve",
-                  "text": "Nature reserve at Mulinu'u Point near Vaiusu.",
-                  "category": "natural",
-                  "coords": [
-                        -171.780881,
-                        -13.815707
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "Church of the Immaculate Conception in Vaiusu.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.766451,
-                        -13.832191
-                  ]
-            },
-            {
-                  "name": "Western Samoa 1962 Independence Memorial",
-                  "text": "Memorial marking Samoa's independence in 1962 in Vaiusu.",
-                  "category": "historical",
-                  "coords": [
-                        -171.777508,
-                        -13.818364
-                  ]
-            },
-            {
-                  "name": "SPACE | Samoa Performing Arts & Creative Excellence",
-                  "text": "Hub for Samoan performing arts and creative expression in Vaiusu.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.775339,
-                        -13.837887
                   ]
             },
             {
@@ -2200,50 +1116,10 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-falefa-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Sauano Village",
-                  "text": "Traditionelles samoanisches Küstendorf in Falefa.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.562096,
-                        -13.910671
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Sauano Village",
-                  "text": "Hagyományos szamoai tengerparti falu Falefában.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.562096,
-                        -13.910671
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Sauano Village",
-                  "text": "Sat tradițional samoan de coastă în Falefa.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.562096,
-                        -13.910671
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Sauano Village",
-                  "text": "Traditional Samoan coastal village in Falefa.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.562096,
-                        -13.910671
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "WS",
     type: "village",
@@ -2290,50 +1166,10 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-luatuanuu-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Galusina Village Resort",
-                  "text": "Resort mit Ozeanblick und Erholungsmöglichkeiten in Luatuanuu.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.646521,
-                        -13.876439
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Galusina Village Resort",
-                  "text": "Óceánra néző üdülőhely pihenési lehetőségekkel Luatuanuuban.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.646521,
-                        -13.876439
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Galusina Village Resort",
-                  "text": "Stațiune cu vedere la ocean și facilități de relaxare în Luatuanuu.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.646521,
-                        -13.876439
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Galusina Village Resort",
-                  "text": "Resort with ocean views and relaxation facilities in Luatuanuu.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.646521,
-                        -13.876439
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "WS",
     type: "village",
@@ -2560,50 +1396,10 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-safotulafai-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Ioane Viliamu",
-                  "text": "Historische Stätte, die einem lokalen Häuptling oder Missionar gewidmet ist, in Safotulafai.",
-                  "category": "historical",
-                  "coords": [
-                        -172.193866,
-                        -13.689408
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Ioane Viliamu",
-                  "text": "Helyi főnöknek vagy misszionáriusnak szentelt történelmi helyszín Safotulafaiban.",
-                  "category": "historical",
-                  "coords": [
-                        -172.193866,
-                        -13.689408
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Ioane Viliamu",
-                  "text": "Sit istoric dedicat unui șef local sau misionar în Safotulafai.",
-                  "category": "historical",
-                  "coords": [
-                        -172.193866,
-                        -13.689408
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ioane Viliamu",
-                  "text": "Historical site dedicated to a local chief or missionary in Safotulafai.",
-                  "category": "historical",
-                  "coords": [
-                        -172.193866,
-                        -13.689408
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "WS",
     type: "village",
@@ -3352,50 +2148,10 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-vaisala-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Mauga Pu'ega",
-                  "text": "Berg Pu'ega in der Gegend von Vaisala.",
-                  "category": "natural",
-                  "coords": [
-                        -172.713405,
-                        -13.543879
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mauga Pu'ega",
-                  "text": "Pu'ega hegy a Vaisala térségben.",
-                  "category": "natural",
-                  "coords": [
-                        -172.713405,
-                        -13.543879
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Mauga Pu'ega",
-                  "text": "Muntele Pu'ega în zona Vaisala.",
-                  "category": "natural",
-                  "coords": [
-                        -172.713405,
-                        -13.543879
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mauga Pu'ega",
-                  "text": "Mountain Pu'ega in the Vaisala area.",
-                  "category": "natural",
-                  "coords": [
-                        -172.713405,
-                        -13.543879
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "WS",
     type: "village",
@@ -3756,7 +2512,52 @@ export const samoaCitiesV2: POI[] = [
     image: "/poi-images/samoa-tiavea-cities-v2.webp",
   },
   {
-    id: "samoa-amaile-cities-v2", "sights": {"de": [{"name": "Namu'a Island Beach", "text": "Der über die Küstenregion von Amaile erreichbare Namu'a Island Beach bietet eine beeindruckende Inselauszeit. Die Atmosphäre hier ist bemerkenswert ruhig und lädt die Gäste dazu ein, einfach die Meeresluft einzuatmen und den Wellen zu lauschen. Wer hier Zeit verbringt, erkundet meist die Uferlinie und badet im klaren samoanischen Wasser. Sonnencreme und ausreichend Trinkwasser sind unverzichtbare Begleiter für dieses Küstenabenteuer.", "category": "recreational", "coords": [-171.416812, -14.020016]}, {"name": "Lalomanu Beach", "text": "Der Lalomanu Beach bringt das klassische tropische Stranderlebnis nach Amaile. Mit seiner unverfälschten Küstenschönheit wirkt die Gegend oft lebhaft und doch zutiefst entspannend, was Einheimische und internationale Reisende gleichermaßen anzieht. Die Aktivitäten drehen sich ganz natürlich um das Meer, vom Schwimmen bis hin zu ausgedehnten Spaziergängen im Sand. Es wird wärmstens empfohlen, bis zum Sonnenuntergang zu bleiben, um das dramatische Farbenspiel am Himmel über dem Wasser zu beobachten.", "category": "recreational", "coords": [-171.450516, -14.045928]}], "hu": [{"name": "Namu'a Island Beach", "text": "Az Amaile partvidékéről megközelíthető Namu'a Island Beach lenyűgöző szigeti menedéket kínál. Az itteni hangulat figyelemre méltóan nyugodt, hívogatja a vendégeket, hogy egyszerűen beszívják az óceáni levegőt és hallgassák a hullámokat. Az itt eltöltött idő általában a tengerpart felfedezését és a tiszta szamoai vizekben való fürdőzést jelenti. A naptej és a bőséges ivóvíz elengedhetetlen kísérői ennek a tengerparti kalandnak.", "category": "recreational", "coords": [-171.416812, -14.020016]}, {"name": "Lalomanu Beach", "text": "A Lalomanu Beach elhozza a hamisítatlan trópusi tengerparti élményt Amaile-ba. Klasszikus parti szépségével a terület gyakran vibráló, mégis mélyen pihentető, amely a helyieket és a nemzetközi utazókat egyaránt vonzza. A tevékenységek természetesen a tenger körül forognak, az úszástól a homokos parton tett kényelmes sétákig. Erősen ajánlott naplementéig maradni, hogy tanúi lehessünk az égbolt drámai színváltozásainak a víz felett.", "category": "recreational", "coords": [-171.450516, -14.045928]}], "ro": [{"name": "Namu'a Island Beach", "text": "Accesibilă prin zona de coastă din Amaile, plaja insulei Namu'a oferă o evadare insulară remarcabilă. Atmosfera de aici este remarcabil de senină, invitând oaspeții pur și simplu să respire aerul oceanului și să asculte valurile. Timpul petrecut aici implică adesea explorarea țărmului și scăldatul în apele limpezi din Samoa. Crema de protecție solară și multă apă potabilă sunt însoțitori esențiali pentru această aventură pe coastă.", "category": "recreational", "coords": [-171.416812, -14.020016]}, {"name": "Lalomanu Beach", "text": "Lalomanu Beach aduce o experiență tropicală prin excelență pe plajă în Amaile. Cu frumusețea sa clasică de coastă, zona se simte adesea vibrantă, dar profund relaxantă, atrăgând atât localnicii, cât și călătorii internaționali. Activitățile gravitează în mod natural în jurul mării, de la înot la plimbări liniștite pe nisip. Este foarte recomandat să stați până la apus pentru a asista la schimbările dramatice de culoare ale cerului deasupra apei.", "category": "recreational", "coords": [-171.450516, -14.045928]}], "en": [{"name": "Namu'a Island Beach", "text": "Accessible via the coastal area of Amaile, Namu'a Island Beach offers a striking island escape. The atmosphere here is remarkably serene, inviting guests to simply breathe in the ocean air and listen to the waves. Spending time here often involves exploring the shoreline and bathing in the clear Samoan waters. Sunscreen and plenty of drinking water are essential companions for this coastal adventure.", "category": "recreational", "coords": [-171.416812, -14.020016]}, {"name": "Lalomanu Beach", "text": "Lalomanu Beach brings a quintessential tropical beach experience to Amaile. With its classic coastal beauty, the area often feels vibrant yet deeply relaxing, appealing to both locals and international travelers. Activities naturally revolve around the sea, from swimming to enjoying leisurely walks along the sand. It is highly recommended to stay until sunset to witness the sky's dramatic color changes over the water.", "category": "recreational", "coords": [-171.450516, -14.045928]}]},
+    id: "samoa-amaile-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lalomanu Beach",
+                  "text": "Der Lalomanu Beach bringt das klassische tropische Stranderlebnis nach Amaile. Mit seiner unverfälschten Küstenschönheit wirkt die Gegend oft lebhaft und doch zutiefst entspannend, was Einheimische und internationale Reisende gleichermaßen anzieht. Die Aktivitäten drehen sich ganz natürlich um das Meer, vom Schwimmen bis hin zu ausgedehnten Spaziergängen im Sand. Es wird wärmstens empfohlen, bis zum Sonnenuntergang zu bleiben, um das dramatische Farbenspiel am Himmel über dem Wasser zu beobachten.",
+                  "category": "recreational",
+                  "coords": [
+                        -171.450516,
+                        -14.045928
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lalomanu Beach",
+                  "text": "A Lalomanu Beach elhozza a hamisítatlan trópusi tengerparti élményt Amaile-ba. Klasszikus parti szépségével a terület gyakran vibráló, mégis mélyen pihentető, amely a helyieket és a nemzetközi utazókat egyaránt vonzza. A tevékenységek természetesen a tenger körül forognak, az úszástól a homokos parton tett kényelmes sétákig. Erősen ajánlott naplementéig maradni, hogy tanúi lehessünk az égbolt drámai színváltozásainak a víz felett.",
+                  "category": "recreational",
+                  "coords": [
+                        -171.450516,
+                        -14.045928
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lalomanu Beach",
+                  "text": "Lalomanu Beach aduce o experiență tropicală prin excelență pe plajă în Amaile. Cu frumusețea sa clasică de coastă, zona se simte adesea vibrantă, dar profund relaxantă, atrăgând atât localnicii, cât și călătorii internaționali. Activitățile gravitează în mod natural în jurul mării, de la înot la plimbări liniștite pe nisip. Este foarte recomandat să stați până la apus pentru a asista la schimbările dramatice de culoare ale cerului deasupra apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -171.450516,
+                        -14.045928
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lalomanu Beach",
+                  "text": "Lalomanu Beach brings a quintessential tropical beach experience to Amaile. With its classic coastal beauty, the area often feels vibrant yet deeply relaxing, appealing to both locals and international travelers. Activities naturally revolve around the sea, from swimming to enjoying leisurely walks along the sand. It is highly recommended to stay until sunset to witness the sky's dramatic color changes over the water.",
+                  "category": "recreational",
+                  "coords": [
+                        -171.450516,
+                        -14.045928
+                  ]
+            }
+      ]
+},
     parent: "WS",
     type: "village",
     name: { de: "Amaile", hu: "Amaile", ro: "Amaile", en: "Amaile" },
@@ -3858,15 +2659,6 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musumusu Village",
-                  "text": "Malerisches Küstendorf in Taelefaga.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.558717,
-                        -13.9301
-                  ]
-            },
-            {
                   "name": "Salimu Fagaloa Village",
                   "text": "Dorf an der Fagaloa-Bucht in Taelefaga.",
                   "category": "landmark",
@@ -3884,15 +2676,6 @@ export const samoaCitiesV2: POI[] = [
                   "coords": [
                         -171.571083,
                         -13.944244
-                  ]
-            },
-            {
-                  "name": "Musumusu Village",
-                  "text": "Festői tengerparti falu Taelefagában.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.558717,
-                        -13.9301
                   ]
             },
             {
@@ -3916,15 +2699,6 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musumusu Village",
-                  "text": "Sat pitoresc de coastă în Taelefaga.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.558717,
-                        -13.9301
-                  ]
-            },
-            {
                   "name": "Salimu Fagaloa Village",
                   "text": "Sat pe Golful Fagaloa în Taelefaga.",
                   "category": "landmark",
@@ -3942,15 +2716,6 @@ export const samoaCitiesV2: POI[] = [
                   "coords": [
                         -171.571083,
                         -13.944244
-                  ]
-            },
-            {
-                  "name": "Musumusu Village",
-                  "text": "Scenic coastal village in Taelefaga.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.558717,
-                        -13.9301
                   ]
             },
             {
@@ -4296,7 +3061,12 @@ export const samoaCitiesV2: POI[] = [
     image: "/poi-images/samoa-saleapaga-cities-v2.webp",
   },
   {
-    id: "samoa-matatufu-cities-v2", "sights": {"de": [{"name": "Saleapaga Beach", "text": "Der Saleapaga Beach präsentiert einen einladenden Küstenabschnitt in Matatufu. Die Umgebung strahlt oft eine ruhige, authentisch samoanische Energie aus, die Besuchern hilft, sofort abzuschalten. Wer hierher kommt, darf sich auf sonnenverwöhnten Sand, gemütliche Spaziergänge und einladendes Wasser zum Schwimmen freuen. Es ist ein fantastischer Ort, um sich einfach zurückzulehnen und das Meer zu beobachten, besonders während der warmen Tagesstunden.", "category": "recreational", "coords": [-171.485448, -14.041052]}, {"name": "Fa'afa beach", "text": "Innerhalb von Matatufu gelegen, ist der Fa'afa Beach ein angenehmer und erholsamer Ort an der Küste. Er zeichnet sich meist durch eine ruhige Atmosphäre aus und eignet sich hervorragend als sanfter Rückzugsort abseits geschäftigerer Gebiete. Strandbesucher können ihre Zeit mit Spaziergängen am Ufer verbringen, sich im Wasser abkühlen oder einfach die Inselsonne genießen. Wer ein Handtuch und etwas Sonnenschutz mitbringt, wird einen überaus komfortablen Strandausflug erleben.", "category": "recreational", "coords": [-171.506267, -14.04112]}], "hu": [{"name": "Saleapaga Beach", "text": "A Saleapaga Beach egy barátságos partszakaszt mutat be Matatufuban. A környék gyakran nyugodt, autentikus szamoai energiát hordoz, amely segít a látogatóknak az azonnali ellazulásban. Az ide látogatók napfényes homokra, kényelmes sétákra és úszásra csábító vizekre számíthatnak. Fantasztikus hely arra, hogy egyszerűen csak hátradőljünk és nézzük az óceánt, különösen a nap melegebb óráiban.", "category": "recreational", "coords": [-171.485448, -14.041052]}, {"name": "Fa'afa beach", "text": "A Matatufu területén található Fa'afa Beach egy kellemes és pihentető hely a part mentén. Általában csendes légkörrel büszkélkedhet, ami kiválóan alkalmassá teszi egy csendes elvonulásra a forgalmasabb területektől távol. A strandolók az időt a parton sétálva, a vízben hűsölve, vagy egyszerűen csak a szigeti napfényben fürödve tölthetik el. Egy törölköző és némi árnyékoló biztosítja a rendkívül kényelmes tengerparti kikapcsolódást.", "category": "recreational", "coords": [-171.506267, -14.04112]}], "ro": [{"name": "Saleapaga Beach", "text": "Saleapaga Beach prezintă o porțiune de coastă primitoare în Matatufu. Împrejurimile poartă adesea o energie samoană calmă și autentică, care îi ajută pe vizitatori să se relaxeze instantaneu. Cei care vizitează se pot aștepta să se bucure de nisipul scăldat de soare, de plimbări pe îndelete și de ape primitoare pentru înot. Este un loc fantastic pentru a te așeza pur și simplu și a privi oceanul, mai ales în orele calde ale zilei.", "category": "recreational", "coords": [-171.485448, -14.041052]}, {"name": "Fa'afa beach", "text": "Situată în Matatufu, plaja Fa'afa este un loc plăcut și relaxant de-a lungul coastei. Aceasta se mândrește, în general, cu o atmosferă liniștită, ceea ce o face foarte potrivită pentru o retragere delicată, departe de zonele mai aglomerate. Iubitorii de plajă își pot petrece timpul plimbându-se pe țărm, răcorindu-se în apă sau pur și simplu bucurându-se de soarele insulei. Aducerea unui prosop și a unei protecții solare va asigura o ieșire la plajă foarte confortabilă.", "category": "recreational", "coords": [-171.506267, -14.04112]}], "en": [{"name": "Saleapaga Beach", "text": "Saleapaga Beach presents a welcoming coastal stretch in Matatufu. The surroundings often carry a calm, authentic Samoan energy that helps visitors instantly unwind. Those visiting can expect to enjoy sun-drenched sands, leisurely walks, and inviting waters for swimming. It is a fantastic spot to simply sit back and watch the ocean, especially during the warm hours of the day.", "category": "recreational", "coords": [-171.485448, -14.041052]}, {"name": "Fa'afa beach", "text": "Situated within Matatufu, Fa'afa Beach is a pleasant and relaxing spot along the coast. It generally boasts a quiet atmosphere, making it well-suited for a gentle retreat away from busier areas. Beachgoers can spend their time walking the shoreline, cooling off in the water, or simply enjoying the island sun. Bringing a towel and some shade will ensure a highly comfortable beach outing.", "category": "recreational", "coords": [-171.506267, -14.04112]}]},
+    id: "samoa-matatufu-cities-v2", "sights": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
+},
     parent: "WS",
     type: "village",
     name: { de: "Matatufu", hu: "Matatufu", ro: "Matatufu", en: "Matatufu" },
@@ -4540,15 +3310,6 @@ export const samoaCitiesV2: POI[] = [
                         -171.558717,
                         -13.9301
                   ]
-            },
-            {
-                  "name": "Salimu Fagaloa Village",
-                  "text": "Küstendorf Salimu Fagaloa in Musumusu.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.560909,
-                        -13.932317
-                  ]
             }
       ],
       "hu": [
@@ -4568,15 +3329,6 @@ export const samoaCitiesV2: POI[] = [
                   "coords": [
                         -171.558717,
                         -13.9301
-                  ]
-            },
-            {
-                  "name": "Salimu Fagaloa Village",
-                  "text": "Salimu Fagaloa tengerparti falu Musumusuban.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.560909,
-                        -13.932317
                   ]
             }
       ],
@@ -4598,15 +3350,6 @@ export const samoaCitiesV2: POI[] = [
                         -171.558717,
                         -13.9301
                   ]
-            },
-            {
-                  "name": "Salimu Fagaloa Village",
-                  "text": "Satul de coastă Salimu Fagaloa în Musumusu.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.560909,
-                        -13.932317
-                  ]
             }
       ],
       "en": [
@@ -4626,15 +3369,6 @@ export const samoaCitiesV2: POI[] = [
                   "coords": [
                         -171.558717,
                         -13.9301
-                  ]
-            },
-            {
-                  "name": "Salimu Fagaloa Village",
-                  "text": "Coastal village Salimu Fagaloa in Musumusu.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.560909,
-                        -13.932317
                   ]
             }
       ]
@@ -4774,50 +3508,10 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-faleula-tai-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Tiama'a Rock Mound",
-                  "text": "Historischer Felshügel von kultureller Bedeutung in Faleula Tai.",
-                  "category": "historical",
-                  "coords": [
-                        -171.809736,
-                        -13.81415
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Tiama'a Rock Mound",
-                  "text": "Kulturális jelentőségű történelmi kőhalom Faleula Taiban.",
-                  "category": "historical",
-                  "coords": [
-                        -171.809736,
-                        -13.81415
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Tiama'a Rock Mound",
-                  "text": "Movilă de piatră istorică cu semnificație culturală în Faleula Tai.",
-                  "category": "historical",
-                  "coords": [
-                        -171.809736,
-                        -13.81415
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Tiama'a Rock Mound",
-                  "text": "Historical rock mound of cultural significance in Faleula Tai.",
-                  "category": "historical",
-                  "coords": [
-                        -171.809736,
-                        -13.81415
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "WS",
     type: "village",
@@ -4884,24 +3578,6 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vaitele Fou Reserve",
-                  "text": "Waldreservat in Vausu Tai.",
-                  "category": "natural",
-                  "coords": [
-                        -171.818383,
-                        -13.82971
-                  ]
-            },
-            {
-                  "name": "Faleata Nature Reserve",
-                  "text": "Naturschutzgebiet in Vausu Tai.",
-                  "category": "natural",
-                  "coords": [
-                        -171.798883,
-                        -13.847148
-                  ]
-            },
-            {
                   "name": "Mulinu'u Point Nature Reserve",
                   "text": "Naturschutzgebiet an der Landspitze Mulinu'u in Vausu Tai.",
                   "category": "natural",
@@ -4917,24 +3593,6 @@ export const samoaCitiesV2: POI[] = [
                   "coords": [
                         -171.777508,
                         -13.818364
-                  ]
-            },
-            {
-                  "name": "SPACE | Samoa Performing Arts & Creative Excellence",
-                  "text": "Zentrum für samoanische darstellende Kunst in Vausu Tai.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.775339,
-                        -13.837887
-                  ]
-            },
-            {
-                  "name": "Apia Samoa Temple",
-                  "text": "Apia Samoa Temple ist eine Andachtsstätte in Vaiusu Tai. Es handelt sich um einen bekannten Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage.",
-                  "category": "religious",
-                  "coords": [
-                        -171.783043,
-                        -13.838128
                   ]
             }
       ],
@@ -4958,24 +3616,6 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vaitele Fou Reserve",
-                  "text": "Erdőrezervátum Vausu Taiban.",
-                  "category": "natural",
-                  "coords": [
-                        -171.818383,
-                        -13.82971
-                  ]
-            },
-            {
-                  "name": "Faleata Nature Reserve",
-                  "text": "Természetvédelmi terület Vausu Taiban.",
-                  "category": "natural",
-                  "coords": [
-                        -171.798883,
-                        -13.847148
-                  ]
-            },
-            {
                   "name": "Mulinu'u Point Nature Reserve",
                   "text": "Mulinu'u-foknál lévő természetvédelmi terület Vausu Taiban.",
                   "category": "natural",
@@ -4991,24 +3631,6 @@ export const samoaCitiesV2: POI[] = [
                   "coords": [
                         -171.777508,
                         -13.818364
-                  ]
-            },
-            {
-                  "name": "SPACE | Samoa Performing Arts & Creative Excellence",
-                  "text": "Szamoai előadó-művészeti központ Vausu Taiban.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.775339,
-                        -13.837887
-                  ]
-            },
-            {
-                  "name": "Apia Samoa Temple",
-                  "text": "Apia Samoa Temple egy istentiszteleti hely Vaiusu Tai területén. Ez az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza egyik nevezetes temploma.",
-                  "category": "religious",
-                  "coords": [
-                        -171.783043,
-                        -13.838128
                   ]
             }
       ],
@@ -5032,24 +3654,6 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vaitele Fou Reserve",
-                  "text": "Rezervație forestieră în Vausu Tai.",
-                  "category": "natural",
-                  "coords": [
-                        -171.818383,
-                        -13.82971
-                  ]
-            },
-            {
-                  "name": "Faleata Nature Reserve",
-                  "text": "Rezervație naturală în Vausu Tai.",
-                  "category": "natural",
-                  "coords": [
-                        -171.798883,
-                        -13.847148
-                  ]
-            },
-            {
                   "name": "Mulinu'u Point Nature Reserve",
                   "text": "Rezervație naturală la Capul Mulinu'u în Vausu Tai.",
                   "category": "natural",
@@ -5065,24 +3669,6 @@ export const samoaCitiesV2: POI[] = [
                   "coords": [
                         -171.777508,
                         -13.818364
-                  ]
-            },
-            {
-                  "name": "SPACE | Samoa Performing Arts & Creative Excellence",
-                  "text": "Centru pentru artele spectacolului samoane în Vausu Tai.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.775339,
-                        -13.837887
-                  ]
-            },
-            {
-                  "name": "Apia Samoa Temple",
-                  "text": "Apia Samoa Temple este un lăcaș de cult în Vaiusu Tai. Este un templu important al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă.",
-                  "category": "religious",
-                  "coords": [
-                        -171.783043,
-                        -13.838128
                   ]
             }
       ],
@@ -5106,24 +3692,6 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vaitele Fou Reserve",
-                  "text": "Forest reserve in Vausu Tai.",
-                  "category": "natural",
-                  "coords": [
-                        -171.818383,
-                        -13.82971
-                  ]
-            },
-            {
-                  "name": "Faleata Nature Reserve",
-                  "text": "Nature reserve in Vausu Tai.",
-                  "category": "natural",
-                  "coords": [
-                        -171.798883,
-                        -13.847148
-                  ]
-            },
-            {
                   "name": "Mulinu'u Point Nature Reserve",
                   "text": "Nature reserve at Mulinu'u Point in Vausu Tai.",
                   "category": "natural",
@@ -5139,24 +3707,6 @@ export const samoaCitiesV2: POI[] = [
                   "coords": [
                         -171.777508,
                         -13.818364
-                  ]
-            },
-            {
-                  "name": "SPACE | Samoa Performing Arts & Creative Excellence",
-                  "text": "Center for Samoan performing arts in Vausu Tai.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.775339,
-                        -13.837887
-                  ]
-            },
-            {
-                  "name": "Apia Samoa Temple",
-                  "text": "Apia Samoa Temple is a place of worship located in Vaiusu Tai. It is a notable temple of the Church of Jesus Christ of Latter-day Saints.",
-                  "category": "religious",
-                  "coords": [
-                        -171.783043,
-                        -13.838128
                   ]
             }
       ]
@@ -5397,33 +3947,6 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Snorkelling Start",
-                  "text": "Einstiegspunkt zum Schnorcheln in Lepua.",
-                  "category": "family",
-                  "coords": [
-                        -171.757999,
-                        -13.825029
-                  ]
-            },
-            {
-                  "name": "Snorkel Rest Point",
-                  "text": "Rastpunkt entlang der Schnorchelroute in Lepua.",
-                  "category": "family",
-                  "coords": [
-                        -171.754928,
-                        -13.823354
-                  ]
-            },
-            {
-                  "name": "Siva Afi Entertainment Centre",
-                  "text": "Unterhaltungszentrum für Feuertanz-Shows in Lepua.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.76586,
-                        -13.830218
-                  ]
-            },
-            {
                   "name": "Loto o Samasoni Reserve",
                   "text": "Naturschutzgebiet Loto o Samasoni in Lepua.",
                   "category": "natural",
@@ -5451,48 +3974,12 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lalovaea Sisifos Nature Reserve",
-                  "text": "Naturschutzgebiet Lalovaea Sisifos in Lepua.",
-                  "category": "natural",
-                  "coords": [
-                        -171.768886,
-                        -13.844833
-                  ]
-            },
-            {
-                  "name": "Samoa Conservation Society Moamoa Reserve",
-                  "text": "Naturschutzgebiet der Samoa Conservation Society in Moamoa, Lepua.",
-                  "category": "natural",
-                  "coords": [
-                        -171.789719,
-                        -13.868982
-                  ]
-            },
-            {
                   "name": "1927 Magiagi Hydro Scheme Building Ruins",
                   "text": "Ruinen eines Wasserkraftwerks von 1927 in Magiagi, Lepua.",
                   "category": "museum",
                   "coords": [
                         -171.754185,
                         -13.851024
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "Die Kathedrale der Unbefleckten Empfängnis ist die katholische Hauptkirche in Lepua.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.766451,
-                        -13.832191
-                  ]
-            },
-            {
-                  "name": "Apia Park",
-                  "text": "Der Apia Park ist das wichtigste Sportstadion in Lepua.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.751309,
-                        -13.836217
                   ]
             },
             {
@@ -5512,42 +3999,6 @@ export const samoaCitiesV2: POI[] = [
                         -171.763183,
                         -13.842607
                   ]
-            },
-            {
-                  "name": "Vaiala Beach Cottages",
-                  "text": "Als einladendes Strandresort in Lepua bringen die Vaiala Beach Cottages ihre Besucher nur wenige Schritte vom Ufer entfernt unter. Die Lage ist ideal für Familien und Reisende, die ein komfortables, lokal geprägtes Erlebnis am Meer suchen. Gäste befinden sich in der perfekten Position, um Erholung im Resort nahtlos mit Schwimmen im Ozean und Strandgutsuche zu verbinden. Ein Blick auf die lokalen Gezeitenpläne hilft dabei, die besten Zeiten für ein direktes Bad vom Resort aus zu planen.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.753534,
-                        -13.828899
-                  ]
-            },
-            {
-                  "name": "SPACE | Samoa Performing Arts & Creative Excellence",
-                  "text": "Zentrum für samoanische darstellende Kunst in Lepua.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.775339,
-                        -13.837887
-                  ]
-            },
-            {
-                  "name": "Taumeasina Beach Fales",
-                  "text": "Die Taumeasina Beach Fales bieten ein Stranderlebnis im Resort-Stil, eingebettet in die Küstenregion von Lepua. Die Atmosphäre balanciert auf wunderschöne Weise traditionellen Charme mit einer lebhaften Stimmung am Meer. Besucher können mühelos ins Freie treten, um in den nahen Gewässern zu schwimmen oder auf dem lokalen Sand Sonne zu tanken. Ein gemütlicher Spaziergang entlang der angrenzenden Küste eröffnet eine wunderbare Perspektive auf die samoanische Landschaft.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.747135,
-                        -13.832675
-                  ]
-            },
-            {
-                  "name": "Apia Samoa Temple",
-                  "text": "Mormonentempel in Lepua, Samoa, mit goldenem Engel.",
-                  "category": "religious",
-                  "coords": [
-                        -171.783043,
-                        -13.838128
-                  ]
             }
       ],
       "hu": [
@@ -5558,33 +4009,6 @@ export const samoaCitiesV2: POI[] = [
                   "coords": [
                         -171.762695,
                         -13.839718
-                  ]
-            },
-            {
-                  "name": "Snorkelling Start",
-                  "text": "Búvárkodási belépési pont Lepuában.",
-                  "category": "family",
-                  "coords": [
-                        -171.757999,
-                        -13.825029
-                  ]
-            },
-            {
-                  "name": "Snorkel Rest Point",
-                  "text": "Pihenőpont a búvárkodási útvonal mentén Lepuában.",
-                  "category": "family",
-                  "coords": [
-                        -171.754928,
-                        -13.823354
-                  ]
-            },
-            {
-                  "name": "Siva Afi Entertainment Centre",
-                  "text": "Tűztánc-show-k szórakoztató központja Lepuában.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.76586,
-                        -13.830218
                   ]
             },
             {
@@ -5615,48 +4039,12 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lalovaea Sisifos Nature Reserve",
-                  "text": "Lalovaea Sisifos természetvédelmi terület Lepuában.",
-                  "category": "natural",
-                  "coords": [
-                        -171.768886,
-                        -13.844833
-                  ]
-            },
-            {
-                  "name": "Samoa Conservation Society Moamoa Reserve",
-                  "text": "Szamoai Természetvédelmi Társaság Moamoa-rezervátuma Lepuában.",
-                  "category": "natural",
-                  "coords": [
-                        -171.789719,
-                        -13.868982
-                  ]
-            },
-            {
                   "name": "1927 Magiagi Hydro Scheme Building Ruins",
                   "text": "Egy 1927-es vízerőmű romjai Magiagiban, Lepuában.",
                   "category": "museum",
                   "coords": [
                         -171.754185,
                         -13.851024
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "A Szeplőtelen Fogantatás székesegyháza a fő katolikus templom Lepuában.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.766451,
-                        -13.832191
-                  ]
-            },
-            {
-                  "name": "Apia Park",
-                  "text": "Az Apia Park a fő sportstadion Lepuában.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.751309,
-                        -13.836217
                   ]
             },
             {
@@ -5676,42 +4064,6 @@ export const samoaCitiesV2: POI[] = [
                         -171.763183,
                         -13.842607
                   ]
-            },
-            {
-                  "name": "Vaiala Beach Cottages",
-                  "text": "A Lepuában található, barátságos tengerparti üdülőhelyként működő Vaiala Beach Cottages mindössze néhány lépésre helyezi a látogatókat a parttól. A környezet ideális családok és olyan utazók számára, akik kényelmes, helyi jellegű tengerparti élményre vágynak. A vendégek tökéletes helyzetben vannak ahhoz, hogy az üdülőhelyi pihenést zökkenőmentesen ötvözzék az óceáni úszással és a part menti sétákkal. A helyi árapály-táblázatok ellenőrzése segíthet a közvetlen úszás legjobb időpontjainak megtervezésében.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.753534,
-                        -13.828899
-                  ]
-            },
-            {
-                  "name": "SPACE | Samoa Performing Arts & Creative Excellence",
-                  "text": "Szamoai előadó-művészeti központ Lepuában.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.775339,
-                        -13.837887
-                  ]
-            },
-            {
-                  "name": "Taumeasina Beach Fales",
-                  "text": "A Taumeasina Beach Fales üdülőhelyi stílusú tengerparti élményt nyújt Lepua partvidékén. A hangulat gyönyörűen egyensúlyoz a hagyományos báj és az élénk tengerparti életérzés között. A látogatók könnyedén kiléphetnek, hogy ússzanak a közeli vizekben, vagy magukba szívják a napsütést a helyi homokon. A szomszédos part menti kényelmes séta csodálatos perspektívát nyújt a szamoai tájra.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.747135,
-                        -13.832675
-                  ]
-            },
-            {
-                  "name": "Apia Samoa Temple",
-                  "text": "Mormon templom Lepuában, Szamoán, arany angyallal.",
-                  "category": "religious",
-                  "coords": [
-                        -171.783043,
-                        -13.838128
-                  ]
             }
       ],
       "ro": [
@@ -5722,33 +4074,6 @@ export const samoaCitiesV2: POI[] = [
                   "coords": [
                         -171.762695,
                         -13.839718
-                  ]
-            },
-            {
-                  "name": "Snorkelling Start",
-                  "text": "Punct de start pentru snorkeling în Lepua.",
-                  "category": "family",
-                  "coords": [
-                        -171.757999,
-                        -13.825029
-                  ]
-            },
-            {
-                  "name": "Snorkel Rest Point",
-                  "text": "Punct de odihnă pe traseul de snorkeling în Lepua.",
-                  "category": "family",
-                  "coords": [
-                        -171.754928,
-                        -13.823354
-                  ]
-            },
-            {
-                  "name": "Siva Afi Entertainment Centre",
-                  "text": "Centru de divertisment pentru spectacole de dans cu foc în Lepua.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.76586,
-                        -13.830218
                   ]
             },
             {
@@ -5779,48 +4104,12 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lalovaea Sisifos Nature Reserve",
-                  "text": "Rezervația naturală Lalovaea Sisifos în Lepua.",
-                  "category": "natural",
-                  "coords": [
-                        -171.768886,
-                        -13.844833
-                  ]
-            },
-            {
-                  "name": "Samoa Conservation Society Moamoa Reserve",
-                  "text": "Rezervația Moamoa a Societății de Conservare din Samoa în Lepua.",
-                  "category": "natural",
-                  "coords": [
-                        -171.789719,
-                        -13.868982
-                  ]
-            },
-            {
                   "name": "1927 Magiagi Hydro Scheme Building Ruins",
                   "text": "Ruinele unei hidrocentrale din 1927 în Magiagi, Lepua.",
                   "category": "museum",
                   "coords": [
                         -171.754185,
                         -13.851024
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "Catedrala Neprihănitei Zămisliri este principala biserică catolică din Lepua.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.766451,
-                        -13.832191
-                  ]
-            },
-            {
-                  "name": "Apia Park",
-                  "text": "Apia Park este principalul stadion sportiv din Lepua.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.751309,
-                        -13.836217
                   ]
             },
             {
@@ -5840,42 +4129,6 @@ export const samoaCitiesV2: POI[] = [
                         -171.763183,
                         -13.842607
                   ]
-            },
-            {
-                  "name": "Vaiala Beach Cottages",
-                  "text": "Funcționând ca un complex pe plajă primitor în Lepua, Vaiala Beach Cottages plasează vizitatorii la doar câțiva pași de țărm. Cadrul este ideal pentru familiile și călătorii care caută o experiență confortabilă pe litoralul local. Oaspeții sunt perfect poziționați pentru a îmbina perfect relaxarea stațiunii cu înotul în ocean și plimbările pe plajă. Verificarea programului local al mareelor poate ajuta la planificarea celor mai bune momente pentru a înota direct de la proprietate.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.753534,
-                        -13.828899
-                  ]
-            },
-            {
-                  "name": "SPACE | Samoa Performing Arts & Creative Excellence",
-                  "text": "Centru pentru artele spectacolului samoane în Lepua.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.775339,
-                        -13.837887
-                  ]
-            },
-            {
-                  "name": "Taumeasina Beach Fales",
-                  "text": "Taumeasina Beach Fales oferă o experiență de plajă în stil complex, amplasată în zona de coastă din Lepua. Atmosfera echilibrează frumos farmecul tradițional cu o stare de spirit plină de viață pe litoral. Vizitatorii pot ieși cu ușurință pentru a înota în apele din apropiere sau pentru a se bucura de soare pe nisipurile locale. O plimbare pe îndelete de-a lungul coastei adiacente oferă o perspectivă minunată asupra peisajului din Samoa.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.747135,
-                        -13.832675
-                  ]
-            },
-            {
-                  "name": "Apia Samoa Temple",
-                  "text": "Templu mormon în Lepua, Samoa, cu înger de aur.",
-                  "category": "religious",
-                  "coords": [
-                        -171.783043,
-                        -13.838128
-                  ]
             }
       ],
       "en": [
@@ -5886,33 +4139,6 @@ export const samoaCitiesV2: POI[] = [
                   "coords": [
                         -171.762695,
                         -13.839718
-                  ]
-            },
-            {
-                  "name": "Snorkelling Start",
-                  "text": "Snorkeling entry point in Lepua.",
-                  "category": "family",
-                  "coords": [
-                        -171.757999,
-                        -13.825029
-                  ]
-            },
-            {
-                  "name": "Snorkel Rest Point",
-                  "text": "Rest point along snorkeling trail in Lepua.",
-                  "category": "family",
-                  "coords": [
-                        -171.754928,
-                        -13.823354
-                  ]
-            },
-            {
-                  "name": "Siva Afi Entertainment Centre",
-                  "text": "Entertainment center for fire knife dancing shows in Lepua.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.76586,
-                        -13.830218
                   ]
             },
             {
@@ -5943,48 +4169,12 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lalovaea Sisifos Nature Reserve",
-                  "text": "Lalovaea Sisifos nature reserve in Lepua.",
-                  "category": "natural",
-                  "coords": [
-                        -171.768886,
-                        -13.844833
-                  ]
-            },
-            {
-                  "name": "Samoa Conservation Society Moamoa Reserve",
-                  "text": "Samoa Conservation Society Moamoa Reserve in Lepua.",
-                  "category": "natural",
-                  "coords": [
-                        -171.789719,
-                        -13.868982
-                  ]
-            },
-            {
                   "name": "1927 Magiagi Hydro Scheme Building Ruins",
                   "text": "Ruins of a 1927 hydroelectric scheme in Magiagi, Lepua.",
                   "category": "museum",
                   "coords": [
                         -171.754185,
                         -13.851024
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "The Cathedral of the Immaculate Conception is the main Catholic church in Lepua.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.766451,
-                        -13.832191
-                  ]
-            },
-            {
-                  "name": "Apia Park",
-                  "text": "Apia Park is the main sports stadium in Lepua.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.751309,
-                        -13.836217
                   ]
             },
             {
@@ -6003,42 +4193,6 @@ export const samoaCitiesV2: POI[] = [
                   "coords": [
                         -171.763183,
                         -13.842607
-                  ]
-            },
-            {
-                  "name": "Vaiala Beach Cottages",
-                  "text": "Functioning as a welcoming beach resort in Lepua, Vaiala Beach Cottages place visitors just steps from the shore. The setting is ideal for families and travelers seeking a comfortable, localized seaside experience. Guests are perfectly positioned to seamlessly blend resort relaxation with ocean swims and beach combing. Checking the local tide schedules can help plan the best times for swimming directly from the property.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.753534,
-                        -13.828899
-                  ]
-            },
-            {
-                  "name": "SPACE | Samoa Performing Arts & Creative Excellence",
-                  "text": "Center for Samoan performing arts in Lepua.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.775339,
-                        -13.837887
-                  ]
-            },
-            {
-                  "name": "Taumeasina Beach Fales",
-                  "text": "Taumeasina Beach Fales provides a resort-style beach experience nestled in the coastal area of Lepua. The atmosphere beautifully balances traditional charm with a lively seaside mood. Visitors can easily step out to swim in the nearby waters or soak up the sun on the local sands. A leisurely walk along the adjacent coast provides a wonderful perspective of the Samoan landscape.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.747135,
-                        -13.832675
-                  ]
-            },
-            {
-                  "name": "Apia Samoa Temple",
-                  "text": "LDS temple in Lepua, Samoa, with a golden angel statue.",
-                  "category": "religious",
-                  "coords": [
-                        -171.783043,
-                        -13.838128
                   ]
             }
       ]
@@ -6088,554 +4242,10 @@ export const samoaCitiesV2: POI[] = [
   },
   {
     id: "samoa-moataa-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Museum of Samoa",
-                  "text": "Das Museum von Samoa ist das Nationalmuseum von Samoa in Moataa.",
-                  "category": "museum",
-                  "coords": [
-                        -171.762695,
-                        -13.839718
-                  ]
-            },
-            {
-                  "name": "Snorkelling Start",
-                  "text": "Schnorchel-Einstiegspunkt in Moataa.",
-                  "category": "family",
-                  "coords": [
-                        -171.757999,
-                        -13.825029
-                  ]
-            },
-            {
-                  "name": "Snorkel Rest Point",
-                  "text": "Rastpunkt entlang der Schnorchelroute in Moataa.",
-                  "category": "family",
-                  "coords": [
-                        -171.754928,
-                        -13.823354
-                  ]
-            },
-            {
-                  "name": "Siva Afi Entertainment Centre",
-                  "text": "Unterhaltungszentrum für Feuertanz-Shows in Moataa.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.76586,
-                        -13.830218
-                  ]
-            },
-            {
-                  "name": "Loto o Samasoni Reserve",
-                  "text": "Naturschutzgebiet Loto o Samasoni in Moataa.",
-                  "category": "natural",
-                  "coords": [
-                        -171.758999,
-                        -13.840973
-                  ]
-            },
-            {
-                  "name": "Lelata Reserve",
-                  "text": "Küstenregenwald-Reservat mit einheimischer samoanischer Flora in Moataa.",
-                  "category": "natural",
-                  "coords": [
-                        -171.754685,
-                        -13.84585
-                  ]
-            },
-            {
-                  "name": "Lalovaea Sisifos Nature Reserve",
-                  "text": "Naturschutzgebiet mit Wanderwegen in den Hügeln über Moataa.",
-                  "category": "natural",
-                  "coords": [
-                        -171.768886,
-                        -13.844833
-                  ]
-            },
-            {
-                  "name": "Samoa Conservation Society Moamoa Reserve",
-                  "text": "Von der Samoa Conservation Society verwaltet, schützt dieses Reservat einheimische Arten in Moataa.",
-                  "category": "natural",
-                  "coords": [
-                        -171.789719,
-                        -13.868982
-                  ]
-            },
-            {
-                  "name": "1927 Magiagi Hydro Scheme Building Ruins",
-                  "text": "Ruinen des Wasserkraftwerks von 1927 in Moataa.",
-                  "category": "museum",
-                  "coords": [
-                        -171.754185,
-                        -13.851024
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "Die Kathedrale der Unbefleckten Empfängnis ist die katholische Hauptkirche in Moataa.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.766451,
-                        -13.832191
-                  ]
-            },
-            {
-                  "name": "Apia Park",
-                  "text": "Der Apia Park ist das wichtigste Sportstadion in Moataa.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.751309,
-                        -13.836217
-                  ]
-            },
-            {
-                  "name": "Western Samoa Retired Nurses Association",
-                  "text": "Ehemaliges Gebäude des Verbands pensionierter Krankenschwestern in Moataa.",
-                  "category": "historical",
-                  "coords": [
-                        -171.763398,
-                        -13.844919
-                  ]
-            },
-            {
-                  "name": "Madd Gallery",
-                  "text": "Kunstgalerie mit zeitgenössischen samoanischen Werken in Moataa.",
-                  "category": "museum",
-                  "coords": [
-                        -171.763183,
-                        -13.842607
-                  ]
-            },
-            {
-                  "name": "Vaiala Beach Cottages",
-                  "text": "Direkt in Moata'a gelegen, fungieren die Vaiala Beach Cottages als wunderbarer Rückzugsort an der Küste. Die Umgebung hier ist im Allgemeinen warm und zuvorkommend, was sie zu einem einladenden Ort für Ruhe und sanfte Erholung macht. Ein Aufenthalt dreht sich oft um einfache Freuden wie das morgendliche Schwimmen und das Sonnenbaden am Nachmittag direkt vor der Tür. Wenn man eine gute Sonnenbrille und einen Hut einpackt, werden die Tage am Strand besonders angenehm.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.753534,
-                        -13.828899
-                  ]
-            },
-            {
-                  "name": "Taumeasina Beach Fales",
-                  "text": "Die Taumeasina Beach Fales in Moata'a bieten eine reizvolle Mischung aus Resort-Annehmlichkeiten und Zugang zur Küste. Die Kulisse versprüht eine fröhliche, urlaubstypische Atmosphäre, in der das Rauschen des Ozeans allgegenwärtig ist. Gäste können ihre Zeit mühelos zwischen der Erkundung des Ufers und dem Baden im erfrischenden Meer aufteilen. Es ist eine fantastische Lage, um Samoas wunderschön sonnige Tage in vollen Zügen zu genießen.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.747135,
-                        -13.832675
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Museum of Samoa",
-                  "text": "A Szamoai Múzeum Szamoa nemzeti múzeuma Moataában.",
-                  "category": "museum",
-                  "coords": [
-                        -171.762695,
-                        -13.839718
-                  ]
-            },
-            {
-                  "name": "Snorkelling Start",
-                  "text": "Búvárkodási belépési pont Moataában.",
-                  "category": "family",
-                  "coords": [
-                        -171.757999,
-                        -13.825029
-                  ]
-            },
-            {
-                  "name": "Snorkel Rest Point",
-                  "text": "Pihenőpont a búvárkodási útvonal mentén Moataában.",
-                  "category": "family",
-                  "coords": [
-                        -171.754928,
-                        -13.823354
-                  ]
-            },
-            {
-                  "name": "Siva Afi Entertainment Centre",
-                  "text": "Tűztánc-show-k szórakoztató központja Moataában.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.76586,
-                        -13.830218
-                  ]
-            },
-            {
-                  "name": "Loto o Samasoni Reserve",
-                  "text": "Loto o Samasoni természetvédelmi terület Moataában.",
-                  "category": "natural",
-                  "coords": [
-                        -171.758999,
-                        -13.840973
-                  ]
-            },
-            {
-                  "name": "Lelata Reserve",
-                  "text": "Parti esőerdő-rezervátum bennszülött szamoai növényzettel Moataában.",
-                  "category": "natural",
-                  "coords": [
-                        -171.754685,
-                        -13.84585
-                  ]
-            },
-            {
-                  "name": "Lalovaea Sisifos Nature Reserve",
-                  "text": "Természetvédelmi terület túraútvonalakkal a Moataa feletti dombokon.",
-                  "category": "natural",
-                  "coords": [
-                        -171.768886,
-                        -13.844833
-                  ]
-            },
-            {
-                  "name": "Samoa Conservation Society Moamoa Reserve",
-                  "text": "A Szamoai Természetvédelmi Társaság által kezelt rezervátum őshonos fajokat véd Moataában.",
-                  "category": "natural",
-                  "coords": [
-                        -171.789719,
-                        -13.868982
-                  ]
-            },
-            {
-                  "name": "1927 Magiagi Hydro Scheme Building Ruins",
-                  "text": "Az 1927-es vízierőmű romjai Moataában.",
-                  "category": "museum",
-                  "coords": [
-                        -171.754185,
-                        -13.851024
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "A Szeplőtelen Fogantatás székesegyháza a fő katolikus templom Moataában.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.766451,
-                        -13.832191
-                  ]
-            },
-            {
-                  "name": "Apia Park",
-                  "text": "Az Apia Park a fő sportstadion Moataában.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.751309,
-                        -13.836217
-                  ]
-            },
-            {
-                  "name": "Western Samoa Retired Nurses Association",
-                  "text": "A nyugdíjas ápolónők szövetségének egykori épülete Moataában.",
-                  "category": "historical",
-                  "coords": [
-                        -171.763398,
-                        -13.844919
-                  ]
-            },
-            {
-                  "name": "Madd Gallery",
-                  "text": "Kortárs szamoai műveket bemutató művészeti galéria Moataában.",
-                  "category": "museum",
-                  "coords": [
-                        -171.763183,
-                        -13.842607
-                  ]
-            },
-            {
-                  "name": "Vaiala Beach Cottages",
-                  "text": "A közvetlenül Moata'ában található Vaiala Beach Cottages csodálatos tengerparti menedékként szolgál. Az itteni környezet általában meleg és barátságos, ami egyaránt hívogatóvá teszi a pihenés és a könnyed kikapcsolódás számára. A tartózkodás gyakran olyan egyszerű örömök körül forog, mint a kora reggeli úszás és a délutáni napozás közvetlenül az ajtó előtt. Egy jó napszemüveg és kalap csomagolása nagyon kényelmessé teszi a tengerparti napokat.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.753534,
-                        -13.828899
-                  ]
-            },
-            {
-                  "name": "Taumeasina Beach Fales",
-                  "text": "A Moata'ában található Taumeasina Beach Fales az üdülőhelyi kényelmi szolgáltatások és a tengerparti hozzáférés vonzó keverékét kínálja. A környezet vidám, nyaralásra kész hangulatot áraszt, ahol az óceán hangja mindig jelen van. A vendégek könnyen megoszthatják idejüket a tengerpart felfedezése és a frissítő tengerben való fürdőzés között. Fantasztikus helyszín ahhoz, hogy a legtöbbet hozzuk ki Szamoa gyönyörű, napos napjaiból.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.747135,
-                        -13.832675
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Museum of Samoa",
-                  "text": "Muzeul din Samoa este muzeul național al Samoei situat în Moataa.",
-                  "category": "museum",
-                  "coords": [
-                        -171.762695,
-                        -13.839718
-                  ]
-            },
-            {
-                  "name": "Snorkelling Start",
-                  "text": "Punct de start pentru snorkeling în Moataa.",
-                  "category": "family",
-                  "coords": [
-                        -171.757999,
-                        -13.825029
-                  ]
-            },
-            {
-                  "name": "Snorkel Rest Point",
-                  "text": "Punct de odihnă pe traseul de snorkeling în Moataa.",
-                  "category": "family",
-                  "coords": [
-                        -171.754928,
-                        -13.823354
-                  ]
-            },
-            {
-                  "name": "Siva Afi Entertainment Centre",
-                  "text": "Centru de divertisment pentru spectacole de dans cu foc în Moataa.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.76586,
-                        -13.830218
-                  ]
-            },
-            {
-                  "name": "Loto o Samasoni Reserve",
-                  "text": "Rezervația naturală Loto o Samasoni în Moataa.",
-                  "category": "natural",
-                  "coords": [
-                        -171.758999,
-                        -13.840973
-                  ]
-            },
-            {
-                  "name": "Lelata Reserve",
-                  "text": "Rezervație de pădure tropicală de coastă cu floră nativă samoană în Moataa.",
-                  "category": "natural",
-                  "coords": [
-                        -171.754685,
-                        -13.84585
-                  ]
-            },
-            {
-                  "name": "Lalovaea Sisifos Nature Reserve",
-                  "text": "Rezervație naturală cu trasee de drumeție pe dealurile deasupra Moataa.",
-                  "category": "natural",
-                  "coords": [
-                        -171.768886,
-                        -13.844833
-                  ]
-            },
-            {
-                  "name": "Samoa Conservation Society Moamoa Reserve",
-                  "text": "Gestionată de Societatea pentru Conservarea Samoei, această rezervație protejează specii native în Moataa.",
-                  "category": "natural",
-                  "coords": [
-                        -171.789719,
-                        -13.868982
-                  ]
-            },
-            {
-                  "name": "1927 Magiagi Hydro Scheme Building Ruins",
-                  "text": "Ruinele uzinei hidroelectrice din 1927 din Moataa.",
-                  "category": "museum",
-                  "coords": [
-                        -171.754185,
-                        -13.851024
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "Catedrala Neprihănitei Zămisliri este principala biserică catolică din Moataa.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.766451,
-                        -13.832191
-                  ]
-            },
-            {
-                  "name": "Apia Park",
-                  "text": "Apia Park este principalul stadion sportiv din Moataa.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.751309,
-                        -13.836217
-                  ]
-            },
-            {
-                  "name": "Western Samoa Retired Nurses Association",
-                  "text": "Fosta clădire a Asociației Asistentelor Medicale Pensionare din Samoa de Vest, în Moataa.",
-                  "category": "historical",
-                  "coords": [
-                        -171.763398,
-                        -13.844919
-                  ]
-            },
-            {
-                  "name": "Madd Gallery",
-                  "text": "Galerie de artă cu lucrări contemporane samoane în Moataa.",
-                  "category": "museum",
-                  "coords": [
-                        -171.763183,
-                        -13.842607
-                  ]
-            },
-            {
-                  "name": "Vaiala Beach Cottages",
-                  "text": "Situate direct în Moata'a, Vaiala Beach Cottages servesc drept o minunată retragere pe coastă. Mediul aici este, în general, cald și primitor, transformându-l într-un loc primitor atât pentru odihnă, cât și pentru recreere blândă. O ședere se învârte adesea în jurul unor plăceri simple, cum ar fi înotul dimineața devreme și plaja de după-amiază chiar la ușă. Împachetarea unei perechi bune de ochelari de soare și a unei pălării vă va face zilele pe plajă foarte confortabile.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.753534,
-                        -13.828899
-                  ]
-            },
-            {
-                  "name": "Taumeasina Beach Fales",
-                  "text": "Taumeasina Beach Fales din Moata'a oferă un amestec atrăgător de facilități de stațiune și acces la coastă. Decorul are o atmosferă veselă, de vacanță, unde sunetul oceanului este mereu prezent. Oaspeții își pot împărți cu ușurință timpul între explorarea țărmului și scăldatul în marea răcoroasă. Este o locație fantastică pentru a profita la maximum de zilele frumos însorite din Samoa.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.747135,
-                        -13.832675
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Museum of Samoa",
-                  "text": "The Museum of Samoa is the national museum of Samoa located in Moataa.",
-                  "category": "museum",
-                  "coords": [
-                        -171.762695,
-                        -13.839718
-                  ]
-            },
-            {
-                  "name": "Snorkelling Start",
-                  "text": "Snorkeling entry point in Moataa.",
-                  "category": "family",
-                  "coords": [
-                        -171.757999,
-                        -13.825029
-                  ]
-            },
-            {
-                  "name": "Snorkel Rest Point",
-                  "text": "Rest point along snorkeling trail in Moataa.",
-                  "category": "family",
-                  "coords": [
-                        -171.754928,
-                        -13.823354
-                  ]
-            },
-            {
-                  "name": "Siva Afi Entertainment Centre",
-                  "text": "Entertainment center for fire knife dancing shows in Moataa.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.76586,
-                        -13.830218
-                  ]
-            },
-            {
-                  "name": "Loto o Samasoni Reserve",
-                  "text": "Loto o Samasoni nature reserve in Moataa.",
-                  "category": "natural",
-                  "coords": [
-                        -171.758999,
-                        -13.840973
-                  ]
-            },
-            {
-                  "name": "Lelata Reserve",
-                  "text": "Coastal rainforest reserve with native Samoan flora in Moataa.",
-                  "category": "natural",
-                  "coords": [
-                        -171.754685,
-                        -13.84585
-                  ]
-            },
-            {
-                  "name": "Lalovaea Sisifos Nature Reserve",
-                  "text": "Nature reserve with hiking trails in the hills above Moataa.",
-                  "category": "natural",
-                  "coords": [
-                        -171.768886,
-                        -13.844833
-                  ]
-            },
-            {
-                  "name": "Samoa Conservation Society Moamoa Reserve",
-                  "text": "Managed by the Samoa Conservation Society, this reserve protects native species in Moataa.",
-                  "category": "natural",
-                  "coords": [
-                        -171.789719,
-                        -13.868982
-                  ]
-            },
-            {
-                  "name": "1927 Magiagi Hydro Scheme Building Ruins",
-                  "text": "Ruins of the 1927 hydroelectric scheme in Moataa.",
-                  "category": "museum",
-                  "coords": [
-                        -171.754185,
-                        -13.851024
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "The Cathedral of the Immaculate Conception is the main Catholic church in Moataa.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.766451,
-                        -13.832191
-                  ]
-            },
-            {
-                  "name": "Apia Park",
-                  "text": "Apia Park is the main sports stadium in Moataa.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.751309,
-                        -13.836217
-                  ]
-            },
-            {
-                  "name": "Western Samoa Retired Nurses Association",
-                  "text": "Former building of the Western Samoa Retired Nurses Association in Moataa.",
-                  "category": "historical",
-                  "coords": [
-                        -171.763398,
-                        -13.844919
-                  ]
-            },
-            {
-                  "name": "Madd Gallery",
-                  "text": "Art gallery showcasing contemporary Samoan works in Moataa.",
-                  "category": "museum",
-                  "coords": [
-                        -171.763183,
-                        -13.842607
-                  ]
-            },
-            {
-                  "name": "Vaiala Beach Cottages",
-                  "text": "Located directly in Moata'a, the Vaiala Beach Cottages serve as a wonderful coastal retreat. The environment here is generally warm and accommodating, making it an inviting spot for both rest and gentle recreation. A stay often revolves around simple pleasures like early morning swims and afternoon sunbathing right outside the door. Packing a good pair of sunglasses and a hat will make your beachside days very comfortable.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.753534,
-                        -13.828899
-                  ]
-            },
-            {
-                  "name": "Taumeasina Beach Fales",
-                  "text": "Taumeasina Beach Fales in Moata'a offers an appealing blend of resort amenities and coastal access. The setting carries a cheerful, vacation-ready atmosphere where the sound of the ocean is always present. Guests can easily divide their time between exploring the shoreline and bathing in the refreshing sea. It is a fantastic location to make the most of Samoa's beautifully sunny days.",
-                  "category": "recreational",
-                  "coords": [
-                        -171.747135,
-                        -13.832675
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "WS",
     type: "village",
@@ -6684,15 +4294,6 @@ export const samoaCitiesV2: POI[] = [
     id: "samoa-vaiala-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Museum of Samoa",
-                  "text": "Das Museum von Samoa ist das Nationalmuseum von Samoa in Vaiala.",
-                  "category": "museum",
-                  "coords": [
-                        -171.762695,
-                        -13.839718
-                  ]
-            },
-            {
                   "name": "Snorkelling Start",
                   "text": "Startpunkt zum Schnorcheln am Riff von Vaiala.",
                   "category": "family",
@@ -6711,69 +4312,6 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Siva Afi Entertainment Centre",
-                  "text": "Kulturzentrum für Feuer-Messer-Tanzaufführungen in Vaiala.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.76586,
-                        -13.830218
-                  ]
-            },
-            {
-                  "name": "Loto o Samasoni Reserve",
-                  "text": "Naturschutzgebiet mit tropischer Vegetation in Vaiala.",
-                  "category": "natural",
-                  "coords": [
-                        -171.758999,
-                        -13.840973
-                  ]
-            },
-            {
-                  "name": "Lelata Reserve",
-                  "text": "Küstenwaldreservat in Vaiala.",
-                  "category": "natural",
-                  "coords": [
-                        -171.754685,
-                        -13.84585
-                  ]
-            },
-            {
-                  "name": "Lalovaea Sisifos Nature Reserve",
-                  "text": "Naturschutzgebiet mit Wanderwegen in Vaiala.",
-                  "category": "natural",
-                  "coords": [
-                        -171.768886,
-                        -13.844833
-                  ]
-            },
-            {
-                  "name": "Samoa Conservation Society Moamoa Reserve",
-                  "text": "Von der Samoa Conservation Society verwaltetes Reservat in Vaiala.",
-                  "category": "natural",
-                  "coords": [
-                        -171.789719,
-                        -13.868982
-                  ]
-            },
-            {
-                  "name": "1927 Magiagi Hydro Scheme Building Ruins",
-                  "text": "Ruinen des Wasserkraftwerks von 1927 in Vaiala.",
-                  "category": "museum",
-                  "coords": [
-                        -171.754185,
-                        -13.851024
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "Die Kathedrale der Unbefleckten Empfängnis ist die katholische Hauptkirche in Vaiala.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.766451,
-                        -13.832191
-                  ]
-            },
-            {
                   "name": "Apia Park",
                   "text": "Der Apia Park ist das wichtigste Sportstadion in Vaiala.",
                   "category": "landmark",
@@ -6783,39 +4321,12 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Western Samoa Retired Nurses Association",
-                  "text": "Ehemaliges Gebäude des Verbands pensionierter Krankenschwestern in Vaiala.",
-                  "category": "historical",
-                  "coords": [
-                        -171.763398,
-                        -13.844919
-                  ]
-            },
-            {
-                  "name": "Madd Gallery",
-                  "text": "Kunstgalerie mit zeitgenössischen samoanischen Werken in Vaiala.",
-                  "category": "museum",
-                  "coords": [
-                        -171.763183,
-                        -13.842607
-                  ]
-            },
-            {
                   "name": "Vaiala Beach Cottages",
                   "text": "Im Herzen von Vaiala bietet dieses Strandresort unmittelbaren Zugang zur wunderschönen samoanischen Küste. Die Stimmung ist sehr entspannt und dient als exzellenter Ausgangspunkt, um am Wasser abzuschalten. Besucher können stundenlang im sanften Ozean schwimmen oder im Sand direkt neben ihrer Unterkunft faulenzen. Die Meeresbrise am frühen Abend einzufangen, sorgt für einen unvergesslichen Tagesabschluss.",
                   "category": "recreational",
                   "coords": [
                         -171.753534,
                         -13.828899
-                  ]
-            },
-            {
-                  "name": "SPACE | Samoa Performing Arts & Creative Excellence",
-                  "text": "Zentrum für darstellende Kunst und kreative Exzellenz Samoas in Vaiala.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.775339,
-                        -13.837887
                   ]
             },
             {
@@ -6829,15 +4340,6 @@ export const samoaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Museum of Samoa",
-                  "text": "A Szamoai Múzeum Szamoa nemzeti múzeuma Vaialában.",
-                  "category": "museum",
-                  "coords": [
-                        -171.762695,
-                        -13.839718
-                  ]
-            },
             {
                   "name": "Snorkelling Start",
                   "text": "Búvárkodás kezdőpontja a Vaiala-i zátonynál.",
@@ -6857,69 +4359,6 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Siva Afi Entertainment Centre",
-                  "text": "Tűzkés-tánc előadások kulturális központja Vaialában.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.76586,
-                        -13.830218
-                  ]
-            },
-            {
-                  "name": "Loto o Samasoni Reserve",
-                  "text": "Trópusi növényzetű természetvédelmi terület Vaialában.",
-                  "category": "natural",
-                  "coords": [
-                        -171.758999,
-                        -13.840973
-                  ]
-            },
-            {
-                  "name": "Lelata Reserve",
-                  "text": "Parti erdőrezervátum Vaialában.",
-                  "category": "natural",
-                  "coords": [
-                        -171.754685,
-                        -13.84585
-                  ]
-            },
-            {
-                  "name": "Lalovaea Sisifos Nature Reserve",
-                  "text": "Természetvédelmi terület túraútvonalakkal Vaialában.",
-                  "category": "natural",
-                  "coords": [
-                        -171.768886,
-                        -13.844833
-                  ]
-            },
-            {
-                  "name": "Samoa Conservation Society Moamoa Reserve",
-                  "text": "A Szamoai Természetvédelmi Társaság által kezelt rezervátum Vaialában.",
-                  "category": "natural",
-                  "coords": [
-                        -171.789719,
-                        -13.868982
-                  ]
-            },
-            {
-                  "name": "1927 Magiagi Hydro Scheme Building Ruins",
-                  "text": "Az 1927-es vízierőmű romjai Vaialában.",
-                  "category": "museum",
-                  "coords": [
-                        -171.754185,
-                        -13.851024
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "A Szeplőtelen Fogantatás székesegyháza a fő katolikus templom Vaialában.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.766451,
-                        -13.832191
-                  ]
-            },
-            {
                   "name": "Apia Park",
                   "text": "Az Apia Park a fő sportstadion Vaialában.",
                   "category": "landmark",
@@ -6929,39 +4368,12 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Western Samoa Retired Nurses Association",
-                  "text": "A nyugdíjas ápolónők szövetségének egykori épülete Vaialában.",
-                  "category": "historical",
-                  "coords": [
-                        -171.763398,
-                        -13.844919
-                  ]
-            },
-            {
-                  "name": "Madd Gallery",
-                  "text": "Kortárs szamoai műveket bemutató művészeti galéria Vaialában.",
-                  "category": "museum",
-                  "coords": [
-                        -171.763183,
-                        -13.842607
-                  ]
-            },
-            {
                   "name": "Vaiala Beach Cottages",
                   "text": "Vaiala szívében ez a tengerparti üdülőhely közvetlen hozzáférést biztosít a gyönyörű szamoai parthoz. A hangulat rendkívül nyugodt, kiváló alapot szolgálva a vízparti kikapcsolódáshoz. A látogatók órákat tölthetnek a lágy óceánban úszva vagy a homokon heverészve, közvetlenül a szállásuk közelében. A kora esti tengeri szellő elcsípése emlékezetes lezárása a napnak.",
                   "category": "recreational",
                   "coords": [
                         -171.753534,
                         -13.828899
-                  ]
-            },
-            {
-                  "name": "SPACE | Samoa Performing Arts & Creative Excellence",
-                  "text": "Szamoai előadó-művészeti és kreatív kiválósági központ Vaialában.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.775339,
-                        -13.837887
                   ]
             },
             {
@@ -6975,15 +4387,6 @@ export const samoaCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Museum of Samoa",
-                  "text": "Muzeul din Samoa este muzeul național al Samoei situat în Vaiala.",
-                  "category": "museum",
-                  "coords": [
-                        -171.762695,
-                        -13.839718
-                  ]
-            },
             {
                   "name": "Snorkelling Start",
                   "text": "Punct de start pentru snorkeling la reciful din Vaiala.",
@@ -7003,69 +4406,6 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Siva Afi Entertainment Centre",
-                  "text": "Centru cultural pentru spectacole de dans cu cuțite de foc în Vaiala.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.76586,
-                        -13.830218
-                  ]
-            },
-            {
-                  "name": "Loto o Samasoni Reserve",
-                  "text": "Rezervație naturală cu vegetație tropicală în Vaiala.",
-                  "category": "natural",
-                  "coords": [
-                        -171.758999,
-                        -13.840973
-                  ]
-            },
-            {
-                  "name": "Lelata Reserve",
-                  "text": "Rezervație de pădure de coastă în Vaiala.",
-                  "category": "natural",
-                  "coords": [
-                        -171.754685,
-                        -13.84585
-                  ]
-            },
-            {
-                  "name": "Lalovaea Sisifos Nature Reserve",
-                  "text": "Rezervație naturală cu trasee de drumeție în Vaiala.",
-                  "category": "natural",
-                  "coords": [
-                        -171.768886,
-                        -13.844833
-                  ]
-            },
-            {
-                  "name": "Samoa Conservation Society Moamoa Reserve",
-                  "text": "Rezervație gestionată de Societatea pentru Conservarea Samoei în Vaiala.",
-                  "category": "natural",
-                  "coords": [
-                        -171.789719,
-                        -13.868982
-                  ]
-            },
-            {
-                  "name": "1927 Magiagi Hydro Scheme Building Ruins",
-                  "text": "Ruinele uzinei hidroelectrice din 1927 din Vaiala.",
-                  "category": "museum",
-                  "coords": [
-                        -171.754185,
-                        -13.851024
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "Catedrala Neprihănitei Zămisliri este principala biserică catolică din Vaiala.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.766451,
-                        -13.832191
-                  ]
-            },
-            {
                   "name": "Apia Park",
                   "text": "Apia Park este principalul stadion sportiv din Vaiala.",
                   "category": "landmark",
@@ -7075,39 +4415,12 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Western Samoa Retired Nurses Association",
-                  "text": "Fosta clădire a Asociației Asistentelor Medicale Pensionare din Samoa de Vest, în Vaiala.",
-                  "category": "historical",
-                  "coords": [
-                        -171.763398,
-                        -13.844919
-                  ]
-            },
-            {
-                  "name": "Madd Gallery",
-                  "text": "Galerie de artă cu lucrări contemporane samoane în Vaiala.",
-                  "category": "museum",
-                  "coords": [
-                        -171.763183,
-                        -13.842607
-                  ]
-            },
-            {
                   "name": "Vaiala Beach Cottages",
                   "text": "În inima orașului Vaiala, această stațiune pe plajă oferă acces imediat la frumoasa coastă samoană. Starea de spirit este foarte relaxată, servind ca o bază excelentă pentru relaxare în apropierea apei. Vizitatorii pot petrece ore în șir înotând în oceanul blând sau lenevind pe nisip chiar lângă locul de cazare. Surprinderea brizei mării în timpul serii devreme oferă un sfârșit de zi memorabil.",
                   "category": "recreational",
                   "coords": [
                         -171.753534,
                         -13.828899
-                  ]
-            },
-            {
-                  "name": "SPACE | Samoa Performing Arts & Creative Excellence",
-                  "text": "Centru de arte spectacolului și excelență creativă din Samoa, în Vaiala.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.775339,
-                        -13.837887
                   ]
             },
             {
@@ -7121,15 +4434,6 @@ export const samoaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Museum of Samoa",
-                  "text": "The Museum of Samoa is the national museum of Samoa located in Vaiala.",
-                  "category": "museum",
-                  "coords": [
-                        -171.762695,
-                        -13.839718
-                  ]
-            },
             {
                   "name": "Snorkelling Start",
                   "text": "Starting point for snorkeling at the Vaiala reef.",
@@ -7149,69 +4453,6 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Siva Afi Entertainment Centre",
-                  "text": "Cultural centre for fire knife dance performances in Vaiala.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.76586,
-                        -13.830218
-                  ]
-            },
-            {
-                  "name": "Loto o Samasoni Reserve",
-                  "text": "Nature reserve with tropical vegetation in Vaiala.",
-                  "category": "natural",
-                  "coords": [
-                        -171.758999,
-                        -13.840973
-                  ]
-            },
-            {
-                  "name": "Lelata Reserve",
-                  "text": "Coastal forest reserve in Vaiala.",
-                  "category": "natural",
-                  "coords": [
-                        -171.754685,
-                        -13.84585
-                  ]
-            },
-            {
-                  "name": "Lalovaea Sisifos Nature Reserve",
-                  "text": "Nature reserve with hiking trails in Vaiala.",
-                  "category": "natural",
-                  "coords": [
-                        -171.768886,
-                        -13.844833
-                  ]
-            },
-            {
-                  "name": "Samoa Conservation Society Moamoa Reserve",
-                  "text": "Reserve managed by the Samoa Conservation Society in Vaiala.",
-                  "category": "natural",
-                  "coords": [
-                        -171.789719,
-                        -13.868982
-                  ]
-            },
-            {
-                  "name": "1927 Magiagi Hydro Scheme Building Ruins",
-                  "text": "Ruins of the 1927 hydroelectric scheme in Vaiala.",
-                  "category": "museum",
-                  "coords": [
-                        -171.754185,
-                        -13.851024
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Immaculate Conception",
-                  "text": "The Cathedral of the Immaculate Conception is the main Catholic church in Vaiala.",
-                  "category": "landmark",
-                  "coords": [
-                        -171.766451,
-                        -13.832191
-                  ]
-            },
-            {
                   "name": "Apia Park",
                   "text": "Apia Park is the main sports stadium in Vaiala.",
                   "category": "landmark",
@@ -7221,39 +4462,12 @@ export const samoaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Western Samoa Retired Nurses Association",
-                  "text": "Former building of the Western Samoa Retired Nurses Association in Vaiala.",
-                  "category": "historical",
-                  "coords": [
-                        -171.763398,
-                        -13.844919
-                  ]
-            },
-            {
-                  "name": "Madd Gallery",
-                  "text": "Art gallery showcasing contemporary Samoan works in Vaiala.",
-                  "category": "museum",
-                  "coords": [
-                        -171.763183,
-                        -13.842607
-                  ]
-            },
-            {
                   "name": "Vaiala Beach Cottages",
                   "text": "In the heart of Vaiala, this beach resort provides immediate access to the beautiful Samoan coast. The mood is highly relaxed, serving as an excellent base for unwinding near the water. Visitors can spend hours swimming in the gentle ocean or lounging on the sand right near their accommodation. Catching the sea breeze during the early evening makes for a memorable end to the day.",
                   "category": "recreational",
                   "coords": [
                         -171.753534,
                         -13.828899
-                  ]
-            },
-            {
-                  "name": "SPACE | Samoa Performing Arts & Creative Excellence",
-                  "text": "Centre for performing arts and creative excellence of Samoa in Vaiala.",
-                  "category": "cultural",
-                  "coords": [
-                        -171.775339,
-                        -13.837887
                   ]
             },
             {

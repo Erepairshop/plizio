@@ -2365,50 +2365,10 @@ imageHint: "Ruins of Small Roman Theater in Pula",
   },
   {
     id: "croatia-sokolac-castle-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Stražbenica",
-                  "text": "Ein Berggipfel in der Nähe der Burg Sokolac, der weite Ausblicke über die Region bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        16.229189,
-                        45.124251
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Stražbenica",
-                  "text": "Hegycsúcs Sokolac vára közelében, amely tágas kilátást nyújt a környékre.",
-                  "category": "landmark",
-                  "coords": [
-                        16.229189,
-                        45.124251
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Stražbenica",
-                  "text": "Un vârf montan în apropiere de castelul Sokolac, oferind vederi panoramice asupra regiunii.",
-                  "category": "landmark",
-                  "coords": [
-                        16.229189,
-                        45.124251
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Stražbenica",
-                  "text": "A mountain peak near Sokolac Castle, offering expansive views over the region.",
-                  "category": "landmark",
-                  "coords": [
-                        16.229189,
-                        45.124251
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "castle",
     parent: "HR",

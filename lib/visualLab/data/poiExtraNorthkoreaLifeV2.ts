@@ -2506,30 +2506,12 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samjiyon Revolutionary Historical Museum",
-                  "text": "Dieses Museum in Samjiyon dokumentiert die Geschichte des antijapanischen Guerillakampfes in der Bergregion.",
-                  "category": "museum",
-                  "coords": [
-                        128.341815,
-                        41.830713
-                  ]
-            },
-            {
                   "name": "Residence of Leadership",
                   "text": "Ein schwer bewachter Residenzkomplex für die oberste Führung Nordkoreas inmitten der Pinienwälder bei Samjiyon.",
                   "category": "castle",
                   "coords": [
                         128.274663,
                         41.85752
-                  ]
-            },
-            {
-                  "name": "Pillow Bong Secret Camp Revolutionary Historic Site",
-                  "text": "Ein historischer Ort im Wald, der als geheimes Lager der Guerillakämpfer während des Widerstands diente.",
-                  "category": "landmark",
-                  "coords": [
-                        128.304929,
-                        41.819104
                   ]
             },
             {
@@ -2562,30 +2544,12 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samjiyon Revolutionary Historical Museum",
-                  "text": "Ez a szamdzsijoni múzeum az antijapán gerillaharcok történetét dokumentálja a hegyvidéki régióban.",
-                  "category": "museum",
-                  "coords": [
-                        128.341815,
-                        41.830713
-                  ]
-            },
-            {
                   "name": "Residence of Leadership",
                   "text": "Szigorúan őrzött rezidenciakomplexum Észak-Korea legfelsőbb vezetése számára, a Szamdzsijon közeli fenyőerdők mélyén.",
                   "category": "castle",
                   "coords": [
                         128.274663,
                         41.85752
-                  ]
-            },
-            {
-                  "name": "Pillow Bong Secret Camp Revolutionary Historic Site",
-                  "text": "Erdei történelmi emlékhely, amely a gerillák titkos táboraként szolgált az ellenállás idején.",
-                  "category": "landmark",
-                  "coords": [
-                        128.304929,
-                        41.819104
                   ]
             },
             {
@@ -2618,30 +2582,12 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samjiyon Revolutionary Historical Museum",
-                  "text": "Acest muzeu din Samjiyon documentează istoria luptei de gherilă anti-japoneze în regiunea muntoasă.",
-                  "category": "museum",
-                  "coords": [
-                        128.341815,
-                        41.830713
-                  ]
-            },
-            {
                   "name": "Residence of Leadership",
                   "text": "Un complex de rezidență strict păzit pentru conducerea supremă a Coreei de Nord, în mijlocul pădurilor de pini de lângă Samjiyon.",
                   "category": "castle",
                   "coords": [
                         128.274663,
                         41.85752
-                  ]
-            },
-            {
-                  "name": "Pillow Bong Secret Camp Revolutionary Historic Site",
-                  "text": "Un sit istoric în pădure, care a servit drept tabără secretă pentru luptătorii de gherilă în timpul rezistenței.",
-                  "category": "landmark",
-                  "coords": [
-                        128.304929,
-                        41.819104
                   ]
             },
             {
@@ -2674,30 +2620,12 @@ export const poiExtraNorthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samjiyon Revolutionary Historical Museum",
-                  "text": "This museum in Samjiyon documents the history of the anti-Japanese guerrilla struggle in the mountain region.",
-                  "category": "museum",
-                  "coords": [
-                        128.341815,
-                        41.830713
-                  ]
-            },
-            {
                   "name": "Residence of Leadership",
                   "text": "A strictly guarded residence complex for North Korea's top leadership, set amidst the pine forests near Samjiyon.",
                   "category": "castle",
                   "coords": [
                         128.274663,
                         41.85752
-                  ]
-            },
-            {
-                  "name": "Pillow Bong Secret Camp Revolutionary Historic Site",
-                  "text": "A historic forest site that served as a secret camp for guerrilla fighters during the resistance movement.",
-                  "category": "landmark",
-                  "coords": [
-                        128.304929,
-                        41.819104
                   ]
             },
             {

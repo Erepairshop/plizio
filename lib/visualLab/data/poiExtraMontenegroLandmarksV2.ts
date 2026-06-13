@@ -105,57 +105,12 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Podlastva",
-                  "text": "Ein serbisch-orthodoxes Kloster in der Nähe von Budva mit langer Geschichte.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Tvrđava Stari grad",
-                  "text": "Das historische Herz von Budva, umgeben von mittelalterlichen Stadtmauern direkt am Meer.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
-                  "name": "Mogren",
-                  "text": "Ein bekannter Strand in Budva, der aus zwei durch einen Tunnel verbundenen Abschnitten besteht.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832364,
-                        42.277055
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "Einer der längsten Strände in Montenegro, bekannt für Konzerte und Wassersport.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
                   "name": "Citadela",
                   "text": "Eine historische Festung in der Altstadt von Budva, die einen weiten Blick über die Adria bietet.",
                   "category": "castle",
                   "coords": [
                         18.838172,
                         42.277014
-                  ]
-            },
-            {
-                  "name": "Strand Slovenska plaža",
-                  "text": "Der längste Strand von Budva, gesäumt von Hotels, Restaurants und einer Promenade.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
                   ]
             },
             {
@@ -184,60 +139,6 @@ export const montenegroLandmarksV2: POI[] = [
                         18.846718,
                         42.269745
                   ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Ein Strandresort in Budva, direkt an der Adria bei der Zitadelle.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Ein moderner Beach Club in der Nähe der historischen Zitadelle von Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "Ein Hotelschwimmbad in Budva mit Blick auf die umliegende Küste.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Ein exklusiver Pool-Club in Budva, der Entspannung am Wasser bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Ein Schwimmbereich in Budva in unmittelbarer Nähe der Altstadt.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "Ein großer Wasserpark in Budva mit verschiedenen Attraktionen für Familien.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
             }
       ],
       "hu": [
@@ -251,57 +152,12 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Podlastva",
-                  "text": "Budva közelében található szerb ortodox kolostor, hosszú történelmi múlttal.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Tvrđava Stari grad",
-                  "text": "Budva történelmi szíve, amelyet középkori városfalak vesznek körül közvetlenül a tengerparton.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
-                  "name": "Mogren 1",
-                  "text": "Híres strand Budvában, amely két, alagúttal összekötött szakaszból áll.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832364,
-                        42.277055
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "Montenegró egyik leghosszabb strandja, amely koncertekről és vízi sportokról ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
                   "name": "Citadela",
                   "text": "Budva óvárosában található történelmi erőd, amely pazar kilátást nyújt az Adriai-tengerre.",
                   "category": "castle",
                   "coords": [
                         18.838172,
                         42.277014
-                  ]
-            },
-            {
-                  "name": "Slovenska plaža",
-                  "text": "Budva leghosszabb strandja, amelyet szállodák, éttermek és egy sétány szegélyez.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
                   ]
             },
             {
@@ -330,60 +186,6 @@ export const montenegroLandmarksV2: POI[] = [
                         18.846718,
                         42.269745
                   ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Tengerparti üdülőhely Budvában, az Adria partján a citadella közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Modern strandklub Budva történelmi citadellájának közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "Szállodai medence Budvában, kilátással a környező tengerpartra.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Exkluzív medenceklub Budvában, amely kikapcsolódást nyújt a vízparton.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Úszóhely Budvában, az óváros közvetlen közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "Nagy vízipark Budvában, különféle attrakciókkal családok számára.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
             }
       ],
       "ro": [
@@ -397,57 +199,12 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Podlastva",
-                  "text": "O mănăstire ortodoxă sârbă de lângă Budva, cu o istorie îndelungată.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Tvrđava Stari grad",
-                  "text": "Inima istorică a Budvei, înconjurată de ziduri medievale chiar la malul mării.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
-                  "name": "Mogren 1",
-                  "text": "O plajă renumită în Budva, formată din două secțiuni conectate printr-un tunel.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832364,
-                        42.277055
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "Una dintre cele mai lungi plaje din Muntenegru, cunoscută pentru concerte și sporturi nautice.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
                   "name": "Citadela",
                   "text": "O fortăreață istorică în orașul vechi din Budva, oferind o vedere panoramică asupra Mării Adriatice.",
                   "category": "castle",
                   "coords": [
                         18.838172,
                         42.277014
-                  ]
-            },
-            {
-                  "name": "Slovenska plaža",
-                  "text": "Cea mai lungă plajă din Budva, mărginită de hoteluri, restaurante și o faleză.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
                   ]
             },
             {
@@ -476,60 +233,6 @@ export const montenegroLandmarksV2: POI[] = [
                         18.846718,
                         42.269745
                   ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "O stațiune de plajă în Budva, situată la Marea Adriatică lângă citadelă.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Un club de plajă modern situat lângă citadela istorică din Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "O piscină de hotel în Budva, oferind vedere spre coasta înconjurătoare.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Un club exclusivist cu piscină în Budva, oferind relaxare la malul mării.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "O zonă de înot în Budva, aflată în imediata apropiere a orașului vechi.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "Un parc acvatic mare în Budva, cu diverse atracții pentru familii.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
             }
       ],
       "en": [
@@ -543,57 +246,12 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Podlastva",
-                  "text": "A Serbian Orthodox monastery near Budva with a long history.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Old Town Budva",
-                  "text": "The historic heart of Budva, surrounded by medieval town walls right by the sea.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
-                  "name": "Mogren",
-                  "text": "A famous beach in Budva, consisting of two sections connected by a tunnel.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832364,
-                        42.277055
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "One of the longest beaches in Montenegro, known for concerts and water sports.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
                   "name": "Citadela",
                   "text": "A historic fortress in Budva's Old Town, offering sweeping views of the Adriatic Sea.",
                   "category": "castle",
                   "coords": [
                         18.838172,
                         42.277014
-                  ]
-            },
-            {
-                  "name": "Slovenska Beach",
-                  "text": "The longest beach in Budva, lined with hotels, restaurants, and a promenade.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
                   ]
             },
             {
@@ -621,60 +279,6 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.846718,
                         42.269745
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "A beach resort in Budva, located along the Adriatic coast near the citadel.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "A modern beach club situated near the historic Citadel of Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "A hotel swimming pool in Budva with views of the surrounding coastline.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "An exclusive pool club in Budva providing relaxation by the water.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "A swimming area in Budva located in close proximity to the old town.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "A large water park in Budva featuring various attractions for families.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
                   ]
             }
       ]
@@ -735,24 +339,6 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Manastir Gradište",
-                  "text": "Ein serbisch-orthodoxes Kloster in der Nähe von Petrovac mit bedeutenden Fresken.",
-                  "category": "religious",
-                  "coords": [
-                        18.96385,
-                        42.202242
-                  ]
-            },
-            {
-                  "name": "Manastir Reževići",
-                  "text": "Ein historisches Kloster an der Küste, bekannt für seine alten Kirchen und Olivenhaine.",
-                  "category": "religious",
-                  "coords": [
-                        18.924126,
-                        42.215215
-                  ]
-            },
-            {
                   "name": "Castello",
                   "text": "Eine historische Festungsanlage direkt am Meer in Petrovac.",
                   "category": "castle",
@@ -778,51 +364,6 @@ export const montenegroLandmarksV2: POI[] = [
                         18.939692,
                         42.208554
                   ]
-            },
-            {
-                  "name": "Plaža Perazića Do",
-                  "text": "Ein Strand in der Bucht von Perazića Do bei Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.924186,
-                        42.212106
-                  ]
-            },
-            {
-                  "name": "Buljarica",
-                  "text": "Einer der längsten Strände an der montenegrinischen Küste bei Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.970785,
-                        42.184289
-                  ]
-            },
-            {
-                  "name": "Plaža Buljarica",
-                  "text": "Ein weitläufiger Kieselstrand in der Nähe der Festung Kastio.",
-                  "category": "recreational",
-                  "coords": [
-                        18.964806,
-                        42.193025
-                  ]
-            },
-            {
-                  "name": "Light Land Family Recreation Park",
-                  "text": "Ein Familien-Freizeitpark mit Lichter-Show in Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.995831,
-                        42.216188
-                  ]
-            },
-            {
-                  "name": "Lučice",
-                  "text": "Ein Kieselstrand in einer kleinen Bucht bei Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.950787,
-                        42.200496
-                  ]
             }
       ],
       "hu": [
@@ -833,24 +374,6 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.940348,
                         42.204882
-                  ]
-            },
-            {
-                  "name": "Manastir Gradište",
-                  "text": "Szerb ortodox kolostor Petrovac közelében, jelentős freskókkal.",
-                  "category": "religious",
-                  "coords": [
-                        18.96385,
-                        42.202242
-                  ]
-            },
-            {
-                  "name": "Manastir Reževići",
-                  "text": "Történelmi kolostor a tengerparton, amely régi templomairól és olajfaligeteiről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        18.924126,
-                        42.215215
                   ]
             },
             {
@@ -879,51 +402,6 @@ export const montenegroLandmarksV2: POI[] = [
                         18.939692,
                         42.208554
                   ]
-            },
-            {
-                  "name": "Plaža Perazića Do",
-                  "text": "Strand a Perazića Do-öbölben Petrovac mellett.",
-                  "category": "recreational",
-                  "coords": [
-                        18.924186,
-                        42.212106
-                  ]
-            },
-            {
-                  "name": "Buljarica",
-                  "text": "Montenegró egyik leghosszabb strandja Petrovac közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.970785,
-                        42.184289
-                  ]
-            },
-            {
-                  "name": "Plaža Buljarica",
-                  "text": "Kiterjedt kavicsos strand a Kastio-erőd közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.964806,
-                        42.193025
-                  ]
-            },
-            {
-                  "name": "Light Land Family Recreation Park",
-                  "text": "Családi szabadidőpark fényjátékkal Petrovacban.",
-                  "category": "recreational",
-                  "coords": [
-                        18.995831,
-                        42.216188
-                  ]
-            },
-            {
-                  "name": "Lučice",
-                  "text": "Kavicsos strand egy kis öbölben Petrovac közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.950787,
-                        42.200496
-                  ]
             }
       ],
       "ro": [
@@ -934,24 +412,6 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.940348,
                         42.204882
-                  ]
-            },
-            {
-                  "name": "Manastir Gradište",
-                  "text": "O mănăstire ortodoxă sârbă lângă Petrovac, cunoscută pentru frescele sale.",
-                  "category": "religious",
-                  "coords": [
-                        18.96385,
-                        42.202242
-                  ]
-            },
-            {
-                  "name": "Manastir Reževići",
-                  "text": "O mănăstire istorică pe coastă, cunoscută pentru bisericile sale vechi și livezile de măslini.",
-                  "category": "religious",
-                  "coords": [
-                        18.924126,
-                        42.215215
                   ]
             },
             {
@@ -980,51 +440,6 @@ export const montenegroLandmarksV2: POI[] = [
                         18.939692,
                         42.208554
                   ]
-            },
-            {
-                  "name": "Plaža Perazića Do",
-                  "text": "O plajă în golful Perazića Do lângă Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.924186,
-                        42.212106
-                  ]
-            },
-            {
-                  "name": "Buljarica",
-                  "text": "Una dintre cele mai lungi plaje de pe coasta muntenegreană, lângă Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.970785,
-                        42.184289
-                  ]
-            },
-            {
-                  "name": "Plaža Buljarica",
-                  "text": "O plajă întinsă cu pietriș situată în apropierea cetății Kastio.",
-                  "category": "recreational",
-                  "coords": [
-                        18.964806,
-                        42.193025
-                  ]
-            },
-            {
-                  "name": "Light Land Family Recreation Park",
-                  "text": "Un parc de agrement familial cu spectacol de lumini în Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.995831,
-                        42.216188
-                  ]
-            },
-            {
-                  "name": "Lučice",
-                  "text": "O plajă cu pietriș într-un mic golf lângă Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.950787,
-                        42.200496
-                  ]
             }
       ],
       "en": [
@@ -1035,24 +450,6 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.940348,
                         42.204882
-                  ]
-            },
-            {
-                  "name": "Manastir Gradište",
-                  "text": "A Serbian Orthodox monastery near Petrovac with significant frescoes.",
-                  "category": "religious",
-                  "coords": [
-                        18.96385,
-                        42.202242
-                  ]
-            },
-            {
-                  "name": "Manastir Reževići",
-                  "text": "A historic coastal monastery known for its ancient churches and olive groves.",
-                  "category": "religious",
-                  "coords": [
-                        18.924126,
-                        42.215215
                   ]
             },
             {
@@ -1080,51 +477,6 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.939692,
                         42.208554
-                  ]
-            },
-            {
-                  "name": "Plaža Perazića Do",
-                  "text": "A beach in Perazića Do cove near Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.924186,
-                        42.212106
-                  ]
-            },
-            {
-                  "name": "Buljarica",
-                  "text": "One of the longest beaches on the Montenegrin coast near Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.970785,
-                        42.184289
-                  ]
-            },
-            {
-                  "name": "Plaža Buljarica",
-                  "text": "A spacious pebble beach located near the Kastio Fortress.",
-                  "category": "recreational",
-                  "coords": [
-                        18.964806,
-                        42.193025
-                  ]
-            },
-            {
-                  "name": "Light Land Family Recreation Park",
-                  "text": "A family recreation park with light show in Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.995831,
-                        42.216188
-                  ]
-            },
-            {
-                  "name": "Lučice",
-                  "text": "A pebble beach in a small bay near Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.950787,
-                        42.200496
                   ]
             }
       ]
@@ -1221,75 +573,12 @@ export const montenegroLandmarksV2: POI[] = [
     id: "montenegro-bar-king-palace-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Stari grad Bar",
-                  "text": "Eine beeindruckende befestigte Ruinenstadt in Montenegro, am Fuße des Berges Rumija.",
-                  "category": "castle",
-                  "coords": [
-                        19.135464,
-                        42.093289
-                  ]
-            },
-            {
                   "name": "Letnja scena",
                   "text": "Eine Freilichtbühne in Bar, auf der im Sommer kulturelle Veranstaltungen stattfinden.",
                   "category": "cultural",
                   "coords": [
                         19.092223,
                         42.100104
-                  ]
-            },
-            {
-                  "name": "Plaža Šušanj",
-                  "text": "Ein langer Kieselstrand in Bar, der von einem schattigen Pinienwald gesäumt wird.",
-                  "category": "recreational",
-                  "coords": [
-                        19.082675,
-                        42.113588
-                  ]
-            },
-            {
-                  "name": "Crvena plaža",
-                  "text": "Ein Strand in Bar, der für seinen rötlichen Sand und feinen Kies bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        19.069766,
-                        42.120396
-                  ]
-            },
-            {
-                  "name": "Bigovica",
-                  "text": "Eine abgelegene Bucht in der Nähe von Bar, ideal zum Tauchen und Entspannen.",
-                  "category": "recreational",
-                  "coords": [
-                        19.085917,
-                        42.076804
-                  ]
-            },
-            {
-                  "name": "Crvena Stijena",
-                  "text": "Ein kleiner, naturbelassener Strand unterhalb steiler Klippen in der Nähe von Bar.",
-                  "category": "recreational",
-                  "coords": [
-                        19.094723,
-                        42.071282
-                  ]
-            },
-            {
-                  "name": "Bazeni Bartula",
-                  "text": "Öffentliche Badebecken in der Nähe des Palastes von König Nikola, die zur Abkühlung einladen.",
-                  "category": "recreational",
-                  "coords": [
-                        19.141481,
-                        42.083662
-                  ]
-            },
-            {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "Ein Strandresort beim Palast von König Nikola, ideal für einen Tag am Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
                   ]
             },
             {
@@ -1304,75 +593,12 @@ export const montenegroLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Stari grad Bar",
-                  "text": "Lenyűgöző erődített romváros Montenegróban, a Rumija-hegy lábánál.",
-                  "category": "castle",
-                  "coords": [
-                        19.135464,
-                        42.093289
-                  ]
-            },
-            {
                   "name": "Letnja scena",
                   "text": "Szabadtéri színpad Bar városában, amely nyári kulturális eseményeknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         19.092223,
                         42.100104
-                  ]
-            },
-            {
-                  "name": "Plaža Šušanj",
-                  "text": "Bar hosszú kavicsos strandja, amelyet árnyas fenyőerdő övez.",
-                  "category": "recreational",
-                  "coords": [
-                        19.082675,
-                        42.113588
-                  ]
-            },
-            {
-                  "name": "Crvena plaža",
-                  "text": "Vöröses homokjáról és apró kavicsairól ismert tengerparti szakasz Barban.",
-                  "category": "recreational",
-                  "coords": [
-                        19.069766,
-                        42.120396
-                  ]
-            },
-            {
-                  "name": "Bigovica",
-                  "text": "Bar közeli eldugott öböl, amely ideális merülésre és kikapcsolódásra.",
-                  "category": "recreational",
-                  "coords": [
-                        19.085917,
-                        42.076804
-                  ]
-            },
-            {
-                  "name": "Crvena Stijena",
-                  "text": "Kicsi, természetközeli strand meredek sziklák alatt Bar közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        19.094723,
-                        42.071282
-                  ]
-            },
-            {
-                  "name": "Bazeni Bartula",
-                  "text": "Nyilvános fürdőmedencék Nikola király palotája közelében, pihenési lehetőséget kínálva.",
-                  "category": "recreational",
-                  "coords": [
-                        19.141481,
-                        42.083662
-                  ]
-            },
-            {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "Tengerparti üdülőhely Nikola király palotája közelében, ideális pihenésre a parton.",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
                   ]
             },
             {
@@ -1387,75 +613,12 @@ export const montenegroLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Stari grad Bar",
-                  "text": "Un impresionant oraș-cetate în ruină din Muntenegru, situat la poalele muntelui Rumija.",
-                  "category": "castle",
-                  "coords": [
-                        19.135464,
-                        42.093289
-                  ]
-            },
-            {
                   "name": "Letnja scena",
                   "text": "O scenă în aer liber din Bar, care găzduiește evenimente culturale pe timpul verii.",
                   "category": "cultural",
                   "coords": [
                         19.092223,
                         42.100104
-                  ]
-            },
-            {
-                  "name": "Plaža Šušanj",
-                  "text": "O plajă lungă cu pietriș din Bar, mărginită de o pădure de pini umbroasă.",
-                  "category": "recreational",
-                  "coords": [
-                        19.082675,
-                        42.113588
-                  ]
-            },
-            {
-                  "name": "Crvena plaža",
-                  "text": "O plajă din Bar cunoscută pentru nisipul și pietrișul său de culoare roșiatică.",
-                  "category": "recreational",
-                  "coords": [
-                        19.069766,
-                        42.120396
-                  ]
-            },
-            {
-                  "name": "Bigovica",
-                  "text": "Un golf retras în apropiere de Bar, ideal pentru scufundări și relaxare.",
-                  "category": "recreational",
-                  "coords": [
-                        19.085917,
-                        42.076804
-                  ]
-            },
-            {
-                  "name": "Crvena Stijena",
-                  "text": "O plajă mică și sălbatică situată sub stânci abrupte lângă Bar.",
-                  "category": "recreational",
-                  "coords": [
-                        19.094723,
-                        42.071282
-                  ]
-            },
-            {
-                  "name": "Bazeni Bartula",
-                  "text": "Bazine publice lângă Palatul Regelui Nikola, oferind o oportunitate de relaxare.",
-                  "category": "recreational",
-                  "coords": [
-                        19.141481,
-                        42.083662
-                  ]
-            },
-            {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "O stațiune de plajă lângă Palatul Regelui Nikola, ideală pentru relaxare pe litoral.",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
                   ]
             },
             {
@@ -1470,75 +633,12 @@ export const montenegroLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Old Bar Fortress",
-                  "text": "An impressive fortified ruined city in Montenegro, located at the foot of Mount Rumija.",
-                  "category": "castle",
-                  "coords": [
-                        19.135464,
-                        42.093289
-                  ]
-            },
-            {
                   "name": "Letnja scena",
                   "text": "An open-air stage in Bar used for various cultural events during the summer.",
                   "category": "cultural",
                   "coords": [
                         19.092223,
                         42.100104
-                  ]
-            },
-            {
-                  "name": "Plaža Šušanj",
-                  "text": "A long pebble beach in Bar bordered by a scenic and shady pine forest.",
-                  "category": "recreational",
-                  "coords": [
-                        19.082675,
-                        42.113588
-                  ]
-            },
-            {
-                  "name": "Crvena plaža",
-                  "text": "A beach in Bar famous for its distinctive reddish sand and fine pebbles.",
-                  "category": "recreational",
-                  "coords": [
-                        19.069766,
-                        42.120396
-                  ]
-            },
-            {
-                  "name": "Bigovica",
-                  "text": "A secluded bay near Bar, ideal for diving and peaceful relaxation.",
-                  "category": "recreational",
-                  "coords": [
-                        19.085917,
-                        42.076804
-                  ]
-            },
-            {
-                  "name": "Crvena Stijena",
-                  "text": "A small, natural beach located beneath steep cliffs near Bar.",
-                  "category": "recreational",
-                  "coords": [
-                        19.094723,
-                        42.071282
-                  ]
-            },
-            {
-                  "name": "Bazeni Bartula",
-                  "text": "Public swimming pools located near King Nikola's Palace, providing a place for recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        19.141481,
-                        42.083662
-                  ]
-            },
-            {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "A beach resort near King Nikola's Palace, offering facilities for a day by the sea.",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
                   ]
             },
             {
@@ -1644,15 +744,6 @@ export const montenegroLandmarksV2: POI[] = [
     id: "montenegro-cetinje-museum-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Cetinjski Manastir",
-                  "text": "Historisches serbisch-orthodoxes Kloster in Cetinje, Montenegro, Sitz des Metropoliten.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
-            {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
                   "text": "Nationalmuseum im ehemaligen Regierungsgebäude, das montenegrinische königliche Artefakte zeigt.",
                   "category": "museum",
@@ -1660,54 +751,9 @@ export const montenegroLandmarksV2: POI[] = [
                         18.922877,
                         42.38926
                   ]
-            },
-            {
-                  "name": "Muzej Kralja Nikole",
-                  "text": "Ehemaliger Königspalast von König Nikola I., mit originalgetreuen Räumen und Erinnerungsstücken.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "Die Biljarda ist ein ehemaliges Residenzschloss und heute ein Museum in Cetinje.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
-            {
-                  "name": "Königliches Theater Zetski Dom",
-                  "text": "Königliches Theater Zetski Dom in Cetinje, erbaut 1888, heute Nationaltheater.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
-                  ]
-            },
-            {
-                  "name": "Ljetnja pozornica",
-                  "text": "Sommerbühne am Cetinje Museum, errichtet 1951.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Cetinjski Manastir",
-                  "text": "Történelmi szerb ortodox kolostor Cetinjében, Montenegróban, a metropolita székhelye.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
             {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
                   "text": "Nemzeti múzeum a volt kormányzati épületben, montenegrói királyi tárgyakkal.",
@@ -1716,54 +762,9 @@ export const montenegroLandmarksV2: POI[] = [
                         18.922877,
                         42.38926
                   ]
-            },
-            {
-                  "name": "Muzej Kralja Nikole",
-                  "text": "I. Miklós király egykori palotája, korabeli szobákkal és emléktárgyakkal.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "A Biljarda egy egykori rezidencia, amely ma múzeumként működik Cetinjében.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
-            {
-                  "name": "Kraljevsko Pozorište Zetski Dom",
-                  "text": "Zetski Dom Királyi Színház Cetinjében, 1888-ban épült, ma nemzeti színház.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
-                  ]
-            },
-            {
-                  "name": "Ljetnja pozornica",
-                  "text": "Nyári színpad a Cetinje Múzeumnál, 1951-ben épült.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Cetinjski Manastir",
-                  "text": "Mănăstire ortodoxă sârbă istorică în Cetinje, Muntenegru, sediul Mitropolitului.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
             {
                   "name": "Vladin dom - Narodni muzej Crne Gore",
                   "text": "Muzeul Național găzduit în fosta Casă de Guvern, care expune artefacte regale muntenegrene.",
@@ -1772,54 +773,9 @@ export const montenegroLandmarksV2: POI[] = [
                         18.922877,
                         42.38926
                   ]
-            },
-            {
-                  "name": "Muzej Kralja Nikole",
-                  "text": "Fostul palat regal al regelui Nicolae I, cu camere de epocă și obiecte memoriale.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "Biljarda este o fostă reședință nobiliară, astăzi muzeu în Cetinje.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
-            {
-                  "name": "Kraljevsko Pozorište Zetski Dom",
-                  "text": "Teatrul Regal Zetski Dom din Cetinje, construit în 1888, acum teatru național.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
-                  ]
-            },
-            {
-                  "name": "Ljetnja pozornica",
-                  "text": "Scenă de vară lângă Muzeul Cetinje, construită în 1951.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Cetinje Monastery",
-                  "text": "Historic Serbian Orthodox monastery in Cetinje, Montenegro, seat of the Metropolitan.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
             {
                   "name": "Government House - National Museum of Montenegro",
                   "text": "National museum housed in the former Government House, displaying Montenegrin royal artifacts.",
@@ -1827,42 +783,6 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.922877,
                         42.38926
-                  ]
-            },
-            {
-                  "name": "Museum of King Nikola I Petrović",
-                  "text": "Former royal palace of King Nikola I, with period rooms and memorabilia.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "Biljarda is a former royal residence that now serves as a museum in Cetinje.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
-            {
-                  "name": "Royal Theatre Zetski Dom",
-                  "text": "Royal Theatre Zetski Dom in Cetinje, built in 1888, now a national theatre.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
-                  ]
-            },
-            {
-                  "name": "Summer stage",
-                  "text": "Summer stage at Cetinje Museum, built in 1951.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
                   ]
             }
       ]
@@ -2092,230 +1012,10 @@ export const montenegroLandmarksV2: POI[] = [
   },
   {
     id: "montenegro-biljarda-museum-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Cetinjski Manastir",
-                  "text": "Wichtiges serbisch-orthodoxes Kloster und Zentrum der montenegrinischen Geschichte.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
-            {
-                  "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Nationalmuseum im ehemaligen Regierungsgebäude, das montenegrinische königliche Artefakte zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
-                  "name": "Muzej Kralja Nikole",
-                  "text": "Ehemaliger Königspalast mit Exponaten aus der Zeit der montenegrinischen Monarchie.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "Historische Residenz von Peter II. Petrović-Njegoš, heute ein Museum.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
-            {
-                  "name": "Königliches Theater Zetski Dom",
-                  "text": "Königliches Theater Zetski Dom in Cetinje nahe dem Biljarda-Museum, erbaut 1888.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
-                  ]
-            },
-            {
-                  "name": "Ljetnja pozornica",
-                  "text": "Freilichtbühne für saisonale kulturelle Aufführungen und Veranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cetinjski Manastir",
-                  "text": "Fontos szerb ortodox kolostor és a montenegrói történelem központja.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
-            {
-                  "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Nemzeti múzeum a volt kormányzati épületben, montenegrói királyi tárgyakkal.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
-                  "name": "Muzej Kralja Nikole",
-                  "text": "Egykori királyi palota, amely a montenegrói monarchia emlékeit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "II. Péter Petrović-Njegoš történelmi rezidenciája, ma múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
-            {
-                  "name": "Kraljevsko Pozorište Zetski Dom",
-                  "text": "Zetski Dom Királyi Színház Cetinjében a Biljarda Múzeum közelében, 1888-ban épült.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
-                  ]
-            },
-            {
-                  "name": "Ljetnja pozornica",
-                  "text": "Szabadtéri helyszín szezonális kulturális előadások és események számára.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Cetinjski Manastir",
-                  "text": "Mănăstire ortodoxă sârbă importantă și centru al istoriei muntenegrene.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
-            {
-                  "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Muzeul Național găzduit în fosta Casă de Guvern, care expune artefacte regale muntenegrene.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
-                  "name": "Muzej Kralja Nikole",
-                  "text": "Fost palat regal care expune obiecte din perioada monarhiei muntenegrene.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "Reședința istorică a lui Petru al II-lea Petrović-Njegoš, astăzi muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
-            {
-                  "name": "Kraljevsko Pozorište Zetski Dom",
-                  "text": "Teatrul Regal Zetski Dom în Cetinje, lângă Muzeul Biljarda, construit în 1888.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
-                  ]
-            },
-            {
-                  "name": "Ljetnja pozornica",
-                  "text": "Scenă în aer liber pentru spectacole și evenimente culturale sezoniere.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cetinje Monastery",
-                  "text": "Important Serbian Orthodox monastery and center of Montenegrin history.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
-            {
-                  "name": "Government House - National Museum of Montenegro",
-                  "text": "National museum housed in the former Government House, displaying Montenegrin royal artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
-                  "name": "Museum of King Nikola I Petrović",
-                  "text": "Former royal palace showcasing artifacts from the Montenegrin monarchy.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "Historic residence of Peter II Petrović-Njegoš, now a museum.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
-            {
-                  "name": "Royal Theatre Zetski Dom",
-                  "text": "Royal Theatre Zetski Dom in Cetinje, near Biljarda Museum, built in 1888.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
-                  ]
-            },
-            {
-                  "name": "Summer stage",
-                  "text": "Open-air venue for seasonal cultural performances and events.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "museum",
     parent: "ME",
@@ -2625,120 +1325,12 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pržno",
-                  "text": "Ein malerischer kleiner Strand in einer Bucht unweit der Insel Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.892491,
-                        42.268696
-                  ]
-            },
-            {
-                  "name": "Laguna beach",
-                  "text": "Ein malerischer Strand auf der Insel Sveti Stefan an der Adriaküste.",
-                  "category": "recreational",
-                  "coords": [
-                        18.850115,
-                        42.26932
-                  ]
-            },
-            {
                   "name": "Sveti Stefan",
                   "text": "Ein berühmter Sandstrand mit herrlichem Blick auf das ikonische befestigte Dorf Sveti Stefan.",
                   "category": "recreational",
                   "coords": [
                         18.894699,
                         42.255383
-                  ]
-            },
-            {
-                  "name": "Drobni pijesak",
-                  "text": "Ein abgelegener Strand, bekannt für seinen feinen Sand und das klare Wasser in der Nähe von Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.902366,
-                        42.234524
-                  ]
-            },
-            {
-                  "name": "Kamenovo",
-                  "text": "Ein beliebter Badestrand mit türkisfarbenem Wasser an der Riviera von Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.886945,
-                        42.275283
-                  ]
-            },
-            {
-                  "name": "Kraljichina plazha",
-                  "text": "Ein exklusiver Strand, benannt nach Königin Marija Karađorđević, bekannt für seine landschaftliche Schönheit.",
-                  "category": "recreational",
-                  "coords": [
-                        18.89242,
-                        42.26337
-                  ]
-            },
-            {
-                  "name": "Aqua Park Mediteran",
-                  "text": "Ein moderner Wasserpark mit verschiedenen Rutschen und Pools für Familienunterhaltung.",
-                  "category": "recreational",
-                  "coords": [
-                        18.864324,
-                        42.283247
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Ein Strandresort mit Unterkünften auf der Insel Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "Ein hoteleigener Pool auf der ikonischen Insel Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Ein Club mit Infinity-Pool und Aussicht von der Insel Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "Plaža Miločer",
-                  "text": "Ein bekannter Strandabschnitt in der Nähe der historischen Insel Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.893254,
-                        42.260645
-                  ]
-            },
-            {
-                  "name": "Plaža Hawaii (5A)",
-                  "text": "Ein als Hawaii bekannter Strandabschnitt in der Nähe von Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846258,
-                        42.270918
-                  ]
-            },
-            {
-                  "name": "Plaža Hawaii (5A-2)",
-                  "text": "Ein Abschnitt des Hawaii-Strandresorts in der Nähe der Insel Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846718,
-                        42.269745
                   ]
             }
       ],
@@ -2762,120 +1354,12 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pržno",
-                  "text": "Gleccseres vizű, festői kis strand egy öbölben, nem messze Sveti Stefan szigetétől.",
-                  "category": "recreational",
-                  "coords": [
-                        18.892491,
-                        42.268696
-                  ]
-            },
-            {
-                  "name": "Laguna beach",
-                  "text": "Gesztenyékkel és fenyőkkel övezett festői tengerparti szakasz Sveti Stefan szigetén.",
-                  "category": "recreational",
-                  "coords": [
-                        18.850115,
-                        42.26932
-                  ]
-            },
-            {
                   "name": "Sveti Stefan",
                   "text": "Híres homokos tengerpart, amely gyönyörű kilátást nyújt Sveti Stefan ikonikus erődített falujára.",
                   "category": "recreational",
                   "coords": [
                         18.894699,
                         42.255383
-                  ]
-            },
-            {
-                  "name": "Drobni pijesak",
-                  "text": "Eldugott tengerpart Sveti Stefan közelében, amely finom homokjáról és tiszta vizéről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        18.902366,
-                        42.234524
-                  ]
-            },
-            {
-                  "name": "Kamenovo",
-                  "text": "Népszerű strandürkiszkék vízzel a Budvai Riviéra mentén.",
-                  "category": "recreational",
-                  "coords": [
-                        18.886945,
-                        42.275283
-                  ]
-            },
-            {
-                  "name": "Kraljichina plazha",
-                  "text": "Exkluzív tengerpart, amely Marija Karađorđević királynéról kapta a nevét és természeti szépségéről híres.",
-                  "category": "recreational",
-                  "coords": [
-                        18.89242,
-                        42.26337
-                  ]
-            },
-            {
-                  "name": "Aqua Park Mediteran",
-                  "text": "Modern vízi vidámpark különféle csúszdákkal és medencékkel a családi kikapcsolódáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        18.864324,
-                        42.283247
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Tengerparti üdülőhely szálláslehetőséggel Sveti Stefan szigetén.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "Egy szállodai úszómedence az ikonikus Sveti Stefan-szigeten.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Egy feszített víztükrű medencével rendelkező klub Sveti Stefan szigetén.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "Plaža Miločer",
-                  "text": "Híres tengerparti üdülőhely a történelmi Sveti Stefan-sziget közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.893254,
-                        42.260645
-                  ]
-            },
-            {
-                  "name": "Plaža Hawaii (5A)",
-                  "text": "A Sveti Stefan közelében található, Hawaii néven ismert tengerparti rész.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846258,
-                        42.270918
-                  ]
-            },
-            {
-                  "name": "Plaža Hawaii (5A-2)",
-                  "text": "A Hawaii strandüdülő egy szakasza Sveti Stefan szigete közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846718,
-                        42.269745
                   ]
             }
       ],
@@ -2899,120 +1383,12 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pržno",
-                  "text": "O plajă mică și pitorească situată într-un golf, nu departe de insula Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.892491,
-                        42.268696
-                  ]
-            },
-            {
-                  "name": "Laguna beach",
-                  "text": "O plajă pitorească situată pe insula Sveti Stefan, la Marea Adriatică.",
-                  "category": "recreational",
-                  "coords": [
-                        18.850115,
-                        42.26932
-                  ]
-            },
-            {
                   "name": "Sveti Stefan",
                   "text": "O plajă faimoasă cu nisip, ce oferă o vedere spectaculoasă asupra satului fortificat Sveti Stefan.",
                   "category": "recreational",
                   "coords": [
                         18.894699,
                         42.255383
-                  ]
-            },
-            {
-                  "name": "Drobni pijesak",
-                  "text": "O plajă retrasă, cunoscută pentru nisipul fin și apele limpezi din apropiere de Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.902366,
-                        42.234524
-                  ]
-            },
-            {
-                  "name": "Kamenovo",
-                  "text": "O plajă populară cu ape turcoaz, situată de-a lungul Rivierei Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.886945,
-                        42.275283
-                  ]
-            },
-            {
-                  "name": "Plaja reginei",
-                  "text": "O plajă exclusivistă numită după Regina Marija Karađorđević, cunoscută pentru frumusețea sa naturală.",
-                  "category": "recreational",
-                  "coords": [
-                        18.89242,
-                        42.26337
-                  ]
-            },
-            {
-                  "name": "Aqua Park Mediteran",
-                  "text": "Un parc acvatic modern cu diverse tobogane și piscine pentru distracția întregii familii.",
-                  "category": "recreational",
-                  "coords": [
-                        18.864324,
-                        42.283247
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "O stațiune de plajă care oferă cazare pe insula Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "O piscină de hotel pe emblematica insulă Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Un club cu piscină infinită care oferă priveliști de pe insula Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "Plaža Miločer",
-                  "text": "O zonă renumită de stațiune de plajă lângă istorica insulă Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.893254,
-                        42.260645
-                  ]
-            },
-            {
-                  "name": "Plaža Hawaii (5A)",
-                  "text": "O zonă de stațiune de plajă cunoscută popular sub numele de Hawaii, lângă Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846258,
-                        42.270918
-                  ]
-            },
-            {
-                  "name": "Plaža Hawaii (5A-2)",
-                  "text": "O secțiune a stațiunii de plajă Hawaii, lângă insula Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846718,
-                        42.269745
                   ]
             }
       ],
@@ -3036,120 +1412,12 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pržno",
-                  "text": "A picturesque small beach located in a cove not far from Sveti Stefan island.",
-                  "category": "recreational",
-                  "coords": [
-                        18.892491,
-                        42.268696
-                  ]
-            },
-            {
-                  "name": "Laguna beach",
-                  "text": "A picturesque beach located on the Sveti Stefan Island along the Adriatic coast.",
-                  "category": "recreational",
-                  "coords": [
-                        18.850115,
-                        42.26932
-                  ]
-            },
-            {
                   "name": "Sveti Stefan",
                   "text": "A famous sandy beach offering beautiful views of the iconic fortified village of Sveti Stefan.",
                   "category": "recreational",
                   "coords": [
                         18.894699,
                         42.255383
-                  ]
-            },
-            {
-                  "name": "Drobni pijesak",
-                  "text": "A secluded beach known for its fine sand and clear waters near Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.902366,
-                        42.234524
-                  ]
-            },
-            {
-                  "name": "Kamenovo",
-                  "text": "A popular beach with turquoise waters located along the Budva Riviera.",
-                  "category": "recreational",
-                  "coords": [
-                        18.886945,
-                        42.275283
-                  ]
-            },
-            {
-                  "name": "Queen's beach",
-                  "text": "An exclusive beach named after Queen Marija Karađorđević, known for its scenic beauty.",
-                  "category": "recreational",
-                  "coords": [
-                        18.89242,
-                        42.26337
-                  ]
-            },
-            {
-                  "name": "Aqua Park Mediteran",
-                  "text": "A modern water park featuring various slides and pools for family entertainment.",
-                  "category": "recreational",
-                  "coords": [
-                        18.864324,
-                        42.283247
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "A beach resort providing accommodation on Sveti Stefan Island.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "A swimming pool belonging to a hotel on the iconic Sveti Stefan Island.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "An infinity pool club offering views from Sveti Stefan Island.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "Plaža Miločer",
-                  "text": "A renowned beach resort area near the historic Sveti Stefan Island.",
-                  "category": "recreational",
-                  "coords": [
-                        18.893254,
-                        42.260645
-                  ]
-            },
-            {
-                  "name": "Plaža Hawaii (5A)",
-                  "text": "A beach resort area popularly known as Hawaii near Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846258,
-                        42.270918
-                  ]
-            },
-            {
-                  "name": "Plaža Hawaii (5A-2)",
-                  "text": "A section of the Hawaii beach resort near the island of Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846718,
-                        42.269745
                   ]
             }
       ]
@@ -3210,51 +1478,6 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Manastir Reževići",
-                  "text": "Ein bedeutendes montenegrinisches Kloster mit historischen Fresken.",
-                  "category": "religious",
-                  "coords": [
-                        18.924126,
-                        42.215215
-                  ]
-            },
-            {
-                  "name": "Castello",
-                  "text": "Eine venezianische Festung am Ufer von Petrovac.",
-                  "category": "castle",
-                  "coords": [
-                        18.937252,
-                        42.20511
-                  ]
-            },
-            {
-                  "name": "Spomen dom Crvena komuna",
-                  "text": "Ein Denkmal an die Rote Kommune von 1919 in Petrovac.",
-                  "category": "museum",
-                  "coords": [
-                        18.940832,
-                        42.205943
-                  ]
-            },
-            {
-                  "name": "Remains of Roman villa",
-                  "text": "Rest einer römischen Villa aus dem 1. Jahrhundert in Petrovac.",
-                  "category": "historical",
-                  "coords": [
-                        18.939692,
-                        42.208554
-                  ]
-            },
-            {
-                  "name": "Plaža Perazića Do",
-                  "text": "Wiederholung: Strand in der Bucht Perazića Do bei Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.924186,
-                        42.212106
-                  ]
-            },
-            {
                   "name": "Buljarica",
                   "text": "Der Strand von Buljarica, ein langer Sandstrand bei Petrovac.",
                   "category": "recreational",
@@ -3280,15 +1503,6 @@ export const montenegroLandmarksV2: POI[] = [
                         18.950787,
                         42.200496
                   ]
-            },
-            {
-                  "name": "Light Land Family Recreation Park",
-                  "text": "Wiederholung: Familien-Freizeitpark Light Land in Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.995831,
-                        42.216188
-                  ]
             }
       ],
       "hu": [
@@ -3299,51 +1513,6 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.96385,
                         42.202242
-                  ]
-            },
-            {
-                  "name": "Manastir Reževići",
-                  "text": "Jelentős montenegrói kolostor történelmi freskókkal.",
-                  "category": "religious",
-                  "coords": [
-                        18.924126,
-                        42.215215
-                  ]
-            },
-            {
-                  "name": "Castello",
-                  "text": "Velencei erőd Petrovac tengerpartján.",
-                  "category": "castle",
-                  "coords": [
-                        18.937252,
-                        42.20511
-                  ]
-            },
-            {
-                  "name": "Spomen dom Crvena komuna",
-                  "text": "Az 1919-es Vörös Kommuna emlékműve Petrovacban.",
-                  "category": "museum",
-                  "coords": [
-                        18.940832,
-                        42.205943
-                  ]
-            },
-            {
-                  "name": "Remains of Roman villa",
-                  "text": "Egy 1. századi római villa maradványai Petrovacban.",
-                  "category": "historical",
-                  "coords": [
-                        18.939692,
-                        42.208554
-                  ]
-            },
-            {
-                  "name": "Plaža Perazića Do",
-                  "text": "Ismétlés: Strand a Perazića Do-öbölben Petrovac mellett.",
-                  "category": "recreational",
-                  "coords": [
-                        18.924186,
-                        42.212106
                   ]
             },
             {
@@ -3372,15 +1541,6 @@ export const montenegroLandmarksV2: POI[] = [
                         18.950787,
                         42.200496
                   ]
-            },
-            {
-                  "name": "Light Land Family Recreation Park",
-                  "text": "Ismétlés: Light Land családi szabadidőpark Petrovacban.",
-                  "category": "recreational",
-                  "coords": [
-                        18.995831,
-                        42.216188
-                  ]
             }
       ],
       "ro": [
@@ -3391,51 +1551,6 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.96385,
                         42.202242
-                  ]
-            },
-            {
-                  "name": "Manastir Reževići",
-                  "text": "O mănăstire importantă din Muntenegru, cu fresce istorice.",
-                  "category": "religious",
-                  "coords": [
-                        18.924126,
-                        42.215215
-                  ]
-            },
-            {
-                  "name": "Castello",
-                  "text": "O fortăreață venețiană pe malul mării în Petrovac.",
-                  "category": "castle",
-                  "coords": [
-                        18.937252,
-                        42.20511
-                  ]
-            },
-            {
-                  "name": "Spomen dom Crvena komuna",
-                  "text": "Un memorial al Comunei Roșii din 1919 în Petrovac.",
-                  "category": "museum",
-                  "coords": [
-                        18.940832,
-                        42.205943
-                  ]
-            },
-            {
-                  "name": "Remains of Roman villa",
-                  "text": "Vestigiile unei vile romane din secolul I în Petrovac.",
-                  "category": "historical",
-                  "coords": [
-                        18.939692,
-                        42.208554
-                  ]
-            },
-            {
-                  "name": "Plaža Perazića Do",
-                  "text": "Repetare: plajă în golful Perazića Do lângă Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.924186,
-                        42.212106
                   ]
             },
             {
@@ -3464,15 +1579,6 @@ export const montenegroLandmarksV2: POI[] = [
                         18.950787,
                         42.200496
                   ]
-            },
-            {
-                  "name": "Light Land Family Recreation Park",
-                  "text": "Repetare: parcul de agrement Light Land pentru familii în Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.995831,
-                        42.216188
-                  ]
             }
       ],
       "en": [
@@ -3483,51 +1589,6 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.96385,
                         42.202242
-                  ]
-            },
-            {
-                  "name": "Manastir Reževići",
-                  "text": "An important Montenegrin monastery featuring historical frescoes.",
-                  "category": "religious",
-                  "coords": [
-                        18.924126,
-                        42.215215
-                  ]
-            },
-            {
-                  "name": "Castello",
-                  "text": "A Venetian fortress located on the waterfront of Petrovac.",
-                  "category": "castle",
-                  "coords": [
-                        18.937252,
-                        42.20511
-                  ]
-            },
-            {
-                  "name": "The Red Commune Memorial",
-                  "text": "A memorial to the Red Commune of 1919 in Petrovac.",
-                  "category": "museum",
-                  "coords": [
-                        18.940832,
-                        42.205943
-                  ]
-            },
-            {
-                  "name": "Remains of Roman villa",
-                  "text": "Remains of a 1st-century Roman villa in Petrovac.",
-                  "category": "historical",
-                  "coords": [
-                        18.939692,
-                        42.208554
-                  ]
-            },
-            {
-                  "name": "Plaža Perazića Do",
-                  "text": "Repeat: beach in Perazića Do cove near Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.924186,
-                        42.212106
                   ]
             },
             {
@@ -3555,15 +1616,6 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.950787,
                         42.200496
-                  ]
-            },
-            {
-                  "name": "Light Land Family Recreation Park",
-                  "text": "Repeat: Light Land family recreation park in Petrovac.",
-                  "category": "recreational",
-                  "coords": [
-                        18.995831,
-                        42.216188
                   ]
             }
       ]
@@ -3840,42 +1892,6 @@ export const montenegroLandmarksV2: POI[] = [
     id: "montenegro-cetinje-king-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Cetinjski Manastir",
-                  "text": "Dieses bedeutende serbisch-orthodoxe Kloster ist ein geistiges und historisches Zentrum in Cetinje.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
-            {
-                  "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Der ehemalige Regierungssitz beherbergt heute die historischen Sammlungen des Nationalmuseums von Montenegro.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
-                  "name": "Muzej Kralja Nikole",
-                  "text": "Das im ehemaligen Königspalast untergebrachte Museum widmet sich dem Leben von König Nikola I.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "Die ehemalige Residenz von Petar II. Petrović-Njegoš ist heute ein Museum in Cetinje.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
-            {
                   "name": "Königliches Theater Zetski Dom",
                   "text": "Ein historisches königliches Theater in Cetinje, das als Zentrum der montenegrinischen Schauspielkunst gilt.",
                   "category": "cultural",
@@ -3883,54 +1899,9 @@ export const montenegroLandmarksV2: POI[] = [
                         18.926905,
                         42.388632
                   ]
-            },
-            {
-                  "name": "Ljetnja pozornica",
-                  "text": "Eine Freiluftbühne in Cetinje, auf der im Sommer kulturelle Veranstaltungen und Konzerte stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Cetinjski Manastir",
-                  "text": "Ez a jelentős szerb ortodox kolostor Cetinje szellemi és történelmi központja.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
-            {
-                  "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Az egykori kormányzati épület ma Montenegró Nemzeti Múzeumának történelmi gyűjteményeinek ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
-                  "name": "Muzej Kralja Nikole",
-                  "text": "Az egykori királyi palotában berendezett múzeum I. Miklós király életének állít emléket.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "II. Petar Petrović-Njegoš egykori rezidenciája ma múzeumként működik Cetinjében.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
             {
                   "name": "Kraljevsko Pozorište Zetski Dom",
                   "text": "Cetinje történelmi királyi színháza, amely a montenegrói színjátszás központja.",
@@ -3939,54 +1910,9 @@ export const montenegroLandmarksV2: POI[] = [
                         18.926905,
                         42.388632
                   ]
-            },
-            {
-                  "name": "Ljetnja pozornica",
-                  "text": "Cetinjei szabadtéri színpad, amely nyaranta kulturális eseményeknek és koncerteknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Cetinjski Manastir",
-                  "text": "Această mănăstire ortodoxă sârbă importantă este un centru spiritual și istoric din Cetinje.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
-            {
-                  "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Fosta reședință a guvernului găzduiește astăzi colecțiile istorice ale Muzeului Național al Muntenegrului.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
-                  "name": "Muzej Kralja Nikole",
-                  "text": "Găzduit în fostul palat regal, muzeul este dedicat vieții regelui Nikola I.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "Fosta reședință a lui Petar al II-lea Petrović-Njegoš este astăzi un muzeu în Cetinje.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
             {
                   "name": "Kraljevsko Pozorište Zetski Dom",
                   "text": "Un teatru regal istoric din Cetinje, considerat centrul artei dramatice muntenegrene.",
@@ -3995,54 +1921,9 @@ export const montenegroLandmarksV2: POI[] = [
                         18.926905,
                         42.388632
                   ]
-            },
-            {
-                  "name": "Ljetnja pozornica",
-                  "text": "O scenă de vară în aer liber din Cetinje, care găzduiește evenimente culturale și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Cetinje Monastery",
-                  "text": "This important Serbian Orthodox monastery is a spiritual and historical center in Cetinje.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
-            {
-                  "name": "Government House - National Museum of Montenegro",
-                  "text": "The former seat of government now houses the historical collections of the National Museum of Montenegro.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
-                  "name": "Museum of King Nikola I Petrović",
-                  "text": "Housed in the former royal palace, this museum is dedicated to the life of King Nikola I.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "The former residence of Petar II Petrović-Njegoš is now a museum in Cetinje.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
             {
                   "name": "Royal Theatre Zetski Dom",
                   "text": "A historic royal theatre in Cetinje, considered the center of Montenegrin dramatic arts.",
@@ -4050,15 +1931,6 @@ export const montenegroLandmarksV2: POI[] = [
                   "coords": [
                         18.926905,
                         42.388632
-                  ]
-            },
-            {
-                  "name": "Summer stage",
-                  "text": "An outdoor stage in Cetinje used for cultural events and concerts during the summer.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
                   ]
             }
       ]
@@ -4182,24 +2054,6 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Podlastva",
-                  "text": "Ein serbisch-orthodoxes Kloster in der Nähe von Budva mit einer langen Geschichte und Fresken.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Tvrđava Stari grad",
-                  "text": "Das historische Zentrum von Budva ist von mittelalterlichen Mauern umgeben und für seine engen Gassen bekannt.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
                   "name": "Mogren",
                   "text": "Ein malerischer Strand in der Nähe der Altstadt von Budva, der aus zwei durch einen Tunnel verbundenen Abschnitten besteht.",
                   "category": "recreational",
@@ -4209,66 +2063,12 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Citadela",
-                  "text": "Diese Festung im Herzen der Altstadt von Budva bietet einen weiten Blick auf die Adria.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
-                  "name": "Strand Slovenska plaža",
-                  "text": "Der längste und beliebteste Strand in Budva, gesäumt von einer lebhaften Promenade.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
-                  ]
-            },
-            {
                   "name": "Malaya Beach Club",
                   "text": "Strandclub mit Liegen und Bar, direkt neben dem Budva-Ballett-Wahrzeichen.",
                   "category": "recreational",
                   "coords": [
                         18.814646,
                         42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Ein Resort am Meer in Budva, nahe dem Wahrzeichen der tanzenden Ballerina.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "Ein Hotelpool in Budva in der Nähe der Küstenpromenade.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Ein Infinity-Pool-Club in Budva mit Panoramablick auf die Bucht.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Kleine Kieselbucht in der Nähe des Budva-Ballett-Wahrzeichens.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
                   ]
             },
             {
@@ -4310,24 +2110,6 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Podlastva",
-                  "text": "Szerb ortodox kolostor Budva közelében, hosszú történelemmel és freskókkal.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Tvrđava Stari grad",
-                  "text": "Budva történelmi központját középkori falak veszik körül, és szűk utcáiról ismert.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
                   "name": "Mogren 1",
                   "text": "Festői strand Budva óvárosának közelében, amely két, alagúttal összekötött részből áll.",
                   "category": "recreational",
@@ -4337,66 +2119,12 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Citadela",
-                  "text": "Ez a Budva óvárosának szívében található erődítmény széles kilátást nyújt az Adriai-tengerre.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
-                  "name": "Slovenska plaža",
-                  "text": "Budva leghosszabb és legnépszerűbb strandja, amelyet élénk sétány szegélyez.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
-                  ]
-            },
-            {
                   "name": "Malaya Beach Club",
                   "text": "Strandklub napozóágyakkal és bárral, közvetlenül a Budvai Balett nevezetesség mellett.",
                   "category": "recreational",
                   "coords": [
                         18.814646,
                         42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Tengerparti üdülő Budvában, a táncoló balerina szobor közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "Szállodai medence Budvában, a tengerparti sétány közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Infinity medenceklub Budvában, panorámás kilátással az öbölre.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Kis kavicsos öböl a Budvai Balett nevezetesség közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
                   ]
             },
             {
@@ -4438,24 +2166,6 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Podlastva",
-                  "text": "O mănăstire ortodoxă sârbă de lângă Budva, cu o istorie lungă și fresce.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Tvrđava Stari grad",
-                  "text": "Centrul istoric al Budvei este înconjurat de ziduri medievale și este cunoscut pentru străzile sale înguste.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
                   "name": "Mogren 1",
                   "text": "O plajă pitorească lângă centrul vechi al Budvei, formată din două secțiuni conectate printr-un tunel.",
                   "category": "recreational",
@@ -4465,66 +2175,12 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Citadela",
-                  "text": "Această fortăreață din inima centrului vechi al Budvei oferă o vedere largă asupra Mării Adriatice.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
-                  "name": "Slovenska plaža",
-                  "text": "Cea mai lungă și populară plajă din Budva, mărginită de o promenadă plină de viață.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
-                  ]
-            },
-            {
                   "name": "Malaya Beach Club",
                   "text": "Club de plajă cu șezlonguri și bar, lângă reperul baletului din Budva.",
                   "category": "recreational",
                   "coords": [
                         18.814646,
                         42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "O stațiune la mare în Budva, lângă simbolul balerinei care dansează.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "O piscină de hotel în Budva, situată în apropierea falezii.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Un club cu piscină infinită în Budva, cu vedere panoramică asupra golfului.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Mică plajă cu pietriș într-un golf aproape de reperul baletului din Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
                   ]
             },
             {
@@ -4566,24 +2222,6 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Podlastva",
-                  "text": "A Serbian Orthodox monastery near Budva with a long history and frescoes.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Old Town Budva",
-                  "text": "The historical center of Budva is surrounded by medieval walls and is known for its narrow streets.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
                   "name": "Mogren",
                   "text": "A picturesque beach near Budva's old town, consisting of two sections connected by a tunnel.",
                   "category": "recreational",
@@ -4593,66 +2231,12 @@ export const montenegroLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Citadela",
-                  "text": "This fortress in the heart of Budva's old town offers a broad view of the Adriatic Sea.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
-                  "name": "Slovenska Beach",
-                  "text": "The longest and most popular beach in Budva, lined with a lively promenade.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
-                  ]
-            },
-            {
                   "name": "Malaya Beach Club",
                   "text": "Beach club with loungers and a bar, situated next to the Budva ballet landmark.",
                   "category": "recreational",
                   "coords": [
                         18.814646,
                         42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "A seaside resort in Budva, close to the dancing ballerina landmark.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "A hotel swimming pool in Budva located near the coastal promenade.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "An infinity pool club in Budva offering panoramic views of the bay.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Small pebble beach in a cove near the Budva ballet landmark.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
                   ]
             },
             {
@@ -5359,446 +2943,10 @@ export const montenegroLandmarksV2: POI[] = [
   },
   {
     id: "montenegro-budva-church-tri-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Mogren 1",
-                  "text": "Sandstrand unterhalb von Klippen nahe der Altstadt von Budva, beliebt zum Sonnenbaden.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832388,
-                        42.276986
-                  ]
-            },
-            {
-                  "name": "Podlastva",
-                  "text": "Ein serbisch-orthodoxes Kloster in der Nähe von Budva mit reicher religiöser Tradition.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Tvrđava Stari grad",
-                  "text": "Das historische Zentrum von Budva, umgeben von venezianischen Stadtmauern.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "Ein bekannter Sandstrand bei Budva, der oft für Musikfestivals genutzt wird.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
-                  "name": "Citadela",
-                  "text": "Historische Festung in der Altstadt von Budva mit Panoramablick auf das Adriatische Meer.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
-                  "name": "Strand Slovenska plaža",
-                  "text": "Ein beliebter und langer Kieselstrand in der Küstenstadt Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Ein Strandclub an der Küste in der Nähe der Dreifaltigkeitskirche in Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Eine Küsteneinrichtung mit Strandannehmlichkeiten in der Nähe der Dreifaltigkeitskirche.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "Ein Freizeitschwimmbecken in der Nähe der Altstadt von Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Eine stilvolle Poolanlage in der Nähe des historischen Zentrums von Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Ein öffentlicher Schwimmbereich oder Pool direkt an der Stadtmauer von Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "Ein großer Wasserpark mit Unterhaltungsangeboten und Wasserrutschen in Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mogren 1",
-                  "text": "Homokos strand a sziklák alatt Budva óvárosa közelében, népszerű napozásra.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832388,
-                        42.276986
-                  ]
-            },
-            {
-                  "name": "Podlastva",
-                  "text": "Szerb ortodox kolostor Budva közelében, gazdag vallási hagyományokkal.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Tvrđava Stari grad",
-                  "text": "Budva történelmi központja, amelyet velencei városfalak vesznek körül.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "Ismert homokos strand Budva közelében, amely gyakran ad otthont zenei fesztiváloknak.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
-                  "name": "Citadela",
-                  "text": "Történelmi erődítmény Budva óvárosában, panorámás kilátással az Adriai-tengerre.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
-                  "name": "Slovenska plaža",
-                  "text": "Népszerű és hosszú kavicsos strand Budva tengerparti városában.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Strandklub a tengerparton, a budvai Szentháromság-templom közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Tengerparti létesítmény strand kényelmi szolgáltatásokkal a Szentháromság-templom közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "Rekreációs úszómedence Budva óvárosának közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Stílusos medence létesítmény Budva történelmi központja közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Közösségi fürdőhely vagy medence Budva városfalai mellett.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "Nagy vízi park szórakozási lehetőségekkel és csúszdákkal Budvában.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Mogren 1",
-                  "text": "Plajă nisipoasă sub stânci lângă orașul vechi Budva, populară pentru plajă.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832388,
-                        42.276986
-                  ]
-            },
-            {
-                  "name": "Podlastva",
-                  "text": "O mănăstire ortodoxă sârbă de lângă Budva, cu o bogată tradiție religioasă.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Tvrđava Stari grad",
-                  "text": "Centrul istoric al orașului Budva, înconjurat de ziduri venețiene.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "O plajă de nisip populară lângă Budva, utilizată frecvent pentru festivaluri de muzică.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
-                  "name": "Citadela",
-                  "text": "Cetate istorică în orașul vechi din Budva, oferind vederi panoramice ale Mării Adriatice.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
-                  "name": "Slovenska plaža",
-                  "text": "O plajă lungă și populară de pietriș situată în orașul de coastă Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Un club de plajă situat lângă biserica istorică Sfânta Treime din Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "O unitate de coastă care oferă facilități de plajă lângă Biserica Sfânta Treime.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "O piscină recreativă situată lângă zona centrului vechi din Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "O piscină elegantă situată lângă centrul istoric al orașului Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "O zonă de înot publică sau piscină situată lângă zidurile orașului Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "Un parc acvatic mare care oferă divertisment și tobogane cu apă în Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mogren 1",
-                  "text": "Sandy beach below cliffs near Budva's old town, popular for sunbathing.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832388,
-                        42.276986
-                  ]
-            },
-            {
-                  "name": "Podlastva",
-                  "text": "A Serbian Orthodox monastery near Budva with a rich religious tradition.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Old Town Budva",
-                  "text": "The historic medieval center of Budva, enclosed by Venetian city walls.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "A popular sandy beach near Budva, often used as a venue for music festivals.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
-                  "name": "Citadela",
-                  "text": "Historic fortress in the old town of Budva with panoramic views of the Adriatic Sea.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
-                  "name": "Slovenska Beach",
-                  "text": "A popular and long pebble beach located in the coastal town of Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "A beach club located along the coast near the Church of the Holy Trinity in Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "A coastal establishment offering beach amenities near the Church of the Holy Trinity.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "A recreational swimming pool situated near the old town area of Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "A stylish pool facility located near the historical center of Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "A public swimming area or pool located by the city walls of Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "A large water park providing entertainment and water slides in Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "church",
     parent: "ME",
@@ -5845,230 +2993,10 @@ export const montenegroLandmarksV2: POI[] = [
   },
   {
     id: "montenegro-cetinje-vladika-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Cetinjski Manastir",
-                  "text": "Ein bedeutendes serbisch-orthodoxes Kloster und Kulturzentrum in Cetinje.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
-            {
-                  "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Der ehemalige Regierungssitz, der heute das Nationalmuseum von Montenegro beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
-                  "name": "Muzej Kralja Nikole",
-                  "text": "Der ehemalige Königspalast von König Nikola I., heute ein historisches Museum.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "Ein historisches Gebäude und Museum, das als Residenz von Njegoš diente.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
-            {
-                  "name": "Königliches Theater Zetski Dom",
-                  "text": "Das historische königliche Theater, das älteste professionelle Theater in Montenegro.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
-                  ]
-            },
-            {
-                  "name": "Ljetnja pozornica",
-                  "text": "Ein Freilichttheater, das für kulturelle Veranstaltungen und Aufführungen in Cetinje genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cetinjski Manastir",
-                  "text": "Jelentős szerb ortodox kolostor és kulturális központ Cetinjében.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
-            {
-                  "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Az egykori kormányzati székhely, amely ma Montenegró Nemzeti Múzeumának ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
-                  "name": "Muzej Kralja Nikole",
-                  "text": "I. Miklós király egykori királyi palotája, ma történelmi múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "Történelmi épület és múzeum, amely Njegoš rezidenciájaként szolgált.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
-            {
-                  "name": "Kraljevsko Pozorište Zetski Dom",
-                  "text": "A történelmi királyi színház, Montenegró legrégebbi professzionális színháza.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
-                  ]
-            },
-            {
-                  "name": "Ljetnja pozornica",
-                  "text": "Kulturális eseményekre és előadásokra használt szabadtéri színpad Cetinjében.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Cetinjski Manastir",
-                  "text": "O mănăstire ortodoxă sârbă proeminentă și un centru cultural în Cetinje.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
-            {
-                  "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Fostul sediu al guvernului, care găzduiește acum Muzeul Național al Muntenegrului.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
-                  "name": "Muzej Kralja Nikole",
-                  "text": "Fostul palat regal al Regelui Nicolae I, acum muzeu istoric.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "O clădire istorică și un muzeu care a servit drept reședință a lui Njegoș.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
-            {
-                  "name": "Kraljevsko Pozorište Zetski Dom",
-                  "text": "Teatrul regal istoric, cel mai vechi teatru profesionist din Muntenegru.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
-                  ]
-            },
-            {
-                  "name": "Ljetnja pozornica",
-                  "text": "Un teatru în aer liber utilizat pentru evenimente culturale și spectacole în Cetinje.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cetinje Monastery",
-                  "text": "A prominent Serbian Orthodox monastery and cultural center in Cetinje.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
-            {
-                  "name": "Government House - National Museum of Montenegro",
-                  "text": "The former seat of government, now housing the National Museum of Montenegro.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
-                  "name": "Museum of King Nikola I Petrović",
-                  "text": "The former royal palace of King Nikola I, now a historical museum.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "A historic building and museum that served as the residence of Njegoš.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
-            {
-                  "name": "Royal Theatre Zetski Dom",
-                  "text": "The historic royal theater, the oldest professional theater in Montenegro.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
-                  ]
-            },
-            {
-                  "name": "Summer stage",
-                  "text": "An open-air theater used for cultural events and performances in Cetinje.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "palace",
     parent: "ME",
@@ -6250,446 +3178,10 @@ export const montenegroLandmarksV2: POI[] = [
   },
   {
     id: "montenegro-budva-st-john-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Podlastva",
-                  "text": "Ein serbisch-orthodoxes Kloster in der Nähe von Budva, gegründet im 14. Jahrhundert.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Tvrđava Stari grad",
-                  "text": "Das befestigte historische Zentrum von Budva mit mittelalterlichen Mauern und engen Gassen.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
-                  "name": "Mogren",
-                  "text": "Ein beliebter Sandstrand in Budva, der aus zwei durch einen Tunnel verbundenen Abschnitten besteht.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832364,
-                        42.277055
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "Ein weitläufiger Strand bei Budva, der für sein klares Wasser und Musikveranstaltungen bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
-                  "name": "Citadela",
-                  "text": "Die historische Zitadelle von Budva bietet Museen, eine Bibliothek und Panoramablicke.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
-                  "name": "Strand Slovenska plaža",
-                  "text": "Der größte Strand von Budva, der sich entlang der Promenade mit zahlreichen Einrichtungen erstreckt.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Ein Strandclub in Küstennähe unweit der Johanneskirche in Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Ein Erholungsbereich am Meer in der Nähe des historischen Stadtkerns.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "Ein Außenpool in der Nähe der Johanneskirche, der zum Entspannen einlädt.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Ein gehobener Pool-Club mit weitem Blick über die Bucht von Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Eine kleine Bucht und Badestelle unterhalb der Festungsmauern.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "Ein weitläufiger Wasserpark auf dem Hügel Topliš über der Stadt.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Podlastva",
-                  "text": "Szerb ortodox kolostor Budva közelében, amelyet a 14. században alapítottak.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Tvrđava Stari grad",
-                  "text": "Budva megerősített történelmi központja középkori falakkal és szűk utcákkal.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
-                  "name": "Mogren 1",
-                  "text": "Népszerű homokos strand Budvában, amely két, alagúttal összekötött szakaszból áll.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832364,
-                        42.277055
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "Budva melletti tágas strand, amely tiszta vizéről és zenei rendezvényeiről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
-                  "name": "Citadela",
-                  "text": "Budva történelmi citadellája múzeumokkal, könyvtárral és panorámás kilátással várja a látogatókat.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
-                  "name": "Slovenska plaža",
-                  "text": "Budva legnagyobb strandja, amely a sétány mentén, számos szolgáltatással terül el.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Tengerparti klub a budvai Szent János-templom közvetlen közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Tengerparti pihenőhely a történelmi városközpont közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "Szabadtéri medence a Szent János-templom közelében, amely kikapcsolódást kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Színvonalas medenceklub széles kilátással a Budvai-öbölre.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Kis öböl és fürdőhely a várfalak tövében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "Kiterjedt aquapark a város feletti Topliš-dombon.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Podlastva",
-                  "text": "O mănăstire ortodoxă sârbă de lângă Budva, fondată în secolul al XIV-lea.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Tvrđava Stari grad",
-                  "text": "Centrul istoric fortificat al Budvei, cu ziduri medievale și străzi înguste.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
-                  "name": "Mogren 1",
-                  "text": "O plajă de nisip populară în Budva, formată din două secțiuni conectate printr-un tunel.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832364,
-                        42.277055
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "O plajă spațioasă lângă Budva, cunoscută pentru apa sa limpede și evenimentele muzicale.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
-                  "name": "Citadela",
-                  "text": "Citadela istorică a Budvei oferă muzee, o bibliotecă și vederi panoramice.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
-                  "name": "Slovenska plaža",
-                  "text": "Cea mai mare plajă din Budva, care se întinde de-a lungul promenadei cu numeroase facilități.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Un club de plajă situat la malul mării, aproape de biserica Sfântul Ioan din Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "O zonă de recreere la malul mării, situată lângă centrul istoric al orașului.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "O piscină în aer liber situată lângă biserica Sfântul Ioan, ideală pentru relaxare.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Un club cu piscină de nivel superior, oferind o vedere panoramică asupra golfului Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Un mic golf și loc pentru scăldat situat la poalele zidurilor cetății.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "Un parc acvatic vast situat pe dealul Topliš, deasupra orașului.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Podlastva",
-                  "text": "A Serbian Orthodox monastery near Budva, founded in the 14th century.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
-                  "name": "Old Town Budva",
-                  "text": "The fortified historic center of Budva, featuring medieval walls and narrow streets.",
-                  "category": "fortress",
-                  "coords": [
-                        18.837957,
-                        42.277989
-                  ]
-            },
-            {
-                  "name": "Mogren",
-                  "text": "A popular sandy beach in Budva consisting of two sections connected by a tunnel.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832364,
-                        42.277055
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "A spacious beach near Budva known for its clear water and music events.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
-                  "name": "Citadela",
-                  "text": "The historic citadel of Budva offers museums, a library, and panoramic views.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
-                  "name": "Slovenska Beach",
-                  "text": "Budva's largest beach, stretching along the promenade with numerous facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        18.848868,
-                        42.284759
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "A beach club located by the sea near the Church of St. John in Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "A seaside recreation area located near the historic city center.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "An outdoor swimming pool located near the Church of St. John, ideal for relaxation.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "A high-end pool club offering wide views over the Bay of Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "A small bay and swimming spot located at the base of the fortress walls.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "A large water park located on Topliš hill overlooking the city.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "church",
     parent: "ME",

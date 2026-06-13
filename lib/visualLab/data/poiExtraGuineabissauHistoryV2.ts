@@ -565,15 +565,6 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Pinto",
-                  "text": "Casa Pinto zeigt die architektonischen Ruinen eines ehemaligen Gebäudes in der Nähe des Gouverneurspalastes von Bolama.",
-                  "category": "historical",
-                  "coords": [
-                        -15.474123,
-                        11.579737
-                  ]
-            },
-            {
                   "name": "Ruinas de casa comercial",
                   "text": "Die Ruinas de casa comercial sind die Überreste eines historischen Geschäftsgebäudes in Bolama.",
                   "category": "historical",
@@ -598,15 +589,6 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
                   "coords": [
                         -15.47541,
                         11.578769
-                  ]
-            },
-            {
-                  "name": "Campo de aviação",
-                  "text": "Campo de aviação zeigt die verlassenen Ruinen eines alten Flugplatzes in Bolama.",
-                  "category": "historical",
-                  "coords": [
-                        -15.478815,
-                        11.586365
                   ]
             },
             {
@@ -648,15 +630,6 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Pinto",
-                  "text": "A Casa Pinto egy egykori épület építészeti romjait mutatja be a bolamai kormányzói palota közelében.",
-                  "category": "historical",
-                  "coords": [
-                        -15.474123,
-                        11.579737
-                  ]
-            },
-            {
                   "name": "Ruinas de casa comercial",
                   "text": "A Ruinas de casa comercial egy történelmi kereskedelmi épület maradványai Bolamában.",
                   "category": "historical",
@@ -681,15 +654,6 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
                   "coords": [
                         -15.47541,
                         11.578769
-                  ]
-            },
-            {
-                  "name": "Campo de aviação",
-                  "text": "A Campo de aviação egy régi repülőtér elhagyatott romjait mutatja be Bolamában.",
-                  "category": "historical",
-                  "coords": [
-                        -15.478815,
-                        11.586365
                   ]
             },
             {
@@ -731,15 +695,6 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Pinto",
-                  "text": "Casa Pinto prezintă ruinele arhitecturale ale unei foste clădiri lângă palatul guvernatorului din Bolama.",
-                  "category": "historical",
-                  "coords": [
-                        -15.474123,
-                        11.579737
-                  ]
-            },
-            {
                   "name": "Ruinas de casa comercial",
                   "text": "Ruinas de casa comercial sunt rămășițele unei clădiri comerciale istorice din Bolama.",
                   "category": "historical",
@@ -764,15 +719,6 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
                   "coords": [
                         -15.47541,
                         11.578769
-                  ]
-            },
-            {
-                  "name": "Campo de aviação",
-                  "text": "Campo de aviação prezintă ruinele abandonate ale unui vechi teren de aviație din Bolama.",
-                  "category": "historical",
-                  "coords": [
-                        -15.478815,
-                        11.586365
                   ]
             },
             {
@@ -814,15 +760,6 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Pinto",
-                  "text": "Casa Pinto features the architectural ruins of a former building near the Bolama governor palace.",
-                  "category": "historical",
-                  "coords": [
-                        -15.474123,
-                        11.579737
-                  ]
-            },
-            {
                   "name": "Ruinas de casa comercial",
                   "text": "Ruinas de casa comercial are the remnants of a historic commercial building in Bolama.",
                   "category": "historical",
@@ -847,15 +784,6 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
                   "coords": [
                         -15.47541,
                         11.578769
-                  ]
-            },
-            {
-                  "name": "Campo de aviação",
-                  "text": "Campo de aviação features the abandoned ruins of an old aviation field in Bolama.",
-                  "category": "historical",
-                  "coords": [
-                        -15.478815,
-                        11.586365
                   ]
             },
             {

@@ -1041,15 +1041,6 @@ export const mauritaniaHistoryV2: POI[] = [
     id: "mauritania-medina-nouakchott-history-v2", "sights": {
       "de": [
             {
-                  "name": "Mini-park",
-                  "text": "Dieser kleine städtische Mini-Park bietet gepflegte Grünflächen mit Bänken als kompakte Erholungsoase in der Medina von Nouakchott.",
-                  "category": "recreational",
-                  "coords": [
-                        -15.993709,
-                        18.105137
-                  ]
-            },
-            {
                   "name": "Zein art galerie",
                   "text": "Die Galerie Zeinart ist ein gut beleuchteter Ausstellungsraum, der zeitgenössische mauretanische Kunstwerke und traditionelles Handwerk an den Wänden präsentiert.",
                   "category": "museum",
@@ -1087,15 +1078,6 @@ export const mauritaniaHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Mini-park",
-                  "text": "Ez a kis városi minipark ápolt zöldterületeket és padokat kínál, mint egy kompakt rekreációs oázis Nouakchott medinájában.",
-                  "category": "recreational",
-                  "coords": [
-                        -15.993709,
-                        18.105137
-                  ]
-            },
             {
                   "name": "Zein art galerie",
                   "text": "A Galerie Zeinart egy jól megvilágított kiállítótér, amely kortárs mauritániai műalkotásokat és hagyományos kézműves termékeket mutat be a falain.",
@@ -1135,15 +1117,6 @@ export const mauritaniaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Mini-park",
-                  "text": "Acest mic mini-parc urban oferă spații verzi îngrijite cu bănci, servind ca o oază compactă de recreere în Medina din Nouakchott.",
-                  "category": "recreational",
-                  "coords": [
-                        -15.993709,
-                        18.105137
-                  ]
-            },
-            {
                   "name": "Zein art galerie",
                   "text": "Galerie Zeinart este un spațiu expozițional bine luminat care prezintă opere de artă mauritane contemporane și meșteșuguri tradiționale pe pereții săi.",
                   "category": "museum",
@@ -1181,15 +1154,6 @@ export const mauritaniaHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Mini-park",
-                  "text": "This small urban mini-park features planted green spaces and benches, providing a compact recreational oasis in the Medina of Nouakchott.",
-                  "category": "recreational",
-                  "coords": [
-                        -15.993709,
-                        18.105137
-                  ]
-            },
             {
                   "name": "Galerie Zeinart",
                   "text": "Galerie Zeinart is a well-lit exhibition space showcasing contemporary Mauritanian artworks and traditional crafts along its walls.",

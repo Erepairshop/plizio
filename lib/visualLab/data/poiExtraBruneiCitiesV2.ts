@@ -4,50 +4,10 @@ import type { POI } from "./poi";
 export const poiExtraBruneiCitiesV2: POI[] = [
   {
     id: "bandar-seri-begawan-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
-                  "text": "Dieser für das silberne Thronjubiläum des Sultans geschaffene, weitläufige Stadtpark bietet üppige Landschaftsgärten, kühlende Brunnen und schattige Gehwege.",
-                  "category": "park",
-                  "coords": [
-                        114.93513,
-                        4.898646
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
-                  "text": "A szultán ezüstjubileumára létrehozott kiterjedt városi park buja parkosított kertekkel, hűsítő szökőkutakkal és árnyékos sétányokkal rendelkezik.",
-                  "category": "park",
-                  "coords": [
-                        114.93513,
-                        4.898646
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
-                  "text": "Creat pentru Jubileul de Argint al Sultanului, acest parc urban extins are grădini peisagistice luxuriante, fântâni răcoroase și alei umbrite.",
-                  "category": "park",
-                  "coords": [
-                        114.93513,
-                        4.898646
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
-                  "text": "Created for the Sultan's Silver Jubilee, this extensive urban park features lush landscaped gardens, cooling fountains, and shaded walkways.",
-                  "category": "park",
-                  "coords": [
-                        114.93513,
-                        4.898646
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "state-capital",
     parent: "BN-BM",
@@ -89,86 +49,10 @@ export const poiExtraBruneiCitiesV2: POI[] = [
   },
   {
     id: "kuala-belait-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Muzium Daerah Belait",
-                  "text": "Belait District Museum, das die Geschichte und Kultur des Distrikts Belait zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        114.191008,
-                        4.58882
-                  ]
-            },
-            {
-                  "name": "Menara Cendera Kenangan",
-                  "text": "Menara Cendera Kenangan, ein historischer Erinnerungsturm in Belait.",
-                  "category": "historical",
-                  "coords": [
-                        114.196534,
-                        4.577424
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Muzium Daerah Belait",
-                  "text": "Belait District Museum, amely a Belait körzet történelmét és kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        114.191008,
-                        4.58882
-                  ]
-            },
-            {
-                  "name": "Menara Cendera Kenangan",
-                  "text": "Menara Cendera Kenangan, egy történelmi emléktorony Belaitben.",
-                  "category": "historical",
-                  "coords": [
-                        114.196534,
-                        4.577424
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Muzium Daerah Belait",
-                  "text": "Muzeul Districtului Belait, care prezintă istoria și cultura districtului Belait.",
-                  "category": "museum",
-                  "coords": [
-                        114.191008,
-                        4.58882
-                  ]
-            },
-            {
-                  "name": "Menara Cendera Kenangan",
-                  "text": "Menara Cendera Kenangan, un turn memorial istoric în Belait.",
-                  "category": "historical",
-                  "coords": [
-                        114.196534,
-                        4.577424
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Belait District Museum",
-                  "text": "Belait District Museum, showcasing the history and culture of Belait District.",
-                  "category": "museum",
-                  "coords": [
-                        114.191008,
-                        4.58882
-                  ]
-            },
-            {
-                  "name": "Menara Cendera Kenangan",
-                  "text": "Menara Cendera Kenangan, a historic memorial tower in Belait.",
-                  "category": "historical",
-                  "coords": [
-                        114.196534,
-                        4.577424
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "BN-BE",
@@ -216,86 +100,10 @@ export const poiExtraBruneiCitiesV2: POI[] = [
   },
   {
     id: "seria-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Billionth Barrel Monument",
-                  "text": "Das Billionth Barrel Monument in Seria erinnert an das milliardste geförderte Barrel Öl des Seria-Ölfelds.",
-                  "category": "historical",
-                  "coords": [
-                        114.317161,
-                        4.616748
-                  ]
-            },
-            {
-                  "name": "OGDC",
-                  "text": "Öl- und Gas-Entdeckungszentrum in Seria mit interaktiven Ausstellungen zur Energieindustrie.",
-                  "category": "landmark",
-                  "coords": [
-                        114.327163,
-                        4.61719
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Billionth Barrel Monument",
-                  "text": "A Seria városában található Billionth Barrel Monument a Seria olajmezőn kitermelt egymilliárdodik hordó olajnak állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        114.317161,
-                        4.616748
-                  ]
-            },
-            {
-                  "name": "OGDC",
-                  "text": "Olaj- és Gáz Felfedező Központ Seriában, interaktív kiállításokkal az energiaiparról.",
-                  "category": "landmark",
-                  "coords": [
-                        114.327163,
-                        4.61719
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Billionth Barrel Monument",
-                  "text": "Billionth Barrel Monument din Seria comemorează al miliardulea baril de petrol extras din zăcământul Seria.",
-                  "category": "historical",
-                  "coords": [
-                        114.317161,
-                        4.616748
-                  ]
-            },
-            {
-                  "name": "OGDC",
-                  "text": "Centru de descoperire a petrolului și gazelor în Seria, cu expoziții interactive despre industria energetică.",
-                  "category": "landmark",
-                  "coords": [
-                        114.327163,
-                        4.61719
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Billionth Barrel Monument",
-                  "text": "The Billionth Barrel Monument in Seria commemorates the billionth barrel of oil produced in the Seria oil field.",
-                  "category": "historical",
-                  "coords": [
-                        114.317161,
-                        4.616748
-                  ]
-            },
-            {
-                  "name": "Oil and Gas Discovery Centre",
-                  "text": "Oil and Gas Discovery Centre in Seria with interactive exhibits on the energy industry.",
-                  "category": "landmark",
-                  "coords": [
-                        114.327163,
-                        4.61719
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "BN-BE",
@@ -345,60 +153,6 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "tutong-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Pantai Penabai",
-                  "text": "Pantai Penabai, ein Sandstrand an der Küste von Tutong.",
-                  "category": "recreational",
-                  "coords": [
-                        114.627073,
-                        4.798217
-                  ]
-            },
-            {
-                  "name": "Sungai Panchor",
-                  "text": "Sungai Panchor, ein Fluss im Distrikt Tutong, umgeben von Regenwald.",
-                  "category": "natural",
-                  "coords": [
-                        114.671746,
-                        4.803267
-                  ]
-            },
-            {
-                  "name": "Sungai Birau",
-                  "text": "Sungai Birau, ein natürlicher Wasserlauf im Tutong-Gebiet.",
-                  "category": "natural",
-                  "coords": [
-                        114.67179,
-                        4.8016
-                  ]
-            },
-            {
-                  "name": "Sungai Bakiau",
-                  "text": "Sungai Bakiau, ein Fluss im Distrikt Tutong, bekannt für seine ruhige Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        114.664132,
-                        4.798093
-                  ]
-            },
-            {
-                  "name": "Lurah Saban",
-                  "text": "Lurah Saban, eine natürliche Senke oder Schlucht im Tutong-Distrikt.",
-                  "category": "natural",
-                  "coords": [
-                        114.668556,
-                        4.799525
-                  ]
-            },
-            {
-                  "name": "Pulau Bakuku",
-                  "text": "Pulau Bakuku, eine kleine Insel vor der Küste von Tutong.",
-                  "category": "natural",
-                  "coords": [
-                        114.626401,
-                        4.787112
-                  ]
-            },
-            {
                   "name": "Taman Seri Warisan Emas",
                   "text": "Taman Seri Warisan Emas, ein historischer Park in Tutong mit Gedenkstätten.",
                   "category": "historical",
@@ -444,15 +198,6 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "\"Tutong\" Sign",
-                  "text": "Schild „Tutong“ am Ortseingang von Tutong.",
-                  "category": "historical",
-                  "coords": [
-                        114.667974,
-                        4.819168
-                  ]
-            },
-            {
                   "name": "Pantai Seri Kenangan",
                   "text": "Seri Kenangan Beach, ein Erholungsstrand mit feinem Sand in Tutong.",
                   "category": "landmark",
@@ -460,72 +205,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                         114.627843,
                         4.800456
                   ]
-            },
-            {
-                  "name": "Hassanal Bolkiah Mosque",
-                  "text": "Hassanal Bolkiah Moschee, die Hauptmoschee von Tutong, benannt nach dem Sultan.",
-                  "category": "religious",
-                  "coords": [
-                        114.662069,
-                        4.806473
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Pantai Penabai",
-                  "text": "Pantai Penabai, homokos strand Tutong partján.",
-                  "category": "recreational",
-                  "coords": [
-                        114.627073,
-                        4.798217
-                  ]
-            },
-            {
-                  "name": "Sungai Panchor",
-                  "text": "Sungai Panchor, egy folyó Tutong körzetében, esőerdővel körülvéve.",
-                  "category": "natural",
-                  "coords": [
-                        114.671746,
-                        4.803267
-                  ]
-            },
-            {
-                  "name": "Sungai Birau",
-                  "text": "Sungai Birau, természetes vízfolyás a Tutong régióban.",
-                  "category": "natural",
-                  "coords": [
-                        114.67179,
-                        4.8016
-                  ]
-            },
-            {
-                  "name": "Sungai Bakiau",
-                  "text": "Sungai Bakiau, egy folyó Tutong körzetében, nyugodt környezetéről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        114.664132,
-                        4.798093
-                  ]
-            },
-            {
-                  "name": "Lurah Saban",
-                  "text": "Lurah Saban, természetes mélyedés vagy szurdok a Tutong körzetben.",
-                  "category": "natural",
-                  "coords": [
-                        114.668556,
-                        4.799525
-                  ]
-            },
-            {
-                  "name": "Pulau Bakuku",
-                  "text": "Pulau Bakuku, egy kis sziget Tutong partjainál.",
-                  "category": "natural",
-                  "coords": [
-                        114.626401,
-                        4.787112
-                  ]
-            },
             {
                   "name": "Taman Seri Warisan Emas",
                   "text": "Taman Seri Warisan Emas, történelmi park Tutongban, emlékhelyekkel.",
@@ -572,15 +254,6 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "\"Tutong\" Sign",
-                  "text": "„Tutong” felirat Tutong bejáratánál.",
-                  "category": "historical",
-                  "coords": [
-                        114.667974,
-                        4.819168
-                  ]
-            },
-            {
                   "name": "Pantai Seri Kenangan",
                   "text": "Seri Kenangan Beach, pihenő strand finom homokkal Tutongban.",
                   "category": "landmark",
@@ -588,72 +261,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                         114.627843,
                         4.800456
                   ]
-            },
-            {
-                  "name": "Hassanal Bolkiah Mosque",
-                  "text": "Hassanal Bolkiah mecset, Tutong fő mecsete, a szultánról elnevezve.",
-                  "category": "religious",
-                  "coords": [
-                        114.662069,
-                        4.806473
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Pantai Penabai",
-                  "text": "Pantai Penabai, o plajă cu nisip pe coasta din Tutong.",
-                  "category": "recreational",
-                  "coords": [
-                        114.627073,
-                        4.798217
-                  ]
-            },
-            {
-                  "name": "Sungai Panchor",
-                  "text": "Sungai Panchor, un râu în districtul Tutong, înconjurat de pădure tropicală.",
-                  "category": "natural",
-                  "coords": [
-                        114.671746,
-                        4.803267
-                  ]
-            },
-            {
-                  "name": "Sungai Birau",
-                  "text": "Sungai Birau, un curs de apă natural în zona Tutong.",
-                  "category": "natural",
-                  "coords": [
-                        114.67179,
-                        4.8016
-                  ]
-            },
-            {
-                  "name": "Sungai Bakiau",
-                  "text": "Sungai Bakiau, un râu în districtul Tutong, cunoscut pentru împrejurimile sale liniștite.",
-                  "category": "natural",
-                  "coords": [
-                        114.664132,
-                        4.798093
-                  ]
-            },
-            {
-                  "name": "Lurah Saban",
-                  "text": "Lurah Saban, o depresiune naturală sau o râpă în districtul Tutong.",
-                  "category": "natural",
-                  "coords": [
-                        114.668556,
-                        4.799525
-                  ]
-            },
-            {
-                  "name": "Pulau Bakuku",
-                  "text": "Pulau Bakuku, o insulă mică de pe coasta din Tutong.",
-                  "category": "natural",
-                  "coords": [
-                        114.626401,
-                        4.787112
-                  ]
-            },
             {
                   "name": "Taman Seri Warisan Emas",
                   "text": "Taman Seri Warisan Emas, un parc istoric în Tutong cu monumente comemorative.",
@@ -700,15 +310,6 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "\"Tutong\" Sign",
-                  "text": "Indicatorul „Tutong” la intrarea în localitatea Tutong.",
-                  "category": "historical",
-                  "coords": [
-                        114.667974,
-                        4.819168
-                  ]
-            },
-            {
                   "name": "Pantai Seri Kenangan",
                   "text": "Seri Kenangan Beach, o plajă de agrement cu nisip fin în Tutong.",
                   "category": "landmark",
@@ -716,72 +317,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                         114.627843,
                         4.800456
                   ]
-            },
-            {
-                  "name": "Hassanal Bolkiah Mosque",
-                  "text": "Moscheea Hassanal Bolkiah, principala moschee din Tutong, numită după sultan.",
-                  "category": "religious",
-                  "coords": [
-                        114.662069,
-                        4.806473
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Pantai Penabai",
-                  "text": "Pantai Penabai, a sandy beach on the Tutong coast.",
-                  "category": "recreational",
-                  "coords": [
-                        114.627073,
-                        4.798217
-                  ]
-            },
-            {
-                  "name": "Sungai Panchor",
-                  "text": "Sungai Panchor, a river in the Tutong district surrounded by rainforest.",
-                  "category": "natural",
-                  "coords": [
-                        114.671746,
-                        4.803267
-                  ]
-            },
-            {
-                  "name": "Sungai Birau",
-                  "text": "Sungai Birau, a natural watercourse in the Tutong area.",
-                  "category": "natural",
-                  "coords": [
-                        114.67179,
-                        4.8016
-                  ]
-            },
-            {
-                  "name": "Sungai Bakiau",
-                  "text": "Sungai Bakiau, a river in the Tutong district known for its tranquil surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        114.664132,
-                        4.798093
-                  ]
-            },
-            {
-                  "name": "Lurah Saban",
-                  "text": "Lurah Saban, a natural depression or gorge in the Tutong district.",
-                  "category": "natural",
-                  "coords": [
-                        114.668556,
-                        4.799525
-                  ]
-            },
-            {
-                  "name": "Pulau Bakuku",
-                  "text": "Pulau Bakuku, a small island off the coast of Tutong.",
-                  "category": "natural",
-                  "coords": [
-                        114.626401,
-                        4.787112
-                  ]
-            },
             {
                   "name": "Taman Seri Warisan Emas",
                   "text": "Taman Seri Warisan Emas, a historic park in Tutong with memorial sites.",
@@ -828,30 +366,12 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "\"Tutong\" Sign",
-                  "text": "“Tutong” sign at the entrance to Tutong.",
-                  "category": "historical",
-                  "coords": [
-                        114.667974,
-                        4.819168
-                  ]
-            },
-            {
                   "name": "Seri Kenangan Beach",
                   "text": "Seri Kenangan Beach, a recreational beach with fine sand in Tutong.",
                   "category": "landmark",
                   "coords": [
                         114.627843,
                         4.800456
-                  ]
-            },
-            {
-                  "name": "Hassanal Bolkiah Mosque",
-                  "text": "Hassanal Bolkiah Mosque, the main mosque of Tutong, named after the Sultan.",
-                  "category": "religious",
-                  "coords": [
-                        114.662069,
-                        4.806473
                   ]
             }
       ]
@@ -992,7 +512,12 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     },
   },
   {
-    id: "muara-cities-v2", "sights": {"de": [{"name": "Tanjung Batu Beach", "text": "Der Tanjung Batu Beach in Muara ist ein friedvoller Sandstrand, der eine willkommene Auszeit vom Alltag an der Küste Bruneis bietet. Hier umgibt die Besucher eine ruhige, naturbelassene Atmosphäre, die ideal für ungestörte Momente am Meer ist. Die Weitläufigkeit des Strandes eignet sich hervorragend für lange Spaziergänge oder ein entspanntes Picknick mit Blick auf den Horizont. Ein Besuch am späten Nachmittag verspricht kühlere Temperaturen und ein wunderbares Licht.", "category": "recreational", "coords": [115.062006, 5.039082]}], "hu": [{"name": "Tanjung Batu Beach", "text": "A muarai Tanjung Batu Beach egy békés homokos strand, amely kellemes kikapcsolódást kínál Brunei partjainál a mindennapokból. A látogatókat itt csendes, természetes környezet veszi körül, amely ideális a zavartalan tengerparti pillanatokhoz. A strand tágassága kiválóan alkalmas hosszú sétákhoz vagy egy nyugodt piknikhez, miközben a horizontot fürsszük. A késő délutáni látogatás hűvösebb hőmérsékletet és csodálatos fényviszonyokat ígér.", "category": "recreational", "coords": [115.062006, 5.039082]}], "ro": [{"name": "Tanjung Batu Beach", "text": "Plaja Tanjung Batu din Muara este o plajă de nisip pașnică, care oferă o evadare binevenită din viața cotidiană pe coasta Bruneiului. Aici, vizitatorii sunt înconjurați de o atmosferă liniștită, naturală, ideală pentru momente netulburate la mare. Vasta întindere a plajei este perfectă pentru plimbări lungi sau pentru un picnic relaxant cu vedere la orizont. O vizită după-amiaza târziu promite temperaturi mai răcoroase și o lumină minunată.", "category": "recreational", "coords": [115.062006, 5.039082]}], "en": [{"name": "Tanjung Batu Beach", "text": "Tanjung Batu Beach in Muara is a peaceful sandy beach offering a welcome escape from daily life along the coast of Brunei. Visitors are surrounded by a quiet, natural atmosphere that is ideal for undisturbed moments by the sea. The vastness of the beach is perfect for long walks or a relaxing picnic while looking out at the horizon. Visiting in the late afternoon promises cooler temperatures and wonderful natural light.", "category": "recreational", "coords": [115.062006, 5.039082]}]},
+    id: "muara-cities-v2", "sights": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
+},
     type: "city",
     parent: "BN-BM",
     coords: [115.0500, 5.0333],
@@ -1048,42 +573,6 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                         114.839104,
                         4.955859
                   ]
-            },
-            {
-                  "name": "JP Waterpark",
-                  "text": "JP Waterpark in Jerudong mit Wasserrutschen und Pools für Familien.",
-                  "category": "family",
-                  "coords": [
-                        114.835802,
-                        4.939965
-                  ]
-            },
-            {
-                  "name": "Jerudong Ampitheatre",
-                  "text": "Jerudong Amphitheater, eine Freiluftbühne für Konzerte und Veranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        114.833302,
-                        4.933001
-                  ]
-            },
-            {
-                  "name": "Taman Rekreasi Hutan Bukit Shahbandar",
-                  "text": "Bukit Shahbandar Erholungspark in Jerudong mit Wanderwegen und Aussichtspunkten.",
-                  "category": "natural",
-                  "coords": [
-                        114.853529,
-                        4.951722
-                  ]
-            },
-            {
-                  "name": "Jerudong Park Bus Stop",
-                  "text": "Jerudong Park Bushaltestelle, eine markante Haltestelle in der Nähe des Freizeitparks.",
-                  "category": "landmark",
-                  "coords": [
-                        114.833806,
-                        4.935398
-                  ]
             }
       ],
       "hu": [
@@ -1094,42 +583,6 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                   "coords": [
                         114.839104,
                         4.955859
-                  ]
-            },
-            {
-                  "name": "JP Waterpark",
-                  "text": "JP Waterpark Jerudongban, csúszdákkal és medencékkel családok számára.",
-                  "category": "family",
-                  "coords": [
-                        114.835802,
-                        4.939965
-                  ]
-            },
-            {
-                  "name": "Jerudong Ampitheatre",
-                  "text": "Jerudong Amfiteátrum, szabadtéri színpad koncertekhez és rendezvényekhez.",
-                  "category": "cultural",
-                  "coords": [
-                        114.833302,
-                        4.933001
-                  ]
-            },
-            {
-                  "name": "Taman Rekreasi Hutan Bukit Shahbandar",
-                  "text": "Bukit Shahbandar Pihenőpark Jerudongban, túraútvonalakkal és kilátópontokkal.",
-                  "category": "natural",
-                  "coords": [
-                        114.853529,
-                        4.951722
-                  ]
-            },
-            {
-                  "name": "Jerudong Park Bus Stop",
-                  "text": "Jerudong Park buszmegálló, egy jellegzetes megálló a szabadidőpark közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        114.833806,
-                        4.935398
                   ]
             }
       ],
@@ -1142,42 +595,6 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                         114.839104,
                         4.955859
                   ]
-            },
-            {
-                  "name": "JP Waterpark",
-                  "text": "JP Waterpark în Jerudong, cu tobogane acvatice și piscine pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        114.835802,
-                        4.939965
-                  ]
-            },
-            {
-                  "name": "Jerudong Ampitheatre",
-                  "text": "Amfiteatrul Jerudong, o scenă în aer liber pentru concerte și evenimente.",
-                  "category": "cultural",
-                  "coords": [
-                        114.833302,
-                        4.933001
-                  ]
-            },
-            {
-                  "name": "Taman Rekreasi Hutan Bukit Shahbandar",
-                  "text": "Parcul de agrement Bukit Shahbandar din Jerudong, cu trasee de drumeție și puncte de belvedere.",
-                  "category": "natural",
-                  "coords": [
-                        114.853529,
-                        4.951722
-                  ]
-            },
-            {
-                  "name": "Jerudong Park Bus Stop",
-                  "text": "Stația de autobuz Jerudong Park, o stație distinctă lângă parcul de agrement.",
-                  "category": "landmark",
-                  "coords": [
-                        114.833806,
-                        4.935398
-                  ]
             }
       ],
       "en": [
@@ -1188,42 +605,6 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                   "coords": [
                         114.839104,
                         4.955859
-                  ]
-            },
-            {
-                  "name": "JP Waterpark",
-                  "text": "JP Waterpark in Jerudong with water slides and pools for families.",
-                  "category": "family",
-                  "coords": [
-                        114.835802,
-                        4.939965
-                  ]
-            },
-            {
-                  "name": "Jerudong Ampitheatre",
-                  "text": "Jerudong Amphitheatre, an open-air stage for concerts and events.",
-                  "category": "cultural",
-                  "coords": [
-                        114.833302,
-                        4.933001
-                  ]
-            },
-            {
-                  "name": "Bukit Shahbandar Recreational Park",
-                  "text": "Bukit Shahbandar Recreational Park in Jerudong with hiking trails and viewpoints.",
-                  "category": "natural",
-                  "coords": [
-                        114.853529,
-                        4.951722
-                  ]
-            },
-            {
-                  "name": "Jerudong Park Bus Stop",
-                  "text": "Jerudong Park Bus Stop, a distinctive bus stop near the amusement park.",
-                  "category": "landmark",
-                  "coords": [
-                        114.833806,
-                        4.935398
                   ]
             }
       ]
@@ -1274,50 +655,10 @@ export const poiExtraBruneiCitiesV2: POI[] = [
   },
   {
     id: "sengkurong-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Masjid Pehin Khatib Abdullah",
-                  "text": "Masjid Pehin Khatib Abdullah, eine Moschee in Sengkurong, benannt nach Pehin Khatib Abdullah.",
-                  "category": "religious",
-                  "coords": [
-                        114.823249,
-                        4.851662
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Masjid Pehin Khatib Abdullah",
-                  "text": "Masjid Pehin Khatib Abdullah, egy mecset Sengkurongban, Pehin Khatib Abdullahról elnevezve.",
-                  "category": "religious",
-                  "coords": [
-                        114.823249,
-                        4.851662
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Masjid Pehin Khatib Abdullah",
-                  "text": "Masjid Pehin Khatib Abdullah, o moschee în Sengkurong, numită după Pehin Khatib Abdullah.",
-                  "category": "religious",
-                  "coords": [
-                        114.823249,
-                        4.851662
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Masjid Pehin Khatib Abdullah",
-                  "text": "Masjid Pehin Khatib Abdullah, a mosque in Sengkurong named after Pehin Khatib Abdullah.",
-                  "category": "religious",
-                  "coords": [
-                        114.823249,
-                        4.851662
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "BN-BM",
@@ -1411,230 +752,10 @@ export const poiExtraBruneiCitiesV2: POI[] = [
   },
   {
     id: "gadong-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "RBAF Museum",
-                  "text": "Museum der Königlichen Bruneischen Streitkräfte in Gadong mit militärhistorischen Exponaten.",
-                  "category": "museum",
-                  "coords": [
-                        114.936213,
-                        4.927315
-                  ]
-            },
-            {
-                  "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
-                  "text": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah, ein Park in Gadong zum 25-jährigen Thronjubiläum.",
-                  "category": "park",
-                  "coords": [
-                        114.93526,
-                        4.898799
-                  ]
-            },
-            {
-                  "name": "Footbridge Across Canal",
-                  "text": "Fußgängerbrücke über den Kanal in Gadong, die zwei Stadtteile verbindet.",
-                  "category": "natural",
-                  "coords": [
-                        114.927937,
-                        4.905119
-                  ]
-            },
-            {
-                  "name": "Sumbangsih Mulia",
-                  "text": "Sumbangsih Mulia, ein Denkmal in Gadong, das an Opfer und Beiträge erinnert.",
-                  "category": "landmark",
-                  "coords": [
-                        114.909082,
-                        4.895215
-                  ]
-            },
-            {
-                  "name": "Jame'Asr Hassanil Bolkiah Mosque",
-                  "text": "Jame'Asr Hassanil Bolkiah Moschee in Gadong, eine der größten Moscheen Bruneis.",
-                  "category": "religious",
-                  "coords": [
-                        114.92191,
-                        4.897976
-                  ]
-            },
-            {
-                  "name": "Masjid Ash-Shaliheen",
-                  "text": "Die Ash-Shaliheen Mosque ist eine Moschee in Gadong, die für ihre marokkanisch inspirierte Architektur bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        114.936008,
-                        4.918086
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "RBAF Museum",
-                  "text": "A Brunei Királyi Fegyveres Erők Múzeuma Gadongban, katonai történeti kiállításokkal.",
-                  "category": "museum",
-                  "coords": [
-                        114.936213,
-                        4.927315
-                  ]
-            },
-            {
-                  "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
-                  "text": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah, egy park Gadongban a 25. uralkodói évfordulóra.",
-                  "category": "park",
-                  "coords": [
-                        114.93526,
-                        4.898799
-                  ]
-            },
-            {
-                  "name": "Footbridge Across Canal",
-                  "text": "Gyalogoshíd a csatorna felett Gadongban, amely két városrészt köt össze.",
-                  "category": "natural",
-                  "coords": [
-                        114.927937,
-                        4.905119
-                  ]
-            },
-            {
-                  "name": "Sumbangsih Mulia",
-                  "text": "Sumbangsih Mulia, egy emlékmű Gadongban, amely áldozatokra és hozzájárulásokra emlékeztet.",
-                  "category": "landmark",
-                  "coords": [
-                        114.909082,
-                        4.895215
-                  ]
-            },
-            {
-                  "name": "Jame'Asr Hassanil Bolkiah Mosque",
-                  "text": "Jame'Asr Hassanil Bolkiah mecset Gadongban, Brunei egyik legnagyobb mecsete.",
-                  "category": "religious",
-                  "coords": [
-                        114.92191,
-                        4.897976
-                  ]
-            },
-            {
-                  "name": "Masjid Ash-Shaliheen",
-                  "text": "Az Ash-Shaliheen Mosque egy istentiszteleti hely Gadongban, amely marokkói építészeti stílusáról ismert.",
-                  "category": "religious",
-                  "coords": [
-                        114.936008,
-                        4.918086
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "RBAF Museum",
-                  "text": "Muzeul Forțelor Armate Regale Brunei din Gadong, cu exponate de istorie militară.",
-                  "category": "museum",
-                  "coords": [
-                        114.936213,
-                        4.927315
-                  ]
-            },
-            {
-                  "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
-                  "text": "Parcul Taman Jubli Perak al Sultanului Haji Hassanal Bolkiah din Gadong, pentru jubileul de 25 de ani de domnie.",
-                  "category": "park",
-                  "coords": [
-                        114.93526,
-                        4.898799
-                  ]
-            },
-            {
-                  "name": "Footbridge Across Canal",
-                  "text": "Pod pietonal peste canal în Gadong, care leagă două cartiere.",
-                  "category": "natural",
-                  "coords": [
-                        114.927937,
-                        4.905119
-                  ]
-            },
-            {
-                  "name": "Sumbangsih Mulia",
-                  "text": "Sumbangsih Mulia, un monument în Gadong care comemorează sacrificii și contribuții.",
-                  "category": "landmark",
-                  "coords": [
-                        114.909082,
-                        4.895215
-                  ]
-            },
-            {
-                  "name": "Jame'Asr Hassanil Bolkiah Mosque",
-                  "text": "Moscheea Jame'Asr Hassanil Bolkiah din Gadong, una dintre cele mai mari moschei din Brunei.",
-                  "category": "religious",
-                  "coords": [
-                        114.92191,
-                        4.897976
-                  ]
-            },
-            {
-                  "name": "Masjid Ash-Shaliheen",
-                  "text": "Ash-Shaliheen Mosque este o moschee din Gadong, recunoscută pentru arhitectura sa de inspirație marocană.",
-                  "category": "religious",
-                  "coords": [
-                        114.936008,
-                        4.918086
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Royal Brunei Armed Forces Museum",
-                  "text": "Royal Brunei Armed Forces Museum in Gadong with military history exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        114.936213,
-                        4.927315
-                  ]
-            },
-            {
-                  "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
-                  "text": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah, a park in Gadong for the 25th reign anniversary.",
-                  "category": "park",
-                  "coords": [
-                        114.93526,
-                        4.898799
-                  ]
-            },
-            {
-                  "name": "Footbridge Across Canal",
-                  "text": "Footbridge across the canal in Gadong, connecting two neighbourhoods.",
-                  "category": "natural",
-                  "coords": [
-                        114.927937,
-                        4.905119
-                  ]
-            },
-            {
-                  "name": "Sumbangsih Mulia",
-                  "text": "Sumbangsih Mulia, a landmark in Gadong commemorating sacrifices and contributions.",
-                  "category": "landmark",
-                  "coords": [
-                        114.909082,
-                        4.895215
-                  ]
-            },
-            {
-                  "name": "Jame'Asr Hassanil Bolkiah Mosque",
-                  "text": "Jame'Asr Hassanil Bolkiah Mosque in Gadong, one of the largest mosques in Brunei.",
-                  "category": "religious",
-                  "coords": [
-                        114.92191,
-                        4.897976
-                  ]
-            },
-            {
-                  "name": "Ash-Shaliheen Mosque",
-                  "text": "Ash-Shaliheen Mosque is a place of worship in Gadong featuring Moroccan-style architecture.",
-                  "category": "religious",
-                  "coords": [
-                        114.936008,
-                        4.918086
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "BN-BM",
@@ -1684,39 +805,12 @@ export const poiExtraBruneiCitiesV2: POI[] = [
     id: "kiulap-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Muzium Alat Kebesaran Diraja",
-                  "text": "Royal Regalia Museum in Kiulap, das die königlichen Insignien und Zeremoniengegenstände des Sultans ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        114.941198,
-                        4.892799
-                  ]
-            },
-            {
                   "name": "Pusat Sejarah Brunei",
                   "text": "Brunei History Centre in Kiulap, ein Forschungszentrum zur Geschichte Bruneis.",
                   "category": "museum",
                   "coords": [
                         114.941518,
                         4.891701
-                  ]
-            },
-            {
-                  "name": "Panggung Hassanal Bolkiah",
-                  "text": "Hassanal Bolkiah Theater in Kiulap, ein modernes Theater für Aufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        114.944214,
-                        4.887752
-                  ]
-            },
-            {
-                  "name": "Balai khazanah",
-                  "text": "Balai Khazanah, ein Museum in Kiulap mit historischen und kulturellen Schätzen Bruneis.",
-                  "category": "museum",
-                  "coords": [
-                        114.919858,
-                        4.883729
                   ]
             },
             {
@@ -1729,66 +823,12 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Istana Darussalam",
-                  "text": "Darussalam Palast in Kiulap, die offizielle Residenz des Sultans von Brunei.",
-                  "category": "castle",
-                  "coords": [
-                        114.937196,
-                        4.892111
-                  ]
-            },
-            {
-                  "name": "Istana Darul Hana",
-                  "text": "Darul Hana Palast in Kiulap, eine königliche Zeremonienstätte.",
-                  "category": "castle",
-                  "coords": [
-                        114.927198,
-                        4.879611
-                  ]
-            },
-            {
-                  "name": "Brunei Clock Tower",
-                  "text": "Brunei Clock Tower in Kiulap, ein historischer Uhrenturm und Wahrzeichen.",
-                  "category": "historical",
-                  "coords": [
-                        114.942457,
-                        4.890334
-                  ]
-            },
-            {
-                  "name": "Mahligai",
-                  "text": "Mahligai in Kiulap, ein historischer Pavillon oder Palastbau.",
-                  "category": "historical",
-                  "coords": [
-                        114.93893,
-                        4.888622
-                  ]
-            },
-            {
                   "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
                   "text": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah, ein Park in Kiulap zum 25-jährigen Thronjubiläum.",
                   "category": "park",
                   "coords": [
                         114.93526,
                         4.898799
-                  ]
-            },
-            {
-                  "name": "Galeri Seni",
-                  "text": "Kunstgalerie in Kiulap mit wechselnden Ausstellungen zeitgenössischer und traditioneller Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        114.942974,
-                        4.886865
-                  ]
-            },
-            {
-                  "name": "Sultan's Palace",
-                  "text": "Natürliche Felsformation namens Sultanspalast in Kiulap.",
-                  "category": "natural",
-                  "coords": [
-                        114.93229,
-                        4.875002
                   ]
             },
             {
@@ -1799,90 +839,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                         114.927937,
                         4.905119
                   ]
-            },
-            {
-                  "name": "Viewpoint",
-                  "text": "Aussichtspunkt mit Blick über Kiulap.",
-                  "category": "natural",
-                  "coords": [
-                        114.955722,
-                        4.904596
-                  ]
-            },
-            {
-                  "name": "Town Viewpoint",
-                  "text": "Stadtaussichtspunkt mit Panoramablick auf Kiulap.",
-                  "category": "natural",
-                  "coords": [
-                        114.944941,
-                        4.896357
-                  ]
-            },
-            {
-                  "name": "Arts and Handicraft Centre",
-                  "text": "Zentrum für Kunst und Handwerk in Kiulap mit lokalen Arbeiten.",
-                  "category": "landmark",
-                  "coords": [
-                        114.949927,
-                        4.884885
-                  ]
-            },
-            {
-                  "name": "Sumbangsih Mulia",
-                  "text": "Wahrzeichen Sumbangsih Mulia in Kiulap.",
-                  "category": "landmark",
-                  "coords": [
-                        114.909082,
-                        4.895215
-                  ]
-            },
-            {
-                  "name": "Pottery House",
-                  "text": "Töpferhaus in Kiulap, das traditionelle Keramik zeigt.",
-                  "category": "landmark",
-                  "coords": [
-                        114.944328,
-                        4.881997
-                  ]
-            },
-            {
-                  "name": "Jame'Asr Hassanil Bolkiah Mosque",
-                  "text": "Jame'Asr Hassanil Bolkiah Moschee in Kiulap, eine prächtige Moschee aus vergoldeten Kuppeln.",
-                  "category": "religious",
-                  "coords": [
-                        114.92191,
-                        4.897976
-                  ]
-            },
-            {
-                  "name": "Masjid Ash-Shaliheen",
-                  "text": "Die Ash-Shaliheen-Moschee in Kiulap, Brunei, bietet Platz für 2.000 Gläubige.",
-                  "category": "religious",
-                  "coords": [
-                        114.936008,
-                        4.918086
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of the Assumption",
-                  "text": "Kirche Unserer Lieben Frau von der Himmelfahrt in Kiulap, eine katholische Kirche.",
-                  "category": "religious",
-                  "coords": [
-                        114.938643,
-                        4.895075
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Muzium Alat Kebesaran Diraja",
-                  "text": "Royal Regalia Museum Kiulapban, amely a szultán királyi jelvényeit és ceremóniális tárgyait állítja ki.",
-                  "category": "museum",
-                  "coords": [
-                        114.941198,
-                        4.892799
-                  ]
-            },
             {
                   "name": "Pusat Sejarah Brunei",
                   "text": "Brunei History Centre Kiulapban, a Brunei történelmét kutató központ.",
@@ -1890,24 +849,6 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                   "coords": [
                         114.941518,
                         4.891701
-                  ]
-            },
-            {
-                  "name": "Panggung Hassanal Bolkiah",
-                  "text": "Hassanal Bolkiah Színház Kiulapban, modern színház előadások számára.",
-                  "category": "cultural",
-                  "coords": [
-                        114.944214,
-                        4.887752
-                  ]
-            },
-            {
-                  "name": "Balai khazanah",
-                  "text": "Balai Khazanah, egy múzeum Kiulapban Brunei történelmi és kulturális kincseivel.",
-                  "category": "museum",
-                  "coords": [
-                        114.919858,
-                        4.883729
                   ]
             },
             {
@@ -1920,66 +861,12 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Istana Darussalam",
-                  "text": "Darussalam Palota Kiulapban, Brunei szultánjának hivatalos rezidenciája.",
-                  "category": "castle",
-                  "coords": [
-                        114.937196,
-                        4.892111
-                  ]
-            },
-            {
-                  "name": "Istana Darul Hana",
-                  "text": "Darul Hana Palota Kiulapban, egy királyi ceremoniális helyszín.",
-                  "category": "castle",
-                  "coords": [
-                        114.927198,
-                        4.879611
-                  ]
-            },
-            {
-                  "name": "Brunei Clock Tower",
-                  "text": "Brunei Clock Tower Kiulapban, egy történelmi óratorony és nevezetesség.",
-                  "category": "historical",
-                  "coords": [
-                        114.942457,
-                        4.890334
-                  ]
-            },
-            {
-                  "name": "Mahligai",
-                  "text": "Mahligai Kiulapban, egy történelmi pavilon vagy palotaépület.",
-                  "category": "historical",
-                  "coords": [
-                        114.93893,
-                        4.888622
-                  ]
-            },
-            {
                   "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
                   "text": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah, egy park Kiulapban a 25. uralkodói évfordulóra.",
                   "category": "park",
                   "coords": [
                         114.93526,
                         4.898799
-                  ]
-            },
-            {
-                  "name": "Galeri Seni",
-                  "text": "Művészeti galéria Kiulapban, váltakozó kortárs és hagyományos művészeti kiállításokkal.",
-                  "category": "museum",
-                  "coords": [
-                        114.942974,
-                        4.886865
-                  ]
-            },
-            {
-                  "name": "Sultan's Palace",
-                  "text": "Természetes sziklaformáció, melyet Szultán Palotájának hívnak Kiulapban.",
-                  "category": "natural",
-                  "coords": [
-                        114.93229,
-                        4.875002
                   ]
             },
             {
@@ -1990,90 +877,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                         114.927937,
                         4.905119
                   ]
-            },
-            {
-                  "name": "Viewpoint",
-                  "text": "Kilátó, ahonnan rálátni Kiulapra.",
-                  "category": "natural",
-                  "coords": [
-                        114.955722,
-                        4.904596
-                  ]
-            },
-            {
-                  "name": "Town Viewpoint",
-                  "text": "Városi kilátó pont, ahonnan körpanoráma nyílik Kiulapra.",
-                  "category": "natural",
-                  "coords": [
-                        114.944941,
-                        4.896357
-                  ]
-            },
-            {
-                  "name": "Arts and Handicraft Centre",
-                  "text": "Kézműves- és művészeti központ Kiulapban, helyi alkotásokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        114.949927,
-                        4.884885
-                  ]
-            },
-            {
-                  "name": "Sumbangsih Mulia",
-                  "text": "Sumbangsih Mulia nevezetesség Kiulapban.",
-                  "category": "landmark",
-                  "coords": [
-                        114.909082,
-                        4.895215
-                  ]
-            },
-            {
-                  "name": "Pottery House",
-                  "text": "Fazekasház Kiulapban, hagyományos kerámiákkal.",
-                  "category": "landmark",
-                  "coords": [
-                        114.944328,
-                        4.881997
-                  ]
-            },
-            {
-                  "name": "Jame'Asr Hassanil Bolkiah Mosque",
-                  "text": "Jame'Asr Hassanil Bolkiah mecset Kiulapban, egy aranyozott kupolás pompás mecset.",
-                  "category": "religious",
-                  "coords": [
-                        114.92191,
-                        4.897976
-                  ]
-            },
-            {
-                  "name": "Masjid Ash-Shaliheen",
-                  "text": "A kiulapi Ash-Shaliheen-mecset Brunei-ban 2.000 hívő befogadására alkalmas.",
-                  "category": "religious",
-                  "coords": [
-                        114.936008,
-                        4.918086
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of the Assumption",
-                  "text": "A Mennybevett Szűz Mária-templom Kiulapban, egy katolikus templom.",
-                  "category": "religious",
-                  "coords": [
-                        114.938643,
-                        4.895075
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Muzium Alat Kebesaran Diraja",
-                  "text": "Muzeul Regal de Regalii din Kiulap, care expune însemnele regale și obiectele ceremoniale ale sultanului.",
-                  "category": "museum",
-                  "coords": [
-                        114.941198,
-                        4.892799
-                  ]
-            },
             {
                   "name": "Pusat Sejarah Brunei",
                   "text": "Centrul de Istorie al Bruneiului din Kiulap, un centru de cercetare a istoriei Bruneiului.",
@@ -2081,24 +887,6 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                   "coords": [
                         114.941518,
                         4.891701
-                  ]
-            },
-            {
-                  "name": "Panggung Hassanal Bolkiah",
-                  "text": "Teatrul Hassanal Bolkiah din Kiulap, un teatru modern pentru spectacole.",
-                  "category": "cultural",
-                  "coords": [
-                        114.944214,
-                        4.887752
-                  ]
-            },
-            {
-                  "name": "Balai khazanah",
-                  "text": "Balai Khazanah, un muzeu în Kiulap cu comori istorice și culturale ale Bruneiului.",
-                  "category": "museum",
-                  "coords": [
-                        114.919858,
-                        4.883729
                   ]
             },
             {
@@ -2111,66 +899,12 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Istana Darussalam",
-                  "text": "Palatul Darussalam din Kiulap, reședința oficială a sultanului Bruneiului.",
-                  "category": "castle",
-                  "coords": [
-                        114.937196,
-                        4.892111
-                  ]
-            },
-            {
-                  "name": "Istana Darul Hana",
-                  "text": "Palatul Darul Hana din Kiulap, un loc ceremonial regal.",
-                  "category": "castle",
-                  "coords": [
-                        114.927198,
-                        4.879611
-                  ]
-            },
-            {
-                  "name": "Brunei Clock Tower",
-                  "text": "Turnul cu ceas din Brunei în Kiulap, un turn de ceas istoric și reper.",
-                  "category": "historical",
-                  "coords": [
-                        114.942457,
-                        4.890334
-                  ]
-            },
-            {
-                  "name": "Mahligai",
-                  "text": "Mahligai în Kiulap, un pavilion sau palat istoric.",
-                  "category": "historical",
-                  "coords": [
-                        114.93893,
-                        4.888622
-                  ]
-            },
-            {
                   "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
                   "text": "Parcul Taman Jubli Perak al Sultanului Haji Hassanal Bolkiah din Kiulap, pentru jubileul de 25 de ani de domnie.",
                   "category": "park",
                   "coords": [
                         114.93526,
                         4.898799
-                  ]
-            },
-            {
-                  "name": "Galeri Seni",
-                  "text": "Galerie de artă în Kiulap, cu expoziții temporare de artă contemporană și tradițională.",
-                  "category": "museum",
-                  "coords": [
-                        114.942974,
-                        4.886865
-                  ]
-            },
-            {
-                  "name": "Sultan's Palace",
-                  "text": "Formațiune naturală de stâncă numită Palatul Sultanului în Kiulap.",
-                  "category": "natural",
-                  "coords": [
-                        114.93229,
-                        4.875002
                   ]
             },
             {
@@ -2181,90 +915,9 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                         114.927937,
                         4.905119
                   ]
-            },
-            {
-                  "name": "Viewpoint",
-                  "text": "Punct de belvedere cu vedere asupra orașului Kiulap.",
-                  "category": "natural",
-                  "coords": [
-                        114.955722,
-                        4.904596
-                  ]
-            },
-            {
-                  "name": "Town Viewpoint",
-                  "text": "Punct de belvedere al orașului cu panoramă asupra Kiulapului.",
-                  "category": "natural",
-                  "coords": [
-                        114.944941,
-                        4.896357
-                  ]
-            },
-            {
-                  "name": "Arts and Handicraft Centre",
-                  "text": "Centru de artă și meșteșuguri în Kiulap, cu lucrări locale.",
-                  "category": "landmark",
-                  "coords": [
-                        114.949927,
-                        4.884885
-                  ]
-            },
-            {
-                  "name": "Sumbangsih Mulia",
-                  "text": "Punctul de reper Sumbangsih Mulia în Kiulap.",
-                  "category": "landmark",
-                  "coords": [
-                        114.909082,
-                        4.895215
-                  ]
-            },
-            {
-                  "name": "Pottery House",
-                  "text": "Casă de olărit în Kiulap, cu ceramică tradițională.",
-                  "category": "landmark",
-                  "coords": [
-                        114.944328,
-                        4.881997
-                  ]
-            },
-            {
-                  "name": "Jame'Asr Hassanil Bolkiah Mosque",
-                  "text": "Moscheea Jame'Asr Hassanil Bolkiah din Kiulap, o moschee splendidă cu domuri aurite.",
-                  "category": "religious",
-                  "coords": [
-                        114.92191,
-                        4.897976
-                  ]
-            },
-            {
-                  "name": "Masjid Ash-Shaliheen",
-                  "text": "Moscheea Ash-Shaliheen din Kiulap, Brunei, are o capacitate de 2.000 de credincioși.",
-                  "category": "religious",
-                  "coords": [
-                        114.936008,
-                        4.918086
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of the Assumption",
-                  "text": "Biserica Maicii Domnului Adormirea în Kiulap, o biserică catolică.",
-                  "category": "religious",
-                  "coords": [
-                        114.938643,
-                        4.895075
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Royal Regalia Museum",
-                  "text": "Royal Regalia Museum in Kiulap, displaying the royal regalia and ceremonial items of the Sultan.",
-                  "category": "museum",
-                  "coords": [
-                        114.941198,
-                        4.892799
-                  ]
-            },
             {
                   "name": "Brunei History Centre",
                   "text": "Brunei History Centre in Kiulap, a research centre documenting Brunei's history.",
@@ -2272,24 +925,6 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                   "coords": [
                         114.941518,
                         4.891701
-                  ]
-            },
-            {
-                  "name": "Hassanal Bolkiah Theatre",
-                  "text": "Hassanal Bolkiah Theatre in Kiulap, a modern theatre for performances.",
-                  "category": "cultural",
-                  "coords": [
-                        114.944214,
-                        4.887752
-                  ]
-            },
-            {
-                  "name": "Balai khazanah",
-                  "text": "Balai Khazanah, a museum in Kiulap with Brunei's historical and cultural treasures.",
-                  "category": "museum",
-                  "coords": [
-                        114.919858,
-                        4.883729
                   ]
             },
             {
@@ -2302,42 +937,6 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Darussalam Palace",
-                  "text": "Darussalam Palace in Kiulap, the official residence of the Sultan of Brunei.",
-                  "category": "castle",
-                  "coords": [
-                        114.937196,
-                        4.892111
-                  ]
-            },
-            {
-                  "name": "Darul Hana Palace",
-                  "text": "Darul Hana Palace in Kiulap, a royal ceremonial venue.",
-                  "category": "castle",
-                  "coords": [
-                        114.927198,
-                        4.879611
-                  ]
-            },
-            {
-                  "name": "Brunei Clock Tower",
-                  "text": "Brunei Clock Tower in Kiulap, a historic clock tower and landmark.",
-                  "category": "historical",
-                  "coords": [
-                        114.942457,
-                        4.890334
-                  ]
-            },
-            {
-                  "name": "Mahligai",
-                  "text": "Mahligai in Kiulap, a historical pavilion or palace structure.",
-                  "category": "historical",
-                  "coords": [
-                        114.93893,
-                        4.888622
-                  ]
-            },
-            {
                   "name": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah",
                   "text": "Taman Jubli Perak Sultan Haji Hassanal Bolkiah, a park in Kiulap for the 25th reign anniversary.",
                   "category": "park",
@@ -2347,102 +946,12 @@ export const poiExtraBruneiCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Art Gallery",
-                  "text": "Art gallery in Kiulap with rotating exhibitions of contemporary and traditional art.",
-                  "category": "museum",
-                  "coords": [
-                        114.942974,
-                        4.886865
-                  ]
-            },
-            {
-                  "name": "Sultan's Palace",
-                  "text": "Natural rock formation called Sultan's Palace in Kiulap.",
-                  "category": "natural",
-                  "coords": [
-                        114.93229,
-                        4.875002
-                  ]
-            },
-            {
                   "name": "Footbridge Across Canal",
                   "text": "Natural stone footbridge across a canal in Kiulap.",
                   "category": "natural",
                   "coords": [
                         114.927937,
                         4.905119
-                  ]
-            },
-            {
-                  "name": "Viewpoint",
-                  "text": "Viewpoint overlooking Kiulap.",
-                  "category": "natural",
-                  "coords": [
-                        114.955722,
-                        4.904596
-                  ]
-            },
-            {
-                  "name": "Town Viewpoint",
-                  "text": "Town viewpoint offering a panorama of Kiulap.",
-                  "category": "natural",
-                  "coords": [
-                        114.944941,
-                        4.896357
-                  ]
-            },
-            {
-                  "name": "Arts and Handicraft Centre",
-                  "text": "Arts and Handicraft Centre in Kiulap showcasing local crafts.",
-                  "category": "landmark",
-                  "coords": [
-                        114.949927,
-                        4.884885
-                  ]
-            },
-            {
-                  "name": "Sumbangsih Mulia",
-                  "text": "Sumbangsih Mulia landmark in Kiulap.",
-                  "category": "landmark",
-                  "coords": [
-                        114.909082,
-                        4.895215
-                  ]
-            },
-            {
-                  "name": "Pottery House",
-                  "text": "Pottery House in Kiulap featuring traditional ceramics.",
-                  "category": "landmark",
-                  "coords": [
-                        114.944328,
-                        4.881997
-                  ]
-            },
-            {
-                  "name": "Jame'Asr Hassanil Bolkiah Mosque",
-                  "text": "Jame'Asr Hassanil Bolkiah Mosque in Kiulap, a splendid mosque with gilded domes.",
-                  "category": "religious",
-                  "coords": [
-                        114.92191,
-                        4.897976
-                  ]
-            },
-            {
-                  "name": "Ash-Shaliheen Mosque",
-                  "text": "The Ash-Shaliheen Mosque in Kiulap, Brunei, can accommodate 2,000 worshippers.",
-                  "category": "religious",
-                  "coords": [
-                        114.936008,
-                        4.918086
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of the Assumption",
-                  "text": "Church of Our Lady of the Assumption in Kiulap, a Catholic church.",
-                  "category": "religious",
-                  "coords": [
-                        114.938643,
-                        4.895075
                   ]
             }
       ]
@@ -2493,50 +1002,10 @@ export const poiExtraBruneiCitiesV2: POI[] = [
   },
   {
     id: "berakas-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "RBAF Museum",
-                  "text": "Museum der Königlich-Bruneiischen Streitkräfte in Berakas.",
-                  "category": "museum",
-                  "coords": [
-                        114.936213,
-                        4.927315
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "RBAF Museum",
-                  "text": "A Brunei Királyi Fegyveres Erők múzeuma Berakasban.",
-                  "category": "museum",
-                  "coords": [
-                        114.936213,
-                        4.927315
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "RBAF Museum",
-                  "text": "Muzeul Forțelor Armate Regale Brunei în Berakas.",
-                  "category": "museum",
-                  "coords": [
-                        114.936213,
-                        4.927315
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Royal Brunei Armed Forces Museum",
-                  "text": "Royal Brunei Armed Forces Museum in Berakas.",
-                  "category": "museum",
-                  "coords": [
-                        114.936213,
-                        4.927315
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "BN-BM",
@@ -3234,50 +1703,10 @@ export const poiExtraBruneiCitiesV2: POI[] = [
   },
   {
     id: "subok-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Viewpoint",
-                  "text": "Aussichtspunkt mit Blick auf Subok.",
-                  "category": "natural",
-                  "coords": [
-                        114.955722,
-                        4.904596
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Viewpoint",
-                  "text": "Kilátó, ahonnan Subokra látni.",
-                  "category": "natural",
-                  "coords": [
-                        114.955722,
-                        4.904596
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Viewpoint",
-                  "text": "Punct de belvedere cu vedere spre Subok.",
-                  "category": "natural",
-                  "coords": [
-                        114.955722,
-                        4.904596
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Viewpoint",
-                  "text": "Viewpoint overlooking Subok.",
-                  "category": "natural",
-                  "coords": [
-                        114.955722,
-                        4.904596
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "BN-BM",
@@ -3323,50 +1752,10 @@ export const poiExtraBruneiCitiesV2: POI[] = [
   },
   {
     id: "sungai-liang-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Pantai Peranginan Kg Sungai Liang",
-                  "text": "Stranderholungsgebiet Kampung Sungai Liang in Liang.",
-                  "category": "landmark",
-                  "coords": [
-                        114.485363,
-                        4.68583
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Pantai Peranginan Kg Sungai Liang",
-                  "text": "Strandi rekreációs terület Kampung Sungai Liangban, Liangban.",
-                  "category": "landmark",
-                  "coords": [
-                        114.485363,
-                        4.68583
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Pantai Peranginan Kg Sungai Liang",
-                  "text": "Zonă de agrement pe plaja Kampung Sungai Liang în Liang.",
-                  "category": "landmark",
-                  "coords": [
-                        114.485363,
-                        4.68583
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Pantai Peranginan Kg Sungai Liang",
-                  "text": "Pantai Peranginan beach recreation area at Kampung Sungai Liang in Liang.",
-                  "category": "landmark",
-                  "coords": [
-                        114.485363,
-                        4.68583
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "BN-BE",

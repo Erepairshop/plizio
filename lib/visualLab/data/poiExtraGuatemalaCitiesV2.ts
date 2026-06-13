@@ -502,50 +502,10 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
     }, image: "/poi-images/gt-coatepeque-cities-v2.webp"},
   {
     id: "gt-san-pedro-carcha-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Puente Antiguo Chixtún",
-                  "text": "Historische Steinbrücke über den Chixtún-Fluss.",
-                  "category": "historical",
-                  "coords": [
-                        -90.308832,
-                        15.48067
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Puente Antiguo Chixtún",
-                  "text": "Történelmi kőhíd a Chixtún folyón.",
-                  "category": "historical",
-                  "coords": [
-                        -90.308832,
-                        15.48067
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Puente Antiguo Chixtún",
-                  "text": "Pod istoric de piatră peste râul Chixtún.",
-                  "category": "historical",
-                  "coords": [
-                        -90.308832,
-                        15.48067
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Puente Antiguo Chixtún",
-                  "text": "Historic stone bridge over the Chixtún River.",
-                  "category": "historical",
-                  "coords": [
-                        -90.308832,
-                        15.48067
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "GT-AV",
@@ -2308,15 +2268,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
     id: "gt-san-cristobal-totonicapan-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Castillo El Carmen",
-                  "text": "Ein architektonisch interessantes Bauwerk in San Cristóbal Totonicapán.",
-                  "category": "castle",
-                  "coords": [
-                        -91.458183,
-                        14.87565
-                  ]
-            },
-            {
                   "name": "Nice view of Santa Maria volcano",
                   "text": "Aussichtspunkt mit Blick auf den Vulkan Santa Maria.",
                   "category": "natural",
@@ -2327,15 +2278,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Castillo El Carmen",
-                  "text": "Építészetileg érdekes építmény San Cristóbal Totonicapánban.",
-                  "category": "castle",
-                  "coords": [
-                        -91.458183,
-                        14.87565
-                  ]
-            },
             {
                   "name": "Nice view of Santa Maria volcano",
                   "text": "Kilátó, ahonnan a Santa Maria vulkán látható.",
@@ -2348,15 +2290,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Castillo El Carmen",
-                  "text": "O structură interesantă din punct de vedere arhitectural în San Cristóbal Totonicapán.",
-                  "category": "castle",
-                  "coords": [
-                        -91.458183,
-                        14.87565
-                  ]
-            },
-            {
                   "name": "Nice view of Santa Maria volcano",
                   "text": "Punct de belvedere cu vedere la vulcanul Santa Maria.",
                   "category": "natural",
@@ -2367,15 +2300,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Castillo El Carmen",
-                  "text": "An architecturally interesting structure in San Cristóbal Totonicapán.",
-                  "category": "castle",
-                  "coords": [
-                        -91.458183,
-                        14.87565
-                  ]
-            },
             {
                   "name": "Nice view of Santa Maria volcano",
                   "text": "Viewpoint offering views of the Santa Maria volcano.",
@@ -3311,15 +3235,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
-                  "text": "Schutzgebiet am Vulkan Siete Orejas mit vielfältiger Flora und Fauna.",
-                  "category": "natural",
-                  "coords": [
-                        -91.602208,
-                        14.792039
-                  ]
-            },
-            {
                   "name": "Quetzaltenango Guatemala Temple",
                   "text": "Ein Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage in Quetzaltenango.",
                   "category": "religious",
@@ -3346,15 +3261,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
                   "coords": [
                         -91.548271,
                         14.851869
-                  ]
-            },
-            {
-                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
-                  "text": "Védett terület a Siete Orejas vulkánnál, változatos növény- és állatvilággal.",
-                  "category": "natural",
-                  "coords": [
-                        -91.602208,
-                        14.792039
                   ]
             },
             {
@@ -3387,15 +3293,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
-                  "text": "Zonă protejată la vulcanul Siete Orejas, cu floră și faună diversă.",
-                  "category": "natural",
-                  "coords": [
-                        -91.602208,
-                        14.792039
-                  ]
-            },
-            {
                   "name": "Quetzaltenango Guatemala Temple",
                   "text": "Un templu al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din Quetzaltenango.",
                   "category": "religious",
@@ -3422,15 +3319,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
                   "coords": [
                         -91.548271,
                         14.851869
-                  ]
-            },
-            {
-                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
-                  "text": "Protected area at the Siete Orejas volcano with diverse flora and fauna.",
-                  "category": "natural",
-                  "coords": [
-                        -91.602208,
-                        14.792039
                   ]
             },
             {
@@ -4008,33 +3896,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
     id: "gt-melchor-de-mencos-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Xunantunich",
-                  "text": "Eine bedeutende archäologische Stätte der Maya mit beeindruckenden Pyramiden.",
-                  "category": "historical",
-                  "coords": [
-                        -89.141777,
-                        17.08972
-                  ]
-            },
-            {
-                  "name": "Benque House of Culture",
-                  "text": "Ein Kulturzentrum, das die lokale Geschichte und Kunst in Benque präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        -89.140344,
-                        17.072797
-                  ]
-            },
-            {
-                  "name": "Xunantunich Visitor's Center",
-                  "text": "Informationszentrum für Besucher der Ausgrabungsstätte Xunantunich.",
-                  "category": "museum",
-                  "coords": [
-                        -89.140193,
-                        17.089304
-                  ]
-            },
-            {
                   "name": "Benque Archaeological Park",
                   "text": "Ein Park, der bedeutende Maya-Ruinen in Benque bewahrt.",
                   "category": "historical",
@@ -4062,24 +3923,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Group C ruins (overgrown)",
-                  "text": "Überwucherte Maya-Ruinen der Gruppe C, Teil einer größeren archäologischen Stätte.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.141626,
-                        17.088773
-                  ]
-            },
-            {
-                  "name": "Marshallek Cancha",
-                  "text": "Ein Zentrum für lokale Kunst und sportliche Aktivitäten.",
-                  "category": "cultural",
-                  "coords": [
-                        -89.138644,
-                        17.073257
-                  ]
-            },
-            {
                   "name": "Monumento al Chiclero",
                   "text": "Ein Denkmal zu Ehren der traditionellen Kaugummi-Sammler.",
                   "category": "historical",
@@ -4090,33 +3933,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Xunantunich",
-                  "text": "Jelentős maja régészeti lelőhely lenyűgöző piramisokkal.",
-                  "category": "historical",
-                  "coords": [
-                        -89.141777,
-                        17.08972
-                  ]
-            },
-            {
-                  "name": "Benque House of Culture",
-                  "text": "A helyi történelmet és művészetet bemutató kulturális központ Benque-ben.",
-                  "category": "museum",
-                  "coords": [
-                        -89.140344,
-                        17.072797
-                  ]
-            },
-            {
-                  "name": "Xunantunich Visitor's Center",
-                  "text": "Látogatóközpont a Xunantunich régészeti lelőhelyhez.",
-                  "category": "museum",
-                  "coords": [
-                        -89.140193,
-                        17.089304
-                  ]
-            },
             {
                   "name": "Benque Archaeological Park",
                   "text": "Jelentős maja romokat őrző régészeti park Benque területén.",
@@ -4145,24 +3961,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Group C ruins (overgrown)",
-                  "text": "Bennőtt maja romok a C csoportból, egy nagyobb régészeti lelőhely része.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.141626,
-                        17.088773
-                  ]
-            },
-            {
-                  "name": "Marshallek Cancha",
-                  "text": "Helyi művészeti és sporttevékenységek központja.",
-                  "category": "cultural",
-                  "coords": [
-                        -89.138644,
-                        17.073257
-                  ]
-            },
-            {
                   "name": "Monumento al Chiclero",
                   "text": "Emlékmű a hagyományos gumigyűjtők (chicleros) tiszteletére.",
                   "category": "historical",
@@ -4173,33 +3971,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Xunantunich",
-                  "text": "Un sit arheologic maya important, cu piramide impresionante.",
-                  "category": "historical",
-                  "coords": [
-                        -89.141777,
-                        17.08972
-                  ]
-            },
-            {
-                  "name": "Benque House of Culture",
-                  "text": "Un centru cultural care prezintă istoria și arta locală în Benque.",
-                  "category": "museum",
-                  "coords": [
-                        -89.140344,
-                        17.072797
-                  ]
-            },
-            {
-                  "name": "Xunantunich Visitor's Center",
-                  "text": "Centru de informații pentru vizitatorii sitului arheologic Xunantunich.",
-                  "category": "museum",
-                  "coords": [
-                        -89.140193,
-                        17.089304
-                  ]
-            },
             {
                   "name": "Benque Archaeological Park",
                   "text": "Un parc arheologic care păstrează ruine maya importante în Benque.",
@@ -4228,24 +3999,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Group C ruins (overgrown)",
-                  "text": "Ruine mayașe acoperite de vegetație din Grupul C, parte a unui sit arheologic mai mare.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.141626,
-                        17.088773
-                  ]
-            },
-            {
-                  "name": "Marshallek Cancha",
-                  "text": "Un centru pentru activități artistice și sportive locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -89.138644,
-                        17.073257
-                  ]
-            },
-            {
                   "name": "Monumento al Chiclero",
                   "text": "Un monument dedicat culegătorilor tradiționali de gumă (chicleros).",
                   "category": "historical",
@@ -4256,33 +4009,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Xunantunich",
-                  "text": "An important ancient Maya archaeological site with impressive pyramids.",
-                  "category": "historical",
-                  "coords": [
-                        -89.141777,
-                        17.08972
-                  ]
-            },
-            {
-                  "name": "Benque House of Culture",
-                  "text": "A culture house showcasing local history and arts in Benque.",
-                  "category": "museum",
-                  "coords": [
-                        -89.140344,
-                        17.072797
-                  ]
-            },
-            {
-                  "name": "Xunantunich Visitor's Center",
-                  "text": "Visitor information center for the Xunantunich archaeological site.",
-                  "category": "museum",
-                  "coords": [
-                        -89.140193,
-                        17.089304
-                  ]
-            },
             {
                   "name": "Benque Archaeological Park",
                   "text": "An archaeological park preserving significant Maya ruins in Benque.",
@@ -4308,24 +4034,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
                   "coords": [
                         -89.142824,
                         17.090174
-                  ]
-            },
-            {
-                  "name": "Group C ruins (overgrown)",
-                  "text": "Overgrown Mayan ruins from Group C, part of a larger archaeological site.",
-                  "category": "landmark",
-                  "coords": [
-                        -89.141626,
-                        17.088773
-                  ]
-            },
-            {
-                  "name": "Marshallek Cancha",
-                  "text": "A centre for local arts and community sporting activities.",
-                  "category": "cultural",
-                  "coords": [
-                        -89.138644,
-                        17.073257
                   ]
             },
             {
@@ -4464,15 +4172,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
-                  "text": "Ein streng geschütztes Naturgebiet rund um den Vulkan Siete Orejas.",
-                  "category": "natural",
-                  "coords": [
-                        -91.602208,
-                        14.792039
-                  ]
-            },
-            {
                   "name": "centro cultural de san juan ostuncalco",
                   "text": "Ein lokales Kulturzentrum für Kunst und Veranstaltungen in Concepción Chiquirichapa.",
                   "category": "cultural",
@@ -4499,15 +4198,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
                   "coords": [
                         -91.64088,
                         14.843578
-                  ]
-            },
-            {
-                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
-                  "text": "Szigorúan védett természeti terület a Siete Orejas vulkán körül.",
-                  "category": "natural",
-                  "coords": [
-                        -91.602208,
-                        14.792039
                   ]
             },
             {
@@ -4540,15 +4230,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
-                  "text": "O zonă naturală strict protejată în jurul vulcanului Siete Orejas.",
-                  "category": "natural",
-                  "coords": [
-                        -91.602208,
-                        14.792039
-                  ]
-            },
-            {
                   "name": "centro cultural de san juan ostuncalco",
                   "text": "Un centru cultural local pentru artă și evenimente în Concepción Chiquirichapa.",
                   "category": "cultural",
@@ -4575,15 +4256,6 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
                   "coords": [
                         -91.64088,
                         14.843578
-                  ]
-            },
-            {
-                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
-                  "text": "A strictly protected natural area surrounding the Siete Orejas volcano.",
-                  "category": "natural",
-                  "coords": [
-                        -91.602208,
-                        14.792039
                   ]
             },
             {

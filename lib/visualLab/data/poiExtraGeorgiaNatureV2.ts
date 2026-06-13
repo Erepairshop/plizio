@@ -13,15 +13,6 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
                         43.113133,
                         42.999316
                   ]
-            },
-            {
-                  "name": "mqinvari shot`a rust`aveli - Shota Rustaveli",
-                  "text": "Ein Berggipfel im Kaukasus, benannt nach dem berühmten georgischen Dichter Schota Rustaweli.",
-                  "category": "landmark",
-                  "coords": [
-                        43.071697,
-                        43.007798
-                  ]
             }
       ],
       "hu": [
@@ -32,15 +23,6 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
                   "coords": [
                         43.113133,
                         42.999316
-                  ]
-            },
-            {
-                  "name": "mqinvari shot`a rust`aveli - Shota Rustaveli",
-                  "text": "Hegycsúcs a Kaukázusban, amelyet a híres középkori grúz költőről, Sota Rusztaveliről neveztek el.",
-                  "category": "landmark",
-                  "coords": [
-                        43.071697,
-                        43.007798
                   ]
             }
       ],
@@ -53,15 +35,6 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
                         43.113133,
                         42.999316
                   ]
-            },
-            {
-                  "name": "mqinvari shot`a rust`aveli - Shota Rustaveli",
-                  "text": "Un vârf muntos din Caucaz, numit după celebrul poet georgian medieval Shota Rustaveli.",
-                  "category": "landmark",
-                  "coords": [
-                        43.071697,
-                        43.007798
-                  ]
             }
       ],
       "en": [
@@ -72,15 +45,6 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
                   "coords": [
                         43.113133,
                         42.999316
-                  ]
-            },
-            {
-                  "name": "Peak Shota Rustaveli",
-                  "text": "A mountain peak named after the famous medieval Georgian poet Shota Rustaveli.",
-                  "category": "landmark",
-                  "coords": [
-                        43.071697,
-                        43.007798
                   ]
             }
       ]
@@ -1052,24 +1016,6 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Sanatorium \"Sakartvelo\"",
-                  "text": "This attraction is a grand, partly abandoned Soviet-era spa sanatorium known for its monumental classical architecture.",
-                  "category": "landmark",
-                  "coords": [
-                        42.590464,
-                        42.315859
-                  ]
-            },
-            {
-                  "name": "Hotel \"Tskaltubo\"",
-                  "text": "A historic grand hotel attraction situated near the therapeutic mineral springs of the Rioni River basin.",
-                  "category": "landmark",
-                  "coords": [
-                        42.590636,
-                        42.313117
-                  ]
-            },
-            {
                   "name": "St.George Church",
                   "text": "This traditional Christian church features a serene courtyard overlooking the scenic natural landscape of the Rioni River valley.",
                   "category": "landmark",
@@ -1230,17 +1176,7 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
                   ]
             }
       ],
-      "en": [
-            {
-                  "name": "Enguri dam",
-                  "text": "One of the world's highest arch dams, located on the Enguri River.",
-                  "category": "natural",
-                  "coords": [
-                        42.036148,
-                        42.760516
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "river",
     parent: "GE-SZ",
@@ -4466,15 +4402,6 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Katyntau / kat`int`au",
-                  "text": "Der Katintayu (Katyn-Tau) ist ein 4.979 Meter hoher Gipfel im Kaukasus nahe Tetnuldi, der bei Bergsteigern bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        43.036344,
-                        43.029604
-                  ]
-            },
-            {
                   "name": "Tetnuldi",
                   "text": "Der Tetnuldi ist ein 4.858 Meter hoher Berg in Swanetien, Georgien, bekannt für sein Skigebiet.",
                   "category": "landmark",
@@ -4492,15 +4419,6 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
                   "coords": [
                         43.025768,
                         43.048008
-                  ]
-            },
-            {
-                  "name": "Katyntau / kat`int`au",
-                  "text": "A Katintayu (Katyn-Tau) egy 4979 méteres csúcs a Kaukázusban Tetnuldi közelében, a hegymászók körében híres.",
-                  "category": "landmark",
-                  "coords": [
-                        43.036344,
-                        43.029604
                   ]
             },
             {
@@ -4524,15 +4442,6 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Katyntau / kat`int`au",
-                  "text": "Katintayu (Katyn-Tau) este un vârf de 4.979 de metri în Caucaz, lângă Tetnuldi, renumit printre alpiniști.",
-                  "category": "landmark",
-                  "coords": [
-                        43.036344,
-                        43.029604
-                  ]
-            },
-            {
                   "name": "თეთნულდი",
                   "text": "Tetnuldi este un munte de 4.858 de metri în Svaneti, Georgia, cunoscut pentru stațiunea sa de schi.",
                   "category": "landmark",
@@ -4550,15 +4459,6 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
                   "coords": [
                         43.025768,
                         43.048008
-                  ]
-            },
-            {
-                  "name": "Katintayu",
-                  "text": "Katintayu (Katyn-Tau) is a 4,979-meter peak in the Caucasus near Tetnuldi, famous among mountaineers.",
-                  "category": "landmark",
-                  "coords": [
-                        43.036344,
-                        43.029604
                   ]
             },
             {

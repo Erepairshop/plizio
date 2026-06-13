@@ -231,51 +231,6 @@ export const nauruHistoryV2: POI[] = [
     id: "nauru-buada-settlement-site-history-v2", "sights": {
       "de": [
             {
-                  "name": "Naoero Museum",
-                  "text": "Eine Zweigstelle des Nationalmuseums von Nauru an der Fundstätte Buada.",
-                  "category": "museum",
-                  "coords": [
-                        166.914786,
-                        -0.545113
-                  ]
-            },
-            {
-                  "name": "Command Ridge",
-                  "text": "Command Ridge ist der höchste Punkt Naurus in Historische Siedlung Buada.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Denkmal für die im Zweiten Weltkrieg deportierten Nauruer in Buada.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Cantilever Cranes",
-                  "text": "Cantilever Cranes ist eine bemerkenswerte Attraktion in Historische Siedlung Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909334,
-                        -0.531736
-                  ]
-            },
-            {
-                  "name": "Broken Down Cantilever Cranes",
-                  "text": "Verfallene Auslegerkräne auf dem Gelände von Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909328,
-                        -0.536405
-                  ]
-            },
-            {
                   "name": "Japanese WWII Gun",
                   "text": "Japanese WWII Gun ist eine historische Attraktion in Historische Siedlung Buada.",
                   "category": "landmark",
@@ -301,81 +256,9 @@ export const nauruHistoryV2: POI[] = [
                         166.923022,
                         -0.534968
                   ]
-            },
-            {
-                  "name": "Gun",
-                  "text": "Natürliche Felsformation in Form einer Kanone in Buada.",
-                  "category": "natural",
-                  "coords": [
-                        166.921971,
-                        -0.548699
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Bunker dient als Aussichtspunkt in Historische Siedlung Buada.",
-                  "category": "natural",
-                  "coords": [
-                        166.949339,
-                        -0.53965
-                  ]
-            },
-            {
-                  "name": "Japanese WWII guns and bunker",
-                  "text": "Japanische Geschütze und Bunker aus dem Zweiten Weltkrieg in Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.92438,
-                        -0.543957
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Naoero Museum",
-                  "text": "A Naurui Nemzeti Múzeum egy fióktelepe a Buada lelőhelyen.",
-                  "category": "museum",
-                  "coords": [
-                        166.914786,
-                        -0.545113
-                  ]
-            },
-            {
-                  "name": "Command Ridge",
-                  "text": "A Command Ridge Nauru legmagasabb pontja, amely Historische Siedlung Buada területén található.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "A második világháborúban száműzött nauruiak emlékműve Buadában.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Cantilever Cranes",
-                  "text": "A Cantilever Cranes egy figyelemre méltó látványosság Historische Siedlung Buada területén.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909334,
-                        -0.531736
-                  ]
-            },
-            {
-                  "name": "Broken Down Cantilever Cranes",
-                  "text": "Leromlott konzolos daruk Buada Settlement Site területén.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909328,
-                        -0.536405
-                  ]
-            },
             {
                   "name": "Japanese WWII Gun",
                   "text": "A Japanese WWII Gun egy történelmi látványosság Historische Siedlung Buada területén.",
@@ -402,81 +285,9 @@ export const nauruHistoryV2: POI[] = [
                         166.923022,
                         -0.534968
                   ]
-            },
-            {
-                  "name": "Gun",
-                  "text": "Természetes, ágyú alakú sziklaformáció Buadában.",
-                  "category": "natural",
-                  "coords": [
-                        166.921971,
-                        -0.548699
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "A Bunker kilátóként szolgál Historische Siedlung Buada területén.",
-                  "category": "natural",
-                  "coords": [
-                        166.949339,
-                        -0.53965
-                  ]
-            },
-            {
-                  "name": "Japanese WWII guns and bunker",
-                  "text": "Japán második világháborús ágyúk és bunker Buadában.",
-                  "category": "landmark",
-                  "coords": [
-                        166.92438,
-                        -0.543957
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Naoero Museum",
-                  "text": "O sucursală a muzeului național din Nauru la situl Buada Settlement.",
-                  "category": "museum",
-                  "coords": [
-                        166.914786,
-                        -0.545113
-                  ]
-            },
-            {
-                  "name": "Command Ridge",
-                  "text": "Command Ridge este cel mai înalt punct din Nauru, situat în Historische Siedlung Buada.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Monument pentru nauruanii exilați în al Doilea Război Mondial, în Buada.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Cantilever Cranes",
-                  "text": "Cantilever Cranes este o atracție notabilă situată în Historische Siedlung Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909334,
-                        -0.531736
-                  ]
-            },
-            {
-                  "name": "Broken Down Cantilever Cranes",
-                  "text": "Macarale cantilever dărăpănate în Buada Settlement Site.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909328,
-                        -0.536405
-                  ]
-            },
             {
                   "name": "Japanese WWII Gun",
                   "text": "Japanese WWII Gun este o atracție istorică aflată în Historische Siedlung Buada.",
@@ -503,81 +314,9 @@ export const nauruHistoryV2: POI[] = [
                         166.923022,
                         -0.534968
                   ]
-            },
-            {
-                  "name": "Gun",
-                  "text": "Formațiune naturală de stâncă în formă de tun în Buada.",
-                  "category": "natural",
-                  "coords": [
-                        166.921971,
-                        -0.548699
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Bunker servește ca punct de belvedere situat în Historische Siedlung Buada.",
-                  "category": "natural",
-                  "coords": [
-                        166.949339,
-                        -0.53965
-                  ]
-            },
-            {
-                  "name": "Japanese WWII guns and bunker",
-                  "text": "Tunuri și buncăr japoneze din al Doilea Război Mondial în Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.92438,
-                        -0.543957
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Naoero Museum",
-                  "text": "A branch of the national museum of Nauru at Buada Settlement site.",
-                  "category": "museum",
-                  "coords": [
-                        166.914786,
-                        -0.545113
-                  ]
-            },
-            {
-                  "name": "Command Ridge",
-                  "text": "Command Ridge is the highest point of Nauru, located in Historische Siedlung Buada.",
-                  "category": "natural",
-                  "coords": [
-                        166.916919,
-                        -0.530468
-                  ]
-            },
-            {
-                  "name": "Monument to the Nauruans Exiled in WWII",
-                  "text": "Monument to the Nauruans exiled in WWII in Buada.",
-                  "category": "historical",
-                  "coords": [
-                        166.911072,
-                        -0.529787
-                  ]
-            },
-            {
-                  "name": "Cantilever Cranes",
-                  "text": "Cantilever Cranes is a notable attraction situated in Historische Siedlung Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909334,
-                        -0.531736
-                  ]
-            },
-            {
-                  "name": "Broken Down Cantilever Cranes",
-                  "text": "Broken down cantilever cranes at Buada Settlement Site.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909328,
-                        -0.536405
-                  ]
-            },
             {
                   "name": "Japanese WWII Gun",
                   "text": "Japanese WWII Gun is a historical attraction found in Historische Siedlung Buada.",
@@ -603,33 +342,6 @@ export const nauruHistoryV2: POI[] = [
                   "coords": [
                         166.923022,
                         -0.534968
-                  ]
-            },
-            {
-                  "name": "Gun",
-                  "text": "Natural rock formation resembling a gun in Buada.",
-                  "category": "natural",
-                  "coords": [
-                        166.921971,
-                        -0.548699
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Bunker serves as a viewpoint located in Historische Siedlung Buada.",
-                  "category": "natural",
-                  "coords": [
-                        166.949339,
-                        -0.53965
-                  ]
-            },
-            {
-                  "name": "Japanese WWII guns and bunker",
-                  "text": "Japanese WWII guns and bunker in Buada.",
-                  "category": "landmark",
-                  "coords": [
-                        166.92438,
-                        -0.543957
                   ]
             }
       ]

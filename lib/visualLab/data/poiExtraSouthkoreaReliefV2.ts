@@ -3363,15 +3363,6 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
     id: "yudalsan-mountain-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Yangeulsan",
-                  "text": "Von diesem markanten Berggipfel aus können Wanderer weite Ausblicke über die Küstenlandschaft genießen.",
-                  "category": "natural",
-                  "coords": [
-                        126.407618,
-                        34.811589
-                  ]
-            },
-            {
                   "name": "Gibbeumssingkeugongjang Exhibition Hall",
                   "text": "Dieses spezielle Museum zeigt interessante Exponate zur regionalen Industriegeschichte oder lokalen Produktion.",
                   "category": "museum",
@@ -3598,15 +3589,6 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Yangeulsan",
-                  "text": "Erről a kiemelkedő hegycsúcsról a túrázók széles kilátást élvezhetnek a tengerparti tájra.",
-                  "category": "natural",
-                  "coords": [
-                        126.407618,
-                        34.811589
-                  ]
-            },
             {
                   "name": "Gibbeumssingkeugongjang Exhibition Hall",
                   "text": "Ez a különleges múzeum érdekes kiállítási tárgyakat mutat be a regionális ipartörténetről vagy a helyi termelésről.",
@@ -3835,15 +3817,6 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Yangeulsan",
-                  "text": "De pe acest vârf muntos proeminent, drumeții se pot bucura de priveliști ample asupra peisajului de coastă.",
-                  "category": "natural",
-                  "coords": [
-                        126.407618,
-                        34.811589
-                  ]
-            },
-            {
                   "name": "Gibbeumssingkeugongjang Exhibition Hall",
                   "text": "Acest muzeu special prezintă exponate interesante despre istoria industrială regională sau producția locală.",
                   "category": "museum",
@@ -4070,15 +4043,6 @@ export const poiExtraSouthkoreaReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Yangeulsan",
-                  "text": "From this prominent mountain peak, hikers can enjoy sweeping views of the coastal landscape.",
-                  "category": "natural",
-                  "coords": [
-                        126.407618,
-                        34.811589
-                  ]
-            },
             {
                   "name": "Gibbeumssingkeugongjang Exhibition Hall",
                   "text": "This specialized museum displays interesting exhibits on regional industrial history or local production.",

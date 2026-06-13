@@ -3161,15 +3161,6 @@ imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
                   ]
             },
             {
-                  "name": "Praia de San Roque-Lino",
-                  "text": "Ein lokaler Strandabschnitt in A Coruña, nahe dem historischen Herkulesturm.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.418827,
-                        43.372331
-                  ]
-            },
-            {
                   "name": "Praia das Morosas",
                   "text": "Ein malerischer Ort an der galicischen Küste für ruhige Strandtage.",
                   "category": "recreational",
@@ -3241,15 +3232,6 @@ imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
                   "coords": [
                         -8.419585,
                         43.373996
-                  ]
-            },
-            {
-                  "name": "Praia de San Roque-Lino",
-                  "text": "Helyi strandszakasz A Coruñában, a történelmi Herkules-torony közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.418827,
-                        43.372331
                   ]
             },
             {
@@ -3327,15 +3309,6 @@ imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
                   ]
             },
             {
-                  "name": "Praia de San Roque-Lino",
-                  "text": "O secțiune locală de plajă în A Coruña, aproape de istoricul Turn al lui Hercule.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.418827,
-                        43.372331
-                  ]
-            },
-            {
                   "name": "Praia das Morosas",
                   "text": "Un loc pitoresc pe coasta galiciană pentru zile liniștite la plajă.",
                   "category": "recreational",
@@ -3407,15 +3380,6 @@ imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
                   "coords": [
                         -8.419585,
                         43.373996
-                  ]
-            },
-            {
-                  "name": "Praia de San Roque-Lino",
-                  "text": "A local beach section in A Coruña, near the historic Tower of Hercules.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.418827,
-                        43.372331
                   ]
             },
             {
@@ -3533,15 +3497,6 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                   ]
             },
             {
-                  "name": "Museu de la Vida Rural",
-                  "text": "Ein ethnografisches Museum in L'Espluga de Francolí, das das traditionelle ländliche Leben zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        1.106213,
-                        41.396644
-                  ]
-            },
-            {
                   "name": "Castell de Riudabella",
                   "text": "Ein befestigtes Herrenhaus und eine Burg in der Nähe des Klosters Poblet.",
                   "category": "castle",
@@ -3551,48 +3506,12 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                   ]
             },
             {
-                  "name": "Museu del Vi",
-                  "text": "Ein Weinmuseum in einem modernistischen Gebäude, das der Geschichte des Weinbaus gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        1.104594,
-                        41.399387
-                  ]
-            },
-            {
-                  "name": "Cova de la Font Major",
-                  "text": "Eine der längsten Konglomerathöhlen der Welt mit einem archäologischen Museum im Inneren.",
-                  "category": "museum",
-                  "coords": [
-                        1.102642,
-                        41.398529
-                  ]
-            },
-            {
-                  "name": "Tossal de la Creu",
-                  "text": "Ein markanter Berggipfel in der Gemeinde Vimbodí i Poblet.",
-                  "category": "landmark",
-                  "coords": [
-                        1.082743,
-                        41.371799
-                  ]
-            },
-            {
                   "name": "Roca de la Mel",
                   "text": "Ein felsiger Gipfel in den Prades-Bergen in der Nähe des Klosters Poblet.",
                   "category": "landmark",
                   "coords": [
                         1.06495,
                         41.35765
-                  ]
-            },
-            {
-                  "name": "l'Escolta",
-                  "text": "L'Escolta, ein mittelalterlicher Wachturm, der den Eingang zum Kloster Poblet bewacht.",
-                  "category": "historical",
-                  "coords": [
-                        1.08568,
-                        41.367739
                   ]
             },
             {
@@ -3616,15 +3535,6 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                   ]
             },
             {
-                  "name": "Museu de la Vida Rural",
-                  "text": "Néprajzi múzeum L'Espluga de Francolíban, amely a hagyományos vidéki életet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        1.106213,
-                        41.396644
-                  ]
-            },
-            {
                   "name": "Castell de Riudabella",
                   "text": "Megerődített kúria és vár a Poblet-kolostor közelében.",
                   "category": "castle",
@@ -3634,48 +3544,12 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                   ]
             },
             {
-                  "name": "Museu del Vi",
-                  "text": "Bormúzeum egy modernista épületben, amelyet a szőlészet történetének szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        1.104594,
-                        41.399387
-                  ]
-            },
-            {
-                  "name": "Cova de la Font Major",
-                  "text": "A világ egyik leghosszabb konglomerátum barlangja, benne régészeti múzeummal.",
-                  "category": "museum",
-                  "coords": [
-                        1.102642,
-                        41.398529
-                  ]
-            },
-            {
-                  "name": "Tossal de la Creu",
-                  "text": "Kiemelkedő hegycsúcs Vimbodí i Poblet községben.",
-                  "category": "landmark",
-                  "coords": [
-                        1.082743,
-                        41.371799
-                  ]
-            },
-            {
                   "name": "Roca de la Mel",
                   "text": "Sziklás csúcs a Prades-hegységben, a Poblet-kolostor közelében.",
                   "category": "landmark",
                   "coords": [
                         1.06495,
                         41.35765
-                  ]
-            },
-            {
-                  "name": "l'Escolta",
-                  "text": "L'Escolta, egy középkori őrtorony, amely a Poblet-kolostor bejáratát őrzi.",
-                  "category": "historical",
-                  "coords": [
-                        1.08568,
-                        41.367739
                   ]
             },
             {
@@ -3699,15 +3573,6 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                   ]
             },
             {
-                  "name": "Museu de la Vida Rural",
-                  "text": "Un muzeu etnografic din L'Espluga de Francolí care prezintă viața rurală tradițională.",
-                  "category": "museum",
-                  "coords": [
-                        1.106213,
-                        41.396644
-                  ]
-            },
-            {
                   "name": "Castell de Riudabella",
                   "text": "Un conac fortificat și castel situat lângă Mănăstirea Poblet.",
                   "category": "castle",
@@ -3717,48 +3582,12 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                   ]
             },
             {
-                  "name": "Museu del Vi",
-                  "text": "Un muzeu al vinului situat într-o clădire modernistă, dedicat istoriei viticulturii.",
-                  "category": "museum",
-                  "coords": [
-                        1.104594,
-                        41.399387
-                  ]
-            },
-            {
-                  "name": "Cova de la Font Major",
-                  "text": "Una dintre cele mai lungi peșteri de conglomerat din lume, cu un muzeu arheologic în interior.",
-                  "category": "museum",
-                  "coords": [
-                        1.102642,
-                        41.398529
-                  ]
-            },
-            {
-                  "name": "Tossal de la Creu",
-                  "text": "Un vârf muntos proeminent din municipalitatea Vimbodí i Poblet.",
-                  "category": "landmark",
-                  "coords": [
-                        1.082743,
-                        41.371799
-                  ]
-            },
-            {
                   "name": "Roca de la Mel",
                   "text": "Un vârf stâncos din Munții Prades, situat lângă Mănăstirea Poblet.",
                   "category": "landmark",
                   "coords": [
                         1.06495,
                         41.35765
-                  ]
-            },
-            {
-                  "name": "l'Escolta",
-                  "text": "L'Escolta, un turn de pază medieval care păzește intrarea la Mănăstirea Poblet.",
-                  "category": "historical",
-                  "coords": [
-                        1.08568,
-                        41.367739
                   ]
             },
             {
@@ -3782,15 +3611,6 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                   ]
             },
             {
-                  "name": "Museu de la Vida Rural",
-                  "text": "An ethnographic museum in L'Espluga de Francolí showcasing traditional rural life.",
-                  "category": "museum",
-                  "coords": [
-                        1.106213,
-                        41.396644
-                  ]
-            },
-            {
                   "name": "Castell de Riudabella",
                   "text": "A fortified manor and castle located near the Poblet Monastery.",
                   "category": "castle",
@@ -3800,48 +3620,12 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
                   ]
             },
             {
-                  "name": "Museu del Vi",
-                  "text": "A wine museum located in a Modernist building, dedicated to the history of viticulture.",
-                  "category": "museum",
-                  "coords": [
-                        1.104594,
-                        41.399387
-                  ]
-            },
-            {
-                  "name": "Cova de la Font Major",
-                  "text": "One of the longest conglomerate caves in the world, featuring an archaeological museum inside.",
-                  "category": "museum",
-                  "coords": [
-                        1.102642,
-                        41.398529
-                  ]
-            },
-            {
-                  "name": "Tossal de la Creu",
-                  "text": "A prominent mountain peak in the Vimbodí i Poblet municipality.",
-                  "category": "landmark",
-                  "coords": [
-                        1.082743,
-                        41.371799
-                  ]
-            },
-            {
                   "name": "Roca de la Mel",
                   "text": "A rocky peak in the Prades Mountains near the Poblet Monastery.",
                   "category": "landmark",
                   "coords": [
                         1.06495,
                         41.35765
-                  ]
-            },
-            {
-                  "name": "l'Escolta",
-                  "text": "L'Escolta, a medieval watchtower guarding the entrance to Poblet Monastery.",
-                  "category": "historical",
-                  "coords": [
-                        1.08568,
-                        41.367739
                   ]
             },
             {
@@ -7076,15 +6860,6 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     id: "spain-alcazaba-de-almeria-history-v2", "sights": {
       "de": [
             {
-                  "name": "Playa de Nueva Almería",
-                  "text": "Strand in Almería in der Nähe der Alcazaba-Festung, mit goldenem Sand.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.437374,
-                        36.817371
-                  ]
-            },
-            {
                   "name": "Playa de El Zapillo",
                   "text": "Playa de El Zapillo, ein langer städtischer Sandstrand am Fuße der Alcazaba von Almería.",
                   "category": "recreational",
@@ -7092,36 +6867,9 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                         -2.448094,
                         36.824574
                   ]
-            },
-            {
-                  "name": "Playa de San Miguel",
-                  "text": "Playa de San Miguel, eine ruhige Bucht mit Blick auf die Alcazaba-Festung.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.454128,
-                        36.828298
-                  ]
-            },
-            {
-                  "name": "Playa de la Térmica",
-                  "text": "Playa de la Térmica, ein Strand neben dem ehemaligen Wärmekraftwerk in Almería.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.443308,
-                        36.821568
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Playa de Nueva Almería",
-                  "text": "Strand Almeríában, az Alcazaba erőd közelében, aranysárga homokkal.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.437374,
-                        36.817371
-                  ]
-            },
             {
                   "name": "Playa de El Zapillo",
                   "text": "Playa de El Zapillo, egy hosszú városi homokos strand az almeríai Alcazaba lábánál.",
@@ -7130,36 +6878,9 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                         -2.448094,
                         36.824574
                   ]
-            },
-            {
-                  "name": "Playa de San Miguel",
-                  "text": "Playa de San Miguel, egy csendes öböl strand, kilátással az Alcazaba erődre.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.454128,
-                        36.828298
-                  ]
-            },
-            {
-                  "name": "Playa de la Térmica",
-                  "text": "Playa de la Térmica, egy strand az egykori hőerőmű mellett Almeríában.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.443308,
-                        36.821568
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Playa de Nueva Almería",
-                  "text": "Plajă în Almería, lângă fortăreața Alcazaba, cu nisip auriu.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.437374,
-                        36.817371
-                  ]
-            },
             {
                   "name": "Playa de El Zapillo",
                   "text": "Playa de El Zapillo, o plajă urbană lungă de nisip la poalele Alcazabei din Almería.",
@@ -7168,36 +6889,9 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                         -2.448094,
                         36.824574
                   ]
-            },
-            {
-                  "name": "Playa de San Miguel",
-                  "text": "Playa de San Miguel, o plajă liniștită de golfuleț cu vedere la fortăreața Alcazaba.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.454128,
-                        36.828298
-                  ]
-            },
-            {
-                  "name": "Playa de la Térmica",
-                  "text": "Playa de la Térmica, o plajă adiacentă fostei centrale termice din Almería.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.443308,
-                        36.821568
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Playa de Nueva Almería",
-                  "text": "Beach in Almería near the Alcazaba fortress, with golden sand.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.437374,
-                        36.817371
-                  ]
-            },
             {
                   "name": "Playa de El Zapillo",
                   "text": "Playa de El Zapillo, a long urban sandy beach at the foot of Almería's Alcazaba.",
@@ -7205,24 +6899,6 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
                   "coords": [
                         -2.448094,
                         36.824574
-                  ]
-            },
-            {
-                  "name": "Playa de San Miguel",
-                  "text": "Playa de San Miguel, a quiet cove beach with a view of the Alcazaba fortress.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.454128,
-                        36.828298
-                  ]
-            },
-            {
-                  "name": "Playa de la Térmica",
-                  "text": "Playa de la Térmica, a beach adjacent to the former thermal power plant in Almería.",
-                  "category": "recreational",
-                  "coords": [
-                        -2.443308,
-                        36.821568
                   ]
             }
       ]
@@ -8012,15 +7688,6 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
     id: "spain-ruinas-de-bobastro-history-v2", "sights": {
       "de": [
             {
-                  "name": "Bobastro",
-                  "text": "Die Überreste einer befestigten Stadt aus dem 9. Jahrhundert in Andalusien.",
-                  "category": "historical",
-                  "coords": [
-                        -4.780947,
-                        36.902087
-                  ]
-            },
-            {
                   "name": "Sierra de Aguas",
                   "text": "Ein Berggipfel in der Nähe der historischen Stätte Bobastro.",
                   "category": "landmark",
@@ -8031,15 +7698,6 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             }
       ],
       "hu": [
-            {
-                  "name": "Bobastro",
-                  "text": "Egy 9. századi erődített város romjai Andalúziában.",
-                  "category": "historical",
-                  "coords": [
-                        -4.780947,
-                        36.902087
-                  ]
-            },
             {
                   "name": "Sierra de Aguas",
                   "text": "Egy hegycsúcs a történelmi Bobastro közelében.",
@@ -8052,15 +7710,6 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ],
       "ro": [
             {
-                  "name": "Bobastro",
-                  "text": "Ruinele unui oraș fortificat din secolul al IX-lea în Andaluzia.",
-                  "category": "historical",
-                  "coords": [
-                        -4.780947,
-                        36.902087
-                  ]
-            },
-            {
                   "name": "Sierra de Aguas",
                   "text": "Un vârf muntos situat în apropierea sitului istoric Bobastro.",
                   "category": "landmark",
@@ -8071,15 +7720,6 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             }
       ],
       "en": [
-            {
-                  "name": "Bobastro",
-                  "text": "The ruins of a 9th-century fortified settlement in Andalusia.",
-                  "category": "historical",
-                  "coords": [
-                        -4.780947,
-                        36.902087
-                  ]
-            },
             {
                   "name": "Sierra de Aguas",
                   "text": "A mountain peak located near the historic site of Bobastro.",

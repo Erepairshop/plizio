@@ -843,15 +843,6 @@ export const portugalNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia Fluvial do Areinho",
-                  "text": "Ein beliebter Flussstrand im Paiva-Tal, oft Ausgangspunkt für Wanderungen.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.176524,
-                        40.952683
-                  ]
-            },
-            {
                   "name": "Mira Paiva",
                   "text": "Ein Aussichtspunkt im Paiva-Tal, der einen Panoramablick auf den Fluss bietet.",
                   "category": "landmark",
@@ -905,15 +896,6 @@ export const portugalNatureV2: POI[] = [
                   "coords": [
                         -8.174464,
                         40.934872
-                  ]
-            },
-            {
-                  "name": "Praia Fluvial do Areinho",
-                  "text": "Népszerű folyóparti strand a Paiva-völgyben, gyakran túrák kiindulópontja.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.176524,
-                        40.952683
                   ]
             },
             {
@@ -973,15 +955,6 @@ export const portugalNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia Fluvial do Areinho",
-                  "text": "O plajă fluvială populară în valea Paiva, adesea punct de plecare pentru drumeții.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.176524,
-                        40.952683
-                  ]
-            },
-            {
                   "name": "Mira Paiva",
                   "text": "Un punct de belvedere în valea Paiva, oferind o vedere panoramică asupra râului.",
                   "category": "landmark",
@@ -1035,15 +1008,6 @@ export const portugalNatureV2: POI[] = [
                   "coords": [
                         -8.174464,
                         40.934872
-                  ]
-            },
-            {
-                  "name": "Praia Fluvial do Areinho",
-                  "text": "A popular river beach in the Paiva valley, often a starting point for hikes.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.176524,
-                        40.952683
                   ]
             },
             {
@@ -1149,15 +1113,6 @@ export const portugalNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baloiço do Sobral Magro",
-                  "text": "Eine beliebte Schaukel für Besucher, die einen Panoramablick auf die umliegende Berglandschaft bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.851901,
-                        40.246433
-                  ]
-            },
-            {
                   "name": "Praia Fluvial de Agroal",
                   "text": "Ein Flussstrand in der Region, der an heißen Tagen Erholung und Abkühlung in der Natur bietet.",
                   "category": "landmark",
@@ -1167,30 +1122,12 @@ export const portugalNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscinas do Tojo",
-                  "text": "Eine öffentliche Badeanlage, die Besuchern eine Erfrischungsmöglichkeit in der Nähe der Natur bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.863054,
-                        40.210933
-                  ]
-            },
-            {
                   "name": "Parque de Merendas Cerdeira",
                   "text": "Ein ruhiger Picknickplatz im Wald, ideal für eine Pause während einer Wanderung durch das Reservat.",
                   "category": "landmark",
                   "coords": [
                         -7.922408,
                         40.247945
-                  ]
-            },
-            {
-                  "name": "Piscina Fluvial de Sobral Magro",
-                  "text": "Ein Flussbad in Sobral Magro, das natürliche Erholung im Wald von Margaraça bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        -7.858462,
-                        40.247774
                   ]
             },
             {
@@ -1250,15 +1187,6 @@ export const portugalNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baloiço do Sobral Magro",
-                  "text": "Népszerű hinta a látogatók számára, amely panorámás kilátást nyújt a környező hegyi tájra.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.851901,
-                        40.246433
-                  ]
-            },
-            {
                   "name": "Praia Fluvial de Agroal",
                   "text": "Folyóparti strand a régióban, amely pihenést és felfrissülést kínál a természetben a forró napokon.",
                   "category": "landmark",
@@ -1268,30 +1196,12 @@ export const portugalNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscinas do Tojo",
-                  "text": "Nyilvános fürdőhely, amely frissítő lehetőséget kínál a látogatóknak a természet közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.863054,
-                        40.210933
-                  ]
-            },
-            {
                   "name": "Parque de Merendas Cerdeira",
                   "text": "Csendes erdei piknikezőhely, ideális pihenőhely a rezervátumon keresztüli túrázás során.",
                   "category": "landmark",
                   "coords": [
                         -7.922408,
                         40.247945
-                  ]
-            },
-            {
-                  "name": "Piscina Fluvial de Sobral Magro",
-                  "text": "Folyóparti medence Sobral Magróban, amely természetes kikapcsolódást kínál a Margaraça-erdőben.",
-                  "category": "recreational",
-                  "coords": [
-                        -7.858462,
-                        40.247774
                   ]
             },
             {
@@ -1351,15 +1261,6 @@ export const portugalNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baloiço do Sobral Magro",
-                  "text": "Un leagăn popular pentru vizitatori, care oferă o vedere panoramică asupra peisajului montan înconjurător.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.851901,
-                        40.246433
-                  ]
-            },
-            {
                   "name": "Praia Fluvial de Agroal",
                   "text": "O plajă fluvială în regiune, care oferă relaxare și răcoare în natură în zilele toride.",
                   "category": "landmark",
@@ -1369,30 +1270,12 @@ export const portugalNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscinas do Tojo",
-                  "text": "O zonă publică de înot care oferă vizitatorilor o opțiune de răcorire aproape de natură.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.863054,
-                        40.210933
-                  ]
-            },
-            {
                   "name": "Parque de Merendas Cerdeira",
                   "text": "Un loc liniștit pentru picnic în pădure, ideal pentru o pauză în timpul unei drumeții prin rezervație.",
                   "category": "landmark",
                   "coords": [
                         -7.922408,
                         40.247945
-                  ]
-            },
-            {
-                  "name": "Piscina Fluvial de Sobral Magro",
-                  "text": "O piscină fluvială în Sobral Magro, oferind recreere naturală în pădurea Margaraça.",
-                  "category": "recreational",
-                  "coords": [
-                        -7.858462,
-                        40.247774
                   ]
             },
             {
@@ -1452,15 +1335,6 @@ export const portugalNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baloiço do Sobral Magro",
-                  "text": "A popular swing for visitors providing panoramic views of the surrounding mountain landscape.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.851901,
-                        40.246433
-                  ]
-            },
-            {
                   "name": "Praia Fluvial de Agroal",
                   "text": "A river beach in the region, offering relaxation and refreshment in nature on hot days.",
                   "category": "landmark",
@@ -1470,30 +1344,12 @@ export const portugalNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscinas do Tojo",
-                  "text": "A public swimming area offering visitors a refreshing option close to nature.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.863054,
-                        40.210933
-                  ]
-            },
-            {
                   "name": "Parque de Merendas Cerdeira",
                   "text": "A quiet picnic spot in the woods, ideal for a break during a hike through the reserve.",
                   "category": "landmark",
                   "coords": [
                         -7.922408,
                         40.247945
-                  ]
-            },
-            {
-                  "name": "Piscina Fluvial de Sobral Magro",
-                  "text": "A river pool in Sobral Magro offering natural recreation in the Margaraça Forest.",
-                  "category": "recreational",
-                  "coords": [
-                        -7.858462,
-                        40.247774
                   ]
             },
             {

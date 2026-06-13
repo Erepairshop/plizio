@@ -6,42 +6,6 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-mediana-history-v2", "sights": {
       "de": [
             {
-                  "name": "Nishka tvrdjava",
-                  "text": "Festung Niš in Mediana, eine osmanische Festung am Fluss Nišava.",
-                  "category": "castle",
-                  "coords": [
-                        21.895447,
-                        43.325772
-                  ]
-            },
-            {
-                  "name": "Palata sa oktogonom",
-                  "text": "Eine bedeutende archäologische Ausgrabungsstätte mit den Überresten eines spätrömischen Palastes.",
-                  "category": "historical",
-                  "coords": [
-                        21.892931,
-                        43.328275
-                  ]
-            },
-            {
-                  "name": "Khamam u nishkoj tvrdjavi",
-                  "text": "Ein historischer Hamam innerhalb der Festung von Niš aus der osmanischen Zeit.",
-                  "category": "historical",
-                  "coords": [
-                        21.895043,
-                        43.323494
-                  ]
-            },
-            {
-                  "name": "Archäologische Sammlung des Nationalmuseum Niš",
-                  "text": "Diese archäologische Halle in Mediana präsentiert bedeutende Funde aus der römischen Kaiserzeit.",
-                  "category": "museum",
-                  "coords": [
-                        21.893301,
-                        43.318336
-                  ]
-            },
-            {
                   "name": "Mediana",
                   "text": "Mediana ist eine bedeutende spätantike archäologische Stätte und ehemalige Residenz von Konstantin dem Großen.",
                   "category": "historical",
@@ -60,15 +24,6 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mali bazen Chair",
-                  "text": "Ein kleines Schwimmbad im Sportkomplex Čair im Stadtteil Mediana.",
-                  "category": "recreational",
-                  "coords": [
-                        21.908558,
-                        43.313201
-                  ]
-            },
-            {
                   "name": "Vrezhinski bazen",
                   "text": "Ein lokales Schwimmbad im Stadtviertel Vrežina in Niš.",
                   "category": "recreational",
@@ -79,42 +34,6 @@ export const serbiaHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Nishka tvrdjava",
-                  "text": "Niši erőd Mediana közelében, egy oszmán erőd a Nišava folyónál.",
-                  "category": "castle",
-                  "coords": [
-                        21.895447,
-                        43.325772
-                  ]
-            },
-            {
-                  "name": "Palata sa oktogonom",
-                  "text": "Jelentős régészeti lelőhely egy késő római palota maradványaival.",
-                  "category": "historical",
-                  "coords": [
-                        21.892931,
-                        43.328275
-                  ]
-            },
-            {
-                  "name": "Khamam u nishkoj tvrdjavi",
-                  "text": "Történelmi hamam a niši erődben, az oszmán korszakból.",
-                  "category": "historical",
-                  "coords": [
-                        21.895043,
-                        43.323494
-                  ]
-            },
-            {
-                  "name": "Narodni muzej",
-                  "text": "Ez a madiánai (Mediana) régészeti csarnok a római korból származó jelentős leleteket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        21.893301,
-                        43.318336
-                  ]
-            },
             {
                   "name": "Medijana",
                   "text": "Mediana egy jelentős késő antik régészeti lelőhely, amely Nagy Konstantin egykori rezidenciája volt.",
@@ -134,15 +53,6 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mali bazen Chair",
-                  "text": "Kisméretű úszómedence a Mediana negyedben található Čair sportkomplexumban.",
-                  "category": "recreational",
-                  "coords": [
-                        21.908558,
-                        43.313201
-                  ]
-            },
-            {
                   "name": "Vrezhinski bazen",
                   "text": "Helyi úszómedence Niš Vrežina városrészében.",
                   "category": "recreational",
@@ -153,42 +63,6 @@ export const serbiaHistoryV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Nishka tvrdjava",
-                  "text": "Cetatea Niš în Mediana, o fortăreață otomană pe râul Nișava.",
-                  "category": "castle",
-                  "coords": [
-                        21.895447,
-                        43.325772
-                  ]
-            },
-            {
-                  "name": "Palata sa oktogonom",
-                  "text": "Un sit arheologic important ce cuprinde vestigiile unui palat roman târziu.",
-                  "category": "historical",
-                  "coords": [
-                        21.892931,
-                        43.328275
-                  ]
-            },
-            {
-                  "name": "Khamam u nishkoj tvrdjavi",
-                  "text": "Un hamam istoric din interiorul cetății Niš, datând din perioada otomană.",
-                  "category": "historical",
-                  "coords": [
-                        21.895043,
-                        43.323494
-                  ]
-            },
-            {
-                  "name": "Narodni muzej",
-                  "text": "Această sală arheologică din Mediana prezintă descoperiri semnificative din epoca romană.",
-                  "category": "museum",
-                  "coords": [
-                        21.893301,
-                        43.318336
-                  ]
-            },
             {
                   "name": "Medijana",
                   "text": "Mediana este un important sit arheologic din antichitatea târzie și fosta reședință a lui Constantin cel Mare.",
@@ -208,15 +82,6 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mali bazen Chair",
-                  "text": "O piscină de mici dimensiuni situată în complexul sportiv Čair din Mediana.",
-                  "category": "recreational",
-                  "coords": [
-                        21.908558,
-                        43.313201
-                  ]
-            },
-            {
                   "name": "Vrezhinski bazen",
                   "text": "O piscină locală situată în zona Vrežina din Niš.",
                   "category": "recreational",
@@ -227,42 +92,6 @@ export const serbiaHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Niš Fortress",
-                  "text": "Niš Fortress in Mediana, an Ottoman fortress on the Nišava river.",
-                  "category": "castle",
-                  "coords": [
-                        21.895447,
-                        43.325772
-                  ]
-            },
-            {
-                  "name": "The Octagon Palace",
-                  "text": "An important archaeological site featuring the remains of a late Roman palace.",
-                  "category": "historical",
-                  "coords": [
-                        21.892931,
-                        43.328275
-                  ]
-            },
-            {
-                  "name": "Turkish bath",
-                  "text": "A historical hammam within the Niš Fortress, dating back to the Ottoman period.",
-                  "category": "historical",
-                  "coords": [
-                        21.895043,
-                        43.323494
-                  ]
-            },
-            {
-                  "name": "Archaeological Hall",
-                  "text": "This archaeological hall in Mediana displays significant finds from the Roman imperial period.",
-                  "category": "museum",
-                  "coords": [
-                        21.893301,
-                        43.318336
-                  ]
-            },
             {
                   "name": "Mediana",
                   "text": "Mediana is a major Late Antique archaeological site and the former residence of Constantine the Great.",
@@ -279,15 +108,6 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         21.920801,
                         43.334685
-                  ]
-            },
-            {
-                  "name": "Mali bazen Chair",
-                  "text": "A small swimming pool facility located in the Čair sports complex in Mediana.",
-                  "category": "recreational",
-                  "coords": [
-                        21.908558,
-                        43.313201
                   ]
             },
             {
@@ -438,87 +258,6 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-kosancic-venac-history-v2", "sights": {
       "de": [
             {
-                  "name": "Römischer Brunnen",
-                  "text": "Ein geheimnisvoller historischer Brunnen in der Belgrader Festung, der trotz seines Namens wahrscheinlich aus dem 18. Jahrhundert stammt.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Ausgrabungsstätte mit den Überresten der mittelalterlichen Residenz des serbischen Herrschers Stefan Lazarević.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Das Museum dokumentiert die reiche Geschichte Serbiens von der Antike bis zur Gegenwart.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Dieses Museum in Belgrad zeigt die Entwicklung des Schienenverkehrs und historische Lokomotiven in Serbien.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Das Museum ist dem Leben und Werk des Literaturnobelpreisträgers Ivo Andrić in seiner ehemaligen Belgrader Wohnung gewidmet.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Ein Museum, das dem berühmten serbischen Maler Paja Jovanović gewidmet ist und eine Auswahl seiner bedeutenden Werke zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Dieses Privatmuseum in Belgrad präsentiert eine bedeutende Sammlung moderner und zeitgenössischer serbischer Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Das Museum beleuchtet die Geschichte des Post-, Telegrafen- und Telefonwesens in Serbien.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Eine Wellness- und Schwimmeinrichtung in der Nähe des historischen Kosančićev venac in Belgrad.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Ein Belgrader Aquarium, das verschiedene Fisch-, Reptilien- und Amphibienarten zeigt.",
                   "category": "recreational",
@@ -544,99 +283,9 @@ export const serbiaHistoryV2: POI[] = [
                         20.424264,
                         44.840025
                   ]
-            },
-            {
-                  "name": "Belgrader Zoo",
-                  "text": "Einer der ältesten Zoos in Europa, gelegen im Kalemegdan-Park in Belgrad.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Rimski bunar",
-                  "text": "Rejtélyes történelmi kút a belgrádi erődben, amely neve ellenére valószínűleg a 18. századból származik.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Régészeti lelőhely Stefan Lazarević szerb uralkodó középkori rezidenciájának maradványaival.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "A múzeum Szerbia gazdag történelmét dokumentálja az ókortól napjainkig.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Ez a belgrádi múzeum a vasúti közlekedés fejlődését és a szerbiai történelmi mozdonyokat mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "A múzeum az irodalmi Nobel-díjas Ivo Andrić életének és munkásságának állít emléket egykori belgrádi lakásában.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "A híres szerb festő, Paja Jovanović munkásságának szentelt múzeum, amely jelentős alkotásait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Ez a belgrádi magánmúzeum a modern és kortárs szerb művészet jelentős gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "A múzeum a szerbiai posta-, távíró- és telefonhálózat történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Wellness- és úszólétesítmény a belgrádi Kosančićev venac történelmi negyed közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
             {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Belgrádi akvárium, amely különféle halfajokat, hüllőket és kétéltűeket mutat be.",
@@ -676,87 +325,6 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rimski bunar",
-                  "text": "O fântână istorică misterioasă în cetatea Belgradului, care, în ciuda numelui, datează probabil din secolul al XVIII-lea.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Sit arheologic cu rămășițele reședinței medievale a domnitorului sârb Stefan Lazarević.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Muzeul documentează istoria bogată a Serbiei, din antichitate până în prezent.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Acest muzeu din Belgrad prezintă evoluția transportului feroviar și locomotive istorice din Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Muzeul este dedicat vieții și operei laureatului Premiului Nobel pentru literatură, Ivo Andrić, în fostul său apartament din Belgrad.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Un muzeu dedicat celebrului pictor sârb Paja Jovanović, expunând o selecție a operelor sale importante.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Acest muzeu privat din Belgrad prezintă o colecție importantă de artă sârbă modernă și contemporană.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Muzeul prezintă istoria serviciilor poștale, telegrafice și telefonice din Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "O facilitate de wellness și înot situată lângă centrul istoric Kosančićev venac din Belgrad.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Un acvariu din Belgrad care expune diverse specii de pești, reptile și amfibieni.",
                   "category": "recreational",
@@ -793,125 +361,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             }
       ],
-      "en": [
-            {
-                  "name": "Roman Well",
-                  "text": "A mysterious historical well in the Belgrade Fortress which, despite its name, likely dates to the 18th century.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Remains of Despot Stefan Lazarevic's Castle",
-                  "text": "Archaeological site featuring the remains of the medieval residence of the Serbian ruler Stefan Lazarević.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Historical Museum of Serbia",
-                  "text": "The museum documents the rich history of Serbia from antiquity to the present day.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "This museum in Belgrade showcases the development of rail transport and historic locomotives in Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Ivo Andric Museum",
-                  "text": "The museum is dedicated to the life and work of Nobel Prize-winning author Ivo Andrić in his former Belgrade apartment.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovića",
-                  "text": "A museum dedicated to the famous Serbian painter Paja Jovanović, showcasing a selection of his significant works.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Zepter Museum",
-                  "text": "This private museum in Belgrade presents a significant collection of modern and contemporary Serbian art.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT Museum",
-                  "text": "The museum highlights the history of postal, telegraph, and telephone services in Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "A wellness and swimming facility located near the historic Kosančićev venac in Belgrade.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
-                  "name": "Public Aquarium and Tropicarium",
-                  "text": "A Belgrade aquarium displaying diverse species of fish, reptiles, and amphibians.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450379,
-                        44.784244
-                  ]
-            },
-            {
-                  "name": "Dino Park Kalemegdan – Jura Avantura",
-                  "text": "A dinosaur-themed adventure park located within the Kalemegdan Fortress area.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450851,
-                        44.822126
-                  ]
-            },
-            {
-                  "name": "Lido",
-                  "text": "A popular river beach on the Great War Island in the Danube, accessible from Zemun.",
-                  "category": "recreational",
-                  "coords": [
-                        20.424264,
-                        44.840025
-                  ]
-            },
-            {
-                  "name": "Belgrade Zoo",
-                  "text": "One of the oldest zoos in Europe, located within the Kalemegdan park in Belgrade.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "landmark",
     parent: "RS",
@@ -1075,24 +525,6 @@ export const serbiaHistoryV2: POI[] = [
                         20.506192,
                         43.163696
                   ]
-            },
-            {
-                  "name": "Tsrkva Svetikh apostola Petra i Pavla",
-                  "text": "Eine der ältesten Kirchen Serbiens, deren Ursprünge bis ins 9. Jahrhundert zurückreichen.",
-                  "category": "religious",
-                  "coords": [
-                        20.527643,
-                        43.161378
-                  ]
-            },
-            {
-                  "name": "olimpijski bazen",
-                  "text": "Ein olympisches Schwimmbecken für sportliche Aktivitäten bei der Kirche St. Peter und Paul.",
-                  "category": "recreational",
-                  "coords": [
-                        20.515877,
-                        43.138816
-                  ]
             }
       ],
       "hu": [
@@ -1121,24 +553,6 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         20.506192,
                         43.163696
-                  ]
-            },
-            {
-                  "name": "Tsrkva Svetikh apostola Petra i Pavla",
-                  "text": "Szerbia egyik legrégebbi temploma, amely a 9. századból származik.",
-                  "category": "religious",
-                  "coords": [
-                        20.527643,
-                        43.161378
-                  ]
-            },
-            {
-                  "name": "olimpijski bazen",
-                  "text": "Olimpiai úszómedence sportolási lehetőségekkel a Szent Péter és Pál-templomnál.",
-                  "category": "recreational",
-                  "coords": [
-                        20.515877,
-                        43.138816
                   ]
             }
       ],
@@ -1169,24 +583,6 @@ export const serbiaHistoryV2: POI[] = [
                         20.506192,
                         43.163696
                   ]
-            },
-            {
-                  "name": "Tsrkva Svetikh apostola Petra i Pavla",
-                  "text": "Una dintre cele mai vechi biserici din Serbia, datând din secolul al IX-lea.",
-                  "category": "religious",
-                  "coords": [
-                        20.527643,
-                        43.161378
-                  ]
-            },
-            {
-                  "name": "olimpijski bazen",
-                  "text": "O piscină olimpică destinată activităților sportive lângă Biserica Sfinții Petru și Pavel.",
-                  "category": "recreational",
-                  "coords": [
-                        20.515877,
-                        43.138816
-                  ]
             }
       ],
       "en": [
@@ -1215,24 +611,6 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         20.506192,
                         43.163696
-                  ]
-            },
-            {
-                  "name": "Church of Saint Apostles Peter and Paul",
-                  "text": "One of the oldest churches in Serbia, dating back to the 9th century.",
-                  "category": "religious",
-                  "coords": [
-                        20.527643,
-                        43.161378
-                  ]
-            },
-            {
-                  "name": "olimpijski bazen",
-                  "text": "An Olympic-sized swimming pool suitable for sports activities near the Church of Saints Peter and Paul.",
-                  "category": "recreational",
-                  "coords": [
-                        20.515877,
-                        43.138816
                   ]
             }
       ]
@@ -1374,87 +752,6 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-kula-nebojsa-history-v2", "sights": {
       "de": [
             {
-                  "name": "Römischer Brunnen",
-                  "text": "Ein historischer Brunnen in der Belgrader Festung, der trotz seines Namens aus dem 18. Jahrhundert stammt.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Archäologische Überreste der mittelalterlichen Residenz des serbischen Despoten Stefan Lazarević.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Das Nationalmuseum in Belgrad, das die reiche Geschichte des serbischen Staates dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Ein Museum in Belgrad, das die Geschichte des Schienenverkehrs in Serbien präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Ein Gedenkmuseum für den Nobelpreisträger Ivo Andrić in seiner ehemaligen Belgrader Wohnung.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Dieses Museum am Nebojša-Turm ist dem Leben und Werk des berühmten serbischen Malers Paja Jovanović gewidmet.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Ein Kunstmuseum am Nebojša-Turm, das eine bedeutende Sammlung moderner und zeitgenössischer Werke zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Dieses Museum am Nebojša-Turm dokumentiert die Geschichte des Post-, Telegrafen- und Telefonwesens in Belgrad.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Ein Schwimmclub in Belgrad, der Sport- und Freizeiteinrichtungen für Besucher bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Dieses Aquarium in Belgrad beherbergt zahlreiche exotische Fischarten und Wasserbewohner.",
                   "category": "recreational",
@@ -1480,99 +777,9 @@ export const serbiaHistoryV2: POI[] = [
                         20.424264,
                         44.840025
                   ]
-            },
-            {
-                  "name": "Belgrader Zoo",
-                  "text": "Der Zoo von Belgrad beherbergt eine große Vielfalt an Tieren in der Nähe der alten Festung.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Rimski bunar",
-                  "text": "Történelmi kút a belgrádi várban, amely neve ellenére a 18. századból származik.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Stefan Lazarević szerb despota középkori rezidenciájának régészeti maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Belgrádi nemzeti múzeum, amely a szerb állam gazdag történelmét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Belgrádi múzeum, amely a szerbiai vasúti közlekedés történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Ivo Andrić Nobel-díjas író emlékmúzeuma az egykori belgrádi lakásában.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Ez a Nebojša-toronynál található múzeum a híres szerb festő, Paja Jovanović életét és munkásságát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Művészeti múzeum a Nebojša-toronynál, amely modern és kortárs művek jelentős gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Ez a Nebojša-toronynál található múzeum a belgrádi posta, távíró és telefon történetét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Belgrádi úszóklub, amely sport- és szabadidős létesítményeket kínál a látogatóknak.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
             {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Ez a belgrádi akvárium számos egzotikus halfajnak és vízi élőlénynek ad otthont.",
@@ -1612,87 +819,6 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rimski bunar",
-                  "text": "O fântână istorică din cetatea Belgradului, care, în ciuda numelui, datează din secolul al XVIII-lea.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Vestigii arheologice ale reședinței medievale a despotului sârb Stefan Lazarević.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Muzeul național din Belgrad care documentează istoria bogată a statului sârb.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Un muzeu din Belgrad care prezintă istoria transportului feroviar în Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Un muzeu memorial dedicat laureatului Nobel Ivo Andrić, situat în fostul său apartament din Belgrad.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Acest muzeu de la Turnul Nebojșa este dedicat vieții și operei celebrului pictor sârb Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Un muzeu de artă de la Turnul Nebojșa, care expune o colecție importantă de opere moderne și contemporane.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Acest muzeu de la Turnul Nebojșa documentează istoria poștei, telegrafiei și telefoniei din Belgrad.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "Un club de înot în Belgrad, care oferă facilități sportive și recreative pentru vizitatori.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Acest acvariu din Belgrad găzduiește numeroase specii de pești exotici și creaturi marine.",
                   "category": "recreational",
@@ -1729,125 +855,7 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             }
       ],
-      "en": [
-            {
-                  "name": "Roman Well",
-                  "text": "A historic well in the Belgrade Fortress which, despite its name, dates back to the 18th century.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Remains of Despot Stefan Lazarevic's Castle",
-                  "text": "Archaeological remains of the medieval residence of the Serbian Despot Stefan Lazarević.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Historical Museum of Serbia",
-                  "text": "The national museum in Belgrade documenting the rich history of the Serbian state.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "A museum in Belgrade presenting the history of rail transport in Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Ivo Andric Museum",
-                  "text": "A memorial museum dedicated to Nobel laureate Ivo Andrić, located in his former Belgrade apartment.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovića",
-                  "text": "Located at the Nebojša Tower, this museum is dedicated to the life and works of the famous Serbian painter Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Zepter Museum",
-                  "text": "An art museum at the Nebojša Tower showcasing a significant collection of modern and contemporary works.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT Museum",
-                  "text": "Located at the Nebojša Tower, this museum documents the history of postal, telegraph, and telephone services in Belgrade.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Aqua Termal Club",
-                  "text": "A swimming club in Belgrade providing sports and leisure facilities for visitors.",
-                  "category": "recreational",
-                  "coords": [
-                        20.401016,
-                        44.812019
-                  ]
-            },
-            {
-                  "name": "Public Aquarium and Tropicarium",
-                  "text": "This Belgrade aquarium houses numerous exotic fish species and aquatic creatures.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450379,
-                        44.784244
-                  ]
-            },
-            {
-                  "name": "Dino Park Kalemegdan – Jura Avantura",
-                  "text": "An adventure park featuring dinosaur exhibits near the historic Nebojša Tower.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450851,
-                        44.822126
-                  ]
-            },
-            {
-                  "name": "Lido",
-                  "text": "A well-known river resort offering relaxation near the Nebojša Tower.",
-                  "category": "recreational",
-                  "coords": [
-                        20.424264,
-                        44.840025
-                  ]
-            },
-            {
-                  "name": "Belgrade Zoo",
-                  "text": "The Belgrade Zoo houses a wide variety of animals adjacent to the ancient fortress.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "tower",
     parent: "RS",
@@ -2119,158 +1127,10 @@ export const serbiaHistoryV2: POI[] = [
   },
   {
     id: "serbia-hopovo-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Orlovo bojishte",
-                  "text": "Ein beliebter Aussichtspunkt im Nationalpark Fruška Gora in Serbien.",
-                  "category": "natural",
-                  "coords": [
-                        19.830593,
-                        45.180645
-                  ]
-            },
-            {
-                  "name": "Sloboda",
-                  "text": "Ein Denkmal in der Nähe des Iriški Venac, das dem Kampf für die Freiheit gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        19.839932,
-                        45.152827
-                  ]
-            },
-            {
-                  "name": "Toranj na Irishkom ventsu",
-                  "text": "Ein markanter Fernsehturm auf dem Iriški Venac im Gebirge Fruška Gora.",
-                  "category": "tower",
-                  "coords": [
-                        19.862035,
-                        45.158429
-                  ]
-            },
-            {
-                  "name": "Termal Vrdnik",
-                  "text": "Ein Thermalbad in der Nähe des Klosters Staro Hopovo.",
-                  "category": "recreational",
-                  "coords": [
-                        19.793038,
-                        45.136032
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Orlovo bojishte",
-                  "text": "Népszerű kilátópont a szerbiai Fruška Gora Nemzeti Parkban.",
-                  "category": "natural",
-                  "coords": [
-                        19.830593,
-                        45.180645
-                  ]
-            },
-            {
-                  "name": "Szabadság-emlékmű",
-                  "text": "A szabadságért vívott harcnak szentelt emlékmű az Iriški Venac közelében.",
-                  "category": "historical",
-                  "coords": [
-                        19.839932,
-                        45.152827
-                  ]
-            },
-            {
-                  "name": "Toranj na Irishkom ventsu",
-                  "text": "Jellegzetes tévétorony az Iriški Venac-csúcson, a Fruška Gora-hegységben.",
-                  "category": "tower",
-                  "coords": [
-                        19.862035,
-                        45.158429
-                  ]
-            },
-            {
-                  "name": "Termal Vrdnik",
-                  "text": "Termálvizes medence a Staro Hopovo-kolostor közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        19.793038,
-                        45.136032
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Orlovo bojishte",
-                  "text": "Un punct de belvedere popular în Parcul Național Fruška Gora din Serbia.",
-                  "category": "natural",
-                  "coords": [
-                        19.830593,
-                        45.180645
-                  ]
-            },
-            {
-                  "name": "Sloboda",
-                  "text": "Un monument situat lângă Iriški Venac, dedicat luptei pentru libertate.",
-                  "category": "historical",
-                  "coords": [
-                        19.839932,
-                        45.152827
-                  ]
-            },
-            {
-                  "name": "Toranj na Irishkom ventsu",
-                  "text": "Un turn de televiziune proeminent pe Iriški Venac, în munții Fruška Gora.",
-                  "category": "tower",
-                  "coords": [
-                        19.862035,
-                        45.158429
-                  ]
-            },
-            {
-                  "name": "Termal Vrdnik",
-                  "text": "O piscină termală situată lângă Mănăstirea Staro Hopovo.",
-                  "category": "recreational",
-                  "coords": [
-                        19.793038,
-                        45.136032
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Orlovo bojiste",
-                  "text": "A popular viewpoint in the Fruška Gora National Park in Serbia.",
-                  "category": "natural",
-                  "coords": [
-                        19.830593,
-                        45.180645
-                  ]
-            },
-            {
-                  "name": "Freedom",
-                  "text": "A monument located near Iriški Venac, dedicated to the struggle for freedom.",
-                  "category": "historical",
-                  "coords": [
-                        19.839932,
-                        45.152827
-                  ]
-            },
-            {
-                  "name": "Iriški Venac Tower",
-                  "text": "A prominent television tower on Iriški Venac in the Fruška Gora mountains.",
-                  "category": "tower",
-                  "coords": [
-                        19.862035,
-                        45.158429
-                  ]
-            },
-            {
-                  "name": "Termal Vrdnik",
-                  "text": "A thermal swimming pool located near the Staro Hopovo Monastery.",
-                  "category": "recreational",
-                  "coords": [
-                        19.793038,
-                        45.136032
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "church",
     parent: "RS",
@@ -2319,33 +1179,6 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-djurdjevi-stupovi-history-v2", "sights": {
       "de": [
             {
-                  "name": "Manastir Djurdjevi Stupovi",
-                  "text": "Ein serbisch-orthodoxes Kloster aus dem 12. Jahrhundert, das zum UNESCO-Welterbe gehört.",
-                  "category": "religious",
-                  "coords": [
-                        20.497666,
-                        43.165844
-                  ]
-            },
-            {
-                  "name": "Fence - not possible to cross",
-                  "text": "Ein Punkt beim Kloster, an dem ein Zaun den Zugang zu bestimmten Bereichen beschränkt.",
-                  "category": "natural",
-                  "coords": [
-                        20.501952,
-                        43.163513
-                  ]
-            },
-            {
-                  "name": "Overgrown path. Don't cross",
-                  "text": "Ein Standort am Kloster mit einem überwachsenen Pfad, der nicht begangen werden sollte.",
-                  "category": "natural",
-                  "coords": [
-                        20.506192,
-                        43.163696
-                  ]
-            },
-            {
                   "name": "Tsrkva Svetikh apostola Petra i Pavla",
                   "text": "Diese Kirche aus dem 9. Jahrhundert ist eines der ältesten erhaltenen Gotteshäuser in Serbien.",
                   "category": "religious",
@@ -2353,45 +1186,9 @@ export const serbiaHistoryV2: POI[] = [
                         20.527643,
                         43.161378
                   ]
-            },
-            {
-                  "name": "olimpijski bazen",
-                  "text": "Ein Schwimmbecken mit olympischen Maßen in der Nähe des Klosters Đurđevi Stupovi.",
-                  "category": "recreational",
-                  "coords": [
-                        20.515877,
-                        43.138816
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Manastir Djurdjevi Stupovi",
-                  "text": "12. századi szerb ortodox kolostor, amely az UNESCO Világörökség része.",
-                  "category": "religious",
-                  "coords": [
-                        20.497666,
-                        43.165844
-                  ]
-            },
-            {
-                  "name": "Fence - not possible to cross",
-                  "text": "Egy pont a kolostornál, ahol kerítés korlátozza a bejutást bizonyos területekre.",
-                  "category": "natural",
-                  "coords": [
-                        20.501952,
-                        43.163513
-                  ]
-            },
-            {
-                  "name": "Overgrown path. Don't cross",
-                  "text": "Helyszín a kolostornál elvadult ösvénnyel, amelyen nem javasolt az áthaladás.",
-                  "category": "natural",
-                  "coords": [
-                        20.506192,
-                        43.163696
-                  ]
-            },
             {
                   "name": "Tsrkva Svetikh apostola Petra i Pavla",
                   "text": "Ez a 9. századi templom Szerbia egyik legrégebbi épségben maradt keresztény építménye.",
@@ -2400,45 +1197,9 @@ export const serbiaHistoryV2: POI[] = [
                         20.527643,
                         43.161378
                   ]
-            },
-            {
-                  "name": "olimpijski bazen",
-                  "text": "Olimpiai méretű úszómedence a Đurđevi Stupovi-kolostor közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        20.515877,
-                        43.138816
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Manastir Djurdjevi Stupovi",
-                  "text": "O mănăstire ortodoxă sârbă din secolul al XII-lea, inclusă în patrimoniul mondial UNESCO.",
-                  "category": "religious",
-                  "coords": [
-                        20.497666,
-                        43.165844
-                  ]
-            },
-            {
-                  "name": "Fence - not possible to cross",
-                  "text": "Un punct lângă mănăstire unde un gard restricționează accesul în anumite zone.",
-                  "category": "natural",
-                  "coords": [
-                        20.501952,
-                        43.163513
-                  ]
-            },
-            {
-                  "name": "Overgrown path. Don't cross",
-                  "text": "O locație la mănăstire cu o potecă năpădită de vegetație care nu trebuie traversată.",
-                  "category": "natural",
-                  "coords": [
-                        20.506192,
-                        43.163696
-                  ]
-            },
             {
                   "name": "Tsrkva Svetikh apostola Petra i Pavla",
                   "text": "Această biserică din secolul al IX-lea este una dintre cele mai vechi lăcașuri de cult conservate din Serbia.",
@@ -2447,45 +1208,9 @@ export const serbiaHistoryV2: POI[] = [
                         20.527643,
                         43.161378
                   ]
-            },
-            {
-                  "name": "olimpijski bazen",
-                  "text": "O piscină olimpică situată lângă Mănăstirea Đurđevi Stupovi.",
-                  "category": "recreational",
-                  "coords": [
-                        20.515877,
-                        43.138816
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "The Tracts of Saint George",
-                  "text": "A 12th-century Serbian Orthodox monastery that is part of a UNESCO World Heritage site.",
-                  "category": "religious",
-                  "coords": [
-                        20.497666,
-                        43.165844
-                  ]
-            },
-            {
-                  "name": "Fence - not possible to cross",
-                  "text": "A point near the monastery where a fence restricts access to certain areas.",
-                  "category": "natural",
-                  "coords": [
-                        20.501952,
-                        43.163513
-                  ]
-            },
-            {
-                  "name": "Overgrown path. Don't cross",
-                  "text": "A location at the monastery with an overgrown path that should not be crossed.",
-                  "category": "natural",
-                  "coords": [
-                        20.506192,
-                        43.163696
-                  ]
-            },
             {
                   "name": "Church of Saint Apostles Peter and Paul",
                   "text": "This 9th-century church is one of the oldest surviving Christian places of worship in Serbia.",
@@ -2493,15 +1218,6 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         20.527643,
                         43.161378
-                  ]
-            },
-            {
-                  "name": "olimpijski bazen",
-                  "text": "An Olympic-sized swimming pool located near the Đurđevi Stupovi Monastery.",
-                  "category": "recreational",
-                  "coords": [
-                        20.515877,
-                        43.138816
                   ]
             }
       ]
@@ -3775,42 +2491,6 @@ export const serbiaHistoryV2: POI[] = [
                         19.805823,
                         45.184192
                   ]
-            },
-            {
-                  "name": "Rudarska kruna",
-                  "text": "Ein Denkmal in der Umgebung des Klosters Novo Hopovo.",
-                  "category": "historical",
-                  "coords": [
-                        19.787046,
-                        45.124351
-                  ]
-            },
-            {
-                  "name": "Sloboda",
-                  "text": "Das Freiheitsdenkmal steht in Hopovo Novo und symbolisiert die Freiheit.",
-                  "category": "historical",
-                  "coords": [
-                        19.839932,
-                        45.152827
-                  ]
-            },
-            {
-                  "name": "Vrdnichka kula",
-                  "text": "Historischer Turm und Ruine einer mittelalterlichen Festung bei Vrdnik.",
-                  "category": "landmark",
-                  "coords": [
-                        19.775246,
-                        45.143991
-                  ]
-            },
-            {
-                  "name": "Termal Vrdnik",
-                  "text": "Thermalschwimmbad in der Nähe des Klosters Novo Hopovo.",
-                  "category": "recreational",
-                  "coords": [
-                        19.793038,
-                        45.136032
-                  ]
             }
       ],
       "hu": [
@@ -3839,42 +2519,6 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         19.805823,
                         45.184192
-                  ]
-            },
-            {
-                  "name": "Rudarska kruna",
-                  "text": "Emlékmű a Novo Hopovo-kolostor környékén.",
-                  "category": "historical",
-                  "coords": [
-                        19.787046,
-                        45.124351
-                  ]
-            },
-            {
-                  "name": "Szabadság-emlékmű",
-                  "text": "A Szabadság-emlékmű Hopovo Novóban áll, a szabadságot szimbolizálva.",
-                  "category": "historical",
-                  "coords": [
-                        19.839932,
-                        45.152827
-                  ]
-            },
-            {
-                  "name": "Vrdnichka kula",
-                  "text": "Történelmi torony és egy középkori erőd romjai Vrdnik közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        19.775246,
-                        45.143991
-                  ]
-            },
-            {
-                  "name": "Termal Vrdnik",
-                  "text": "Termálvizes úszómedence az Új-Hopovo kolostor közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        19.793038,
-                        45.136032
                   ]
             }
       ],
@@ -3905,42 +2549,6 @@ export const serbiaHistoryV2: POI[] = [
                         19.805823,
                         45.184192
                   ]
-            },
-            {
-                  "name": "Rudarska kruna",
-                  "text": "Un monument situat în vecinătatea mănăstirii Novo Hopovo.",
-                  "category": "historical",
-                  "coords": [
-                        19.787046,
-                        45.124351
-                  ]
-            },
-            {
-                  "name": "Sloboda",
-                  "text": "Monumentul Libertății se află în Hopovo Novo, simbolizând libertatea.",
-                  "category": "historical",
-                  "coords": [
-                        19.839932,
-                        45.152827
-                  ]
-            },
-            {
-                  "name": "Vrdnichka kula",
-                  "text": "Un turn istoric și ruinele unei fortărețe medievale situat lângă Vrdnik.",
-                  "category": "landmark",
-                  "coords": [
-                        19.775246,
-                        45.143991
-                  ]
-            },
-            {
-                  "name": "Termal Vrdnik",
-                  "text": "Piscină termală situată lângă Mănăstirea Novo Hopovo.",
-                  "category": "recreational",
-                  "coords": [
-                        19.793038,
-                        45.136032
-                  ]
             }
       ],
       "en": [
@@ -3969,42 +2577,6 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         19.805823,
                         45.184192
-                  ]
-            },
-            {
-                  "name": "Rudarska kruna",
-                  "text": "A monument located in the vicinity of the Novo Hopovo Monastery.",
-                  "category": "historical",
-                  "coords": [
-                        19.787046,
-                        45.124351
-                  ]
-            },
-            {
-                  "name": "Freedom",
-                  "text": "The Freedom monument stands in Hopovo Novo, symbolizing liberty.",
-                  "category": "historical",
-                  "coords": [
-                        19.839932,
-                        45.152827
-                  ]
-            },
-            {
-                  "name": "Tower of Vrdnik",
-                  "text": "A historical tower and the ruins of a medieval fortress near Vrdnik.",
-                  "category": "landmark",
-                  "coords": [
-                        19.775246,
-                        45.143991
-                  ]
-            },
-            {
-                  "name": "Termal Vrdnik",
-                  "text": "Thermal pool facility located near the Novo Hopovo Monastery.",
-                  "category": "recreational",
-                  "coords": [
-                        19.793038,
-                        45.136032
                   ]
             }
       ]
@@ -4263,15 +2835,6 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vidikovats Kobilitsa",
-                  "text": "Ein Aussichtspunkt mit Blick auf die umliegende Region Beočin.",
-                  "category": "natural",
-                  "coords": [
-                        19.747183,
-                        45.16406
-                  ]
-            },
-            {
                   "name": "Tsrkva Preobrazhenja Gospodnjeg",
                   "text": "Geschütztes serbisch-orthodoxes Gotteshaus: Verklärungskirche in Beočin.",
                   "category": "religious",
@@ -4289,15 +2852,6 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         19.719942,
                         45.203623
-                  ]
-            },
-            {
-                  "name": "Vidikovats Kobilitsa",
-                  "text": "Kilátópont, ahonnan kilátás nyílik Belcsény (Beočin) környékére.",
-                  "category": "natural",
-                  "coords": [
-                        19.747183,
-                        45.16406
                   ]
             },
             {
@@ -4321,15 +2875,6 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vidikovats Kobilitsa",
-                  "text": "Un punct de observație panoramic ce oferă vederi asupra zonei înconjurătoare a Beočinului.",
-                  "category": "natural",
-                  "coords": [
-                        19.747183,
-                        45.16406
-                  ]
-            },
-            {
                   "name": "Tsrkva Preobrazhenja Gospodnjeg",
                   "text": "Biserică ortodoxă sârbă protejată: Schimbarea la Față din Beočin.",
                   "category": "religious",
@@ -4347,15 +2892,6 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         19.719942,
                         45.203623
-                  ]
-            },
-            {
-                  "name": "Kobilica viewpoint",
-                  "text": "A scenic viewpoint offering views of the surrounding Beočin area.",
-                  "category": "natural",
-                  "coords": [
-                        19.747183,
-                        45.16406
                   ]
             },
             {
@@ -4425,15 +2961,6 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vila Ravne",
-                  "text": "Ein historisches Herrenhaus auf der Fruška Gora, das als Regierungsresidenz dient.",
-                  "category": "historical",
-                  "coords": [
-                        19.619368,
-                        45.144848
-                  ]
-            },
-            {
                   "name": "Tsrkva Svetog arkhangela Гаврила",
                   "text": "Eine serbisch-orthodoxe Kirche in Grgurevci, die dem Erzengel Gabriel geweiht ist.",
                   "category": "religious",
@@ -4451,15 +2978,6 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         19.64557,
                         45.101699
-                  ]
-            },
-            {
-                  "name": "Vila Ravne",
-                  "text": "Történelmi udvarház a Fruška Gorán, amely kormányzati rezidenciaként szolgál.",
-                  "category": "historical",
-                  "coords": [
-                        19.619368,
-                        45.144848
                   ]
             },
             {
@@ -4483,15 +3001,6 @@ export const serbiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vila Ravne",
-                  "text": "Un conac istoric pe Fruška Gora, care servește drept reședință guvernamentală.",
-                  "category": "historical",
-                  "coords": [
-                        19.619368,
-                        45.144848
-                  ]
-            },
-            {
                   "name": "Tsrkva Svetog arkhangela Гаврила",
                   "text": "O biserică ortodoxă sârbă din Grgurevci, închinată Sfântului Arhanghel Gavriil.",
                   "category": "religious",
@@ -4509,15 +3018,6 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         19.64557,
                         45.101699
-                  ]
-            },
-            {
-                  "name": "Vila Ravne",
-                  "text": "A historic manor house on Fruška Gora that serves as a government residence.",
-                  "category": "historical",
-                  "coords": [
-                        19.619368,
-                        45.144848
                   ]
             },
             {
@@ -4576,86 +3076,10 @@ export const serbiaHistoryV2: POI[] = [
   },
   {
     id: "serbia-petkovica-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Vila Ravne",
-                  "text": "Eine elegante historische Residenz am Fruška Gora in der Nähe des Klosters Petkovica.",
-                  "category": "historical",
-                  "coords": [
-                        19.619368,
-                        45.144848
-                  ]
-            },
-            {
-                  "name": "Видиковац Grabово",
-                  "text": "Ein Aussichtspunkt im Nationalpark Fruška Gora mit Blick auf das Dorf Grabovo und die Donau.",
-                  "category": "natural",
-                  "coords": [
-                        19.631945,
-                        45.175921
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Vila Ravne",
-                  "text": "Elegáns történelmi rezidencia a Fruška Gora hegységben, a Petkovica-kolostor közelében.",
-                  "category": "historical",
-                  "coords": [
-                        19.619368,
-                        45.144848
-                  ]
-            },
-            {
-                  "name": "Видиковац Grabово",
-                  "text": "Kilátópont a Fruška Gora Nemzeti Parkban, ahonnan kilátás nyílik Grabovo falura és a Dunára.",
-                  "category": "natural",
-                  "coords": [
-                        19.631945,
-                        45.175921
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Vila Ravne",
-                  "text": "O reședință istorică elegantă situată pe Fruška Gora, lângă Mănăstirea Petkovica.",
-                  "category": "historical",
-                  "coords": [
-                        19.619368,
-                        45.144848
-                  ]
-            },
-            {
-                  "name": "Видиковац Grabово",
-                  "text": "Un punct de belvedere din Parcul Național Fruška Gora, care oferă priveliști asupra satului Grabovo și a Dunării.",
-                  "category": "natural",
-                  "coords": [
-                        19.631945,
-                        45.175921
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Vila Ravne",
-                  "text": "An elegant historical residence located on Fruška Gora near the Petkovica Monastery.",
-                  "category": "historical",
-                  "coords": [
-                        19.619368,
-                        45.144848
-                  ]
-            },
-            {
-                  "name": "Grabovo viewpoint",
-                  "text": "A viewpoint in the Fruška Gora National Park offering views over the Grabovo village and the Danube.",
-                  "category": "natural",
-                  "coords": [
-                        19.631945,
-                        45.175921
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "church",
     parent: "RS",
@@ -4704,15 +3128,6 @@ export const serbiaHistoryV2: POI[] = [
     id: "serbia-divsa-history-v2", "sights": {
       "de": [
             {
-                  "name": "Vila Ravne",
-                  "text": "Ein repräsentatives Herrenhaus in der Nähe des Klosters Divša.",
-                  "category": "historical",
-                  "coords": [
-                        19.619368,
-                        45.144848
-                  ]
-            },
-            {
                   "name": "Tsrkva Lezhimir",
                   "text": "Eine serbisch-orthodoxe Kirche im Dorf Ležimir, dem Heiligen Georg gewidmet.",
                   "category": "religious",
@@ -4732,15 +3147,6 @@ export const serbiaHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Vila Ravne",
-                  "text": "Reprezentatív udvarház a Divša-kolostor közelében.",
-                  "category": "historical",
-                  "coords": [
-                        19.619368,
-                        45.144848
-                  ]
-            },
             {
                   "name": "Tsrkva Lezhimir",
                   "text": "Szent Györgynek szentelt szerb ortodox templom Ležimir faluban.",
@@ -4762,15 +3168,6 @@ export const serbiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Vila Ravne",
-                  "text": "Un conac reprezentativ situat lângă Mănăstirea Divša.",
-                  "category": "historical",
-                  "coords": [
-                        19.619368,
-                        45.144848
-                  ]
-            },
-            {
                   "name": "Tsrkva Lezhimir",
                   "text": "O biserică ortodoxă sârbă din satul Ležimir, dedicată Sfântului Gheorghe.",
                   "category": "religious",
@@ -4790,15 +3187,6 @@ export const serbiaHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Vila Ravne",
-                  "text": "A representative manor house located near the Divša Monastery.",
-                  "category": "historical",
-                  "coords": [
-                        19.619368,
-                        45.144848
-                  ]
-            },
             {
                   "name": "Church Lezimir",
                   "text": "A Serbian Orthodox church in the village of Ležimir, dedicated to Saint George.",
@@ -4891,15 +3279,6 @@ export const serbiaHistoryV2: POI[] = [
                         19.631945,
                         45.175921
                   ]
-            },
-            {
-                  "name": "Tsrkva Svetog arkhangela",
-                  "text": "Eine Kultstätte in der Nähe des Klosters Kuveždin, die den heiligen Erzengeln gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        19.613696,
-                        45.173797
-                  ]
             }
       ],
       "hu": [
@@ -4928,15 +3307,6 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         19.631945,
                         45.175921
-                  ]
-            },
-            {
-                  "name": "Tsrkva Svetog arkhangela",
-                  "text": "A Kuveždin-kolostor közelében található istentiszteleti hely, amelyet a Szent Arkangyaloknak szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        19.613696,
-                        45.173797
                   ]
             }
       ],
@@ -4967,15 +3337,6 @@ export const serbiaHistoryV2: POI[] = [
                         19.631945,
                         45.175921
                   ]
-            },
-            {
-                  "name": "Tsrkva Svetog arkhangela",
-                  "text": "Un lăcaș de cult lângă Mănăstirea Kuveždin, dedicat Sfinților Arhangheli.",
-                  "category": "religious",
-                  "coords": [
-                        19.613696,
-                        45.173797
-                  ]
             }
       ],
       "en": [
@@ -5004,15 +3365,6 @@ export const serbiaHistoryV2: POI[] = [
                   "coords": [
                         19.631945,
                         45.175921
-                  ]
-            },
-            {
-                  "name": "Church of the Holy Archangels",
-                  "text": "A place of worship near the Kuveždin Monastery dedicated to the Holy Archangels.",
-                  "category": "religious",
-                  "coords": [
-                        19.613696,
-                        45.173797
                   ]
             }
       ]

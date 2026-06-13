@@ -16068,15 +16068,6 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Graha Budaya Lotring",
-                  "text": "Kunstzentrum, das I Nyoman Lotring gewidmet ist, einem legendären balinesischen Komponisten und Meister des Gamelan.",
-                  "category": "cultural",
-                  "coords": [
-                        115.178252,
-                        -8.725847
-                  ]
-            },
-            {
                   "name": "Pasar Kuta Dua PD",
                   "text": "Lokaler traditioneller Markt, der eine Vielzahl an frischen balinesischen Erzeugnissen und authentischen Haushaltswaren bietet.",
                   "category": "cultural",
@@ -16146,15 +16137,6 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
                   "coords": [
                         115.177034,
                         -8.70495
-                  ]
-            },
-            {
-                  "name": "surf rental",
-                  "text": "Service am Strand von Kuta, der verschiedene Boardgrößen für alle anbietet, die die berühmten Wellen reiten wollen.",
-                  "category": "landmark",
-                  "coords": [
-                        115.168148,
-                        -8.715503
                   ]
             },
             {
@@ -16376,15 +16358,6 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Graha Budaya Lotring",
-                  "text": "I Nyoman Lotringnak, a legendás balinéz zeneszerzőnek és gamelan-mesternek szentelt művészeti központ.",
-                  "category": "cultural",
-                  "coords": [
-                        115.178252,
-                        -8.725847
-                  ]
-            },
-            {
                   "name": "Pasar Kuta Dua PD",
                   "text": "Helyi hagyományos piac, amely friss balinéz termékek és autentikus háztartási cikkek széles választékát kínálja.",
                   "category": "cultural",
@@ -16454,15 +16427,6 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
                   "coords": [
                         115.177034,
                         -8.70495
-                  ]
-            },
-            {
-                  "name": "surf rental",
-                  "text": "Tengerparti szolgáltatás Kutában, amely különféle deszkaméreteket kínál azoknak, akik meg akarják lovagolni a híres hullámokat.",
-                  "category": "landmark",
-                  "coords": [
-                        115.168148,
-                        -8.715503
                   ]
             },
             {
@@ -16684,15 +16648,6 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Graha Budaya Lotring",
-                  "text": "Centru de artă dedicat lui I Nyoman Lotring, un legendar compozitor balinez și maestru al gamelanului.",
-                  "category": "cultural",
-                  "coords": [
-                        115.178252,
-                        -8.725847
-                  ]
-            },
-            {
                   "name": "Pasar Kuta Dua PD",
                   "text": "Piață tradițională locală care oferă o varietate de produse balineze proaspete și articole de uz casnic autentice.",
                   "category": "cultural",
@@ -16762,15 +16717,6 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
                   "coords": [
                         115.177034,
                         -8.70495
-                  ]
-            },
-            {
-                  "name": "surf rental",
-                  "text": "Serviciu pe malul mării în Kuta, care oferă diverse dimensiuni de plăci pentru cei care doresc să prindă faimoasele valuri.",
-                  "category": "landmark",
-                  "coords": [
-                        115.168148,
-                        -8.715503
                   ]
             },
             {
@@ -16992,15 +16938,6 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Graha Budaya Lotring",
-                  "text": "Arts center dedicated to I Nyoman Lotring, a legendary Balinese composer and master of the gamelan.",
-                  "category": "cultural",
-                  "coords": [
-                        115.178252,
-                        -8.725847
-                  ]
-            },
-            {
                   "name": "Pasar Kuta Dua PD",
                   "text": "Local traditional market offering a variety of fresh Balinese produce and authentic household goods.",
                   "category": "cultural",
@@ -17070,15 +17007,6 @@ export const poiExtraIndonesiaHistoryV2: POI[] = [
                   "coords": [
                         115.177034,
                         -8.70495
-                  ]
-            },
-            {
-                  "name": "surf rental",
-                  "text": "Beachside service in Kuta providing various board sizes for those wanting to catch the famous breaks.",
-                  "category": "landmark",
-                  "coords": [
-                        115.168148,
-                        -8.715503
                   ]
             },
             {

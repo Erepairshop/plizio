@@ -438,15 +438,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
     id: "mitsamiouli-graeber-history-v2", "sights": {
       "de": [
             {
-                  "name": "Marché de Mitsamiouli",
-                  "text": "Der farbenfrohe Markt von Mitsamiouli ist ein geschäftiger Handelsplatz auf den Komoren, auf dem Einheimische frische tropische Früchte, Gewürze und Fisch verkaufen.",
-                  "category": "landmark",
-                  "coords": [
-                        43.292281,
-                        -11.388246
-                  ]
-            },
-            {
                   "name": "Plage de Mitsamiouli",
                   "text": "Dieser malerische tropische Strand bietet unberührten weißen Sand und klares, türkisfarbenes Wasser des Indischen Ozeans, umrahmt von Kokospalmen.",
                   "category": "recreational",
@@ -457,15 +448,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Marché de Mitsamiouli",
-                  "text": "A színes Mitsamiouli Piac a Comore-szigetek nyüzsgő kereskedelmi központja, ahol a helyiek friss trópusi gyümölcsöket, fűszereket és halat árulnak.",
-                  "category": "landmark",
-                  "coords": [
-                        43.292281,
-                        -11.388246
-                  ]
-            },
             {
                   "name": "Plage de Mitsamiouli",
                   "text": "Ez a festői trópusi strand érintetlen fehér homokkal és az Indiai-óceán tiszta türkizkék vizével büszkélkedhet, kókuszpálmákkal övezve.",
@@ -478,15 +460,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Marché de Mitsamiouli",
-                  "text": "Piața colorată din Mitsamiouli este un centru comercial aglomerat din Comore, unde localnicii se adună pentru a vinde fructe tropicale proaspete, condimente și pește.",
-                  "category": "landmark",
-                  "coords": [
-                        43.292281,
-                        -11.388246
-                  ]
-            },
-            {
                   "name": "Plage de Mitsamiouli",
                   "text": "Această plajă tropicală pitorească are nisip alb imaculat și ape clare turcoaz ale Oceanului Indian, încadrate de cocotieri.",
                   "category": "recreational",
@@ -497,15 +470,6 @@ export const poiExtraComorosHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Marché de Mitsamiouli",
-                  "text": "The colorful Mitsamiouli Market is a bustling trading hub in the Comoros where locals gather to sell fresh tropical fruits, spices, and fish.",
-                  "category": "landmark",
-                  "coords": [
-                        43.292281,
-                        -11.388246
-                  ]
-            },
             {
                   "name": "Plage de Mitsamiouli",
                   "text": "This scenic tropical beach features pristine white sands and clear turquoise Indian Ocean waters framed by coconut palms.",

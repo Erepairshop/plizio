@@ -1924,42 +1924,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
     id: "buddha-park-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Nong Khai Museum",
-                  "text": "Dieses lokale Museum dokumentiert das reiche Erbe der Mekong-Region und stellt historische Artefakte, traditionelles Handwerk und kulturelle Exponate aus.",
-                  "category": "museum",
-                  "coords": [
-                        102.738916,
-                        17.879198
-                  ]
-            },
-            {
-                  "name": "Prap Ho Monument",
-                  "text": "Dieses historische Denkmal erinnert an die Soldaten, die die Region im 19. Jahrhundert gegen die Haw-Rebellionen verteidigten.",
-                  "category": "historical",
-                  "coords": [
-                        102.740566,
-                        17.879624
-                  ]
-            },
-            {
-                  "name": "Nong Khai Walking Street",
-                  "text": "Dieser lebhafte Fußgängermarkt entlang des malerischen Mekong-Ufers erwacht an den Wochenenden mit lokalen Streetfood-Ständen und traditionellem Handwerk zum Leben.",
-                  "category": "landmark",
-                  "coords": [
-                        102.743504,
-                        17.88421
-                  ]
-            },
-            {
-                  "name": "Naga statue",
-                  "text": "Diese beeindruckende Skulptur mit Blick auf den Fluss stellt die mythische Naga-Schlange dar, einen verehrten Schutzgeist des Mekong.",
-                  "category": "landmark",
-                  "coords": [
-                        102.752801,
-                        17.887761
-                  ]
-            },
-            {
                   "name": "ຈັດສີຣັຕດະນາຣາມ ທ່າເດື່ອ",
                   "text": "Nahe dem Mekong-Übergang gelegen, dient dieser traditionelle buddhistische Tempel mit seiner klassisch verzierten Gebetshalle den lokalen Gläubigen.",
                   "category": "landmark",
@@ -2060,42 +2024,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Nong Khai Museum",
-                  "text": "A Mekong-régió gazdag örökségét bemutató helyi múzeum történelmi tárgyakat, hagyományos kézműves termékeket és kulturális kiállításokat tár a látogatók elé.",
-                  "category": "museum",
-                  "coords": [
-                        102.738916,
-                        17.879198
-                  ]
-            },
-            {
-                  "name": "Prap Ho Monument",
-                  "text": "Ez a történelmi emlékmű azoknak a katonáknak állít emléket, akik a 19. században megvédték a régiót a haw lázadásokkal szemben.",
-                  "category": "historical",
-                  "coords": [
-                        102.740566,
-                        17.879624
-                  ]
-            },
-            {
-                  "name": "Nong Khai Walking Street",
-                  "text": "A festői Mekong folyó partján húzódó, nyüzsgő sétálóutca hétvégente helyi utcai ételeket és hagyományos kézműves termékeket kínáló árusokkal telik meg.",
-                  "category": "landmark",
-                  "coords": [
-                        102.743504,
-                        17.88421
-                  ]
-            },
-            {
-                  "name": "Naga statue",
-                  "text": "A folyóra néző lenyűgöző szobor a mitikus Naga kígyót, a Mekong nagy tiszteletnek örvendő védőszellemét ábrázolja.",
-                  "category": "landmark",
-                  "coords": [
-                        102.752801,
-                        17.887761
-                  ]
-            },
             {
                   "name": "ຈັດສີຣັຕດະນາຣາມ ທ່າເດື່ອ",
                   "text": "A Mekong folyó átkelője közelében található hagyományos buddhista templom klasszikus díszítésű imatermével szolgálja a helyi hívőket.",
@@ -2198,42 +2126,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Nong Khai Museum",
-                  "text": "Documentând bogata moștenire a regiunii Mekong, acest muzeu local expune artefacte istorice, meșteșuguri tradiționale și exponate culturale.",
-                  "category": "museum",
-                  "coords": [
-                        102.738916,
-                        17.879198
-                  ]
-            },
-            {
-                  "name": "Prap Ho Monument",
-                  "text": "Acest memorial istoric comemorează soldații care au apărat regiunea împotriva rebeliunilor Haw în timpul secolului al XIX-lea.",
-                  "category": "historical",
-                  "coords": [
-                        102.740566,
-                        17.879624
-                  ]
-            },
-            {
-                  "name": "Nong Khai Walking Street",
-                  "text": "Situată de-a lungul pitorescului râu Mekong, această stradă pietonală vibrantă prinde viață în weekenduri cu tarabe cu mâncare stradală locală și meșteșuguri tradiționale.",
-                  "category": "landmark",
-                  "coords": [
-                        102.743504,
-                        17.88421
-                  ]
-            },
-            {
-                  "name": "Naga statue",
-                  "text": "Având vedere spre râu, această sculptură impresionantă înfățișează legendarul șarpe Naga, un spirit păzitor venerat al Mekongului.",
-                  "category": "landmark",
-                  "coords": [
-                        102.752801,
-                        17.887761
-                  ]
-            },
-            {
                   "name": "ຈັດສີຣັຕດະນາຣາມ ທ່າເດື່ອ",
                   "text": "Situat în apropiere de trecerea râului Mekong, acest templu budist tradițional servește credincioșii locali cu sala sa de rugăciune ornamentată clasic.",
                   "category": "landmark",
@@ -2334,42 +2226,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Nong Khai Museum",
-                  "text": "Documenting the rich heritage of the Mekong region, this local museum displays historical artifacts, traditional crafts, and cultural exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        102.738916,
-                        17.879198
-                  ]
-            },
-            {
-                  "name": "Prap Ho Monument",
-                  "text": "This historic memorial commemorates the soldiers who defended the region against the Haw rebellions during the 19th century.",
-                  "category": "historical",
-                  "coords": [
-                        102.740566,
-                        17.879624
-                  ]
-            },
-            {
-                  "name": "Nong Khai Walking Street",
-                  "text": "Lined along the scenic Mekong River, this vibrant pedestrian street market comes alive with local street food stalls and traditional crafts on weekends.",
-                  "category": "landmark",
-                  "coords": [
-                        102.743504,
-                        17.88421
-                  ]
-            },
-            {
-                  "name": "Naga statue",
-                  "text": "Overlooking the river, this impressive sculpture depicts the mythical Naga serpent, a revered guardian spirit of the Mekong.",
-                  "category": "landmark",
-                  "coords": [
-                        102.752801,
-                        17.887761
-                  ]
-            },
             {
                   "name": "ຈັດສີຣັຕດະນາຣາມ ທ່າເດື່ອ",
                   "text": "Situated near the Mekong River crossing, this traditional Buddhist temple serves the local faithful with its classically ornamented prayer hall.",
@@ -3277,15 +3133,6 @@ export const poiExtraLaosLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "A beautiful view of the city from the cliff",
-                  "text": "This rocky viewpoint near Sikhottabong offers a beautiful, elevated perspective over the city from the edge of a rugged cliff.",
-                  "category": "natural",
-                  "coords": [
-                        104.831905,
-                        17.411076
-                  ]
-            },
             {
                   "name": "Buddiiskii khram",
                   "text": "This Buddiiskii khram is a serene local place of worship in the Sikhottabong area, providing a quiet space for spiritual devotion.",

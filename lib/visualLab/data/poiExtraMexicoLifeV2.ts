@@ -1460,42 +1460,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sor Juana Ines de la Cruz",
-                  "text": "Denkmal zu Ehren der mexikanischen Dichterin und Nonne Sor Juana Inés de la Cruz.",
-                  "category": "historical",
-                  "coords": [
-                        -99.014712,
-                        19.405658
-                  ]
-            },
-            {
-                  "name": "Auditorio la Salle",
-                  "text": "Kulturzentrum in San Juan de Aragón für Aufführungen und Veranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.016317,
-                        19.422449
-                  ]
-            },
-            {
-                  "name": "Marbet",
-                  "text": "Marbet ist ein kulturelles Wahrzeichen im Zoo Juan de Aragón.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.016664,
-                        19.413906
-                  ]
-            },
-            {
-                  "name": "Centro Cultural \"El Castillito\"",
-                  "text": "Das Centro Cultural „El Castillito“ ist ein Kulturzentrum im Zoo Juan de Aragón.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.009774,
-                        19.403373
-                  ]
-            },
-            {
                   "name": "Teatro José Vasconcelos",
                   "text": "Theater benannt nach dem mexikanischen Schriftsteller und Politiker José Vasconcelos.",
                   "category": "cultural",
@@ -1538,15 +1502,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   "coords": [
                         -99.084629,
                         19.46364
-                  ]
-            },
-            {
-                  "name": "EL PULPO ACUATICO",
-                  "text": "Eine Attraktion im Zoo von San Juan de Aragón mit dem Namen „EL PULPO ACUATICO“.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.034013,
-                        19.402114
                   ]
             },
             {
@@ -1732,42 +1687,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sor Juana Ines de la Cruz",
-                  "text": "A mexikói költőnő és apáca, Sor Juana Inés de la Cruz tiszteletére állított emlékmű.",
-                  "category": "historical",
-                  "coords": [
-                        -99.014712,
-                        19.405658
-                  ]
-            },
-            {
-                  "name": "Auditorio la Salle",
-                  "text": "Kulturális központ San Juan de Aragónban előadások és események számára.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.016317,
-                        19.422449
-                  ]
-            },
-            {
-                  "name": "Marbet",
-                  "text": "A Marbet kulturális nevezetesség a Juan de Aragón Állatkertben.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.016664,
-                        19.413906
-                  ]
-            },
-            {
-                  "name": "Centro Cultural \"El Castillito\"",
-                  "text": "A Centro Cultural „El Castillito” egy kulturális központ a Juan de Aragón Állatkertben.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.009774,
-                        19.403373
-                  ]
-            },
-            {
                   "name": "Teatro José Vasconcelos",
                   "text": "José Vasconcelos mexikói író és politikus nevét viselő színház.",
                   "category": "cultural",
@@ -1810,15 +1729,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   "coords": [
                         -99.084629,
                         19.46364
-                  ]
-            },
-            {
-                  "name": "EL PULPO ACUATICO",
-                  "text": "Egy látványosság a San Juan de Aragón-i állatkertben „EL PULPO ACUATICO” néven.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.034013,
-                        19.402114
                   ]
             },
             {
@@ -2004,42 +1914,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sor Juana Ines de la Cruz",
-                  "text": "Monument în onoarea poetei și călugăriței mexicane Sor Juana Inés de la Cruz.",
-                  "category": "historical",
-                  "coords": [
-                        -99.014712,
-                        19.405658
-                  ]
-            },
-            {
-                  "name": "Auditorio la Salle",
-                  "text": "Centru cultural în San Juan de Aragón pentru spectacole și evenimente.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.016317,
-                        19.422449
-                  ]
-            },
-            {
-                  "name": "Marbet",
-                  "text": "Marbet este un reper cultural în Grădina Zoologică Juan de Aragón.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.016664,
-                        19.413906
-                  ]
-            },
-            {
-                  "name": "Centro Cultural \"El Castillito\"",
-                  "text": "Centro Cultural „El Castillito” este un centru cultural în Grădina Zoologică Juan de Aragón.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.009774,
-                        19.403373
-                  ]
-            },
-            {
                   "name": "Teatro José Vasconcelos",
                   "text": "Teatru numit după scriitorul și politicianul mexican José Vasconcelos.",
                   "category": "cultural",
@@ -2082,15 +1956,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   "coords": [
                         -99.084629,
                         19.46364
-                  ]
-            },
-            {
-                  "name": "EL PULPO ACUATICO",
-                  "text": "O atracție în grădina zoologică din San Juan de Aragón numită „EL PULPO ACUATICO”.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.034013,
-                        19.402114
                   ]
             },
             {
@@ -2276,42 +2141,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sor Juana Ines de la Cruz",
-                  "text": "Monument honoring the Mexican poet and nun Sor Juana Inés de la Cruz.",
-                  "category": "historical",
-                  "coords": [
-                        -99.014712,
-                        19.405658
-                  ]
-            },
-            {
-                  "name": "Auditorio la Salle",
-                  "text": "Arts centre in San Juan de Aragón for performances and events.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.016317,
-                        19.422449
-                  ]
-            },
-            {
-                  "name": "Marbet",
-                  "text": "Marbet is a cultural landmark in the Juan de Aragón Zoo.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.016664,
-                        19.413906
-                  ]
-            },
-            {
-                  "name": "Centro Cultural \"El Castillito\"",
-                  "text": "Centro Cultural \"El Castillito\" is a cultural center in the Juan de Aragón Zoo.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.009774,
-                        19.403373
-                  ]
-            },
-            {
                   "name": "Teatro José Vasconcelos",
                   "text": "Theatre named after Mexican writer and politician José Vasconcelos.",
                   "category": "cultural",
@@ -2354,15 +2183,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   "coords": [
                         -99.084629,
                         19.46364
-                  ]
-            },
-            {
-                  "name": "EL PULPO ACUATICO",
-                  "text": "An attraction in the San Juan de Aragón zoo called „EL PULPO ACUATICO”.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.034013,
-                        19.402114
                   ]
             },
             {
@@ -2437,15 +2257,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Auditorio Telmex",
-                  "text": "Auditorio Telmex ist ein modernes Veranstaltungszentrum im Zoogelände von Guadalajara.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.381243,
-                        20.73336
-                  ]
-            },
-            {
                   "name": "Centro Cultural Constitución",
                   "text": "Centro Cultural Constitución ist ein Kulturzentrum auf dem Zoogelände in Guadalajara.",
                   "category": "cultural",
@@ -2491,66 +2302,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "El Grillo",
-                  "text": "Die archäologische Stätte El Grillo in Guadalajara, eine prähispanische Siedlung.",
-                  "category": "historical",
-                  "coords": [
-                        -103.369594,
-                        20.73354
-                  ]
-            },
-            {
-                  "name": "Calle 2",
-                  "text": "Calle 2 ist eine Straße im kulturellen Bereich des Zoos.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.376515,
-                        20.734986
-                  ]
-            },
-            {
                   "name": "Foro Ichitan Río Verde",
                   "text": "Das Foro Ichitan Río Verde ist ein Veranstaltungsort im Zoo, benannt nach Ichitan und dem Río Verde.",
                   "category": "cultural",
                   "coords": [
                         -103.289025,
                         20.698589
-                  ]
-            },
-            {
-                  "name": "Ágora Jenkins",
-                  "text": "Die Ágora Jenkins ist ein kultureller Versammlungsort im Zoo, benannt nach Jenkins.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.381026,
-                        20.73721
-                  ]
-            },
-            {
-                  "name": "Sala 2",
-                  "text": "Sala 2 ist ein kultureller Raum im Zoo.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.382035,
-                        20.736455
-                  ]
-            },
-            {
-                  "name": "Teatro Estudio Cavaret",
-                  "text": "Das Teatro Estudio Cavaret ist ein Theaterstudio im Zoo.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.378299,
-                        20.736814
-                  ]
-            },
-            {
-                  "name": "Auditorio Central",
-                  "text": "Das Auditorio Central ist das Hauptauditorium im Zoo.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.380751,
-                        20.741605
                   ]
             },
             {
@@ -2727,15 +2484,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Auditorio Telmex",
-                  "text": "Auditorio Telmex egy modern rendezvényközpont a guadalajarai állatkert területén.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.381243,
-                        20.73336
-                  ]
-            },
-            {
                   "name": "Centro Cultural Constitución",
                   "text": "Centro Cultural Constitución egy kulturális központ az állatkert területén Guadalajarában.",
                   "category": "cultural",
@@ -2781,66 +2529,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "El Grillo",
-                  "text": "El Grillo régészeti lelőhely Guadalajara-ban, egy prehispán település.",
-                  "category": "historical",
-                  "coords": [
-                        -103.369594,
-                        20.73354
-                  ]
-            },
-            {
-                  "name": "Calle 2",
-                  "text": "A Calle 2 egy utca az Állatkert kulturális területén.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.376515,
-                        20.734986
-                  ]
-            },
-            {
                   "name": "Foro Ichitan Río Verde",
                   "text": "A Foro Ichitan Río Verde egy rendezvényhelyszín az Állatkertben, amelyet az Ichitanról és a Río Verdéről neveztek el.",
                   "category": "cultural",
                   "coords": [
                         -103.289025,
                         20.698589
-                  ]
-            },
-            {
-                  "name": "Ágora Jenkins",
-                  "text": "Az Ágora Jenkins egy kulturális gyülekezőhely az Állatkertben, amelyet Jenkinsről neveztek el.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.381026,
-                        20.73721
-                  ]
-            },
-            {
-                  "name": "Sala 2",
-                  "text": "A Sala 2 egy kulturális terem az Állatkertben.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.382035,
-                        20.736455
-                  ]
-            },
-            {
-                  "name": "Teatro Estudio Cavaret",
-                  "text": "A Teatro Estudio Cavaret egy színházstúdió az Állatkertben.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.378299,
-                        20.736814
-                  ]
-            },
-            {
-                  "name": "Auditorio Central",
-                  "text": "Az Auditorio Central a fő auditorium az Állatkertben.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.380751,
-                        20.741605
                   ]
             },
             {
@@ -3017,15 +2711,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Auditorio Telmex",
-                  "text": "Auditorio Telmex este un modern centru de evenimente pe terenul grădinii zoologice din Guadalajara.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.381243,
-                        20.73336
-                  ]
-            },
-            {
                   "name": "Centro Cultural Constitución",
                   "text": "Centro Cultural Constitución este un centru cultural pe terenul grădinii zoologice din Guadalajara.",
                   "category": "cultural",
@@ -3071,66 +2756,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "El Grillo",
-                  "text": "Situl arheologic El Grillo în Guadalajara, o așezare prehispanică.",
-                  "category": "historical",
-                  "coords": [
-                        -103.369594,
-                        20.73354
-                  ]
-            },
-            {
-                  "name": "Calle 2",
-                  "text": "Calle 2 este o stradă în zona culturală a Grădinii Zoologice.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.376515,
-                        20.734986
-                  ]
-            },
-            {
                   "name": "Foro Ichitan Río Verde",
                   "text": "Foro Ichitan Río Verde este un loc de evenimente în Grădina Zoologică, numit după Ichitan și Río Verde.",
                   "category": "cultural",
                   "coords": [
                         -103.289025,
                         20.698589
-                  ]
-            },
-            {
-                  "name": "Ágora Jenkins",
-                  "text": "Ágora Jenkins este un loc de întrunire culturală în Grădina Zoologică, numit după Jenkins.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.381026,
-                        20.73721
-                  ]
-            },
-            {
-                  "name": "Sala 2",
-                  "text": "Sala 2 este o sală culturală în Grădina Zoologică.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.382035,
-                        20.736455
-                  ]
-            },
-            {
-                  "name": "Teatro Estudio Cavaret",
-                  "text": "Teatro Estudio Cavaret este un studio de teatru în Grădina Zoologică.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.378299,
-                        20.736814
-                  ]
-            },
-            {
-                  "name": "Auditorio Central",
-                  "text": "Auditorio Central este auditoriul principal din Grădina Zoologică.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.380751,
-                        20.741605
                   ]
             },
             {
@@ -3307,15 +2938,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Auditorio Telmex",
-                  "text": "Auditorio Telmex is a modern event venue on the zoo grounds in Guadalajara.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.381243,
-                        20.73336
-                  ]
-            },
-            {
                   "name": "Centro Cultural Constitución",
                   "text": "Centro Cultural Constitución is a cultural center on the zoo grounds in Guadalajara.",
                   "category": "cultural",
@@ -3361,66 +2983,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "El Grillo",
-                  "text": "El Grillo archaeological site in Guadalajara, a pre-Hispanic settlement.",
-                  "category": "historical",
-                  "coords": [
-                        -103.369594,
-                        20.73354
-                  ]
-            },
-            {
-                  "name": "Calle 2",
-                  "text": "Calle 2 is a street in the cultural area of the Zoo.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.376515,
-                        20.734986
-                  ]
-            },
-            {
                   "name": "Foro Ichitan Río Verde",
                   "text": "Foro Ichitan Río Verde is an event venue in the Zoo, named after Ichitan and the Río Verde.",
                   "category": "cultural",
                   "coords": [
                         -103.289025,
                         20.698589
-                  ]
-            },
-            {
-                  "name": "Ágora Jenkins",
-                  "text": "Ágora Jenkins is a cultural gathering place in the Zoo, named after Jenkins.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.381026,
-                        20.73721
-                  ]
-            },
-            {
-                  "name": "Sala 2",
-                  "text": "Sala 2 is a cultural room in the Zoo.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.382035,
-                        20.736455
-                  ]
-            },
-            {
-                  "name": "Teatro Estudio Cavaret",
-                  "text": "Teatro Estudio Cavaret is a theater studio in the Zoo.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.378299,
-                        20.736814
-                  ]
-            },
-            {
-                  "name": "Auditorio Central",
-                  "text": "Auditorio Central is the main auditorium in the Zoo.",
-                  "category": "cultural",
-                  "coords": [
-                        -103.380751,
-                        20.741605
                   ]
             },
             {
@@ -4697,75 +4265,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Residencia Art Project",
-                  "text": "Residencia Art Project ist eine Künstlerresidenz in Park.",
-                  "category": "museum",
-                  "coords": [
-                        -87.06589,
-                        20.635217
-                  ]
-            },
-            {
-                  "name": "Frida Kahlo",
-                  "text": "Das Frida-Kahlo-Museum ist ein der Künstlerin gewidmetes Museum in Park.",
-                  "category": "museum",
-                  "coords": [
-                        -87.072757,
-                        20.625921
-                  ]
-            },
-            {
-                  "name": "El Acuario de Playa",
-                  "text": "Aquarium Beach ist ein Aquariumsmuseum in Park.",
-                  "category": "museum",
-                  "coords": [
-                        -87.071468,
-                        20.628367
-                  ]
-            },
-            {
-                  "name": "Alamo Sakahua",
-                  "text": "Monument eines Baumes mit 18 Metern Durchmesser im Xcaret-Gebiet.",
-                  "category": "historical",
-                  "coords": [
-                        -87.064815,
-                        20.634554
-                  ]
-            },
-            {
-                  "name": "Playalingua",
-                  "text": "Playalingua ist eine Sprachschule in Park.",
-                  "category": "cultural",
-                  "coords": [
-                        -87.069882,
-                        20.63089
-                  ]
-            },
-            {
                   "name": "Teatro Comunale",
                   "text": "Teatro Comunale ist ein Stadttheater in Park.",
                   "category": "cultural",
                   "coords": [
                         -87.10547,
                         20.655872
-                  ]
-            },
-            {
-                  "name": "Casa de la Cultura",
-                  "text": "Casa de la Cultura ist ein Kulturhaus in Park.",
-                  "category": "cultural",
-                  "coords": [
-                        -87.083521,
-                        20.651359
-                  ]
-            },
-            {
-                  "name": "Teatro De La Ciudad Solidaridad",
-                  "text": "Teatro De La Ciudad Solidaridad ist ein Stadttheater in Park.",
-                  "category": "cultural",
-                  "coords": [
-                        -87.08288,
-                        20.652628
                   ]
             },
             {
@@ -4778,48 +4283,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Casa De Las Hamacas",
-                  "text": "La Casa De Las Hamacas ist ein Hängemattenladen in Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.068071,
-                        20.641773
-                  ]
-            },
-            {
-                  "name": "Playa mamitas",
-                  "text": "Playa mamitas ist ein Strandabschnitt in Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.064977,
-                        20.63074
-                  ]
-            },
-            {
                   "name": "The Grand Sol de America Mariachi",
                   "text": "The Grand Sol de America Mariachi bietet Mariachi-Musikdarbietungen im Xcaret-Park-Gebiet.",
                   "category": "landmark",
                   "coords": [
                         -87.070552,
                         20.629164
-                  ]
-            },
-            {
-                  "name": "3D Museum",
-                  "text": "Das 3D Museum ist ein Museum mit dreidimensionalen Ausstellungen im Xcaret-Park-Gebiet.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.073352,
-                        20.626961
-                  ]
-            },
-            {
-                  "name": "Skydive Playa",
-                  "text": "Skydive Playa bietet Fallschirmsprünge im Xcaret-Park-Gebiet an.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.077991,
-                        20.622084
                   ]
             },
             {
@@ -4832,30 +4301,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dog rescue center volunteering",
-                  "text": "Dog rescue center volunteering ist ein Hundeschutzzentrum in Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.105852,
-                        20.633978
-                  ]
-            },
-            {
                   "name": "Mayan village",
                   "text": "Mayan village ist ein traditionelles Maya-Dorf in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.121094,
                         20.579685
-                  ]
-            },
-            {
-                  "name": "parque fundadores",
-                  "text": "Settlers park ist ein Park in Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.074981,
-                        20.622004
                   ]
             },
             {
@@ -4951,75 +4402,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Residencia Art Project",
-                  "text": "Residencia Art Project egy művészrezidencia Parkban.",
-                  "category": "museum",
-                  "coords": [
-                        -87.06589,
-                        20.635217
-                  ]
-            },
-            {
-                  "name": "Frida Kahlo",
-                  "text": "A Frida Kahlo Múzeum egy a művésznek szentelt múzeum Parkban.",
-                  "category": "museum",
-                  "coords": [
-                        -87.072757,
-                        20.625921
-                  ]
-            },
-            {
-                  "name": "El Acuario de Playa",
-                  "text": "Aquarium Beach egy akváriummúzeum Parkban.",
-                  "category": "museum",
-                  "coords": [
-                        -87.071468,
-                        20.628367
-                  ]
-            },
-            {
-                  "name": "Alamo Sakahua",
-                  "text": "Egy 18 méter átmérőjű fa emlékműve a Xcaret területén.",
-                  "category": "historical",
-                  "coords": [
-                        -87.064815,
-                        20.634554
-                  ]
-            },
-            {
-                  "name": "Playalingua",
-                  "text": "Playalingua egy nyelviskola Parkban.",
-                  "category": "cultural",
-                  "coords": [
-                        -87.069882,
-                        20.63089
-                  ]
-            },
-            {
                   "name": "Teatro Comunale",
                   "text": "Teatro Comunale egy városi színház Parkban.",
                   "category": "cultural",
                   "coords": [
                         -87.10547,
                         20.655872
-                  ]
-            },
-            {
-                  "name": "Casa de la Cultura",
-                  "text": "Casa de la Cultura egy kultúrház Parkban.",
-                  "category": "cultural",
-                  "coords": [
-                        -87.083521,
-                        20.651359
-                  ]
-            },
-            {
-                  "name": "Teatro De La Ciudad Solidaridad",
-                  "text": "Teatro De La Ciudad Solidaridad egy városi színház Parkban.",
-                  "category": "cultural",
-                  "coords": [
-                        -87.08288,
-                        20.652628
                   ]
             },
             {
@@ -5032,48 +4420,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Casa De Las Hamacas",
-                  "text": "La Casa De Las Hamacas egy függőágybolt Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.068071,
-                        20.641773
-                  ]
-            },
-            {
-                  "name": "Playa mamitas",
-                  "text": "Playa mamitas egy strand Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.064977,
-                        20.63074
-                  ]
-            },
-            {
                   "name": "The Grand Sol de America Mariachi",
                   "text": "A The Grand Sol de America Mariachi Mariachi zenei előadásokat kínál a Xcaret park területén.",
                   "category": "landmark",
                   "coords": [
                         -87.070552,
                         20.629164
-                  ]
-            },
-            {
-                  "name": "3D Museum",
-                  "text": "A 3D Múzeum egy háromdimenziós kiállításokkal rendelkező múzeum a Xcaret park területén.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.073352,
-                        20.626961
-                  ]
-            },
-            {
-                  "name": "Skydive Playa",
-                  "text": "A Skydive Playa ejtőernyős ugrásokat kínál a Xcaret park területén.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.077991,
-                        20.622084
                   ]
             },
             {
@@ -5086,30 +4438,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dog rescue center volunteering",
-                  "text": "Dog rescue center volunteering egy kutyamentő központ Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.105852,
-                        20.633978
-                  ]
-            },
-            {
                   "name": "Mayan village",
                   "text": "Mayan village egy hagyományos maja falu Parkban.",
                   "category": "landmark",
                   "coords": [
                         -87.121094,
                         20.579685
-                  ]
-            },
-            {
-                  "name": "parque fundadores",
-                  "text": "Settlers park egy park Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.074981,
-                        20.622004
                   ]
             },
             {
@@ -5205,75 +4539,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Residencia Art Project",
-                  "text": "Residencia Art Project este o reședință pentru artiști în Park.",
-                  "category": "museum",
-                  "coords": [
-                        -87.06589,
-                        20.635217
-                  ]
-            },
-            {
-                  "name": "Frida Kahlo",
-                  "text": "Muzeul Frida Kahlo este un muzeu dedicat artistei în Park.",
-                  "category": "museum",
-                  "coords": [
-                        -87.072757,
-                        20.625921
-                  ]
-            },
-            {
-                  "name": "El Acuario de Playa",
-                  "text": "Aquarium Beach este un muzeu-acvariu în Park.",
-                  "category": "museum",
-                  "coords": [
-                        -87.071468,
-                        20.628367
-                  ]
-            },
-            {
-                  "name": "Alamo Sakahua",
-                  "text": "Monument al unui copac cu diametrul de 18 metri în zona Xcaret.",
-                  "category": "historical",
-                  "coords": [
-                        -87.064815,
-                        20.634554
-                  ]
-            },
-            {
-                  "name": "Playalingua",
-                  "text": "Playalingua este o școală de limbi străine în Park.",
-                  "category": "cultural",
-                  "coords": [
-                        -87.069882,
-                        20.63089
-                  ]
-            },
-            {
                   "name": "Teatro Comunale",
                   "text": "Teatro Comunale este un teatru municipal în Park.",
                   "category": "cultural",
                   "coords": [
                         -87.10547,
                         20.655872
-                  ]
-            },
-            {
-                  "name": "Casa de la Cultura",
-                  "text": "Casa de la Cultura este o casă de cultură în Park.",
-                  "category": "cultural",
-                  "coords": [
-                        -87.083521,
-                        20.651359
-                  ]
-            },
-            {
-                  "name": "Teatro De La Ciudad Solidaridad",
-                  "text": "Teatro De La Ciudad Solidaridad este un teatru al orașului în Park.",
-                  "category": "cultural",
-                  "coords": [
-                        -87.08288,
-                        20.652628
                   ]
             },
             {
@@ -5286,48 +4557,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Casa De Las Hamacas",
-                  "text": "La Casa De Las Hamacas este un magazin de hamace în Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.068071,
-                        20.641773
-                  ]
-            },
-            {
-                  "name": "Playa mamitas",
-                  "text": "Playa mamitas este o plajă în Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.064977,
-                        20.63074
-                  ]
-            },
-            {
                   "name": "The Grand Sol de America Mariachi",
                   "text": "The Grand Sol de America Mariachi oferă spectacole de muzică mariachi în zona parcului Xcaret.",
                   "category": "landmark",
                   "coords": [
                         -87.070552,
                         20.629164
-                  ]
-            },
-            {
-                  "name": "3D Museum",
-                  "text": "Muzeul 3D este un muzeu cu exponate tridimensionale în zona parcului Xcaret.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.073352,
-                        20.626961
-                  ]
-            },
-            {
-                  "name": "Skydive Playa",
-                  "text": "Skydive Playa oferă parașutism în zona parcului Xcaret.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.077991,
-                        20.622084
                   ]
             },
             {
@@ -5340,30 +4575,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dog rescue center volunteering",
-                  "text": "Dog rescue center volunteering este un centru de salvare a câinilor în Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.105852,
-                        20.633978
-                  ]
-            },
-            {
                   "name": "Mayan village",
                   "text": "Mayan village este un sat tradițional mayaș în Park.",
                   "category": "landmark",
                   "coords": [
                         -87.121094,
                         20.579685
-                  ]
-            },
-            {
-                  "name": "parque fundadores",
-                  "text": "Settlers park este un parc în Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.074981,
-                        20.622004
                   ]
             },
             {
@@ -5459,75 +4676,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Residencia Art Project",
-                  "text": "Residencia Art Project is an artist residency in Park.",
-                  "category": "museum",
-                  "coords": [
-                        -87.06589,
-                        20.635217
-                  ]
-            },
-            {
-                  "name": "Frida Kahlo",
-                  "text": "Frida Kahlo is a museum dedicated to the artist in Park.",
-                  "category": "museum",
-                  "coords": [
-                        -87.072757,
-                        20.625921
-                  ]
-            },
-            {
-                  "name": "Aquarium Beach",
-                  "text": "Aquarium Beach is an aquarium museum in Park.",
-                  "category": "museum",
-                  "coords": [
-                        -87.071468,
-                        20.628367
-                  ]
-            },
-            {
-                  "name": "tree of 18m diameter",
-                  "text": "Monument of a tree with an 18-meter diameter in the Xcaret area.",
-                  "category": "historical",
-                  "coords": [
-                        -87.064815,
-                        20.634554
-                  ]
-            },
-            {
-                  "name": "Playalingua",
-                  "text": "Playalingua is a language school in Park.",
-                  "category": "cultural",
-                  "coords": [
-                        -87.069882,
-                        20.63089
-                  ]
-            },
-            {
                   "name": "Teatro Comunale",
                   "text": "Teatro Comunale is a municipal theater in Park.",
                   "category": "cultural",
                   "coords": [
                         -87.10547,
                         20.655872
-                  ]
-            },
-            {
-                  "name": "Casa de la Cultura",
-                  "text": "Casa de la Cultura is a cultural center in Park.",
-                  "category": "cultural",
-                  "coords": [
-                        -87.083521,
-                        20.651359
-                  ]
-            },
-            {
-                  "name": "Teatro De La Ciudad Solidaridad",
-                  "text": "Teatro De La Ciudad Solidaridad is a city theater in Park.",
-                  "category": "cultural",
-                  "coords": [
-                        -87.08288,
-                        20.652628
                   ]
             },
             {
@@ -5540,48 +4694,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Casa De Las Hamacas",
-                  "text": "La Casa De Las Hamacas is a hammock store in Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.068071,
-                        20.641773
-                  ]
-            },
-            {
-                  "name": "Playa mamitas",
-                  "text": "Playa mamitas is a beach in Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.064977,
-                        20.63074
-                  ]
-            },
-            {
                   "name": "The Grand Sol de America Mariachi",
                   "text": "The Grand Sol de America Mariachi offers mariachi music performances in the Xcaret park area.",
                   "category": "landmark",
                   "coords": [
                         -87.070552,
                         20.629164
-                  ]
-            },
-            {
-                  "name": "3D Museum",
-                  "text": "3D Museum is a museum with three-dimensional exhibits in the Xcaret park area.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.073352,
-                        20.626961
-                  ]
-            },
-            {
-                  "name": "Skydive Playa",
-                  "text": "Skydive Playa offers skydiving experiences in the Xcaret park area.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.077991,
-                        20.622084
                   ]
             },
             {
@@ -5594,30 +4712,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dog rescue center volunteering",
-                  "text": "Dog rescue center volunteering is a dog rescue center in Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.105852,
-                        20.633978
-                  ]
-            },
-            {
                   "name": "Mayan village",
                   "text": "Mayan village is a traditional Maya village in Park.",
                   "category": "landmark",
                   "coords": [
                         -87.121094,
                         20.579685
-                  ]
-            },
-            {
-                  "name": "settlers park",
-                  "text": "Settlers park is a park in Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -87.074981,
-                        20.622004
                   ]
             },
             {
@@ -8979,33 +8079,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de las Artes e Industrias Populares",
-                  "text": "Ein Museum für Volkskunst und -industrie auf der Insel Janitzio.",
-                  "category": "museum",
-                  "coords": [
-                        -101.606954,
-                        19.51369
-                  ]
-            },
-            {
-                  "name": "salon Robal",
-                  "text": "Salon Robal ist ein markantes Gebäude im Stadtzentrum von Island mit traditioneller Fassade.",
-                  "category": "landmark",
-                  "coords": [
-                        -101.604346,
-                        19.522178
-                  ]
-            },
-            {
-                  "name": "Centro de Interpretación Ruta Don Vasco",
-                  "text": "Ein Interpretationszentrum zur Route Don Vasco auf der Insel Janitzio.",
-                  "category": "museum",
-                  "coords": [
-                        -101.615643,
-                        19.536345
-                  ]
-            },
-            {
                   "name": "Zona Arqueológica Ihuatzio",
                   "text": "Eine prähispanische Purépecha-archäologische Stätte nahe der Insel Janitzio.",
                   "category": "landmark",
@@ -9042,39 +8115,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Basilica de Nuestra Señora de la Salud",
-                  "text": "Eine Basilika, die der Jungfrau der Gesundheit geweiht ist, auf der Insel Janitzio.",
-                  "category": "religious",
-                  "coords": [
-                        -101.606012,
-                        19.514999
-                  ]
-            },
-            {
-                  "name": "Teatro Emperador Caltzontzin",
-                  "text": "Ein nach Kaiser Caltzontzin benanntes Theater auf der Insel Janitzio.",
-                  "category": "cultural",
-                  "coords": [
-                        -101.608569,
-                        19.516864
-                  ]
-            },
-            {
                   "name": "Posada de Don Vasco",
                   "text": "Die Posada de Don Vasco ist eine historische Herberge, benannt nach dem Bischof Don Vasco de Quiroga.",
                   "category": "landmark",
                   "coords": [
                         -101.611855,
                         19.532
-                  ]
-            },
-            {
-                  "name": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
-                  "text": "Ein Umweltrestaurierungsgebiet am Estribito del Cerro Colorado nahe Janitzio.",
-                  "category": "natural",
-                  "coords": [
-                        -101.609022,
-                        19.53796
                   ]
             }
       ],
@@ -9095,33 +8141,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   "coords": [
                         -101.651943,
                         19.574242
-                  ]
-            },
-            {
-                  "name": "Museo de las Artes e Industrias Populares",
-                  "text": "Népi művészetek és iparok múzeuma Janitzio szigetén.",
-                  "category": "museum",
-                  "coords": [
-                        -101.606954,
-                        19.51369
-                  ]
-            },
-            {
-                  "name": "salon Robal",
-                  "text": "A Salon Robal egy jellegzetes épület Island városközpontjában, hagyományos homlokzattal.",
-                  "category": "landmark",
-                  "coords": [
-                        -101.604346,
-                        19.522178
-                  ]
-            },
-            {
-                  "name": "Centro de Interpretación Ruta Don Vasco",
-                  "text": "Egy interpretációs központ a Don Vasco útvonalról Janitzio szigetén.",
-                  "category": "museum",
-                  "coords": [
-                        -101.615643,
-                        19.536345
                   ]
             },
             {
@@ -9161,39 +8180,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Basilica de Nuestra Señora de la Salud",
-                  "text": "Egy bazilika, amelyet az Egészség Szűzanyjának szenteltek, Janitzio szigetén.",
-                  "category": "religious",
-                  "coords": [
-                        -101.606012,
-                        19.514999
-                  ]
-            },
-            {
-                  "name": "Teatro Emperador Caltzontzin",
-                  "text": "Egy Caltzontzin császárról elnevezett színház Janitzio szigetén.",
-                  "category": "cultural",
-                  "coords": [
-                        -101.608569,
-                        19.516864
-                  ]
-            },
-            {
                   "name": "Posada de Don Vasco",
                   "text": "A Posada de Don Vasco egy történelmi fogadó, amely Don Vasco de Quiroga püspökről kapta a nevét.",
                   "category": "landmark",
                   "coords": [
                         -101.611855,
                         19.532
-                  ]
-            },
-            {
-                  "name": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
-                  "text": "Egy környezeti helyreállítási terület az Estribito del Cerro Colorado-n Janitzio közelében.",
-                  "category": "natural",
-                  "coords": [
-                        -101.609022,
-                        19.53796
                   ]
             }
       ],
@@ -9214,33 +8206,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   "coords": [
                         -101.651943,
                         19.574242
-                  ]
-            },
-            {
-                  "name": "Museo de las Artes e Industrias Populares",
-                  "text": "Un muzeu al artelor și industriilor populare pe insula Janitzio.",
-                  "category": "museum",
-                  "coords": [
-                        -101.606954,
-                        19.51369
-                  ]
-            },
-            {
-                  "name": "salon Robal",
-                  "text": "Salon Robal este o clădire emblematică în centrul orașului Island, cu o fațadă tradițională.",
-                  "category": "landmark",
-                  "coords": [
-                        -101.604346,
-                        19.522178
-                  ]
-            },
-            {
-                  "name": "Centro de Interpretación Ruta Don Vasco",
-                  "text": "Un centru de interpretare a Rutei Don Vasco pe insula Janitzio.",
-                  "category": "museum",
-                  "coords": [
-                        -101.615643,
-                        19.536345
                   ]
             },
             {
@@ -9280,39 +8245,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Basilica de Nuestra Señora de la Salud",
-                  "text": "O bazilică dedicată Maicii Domnului a Sănătății pe insula Janitzio.",
-                  "category": "religious",
-                  "coords": [
-                        -101.606012,
-                        19.514999
-                  ]
-            },
-            {
-                  "name": "Teatro Emperador Caltzontzin",
-                  "text": "Un teatru numit după Împăratul Caltzontzin pe insula Janitzio.",
-                  "category": "cultural",
-                  "coords": [
-                        -101.608569,
-                        19.516864
-                  ]
-            },
-            {
                   "name": "Posada de Don Vasco",
                   "text": "Posada de Don Vasco este un han istoric numit după episcopul Don Vasco de Quiroga.",
                   "category": "landmark",
                   "coords": [
                         -101.611855,
                         19.532
-                  ]
-            },
-            {
-                  "name": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
-                  "text": "O zonă de restaurare ecologică pe Estribito del Cerro Colorado lângă Janitzio.",
-                  "category": "natural",
-                  "coords": [
-                        -101.609022,
-                        19.53796
                   ]
             }
       ],
@@ -9333,33 +8271,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   "coords": [
                         -101.651943,
                         19.574242
-                  ]
-            },
-            {
-                  "name": "Museo de las Artes e Industrias Populares",
-                  "text": "A museum of popular arts and industries on Janitzio Island.",
-                  "category": "museum",
-                  "coords": [
-                        -101.606954,
-                        19.51369
-                  ]
-            },
-            {
-                  "name": "salon Robal",
-                  "text": "Salon Robal is a landmark building in the center of Island with a traditional façade.",
-                  "category": "landmark",
-                  "coords": [
-                        -101.604346,
-                        19.522178
-                  ]
-            },
-            {
-                  "name": "Centro de Interpretación Ruta Don Vasco",
-                  "text": "An interpretation center about the Don Vasco Route on Janitzio Island.",
-                  "category": "museum",
-                  "coords": [
-                        -101.615643,
-                        19.536345
                   ]
             },
             {
@@ -9399,39 +8310,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Basilica de Nuestra Señora de la Salud",
-                  "text": "A basilica dedicated to Our Lady of Health on Janitzio Island.",
-                  "category": "religious",
-                  "coords": [
-                        -101.606012,
-                        19.514999
-                  ]
-            },
-            {
-                  "name": "Teatro Emperador Caltzontzin",
-                  "text": "A theatre named after Emperor Caltzontzin on Janitzio Island.",
-                  "category": "cultural",
-                  "coords": [
-                        -101.608569,
-                        19.516864
-                  ]
-            },
-            {
                   "name": "Posada de Don Vasco",
                   "text": "Posada de Don Vasco is a historic inn named after Bishop Don Vasco de Quiroga.",
                   "category": "landmark",
                   "coords": [
                         -101.611855,
                         19.532
-                  ]
-            },
-            {
-                  "name": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
-                  "text": "An environmental restoration area on Estribito del Cerro Colorado near Janitzio.",
-                  "category": "natural",
-                  "coords": [
-                        -101.609022,
-                        19.53796
                   ]
             }
       ]
@@ -10964,84 +9848,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Huátapera",
-                  "text": "La Huátapera ist ein historisches Gebäude, das ein Museum für indigene Kultur und Kunst beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        -102.062108,
-                        19.421055
-                  ]
-            },
-            {
-                  "name": "Pérgola Municipal",
-                  "text": "Die Pérgola Municipal ist eine historische überdachte Struktur auf dem Hauptplatz für öffentliche Veranstaltungen.",
-                  "category": "historical",
-                  "coords": [
-                        -102.063304,
-                        19.421018
-                  ]
-            },
-            {
-                  "name": "Casa mas chiquita del mundo",
-                  "text": "Das Smaller house in the world ist ein Museum in einem Haus, das als eines der kleinsten der Welt gilt, in michoacan-avocado-orchards-life-v2.",
-                  "category": "museum",
-                  "coords": [
-                        -102.066048,
-                        19.425471
-                  ]
-            },
-            {
-                  "name": "Foro Cultural La Morada",
-                  "text": "Foro Cultural La Morada ist ein Kulturzentrum, das Konzerte und Ausstellungen veranstaltet.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.06654,
-                        19.423036
-                  ]
-            },
-            {
-                  "name": "Monumento a La Bandera",
-                  "text": "Das Monumento a La Bandera ist eine Skulptur, die der mexikanischen Flagge gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        -102.06391,
-                        19.42228
-                  ]
-            },
-            {
-                  "name": "Mural de los Orígenes de Uruapan",
-                  "text": "Das Mural de los Orígenes de Uruapan zeigt in einem Wandgemälde die Gründungsgeschichte der Stadt.",
-                  "category": "historical",
-                  "coords": [
-                        -102.074792,
-                        19.433321
-                  ]
-            },
-            {
-                  "name": "Mansión del Cupatitzio",
-                  "text": "Die Mansión del Cupatitzio ist ein Hotel und Herrenhaus, benannt nach dem Fluss Cupatitzio, in michoacan-avocado-orchards-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        -102.074191,
-                        19.429717
-                  ]
-            },
-            {
                   "name": "La Tzararacua",
                   "text": "La Tzararacua ist ein Naturschutzgebiet mit einem bekannten Wasserfall in michoacan-avocado-orchards-life-v2.",
                   "category": "natural",
                   "coords": [
                         -102.073256,
                         19.352721
-                  ]
-            },
-            {
-                  "name": "Monumento al Padre Ochoa",
-                  "text": "Das Monumento al Padre Ochoa erinnert an den Priester und Pädagogen Padre Ochoa.",
-                  "category": "historical",
-                  "coords": [
-                        -102.066382,
-                        19.405226
                   ]
             },
             {
@@ -11078,15 +9890,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   "coords": [
                         -102.042796,
                         19.416149
-                  ]
-            },
-            {
-                  "name": "Parque de Animales San Miguelito",
-                  "text": "Der Parque de Animales San Miguelito ist ein kleiner Zoo und Tierpark in michoacan-avocado-orchards-life-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        -102.124672,
-                        19.416619
                   ]
             },
             {
@@ -11128,84 +9931,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Huátapera",
-                  "text": "A La Huátapera egy történelmi épület, amely az őslakos kultúra és művészet múzeumának ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        -102.062108,
-                        19.421055
-                  ]
-            },
-            {
-                  "name": "Pérgola Municipal",
-                  "text": "A Pérgola Municipal egy történelmi fedett építmény a főtéren, nyilvános eseményekhez.",
-                  "category": "historical",
-                  "coords": [
-                        -102.063304,
-                        19.421018
-                  ]
-            },
-            {
-                  "name": "Casa mas chiquita del mundo",
-                  "text": "A Smaller house in the world egy múzeum, amely a világ egyik legkisebb házának tartott épületben található a michoacan-avocado-orchards-life-v2 területén.",
-                  "category": "museum",
-                  "coords": [
-                        -102.066048,
-                        19.425471
-                  ]
-            },
-            {
-                  "name": "Foro Cultural La Morada",
-                  "text": "A Foro Cultural La Morada egy kulturális központ, amely koncerteknek és kiállításoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.06654,
-                        19.423036
-                  ]
-            },
-            {
-                  "name": "Monumento a La Bandera",
-                  "text": "A Monumento a La Bandera egy szobor, amely a mexikói zászlónak állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        -102.06391,
-                        19.42228
-                  ]
-            },
-            {
-                  "name": "Mural de los Orígenes de Uruapan",
-                  "text": "A Mural de los Orígenes de Uruapan egy falfestmény, amely a város alapításának történetét ábrázolja.",
-                  "category": "historical",
-                  "coords": [
-                        -102.074792,
-                        19.433321
-                  ]
-            },
-            {
-                  "name": "Mansión del Cupatitzio",
-                  "text": "A Mansión del Cupatitzio egy szálloda és kúria, amely a Cupatitzio folyóról kapta a nevét, a michoacan-avocado-orchards-life-v2 területén.",
-                  "category": "landmark",
-                  "coords": [
-                        -102.074191,
-                        19.429717
-                  ]
-            },
-            {
                   "name": "La Tzararacua",
                   "text": "La Tzararacua egy természetvédelmi terület egy híres vízeséssel a michoacan-avocado-orchards-life-v2 területén.",
                   "category": "natural",
                   "coords": [
                         -102.073256,
                         19.352721
-                  ]
-            },
-            {
-                  "name": "Monumento al Padre Ochoa",
-                  "text": "A Monumento al Padre Ochoa a Padre Ochoa papra és pedagógusra emlékezik.",
-                  "category": "historical",
-                  "coords": [
-                        -102.066382,
-                        19.405226
                   ]
             },
             {
@@ -11242,15 +9973,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   "coords": [
                         -102.042796,
                         19.416149
-                  ]
-            },
-            {
-                  "name": "Parque de Animales San Miguelito",
-                  "text": "A Parque de Animales San Miguelito egy kis állatkert és állatpark a michoacan-avocado-orchards-life-v2 területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -102.124672,
-                        19.416619
                   ]
             },
             {
@@ -11292,84 +10014,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Huátapera",
-                  "text": "La Huátapera este o clădire istorică ce găzduiește un muzeu al culturii și artei indigene.",
-                  "category": "museum",
-                  "coords": [
-                        -102.062108,
-                        19.421055
-                  ]
-            },
-            {
-                  "name": "Pérgola Municipal",
-                  "text": "Pérgola Municipală este o structură istorică acoperită în piața principală, pentru evenimente publice.",
-                  "category": "historical",
-                  "coords": [
-                        -102.063304,
-                        19.421018
-                  ]
-            },
-            {
-                  "name": "Casa mas chiquita del mundo",
-                  "text": "Smaller house in the world este un muzeu găzduit într-o casă despre care se spune că este una dintre cele mai mici din lume, în michoacan-avocado-orchards-life-v2.",
-                  "category": "museum",
-                  "coords": [
-                        -102.066048,
-                        19.425471
-                  ]
-            },
-            {
-                  "name": "Foro Cultural La Morada",
-                  "text": "Foro Cultural La Morada este un centru cultural care găzduiește concerte și expoziții.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.06654,
-                        19.423036
-                  ]
-            },
-            {
-                  "name": "Monumento a La Bandera",
-                  "text": "Monumento a La Bandera este o sculptură dedicată drapelului mexican.",
-                  "category": "historical",
-                  "coords": [
-                        -102.06391,
-                        19.42228
-                  ]
-            },
-            {
-                  "name": "Mural de los Orígenes de Uruapan",
-                  "text": "Mural de los Orígenes de Uruapan este o pictură murală care ilustrează originile orașului.",
-                  "category": "historical",
-                  "coords": [
-                        -102.074792,
-                        19.433321
-                  ]
-            },
-            {
-                  "name": "Mansión del Cupatitzio",
-                  "text": "Mansión del Cupatitzio este un hotel tip conac, numit după râul Cupatitzio, în michoacan-avocado-orchards-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        -102.074191,
-                        19.429717
-                  ]
-            },
-            {
                   "name": "La Tzararacua",
                   "text": "La Tzararacua este o rezervație naturală cu o cascadă renumită în michoacan-avocado-orchards-life-v2.",
                   "category": "natural",
                   "coords": [
                         -102.073256,
                         19.352721
-                  ]
-            },
-            {
-                  "name": "Monumento al Padre Ochoa",
-                  "text": "Monumento al Padre Ochoa comemorează preotul și educatorul Padre Ochoa.",
-                  "category": "historical",
-                  "coords": [
-                        -102.066382,
-                        19.405226
                   ]
             },
             {
@@ -11406,15 +10056,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   "coords": [
                         -102.042796,
                         19.416149
-                  ]
-            },
-            {
-                  "name": "Parque de Animales San Miguelito",
-                  "text": "Parque de Animales San Miguelito este o grădină zoologică mică și un parc animalier în michoacan-avocado-orchards-life-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        -102.124672,
-                        19.416619
                   ]
             },
             {
@@ -11456,84 +10097,12 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Huátapera",
-                  "text": "La Huátapera is a historic building housing a museum of indigenous culture and art.",
-                  "category": "museum",
-                  "coords": [
-                        -102.062108,
-                        19.421055
-                  ]
-            },
-            {
-                  "name": "Pérgola Municipal",
-                  "text": "The Pérgola Municipal is a historic covered structure on the main square for public events.",
-                  "category": "historical",
-                  "coords": [
-                        -102.063304,
-                        19.421018
-                  ]
-            },
-            {
-                  "name": "Smaller house in the world",
-                  "text": "The Smaller house in the world is a museum housed in what is claimed to be one of the smallest houses, located in michoacan-avocado-orchards-life-v2.",
-                  "category": "museum",
-                  "coords": [
-                        -102.066048,
-                        19.425471
-                  ]
-            },
-            {
-                  "name": "Foro Cultural La Morada",
-                  "text": "Foro Cultural La Morada is a cultural center hosting concerts and exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.06654,
-                        19.423036
-                  ]
-            },
-            {
-                  "name": "Monumento a La Bandera",
-                  "text": "The Monumento a La Bandera is a sculpture dedicated to the Mexican flag.",
-                  "category": "historical",
-                  "coords": [
-                        -102.06391,
-                        19.42228
-                  ]
-            },
-            {
-                  "name": "Mural de los Orígenes de Uruapan",
-                  "text": "The Mural de los Orígenes de Uruapan depicts the founding history of the city in a mural.",
-                  "category": "historical",
-                  "coords": [
-                        -102.074792,
-                        19.433321
-                  ]
-            },
-            {
-                  "name": "Mansión del Cupatitzio",
-                  "text": "Mansión del Cupatitzio is a hotel mansion named after the Cupatitzio River in michoacan-avocado-orchards-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        -102.074191,
-                        19.429717
-                  ]
-            },
-            {
                   "name": "La Tzararacua",
                   "text": "La Tzararacua is a nature reserve featuring a famous waterfall in michoacan-avocado-orchards-life-v2.",
                   "category": "natural",
                   "coords": [
                         -102.073256,
                         19.352721
-                  ]
-            },
-            {
-                  "name": "Monumento al Padre Ochoa",
-                  "text": "The Monumento al Padre Ochoa commemorates the priest and educator Father Ochoa.",
-                  "category": "historical",
-                  "coords": [
-                        -102.066382,
-                        19.405226
                   ]
             },
             {
@@ -11570,15 +10139,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   "coords": [
                         -102.042796,
                         19.416149
-                  ]
-            },
-            {
-                  "name": "Parque de Animales San Miguelito",
-                  "text": "Parque de Animales San Miguelito is a small zoo and animal park in michoacan-avocado-orchards-life-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        -102.124672,
-                        19.416619
                   ]
             },
             {
@@ -11671,33 +10231,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parroquia de Nuestra Señora del Rosario",
-                  "text": "Die Parroquia de Nuestra Señora del Rosario ist eine historische Kirche aus dem 16. Jahrhundert.",
-                  "category": "castle",
-                  "coords": [
-                        -108.994859,
-                        25.7683
-                  ]
-            },
-            {
-                  "name": "Trapiche Museo Interactivo",
-                  "text": "Das Trapiche Museo Interactivo ist ein interaktives Museum zur Geschichte der Zuckerproduktion.",
-                  "category": "museum",
-                  "coords": [
-                        -108.999103,
-                        25.788559
-                  ]
-            },
-            {
-                  "name": "Entrada",
-                  "text": "Der zentrale Eingang (Entrada) führt in das Gebiet der Mango-Obstgärten und -Plantagen.",
-                  "category": "landmark",
-                  "coords": [
-                        -109.001832,
-                        25.788583
-                  ]
-            },
-            {
                   "name": "La Pergola",
                   "text": "Natürliche Pergola aus Mangobäumen in Mango Orchards.",
                   "category": "natural",
@@ -11714,42 +10247,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                         -108.972525,
                         25.80447
                   ]
-            },
-            {
-                  "name": "Museo Del Valle del Fuerte",
-                  "text": "Museum des Fuerte-Tals mit regionalhistorischen Exponaten in Mango Orchards.",
-                  "category": "museum",
-                  "coords": [
-                        -108.999588,
-                        25.790209
-                  ]
-            },
-            {
-                  "name": "Ruinas de la Casa Grande",
-                  "text": "Ruinen eines großen Kolonialhauses in Mango Orchards.",
-                  "category": "historical",
-                  "coords": [
-                        -109.003358,
-                        25.789639
-                  ]
-            },
-            {
-                  "name": "Jardín Botánico Benjamin Francis Johnston (Parque Sinaloa)",
-                  "text": "Botanischer Garten Benjamin Francis Johnston, Teil des Parque Sinaloa, mit einheimischen Pflanzen.",
-                  "category": "landmark",
-                  "coords": [
-                        -109.005038,
-                        25.789143
-                  ]
-            },
-            {
-                  "name": "Teatro Ingenio",
-                  "text": "Theater Ingenio, eine kulturelle Spielstätte in Mango Orchards.",
-                  "category": "cultural",
-                  "coords": [
-                        -109.000382,
-                        25.788697
-                  ]
             }
       ],
       "hu": [
@@ -11760,33 +10257,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   "coords": [
                         -109.028632,
                         25.746627
-                  ]
-            },
-            {
-                  "name": "Parroquia de Nuestra Señora del Rosario",
-                  "text": "A Parroquia de Nuestra Señora del Rosario egy 16. századi történelmi templom.",
-                  "category": "castle",
-                  "coords": [
-                        -108.994859,
-                        25.7683
-                  ]
-            },
-            {
-                  "name": "Trapiche Museo Interactivo",
-                  "text": "A Trapiche Museo Interactivo egy interaktív múzeum a cukortermelés történetéről.",
-                  "category": "museum",
-                  "coords": [
-                        -108.999103,
-                        25.788559
-                  ]
-            },
-            {
-                  "name": "Entrada",
-                  "text": "A központi bejárat (Entrada) vezet a mangóültetvények és -termesztő területekbe.",
-                  "category": "landmark",
-                  "coords": [
-                        -109.001832,
-                        25.788583
                   ]
             },
             {
@@ -11806,42 +10276,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                         -108.972525,
                         25.80447
                   ]
-            },
-            {
-                  "name": "Museo Del Valle del Fuerte",
-                  "text": "A Fuerte-völgy múzeuma regionális történeti kiállításokkal Mango Orchardsban.",
-                  "category": "museum",
-                  "coords": [
-                        -108.999588,
-                        25.790209
-                  ]
-            },
-            {
-                  "name": "Ruinas de la Casa Grande",
-                  "text": "Egy nagy gyarmati ház romjai Mango Orchardsban.",
-                  "category": "historical",
-                  "coords": [
-                        -109.003358,
-                        25.789639
-                  ]
-            },
-            {
-                  "name": "Jardín Botánico Benjamin Francis Johnston (Parque Sinaloa)",
-                  "text": "Benjamin Francis Johnston Botanikus Kert, a Parque Sinaloa része, őshonos növényekkel.",
-                  "category": "landmark",
-                  "coords": [
-                        -109.005038,
-                        25.789143
-                  ]
-            },
-            {
-                  "name": "Teatro Ingenio",
-                  "text": "Ingenio Színház, kulturális helyszín Mango Orchardsban.",
-                  "category": "cultural",
-                  "coords": [
-                        -109.000382,
-                        25.788697
-                  ]
             }
       ],
       "ro": [
@@ -11852,33 +10286,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   "coords": [
                         -109.028632,
                         25.746627
-                  ]
-            },
-            {
-                  "name": "Parroquia de Nuestra Señora del Rosario",
-                  "text": "Parroquia de Nuestra Señora del Rosario este o biserică istorică din secolul al XVI-lea.",
-                  "category": "castle",
-                  "coords": [
-                        -108.994859,
-                        25.7683
-                  ]
-            },
-            {
-                  "name": "Trapiche Museo Interactivo",
-                  "text": "Trapiche Museo Interactivo este un muzeu interactiv despre istoria producției de zahăr.",
-                  "category": "museum",
-                  "coords": [
-                        -108.999103,
-                        25.788559
-                  ]
-            },
-            {
-                  "name": "Entrada",
-                  "text": "Intrarea principală (Entrada) duce în zona livezilor și plantațiilor de mango.",
-                  "category": "landmark",
-                  "coords": [
-                        -109.001832,
-                        25.788583
                   ]
             },
             {
@@ -11898,42 +10305,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                         -108.972525,
                         25.80447
                   ]
-            },
-            {
-                  "name": "Museo Del Valle del Fuerte",
-                  "text": "Muzeul Văii Fuerte cu exponate de istorie regională în Mango Orchards.",
-                  "category": "museum",
-                  "coords": [
-                        -108.999588,
-                        25.790209
-                  ]
-            },
-            {
-                  "name": "Ruinas de la Casa Grande",
-                  "text": "Ruinele unei mari case coloniale în Mango Orchards.",
-                  "category": "historical",
-                  "coords": [
-                        -109.003358,
-                        25.789639
-                  ]
-            },
-            {
-                  "name": "Jardín Botánico Benjamin Francis Johnston (Parque Sinaloa)",
-                  "text": "Grădina Botanică Benjamin Francis Johnston, parte a Parcului Sinaloa, cu plante native.",
-                  "category": "landmark",
-                  "coords": [
-                        -109.005038,
-                        25.789143
-                  ]
-            },
-            {
-                  "name": "Teatro Ingenio",
-                  "text": "Teatrul Ingenio, un loc cultural în Mango Orchards.",
-                  "category": "cultural",
-                  "coords": [
-                        -109.000382,
-                        25.788697
-                  ]
             }
       ],
       "en": [
@@ -11944,33 +10315,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   "coords": [
                         -109.028632,
                         25.746627
-                  ]
-            },
-            {
-                  "name": "Parroquia de Nuestra Señora del Rosario",
-                  "text": "Parroquia de Nuestra Señora del Rosario is a historic 16th-century church.",
-                  "category": "castle",
-                  "coords": [
-                        -108.994859,
-                        25.7683
-                  ]
-            },
-            {
-                  "name": "Trapiche Museo Interactivo",
-                  "text": "Trapiche Museo Interactivo is an interactive museum about the history of sugar production.",
-                  "category": "museum",
-                  "coords": [
-                        -108.999103,
-                        25.788559
-                  ]
-            },
-            {
-                  "name": "Entrada",
-                  "text": "The entrance (Entrada) leads into the area of mango orchards and plantations.",
-                  "category": "landmark",
-                  "coords": [
-                        -109.001832,
-                        25.788583
                   ]
             },
             {
@@ -11989,42 +10333,6 @@ export const poiExtraMexicoLifeV2: POI[] = [
                   "coords": [
                         -108.972525,
                         25.80447
-                  ]
-            },
-            {
-                  "name": "Museo Del Valle del Fuerte",
-                  "text": "Museum of the Fuerte Valley featuring regional history exhibits in Mango Orchards.",
-                  "category": "museum",
-                  "coords": [
-                        -108.999588,
-                        25.790209
-                  ]
-            },
-            {
-                  "name": "Ruinas de la Casa Grande",
-                  "text": "Ruins of a large colonial house in Mango Orchards.",
-                  "category": "historical",
-                  "coords": [
-                        -109.003358,
-                        25.789639
-                  ]
-            },
-            {
-                  "name": "Jardín Botánico Benjamin Francis Johnston (Parque Sinaloa)",
-                  "text": "Benjamin Francis Johnston Botanical Garden, part of Parque Sinaloa, with native plants.",
-                  "category": "landmark",
-                  "coords": [
-                        -109.005038,
-                        25.789143
-                  ]
-            },
-            {
-                  "name": "Teatro Ingenio",
-                  "text": "Teatro Ingenio, a cultural venue in Mango Orchards.",
-                  "category": "cultural",
-                  "coords": [
-                        -109.000382,
-                        25.788697
                   ]
             }
       ]

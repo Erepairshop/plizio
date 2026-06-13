@@ -86,158 +86,10 @@ export const poiExtraMaliCitiesV2: POI[] = [
     }, image: "/poi-images/bamako-cities-v2.webp"},
   {
     id: "sikasso-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Musée régional de Sikasso",
-                  "text": "Musée régional de Sikasso zeigt Kunsthandwerk und Masken aus der Region Sikasso.",
-                  "category": "museum",
-                  "coords": [
-                        -5.68524,
-                        11.31432
-                  ]
-            },
-            {
-                  "name": "Palais Kélétigui",
-                  "text": "Palais Kélétigui war der Palast des traditionellen Herrschers von Sikasso, ein Lehmziegelbau.",
-                  "category": "castle",
-                  "coords": [
-                        -5.667363,
-                        11.311339
-                  ]
-            },
-            {
-                  "name": "Le vieux ni",
-                  "text": "Le vieux ni ist ein altes Gebäude in Sikasso, das heute als Gemeinschaftszentrum dient.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.659077,
-                        11.304048
-                  ]
-            },
-            {
-                  "name": "Cathédrale Notre-Dame-de-Lourdes",
-                  "text": "Cathédrale Notre-Dame-de-Lourdes ist eine katholische Kathedrale in Sikasso, der Hauptstadt der Region Sikasso.",
-                  "category": "religious",
-                  "coords": [
-                        -5.672963,
-                        11.320004
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Musée régional de Sikasso",
-                  "text": "A Musée régional de Sikasso a sikassói régió kézműves termékeit és maszkjait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -5.68524,
-                        11.31432
-                  ]
-            },
-            {
-                  "name": "Palais Kélétigui",
-                  "text": "A Palais Kélétigui Sikasso hagyományos uralkodójának palotája volt, vályogból épült.",
-                  "category": "castle",
-                  "coords": [
-                        -5.667363,
-                        11.311339
-                  ]
-            },
-            {
-                  "name": "Le vieux ni",
-                  "text": "Le vieux ni egy régi épület Sikassóban, ma közösségi központként működik.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.659077,
-                        11.304048
-                  ]
-            },
-            {
-                  "name": "Cathédrale Notre-Dame-de-Lourdes",
-                  "text": "A Notre-Dame-de-Lourdes-székesegyház egy katolikus székesegyház Sikassóban, a Sikasso régió fővárosában.",
-                  "category": "religious",
-                  "coords": [
-                        -5.672963,
-                        11.320004
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Musée régional de Sikasso",
-                  "text": "Musée régional de Sikasso expune meșteșuguri și măști din regiunea Sikasso.",
-                  "category": "museum",
-                  "coords": [
-                        -5.68524,
-                        11.31432
-                  ]
-            },
-            {
-                  "name": "Palais Kélétigui",
-                  "text": "Palais Kélétigui a fost palatul conducătorului tradițional al Sikasso, construit din chirpici.",
-                  "category": "castle",
-                  "coords": [
-                        -5.667363,
-                        11.311339
-                  ]
-            },
-            {
-                  "name": "Le vieux ni",
-                  "text": "Le vieux ni este o clădire veche din Sikasso, acum folosită ca centru comunitar.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.659077,
-                        11.304048
-                  ]
-            },
-            {
-                  "name": "Cathédrale Notre-Dame-de-Lourdes",
-                  "text": "Catedrala Notre-Dame-de-Lourdes este o catedrală catolică în Sikasso, capitala regiunii Sikasso.",
-                  "category": "religious",
-                  "coords": [
-                        -5.672963,
-                        11.320004
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Musée régional de Sikasso",
-                  "text": "Musée régional de Sikasso displays crafts and masks from the Sikasso region.",
-                  "category": "museum",
-                  "coords": [
-                        -5.68524,
-                        11.31432
-                  ]
-            },
-            {
-                  "name": "Palais Kélétigui",
-                  "text": "Palais Kélétigui was the palace of Sikasso's traditional ruler, built of mudbrick.",
-                  "category": "castle",
-                  "coords": [
-                        -5.667363,
-                        11.311339
-                  ]
-            },
-            {
-                  "name": "Le vieux ni",
-                  "text": "Le vieux ni is an old building in Sikasso, now used as a community centre.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.659077,
-                        11.304048
-                  ]
-            },
-            {
-                  "name": "Cathédrale Notre-Dame-de-Lourdes",
-                  "text": "Cathédrale Notre-Dame-de-Lourdes is a Catholic cathedral in Sikasso, the capital of the Sikasso Region.",
-                  "category": "religious",
-                  "coords": [
-                        -5.672963,
-                        11.320004
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "ML-3",
@@ -282,86 +134,10 @@ export const poiExtraMaliCitiesV2: POI[] = [
     }, image: "/poi-images/sikasso-cities-v2.webp"},
   {
     id: "mopti-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Monument aux Martyrs de la Nation",
-                  "text": "Monument aux Martyrs de la Nation in Mopti ehrt die Gefallenen des malischen Unabhängigkeitskampfes.",
-                  "category": "historical",
-                  "coords": [
-                        -4.198176,
-                        14.496819
-                  ]
-            },
-            {
-                  "name": "Mosquée de Komoguel",
-                  "text": "Die Mosquée de Komoguel ist eine historische Lehmziegel-Moschee in Mopti, ein nationales Kulturerbe.",
-                  "category": "religious",
-                  "coords": [
-                        -4.196713,
-                        14.493758
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Monument aux Martyrs de la Nation",
-                  "text": "A Monument aux Martyrs de la Nation Moptiban a mali függetlenségi harc elesettjeire emlékezik.",
-                  "category": "historical",
-                  "coords": [
-                        -4.198176,
-                        14.496819
-                  ]
-            },
-            {
-                  "name": "Mosquée de Komoguel",
-                  "text": "A Komoguel-mecset egy történelmi vályogtégla mecset Moptiban, nemzeti örökség.",
-                  "category": "religious",
-                  "coords": [
-                        -4.196713,
-                        14.493758
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Monument aux Martyrs de la Nation",
-                  "text": "Monument aux Martyrs de la Nation din Mopti onorează căzuții în lupta pentru independența Maliului.",
-                  "category": "historical",
-                  "coords": [
-                        -4.198176,
-                        14.496819
-                  ]
-            },
-            {
-                  "name": "Mosquée de Komoguel",
-                  "text": "Moscheea din Komoguel este o moschee istorică din cărămidă de noroi în Mopti, un sit de patrimoniu național.",
-                  "category": "religious",
-                  "coords": [
-                        -4.196713,
-                        14.493758
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Monument aux Martyrs de la Nation",
-                  "text": "Monument aux Martyrs de la Nation in Mopti honours the fallen in Mali's independence struggle.",
-                  "category": "historical",
-                  "coords": [
-                        -4.198176,
-                        14.496819
-                  ]
-            },
-            {
-                  "name": "Mosquée de Komoguel",
-                  "text": "Mosquée de Komoguel is a historic mud-brick mosque in Mopti, a national heritage site.",
-                  "category": "religious",
-                  "coords": [
-                        -4.196713,
-                        14.493758
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "ML-5",
@@ -403,15 +179,6 @@ export const poiExtraMaliCitiesV2: POI[] = [
     id: "koutiala-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Monument CMDT",
-                  "text": "Monument CMDT in Koutiala erinnert an die Textilgesellschaft Compagnie Malienne pour le Développement du Textile.",
-                  "category": "historical",
-                  "coords": [
-                        -5.459888,
-                        12.383274
-                  ]
-            },
-            {
                   "name": "Salle de Spectacle",
                   "text": "Salle de Spectacle in Koutiala ist eine Mehrzweckhalle für Konzerte und Theateraufführungen.",
                   "category": "cultural",
@@ -422,15 +189,6 @@ export const poiExtraMaliCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Monument CMDT",
-                  "text": "A Monument CMDT Koutialában a Compagnie Malienne pour le Développement du Textile textilipari társaságra emlékezik.",
-                  "category": "historical",
-                  "coords": [
-                        -5.459888,
-                        12.383274
-                  ]
-            },
             {
                   "name": "Salle de Spectacle",
                   "text": "A Salle de Spectacle Koutialában egy többcélú terem koncertek és színházi előadások számára.",
@@ -443,15 +201,6 @@ export const poiExtraMaliCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Monument CMDT",
-                  "text": "Monument CMDT din Koutiala comemorează compania textilă Compagnie Malienne pour le Développement du Textile.",
-                  "category": "historical",
-                  "coords": [
-                        -5.459888,
-                        12.383274
-                  ]
-            },
-            {
                   "name": "Salle de Spectacle",
                   "text": "Salle de Spectacle din Koutiala este o sală multifuncțională pentru concerte și spectacole de teatru.",
                   "category": "cultural",
@@ -462,15 +211,6 @@ export const poiExtraMaliCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Monument CMDT",
-                  "text": "Monument CMDT in Koutiala commemorates the textile company Compagnie Malienne pour le Développement du Textile.",
-                  "category": "historical",
-                  "coords": [
-                        -5.459888,
-                        12.383274
-                  ]
-            },
             {
                   "name": "Salle de Spectacle",
                   "text": "Salle de Spectacle in Koutiala is a multipurpose hall for concerts and theatre performances.",
@@ -529,42 +269,6 @@ export const poiExtraMaliCitiesV2: POI[] = [
                         -11.43866,
                         14.436166
                   ]
-            },
-            {
-                  "name": "salle Massa Makan Diabaté",
-                  "text": "Die salle Massa Makan Diabaté dient als Theaterraum in der Stadt Kayes.",
-                  "category": "cultural",
-                  "coords": [
-                        -11.461562,
-                        14.453008
-                  ]
-            },
-            {
-                  "name": "Stade Bassi Coulibaly",
-                  "text": "Das Stade Bassi Coulibaly ist ein lokaler Freizeitpark in der Stadt Kayes.",
-                  "category": "family",
-                  "coords": [
-                        -11.429161,
-                        14.446633
-                  ]
-            },
-            {
-                  "name": "Monument des Martyrs",
-                  "text": "Das Monument des Martyrs in Kayes ist ein historisches Denkmal zu Ehren der malischen Märtyrer.",
-                  "category": "historical",
-                  "coords": [
-                        -11.43625,
-                        14.445252
-                  ]
-            },
-            {
-                  "name": "Monument du Buffle",
-                  "text": "Das Monument du Buffle in Kayes ist eine historische Büffelstatue.",
-                  "category": "historical",
-                  "coords": [
-                        -11.433377,
-                        14.44911
-                  ]
             }
       ],
       "hu": [
@@ -575,42 +279,6 @@ export const poiExtraMaliCitiesV2: POI[] = [
                   "coords": [
                         -11.43866,
                         14.436166
-                  ]
-            },
-            {
-                  "name": "salle Massa Makan Diabaté",
-                  "text": "A salle Massa Makan Diabaté színházi térként működik Kayes városában.",
-                  "category": "cultural",
-                  "coords": [
-                        -11.461562,
-                        14.453008
-                  ]
-            },
-            {
-                  "name": "Stade Bassi Coulibaly",
-                  "text": "A Stade Bassi Coulibaly egy helyi vidámpark Kayes városában.",
-                  "category": "family",
-                  "coords": [
-                        -11.429161,
-                        14.446633
-                  ]
-            },
-            {
-                  "name": "Monument des Martyrs",
-                  "text": "A Kayes-i Monument des Martyrs egy történelmi emlékmű, amely a mali mártírok előtt tiszteleg.",
-                  "category": "historical",
-                  "coords": [
-                        -11.43625,
-                        14.445252
-                  ]
-            },
-            {
-                  "name": "Monument du Buffle",
-                  "text": "A Kayes-i Monument du Buffle egy történelmi bivalyszobor.",
-                  "category": "historical",
-                  "coords": [
-                        -11.433377,
-                        14.44911
                   ]
             }
       ],
@@ -623,42 +291,6 @@ export const poiExtraMaliCitiesV2: POI[] = [
                         -11.43866,
                         14.436166
                   ]
-            },
-            {
-                  "name": "salle Massa Makan Diabaté",
-                  "text": "salle Massa Makan Diabaté funcționează ca un spațiu de teatru în orașul Kayes.",
-                  "category": "cultural",
-                  "coords": [
-                        -11.461562,
-                        14.453008
-                  ]
-            },
-            {
-                  "name": "Stade Bassi Coulibaly",
-                  "text": "Stade Bassi Coulibaly este un parc de distracții local situat în orașul Kayes.",
-                  "category": "family",
-                  "coords": [
-                        -11.429161,
-                        14.446633
-                  ]
-            },
-            {
-                  "name": "Monument des Martyrs",
-                  "text": "Monumentul des Martyrs din Kayes este un monument istoric în cinstea martirilor malieni.",
-                  "category": "historical",
-                  "coords": [
-                        -11.43625,
-                        14.445252
-                  ]
-            },
-            {
-                  "name": "Monument du Buffle",
-                  "text": "Monumentul du Buffle din Kayes este o statuie istorică a unui bivol.",
-                  "category": "historical",
-                  "coords": [
-                        -11.433377,
-                        14.44911
-                  ]
             }
       ],
       "en": [
@@ -669,42 +301,6 @@ export const poiExtraMaliCitiesV2: POI[] = [
                   "coords": [
                         -11.43866,
                         14.436166
-                  ]
-            },
-            {
-                  "name": "salle Massa Makan Diabaté",
-                  "text": "salle Massa Makan Diabaté operates as a theatre space in the city of Kayes.",
-                  "category": "cultural",
-                  "coords": [
-                        -11.461562,
-                        14.453008
-                  ]
-            },
-            {
-                  "name": "Stade Bassi Coulibaly",
-                  "text": "The Stade Bassi Coulibaly is a local theme park located in the city of Kayes.",
-                  "category": "family",
-                  "coords": [
-                        -11.429161,
-                        14.446633
-                  ]
-            },
-            {
-                  "name": "Monument des Martyrs",
-                  "text": "The Monument des Martyrs in Kayes is a historical monument honoring Malian martyrs.",
-                  "category": "historical",
-                  "coords": [
-                        -11.43625,
-                        14.445252
-                  ]
-            },
-            {
-                  "name": "Monument du Buffle",
-                  "text": "The Monument du Buffle in Kayes is a historical statue of a buffalo.",
-                  "category": "historical",
-                  "coords": [
-                        -11.433377,
-                        14.44911
                   ]
             }
       ]
@@ -963,50 +559,10 @@ export const poiExtraMaliCitiesV2: POI[] = [
   },
   {
     id: "markala-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Djegueba",
-                  "text": "Djegueba in Markala ist eine historische Stätte mit Überresten traditioneller Bauten.",
-                  "category": "historical",
-                  "coords": [
-                        -6.072537,
-                        13.676922
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Djegueba",
-                  "text": "A Markala-i Djegueba egy történelmi helyszín, ahol hagyományos építmények maradványai találhatók.",
-                  "category": "historical",
-                  "coords": [
-                        -6.072537,
-                        13.676922
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Djegueba",
-                  "text": "Djegueba din Markala este un sit istoric cu rămășițe ale unor structuri tradiționale.",
-                  "category": "historical",
-                  "coords": [
-                        -6.072537,
-                        13.676922
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Djegueba",
-                  "text": "Djegueba in Markala is a historical site with remnants of traditional structures.",
-                  "category": "historical",
-                  "coords": [
-                        -6.072537,
-                        13.676922
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "ML-4",
@@ -1250,24 +806,6 @@ export const poiExtraMaliCitiesV2: POI[] = [
     id: "gao-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Nouveau Musée du Sahel",
-                  "text": "Das Nouveau Musée du Sahel in Gao ist ein Museum, das der Kultur und Geschichte der Sahelzone gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -0.044321,
-                        16.282624
-                  ]
-            },
-            {
-                  "name": "Maison des Arts",
-                  "text": "Die Maison des Arts in Gao ist ein Kulturzentrum mit lokaler Kunst und Kunsthandwerk.",
-                  "category": "cultural",
-                  "coords": [
-                        -0.043765,
-                        16.281354
-                  ]
-            },
-            {
                   "name": "Tombeau des Askia",
                   "text": "Das Grabmal der Askia ist ein UNESCO-Weltkulturerbe in Gao, ein pyramidales Grabmal des Songhai-Kaisers.",
                   "category": "landmark",
@@ -1278,24 +816,6 @@ export const poiExtraMaliCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Nouveau Musée du Sahel",
-                  "text": "A Gao-i Nouveau Musée du Sahel egy múzeum, amely a Száhel-övezet kultúrájának és történelmének szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        -0.044321,
-                        16.282624
-                  ]
-            },
-            {
-                  "name": "Maison des Arts",
-                  "text": "A Gao-i Maison des Arts egy kulturális központ, amely helyi művészetet és kézművességet mutat be.",
-                  "category": "cultural",
-                  "coords": [
-                        -0.043765,
-                        16.281354
-                  ]
-            },
             {
                   "name": "Tombeau des Askia",
                   "text": "Az Askia-síremlék egy UNESCO világörökségi helyszín Gaóban, a Szongáj császár piramis alakú sírja.",
@@ -1308,24 +828,6 @@ export const poiExtraMaliCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Nouveau Musée du Sahel",
-                  "text": "Nouveau Musée du Sahel din Gao este un muzeu dedicat culturii și istoriei Sahelului.",
-                  "category": "museum",
-                  "coords": [
-                        -0.044321,
-                        16.282624
-                  ]
-            },
-            {
-                  "name": "Maison des Arts",
-                  "text": "Maison des Arts din Gao este un centru cultural care expune artă și meșteșuguri locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -0.043765,
-                        16.281354
-                  ]
-            },
-            {
                   "name": "Tombeau des Askia",
                   "text": "Mormântul lui Askia este un sit UNESCO în Gao, un mormânt piramidal al împăratului Songhai.",
                   "category": "landmark",
@@ -1336,24 +838,6 @@ export const poiExtraMaliCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Nouveau Musée du Sahel",
-                  "text": "The Nouveau Musée du Sahel in Gao is a museum dedicated to Sahelian culture and history.",
-                  "category": "museum",
-                  "coords": [
-                        -0.044321,
-                        16.282624
-                  ]
-            },
-            {
-                  "name": "Maison des Arts",
-                  "text": "The Maison des Arts in Gao is a cultural center showcasing local art and crafts.",
-                  "category": "cultural",
-                  "coords": [
-                        -0.043765,
-                        16.281354
-                  ]
-            },
             {
                   "name": "Tomb of Askia Unesco world heritage site",
                   "text": "Tomb of Askia is a UNESCO World Heritage site in Gao, a pyramidal tomb of the Songhai emperor.",
@@ -2392,15 +1876,6 @@ export const poiExtraMaliCitiesV2: POI[] = [
     id: "kangaba-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Cite Touristique Kouroukan Fuga",
-                  "text": "Die Cite Touristique Kouroukan Fuga in Kangaba ist ein Touristenkomplex, inspiriert von der historischen Ebene Kouroukan Fuga.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.406912,
-                        11.958094
-                  ]
-            },
-            {
                   "name": "Fara Dje",
                   "text": "Fara Dje in Kangaba ist ein Naturwahrzeichen, eine markante Felsformation.",
                   "category": "landmark",
@@ -2411,15 +1886,6 @@ export const poiExtraMaliCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Cite Touristique Kouroukan Fuga",
-                  "text": "A Kangaba-i Cite Touristique Kouroukan Fuga egy turisztikai komplexum, amelyet a történelmi Kouroukan Fuga síkság ihletett.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.406912,
-                        11.958094
-                  ]
-            },
             {
                   "name": "Fara Dje",
                   "text": "A Kangaba-i Fara Dje egy természeti nevezetesség, egy feltűnő sziklaformáció.",
@@ -2432,15 +1898,6 @@ export const poiExtraMaliCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Cite Touristique Kouroukan Fuga",
-                  "text": "Complexul turistic Kouroukan Fuga din Kangaba este un complex turistic inspirat de câmpia istorică Kouroukan Fuga.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.406912,
-                        11.958094
-                  ]
-            },
-            {
                   "name": "Fara Dje",
                   "text": "Fara Dje din Kangaba este un reper natural, o formațiune stâncoasă proeminentă.",
                   "category": "landmark",
@@ -2451,15 +1908,6 @@ export const poiExtraMaliCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Cite Touristique Kouroukan Fuga",
-                  "text": "The Cite Touristique Kouroukan Fuga in Kangaba is a tourist complex inspired by the historic Kouroukan Fuga plain.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.406912,
-                        11.958094
-                  ]
-            },
             {
                   "name": "Fara Dje",
                   "text": "Fara Dje in Kangaba is a natural landmark, a prominent rock formation.",

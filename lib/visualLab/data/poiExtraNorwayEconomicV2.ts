@@ -978,15 +978,6 @@ export const norwayEconomicV2: POI[] = [
     id: "norway-kongsvinger-business-park-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Kongsvinger festning",
-                  "text": "Die Kongsvinger festning ist eine sternförmige Festung aus dem 17. Jahrhundert auf einem Hügel über Kongsvinger.",
-                  "category": "fortress",
-                  "coords": [
-                        12.011818,
-                        60.199422
-                  ]
-            },
-            {
                   "name": "Tråstad skanse",
                   "text": "Die Tråstad skanse ist ein ehemaliges Verteidigungswerk in Kongsvinger mit historischer Bedeutung.",
                   "category": "fortress",
@@ -994,63 +985,9 @@ export const norwayEconomicV2: POI[] = [
                         12.023089,
                         60.193192
                   ]
-            },
-            {
-                  "name": "Aamodtgården",
-                  "text": "Aamodtgården ist ein lokales Museum in Kongsvinger, das Einblicke in die regionale Geschichte bietet.",
-                  "category": "museum",
-                  "coords": [
-                        12.010404,
-                        60.197832
-                  ]
-            },
-            {
-                  "name": "Kongsvinger museum",
-                  "text": "Das Kongsvinger Museum dokumentiert das kulturelle Erbe und die Geschichte der Region.",
-                  "category": "museum",
-                  "coords": [
-                        12.012037,
-                        60.197643
-                  ]
-            },
-            {
-                  "name": "Rådhusteatret Kongsvinger - kino",
-                  "text": "Das Rådhusteatret in Kongsvinger dient als Theater und Kino für kulturelle Veranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        11.999663,
-                        60.19149
-                  ]
-            },
-            {
-                  "name": "Kvinnemuseet",
-                  "text": "Das Kvinnemuseet in Kongsvinger ist ein Museum, das der Geschichte und den Rechten der Frauen gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        12.004494,
-                        60.198093
-                  ]
-            },
-            {
-                  "name": "SceneU",
-                  "text": "SceneU ist ein Kulturzentrum in Kongsvinger, das Raum für verschiedene künstlerische Darbietungen bietet.",
-                  "category": "cultural",
-                  "coords": [
-                        12.00121,
-                        60.19018
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Kongsvinger festning",
-                  "text": "A Kongsvinger festning egy 17. századi csillag alakú erőd a Kongsvinger fölé magasodó dombon.",
-                  "category": "fortress",
-                  "coords": [
-                        12.011818,
-                        60.199422
-                  ]
-            },
             {
                   "name": "Tråstad skanse",
                   "text": "A Tråstad skanse egy egykori védelmi sánc Kongsvingerben, amely fontos történelmi emlékhely.",
@@ -1059,63 +996,9 @@ export const norwayEconomicV2: POI[] = [
                         12.023089,
                         60.193192
                   ]
-            },
-            {
-                  "name": "Aamodtgården",
-                  "text": "Az Aamodtgården egy helyi múzeum Kongsvingerben, amely a környék történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        12.010404,
-                        60.197832
-                  ]
-            },
-            {
-                  "name": "Kongsvinger museum",
-                  "text": "A Kongsvinger múzeum a régió kulturális örökségét és történelmét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        12.012037,
-                        60.197643
-                  ]
-            },
-            {
-                  "name": "Rådhusteatret Kongsvinger - kino",
-                  "text": "A Kongsvingerben található Rådhusteatret színházként és moziként is működik, kulturális eseményeknek adva otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        11.999663,
-                        60.19149
-                  ]
-            },
-            {
-                  "name": "Kvinnemuseet",
-                  "text": "A kongsvingeri Kvinnemuseet a nők történelmének és jogainak szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        12.004494,
-                        60.198093
-                  ]
-            },
-            {
-                  "name": "SceneU",
-                  "text": "A SceneU egy művészeti központ Kongsvingerben, amely helyszínt biztosít különféle előadásoknak.",
-                  "category": "cultural",
-                  "coords": [
-                        12.00121,
-                        60.19018
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Kongsvinger festning",
-                  "text": "Kongsvinger festning este o fortăreață în formă de stea din secolul al XVII-lea, pe un deal deasupra Kongsvingerului.",
-                  "category": "fortress",
-                  "coords": [
-                        12.011818,
-                        60.199422
-                  ]
-            },
             {
                   "name": "Tråstad skanse",
                   "text": "Tråstad skanse este o fostă lucrare de apărare din Kongsvinger, având o însemnătate istorică deosebită.",
@@ -1124,63 +1007,9 @@ export const norwayEconomicV2: POI[] = [
                         12.023089,
                         60.193192
                   ]
-            },
-            {
-                  "name": "Aamodtgården",
-                  "text": "Aamodtgården este un muzeu local din Kongsvinger care oferă perspective asupra istoriei regionale.",
-                  "category": "museum",
-                  "coords": [
-                        12.010404,
-                        60.197832
-                  ]
-            },
-            {
-                  "name": "Kongsvinger museum",
-                  "text": "Muzeul Kongsvinger documentează moștenirea culturală și istoria regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        12.012037,
-                        60.197643
-                  ]
-            },
-            {
-                  "name": "Rådhusteatret Kongsvinger - kino",
-                  "text": "Rådhusteatret din Kongsvinger funcționează ca teatru și cinematograf pentru evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        11.999663,
-                        60.19149
-                  ]
-            },
-            {
-                  "name": "Kvinnemuseet",
-                  "text": "Kvinnemuseet din Kongsvinger este un muzeu dedicat istoriei și drepturilor femeilor.",
-                  "category": "museum",
-                  "coords": [
-                        12.004494,
-                        60.198093
-                  ]
-            },
-            {
-                  "name": "SceneU",
-                  "text": "SceneU este un centru de artă din Kongsvinger care oferă spațiu pentru diverse spectacole artistice.",
-                  "category": "cultural",
-                  "coords": [
-                        12.00121,
-                        60.19018
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Kongsvinger festning",
-                  "text": "Kongsvinger festning is a 17th-century star-shaped fortress on a hill above Kongsvinger.",
-                  "category": "fortress",
-                  "coords": [
-                        12.011818,
-                        60.199422
-                  ]
-            },
             {
                   "name": "Tråstad skanse",
                   "text": "Tråstad skanse is a former defensive fortification in Kongsvinger with historical significance.",
@@ -1188,51 +1017,6 @@ export const norwayEconomicV2: POI[] = [
                   "coords": [
                         12.023089,
                         60.193192
-                  ]
-            },
-            {
-                  "name": "Aamodtgården",
-                  "text": "Aamodtgården is a museum in Kongsvinger showcasing regional history and cultural heritage.",
-                  "category": "museum",
-                  "coords": [
-                        12.010404,
-                        60.197832
-                  ]
-            },
-            {
-                  "name": "Kongsvinger museum",
-                  "text": "Kongsvinger museum documents the cultural heritage and history of the local area.",
-                  "category": "museum",
-                  "coords": [
-                        12.012037,
-                        60.197643
-                  ]
-            },
-            {
-                  "name": "Rådhusteatret Kongsvinger - kino",
-                  "text": "Rådhusteatret Kongsvinger is a venue serving as both a theatre and a cinema for cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        11.999663,
-                        60.19149
-                  ]
-            },
-            {
-                  "name": "Kvinnemuseet",
-                  "text": "Kvinnemuseet in Kongsvinger is a museum dedicated to the history and roles of women in society.",
-                  "category": "museum",
-                  "coords": [
-                        12.004494,
-                        60.198093
-                  ]
-            },
-            {
-                  "name": "SceneU",
-                  "text": "SceneU is an arts centre in Kongsvinger providing space for various artistic performances.",
-                  "category": "cultural",
-                  "coords": [
-                        12.00121,
-                        60.19018
                   ]
             }
       ]
@@ -2319,15 +2103,6 @@ export const norwayEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Utsiktspunkt",
-                  "text": "Ein Aussichtspunkt in der Nähe des Industriekomplexes von Notodden mit weitem Panorama.",
-                  "category": "natural",
-                  "coords": [
-                        9.206065,
-                        59.582581
-                  ]
-            },
-            {
                   "name": "Eikeskardet",
                   "text": "Ein Aussichtspunkt bei Notodden, der einen Blick über die Stadt und die Landschaft bietet.",
                   "category": "natural",
@@ -2390,15 +2165,6 @@ export const norwayEconomicV2: POI[] = [
                   "coords": [
                         9.254312,
                         59.556101
-                  ]
-            },
-            {
-                  "name": "Utsiktspunkt",
-                  "text": "Kilátóhely a notoddeni ipari terület közelében, széles panorámával.",
-                  "category": "natural",
-                  "coords": [
-                        9.206065,
-                        59.582581
                   ]
             },
             {
@@ -2467,15 +2233,6 @@ export const norwayEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Utsiktspunkt",
-                  "text": "Un punct de observație lângă complexul industrial din Notodden, oferind o panoramă largă.",
-                  "category": "natural",
-                  "coords": [
-                        9.206065,
-                        59.582581
-                  ]
-            },
-            {
                   "name": "Eikeskardet",
                   "text": "Un punct de belvedere lângă Notodden, oferind vedere asupra orașului și a peisajului.",
                   "category": "natural",
@@ -2538,15 +2295,6 @@ export const norwayEconomicV2: POI[] = [
                   "coords": [
                         9.254312,
                         59.556101
-                  ]
-            },
-            {
-                  "name": "Utsiktspunkt",
-                  "text": "An observation point near the Notodden industrial cluster with a wide panorama.",
-                  "category": "natural",
-                  "coords": [
-                        9.206065,
-                        59.582581
                   ]
             },
             {

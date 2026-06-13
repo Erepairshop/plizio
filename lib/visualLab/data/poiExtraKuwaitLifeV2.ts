@@ -2642,15 +2642,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     id: "kidzania-kuwait-life-v2", "sights": {
       "de": [
             {
-                  "name": "Will",
-                  "text": "Eine interaktive Attraktion für Kinder im KidZania-Themenpark in Kuwait.",
-                  "category": "landmark",
-                  "coords": [
-                        47.909715,
-                        29.301031
-                  ]
-            },
-            {
                   "name": "Mosque",
                   "text": "Eine muslimische Gebetsstätte im Bereich von KidZania, die den Besuchern und Mitarbeitern dient.",
                   "category": "landmark",
@@ -2724,15 +2715,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Will",
-                  "text": "Interaktív gyerekattrakció a kuvaiti KidZania témaparkban.",
-                  "category": "landmark",
-                  "coords": [
-                        47.909715,
-                        29.301031
-                  ]
-            },
             {
                   "name": "Mosque",
                   "text": "Muszlim imaház a KidZania területén, amely a látogatókat és az alkalmazottakat szolgálja.",
@@ -2808,15 +2790,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Will",
-                  "text": "O atracție interactivă pentru copii în parcul tematic KidZania din Kuweit.",
-                  "category": "landmark",
-                  "coords": [
-                        47.909715,
-                        29.301031
-                  ]
-            },
-            {
                   "name": "Mosque",
                   "text": "Un lăcaș de rugăciune musulman în incinta KidZania, care deservește vizitatorii și personalul.",
                   "category": "landmark",
@@ -2890,15 +2863,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Will's Place",
-                  "text": "An interactive attraction for children located within the KidZania theme park in Kuwait.",
-                  "category": "landmark",
-                  "coords": [
-                        47.909715,
-                        29.301031
-                  ]
-            },
             {
                   "name": "Mosque",
                   "text": "A Muslim place of worship within the KidZania area, serving visitors and staff.",
@@ -5403,15 +5367,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     id: "magic-planet-kuwait-life-v2", "sights": {
       "de": [
             {
-                  "name": "Kuwait Zoo",
-                  "text": "Der Zoo von Kuwait ist ein weitläufiger zoologischer Park in Omariya, der über vielfältige Gehege und Ausstellungen zum Tierschutz verfügt.",
-                  "category": "recreational",
-                  "coords": [
-                        47.961079,
-                        29.300422
-                  ]
-            },
-            {
                   "name": "Abdallah Al-Zeer Mosque",
                   "text": "Die Abdallah-Al-Zeer-Moschee ist ein prominentes islamisches Gotteshaus, das den Gläubigen in der Region Magic Planet dient.",
                   "category": "landmark",
@@ -5458,15 +5413,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Kuwait Zoo",
-                  "text": "A Kuvaiti Állatkert egy kiterjedt zoológiai park Omarijában, amely változatos kifutókkal és állatvédelmi kiállításokkal rendelkezik.",
-                  "category": "recreational",
-                  "coords": [
-                        47.961079,
-                        29.300422
-                  ]
-            },
             {
                   "name": "Abdallah Al-Zeer Mosque",
                   "text": "Az Abdallah Al-Zeer-mecset egy kiemelkedő iszlám istentiszteleti központ, amely a hívőket szolgálja a Magic Planet környékén.",
@@ -5515,15 +5461,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Kuwait Zoo",
-                  "text": "Grădina Zoologică din Kuweit este un parc zoologic vast din Omariya, cu diverse țarcuri și expoziții de conservare a animalelor.",
-                  "category": "recreational",
-                  "coords": [
-                        47.961079,
-                        29.300422
-                  ]
-            },
-            {
                   "name": "Abdallah Al-Zeer Mosque",
                   "text": "Moscheea Abdallah Al-Zeer este un centru de cult islamic proeminent care deservește credincioșii din zona Magic Planet.",
                   "category": "landmark",
@@ -5570,15 +5507,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Kuwait Zoo",
-                  "text": "Kuwait Zoo is an expansive zoological park in Omariya, featuring diverse enclosures and animal conservation exhibits.",
-                  "category": "recreational",
-                  "coords": [
-                        47.961079,
-                        29.300422
-                  ]
-            },
             {
                   "name": "Abdallah Al-Zeer Mosque",
                   "text": "Abdallah Al-Zeer Mosque is a prominent Islamic worship center serving the faithful in the Magic Planet area.",
@@ -7358,15 +7286,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
     id: "fahaheel-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Flow House Kuwait",
-                  "text": "Ein Wasserpark in Fahaheel mit Wellenbecken und speziellen Bereichen für das Flowboarding.",
-                  "category": "recreational",
-                  "coords": [
-                        48.132096,
-                        29.132614
-                  ]
-            },
-            {
                   "name": "Mubarak Saad Al Jeri",
                   "text": "Eine lokale Moschee mit einem schlanken Minarett inmitten der Wohnblocks von Fahaheel.",
                   "category": "landmark",
@@ -7719,15 +7638,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Flow House Kuwait",
-                  "text": "Fahaheeli vízipark hullámmedencékkel és speciális flowboarding pályákkal.",
-                  "category": "recreational",
-                  "coords": [
-                        48.132096,
-                        29.132614
-                  ]
-            },
             {
                   "name": "Mubarak Saad Al Jeri",
                   "text": "Helyi mecset karcsú minarettel Fahaheel lakótömbjeinek közepén.",
@@ -8082,15 +7992,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Flow House Kuwait",
-                  "text": "Un parc acvatic în Fahaheel, dotat cu bazine cu valuri și zone speciale pentru flowboarding.",
-                  "category": "recreational",
-                  "coords": [
-                        48.132096,
-                        29.132614
-                  ]
-            },
-            {
                   "name": "Mubarak Saad Al Jeri",
                   "text": "O moschee locală cu un minaret zvelt, situată între blocurile de locuințe din Fahaheel.",
                   "category": "landmark",
@@ -8443,15 +8344,6 @@ export const poiExtraKuwaitLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Flow House Kuwait",
-                  "text": "A water park in Fahaheel featuring wave pools and dedicated areas for flowboarding.",
-                  "category": "recreational",
-                  "coords": [
-                        48.132096,
-                        29.132614
-                  ]
-            },
             {
                   "name": "Mubarak Saad Al Jeri",
                   "text": "A local mosque with a slender minaret set amidst the residential blocks of Fahaheel.",

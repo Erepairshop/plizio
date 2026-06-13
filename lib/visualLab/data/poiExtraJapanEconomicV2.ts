@@ -4979,24 +4979,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "ZENRIN Museum",
-                  "text": "Das ZENRIN-Museum ist eine einzigartige kulturelle Einrichtung, die sich der Geschichte der Kartografie und des Kartendesigns widmet.",
-                  "category": "museum",
-                  "coords": [
-                        130.875985,
-                        33.885895
-                  ]
-            },
-            {
-                  "name": "Kita-Kyushu Manga Museum",
-                  "text": "Das Kita-Kyushu Manga Museum feiert die japanische Comic-Kunst mit umfangreichen Lesezonen und Ausstellungen über lokale Künstler.",
-                  "category": "museum",
-                  "coords": [
-                        130.884731,
-                        33.887543
-                  ]
-            },
-            {
                   "name": "Wakato Bridge",
                   "text": "Die Wakato-Brücke ist eine markante rote Hängebrücke, die das Wasser der Dokai-Bucht überspannt, um die Bezirke Wakamatsu und Tobata zu verbinden.",
                   "category": "landmark",
@@ -5030,15 +5012,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
                   "coords": [
                         130.805314,
                         33.869832
-                  ]
-            },
-            {
-                  "name": "Kokura Castle",
-                  "text": "Die Burg Kokura ist eine rekonstruierte traditionelle Festung, die sich durch ihre einzigartige Architektur auszeichnet, bei der die fünfte Etage größer als die vierte ist.",
-                  "category": "castle",
-                  "coords": [
-                        130.874205,
-                        33.884485
                   ]
             },
             {
@@ -5125,24 +5098,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "ZENRIN Museum",
-                  "text": "A ZENRIN Múzeum egy egyedülálló kulturális intézmény, amely a térképészet és a kartográfiai tervezés történetének szenteli magát.",
-                  "category": "museum",
-                  "coords": [
-                        130.875985,
-                        33.885895
-                  ]
-            },
-            {
-                  "name": "Kita-Kyushu Manga Museum",
-                  "text": "A Kita-Kyushu Manga Múzeum a japán képregényművészetet ünnepli kiterjedt olvasóövezetekkel és helyi művészeket bemutató kiállításokkal.",
-                  "category": "museum",
-                  "coords": [
-                        130.884731,
-                        33.887543
-                  ]
-            },
-            {
                   "name": "Wakato Bridge",
                   "text": "A Wakato híd egy feltűnő piros függőhíd, amely a Dokai-öböl vizei felett ível át, összekötve Wakamatsu és Tobata kerületeket.",
                   "category": "landmark",
@@ -5176,15 +5131,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
                   "coords": [
                         130.805314,
                         33.869832
-                  ]
-            },
-            {
-                  "name": "Kokura Castle",
-                  "text": "A Kokura kastély egy újjáépített hagyományos erőd, amely figyelemre méltó egyedi építészetéről, ahol az ötödik emelet nagyobb, mint a negyedik.",
-                  "category": "castle",
-                  "coords": [
-                        130.874205,
-                        33.884485
                   ]
             },
             {
@@ -5271,24 +5217,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "ZENRIN Museum",
-                  "text": "Muzeul ZENRIN este o instituție culturală unică dedicată istoriei cartografiei și designului hărților.",
-                  "category": "museum",
-                  "coords": [
-                        130.875985,
-                        33.885895
-                  ]
-            },
-            {
-                  "name": "Kita-Kyushu Manga Museum",
-                  "text": "Muzeul Manga din Kita-Kyushu celebrează arta benzilor desenate japoneze prin zone extinse de lectură și expoziții dedicate artiștilor locali.",
-                  "category": "museum",
-                  "coords": [
-                        130.884731,
-                        33.887543
-                  ]
-            },
-            {
                   "name": "Wakato Bridge",
                   "text": "Podul Wakato este un pod suspendat roșu impresionant, care traversează apele Golfului Dokai pentru a conecta districtele Wakamatsu și Tobata.",
                   "category": "landmark",
@@ -5322,15 +5250,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
                   "coords": [
                         130.805314,
                         33.869832
-                  ]
-            },
-            {
-                  "name": "Kokura Castle",
-                  "text": "Castelul Kokura este o fortăreață tradițională reconstruită, notabilă pentru arhitectura sa unică, în care etajul cinci este mai mare decât al patrulea.",
-                  "category": "castle",
-                  "coords": [
-                        130.874205,
-                        33.884485
                   ]
             },
             {
@@ -5417,24 +5336,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "ZENRIN Museum",
-                  "text": "The ZENRIN Museum is a unique cultural institution dedicated to the history of mapmaking and cartographic design.",
-                  "category": "museum",
-                  "coords": [
-                        130.875985,
-                        33.885895
-                  ]
-            },
-            {
-                  "name": "Kita-Kyushu Manga Museum",
-                  "text": "The Kita-Kyushu Manga Museum celebrates Japanese comic art with extensive reading zones and exhibitions on local artists.",
-                  "category": "museum",
-                  "coords": [
-                        130.884731,
-                        33.887543
-                  ]
-            },
-            {
                   "name": "Wakato Bridge",
                   "text": "The Wakato Bridge is a striking red suspension bridge that spans the waters of Dokai Bay to connect the wards of Wakamatsu and Tobata.",
                   "category": "landmark",
@@ -5468,24 +5369,6 @@ export const poiExtraJapanEconomicV2: POI[] = [
                   "coords": [
                         130.805314,
                         33.869832
-                  ]
-            },
-            {
-                  "name": "Kokura Castle",
-                  "text": "Kokura Castle is a reconstructed traditional fortress, notable for its unique architecture where the fifth floor is larger than the fourth.",
-                  "category": "castle",
-                  "coords": [
-                        130.874205,
-                        33.884485
-                  ]
-            },
-            {
-                  "name": "TOTO Museum",
-                  "text": "The TOTO Museum exhibits the evolution of plumbing and sanitary ware, showcasing historic ceramic fixtures and modern bathroom innovations.",
-                  "category": "museum",
-                  "coords": [
-                        130.872061,
-                        33.87238
                   ]
             },
             {

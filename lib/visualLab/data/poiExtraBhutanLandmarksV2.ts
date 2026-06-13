@@ -1392,15 +1392,6 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "chele-la-pass-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "His Majesty the 5th Kings Portrait",
-                  "text": "Ein Gedenkmonument zu Ehren des aktuellen Königs von Bhutan, gelegen nahe dem hochgelegenen Chele-La-Pass.",
-                  "category": "historical",
-                  "coords": [
-                        89.291661,
-                        27.366747
-                  ]
-            },
-            {
                   "name": "Puduna Chorten",
                   "text": "Ein buddhistischer Stupa, der Reisenden in der Nähe des Gebirgspasses spirituellen Schutz bietet.",
                   "category": "religious",
@@ -1645,15 +1636,6 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "His Majesty the 5th Kings Portrait",
-                  "text": "Bhután jelenlegi uralkodójának tiszteletére emelt emlékmű a magaslati Chele La-hágó közelében.",
-                  "category": "historical",
-                  "coords": [
-                        89.291661,
-                        27.366747
-                  ]
-            },
             {
                   "name": "Puduna Chorten",
                   "text": "Buddhista sztúpa a hágó közelében, amely spirituellen védelmet nyújt az utazóknak.",
@@ -1900,15 +1882,6 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "His Majesty the 5th Kings Portrait",
-                  "text": "Un monument comemorativ în onoarea actualului monarh al Bhutanului, situat lângă trecătoarea de mare altitudine Chele La.",
-                  "category": "historical",
-                  "coords": [
-                        89.291661,
-                        27.366747
-                  ]
-            },
-            {
                   "name": "Puduna Chorten",
                   "text": "O stupă budistă în zona Puduna, oferind protecție spirituală călătorilor din apropierea trecătorii montane.",
                   "category": "religious",
@@ -2153,15 +2126,6 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "His Majesty the 5th Kings Portrait",
-                  "text": "A commemorative monument honoring the current monarch of Bhutan, located near the high-altitude Chele La Pass.",
-                  "category": "historical",
-                  "coords": [
-                        89.291661,
-                        27.366747
-                  ]
-            },
             {
                   "name": "Puduna Chorten",
                   "text": "A Buddhist xstúpa in the Puduna area, offering spiritual protection to travelers near the mountain pass.",
@@ -3570,15 +3534,6 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     id: "zangto-pelri-lhakhang-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Jaigaon View Point",
-                  "text": "Ein hoher Aussichtspunkt über der geschäftigen Grenzstadt Jaigaon und der umliegenden Ebene.",
-                  "category": "natural",
-                  "coords": [
-                        89.385452,
-                        26.850198
-                  ]
-            },
-            {
                   "name": "Rinchending Gonpa",
                   "text": "Ein buddhistisches Kloster auf einem Hügel über Phuentsholing, das den Eingang nach Bhutan bewacht.",
                   "category": "landmark",
@@ -3598,15 +3553,6 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Jaigaon View Point",
-                  "text": "Magaslati pont, ahonnan kilátás nyílik Jaigaon nyüzsgő határvárosára és a síkságra.",
-                  "category": "natural",
-                  "coords": [
-                        89.385452,
-                        26.850198
-                  ]
-            },
             {
                   "name": "Rinchending Gonpa",
                   "text": "Buddhista kolostor egy dombtetőn Phuentsholing felett, amely Bhután bejáratát őrzi.",
@@ -3628,15 +3574,6 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Jaigaon View Point",
-                  "text": "Un punct înalt ce oferă vederi asupra orașului de frontieră Jaigaon și a câmpiei.",
-                  "category": "natural",
-                  "coords": [
-                        89.385452,
-                        26.850198
-                  ]
-            },
-            {
                   "name": "Rinchending Gonpa",
                   "text": "O mănăstire budistă situată pe un deal deasupra orașului Phuentsholing, păzind intrarea în Bhutan.",
                   "category": "landmark",
@@ -3656,15 +3593,6 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Jaigaon View Point",
-                  "text": "A high point offering views of the bustling border town of Jaigaon and the plains.",
-                  "category": "natural",
-                  "coords": [
-                        89.385452,
-                        26.850198
-                  ]
-            },
             {
                   "name": "Rinchending Gonpa",
                   "text": "A Buddhist monastery located on a hilltop above Phuentsholing, guarding the entrance to Bhutan.",

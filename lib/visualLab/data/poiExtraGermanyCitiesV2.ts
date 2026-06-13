@@ -191,15 +191,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Speicherbecken Pumpspeicherwerk Glems",
-                  "text": "Das Speicherbecken Pumpspeicherwerk Glems in Reutlingen ist ein Gewässer, das eine ruhige Umgebung für Spaziergänge bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.299882,
-                        48.494582
-                  ]
-            },
-            {
                   "name": "Ententeich",
                   "text": "Der Ententeich in Reutlingen ist ein kleiner See, der sich ideal für eine kurze Pause oder einen Spaziergang eignet.",
                   "category": "natural",
@@ -224,33 +215,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         9.178539,
                         48.425505
-                  ]
-            },
-            {
-                  "name": "Schlammstapelbehälter",
-                  "text": "Der Schlammstapelbehälter in Reutlingen ist ein Gewässer, das das Landschaftsbild der Region ergänzt.",
-                  "category": "natural",
-                  "coords": [
-                        9.212543,
-                        48.552273
-                  ]
-            },
-            {
-                  "name": "Nachklärbecken",
-                  "text": "Das Nachklärbecken in Reutlingen ist eine Wasserfläche, die sich in die lokale Umgebung einfügt.",
-                  "category": "natural",
-                  "coords": [
-                        9.215552,
-                        48.552507
-                  ]
-            },
-            {
-                  "name": "Filtratpufferbehälter",
-                  "text": "Der Filtratpufferbehälter in Reutlingen ist ein technisches Gewässer in der städtischen Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        9.213781,
-                        48.552566
                   ]
             },
             {
@@ -443,24 +407,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baumannsche Muhle / Trachtenmuseum",
-                  "text": "Die historische Mühle beherbergt heute eine bedeutende Sammlung regionaler Trachten.",
-                  "category": "museum",
-                  "coords": [
-                        9.224071,
-                        48.465646
-                  ]
-            },
-            {
-                  "name": "Naturtheater Reutlingen",
-                  "text": "Eine Freilichtbühne in Reutlingen, die regelmäßig Theateraufführungen unter freiem Himmel anbietet.",
-                  "category": "cultural",
-                  "coords": [
-                        9.187028,
-                        48.470471
-                  ]
-            },
-            {
                   "name": "Heimatmuseum Eningen",
                   "text": "Das Museum vermittelt Einblicke in die dörfliche Geschichte und Alltagskultur von Eningen.",
                   "category": "museum",
@@ -561,15 +507,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Speicherbecken Pumpspeicherwerk Glems",
-                  "text": "A Reutlingenben található Speicherbecken Pumpspeicherwerk Glems egy víztározó, amely nyugodt környezetet biztosít a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        9.299882,
-                        48.494582
-                  ]
-            },
-            {
                   "name": "Ententeich",
                   "text": "A Reutlingen városában fekvő Ententeich egy kis tó, amely ideális egy rövid sétához vagy pihenéshez.",
                   "category": "natural",
@@ -594,33 +531,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         9.178539,
                         48.425505
-                  ]
-            },
-            {
-                  "name": "Schlammstapelbehälter",
-                  "text": "A Reutlingenben található Schlammstapelbehälter egy vízfelület, amely kiegészíti a környék tájképét.",
-                  "category": "natural",
-                  "coords": [
-                        9.212543,
-                        48.552273
-                  ]
-            },
-            {
-                  "name": "Nachklärbecken",
-                  "text": "A Reutlingen területén elhelyezkedő Nachklärbecken egy vízfelület, amely illeszkedik a helyi környezetbe.",
-                  "category": "natural",
-                  "coords": [
-                        9.215552,
-                        48.552507
-                  ]
-            },
-            {
-                  "name": "Filtratpufferbehälter",
-                  "text": "A Reutlingenben található Filtratpufferbehälter egy technikai jellegű vízfelület a városi környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        9.213781,
-                        48.552566
                   ]
             },
             {
@@ -813,24 +723,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baumannsche Muhle / Trachtenmuseum",
-                  "text": "A történelmi malom ma a regionális népviseletek jelentős gyűjteményének ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        9.224071,
-                        48.465646
-                  ]
-            },
-            {
-                  "name": "Naturtheater Reutlingen",
-                  "text": "Szabadtéri színpad Reutlingenben, amely rendszeresen kínál színházi előadásokat a szabad ég alatt.",
-                  "category": "cultural",
-                  "coords": [
-                        9.187028,
-                        48.470471
-                  ]
-            },
-            {
                   "name": "Heimatmuseum Eningen",
                   "text": "A múzeum betekintést nyújt Eningen falusi történetébe és mindennapi kultúrájába.",
                   "category": "museum",
@@ -931,15 +823,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Speicherbecken Pumpspeicherwerk Glems",
-                  "text": "Speicherbecken Pumpspeicherwerk Glems din Reutlingen este un bazin ce oferă un cadru liniștit pentru plimbări în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.299882,
-                        48.494582
-                  ]
-            },
-            {
                   "name": "Ententeich",
                   "text": "Ententeich din Reutlingen este un iaz mic, ideal pentru o scurtă pauză sau o plimbare relaxantă.",
                   "category": "natural",
@@ -964,33 +847,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         9.178539,
                         48.425505
-                  ]
-            },
-            {
-                  "name": "Schlammstapelbehälter",
-                  "text": "Schlammstapelbehälter din Reutlingen este un bazin de apă ce completează peisajul local.",
-                  "category": "natural",
-                  "coords": [
-                        9.212543,
-                        48.552273
-                  ]
-            },
-            {
-                  "name": "Nachklärbecken",
-                  "text": "Nachklärbecken din Reutlingen este o suprafață de apă integrată în mediul local.",
-                  "category": "natural",
-                  "coords": [
-                        9.215552,
-                        48.552507
-                  ]
-            },
-            {
-                  "name": "Filtratpufferbehälter",
-                  "text": "Filtratpufferbehälter din Reutlingen este un bazin tehnic situat în mediul urban.",
-                  "category": "natural",
-                  "coords": [
-                        9.213781,
-                        48.552566
                   ]
             },
             {
@@ -1183,24 +1039,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baumannsche Muhle / Trachtenmuseum",
-                  "text": "Moara istorică găzduiește astăzi o colecție importantă de costume populare regionale.",
-                  "category": "museum",
-                  "coords": [
-                        9.224071,
-                        48.465646
-                  ]
-            },
-            {
-                  "name": "Naturtheater Reutlingen",
-                  "text": "O scenă în aer liber în Reutlingen, care oferă regulat spectacole de teatru sub cerul liber.",
-                  "category": "cultural",
-                  "coords": [
-                        9.187028,
-                        48.470471
-                  ]
-            },
-            {
                   "name": "Heimatmuseum Eningen",
                   "text": "Muzeul oferă perspective asupra istoriei rurale și culturii cotidiene din Eningen.",
                   "category": "museum",
@@ -1301,15 +1139,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Speicherbecken Pumpspeicherwerk Glems",
-                  "text": "Speicherbecken Pumpspeicherwerk Glems in Reutlingen is a body of water providing a quiet setting for walks.",
-                  "category": "natural",
-                  "coords": [
-                        9.299882,
-                        48.494582
-                  ]
-            },
-            {
                   "name": "Ententeich",
                   "text": "Ententeich in Reutlingen is a small pond ideal for a short break or a peaceful walk.",
                   "category": "natural",
@@ -1334,33 +1163,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         9.178539,
                         48.425505
-                  ]
-            },
-            {
-                  "name": "Schlammstapelbehälter",
-                  "text": "Schlammstapelbehälter in Reutlingen is a water basin that complements the local landscape.",
-                  "category": "natural",
-                  "coords": [
-                        9.212543,
-                        48.552273
-                  ]
-            },
-            {
-                  "name": "Nachklärbecken",
-                  "text": "Nachklärbecken in Reutlingen is a water area integrated into the local environment.",
-                  "category": "natural",
-                  "coords": [
-                        9.215552,
-                        48.552507
-                  ]
-            },
-            {
-                  "name": "Filtratpufferbehälter",
-                  "text": "Filtratpufferbehälter in Reutlingen is a technical water basin within the urban area.",
-                  "category": "natural",
-                  "coords": [
-                        9.213781,
-                        48.552566
                   ]
             },
             {
@@ -1553,24 +1355,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baumannsche Muhle / Trachtenmuseum",
-                  "text": "The historical mill now houses an important collection of regional traditional costumes.",
-                  "category": "museum",
-                  "coords": [
-                        9.224071,
-                        48.465646
-                  ]
-            },
-            {
-                  "name": "Naturtheater Reutlingen",
-                  "text": "An open-air stage in Reutlingen that regularly offers theatrical performances under the sky.",
-                  "category": "cultural",
-                  "coords": [
-                        9.187028,
-                        48.470471
-                  ]
-            },
-            {
                   "name": "Heimatmuseum Eningen",
                   "text": "The museum provides insights into the village history and everyday culture of Eningen.",
                   "category": "museum",
@@ -1601,24 +1385,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         12.206817,
                         50.534769
-                  ]
-            },
-            {
-                  "name": "Vorsperre Thossfell",
-                  "text": "Die Vorsperre Thoßfell bei Plauen bietet eine ruhige Atmosphäre in der Nähe der Talsperre Pöhl.",
-                  "category": "natural",
-                  "coords": [
-                        12.243979,
-                        50.519404
-                  ]
-            },
-            {
-                  "name": "Vorsperre Neuensalz",
-                  "text": "Die Vorsperre Neuensalz bei Plauen ist ein landschaftlich schön gelegenes Gewässer im Vogtland.",
-                  "category": "natural",
-                  "coords": [
-                        12.225879,
-                        50.511899
                   ]
             },
             {
@@ -1840,24 +1606,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vorsperre Thossfell",
-                  "text": "A Plauen közeli Vorsperre Thoßfell nyugodt légkört kínál a Talsperre Pöhl szomszédságában.",
-                  "category": "natural",
-                  "coords": [
-                        12.243979,
-                        50.519404
-                  ]
-            },
-            {
-                  "name": "Vorsperre Neuensalz",
-                  "text": "A Plauen melletti Vorsperre Neuensalz egy szép fekvésű vízfelület a Vogtland vidéken.",
-                  "category": "natural",
-                  "coords": [
-                        12.225879,
-                        50.511899
-                  ]
-            },
-            {
                   "name": "Hammerteich",
                   "text": "A plaueni Hammerteich egy helyi tó, amely alkalmas egy kellemes sétához.",
                   "category": "natural",
@@ -2076,24 +1824,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vorsperre Thossfell",
-                  "text": "Vorsperre Thoßfell de lângă Plauen oferă o atmosferă liniștită în apropierea barajului Talsperre Pöhl.",
-                  "category": "natural",
-                  "coords": [
-                        12.243979,
-                        50.519404
-                  ]
-            },
-            {
-                  "name": "Vorsperre Neuensalz",
-                  "text": "Vorsperre Neuensalz de lângă Plauen este un lac situat într-un peisaj frumos în Vogtland.",
-                  "category": "natural",
-                  "coords": [
-                        12.225879,
-                        50.511899
-                  ]
-            },
-            {
                   "name": "Hammerteich",
                   "text": "Hammerteich din Plauen este un lac local, potrivit pentru o plimbare.",
                   "category": "natural",
@@ -2309,24 +2039,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         12.206817,
                         50.534769
-                  ]
-            },
-            {
-                  "name": "Vorsperre Thossfell",
-                  "text": "The Vorsperre Thoßfell near Plauen offers a quiet atmosphere near the Talsperre Pöhl.",
-                  "category": "natural",
-                  "coords": [
-                        12.243979,
-                        50.519404
-                  ]
-            },
-            {
-                  "name": "Vorsperre Neuensalz",
-                  "text": "The Vorsperre Neuensalz near Plauen is a beautifully situated body of water in the Vogtland region.",
-                  "category": "natural",
-                  "coords": [
-                        12.225879,
-                        50.511899
                   ]
             },
             {
@@ -4586,24 +4298,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Olga 2",
-                  "text": "Der Spielplatz Olga 2 in Bottrop bietet vielfältige Spielmöglichkeiten in einer freundlichen Umgebung.",
-                  "category": "family",
-                  "coords": [
-                        6.872039,
-                        51.501979
-                  ]
-            },
-            {
-                  "name": "Erfahrungsfeld Sehen und Höhren",
-                  "text": "Erfahrungsfeld Sehen und Hören in Bottrop, ein interaktiver Sinnesgarten mit Stationen zu Sehen und Hören.",
-                  "category": "family",
-                  "coords": [
-                        6.875715,
-                        51.496661
-                  ]
-            },
-            {
                   "name": "Freibad Dellwig",
                   "text": "Der Spielplatz am Freibad Dellwig in Bottrop lädt Kinder zum Spielen an der frischen Luft ein.",
                   "category": "family",
@@ -4637,33 +4331,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.895098,
                         51.520842
-                  ]
-            },
-            {
-                  "name": "Aquapark Oberhausen",
-                  "text": "Der Aquapark bietet zahlreiche Rutschen und Wasserbecken für einen erlebnisreichen Tag.",
-                  "category": "family",
-                  "coords": [
-                        6.885476,
-                        51.493822
-                  ]
-            },
-            {
-                  "name": "LEGOLAND Discovery Centre",
-                  "text": "Das LEGOLAND Discovery Centre bietet kreativen Spielspaß rund um die bunten Klemmbausteine.",
-                  "category": "family",
-                  "coords": [
-                        6.879247,
-                        51.493297
-                  ]
-            },
-            {
-                  "name": "Stenkhoffbad",
-                  "text": "Das Stenkhoffbad in Bottrop bietet Familien eine angenehme Umgebung für sommerliches Baden.",
-                  "category": "family",
-                  "coords": [
-                        6.936922,
-                        51.556279
                   ]
             }
       ],
@@ -4856,24 +4523,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Olga 2",
-                  "text": "A bottropi Olga 2 játszótér sokféle játéklehetőséget kínál barátságos környezetben.",
-                  "category": "family",
-                  "coords": [
-                        6.872039,
-                        51.501979
-                  ]
-            },
-            {
-                  "name": "Erfahrungsfeld Sehen und Höhren",
-                  "text": "Látás és Hallás Élménypark Bottropban, interaktív érzéki park a látás és hallás témáival.",
-                  "category": "family",
-                  "coords": [
-                        6.875715,
-                        51.496661
-                  ]
-            },
-            {
                   "name": "Freibad Dellwig",
                   "text": "A bottropi Dellwig strand melletti játszótér friss levegőn való játékra hívja a gyerekeket.",
                   "category": "family",
@@ -4907,33 +4556,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.895098,
                         51.520842
-                  ]
-            },
-            {
-                  "name": "Aquapark Oberhausen",
-                  "text": "Az Aquapark számos csúszdát és medencét kínál egy élménydús naphoz.",
-                  "category": "family",
-                  "coords": [
-                        6.885476,
-                        51.493822
-                  ]
-            },
-            {
-                  "name": "LEGOLAND Discovery Centre",
-                  "text": "A LEGOLAND Discovery Centre kreatív játékélményt kínál a színes építőkockák köré építve.",
-                  "category": "family",
-                  "coords": [
-                        6.879247,
-                        51.493297
-                  ]
-            },
-            {
-                  "name": "Stenkhoffbad",
-                  "text": "A bottropi Stenkhoffbad kellemes környezetet kínál a családoknak a nyári fürdőzéshez.",
-                  "category": "family",
-                  "coords": [
-                        6.936922,
-                        51.556279
                   ]
             }
       ],
@@ -5126,24 +4748,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Olga 2",
-                  "text": "Locul de joacă Olga 2 din Bottrop oferă diverse facilități de joacă într-un mediu prietenos.",
-                  "category": "family",
-                  "coords": [
-                        6.872039,
-                        51.501979
-                  ]
-            },
-            {
-                  "name": "Erfahrungsfeld Sehen und Höhren",
-                  "text": "Parcul senzorial Văz și Auz în Bottrop, un parc interactiv cu exponate despre vedere și auz.",
-                  "category": "family",
-                  "coords": [
-                        6.875715,
-                        51.496661
-                  ]
-            },
-            {
                   "name": "Freibad Dellwig",
                   "text": "Locul de joacă de la ștrandul Dellwig din Bottrop îi invită pe copii la joacă în aer liber.",
                   "category": "family",
@@ -5177,33 +4781,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.895098,
                         51.520842
-                  ]
-            },
-            {
-                  "name": "Aquapark Oberhausen",
-                  "text": "Aquapark oferă numeroase tobogane și bazine pentru o zi plină de peripeții.",
-                  "category": "family",
-                  "coords": [
-                        6.885476,
-                        51.493822
-                  ]
-            },
-            {
-                  "name": "LEGOLAND Discovery Centre",
-                  "text": "LEGOLAND Discovery Centre oferă distracție creativă în jurul celebrelor piese de construit colorate.",
-                  "category": "family",
-                  "coords": [
-                        6.879247,
-                        51.493297
-                  ]
-            },
-            {
-                  "name": "Stenkhoffbad",
-                  "text": "Stenkhoffbad din Bottrop oferă familiilor un mediu plăcut pentru scăldatul de vară.",
-                  "category": "family",
-                  "coords": [
-                        6.936922,
-                        51.556279
                   ]
             }
       ],
@@ -5396,24 +4973,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Olga 2",
-                  "text": "The Olga 2 playground in Bottrop offers various play options in a friendly environment.",
-                  "category": "family",
-                  "coords": [
-                        6.872039,
-                        51.501979
-                  ]
-            },
-            {
-                  "name": "Erfahrungsfeld Sehen und Höhren",
-                  "text": "Erfahrungsfeld Sehen und Hören in Bottrop, an interactive sensory park with exhibits on vision and hearing.",
-                  "category": "family",
-                  "coords": [
-                        6.875715,
-                        51.496661
-                  ]
-            },
-            {
                   "name": "Freibad Dellwig",
                   "text": "The playground at the Dellwig outdoor pool in Bottrop invites children to play in the fresh air.",
                   "category": "family",
@@ -5447,33 +5006,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.895098,
                         51.520842
-                  ]
-            },
-            {
-                  "name": "Aquapark Oberhausen",
-                  "text": "The Aquapark offers numerous slides and pools for an eventful day.",
-                  "category": "family",
-                  "coords": [
-                        6.885476,
-                        51.493822
-                  ]
-            },
-            {
-                  "name": "LEGOLAND Discovery Centre",
-                  "text": "The LEGOLAND Discovery Centre offers creative play fun centered around the colorful bricks.",
-                  "category": "family",
-                  "coords": [
-                        6.879247,
-                        51.493297
-                  ]
-            },
-            {
-                  "name": "Stenkhoffbad",
-                  "text": "The Stenkhoffbad in Bottrop offers families a pleasant environment for summer bathing.",
-                  "category": "family",
-                  "coords": [
-                        6.936922,
-                        51.556279
                   ]
             }
       ]
@@ -7089,33 +6621,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bannweide",
-                  "text": "Die Bannweide in Speyer ist ein See, der eine ruhige Atmosphäre für Entspannung in der Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        8.490292,
-                        49.369495
-                  ]
-            },
-            {
-                  "name": "Hohwiesensee",
-                  "text": "Der Hohwiesensee in Speyer ist ein See, der zu erholsamen Momenten am Wasser einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        8.513645,
-                        49.35882
-                  ]
-            },
-            {
-                  "name": "Anglersee",
-                  "text": "Der Anglersee in Speyer ist ein See, der für seine ruhige Lage und die natürliche Umgebung bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        8.521926,
-                        49.361494
-                  ]
-            },
-            {
                   "name": "Gänsedrecksee",
                   "text": "Der Gänsedrecksee in Speyer ist ein See, der eine friedliche Kulisse für Spaziergänge in der Natur bietet.",
                   "category": "natural",
@@ -7179,33 +6684,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Großer Eichelgartensee",
-                  "text": "Großer Eichelgartensee bei Speyer, ein großer See, beliebt zum Angeln und Spazierengehen.",
-                  "category": "natural",
-                  "coords": [
-                        8.51942,
-                        49.280562
-                  ]
-            },
-            {
-                  "name": "Neptunsee",
-                  "text": "Der Neptunsee in Speyer ist ein See, der eine friedliche Umgebung für Freizeitaktivitäten im Freien bietet.",
-                  "category": "natural",
-                  "coords": [
-                        8.513914,
-                        49.272946
-                  ]
-            },
-            {
-                  "name": "Kleiner Eichelgartensee",
-                  "text": "Der Kleiner Eichelgartensee in Speyer ist ein See, der Ruhe und Entspannung am Wasser ermöglicht.",
-                  "category": "natural",
-                  "coords": [
-                        8.522087,
-                        49.278864
-                  ]
-            },
-            {
                   "name": "Trompeterbau",
                   "text": "Der Trompeterbau in Speyer ist ein See, der Besuchern eine naturnahe Auszeit ermöglicht.",
                   "category": "natural",
@@ -7221,15 +6699,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.45675,
                         49.354474
-                  ]
-            },
-            {
-                  "name": "Kleiner Rheinhäuser See",
-                  "text": "Der Kleiner Rheinhäuser See in Speyer ist ein See, der eine ruhige Kulisse für Freizeitaktivitäten bietet.",
-                  "category": "natural",
-                  "coords": [
-                        8.504968,
-                        49.27814
                   ]
             },
             {
@@ -7251,33 +6720,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Großer Rheinhäuser See",
-                  "text": "Der Großer Rheinhäuser See in Speyer ist ein See, der eine weitläufige Wasserfläche in der Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        8.509139,
-                        49.274799
-                  ]
-            },
-            {
-                  "name": "Erlichsee (östlicher Teil)",
-                  "text": "Der Erlichsee (östlicher Teil) in Speyer ist ein See, der Teil eines größeren Erholungsgebiets ist.",
-                  "category": "natural",
-                  "coords": [
-                        8.50618,
-                        49.265134
-                  ]
-            },
-            {
-                  "name": "Kleiner Weiher",
-                  "text": "Der Kleiner Weiher in Speyer ist ein See, der eine friedliche Umgebung für kurze Pausen im Grünen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        8.385439,
-                        49.261228
-                  ]
-            },
-            {
                   "name": "Baggersee Angelwald",
                   "text": "Der Baggersee Angelwald in Speyer ist ein See, der Möglichkeiten für ruhige Beobachtungen in der Natur bietet.",
                   "category": "natural",
@@ -7293,24 +6735,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.454034,
                         49.357817
-                  ]
-            },
-            {
-                  "name": "Erlichsee",
-                  "text": "Der Erlichsee in Speyer ist ein See, der Besuchern Raum für Aktivitäten im Freien und Naturnähe bietet.",
-                  "category": "natural",
-                  "coords": [
-                        8.501709,
-                        49.269531
-                  ]
-            },
-            {
-                  "name": "Kollersee",
-                  "text": "Der Kollersee in Speyer ist ein See, der eine angenehme Umgebung für Freizeit am Wasser bietet.",
-                  "category": "natural",
-                  "coords": [
-                        8.472096,
-                        49.380119
                   ]
             },
             {
@@ -7469,33 +6893,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bannweide",
-                  "text": "A Speyerben található Bannweide egy tó, amely nyugodt légkört biztosít a természetben való pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        8.490292,
-                        49.369495
-                  ]
-            },
-            {
-                  "name": "Hohwiesensee",
-                  "text": "A Speyer városában fekvő Hohwiesensee egy tó, amely vízparti kikapcsolódásra hívja a látogatókat.",
-                  "category": "natural",
-                  "coords": [
-                        8.513645,
-                        49.35882
-                  ]
-            },
-            {
-                  "name": "Anglersee",
-                  "text": "A Speyerben található Anglersee csendes elhelyezkedéséről és természetes környezetéről ismert tó.",
-                  "category": "natural",
-                  "coords": [
-                        8.521926,
-                        49.361494
-                  ]
-            },
-            {
                   "name": "Gänsedrecksee",
                   "text": "A Speyerben lévő Gänsedrecksee egy tó, amely békés környezetet nyújt a természetközeli sétákhoz.",
                   "category": "natural",
@@ -7559,33 +6956,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Großer Eichelgartensee",
-                  "text": "Großer Eichelgartensee Speyer közelében, egy nagy tó, népszerű horgászathoz és sétához.",
-                  "category": "natural",
-                  "coords": [
-                        8.51942,
-                        49.280562
-                  ]
-            },
-            {
-                  "name": "Neptunsee",
-                  "text": "A Speyerben található Neptunsee egy tó, amely békés környezetet biztosít a szabadtéri szabadidős tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        8.513914,
-                        49.272946
-                  ]
-            },
-            {
-                  "name": "Kleiner Eichelgartensee",
-                  "text": "A Speyerben fekvő Kleiner Eichelgartensee egy tó, amely csendet és pihenést kínál a vízparton.",
-                  "category": "natural",
-                  "coords": [
-                        8.522087,
-                        49.278864
-                  ]
-            },
-            {
                   "name": "Trompeterbau",
                   "text": "A Speyerben található Trompeterbau egy tó, amely természetközeli kikapcsolódást tesz lehetővé a látogatóknak.",
                   "category": "natural",
@@ -7601,15 +6971,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.45675,
                         49.354474
-                  ]
-            },
-            {
-                  "name": "Kleiner Rheinhäuser See",
-                  "text": "A Speyerben lévő Kleiner Rheinhäuser See egy tó, amely nyugodt hátteret biztosít a szabadidős tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        8.504968,
-                        49.27814
                   ]
             },
             {
@@ -7631,33 +6992,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Großer Rheinhäuser See",
-                  "text": "A Speyerben található Großer Rheinhäuser See egy tó, amely tágas vízfelületet kínál a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        8.509139,
-                        49.274799
-                  ]
-            },
-            {
-                  "name": "Erlichsee (östlicher Teil)",
-                  "text": "A Speyerben fekvő Erlichsee (keleti rész) egy tó, amely egy nagyobb pihenőövezet része.",
-                  "category": "natural",
-                  "coords": [
-                        8.50618,
-                        49.265134
-                  ]
-            },
-            {
-                  "name": "Kleiner Weiher",
-                  "text": "A Speyerben található Kleiner Weiher egy tó, amely békés környezetet kínál a zöldben való pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        8.385439,
-                        49.261228
-                  ]
-            },
-            {
                   "name": "Baggersee Angelwald",
                   "text": "A Speyerben lévő Baggersee Angelwald egy tó, amely lehetőséget ad a természet csendes megfigyelésére.",
                   "category": "natural",
@@ -7673,24 +7007,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.454034,
                         49.357817
-                  ]
-            },
-            {
-                  "name": "Erlichsee",
-                  "text": "A Speyerben fekvő Erlichsee egy tó, amely teret ad a látogatóknak a szabadtéri tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        8.501709,
-                        49.269531
-                  ]
-            },
-            {
-                  "name": "Kollersee",
-                  "text": "A Speyerben található Kollersee egy tó, amely kellemes környezetet biztosít a vízparti szabadidőhöz.",
-                  "category": "natural",
-                  "coords": [
-                        8.472096,
-                        49.380119
                   ]
             },
             {
@@ -7849,33 +7165,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bannweide",
-                  "text": "Bannweide din Speyer este un lac ce oferă o atmosferă liniștită pentru relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        8.490292,
-                        49.369495
-                  ]
-            },
-            {
-                  "name": "Hohwiesensee",
-                  "text": "Hohwiesensee din Speyer este un lac ce invită la momente de relaxare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        8.513645,
-                        49.35882
-                  ]
-            },
-            {
-                  "name": "Anglersee",
-                  "text": "Anglersee din Speyer este un lac cunoscut pentru locația sa liniștită și cadrul natural.",
-                  "category": "natural",
-                  "coords": [
-                        8.521926,
-                        49.361494
-                  ]
-            },
-            {
                   "name": "Gänsedrecksee",
                   "text": "Gänsedrecksee din Speyer este un lac ce oferă un decor pașnic pentru plimbări în natură.",
                   "category": "natural",
@@ -7939,33 +7228,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Großer Eichelgartensee",
-                  "text": "Großer Eichelgartensee lângă Speyer, un lac mare, popular pentru pescuit și plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        8.51942,
-                        49.280562
-                  ]
-            },
-            {
-                  "name": "Neptunsee",
-                  "text": "Neptunsee din Speyer este un lac ce oferă un cadru pașnic pentru activități de recreere în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        8.513914,
-                        49.272946
-                  ]
-            },
-            {
-                  "name": "Kleiner Eichelgartensee",
-                  "text": "Kleiner Eichelgartensee din Speyer este un lac ce permite liniște și relaxare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        8.522087,
-                        49.278864
-                  ]
-            },
-            {
                   "name": "Trompeterbau",
                   "text": "Trompeterbau din Speyer este un lac ce permite vizitatorilor o evadare în mijlocul naturii.",
                   "category": "natural",
@@ -7981,15 +7243,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.45675,
                         49.354474
-                  ]
-            },
-            {
-                  "name": "Kleiner Rheinhäuser See",
-                  "text": "Kleiner Rheinhäuser See din Speyer este un lac ce oferă un decor liniștit pentru activități de recreere.",
-                  "category": "natural",
-                  "coords": [
-                        8.504968,
-                        49.27814
                   ]
             },
             {
@@ -8011,33 +7264,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Großer Rheinhäuser See",
-                  "text": "Großer Rheinhäuser See din Speyer este un lac ce oferă o suprafață mare de apă în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        8.509139,
-                        49.274799
-                  ]
-            },
-            {
-                  "name": "Erlichsee (östlicher Teil)",
-                  "text": "Erlichsee (partea de est) din Speyer este un lac ce face parte dintr-o zonă de recreere mai mare.",
-                  "category": "natural",
-                  "coords": [
-                        8.50618,
-                        49.265134
-                  ]
-            },
-            {
-                  "name": "Kleiner Weiher",
-                  "text": "Kleiner Weiher din Speyer este un lac ce oferă un cadru pașnic pentru scurte pauze în natură.",
-                  "category": "natural",
-                  "coords": [
-                        8.385439,
-                        49.261228
-                  ]
-            },
-            {
                   "name": "Baggersee Angelwald",
                   "text": "Baggersee Angelwald din Speyer este un lac ce oferă ocazii pentru observații liniștite în natură.",
                   "category": "natural",
@@ -8053,24 +7279,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.454034,
                         49.357817
-                  ]
-            },
-            {
-                  "name": "Erlichsee",
-                  "text": "Erlichsee din Speyer este un lac ce oferă vizitatorilor spațiu pentru activități în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        8.501709,
-                        49.269531
-                  ]
-            },
-            {
-                  "name": "Kollersee",
-                  "text": "Kollersee din Speyer este un lac ce oferă un cadru plăcut pentru petrecerea timpului liber pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        8.472096,
-                        49.380119
                   ]
             },
             {
@@ -8229,33 +7437,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bannweide",
-                  "text": "Bannweide in Speyer is a lake providing a calm atmosphere for relaxation in nature.",
-                  "category": "natural",
-                  "coords": [
-                        8.490292,
-                        49.369495
-                  ]
-            },
-            {
-                  "name": "Hohwiesensee",
-                  "text": "Hohwiesensee in Speyer is a lake inviting visitors to enjoy relaxing moments by the water.",
-                  "category": "natural",
-                  "coords": [
-                        8.513645,
-                        49.35882
-                  ]
-            },
-            {
-                  "name": "Anglersee",
-                  "text": "Anglersee in Speyer is a lake known for its quiet location and natural surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        8.521926,
-                        49.361494
-                  ]
-            },
-            {
                   "name": "Gänsedrecksee",
                   "text": "Gänsedrecksee in Speyer is a lake providing a peaceful backdrop for walks in nature.",
                   "category": "natural",
@@ -8319,33 +7500,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Großer Eichelgartensee",
-                  "text": "Großer Eichelgartensee near Speyer, a large lake popular for fishing and walking.",
-                  "category": "natural",
-                  "coords": [
-                        8.51942,
-                        49.280562
-                  ]
-            },
-            {
-                  "name": "Neptunsee",
-                  "text": "Neptunsee in Speyer is a lake providing a peaceful environment for outdoor leisure activities.",
-                  "category": "natural",
-                  "coords": [
-                        8.513914,
-                        49.272946
-                  ]
-            },
-            {
-                  "name": "Kleiner Eichelgartensee",
-                  "text": "Kleiner Eichelgartensee in Speyer is a lake allowing for peace and relaxation by the water.",
-                  "category": "natural",
-                  "coords": [
-                        8.522087,
-                        49.278864
-                  ]
-            },
-            {
                   "name": "Trompeterbau",
                   "text": "Trompeterbau in Speyer is a lake providing visitors with a getaway in a natural setting.",
                   "category": "natural",
@@ -8361,15 +7515,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.45675,
                         49.354474
-                  ]
-            },
-            {
-                  "name": "Kleiner Rheinhäuser See",
-                  "text": "Kleiner Rheinhäuser See in Speyer is a lake providing a calm backdrop for leisure activities.",
-                  "category": "natural",
-                  "coords": [
-                        8.504968,
-                        49.27814
                   ]
             },
             {
@@ -8391,33 +7536,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Großer Rheinhäuser See",
-                  "text": "Großer Rheinhäuser See in Speyer is a lake offering an extensive water surface in nature.",
-                  "category": "natural",
-                  "coords": [
-                        8.509139,
-                        49.274799
-                  ]
-            },
-            {
-                  "name": "Erlichsee (östlicher Teil)",
-                  "text": "Erlichsee (eastern part) in Speyer is a lake that is part of a larger recreation area.",
-                  "category": "natural",
-                  "coords": [
-                        8.50618,
-                        49.265134
-                  ]
-            },
-            {
-                  "name": "Kleiner Weiher",
-                  "text": "Kleiner Weiher in Speyer is a lake offering a peaceful setting for short breaks in nature.",
-                  "category": "natural",
-                  "coords": [
-                        8.385439,
-                        49.261228
-                  ]
-            },
-            {
                   "name": "Baggersee Angelwald",
                   "text": "Baggersee Angelwald in Speyer is a lake providing opportunities for quiet nature observation.",
                   "category": "natural",
@@ -8433,24 +7551,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.454034,
                         49.357817
-                  ]
-            },
-            {
-                  "name": "Erlichsee",
-                  "text": "Erlichsee in Speyer is a lake offering visitors space for outdoor activities and closeness to nature.",
-                  "category": "natural",
-                  "coords": [
-                        8.501709,
-                        49.269531
-                  ]
-            },
-            {
-                  "name": "Kollersee",
-                  "text": "Kollersee in Speyer is a lake offering a pleasant setting for leisure by the water.",
-                  "category": "natural",
-                  "coords": [
-                        8.472096,
-                        49.380119
                   ]
             },
             {
@@ -9509,33 +8609,6 @@ export const germanyCitiesV2: POI[] = [
     id: "germany-solingen-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Theater und Konzerthaus Solingen",
-                  "text": "Zentraler Kulturstandort in Solingen für Theateraufführungen und Konzerte.",
-                  "category": "cultural",
-                  "coords": [
-                        7.081327,
-                        51.17899
-                  ]
-            },
-            {
-                  "name": "Laurel & Hardy Museum",
-                  "text": "Ein Museum in Solingen-Wald, das dem berühmten Komiker-Duo Laurel und Hardy gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        7.043346,
-                        51.180565
-                  ]
-            },
-            {
-                  "name": "Obus Museum",
-                  "text": "Das Museum bewahrt historische Oberleitungsbusse aus dem Solinger Verkehrsnetz.",
-                  "category": "museum",
-                  "coords": [
-                        7.070177,
-                        51.179512
-                  ]
-            },
-            {
                   "name": "Gesenkschmiede Hendrichs",
                   "text": "Ein Standort des LVR-Industriemuseums, der die historische Gesenkschmiedetechnik zeigt.",
                   "category": "museum",
@@ -9543,90 +8616,9 @@ export const germanyCitiesV2: POI[] = [
                         7.037875,
                         51.17088
                   ]
-            },
-            {
-                  "name": "Plagiarius",
-                  "text": "Ein Museum, das Originalprodukte im direkten Vergleich zu ihren Plagiaten und Fälschungen zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        7.082629,
-                        51.164566
-                  ]
-            },
-            {
-                  "name": "Naturdenkmal",
-                  "text": "Ein geschütztes Naturdenkmal oder Naturschutzgebiet im Stadtgebiet von Solingen.",
-                  "category": "natural",
-                  "coords": [
-                        7.052863,
-                        51.162709
-                  ]
-            },
-            {
-                  "name": "LVR Taschenmesserreiderei Lauterjung",
-                  "text": "Eine historische Werkstatt, die die traditionelle Montage von Taschenmessern zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        7.114529,
-                        51.161883
-                  ]
-            },
-            {
-                  "name": "Walder Stadtpark",
-                  "text": "Ein öffentlicher Park im Stadtteil Solingen-Wald mit Grünflächen zur Erholung.",
-                  "category": "park",
-                  "coords": [
-                        7.046668,
-                        51.18412
-                  ]
-            },
-            {
-                  "name": "Fernmeldeturm Solingen",
-                  "text": "Ein Fernmeldeturm für Funkübertragungen und ein markantes Bauwerk der Stadt.",
-                  "category": "tower",
-                  "coords": [
-                        7.077121,
-                        51.188061
-                  ]
-            },
-            {
-                  "name": "Freibad Ittertal",
-                  "text": "Das Freibad Ittertal in Solingen ist ein Schwimmbad, das in schöner Lage zum Baden und Entspannen einlädt.",
-                  "category": "family",
-                  "coords": [
-                        7.037152,
-                        51.190677
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Theater und Konzerthaus Solingen",
-                  "text": "Solingen központi kulturális helyszíne színházi előadásokhoz és koncertekhez.",
-                  "category": "cultural",
-                  "coords": [
-                        7.081327,
-                        51.17899
-                  ]
-            },
-            {
-                  "name": "Laurel & Hardy Museum",
-                  "text": "A híres Stan és Pan komikus párosnak szentelt múzeum Solingen-Wald városrészben.",
-                  "category": "museum",
-                  "coords": [
-                        7.043346,
-                        51.180565
-                  ]
-            },
-            {
-                  "name": "Obus Museum",
-                  "text": "A múzeum a solingeni hálózat történelmi trolibuszait őrzi és mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        7.070177,
-                        51.179512
-                  ]
-            },
             {
                   "name": "Gesenkschmiede Hendrichs",
                   "text": "Az LVR Ipari Múzeum helyszíne, amely a történelmi süllyesztékes kovácsolást mutatja be.",
@@ -9635,90 +8627,9 @@ export const germanyCitiesV2: POI[] = [
                         7.037875,
                         51.17088
                   ]
-            },
-            {
-                  "name": "Plagiarius",
-                  "text": "Eredeti termékeket és azok másolatait, hamisítványait bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        7.082629,
-                        51.164566
-                  ]
-            },
-            {
-                  "name": "Naturdenkmal",
-                  "text": "Védett természeti emlék vagy természetvédelmi terület Solingen területén.",
-                  "category": "natural",
-                  "coords": [
-                        7.052863,
-                        51.162709
-                  ]
-            },
-            {
-                  "name": "LVR Taschenmesserreiderei Lauterjung",
-                  "text": "Történelmi műhely, amely a zsebkések hagyományos összeszerelését mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        7.114529,
-                        51.161883
-                  ]
-            },
-            {
-                  "name": "Walder Stadtpark",
-                  "text": "Nyilvános park Solingen-Wald városrészben, zöldterületekkel a kikapcsolódáshoz.",
-                  "category": "park",
-                  "coords": [
-                        7.046668,
-                        51.18412
-                  ]
-            },
-            {
-                  "name": "Fernmeldeturm Solingen",
-                  "text": "Műsorszóráshoz használt távközlési torony, a város egyik jellegzetes építménye.",
-                  "category": "tower",
-                  "coords": [
-                        7.077121,
-                        51.188061
-                  ]
-            },
-            {
-                  "name": "Freibad Ittertal",
-                  "text": "A solingeni Freibad Ittertal egy úszómedence, amely szép környezetben hívogat fürdésre és pihenésre.",
-                  "category": "family",
-                  "coords": [
-                        7.037152,
-                        51.190677
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Theater und Konzerthaus Solingen",
-                  "text": "Locație culturală centrală în Solingen pentru spectacole de teatru și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        7.081327,
-                        51.17899
-                  ]
-            },
-            {
-                  "name": "Laurel & Hardy Museum",
-                  "text": "Un muzeu dedicat celebrului duo de comedie Laurel și Hardy, situat în Solingen-Wald.",
-                  "category": "museum",
-                  "coords": [
-                        7.043346,
-                        51.180565
-                  ]
-            },
-            {
-                  "name": "Obus Museum",
-                  "text": "Muzeul păstrează troleibuze istorice din rețeaua de transport din Solingen.",
-                  "category": "museum",
-                  "coords": [
-                        7.070177,
-                        51.179512
-                  ]
-            },
             {
                   "name": "Gesenkschmiede Hendrichs",
                   "text": "O locație a Muzeului Industrial LVR care prezintă tehnica istorică de forjare.",
@@ -9727,90 +8638,9 @@ export const germanyCitiesV2: POI[] = [
                         7.037875,
                         51.17088
                   ]
-            },
-            {
-                  "name": "Plagiarius",
-                  "text": "Un muzeu care expune produse originale alături de falsurile și copiile acestora.",
-                  "category": "museum",
-                  "coords": [
-                        7.082629,
-                        51.164566
-                  ]
-            },
-            {
-                  "name": "Naturdenkmal",
-                  "text": "Un monument al naturii protejat sau o rezervație naturală în Solingen.",
-                  "category": "natural",
-                  "coords": [
-                        7.052863,
-                        51.162709
-                  ]
-            },
-            {
-                  "name": "LVR Taschenmesserreiderei Lauterjung",
-                  "text": "Un atelier istoric care prezintă asamblarea tradițională a bricegelor.",
-                  "category": "museum",
-                  "coords": [
-                        7.114529,
-                        51.161883
-                  ]
-            },
-            {
-                  "name": "Walder Stadtpark",
-                  "text": "Un parc public în districtul Solingen-Wald, care oferă spații verzi pentru relaxare.",
-                  "category": "park",
-                  "coords": [
-                        7.046668,
-                        51.18412
-                  ]
-            },
-            {
-                  "name": "Fernmeldeturm Solingen",
-                  "text": "Un turn de telecomunicații utilizat pentru transmisii, un punct de reper al orașului.",
-                  "category": "tower",
-                  "coords": [
-                        7.077121,
-                        51.188061
-                  ]
-            },
-            {
-                  "name": "Freibad Ittertal",
-                  "text": "Piscina în aer liber Ittertal din Solingen este o piscină care invită la scăldat și relaxare într-o locație frumoasă.",
-                  "category": "family",
-                  "coords": [
-                        7.037152,
-                        51.190677
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Theater und Konzerthaus Solingen",
-                  "text": "Central cultural venue in Solingen for theater performances and concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        7.081327,
-                        51.17899
-                  ]
-            },
-            {
-                  "name": "Laurel & Hardy Museum",
-                  "text": "A museum dedicated to the famous comedy duo Laurel and Hardy, located in Solingen-Wald.",
-                  "category": "museum",
-                  "coords": [
-                        7.043346,
-                        51.180565
-                  ]
-            },
-            {
-                  "name": "Obus Museum",
-                  "text": "The museum preserves historical trolleybuses from Solingen's transport network.",
-                  "category": "museum",
-                  "coords": [
-                        7.070177,
-                        51.179512
-                  ]
-            },
             {
                   "name": "Gesenkschmiede Hendrichs",
                   "text": "A site of the LVR Industrial Museum showcasing historical drop forging techniques.",
@@ -9818,60 +8648,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.037875,
                         51.17088
-                  ]
-            },
-            {
-                  "name": "Plagiarius",
-                  "text": "A museum exhibiting original products alongside their blatant counterfeits and copies.",
-                  "category": "museum",
-                  "coords": [
-                        7.082629,
-                        51.164566
-                  ]
-            },
-            {
-                  "name": "Naturdenkmal",
-                  "text": "A protected natural monument or nature reserve within the Solingen area.",
-                  "category": "natural",
-                  "coords": [
-                        7.052863,
-                        51.162709
-                  ]
-            },
-            {
-                  "name": "LVR Taschenmesserreiderei Lauterjung",
-                  "text": "A historical workshop demonstrating the traditional assembly of pocket knives.",
-                  "category": "museum",
-                  "coords": [
-                        7.114529,
-                        51.161883
-                  ]
-            },
-            {
-                  "name": "Walder Stadtpark",
-                  "text": "A public park in the Solingen-Wald district offering green spaces for relaxation.",
-                  "category": "park",
-                  "coords": [
-                        7.046668,
-                        51.18412
-                  ]
-            },
-            {
-                  "name": "Fernmeldeturm Solingen",
-                  "text": "A telecommunications tower used for broadcasting and a landmark of the city.",
-                  "category": "tower",
-                  "coords": [
-                        7.077121,
-                        51.188061
-                  ]
-            },
-            {
-                  "name": "Freibad Ittertal",
-                  "text": "The Ittertal open-air pool in Solingen is a swimming pool that invites you to bathe and relax in a beautiful location.",
-                  "category": "family",
-                  "coords": [
-                        7.037152,
-                        51.190677
                   ]
             }
       ]
@@ -9943,195 +8719,6 @@ export const germanyCitiesV2: POI[] = [
                         8.030245,
                         50.875507
                   ]
-            },
-            {
-                  "name": "Bühne der Stadt Siegen",
-                  "text": "Ein bedeutender Veranstaltungsort für Theater- und Konzertaufführungen in Siegen.",
-                  "category": "cultural",
-                  "coords": [
-                        8.021315,
-                        50.871497
-                  ]
-            },
-            {
-                  "name": "Apollo Theater",
-                  "text": "Ein modernes Theatergebäude im Zentrum von Siegen mit vielfältigem Spielplan.",
-                  "category": "cultural",
-                  "coords": [
-                        8.017431,
-                        50.873973
-                  ]
-            },
-            {
-                  "name": "Ringlokschuppen",
-                  "text": "Ein kultureller Veranstaltungsort in einem ehemaligen Lokschuppen der Bahn in Siegen.",
-                  "category": "museum",
-                  "coords": [
-                        8.014045,
-                        50.875191
-                  ]
-            },
-            {
-                  "name": "Kulturhaus Lÿz",
-                  "text": "Ein Kultur- und Medienzentrum in Siegen, das Kabarett, Konzerte und Kleinkunst bietet.",
-                  "category": "cultural",
-                  "coords": [
-                        8.015637,
-                        50.87022
-                  ]
-            },
-            {
-                  "name": "Aktives Museum Südwestfalen",
-                  "text": "Ein Museum zur Zeitgeschichte am Standort der im Jahr 1938 zerstörten Synagoge von Siegen.",
-                  "category": "museum",
-                  "coords": [
-                        8.023283,
-                        50.872762
-                  ]
-            },
-            {
-                  "name": "Westenergie-Park",
-                  "text": "Ein Sport- und Freizeitgelände in Siegen, das für verschiedene Outdoor-Aktivitäten genutzt wird.",
-                  "category": "family",
-                  "coords": [
-                        8.026227,
-                        50.877956
-                  ]
-            },
-            {
-                  "name": "Mühlenweiher",
-                  "text": "Der Mühlenweiher in Siegen ist ein kleiner See, der Besuchern eine ruhige Kulisse für Spaziergänge bietet.",
-                  "category": "natural",
-                  "coords": [
-                        8.088563,
-                        50.856719
-                  ]
-            },
-            {
-                  "name": "Bottenbacher Weiher",
-                  "text": "Bottenbacher Weiher in Siegen, ein kleiner Teich im Wald, ideal für Naturspaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        8.01699,
-                        50.936999
-                  ]
-            },
-            {
-                  "name": "Naturfreibad",
-                  "text": "Das Naturfreibad in Siegen ist ein See, der Besuchern eine erfrischende Umgebung in der Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        7.997801,
-                        50.824303
-                  ]
-            },
-            {
-                  "name": "Regenrückhaltebecken",
-                  "text": "Das Regenrückhaltebecken in Siegen ist ein See, der als Wasserfläche Teil der lokalen Infrastruktur ist.",
-                  "category": "natural",
-                  "coords": [
-                        8.002853,
-                        50.858137
-                  ]
-            },
-            {
-                  "name": "Abenteuerspielplatz des RaBauKi e.V.",
-                  "text": "Der Abenteuerspielplatz des RaBauKi e.V. in Siegen bietet Kindern Raum für kreatives und aktives Spielen.",
-                  "category": "family",
-                  "coords": [
-                        7.984341,
-                        50.877004
-                  ]
-            },
-            {
-                  "name": "Spielplatz Häusling",
-                  "text": "Der Spielplatz Häusling in Siegen ist ein lokaler Spielbereich für Kinder in einer naturnahen Umgebung.",
-                  "category": "family",
-                  "coords": [
-                        8.027371,
-                        50.864567
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Kinderklink",
-                  "text": "Ein Spielplatz in Siegen, der Kindern Raum für Bewegung und Spiel im Freien bietet.",
-                  "category": "family",
-                  "coords": [
-                        8.018199,
-                        50.884524
-                  ]
-            },
-            {
-                  "name": "Samuel-Frank-Straße",
-                  "text": "Dieser Spielplatz in Siegen ist ein familienfreundlicher Ort für Kinder zum Austoben.",
-                  "category": "family",
-                  "coords": [
-                        8.036,
-                        50.889533
-                  ]
-            },
-            {
-                  "name": "Ackerstraße",
-                  "text": "Ein Ort in Siegen, der speziell für das Spielen und die Freizeitgestaltung von Kindern angelegt wurde.",
-                  "category": "family",
-                  "coords": [
-                        8.037743,
-                        50.892694
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz an der Alche",
-                  "text": "Spielplatz in Siegen, der eine gute Gelegenheit für Kinder bietet, an der frischen Luft zu spielen.",
-                  "category": "family",
-                  "coords": [
-                        8.007215,
-                        50.880612
-                  ]
-            },
-            {
-                  "name": "Paul-Fickeler-Weg",
-                  "text": "Ein kinderfreundlicher Spielplatz in Siegen, ideal für einen Ausflug mit der Familie.",
-                  "category": "family",
-                  "coords": [
-                        8.016514,
-                        50.860379
-                  ]
-            },
-            {
-                  "name": "Spielplatz Calvary Chapel",
-                  "text": "Dieser Spielplatz in Siegen bietet verschiedene Möglichkeiten zum Klettern und Spielen.",
-                  "category": "family",
-                  "coords": [
-                        7.990561,
-                        50.8516
-                  ]
-            },
-            {
-                  "name": "Dreisbach Am Rothenberg Am Ginsterhang",
-                  "text": "Ein weitläufiger Spielplatz in Siegen, der Kindern viel Platz für Aktivitäten bietet.",
-                  "category": "family",
-                  "coords": [
-                        7.991654,
-                        50.858573
-                  ]
-            },
-            {
-                  "name": "Spielplatz Hauptmarkt",
-                  "text": "Zentral gelegener Spielplatz in Siegen, der sich gut für eine kurze Pause mit Kindern eignet.",
-                  "category": "family",
-                  "coords": [
-                        8.027476,
-                        50.896445
-                  ]
-            },
-            {
-                  "name": "Warmwasserfreibad Kaan-Marienborn",
-                  "text": "Das Warmwasserfreibad Kaan-Marienborn in Siegen bietet Wasserspaß für Familien.",
-                  "category": "family",
-                  "coords": [
-                        8.066705,
-                        50.874527
-                  ]
             }
       ],
       "hu": [
@@ -10151,195 +8738,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.030245,
                         50.875507
-                  ]
-            },
-            {
-                  "name": "Bühne der Stadt Siegen",
-                  "text": "Jelentős helyszín színházi és koncertelőadások számára Siegen városában.",
-                  "category": "cultural",
-                  "coords": [
-                        8.021315,
-                        50.871497
-                  ]
-            },
-            {
-                  "name": "Apollo Theater",
-                  "text": "Modern színházépület Siegen központjában, változatos műsortervvel.",
-                  "category": "cultural",
-                  "coords": [
-                        8.017431,
-                        50.873973
-                  ]
-            },
-            {
-                  "name": "Ringlokschuppen",
-                  "text": "Kulturális rendezvényhelyszín a vasút egykori siegeni fűtőházában.",
-                  "category": "museum",
-                  "coords": [
-                        8.014045,
-                        50.875191
-                  ]
-            },
-            {
-                  "name": "Kulturhaus Lÿz",
-                  "text": "Siegeni kulturális és médiaközpont, amely kabaréknak, koncerteknek és egyéb előadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        8.015637,
-                        50.87022
-                  ]
-            },
-            {
-                  "name": "Aktives Museum Südwestfalen",
-                  "text": "Jelenkortörténeti múzeum az 1938-ban lerombolt siegeni zsinagóga helyén.",
-                  "category": "museum",
-                  "coords": [
-                        8.023283,
-                        50.872762
-                  ]
-            },
-            {
-                  "name": "Westenergie-Park",
-                  "text": "Siegeni sport- és szabadidőpark, amely különféle szabadtéri tevékenységeknek ad helyet.",
-                  "category": "family",
-                  "coords": [
-                        8.026227,
-                        50.877956
-                  ]
-            },
-            {
-                  "name": "Mühlenweiher",
-                  "text": "A Siegenben található Mühlenweiher egy kis tó, amely nyugodt hátteret biztosít a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        8.088563,
-                        50.856719
-                  ]
-            },
-            {
-                  "name": "Bottenbacher Weiher",
-                  "text": "Bottenbacher Weiher Siegenben, egy kis tó az erdőben, természeti sétákra alkalmas.",
-                  "category": "natural",
-                  "coords": [
-                        8.01699,
-                        50.936999
-                  ]
-            },
-            {
-                  "name": "Naturfreibad",
-                  "text": "A Siegenben található Naturfreibad egy tó, amely frissítő környezetet kínál a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        7.997801,
-                        50.824303
-                  ]
-            },
-            {
-                  "name": "Regenrückhaltebecken",
-                  "text": "A Siegenben található Regenrückhaltebecken egy vízfelület, amely a helyi infrastruktúra része.",
-                  "category": "natural",
-                  "coords": [
-                        8.002853,
-                        50.858137
-                  ]
-            },
-            {
-                  "name": "Abenteuerspielplatz des RaBauKi e.V.",
-                  "text": "A siegeni RaBauKi e.V. kalandjátszótér teret ad a gyerekeknek a kreatív és aktív játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        7.984341,
-                        50.877004
-                  ]
-            },
-            {
-                  "name": "Spielplatz Häusling",
-                  "text": "A Siegenben található Spielplatz Häusling egy helyi játszótér a gyerekek számára természetközeli környezetben.",
-                  "category": "family",
-                  "coords": [
-                        8.027371,
-                        50.864567
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Kinderklink",
-                  "text": "Egy játszótér Siegenben, amely szabadtéri játéklehetőséget biztosít a gyermekek számára.",
-                  "category": "family",
-                  "coords": [
-                        8.018199,
-                        50.884524
-                  ]
-            },
-            {
-                  "name": "Samuel-Frank-Straße",
-                  "text": "Ez a siegeni játszótér családbarát hely a gyermekek számára a kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        8.036,
-                        50.889533
-                  ]
-            },
-            {
-                  "name": "Ackerstraße",
-                  "text": "Egy siegeni helyszín, amelyet kifejezetten a gyermekek játéka és szabadideje számára alakítottak ki.",
-                  "category": "family",
-                  "coords": [
-                        8.037743,
-                        50.892694
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz an der Alche",
-                  "text": "Siegeni játszótér, amely jó lehetőséget nyújt a gyermekeknek a friss levegőn való játékra.",
-                  "category": "family",
-                  "coords": [
-                        8.007215,
-                        50.880612
-                  ]
-            },
-            {
-                  "name": "Paul-Fickeler-Weg",
-                  "text": "Gyermekbarát játszótér Siegenben, amely ideális egy családi kiránduláshoz.",
-                  "category": "family",
-                  "coords": [
-                        8.016514,
-                        50.860379
-                  ]
-            },
-            {
-                  "name": "Spielplatz Calvary Chapel",
-                  "text": "Ez a siegeni játszótér különféle lehetőségeket kínál a mászásra és a játékra.",
-                  "category": "family",
-                  "coords": [
-                        7.990561,
-                        50.8516
-                  ]
-            },
-            {
-                  "name": "Dreisbach Am Rothenberg Am Ginsterhang",
-                  "text": "Tágas játszótér Siegenben, amely sok helyet biztosít a gyermekek tevékenységeihez.",
-                  "category": "family",
-                  "coords": [
-                        7.991654,
-                        50.858573
-                  ]
-            },
-            {
-                  "name": "Spielplatz Hauptmarkt",
-                  "text": "Központi elhelyezkedésű játszótér Siegenben, amely alkalmas egy rövid szünetre a gyerekekkel.",
-                  "category": "family",
-                  "coords": [
-                        8.027476,
-                        50.896445
-                  ]
-            },
-            {
-                  "name": "Warmwasserfreibad Kaan-Marienborn",
-                  "text": "A Siegenben található Warmwasserfreibad Kaan-Marienborn vízi élményeket kínál a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        8.066705,
-                        50.874527
                   ]
             }
       ],
@@ -10361,195 +8759,6 @@ export const germanyCitiesV2: POI[] = [
                         8.030245,
                         50.875507
                   ]
-            },
-            {
-                  "name": "Bühne der Stadt Siegen",
-                  "text": "Un loc important pentru spectacole de teatru și concerte în orașul Siegen.",
-                  "category": "cultural",
-                  "coords": [
-                        8.021315,
-                        50.871497
-                  ]
-            },
-            {
-                  "name": "Apollo Theater",
-                  "text": "O clădire de teatru modernă în centrul orașului Siegen, cu un program diversificat.",
-                  "category": "cultural",
-                  "coords": [
-                        8.017431,
-                        50.873973
-                  ]
-            },
-            {
-                  "name": "Ringlokschuppen",
-                  "text": "Un spațiu cultural situat într-un fost depou de locomotive din Siegen.",
-                  "category": "museum",
-                  "coords": [
-                        8.014045,
-                        50.875191
-                  ]
-            },
-            {
-                  "name": "Kulturhaus Lÿz",
-                  "text": "Un centru cultural și media din Siegen care găzduiește spectacole de cabaret, concerte și artă.",
-                  "category": "cultural",
-                  "coords": [
-                        8.015637,
-                        50.87022
-                  ]
-            },
-            {
-                  "name": "Aktives Museum Südwestfalen",
-                  "text": "Un muzeu de istorie contemporană situat pe locul sinagogii din Siegen, distrusă în 1938.",
-                  "category": "museum",
-                  "coords": [
-                        8.023283,
-                        50.872762
-                  ]
-            },
-            {
-                  "name": "Westenergie-Park",
-                  "text": "Un parc de sport și recreere din Siegen, utilizat pentru diverse activități în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        8.026227,
-                        50.877956
-                  ]
-            },
-            {
-                  "name": "Mühlenweiher",
-                  "text": "Mühlenweiher din Siegen este un iaz mic ce oferă vizitatorilor un decor liniștit pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        8.088563,
-                        50.856719
-                  ]
-            },
-            {
-                  "name": "Bottenbacher Weiher",
-                  "text": "Bottenbacher Weiher în Siegen, un mic iaz în pădure, ideal pentru plimbări în natură.",
-                  "category": "natural",
-                  "coords": [
-                        8.01699,
-                        50.936999
-                  ]
-            },
-            {
-                  "name": "Naturfreibad",
-                  "text": "Naturfreibad din Siegen este un lac ce oferă vizitatorilor un cadru revigorant în natură.",
-                  "category": "natural",
-                  "coords": [
-                        7.997801,
-                        50.824303
-                  ]
-            },
-            {
-                  "name": "Regenrückhaltebecken",
-                  "text": "Regenrückhaltebecken din Siegen este o suprafață de apă ce face parte din infrastructura locală.",
-                  "category": "natural",
-                  "coords": [
-                        8.002853,
-                        50.858137
-                  ]
-            },
-            {
-                  "name": "Abenteuerspielplatz des RaBauKi e.V.",
-                  "text": "Terenul de joacă de aventură al RaBauKi e.V. din Siegen oferă copiilor spațiu pentru joacă creativă și activă.",
-                  "category": "family",
-                  "coords": [
-                        7.984341,
-                        50.877004
-                  ]
-            },
-            {
-                  "name": "Spielplatz Häusling",
-                  "text": "Locul de joacă Häusling din Siegen este un spațiu de joacă local pentru copii, într-un cadru natural.",
-                  "category": "family",
-                  "coords": [
-                        8.027371,
-                        50.864567
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Kinderklink",
-                  "text": "Un loc de joacă în Siegen, care oferă copiilor spațiu pentru mișcare și joacă în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        8.018199,
-                        50.884524
-                  ]
-            },
-            {
-                  "name": "Samuel-Frank-Straße",
-                  "text": "Acest loc de joacă din Siegen este un spațiu primitor unde copiii se pot distra.",
-                  "category": "family",
-                  "coords": [
-                        8.036,
-                        50.889533
-                  ]
-            },
-            {
-                  "name": "Ackerstraße",
-                  "text": "O locație din Siegen amenajată special pentru joaca și petrecerea timpului liber al copiilor.",
-                  "category": "family",
-                  "coords": [
-                        8.037743,
-                        50.892694
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz an der Alche",
-                  "text": "Loc de joacă în Siegen, care oferă copiilor o ocazie bună de a se juca la aer curat.",
-                  "category": "family",
-                  "coords": [
-                        8.007215,
-                        50.880612
-                  ]
-            },
-            {
-                  "name": "Paul-Fickeler-Weg",
-                  "text": "Un loc de joacă prietenos pentru copii în Siegen, ideal pentru o ieșire cu familia.",
-                  "category": "family",
-                  "coords": [
-                        8.016514,
-                        50.860379
-                  ]
-            },
-            {
-                  "name": "Spielplatz Calvary Chapel",
-                  "text": "Acest loc de joacă din Siegen oferă diverse posibilități de cățărare și joacă.",
-                  "category": "family",
-                  "coords": [
-                        7.990561,
-                        50.8516
-                  ]
-            },
-            {
-                  "name": "Dreisbach Am Rothenberg Am Ginsterhang",
-                  "text": "Un loc de joacă spațios în Siegen, care oferă copiilor mult loc pentru activități.",
-                  "category": "family",
-                  "coords": [
-                        7.991654,
-                        50.858573
-                  ]
-            },
-            {
-                  "name": "Spielplatz Hauptmarkt",
-                  "text": "Loc de joacă situat central în Siegen, potrivit pentru o scurtă pauză cu copiii.",
-                  "category": "family",
-                  "coords": [
-                        8.027476,
-                        50.896445
-                  ]
-            },
-            {
-                  "name": "Warmwasserfreibad Kaan-Marienborn",
-                  "text": "Warmwasserfreibad Kaan-Marienborn din Siegen oferă distracție acvatică pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        8.066705,
-                        50.874527
-                  ]
             }
       ],
       "en": [
@@ -10569,195 +8778,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.030245,
                         50.875507
-                  ]
-            },
-            {
-                  "name": "Bühne der Stadt Siegen",
-                  "text": "A major venue for theatre and concert performances in the city of Siegen.",
-                  "category": "cultural",
-                  "coords": [
-                        8.021315,
-                        50.871497
-                  ]
-            },
-            {
-                  "name": "Apollo Theater",
-                  "text": "A modern theatre building in the centre of Siegen with a diverse schedule of performances.",
-                  "category": "cultural",
-                  "coords": [
-                        8.017431,
-                        50.873973
-                  ]
-            },
-            {
-                  "name": "Ringlokschuppen",
-                  "text": "A cultural venue located in a former railway engine shed in Siegen.",
-                  "category": "museum",
-                  "coords": [
-                        8.014045,
-                        50.875191
-                  ]
-            },
-            {
-                  "name": "Kulturhaus Lÿz",
-                  "text": "A cultural and media centre in Siegen hosting cabaret, concerts, and performing arts.",
-                  "category": "cultural",
-                  "coords": [
-                        8.015637,
-                        50.87022
-                  ]
-            },
-            {
-                  "name": "Aktives Museum Südwestfalen",
-                  "text": "A museum of contemporary history located on the site of the Siegen synagogue destroyed in 1938.",
-                  "category": "museum",
-                  "coords": [
-                        8.023283,
-                        50.872762
-                  ]
-            },
-            {
-                  "name": "Westenergie-Park",
-                  "text": "A sports and leisure park in Siegen used for various outdoor activities.",
-                  "category": "family",
-                  "coords": [
-                        8.026227,
-                        50.877956
-                  ]
-            },
-            {
-                  "name": "Mühlenweiher",
-                  "text": "Mühlenweiher in Siegen is a small lake providing visitors with a quiet backdrop for walks.",
-                  "category": "natural",
-                  "coords": [
-                        8.088563,
-                        50.856719
-                  ]
-            },
-            {
-                  "name": "Bottenbacher Weiher",
-                  "text": "Bottenbacher Weiher in Siegen, a small pond surrounded by woodland, ideal for nature walks.",
-                  "category": "natural",
-                  "coords": [
-                        8.01699,
-                        50.936999
-                  ]
-            },
-            {
-                  "name": "Naturfreibad",
-                  "text": "The Naturfreibad in Siegen is a lake offering visitors a refreshing environment in nature.",
-                  "category": "natural",
-                  "coords": [
-                        7.997801,
-                        50.824303
-                  ]
-            },
-            {
-                  "name": "Regenrückhaltebecken",
-                  "text": "The Regenrückhaltebecken in Siegen is a body of water that is part of the local infrastructure.",
-                  "category": "natural",
-                  "coords": [
-                        8.002853,
-                        50.858137
-                  ]
-            },
-            {
-                  "name": "Abenteuerspielplatz des RaBauKi e.V.",
-                  "text": "The adventure playground of RaBauKi e.V. in Siegen offers children space for creative and active play.",
-                  "category": "family",
-                  "coords": [
-                        7.984341,
-                        50.877004
-                  ]
-            },
-            {
-                  "name": "Spielplatz Häusling",
-                  "text": "The Häusling playground in Siegen is a local play area for children in a natural setting.",
-                  "category": "family",
-                  "coords": [
-                        8.027371,
-                        50.864567
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz Kinderklink",
-                  "text": "A playground in Siegen that offers children space for outdoor play and physical activity.",
-                  "category": "family",
-                  "coords": [
-                        8.018199,
-                        50.884524
-                  ]
-            },
-            {
-                  "name": "Samuel-Frank-Straße",
-                  "text": "This playground in Siegen is a family-friendly spot for children to play.",
-                  "category": "family",
-                  "coords": [
-                        8.036,
-                        50.889533
-                  ]
-            },
-            {
-                  "name": "Ackerstraße",
-                  "text": "A location in Siegen specifically designed for children's play and leisure time.",
-                  "category": "family",
-                  "coords": [
-                        8.037743,
-                        50.892694
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz an der Alche",
-                  "text": "Playground in Siegen providing a good opportunity for children to play in the fresh air.",
-                  "category": "family",
-                  "coords": [
-                        8.007215,
-                        50.880612
-                  ]
-            },
-            {
-                  "name": "Paul-Fickeler-Weg",
-                  "text": "A child-friendly playground in Siegen, ideal for a family outing.",
-                  "category": "family",
-                  "coords": [
-                        8.016514,
-                        50.860379
-                  ]
-            },
-            {
-                  "name": "Spielplatz Calvary Chapel",
-                  "text": "This playground in Siegen offers various opportunities for climbing and playing.",
-                  "category": "family",
-                  "coords": [
-                        7.990561,
-                        50.8516
-                  ]
-            },
-            {
-                  "name": "Dreisbach Am Rothenberg Am Ginsterhang",
-                  "text": "A spacious playground in Siegen that offers children plenty of room for activities.",
-                  "category": "family",
-                  "coords": [
-                        7.991654,
-                        50.858573
-                  ]
-            },
-            {
-                  "name": "Spielplatz Hauptmarkt",
-                  "text": "Centrally located playground in Siegen, suitable for a short break with children.",
-                  "category": "family",
-                  "coords": [
-                        8.027476,
-                        50.896445
-                  ]
-            },
-            {
-                  "name": "Warmwasserfreibad Kaan-Marienborn",
-                  "text": "The Warmwasserfreibad Kaan-Marienborn in Siegen offers water fun for families.",
-                  "category": "family",
-                  "coords": [
-                        8.066705,
-                        50.874527
                   ]
             }
       ]
@@ -13929,15 +11949,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Löschwasserrückhaltung",
-                  "text": "Die Löschwasserrückhaltung in Baden Baden ist ein Gewässer, das zur landschaftlichen Gestaltung beiträgt.",
-                  "category": "natural",
-                  "coords": [
-                        8.341443,
-                        48.775973
-                  ]
-            },
-            {
                   "name": "Apachenland-Spielplatz",
                   "text": "Der Apachenland-Spielplatz in Baden Baden bietet Kindern ein spannendes Gelände zum Entdecken.",
                   "category": "family",
@@ -14378,15 +12389,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.24119,
                         48.763
-                  ]
-            },
-            {
-                  "name": "Löschwasserrückhaltung",
-                  "text": "A Baden Baden-i Löschwasserrückhaltung egy vízfelület, amely hozzájárul a táj képéhez.",
-                  "category": "natural",
-                  "coords": [
-                        8.341443,
-                        48.775973
                   ]
             },
             {
@@ -14833,15 +12835,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Löschwasserrückhaltung",
-                  "text": "Rezervorul de apă pentru incendii din Baden Baden este un corp de apă care contribuie la amenajarea peisajului.",
-                  "category": "natural",
-                  "coords": [
-                        8.341443,
-                        48.775973
-                  ]
-            },
-            {
                   "name": "Apachenland-Spielplatz",
                   "text": "Locul de joacă Apachenland din Baden Baden oferă copiilor un teren captivant de explorat.",
                   "category": "family",
@@ -15282,15 +13275,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         8.24119,
                         48.763
-                  ]
-            },
-            {
-                  "name": "Löschwasserrückhaltung",
-                  "text": "The fire water retention basin in Baden Baden is a body of water that contributes to the landscape design.",
-                  "category": "natural",
-                  "coords": [
-                        8.341443,
-                        48.775973
                   ]
             },
             {
@@ -16332,15 +14316,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rheinufer Monheim",
-                  "text": "Das Rheinufer bei Monheim ist ein wichtiges Naherholungsgebiet mit geschützten Uferzonen und Auenflächen.",
-                  "category": "natural",
-                  "coords": [
-                        6.867089,
-                        51.087742
-                  ]
-            },
-            {
                   "name": "Pfefferbüchse",
                   "text": "Die Pfefferbüchse ist ein markanter historischer Wachturm der mittelalterlichen Stadtbefestigung von Zons.",
                   "category": "tower",
@@ -16359,75 +14334,12 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hitdorfer See",
-                  "text": "Hitdorfer See bei Speyer, ein See für Wassersport und Erholung.",
-                  "category": "natural",
-                  "coords": [
-                        6.930828,
-                        51.072811
-                  ]
-            },
-            {
-                  "name": "Stöckenbergsee",
-                  "text": "Ein ruhiger See in Dormagen, ideal für Erholungssuchende in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        6.935772,
-                        51.069887
-                  ]
-            },
-            {
-                  "name": "Blaue Donau",
-                  "text": "Dieses Gewässer in Dormagen bietet eine malerische Kulisse für Naturliebhaber.",
-                  "category": "natural",
-                  "coords": [
-                        6.932302,
-                        51.078762
-                  ]
-            },
-            {
-                  "name": "Schlupkotensee",
-                  "text": "Ein See in der Umgebung von Dormagen, der zu einer kleinen Auszeit im Grünen einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        6.897229,
-                        51.158394
-                  ]
-            },
-            {
-                  "name": "Hasselrather See",
-                  "text": "Ein lokaler See in Dormagen, der eine entspannte Atmosphäre am Wasser bietet.",
-                  "category": "natural",
-                  "coords": [
-                        6.800073,
-                        51.035762
-                  ]
-            },
-            {
                   "name": "Straberg-Nievenheimer See",
                   "text": "Ein bekannter See in Dormagen, der Möglichkeiten zur Freizeitgestaltung in der Natur bietet.",
                   "category": "natural",
                   "coords": [
                         6.781309,
                         51.102038
-                  ]
-            },
-            {
-                  "name": "Am Blankenwasser",
-                  "text": "Ein See bei Dormagen, der sich durch seine ruhige Lage auszeichnet.",
-                  "category": "natural",
-                  "coords": [
-                        6.765147,
-                        51.159795
-                  ]
-            },
-            {
-                  "name": "Buschbergsee",
-                  "text": "Dieses Gewässer in Dormagen ist ein Ziel für Spaziergänger und Erholungssuchende.",
-                  "category": "natural",
-                  "coords": [
-                        6.915071,
-                        51.072381
                   ]
             },
             {
@@ -16505,15 +14417,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rheinufer Monheim",
-                  "text": "A Monheim melletti Rajna-part fontos pihenőhely védett parti zónákkal és ártéri területekkel.",
-                  "category": "natural",
-                  "coords": [
-                        6.867089,
-                        51.087742
-                  ]
-            },
-            {
                   "name": "Pfefferbüchse",
                   "text": "A Pfefferbüchse (Borsszóró) a zonsi középkori városfal egyik jellegzetes történelmi őrtornya.",
                   "category": "tower",
@@ -16532,75 +14435,12 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hitdorfer See",
-                  "text": "Hitdorfer See Speyer közelében, vízi sportokhoz és pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        6.930828,
-                        51.072811
-                  ]
-            },
-            {
-                  "name": "Stöckenbergsee",
-                  "text": "Csendes tó Dormagenben, ideális a természetben pihenni vágyóknak.",
-                  "category": "natural",
-                  "coords": [
-                        6.935772,
-                        51.069887
-                  ]
-            },
-            {
-                  "name": "Blaue Donau",
-                  "text": "Ez a dormageni vízfelület festői környezetet kínál a természet szerelmeseinek.",
-                  "category": "natural",
-                  "coords": [
-                        6.932302,
-                        51.078762
-                  ]
-            },
-            {
-                  "name": "Schlupkotensee",
-                  "text": "Dormagen környéki tó, amely egy kis zöldövezeti kikapcsolódásra hív.",
-                  "category": "natural",
-                  "coords": [
-                        6.897229,
-                        51.158394
-                  ]
-            },
-            {
-                  "name": "Hasselrather See",
-                  "text": "Egy helyi tó Dormagenben, amely pihentető hangulatot áraszt a vízparton.",
-                  "category": "natural",
-                  "coords": [
-                        6.800073,
-                        51.035762
-                  ]
-            },
-            {
                   "name": "Straberg-Nievenheimer See",
                   "text": "Ismert tó Dormagenben, amely szabadidős lehetőségeket kínál a természetben.",
                   "category": "natural",
                   "coords": [
                         6.781309,
                         51.102038
-                  ]
-            },
-            {
-                  "name": "Am Blankenwasser",
-                  "text": "Dormagen közeli tó, amelyet csendes elhelyezkedése jellemez.",
-                  "category": "natural",
-                  "coords": [
-                        6.765147,
-                        51.159795
-                  ]
-            },
-            {
-                  "name": "Buschbergsee",
-                  "text": "Ez a dormageni vízfelület a sétálók és pihenni vágyók célpontja.",
-                  "category": "natural",
-                  "coords": [
-                        6.915071,
-                        51.072381
                   ]
             },
             {
@@ -16678,15 +14518,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rheinufer Monheim",
-                  "text": "Malul Rinului de la Monheim este o zonă importantă de recreere, cu zone de coastă protejate și lunci.",
-                  "category": "natural",
-                  "coords": [
-                        6.867089,
-                        51.087742
-                  ]
-            },
-            {
                   "name": "Pfefferbüchse",
                   "text": "Pfefferbüchse este un turn de veghe istoric marcant al fortificațiilor medievale ale orașului Zons.",
                   "category": "tower",
@@ -16705,75 +14536,12 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hitdorfer See",
-                  "text": "Hitdorfer See lângă Speyer, un lac pentru sporturi nautice și relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        6.930828,
-                        51.072811
-                  ]
-            },
-            {
-                  "name": "Stöckenbergsee",
-                  "text": "Un lac liniștit în Dormagen, ideal pentru cei care caută relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        6.935772,
-                        51.069887
-                  ]
-            },
-            {
-                  "name": "Blaue Donau",
-                  "text": "Această întindere de apă din Dormagen oferă un cadru pitoresc pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        6.932302,
-                        51.078762
-                  ]
-            },
-            {
-                  "name": "Schlupkotensee",
-                  "text": "Un lac în zona Dormagen, care invită la o mică pauză în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        6.897229,
-                        51.158394
-                  ]
-            },
-            {
-                  "name": "Hasselrather See",
-                  "text": "Un lac local în Dormagen, care oferă o atmosferă relaxată lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        6.800073,
-                        51.035762
-                  ]
-            },
-            {
                   "name": "Straberg-Nievenheimer See",
                   "text": "Un lac cunoscut în Dormagen, care oferă posibilități de petrecere a timpului liber în natură.",
                   "category": "natural",
                   "coords": [
                         6.781309,
                         51.102038
-                  ]
-            },
-            {
-                  "name": "Am Blankenwasser",
-                  "text": "Un lac lângă Dormagen, caracterizat prin locația sa liniștită.",
-                  "category": "natural",
-                  "coords": [
-                        6.765147,
-                        51.159795
-                  ]
-            },
-            {
-                  "name": "Buschbergsee",
-                  "text": "Această întindere de apă din Dormagen este o destinație pentru plimbări și relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        6.915071,
-                        51.072381
                   ]
             },
             {
@@ -16851,15 +14619,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rheinufer Monheim",
-                  "text": "The Rhine riverbank at Monheim is an important recreation area with protected shore zones and floodplains.",
-                  "category": "natural",
-                  "coords": [
-                        6.867089,
-                        51.087742
-                  ]
-            },
-            {
                   "name": "Pfefferbüchse",
                   "text": "The Pfefferbüchse is a striking historical watchtower of the medieval city fortifications of Zons.",
                   "category": "tower",
@@ -16878,75 +14637,12 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hitdorfer See",
-                  "text": "Hitdorfer See near Speyer, a lake for water sports and relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        6.930828,
-                        51.072811
-                  ]
-            },
-            {
-                  "name": "Stöckenbergsee",
-                  "text": "A quiet lake in Dormagen, ideal for those seeking relaxation in nature.",
-                  "category": "natural",
-                  "coords": [
-                        6.935772,
-                        51.069887
-                  ]
-            },
-            {
-                  "name": "Blaue Donau",
-                  "text": "This body of water in Dormagen offers a scenic backdrop for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        6.932302,
-                        51.078762
-                  ]
-            },
-            {
-                  "name": "Schlupkotensee",
-                  "text": "A lake in the Dormagen area, inviting for a short break in the countryside.",
-                  "category": "natural",
-                  "coords": [
-                        6.897229,
-                        51.158394
-                  ]
-            },
-            {
-                  "name": "Hasselrather See",
-                  "text": "A local lake in Dormagen offering a relaxed atmosphere by the water.",
-                  "category": "natural",
-                  "coords": [
-                        6.800073,
-                        51.035762
-                  ]
-            },
-            {
                   "name": "Straberg-Nievenheimer See",
                   "text": "A well-known lake in Dormagen offering opportunities for leisure activities in nature.",
                   "category": "natural",
                   "coords": [
                         6.781309,
                         51.102038
-                  ]
-            },
-            {
-                  "name": "Am Blankenwasser",
-                  "text": "A lake near Dormagen characterized by its quiet location.",
-                  "category": "natural",
-                  "coords": [
-                        6.765147,
-                        51.159795
-                  ]
-            },
-            {
-                  "name": "Buschbergsee",
-                  "text": "This body of water in Dormagen is a destination for walkers and those seeking relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        6.915071,
-                        51.072381
                   ]
             },
             {
@@ -19413,24 +17109,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kettwiger Stausee",
-                  "text": "Ein Stausee bei Velbert, der als beliebtes Ausflugsziel in der Natur gilt.",
-                  "category": "natural",
-                  "coords": [
-                        6.944763,
-                        51.359614
-                  ]
-            },
-            {
-                  "name": "Mühlengraben",
-                  "text": "Ein ruhiges Gewässer in Velbert, ideal für Naturliebhaber und Spaziergänger.",
-                  "category": "natural",
-                  "coords": [
-                        6.937195,
-                        51.361879
-                  ]
-            },
-            {
                   "name": "Baldeneysee",
                   "text": "Ein großer See in der Nähe von Velbert, der vielfältige Möglichkeiten zur Erholung bietet.",
                   "category": "natural",
@@ -19673,24 +17351,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.989668,
                         51.338711
-                  ]
-            },
-            {
-                  "name": "Kettwiger Stausee",
-                  "text": "Velbert közeli víztározó, amely népszerű kirándulóhely a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        6.944763,
-                        51.359614
-                  ]
-            },
-            {
-                  "name": "Mühlengraben",
-                  "text": "Csendes vízfelület Velbertben, ideális a természet kedvelőinek és a sétálóknak.",
-                  "category": "natural",
-                  "coords": [
-                        6.937195,
-                        51.361879
                   ]
             },
             {
@@ -19939,24 +17599,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kettwiger Stausee",
-                  "text": "Un lac de acumulare lângă Velbert, considerat o destinație populară de excursie în natură.",
-                  "category": "natural",
-                  "coords": [
-                        6.944763,
-                        51.359614
-                  ]
-            },
-            {
-                  "name": "Mühlengraben",
-                  "text": "O întindere de apă liniștită în Velbert, ideală pentru iubitorii de natură și plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        6.937195,
-                        51.361879
-                  ]
-            },
-            {
                   "name": "Baldeneysee",
                   "text": "Un lac mare lângă Velbert, care oferă diverse posibilități de relaxare.",
                   "category": "natural",
@@ -20199,24 +17841,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.989668,
                         51.338711
-                  ]
-            },
-            {
-                  "name": "Kettwiger Stausee",
-                  "text": "A reservoir near Velbert considered a popular excursion destination in nature.",
-                  "category": "natural",
-                  "coords": [
-                        6.944763,
-                        51.359614
-                  ]
-            },
-            {
-                  "name": "Mühlengraben",
-                  "text": "A quiet body of water in Velbert, ideal for nature lovers and walkers.",
-                  "category": "natural",
-                  "coords": [
-                        6.937195,
-                        51.361879
                   ]
             },
             {
@@ -20533,15 +18157,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jubachtalsperre",
-                  "text": "Die Jubachtalsperre bei Lüdenscheid ist ein idyllischer Stausee, ideal für Spaziergänge in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        7.612129,
-                        51.164136
-                  ]
-            },
-            {
                   "name": "Fürwiggetalsperre",
                   "text": "Die Fürwiggetalsperre bei Lüdenscheid bietet eine malerische Kulisse für erholsame Stunden am Wasser.",
                   "category": "natural",
@@ -20820,15 +18435,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.626829,
                         51.206885
-                  ]
-            },
-            {
-                  "name": "Jubachtalsperre",
-                  "text": "A Lüdenscheid közelében található Jubachtalsperre egy idilli víztározó, amely ideális természeti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        7.612129,
-                        51.164136
                   ]
             },
             {
@@ -21113,15 +18719,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jubachtalsperre",
-                  "text": "Lacul de acumulare Jubachtalsperre de lângă Lüdenscheid este un loc idilic, ideal pentru plimbări în natură.",
-                  "category": "natural",
-                  "coords": [
-                        7.612129,
-                        51.164136
-                  ]
-            },
-            {
                   "name": "Fürwiggetalsperre",
                   "text": "Lacul de acumulare Fürwiggetalsperre de lângă Lüdenscheid oferă un cadru pitoresc pentru ore relaxante lângă apă.",
                   "category": "natural",
@@ -21400,15 +18997,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         7.626829,
                         51.206885
-                  ]
-            },
-            {
-                  "name": "Jubachtalsperre",
-                  "text": "The Jubachtalsperre near Lüdenscheid is an idyllic reservoir, ideal for walks in nature.",
-                  "category": "natural",
-                  "coords": [
-                        7.612129,
-                        51.164136
                   ]
             },
             {
@@ -21743,15 +19331,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tenderingssee",
-                  "text": "Tenderingssee in Dinslaken, ein natürlicher Badesee mit Liegewiesen.",
-                  "category": "natural",
-                  "coords": [
-                        6.72144,
-                        51.597521
-                  ]
-            },
-            {
                   "name": "Hügelstraße",
                   "text": "Hügelstraße in Dinslaken, eine ansteigende Wohnstraße mit Gärten und Spielplätzen.",
                   "category": "family",
@@ -21994,15 +19573,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.782511,
                         51.569121
-                  ]
-            },
-            {
-                  "name": "Tenderingssee",
-                  "text": "Tenderingssee Dinslakenben, egy természetes fürdőtó napozórétrel.",
-                  "category": "natural",
-                  "coords": [
-                        6.72144,
-                        51.597521
                   ]
             },
             {
@@ -22251,15 +19821,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tenderingssee",
-                  "text": "Tenderingssee în Dinslaken, un lac natural de baie cu pajiști pentru plajă.",
-                  "category": "natural",
-                  "coords": [
-                        6.72144,
-                        51.597521
-                  ]
-            },
-            {
                   "name": "Hügelstraße",
                   "text": "Hügelstraße în Dinslaken, o stradă rezidențială în pantă cu grădini și locuri de joacă.",
                   "category": "family",
@@ -22505,15 +20066,6 @@ export const germanyCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tenderingssee",
-                  "text": "Tenderingssee in Dinslaken, a natural swimming lake with grassy banks.",
-                  "category": "natural",
-                  "coords": [
-                        6.72144,
-                        51.597521
-                  ]
-            },
-            {
                   "name": "Hügelstraße",
                   "text": "Hügelstraße in Dinslaken, a sloping residential street with gardens and playgrounds.",
                   "category": "family",
@@ -22746,15 +20298,6 @@ export const germanyCitiesV2: POI[] = [
     id: "germany-ratingen-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Fliedner-See",
-                  "text": "Fliedner-See in Ratingen, ein künstlich angelegter See mit Rundweg und Ruhebänken.",
-                  "category": "natural",
-                  "coords": [
-                        6.748828,
-                        51.294128
-                  ]
-            },
-            {
                   "name": "Lambertus-See",
                   "text": "Ein ruhiger See in Ratingen, ideal für eine Pause im Grünen.",
                   "category": "natural",
@@ -22806,15 +20349,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.768529,
                         51.356042
-                  ]
-            },
-            {
-                  "name": "Suitbertus-See",
-                  "text": "Ein lokaler See in Ratingen, ideal für einen kurzen Spaziergang am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        6.744318,
-                        51.294072
                   ]
             },
             {
@@ -22901,15 +20435,6 @@ export const germanyCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Fliedner-See",
-                  "text": "Fliedner-tó Ratingenben, egy mesterséges tó sétányokkal és pihenőpadokkal.",
-                  "category": "natural",
-                  "coords": [
-                        6.748828,
-                        51.294128
-                  ]
-            },
-            {
                   "name": "Lambertus-See",
                   "text": "Csendes tó Ratingenben, ideális egy zöldövezeti pihenőre.",
                   "category": "natural",
@@ -22961,15 +20486,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.768529,
                         51.356042
-                  ]
-            },
-            {
-                  "name": "Suitbertus-See",
-                  "text": "Helyi tó Ratingenben, ideális egy rövid vízparti sétára.",
-                  "category": "natural",
-                  "coords": [
-                        6.744318,
-                        51.294072
                   ]
             },
             {
@@ -23056,15 +20572,6 @@ export const germanyCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Fliedner-See",
-                  "text": "Fliedner-See în Ratingen, un lac artificial cu alee circulară și bănci.",
-                  "category": "natural",
-                  "coords": [
-                        6.748828,
-                        51.294128
-                  ]
-            },
-            {
                   "name": "Lambertus-See",
                   "text": "Un lac liniștit în Ratingen, ideal pentru o pauză în mijlocul naturii.",
                   "category": "natural",
@@ -23116,15 +20623,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.768529,
                         51.356042
-                  ]
-            },
-            {
-                  "name": "Suitbertus-See",
-                  "text": "Un lac local în Ratingen, ideal pentru o scurtă plimbare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        6.744318,
-                        51.294072
                   ]
             },
             {
@@ -23211,15 +20709,6 @@ export const germanyCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Fliedner-See",
-                  "text": "Fliedner-See in Ratingen, an artificial lake with a walking path and benches.",
-                  "category": "natural",
-                  "coords": [
-                        6.748828,
-                        51.294128
-                  ]
-            },
-            {
                   "name": "Lambertus-See",
                   "text": "A quiet lake in Ratingen, ideal for a break in the countryside.",
                   "category": "natural",
@@ -23271,15 +20760,6 @@ export const germanyCitiesV2: POI[] = [
                   "coords": [
                         6.768529,
                         51.356042
-                  ]
-            },
-            {
-                  "name": "Suitbertus-See",
-                  "text": "A local lake in Ratingen, ideal for a short walk by the water.",
-                  "category": "natural",
-                  "coords": [
-                        6.744318,
-                        51.294072
                   ]
             },
             {

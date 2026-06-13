@@ -2103,24 +2103,6 @@ imageHint: "Golte alpine garden and mountain peaks",
                   ]
             },
             {
-                  "name": "Raduha",
-                  "text": "Ein hoher Gipfel in den Steiner Alpen, bekannt für seine Kalksteinhänge und Höhlen.",
-                  "category": "landmark",
-                  "coords": [
-                        14.737693,
-                        46.409949
-                  ]
-            },
-            {
-                  "name": "Snežna jama",
-                  "text": "Eine hochgelegene Eishöhle im Gebiet Robanov Kot, bekannt für ihre permanenten Eisformationen.",
-                  "category": "landmark",
-                  "coords": [
-                        14.741699,
-                        46.397811
-                  ]
-            },
-            {
                   "name": "Water Mill",
                   "text": "Ein malerischer Aussichtspunkt mit Blick auf eine traditionelle Wassermühle im Park.",
                   "category": "natural",
@@ -2137,15 +2119,6 @@ imageHint: "Golte alpine garden and mountain peaks",
                         14.727548,
                         46.379916
                   ]
-            },
-            {
-                  "name": "Račka vrata",
-                  "text": "Felsformation in Robanov Kot, die an ein Ententor erinnert.",
-                  "category": "landmark",
-                  "coords": [
-                        14.728066,
-                        46.398651
-                  ]
             }
       ],
       "hu": [
@@ -2156,24 +2129,6 @@ imageHint: "Golte alpine garden and mountain peaks",
                   "coords": [
                         14.689597,
                         46.388022
-                  ]
-            },
-            {
-                  "name": "Raduha",
-                  "text": "Magas hegycsúcs a Kamniki-Alpokban, amely mészkőlejtőiről és barlangjairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        14.737693,
-                        46.409949
-                  ]
-            },
-            {
-                  "name": "Snežna jama",
-                  "text": "Magasan fekvő jégbarlang a Robanov Kot területén, amely állandó jégalakzatairól híres.",
-                  "category": "landmark",
-                  "coords": [
-                        14.741699,
-                        46.397811
                   ]
             },
             {
@@ -2193,15 +2148,6 @@ imageHint: "Golte alpine garden and mountain peaks",
                         14.727548,
                         46.379916
                   ]
-            },
-            {
-                  "name": "Račka vrata",
-                  "text": "Sziklaformáció Robanov Kotban, amely egy kacsakapuhoz hasonlít.",
-                  "category": "landmark",
-                  "coords": [
-                        14.728066,
-                        46.398651
-                  ]
             }
       ],
       "ro": [
@@ -2212,24 +2158,6 @@ imageHint: "Golte alpine garden and mountain peaks",
                   "coords": [
                         14.689597,
                         46.388022
-                  ]
-            },
-            {
-                  "name": "Raduha",
-                  "text": "Un vârf înalt din Alpii Kamnik-Savinja, cunoscut pentru versanții săi calcaroși și peșteri.",
-                  "category": "landmark",
-                  "coords": [
-                        14.737693,
-                        46.409949
-                  ]
-            },
-            {
-                  "name": "Snežna jama",
-                  "text": "O peșteră de gheață la mare altitudine în zona Robanov Kot, faimoasă pentru formațiunile sale de gheață permanente.",
-                  "category": "landmark",
-                  "coords": [
-                        14.741699,
-                        46.397811
                   ]
             },
             {
@@ -2249,15 +2177,6 @@ imageHint: "Golte alpine garden and mountain peaks",
                         14.727548,
                         46.379916
                   ]
-            },
-            {
-                  "name": "Račka vrata",
-                  "text": "Formațiune stâncoasă în Robanov Kot care amintește de o poartă de rață.",
-                  "category": "landmark",
-                  "coords": [
-                        14.728066,
-                        46.398651
-                  ]
             }
       ],
       "en": [
@@ -2268,24 +2187,6 @@ imageHint: "Golte alpine garden and mountain peaks",
                   "coords": [
                         14.689597,
                         46.388022
-                  ]
-            },
-            {
-                  "name": "Raduha",
-                  "text": "A high peak in the Kamnik-Savinja Alps, known for its limestone slopes and caves.",
-                  "category": "landmark",
-                  "coords": [
-                        14.737693,
-                        46.409949
-                  ]
-            },
-            {
-                  "name": "Snežna jama",
-                  "text": "A high-altitude ice cave in the Robanov Kot area, famous for its permanent ice formations.",
-                  "category": "landmark",
-                  "coords": [
-                        14.741699,
-                        46.397811
                   ]
             },
             {
@@ -2304,15 +2205,6 @@ imageHint: "Golte alpine garden and mountain peaks",
                   "coords": [
                         14.727548,
                         46.379916
-                  ]
-            },
-            {
-                  "name": "Račka vrata",
-                  "text": "Rock formation in Robanov Kot resembling a duck gate.",
-                  "category": "landmark",
-                  "coords": [
-                        14.728066,
-                        46.398651
                   ]
             }
       ]
@@ -2553,15 +2445,6 @@ imageHint: "Maribor City Park with ponds and old trees",
                   ]
             },
             {
-                  "name": "Sv. Marjeta",
-                  "text": "Überreste einer historischen Stätte im Naturpark bei Pivka.",
-                  "category": "historical",
-                  "coords": [
-                        14.270187,
-                        45.687621
-                  ]
-            },
-            {
                   "name": "Sv. Nikolaj",
                   "text": "Eine lokale Kirche im Gebiet des Pivka-Landschaftsparks.",
                   "category": "religious",
@@ -2588,15 +2471,6 @@ imageHint: "Maribor City Park with ponds and old trees",
                   "coords": [
                         14.221262,
                         45.668457
-                  ]
-            },
-            {
-                  "name": "Sv. Marjeta",
-                  "text": "Egy történelmi helyszín maradványai a Pivka melletti natúrparkban.",
-                  "category": "historical",
-                  "coords": [
-                        14.270187,
-                        45.687621
                   ]
             },
             {
@@ -2629,15 +2503,6 @@ imageHint: "Maribor City Park with ponds and old trees",
                   ]
             },
             {
-                  "name": "Sv. Marjeta",
-                  "text": "Rămășițele unui sit istoric în parcul natural de lângă Pivka.",
-                  "category": "historical",
-                  "coords": [
-                        14.270187,
-                        45.687621
-                  ]
-            },
-            {
                   "name": "Sv. Nikolaj",
                   "text": "O biserică locală în zona Parcului Peisajului Pivka.",
                   "category": "religious",
@@ -2664,15 +2529,6 @@ imageHint: "Maribor City Park with ponds and old trees",
                   "coords": [
                         14.221262,
                         45.668457
-                  ]
-            },
-            {
-                  "name": "Sv. Marjeta",
-                  "text": "Remains of a historical site in the nature park near Pivka.",
-                  "category": "historical",
-                  "coords": [
-                        14.270187,
-                        45.687621
                   ]
             },
             {
@@ -2949,15 +2805,6 @@ imageHint: "Mozirski gaj flower displays and traditional granary",
                   ]
             },
             {
-                  "name": "Gozdni rezervat Zapoden",
-                  "text": "Ein geschütztes Waldreservat im Gebiet Zapoden in der Nähe der Julischen Alpen.",
-                  "category": "natural",
-                  "coords": [
-                        13.700285,
-                        46.398007
-                  ]
-            },
-            {
                   "name": "Gozdni rezervat Kukla",
                   "text": "Dieses Naturschutzgebiet schützt die alpinen Waldökosysteme in der Region Kukla.",
                   "category": "natural",
@@ -2967,48 +2814,12 @@ imageHint: "Mozirski gaj flower displays and traditional granary",
                   ]
             },
             {
-                  "name": "Prisank",
-                  "text": "Ein markanter Berggipfel in den Julischen Alpen, bekannt für sein natürliches Felsenfenster.",
-                  "category": "landmark",
-                  "coords": [
-                        13.769714,
-                        46.4247
-                  ]
-            },
-            {
-                  "name": "Vršič",
-                  "text": "Ein Berggipfel in der Nähe des höchsten Straßenpasses Sloweniens in den Julischen Alpen.",
-                  "category": "landmark",
-                  "coords": [
-                        13.746647,
-                        46.4341
-                  ]
-            },
-            {
                   "name": "Goličica",
                   "text": "Ein Alpengipfel in den Julischen Alpen mit Panoramablick auf das Trenta-Tal.",
                   "category": "landmark",
                   "coords": [
                         13.77075,
                         46.399804
-                  ]
-            },
-            {
-                  "name": "Planja",
-                  "text": "Ein hoher Gipfel in den Julischen Alpen, der über dem Trenta-Tal liegt.",
-                  "category": "landmark",
-                  "coords": [
-                        13.787427,
-                        46.407075
-                  ]
-            },
-            {
-                  "name": "Travnik",
-                  "text": "Ein alpiner Berggipfel in den Julischen Alpen in Slowenien.",
-                  "category": "landmark",
-                  "coords": [
-                        13.712974,
-                        46.428968
                   ]
             }
       ],
@@ -3023,15 +2834,6 @@ imageHint: "Mozirski gaj flower displays and traditional granary",
                   ]
             },
             {
-                  "name": "Gozdni rezervat Zapoden",
-                  "text": "Egy védett erdőrezervátum a Zapoden területén, a Júliai-Alpok közelében.",
-                  "category": "natural",
-                  "coords": [
-                        13.700285,
-                        46.398007
-                  ]
-            },
-            {
                   "name": "Gozdni rezervat Kukla",
                   "text": "Ez a természetvédelmi terület a Kukla régió alpesi erdőinek ökoszisztémáját védi.",
                   "category": "natural",
@@ -3041,48 +2843,12 @@ imageHint: "Mozirski gaj flower displays and traditional granary",
                   ]
             },
             {
-                  "name": "Prisank",
-                  "text": "A Júliai-Alpok egyik kiemelkedő csúcsa, amely természetes sziklaablakáról és drámai északi faláról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        13.769714,
-                        46.4247
-                  ]
-            },
-            {
-                  "name": "Vršič",
-                  "text": "Egy hegycsúcs Szlovénia legmagasabb hágójának közelében, a Júliai-Alpokban.",
-                  "category": "landmark",
-                  "coords": [
-                        13.746647,
-                        46.4341
-                  ]
-            },
-            {
                   "name": "Goličica",
                   "text": "Alpesi csúcs a Júliai-Alpokban, amely panorámás kilátást nyújt a Trenta-völgyre.",
                   "category": "landmark",
                   "coords": [
                         13.77075,
                         46.399804
-                  ]
-            },
-            {
-                  "name": "Planja",
-                  "text": "Magas csúcs a Júliai-Alpokban, amely a Trenta-völgy felett helyezkedik el.",
-                  "category": "landmark",
-                  "coords": [
-                        13.787427,
-                        46.407075
-                  ]
-            },
-            {
-                  "name": "Travnik",
-                  "text": "Alpesi hegycsúcs a szlovéniai Júliai-Alpokban.",
-                  "category": "landmark",
-                  "coords": [
-                        13.712974,
-                        46.428968
                   ]
             }
       ],
@@ -3097,15 +2863,6 @@ imageHint: "Mozirski gaj flower displays and traditional granary",
                   ]
             },
             {
-                  "name": "Gozdni rezervat Zapoden",
-                  "text": "O rezervație forestieră protejată situată în zona Zapoden, lângă Alpii Iulieni.",
-                  "category": "natural",
-                  "coords": [
-                        13.700285,
-                        46.398007
-                  ]
-            },
-            {
                   "name": "Gozdni rezervat Kukla",
                   "text": "Această rezervație naturală protejează ecosistemele forestiere alpine din regiunea Kukla.",
                   "category": "natural",
@@ -3115,48 +2872,12 @@ imageHint: "Mozirski gaj flower displays and traditional granary",
                   ]
             },
             {
-                  "name": "Prisank",
-                  "text": "Un vârf montan proeminent din Alpii Iulieni, cunoscut pentru fereastra sa naturală de piatră și peretele nordic spectaculos.",
-                  "category": "landmark",
-                  "coords": [
-                        13.769714,
-                        46.4247
-                  ]
-            },
-            {
-                  "name": "Vršič",
-                  "text": "Un vârf montan situat lângă cea mai înaltă trecătoare rutieră din Slovenia, în Alpii Iulieni.",
-                  "category": "landmark",
-                  "coords": [
-                        13.746647,
-                        46.4341
-                  ]
-            },
-            {
                   "name": "Goličica",
                   "text": "Un vârf alpin din Alpii Iulieni care oferă vederi panoramice asupra Văii Trenta.",
                   "category": "landmark",
                   "coords": [
                         13.77075,
                         46.399804
-                  ]
-            },
-            {
-                  "name": "Planja",
-                  "text": "Un vârf înalt din Alpii Iulieni situat deasupra Văii Trenta.",
-                  "category": "landmark",
-                  "coords": [
-                        13.787427,
-                        46.407075
-                  ]
-            },
-            {
-                  "name": "Travnik",
-                  "text": "Un vârf montan alpin situat în Alpii Iulieni din Slovenia.",
-                  "category": "landmark",
-                  "coords": [
-                        13.712974,
-                        46.428968
                   ]
             }
       ],
@@ -3171,15 +2892,6 @@ imageHint: "Mozirski gaj flower displays and traditional granary",
                   ]
             },
             {
-                  "name": "Gozdni rezervat Zapoden",
-                  "text": "A protected forest reserve located in the Zapoden area near the Julian Alps.",
-                  "category": "natural",
-                  "coords": [
-                        13.700285,
-                        46.398007
-                  ]
-            },
-            {
                   "name": "Gozdni rezervat Kukla",
                   "text": "This nature reserve protects the alpine forest ecosystems in the Kukla region.",
                   "category": "natural",
@@ -3189,48 +2901,12 @@ imageHint: "Mozirski gaj flower displays and traditional granary",
                   ]
             },
             {
-                  "name": "Prisojnik",
-                  "text": "A prominent mountain peak in the Julian Alps known for its natural stone window and dramatic north face.",
-                  "category": "landmark",
-                  "coords": [
-                        13.769714,
-                        46.4247
-                  ]
-            },
-            {
-                  "name": "Vršič",
-                  "text": "A mountain peak located near Slovenia's highest road pass in the Julian Alps.",
-                  "category": "landmark",
-                  "coords": [
-                        13.746647,
-                        46.4341
-                  ]
-            },
-            {
                   "name": "Goličica",
                   "text": "An alpine peak in the Julian Alps offering panoramic views of the Trenta Valley.",
                   "category": "landmark",
                   "coords": [
                         13.77075,
                         46.399804
-                  ]
-            },
-            {
-                  "name": "Planja",
-                  "text": "A high peak in the Julian Alps situated above the Trenta Valley.",
-                  "category": "landmark",
-                  "coords": [
-                        13.787427,
-                        46.407075
-                  ]
-            },
-            {
-                  "name": "Travnik",
-                  "text": "An alpine mountain peak located in the Julian Alps of Slovenia.",
-                  "category": "landmark",
-                  "coords": [
-                        13.712974,
-                        46.428968
                   ]
             }
       ]
@@ -3444,15 +3120,6 @@ imageHint: "Lipica stud farm with white horses on pasture",
                   ]
             },
             {
-                  "name": "Krimberg",
-                  "text": "Ein markanter Berg südlich von Ljubljana, der die Iški-Vintgar-Schlucht überragt.",
-                  "category": "landmark",
-                  "coords": [
-                        14.471339,
-                        45.928546
-                  ]
-            },
-            {
                   "name": "Velika Pasica",
                   "text": "Eine Karsthöhle in der Iski Vintgar Schlucht.",
                   "category": "landmark",
@@ -3468,15 +3135,6 @@ imageHint: "Lipica stud farm with white horses on pasture",
                   "coords": [
                         14.527117,
                         45.893569
-                  ]
-            },
-            {
-                  "name": "Kamenica",
-                  "text": "Steinerne Felssäule in der Iski Vintgar-Schlucht.",
-                  "category": "landmark",
-                  "coords": [
-                        14.466509,
-                        45.901182
                   ]
             },
             {
@@ -3518,15 +3176,6 @@ imageHint: "Lipica stud farm with white horses on pasture",
                   ]
             },
             {
-                  "name": "Krim",
-                  "text": "Jellegzetes hegy Ljubljanától délre, az Iški Vintgar-szurdok felett.",
-                  "category": "landmark",
-                  "coords": [
-                        14.471339,
-                        45.928546
-                  ]
-            },
-            {
                   "name": "Velika Pasica",
                   "text": "Egy karsztbarlang az Iski Vintgar-szurdokban.",
                   "category": "landmark",
@@ -3542,15 +3191,6 @@ imageHint: "Lipica stud farm with white horses on pasture",
                   "coords": [
                         14.527117,
                         45.893569
-                  ]
-            },
-            {
-                  "name": "Kamenica",
-                  "text": "Kőoszlop-sziklaformáció az Iski Vintgar-szurdokban.",
-                  "category": "landmark",
-                  "coords": [
-                        14.466509,
-                        45.901182
                   ]
             },
             {
@@ -3592,15 +3232,6 @@ imageHint: "Lipica stud farm with white horses on pasture",
                   ]
             },
             {
-                  "name": "Krim",
-                  "text": "Un munte proeminent la sud de Ljubljana, care domină cheile Iški Vintgar.",
-                  "category": "landmark",
-                  "coords": [
-                        14.471339,
-                        45.928546
-                  ]
-            },
-            {
                   "name": "Velika Pasica",
                   "text": "O peșteră carstică în cheile Iski Vintgar.",
                   "category": "landmark",
@@ -3616,15 +3247,6 @@ imageHint: "Lipica stud farm with white horses on pasture",
                   "coords": [
                         14.527117,
                         45.893569
-                  ]
-            },
-            {
-                  "name": "Kamenica",
-                  "text": "Formațiune de stâncă în formă de coloană în cheile Iski Vintgar.",
-                  "category": "landmark",
-                  "coords": [
-                        14.466509,
-                        45.901182
                   ]
             },
             {
@@ -3666,15 +3288,6 @@ imageHint: "Lipica stud farm with white horses on pasture",
                   ]
             },
             {
-                  "name": "Mount Krim",
-                  "text": "A prominent mountain south of Ljubljana, overlooking the Iški Vintgar gorge.",
-                  "category": "landmark",
-                  "coords": [
-                        14.471339,
-                        45.928546
-                  ]
-            },
-            {
                   "name": "Velika Pasica",
                   "text": "A karst cave in the Iski Vintgar gorge.",
                   "category": "landmark",
@@ -3690,15 +3303,6 @@ imageHint: "Lipica stud farm with white horses on pasture",
                   "coords": [
                         14.527117,
                         45.893569
-                  ]
-            },
-            {
-                  "name": "Kamenica",
-                  "text": "Stone pillar rock formation in the Iski Vintgar gorge.",
-                  "category": "landmark",
-                  "coords": [
-                        14.466509,
-                        45.901182
                   ]
             },
             {

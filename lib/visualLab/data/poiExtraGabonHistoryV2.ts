@@ -794,15 +794,6 @@ export const poiExtraGabonHistoryV2: POI[] = [
     id: "lastour-memorial-history-v2", "sights": {
       "de": [
             {
-                  "name": "L'Ïle Fétiche",
-                  "text": "L'Ïle Fétiche ist eine kulturelle Inselattraktion, die für ihre traditionelle Bedeutung und lokale animistische Geschichte bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        12.727886,
-                        -0.80619
-                  ]
-            },
-            {
                   "name": "Paroisse Saint-Pierre Claver",
                   "text": "Die Paroisse Saint-Pierre Claver ist eine anerkannte historische Pfarrei, deren geschichtliche Wurzeln bis zu ihrer Gründung im Jahr 1883 zurückreichen.",
                   "category": "landmark",
@@ -813,15 +804,6 @@ export const poiExtraGabonHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "L'Ïle Fétiche",
-                  "text": "A L'Ïle Fétiche egy kulturális szigeti látványosság, amely hagyományos jelentőségéről és helyi animista történelméről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        12.727886,
-                        -0.80619
-                  ]
-            },
             {
                   "name": "Paroisse Saint-Pierre Claver",
                   "text": "A Paroisse Saint-Pierre Claver egy elismert örökségvédelmi plébánia, amelynek történelmi gyökerei az 1883-as alapításig nyúlnak vissza.",
@@ -834,15 +816,6 @@ export const poiExtraGabonHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "L'Ïle Fétiche",
-                  "text": "L'Ïle Fétiche este o atracție insulară culturală cunoscută pentru semnificația sa tradițională și istoria animistă locală.",
-                  "category": "landmark",
-                  "coords": [
-                        12.727886,
-                        -0.80619
-                  ]
-            },
-            {
                   "name": "Paroisse Saint-Pierre Claver",
                   "text": "Paroisse Saint-Pierre Claver este o parohie de patrimoniu recunoscută, ale cărei rădăcini istorice datează de la înființarea sa în 1883.",
                   "category": "landmark",
@@ -853,15 +826,6 @@ export const poiExtraGabonHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "L'Ïle Fétiche",
-                  "text": "L'Ïle Fétiche is a cultural island attraction known for its traditional significance and local animist history.",
-                  "category": "landmark",
-                  "coords": [
-                        12.727886,
-                        -0.80619
-                  ]
-            },
             {
                   "name": "Paroisse Saint-Pierre Claver",
                   "text": "The Paroisse Saint-Pierre Claver is a recognized heritage parish whose historical roots date back to its founding in 1883.",

@@ -4443,15 +4443,6 @@ export const switzerlandNatureV2: POI[] = [
     id: "switzerland-lac-de-cleuson-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Informationspavillon Grande Dixence",
-                  "text": "Ein Informationspavillon am Lac de Cleuson über die Staumauer Grande Dixence.",
-                  "category": "museum",
-                  "coords": [
-                        7.403638,
-                        46.084334
-                  ]
-            },
-            {
                   "name": "Rosablanche",
                   "text": "Rosablanche ist ein Gipfel über dem Lac de Cleuson.",
                   "category": "landmark",
@@ -4497,15 +4488,6 @@ export const switzerlandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Le Métailler",
-                  "text": "Le Métailler ist ein Gipfel über dem Lac de Cleuson.",
-                  "category": "landmark",
-                  "coords": [
-                        7.360348,
-                        46.103992
-                  ]
-            },
-            {
                   "name": "Lui des Chamois",
                   "text": "Lui des Chamois ist ein Gipfel im Gebiet des Lac de Cleuson.",
                   "category": "landmark",
@@ -4516,15 +4498,6 @@ export const switzerlandNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Pavillon d'information Grande Dixence",
-                  "text": "Információs pavilon a Cleuson-tónál a Grande Dixence gátról.",
-                  "category": "museum",
-                  "coords": [
-                        7.403638,
-                        46.084334
-                  ]
-            },
             {
                   "name": "Rosablanche",
                   "text": "A Rosablanche egy csúcs a Lac de Cleuson felett.",
@@ -4571,15 +4544,6 @@ export const switzerlandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Le Métailler",
-                  "text": "A Le Métailler egy csúcs a Lac de Cleuson felett.",
-                  "category": "landmark",
-                  "coords": [
-                        7.360348,
-                        46.103992
-                  ]
-            },
-            {
                   "name": "Lui des Chamois",
                   "text": "A Lui des Chamois egy csúcs a Lac de Cleuson környékén.",
                   "category": "landmark",
@@ -4590,15 +4554,6 @@ export const switzerlandNatureV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Pavillon d'information Grande Dixence",
-                  "text": "Un pavilion de informare la Lac de Cleuson despre barajul Grande Dixence.",
-                  "category": "museum",
-                  "coords": [
-                        7.403638,
-                        46.084334
-                  ]
-            },
             {
                   "name": "Rosablanche",
                   "text": "Rosablanche este un vârf deasupra Lacului de Cleuson.",
@@ -4645,15 +4600,6 @@ export const switzerlandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Le Métailler",
-                  "text": "Le Métailler este un vârf deasupra Lacului de Cleuson.",
-                  "category": "landmark",
-                  "coords": [
-                        7.360348,
-                        46.103992
-                  ]
-            },
-            {
                   "name": "Lui des Chamois",
                   "text": "Lui des Chamois este un vârf în zona Lacului de Cleuson.",
                   "category": "landmark",
@@ -4664,15 +4610,6 @@ export const switzerlandNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Pavillon d'information Grande Dixence",
-                  "text": "An information pavilion at Lac de Cleuson about the Grande Dixence dam.",
-                  "category": "museum",
-                  "coords": [
-                        7.403638,
-                        46.084334
-                  ]
-            },
             {
                   "name": "Rosablanche",
                   "text": "Rosablanche is a peak above Lac de Cleuson.",
@@ -4716,15 +4653,6 @@ export const switzerlandNatureV2: POI[] = [
                   "coords": [
                         7.366818,
                         46.035599
-                  ]
-            },
-            {
-                  "name": "Le Métailler",
-                  "text": "Le Métailler is a peak above Lac de Cleuson.",
-                  "category": "landmark",
-                  "coords": [
-                        7.360348,
-                        46.103992
                   ]
             },
             {

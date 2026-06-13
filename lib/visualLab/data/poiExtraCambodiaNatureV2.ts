@@ -1447,15 +1447,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kep Museum",
-                  "text": "Ein lokales Museum, das die Kulturgeschichte, Artefakte und das regionale Erbe von Kep präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        104.317063,
-                        10.486147
-                  ]
-            },
-            {
                   "name": "Historic Royal Residence & Gardens",
                   "text": "Die Überreste einer historischen königlichen Residenz mit verwilderten tropischen Gärten an der Küste von Kep.",
                   "category": "landmark",
@@ -1626,15 +1617,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
                   "coords": [
                         104.287457,
                         10.513165
-                  ]
-            },
-            {
-                  "name": "Kep Museum",
-                  "text": "A helyi múzeum bemutatja Kep kultúrtörténetét, műtárgyait és regionális örökségét.",
-                  "category": "museum",
-                  "coords": [
-                        104.317063,
-                        10.486147
                   ]
             },
             {
@@ -1811,15 +1793,6 @@ export const poiExtraCambodiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kep Museum",
-                  "text": "Un muzeu local care prezintă istoria culturală, artefactele și patrimoniul regional din Kep.",
-                  "category": "museum",
-                  "coords": [
-                        104.317063,
-                        10.486147
-                  ]
-            },
-            {
                   "name": "Historic Royal Residence & Gardens",
                   "text": "Rămășițele unei reședințe regale istorice cu grădini tropicale luxuriante, situată pe coasta din Kep.",
                   "category": "landmark",
@@ -1975,30 +1948,12 @@ export const poiExtraCambodiaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Independence Monument",
-                  "text": "The Independence Monument of Kep is a stone structure in the center, commemorating national sovereignty with traditional Khmer motifs.",
-                  "category": "historical",
-                  "coords": [
-                        104.315101,
-                        10.484296
-                  ]
-            },
-            {
                   "name": "Mangrove Forest",
                   "text": "A protected coastal mangrove ecosystem in Kep serving as an important habitat for local wildlife.",
                   "category": "landmark",
                   "coords": [
                         104.287457,
                         10.513165
-                  ]
-            },
-            {
-                  "name": "Kep Museum",
-                  "text": "A local museum showcasing the cultural history, artifacts, and regional heritage of Kep.",
-                  "category": "museum",
-                  "coords": [
-                        104.317063,
-                        10.486147
                   ]
             },
             {

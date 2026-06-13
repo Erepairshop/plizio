@@ -493,15 +493,6 @@ export const poiExtraAustriaIndustry: POI[] = [
                   ]
             },
             {
-                  "name": "Airparc",
-                  "text": "Ein Indoor-Actionpark bei Wattens mit Trampolinen und Freestyle-Sportanlagen.",
-                  "category": "landmark",
-                  "coords": [
-                        11.875526,
-                        47.289758
-                  ]
-            },
-            {
                   "name": "Verfallene Alm",
                   "text": "Die Ruinen einer ehemaligen Almhütte in den Bergen bei Stumm.",
                   "category": "historical",
@@ -511,39 +502,12 @@ export const poiExtraAustriaIndustry: POI[] = [
                   ]
             },
             {
-                  "name": "Labnerkapelle",
-                  "text": "Eine kleine Kapelle im Zillertal, die einen ruhigen Ort zum Innehalten bietet.",
-                  "category": "religious",
-                  "coords": [
-                        11.864734,
-                        47.290845
-                  ]
-            },
-            {
-                  "name": "Plunggenkapelle",
-                  "text": "Eine traditionelle Alpenkapelle an Wanderwegen in den Tiroler Bergen.",
-                  "category": "religious",
-                  "coords": [
-                        11.853699,
-                        47.317949
-                  ]
-            },
-            {
                   "name": "Freibad Fügen",
                   "text": "Ein beheiztes Freibad im Zillertal, das Erfrischung und Freizeitmöglichkeiten für die ganze Familie bietet.",
                   "category": "recreational",
                   "coords": [
                         11.856006,
                         47.337883
-                  ]
-            },
-            {
-                  "name": "Infinity Pool Alpine Family Resort Seetal",
-                  "text": "Dieser luxuriöse Infinity-Pool bietet einen spektakulären Blick auf die Tiroler Bergwelt.",
-                  "category": "recreational",
-                  "coords": [
-                        11.870585,
-                        47.290831
                   ]
             }
       ],
@@ -585,15 +549,6 @@ export const poiExtraAustriaIndustry: POI[] = [
                   ]
             },
             {
-                  "name": "Airparc",
-                  "text": "Fedett akciópark Wattens közelében, trambulinokkal és freestyle sportolási lehetőségekkel.",
-                  "category": "landmark",
-                  "coords": [
-                        11.875526,
-                        47.289758
-                  ]
-            },
-            {
                   "name": "Verfallene Alm",
                   "text": "Egy egykori alpesi legelő épületének romjai a Stumm melletti hegyekben.",
                   "category": "historical",
@@ -603,39 +558,12 @@ export const poiExtraAustriaIndustry: POI[] = [
                   ]
             },
             {
-                  "name": "Labnerkapelle",
-                  "text": "Kis kápolna a Ziller-völgyben, amely csendes helyet kínál az elmélyüléshez.",
-                  "category": "religious",
-                  "coords": [
-                        11.864734,
-                        47.290845
-                  ]
-            },
-            {
-                  "name": "Plunggenkapelle",
-                  "text": "Hagyományos alpesi kápolna a tiroli hegyek túraútvonalai mentén.",
-                  "category": "religious",
-                  "coords": [
-                        11.853699,
-                        47.317949
-                  ]
-            },
-            {
                   "name": "Freibad Fügen",
                   "text": "Fűtött szabadtéri strand a Zillertal-völgyben, amely felfrissülést és kikapcsolódást kínál az egész családnak.",
                   "category": "recreational",
                   "coords": [
                         11.856006,
                         47.337883
-                  ]
-            },
-            {
-                  "name": "Infinity Pool Alpine Family Resort Seetal",
-                  "text": "Ez a fényűző feszített víztükrű medence látványos kilátást nyújt a tiroli hegyekre.",
-                  "category": "recreational",
-                  "coords": [
-                        11.870585,
-                        47.290831
                   ]
             }
       ],
@@ -677,15 +605,6 @@ export const poiExtraAustriaIndustry: POI[] = [
                   ]
             },
             {
-                  "name": "Airparc",
-                  "text": "Un parc de acțiune interior lângă Wattens, cu trambuline și facilități pentru sporturi freestyle.",
-                  "category": "landmark",
-                  "coords": [
-                        11.875526,
-                        47.289758
-                  ]
-            },
-            {
                   "name": "Verfallene Alm",
                   "text": "Ruinele unei foste clădiri de pășune alpină situate în munții de lângă Stumm.",
                   "category": "historical",
@@ -695,39 +614,12 @@ export const poiExtraAustriaIndustry: POI[] = [
                   ]
             },
             {
-                  "name": "Labnerkapelle",
-                  "text": "O mică capelă în regiunea Zillertal, care oferă un loc liniștit pentru reflecție.",
-                  "category": "religious",
-                  "coords": [
-                        11.864734,
-                        47.290845
-                  ]
-            },
-            {
-                  "name": "Plunggenkapelle",
-                  "text": "O capelă alpină tradițională situată de-a lungul traseelor de drumeție din munții Tirolului.",
-                  "category": "religious",
-                  "coords": [
-                        11.853699,
-                        47.317949
-                  ]
-            },
-            {
                   "name": "Freibad Fügen",
                   "text": "O piscină în aer liber încălzită în valea Zillertal, care oferă răcorire și facilități de agrement pentru întreaga familie.",
                   "category": "recreational",
                   "coords": [
                         11.856006,
                         47.337883
-                  ]
-            },
-            {
-                  "name": "Infinity Pool Alpine Family Resort Seetal",
-                  "text": "Această piscină infinită de lux oferă o vedere spectaculoasă asupra munților tirolezi.",
-                  "category": "recreational",
-                  "coords": [
-                        11.870585,
-                        47.290831
                   ]
             }
       ],
@@ -769,15 +661,6 @@ export const poiExtraAustriaIndustry: POI[] = [
                   ]
             },
             {
-                  "name": "Airparc",
-                  "text": "An indoor action park near Wattens featuring trampolines and freestyle sports facilities.",
-                  "category": "landmark",
-                  "coords": [
-                        11.875526,
-                        47.289758
-                  ]
-            },
-            {
                   "name": "Verfallene Alm",
                   "text": "The ruins of a former alpine pasture building located in the mountains near Stumm.",
                   "category": "historical",
@@ -787,39 +670,12 @@ export const poiExtraAustriaIndustry: POI[] = [
                   ]
             },
             {
-                  "name": "Labnerkapelle",
-                  "text": "A small chapel in the Zillertal region providing a quiet place for reflection.",
-                  "category": "religious",
-                  "coords": [
-                        11.864734,
-                        47.290845
-                  ]
-            },
-            {
-                  "name": "Plunggenkapelle",
-                  "text": "A traditional alpine chapel located along hiking trails in the Tyrol mountains.",
-                  "category": "religious",
-                  "coords": [
-                        11.853699,
-                        47.317949
-                  ]
-            },
-            {
                   "name": "Freibad Fügen",
                   "text": "A heated outdoor pool in the Zillertal valley, offering refreshment and leisure facilities for the whole family.",
                   "category": "recreational",
                   "coords": [
                         11.856006,
                         47.337883
-                  ]
-            },
-            {
-                  "name": "Infinity Pool Alpine Family Resort Seetal",
-                  "text": "This luxurious infinity pool offers a spectacular view of the Tyrolean mountains.",
-                  "category": "recreational",
-                  "coords": [
-                        11.870585,
-                        47.290831
                   ]
             }
       ]
@@ -858,33 +714,6 @@ export const poiExtraAustriaIndustry: POI[] = [
   {
     id: "industry-zillertal-bier-extra", "sights": {
       "de": [
-            {
-                  "name": "Schloss Stumm",
-                  "text": "Ein Schloss im Renaissancestil in Stumm, das als historisches Wahrzeichen im Zillertal dient.",
-                  "category": "castle",
-                  "coords": [
-                        11.887509,
-                        47.291238
-                  ]
-            },
-            {
-                  "name": "Steudltenn",
-                  "text": "Ein einzigartiges Kulturzentrum und Theater in einer historischen Scheune in Stumm.",
-                  "category": "cultural",
-                  "coords": [
-                        11.863571,
-                        47.324945
-                  ]
-            },
-            {
-                  "name": "Badewelt Stumm",
-                  "text": "Ein Freizeit- und Wasserpark in Stumm mit Bade- und Erholungsmöglichkeiten.",
-                  "category": "recreational",
-                  "coords": [
-                        11.889255,
-                        47.289541
-                  ]
-            },
             {
                   "name": "Ausblick",
                   "text": "Ein Aussichtspunkt bei Stumm mit Panorama über das Zillertal.",
@@ -942,33 +771,6 @@ export const poiExtraAustriaIndustry: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Schloss Stumm",
-                  "text": "Reneszánsz stílusú kastély Stummban, amely a Zillertal történelmi nevezetessége.",
-                  "category": "castle",
-                  "coords": [
-                        11.887509,
-                        47.291238
-                  ]
-            },
-            {
-                  "name": "Steudltenn",
-                  "text": "Egyedülálló kulturális központ és színház egy történelmi pajtában Stummban.",
-                  "category": "cultural",
-                  "coords": [
-                        11.863571,
-                        47.324945
-                  ]
-            },
-            {
-                  "name": "Badewelt Stumm",
-                  "text": "Szabadidő- és vízi park Stummban, amely úszási és kikapcsolódási lehetőségeket kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        11.889255,
-                        47.289541
-                  ]
-            },
-            {
                   "name": "Ausblick",
                   "text": "Kilátóhely Stumm környékén, amely panorámát nyújt a Zillertal-völgyre.",
                   "category": "natural",
@@ -1025,33 +827,6 @@ export const poiExtraAustriaIndustry: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Schloss Stumm",
-                  "text": "Un castel în stil renascentist din Stumm, un reper istoric în Valea Zillertal.",
-                  "category": "castle",
-                  "coords": [
-                        11.887509,
-                        47.291238
-                  ]
-            },
-            {
-                  "name": "Steudltenn",
-                  "text": "Un centru cultural și teatru unic, situat într-o șură istorică din Stumm.",
-                  "category": "cultural",
-                  "coords": [
-                        11.863571,
-                        47.324945
-                  ]
-            },
-            {
-                  "name": "Badewelt Stumm",
-                  "text": "Un parc acvatic și de agrement în Stumm, oferind facilități pentru înot și relaxare.",
-                  "category": "recreational",
-                  "coords": [
-                        11.889255,
-                        47.289541
-                  ]
-            },
-            {
                   "name": "Ausblick",
                   "text": "Un punct de observație în zona Stumm, oferind panorame asupra văii Zillertal.",
                   "category": "natural",
@@ -1107,33 +882,6 @@ export const poiExtraAustriaIndustry: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Schloss Stumm",
-                  "text": "A Renaissance-style castle in Stumm, serving as a historic landmark in the Zillertal.",
-                  "category": "castle",
-                  "coords": [
-                        11.887509,
-                        47.291238
-                  ]
-            },
-            {
-                  "name": "Steudltenn",
-                  "text": "A unique cultural centre and theatre located in a historic barn in Stumm.",
-                  "category": "cultural",
-                  "coords": [
-                        11.863571,
-                        47.324945
-                  ]
-            },
-            {
-                  "name": "Badewelt Stumm",
-                  "text": "A leisure and water park in Stumm offering swimming and relaxation facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        11.889255,
-                        47.289541
-                  ]
-            },
             {
                   "name": "Ausblick",
                   "text": "A scenic viewpoint in the Stumm area offering panoramas of the Zillertal valley.",

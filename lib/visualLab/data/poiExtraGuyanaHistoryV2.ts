@@ -1781,24 +1781,6 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
     id: "gy-enmore-martyrs-monument-history-v2", "sights": {
       "de": [
             {
-                  "name": "Start new",
-                  "text": "Dieser Aussichtspunkt bietet einen Blick auf das historische Gedenkgelände, das den Märtyrern von Enmore gewidmet ist.",
-                  "category": "natural",
-                  "coords": [
-                        -57.959835,
-                        6.742337
-                  ]
-            },
-            {
-                  "name": "Nootenzuil (Belfield) Sluice",
-                  "text": "Dieser Aussichtspunkt blickt auf das Schleusentor von Belfield, ein wichtiges Wasserbauwerk an der Küste von Guyana.",
-                  "category": "natural",
-                  "coords": [
-                        -57.961752,
-                        6.750276
-                  ]
-            },
-            {
                   "name": "Victoria SDA Church",
                   "text": "Diese Kirche der Siebenten-Tags-Adventisten im historischen Dorf Victoria ist ein zentraler Anlaufpunkt für die lokale christliche Gemeinde.",
                   "category": "landmark",
@@ -1818,24 +1800,6 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
             }
       ],
       "hu": [
-            {
-                  "name": "Start new",
-                  "text": "Ez a kilátópont az Enmore-i mártíroknak szentelt történelmi emlékhelyre nyújt rálátást.",
-                  "category": "natural",
-                  "coords": [
-                        -57.959835,
-                        6.742337
-                  ]
-            },
-            {
-                  "name": "Nootenzuil (Belfield) Sluice",
-                  "text": "Ebből a kilátóból a belfieldi zsilipkapura, a guyanai partvidék fontos vízügyi építményére nyílik rálátás.",
-                  "category": "natural",
-                  "coords": [
-                        -57.961752,
-                        6.750276
-                  ]
-            },
             {
                   "name": "Victoria SDA Church",
                   "text": "A történelmi Victoria faluban található hetednapi adventista templom a helyi keresztény közösség gyújtópontja.",
@@ -1857,24 +1821,6 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
       ],
       "ro": [
             {
-                  "name": "Start new",
-                  "text": "Acest punct de belvedere oferă o perspectivă asupra terenurilor comemorative istorice dedicate martirilor din Enmore.",
-                  "category": "natural",
-                  "coords": [
-                        -57.959835,
-                        6.742337
-                  ]
-            },
-            {
-                  "name": "Nootenzuil (Belfield) Sluice",
-                  "text": "Acest punct de belvedere are vedere la poarta ecluzei Belfield, o structură importantă de gestionare a apelor de pe coasta Guyanei.",
-                  "category": "natural",
-                  "coords": [
-                        -57.961752,
-                        6.750276
-                  ]
-            },
-            {
                   "name": "Victoria SDA Church",
                   "text": "Deservind satul istoric Victoria, această biserică adventistă de ziua a șaptea este un punct central pentru comunitatea creștină locală.",
                   "category": "landmark",
@@ -1894,24 +1840,6 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
             }
       ],
       "en": [
-            {
-                  "name": "Start new",
-                  "text": "This viewpoint offers a perspective over the historical memorial grounds dedicated to the Enmore martyrs.",
-                  "category": "natural",
-                  "coords": [
-                        -57.959835,
-                        6.742337
-                  ]
-            },
-            {
-                  "name": "Nootenzuil (Belfield) Sluice",
-                  "text": "This viewpoint overlooks the Belfield sluice gate, an important water management structure on the Guyanese coast.",
-                  "category": "natural",
-                  "coords": [
-                        -57.961752,
-                        6.750276
-                  ]
-            },
             {
                   "name": "Victoria SDA Church",
                   "text": "Serving the historic village of Victoria, this Seventh-day Adventist church is a focal point for the local Christian community.",
@@ -1984,15 +1912,6 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
                   "coords": [
                         -58.060226,
                         6.806315
-                  ]
-            },
-            {
-                  "name": "Navo",
-                  "text": "Das Navo-Denkmal markiert ein lokales historisches Ereignis und ergänzt das Erbe des bekannten Schornsteins von Chateau Margot.",
-                  "category": "historical",
-                  "coords": [
-                        -58.017528,
-                        6.786932
                   ]
             },
             {
@@ -2169,15 +2088,6 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
                   ]
             },
             {
-                  "name": "Navo",
-                  "text": "A Navo-emlékmű egy helyi történelmi eseményt jelöl, kiegészítve a híres Chateau Margot kémény örökségét.",
-                  "category": "historical",
-                  "coords": [
-                        -58.017528,
-                        6.786932
-                  ]
-            },
-            {
                   "name": "LBI Masjid",
                   "text": "A La Bonne Intention faluban található LBI mecset a helyi iszlám közösség napi imáinak és spirituális összejöveteleinek ad otthont.",
                   "category": "landmark",
@@ -2351,15 +2261,6 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
                   ]
             },
             {
-                  "name": "Navo",
-                  "text": "Monumentul Navo marchează un eveniment istoric local, completând moștenirea celebrului coș de fum Chateau Margot.",
-                  "category": "historical",
-                  "coords": [
-                        -58.017528,
-                        6.786932
-                  ]
-            },
-            {
                   "name": "LBI Masjid",
                   "text": "Moscheea LBI din satul La Bonne Intention găzduiește rugăciunile zilnice și adunările spirituale ale comunității islamice locale.",
                   "category": "landmark",
@@ -2530,15 +2431,6 @@ export const poiExtraGuyanaHistoryV2: POI[] = [ {
                   "coords": [
                         -58.060226,
                         6.806315
-                  ]
-            },
-            {
-                  "name": "Navo",
-                  "text": "The Navo monument marks a local historical event, complementing the heritage of the well-known Chateau Margot chimney.",
-                  "category": "historical",
-                  "coords": [
-                        -58.017528,
-                        6.786932
                   ]
             },
             {

@@ -1865,42 +1865,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fayzulla Xo'jayev muzey uyi",
-                  "text": "Fayzulla-Chodschajew-Hausmuseum in Buchara.",
-                  "category": "museum",
-                  "coords": [
-                        64.412765,
-                        39.769386
-                  ]
-            },
-            {
-                  "name": "Bukhara Photo Gallery",
-                  "text": "Fotogalerie Buchara in Buchara.",
-                  "category": "museum",
-                  "coords": [
-                        64.416787,
-                        39.771872
-                  ]
-            },
-            {
-                  "name": "Blacksmith workshop and museum",
-                  "text": "Schmiedewerkstatt und Museum in Buchara.",
-                  "category": "museum",
-                  "coords": [
-                        64.417126,
-                        39.77426
-                  ]
-            },
-            {
-                  "name": "Living conditions of Student in Madrasa Museum",
-                  "text": "Museum über die Lebensbedingungen von Schülern in einer Medrese in Buchara.",
-                  "category": "museum",
-                  "coords": [
-                        64.420836,
-                        39.774133
-                  ]
-            },
-            {
                   "name": "Muzei istorii bukharskikh evreev",
                   "text": "Museum der bucharischen jüdischen Geschichte in Buchara.",
                   "category": "museum",
@@ -1919,129 +1883,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Drama teatri",
-                  "text": "Dramatheater in Buchara.",
-                  "category": "cultural",
-                  "coords": [
-                        64.43087,
-                        39.798423
-                  ]
-            },
-            {
-                  "name": "Amfiteatr",
-                  "text": "Amphitheater in Buchara.",
-                  "category": "cultural",
-                  "coords": [
-                        64.40185,
-                        39.775602
-                  ]
-            },
-            {
-                  "name": "Nuroniylar maskani",
-                  "text": "Nuroniylar-Maskani-Museum in Buchara.",
-                  "category": "museum",
-                  "coords": [
-                        64.403936,
-                        39.775021
-                  ]
-            },
-            {
-                  "name": "\"Shahriston\" arxeologiya hududi (Arxeologik park)",
-                  "text": "Archäologisches Gebiet Shahriston in Buchara.",
-                  "category": "historical",
-                  "coords": [
-                        64.413268,
-                        39.776791
-                  ]
-            },
-            {
-                  "name": "Kalon-Minarett",
-                  "text": "Das Kalon-Minarett ist ein 45,6 m hohes Minarett aus dem 12. Jahrhundert.",
-                  "category": "historical",
-                  "coords": [
-                        64.41501,
-                        39.775684
-                  ]
-            },
-            {
-                  "name": "Masjidi baland jom`e masjidi",
-                  "text": "Die Balyand-Moschee steht auf einer hohen Steinplattform.",
-                  "category": "landmark",
-                  "coords": [
-                        64.405038,
-                        39.771575
-                  ]
-            },
-            {
-                  "name": "Boloi Havz Kathedrale Moschee",
-                  "text": "Die Boloi-Havz-Moschee liegt neben einem großen Teich (Havz) in der Altstadt.",
-                  "category": "landmark",
-                  "coords": [
-                        64.407378,
-                        39.777747
-                  ]
-            },
-            {
-                  "name": "Namozgoh",
-                  "text": "Das Namozgoh ist eine offene Gebetsplattform für das Eid-Gebet außerhalb der Stadtmauern.",
-                  "category": "landmark",
-                  "coords": [
-                        64.412021,
-                        39.761717
-                  ]
-            },
-            {
-                  "name": "Zindon",
-                  "text": "Der Zindon ist ein historisches Gefängnis und eine Sehenswürdigkeit in der Stadt Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.413876,
-                        39.779177
-                  ]
-            },
-            {
-                  "name": "Xo'ja Zayniddin majmuasi",
-                  "text": "Xo'ja Zayniddin majmuasi ist ein historischer architektonischer Komplex und eine Sehenswürdigkeit in Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.412211,
-                        39.775024
-                  ]
-            },
-            {
-                  "name": "Shuxov minorasi",
-                  "text": "Der Schuchow-Wasserturm ist eine markante strukturelle Sehenswürdigkeit in der Stadt Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.408513,
-                        39.777947
-                  ]
-            },
-            {
                   "name": "Avlie Khodzha Chorshanbe",
                   "text": "Avliyo Khoja Chorshanbe ist eine lokale Sehenswürdigkeit in Buchara.",
                   "category": "landmark",
                   "coords": [
                         64.408318,
                         39.7733
-                  ]
-            },
-            {
-                  "name": "Minora",
-                  "text": "Minarett in Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.410535,
-                        39.785321
-                  ]
-            },
-            {
-                  "name": "Mogila Khazrat Said Abdulkhasan Pobanda",
-                  "text": "Das Grab von Hazrat Said Abdulhasan Pobanda ist eine anerkannte Sehenswürdigkeit in Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.419046,
-                        39.776061
                   ]
             },
             {
@@ -2063,24 +1910,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "To`Raqulboy Uyi",
-                  "text": "Haus von Turakulbay in Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.416064,
-                        39.775219
-                  ]
-            },
-            {
-                  "name": "\"Ustoz Shogird\" Bolalar Amaliy Sanʼat Markazi",
-                  "text": "Kinderzentrum für angewandte Künste ‚Ustoz Shogird‘ in Buchara.",
-                  "category": "cultural",
-                  "coords": [
-                        64.419041,
-                        39.771543
-                  ]
-            },
-            {
                   "name": "Yoshlar markazi",
                   "text": "Yoshlar markazi ist ein Jugendkunstzentrum in der Stadt Buchara.",
                   "category": "cultural",
@@ -2099,93 +1928,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samarqand Qal`a darvozasi",
-                  "text": "Das Festungstor Samarqand ist eine historische Sehenswürdigkeit in der Stadt Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.421022,
-                        39.783075
-                  ]
-            },
-            {
-                  "name": "Qorako'l Qal`a darvozasi",
-                  "text": "Das Festungstor Qorako'l ist eine architektonische Sehenswürdigkeit in Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.397513,
-                        39.764186
-                  ]
-            },
-            {
-                  "name": "Talipoch Qal`a Darvozasi",
-                  "text": "Das Festungstor Talipoch ist eine anerkannte historische Sehenswürdigkeit in Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.397466,
-                        39.778802
-                  ]
-            },
-            {
-                  "name": "Boboyi Poraduz",
-                  "text": "Boboyi Poraduz in Buchara.",
-                  "category": "historical",
-                  "coords": [
-                        64.418864,
-                        39.765564
-                  ]
-            },
-            {
-                  "name": "Ruiny ban",
-                  "text": "Diese Badehausruinen bieten einen Einblick in die alte Infrastruktur von Buchara.",
-                  "category": "historical",
-                  "coords": [
-                        64.417874,
-                        39.773249
-                  ]
-            },
-            {
-                  "name": "Imom Abu Hafs Kabir maqbarasi",
-                  "text": "Mausoleum von Imom Abu Hafs Kabir in Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.409515,
-                        39.786346
-                  ]
-            },
-            {
-                  "name": "Imom Qal`a darvozasi",
-                  "text": "Das Festungstor Imom ist eine historische Sehenswürdigkeit in der Stadt Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.411694,
-                        39.782299
-                  ]
-            },
-            {
-                  "name": "Khalifa Hudoidod Kathedrale Moschee",
-                  "text": "Die Kathedralmoschee Khalifa Hudoidod ist eine bedeutende Kultstätte und ein architektonischer Komplex in Buchara.",
-                  "category": "religious",
-                  "coords": [
-                        64.399974,
-                        39.76875
-                  ]
-            },
-            {
                   "name": "Khram Arkhistratiga Mikhaila",
                   "text": "Die Kirche des Erzengels Michael ist eine russisch-orthodoxe Kirche mit einer auffälligen blauen Kuppel in Buchara.",
                   "category": "religious",
                   "coords": [
                         64.433253,
                         39.771465
-                  ]
-            },
-            {
-                  "name": "Kanesoi Isoki Zambur sinagogasi",
-                  "text": "Die Ohel Itskhak Synagoge ist eine bemerkenswerte jüdische Kultstätte in Buchara.",
-                  "category": "religious",
-                  "coords": [
-                        64.415867,
-                        39.76867
                   ]
             }
       ],
@@ -2218,42 +1966,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fayzulla Xo'jayev muzey uyi",
-                  "text": "Fayzulla Khodjaev házmúzeum Buharában.",
-                  "category": "museum",
-                  "coords": [
-                        64.412765,
-                        39.769386
-                  ]
-            },
-            {
-                  "name": "Bukhara Photo Gallery",
-                  "text": "Bukhara Fotógaléria Buharában.",
-                  "category": "museum",
-                  "coords": [
-                        64.416787,
-                        39.771872
-                  ]
-            },
-            {
-                  "name": "Blacksmith workshop and museum",
-                  "text": "Kovácsműhely és múzeum Buharában.",
-                  "category": "museum",
-                  "coords": [
-                        64.417126,
-                        39.77426
-                  ]
-            },
-            {
-                  "name": "Living conditions of Student in Madrasa Museum",
-                  "text": "Múzeum a medresze diákok életkörülményeiről Buharában.",
-                  "category": "museum",
-                  "coords": [
-                        64.420836,
-                        39.774133
-                  ]
-            },
-            {
                   "name": "Muzei istorii bukharskikh evreev",
                   "text": "Buharai zsidó történeti múzeum Buharában.",
                   "category": "museum",
@@ -2272,129 +1984,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Drama teatri",
-                  "text": "Drámaszínház Buharában.",
-                  "category": "cultural",
-                  "coords": [
-                        64.43087,
-                        39.798423
-                  ]
-            },
-            {
-                  "name": "Amfiteatr",
-                  "text": "Amfiteátrum Buharában.",
-                  "category": "cultural",
-                  "coords": [
-                        64.40185,
-                        39.775602
-                  ]
-            },
-            {
-                  "name": "Nuroniylar maskani",
-                  "text": "Nuroniylar maskani múzeum Buharában.",
-                  "category": "museum",
-                  "coords": [
-                        64.403936,
-                        39.775021
-                  ]
-            },
-            {
-                  "name": "\"Shahriston\" arxeologiya hududi (Arxeologik park)",
-                  "text": "Shahriston régészeti terület Buharában.",
-                  "category": "historical",
-                  "coords": [
-                        64.413268,
-                        39.776791
-                  ]
-            },
-            {
-                  "name": "Minorai kalon. watchtower and lighthouse",
-                  "text": "A Kalon-minaret egy 45,6 méter magas, 12. századi minaret.",
-                  "category": "historical",
-                  "coords": [
-                        64.41501,
-                        39.775684
-                  ]
-            },
-            {
-                  "name": "Masjidi baland jom`e masjidi",
-                  "text": "A Balyand mecset egy magas kőemelvényen áll.",
-                  "category": "landmark",
-                  "coords": [
-                        64.405038,
-                        39.771575
-                  ]
-            },
-            {
-                  "name": "Boloi Havz jom`e masjidi",
-                  "text": "A Boloi Havz mecset egy nagy tó (havz) mellett áll a belvárosban.",
-                  "category": "landmark",
-                  "coords": [
-                        64.407378,
-                        39.777747
-                  ]
-            },
-            {
-                  "name": "Namozgoh",
-                  "text": "A Namozgoh egy nyitott imaplatform a városfalon kívül, az ünnepi imákhoz.",
-                  "category": "landmark",
-                  "coords": [
-                        64.412021,
-                        39.761717
-                  ]
-            },
-            {
-                  "name": "Zindon",
-                  "text": "A Zindon egy történelmi börtön és látványosság Buchara városában.",
-                  "category": "landmark",
-                  "coords": [
-                        64.413876,
-                        39.779177
-                  ]
-            },
-            {
-                  "name": "Xo'ja Zayniddin majmuasi",
-                  "text": "A Xo'ja Zayniddin majmuasi egy történelmi építészeti komplexum és látványosság Bucharában.",
-                  "category": "landmark",
-                  "coords": [
-                        64.412211,
-                        39.775024
-                  ]
-            },
-            {
-                  "name": "Shuxov minorasi",
-                  "text": "A Shukhov-víztorony egy jellegzetes építészeti látványosság Buchara városában.",
-                  "category": "landmark",
-                  "coords": [
-                        64.408513,
-                        39.777947
-                  ]
-            },
-            {
                   "name": "Avlie Khodzha Chorshanbe",
                   "text": "Az Avliyo Khoja Chorshanbe egy helyi látványosság Bucharában.",
                   "category": "landmark",
                   "coords": [
                         64.408318,
                         39.7733
-                  ]
-            },
-            {
-                  "name": "Minora",
-                  "text": "Minaret Buharában.",
-                  "category": "landmark",
-                  "coords": [
-                        64.410535,
-                        39.785321
-                  ]
-            },
-            {
-                  "name": "Mogila Khazrat Said Abdulkhasan Pobanda",
-                  "text": "A Hazrat Said Abdulhasan Pobanda sírja egy elismert látványosság Bucharában.",
-                  "category": "landmark",
-                  "coords": [
-                        64.419046,
-                        39.776061
                   ]
             },
             {
@@ -2416,24 +2011,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "To`Raqulboy Uyi",
-                  "text": "Turakulbay háza Buharában.",
-                  "category": "landmark",
-                  "coords": [
-                        64.416064,
-                        39.775219
-                  ]
-            },
-            {
-                  "name": "\"Ustoz Shogird\" Bolalar Amaliy Sanʼat Markazi",
-                  "text": "Ustoz Shogird Gyermek Iparművészeti Központ Buharában.",
-                  "category": "cultural",
-                  "coords": [
-                        64.419041,
-                        39.771543
-                  ]
-            },
-            {
                   "name": "Yoshlar markazi",
                   "text": "A Yoshlar markazi egy ifjúsági művészeti központ Buchara városában.",
                   "category": "cultural",
@@ -2452,93 +2029,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samarqand Qal`a darvozasi",
-                  "text": "A Szamarkand erődkapu egy történelmi látványosság Buchara városában.",
-                  "category": "landmark",
-                  "coords": [
-                        64.421022,
-                        39.783075
-                  ]
-            },
-            {
-                  "name": "Qorako'l Qal`a darvozasi",
-                  "text": "A Qorako'l erődkapu egy építészeti látványosság Bucharában.",
-                  "category": "landmark",
-                  "coords": [
-                        64.397513,
-                        39.764186
-                  ]
-            },
-            {
-                  "name": "Talipoch Qal`a Darvozasi",
-                  "text": "A Talipoch erődkapu egy elismert történelmi látványosság Bucharában.",
-                  "category": "landmark",
-                  "coords": [
-                        64.397466,
-                        39.778802
-                  ]
-            },
-            {
-                  "name": "Boboyi Poraduz",
-                  "text": "Boboyi Poraduz Buharában.",
-                  "category": "historical",
-                  "coords": [
-                        64.418864,
-                        39.765564
-                  ]
-            },
-            {
-                  "name": "Ruiny ban",
-                  "text": "Ezek a fürdőromok bepillantást engednek Buchara ősi infrastruktúrájába.",
-                  "category": "historical",
-                  "coords": [
-                        64.417874,
-                        39.773249
-                  ]
-            },
-            {
-                  "name": "Imom Abu Hafs Kabir maqbarasi",
-                  "text": "Imom Abu Hafs Kabir mauzóleuma Buharában.",
-                  "category": "landmark",
-                  "coords": [
-                        64.409515,
-                        39.786346
-                  ]
-            },
-            {
-                  "name": "Imom Qal`a darvozasi",
-                  "text": "Az Imom erődkapu egy történelmi látványosság Buchara városában.",
-                  "category": "landmark",
-                  "coords": [
-                        64.411694,
-                        39.782299
-                  ]
-            },
-            {
-                  "name": "Xalifa Xudoydod jom`e masjidi",
-                  "text": "A Khalifa Hudoidod katedrális mecset egy kiemelkedő istentiszteleti hely és építészeti komplexum Bucharában.",
-                  "category": "religious",
-                  "coords": [
-                        64.399974,
-                        39.76875
-                  ]
-            },
-            {
                   "name": "Khram Arkhistratiga Mikhaila",
                   "text": "Az Arkangyal Mihály-templom egy orosz ortodox templom feltűnő kék kupolával Buharában.",
                   "category": "religious",
                   "coords": [
                         64.433253,
                         39.771465
-                  ]
-            },
-            {
-                  "name": "Kanesoi Isoki Zambur sinagogasi",
-                  "text": "Az Ohel Itskhak zsinagóga egy figyelemre méltó zsidó istentiszteleti hely Bucharában.",
-                  "category": "religious",
-                  "coords": [
-                        64.415867,
-                        39.76867
                   ]
             }
       ],
@@ -2571,42 +2067,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fayzulla Xo'jayev muzey uyi",
-                  "text": "Casa-muzeu Fayzulla Khodjaev în Buhara.",
-                  "category": "museum",
-                  "coords": [
-                        64.412765,
-                        39.769386
-                  ]
-            },
-            {
-                  "name": "Bukhara Photo Gallery",
-                  "text": "Galerie Foto Bukhara în Buhara.",
-                  "category": "museum",
-                  "coords": [
-                        64.416787,
-                        39.771872
-                  ]
-            },
-            {
-                  "name": "Blacksmith workshop and museum",
-                  "text": "Atelier de fierărie și muzeu în Buhara.",
-                  "category": "museum",
-                  "coords": [
-                        64.417126,
-                        39.77426
-                  ]
-            },
-            {
-                  "name": "Living conditions of Student in Madrasa Museum",
-                  "text": "Muzeul condițiilor de viață ale studenților din medrese în Buhara.",
-                  "category": "museum",
-                  "coords": [
-                        64.420836,
-                        39.774133
-                  ]
-            },
-            {
                   "name": "Muzei istorii bukharskikh evreev",
                   "text": "Muzeul de Istorie Evreiască Bucureșteană în Buhara.",
                   "category": "museum",
@@ -2625,129 +2085,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Drama teatri",
-                  "text": "Teatrul Dramatic în Buhara.",
-                  "category": "cultural",
-                  "coords": [
-                        64.43087,
-                        39.798423
-                  ]
-            },
-            {
-                  "name": "Amfiteatr",
-                  "text": "Amfiteatru în Buhara.",
-                  "category": "cultural",
-                  "coords": [
-                        64.40185,
-                        39.775602
-                  ]
-            },
-            {
-                  "name": "Nuroniylar maskani",
-                  "text": "Muzeul Nuroniylar maskani în Buhara.",
-                  "category": "museum",
-                  "coords": [
-                        64.403936,
-                        39.775021
-                  ]
-            },
-            {
-                  "name": "\"Shahriston\" arxeologiya hududi (Arxeologik park)",
-                  "text": "Zona arheologică Shahriston în Buhara.",
-                  "category": "historical",
-                  "coords": [
-                        64.413268,
-                        39.776791
-                  ]
-            },
-            {
-                  "name": "Minorai kalon. watchtower and lighthouse",
-                  "text": "Minaretul Kalon este un minaret de 45,6 m înălțime din secolul al XII-lea.",
-                  "category": "historical",
-                  "coords": [
-                        64.41501,
-                        39.775684
-                  ]
-            },
-            {
-                  "name": "Masjidi baland jom`e masjidi",
-                  "text": "Moscheea Balyand este ridicată pe o platformă înaltă de piatră.",
-                  "category": "landmark",
-                  "coords": [
-                        64.405038,
-                        39.771575
-                  ]
-            },
-            {
-                  "name": "Boloi Havz jom`e masjidi",
-                  "text": "Moscheea Boloi Havz se află lângă un iaz mare (havz) în centrul vechi.",
-                  "category": "landmark",
-                  "coords": [
-                        64.407378,
-                        39.777747
-                  ]
-            },
-            {
-                  "name": "Namozgoh",
-                  "text": "Namozgoh este o platformă de rugăciune în aer liber pentru rugăciunile de Eid, în afara zidurilor orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        64.412021,
-                        39.761717
-                  ]
-            },
-            {
-                  "name": "Zindon",
-                  "text": "Zindon este o închisoare istorică și o atracție situată în orașul Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.413876,
-                        39.779177
-                  ]
-            },
-            {
-                  "name": "Xo'ja Zayniddin majmuasi",
-                  "text": "Xo'ja Zayniddin majmuasi este un complex arhitectural istoric și o atracție situată în Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.412211,
-                        39.775024
-                  ]
-            },
-            {
-                  "name": "Shuxov minorasi",
-                  "text": "Turnul de apă Shukhov este o atracție structurală distinctivă situată în orașul Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.408513,
-                        39.777947
-                  ]
-            },
-            {
                   "name": "Avlie Khodzha Chorshanbe",
                   "text": "Avliyo Khoja Chorshanbe este o atracție locală situată în Buchara.",
                   "category": "landmark",
                   "coords": [
                         64.408318,
                         39.7733
-                  ]
-            },
-            {
-                  "name": "Minora",
-                  "text": "Minaret în Buhara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.410535,
-                        39.785321
-                  ]
-            },
-            {
-                  "name": "Mogila Khazrat Said Abdulkhasan Pobanda",
-                  "text": "Mormântul lui Hazrat Said Abdulhasan Pobanda este o atracție recunoscută din Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.419046,
-                        39.776061
                   ]
             },
             {
@@ -2769,24 +2112,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "To`Raqulboy Uyi",
-                  "text": "Casa lui Turakulbay în Buhara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.416064,
-                        39.775219
-                  ]
-            },
-            {
-                  "name": "\"Ustoz Shogird\" Bolalar Amaliy Sanʼat Markazi",
-                  "text": "Centrul pentru Copii de Arte Aplicate „Ustoz Shogird” în Buhara.",
-                  "category": "cultural",
-                  "coords": [
-                        64.419041,
-                        39.771543
-                  ]
-            },
-            {
                   "name": "Yoshlar markazi",
                   "text": "Yoshlar markazi este un centru de artă pentru tineret situat în orașul Buchara.",
                   "category": "cultural",
@@ -2805,93 +2130,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samarqand Qal`a darvozasi",
-                  "text": "Poarta Cetății Samarqand este o atracție istorică în orașul Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.421022,
-                        39.783075
-                  ]
-            },
-            {
-                  "name": "Qorako'l Qal`a darvozasi",
-                  "text": "Poarta Cetății Qorako'l este o atracție arhitecturală situată în Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.397513,
-                        39.764186
-                  ]
-            },
-            {
-                  "name": "Talipoch Qal`a Darvozasi",
-                  "text": "Poarta Cetății Talipoch este o atracție istorică recunoscută din Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.397466,
-                        39.778802
-                  ]
-            },
-            {
-                  "name": "Boboyi Poraduz",
-                  "text": "Boboyi Poraduz în Buhara.",
-                  "category": "historical",
-                  "coords": [
-                        64.418864,
-                        39.765564
-                  ]
-            },
-            {
-                  "name": "Ruiny ban",
-                  "text": "Aceste ruine ale băilor oferă o privire asupra infrastructurii antice din Buchara.",
-                  "category": "historical",
-                  "coords": [
-                        64.417874,
-                        39.773249
-                  ]
-            },
-            {
-                  "name": "Imom Abu Hafs Kabir maqbarasi",
-                  "text": "Mausoleul lui Imom Abu Hafs Kabir în Buhara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.409515,
-                        39.786346
-                  ]
-            },
-            {
-                  "name": "Imom Qal`a darvozasi",
-                  "text": "Poarta Cetății Imom este o atracție istorică situată în orașul Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.411694,
-                        39.782299
-                  ]
-            },
-            {
-                  "name": "Xalifa Xudoydod jom`e masjidi",
-                  "text": "Moscheea Catedrală Khalifa Hudoidod este un lăcaș de cult proeminent și un complex arhitectural în Buchara.",
-                  "category": "religious",
-                  "coords": [
-                        64.399974,
-                        39.76875
-                  ]
-            },
-            {
                   "name": "Khram Arkhistratiga Mikhaila",
                   "text": "Biserica Arhanghelului Mihail este o biserică ortodoxă rusă cu o cupolă albastră distinctivă în Bukhara.",
                   "category": "religious",
                   "coords": [
                         64.433253,
                         39.771465
-                  ]
-            },
-            {
-                  "name": "Kanesoi Isoki Zambur sinagogasi",
-                  "text": "Sinagoga Ohel Itskhak este un lăcaș de cult evreiesc notabil situat în Buchara.",
-                  "category": "religious",
-                  "coords": [
-                        64.415867,
-                        39.76867
                   ]
             }
       ],
@@ -2924,42 +2168,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fayzulla Khodjaev house museum",
-                  "text": "Fayzulla Khodjaev house museum in Bukhara.",
-                  "category": "museum",
-                  "coords": [
-                        64.412765,
-                        39.769386
-                  ]
-            },
-            {
-                  "name": "Bukhara Photo Gallery",
-                  "text": "Bukhara Photo Gallery in Bukhara.",
-                  "category": "museum",
-                  "coords": [
-                        64.416787,
-                        39.771872
-                  ]
-            },
-            {
-                  "name": "Blacksmith workshop and museum",
-                  "text": "Blacksmith workshop and museum in Bukhara.",
-                  "category": "museum",
-                  "coords": [
-                        64.417126,
-                        39.77426
-                  ]
-            },
-            {
-                  "name": "Living conditions of Student in Madrasa Museum",
-                  "text": "Living conditions of Student in Madrasa Museum in Bukhara.",
-                  "category": "museum",
-                  "coords": [
-                        64.420836,
-                        39.774133
-                  ]
-            },
-            {
                   "name": "Museum of Bukharian Jewish History",
                   "text": "Museum of Bukharian Jewish History in Bukhara.",
                   "category": "museum",
@@ -2978,129 +2186,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Drama teatri",
-                  "text": "Drama theater in Bukhara.",
-                  "category": "cultural",
-                  "coords": [
-                        64.43087,
-                        39.798423
-                  ]
-            },
-            {
-                  "name": "Amfiteatr",
-                  "text": "Amphitheater in Bukhara.",
-                  "category": "cultural",
-                  "coords": [
-                        64.40185,
-                        39.775602
-                  ]
-            },
-            {
-                  "name": "Nuroniylar maskani",
-                  "text": "Nuroniylar maskani museum in Bukhara.",
-                  "category": "museum",
-                  "coords": [
-                        64.403936,
-                        39.775021
-                  ]
-            },
-            {
-                  "name": "Shahriston Archaological Area",
-                  "text": "Shahriston Archaeological Area in Bukhara.",
-                  "category": "historical",
-                  "coords": [
-                        64.413268,
-                        39.776791
-                  ]
-            },
-            {
-                  "name": "Kalan Minaret",
-                  "text": "The Kalan Minaret is a 45.6 m tall 12th-century minaret.",
-                  "category": "historical",
-                  "coords": [
-                        64.41501,
-                        39.775684
-                  ]
-            },
-            {
-                  "name": "Balyand Mosque",
-                  "text": "The Balyand Mosque stands on a high stone platform.",
-                  "category": "landmark",
-                  "coords": [
-                        64.405038,
-                        39.771575
-                  ]
-            },
-            {
-                  "name": "Boloi Havz Mosque",
-                  "text": "The Boloi Havz Mosque sits next to a large pond (havz) in the old town.",
-                  "category": "landmark",
-                  "coords": [
-                        64.407378,
-                        39.777747
-                  ]
-            },
-            {
-                  "name": "Namozgoh",
-                  "text": "The Namozgoh is an open-air prayer platform for Eid prayers outside the city walls.",
-                  "category": "landmark",
-                  "coords": [
-                        64.412021,
-                        39.761717
-                  ]
-            },
-            {
-                  "name": "Zindon",
-                  "text": "The Zindon is a historical prison and attraction located in the city of Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.413876,
-                        39.779177
-                  ]
-            },
-            {
-                  "name": "Xo'ja Zayniddin majmuasi",
-                  "text": "Xo'ja Zayniddin majmuasi is a historical architectural complex and attraction situated in Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.412211,
-                        39.775024
-                  ]
-            },
-            {
-                  "name": "Shukhov Water Tower",
-                  "text": "The Shukhov Water Tower is a distinctive structural attraction located in the city of Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.408513,
-                        39.777947
-                  ]
-            },
-            {
                   "name": "Avlie Khodzha Chorshanbe",
                   "text": "Avliyo Khoja Chorshanbe is a local attraction located in Buchara.",
                   "category": "landmark",
                   "coords": [
                         64.408318,
                         39.7733
-                  ]
-            },
-            {
-                  "name": "Minora",
-                  "text": "Minaret in Bukhara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.410535,
-                        39.785321
-                  ]
-            },
-            {
-                  "name": "Mogila Khazrat Said Abdulkhasan Pobanda",
-                  "text": "The Tomb of Hazrat Said Abdulhasan Pobanda is a recognized attraction in Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.419046,
-                        39.776061
                   ]
             },
             {
@@ -3122,24 +2213,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "House of Turakulbay",
-                  "text": "House of Turakulbay in Bukhara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.416064,
-                        39.775219
-                  ]
-            },
-            {
-                  "name": "\"Ustoz Shogird\" Children's Center for Applied Arts",
-                  "text": "Ustoz Shogird Children's Center for Applied Arts in Bukhara.",
-                  "category": "cultural",
-                  "coords": [
-                        64.419041,
-                        39.771543
-                  ]
-            },
-            {
                   "name": "Yoshlar markazi",
                   "text": "Yoshlar markazi is a youth arts centre located in the city of Buchara.",
                   "category": "cultural",
@@ -3158,93 +2231,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samarqand Qal`a darvozasi",
-                  "text": "The Samarqand Fortress Gate is a historical attraction in the city of Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.421022,
-                        39.783075
-                  ]
-            },
-            {
-                  "name": "Qorako'l Qal`a darvozasi",
-                  "text": "The Qorako'l Fortress Gate is an architectural attraction located in Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.397513,
-                        39.764186
-                  ]
-            },
-            {
-                  "name": "Talipoch Qal`a Darvozasi",
-                  "text": "The Talipoch Fortress Gate is a recognized historical attraction in Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.397466,
-                        39.778802
-                  ]
-            },
-            {
-                  "name": "Boboyi Poraduz",
-                  "text": "Boboyi Poraduz in Bukhara.",
-                  "category": "historical",
-                  "coords": [
-                        64.418864,
-                        39.765564
-                  ]
-            },
-            {
-                  "name": "Ruiny ban",
-                  "text": "These bathhouse ruins offer a glimpse into the ancient infrastructure of Buchara.",
-                  "category": "historical",
-                  "coords": [
-                        64.417874,
-                        39.773249
-                  ]
-            },
-            {
-                  "name": "Imom Abu Hafs Kabir maqbarasi",
-                  "text": "Imom Abu Hafs Kabir mausoleum in Bukhara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.409515,
-                        39.786346
-                  ]
-            },
-            {
-                  "name": "Imom Qal`a darvozasi",
-                  "text": "The Imom Fortress Gate is a historical attraction situated in the city of Buchara.",
-                  "category": "landmark",
-                  "coords": [
-                        64.411694,
-                        39.782299
-                  ]
-            },
-            {
-                  "name": "Khalifa Hudoidod Cathedral Mosque",
-                  "text": "The Khalifa Hudoidod Cathedral Mosque is a prominent place of worship and architectural complex in Buchara.",
-                  "category": "religious",
-                  "coords": [
-                        64.399974,
-                        39.76875
-                  ]
-            },
-            {
                   "name": "Church of Archangel Michael in Bukhara",
                   "text": "The Church of Archangel Michael is a Russian Orthodox church with a striking blue dome in Bukhara.",
                   "category": "religious",
                   "coords": [
                         64.433253,
                         39.771465
-                  ]
-            },
-            {
-                  "name": "Ohel Itskhak Synagogue",
-                  "text": "The Ohel Itskhak Synagogue is a notable Jewish place of worship located in Buchara.",
-                  "category": "religious",
-                  "coords": [
-                        64.415867,
-                        39.76867
                   ]
             }
       ]
@@ -3312,7 +2304,52 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "namangan-cities-v2", "sights": {"de": [{"name": "Otrytaya stsena", "text": "Eine Freilichtbühne für öffentliche Aufführungen in Namangan.", "category": "cultural", "coords": [71.671827, 41.002262]}, {"name": "Alisher Navoiy teatri", "text": "Ein lokales Theater in Namangan, benannt nach dem berühmten Dichter Alisher Navoiy.", "category": "cultural", "coords": [71.676387, 41.000786]}, {"name": "Mullah-Kirgis-Medrese", "text": "Eine historische islamische Schule und ein architektonisches Wahrzeichen in Namangan.", "category": "landmark", "coords": [71.681128, 41.002577]}, {"name": "Amin-Hodscha-Mausoleum", "text": "Ein traditionelles Mausoleum und eine religiöse Stätte in der Stadt Namangan.", "category": "landmark", "coords": [71.684394, 40.999128]}], "hu": [{"name": "Otrytaya stsena", "text": "Szabadtéri színpad nyilvános előadások számára Namanganban.", "category": "cultural", "coords": [71.671827, 41.002262]}, {"name": "Alisher Navoiy teatri", "text": "A híres költőről, Aliser Navoijról elnevezett helyi színház Namanganban.", "category": "cultural", "coords": [71.676387, 41.000786]}, {"name": "Mullah Kyrgyz Madrassa", "text": "Történelmi iszlám iskola és építészeti nevezetesség Namanganban.", "category": "landmark", "coords": [71.681128, 41.002577]}, {"name": "Xo'ja Amin maqbarasi", "text": "Hagyományos mauzóleum és vallási helyszín Namangan városában.", "category": "landmark", "coords": [71.684394, 40.999128]}], "ro": [{"name": "Otrytaya stsena", "text": "O scenă de teatru în aer liber pentru spectacole publice în Namangan.", "category": "cultural", "coords": [71.671827, 41.002262]}, {"name": "Alisher Navoiy teatri", "text": "Un teatru local numit după celebrul poet Alisher Navoiy în Namangan.", "category": "cultural", "coords": [71.676387, 41.000786]}, {"name": "Mullah Kyrgyz Madrassa", "text": "O școală islamică istorică și un reper arhitectural în Namangan.", "category": "landmark", "coords": [71.681128, 41.002577]}, {"name": "Xo'ja Amin maqbarasi", "text": "Un mausoleu tradițional și un sit religios în orașul Namangan.", "category": "landmark", "coords": [71.684394, 40.999128]}], "en": [{"name": "Otrytaya stsena", "text": "An open-air theater stage for public performances in Namangan.", "category": "cultural", "coords": [71.671827, 41.002262]}, {"name": "Alisher Navoiy teatri", "text": "A local theater named after the famous poet Alisher Navoiy in Namangan.", "category": "cultural", "coords": [71.676387, 41.000786]}, {"name": "Mullah Kyrgyz Madrassa", "text": "A historical Islamic school and architectural landmark in Namangan.", "category": "landmark", "coords": [71.681128, 41.002577]}, {"name": "Xo'ja Amin maqbarasi", "text": "A traditional mausoleum and religious site in the city of Namangan.", "category": "landmark", "coords": [71.684394, 40.999128]}]},
+    id: "namangan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Otrytaya stsena",
+                  "text": "Eine Freilichtbühne für öffentliche Aufführungen in Namangan.",
+                  "category": "cultural",
+                  "coords": [
+                        71.671827,
+                        41.002262
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Otrytaya stsena",
+                  "text": "Szabadtéri színpad nyilvános előadások számára Namanganban.",
+                  "category": "cultural",
+                  "coords": [
+                        71.671827,
+                        41.002262
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Otrytaya stsena",
+                  "text": "O scenă de teatru în aer liber pentru spectacole publice în Namangan.",
+                  "category": "cultural",
+                  "coords": [
+                        71.671827,
+                        41.002262
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Otrytaya stsena",
+                  "text": "An open-air theater stage for public performances in Namangan.",
+                  "category": "cultural",
+                  "coords": [
+                        71.671827,
+                        41.002262
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-NG",
     coords: [71.6726, 41.0011],
@@ -3549,7 +2586,655 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "nukus-cities-v2", "sights": {"de": [{"name": "Berdaq atındaǵı Qaraqalpaq ádebiyatı tariyxı mámleketlik muzeyi", "text": "Ein Museum in Nukus, das dem literarischen Erbe Karakalpakistans gewidmet ist.", "category": "museum", "coords": [59.625258, 42.451649]}, {"name": "Heimatmuseum / Geschichts- und Kulturmuseum", "text": "Dieses Museum in Nukus zeigt die Regionalgeschichte und die vielfältige Kultur Karakalpakistans.", "category": "museum", "coords": [59.611127, 42.462266]}, {"name": "Igor-Savitsky-Museum", "text": "Bekannt für seine umfangreiche Sammlung russischer Avantgarde-Kunst, ist dieses Museum eine bedeutende Kulturstätte in Nukus.", "category": "museum", "coords": [59.613008, 42.46545]}, {"name": "Qaraqalpaqstan Respublikası Ishki Isler Ministrligi \"Danq\" muzeyi", "text": "Ein Museum in Nukus, das militärische Errungenschaften und die lokale Arbeitsgeschichte dokumentiert.", "category": "museum", "coords": [59.613163, 42.45747]}, {"name": "Aralaldı arxeologiya muzeyi", "text": "Ein Museum in Nukus, das archäologische Funde aus der historischen Aral-Region ausstellt.", "category": "museum", "coords": [59.603214, 42.454184]}, {"name": "Russkii muzei pri Russkom kulturnom tsentre", "text": "Ein Kulturraum in Nukus, der sich auf das russische Erbe und die Geschichte konzentriert.", "category": "museum", "coords": [59.611538, 42.457701]}, {"name": "Berdaq atındaǵı Qaraqalpaq mámleketlik universiteti janındaǵı repressiya qurbanları muzeyi", "text": "Ein Museum in Nukus, das dem Gedenken an die Opfer politischer Repression gewidmet ist.", "category": "museum", "coords": [59.627062, 42.452111]}, {"name": "Amet hám Ayımxan Shamuratovlar úy muzeyi", "text": "Der ehemalige Wohnsitz bekannter karakalpakischer Künstler, heute ein Museum in Nukus.", "category": "museum", "coords": [59.611583, 42.467406]}, {"name": "Amfiteatr", "text": "Ein großer Veranstaltungsort im Freien für Konzerte und öffentliche Events in Nukus.", "category": "cultural", "coords": [59.611644, 42.4398]}, {"name": "\"Jumanji\" balalar dem alıw orayı", "text": "Ein beliebtes Indoor-Vergnügungs- und Spielzentrum für Familien in Nukus.", "category": "family", "coords": [59.600598, 42.467331]}, {"name": "Jungle Land", "text": "Ein Freizeitpark in Nukus mit verschiedenen Fahrgeschäften und Attraktionen für Kinder.", "category": "family", "coords": [59.639029, 42.462049]}, {"name": "Ózbekstan Qaharmanı, Ózbekstan hám Qaraqalpaqstan xalıq jazıwshısı Tólepbergen Qayıpbergenovtiń úy muzeyi", "text": "Ein Gedenkmuseum in Nukus, das dem Leben und Werk des Schriftstellers Tolepbergen Kayypbergenov gewidmet ist.", "category": "museum", "coords": [59.607684, 42.464841]}, {"name": "Berdaq atındaǵı akademiyalıq muzıkalıq teatr muzeyi", "text": "Das Museum Berdaq atındaǵı akademiyalıq muzıkalıq teatr muzeyi befindet sich im usbekischen Nukus. Hier wird die eindrucksvolle Geschichte und die theatralische Leistung des Berdakh-Theaters sorgfältig dokumentiert. Besucher erhalten einen tollen Einblick in die Entwicklung der regionalen Bühnenkunst.", "category": "museum", "coords": [59.604264, 42.459415]}, {"name": "Qaraqalpaqstan kórkem óner sarayı", "text": "Ein zentraler Kulturort in Nukus, an dem verschiedene künstlerische Darbietungen stattfinden.", "category": "cultural", "coords": [59.618077, 42.467555]}, {"name": "Qaraqalpaq mámleketlik quwırshaq teatrı", "text": "Ein Theater in Nukus, das auf Puppenspiele und Aufführungen für Kinder spezialisiert ist.", "category": "cultural", "coords": [59.631754, 42.445885]}, {"name": "Universitet amfiteatrı", "text": "Ein Amphitheater auf dem Universitätsgelände in Nukus für studentische Veranstaltungen.", "category": "cultural", "coords": [59.629342, 42.452765]}, {"name": "Nókis haywanat baǵı", "text": "Ein lokaler Zoo in Nukus mit einer Vielzahl regionaler Tierarten.", "category": "family", "coords": [59.612761, 42.442843]}, {"name": "Sapar Xojaniyazov atındaǵı Qaraqalpaq mámleketlik jas óspirimler teatrı", "text": "Ein Staatstheater in Nukus, das Produktionen für Jugendliche und Familien gewidmet ist.", "category": "cultural", "coords": [59.614265, 42.463892]}, {"name": "Qaraqalpaqstan bayraǵı", "text": "Eine große zeremonielle Flagge in Nukus, die die Identität der Republik repräsentiert.", "category": "landmark", "coords": [59.615019, 42.465256]}, {"name": "Munlı Ana", "text": "Ein ergreifendes Denkmal in Nukus, das den Müttern gewidmet ist, die um gefallene Soldaten trauern.", "category": "historical", "coords": [59.617852, 42.475796]}, {"name": "Ózbekstan súwretshiler akademiyası Qaraqalpaqstan bólimi kórgizbe sarayı", "text": "Eine Galerie in Nukus, die zeitgenössische und traditionelle karakalpakische Kunst zeigt.", "category": "museum", "coords": [59.611688, 42.453478]}, {"name": "I Love Nukus", "text": "Ein beliebter Fotospot und ein markantes Wahrzeichen für Besucher der Stadt Nukus.", "category": "landmark", "coords": [59.630959, 42.44493]}, {"name": "Ózbekstan hám Qaraqalpaqstan xalıq shayırı Ibrayim Yusupov úyi", "text": "Eine Gedenkstätte in Nukus, die dem berühmten Dichter Ibrahim Jussupow gewidmet ist.", "category": "landmark", "coords": [59.622146, 42.467481]}, {"name": "Kurant", "text": "Ein dekorativer Uhrturm und ein lokales Wahrzeichen in der Stadt Nukus.", "category": "landmark", "coords": [59.606063, 42.460101]}, {"name": "Bay terek", "text": "Ein Ort in Nukus, der an einen ehemals bedeutenden lokalen Baum erinnert.", "category": "landmark", "coords": [59.607442, 42.457808]}, {"name": "\"Shılpıq\" arxitekturalıq maketi", "text": "Eine Darstellung oder ein Modell des antiken Chilpyk-Turms in Nukus.", "category": "landmark", "coords": [59.6116, 42.440735]}], "hu": [{"name": "Berdaq atındaǵı Qaraqalpaq ádebiyatı tariyxı mámleketlik muzeyi", "text": "Nukusban található múzeum, amely Karakalpaksztán irodalmi örökségét mutatja be.", "category": "museum", "coords": [59.625258, 42.451649]}, {"name": "Qaraqalpaqstan tariyx hám mádeniyat muzeyi", "text": "Ez a nukusi múzeum Karakalpaksztán regionális történelmét és sokszínű kultúráját mutatja be.", "category": "museum", "coords": [59.611127, 42.462266]}, {"name": "I.V. Savitskiy atındaģı Qaraqalpaqstan kórkem-óner muzeyi", "text": "Az orosz avantgárd művészet hatalmas gyűjteményéről híres múzeum Nukus egyik legfontosabb kulturális helyszíne.", "category": "museum", "coords": [59.613008, 42.46545]}, {"name": "Qaraqalpaqstan Respublikası Ishki Isler Ministrligi \"Danq\" muzeyi", "text": "Nukusi múzeum, amely a katonai vívmányokat és a helyi munkaügyi történelmet dokumentálja.", "category": "museum", "coords": [59.613163, 42.45747]}, {"name": "Aralaldı arxeologiya muzeyi", "text": "Az Aral-tó vidékének régészeti leleteit bemutató múzeum Nukusban.", "category": "museum", "coords": [59.603214, 42.454184]}, {"name": "Russkii muzei pri Russkom kulturnom tsentre", "text": "Nukusi kulturális központ, amely az orosz örökségre és történelemre összpontosít.", "category": "museum", "coords": [59.611538, 42.457701]}, {"name": "Berdaq atındaǵı Qaraqalpaq mámleketlik universiteti janındaǵı repressiya qurbanları muzeyi", "text": "A politikai elnyomás áldozatainak emlékére szentelt múzeum Nukusban.", "category": "museum", "coords": [59.627062, 42.452111]}, {"name": "Amet hám Ayımxan Shamuratovlar úy muzeyi", "text": "Ismert karakalpak művészek egykori lakóhelye, ma múzeum Nukusban.", "category": "museum", "coords": [59.611583, 42.467406]}, {"name": "Amfiteatr", "text": "Nagy szabadtéri helyszín koncertek és nyilvános események számára Nukusban.", "category": "cultural", "coords": [59.611644, 42.4398]}, {"name": "\"Jumanji\" balalar dem alıw orayı", "text": "Népszerű fedett szórakoztató- és játszóközpont családok számára Nukusban.", "category": "family", "coords": [59.600598, 42.467331]}, {"name": "Jungle Land", "text": "Vidámpark Nukusban, amely különféle játékokat és látnivalókat kínál gyermekeknek.", "category": "family", "coords": [59.639029, 42.462049]}, {"name": "Ózbekstan Qaharmanı, Ózbekstan hám Qaraqalpaqstan xalıq jazıwshısı Tólepbergen Qayıpbergenovtiń úy muzeyi", "text": "Tolepbergen Kayypbergenov író életének és munkásságának szentelt emlékmúzeum Nukusban.", "category": "museum", "coords": [59.607684, 42.464841]}, {"name": "Berdaq atındaǵı akademiyalıq muzıkalıq teatr muzeyi", "text": "A színházi eredményeket bemutató Berdaq atındaǵı akademiyalıq muzıkalıq teatr muzeyi az üzbegisztáni Nukus városában található. Ez a múzeum aprólékosan dokumentálja a Berdakh Színház történelmét. A látogatókat a helyi előadóművészeteket ünneplő kiállítások fogadják.", "category": "museum", "coords": [59.604264, 42.459415]}, {"name": "Qaraqalpaqstan kórkem óner sarayı", "text": "Nukus központi kulturális helyszíne, amely különféle művészeti előadásoknak ad otthont.", "category": "cultural", "coords": [59.618077, 42.467555]}, {"name": "Qaraqalpaq mámleketlik quwırshaq teatrı", "text": "Bábszínházi előadásokra és gyermekműsorokra szakosodott színház Nukusban.", "category": "cultural", "coords": [59.631754, 42.445885]}, {"name": "Universitet amfiteatrı", "text": "A nukusi egyetem területén található amfiteátrum hallgatói rendezvények számára.", "category": "cultural", "coords": [59.629342, 42.452765]}, {"name": "Nókis haywanat baǵı", "text": "Helyi állatkert Nukusban, amely különféle regionális állatfajokat mutat be.", "category": "family", "coords": [59.612761, 42.442843]}, {"name": "Sapar Xojaniyazov atındaǵı Qaraqalpaq mámleketlik jas óspirimler teatrı", "text": "Állami színház Nukusban, amely fiataloknak és családoknak szóló darabokat mutat be.", "category": "cultural", "coords": [59.614265, 42.463892]}, {"name": "Qaraqalpaqstan bayraǵı", "text": "Nagy, ünnepélyes zászló Nukusban, amely a köztársaság identitását jelképezi.", "category": "landmark", "coords": [59.615019, 42.465256]}, {"name": "Munlı Ana", "text": "Megható emlékmű Nukusban, amelyet az elesett katonákat gyászoló anyáknak szenteltek.", "category": "historical", "coords": [59.617852, 42.475796]}, {"name": "Ózbekstan súwretshiler akademiyası Qaraqalpaqstan bólimi kórgizbe sarayı", "text": "Galéria Nukusban, amely kortárs és hagyományos karakalpak művészetet mutat be.", "category": "museum", "coords": [59.611688, 42.453478]}, {"name": "I Love Nukus", "text": "Népszerű fotóhelyszín és jellegzetes felirat a látogatók számára Nukus városában.", "category": "landmark", "coords": [59.630959, 42.44493]}, {"name": "Ózbekstan hám Qaraqalpaqstan xalıq shayırı Ibrayim Yusupov úyi", "text": "Ibrahim Juszupov neves költő emlékhelye Nukusban.", "category": "landmark", "coords": [59.622146, 42.467481]}, {"name": "Kurant", "text": "Dekoratív óratorony és helyi nevezetesség Nukus városában.", "category": "landmark", "coords": [59.606063, 42.460101]}, {"name": "Bay terek", "text": "Nukusi helyszín, amely egy korábban jelentős helyi fa helyét jelöli.", "category": "landmark", "coords": [59.607442, 42.457808]}, {"name": "\"Shılpıq\" arxitekturalıq maketi", "text": "Az ősi Chilpyk-torony ábrázolása vagy makettje Nukusban.", "category": "landmark", "coords": [59.6116, 42.440735]}], "ro": [{"name": "Berdaq atındaǵı Qaraqalpaq ádebiyatı tariyxı mámleketlik muzeyi", "text": "Un muzeu din Nukus dedicat moștenirii literare a Karakalpakstanului.", "category": "museum", "coords": [59.625258, 42.451649]}, {"name": "Qaraqalpaqstan tariyx hám mádeniyat muzeyi", "text": "Acest muzeu din Nukus prezintă istoria regională și cultura diversă a Karakalpakstanului.", "category": "museum", "coords": [59.611127, 42.462266]}, {"name": "I.V. Savitskiy atındaģı Qaraqalpaqstan kórkem-óner muzeyi", "text": "Celebru pentru vasta sa colecție de artă rusă de avangardă, acest muzeu este un sit cultural major în Nukus.", "category": "museum", "coords": [59.613008, 42.46545]}, {"name": "Qaraqalpaqstan Respublikası Ishki Isler Ministrligi \"Danq\" muzeyi", "text": "Un muzeu din Nukus care documentează realizările militare și istoria locală a muncii.", "category": "museum", "coords": [59.613163, 42.45747]}, {"name": "Aralaldı arxeologiya muzeyi", "text": "Un muzeu care expune descoperiri arheologice din regiunea istorică a Mării Aral, în Nukus.", "category": "museum", "coords": [59.603214, 42.454184]}, {"name": "Russkii muzei pri Russkom kulturnom tsentre", "text": "Un spațiu cultural din Nukus axat pe moștenirea și istoria rusă.", "category": "museum", "coords": [59.611538, 42.457701]}, {"name": "Berdaq atındaǵı Qaraqalpaq mámleketlik universiteti janındaǵı repressiya qurbanları muzeyi", "text": "Un muzeu din Nukus dedicat onorării memoriei celor afectați de represiunea politică.", "category": "museum", "coords": [59.627062, 42.452111]}, {"name": "Amet hám Ayımxan Shamuratovlar úy muzeyi", "text": "Fosta reședință a unor renumiți artiști karakalpaci, acum muzeu în Nukus.", "category": "museum", "coords": [59.611583, 42.467406]}, {"name": "Amfiteatr", "text": "O locație mare în aer liber pentru concerte și evenimente publice în Nukus.", "category": "cultural", "coords": [59.611644, 42.4398]}, {"name": "\"Jumanji\" balalar dem alıw orayı", "text": "Un centru popular de distracții și joacă în interior pentru familii în Nukus.", "category": "family", "coords": [59.600598, 42.467331]}, {"name": "Jungle Land", "text": "Un parc tematic din Nukus care oferă diverse atracții și jocuri pentru copii.", "category": "family", "coords": [59.639029, 42.462049]}, {"name": "Ózbekstan Qaharmanı, Ózbekstan hám Qaraqalpaqstan xalıq jazıwshısı Tólepbergen Qayıpbergenovtiń úy muzeyi", "text": "Un muzeu memorial din Nukus dedicat vieții și operei scriitorului Tolepbergen Kayypbergenov.", "category": "museum", "coords": [59.607684, 42.464841]}, {"name": "Berdaq atındaǵı akademiyalıq muzıkalıq teatr muzeyi", "text": "Prezentând realizările teatrale, Berdaq atındaǵı akademiyalıq muzıkalıq teatr muzeyi este situat în Nukus, Uzbekistan. Acest muzeu documentează cu meticulozitate istoria Teatrului Berdakh. Vizitatorii vor fi răsfățați cu expoziții care celebrează artele spectacolului local.", "category": "museum", "coords": [59.604264, 42.459415]}, {"name": "Qaraqalpaqstan kórkem óner sarayı", "text": "O locație culturală centrală din Nukus care găzduiește diverse spectacole artistice.", "category": "cultural", "coords": [59.618077, 42.467555]}, {"name": "Qaraqalpaq mámleketlik quwırshaq teatrı", "text": "Un teatru din Nukus specializat în spectacole de păpuși și reprezentații pentru copii.", "category": "cultural", "coords": [59.631754, 42.445885]}, {"name": "Universitet amfiteatrı", "text": "Un amfiteatru situat în incinta universității din Nukus pentru evenimente studențești.", "category": "cultural", "coords": [59.629342, 42.452765]}, {"name": "Nókis haywanat baǵı", "text": "O grădină zoologică locală din Nukus care adăpostește o varietate de specii de animale regionale.", "category": "family", "coords": [59.612761, 42.442843]}, {"name": "Sapar Xojaniyazov atındaǵı Qaraqalpaq mámleketlik jas óspirimler teatrı", "text": "Un teatru de stat din Nukus dedicat producțiilor pentru tineret și familii.", "category": "cultural", "coords": [59.614265, 42.463892]}, {"name": "Qaraqalpaqstan bayraǵı", "text": "Un steag ceremonial mare expus în Nukus, reprezentând identitatea republicii.", "category": "landmark", "coords": [59.615019, 42.465256]}, {"name": "Munlı Ana", "text": "Un memorial emoționant în Nukus dedicat mamelor care își plâng soldații căzuți.", "category": "historical", "coords": [59.617852, 42.475796]}, {"name": "Ózbekstan súwretshiler akademiyası Qaraqalpaqstan bólimi kórgizbe sarayı", "text": "O galerie din Nukus care expune artă contemporană și tradițională karakalpacă.", "category": "museum", "coords": [59.611688, 42.453478]}, {"name": "I Love Nukus", "text": "Un loc popular pentru fotografii și un semn emblematic pentru vizitatorii orașului Nukus.", "category": "landmark", "coords": [59.630959, 42.44493]}, {"name": "Ózbekstan hám Qaraqalpaqstan xalıq shayırı Ibrayim Yusupov úyi", "text": "Un sit memorial în Nukus dedicat renumitului poet Ibrahim Yusupov.", "category": "landmark", "coords": [59.622146, 42.467481]}, {"name": "Kurant", "text": "Un turn cu ceas decorativ și un reper local în orașul Nukus.", "category": "landmark", "coords": [59.606063, 42.460101]}, {"name": "Bay terek", "text": "Un sit în Nukus care marchează locația unui arbore local anterior semnificativ.", "category": "landmark", "coords": [59.607442, 42.457808]}, {"name": "\"Shılpıq\" arxitekturalıq maketi", "text": "O reprezentare sau un model al vechiului Turn Chilpyk, situat în Nukus.", "category": "landmark", "coords": [59.6116, 42.440735]}], "en": [{"name": "Berdakh State Museum of the History of Karakalpak Literature", "text": "A museum in Nukus dedicated to the literary heritage of Karakalpakstan.", "category": "museum", "coords": [59.625258, 42.451649]}, {"name": "State Museum of History and Culture of Karakalpakstan", "text": "This museum in Nukus showcases the regional history and diverse culture of Karakalpakstan.", "category": "museum", "coords": [59.611127, 42.462266]}, {"name": "State Museum of Art named after I.V. Savitsky", "text": "Famous for its vast collection of Russian avant-garde art, this museum is a major cultural site in Nukus.", "category": "museum", "coords": [59.613008, 42.46545]}, {"name": "State Museum of Military and Labor Glory under the Ministry of Internal Affairs of the Republic of Karakalpakstan", "text": "A museum in Nukus documenting military achievements and local labor history.", "category": "museum", "coords": [59.613163, 42.45747]}, {"name": "Archaeology Museum of the Aral Sea region", "text": "A museum exhibiting archaeological finds from the historic Aral Sea region in Nukus.", "category": "museum", "coords": [59.603214, 42.454184]}, {"name": "Russian Museum at The Russian cultural center", "text": "A cultural space in Nukus focusing on Russian heritage and history.", "category": "museum", "coords": [59.611538, 42.457701]}, {"name": "Museum of Remembrance of the Victims of Repression at KSU Berdakh", "text": "A museum in Nukus dedicated to honoring the memory of those affected by political repression.", "category": "museum", "coords": [59.627062, 42.452111]}, {"name": "Home-museum of Amet and Ayimkhan Shamuratovs", "text": "The former residence of noted Karakalpak artists, now a museum in Nukus.", "category": "museum", "coords": [59.611583, 42.467406]}, {"name": "Amfiteatr", "text": "A large open-air venue for concerts and public events in Nukus.", "category": "cultural", "coords": [59.611644, 42.4398]}, {"name": "Children's entertainment center \"Jumanji\"", "text": "A popular indoor amusement and play center for families in Nukus.", "category": "family", "coords": [59.600598, 42.467331]}, {"name": "Jungle Land", "text": "A theme park in Nukus offering various rides and attractions for children.", "category": "family", "coords": [59.639029, 42.462049]}, {"name": "House-Museum of the Hero of Uzbekistan, People's writer of Uzbekistan and Karakalpakstan Tolepbergen Kayypbergenov", "text": "A memorial museum in Nukus dedicated to the life and works of the writer Tolepbergen Kayypbergenov.", "category": "museum", "coords": [59.607684, 42.464841]}, {"name": "The Museum of the Academic Theater named after Berdakh", "text": "Showcasing theatrical achievements, the Berdaq atındaǵı akademiyalıq muzıkalıq teatr muzeyi is located in Nukus, Uzbekistan. This museum meticulously documents the history of the Berdakh Theater. Visitors will be treated to exhibitions celebrating the local performing arts.", "category": "museum", "coords": [59.604264, 42.459415]}, {"name": "Karakalpakstan Palace of Arts", "text": "A central cultural venue in Nukus hosting various artistic performances.", "category": "cultural", "coords": [59.618077, 42.467555]}, {"name": "Karakalpak State Puppet Theater", "text": "A Karakalpak State Puppet Theater in Nukus specializing in puppet shows and performances for children.", "category": "cultural", "coords": [59.631754, 42.445885]}, {"name": "Universitet amfiteatrı", "text": "An amphitheater located on the university grounds in Nukus for student events.", "category": "cultural", "coords": [59.629342, 42.452765]}, {"name": "Nukus Zoo", "text": "A local zoo in Nukus featuring a variety of regional animal species.", "category": "family", "coords": [59.612761, 42.442843]}, {"name": "Karakalpak State Theater for Young Spectators named after Sapar Khodzhenzov", "text": "A state theater in Nukus dedicated to productions for youth and families.", "category": "cultural", "coords": [59.614265, 42.463892]}, {"name": "Flag of Karakalpakstan", "text": "A large ceremonial flag display in Nukus representing the republic's identity.", "category": "landmark", "coords": [59.615019, 42.465256]}, {"name": "Munly Ana \"Grieving Mother\"", "text": "A poignant memorial in Nukus dedicated to mothers mourning fallen soldiers.", "category": "historical", "coords": [59.617852, 42.475796]}, {"name": "Exhibition Hall of the Karakalpak Department of the Academy of Arts of Uzbekistan", "text": "A gallery in Nukus showcasing contemporary and traditional Karakalpak art.", "category": "museum", "coords": [59.611688, 42.453478]}, {"name": "I Love Nukus", "text": "A popular photo spot and landmark sign for visitors in the city of Nukus.", "category": "landmark", "coords": [59.630959, 42.44493]}, {"name": "The house of the national poet of Uzbekistan and Karakalpakstan Ibrahim Yusupov", "text": "A memorial site in Nukus dedicated to the renowned poet Ibrahim Yusupov.", "category": "landmark", "coords": [59.622146, 42.467481]}, {"name": "Chimes", "text": "A decorative clock tower and local landmark in the city of Nukus.", "category": "landmark", "coords": [59.606063, 42.460101]}, {"name": "Sait Tree (destroyed)", "text": "A site in Nukus marking the location of a formerly significant local tree.", "category": "landmark", "coords": [59.607442, 42.457808]}, {"name": "Architectural layout \"Chilpyk\"", "text": "A representation or model of the ancient Chilpyk Tower, located in Nukus.", "category": "landmark", "coords": [59.6116, 42.440735]}]},
+    id: "nukus-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Berdaq atındaǵı Qaraqalpaq ádebiyatı tariyxı mámleketlik muzeyi",
+                  "text": "Ein Museum in Nukus, das dem literarischen Erbe Karakalpakistans gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        59.625258,
+                        42.451649
+                  ]
+            },
+            {
+                  "name": "Qaraqalpaqstan Respublikası Ishki Isler Ministrligi \"Danq\" muzeyi",
+                  "text": "Ein Museum in Nukus, das militärische Errungenschaften und die lokale Arbeitsgeschichte dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        59.613163,
+                        42.45747
+                  ]
+            },
+            {
+                  "name": "Russkii muzei pri Russkom kulturnom tsentre",
+                  "text": "Ein Kulturraum in Nukus, der sich auf das russische Erbe und die Geschichte konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        59.611538,
+                        42.457701
+                  ]
+            },
+            {
+                  "name": "Berdaq atındaǵı Qaraqalpaq mámleketlik universiteti janındaǵı repressiya qurbanları muzeyi",
+                  "text": "Ein Museum in Nukus, das dem Gedenken an die Opfer politischer Repression gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        59.627062,
+                        42.452111
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Ein großer Veranstaltungsort im Freien für Konzerte und öffentliche Events in Nukus.",
+                  "category": "cultural",
+                  "coords": [
+                        59.611644,
+                        42.4398
+                  ]
+            },
+            {
+                  "name": "\"Jumanji\" balalar dem alıw orayı",
+                  "text": "Ein beliebtes Indoor-Vergnügungs- und Spielzentrum für Familien in Nukus.",
+                  "category": "family",
+                  "coords": [
+                        59.600598,
+                        42.467331
+                  ]
+            },
+            {
+                  "name": "Jungle Land",
+                  "text": "Ein Freizeitpark in Nukus mit verschiedenen Fahrgeschäften und Attraktionen für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        59.639029,
+                        42.462049
+                  ]
+            },
+            {
+                  "name": "Qaraqalpaqstan kórkem óner sarayı",
+                  "text": "Ein zentraler Kulturort in Nukus, an dem verschiedene künstlerische Darbietungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        59.618077,
+                        42.467555
+                  ]
+            },
+            {
+                  "name": "Qaraqalpaq mámleketlik quwırshaq teatrı",
+                  "text": "Ein Theater in Nukus, das auf Puppenspiele und Aufführungen für Kinder spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        59.631754,
+                        42.445885
+                  ]
+            },
+            {
+                  "name": "Universitet amfiteatrı",
+                  "text": "Ein Amphitheater auf dem Universitätsgelände in Nukus für studentische Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        59.629342,
+                        42.452765
+                  ]
+            },
+            {
+                  "name": "Nókis haywanat baǵı",
+                  "text": "Ein lokaler Zoo in Nukus mit einer Vielzahl regionaler Tierarten.",
+                  "category": "family",
+                  "coords": [
+                        59.612761,
+                        42.442843
+                  ]
+            },
+            {
+                  "name": "Munlı Ana",
+                  "text": "Ein ergreifendes Denkmal in Nukus, das den Müttern gewidmet ist, die um gefallene Soldaten trauern.",
+                  "category": "historical",
+                  "coords": [
+                        59.617852,
+                        42.475796
+                  ]
+            },
+            {
+                  "name": "Ózbekstan súwretshiler akademiyası Qaraqalpaqstan bólimi kórgizbe sarayı",
+                  "text": "Eine Galerie in Nukus, die zeitgenössische und traditionelle karakalpakische Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        59.611688,
+                        42.453478
+                  ]
+            },
+            {
+                  "name": "I Love Nukus",
+                  "text": "Ein beliebter Fotospot und ein markantes Wahrzeichen für Besucher der Stadt Nukus.",
+                  "category": "landmark",
+                  "coords": [
+                        59.630959,
+                        42.44493
+                  ]
+            },
+            {
+                  "name": "Ózbekstan hám Qaraqalpaqstan xalıq shayırı Ibrayim Yusupov úyi",
+                  "text": "Eine Gedenkstätte in Nukus, die dem berühmten Dichter Ibrahim Jussupow gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        59.622146,
+                        42.467481
+                  ]
+            },
+            {
+                  "name": "Kurant",
+                  "text": "Ein dekorativer Uhrturm und ein lokales Wahrzeichen in der Stadt Nukus.",
+                  "category": "landmark",
+                  "coords": [
+                        59.606063,
+                        42.460101
+                  ]
+            },
+            {
+                  "name": "Bay terek",
+                  "text": "Ein Ort in Nukus, der an einen ehemals bedeutenden lokalen Baum erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        59.607442,
+                        42.457808
+                  ]
+            },
+            {
+                  "name": "\"Shılpıq\" arxitekturalıq maketi",
+                  "text": "Eine Darstellung oder ein Modell des antiken Chilpyk-Turms in Nukus.",
+                  "category": "landmark",
+                  "coords": [
+                        59.6116,
+                        42.440735
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Berdaq atındaǵı Qaraqalpaq ádebiyatı tariyxı mámleketlik muzeyi",
+                  "text": "Nukusban található múzeum, amely Karakalpaksztán irodalmi örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        59.625258,
+                        42.451649
+                  ]
+            },
+            {
+                  "name": "Qaraqalpaqstan Respublikası Ishki Isler Ministrligi \"Danq\" muzeyi",
+                  "text": "Nukusi múzeum, amely a katonai vívmányokat és a helyi munkaügyi történelmet dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        59.613163,
+                        42.45747
+                  ]
+            },
+            {
+                  "name": "Russkii muzei pri Russkom kulturnom tsentre",
+                  "text": "Nukusi kulturális központ, amely az orosz örökségre és történelemre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        59.611538,
+                        42.457701
+                  ]
+            },
+            {
+                  "name": "Berdaq atındaǵı Qaraqalpaq mámleketlik universiteti janındaǵı repressiya qurbanları muzeyi",
+                  "text": "A politikai elnyomás áldozatainak emlékére szentelt múzeum Nukusban.",
+                  "category": "museum",
+                  "coords": [
+                        59.627062,
+                        42.452111
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Nagy szabadtéri helyszín koncertek és nyilvános események számára Nukusban.",
+                  "category": "cultural",
+                  "coords": [
+                        59.611644,
+                        42.4398
+                  ]
+            },
+            {
+                  "name": "\"Jumanji\" balalar dem alıw orayı",
+                  "text": "Népszerű fedett szórakoztató- és játszóközpont családok számára Nukusban.",
+                  "category": "family",
+                  "coords": [
+                        59.600598,
+                        42.467331
+                  ]
+            },
+            {
+                  "name": "Jungle Land",
+                  "text": "Vidámpark Nukusban, amely különféle játékokat és látnivalókat kínál gyermekeknek.",
+                  "category": "family",
+                  "coords": [
+                        59.639029,
+                        42.462049
+                  ]
+            },
+            {
+                  "name": "Qaraqalpaqstan kórkem óner sarayı",
+                  "text": "Nukus központi kulturális helyszíne, amely különféle művészeti előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        59.618077,
+                        42.467555
+                  ]
+            },
+            {
+                  "name": "Qaraqalpaq mámleketlik quwırshaq teatrı",
+                  "text": "Bábszínházi előadásokra és gyermekműsorokra szakosodott színház Nukusban.",
+                  "category": "cultural",
+                  "coords": [
+                        59.631754,
+                        42.445885
+                  ]
+            },
+            {
+                  "name": "Universitet amfiteatrı",
+                  "text": "A nukusi egyetem területén található amfiteátrum hallgatói rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        59.629342,
+                        42.452765
+                  ]
+            },
+            {
+                  "name": "Nókis haywanat baǵı",
+                  "text": "Helyi állatkert Nukusban, amely különféle regionális állatfajokat mutat be.",
+                  "category": "family",
+                  "coords": [
+                        59.612761,
+                        42.442843
+                  ]
+            },
+            {
+                  "name": "Munlı Ana",
+                  "text": "Megható emlékmű Nukusban, amelyet az elesett katonákat gyászoló anyáknak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        59.617852,
+                        42.475796
+                  ]
+            },
+            {
+                  "name": "Ózbekstan súwretshiler akademiyası Qaraqalpaqstan bólimi kórgizbe sarayı",
+                  "text": "Galéria Nukusban, amely kortárs és hagyományos karakalpak művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        59.611688,
+                        42.453478
+                  ]
+            },
+            {
+                  "name": "I Love Nukus",
+                  "text": "Népszerű fotóhelyszín és jellegzetes felirat a látogatók számára Nukus városában.",
+                  "category": "landmark",
+                  "coords": [
+                        59.630959,
+                        42.44493
+                  ]
+            },
+            {
+                  "name": "Ózbekstan hám Qaraqalpaqstan xalıq shayırı Ibrayim Yusupov úyi",
+                  "text": "Ibrahim Juszupov neves költő emlékhelye Nukusban.",
+                  "category": "landmark",
+                  "coords": [
+                        59.622146,
+                        42.467481
+                  ]
+            },
+            {
+                  "name": "Kurant",
+                  "text": "Dekoratív óratorony és helyi nevezetesség Nukus városában.",
+                  "category": "landmark",
+                  "coords": [
+                        59.606063,
+                        42.460101
+                  ]
+            },
+            {
+                  "name": "Bay terek",
+                  "text": "Nukusi helyszín, amely egy korábban jelentős helyi fa helyét jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        59.607442,
+                        42.457808
+                  ]
+            },
+            {
+                  "name": "\"Shılpıq\" arxitekturalıq maketi",
+                  "text": "Az ősi Chilpyk-torony ábrázolása vagy makettje Nukusban.",
+                  "category": "landmark",
+                  "coords": [
+                        59.6116,
+                        42.440735
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Berdaq atındaǵı Qaraqalpaq ádebiyatı tariyxı mámleketlik muzeyi",
+                  "text": "Un muzeu din Nukus dedicat moștenirii literare a Karakalpakstanului.",
+                  "category": "museum",
+                  "coords": [
+                        59.625258,
+                        42.451649
+                  ]
+            },
+            {
+                  "name": "Qaraqalpaqstan Respublikası Ishki Isler Ministrligi \"Danq\" muzeyi",
+                  "text": "Un muzeu din Nukus care documentează realizările militare și istoria locală a muncii.",
+                  "category": "museum",
+                  "coords": [
+                        59.613163,
+                        42.45747
+                  ]
+            },
+            {
+                  "name": "Russkii muzei pri Russkom kulturnom tsentre",
+                  "text": "Un spațiu cultural din Nukus axat pe moștenirea și istoria rusă.",
+                  "category": "museum",
+                  "coords": [
+                        59.611538,
+                        42.457701
+                  ]
+            },
+            {
+                  "name": "Berdaq atındaǵı Qaraqalpaq mámleketlik universiteti janındaǵı repressiya qurbanları muzeyi",
+                  "text": "Un muzeu din Nukus dedicat onorării memoriei celor afectați de represiunea politică.",
+                  "category": "museum",
+                  "coords": [
+                        59.627062,
+                        42.452111
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "O locație mare în aer liber pentru concerte și evenimente publice în Nukus.",
+                  "category": "cultural",
+                  "coords": [
+                        59.611644,
+                        42.4398
+                  ]
+            },
+            {
+                  "name": "\"Jumanji\" balalar dem alıw orayı",
+                  "text": "Un centru popular de distracții și joacă în interior pentru familii în Nukus.",
+                  "category": "family",
+                  "coords": [
+                        59.600598,
+                        42.467331
+                  ]
+            },
+            {
+                  "name": "Jungle Land",
+                  "text": "Un parc tematic din Nukus care oferă diverse atracții și jocuri pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        59.639029,
+                        42.462049
+                  ]
+            },
+            {
+                  "name": "Qaraqalpaqstan kórkem óner sarayı",
+                  "text": "O locație culturală centrală din Nukus care găzduiește diverse spectacole artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        59.618077,
+                        42.467555
+                  ]
+            },
+            {
+                  "name": "Qaraqalpaq mámleketlik quwırshaq teatrı",
+                  "text": "Un teatru din Nukus specializat în spectacole de păpuși și reprezentații pentru copii.",
+                  "category": "cultural",
+                  "coords": [
+                        59.631754,
+                        42.445885
+                  ]
+            },
+            {
+                  "name": "Universitet amfiteatrı",
+                  "text": "Un amfiteatru situat în incinta universității din Nukus pentru evenimente studențești.",
+                  "category": "cultural",
+                  "coords": [
+                        59.629342,
+                        42.452765
+                  ]
+            },
+            {
+                  "name": "Nókis haywanat baǵı",
+                  "text": "O grădină zoologică locală din Nukus care adăpostește o varietate de specii de animale regionale.",
+                  "category": "family",
+                  "coords": [
+                        59.612761,
+                        42.442843
+                  ]
+            },
+            {
+                  "name": "Munlı Ana",
+                  "text": "Un memorial emoționant în Nukus dedicat mamelor care își plâng soldații căzuți.",
+                  "category": "historical",
+                  "coords": [
+                        59.617852,
+                        42.475796
+                  ]
+            },
+            {
+                  "name": "Ózbekstan súwretshiler akademiyası Qaraqalpaqstan bólimi kórgizbe sarayı",
+                  "text": "O galerie din Nukus care expune artă contemporană și tradițională karakalpacă.",
+                  "category": "museum",
+                  "coords": [
+                        59.611688,
+                        42.453478
+                  ]
+            },
+            {
+                  "name": "I Love Nukus",
+                  "text": "Un loc popular pentru fotografii și un semn emblematic pentru vizitatorii orașului Nukus.",
+                  "category": "landmark",
+                  "coords": [
+                        59.630959,
+                        42.44493
+                  ]
+            },
+            {
+                  "name": "Ózbekstan hám Qaraqalpaqstan xalıq shayırı Ibrayim Yusupov úyi",
+                  "text": "Un sit memorial în Nukus dedicat renumitului poet Ibrahim Yusupov.",
+                  "category": "landmark",
+                  "coords": [
+                        59.622146,
+                        42.467481
+                  ]
+            },
+            {
+                  "name": "Kurant",
+                  "text": "Un turn cu ceas decorativ și un reper local în orașul Nukus.",
+                  "category": "landmark",
+                  "coords": [
+                        59.606063,
+                        42.460101
+                  ]
+            },
+            {
+                  "name": "Bay terek",
+                  "text": "Un sit în Nukus care marchează locația unui arbore local anterior semnificativ.",
+                  "category": "landmark",
+                  "coords": [
+                        59.607442,
+                        42.457808
+                  ]
+            },
+            {
+                  "name": "\"Shılpıq\" arxitekturalıq maketi",
+                  "text": "O reprezentare sau un model al vechiului Turn Chilpyk, situat în Nukus.",
+                  "category": "landmark",
+                  "coords": [
+                        59.6116,
+                        42.440735
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Berdakh State Museum of the History of Karakalpak Literature",
+                  "text": "A museum in Nukus dedicated to the literary heritage of Karakalpakstan.",
+                  "category": "museum",
+                  "coords": [
+                        59.625258,
+                        42.451649
+                  ]
+            },
+            {
+                  "name": "State Museum of Military and Labor Glory under the Ministry of Internal Affairs of the Republic of Karakalpakstan",
+                  "text": "A museum in Nukus documenting military achievements and local labor history.",
+                  "category": "museum",
+                  "coords": [
+                        59.613163,
+                        42.45747
+                  ]
+            },
+            {
+                  "name": "Museum of Remembrance of the Victims of Repression at KSU Berdakh",
+                  "text": "A museum in Nukus dedicated to honoring the memory of those affected by political repression.",
+                  "category": "museum",
+                  "coords": [
+                        59.627062,
+                        42.452111
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "A large open-air venue for concerts and public events in Nukus.",
+                  "category": "cultural",
+                  "coords": [
+                        59.611644,
+                        42.4398
+                  ]
+            },
+            {
+                  "name": "Children's entertainment center \"Jumanji\"",
+                  "text": "A popular indoor amusement and play center for families in Nukus.",
+                  "category": "family",
+                  "coords": [
+                        59.600598,
+                        42.467331
+                  ]
+            },
+            {
+                  "name": "Jungle Land",
+                  "text": "A theme park in Nukus offering various rides and attractions for children.",
+                  "category": "family",
+                  "coords": [
+                        59.639029,
+                        42.462049
+                  ]
+            },
+            {
+                  "name": "Karakalpakstan Palace of Arts",
+                  "text": "A central cultural venue in Nukus hosting various artistic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        59.618077,
+                        42.467555
+                  ]
+            },
+            {
+                  "name": "Karakalpak State Puppet Theater",
+                  "text": "A Karakalpak State Puppet Theater in Nukus specializing in puppet shows and performances for children.",
+                  "category": "cultural",
+                  "coords": [
+                        59.631754,
+                        42.445885
+                  ]
+            },
+            {
+                  "name": "Universitet amfiteatrı",
+                  "text": "An amphitheater located on the university grounds in Nukus for student events.",
+                  "category": "cultural",
+                  "coords": [
+                        59.629342,
+                        42.452765
+                  ]
+            },
+            {
+                  "name": "Nukus Zoo",
+                  "text": "A local zoo in Nukus featuring a variety of regional animal species.",
+                  "category": "family",
+                  "coords": [
+                        59.612761,
+                        42.442843
+                  ]
+            },
+            {
+                  "name": "Munly Ana \"Grieving Mother\"",
+                  "text": "A poignant memorial in Nukus dedicated to mothers mourning fallen soldiers.",
+                  "category": "historical",
+                  "coords": [
+                        59.617852,
+                        42.475796
+                  ]
+            },
+            {
+                  "name": "Exhibition Hall of the Karakalpak Department of the Academy of Arts of Uzbekistan",
+                  "text": "A gallery in Nukus showcasing contemporary and traditional Karakalpak art.",
+                  "category": "museum",
+                  "coords": [
+                        59.611688,
+                        42.453478
+                  ]
+            },
+            {
+                  "name": "I Love Nukus",
+                  "text": "A popular photo spot and landmark sign for visitors in the city of Nukus.",
+                  "category": "landmark",
+                  "coords": [
+                        59.630959,
+                        42.44493
+                  ]
+            },
+            {
+                  "name": "The house of the national poet of Uzbekistan and Karakalpakstan Ibrahim Yusupov",
+                  "text": "A memorial site in Nukus dedicated to the renowned poet Ibrahim Yusupov.",
+                  "category": "landmark",
+                  "coords": [
+                        59.622146,
+                        42.467481
+                  ]
+            },
+            {
+                  "name": "Chimes",
+                  "text": "A decorative clock tower and local landmark in the city of Nukus.",
+                  "category": "landmark",
+                  "coords": [
+                        59.606063,
+                        42.460101
+                  ]
+            },
+            {
+                  "name": "Sait Tree (destroyed)",
+                  "text": "A site in Nukus marking the location of a formerly significant local tree.",
+                  "category": "landmark",
+                  "coords": [
+                        59.607442,
+                        42.457808
+                  ]
+            },
+            {
+                  "name": "Architectural layout \"Chilpyk\"",
+                  "text": "A representation or model of the ancient Chilpyk Tower, located in Nukus.",
+                  "category": "landmark",
+                  "coords": [
+                        59.6116,
+                        42.440735
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-QR",
     coords: [59.6179, 42.4619],
@@ -4193,15 +3878,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "kokand-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Khanspalast",
-                  "text": "Der Palast von Khudayar Khan ist eine große historische Burg und ehemalige königliche Residenz in Kokand.",
-                  "category": "castle",
-                  "coords": [
-                        70.938035,
-                        40.538696
-                  ]
-            },
-            {
                   "name": "Hamza uy-muzeyi",
                   "text": "Hamza Hakimzoda Niyoziy Hausmuseum in Kokand.",
                   "category": "museum",
@@ -4217,24 +3893,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   "coords": [
                         70.945382,
                         40.528168
-                  ]
-            },
-            {
-                  "name": "Theater",
-                  "text": "Das Hamza Musik- und Dramatheater ist ein bedeutender kultureller Veranstaltungsort in Kokand.",
-                  "category": "cultural",
-                  "coords": [
-                        70.94953,
-                        40.536084
-                  ]
-            },
-            {
-                  "name": "Gelehrtenmuseum",
-                  "text": "Museum der großen Gelehrten in Kokand.",
-                  "category": "museum",
-                  "coords": [
-                        70.950467,
-                        40.536402
                   ]
             },
             {
@@ -4276,15 +3934,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Xudoyorxon oʻrdasi",
-                  "text": "A Khudayar Kán palotája egy hatalmas történelmi kastély és egykori királyi rezidencia Kokandban.",
-                  "category": "castle",
-                  "coords": [
-                        70.938035,
-                        40.538696
-                  ]
-            },
-            {
                   "name": "Hamza uy-muzeyi",
                   "text": "Hamza Hakimzoda Niyoziy ház-múzeum Kokandban.",
                   "category": "museum",
@@ -4309,15 +3958,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   "coords": [
                         70.94953,
                         40.536084
-                  ]
-            },
-            {
-                  "name": "Muzei Velikikh myslitelei",
-                  "text": "Nagy Tudósok Múzeuma Kokandban.",
-                  "category": "museum",
-                  "coords": [
-                        70.950467,
-                        40.536402
                   ]
             },
             {
@@ -4359,15 +3999,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Xudoyorxon oʻrdasi",
-                  "text": "Palatul lui Khudayar Khan este un mare castel istoric și fostă reședință regală din Kokand.",
-                  "category": "castle",
-                  "coords": [
-                        70.938035,
-                        40.538696
-                  ]
-            },
-            {
                   "name": "Hamza uy-muzeyi",
                   "text": "Casa-muzeu Hamza Hakimzoda Niyoziy în Kokand.",
                   "category": "museum",
@@ -4392,15 +4023,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   "coords": [
                         70.94953,
                         40.536084
-                  ]
-            },
-            {
-                  "name": "Muzei Velikikh myslitelei",
-                  "text": "Muzeul Marilor Învățați în Kokand.",
-                  "category": "museum",
-                  "coords": [
-                        70.950467,
-                        40.536402
                   ]
             },
             {
@@ -4442,15 +4064,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Palace of Khudayar Khan",
-                  "text": "The Palace of Khudayar Khan is a grand historical castle and former royal residence in Kokand.",
-                  "category": "castle",
-                  "coords": [
-                        70.938035,
-                        40.538696
-                  ]
-            },
-            {
                   "name": "House-museum of Hamza Hakimzoda Niyoziy",
                   "text": "House-museum of Hamza Hakimzoda Niyoziy in Kokand.",
                   "category": "museum",
@@ -4475,15 +4088,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   "coords": [
                         70.94953,
                         40.536084
-                  ]
-            },
-            {
-                  "name": "Museum of the Great Scholars",
-                  "text": "Museum of the Great Scholars in Kokand.",
-                  "category": "museum",
-                  "coords": [
-                        70.950467,
-                        40.536402
                   ]
             },
             {
@@ -4652,194 +4256,10 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
   },
   {
     id: "navoiy-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Navoiy viloyati qoʻgʻirchoq teatri",
-                  "text": "Ein Puppentheater in Nawoi, das traditionelle und moderne Stücke für Kinder aufführt.",
-                  "category": "cultural",
-                  "coords": [
-                        65.386985,
-                        40.107042
-                  ]
-            },
-            {
-                  "name": "Amfeteatr",
-                  "text": "Ein Freilufttheater in Nawoi, das als Veranstaltungsort für kulturelle Aufführungen dient.",
-                  "category": "cultural",
-                  "coords": [
-                        65.368955,
-                        40.108749
-                  ]
-            },
-            {
-                  "name": "Akvapark",
-                  "text": "Ein moderner Wasserpark in Nawoi mit verschiedenen Pools und Rutschen.",
-                  "category": "family",
-                  "coords": [
-                        65.363152,
-                        40.107122
-                  ]
-            },
-            {
-                  "name": "Shahar hayvonot bog'i",
-                  "text": "Der städtische Zoo von Nawoi beherbergt eine Vielzahl von Tierarten.",
-                  "category": "family",
-                  "coords": [
-                        65.366552,
-                        40.103803
-                  ]
-            },
-            {
-                  "name": "San'at galereyasi",
-                  "text": "Ein Kunstzentrum in Nawoi, das Werke regionaler und nationaler Künstler ausstellt.",
-                  "category": "cultural",
-                  "coords": [
-                        65.364164,
-                        40.104435
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Navoiy viloyati qoʻgʻirchoq teatri",
-                  "text": "Bábszínház Navoiyban, amely hagyományos és modern darabokat mutat be gyermekeknek.",
-                  "category": "cultural",
-                  "coords": [
-                        65.386985,
-                        40.107042
-                  ]
-            },
-            {
-                  "name": "Amfeteatr",
-                  "text": "Szabadtéri színház Navoiyban, amely kulturális előadások helyszínéül szolgál.",
-                  "category": "cultural",
-                  "coords": [
-                        65.368955,
-                        40.108749
-                  ]
-            },
-            {
-                  "name": "Akvapark",
-                  "text": "Modern vízipark Navoiyban, különféle medencékkel és csúszdákkal.",
-                  "category": "family",
-                  "coords": [
-                        65.363152,
-                        40.107122
-                  ]
-            },
-            {
-                  "name": "Shahar hayvonot bog'i",
-                  "text": "Navoiy városi állatkertje, amely számos állatfajnak ad otthont.",
-                  "category": "family",
-                  "coords": [
-                        65.366552,
-                        40.103803
-                  ]
-            },
-            {
-                  "name": "San'at galereyasi",
-                  "text": "Művészeti központ Navoiyban, amely regionális és nemzeti művészek alkotásait mutatja be.",
-                  "category": "cultural",
-                  "coords": [
-                        65.364164,
-                        40.104435
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Navoiy viloyati qoʻgʻirchoq teatri",
-                  "text": "Un teatru de păpuși din Navoiy, care prezintă piese tradiționale și moderne pentru copii.",
-                  "category": "cultural",
-                  "coords": [
-                        65.386985,
-                        40.107042
-                  ]
-            },
-            {
-                  "name": "Amfeteatr",
-                  "text": "Un amfiteatru în aer liber în Navoiy, care servește ca locație pentru spectacole culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        65.368955,
-                        40.108749
-                  ]
-            },
-            {
-                  "name": "Akvapark",
-                  "text": "Un parc acvatic modern în Navoiy, cu diverse piscine și tobogane.",
-                  "category": "family",
-                  "coords": [
-                        65.363152,
-                        40.107122
-                  ]
-            },
-            {
-                  "name": "Shahar hayvonot bog'i",
-                  "text": "Grădina zoologică a orașului Navoiy, care găzduiește o varietate de specii de animale.",
-                  "category": "family",
-                  "coords": [
-                        65.366552,
-                        40.103803
-                  ]
-            },
-            {
-                  "name": "San'at galereyasi",
-                  "text": "Un centru de artă în Navoiy care expune lucrări ale artiștilor regionali și naționali.",
-                  "category": "cultural",
-                  "coords": [
-                        65.364164,
-                        40.104435
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Navoiy viloyati qoʻgʻirchoq teatri",
-                  "text": "A puppet theatre in Navoiy performing traditional and modern plays for children.",
-                  "category": "cultural",
-                  "coords": [
-                        65.386985,
-                        40.107042
-                  ]
-            },
-            {
-                  "name": "Amfeteatr",
-                  "text": "An open-air theatre in Navoiy used as a venue for cultural performances.",
-                  "category": "cultural",
-                  "coords": [
-                        65.368955,
-                        40.108749
-                  ]
-            },
-            {
-                  "name": "Akvapark",
-                  "text": "A modern water park in Navoiy featuring various pools and slides.",
-                  "category": "family",
-                  "coords": [
-                        65.363152,
-                        40.107122
-                  ]
-            },
-            {
-                  "name": "Shahar hayvonot bog'i",
-                  "text": "The city zoo of Navoiy, home to a variety of animal species.",
-                  "category": "family",
-                  "coords": [
-                        65.366552,
-                        40.103803
-                  ]
-            },
-            {
-                  "name": "San'at galereyasi",
-                  "text": "An arts centre in Navoiy exhibiting works by regional and national artists.",
-                  "category": "cultural",
-                  "coords": [
-                        65.364164,
-                        40.104435
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "UZ-NW",
@@ -5401,7 +4821,268 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "termez-cities-v2", "sights": {"de": [{"name": "Do'stlik istirohat bog'i", "text": "Ein Park in Termiz, der der Freundschaft und Erholung gewidmet ist.", "category": "family", "coords": [67.285459, 37.241162]}, {"name": "Termiz Arxeologiya Muzeyi", "text": "Dieses Museum in Termiz zeigt bedeutende archäologische Funde aus der Region.", "category": "museum", "coords": [67.282647, 37.244269]}, {"name": "Hayvonot bogi", "text": "Der Zoo von Termiz bietet Einblicke in die lokale und exotische Tierwelt.", "category": "family", "coords": [67.257529, 37.214993]}, {"name": "Qog'irchoq teatri", "text": "Ein Puppentheater in Termiz, das Unterhaltung für die jüngsten Besucher bietet.", "category": "cultural", "coords": [67.271518, 37.215223]}, {"name": "Amudaryo dam olish maskani", "text": "Ein Erholungsgebiet und Park am Ufer des Amudarja in Termiz.", "category": "family", "coords": [67.31284, 37.233118]}, {"name": "Kurantlar", "text": "Ein markanter Uhrturm in Termiz, der als lokales Denkmal dient.", "category": "historical", "coords": [67.279544, 37.236261]}, {"name": "Motamsaro Ona Khaikali", "text": "Ein Denkmal der trauernden Mutter in Termiz, ein Ort des Gedenkens.", "category": "landmark", "coords": [67.288169, 37.240863]}, {"name": "Arxiv", "text": "Ein Archivgebäude in Termiz, das für die lokale Geschichte von Bedeutung ist.", "category": "landmark", "coords": [67.266439, 37.229635]}], "hu": [{"name": "Do'stlik istirohat bog'i", "text": "Termizi park, amelyet a barátságnak és a kikapcsolódásnak szenteltek.", "category": "family", "coords": [67.285459, 37.241162]}, {"name": "Termiz Arxeologiya Muzeyi", "text": "Ez a termizi múzeum a régió jelentős régészeti leleteit mutatja be.", "category": "museum", "coords": [67.282647, 37.244269]}, {"name": "Hayvonot bogi", "text": "A termizi állatkert betekintést nyújt a helyi és egzotikus állatvilágba.", "category": "family", "coords": [67.257529, 37.214993]}, {"name": "Qog'irchoq teatri", "text": "Bábszínház Termizben, amely a legfiatalabb látogatóknak kínál szórakozást.", "category": "cultural", "coords": [67.271518, 37.215223]}, {"name": "Amudaryo dam olish maskani", "text": "Üdülőhely és park az Amudarja partján, Termizben.", "category": "family", "coords": [67.31284, 37.233118]}, {"name": "Kurantlar", "text": "Jellegzetes óratorony Termizben, amely helyi emlékműként szolgál.", "category": "historical", "coords": [67.279544, 37.236261]}, {"name": "Motamsaro Ona Khaikali", "text": "A gyászoló anya emlékműve Termizben, amely az emlékezés helyszíne.", "category": "landmark", "coords": [67.288169, 37.240863]}, {"name": "Arxiv", "text": "Levéltár épülete Termizben, amely a helyi történelem szempontjából jelentős.", "category": "landmark", "coords": [67.266439, 37.229635]}], "ro": [{"name": "Do'stlik istirohat bog'i", "text": "Un parc în Termiz dedicat prieteniei și recreerii.", "category": "family", "coords": [67.285459, 37.241162]}, {"name": "Termiz Arxeologiya Muzeyi", "text": "Acest muzeu din Termiz expune descoperiri arheologice importante din regiune.", "category": "museum", "coords": [67.282647, 37.244269]}, {"name": "Hayvonot bogi", "text": "Grădina zoologică din Termiz oferă o incursiune în fauna locală și exotică.", "category": "family", "coords": [67.257529, 37.214993]}, {"name": "Qog'irchoq teatri", "text": "Un teatru de păpuși din Termiz care oferă divertisment pentru cei mai tineri vizitatori.", "category": "cultural", "coords": [67.271518, 37.215223]}, {"name": "Amudaryo dam olish maskani", "text": "O zonă de recreere și parc pe malul râului Amu Daria în Termiz.", "category": "family", "coords": [67.31284, 37.233118]}, {"name": "Kurantlar", "text": "Un turn cu ceas distinctiv în Termiz, care servește ca monument local.", "category": "historical", "coords": [67.279544, 37.236261]}, {"name": "Motamsaro Ona Khaikali", "text": "Monumentul Mamei Îndurerate din Termiz, un loc al memoriei.", "category": "landmark", "coords": [67.288169, 37.240863]}, {"name": "Arxiv", "text": "O clădire de arhivă în Termiz, importantă pentru istoria locală.", "category": "landmark", "coords": [67.266439, 37.229635]}], "en": [{"name": "Do'stlik istirohat bog'i", "text": "A park in Termiz dedicated to friendship and recreation.", "category": "family", "coords": [67.285459, 37.241162]}, {"name": "Termez Archaeological Museum", "text": "This museum in Termiz displays significant archaeological finds from the region.", "category": "museum", "coords": [67.282647, 37.244269]}, {"name": "Hayvonot bogi", "text": "The Termiz zoo offers insights into local and exotic wildlife.", "category": "family", "coords": [67.257529, 37.214993]}, {"name": "Qog'irchoq teatri", "text": "A puppet theatre in Termiz providing entertainment for the youngest visitors.", "category": "cultural", "coords": [67.271518, 37.215223]}, {"name": "Amudaryo dam olish maskani", "text": "A recreation area and park on the banks of the Amu Darya in Termiz.", "category": "family", "coords": [67.31284, 37.233118]}, {"name": "Clocktower", "text": "A distinctive clocktower in Termiz that serves as a local monument.", "category": "historical", "coords": [67.279544, 37.236261]}, {"name": "Motamsaro Ona Khaikali", "text": "The Mourning Mother monument in Termiz, a place of remembrance.", "category": "landmark", "coords": [67.288169, 37.240863]}, {"name": "Arxiv", "text": "An archive building in Termiz, significant for local history.", "category": "landmark", "coords": [67.266439, 37.229635]}]},
+    id: "termez-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Do'stlik istirohat bog'i",
+                  "text": "Ein Park in Termiz, der der Freundschaft und Erholung gewidmet ist.",
+                  "category": "family",
+                  "coords": [
+                        67.285459,
+                        37.241162
+                  ]
+            },
+            {
+                  "name": "Termiz Arxeologiya Muzeyi",
+                  "text": "Dieses Museum in Termiz zeigt bedeutende archäologische Funde aus der Region.",
+                  "category": "museum",
+                  "coords": [
+                        67.282647,
+                        37.244269
+                  ]
+            },
+            {
+                  "name": "Hayvonot bogi",
+                  "text": "Der Zoo von Termiz bietet Einblicke in die lokale und exotische Tierwelt.",
+                  "category": "family",
+                  "coords": [
+                        67.257529,
+                        37.214993
+                  ]
+            },
+            {
+                  "name": "Amudaryo dam olish maskani",
+                  "text": "Ein Erholungsgebiet und Park am Ufer des Amudarja in Termiz.",
+                  "category": "family",
+                  "coords": [
+                        67.31284,
+                        37.233118
+                  ]
+            },
+            {
+                  "name": "Kurantlar",
+                  "text": "Ein markanter Uhrturm in Termiz, der als lokales Denkmal dient.",
+                  "category": "historical",
+                  "coords": [
+                        67.279544,
+                        37.236261
+                  ]
+            },
+            {
+                  "name": "Motamsaro Ona Khaikali",
+                  "text": "Ein Denkmal der trauernden Mutter in Termiz, ein Ort des Gedenkens.",
+                  "category": "landmark",
+                  "coords": [
+                        67.288169,
+                        37.240863
+                  ]
+            },
+            {
+                  "name": "Arxiv",
+                  "text": "Ein Archivgebäude in Termiz, das für die lokale Geschichte von Bedeutung ist.",
+                  "category": "landmark",
+                  "coords": [
+                        67.266439,
+                        37.229635
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Do'stlik istirohat bog'i",
+                  "text": "Termizi park, amelyet a barátságnak és a kikapcsolódásnak szenteltek.",
+                  "category": "family",
+                  "coords": [
+                        67.285459,
+                        37.241162
+                  ]
+            },
+            {
+                  "name": "Termiz Arxeologiya Muzeyi",
+                  "text": "Ez a termizi múzeum a régió jelentős régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        67.282647,
+                        37.244269
+                  ]
+            },
+            {
+                  "name": "Hayvonot bogi",
+                  "text": "A termizi állatkert betekintést nyújt a helyi és egzotikus állatvilágba.",
+                  "category": "family",
+                  "coords": [
+                        67.257529,
+                        37.214993
+                  ]
+            },
+            {
+                  "name": "Amudaryo dam olish maskani",
+                  "text": "Üdülőhely és park az Amudarja partján, Termizben.",
+                  "category": "family",
+                  "coords": [
+                        67.31284,
+                        37.233118
+                  ]
+            },
+            {
+                  "name": "Kurantlar",
+                  "text": "Jellegzetes óratorony Termizben, amely helyi emlékműként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        67.279544,
+                        37.236261
+                  ]
+            },
+            {
+                  "name": "Motamsaro Ona Khaikali",
+                  "text": "A gyászoló anya emlékműve Termizben, amely az emlékezés helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        67.288169,
+                        37.240863
+                  ]
+            },
+            {
+                  "name": "Arxiv",
+                  "text": "Levéltár épülete Termizben, amely a helyi történelem szempontjából jelentős.",
+                  "category": "landmark",
+                  "coords": [
+                        67.266439,
+                        37.229635
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Do'stlik istirohat bog'i",
+                  "text": "Un parc în Termiz dedicat prieteniei și recreerii.",
+                  "category": "family",
+                  "coords": [
+                        67.285459,
+                        37.241162
+                  ]
+            },
+            {
+                  "name": "Termiz Arxeologiya Muzeyi",
+                  "text": "Acest muzeu din Termiz expune descoperiri arheologice importante din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        67.282647,
+                        37.244269
+                  ]
+            },
+            {
+                  "name": "Hayvonot bogi",
+                  "text": "Grădina zoologică din Termiz oferă o incursiune în fauna locală și exotică.",
+                  "category": "family",
+                  "coords": [
+                        67.257529,
+                        37.214993
+                  ]
+            },
+            {
+                  "name": "Amudaryo dam olish maskani",
+                  "text": "O zonă de recreere și parc pe malul râului Amu Daria în Termiz.",
+                  "category": "family",
+                  "coords": [
+                        67.31284,
+                        37.233118
+                  ]
+            },
+            {
+                  "name": "Kurantlar",
+                  "text": "Un turn cu ceas distinctiv în Termiz, care servește ca monument local.",
+                  "category": "historical",
+                  "coords": [
+                        67.279544,
+                        37.236261
+                  ]
+            },
+            {
+                  "name": "Motamsaro Ona Khaikali",
+                  "text": "Monumentul Mamei Îndurerate din Termiz, un loc al memoriei.",
+                  "category": "landmark",
+                  "coords": [
+                        67.288169,
+                        37.240863
+                  ]
+            },
+            {
+                  "name": "Arxiv",
+                  "text": "O clădire de arhivă în Termiz, importantă pentru istoria locală.",
+                  "category": "landmark",
+                  "coords": [
+                        67.266439,
+                        37.229635
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Do'stlik istirohat bog'i",
+                  "text": "A park in Termiz dedicated to friendship and recreation.",
+                  "category": "family",
+                  "coords": [
+                        67.285459,
+                        37.241162
+                  ]
+            },
+            {
+                  "name": "Termez Archaeological Museum",
+                  "text": "This museum in Termiz displays significant archaeological finds from the region.",
+                  "category": "museum",
+                  "coords": [
+                        67.282647,
+                        37.244269
+                  ]
+            },
+            {
+                  "name": "Hayvonot bogi",
+                  "text": "The Termiz zoo offers insights into local and exotic wildlife.",
+                  "category": "family",
+                  "coords": [
+                        67.257529,
+                        37.214993
+                  ]
+            },
+            {
+                  "name": "Amudaryo dam olish maskani",
+                  "text": "A recreation area and park on the banks of the Amu Darya in Termiz.",
+                  "category": "family",
+                  "coords": [
+                        67.31284,
+                        37.233118
+                  ]
+            },
+            {
+                  "name": "Clocktower",
+                  "text": "A distinctive clocktower in Termiz that serves as a local monument.",
+                  "category": "historical",
+                  "coords": [
+                        67.279544,
+                        37.236261
+                  ]
+            },
+            {
+                  "name": "Motamsaro Ona Khaikali",
+                  "text": "The Mourning Mother monument in Termiz, a place of remembrance.",
+                  "category": "landmark",
+                  "coords": [
+                        67.288169,
+                        37.240863
+                  ]
+            },
+            {
+                  "name": "Arxiv",
+                  "text": "An archive building in Termiz, significant for local history.",
+                  "category": "landmark",
+                  "coords": [
+                        67.266439,
+                        37.229635
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-SU",
     coords: [67.2783, 37.2242],
@@ -6603,7 +6284,124 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "shahrisabz-cities-v2", "sights": {"de": [{"name": "Oqsaroy", "text": "Die Ruinen des monumentalen „Weißen Palastes“, der während der Herrschaft von Timur in Schahrisabs erbaut wurde.", "category": "castle", "coords": [66.829315, 39.060727]}, {"name": "Kok-Gumbas-Moschee", "text": "Eine Moschee aus dem 15. Jahrhundert in Schahrisabs, bekannt für ihre große blaue Keramikkuppel.", "category": "landmark", "coords": [66.82721, 39.049614]}, {"name": "Medrese Koba", "text": "Ein traditionelles islamisches Schulgebäude und eine architektonische Stätte in Schahrisabs.", "category": "landmark", "coords": [66.827752, 39.055105]}, {"name": "Amir Temur", "text": "Ein Wahrzeichen oder Denkmal in Schahrisabs, das dem historischen Führer Amir Timur gewidmet ist.", "category": "landmark", "coords": [66.829307, 39.05878]}, {"name": "Obilisk Orden Amira Timura", "text": "Ein Gedenkobelisk in Schahrisabs, der mit dem prestigeträchtigen Orden von Amir Timur in Verbindung steht.", "category": "historical", "coords": [66.809953, 39.035259]}, {"name": "Tschorsu", "text": "Ein historischer Kuppelbau und eine Sehenswürdigkeit in Schahrisabs.", "category": "landmark", "coords": [66.8269, 39.053703]}, {"name": "Dorus-Saodat majmuasi", "text": "Ein bedeutendes Denkmal und Gedenkkomplex in Schahrisabs.", "category": "historical", "coords": [66.829995, 39.049803]}, {"name": "Sardoba", "text": "Ein traditioneller Wasserspeicher und eine historische Sehenswürdigkeit in Schahrisabs.", "category": "landmark", "coords": [66.828605, 39.050371]}, {"name": "Hammam", "text": "Die Ruinen eines alten Badehauses in der historischen Stadt Schahrisabs.", "category": "historical", "coords": [66.828553, 39.054009]}], "hu": [{"name": "Oqsaroy", "text": "A Timur Lenk uralkodása alatt épült monumentális „Fehér Palota” romjai Shahrisabsban.", "category": "castle", "coords": [66.829315, 39.060727]}, {"name": "Ko'k gumbaz masjidi", "text": "15. századi mecset Shahrisabsban, amely nagy kék kerámiakupolájáról ismert.", "category": "landmark", "coords": [66.82721, 39.049614]}, {"name": "Medrese Koba", "text": "Hagyományos iszlám iskolaépület és építészeti helyszín Shahrisabsban.", "category": "landmark", "coords": [66.827752, 39.055105]}, {"name": "Amir Temur", "text": "Shahrisabsi nevezetesség vagy emlékmű, amelyet a történelmi vezető, Timur Lenk tiszteletére emeltek.", "category": "landmark", "coords": [66.829307, 39.05878]}, {"name": "Obilisk Orden Amira Timura", "text": "Shahrisabsi emlékmű, amely a rangos Timur Lenk-rendhez kapcsolódik.", "category": "historical", "coords": [66.809953, 39.035259]}, {"name": "Chorsu", "text": "Történelmi kupolás épület és látnivaló Sahriszabzban.", "category": "landmark", "coords": [66.8269, 39.053703]}, {"name": "Dorus-Saodat majmuasi", "text": "Jelentős emlékmű és emlékkomplexum Sahriszabzban.", "category": "historical", "coords": [66.829995, 39.049803]}, {"name": "Sardoba", "text": "Hagyományos víztározó és történelmi látnivaló Sahriszabzban.", "category": "landmark", "coords": [66.828605, 39.050371]}, {"name": "Hammam", "text": "Egy régi fürdőház romjai Sahriszabz történelmi városában.", "category": "historical", "coords": [66.828553, 39.054009]}], "ro": [{"name": "Oqsaroy", "text": "Ruinele monumentalului „Palat Alb” construit în timpul domniei lui Timur în Schahrisabs.", "category": "castle", "coords": [66.829315, 39.060727]}, {"name": "Ko'k gumbaz masjidi", "text": "O moschee din secolul al XV-lea din Schahrisabs, cunoscută pentru marea sa cupolă din ceramică albastră.", "category": "landmark", "coords": [66.82721, 39.049614]}, {"name": "Medrese Koba", "text": "O clădire tradițională de școală islamică și un sit arhitectural în Schahrisabs.", "category": "landmark", "coords": [66.827752, 39.055105]}, {"name": "Amir Temur", "text": "Un reper sau monument în Schahrisabs dedicat liderului istoric Amir Timur.", "category": "landmark", "coords": [66.829307, 39.05878]}, {"name": "Obilisk Orden Amira Timura", "text": "Un obelisc memorial în Schahrisabs legat de prestigiosul Ordin al lui Amir Timur.", "category": "historical", "coords": [66.809953, 39.035259]}, {"name": "Chorsu", "text": "O structură istorică cu cupolă și o atracție în Shahrisabz.", "category": "landmark", "coords": [66.8269, 39.053703]}, {"name": "Dorus-Saodat majmuasi", "text": "Un monument important și complex memorial în Shahrisabz.", "category": "historical", "coords": [66.829995, 39.049803]}, {"name": "Sardoba", "text": "Un rezervor de apă tradițional și o atracție istorică în Shahrisabz.", "category": "landmark", "coords": [66.828605, 39.050371]}, {"name": "Hammam", "text": "Ruinele unei vechi băi publice în orașul istoric Shahrisabz.", "category": "historical", "coords": [66.828553, 39.054009]}], "en": [{"name": "Oqsaroy", "text": "The ruins of the monumental \"White Palace\" built during the reign of Timur in Schahrisabs.", "category": "castle", "coords": [66.829315, 39.060727]}, {"name": "Kuk Gumbaz Mosque", "text": "A 15th-century mosque in Schahrisabs known for its large blue ceramic dome.", "category": "landmark", "coords": [66.82721, 39.049614]}, {"name": "Medrese Koba", "text": "A traditional Islamic school building and architectural site in Schahrisabs.", "category": "landmark", "coords": [66.827752, 39.055105]}, {"name": "Amir Temur", "text": "A landmark or monument in Schahrisabs dedicated to the historical leader Amir Timur.", "category": "landmark", "coords": [66.829307, 39.05878]}, {"name": "Obilisk Orden Amira Timura", "text": "A memorial obelisk in Schahrisabs related to the prestigious Order of Amir Timur.", "category": "historical", "coords": [66.809953, 39.035259]}, {"name": "Chorsu", "text": "A historic domed structure and attraction in Shahrisabz.", "category": "landmark", "coords": [66.8269, 39.053703]}, {"name": "Dorus Saodat Complex", "text": "A significant monument and memorial complex in Shahrisabz.", "category": "historical", "coords": [66.829995, 39.049803]}, {"name": "Sardoba", "text": "A traditional water cistern and historic attraction in Shahrisabz.", "category": "landmark", "coords": [66.828605, 39.050371]}, {"name": "Hammam", "text": "The ruins of an ancient bathhouse in the historic city of Shahrisabz.", "category": "historical", "coords": [66.828553, 39.054009]}]},
+    id: "shahrisabz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Medrese Koba",
+                  "text": "Ein traditionelles islamisches Schulgebäude und eine architektonische Stätte in Schahrisabs.",
+                  "category": "landmark",
+                  "coords": [
+                        66.827752,
+                        39.055105
+                  ]
+            },
+            {
+                  "name": "Tschorsu",
+                  "text": "Ein historischer Kuppelbau und eine Sehenswürdigkeit in Schahrisabs.",
+                  "category": "landmark",
+                  "coords": [
+                        66.8269,
+                        39.053703
+                  ]
+            },
+            {
+                  "name": "Hammam",
+                  "text": "Die Ruinen eines alten Badehauses in der historischen Stadt Schahrisabs.",
+                  "category": "historical",
+                  "coords": [
+                        66.828553,
+                        39.054009
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Medrese Koba",
+                  "text": "Hagyományos iszlám iskolaépület és építészeti helyszín Shahrisabsban.",
+                  "category": "landmark",
+                  "coords": [
+                        66.827752,
+                        39.055105
+                  ]
+            },
+            {
+                  "name": "Chorsu",
+                  "text": "Történelmi kupolás épület és látnivaló Sahriszabzban.",
+                  "category": "landmark",
+                  "coords": [
+                        66.8269,
+                        39.053703
+                  ]
+            },
+            {
+                  "name": "Hammam",
+                  "text": "Egy régi fürdőház romjai Sahriszabz történelmi városában.",
+                  "category": "historical",
+                  "coords": [
+                        66.828553,
+                        39.054009
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Medrese Koba",
+                  "text": "O clădire tradițională de școală islamică și un sit arhitectural în Schahrisabs.",
+                  "category": "landmark",
+                  "coords": [
+                        66.827752,
+                        39.055105
+                  ]
+            },
+            {
+                  "name": "Chorsu",
+                  "text": "O structură istorică cu cupolă și o atracție în Shahrisabz.",
+                  "category": "landmark",
+                  "coords": [
+                        66.8269,
+                        39.053703
+                  ]
+            },
+            {
+                  "name": "Hammam",
+                  "text": "Ruinele unei vechi băi publice în orașul istoric Shahrisabz.",
+                  "category": "historical",
+                  "coords": [
+                        66.828553,
+                        39.054009
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Medrese Koba",
+                  "text": "A traditional Islamic school building and architectural site in Schahrisabs.",
+                  "category": "landmark",
+                  "coords": [
+                        66.827752,
+                        39.055105
+                  ]
+            },
+            {
+                  "name": "Chorsu",
+                  "text": "A historic domed structure and attraction in Shahrisabz.",
+                  "category": "landmark",
+                  "coords": [
+                        66.8269,
+                        39.053703
+                  ]
+            },
+            {
+                  "name": "Hammam",
+                  "text": "The ruins of an ancient bathhouse in the historic city of Shahrisabz.",
+                  "category": "historical",
+                  "coords": [
+                        66.828553,
+                        39.054009
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UZ-QA",
     coords: [66.8253, 39.0525],
@@ -8016,15 +7814,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
     id: "khiva-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Ko'hna Ark",
-                  "text": "Die historische Zitadelle und ehemalige Residenz der Khanen in Chiwa.",
-                  "category": "fortress",
-                  "coords": [
-                        60.358221,
-                        41.378883
-                  ]
-            },
-            {
                   "name": "Ichan-Qala",
                   "text": "Die ummauerte Innenstadt von Chiwa, die zum UNESCO-Welterbe gehört.",
                   "category": "castle",
@@ -8049,15 +7838,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   "coords": [
                         60.361095,
                         41.377376
-                  ]
-            },
-            {
-                  "name": "Tibbiyot muzeyi",
-                  "text": "Ein Museum in Chiwa, das die Geschichte der Medizin in der Region zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        60.359093,
-                        41.37634
                   ]
             },
             {
@@ -8088,30 +7868,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sayid Sholikorboy minorasi",
-                  "text": "Ein bedeutendes Minarett in Chiwa, das Teil eines religiösen Komplexes ist.",
-                  "category": "historical",
-                  "coords": [
-                        60.362731,
-                        41.376898
-                  ]
-            },
-            {
                   "name": "Minaret Chilli-Avliya",
                   "text": "Ein historisches Minarett und eine architektonische Sehenswürdigkeit in Chiwa.",
                   "category": "landmark",
                   "coords": [
                         60.349449,
                         41.376373
-                  ]
-            },
-            {
-                  "name": "Vkhod v kompleks",
-                  "text": "Der Eingangsbereich zu einem der historischen Architekturkomplexe in Chiwa.",
-                  "category": "landmark",
-                  "coords": [
-                        60.36619,
-                        41.379134
                   ]
             },
             {
@@ -8124,48 +7886,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dishan - Kala",
-                  "text": "Dishan-Kala ist die äußere Verteidigungsmauer von Chiwa, die die Altstadt umschließt.",
-                  "category": "historical",
-                  "coords": [
-                        60.352684,
-                        41.385074
-                  ]
-            },
-            {
                   "name": "Grobnitsa",
                   "text": "Ein historisches Grabmal in Chiwa mit einer traditionellen zentralasiatischen Fassade und Spitzbogeneingang.",
                   "category": "landmark",
                   "coords": [
                         60.359824,
                         41.381136
-                  ]
-            },
-            {
-                  "name": "Abdol bobo minorasi",
-                  "text": "Das Abdal Bobo Minarett in Chiwa ist ein schlankes Backsteinminarett mit dekorativen Bändern.",
-                  "category": "landmark",
-                  "coords": [
-                        60.365272,
-                        41.376714
-                  ]
-            },
-            {
-                  "name": "Dasha kala steny",
-                  "text": "Die Dasha-Kala-Stadtmauern aus Lehmziegeln schützen eine alte Festung in Chiwa.",
-                  "category": "landmark",
-                  "coords": [
-                        60.359359,
-                        41.372931
-                  ]
-            },
-            {
-                  "name": "Kolodets",
-                  "text": "Ein historischer Brunnen und eine lokale Sehenswürdigkeit in Chiwa.",
-                  "category": "landmark",
-                  "coords": [
-                        60.346697,
-                        41.373852
                   ]
             },
             {
@@ -8178,33 +7904,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mavzolei Shakalandara Bobo",
-                  "text": "Ein historisches Mausoleum und eine Sehenswürdigkeit in Chiwa.",
-                  "category": "landmark",
-                  "coords": [
-                        60.35535,
-                        41.379459
-                  ]
-            },
-            {
-                  "name": "Nurulla-Bei-Palast",
-                  "text": "Ein prächtiger Palastkomplex und eine Sehenswürdigkeit in Chiwa.",
-                  "category": "landmark",
-                  "coords": [
-                        60.356521,
-                        41.382784
-                  ]
-            },
-            {
-                  "name": "Minaret Murad-Tura",
-                  "text": "Ein historisches Minarett und eine architektonische Sehenswürdigkeit in Chiwa.",
-                  "category": "landmark",
-                  "coords": [
-                        60.35925,
-                        41.378999
-                  ]
-            },
-            {
                   "name": "Letnyaya rezidentsiya Islom Khodzhi",
                   "text": "Eine ehemalige Sommerresidenz und eine historische Sehenswürdigkeit in Chiwa.",
                   "category": "landmark",
@@ -8212,36 +7911,9 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                         60.338234,
                         41.368978
                   ]
-            },
-            {
-                  "name": "Said Muxammad Moxiro'y Majmuasi",
-                  "text": "Der Komplex von Said Mukhammad Mokhiruy in Chiwa umfasst ein Mausoleum und eine Moschee.",
-                  "category": "landmark",
-                  "coords": [
-                        60.365726,
-                        41.382887
-                  ]
-            },
-            {
-                  "name": "Ota Darvoza",
-                  "text": "Das Westtor der historischen Altstadt Itchan Kala in Chiwa.",
-                  "category": "fortress",
-                  "coords": [
-                        60.35717,
-                        41.378673
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Ko'hna Ark",
-                  "text": "Khíva történelmi citadellája és a kánok egykori rezidenciája.",
-                  "category": "fortress",
-                  "coords": [
-                        60.358221,
-                        41.378883
-                  ]
-            },
             {
                   "name": "Ichan-Qala",
                   "text": "Khíva falakkal körülvett belső városa, amely az UNESCO Világörökség része.",
@@ -8267,15 +7939,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   "coords": [
                         60.361095,
                         41.377376
-                  ]
-            },
-            {
-                  "name": "Tibbiyot muzeyi",
-                  "text": "Khívai múzeum, amely a régió orvostudományi történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        60.359093,
-                        41.37634
                   ]
             },
             {
@@ -8306,30 +7969,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sayid Sholikorboy minorasi",
-                  "text": "Khíva egyik jelentős minaretje, amely egy vallási komplexum része.",
-                  "category": "historical",
-                  "coords": [
-                        60.362731,
-                        41.376898
-                  ]
-            },
-            {
                   "name": "Minaret Chilli-Avliya",
                   "text": "Történelmi minaret és építészeti látnivaló Khívában.",
                   "category": "landmark",
                   "coords": [
                         60.349449,
                         41.376373
-                  ]
-            },
-            {
-                  "name": "Vkhod v kompleks",
-                  "text": "Bejárat Khíva egyik történelmi építészeti komplexumához.",
-                  "category": "landmark",
-                  "coords": [
-                        60.36619,
-                        41.379134
                   ]
             },
             {
@@ -8342,48 +7987,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dishan - Kala",
-                  "text": "Dishan-Kala Khiva külső védőfala, amely körbeveszi az óvárost.",
-                  "category": "historical",
-                  "coords": [
-                        60.352684,
-                        41.385074
-                  ]
-            },
-            {
                   "name": "Grobnitsa",
                   "text": "Egy történelmi síremlék Khivában, hagyományos közép-ázsiai homlokzattal és csúcsíves bejárattal.",
                   "category": "landmark",
                   "coords": [
                         60.359824,
                         41.381136
-                  ]
-            },
-            {
-                  "name": "Abdol bobo minorasi",
-                  "text": "Az Abdal Bobo minaret Khivában egy karcsú téglaminaret díszítő sávokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        60.365272,
-                        41.376714
-                  ]
-            },
-            {
-                  "name": "Dasha kala steny",
-                  "text": "A Dasha Kala sár-tégla falai egy ősi erődítményt védenek Khivában.",
-                  "category": "landmark",
-                  "coords": [
-                        60.359359,
-                        41.372931
-                  ]
-            },
-            {
-                  "name": "Kolodets",
-                  "text": "Történelmi kút és helyi látnivaló Khíva városában.",
-                  "category": "landmark",
-                  "coords": [
-                        60.346697,
-                        41.373852
                   ]
             },
             {
@@ -8396,33 +8005,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mavzolei Shakalandara Bobo",
-                  "text": "Történelmi mauzóleum és látnivaló Khíva városában.",
-                  "category": "landmark",
-                  "coords": [
-                        60.35535,
-                        41.379459
-                  ]
-            },
-            {
-                  "name": "Nurullaboy Hovlilari",
-                  "text": "Pompás palotakomplexum és látnivaló Khíva városában.",
-                  "category": "landmark",
-                  "coords": [
-                        60.356521,
-                        41.382784
-                  ]
-            },
-            {
-                  "name": "Minaret Murad-Tura",
-                  "text": "Történelmi minaret és építészeti látnivaló Khívában.",
-                  "category": "landmark",
-                  "coords": [
-                        60.35925,
-                        41.378999
-                  ]
-            },
-            {
                   "name": "Letnyaya rezidentsiya Islom Khodzhi",
                   "text": "Egykori nyári rezidencia és történelmi látnivaló Khívában.",
                   "category": "landmark",
@@ -8430,36 +8012,9 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                         60.338234,
                         41.368978
                   ]
-            },
-            {
-                  "name": "Said Muxammad Moxiro'y Majmuasi",
-                  "text": "Said Mukhammad Mokhiruy komplexuma Khivában egy mauzóleumot és egy mecsetet foglal magában.",
-                  "category": "landmark",
-                  "coords": [
-                        60.365726,
-                        41.382887
-                  ]
-            },
-            {
-                  "name": "Ota Darvoza",
-                  "text": "Khíva történelmi óvárosának, az Icshan Kalának a nyugati kapuja.",
-                  "category": "fortress",
-                  "coords": [
-                        60.35717,
-                        41.378673
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Ko'hna Ark",
-                  "text": "Citadela istorică și fosta reședință a hanilor din Khiva.",
-                  "category": "fortress",
-                  "coords": [
-                        60.358221,
-                        41.378883
-                  ]
-            },
             {
                   "name": "Ichan-Qala",
                   "text": "Orașul interior fortificat din Khiva, parte a patrimoniului mondial UNESCO.",
@@ -8485,15 +8040,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   "coords": [
                         60.361095,
                         41.377376
-                  ]
-            },
-            {
-                  "name": "Tibbiyot muzeyi",
-                  "text": "Un muzeu din Khiva care prezintă istoria medicinei în regiune.",
-                  "category": "museum",
-                  "coords": [
-                        60.359093,
-                        41.37634
                   ]
             },
             {
@@ -8524,30 +8070,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sayid Sholikorboy minorasi",
-                  "text": "Un minaret important din Khiva, parte a unui complex religios.",
-                  "category": "historical",
-                  "coords": [
-                        60.362731,
-                        41.376898
-                  ]
-            },
-            {
                   "name": "Minaret Chilli-Avliya",
                   "text": "Un minaret istoric și o atracție arhitecturală în Khiva.",
                   "category": "landmark",
                   "coords": [
                         60.349449,
                         41.376373
-                  ]
-            },
-            {
-                  "name": "Vkhod v kompleks",
-                  "text": "Zona de intrare într-unul dintre complexele arhitecturale istorice din Khiva.",
-                  "category": "landmark",
-                  "coords": [
-                        60.36619,
-                        41.379134
                   ]
             },
             {
@@ -8560,48 +8088,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dishan - Kala",
-                  "text": "Dishan-Kala este zidul exterior de apărare al Khivei, care înconjoară orașul vechi.",
-                  "category": "historical",
-                  "coords": [
-                        60.352684,
-                        41.385074
-                  ]
-            },
-            {
                   "name": "Grobnitsa",
                   "text": "Un mormânt istoric din Khiva, cu o fațadă tradițională central-asiatică și un arc ascuțit la intrare.",
                   "category": "landmark",
                   "coords": [
                         60.359824,
                         41.381136
-                  ]
-            },
-            {
-                  "name": "Abdol bobo minorasi",
-                  "text": "Minaretul Abdal Bobo din Khiva este un minaret zvelt de cărămidă cu benzi decorative.",
-                  "category": "landmark",
-                  "coords": [
-                        60.365272,
-                        41.376714
-                  ]
-            },
-            {
-                  "name": "Dasha kala steny",
-                  "text": "Zidurile de chirpici ale Dasha Kala apără o veche fortăreață din Khiva.",
-                  "category": "landmark",
-                  "coords": [
-                        60.359359,
-                        41.372931
-                  ]
-            },
-            {
-                  "name": "Kolodets",
-                  "text": "O fântână istorică și o atracție locală în orașul Khiva.",
-                  "category": "landmark",
-                  "coords": [
-                        60.346697,
-                        41.373852
                   ]
             },
             {
@@ -8614,33 +8106,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mavzolei Shakalandara Bobo",
-                  "text": "Un mausoleu istoric și o atracție în orașul Khiva.",
-                  "category": "landmark",
-                  "coords": [
-                        60.35535,
-                        41.379459
-                  ]
-            },
-            {
-                  "name": "Nurullaboy Hovlilari",
-                  "text": "Un complex palatinal splendid și o atracție în orașul Khiva.",
-                  "category": "landmark",
-                  "coords": [
-                        60.356521,
-                        41.382784
-                  ]
-            },
-            {
-                  "name": "Minaret Murad-Tura",
-                  "text": "Un minaret istoric și o atracție arhitecturală în Khiva.",
-                  "category": "landmark",
-                  "coords": [
-                        60.35925,
-                        41.378999
-                  ]
-            },
-            {
                   "name": "Letnyaya rezidentsiya Islom Khodzhi",
                   "text": "O fostă reședință de vară și o atracție istorică în Khiva.",
                   "category": "landmark",
@@ -8648,36 +8113,9 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                         60.338234,
                         41.368978
                   ]
-            },
-            {
-                  "name": "Said Muxammad Moxiro'y Majmuasi",
-                  "text": "Complexul Said Mukhammad Mokhiruy din Khiva include un mausoleu și o moschee.",
-                  "category": "landmark",
-                  "coords": [
-                        60.365726,
-                        41.382887
-                  ]
-            },
-            {
-                  "name": "Ota Darvoza",
-                  "text": "Poarta de vest a orașului vechi istoric Itchan Kala din Khiva.",
-                  "category": "fortress",
-                  "coords": [
-                        60.35717,
-                        41.378673
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Konya Ark",
-                  "text": "The historic citadel and former residence of the Khans in Khiva.",
-                  "category": "fortress",
-                  "coords": [
-                        60.358221,
-                        41.378883
-                  ]
-            },
             {
                   "name": "Itchan Kala",
                   "text": "The walled inner city of Khiva, a UNESCO World Heritage site.",
@@ -8703,15 +8141,6 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   "coords": [
                         60.361095,
                         41.377376
-                  ]
-            },
-            {
-                  "name": "Medicine Museum",
-                  "text": "A museum in Khiva documenting the history of medicine in the region.",
-                  "category": "museum",
-                  "coords": [
-                        60.359093,
-                        41.37634
                   ]
             },
             {
@@ -8742,30 +8171,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Said Niyoz Sholikorboy Minaret",
-                  "text": "A significant minaret in Khiva, part of a religious complex.",
-                  "category": "historical",
-                  "coords": [
-                        60.362731,
-                        41.376898
-                  ]
-            },
-            {
                   "name": "Minaret Chilli-Avliya",
                   "text": "A historic minaret and architectural attraction in Khiva.",
                   "category": "landmark",
                   "coords": [
                         60.349449,
                         41.376373
-                  ]
-            },
-            {
-                  "name": "Vkhod v kompleks",
-                  "text": "The entrance area to one of the historic architectural complexes in Khiva.",
-                  "category": "landmark",
-                  "coords": [
-                        60.36619,
-                        41.379134
                   ]
             },
             {
@@ -8778,48 +8189,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dishan - Kala",
-                  "text": "Dishan-Kala is the outer defensive wall of Khiva, enclosing the old city.",
-                  "category": "historical",
-                  "coords": [
-                        60.352684,
-                        41.385074
-                  ]
-            },
-            {
                   "name": "Grobnitsa",
                   "text": "A historic tomb in Khiva, featuring a traditional Central Asian facade and pointed arch entrance.",
                   "category": "landmark",
                   "coords": [
                         60.359824,
                         41.381136
-                  ]
-            },
-            {
-                  "name": "Abdal Bobo Minaret",
-                  "text": "Abdal Bobo Minaret in Khiva is a slender brick minaret with decorative bands.",
-                  "category": "landmark",
-                  "coords": [
-                        60.365272,
-                        41.376714
-                  ]
-            },
-            {
-                  "name": "Dasha kala steny",
-                  "text": "The mud-brick walls of Dasha Kala defend an ancient fortress in Khiva.",
-                  "category": "landmark",
-                  "coords": [
-                        60.359359,
-                        41.372931
-                  ]
-            },
-            {
-                  "name": "Kolodets",
-                  "text": "A historic well and local attraction in the city of Khiva.",
-                  "category": "landmark",
-                  "coords": [
-                        60.346697,
-                        41.373852
                   ]
             },
             {
@@ -8832,57 +8207,12 @@ export const poiExtraUzbekistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mavzolei Shakalandara Bobo",
-                  "text": "A historic mausoleum and attraction in the city of Khiva.",
-                  "category": "landmark",
-                  "coords": [
-                        60.35535,
-                        41.379459
-                  ]
-            },
-            {
-                  "name": "Nurallabaya Palace",
-                  "text": "A splendid palace complex and attraction in the city of Khiva.",
-                  "category": "landmark",
-                  "coords": [
-                        60.356521,
-                        41.382784
-                  ]
-            },
-            {
-                  "name": "Minaret Murad-Tura",
-                  "text": "A historic minaret and architectural attraction in Khiva.",
-                  "category": "landmark",
-                  "coords": [
-                        60.35925,
-                        41.378999
-                  ]
-            },
-            {
                   "name": "Letnyaya rezidentsiya Islom Khodzhi",
                   "text": "A former summer residence and historic attraction in Khiva.",
                   "category": "landmark",
                   "coords": [
                         60.338234,
                         41.368978
-                  ]
-            },
-            {
-                  "name": "Complex of Said Mukhammad Mokhiruy",
-                  "text": "The complex of Said Mukhammad Mokhiruy in Khiva includes a mausoleum and a mosque.",
-                  "category": "landmark",
-                  "coords": [
-                        60.365726,
-                        41.382887
-                  ]
-            },
-            {
-                  "name": "Aa Darvoza (West Gate)",
-                  "text": "The west gate of the historic inner city Itchan Kala in Khiva.",
-                  "category": "fortress",
-                  "coords": [
-                        60.35717,
-                        41.378673
                   ]
             }
       ]

@@ -513,39 +513,12 @@ export const poiExtraZambiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Livingstone Museum",
-                  "text": "Das größte und älteste Museum in Sambia, das sich in Livingstone befindet und umfangreiche Ausstellungen über den Entdecker David Livingstone bietet.",
-                  "category": "museum",
-                  "coords": [
-                        25.855153,
-                        -17.847984
-                  ]
-            },
-            {
-                  "name": "Trash Elephant",
-                  "text": "Ein kreatives, umweltfreundliches Denkmal in Livingstone, das vollständig aus recycelten Abfallmaterialien besteht.",
-                  "category": "historical",
-                  "coords": [
-                        25.855015,
-                        -17.850163
-                  ]
-            },
-            {
                   "name": "Royal Livingstone Express",
                   "text": "Ein luxuriöser historischer Dampfzug in Livingstone, der malerische Restaurantfahrten zur Victoria Falls Bridge anbietet.",
                   "category": "landmark",
                   "coords": [
                         25.854819,
                         -17.863518
-                  ]
-            },
-            {
-                  "name": "Mukuni Curio Market",
-                  "text": "Ein geschäftiger lokaler Markt in Livingstone, auf dem Handwerker handgeschnitzte Holzskulpturen und traditionelles sambisches Kunsthandwerk verkaufen.",
-                  "category": "landmark",
-                  "coords": [
-                        25.859365,
-                        -17.844259
                   ]
             }
       ],
@@ -587,39 +560,12 @@ export const poiExtraZambiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Livingstone Museum",
-                  "text": "Zambia legnagyobb és legrégebbi múzeuma, amely Livingstone-ban található, és kiterjedt kiállításokat kínál David Livingstone felfedezőről.",
-                  "category": "museum",
-                  "coords": [
-                        25.855153,
-                        -17.847984
-                  ]
-            },
-            {
-                  "name": "Trash Elephant",
-                  "text": "Kreatív, környezetbarát emlékmű Livingstone-ban, amely teljes egészében újrahasznosított hulladékból készült.",
-                  "category": "historical",
-                  "coords": [
-                        25.855015,
-                        -17.850163
-                  ]
-            },
-            {
                   "name": "Royal Livingstone Express",
                   "text": "Luxus vintage gőzmozdony Livingstone-ban, amely festői étkezős utazásokat kínál a Viktória-vízesés hídja felé.",
                   "category": "landmark",
                   "coords": [
                         25.854819,
                         -17.863518
-                  ]
-            },
-            {
-                  "name": "Mukuni Curio Market",
-                  "text": "Nyüzsgő helyi piac Livingstone-ban, ahol kézművesek kézzel faragott faszobrokat és hagyományos zambiai kézműves termékeket árulnak.",
-                  "category": "landmark",
-                  "coords": [
-                        25.859365,
-                        -17.844259
                   ]
             }
       ],
@@ -661,39 +607,12 @@ export const poiExtraZambiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Livingstone Museum",
-                  "text": "Cel mai mare și mai vechi muzeu din Zambia, situat în Livingstone, cu expoziții extinse despre exploratorul David Livingstone.",
-                  "category": "museum",
-                  "coords": [
-                        25.855153,
-                        -17.847984
-                  ]
-            },
-            {
-                  "name": "Trash Elephant",
-                  "text": "Un monument creativ și ecologic în Livingstone, construit în întregime din materiale reciclate.",
-                  "category": "historical",
-                  "coords": [
-                        25.855015,
-                        -17.850163
-                  ]
-            },
-            {
                   "name": "Royal Livingstone Express",
                   "text": "Un tren cu abur de epocă de lux din Livingstone care oferă călătorii pitorești cu cină spre podul Victoria Falls.",
                   "category": "landmark",
                   "coords": [
                         25.854819,
                         -17.863518
-                  ]
-            },
-            {
-                  "name": "Mukuni Curio Market",
-                  "text": "O piață locală plină de viață în Livingstone, unde meșteșugarii vând sculpturi din lemn lucrate manual și meșteșuguri tradiționale zambiene.",
-                  "category": "landmark",
-                  "coords": [
-                        25.859365,
-                        -17.844259
                   ]
             }
       ],
@@ -735,39 +654,12 @@ export const poiExtraZambiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Livingstone Museum",
-                  "text": "The largest and oldest museum in Zambia, located in Livingstone, featuring extensive displays on the explorer David Livingstone.",
-                  "category": "museum",
-                  "coords": [
-                        25.855153,
-                        -17.847984
-                  ]
-            },
-            {
-                  "name": "Trash Elephant",
-                  "text": "A creative, eco-friendly monument in Livingstone constructed entirely from recycled waste materials.",
-                  "category": "historical",
-                  "coords": [
-                        25.855015,
-                        -17.850163
-                  ]
-            },
-            {
                   "name": "Royal Livingstone Express",
                   "text": "A luxury vintage steam train in Livingstone that offers scenic dining journeys towards the Victoria Falls bridge.",
                   "category": "landmark",
                   "coords": [
                         25.854819,
                         -17.863518
-                  ]
-            },
-            {
-                  "name": "Mukuni Curio Market",
-                  "text": "A bustling local market in Livingstone where artisans sell hand-carved wooden sculptures and traditional Zambian crafts.",
-                  "category": "landmark",
-                  "coords": [
-                        25.859365,
-                        -17.844259
                   ]
             }
       ]

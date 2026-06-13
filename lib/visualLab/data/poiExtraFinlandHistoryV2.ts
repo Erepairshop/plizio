@@ -1293,24 +1293,6 @@ export const finlandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hvassbukstorget",
-                  "text": "Ein kleiner Strandabschnitt in der Altstadt von Tammisaari.",
-                  "category": "recreational",
-                  "coords": [
-                        23.430287,
-                        59.97149
-                  ]
-            },
-            {
-                  "name": "Badstrand för hundar",
-                  "text": "Ein spezieller Strandabschnitt in Tammisaari, an dem Hunde schwimmen dürfen.",
-                  "category": "recreational",
-                  "coords": [
-                        23.429468,
-                        59.974241
-                  ]
-            },
-            {
                   "name": "Ormnäs campings badstrand",
                   "text": "Badestrand am Campingplatz Ormnäs nahe der Altstadt von Tammisaari.",
                   "category": "recreational",
@@ -1372,15 +1354,6 @@ export const finlandHistoryV2: POI[] = [
                         23.409121,
                         59.980135
                   ]
-            },
-            {
-                  "name": "Knipans badstrand",
-                  "text": "Ein beliebter Strand in Tammisaari, der ideal für einen entspannten Familientag am Meer ist.",
-                  "category": "family",
-                  "coords": [
-                        23.430304,
-                        59.975807
-                  ]
             }
       ],
       "hu": [
@@ -1418,24 +1391,6 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         23.409678,
                         59.981439
-                  ]
-            },
-            {
-                  "name": "Hvassbukstorget",
-                  "text": "Egy kisebb partszakasz Tammisaari óvárosi részén.",
-                  "category": "recreational",
-                  "coords": [
-                        23.430287,
-                        59.97149
-                  ]
-            },
-            {
-                  "name": "Badstrand för hundar",
-                  "text": "Speciális kutyastrand Tammisaari városában, ahol az állatok is fürödhetnek.",
-                  "category": "recreational",
-                  "coords": [
-                        23.429468,
-                        59.974241
                   ]
             },
             {
@@ -1500,15 +1455,6 @@ export const finlandHistoryV2: POI[] = [
                         23.409121,
                         59.980135
                   ]
-            },
-            {
-                  "name": "Knipans badstrand",
-                  "text": "Népszerű strand Tammisaariban, amely ideális egy pihentető családi naphoz a tengerparton.",
-                  "category": "family",
-                  "coords": [
-                        23.430304,
-                        59.975807
-                  ]
             }
       ],
       "ro": [
@@ -1546,24 +1492,6 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         23.409678,
                         59.981439
-                  ]
-            },
-            {
-                  "name": "Hvassbukstorget",
-                  "text": "O mică secțiune de plajă în orașul vechi din Tammisaari.",
-                  "category": "recreational",
-                  "coords": [
-                        23.430287,
-                        59.97149
-                  ]
-            },
-            {
-                  "name": "Badstrand för hundar",
-                  "text": "O secțiune specială de plajă în Tammisaari unde câinii au voie să înoate.",
-                  "category": "recreational",
-                  "coords": [
-                        23.429468,
-                        59.974241
                   ]
             },
             {
@@ -1628,15 +1556,6 @@ export const finlandHistoryV2: POI[] = [
                         23.409121,
                         59.980135
                   ]
-            },
-            {
-                  "name": "Knipans badstrand",
-                  "text": "O plajă populară în Tammisaari, ideală pentru o zi relaxantă în familie la malul mării.",
-                  "category": "family",
-                  "coords": [
-                        23.430304,
-                        59.975807
-                  ]
             }
       ],
       "en": [
@@ -1674,15 +1593,6 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         23.409678,
                         59.981439
-                  ]
-            },
-            {
-                  "name": "Hvassbukstorget",
-                  "text": "A small beach area located in the old town of Tammisaari.",
-                  "category": "recreational",
-                  "coords": [
-                        23.430287,
-                        59.97149
                   ]
             },
             {
@@ -1755,15 +1665,6 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         23.409121,
                         59.980135
-                  ]
-            },
-            {
-                  "name": "Knipans badstrand",
-                  "text": "A popular beach in Tammisaari, ideal for a relaxing family day by the sea.",
-                  "category": "family",
-                  "coords": [
-                        23.430304,
-                        59.975807
                   ]
             }
       ]
@@ -3300,66 +3201,12 @@ export const finlandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kokkolan Kaupunginteatteri",
-                  "text": "Das Stadttheater von Kokkola, das eine Vielzahl von dramatischen Aufführungen anbietet.",
-                  "category": "cultural",
-                  "coords": [
-                        23.119714,
-                        63.837969
-                  ]
-            },
-            {
                   "name": "Kokkolan raatihuone",
                   "text": "Ein historisches Gebäude in Kokkola, das für kulturelle Veranstaltungen und Theateraufführungen genutzt wird.",
                   "category": "cultural",
                   "coords": [
                         23.131058,
                         63.838658
-                  ]
-            },
-            {
-                  "name": "K. H. Renlundin museo",
-                  "text": "Ein Provinzmuseum in Kokkola mit Schwerpunkt auf Kunst und Kulturgeschichte.",
-                  "category": "museum",
-                  "coords": [
-                        23.129974,
-                        63.837232
-                  ]
-            },
-            {
-                  "name": "Kaarlelan kotiseutumuseo",
-                  "text": "Ein Heimatmuseum in Kokkola, das die ländliche Geschichte und das traditionelle Leben zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        23.132537,
-                        63.826549
-                  ]
-            },
-            {
-                  "name": "Palomuseo",
-                  "text": "Ein Museum in Kokkola, das der Geschichte der Brandbekämpfung und der Feuerwehrausrüstung gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        23.162966,
-                        63.820683
-                  ]
-            },
-            {
-                  "name": "Luonnontieteellinen museo Kieppi",
-                  "text": "Das naturkundliche Museum von Kokkola mit umfangreichen Sammlungen von Mineralien und Fossilien.",
-                  "category": "museum",
-                  "coords": [
-                        23.128828,
-                        63.837511
-                  ]
-            },
-            {
-                  "name": "Elämän pursi",
-                  "text": "Ein öffentliches Denkmal in Kokkola, das den lokalen künstlerischen Ausdruck repräsentiert.",
-                  "category": "historical",
-                  "coords": [
-                        23.130149,
-                        63.827125
                   ]
             },
             {
@@ -3387,42 +3234,6 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         23.141957,
                         63.840527
-                  ]
-            },
-            {
-                  "name": "Kokkolan Baptistiseurakunta",
-                  "text": "Ein Gebäude der Baptistengemeinde in Kokkola, das der religiösen Anbetung gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        23.117325,
-                        63.836612
-                  ]
-            },
-            {
-                  "name": "Gamlakarleby Metodistförsamling",
-                  "text": "Ein Gebäude der Methodistenkirche, das Dienste für die Gemeinde in Kokkola anbietet.",
-                  "category": "religious",
-                  "coords": [
-                        23.126731,
-                        63.837062
-                  ]
-            },
-            {
-                  "name": "Närvilän rukoushuone",
-                  "text": "Ein Gebetshaus in Kokkola, das für religiöse Versammlungen und Gottesdienste genutzt wird.",
-                  "category": "religious",
-                  "coords": [
-                        23.157093,
-                        63.833762
-                  ]
-            },
-            {
-                  "name": "Kokkolan seudun rauhanyhdistys",
-                  "text": "Ein religiöses Versammlungshaus in Kokkola, das zur konservativen laestadianischen Bewegung gehört.",
-                  "category": "religious",
-                  "coords": [
-                        23.112503,
-                        63.826251
                   ]
             },
             {
@@ -3680,66 +3491,12 @@ export const finlandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kokkolan Kaupunginteatteri",
-                  "text": "Kokkola városi színháza, amely különféle drámai előadásokat kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        23.119714,
-                        63.837969
-                  ]
-            },
-            {
                   "name": "Kokkolan raatihuone",
                   "text": "Történelmi épület Kokkolában, amelyet kulturális eseményekre és színházi előadásokra használnak.",
                   "category": "cultural",
                   "coords": [
                         23.131058,
                         63.838658
-                  ]
-            },
-            {
-                  "name": "K. H. Renlundin museo",
-                  "text": "Kokkolai tartományi múzeum, amely a művészetre és a kultúrtörténetre összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        23.129974,
-                        63.837232
-                  ]
-            },
-            {
-                  "name": "Kaarlelan kotiseutumuseo",
-                  "text": "Helyi örökségvédelmi múzeum Kokkolában, amely a vidéki történelmet és a hagyományos életet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        23.132537,
-                        63.826549
-                  ]
-            },
-            {
-                  "name": "Palomuseo",
-                  "text": "Kokkolai múzeum, amely a tűzoltás történetének és a tűzoltó felszereléseknek szentelték.",
-                  "category": "museum",
-                  "coords": [
-                        23.162966,
-                        63.820683
-                  ]
-            },
-            {
-                  "name": "Luonnontieteellinen museo Kieppi",
-                  "text": "Kokkola természettudományi múzeuma, amely kiterjedt ásvány- és kövületgyűjteményekkel rendelkezik.",
-                  "category": "museum",
-                  "coords": [
-                        23.128828,
-                        63.837511
-                  ]
-            },
-            {
-                  "name": "Elämän pursi",
-                  "text": "Nyilvános emlékmű Kokkolában, amely a helyi művészi kifejezésmódot képviseli.",
-                  "category": "historical",
-                  "coords": [
-                        23.130149,
-                        63.827125
                   ]
             },
             {
@@ -3767,42 +3524,6 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         23.141957,
                         63.840527
-                  ]
-            },
-            {
-                  "name": "Kokkolan Baptistiseurakunta",
-                  "text": "Baptista templomépület Kokkolában, amelyet a vallási imádatnak szentelték.",
-                  "category": "religious",
-                  "coords": [
-                        23.117325,
-                        63.836612
-                  ]
-            },
-            {
-                  "name": "Gamlakarleby Metodistförsamling",
-                  "text": "Metodista templomépület, amely szolgáltatásokat nyújt a kokkolai közösségnek.",
-                  "category": "religious",
-                  "coords": [
-                        23.126731,
-                        63.837062
-                  ]
-            },
-            {
-                  "name": "Närvilän rukoushuone",
-                  "text": "Ima ház Kokkolában, amelyet vallási összejövetelekre és istentiszteletekre használnak.",
-                  "category": "religious",
-                  "coords": [
-                        23.157093,
-                        63.833762
-                  ]
-            },
-            {
-                  "name": "Kokkolan seudun rauhanyhdistys",
-                  "text": "Vallási gyülekezeti ház Kokkolában, amely a konzervatív laestadiánus mozgalomhoz tartozik.",
-                  "category": "religious",
-                  "coords": [
-                        23.112503,
-                        63.826251
                   ]
             },
             {
@@ -4060,66 +3781,12 @@ export const finlandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kokkolan Kaupunginteatteri",
-                  "text": "Teatrul orășenesc din Kokkola, care oferă o varietate de spectacole dramatice.",
-                  "category": "cultural",
-                  "coords": [
-                        23.119714,
-                        63.837969
-                  ]
-            },
-            {
                   "name": "Kokkolan raatihuone",
                   "text": "O clădire istorică din Kokkola utilizată pentru evenimente culturale și spectacole de teatru.",
                   "category": "cultural",
                   "coords": [
                         23.131058,
                         63.838658
-                  ]
-            },
-            {
-                  "name": "K. H. Renlundin museo",
-                  "text": "Un muzeu provincial din Kokkola, axat pe artă și istorie culturală.",
-                  "category": "museum",
-                  "coords": [
-                        23.129974,
-                        63.837232
-                  ]
-            },
-            {
-                  "name": "Kaarlelan kotiseutumuseo",
-                  "text": "Un muzeu al patrimoniului local din Kokkola care prezintă istoria rurală și viața tradițională.",
-                  "category": "museum",
-                  "coords": [
-                        23.132537,
-                        63.826549
-                  ]
-            },
-            {
-                  "name": "Palomuseo",
-                  "text": "Un muzeu din Kokkola dedicat istoriei luptei împotriva incendiilor și echipamentelor de pompieri.",
-                  "category": "museum",
-                  "coords": [
-                        23.162966,
-                        63.820683
-                  ]
-            },
-            {
-                  "name": "Luonnontieteellinen museo Kieppi",
-                  "text": "Muzeul de istorie naturală din Kokkola, care prezintă colecții extinse de minerale și fosile.",
-                  "category": "museum",
-                  "coords": [
-                        23.128828,
-                        63.837511
-                  ]
-            },
-            {
-                  "name": "Elämän pursi",
-                  "text": "Un monument public din Kokkola care reprezintă expresia artistică locală.",
-                  "category": "historical",
-                  "coords": [
-                        23.130149,
-                        63.827125
                   ]
             },
             {
@@ -4147,42 +3814,6 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         23.141957,
                         63.840527
-                  ]
-            },
-            {
-                  "name": "Kokkolan Baptistiseurakunta",
-                  "text": "O clădire a bisericii baptiste din Kokkola dedicată cultului religios.",
-                  "category": "religious",
-                  "coords": [
-                        23.117325,
-                        63.836612
-                  ]
-            },
-            {
-                  "name": "Gamlakarleby Metodistförsamling",
-                  "text": "O clădire a bisericii metodiste care oferă servicii comunității din Kokkola.",
-                  "category": "religious",
-                  "coords": [
-                        23.126731,
-                        63.837062
-                  ]
-            },
-            {
-                  "name": "Närvilän rukoushuone",
-                  "text": "O casă de rugăciune din Kokkola folosită pentru adunări și servicii religioase.",
-                  "category": "religious",
-                  "coords": [
-                        23.157093,
-                        63.833762
-                  ]
-            },
-            {
-                  "name": "Kokkolan seudun rauhanyhdistys",
-                  "text": "O casă de adunări religioase din Kokkola care aparține mișcării laestadiene conservatoare.",
-                  "category": "religious",
-                  "coords": [
-                        23.112503,
-                        63.826251
                   ]
             },
             {
@@ -4440,66 +4071,12 @@ export const finlandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kokkolan Kaupunginteatteri",
-                  "text": "The city theatre of Kokkola, offering a variety of dramatic performances.",
-                  "category": "cultural",
-                  "coords": [
-                        23.119714,
-                        63.837969
-                  ]
-            },
-            {
                   "name": "Kokkolan raatihuone",
                   "text": "A historic building in Kokkola used for cultural events and theatrical performances.",
                   "category": "cultural",
                   "coords": [
                         23.131058,
                         63.838658
-                  ]
-            },
-            {
-                  "name": "K. H. Renlund museum",
-                  "text": "A provincial museum in Kokkola focusing on art and cultural history.",
-                  "category": "museum",
-                  "coords": [
-                        23.129974,
-                        63.837232
-                  ]
-            },
-            {
-                  "name": "Kaarlelan kotiseutumuseo",
-                  "text": "A local heritage museum in Kokkola showcasing rural history and traditional life.",
-                  "category": "museum",
-                  "coords": [
-                        23.132537,
-                        63.826549
-                  ]
-            },
-            {
-                  "name": "Palomuseo",
-                  "text": "A museum in Kokkola dedicated to the history of firefighting and fire equipment.",
-                  "category": "museum",
-                  "coords": [
-                        23.162966,
-                        63.820683
-                  ]
-            },
-            {
-                  "name": "Luonnontieteellinen museo Kieppi",
-                  "text": "The natural history museum of Kokkola, featuring extensive collections of minerals and fossils.",
-                  "category": "museum",
-                  "coords": [
-                        23.128828,
-                        63.837511
-                  ]
-            },
-            {
-                  "name": "Elämän pursi",
-                  "text": "A public monument in Kokkola representing local artistic expression.",
-                  "category": "historical",
-                  "coords": [
-                        23.130149,
-                        63.827125
                   ]
             },
             {
@@ -4527,42 +4104,6 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         23.141957,
                         63.840527
-                  ]
-            },
-            {
-                  "name": "Kokkolan Baptistiseurakunta",
-                  "text": "A Baptist church building in Kokkola dedicated to religious worship.",
-                  "category": "religious",
-                  "coords": [
-                        23.117325,
-                        63.836612
-                  ]
-            },
-            {
-                  "name": "Gamlakarleby Metodistförsamling",
-                  "text": "A Methodist church building providing services to the community in Kokkola.",
-                  "category": "religious",
-                  "coords": [
-                        23.126731,
-                        63.837062
-                  ]
-            },
-            {
-                  "name": "Närvilän rukoushuone",
-                  "text": "A house of prayer in Kokkola used for religious gatherings and services.",
-                  "category": "religious",
-                  "coords": [
-                        23.157093,
-                        63.833762
-                  ]
-            },
-            {
-                  "name": "Kokkolan seudun rauhanyhdistys",
-                  "text": "A religious meeting house in Kokkola belonging to the Conservative Laestadian movement.",
-                  "category": "religious",
-                  "coords": [
-                        23.112503,
-                        63.826251
                   ]
             },
             {
@@ -5244,15 +4785,6 @@ export const finlandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "RUK-museo",
-                  "text": "Ein Museum in Hamina, das der Geschichte der finnischen Reserveoffiziersschule gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        27.206191,
-                        60.567375
-                  ]
-            },
-            {
                   "name": "S/S Hyöky",
                   "text": "Ein historisches Feuerschiff in Hamina, das heute als Museum dient.",
                   "category": "museum",
@@ -5324,15 +4856,6 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         27.184119,
                         60.571938
-                  ]
-            },
-            {
-                  "name": "RUK-museo",
-                  "text": "A finn tartalékos tisztképző iskola történetének szentelt múzeum Haminában.",
-                  "category": "museum",
-                  "coords": [
-                        27.206191,
-                        60.567375
                   ]
             },
             {
@@ -5410,15 +4933,6 @@ export const finlandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "RUK-museo",
-                  "text": "Un muzeu în Hamina dedicat istoriei Școlii de Ofițeri în Rezervă din Finlanda.",
-                  "category": "museum",
-                  "coords": [
-                        27.206191,
-                        60.567375
-                  ]
-            },
-            {
                   "name": "S/S Hyöky",
                   "text": "O navă-far istorică din Hamina, care servește astăzi ca muzeu.",
                   "category": "museum",
@@ -5490,15 +5004,6 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         27.184119,
                         60.571938
-                  ]
-            },
-            {
-                  "name": "RUK-museo",
-                  "text": "A museum in Hamina dedicated to the history of the Finnish Reserve Officer School.",
-                  "category": "museum",
-                  "coords": [
-                        27.206191,
-                        60.567375
                   ]
             },
             {

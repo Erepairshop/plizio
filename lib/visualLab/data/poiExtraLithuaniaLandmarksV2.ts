@@ -598,15 +598,6 @@ imageHint: "Grutas Park Soviet statues and monuments",
                   ]
             },
             {
-                  "name": "Rumšiškių piliakalnis",
-                  "text": "Eine antike Wallburg in der Umgebung von Rumšiškės.",
-                  "category": "historical",
-                  "coords": [
-                        24.19716,
-                        54.858318
-                  ]
-            },
-            {
                   "name": "Kaišiadorių muziejaus Jono Aisčio skyrius",
                   "text": "Eine Außenstelle des Museums in Rumšiškės, die dem litauischen Dichter Jonas Aistis gewidmet ist.",
                   "category": "museum",
@@ -616,48 +607,12 @@ imageHint: "Grutas Park Soviet statues and monuments",
                   ]
             },
             {
-                  "name": "Rumšiškių apžvalgos bokštas",
-                  "text": "Ein Aussichtsturm mit Panoramablick auf das Kaunaser Meer.",
-                  "category": "natural",
-                  "coords": [
-                        24.192479,
-                        54.859076
-                  ]
-            },
-            {
-                  "name": "Gastilonių atodanga",
-                  "text": "Eine malerische geologische Klippenformation am Ufer des Kaunaser Meeres.",
-                  "category": "natural",
-                  "coords": [
-                        24.148545,
-                        54.871961
-                  ]
-            },
-            {
-                  "name": "Rumšiškių miško pušis",
-                  "text": "Eine besonders alte und große Kiefer im Wald von Rumšiškės.",
-                  "category": "landmark",
-                  "coords": [
-                        24.15394,
-                        54.875422
-                  ]
-            },
-            {
                   "name": "Aristavėlės dvaro rūmai",
                   "text": "Ein historisches Herrenhaus, das in das Freilichtmuseum von Litauen versetzt wurde.",
                   "category": "historical",
                   "coords": [
                         24.184437,
                         54.875443
-                  ]
-            },
-            {
-                  "name": "Gastilionių pažintinis takas",
-                  "text": "Ein Lehrpfad, der die Wälder und Ufer des Stausees bei Rumšiškės erkundet.",
-                  "category": "landmark",
-                  "coords": [
-                        24.154778,
-                        54.874029
                   ]
             }
       ],
@@ -672,15 +627,6 @@ imageHint: "Grutas Park Soviet statues and monuments",
                   ]
             },
             {
-                  "name": "Rumšiškių piliakalnis",
-                  "text": "Ősi várhely Rumšiškės környékén.",
-                  "category": "historical",
-                  "coords": [
-                        24.19716,
-                        54.858318
-                  ]
-            },
-            {
                   "name": "Kaišiadorių muziejaus Jono Aisčio skyrius",
                   "text": "A múzeum Rumšiškėsben található részlege, amely Jonas Aistis litván költőnek állít emléket.",
                   "category": "museum",
@@ -690,48 +636,12 @@ imageHint: "Grutas Park Soviet statues and monuments",
                   ]
             },
             {
-                  "name": "Rumšiškių apžvalgos bokštas",
-                  "text": "Kilátótorony, ahonnan panorámás kilátás nyílik a Kaunasi-víztározóra.",
-                  "category": "natural",
-                  "coords": [
-                        24.192479,
-                        54.859076
-                  ]
-            },
-            {
-                  "name": "Gastilonių atodanga",
-                  "text": "Látványos geológiai sziklafal a Kaunasi-víztározó partján.",
-                  "category": "natural",
-                  "coords": [
-                        24.148545,
-                        54.871961
-                  ]
-            },
-            {
-                  "name": "Rumšiškių miško pušis",
-                  "text": "Egy különösen idős és nagy erdeifenyő a Rumšiškės-erdőben.",
-                  "category": "landmark",
-                  "coords": [
-                        24.15394,
-                        54.875422
-                  ]
-            },
-            {
                   "name": "Aristavėlės dvaro rūmai",
                   "text": "Történelmi udvarház, amelyet a litván szabadtéri múzeumba szállítottak át.",
                   "category": "historical",
                   "coords": [
                         24.184437,
                         54.875443
-                  ]
-            },
-            {
-                  "name": "Gastilionių pažintinis takas",
-                  "text": "Tanösvény, amely a Rumšiškės közeli erdőket és a víztározó partját mutatja be.",
-                  "category": "landmark",
-                  "coords": [
-                        24.154778,
-                        54.874029
                   ]
             }
       ],
@@ -746,15 +656,6 @@ imageHint: "Grutas Park Soviet statues and monuments",
                   ]
             },
             {
-                  "name": "Rumšiškių piliakalnis",
-                  "text": "Un sit antic de cetate pe deal situat în apropiere de Rumšiškės.",
-                  "category": "historical",
-                  "coords": [
-                        24.19716,
-                        54.858318
-                  ]
-            },
-            {
                   "name": "Kaišiadorių muziejaus Jono Aisčio skyrius",
                   "text": "O secție a muzeului din Rumšiškės dedicată poetului lituanian Jonas Aistis.",
                   "category": "museum",
@@ -764,48 +665,12 @@ imageHint: "Grutas Park Soviet statues and monuments",
                   ]
             },
             {
-                  "name": "Rumšiškių apžvalgos bokštas",
-                  "text": "Un turn de observare care oferă vederi panoramice asupra rezervorului Kaunas.",
-                  "category": "natural",
-                  "coords": [
-                        24.192479,
-                        54.859076
-                  ]
-            },
-            {
-                  "name": "Gastilonių atodanga",
-                  "text": "O formațiune geologică de faleză pe malul rezervorului Kaunas.",
-                  "category": "natural",
-                  "coords": [
-                        24.148545,
-                        54.871961
-                  ]
-            },
-            {
-                  "name": "Rumšiškių miško pušis",
-                  "text": "Un pin remarcabil de vechi și mare situat în pădurea Rumšiškės.",
-                  "category": "landmark",
-                  "coords": [
-                        24.15394,
-                        54.875422
-                  ]
-            },
-            {
                   "name": "Aristavėlės dvaro rūmai",
                   "text": "Un conac istoric mutat în cadrul Muzeului în Aer Liber al Lituaniei.",
                   "category": "historical",
                   "coords": [
                         24.184437,
                         54.875443
-                  ]
-            },
-            {
-                  "name": "Gastilionių pažintinis takas",
-                  "text": "Un traseu tematic care explorează pădurile și malurile rezervorului de lângă Rumšiškės.",
-                  "category": "landmark",
-                  "coords": [
-                        24.154778,
-                        54.874029
                   ]
             }
       ],
@@ -820,15 +685,6 @@ imageHint: "Grutas Park Soviet statues and monuments",
                   ]
             },
             {
-                  "name": "Rumšiškių piliakalnis",
-                  "text": "An ancient hillfort site located in the vicinity of Rumšiškės.",
-                  "category": "historical",
-                  "coords": [
-                        24.19716,
-                        54.858318
-                  ]
-            },
-            {
                   "name": "Kaišiadorių muziejaus Jono Aisčio skyrius",
                   "text": "A museum branch in Rumšiškės dedicated to the Lithuanian poet Jonas Aistis.",
                   "category": "museum",
@@ -838,48 +694,12 @@ imageHint: "Grutas Park Soviet statues and monuments",
                   ]
             },
             {
-                  "name": "Rumšiškių apžvalgos bokštas",
-                  "text": "An observation tower offering panoramic views of the Kaunas Reservoir.",
-                  "category": "natural",
-                  "coords": [
-                        24.192479,
-                        54.859076
-                  ]
-            },
-            {
-                  "name": "Gastilonys exposure",
-                  "text": "A scenic geological cliff formation on the shores of the Kaunas Reservoir.",
-                  "category": "natural",
-                  "coords": [
-                        24.148545,
-                        54.871961
-                  ]
-            },
-            {
-                  "name": "Rumšiškių miško pušis",
-                  "text": "A notably old and large pine tree located in the Rumšiškės forest.",
-                  "category": "landmark",
-                  "coords": [
-                        24.15394,
-                        54.875422
-                  ]
-            },
-            {
                   "name": "Aristavėlės dvaro rūmai",
                   "text": "A historic manor house relocated to the Open-Air Museum of Lithuania.",
                   "category": "historical",
                   "coords": [
                         24.184437,
                         54.875443
-                  ]
-            },
-            {
-                  "name": "Gastilionių pažintinis takas",
-                  "text": "A nature trail exploring the forests and reservoir shores near Rumšiškės.",
-                  "category": "landmark",
-                  "coords": [
-                        24.154778,
-                        54.874029
                   ]
             }
       ]
@@ -2406,15 +2226,6 @@ imageHint: "Raudondvaris Castle manor and red brick tower",
                   ]
             },
             {
-                  "name": "Marijos Savickienės gamtos išdaigų muziejus",
-                  "text": "Ein Museum mit einer Privatsammlung ungewöhnlicher Naturformationen und Kuriositäten.",
-                  "category": "museum",
-                  "coords": [
-                        23.203333,
-                        55.600791
-                  ]
-            },
-            {
                   "name": "Vaclovo ir Elenos Venckų etnografinė sodyba",
                   "text": "Ein ethnografisches Gehöftmuseum, das lokale ländliche Traditionen bewahrt.",
                   "category": "museum",
@@ -2430,15 +2241,6 @@ imageHint: "Raudondvaris Castle manor and red brick tower",
                   "coords": [
                         23.21041,
                         55.593867
-                  ]
-            },
-            {
-                  "name": "Tytuvėnų miško muziejus",
-                  "text": "Ein Waldmuseum, das der lokalen Waldökologie und Forstgeschichte gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        23.190062,
-                        55.608909
                   ]
             }
       ],
@@ -2462,15 +2264,6 @@ imageHint: "Raudondvaris Castle manor and red brick tower",
                   ]
             },
             {
-                  "name": "Marijos Savickienės gamtos išdaigų muziejus",
-                  "text": "Múzeum, amely szokatlan természeti képződmények és érdekességek gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        23.203333,
-                        55.600791
-                  ]
-            },
-            {
                   "name": "Vaclovo ir Elenos Venckų etnografinė sodyba",
                   "text": "Néprajzi tanyamúzeum, amely a helyi vidéki hagyományokat őrzi.",
                   "category": "museum",
@@ -2486,15 +2279,6 @@ imageHint: "Raudondvaris Castle manor and red brick tower",
                   "coords": [
                         23.21041,
                         55.593867
-                  ]
-            },
-            {
-                  "name": "Tytuvėnų miško muziejus",
-                  "text": "Erdészeti múzeum, amely a helyi erdők ökológiáját és történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        23.190062,
-                        55.608909
                   ]
             }
       ],
@@ -2518,15 +2302,6 @@ imageHint: "Raudondvaris Castle manor and red brick tower",
                   ]
             },
             {
-                  "name": "Marijos Savickienės gamtos išdaigų muziejus",
-                  "text": "Un muzeu care prezintă o colecție privată de formațiuni naturale neobișnuite și curiozități.",
-                  "category": "museum",
-                  "coords": [
-                        23.203333,
-                        55.600791
-                  ]
-            },
-            {
                   "name": "Vaclovo ir Elenos Venckų etnografinė sodyba",
                   "text": "Un muzeu etnografic care păstrează tradițiile rurale locale.",
                   "category": "museum",
@@ -2542,15 +2317,6 @@ imageHint: "Raudondvaris Castle manor and red brick tower",
                   "coords": [
                         23.21041,
                         55.593867
-                  ]
-            },
-            {
-                  "name": "Tytuvėnų miško muziejus",
-                  "text": "Un muzeu forestier dedicat ecologiei locale a pădurilor și istoriei silviculturii.",
-                  "category": "museum",
-                  "coords": [
-                        23.190062,
-                        55.608909
                   ]
             }
       ],
@@ -2574,15 +2340,6 @@ imageHint: "Raudondvaris Castle manor and red brick tower",
                   ]
             },
             {
-                  "name": "Marijos Savickienės gamtos išdaigų muziejus",
-                  "text": "A museum featuring a private collection of unusual natural formations and curiosities.",
-                  "category": "museum",
-                  "coords": [
-                        23.203333,
-                        55.600791
-                  ]
-            },
-            {
                   "name": "Vaclovo ir Elenos Venckų etnografinė sodyba",
                   "text": "An ethnographic farmstead museum preserving local rural traditions and lifestyle.",
                   "category": "museum",
@@ -2598,15 +2355,6 @@ imageHint: "Raudondvaris Castle manor and red brick tower",
                   "coords": [
                         23.21041,
                         55.593867
-                  ]
-            },
-            {
-                  "name": "Tytuvėnų miško muziejus",
-                  "text": "A forest museum dedicated to the local woodland ecology and forestry history.",
-                  "category": "museum",
-                  "coords": [
-                        23.190062,
-                        55.608909
                   ]
             }
       ]

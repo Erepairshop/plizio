@@ -222,86 +222,10 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
   },
   {
     id: "makeni-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "UNIMAK Auditorium",
-                  "text": "Das große Auditorium der Universität von Makeni, genutzt für Konferenzen und Veranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -12.057566,
-                        8.888339
-                  ]
-            },
-            {
-                  "name": "Wusum",
-                  "text": "Der Wusum-Hügel mit Blick auf Makeni.",
-                  "category": "natural",
-                  "coords": [
-                        -12.050444,
-                        8.904381
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "UNIMAK Auditorium",
-                  "text": "A Makeni Egyetem nagy előadóterme, konferenciák és rendezvények számára.",
-                  "category": "cultural",
-                  "coords": [
-                        -12.057566,
-                        8.888339
-                  ]
-            },
-            {
-                  "name": "Wusum",
-                  "text": "A Makenire néző Wusum-domb.",
-                  "category": "natural",
-                  "coords": [
-                        -12.050444,
-                        8.904381
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "UNIMAK Auditorium",
-                  "text": "Marele auditoriu al Universității din Makeni, folosit pentru conferințe și evenimente.",
-                  "category": "cultural",
-                  "coords": [
-                        -12.057566,
-                        8.888339
-                  ]
-            },
-            {
-                  "name": "Wusum",
-                  "text": "Dealul Wusum care domină Makeni.",
-                  "category": "natural",
-                  "coords": [
-                        -12.050444,
-                        8.904381
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "UNIMAK Auditorium",
-                  "text": "The large auditorium at the University of Makeni, used for conferences and events.",
-                  "category": "cultural",
-                  "coords": [
-                        -12.057566,
-                        8.888339
-                  ]
-            },
-            {
-                  "name": "Wusum",
-                  "text": "Wusum Hill overlooking Makeni.",
-                  "category": "natural",
-                  "coords": [
-                        -12.050444,
-                        8.904381
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "SL-N",
@@ -367,50 +291,10 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
   },
   {
     id: "koidu-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Resettlement",
-                  "text": "Eine Umsiedlungssiedlung umgeben von Ackerland und Buschland nahe Koidu.",
-                  "category": "natural",
-                  "coords": [
-                        -10.957197,
-                        8.6294
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Resettlement",
-                  "text": "Egy áttelepítési telep, mezőgazdasági földek és bozótos övezetében Koidu közelében.",
-                  "category": "natural",
-                  "coords": [
-                        -10.957197,
-                        8.6294
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Resettlement",
-                  "text": "O așezare de relocare înconjurată de terenuri agricole și tufișuri lângă Koidu.",
-                  "category": "natural",
-                  "coords": [
-                        -10.957197,
-                        8.6294
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Resettlement",
-                  "text": "A resettlement community surrounded by farmland and bush near Koidu.",
-                  "category": "natural",
-                  "coords": [
-                        -10.957197,
-                        8.6294
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "SL-E",
@@ -3180,15 +3064,6 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
     id: "tombo-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Western Area Peninsula National Park",
-                  "text": "Ein geschütztes Regenwaldreservat auf der Freetown-Halbinsel mit Wanderwegen und vielfältiger Tierwelt.",
-                  "category": "natural",
-                  "coords": [
-                        -13.169787,
-                        8.321459
-                  ]
-            },
-            {
                   "name": "Mama Beach",
                   "text": "An der Küste von Tombo in Sierra Leone gelegen, bietet der Mama Beach eine authentische lokale Kulisse. Die Atmosphäre ist unverfälscht und stark mit dem maritimen Rhythmus der Gegend verbunden. Besucher können hier entspannte Spaziergänge im Sand unternehmen oder einfach am Wasser verweilen. Es empfiehlt sich, früh am Tag einzutreffen, um die morgendliche Ruhe zu genießen.",
                   "category": "recreational",
@@ -3199,15 +3074,6 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Western Area Peninsula National Park",
-                  "text": "Egy védett esőerdő-rezervátum a Freetown-félszigeten, túraútvonalakkal és változatos vadon élő állatokkal.",
-                  "category": "natural",
-                  "coords": [
-                        -13.169787,
-                        8.321459
-                  ]
-            },
             {
                   "name": "Mama Beach",
                   "text": "A Sierra Leone-i Tombo partjainál fekvő Mama Beach autentikus, helyi környezetet kínál. A tengerparti légkör őszinte, és szorosan kapcsolódik a környék természetes ritmusához. Az idelátogatók pihentető sétákat tehetnek a homokban, vagy egyszerűen csak feltöltődhetnek a vízparton. Érdemes már a kora reggeli órákban érkezni, hogy zavartalanul élvezhessük a békés tájat.",
@@ -3220,15 +3086,6 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Western Area Peninsula National Park",
-                  "text": "O rezervație protejată de pădure tropicală pe Peninsula Freetown, cu trasee de drumeție și faună diversă.",
-                  "category": "natural",
-                  "coords": [
-                        -13.169787,
-                        8.321459
-                  ]
-            },
-            {
                   "name": "Mama Beach",
                   "text": "Situată pe coasta din Tombo, în Sierra Leone, Mama Beach oferă un cadru local autentic. Atmosfera este genuină și profund conectată la ritmul maritim al zonei. Vizitatorii se pot bucura de plimbări relaxante pe nisip sau pot pur și simplu să se odihnească la malul apei. Este recomandat să ajungeți mai devreme în timpul zilei pentru a profita din plin de împrejurimile pașnice.",
                   "category": "recreational",
@@ -3239,15 +3096,6 @@ export const poiExtraSierraleoneCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Western Area Peninsula National Park",
-                  "text": "A protected rainforest reserve on the Freetown Peninsula, with hiking trails and diverse wildlife.",
-                  "category": "natural",
-                  "coords": [
-                        -13.169787,
-                        8.321459
-                  ]
-            },
             {
                   "name": "Mama Beach",
                   "text": "Situated on the coast of Tombo in Sierra Leone, Mama Beach offers an authentic local setting. The atmosphere is genuine and deeply connected to the maritime rhythm of the area. Visitors can enjoy relaxed strolls on the sand or simply spend time resting by the water. Arriving earlier in the day is recommended to fully appreciate the peaceful surroundings.",

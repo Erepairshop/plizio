@@ -5662,24 +5662,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     id: "bac-ninh-industrial-zone-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Cầu Thị Cầu",
-                  "text": "Eine wichtige Brücke über den Cau-Fluss, die Bac Ninh mit der Provinz Bac Giang verbindet.",
-                  "category": "landmark",
-                  "coords": [
-                        106.091987,
-                        21.20567
-                  ]
-            },
-            {
-                  "name": "Cầu Như Nguyệt",
-                  "text": "Eine bedeutende Straßenbrücke der Autobahn 1A, die den Nhu-Nguyet-Fluss überspannt.",
-                  "category": "landmark",
-                  "coords": [
-                        106.100155,
-                        21.203672
-                  ]
-            },
-            {
                   "name": "Bảo tàng Bắc Ninh",
                   "text": "Dieses Museum zeigt das kulturelle Erbe von Bac Ninh und die Geschichte des Quan-ho-Volksgesangs.",
                   "category": "museum",
@@ -5695,24 +5677,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
                   "coords": [
                         106.102003,
                         21.20053
-                  ]
-            },
-            {
-                  "name": "Tượng đài Lý Thái Tổ",
-                  "text": "Eine Statue zu Ehren von König Ly Thai To, dem Gründer der Ly-Dynastie, der in dieser Region geboren wurde.",
-                  "category": "historical",
-                  "coords": [
-                        106.076388,
-                        21.184545
-                  ]
-            },
-            {
-                  "name": "Nhà tưởng niệm liệt sĩ Thị Cầu",
-                  "text": "Eine Gedenkstätte für die gefallenen Soldaten und Märtyrer aus dem Gebiet Thi Cau.",
-                  "category": "historical",
-                  "coords": [
-                        106.088212,
-                        21.193648
                   ]
             },
             {
@@ -5997,24 +5961,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Cầu Thị Cầu",
-                  "text": "Fontos híd a Cau-folyó felett, amely Bac Ninh-t köti össze Bac Giang tartománnyal.",
-                  "category": "landmark",
-                  "coords": [
-                        106.091987,
-                        21.20567
-                  ]
-            },
-            {
-                  "name": "Cầu Như Nguyệt",
-                  "text": "Jelentős közúti híd az 1A főúton, amely a Nhu Nguyet-folyó felett ível át.",
-                  "category": "landmark",
-                  "coords": [
-                        106.100155,
-                        21.203672
-                  ]
-            },
-            {
                   "name": "Bảo tàng Bắc Ninh",
                   "text": "A múzeum Bac Ninh kulturális örökségét és a Quan ho népi éneklés történetét mutatja be.",
                   "category": "museum",
@@ -6030,24 +5976,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
                   "coords": [
                         106.102003,
                         21.20053
-                  ]
-            },
-            {
-                  "name": "Tượng đài Lý Thái Tổ",
-                  "text": "Szobor Ly Thai To király, a Ly-dinasztia alapítójának tiszteletére, aki ebben a régióban született.",
-                  "category": "historical",
-                  "coords": [
-                        106.076388,
-                        21.184545
-                  ]
-            },
-            {
-                  "name": "Nhà tưởng niệm liệt sĩ Thị Cầu",
-                  "text": "Emlékhely a Thi Cau környéki elesett katonák és mártírok tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        106.088212,
-                        21.193648
                   ]
             },
             {
@@ -6332,24 +6260,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Cầu Thị Cầu",
-                  "text": "Un pod vital peste râul Cau, care leagă Bac Ninh de provincia Bac Giang.",
-                  "category": "landmark",
-                  "coords": [
-                        106.091987,
-                        21.20567
-                  ]
-            },
-            {
-                  "name": "Cầu Như Nguyệt",
-                  "text": "Un pod rutier major de pe autostrada 1A, care traversează râul Nhu Nguyet.",
-                  "category": "landmark",
-                  "coords": [
-                        106.100155,
-                        21.203672
-                  ]
-            },
-            {
                   "name": "Bảo tàng Bắc Ninh",
                   "text": "Acest muzeu expune patrimoniul cultural din Bac Ninh și istoria cântecului popular Quan ho.",
                   "category": "museum",
@@ -6365,24 +6275,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
                   "coords": [
                         106.102003,
                         21.20053
-                  ]
-            },
-            {
-                  "name": "Tượng đài Lý Thái Tổ",
-                  "text": "O statuie în cinstea regelui Ly Thai To, fondatorul dinastiei Ly, născut în această regiune.",
-                  "category": "historical",
-                  "coords": [
-                        106.076388,
-                        21.184545
-                  ]
-            },
-            {
-                  "name": "Nhà tưởng niệm liệt sĩ Thị Cầu",
-                  "text": "Un monument dedicat soldaților și martirilor căzuți din zona Thi Cau.",
-                  "category": "historical",
-                  "coords": [
-                        106.088212,
-                        21.193648
                   ]
             },
             {
@@ -6667,24 +6559,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Thi Cau Bridge",
-                  "text": "A vital bridge crossing the Cau River, connecting Bac Ninh with Bac Giang province.",
-                  "category": "landmark",
-                  "coords": [
-                        106.091987,
-                        21.20567
-                  ]
-            },
-            {
-                  "name": "Nhu Nguyet Bridge",
-                  "text": "A major road bridge on Highway 1A spanning the Nhu Nguyet (Cau) River.",
-                  "category": "landmark",
-                  "coords": [
-                        106.100155,
-                        21.203672
-                  ]
-            },
-            {
                   "name": "Bac Ninh Museum",
                   "text": "A museum showcasing the cultural heritage of Bac Ninh and the history of Quan ho folk singing.",
                   "category": "museum",
@@ -6700,24 +6574,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
                   "coords": [
                         106.102003,
                         21.20053
-                  ]
-            },
-            {
-                  "name": "Tượng đài Lý Thái Tổ",
-                  "text": "A statue honoring King Ly Thai To, the founder of the Ly Dynasty, who was born in this region.",
-                  "category": "historical",
-                  "coords": [
-                        106.076388,
-                        21.184545
-                  ]
-            },
-            {
-                  "name": "Nhà tưởng niệm liệt sĩ Thị Cầu",
-                  "text": "A memorial dedicated to the fallen soldiers and martyrs of the Thi Cau area.",
-                  "category": "historical",
-                  "coords": [
-                        106.088212,
-                        21.193648
                   ]
             },
             {
@@ -7503,24 +7359,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
     id: "lao-cai-border-gate-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Bảo tàng Lào Cai",
-                  "text": "Ein Museum in Lao Cai, das die Geschichte und die vielfältigen Kulturen der ethnischen Gruppen an der chinesischen Grenze zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        103.962958,
-                        22.489586
-                  ]
-            },
-            {
-                  "name": "Đài Tưởng Niệm Liệt Sỹ Lào Cai",
-                  "text": "Ein feierliches Denkmal in Lao Cai zum Gedenken an die Soldaten, die in den Grenzkriegen gefallen sind.",
-                  "category": "historical",
-                  "coords": [
-                        103.96846,
-                        22.491593
-                  ]
-            },
-            {
                   "name": "Old Hekou Wharf",
                   "text": "Ein historischer Kai am Flussufer, der einst ein wichtiger Handelspunkt zwischen Vietnam und der chinesischen Stadt Hekou war.",
                   "category": "landmark",
@@ -7630,24 +7468,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Bảo tàng Lào Cai",
-                  "text": "Lao Cai-i múzeum, amely a kínai határ mentén élő etnikai csoportok történelmét és változatos kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        103.962958,
-                        22.489586
-                  ]
-            },
-            {
-                  "name": "Đài Tưởng Niệm Liệt Sỹ Lào Cai",
-                  "text": "Ünnepélyes emlékmű Lao Cai-ban a határ menti háborúkban elesett katonák emlékére.",
-                  "category": "historical",
-                  "coords": [
-                        103.96846,
-                        22.491593
-                  ]
-            },
             {
                   "name": "Old Hekou Wharf",
                   "text": "Történelmi folyóparti rakpart, amely egykor fontos kereskedelmi pont volt Vietnám és a kínai Hekou városa között.",
@@ -7759,24 +7579,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Bảo tàng Lào Cai",
-                  "text": "Un muzeu din Lao Cai care prezintă istoria și culturile diverse ale grupurilor etnice de la granița cu China.",
-                  "category": "museum",
-                  "coords": [
-                        103.962958,
-                        22.489586
-                  ]
-            },
-            {
-                  "name": "Đài Tưởng Niệm Liệt Sỹ Lào Cai",
-                  "text": "Un monument solemn din Lao Cai, dedicat memoriei soldaților care au căzut în războaiele de graniță.",
-                  "category": "historical",
-                  "coords": [
-                        103.96846,
-                        22.491593
-                  ]
-            },
-            {
                   "name": "Old Hekou Wharf",
                   "text": "Un debarcader istoric pe malul râului, care a fost odinioară un punct comercial important între Vietnam și orașul chinez Hekou.",
                   "category": "landmark",
@@ -7886,24 +7688,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Bảo tàng Lào Cai",
-                  "text": "A museum in Lao Cai showcasing the history and diverse cultures of the ethnic groups along the Chinese border.",
-                  "category": "museum",
-                  "coords": [
-                        103.962958,
-                        22.489586
-                  ]
-            },
-            {
-                  "name": "Lao Cai Martyrs Memorial",
-                  "text": "A solemn monument in Lao Cai commemorating the soldiers who fell in the border wars.",
-                  "category": "historical",
-                  "coords": [
-                        103.96846,
-                        22.491593
-                  ]
-            },
             {
                   "name": "Old Hekou Wharf",
                   "text": "A historic riverside wharf that was once a major trading point between Vietnam and the Chinese city of Hekou.",
@@ -8096,15 +7880,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
                   "coords": [
                         107.992729,
                         21.547645
-                  ]
-            },
-            {
-                  "name": "Trung tâm Vui chơi giải trí Móng Cái",
-                  "text": "Ein modernes Freizeitzentrum in der Grenzstadt Móng Cái mit großen Schwimmbecken und Wasserrutschen.",
-                  "category": "recreational",
-                  "coords": [
-                        107.974125,
-                        21.522487
                   ]
             },
             {
@@ -8344,15 +8119,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Trung tâm Vui chơi giải trí Móng Cái",
-                  "text": "Modern szabadidőközpont Móng Cái határvárosában, úszómedencékkel és vízi csúszdákkal felszerelve.",
-                  "category": "recreational",
-                  "coords": [
-                        107.974125,
-                        21.522487
-                  ]
-            },
-            {
                   "name": "Đền Xã Tắc",
                   "text": "Ősi templom a határ mentén, amelyet a föld és a gabona szellemeinek tiszteletére emeltek.",
                   "category": "landmark",
@@ -8589,15 +8355,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Trung tâm Vui chơi giải trí Móng Cái",
-                  "text": "Un centru modern de recreere în orașul de frontieră Móng Cái, dotat cu piscine și tobogane de apă.",
-                  "category": "recreational",
-                  "coords": [
-                        107.974125,
-                        21.522487
-                  ]
-            },
-            {
                   "name": "Đền Xã Tắc",
                   "text": "Un templu vechi situat lângă graniță, dedicat spiritelor pământului și ale grânelor.",
                   "category": "landmark",
@@ -8831,15 +8588,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
                   "coords": [
                         107.992729,
                         21.547645
-                  ]
-            },
-            {
-                  "name": "Trung tâm Vui chơi giải trí Móng Cái",
-                  "text": "A modern recreation center in the border city featuring swimming pools and family water activities.",
-                  "category": "recreational",
-                  "coords": [
-                        107.974125,
-                        21.522487
                   ]
             },
             {
@@ -9624,15 +9372,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "điểm 1",
-                  "text": "Dieser ländliche Veranstaltungsort dient der Bauxitbergbaugemeinde im zentralen Hochland mit lokalen Kulturaufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        107.805016,
-                        11.543639
-                  ]
-            },
-            {
                   "name": "Coffee and Tea farm",
                   "text": "Besucher können die terrassenförmigen Hangplantagen des zentralen Hochlands erkunden, um zu sehen, wie lokaler Kaffee und Tee angebaut wird.",
                   "category": "landmark",
@@ -9857,15 +9596,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
                   "coords": [
                         107.902534,
                         11.549333
-                  ]
-            },
-            {
-                  "name": "điểm 1",
-                  "text": "Ez a vidéki előadótér a közép-hegyvidéki bauxitbányász közösséget szolgálja ki helyi kulturális műsorokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        107.805016,
-                        11.543639
                   ]
             },
             {
@@ -10096,15 +9826,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "điểm 1",
-                  "text": "Acest spațiu de spectacole rural servește comunitatea minieră de bauxită din Munții Centrali cu spectacole culturale locale.",
-                  "category": "cultural",
-                  "coords": [
-                        107.805016,
-                        11.543639
-                  ]
-            },
-            {
                   "name": "Coffee and Tea farm",
                   "text": "Vizitatorii pot explora plantațiile terasate de pe dealurile din Munții Centrali pentru a vedea cum sunt cultivate cafeaua și ceaiul local.",
                   "category": "landmark",
@@ -10329,15 +10050,6 @@ export const poiExtraVietnamEconomicV2: POI[] = [
                   "coords": [
                         107.902534,
                         11.549333
-                  ]
-            },
-            {
-                  "name": "điểm 1",
-                  "text": "This rural performance space serves the Central Highlands bauxite mining community with local cultural shows.",
-                  "category": "cultural",
-                  "coords": [
-                        107.805016,
-                        11.543639
                   ]
             },
             {

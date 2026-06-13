@@ -24,15 +24,6 @@ export const sloveniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Velenjska plaža",
-                  "text": "Wunderschön an den Ufern des Velenje-Sees gelegen, ist die Velenjska plaža ein äußerst beliebter Rückzugsort am Wasser in Slowenien. Sie besticht durch ein lebhaftes und einladendes Ambiente, das im Sommer Freunde und Familien gleichermaßen anzieht. Schwimmer können hier ein erfrischendes Bad im See nehmen, während Sonnenanbeter reichlich Platz zum Entspannen am Ufer finden. Es lohnt sich, bequeme Strandmatten für einen ausgedehnten, entspannten Tag am Wasser mitzubringen.",
-                  "category": "recreational",
-                  "coords": [
-                        15.086551,
-                        46.370114
-                  ]
-            },
-            {
                   "name": "Grad Ekenštajn",
                   "text": "Die Burg Ekenštajn ist eine Ruine aus dem 13. Jahrhundert auf einem Hügel oberhalb von Velenje.",
                   "category": "historical",
@@ -185,15 +176,6 @@ export const sloveniaCitiesV2: POI[] = [
                   "coords": [
                         15.114857,
                         46.359626
-                  ]
-            },
-            {
-                  "name": "Velenjska plaža",
-                  "text": "A Velenje-tó partján gyönyörűen elhelyezkedő Velenjska plaža egy rendkívül kedvelt szlovéniai tóparti menedék. A helyszín élénk és hívogató hangulattal büszkélkedhet, amely a nyár folyamán barátok és családok népszerű találkozóhelye. Az úszni vágyók frissítő mártózást tehetnek a tóban, míg mások bőséges helyet találnak a parton a napozáshoz és a pihenéshez. Érdemes kényelmes strandmatracokat hozni egy hosszú, vízparti ejtőzéshez.",
-                  "category": "recreational",
-                  "coords": [
-                        15.086551,
-                        46.370114
                   ]
             },
             {
@@ -352,15 +334,6 @@ export const sloveniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Velenjska plaža",
-                  "text": "Situată superb pe malurile Lacului Velenje, Velenjska plaža este o destinație de retragere pe malul lacului foarte apreciată în Slovenia. Locația se mândrește cu o ambianță plină de viață și primitoare, servind drept punct de întâlnire popular pentru prieteni și familii pe tot parcursul verii. Înotătorii se pot bucura de o baie răcoroasă în lac, în timp ce iubitorii de soare vor găsi spațiu din plin pentru a se relaxa pe mal. Aducerea unor rogojini confortabile de plajă este o idee excelentă pentru o zi lungă și relaxantă la malul apei.",
-                  "category": "recreational",
-                  "coords": [
-                        15.086551,
-                        46.370114
-                  ]
-            },
-            {
                   "name": "Grad Ekenštajn",
                   "text": "Castelul Ekenštajn este o ruină de castel din secolul al XIII-lea pe un deal deasupra Velenjului.",
                   "category": "historical",
@@ -513,15 +486,6 @@ export const sloveniaCitiesV2: POI[] = [
                   "coords": [
                         15.114857,
                         46.359626
-                  ]
-            },
-            {
-                  "name": "Velenjska plaža",
-                  "text": "Beautifully situated on the shores of Lake Velenje, Velenjska plaža is a highly favored lakeside retreat in Slovenia. The location boasts a lively and inviting ambiance, serving as a popular gathering point for friends and families throughout the summer. Swimmers can take a refreshing dip in the lake, while others will find plenty of space to relax and sunbathe on the shore. Bringing along comfortable beach mats is a smart idea for a long, leisurely day by the water.",
-                  "category": "recreational",
-                  "coords": [
-                        15.086551,
-                        46.370114
                   ]
             },
             {
@@ -1196,15 +1160,6 @@ imageHint: "Novo Mesto historic center on Krka river loop",
     id: "slovenia-ptuj-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Gramoznica Pleterje",
-                  "text": "Gramoznica Pleterje ist ein See in Ptuj. Die Gegend lädt zum Entspannen und zu Spaziergängen am Wasser ein.",
-                  "category": "natural",
-                  "coords": [
-                        15.758239,
-                        46.427762
-                  ]
-            },
-            {
                   "name": "Pettauer See",
                   "text": "Ptujsko jezero ist ein See bei Ptuj. Er ist ein beliebtes Ziel für Spaziergänge und um die Aussicht auf das Wasser zu genießen.",
                   "category": "natural",
@@ -1269,15 +1224,6 @@ imageHint: "Novo Mesto historic center on Krka river loop",
             }
       ],
       "hu": [
-            {
-                  "name": "Gramoznica Pleterje",
-                  "text": "A Gramoznica Pleterje egy tó Ptuj városában. A környék pihenésre és vízparti sétákra hívogat.",
-                  "category": "natural",
-                  "coords": [
-                        15.758239,
-                        46.427762
-                  ]
-            },
             {
                   "name": "Ptujsko jezero",
                   "text": "A Ptujsko jezero egy tó Ptuj mellett. Kedvelt célpont sétákhoz és a vízi kilátás élvezetéhez.",
@@ -1344,15 +1290,6 @@ imageHint: "Novo Mesto historic center on Krka river loop",
       ],
       "ro": [
             {
-                  "name": "Gramoznica Pleterje",
-                  "text": "Gramoznica Pleterje este un lac în Ptuj. Zona invită la relaxare și la plimbări pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        15.758239,
-                        46.427762
-                  ]
-            },
-            {
                   "name": "Ptujsko jezero",
                   "text": "Ptujsko jezero este un lac lângă Ptuj. Este o destinație populară pentru plimbări și pentru a admira priveliștea apei.",
                   "category": "natural",
@@ -1417,15 +1354,6 @@ imageHint: "Novo Mesto historic center on Krka river loop",
             }
       ],
       "en": [
-            {
-                  "name": "Gramoznica Pleterje",
-                  "text": "Gramoznica Pleterje is a lake in Ptuj. The area invites for relaxation and walks by the water.",
-                  "category": "natural",
-                  "coords": [
-                        15.758239,
-                        46.427762
-                  ]
-            },
             {
                   "name": "Ptujsko jezero",
                   "text": "Ptujsko jezero is a lake near Ptuj. It is a popular destination for walks and enjoying the water views.",
@@ -2847,15 +2775,6 @@ imageHint: "Jesenice city view with steel works and mountains",
                   ]
             },
             {
-                  "name": "Gramoznica Tešanovci",
-                  "text": "Gramoznica Tešanovci ist ein See in Murska Sobota. Er bietet eine friedliche Kulisse für Naturliebhaber.",
-                  "category": "natural",
-                  "coords": [
-                        16.222179,
-                        46.675523
-                  ]
-            },
-            {
                   "name": "gramoznica Nemščak",
                   "text": "gramoznica Nemščak ist ein See in Murska Sobota, ideal für eine Pause in der Natur.",
                   "category": "natural",
@@ -2945,15 +2864,6 @@ imageHint: "Jesenice city view with steel works and mountains",
                   "coords": [
                         16.173623,
                         46.641014
-                  ]
-            },
-            {
-                  "name": "Gramoznica Tešanovci",
-                  "text": "A Gramoznica Tešanovci egy tó Murska Sobota közelében. Békés környezetet biztosít a természet kedvelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        16.222179,
-                        46.675523
                   ]
             },
             {
@@ -3049,15 +2959,6 @@ imageHint: "Jesenice city view with steel works and mountains",
                   ]
             },
             {
-                  "name": "Gramoznica Tešanovci",
-                  "text": "Gramoznica Tešanovci este un lac în Murska Sobota. Oferă un cadru liniștit pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.222179,
-                        46.675523
-                  ]
-            },
-            {
                   "name": "gramoznica Nemščak",
                   "text": "gramoznica Nemščak este un lac în Murska Sobota, ideal pentru o pauză în natură.",
                   "category": "natural",
@@ -3147,15 +3048,6 @@ imageHint: "Jesenice city view with steel works and mountains",
                   "coords": [
                         16.173623,
                         46.641014
-                  ]
-            },
-            {
-                  "name": "Gramoznica Tešanovci",
-                  "text": "Gramoznica Tešanovci is a lake in Murska Sobota. It offers a peaceful setting for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        16.222179,
-                        46.675523
                   ]
             },
             {
@@ -5298,15 +5190,6 @@ imageHint: "Domzale town center and sports park",
                   ]
             },
             {
-                  "name": "Markovec / S. Marco",
-                  "text": "Markovec / S. Marco ist ein Hügel an der Küste von Izola mit Panoramablick.",
-                  "category": "natural",
-                  "coords": [
-                        13.701216,
-                        45.537301
-                  ]
-            },
-            {
                   "name": "Simonov zaliv / Baia di San Simone",
                   "text": "Simonov zaliv ist eine Bucht in Izola, bekannt für ihren beliebten Strand und die Überreste einer römischen Villa.",
                   "category": "landmark",
@@ -5513,15 +5396,6 @@ imageHint: "Domzale town center and sports park",
                   "coords": [
                         13.610415,
                         45.538476
-                  ]
-            },
-            {
-                  "name": "Markovec / S. Marco",
-                  "text": "A Markovec / S. Marco egy domb Izola partján, panorámás kilátással.",
-                  "category": "natural",
-                  "coords": [
-                        13.701216,
-                        45.537301
                   ]
             },
             {
@@ -5734,15 +5608,6 @@ imageHint: "Domzale town center and sports park",
                   ]
             },
             {
-                  "name": "Markovec / S. Marco",
-                  "text": "Markovec / S. Marco este un deal pe coasta Izolei, cu vedere panoramică.",
-                  "category": "natural",
-                  "coords": [
-                        13.701216,
-                        45.537301
-                  ]
-            },
-            {
                   "name": "Simonov zaliv / Baia di San Simone",
                   "text": "Simonov zaliv este un golf din Izola, remarcabil pentru plaja sa și vestigiile unei vile romane antice.",
                   "category": "landmark",
@@ -5949,15 +5814,6 @@ imageHint: "Domzale town center and sports park",
                   "coords": [
                         13.610415,
                         45.538476
-                  ]
-            },
-            {
-                  "name": "Markovec / S. Marco",
-                  "text": "Markovec / S. Marco is a hill on the coast of Izola with panoramic views.",
-                  "category": "natural",
-                  "coords": [
-                        13.701216,
-                        45.537301
                   ]
             },
             {
@@ -11470,15 +11326,6 @@ imageHint: "Crnomelj town center at river confluence",
                   ]
             },
             {
-                  "name": "Trbojsko jezero",
-                  "text": "Lake Trboje ist ein See in Medvode. Er bietet eine malerische Umgebung für Erholung am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        14.403652,
-                        46.199231
-                  ]
-            },
-            {
                   "name": "Zbiljsko jezero",
                   "text": "Zbiljsko jezero ist ein See in Medvode. Ein beliebtes Ziel für einen Ausflug in die Natur und zum Entspannen.",
                   "category": "natural",
@@ -11613,15 +11460,6 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         14.391386,
                         46.146567
-                  ]
-            },
-            {
-                  "name": "Trbojsko jezero",
-                  "text": "A Lake Trboje egy tó Medvode közelében. Festői környezetet biztosít a vízparti kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        14.403652,
-                        46.199231
                   ]
             },
             {
@@ -11762,15 +11600,6 @@ imageHint: "Crnomelj town center at river confluence",
                   ]
             },
             {
-                  "name": "Trbojsko jezero",
-                  "text": "Lake Trboje este un lac în Medvode. Oferă un cadru pitoresc pentru recreere lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        14.403652,
-                        46.199231
-                  ]
-            },
-            {
                   "name": "Zbiljsko jezero",
                   "text": "Zbiljsko jezero este un lac în Medvode. O destinație populară pentru o ieșire în natură și pentru relaxare.",
                   "category": "natural",
@@ -11905,15 +11734,6 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         14.391386,
                         46.146567
-                  ]
-            },
-            {
-                  "name": "Lake Trboje",
-                  "text": "Lake Trboje is a lake in Medvode. It offers a scenic setting for recreation by the water.",
-                  "category": "natural",
-                  "coords": [
-                        14.403652,
-                        46.199231
                   ]
             },
             {
@@ -13619,15 +13439,6 @@ imageHint: "Crnomelj town center at river confluence",
                         15.729291,
                         46.585433
                   ]
-            },
-            {
-                  "name": "archery",
-                  "text": "Erkunden Sie das Meeresleben und genießen Sie einen lehrreichen Familienbesuch in Spodnji Duplek.",
-                  "category": "family",
-                  "coords": [
-                        15.671623,
-                        46.525453
-                  ]
             }
       ],
       "hu": [
@@ -13683,15 +13494,6 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.729291,
                         46.585433
-                  ]
-            },
-            {
-                  "name": "archery",
-                  "text": "Fedezze fel a vízi világot, és élvezze az oktató jellegű családi látogatást Spodnji Duplek városában.",
-                  "category": "family",
-                  "coords": [
-                        15.671623,
-                        46.525453
                   ]
             }
       ],
@@ -13749,15 +13551,6 @@ imageHint: "Crnomelj town center at river confluence",
                         15.729291,
                         46.585433
                   ]
-            },
-            {
-                  "name": "archery",
-                  "text": "Explorați viața acvatică și bucurați-vă de o vizită educativă în familie în Spodnji Duplek.",
-                  "category": "family",
-                  "coords": [
-                        15.671623,
-                        46.525453
-                  ]
             }
       ],
       "en": [
@@ -13813,15 +13606,6 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.729291,
                         46.585433
-                  ]
-            },
-            {
-                  "name": "archery",
-                  "text": "Explore aquatic life and enjoy an educational family visit in Spodnji Duplek.",
-                  "category": "family",
-                  "coords": [
-                        15.671623,
-                        46.525453
                   ]
             }
       ]
@@ -14089,15 +13873,6 @@ imageHint: "Crnomelj town center at river confluence",
                   ]
             },
             {
-                  "name": "Soboška Kamenščica",
-                  "text": "Soboška Kamenščica ist ein See in Bodjanci. Ein angenehmer Ort für einen Spaziergang und zur Erholung im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        16.173623,
-                        46.641014
-                  ]
-            },
-            {
                   "name": "Gramoznica Tešanovci",
                   "text": "Gramoznica Tešanovci ist ein See in Bodjanci. Er bietet eine natürliche Umgebung für eine entspannte Zeit am Wasser.",
                   "category": "natural",
@@ -14124,15 +13899,6 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         16.335631,
                         46.674115
-                  ]
-            },
-            {
-                  "name": "Soboška Kamenščica",
-                  "text": "A Soboška Kamenščica egy tó Bodjanci területén. Kellemes hely egy sétához és a szabadtéri pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        16.173623,
-                        46.641014
                   ]
             },
             {
@@ -14165,15 +13931,6 @@ imageHint: "Crnomelj town center at river confluence",
                   ]
             },
             {
-                  "name": "Soboška Kamenščica",
-                  "text": "Soboška Kamenščica este un lac în Bodjanci. Un loc plăcut pentru o plimbare și pentru recreere în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        16.173623,
-                        46.641014
-                  ]
-            },
-            {
                   "name": "Gramoznica Tešanovci",
                   "text": "Gramoznica Tešanovci este un lac în Bodjanci. Oferă un mediu natural pentru o perioadă relaxantă lângă apă.",
                   "category": "natural",
@@ -14200,15 +13957,6 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         16.335631,
                         46.674115
-                  ]
-            },
-            {
-                  "name": "Soboška Kamenščica",
-                  "text": "Soboška Kamenščica is a lake in Bodjanci. A pleasant spot for a walk and outdoor recreation.",
-                  "category": "natural",
-                  "coords": [
-                        16.173623,
-                        46.641014
                   ]
             },
             {
@@ -14285,15 +14033,6 @@ imageHint: "Crnomelj town center at river confluence",
                         15.126157,
                         46.592793
                   ]
-            },
-            {
-                  "name": "Vodni park Radlje ob Dravi",
-                  "text": "Ein Wasserpark mit einem biologischen Schwimmbecken in der Nähe von Radlje ob Dravi.",
-                  "category": "recreational",
-                  "coords": [
-                        15.201768,
-                        46.607644
-                  ]
             }
       ],
       "hu": [
@@ -14313,15 +14052,6 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.126157,
                         46.592793
-                  ]
-            },
-            {
-                  "name": "Vodni park Radlje ob Dravi",
-                  "text": "Vizi park biológiai úszómedencével Radlje ob Dravi közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        15.201768,
-                        46.607644
                   ]
             }
       ],
@@ -14343,15 +14073,6 @@ imageHint: "Crnomelj town center at river confluence",
                         15.126157,
                         46.592793
                   ]
-            },
-            {
-                  "name": "Vodni park Radlje ob Dravi",
-                  "text": "Un parc acvatic cu o piscină biologică situat lângă Radlje ob Dravi.",
-                  "category": "recreational",
-                  "coords": [
-                        15.201768,
-                        46.607644
-                  ]
             }
       ],
       "en": [
@@ -14371,15 +14092,6 @@ imageHint: "Crnomelj town center at river confluence",
                   "coords": [
                         15.126157,
                         46.592793
-                  ]
-            },
-            {
-                  "name": "Vodni park Radlje ob Dravi",
-                  "text": "A water park featuring a biological swimming pool near Radlje ob Dravi.",
-                  "category": "recreational",
-                  "coords": [
-                        15.201768,
-                        46.607644
                   ]
             }
       ]
@@ -15043,39 +14755,12 @@ imageHint: "Crnomelj town center at river confluence",
                   ]
             },
             {
-                  "name": "Jezero Rogoza",
-                  "text": "Der Jezero Rogoza in Starše ist ein naturbelassener See, der Ruhe und Erholung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        15.667987,
-                        46.492256
-                  ]
-            },
-            {
-                  "name": "Miklavška mlaka",
-                  "text": "Miklavška mlaka ist ein kleiner Teich in Starše in einer grünen Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        15.720206,
-                        46.500353
-                  ]
-            },
-            {
                   "name": "Gramoznica Pleterje",
                   "text": "Gramoznica Pleterje ist ein Baggersee in Starše, der oft zum Entspannen besucht wird.",
                   "category": "natural",
                   "coords": [
                         15.758239,
                         46.427762
-                  ]
-            },
-            {
-                  "name": "Gramoznica Duplek",
-                  "text": "Ehemalige Kiesgrube, die zu einem See wurde, bei Starše.",
-                  "category": "natural",
-                  "coords": [
-                        15.732356,
-                        46.503827
                   ]
             }
       ],
@@ -15099,39 +14784,12 @@ imageHint: "Crnomelj town center at river confluence",
                   ]
             },
             {
-                  "name": "Jezero Rogoza",
-                  "text": "A staršei Jezero Rogoza egy természetes tó, amely nyugalmat és kikapcsolódást nyújt.",
-                  "category": "natural",
-                  "coords": [
-                        15.667987,
-                        46.492256
-                  ]
-            },
-            {
-                  "name": "Miklavška mlaka",
-                  "text": "A Miklavška mlaka egy kis tó Starše területén, zöld környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        15.720206,
-                        46.500353
-                  ]
-            },
-            {
                   "name": "Gramoznica Pleterje",
                   "text": "A Gramoznica Pleterje egy bányató Starše területén, amelyet gyakran látogatnak pihenés céljából.",
                   "category": "natural",
                   "coords": [
                         15.758239,
                         46.427762
-                  ]
-            },
-            {
-                  "name": "Gramoznica Duplek",
-                  "text": "Egykori kavicsbánya, amely tóvá vált Starše mellett.",
-                  "category": "natural",
-                  "coords": [
-                        15.732356,
-                        46.503827
                   ]
             }
       ],
@@ -15155,39 +14813,12 @@ imageHint: "Crnomelj town center at river confluence",
                   ]
             },
             {
-                  "name": "Jezero Rogoza",
-                  "text": "Jezero Rogoza din Starše este un lac natural care oferă liniște și relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        15.667987,
-                        46.492256
-                  ]
-            },
-            {
-                  "name": "Miklavška mlaka",
-                  "text": "Miklavška mlaka este un iaz mic din Starše, situat într-un peisaj verde.",
-                  "category": "natural",
-                  "coords": [
-                        15.720206,
-                        46.500353
-                  ]
-            },
-            {
                   "name": "Gramoznica Pleterje",
                   "text": "Gramoznica Pleterje este un lac de balastieră în Starše, vizitat adesea pentru relaxare.",
                   "category": "natural",
                   "coords": [
                         15.758239,
                         46.427762
-                  ]
-            },
-            {
-                  "name": "Gramoznica Duplek",
-                  "text": "Fosta carieră de pietriș transformată în lac lângă Starše.",
-                  "category": "natural",
-                  "coords": [
-                        15.732356,
-                        46.503827
                   ]
             }
       ],
@@ -15211,39 +14842,12 @@ imageHint: "Crnomelj town center at river confluence",
                   ]
             },
             {
-                  "name": "Jezero Rogoza",
-                  "text": "Jezero Rogoza in Starse is a natural lake providing a quiet spot for relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        15.667987,
-                        46.492256
-                  ]
-            },
-            {
-                  "name": "Miklavška mlaka",
-                  "text": "Miklavška mlaka is a small pond in Starse set in a green landscape.",
-                  "category": "natural",
-                  "coords": [
-                        15.720206,
-                        46.500353
-                  ]
-            },
-            {
                   "name": "Gramoznica Pleterje",
                   "text": "Gramoznica Pleterje is a gravel pit lake in Starse often visited for leisure.",
                   "category": "natural",
                   "coords": [
                         15.758239,
                         46.427762
-                  ]
-            },
-            {
-                  "name": "Gramoznica Duplek",
-                  "text": "Former gravel pit turned into a lake near Starše.",
-                  "category": "natural",
-                  "coords": [
-                        15.732356,
-                        46.503827
                   ]
             }
       ]
@@ -15295,15 +14899,6 @@ imageHint: "Crnomelj town center at river confluence",
     id: "slovenia-prevalje-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Ivarčko jezero",
-                  "text": "Ivarčko jezero ist ein See in Prevalje. Er ist ein idealer Ort für Erholungssuchende und Naturliebhaber.",
-                  "category": "natural",
-                  "coords": [
-                        14.970917,
-                        46.506061
-                  ]
-            },
-            {
                   "name": "School plazground",
                   "text": "School plazground ist ein Spielplatz in Prevalje. Er bietet Schülern und Kindern Möglichkeiten für aktive Pausen im Freien.",
                   "category": "family",
@@ -15314,15 +14909,6 @@ imageHint: "Crnomelj town center at river confluence",
             }
       ],
       "hu": [
-            {
-                  "name": "Ivarčko jezero",
-                  "text": "Az Ivarčko jezero egy tó Prevalje közelében. Ideális hely a pihenni vágyók és a természetbarátok számára.",
-                  "category": "natural",
-                  "coords": [
-                        14.970917,
-                        46.506061
-                  ]
-            },
             {
                   "name": "School plazground",
                   "text": "A School plazground egy játszótér Prevalje városában. Aktív szabadtéri kikapcsolódást kínál a diákoknak és gyerekeknek.",
@@ -15335,15 +14921,6 @@ imageHint: "Crnomelj town center at river confluence",
       ],
       "ro": [
             {
-                  "name": "Ivarčko jezero",
-                  "text": "Ivarčko jezero este un lac în Prevalje. Este un loc ideal pentru cei care caută relaxare și pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        14.970917,
-                        46.506061
-                  ]
-            },
-            {
                   "name": "School plazground",
                   "text": "School plazground este un teren de joacă în Prevalje. Oferă elevilor și copiilor oportunități pentru pauze active în aer liber.",
                   "category": "family",
@@ -15354,15 +14931,6 @@ imageHint: "Crnomelj town center at river confluence",
             }
       ],
       "en": [
-            {
-                  "name": "Ivarčko jezero",
-                  "text": "Ivarčko jezero is a lake in Prevalje. It is an ideal spot for those seeking relaxation and nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        14.970917,
-                        46.506061
-                  ]
-            },
             {
                   "name": "School plazground",
                   "text": "School plazground is a playground in Prevalje. It offers students and children opportunities for active outdoor breaks.",
@@ -15421,15 +14989,6 @@ imageHint: "Crnomelj town center at river confluence",
     id: "slovenia-cirkulane-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Pettauer See",
-                  "text": "Künstlicher Stausee an der Drau zur Stromerzeugung bei Cirkulane.",
-                  "category": "natural",
-                  "coords": [
-                        15.901161,
-                        46.399832
-                  ]
-            },
-            {
                   "name": "Schloß Ankenstein",
                   "text": "Eine imposante Burg auf einem Felsen über der Drau, deren Wurzeln bis ins Mittelalter reichen.",
                   "category": "castle",
@@ -15440,15 +14999,6 @@ imageHint: "Crnomelj town center at river confluence",
             }
       ],
       "hu": [
-            {
-                  "name": "Ptujsko jezero",
-                  "text": "Mesterséges víztározó a Dráván, áramtermelésre használják Cirkulane mellett.",
-                  "category": "natural",
-                  "coords": [
-                        15.901161,
-                        46.399832
-                  ]
-            },
             {
                   "name": "Grad Borl",
                   "text": "Egy impozáns vár a Dráva feletti sziklán, amelynek gyökerei a középkorig nyúlnak vissza.",
@@ -15461,15 +15011,6 @@ imageHint: "Crnomelj town center at river confluence",
       ],
       "ro": [
             {
-                  "name": "Ptujsko jezero",
-                  "text": "Lac de acumulare artificial pe Drava pentru producerea de electricitate lângă Cirkulane.",
-                  "category": "natural",
-                  "coords": [
-                        15.901161,
-                        46.399832
-                  ]
-            },
-            {
                   "name": "Grad Borl",
                   "text": "Un castel impunător situat pe o stâncă deasupra râului Drava, cu origini medievale.",
                   "category": "castle",
@@ -15480,15 +15021,6 @@ imageHint: "Crnomelj town center at river confluence",
             }
       ],
       "en": [
-            {
-                  "name": "Ptujsko jezero",
-                  "text": "Artificial reservoir on the Drava River for hydroelectric power near Cirkulane.",
-                  "category": "natural",
-                  "coords": [
-                        15.901161,
-                        46.399832
-                  ]
-            },
             {
                   "name": "Grad Borl",
                   "text": "An imposing castle on a cliff above the Drava River, with roots dating back to the Middle Ages.",

@@ -337,50 +337,10 @@ export const poiExtraTanzaniaNatureV2: POI[] = [
   },
   {
     id: "pemba-insel-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Pemba History Museum",
-                  "text": "Ein Kulturmuseum, das die reiche Geschichte und das Erbe der Insel Pemba detailliert beschreibt.",
-                  "category": "museum",
-                  "coords": [
-                        39.765653,
-                        -5.247635
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Pemba History Museum",
-                  "text": "Egy kulturális múzeum, amely Pemba szigetének gazdag történelmét és örökségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        39.765653,
-                        -5.247635
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Pemba History Museum",
-                  "text": "Un muzeu cultural care detaliază bogata istorie și moștenire a Insulei Pemba.",
-                  "category": "museum",
-                  "coords": [
-                        39.765653,
-                        -5.247635
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Pemba History Museum",
-                  "text": "A cultural museum detailing the rich history and heritage of Pemba Island.",
-                  "category": "museum",
-                  "coords": [
-                        39.765653,
-                        -5.247635
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "island",
     parent: "TZ-15",

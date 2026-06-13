@@ -2949,15 +2949,6 @@ export const denmarkHistoryV2: POI[] = [
     id: "denmark-gl-estrup-history-v2", "sights": {
       "de": [
             {
-                  "name": "Langdalshøj",
-                  "text": "Ein Langhügel oder Grabhügel nahe dem Herrenhaus Gl Estrup.",
-                  "category": "historical",
-                  "coords": [
-                        10.456599,
-                        56.393166
-                  ]
-            },
-            {
                   "name": "Tvillinghøje",
                   "text": "Antike Grabhügel in der Nähe des Schlosses Gl. Estrup.",
                   "category": "historical",
@@ -2976,24 +2967,6 @@ export const denmarkHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sankt Michaels Kirke",
-                  "text": "Sankt Michaels Kirke, eine lutherische Kirche in Pindstrup bei Gl. Estrup.",
-                  "category": "religious",
-                  "coords": [
-                        10.401634,
-                        56.38931
-                  ]
-            },
-            {
-                  "name": "Pindstrup Kirke",
-                  "text": "Pindstrup Kirke, eine lutherische Kirche in Pindstrup bei Gl. Estrup.",
-                  "category": "religious",
-                  "coords": [
-                        10.418942,
-                        56.392208
-                  ]
-            },
-            {
                   "name": "Auning Kirke",
                   "text": "Auning Kirke, eine historische Kirche in Auning bei Gl. Estrup.",
                   "category": "religious",
@@ -3004,15 +2977,6 @@ export const denmarkHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Langdalshøj",
-                  "text": "Egy hosszú halom vagy temetkezési halom a Gl Estrup kastély közelében.",
-                  "category": "historical",
-                  "coords": [
-                        10.456599,
-                        56.393166
-                  ]
-            },
             {
                   "name": "Tvillinghøje",
                   "text": "Ősi sírhalmok Gl. Estrup kastélyának közelében.",
@@ -3032,24 +2996,6 @@ export const denmarkHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sankt Michaels Kirke",
-                  "text": "Sankt Michaels Kirke, egy evangélikus templom Pindstrupban, Gl. Estrup mellett.",
-                  "category": "religious",
-                  "coords": [
-                        10.401634,
-                        56.38931
-                  ]
-            },
-            {
-                  "name": "Pindstrup Kirke",
-                  "text": "Pindstrup Kirke, egy evangélikus templom Pindstrupban, Gl. Estrup mellett.",
-                  "category": "religious",
-                  "coords": [
-                        10.418942,
-                        56.392208
-                  ]
-            },
-            {
                   "name": "Auning Kirke",
                   "text": "Auning Kirke, egy történelmi templom Auningban, Gl. Estrup mellett.",
                   "category": "religious",
@@ -3060,15 +3006,6 @@ export const denmarkHistoryV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Langdalshøj",
-                  "text": "Un movilă lungă sau tumul lângă conacul Gl Estrup.",
-                  "category": "historical",
-                  "coords": [
-                        10.456599,
-                        56.393166
-                  ]
-            },
             {
                   "name": "Tvillinghøje",
                   "text": "Tumuli antici situați în vecinătatea castelului Gl. Estrup.",
@@ -3088,24 +3025,6 @@ export const denmarkHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sankt Michaels Kirke",
-                  "text": "Biserica Sfântul Mihail, o biserică luterană în Pindstrup, lângă Gl. Estrup.",
-                  "category": "religious",
-                  "coords": [
-                        10.401634,
-                        56.38931
-                  ]
-            },
-            {
-                  "name": "Pindstrup Kirke",
-                  "text": "Biserica Pindstrup, o biserică luterană în Pindstrup, lângă Gl. Estrup.",
-                  "category": "religious",
-                  "coords": [
-                        10.418942,
-                        56.392208
-                  ]
-            },
-            {
                   "name": "Auning Kirke",
                   "text": "Biserica Auning, o biserică istorică în Auning, lângă Gl. Estrup.",
                   "category": "religious",
@@ -3116,15 +3035,6 @@ export const denmarkHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Langdalshøj",
-                  "text": "A long barrow or burial mound near Gl Estrup manor.",
-                  "category": "historical",
-                  "coords": [
-                        10.456599,
-                        56.393166
-                  ]
-            },
             {
                   "name": "Tvillinghøje",
                   "text": "Ancient burial mounds situated in the vicinity of Gl. Estrup Castle.",
@@ -3141,24 +3051,6 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         10.444131,
                         56.45155
-                  ]
-            },
-            {
-                  "name": "Sankt Michaels Kirke",
-                  "text": "St. Michael's Church, a Lutheran church in Pindstrup near Gl. Estrup.",
-                  "category": "religious",
-                  "coords": [
-                        10.401634,
-                        56.38931
-                  ]
-            },
-            {
-                  "name": "Pindstrup Kirke",
-                  "text": "Pindstrup Church, a Lutheran church in Pindstrup near Gl. Estrup.",
-                  "category": "religious",
-                  "coords": [
-                        10.418942,
-                        56.392208
                   ]
             },
             {
@@ -3354,60 +3246,6 @@ export const denmarkHistoryV2: POI[] = [
     id: "denmark-liselund-castle-history-v2", "sights": {
       "de": [
             {
-                  "name": "Gunildsbjerg",
-                  "text": "Eine prähistorische archäologische Stätte in der Nähe von Schloss Liselund auf der Insel Møn.",
-                  "category": "historical",
-                  "coords": [
-                        12.490671,
-                        54.975368
-                  ]
-            },
-            {
-                  "name": "Skriveshøj",
-                  "text": "Ein historischer Grabhügel auf der Insel Møn, der Teil der antiken dänischen Kulturlandschaft ist.",
-                  "category": "historical",
-                  "coords": [
-                        12.530607,
-                        54.973734
-                  ]
-            },
-            {
-                  "name": "Deinesbjerg",
-                  "text": "Eine antike Stätte in Dänemark, die für ihre archäologischen Funde aus der Vorzeit bekannt ist.",
-                  "category": "historical",
-                  "coords": [
-                        12.510228,
-                        54.982178
-                  ]
-            },
-            {
-                  "name": "Koes Minde",
-                  "text": "Ein archäologisch bedeutsames Gebiet in der Nähe von Liselund, das Zeugnisse früherer Besiedlung bewahrt.",
-                  "category": "historical",
-                  "coords": [
-                        12.524536,
-                        54.998373
-                  ]
-            },
-            {
-                  "name": "Kammerherrens Høj",
-                  "text": "Ein prähistorischer Fundplatz bei Liselund, der als wichtiger Teil des regionalen Erbes gilt.",
-                  "category": "historical",
-                  "coords": [
-                        12.523059,
-                        54.998942
-                  ]
-            },
-            {
-                  "name": "Kraghøj",
-                  "text": "Ein markanter Grabhügel aus der Vorzeit in der hügeligen Landschaft der Insel Møn.",
-                  "category": "historical",
-                  "coords": [
-                        12.527745,
-                        54.998029
-                  ]
-            },
-            {
                   "name": "Somarke Dolmen",
                   "text": "Ein beeindruckendes prähistorisches Ganggrab auf der dänischen Insel Møn.",
                   "category": "historical",
@@ -3415,72 +3253,9 @@ export const denmarkHistoryV2: POI[] = [
                         12.501001,
                         54.991109
                   ]
-            },
-            {
-                  "name": "Swimming Pool",
-                  "text": "Swimming Pool ist eine Wasserpark-Einrichtung beim Schloss Liselund.",
-                  "category": "recreational",
-                  "coords": [
-                        12.521788,
-                        54.980283
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Gunildsbjerg",
-                  "text": "Őskori régészeti lelőhely a Liselund-kastély közelében, Møn szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        12.490671,
-                        54.975368
-                  ]
-            },
-            {
-                  "name": "Skriveshøj",
-                  "text": "Történelmi sírhalom Møn szigetén, amely az ősi dán kultúrtáj része.",
-                  "category": "historical",
-                  "coords": [
-                        12.530607,
-                        54.973734
-                  ]
-            },
-            {
-                  "name": "Deinesbjerg",
-                  "text": "Ókori lelőhely Dániában, amely az őskorból származó régészeti leleteiről ismert.",
-                  "category": "historical",
-                  "coords": [
-                        12.510228,
-                        54.982178
-                  ]
-            },
-            {
-                  "name": "Koes Minde",
-                  "text": "Régészeti szempontból jelentős terület Liselund közelében, amely korai települések nyomait őrzi.",
-                  "category": "historical",
-                  "coords": [
-                        12.524536,
-                        54.998373
-                  ]
-            },
-            {
-                  "name": "Kammerherrens Høj",
-                  "text": "Őskori lelőhely Liselund közelében, amely a regionális örökség fontos része.",
-                  "category": "historical",
-                  "coords": [
-                        12.523059,
-                        54.998942
-                  ]
-            },
-            {
-                  "name": "Kraghøj",
-                  "text": "Jellegzetes őskori sírhalom Møn szigetének dombos táján.",
-                  "category": "historical",
-                  "coords": [
-                        12.527745,
-                        54.998029
-                  ]
-            },
             {
                   "name": "Somarke dolmen",
                   "text": "Lenyűgöző őskori folyosósír a dániai Møn szigetén.",
@@ -3489,72 +3264,9 @@ export const denmarkHistoryV2: POI[] = [
                         12.501001,
                         54.991109
                   ]
-            },
-            {
-                  "name": "Swimming Pool",
-                  "text": "A Swimming Pool egy vízi park a Liselund-kastélynál.",
-                  "category": "recreational",
-                  "coords": [
-                        12.521788,
-                        54.980283
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Gunildsbjerg",
-                  "text": "Un sit arheologic preistoric situat lângă Castelul Liselund de pe insula Møn.",
-                  "category": "historical",
-                  "coords": [
-                        12.490671,
-                        54.975368
-                  ]
-            },
-            {
-                  "name": "Skriveshøj",
-                  "text": "O movilă funerară istorică de pe insula Møn, care face parte din peisajul cultural danez antic.",
-                  "category": "historical",
-                  "coords": [
-                        12.530607,
-                        54.973734
-                  ]
-            },
-            {
-                  "name": "Deinesbjerg",
-                  "text": "Un sit antic din Danemarca, cunoscut pentru descoperirile sale arheologice din preistorie.",
-                  "category": "historical",
-                  "coords": [
-                        12.510228,
-                        54.982178
-                  ]
-            },
-            {
-                  "name": "Koes Minde",
-                  "text": "O zonă importantă din punct de vedere arheologic lângă Liselund, care păstrează dovezi ale locuirii timpurii.",
-                  "category": "historical",
-                  "coords": [
-                        12.524536,
-                        54.998373
-                  ]
-            },
-            {
-                  "name": "Kammerherrens Høj",
-                  "text": "Un sit preistoric lângă Liselund, considerat o parte importantă a patrimoniului regional.",
-                  "category": "historical",
-                  "coords": [
-                        12.523059,
-                        54.998942
-                  ]
-            },
-            {
-                  "name": "Kraghøj",
-                  "text": "O movilă funerară preistorică proeminentă în peisajul deluros al insulei Møn.",
-                  "category": "historical",
-                  "coords": [
-                        12.527745,
-                        54.998029
-                  ]
-            },
             {
                   "name": "Sømarkedyssen",
                   "text": "Un mormânt preistoric impresionant pe insula daneză Møn.",
@@ -3563,72 +3275,9 @@ export const denmarkHistoryV2: POI[] = [
                         12.501001,
                         54.991109
                   ]
-            },
-            {
-                  "name": "Swimming Pool",
-                  "text": "Swimming Pool este o facilitate de parc acvatic situată lângă Castelul Liselund.",
-                  "category": "recreational",
-                  "coords": [
-                        12.521788,
-                        54.980283
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Gunildsbjerg",
-                  "text": "A prehistoric archaeological site located near Liselund Castle on the island of Møn.",
-                  "category": "historical",
-                  "coords": [
-                        12.490671,
-                        54.975368
-                  ]
-            },
-            {
-                  "name": "Skriveshøj",
-                  "text": "A historic burial mound on the island of Møn, part of the ancient Danish cultural landscape.",
-                  "category": "historical",
-                  "coords": [
-                        12.530607,
-                        54.973734
-                  ]
-            },
-            {
-                  "name": "Deinesbjerg",
-                  "text": "An ancient site in Denmark, known for its archaeological finds from prehistoric times.",
-                  "category": "historical",
-                  "coords": [
-                        12.510228,
-                        54.982178
-                  ]
-            },
-            {
-                  "name": "Koes Minde",
-                  "text": "An archaeologically significant area near Liselund that preserves evidence of early settlement.",
-                  "category": "historical",
-                  "coords": [
-                        12.524536,
-                        54.998373
-                  ]
-            },
-            {
-                  "name": "Kammerherrens Høj",
-                  "text": "A prehistoric site near Liselund, considered an important part of the regional heritage.",
-                  "category": "historical",
-                  "coords": [
-                        12.523059,
-                        54.998942
-                  ]
-            },
-            {
-                  "name": "Kraghøj",
-                  "text": "A prominent prehistoric burial mound in the hilly landscape of Møn island.",
-                  "category": "historical",
-                  "coords": [
-                        12.527745,
-                        54.998029
-                  ]
-            },
             {
                   "name": "Somarke Dolmen",
                   "text": "An impressive prehistoric passage grave on the Danish island of Møn.",
@@ -3636,15 +3285,6 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         12.501001,
                         54.991109
-                  ]
-            },
-            {
-                  "name": "Swimming Pool",
-                  "text": "Swimming Pool is a water park facility located near Liselund Castle.",
-                  "category": "recreational",
-                  "coords": [
-                        12.521788,
-                        54.980283
                   ]
             }
       ]
@@ -4182,24 +3822,6 @@ export const denmarkHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tvillinghøje",
-                  "text": "Diese archäologische Stätte bei Gammel Estrup Manor besteht aus markanten Zwillingshügeln.",
-                  "category": "historical",
-                  "coords": [
-                        10.388027,
-                        56.436148
-                  ]
-            },
-            {
-                  "name": "Løvenholm",
-                  "text": "Ein historisches Herrenhaus in der Nähe von Gammel Estrup Manor, umgeben von einer weitläufigen Parkanlage.",
-                  "category": "historical",
-                  "coords": [
-                        10.444131,
-                        56.45155
-                  ]
-            },
-            {
                   "name": "Sankt Michaels Kirke",
                   "text": "Eine traditionelle Kirche in der Nähe von Gammel Estrup Manor, die als Ort der Andacht dient.",
                   "category": "religious",
@@ -4215,15 +3837,6 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         10.418942,
                         56.392208
-                  ]
-            },
-            {
-                  "name": "Auning Kirke",
-                  "text": "Eine historische Kirche bei Gammel Estrup Manor, die ein wichtiger religiöser Treffpunkt der Gemeinde ist.",
-                  "category": "religious",
-                  "coords": [
-                        10.376134,
-                        56.433821
                   ]
             }
       ],
@@ -4247,24 +3860,6 @@ export const denmarkHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tvillinghøje",
-                  "text": "Ez a Gammel Estrup kúriánál található régészeti lelőhely jellegzetes ikerhalmokból áll.",
-                  "category": "historical",
-                  "coords": [
-                        10.388027,
-                        56.436148
-                  ]
-            },
-            {
-                  "name": "Løvenholm",
-                  "text": "Történelmi udvarház a Gammel Estrup kúria közelében, amelyet kiterjedt park vesz körül.",
-                  "category": "historical",
-                  "coords": [
-                        10.444131,
-                        56.45155
-                  ]
-            },
-            {
                   "name": "Sankt Michaels Kirke",
                   "text": "Hagyományos templom a Gammel Estrup kúria közelében, amely istentiszteleti helyként szolgál.",
                   "category": "religious",
@@ -4280,15 +3875,6 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         10.418942,
                         56.392208
-                  ]
-            },
-            {
-                  "name": "Auning Kirke",
-                  "text": "Történelmi templom a Gammel Estrup kúria közelében, amely a közösség fontos vallási találkozóhelye.",
-                  "category": "religious",
-                  "coords": [
-                        10.376134,
-                        56.433821
                   ]
             }
       ],
@@ -4312,24 +3898,6 @@ export const denmarkHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tvillinghøje",
-                  "text": "Acest sit arheologic de lângă Conacul Gammel Estrup este format din tumuli gemeni.",
-                  "category": "historical",
-                  "coords": [
-                        10.388027,
-                        56.436148
-                  ]
-            },
-            {
-                  "name": "Løvenholm",
-                  "text": "Un conac istoric situat lângă Gammel Estrup Manor, înconjurat de un domeniu vast.",
-                  "category": "historical",
-                  "coords": [
-                        10.444131,
-                        56.45155
-                  ]
-            },
-            {
                   "name": "Sankt Michaels Kirke",
                   "text": "O biserică tradițională în apropiere de Conacul Gammel Estrup, servind ca loc de cult.",
                   "category": "religious",
@@ -4345,15 +3913,6 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         10.418942,
                         56.392208
-                  ]
-            },
-            {
-                  "name": "Auning Kirke",
-                  "text": "O biserică istorică lângă Conacul Gammel Estrup, fiind un important punct de întâlnire religios pentru comunitate.",
-                  "category": "religious",
-                  "coords": [
-                        10.376134,
-                        56.433821
                   ]
             }
       ],
@@ -4377,24 +3936,6 @@ export const denmarkHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tvillinghøje",
-                  "text": "This archaeological site near Gammel Estrup Manor consists of distinct twin mounds.",
-                  "category": "historical",
-                  "coords": [
-                        10.388027,
-                        56.436148
-                  ]
-            },
-            {
-                  "name": "Løvenholm",
-                  "text": "A historical manor house near Gammel Estrup Manor, surrounded by extensive grounds.",
-                  "category": "historical",
-                  "coords": [
-                        10.444131,
-                        56.45155
-                  ]
-            },
-            {
                   "name": "Sankt Michaels Kirke",
                   "text": "A traditional church near Gammel Estrup Manor, serving as a place of worship.",
                   "category": "religious",
@@ -4410,15 +3951,6 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         10.418942,
                         56.392208
-                  ]
-            },
-            {
-                  "name": "Auning Kirke",
-                  "text": "A historical church near Gammel Estrup Manor, serving as an important religious gathering place for the community.",
-                  "category": "religious",
-                  "coords": [
-                        10.376134,
-                        56.433821
                   ]
             }
       ]
@@ -4515,33 +4047,6 @@ export const denmarkHistoryV2: POI[] = [
     id: "denmark-kristiansfeld-history-v2", "sights": {
       "de": [
             {
-                  "name": "Grenzmuseum",
-                  "text": "Dieses Museum dokumentiert die Geschichte der Wiedervereinigung Nordschleswigs mit Dänemark im Jahr 1920.",
-                  "category": "museum",
-                  "coords": [
-                        9.481318,
-                        55.380401
-                  ]
-            },
-            {
-                  "name": "Museum Kolding",
-                  "text": "Ein lokalgeschichtliches Museum, das das kulturelle Erbe und die Entwicklung der Region Kolding zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        9.481503,
-                        55.356139
-                  ]
-            },
-            {
-                  "name": "Aller Kirke",
-                  "text": "Eine historische Pfarrkirche in der Nähe der Herrnhuter Siedlung Christiansfeld.",
-                  "category": "religious",
-                  "coords": [
-                        9.531672,
-                        55.361491
-                  ]
-            },
-            {
                   "name": "Tyrstrup Kirke",
                   "text": "Eine prominente Kirche aus dem 19. Jahrhundert in Christiansfeld, bekannt für ihre charakteristische Architektur.",
                   "category": "religious",
@@ -4552,33 +4057,6 @@ export const denmarkHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Genforenings- og Grænsemuseet",
-                  "text": "Ez a múzeum Dél-Jütland Dániával való 1920-as egyesítésének történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        9.481318,
-                        55.380401
-                  ]
-            },
-            {
-                  "name": "Museum Kolding",
-                  "text": "Helytörténeti múzeum, amely Kolding régió kulturális örökségét és fejlődését mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        9.481503,
-                        55.356139
-                  ]
-            },
-            {
-                  "name": "Aller Kirke",
-                  "text": "Történelmi plébániatemplom a hernhuti Christiansfeld település közelében.",
-                  "category": "religious",
-                  "coords": [
-                        9.531672,
-                        55.361491
-                  ]
-            },
             {
                   "name": "Tyrstrup Kirke",
                   "text": "Jelentős 19. századi templom Christiansfeldben, amely jellegzetes építészetéről ismert.",
@@ -4591,33 +4069,6 @@ export const denmarkHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Genforenings- og Grænsemuseet",
-                  "text": "Acest muzeu documentează istoria reunificării Iutlandei de Sud cu Danemarca în 1920.",
-                  "category": "museum",
-                  "coords": [
-                        9.481318,
-                        55.380401
-                  ]
-            },
-            {
-                  "name": "Museum Kolding",
-                  "text": "Un muzeu de istorie locală care prezintă moștenirea culturală și dezvoltarea regiunii Kolding.",
-                  "category": "museum",
-                  "coords": [
-                        9.481503,
-                        55.356139
-                  ]
-            },
-            {
-                  "name": "Aller Kirke",
-                  "text": "O biserică parohială istorică situată lângă așezarea moravă Christiansfeld.",
-                  "category": "religious",
-                  "coords": [
-                        9.531672,
-                        55.361491
-                  ]
-            },
-            {
                   "name": "Tyrstrup Kirke",
                   "text": "O biserică proeminentă din secolul al XIX-lea din zona Christiansfeld, cunoscută pentru arhitectura sa distinctivă.",
                   "category": "religious",
@@ -4628,33 +4079,6 @@ export const denmarkHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Genforenings- og Grænsemuseet",
-                  "text": "This museum documents the history of the reunification of Southern Jutland with Denmark in 1920.",
-                  "category": "museum",
-                  "coords": [
-                        9.481318,
-                        55.380401
-                  ]
-            },
-            {
-                  "name": "Museum Kolding",
-                  "text": "A local history museum showcasing the cultural heritage and development of the Kolding region.",
-                  "category": "museum",
-                  "coords": [
-                        9.481503,
-                        55.356139
-                  ]
-            },
-            {
-                  "name": "Aller Kirke",
-                  "text": "A historic parish church located near the Moravian settlement of Christiansfeld.",
-                  "category": "religious",
-                  "coords": [
-                        9.531672,
-                        55.361491
-                  ]
-            },
             {
                   "name": "Tyrstrup Kirke",
                   "text": "A prominent 19th-century church in the Christiansfeld area, known for its distinctive architecture.",
@@ -4803,30 +4227,12 @@ export const denmarkHistoryV2: POI[] = [
     id: "denmark-skagen-old-lighthouse-history-v2", "sights": {
       "de": [
             {
-                  "name": "Kystmuseet Skagen",
-                  "text": "Ein Freilichtmuseum in Skagen, das Besuchern Einblicke in das Leben der Fischer und Seeleute gewährt.",
-                  "category": "museum",
-                  "coords": [
-                        10.574626,
-                        57.716361
-                  ]
-            },
-            {
                   "name": "Skagen Bunkermuseum",
                   "text": "Ein Museum in einem originalen Bunker aus dem Zweiten Weltkrieg, das die Besatzungszeit thematisiert.",
                   "category": "museum",
                   "coords": [
                         10.631822,
                         57.738913
-                  ]
-            },
-            {
-                  "name": "Villa Pax",
-                  "text": "Das ehemalige Wohnhaus des Dichters Holger Drachmann in Skagen, das heute als Museum dient.",
-                  "category": "museum",
-                  "coords": [
-                        10.577809,
-                        57.718777
                   ]
             },
             {
@@ -4855,36 +4261,9 @@ export const denmarkHistoryV2: POI[] = [
                         10.595155,
                         57.748764
                   ]
-            },
-            {
-                  "name": "Hvide Fyr",
-                  "text": "Ein historischer weißer Leuchtturm in Skagen, der zu den ältesten Bauwerken dieser Art in Dänemark zählt.",
-                  "category": "landmark",
-                  "coords": [
-                        10.606728,
-                        57.729053
-                  ]
-            },
-            {
-                  "name": "Anchers Hus",
-                  "text": "Das einstige Heim des Künstlerehepaars Ancher, in dem ihre Werke und Einrichtungsgegenstände ausgestellt sind.",
-                  "category": "museum",
-                  "coords": [
-                        10.596901,
-                        57.726114
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Kystmuseet Skagen",
-                  "text": "Szabadtéri múzeum Skagenben, amely betekintést nyújt a halászok és tengerészek életébe.",
-                  "category": "museum",
-                  "coords": [
-                        10.574626,
-                        57.716361
-                  ]
-            },
             {
                   "name": "Skagen Bunkermuseum",
                   "text": "Egy eredeti második világháborús bunkerben kialakított múzeum, amely a megszállás idejét mutatja be.",
@@ -4892,15 +4271,6 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         10.631822,
                         57.738913
-                  ]
-            },
-            {
-                  "name": "Villa Pax",
-                  "text": "Holger Drachmann költő egykori lakóháza Skagenben, amely ma múzeumként működik.",
-                  "category": "museum",
-                  "coords": [
-                        10.577809,
-                        57.718777
                   ]
             },
             {
@@ -4929,36 +4299,9 @@ export const denmarkHistoryV2: POI[] = [
                         10.595155,
                         57.748764
                   ]
-            },
-            {
-                  "name": "Hvide Fyr",
-                  "text": "Történelmi fehér világítótorony Skagenben, amely Dánia egyik legrégebbi ilyen jellegű építménye.",
-                  "category": "landmark",
-                  "coords": [
-                        10.606728,
-                        57.729053
-                  ]
-            },
-            {
-                  "name": "Anchers Hus",
-                  "text": "Az Ancher művészházaspár egykori otthona, ahol alkotásaikat és bútoraikat mutatják be.",
-                  "category": "museum",
-                  "coords": [
-                        10.596901,
-                        57.726114
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Kystmuseet Skagen",
-                  "text": "Un muzeu în aer liber din Skagen, care oferă vizitatorilor o imagine asupra vieții pescarilor și marinarilor.",
-                  "category": "museum",
-                  "coords": [
-                        10.574626,
-                        57.716361
-                  ]
-            },
             {
                   "name": "Skagen Bunkermuseum",
                   "text": "Un muzeu amenajat într-un buncăr original din Al Doilea Război Mondial, care abordează perioada ocupației.",
@@ -4966,15 +4309,6 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         10.631822,
                         57.738913
-                  ]
-            },
-            {
-                  "name": "Villa Pax",
-                  "text": "Fosta casă a poetului Holger Drachmann din Skagen, care astăzi servește drept muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        10.577809,
-                        57.718777
                   ]
             },
             {
@@ -5003,36 +4337,9 @@ export const denmarkHistoryV2: POI[] = [
                         10.595155,
                         57.748764
                   ]
-            },
-            {
-                  "name": "Hvide Fyr",
-                  "text": "Un far alb istoric din Skagen, printre cele mai vechi structuri de acest tip din Danemarca.",
-                  "category": "landmark",
-                  "coords": [
-                        10.606728,
-                        57.729053
-                  ]
-            },
-            {
-                  "name": "Anchers Hus",
-                  "text": "Fosta casă a cuplului de artiști Ancher, unde sunt expuse lucrările și obiectele lor de mobilier.",
-                  "category": "museum",
-                  "coords": [
-                        10.596901,
-                        57.726114
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Kystmuseet Skagen",
-                  "text": "An open-air museum in Skagen providing visitors with insights into the lives of fishermen and sailors.",
-                  "category": "museum",
-                  "coords": [
-                        10.574626,
-                        57.716361
-                  ]
-            },
             {
                   "name": "Skagen Bunkermuseum",
                   "text": "A museum located in an original WWII bunker, focusing on the period of occupation.",
@@ -5040,15 +4347,6 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         10.631822,
                         57.738913
-                  ]
-            },
-            {
-                  "name": "Villa Pax",
-                  "text": "The former home of the poet Holger Drachmann in Skagen, which now serves as a museum.",
-                  "category": "museum",
-                  "coords": [
-                        10.577809,
-                        57.718777
                   ]
             },
             {
@@ -5076,24 +4374,6 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         10.595155,
                         57.748764
-                  ]
-            },
-            {
-                  "name": "Hvide Fyr",
-                  "text": "A historic white lighthouse in Skagen, one of the oldest structures of its kind in Denmark.",
-                  "category": "landmark",
-                  "coords": [
-                        10.606728,
-                        57.729053
-                  ]
-            },
-            {
-                  "name": "Anchers Hus",
-                  "text": "The former home of the artist couple Ancher, where their works and furnishings are on display.",
-                  "category": "museum",
-                  "coords": [
-                        10.596901,
-                        57.726114
                   ]
             }
       ]
@@ -5235,30 +4515,12 @@ export const denmarkHistoryV2: POI[] = [
     id: "denmark-soro-monastery-church-history-v2", "sights": {
       "de": [
             {
-                  "name": "Barnedys",
-                  "text": "Ein Grabhügel nahe der Klosterkirche Soro.",
-                  "category": "historical",
-                  "coords": [
-                        11.559978,
-                        55.406075
-                  ]
-            },
-            {
                   "name": "Sorø Museum",
                   "text": "Sorø Museum, ein Heimatmuseum im Sorø Klosterkomplex.",
                   "category": "museum",
                   "coords": [
                         11.55639,
                         55.433281
-                  ]
-            },
-            {
-                  "name": "Kongshøj",
-                  "text": "Ein königlicher Grabhügel nahe der Klosterkirche Soro.",
-                  "category": "historical",
-                  "coords": [
-                        11.542851,
-                        55.413921
                   ]
             },
             {
@@ -5305,27 +4567,9 @@ export const denmarkHistoryV2: POI[] = [
                         11.548755,
                         55.44153
                   ]
-            },
-            {
-                  "name": "Søbadet ved Parnas",
-                  "text": "Ein öffentlicher Badeplatz am Seeufer bei der Klosterkirche Sorø.",
-                  "category": "recreational",
-                  "coords": [
-                        11.537671,
-                        55.425073
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Barnedys",
-                  "text": "Egy temetkezési halom a soroi kolostortemplom közelében.",
-                  "category": "historical",
-                  "coords": [
-                        11.559978,
-                        55.406075
-                  ]
-            },
             {
                   "name": "Sorø Museum",
                   "text": "Sorø Museum, egy helytörténeti múzeum a Sorø kolostorkomplexumban.",
@@ -5333,15 +4577,6 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         11.55639,
                         55.433281
-                  ]
-            },
-            {
-                  "name": "Kongshøj",
-                  "text": "Egy királyi temetkezési halom a soroi kolostortemplom közelében.",
-                  "category": "historical",
-                  "coords": [
-                        11.542851,
-                        55.413921
                   ]
             },
             {
@@ -5388,27 +4623,9 @@ export const denmarkHistoryV2: POI[] = [
                         11.548755,
                         55.44153
                   ]
-            },
-            {
-                  "name": "Søbadet ved Parnas",
-                  "text": "Nyilvános fürdőhely a tóparton, a sorøi kolostortemplom mellett.",
-                  "category": "recreational",
-                  "coords": [
-                        11.537671,
-                        55.425073
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Barnedys",
-                  "text": "Un movilă funerară lângă Biserica Mănăstirii Soro.",
-                  "category": "historical",
-                  "coords": [
-                        11.559978,
-                        55.406075
-                  ]
-            },
             {
                   "name": "Sorø Museum",
                   "text": "Muzeul Sorø, un muzeu de istorie locală în complexul mănăstirii Sorø.",
@@ -5416,15 +4633,6 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         11.55639,
                         55.433281
-                  ]
-            },
-            {
-                  "name": "Kongshøj",
-                  "text": "Un movilă funerară regală lângă Biserica Mănăstirii Soro.",
-                  "category": "historical",
-                  "coords": [
-                        11.542851,
-                        55.413921
                   ]
             },
             {
@@ -5471,27 +4679,9 @@ export const denmarkHistoryV2: POI[] = [
                         11.548755,
                         55.44153
                   ]
-            },
-            {
-                  "name": "Søbadet ved Parnas",
-                  "text": "O zonă publică de înot pe malul lacului, lângă Biserica Mănăstirii Sorø.",
-                  "category": "recreational",
-                  "coords": [
-                        11.537671,
-                        55.425073
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Barnedys",
-                  "text": "A burial mound near Soro Monastery Church.",
-                  "category": "historical",
-                  "coords": [
-                        11.559978,
-                        55.406075
-                  ]
-            },
             {
                   "name": "Sorø Museum",
                   "text": "Sorø Museum, a local history museum in the Sorø Monastery complex.",
@@ -5499,15 +4689,6 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         11.55639,
                         55.433281
-                  ]
-            },
-            {
-                  "name": "Kongshøj",
-                  "text": "A royal burial mound near Soro Monastery Church.",
-                  "category": "historical",
-                  "coords": [
-                        11.542851,
-                        55.413921
                   ]
             },
             {
@@ -5553,15 +4734,6 @@ export const denmarkHistoryV2: POI[] = [
                   "coords": [
                         11.548755,
                         55.44153
-                  ]
-            },
-            {
-                  "name": "Søbadet ved Parnas",
-                  "text": "A public lakeside swimming spot situated by the Sorø Monastery Church.",
-                  "category": "recreational",
-                  "coords": [
-                        11.537671,
-                        55.425073
                   ]
             }
       ]
@@ -5703,48 +4875,12 @@ export const denmarkHistoryV2: POI[] = [
     id: "denmark-skanderborg-castle-ruins-history-v2", "sights": {
       "de": [
             {
-                  "name": "Faarbjerg",
-                  "text": "Eine archäologische Fundstätte in der Nähe der Schlossruine von Skanderborg.",
-                  "category": "historical",
-                  "coords": [
-                        9.941098,
-                        56.001763
-                  ]
-            },
-            {
                   "name": "Lille Høj",
                   "text": "Ein prähistorischer Grabhügel in der Umgebung von Skanderborg.",
                   "category": "historical",
                   "coords": [
                         9.994268,
                         56.027367
-                  ]
-            },
-            {
-                  "name": "Belravensknold",
-                  "text": "Eine antike Landmarke oder archäologische Stätte bei Skanderborg.",
-                  "category": "historical",
-                  "coords": [
-                        9.9348,
-                        56.055864
-                  ]
-            },
-            {
-                  "name": "Skanderborg Bunkerne",
-                  "text": "Ein Museum in ehemaligen deutschen Bunkern aus dem Zweiten Weltkrieg in Skanderborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.917827,
-                        56.021621
-                  ]
-            },
-            {
-                  "name": "Præstehøj",
-                  "text": "Ein prähistorischer Grabhügel namens Præstehøj nahe den Skanderborger Burgruinen.",
-                  "category": "historical",
-                  "coords": [
-                        9.924432,
-                        56.060096
                   ]
             },
             {
@@ -5755,54 +4891,9 @@ export const denmarkHistoryV2: POI[] = [
                         9.958414,
                         56.028476
                   ]
-            },
-            {
-                  "name": "Perron1",
-                  "text": "Eine kleine Galerie oder ein Museum im Bahnhof von Skanderborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.92623,
-                        56.043585
-                  ]
-            },
-            {
-                  "name": "Landsbyen Sølunds Museum",
-                  "text": "Ein Museum, das sich mit der Geschichte der Sølund-Institution befasst.",
-                  "category": "museum",
-                  "coords": [
-                        9.920982,
-                        56.028683
-                  ]
-            },
-            {
-                  "name": "Søbadet",
-                  "text": "Eine öffentliche Badestelle am Ufer des Skanderborg-Sees.",
-                  "category": "recreational",
-                  "coords": [
-                        9.926275,
-                        56.021892
-                  ]
-            },
-            {
-                  "name": "Bybadet",
-                  "text": "Ein Freibad zur Erholung nahe den Skanderborger Burgruinen.",
-                  "category": "recreational",
-                  "coords": [
-                        9.934422,
-                        56.035498
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Faarbjerg",
-                  "text": "Régészeti lelőhely a skanderborgi várromok közelében.",
-                  "category": "historical",
-                  "coords": [
-                        9.941098,
-                        56.001763
-                  ]
-            },
             {
                   "name": "Lille Høj",
                   "text": "Prehisztorikus sírhalom Skanderborg környékén.",
@@ -5813,33 +4904,6 @@ export const denmarkHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Belravensknold",
-                  "text": "Ókori tájékozódási pont vagy régészeti helyszín Skanderborgnál.",
-                  "category": "historical",
-                  "coords": [
-                        9.9348,
-                        56.055864
-                  ]
-            },
-            {
-                  "name": "Skanderborg Bunkerne",
-                  "text": "Múzeum a második világháborús német bunkerekben Skanderborgban.",
-                  "category": "museum",
-                  "coords": [
-                        9.917827,
-                        56.021621
-                  ]
-            },
-            {
-                  "name": "Præstehøj",
-                  "text": "Egy őskori temetkezési halom, a Præstehøj, a skanderborgi várromok közelében.",
-                  "category": "historical",
-                  "coords": [
-                        9.924432,
-                        56.060096
-                  ]
-            },
-            {
                   "name": "Vestermølle Museum",
                   "text": "Múzeum egy történelmi malomban a Skanderborg-tó partján.",
                   "category": "museum",
@@ -5847,54 +4911,9 @@ export const denmarkHistoryV2: POI[] = [
                         9.958414,
                         56.028476
                   ]
-            },
-            {
-                  "name": "Perron1",
-                  "text": "Kis galéria vagy múzeum a skanderborgi vasútállomáson.",
-                  "category": "museum",
-                  "coords": [
-                        9.92623,
-                        56.043585
-                  ]
-            },
-            {
-                  "name": "Landsbyen Sølunds Museum",
-                  "text": "A Sølund intézmény történetével foglalkozó múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        9.920982,
-                        56.028683
-                  ]
-            },
-            {
-                  "name": "Søbadet",
-                  "text": "Nyilvános fürdőhely a Skanderborg-tó partján.",
-                  "category": "recreational",
-                  "coords": [
-                        9.926275,
-                        56.021892
-                  ]
-            },
-            {
-                  "name": "Bybadet",
-                  "text": "Egy szabadtéri fürdőhely a skanderborgi várromok közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        9.934422,
-                        56.035498
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Faarbjerg",
-                  "text": "Un sit arheologic situat lângă ruinele castelului Skanderborg.",
-                  "category": "historical",
-                  "coords": [
-                        9.941098,
-                        56.001763
-                  ]
-            },
             {
                   "name": "Lille Høj",
                   "text": "Un tumul preistoric în împrejurimile orașului Skanderborg.",
@@ -5905,33 +4924,6 @@ export const denmarkHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Belravensknold",
-                  "text": "Un reper antic sau sit arheologic de lângă Skanderborg.",
-                  "category": "historical",
-                  "coords": [
-                        9.9348,
-                        56.055864
-                  ]
-            },
-            {
-                  "name": "Skanderborg Bunkerne",
-                  "text": "Un muzeu amenajat în foste buncăre germane din al Doilea Război Mondial în Skanderborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.917827,
-                        56.021621
-                  ]
-            },
-            {
-                  "name": "Præstehøj",
-                  "text": "Un tumul preistoric numit Præstehøj lângă Ruinele Castelului Skanderborg.",
-                  "category": "historical",
-                  "coords": [
-                        9.924432,
-                        56.060096
-                  ]
-            },
-            {
                   "name": "Vestermølle Museum",
                   "text": "Un muzeu într-o moară istorică de pe malul lacului Skanderborg.",
                   "category": "museum",
@@ -5939,54 +4931,9 @@ export const denmarkHistoryV2: POI[] = [
                         9.958414,
                         56.028476
                   ]
-            },
-            {
-                  "name": "Perron1",
-                  "text": "O mică galerie sau muzeu în gara din Skanderborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.92623,
-                        56.043585
-                  ]
-            },
-            {
-                  "name": "Landsbyen Sølunds Museum",
-                  "text": "Un muzeu care prezintă istoria instituției Sølund.",
-                  "category": "museum",
-                  "coords": [
-                        9.920982,
-                        56.028683
-                  ]
-            },
-            {
-                  "name": "Søbadet",
-                  "text": "Un loc public de scăldat pe malul lacului Skanderborg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.926275,
-                        56.021892
-                  ]
-            },
-            {
-                  "name": "Bybadet",
-                  "text": "O zonă de înot în aer liber lângă Ruinele Castelului Skanderborg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.934422,
-                        56.035498
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Faarbjerg",
-                  "text": "An archaeological site located near the Skanderborg castle ruins.",
-                  "category": "historical",
-                  "coords": [
-                        9.941098,
-                        56.001763
-                  ]
-            },
             {
                   "name": "Lille Høj",
                   "text": "A prehistoric burial mound in the surroundings of Skanderborg.",
@@ -5997,75 +4944,12 @@ export const denmarkHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Belravensknold",
-                  "text": "An ancient landmark or archaeological site near Skanderborg.",
-                  "category": "historical",
-                  "coords": [
-                        9.9348,
-                        56.055864
-                  ]
-            },
-            {
-                  "name": "Skanderborg Bunkerne",
-                  "text": "A museum housed in former World War II German bunkers in Skanderborg.",
-                  "category": "museum",
-                  "coords": [
-                        9.917827,
-                        56.021621
-                  ]
-            },
-            {
-                  "name": "Præstehøj",
-                  "text": "A prehistoric burial mound near Skanderborg Castle Ruins.",
-                  "category": "historical",
-                  "coords": [
-                        9.924432,
-                        56.060096
-                  ]
-            },
-            {
                   "name": "Vestermølle Museum",
                   "text": "A museum located in a historic mill on the shores of Lake Skanderborg.",
                   "category": "museum",
                   "coords": [
                         9.958414,
                         56.028476
-                  ]
-            },
-            {
-                  "name": "Perron1",
-                  "text": "A small gallery or museum located at the Skanderborg railway station.",
-                  "category": "museum",
-                  "coords": [
-                        9.92623,
-                        56.043585
-                  ]
-            },
-            {
-                  "name": "Landsbyen Sølunds Museum",
-                  "text": "A museum dedicated to the history of the Sølund institution.",
-                  "category": "museum",
-                  "coords": [
-                        9.920982,
-                        56.028683
-                  ]
-            },
-            {
-                  "name": "Søbadet",
-                  "text": "A public bathing spot on the shores of Lake Skanderborg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.926275,
-                        56.021892
-                  ]
-            },
-            {
-                  "name": "Bybadet",
-                  "text": "A recreational outdoor swimming area near Skanderborg Castle Ruins.",
-                  "category": "recreational",
-                  "coords": [
-                        9.934422,
-                        56.035498
                   ]
             }
       ]
@@ -6396,66 +5280,12 @@ export const denmarkHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skagen Bunkermuseum",
-                  "text": "Ein Museum in Skagen, das sich in einem Bunker aus dem Zweiten Weltkrieg befindet.",
-                  "category": "museum",
-                  "coords": [
-                        10.631822,
-                        57.738913
-                  ]
-            },
-            {
                   "name": "Villa Pax",
                   "text": "Das ehemalige Wohnhaus des Dichters und Malers Holger Drachmann in Skagen.",
                   "category": "museum",
                   "coords": [
                         10.577809,
                         57.718777
-                  ]
-            },
-            {
-                  "name": "Skagen Odde Naturcenter",
-                  "text": "Ein Naturzentrum in Skagen, das sich mit der Natur und Geologie der Landspitze Skagen Odde befasst.",
-                  "category": "museum",
-                  "coords": [
-                        10.595546,
-                        57.739979
-                  ]
-            },
-            {
-                  "name": "Grenen Kunstmuseum",
-                  "text": "Ein Kunstmuseum in Skagen, das Werke lokaler und regionaler Künstler ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        10.634035,
-                        57.739738
-                  ]
-            },
-            {
-                  "name": "Skagen Vest",
-                  "text": "Ein Leuchtturm in der Nähe von Skagen, der zur Navigation an der dänischen Küste dient.",
-                  "category": "landmark",
-                  "coords": [
-                        10.595155,
-                        57.748764
-                  ]
-            },
-            {
-                  "name": "Hvide Fyr",
-                  "text": "Ein historischer weißer Leuchtturm in Skagen, der heute als Ausstellungsraum genutzt wird.",
-                  "category": "landmark",
-                  "coords": [
-                        10.606728,
-                        57.729053
-                  ]
-            },
-            {
-                  "name": "Anchers Hus",
-                  "text": "Das ehemalige Wohnhaus der Maler Anna und Michael Ancher in Skagen.",
-                  "category": "museum",
-                  "coords": [
-                        10.596901,
-                        57.726114
                   ]
             }
       ],
@@ -6470,66 +5300,12 @@ export const denmarkHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skagen Bunkermuseum",
-                  "text": "Skageni múzeum, amely egy második világháborús bunkerben kapott helyet.",
-                  "category": "museum",
-                  "coords": [
-                        10.631822,
-                        57.738913
-                  ]
-            },
-            {
                   "name": "Villa Pax",
                   "text": "Holger Drachmann költő és festő egykori lakóháza Skagenben.",
                   "category": "museum",
                   "coords": [
                         10.577809,
                         57.718777
-                  ]
-            },
-            {
-                  "name": "Skagen Odde Naturcenter",
-                  "text": "Természeti központ Skagenben, amely a Skagen Odde félsziget természetével és geológiájával foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        10.595546,
-                        57.739979
-                  ]
-            },
-            {
-                  "name": "Grenen Kunstmuseum",
-                  "text": "Művészeti múzeum Skagenben, amely helyi és regionális művészek alkotásait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        10.634035,
-                        57.739738
-                  ]
-            },
-            {
-                  "name": "Skagen Vest",
-                  "text": "Skagen közelében található világítótorony, amely a dán partvidék navigációját segíti.",
-                  "category": "landmark",
-                  "coords": [
-                        10.595155,
-                        57.748764
-                  ]
-            },
-            {
-                  "name": "Hvide Fyr",
-                  "text": "Történelmi fehér világítótorony Skagenben, amely ma kiállítótérként működik.",
-                  "category": "landmark",
-                  "coords": [
-                        10.606728,
-                        57.729053
-                  ]
-            },
-            {
-                  "name": "Anchers Hus",
-                  "text": "Anna és Michael Ancher festők egykori lakóháza Skagenben.",
-                  "category": "museum",
-                  "coords": [
-                        10.596901,
-                        57.726114
                   ]
             }
       ],
@@ -6544,66 +5320,12 @@ export const denmarkHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skagen Bunkermuseum",
-                  "text": "Un muzeu din Skagen, situat într-un buncăr din al Doilea Război Mondial.",
-                  "category": "museum",
-                  "coords": [
-                        10.631822,
-                        57.738913
-                  ]
-            },
-            {
                   "name": "Villa Pax",
                   "text": "Fosta reședință a poetului și pictorului Holger Drachmann din Skagen.",
                   "category": "museum",
                   "coords": [
                         10.577809,
                         57.718777
-                  ]
-            },
-            {
-                  "name": "Skagen Odde Naturcenter",
-                  "text": "Un centru natural din Skagen dedicat naturii și geologiei peninsulei Skagen Odde.",
-                  "category": "museum",
-                  "coords": [
-                        10.595546,
-                        57.739979
-                  ]
-            },
-            {
-                  "name": "Grenen Kunstmuseum",
-                  "text": "Un muzeu de artă din Skagen care expune lucrări ale artiștilor locali și regionali.",
-                  "category": "museum",
-                  "coords": [
-                        10.634035,
-                        57.739738
-                  ]
-            },
-            {
-                  "name": "Skagen Vest",
-                  "text": "Un far situat lângă Skagen, utilizat pentru navigația pe coasta daneză.",
-                  "category": "landmark",
-                  "coords": [
-                        10.595155,
-                        57.748764
-                  ]
-            },
-            {
-                  "name": "Hvide Fyr",
-                  "text": "Un far alb istoric din Skagen, utilizat în prezent ca spațiu expozițional.",
-                  "category": "landmark",
-                  "coords": [
-                        10.606728,
-                        57.729053
-                  ]
-            },
-            {
-                  "name": "Anchers Hus",
-                  "text": "Fosta casă a pictorilor Anna și Michael Ancher din Skagen.",
-                  "category": "museum",
-                  "coords": [
-                        10.596901,
-                        57.726114
                   ]
             }
       ],
@@ -6618,66 +5340,12 @@ export const denmarkHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skagen Bunkermuseum",
-                  "text": "A museum in Skagen located within a World War II bunker.",
-                  "category": "museum",
-                  "coords": [
-                        10.631822,
-                        57.738913
-                  ]
-            },
-            {
                   "name": "Villa Pax",
                   "text": "The former home of poet and painter Holger Drachmann in Skagen.",
                   "category": "museum",
                   "coords": [
                         10.577809,
                         57.718777
-                  ]
-            },
-            {
-                  "name": "Skagen Odde Naturcenter",
-                  "text": "A nature center in Skagen focusing on the natural history and geology of the Skagen Odde peninsula.",
-                  "category": "museum",
-                  "coords": [
-                        10.595546,
-                        57.739979
-                  ]
-            },
-            {
-                  "name": "Grenen Kunstmuseum",
-                  "text": "An art museum in Skagen exhibiting works by local and regional artists.",
-                  "category": "museum",
-                  "coords": [
-                        10.634035,
-                        57.739738
-                  ]
-            },
-            {
-                  "name": "Skagen Vest",
-                  "text": "A lighthouse near Skagen used for navigation along the Danish coast.",
-                  "category": "landmark",
-                  "coords": [
-                        10.595155,
-                        57.748764
-                  ]
-            },
-            {
-                  "name": "Hvide Fyr",
-                  "text": "A historic white lighthouse in Skagen, now used as an exhibition space.",
-                  "category": "landmark",
-                  "coords": [
-                        10.606728,
-                        57.729053
-                  ]
-            },
-            {
-                  "name": "Anchers Hus",
-                  "text": "The former home of painters Anna and Michael Ancher in Skagen.",
-                  "category": "museum",
-                  "coords": [
-                        10.596901,
-                        57.726114
                   ]
             }
       ]

@@ -6,15 +6,6 @@ export const estoniaReliefV2: POI[] = [
     id: "estonia-torni-hill-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Vastseliina Gümnaasiumi Muuseum",
-                  "text": "Ein Museum, das die Geschichte des Gymnasiums und der Region Vastseliina dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        27.288006,
-                        57.734049
-                  ]
-            },
-            {
                   "name": "Vastseliina Katariina kirik",
                   "text": "Eine historische lutherische Kirche in Vastseliina, die im 18. Jahrhundert erbaut wurde.",
                   "category": "religious",
@@ -25,15 +16,6 @@ export const estoniaReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Vastseliina Gümnaasiumi Muuseum",
-                  "text": "Múzeum, amely a Vastseliina gimnázium és a környék történetét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        27.288006,
-                        57.734049
-                  ]
-            },
             {
                   "name": "Vastseliina Katariina kirik",
                   "text": "Vastseliina történelmi evangélikus temploma, amely a 18. században épült.",
@@ -46,15 +28,6 @@ export const estoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Vastseliina Gümnaasiumi Muuseum",
-                  "text": "Un muzeu care documentează istoria gimnaziului și a regiunii Vastseliina.",
-                  "category": "museum",
-                  "coords": [
-                        27.288006,
-                        57.734049
-                  ]
-            },
-            {
                   "name": "Vastseliina Katariina kirik",
                   "text": "Biserica luterană istorică din Vastseliina, construită în secolul al XVIII-lea.",
                   "category": "religious",
@@ -65,15 +38,6 @@ export const estoniaReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Vastseliina Gymnasium Museum",
-                  "text": "A museum documenting the history of the Vastseliina gymnasium and the surrounding region.",
-                  "category": "museum",
-                  "coords": [
-                        27.288006,
-                        57.734049
-                  ]
-            },
             {
                   "name": "Vastseliina Katariina kirik",
                   "text": "The historical Lutheran church in Vastseliina, constructed in the 18th century.",
@@ -186,15 +150,6 @@ export const estoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kaloga jaanimägi",
-                  "text": "Diese archäologische Stätte in der Nähe von Väike Munamägi ist ein Ort von historischer und kultureller Bedeutung.",
-                  "category": "historical",
-                  "coords": [
-                        27.054429,
-                        57.744326
-                  ]
-            },
-            {
                   "name": "Vaskna järve supelrand",
                   "text": "Dieser Strand am Vaskna-See bietet einen ruhigen Ort zum Schwimmen und Erholen in der Region Haanja.",
                   "category": "recreational",
@@ -220,15 +175,6 @@ export const estoniaReliefV2: POI[] = [
                         27.05501,
                         57.713759
                   ]
-            },
-            {
-                  "name": "Vihtla järve ujumiskoht",
-                  "text": "Eine natürliche Badestelle am Vihtla-See, die ideal für eine Abkühlung in der estnischen Natur ist.",
-                  "category": "recreational",
-                  "coords": [
-                        27.010501,
-                        57.71346
-                  ]
             }
       ],
       "hu": [
@@ -239,15 +185,6 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         27.060971,
                         57.713335
-                  ]
-            },
-            {
-                  "name": "Kaloga jaanimägi",
-                  "text": "Ez a Väike Munamägi közelében található régészeti lelőhely történelmi és kulturális jelentőségű hely.",
-                  "category": "historical",
-                  "coords": [
-                        27.054429,
-                        57.744326
                   ]
             },
             {
@@ -276,15 +213,6 @@ export const estoniaReliefV2: POI[] = [
                         27.05501,
                         57.713759
                   ]
-            },
-            {
-                  "name": "Vihtla järve ujumiskoht",
-                  "text": "Természetes fürdőhely a Vihtla-tónál, amely ideális egy frissítő csobbanáshoz az észt természetben.",
-                  "category": "recreational",
-                  "coords": [
-                        27.010501,
-                        57.71346
-                  ]
             }
       ],
       "ro": [
@@ -295,15 +223,6 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         27.060971,
                         57.713335
-                  ]
-            },
-            {
-                  "name": "Kaloga jaanimägi",
-                  "text": "Acest sit arheologic de lângă Väike Munamägi este un loc cu semnificație istorică și culturală.",
-                  "category": "historical",
-                  "coords": [
-                        27.054429,
-                        57.744326
                   ]
             },
             {
@@ -332,15 +251,6 @@ export const estoniaReliefV2: POI[] = [
                         27.05501,
                         57.713759
                   ]
-            },
-            {
-                  "name": "Vihtla järve ujumiskoht",
-                  "text": "Un loc natural de scăldat la lacul Vihtla, ideal pentru o răcorire în natura estoniană.",
-                  "category": "recreational",
-                  "coords": [
-                        27.010501,
-                        57.71346
-                  ]
             }
       ],
       "en": [
@@ -351,15 +261,6 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         27.060971,
                         57.713335
-                  ]
-            },
-            {
-                  "name": "Kaloga jaanimägi",
-                  "text": "This archaeological site near Väike Munamägi is a place of historical and cultural significance.",
-                  "category": "historical",
-                  "coords": [
-                        27.054429,
-                        57.744326
                   ]
             },
             {
@@ -387,15 +288,6 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         27.05501,
                         57.713759
-                  ]
-            },
-            {
-                  "name": "Vihtla järve ujumiskoht",
-                  "text": "A natural swimming spot at Lake Vihtla, ideal for a refreshing dip in the Estonian nature.",
-                  "category": "recreational",
-                  "coords": [
-                        27.010501,
-                        57.71346
                   ]
             }
       ]
@@ -1158,39 +1050,12 @@ export const estoniaReliefV2: POI[] = [
     id: "estonia-tuuliku-magi-hill-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Kurna mõisa park",
-                  "text": "Die Parkanlage des historischen Gutshofes Kurna in Tuuliku-Mägi.",
-                  "category": "park",
-                  "coords": [
-                        24.846708,
-                        59.338671
-                  ]
-            },
-            {
                   "name": "Luige näituseväljak",
                   "text": "Luige Ausstellungsgelände auf dem Tuuliku-Hügel.",
                   "category": "landmark",
                   "coords": [
                         24.770496,
                         59.333515
-                  ]
-            },
-            {
-                  "name": "Kurna küla kultuuritunnel",
-                  "text": "Kurna Dorf-Kulturtunnel unter dem Tuuliku-Hügel.",
-                  "category": "museum",
-                  "coords": [
-                        24.838852,
-                        59.339426
-                  ]
-            },
-            {
-                  "name": "Kurna mõisa peahoone",
-                  "text": "Kurna Herrenhaus Hauptgebäude auf dem Tuuliku-Hügel.",
-                  "category": "historical",
-                  "coords": [
-                        24.84234,
-                        59.338215
                   ]
             },
             {
@@ -1205,39 +1070,12 @@ export const estoniaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Kurna mõisa park",
-                  "text": "A történelmi kurnai uradalom parkja Tuuliku-Mägi településén.",
-                  "category": "park",
-                  "coords": [
-                        24.846708,
-                        59.338671
-                  ]
-            },
-            {
                   "name": "Luige näituseväljak",
                   "text": "Luige kiállítási terület a Tuuliku-dombon.",
                   "category": "landmark",
                   "coords": [
                         24.770496,
                         59.333515
-                  ]
-            },
-            {
-                  "name": "Kurna küla kultuuritunnel",
-                  "text": "Kurna falu kultúralagútja a Tuuliku-domb alatt.",
-                  "category": "museum",
-                  "coords": [
-                        24.838852,
-                        59.339426
-                  ]
-            },
-            {
-                  "name": "Kurna mõisa peahoone",
-                  "text": "Kurna kúria főépülete a Tuuliku-dombon.",
-                  "category": "historical",
-                  "coords": [
-                        24.84234,
-                        59.338215
                   ]
             },
             {
@@ -1252,39 +1090,12 @@ export const estoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Kurna mõisa park",
-                  "text": "Parcul conacului istoric Kurna din Tuuliku-Mägi.",
-                  "category": "park",
-                  "coords": [
-                        24.846708,
-                        59.338671
-                  ]
-            },
-            {
                   "name": "Luige näituseväljak",
                   "text": "Terenul de expoziție Luige pe Dealul Tuuliku.",
                   "category": "landmark",
                   "coords": [
                         24.770496,
                         59.333515
-                  ]
-            },
-            {
-                  "name": "Kurna küla kultuuritunnel",
-                  "text": "Tunelul cultural al satului Kurna sub Dealul Tuuliku.",
-                  "category": "museum",
-                  "coords": [
-                        24.838852,
-                        59.339426
-                  ]
-            },
-            {
-                  "name": "Kurna mõisa peahoone",
-                  "text": "Clădirea principală a conacului Kurna pe Dealul Tuuliku.",
-                  "category": "historical",
-                  "coords": [
-                        24.84234,
-                        59.338215
                   ]
             },
             {
@@ -1299,39 +1110,12 @@ export const estoniaReliefV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Kurna mõisa park",
-                  "text": "The park area of the historic Kurna manor in Tuuliku-Mägi.",
-                  "category": "park",
-                  "coords": [
-                        24.846708,
-                        59.338671
-                  ]
-            },
-            {
                   "name": "Luige näituseväljak",
                   "text": "Luige exhibition ground on Tuuliku Hill.",
                   "category": "landmark",
                   "coords": [
                         24.770496,
                         59.333515
-                  ]
-            },
-            {
-                  "name": "Kurna küla kultuuritunnel",
-                  "text": "Kurna village cultural tunnel under Tuuliku Hill.",
-                  "category": "museum",
-                  "coords": [
-                        24.838852,
-                        59.339426
-                  ]
-            },
-            {
-                  "name": "Kurna mõisa peahoone",
-                  "text": "Kurna manor main building on Tuuliku Hill.",
-                  "category": "historical",
-                  "coords": [
-                        24.84234,
-                        59.338215
                   ]
             },
             {
@@ -1435,50 +1219,10 @@ export const estoniaReliefV2: POI[] = [
   },
   {
     id: "estonia-suure-oja-depression-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Kullisilla ujumiskoht",
-                  "text": "Kullisilla Badeplatz in der Suure Oja Senke.",
-                  "category": "recreational",
-                  "coords": [
-                        25.280808,
-                        58.166725
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Kullisilla ujumiskoht",
-                  "text": "Kullisilla fürdőhely a Suure Oja mélyedésben.",
-                  "category": "recreational",
-                  "coords": [
-                        25.280808,
-                        58.166725
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Kullisilla ujumiskoht",
-                  "text": "Loc de înot Kullisilla în Depresiunea Suure Oja.",
-                  "category": "recreational",
-                  "coords": [
-                        25.280808,
-                        58.166725
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Kullisilla ujumiskoht",
-                  "text": "Kullisilla swimming spot in the Suure Oja depression.",
-                  "category": "recreational",
-                  "coords": [
-                        25.280808,
-                        58.166725
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "valley",
     parent: "EE",
@@ -2767,15 +2511,6 @@ export const estoniaReliefV2: POI[] = [
                         26.555255,
                         57.844281
                   ]
-            },
-            {
-                  "name": "Liikluslinn",
-                  "text": "Liikluslinn Verkehrsübungsplatz auf der Suure-Hügelspitze.",
-                  "category": "recreational",
-                  "coords": [
-                        26.55025,
-                        57.88028
-                  ]
             }
       ],
       "hu": [
@@ -2831,15 +2566,6 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.555255,
                         57.844281
-                  ]
-            },
-            {
-                  "name": "Liikluslinn",
-                  "text": "Liikluslinn forgalmi gyakorlópálya a Suure-dombcsúcson.",
-                  "category": "recreational",
-                  "coords": [
-                        26.55025,
-                        57.88028
                   ]
             }
       ],
@@ -2897,15 +2623,6 @@ export const estoniaReliefV2: POI[] = [
                         26.555255,
                         57.844281
                   ]
-            },
-            {
-                  "name": "Liikluslinn",
-                  "text": "Parcul de circulație Liikluslinn pe Vârful Dealului Suure.",
-                  "category": "recreational",
-                  "coords": [
-                        26.55025,
-                        57.88028
-                  ]
             }
       ],
       "en": [
@@ -2961,15 +2678,6 @@ export const estoniaReliefV2: POI[] = [
                   "coords": [
                         26.555255,
                         57.844281
-                  ]
-            },
-            {
-                  "name": "Liikluslinn",
-                  "text": "Liikluslinn traffic training park on Suure Hill peak.",
-                  "category": "recreational",
-                  "coords": [
-                        26.55025,
-                        57.88028
                   ]
             }
       ]
@@ -3613,50 +3321,10 @@ export const estoniaReliefV2: POI[] = [
   },
   {
     id: "estonia-kruusa-rida-ridge-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Naturschutzgebiet Alam-Pedja",
-                  "text": "Größtes Naturschutzgebiet Estlands mit Auen und Mooren im Bereich Kruusa Rida.",
-                  "category": "natural",
-                  "coords": [
-                        26.19654,
-                        58.479665
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Alam-Pedja looduskaitseala",
-                  "text": "Észtország legnagyobb természetvédelmi területe ártéri erdőkkel és lápokkal a Kruusa Rida vonalában.",
-                  "category": "natural",
-                  "coords": [
-                        26.19654,
-                        58.479665
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Alam-Pedja looduskaitseala",
-                  "text": "Cea mai mare rezervație naturală din Estonia, cu lunci inundabile și mlaștini în zona Crucii Rida.",
-                  "category": "natural",
-                  "coords": [
-                        26.19654,
-                        58.479665
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Alam-Pedja Nature Reserve",
-                  "text": "Largest nature reserve in Estonia, a mosaic of floodplains and bogs in the Kruusa Rida area.",
-                  "category": "natural",
-                  "coords": [
-                        26.19654,
-                        58.479665
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "EE",
@@ -4191,48 +3859,12 @@ export const estoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rebala kivikalmed",
-                  "text": "Antike Steingräber in der Region Rebala, die Zeugnis von der frühen Besiedlung Estlands ablegen.",
-                  "category": "historical",
-                  "coords": [
-                        25.134683,
-                        59.440108
-                  ]
-            },
-            {
                   "name": "Jägala juga",
                   "text": "Ein beeindruckender Wasserfall am Fluss Jägala, der als einer der breitesten natürlichen Wasserfälle Estlands gilt.",
                   "category": "landmark",
                   "coords": [
                         25.178564,
                         59.449841
-                  ]
-            },
-            {
-                  "name": "Jõelähtme kivisild",
-                  "text": "Eine historische Steinbrücke in Jõelähtme, die ein wichtiges Denkmal der estnischen Ingenieurskunst darstellt.",
-                  "category": "landmark",
-                  "coords": [
-                        25.135048,
-                        59.44175
-                  ]
-            },
-            {
-                  "name": "Ruu ujumiskoht",
-                  "text": "Ruu Badeplatz am Ranna-Hügel.",
-                  "category": "recreational",
-                  "coords": [
-                        25.190078,
-                        59.442308
-                  ]
-            },
-            {
-                  "name": "Tammiku ujumiskoht",
-                  "text": "Tammiku Badeplatz am Ranna-Hügel.",
-                  "category": "recreational",
-                  "coords": [
-                        25.216228,
-                        59.425846
                   ]
             }
       ],
@@ -4247,48 +3879,12 @@ export const estoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rebala kivikalmed",
-                  "text": "Ősi kősírok a Rebala régióban, amelyek Észtország korai betelepüléséről tanúskodnak.",
-                  "category": "historical",
-                  "coords": [
-                        25.134683,
-                        59.440108
-                  ]
-            },
-            {
                   "name": "Jägala juga",
                   "text": "Látványos vízesés a Jägala-folyón, amely Észtország egyik legszélesebb természetes vízesése.",
                   "category": "landmark",
                   "coords": [
                         25.178564,
                         59.449841
-                  ]
-            },
-            {
-                  "name": "Jõelähtme kivisild",
-                  "text": "Történelmi kőhíd Jõelähtme-ben, amely az észt mérnöki művészet fontos emléke.",
-                  "category": "landmark",
-                  "coords": [
-                        25.135048,
-                        59.44175
-                  ]
-            },
-            {
-                  "name": "Ruu ujumiskoht",
-                  "text": "Ruu fürdőhely a Ranna-dombon.",
-                  "category": "recreational",
-                  "coords": [
-                        25.190078,
-                        59.442308
-                  ]
-            },
-            {
-                  "name": "Tammiku ujumiskoht",
-                  "text": "Tammiku fürdőhely a Ranna-dombon.",
-                  "category": "recreational",
-                  "coords": [
-                        25.216228,
-                        59.425846
                   ]
             }
       ],
@@ -4303,48 +3899,12 @@ export const estoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rebala kivikalmed",
-                  "text": "Morminte antice din piatră în regiunea Rebala, care atestă așezarea timpurie a Estoniei.",
-                  "category": "historical",
-                  "coords": [
-                        25.134683,
-                        59.440108
-                  ]
-            },
-            {
                   "name": "Jägala juga",
                   "text": "O cascadă impresionantă pe râul Jägala, considerată una dintre cele mai late cascade naturale din Estonia.",
                   "category": "landmark",
                   "coords": [
                         25.178564,
                         59.449841
-                  ]
-            },
-            {
-                  "name": "Jõelähtme kivisild",
-                  "text": "Un pod istoric de piatră în Jõelähtme, reprezentând un monument important al ingineriei estoniene.",
-                  "category": "landmark",
-                  "coords": [
-                        25.135048,
-                        59.44175
-                  ]
-            },
-            {
-                  "name": "Ruu ujumiskoht",
-                  "text": "Loc de înot Ruu pe Dealul Ranna.",
-                  "category": "recreational",
-                  "coords": [
-                        25.190078,
-                        59.442308
-                  ]
-            },
-            {
-                  "name": "Tammiku ujumiskoht",
-                  "text": "Loc de înot Tammiku pe Dealul Ranna.",
-                  "category": "recreational",
-                  "coords": [
-                        25.216228,
-                        59.425846
                   ]
             }
       ],
@@ -4359,48 +3919,12 @@ export const estoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rebala kivikalmed",
-                  "text": "Ancient stone graves in the Rebala region, providing evidence of early settlement in Estonia.",
-                  "category": "historical",
-                  "coords": [
-                        25.134683,
-                        59.440108
-                  ]
-            },
-            {
                   "name": "Jägala juga",
                   "text": "An impressive waterfall on the Jägala River, considered one of Estonia's widest natural waterfalls.",
                   "category": "landmark",
                   "coords": [
                         25.178564,
                         59.449841
-                  ]
-            },
-            {
-                  "name": "Jõelähtme kivisild",
-                  "text": "A historic stone bridge in Jõelähtme, representing an important monument of Estonian engineering.",
-                  "category": "landmark",
-                  "coords": [
-                        25.135048,
-                        59.44175
-                  ]
-            },
-            {
-                  "name": "Ruu ujumiskoht",
-                  "text": "Ruu swimming spot on Ranna Hill.",
-                  "category": "recreational",
-                  "coords": [
-                        25.190078,
-                        59.442308
-                  ]
-            },
-            {
-                  "name": "Tammiku ujumiskoht",
-                  "text": "Tammiku swimming spot on Ranna Hill.",
-                  "category": "recreational",
-                  "coords": [
-                        25.216228,
-                        59.425846
                   ]
             }
       ]
@@ -4965,15 +4489,6 @@ export const estoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Assaku nõiakivi",
-                  "text": "Eine archäologische Ausgrabungsstätte in Tuuliku-Nukk, die historische Bedeutung besitzt.",
-                  "category": "historical",
-                  "coords": [
-                        24.842278,
-                        59.378382
-                  ]
-            },
-            {
                   "name": "Eesti Vabadusvõitluse Muuseum Lagedil",
                   "text": "Museum der estnischen Befreiungsbewegung in Lagedi auf dem Tuuliku-Nukk-Anstieg.",
                   "category": "museum",
@@ -4983,48 +4498,12 @@ export const estoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lehmja-Loo tarandkalme",
-                  "text": "Eine historische Grabstätte in Tuuliku-Nukk, die für die Archäologie von Bedeutung ist.",
-                  "category": "historical",
-                  "coords": [
-                        24.879311,
-                        59.361874
-                  ]
-            },
-            {
                   "name": "Kultusekivi",
                   "text": "Ein antiker Opferstein in Tuuliku-Nukk, der als archäologische Stätte gilt.",
                   "category": "historical",
                   "coords": [
                         24.873125,
                         59.385893
-                  ]
-            },
-            {
-                  "name": "Lehmja muinasasula",
-                  "text": "Eisenzeitliche Siedlung von Lehmja auf dem Tuuliku-Nukk-Anstieg.",
-                  "category": "historical",
-                  "coords": [
-                        24.883256,
-                        59.355546
-                  ]
-            },
-            {
-                  "name": "Lagedi supelrand",
-                  "text": "Ein öffentlicher Strand in Tuuliku-Nukk für Freizeitaktivitäten am Ufer.",
-                  "category": "recreational",
-                  "coords": [
-                        24.94082,
-                        59.401766
-                  ]
-            },
-            {
-                  "name": "Järveküla Spordihoone ujula",
-                  "text": "Ein Schwimmbad im Järveküla-Sportkomplex in Estland.",
-                  "category": "recreational",
-                  "coords": [
-                        24.821497,
-                        59.384702
                   ]
             },
             {
@@ -5057,15 +4536,6 @@ export const estoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Assaku nõiakivi",
-                  "text": "Régészeti lelőhely Tuuliku-Nukk területén, amely történelmi jelentőséggel bír.",
-                  "category": "historical",
-                  "coords": [
-                        24.842278,
-                        59.378382
-                  ]
-            },
-            {
                   "name": "Eesti Vabadusvõitluse Muuseum Lagedil",
                   "text": "Az észt felszabadító mozgalom múzeuma Lagediben a Tuuliku Nukk-emelkedőn.",
                   "category": "museum",
@@ -5075,48 +4545,12 @@ export const estoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lehmja-Loo tarandkalme",
-                  "text": "Történelmi temetkezési hely Tuuliku-Nukk területén, amely régészeti jelentőségű.",
-                  "category": "historical",
-                  "coords": [
-                        24.879311,
-                        59.361874
-                  ]
-            },
-            {
                   "name": "Kultusekivi",
                   "text": "Ősi áldozati kő Tuuliku-Nukk településen, amely régészeti lelőhely.",
                   "category": "historical",
                   "coords": [
                         24.873125,
                         59.385893
-                  ]
-            },
-            {
-                  "name": "Lehmja muinasasula",
-                  "text": "Lehmja vaskori település a Tuuliku Nukk-emelkedőn.",
-                  "category": "historical",
-                  "coords": [
-                        24.883256,
-                        59.355546
-                  ]
-            },
-            {
-                  "name": "Lagedi supelrand",
-                  "text": "Nyilvános strand Tuuliku-Nukk területén a vízparti pihenéshez.",
-                  "category": "recreational",
-                  "coords": [
-                        24.94082,
-                        59.401766
-                  ]
-            },
-            {
-                  "name": "Järveküla Spordihoone ujula",
-                  "text": "Úszómedence az észtországi Järveküla sportkomplexumban.",
-                  "category": "recreational",
-                  "coords": [
-                        24.821497,
-                        59.384702
                   ]
             },
             {
@@ -5149,15 +4583,6 @@ export const estoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Assaku nõiakivi",
-                  "text": "Un sit arheologic în Tuuliku-Nukk, având o importanță istorică locală.",
-                  "category": "historical",
-                  "coords": [
-                        24.842278,
-                        59.378382
-                  ]
-            },
-            {
                   "name": "Eesti Vabadusvõitluse Muuseum Lagedil",
                   "text": "Muzeul Mișcării de Eliberare Estonă în Lagedi pe înălțimea Tuuliku Nukk.",
                   "category": "museum",
@@ -5167,48 +4592,12 @@ export const estoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lehmja-Loo tarandkalme",
-                  "text": "Un sit funerar istoric în Tuuliku-Nukk, important pentru arheologie.",
-                  "category": "historical",
-                  "coords": [
-                        24.879311,
-                        59.361874
-                  ]
-            },
-            {
                   "name": "Kultusekivi",
                   "text": "O piatră de cult antică în Tuuliku-Nukk, considerată sit arheologic.",
                   "category": "historical",
                   "coords": [
                         24.873125,
                         59.385893
-                  ]
-            },
-            {
-                  "name": "Lehmja muinasasula",
-                  "text": "Așezarea din epoca fierului de la Lehmja pe înălțimea Tuuliku Nukk.",
-                  "category": "historical",
-                  "coords": [
-                        24.883256,
-                        59.355546
-                  ]
-            },
-            {
-                  "name": "Lagedi supelrand",
-                  "text": "O plajă publică în Tuuliku-Nukk pentru activități recreative pe mal.",
-                  "category": "recreational",
-                  "coords": [
-                        24.94082,
-                        59.401766
-                  ]
-            },
-            {
-                  "name": "Järveküla Spordihoone ujula",
-                  "text": "O piscină în cadrul complexului sportiv Järveküla din Estonia.",
-                  "category": "recreational",
-                  "coords": [
-                        24.821497,
-                        59.384702
                   ]
             },
             {
@@ -5241,30 +4630,12 @@ export const estoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Assaku nõiakivi",
-                  "text": "An archaeological site in Tuuliku-Nukk with local historical significance.",
-                  "category": "historical",
-                  "coords": [
-                        24.842278,
-                        59.378382
-                  ]
-            },
-            {
                   "name": "Estonian Liberation Movement Museum at Lagedi",
                   "text": "Museum of the Estonian Liberation Movement in Lagedi on Tuuliku Nukk Rise.",
                   "category": "museum",
                   "coords": [
                         24.940782,
                         59.388992
-                  ]
-            },
-            {
-                  "name": "Lehmja-Loo tarandkalme",
-                  "text": "A historic burial site in Tuuliku-Nukk of archaeological importance.",
-                  "category": "historical",
-                  "coords": [
-                        24.879311,
-                        59.361874
                   ]
             },
             {
@@ -5277,30 +4648,12 @@ export const estoniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "the iron-age settlement of Lehmja",
-                  "text": "Iron Age settlement of Lehmja on Tuuliku Nukk Rise.",
-                  "category": "historical",
-                  "coords": [
-                        24.883256,
-                        59.355546
-                  ]
-            },
-            {
                   "name": "Lagedi beach",
                   "text": "A public beach in Tuuliku-Nukk for lakeside recreation.",
                   "category": "recreational",
                   "coords": [
                         24.94082,
                         59.401766
-                  ]
-            },
-            {
-                  "name": "Järveküla Spordihoone ujula",
-                  "text": "A swimming pool within the Järveküla sports complex in Estonia.",
-                  "category": "recreational",
-                  "coords": [
-                        24.821497,
-                        59.384702
                   ]
             },
             {

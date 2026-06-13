@@ -900,15 +900,6 @@ imageHint: "Svartsengi power plant near Blue Lagoon",
                         -16.774943,
                         65.702697
                   ]
-            },
-            {
-                  "name": "Krafla",
-                  "text": "Ein markanter Vulkangipfel und eine Caldera im Norden Islands.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.730315,
-                        65.714229
-                  ]
             }
       ],
       "hu": [
@@ -919,15 +910,6 @@ imageHint: "Svartsengi power plant near Blue Lagoon",
                   "coords": [
                         -16.774943,
                         65.702697
-                  ]
-            },
-            {
-                  "name": "Krafla",
-                  "text": "Jelentős vulkáni csúcs és kaldera Izland északi részén.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.730315,
-                        65.714229
                   ]
             }
       ],
@@ -940,15 +922,6 @@ imageHint: "Svartsengi power plant near Blue Lagoon",
                         -16.774943,
                         65.702697
                   ]
-            },
-            {
-                  "name": "Krafla",
-                  "text": "Un vârf vulcanic proeminent și o calderă situate în nordul Islandei.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.730315,
-                        65.714229
-                  ]
             }
       ],
       "en": [
@@ -959,15 +932,6 @@ imageHint: "Svartsengi power plant near Blue Lagoon",
                   "coords": [
                         -16.774943,
                         65.702697
-                  ]
-            },
-            {
-                  "name": "Krafla",
-                  "text": "A prominent volcanic peak and caldera located in northern Iceland.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.730315,
-                        65.714229
                   ]
             }
       ]
@@ -1029,15 +993,6 @@ imageHint: "Krafla geothermal power plant steam Iceland",
                   ]
             },
             {
-                  "name": "Búrfell",
-                  "text": "Ein markanter Tafelberg in der Nähe des Kraftwerks Búrfell.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.81786,
-                        64.07965
-                  ]
-            },
-            {
                   "name": "Hjálparfoss",
                   "text": "Ein einzigartiger Doppelwasserfall am Zusammenfluss der Flüsse Fossá und Þjórsá.",
                   "category": "natural",
@@ -1055,15 +1010,6 @@ imageHint: "Krafla geothermal power plant steam Iceland",
                   "coords": [
                         -19.820643,
                         64.119987
-                  ]
-            },
-            {
-                  "name": "Búrfell",
-                  "text": "Jellegzetes táblahegy a Búrfell erőmű közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.81786,
-                        64.07965
                   ]
             },
             {
@@ -1087,15 +1033,6 @@ imageHint: "Krafla geothermal power plant steam Iceland",
                   ]
             },
             {
-                  "name": "Búrfell",
-                  "text": "Un munte tabelar proeminent situat lângă centrala electrică Búrfell.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.81786,
-                        64.07965
-                  ]
-            },
-            {
                   "name": "Hjálparfoss",
                   "text": "O cascadă dublă unică unde se întâlnesc râurile Fossá și Þjórsá.",
                   "category": "natural",
@@ -1113,15 +1050,6 @@ imageHint: "Krafla geothermal power plant steam Iceland",
                   "coords": [
                         -19.820643,
                         64.119987
-                  ]
-            },
-            {
-                  "name": "Búrfell",
-                  "text": "A prominent table mountain located near the Búrfell power station.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.81786,
-                        64.07965
                   ]
             },
             {

@@ -81,7 +81,808 @@ export const bulgariaAllPoi: POI[] = [
     },
   },
   {
-    id: "bg-nessebar", "sights": {"de": [{"name": "Arheologicheski muzei", "text": "Das Archäologische Museum in Nessebar ist eine anerkannte Institution, die antike Artefakte ausstellt.", "category": "museum", "coords": [27.730728, 42.658347]}, {"name": "Sv. Arhangeli Gavrail i Mihail", "text": "Die Church of the Holy Archangels Michael and Gabriel ist ein bekanntes Museum in Nessebar.", "category": "museum", "coords": [27.735115, 42.659641]}, {"name": "Tsarkva „Sveti Stefan“", "text": "St. Stefan ist ein anerkanntes Museum in Nessebar.", "category": "museum", "coords": [27.733086, 42.657818]}, {"name": "Tsarkva „Sveti Todor“", "text": "Die Church of St Theodore ist ein bekanntes Museum in Nessebar.", "category": "museum", "coords": [27.738797, 42.659881]}, {"name": "Tsarkva „Uspenie Bogorodichno“", "text": "Die Church \"Dormition of Theotokos\" ist ein bedeutendes Museum in Nessebar.", "category": "museum", "coords": [27.736368, 42.660094]}, {"name": "Navigatsionna svetlina Nesebar", "text": "Навигационна светлина Несебър ist ein Leuchtturm in Nessebar.", "category": "landmark", "coords": [27.729171, 42.654541]}, {"name": "Muzei Starinen Nesebar", "text": "Das Ancient Nessebar Museum ist ein Museum in der Stadt Nessebar.", "category": "museum", "coords": [27.728052, 42.65958]}, {"name": "Nudistki plazh", "text": "Нудистки плаж ist ein Strand in der Küstenstadt Nessebar.", "category": "recreational", "coords": [27.711778, 42.648103]}, {"name": "Lunapark", "text": "Лунапарк ist ein Freizeitpark in Nessebar.", "category": "family", "coords": [27.724361, 42.660824]}, {"name": "Ethnographic Museum", "text": "Das Ethnographic Museum ist ein Museum in Nessebar.", "category": "museum", "coords": [27.736305, 42.658316]}, {"name": "Nudist Beach", "text": "Dieser ausgewiesene Strandabschnitt in der bulgarischen Stadt Nessebar widmet sich ganz der Freikörperkultur. Die Umgebung ist von einer ruhigen, naturverbundenen und überaus toleranten Atmosphäre geprägt. Sonnenanbeter können sich hier nahtlos bräunen, schwimmen und unbeschwerte Stunden am Schwarzen Meer verbringen. Ideal für Besucher, die absolute Diskretion und tiefe Entspannung am Ufer suchen.", "category": "recreational", "coords": [27.711661, 42.676558]}, {"name": "Morskoi akvarium \"Sveti Nikola\"", "text": "Das Meeresaquarium „Sveti Nikola“ ist eine maritime Attraktion in Nessebar.", "category": "family", "coords": [27.722967, 42.66194]}, {"name": "Yuzhen plazh", "text": "Der Südstrand (Yuzhen plazh) ist ein Strandbereich in Nessebar.", "category": "recreational", "coords": [27.716534, 42.654951]}, {"name": "Mini-Aquapark Pirates of the Caribbean", "text": "Pirates of the Caribbean ist ein Wasserpark in Nessebar.", "category": "family", "coords": [27.707555, 42.665935]}, {"name": "Statuya na ribarya", "text": "Die Statue des Fischers ist eine Attraktion und ein maritimes Symbol von Nessebar.", "category": "landmark", "coords": [27.729118, 42.658715]}, {"name": "Sveta Bogoroditsa Eleusa (Nesebar)", "text": "Die Basilika der Heiligen Muttergottes Eleusa ist eine zerstörte ehemalige Klosterkirche in Nessebar.", "category": "historical", "coords": [27.738019, 42.661026]}, {"name": "Sunny Beach", "text": "Als ausgedehnter Badeort nahe Nessebar ist der Sonnenstrand eine der bekanntesten Adressen Bulgariens. Hier pulsiert das Leben, denn die lebhafte Szenerie zieht sonnenhungrige Menschen aus aller Welt an. Auf dem täglichen Programm stehen ausgiebiges Schwimmen im Meer, endlose Strandspaziergänge und pure Erholung unter freiem Himmel. Ein absolut perfektes Ziel für einen dynamischen und fröhlichen Sommerurlaub.", "category": "recreational", "coords": [27.721044, 42.687684]}, {"name": "The Old Ship", "text": "Das alte Schiff ist eine Attraktion in Nessebar.", "category": "landmark", "coords": [27.737411, 42.657795]}, {"name": "Fundament za zakrepvane na artileriisko oradie", "text": "Dieser Ort beherbergt das zerstörte Fundament einer Artilleriegeschützhalterung in Nessebar.", "category": "historical", "coords": [27.710365, 42.646546]}, {"name": "Sv. Ioan Krastitel", "text": "Die Kirche St. Johannes der Täufer ist eine gut erhaltene historische Kreuzkuppelkirche in Nessebar.", "category": "religious", "coords": [27.734071, 42.659053]}, {"name": "Aheloi ez.", "text": "Der Ахелой ез. in Nessebar ist ein See, der sich gut für einen Spaziergang in der Natur eignet.", "category": "natural", "coords": [27.642908, 42.642838]}, {"name": "Mikroyazovir Aheloi", "text": "Der Микроязовир Ахелой in Nessebar ist ein See, der sich gut für einen Spaziergang in der Natur eignet.", "category": "natural", "coords": [27.642186, 42.650662]}, {"name": "Flamingo Waterpark", "text": "Dieser Wasserpark in Nessebar bietet Rutschen und Pools, die ideal für Familienausflüge sind.", "category": "family", "coords": [27.690974, 42.65048]}], "hu": [{"name": "Régészeti múzeum", "text": "A neszebari Régészeti Múzeum egy elismert intézmény, amely ókori leleteket mutat be.", "category": "museum", "coords": [27.730728, 42.658347]}, {"name": "Sv. Arhangeli Gavrail i Mihail", "text": "A Church of the Holy Archangels Michael and Gabriel egy híres múzeum Neszebarban.", "category": "museum", "coords": [27.735115, 42.659641]}, {"name": "Szent István templom", "text": "A St. Stefan egy elismert múzeum Neszebarban.", "category": "museum", "coords": [27.733086, 42.657818]}, {"name": "Szent Teodor templom", "text": "A Church of St Theodore egy ismert múzeum Neszebarban.", "category": "museum", "coords": [27.738797, 42.659881]}, {"name": "Istenszülő elszenderedése", "text": "A Church \"Dormition of Theotokos\" egy kiemelkedő múzeum Neszebarban.", "category": "museum", "coords": [27.736368, 42.660094]}, {"name": "Navigatsionna svetlina Nesebar", "text": "A Навигационна светлина Несебър egy világítótorony Neszebarban.", "category": "landmark", "coords": [27.729171, 42.654541]}, {"name": "Muzei Starinen Nesebar", "text": "Az Ancient Nessebar Museum egy múzeum Neszebar városában.", "category": "museum", "coords": [27.728052, 42.65958]}, {"name": "Nudistki plazh", "text": "A Нудистки плаж egy strand a part menti Neszebar városában.", "category": "recreational", "coords": [27.711778, 42.648103]}, {"name": "Lunapark", "text": "A Лунапарк egy vidámpark Neszebarban.", "category": "family", "coords": [27.724361, 42.660824]}, {"name": "Ethnographic Museum", "text": "Az Ethnographic Museum egy múzeum Neszebarban.", "category": "museum", "coords": [27.736305, 42.658316]}, {"name": "Nudist Beach", "text": "A bolgár Neszebar városának ez a kijelölt partszakasza teljes mértékben a naturizmusnak szenteli magát. A környezetet csendes, természetközeli és rendkívül toleráns atmoszféra jellemzi. A napimádók itt megszakítás nélkül barnulhatnak, úszhatnak és gondtalan órákat tölthetnek el a Fekete-tengernél. Ideális azoknak a látogatóknak, akik abszolút diszkréciót és mély ellazulást keresnek a parton.", "category": "recreational", "coords": [27.711661, 42.676558]}, {"name": "Morskoi akvarium \"Sveti Nikola\"", "text": "A \"Sveti Nikola\" Tengeri Akvárium Neszebar városában található.", "category": "family", "coords": [27.722967, 42.66194]}, {"name": "Yuzhen plazh", "text": "A Déli strand (Juzsen plazs) Neszebar tengerparti része.", "category": "recreational", "coords": [27.716534, 42.654951]}, {"name": "Mini-Aquapark Pirates of the Caribbean", "text": "A Pirates of the Caribbean egy vízipark Neszebarban.", "category": "family", "coords": [27.707555, 42.665935]}, {"name": "Statuya na ribarya", "text": "A Halász szobra egy tengerparti látványosság, amely Neszebar tengeri örökségének szimbóluma.", "category": "landmark", "coords": [27.729118, 42.658715]}, {"name": "Sveta Bogoroditsa Eleusa (Nesebar)", "text": "Az Irgalmas Szűzanya-bazilika (Eleusza) egy egykori kolostortemplom romja Neszebarban.", "category": "historical", "coords": [27.738019, 42.661026]}, {"name": "Sunny Beach", "text": "Neszebar közeli, kiterjedt tengerparti üdülőhelyként a Napospart Bulgária egyik legismertebb célpontja. Itt lüktet az élet, hiszen a nyüzsgő környezet a világ minden tájáról vonzza a napozni vágyókat. A napi program bőséges tengeri úszásból, végtelen tengerparti sétákból és tiszta kikapcsolódásból áll a szabad ég alatt. Abszolút tökéletes úti cél egy dinamikus és vidám nyári vakációhoz.", "category": "recreational", "coords": [27.721044, 42.687684]}, {"name": "The Old Ship", "text": "A The Old Ship egy látványosság Neszebarban.", "category": "landmark", "coords": [27.737411, 42.657795]}, {"name": "Fundament za zakrepvane na artileriisko oradie", "text": "A helyszínen egy neszebari tüzérségi ágyúállvány romos alapozása található.", "category": "historical", "coords": [27.710365, 42.646546]}, {"name": "Sv. Ioan Krastitel", "text": "A Keresztelő Szent János-templom egy fennmaradt történelmi kupolás kereszt alakú templom Neszebarban.", "category": "religious", "coords": [27.734071, 42.659053]}, {"name": "Aheloi ez.", "text": "A Ахелой ез. egy tó Nessebar területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.", "category": "natural", "coords": [27.642908, 42.642838]}, {"name": "Mikroyazovir Aheloi", "text": "A Микроязовир Ахелой egy tó Nessebar területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.", "category": "natural", "coords": [27.642186, 42.650662]}, {"name": "Flamingo Waterpark", "text": "Ez a neszebari aquapark csúszdákkal és medencékkel várja a családokat.", "category": "family", "coords": [27.690974, 42.65048]}], "ro": [{"name": "Arheologicheski muzei", "text": "Muzeul Arheologic din Nessebar este o instituție recunoscută ce expune artefacte antice.", "category": "museum", "coords": [27.730728, 42.658347]}, {"name": "Sv. Arhangeli Gavrail i Mihail", "text": "Church of the Holy Archangels Michael and Gabriel este un muzeu renumit în Nessebar.", "category": "museum", "coords": [27.735115, 42.659641]}, {"name": "Tsarkva „Sveti Stefan“", "text": "St. Stefan este un muzeu apreciat în Nessebar.", "category": "museum", "coords": [27.733086, 42.657818]}, {"name": "Tsarkva „Sveti Todor“", "text": "Church of St Theodore este un muzeu bine-cunoscut din Nessebar.", "category": "museum", "coords": [27.738797, 42.659881]}, {"name": "Tsarkva „Uspenie Bogorodichno“", "text": "Church \"Dormition of Theotokos\" este un muzeu distins situat în Nessebar.", "category": "museum", "coords": [27.736368, 42.660094]}, {"name": "Navigatsionna svetlina Nesebar", "text": "Навигационна светлина Несебър este un far maritim în Nessebar.", "category": "landmark", "coords": [27.729171, 42.654541]}, {"name": "Muzei Starinen Nesebar", "text": "Ancient Nessebar Museum este un muzeu situat în orașul Nessebar.", "category": "museum", "coords": [27.728052, 42.65958]}, {"name": "Nudistki plazh", "text": "Нудистки плаж este o plajă situată în orașul Nessebar.", "category": "recreational", "coords": [27.711778, 42.648103]}, {"name": "Lunapark", "text": "Лунапарк este un parc tematic situat în Nessebar.", "category": "family", "coords": [27.724361, 42.660824]}, {"name": "Ethnographic Museum", "text": "Ethnographic Museum este un muzeu situat în Nessebar.", "category": "museum", "coords": [27.736305, 42.658316]}, {"name": "Nudist Beach", "text": "Această secțiune de plajă desemnată din orașul bulgar Nessebar este dedicată în întregime nudismului. Mediul este caracterizat de o atmosferă liniștită, apropiată de natură și extrem de tolerantă. Iubitorii de soare se pot bronza aici fără urme, pot înota și pot petrece ore lipsite de griji la Marea Neagră. Ideal pentru vizitatorii care caută discreție absolută și relaxare profundă pe țărm.", "category": "recreational", "coords": [27.711661, 42.676558]}, {"name": "Morskoi akvarium \"Sveti Nikola\"", "text": "Acvariul marin „Sveti Nikola” este o atracție situată în orașul Nesebăr.", "category": "family", "coords": [27.722967, 42.66194]}, {"name": "Yuzhen plazh", "text": "Plaja de Sud (Yuzhen plazh) este o zonă de plajă din Nesebăr.", "category": "recreational", "coords": [27.716534, 42.654951]}, {"name": "Mini-Aquapark Pirates of the Caribbean", "text": "Pirates of the Caribbean este un parc acvatic situat în Nesebăr.", "category": "family", "coords": [27.707555, 42.665935]}, {"name": "Statuya na ribarya", "text": "Statuia Pescarului este o atracție care simbolizează moștenirea maritimă a orașului Nesebăr.", "category": "landmark", "coords": [27.729118, 42.658715]}, {"name": "Sveta Bogoroditsa Eleusa (Nesebar)", "text": "Bazilica Maica Domnului Eleusa reprezintă ruinele unei foste biserici mănăstirești din Nesebăr.", "category": "historical", "coords": [27.738019, 42.661026]}, {"name": "Sunny Beach", "text": "Fiind o stațiune balneară întinsă lângă Nessebar, Sunny Beach este una dintre cele mai faimoase adrese din Bulgaria. Aici viața pulsează, deoarece peisajul plin de viață atrage iubitori de soare din întreaga lume. Programul zilnic include înot din belșug în mare, plimbări nesfârșite pe plajă și recreere pură în aer liber. O destinație absolut perfectă pentru o vacanță de vară dinamică și veselă.", "category": "recreational", "coords": [27.721044, 42.687684]}, {"name": "The Old Ship", "text": "The Old Ship este o atracție turistică situată în Nesebăr.", "category": "landmark", "coords": [27.737411, 42.657795]}, {"name": "Fundament za zakrepvane na artileriisko oradie", "text": "Acest sit prezintă ruinele fundației unui suport de tun de artilerie din Nesebăr.", "category": "historical", "coords": [27.710365, 42.646546]}, {"name": "Sv. Ioan Krastitel", "text": "Biserica Sfântul Ioan Botezătorul este o biserică istorică cruciformă cu cupolă, situată în Nesebăr.", "category": "religious", "coords": [27.734071, 42.659053]}, {"name": "Aheloi ez.", "text": "Ахелой ез. din Nessebar este un lac ce oferă un cadru natural frumos pentru relaxare.", "category": "natural", "coords": [27.642908, 42.642838]}, {"name": "Mikroyazovir Aheloi", "text": "Микроязовир Ахелой din Nessebar este un lac ce oferă un cadru natural frumos pentru relaxare.", "category": "natural", "coords": [27.642186, 42.650662]}, {"name": "Flamingo Waterpark", "text": "Acest parc acvatic din Nessebar are tobogane și piscine potrivite pentru ieșirile în familie.", "category": "family", "coords": [27.690974, 42.65048]}], "en": [{"name": "Arheologicheski muzei", "text": "The Archaeological Museum in Nessebar is a recognized institution displaying ancient artifacts.", "category": "museum", "coords": [27.730728, 42.658347]}, {"name": "Church of the Holy Archangels Michael and Gabriel", "text": "The Church of the Holy Archangels Michael and Gabriel is a renowned museum located in Nessebar.", "category": "museum", "coords": [27.735115, 42.659641]}, {"name": "St. Stefan", "text": "St. Stefan is an acclaimed museum structure operating in Nessebar.", "category": "museum", "coords": [27.733086, 42.657818]}, {"name": "Church of St Theodore (Todor)", "text": "The Church of St Theodore is a well-known museum facility in Nessebar.", "category": "museum", "coords": [27.738797, 42.659881]}, {"name": "Church \"Dormition of Theotokos\"", "text": "The Church \"Dormition of Theotokos\" is a distinguished museum located in Nessebar.", "category": "museum", "coords": [27.736368, 42.660094]}, {"name": "Navigatsionna svetlina Nesebar", "text": "Навигационна светлина Несебър is a local lighthouse providing maritime navigation in Nessebar.", "category": "landmark", "coords": [27.729171, 42.654541]}, {"name": "Ancient Nessebar Museum", "text": "The Ancient Nessebar Museum is a museum facility located in the city of Nessebar.", "category": "museum", "coords": [27.728052, 42.65958]}, {"name": "Nudistki plazh", "text": "Нудистки плаж is a beach located in the coastal city of Nessebar.", "category": "recreational", "coords": [27.711778, 42.648103]}, {"name": "Lunapark", "text": "Лунапарк is a theme park located in Nessebar.", "category": "family", "coords": [27.724361, 42.660824]}, {"name": "Ethnographic Museum", "text": "The Ethnographic Museum is a cultural museum located in Nessebar.", "category": "museum", "coords": [27.736305, 42.658316]}, {"name": "Nudist Beach", "text": "This designated beach section in the Bulgarian city of Nessebar is entirely dedicated to naturism. The surroundings are characterized by a quiet, nature-connected, and highly tolerant atmosphere. Sun worshippers can tan seamlessly here, swim, and spend carefree hours by the Black Sea. Ideal for visitors seeking absolute discretion and deep relaxation on the shore.", "category": "recreational", "coords": [27.711661, 42.676558]}, {"name": "Morskoi akvarium \"Sveti Nikola\"", "text": "The \"Sveti Nikola\" Sea Aquarium is a marine attraction located in Nessebar.", "category": "family", "coords": [27.722967, 42.66194]}, {"name": "Yuzhen plazh", "text": "South Beach (Yuzhen plazh) is a popular beach area situated in Nessebar.", "category": "recreational", "coords": [27.716534, 42.654951]}, {"name": "Pirates of the Caribbean", "text": "Pirates of the Caribbean is a water park attraction located in Nessebar.", "category": "family", "coords": [27.707555, 42.665935]}, {"name": "Statuya na ribarya", "text": "The Statue of the Fisherman is a seaside attraction serving as a symbol of Nessebar's maritime heritage.", "category": "landmark", "coords": [27.729118, 42.658715]}, {"name": "Ruins basilica Virgin Merciful (Eleusa)", "text": "The Basilica of the Holy Mother of God Eleusa is a ruined former monastery church in Nessebar.", "category": "historical", "coords": [27.738019, 42.661026]}, {"name": "Sunny Beach", "text": "As an extensive seaside resort near Nessebar, Sunny Beach is one of Bulgaria's most famous addresses. Life pulsates here, as the lively scenery attracts sun-seekers from all over the world. The daily itinerary includes extensive swimming in the sea, endless beach walks, and pure recreation out in the open. An absolutely perfect destination for a dynamic and cheerful summer vacation.", "category": "recreational", "coords": [27.721044, 42.687684]}, {"name": "The Old Ship", "text": "The Old Ship is a tourist attraction situated in Nessebar.", "category": "landmark", "coords": [27.737411, 42.657795]}, {"name": "Fundament za zakrepvane na artileriisko oradie", "text": "This site features the ruined foundation of an artillery gun mount in Nessebar.", "category": "historical", "coords": [27.710365, 42.646546]}, {"name": "Church of Saint John the Baptist", "text": "The Church of Saint John the Baptist is a preserved historic domed cruciform church in Nessebar.", "category": "religious", "coords": [27.734071, 42.659053]}, {"name": "Aheloi ez.", "text": "The Ахелой ез. in Nessebar is a lake providing a pleasant natural setting for relaxation.", "category": "natural", "coords": [27.642908, 42.642838]}, {"name": "Mikroyazovir Aheloi", "text": "The Микроязовир Ахелой in Nessebar is a lake providing a pleasant natural setting for relaxation.", "category": "natural", "coords": [27.642186, 42.650662]}, {"name": "Flamingo Waterpark", "text": "This water park in Nessebar features slides and pools suitable for family outings.", "category": "family", "coords": [27.690974, 42.65048]}]},
+    id: "bg-nessebar", "sights": {
+      "de": [
+            {
+                  "name": "Arheologicheski muzei",
+                  "text": "Das Archäologische Museum in Nessebar ist eine anerkannte Institution, die antike Artefakte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        27.730728,
+                        42.658347
+                  ]
+            },
+            {
+                  "name": "Sv. Arhangeli Gavrail i Mihail",
+                  "text": "Die Church of the Holy Archangels Michael and Gabriel ist ein bekanntes Museum in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.735115,
+                        42.659641
+                  ]
+            },
+            {
+                  "name": "Tsarkva „Sveti Stefan“",
+                  "text": "St. Stefan ist ein anerkanntes Museum in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.733086,
+                        42.657818
+                  ]
+            },
+            {
+                  "name": "Tsarkva „Sveti Todor“",
+                  "text": "Die Church of St Theodore ist ein bekanntes Museum in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.738797,
+                        42.659881
+                  ]
+            },
+            {
+                  "name": "Tsarkva „Uspenie Bogorodichno“",
+                  "text": "Die Church \"Dormition of Theotokos\" ist ein bedeutendes Museum in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.736368,
+                        42.660094
+                  ]
+            },
+            {
+                  "name": "Navigatsionna svetlina Nesebar",
+                  "text": "Навигационна светлина Несебър ist ein Leuchtturm in Nessebar.",
+                  "category": "landmark",
+                  "coords": [
+                        27.729171,
+                        42.654541
+                  ]
+            },
+            {
+                  "name": "Muzei Starinen Nesebar",
+                  "text": "Das Ancient Nessebar Museum ist ein Museum in der Stadt Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.728052,
+                        42.65958
+                  ]
+            },
+            {
+                  "name": "Nudistki plazh",
+                  "text": "Нудистки плаж ist ein Strand in der Küstenstadt Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711778,
+                        42.648103
+                  ]
+            },
+            {
+                  "name": "Lunapark",
+                  "text": "Лунапарк ist ein Freizeitpark in Nessebar.",
+                  "category": "family",
+                  "coords": [
+                        27.724361,
+                        42.660824
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "Das Ethnographic Museum ist ein Museum in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.736305,
+                        42.658316
+                  ]
+            },
+            {
+                  "name": "Nudist Beach",
+                  "text": "Dieser ausgewiesene Strandabschnitt in der bulgarischen Stadt Nessebar widmet sich ganz der Freikörperkultur. Die Umgebung ist von einer ruhigen, naturverbundenen und überaus toleranten Atmosphäre geprägt. Sonnenanbeter können sich hier nahtlos bräunen, schwimmen und unbeschwerte Stunden am Schwarzen Meer verbringen. Ideal für Besucher, die absolute Diskretion und tiefe Entspannung am Ufer suchen.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711661,
+                        42.676558
+                  ]
+            },
+            {
+                  "name": "Morskoi akvarium \"Sveti Nikola\"",
+                  "text": "Das Meeresaquarium „Sveti Nikola“ ist eine maritime Attraktion in Nessebar.",
+                  "category": "family",
+                  "coords": [
+                        27.722967,
+                        42.66194
+                  ]
+            },
+            {
+                  "name": "Mini-Aquapark Pirates of the Caribbean",
+                  "text": "Pirates of the Caribbean ist ein Wasserpark in Nessebar.",
+                  "category": "family",
+                  "coords": [
+                        27.707555,
+                        42.665935
+                  ]
+            },
+            {
+                  "name": "Statuya na ribarya",
+                  "text": "Die Statue des Fischers ist eine Attraktion und ein maritimes Symbol von Nessebar.",
+                  "category": "landmark",
+                  "coords": [
+                        27.729118,
+                        42.658715
+                  ]
+            },
+            {
+                  "name": "Sveta Bogoroditsa Eleusa (Nesebar)",
+                  "text": "Die Basilika der Heiligen Muttergottes Eleusa ist eine zerstörte ehemalige Klosterkirche in Nessebar.",
+                  "category": "historical",
+                  "coords": [
+                        27.738019,
+                        42.661026
+                  ]
+            },
+            {
+                  "name": "Sunny Beach",
+                  "text": "Als ausgedehnter Badeort nahe Nessebar ist der Sonnenstrand eine der bekanntesten Adressen Bulgariens. Hier pulsiert das Leben, denn die lebhafte Szenerie zieht sonnenhungrige Menschen aus aller Welt an. Auf dem täglichen Programm stehen ausgiebiges Schwimmen im Meer, endlose Strandspaziergänge und pure Erholung unter freiem Himmel. Ein absolut perfektes Ziel für einen dynamischen und fröhlichen Sommerurlaub.",
+                  "category": "recreational",
+                  "coords": [
+                        27.721044,
+                        42.687684
+                  ]
+            },
+            {
+                  "name": "The Old Ship",
+                  "text": "Das alte Schiff ist eine Attraktion in Nessebar.",
+                  "category": "landmark",
+                  "coords": [
+                        27.737411,
+                        42.657795
+                  ]
+            },
+            {
+                  "name": "Fundament za zakrepvane na artileriisko oradie",
+                  "text": "Dieser Ort beherbergt das zerstörte Fundament einer Artilleriegeschützhalterung in Nessebar.",
+                  "category": "historical",
+                  "coords": [
+                        27.710365,
+                        42.646546
+                  ]
+            },
+            {
+                  "name": "Sv. Ioan Krastitel",
+                  "text": "Die Kirche St. Johannes der Täufer ist eine gut erhaltene historische Kreuzkuppelkirche in Nessebar.",
+                  "category": "religious",
+                  "coords": [
+                        27.734071,
+                        42.659053
+                  ]
+            },
+            {
+                  "name": "Aheloi ez.",
+                  "text": "Der Ахелой ез. in Nessebar ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.642908,
+                        42.642838
+                  ]
+            },
+            {
+                  "name": "Mikroyazovir Aheloi",
+                  "text": "Der Микроязовир Ахелой in Nessebar ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        27.642186,
+                        42.650662
+                  ]
+            },
+            {
+                  "name": "Flamingo Waterpark",
+                  "text": "Dieser Wasserpark in Nessebar bietet Rutschen und Pools, die ideal für Familienausflüge sind.",
+                  "category": "family",
+                  "coords": [
+                        27.690974,
+                        42.65048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Régészeti múzeum",
+                  "text": "A neszebari Régészeti Múzeum egy elismert intézmény, amely ókori leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        27.730728,
+                        42.658347
+                  ]
+            },
+            {
+                  "name": "Sv. Arhangeli Gavrail i Mihail",
+                  "text": "A Church of the Holy Archangels Michael and Gabriel egy híres múzeum Neszebarban.",
+                  "category": "museum",
+                  "coords": [
+                        27.735115,
+                        42.659641
+                  ]
+            },
+            {
+                  "name": "Szent István templom",
+                  "text": "A St. Stefan egy elismert múzeum Neszebarban.",
+                  "category": "museum",
+                  "coords": [
+                        27.733086,
+                        42.657818
+                  ]
+            },
+            {
+                  "name": "Szent Teodor templom",
+                  "text": "A Church of St Theodore egy ismert múzeum Neszebarban.",
+                  "category": "museum",
+                  "coords": [
+                        27.738797,
+                        42.659881
+                  ]
+            },
+            {
+                  "name": "Istenszülő elszenderedése",
+                  "text": "A Church \"Dormition of Theotokos\" egy kiemelkedő múzeum Neszebarban.",
+                  "category": "museum",
+                  "coords": [
+                        27.736368,
+                        42.660094
+                  ]
+            },
+            {
+                  "name": "Navigatsionna svetlina Nesebar",
+                  "text": "A Навигационна светлина Несебър egy világítótorony Neszebarban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.729171,
+                        42.654541
+                  ]
+            },
+            {
+                  "name": "Muzei Starinen Nesebar",
+                  "text": "Az Ancient Nessebar Museum egy múzeum Neszebar városában.",
+                  "category": "museum",
+                  "coords": [
+                        27.728052,
+                        42.65958
+                  ]
+            },
+            {
+                  "name": "Nudistki plazh",
+                  "text": "A Нудистки плаж egy strand a part menti Neszebar városában.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711778,
+                        42.648103
+                  ]
+            },
+            {
+                  "name": "Lunapark",
+                  "text": "A Лунапарк egy vidámpark Neszebarban.",
+                  "category": "family",
+                  "coords": [
+                        27.724361,
+                        42.660824
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "Az Ethnographic Museum egy múzeum Neszebarban.",
+                  "category": "museum",
+                  "coords": [
+                        27.736305,
+                        42.658316
+                  ]
+            },
+            {
+                  "name": "Nudist Beach",
+                  "text": "A bolgár Neszebar városának ez a kijelölt partszakasza teljes mértékben a naturizmusnak szenteli magát. A környezetet csendes, természetközeli és rendkívül toleráns atmoszféra jellemzi. A napimádók itt megszakítás nélkül barnulhatnak, úszhatnak és gondtalan órákat tölthetnek el a Fekete-tengernél. Ideális azoknak a látogatóknak, akik abszolút diszkréciót és mély ellazulást keresnek a parton.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711661,
+                        42.676558
+                  ]
+            },
+            {
+                  "name": "Morskoi akvarium \"Sveti Nikola\"",
+                  "text": "A \"Sveti Nikola\" Tengeri Akvárium Neszebar városában található.",
+                  "category": "family",
+                  "coords": [
+                        27.722967,
+                        42.66194
+                  ]
+            },
+            {
+                  "name": "Mini-Aquapark Pirates of the Caribbean",
+                  "text": "A Pirates of the Caribbean egy vízipark Neszebarban.",
+                  "category": "family",
+                  "coords": [
+                        27.707555,
+                        42.665935
+                  ]
+            },
+            {
+                  "name": "Statuya na ribarya",
+                  "text": "A Halász szobra egy tengerparti látványosság, amely Neszebar tengeri örökségének szimbóluma.",
+                  "category": "landmark",
+                  "coords": [
+                        27.729118,
+                        42.658715
+                  ]
+            },
+            {
+                  "name": "Sveta Bogoroditsa Eleusa (Nesebar)",
+                  "text": "Az Irgalmas Szűzanya-bazilika (Eleusza) egy egykori kolostortemplom romja Neszebarban.",
+                  "category": "historical",
+                  "coords": [
+                        27.738019,
+                        42.661026
+                  ]
+            },
+            {
+                  "name": "Sunny Beach",
+                  "text": "Neszebar közeli, kiterjedt tengerparti üdülőhelyként a Napospart Bulgária egyik legismertebb célpontja. Itt lüktet az élet, hiszen a nyüzsgő környezet a világ minden tájáról vonzza a napozni vágyókat. A napi program bőséges tengeri úszásból, végtelen tengerparti sétákból és tiszta kikapcsolódásból áll a szabad ég alatt. Abszolút tökéletes úti cél egy dinamikus és vidám nyári vakációhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        27.721044,
+                        42.687684
+                  ]
+            },
+            {
+                  "name": "The Old Ship",
+                  "text": "A The Old Ship egy látványosság Neszebarban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.737411,
+                        42.657795
+                  ]
+            },
+            {
+                  "name": "Fundament za zakrepvane na artileriisko oradie",
+                  "text": "A helyszínen egy neszebari tüzérségi ágyúállvány romos alapozása található.",
+                  "category": "historical",
+                  "coords": [
+                        27.710365,
+                        42.646546
+                  ]
+            },
+            {
+                  "name": "Sv. Ioan Krastitel",
+                  "text": "A Keresztelő Szent János-templom egy fennmaradt történelmi kupolás kereszt alakú templom Neszebarban.",
+                  "category": "religious",
+                  "coords": [
+                        27.734071,
+                        42.659053
+                  ]
+            },
+            {
+                  "name": "Aheloi ez.",
+                  "text": "A Ахелой ез. egy tó Nessebar területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.642908,
+                        42.642838
+                  ]
+            },
+            {
+                  "name": "Mikroyazovir Aheloi",
+                  "text": "A Микроязовир Ахелой egy tó Nessebar területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        27.642186,
+                        42.650662
+                  ]
+            },
+            {
+                  "name": "Flamingo Waterpark",
+                  "text": "Ez a neszebari aquapark csúszdákkal és medencékkel várja a családokat.",
+                  "category": "family",
+                  "coords": [
+                        27.690974,
+                        42.65048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arheologicheski muzei",
+                  "text": "Muzeul Arheologic din Nessebar este o instituție recunoscută ce expune artefacte antice.",
+                  "category": "museum",
+                  "coords": [
+                        27.730728,
+                        42.658347
+                  ]
+            },
+            {
+                  "name": "Sv. Arhangeli Gavrail i Mihail",
+                  "text": "Church of the Holy Archangels Michael and Gabriel este un muzeu renumit în Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.735115,
+                        42.659641
+                  ]
+            },
+            {
+                  "name": "Tsarkva „Sveti Stefan“",
+                  "text": "St. Stefan este un muzeu apreciat în Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.733086,
+                        42.657818
+                  ]
+            },
+            {
+                  "name": "Tsarkva „Sveti Todor“",
+                  "text": "Church of St Theodore este un muzeu bine-cunoscut din Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.738797,
+                        42.659881
+                  ]
+            },
+            {
+                  "name": "Tsarkva „Uspenie Bogorodichno“",
+                  "text": "Church \"Dormition of Theotokos\" este un muzeu distins situat în Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.736368,
+                        42.660094
+                  ]
+            },
+            {
+                  "name": "Navigatsionna svetlina Nesebar",
+                  "text": "Навигационна светлина Несебър este un far maritim în Nessebar.",
+                  "category": "landmark",
+                  "coords": [
+                        27.729171,
+                        42.654541
+                  ]
+            },
+            {
+                  "name": "Muzei Starinen Nesebar",
+                  "text": "Ancient Nessebar Museum este un muzeu situat în orașul Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.728052,
+                        42.65958
+                  ]
+            },
+            {
+                  "name": "Nudistki plazh",
+                  "text": "Нудистки плаж este o plajă situată în orașul Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711778,
+                        42.648103
+                  ]
+            },
+            {
+                  "name": "Lunapark",
+                  "text": "Лунапарк este un parc tematic situat în Nessebar.",
+                  "category": "family",
+                  "coords": [
+                        27.724361,
+                        42.660824
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "Ethnographic Museum este un muzeu situat în Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.736305,
+                        42.658316
+                  ]
+            },
+            {
+                  "name": "Nudist Beach",
+                  "text": "Această secțiune de plajă desemnată din orașul bulgar Nessebar este dedicată în întregime nudismului. Mediul este caracterizat de o atmosferă liniștită, apropiată de natură și extrem de tolerantă. Iubitorii de soare se pot bronza aici fără urme, pot înota și pot petrece ore lipsite de griji la Marea Neagră. Ideal pentru vizitatorii care caută discreție absolută și relaxare profundă pe țărm.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711661,
+                        42.676558
+                  ]
+            },
+            {
+                  "name": "Morskoi akvarium \"Sveti Nikola\"",
+                  "text": "Acvariul marin „Sveti Nikola” este o atracție situată în orașul Nesebăr.",
+                  "category": "family",
+                  "coords": [
+                        27.722967,
+                        42.66194
+                  ]
+            },
+            {
+                  "name": "Mini-Aquapark Pirates of the Caribbean",
+                  "text": "Pirates of the Caribbean este un parc acvatic situat în Nesebăr.",
+                  "category": "family",
+                  "coords": [
+                        27.707555,
+                        42.665935
+                  ]
+            },
+            {
+                  "name": "Statuya na ribarya",
+                  "text": "Statuia Pescarului este o atracție care simbolizează moștenirea maritimă a orașului Nesebăr.",
+                  "category": "landmark",
+                  "coords": [
+                        27.729118,
+                        42.658715
+                  ]
+            },
+            {
+                  "name": "Sveta Bogoroditsa Eleusa (Nesebar)",
+                  "text": "Bazilica Maica Domnului Eleusa reprezintă ruinele unei foste biserici mănăstirești din Nesebăr.",
+                  "category": "historical",
+                  "coords": [
+                        27.738019,
+                        42.661026
+                  ]
+            },
+            {
+                  "name": "Sunny Beach",
+                  "text": "Fiind o stațiune balneară întinsă lângă Nessebar, Sunny Beach este una dintre cele mai faimoase adrese din Bulgaria. Aici viața pulsează, deoarece peisajul plin de viață atrage iubitori de soare din întreaga lume. Programul zilnic include înot din belșug în mare, plimbări nesfârșite pe plajă și recreere pură în aer liber. O destinație absolut perfectă pentru o vacanță de vară dinamică și veselă.",
+                  "category": "recreational",
+                  "coords": [
+                        27.721044,
+                        42.687684
+                  ]
+            },
+            {
+                  "name": "The Old Ship",
+                  "text": "The Old Ship este o atracție turistică situată în Nesebăr.",
+                  "category": "landmark",
+                  "coords": [
+                        27.737411,
+                        42.657795
+                  ]
+            },
+            {
+                  "name": "Fundament za zakrepvane na artileriisko oradie",
+                  "text": "Acest sit prezintă ruinele fundației unui suport de tun de artilerie din Nesebăr.",
+                  "category": "historical",
+                  "coords": [
+                        27.710365,
+                        42.646546
+                  ]
+            },
+            {
+                  "name": "Sv. Ioan Krastitel",
+                  "text": "Biserica Sfântul Ioan Botezătorul este o biserică istorică cruciformă cu cupolă, situată în Nesebăr.",
+                  "category": "religious",
+                  "coords": [
+                        27.734071,
+                        42.659053
+                  ]
+            },
+            {
+                  "name": "Aheloi ez.",
+                  "text": "Ахелой ез. din Nessebar este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        27.642908,
+                        42.642838
+                  ]
+            },
+            {
+                  "name": "Mikroyazovir Aheloi",
+                  "text": "Микроязовир Ахелой din Nessebar este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        27.642186,
+                        42.650662
+                  ]
+            },
+            {
+                  "name": "Flamingo Waterpark",
+                  "text": "Acest parc acvatic din Nessebar are tobogane și piscine potrivite pentru ieșirile în familie.",
+                  "category": "family",
+                  "coords": [
+                        27.690974,
+                        42.65048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arheologicheski muzei",
+                  "text": "The Archaeological Museum in Nessebar is a recognized institution displaying ancient artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        27.730728,
+                        42.658347
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Archangels Michael and Gabriel",
+                  "text": "The Church of the Holy Archangels Michael and Gabriel is a renowned museum located in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.735115,
+                        42.659641
+                  ]
+            },
+            {
+                  "name": "St. Stefan",
+                  "text": "St. Stefan is an acclaimed museum structure operating in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.733086,
+                        42.657818
+                  ]
+            },
+            {
+                  "name": "Church of St Theodore (Todor)",
+                  "text": "The Church of St Theodore is a well-known museum facility in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.738797,
+                        42.659881
+                  ]
+            },
+            {
+                  "name": "Church \"Dormition of Theotokos\"",
+                  "text": "The Church \"Dormition of Theotokos\" is a distinguished museum located in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.736368,
+                        42.660094
+                  ]
+            },
+            {
+                  "name": "Navigatsionna svetlina Nesebar",
+                  "text": "Навигационна светлина Несебър is a local lighthouse providing maritime navigation in Nessebar.",
+                  "category": "landmark",
+                  "coords": [
+                        27.729171,
+                        42.654541
+                  ]
+            },
+            {
+                  "name": "Ancient Nessebar Museum",
+                  "text": "The Ancient Nessebar Museum is a museum facility located in the city of Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.728052,
+                        42.65958
+                  ]
+            },
+            {
+                  "name": "Nudistki plazh",
+                  "text": "Нудистки плаж is a beach located in the coastal city of Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711778,
+                        42.648103
+                  ]
+            },
+            {
+                  "name": "Lunapark",
+                  "text": "Лунапарк is a theme park located in Nessebar.",
+                  "category": "family",
+                  "coords": [
+                        27.724361,
+                        42.660824
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "The Ethnographic Museum is a cultural museum located in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.736305,
+                        42.658316
+                  ]
+            },
+            {
+                  "name": "Nudist Beach",
+                  "text": "This designated beach section in the Bulgarian city of Nessebar is entirely dedicated to naturism. The surroundings are characterized by a quiet, nature-connected, and highly tolerant atmosphere. Sun worshippers can tan seamlessly here, swim, and spend carefree hours by the Black Sea. Ideal for visitors seeking absolute discretion and deep relaxation on the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711661,
+                        42.676558
+                  ]
+            },
+            {
+                  "name": "Morskoi akvarium \"Sveti Nikola\"",
+                  "text": "The \"Sveti Nikola\" Sea Aquarium is a marine attraction located in Nessebar.",
+                  "category": "family",
+                  "coords": [
+                        27.722967,
+                        42.66194
+                  ]
+            },
+            {
+                  "name": "Pirates of the Caribbean",
+                  "text": "Pirates of the Caribbean is a water park attraction located in Nessebar.",
+                  "category": "family",
+                  "coords": [
+                        27.707555,
+                        42.665935
+                  ]
+            },
+            {
+                  "name": "Statuya na ribarya",
+                  "text": "The Statue of the Fisherman is a seaside attraction serving as a symbol of Nessebar's maritime heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        27.729118,
+                        42.658715
+                  ]
+            },
+            {
+                  "name": "Ruins basilica Virgin Merciful (Eleusa)",
+                  "text": "The Basilica of the Holy Mother of God Eleusa is a ruined former monastery church in Nessebar.",
+                  "category": "historical",
+                  "coords": [
+                        27.738019,
+                        42.661026
+                  ]
+            },
+            {
+                  "name": "Sunny Beach",
+                  "text": "As an extensive seaside resort near Nessebar, Sunny Beach is one of Bulgaria's most famous addresses. Life pulsates here, as the lively scenery attracts sun-seekers from all over the world. The daily itinerary includes extensive swimming in the sea, endless beach walks, and pure recreation out in the open. An absolutely perfect destination for a dynamic and cheerful summer vacation.",
+                  "category": "recreational",
+                  "coords": [
+                        27.721044,
+                        42.687684
+                  ]
+            },
+            {
+                  "name": "The Old Ship",
+                  "text": "The Old Ship is a tourist attraction situated in Nessebar.",
+                  "category": "landmark",
+                  "coords": [
+                        27.737411,
+                        42.657795
+                  ]
+            },
+            {
+                  "name": "Fundament za zakrepvane na artileriisko oradie",
+                  "text": "This site features the ruined foundation of an artillery gun mount in Nessebar.",
+                  "category": "historical",
+                  "coords": [
+                        27.710365,
+                        42.646546
+                  ]
+            },
+            {
+                  "name": "Church of Saint John the Baptist",
+                  "text": "The Church of Saint John the Baptist is a preserved historic domed cruciform church in Nessebar.",
+                  "category": "religious",
+                  "coords": [
+                        27.734071,
+                        42.659053
+                  ]
+            },
+            {
+                  "name": "Aheloi ez.",
+                  "text": "The Ахелой ез. in Nessebar is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        27.642908,
+                        42.642838
+                  ]
+            },
+            {
+                  "name": "Mikroyazovir Aheloi",
+                  "text": "The Микроязовир Ахелой in Nessebar is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        27.642186,
+                        42.650662
+                  ]
+            },
+            {
+                  "name": "Flamingo Waterpark",
+                  "text": "This water park in Nessebar features slides and pools suitable for family outings.",
+                  "category": "family",
+                  "coords": [
+                        27.690974,
+                        42.65048
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "bg-country",
     coords: [27.7360, 42.6593],
@@ -131,230 +932,10 @@ export const bulgariaAllPoi: POI[] = [
   },
   {
     id: "bg-pirin", "sights": {
-      "de": [
-            {
-                  "name": "Wichren",
-                  "text": "Der höchste Gipfel des Pirin-Gebirges und ein beliebter Aussichtspunkt in Bulgarien.",
-                  "category": "natural",
-                  "coords": [
-                        23.398844,
-                        41.767332
-                  ]
-            },
-            {
-                  "name": "V'zela",
-                  "text": "Ein Berggipfel im bulgarischen Pirin-Nationalpark.",
-                  "category": "landmark",
-                  "coords": [
-                        23.437092,
-                        41.732956
-                  ]
-            },
-            {
-                  "name": "Kutelo 2",
-                  "text": "Der zweithöchste Punkt des Kutelo-Massivs im Pirin-Gebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39536,
-                        41.78001
-                  ]
-            },
-            {
-                  "name": "Kutelo",
-                  "text": "Mit 2908 Metern der zweithöchste Gipfel im Pirin-Gebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        23.400034,
-                        41.776871
-                  ]
-            },
-            {
-                  "name": "Banski sukhodol",
-                  "text": "Ein markanter Gipfel im Pirin-Gebirge, bekannt für seine steilen Kalksteinwände.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39092,
-                        41.78427
-                  ]
-            },
-            {
-                  "name": "Baikushevata mura;Baikusheva mura",
-                  "text": "Eine über 1300 Jahre alte Panzerkiefer, der älteste Nadelbaum Bulgariens.",
-                  "category": "landmark",
-                  "coords": [
-                        23.42287,
-                        41.767043
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Vihren",
-                  "text": "A Pirin-hegység legmagasabb csúcsa és népszerű kilátóhely Bulgáriában.",
-                  "category": "natural",
-                  "coords": [
-                        23.398844,
-                        41.767332
-                  ]
-            },
-            {
-                  "name": "V'zela",
-                  "text": "Hegyi csúcs a bulgáriai Pirin Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        23.437092,
-                        41.732956
-                  ]
-            },
-            {
-                  "name": "Kutelo 2",
-                  "text": "A Pirin-hegységben található Kutelo-masszívum második legmagasabb pontja.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39536,
-                        41.78001
-                  ]
-            },
-            {
-                  "name": "Kutelo",
-                  "text": "2908 méteres magasságával a Pirin-hegység második legmagasabb csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        23.400034,
-                        41.776871
-                  ]
-            },
-            {
-                  "name": "Banski sukhodol",
-                  "text": "Jellegzetes csúcs a Pirin-hegységben, amely meredek mészkőfalairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39092,
-                        41.78427
-                  ]
-            },
-            {
-                  "name": "Baikushevata mura;Baikusheva mura",
-                  "text": "Egy több mint 1300 éves páncélfenyő, Bulgária legöregebb tűlevelű fája.",
-                  "category": "landmark",
-                  "coords": [
-                        23.42287,
-                        41.767043
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Vikhren",
-                  "text": "Cel mai înalt vârf din munții Pirin și un punct de belvedere popular în Bulgaria.",
-                  "category": "natural",
-                  "coords": [
-                        23.398844,
-                        41.767332
-                  ]
-            },
-            {
-                  "name": "V'zela",
-                  "text": "Un vârf muntos în Parcul Național Pirin din Bulgaria.",
-                  "category": "landmark",
-                  "coords": [
-                        23.437092,
-                        41.732956
-                  ]
-            },
-            {
-                  "name": "Kutelo 2",
-                  "text": "Al doilea cel mai înalt punct al masivului Kutelo din munții Pirin.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39536,
-                        41.78001
-                  ]
-            },
-            {
-                  "name": "Kutelo",
-                  "text": "Cu 2908 metri, este al doilea cel mai înalt vârf din munții Pirin.",
-                  "category": "landmark",
-                  "coords": [
-                        23.400034,
-                        41.776871
-                  ]
-            },
-            {
-                  "name": "Banski sukhodol",
-                  "text": "Un vârf distinctiv în munții Pirin, cunoscut pentru pereții săi abrupți de calcar.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39092,
-                        41.78427
-                  ]
-            },
-            {
-                  "name": "Baikushevata mura;Baikusheva mura",
-                  "text": "Un pin de peste 1300 de ani, cel mai bătrân conifer din Bulgaria.",
-                  "category": "landmark",
-                  "coords": [
-                        23.42287,
-                        41.767043
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Vihren",
-                  "text": "The highest peak of the Pirin Mountains and a popular viewpoint in Bulgaria.",
-                  "category": "natural",
-                  "coords": [
-                        23.398844,
-                        41.767332
-                  ]
-            },
-            {
-                  "name": "Vazela",
-                  "text": "A mountain peak in the Pirin National Park of Bulgaria.",
-                  "category": "landmark",
-                  "coords": [
-                        23.437092,
-                        41.732956
-                  ]
-            },
-            {
-                  "name": "Kutelo 2",
-                  "text": "The second highest point of the Kutelo massif in the Pirin Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39536,
-                        41.78001
-                  ]
-            },
-            {
-                  "name": "Kutelo",
-                  "text": "Standing at 2908 meters, it is the second highest peak in the Pirin Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        23.400034,
-                        41.776871
-                  ]
-            },
-            {
-                  "name": "Banski Suhodol",
-                  "text": "A prominent peak in the Pirin Mountains known for its steep limestone walls.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39092,
-                        41.78427
-                  ]
-            },
-            {
-                  "name": "Baikushev's Pine",
-                  "text": "An over 1300-year-old Bosnian pine, the oldest coniferous tree in Bulgaria.",
-                  "category": "landmark",
-                  "coords": [
-                        23.42287,
-                        41.767043
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "landmark",
     parent: "bg-country",
@@ -1431,15 +2012,6 @@ export const bulgariaCulture: POI[] = [
     id: "agriculture-rose-valley-kazanlak", "sights": {
       "de": [
             {
-                  "name": "Muzei na rozata",
-                  "text": "Ein Museum in Kasanlak, das der Geschichte und Produktion des berühmten bulgarischen Rosenöls gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        25.388312,
-                        42.623197
-                  ]
-            },
-            {
                   "name": "Thrakergrab von Kasanlak",
                   "text": "Eine berühmte thrakische Grabstätte aus dem 4. Jahrhundert v. Chr. und UNESCO-Weltkulturerbe.",
                   "category": "historical",
@@ -1474,36 +2046,9 @@ export const bulgariaCulture: POI[] = [
                         25.403321,
                         42.631726
                   ]
-            },
-            {
-                  "name": "Evro monument",
-                  "text": "Ein Monument in Kasanlak, das der Einführung der europäischen Währung gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        25.393366,
-                        42.619776
-                  ]
-            },
-            {
-                  "name": "Akvapark Waterland",
-                  "text": "Ein Wasserpark mit verschiedenen Becken und Rutschen in der Region Kasanlak.",
-                  "category": "recreational",
-                  "coords": [
-                        25.426717,
-                        42.580391
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Muzei na rozata",
-                  "text": "Kazanlakban található múzeum, amely a bolgár rózsaolaj-termelés történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        25.388312,
-                        42.623197
-                  ]
-            },
             {
                   "name": "Trakiiska grobnitsa",
                   "text": "Híres, Kr. e. 4. századi trák sírbolt Kazanlakban, amely az UNESCO Világörökség része.",
@@ -1539,36 +2084,9 @@ export const bulgariaCulture: POI[] = [
                         25.403321,
                         42.631726
                   ]
-            },
-            {
-                  "name": "Evro monument",
-                  "text": "Kazanlakban található emlékmű, amelyet az európai valuta tiszteletére emeltek.",
-                  "category": "historical",
-                  "coords": [
-                        25.393366,
-                        42.619776
-                  ]
-            },
-            {
-                  "name": "Akvapark Waterland",
-                  "text": "Vízividámpark különféle medencékkel és csúszdákkal Kazanlak környékén.",
-                  "category": "recreational",
-                  "coords": [
-                        25.426717,
-                        42.580391
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Muzei na rozata",
-                  "text": "Un muzeu din Kazanlak dedicat istoriei și producției faimosului ulei de trandafir bulgăresc.",
-                  "category": "museum",
-                  "coords": [
-                        25.388312,
-                        42.623197
-                  ]
-            },
             {
                   "name": "Trakiiska grobnitsa",
                   "text": "Un celebru mormânt tracic din secolul al IV-lea î.Hr., inclus în patrimoniul mondial UNESCO.",
@@ -1604,36 +2122,9 @@ export const bulgariaCulture: POI[] = [
                         25.403321,
                         42.631726
                   ]
-            },
-            {
-                  "name": "Evro monument",
-                  "text": "Un monument din Kazanlak ridicat în onoarea monedei europene.",
-                  "category": "historical",
-                  "coords": [
-                        25.393366,
-                        42.619776
-                  ]
-            },
-            {
-                  "name": "Akvapark Waterland",
-                  "text": "Un parc acvatic cu diverse piscine și tobogane în regiunea Kazanlak.",
-                  "category": "recreational",
-                  "coords": [
-                        25.426717,
-                        42.580391
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Rose Museum",
-                  "text": "A museum in Kazanlak dedicated to the history and industry of Bulgarian rose oil production.",
-                  "category": "museum",
-                  "coords": [
-                        25.388312,
-                        42.623197
-                  ]
-            },
             {
                   "name": "Thracian Tomb of Kazanlak",
                   "text": "A world-famous 4th-century BC Thracian tomb and UNESCO World Heritage site in Kazanlak.",
@@ -1668,24 +2159,6 @@ export const bulgariaCulture: POI[] = [
                   "coords": [
                         25.403321,
                         42.631726
-                  ]
-            },
-            {
-                  "name": "Euro Monument",
-                  "text": "A monument in Kazanlak dedicated to the European currency.",
-                  "category": "historical",
-                  "coords": [
-                        25.393366,
-                        42.619776
-                  ]
-            },
-            {
-                  "name": "Akvapark Waterland",
-                  "text": "A water park featuring various pools and slides in the Kazanlak region.",
-                  "category": "recreational",
-                  "coords": [
-                        25.426717,
-                        42.580391
                   ]
             }
       ]
@@ -1800,15 +2273,6 @@ export const bulgariaNature: POI[] = [
                         23.542322,
                         42.163844
                   ]
-            },
-            {
-                  "name": "Musala",
-                  "text": "Mit 2925 Metern der höchste Gipfel im Rila-Gebirge und auf der Balkanhalbinsel.",
-                  "category": "landmark",
-                  "coords": [
-                        23.585278,
-                        42.179193
-                  ]
             }
       ],
       "hu": [
@@ -1819,15 +2283,6 @@ export const bulgariaNature: POI[] = [
                   "coords": [
                         23.542322,
                         42.163844
-                  ]
-            },
-            {
-                  "name": "Musala",
-                  "text": "2925 méteres magasságával a Rila-hegység és a Balkán-félsziget legmagasabb csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        23.585278,
-                        42.179193
                   ]
             }
       ],
@@ -1840,15 +2295,6 @@ export const bulgariaNature: POI[] = [
                         23.542322,
                         42.163844
                   ]
-            },
-            {
-                  "name": "Musala",
-                  "text": "Cu o înălțime de 2925 de metri, este cel mai înalt vârf din Munții Rila și din Peninsula Balcanică.",
-                  "category": "landmark",
-                  "coords": [
-                        23.585278,
-                        42.179193
-                  ]
             }
       ],
       "en": [
@@ -1859,15 +2305,6 @@ export const bulgariaNature: POI[] = [
                   "coords": [
                         23.542322,
                         42.163844
-                  ]
-            },
-            {
-                  "name": "Musala",
-                  "text": "At 2925 metres, it is the highest peak in the Rila Mountains and the Balkan Peninsula.",
-                  "category": "landmark",
-                  "coords": [
-                        23.585278,
-                        42.179193
                   ]
             }
       ]
@@ -1932,15 +2369,6 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Torfeno branishche",
-                  "text": "Ein Naturschutzgebiet im Witoscha-Gebirge, das für seine Torfmoore bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        23.267477,
-                        42.582811
-                  ]
-            },
-            {
                   "name": "Goliam Kupen",
                   "text": "Ein Berggipfel im Witoscha-Gebirge.",
                   "category": "landmark",
@@ -1985,15 +2413,6 @@ export const bulgariaNature: POI[] = [
                   "coords": [
                         23.309017,
                         42.562728
-                  ]
-            },
-            {
-                  "name": "Torfeno branishche",
-                  "text": "Tőzeglápos természetvédelmi terület a Vitosa-hegységben.",
-                  "category": "natural",
-                  "coords": [
-                        23.267477,
-                        42.582811
                   ]
             },
             {
@@ -2044,15 +2463,6 @@ export const bulgariaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Torfeno branishche",
-                  "text": "O rezervație naturală de turbărie în munții Vitoșa.",
-                  "category": "natural",
-                  "coords": [
-                        23.267477,
-                        42.582811
-                  ]
-            },
-            {
                   "name": "Goliam Kupen",
                   "text": "Un vârf muntos în munții Vitoșa.",
                   "category": "landmark",
@@ -2097,15 +2507,6 @@ export const bulgariaNature: POI[] = [
                   "coords": [
                         23.309017,
                         42.562728
-                  ]
-            },
-            {
-                  "name": "Torfeno Branishte Reserve",
-                  "text": "A peatland nature reserve located in the Vitosha Mountains.",
-                  "category": "natural",
-                  "coords": [
-                        23.267477,
-                        42.582811
                   ]
             },
             {
@@ -2295,15 +2696,6 @@ export const bulgariaNature: POI[] = [
     id: "nat-musala", "sights": {
       "de": [
             {
-                  "name": "Reservat Zentrales Rila",
-                  "text": "Das größte Naturschutzgebiet Bulgariens, das die Hochgebirgslandschaften des Rila-Gebirges bewahrt.",
-                  "category": "natural",
-                  "coords": [
-                        23.542322,
-                        42.163844
-                  ]
-            },
-            {
                   "name": "Musala",
                   "text": "Der höchste Gipfel des Rila-Gebirges und der gesamten Balkanhalbinsel.",
                   "category": "landmark",
@@ -2314,15 +2706,6 @@ export const bulgariaNature: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Tsentralen rilski rezervat",
-                  "text": "Bulgária legnagyobb természetvédelmi területe, amely a Rila-hegység magashegyi tájait őrzi.",
-                  "category": "natural",
-                  "coords": [
-                        23.542322,
-                        42.163844
-                  ]
-            },
             {
                   "name": "Musala",
                   "text": "A Rila-hegység és az egész Balkán-félsziget legmagasabb csúcsa.",
@@ -2335,15 +2718,6 @@ export const bulgariaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Tsentralen rilski rezervat",
-                  "text": "Cea mai mare rezervație naturală din Bulgaria, care conservă peisajele montane din Munții Rila.",
-                  "category": "natural",
-                  "coords": [
-                        23.542322,
-                        42.163844
-                  ]
-            },
-            {
                   "name": "Musala",
                   "text": "Cel mai înalt vârf din Munții Rila și din întreaga Peninsulă Balcanică.",
                   "category": "landmark",
@@ -2354,15 +2728,6 @@ export const bulgariaNature: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Central Rila Reserve",
-                  "text": "The largest nature reserve in Bulgaria, preserving the high-altitude landscapes of the Rila Mountains.",
-                  "category": "natural",
-                  "coords": [
-                        23.542322,
-                        42.163844
-                  ]
-            },
             {
                   "name": "Musala",
                   "text": "The highest peak in the Rila Mountains and the entire Balkan Peninsula.",
@@ -2459,15 +2824,6 @@ export const bulgariaNature: POI[] = [
                         23.39092,
                         41.78427
                   ]
-            },
-            {
-                  "name": "Baikushevata mura;Baikusheva mura",
-                  "text": "Eine über 1300 Jahre alte Panzerkiefer, der älteste Nadelbaum Bulgariens.",
-                  "category": "landmark",
-                  "coords": [
-                        23.42287,
-                        41.767043
-                  ]
             }
       ],
       "hu": [
@@ -2505,15 +2861,6 @@ export const bulgariaNature: POI[] = [
                   "coords": [
                         23.39092,
                         41.78427
-                  ]
-            },
-            {
-                  "name": "Baikushevata mura;Baikusheva mura",
-                  "text": "Több mint 1300 éves páncélfenyő, Bulgária legidősebb fenyőféléje.",
-                  "category": "landmark",
-                  "coords": [
-                        23.42287,
-                        41.767043
                   ]
             }
       ],
@@ -2553,15 +2900,6 @@ export const bulgariaNature: POI[] = [
                         23.39092,
                         41.78427
                   ]
-            },
-            {
-                  "name": "Baikushevata mura;Baikusheva mura",
-                  "text": "Un pin de peste 1300 de ani, cel mai bătrân conifer din Bulgaria.",
-                  "category": "landmark",
-                  "coords": [
-                        23.42287,
-                        41.767043
-                  ]
             }
       ],
       "en": [
@@ -2599,15 +2937,6 @@ export const bulgariaNature: POI[] = [
                   "coords": [
                         23.39092,
                         41.78427
-                  ]
-            },
-            {
-                  "name": "Baikushev's Pine",
-                  "text": "A Bosnian pine over 1,300 years old, the oldest coniferous tree in Bulgaria.",
-                  "category": "landmark",
-                  "coords": [
-                        23.42287,
-                        41.767043
                   ]
             }
       ]
@@ -2661,50 +2990,10 @@ export const bulgariaNature: POI[] = [
   },
   {
     id: "nat-botev-peak", "sights": {
-      "de": [
-            {
-                  "name": "Botew",
-                  "text": "Der höchste Gipfel des Balkangebirges in Bulgarien.",
-                  "category": "landmark",
-                  "coords": [
-                        24.91728,
-                        42.716872
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Botev",
-                  "text": "A bulgáriai Balkán-hegység legmagasabb csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        24.91728,
-                        42.716872
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Botev",
-                  "text": "Cel mai înalt vârf din Munții Balcani, situat în Bulgaria.",
-                  "category": "landmark",
-                  "coords": [
-                        24.91728,
-                        42.716872
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Botev Peak",
-                  "text": "The highest peak of the Balkan Mountains in Bulgaria.",
-                  "category": "landmark",
-                  "coords": [
-                        24.91728,
-                        42.716872
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "bg-country",
@@ -2849,50 +3138,10 @@ export const bulgariaNature: POI[] = [
   },
   {
     id: "nat-srebarna-lake", "sights": {
-      "de": [
-            {
-                  "name": "Priroden rezervat Sreb'rna",
-                  "text": "Ein UNESCO-Weltnaturerbe und Vogelschutzgebiet am Srebarna-See.",
-                  "category": "natural",
-                  "coords": [
-                        27.074706,
-                        44.113397
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Priroden rezervat Sreb'rna",
-                  "text": "UNESCO világörökségi helyszín és madárrezervátum a Srebarna-tónál.",
-                  "category": "natural",
-                  "coords": [
-                        27.074706,
-                        44.113397
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Priroden rezervat Sreb'rna",
-                  "text": "Rezervație naturală inclusă în patrimoniul UNESCO, celebră pentru colonii de păsări.",
-                  "category": "natural",
-                  "coords": [
-                        27.074706,
-                        44.113397
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Srebarna Nature Reserve",
-                  "text": "A UNESCO World Heritage site and bird reserve located on Lake Srebarna.",
-                  "category": "natural",
-                  "coords": [
-                        27.074706,
-                        44.113397
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "lake",
     parent: "bg-country",

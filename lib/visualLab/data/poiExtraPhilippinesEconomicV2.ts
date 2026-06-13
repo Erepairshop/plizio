@@ -6,15 +6,6 @@ export const poiExtraPhilippinesEconomicV2: POI[] = [
     id: "ph-peza-cavite-economic-zone-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Immaculate Conception Parish Church",
-                  "text": "Die Pfarrkirche der Unbefleckten Empfängnis ist eine historische Steinkirche aus der spanischen Kolonialzeit in Dasmariñas.",
-                  "category": "religious",
-                  "coords": [
-                        120.936064,
-                        14.327035
-                  ]
-            },
-            {
                   "name": "The Church of Jesus Christ of Latter-day Saints",
                   "text": "Mit der traditionellen Versammlungshaus-Architektur der Heiligen der Letzten Tage unterstützt diese Kultstätte lokale Gemeinden.",
                   "category": "religious",
@@ -48,24 +39,6 @@ export const poiExtraPhilippinesEconomicV2: POI[] = [
                   "coords": [
                         120.976783,
                         14.261249
-                  ]
-            },
-            {
-                  "name": "Museum of the Human Body",
-                  "text": "Dieses Museum auf einem medizinischen Campus bietet detaillierte anatomische Modelle und Ausstellungen zur Erforschung der menschlichen Physiologie.",
-                  "category": "museum",
-                  "coords": [
-                        120.946557,
-                        14.33311
-                  ]
-            },
-            {
-                  "name": "Museo De La Salle",
-                  "text": "Dieses Kulturmuseum bildet ein philippinisches Bahay na Bato aus dem 19. Jahrhundert nach und zeigt den Lebensstil und die Einrichtung der Ilustrado-Klasse.",
-                  "category": "museum",
-                  "coords": [
-                        120.961039,
-                        14.320998
                   ]
             },
             {
@@ -341,15 +314,6 @@ export const poiExtraPhilippinesEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Immaculate Conception Parish Church",
-                  "text": "A Szeplőtelen Fogantatás plébániatemplom egy történelmi, spanyol gyarmati korszakból származó kőtemplom Dasmariñasban.",
-                  "category": "religious",
-                  "coords": [
-                        120.936064,
-                        14.327035
-                  ]
-            },
-            {
                   "name": "The Church of Jesus Christ of Latter-day Saints",
                   "text": "Az Utolsó Napok Szentjeinek hagyományos gyülekezeti ház építészetével rendelkező istentiszteleti hely a helyi közösségeket támogatja.",
                   "category": "religious",
@@ -383,24 +347,6 @@ export const poiExtraPhilippinesEconomicV2: POI[] = [
                   "coords": [
                         120.976783,
                         14.261249
-                  ]
-            },
-            {
-                  "name": "Museum of the Human Body",
-                  "text": "Egy orvosi egyetemvárosban található ez a múzeum, amely részletes anatómiai modelleket és az emberi élettant bemutató kiállításokat kínál.",
-                  "category": "museum",
-                  "coords": [
-                        120.946557,
-                        14.33311
-                  ]
-            },
-            {
-                  "name": "Museo De La Salle",
-                  "text": "Ez a kulturális múzeum egy 19. századi fülöp-szigeteki bahay na batót (kőházat) rekonstruál, bemutatva az ilustrado osztály életmódját és bútorait.",
-                  "category": "museum",
-                  "coords": [
-                        120.961039,
-                        14.320998
                   ]
             },
             {
@@ -676,15 +622,6 @@ export const poiExtraPhilippinesEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Immaculate Conception Parish Church",
-                  "text": "Biserica Parohială a Imaculatei Concepții este o biserică istorică din piatră din epoca colonială spaniolă, situată în Dasmariñas.",
-                  "category": "religious",
-                  "coords": [
-                        120.936064,
-                        14.327035
-                  ]
-            },
-            {
                   "name": "The Church of Jesus Christ of Latter-day Saints",
                   "text": "Prezentând arhitectura tradițională a caselor de întruniri ale Sfinților din Zilele din Urmă, acest lăcaș de cult sprijină congregațiile locale.",
                   "category": "religious",
@@ -718,24 +655,6 @@ export const poiExtraPhilippinesEconomicV2: POI[] = [
                   "coords": [
                         120.976783,
                         14.261249
-                  ]
-            },
-            {
-                  "name": "Museum of the Human Body",
-                  "text": "Situat într-un campus medical, acest muzeu prezintă modele anatomice detaliate și expoziții care explorează fiziologia umană.",
-                  "category": "museum",
-                  "coords": [
-                        120.946557,
-                        14.33311
-                  ]
-            },
-            {
-                  "name": "Museo De La Salle",
-                  "text": "Acest muzeu cultural reproduce o bahay na bato filipineză din secolul al XIX-lea, prezentând stilul de viață și mobilierul clasei ilustrado.",
-                  "category": "museum",
-                  "coords": [
-                        120.961039,
-                        14.320998
                   ]
             },
             {
@@ -1011,15 +930,6 @@ export const poiExtraPhilippinesEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Immaculate Conception Parish Church",
-                  "text": "The Immaculate Conception Parish Church is a historic Spanish colonial-era stone church located in Dasmariñas.",
-                  "category": "religious",
-                  "coords": [
-                        120.936064,
-                        14.327035
-                  ]
-            },
-            {
                   "name": "The Church of Jesus Christ of Latter-day Saints",
                   "text": "Featuring the traditional meetinghouse architecture of the Latter-day Saints, this place of worship supports local congregations.",
                   "category": "religious",
@@ -1053,24 +963,6 @@ export const poiExtraPhilippinesEconomicV2: POI[] = [
                   "coords": [
                         120.976783,
                         14.261249
-                  ]
-            },
-            {
-                  "name": "Museum of the Human Body",
-                  "text": "Located within a medical campus, this museum features detailed anatomical models and exhibits exploring human physiology.",
-                  "category": "museum",
-                  "coords": [
-                        120.946557,
-                        14.33311
-                  ]
-            },
-            {
-                  "name": "Museo De La Salle",
-                  "text": "This cultural museum replicates a 19th-century Philippine bahay na bato, showcasing the lifestyle and furnishings of the ilustrado class.",
-                  "category": "museum",
-                  "coords": [
-                        120.961039,
-                        14.320998
                   ]
             },
             {
@@ -3725,48 +3617,12 @@ image: "/poi-images/ph-toledo-kupfermine-economic-v2.webp",
     id: "ph-bonifacio-global-city-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Ayala Museum",
-                  "text": "Diese sechsstöckige Einrichtung beherbergt umfangreiche archäologische Artefakte und detaillierte Dioramen zur philippinischen Geschichte.",
-                  "category": "museum",
-                  "coords": [
-                        121.023245,
-                        14.553583
-                  ]
-            },
-            {
                   "name": "The Mind Museum",
                   "text": "Diese moderne Einrichtung widmet sich der Erforschung grundlegender wissenschaftlicher Prinzipien und bietet über 250 interaktive Exponate aus den Bereichen Leben, Erde und Universum.",
                   "category": "museum",
                   "coords": [
                         121.045503,
                         14.552031
-                  ]
-            },
-            {
-                  "name": "Pasig City Museum",
-                  "text": "In der historischen Concepcion-Villa untergebracht, zeigt dieses Museum die lokale Geschichte und das kulturelle Erbe von Pasig City.",
-                  "category": "museum",
-                  "coords": [
-                        121.076284,
-                        14.560995
-                  ]
-            },
-            {
-                  "name": "St. Andrew The Apostle Parish Church",
-                  "text": "Diese vom Nationalkünstler Leandro Locsin entworfene Kirche besticht durch ihre markante zeltartige Struktur.",
-                  "category": "religious",
-                  "coords": [
-                        121.023723,
-                        14.566084
-                  ]
-            },
-            {
-                  "name": "Saints Peter and Paul Parish Church",
-                  "text": "Als älteste Kirche in Makati zeugt dieses Gotteshaus von der originalen spanischen Kolonialarchitektur der Region.",
-                  "category": "religious",
-                  "coords": [
-                        121.03137,
-                        14.565912
                   ]
             },
             {
@@ -3788,66 +3644,12 @@ image: "/poi-images/ph-toledo-kupfermine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Pasig Cathedral",
-                  "text": "Die auch als Kathedrale der Unbefleckten Empfängnis bekannte Kirche gehört mit ihrem steinernen Glockenturm zu den ältesten Bauwerken der Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        121.077437,
-                        14.560402
-                  ]
-            },
-            {
-                  "name": "Estrella-Pantaleon Bridge",
-                  "text": "Diese im Juli 2021 eröffnete moderne Bogenbrücke überspannt den Pasig-Fluss und verbindet Makati mit Mandaluyong.",
-                  "category": "landmark",
-                  "coords": [
-                        121.03766,
-                        14.566831
-                  ]
-            },
-            {
                   "name": "Santa Monica–Lawton Bridge",
                   "text": "Die 2021 eröffnete Straßenbrücke führt über den Pasig-Fluss und verbindet die Geschäftsviertel BGC und Ortigas direkt miteinander.",
                   "category": "landmark",
                   "coords": [
                         121.054873,
                         14.566112
-                  ]
-            },
-            {
-                  "name": "UMak Laudato Si’",
-                  "text": "Dieser von der Umweltenzyklika des Papstes Franziskus inspirierte Universitätsgarten dient als grüne Oase der Ruhe und Besinnung.",
-                  "category": "park",
-                  "coords": [
-                        121.057088,
-                        14.563026
-                  ]
-            },
-            {
-                  "name": "Salcedo Park",
-                  "text": "Dieser von schattigen Bäumen gesäumte Stadtpark ist vor allem als Austragungsort für seinen belebten, wöchentlichen Bauernmarkt bekannt.",
-                  "category": "park",
-                  "coords": [
-                        121.023082,
-                        14.560075
-                  ]
-            },
-            {
-                  "name": "Taguig People's Park",
-                  "text": "Mit seinen offenen Grünflächen und Freizeitpavillons dient dieser weitläufige öffentliche Park als zentraler Treffpunkt der Gemeinde.",
-                  "category": "park",
-                  "coords": [
-                        121.055854,
-                        14.564904
-                  ]
-            },
-            {
-                  "name": "Museo ng Makati",
-                  "text": "Dieses in den Räumlichkeiten des alten Rathauses untergebrachte Museum präsentiert die historische und kulturelle Entwicklung von Makati.",
-                  "category": "museum",
-                  "coords": [
-                        121.032892,
-                        14.567374
                   ]
             },
             {
@@ -3866,15 +3668,6 @@ image: "/poi-images/ph-toledo-kupfermine-economic-v2.webp",
                   "coords": [
                         121.056224,
                         14.549598
-                  ]
-            },
-            {
-                  "name": "Pineapple Lab",
-                  "text": "Diese kreative Kunstgalerie dient als dynamischer Knotenpunkt für zeitgenössische Ausstellungen und unabhängige lokale Kulturveranstaltungen.",
-                  "category": "museum",
-                  "coords": [
-                        121.034529,
-                        14.565221
                   ]
             },
             {
@@ -3905,66 +3698,12 @@ image: "/poi-images/ph-toledo-kupfermine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Dr. Jose P. Rizal Monument",
-                  "text": "Diese hoch aufragende steinerne Statue ehrt das Leben und Vermächtnis des philippinischen Nationalhelden Dr. Jose P. Rizal.",
-                  "category": "historical",
-                  "coords": [
-                        121.026014,
-                        14.569423
-                  ]
-            },
-            {
-                  "name": "Cu-Unjiemg Heritage House",
-                  "text": "Dieses als historisches Erbe erhaltene alte Herrenhaus besticht durch seine traditionelle philippinische Holz- und Steinarchitektur.",
-                  "category": "fortress",
-                  "coords": [
-                        121.031283,
-                        14.56928
-                  ]
-            },
-            {
-                  "name": "First Rizal Provincial Capitol Building",
-                  "text": "Die im Jahr 1901 errichteten Ruinen dieses Regierungsgebäudes markieren den ursprünglichen architektonischen Sitz der Provinzverwaltung von Rizal.",
-                  "category": "historical",
-                  "coords": [
-                        121.071768,
-                        14.556945
-                  ]
-            },
-            {
-                  "name": "UMak Performing Arts Theater",
-                  "text": "Dieses moderne Zentrum für darstellende Künste auf dem Universitätscampus verfügt über eine breite Bühne für studentische Theateraufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        121.055972,
-                        14.562754
-                  ]
-            },
-            {
                   "name": "Sun Life Amphitheater",
                   "text": "Dieses terrassenförmig angelegte Freilufttheater bietet eine hervorragende Akustik für musikalische Auftritte unter dem Sternenhimmel.",
                   "category": "cultural",
                   "coords": [
                         121.048902,
                         14.548066
-                  ]
-            },
-            {
-                  "name": "Taguig People's Park Ampitheater",
-                  "text": "Diese in das Grün des öffentlichen Parks integrierte Freilichtbühne dient als lebendiger Treffpunkt für lokale Freiluftfestivals.",
-                  "category": "cultural",
-                  "coords": [
-                        121.058091,
-                        14.564282
-                  ]
-            },
-            {
-                  "name": "Tanghalang Pasigueño",
-                  "text": "Dieser große, vollklimatisierte Theatersaal ist die Hauptspielstätte für städtische Zeremonien und künstlerische Darbietungen in Pasig.",
-                  "category": "cultural",
-                  "coords": [
-                        121.082794,
-                        14.558991
                   ]
             },
             {
@@ -4024,48 +3763,12 @@ image: "/poi-images/ph-toledo-kupfermine-economic-v2.webp",
       ],
       "hu": [
             {
-                  "name": "Ayala Museum",
-                  "text": "Ez a hatemeletes intézmény kiterjedt régészeti leleteknek és a Fülöp-szigetek történelmét részletező bonyolult diorámáknak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        121.023245,
-                        14.553583
-                  ]
-            },
-            {
                   "name": "The Mind Museum",
                   "text": "Az alapvető tudományos elveket feltáró modern létesítmény több mint 250 interaktív kiállítást mutat be az életről, a Földről és az univerzumról.",
                   "category": "museum",
                   "coords": [
                         121.045503,
                         14.552031
-                  ]
-            },
-            {
-                  "name": "Pasig City Museum",
-                  "text": "A történelmi Concepcion-kúriában helyet kapó múzeum Pasig City helytörténetét és kulturális örökségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        121.076284,
-                        14.560995
-                  ]
-            },
-            {
-                  "name": "St. Andrew The Apostle Parish Church",
-                  "text": "A Leandro Locsin nemzeti művész által tervezett templom jellegzetes, sátorszerű szerkezetével hívja fel magára a figyelmet.",
-                  "category": "religious",
-                  "coords": [
-                        121.023723,
-                        14.566084
-                  ]
-            },
-            {
-                  "name": "Saints Peter and Paul Parish Church",
-                  "text": "A Makati legrégebbi templomaként ismert épület a spanyol gyarmati építészet lenyűgöző példája.",
-                  "category": "religious",
-                  "coords": [
-                        121.03137,
-                        14.565912
                   ]
             },
             {
@@ -4087,66 +3790,12 @@ image: "/poi-images/ph-toledo-kupfermine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Pasig Cathedral",
-                  "text": "A Szeplőtelen Fogantatás katedrálisaként is ismert kő harangtornyos templom a város egyik legrégebbi építménye.",
-                  "category": "religious",
-                  "coords": [
-                        121.077437,
-                        14.560402
-                  ]
-            },
-            {
-                  "name": "Estrella-Pantaleon Bridge",
-                  "text": "Ez a 2021 júliusában átadott modern ívhíd a Pasig-folyón átívelve köti össze Makati és Mandaluyong városát.",
-                  "category": "landmark",
-                  "coords": [
-                        121.03766,
-                        14.566831
-                  ]
-            },
-            {
                   "name": "Santa Monica–Lawton Bridge",
                   "text": "A 2021-ben megnyitott közúti híd a Pasig-folyót keresztezve köti össze a BGC és az Ortigas üzleti negyedeket.",
                   "category": "landmark",
                   "coords": [
                         121.054873,
                         14.566112
-                  ]
-            },
-            {
-                  "name": "UMak Laudato Si’",
-                  "text": "A Ferenc pápa környezetvédelmi enciklikája által ihletett egyetemi kert a béke és az elmélkedés zöld oázisaként szolgál.",
-                  "category": "park",
-                  "coords": [
-                        121.057088,
-                        14.563026
-                  ]
-            },
-            {
-                  "name": "Salcedo Park",
-                  "text": "Ez az árnyékos fákkal szegélyezett városi park leginkább a hétvégi nyüzsgő termelői piacáról ismert.",
-                  "category": "park",
-                  "coords": [
-                        121.023082,
-                        14.560075
-                  ]
-            },
-            {
-                  "name": "Taguig People's Park",
-                  "text": "A nyitott zöldterületekkel és szabadidős pavilonokkal rendelkező tágas közpark a helyi közösség kedvelt találkozóhelye.",
-                  "category": "park",
-                  "coords": [
-                        121.055854,
-                        14.564904
-                  ]
-            },
-            {
-                  "name": "Museo ng Makati",
-                  "text": "A régi városháza épületében működő múzeum Makati történelmi és kulturális fejlődését mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        121.032892,
-                        14.567374
                   ]
             },
             {
@@ -4165,15 +3814,6 @@ image: "/poi-images/ph-toledo-kupfermine-economic-v2.webp",
                   "coords": [
                         121.056224,
                         14.549598
-                  ]
-            },
-            {
-                  "name": "Pineapple Lab",
-                  "text": "Ez a kreatív művészeti galéria a kortárs kiállítások és független helyi kulturális események dinamikus központjaként szolgál.",
-                  "category": "museum",
-                  "coords": [
-                        121.034529,
-                        14.565221
                   ]
             },
             {
@@ -4204,66 +3844,12 @@ image: "/poi-images/ph-toledo-kupfermine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Dr. Jose P. Rizal Monument",
-                  "text": "Ez a magasba tornyosuló kőszobor a Fülöp-szigeteki nemzeti hős, Dr. Jose P. Rizal élete és öröksége előtt tiszteleg.",
-                  "category": "historical",
-                  "coords": [
-                        121.026014,
-                        14.569423
-                  ]
-            },
-            {
-                  "name": "Cu-Unjiemg Heritage House",
-                  "text": "Ez a történelmi örökségként megőrzött régi kúria a hagyományos Fülöp-szigeteki fa- és kőépítészet gyönyörű példája.",
-                  "category": "fortress",
-                  "coords": [
-                        121.031283,
-                        14.56928
-                  ]
-            },
-            {
-                  "name": "First Rizal Provincial Capitol Building",
-                  "text": "Az 1901-ben épült egykori kormányzati épület romjai a Rizal tartományi adminisztráció eredeti építészeti székhelyét jelölik.",
-                  "category": "historical",
-                  "coords": [
-                        121.071768,
-                        14.556945
-                  ]
-            },
-            {
-                  "name": "UMak Performing Arts Theater",
-                  "text": "Az egyetemi kampuszon található modern előadó-művészeti központ széles színpaddal várja a hallgatói színházi produkciókat.",
-                  "category": "cultural",
-                  "coords": [
-                        121.055972,
-                        14.562754
-                  ]
-            },
-            {
                   "name": "Sun Life Amphitheater",
                   "text": "A teraszos kialakítású szabadtéri amfiteátrum kiváló akusztikát biztosít a csillagos ég alatti zenei fellépésekhez.",
                   "category": "cultural",
                   "coords": [
                         121.048902,
                         14.548066
-                  ]
-            },
-            {
-                  "name": "Taguig People's Park Ampitheater",
-                  "text": "A közpark zöldjébe illeszkedő szabadtéri színpad a helyi szabadtéri fesztiválok és közösségi események nyüzsgő központja.",
-                  "category": "cultural",
-                  "coords": [
-                        121.058091,
-                        14.564282
-                  ]
-            },
-            {
-                  "name": "Tanghalang Pasigueño",
-                  "text": "Ez a tágas, teljesen légkondicionált színházterem a városi ünnepségek és művészeti előadások legfőbb helyszíne Pasigban.",
-                  "category": "cultural",
-                  "coords": [
-                        121.082794,
-                        14.558991
                   ]
             },
             {
@@ -4323,48 +3909,12 @@ image: "/poi-images/ph-toledo-kupfermine-economic-v2.webp",
       ],
       "ro": [
             {
-                  "name": "Ayala Museum",
-                  "text": "Această instituție cu șase etaje găzduiește artefacte arheologice extinse și diorame complicate care detaliază istoria Filipinelor.",
-                  "category": "museum",
-                  "coords": [
-                        121.023245,
-                        14.553583
-                  ]
-            },
-            {
                   "name": "The Mind Museum",
                   "text": "Explorând principii științifice fundamentale, această facilitate modernă prezintă peste 250 de exponate interactive care acoperă viața, pământul și universul.",
                   "category": "museum",
                   "coords": [
                         121.045503,
                         14.552031
-                  ]
-            },
-            {
-                  "name": "Pasig City Museum",
-                  "text": "Găzduit în conacul istoric Concepcion, acest muzeu prezintă istoria locală și moștenirea culturală a orașului Pasig.",
-                  "category": "museum",
-                  "coords": [
-                        121.076284,
-                        14.560995
-                  ]
-            },
-            {
-                  "name": "St. Andrew The Apostle Parish Church",
-                  "text": "Proiectată de artistul național Leandro Locsin, această biserică se distinge prin structura sa remarcabilă asemănătoare unui cort.",
-                  "category": "religious",
-                  "coords": [
-                        121.023723,
-                        14.566084
-                  ]
-            },
-            {
-                  "name": "Saints Peter and Paul Parish Church",
-                  "text": "Cunoscută drept cea mai veche biserică din Makati, această clădire prezintă o impresionantă arhitectură colonială spaniolă.",
-                  "category": "religious",
-                  "coords": [
-                        121.03137,
-                        14.565912
                   ]
             },
             {
@@ -4386,66 +3936,12 @@ image: "/poi-images/ph-toledo-kupfermine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Pasig Cathedral",
-                  "text": "Cunoscută și sub numele de Catedrala Imaculatei Concepții, această biserică cu turnul ei din piatră este una dintre cele mai vechi structuri din oraș.",
-                  "category": "religious",
-                  "coords": [
-                        121.077437,
-                        14.560402
-                  ]
-            },
-            {
-                  "name": "Estrella-Pantaleon Bridge",
-                  "text": "Deschis în iulie 2021, acest pod modern în arc traversează râul Pasig și face legătura între Makati și Mandaluyong.",
-                  "category": "landmark",
-                  "coords": [
-                        121.03766,
-                        14.566831
-                  ]
-            },
-            {
                   "name": "Santa Monica–Lawton Bridge",
                   "text": "Deschis în 2021, acest pod rutier traversează râul Pasig pentru a lega direct districtele de afaceri BGC și Ortigas.",
                   "category": "landmark",
                   "coords": [
                         121.054873,
                         14.566112
-                  ]
-            },
-            {
-                  "name": "UMak Laudato Si’",
-                  "text": "Inspirată de enciclica papală a Papei Francisc privind mediul, această grădină universitară servește ca o oază verde de liniște.",
-                  "category": "park",
-                  "coords": [
-                        121.057088,
-                        14.563026
-                  ]
-            },
-            {
-                  "name": "Salcedo Park",
-                  "text": "Acest parc urban mărginit de copaci umbroși este renumit în special ca loc de desfășurare a pieței sale agricole săptămânale.",
-                  "category": "park",
-                  "coords": [
-                        121.023082,
-                        14.560075
-                  ]
-            },
-            {
-                  "name": "Taguig People's Park",
-                  "text": "Având spații verzi deschise și pavilioane de agrement, acest parc public spațios servește drept loc central de întâlnire pentru comunitate.",
-                  "category": "park",
-                  "coords": [
-                        121.055854,
-                        14.564904
-                  ]
-            },
-            {
-                  "name": "Museo ng Makati",
-                  "text": "Găzduit în clădirea vechii primării, acest muzeu prezintă evoluția istorică și culturală a orașului Makati.",
-                  "category": "museum",
-                  "coords": [
-                        121.032892,
-                        14.567374
                   ]
             },
             {
@@ -4464,15 +3960,6 @@ image: "/poi-images/ph-toledo-kupfermine-economic-v2.webp",
                   "coords": [
                         121.056224,
                         14.549598
-                  ]
-            },
-            {
-                  "name": "Pineapple Lab",
-                  "text": "Această galerie de artă creativă servește drept centru dinamic pentru expoziții contemporane și evenimente culturale locale independente.",
-                  "category": "museum",
-                  "coords": [
-                        121.034529,
-                        14.565221
                   ]
             },
             {
@@ -4503,66 +3990,12 @@ image: "/poi-images/ph-toledo-kupfermine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Dr. Jose P. Rizal Monument",
-                  "text": "Această statuie falnică din piatră onorează viața și moștenirea eroului național filipinez Dr. Jose P. Rizal.",
-                  "category": "historical",
-                  "coords": [
-                        121.026014,
-                        14.569423
-                  ]
-            },
-            {
-                  "name": "Cu-Unjiemg Heritage House",
-                  "text": "Păstrată ca patrimoniu istoric, această casă de epocă impresionează prin arhitectura sa tradițională din lemn și piatră.",
-                  "category": "fortress",
-                  "coords": [
-                        121.031283,
-                        14.56928
-                  ]
-            },
-            {
-                  "name": "First Rizal Provincial Capitol Building",
-                  "text": "Construite în 1901, ruinele acestei clădiri guvernamentale marchează sediul arhitectural original al administrației provinciale din Rizal.",
-                  "category": "historical",
-                  "coords": [
-                        121.071768,
-                        14.556945
-                  ]
-            },
-            {
-                  "name": "UMak Performing Arts Theater",
-                  "text": "Situat în campusul universitar, acest centru modern de arte spectacolului dispune de o scenă largă pentru producții teatrale studențești.",
-                  "category": "cultural",
-                  "coords": [
-                        121.055972,
-                        14.562754
-                  ]
-            },
-            {
                   "name": "Sun Life Amphitheater",
                   "text": "Acest amfiteatru în aer liber, cu terase în trepte, oferă o acustică excelentă pentru spectacole muzicale sub cerul înstelat.",
                   "category": "cultural",
                   "coords": [
                         121.048902,
                         14.548066
-                  ]
-            },
-            {
-                  "name": "Taguig People's Park Ampitheater",
-                  "text": "Integrată în verdeața parcului public, această scenă în aer liber servește ca un punct de întâlnire animat pentru festivalurile locale.",
-                  "category": "cultural",
-                  "coords": [
-                        121.058091,
-                        14.564282
-                  ]
-            },
-            {
-                  "name": "Tanghalang Pasigueño",
-                  "text": "Această sală mare de teatru, complet climatizată, este principalul loc de desfășurare a ceremoniilor urbane și a spectacolelor artistice în Pasig.",
-                  "category": "cultural",
-                  "coords": [
-                        121.082794,
-                        14.558991
                   ]
             },
             {
@@ -4622,48 +4055,12 @@ image: "/poi-images/ph-toledo-kupfermine-economic-v2.webp",
       ],
       "en": [
             {
-                  "name": "Ayala Museum",
-                  "text": "This six-storey institution houses extensive archaeological artifacts and intricate dioramas detailing Philippine history.",
-                  "category": "museum",
-                  "coords": [
-                        121.023245,
-                        14.553583
-                  ]
-            },
-            {
                   "name": "The Mind Museum",
                   "text": "Exploring fundamental scientific principles, this modern facility features over 250 interactive exhibits spanning life, earth, and the universe.",
                   "category": "museum",
                   "coords": [
                         121.045503,
                         14.552031
-                  ]
-            },
-            {
-                  "name": "Pasig City Museum",
-                  "text": "Housed in the historic Concepcion Mansion, this museum traces the local history and cultural heritage of Pasig City.",
-                  "category": "museum",
-                  "coords": [
-                        121.076284,
-                        14.560995
-                  ]
-            },
-            {
-                  "name": "St. Andrew The Apostle Parish Church",
-                  "text": "Designed by National Artist Leandro Locsin, this striking church features a distinctive tent-like structure.",
-                  "category": "religious",
-                  "coords": [
-                        121.023723,
-                        14.566084
-                  ]
-            },
-            {
-                  "name": "Saints Peter and Paul Parish Church",
-                  "text": "Known as the oldest church in Makati, this historic sanctuary features impressive Spanish colonial architecture.",
-                  "category": "religious",
-                  "coords": [
-                        121.03137,
-                        14.565912
                   ]
             },
             {
@@ -4685,66 +4082,12 @@ image: "/poi-images/ph-toledo-kupfermine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Pasig Cathedral",
-                  "text": "Also known as the Immaculate Conception Cathedral, this historic church with its stone bell tower is one of the oldest surviving structures in the city.",
-                  "category": "religious",
-                  "coords": [
-                        121.077437,
-                        14.560402
-                  ]
-            },
-            {
-                  "name": "Estrella-Pantaleon Bridge",
-                  "text": "Opened in July 2021, this modern arch bridge spans the Pasig River to connect Makati with Mandaluyong.",
-                  "category": "landmark",
-                  "coords": [
-                        121.03766,
-                        14.566831
-                  ]
-            },
-            {
                   "name": "Santa Monica–Lawton Bridge",
                   "text": "Opened in 2021, this road bridge crosses the Pasig River to directly link the BGC and Ortigas business districts.",
                   "category": "landmark",
                   "coords": [
                         121.054873,
                         14.566112
-                  ]
-            },
-            {
-                  "name": "UMak Laudato Si’",
-                  "text": "Inspired by Pope Francis' encyclical on the environment, this university garden serves as a green oasis for peace and reflection.",
-                  "category": "park",
-                  "coords": [
-                        121.057088,
-                        14.563026
-                  ]
-            },
-            {
-                  "name": "Salcedo Park",
-                  "text": "Lined with shady trees, this urban park is best known for hosting a bustling weekend farmers' market.",
-                  "category": "park",
-                  "coords": [
-                        121.023082,
-                        14.560075
-                  ]
-            },
-            {
-                  "name": "Taguig People's Park",
-                  "text": "Featuring open green spaces and recreational pavilions, this spacious public park serves as a central community gathering spot.",
-                  "category": "park",
-                  "coords": [
-                        121.055854,
-                        14.564904
-                  ]
-            },
-            {
-                  "name": "Museo ng Makati",
-                  "text": "Housed in the old town hall building, this museum showcases the historical and cultural evolution of Makati.",
-                  "category": "museum",
-                  "coords": [
-                        121.032892,
-                        14.567374
                   ]
             },
             {
@@ -4763,15 +4106,6 @@ image: "/poi-images/ph-toledo-kupfermine-economic-v2.webp",
                   "coords": [
                         121.056224,
                         14.549598
-                  ]
-            },
-            {
-                  "name": "Pineapple Lab",
-                  "text": "This creative art gallery serves as a dynamic hub for contemporary exhibitions and independent local cultural performances.",
-                  "category": "museum",
-                  "coords": [
-                        121.034529,
-                        14.565221
                   ]
             },
             {
@@ -4802,66 +4136,12 @@ image: "/poi-images/ph-toledo-kupfermine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Dr. Jose P. Rizal Monument",
-                  "text": "This towering stone monument honors the life, works, and legacy of the Philippine national hero, Dr. Jose P. Rizal.",
-                  "category": "historical",
-                  "coords": [
-                        121.026014,
-                        14.569423
-                  ]
-            },
-            {
-                  "name": "Cu-Unjiemg Heritage House",
-                  "text": "Preserved as a historical heritage site, this ancestral house features traditional Philippine wood and stone architecture.",
-                  "category": "fortress",
-                  "coords": [
-                        121.031283,
-                        14.56928
-                  ]
-            },
-            {
-                  "name": "First Rizal Provincial Capitol Building",
-                  "text": "Constructed in 1901, the ruins of this government building mark the original architectural seat of the Rizal provincial administration.",
-                  "category": "historical",
-                  "coords": [
-                        121.071768,
-                        14.556945
-                  ]
-            },
-            {
-                  "name": "UMak Performing Arts Theater",
-                  "text": "Located within the university campus, this modern performing arts center features a broad stage for student theatrical productions.",
-                  "category": "cultural",
-                  "coords": [
-                        121.055972,
-                        14.562754
-                  ]
-            },
-            {
                   "name": "Sun Life Amphitheater",
                   "text": "Designed with terraced seating, this open-air amphitheater provides excellent acoustics for musical performances under the stars.",
                   "category": "cultural",
                   "coords": [
                         121.048902,
                         14.548066
-                  ]
-            },
-            {
-                  "name": "Taguig People's Park Ampitheater",
-                  "text": "Integrated into the greenery of the public park, this open-air stage serves as a lively gathering space for local outdoor festivals.",
-                  "category": "cultural",
-                  "coords": [
-                        121.058091,
-                        14.564282
-                  ]
-            },
-            {
-                  "name": "Tanghalang Pasigueño",
-                  "text": "This grand, fully air-conditioned theater serves as the premier venue for municipal ceremonies and artistic performances in Pasig.",
-                  "category": "cultural",
-                  "coords": [
-                        121.082794,
-                        14.558991
                   ]
             },
             {
@@ -7797,24 +7077,6 @@ image: "/poi-images/ph-tampakan-kupfer-gold-mine-economic-v2.webp",
     id: "ph-filinvest-city-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Parish of the Five Wounds of Our Lord Jesus Christ",
-                  "text": "Diese als Schrein der Fünf Wunden bekannte katholische Pfarrkirche dient als bedeutender Wallfahrtsort für Gläubige, die über die Passion Christi meditieren.",
-                  "category": "religious",
-                  "coords": [
-                        121.002106,
-                        14.438856
-                  ]
-            },
-            {
-                  "name": "Mary Immaculate Parish Church",
-                  "text": "Dieses allgemein als Naturkirche bekannte katholische Freiluftheiligtum integriert Tausende von Capiz-Muscheln in sein einzigartiges, organisches Dachdesign.",
-                  "category": "religious",
-                  "coords": [
-                        120.998949,
-                        14.425899
-                  ]
-            },
-            {
                   "name": "Art Lounge Manila",
                   "text": "Die Art Lounge Manila ist eine Kunstgalerie, die Ausstellungen zeitgenössischer bildender Kunst in der Gegend von Filinvest City bietet.",
                   "category": "museum",
@@ -7824,30 +7086,12 @@ image: "/poi-images/ph-tampakan-kupfer-gold-mine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Museo ng Muntinlupa",
-                  "text": "Das Museo ng Muntinlupa ist ein lokales Museum, das die historischen Artefakte und das kulturelle Erbe der Stadt in seinen Ausstellungsräumen präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        121.046421,
-                        14.38779
-                  ]
-            },
-            {
                   "name": "Arc",
                   "text": "Arc ist eine archäologische Stätte, die antike bauliche Überreste und historische Spuren innerhalb der modernen Stadtgrenzen bewahrt.",
                   "category": "historical",
                   "coords": [
                         121.056326,
                         14.466873
-                  ]
-            },
-            {
-                  "name": "Meditation Tower",
-                  "text": "Der Meditation Tower ist ein hohes monumentales Bauwerk, das als ruhiger, vertikaler Ort der Besinnung dient.",
-                  "category": "historical",
-                  "coords": [
-                        121.022652,
-                        14.45614
                   ]
             },
             {
@@ -8141,24 +7385,6 @@ image: "/poi-images/ph-tampakan-kupfer-gold-mine-economic-v2.webp",
       ],
       "hu": [
             {
-                  "name": "Parish of the Five Wounds of Our Lord Jesus Christ",
-                  "text": "Az Öt Szent Seb Kegyhelyeként elismert katolikus plébániatemplom jelentős zarándokhely a Krisztus szenvedésein elmélkedő hívek számára.",
-                  "category": "religious",
-                  "coords": [
-                        121.002106,
-                        14.438856
-                  ]
-            },
-            {
-                  "name": "Mary Immaculate Parish Church",
-                  "text": "A népnyelvben Természet Templomaként ismert, nyitott katolikus szentély egyedi, organikus tetőszerkezetébe több ezer Capiz-kagylót építettek be.",
-                  "category": "religious",
-                  "coords": [
-                        120.998949,
-                        14.425899
-                  ]
-            },
-            {
                   "name": "Art Lounge Manila",
                   "text": "Az Art Lounge Manila egy művészeti galéria, amely kortárs vizuális művészeti kiállításokat kínál a Filinvest City területén.",
                   "category": "museum",
@@ -8168,30 +7394,12 @@ image: "/poi-images/ph-tampakan-kupfer-gold-mine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Museo ng Muntinlupa",
-                  "text": "A Museo ng Muntinlupa egy helyi múzeum, amely a város történelmi tárgyait és kulturális örökségét mutatja be kiállítótermeiben.",
-                  "category": "museum",
-                  "coords": [
-                        121.046421,
-                        14.38779
-                  ]
-            },
-            {
                   "name": "Arc",
                   "text": "Az Arc egy régészeti lelőhely, amely ősi szerkezeti maradványokat és történelmi nyomokat őriz a modern városhatárokon belül.",
                   "category": "historical",
                   "coords": [
                         121.056326,
                         14.466873
-                  ]
-            },
-            {
-                  "name": "Meditation Tower",
-                  "text": "A Meditation Tower egy magas monumentális építmény, amely a csendes, vertikális elmélkedés központjaként szolgál.",
-                  "category": "historical",
-                  "coords": [
-                        121.022652,
-                        14.45614
                   ]
             },
             {
@@ -8485,24 +7693,6 @@ image: "/poi-images/ph-tampakan-kupfer-gold-mine-economic-v2.webp",
       ],
       "ro": [
             {
-                  "name": "Parish of the Five Wounds of Our Lord Jesus Christ",
-                  "text": "Recunoscută ca Altarul celor Cinci Răni, această biserică parohială catolică servește ca un important loc de pelerinaj pentru credincioșii care reflectează asupra Patimilor lui Hristos.",
-                  "category": "religious",
-                  "coords": [
-                        121.002106,
-                        14.438856
-                  ]
-            },
-            {
-                  "name": "Mary Immaculate Parish Church",
-                  "text": "Cunoscut popular sub numele de Biserica Naturii, acest sanctuar catolic în aer liber încorporează mii de scoici Capiz în designul unic și organic al acoperișului său.",
-                  "category": "religious",
-                  "coords": [
-                        120.998949,
-                        14.425899
-                  ]
-            },
-            {
                   "name": "Art Lounge Manila",
                   "text": "Art Lounge Manila este o galerie de artă care găzduiește expoziții de artă vizuală contemporană în zona Filinvest City.",
                   "category": "museum",
@@ -8512,30 +7702,12 @@ image: "/poi-images/ph-tampakan-kupfer-gold-mine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Museo ng Muntinlupa",
-                  "text": "Museo ng Muntinlupa este un muzeu local care prezintă artefactele istorice și patrimoniul cultural al orașului în sălile sale de expoziție.",
-                  "category": "museum",
-                  "coords": [
-                        121.046421,
-                        14.38779
-                  ]
-            },
-            {
                   "name": "Arc",
                   "text": "Arc este un sit arheologic care conservă rămășițe structurale antice și urme istorice în interiorul granițelor moderne ale orașului.",
                   "category": "historical",
                   "coords": [
                         121.056326,
                         14.466873
-                  ]
-            },
-            {
-                  "name": "Meditation Tower",
-                  "text": "Meditation Tower este o structură monumentală înaltă care servește ca un punct focal vertical și liniștit pentru reflecție.",
-                  "category": "historical",
-                  "coords": [
-                        121.022652,
-                        14.45614
                   ]
             },
             {
@@ -8829,24 +8001,6 @@ image: "/poi-images/ph-tampakan-kupfer-gold-mine-economic-v2.webp",
       ],
       "en": [
             {
-                  "name": "Parish of the Five Wounds of Our Lord Jesus Christ",
-                  "text": "Recognized as the Shrine of the Five Wounds, this Catholic parish church serves as a significant pilgrimage site for devotees reflecting on the Passion of Christ.",
-                  "category": "religious",
-                  "coords": [
-                        121.002106,
-                        14.438856
-                  ]
-            },
-            {
-                  "name": "Mary Immaculate Parish Church",
-                  "text": "Popularly known as the Nature Church, this open-air Catholic sanctuary incorporates thousands of Capiz shells into its unique, organic roof design.",
-                  "category": "religious",
-                  "coords": [
-                        120.998949,
-                        14.425899
-                  ]
-            },
-            {
                   "name": "Art Lounge Manila",
                   "text": "Art Lounge Manila is an art gallery offering exhibitions of contemporary visual arts in the Filinvest City area.",
                   "category": "museum",
@@ -8856,30 +8010,12 @@ image: "/poi-images/ph-tampakan-kupfer-gold-mine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Museo ng Muntinlupa",
-                  "text": "Museo ng Muntinlupa is a local museum showcasing the city's historical artifacts and cultural heritage within its exhibition halls.",
-                  "category": "museum",
-                  "coords": [
-                        121.046421,
-                        14.38779
-                  ]
-            },
-            {
                   "name": "Arc",
                   "text": "Arc is an archaeological site preserving ancient structural remnants and historical traces within the modern city limits.",
                   "category": "historical",
                   "coords": [
                         121.056326,
                         14.466873
-                  ]
-            },
-            {
-                  "name": "Meditation Tower",
-                  "text": "The Meditation Tower is a tall monumental structure serving as a quiet, vertical focal point for reflection.",
-                  "category": "historical",
-                  "coords": [
-                        121.022652,
-                        14.45614
                   ]
             },
             {
@@ -9238,39 +8374,12 @@ image: "/poi-images/ph-filinvest-city-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Nationalista Party Museum",
-                  "text": "Dieses Museum stellt politische Erinnerungsstücke und historische Dokumente mit Bezug zur Nacionalista Party aus.",
-                  "category": "museum",
-                  "coords": [
-                        121.045386,
-                        14.588229
-                  ]
-            },
-            {
                   "name": "Meralco Museum",
                   "text": "Die Exponate in diesem Unternehmensmuseum dokumentieren die Geschichte und die technologische Entwicklung des wichtigsten Stromverteilers des Landes.",
                   "category": "museum",
                   "coords": [
                         121.065995,
                         14.589443
-                  ]
-            },
-            {
-                  "name": "Kapitolyo Art Space",
-                  "text": "Dieser zeitgenössische Galerieraum zeigt wechselnde Ausstellungen aufstrebender lokaler Künstler.",
-                  "category": "museum",
-                  "coords": [
-                        121.060488,
-                        14.571977
-                  ]
-            },
-            {
-                  "name": "Kaban ng Hiyas",
-                  "text": "Dieses lokale Museum beherbergt kulturelle Artefakte und historische Gegenstände, die das Erbe der Stadt repräsentieren.",
-                  "category": "museum",
-                  "coords": [
-                        121.033957,
-                        14.57812
                   ]
             },
             {
@@ -9361,24 +8470,6 @@ image: "/poi-images/ph-filinvest-city-economic-v2.webp",
                   "coords": [
                         121.036588,
                         14.58102
-                  ]
-            },
-            {
-                  "name": "400 busilak st. Barangay barangka drive",
-                  "text": "Der Ort in der 400 Busilak St., Barangay Barangka Drive dient als lokale Attraktion auf Straßenebene in dem Wohnviertel.",
-                  "category": "landmark",
-                  "coords": [
-                        121.039972,
-                        14.574187
-                  ]
-            },
-            {
-                  "name": "Ugong Covered Court",
-                  "text": "Der Ugong Covered Court ist ein überdachter lokaler Sportplatz, der einen geschützten Raum für Gemeinschaftssport und Versammlungen bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        121.078571,
-                        14.578962
                   ]
             },
             {
@@ -9564,39 +8655,12 @@ image: "/poi-images/ph-filinvest-city-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Nationalista Party Museum",
-                  "text": "Ez a múzeum a Nacionalista Párthoz kapcsolódó politikai emléktárgyakat és történelmi dokumentumokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        121.045386,
-                        14.588229
-                  ]
-            },
-            {
                   "name": "Meralco Museum",
                   "text": "Ebben a vállalati múzeumban a kiállítások az ország legnagyobb áramszolgáltatójának történetét és technológiai fejlődését mutatják be.",
                   "category": "museum",
                   "coords": [
                         121.065995,
                         14.589443
-                  ]
-            },
-            {
-                  "name": "Kapitolyo Art Space",
-                  "text": "Ez a kortárs galériatér feltörekvő helyi művészek időszaki kiállításait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        121.060488,
-                        14.571977
-                  ]
-            },
-            {
-                  "name": "Kaban ng Hiyas",
-                  "text": "Ez a helyi múzeum a város örökségét képviselő kulturális tárgyaknak és történelmi emlékeknek ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        121.033957,
-                        14.57812
                   ]
             },
             {
@@ -9687,24 +8751,6 @@ image: "/poi-images/ph-filinvest-city-economic-v2.webp",
                   "coords": [
                         121.036588,
                         14.58102
-                  ]
-            },
-            {
-                  "name": "400 busilak st. Barangay barangka drive",
-                  "text": "A Busilak utca 400. szám alatt, a Barangay Barangka Drive területén található hely egy helyi látványosság, amely a lakóövezetben helyezkedik el.",
-                  "category": "landmark",
-                  "coords": [
-                        121.039972,
-                        14.574187
-                  ]
-            },
-            {
-                  "name": "Ugong Covered Court",
-                  "text": "Az Ugong Covered Court egy fedett helyi sportpálya, amely védett teret biztosít a közösségi sportokhoz és összejövetelekhez.",
-                  "category": "landmark",
-                  "coords": [
-                        121.078571,
-                        14.578962
                   ]
             },
             {
@@ -9890,39 +8936,12 @@ image: "/poi-images/ph-filinvest-city-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Nationalista Party Museum",
-                  "text": "Acest muzeu expune suveniruri politice și documente istorice legate de Partidul Nacionalista.",
-                  "category": "museum",
-                  "coords": [
-                        121.045386,
-                        14.588229
-                  ]
-            },
-            {
                   "name": "Meralco Museum",
                   "text": "Expozițiile din interiorul acestui muzeu corporativ prezintă istoria și evoluția tehnologică a principalului distribuitor de energie electrică din țară.",
                   "category": "museum",
                   "coords": [
                         121.065995,
                         14.589443
-                  ]
-            },
-            {
-                  "name": "Kapitolyo Art Space",
-                  "text": "Acest spațiu de galerie contemporană prezintă expoziții temporare ale artiștilor locali emergenți.",
-                  "category": "museum",
-                  "coords": [
-                        121.060488,
-                        14.571977
-                  ]
-            },
-            {
-                  "name": "Kaban ng Hiyas",
-                  "text": "Acest muzeu local găzduiește artefacte culturale și obiecte istorice care reprezintă patrimoniul orașului.",
-                  "category": "museum",
-                  "coords": [
-                        121.033957,
-                        14.57812
                   ]
             },
             {
@@ -10013,24 +9032,6 @@ image: "/poi-images/ph-filinvest-city-economic-v2.webp",
                   "coords": [
                         121.036588,
                         14.58102
-                  ]
-            },
-            {
-                  "name": "400 busilak st. Barangay barangka drive",
-                  "text": "Locația de la 400 Busilak St., Barangay Barangka Drive servește ca o atracție locală la nivelul străzii, situată în cartierul rezidențial.",
-                  "category": "landmark",
-                  "coords": [
-                        121.039972,
-                        14.574187
-                  ]
-            },
-            {
-                  "name": "Ugong Covered Court",
-                  "text": "Ugong Covered Court este un teren de sport local acoperit care oferă un spațiu protejat pentru sporturi comunitare și adunări.",
-                  "category": "landmark",
-                  "coords": [
-                        121.078571,
-                        14.578962
                   ]
             },
             {
@@ -10216,39 +9217,12 @@ image: "/poi-images/ph-filinvest-city-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Nationalista Party Museum",
-                  "text": "This museum exhibits political memorabilia and historical documents related to the Nacionalista Party.",
-                  "category": "museum",
-                  "coords": [
-                        121.045386,
-                        14.588229
-                  ]
-            },
-            {
                   "name": "Meralco Museum",
                   "text": "Exhibits inside this corporate museum chronicle the history and technological evolution of the country's major power distributor.",
                   "category": "museum",
                   "coords": [
                         121.065995,
                         14.589443
-                  ]
-            },
-            {
-                  "name": "Kapitolyo Art Space",
-                  "text": "This contemporary gallery space showcases rotating exhibitions by emerging local artists.",
-                  "category": "museum",
-                  "coords": [
-                        121.060488,
-                        14.571977
-                  ]
-            },
-            {
-                  "name": "Kaban ng Hiyas",
-                  "text": "This local museum houses cultural artifacts and historical items representing the heritage of the city.",
-                  "category": "museum",
-                  "coords": [
-                        121.033957,
-                        14.57812
                   ]
             },
             {
@@ -10339,24 +9313,6 @@ image: "/poi-images/ph-filinvest-city-economic-v2.webp",
                   "coords": [
                         121.036588,
                         14.58102
-                  ]
-            },
-            {
-                  "name": "400 busilak st. Barangay barangka drive",
-                  "text": "The site at 400 Busilak St., Barangay Barangka Drive serves as a local street-level attraction nestled in the residential neighborhood.",
-                  "category": "landmark",
-                  "coords": [
-                        121.039972,
-                        14.574187
-                  ]
-            },
-            {
-                  "name": "Ugong Covered Court",
-                  "text": "Ugong Covered Court is an enclosed local pitch providing a sheltered space for community sports and gatherings.",
-                  "category": "landmark",
-                  "coords": [
-                        121.078571,
-                        14.578962
                   ]
             },
             {
@@ -10670,33 +9626,6 @@ image: "/poi-images/ph-san-miguel-corporation-complex-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Nuestra Señora de la Paz y Buen Viaje",
-                  "text": "Eine bedeutende Kultstätte in ph-iloilo-hafen-economic-v2, die der katholischen Marienverehrung gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        122.571593,
-                        10.712587
-                  ]
-            },
-            {
-                  "name": "Cathedral of Santa Isabel de Hungría",
-                  "text": "Eine bedeutende Kultstätte in ph-iloilo-hafen-economic-v2, die als zentrale Kathedrale für die lokale Diözese dient.",
-                  "category": "religious",
-                  "coords": [
-                        122.556218,
-                        10.72349
-                  ]
-            },
-            {
-                  "name": "University Church",
-                  "text": "Eine bedeutende Kultstätte auf einem Universitätscampus in ph-iloilo-hafen-economic-v2.",
-                  "category": "religious",
-                  "coords": [
-                        122.547738,
-                        10.729736
-                  ]
-            },
-            {
                   "name": "Super Radyo Iloilo DYSI 1323khz Tower",
                   "text": "Ein bedeutender Sendeturm in ph-iloilo-hafen-economic-v2, der Radiosignale in die Umgebung überträgt.",
                   "category": "tower",
@@ -10733,15 +9662,6 @@ image: "/poi-images/ph-san-miguel-corporation-complex-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Forbes Bridge",
-                  "text": "Eine bedeutende historische Brücke in ph-iloilo-hafen-economic-v2, die verschiedene Bezirke über den lokalen Fluss verbindet.",
-                  "category": "landmark",
-                  "coords": [
-                        122.567653,
-                        10.705724
-                  ]
-            },
-            {
                   "name": "WaterWorld Iloilo",
                   "text": "Eine bedeutende Wasserpark-Attraktion in ph-iloilo-hafen-economic-v2, die Besuchern Rutschen und aquatische Unterhaltung bietet.",
                   "category": "landmark",
@@ -10760,39 +9680,12 @@ image: "/poi-images/ph-san-miguel-corporation-complex-economic-v2.webp",
                   ]
             },
             {
-                  "name": "La Paz District Plaza",
-                  "text": "Ein bedeutender Bezirkspark in ph-iloilo-hafen-economic-v2, der offene Flächen und Freizeiteinrichtungen für die Anwohner bietet.",
-                  "category": "park",
-                  "coords": [
-                        122.570647,
-                        10.711725
-                  ]
-            },
-            {
-                  "name": "Graciano Lopez Jaena Park",
-                  "text": "Ein bedeutender öffentlicher Park in ph-iloilo-hafen-economic-v2, der dem Andenken des berühmten philippinischen Nationalhelden gewidmet ist.",
-                  "category": "park",
-                  "coords": [
-                        122.557314,
-                        10.724384
-                  ]
-            },
-            {
                   "name": "Villa Beach",
                   "text": "Eine bedeutende Sandstrand-Attraktion in ph-iloilo-hafen-economic-v2, die Küstenblicke und gastronomische Einrichtungen direkt am Strand bietet.",
                   "category": "recreational",
                   "coords": [
                         122.513679,
                         10.681021
-                  ]
-            },
-            {
-                  "name": "Gurudwara Sahib Nanak DarbarIloil",
-                  "text": "Eine bedeutende Sikh-Kultstätte in ph-iloilo-hafen-economic-v2, die den spirituellen Bedürfnissen der indischen Expatriate-Gemeinschaft dient.",
-                  "category": "religious",
-                  "coords": [
-                        122.540458,
-                        10.711861
                   ]
             },
             {
@@ -10838,15 +9731,6 @@ image: "/poi-images/ph-san-miguel-corporation-complex-economic-v2.webp",
                   "coords": [
                         122.548824,
                         10.706853
-                  ]
-            },
-            {
-                  "name": "Science XPdition Iloilo",
-                  "text": "Ein interaktives Wissenschaftsmuseum mit lehrreichen Mitmach-Exponaten für neugierige Entdecker jeden Alters.",
-                  "category": "museum",
-                  "coords": [
-                        122.546374,
-                        10.717449
                   ]
             }
       ],
@@ -10933,33 +9817,6 @@ image: "/poi-images/ph-san-miguel-corporation-complex-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Nuestra Señora de la Paz y Buen Viaje",
-                  "text": "Nevezetes istentiszteleti hely a ph-iloilo-hafen-economic-v2 városában, amelyet a katolikus Mária-tiszteletnek szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        122.571593,
-                        10.712587
-                  ]
-            },
-            {
-                  "name": "Cathedral of Santa Isabel de Hungría",
-                  "text": "Nevezetes istentiszteleti hely a ph-iloilo-hafen-economic-v2 városában, amely a helyi egyházmegye központi katedrálisaként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        122.556218,
-                        10.72349
-                  ]
-            },
-            {
-                  "name": "University Church",
-                  "text": "Nevezetes istentiszteleti hely egy egyetemi kampuszon belül a ph-iloilo-hafen-economic-v2 városában.",
-                  "category": "religious",
-                  "coords": [
-                        122.547738,
-                        10.729736
-                  ]
-            },
-            {
                   "name": "Super Radyo Iloilo DYSI 1323khz Tower",
                   "text": "Nevezetes adótorony a ph-iloilo-hafen-economic-v2 városában, amely rádiójeleket sugároz a környező területre.",
                   "category": "tower",
@@ -10996,15 +9853,6 @@ image: "/poi-images/ph-san-miguel-corporation-complex-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Forbes Bridge",
-                  "text": "Nevezetes történelmi híd a ph-iloilo-hafen-economic-v2 városában, amely különböző kerületeket köt össze a helyi folyó felett.",
-                  "category": "landmark",
-                  "coords": [
-                        122.567653,
-                        10.705724
-                  ]
-            },
-            {
                   "name": "WaterWorld Iloilo",
                   "text": "Nevezetes vízi park látványosság a ph-iloilo-hafen-economic-v2 városában, amely csúszdákat és vízi szórakozást kínál a látogatóknak.",
                   "category": "landmark",
@@ -11023,39 +9871,12 @@ image: "/poi-images/ph-san-miguel-corporation-complex-economic-v2.webp",
                   ]
             },
             {
-                  "name": "La Paz District Plaza",
-                  "text": "Nevezetes kerületi park a ph-iloilo-hafen-economic-v2 városában, amely nyitott teret és rekreációs lehetőségeket biztosít a helyi lakosoknak.",
-                  "category": "park",
-                  "coords": [
-                        122.570647,
-                        10.711725
-                  ]
-            },
-            {
-                  "name": "Graciano Lopez Jaena Park",
-                  "text": "Nevezetes nyilvános park a ph-iloilo-hafen-economic-v2 városában, amelyet a híres fülöp-szigeteki nemzeti hős emlékének szenteltek.",
-                  "category": "park",
-                  "coords": [
-                        122.557314,
-                        10.724384
-                  ]
-            },
-            {
                   "name": "Villa Beach",
                   "text": "Nevezetes homokos tengerparti látványosság a ph-iloilo-hafen-economic-v2 városában, amely tengerparti kilátást és vízparti étkezési lehetőségeket kínál.",
                   "category": "recreational",
                   "coords": [
                         122.513679,
                         10.681021
-                  ]
-            },
-            {
-                  "name": "Gurudwara Sahib Nanak DarbarIloil",
-                  "text": "Nevezetes szikh istentiszteleti hely a ph-iloilo-hafen-economic-v2 városában, amely az indiai külföldi közösség spirituális igényeit szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        122.540458,
-                        10.711861
                   ]
             },
             {
@@ -11101,15 +9922,6 @@ image: "/poi-images/ph-san-miguel-corporation-complex-economic-v2.webp",
                   "coords": [
                         122.548824,
                         10.706853
-                  ]
-            },
-            {
-                  "name": "Science XPdition Iloilo",
-                  "text": "Interaktív tudományos múzeum, amelynek gyakorlatias oktatási kiállításai minden korosztályt felfedezésre ösztönöznek.",
-                  "category": "museum",
-                  "coords": [
-                        122.546374,
-                        10.717449
                   ]
             }
       ],
@@ -11196,33 +10008,6 @@ image: "/poi-images/ph-san-miguel-corporation-complex-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Nuestra Señora de la Paz y Buen Viaje",
-                  "text": "Un lăcaș de cult notabil din ph-iloilo-hafen-economic-v2, dedicat devoțiunii catolice mariane.",
-                  "category": "religious",
-                  "coords": [
-                        122.571593,
-                        10.712587
-                  ]
-            },
-            {
-                  "name": "Cathedral of Santa Isabel de Hungría",
-                  "text": "Un lăcaș de cult notabil din ph-iloilo-hafen-economic-v2, care servește drept catedrală centrală pentru dieceza locală.",
-                  "category": "religious",
-                  "coords": [
-                        122.556218,
-                        10.72349
-                  ]
-            },
-            {
-                  "name": "University Church",
-                  "text": "Un lăcaș de cult notabil situat într-un campus universitar din ph-iloilo-hafen-economic-v2.",
-                  "category": "religious",
-                  "coords": [
-                        122.547738,
-                        10.729736
-                  ]
-            },
-            {
                   "name": "Super Radyo Iloilo DYSI 1323khz Tower",
                   "text": "Un turn de difuzare notabil din ph-iloilo-hafen-economic-v2, care transmite semnale radio în zona înconjurătoare.",
                   "category": "tower",
@@ -11259,15 +10044,6 @@ image: "/poi-images/ph-san-miguel-corporation-complex-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Forbes Bridge",
-                  "text": "Un pod istoric notabil din ph-iloilo-hafen-economic-v2, care conectează districte distincte peste râul local.",
-                  "category": "landmark",
-                  "coords": [
-                        122.567653,
-                        10.705724
-                  ]
-            },
-            {
                   "name": "WaterWorld Iloilo",
                   "text": "Un parc acvatic notabil ca atracție în ph-iloilo-hafen-economic-v2, care oferă tobogane și divertisment acvatic pentru vizitatori.",
                   "category": "landmark",
@@ -11286,39 +10062,12 @@ image: "/poi-images/ph-san-miguel-corporation-complex-economic-v2.webp",
                   ]
             },
             {
-                  "name": "La Paz District Plaza",
-                  "text": "Un parc districtual notabil din ph-iloilo-hafen-economic-v2, care oferă spațiu deschis și facilități de recreere pentru locuitorii din zonă.",
-                  "category": "park",
-                  "coords": [
-                        122.570647,
-                        10.711725
-                  ]
-            },
-            {
-                  "name": "Graciano Lopez Jaena Park",
-                  "text": "Un parc public notabil din ph-iloilo-hafen-economic-v2, dedicat memoriei faimosului erou național filipinez.",
-                  "category": "park",
-                  "coords": [
-                        122.557314,
-                        10.724384
-                  ]
-            },
-            {
                   "name": "Villa Beach",
                   "text": "O plajă de nisip notabilă ca atracție în ph-iloilo-hafen-economic-v2, care oferă vederi de coastă și opțiuni de luat masa pe malul mării.",
                   "category": "recreational",
                   "coords": [
                         122.513679,
                         10.681021
-                  ]
-            },
-            {
-                  "name": "Gurudwara Sahib Nanak DarbarIloil",
-                  "text": "Un lăcaș de cult sikh notabil din ph-iloilo-hafen-economic-v2, care servește nevoilor spirituale ale comunității de expatriați indieni.",
-                  "category": "religious",
-                  "coords": [
-                        122.540458,
-                        10.711861
                   ]
             },
             {
@@ -11364,15 +10113,6 @@ image: "/poi-images/ph-san-miguel-corporation-complex-economic-v2.webp",
                   "coords": [
                         122.548824,
                         10.706853
-                  ]
-            },
-            {
-                  "name": "Science XPdition Iloilo",
-                  "text": "Un muzeu interactiv de știință cu exponate educaționale practice, concepute pentru a captiva mințile curioase de toate vârstele.",
-                  "category": "museum",
-                  "coords": [
-                        122.546374,
-                        10.717449
                   ]
             }
       ],
@@ -11459,33 +10199,6 @@ image: "/poi-images/ph-san-miguel-corporation-complex-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Our Lady of Peace and Good Voyage",
-                  "text": "A notable place of worship in ph-iloilo-hafen-economic-v2 dedicated to the Catholic Marian devotion.",
-                  "category": "religious",
-                  "coords": [
-                        122.571593,
-                        10.712587
-                  ]
-            },
-            {
-                  "name": "Cathedral of Santa Isabel de Hungría",
-                  "text": "A notable place of worship in ph-iloilo-hafen-economic-v2 serving as the central cathedral for the local diocese.",
-                  "category": "religious",
-                  "coords": [
-                        122.556218,
-                        10.72349
-                  ]
-            },
-            {
-                  "name": "University Church",
-                  "text": "A notable place of worship located within a university campus in ph-iloilo-hafen-economic-v2.",
-                  "category": "religious",
-                  "coords": [
-                        122.547738,
-                        10.729736
-                  ]
-            },
-            {
                   "name": "Super Radyo Iloilo DYSI 1323khz Tower",
                   "text": "A notable broadcasting tower in ph-iloilo-hafen-economic-v2 transmitting radio signals to the surrounding area.",
                   "category": "tower",
@@ -11522,15 +10235,6 @@ image: "/poi-images/ph-san-miguel-corporation-complex-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Forbes Bridge",
-                  "text": "A notable historic bridge in ph-iloilo-hafen-economic-v2 connecting distinct districts over the local river.",
-                  "category": "landmark",
-                  "coords": [
-                        122.567653,
-                        10.705724
-                  ]
-            },
-            {
                   "name": "WaterWorld Iloilo",
                   "text": "A notable water park attraction in ph-iloilo-hafen-economic-v2 offering slides and aquatic entertainment for visitors.",
                   "category": "landmark",
@@ -11549,39 +10253,12 @@ image: "/poi-images/ph-san-miguel-corporation-complex-economic-v2.webp",
                   ]
             },
             {
-                  "name": "La Paz District Plaza",
-                  "text": "A notable district park in ph-iloilo-hafen-economic-v2 providing open space and recreational facilities for local residents.",
-                  "category": "park",
-                  "coords": [
-                        122.570647,
-                        10.711725
-                  ]
-            },
-            {
-                  "name": "Graciano Lopez Jaena Park",
-                  "text": "A notable public park in ph-iloilo-hafen-economic-v2 dedicated to the memory of the famous Filipino national hero.",
-                  "category": "park",
-                  "coords": [
-                        122.557314,
-                        10.724384
-                  ]
-            },
-            {
                   "name": "Villa Beach",
                   "text": "A notable sandy beach attraction in ph-iloilo-hafen-economic-v2 offering coastal views and beachfront dining options.",
                   "category": "recreational",
                   "coords": [
                         122.513679,
                         10.681021
-                  ]
-            },
-            {
-                  "name": "Nanak Darbar Indian Sikh Temple",
-                  "text": "A notable Sikh place of worship in ph-iloilo-hafen-economic-v2 serving the spiritual needs of the Indian expatriate community.",
-                  "category": "religious",
-                  "coords": [
-                        122.540458,
-                        10.711861
                   ]
             },
             {
@@ -11627,15 +10304,6 @@ image: "/poi-images/ph-san-miguel-corporation-complex-economic-v2.webp",
                   "coords": [
                         122.548824,
                         10.706853
-                  ]
-            },
-            {
-                  "name": "Science XPdition Iloilo",
-                  "text": "An interactive science museum featuring hands-on educational exhibits designed to engage curious minds of all ages.",
-                  "category": "museum",
-                  "coords": [
-                        122.546374,
-                        10.717449
                   ]
             }
       ]
@@ -15929,24 +14597,6 @@ image: "/poi-images/ph-masinloc-chromitmine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "National Shrine of Saint Joseph",
-                  "text": "Eine bekannte katholische Kirche und ein anerkannter nationaler Schrein, der der religiösen Gemeinde in Mandaue dient.",
-                  "category": "religious",
-                  "coords": [
-                        123.942154,
-                        10.327416
-                  ]
-            },
-            {
-                  "name": "Pasil Fish Market",
-                  "text": "Ein großer, geschäftiger Großhandelsmarkt, der in ganz Cebu für seinen umfangreichen Handel mit frisch gefangenen regionalen Meeresfrüchten bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        123.891993,
-                        10.29147
-                  ]
-            },
-            {
                   "name": "Bradford Uniqted Church of Christ in the Philippines",
                   "text": "Ein historisches protestantisches Kapellengebäude, das als wichtiges Gottesdienstzentrum für die lokale Gemeinde der United Church of Christ bekannt ist.",
                   "category": "religious",
@@ -15965,39 +14615,12 @@ image: "/poi-images/ph-masinloc-chromitmine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Fort San Pedro",
-                  "text": "Eine dreieckige historische militärische Verteidigungsanlage, die ursprünglich 1565 von den Spaniern erbaut wurde.",
-                  "category": "landmark",
-                  "coords": [
-                        123.905862,
-                        10.292518
-                  ]
-            },
-            {
                   "name": "National Museum of the Philippines - Cebu",
                   "text": "Ein großes Kulturmuseum, das sich in einem historischen ehemaligen Zollhausgebäude befindet.",
                   "category": "museum",
                   "coords": [
                         123.904402,
                         10.291761
-                  ]
-            },
-            {
-                  "name": "Casa Gorordo Museum",
-                  "text": "Ein erhaltenes Wohnhaus aus dem 19. Jahrhundert, das als Museum für das kulturelle Erbe der Region fungiert.",
-                  "category": "museum",
-                  "coords": [
-                        123.904828,
-                        10.299902
-                  ]
-            },
-            {
-                  "name": "Mandaue Presidencia",
-                  "text": "Ein historisches Rathausgebäude in Mandaue, das seit seiner Erbauung im Jahr 1937 als zentraler Verwaltungssitz fungiert.",
-                  "category": "historical",
-                  "coords": [
-                        123.943176,
-                        10.327441
                   ]
             },
             {
@@ -16028,24 +14651,6 @@ image: "/poi-images/ph-masinloc-chromitmine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Museo Pari-an sa Sugbo",
-                  "text": "Ein Kulturmuseum, das die Geschichte von Cebus altem Viertel Pari-an bewahrt.",
-                  "category": "museum",
-                  "coords": [
-                        123.904078,
-                        10.298445
-                  ]
-            },
-            {
-                  "name": "Sugbu-Chinese Heritage Museum",
-                  "text": "Ein Heimatmuseum, das die lange Geschichte der chinesischen Gemeinde in Sugbu beleuchtet.",
-                  "category": "museum",
-                  "coords": [
-                        123.901922,
-                        10.292342
-                  ]
-            },
-            {
                   "name": "Jose R. Gullas Halad Museum",
                   "text": "Ein von Jose R. Gullas in Cebu gegründetes Heimatmuseum, das lokalen kulturellen Traditionen gewidmet ist.",
                   "category": "museum",
@@ -16055,30 +14660,12 @@ image: "/poi-images/ph-masinloc-chromitmine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "STC Folklife Museum",
-                  "text": "Ein Folkloremuseum am St. Theresa's College in Cebu.",
-                  "category": "museum",
-                  "coords": [
-                        123.896627,
-                        10.31244
-                  ]
-            },
-            {
                   "name": "National Museum",
                   "text": "Eine Museumseinrichtung, die sich der Erhaltung des regionalen und nationalen Erbes in Cebu widmet.",
                   "category": "museum",
                   "coords": [
                         123.906834,
                         10.303653
-                  ]
-            },
-            {
-                  "name": "Formerly Cinerama",
-                  "text": "Ein ehemaliges Cinerama-Theater, das einst als beliebter Veranstaltungsort für Kinofilme in Cebu diente.",
-                  "category": "cultural",
-                  "coords": [
-                        123.897781,
-                        10.296443
                   ]
             },
             {
@@ -16192,24 +14779,6 @@ image: "/poi-images/ph-masinloc-chromitmine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "National Shrine of Saint Joseph",
-                  "text": "Kiemelkedő katolikus templom és elismert nemzeti kegyhely, amely a mandaue-i vallási közösséget szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        123.942154,
-                        10.327416
-                  ]
-            },
-            {
-                  "name": "Pasil Fish Market",
-                  "text": "Jelentős nyüzsgő nagykereskedelmi piac, amely egész Cebuban híres a frissen fogott regionális tenger gyümölcseinek kiterjedt kereskedelméről.",
-                  "category": "cultural",
-                  "coords": [
-                        123.891993,
-                        10.29147
-                  ]
-            },
-            {
                   "name": "Bradford Uniqted Church of Christ in the Philippines",
                   "text": "Történelmi protestáns kápolnaépület, amely a helyi Krisztus Egyesült Egyháza gyülekezetének kulcsfontosságú istentiszteleti központjaként ismert.",
                   "category": "religious",
@@ -16228,39 +14797,12 @@ image: "/poi-images/ph-masinloc-chromitmine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Fort San Pedro",
-                  "text": "Háromszög alakú történelmi katonai védelmi építmény, amelyet eredetileg a spanyolok építettek 1565-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        123.905862,
-                        10.292518
-                  ]
-            },
-            {
                   "name": "National Museum of the Philippines - Cebu",
                   "text": "Jelentős kulturális múzeum, amely egy történelmi egykori vámház épületében található.",
                   "category": "museum",
                   "coords": [
                         123.904402,
                         10.291761
-                  ]
-            },
-            {
-                  "name": "Casa Gorordo Museum",
-                  "text": "Fennmaradt 19. századi lakóház, amely a régió kulturális örökségét bemutató múzeumként működik.",
-                  "category": "museum",
-                  "coords": [
-                        123.904828,
-                        10.299902
-                  ]
-            },
-            {
-                  "name": "Mandaue Presidencia",
-                  "text": "Történelmi városháza épülete Mandaue-ban, amely 1937-es építése óta központi közigazgatási központként működik.",
-                  "category": "historical",
-                  "coords": [
-                        123.943176,
-                        10.327441
                   ]
             },
             {
@@ -16291,24 +14833,6 @@ image: "/poi-images/ph-masinloc-chromitmine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Museo Pari-an sa Sugbo",
-                  "text": "Egy kulturális múzeum, amely Cebu régi Pari-an negyedének történetét őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        123.904078,
-                        10.298445
-                  ]
-            },
-            {
-                  "name": "Sugbu-Chinese Heritage Museum",
-                  "text": "Egy örökségvédelmi múzeum, amely a sugbui kínai közösség hosszú történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        123.901922,
-                        10.292342
-                  ]
-            },
-            {
                   "name": "Jose R. Gullas Halad Museum",
                   "text": "Egy Jose R. Gullas által alapított örökségvédelmi múzeum Cebuban, amely a helyi kulturális hagyományoknak szenteli magát.",
                   "category": "museum",
@@ -16318,30 +14842,12 @@ image: "/poi-images/ph-masinloc-chromitmine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "STC Folklife Museum",
-                  "text": "Egy néprajzi múzeum, amely a cebui St. Theresa's College-ban található.",
-                  "category": "museum",
-                  "coords": [
-                        123.896627,
-                        10.31244
-                  ]
-            },
-            {
                   "name": "National Museum",
                   "text": "Egy múzeumi létesítmény, amely a regionális és nemzeti örökség megőrzésére szolgál Cebuban.",
                   "category": "museum",
                   "coords": [
                         123.906834,
                         10.303653
-                  ]
-            },
-            {
-                  "name": "Formerly Cinerama",
-                  "text": "Egy egykori Cinerama színház, amely egykor népszerű mozis helyszínként szolgált Cebuban.",
-                  "category": "cultural",
-                  "coords": [
-                        123.897781,
-                        10.296443
                   ]
             },
             {
@@ -16455,24 +14961,6 @@ image: "/poi-images/ph-masinloc-chromitmine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "National Shrine of Saint Joseph",
-                  "text": "O biserică catolică proeminentă și un altar național recunoscut care deservește comunitatea religioasă din Mandaue.",
-                  "category": "religious",
-                  "coords": [
-                        123.942154,
-                        10.327416
-                  ]
-            },
-            {
-                  "name": "Pasil Fish Market",
-                  "text": "O piață en-gros importantă și plină de viață, renumită în tot Cebu pentru comerțul extins cu fructe de mare regionale proaspăt prinse.",
-                  "category": "cultural",
-                  "coords": [
-                        123.891993,
-                        10.29147
-                  ]
-            },
-            {
                   "name": "Bradford Uniqted Church of Christ in the Philippines",
                   "text": "O clădire istorică a unei capele protestante, cunoscută ca un centru cheie de cult pentru congregația locală a Bisericii Unite a lui Hristos.",
                   "category": "religious",
@@ -16491,39 +14979,12 @@ image: "/poi-images/ph-masinloc-chromitmine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Fort San Pedro",
-                  "text": "O structură istorică triunghiulară de apărare militară construită inițial de spanioli în 1565.",
-                  "category": "landmark",
-                  "coords": [
-                        123.905862,
-                        10.292518
-                  ]
-            },
-            {
                   "name": "National Museum of the Philippines - Cebu",
                   "text": "Un muzeu cultural major situat într-o clădire istorică ce a servit anterior drept vamă.",
                   "category": "museum",
                   "coords": [
                         123.904402,
                         10.291761
-                  ]
-            },
-            {
-                  "name": "Casa Gorordo Museum",
-                  "text": "O casă rezidențială conservată din secolul al XIX-lea, care funcționează ca un muzeu al patrimoniului cultural al regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        123.904828,
-                        10.299902
-                  ]
-            },
-            {
-                  "name": "Mandaue Presidencia",
-                  "text": "O clădire istorică a primăriei din Mandaue, care funcționează ca un centru administrativ central de la construirea sa în 1937.",
-                  "category": "historical",
-                  "coords": [
-                        123.943176,
-                        10.327441
                   ]
             },
             {
@@ -16554,24 +15015,6 @@ image: "/poi-images/ph-masinloc-chromitmine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Museo Pari-an sa Sugbo",
-                  "text": "Un muzeu cultural care păstrează istoria vechiului cartier Pari-an din Cebu.",
-                  "category": "museum",
-                  "coords": [
-                        123.904078,
-                        10.298445
-                  ]
-            },
-            {
-                  "name": "Sugbu-Chinese Heritage Museum",
-                  "text": "Un muzeu de patrimoniu care evidențiază istoria lungă a comunității chineze din Sugbu.",
-                  "category": "museum",
-                  "coords": [
-                        123.901922,
-                        10.292342
-                  ]
-            },
-            {
                   "name": "Jose R. Gullas Halad Museum",
                   "text": "Un muzeu de patrimoniu fondat de Jose R. Gullas în Cebu, dedicat tradițiilor culturale locale.",
                   "category": "museum",
@@ -16581,30 +15024,12 @@ image: "/poi-images/ph-masinloc-chromitmine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "STC Folklife Museum",
-                  "text": "Un muzeu de folclor situat la St. Theresa's College din Cebu.",
-                  "category": "museum",
-                  "coords": [
-                        123.896627,
-                        10.31244
-                  ]
-            },
-            {
                   "name": "National Museum",
                   "text": "O facilitate muzeală dedicată conservării patrimoniului regional și național în Cebu.",
                   "category": "museum",
                   "coords": [
                         123.906834,
                         10.303653
-                  ]
-            },
-            {
-                  "name": "Formerly Cinerama",
-                  "text": "Un fost teatru Cinerama care a servit odată ca un loc de cinema popular în Cebu.",
-                  "category": "cultural",
-                  "coords": [
-                        123.897781,
-                        10.296443
                   ]
             },
             {
@@ -16718,24 +15143,6 @@ image: "/poi-images/ph-masinloc-chromitmine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "National Shrine of Saint Joseph",
-                  "text": "A prominent Catholic church and recognized national shrine serving the religious community in Mandaue.",
-                  "category": "religious",
-                  "coords": [
-                        123.942154,
-                        10.327416
-                  ]
-            },
-            {
-                  "name": "Pasil Fish Market",
-                  "text": "A major bustling wholesale marketplace renowned across Cebu for its extensive trade of freshly caught regional seafood.",
-                  "category": "cultural",
-                  "coords": [
-                        123.891993,
-                        10.29147
-                  ]
-            },
-            {
                   "name": "Bradford Uniqted Church of Christ in the Philippines",
                   "text": "A historic Protestant chapel building known as a key center of worship for the local United Church of Christ congregation.",
                   "category": "religious",
@@ -16754,39 +15161,12 @@ image: "/poi-images/ph-masinloc-chromitmine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Fort San Pedro",
-                  "text": "A triangular historic military defense structure originally constructed by the Spanish in 1565.",
-                  "category": "landmark",
-                  "coords": [
-                        123.905862,
-                        10.292518
-                  ]
-            },
-            {
                   "name": "National Museum of the Philippines - Cebu",
                   "text": "A major cultural museum situated within a historic former customs house building.",
                   "category": "museum",
                   "coords": [
                         123.904402,
                         10.291761
-                  ]
-            },
-            {
-                  "name": "Casa Gorordo Museum",
-                  "text": "A preserved 19th-century residential house functioning as a museum of the region's cultural heritage.",
-                  "category": "museum",
-                  "coords": [
-                        123.904828,
-                        10.299902
-                  ]
-            },
-            {
-                  "name": "Mandaue Presidencia",
-                  "text": "A historic town hall building in Mandaue that has functioned as a central administrative hub since its construction in 1937.",
-                  "category": "historical",
-                  "coords": [
-                        123.943176,
-                        10.327441
                   ]
             },
             {
@@ -16817,24 +15197,6 @@ image: "/poi-images/ph-masinloc-chromitmine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "Pari-an Museum of Cebu",
-                  "text": "A cultural museum preserving the history of Cebu's old Pari-an district.",
-                  "category": "museum",
-                  "coords": [
-                        123.904078,
-                        10.298445
-                  ]
-            },
-            {
-                  "name": "Sugbu-Chinese Heritage Museum",
-                  "text": "A heritage museum highlighting the long history of the Chinese community in Sugbu.",
-                  "category": "museum",
-                  "coords": [
-                        123.901922,
-                        10.292342
-                  ]
-            },
-            {
                   "name": "Jose R. Gullas Halad Museum",
                   "text": "A heritage museum founded by Jose R. Gullas in Cebu, dedicated to local cultural traditions.",
                   "category": "museum",
@@ -16844,30 +15206,12 @@ image: "/poi-images/ph-masinloc-chromitmine-economic-v2.webp",
                   ]
             },
             {
-                  "name": "STC Folklife Museum",
-                  "text": "A folklife museum located at St. Theresa's College in Cebu.",
-                  "category": "museum",
-                  "coords": [
-                        123.896627,
-                        10.31244
-                  ]
-            },
-            {
                   "name": "National Museum",
                   "text": "A museum facility dedicated to preserving regional and national heritage in Cebu.",
                   "category": "museum",
                   "coords": [
                         123.906834,
                         10.303653
-                  ]
-            },
-            {
-                  "name": "Formerly Cinerama",
-                  "text": "A former Cinerama theatre that once served as a popular cinematic venue in Cebu.",
-                  "category": "cultural",
-                  "coords": [
-                        123.897781,
-                        10.296443
                   ]
             },
             {

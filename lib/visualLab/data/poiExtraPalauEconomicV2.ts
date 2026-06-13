@@ -51,30 +51,12 @@ export const palauEconomicV2: POI[] = [
     id: "palau-koror-business-district-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Belau National Museum",
-                  "text": "Das Belau Nationalmuseum im Geschäftsviertel von Koror zeigt palauische Kultur und einen Nachbau eines Bai.",
-                  "category": "museum",
-                  "coords": [
-                        134.476344,
-                        7.336578
-                  ]
-            },
-            {
                   "name": "Etpison Museum",
                   "text": "Das Etpison Museum im Geschäftsviertel von Koror zeigt palauische Kunst und historische Fotografien.",
                   "category": "museum",
                   "coords": [
                         134.483163,
                         7.345284
-                  ]
-            },
-            {
-                  "name": "Palau International Coral Reef Centre",
-                  "text": "Meeresforschungszentrum mit Aquarium und Korallenausstellungen im Geschäftsviertel von Koror.",
-                  "category": "family",
-                  "coords": [
-                        134.466229,
-                        7.33864
                   ]
             },
             {
@@ -105,24 +87,6 @@ export const palauEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Asahi Baseball Field",
-                  "text": "Baseballfeld im Stadtzentrum von Koror.",
-                  "category": "park",
-                  "coords": [
-                        134.47446,
-                        7.34079
-                  ]
-            },
-            {
-                  "name": "Belau Art Gallery",
-                  "text": "Kunstgalerie mit traditionellen und zeitgenössischen Werken aus Palau im Geschäftsviertel von Koror.",
-                  "category": "museum",
-                  "coords": [
-                        134.475056,
-                        7.342782
-                  ]
-            },
-            {
                   "name": "Swimming pool ruins",
                   "text": "Ruinen eines japanischen Schwimmbeckens aus der Besatzungszeit im Geschäftsviertel von Koror.",
                   "category": "historical",
@@ -138,24 +102,6 @@ export const palauEconomicV2: POI[] = [
                   "coords": [
                         134.503484,
                         7.338138
-                  ]
-            },
-            {
-                  "name": "PillBox",
-                  "text": "Japanischer Bunker aus dem Zweiten Weltkrieg mit Blick auf das Meer im Geschäftsviertel von Koror.",
-                  "category": "historical",
-                  "coords": [
-                        134.464431,
-                        7.335343
-                  ]
-            },
-            {
-                  "name": "Ngarachamayong Cultural Center",
-                  "text": "Kulturzentrum mit traditionellen Tänzen und Handwerksvorführungen im Geschäftsviertel von Koror.",
-                  "category": "cultural",
-                  "coords": [
-                        134.468148,
-                        7.343346
                   ]
             },
             {
@@ -179,30 +125,12 @@ export const palauEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Belau National Museum",
-                  "text": "A Belau Nemzeti Múzeum Koror üzleti negyedében palaui kultúrát és egy Bai másolatát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        134.476344,
-                        7.336578
-                  ]
-            },
-            {
                   "name": "Etpison Museum",
                   "text": "Az Etpison Múzeum Koror üzleti negyedében palaui művészetet és történelmi fényképeket mutat be.",
                   "category": "museum",
                   "coords": [
                         134.483163,
                         7.345284
-                  ]
-            },
-            {
-                  "name": "Palau International Coral Reef Centre",
-                  "text": "Tengerkutató központ akváriummal és korallkiállításokkal Koror üzleti negyedében.",
-                  "category": "family",
-                  "coords": [
-                        134.466229,
-                        7.33864
                   ]
             },
             {
@@ -233,24 +161,6 @@ export const palauEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Asahi Baseball Field",
-                  "text": "Baseballpálya Koror központjában.",
-                  "category": "park",
-                  "coords": [
-                        134.47446,
-                        7.34079
-                  ]
-            },
-            {
-                  "name": "Belau Art Gallery",
-                  "text": "Művészeti galéria palaui hagyományos és kortárs alkotásokkal Koror üzleti negyedében.",
-                  "category": "museum",
-                  "coords": [
-                        134.475056,
-                        7.342782
-                  ]
-            },
-            {
                   "name": "Swimming pool ruins",
                   "text": "Japán kori úszómedence romjai Koror üzleti negyedében.",
                   "category": "historical",
@@ -266,24 +176,6 @@ export const palauEconomicV2: POI[] = [
                   "coords": [
                         134.503484,
                         7.338138
-                  ]
-            },
-            {
-                  "name": "PillBox",
-                  "text": "Japán második világháborús bunker tengerre néző kilátással Koror üzleti negyedében.",
-                  "category": "historical",
-                  "coords": [
-                        134.464431,
-                        7.335343
-                  ]
-            },
-            {
-                  "name": "Ngarachamayong Cultural Center",
-                  "text": "Kulturális központ hagyományos táncokkal és kézműves bemutatókkal Koror üzleti negyedében.",
-                  "category": "cultural",
-                  "coords": [
-                        134.468148,
-                        7.343346
                   ]
             },
             {
@@ -307,30 +199,12 @@ export const palauEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Belau National Museum",
-                  "text": "Muzeul Național Belau din cartierul de afaceri Koror prezintă cultura palauană și o replică a unui bai.",
-                  "category": "museum",
-                  "coords": [
-                        134.476344,
-                        7.336578
-                  ]
-            },
-            {
                   "name": "Etpison Museum",
                   "text": "Muzeul Etpison din cartierul de afaceri Koror expune artă palauană și fotografii istorice.",
                   "category": "museum",
                   "coords": [
                         134.483163,
                         7.345284
-                  ]
-            },
-            {
-                  "name": "Palau International Coral Reef Centre",
-                  "text": "Centru de cercetare marină cu acvariu și expoziții de corali în districtul de afaceri Koror.",
-                  "category": "family",
-                  "coords": [
-                        134.466229,
-                        7.33864
                   ]
             },
             {
@@ -361,24 +235,6 @@ export const palauEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Asahi Baseball Field",
-                  "text": "Teren de baseball în centrul orașului Koror.",
-                  "category": "park",
-                  "coords": [
-                        134.47446,
-                        7.34079
-                  ]
-            },
-            {
-                  "name": "Belau Art Gallery",
-                  "text": "Galerie de artă cu lucrări tradiționale și contemporane din Palau în districtul de afaceri Koror.",
-                  "category": "museum",
-                  "coords": [
-                        134.475056,
-                        7.342782
-                  ]
-            },
-            {
                   "name": "Swimming pool ruins",
                   "text": "Ruinele unui bazin de înot din perioada japoneză în districtul de afaceri Koror.",
                   "category": "historical",
@@ -394,24 +250,6 @@ export const palauEconomicV2: POI[] = [
                   "coords": [
                         134.503484,
                         7.338138
-                  ]
-            },
-            {
-                  "name": "PillBox",
-                  "text": "Buncăr japonez din al Doilea Război Mondial cu vedere la mare în districtul de afaceri Koror.",
-                  "category": "historical",
-                  "coords": [
-                        134.464431,
-                        7.335343
-                  ]
-            },
-            {
-                  "name": "Ngarachamayong Cultural Center",
-                  "text": "Centru cultural cu dansuri tradiționale și demonstrații de meșteșuguri în districtul de afaceri Koror.",
-                  "category": "cultural",
-                  "coords": [
-                        134.468148,
-                        7.343346
                   ]
             },
             {
@@ -435,30 +273,12 @@ export const palauEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Belau National Museum",
-                  "text": "Belau National Museum in the Koror Business District showcases Palauan culture and a replica of a bai.",
-                  "category": "museum",
-                  "coords": [
-                        134.476344,
-                        7.336578
-                  ]
-            },
-            {
                   "name": "Etpison Museum",
                   "text": "Etpison Museum in the Koror Business District displays Palauan art and historical photographs.",
                   "category": "museum",
                   "coords": [
                         134.483163,
                         7.345284
-                  ]
-            },
-            {
-                  "name": "Palau International Coral Reef Centre",
-                  "text": "Marine research centre with aquarium and coral exhibits in Koror Business District.",
-                  "category": "family",
-                  "coords": [
-                        134.466229,
-                        7.33864
                   ]
             },
             {
@@ -489,24 +309,6 @@ export const palauEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Asahi Baseball Field",
-                  "text": "Baseball field in central Koror.",
-                  "category": "park",
-                  "coords": [
-                        134.47446,
-                        7.34079
-                  ]
-            },
-            {
-                  "name": "Belau Art Gallery",
-                  "text": "Art gallery featuring traditional and contemporary Palauan works in Koror Business District.",
-                  "category": "museum",
-                  "coords": [
-                        134.475056,
-                        7.342782
-                  ]
-            },
-            {
                   "name": "Swimming pool ruins",
                   "text": "Ruins of a Japanese-era swimming pool in Koror Business District.",
                   "category": "historical",
@@ -522,24 +324,6 @@ export const palauEconomicV2: POI[] = [
                   "coords": [
                         134.503484,
                         7.338138
-                  ]
-            },
-            {
-                  "name": "PillBox",
-                  "text": "Japanese WWII pillbox bunker overlooking the ocean in Koror Business District.",
-                  "category": "historical",
-                  "coords": [
-                        134.464431,
-                        7.335343
-                  ]
-            },
-            {
-                  "name": "Ngarachamayong Cultural Center",
-                  "text": "Cultural centre hosting traditional dance and craft demonstrations in Koror Business District.",
-                  "category": "cultural",
-                  "coords": [
-                        134.468148,
-                        7.343346
                   ]
             },
             {
@@ -886,24 +670,6 @@ export const palauEconomicV2: POI[] = [
                         134.628634,
                         7.494979
                   ]
-            },
-            {
-                  "name": "Meteu 'L Klechem",
-                  "text": "Meteu 'L Klechem ist ein historisches Steinmonolith-Denkmal in Regierungsviertel Ngerulmud.",
-                  "category": "historical",
-                  "coords": [
-                        134.636194,
-                        7.49243
-                  ]
-            },
-            {
-                  "name": "Melekeok Bai",
-                  "text": "Traditionelles palauisches Versammlungshaus mit kunstvollen Holzschnitzereien im Verwaltungsbezirk Ngerulmud.",
-                  "category": "landmark",
-                  "coords": [
-                        134.633317,
-                        7.494282
-                  ]
             }
       ],
       "hu": [
@@ -914,24 +680,6 @@ export const palauEconomicV2: POI[] = [
                   "coords": [
                         134.628634,
                         7.494979
-                  ]
-            },
-            {
-                  "name": "Meteu 'L Klechem",
-                  "text": "A Meteu 'L Klechem egy történelmi kőmonolit emlékmű a Regierungsviertel Ngerulmudban.",
-                  "category": "historical",
-                  "coords": [
-                        134.636194,
-                        7.49243
-                  ]
-            },
-            {
-                  "name": "Melekeok Bai",
-                  "text": "Hagyományos palaui gyűlésház díszes faragványokkal Ngerulmud közigazgatási negyedében.",
-                  "category": "landmark",
-                  "coords": [
-                        134.633317,
-                        7.494282
                   ]
             }
       ],
@@ -944,24 +692,6 @@ export const palauEconomicV2: POI[] = [
                         134.628634,
                         7.494979
                   ]
-            },
-            {
-                  "name": "Meteu 'L Klechem",
-                  "text": "Meteu 'L Klechem este un monument monolitic istoric din piatră situat în Regierungsviertel Ngerulmud.",
-                  "category": "historical",
-                  "coords": [
-                        134.636194,
-                        7.49243
-                  ]
-            },
-            {
-                  "name": "Melekeok Bai",
-                  "text": "Casă tradițională de adunări palauziană cu sculpturi ornamentale în districtul administrativ Ngerulmud.",
-                  "category": "landmark",
-                  "coords": [
-                        134.633317,
-                        7.494282
-                  ]
             }
       ],
       "en": [
@@ -972,24 +702,6 @@ export const palauEconomicV2: POI[] = [
                   "coords": [
                         134.628634,
                         7.494979
-                  ]
-            },
-            {
-                  "name": "Meteu 'L Klechem",
-                  "text": "Meteu 'L Klechem is a historic stone monolith monument located in Regierungsviertel Ngerulmud.",
-                  "category": "historical",
-                  "coords": [
-                        134.636194,
-                        7.49243
-                  ]
-            },
-            {
-                  "name": "Melekeok Bai",
-                  "text": "Traditional Palauan meeting house with intricate woodcarvings in Ngerulmud Administrative.",
-                  "category": "landmark",
-                  "coords": [
-                        134.633317,
-                        7.494282
                   ]
             }
       ]

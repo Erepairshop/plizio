@@ -420,86 +420,10 @@ export const poiExtraGambiaHistoryV2: POI[] = [
   },
   {
     id: "san-domingo-ruins-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "San Domingo",
-                  "text": "San Domingo bietet Ruinen aus dem 15. Jahrhundert, die als Kulturerbe anerkannt sind.",
-                  "category": "historical",
-                  "coords": [
-                        -16.385635,
-                        13.338227
-                  ]
-            },
-            {
-                  "name": "Portuguese Chapel",
-                  "text": "Die portugiesische Kapelle birgt denkmalgeschützte religiöse Ruinen.",
-                  "category": "historical",
-                  "coords": [
-                        -16.385294,
-                        13.333522
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "San Domingo",
-                  "text": "A San Domingo 15. századi romokkal rendelkezik, amelyeket örökségi helyszínként ismertek el.",
-                  "category": "historical",
-                  "coords": [
-                        -16.385635,
-                        13.338227
-                  ]
-            },
-            {
-                  "name": "Portuguese Chapel",
-                  "text": "A portugál kápolna műemlékvédelem alatt álló vallási romokat tartalmaz.",
-                  "category": "historical",
-                  "coords": [
-                        -16.385294,
-                        13.333522
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "San Domingo",
-                  "text": "San Domingo prezintă ruine din secolul al XV-lea, recunoscute ca sit de patrimoniu.",
-                  "category": "historical",
-                  "coords": [
-                        -16.385635,
-                        13.338227
-                  ]
-            },
-            {
-                  "name": "Portuguese Chapel",
-                  "text": "Capela Portugheză conține ruine religioase clasate ca patrimoniu.",
-                  "category": "historical",
-                  "coords": [
-                        -16.385294,
-                        13.333522
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "San Domingo",
-                  "text": "San Domingo features 15th-century ruins recognized as a heritage site.",
-                  "category": "historical",
-                  "coords": [
-                        -16.385635,
-                        13.338227
-                  ]
-            },
-            {
-                  "name": "Portuguese Chapel",
-                  "text": "The Portuguese Chapel contains heritage-listed religious ruins.",
-                  "category": "historical",
-                  "coords": [
-                        -16.385294,
-                        13.333522
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "GM-N",

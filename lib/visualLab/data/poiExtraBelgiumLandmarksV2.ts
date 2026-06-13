@@ -1153,24 +1153,6 @@ imageHint: "Lion's Mound Waterloo monument",
                         5.348624,
                         49.640294
                   ]
-            },
-            {
-                  "name": "Château de l'Abbaye",
-                  "text": "Historisches Schlossgebäude auf dem Gelände der Abtei Orval.",
-                  "category": "castle",
-                  "coords": [
-                        5.34765,
-                        49.634288
-                  ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "Sankt Martin gewidmetes religiöses Gebäude in der Gegend von Orval.",
-                  "category": "religious",
-                  "coords": [
-                        5.350624,
-                        49.614668
-                  ]
             }
       ],
       "hu": [
@@ -1181,24 +1163,6 @@ imageHint: "Lion's Mound Waterloo monument",
                   "coords": [
                         5.348624,
                         49.640294
-                  ]
-            },
-            {
-                  "name": "Château de l'Abbaye",
-                  "text": "Történelmi kastélyépület az Orval-apátság területén.",
-                  "category": "castle",
-                  "coords": [
-                        5.34765,
-                        49.634288
-                  ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "Szent Mártonnak szentelt vallási épület Orval környékén.",
-                  "category": "religious",
-                  "coords": [
-                        5.350624,
-                        49.614668
                   ]
             }
       ],
@@ -1211,24 +1175,6 @@ imageHint: "Lion's Mound Waterloo monument",
                         5.348624,
                         49.640294
                   ]
-            },
-            {
-                  "name": "Château de l'Abbaye",
-                  "text": "Structură istorică de castel situată pe domeniul abației Orval.",
-                  "category": "castle",
-                  "coords": [
-                        5.34765,
-                        49.634288
-                  ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "Clădire religioasă dedicată Sfântului Martin în zona Orval.",
-                  "category": "religious",
-                  "coords": [
-                        5.350624,
-                        49.614668
-                  ]
             }
       ],
       "en": [
@@ -1239,24 +1185,6 @@ imageHint: "Lion's Mound Waterloo monument",
                   "coords": [
                         5.348624,
                         49.640294
-                  ]
-            },
-            {
-                  "name": "Château de l'Abbaye",
-                  "text": "Historic castle structure located within the Orval Abbey grounds.",
-                  "category": "castle",
-                  "coords": [
-                        5.34765,
-                        49.634288
-                  ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "Religious building dedicated to Saint Martin in the Orval area.",
-                  "category": "religious",
-                  "coords": [
-                        5.350624,
-                        49.614668
                   ]
             }
       ]

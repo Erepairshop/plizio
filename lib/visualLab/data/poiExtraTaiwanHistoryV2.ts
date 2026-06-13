@@ -414,15 +414,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Cheng Kung University Museum",
-                  "text": "Dieses akademische Museum beschreibt die Geschichte und die wissenschaftlichen Errungenschaften der renommierten National Cheng Kung University.",
-                  "category": "museum",
-                  "coords": [
-                        120.21963,
-                        22.996743
-                  ]
-            },
-            {
                   "name": "Tainan Children's Science Museum",
                   "text": "Mit seinen fesselnden interaktiven Ausstellungen soll diese Einrichtung in Tainan die Liebe zu Wissenschaft und Technologie bei jungen Menschen wecken.",
                   "category": "museum",
@@ -477,15 +468,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "East Gate",
-                  "text": "Dieses imposante Stadttor war einst Teil der beeindruckenden Verteidigungsmauern von Tainan und ist eine markante Erinnerung an die Befestigungsanlagen der Qing-Ära.",
-                  "category": "fortress",
-                  "coords": [
-                        120.217307,
-                        22.98707
-                  ]
-            },
-            {
                   "name": "Old Tainan Minister's Official Residence",
                   "text": "Diese elegante Holzresidenz bewahrt den klassischen japanischen Kolonialstil, der für hochrangige regionale Beamte verwendet wurde.",
                   "category": "historical",
@@ -513,15 +495,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tainan Municipal Cultural Center",
-                  "text": "Dieses weitläufige Kunstzentrum verfügt über hochmoderne Veranstaltungssäle, in denen bedeutende Theater- und Musikereignisse in Tainan stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        120.221554,
-                        22.974508
-                  ]
-            },
-            {
                   "name": "Singji Temple",
                   "text": "Dieser bedeutende religiöse Komplex verbindet nahtlos buddhistische und daoistische Kulträume aus der Qing-Dynastie.",
                   "category": "religious",
@@ -546,15 +519,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         120.209386,
                         22.990471
-                  ]
-            },
-            {
-                  "name": "Tainan Mosque",
-                  "text": "Als Kultstätte für die muslimische Gemeinde der Stadt bietet dieser Ort einen wichtigen Raum für Gebete und islamische kulturelle Zusammenkünfte in Tainan.",
-                  "category": "religious",
-                  "coords": [
-                        120.228452,
-                        22.978451
                   ]
             },
             {
@@ -618,15 +582,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         120.214475,
                         22.988694
-                  ]
-            },
-            {
-                  "name": "Da Dong Night Market",
-                  "text": "Dieser weitläufige Freiluftmarkt ist voller hell erleuchteter Stände, die kultiges lokales Streetfood verkaufen.",
-                  "category": "cultural",
-                  "coords": [
-                        120.21924,
-                        22.982611
                   ]
             },
             {
@@ -704,15 +659,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Cheng Kung University Museum",
-                  "text": "Ez az akadémiai múzeum a rangos Nemzeti Cheng Kung Egyetem történetét és tudományos eredményeit részletezi.",
-                  "category": "museum",
-                  "coords": [
-                        120.21963,
-                        22.996743
-                  ]
-            },
-            {
                   "name": "Tainan Children's Science Museum",
                   "text": "A lenyűgöző interaktív kiállításokat kínáló tajnani létesítmény célja, hogy felkeltse a fiatal elmék érdeklődését a tudomány és a technológia iránt.",
                   "category": "museum",
@@ -767,15 +713,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "East Gate",
-                  "text": "Az egykor Tainan félelmetes védőfalainak részét képező grandiózus városkapu a Qing-korszak erődítményeinek kiemelkedő emlékeként áll.",
-                  "category": "fortress",
-                  "coords": [
-                        120.217307,
-                        22.98707
-                  ]
-            },
-            {
                   "name": "Old Tainan Minister's Official Residence",
                   "text": "Ez az elegáns fa rezidencia a magas rangú regionális tisztviselők számára használt klasszikus japán gyarmati építészeti stílust őrzi.",
                   "category": "historical",
@@ -803,15 +740,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tainan Municipal Cultural Center",
-                  "text": "Ez a hatalmas kulturális központ korszerű előadótermekkel rendelkezik, amelyek jelentős színházi és zenei eseményeknek adnak otthont Tainanban.",
-                  "category": "cultural",
-                  "coords": [
-                        120.221554,
-                        22.974508
-                  ]
-            },
-            {
                   "name": "Singji Temple",
                   "text": "Ez a jelentős vallási komplexum zökkenőmentesen ötvözi a Qing-dinasztia korából származó buddhista és taoista istentiszteleti tereket.",
                   "category": "religious",
@@ -836,15 +764,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         120.209386,
                         22.990471
-                  ]
-            },
-            {
-                  "name": "Tainan Mosque",
-                  "text": "A város muszlim közösségét szolgáló istentiszteleti hely létfontosságú teret biztosít az imádkozáshoz és az iszlám kulturális összejövetelekhez Tainanban.",
-                  "category": "religious",
-                  "coords": [
-                        120.228452,
-                        22.978451
                   ]
             },
             {
@@ -908,15 +827,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         120.214475,
                         22.988694
-                  ]
-            },
-            {
-                  "name": "Da Dong Night Market",
-                  "text": "Ez a kiterjedt szabadtéri piac tele van fényesen kivilágított standokkal, amelyek ikonikus helyi utcai ételeket árulnak.",
-                  "category": "cultural",
-                  "coords": [
-                        120.21924,
-                        22.982611
                   ]
             },
             {
@@ -994,15 +904,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Cheng Kung University Museum",
-                  "text": "Acest muzeu academic detaliază istoria și realizările științifice ale prestigioasei Universități Naționale Cheng Kung.",
-                  "category": "museum",
-                  "coords": [
-                        120.21963,
-                        22.996743
-                  ]
-            },
-            {
                   "name": "Tainan Children's Science Museum",
                   "text": "Oferind expoziții interactive captivante, această facilitate din Tainan este concepută pentru a stârni dragostea pentru știință și tehnologie în mințile tinere.",
                   "category": "museum",
@@ -1057,15 +958,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "East Gate",
-                  "text": "Odată parte a formidabilelor ziduri de apărare ale orașului Tainan, această mare poartă a orașului reprezintă o amintire proeminentă a fortificațiilor din era Qing.",
-                  "category": "fortress",
-                  "coords": [
-                        120.217307,
-                        22.98707
-                  ]
-            },
-            {
                   "name": "Old Tainan Minister's Official Residence",
                   "text": "Această reședință elegantă din lemn păstrează stilul arhitectural colonial japonez clasic folosit pentru oficialii regionali de rang înalt.",
                   "category": "historical",
@@ -1093,15 +985,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tainan Municipal Cultural Center",
-                  "text": "Acest centru de arte extins dispune de săli de spectacol de ultimă generație care găzduiesc evenimente teatrale și muzicale majore în Tainan.",
-                  "category": "cultural",
-                  "coords": [
-                        120.221554,
-                        22.974508
-                  ]
-            },
-            {
                   "name": "Singji Temple",
                   "text": "Acest complex religios semnificativ combină perfect spațiile de cult budiste și taoiste datând din dinastia Qing.",
                   "category": "religious",
@@ -1126,15 +1009,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         120.209386,
                         22.990471
-                  ]
-            },
-            {
-                  "name": "Tainan Mosque",
-                  "text": "Deservind comunitatea musulmană a orașului, acest lăcaș de cult oferă un spațiu vital pentru rugăciune și adunări culturale islamice în Tainan.",
-                  "category": "religious",
-                  "coords": [
-                        120.228452,
-                        22.978451
                   ]
             },
             {
@@ -1198,15 +1072,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         120.214475,
                         22.988694
-                  ]
-            },
-            {
-                  "name": "Da Dong Night Market",
-                  "text": "Această piață vastă în aer liber este plină de tarabe luminate puternic, care vând mâncare stradală locală emblematică.",
-                  "category": "cultural",
-                  "coords": [
-                        120.21924,
-                        22.982611
                   ]
             },
             {
@@ -1284,15 +1149,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Cheng Kung University Museum",
-                  "text": "This academic museum details the history and scientific achievements of the prestigious National Cheng Kung University.",
-                  "category": "museum",
-                  "coords": [
-                        120.21963,
-                        22.996743
-                  ]
-            },
-            {
                   "name": "Tainan Children's Science Museum",
                   "text": "Offering engaging interactive exhibits, this facility in Tainan is designed to spark a love for science and technology in young minds.",
                   "category": "museum",
@@ -1347,15 +1203,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "East Gate",
-                  "text": "Once part of Tainan's formidable defensive walls, this grand city gate stands as a prominent reminder of the Qing era fortifications.",
-                  "category": "fortress",
-                  "coords": [
-                        120.217307,
-                        22.98707
-                  ]
-            },
-            {
                   "name": "Old Tainan Minister's Official Residence",
                   "text": "This elegant wooden residence preserves the classic Japanese colonial architectural style used for high-ranking regional officials.",
                   "category": "historical",
@@ -1383,15 +1230,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tainan Municipal Cultural Center",
-                  "text": "This expansive arts center features state-of-the-art performance halls that host major theatrical and musical events in Tainan.",
-                  "category": "cultural",
-                  "coords": [
-                        120.221554,
-                        22.974508
-                  ]
-            },
-            {
                   "name": "Singji Temple",
                   "text": "This significant religious complex seamlessly combines Buddhist and Taoist worship spaces dating back to the Qing dynasty.",
                   "category": "religious",
@@ -1416,15 +1254,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         120.209386,
                         22.990471
-                  ]
-            },
-            {
-                  "name": "Tainan Mosque",
-                  "text": "Serving the city's Muslim community, this place of worship provides a vital space for prayer and Islamic cultural gatherings in Tainan.",
-                  "category": "religious",
-                  "coords": [
-                        120.228452,
-                        22.978451
                   ]
             },
             {
@@ -1488,15 +1317,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         120.214475,
                         22.988694
-                  ]
-            },
-            {
-                  "name": "Da Dong Night Market",
-                  "text": "This sprawling open-air marketplace is packed with brightly lit stalls selling iconic local street food.",
-                  "category": "cultural",
-                  "coords": [
-                        120.21924,
-                        22.982611
                   ]
             },
             {
@@ -4176,15 +3996,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sishizhangshan",
-                  "text": "Ein markanter lokaler Gipfel, der malerische Wanderwege durch dichte Vorstadtwälder bietet.",
-                  "category": "natural",
-                  "coords": [
-                        121.478554,
-                        24.996768
-                  ]
-            },
-            {
                   "name": "Nanshijiaoshan",
                   "text": "Dieser markante Berg ist berühmt für den weitläufigen Erdgott-Tempel nahe seinem Gipfel und seine fantastische Aussicht bei Nacht.",
                   "category": "natural",
@@ -4209,33 +4020,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         121.5009,
                         24.935127
-                  ]
-            },
-            {
-                  "name": "Bade Park",
-                  "text": "Eine erholsame Grünfläche, die eine ruhige Umgebung mit von Bäumen gesäumten Wegen und Rasenflächen bietet.",
-                  "category": "park",
-                  "coords": [
-                        121.47576,
-                        25.024649
-                  ]
-            },
-            {
-                  "name": "Banqiao Rural Community Park",
-                  "text": "Ein einzigartiger Stadtpark, der mit traditionellen taiwanischen Landwirtschaftsthemen und ländlichen Landschaftselementen gestaltet ist.",
-                  "category": "park",
-                  "coords": [
-                        121.471,
-                        25.030055
-                  ]
-            },
-            {
-                  "name": "Stone Carving Park",
-                  "text": "Besucher können durch diesen Freiluftpark schlendern und eine vielfältige Sammlung kunstvoll gehauener Steinskulpturen bewundern.",
-                  "category": "park",
-                  "coords": [
-                        121.469879,
-                        25.029381
                   ]
             },
             {
@@ -4347,24 +4131,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zhongshan Park",
-                  "text": "Ein gepflegter öffentlicher Park mit geometrisch gepflasterten Wegen und alten Schattenbäumen.",
-                  "category": "park",
-                  "coords": [
-                        121.471609,
-                        25.023211
-                  ]
-            },
-            {
-                  "name": "TAIPOWER D/S ONE",
-                  "text": "Diese interaktive Bildungseinrichtung nutzt High-Tech-Exponate, um moderne Stromerzeugung und Nachhaltigkeit zu erklären.",
-                  "category": "museum",
-                  "coords": [
-                        121.462001,
-                        25.011923
-                  ]
-            },
-            {
                   "name": "Yuan Ze Memorial Hall",
                   "text": "Ein Gedenkmuseum, das biografische Ausstellungen und persönliche Artefakte seines prominenten Namensgebers zeigt.",
                   "category": "museum",
@@ -4416,24 +4182,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         121.449413,
                         25.059782
-                  ]
-            },
-            {
-                  "name": "Cheng-Hsin Auditorium (Block H)",
-                  "text": "Dieser formelle Campus-Theaterraum in Block H beherbergt akademische Vorlesungen und große Studentenproduktionen.",
-                  "category": "cultural",
-                  "coords": [
-                        121.462981,
-                        25.020421
-                  ]
-            },
-            {
-                  "name": "New Taipei City Art Center",
-                  "text": "Ein umfassender regionaler Komplex, der mit weitläufigen Galerien und Bühnen für bildende und darstellende Kunst ausgestattet ist.",
-                  "category": "cultural",
-                  "coords": [
-                        121.471924,
-                        25.02593
                   ]
             }
       ],
@@ -4529,15 +4277,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sishizhangshan",
-                  "text": "Kiemelkedő helyi hegycsúcs, amely festői túraútvonalakat kínál a sűrű külvárosi erdőkön keresztül.",
-                  "category": "natural",
-                  "coords": [
-                        121.478554,
-                        24.996768
-                  ]
-            },
-            {
                   "name": "Nanshijiaoshan",
                   "text": "Ez a kiemelkedő hegy a csúcsa közelében található kiterjedt Földisten-templomról és az éjszakai kilátásról híres.",
                   "category": "natural",
@@ -4562,33 +4301,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         121.5009,
                         24.935127
-                  ]
-            },
-            {
-                  "name": "Bade Park",
-                  "text": "Rekreációs zöldterület, amely fákkal szegélyezett ösvényekkel és füves pázsittal kínál nyugodt környezetet.",
-                  "category": "park",
-                  "coords": [
-                        121.47576,
-                        25.024649
-                  ]
-            },
-            {
-                  "name": "Banqiao Rural Community Park",
-                  "text": "Egyedülálló városi park, amelyet hagyományos tajvani mezőgazdasági témákkal és vidéki tájelemekkel terveztek.",
-                  "category": "park",
-                  "coords": [
-                        121.471,
-                        25.030055
-                  ]
-            },
-            {
-                  "name": "Stone Carving Park",
-                  "text": "A látogatók a szabadtéri parkban sétálva gyönyörködhetnek a bonyolultan faragott kőszobrok változatos gyűjteményében.",
-                  "category": "park",
-                  "coords": [
-                        121.469879,
-                        25.029381
                   ]
             },
             {
@@ -4700,24 +4412,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zhongshan Park",
-                  "text": "Jól karbantartott nyilvános park, geometrikusan kikövezett utakkal és öreg árnyékot adó fákkal.",
-                  "category": "park",
-                  "coords": [
-                        121.471609,
-                        25.023211
-                  ]
-            },
-            {
-                  "name": "TAIPOWER D/S ONE",
-                  "text": "Ez az interaktív oktatási intézmény csúcstechnológiás kiállításokat használ a modern villamosenergia-termelés és a fenntarthatóság bemutatására.",
-                  "category": "museum",
-                  "coords": [
-                        121.462001,
-                        25.011923
-                  ]
-            },
-            {
                   "name": "Yuan Ze Memorial Hall",
                   "text": "Emlékmúzeum, amely prominens névadójának életrajzi kiállításait és személyes tárgyait mutatja be.",
                   "category": "museum",
@@ -4769,24 +4463,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         121.449413,
                         25.059782
-                  ]
-            },
-            {
-                  "name": "Cheng-Hsin Auditorium (Block H)",
-                  "text": "Ez a H blokkban található hivatalos egyetemi színházi tér akadémiai előadásoknak és nagy diákelőadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        121.462981,
-                        25.020421
-                  ]
-            },
-            {
-                  "name": "New Taipei City Art Center",
-                  "text": "Átfogó regionális komplexum, amely hatalmas galériákkal és színpadokkal van felszerelve a vizuális és előadó-művészetek számára.",
-                  "category": "cultural",
-                  "coords": [
-                        121.471924,
-                        25.02593
                   ]
             }
       ],
@@ -4882,15 +4558,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sishizhangshan",
-                  "text": "Un vârf local proeminent care oferă trasee pitorești de drumeție prin păduri dense suburbane.",
-                  "category": "natural",
-                  "coords": [
-                        121.478554,
-                        24.996768
-                  ]
-            },
-            {
                   "name": "Nanshijiaoshan",
                   "text": "Acest munte proeminent este faimos pentru templul întins al Zeului Pământului de lângă vârf și pentru priveliștile sale nocturne.",
                   "category": "natural",
@@ -4915,33 +4582,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         121.5009,
                         24.935127
-                  ]
-            },
-            {
-                  "name": "Bade Park",
-                  "text": "Un spațiu verde de recreere care oferă un mediu liniștit cu alei mărginite de copaci și peluze cu iarbă.",
-                  "category": "park",
-                  "coords": [
-                        121.47576,
-                        25.024649
-                  ]
-            },
-            {
-                  "name": "Banqiao Rural Community Park",
-                  "text": "Un parc urban unic conceput cu teme agricole tradiționale taiwaneze și elemente de peisaj rural.",
-                  "category": "park",
-                  "coords": [
-                        121.471,
-                        25.030055
-                  ]
-            },
-            {
-                  "name": "Stone Carving Park",
-                  "text": "Vizitatorii se pot plimba prin acest parc în aer liber admirând o colecție diversă de sculpturi în piatră sculptate complex.",
-                  "category": "park",
-                  "coords": [
-                        121.469879,
-                        25.029381
                   ]
             },
             {
@@ -5053,24 +4693,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zhongshan Park",
-                  "text": "Un parc public bine întreținut, cu alei pietruite geometrice și copaci de umbră maturi.",
-                  "category": "park",
-                  "coords": [
-                        121.471609,
-                        25.023211
-                  ]
-            },
-            {
-                  "name": "TAIPOWER D/S ONE",
-                  "text": "Această facilitate educațională interactivă folosește exponate de înaltă tehnologie pentru a explica generarea modernă de energie electrică și sustenabilitatea.",
-                  "category": "museum",
-                  "coords": [
-                        121.462001,
-                        25.011923
-                  ]
-            },
-            {
                   "name": "Yuan Ze Memorial Hall",
                   "text": "Un muzeu comemorativ care expune expoziții biografice și artefacte personale ale proeminentului său omonim.",
                   "category": "museum",
@@ -5122,24 +4744,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         121.449413,
                         25.059782
-                  ]
-            },
-            {
-                  "name": "Cheng-Hsin Auditorium (Block H)",
-                  "text": "Acest spațiu de teatru formal din campus, situat în Blocul H, găzduiește prelegeri academice și mari producții studențești.",
-                  "category": "cultural",
-                  "coords": [
-                        121.462981,
-                        25.020421
-                  ]
-            },
-            {
-                  "name": "New Taipei City Art Center",
-                  "text": "Un complex regional cuprinzător echipat cu galerii extinse și scene pentru arte vizuale și spectacol.",
-                  "category": "cultural",
-                  "coords": [
-                        121.471924,
-                        25.02593
                   ]
             }
       ],
@@ -5235,15 +4839,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sishizhangshan",
-                  "text": "A prominent local peak offering scenic hiking trails through dense suburban forests.",
-                  "category": "natural",
-                  "coords": [
-                        121.478554,
-                        24.996768
-                  ]
-            },
-            {
                   "name": "Nanshijiaoshan",
                   "text": "This prominent mountain is famous for the sprawling Earth God temple near its summit and its sweeping night views.",
                   "category": "natural",
@@ -5268,33 +4863,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         121.5009,
                         24.935127
-                  ]
-            },
-            {
-                  "name": "Bade Park",
-                  "text": "A recreational green space offering a tranquil environment with tree-lined paths and grassy lawns.",
-                  "category": "park",
-                  "coords": [
-                        121.47576,
-                        25.024649
-                  ]
-            },
-            {
-                  "name": "Banqiao Rural Community Park",
-                  "text": "A unique urban park designed with traditional Taiwanese agricultural themes and rural landscape elements.",
-                  "category": "park",
-                  "coords": [
-                        121.471,
-                        25.030055
-                  ]
-            },
-            {
-                  "name": "Stone Carving Park",
-                  "text": "Visitors can stroll through this outdoor park admiring a diverse collection of intricately carved stone sculptures.",
-                  "category": "park",
-                  "coords": [
-                        121.469879,
-                        25.029381
                   ]
             },
             {
@@ -5406,24 +4974,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zhongshan Park",
-                  "text": "A well-maintained public park featuring geometric paved paths and established shade trees.",
-                  "category": "park",
-                  "coords": [
-                        121.471609,
-                        25.023211
-                  ]
-            },
-            {
-                  "name": "TAIPOWER D/S ONE",
-                  "text": "This interactive educational facility uses high-tech exhibits to explain modern electrical generation and sustainability.",
-                  "category": "museum",
-                  "coords": [
-                        121.462001,
-                        25.011923
-                  ]
-            },
-            {
                   "name": "Yuan Ze Memorial Hall",
                   "text": "A commemorative museum displaying biographical exhibits and personal artifacts of its prominent namesake.",
                   "category": "museum",
@@ -5475,24 +5025,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         121.449413,
                         25.059782
-                  ]
-            },
-            {
-                  "name": "Cheng-Hsin Auditorium (Block H)",
-                  "text": "This formal campus theatre space, located in Block H, hosts academic lectures and large student productions.",
-                  "category": "cultural",
-                  "coords": [
-                        121.462981,
-                        25.020421
-                  ]
-            },
-            {
-                  "name": "New Taipei City Art Center",
-                  "text": "A comprehensive regional complex equipped with expansive galleries and stages for visual and performing arts.",
-                  "category": "cultural",
-                  "coords": [
-                        121.471924,
-                        25.02593
                   ]
             }
       ]
@@ -10131,51 +9663,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taitung Chinese Association",
-                  "text": "Die in einem historischen Gebäude aus dem Jahr 1927 untergebrachte Taitung Chinese Association dient als gut erhaltenes Wahrzeichen des Erbes der örtlichen Gemeinde.",
-                  "category": "landmark",
-                  "coords": [
-                        121.155793,
-                        22.753678
-                  ]
-            },
-            {
-                  "name": "Boting Art Center",
-                  "text": "Das Boting Art Center ist ein kreativer Raum für zeitgenössische Ausstellungen und Workshops, die regionale künstlerische Talente hervorheben.",
-                  "category": "cultural",
-                  "coords": [
-                        121.15317,
-                        22.757968
-                  ]
-            },
-            {
-                  "name": "Lishou Scenic Platform",
-                  "text": "Die Lishou Scenic Platform ist eine erhöhte Holzterrasse, die einen Weitwinkelblick über das üppige Kulturerbe von Beinan bietet.",
-                  "category": "natural",
-                  "coords": [
-                        121.141135,
-                        22.756332
-                  ]
-            },
-            {
-                  "name": "Scenic Platform",
-                  "text": "Diese Aussichtsplattform bietet Besuchern eine erhöhte Perspektive direkt über die ausgegrabenen archäologischen Gräben von Beinan.",
-                  "category": "natural",
-                  "coords": [
-                        121.143994,
-                        22.754486
-                  ]
-            },
-            {
-                  "name": "East Sugar Museum",
-                  "text": "Das im ehemaligen japanischen Raffineriegebäude untergebrachte East Sugar Museum zeigt massive historische Fräsmaschinen und historische Fotografien.",
-                  "category": "museum",
-                  "coords": [
-                        121.127932,
-                        22.767547
-                  ]
-            },
-            {
                   "name": "Villa School",
                   "text": "Dieser Aussichtspunkt überblickt ein malerisches Schulgebäude, das in der charmanten Architektur einer ländlichen Landvilla errichtet wurde.",
                   "category": "natural",
@@ -10218,24 +9705,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         121.159155,
                         22.749265
-                  ]
-            },
-            {
-                  "name": "White Montage House",
-                  "text": "Das White Montage House ist ein skurriles Gebäude im Patchwork-Stil, das von einem einzigen Veteranen vollständig aus geborgenen und recycelten Materialien erbaut wurde.",
-                  "category": "landmark",
-                  "coords": [
-                        121.15889,
-                        22.751208
-                  ]
-            },
-            {
-                  "name": "Martyrs' Shrine",
-                  "text": "Dieser traditionelle Schrein im chinesischen Stil liegt auf einem ruhigen Hügel und gedenkt mit seinen leuchtend roten Säulen und geschwungenen Dächern gefallener Soldaten.",
-                  "category": "historical",
-                  "coords": [
-                        121.142893,
-                        22.753143
                   ]
             },
             {
@@ -10286,51 +9755,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taitung Chinese Association",
-                  "text": "Egy történelmi, 1927-es épületből működő Taitung Kínai Szövetség a helyi közösség örökségének jól megőrzött nevezetességeként szolgál.",
-                  "category": "landmark",
-                  "coords": [
-                        121.155793,
-                        22.753678
-                  ]
-            },
-            {
-                  "name": "Boting Art Center",
-                  "text": "A Boting Művészeti Központ egy kreatív tér, amely kortárs kiállításoknak és workshopoknak ad otthont, amelyek a regionális művészeti tehetségeket emelik ki.",
-                  "category": "cultural",
-                  "coords": [
-                        121.15317,
-                        22.757968
-                  ]
-            },
-            {
-                  "name": "Lishou Scenic Platform",
-                  "text": "A Lishou Scenic Platform egy megemelt fa terasz, amely széles látószögű kilátást nyújt a buja Beinan örökség területére.",
-                  "category": "natural",
-                  "coords": [
-                        121.141135,
-                        22.756332
-                  ]
-            },
-            {
-                  "name": "Scenic Platform",
-                  "text": "Ez a kilátóteraszt magasított perspektívát kínál a látogatóknak közvetlenül a feltárt beinan régészeti árkok felett.",
-                  "category": "natural",
-                  "coords": [
-                        121.143994,
-                        22.754486
-                  ]
-            },
-            {
-                  "name": "East Sugar Museum",
-                  "text": "Egy egykori japán korszakbeli finomítóban kapott helyet az East Sugar Múzeum, amely hatalmas régi marógépeket és történelmi fényképeket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        121.127932,
-                        22.767547
-                  ]
-            },
-            {
                   "name": "Villa School",
                   "text": "Ez a kilátó egy festői oktatási épületre néz, amely egy vidéki villa bájos építészetével épült.",
                   "category": "natural",
@@ -10373,24 +9797,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         121.159155,
                         22.749265
-                  ]
-            },
-            {
-                  "name": "White Montage House",
-                  "text": "A Fehér Montázsház egy mókás, patchwork stílusú épület, amelyet teljes egészében megmentett és újrahasznosított anyagokból épített egyetlen veterán.",
-                  "category": "landmark",
-                  "coords": [
-                        121.15889,
-                        22.751208
-                  ]
-            },
-            {
-                  "name": "Martyrs' Shrine",
-                  "text": "Ez a csendes domboldalon fekvő, hagyományos kínai stílusú szentély élénkpiros oszlopaival és ívelt tetőivel emlékezik az elesett katonákra.",
-                  "category": "historical",
-                  "coords": [
-                        121.142893,
-                        22.753143
                   ]
             },
             {
@@ -10441,51 +9847,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taitung Chinese Association",
-                  "text": "Funcționând într-o clădire istorică din 1927, Asociația Chineză Taitung servește ca un reper bine conservat al patrimoniului comunității locale.",
-                  "category": "landmark",
-                  "coords": [
-                        121.155793,
-                        22.753678
-                  ]
-            },
-            {
-                  "name": "Boting Art Center",
-                  "text": "Centrul de Artă Boting este un spațiu creativ care găzduiește expoziții contemporane și ateliere care evidențiază talentul artistic regional.",
-                  "category": "cultural",
-                  "coords": [
-                        121.15317,
-                        22.757968
-                  ]
-            },
-            {
-                  "name": "Lishou Scenic Platform",
-                  "text": "Platforma Lishou Scenic este o punte din lemn ridicată care oferă vederi cu unghi larg asupra zonei luxuriante a patrimoniului Beinan.",
-                  "category": "natural",
-                  "coords": [
-                        121.141135,
-                        22.756332
-                  ]
-            },
-            {
-                  "name": "Scenic Platform",
-                  "text": "Această punte de observație oferă vizitatorilor o perspectivă ridicată direct peste tranșeele arheologice Beinan excavate.",
-                  "category": "natural",
-                  "coords": [
-                        121.143994,
-                        22.754486
-                  ]
-            },
-            {
-                  "name": "East Sugar Museum",
-                  "text": "Găzduit într-o fostă rafinărie din epoca japoneză, Muzeul Zahărului de Est expune mașini de frezat masive de epocă și fotografii istorice.",
-                  "category": "museum",
-                  "coords": [
-                        121.127932,
-                        22.767547
-                  ]
-            },
-            {
                   "name": "Villa School",
                   "text": "Acest punct de belvedere are vedere la o clădire educațională pitorească construită cu arhitectura fermecătoare a unei vile rurale.",
                   "category": "natural",
@@ -10528,24 +9889,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         121.159155,
                         22.749265
-                  ]
-            },
-            {
-                  "name": "White Montage House",
-                  "text": "White Montage House este o clădire excentrică, în stil mozaic, construită în întregime din materiale recuperate și reciclate de un singur veteran.",
-                  "category": "landmark",
-                  "coords": [
-                        121.15889,
-                        22.751208
-                  ]
-            },
-            {
-                  "name": "Martyrs' Shrine",
-                  "text": "Amplasat pe un deal liniștit, acest altar tradițional în stil chinezesc comemorează soldații căzuți cu stâlpii săi roșii strălucitori și acoperișurile curbate.",
-                  "category": "historical",
-                  "coords": [
-                        121.142893,
-                        22.753143
                   ]
             },
             {
@@ -10596,51 +9939,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taitung Chinese Association",
-                  "text": "Operating from a historic 1927 building, the Taitung Chinese Association serves as a well-preserved landmark of the local community's heritage.",
-                  "category": "landmark",
-                  "coords": [
-                        121.155793,
-                        22.753678
-                  ]
-            },
-            {
-                  "name": "Boting Art Center",
-                  "text": "Boting Art Center is a creative space hosting contemporary exhibitions and workshops that highlight regional artistic talent.",
-                  "category": "cultural",
-                  "coords": [
-                        121.15317,
-                        22.757968
-                  ]
-            },
-            {
-                  "name": "Lishou Scenic Platform",
-                  "text": "Lishou Scenic Platform is an elevated wooden deck providing wide-angle views over the lush Beinan heritage area.",
-                  "category": "natural",
-                  "coords": [
-                        121.141135,
-                        22.756332
-                  ]
-            },
-            {
-                  "name": "Scenic Platform",
-                  "text": "This observation deck offers visitors an elevated perspective directly over the excavated Beinan archaeological trenches.",
-                  "category": "natural",
-                  "coords": [
-                        121.143994,
-                        22.754486
-                  ]
-            },
-            {
-                  "name": "East Sugar Museum",
-                  "text": "Housed in a former Japanese-era refinery, the East Sugar Museum displays massive vintage milling machinery and historical photographs.",
-                  "category": "museum",
-                  "coords": [
-                        121.127932,
-                        22.767547
-                  ]
-            },
-            {
                   "name": "Villa School",
                   "text": "This viewpoint overlooks a picturesque educational building constructed with the charming architecture of a rural country villa.",
                   "category": "natural",
@@ -10683,24 +9981,6 @@ export const poiExtraTaiwanHistoryV2: POI[] = [
                   "coords": [
                         121.159155,
                         22.749265
-                  ]
-            },
-            {
-                  "name": "White Montage House",
-                  "text": "The White Montage House is a quirky, patchwork-style building constructed entirely from salvaged and recycled materials by a single veteran.",
-                  "category": "landmark",
-                  "coords": [
-                        121.15889,
-                        22.751208
-                  ]
-            },
-            {
-                  "name": "Martyrs' Shrine",
-                  "text": "Nestled on a quiet hillside, this traditional Chinese-style shrine commemorates fallen soldiers with its bright red pillars and sweeping roofs.",
-                  "category": "historical",
-                  "coords": [
-                        121.142893,
-                        22.753143
                   ]
             },
             {

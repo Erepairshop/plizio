@@ -9002,51 +9002,6 @@ export const poiExtraPeruEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Almirante Miguel Grau Seminario",
-                  "text": "Dieses Denkmal ehrt Admiral Miguel Grau Seminario, einen bekannten peruanischen Marinehelden, und steht als Hommage an sein Erbe in der Küstenregion.",
-                  "category": "historical",
-                  "coords": [
-                        -78.590154,
-                        -9.078398
-                  ]
-            },
-            {
-                  "name": "Monumento a los Mártires Beatos",
-                  "text": "Dieses Denkmal ist den seligen Märtyrern gewidmet und erinnert an die seliggesprochenen Personen, die in der Region ihr Leben für ihren Glauben gaben.",
-                  "category": "historical",
-                  "coords": [
-                        -78.587721,
-                        -9.077073
-                  ]
-            },
-            {
-                  "name": "Monumento a la Justicia",
-                  "text": "Das Monumento a la Justicia symbolisiert die Ideale von Gerechtigkeit und Gesetz und steht als markantes öffentliches Skulpturenwerk in der Stadt.",
-                  "category": "historical",
-                  "coords": [
-                        -78.58959,
-                        -9.076533
-                  ]
-            },
-            {
-                  "name": "Monumento a Haya de la Torre",
-                  "text": "Dieses öffentliche Denkmal erinnert an Víctor Raúl Haya de la Torre, eine bedeutende Figur der peruanischen politischen Geschichte, und ehrt seinen anhaltenden Einfluss.",
-                  "category": "historical",
-                  "coords": [
-                        -78.590774,
-                        -9.07621
-                  ]
-            },
-            {
-                  "name": "Monumentos Marinos",
-                  "text": "Die Monumentos Marinos sind eine Sammlung maritim geprägter Skulpturen, die die starke Verbundenheit der Gegend mit dem Pazifik und der Fischereiindustrie widerspiegeln.",
-                  "category": "historical",
-                  "coords": [
-                        -78.59898,
-                        -9.073704
-                  ]
-            },
-            {
                   "name": "Iglesia de Mormones",
                   "text": "Dieses lokale Versammlungshaus der Heiligen der Letzten Tage bietet der mormonischen Gemeinde der Region einen Ort für Gottesdienst und Gemeinschaft.",
                   "category": "religious",
@@ -9209,30 +9164,12 @@ export const poiExtraPeruEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plazuela Las Banderas",
-                  "text": "Die Plazuela Las Banderas ist ein offener städtischer Platz, der mit Fahnenmasten geschmückt ist und einen gepflasterten Raum für bürgerliche Versammlungen und Spaziergänge im Viertel bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.59377,
-                        -9.075223
-                  ]
-            },
-            {
                   "name": "Parque \"El Alcón Dorado\"",
                   "text": "Bekannt als Park des \"Goldenen Falken\", bietet dieser grüne städtische Raum ein landschaftlich gestaltetes Erholungsgebiet mit Gehwegen zur Freude lokaler Familien.",
                   "category": "landmark",
                   "coords": [
                         -78.564315,
                         -9.103732
-                  ]
-            },
-            {
-                  "name": "Boulevard",
-                  "text": "Dieser städtische Boulevard dient als landschaftlich gestaltete Fußgängerpromenade, ideal für gemütliche Abendspaziergänge und um die lebhafte Straßenatmosphäre zu erleben.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.597517,
-                        -9.074119
                   ]
             },
             {
@@ -9316,51 +9253,6 @@ export const poiExtraPeruEconomicV2: POI[] = [
                   "coords": [
                         -78.639945,
                         -9.017089
-                  ]
-            },
-            {
-                  "name": "Almirante Miguel Grau Seminario",
-                  "text": "Ez az emlékmű Almirante Miguel Grau Seminario híres perui haditengerészeti hős előtt tiszteleg, a partvidéki régióban hagyott örökségének állítva emléket.",
-                  "category": "historical",
-                  "coords": [
-                        -78.590154,
-                        -9.078398
-                  ]
-            },
-            {
-                  "name": "Monumento a los Mártires Beatos",
-                  "text": "A Boldog Vértanúknak szentelt emlékmű azoknak a boldoggá avatott személyeknek állít emléket, akik a régióban életüket adták hitükért.",
-                  "category": "historical",
-                  "coords": [
-                        -78.587721,
-                        -9.077073
-                  ]
-            },
-            {
-                  "name": "Monumento a la Justicia",
-                  "text": "A méltányosság és a törvény ideáljait szimbolizáló Monumento a la Justicia a város kiemelkedő köztéri szobrászati alkotása.",
-                  "category": "historical",
-                  "coords": [
-                        -78.58959,
-                        -9.076533
-                  ]
-            },
-            {
-                  "name": "Monumento a Haya de la Torre",
-                  "text": "Ez a köztéri emlékmű Víctor Raúl Haya de la Torrénak, a perui politikatörténet egyik meghatározó alakjának állít emléket, tisztelegve tartós befolyása előtt.",
-                  "category": "historical",
-                  "coords": [
-                        -78.590774,
-                        -9.07621
-                  ]
-            },
-            {
-                  "name": "Monumentos Marinos",
-                  "text": "A Monumentos Marinos egy tengeri témájú szoborcsoport, amely a területnek a Csendes-óceánhoz és a halászati iparhoz fűződő szoros kapcsolatát tükrözi.",
-                  "category": "historical",
-                  "coords": [
-                        -78.59898,
-                        -9.073704
                   ]
             },
             {
@@ -9526,30 +9418,12 @@ export const poiExtraPeruEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plazuela Las Banderas",
-                  "text": "A Plazuela Las Banderas egy zászlórudakkal díszített nyitott városi tér, amely kövezett teret kínál a polgári összejövetelekhez és a környékbeli sétákhoz.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.59377,
-                        -9.075223
-                  ]
-            },
-            {
                   "name": "Parque \"El Alcón Dorado\"",
                   "text": "Az \"Arany Sólyom\" parkként ismert zöld városi tér parkosított rekreációs területet kínál sétányokkal a helyi családok örömére.",
                   "category": "landmark",
                   "coords": [
                         -78.564315,
                         -9.103732
-                  ]
-            },
-            {
-                  "name": "Boulevard",
-                  "text": "Ez a városi Boulevard egy parkosított gyalogos átjáróként szolgál, amely ideális a nyugodt esti sétákhoz és a nyüzsgő utcai hangulat megtapasztalásához.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.597517,
-                        -9.074119
                   ]
             },
             {
@@ -9633,51 +9507,6 @@ export const poiExtraPeruEconomicV2: POI[] = [
                   "coords": [
                         -78.639945,
                         -9.017089
-                  ]
-            },
-            {
-                  "name": "Almirante Miguel Grau Seminario",
-                  "text": "Acest monument îl onorează pe Almirante Miguel Grau Seminario, un renumit erou naval peruvian, reprezentând un omagiu adus moștenirii sale în regiunea de coastă.",
-                  "category": "historical",
-                  "coords": [
-                        -78.590154,
-                        -9.078398
-                  ]
-            },
-            {
-                  "name": "Monumento a los Mártires Beatos",
-                  "text": "Dedicat Martirilor Fericiți, acest monument comemorează persoanele beatificate care și-au dat viața pentru credința lor în regiune.",
-                  "category": "historical",
-                  "coords": [
-                        -78.587721,
-                        -9.077073
-                  ]
-            },
-            {
-                  "name": "Monumento a la Justicia",
-                  "text": "Simbolizând idealurile de echitate și lege, Monumento a la Justicia este o lucrare sculpturală publică proeminentă în oraș.",
-                  "category": "historical",
-                  "coords": [
-                        -78.58959,
-                        -9.076533
-                  ]
-            },
-            {
-                  "name": "Monumento a Haya de la Torre",
-                  "text": "Acest monument public îl comemorează pe Víctor Raúl Haya de la Torre, o figură majoră în istoria politică peruviană, onorând influența sa de durată.",
-                  "category": "historical",
-                  "coords": [
-                        -78.590774,
-                        -9.07621
-                  ]
-            },
-            {
-                  "name": "Monumentos Marinos",
-                  "text": "Monumentos Marinos reprezintă o colecție de piese sculpturale cu tematică maritimă care reflectă legătura puternică a zonei cu Oceanul Pacific și industria pescuitului.",
-                  "category": "historical",
-                  "coords": [
-                        -78.59898,
-                        -9.073704
                   ]
             },
             {
@@ -9843,30 +9672,12 @@ export const poiExtraPeruEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plazuela Las Banderas",
-                  "text": "Plazuela Las Banderas este o piațetă urbană deschisă, împodobită cu catarge, oferind un spațiu pavat pentru adunări civice și plimbări prin cartier.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.59377,
-                        -9.075223
-                  ]
-            },
-            {
                   "name": "Parque \"El Alcón Dorado\"",
                   "text": "Cunoscut sub numele de parcul „Șoimul de Aur”, acest spațiu urban verde oferă o zonă de agrement amenajată cu alei pentru bucuria familiilor locale.",
                   "category": "landmark",
                   "coords": [
                         -78.564315,
                         -9.103732
-                  ]
-            },
-            {
-                  "name": "Boulevard",
-                  "text": "Acest bulevard urban servește drept arteră pietonală amenajată, ideală pentru plimbări relaxante de seară și pentru a experimenta atmosfera plină de viață a străzii.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.597517,
-                        -9.074119
                   ]
             },
             {
@@ -9950,51 +9761,6 @@ export const poiExtraPeruEconomicV2: POI[] = [
                   "coords": [
                         -78.639945,
                         -9.017089
-                  ]
-            },
-            {
-                  "name": "Almirante Miguel Grau Seminario",
-                  "text": "This monument honors Almirante Miguel Grau Seminario, a renowned Peruvian naval hero, standing as a tribute to his legacy in the coastal region.",
-                  "category": "historical",
-                  "coords": [
-                        -78.590154,
-                        -9.078398
-                  ]
-            },
-            {
-                  "name": "Monumento a los Mártires Beatos",
-                  "text": "Dedicated to the Blessed Martyrs, this monument commemorates the beatified individuals who gave their lives for their faith in the region.",
-                  "category": "historical",
-                  "coords": [
-                        -78.587721,
-                        -9.077073
-                  ]
-            },
-            {
-                  "name": "Monumento a la Justicia",
-                  "text": "Symbolizing the ideals of fairness and law, the Monumento a la Justicia stands as a prominent public sculptural work in the city.",
-                  "category": "historical",
-                  "coords": [
-                        -78.58959,
-                        -9.076533
-                  ]
-            },
-            {
-                  "name": "Monumento a Haya de la Torre",
-                  "text": "This public monument commemorates Víctor Raúl Haya de la Torre, a major figure in Peruvian political history, honoring his lasting influence.",
-                  "category": "historical",
-                  "coords": [
-                        -78.590774,
-                        -9.07621
-                  ]
-            },
-            {
-                  "name": "Monumentos Marinos",
-                  "text": "The Monumentos Marinos are a collection of maritime-themed sculptural pieces that reflect the area's strong connection to the Pacific Ocean and fishing industry.",
-                  "category": "historical",
-                  "coords": [
-                        -78.59898,
-                        -9.073704
                   ]
             },
             {
@@ -10160,30 +9926,12 @@ export const poiExtraPeruEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plazuela Las Banderas",
-                  "text": "The Plazuela Las Banderas is an open urban plaza adorned with flagpoles, offering a paved space for civic gatherings and neighborhood strolls.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.59377,
-                        -9.075223
-                  ]
-            },
-            {
                   "name": "Parque \"El Alcón Dorado\"",
                   "text": "Known as the \"Golden Falcon\" park, this green urban space provides a landscaped recreational area with walkways for the enjoyment of local families.",
                   "category": "landmark",
                   "coords": [
                         -78.564315,
                         -9.103732
-                  ]
-            },
-            {
-                  "name": "Boulevard",
-                  "text": "This urban Boulevard serves as a landscaped pedestrian thoroughfare, ideal for leisurely evening walks and experiencing the lively street atmosphere.",
-                  "category": "landmark",
-                  "coords": [
-                        -78.597517,
-                        -9.074119
                   ]
             },
             {

@@ -1042,15 +1042,6 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "Bekannt für ihr markantes rotes Mauerwerk und den romanischen Stil, hat diese Kirche eine bedeutende Geschichte für die lokalen Straits-Chinesen.",
-                  "category": "religious",
-                  "coords": [
-                        103.851097,
-                        1.30173
-                  ]
-            },
-            {
                   "name": "Singapore Life Church",
                   "text": "Diese 1883 gegründete presbyterianische Gemeinde blickt auf eine lange Geschichte der Seelsorge für die lokale Teochew-sprechende Bevölkerung zurück.",
                   "category": "religious",
@@ -1093,15 +1084,6 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
                   "coords": [
                         103.842021,
                         1.303793
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "Dieses 1869 im neopalladianischen anglo-indischen Stil fertiggestellte palastartige Anwesen ist der offizielle Sitz des Präsidenten von Singapur.",
-                  "category": "castle",
-                  "coords": [
-                        103.843001,
-                        1.307115
                   ]
             },
             {
@@ -1224,15 +1206,6 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "A feltűnő vörös téglafaláról és román stílusáról ismert templom jelentős történelemmel bír a helyi szorosi kínaiak számára.",
-                  "category": "religious",
-                  "coords": [
-                        103.851097,
-                        1.30173
-                  ]
-            },
-            {
                   "name": "Singapore Life Church",
                   "text": "Az 1883-ban alapított presbiteriánus gyülekezet hosszú múltra tekint vissza a helyi teochew nyelvű közösség szolgálatában.",
                   "category": "religious",
@@ -1275,15 +1248,6 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
                   "coords": [
                         103.842021,
                         1.303793
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "Az 1869-ben neo-palladiánus angol-indiai stílusban épült palotaegyüttes Szingapúr elnökének hivatalos rezidenciája.",
-                  "category": "castle",
-                  "coords": [
-                        103.843001,
-                        1.307115
                   ]
             },
             {
@@ -1406,15 +1370,6 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "Cunoscută pentru zidăria sa roșie izbitoare și stilul romanic, această biserică are o istorie semnificativă pentru chinezii din strâmtori.",
-                  "category": "religious",
-                  "coords": [
-                        103.851097,
-                        1.30173
-                  ]
-            },
-            {
                   "name": "Singapore Life Church",
                   "text": "Fondată în 1883, această congregație presbiteriană are o lungă istorie de slujire a comunității locale vorbitoare de dialect Teochew.",
                   "category": "religious",
@@ -1457,15 +1412,6 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
                   "coords": [
                         103.842021,
                         1.303793
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "Finalizată în 1869 într-un stil anglo-indian neo-palladian, această moșie somptuoasă este reședința oficială a președintelui din Singapore.",
-                  "category": "castle",
-                  "coords": [
-                        103.843001,
-                        1.307115
                   ]
             },
             {
@@ -1588,15 +1534,6 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Prinsep St. Presbyterian Church",
-                  "text": "Known for its striking red brickwork and Romanesque style, this church holds significant history for the local Straits Chinese.",
-                  "category": "religious",
-                  "coords": [
-                        103.851097,
-                        1.30173
-                  ]
-            },
-            {
                   "name": "Singapore Life Church",
                   "text": "Founded in 1883, this Presbyterian congregation has a long history of ministering to the local Teochew-speaking community.",
                   "category": "religious",
@@ -1639,15 +1576,6 @@ export const poiExtraSingaporeLandmarksV2: POI[] = [
                   "coords": [
                         103.842021,
                         1.303793
-                  ]
-            },
-            {
-                  "name": "Istana",
-                  "text": "Completed in 1869 in a neo-Palladian Anglo-Indian style, this palatial estate is the official residence of the President of Singapore.",
-                  "category": "castle",
-                  "coords": [
-                        103.843001,
-                        1.307115
                   ]
             },
             {

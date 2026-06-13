@@ -51,24 +51,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maritime Museum of San Diego",
-                  "text": "Das Maritime Museum of San Diego besitzt eine Sammlung historischer Schiffe, darunter die Star of India.",
-                  "category": "museum",
-                  "coords": [
-                        -117.174156,
-                        32.720821
-                  ]
-            },
-            {
-                  "name": "USS Midway Museum",
-                  "text": "Museum auf einem Flugzeugträger in der San Diego Bay, in Dienst gestellt 1945.",
-                  "category": "museum",
-                  "coords": [
-                        -117.175114,
-                        32.713761
-                  ]
-            },
-            {
                   "name": "Veteran's Museum and Memorial Center",
                   "text": "Das Veteran's Museum and Memorial Center in San Diego ehrt Veteranen und Militärgeschichte.",
                   "category": "museum",
@@ -177,15 +159,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harbor Drive Pedestrian Bridge",
-                  "text": "Die Harbor Drive Pedestrian Bridge ist eine Fußgängerbrücke in San Diego, die das Kongresszentrum mit dem Embarcadero verbindet.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.157031,
-                        32.705068
-                  ]
-            },
-            {
                   "name": "Spanish Village Art Center",
                   "text": "Das Spanish Village Art Center ist ein Künstlerdorf im Balboa Park in San Diego, das für die California Pacific International Exposition 1935 erbaut wurde.",
                   "category": "landmark",
@@ -222,30 +195,12 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Horton Plaza Park",
-                  "text": "Ein öffentlicher Platz im Stadtzentrum von Diego Zoo mit einem Brunnen und Sitzgelegenheiten.",
-                  "category": "park",
-                  "coords": [
-                        -117.161524,
-                        32.715108
-                  ]
-            },
-            {
                   "name": "Gallagher Square",
                   "text": "Ein Park in Diego Zoo neben dem Petco Park, der für Vorbereitungstreffen genutzt wird.",
                   "category": "park",
                   "coords": [
                         -117.156948,
                         32.708875
-                  ]
-            },
-            {
-                  "name": "Chicano Park",
-                  "text": "Der Chicano Park in San Diego ist ein National Historic Landmark und bekannt für seine Wandmalereien.",
-                  "category": "park",
-                  "coords": [
-                        -117.143076,
-                        32.700174
                   ]
             },
             {
@@ -302,24 +257,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   "coords": [
                         -117.157818,
                         32.741698
-                  ]
-            },
-            {
-                  "name": "Maritime Museum of San Diego",
-                  "text": "A Maritime Museum of San Diego történelmi hajók gyűjteményével rendelkezik, köztük a Star of India-val.",
-                  "category": "museum",
-                  "coords": [
-                        -117.174156,
-                        32.720821
-                  ]
-            },
-            {
-                  "name": "USS Midway Museum",
-                  "text": "Múzeum egy repülőgép-hordozón a San Diego-öbölben, 1945-ben állt szolgálatba.",
-                  "category": "museum",
-                  "coords": [
-                        -117.175114,
-                        32.713761
                   ]
             },
             {
@@ -431,15 +368,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harbor Drive Pedestrian Bridge",
-                  "text": "A Harbor Drive gyalogoshíd San Diegóban található, összeköti a Kongresszusi Központot az Embarcaderóval.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.157031,
-                        32.705068
-                  ]
-            },
-            {
                   "name": "Spanish Village Art Center",
                   "text": "A Spanish Village Art Center egy művészfalu a San Diego-i Balboa Parkban, amelyet az 1935-ös California Pacific International Expositionra építettek.",
                   "category": "landmark",
@@ -476,30 +404,12 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Horton Plaza Park",
-                  "text": "Egy nyilvános tér Diego Zoo belvárosában szökőkúttal és ülőhelyekkel.",
-                  "category": "park",
-                  "coords": [
-                        -117.161524,
-                        32.715108
-                  ]
-            },
-            {
                   "name": "Gallagher Square",
                   "text": "Egy park a Diego Zoo-ban a Petco Park mellett, előtti gyülekezőkre használva.",
                   "category": "park",
                   "coords": [
                         -117.156948,
                         32.708875
-                  ]
-            },
-            {
-                  "name": "Chicano Park",
-                  "text": "A Chicano Park San Diegóban egy nemzeti történelmi nevezetesség, híres falfestményeiről.",
-                  "category": "park",
-                  "coords": [
-                        -117.143076,
-                        32.700174
                   ]
             },
             {
@@ -556,24 +466,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   "coords": [
                         -117.157818,
                         32.741698
-                  ]
-            },
-            {
-                  "name": "Maritime Museum of San Diego",
-                  "text": "Maritime Museum of San Diego are o colecție de nave istorice, inclusiv Star of India.",
-                  "category": "museum",
-                  "coords": [
-                        -117.174156,
-                        32.720821
-                  ]
-            },
-            {
-                  "name": "USS Midway Museum",
-                  "text": "Muzeu pe un portavion în golful San Diego, pus în serviciu în 1945.",
-                  "category": "museum",
-                  "coords": [
-                        -117.175114,
-                        32.713761
                   ]
             },
             {
@@ -685,15 +577,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harbor Drive Pedestrian Bridge",
-                  "text": "Podul pietonal Harbor Drive este un pod pietonal în San Diego care leagă Centrul de Convenții de Embarcadero.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.157031,
-                        32.705068
-                  ]
-            },
-            {
                   "name": "Spanish Village Art Center",
                   "text": "Spanish Village Art Center este un sat de artiști în Parcul Balboa din San Diego, construit pentru Expoziția Internațională California Pacific din 1935.",
                   "category": "landmark",
@@ -730,30 +613,12 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Horton Plaza Park",
-                  "text": "O piață publică în centrul orașului Diego Zoo cu o fântână și locuri de ședere.",
-                  "category": "park",
-                  "coords": [
-                        -117.161524,
-                        32.715108
-                  ]
-            },
-            {
                   "name": "Gallagher Square",
                   "text": "Un parc în Diego Zoo adiacent Parcului Petco, folosit pentru adunări înainte de joc.",
                   "category": "park",
                   "coords": [
                         -117.156948,
                         32.708875
-                  ]
-            },
-            {
-                  "name": "Chicano Park",
-                  "text": "Parcul Chicano din San Diego este un reper istoric național cunoscut pentru picturile sale murale.",
-                  "category": "park",
-                  "coords": [
-                        -117.143076,
-                        32.700174
                   ]
             },
             {
@@ -810,24 +675,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   "coords": [
                         -117.157818,
                         32.741698
-                  ]
-            },
-            {
-                  "name": "Maritime Museum of San Diego",
-                  "text": "The Maritime Museum of San Diego has a collection of historic ships including the Star of India.",
-                  "category": "museum",
-                  "coords": [
-                        -117.174156,
-                        32.720821
-                  ]
-            },
-            {
-                  "name": "USS Midway Museum",
-                  "text": "Aircraft carrier museum in San Diego Bay, commissioned in 1945.",
-                  "category": "museum",
-                  "coords": [
-                        -117.175114,
-                        32.713761
                   ]
             },
             {
@@ -939,15 +786,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harbor Drive Pedestrian Bridge",
-                  "text": "The Harbor Drive Pedestrian Bridge is a footbridge in San Diego that connects the Convention Center to the Embarcadero.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.157031,
-                        32.705068
-                  ]
-            },
-            {
                   "name": "Spanish Village Art Center",
                   "text": "The Spanish Village Art Center is an artists' village in Balboa Park in San Diego, built for the 1935 California Pacific International Exposition.",
                   "category": "landmark",
@@ -984,30 +822,12 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Horton Plaza Park",
-                  "text": "A public plaza in Diego Zoo's downtown with a fountain and seating.",
-                  "category": "park",
-                  "coords": [
-                        -117.161524,
-                        32.715108
-                  ]
-            },
-            {
                   "name": "Gallagher Square",
                   "text": "A park in Diego Zoo adjacent to Petco Park, used for pre-game gatherings.",
                   "category": "park",
                   "coords": [
                         -117.156948,
                         32.708875
-                  ]
-            },
-            {
-                  "name": "Chicano Park",
-                  "text": "Chicano Park in San Diego is a National Historic Landmark known for its murals.",
-                  "category": "park",
-                  "coords": [
-                        -117.143076,
-                        32.700174
                   ]
             },
             {
@@ -20085,15 +19905,6 @@ export const poiExtraUsaLifeV2: POI[] = [
     id: "busch-gardens-tampa-bay-life-v2", "sights": {
       "de": [
             {
-                  "name": "Robles Park",
-                  "text": "Der Robles Park ist eine Grünanlage in Tampa, Florida.",
-                  "category": "park",
-                  "coords": [
-                        -82.455013,
-                        27.974024
-                  ]
-            },
-            {
                   "name": "Busch Gardens Tampa",
                   "text": "Ein großer Themenpark in Tampa mit Achterbahnen und Tierausstellungen.",
                   "category": "recreational",
@@ -20356,15 +20167,6 @@ export const poiExtraUsaLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Robles Park",
-                  "text": "A Robles Park egy városi park Tampában, Floridában.",
-                  "category": "park",
-                  "coords": [
-                        -82.455013,
-                        27.974024
-                  ]
-            },
             {
                   "name": "Busch Gardens Tampa",
                   "text": "Egy nagy témapark Tampában hullámvasutakkal és állatbemutatókkal.",
@@ -20629,15 +20431,6 @@ export const poiExtraUsaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Robles Park",
-                  "text": "Robles Park este un parc urban în Tampa, Florida.",
-                  "category": "park",
-                  "coords": [
-                        -82.455013,
-                        27.974024
-                  ]
-            },
-            {
                   "name": "Busch Gardens Tampa",
                   "text": "Un parc tematic major în Tampa cu montagne russe și exponate cu animale.",
                   "category": "recreational",
@@ -20900,15 +20693,6 @@ export const poiExtraUsaLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Robles Park",
-                  "text": "Robles Park is an urban park in Tampa, Florida.",
-                  "category": "park",
-                  "coords": [
-                        -82.455013,
-                        27.974024
-                  ]
-            },
             {
                   "name": "Busch Gardens Tampa",
                   "text": "A major theme park in Tampa featuring roller coasters and animal exhibits.",
@@ -23820,15 +23604,6 @@ export const poiExtraUsaLifeV2: POI[] = [
     id: "knott-s-berry-farm-life-v2", "sights": {
       "de": [
             {
-                  "name": "Disney Gallery",
-                  "text": "Die Disney Gallery in Anaheim zeigt Kunstwerke aus dem Disney-Universum.",
-                  "category": "museum",
-                  "coords": [
-                        -117.91843,
-                        33.810195
-                  ]
-            },
-            {
                   "name": "MUZEO",
                   "text": "MUZEO ist ein Museum in Anaheim im historischen Carnegie-Bibliotheksgebäude.",
                   "category": "museum",
@@ -23856,15 +23631,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Finding Nemo Submarine Voyage",
-                  "text": "Die Finding Nemo Submarine Voyage ist eine U-Boot-Fahrt durch eine Unterwasserwelt in Disneyland.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.917176,
-                        33.812831
-                  ]
-            },
-            {
                   "name": "Jumpin' Jellyfish",
                   "text": "In knott-s-berry-farm-life-v2 ist Jumpin' Jellyfish eine Fallschirmsprungfahrt mit Quallenmotiv.",
                   "category": "landmark",
@@ -23883,15 +23649,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Frontierland Landing",
-                  "text": "In knott-s-berry-farm-life-v2 ist Frontierland Landing der Einstiegsbereich für die Sailing Ship Columbia, ein Nachbau eines Schiffes aus dem 18. Jahrhundert.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.920578,
-                        33.812242
-                  ]
-            },
-            {
                   "name": "Casey Jr. Circus Train",
                   "text": "In knott-s-berry-farm-life-v2 ist Casey Jr. Circus Train eine kleine Zugfahrt basierend auf dem Dumbo-Film.",
                   "category": "landmark",
@@ -23901,39 +23658,12 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Davy Crockett Explorer Canoes",
-                  "text": "In knott-s-berry-farm-life-v2 können Gäste bei Davy Crockett Explorer Canoes Kanu auf dem Rivers of America fahren.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.922126,
-                        33.812518
-                  ]
-            },
-            {
                   "name": "Silver Bullet",
                   "text": "In knott-s-berry-farm-life-v2 ist Silver Bullet eine hängende Looping-Achterbahn.",
                   "category": "landmark",
                   "coords": [
                         -118.000005,
                         33.844655
-                  ]
-            },
-            {
-                  "name": "Indiana Jones Adventure",
-                  "text": "In knott-s-berry-farm-life-v2 ist Indiana Jones Adventure eine immersive Dark Ride in einem Jeep-Fahrzeug.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.921345,
-                        33.809934
-                  ]
-            },
-            {
-                  "name": "Adventureland Treehouse",
-                  "text": "Das Adventureland Treehouse ist ein begehbares Baumhaus-Spielareal in Disneyland.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.920549,
-                        33.811248
                   ]
             },
             {
@@ -23991,24 +23721,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Astro Orbitor",
-                  "text": "Ein thematisches Spinnfahrgeschäft mit raketenförmigen Gondeln, die einen Mittelpfosten umkreisen.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.918288,
-                        33.812095
-                  ]
-            },
-            {
-                  "name": "Space Mountain",
-                  "text": "In knott-s-berry-farm-life-v2 ist Space Mountain eine Indoor-Achterbahn im Dunkeln.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.9175,
-                        33.810969
-                  ]
-            },
-            {
                   "name": "Monsters, Inc. Mike & Sulley to the Rescue!",
                   "text": "In knott-s-berry-farm-life-v2 ist Monsters, Inc. Mike & Sulley to the Rescue! eine Dark Ride basierend auf dem Film.",
                   "category": "landmark",
@@ -24038,15 +23750,6 @@ export const poiExtraUsaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Disney Gallery",
-                  "text": "Az Anaheim-i Disney Gallery a Disney-univerzum műalkotásait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -117.91843,
-                        33.810195
-                  ]
-            },
-            {
                   "name": "MUZEO",
                   "text": "A MUZEO egy múzeum Anaheimben, a történelmi Carnegie Könyvtár épületében.",
                   "category": "museum",
@@ -24074,15 +23777,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Finding Nemo Submarine Voyage",
-                  "text": "A Finding Nemo Submarine Voyage egy tengeralattjáró-út egy víz alatti világon át a Disneylandben.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.917176,
-                        33.812831
-                  ]
-            },
-            {
                   "name": "Jumpin' Jellyfish",
                   "text": "A knott-s-berry-farm-life-v2 területén a Jumpin' Jellyfish egy ejtőernyős ugratás, amely medúzák témájú.",
                   "category": "landmark",
@@ -24101,15 +23795,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Frontierland Landing",
-                  "text": "A knott-s-berry-farm-life-v2 területén a Frontierland Landing a Sailing Ship Columbia beszállóhelye, egy 18. századi hajó mása.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.920578,
-                        33.812242
-                  ]
-            },
-            {
                   "name": "Casey Jr. Circus Train",
                   "text": "A knott-s-berry-farm-life-v2 területén a Casey Jr. Circus Train egy kis vonatozás, amely a Dumbo film alapján készült.",
                   "category": "landmark",
@@ -24119,39 +23804,12 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Davy Crockett Explorer Canoes",
-                  "text": "A knott-s-berry-farm-life-v2 területén a Davy Crockett Explorer Canoes lehetővé teszi a vendégeknek, hogy kenuzzanak a Rivers of America-n.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.922126,
-                        33.812518
-                  ]
-            },
-            {
                   "name": "Silver Bullet",
                   "text": "A knott-s-berry-farm-life-v2 területén a Silver Bullet egy függő hurkolt hullámvasút.",
                   "category": "landmark",
                   "coords": [
                         -118.000005,
                         33.844655
-                  ]
-            },
-            {
-                  "name": "Indiana Jones Adventure",
-                  "text": "A knott-s-berry-farm-life-v2 területén az Indiana Jones Adventure egy magával ragadó sötét utazás dzsip járműben.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.921345,
-                        33.809934
-                  ]
-            },
-            {
-                  "name": "Adventureland Treehouse",
-                  "text": "Az Adventureland Treehouse egy bejárható játszótér a Disneylandben egy faházban.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.920549,
-                        33.811248
                   ]
             },
             {
@@ -24209,24 +23867,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Astro Orbitor",
-                  "text": "Tematikus forgó játék rakétakabinokkal, amelyek egy központi oszlop körül keringenek.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.918288,
-                        33.812095
-                  ]
-            },
-            {
-                  "name": "Space Mountain",
-                  "text": "A knott-s-berry-farm-life-v2 területén a Space Mountain egy beltéri hullámvasút a sötétben.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.9175,
-                        33.810969
-                  ]
-            },
-            {
                   "name": "Monsters, Inc. Mike & Sulley to the Rescue!",
                   "text": "A knott-s-berry-farm-life-v2 területén a Monsters, Inc. Mike & Sulley to the Rescue! egy sötét utazás a film alapján.",
                   "category": "landmark",
@@ -24256,15 +23896,6 @@ export const poiExtraUsaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Disney Gallery",
-                  "text": "Disney Gallery din Anaheim prezintă opere de artă din universul Disney.",
-                  "category": "museum",
-                  "coords": [
-                        -117.91843,
-                        33.810195
-                  ]
-            },
-            {
                   "name": "MUZEO",
                   "text": "MUZEO este un muzeu în Anaheim, găzduit în clădirea istorică a Bibliotecii Carnegie.",
                   "category": "museum",
@@ -24292,15 +23923,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Finding Nemo Submarine Voyage",
-                  "text": "Finding Nemo Submarine Voyage este o plimbare cu submarinul printr-o lume subacvatică în Disneyland.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.917176,
-                        33.812831
-                  ]
-            },
-            {
                   "name": "Jumpin' Jellyfish",
                   "text": "În knott-s-berry-farm-life-v2, Jumpin' Jellyfish este o plimbare cu parașuta tematică meduzelor.",
                   "category": "landmark",
@@ -24319,15 +23941,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Frontierland Landing",
-                  "text": "În knott-s-berry-farm-life-v2, Frontierland Landing este zona de îmbarcare pentru Sailing Ship Columbia, o replică a unei nave din secolul al XVIII-lea.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.920578,
-                        33.812242
-                  ]
-            },
-            {
                   "name": "Casey Jr. Circus Train",
                   "text": "În knott-s-berry-farm-life-v2, Casey Jr. Circus Train este o plimbare cu un trenuleț bazat pe filmul Dumbo.",
                   "category": "landmark",
@@ -24337,39 +23950,12 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Davy Crockett Explorer Canoes",
-                  "text": "În knott-s-berry-farm-life-v2, Davy Crockett Explorer Canoes permite oaspeților să vâslească cu canoe pe Rivers of America.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.922126,
-                        33.812518
-                  ]
-            },
-            {
                   "name": "Silver Bullet",
                   "text": "În knott-s-berry-farm-life-v2, Silver Bullet este un roller coaster suspendat cu bucle.",
                   "category": "landmark",
                   "coords": [
                         -118.000005,
                         33.844655
-                  ]
-            },
-            {
-                  "name": "Indiana Jones Adventure",
-                  "text": "În knott-s-berry-farm-life-v2, Indiana Jones Adventure este o plimbare întunecată imersivă într-un vehicul jeep.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.921345,
-                        33.809934
-                  ]
-            },
-            {
-                  "name": "Adventureland Treehouse",
-                  "text": "Adventureland Treehouse este o zonă de joacă sub formă de casă în copac, accesibilă în Disneyland.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.920549,
-                        33.811248
                   ]
             },
             {
@@ -24427,24 +24013,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Astro Orbitor",
-                  "text": "O atracție rotitoare cu tematică spațială, cu cabine în formă de rachetă care orbitează un stâlp central.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.918288,
-                        33.812095
-                  ]
-            },
-            {
-                  "name": "Space Mountain",
-                  "text": "În knott-s-berry-farm-life-v2, Space Mountain este un roller coaster interior în întuneric.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.9175,
-                        33.810969
-                  ]
-            },
-            {
                   "name": "Monsters, Inc. Mike & Sulley to the Rescue!",
                   "text": "În knott-s-berry-farm-life-v2, Monsters, Inc. Mike & Sulley to the Rescue! este o plimbare întunecată bazată pe film.",
                   "category": "landmark",
@@ -24474,15 +24042,6 @@ export const poiExtraUsaLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Disney Gallery",
-                  "text": "Disney Gallery in Anaheim showcases artwork from the Disney universe.",
-                  "category": "museum",
-                  "coords": [
-                        -117.91843,
-                        33.810195
-                  ]
-            },
-            {
                   "name": "MUZEO",
                   "text": "MUZEO is a museum in Anaheim housed in the historic Carnegie Library building.",
                   "category": "museum",
@@ -24510,15 +24069,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Finding Nemo Submarine Voyage",
-                  "text": "Finding Nemo Submarine Voyage is a submarine ride through an underwater world at Disneyland.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.917176,
-                        33.812831
-                  ]
-            },
-            {
                   "name": "Jumpin' Jellyfish",
                   "text": "In knott-s-berry-farm-life-v2, Jumpin' Jellyfish is a parachute drop ride themed to jellyfish.",
                   "category": "landmark",
@@ -24537,15 +24087,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Frontierland Landing",
-                  "text": "In knott-s-berry-farm-life-v2, Frontierland Landing is the boarding area for the Sailing Ship Columbia, a replica of an 18th-century ship.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.920578,
-                        33.812242
-                  ]
-            },
-            {
                   "name": "Casey Jr. Circus Train",
                   "text": "In knott-s-berry-farm-life-v2, Casey Jr. Circus Train is a small train ride based on the Dumbo movie.",
                   "category": "landmark",
@@ -24555,39 +24096,12 @@ export const poiExtraUsaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Davy Crockett Explorer Canoes",
-                  "text": "In knott-s-berry-farm-life-v2, Davy Crockett Explorer Canoes lets guests paddle canoes around Rivers of America.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.922126,
-                        33.812518
-                  ]
-            },
-            {
                   "name": "Silver Bullet",
                   "text": "In knott-s-berry-farm-life-v2, Silver Bullet is a suspended looping roller coaster.",
                   "category": "landmark",
                   "coords": [
                         -118.000005,
                         33.844655
-                  ]
-            },
-            {
-                  "name": "Indiana Jones Adventure",
-                  "text": "In knott-s-berry-farm-life-v2, Indiana Jones Adventure is an immersive dark ride in a jeep vehicle.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.921345,
-                        33.809934
-                  ]
-            },
-            {
-                  "name": "Adventureland Treehouse",
-                  "text": "Adventureland Treehouse is an explorable treehouse play area at Disneyland.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.920549,
-                        33.811248
                   ]
             },
             {
@@ -24642,24 +24156,6 @@ export const poiExtraUsaLifeV2: POI[] = [
                   "coords": [
                         -117.944001,
                         33.875834
-                  ]
-            },
-            {
-                  "name": "Astro Orbitor",
-                  "text": "A space-themed spinning ride with rocket-shaped gondolas that orbit a central pillar.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.918288,
-                        33.812095
-                  ]
-            },
-            {
-                  "name": "Space Mountain",
-                  "text": "In knott-s-berry-farm-life-v2, Space Mountain is an indoor roller coaster in the dark.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.9175,
-                        33.810969
                   ]
             },
             {

@@ -393,15 +393,6 @@ export const poiExtraSwazilandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Old mine tunnel",
-                  "text": "Dieser alte Minentunnel ist ein dunkles, raues Überbleibsel aus der historischen Zeit des Goldrauschs in dieser Region.",
-                  "category": "landmark",
-                  "coords": [
-                        31.118509,
-                        -25.95994
-                  ]
-            },
-            {
                   "name": "Songimvelo Nature Reserve",
                   "text": "Das Songimvelo Nature Reserve schützt hügelige Savannen und bewaldete Schluchten entlang der malerischen Grenze zwischen Südafrika und Eswatini.",
                   "category": "natural",
@@ -428,15 +419,6 @@ export const poiExtraSwazilandReliefV2: POI[] = [
                   "coords": [
                         31.0933,
                         -25.9583
-                  ]
-            },
-            {
-                  "name": "Old mine tunnel",
-                  "text": "Ez a régi bányajárat a régió történelmi aranyláz korszakának sötét, zord maradványaként áll.",
-                  "category": "landmark",
-                  "coords": [
-                        31.118509,
-                        -25.95994
                   ]
             },
             {
@@ -469,15 +451,6 @@ export const poiExtraSwazilandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Old mine tunnel",
-                  "text": "Acest vechi tunel de mină rămâne o relicvă întunecată și accidentată a epocii istorice a goanei după aur din regiune.",
-                  "category": "landmark",
-                  "coords": [
-                        31.118509,
-                        -25.95994
-                  ]
-            },
-            {
                   "name": "Songimvelo Nature Reserve",
                   "text": "Rezervația Naturală Songimvelo protejează savanele ondulate și ravene împădurite de-a lungul graniței pitorești dintre Africa de Sud și Eswatini.",
                   "category": "natural",
@@ -504,15 +477,6 @@ export const poiExtraSwazilandReliefV2: POI[] = [
                   "coords": [
                         31.0933,
                         -25.9583
-                  ]
-            },
-            {
-                  "name": "Old mine tunnel",
-                  "text": "This old mine tunnel stands as a dark, rugged remnant of the region's historic gold rush era.",
-                  "category": "landmark",
-                  "coords": [
-                        31.118509,
-                        -25.95994
                   ]
             },
             {

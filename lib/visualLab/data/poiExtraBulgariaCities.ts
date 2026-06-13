@@ -6150,39 +6150,12 @@ export const poiExtraBulgariaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tsentralen plazh",
-                  "text": "Zentralstrand von Burgas mit feinem Sand und Promenade.",
-                  "category": "recreational",
-                  "coords": [
-                        27.482548,
-                        42.492607
-                  ]
-            },
-            {
                   "name": "Neohranyaem plazh",
                   "text": "Ein naturbelassener Strandabschnitt in Burgas für Erholung an der Küste.",
                   "category": "recreational",
                   "coords": [
                         27.482011,
                         42.488748
-                  ]
-            },
-            {
-                  "name": "Severen Plazh",
-                  "text": "Ein beliebter Sandstrand im nördlichen Teil der Stadt Burgas.",
-                  "category": "recreational",
-                  "coords": [
-                        27.484204,
-                        42.502895
-                  ]
-            },
-            {
-                  "name": "Plazh Solnitsi",
-                  "text": "Ein Strand in Burgas, der für seine Nähe zu den Salzpfannen bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        27.486573,
-                        42.516976
                   ]
             },
             {
@@ -6431,33 +6404,6 @@ export const poiExtraBulgariaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Felügyelet nélküli strand",
-                  "text": "Természetes tengerparti szakasz Burgaszban a kikapcsolódáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        27.482011,
-                        42.488748
-                  ]
-            },
-            {
-                  "name": "Severen Plazh",
-                  "text": "Népszerű homokos tengerpart Burgasz északi részén.",
-                  "category": "recreational",
-                  "coords": [
-                        27.484204,
-                        42.502895
-                  ]
-            },
-            {
-                  "name": "Plazh Solnitsi",
-                  "text": "Burgaszi tengerpart, amely a sólepárlók közelségéről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        27.486573,
-                        42.516976
-                  ]
-            },
-            {
                   "name": "Leten teatar",
                   "text": "Szabadtéri színpad Burgasz tengerparti parkjában kulturális eseményekhez.",
                   "category": "cultural",
@@ -6694,39 +6640,12 @@ export const poiExtraBulgariaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tsentralen plazh",
-                  "text": "Plaja Centrală din Burgas, cu nisip fin și promenadă.",
-                  "category": "recreational",
-                  "coords": [
-                        27.482548,
-                        42.492607
-                  ]
-            },
-            {
                   "name": "Neohranyaem plazh",
                   "text": "O zonă de plajă naturală situată în Burgas pentru relaxare la malul mării.",
                   "category": "recreational",
                   "coords": [
                         27.482011,
                         42.488748
-                  ]
-            },
-            {
-                  "name": "Severen Plazh",
-                  "text": "O plajă de nisip populară situată în partea de nord a orașului Burgas.",
-                  "category": "recreational",
-                  "coords": [
-                        27.484204,
-                        42.502895
-                  ]
-            },
-            {
-                  "name": "Plazh Solnitsi",
-                  "text": "O plajă din Burgas cunoscută pentru proximitatea sa față de saline.",
-                  "category": "recreational",
-                  "coords": [
-                        27.486573,
-                        42.516976
                   ]
             },
             {
@@ -6966,39 +6885,12 @@ export const poiExtraBulgariaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tsentralen plazh",
-                  "text": "Central Beach of Burgas with fine sand and a promenade.",
-                  "category": "recreational",
-                  "coords": [
-                        27.482548,
-                        42.492607
-                  ]
-            },
-            {
                   "name": "Neohranyaem plazh",
                   "text": "A natural beach area located in Burgas for coastal relaxation.",
                   "category": "recreational",
                   "coords": [
                         27.482011,
                         42.488748
-                  ]
-            },
-            {
-                  "name": "Severen Plazh",
-                  "text": "A popular sandy beach located in the northern part of Burgas.",
-                  "category": "recreational",
-                  "coords": [
-                        27.484204,
-                        42.502895
-                  ]
-            },
-            {
-                  "name": "Plazh Solnitsi",
-                  "text": "A beach in Burgas known for its proximity to the salt pans.",
-                  "category": "recreational",
-                  "coords": [
-                        27.486573,
-                        42.516976
                   ]
             },
             {
@@ -7238,237 +7130,12 @@ export const poiExtraBulgariaCities: POI[] = [
     id: "city-veliko-tarnovo", "sights": {
       "de": [
             {
-                  "name": "Kashta muzei “Petko R. Slaveikov”",
-                  "text": "Petko-R.-Slavejkow-Hausmuseum in Veliko Tarnowo, Geburtshaus des Dichters.",
-                  "category": "museum",
-                  "coords": [
-                        25.635498,
-                        43.0854
-                  ]
-            },
-            {
-                  "name": "Sarafkina kashta",
-                  "text": "Sarafkinas Haus in Veliko Tarnowo, ein historisches Wohnhausmuseum aus dem 19. Jahrhundert.",
-                  "category": "museum",
-                  "coords": [
-                        25.640669,
-                        43.081997
-                  ]
-            },
-            {
-                  "name": "Tsarevets",
-                  "text": "Tsarevets ist eine Burg in Weliko Tarnowo und war die Hauptfestung des Zweiten Bulgarischen Reiches.",
-                  "category": "castle",
-                  "coords": [
-                        25.650474,
-                        43.083563
-                  ]
-            },
-            {
-                  "name": "Muzikalno-Dramatichen Teatar Konstantin Kisimov",
-                  "text": "Musik- und Schauspieltheater Konstantin Kissimow in Veliko Tarnowo, benannt nach dem Schauspieler.",
-                  "category": "cultural",
-                  "coords": [
-                        25.63055,
-                        43.081615
-                  ]
-            },
-            {
-                  "name": "Trapezitsa",
-                  "text": "Trapezitza ist eine Burgruine in Weliko Tarnowo und war die zweite Festung der historischen Hauptstadt.",
-                  "category": "castle",
-                  "coords": [
-                        25.646163,
-                        43.085376
-                  ]
-            },
-            {
-                  "name": "Leten teatar",
-                  "text": "Sommerlichtspieltheater in Veliko Tarnovo – Freiluftbühne im Park.",
-                  "category": "cultural",
-                  "coords": [
-                        25.632857,
-                        43.078707
-                  ]
-            },
-            {
-                  "name": "Regionalen Istoricheski Muzei",
-                  "text": "Regionalgeschichtliches Museum von Veliko Tarnovo im alten Postgebäude.",
-                  "category": "museum",
-                  "coords": [
-                        25.6443,
-                        43.081466
-                  ]
-            },
-            {
-                  "name": "Arheologicheski muzei",
-                  "text": "Das Archaeological Museum präsentiert historische Funde in Weliko Tarnowo.",
-                  "category": "museum",
-                  "coords": [
-                        25.642027,
-                        43.080878
-                  ]
-            },
-            {
-                  "name": "Glavna porta",
-                  "text": "Glavna porta – das Haupttor der mittelalterlichen Zitadelle von Veliko Tarnovo.",
-                  "category": "historical",
-                  "coords": [
-                        25.647913,
-                        43.08216
-                  ]
-            },
-            {
-                  "name": "Muzei na ilyuziite",
-                  "text": "Museum der Illusionen in Veliko Tarnovo mit interaktiven Exponaten.",
-                  "category": "museum",
-                  "coords": [
-                        25.640316,
-                        43.083112
-                  ]
-            },
-            {
-                  "name": "Shishmanova banya",
-                  "text": "Shishmanova banya – historisches Bad aus dem Mittelalter in Veliko Tarnovo.",
-                  "category": "historical",
-                  "coords": [
-                        25.649823,
-                        43.086695
-                  ]
-            },
-            {
-                  "name": "Grad na Frankite",
-                  "text": "Grad na Frankite – das ehemalige Frankenviertel in Veliko Tarnovo.",
-                  "category": "historical",
-                  "coords": [
-                        25.656399,
-                        43.078622
-                  ]
-            },
-            {
-                  "name": "Park Mini Balgariya",
-                  "text": "Mini Bulgaria Park in Veliko Tarnovo mit Miniaturmodellen bulgarischer Wahrzeichen.",
-                  "category": "family",
-                  "coords": [
-                        25.654668,
-                        43.07935
-                  ]
-            },
-            {
-                  "name": "Kashtata s maimunkata",
-                  "text": "House with the Monkey ist eine Attraktion in Weliko Tarnowo, die vom berühmten Baumeister Kolyu Ficheto erbaut wurde.",
-                  "category": "landmark",
-                  "coords": [
-                        25.636852,
-                        43.085026
-                  ]
-            },
-            {
                   "name": "Park Druzhba",
                   "text": "Park Druzhba in Veliko Tarnowo, ein öffentlicher Park der Freundschaft.",
                   "category": "park",
                   "coords": [
                         25.629244,
                         43.074778
-                  ]
-            },
-            {
-                  "name": "Park Kolo Ficheto",
-                  "text": "Park Kolo Fitscheto in Veliko Tarnowo, benannt nach dem bulgarischen Architekten.",
-                  "category": "park",
-                  "coords": [
-                        25.60661,
-                        43.078687
-                  ]
-            },
-            {
-                  "name": "Balduinova kula",
-                  "text": "Turm von Balduin in Veliko Tarnowo, ein mittelalterlicher Turm in der Zarewez-Festung, verbunden mit Balduin I. von Konstantinopel.",
-                  "category": "historical",
-                  "coords": [
-                        25.65307,
-                        43.080548
-                  ]
-            },
-            {
-                  "name": "Sv. Evtimii Patriarh Tarnovski",
-                  "text": "Denkmal des Patriarchen Euthymius von Tarnovo in Veliko Tarnovo.",
-                  "category": "historical",
-                  "coords": [
-                        25.649077,
-                        43.078924
-                  ]
-            },
-            {
-                  "name": "Dvorets na Asenevtsi",
-                  "text": "Palast der Asen – Ruinen des Königspalastes aus dem 12.–13. Jahrhundert in Veliko Tarnovo.",
-                  "category": "historical",
-                  "coords": [
-                        25.646998,
-                        43.086949
-                  ]
-            },
-            {
-                  "name": "Izgreva Kartala",
-                  "text": "Izgreva Kartala – Aussichtspunkt auf die Stadt Veliko Tarnovo bei Sonnenaufgang.",
-                  "category": "natural",
-                  "coords": [
-                        25.632841,
-                        43.090417
-                  ]
-            },
-            {
-                  "name": "Izlozhbeni zali \"Rafael Mihailov\"",
-                  "text": "Ausstellungshallen Rafael Mihailov in Veliko Tarnovo für Wechselausstellungen zeitgenössischer Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        25.63237,
-                        43.083625
-                  ]
-            },
-            {
-                  "name": "Darzhavna hudozhestvena galeriya \"Boris Denev\"",
-                  "text": "Kunstmuseum Boris Denev in Veliko Tarnovo mit bulgarischer Malerei des 20. Jahrhunderts.",
-                  "category": "museum",
-                  "coords": [
-                        25.638557,
-                        43.081798
-                  ]
-            },
-            {
-                  "name": "Patriarshiya",
-                  "text": "Patriarchenkomplex auf dem Zarewez-Hügel in Weliko Tarnowo.",
-                  "category": "historical",
-                  "coords": [
-                        25.652632,
-                        43.083109
-                  ]
-            },
-            {
-                  "name": "Sv. 40 machenitsi",
-                  "text": "Св. 40 мъченици ist eine Kultstätte in Weliko Tarnowo.",
-                  "category": "religious",
-                  "coords": [
-                        25.649937,
-                        43.084493
-                  ]
-            },
-            {
-                  "name": "Sveti Dimitar Solunski",
-                  "text": "Bulgarisch-orthodoxe Kirche des Heiligen Demetrius, nahe der Zarenfestung in Veliko Tarnovo.",
-                  "category": "religious",
-                  "coords": [
-                        25.648319,
-                        43.087935
-                  ]
-            },
-            {
-                  "name": "Stamboloviyat most",
-                  "text": "Die Stambolov-Brücke ist eine bekannte Brücke über den Jantra-Fluss in Weliko Tarnowo.",
-                  "category": "landmark",
-                  "coords": [
-                        25.63721,
-                        43.081784
                   ]
             },
             {
@@ -7481,39 +7148,12 @@ export const poiExtraBulgariaCities: POI[] = [
                   ]
             },
             {
-                  "name": "yaz. Belyakovets",
-                  "text": "Ein See bei Weliko Tarnowo, ideal um die Ruhe der Natur zu genießen.",
-                  "category": "natural",
-                  "coords": [
-                        25.567608,
-                        43.099207
-                  ]
-            },
-            {
                   "name": "yazovir \"Sini vir\"",
                   "text": "Ein See bei Weliko Tarnowo, der eine schöne natürliche Umgebung bietet.",
                   "category": "natural",
                   "coords": [
                         25.569241,
                         43.064531
-                  ]
-            },
-            {
-                  "name": "Vipo Land",
-                  "text": "Ein Spielplatz in Weliko Tarnowo, der Kindern viel Platz zum Spielen bietet.",
-                  "category": "family",
-                  "coords": [
-                        25.621732,
-                        43.083501
-                  ]
-            },
-            {
-                  "name": "Ploshtadka Osvobozhdenie 130",
-                  "text": "Ein Spielplatz in Weliko Tarnowo für die Freizeitgestaltung von Kindern.",
-                  "category": "family",
-                  "coords": [
-                        25.612656,
-                        43.081279
                   ]
             },
             {
@@ -7528,237 +7168,12 @@ export const poiExtraBulgariaCities: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Kashta muzei “Petko R. Slaveikov”",
-                  "text": "Petko R. Slavejkov-házmúzeum Veliko Tarnowóban, a költő szülőháza.",
-                  "category": "museum",
-                  "coords": [
-                        25.635498,
-                        43.0854
-                  ]
-            },
-            {
-                  "name": "Sarafkina kashta",
-                  "text": "Sarafkina háza Veliko Tarnowóban, egy 19. századi történelmi lakóházmúzeum.",
-                  "category": "museum",
-                  "coords": [
-                        25.640669,
-                        43.081997
-                  ]
-            },
-            {
-                  "name": "Tsarevets",
-                  "text": "A Tsarevets egy vár Weliko Tarnowóban, amely a Második Bolgár Birodalom fő erődje volt.",
-                  "category": "castle",
-                  "coords": [
-                        25.650474,
-                        43.083563
-                  ]
-            },
-            {
-                  "name": "Muzikalno-Dramatichen Teatar Konstantin Kisimov",
-                  "text": "Muzikalno-Dramatichen Teater Konstantin Kisimov Veliko Tarnowóban, a színészről elnevezve.",
-                  "category": "cultural",
-                  "coords": [
-                        25.63055,
-                        43.081615
-                  ]
-            },
-            {
-                  "name": "Trapezitsa",
-                  "text": "A Trapezitza egy vár Weliko Tarnowóban, amely a történelmi főváros második erődítménye volt.",
-                  "category": "castle",
-                  "coords": [
-                        25.646163,
-                        43.085376
-                  ]
-            },
-            {
-                  "name": "Leten teatar",
-                  "text": "Nyári színház Veliko Tarnovóban – szabadtéri színpad a parkban.",
-                  "category": "cultural",
-                  "coords": [
-                        25.632857,
-                        43.078707
-                  ]
-            },
-            {
-                  "name": "Regionalen Istoricheski Muzei",
-                  "text": "Veliko Tarnovo Regionális Történeti Múzeuma a régi postaépületben.",
-                  "category": "museum",
-                  "coords": [
-                        25.6443,
-                        43.081466
-                  ]
-            },
-            {
-                  "name": "Arheologicheski muzei",
-                  "text": "Az Archaeological Museum történelmi leleteket mutat be Weliko Tarnowóban.",
-                  "category": "museum",
-                  "coords": [
-                        25.642027,
-                        43.080878
-                  ]
-            },
-            {
-                  "name": "Glavna porta",
-                  "text": "Glavna porta – a veliko tarnovói középkori fellegvár főkapuja.",
-                  "category": "historical",
-                  "coords": [
-                        25.647913,
-                        43.08216
-                  ]
-            },
-            {
-                  "name": "Muzei na ilyuziite",
-                  "text": "Illúziók Múzeuma Veliko Tarnovóban interaktív kiállításokkal.",
-                  "category": "museum",
-                  "coords": [
-                        25.640316,
-                        43.083112
-                  ]
-            },
-            {
-                  "name": "Shishmanova banya",
-                  "text": "Shishmanova banya – középkori történelmi fürdő Veliko Tarnovóban.",
-                  "category": "historical",
-                  "coords": [
-                        25.649823,
-                        43.086695
-                  ]
-            },
-            {
-                  "name": "Grad na Frankite",
-                  "text": "Grad na Frankite – egykori frank negyed Veliko Tarnovóban.",
-                  "category": "historical",
-                  "coords": [
-                        25.656399,
-                        43.078622
-                  ]
-            },
-            {
-                  "name": "Park Mini Balgariya",
-                  "text": "Mini Bulgária Park Veliko Tarnovóban, bulgár nevezetességek miniatúráival.",
-                  "category": "family",
-                  "coords": [
-                        25.654668,
-                        43.07935
-                  ]
-            },
-            {
-                  "name": "Kashtata s maimunkata",
-                  "text": "A House with the Monkey egy látványosság Weliko Tarnowóban, amelyet a híres Kolyu Ficheto mester épített.",
-                  "category": "landmark",
-                  "coords": [
-                        25.636852,
-                        43.085026
-                  ]
-            },
-            {
                   "name": "Park Druzhba",
                   "text": "Park Druzhba Veliko Tarnowóban, egy barátság közpark.",
                   "category": "park",
                   "coords": [
                         25.629244,
                         43.074778
-                  ]
-            },
-            {
-                  "name": "Park Kolo Ficheto",
-                  "text": "Park Kolo Ficeto Veliko Tarnowóban, a bolgár építészről elnevezve.",
-                  "category": "park",
-                  "coords": [
-                        25.60661,
-                        43.078687
-                  ]
-            },
-            {
-                  "name": "Balduinova kula",
-                  "text": "Baldwin tornya Veliko Tarnowóban, egy középkori torony a Carevec-erődben, amely I. Balduin konstantinápolyi császárhoz kapcsolódik.",
-                  "category": "historical",
-                  "coords": [
-                        25.65307,
-                        43.080548
-                  ]
-            },
-            {
-                  "name": "Sv. Evtimii Patriarh Tarnovski",
-                  "text": "Szent Euthümiosz tarnovói pátriárka emlékműve Veliko Tarnovóban.",
-                  "category": "historical",
-                  "coords": [
-                        25.649077,
-                        43.078924
-                  ]
-            },
-            {
-                  "name": "Dvorets na Asenevtsi",
-                  "text": "Asenek palotája – 12–13. századi királyi palota romjai Veliko Tarnovóban.",
-                  "category": "historical",
-                  "coords": [
-                        25.646998,
-                        43.086949
-                  ]
-            },
-            {
-                  "name": "Izgreva Kartala",
-                  "text": "Izgreva Kartala – kilátópont, ahonnan a napfelkeltében gyönyörködhetünk Veliko Tarnovo fölött.",
-                  "category": "natural",
-                  "coords": [
-                        25.632841,
-                        43.090417
-                  ]
-            },
-            {
-                  "name": "Izlozhbeni zali \"Rafael Mihailov\"",
-                  "text": "Rafael Mihailov Kiállítótermek Veliko Tarnovóban kortárs művészet időszaki kiállításaihoz.",
-                  "category": "museum",
-                  "coords": [
-                        25.63237,
-                        43.083625
-                  ]
-            },
-            {
-                  "name": "Darzhavna hudozhestvena galeriya \"Boris Denev\"",
-                  "text": "Boris Denev Szépművészeti Múzeum Veliko Tarnovóban 20. századi bolgár festészettel.",
-                  "category": "museum",
-                  "coords": [
-                        25.638557,
-                        43.081798
-                  ]
-            },
-            {
-                  "name": "Patriarshiya",
-                  "text": "Patriarchakomplex a Carevec-dombon, Veliko Tarnovóban.",
-                  "category": "historical",
-                  "coords": [
-                        25.652632,
-                        43.083109
-                  ]
-            },
-            {
-                  "name": "Sv. 40 machenitsi",
-                  "text": "A Св. 40 мъченици egy istentiszteleti hely Weliko Tarnowóban.",
-                  "category": "religious",
-                  "coords": [
-                        25.649937,
-                        43.084493
-                  ]
-            },
-            {
-                  "name": "Sveti Dimitar Solunski",
-                  "text": "Szent Demeter bolgár ortodox temploma Veliko Tarnovóban, a Carevec-erőd közelében.",
-                  "category": "religious",
-                  "coords": [
-                        25.648319,
-                        43.087935
-                  ]
-            },
-            {
-                  "name": "Stamboloviyat most",
-                  "text": "A Sztambolov híd egy jól ismert híd a Jantra folyó felett Weliko Tarnowóban.",
-                  "category": "landmark",
-                  "coords": [
-                        25.63721,
-                        43.081784
                   ]
             },
             {
@@ -7771,39 +7186,12 @@ export const poiExtraBulgariaCities: POI[] = [
                   ]
             },
             {
-                  "name": "yaz. Belyakovets",
-                  "text": "Egy tó Veliko Tarnovo környékén, amely ideális a természet nyugalmának élvezéséhez.",
-                  "category": "natural",
-                  "coords": [
-                        25.567608,
-                        43.099207
-                  ]
-            },
-            {
                   "name": "yazovir \"Sini vir\"",
                   "text": "Egy tó Veliko Tarnovo környékén, amely szép természetes környezetet kínál.",
                   "category": "natural",
                   "coords": [
                         25.569241,
                         43.064531
-                  ]
-            },
-            {
-                  "name": "Vipo Land",
-                  "text": "Egy játszótér Veliko Tarnovóban, amely bőséges helyet kínál a gyerekeknek a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        25.621732,
-                        43.083501
-                  ]
-            },
-            {
-                  "name": "Ploshtadka Osvobozhdenie 130",
-                  "text": "Egy játszótér Veliko Tarnovóban a gyermekek szabadidős tevékenységeihez.",
-                  "category": "family",
-                  "coords": [
-                        25.612656,
-                        43.081279
                   ]
             },
             {
@@ -7818,237 +7206,12 @@ export const poiExtraBulgariaCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Kashta muzei “Petko R. Slaveikov”",
-                  "text": "Casa muzeu Petko R. Slavejkov din Veliko Târnovo, casa natală a poetului.",
-                  "category": "museum",
-                  "coords": [
-                        25.635498,
-                        43.0854
-                  ]
-            },
-            {
-                  "name": "Sarafkina kashta",
-                  "text": "Casa Sarafkina din Veliko Târnovo, un muzeu de casă istorică din secolul al XIX-lea.",
-                  "category": "museum",
-                  "coords": [
-                        25.640669,
-                        43.081997
-                  ]
-            },
-            {
-                  "name": "Tsarevets",
-                  "text": "Tsarevets este un castel din Weliko Tarnowo și a fost fortăreața principală a celui de-al Doilea Imperiu Bulgar.",
-                  "category": "castle",
-                  "coords": [
-                        25.650474,
-                        43.083563
-                  ]
-            },
-            {
-                  "name": "Muzikalno-Dramatichen Teatar Konstantin Kisimov",
-                  "text": "Teatrul Muzical-Dramatic Konstantin Kisimov din Veliko Târnovo, numit după actor.",
-                  "category": "cultural",
-                  "coords": [
-                        25.63055,
-                        43.081615
-                  ]
-            },
-            {
-                  "name": "Trapezitsa",
-                  "text": "Trapezitza este un castel din Weliko Tarnowo, a doua fortăreață a capitalei istorice.",
-                  "category": "castle",
-                  "coords": [
-                        25.646163,
-                        43.085376
-                  ]
-            },
-            {
-                  "name": "Leten teatar",
-                  "text": "Teatrul de Vară din Veliko Tarnovo – scenă în aer liber în parc.",
-                  "category": "cultural",
-                  "coords": [
-                        25.632857,
-                        43.078707
-                  ]
-            },
-            {
-                  "name": "Regionalen Istoricheski Muzei",
-                  "text": "Muzeul Regional de Istorie din Veliko Tarnovo în fosta clădire a poștei.",
-                  "category": "museum",
-                  "coords": [
-                        25.6443,
-                        43.081466
-                  ]
-            },
-            {
-                  "name": "Arheologicheski muzei",
-                  "text": "Archaeological Museum prezintă descoperiri istorice în Weliko Tarnowo.",
-                  "category": "museum",
-                  "coords": [
-                        25.642027,
-                        43.080878
-                  ]
-            },
-            {
-                  "name": "Glavna porta",
-                  "text": "Glavna porta – poarta principală a citadelei medievale din Veliko Tarnovo.",
-                  "category": "historical",
-                  "coords": [
-                        25.647913,
-                        43.08216
-                  ]
-            },
-            {
-                  "name": "Muzei na ilyuziite",
-                  "text": "Muzeul Iluziilor din Veliko Tarnovo cu exponate interactive.",
-                  "category": "museum",
-                  "coords": [
-                        25.640316,
-                        43.083112
-                  ]
-            },
-            {
-                  "name": "Shishmanova banya",
-                  "text": "Shishmanova banya – baie istorică medievală în Veliko Tarnovo.",
-                  "category": "historical",
-                  "coords": [
-                        25.649823,
-                        43.086695
-                  ]
-            },
-            {
-                  "name": "Grad na Frankite",
-                  "text": "Grad na Frankite – fostul cartier franc din Veliko Tarnovo.",
-                  "category": "historical",
-                  "coords": [
-                        25.656399,
-                        43.078622
-                  ]
-            },
-            {
-                  "name": "Park Mini Balgariya",
-                  "text": "Parcul Mini Bulgaria din Veliko Tarnovo cu modele miniaturale ale reperelor bulgărești.",
-                  "category": "family",
-                  "coords": [
-                        25.654668,
-                        43.07935
-                  ]
-            },
-            {
-                  "name": "Kashtata s maimunkata",
-                  "text": "House with the Monkey este o atracție din Weliko Tarnowo, construită de faimosul meșter Kolyu Ficheto.",
-                  "category": "landmark",
-                  "coords": [
-                        25.636852,
-                        43.085026
-                  ]
-            },
-            {
                   "name": "Park Druzhba",
                   "text": "Parcul Druzhba din Veliko Târnovo, un parc public al prieteniei.",
                   "category": "park",
                   "coords": [
                         25.629244,
                         43.074778
-                  ]
-            },
-            {
-                  "name": "Park Kolo Ficheto",
-                  "text": "Parcul Kolo Ficheto din Veliko Târnovo, numit după arhitectul bulgar.",
-                  "category": "park",
-                  "coords": [
-                        25.60661,
-                        43.078687
-                  ]
-            },
-            {
-                  "name": "Balduinova kula",
-                  "text": "Turnul lui Baldwin din Veliko Târnovo, un turn medieval în cetatea Țareveț, asociat cu Balduin I al Constantinopolului.",
-                  "category": "historical",
-                  "coords": [
-                        25.65307,
-                        43.080548
-                  ]
-            },
-            {
-                  "name": "Sv. Evtimii Patriarh Tarnovski",
-                  "text": "Monumentul Sfântului Euthimie Patriarhul Târnovei în Veliko Tarnovo.",
-                  "category": "historical",
-                  "coords": [
-                        25.649077,
-                        43.078924
-                  ]
-            },
-            {
-                  "name": "Dvorets na Asenevtsi",
-                  "text": "Palatul Asen – ruinele palatului regal din secolele XII–XIII în Veliko Tarnovo.",
-                  "category": "historical",
-                  "coords": [
-                        25.646998,
-                        43.086949
-                  ]
-            },
-            {
-                  "name": "Izgreva Kartala",
-                  "text": "Izgreva Kartala – punct de belvedere pentru răsăritul soarelui deasupra Veliko Tarnovo.",
-                  "category": "natural",
-                  "coords": [
-                        25.632841,
-                        43.090417
-                  ]
-            },
-            {
-                  "name": "Izlozhbeni zali \"Rafael Mihailov\"",
-                  "text": "Sălile de Expoziție Rafael Mihailov din Veliko Tarnovo pentru expoziții temporare de artă contemporană.",
-                  "category": "museum",
-                  "coords": [
-                        25.63237,
-                        43.083625
-                  ]
-            },
-            {
-                  "name": "Darzhavna hudozhestvena galeriya \"Boris Denev\"",
-                  "text": "Muzeul de Arte Frumoase Boris Denev din Veliko Tarnovo cu pictură bulgară din secolul XX.",
-                  "category": "museum",
-                  "coords": [
-                        25.638557,
-                        43.081798
-                  ]
-            },
-            {
-                  "name": "Patriarshiya",
-                  "text": "Complex patriarhal pe dealul Țareveț din Veliko Târnovo.",
-                  "category": "historical",
-                  "coords": [
-                        25.652632,
-                        43.083109
-                  ]
-            },
-            {
-                  "name": "Sv. 40 machenitsi",
-                  "text": "Св. 40 мъченици este un lăcaș de cult în Weliko Tarnowo.",
-                  "category": "religious",
-                  "coords": [
-                        25.649937,
-                        43.084493
-                  ]
-            },
-            {
-                  "name": "Sveti Dimitar Solunski",
-                  "text": "Biserică ortodoxă bulgară dedicată Sfântului Dumitru, lângă fortăreața Țareveț din Veliko Târnovo.",
-                  "category": "religious",
-                  "coords": [
-                        25.648319,
-                        43.087935
-                  ]
-            },
-            {
-                  "name": "Stamboloviyat most",
-                  "text": "Podul Stambolov este un pod binecunoscut care traversează râul Iantra în Veliko Tărnovo.",
-                  "category": "landmark",
-                  "coords": [
-                        25.63721,
-                        43.081784
                   ]
             },
             {
@@ -8061,39 +7224,12 @@ export const poiExtraBulgariaCities: POI[] = [
                   ]
             },
             {
-                  "name": "yaz. Belyakovets",
-                  "text": "Un lac în apropiere de Veliko Târnovo, ideal pentru a te bucura de liniștea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        25.567608,
-                        43.099207
-                  ]
-            },
-            {
                   "name": "yazovir \"Sini vir\"",
                   "text": "Un lac în apropiere de Veliko Târnovo, care oferă un mediu natural frumos.",
                   "category": "natural",
                   "coords": [
                         25.569241,
                         43.064531
-                  ]
-            },
-            {
-                  "name": "Vipo Land",
-                  "text": "Un loc de joacă în Veliko Târnovo, care oferă copiilor mult spațiu pentru joacă.",
-                  "category": "family",
-                  "coords": [
-                        25.621732,
-                        43.083501
-                  ]
-            },
-            {
-                  "name": "Ploshtadka Osvobozhdenie 130",
-                  "text": "Un loc de joacă în Veliko Târnovo pentru activitățile de recreere ale copiilor.",
-                  "category": "family",
-                  "coords": [
-                        25.612656,
-                        43.081279
                   ]
             },
             {
@@ -8108,237 +7244,12 @@ export const poiExtraBulgariaCities: POI[] = [
       ],
       "en": [
             {
-                  "name": "House museum Petko R. Slavejkov",
-                  "text": "House museum Petko R. Slavejkov in Veliko Tarnovo, birthplace of the poet.",
-                  "category": "museum",
-                  "coords": [
-                        25.635498,
-                        43.0854
-                  ]
-            },
-            {
-                  "name": "Sarafkina’s House",
-                  "text": "Sarafkina's House in Veliko Tarnovo, a historic house museum from the 19th century.",
-                  "category": "museum",
-                  "coords": [
-                        25.640669,
-                        43.081997
-                  ]
-            },
-            {
-                  "name": "Tsarevets",
-                  "text": "Tsarevets is a castle in Weliko Tarnowo that served as the primary fortress of the Second Bulgarian Empire.",
-                  "category": "castle",
-                  "coords": [
-                        25.650474,
-                        43.083563
-                  ]
-            },
-            {
-                  "name": "Muzikalno-Dramatichen Teatar Konstantin Kisimov",
-                  "text": "Muzikalno-Dramatichen Teatar Konstantin Kisimov in Veliko Tarnovo, named after the actor.",
-                  "category": "cultural",
-                  "coords": [
-                        25.63055,
-                        43.081615
-                  ]
-            },
-            {
-                  "name": "Trapezitza",
-                  "text": "Trapezitza is a castle in Weliko Tarnowo, serving as the second fortress of the historical capital.",
-                  "category": "castle",
-                  "coords": [
-                        25.646163,
-                        43.085376
-                  ]
-            },
-            {
-                  "name": "Summer Theatre",
-                  "text": "Summer Theatre in Veliko Tarnovo – open‑air stage in a park.",
-                  "category": "cultural",
-                  "coords": [
-                        25.632857,
-                        43.078707
-                  ]
-            },
-            {
-                  "name": "Regional Museum of History",
-                  "text": "Regional Museum of History in Veliko Tarnovo housed in the old post office.",
-                  "category": "museum",
-                  "coords": [
-                        25.6443,
-                        43.081466
-                  ]
-            },
-            {
-                  "name": "Archaeological Museum",
-                  "text": "The Archaeological Museum presents historical finds in Weliko Tarnowo.",
-                  "category": "museum",
-                  "coords": [
-                        25.642027,
-                        43.080878
-                  ]
-            },
-            {
-                  "name": "Glavna porta",
-                  "text": "Glavna porta – the main gate of the medieval fortress in Veliko Tarnovo.",
-                  "category": "historical",
-                  "coords": [
-                        25.647913,
-                        43.08216
-                  ]
-            },
-            {
-                  "name": "Muzei na ilyuziite",
-                  "text": "Museum of Illusions in Veliko Tarnovo with interactive exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        25.640316,
-                        43.083112
-                  ]
-            },
-            {
-                  "name": "Shishmanova banya",
-                  "text": "Shishmanova banya – a medieval historical bath in Veliko Tarnovo.",
-                  "category": "historical",
-                  "coords": [
-                        25.649823,
-                        43.086695
-                  ]
-            },
-            {
-                  "name": "Grad na Frankite",
-                  "text": "Grad na Frankite – the former Frankish quarter in Veliko Tarnovo.",
-                  "category": "historical",
-                  "coords": [
-                        25.656399,
-                        43.078622
-                  ]
-            },
-            {
-                  "name": "Mini Bulgaria Park",
-                  "text": "Mini Bulgaria Park in Veliko Tarnovo with miniature models of Bulgarian landmarks.",
-                  "category": "family",
-                  "coords": [
-                        25.654668,
-                        43.07935
-                  ]
-            },
-            {
-                  "name": "House with the Monkey",
-                  "text": "House with the Monkey is an attraction in Weliko Tarnowo built by the famous master Kolyu Ficheto.",
-                  "category": "landmark",
-                  "coords": [
-                        25.636852,
-                        43.085026
-                  ]
-            },
-            {
                   "name": "Park Druzhba",
                   "text": "Park Druzhba in Veliko Tarnovo, a public friendship park.",
                   "category": "park",
                   "coords": [
                         25.629244,
                         43.074778
-                  ]
-            },
-            {
-                  "name": "Park Kolo Ficheto",
-                  "text": "Park Kolo Ficheto in Veliko Tarnovo, named after the Bulgarian architect.",
-                  "category": "park",
-                  "coords": [
-                        25.60661,
-                        43.078687
-                  ]
-            },
-            {
-                  "name": "Tower of Baldwyn",
-                  "text": "Tower of Baldwyn in Veliko Tarnovo, a medieval tower in Tsarevets fortress, associated with Baldwin I of Constantinople.",
-                  "category": "historical",
-                  "coords": [
-                        25.65307,
-                        43.080548
-                  ]
-            },
-            {
-                  "name": "Sv. Evtimii Patriarh Tarnovski",
-                  "text": "Monument of Saint Euthymius Patriarch of Tarnovo in Veliko Tarnovo.",
-                  "category": "historical",
-                  "coords": [
-                        25.649077,
-                        43.078924
-                  ]
-            },
-            {
-                  "name": "Dvorets na Asenevtsi",
-                  "text": "Palace of the Asen dynasty – ruins of the 12th–13th‑century royal palace in Veliko Tarnovo.",
-                  "category": "historical",
-                  "coords": [
-                        25.646998,
-                        43.086949
-                  ]
-            },
-            {
-                  "name": "Izgreva Kartala",
-                  "text": "Izgreva Kartala – sunrise viewpoint overlooking Veliko Tarnovo.",
-                  "category": "natural",
-                  "coords": [
-                        25.632841,
-                        43.090417
-                  ]
-            },
-            {
-                  "name": "Izlozhbeni zali \"Rafael Mihailov\"",
-                  "text": "Rafael Mihailov Exhibition Halls in Veliko Tarnovo for temporary contemporary art exhibitions.",
-                  "category": "museum",
-                  "coords": [
-                        25.63237,
-                        43.083625
-                  ]
-            },
-            {
-                  "name": "Fine Art Museum \"Boris Denev\"",
-                  "text": "Fine Art Museum Boris Denev in Veliko Tarnovo featuring 20th‑century Bulgarian painting.",
-                  "category": "museum",
-                  "coords": [
-                        25.638557,
-                        43.081798
-                  ]
-            },
-            {
-                  "name": "Patriarshiya",
-                  "text": "Patriarchal complex on Tsarevets Hill in Veliko Tarnovo.",
-                  "category": "historical",
-                  "coords": [
-                        25.652632,
-                        43.083109
-                  ]
-            },
-            {
-                  "name": "Sv. 40 machenitsi",
-                  "text": "Св. 40 мъченици is a place of worship in Weliko Tarnowo.",
-                  "category": "religious",
-                  "coords": [
-                        25.649937,
-                        43.084493
-                  ]
-            },
-            {
-                  "name": "Sveti Dimitar Solunski",
-                  "text": "Bulgarian Orthodox church dedicated to Saint Demetrius, located near the Tsarevets fortress in Veliko Tarnovo.",
-                  "category": "religious",
-                  "coords": [
-                        25.648319,
-                        43.087935
-                  ]
-            },
-            {
-                  "name": "Stambolov bridge",
-                  "text": "The Stambolov bridge is a well-known bridge spanning the Yantra river in Weliko Tarnowo.",
-                  "category": "landmark",
-                  "coords": [
-                        25.63721,
-                        43.081784
                   ]
             },
             {
@@ -8351,39 +7262,12 @@ export const poiExtraBulgariaCities: POI[] = [
                   ]
             },
             {
-                  "name": "yaz. Belyakovets",
-                  "text": "A lake near Veliko Tarnovo, ideal for enjoying the peace of nature.",
-                  "category": "natural",
-                  "coords": [
-                        25.567608,
-                        43.099207
-                  ]
-            },
-            {
                   "name": "yazovir \"Sini vir\"",
                   "text": "A lake near Veliko Tarnovo offering a beautiful natural environment.",
                   "category": "natural",
                   "coords": [
                         25.569241,
                         43.064531
-                  ]
-            },
-            {
-                  "name": "Vipo Land",
-                  "text": "A playground in Veliko Tarnovo offering plenty of space for children to play.",
-                  "category": "family",
-                  "coords": [
-                        25.621732,
-                        43.083501
-                  ]
-            },
-            {
-                  "name": "Ploshtadka Osvobozhdenie 130",
-                  "text": "A playground in Veliko Tarnovo for children's leisure activities.",
-                  "category": "family",
-                  "coords": [
-                        25.612656,
-                        43.081279
                   ]
             },
             {
@@ -11939,15 +10823,6 @@ export const poiExtraBulgariaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Park \"Bedechka\"",
-                  "text": "Der Bedechka-Park ist ein beliebtes Erholungsgebiet in Stara Sagora.",
-                  "category": "park",
-                  "coords": [
-                        25.639224,
-                        42.439566
-                  ]
-            },
-            {
                   "name": "Park „Balgarsko opalchenie“",
                   "text": "Der Park der bulgarischen Miliz verfügt über ein großes Denkmal, das den Verteidigern von Stara Sagora gewidmet ist.",
                   "category": "park",
@@ -12199,15 +11074,6 @@ export const poiExtraBulgariaCities: POI[] = [
                   "coords": [
                         25.62632,
                         42.426143
-                  ]
-            },
-            {
-                  "name": "Park \"Bedechka\"",
-                  "text": "A Bedecska Park egy népszerű rekreációs park Sztara Zagorában.",
-                  "category": "park",
-                  "coords": [
-                        25.639224,
-                        42.439566
                   ]
             },
             {
@@ -12465,15 +11331,6 @@ export const poiExtraBulgariaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Park \"Bedechka\"",
-                  "text": "Parcul Bedecika este o zonă de parc recreativ populară din Stara Zagora.",
-                  "category": "park",
-                  "coords": [
-                        25.639224,
-                        42.439566
-                  ]
-            },
-            {
                   "name": "Park „Balgarsko opalchenie“",
                   "text": "Parcul miliției bulgare are un monument grandios dedicat apărătorilor orașului Stara Zagora.",
                   "category": "park",
@@ -12725,15 +11582,6 @@ export const poiExtraBulgariaCities: POI[] = [
                   "coords": [
                         25.62632,
                         42.426143
-                  ]
-            },
-            {
-                  "name": "Bedechka Park",
-                  "text": "Bedechka Park is a popular recreational park area located in Stara Sagora.",
-                  "category": "park",
-                  "coords": [
-                        25.639224,
-                        42.439566
                   ]
             },
             {

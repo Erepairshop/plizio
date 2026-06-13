@@ -15,15 +15,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harmonites Steel Orchestra",
-                  "text": "Ein Proben- und Aufführungsort für ein traditionelles Steel-Orchester in San Juan.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.469518,
-                        10.6489
-                  ]
-            },
-            {
                   "name": "Coffee Express WH",
                   "text": "Ein lokaler Treffpunkt oder Geschäft in San Juan mit thematischem Bezug zu Kaffee.",
                   "category": "landmark",
@@ -59,15 +50,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -61.4597,
                         10.655194
-                  ]
-            },
-            {
-                  "name": "Harmonites Steel Orchestra",
-                  "text": "Hagyományos steel zenekar próbaterme és előadóhelye San Juanban.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.469518,
-                        10.6489
                   ]
             },
             {
@@ -109,15 +91,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harmonites Steel Orchestra",
-                  "text": "Un loc de repetiții și spectacole pentru o orchestră tradițională de steelpan în San Juan.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.469518,
-                        10.6489
-                  ]
-            },
-            {
                   "name": "Coffee Express WH",
                   "text": "Un punct local de întâlnire sau magazin în San Juan, cu tematică legată de cafea.",
                   "category": "landmark",
@@ -153,15 +126,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -61.4597,
                         10.655194
-                  ]
-            },
-            {
-                  "name": "Harmonites Steel Orchestra",
-                  "text": "A rehearsal and performance venue for a traditional steel orchestra in San Juan.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.469518,
-                        10.6489
                   ]
             },
             {
@@ -404,50 +368,10 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
   },
   {
     id: "tt-tunapuna-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Exodus Pan Yard",
-                  "text": "Eine bekannte Probestätte für Steelpan-Musik in Tunapuna.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.395295,
-                        10.645066
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Exodus Pan Yard",
-                  "text": "Népszerű steelpan zenei próbaterem Tunapuna városában.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.395295,
-                        10.645066
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Exodus Pan Yard",
-                  "text": "Un loc popular pentru repetiții de muzică steelpan în Tunapuna.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.395295,
-                        10.645066
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Exodus Pan Yard",
-                  "text": "A popular venue for steelpan music rehearsals in Tunapuna.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.395295,
-                        10.645066
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "TT-TUP",
@@ -834,50 +758,10 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
   },
   {
     id: "tt-freeport-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "El Socorro Centre for Wildlife Conservation",
-                  "text": "Ein Schutzzentrum in Freeport, das sich der Erhaltung lokaler Wildtiere widmet.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.375134,
-                        10.443594
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "El Socorro Centre for Wildlife Conservation",
-                  "text": "Vadvédelmi központ Freeportban, amely a helyi élővilág megőrzésével foglalkozik.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.375134,
-                        10.443594
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "El Socorro Centre for Wildlife Conservation",
-                  "text": "Un centru de conservare în Freeport, dedicat protejării faunei sălbatice locale.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.375134,
-                        10.443594
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "El Socorro Centre for Wildlife Conservation",
-                  "text": "A conservation centre in Freeport dedicated to preserving local wildlife.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.375134,
-                        10.443594
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "TT-CTT",
@@ -978,78 +862,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Museum & Art Gallery",
-                  "text": "Das Nationalmuseum in Laventille zeigt Kunst und historische Exponate von Trinidad und Tobago.",
-                  "category": "museum",
-                  "coords": [
-                        -61.510318,
-                        10.662861
-                  ]
-            },
-            {
-                  "name": "Queen's Hall",
-                  "text": "Eine bedeutende Konzerthalle und Theater in Laventille für kulturelle Veranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.510727,
-                        10.672871
-                  ]
-            },
-            {
-                  "name": "National Academy for the Performing Arts",
-                  "text": "Ein modernes Zentrum für darstellende Künste und Musikerausbildung in Laventille.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.511326,
-                        10.663355
-                  ]
-            },
-            {
-                  "name": "Harmonites Steel Orchestra",
-                  "text": "Ein Proben- und Veranstaltungszentrum eines renommierten Steel-Orchesters in Laventille.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.469518,
-                        10.6489
-                  ]
-            },
-            {
-                  "name": "Queen's Park Savannah",
-                  "text": "Ein weitläufiger Stadtpark in Laventille, bekannt als der weltweit größte Kreisverkehr.",
-                  "category": "park",
-                  "coords": [
-                        -61.514064,
-                        10.668863
-                  ]
-            },
-            {
-                  "name": "Königliche Botanische Gärten",
-                  "text": "Historische botanische Gärten in Laventille mit einer Vielfalt an tropischen Pflanzen.",
-                  "category": "park",
-                  "coords": [
-                        -61.514646,
-                        10.675529
-                  ]
-            },
-            {
-                  "name": "Statue of Mahatma Ghandi",
-                  "text": "Eine Bronzestatue von Mahatma Gandhi in Laventille.",
-                  "category": "historical",
-                  "coords": [
-                        -61.515319,
-                        10.657406
-                  ]
-            },
-            {
-                  "name": "The Mighty Sparrow's Statue",
-                  "text": "Ein Denkmal in Laventille zu Ehren des berühmten Calypso-Sängers The Mighty Sparrow.",
-                  "category": "historical",
-                  "coords": [
-                        -61.510562,
-                        10.671059
-                  ]
-            },
-            {
                   "name": "Laventille Watering Spot",
                   "text": "Eine historische Stätte in Laventille, die einst der Wasserversorgung diente.",
                   "category": "historical",
@@ -1059,39 +871,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Brian Lara Statue",
-                  "text": "Eine Statue in Laventille zur Ehrung der Cricket-Legende Brian Lara.",
-                  "category": "historical",
-                  "coords": [
-                        -61.513922,
-                        10.649632
-                  ]
-            },
-            {
-                  "name": "Symmetry Trinidad Limited",
-                  "text": "Der Hauptsitz von Symmetry Trinidad Limited, ein markantes Gebäude in Laventille.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.51937,
-                        10.65825
-                  ]
-            },
-            {
                   "name": "Highlanders Steel Orchestra",
                   "text": "Ein Kulturzentrum in Laventille, das der Steelpan-Musik gewidmet ist.",
                   "category": "cultural",
                   "coords": [
                         -61.489354,
                         10.646866
-                  ]
-            },
-            {
-                  "name": "Holy Name",
-                  "text": "Die Heilig-Name-Kirche (römisch-katholisch) in Laventille.",
-                  "category": "religious",
-                  "coords": [
-                        -61.508646,
-                        10.663445
                   ]
             }
       ],
@@ -1106,78 +891,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Museum & Art Gallery",
-                  "text": "A nemzeti múzeum Laventille-ben Trinidad és Tobago művészeti és történelmi emlékeit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -61.510318,
-                        10.662861
-                  ]
-            },
-            {
-                  "name": "Queen's Hall",
-                  "text": "Jelentős hangversenyterem és színház Laventille-ben kulturális események számára.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.510727,
-                        10.672871
-                  ]
-            },
-            {
-                  "name": "National Academy for the Performing Arts",
-                  "text": "A daradó művészetek és a zenei képzés modern központja Laventille-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.511326,
-                        10.663355
-                  ]
-            },
-            {
-                  "name": "Harmonites Steel Orchestra",
-                  "text": "Egy neves steel zenekar próbaterme és rendezvényközpontja Laventille-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.469518,
-                        10.6489
-                  ]
-            },
-            {
-                  "name": "Queen's Park Savannah",
-                  "text": "Kiterjedt városi park Laventille-ben, amely a világ legnagyobb körforgalmaként ismert.",
-                  "category": "park",
-                  "coords": [
-                        -61.514064,
-                        10.668863
-                  ]
-            },
-            {
-                  "name": "Royal Botanic Gardens",
-                  "text": "Történelmi botanikus kertek Laventille-ben, trópusi növények sokaságával.",
-                  "category": "park",
-                  "coords": [
-                        -61.514646,
-                        10.675529
-                  ]
-            },
-            {
-                  "name": "Statue of Mahatma Ghandi",
-                  "text": "Mahatma Gandhi bronzszobra Laventille-ben.",
-                  "category": "historical",
-                  "coords": [
-                        -61.515319,
-                        10.657406
-                  ]
-            },
-            {
-                  "name": "The Mighty Sparrow's Statue",
-                  "text": "Emlékmű Laventille-ben a híres Calypso énekes, The Mighty Sparrow tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        -61.510562,
-                        10.671059
-                  ]
-            },
-            {
                   "name": "Laventille Watering Spot",
                   "text": "Történelmi helyszín Laventille-ben, amely egykor a vízellátást szolgálta.",
                   "category": "historical",
@@ -1187,39 +900,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Brian Lara Statue",
-                  "text": "Szobor Laventille-ben a krikettlegenda, Brian Lara tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        -61.513922,
-                        10.649632
-                  ]
-            },
-            {
-                  "name": "Symmetry Trinidad Limited",
-                  "text": "A Symmetry Trinidad Limited székhelye, egy jellegzetes épület Laventille-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.51937,
-                        10.65825
-                  ]
-            },
-            {
                   "name": "Highlanders Steel Orchestra",
                   "text": "Kulturális központ Laventille-ben, amely a steelpan zenének szentelt helyszín.",
                   "category": "cultural",
                   "coords": [
                         -61.489354,
                         10.646866
-                  ]
-            },
-            {
-                  "name": "Holy Name",
-                  "text": "A Szent Név-templom (római katolikus) Laventille-ben.",
-                  "category": "religious",
-                  "coords": [
-                        -61.508646,
-                        10.663445
                   ]
             }
       ],
@@ -1234,78 +920,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Museum & Art Gallery",
-                  "text": "Muzeul național din Laventille prezintă artă și exponate istorice din Trinidad și Tobago.",
-                  "category": "museum",
-                  "coords": [
-                        -61.510318,
-                        10.662861
-                  ]
-            },
-            {
-                  "name": "Queen's Hall",
-                  "text": "O sală de concerte și un teatru important în Laventille pentru evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.510727,
-                        10.672871
-                  ]
-            },
-            {
-                  "name": "National Academy for the Performing Arts",
-                  "text": "Un centru modern pentru artele spectacolului și educația muzicală în Laventille.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.511326,
-                        10.663355
-                  ]
-            },
-            {
-                  "name": "Harmonites Steel Orchestra",
-                  "text": "Un centru de repetiții și evenimente al unei orchestre de steelpan renumite în Laventille.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.469518,
-                        10.6489
-                  ]
-            },
-            {
-                  "name": "Queen's Park Savannah",
-                  "text": "Un parc urban întins în Laventille, cunoscut ca fiind cel mai mare sens giratoriu din lume.",
-                  "category": "park",
-                  "coords": [
-                        -61.514064,
-                        10.668863
-                  ]
-            },
-            {
-                  "name": "Royal Botanic Gardens",
-                  "text": "Grădini botanice istorice în Laventille, cu o diversitate de plante tropicale.",
-                  "category": "park",
-                  "coords": [
-                        -61.514646,
-                        10.675529
-                  ]
-            },
-            {
-                  "name": "Statue of Mahatma Ghandi",
-                  "text": "O statuie de bronz a lui Mahatma Gandhi în Laventille.",
-                  "category": "historical",
-                  "coords": [
-                        -61.515319,
-                        10.657406
-                  ]
-            },
-            {
-                  "name": "The Mighty Sparrow's Statue",
-                  "text": "Un monument în Laventille în onoarea celebrului cântăreț de calypso The Mighty Sparrow.",
-                  "category": "historical",
-                  "coords": [
-                        -61.510562,
-                        10.671059
-                  ]
-            },
-            {
                   "name": "Laventille Watering Spot",
                   "text": "Un sit istoric în Laventille, care a servit odinioară aprovizionării cu apă.",
                   "category": "historical",
@@ -1315,39 +929,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Brian Lara Statue",
-                  "text": "O statuie în Laventille ridicată în onoarea legendei de cricket Brian Lara.",
-                  "category": "historical",
-                  "coords": [
-                        -61.513922,
-                        10.649632
-                  ]
-            },
-            {
-                  "name": "Symmetry Trinidad Limited",
-                  "text": "Sediul central al Symmetry Trinidad Limited, o clădire proeminentă în Laventille.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.51937,
-                        10.65825
-                  ]
-            },
-            {
                   "name": "Highlanders Steel Orchestra",
                   "text": "Un centru cultural în Laventille dedicat muzicii de tip steelpan.",
                   "category": "cultural",
                   "coords": [
                         -61.489354,
                         10.646866
-                  ]
-            },
-            {
-                  "name": "Holy Name",
-                  "text": "Biserica Sfântul Nume (romano-catolică) din Laventille.",
-                  "category": "religious",
-                  "coords": [
-                        -61.508646,
-                        10.663445
                   ]
             }
       ],
@@ -1362,78 +949,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Museum & Art Gallery",
-                  "text": "The national museum in Laventille showcasing art and historical exhibits from Trinidad and Tobago.",
-                  "category": "museum",
-                  "coords": [
-                        -61.510318,
-                        10.662861
-                  ]
-            },
-            {
-                  "name": "Queen's Hall",
-                  "text": "A prominent concert hall and theatre in Laventille for cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.510727,
-                        10.672871
-                  ]
-            },
-            {
-                  "name": "National Academy for the Performing Arts",
-                  "text": "A modern centre for performing arts and music education in Laventille.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.511326,
-                        10.663355
-                  ]
-            },
-            {
-                  "name": "Harmonites Steel Orchestra",
-                  "text": "A rehearsal and event centre of a renowned steel orchestra in Laventille.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.469518,
-                        10.6489
-                  ]
-            },
-            {
-                  "name": "Queen's Park Savannah",
-                  "text": "A sprawling urban park in Laventille, known as the world's largest roundabout.",
-                  "category": "park",
-                  "coords": [
-                        -61.514064,
-                        10.668863
-                  ]
-            },
-            {
-                  "name": "Royal Botanic Gardens",
-                  "text": "Historic botanical gardens in Laventille featuring a variety of tropical plants.",
-                  "category": "park",
-                  "coords": [
-                        -61.514646,
-                        10.675529
-                  ]
-            },
-            {
-                  "name": "Statue of Mahatma Ghandi",
-                  "text": "A bronze statue of Mahatma Gandhi in Laventille.",
-                  "category": "historical",
-                  "coords": [
-                        -61.515319,
-                        10.657406
-                  ]
-            },
-            {
-                  "name": "The Mighty Sparrow's Statue",
-                  "text": "A monument in Laventille honoring the famous calypso singer The Mighty Sparrow.",
-                  "category": "historical",
-                  "coords": [
-                        -61.510562,
-                        10.671059
-                  ]
-            },
-            {
                   "name": "Laventille Watering Spot",
                   "text": "A historic site in Laventille that formerly served as a water supply spot.",
                   "category": "historical",
@@ -1443,39 +958,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Brian Lara Statue",
-                  "text": "A statue in Laventille honoring the cricket legend Brian Lara.",
-                  "category": "historical",
-                  "coords": [
-                        -61.513922,
-                        10.649632
-                  ]
-            },
-            {
-                  "name": "Symmetry Trinidad Limited",
-                  "text": "The headquarters of Symmetry Trinidad Limited, a prominent building in Laventille.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.51937,
-                        10.65825
-                  ]
-            },
-            {
                   "name": "Highlanders Steel Orchestra",
                   "text": "An arts center in Laventille dedicated to steelpan music.",
                   "category": "cultural",
                   "coords": [
                         -61.489354,
                         10.646866
-                  ]
-            },
-            {
-                  "name": "Holy Name",
-                  "text": "Holy Name Roman Catholic Church in Laventille.",
-                  "category": "religious",
-                  "coords": [
-                        -61.508646,
-                        10.663445
                   ]
             }
       ]
@@ -1524,122 +1012,10 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
   },
   {
     id: "tt-morvant-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "nufstyln productions",
-                  "text": "Ein lokales Theater und Produktionshaus für darstellende Künste in Morvant.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.4597,
-                        10.655194
-                  ]
-            },
-            {
-                  "name": "Harmonites Steel Orchestra",
-                  "text": "Der Panyard der Harmonites Steel Orchestra in Morvant.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.469518,
-                        10.6489
-                  ]
-            },
-            {
-                  "name": "roller skating rink",
-                  "text": "Eine Rollschuhbahn in Morvant, ein beliebter Freizeitort.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.463094,
-                        10.646813
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "nufstyln productions",
-                  "text": "Helyi színház és produkciós ház Morvantban.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.4597,
-                        10.655194
-                  ]
-            },
-            {
-                  "name": "Harmonites Steel Orchestra",
-                  "text": "A Harmonites Steel Orchestra panyardja Morvantban.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.469518,
-                        10.6489
-                  ]
-            },
-            {
-                  "name": "roller skating rink",
-                  "text": "Egy görkorcsolyapálya Morvantban, népszerű szabadidős hely.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.463094,
-                        10.646813
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "nufstyln productions",
-                  "text": "Un teatru local și casă de producție pentru artele spectacolului în Morvant.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.4597,
-                        10.655194
-                  ]
-            },
-            {
-                  "name": "Harmonites Steel Orchestra",
-                  "text": "Panyardul Orchestrei de Oțel Harmonites din Morvant.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.469518,
-                        10.6489
-                  ]
-            },
-            {
-                  "name": "roller skating rink",
-                  "text": "Un patinoar cu role în Morvant, un loc popular de agrement.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.463094,
-                        10.646813
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "nufstyln productions",
-                  "text": "A local theatre and production house for performing arts in Morvant.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.4597,
-                        10.655194
-                  ]
-            },
-            {
-                  "name": "Harmonites Steel Orchestra",
-                  "text": "The panyard of the Harmonites Steel Orchestra in Morvant.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.469518,
-                        10.6489
-                  ]
-            },
-            {
-                  "name": "roller skating rink",
-                  "text": "A roller skating rink in Morvant, a popular recreational spot.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.463094,
-                        10.646813
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "TT-SJL",
@@ -1696,15 +1072,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Exodus Pan Yard",
-                  "text": "Der Panyard der Exodus Steel Orchestra in St. Joseph.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.395295,
-                        10.645066
-                  ]
-            },
-            {
                   "name": "Agape Bible ministries",
                   "text": "Das Kirchengebäude von Agape Bible Ministries in St. Joseph.",
                   "category": "landmark",
@@ -1731,15 +1098,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -61.39519,
                         10.661357
-                  ]
-            },
-            {
-                  "name": "Exodus Pan Yard",
-                  "text": "Az Exodus Steel Orchestra panyardja St. Joseph-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.395295,
-                        10.645066
                   ]
             },
             {
@@ -1772,15 +1130,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Exodus Pan Yard",
-                  "text": "Panyardul Orchestrei de Oțel Exodus din St. Joseph.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.395295,
-                        10.645066
-                  ]
-            },
-            {
                   "name": "Agape Bible ministries",
                   "text": "Clădirea bisericii Agape Bible Ministries din St. Joseph.",
                   "category": "landmark",
@@ -1807,15 +1156,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -61.39519,
                         10.661357
-                  ]
-            },
-            {
-                  "name": "Exodus Pan Yard",
-                  "text": "The panyard of Exodus Steel Orchestra in St. Joseph.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.395295,
-                        10.645066
                   ]
             },
             {
@@ -2089,51 +1429,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     id: "tt-arouca-cities-v2", "sights": {
       "de": [
             {
-                  "name": "National Science Centre",
-                  "text": "Das Nationale Wissenschaftszentrum in Arouca, ein interaktives Wissenschaftsmuseum.",
-                  "category": "museum",
-                  "coords": [
-                        -61.324952,
-                        10.613936
-                  ]
-            },
-            {
-                  "name": "Cow Land",
-                  "text": "Eine Weidefläche mit Kühen in Arouca, bekannt als Cow Land.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.344946,
-                        10.642699
-                  ]
-            },
-            {
-                  "name": "bolo garden",
-                  "text": "Ein Gemeinschaftsgarten in Arouca, genannt Bolo Garden.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.324666,
-                        10.635812
-                  ]
-            },
-            {
-                  "name": "Oropune Gardens Welcome sign",
-                  "text": "Das Willkommensschild am Eingang zu Oropune Gardens in Arouca.",
-                  "category": "historical",
-                  "coords": [
-                        -61.352635,
-                        10.614496
-                  ]
-            },
-            {
-                  "name": "Prime Minister Park",
-                  "text": "Der Prime Minister Park in Arouca, ein öffentlicher Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.346866,
-                        10.641558
-                  ]
-            },
-            {
                   "name": "Surrey Village",
                   "text": "Das Wohngebiet Surrey Village in Arouca.",
                   "category": "landmark",
@@ -2144,51 +1439,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "National Science Centre",
-                  "text": "A Nemzeti Tudományos Központ Aroucában, egy interaktív tudományos múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -61.324952,
-                        10.613936
-                  ]
-            },
-            {
-                  "name": "Cow Land",
-                  "text": "Egy legelő terület tehenekkel Aroucában, Cow Land néven ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.344946,
-                        10.642699
-                  ]
-            },
-            {
-                  "name": "bolo garden",
-                  "text": "Egy közösségi kert Aroucában, Bolo Garden néven.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.324666,
-                        10.635812
-                  ]
-            },
-            {
-                  "name": "Oropune Gardens Welcome sign",
-                  "text": "Az Oropune Gardens bejáratánál lévő üdvözlőtábla Aroucában.",
-                  "category": "historical",
-                  "coords": [
-                        -61.352635,
-                        10.614496
-                  ]
-            },
-            {
-                  "name": "Prime Minister Park",
-                  "text": "A Prime Minister Park Aroucában, egy közpark.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.346866,
-                        10.641558
-                  ]
-            },
             {
                   "name": "Surrey Village",
                   "text": "A Surrey Village lakóövezet Aroucában.",
@@ -2201,51 +1451,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "National Science Centre",
-                  "text": "Centrul Național de Știință din Arouca, un muzeu științific interactiv.",
-                  "category": "museum",
-                  "coords": [
-                        -61.324952,
-                        10.613936
-                  ]
-            },
-            {
-                  "name": "Cow Land",
-                  "text": "O pășune cu vaci în Arouca, cunoscută sub numele de Cow Land.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.344946,
-                        10.642699
-                  ]
-            },
-            {
-                  "name": "bolo garden",
-                  "text": "O grădină comunitară în Arouca, numită Bolo Garden.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.324666,
-                        10.635812
-                  ]
-            },
-            {
-                  "name": "Oropune Gardens Welcome sign",
-                  "text": "Semnul de bun venit la intrarea în Oropune Gardens din Arouca.",
-                  "category": "historical",
-                  "coords": [
-                        -61.352635,
-                        10.614496
-                  ]
-            },
-            {
-                  "name": "Prime Minister Park",
-                  "text": "Parcul Primului Ministru din Arouca, un parc public.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.346866,
-                        10.641558
-                  ]
-            },
-            {
                   "name": "Surrey Village",
                   "text": "Zona rezidențială Surrey Village din Arouca.",
                   "category": "landmark",
@@ -2256,51 +1461,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "National Science Centre",
-                  "text": "National Science Centre in Arouca, an interactive science museum.",
-                  "category": "museum",
-                  "coords": [
-                        -61.324952,
-                        10.613936
-                  ]
-            },
-            {
-                  "name": "Cow Land",
-                  "text": "A pasture with cows in Arouca, known as Cow Land.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.344946,
-                        10.642699
-                  ]
-            },
-            {
-                  "name": "bolo garden",
-                  "text": "A community garden in Arouca, called Bolo Garden.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.324666,
-                        10.635812
-                  ]
-            },
-            {
-                  "name": "Oropune Gardens Welcome sign",
-                  "text": "The welcome sign at the entrance to Oropune Gardens in Arouca.",
-                  "category": "historical",
-                  "coords": [
-                        -61.352635,
-                        10.614496
-                  ]
-            },
-            {
-                  "name": "Prime Minister Park",
-                  "text": "Prime Minister Park in Arouca, a public park.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.346866,
-                        10.641558
-                  ]
-            },
             {
                   "name": "Surrey Village",
                   "text": "Surrey Village residential area in Arouca.",
@@ -2356,86 +1516,10 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
   },
   {
     id: "tt-curepe-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Coffee Express WH",
-                  "text": "Das Coffee-Express-Lagerhaus in Curepe.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.446621,
-                        10.644357
-                  ]
-            },
-            {
-                  "name": "Casa De la moos",
-                  "text": "Ein markantes Gebäude mit einer Elchstatue in Curepe, Casa de la moos.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.449097,
-                        10.645309
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Coffee Express WH",
-                  "text": "A Coffee Express raktár Curepe-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.446621,
-                        10.644357
-                  ]
-            },
-            {
-                  "name": "Casa De la moos",
-                  "text": "Egy jellegzetes épület jávorszarvas szoborral Curepe-ben, Casa de la Moos.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.449097,
-                        10.645309
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Coffee Express WH",
-                  "text": "Depozitul Coffee Express din Curepe.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.446621,
-                        10.644357
-                  ]
-            },
-            {
-                  "name": "Casa De la moos",
-                  "text": "O clădire distinctivă cu o statuie de elan în Curepe, Casa de la Moos.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.449097,
-                        10.645309
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Coffee Express WH",
-                  "text": "Coffee Express warehouse in Curepe.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.446621,
-                        10.644357
-                  ]
-            },
-            {
-                  "name": "Casa De la moos",
-                  "text": "A distinctive building with a moose statue in Curepe, Casa de la moos.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.449097,
-                        10.645309
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "TT-TUP",
@@ -2490,24 +1574,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                         -61.395295,
                         10.645066
                   ]
-            },
-            {
-                  "name": "Agape Bible ministries",
-                  "text": "Ein religiöses Zentrum und eine Sehenswürdigkeit in Saint Augustine.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.409567,
-                        10.652255
-                  ]
-            },
-            {
-                  "name": "Saint Joseph Roman Catholic Church",
-                  "text": "Diese römisch-katholische Kirche gilt als die älteste Gemeinde in Trinidad und Tobago.",
-                  "category": "religious",
-                  "coords": [
-                        -61.413761,
-                        10.653807
-                  ]
             }
       ],
       "hu": [
@@ -2518,24 +1584,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -61.395295,
                         10.645066
-                  ]
-            },
-            {
-                  "name": "Agape Bible ministries",
-                  "text": "Vallási központ és látnivaló Saint Augustine városában.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.409567,
-                        10.652255
-                  ]
-            },
-            {
-                  "name": "Saint Joseph Roman Catholic Church",
-                  "text": "Ez a római katolikus templom Trinidad és Tobago legrégebbi egyházközsége.",
-                  "category": "religious",
-                  "coords": [
-                        -61.413761,
-                        10.653807
                   ]
             }
       ],
@@ -2548,24 +1596,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                         -61.395295,
                         10.645066
                   ]
-            },
-            {
-                  "name": "Agape Bible ministries",
-                  "text": "Un centru religios și obiectiv turistic în Saint Augustine.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.409567,
-                        10.652255
-                  ]
-            },
-            {
-                  "name": "Saint Joseph Roman Catholic Church",
-                  "text": "Această biserică romano-catolică este considerată cea mai veche parohie din Trinidad și Tobago.",
-                  "category": "religious",
-                  "coords": [
-                        -61.413761,
-                        10.653807
-                  ]
             }
       ],
       "en": [
@@ -2576,24 +1606,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -61.395295,
                         10.645066
-                  ]
-            },
-            {
-                  "name": "Agape Bible ministries",
-                  "text": "A religious centre and attraction located in Saint Augustine.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.409567,
-                        10.652255
-                  ]
-            },
-            {
-                  "name": "Saint Joseph Roman Catholic Church",
-                  "text": "This Roman Catholic church is considered the oldest parish in Trinidad and Tobago.",
-                  "category": "religious",
-                  "coords": [
-                        -61.413761,
-                        10.653807
                   ]
             }
       ]
@@ -3333,50 +2345,10 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
   },
   {
     id: "tt-cedros-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Kolumbus-Kanal",
-                  "text": "Eine Meerenge, die Trinidad von der Küste Venezuelas trennt.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.428589,
-                        9.819968
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Columbus Channel",
-                  "text": "Tengerszoros, amely elválasztja Trinidadot Venezuela partjaitól.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.428589,
-                        9.819968
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Columbus Channel",
-                  "text": "O strâmtoare care separă Trinidad de coasta Venezuelei.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.428589,
-                        9.819968
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Columbus Channel",
-                  "text": "A strait separating Trinidad from the coast of Venezuela.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.428589,
-                        9.819968
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "TT-SIP",
@@ -3942,15 +2914,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sting Tourist Boat",
-                  "text": "Das Ausflugsboot Sting in Crown Point mit Glasboden für Touren zum Buccoo Reef.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.824785,
-                        11.166944
-                  ]
-            },
-            {
                   "name": "Crusoe Beach Resort",
                   "text": "Das Crusoe Beach Resort verankert einen malerischen Abschnitt der Küste von Crown Point und gewährt direkten Zugang zum Meer in Trinidad und Tobago. Eine einladende, auf Urlaub ausgerichtete Atmosphäre überwiegt und drängt die Besucher dazu, mühelos zwischen Entspannung auf den Zimmern und Planschen in den Küstengewässern zu wechseln. Ein Sommerbesuch verspricht lebendige Erinnerungen am Strand und viel warmen Sonnenschein.",
                   "category": "recreational",
@@ -4004,15 +2967,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -60.841124,
                         11.15579
-                  ]
-            },
-            {
-                  "name": "Sting Tourist Boat",
-                  "text": "A Sting kirándulóhajó Crown Pointban üvegfenékkel, túrákkal a Buccoo Reefhez.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.824785,
-                        11.166944
                   ]
             },
             {
@@ -4072,15 +3026,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sting Tourist Boat",
-                  "text": "Ambarcațiunea turistică Sting din Crown Point, cu fund de sticlă pentru excursii la Buccoo Reef.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.824785,
-                        11.166944
-                  ]
-            },
-            {
                   "name": "Crusoe Beach Resort",
                   "text": "Ancorând o secțiune pitorească a coastei Crown Point, Crusoe Beach Resort oferă acces direct la mare în Trinidad și Tobago. O atmosferă primitoare, centrată pe vacanță, predomină, îndemnând vizitatorii să comute fără efort între relaxarea în camerele lor și stropirea în apele de coastă. O vizită de vară promite amintiri vii pe litoral și mult soare cald.",
                   "category": "recreational",
@@ -4134,15 +3079,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -60.841124,
                         11.15579
-                  ]
-            },
-            {
-                  "name": "Sting Tourist Boat",
-                  "text": "Sting tourist boat in Crown Point with glass bottom for tours to Buccoo Reef.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.824785,
-                        11.166944
                   ]
             },
             {
@@ -4202,15 +3138,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     id: "tt-barataria-cities-v2", "sights": {
       "de": [
             {
-                  "name": "nufstyln productions",
-                  "text": "Ein Zentrum für Theaterproduktionen und darstellende Kunst in Barataria.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.4597,
-                        10.655194
-                  ]
-            },
-            {
                   "name": "Harmonites Steel Orchestra",
                   "text": "Ein Übungs- und Konzertraum für ein Steelpan-Orchester in Barataria.",
                   "category": "cultural",
@@ -4218,54 +3145,9 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                         -61.469518,
                         10.6489
                   ]
-            },
-            {
-                  "name": "Laventille Watering Spot",
-                  "text": "Der historische Tränkeplatz in Barataria, einst eine Viehtränke.",
-                  "category": "historical",
-                  "coords": [
-                        -61.494818,
-                        10.646668
-                  ]
-            },
-            {
-                  "name": "roller skating rink",
-                  "text": "Eine Anlage für sportliche Freizeitaktivitäten in Barataria.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.463094,
-                        10.646813
-                  ]
-            },
-            {
-                  "name": "Highlanders Steel Orchestra",
-                  "text": "Ein Kunstzentrum, das sich der Förderung der Steelpan-Musik widmet.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.489354,
-                        10.646866
-                  ]
-            },
-            {
-                  "name": "Casa De la moos",
-                  "text": "Ein markantes Gebäude mit einer Elchstatue in Barataria, Casa de la moos.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.449097,
-                        10.645309
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "nufstyln productions",
-                  "text": "Színházi produkciók és előadóművészetek központja Baratariában.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.4597,
-                        10.655194
-                  ]
-            },
             {
                   "name": "Harmonites Steel Orchestra",
                   "text": "Egy steelpan zenekar próbaterme és koncerthelyszíne Baratariában.",
@@ -4274,54 +3156,9 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                         -61.469518,
                         10.6489
                   ]
-            },
-            {
-                  "name": "Laventille Watering Spot",
-                  "text": "A történelmi itatóhely Baratariában, egykori állatitató.",
-                  "category": "historical",
-                  "coords": [
-                        -61.494818,
-                        10.646668
-                  ]
-            },
-            {
-                  "name": "roller skating rink",
-                  "text": "Szabadidős sportlétesítmény Barataria városában.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.463094,
-                        10.646813
-                  ]
-            },
-            {
-                  "name": "Highlanders Steel Orchestra",
-                  "text": "A steelpan zene népszerűsítésének szentelt művészeti központ.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.489354,
-                        10.646866
-                  ]
-            },
-            {
-                  "name": "Casa De la moos",
-                  "text": "Egy jellegzetes épület jávorszarvas szoborral Baratariában, Casa de la Moos.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.449097,
-                        10.645309
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "nufstyln productions",
-                  "text": "Un centru pentru producții teatrale și arte spectacolului în Barataria.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.4597,
-                        10.655194
-                  ]
-            },
             {
                   "name": "Harmonites Steel Orchestra",
                   "text": "Un spațiu de repetiții și concerte pentru o orchestră de steelpan în Barataria.",
@@ -4330,54 +3167,9 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                         -61.469518,
                         10.6489
                   ]
-            },
-            {
-                  "name": "Laventille Watering Spot",
-                  "text": "Locul istoric de adăpare din Barataria, cândva o adăpătoare pentru animale.",
-                  "category": "historical",
-                  "coords": [
-                        -61.494818,
-                        10.646668
-                  ]
-            },
-            {
-                  "name": "roller skating rink",
-                  "text": "O facilitate pentru activități sportive recreative în Barataria.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.463094,
-                        10.646813
-                  ]
-            },
-            {
-                  "name": "Highlanders Steel Orchestra",
-                  "text": "Un centru de artă dedicat promovării muzicii steelpan.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.489354,
-                        10.646866
-                  ]
-            },
-            {
-                  "name": "Casa De la moos",
-                  "text": "O clădire distinctivă cu o statuie de elan în Barataria, Casa de la Moos.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.449097,
-                        10.645309
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "nufstyln productions",
-                  "text": "A centre for theatre productions and performing arts in Barataria.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.4597,
-                        10.655194
-                  ]
-            },
             {
                   "name": "Harmonites Steel Orchestra",
                   "text": "A rehearsal and concert space for a steelpan orchestra in Barataria.",
@@ -4385,42 +3177,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -61.469518,
                         10.6489
-                  ]
-            },
-            {
-                  "name": "Laventille Watering Spot",
-                  "text": "The historic watering spot in Barataria, once a livestock watering hole.",
-                  "category": "historical",
-                  "coords": [
-                        -61.494818,
-                        10.646668
-                  ]
-            },
-            {
-                  "name": "roller skating rink",
-                  "text": "A facility for recreational sports activities in Barataria.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.463094,
-                        10.646813
-                  ]
-            },
-            {
-                  "name": "Highlanders Steel Orchestra",
-                  "text": "An arts centre dedicated to the promotion of steelpan music.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.489354,
-                        10.646866
-                  ]
-            },
-            {
-                  "name": "Casa De la moos",
-                  "text": "A distinctive building with a moose statue in Barataria, Casa de la moos.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.449097,
-                        10.645309
                   ]
             }
       ]
@@ -4515,33 +3271,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     id: "tt-woodbrook-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Port of Spain Lighthouse",
-                  "text": "Der Leuchtturm von Port of Spain in Woodbrook, ein historischer Leuchtturm.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.509479,
-                        10.647378
-                  ]
-            },
-            {
-                  "name": "National Museum & Art Gallery",
-                  "text": "Das Nationalmuseum von Trinidad und Tobago mit Geschichte und Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        -61.510318,
-                        10.662861
-                  ]
-            },
-            {
-                  "name": "Emperor Valley Zoo",
-                  "text": "Der wichtigste Zoo von Trinidad und Tobago in Port of Spain.",
-                  "category": "family",
-                  "coords": [
-                        -61.516417,
-                        10.675622
-                  ]
-            },
-            {
                   "name": "Invaders Steel Orchestra",
                   "text": "Ein bekanntes Steelpan-Orchester und Veranstaltungsort in Woodbrook.",
                   "category": "cultural",
@@ -4560,39 +3289,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Queen's Hall",
-                  "text": "Queen's Hall ist ein Konzertsaal im Woodbrook-Viertel von Port of Spain.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.510727,
-                        10.672871
-                  ]
-            },
-            {
-                  "name": "National Academy for the Performing Arts",
-                  "text": "Ein prominenter Ort für Musik und Theater in Port of Spain.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.511326,
-                        10.663355
-                  ]
-            },
-            {
                   "name": "St. James Park & Amphitheatre",
                   "text": "St. James Park & Amphitheatre ist ein öffentlicher Park mit einem Freilufttheater in Woodbrook.",
                   "category": "cultural",
                   "coords": [
                         -61.53534,
                         10.672011
-                  ]
-            },
-            {
-                  "name": "Queen's Park Savannah",
-                  "text": "Eine große Grünanlage in Port of Spain, bekannt als der größte Kreisverkehr der Welt.",
-                  "category": "park",
-                  "coords": [
-                        -61.514064,
-                        10.668863
                   ]
             },
             {
@@ -4605,30 +3307,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Königliche Botanische Gärten",
-                  "text": "Einer der ältesten botanischen Gärten in den Westindischen Inseln.",
-                  "category": "park",
-                  "coords": [
-                        -61.514646,
-                        10.675529
-                  ]
-            },
-            {
                   "name": "Statue of Mahatma Ghandi",
                   "text": "Ein Denkmal für Mahatma Gandhi in Port of Spain.",
                   "category": "historical",
                   "coords": [
                         -61.515319,
                         10.657406
-                  ]
-            },
-            {
-                  "name": "The Mighty Sparrow's Statue",
-                  "text": "Eine Statue zu Ehren des berühmten Calypso-Sängers The Mighty Sparrow.",
-                  "category": "historical",
-                  "coords": [
-                        -61.510562,
-                        10.671059
                   ]
             },
             {
@@ -4657,45 +3341,9 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                         -61.522361,
                         10.661545
                   ]
-            },
-            {
-                  "name": "Holy Name",
-                  "text": "Holy Name ist eine Kirche in Woodbrook.",
-                  "category": "religious",
-                  "coords": [
-                        -61.508646,
-                        10.663445
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Port of Spain Lighthouse",
-                  "text": "A Port of Spain-i világítótorony Woodbrookban, egy történelmi világítótorony.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.509479,
-                        10.647378
-                  ]
-            },
-            {
-                  "name": "National Museum & Art Gallery",
-                  "text": "Trinidad és Tobago nemzeti múzeuma, amely történelmi és művészeti kiállításoknak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        -61.510318,
-                        10.662861
-                  ]
-            },
-            {
-                  "name": "Emperor Valley Zoo",
-                  "text": "Trinidad és Tobago legfontosabb állatkertje Port of Spainben.",
-                  "category": "family",
-                  "coords": [
-                        -61.516417,
-                        10.675622
-                  ]
-            },
             {
                   "name": "Invaders Steel Orchestra",
                   "text": "Híres steelpan zenekar és előadóhely Woodbrookban.",
@@ -4715,39 +3363,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Queen's Hall",
-                  "text": "A Queen's Hall egy koncertterem Woodbrookban, Port of Spain külvárosában.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.510727,
-                        10.672871
-                  ]
-            },
-            {
-                  "name": "National Academy for the Performing Arts",
-                  "text": "Kiemelkedő zenei és színházi helyszín Port of Spainben.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.511326,
-                        10.663355
-                  ]
-            },
-            {
                   "name": "St. James Park & Amphitheatre",
                   "text": "A St. James Park & Amphitheatre egy nyilvános park szabadtéri színházzal Woodbrookban.",
                   "category": "cultural",
                   "coords": [
                         -61.53534,
                         10.672011
-                  ]
-            },
-            {
-                  "name": "Queen's Park Savannah",
-                  "text": "Port of Spain hatalmas nyitott területe, amelyet a világ legnagyobb körforgalmaként is ismernek.",
-                  "category": "park",
-                  "coords": [
-                        -61.514064,
-                        10.668863
                   ]
             },
             {
@@ -4760,30 +3381,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Royal Botanic Gardens",
-                  "text": "Nyugat-India egyik legrégebbi botanikus kertje.",
-                  "category": "park",
-                  "coords": [
-                        -61.514646,
-                        10.675529
-                  ]
-            },
-            {
                   "name": "Statue of Mahatma Ghandi",
                   "text": "Mahatma Gandhi tiszteletére emelt emlékmű Port of Spainben.",
                   "category": "historical",
                   "coords": [
                         -61.515319,
                         10.657406
-                  ]
-            },
-            {
-                  "name": "The Mighty Sparrow's Statue",
-                  "text": "A híres calypso énekes, The Mighty Sparrow tiszteletére állított szobor.",
-                  "category": "historical",
-                  "coords": [
-                        -61.510562,
-                        10.671059
                   ]
             },
             {
@@ -4812,45 +3415,9 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                         -61.522361,
                         10.661545
                   ]
-            },
-            {
-                  "name": "Holy Name",
-                  "text": "A Holy Name egy templom Woodbrookban.",
-                  "category": "religious",
-                  "coords": [
-                        -61.508646,
-                        10.663445
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Port of Spain Lighthouse",
-                  "text": "Farul din Port of Spain din Woodbrook, un far istoric.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.509479,
-                        10.647378
-                  ]
-            },
-            {
-                  "name": "National Museum & Art Gallery",
-                  "text": "Muzeul național din Trinidad și Tobago, care prezintă istorie și artă.",
-                  "category": "museum",
-                  "coords": [
-                        -61.510318,
-                        10.662861
-                  ]
-            },
-            {
-                  "name": "Emperor Valley Zoo",
-                  "text": "Principala grădină zoologică din Trinidad și Tobago, situată în Port of Spain.",
-                  "category": "family",
-                  "coords": [
-                        -61.516417,
-                        10.675622
-                  ]
-            },
             {
                   "name": "Invaders Steel Orchestra",
                   "text": "O celebră orchestră de tip steelpan și loc de desfășurare a spectacolelor în Woodbrook.",
@@ -4870,39 +3437,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Queen's Hall",
-                  "text": "Queen's Hall este o sală de concerte în cartierul Woodbrook din Port of Spain.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.510727,
-                        10.672871
-                  ]
-            },
-            {
-                  "name": "National Academy for the Performing Arts",
-                  "text": "O locație proeminentă pentru muzică și teatru în Port of Spain.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.511326,
-                        10.663355
-                  ]
-            },
-            {
                   "name": "St. James Park & Amphitheatre",
                   "text": "St. James Park & Amphitheatre este un parc public cu un amfiteatru în aer liber în Woodbrook.",
                   "category": "cultural",
                   "coords": [
                         -61.53534,
                         10.672011
-                  ]
-            },
-            {
-                  "name": "Queen's Park Savannah",
-                  "text": "Un spațiu deschis mare din Port of Spain, cunoscut drept cel mai mare sens giratoriu din lume.",
-                  "category": "park",
-                  "coords": [
-                        -61.514064,
-                        10.668863
                   ]
             },
             {
@@ -4915,30 +3455,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Royal Botanic Gardens",
-                  "text": "Una dintre cele mai vechi grădini botanice din Indiile de Vest.",
-                  "category": "park",
-                  "coords": [
-                        -61.514646,
-                        10.675529
-                  ]
-            },
-            {
                   "name": "Statue of Mahatma Ghandi",
                   "text": "Un monument dedicat lui Mahatma Gandhi în Port of Spain.",
                   "category": "historical",
                   "coords": [
                         -61.515319,
                         10.657406
-                  ]
-            },
-            {
-                  "name": "The Mighty Sparrow's Statue",
-                  "text": "O statuie în onoarea celebrului cântăreț de calipso, The Mighty Sparrow.",
-                  "category": "historical",
-                  "coords": [
-                        -61.510562,
-                        10.671059
                   ]
             },
             {
@@ -4967,45 +3489,9 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                         -61.522361,
                         10.661545
                   ]
-            },
-            {
-                  "name": "Holy Name",
-                  "text": "Holy Name este o biserică în Woodbrook.",
-                  "category": "religious",
-                  "coords": [
-                        -61.508646,
-                        10.663445
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Port of Spain Lighthouse",
-                  "text": "Port of Spain Lighthouse in Woodbrook, a historic lighthouse.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.509479,
-                        10.647378
-                  ]
-            },
-            {
-                  "name": "National Museum & Art Gallery",
-                  "text": "The national museum of Trinidad and Tobago, showcasing history and art.",
-                  "category": "museum",
-                  "coords": [
-                        -61.510318,
-                        10.662861
-                  ]
-            },
-            {
-                  "name": "Emperor Valley Zoo",
-                  "text": "The main zoo of Trinidad and Tobago, located in Port of Spain.",
-                  "category": "family",
-                  "coords": [
-                        -61.516417,
-                        10.675622
-                  ]
-            },
             {
                   "name": "Invaders Steel Orchestra",
                   "text": "A famous steelpan orchestra and performance venue in Woodbrook.",
@@ -5025,39 +3511,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Queen's Hall",
-                  "text": "Queen's Hall is a concert hall in the Woodbrook area of Port of Spain.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.510727,
-                        10.672871
-                  ]
-            },
-            {
-                  "name": "National Academy for the Performing Arts",
-                  "text": "A prominent venue for music and theater in Port of Spain.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.511326,
-                        10.663355
-                  ]
-            },
-            {
                   "name": "St. James Park & Amphitheatre",
                   "text": "St. James Park & Amphitheatre is a public park with an outdoor amphitheater in Woodbrook.",
                   "category": "cultural",
                   "coords": [
                         -61.53534,
                         10.672011
-                  ]
-            },
-            {
-                  "name": "Queen's Park Savannah",
-                  "text": "A large open space in Port of Spain, known as the world's largest traffic roundabout.",
-                  "category": "park",
-                  "coords": [
-                        -61.514064,
-                        10.668863
                   ]
             },
             {
@@ -5070,30 +3529,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Royal Botanic Gardens",
-                  "text": "One of the oldest botanical gardens in the West Indies.",
-                  "category": "park",
-                  "coords": [
-                        -61.514646,
-                        10.675529
-                  ]
-            },
-            {
                   "name": "Statue of Mahatma Ghandi",
                   "text": "A monument dedicated to Mahatma Gandhi in Port of Spain.",
                   "category": "historical",
                   "coords": [
                         -61.515319,
                         10.657406
-                  ]
-            },
-            {
-                  "name": "The Mighty Sparrow's Statue",
-                  "text": "A statue honoring the famous calypsonian, The Mighty Sparrow.",
-                  "category": "historical",
-                  "coords": [
-                        -61.510562,
-                        10.671059
                   ]
             },
             {
@@ -5121,15 +3562,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -61.522361,
                         10.661545
-                  ]
-            },
-            {
-                  "name": "Holy Name",
-                  "text": "Holy Name is a church in Woodbrook.",
-                  "category": "religious",
-                  "coords": [
-                        -61.508646,
-                        10.663445
                   ]
             }
       ]
@@ -5180,15 +3612,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     id: "tt-belmont-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Port of Spain Lighthouse",
-                  "text": "Port of Spain Lighthouse ist ein historischer Leuchtturm im Belmont-Viertel von Port of Spain.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.509479,
-                        10.647378
-                  ]
-            },
-            {
                   "name": "National Museum & Art Gallery",
                   "text": "Das Nationalmuseum zeigt bedeutende Sammlungen zur Kunst und Geschichte von Trinidad.",
                   "category": "museum",
@@ -5204,24 +3627,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -61.516417,
                         10.675622
-                  ]
-            },
-            {
-                  "name": "Invaders Steel Orchestra",
-                  "text": "Invaders Steel Orchestra ist eine berühmte Steelpan-Band aus Belmont.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.524169,
-                        10.665995
-                  ]
-            },
-            {
-                  "name": "Phase II Pan Groove",
-                  "text": "Ein prominentes Zentrum für Steelpan-Musik und kulturelle Darbietungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.529706,
-                        10.666975
                   ]
             },
             {
@@ -5261,30 +3666,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nelson Mandela Park",
-                  "text": "Nelson Mandela Park ist ein öffentlicher Park in Belmont.",
-                  "category": "park",
-                  "coords": [
-                        -61.525216,
-                        10.66903
-                  ]
-            },
-            {
                   "name": "Königliche Botanische Gärten",
                   "text": "Einer der ältesten botanischen Gärten der Welt, gegründet im Jahr 1818.",
                   "category": "park",
                   "coords": [
                         -61.514646,
                         10.675529
-                  ]
-            },
-            {
-                  "name": "Statue of Mahatma Ghandi",
-                  "text": "Ein Denkmal zu Ehren von Mahatma Gandhi in Belmont.",
-                  "category": "historical",
-                  "coords": [
-                        -61.515319,
-                        10.657406
                   ]
             },
             {
@@ -5297,57 +3684,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Laventille Watering Spot",
-                  "text": "Ein lokales Wahrzeichen und historischer Brunnenplatz in Belmont.",
-                  "category": "historical",
-                  "coords": [
-                        -61.494818,
-                        10.646668
-                  ]
-            },
-            {
-                  "name": "Brian Lara Statue",
-                  "text": "Brian Lara Statue ist eine Bronzestatue des Cricketspielers in Belmont.",
-                  "category": "historical",
-                  "coords": [
-                        -61.513922,
-                        10.649632
-                  ]
-            },
-            {
-                  "name": "Symmetry Trinidad Limited",
-                  "text": "Symmetry Trinidad Limited ist ein Bürogebäude in Belmont.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.51937,
-                        10.65825
-                  ]
-            },
-            {
                   "name": "The Lookout, Lady Chancellor Road",
                   "text": "The Lookout an der Lady Chancellor Road ist ein bekannter Aussichtspunkt in Belmont. Von diesem Punkt in Trinidad und Tobago können Besucher einen atemberaubenden Weitblick über Port of Spain genießen.",
                   "category": "natural",
                   "coords": [
                         -61.509911,
                         10.686171
-                  ]
-            },
-            {
-                  "name": "Highlanders Steel Orchestra",
-                  "text": "Ein Zentrum für Musik und Kunst mit Schwerpunkt auf Steelpan-Traditionen.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.489354,
-                        10.646866
-                  ]
-            },
-            {
-                  "name": "The Big Black Box",
-                  "text": "Ein alternativer Kunstraum für kulturelle Veranstaltungen und Ausstellungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.522361,
-                        10.661545
                   ]
             },
             {
@@ -5361,15 +3703,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Port of Spain Lighthouse",
-                  "text": "A Port of Spain Lighthouse egy történelmi világítótorony Belmontban, Port of Spainben.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.509479,
-                        10.647378
-                  ]
-            },
             {
                   "name": "National Museum & Art Gallery",
                   "text": "A nemzeti múzeum Trinidad művészetének és történelmének jelentős gyűjteményeit mutatja be.",
@@ -5386,24 +3719,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -61.516417,
                         10.675622
-                  ]
-            },
-            {
-                  "name": "Invaders Steel Orchestra",
-                  "text": "Az Invaders Steel Orchestra egy híres steelpan zenekar Belmontból.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.524169,
-                        10.665995
-                  ]
-            },
-            {
-                  "name": "Phase II Pan Groove",
-                  "text": "A steelpan zene és a kulturális előadások kiemelkedő központja.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.529706,
-                        10.666975
                   ]
             },
             {
@@ -5443,30 +3758,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nelson Mandela Park",
-                  "text": "A Nelson Mandela Park egy nyilvános park Belmontban.",
-                  "category": "park",
-                  "coords": [
-                        -61.525216,
-                        10.66903
-                  ]
-            },
-            {
                   "name": "Royal Botanic Gardens",
                   "text": "A világ egyik legrégebbi botanikus kertje, amelyet 1818-ban alapítottak.",
                   "category": "park",
                   "coords": [
                         -61.514646,
                         10.675529
-                  ]
-            },
-            {
-                  "name": "Statue of Mahatma Ghandi",
-                  "text": "Mahatma Gandhi tiszteletére emelt emlékmű Belmontban.",
-                  "category": "historical",
-                  "coords": [
-                        -61.515319,
-                        10.657406
                   ]
             },
             {
@@ -5479,57 +3776,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Laventille Watering Spot",
-                  "text": "Helyi jelkép és történelmi kút Belmontban.",
-                  "category": "historical",
-                  "coords": [
-                        -61.494818,
-                        10.646668
-                  ]
-            },
-            {
-                  "name": "Brian Lara Statue",
-                  "text": "A Brian Lara Statue egy bronzszobor a krikettjátékosról Belmontban.",
-                  "category": "historical",
-                  "coords": [
-                        -61.513922,
-                        10.649632
-                  ]
-            },
-            {
-                  "name": "Symmetry Trinidad Limited",
-                  "text": "A Symmetry Trinidad Limited egy irodaépület Belmontban.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.51937,
-                        10.65825
-                  ]
-            },
-            {
                   "name": "The Lookout, Lady Chancellor Road",
                   "text": "A Lady Chancellor Road-on található The Lookout egy híres kilátóhely Belmontban. Trinidad és Tobagó-i látogatásuk során a turisták innen lenyűgöző panorámát élvezhetnek Port of Spain városa felett.",
                   "category": "natural",
                   "coords": [
                         -61.509911,
                         10.686171
-                  ]
-            },
-            {
-                  "name": "Highlanders Steel Orchestra",
-                  "text": "Zenei és művészeti központ, amely a steelpan hagyományokra összpontosít.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.489354,
-                        10.646866
-                  ]
-            },
-            {
-                  "name": "The Big Black Box",
-                  "text": "Alternatív művészeti tér kulturális események és kiállítások számára.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.522361,
-                        10.661545
                   ]
             },
             {
@@ -5543,15 +3795,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Port of Spain Lighthouse",
-                  "text": "Port of Spain Lighthouse este un far istoric în Belmont, Port of Spain.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.509479,
-                        10.647378
-                  ]
-            },
             {
                   "name": "National Museum & Art Gallery",
                   "text": "Muzeul Național expune colecții importante de artă și istorie din Trinidad.",
@@ -5568,24 +3811,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -61.516417,
                         10.675622
-                  ]
-            },
-            {
-                  "name": "Invaders Steel Orchestra",
-                  "text": "Invaders Steel Orchestra este o celebră trupă de steelpan din Belmont.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.524169,
-                        10.665995
-                  ]
-            },
-            {
-                  "name": "Phase II Pan Groove",
-                  "text": "Un centru proeminent pentru muzică steelpan și spectacole culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.529706,
-                        10.666975
                   ]
             },
             {
@@ -5625,30 +3850,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nelson Mandela Park",
-                  "text": "Nelson Mandela Park este un parc public în Belmont.",
-                  "category": "park",
-                  "coords": [
-                        -61.525216,
-                        10.66903
-                  ]
-            },
-            {
                   "name": "Royal Botanic Gardens",
                   "text": "Una dintre cele mai vechi grădini botanice din lume, înființată în 1818.",
                   "category": "park",
                   "coords": [
                         -61.514646,
                         10.675529
-                  ]
-            },
-            {
-                  "name": "Statue of Mahatma Ghandi",
-                  "text": "Un monument ridicat în onoarea lui Mahatma Gandhi în Belmont.",
-                  "category": "historical",
-                  "coords": [
-                        -61.515319,
-                        10.657406
                   ]
             },
             {
@@ -5661,57 +3868,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Laventille Watering Spot",
-                  "text": "Un punct de reper local și loc istoric de cișmea în Belmont.",
-                  "category": "historical",
-                  "coords": [
-                        -61.494818,
-                        10.646668
-                  ]
-            },
-            {
-                  "name": "Brian Lara Statue",
-                  "text": "Brian Lara Statue este o statuie de bronz a jucătorului de cricket în Belmont.",
-                  "category": "historical",
-                  "coords": [
-                        -61.513922,
-                        10.649632
-                  ]
-            },
-            {
-                  "name": "Symmetry Trinidad Limited",
-                  "text": "Symmetry Trinidad Limited este o clădire de birouri în Belmont.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.51937,
-                        10.65825
-                  ]
-            },
-            {
                   "name": "The Lookout, Lady Chancellor Road",
                   "text": "The Lookout, situat pe Lady Chancellor Road, este un punct de belvedere renumit din Belmont. Din această locație din Trinidad și Tobago, vizitatorii pot admira o vedere panoramică asupra Port of Spain.",
                   "category": "natural",
                   "coords": [
                         -61.509911,
                         10.686171
-                  ]
-            },
-            {
-                  "name": "Highlanders Steel Orchestra",
-                  "text": "Un centru pentru muzică și artă, axat pe tradițiile steelpan.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.489354,
-                        10.646866
-                  ]
-            },
-            {
-                  "name": "The Big Black Box",
-                  "text": "Un spațiu de artă alternativ pentru evenimente culturale și expoziții.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.522361,
-                        10.661545
                   ]
             },
             {
@@ -5725,15 +3887,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Port of Spain Lighthouse",
-                  "text": "Port of Spain Lighthouse is a historic lighthouse in Belmont, Trinidad.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.509479,
-                        10.647378
-                  ]
-            },
             {
                   "name": "National Museum & Art Gallery",
                   "text": "The national museum houses significant collections of art and history from Trinidad.",
@@ -5750,24 +3903,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -61.516417,
                         10.675622
-                  ]
-            },
-            {
-                  "name": "Invaders Steel Orchestra",
-                  "text": "Invaders Steel Orchestra is a renowned steel pan band based in Belmont.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.524169,
-                        10.665995
-                  ]
-            },
-            {
-                  "name": "Phase II Pan Groove",
-                  "text": "A prominent centre for steelpan music and cultural performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.529706,
-                        10.666975
                   ]
             },
             {
@@ -5807,30 +3942,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nelson Mandela Park",
-                  "text": "Nelson Mandela Park is a public park in Belmont.",
-                  "category": "park",
-                  "coords": [
-                        -61.525216,
-                        10.66903
-                  ]
-            },
-            {
                   "name": "Royal Botanic Gardens",
                   "text": "One of the oldest botanical gardens in the world, established in 1818.",
                   "category": "park",
                   "coords": [
                         -61.514646,
                         10.675529
-                  ]
-            },
-            {
-                  "name": "Statue of Mahatma Ghandi",
-                  "text": "A monument erected in honor of Mahatma Gandhi in Belmont.",
-                  "category": "historical",
-                  "coords": [
-                        -61.515319,
-                        10.657406
                   ]
             },
             {
@@ -5843,57 +3960,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Laventille Watering Spot",
-                  "text": "A local landmark and historical watering site in Belmont.",
-                  "category": "historical",
-                  "coords": [
-                        -61.494818,
-                        10.646668
-                  ]
-            },
-            {
-                  "name": "Brian Lara Statue",
-                  "text": "Brian Lara Statue is a bronze statue of the cricketer in Belmont.",
-                  "category": "historical",
-                  "coords": [
-                        -61.513922,
-                        10.649632
-                  ]
-            },
-            {
-                  "name": "Symmetry Trinidad Limited",
-                  "text": "Symmetry Trinidad Limited is a commercial office building in Belmont.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.51937,
-                        10.65825
-                  ]
-            },
-            {
                   "name": "The Lookout, Lady Chancellor Road",
                   "text": "The Lookout on Lady Chancellor Road is a renowned viewpoint situated in Belmont. Visitors to this spot in Trinidad and Tobago can take in sweeping, panoramic views of Port of Spain.",
                   "category": "natural",
                   "coords": [
                         -61.509911,
                         10.686171
-                  ]
-            },
-            {
-                  "name": "Highlanders Steel Orchestra",
-                  "text": "A centre for music and arts focused on steelpan traditions.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.489354,
-                        10.646866
-                  ]
-            },
-            {
-                  "name": "The Big Black Box",
-                  "text": "An alternative arts space for cultural events and exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.522361,
-                        10.661545
                   ]
             },
             {
@@ -6440,15 +4512,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Buccoo Reef",
-                  "text": "Ein geschütztes Korallenriff-Reservat vor der Küste von Tobago.",
-                  "category": "natural",
-                  "coords": [
-                        -60.826653,
-                        11.180334
-                  ]
-            },
-            {
                   "name": "Buccoo Bay",
                   "text": "Buccoo Bay ist eine geschützte Bucht in Black Rock, Tobago.",
                   "category": "landmark",
@@ -6464,33 +4527,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -60.787615,
                         11.203351
-                  ]
-            },
-            {
-                  "name": "Great Courland Bay",
-                  "text": "Great Courland Bay ist eine große Bucht in Black Rock.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.779483,
-                        11.215011
-                  ]
-            },
-            {
-                  "name": "Fort Bennett",
-                  "text": "Überreste einer historischen Befestigungsanlage in Black Rock.",
-                  "category": "historical",
-                  "coords": [
-                        -60.78572,
-                        11.207397
-                  ]
-            },
-            {
-                  "name": "Atv Ride ",
-                  "text": "Atv Ride bietet geführte Quad-Touren in Black Rock an.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.777094,
-                        11.211118
                   ]
             },
             {
@@ -6514,15 +4550,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Buccoo Reef",
-                  "text": "Védett korallzátony-rezervátum Tobago partjainál.",
-                  "category": "natural",
-                  "coords": [
-                        -60.826653,
-                        11.180334
-                  ]
-            },
-            {
                   "name": "Buccoo Bay",
                   "text": "A Buccoo Bay egy védett öböl Black Rockban, Tobagón.",
                   "category": "landmark",
@@ -6538,33 +4565,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -60.787615,
                         11.203351
-                  ]
-            },
-            {
-                  "name": "Great Courland Bay",
-                  "text": "A Great Courland Bay egy nagy öböl Black Rockban.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.779483,
-                        11.215011
-                  ]
-            },
-            {
-                  "name": "Fort Bennett",
-                  "text": "Egy történelmi erődítmény maradványai Black Rockban.",
-                  "category": "historical",
-                  "coords": [
-                        -60.78572,
-                        11.207397
-                  ]
-            },
-            {
-                  "name": "Atv Ride ",
-                  "text": "Az Atv Ride vezetett quad túrákat kínál Black Rockban.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.777094,
-                        11.211118
                   ]
             },
             {
@@ -6588,15 +4588,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Buccoo Reef",
-                  "text": "O rezervație protejată de recif de corali în largul coastei Tobago.",
-                  "category": "natural",
-                  "coords": [
-                        -60.826653,
-                        11.180334
-                  ]
-            },
-            {
                   "name": "Buccoo Bay",
                   "text": "Buccoo Bay este un golf adăpostit în Black Rock, Tobago.",
                   "category": "landmark",
@@ -6612,33 +4603,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -60.787615,
                         11.203351
-                  ]
-            },
-            {
-                  "name": "Great Courland Bay",
-                  "text": "Great Courland Bay este un golf mare în Black Rock.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.779483,
-                        11.215011
-                  ]
-            },
-            {
-                  "name": "Fort Bennett",
-                  "text": "Rămășițele unei fortificații istorice în Black Rock.",
-                  "category": "historical",
-                  "coords": [
-                        -60.78572,
-                        11.207397
-                  ]
-            },
-            {
-                  "name": "Atv Ride ",
-                  "text": "Atv Ride oferă tururi ghidate cu ATV-ul în Black Rock.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.777094,
-                        11.211118
                   ]
             },
             {
@@ -6662,15 +4626,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Buccoo Reef",
-                  "text": "A protected coral reef reserve off the coast of Tobago.",
-                  "category": "natural",
-                  "coords": [
-                        -60.826653,
-                        11.180334
-                  ]
-            },
-            {
                   "name": "Buccoo Bay",
                   "text": "Buccoo Bay is a sheltered bay in Black Rock, Tobago.",
                   "category": "landmark",
@@ -6686,33 +4641,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -60.787615,
                         11.203351
-                  ]
-            },
-            {
-                  "name": "Great Courland Bay",
-                  "text": "Great Courland Bay is a large bay in Black Rock.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.779483,
-                        11.215011
-                  ]
-            },
-            {
-                  "name": "Fort Bennett",
-                  "text": "The remains of a historical fortification in Black Rock.",
-                  "category": "historical",
-                  "coords": [
-                        -60.78572,
-                        11.207397
-                  ]
-            },
-            {
-                  "name": "Atv Ride ",
-                  "text": "Atv Ride offers guided quad bike tours in Black Rock.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.777094,
-                        11.211118
                   ]
             },
             {
@@ -6957,24 +4885,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "bolo garden",
-                  "text": "Bolo Garden ist ein botanischer Garten in Tacariqua.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.324666,
-                        10.635812
-                  ]
-            },
-            {
-                  "name": "Oropune Gardens Welcome sign",
-                  "text": "Oropune Gardens Welcome sign markiert den Eingang zu den Gärten in Tacariqua.",
-                  "category": "historical",
-                  "coords": [
-                        -61.352635,
-                        10.614496
-                  ]
-            },
-            {
                   "name": "Prime Minister Park",
                   "text": "Prime Minister Park ist ein öffentlicher Park in Tacariqua.",
                   "category": "landmark",
@@ -6992,24 +4902,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -61.344946,
                         10.642699
-                  ]
-            },
-            {
-                  "name": "bolo garden",
-                  "text": "A Bolo Garden egy botanikus kert Tacariquában.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.324666,
-                        10.635812
-                  ]
-            },
-            {
-                  "name": "Oropune Gardens Welcome sign",
-                  "text": "Az Oropune Gardens Welcome sign jelzi a kertek bejáratát Tacariquában.",
-                  "category": "historical",
-                  "coords": [
-                        -61.352635,
-                        10.614496
                   ]
             },
             {
@@ -7033,24 +4925,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "bolo garden",
-                  "text": "Bolo Garden este o grădină botanică în Tacariqua.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.324666,
-                        10.635812
-                  ]
-            },
-            {
-                  "name": "Oropune Gardens Welcome sign",
-                  "text": "Oropune Gardens Welcome sign marchează intrarea în grădini în Tacariqua.",
-                  "category": "historical",
-                  "coords": [
-                        -61.352635,
-                        10.614496
-                  ]
-            },
-            {
                   "name": "Prime Minister Park",
                   "text": "Prime Minister Park este un parc public în Tacariqua.",
                   "category": "landmark",
@@ -7068,24 +4942,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   "coords": [
                         -61.344946,
                         10.642699
-                  ]
-            },
-            {
-                  "name": "bolo garden",
-                  "text": "Bolo Garden is a botanical garden in Tacariqua.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.324666,
-                        10.635812
-                  ]
-            },
-            {
-                  "name": "Oropune Gardens Welcome sign",
-                  "text": "Oropune Gardens Welcome sign marks the entrance to the gardens in Tacariqua.",
-                  "category": "historical",
-                  "coords": [
-                        -61.352635,
-                        10.614496
                   ]
             },
             {
@@ -7154,30 +5010,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Amerindian Display",
-                  "text": "Eine Ausstellung, die dem Erbe der indigenen Völker gewidmet ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.299346,
-                        10.631228
-                  ]
-            },
-            {
                   "name": "bolo garden",
                   "text": "Bolo Garden ist ein botanischer Garten in Dabadie.",
                   "category": "landmark",
                   "coords": [
                         -61.324666,
                         10.635812
-                  ]
-            },
-            {
-                  "name": "Surrey Village",
-                  "text": "Surrey Village ist ein Wohngebiet in Dabadie.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.327075,
-                        10.656434
                   ]
             }
       ],
@@ -7192,30 +5030,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Amerindian Display",
-                  "text": "Az őslakos népek örökségének szentelt kiállítás.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.299346,
-                        10.631228
-                  ]
-            },
-            {
                   "name": "bolo garden",
                   "text": "A Bolo Garden egy botanikus kert Dabadie-ban.",
                   "category": "landmark",
                   "coords": [
                         -61.324666,
                         10.635812
-                  ]
-            },
-            {
-                  "name": "Surrey Village",
-                  "text": "A Surrey Village egy lakónegyed Dabadie-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.327075,
-                        10.656434
                   ]
             }
       ],
@@ -7230,30 +5050,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Amerindian Display",
-                  "text": "O expoziție dedicată moștenirii popoarelor indigene.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.299346,
-                        10.631228
-                  ]
-            },
-            {
                   "name": "bolo garden",
                   "text": "Bolo Garden este o grădină botanică în Dabadie.",
                   "category": "landmark",
                   "coords": [
                         -61.324666,
                         10.635812
-                  ]
-            },
-            {
-                  "name": "Surrey Village",
-                  "text": "Surrey Village este o zonă rezidențială în Dabadie.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.327075,
-                        10.656434
                   ]
             }
       ],
@@ -7268,30 +5070,12 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Amerindian Display",
-                  "text": "An exhibition dedicated to the heritage of Amerindian peoples.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.299346,
-                        10.631228
-                  ]
-            },
-            {
                   "name": "bolo garden",
                   "text": "Bolo Garden is a botanical garden in Dabadie.",
                   "category": "landmark",
                   "coords": [
                         -61.324666,
                         10.635812
-                  ]
-            },
-            {
-                  "name": "Surrey Village",
-                  "text": "Surrey Village is a residential area in Dabadie.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.327075,
-                        10.656434
                   ]
             }
       ]
@@ -7559,7 +5343,52 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
     },
   },
   {
-    id: "tt-bon-accord-cities-v2", "sights": {"de": [{"name": "Swallows Bay", "text": "Ein malerischer Strandbereich in Bon Accord, bekannt für sein klares Wasser.", "category": "recreational", "coords": [-60.838635, 11.158469]}, {"name": "Coco Reef Internal Beach", "text": "Dieser interne Strand bildet ein ruhiges Küstenschutzgebiet innerhalb des Coco Reef Resorts in Bon Accord und serviert ruhigen karibischen Luxus. Die exklusive Atmosphäre ist bewusst so gestaltet, dass sie ungestörtes Schwimmen und erstklassiges Sonnenbaden für die Gäste gewährleistet. Sich mit einem guten Buch unter klarem Himmel niederzulassen, ist wohl die schönste Art, hier einen Nachmittag zu verbringen.", "category": "recreational", "coords": [-60.839172, 11.157471]}, {"name": "Fort Milford", "text": "Historische Ruinen einer Kolonialfestung mit Blick auf die Küste in Bon Accord.", "category": "fortress", "coords": [-60.842753, 11.154155]}, {"name": "Buccoo Reef", "text": "Ein geschützter Meerespark, der für seine lebhaften Korallenriffe und die vielfältige Meeresfauna bekannt ist.", "category": "natural", "coords": [-60.826653, 11.180334]}, {"name": "Store Bay", "text": "Eine bekannte Bucht in Bon Accord mit einem beliebten Strand und Bootsanlagen.", "category": "landmark", "coords": [-60.841124, 11.15579]}, {"name": "Sting Tourist Boat", "text": "Ein Touristenbootservice in Bon Accord, der Küstenrundfahrten und Ausflüge anbietet.", "category": "landmark", "coords": [-60.824785, 11.166944]}, {"name": "Crusoe Beach Resort", "text": "Das Crusoe Beach Resort bietet sowohl Unterkünfte am Meer als auch direkten Zugang zum Strand und sticht entlang der sonnigen Küste von Bon Accord hervor. Das Anwesen strahlt eine freundliche, urlaubsreife Stimmung aus, die perfekt für Tage ist, die zwischen komfortablem Faulenzen und Schwimmen im Ozean aufgeteilt sind. Wer sich auf einen sonnigen Urlaub mit reichlich Badekleidung vorbereitet, sichert sich eine hervorragende Zeit an diesem Küstenort.", "category": "recreational", "coords": [-60.835751, 11.146294]}], "hu": [{"name": "Swallows Bay", "text": "Bon Accord festői tengerparti része, amely tiszta vizéről ismert.", "category": "recreational", "coords": [-60.838635, 11.158469]}, {"name": "Coco Reef Internal Beach", "text": "A Bon Accord-i Coco Reef Resort nyugodt tengerparti szentélyét alkotó belső strand csendes karibi luxust kínál. Az exkluzív légkört szándékosan úgy alakították ki, hogy zavartalan úszást és prémium napozást biztosítson a vendégek számára. Egy jó könyvvel a tiszta égbolt alatt letelepedni vitathatatlanul a legjobb módja egy itteni délután eltöltésének.", "category": "recreational", "coords": [-60.839172, 11.157471]}, {"name": "Fort Milford", "text": "Egy gyarmati erőd történelmi romjai a tengerpartnál, Bon Accordban.", "category": "fortress", "coords": [-60.842753, 11.154155]}, {"name": "Buccoo Reef", "text": "Védett tengeri park, amely élénk korallzátonyairól és változatos élővilágáról híres.", "category": "natural", "coords": [-60.826653, 11.180334]}, {"name": "Store Bay", "text": "Bon Accord jól ismert öble, népszerű stranddal és hajózási lehetőségekkel.", "category": "landmark", "coords": [-60.841124, 11.15579]}, {"name": "Sting Tourist Boat", "text": "Bon Accord-i turistahajó-szolgáltatás, amely parti túrákat és kirándulásokat kínál.", "category": "landmark", "coords": [-60.824785, 11.166944]}, {"name": "Crusoe Beach Resort", "text": "A tengerparti szállást és közvetlen strandkapcsolatot egyaránt kínáló Crusoe Beach Resort kiemelkedik Bon Accord napos partvidékén. A szálláshely barátságos, nyaralásra kész szellemet áraszt, amely tökéletes a kényelmes heverészés és az óceáni úszás között megosztott napokhoz. Ha elegendő fürdőruhával készül a napos nyaralásra, kiváló időtöltést biztosít ezen a parti kiruccanáson.", "category": "recreational", "coords": [-60.835751, 11.146294]}], "ro": [{"name": "Swallows Bay", "text": "O zonă de plajă pitorească situată în Bon Accord, cunoscută pentru apele sale limpezi.", "category": "recreational", "coords": [-60.838635, 11.158469]}, {"name": "Coco Reef Internal Beach", "text": "Formând un sanctuar de coastă liniștit în cadrul stațiunii Coco Reef din Bon Accord, această plajă internă servește lux liniștit din Caraibe. Atmosfera exclusivă este modelată în mod deliberat pentru a asigura oaspeților înot netulburat și plajă premium. A te instala cu o carte bună sub cerul senin este, fără îndoială, cel mai bun mod de a petrece o după-amiază aici.", "category": "recreational", "coords": [-60.839172, 11.157471]}, {"name": "Fort Milford", "text": "Ruinele istorice ale unui fort colonial cu vedere la coastă în Bon Accord.", "category": "fortress", "coords": [-60.842753, 11.154155]}, {"name": "Buccoo Reef", "text": "Un parc marin protejat, faimos pentru recifele sale de corali vibrante și viața marină diversă.", "category": "natural", "coords": [-60.826653, 11.180334]}, {"name": "Store Bay", "text": "Un golf cunoscut în Bon Accord, cu o plajă populară și facilități pentru ambarcațiuni.", "category": "landmark", "coords": [-60.841124, 11.15579]}, {"name": "Sting Tourist Boat", "text": "Un serviciu de ambarcațiuni turistice în Bon Accord, care oferă tururi de coastă și excursii.", "category": "landmark", "coords": [-60.824785, 11.166944]}, {"name": "Crusoe Beach Resort", "text": "Oferind atât cazare pe malul mării, cât și acces direct la plajă, Crusoe Beach Resort iese în evidență de-a lungul țărmului însorit al Bon Accord. Proprietatea emană un spirit prietenos, gata de vacanță, perfect pentru zilele împărțite între lenevit confortabil și înotul în ocean. Pregătindu-vă pentru o vacanță însorită cu o mulțime de costume de baie vă asigură un timp excelent la această evadare de pe coastă.", "category": "recreational", "coords": [-60.835751, 11.146294]}], "en": [{"name": "Swallows Bay", "text": "A scenic beach area located in Bon Accord, known for its clear waters.", "category": "recreational", "coords": [-60.838635, 11.158469]}, {"name": "Coco Reef Internal Beach", "text": "Forming a quiet coastal sanctuary within the Coco Reef Resort in Bon Accord, this internal beach serves up tranquil Caribbean luxury. The exclusive atmosphere is deliberately shaped to ensure undisturbed swimming and premium sunbathing for guests. Settling in with a good book under the clear skies is arguably the finest way to spend an afternoon here.", "category": "recreational", "coords": [-60.839172, 11.157471]}, {"name": "Fort Milford", "text": "Historical ruins of a colonial fort overlooking the coast in Bon Accord.", "category": "fortress", "coords": [-60.842753, 11.154155]}, {"name": "Buccoo Reef", "text": "A protected marine park famous for its vibrant coral reefs and diverse sea life.", "category": "natural", "coords": [-60.826653, 11.180334]}, {"name": "Store Bay", "text": "A well-known bay in Bon Accord featuring a popular beach and boat facilities.", "category": "landmark", "coords": [-60.841124, 11.15579]}, {"name": "Sting Tourist Boat", "text": "A tourist boat service in Bon Accord offering coastal tours and excursions.", "category": "landmark", "coords": [-60.824785, 11.166944]}, {"name": "Crusoe Beach Resort", "text": "Offering both seaside lodging and direct beach access, Crusoe Beach Resort stands out along the sunny shoreline of Bon Accord. The property emanates a friendly, vacation-ready spirit perfect for days split between comfortable lounging and ocean swimming. Preparing for a sunny holiday with plenty of swimwear ensures an excellent time at this coastal getaway.", "category": "recreational", "coords": [-60.835751, 11.146294]}]},
+    id: "tt-bon-accord-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sting Tourist Boat",
+                  "text": "Ein Touristenbootservice in Bon Accord, der Küstenrundfahrten und Ausflüge anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.824785,
+                        11.166944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sting Tourist Boat",
+                  "text": "Bon Accord-i turistahajó-szolgáltatás, amely parti túrákat és kirándulásokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.824785,
+                        11.166944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sting Tourist Boat",
+                  "text": "Un serviciu de ambarcațiuni turistice în Bon Accord, care oferă tururi de coastă și excursii.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.824785,
+                        11.166944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sting Tourist Boat",
+                  "text": "A tourist boat service in Bon Accord offering coastal tours and excursions.",
+                  "category": "landmark",
+                  "coords": [
+                        -60.824785,
+                        11.166944
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TT-TOB",
     coords: [-60.8167, 11.15],
@@ -7605,24 +5434,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
   {
     id: "tt-plymouth-cities-v2", "sights": {
       "de": [
-            {
-                  "name": "Mount Irvine Bay Beach",
-                  "text": "Der Mount Irvine Bay Beach entfaltet sich majestätisch in der Nähe von Plymouth und ist ein bemerkenswert malerischer Sandstrand in Trinidad und Tobago. Eine dynamische und doch entspannende Umgebung zieht Besucher an, die in klarem Wasser schwimmen und die tropische Sonne genießen möchten. Wer am Morgen ankommt, erlebt eine ruhigere Zeit, bevor das typische nachmittägliche Treiben am Meer beginnt.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.7958,
-                        11.193689
-                  ]
-            },
-            {
-                  "name": "Stone Haven Bay",
-                  "text": "Stone Haven Bay ist ein Sandstrand in Plymouth, Tobago.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.787615,
-                        11.203351
-                  ]
-            },
             {
                   "name": "Great Courland Bay",
                   "text": "Great Courland Bay ist eine große Bucht in Plymouth, Tobago.",
@@ -7671,24 +5482,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Mount Irvine Bay Beach",
-                  "text": "A Plymouth közelében fenségesen kibontakozó Mount Irvine Bay Beach egy figyelemre méltóan festői homokos part Trinidad és Tobagóban. A dinamikus, mégis pihentető környezet vonzza a látogatókat, akik vágynak a tiszta vizekben való úszásra és a trópusi napsütés élvezetére. A reggeli érkezés nyugodtabb élményt nyújt, mielőtt megkezdődik a jellegzetes délutáni tengerparti nyüzsgés.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.7958,
-                        11.193689
-                  ]
-            },
-            {
-                  "name": "Stone Haven Bay",
-                  "text": "A Stone Haven Bay egy homokos strand Plymouthban, Tobagón.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.787615,
-                        11.203351
-                  ]
-            },
-            {
                   "name": "Great Courland Bay",
                   "text": "A Great Courland Bay egy nagy öböl Plymouthban, Tobagón.",
                   "category": "landmark",
@@ -7736,24 +5529,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Mount Irvine Bay Beach",
-                  "text": "Desfășurându-se maiestuos lângă Plymouth, Mount Irvine Bay Beach este un țărm de nisip remarcabil de pitoresc din Trinidad și Tobago. Un mediu dinamic, dar relaxant, atrage vizitatorii dornici să înoate în ape limpezi și să se bucure de soarele tropical. Sosirea dimineața oferă o experiență mai calmă înainte de a începe forfota tipică de după-amiază la malul mării.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.7958,
-                        11.193689
-                  ]
-            },
-            {
-                  "name": "Stone Haven Bay",
-                  "text": "Stone Haven Bay este o plajă cu nisip în Plymouth, Tobago.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.787615,
-                        11.203351
-                  ]
-            },
-            {
                   "name": "Great Courland Bay",
                   "text": "Great Courland Bay este un golf mare în Plymouth, Tobago.",
                   "category": "landmark",
@@ -7800,24 +5575,6 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Mount Irvine Bay Beach",
-                  "text": "Unfolding majestically near Plymouth, Mount Irvine Bay Beach is a remarkably picturesque sandy shore in Trinidad and Tobago. A dynamic yet relaxing environment draws visitors eager to swim in clear waters and soak up the tropical sunshine. Arriving in the morning provides a calmer experience before the typical afternoon seaside bustle begins.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.7958,
-                        11.193689
-                  ]
-            },
-            {
-                  "name": "Stone Haven Bay",
-                  "text": "Stone Haven Bay is a sandy beach in Plymouth, Tobago.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.787615,
-                        11.203351
-                  ]
-            },
             {
                   "name": "Great Courland Bay",
                   "text": "Great Courland Bay is a large bay in Plymouth, Tobago.",
@@ -8239,50 +5996,10 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
   },
   {
     id: "tt-belle-garden-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Tobago Cocoa Estate",
-                  "text": "Ein Erbe-Standort und Museum, das der Kakaoproduktion gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -60.58983,
-                        11.251606
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Tobago Cocoa Estate",
-                  "text": "A kakaótermelésnek szentelt örökségi helyszín és múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -60.58983,
-                        11.251606
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Tobago Cocoa Estate",
-                  "text": "Un sit de patrimoniu și muzeu dedicat producției de cacao.",
-                  "category": "museum",
-                  "coords": [
-                        -60.58983,
-                        11.251606
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Tobago Cocoa Estate",
-                  "text": "A heritage site and museum dedicated to cocoa production.",
-                  "category": "museum",
-                  "coords": [
-                        -60.58983,
-                        11.251606
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "TT-TOB",
@@ -8372,50 +6089,10 @@ export const poiExtraTrinidadCitiesV2: POI[] = [
   },
   {
     id: "tt-mason-hall-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Corbin Wildlife",
-                  "text": "Corbin Wildlife ist ein Wildtierreservat in Mason Hall.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.703929,
-                        11.204646
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Corbin Wildlife",
-                  "text": "A Corbin Wildlife egy vadvilág-rezervátum Mason Hallban.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.703929,
-                        11.204646
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Corbin Wildlife",
-                  "text": "Corbin Wildlife este un sanctuar de animale sălbatice în Mason Hall.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.703929,
-                        11.204646
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Corbin Wildlife",
-                  "text": "Corbin Wildlife is a wildlife sanctuary in Mason Hall.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.703929,
-                        11.204646
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "TT-TOB",

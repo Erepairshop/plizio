@@ -375,39 +375,12 @@ export const denmarkLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rugdalshøi",
-                  "text": "Alter archäologischer Hügel in der Region Mols Bjerge.",
-                  "category": "historical",
-                  "coords": [
-                        10.518506,
-                        56.241285
-                  ]
-            },
-            {
-                  "name": "Bøenhøj",
-                  "text": "Archäologische Stätte mit prähistorischen Überresten im Nationalpark.",
-                  "category": "historical",
-                  "coords": [
-                        10.520307,
-                        56.241946
-                  ]
-            },
-            {
                   "name": "Grøftebjerghøj",
                   "text": "Historischer Grabhügel und archäologische Stätte in Mols Bjerge.",
                   "category": "historical",
                   "coords": [
                         10.54787,
                         56.245971
-                  ]
-            },
-            {
-                  "name": "Poulshøj",
-                  "text": "Prähistorischer Hügel mit archäologischen Einblicken in die Vergangenheit der Region.",
-                  "category": "historical",
-                  "coords": [
-                        10.52291,
-                        56.241797
                   ]
             },
             {
@@ -458,39 +431,12 @@ export const denmarkLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rugdalshøi",
-                  "text": "Ősi régészeti halom a Mols Bjerge régióban.",
-                  "category": "historical",
-                  "coords": [
-                        10.518506,
-                        56.241285
-                  ]
-            },
-            {
-                  "name": "Bøenhøj",
-                  "text": "Régészeti lelőhely őskori maradványokkal a nemzeti parkban.",
-                  "category": "historical",
-                  "coords": [
-                        10.520307,
-                        56.241946
-                  ]
-            },
-            {
                   "name": "Grøftebjerghøj",
                   "text": "Történelmi sírhalom és régészeti lelőhely Mols Bjerge-ben.",
                   "category": "historical",
                   "coords": [
                         10.54787,
                         56.245971
-                  ]
-            },
-            {
-                  "name": "Poulshøj",
-                  "text": "Őskori halom, amely régészeti betekintést nyújt a régió múltjába.",
-                  "category": "historical",
-                  "coords": [
-                        10.52291,
-                        56.241797
                   ]
             },
             {
@@ -541,39 +487,12 @@ export const denmarkLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rugdalshøi",
-                  "text": "Movilă arheologică veche în regiunea Mols Bjerge.",
-                  "category": "historical",
-                  "coords": [
-                        10.518506,
-                        56.241285
-                  ]
-            },
-            {
-                  "name": "Bøenhøj",
-                  "text": "Sit arheologic cu vestigii preistorice în parcul național.",
-                  "category": "historical",
-                  "coords": [
-                        10.520307,
-                        56.241946
-                  ]
-            },
-            {
                   "name": "Grøftebjerghøj",
                   "text": "Tumul istoric și sit arheologic în Mols Bjerge.",
                   "category": "historical",
                   "coords": [
                         10.54787,
                         56.245971
-                  ]
-            },
-            {
-                  "name": "Poulshøj",
-                  "text": "Movilă preistorică ce oferă informații arheologice despre trecutul regiunii.",
-                  "category": "historical",
-                  "coords": [
-                        10.52291,
-                        56.241797
                   ]
             },
             {
@@ -624,39 +543,12 @@ export const denmarkLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rugdalshøi",
-                  "text": "Ancient archaeological mound in the Mols Bjerge region.",
-                  "category": "historical",
-                  "coords": [
-                        10.518506,
-                        56.241285
-                  ]
-            },
-            {
-                  "name": "Bøenhøj",
-                  "text": "Archaeological site featuring prehistoric remains in the national park.",
-                  "category": "historical",
-                  "coords": [
-                        10.520307,
-                        56.241946
-                  ]
-            },
-            {
                   "name": "Grøftebjerghøj",
                   "text": "A historic burial mound and archaeological site in Mols Bjerge.",
                   "category": "historical",
                   "coords": [
                         10.54787,
                         56.245971
-                  ]
-            },
-            {
-                  "name": "Poulshøj",
-                  "text": "Prehistoric mound offering archaeological insights into the region's past.",
-                  "category": "historical",
-                  "coords": [
-                        10.52291,
-                        56.241797
                   ]
             },
             {
@@ -1671,30 +1563,12 @@ export const denmarkLifeV2: POI[] = [
     id: "denmark-skanderborg-lake-district-life-v2", "sights": {
       "de": [
             {
-                  "name": "Faarbjerg",
-                  "text": "Ein Hügel mit Grabhügeln im Skanderborger Seengebiet.",
-                  "category": "historical",
-                  "coords": [
-                        9.941098,
-                        56.001763
-                  ]
-            },
-            {
                   "name": "Belravensknold",
                   "text": "Eine historische Ausgrabungsstätte im Skanderborg Seenhochland.",
                   "category": "historical",
                   "coords": [
                         9.9348,
                         56.055864
-                  ]
-            },
-            {
-                  "name": "Skanderborg Bunkerne",
-                  "text": "Ein Museum in ehemaligen Bunkern aus dem Zweiten Weltkrieg.",
-                  "category": "museum",
-                  "coords": [
-                        9.917827,
-                        56.021621
                   ]
             },
             {
@@ -1707,39 +1581,12 @@ export const denmarkLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vestermølle Museum",
-                  "text": "Ein Museum, das die lokale Mühlengeschichte und Landwirtschaft beleuchtet.",
-                  "category": "museum",
-                  "coords": [
-                        9.958414,
-                        56.028476
-                  ]
-            },
-            {
                   "name": "Perron1",
                   "text": "Museum in einem historischen Bahnsteig im Skanderborg-Seengebiet.",
                   "category": "museum",
                   "coords": [
                         9.92623,
                         56.043585
-                  ]
-            },
-            {
-                  "name": "Landsbyen Sølunds Museum",
-                  "text": "Ein Museum über die Geschichte der sozialen Einrichtung Sølund.",
-                  "category": "museum",
-                  "coords": [
-                        9.920982,
-                        56.028683
-                  ]
-            },
-            {
-                  "name": "Søbadet",
-                  "text": "Ein öffentliches Seebad im Skanderborger Seengebiet, ideal zum Schwimmen im Freien.",
-                  "category": "recreational",
-                  "coords": [
-                        9.926275,
-                        56.021892
                   ]
             },
             {
@@ -1754,30 +1601,12 @@ export const denmarkLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Faarbjerg",
-                  "text": "Egy halom temetkezési halmokkal a Skanderborgi-tóvidéken.",
-                  "category": "historical",
-                  "coords": [
-                        9.941098,
-                        56.001763
-                  ]
-            },
-            {
                   "name": "Belravensknold",
                   "text": "Történelmi lelőhely a Skanderborg-tóvidéken.",
                   "category": "historical",
                   "coords": [
                         9.9348,
                         56.055864
-                  ]
-            },
-            {
-                  "name": "Skanderborg Bunkerne",
-                  "text": "Múzeum egykori második világháborús bunkerekben.",
-                  "category": "museum",
-                  "coords": [
-                        9.917827,
-                        56.021621
                   ]
             },
             {
@@ -1790,39 +1619,12 @@ export const denmarkLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vestermølle Museum",
-                  "text": "A helyi malomipart és mezőgazdaságot bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        9.958414,
-                        56.028476
-                  ]
-            },
-            {
                   "name": "Perron1",
                   "text": "Múzeum egy történelmi vasúti peronon a Skanderborgi-tóvidéken.",
                   "category": "museum",
                   "coords": [
                         9.92623,
                         56.043585
-                  ]
-            },
-            {
-                  "name": "Landsbyen Sølunds Museum",
-                  "text": "A Sølund szociális intézmény történetét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        9.920982,
-                        56.028683
-                  ]
-            },
-            {
-                  "name": "Søbadet",
-                  "text": "Nyilvános tóparti fürdő a Skanderborg-tóvidéken, ideális szabadtéri úszáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        9.926275,
-                        56.021892
                   ]
             },
             {
@@ -1837,30 +1639,12 @@ export const denmarkLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Faarbjerg",
-                  "text": "Un deal cu movile funerare în Districtul Lacurilor Skanderborg.",
-                  "category": "historical",
-                  "coords": [
-                        9.941098,
-                        56.001763
-                  ]
-            },
-            {
                   "name": "Belravensknold",
                   "text": "Un sit arheologic situat în regiunea lacurilor din Skanderborg.",
                   "category": "historical",
                   "coords": [
                         9.9348,
                         56.055864
-                  ]
-            },
-            {
-                  "name": "Skanderborg Bunkerne",
-                  "text": "Un muzeu amenajat în foste buncăre din al Doilea Război Mondial.",
-                  "category": "museum",
-                  "coords": [
-                        9.917827,
-                        56.021621
                   ]
             },
             {
@@ -1873,39 +1657,12 @@ export const denmarkLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vestermølle Museum",
-                  "text": "Un muzeu dedicat istoriei morăritului și agriculturii locale.",
-                  "category": "museum",
-                  "coords": [
-                        9.958414,
-                        56.028476
-                  ]
-            },
-            {
                   "name": "Perron1",
                   "text": "Muzeu într-o platformă feroviară istorică în Districtul Lacurilor Skanderborg.",
                   "category": "museum",
                   "coords": [
                         9.92623,
                         56.043585
-                  ]
-            },
-            {
-                  "name": "Landsbyen Sølunds Museum",
-                  "text": "Un muzeu despre istoria instituției sociale Sølund.",
-                  "category": "museum",
-                  "coords": [
-                        9.920982,
-                        56.028683
-                  ]
-            },
-            {
-                  "name": "Søbadet",
-                  "text": "O baie publică pe malul lacului în zona lacurilor Skanderborg, ideală pentru înot în aer liber.",
-                  "category": "recreational",
-                  "coords": [
-                        9.926275,
-                        56.021892
                   ]
             },
             {
@@ -1920,30 +1677,12 @@ export const denmarkLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Faarbjerg",
-                  "text": "A hill with burial mounds in the Skanderborg Lake District.",
-                  "category": "historical",
-                  "coords": [
-                        9.941098,
-                        56.001763
-                  ]
-            },
-            {
                   "name": "Belravensknold",
                   "text": "An archaeological site in the Skanderborg Lake District.",
                   "category": "historical",
                   "coords": [
                         9.9348,
                         56.055864
-                  ]
-            },
-            {
-                  "name": "Skanderborg Bunkerne",
-                  "text": "A museum housed in former bunkers from the Second World War.",
-                  "category": "museum",
-                  "coords": [
-                        9.917827,
-                        56.021621
                   ]
             },
             {
@@ -1956,39 +1695,12 @@ export const denmarkLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vestermølle Museum",
-                  "text": "A museum focused on local milling history and agriculture.",
-                  "category": "museum",
-                  "coords": [
-                        9.958414,
-                        56.028476
-                  ]
-            },
-            {
                   "name": "Perron1",
                   "text": "Museum housed in a historic railway platform in the Skanderborg Lake District.",
                   "category": "museum",
                   "coords": [
                         9.92623,
                         56.043585
-                  ]
-            },
-            {
-                  "name": "Landsbyen Sølunds Museum",
-                  "text": "A museum about the history of the Sølund social institution.",
-                  "category": "museum",
-                  "coords": [
-                        9.920982,
-                        56.028683
-                  ]
-            },
-            {
-                  "name": "Søbadet",
-                  "text": "A public lakeside bath in the Skanderborg Lake District, ideal for outdoor swimming.",
-                  "category": "recreational",
-                  "coords": [
-                        9.926275,
-                        56.021892
                   ]
             },
             {
@@ -2911,302 +2623,10 @@ export const denmarkLifeV2: POI[] = [
   },
   {
     id: "denmark-tisvilde-hegn-forest-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Lille Søhøj",
-                  "text": "Ein prähistorischer Grabhügel in der Waldlandschaft von Tisvilde Hegn.",
-                  "category": "historical",
-                  "coords": [
-                        12.066854,
-                        56.025041
-                  ]
-            },
-            {
-                  "name": "Skovhøj",
-                  "text": "Einer der vielen antiken Grabhügel, die sich im Wald von Tisvilde befinden.",
-                  "category": "historical",
-                  "coords": [
-                        12.085934,
-                        56.048339
-                  ]
-            },
-            {
-                  "name": "Søhøi",
-                  "text": "Ein historischer Ort im Waldgebiet von Tisvilde Hegn mit archäologischer Bedeutung.",
-                  "category": "historical",
-                  "coords": [
-                        12.057403,
-                        56.02467
-                  ]
-            },
-            {
-                  "name": "Sortehøj",
-                  "text": "Ein markanter bronzezeitlicher Grabhügel im nördlichen Teil Seelands.",
-                  "category": "historical",
-                  "coords": [
-                        12.052462,
-                        56.043293
-                  ]
-            },
-            {
-                  "name": "Lerbjergbakke",
-                  "text": "Eine archäologische Stätte, die Zeugnis von der frühen Besiedlung Dänemarks ablegt.",
-                  "category": "historical",
-                  "coords": [
-                        12.045108,
-                        56.028577
-                  ]
-            },
-            {
-                  "name": "Kong Hans' Høj",
-                  "text": "Ein Grabhügel, der mit König Hans verbunden ist, im Tisvilde-Hege-Wald.",
-                  "category": "historical",
-                  "coords": [
-                        12.075298,
-                        56.049117
-                  ]
-            },
-            {
-                  "name": "Store Harehøi",
-                  "text": "Ein historisches Bodendenkmal inmitten der Natur von Tisvilde Hegn.",
-                  "category": "historical",
-                  "coords": [
-                        12.046804,
-                        56.039142
-                  ]
-            },
-            {
-                  "name": "Ranglehøi",
-                  "text": "Ein gut erhaltener antiker Grabhügel in der hügeligen Landschaft des Waldes.",
-                  "category": "historical",
-                  "coords": [
-                        12.053087,
-                        56.041039
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Lille Søhøj",
-                  "text": "Őskori sírhalom a Tisvilde Hegn erdős területén.",
-                  "category": "historical",
-                  "coords": [
-                        12.066854,
-                        56.025041
-                  ]
-            },
-            {
-                  "name": "Skovhøj",
-                  "text": "Egyike a Tisvilde erdőben található számos ősi sírhalomnak.",
-                  "category": "historical",
-                  "coords": [
-                        12.085934,
-                        56.048339
-                  ]
-            },
-            {
-                  "name": "Søhøi",
-                  "text": "Régészeti jelentőségű történelmi helyszín a Tisvilde Hegn erdőben.",
-                  "category": "historical",
-                  "coords": [
-                        12.057403,
-                        56.02467
-                  ]
-            },
-            {
-                  "name": "Sortehøj",
-                  "text": "Jellegzetes bronzkori sírhalom Sjælland északi részén.",
-                  "category": "historical",
-                  "coords": [
-                        12.052462,
-                        56.043293
-                  ]
-            },
-            {
-                  "name": "Lerbjergbakke",
-                  "text": "Dánia korai betelepüléséről tanúskodó régészeti lelőhely.",
-                  "category": "historical",
-                  "coords": [
-                        12.045108,
-                        56.028577
-                  ]
-            },
-            {
-                  "name": "Kong Hans' Høj",
-                  "text": "Egy temetkezési halom, amelyet Hans királyhoz kötnek, a Tisvilde Hegn erdőben.",
-                  "category": "historical",
-                  "coords": [
-                        12.075298,
-                        56.049117
-                  ]
-            },
-            {
-                  "name": "Store Harehøi",
-                  "text": "Történelmi emlékhely a Tisvilde Hegn természetvédelmi területén.",
-                  "category": "historical",
-                  "coords": [
-                        12.046804,
-                        56.039142
-                  ]
-            },
-            {
-                  "name": "Ranglehøi",
-                  "text": "Jó állapotban megmaradt ősi sírhalom az erdő dombos táján.",
-                  "category": "historical",
-                  "coords": [
-                        12.053087,
-                        56.041039
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Lille Søhøj",
-                  "text": "Un tumul preistoric în peisajul forestier din Tisvilde Hegn.",
-                  "category": "historical",
-                  "coords": [
-                        12.066854,
-                        56.025041
-                  ]
-            },
-            {
-                  "name": "Skovhøj",
-                  "text": "Unul dintre numeroșii tumuli antici aflați în pădurea Tisvilde.",
-                  "category": "historical",
-                  "coords": [
-                        12.085934,
-                        56.048339
-                  ]
-            },
-            {
-                  "name": "Søhøi",
-                  "text": "Un sit istoric în zona de pădure Tisvilde Hegn cu importanță arheologică.",
-                  "category": "historical",
-                  "coords": [
-                        12.057403,
-                        56.02467
-                  ]
-            },
-            {
-                  "name": "Sortehøj",
-                  "text": "Un tumul proeminent din epoca bronzului în partea de nord a Zeelandei.",
-                  "category": "historical",
-                  "coords": [
-                        12.052462,
-                        56.043293
-                  ]
-            },
-            {
-                  "name": "Lerbjergbakke",
-                  "text": "Un sit arheologic care atestă așezările timpurii din Danemarca.",
-                  "category": "historical",
-                  "coords": [
-                        12.045108,
-                        56.028577
-                  ]
-            },
-            {
-                  "name": "Kong Hans' Høj",
-                  "text": "Un movilă funerară asociată cu regele Hans în Pădurea Tisvilde Hegn.",
-                  "category": "historical",
-                  "coords": [
-                        12.075298,
-                        56.049117
-                  ]
-            },
-            {
-                  "name": "Store Harehøi",
-                  "text": "Un monument istoric în mijlocul naturii din Tisvilde Hegn.",
-                  "category": "historical",
-                  "coords": [
-                        12.046804,
-                        56.039142
-                  ]
-            },
-            {
-                  "name": "Ranglehøi",
-                  "text": "Un tumul antic bine conservat în peisajul colinar al pădurii.",
-                  "category": "historical",
-                  "coords": [
-                        12.053087,
-                        56.041039
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Lille Søhøj",
-                  "text": "A prehistoric burial mound located in the forest landscape of Tisvilde Hegn.",
-                  "category": "historical",
-                  "coords": [
-                        12.066854,
-                        56.025041
-                  ]
-            },
-            {
-                  "name": "Skovhøj",
-                  "text": "One of the many ancient burial mounds found within the Tisvilde forest.",
-                  "category": "historical",
-                  "coords": [
-                        12.085934,
-                        56.048339
-                  ]
-            },
-            {
-                  "name": "Søhøi",
-                  "text": "A historical site in the Tisvilde Hegn forest area with archaeological significance.",
-                  "category": "historical",
-                  "coords": [
-                        12.057403,
-                        56.02467
-                  ]
-            },
-            {
-                  "name": "Sortehøj",
-                  "text": "A prominent Bronze Age burial mound in the northern part of Zealand.",
-                  "category": "historical",
-                  "coords": [
-                        12.052462,
-                        56.043293
-                  ]
-            },
-            {
-                  "name": "Lerbjergbakke",
-                  "text": "An archaeological site testifying to the early settlement of Denmark.",
-                  "category": "historical",
-                  "coords": [
-                        12.045108,
-                        56.028577
-                  ]
-            },
-            {
-                  "name": "Kong Hans' Høj",
-                  "text": "A burial mound associated with King Hans in Tisvilde Hegn Forest.",
-                  "category": "historical",
-                  "coords": [
-                        12.075298,
-                        56.049117
-                  ]
-            },
-            {
-                  "name": "Store Harehøi",
-                  "text": "A historical monument set amidst the nature of Tisvilde Hegn.",
-                  "category": "historical",
-                  "coords": [
-                        12.046804,
-                        56.039142
-                  ]
-            },
-            {
-                  "name": "Ranglehøi",
-                  "text": "A well-preserved ancient burial mound in the rolling landscape of the forest.",
-                  "category": "historical",
-                  "coords": [
-                        12.053087,
-                        56.041039
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "forest",
     parent: "DK",
@@ -3255,24 +2675,6 @@ export const denmarkLifeV2: POI[] = [
     id: "denmark-mols-bjerge-forest-life-v2", "sights": {
       "de": [
             {
-                  "name": "Agri Bavnehøj",
-                  "text": "Ein markanter bronzezeitlicher Grabhügel in den Mols-Wäldern.",
-                  "category": "historical",
-                  "coords": [
-                        10.536513,
-                        56.229877
-                  ]
-            },
-            {
-                  "name": "Rishøj",
-                  "text": "Ein bronzezeitlicher Grabhügel im Mols-Bjerge-Wald.",
-                  "category": "historical",
-                  "coords": [
-                        10.544185,
-                        56.243426
-                  ]
-            },
-            {
                   "name": "Rugdalshøi",
                   "text": "Ein vorgeschichtlicher Grabhügel im Mols-Bjerge-Wald.",
                   "category": "historical",
@@ -3291,15 +2693,6 @@ export const denmarkLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grøftebjerghøj",
-                  "text": "Ein großer Grabhügel nahe einem Graben im Mols-Bjerge-Wald.",
-                  "category": "historical",
-                  "coords": [
-                        10.54787,
-                        56.245971
-                  ]
-            },
-            {
                   "name": "Poulshøj",
                   "text": "Ein benannter Grabhügel (Poulshøj) im Mols-Bjerge-Wald.",
                   "category": "historical",
@@ -3307,45 +2700,9 @@ export const denmarkLifeV2: POI[] = [
                         10.52291,
                         56.241797
                   ]
-            },
-            {
-                  "name": "Juling Høje",
-                  "text": "Eine Gruppe bronzezeitlicher Grabhügel (Juling Høje) im Mols-Bjerge-Wald.",
-                  "category": "historical",
-                  "coords": [
-                        10.536074,
-                        56.241958
-                  ]
-            },
-            {
-                  "name": "Julings Høje",
-                  "text": "Eine weitere Gruppe bronzezeitlicher Grabhügel (Julings Høje) im Mols-Bjerge-Wald.",
-                  "category": "historical",
-                  "coords": [
-                        10.538063,
-                        56.24306
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Agri Bavnehøj",
-                  "text": "Jellegzetes bronzkori sírhalom a Mols-erdőkben.",
-                  "category": "historical",
-                  "coords": [
-                        10.536513,
-                        56.229877
-                  ]
-            },
-            {
-                  "name": "Rishøj",
-                  "text": "Egy bronzkori temetkezési halom a Mols Bjerge erdőben.",
-                  "category": "historical",
-                  "coords": [
-                        10.544185,
-                        56.243426
-                  ]
-            },
             {
                   "name": "Rugdalshøi",
                   "text": "Egy őskori temetkezési halom a Mols Bjerge erdőben.",
@@ -3365,15 +2722,6 @@ export const denmarkLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grøftebjerghøj",
-                  "text": "Egy nagy temetkezési halom egy árok mellett a Mols Bjerge erdőben.",
-                  "category": "historical",
-                  "coords": [
-                        10.54787,
-                        56.245971
-                  ]
-            },
-            {
                   "name": "Poulshøj",
                   "text": "Egy névvel ellátott temetkezési halom (Poulshøj) a Mols Bjerge erdőben.",
                   "category": "historical",
@@ -3381,45 +2729,9 @@ export const denmarkLifeV2: POI[] = [
                         10.52291,
                         56.241797
                   ]
-            },
-            {
-                  "name": "Juling Høje",
-                  "text": "Egy csoport bronzkori temetkezési halom (Juling Høje) a Mols Bjerge erdőben.",
-                  "category": "historical",
-                  "coords": [
-                        10.536074,
-                        56.241958
-                  ]
-            },
-            {
-                  "name": "Julings Høje",
-                  "text": "Egy másik csoport bronzkori temetkezési halom (Julings Høje) a Mols Bjerge erdőben.",
-                  "category": "historical",
-                  "coords": [
-                        10.538063,
-                        56.24306
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Agri Bavnehøj",
-                  "text": "Un tumul proeminent din epoca bronzului în pădurile Mols.",
-                  "category": "historical",
-                  "coords": [
-                        10.536513,
-                        56.229877
-                  ]
-            },
-            {
-                  "name": "Rishøj",
-                  "text": "Un movilă funerară din epoca bronzului în Pădurea Mols Bjerge.",
-                  "category": "historical",
-                  "coords": [
-                        10.544185,
-                        56.243426
-                  ]
-            },
             {
                   "name": "Rugdalshøi",
                   "text": "Un movilă funerară preistorică în Pădurea Mols Bjerge.",
@@ -3439,15 +2751,6 @@ export const denmarkLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grøftebjerghøj",
-                  "text": "Un movilă funerară mare lângă un șanț în Pădurea Mols Bjerge.",
-                  "category": "historical",
-                  "coords": [
-                        10.54787,
-                        56.245971
-                  ]
-            },
-            {
                   "name": "Poulshøj",
                   "text": "Un movilă funerară cu nume (Poulshøj) în Pădurea Mols Bjerge.",
                   "category": "historical",
@@ -3455,45 +2758,9 @@ export const denmarkLifeV2: POI[] = [
                         10.52291,
                         56.241797
                   ]
-            },
-            {
-                  "name": "Juling Høje",
-                  "text": "Un grup de movile funerare din epoca bronzului (Juling Høje) în Pădurea Mols Bjerge.",
-                  "category": "historical",
-                  "coords": [
-                        10.536074,
-                        56.241958
-                  ]
-            },
-            {
-                  "name": "Julings Høje",
-                  "text": "Un alt grup de movile funerare din epoca bronzului (Julings Høje) în Pădurea Mols Bjerge.",
-                  "category": "historical",
-                  "coords": [
-                        10.538063,
-                        56.24306
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Agri Bavnehøj",
-                  "text": "A prominent Bronze Age burial mound in the Mols Forests.",
-                  "category": "historical",
-                  "coords": [
-                        10.536513,
-                        56.229877
-                  ]
-            },
-            {
-                  "name": "Rishøj",
-                  "text": "A Bronze Age burial mound in Mols Bjerge Forest.",
-                  "category": "historical",
-                  "coords": [
-                        10.544185,
-                        56.243426
-                  ]
-            },
             {
                   "name": "Rugdalshøi",
                   "text": "A prehistoric burial mound in Mols Bjerge Forest.",
@@ -3513,39 +2780,12 @@ export const denmarkLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grøftebjerghøj",
-                  "text": "A large burial mound near a ditch in Mols Bjerge Forest.",
-                  "category": "historical",
-                  "coords": [
-                        10.54787,
-                        56.245971
-                  ]
-            },
-            {
                   "name": "Poulshøj",
                   "text": "A named burial mound (Poulshøj) in Mols Bjerge Forest.",
                   "category": "historical",
                   "coords": [
                         10.52291,
                         56.241797
-                  ]
-            },
-            {
-                  "name": "Juling Høje",
-                  "text": "A group of Bronze Age burial mounds (Juling Høje) in Mols Bjerge Forest.",
-                  "category": "historical",
-                  "coords": [
-                        10.536074,
-                        56.241958
-                  ]
-            },
-            {
-                  "name": "Julings Høje",
-                  "text": "Another group of Bronze Age burial mounds (Julings Høje) in Mols Bjerge Forest.",
-                  "category": "historical",
-                  "coords": [
-                        10.538063,
-                        56.24306
                   ]
             }
       ]
@@ -3685,302 +2925,10 @@ export const denmarkLifeV2: POI[] = [
   },
   {
     id: "denmark-fur-island-nature-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Bette Jenses Hyw",
-                  "text": "Ein markanter vorgeschichtlicher Hügelgrab auf der dänischen Insel Fur.",
-                  "category": "historical",
-                  "coords": [
-                        9.006132,
-                        56.833
-                  ]
-            },
-            {
-                  "name": "Davrehøi",
-                  "text": "Eine archäologische Ausgrabungsstätte mit einem alten Grabhügel auf der Insel Fur.",
-                  "category": "historical",
-                  "coords": [
-                        8.960839,
-                        56.832151
-                  ]
-            },
-            {
-                  "name": "Morishøi",
-                  "text": "Ein historischer Grabhügel und eine archäologische Stätte auf der Insel Fur.",
-                  "category": "historical",
-                  "coords": [
-                        8.969667,
-                        56.826663
-                  ]
-            },
-            {
-                  "name": "Springhøie",
-                  "text": "Archäologische Überreste eines antiken Grabhügels auf der dänischen Insel Fur.",
-                  "category": "historical",
-                  "coords": [
-                        9.026072,
-                        56.840683
-                  ]
-            },
-            {
-                  "name": "Springhøi",
-                  "text": "Ein vorgeschichtlicher Grabhügel auf der Insel Fur, der als archäologisches Denkmal geschützt ist.",
-                  "category": "historical",
-                  "coords": [
-                        9.025719,
-                        56.838206
-                  ]
-            },
-            {
-                  "name": "Lille Taffelhøj",
-                  "text": "Ein kleinerer antiker Grabhügel in der Hügellandschaft der Insel Fur.",
-                  "category": "historical",
-                  "coords": [
-                        9.026388,
-                        56.834104
-                  ]
-            },
-            {
-                  "name": "Skaaredhøi",
-                  "text": "Eine archäologische Stätte auf Fur, die einen historischen Grabhügel umfasst.",
-                  "category": "historical",
-                  "coords": [
-                        9.018193,
-                        56.83221
-                  ]
-            },
-            {
-                  "name": "Emmesten",
-                  "text": "Ein archäologisch bedeutsamer Ort mit historischen Überresten auf der Insel Fur.",
-                  "category": "historical",
-                  "coords": [
-                        8.989789,
-                        56.83929
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Bette Jenses Hyw",
-                  "text": "Jellegzetes őskori sírhalom a dániai Fur-szigeten.",
-                  "category": "historical",
-                  "coords": [
-                        9.006132,
-                        56.833
-                  ]
-            },
-            {
-                  "name": "Davrehøi",
-                  "text": "Régészeti lelőhely egy ősi sírhalommal Fur szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        8.960839,
-                        56.832151
-                  ]
-            },
-            {
-                  "name": "Morishøi",
-                  "text": "Történelmi sírhalom és régészeti lelőhely Fur szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        8.969667,
-                        56.826663
-                  ]
-            },
-            {
-                  "name": "Springhøie",
-                  "text": "Egy ősi sírhalom régészeti maradványai a dániai Fur-szigeten.",
-                  "category": "historical",
-                  "coords": [
-                        9.026072,
-                        56.840683
-                  ]
-            },
-            {
-                  "name": "Springhøi",
-                  "text": "Régészeti emlékként védett őskori sírhalom Fur szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        9.025719,
-                        56.838206
-                  ]
-            },
-            {
-                  "name": "Lille Taffelhøj",
-                  "text": "Kisebb méretű ősi sírhalom Fur szigetének dombos vidékén.",
-                  "category": "historical",
-                  "coords": [
-                        9.026388,
-                        56.834104
-                  ]
-            },
-            {
-                  "name": "Skaaredhøi",
-                  "text": "Régészeti lelőhely Fur szigetén, amely egy történelmi sírhalmot foglal magában.",
-                  "category": "historical",
-                  "coords": [
-                        9.018193,
-                        56.83221
-                  ]
-            },
-            {
-                  "name": "Emmesten",
-                  "text": "Régészetileg jelentős helyszín történelmi maradványokkal Fur szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        8.989789,
-                        56.83929
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Bette Jenses Hyw",
-                  "text": "Un tumul preistoric proeminent situat pe insula daneză Fur.",
-                  "category": "historical",
-                  "coords": [
-                        9.006132,
-                        56.833
-                  ]
-            },
-            {
-                  "name": "Davrehøi",
-                  "text": "Un sit arheologic ce cuprinde un vechi tumul pe insula Fur.",
-                  "category": "historical",
-                  "coords": [
-                        8.960839,
-                        56.832151
-                  ]
-            },
-            {
-                  "name": "Morishøi",
-                  "text": "Un tumul istoric și sit arheologic situat pe insula Fur.",
-                  "category": "historical",
-                  "coords": [
-                        8.969667,
-                        56.826663
-                  ]
-            },
-            {
-                  "name": "Springhøie",
-                  "text": "Vestigii arheologice ale unui vechi tumul pe insula daneză Fur.",
-                  "category": "historical",
-                  "coords": [
-                        9.026072,
-                        56.840683
-                  ]
-            },
-            {
-                  "name": "Springhøi",
-                  "text": "Un tumul preistoric pe insula Fur, protejat ca monument arheologic.",
-                  "category": "historical",
-                  "coords": [
-                        9.025719,
-                        56.838206
-                  ]
-            },
-            {
-                  "name": "Lille Taffelhøj",
-                  "text": "Un tumul antic de dimensiuni mai mici în peisajul deluros al insulei Fur.",
-                  "category": "historical",
-                  "coords": [
-                        9.026388,
-                        56.834104
-                  ]
-            },
-            {
-                  "name": "Skaaredhøi",
-                  "text": "Un sit arheologic pe insula Fur ce include un tumul istoric.",
-                  "category": "historical",
-                  "coords": [
-                        9.018193,
-                        56.83221
-                  ]
-            },
-            {
-                  "name": "Emmesten",
-                  "text": "Un loc de importanță arheologică cu vestigii istorice pe insula Fur.",
-                  "category": "historical",
-                  "coords": [
-                        8.989789,
-                        56.83929
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Bette Jenses Hyw",
-                  "text": "A prominent prehistoric burial mound on the Danish island of Fur.",
-                  "category": "historical",
-                  "coords": [
-                        9.006132,
-                        56.833
-                  ]
-            },
-            {
-                  "name": "Davrehøi",
-                  "text": "An archaeological site featuring an ancient burial mound on Fur Island.",
-                  "category": "historical",
-                  "coords": [
-                        8.960839,
-                        56.832151
-                  ]
-            },
-            {
-                  "name": "Morishøi",
-                  "text": "A historical burial mound and archaeological site on Fur Island.",
-                  "category": "historical",
-                  "coords": [
-                        8.969667,
-                        56.826663
-                  ]
-            },
-            {
-                  "name": "Springhøie",
-                  "text": "Archaeological remains of an ancient burial mound on the Danish island of Fur.",
-                  "category": "historical",
-                  "coords": [
-                        9.026072,
-                        56.840683
-                  ]
-            },
-            {
-                  "name": "Springhøi",
-                  "text": "A prehistoric burial mound on Fur Island protected as an archaeological monument.",
-                  "category": "historical",
-                  "coords": [
-                        9.025719,
-                        56.838206
-                  ]
-            },
-            {
-                  "name": "Lille Taffelhøj",
-                  "text": "A smaller ancient burial mound in the hilly landscape of Fur Island.",
-                  "category": "historical",
-                  "coords": [
-                        9.026388,
-                        56.834104
-                  ]
-            },
-            {
-                  "name": "Skaaredhøi",
-                  "text": "An archaeological site on Fur Island encompassing a historical burial mound.",
-                  "category": "historical",
-                  "coords": [
-                        9.018193,
-                        56.83221
-                  ]
-            },
-            {
-                  "name": "Emmesten",
-                  "text": "An archaeologically significant site with historical remains on Fur Island.",
-                  "category": "historical",
-                  "coords": [
-                        8.989789,
-                        56.83929
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "wildlife",
     parent: "DK",
@@ -4533,60 +3481,6 @@ export const denmarkLifeV2: POI[] = [
     id: "denmark-bornholm-nature-wildlife-v2", "sights": {
       "de": [
             {
-                  "name": "Røser i Vestermarie plantage",
-                  "text": "Vorgeschichtliche Steinformationen in der Plantage Vestermarie auf Bornholm.",
-                  "category": "historical",
-                  "coords": [
-                        14.850015,
-                        55.109118
-                  ]
-            },
-            {
-                  "name": "Rapshøi",
-                  "text": "Archäologische Stätte mit prähistorischen Grabhügeln.",
-                  "category": "historical",
-                  "coords": [
-                        14.85742,
-                        55.152885
-                  ]
-            },
-            {
-                  "name": "Gamleborg",
-                  "text": "Ruinen einer königlichen Festung aus der Wikingerzeit auf Bornholm.",
-                  "category": "historical",
-                  "coords": [
-                        14.906882,
-                        55.114336
-                  ]
-            },
-            {
-                  "name": "Bisonskoven",
-                  "text": "Naturschutzgebiet auf Bornholm, in dem eine Herde europäischer Wisente lebt.",
-                  "category": "natural",
-                  "coords": [
-                        14.945497,
-                        55.112166
-                  ]
-            },
-            {
-                  "name": "Arboretet",
-                  "text": "Ein Arboretum im Gebiet Bornholm Natur und Wildtiere.",
-                  "category": "park",
-                  "coords": [
-                        14.878027,
-                        55.120008
-                  ]
-            },
-            {
-                  "name": "Rytterknægten",
-                  "text": "Der höchste Punkt Bornholms mit einem markanten Aussichtsturm.",
-                  "category": "landmark",
-                  "coords": [
-                        14.889337,
-                        55.111698
-                  ]
-            },
-            {
                   "name": "Lilleborg",
                   "text": "Überreste einer mittelalterlichen königlichen Burg im Wald von Almindingen.",
                   "category": "historical",
@@ -4597,60 +3491,6 @@ export const denmarkLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Røser i Vestermarie plantage",
-                  "text": "Őskori kőalakzatok a vestermarie-i ültetvényen Bornholmon.",
-                  "category": "historical",
-                  "coords": [
-                        14.850015,
-                        55.109118
-                  ]
-            },
-            {
-                  "name": "Rapshøi",
-                  "text": "Régészeti lelőhely őskori sírhalmokkal.",
-                  "category": "historical",
-                  "coords": [
-                        14.85742,
-                        55.152885
-                  ]
-            },
-            {
-                  "name": "Gamleborg",
-                  "text": "Egy viking kori királyi erőd maradványai Bornholm szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        14.906882,
-                        55.114336
-                  ]
-            },
-            {
-                  "name": "Bisonskoven",
-                  "text": "Természetvédelmi terület Bornholmban, ahol európai bölények élnek.",
-                  "category": "natural",
-                  "coords": [
-                        14.945497,
-                        55.112166
-                  ]
-            },
-            {
-                  "name": "Arboretet",
-                  "text": "Egy arborétum a Bornholmi Természeti és Vadvilág területén.",
-                  "category": "park",
-                  "coords": [
-                        14.878027,
-                        55.120008
-                  ]
-            },
-            {
-                  "name": "Rytterknægten",
-                  "text": "Bornholm legmagasabb pontja egy kilátótoronnyal.",
-                  "category": "landmark",
-                  "coords": [
-                        14.889337,
-                        55.111698
-                  ]
-            },
             {
                   "name": "Lilleborg",
                   "text": "Egy középkori királyi vár maradványai az Almindingen-erdőben.",
@@ -4663,60 +3503,6 @@ export const denmarkLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Røser i Vestermarie plantage",
-                  "text": "Formațiuni preistorice de piatră în plantația Vestermarie din Bornholm.",
-                  "category": "historical",
-                  "coords": [
-                        14.850015,
-                        55.109118
-                  ]
-            },
-            {
-                  "name": "Rapshøi",
-                  "text": "Situl arheologic cu tumuli preistorici.",
-                  "category": "historical",
-                  "coords": [
-                        14.85742,
-                        55.152885
-                  ]
-            },
-            {
-                  "name": "Gamleborg",
-                  "text": "Ruinele unei cetăți regale din epoca vikingă pe Bornholm.",
-                  "category": "historical",
-                  "coords": [
-                        14.906882,
-                        55.114336
-                  ]
-            },
-            {
-                  "name": "Bisonskoven",
-                  "text": "Rezervație naturală pe Bornholm care adăpostește o turmă de bizoni europeni.",
-                  "category": "natural",
-                  "coords": [
-                        14.945497,
-                        55.112166
-                  ]
-            },
-            {
-                  "name": "Arboretet",
-                  "text": "Un arboretum în zona Natură și Faună Sălbatică Bornholm.",
-                  "category": "park",
-                  "coords": [
-                        14.878027,
-                        55.120008
-                  ]
-            },
-            {
-                  "name": "Rytterknægten",
-                  "text": "Cel mai înalt punct de pe Bornholm, cu un turn de observație.",
-                  "category": "landmark",
-                  "coords": [
-                        14.889337,
-                        55.111698
-                  ]
-            },
-            {
                   "name": "Lilleborg",
                   "text": "Rămășițele unui castel regal medieval situat în pădurea Almindingen.",
                   "category": "historical",
@@ -4727,60 +3513,6 @@ export const denmarkLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Røser i Vestermarie plantage",
-                  "text": "Prehistoric stone formations in Vestermarie plantation on Bornholm.",
-                  "category": "historical",
-                  "coords": [
-                        14.850015,
-                        55.109118
-                  ]
-            },
-            {
-                  "name": "Rapshøi",
-                  "text": "Archaeological site featuring prehistoric burial mounds.",
-                  "category": "historical",
-                  "coords": [
-                        14.85742,
-                        55.152885
-                  ]
-            },
-            {
-                  "name": "Gamleborg",
-                  "text": "Ruins of a royal fortress dating back to the Viking Age on Bornholm.",
-                  "category": "historical",
-                  "coords": [
-                        14.906882,
-                        55.114336
-                  ]
-            },
-            {
-                  "name": "The Bison Forest",
-                  "text": "Nature reserve on Bornholm home to a herd of European bison.",
-                  "category": "natural",
-                  "coords": [
-                        14.945497,
-                        55.112166
-                  ]
-            },
-            {
-                  "name": "Arboretet",
-                  "text": "An arboretum in the Bornholm Nature Wildlife area.",
-                  "category": "park",
-                  "coords": [
-                        14.878027,
-                        55.120008
-                  ]
-            },
-            {
-                  "name": "Rytterknægten",
-                  "text": "The highest point on Bornholm, featuring a lookout tower.",
-                  "category": "landmark",
-                  "coords": [
-                        14.889337,
-                        55.111698
-                  ]
-            },
             {
                   "name": "Lilleborg",
                   "text": "Remains of a medieval royal castle located in the Almindingen forest.",

@@ -13,24 +13,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
                         -24.993309,
                         16.890483
                   ]
-            },
-            {
-                  "name": "waiting place for ferries",
-                  "text": "Dieser Wartebereich am Hafen von Mindelo sammelt die Passagiere für die Fähren nach Santo Antão.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.993447,
-                        16.888268
-                  ]
-            },
-            {
-                  "name": "Manuel d'Novas",
-                  "text": "Dieses Denkmal ehrt den renommierten kapverdischen Komponisten und Musiker Manuel d'Novas in der Nähe des Hafens von Mindelo.",
-                  "category": "historical",
-                  "coords": [
-                        -24.992817,
-                        16.889219
-                  ]
             }
       ],
       "hu": [
@@ -41,24 +23,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
                   "coords": [
                         -24.993309,
                         16.890483
-                  ]
-            },
-            {
-                  "name": "waiting place for ferries",
-                  "text": "Ez a mindeloi kikötőben található váróterület gyűjti össze a Santo Antãoba induló kompok utasait.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.993447,
-                        16.888268
-                  ]
-            },
-            {
-                  "name": "Manuel d'Novas",
-                  "text": "Ez az emlékmű a neves zöld-foki-szigeteki zeneszerzőnek és zenésznek, Manuel d'Novasnak állít emléket a mindeloi kikötő közelében.",
-                  "category": "historical",
-                  "coords": [
-                        -24.992817,
-                        16.889219
                   ]
             }
       ],
@@ -71,24 +35,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
                         -24.993309,
                         16.890483
                   ]
-            },
-            {
-                  "name": "waiting place for ferries",
-                  "text": "Această zonă de așteptare din portul Mindelo adună pasagerii pentru feriboturile care se îndreaptă spre Santo Antão.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.993447,
-                        16.888268
-                  ]
-            },
-            {
-                  "name": "Manuel d'Novas",
-                  "text": "Acest monument îl onorează pe renumitul compozitor și muzician din Capul Verde, Manuel d'Novas, în apropierea portului din Mindelo.",
-                  "category": "historical",
-                  "coords": [
-                        -24.992817,
-                        16.889219
-                  ]
             }
       ],
       "en": [
@@ -99,24 +45,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
                   "coords": [
                         -24.993309,
                         16.890483
-                  ]
-            },
-            {
-                  "name": "waiting place for ferries",
-                  "text": "This waiting area at the port of Mindelo gathers passengers for the ferries heading to Santo Antão.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.993447,
-                        16.888268
-                  ]
-            },
-            {
-                  "name": "Manuel d'Novas",
-                  "text": "This monument honors the renowned Cape Verdean composer and musician Manuel d'Novas near the port of Mindelo.",
-                  "category": "historical",
-                  "coords": [
-                        -24.992817,
-                        16.889219
                   ]
             }
       ]
@@ -348,24 +276,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
     id: "porto-novo-harbour-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Praia De Tropo",
-                  "text": "Der Sandstrand Praia De Tropo erstreckt sich entlang der Hafenregion von Porto Novo.",
-                  "category": "recreational",
-                  "coords": [
-                        -25.085714,
-                        17.012458
-                  ]
-            },
-            {
-                  "name": "Aldeia",
-                  "text": "Das Theater Aldeia in Porto Novo dient als kultureller Veranstaltungsort für die Hafenstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        -25.068973,
-                        17.019079
-                  ]
-            },
-            {
                   "name": "Dive Blue Eden",
                   "text": "Dive Blue Eden ist ein Tauchzentrum, das Ausflüge in die marinen Lebensräume rund um Porto Novo organisiert.",
                   "category": "landmark",
@@ -394,24 +304,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Praia De Tropo",
-                  "text": "A Praia De Tropo homokos tengerpartja a Porto Novo kikötőváros szélén húzódik.",
-                  "category": "recreational",
-                  "coords": [
-                        -25.085714,
-                        17.012458
-                  ]
-            },
-            {
-                  "name": "Aldeia",
-                  "text": "A Porto Novo-i Aldeia színház kulturális rendezvényhelyszínként szolgál a kikötőváros számára.",
-                  "category": "cultural",
-                  "coords": [
-                        -25.068973,
-                        17.019079
-                  ]
-            },
             {
                   "name": "Dive Blue Eden",
                   "text": "A Dive Blue Eden egy búvárközpont, amely kirándulásokat szervez Porto Novo körüli tengeri élőhelyekre.",
@@ -442,24 +334,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Praia De Tropo",
-                  "text": "Plaja de nisip Praia De Tropo se întinde de-a lungul regiunii portuare din Porto Novo.",
-                  "category": "recreational",
-                  "coords": [
-                        -25.085714,
-                        17.012458
-                  ]
-            },
-            {
-                  "name": "Aldeia",
-                  "text": "Teatrul Aldeia din Porto Novo servește ca loc de desfășurare a evenimentelor culturale pentru orașul-port.",
-                  "category": "cultural",
-                  "coords": [
-                        -25.068973,
-                        17.019079
-                  ]
-            },
-            {
                   "name": "Dive Blue Eden",
                   "text": "Dive Blue Eden este un centru de scufundări care organizează excursii în habitatele marine din jurul Porto Novo.",
                   "category": "landmark",
@@ -488,24 +362,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Praia De Tropo",
-                  "text": "The sandy beach of Praia De Tropo stretches along the harbor region of Porto Novo.",
-                  "category": "recreational",
-                  "coords": [
-                        -25.085714,
-                        17.012458
-                  ]
-            },
-            {
-                  "name": "Aldeia",
-                  "text": "The Aldeia theatre in Porto Novo serves as a cultural venue for the harbor town.",
-                  "category": "cultural",
-                  "coords": [
-                        -25.068973,
-                        17.019079
-                  ]
-            },
             {
                   "name": "Dive Blue Eden",
                   "text": "Dive Blue Eden is a diving center organizing excursions into the marine habitats around Porto Novo.",
@@ -846,15 +702,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu dos Pescatores",
-                  "text": "Das Museu dos Pescatores in Tarrafal dokumentiert die maritime Kultur der Insel und stellt alte Holzboote, handgeknüpfte Netze und das harte Leben der Fischer aus.",
-                  "category": "museum",
-                  "coords": [
-                        -24.358041,
-                        16.567641
-                  ]
-            },
-            {
                   "name": "Baixo Rocha",
                   "text": "Der Strand Baixo Rocha ist für seinen feinen, goldenen Sand bekannt, der einen faszinierenden Kontrast zu den schwarzen vulkanischen Felsen an der Küste von São Nicolau bildet.",
                   "category": "recreational",
@@ -890,15 +737,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
                   "coords": [
                         -24.40229,
                         16.593015
-                  ]
-            },
-            {
-                  "name": "Museu dos Pescatores",
-                  "text": "A tarrafali Museu dos Pescatores a sziget tengeri kultúráját mutatja be régi fahajók, kézzel kötött hálók és a halászok mindennapjainak kiállításával.",
-                  "category": "museum",
-                  "coords": [
-                        -24.358041,
-                        16.567641
                   ]
             },
             {
@@ -940,15 +778,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu dos Pescatores",
-                  "text": "Museu dos Pescatores din Tarrafal onorează moștenirea maritimă a insulei, expunând bărci tradiționale din lemn, plase de pescuit și relatări ale vieții pescarilor.",
-                  "category": "museum",
-                  "coords": [
-                        -24.358041,
-                        16.567641
-                  ]
-            },
-            {
                   "name": "Baixo Rocha",
                   "text": "Plaja Baixo Rocha este cunoscută pentru nisipul său fin auriu, care contrastează frumos cu rocile vulcanice negre și abrupte de pe coasta São Nicolau.",
                   "category": "recreational",
@@ -984,15 +813,6 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
                   "coords": [
                         -24.40229,
                         16.593015
-                  ]
-            },
-            {
-                  "name": "Museu dos Pescatores",
-                  "text": "The Museu dos Pescatores in Tarrafal chronicles the island's maritime culture, displaying old wooden boats, hand-woven nets, and the arduous life of local fishermen.",
-                  "category": "museum",
-                  "coords": [
-                        -24.358041,
-                        16.567641
                   ]
             },
             {
@@ -1906,50 +1726,10 @@ export const poiExtraCapeverdeEconomicV2: POI[] = [
   },
   {
     id: "grogue-distillery-paul-economic-v2", "sights": {
-      "de": [
-            {
-                  "name": "Santo António",
-                  "text": "Das Denkmal Santo António befindet sich in der Gegend der Grogue-Destillerien von Paul.",
-                  "category": "historical",
-                  "coords": [
-                        -25.015713,
-                        17.150095
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Santo António",
-                  "text": "A Santo António emlékmű a paul-i grog lepárlók területén található.",
-                  "category": "historical",
-                  "coords": [
-                        -25.015713,
-                        17.150095
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Santo António",
-                  "text": "Monumentul Santo António este situat în zona distileriilor de grogue din Paul.",
-                  "category": "historical",
-                  "coords": [
-                        -25.015713,
-                        17.150095
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Santo António",
-                  "text": "The Santo António monument is situated in the grogue distillery area of Paul.",
-                  "category": "historical",
-                  "coords": [
-                        -25.015713,
-                        17.150095
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "industry",
     parent: "CV-PA",

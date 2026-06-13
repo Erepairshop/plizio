@@ -1275,39 +1275,12 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     id: "tm-mary-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Mary Welaýat Taryhy we Ülkäni Öwreniş Muzeýi",
-                  "text": "Ein Museum, das die archäologische und ethnografische Geschichte der Region Mary zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        61.854562,
-                        37.585451
-                  ]
-            },
-            {
-                  "name": "Kemine adyndaky Döwlet Drama Teatry",
-                  "text": "Ein Staatstheater in Mary, benannt nach dem berühmten turkmenischen Dichter Kemine.",
-                  "category": "cultural",
-                  "coords": [
-                        61.848895,
-                        37.589778
-                  ]
-            },
-            {
                   "name": "World War II Monument",
                   "text": "Ein Denkmal in Mary für die Gefallenen und Teilnehmer des Zweiten Weltkriegs.",
                   "category": "historical",
                   "coords": [
                         61.83992,
                         37.594071
-                  ]
-            },
-            {
-                  "name": "Mollanepes Monument",
-                  "text": "Eine Statue in Mary zu Ehren des klassischen turkmenischen Dichters und Musikers Mollanepes.",
-                  "category": "historical",
-                  "coords": [
-                        61.844241,
-                        37.591287
                   ]
             },
             {
@@ -1327,54 +1300,9 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
                         61.839878,
                         37.591313
                   ]
-            },
-            {
-                  "name": "Nakgaşlar birleşiginiň ussahanalary we sergi jaýy",
-                  "text": "Eine Kunstgalerie und Werkstatt für den Künstlerverband in Mary.",
-                  "category": "museum",
-                  "coords": [
-                        61.826813,
-                        37.59608
-                  ]
-            },
-            {
-                  "name": "Gurbanguly Hajy Metjidi",
-                  "text": "Eine moderne große Moschee in Mary, die als bedeutendes religiöses Wahrzeichen der Stadt gilt.",
-                  "category": "religious",
-                  "coords": [
-                        61.852682,
-                        37.589234
-                  ]
-            },
-            {
-                  "name": "Mukaddes Töwellaçylyk buthanasy",
-                  "text": "Eine orthodoxe Kirche, die als Gotteshaus für die christliche Gemeinde in Mary dient.",
-                  "category": "religious",
-                  "coords": [
-                        61.854767,
-                        37.59748
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Mary Welaýat Taryhy we Ülkäni Öwreniş Muzeýi",
-                  "text": "Mary régió régészeti és néprajzi történelmét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        61.854562,
-                        37.585451
-                  ]
-            },
-            {
-                  "name": "Kemine adyndaky Döwlet Drama Teatry",
-                  "text": "Állami színház Mary városában, a híres türkmén költőről, Keminéről elnevezve.",
-                  "category": "cultural",
-                  "coords": [
-                        61.848895,
-                        37.589778
-                  ]
-            },
             {
                   "name": "World War II Monument",
                   "text": "A második világháború áldozatainak és résztvevőinek emléket állító emlékmű Maryben.",
@@ -1382,15 +1310,6 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
                   "coords": [
                         61.83992,
                         37.594071
-                  ]
-            },
-            {
-                  "name": "Mollanepes Monument",
-                  "text": "Mary városában álló szobor, amely Mollanepes klasszikus türkmén költő és zenész előtt tiszteleg.",
-                  "category": "historical",
-                  "coords": [
-                        61.844241,
-                        37.591287
                   ]
             },
             {
@@ -1410,54 +1329,9 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
                         61.839878,
                         37.591313
                   ]
-            },
-            {
-                  "name": "Nakgaşlar birleşiginiň ussahanalary we sergi jaýy",
-                  "text": "Művészeti galéria és műhelyhelyszín a maryi művészek szövetsége számára.",
-                  "category": "museum",
-                  "coords": [
-                        61.826813,
-                        37.59608
-                  ]
-            },
-            {
-                  "name": "Gurbanguly Hajy Metjidi",
-                  "text": "Modern nagymecset Maryben, amely a város jelentős vallási nevezetessége.",
-                  "category": "religious",
-                  "coords": [
-                        61.852682,
-                        37.589234
-                  ]
-            },
-            {
-                  "name": "Mukaddes Töwellaçylyk buthanasy",
-                  "text": "Ortodox templom, amely a maryi keresztény közösség imaházaként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        61.854767,
-                        37.59748
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Mary Welaýat Taryhy we Ülkäni Öwreniş Muzeýi",
-                  "text": "Un muzeu care prezintă istoria arheologică și etnografică a regiunii Mary.",
-                  "category": "museum",
-                  "coords": [
-                        61.854562,
-                        37.585451
-                  ]
-            },
-            {
-                  "name": "Kemine adyndaky Döwlet Drama Teatry",
-                  "text": "Un teatru de stat din Mary numit după celebrul poet turkmen Kemine.",
-                  "category": "cultural",
-                  "coords": [
-                        61.848895,
-                        37.589778
-                  ]
-            },
             {
                   "name": "World War II Monument",
                   "text": "Un monument din Mary dedicat celor care au servit și au căzut în timpul celui de-al Doilea Război Mondial.",
@@ -1465,15 +1339,6 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
                   "coords": [
                         61.83992,
                         37.594071
-                  ]
-            },
-            {
-                  "name": "Mollanepes Monument",
-                  "text": "O statuie din Mary care îl onorează pe poetul și muzicianul turkmen clasic Mollanepes.",
-                  "category": "historical",
-                  "coords": [
-                        61.844241,
-                        37.591287
                   ]
             },
             {
@@ -1493,54 +1358,9 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
                         61.839878,
                         37.591313
                   ]
-            },
-            {
-                  "name": "Nakgaşlar birleşiginiň ussahanalary we sergi jaýy",
-                  "text": "O galerie de artă și un spațiu de atelier pentru uniunea artiștilor din Mary.",
-                  "category": "museum",
-                  "coords": [
-                        61.826813,
-                        37.59608
-                  ]
-            },
-            {
-                  "name": "Gurbanguly Hajy Metjidi",
-                  "text": "O moschee mare și modernă din Mary, recunoscută ca un punct de reper religios semnificativ în oraș.",
-                  "category": "religious",
-                  "coords": [
-                        61.852682,
-                        37.589234
-                  ]
-            },
-            {
-                  "name": "Mukaddes Töwellaçylyk buthanasy",
-                  "text": "O biserică ortodoxă care oferă un lăcaș de cult pentru comunitatea creștină din Mary.",
-                  "category": "religious",
-                  "coords": [
-                        61.854767,
-                        37.59748
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Mary Provincial Regional and History Museum",
-                  "text": "A museum showcasing the archeological and ethnographic history of the Mary region.",
-                  "category": "museum",
-                  "coords": [
-                        61.854562,
-                        37.585451
-                  ]
-            },
-            {
-                  "name": "Kemine State Drama Theater",
-                  "text": "A state theater in Mary named after the famous Turkmen poet Kemine.",
-                  "category": "cultural",
-                  "coords": [
-                        61.848895,
-                        37.589778
-                  ]
-            },
             {
                   "name": "World War II Monument",
                   "text": "A memorial in Mary dedicated to those who served and fell during World War II.",
@@ -1548,15 +1368,6 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
                   "coords": [
                         61.83992,
                         37.594071
-                  ]
-            },
-            {
-                  "name": "Mollanepes Monument",
-                  "text": "A statue in Mary honoring the classic Turkmen poet and musician Mollanepes.",
-                  "category": "historical",
-                  "coords": [
-                        61.844241,
-                        37.591287
                   ]
             },
             {
@@ -1575,33 +1386,6 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
                   "coords": [
                         61.839878,
                         37.591313
-                  ]
-            },
-            {
-                  "name": "Nakgaşlar birleşiginiň ussahanalary we sergi jaýy",
-                  "text": "An art gallery and workshop space for the union of artists in Mary.",
-                  "category": "museum",
-                  "coords": [
-                        61.826813,
-                        37.59608
-                  ]
-            },
-            {
-                  "name": "Gurbanguly Hajy Mosque",
-                  "text": "A modern large mosque in Mary, recognized as a significant religious landmark in the city.",
-                  "category": "religious",
-                  "coords": [
-                        61.852682,
-                        37.589234
-                  ]
-            },
-            {
-                  "name": "Church of the Holy Intercession",
-                  "text": "An Orthodox church providing a place of worship for the Christian community in Mary.",
-                  "category": "religious",
-                  "coords": [
-                        61.854767,
-                        37.59748
                   ]
             }
       ]
@@ -2124,50 +1908,10 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
   },
   {
     id: "tm-tejen-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Tejen Medeniýet Öýi",
-                  "text": "Kulturhaus von Tejen, ein Gemeindezentrum für Aufführungen in Tejen.",
-                  "category": "cultural",
-                  "coords": [
-                        60.490139,
-                        37.366633
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Tejen Medeniýet Öýi",
-                  "text": "Tejeni Kulturház, közösségi központ előadásoknak Tejenben.",
-                  "category": "cultural",
-                  "coords": [
-                        60.490139,
-                        37.366633
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Tejen Medeniýet Öýi",
-                  "text": "Casa de Cultură din Tejen, un centru comunitar pentru spectacole în Tejen.",
-                  "category": "cultural",
-                  "coords": [
-                        60.490139,
-                        37.366633
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Tejen House of Culture",
-                  "text": "Tejen House of Culture, a community center hosting performances in Tejen.",
-                  "category": "cultural",
-                  "coords": [
-                        60.490139,
-                        37.366633
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "TM-A",
@@ -2616,24 +2360,6 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Akgala Medeniýet Öýi",
-                  "text": "Ein Kulturhaus und Theater für die Bewohner von Köneürgenç.",
-                  "category": "cultural",
-                  "coords": [
-                        59.155113,
-                        42.315807
-                  ]
-            },
-            {
-                  "name": "Köneürgenç şäher Çeperçilik Mekdebi",
-                  "text": "Eine Bildungseinrichtung und Galerieraum für Kunst in Köneürgenç.",
-                  "category": "museum",
-                  "coords": [
-                        59.17897,
-                        42.318984
-                  ]
-            },
-            {
                   "name": "Gutlug Timuryň minarasy",
                   "text": "Ein hochragendes mittelalterliches Minarett in Köneürgenç, eines der höchsten in Zentralasien.",
                   "category": "tower",
@@ -2660,24 +2386,6 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
                   "coords": [
                         59.151995,
                         42.296333
-                  ]
-            },
-            {
-                  "name": "Akgala Medeniýet Öýi",
-                  "text": "Kulturház és színházi helyszín Köneürgenç lakói számára.",
-                  "category": "cultural",
-                  "coords": [
-                        59.155113,
-                        42.315807
-                  ]
-            },
-            {
-                  "name": "Köneürgenç şäher Çeperçilik Mekdebi",
-                  "text": "Művészeti oktatási intézmény és galéria Köneürgençben.",
-                  "category": "museum",
-                  "coords": [
-                        59.17897,
-                        42.318984
                   ]
             },
             {
@@ -2710,24 +2418,6 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Akgala Medeniýet Öýi",
-                  "text": "O casă de cultură și un loc de spectacol pentru rezidenții din Köneürgenç.",
-                  "category": "cultural",
-                  "coords": [
-                        59.155113,
-                        42.315807
-                  ]
-            },
-            {
-                  "name": "Köneürgenç şäher Çeperçilik Mekdebi",
-                  "text": "O instituție de învățământ și spațiu de galerie pentru arte din Köneürgenç.",
-                  "category": "museum",
-                  "coords": [
-                        59.17897,
-                        42.318984
-                  ]
-            },
-            {
                   "name": "Gutlug Timuryň minarasy",
                   "text": "Un minaret medieval impunător din Köneürgenç, unul dintre cele mai înalte din Asia Centrală.",
                   "category": "tower",
@@ -2754,24 +2444,6 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
                   "coords": [
                         59.151995,
                         42.296333
-                  ]
-            },
-            {
-                  "name": "Akgala Medeniýet Öýi",
-                  "text": "A cultural house and theater venue serving the residents of Köneürgenç.",
-                  "category": "cultural",
-                  "coords": [
-                        59.155113,
-                        42.315807
-                  ]
-            },
-            {
-                  "name": "Art School",
-                  "text": "An educational institution and gallery space for arts in Köneürgenç.",
-                  "category": "museum",
-                  "coords": [
-                        59.17897,
-                        42.318984
                   ]
             },
             {

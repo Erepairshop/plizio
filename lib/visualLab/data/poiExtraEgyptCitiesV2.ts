@@ -633,50 +633,10 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     }, image: "/poi-images/port-said-cities-v2.webp"},
   {
     id: "suez-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Martyrs' Park",
-                  "text": "Park zu Ehren der Märtyrer des Krieges von 1973 in Sues.",
-                  "category": "landmark",
-                  "coords": [
-                        32.553772,
-                        29.960866
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Martyrs' Park",
-                  "text": "Park az 1973-as háború mártírjainak emlékére Szuezben.",
-                  "category": "landmark",
-                  "coords": [
-                        32.553772,
-                        29.960866
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Martyrs' Park",
-                  "text": "Parc dedicat martirilor războiului din 1973 în Suez.",
-                  "category": "landmark",
-                  "coords": [
-                        32.553772,
-                        29.960866
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Martyrs' Park",
-                  "text": "Park dedicated to the martyrs of the 1973 war in Suez.",
-                  "category": "landmark",
-                  "coords": [
-                        32.553772,
-                        29.960866
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "EG-SUZ",
@@ -2566,15 +2526,6 @@ export const poiExtraEgyptCitiesV2: POI[] = [
     id: "hurghada-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Cinema",
-                  "text": "Ein Kinotheater an der Sheraton Road, der Haupttouristenstraße von Hurghada.",
-                  "category": "cultural",
-                  "coords": [
-                        33.8248,
-                        27.245323
-                  ]
-            },
-            {
                   "name": "Family Beach 2",
                   "text": "An der ägyptischen Küste von Hurghada erwartet Besucher der Family Beach 2. Wie der Name vermuten lässt, herrscht hier eine belebte und familienfreundliche Atmosphäre, die ideal für alle Altersgruppen ist. Gäste können sich auf ausgedehntes Sonnenbaden und Badespaß im Roten Meer freuen. Es empfiehlt sich, frühzeitig zu kommen, um sich einen schönen Schattenplatz für den Tag zu sichern.",
                   "category": "recreational",
@@ -2612,15 +2563,6 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Cinema",
-                  "text": "Mozi a Sheraton úton, Hurghada fő turista utcáján.",
-                  "category": "cultural",
-                  "coords": [
-                        33.8248,
-                        27.245323
-                  ]
-            },
             {
                   "name": "Family Beach 2",
                   "text": "Az egyiptomi Hurghada partjainál várja a látogatókat a Family Beach 2. Ahogy a neve is sugallja, itt élénk és családbarát hangulat uralkodik, amely minden korosztály számára ideális. A vendégek hosszas napozásra és a Vörös-tengerben való fürdőzésre számíthatnak. Érdemes korán érkezni, hogy biztosítsunk magunknak egy kellemes árnyékos helyet a nap folyamán.",
@@ -2660,15 +2602,6 @@ export const poiExtraEgyptCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Cinema",
-                  "text": "Un cinematograf pe strada Sheraton, principala arteră turistică din Hurghada.",
-                  "category": "cultural",
-                  "coords": [
-                        33.8248,
-                        27.245323
-                  ]
-            },
-            {
                   "name": "Family Beach 2",
                   "text": "Pe coasta egipteană a orașului Hurghada, Family Beach 2 își așteaptă vizitatorii. Așa cum sugerează și numele, aici predomină o atmosferă plină de viață și prietenoasă cu familiile, ideală pentru toate grupele de vârstă. Oaspeții se pot aștepta la băi de soare îndelungate și înot în Marea Roșie. Este recomandat să ajungeți devreme pentru a vă asigura un loc plăcut la umbră pentru toată ziua.",
                   "category": "recreational",
@@ -2706,15 +2639,6 @@ export const poiExtraEgyptCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Cinema",
-                  "text": "A cinema theater on Hurghada's main tourist street, Sheraton Road.",
-                  "category": "cultural",
-                  "coords": [
-                        33.8248,
-                        27.245323
-                  ]
-            },
             {
                   "name": "Family Beach 2",
                   "text": "On the Egyptian coast of Hurghada, Family Beach 2 awaits its visitors. As the name suggests, a lively and family-friendly atmosphere prevails here, making it ideal for all ages. Guests can look forward to extensive sunbathing and swimming fun in the Red Sea. It is advisable to arrive early to secure a nice shaded spot for the day.",
@@ -3544,24 +3468,6 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                         32.872315,
                         24.977166
                   ]
-            },
-            {
-                  "name": "Sound & Light Show",
-                  "text": "Nächtliche Multimedia-Show am Horus-Tempel in Edfu, die die Geschichte von Horus und Seth erzählt.",
-                  "category": "cultural",
-                  "coords": [
-                        32.873456,
-                        24.977706
-                  ]
-            },
-            {
-                  "name": "nice view towards Horus Temple",
-                  "text": "Ein Aussichtspunkt über den Nil mit Blick auf den Edfu-Tempel.",
-                  "category": "natural",
-                  "coords": [
-                        32.873153,
-                        24.979603
-                  ]
             }
       ],
       "hu": [
@@ -3572,24 +3478,6 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   "coords": [
                         32.872315,
                         24.977166
-                  ]
-            },
-            {
-                  "name": "Sound & Light Show",
-                  "text": "Éjszakai multimédiás show az edfui Hórusz-templomnál, amely Hórusz és Széth történetét meséli el.",
-                  "category": "cultural",
-                  "coords": [
-                        32.873456,
-                        24.977706
-                  ]
-            },
-            {
-                  "name": "nice view towards Horus Temple",
-                  "text": "Kilátó a Nílus túloldalán, amely az edfui templomra nyújt rálátást.",
-                  "category": "natural",
-                  "coords": [
-                        32.873153,
-                        24.979603
                   ]
             }
       ],
@@ -3602,55 +3490,9 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                         32.872315,
                         24.977166
                   ]
-            },
-            {
-                  "name": "Sound & Light Show",
-                  "text": "Spectacol multimedia nocturn la Templul lui Horus din Edfu, care spune povestea lui Horus și Seth.",
-                  "category": "cultural",
-                  "coords": [
-                        32.873456,
-                        24.977706
-                  ]
-            },
-            {
-                  "name": "nice view towards Horus Temple",
-                  "text": "Un punct de belvedere peste Nil, oferind o vedere asupra Templului din Edfu.",
-                  "category": "natural",
-                  "coords": [
-                        32.873153,
-                        24.979603
-                  ]
             }
       ],
-      "en": [
-            {
-                  "name": "Edfu Temple",
-                  "text": "The Temple of Horus at Edfu, the best-preserved Ptolemaic temple in Egypt.",
-                  "category": "historical",
-                  "coords": [
-                        32.872315,
-                        24.977166
-                  ]
-            },
-            {
-                  "name": "Sound & Light Show",
-                  "text": "Nightly multimedia show at the Temple of Horus in Edfu, telling the story of Horus and Seth.",
-                  "category": "cultural",
-                  "coords": [
-                        32.873456,
-                        24.977706
-                  ]
-            },
-            {
-                  "name": "nice view towards Horus Temple",
-                  "text": "A scenic overlook point across the Nile providing a vista of the Edfu Temple.",
-                  "category": "natural",
-                  "coords": [
-                        32.873153,
-                        24.979603
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "city",
     parent: "EG-ASN",
@@ -6758,33 +6600,6 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Luxor-Tempel",
-                  "text": "Der Luxor-Tempel ist eine große altägyptische archäologische Stätte und Tempelanlage in Luxor.",
-                  "category": "historical",
-                  "coords": [
-                        32.639362,
-                        25.699599
-                  ]
-            },
-            {
-                  "name": "Nūn Art Gallery",
-                  "text": "Eine Galerie und ein Café in Luxor, die lokale Kunstwerke ausstellen.",
-                  "category": "museum",
-                  "coords": [
-                        32.632844,
-                        25.703915
-                  ]
-            },
-            {
-                  "name": "Luxor Museum",
-                  "text": "Beherbergt eine Sammlung altägyptischer Artefakte, darunter Statuen aus dem Grab Tutanchamuns.",
-                  "category": "museum",
-                  "coords": [
-                        32.644489,
-                        25.707663
-                  ]
-            },
-            {
                   "name": "Mut-Tempel",
                   "text": "Der der Göttin Mut geweihte Tempel, Teil des Karnak-Tempelkomplexes in Luxor.",
                   "category": "historical",
@@ -6830,15 +6645,6 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "local ferry to West Bank",
-                  "text": "Eine Fähre, die den Nil nach Luxor-West zum Tal der Könige überquert.",
-                  "category": "landmark",
-                  "coords": [
-                        32.638579,
-                        25.701444
-                  ]
-            },
-            {
                   "name": "Banana Island",
                   "text": "Eine kleine Nilinsel, bekannt für Bananenplantagen und Touristenbesuche.",
                   "category": "landmark",
@@ -6874,24 +6680,6 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   "coords": [
                         32.639362,
                         25.699599
-                  ]
-            },
-            {
-                  "name": "Nūn Art Gallery",
-                  "text": "Galéria és kávézó Luxorban, helyi műalkotások kiállításával.",
-                  "category": "museum",
-                  "coords": [
-                        32.632844,
-                        25.703915
-                  ]
-            },
-            {
-                  "name": "Luxor Museum",
-                  "text": "Ókori egyiptomi műtárgyak gyűjteményét őrzi, köztük Tutanhamon sírjából származó szobrokat.",
-                  "category": "museum",
-                  "coords": [
-                        32.644489,
-                        25.707663
                   ]
             },
             {
@@ -6940,15 +6728,6 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "local ferry to West Bank",
-                  "text": "Komphajó, amely a Níluson át Luxor nyugati partjára, a Királyok völgyébe közlekedik.",
-                  "category": "landmark",
-                  "coords": [
-                        32.638579,
-                        25.701444
-                  ]
-            },
-            {
                   "name": "Banán-sziget",
                   "text": "Egy kis Nílus-sziget, amely banánültetvényeiről és turistalátogatásokról ismert.",
                   "category": "landmark",
@@ -6984,24 +6763,6 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   "coords": [
                         32.639362,
                         25.699599
-                  ]
-            },
-            {
-                  "name": "Nūn Art Gallery",
-                  "text": "O galerie și o cafenea în Luxor, care expun opere de artă locale.",
-                  "category": "museum",
-                  "coords": [
-                        32.632844,
-                        25.703915
-                  ]
-            },
-            {
-                  "name": "Luxor Museum",
-                  "text": "Adăpostește o colecție de artefacte egiptene antice, inclusiv statui din mormântul lui Tutankhamon.",
-                  "category": "museum",
-                  "coords": [
-                        32.644489,
-                        25.707663
                   ]
             },
             {
@@ -7050,15 +6811,6 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "local ferry to West Bank",
-                  "text": "Un feribot care traversează Nilul către malul vestic al Luxorului, către Valea Regilor.",
-                  "category": "landmark",
-                  "coords": [
-                        32.638579,
-                        25.701444
-                  ]
-            },
-            {
                   "name": "Banana Island",
                   "text": "O insulă mică pe Nil, cunoscută pentru plantațiile de banane și vizitele turistice.",
                   "category": "landmark",
@@ -7085,33 +6837,6 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   "coords": [
                         32.611713,
                         25.705713
-                  ]
-            },
-            {
-                  "name": "Luxor Temple",
-                  "text": "Luxor Temple is a large Ancient Egyptian archaeological site and temple complex situated in Luxor.",
-                  "category": "historical",
-                  "coords": [
-                        32.639362,
-                        25.699599
-                  ]
-            },
-            {
-                  "name": "Nut Art Store & Kaffee",
-                  "text": "A gallery and café in Luxor displaying local artwork.",
-                  "category": "museum",
-                  "coords": [
-                        32.632844,
-                        25.703915
-                  ]
-            },
-            {
-                  "name": "Luxor Museum",
-                  "text": "Houses a collection of ancient Egyptian artifacts, including statues from Tutankhamun's tomb.",
-                  "category": "museum",
-                  "coords": [
-                        32.644489,
-                        25.707663
                   ]
             },
             {
@@ -7160,30 +6885,12 @@ export const poiExtraEgyptCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "local ferry to West Bank",
-                  "text": "A ferry crossing the Nile to the West Bank of Luxor, serving the Valley of the Kings.",
-                  "category": "landmark",
-                  "coords": [
-                        32.638579,
-                        25.701444
-                  ]
-            },
-            {
                   "name": "Banana Island",
                   "text": "A small Nile island known for banana plantations and tourist visits.",
                   "category": "landmark",
                   "coords": [
                         32.622872,
                         25.683452
-                  ]
-            },
-            {
-                  "name": "Chapel of Serapis",
-                  "text": "A small chapel dedicated to the syncretic god Serapis in Luxor.",
-                  "category": "historical",
-                  "coords": [
-                        32.639978,
-                        25.700804
                   ]
             }
       ]

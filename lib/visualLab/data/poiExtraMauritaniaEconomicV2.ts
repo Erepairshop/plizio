@@ -51,15 +51,6 @@ export const mauritaniaEconomicV2: POI[] = [
     id: "mauritania-zouerat-mine-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Med Cheikhe",
-                  "text": "Ein markantes lokales Wahrzeichen in der Nähe der umfangreichen Eisenerzminen von Zouérat.",
-                  "category": "landmark",
-                  "coords": [
-                        -12.465945,
-                        22.736392
-                  ]
-            },
-            {
                   "name": "e de Zou",
                   "text": "Ein kultureller Ausstellungsraum, der sich mit der tief verwurzelten Bergbaugeschichte der Region Zouérat befasst.",
                   "category": "museum",
@@ -70,15 +61,6 @@ export const mauritaniaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Med Cheikhe",
-                  "text": "Egy kiemelkedő helyi nevezetesség Zouérat kiterjedt vasércbányászati műveleteinek közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -12.465945,
-                        22.736392
-                  ]
-            },
             {
                   "name": "e de Zou",
                   "text": "A Zouérat régió mélyen gyökerező bányászati történelmére fókuszáló kulturális kiállítótér.",
@@ -91,15 +73,6 @@ export const mauritaniaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Med Cheikhe",
-                  "text": "Un punct de reper local proeminent situat în apropierea operațiunilor extinse de extracție a minereului de fier din Zouérat.",
-                  "category": "landmark",
-                  "coords": [
-                        -12.465945,
-                        22.736392
-                  ]
-            },
-            {
                   "name": "e de Zou",
                   "text": "Un spațiu expozițional cultural axat pe istoria minieră profund înrădăcinată a regiunii Zouérat.",
                   "category": "museum",
@@ -110,15 +83,6 @@ export const mauritaniaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Med Cheikhe",
-                  "text": "A prominent local landmark situated near the extensive iron ore mining operations of Zouérat.",
-                  "category": "landmark",
-                  "coords": [
-                        -12.465945,
-                        22.736392
-                  ]
-            },
             {
                   "name": "e de Zou",
                   "text": "A cultural exhibition space focusing on the deep-rooted mining history of the Zouérat region.",
@@ -186,15 +150,6 @@ export const mauritaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zein art galerie",
-                  "text": "Galerie Zeinart, eine Kunstgalerie im Marché-Capitale-Viertel von Nouakchott, die zeitgenössische mauretanische Malerei zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -15.972571,
-                        18.101056
-                  ]
-            },
-            {
                   "name": "Musée urbain Turkya Daddah",
                   "text": "Musée urbain Turkya Daddah, ein Freilichtmuseum im Marktviertel von Nouakchott mit Wandmalereien und Street Art.",
                   "category": "museum",
@@ -212,15 +167,6 @@ export const mauritaniaEconomicV2: POI[] = [
                   "coords": [
                         -15.974798,
                         18.085523
-                  ]
-            },
-            {
-                  "name": "Zein art galerie",
-                  "text": "Galerie Zeinart, egy művészeti galéria Nouakchott Marché Capitale negyedében, kortárs mauritániai festményekkel.",
-                  "category": "museum",
-                  "coords": [
-                        -15.972571,
-                        18.101056
                   ]
             },
             {
@@ -244,15 +190,6 @@ export const mauritaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zein art galerie",
-                  "text": "Galerie Zeinart, o galerie de artă în cartierul Marché Capitale din Nouakchott, care expune picturi contemporane mauritane.",
-                  "category": "museum",
-                  "coords": [
-                        -15.972571,
-                        18.101056
-                  ]
-            },
-            {
                   "name": "Musée urbain Turkya Daddah",
                   "text": "Musée urbain Turkya Daddah, un muzeu în aer liber în cartierul pieței din Nouakchott, cu picturi murale și artă stradală.",
                   "category": "museum",
@@ -270,15 +207,6 @@ export const mauritaniaEconomicV2: POI[] = [
                   "coords": [
                         -15.974798,
                         18.085523
-                  ]
-            },
-            {
-                  "name": "Galerie Zeinart",
-                  "text": "Galerie Zeinart, an art gallery in the Marché Capitale area of Nouakchott, exhibiting contemporary Mauritanian paintings.",
-                  "category": "museum",
-                  "coords": [
-                        -15.972571,
-                        18.101056
                   ]
             },
             {
@@ -1034,24 +962,6 @@ export const mauritaniaEconomicV2: POI[] = [
                         -15.974798,
                         18.085523
                   ]
-            },
-            {
-                  "name": "Zein art galerie",
-                  "text": "Galerie Zeinart, eine Kunstgalerie im Marché-Capitale-Viertel von Nouakchott, die zeitgenössische mauretanische Malerei zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -15.972571,
-                        18.101056
-                  ]
-            },
-            {
-                  "name": "Musée urbain Turkya Daddah",
-                  "text": "Musée urbain Turkya Daddah, ein Freilichtmuseum im Marktviertel von Nouakchott mit Wandmalereien und Street Art.",
-                  "category": "museum",
-                  "coords": [
-                        -15.977449,
-                        18.09483
-                  ]
             }
       ],
       "hu": [
@@ -1062,24 +972,6 @@ export const mauritaniaEconomicV2: POI[] = [
                   "coords": [
                         -15.974798,
                         18.085523
-                  ]
-            },
-            {
-                  "name": "Zein art galerie",
-                  "text": "Galerie Zeinart, egy művészeti galéria Nouakchott Marché Capitale negyedében, kortárs mauritániai festményekkel.",
-                  "category": "museum",
-                  "coords": [
-                        -15.972571,
-                        18.101056
-                  ]
-            },
-            {
-                  "name": "Musée urbain Turkya Daddah",
-                  "text": "Musée urbain Turkya Daddah, egy szabadtéri múzeum Nouakchott piaci negyedében, falfestményekkel és street art alkotásokkal.",
-                  "category": "museum",
-                  "coords": [
-                        -15.977449,
-                        18.09483
                   ]
             }
       ],
@@ -1092,24 +984,6 @@ export const mauritaniaEconomicV2: POI[] = [
                         -15.974798,
                         18.085523
                   ]
-            },
-            {
-                  "name": "Zein art galerie",
-                  "text": "Galerie Zeinart, o galerie de artă în cartierul Marché Capitale din Nouakchott, care expune picturi contemporane mauritane.",
-                  "category": "museum",
-                  "coords": [
-                        -15.972571,
-                        18.101056
-                  ]
-            },
-            {
-                  "name": "Musée urbain Turkya Daddah",
-                  "text": "Musée urbain Turkya Daddah, un muzeu în aer liber în cartierul pieței din Nouakchott, cu picturi murale și artă stradală.",
-                  "category": "museum",
-                  "coords": [
-                        -15.977449,
-                        18.09483
-                  ]
             }
       ],
       "en": [
@@ -1120,24 +994,6 @@ export const mauritaniaEconomicV2: POI[] = [
                   "coords": [
                         -15.974798,
                         18.085523
-                  ]
-            },
-            {
-                  "name": "Galerie Zeinart",
-                  "text": "Galerie Zeinart, an art gallery in the Marché Capitale area of Nouakchott, exhibiting contemporary Mauritanian paintings.",
-                  "category": "museum",
-                  "coords": [
-                        -15.972571,
-                        18.101056
-                  ]
-            },
-            {
-                  "name": "Musée urbain Turkya Daddah",
-                  "text": "Musée urbain Turkya Daddah, an open-air museum in the market district of Nouakchott, featuring murals and street art.",
-                  "category": "museum",
-                  "coords": [
-                        -15.977449,
-                        18.09483
                   ]
             }
       ]
@@ -1295,15 +1151,6 @@ export const mauritaniaEconomicV2: POI[] = [
                         -14.263711,
                         16.542577
                   ]
-            },
-            {
-                  "name": "Maison de Jeunes",
-                  "text": "Das Maison de Jeunes in Boghé fungiert als lebendiger Gemeindetreffpunkt für die lokale Jugend und kulturelle Aktivitäten.",
-                  "category": "cultural",
-                  "coords": [
-                        -14.273425,
-                        16.583862
-                  ]
             }
       ],
       "hu": [
@@ -1323,15 +1170,6 @@ export const mauritaniaEconomicV2: POI[] = [
                   "coords": [
                         -14.263711,
                         16.542577
-                  ]
-            },
-            {
-                  "name": "Maison de Jeunes",
-                  "text": "A boghéi Maison de Jeunes a helyi ifjúsági és kulturális tevékenységek nyüzsgő közösségi központjaként működik.",
-                  "category": "cultural",
-                  "coords": [
-                        -14.273425,
-                        16.583862
                   ]
             }
       ],
@@ -1353,15 +1191,6 @@ export const mauritaniaEconomicV2: POI[] = [
                         -14.263711,
                         16.542577
                   ]
-            },
-            {
-                  "name": "Maison de Jeunes",
-                  "text": "Maison de Jeunes din Boghé funcționează ca un centru comunitar vibrant pentru tineretul local și activitățile culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        -14.273425,
-                        16.583862
-                  ]
             }
       ],
       "en": [
@@ -1381,15 +1210,6 @@ export const mauritaniaEconomicV2: POI[] = [
                   "coords": [
                         -14.263711,
                         16.542577
-                  ]
-            },
-            {
-                  "name": "Maison de Jeunes",
-                  "text": "The Maison de Jeunes in Boghé functions as a vibrant community hub for local youth and cultural activities.",
-                  "category": "cultural",
-                  "coords": [
-                        -14.273425,
-                        16.583862
                   ]
             }
       ]

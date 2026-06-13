@@ -506,15 +506,6 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
                         6.691887,
                         0.399462
                   ]
-            },
-            {
-                  "name": "Praia do Governadoro",
-                  "text": "Praia do Governadoro ist ein tropischer Sandstrand an der malerischen Küste bei Morro Peixe.",
-                  "category": "recreational",
-                  "coords": [
-                        6.665789,
-                        0.41112
-                  ]
             }
       ],
       "hu": [
@@ -525,15 +516,6 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
                   "coords": [
                         6.691887,
                         0.399462
-                  ]
-            },
-            {
-                  "name": "Praia do Governadoro",
-                  "text": "A Praia do Governadoro egy trópusi homokos strand a festői tengerpart mentén, Morro Peixe közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        6.665789,
-                        0.41112
                   ]
             }
       ],
@@ -546,15 +528,6 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
                         6.691887,
                         0.399462
                   ]
-            },
-            {
-                  "name": "Praia do Governadoro",
-                  "text": "Praia do Governadoro este o plajă tropicală cu nisip, situată de-a lungul coastei pitorești din apropiere de Morro Peixe.",
-                  "category": "recreational",
-                  "coords": [
-                        6.665789,
-                        0.41112
-                  ]
             }
       ],
       "en": [
@@ -565,15 +538,6 @@ export const poiExtraSaotomeandprincipeLifeV2: POI[] = [
                   "coords": [
                         6.691887,
                         0.399462
-                  ]
-            },
-            {
-                  "name": "Praia do Governadoro",
-                  "text": "Praia do Governadoro is a tropical sandy beach situated along the picturesque coastline near Morro Peixe.",
-                  "category": "recreational",
-                  "coords": [
-                        6.665789,
-                        0.41112
                   ]
             }
       ]

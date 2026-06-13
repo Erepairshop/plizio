@@ -3609,15 +3609,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
     id: "mosque-of-the-pasha-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Saidan",
-                  "text": "Diese städtische Attraktion in der geschäftigen Stadt Oran bietet Besuchern einen Einblick in die lokale architektonische Landschaft und das kulturelle Ambiente.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.651908,
-                        35.67676
-                  ]
-            },
-            {
                   "name": "Musée d'art moderne d'Oran",
                   "text": "Dieses zeitgenössische Museum in Oran, das in einem wunderschön restaurierten, ehemaligen Kaufhaus im neomaurischen Stil untergebracht ist, zeigt lebendige algerische und internationale moderne Kunst.",
                   "category": "museum",
@@ -3636,15 +3627,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zoo d'Oran",
-                  "text": "Dieser zoologische Garten befindet sich im weitläufigen Parc d'Attractions d'Oran, beherbergt verschiedene afrikanische Tierarten und bietet familienfreundliche Spazierwege.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.646689,
-                        35.689285
-                  ]
-            },
-            {
                   "name": "Fort Saint André",
                   "text": "Diese historische Festung wurde während der spanischen Besatzung auf den Höhen von Oran erbaut und ihre dicken Steinmauern überblicken den Küstenhafen der Stadt.",
                   "category": "castle",
@@ -3660,15 +3642,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                   "coords": [
                         -0.649289,
                         35.702574
-                  ]
-            },
-            {
-                  "name": "Musée National Ahmed Zabana",
-                  "text": "Das Nationalmuseum Ahmed Zabana präsentiert die algerische Geschichte und das Erbe in Oran.",
-                  "category": "museum",
-                  "coords": [
-                        -0.645097,
-                        35.695865
                   ]
             },
             {
@@ -3728,15 +3701,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Saidan",
-                  "text": "Ez a nyüzsgő Oran városában található városi látványosság bepillantást enged a látogatóknak a helyi építészeti tájba és a kulturális hangulatba.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.651908,
-                        35.67676
-                  ]
-            },
-            {
                   "name": "Musée d'art moderne d'Oran",
                   "text": "A gyönyörűen felújított, neomór stílusú egykori áruházban helyet kapó oráni kortárs múzeum élénk algériai és nemzetközi modern művészeti alkotásokat mutat be.",
                   "category": "museum",
@@ -3755,15 +3719,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zoo d'Oran",
-                  "text": "A kiterjedt Parc d'Attractions d'Oran területén található állatkert különféle afrikai fajoknak ad otthont, és családbarát sétautakat kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.646689,
-                        35.689285
-                  ]
-            },
-            {
                   "name": "Fort Saint André",
                   "text": "A spanyol megszállás idején Oran magaslatain épült történelmi erődítmény vastag kőfalai a város tengerparti kikötőjére néznek.",
                   "category": "castle",
@@ -3779,15 +3734,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                   "coords": [
                         -0.649289,
                         35.702574
-                  ]
-            },
-            {
-                  "name": "Musée National Ahmed Zabana",
-                  "text": "Az Ahmed Zabana Nemzeti Múzeum az algériai történelmet és örökséget mutatja be Oránban.",
-                  "category": "museum",
-                  "coords": [
-                        -0.645097,
-                        35.695865
                   ]
             },
             {
@@ -3847,15 +3793,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Saidan",
-                  "text": "Această atracție urbană din aglomeratul oraș Oran oferă vizitatorilor o privire asupra peisajului arhitectural local și a ambianței culturale.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.651908,
-                        35.67676
-                  ]
-            },
-            {
                   "name": "Musée d'art moderne d'Oran",
                   "text": "Găzduit într-un fost mare magazin neo-maur frumos restaurat, acest muzeu contemporan din Oran prezintă artă modernă vibrantă algeriană și internațională.",
                   "category": "museum",
@@ -3874,15 +3811,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zoo d'Oran",
-                  "text": "Situată în extinsa Parc d'Attractions d'Oran, această grădină zoologică găzduiește diverse specii africane și oferă alei de plimbare destinate familiilor.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.646689,
-                        35.689285
-                  ]
-            },
-            {
                   "name": "Fort Saint André",
                   "text": "Construită în timpul ocupației spaniole pe înălțimile Oranului, zidurile groase de piatră ale acestei fortărețe istorice au vedere la portul de coastă al orașului.",
                   "category": "castle",
@@ -3898,15 +3826,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                   "coords": [
                         -0.649289,
                         35.702574
-                  ]
-            },
-            {
-                  "name": "Musée National Ahmed Zabana",
-                  "text": "Muzeul Național Ahmed Zabana expune istoria și patrimoniul algerian în Oran.",
-                  "category": "museum",
-                  "coords": [
-                        -0.645097,
-                        35.695865
                   ]
             },
             {
@@ -3966,15 +3885,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Saidan",
-                  "text": "This urban attraction in the bustling city of Oran offers visitors a glimpse into the local architectural landscape and cultural ambiance.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.651908,
-                        35.67676
-                  ]
-            },
-            {
                   "name": "Musée d'art moderne d'Oran",
                   "text": "Housed in a beautifully restored neo-Moorish former department store, this contemporary museum in Oran showcases vibrant Algerian and international modern art.",
                   "category": "museum",
@@ -3993,15 +3903,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zoo d'Oran",
-                  "text": "Located within the expansive Parc d'Attractions d'Oran, this zoological garden houses various African species and offers family-oriented walking paths.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.646689,
-                        35.689285
-                  ]
-            },
-            {
                   "name": "Fort Saint André",
                   "text": "Built during the Spanish occupation on the heights of Oran, the thick stone walls of this historic fortress overlook the city's coastal port.",
                   "category": "castle",
@@ -4017,15 +3918,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                   "coords": [
                         -0.649289,
                         35.702574
-                  ]
-            },
-            {
-                  "name": "Ahmed Zabana National Museum",
-                  "text": "The Ahmed Zabana National Museum showcases Algerian history and heritage in Oran.",
-                  "category": "museum",
-                  "coords": [
-                        -0.645097,
-                        35.695865
                   ]
             },
             {
@@ -7048,15 +6940,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "lieu de culture",
-                  "text": "Dieser spezielle Kulturraum bietet in Batna einen Ort für lokale Kunstausstellungen und Zusammenkünfte.",
-                  "category": "cultural",
-                  "coords": [
-                        6.192653,
-                        35.560533
-                  ]
-            },
-            {
                   "name": "Moudjahid inconnu",
                   "text": "Das Denkmal des unbekannten Mudschahedin ist eine feierliche Hommage an die anonymen Kämpfer des algerischen Unabhängigkeitskrieges.",
                   "category": "historical",
@@ -7084,39 +6967,12 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée",
-                  "text": "Dieses örtliche Museum zeigt eine Sammlung von Artefakten, die die regionale Geschichte und das kulturelle Erbe von Batna veranschaulichen.",
-                  "category": "museum",
-                  "coords": [
-                        6.159015,
-                        35.554097
-                  ]
-            },
-            {
-                  "name": "Monument BENBOULAID",
-                  "text": "Das Monument Benboulaid ist Mostefa Ben Boulaïd gewidmet, einem der Gründungsführer der algerischen Nationalen Befreiungsfront.",
-                  "category": "historical",
-                  "coords": [
-                        6.178137,
-                        35.555151
-                  ]
-            },
-            {
                   "name": "Maison de la Culture de la wilaya de Batna",
                   "text": "Das Maison de la Culture in Batna dient als wichtigstes Zentrum der Provinz für Theater-, Musik- und Kunstausstellungen.",
                   "category": "cultural",
                   "coords": [
                         6.18087,
                         35.553076
-                  ]
-            },
-            {
-                  "name": "Théatre de Batna",
-                  "text": "Das Regionaltheater von Batna ist eine wichtige kulturelle Einrichtung, die dramatische Aufführungen in einem markanten öffentlichen Gebäude beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        6.175846,
-                        35.553628
                   ]
             },
             {
@@ -7163,15 +7019,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                         6.167426,
                         35.546823
                   ]
-            },
-            {
-                  "name": "Théâtre en plein air",
-                  "text": "Dieses Freilufttheater bietet eine geräumige Außenbühne für Vorstellungen bei warmem Wetter und öffentliche Festivals in der Stadt.",
-                  "category": "cultural",
-                  "coords": [
-                        6.159877,
-                        35.553078
-                  ]
             }
       ],
       "hu": [
@@ -7182,15 +7029,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                   "coords": [
                         6.194431,
                         35.582181
-                  ]
-            },
-            {
-                  "name": "lieu de culture",
-                  "text": "Ez a dedikált kulturális tér helyi művészeti kiállításoknak és összejöveteleknek ad otthont Batna városában.",
-                  "category": "cultural",
-                  "coords": [
-                        6.192653,
-                        35.560533
                   ]
             },
             {
@@ -7221,39 +7059,12 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée",
-                  "text": "Ez a helyi múzeum Batna regionális történelmét és kulturális örökségét bemutató műtárgygyűjteményt állít ki.",
-                  "category": "museum",
-                  "coords": [
-                        6.159015,
-                        35.554097
-                  ]
-            },
-            {
-                  "name": "Monument BENBOULAID",
-                  "text": "A Benboulaid-emlékművet Mostefa Ben Boulaïdnak, az algériai Nemzeti Felszabadítási Front egyik alapító vezetőjének szentelték.",
-                  "category": "historical",
-                  "coords": [
-                        6.178137,
-                        35.555151
-                  ]
-            },
-            {
                   "name": "Maison de la Culture de la wilaya de Batna",
                   "text": "A batnai Maison de la Culture a tartomány elsődleges központjaként szolgál színházi, zenei és művészeti kiállítások számára.",
                   "category": "cultural",
                   "coords": [
                         6.18087,
                         35.553076
-                  ]
-            },
-            {
-                  "name": "Théatre de Batna",
-                  "text": "A Batnai Regionális Színház egy fontos kulturális intézmény, amely drámai előadásoknak ad otthont egy tekintélyes középületben.",
-                  "category": "cultural",
-                  "coords": [
-                        6.175846,
-                        35.553628
                   ]
             },
             {
@@ -7300,15 +7111,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                         6.167426,
                         35.546823
                   ]
-            },
-            {
-                  "name": "Théâtre en plein air",
-                  "text": "Ez a szabadtéri színház tágas szabadtéri színpadot biztosít a jó időben tartott előadások és nyilvános fesztiválok számára a városban.",
-                  "category": "cultural",
-                  "coords": [
-                        6.159877,
-                        35.553078
-                  ]
             }
       ],
       "ro": [
@@ -7319,15 +7121,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                   "coords": [
                         6.194431,
                         35.582181
-                  ]
-            },
-            {
-                  "name": "lieu de culture",
-                  "text": "Acest spațiu cultural dedicat oferă un loc pentru expoziții de artă și adunări locale în Batna.",
-                  "category": "cultural",
-                  "coords": [
-                        6.192653,
-                        35.560533
                   ]
             },
             {
@@ -7358,39 +7151,12 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée",
-                  "text": "Acest muzeu local expune o colecție de artefacte care detaliază istoria regională și moștenirea culturală a orașului Batna.",
-                  "category": "museum",
-                  "coords": [
-                        6.159015,
-                        35.554097
-                  ]
-            },
-            {
-                  "name": "Monument BENBOULAID",
-                  "text": "Monumentul Benboulaid este dedicat lui Mostefa Ben Boulaïd, unul dintre liderii fondatori ai Frontului de Eliberare Națională din Algeria.",
-                  "category": "historical",
-                  "coords": [
-                        6.178137,
-                        35.555151
-                  ]
-            },
-            {
                   "name": "Maison de la Culture de la wilaya de Batna",
                   "text": "Casa de Cultură din Batna servește drept principalul centru provincial pentru spectacole de teatru, muzică și expoziții de artă.",
                   "category": "cultural",
                   "coords": [
                         6.18087,
                         35.553076
-                  ]
-            },
-            {
-                  "name": "Théatre de Batna",
-                  "text": "Teatrul Regional din Batna este o instituție culturală importantă care găzduiește spectacole dramatice într-o clădire publică distinsă.",
-                  "category": "cultural",
-                  "coords": [
-                        6.175846,
-                        35.553628
                   ]
             },
             {
@@ -7437,15 +7203,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                         6.167426,
                         35.546823
                   ]
-            },
-            {
-                  "name": "Théâtre en plein air",
-                  "text": "Acest teatru în aer liber oferă o scenă spațioasă pentru spectacole în sezonul cald și festivaluri publice în oraș.",
-                  "category": "cultural",
-                  "coords": [
-                        6.159877,
-                        35.553078
-                  ]
             }
       ],
       "en": [
@@ -7456,15 +7213,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                   "coords": [
                         6.194431,
                         35.582181
-                  ]
-            },
-            {
-                  "name": "lieu de culture",
-                  "text": "This dedicated cultural space provides a venue for local artistic exhibitions and gatherings in Batna.",
-                  "category": "cultural",
-                  "coords": [
-                        6.192653,
-                        35.560533
                   ]
             },
             {
@@ -7495,39 +7243,12 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée",
-                  "text": "This local museum displays a collection of artifacts detailing the regional history and cultural heritage of Batna.",
-                  "category": "museum",
-                  "coords": [
-                        6.159015,
-                        35.554097
-                  ]
-            },
-            {
-                  "name": "Monument BENBOULAID",
-                  "text": "The Monument Benboulaid is dedicated to Mostefa Ben Boulaïd, one of the founding leaders of the Algerian National Liberation Front.",
-                  "category": "historical",
-                  "coords": [
-                        6.178137,
-                        35.555151
-                  ]
-            },
-            {
                   "name": "Maison de la Culture de la wilaya de Batna",
                   "text": "The Maison de la Culture of Batna serves as the primary provincial hub for theater, music, and art exhibitions.",
                   "category": "cultural",
                   "coords": [
                         6.18087,
                         35.553076
-                  ]
-            },
-            {
-                  "name": "Théatre de Batna",
-                  "text": "The Batna Regional Theatre is an important cultural institution hosting dramatic performances in a distinguished public building.",
-                  "category": "cultural",
-                  "coords": [
-                        6.175846,
-                        35.553628
                   ]
             },
             {
@@ -7573,15 +7294,6 @@ export const poiExtraAlgeriaLandmarksV2: POI[] = [
                   "coords": [
                         6.167426,
                         35.546823
-                  ]
-            },
-            {
-                  "name": "Théâtre en plein air",
-                  "text": "This open-air theater provides a spacious outdoor stage for warm-weather performances and public festivals in the city.",
-                  "category": "cultural",
-                  "coords": [
-                        6.159877,
-                        35.553078
                   ]
             }
       ]

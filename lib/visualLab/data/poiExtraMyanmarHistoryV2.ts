@@ -12072,24 +12072,6 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gubyauk Gyi (Wetkyi-in)",
-                  "text": "Ein Tempel im indischen Stil aus dem 13. Jahrhundert, der für seine hervorragend erhaltenen Jataka-Wandmalereien bekannt ist.",
-                  "category": "historical",
-                  "coords": [
-                        94.893667,
-                        21.18578
-                  ]
-            },
-            {
-                  "name": "Shin Bo Me OK Kyaung",
-                  "text": "Ein historisches OK Kyaung aus Backstein, das als Beispiel für die klösterliche Architektur des alten Bagan dient.",
-                  "category": "historical",
-                  "coords": [
-                        94.890516,
-                        21.183102
-                  ]
-            },
-            {
                   "name": "229",
                   "text": "Eine der zahlreichen kleineren Pagodenruinen in Bagan, die das Landschaftsbild der antiken Hauptstadt prägen.",
                   "category": "historical",
@@ -12105,15 +12087,6 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
                   "coords": [
                         94.886935,
                         21.179555
-                  ]
-            },
-            {
-                  "name": "Sulegone Group",
-                  "text": "Eine Gruppe kleiner Backsteintempel mit Buddha-Statuen, die ein idealer, ruhiger Ort zur Beobachtung von Heißluftballons sind.",
-                  "category": "historical",
-                  "coords": [
-                        94.892184,
-                        21.17934
                   ]
             },
             {
@@ -12290,24 +12263,6 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gubyauk Gyi (Wetkyi-in)",
-                  "text": "13. századi indiai stílusú templom, amely kiváló állapotban megőrzött Dzsátaka-falfestményeiről ismert.",
-                  "category": "historical",
-                  "coords": [
-                        94.893667,
-                        21.18578
-                  ]
-            },
-            {
-                  "name": "Shin Bo Me OK Kyaung",
-                  "text": "Téglából épült történelmi OK Kyaung, amely a régi Bagan kolostori építészetének példája.",
-                  "category": "historical",
-                  "coords": [
-                        94.890516,
-                        21.183102
-                  ]
-            },
-            {
                   "name": "229",
                   "text": "Bagan számos kisebb pagodaromjának egyike, amelyek meghatározzák az ősi főváros látképét.",
                   "category": "historical",
@@ -12323,15 +12278,6 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
                   "coords": [
                         94.886935,
                         21.179555
-                  ]
-            },
-            {
-                  "name": "Sulegone Group",
-                  "text": "Kisebb téglatemplomok csoportja Buddha-szobrokkal, amely ideális és nyugodt hely a hőlégballonok megfigyelésére.",
-                  "category": "historical",
-                  "coords": [
-                        94.892184,
-                        21.17934
                   ]
             },
             {
@@ -12508,24 +12454,6 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gubyauk Gyi (Wetkyi-in)",
-                  "text": "Un templu în stil indian din secolul al XIII-lea, cunoscut pentru picturile sale murale Jataka excelent conservate.",
-                  "category": "historical",
-                  "coords": [
-                        94.893667,
-                        21.18578
-                  ]
-            },
-            {
-                  "name": "Shin Bo Me OK Kyaung",
-                  "text": "Un OK Kyaung istoric din cărămidă, care servește ca exemplu al arhitecturii monahale din vechiul Bagan.",
-                  "category": "historical",
-                  "coords": [
-                        94.890516,
-                        21.183102
-                  ]
-            },
-            {
                   "name": "229",
                   "text": "Una dintre numeroasele ruine de pagode mai mici din Bagan, care definesc peisajul fostei capitale.",
                   "category": "historical",
@@ -12541,15 +12469,6 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
                   "coords": [
                         94.886935,
                         21.179555
-                  ]
-            },
-            {
-                  "name": "Sulegone Group",
-                  "text": "Un grup de temple mici din cărămidă cu statui ale lui Buddha, fiind un loc ideal și liniștit pentru observarea baloanelor cu aer cald.",
-                  "category": "historical",
-                  "coords": [
-                        94.892184,
-                        21.17934
                   ]
             },
             {
@@ -12726,24 +12645,6 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gubyauk Gyi (Wetkyi-in)",
-                  "text": "A 13th-century Indian-style temple famous for its excellently preserved Jataka mural paintings.",
-                  "category": "historical",
-                  "coords": [
-                        94.893667,
-                        21.18578
-                  ]
-            },
-            {
-                  "name": "Shin Bo Me OK Kyaung",
-                  "text": "A historic brick OK Kyaung that serves as an example of the monastic architecture of ancient Bagan.",
-                  "category": "historical",
-                  "coords": [
-                        94.890516,
-                        21.183102
-                  ]
-            },
-            {
                   "name": "229",
                   "text": "One of the numerous smaller pagoda ruins in Bagan that define the landscape of the ancient capital.",
                   "category": "historical",
@@ -12759,15 +12660,6 @@ export const poiExtraMyanmarHistoryV2: POI[] = [
                   "coords": [
                         94.886935,
                         21.179555
-                  ]
-            },
-            {
-                  "name": "Soo-lay-gon Group Sunset temples (first little pagoda on the left has 4 Buddhas with paint around). good for balloon viewing",
-                  "text": "A group of small brick temples with Buddha statues, providing an ideal and quiet spot for observing hot air balloons.",
-                  "category": "historical",
-                  "coords": [
-                        94.892184,
-                        21.17934
                   ]
             },
             {

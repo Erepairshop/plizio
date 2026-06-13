@@ -5011,15 +5011,6 @@ export const poiExtraChileLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plaza Elvira Matte",
-                  "text": "Die Plaza Elvira Matte ist ein städtischer Park in der Region Valle del Maipo.",
-                  "category": "park",
-                  "coords": [
-                        -70.576376,
-                        -33.585878
-                  ]
-            },
-            {
                   "name": "Museo Chupacabras de Pirque",
                   "text": "Dieses Museum in der Gegend von Pirque im Valle del Maipo widmet sich der Legende des Chupacabra.",
                   "category": "museum",
@@ -5035,24 +5026,6 @@ export const poiExtraChileLifeV2: POI[] = [
                   "coords": [
                         -70.603039,
                         -33.625145
-                  ]
-            },
-            {
-                  "name": "Bodega Casillero del Diablo",
-                  "text": "Dieses Weinmuseum befindet sich im legendären Weinkeller Casillero del Diablo im Valle del Maipo.",
-                  "category": "museum",
-                  "coords": [
-                        -70.576147,
-                        -33.634687
-                  ]
-            },
-            {
-                  "name": "Entrada Ex Regimiento",
-                  "text": "Dieses historische Denkmal markiert den Eingang eines ehemaligen Militärregiments im Valle del Maipo.",
-                  "category": "historical",
-                  "coords": [
-                        -70.574141,
-                        -33.612472
                   ]
             },
             {
@@ -5074,39 +5047,12 @@ export const poiExtraChileLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Don Melchor",
-                  "text": "Die Casa Don Melchor ist ein historisches Herrenhaus im Valle del Maipo.",
-                  "category": "historical",
-                  "coords": [
-                        -70.574558,
-                        -33.634188
-                  ]
-            },
-            {
-                  "name": "Teatro Palermo",
-                  "text": "Das Teatro Palermo ist ein lokales Theater für Aufführungen im Valle del Maipo.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.576205,
-                        -33.610228
-                  ]
-            },
-            {
                   "name": "Casa de la Cultura",
                   "text": "Dieses Kulturzentrum fördert die lokalen Künste und die Kultur in der Region Valle del Maipo.",
                   "category": "cultural",
                   "coords": [
                         -70.63096,
                         -33.584311
-                  ]
-            },
-            {
-                  "name": "Centro Cultural de Puente Alto",
-                  "text": "Dieses Kulturzentrum dient den kulturellen Bedürfnissen der Region Puente Alto im Valle del Maipo.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.548935,
-                        -33.611056
                   ]
             },
             {
@@ -5346,15 +5292,6 @@ export const poiExtraChileLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plaza Elvira Matte",
-                  "text": "A Plaza Elvira Matte egy városi park a Valle del Maipo régióban.",
-                  "category": "park",
-                  "coords": [
-                        -70.576376,
-                        -33.585878
-                  ]
-            },
-            {
                   "name": "Museo Chupacabras de Pirque",
                   "text": "Ez a Valle del Maipo területén, Pirque-ben található múzeum a Chupacabra legendájának állít emléket.",
                   "category": "museum",
@@ -5370,24 +5307,6 @@ export const poiExtraChileLifeV2: POI[] = [
                   "coords": [
                         -70.603039,
                         -33.625145
-                  ]
-            },
-            {
-                  "name": "Bodega Casillero del Diablo",
-                  "text": "Ez a bormúzeum a legendás Casillero del Diablo pincészetben kapott helyet a Valle del Maipo területén.",
-                  "category": "museum",
-                  "coords": [
-                        -70.576147,
-                        -33.634687
-                  ]
-            },
-            {
-                  "name": "Entrada Ex Regimiento",
-                  "text": "Ez a történelmi emlékmű egy egykori katonai ezred bejáratát jelzi a Valle del Maipo régióban.",
-                  "category": "historical",
-                  "coords": [
-                        -70.574141,
-                        -33.612472
                   ]
             },
             {
@@ -5409,39 +5328,12 @@ export const poiExtraChileLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Don Melchor",
-                  "text": "A Casa Don Melchor egy történelmi udvarház a Valle del Maipo területén.",
-                  "category": "historical",
-                  "coords": [
-                        -70.574558,
-                        -33.634188
-                  ]
-            },
-            {
-                  "name": "Teatro Palermo",
-                  "text": "A Teatro Palermo egy helyi színház, amely előadásoknak ad otthont a Valle del Maipo területén.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.576205,
-                        -33.610228
-                  ]
-            },
-            {
                   "name": "Casa de la Cultura",
                   "text": "Ez a művészeti központ a helyi kultúrát és művészeteket ápolja a Valle del Maipo régióban.",
                   "category": "cultural",
                   "coords": [
                         -70.63096,
                         -33.584311
-                  ]
-            },
-            {
-                  "name": "Centro Cultural de Puente Alto",
-                  "text": "Ez a művészeti központ Puente Alto területének kulturális igényeit szolgálja ki a Valle del Maipo régióban.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.548935,
-                        -33.611056
                   ]
             },
             {
@@ -5681,15 +5573,6 @@ export const poiExtraChileLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plaza Elvira Matte",
-                  "text": "Plaza Elvira Matte este un parc urban situat în regiunea Valle del Maipo.",
-                  "category": "park",
-                  "coords": [
-                        -70.576376,
-                        -33.585878
-                  ]
-            },
-            {
                   "name": "Museo Chupacabras de Pirque",
                   "text": "Acest muzeu din zona Pirque a văii Maipo este dedicat legendei Chupacabra.",
                   "category": "museum",
@@ -5705,24 +5588,6 @@ export const poiExtraChileLifeV2: POI[] = [
                   "coords": [
                         -70.603039,
                         -33.625145
-                  ]
-            },
-            {
-                  "name": "Bodega Casillero del Diablo",
-                  "text": "Acest muzeu tematic al vinului se află în legendara cramă Casillero del Diablo din valea Maipo.",
-                  "category": "museum",
-                  "coords": [
-                        -70.576147,
-                        -33.634687
-                  ]
-            },
-            {
-                  "name": "Entrada Ex Regimiento",
-                  "text": "Acest monument istoric marchează intrarea unui fost regiment militar din valea Maipo.",
-                  "category": "historical",
-                  "coords": [
-                        -70.574141,
-                        -33.612472
                   ]
             },
             {
@@ -5744,39 +5609,12 @@ export const poiExtraChileLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Don Melchor",
-                  "text": "Casa Don Melchor este un conac istoric situat în regiunea văii Maipo.",
-                  "category": "historical",
-                  "coords": [
-                        -70.574558,
-                        -33.634188
-                  ]
-            },
-            {
-                  "name": "Teatro Palermo",
-                  "text": "Teatro Palermo este un teatru local care găzduiește spectacole în valea Maipo.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.576205,
-                        -33.610228
-                  ]
-            },
-            {
                   "name": "Casa de la Cultura",
                   "text": "Acest centru de arte promovează cultura locală din regiunea văii Maipo.",
                   "category": "cultural",
                   "coords": [
                         -70.63096,
                         -33.584311
-                  ]
-            },
-            {
-                  "name": "Centro Cultural de Puente Alto",
-                  "text": "Acest centru cultural deservește nevoile artistice ale zonei Puente Alto din valea Maipo.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.548935,
-                        -33.611056
                   ]
             },
             {
@@ -6016,15 +5854,6 @@ export const poiExtraChileLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plaza Elvira Matte",
-                  "text": "Plaza Elvira Matte is an urban park located in the Maipo Valley region.",
-                  "category": "park",
-                  "coords": [
-                        -70.576376,
-                        -33.585878
-                  ]
-            },
-            {
                   "name": "Museo Chupacabras de Pirque",
                   "text": "A museum dedicated to the Chupacabra legend located in the Pirque area of the Maipo Valley.",
                   "category": "museum",
@@ -6040,24 +5869,6 @@ export const poiExtraChileLifeV2: POI[] = [
                   "coords": [
                         -70.603039,
                         -33.625145
-                  ]
-            },
-            {
-                  "name": "Bodega Casillero del Diablo",
-                  "text": "A wine-themed museum set in the legendary Casillero del Diablo cellar in the Maipo Valley.",
-                  "category": "museum",
-                  "coords": [
-                        -70.576147,
-                        -33.634687
-                  ]
-            },
-            {
-                  "name": "Entrada Ex Regimiento",
-                  "text": "A historic monument marking the entrance of a former military regiment in the Maipo Valley.",
-                  "category": "historical",
-                  "coords": [
-                        -70.574141,
-                        -33.612472
                   ]
             },
             {
@@ -6079,39 +5890,12 @@ export const poiExtraChileLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Don Melchor",
-                  "text": "A historic manor house known as Casa Don Melchor located in the Maipo Valley.",
-                  "category": "historical",
-                  "coords": [
-                        -70.574558,
-                        -33.634188
-                  ]
-            },
-            {
-                  "name": "Teatro Palermo",
-                  "text": "Teatro Palermo is a local theatre venue offering performances in the Maipo Valley.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.576205,
-                        -33.610228
-                  ]
-            },
-            {
                   "name": "Casa de la Cultura",
                   "text": "A dedicated arts centre fostering local culture and arts in the Maipo Valley region.",
                   "category": "cultural",
                   "coords": [
                         -70.63096,
                         -33.584311
-                  ]
-            },
-            {
-                  "name": "Centro Cultural de Puente Alto",
-                  "text": "An arts centre serving the cultural needs of the Puente Alto area in the Maipo Valley.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.548935,
-                        -33.611056
                   ]
             },
             {
@@ -17029,15 +16813,6 @@ export const poiExtraChileLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cerro Santa Rosa",
-                  "text": "Diese natürliche Hügelformation bietet einen weiten Panoramablick über die umliegende Zersiedelung.",
-                  "category": "natural",
-                  "coords": [
-                        -70.530297,
-                        -33.545
-                  ]
-            },
-            {
                   "name": "Cerro Chequén",
                   "text": "Dieser markante Gipfel erhebt sich über die umliegenden Viertel und ist ein anerkanntes geografisches Wahrzeichen.",
                   "category": "natural",
@@ -17334,15 +17109,6 @@ export const poiExtraChileLifeV2: POI[] = [
                   "coords": [
                         -70.614243,
                         -33.499907
-                  ]
-            },
-            {
-                  "name": "Cerro Santa Rosa",
-                  "text": "Ez a természetes dombtető elsöprő panorámát nyújt a környező városi terjeszkedésre.",
-                  "category": "natural",
-                  "coords": [
-                        -70.530297,
-                        -33.545
                   ]
             },
             {
@@ -17645,15 +17411,6 @@ export const poiExtraChileLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cerro Santa Rosa",
-                  "text": "Această formațiune naturală de pe un vârf de deal oferă o vedere panoramică vastă asupra expansiunii urbane din jur.",
-                  "category": "natural",
-                  "coords": [
-                        -70.530297,
-                        -33.545
-                  ]
-            },
-            {
                   "name": "Cerro Chequén",
                   "text": "Ridicându-se deasupra cartierelor din jur, acest vârf proeminent este un punct de reper geografic recunoscut.",
                   "category": "natural",
@@ -17950,15 +17707,6 @@ export const poiExtraChileLifeV2: POI[] = [
                   "coords": [
                         -70.614243,
                         -33.499907
-                  ]
-            },
-            {
-                  "name": "Cerro Santa Rosa",
-                  "text": "This natural hilltop formation provides sweeping panoramic views over the surrounding urban sprawl.",
-                  "category": "natural",
-                  "coords": [
-                        -70.530297,
-                        -33.545
                   ]
             },
             {

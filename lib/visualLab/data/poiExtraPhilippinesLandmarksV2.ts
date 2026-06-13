@@ -4982,15 +4982,6 @@ image: "/poi-images/ph-cultural-center-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Waterworld Cebu",
-                  "text": "Ein großer Wasserpark mit Rutschen und familienfreundlichen Pools in Lapu-Lapu.",
-                  "category": "landmark",
-                  "coords": [
-                        123.962813,
-                        10.330499
-                  ]
-            },
-            {
                   "name": "Maribagini Man Made Forest",
                   "text": "Ein künstlich angelegter Wald, der einen dichten, schattigen grünen Rückzugsort in Lapu-Lapu bietet.",
                   "category": "landmark",
@@ -5225,15 +5216,6 @@ image: "/poi-images/ph-cultural-center-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Bridge lookout",
-                  "text": "Ein ausgewiesener Aussichtspunkt, der einen malerischen Blick auf die nahegelegene Brücke bietet.",
-                  "category": "natural",
-                  "coords": [
-                        123.966125,
-                        10.327226
-                  ]
-            },
-            {
                   "name": "Ikasig",
                   "text": "Ein lokaler Aussichtspunkt namens Ikasig, der einen Blick auf die Umgebung bietet.",
                   "category": "natural",
@@ -5305,15 +5287,6 @@ image: "/poi-images/ph-cultural-center-of-the-philippines-landmarks-v2.webp",
                   "coords": [
                         123.949063,
                         10.25051
-                  ]
-            },
-            {
-                  "name": "Waterworld Cebu",
-                  "text": "Egy nagy vízipark attrakció csúszdákkal és családbarát medencékkel Lapu-Lapuban.",
-                  "category": "landmark",
-                  "coords": [
-                        123.962813,
-                        10.330499
                   ]
             },
             {
@@ -5551,15 +5524,6 @@ image: "/poi-images/ph-cultural-center-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Bridge lookout",
-                  "text": "Kijelölt kilátópont, amely festői kilátást nyújt a közeli hídra.",
-                  "category": "natural",
-                  "coords": [
-                        123.966125,
-                        10.327226
-                  ]
-            },
-            {
                   "name": "Ikasig",
                   "text": "Az Ikasig nevű helyi kilátó, amely a környező területre nyújt kilátást.",
                   "category": "natural",
@@ -5631,15 +5595,6 @@ image: "/poi-images/ph-cultural-center-of-the-philippines-landmarks-v2.webp",
                   "coords": [
                         123.949063,
                         10.25051
-                  ]
-            },
-            {
-                  "name": "Waterworld Cebu",
-                  "text": "O mare atracție de parc acvatic, cu tobogane și piscine pentru familii în Lapu-Lapu.",
-                  "category": "landmark",
-                  "coords": [
-                        123.962813,
-                        10.330499
                   ]
             },
             {
@@ -5877,15 +5832,6 @@ image: "/poi-images/ph-cultural-center-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Bridge lookout",
-                  "text": "Un punct de observație amenajat, care oferă vederi panoramice către podul din apropiere.",
-                  "category": "natural",
-                  "coords": [
-                        123.966125,
-                        10.327226
-                  ]
-            },
-            {
                   "name": "Ikasig",
                   "text": "Un punct de belvedere local cunoscut sub numele de Ikasig, care oferă vederi asupra zonei înconjurătoare.",
                   "category": "natural",
@@ -5957,15 +5903,6 @@ image: "/poi-images/ph-cultural-center-of-the-philippines-landmarks-v2.webp",
                   "coords": [
                         123.949063,
                         10.25051
-                  ]
-            },
-            {
-                  "name": "Waterworld Cebu",
-                  "text": "A large water park attraction featuring slides and family-friendly pools in Lapu-Lapu.",
-                  "category": "landmark",
-                  "coords": [
-                        123.962813,
-                        10.330499
                   ]
             },
             {
@@ -6200,15 +6137,6 @@ image: "/poi-images/ph-cultural-center-of-the-philippines-landmarks-v2.webp",
                   "coords": [
                         124.055502,
                         10.254245
-                  ]
-            },
-            {
-                  "name": "Bridge lookout",
-                  "text": "A designated observation point offering scenic views of the nearby bridge.",
-                  "category": "natural",
-                  "coords": [
-                        123.966125,
-                        10.327226
                   ]
             },
             {
@@ -7987,24 +7915,6 @@ image: "/poi-images/ph-bangui-windmills-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Heroes Memorial Gate",
-                  "text": "Das Heroes Memorial Gate dient als feierlicher monumentaler Eingang zum Nationalfriedhof zu Ehren der gefallenen philippinischen Soldaten.",
-                  "category": "historical",
-                  "coords": [
-                        121.04508,
-                        14.523006
-                  ]
-            },
-            {
-                  "name": "Colegio San Agustin Theater",
-                  "text": "Das Colegio San Agustin Theater ist ein modernes Campus-Auditorium, das für studentische Theateraufführungen und kulturelle Versammlungen genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        121.025733,
-                        14.541111
-                  ]
-            },
-            {
                   "name": "Ang Dating Daan - Lokal ng Genesis F1",
                   "text": "Diese lokale Versammlungsgruppe der Religionsgemeinschaft Ang Dating Daan bietet einen eigenen Saal für Gebete und Gemeindeübertragungen.",
                   "category": "religious",
@@ -8274,24 +8184,6 @@ image: "/poi-images/ph-bangui-windmills-landmarks-v2.webp",
                   "coords": [
                         121.060688,
                         14.484975
-                  ]
-            },
-            {
-                  "name": "Heroes Memorial Gate",
-                  "text": "A Hősök Emlékkapuja ünnepélyes, monumentális bejáratként szolgál az elesett fülöp-szigeteki katonák előtt tisztelgő nemzeti temetőbe.",
-                  "category": "historical",
-                  "coords": [
-                        121.04508,
-                        14.523006
-                  ]
-            },
-            {
-                  "name": "Colegio San Agustin Theater",
-                  "text": "A Colegio San Agustin Színház egy modern egyetemi előadóterem, amelyet hallgatói színházi produkciókhoz és kulturális összejövetelekhez használnak.",
-                  "category": "cultural",
-                  "coords": [
-                        121.025733,
-                        14.541111
                   ]
             },
             {
@@ -8567,24 +8459,6 @@ image: "/poi-images/ph-bangui-windmills-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Heroes Memorial Gate",
-                  "text": "Poarta Memorială a Eroilor servește ca intrare monumentală solemnă în cimitirul național care onorează soldații filipinezi căzuți.",
-                  "category": "historical",
-                  "coords": [
-                        121.04508,
-                        14.523006
-                  ]
-            },
-            {
-                  "name": "Colegio San Agustin Theater",
-                  "text": "Teatrul Colegio San Agustin este un auditoriu modern din campus, folosit pentru producții teatrale studențești și adunări culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        121.025733,
-                        14.541111
-                  ]
-            },
-            {
                   "name": "Ang Dating Daan - Lokal ng Genesis F1",
                   "text": "Acest capitol de întâlnire local al grupului religios Ang Dating Daan oferă o sală dedicată pentru rugăciune și transmisiuni comunitare.",
                   "category": "religious",
@@ -8854,24 +8728,6 @@ image: "/poi-images/ph-bangui-windmills-landmarks-v2.webp",
                   "coords": [
                         121.060688,
                         14.484975
-                  ]
-            },
-            {
-                  "name": "Heroes Memorial Gate",
-                  "text": "The Heroes Memorial Gate serves as the solemn monumental entrance to the national cemetery honoring fallen Filipino soldiers.",
-                  "category": "historical",
-                  "coords": [
-                        121.04508,
-                        14.523006
-                  ]
-            },
-            {
-                  "name": "Colegio San Agustin Theater",
-                  "text": "The Colegio San Agustin Theater is a modern campus auditorium used for student theatrical productions and cultural assemblies.",
-                  "category": "cultural",
-                  "coords": [
-                        121.025733,
-                        14.541111
                   ]
             },
             {
@@ -10021,15 +9877,6 @@ image: "/poi-images/ph-apo-reef-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Philippine Chinese Anti-Japanese War Memorial Hall",
-                  "text": "Ein Gedenkhallen-Museum, das den philippinisch-chinesischen Widerstand während des Antijapanischen Krieges dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        120.984615,
-                        14.630897
-                  ]
-            },
-            {
                   "name": "LifeChurch Manila",
                   "text": "Eine zeitgenössische Kultstätte für die lokale christliche Gemeinde.",
                   "category": "religious",
@@ -10317,15 +10164,6 @@ image: "/poi-images/ph-apo-reef-landmarks-v2.webp",
                   "coords": [
                         121.005616,
                         14.622475
-                  ]
-            },
-            {
-                  "name": "Philippine Chinese Anti-Japanese War Memorial Hall",
-                  "text": "A Fülöp-szigeteki kínai ellenállást bemutató emlékmúzeum a japánellenes háború idejéből.",
-                  "category": "museum",
-                  "coords": [
-                        120.984615,
-                        14.630897
                   ]
             },
             {
@@ -10619,15 +10457,6 @@ image: "/poi-images/ph-apo-reef-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Philippine Chinese Anti-Japanese War Memorial Hall",
-                  "text": "Un muzeu memorial care prezintă cronica rezistenței chino-filipineze în timpul războiului antijaponez.",
-                  "category": "museum",
-                  "coords": [
-                        120.984615,
-                        14.630897
-                  ]
-            },
-            {
                   "name": "LifeChurch Manila",
                   "text": "Un loc de cult contemporan pentru congregația creștină locală.",
                   "category": "religious",
@@ -10915,15 +10744,6 @@ image: "/poi-images/ph-apo-reef-landmarks-v2.webp",
                   "coords": [
                         121.005616,
                         14.622475
-                  ]
-            },
-            {
-                  "name": "Philippine Chinese Anti-Japanese War Memorial Hall",
-                  "text": "A memorial hall museum chronicling the Philippine Chinese resistance during the Anti-Japanese War.",
-                  "category": "museum",
-                  "coords": [
-                        120.984615,
-                        14.630897
                   ]
             },
             {
@@ -12576,15 +12396,6 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Sevilla Bridge",
-                  "text": "Die Sevilla-Brücke ist ein wichtiger infrastruktureller Übergang, der es Fahrzeugen und Fußgängern ermöglicht, den San Juan River sicher zu überqueren.",
-                  "category": "landmark",
-                  "coords": [
-                        121.026063,
-                        14.594025
-                  ]
-            },
-            {
                   "name": "San Juan Bridge",
                   "text": "Die San Juan Bridge ist eine wichtige Betonbrücke, die das Wasser überspannt und die historischen Viertel entlang des Flusses verbindet.",
                   "category": "landmark",
@@ -12612,39 +12423,12 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Plaza Felipe Calderon",
-                  "text": "Die Plaza Felipe Calderon ist ein schattiger Stadtpark mit einem Denkmal für einen philippinischen Patrioten, der einen entspannenden öffentlichen Raum bietet.",
-                  "category": "park",
-                  "coords": [
-                        121.011974,
-                        14.58146
-                  ]
-            },
-            {
-                  "name": "Museo di Don Bosco",
-                  "text": "Das Museo di Don Bosco stellt religiöse Artefakte und historische Erinnerungsstücke im Zusammenhang mit der pädagogischen Mission der Salesianer aus.",
-                  "category": "museum",
-                  "coords": [
-                        121.025614,
-                        14.590504
-                  ]
-            },
-            {
                   "name": "Presidential Museum and Library",
                   "text": "Dieses im Palastkomplex untergebrachte Museum mit Bibliothek bewahrt das historische Erbe, die Staatsgeschenke und die Dokumente der früheren Präsidenten des Landes.",
                   "category": "museum",
                   "coords": [
                         120.994602,
                         14.59455
-                  ]
-            },
-            {
-                  "name": "Iglesia ni Cristo Museum",
-                  "text": "Das Iglesia ni Cristo Museum verfügt über umfangreiche Galerien, die die Geschichte, das Wachstum und den kulturellen Einfluss dieser Glaubensgemeinschaft dokumentieren.",
-                  "category": "museum",
-                  "coords": [
-                        121.016672,
-                        14.587627
                   ]
             },
             {
@@ -12672,24 +12456,6 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   "coords": [
                         121.02441,
                         14.574658
-                  ]
-            },
-            {
-                  "name": "Samsung Performing Arts Theatre",
-                  "text": "Dieser moderne Theaterkomplex verfügt über einen großen Saal für zeitgenössische darstellende Kunst.",
-                  "category": "cultural",
-                  "coords": [
-                        121.018776,
-                        14.572324
-                  ]
-            },
-            {
-                  "name": "Circuit Makati Open Air Concert Pavillion",
-                  "text": "Dieser Freiluft-Pavillon in einem belebten Viertel beherbergt große Konzerte unter freiem Himmel.",
-                  "category": "cultural",
-                  "coords": [
-                        121.019457,
-                        14.577162
                   ]
             },
             {
@@ -12830,15 +12596,6 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Sevilla Bridge",
-                  "text": "A Sevilla híd egy létfontosságú infrastrukturális átkelő, amely lehetővé teszi a járművek és a gyalogosok számára a San Juan folyón való biztonságos átkelést.",
-                  "category": "landmark",
-                  "coords": [
-                        121.026063,
-                        14.594025
-                  ]
-            },
-            {
                   "name": "San Juan Bridge",
                   "text": "A vízen átívelő San Juan híd egy kulcsfontosságú beton átkelő, amely összeköti a folyó menti történelmi negyedeket.",
                   "category": "landmark",
@@ -12866,39 +12623,12 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Plaza Felipe Calderon",
-                  "text": "A filippínó hazafinak szentelt emlékművel rendelkező Plaza Felipe Calderon egy árnyékos városi park, amely pihentető közösségi teret biztosít.",
-                  "category": "park",
-                  "coords": [
-                        121.011974,
-                        14.58146
-                  ]
-            },
-            {
-                  "name": "Museo di Don Bosco",
-                  "text": "A Museo di Don Bosco a szalézi nevelési küldetéssel kapcsolatos vallási tárgyakat és történelmi emléktárgyakat állít ki.",
-                  "category": "museum",
-                  "coords": [
-                        121.025614,
-                        14.590504
-                  ]
-            },
-            {
                   "name": "Presidential Museum and Library",
                   "text": "A palotakomplexumban található múzeum és könyvtár a nemzet korábbi elnökeinek történelmi örökségét, állami ajándékait és dokumentumait őrzi.",
                   "category": "museum",
                   "coords": [
                         120.994602,
                         14.59455
-                  ]
-            },
-            {
-                  "name": "Iglesia ni Cristo Museum",
-                  "text": "Az Iglesia ni Cristo Múzeum kiterjedt galériákkal rendelkezik, amelyek bemutatják a vallási felekezet történetét, növekedését és kulturális hatását.",
-                  "category": "museum",
-                  "coords": [
-                        121.016672,
-                        14.587627
                   ]
             },
             {
@@ -12926,24 +12656,6 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   "coords": [
                         121.02441,
                         14.574658
-                  ]
-            },
-            {
-                  "name": "Samsung Performing Arts Theatre",
-                  "text": "Ez a modern színházi komplexum egy nagy nézőtérrel rendelkezik a kortárs előadóművészetek számára.",
-                  "category": "cultural",
-                  "coords": [
-                        121.018776,
-                        14.572324
-                  ]
-            },
-            {
-                  "name": "Circuit Makati Open Air Concert Pavillion",
-                  "text": "Egy nyüzsgő negyedben található ez a szabadtéri pavilon, amely nagy szabadtéri koncerteknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        121.019457,
-                        14.577162
                   ]
             },
             {
@@ -13084,15 +12796,6 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Sevilla Bridge",
-                  "text": "Podul Sevilla este o trecere infrastructurală vitală care permite vehiculelor și pietonilor să traverseze în siguranță râul San Juan.",
-                  "category": "landmark",
-                  "coords": [
-                        121.026063,
-                        14.594025
-                  ]
-            },
-            {
                   "name": "San Juan Bridge",
                   "text": "Întinzându-se peste apă, Podul San Juan este o structură cheie de beton care leagă cartierele istorice de-a lungul râului.",
                   "category": "landmark",
@@ -13120,39 +12823,12 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Plaza Felipe Calderon",
-                  "text": "Având un monument dedicat unui patriot filipinez, Plaza Felipe Calderon este un parc municipal umbrit care oferă un spațiu civic relaxant.",
-                  "category": "park",
-                  "coords": [
-                        121.011974,
-                        14.58146
-                  ]
-            },
-            {
-                  "name": "Museo di Don Bosco",
-                  "text": "Museo di Don Bosco expune artefacte religioase și suveniruri istorice legate de misiunea educațională saleziană.",
-                  "category": "museum",
-                  "coords": [
-                        121.025614,
-                        14.590504
-                  ]
-            },
-            {
                   "name": "Presidential Museum and Library",
                   "text": "Găzduit în complexul palatului, acest muzeu și bibliotecă păstrează moștenirea istorică, darurile de stat și documentele foștilor președinți ai națiunii.",
                   "category": "museum",
                   "coords": [
                         120.994602,
                         14.59455
-                  ]
-            },
-            {
-                  "name": "Iglesia ni Cristo Museum",
-                  "text": "Muzeul Iglesia ni Cristo prezintă galerii extinse care detaliază istoria, creșterea și impactul cultural al confesiunii religioase.",
-                  "category": "museum",
-                  "coords": [
-                        121.016672,
-                        14.587627
                   ]
             },
             {
@@ -13180,24 +12856,6 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   "coords": [
                         121.02441,
                         14.574658
-                  ]
-            },
-            {
-                  "name": "Samsung Performing Arts Theatre",
-                  "text": "Acest complex teatral modern dispune de un auditoriu spațios pentru arte spectacolului contemporane.",
-                  "category": "cultural",
-                  "coords": [
-                        121.018776,
-                        14.572324
-                  ]
-            },
-            {
-                  "name": "Circuit Makati Open Air Concert Pavillion",
-                  "text": "Situat într-un cartier vibrant, acest pavilion de teatru în aer liber găzduiește concerte mari.",
-                  "category": "cultural",
-                  "coords": [
-                        121.019457,
-                        14.577162
                   ]
             },
             {
@@ -13338,15 +12996,6 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Sevilla Bridge",
-                  "text": "The Sevilla Bridge is a vital infrastructural crossing that allows vehicles and pedestrians to safely traverse the San Juan River.",
-                  "category": "landmark",
-                  "coords": [
-                        121.026063,
-                        14.594025
-                  ]
-            },
-            {
                   "name": "San Juan Bridge",
                   "text": "Stretching across the water, the San Juan Bridge is a key concrete span that links the historic districts along the river.",
                   "category": "landmark",
@@ -13374,39 +13023,12 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Plaza Felipe Calderon",
-                  "text": "Featuring a monument dedicated to a Filipino patriot, Plaza Felipe Calderon is a shaded municipal park that provides a relaxing civic space.",
-                  "category": "park",
-                  "coords": [
-                        121.011974,
-                        14.58146
-                  ]
-            },
-            {
-                  "name": "Museo di Don Bosco",
-                  "text": "The Museo di Don Bosco exhibits religious artifacts and historical memorabilia related to the Salesian educational mission.",
-                  "category": "museum",
-                  "coords": [
-                        121.025614,
-                        14.590504
-                  ]
-            },
-            {
                   "name": "Presidential Museum and Library",
                   "text": "Housed within the palace complex, this museum and library preserves the historical legacy, state gifts, and documents of the nation's past presidents.",
                   "category": "museum",
                   "coords": [
                         120.994602,
                         14.59455
-                  ]
-            },
-            {
-                  "name": "Iglesia ni Cristo Museum",
-                  "text": "The Iglesia ni Cristo Museum features extensive galleries detailing the history, growth, and cultural impact of the religious denomination.",
-                  "category": "museum",
-                  "coords": [
-                        121.016672,
-                        14.587627
                   ]
             },
             {
@@ -13434,24 +13056,6 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   "coords": [
                         121.02441,
                         14.574658
-                  ]
-            },
-            {
-                  "name": "Samsung Performing Arts Theatre",
-                  "text": "This modern theatre complex features a large auditorium for contemporary performing arts.",
-                  "category": "cultural",
-                  "coords": [
-                        121.018776,
-                        14.572324
-                  ]
-            },
-            {
-                  "name": "Circuit Makati Open Air Concert Pavillion",
-                  "text": "Set within a vibrant district, this open-air pavilion theatre hosts large outdoor concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        121.019457,
-                        14.577162
                   ]
             },
             {
@@ -13664,30 +13268,12 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "J Studio HQ",
-                  "text": "Diese Galerie für zeitgenössische Kunst dient als kreativer Treffpunkt und zeigt kuratierte Ausstellungen sowie Werke lokaler bildender Künstler.",
-                  "category": "museum",
-                  "coords": [
-                        120.991016,
-                        14.440749
-                  ]
-            },
-            {
                   "name": "Battle of Don Galo Monument",
                   "text": "Dieses städtische Denkmal ist eine feierliche Hommage an die lokalen Kämpfer, die in der historischen Schlacht von Don Galo gekämpft haben.",
                   "category": "historical",
                   "coords": [
                         120.991031,
                         14.504938
-                  ]
-            },
-            {
-                  "name": "Merville Amphitheater",
-                  "text": "Dieses terrassenförmig angelegte Freiluft-Amphitheater wurde für Aufführungen und Gemeindetreffen unter freiem Himmel konzipiert und ist ein zentraler Treffpunkt im Viertel Merville.",
-                  "category": "cultural",
-                  "coords": [
-                        121.02139,
-                        14.498773
                   ]
             },
             {
@@ -13889,24 +13475,6 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Lost Eden",
-                  "text": "Diese versteckte Attraktion macht ihrem klangvollen Namen alle Ehre und verfügt über eine üppige, tropische Landschaftsgestaltung, die einen ruhigen Zufluchtsort aus der umliegenden Stadt bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        121.021275,
-                        14.462461
-                  ]
-            },
-            {
-                  "name": "Trade Master Resources Corp",
-                  "text": "Als lokaler interessanter Punkt eingestuft, verfügt diese Unternehmenseinrichtung über eine industrielle Fassade, die ihre Rolle im regionalen Handel und Gewerbe unterstreicht.",
-                  "category": "landmark",
-                  "coords": [
-                        120.991361,
-                        14.448511
-                  ]
-            },
-            {
                   "name": "Shangri-La Resort And Spa",
                   "text": "Diese weitläufige Resort-Attraktion bietet erstklassige Gastfreundschaft und lockt Besucher mit ihren weitläufigen Swimmingpools und luxuriösen Spa-Pavillons an.",
                   "category": "landmark",
@@ -13963,30 +13531,12 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "J Studio HQ",
-                  "text": "Ez a kortárs művészeti galéria kreatív központként működik, ahol helyi képzőművészek alkotásait és kurátori kiállításokat mutatnak be.",
-                  "category": "museum",
-                  "coords": [
-                        120.991016,
-                        14.440749
-                  ]
-            },
-            {
                   "name": "Battle of Don Galo Monument",
                   "text": "Ez a köztéri emlékmű a történelmi Don Galo-i csatában harcoló helyi küzdők előtti ünnepélyes tisztelgés.",
                   "category": "historical",
                   "coords": [
                         120.991031,
                         14.504938
-                  ]
-            },
-            {
-                  "name": "Merville Amphitheater",
-                  "text": "A szabadtéri előadásokra és közösségi összejövetelekre tervezett, teraszos kialakítású amfiteátrum a Merville negyed központi eleme.",
-                  "category": "cultural",
-                  "coords": [
-                        121.02139,
-                        14.498773
                   ]
             },
             {
@@ -14188,24 +13738,6 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Lost Eden",
-                  "text": "A kifejező nevéhez méltó, eldugott látványosság buja, trópusi tájrendezéssel rendelkezik, amely nyugodt menekülést biztosít a környező nyüzsgő városból.",
-                  "category": "landmark",
-                  "coords": [
-                        121.021275,
-                        14.462461
-                  ]
-            },
-            {
-                  "name": "Trade Master Resources Corp",
-                  "text": "A helyi látványosságként besorolt vállalati létesítmény ipari homlokzata a regionális kereskedelemben és áruforgalomban betöltött szerepét jelzi.",
-                  "category": "landmark",
-                  "coords": [
-                        120.991361,
-                        14.448511
-                  ]
-            },
-            {
                   "name": "Shangri-La Resort And Spa",
                   "text": "A csúcsminőségű vendéglátást kínáló, kiterjedt üdülőközpont hatalmas úszómedencéivel és fényűző wellness pavilonjaival vonzza a látogatókat.",
                   "category": "landmark",
@@ -14262,30 +13794,12 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "J Studio HQ",
-                  "text": "Această galerie de artă contemporană servește drept centru creativ, prezentând expoziții curatoriate și lucrări ale artiștilor vizuali locali.",
-                  "category": "museum",
-                  "coords": [
-                        120.991016,
-                        14.440749
-                  ]
-            },
-            {
                   "name": "Battle of Don Galo Monument",
                   "text": "Acest monument civic reprezintă un omagiu solemn adus combatanților locali care au luptat în istorica bătălie de la Don Galo.",
                   "category": "historical",
                   "coords": [
                         120.991031,
                         14.504938
-                  ]
-            },
-            {
-                  "name": "Merville Amphitheater",
-                  "text": "Conceput pentru spectacole în aer liber și adunări comunitare, acest amfiteatru în trepte este un punct central al cartierului Merville.",
-                  "category": "cultural",
-                  "coords": [
-                        121.02139,
-                        14.498773
                   ]
             },
             {
@@ -14487,24 +14001,6 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Lost Eden",
-                  "text": "Ridicându-se la înălțimea numelui său evocator, această atracție retrasă prezintă o amenajare peisagistică tropicală luxuriantă care oferă o evadare senină din orașul înconjurător.",
-                  "category": "landmark",
-                  "coords": [
-                        121.021275,
-                        14.462461
-                  ]
-            },
-            {
-                  "name": "Trade Master Resources Corp",
-                  "text": "Clasificată ca un punct de interes local, această unitate corporativă prezintă o fațadă industrială care marchează rolul său în comerțul și afacerile regionale.",
-                  "category": "landmark",
-                  "coords": [
-                        120.991361,
-                        14.448511
-                  ]
-            },
-            {
                   "name": "Shangri-La Resort And Spa",
                   "text": "Oferind ospitalitate de lux, această atracție extinsă atrage vizitatorii cu piscinele sale mari și pavilioanele spa luxoase.",
                   "category": "landmark",
@@ -14561,30 +14057,12 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "J Studio HQ",
-                  "text": "This contemporary art gallery serves as a creative hub, showcasing curated exhibitions and works by local visual artists.",
-                  "category": "museum",
-                  "coords": [
-                        120.991016,
-                        14.440749
-                  ]
-            },
-            {
                   "name": "Battle of Don Galo Monument",
                   "text": "This civic monument stands as a solemn tribute to the local combatants who fought in the historic Battle of Don Galo.",
                   "category": "historical",
                   "coords": [
                         120.991031,
                         14.504938
-                  ]
-            },
-            {
-                  "name": "Merville Amphitheater",
-                  "text": "Designed for open-air performances and community gatherings, this tiered outdoor amphitheater is a focal point of the Merville neighborhood.",
-                  "category": "cultural",
-                  "coords": [
-                        121.02139,
-                        14.498773
                   ]
             },
             {
@@ -14786,24 +14264,6 @@ image: "/poi-images/ph-national-library-of-the-philippines-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Lost Eden",
-                  "text": "Living up to its evocative name, this tucked-away attraction features lush, tropical landscaping that provides a serene escape from the surrounding city.",
-                  "category": "landmark",
-                  "coords": [
-                        121.021275,
-                        14.462461
-                  ]
-            },
-            {
-                  "name": "Trade Master Resources Corp",
-                  "text": "Classified as a local point of interest, this corporate facility features an industrial facade marking its role in regional commerce and trade.",
-                  "category": "landmark",
-                  "coords": [
-                        120.991361,
-                        14.448511
-                  ]
-            },
-            {
                   "name": "Shangri-La Resort And Spa",
                   "text": "Offering high-end hospitality, this sprawling resort attraction entices visitors with its expansive swimming pools and luxurious spa pavilions.",
                   "category": "landmark",
@@ -14906,15 +14366,6 @@ image: "/poi-images/ph-las-pinas-bamboo-organ-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Caloocan Cathedral",
-                  "text": "Diese auch als San-Roque-Kathedrale bekannte katholische Hauptkirche verankert die lokale Diözese.",
-                  "category": "religious",
-                  "coords": [
-                        120.97284,
-                        14.651672
-                  ]
-            },
-            {
                   "name": "San Bartolome Parish Church",
                   "text": "Diese während der spanischen Kolonialzeit erbaute Pfarrkirche besticht durch ihre auffällige griechisch-römische Fassade.",
                   "category": "religious",
@@ -14966,15 +14417,6 @@ image: "/poi-images/ph-las-pinas-bamboo-organ-landmarks-v2.webp",
                   "coords": [
                         120.945483,
                         14.707283
-                  ]
-            },
-            {
-                  "name": "Angel Cacnio Art Gallery",
-                  "text": "Dieser Kunstraum präsentiert die meisterhaften Gemälde und Messingskulpturen des renommierten lokalen Künstlers.",
-                  "category": "museum",
-                  "coords": [
-                        120.941066,
-                        14.680287
                   ]
             },
             {
@@ -15232,15 +14674,6 @@ image: "/poi-images/ph-las-pinas-bamboo-organ-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Caloocan Cathedral",
-                  "text": "A San Roque katedrálisként is ismert jelentős katolikus imahely a helyi egyházmegye központja.",
-                  "category": "religious",
-                  "coords": [
-                        120.97284,
-                        14.651672
-                  ]
-            },
-            {
                   "name": "San Bartolome Parish Church",
                   "text": "A spanyol gyarmati korszakban épült plébániatemplom feltűnő görög-római építészeti homlokzattal büszkélkedhet.",
                   "category": "religious",
@@ -15292,15 +14725,6 @@ image: "/poi-images/ph-las-pinas-bamboo-organ-landmarks-v2.webp",
                   "coords": [
                         120.945483,
                         14.707283
-                  ]
-            },
-            {
-                  "name": "Angel Cacnio Art Gallery",
-                  "text": "Ez a dedikált művészeti tér a neves helyi művész mesteri festményeit és sárgaréz szobrait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        120.941066,
-                        14.680287
                   ]
             },
             {
@@ -15558,15 +14982,6 @@ image: "/poi-images/ph-las-pinas-bamboo-organ-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Caloocan Cathedral",
-                  "text": "Cunoscută și sub numele de Catedrala San Roque, acest important lăcaș de cult catolic este centrul diocezei locale.",
-                  "category": "religious",
-                  "coords": [
-                        120.97284,
-                        14.651672
-                  ]
-            },
-            {
                   "name": "San Bartolome Parish Church",
                   "text": "Construită în timpul epocii coloniale spaniole, această biserică parohială prezintă o fațadă arhitecturală greco-romană impresionantă.",
                   "category": "religious",
@@ -15618,15 +15033,6 @@ image: "/poi-images/ph-las-pinas-bamboo-organ-landmarks-v2.webp",
                   "coords": [
                         120.945483,
                         14.707283
-                  ]
-            },
-            {
-                  "name": "Angel Cacnio Art Gallery",
-                  "text": "Acest spațiu de artă dedicat prezintă picturile magistrale și sculpturile din alamă ale renumitului artist local.",
-                  "category": "museum",
-                  "coords": [
-                        120.941066,
-                        14.680287
                   ]
             },
             {
@@ -15884,15 +15290,6 @@ image: "/poi-images/ph-las-pinas-bamboo-organ-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "Caloocan Cathedral",
-                  "text": "Also known as the San Roque Cathedral, this major Catholic place of worship anchors the local diocese.",
-                  "category": "religious",
-                  "coords": [
-                        120.97284,
-                        14.651672
-                  ]
-            },
-            {
                   "name": "San Bartolome Parish Church",
                   "text": "Built during the Spanish colonial era, this parish church features a striking Greco-Roman architectural facade.",
                   "category": "religious",
@@ -15944,15 +15341,6 @@ image: "/poi-images/ph-las-pinas-bamboo-organ-landmarks-v2.webp",
                   "coords": [
                         120.945483,
                         14.707283
-                  ]
-            },
-            {
-                  "name": "Angel Cacnio Art Gallery",
-                  "text": "This dedicated art space showcases the masterful paintings and brass sculptures of the renowned local artist.",
-                  "category": "museum",
-                  "coords": [
-                        120.941066,
-                        14.680287
                   ]
             },
             {
@@ -17642,15 +17030,6 @@ image: "/poi-images/ph-hinagdanan-cave-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "San Sebastian Cathedral",
-                  "text": "Diese Kathedrale in Bacolod aus dem späten 19. Jahrhundert zeichnet sich durch ihre zwei Glockentürme und die aus Korallenstein errichteten Mauern aus.",
-                  "category": "landmark",
-                  "coords": [
-                        122.947153,
-                        10.670346
-                  ]
-            },
-            {
                   "name": "Panaad Park and Stadium",
                   "text": "Dieser als Heimat des Panaad-Festivals bekannte Sportkomplex in Bacolod verfügt über ein Stadion, das von Eukalyptusbäumen beschattet wird.",
                   "category": "park",
@@ -17666,15 +17045,6 @@ image: "/poi-images/ph-hinagdanan-cave-landmarks-v2.webp",
                   "coords": [
                         122.952087,
                         10.676029
-                  ]
-            },
-            {
-                  "name": "Bacolod Evangelical Church",
-                  "text": "Diese markante evangelische Kirche dient der Gemeinde von Bacolod als beständiges Zentrum für protestantische Gottesdienste und Gemeinschaft.",
-                  "category": "religious",
-                  "coords": [
-                        122.943059,
-                        10.665545
                   ]
             },
             {
@@ -17702,24 +17072,6 @@ image: "/poi-images/ph-hinagdanan-cave-landmarks-v2.webp",
                   "coords": [
                         122.920107,
                         10.600491
-                  ]
-            },
-            {
-                  "name": "Pope John Paul II Tower",
-                  "text": "Dieser Gedenkturm, der sich über Bacolod erhebt, verfügt über Aussichtsplattformen und Exponate, die an den historischen Besuch des Papstes im Jahr 1981 erinnern.",
-                  "category": "museum",
-                  "coords": [
-                        122.942415,
-                        10.671892
-                  ]
-            },
-            {
-                  "name": "SMX  Convention Center",
-                  "text": "Dieser moderne Veranstaltungsort in Bacolod beherbergt groß angelegte Theateraufführungen, Messen und Firmenveranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        122.944417,
-                        10.672344
                   ]
             },
             {
@@ -17968,15 +17320,6 @@ image: "/poi-images/ph-hinagdanan-cave-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "San Sebastian Cathedral",
-                  "text": "Ez a 19. század végi Bacolod-i katedrális ikerharangtornyairól és korallkőből épült falairól híres.",
-                  "category": "landmark",
-                  "coords": [
-                        122.947153,
-                        10.670346
-                  ]
-            },
-            {
                   "name": "Panaad Park and Stadium",
                   "text": "A Panaad Fesztivál otthonaként ismert Bacolod-i sportkomplexum egy eukaliptuszfákkal árnyékolt stadiont foglal magában.",
                   "category": "park",
@@ -17992,15 +17335,6 @@ image: "/poi-images/ph-hinagdanan-cave-landmarks-v2.webp",
                   "coords": [
                         122.952087,
                         10.676029
-                  ]
-            },
-            {
-                  "name": "Bacolod Evangelical Church",
-                  "text": "Ez a kiemelkedő evangélikus templom a protestáns istentisztelet és közösségi élet stabil központjaként szolgál Bacolodban.",
-                  "category": "religious",
-                  "coords": [
-                        122.943059,
-                        10.665545
                   ]
             },
             {
@@ -18028,24 +17362,6 @@ image: "/poi-images/ph-hinagdanan-cave-landmarks-v2.webp",
                   "coords": [
                         122.920107,
                         10.600491
-                  ]
-            },
-            {
-                  "name": "Pope John Paul II Tower",
-                  "text": "A Bacolod fölé magasodó emléktorony kilátókkal és a pápa 1981-es történelmi látogatásának emléket állító kiállításokkal rendelkezik.",
-                  "category": "museum",
-                  "coords": [
-                        122.942415,
-                        10.671892
-                  ]
-            },
-            {
-                  "name": "SMX  Convention Center",
-                  "text": "Ez a modern Bacolod-i rendezvényközpont nagyszabású színházi előadásoknak, szakkiállításoknak és céges rendezvényeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        122.944417,
-                        10.672344
                   ]
             },
             {
@@ -18294,15 +17610,6 @@ image: "/poi-images/ph-hinagdanan-cave-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "San Sebastian Cathedral",
-                  "text": "Această catedrală de la sfârșitul secolului al XIX-lea din Bacolod se distinge prin turnurile sale gemene și zidurile construite din piatră de coral.",
-                  "category": "landmark",
-                  "coords": [
-                        122.947153,
-                        10.670346
-                  ]
-            },
-            {
                   "name": "Panaad Park and Stadium",
                   "text": "Cunoscut ca sediul Festivalului Panaad, acest complex sportiv din Bacolod include un stadion umbrit de un baldachin de eucalipți.",
                   "category": "park",
@@ -18318,15 +17625,6 @@ image: "/poi-images/ph-hinagdanan-cave-landmarks-v2.webp",
                   "coords": [
                         122.952087,
                         10.676029
-                  ]
-            },
-            {
-                  "name": "Bacolod Evangelical Church",
-                  "text": "Această biserică evanghelică proeminentă servește comunitatea din Bacolod ca un centru ferm pentru închinarea și părtășia protestantă.",
-                  "category": "religious",
-                  "coords": [
-                        122.943059,
-                        10.665545
                   ]
             },
             {
@@ -18354,24 +17652,6 @@ image: "/poi-images/ph-hinagdanan-cave-landmarks-v2.webp",
                   "coords": [
                         122.920107,
                         10.600491
-                  ]
-            },
-            {
-                  "name": "Pope John Paul II Tower",
-                  "text": "Ridicându-se deasupra Bacolodului, acest turn memorial are punți de observație și expoziții care comemorează vizita istorică a Papei din 1981.",
-                  "category": "museum",
-                  "coords": [
-                        122.942415,
-                        10.671892
-                  ]
-            },
-            {
-                  "name": "SMX  Convention Center",
-                  "text": "Acest loc modern de convenții din Bacolod găzduiește spectacole teatrale la scară largă, expoziții comerciale și evenimente corporative.",
-                  "category": "cultural",
-                  "coords": [
-                        122.944417,
-                        10.672344
                   ]
             },
             {
@@ -18620,15 +17900,6 @@ image: "/poi-images/ph-hinagdanan-cave-landmarks-v2.webp",
                   ]
             },
             {
-                  "name": "San Sebastian Cathedral",
-                  "text": "This late 19th-century cathedral in Bacolod is distinguished by its twin bell towers and walls constructed from coral stone.",
-                  "category": "landmark",
-                  "coords": [
-                        122.947153,
-                        10.670346
-                  ]
-            },
-            {
                   "name": "Panaad Park and Stadium",
                   "text": "Known as the home of the Panaad Festival, this sports complex in Bacolod features a stadium shaded by a canopy of eucalyptus trees.",
                   "category": "park",
@@ -18644,15 +17915,6 @@ image: "/poi-images/ph-hinagdanan-cave-landmarks-v2.webp",
                   "coords": [
                         122.952087,
                         10.676029
-                  ]
-            },
-            {
-                  "name": "Bacolod Evangelical Church",
-                  "text": "This prominent Evangelical church serves the Bacolod community as a steadfast center for Protestant worship and fellowship.",
-                  "category": "religious",
-                  "coords": [
-                        122.943059,
-                        10.665545
                   ]
             },
             {
@@ -18680,24 +17942,6 @@ image: "/poi-images/ph-hinagdanan-cave-landmarks-v2.webp",
                   "coords": [
                         122.920107,
                         10.600491
-                  ]
-            },
-            {
-                  "name": "Pope John Paul II Tower",
-                  "text": "Rising above Bacolod, this memorial tower features observation decks and exhibits commemorating the Pope's historic 1981 visit.",
-                  "category": "museum",
-                  "coords": [
-                        122.942415,
-                        10.671892
-                  ]
-            },
-            {
-                  "name": "SMX  Convention Center",
-                  "text": "This modern convention venue in Bacolod hosts large-scale theatrical performances, trade shows, and corporate events.",
-                  "category": "cultural",
-                  "coords": [
-                        122.944417,
-                        10.672344
                   ]
             },
             {

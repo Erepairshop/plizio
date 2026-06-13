@@ -1474,122 +1474,10 @@ export const poiExtraAngolaCitiesV2: POI[] = [
   },
   {
     id: "lobito-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Cine-Teatro Empérium",
-                  "text": "Historisches Kino-Theater aus den 1930er Jahren im Zentrum von Lobito.",
-                  "category": "cultural",
-                  "coords": [
-                        13.551282,
-                        -12.341747
-                  ]
-            },
-            {
-                  "name": "Colina da Saudade",
-                  "text": "Colina da Saudade bietet einen malerischen Aussichtspunkt auf die Landschaften von Lobito.",
-                  "category": "natural",
-                  "coords": [
-                        13.54449,
-                        -12.347444
-                  ]
-            },
-            {
-                  "name": "Mercado Municipal",
-                  "text": "Ein städtischer Marktbau in Lobito, Angola.",
-                  "category": "landmark",
-                  "coords": [
-                        13.546176,
-                        -12.350317
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cine-Teatro Empérium",
-                  "text": "Történelmi mozi-színház az 1930-as évekből Lobito központjában.",
-                  "category": "cultural",
-                  "coords": [
-                        13.551282,
-                        -12.341747
-                  ]
-            },
-            {
-                  "name": "Colina da Saudade",
-                  "text": "A Colina da Saudade egy festői kilátó, amely a lobitói tájra néz.",
-                  "category": "natural",
-                  "coords": [
-                        13.54449,
-                        -12.347444
-                  ]
-            },
-            {
-                  "name": "Mercado Municipal",
-                  "text": "Egy városi piacépület Lobitóban, Angolában.",
-                  "category": "landmark",
-                  "coords": [
-                        13.546176,
-                        -12.350317
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Cine-Teatro Empérium",
-                  "text": "Cinema-teatru istoric din anii 1930, în centrul orașului Lobito.",
-                  "category": "cultural",
-                  "coords": [
-                        13.551282,
-                        -12.341747
-                  ]
-            },
-            {
-                  "name": "Colina da Saudade",
-                  "text": "Colina da Saudade oferă un punct de belvedere pitoresc cu vedere la peisajele din Lobito.",
-                  "category": "natural",
-                  "coords": [
-                        13.54449,
-                        -12.347444
-                  ]
-            },
-            {
-                  "name": "Mercado Municipal",
-                  "text": "O clădire de piață municipală în Lobito, Angola.",
-                  "category": "landmark",
-                  "coords": [
-                        13.546176,
-                        -12.350317
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cine-Teatro Empérium",
-                  "text": "Historic cinema-theatre from the 1930s in central Lobito.",
-                  "category": "cultural",
-                  "coords": [
-                        13.551282,
-                        -12.341747
-                  ]
-            },
-            {
-                  "name": "Colina da Saudade",
-                  "text": "Colina da Saudade offers a scenic viewpoint overlooking the landscapes of Lobito.",
-                  "category": "natural",
-                  "coords": [
-                        13.54449,
-                        -12.347444
-                  ]
-            },
-            {
-                  "name": "Mercado Municipal",
-                  "text": "A municipal market building in Lobito, Angola.",
-                  "category": "landmark",
-                  "coords": [
-                        13.546176,
-                        -12.350317
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "AO-BGU",
@@ -2584,50 +2472,10 @@ export const poiExtraAngolaCitiesV2: POI[] = [
     }, image: "/poi-images/damba-cities-v2.webp"},
   {
     id: "matala-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Ilha",
-                  "text": "Insel im Fluss Matala, beliebt für Picknicks und Vogelbeobachtung.",
-                  "category": "landmark",
-                  "coords": [
-                        15.047319,
-                        -14.74659
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Ilha",
-                  "text": "Sziget a Matala folyóban, népszerű piknikezésre és madárlesre.",
-                  "category": "landmark",
-                  "coords": [
-                        15.047319,
-                        -14.74659
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Ilha",
-                  "text": "Insulă în râul Matala, populară pentru picnicuri și observarea păsărilor.",
-                  "category": "landmark",
-                  "coords": [
-                        15.047319,
-                        -14.74659
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ilha",
-                  "text": "Island in the Matala River, popular for picnics and birdwatching.",
-                  "category": "landmark",
-                  "coords": [
-                        15.047319,
-                        -14.74659
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "AO-HUI",
@@ -3620,50 +3468,10 @@ export const poiExtraAngolaCitiesV2: POI[] = [
   },
   {
     id: "calandula-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Parque das Quedas",
-                  "text": "Park mit mehreren Wasserfällen, umgeben von tropischer Vegetation.",
-                  "category": "landmark",
-                  "coords": [
-                        15.999299,
-                        -9.074181
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Parque das Quedas",
-                  "text": "Több vízeséssel rendelkező park, trópusi növényzettel körülvéve.",
-                  "category": "landmark",
-                  "coords": [
-                        15.999299,
-                        -9.074181
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Parque das Quedas",
-                  "text": "Parcul cu mai multe cascade, înconjurat de vegetație tropicală.",
-                  "category": "landmark",
-                  "coords": [
-                        15.999299,
-                        -9.074181
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Parque das Quedas",
-                  "text": "Park featuring several waterfalls surrounded by tropical vegetation.",
-                  "category": "landmark",
-                  "coords": [
-                        15.999299,
-                        -9.074181
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "AO-MAL",

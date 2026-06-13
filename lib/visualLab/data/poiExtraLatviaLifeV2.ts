@@ -1428,30 +1428,12 @@ export const latviaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ragaciema sedums",
-                  "text": "Ein Freilichtmuseum mit traditionellen Netzschuppen und Fischereigeschichte.",
-                  "category": "museum",
-                  "coords": [
-                        23.494508,
-                        57.026092
-                  ]
-            },
-            {
                   "name": "Ķemeru liegums",
                   "text": "Ein geschütztes Naturreservat im Gebiet des Ķemeri-Nationalparks.",
                   "category": "natural",
                   "coords": [
                         23.452036,
                         56.982577
-                  ]
-            },
-            {
-                  "name": "Gausās jūdzes Aizraga pludmale",
-                  "text": "Ein ruhiger Sandstrand am Rigaischen Meerbusen, bekannt für seine natürliche Schönheit.",
-                  "category": "recreational",
-                  "coords": [
-                        23.458559,
-                        57.035231
                   ]
             },
             {
@@ -1502,30 +1484,12 @@ export const latviaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ragaciema sedums",
-                  "text": "Szabadtéri múzeum hagyományos hálójavító kunyhókkal és halászati emlékekkel.",
-                  "category": "museum",
-                  "coords": [
-                        23.494508,
-                        57.026092
-                  ]
-            },
-            {
                   "name": "Ķemeru liegums",
                   "text": "Védett természetvédelmi terület a Ķemeri Nemzeti Park területén.",
                   "category": "natural",
                   "coords": [
                         23.452036,
                         56.982577
-                  ]
-            },
-            {
-                  "name": "Gausās jūdzes Aizraga pludmale",
-                  "text": "Csendes homokos strand a Rigai-öböl partján, amely természeti szépségéről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        23.458559,
-                        57.035231
                   ]
             },
             {
@@ -1576,30 +1540,12 @@ export const latviaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ragaciema sedums",
-                  "text": "Un muzeu în aer liber care prezintă colibe tradiționale pentru plase și istoria pescuitului.",
-                  "category": "museum",
-                  "coords": [
-                        23.494508,
-                        57.026092
-                  ]
-            },
-            {
                   "name": "Ķemeru liegums",
                   "text": "O rezervație naturală protejată în zona Parcului Național Ķemeri.",
                   "category": "natural",
                   "coords": [
                         23.452036,
                         56.982577
-                  ]
-            },
-            {
-                  "name": "Gausās jūdzes Aizraga pludmale",
-                  "text": "O plajă liniștită de nisip de-a lungul Golfului Riga, cunoscută pentru frumusețea sa naturală.",
-                  "category": "recreational",
-                  "coords": [
-                        23.458559,
-                        57.035231
                   ]
             },
             {
@@ -1650,30 +1596,12 @@ export const latviaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ragaciema sedums",
-                  "text": "An open-air museum featuring traditional net sheds and fishing history.",
-                  "category": "museum",
-                  "coords": [
-                        23.494508,
-                        57.026092
-                  ]
-            },
-            {
                   "name": "Ķemeru liegums",
                   "text": "A protected nature reserve within the Ķemeri National Park area.",
                   "category": "natural",
                   "coords": [
                         23.452036,
                         56.982577
-                  ]
-            },
-            {
-                  "name": "Gausās jūdzes Aizraga pludmale",
-                  "text": "A quiet sandy beach along the Gulf of Riga, known for its natural beauty.",
-                  "category": "recreational",
-                  "coords": [
-                        23.458559,
-                        57.035231
                   ]
             },
             {
@@ -2137,42 +2065,6 @@ export const latviaLifeV2: POI[] = [
                         25.065342,
                         57.618047
                   ]
-            },
-            {
-                  "name": "Lapurgu pilskalns",
-                  "text": "Eine historische Wallburg im Naturpark Zilaiskalns, die einst Verteidigungszwecken diente.",
-                  "category": "historical",
-                  "coords": [
-                        25.067865,
-                        57.614541
-                  ]
-            },
-            {
-                  "name": "Dikļu kultūras nams",
-                  "text": "Ein lokales Kulturhaus und Theater im Naturpark Zilaiskalns für Veranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        25.096547,
-                        57.597326
-                  ]
-            },
-            {
-                  "name": "Dikļu pils",
-                  "text": "Ein historisches Herrenhaus im Naturpark Zilaiskalns, heute oft als Hotel und Veranstaltungsort genutzt.",
-                  "category": "historical",
-                  "coords": [
-                        25.102593,
-                        57.597853
-                  ]
-            },
-            {
-                  "name": "Budenbroku muiža",
-                  "text": "Ein traditionelles Herrenhaus im Naturpark Zilaiskalns mit regionaler Architektur.",
-                  "category": "historical",
-                  "coords": [
-                        25.078968,
-                        57.613782
-                  ]
             }
       ],
       "hu": [
@@ -2183,42 +2075,6 @@ export const latviaLifeV2: POI[] = [
                   "coords": [
                         25.065342,
                         57.618047
-                  ]
-            },
-            {
-                  "name": "Lapurgu pilskalns",
-                  "text": "Történelmi várhely a Zilaiskalns Természeti Parkban, amely egykor védelmi célokat szolgált.",
-                  "category": "historical",
-                  "coords": [
-                        25.067865,
-                        57.614541
-                  ]
-            },
-            {
-                  "name": "Dikļu kultūras nams",
-                  "text": "Helyi művelődési ház és színház a Zilaiskalns Természeti Park területén.",
-                  "category": "cultural",
-                  "coords": [
-                        25.096547,
-                        57.597326
-                  ]
-            },
-            {
-                  "name": "Dikļu pils",
-                  "text": "Történelmi kastély a Zilaiskalns Természeti Parkban, amely ma gyakran szállodaként és rendezvényhelyszínként üzemel.",
-                  "category": "historical",
-                  "coords": [
-                        25.102593,
-                        57.597853
-                  ]
-            },
-            {
-                  "name": "Budenbroku muiža",
-                  "text": "Hagyományos udvarház a Zilaiskalns Természeti Parkban, a régióra jellemző építészettel.",
-                  "category": "historical",
-                  "coords": [
-                        25.078968,
-                        57.613782
                   ]
             }
       ],
@@ -2231,42 +2087,6 @@ export const latviaLifeV2: POI[] = [
                         25.065342,
                         57.618047
                   ]
-            },
-            {
-                  "name": "Lapurgu pilskalns",
-                  "text": "O cetate istorică în Parcul Natural Zilaiskalns, care a servit odată scopurilor defensive.",
-                  "category": "historical",
-                  "coords": [
-                        25.067865,
-                        57.614541
-                  ]
-            },
-            {
-                  "name": "Dikļu kultūras nams",
-                  "text": "O casă de cultură și teatru local în Parcul Natural Zilaiskalns pentru diverse evenimente.",
-                  "category": "cultural",
-                  "coords": [
-                        25.096547,
-                        57.597326
-                  ]
-            },
-            {
-                  "name": "Dikļu pils",
-                  "text": "Un conac istoric în Parcul Natural Zilaiskalns, folosit astăzi adesea ca hotel și locație pentru evenimente.",
-                  "category": "historical",
-                  "coords": [
-                        25.102593,
-                        57.597853
-                  ]
-            },
-            {
-                  "name": "Budenbroku muiža",
-                  "text": "Un conac tradițional în Parcul Natural Zilaiskalns, reprezentând arhitectura regională.",
-                  "category": "historical",
-                  "coords": [
-                        25.078968,
-                        57.613782
-                  ]
             }
       ],
       "en": [
@@ -2277,42 +2097,6 @@ export const latviaLifeV2: POI[] = [
                   "coords": [
                         25.065342,
                         57.618047
-                  ]
-            },
-            {
-                  "name": "Lapurgu pilskalns",
-                  "text": "A historical hillfort in Zilaiskalns Nature Park that once served defensive purposes.",
-                  "category": "historical",
-                  "coords": [
-                        25.067865,
-                        57.614541
-                  ]
-            },
-            {
-                  "name": "Dikļu kultūras nams",
-                  "text": "A local culture house and theatre in Zilaiskalns Nature Park used for events.",
-                  "category": "cultural",
-                  "coords": [
-                        25.096547,
-                        57.597326
-                  ]
-            },
-            {
-                  "name": "Dikļu pils",
-                  "text": "A historical manor in Zilaiskalns Nature Park, now often used as a hotel and event venue.",
-                  "category": "historical",
-                  "coords": [
-                        25.102593,
-                        57.597853
-                  ]
-            },
-            {
-                  "name": "Budenbroku muiža",
-                  "text": "A traditional manor house in Zilaiskalns Nature Park featuring regional architecture.",
-                  "category": "historical",
-                  "coords": [
-                        25.078968,
-                        57.613782
                   ]
             }
       ]

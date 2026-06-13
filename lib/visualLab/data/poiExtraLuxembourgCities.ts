@@ -69,15 +69,6 @@ export const luxembourgExtraCities: POI[] = [
                   ]
             },
             {
-                  "name": "Château de Septfontaines",
-                  "text": "Ruine einer Burg mit sieben Quellen (Septfontaines bedeutet ‚sieben Brunnen‘).",
-                  "category": "castle",
-                  "coords": [
-                        6.105077,
-                        49.625718
-                  ]
-            },
-            {
                   "name": "Fort Dumoulin",
                   "text": "Eine Festung aus dem 19. Jahrhundert des Luxemburger Befestigungsrings, benannt nach einer ehemaligen Windmühle (Dumoulin = Mühle).",
                   "category": "fortress",
@@ -195,15 +186,6 @@ export const luxembourgExtraCities: POI[] = [
                   ]
             },
             {
-                  "name": "Exaltation-de-la-Sainte-Croix",
-                  "text": "Katholische Kirche im Stadtteil Hamm, geweiht der Kreuzerhöhung.",
-                  "category": "religious",
-                  "coords": [
-                        6.167644,
-                        49.610237
-                  ]
-            },
-            {
                   "name": "Marie Reine de la Paix",
                   "text": "Katholische Kirche im Stadtteil Bonnevoie, geweiht Maria, der Königin des Friedens.",
                   "category": "religious",
@@ -276,33 +258,6 @@ export const luxembourgExtraCities: POI[] = [
                   ]
             },
             {
-                  "name": "Saint-Gengoul",
-                  "text": "Saint-Gengoul ist ein Gotteshaus im Viertel Merl in Luxemburg-Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        6.093344,
-                        49.602573
-                  ]
-            },
-            {
-                  "name": "Saint-Henri",
-                  "text": "Saint-Henri ist eine Kirche im Stadtteil Neudorf von Luxemburg-Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        6.162538,
-                        49.621725
-                  ]
-            },
-            {
-                  "name": "Saint-Hubert",
-                  "text": "Katholische Kirche im Stadtteil Dommeldange, geweiht dem heiligen Hubertus.",
-                  "category": "religious",
-                  "coords": [
-                        6.138333,
-                        49.633972
-                  ]
-            },
-            {
                   "name": "Evangelische Gemeinde deutscher Sprache in Luxemburg",
                   "text": "Evangelische Kirche für die deutschsprachige Gemeinde in Luxemburg (Martin-Luther-Haus).",
                   "category": "religious",
@@ -327,15 +282,6 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.119516,
                         49.61422
-                  ]
-            },
-            {
-                  "name": "Saint-Martin",
-                  "text": "Katholische Kirche im Stadtteil Weimerskirch, geweiht dem heiligen Martin.",
-                  "category": "religious",
-                  "coords": [
-                        6.13509,
-                        49.62784
                   ]
             },
             {
@@ -483,57 +429,12 @@ export const luxembourgExtraCities: POI[] = [
                   ]
             },
             {
-                  "name": "Gipsweieren",
-                  "text": "Ein malerischer See in Luxemburg, ideal für einen ruhigen Spaziergang in der Stadt.",
-                  "category": "natural",
-                  "coords": [
-                        6.09782,
-                        49.657964
-                  ]
-            },
-            {
-                  "name": "Nessesch Weier",
-                  "text": "Ein ruhiger See in Luxemburg, der eine grüne Oase für Erholungssuchende bietet.",
-                  "category": "natural",
-                  "coords": [
-                        6.198045,
-                        49.600505
-                  ]
-            },
-            {
                   "name": "Étang du Centre de l'Oseraie",
                   "text": "Ein schöner kleiner See in Luxemburg, perfekt für Naturbeobachtungen.",
                   "category": "natural",
                   "coords": [
                         6.068476,
                         49.659244
-                  ]
-            },
-            {
-                  "name": "Qanatwasserloch",
-                  "text": "Ein interessanter See in Luxemburg, der sich gut für eine kurze Pause im Freien eignet.",
-                  "category": "natural",
-                  "coords": [
-                        6.148153,
-                        49.665805
-                  ]
-            },
-            {
-                  "name": "Ale Weier",
-                  "text": "Ein lokaler See in Luxemburg, ideal für Entspannung am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        6.200758,
-                        49.601874
-                  ]
-            },
-            {
-                  "name": "Kauffmann Leon",
-                  "text": "Ein beliebter Spielplatz in Luxemburg mit modernen Geräten für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        6.164321,
-                        49.618232
                   ]
             },
             {
@@ -606,15 +507,6 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.109609,
                         49.595149
-                  ]
-            },
-            {
-                  "name": "Ale Wee",
-                  "text": "Ein kleiner Spielplatz in Luxemburg, der für Kinder in der Nähe leicht zugänglich ist.",
-                  "category": "family",
-                  "coords": [
-                        6.160754,
-                        49.621091
                   ]
             },
             {
@@ -708,15 +600,6 @@ export const luxembourgExtraCities: POI[] = [
                   ]
             },
             {
-                  "name": "d'Coque",
-                  "text": "Ein Schwimmbad in Luxembourg City, das zum Schwimmen und Entspannen einlädt.",
-                  "category": "family",
-                  "coords": [
-                        6.151855,
-                        49.623368
-                  ]
-            },
-            {
                   "name": "Fort Wallis",
                   "text": "Ein historischer Teil der ehemaligen Festungswälle von Luxemburg-Stadt.",
                   "category": "fortress",
@@ -797,15 +680,6 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.102746,
                         49.599069
-                  ]
-            },
-            {
-                  "name": "Château de Septfontaines",
-                  "text": "Várrom hét forrással (Septfontaines jelentése ‚hét kút‘).",
-                  "category": "castle",
-                  "coords": [
-                        6.105077,
-                        49.625718
                   ]
             },
             {
@@ -926,15 +800,6 @@ export const luxembourgExtraCities: POI[] = [
                   ]
             },
             {
-                  "name": "Exaltation-de-la-Sainte-Croix",
-                  "text": "Katolikus templom a Hamm negyedben, a Szent Kereszt felmagasztalásának szentelve.",
-                  "category": "religious",
-                  "coords": [
-                        6.167644,
-                        49.610237
-                  ]
-            },
-            {
                   "name": "Marie Reine de la Paix",
                   "text": "Katolikus templom a Bonnevoie negyedben, Máriának, a Béke Királynőjének szentelve.",
                   "category": "religious",
@@ -1007,33 +872,6 @@ export const luxembourgExtraCities: POI[] = [
                   ]
             },
             {
-                  "name": "Saint-Gengoul",
-                  "text": "A Saint-Gengoul egy istentiszteleti hely Luxemburg-Stadt Merl negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        6.093344,
-                        49.602573
-                  ]
-            },
-            {
-                  "name": "Saint-Henri",
-                  "text": "A Saint-Henri egy templom Luxemburg-Stadt Neudorf negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        6.162538,
-                        49.621725
-                  ]
-            },
-            {
-                  "name": "Saint-Hubert",
-                  "text": "Katolikus templom a Dommeldange negyedben, Szent Hubertusznak szentelve.",
-                  "category": "religious",
-                  "coords": [
-                        6.138333,
-                        49.633972
-                  ]
-            },
-            {
                   "name": "Evangelische Gemeinde deutscher Sprache in Luxemburg",
                   "text": "Evangélikus templom a német ajkú közösség számára Luxemburgban (Martin-Luther-Haus).",
                   "category": "religious",
@@ -1058,15 +896,6 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.119516,
                         49.61422
-                  ]
-            },
-            {
-                  "name": "Saint-Martin",
-                  "text": "Katolikus templom a Weimerskirch negyedben, Szent Mártonnak szentelve.",
-                  "category": "religious",
-                  "coords": [
-                        6.13509,
-                        49.62784
                   ]
             },
             {
@@ -1214,57 +1043,12 @@ export const luxembourgExtraCities: POI[] = [
                   ]
             },
             {
-                  "name": "Gipsweieren",
-                  "text": "Festői tó Luxembourg városában, amely ideális egy nyugodt városi sétához.",
-                  "category": "natural",
-                  "coords": [
-                        6.09782,
-                        49.657964
-                  ]
-            },
-            {
-                  "name": "Nessesch Weier",
-                  "text": "Csendes tó Luxembourg városában, amely zöld oázist nyújt a pihenni vágyóknak.",
-                  "category": "natural",
-                  "coords": [
-                        6.198045,
-                        49.600505
-                  ]
-            },
-            {
                   "name": "Étang du Centre de l'Oseraie",
                   "text": "Szép kis tó Luxembourg városában, amely tökéletes természetmegfigyelésre.",
                   "category": "natural",
                   "coords": [
                         6.068476,
                         49.659244
-                  ]
-            },
-            {
-                  "name": "Qanatwasserloch",
-                  "text": "Érdekes tó Luxembourg városában, amely alkalmas egy rövid szabadtéri pihenőre.",
-                  "category": "natural",
-                  "coords": [
-                        6.148153,
-                        49.665805
-                  ]
-            },
-            {
-                  "name": "Ale Weier",
-                  "text": "Helyi tó Luxembourg városában, amely ideális a vízparti pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        6.200758,
-                        49.601874
-                  ]
-            },
-            {
-                  "name": "Kauffmann Leon",
-                  "text": "Népszerű játszótér Luxembourg városában, modern játékokkal a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        6.164321,
-                        49.618232
                   ]
             },
             {
@@ -1337,15 +1121,6 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.109609,
                         49.595149
-                  ]
-            },
-            {
-                  "name": "Ale Wee",
-                  "text": "Kisebb játszótér Luxembourg városában, amely könnyen elérhető a közelben lakó gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        6.160754,
-                        49.621091
                   ]
             },
             {
@@ -1439,15 +1214,6 @@ export const luxembourgExtraCities: POI[] = [
                   ]
             },
             {
-                  "name": "d'Coque",
-                  "text": "Úszómedence Luxembourg City területén, amely úszásra és pihenésre hívogat.",
-                  "category": "family",
-                  "coords": [
-                        6.151855,
-                        49.623368
-                  ]
-            },
-            {
                   "name": "Fort Wallis",
                   "text": "Luxemburg város egykori erődítményeinek történelmi része.",
                   "category": "fortress",
@@ -1528,15 +1294,6 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.102746,
                         49.599069
-                  ]
-            },
-            {
-                  "name": "Château de Septfontaines",
-                  "text": "Ruinele unui castel cu șapte izvoare (Septfontaines înseamnă ‚șapte fântâni‘).",
-                  "category": "castle",
-                  "coords": [
-                        6.105077,
-                        49.625718
                   ]
             },
             {
@@ -1657,15 +1414,6 @@ export const luxembourgExtraCities: POI[] = [
                   ]
             },
             {
-                  "name": "Exaltation-de-la-Sainte-Croix",
-                  "text": "Biserică catolică în cartierul Hamm, închinată Înălțării Sfintei Cruci.",
-                  "category": "religious",
-                  "coords": [
-                        6.167644,
-                        49.610237
-                  ]
-            },
-            {
                   "name": "Marie Reine de la Paix",
                   "text": "Biserică catolică în cartierul Bonnevoie, închinată Mariei, Regina Păcii.",
                   "category": "religious",
@@ -1738,33 +1486,6 @@ export const luxembourgExtraCities: POI[] = [
                   ]
             },
             {
-                  "name": "Saint-Gengoul",
-                  "text": "Saint-Gengoul este un lăcaș de cult situat în cartierul Merl din Luxemburg-Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        6.093344,
-                        49.602573
-                  ]
-            },
-            {
-                  "name": "Saint-Henri",
-                  "text": "Saint-Henri este o biserică situată în cartierul Neudorf din Luxemburg-Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        6.162538,
-                        49.621725
-                  ]
-            },
-            {
-                  "name": "Saint-Hubert",
-                  "text": "Biserică catolică în cartierul Dommeldange, închinată Sfântului Hubert.",
-                  "category": "religious",
-                  "coords": [
-                        6.138333,
-                        49.633972
-                  ]
-            },
-            {
                   "name": "Evangelische Gemeinde deutscher Sprache in Luxemburg",
                   "text": "Biserică evanghelică pentru comunitatea de limbă germană din Luxemburg (Martin-Luther-Haus).",
                   "category": "religious",
@@ -1789,15 +1510,6 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.119516,
                         49.61422
-                  ]
-            },
-            {
-                  "name": "Saint-Martin",
-                  "text": "Biserică catolică în cartierul Weimerskirch, închinată Sfântului Martin.",
-                  "category": "religious",
-                  "coords": [
-                        6.13509,
-                        49.62784
                   ]
             },
             {
@@ -1945,57 +1657,12 @@ export const luxembourgExtraCities: POI[] = [
                   ]
             },
             {
-                  "name": "Gipsweieren",
-                  "text": "Un lac pitoresc în Luxemburg, ideal pentru o plimbare liniștită în oraș.",
-                  "category": "natural",
-                  "coords": [
-                        6.09782,
-                        49.657964
-                  ]
-            },
-            {
-                  "name": "Nessesch Weier",
-                  "text": "Un lac liniștit în Luxemburg, oferind o oază verde pentru cei care caută relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        6.198045,
-                        49.600505
-                  ]
-            },
-            {
                   "name": "Étang du Centre de l'Oseraie",
                   "text": "Un lac mic și frumos în Luxemburg, perfect pentru observarea naturii.",
                   "category": "natural",
                   "coords": [
                         6.068476,
                         49.659244
-                  ]
-            },
-            {
-                  "name": "Qanatwasserloch",
-                  "text": "Un lac interesant în Luxemburg, potrivit pentru o scurtă pauză în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        6.148153,
-                        49.665805
-                  ]
-            },
-            {
-                  "name": "Ale Weier",
-                  "text": "Un lac local în Luxemburg, ideal pentru relaxare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        6.200758,
-                        49.601874
-                  ]
-            },
-            {
-                  "name": "Kauffmann Leon",
-                  "text": "Un loc de joacă popular în Luxemburg, cu echipamente moderne pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        6.164321,
-                        49.618232
                   ]
             },
             {
@@ -2068,15 +1735,6 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.109609,
                         49.595149
-                  ]
-            },
-            {
-                  "name": "Ale Wee",
-                  "text": "Un mic loc de joacă în Luxemburg, ușor accesibil pentru copiii din apropiere.",
-                  "category": "family",
-                  "coords": [
-                        6.160754,
-                        49.621091
                   ]
             },
             {
@@ -2170,15 +1828,6 @@ export const luxembourgExtraCities: POI[] = [
                   ]
             },
             {
-                  "name": "d'Coque",
-                  "text": "O piscină în Luxembourg City care invită la înot și relaxare.",
-                  "category": "family",
-                  "coords": [
-                        6.151855,
-                        49.623368
-                  ]
-            },
-            {
                   "name": "Fort Wallis",
                   "text": "O secțiune istorică a fostelor ziduri ale cetății din orașul Luxemburg.",
                   "category": "fortress",
@@ -2259,15 +1908,6 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.102746,
                         49.599069
-                  ]
-            },
-            {
-                  "name": "Château de Septfontaines",
-                  "text": "Ruined castle with seven springs (Septfontaines means 'seven fountains').",
-                  "category": "castle",
-                  "coords": [
-                        6.105077,
-                        49.625718
                   ]
             },
             {
@@ -2388,15 +2028,6 @@ export const luxembourgExtraCities: POI[] = [
                   ]
             },
             {
-                  "name": "Exaltation-de-la-Sainte-Croix",
-                  "text": "A Catholic church in the Hamm district dedicated to the Exaltation of the Holy Cross.",
-                  "category": "religious",
-                  "coords": [
-                        6.167644,
-                        49.610237
-                  ]
-            },
-            {
                   "name": "Marie Reine de la Paix",
                   "text": "A Catholic church in Bonnevoie dedicated to Mary, Queen of Peace.",
                   "category": "religious",
@@ -2469,33 +2100,6 @@ export const luxembourgExtraCities: POI[] = [
                   ]
             },
             {
-                  "name": "Saint-Gengoul",
-                  "text": "Saint-Gengoul is a place of worship located in the Merl quarter of Luxemburg-Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        6.093344,
-                        49.602573
-                  ]
-            },
-            {
-                  "name": "Saint-Henri",
-                  "text": "Saint-Henri is a prominent church situated in the Neudorf district of Luxemburg-Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        6.162538,
-                        49.621725
-                  ]
-            },
-            {
-                  "name": "Saint-Hubert",
-                  "text": "A Catholic church in Dommeldange dedicated to Saint Hubert.",
-                  "category": "religious",
-                  "coords": [
-                        6.138333,
-                        49.633972
-                  ]
-            },
-            {
                   "name": "Evangelische Gemeinde deutscher Sprache in Luxemburg",
                   "text": "A Protestant church for the German-speaking community in Luxembourg (Martin-Luther House).",
                   "category": "religious",
@@ -2520,15 +2124,6 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.119516,
                         49.61422
-                  ]
-            },
-            {
-                  "name": "Saint-Martin",
-                  "text": "A Catholic church in Weimerskirch dedicated to Saint Martin.",
-                  "category": "religious",
-                  "coords": [
-                        6.13509,
-                        49.62784
                   ]
             },
             {
@@ -2676,57 +2271,12 @@ export const luxembourgExtraCities: POI[] = [
                   ]
             },
             {
-                  "name": "Gipsweieren",
-                  "text": "A scenic lake in Luxembourg City, ideal for a quiet walk in the city.",
-                  "category": "natural",
-                  "coords": [
-                        6.09782,
-                        49.657964
-                  ]
-            },
-            {
-                  "name": "Nessesch Weier",
-                  "text": "A quiet lake in Luxembourg City, offering a green oasis for those seeking relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        6.198045,
-                        49.600505
-                  ]
-            },
-            {
                   "name": "Étang du Centre de l'Oseraie",
                   "text": "A beautiful small lake in Luxembourg City, perfect for nature observation.",
                   "category": "natural",
                   "coords": [
                         6.068476,
                         49.659244
-                  ]
-            },
-            {
-                  "name": "Qanatwasserloch",
-                  "text": "An interesting lake in Luxembourg City, suitable for a short outdoor break.",
-                  "category": "natural",
-                  "coords": [
-                        6.148153,
-                        49.665805
-                  ]
-            },
-            {
-                  "name": "Ale Weier",
-                  "text": "A local lake in Luxembourg City, ideal for relaxing by the water.",
-                  "category": "natural",
-                  "coords": [
-                        6.200758,
-                        49.601874
-                  ]
-            },
-            {
-                  "name": "Kauffmann Leon",
-                  "text": "A popular playground in Luxembourg City with modern equipment for children.",
-                  "category": "family",
-                  "coords": [
-                        6.164321,
-                        49.618232
                   ]
             },
             {
@@ -2799,15 +2349,6 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.109609,
                         49.595149
-                  ]
-            },
-            {
-                  "name": "Ale Wee",
-                  "text": "A small playground in Luxembourg City, easily accessible for children nearby.",
-                  "category": "family",
-                  "coords": [
-                        6.160754,
-                        49.621091
                   ]
             },
             {
@@ -2898,15 +2439,6 @@ export const luxembourgExtraCities: POI[] = [
                   "coords": [
                         6.115185,
                         49.621732
-                  ]
-            },
-            {
-                  "name": "d'Coque",
-                  "text": "A swimming pool in Luxembourg City inviting you to swim and relax.",
-                  "category": "family",
-                  "coords": [
-                        6.151855,
-                        49.623368
                   ]
             },
             {

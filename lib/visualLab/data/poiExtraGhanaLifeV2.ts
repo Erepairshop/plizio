@@ -886,86 +886,10 @@ export const poiExtraGhanaLifeV2: POI[] = [
   },
   {
     id: "koforidua-market-agri-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Department of Parks and Gardens",
-                  "text": "Ein landschaftlich gestaltetes Erholungsgebiet mit Schwerpunkt auf Gartenbauausstellungen in der Nähe des Marktes von Koforidua.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.269198,
-                        6.090625
-                  ]
-            },
-            {
-                  "name": "Centre For National Culture",
-                  "text": "Ein Veranstaltungsort für darstellende Künste, der sich der Erhaltung und Präsentation des traditionellen ghanaischen Erbes in Koforidua widmet.",
-                  "category": "cultural",
-                  "coords": [
-                        -0.251237,
-                        6.079232
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Department of Parks and Gardens",
-                  "text": "Kertészeti bemutatókra fókuszáló parkosított rekreációs terület a Koforidua piac közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.269198,
-                        6.090625
-                  ]
-            },
-            {
-                  "name": "Centre For National Culture",
-                  "text": "Az előadóművészeteknek otthont adó intézmény, amely a hagyományos ghánai örökség megőrzésének és bemutatásának szenteli magát Koforiduában.",
-                  "category": "cultural",
-                  "coords": [
-                        -0.251237,
-                        6.079232
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Department of Parks and Gardens",
-                  "text": "O zonă de recreere amenajată peisagistic, axată pe expoziții horticole, lângă piața Koforidua.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.269198,
-                        6.090625
-                  ]
-            },
-            {
-                  "name": "Centre For National Culture",
-                  "text": "Un spațiu pentru artele spectacolului dedicat conservării și prezentării patrimoniului tradițional ghanez în Koforidua.",
-                  "category": "cultural",
-                  "coords": [
-                        -0.251237,
-                        6.079232
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Department of Parks and Gardens",
-                  "text": "A landscaped recreational area focused on horticultural displays near the Koforidua market.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.269198,
-                        6.090625
-                  ]
-            },
-            {
-                  "name": "Centre For National Culture",
-                  "text": "A performing arts venue dedicated to preserving and showcasing traditional Ghanaian heritage in Koforidua.",
-                  "category": "cultural",
-                  "coords": [
-                        -0.251237,
-                        6.079232
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "agriculture",
     parent: "GH-ER",

@@ -11456,39 +11456,12 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "nyaung-u-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Su-la-ma-ni Pahto",
-                  "text": "Der Sulamani-Tempel ist ein historischer Ruinentempel in Nyaung U, der für sein Ziegelmauerwerk und Fresken bekannt ist.",
-                  "category": "historical",
-                  "coords": [
-                        94.881328,
-                        21.164913
-                  ]
-            },
-            {
-                  "name": "Hti Lo Mi Lo / Htilominlo Temple ထီးလိုမင်းလိုဘုရား",
-                  "text": "Der Htilominlo-Tempel ist ein buddhistischer Tempel in Nyaung U, der für seine kunstvollen Stuckarbeiten bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        94.879302,
-                        21.178574
-                  ]
-            },
-            {
                   "name": "ရွှေစည်းခုံဘုရား",
                   "text": "Die Shwezigon-Pagode ist eine berühmte Sehenswürdigkeit in Nyaung U, in der Reliquien von Buddha aufbewahrt werden sollen.",
                   "category": "landmark",
                   "coords": [
                         94.893887,
                         21.195318
-                  ]
-            },
-            {
-                  "name": "Thanaka Museum",
-                  "text": "Das Thanaka Museum in U zeigt die Herstellung und Geschichte der traditionellen Thanaka-Paste.",
-                  "category": "museum",
-                  "coords": [
-                        94.89907,
-                        21.194527
                   ]
             },
             {
@@ -11588,15 +11561,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
                   "coords": [
                         94.893667,
                         21.18578
-                  ]
-            },
-            {
-                  "name": "Paung Le Hpaya",
-                  "text": "Paung Le Hpaya ist eine historische Ruinenstätte in der Stadt Nyaung U.",
-                  "category": "historical",
-                  "coords": [
-                        94.893008,
-                        21.18971
                   ]
             },
             {
@@ -11800,39 +11764,12 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Su-la-ma-ni Pahto",
-                  "text": "A Sulamani-templom egy történelmi templomrom Nyaung U-ban, amely finom téglamunkájáról és freskóiról ismert.",
-                  "category": "historical",
-                  "coords": [
-                        94.881328,
-                        21.164913
-                  ]
-            },
-            {
-                  "name": "Hti Lo Mi Lo / Htilominlo Temple ထီးလိုမင်းလိုဘုရား",
-                  "text": "A Htilominlo-templom egy jelentős buddhista látványosság Nyaung U-ban, amely kidolgozott stukkóiról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        94.879302,
-                        21.178574
-                  ]
-            },
-            {
                   "name": "ရွှေစည်းခုံဘုရား",
                   "text": "A Shwezigon-pagoda egy híres látványosság Nyaung U-ban, ahol a hagyomány szerint Buddha ereklyéit őrzik.",
                   "category": "landmark",
                   "coords": [
                         94.893887,
                         21.195318
-                  ]
-            },
-            {
-                  "name": "Thanaka Museum",
-                  "text": "Az U-i Thanaka Múzeum bemutatja a hagyományos thanaka paszta készítését és történetét.",
-                  "category": "museum",
-                  "coords": [
-                        94.89907,
-                        21.194527
                   ]
             },
             {
@@ -11932,15 +11869,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
                   "coords": [
                         94.893667,
                         21.18578
-                  ]
-            },
-            {
-                  "name": "Paung Le Hpaya",
-                  "text": "A Paung Le Hpaya egy történelmi romterület Nyaung U városában.",
-                  "category": "historical",
-                  "coords": [
-                        94.893008,
-                        21.18971
                   ]
             },
             {
@@ -12144,39 +12072,12 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Su-la-ma-ni Pahto",
-                  "text": "Templul Sulamani este un templu istoric în ruină din Nyaung U, cunoscut pentru cărămidăria sa fină și fresce.",
-                  "category": "historical",
-                  "coords": [
-                        94.881328,
-                        21.164913
-                  ]
-            },
-            {
-                  "name": "Hti Lo Mi Lo / Htilominlo Temple ထီးလိုမင်းလိုဘုရား",
-                  "text": "Templul Htilominlo este o importantă atracție budistă din Nyaung U, recunoscut pentru mulajele sale elaborate din ipsos.",
-                  "category": "landmark",
-                  "coords": [
-                        94.879302,
-                        21.178574
-                  ]
-            },
-            {
                   "name": "ရွှေစည်းခုံဘုရား",
                   "text": "Pagoda Shwezigon este o atracție renumită din Nyaung U, unde se crede că sunt adăpostite oasele și un dinte al lui Buddha.",
                   "category": "landmark",
                   "coords": [
                         94.893887,
                         21.195318
-                  ]
-            },
-            {
-                  "name": "Thanaka Museum",
-                  "text": "Muzeul Thanaka din U prezintă procesul și istoria pastei tradiționale thanaka.",
-                  "category": "museum",
-                  "coords": [
-                        94.89907,
-                        21.194527
                   ]
             },
             {
@@ -12276,15 +12177,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
                   "coords": [
                         94.893667,
                         21.18578
-                  ]
-            },
-            {
-                  "name": "Paung Le Hpaya",
-                  "text": "Paung Le Hpaya este un sit istoric în ruină situat în orașul Nyaung U.",
-                  "category": "historical",
-                  "coords": [
-                        94.893008,
-                        21.18971
                   ]
             },
             {
@@ -12488,42 +12380,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Sulamani Temple",
-                  "text": "Sulamani Temple is a historic ruined temple in Nyaung U, known for its fine brickwork and frescoes.",
-                  "category": "historical",
-                  "coords": [
-                        94.881328,
-                        21.164913
-                  ]
-            },
-            {
-                  "name": "Htilominio Temple",
-                  "text": "Htilominlo Temple is a major Buddhist temple attraction in Nyaung U, recognized for its elaborate plaster moldings.",
-                  "category": "landmark",
-                  "coords": [
-                        94.879302,
-                        21.178574
-                  ]
-            },
-            {
-                  "name": "Shwezigon Pagoda",
-                  "text": "Shwezigon Pagoda is a renowned attraction in Nyaung U, believed to enshrine a bone and tooth of Gautama Buddha.",
-                  "category": "landmark",
-                  "coords": [
-                        94.893887,
-                        21.195318
-                  ]
-            },
-            {
-                  "name": "Thanaka Museum",
-                  "text": "The Thanaka Museum in U displays the production and history of traditional thanaka paste.",
-                  "category": "museum",
-                  "coords": [
-                        94.89907,
-                        21.194527
-                  ]
-            },
-            {
                   "name": "Oak Kyaung Gyi",
                   "text": "Oak Kyaung Gyi is a large wooden monastery with intricate carvings in U.",
                   "category": "historical",
@@ -12620,15 +12476,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
                   "coords": [
                         94.893667,
                         21.18578
-                  ]
-            },
-            {
-                  "name": "Paung Le Hpaya",
-                  "text": "Paung Le Hpaya is a historic ruined site located in the city of Nyaung U.",
-                  "category": "historical",
-                  "coords": [
-                        94.893008,
-                        21.18971
                   ]
             },
             {
@@ -12860,15 +12707,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
     id: "pyin-oo-lwin-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Candacraig",
-                  "text": "Ein koloniales Herrenhaus aus der britischen Zeit in Pyin Oo Lwin.",
-                  "category": "historical",
-                  "coords": [
-                        96.478222,
-                        22.017934
-                  ]
-            },
-            {
                   "name": "မြိုင်ဟေမာန်",
                   "text": "Ein koloniales Haus mit einem Garten in Pyin Oo Lwin.",
                   "category": "historical",
@@ -12893,15 +12731,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
                   "coords": [
                         96.4778,
                         22.019347
-                  ]
-            },
-            {
-                  "name": "Colonial House",
-                  "text": "Ein koloniales Wohnhaus in Pyin Oo Lwin.",
-                  "category": "landmark",
-                  "coords": [
-                        96.471623,
-                        22.024458
                   ]
             },
             {
@@ -12950,15 +12779,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Governor's Palace",
-                  "text": "Die ehemalige Residenz des britischen Gouverneurs in Pyin Oo Lwin.",
-                  "category": "landmark",
-                  "coords": [
-                        96.457231,
-                        22.01895
-                  ]
-            },
-            {
                   "name": "Hotel Pan Thitsar",
                   "text": "Ein historisches Hotel mit kolonialer Architektur in Pyin Oo Lwin.",
                   "category": "landmark",
@@ -12978,15 +12798,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Candacraig",
-                  "text": "Gyarmati kori kúria Pyin Oo Lwinben, a brit időkből.",
-                  "category": "historical",
-                  "coords": [
-                        96.478222,
-                        22.017934
-                  ]
-            },
             {
                   "name": "မြိုင်ဟေမာန်",
                   "text": "Gyarmati stílusú ház kerttel Pyin Oo Lwinben.",
@@ -13012,15 +12823,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
                   "coords": [
                         96.4778,
                         22.019347
-                  ]
-            },
-            {
-                  "name": "Colonial House",
-                  "text": "Gyarmati stílusú lakóház Pyin Oo Lwinben.",
-                  "category": "landmark",
-                  "coords": [
-                        96.471623,
-                        22.024458
                   ]
             },
             {
@@ -13069,15 +12871,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Governor's Palace",
-                  "text": "A brit kormányzó egykori rezidenciája Pyin Oo Lwinben.",
-                  "category": "landmark",
-                  "coords": [
-                        96.457231,
-                        22.01895
-                  ]
-            },
-            {
                   "name": "Hotel Pan Thitsar",
                   "text": "Történelmi szálloda gyarmati építészettel Pyin Oo Lwinben.",
                   "category": "landmark",
@@ -13097,15 +12890,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Candacraig",
-                  "text": "Un conac colonial din epoca britanică în Pyin Oo Lwin.",
-                  "category": "historical",
-                  "coords": [
-                        96.478222,
-                        22.017934
-                  ]
-            },
             {
                   "name": "မြိုင်ဟေမာန်",
                   "text": "O casă colonială cu grădină în Pyin Oo Lwin.",
@@ -13131,15 +12915,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
                   "coords": [
                         96.4778,
                         22.019347
-                  ]
-            },
-            {
-                  "name": "Colonial House",
-                  "text": "O casă de locuit colonială în Pyin Oo Lwin.",
-                  "category": "landmark",
-                  "coords": [
-                        96.471623,
-                        22.024458
                   ]
             },
             {
@@ -13188,15 +12963,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Governor's Palace",
-                  "text": "Fosta reședință a guvernatorului britanic în Pyin Oo Lwin.",
-                  "category": "landmark",
-                  "coords": [
-                        96.457231,
-                        22.01895
-                  ]
-            },
-            {
                   "name": "Hotel Pan Thitsar",
                   "text": "Un hotel istoric cu arhitectură colonială în Pyin Oo Lwin.",
                   "category": "landmark",
@@ -13216,15 +12982,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Candacraig",
-                  "text": "A colonial-era mansion from the British period in Pyin Oo Lwin.",
-                  "category": "historical",
-                  "coords": [
-                        96.478222,
-                        22.017934
-                  ]
-            },
             {
                   "name": "မြိုင်ဟေမာန်",
                   "text": "A colonial house with a garden in Pyin Oo Lwin.",
@@ -13253,15 +13010,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Colonial House",
-                  "text": "A colonial residence in Pyin Oo Lwin.",
-                  "category": "landmark",
-                  "coords": [
-                        96.471623,
-                        22.024458
-                  ]
-            },
-            {
                   "name": "Independence Monument",
                   "text": "A monument commemorating Myanmar's independence.",
                   "category": "historical",
@@ -13280,15 +13028,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chan Tak",
-                  "text": "A historic building with a clock tower in Pyin Oo Lwin.",
-                  "category": "landmark",
-                  "coords": [
-                        96.477974,
-                        22.021808
-                  ]
-            },
-            {
                   "name": "Purcell Tower",
                   "text": "A clock tower built by the British in Pyin Oo Lwin.",
                   "category": "landmark",
@@ -13304,15 +13043,6 @@ export const poiExtraMyanmarCitiesV2: POI[] = [
                   "coords": [
                         96.461263,
                         22.027549
-                  ]
-            },
-            {
-                  "name": "Governor's Palace",
-                  "text": "The former residence of the British governor in Pyin Oo Lwin.",
-                  "category": "landmark",
-                  "coords": [
-                        96.457231,
-                        22.01895
                   ]
             },
             {

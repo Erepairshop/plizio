@@ -572,15 +572,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
                         -89.113768,
                         13.697322
                   ]
-            },
-            {
-                  "name": "Pinacoteca",
-                  "text": "Die Pinacoteca in San Sebastián Salitrillo präsentiert Ausstellungen bildender Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        -89.153167,
-                        13.71685
-                  ]
             }
       ],
       "hu": [
@@ -600,15 +591,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
                   "coords": [
                         -89.113768,
                         13.697322
-                  ]
-            },
-            {
-                  "name": "Pinacoteca",
-                  "text": "A San Sebastián Salitrillo-i Pinacoteca képzőművészeti kiállításokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -89.153167,
-                        13.71685
                   ]
             }
       ],
@@ -630,15 +612,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
                         -89.113768,
                         13.697322
                   ]
-            },
-            {
-                  "name": "Pinacoteca",
-                  "text": "Pinacoteca din San Sebastián Salitrillo prezintă expoziții de artă plastică.",
-                  "category": "museum",
-                  "coords": [
-                        -89.153167,
-                        13.71685
-                  ]
             }
       ],
       "en": [
@@ -658,15 +631,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
                   "coords": [
                         -89.113768,
                         13.697322
-                  ]
-            },
-            {
-                  "name": "Pinacoteca",
-                  "text": "The Pinacoteca in San Sebastián Salitrillo presents fine art exhibitions.",
-                  "category": "museum",
-                  "coords": [
-                        -89.153167,
-                        13.71685
                   ]
             }
       ]
@@ -1192,15 +1156,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Orden de Malta",
-                  "text": "Ein Denkmal, das dem Souveränen Malteserorden gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        -89.259179,
-                        13.663
-                  ]
-            },
-            {
                   "name": "Monumento a Juan Pablo Duarte y Díez",
                   "text": "Ein Denkmal zu Ehren des dominikanischen Gründungsvaters Juan Pablo Duarte.",
                   "category": "historical",
@@ -1416,15 +1371,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
                   "coords": [
                         -89.232961,
                         13.701601
-                  ]
-            },
-            {
-                  "name": "Orden de Malta",
-                  "text": "A Szuverén Máltai Lovagrendnek szentelt emlékmű.",
-                  "category": "historical",
-                  "coords": [
-                        -89.259179,
-                        13.663
                   ]
             },
             {
@@ -1646,15 +1592,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Orden de Malta",
-                  "text": "Un monument dedicat Ordinului Suveran de Malta.",
-                  "category": "historical",
-                  "coords": [
-                        -89.259179,
-                        13.663
-                  ]
-            },
-            {
                   "name": "Monumento a Juan Pablo Duarte y Díez",
                   "text": "Un monument în onoarea tatălui fondator dominican Juan Pablo Duarte.",
                   "category": "historical",
@@ -1873,15 +1810,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Orden de Malta",
-                  "text": "A monument dedicated to the Sovereign Military Order of Malta.",
-                  "category": "historical",
-                  "coords": [
-                        -89.259179,
-                        13.663
-                  ]
-            },
-            {
                   "name": "Monumento a Juan Pablo Duarte y Díez",
                   "text": "A monument honoring the Dominican founding father Juan Pablo Duarte.",
                   "category": "historical",
@@ -1959,15 +1887,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     id: "armenien-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
-                  "text": "Ein weitläufiges Biosphärenreservat bei Armenia mit reicher biologischer Vielfalt.",
-                  "category": "natural",
-                  "coords": [
-                        -89.652286,
-                        13.825831
-                  ]
-            },
-            {
                   "name": "Área Natural Protegida Complejo San Marcelino (Porción La Presa)",
                   "text": "Ein geschützter Naturkomplex in Armenia, der dem Erhalt des lokalen Ökosystems dient.",
                   "category": "natural",
@@ -1996,15 +1915,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
-                  "text": "Kiterjedt bioszféra-rezervátum Armenia közelében, gazdag biológiai sokféleséggel.",
-                  "category": "natural",
-                  "coords": [
-                        -89.652286,
-                        13.825831
-                  ]
-            },
             {
                   "name": "Área Natural Protegida Complejo San Marcelino (Porción La Presa)",
                   "text": "Védett természeti komplexum Armenia területén a helyi ökoszisztéma megőrzésére.",
@@ -2035,15 +1945,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
-                  "text": "O vastă rezervație a biosferei lângă Armenia, cu o bogată diversitate biologică.",
-                  "category": "natural",
-                  "coords": [
-                        -89.652286,
-                        13.825831
-                  ]
-            },
-            {
                   "name": "Área Natural Protegida Complejo San Marcelino (Porción La Presa)",
                   "text": "Un complex natural protejat în Armenia pentru conservarea ecosistemului local.",
                   "category": "natural",
@@ -2072,15 +1973,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
-                  "text": "A vast biosphere reserve near Armenia with rich biological diversity.",
-                  "category": "natural",
-                  "coords": [
-                        -89.652286,
-                        13.825831
-                  ]
-            },
             {
                   "name": "Área Natural Protegida Complejo San Marcelino (Porción La Presa)",
                   "text": "A protected natural complex in Armenia dedicated to conserving the local ecosystem.",
@@ -2512,50 +2404,10 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
   },
   {
     id: "jucuapa-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Ausoles La Viejona",
-                  "text": "Ein Gebiet mit geothermischer Aktivität und dampfenden Fumarolen.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.358693,
-                        13.508918
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Ausoles La Viejona",
-                  "text": "Geotermikus aktivitással és gőzölgő fumarolákkal rendelkező terület.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.358693,
-                        13.508918
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Ausoles La Viejona",
-                  "text": "O zonă cu activitate geotermală și fumarole care scot aburi.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.358693,
-                        13.508918
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ausoles La Viejona",
-                  "text": "An area featuring geothermal activity and steaming fumaroles.",
-                  "category": "landmark",
-                  "coords": [
-                        -88.358693,
-                        13.508918
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "SV-US",
@@ -2973,15 +2825,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     id: "apaneca-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
-                  "text": "Ein bedeutendes Biosphärenreservat in Apaneca, bekannt für seine vulkanische Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        -89.652286,
-                        13.825831
-                  ]
-            },
-            {
                   "name": "Apaneca Canopy Tour",
                   "text": "Ein Abenteuerpark in Apaneca, der Ziplining über den Baumwipfeln anbietet.",
                   "category": "landmark",
@@ -2992,15 +2835,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
-                  "text": "Jelentős bioszféra-rezervátum Apanecában, amely vulkanikus tájáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        -89.652286,
-                        13.825831
-                  ]
-            },
             {
                   "name": "Apaneca Canopy Tour",
                   "text": "Kalandpark Apanecában, amely drótkötélpályás siklást kínál a lombok felett.",
@@ -3013,15 +2847,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
-                  "text": "O rezervație importantă a biosferei în Apaneca, cunoscută pentru peisajul său vulcanic.",
-                  "category": "natural",
-                  "coords": [
-                        -89.652286,
-                        13.825831
-                  ]
-            },
-            {
                   "name": "Apaneca Canopy Tour",
                   "text": "Un parc de aventură în Apaneca care oferă trasee de tiroliană peste coronamentul pădurii.",
                   "category": "landmark",
@@ -3032,15 +2857,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
-                  "text": "A major biosphere reserve in Apaneca, known for its volcanic landscape.",
-                  "category": "natural",
-                  "coords": [
-                        -89.652286,
-                        13.825831
-                  ]
-            },
             {
                   "name": "Apaneca Canopy Tour",
                   "text": "An adventure tour in Apaneca offering ziplining experiences above the forest canopy.",
@@ -3102,15 +2918,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
-                  "text": "Ein großes Biosphärenreservat, das für seine Kaffeeplantagen und Vulkane bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        -89.652286,
-                        13.825831
-                  ]
-            },
-            {
                   "name": "Mirador de la Cruz de Ataco",
                   "text": "Ein Aussichtspunkt mit einem großen Kreuz und Panoramablick über die Stadt.",
                   "category": "landmark",
@@ -3146,15 +2953,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
                   "coords": [
                         -89.851182,
                         13.870555
-                  ]
-            },
-            {
-                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
-                  "text": "Nagy bioszféra-rezervátum, amely kávéültetvényeiről és vulkánjairól ismert.",
-                  "category": "natural",
-                  "coords": [
-                        -89.652286,
-                        13.825831
                   ]
             },
             {
@@ -3196,15 +2994,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
-                  "text": "O mare rezervație a biosferei, cunoscută pentru plantațiile de cafea și vulcani.",
-                  "category": "natural",
-                  "coords": [
-                        -89.652286,
-                        13.825831
-                  ]
-            },
-            {
                   "name": "Mirador de la Cruz de Ataco",
                   "text": "Un punct de observație cu o cruce mare și vedere panoramică asupra orașului.",
                   "category": "landmark",
@@ -3240,15 +3029,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
                   "coords": [
                         -89.851182,
                         13.870555
-                  ]
-            },
-            {
-                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
-                  "text": "A large biosphere reserve known for its coffee plantations and volcanoes.",
-                  "category": "natural",
-                  "coords": [
-                        -89.652286,
-                        13.825831
                   ]
             },
             {
@@ -3318,7 +3098,124 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "juayua-cities-v2", "sights": {"de": [{"name": "Germinal Museo de la Imprenta", "text": "Ein spezialisiertes Museum, das die Geschichte der Drucktechnik zeigt.", "category": "museum", "coords": [-89.757869, 13.83016]}, {"name": "Mirador de Juayúa", "text": "Der Mirador de Juayúa bietet einen unvergleichlichen Aussichtspunkt über die malerischen Bergketten der Region. Von diesem Ort in Juayúa aus können Naturbegeisterte das weite Panorama von El Salvador auf sich wirken lassen. Es ist der perfekte Platz, um das grüne Hochland in vollen Zügen zu bewundern.", "category": "natural", "coords": [-89.764212, 13.841611]}, {"name": "La Calera", "text": "Eine natürliche Attraktion, bekannt für ihre Wasserfälle und Badestellen.", "category": "landmark", "coords": [-89.731318, 13.835721]}, {"name": "Feria Gastronomica sàbado y domingo 0800 a 1700", "text": "Ein bekanntes Wochenend-Event, das lokale salvadorianische Spezialitäten anbietet.", "category": "landmark", "coords": [-89.746877, 13.843025]}, {"name": "Parque Esmeralda", "text": "Ein Park, der für seine ruhige Atmosphäre und Aussichtspunkte geschätzt wird.", "category": "natural", "coords": [-89.744394, 13.846279]}], "hu": [{"name": "Germinal Museo de la Imprenta", "text": "A nyomtatási technika történetét bemutató specializált múzeum.", "category": "museum", "coords": [-89.757869, 13.83016]}, {"name": "Mirador de Juayúa", "text": "A Mirador de Juayúa páratlan kilátópontot nyújt a régió festői hegyláncaira. Erről a Juayúában található helyről a természet szerelmesei magukba szívhatják El Salvador széles panorámáját. Tökéletes helyszín a zöldellő felvidék teljes pompájának megcsodálására.", "category": "natural", "coords": [-89.764212, 13.841611]}, {"name": "La Calera", "text": "Természeti látványosság, amely vízeséseiről és fürdőhelyeiről ismert.", "category": "landmark", "coords": [-89.731318, 13.835721]}, {"name": "Feria Gastronomica sàbado y domingo 0800 a 1700", "text": "Ismert hétvégi esemény, amely helyi salvadori különlegességeket kínál.", "category": "landmark", "coords": [-89.746877, 13.843025]}, {"name": "Parque Esmeralda", "text": "Nyugodt légköréről és kilátóiról kedvelt park.", "category": "natural", "coords": [-89.744394, 13.846279]}], "ro": [{"name": "Germinal Museo de la Imprenta", "text": "Un muzeu specializat care prezintă istoria tehnicilor de tipărire.", "category": "museum", "coords": [-89.757869, 13.83016]}, {"name": "Mirador de Juayúa", "text": "Mirador de Juayúa oferă un punct de belvedere incomparabil asupra lanțurilor muntoase pitorești din regiune. Din acest loc din Juayúa, pasionații de natură pot absorbi panorama largă a El Salvadorului. Este locul perfect pentru a admira pe deplin zonele muntoase verzi.", "category": "natural", "coords": [-89.764212, 13.841611]}, {"name": "La Calera", "text": "O atracție naturală cunoscută pentru cascadele și locurile sale de scăldat.", "category": "landmark", "coords": [-89.731318, 13.835721]}, {"name": "Feria Gastronomica sàbado y domingo 0800 a 1700", "text": "Un eveniment de weekend cunoscut care oferă specialități locale salvadoriene.", "category": "landmark", "coords": [-89.746877, 13.843025]}, {"name": "Parque Esmeralda", "text": "Un parc apreciat pentru atmosfera sa liniștită și punctele de observație.", "category": "natural", "coords": [-89.744394, 13.846279]}], "en": [{"name": "Germinal Museo de la Imprenta", "text": "A specialized museum showcasing the history of printing technology.", "category": "museum", "coords": [-89.757869, 13.83016]}, {"name": "Mirador de Juayúa", "text": "The Mirador de Juayúa offers an incomparable viewpoint over the picturesque mountain ranges of the region. From this spot in Juayúa, nature enthusiasts can take in the wide panorama of El Salvador. It is the perfect place to fully admire the green highlands.", "category": "natural", "coords": [-89.764212, 13.841611]}, {"name": "La Calera", "text": "A natural attraction known for its waterfalls and swimming spots.", "category": "landmark", "coords": [-89.731318, 13.835721]}, {"name": "Feria Gastronomica sàbado y domingo 0800 a 1700", "text": "A well-known weekend event offering local Salvadoran specialties.", "category": "landmark", "coords": [-89.746877, 13.843025]}, {"name": "Parque Esmeralda", "text": "A park appreciated for its tranquil atmosphere and viewpoints.", "category": "natural", "coords": [-89.744394, 13.846279]}]},
+    id: "juayua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Calera",
+                  "text": "Eine natürliche Attraktion, bekannt für ihre Wasserfälle und Badestellen.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.731318,
+                        13.835721
+                  ]
+            },
+            {
+                  "name": "Feria Gastronomica sàbado y domingo 0800 a 1700",
+                  "text": "Ein bekanntes Wochenend-Event, das lokale salvadorianische Spezialitäten anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.746877,
+                        13.843025
+                  ]
+            },
+            {
+                  "name": "Parque Esmeralda",
+                  "text": "Ein Park, der für seine ruhige Atmosphäre und Aussichtspunkte geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        -89.744394,
+                        13.846279
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Calera",
+                  "text": "Természeti látványosság, amely vízeséseiről és fürdőhelyeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.731318,
+                        13.835721
+                  ]
+            },
+            {
+                  "name": "Feria Gastronomica sàbado y domingo 0800 a 1700",
+                  "text": "Ismert hétvégi esemény, amely helyi salvadori különlegességeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.746877,
+                        13.843025
+                  ]
+            },
+            {
+                  "name": "Parque Esmeralda",
+                  "text": "Nyugodt légköréről és kilátóiról kedvelt park.",
+                  "category": "natural",
+                  "coords": [
+                        -89.744394,
+                        13.846279
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Calera",
+                  "text": "O atracție naturală cunoscută pentru cascadele și locurile sale de scăldat.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.731318,
+                        13.835721
+                  ]
+            },
+            {
+                  "name": "Feria Gastronomica sàbado y domingo 0800 a 1700",
+                  "text": "Un eveniment de weekend cunoscut care oferă specialități locale salvadoriene.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.746877,
+                        13.843025
+                  ]
+            },
+            {
+                  "name": "Parque Esmeralda",
+                  "text": "Un parc apreciat pentru atmosfera sa liniștită și punctele de observație.",
+                  "category": "natural",
+                  "coords": [
+                        -89.744394,
+                        13.846279
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Calera",
+                  "text": "A natural attraction known for its waterfalls and swimming spots.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.731318,
+                        13.835721
+                  ]
+            },
+            {
+                  "name": "Feria Gastronomica sàbado y domingo 0800 a 1700",
+                  "text": "A well-known weekend event offering local Salvadoran specialties.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.746877,
+                        13.843025
+                  ]
+            },
+            {
+                  "name": "Parque Esmeralda",
+                  "text": "A park appreciated for its tranquil atmosphere and viewpoints.",
+                  "category": "natural",
+                  "coords": [
+                        -89.744394,
+                        13.846279
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SO",
     coords: [-89.75, 13.85],
@@ -3441,7 +3338,88 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "salcoatitan-cities-v2", "sights": {"de": [{"name": "Germinal Museo de la Imprenta", "text": "Ein Museum, das sich der Geschichte des Buchdrucks in El Salvador widmet.", "category": "museum", "coords": [-89.757869, 13.83016]}, {"name": "Reserva de La Biosfera Apaneca-Ilamatepec", "text": "Teil des ökologisch wichtigen Biosphärenreservats in der Region Apaneca.", "category": "natural", "coords": [-89.652286, 13.825831]}, {"name": "Mirador de Juayúa", "text": "In Salcoatitan eröffnet der Mirador de Juayúa einen fantastischen Blick auf die umliegende Kaffee-Region. Dieser natürliche Aussichtspunkt zeigt die landwirtschaftliche Schönheit und die grünen Plantagen der Gegend. Besucher können hier die beeindruckende Weite der salvadorianischen Landschaft fotografisch festhalten.", "category": "natural", "coords": [-89.764212, 13.841611]}, {"name": "Feria Gastronomica sàbado y domingo 0800 a 1700", "text": "Ein Wochenendmarkt, auf dem lokale kulinarische Spezialitäten angeboten werden.", "category": "landmark", "coords": [-89.746877, 13.843025]}, {"name": "Parque Esmeralda", "text": "Eine kleine Parkanlage, die einen friedlichen Blick auf die Umgebung bietet.", "category": "natural", "coords": [-89.744394, 13.846279]}], "hu": [{"name": "Germinal Museo de la Imprenta", "text": "Salvadori nyomdászat történetének szentelt múzeum.", "category": "museum", "coords": [-89.757869, 13.83016]}, {"name": "Reserva de La Biosfera Apaneca-Ilamatepec", "text": "Az ökológiailag jelentős Apaneca régió bioszféra-rezervátumának része.", "category": "natural", "coords": [-89.652286, 13.825831]}, {"name": "Mirador de Juayúa", "text": "Salcoatitanban a Mirador de Juayúa fantasztikus kilátást nyit a környező kávérégióra. Ez a természetes kilátó a vidék mezőgazdasági szépségét és zöldellő ültetvényeit mutatja be. A látogatók itt fényképeken is megörökíthetik a salvadori táj lenyűgöző kiterjedését.", "category": "natural", "coords": [-89.764212, 13.841611]}, {"name": "Feria Gastronomica sàbado y domingo 0800 a 1700", "text": "Hétvégi gasztronómiai vásár helyi ételkülönlegességekkel.", "category": "landmark", "coords": [-89.746877, 13.843025]}, {"name": "Parque Esmeralda", "text": "Kis park, amely békés kilátást nyújt a környezetre.", "category": "natural", "coords": [-89.744394, 13.846279]}], "ro": [{"name": "Germinal Museo de la Imprenta", "text": "Un muzeu dedicat istoriei tiparului în El Salvador.", "category": "museum", "coords": [-89.757869, 13.83016]}, {"name": "Reserva de La Biosfera Apaneca-Ilamatepec", "text": "Parte a rezervației biosferei de importanță ecologică din regiunea Apaneca.", "category": "natural", "coords": [-89.652286, 13.825831]}, {"name": "Mirador de Juayúa", "text": "În Salcoatitan, Mirador de Juayúa deschide o priveliște fantastică asupra regiunii de cafea înconjurătoare. Acest punct de belvedere natural prezintă frumusețea agricolă și plantațiile verzi ale zonei. Vizitatorii pot surprinde aici în fotografii întinderea impresionantă a peisajului salvadorian.", "category": "natural", "coords": [-89.764212, 13.841611]}, {"name": "Feria Gastronomica sàbado y domingo 0800 a 1700", "text": "Un târg gastronomic de weekend care oferă specialități culinare locale.", "category": "landmark", "coords": [-89.746877, 13.843025]}, {"name": "Parque Esmeralda", "text": "Un mic parc care oferă o vedere liniștită asupra împrejurimilor.", "category": "natural", "coords": [-89.744394, 13.846279]}], "en": [{"name": "Germinal Museo de la Imprenta", "text": "A museum dedicated to the history of printing in El Salvador.", "category": "museum", "coords": [-89.757869, 13.83016]}, {"name": "Reserva de La Biosfera Apaneca-Ilamatepec", "text": "Part of the ecologically significant biosphere reserve in the Apaneca region.", "category": "natural", "coords": [-89.652286, 13.825831]}, {"name": "Mirador de Juayúa", "text": "In Salcoatitan, the Mirador de Juayúa opens up a fantastic view of the surrounding coffee region. This natural viewpoint showcases the agricultural beauty and green plantations of the area. Visitors can capture the impressive expanse of the Salvadoran landscape in photographs here.", "category": "natural", "coords": [-89.764212, 13.841611]}, {"name": "Feria Gastronomica sàbado y domingo 0800 a 1700", "text": "A weekend gastronomic fair offering local culinary specialties.", "category": "landmark", "coords": [-89.746877, 13.843025]}, {"name": "Parque Esmeralda", "text": "A small park area offering peaceful views of the surroundings.", "category": "natural", "coords": [-89.744394, 13.846279]}]},
+    id: "salcoatitan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Germinal Museo de la Imprenta",
+                  "text": "Ein Museum, das sich der Geschichte des Buchdrucks in El Salvador widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -89.757869,
+                        13.83016
+                  ]
+            },
+            {
+                  "name": "Mirador de Juayúa",
+                  "text": "In Salcoatitan eröffnet der Mirador de Juayúa einen fantastischen Blick auf die umliegende Kaffee-Region. Dieser natürliche Aussichtspunkt zeigt die landwirtschaftliche Schönheit und die grünen Plantagen der Gegend. Besucher können hier die beeindruckende Weite der salvadorianischen Landschaft fotografisch festhalten.",
+                  "category": "natural",
+                  "coords": [
+                        -89.764212,
+                        13.841611
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Germinal Museo de la Imprenta",
+                  "text": "Salvadori nyomdászat történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -89.757869,
+                        13.83016
+                  ]
+            },
+            {
+                  "name": "Mirador de Juayúa",
+                  "text": "Salcoatitanban a Mirador de Juayúa fantasztikus kilátást nyit a környező kávérégióra. Ez a természetes kilátó a vidék mezőgazdasági szépségét és zöldellő ültetvényeit mutatja be. A látogatók itt fényképeken is megörökíthetik a salvadori táj lenyűgöző kiterjedését.",
+                  "category": "natural",
+                  "coords": [
+                        -89.764212,
+                        13.841611
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Germinal Museo de la Imprenta",
+                  "text": "Un muzeu dedicat istoriei tiparului în El Salvador.",
+                  "category": "museum",
+                  "coords": [
+                        -89.757869,
+                        13.83016
+                  ]
+            },
+            {
+                  "name": "Mirador de Juayúa",
+                  "text": "În Salcoatitan, Mirador de Juayúa deschide o priveliște fantastică asupra regiunii de cafea înconjurătoare. Acest punct de belvedere natural prezintă frumusețea agricolă și plantațiile verzi ale zonei. Vizitatorii pot surprinde aici în fotografii întinderea impresionantă a peisajului salvadorian.",
+                  "category": "natural",
+                  "coords": [
+                        -89.764212,
+                        13.841611
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Germinal Museo de la Imprenta",
+                  "text": "A museum dedicated to the history of printing in El Salvador.",
+                  "category": "museum",
+                  "coords": [
+                        -89.757869,
+                        13.83016
+                  ]
+            },
+            {
+                  "name": "Mirador de Juayúa",
+                  "text": "In Salcoatitan, the Mirador de Juayúa opens up a fantastic view of the surrounding coffee region. This natural viewpoint showcases the agricultural beauty and green plantations of the area. Visitors can capture the impressive expanse of the Salvadoran landscape in photographs here.",
+                  "category": "natural",
+                  "coords": [
+                        -89.764212,
+                        13.841611
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SO",
     coords: [-89.766, 13.833],
@@ -4747,50 +4725,10 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
   },
   {
     id: "santo-domingo-guzman-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
-                  "text": "Ein UNESCO-Biosphärenreservat, das für seine reiche Artenvielfalt bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        -89.652286,
-                        13.825831
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
-                  "text": "UNESCO bioszféra-rezervátum, amely gazdag biológiai sokféleségéről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        -89.652286,
-                        13.825831
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
-                  "text": "O rezervație a biosferei UNESCO cunoscută pentru biodiversitatea sa bogată.",
-                  "category": "natural",
-                  "coords": [
-                        -89.652286,
-                        13.825831
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
-                  "text": "A UNESCO biosphere reserve known for its rich biodiversity.",
-                  "category": "natural",
-                  "coords": [
-                        -89.652286,
-                        13.825831
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "SV-SO",
@@ -5577,15 +5515,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     id: "chinameca-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Área Natural Protegida Volcán de San Miguel (en proceso)",
-                  "text": "Ein Naturschutzprojekt am Vulkan San Miguel zur Erhaltung des Ökosystems.",
-                  "category": "natural",
-                  "coords": [
-                        -88.29418,
-                        13.431383
-                  ]
-            },
-            {
                   "name": "Ausoles La Viejona",
                   "text": "Ein Ort mit geothermischer Aktivität und natürlichen Fumarolen.",
                   "category": "landmark",
@@ -5596,15 +5525,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Área Natural Protegida Volcán de San Miguel (en proceso)",
-                  "text": "Természetvédelmi projekt a San Miguel-vulkánnál az ökoszisztéma megőrzésére.",
-                  "category": "natural",
-                  "coords": [
-                        -88.29418,
-                        13.431383
-                  ]
-            },
             {
                   "name": "Ausoles La Viejona",
                   "text": "Geotermikus aktivitással és természetes fumarolákkal rendelkező hely.",
@@ -5617,15 +5537,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Área Natural Protegida Volcán de San Miguel (en proceso)",
-                  "text": "Un proiect de conservare a naturii la vulcanul San Miguel pentru păstrarea ecosistemului.",
-                  "category": "natural",
-                  "coords": [
-                        -88.29418,
-                        13.431383
-                  ]
-            },
-            {
                   "name": "Ausoles La Viejona",
                   "text": "Un loc cu activitate geotermală și fumarole naturale.",
                   "category": "landmark",
@@ -5636,15 +5547,6 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Área Natural Protegida Volcán de San Miguel (en proceso)",
-                  "text": "A nature conservation project at San Miguel Volcano to preserve the ecosystem.",
-                  "category": "natural",
-                  "coords": [
-                        -88.29418,
-                        13.431383
-                  ]
-            },
             {
                   "name": "Ausoles La Viejona",
                   "text": "A site featuring geothermal activity and natural fumaroles.",

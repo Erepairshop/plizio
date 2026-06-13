@@ -294,15 +294,6 @@ export const finlandLandmarksV2: POI[] = [
     id: "finland-ruovesi-church-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Ruoveden kotiseutumuseo",
-                  "text": "Ein Museum, das die traditionelle Lebensweise und die Kulturgeschichte der Region Ruovesi zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        24.065896,
-                        61.986142
-                  ]
-            },
-            {
                   "name": "Tulivuori",
                   "text": "Ein Naturschutzgebiet in Ruovesi, das ruhige Wege durch die finnische Waldlandschaft bietet.",
                   "category": "natural",
@@ -321,24 +312,6 @@ export const finlandLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seurantalo Sointula",
-                  "text": "Ein historisches Gemeinschaftsgebäude, das für kulturelle Veranstaltungen genutzt wird und die lokale Sozialgeschichte bewahrt.",
-                  "category": "museum",
-                  "coords": [
-                        24.064372,
-                        61.986242
-                  ]
-            },
-            {
-                  "name": "J. L. Runebergin muistomerkki",
-                  "text": "Ein Denkmal für Johan Ludvig Runeberg, den Nationaldichter Finnlands, der in dieser Gegend lebte.",
-                  "category": "historical",
-                  "coords": [
-                        24.074931,
-                        61.985619
-                  ]
-            },
-            {
                   "name": "Runeberginlähde",
                   "text": "Eine historische Quelle in Ruovesi, die mit dem finnischen Nationaldichter J. L. Runeberg in Verbindung steht.",
                   "category": "landmark",
@@ -346,27 +319,9 @@ export const finlandLandmarksV2: POI[] = [
                         24.06629,
                         61.990472
                   ]
-            },
-            {
-                  "name": "Ruoveden kirkon tapuli",
-                  "text": "Der historische hölzerne Glockenturm der Kirche von Ruovesi, erbaut im traditionellen finnischen Stil.",
-                  "category": "tower",
-                  "coords": [
-                        24.076344,
-                        61.985262
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Ruoveden kotiseutumuseo",
-                  "text": "Ruovesi régió hagyományos életmódját és kultúrtörténetét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        24.065896,
-                        61.986142
-                  ]
-            },
             {
                   "name": "Tulivuori",
                   "text": "Természetvédelmi terület Ruovesiben, amely nyugodt ösvényeket kínál a finn erdőkben és tájakon.",
@@ -386,24 +341,6 @@ export const finlandLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seurantalo Sointula",
-                  "text": "Kulturális eseményekre használt történelmi közösségi épület, amely a helyi társadalomtörténetet őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        24.064372,
-                        61.986242
-                  ]
-            },
-            {
-                  "name": "J. L. Runebergin muistomerkki",
-                  "text": "Johan Ludvig Runeberg, Finnország nemzeti költője emlékére állított emlékmű, aki ezen a környéken élt.",
-                  "category": "historical",
-                  "coords": [
-                        24.074931,
-                        61.985619
-                  ]
-            },
-            {
                   "name": "Runeberginlähde",
                   "text": "Ruovesi történelmi forrása, amely a finn nemzeti költőhöz, J. L. Runeberghez köthető.",
                   "category": "landmark",
@@ -411,27 +348,9 @@ export const finlandLandmarksV2: POI[] = [
                         24.06629,
                         61.990472
                   ]
-            },
-            {
-                  "name": "Ruoveden kirkon tapuli",
-                  "text": "A ruovesi templom hagyományos finn stílusban épült történelmi fából készült harangtornya.",
-                  "category": "tower",
-                  "coords": [
-                        24.076344,
-                        61.985262
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Ruoveden kotiseutumuseo",
-                  "text": "Un muzeu care prezintă stilul de viață tradițional și istoria culturală a regiunii Ruovesi.",
-                  "category": "museum",
-                  "coords": [
-                        24.065896,
-                        61.986142
-                  ]
-            },
             {
                   "name": "Tulivuori",
                   "text": "O rezervație naturală din Ruovesi, care oferă trasee liniștite prin pădurile și peisajele naturale finlandeze.",
@@ -451,24 +370,6 @@ export const finlandLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seurantalo Sointula",
-                  "text": "O clădire comunitară istorică utilizată pentru evenimente culturale și pentru păstrarea istoriei sociale locale.",
-                  "category": "museum",
-                  "coords": [
-                        24.064372,
-                        61.986242
-                  ]
-            },
-            {
-                  "name": "J. L. Runebergin muistomerkki",
-                  "text": "Un monument dedicat lui Johan Ludvig Runeberg, poetul național al Finlandei, care a locuit în această zonă.",
-                  "category": "historical",
-                  "coords": [
-                        24.074931,
-                        61.985619
-                  ]
-            },
-            {
                   "name": "Runeberginlähde",
                   "text": "Un izvor istoric din Ruovesi, asociat cu poetul național finlandez J. L. Runeberg.",
                   "category": "landmark",
@@ -476,27 +377,9 @@ export const finlandLandmarksV2: POI[] = [
                         24.06629,
                         61.990472
                   ]
-            },
-            {
-                  "name": "Ruoveden kirkon tapuli",
-                  "text": "Clopotnița istorică din lemn a bisericii din Ruovesi, construită în stil tradițional finlandez.",
-                  "category": "tower",
-                  "coords": [
-                        24.076344,
-                        61.985262
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Ruovesi local history museum",
-                  "text": "A museum showcasing the traditional lifestyle and cultural history of the Ruovesi region.",
-                  "category": "museum",
-                  "coords": [
-                        24.065896,
-                        61.986142
-                  ]
-            },
             {
                   "name": "Tulivuori",
                   "text": "A nature reserve in Ruovesi offering peaceful trails through Finnish woodland and natural landscapes.",
@@ -516,39 +399,12 @@ export const finlandLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seurantalo Sointula",
-                  "text": "A historic community building used for cultural events and preserving local social history.",
-                  "category": "museum",
-                  "coords": [
-                        24.064372,
-                        61.986242
-                  ]
-            },
-            {
-                  "name": "J. L. Runebergin muistomerkki",
-                  "text": "A monument dedicated to Johan Ludvig Runeberg, the national poet of Finland, who lived in the area.",
-                  "category": "historical",
-                  "coords": [
-                        24.074931,
-                        61.985619
-                  ]
-            },
-            {
                   "name": "Runeberginlähde",
                   "text": "A historic spring in Ruovesi associated with the Finnish national poet J. L. Runeberg.",
                   "category": "landmark",
                   "coords": [
                         24.06629,
                         61.990472
-                  ]
-            },
-            {
-                  "name": "Ruoveden kirkon tapuli",
-                  "text": "The historic wooden bell tower of the Ruovesi Church, built in the traditional Finnish style.",
-                  "category": "tower",
-                  "coords": [
-                        24.076344,
-                        61.985262
                   ]
             }
       ]
@@ -4054,86 +3910,10 @@ export const finlandLandmarksV2: POI[] = [
   },
   {
     id: "finland-kesava-church-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Kesälahden kotiseutumuseo",
-                  "text": "Ein Heimatmuseum in Kesälahti, das das lokale Leben und die Geschichte der Region zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        29.831062,
-                        61.886334
-                  ]
-            },
-            {
-                  "name": "Kesälahden kirkko",
-                  "text": "Eine moderne Holzkirche in Kesälahti, die nach dem Brand der alten Kirche in den 1950er Jahren erbaut wurde.",
-                  "category": "religious",
-                  "coords": [
-                        29.839722,
-                        61.886886
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Kesälahden kotiseutumuseo",
-                  "text": "Helytörténeti múzeum Kesälahtiban, amely a helyi életet és a régió történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        29.831062,
-                        61.886334
-                  ]
-            },
-            {
-                  "name": "Kesälahden kirkko",
-                  "text": "Kesälahti modern fatemploma, amely a régi templom leégése után, az 1950-es években épült.",
-                  "category": "religious",
-                  "coords": [
-                        29.839722,
-                        61.886886
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Kesälahden kotiseutumuseo",
-                  "text": "Un muzeu de istorie locală în Kesälahti, prezentând viața și istoria regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        29.831062,
-                        61.886334
-                  ]
-            },
-            {
-                  "name": "Kesälahden kirkko",
-                  "text": "Biserica modernă din lemn din Kesälahti, construită în anii 1950 după ce vechea biserică a ars.",
-                  "category": "religious",
-                  "coords": [
-                        29.839722,
-                        61.886886
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Kesälahden kotiseutumuseo",
-                  "text": "A local history museum in Kesälahti showcasing local life and the region's history.",
-                  "category": "museum",
-                  "coords": [
-                        29.831062,
-                        61.886334
-                  ]
-            },
-            {
-                  "name": "Kesälahden kirkko",
-                  "text": "A modern wooden church in Kesälahti, built in the 1950s after the old church burned down.",
-                  "category": "religious",
-                  "coords": [
-                        29.839722,
-                        61.886886
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "church",
     parent: "FI",
@@ -4893,15 +4673,6 @@ export const finlandLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ragvaldsin museoalue",
-                  "text": "Ein Freilichtmuseum in Kirkkonummi, das das bäuerliche Leben der Vergangenheit zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        24.416965,
-                        60.122982
-                  ]
-            },
-            {
                   "name": "Perämoottorimuseo",
                   "text": "Ein spezialisiertes Museum in Kirkkonummi, das der Geschichte der Außenbordmotoren gewidmet ist.",
                   "category": "museum",
@@ -4929,30 +4700,12 @@ export const finlandLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vaipon luonnonsuojelualue",
-                  "text": "Ein lokales Naturschutzgebiet mit typisch finnischer Flora und Fauna.",
-                  "category": "natural",
-                  "coords": [
-                        24.373443,
-                        60.128482
-                  ]
-            },
-            {
                   "name": "Hemträskets naturskyddsområde",
                   "text": "Ein Naturschutzgebiet in Kirkkonummi, das Moore und Waldgebiete umfasst.",
                   "category": "natural",
                   "coords": [
                         24.480348,
                         60.151293
-                  ]
-            },
-            {
-                  "name": "Volsin lehdot 3 (luonnonsuojelualue)",
-                  "text": "Ein geschütztes Waldgebiet in Kirkkonummi mit ökologischer Bedeutung.",
-                  "category": "natural",
-                  "coords": [
-                        24.391326,
-                        60.150485
                   ]
             }
       ],
@@ -4964,15 +4717,6 @@ export const finlandLandmarksV2: POI[] = [
                   "coords": [
                         24.444921,
                         60.131411
-                  ]
-            },
-            {
-                  "name": "Ragvaldsin museoalue",
-                  "text": "Szabadtéri múzeum Kirkkonummiban, amely a régi paraszti életet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        24.416965,
-                        60.122982
                   ]
             },
             {
@@ -5003,30 +4747,12 @@ export const finlandLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vaipon luonnonsuojelualue",
-                  "text": "Helyi természetvédelmi terület jellegzetes finn flórával és faunával.",
-                  "category": "natural",
-                  "coords": [
-                        24.373443,
-                        60.128482
-                  ]
-            },
-            {
                   "name": "Hemträskets naturskyddsområde",
                   "text": "Természetvédelmi terület Kirkkonummiban, amely lápokat és erdőket foglal magában.",
                   "category": "natural",
                   "coords": [
                         24.480348,
                         60.151293
-                  ]
-            },
-            {
-                  "name": "Volsin lehdot 3 (luonnonsuojelualue)",
-                  "text": "Védett erdős terület Kirkkonummiban, amely ökológiai jelentőséggel bír.",
-                  "category": "natural",
-                  "coords": [
-                        24.391326,
-                        60.150485
                   ]
             }
       ],
@@ -5038,15 +4764,6 @@ export const finlandLandmarksV2: POI[] = [
                   "coords": [
                         24.444921,
                         60.131411
-                  ]
-            },
-            {
-                  "name": "Ragvaldsin museoalue",
-                  "text": "Un muzeu în aer liber în Kirkkonummi care prezintă viața rurală din trecut.",
-                  "category": "museum",
-                  "coords": [
-                        24.416965,
-                        60.122982
                   ]
             },
             {
@@ -5077,30 +4794,12 @@ export const finlandLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vaipon luonnonsuojelualue",
-                  "text": "O rezervație naturală locală cu floră și faună tipic finlandeză.",
-                  "category": "natural",
-                  "coords": [
-                        24.373443,
-                        60.128482
-                  ]
-            },
-            {
                   "name": "Hemträskets naturskyddsområde",
                   "text": "O rezervație naturală în Kirkkonummi care cuprinde mlaștini și zone forestiere.",
                   "category": "natural",
                   "coords": [
                         24.480348,
                         60.151293
-                  ]
-            },
-            {
-                  "name": "Volsin lehdot 3 (luonnonsuojelualue)",
-                  "text": "O zonă forestieră protejată în Kirkkonummi cu importanță ecologică.",
-                  "category": "natural",
-                  "coords": [
-                        24.391326,
-                        60.150485
                   ]
             }
       ],
@@ -5112,15 +4811,6 @@ export const finlandLandmarksV2: POI[] = [
                   "coords": [
                         24.444921,
                         60.131411
-                  ]
-            },
-            {
-                  "name": "Ragvaldsin museoalue",
-                  "text": "An open-air museum in Kirkkonummi showcasing rural life from the past.",
-                  "category": "museum",
-                  "coords": [
-                        24.416965,
-                        60.122982
                   ]
             },
             {
@@ -5151,30 +4841,12 @@ export const finlandLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vaipon luonnonsuojelualue",
-                  "text": "A local nature reserve with typical Finnish flora and fauna.",
-                  "category": "natural",
-                  "coords": [
-                        24.373443,
-                        60.128482
-                  ]
-            },
-            {
                   "name": "Hemträskets naturskyddsområde",
                   "text": "A nature reserve in Kirkkonummi encompassing mires and forest areas.",
                   "category": "natural",
                   "coords": [
                         24.480348,
                         60.151293
-                  ]
-            },
-            {
-                  "name": "Volsin lehdot 3 (luonnonsuojelualue)",
-                  "text": "A protected woodland area in Kirkkonummi with ecological significance.",
-                  "category": "natural",
-                  "coords": [
-                        24.391326,
-                        60.150485
                   ]
             }
       ]

@@ -11415,93 +11415,12 @@ export const poiExtraBrazilLifeV2: POI[] = [
     id: "cidade-das-criancas-kid-landmark-life-v2", "sights": {
       "de": [
             {
-                  "name": "Museu de Santo André Doutor Octaviano Armando Gaiarsa",
-                  "text": "Das 1990 eröffnete Museum in Santo André dokumentiert die lokale Geschichte in einem denkmalgeschützten Gebäude.",
-                  "category": "museum",
-                  "coords": [
-                        -46.523965,
-                        -23.662751
-                  ]
-            },
-            {
-                  "name": "Pinacoteca de São Bernardo do Campo",
-                  "text": "Diese Kunstgalerie in São Bernardo do Campo zeigt bedeutende Werke regionaler und nationaler Künstler.",
-                  "category": "museum",
-                  "coords": [
-                        -46.555223,
-                        -23.687422
-                  ]
-            },
-            {
-                  "name": "Seicho-no-Ie Brasil",
-                  "text": "Das brasilianische Hauptquartier der Seicho-no-Ie-Bewegung, bekannt für seine modernistische religiöse Architektur.",
-                  "category": "religious",
-                  "coords": [
-                        -46.517736,
-                        -23.666059
-                  ]
-            },
-            {
-                  "name": "Sabina Escola Parque do Conhecimento",
-                  "text": "Ein interaktives Wissenschaftszentrum in Santo André mit einem Planetarium und Ausstellungen zur Naturgeschichte.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.531302,
-                        -23.678848
-                  ]
-            },
-            {
-                  "name": "Parque Celso Daniel",
-                  "text": "Ein beliebter Stadtpark in Santo André mit Joggingpfaden, Sportplätzen und einem zentralen See.",
-                  "category": "landmark",
-                  "coords": [
-                        -46.535937,
-                        -23.647389
-                  ]
-            },
-            {
-                  "name": "Cidade da Criança",
-                  "text": "Brasiliens erster Themenpark, der seit den 1960er Jahren Generationen von Kindern in São Bernardo begeistert.",
-                  "category": "recreational",
-                  "coords": [
-                        -46.556295,
-                        -23.687702
-                  ]
-            },
-            {
                   "name": "Prefeitura Municipal de Santo André",
                   "text": "Das Rathaus von Santo André ist Teil eines modernen Verwaltungskomplexes, der von Rino Levi entworfen wurde.",
                   "category": "historical",
                   "coords": [
                         -46.533104,
                         -23.657304
-                  ]
-            },
-            {
-                  "name": "Casa Amarela do Centro Universitário Fundação Santo André",
-                  "text": "Ein markantes gelbes Herrenhaus aus den 1920er Jahren, das heute als historisches Gebäude auf dem Universitätscampus dient.",
-                  "category": "historical",
-                  "coords": [
-                        -46.553588,
-                        -23.660662
-                  ]
-            },
-            {
-                  "name": "Mansão Tognato",
-                  "text": "Diese denkmalgeschützte Residenz aus den 1930er Jahren repräsentiert die Architektur der wohlhabenden Industriellenfamilien.",
-                  "category": "historical",
-                  "coords": [
-                        -46.538867,
-                        -23.64485
-                  ]
-            },
-            {
-                  "name": "Casa do Olhar Luiz Sacilotto",
-                  "text": "Ein städtisches Zentrum in Santo André, das der Förderung und Ausstellung zeitgenössischer visueller Künste gewidmet ist.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.525395,
-                        -23.657448
                   ]
             },
             {
@@ -11550,15 +11469,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Escola",
-                  "text": "Ein ökologischer Park in Santo André, der sich auf Umwelterziehung und nachhaltige Praktiken konzentriert.",
-                  "category": "landmark",
-                  "coords": [
-                        -46.551045,
-                        -23.664743
-                  ]
-            },
-            {
                   "name": "Parque Natural Estoril",
                   "text": "Dieser 2013 eröffnete Naturpark bietet weitläufige Grünflächen und Erholungsraum in São Bernardo do Campo.",
                   "category": "landmark",
@@ -11574,15 +11484,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
                   "coords": [
                         -46.514412,
                         -23.773012
-                  ]
-            },
-            {
-                  "name": "Museu Militar dos Expedicionários do ABCDMRR",
-                  "text": "Dieses Militärmuseum bewahrt Dokumente und Artefakte der brasilianischen Expeditionstruppe aus dem Zweiten Weltkrieg auf.",
-                  "category": "museum",
-                  "coords": [
-                        -46.546092,
-                        -23.660309
                   ]
             },
             {
@@ -11610,78 +11511,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
                   "coords": [
                         -46.532998,
                         -23.710392
-                  ]
-            },
-            {
-                  "name": "Cruzeiro do Baeta",
-                  "text": "Ein traditionelles Kruzifix-Denkmal, das einen markanten religiösen Orientierungspunkt im Viertel Baeta Neves darstellt.",
-                  "category": "historical",
-                  "coords": [
-                        -46.538531,
-                        -23.700339
-                  ]
-            },
-            {
-                  "name": "Antiga Casa da Baronesa",
-                  "text": "Ruinen eines ehemaligen Herrenhauses, das an die koloniale Geschichte und die landwirtschaftliche Vergangenheit der Gegend erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        -46.535155,
-                        -23.695346
-                  ]
-            },
-            {
-                  "name": "Fratemidade Cristã",
-                  "text": "Ein symbolisches Denkmal im öffentlichen Raum, das christliche Brüderlichkeit und Frieden thematisiert.",
-                  "category": "historical",
-                  "coords": [
-                        -46.553201,
-                        -23.694202
-                  ]
-            },
-            {
-                  "name": "Escola Livre de Cinema e Vídeo de Santo André",
-                  "text": "Ein Kulturzentrum in Santo André, das Kurse für Filmproduktion und visuelle Künste anbietet.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.530378,
-                        -23.630368
-                  ]
-            },
-            {
-                  "name": "Graxa Pura",
-                  "text": "Ein lebendiges Kunstzentrum, das auf urbane Kultur, Graffiti und lokale Gemeinschaftsprojekte spezialisiert ist.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.530378,
-                        -23.64017
-                  ]
-            },
-            {
-                  "name": "Escola Nacional de Teatro",
-                  "text": "Eine renommierte Schauspielschule, die praktische Ausbildung in Theaterkunst und Bühnenperformance bietet.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.520259,
-                        -23.665462
-                  ]
-            },
-            {
-                  "name": "Anfiteatro Professor Doutor Milton Borrelli",
-                  "text": "Ein akademisches Amphitheater, das für Vorlesungen, wissenschaftliche Konferenzen und studentische Aufführungen genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.555108,
-                        -23.66115
-                  ]
-            },
-            {
-                  "name": "Teatro Municipal Cacilda Becker",
-                  "text": "Dieses nach der berühmten Schauspielerin benannte Theater ist eine wichtige Bühne für professionelle Tanz- und Dramaproduktionen.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.552127,
-                        -23.695616
                   ]
             },
             {
@@ -11732,93 +11561,12 @@ export const poiExtraBrazilLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Museu de Santo André Doutor Octaviano Armando Gaiarsa",
-                  "text": "Az 1990-ben megnyílt Santo André-i múzeum a helyi történelmet dokumentálja egy műemléki védettségű épületben.",
-                  "category": "museum",
-                  "coords": [
-                        -46.523965,
-                        -23.662751
-                  ]
-            },
-            {
-                  "name": "Pinacoteca de São Bernardo do Campo",
-                  "text": "Ez a São Bernardo do Campo-i képtár regionális és nemzeti művészek jelentős alkotásait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -46.555223,
-                        -23.687422
-                  ]
-            },
-            {
-                  "name": "Seicho-no-Ie Brasil",
-                  "text": "A Seicho-no-Ie mozgalom brazíliai központja, amely modernista vallási építészetéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        -46.517736,
-                        -23.666059
-                  ]
-            },
-            {
-                  "name": "Sabina Escola Parque do Conhecimento",
-                  "text": "Interaktív tudományos központ Santo Andréban, planetáriummal és természetrajzi kiállításokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.531302,
-                        -23.678848
-                  ]
-            },
-            {
-                  "name": "Parque Celso Daniel",
-                  "text": "Népszerű városi park Santo Andréban kocogópályákkal, sportpályákkal és egy központi tóval.",
-                  "category": "landmark",
-                  "coords": [
-                        -46.535937,
-                        -23.647389
-                  ]
-            },
-            {
-                  "name": "Cidade da Criança",
-                  "text": "Brazília első vidámparkja, amely az 1960-as évek óta szórakoztatja a gyerekeket São Bernardóban.",
-                  "category": "recreational",
-                  "coords": [
-                        -46.556295,
-                        -23.687702
-                  ]
-            },
-            {
                   "name": "Prefeitura Municipal de Santo André",
                   "text": "Santo André városháza egy Rino Levi által tervezett modern közigazgatási komplexum része.",
                   "category": "historical",
                   "coords": [
                         -46.533104,
                         -23.657304
-                  ]
-            },
-            {
-                  "name": "Casa Amarela do Centro Universitário Fundação Santo André",
-                  "text": "Jellegzetes sárga udvarház az 1920-as évekből, amely ma történelmi épületként áll az egyetemi kampuszon.",
-                  "category": "historical",
-                  "coords": [
-                        -46.553588,
-                        -23.660662
-                  ]
-            },
-            {
-                  "name": "Mansão Tognato",
-                  "text": "Ez az 1930-as évekből származó, műemléki védettségű rezidencia a gazdag iparoscsaládok építészetét képviseli.",
-                  "category": "historical",
-                  "coords": [
-                        -46.538867,
-                        -23.64485
-                  ]
-            },
-            {
-                  "name": "Casa do Olhar Luiz Sacilotto",
-                  "text": "Városi központ Santo Andréban, amely a kortárs képzőművészet népszerűsítésének és kiállításának szentelt.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.525395,
-                        -23.657448
                   ]
             },
             {
@@ -11867,15 +11615,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Escola",
-                  "text": "Ökológiai park Santo Andréban, amely a környezeti nevelésre és a fenntartható gyakorlatokra összpontosít.",
-                  "category": "landmark",
-                  "coords": [
-                        -46.551045,
-                        -23.664743
-                  ]
-            },
-            {
                   "name": "Parque Natural Estoril",
                   "text": "Ez a 2013-ban megnyitott natúrpark tágas zöldfelületeket és kikapcsolódási lehetőséget kínál São Bernardo do Campóban.",
                   "category": "landmark",
@@ -11891,15 +11630,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
                   "coords": [
                         -46.514412,
                         -23.773012
-                  ]
-            },
-            {
-                  "name": "Museu Militar dos Expedicionários do ABCDMRR",
-                  "text": "Ez a katonai múzeum a második világháborús brazil expedíciós erők dokumentumait és tárgyait őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        -46.546092,
-                        -23.660309
                   ]
             },
             {
@@ -11927,78 +11657,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
                   "coords": [
                         -46.532998,
                         -23.710392
-                  ]
-            },
-            {
-                  "name": "Cruzeiro do Baeta",
-                  "text": "Hagyományos feszület-emlékmű, amely jellegzetes vallási tájékozódási pont a Baeta Neves negyedben.",
-                  "category": "historical",
-                  "coords": [
-                        -46.538531,
-                        -23.700339
-                  ]
-            },
-            {
-                  "name": "Antiga Casa da Baronesa",
-                  "text": "Egy egykori udvarház romjai, amelyek a környék gyarmati történelmére és mezőgazdasági múltjára emlékeztetnek.",
-                  "category": "historical",
-                  "coords": [
-                        -46.535155,
-                        -23.695346
-                  ]
-            },
-            {
-                  "name": "Fratemidade Cristã",
-                  "text": "A közterületen álló szimbolikus emlékmű, amely a keresztény testvériséget és a békét hirdeti.",
-                  "category": "historical",
-                  "coords": [
-                        -46.553201,
-                        -23.694202
-                  ]
-            },
-            {
-                  "name": "Escola Livre de Cinema e Vídeo de Santo André",
-                  "text": "Kulturális központ Santo Andréban, amely filmkészítési és vizuális művészeti képzéseket kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.530378,
-                        -23.630368
-                  ]
-            },
-            {
-                  "name": "Graxa Pura",
-                  "text": "Élénk művészeti központ, amely az utcai művészetre, a graffitire és a helyi közösségi projektekre összpontosít.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.530378,
-                        -23.64017
-                  ]
-            },
-            {
-                  "name": "Escola Nacional de Teatro",
-                  "text": "Neves színiakadémia, amely gyakorlati képzést nyújt a színművészet és a színpadi előadás terén.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.520259,
-                        -23.665462
-                  ]
-            },
-            {
-                  "name": "Anfiteatro Professor Doutor Milton Borrelli",
-                  "text": "Akadémiai amfiteátrum, amelyet előadásokra, tudományos konferenciákra és hallgatói produkciókra használnak.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.555108,
-                        -23.66115
-                  ]
-            },
-            {
-                  "name": "Teatro Municipal Cacilda Becker",
-                  "text": "A híres színésznőről elnevezett színház a professzionális tánc- és drámai produkciók egyik fontos színhelye.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.552127,
-                        -23.695616
                   ]
             },
             {
@@ -12049,93 +11707,12 @@ export const poiExtraBrazilLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Museu de Santo André Doutor Octaviano Armando Gaiarsa",
-                  "text": "Muzeul din Santo André, deschis în 1990, documentează istoria locală într-o clădire protejată ca patrimoniu.",
-                  "category": "museum",
-                  "coords": [
-                        -46.523965,
-                        -23.662751
-                  ]
-            },
-            {
-                  "name": "Pinacoteca de São Bernardo do Campo",
-                  "text": "Această pinacotecă din São Bernardo do Campo expune opere semnificative ale artiștilor regionali și naționali.",
-                  "category": "museum",
-                  "coords": [
-                        -46.555223,
-                        -23.687422
-                  ]
-            },
-            {
-                  "name": "Seicho-no-Ie Brasil",
-                  "text": "Sediul brazilian al mișcării Seicho-no-Ie, cunoscut pentru arhitectura sa religioasă modernistă.",
-                  "category": "religious",
-                  "coords": [
-                        -46.517736,
-                        -23.666059
-                  ]
-            },
-            {
-                  "name": "Sabina Escola Parque do Conhecimento",
-                  "text": "Un centru științific interactiv din Santo André, dotat cu un planetariu și expoziții de istorie naturală.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.531302,
-                        -23.678848
-                  ]
-            },
-            {
-                  "name": "Parque Celso Daniel",
-                  "text": "Un parc urban popular în Santo André, cu trasee de jogging, terenuri de sport și un lac central.",
-                  "category": "landmark",
-                  "coords": [
-                        -46.535937,
-                        -23.647389
-                  ]
-            },
-            {
-                  "name": "Cidade da Criança",
-                  "text": "Primul parc tematic din Brazilia, care încântă generații de copii în São Bernardo încă din anii 1960.",
-                  "category": "recreational",
-                  "coords": [
-                        -46.556295,
-                        -23.687702
-                  ]
-            },
-            {
                   "name": "Prefeitura Municipal de Santo André",
                   "text": "Primăria din Santo André face parte dintr-un complex administrativ modern, proiectat de Rino Levi.",
                   "category": "historical",
                   "coords": [
                         -46.533104,
                         -23.657304
-                  ]
-            },
-            {
-                  "name": "Casa Amarela do Centro Universitário Fundação Santo André",
-                  "text": "Un conac galben distinctiv din anii 1920, care servește astăzi ca clădire istorică în campusul universitar.",
-                  "category": "historical",
-                  "coords": [
-                        -46.553588,
-                        -23.660662
-                  ]
-            },
-            {
-                  "name": "Mansão Tognato",
-                  "text": "Această reședință protejată din anii 1930 reprezintă arhitectura familiilor înstărite de industriași.",
-                  "category": "historical",
-                  "coords": [
-                        -46.538867,
-                        -23.64485
-                  ]
-            },
-            {
-                  "name": "Casa do Olhar Luiz Sacilotto",
-                  "text": "Un centru municipal din Santo André dedicat promovării și expunerii artelor vizuale contemporane.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.525395,
-                        -23.657448
                   ]
             },
             {
@@ -12184,15 +11761,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Escola",
-                  "text": "Un parc ecologic în Santo André, axat pe educația de mediu și practicile sustenabile.",
-                  "category": "landmark",
-                  "coords": [
-                        -46.551045,
-                        -23.664743
-                  ]
-            },
-            {
                   "name": "Parque Natural Estoril",
                   "text": "Deschis în 2013, acest parc natural oferă spații verzi vaste și zone de recreere în São Bernardo do Campo.",
                   "category": "landmark",
@@ -12208,15 +11776,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
                   "coords": [
                         -46.514412,
                         -23.773012
-                  ]
-            },
-            {
-                  "name": "Museu Militar dos Expedicionários do ABCDMRR",
-                  "text": "Acest muzeu militar păstrează documente și artefacte ale Forței Expediționare Braziliene din al Doilea Război Mondial.",
-                  "category": "museum",
-                  "coords": [
-                        -46.546092,
-                        -23.660309
                   ]
             },
             {
@@ -12244,78 +11803,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
                   "coords": [
                         -46.532998,
                         -23.710392
-                  ]
-            },
-            {
-                  "name": "Cruzeiro do Baeta",
-                  "text": "Un monument tradițional tip crucifix, care reprezintă un punct de reper religios distinctiv în cartierul Baeta Neves.",
-                  "category": "historical",
-                  "coords": [
-                        -46.538531,
-                        -23.700339
-                  ]
-            },
-            {
-                  "name": "Antiga Casa da Baronesa",
-                  "text": "Ruinele unui fost conac, care amintesc de istoria colonială și de trecutul agricol al zonei.",
-                  "category": "historical",
-                  "coords": [
-                        -46.535155,
-                        -23.695346
-                  ]
-            },
-            {
-                  "name": "Fratemidade Cristã",
-                  "text": "Un monument simbolic în spațiul public, care promovează fraternitatea creștină și pacea.",
-                  "category": "historical",
-                  "coords": [
-                        -46.553201,
-                        -23.694202
-                  ]
-            },
-            {
-                  "name": "Escola Livre de Cinema e Vídeo de Santo André",
-                  "text": "Un centru cultural din Santo André care oferă cursuri de producție cinematografică și arte vizuale.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.530378,
-                        -23.630368
-                  ]
-            },
-            {
-                  "name": "Graxa Pura",
-                  "text": "Un centru de artă vibrant, specializat pe cultura urbană, graffiti și proiecte comunitare locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.530378,
-                        -23.64017
-                  ]
-            },
-            {
-                  "name": "Escola Nacional de Teatro",
-                  "text": "O școală de teatru de renume, care oferă pregătire practică în arta dramatică și spectacol scenic.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.520259,
-                        -23.665462
-                  ]
-            },
-            {
-                  "name": "Anfiteatro Professor Doutor Milton Borrelli",
-                  "text": "Un amfiteatru academic utilizat pentru prelegeri, conferințe științifice și spectacole studențești.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.555108,
-                        -23.66115
-                  ]
-            },
-            {
-                  "name": "Teatro Municipal Cacilda Becker",
-                  "text": "Acest teatru, numit după celebra actriță, este o scenă importantă pentru producții profesionale de dans și dramă.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.552127,
-                        -23.695616
                   ]
             },
             {
@@ -12366,93 +11853,12 @@ export const poiExtraBrazilLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Museu de Santo André Doutor Octaviano Armando Gaiarsa",
-                  "text": "Opened in 1990, this museum in Santo André documents local history within a heritage-listed building.",
-                  "category": "museum",
-                  "coords": [
-                        -46.523965,
-                        -23.662751
-                  ]
-            },
-            {
-                  "name": "Pinacoteca de São Bernardo do Campo",
-                  "text": "This art gallery in São Bernardo do Campo showcases significant works by regional and national artists.",
-                  "category": "museum",
-                  "coords": [
-                        -46.555223,
-                        -23.687422
-                  ]
-            },
-            {
-                  "name": "Seicho-no-Ie Brasil",
-                  "text": "The Brazilian headquarters of the Seicho-no-Ie movement, known for its modernist religious architecture.",
-                  "category": "religious",
-                  "coords": [
-                        -46.517736,
-                        -23.666059
-                  ]
-            },
-            {
-                  "name": "Sabina Escola Parque do Conhecimento",
-                  "text": "An interactive science center in Santo André featuring a planetarium and natural history exhibits.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.531302,
-                        -23.678848
-                  ]
-            },
-            {
-                  "name": "Parque Celso Daniel",
-                  "text": "A popular urban park in Santo André featuring jogging paths, sports courts, and a central lake.",
-                  "category": "landmark",
-                  "coords": [
-                        -46.535937,
-                        -23.647389
-                  ]
-            },
-            {
-                  "name": "Cidade da Criança",
-                  "text": "Brazil's first theme park, which has been delighting generations of children in São Bernardo since the 1960s.",
-                  "category": "recreational",
-                  "coords": [
-                        -46.556295,
-                        -23.687702
-                  ]
-            },
-            {
                   "name": "Prefeitura Municipal de Santo André",
                   "text": "The Santo André town hall is part of a modern administrative complex designed by Rino Levi.",
                   "category": "historical",
                   "coords": [
                         -46.533104,
                         -23.657304
-                  ]
-            },
-            {
-                  "name": "Casa Amarela do Centro Universitário Fundação Santo André",
-                  "text": "A distinctive yellow manor from the 1920s, now serving as a historic building on the university campus.",
-                  "category": "historical",
-                  "coords": [
-                        -46.553588,
-                        -23.660662
-                  ]
-            },
-            {
-                  "name": "Mansão Tognato",
-                  "text": "This heritage-listed residence from the 1930s represents the architecture of wealthy industrialist families.",
-                  "category": "historical",
-                  "coords": [
-                        -46.538867,
-                        -23.64485
-                  ]
-            },
-            {
-                  "name": "Visual Arts Center",
-                  "text": "A municipal center in Santo André dedicated to the promotion and exhibition of contemporary visual arts.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.525395,
-                        -23.657448
                   ]
             },
             {
@@ -12501,15 +11907,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Escola",
-                  "text": "An ecological park in Santo André focused on environmental education and sustainable practices.",
-                  "category": "landmark",
-                  "coords": [
-                        -46.551045,
-                        -23.664743
-                  ]
-            },
-            {
                   "name": "Parque Natural Estoril",
                   "text": "Opened in 2013, this natural park offers extensive green areas and leisure space in São Bernardo do Campo.",
                   "category": "landmark",
@@ -12525,15 +11922,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
                   "coords": [
                         -46.514412,
                         -23.773012
-                  ]
-            },
-            {
-                  "name": "Museu Militar dos Expedicionários do ABCDMRR",
-                  "text": "This military museum preserves documents and artifacts of the Brazilian Expeditionary Force from World War II.",
-                  "category": "museum",
-                  "coords": [
-                        -46.546092,
-                        -23.660309
                   ]
             },
             {
@@ -12561,78 +11949,6 @@ export const poiExtraBrazilLifeV2: POI[] = [
                   "coords": [
                         -46.532998,
                         -23.710392
-                  ]
-            },
-            {
-                  "name": "Cruzeiro do Baeta",
-                  "text": "A traditional crucifix monument that serves as a prominent religious landmark in the Baeta Neves neighborhood.",
-                  "category": "historical",
-                  "coords": [
-                        -46.538531,
-                        -23.700339
-                  ]
-            },
-            {
-                  "name": "Antiga Casa da Baronesa",
-                  "text": "Ruins of a former manor house reflecting the colonial history and agricultural past of the area.",
-                  "category": "historical",
-                  "coords": [
-                        -46.535155,
-                        -23.695346
-                  ]
-            },
-            {
-                  "name": "Fratemidade Cristã",
-                  "text": "A symbolic monument in the public space promoting Christian brotherhood and peace.",
-                  "category": "historical",
-                  "coords": [
-                        -46.553201,
-                        -23.694202
-                  ]
-            },
-            {
-                  "name": "Escola Livre de Cinema e Vídeo de Santo André",
-                  "text": "A cultural center in Santo André offering courses in film production and visual arts.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.530378,
-                        -23.630368
-                  ]
-            },
-            {
-                  "name": "Graxa Pura",
-                  "text": "A vibrant arts center specialized in urban culture, graffiti, and local community projects.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.530378,
-                        -23.64017
-                  ]
-            },
-            {
-                  "name": "Escola Nacional de Teatro",
-                  "text": "A renowned drama school providing practical training in theatrical arts and stage performance.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.520259,
-                        -23.665462
-                  ]
-            },
-            {
-                  "name": "Anfiteatro Professor Doutor Milton Borrelli",
-                  "text": "An academic amphitheater used for lectures, scientific conferences, and student performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.555108,
-                        -23.66115
-                  ]
-            },
-            {
-                  "name": "Teatro Municipal Cacilda Becker",
-                  "text": "Named after the famous actress, this theater is a key venue for professional dance and drama productions.",
-                  "category": "cultural",
-                  "coords": [
-                        -46.552127,
-                        -23.695616
                   ]
             },
             {

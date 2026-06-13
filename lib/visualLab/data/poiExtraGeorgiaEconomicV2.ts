@@ -468,15 +468,6 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Poti Leuchtturm",
-                  "text": "Dieser 1862 aus England importierte gusseiserne Leuchtturm ist eines der ältesten und markantesten Bauwerke in Poti.",
-                  "category": "landmark",
-                  "coords": [
-                        41.661111,
-                        42.133275
-                  ]
-            },
-            {
                   "name": "ფოთის ვალერიან გუნიას სახელობის სახელმწიფო დრამატული თეატრი",
                   "text": "Ein bedeutendes staatliches Theater in Poti, das nach dem berühmten georgischen Schauspieler und Regisseur Walerian Gunia benannt ist.",
                   "category": "cultural",
@@ -598,53 +589,7 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
                   ]
             }
       ],
-      "en": [
-            {
-                  "name": "Nikoladze Tower",
-                  "text": "The former residence and tower of visionary mayor Niko Nikoladze, who led the modern development of Poti.",
-                  "category": "museum",
-                  "coords": [
-                        41.673694,
-                        42.142067
-                  ]
-            },
-            {
-                  "name": "Poti Lighthouse",
-                  "text": "Imported from England in 1862, this cast-iron lighthouse is one of the oldest and most distinctive structures in Poti.",
-                  "category": "landmark",
-                  "coords": [
-                        41.661111,
-                        42.133275
-                  ]
-            },
-            {
-                  "name": "Poti State Drama Theater named after Valerian Gunia",
-                  "text": "A major state theater in Poti named after the famous Georgian actor and director Valerian Gunia.",
-                  "category": "cultural",
-                  "coords": [
-                        41.675521,
-                        42.14419
-                  ]
-            },
-            {
-                  "name": "Poti Cathedral of the Nativity of the Virgin Mary",
-                  "text": "This Neo-Byzantine cathedral from 1907 was architecturally modeled after the Hagia Sophia in Istanbul.",
-                  "category": "religious",
-                  "coords": [
-                        41.674739,
-                        42.142252
-                  ]
-            },
-            {
-                  "name": "Valerian Gunia Theatre",
-                  "text": "A cultural center in Poti showcasing classical and modern Georgian dramas in a striking building.",
-                  "category": "cultural",
-                  "coords": [
-                        41.674889,
-                        42.139876
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "port",
     parent: "GE-SZ",
@@ -695,24 +640,6 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
   {
     id: "chiatura-manganese-mine-economic-v2", "sights": {
       "de": [
-            {
-                  "name": "Aussichtspunkt Tschiatura",
-                  "text": "Der Aussichtspunkt Tschiatura bietet einen schönen Blick über chiatura-manganese-mine-economic-v2.",
-                  "category": "natural",
-                  "coords": [
-                        43.25425,
-                        42.284495
-                  ]
-            },
-            {
-                  "name": "Soviet Monument",
-                  "text": "Das Soviet Monument ist eine historische Attraktion in chiatura-manganese-mine-economic-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        43.267239,
-                        42.285995
-                  ]
-            },
             {
                   "name": "ხედი ღურღუმელას ტბაზე",
                   "text": "Dieser Aussichtspunkt in chiatura-manganese-mine-economic-v2 bietet einen Blick auf den Ghurghumela-See.",
@@ -1004,24 +931,6 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Aussichtspunkt Tschiatura",
-                  "text": "Az Aussichtspunkt Tschiatura egy kilátópont, amely remek rálátást nyújt chiatura-manganese-mine-economic-v2 területére.",
-                  "category": "natural",
-                  "coords": [
-                        43.25425,
-                        42.284495
-                  ]
-            },
-            {
-                  "name": "Soviet Monument",
-                  "text": "A Soviet Monument egy történelmi emlékmű és látványosság chiatura-manganese-mine-economic-v2 városában.",
-                  "category": "landmark",
-                  "coords": [
-                        43.267239,
-                        42.285995
-                  ]
-            },
-            {
                   "name": "ხედი ღურღუმელას ტბაზე",
                   "text": "Ez a kilátópont remek panorámát kínál a Ghurghumela-tóra chiatura-manganese-mine-economic-v2 területén.",
                   "category": "natural",
@@ -1312,24 +1221,6 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Aussichtspunkt Tschiatura",
-                  "text": "Aussichtspunkt Tschiatura este un punct de belvedere situat în chiatura-manganese-mine-economic-v2.",
-                  "category": "natural",
-                  "coords": [
-                        43.25425,
-                        42.284495
-                  ]
-            },
-            {
-                  "name": "Soviet Monument",
-                  "text": "Soviet Monument este un obiectiv istoric de vizitat din chiatura-manganese-mine-economic-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        43.267239,
-                        42.285995
-                  ]
-            },
-            {
                   "name": "ხედი ღურღუმელას ტბაზე",
                   "text": "Acest punct de belvedere din chiatura-manganese-mine-economic-v2 oferă vedere spre Lacul Ghurghumela.",
                   "category": "natural",
@@ -1619,24 +1510,6 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Aussichtspunkt Tschiatura",
-                  "text": "The Aussichtspunkt Tschiatura is a scenic viewpoint overlooking chiatura-manganese-mine-economic-v2.",
-                  "category": "natural",
-                  "coords": [
-                        43.25425,
-                        42.284495
-                  ]
-            },
-            {
-                  "name": "Soviet Monument",
-                  "text": "The Soviet Monument is an interesting historical attraction in chiatura-manganese-mine-economic-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        43.267239,
-                        42.285995
-                  ]
-            },
             {
                   "name": "ხედი ღურღუმელას ტბაზე",
                   "text": "This viewpoint in chiatura-manganese-mine-economic-v2 provides scenic views of Ghurghumela Lake.",
@@ -5853,15 +5726,6 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Tsotne Dadiani",
-                  "text": "A monument dedicated to the 13th-century Georgian national hero known for his sacrifice to save his countrymen.",
-                  "category": "historical",
-                  "coords": [
-                        41.680373,
-                        42.147428
-                  ]
-            },
-            {
                   "name": "Fishing market",
                   "text": "A vibrant market in Poti where local fishermen offer daily fresh catches from the Black Sea.",
                   "category": "cultural",
@@ -7152,33 +7016,6 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
                   "coords": [
                         44.844702,
                         42.146406
-                  ]
-            },
-            {
-                  "name": "Tsikhisdziri fortress",
-                  "text": "The extensive ruins of the Tsikhisdziri fortress testify to the strategic importance of this pass through the centuries.",
-                  "category": "historical",
-                  "coords": [
-                        44.677266,
-                        42.184088
-                  ]
-            },
-            {
-                  "name": "Ananuri Castle",
-                  "text": "The majestic Ananuri Castle impresses with richly decorated facades and sits directly on the shores of the turquoise Zhinvali reservoir.",
-                  "category": "castle",
-                  "coords": [
-                        44.703071,
-                        42.163761
-                  ]
-            },
-            {
-                  "name": "Ananuri Bridge",
-                  "text": "This modern bridge spans an arm of the Zhinvali reservoir, offering a wide panoramic view of the surrounding mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        44.702164,
-                        42.162177
                   ]
             },
             {
@@ -8883,24 +8720,6 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Panorama view at Mountain Cross",
-                  "text": "Ein hochgelegener Aussichtspunkt mit einem großen Metallkreuz, der die gesamte Borjomi-Schlucht überblickt.",
-                  "category": "natural",
-                  "coords": [
-                        43.378095,
-                        41.846176
-                  ]
-            },
-            {
-                  "name": "Nua fortress remains (almost destroyed)",
-                  "text": "Die Ruinen einer mittelalterlichen Bergfestung, die oberhalb von Bordschomi thronen.",
-                  "category": "castle",
-                  "coords": [
-                        43.379399,
-                        41.847012
-                  ]
-            },
-            {
                   "name": "შოთა რუსთაველის სახელობის კულტურული ცენტრი (Shota Rustaveli Cultural Center)",
                   "text": "Kulturzentrum, das den Künsten und dem Erbe des georgischen Nationaldichters gewidmet ist.",
                   "category": "cultural",
@@ -8916,15 +8735,6 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
                   "coords": [
                         43.391942,
                         41.835955
-                  ]
-            },
-            {
-                  "name": "Sali fortress",
-                  "text": "Die Überreste einer strategischen mittelalterlichen Befestigung, die das Mtkvari-Flusstal bewachte.",
-                  "category": "castle",
-                  "coords": [
-                        43.381617,
-                        41.857005
                   ]
             },
             {
@@ -9128,24 +8938,6 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Panorama view at Mountain Cross",
-                  "text": "Egy magaslati kilátópont egy nagy fémkereszttel, ahonnan az egész Bordzsom-szoros belátható.",
-                  "category": "natural",
-                  "coords": [
-                        43.378095,
-                        41.846176
-                  ]
-            },
-            {
-                  "name": "Nua fortress remains (almost destroyed)",
-                  "text": "Egy középkori hegyi erőd romjai, amelyek Borjomi városa felett magasodnak.",
-                  "category": "castle",
-                  "coords": [
-                        43.379399,
-                        41.847012
-                  ]
-            },
-            {
                   "name": "შოთა რუსთაველის სახელობის კულტურული ცენტრი (Shota Rustaveli Cultural Center)",
                   "text": "A művészeteknek és Grúzia nemzeti költője örökségének szentelt kulturális központ.",
                   "category": "cultural",
@@ -9161,15 +8953,6 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
                   "coords": [
                         43.391942,
                         41.835955
-                  ]
-            },
-            {
-                  "name": "Sali fortress",
-                  "text": "Egy stratégiai fontosságú középkori erődítmény maradványai, amely a Mtkvari folyó völgyét őrizte.",
-                  "category": "castle",
-                  "coords": [
-                        43.381617,
-                        41.857005
                   ]
             },
             {
@@ -9373,24 +9156,6 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Panorama view at Mountain Cross",
-                  "text": "Un punct de observație la mare altitudine, cu o cruce mare de metal, care domină întregul defileu Borjomi.",
-                  "category": "natural",
-                  "coords": [
-                        43.378095,
-                        41.846176
-                  ]
-            },
-            {
-                  "name": "Nua fortress remains (almost destroyed)",
-                  "text": "Ruinele unei cetăți medievale de munte, care domină orașul Borjomi de pe un deal.",
-                  "category": "castle",
-                  "coords": [
-                        43.379399,
-                        41.847012
-                  ]
-            },
-            {
                   "name": "შოთა რუსთაველის სახელობის კულტურული ცენტრი (Shota Rustaveli Cultural Center)",
                   "text": "Centru cultural dedicat artelor și moștenirii poetului național al Georgiei.",
                   "category": "cultural",
@@ -9406,15 +9171,6 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
                   "coords": [
                         43.391942,
                         41.835955
-                  ]
-            },
-            {
-                  "name": "Sali fortress",
-                  "text": "Rămășițele unei fortificații medievale strategice care păzea valea râului Mtkvari.",
-                  "category": "castle",
-                  "coords": [
-                        43.381617,
-                        41.857005
                   ]
             },
             {
@@ -9618,24 +9374,6 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Panorama view at Cross Mointain",
-                  "text": "A high-altitude lookout point with a large metal cross overlooking the entire Borjomi Gorge.",
-                  "category": "natural",
-                  "coords": [
-                        43.378095,
-                        41.846176
-                  ]
-            },
-            {
-                  "name": "Nua fortress remains (almost destroyed)",
-                  "text": "The ruins of a medieval mountain fortress perched on a hill above Borjomi.",
-                  "category": "castle",
-                  "coords": [
-                        43.379399,
-                        41.847012
-                  ]
-            },
-            {
                   "name": "Shota Rustaveli Cultural Center",
                   "text": "Cultural center dedicated to the arts and the legacy of Georgia's national poet.",
                   "category": "cultural",
@@ -9654,15 +9392,6 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sali fortress",
-                  "text": "The remains of a strategic medieval fortification guarding the Mtkvari river valley.",
-                  "category": "castle",
-                  "coords": [
-                        43.381617,
-                        41.857005
-                  ]
-            },
-            {
                   "name": "Original Steam Engine Train on Borjomi-Bakuriani Railway",
                   "text": "A historic narrow-gauge steam locomotive on display, part of the scenic 'Kukushka' railway history.",
                   "category": "landmark",
@@ -9678,33 +9407,6 @@ export const poiExtraGeorgiaEconomicV2: POI[] = [
                   "coords": [
                         43.393699,
                         41.832992
-                  ]
-            },
-            {
-                  "name": "Museum of Local Lore",
-                  "text": "Local lore museum housing archaeological finds and exhibits on Borjomi's famous mineral water.",
-                  "category": "museum",
-                  "coords": [
-                        43.378288,
-                        41.841483
-                  ]
-            },
-            {
-                  "name": "Gogia Fortress",
-                  "text": "Ruins of a 14th-century castle situated on a hill overlooking the northwestern part of Borjomi.",
-                  "category": "castle",
-                  "coords": [
-                        43.376252,
-                        41.841265
-                  ]
-            },
-            {
-                  "name": "Merab Kostava Garden",
-                  "text": "A quiet city park with monuments and paths, named after the Georgian dissident Merab Kostava.",
-                  "category": "park",
-                  "coords": [
-                        43.385101,
-                        41.840842
                   ]
             },
             {

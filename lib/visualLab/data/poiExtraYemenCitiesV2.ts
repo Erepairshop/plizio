@@ -8953,15 +8953,6 @@ export const poiExtraYemenCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Marir",
-                  "text": "Historische Überreste einer alten Siedlung bei Ash Shihr.",
-                  "category": "historical",
-                  "coords": [
-                        49.583333,
-                        14.75
-                  ]
-            },
-            {
                   "name": "Al-Khaisha",
                   "text": "Archäologische Fundstätte mit alten Ruinen in Ash Shihr.",
                   "category": "historical",
@@ -9067,15 +9058,6 @@ export const poiExtraYemenCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Marir",
-                  "text": "Historic remains of an ancient settlement near Ash Shihr.",
-                  "category": "historical",
-                  "coords": [
-                        49.583333,
-                        14.75
-                  ]
-            },
-            {
                   "name": "Alkhaishah",
                   "text": "Archaeological site featuring ancient ruins in Ash Shihr.",
                   "category": "historical",
@@ -9174,50 +9156,10 @@ export const poiExtraYemenCitiesV2: POI[] = [
   },
   {
     id: "mocha-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Fort Taiire",
-                  "text": "Fort Taiire in Mokka ist eine Küstenbefestigung mit Blick auf das Rote Meer.",
-                  "category": "historical",
-                  "coords": [
-                        43.23412,
-                        13.310707
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Fort Taiire",
-                  "text": "A Taiire erőd Mokában egy tengerparti erődítmény, amely a Vörös-tengerre néz.",
-                  "category": "historical",
-                  "coords": [
-                        43.23412,
-                        13.310707
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Fort Taiire",
-                  "text": "Fortăreața Taiire din Mocha este o fortificație de coastă care privește Marea Roșie.",
-                  "category": "historical",
-                  "coords": [
-                        43.23412,
-                        13.310707
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Fort Taiire",
-                  "text": "Fort Taiire in Mocha, a coastal fortification overlooking the Red Sea.",
-                  "category": "historical",
-                  "coords": [
-                        43.23412,
-                        13.310707
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "YE-TA",

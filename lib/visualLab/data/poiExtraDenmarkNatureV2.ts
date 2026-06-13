@@ -906,15 +906,6 @@ export const denmarkNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Galleri Matthies",
-                  "text": "Eine Kunstgalerie, die zeitgenössische Werke in der Region Falster ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        11.991746,
-                        54.767564
-                  ]
-            },
-            {
                   "name": "Idestrup Kirke",
                   "text": "Eine traditionelle dänische Dorfkirche mit charakteristischer Architektur.",
                   "category": "religious",
@@ -930,24 +921,6 @@ export const denmarkNatureV2: POI[] = [
                   "coords": [
                         11.901208,
                         54.752609
-                  ]
-            },
-            {
-                  "name": "Sønder Alslev Kirke",
-                  "text": "Eine historische Kirche in Sønder Alslev, bekannt für ihre Fresken.",
-                  "category": "religious",
-                  "coords": [
-                        12.002744,
-                        54.762376
-                  ]
-            },
-            {
-                  "name": "Sønder Kirkeby Kirke",
-                  "text": "Eine mittelalterliche Kirche mit bedeutenden Kalkmalereien auf Falster.",
-                  "category": "religious",
-                  "coords": [
-                        11.977478,
-                        54.770377
                   ]
             },
             {
@@ -980,15 +953,6 @@ export const denmarkNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Galleri Matthies",
-                  "text": "Művészeti galéria, amely kortárs műveket mutat be Falster régiójában.",
-                  "category": "museum",
-                  "coords": [
-                        11.991746,
-                        54.767564
-                  ]
-            },
-            {
                   "name": "Idestrup Kirke",
                   "text": "Egy hagyományos dán falusi templom jellegzetes építészettel.",
                   "category": "religious",
@@ -1004,24 +968,6 @@ export const denmarkNatureV2: POI[] = [
                   "coords": [
                         11.901208,
                         54.752609
-                  ]
-            },
-            {
-                  "name": "Sønder Alslev Kirke",
-                  "text": "Sønder Alslev történelmi temploma, amely freskóiról ismert.",
-                  "category": "religious",
-                  "coords": [
-                        12.002744,
-                        54.762376
-                  ]
-            },
-            {
-                  "name": "Sønder Kirkeby Kirke",
-                  "text": "Középkori templom jelentős mészfestményekkel Falster szigetén.",
-                  "category": "religious",
-                  "coords": [
-                        11.977478,
-                        54.770377
                   ]
             },
             {
@@ -1054,15 +1000,6 @@ export const denmarkNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Galleri Matthies",
-                  "text": "O galerie de artă care expune lucrări contemporane în regiunea Falster.",
-                  "category": "museum",
-                  "coords": [
-                        11.991746,
-                        54.767564
-                  ]
-            },
-            {
                   "name": "Idestrup Kirke",
                   "text": "O biserică tradițională daneză de sat, cu o arhitectură caracteristică.",
                   "category": "religious",
@@ -1078,24 +1015,6 @@ export const denmarkNatureV2: POI[] = [
                   "coords": [
                         11.901208,
                         54.752609
-                  ]
-            },
-            {
-                  "name": "Sønder Alslev Kirke",
-                  "text": "O biserică istorică în Sønder Alslev, cunoscută pentru frescele sale.",
-                  "category": "religious",
-                  "coords": [
-                        12.002744,
-                        54.762376
-                  ]
-            },
-            {
-                  "name": "Sønder Kirkeby Kirke",
-                  "text": "O biserică medievală cu picturi murale importante pe insula Falster.",
-                  "category": "religious",
-                  "coords": [
-                        11.977478,
-                        54.770377
                   ]
             },
             {
@@ -1128,15 +1047,6 @@ export const denmarkNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Galleri Matthies",
-                  "text": "An art gallery exhibiting contemporary works in the Falster region.",
-                  "category": "museum",
-                  "coords": [
-                        11.991746,
-                        54.767564
-                  ]
-            },
-            {
                   "name": "Idestrup Kirke",
                   "text": "A traditional Danish village church with characteristic architecture.",
                   "category": "religious",
@@ -1152,24 +1062,6 @@ export const denmarkNatureV2: POI[] = [
                   "coords": [
                         11.901208,
                         54.752609
-                  ]
-            },
-            {
-                  "name": "Sønder Alslev Kirke",
-                  "text": "A historical church in Sønder Alslev, known for its frescoes.",
-                  "category": "religious",
-                  "coords": [
-                        12.002744,
-                        54.762376
-                  ]
-            },
-            {
-                  "name": "Sønder Kirkeby Kirke",
-                  "text": "A medieval church with significant chalk paintings on the island of Falster.",
-                  "category": "religious",
-                  "coords": [
-                        11.977478,
-                        54.770377
                   ]
             },
             {
@@ -1570,15 +1462,6 @@ export const denmarkNatureV2: POI[] = [
                         10.342545,
                         57.63852
                   ]
-            },
-            {
-                  "name": "Hulsig Kirke",
-                  "text": "Hulsig Kirke, eine Kirche nahe der Wanderdüne Raabjerg Mile in Nordjütland.",
-                  "category": "religious",
-                  "coords": [
-                        10.459583,
-                        57.657465
-                  ]
             }
       ],
       "hu": [
@@ -1616,15 +1499,6 @@ export const denmarkNatureV2: POI[] = [
                   "coords": [
                         10.342545,
                         57.63852
-                  ]
-            },
-            {
-                  "name": "Hulsig Kirke",
-                  "text": "Hulsig Kirke, egy templom a vándorló homokdűne Raabjerg Mile közelében Észak-Jütlandban.",
-                  "category": "religious",
-                  "coords": [
-                        10.459583,
-                        57.657465
                   ]
             }
       ],
@@ -1664,15 +1538,6 @@ export const denmarkNatureV2: POI[] = [
                         10.342545,
                         57.63852
                   ]
-            },
-            {
-                  "name": "Hulsig Kirke",
-                  "text": "Biserica Hulsig, o biserică lângă duna de nisip migratoare Raabjerg Mile în Iutlanda de Nord.",
-                  "category": "religious",
-                  "coords": [
-                        10.459583,
-                        57.657465
-                  ]
             }
       ],
       "en": [
@@ -1710,15 +1575,6 @@ export const denmarkNatureV2: POI[] = [
                   "coords": [
                         10.342545,
                         57.63852
-                  ]
-            },
-            {
-                  "name": "Hulsig Kirke",
-                  "text": "Hulsig Church, a church near the migrating sand dune Raabjerg Mile in North Jutland.",
-                  "category": "religious",
-                  "coords": [
-                        10.459583,
-                        57.657465
                   ]
             }
       ]
@@ -2031,48 +1887,12 @@ export const denmarkNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Belravensknold",
-                  "text": "Ein historischer Ort am Skanderborg-See, an dem archäologische Überreste früherer Epochen entdeckt wurden.",
-                  "category": "historical",
-                  "coords": [
-                        9.9348,
-                        56.055864
-                  ]
-            },
-            {
                   "name": "Skanderborg Bunkerne",
                   "text": "Ein Museum in Skanderborg, das in ehemaligen Bunkern aus dem Zweiten Weltkrieg untergebracht ist.",
                   "category": "museum",
                   "coords": [
                         9.917827,
                         56.021621
-                  ]
-            },
-            {
-                  "name": "Præstehøj",
-                  "text": "Eine bedeutende archäologische Stätte am Skanderborg-See, bestehend aus alten Grabhügeln.",
-                  "category": "historical",
-                  "coords": [
-                        9.924432,
-                        56.060096
-                  ]
-            },
-            {
-                  "name": "Vestermølle Museum",
-                  "text": "Ein Museum am Skanderborg-See, das die Geschichte einer historischen Wassermühle und der Region zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        9.958414,
-                        56.028476
-                  ]
-            },
-            {
-                  "name": "Perron1",
-                  "text": "Ein kleines Museum in Skanderborg, das sich der lokalen Kulturgeschichte widmet.",
-                  "category": "museum",
-                  "coords": [
-                        9.92623,
-                        56.043585
                   ]
             },
             {
@@ -2092,15 +1912,6 @@ export const denmarkNatureV2: POI[] = [
                         9.926275,
                         56.021892
                   ]
-            },
-            {
-                  "name": "Bybadet",
-                  "text": "Bybadet ist eine städtische Badeeinrichtung am Skanderborger See, die sichere Bademöglichkeiten für die Öffentlichkeit bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        9.934422,
-                        56.035498
-                  ]
             }
       ],
       "hu": [
@@ -2114,48 +1925,12 @@ export const denmarkNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Belravensknold",
-                  "text": "Történelmi hely a Skanderborg-tónál, ahol korábbi korszakok régészeti maradványait fedezték fel.",
-                  "category": "historical",
-                  "coords": [
-                        9.9348,
-                        56.055864
-                  ]
-            },
-            {
                   "name": "Skanderborg Bunkerne",
                   "text": "Skanderborgi múzeum, amely a második világháborúból származó egykori bunkerekben kapott helyet.",
                   "category": "museum",
                   "coords": [
                         9.917827,
                         56.021621
-                  ]
-            },
-            {
-                  "name": "Præstehøj",
-                  "text": "Jelentős régészeti lelőhely a Skanderborg-tónál, amely ősi sírhalmokból áll.",
-                  "category": "historical",
-                  "coords": [
-                        9.924432,
-                        56.060096
-                  ]
-            },
-            {
-                  "name": "Vestermølle Museum",
-                  "text": "Múzeum a Skanderborg-tónál, amely egy történelmi vízimalom és a régió történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        9.958414,
-                        56.028476
-                  ]
-            },
-            {
-                  "name": "Perron1",
-                  "text": "Kisméretű múzeum Skanderborgban, amely a helyi kultúrtörténetnek szenteli kiállításait.",
-                  "category": "museum",
-                  "coords": [
-                        9.92623,
-                        56.043585
                   ]
             },
             {
@@ -2175,15 +1950,6 @@ export const denmarkNatureV2: POI[] = [
                         9.926275,
                         56.021892
                   ]
-            },
-            {
-                  "name": "Bybadet",
-                  "text": "A Bybadet egy városi fürdőhely a Skanderborg-tónál, amely biztonságos fürdési lehetőséget biztosít a nagyközönség számára.",
-                  "category": "recreational",
-                  "coords": [
-                        9.934422,
-                        56.035498
-                  ]
             }
       ],
       "ro": [
@@ -2197,48 +1963,12 @@ export const denmarkNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Belravensknold",
-                  "text": "Un loc istoric de lângă lacul Skanderborg, unde au fost descoperite vestigii arheologice din epoci trecute.",
-                  "category": "historical",
-                  "coords": [
-                        9.9348,
-                        56.055864
-                  ]
-            },
-            {
                   "name": "Skanderborg Bunkerne",
                   "text": "Un muzeu în Skanderborg, găzduit în foste buncăre din cel de-al Doilea Război Mondial.",
                   "category": "museum",
                   "coords": [
                         9.917827,
                         56.021621
-                  ]
-            },
-            {
-                  "name": "Præstehøj",
-                  "text": "Un sit arheologic important de lângă lacul Skanderborg, constând în gorgane vechi.",
-                  "category": "historical",
-                  "coords": [
-                        9.924432,
-                        56.060096
-                  ]
-            },
-            {
-                  "name": "Vestermølle Museum",
-                  "text": "Un muzeu de lângă lacul Skanderborg, care prezintă istoria unei mori de apă istorice și a regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        9.958414,
-                        56.028476
-                  ]
-            },
-            {
-                  "name": "Perron1",
-                  "text": "Un mic muzeu în Skanderborg, dedicat istoriei culturale locale.",
-                  "category": "museum",
-                  "coords": [
-                        9.92623,
-                        56.043585
                   ]
             },
             {
@@ -2258,15 +1988,6 @@ export const denmarkNatureV2: POI[] = [
                         9.926275,
                         56.021892
                   ]
-            },
-            {
-                  "name": "Bybadet",
-                  "text": "Bybadet este o facilitate de baie publică pe lacul Skanderborg, oferind opțiuni sigure de înot pentru public.",
-                  "category": "recreational",
-                  "coords": [
-                        9.934422,
-                        56.035498
-                  ]
             }
       ],
       "en": [
@@ -2280,48 +2001,12 @@ export const denmarkNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Belravensknold",
-                  "text": "A historic site by Skanderborg Lake where archaeological remains from earlier eras have been discovered.",
-                  "category": "historical",
-                  "coords": [
-                        9.9348,
-                        56.055864
-                  ]
-            },
-            {
                   "name": "Skanderborg Bunkerne",
                   "text": "A museum in Skanderborg housed in former bunkers from the Second World War.",
                   "category": "museum",
                   "coords": [
                         9.917827,
                         56.021621
-                  ]
-            },
-            {
-                  "name": "Præstehøj",
-                  "text": "A significant archaeological site by Skanderborg Lake, consisting of ancient burial mounds.",
-                  "category": "historical",
-                  "coords": [
-                        9.924432,
-                        56.060096
-                  ]
-            },
-            {
-                  "name": "Vestermølle Museum",
-                  "text": "A museum by Skanderborg Lake showcasing the history of a historic watermill and the region.",
-                  "category": "museum",
-                  "coords": [
-                        9.958414,
-                        56.028476
-                  ]
-            },
-            {
-                  "name": "Perron1",
-                  "text": "A small museum in Skanderborg dedicated to local cultural history.",
-                  "category": "museum",
-                  "coords": [
-                        9.92623,
-                        56.043585
                   ]
             },
             {
@@ -2340,15 +2025,6 @@ export const denmarkNatureV2: POI[] = [
                   "coords": [
                         9.926275,
                         56.021892
-                  ]
-            },
-            {
-                  "name": "Bybadet",
-                  "text": "Bybadet is an urban bathing facility on Skanderborg Lake, providing safe swimming options for the public.",
-                  "category": "recreational",
-                  "coords": [
-                        9.934422,
-                        56.035498
                   ]
             }
       ]
@@ -2787,60 +2463,6 @@ export const denmarkNatureV2: POI[] = [
     id: "denmark-almindingen-forest-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Rapshøi",
-                  "text": "Rapshøi, eine antike archäologische Ausgrabungsstätte im Almindingen-Wald.",
-                  "category": "historical",
-                  "coords": [
-                        14.85742,
-                        55.152885
-                  ]
-            },
-            {
-                  "name": "Gamleborg",
-                  "text": "Gamleborg, die Ruinen einer königlichen Festung aus der Wikingerzeit auf Bornholm.",
-                  "category": "historical",
-                  "coords": [
-                        14.906882,
-                        55.114336
-                  ]
-            },
-            {
-                  "name": "Bisonskoven",
-                  "text": "Der Bisonwald, ein Naturschutzgebiet in Almindingen mit wiederangesiedelten Wisenten.",
-                  "category": "natural",
-                  "coords": [
-                        14.945497,
-                        55.112166
-                  ]
-            },
-            {
-                  "name": "Arboretet",
-                  "text": "Arboretet, ein botanischer Garten mit einer vielfältigen Sammlung von Bäumen und Sträuchern.",
-                  "category": "park",
-                  "coords": [
-                        14.878027,
-                        55.120008
-                  ]
-            },
-            {
-                  "name": "Rytterknægten",
-                  "text": "Rytterknægten, der höchste Punkt der Insel Bornholm mit einem Aussichtsturm.",
-                  "category": "landmark",
-                  "coords": [
-                        14.889337,
-                        55.111698
-                  ]
-            },
-            {
-                  "name": "Lilleborg",
-                  "text": "Lilleborg, Ruinen einer königlichen Burg aus dem 12. Jahrhundert auf einer Klippe.",
-                  "category": "historical",
-                  "coords": [
-                        14.897022,
-                        55.118773
-                  ]
-            },
-            {
                   "name": "Dronningestenen",
                   "text": "Dronningestenen, ein Aussichtspunkt, der nach dem Besuch einer Königin benannt wurde.",
                   "category": "natural",
@@ -2851,60 +2473,6 @@ export const denmarkNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Rapshøi",
-                  "text": "Rapshøi, ókori régészeti lelőhely az Almindingen-erdőben.",
-                  "category": "historical",
-                  "coords": [
-                        14.85742,
-                        55.152885
-                  ]
-            },
-            {
-                  "name": "Gamleborg",
-                  "text": "Gamleborg, egy viking kori királyi erőd romjai Bornholm szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        14.906882,
-                        55.114336
-                  ]
-            },
-            {
-                  "name": "Bisonskoven",
-                  "text": "Bölényerdő Almindingenben, ahol európai bölényeket telepítettek vissza.",
-                  "category": "natural",
-                  "coords": [
-                        14.945497,
-                        55.112166
-                  ]
-            },
-            {
-                  "name": "Arboretet",
-                  "text": "Arboretet, botanikus kert különleges fa- és cserjegyűjteménnyel.",
-                  "category": "park",
-                  "coords": [
-                        14.878027,
-                        55.120008
-                  ]
-            },
-            {
-                  "name": "Rytterknægten",
-                  "text": "Rytterknægten, Bornholm legmagasabb pontja egy kilátótoronnyal.",
-                  "category": "landmark",
-                  "coords": [
-                        14.889337,
-                        55.111698
-                  ]
-            },
-            {
-                  "name": "Lilleborg",
-                  "text": "Lilleborg, egy 12. századi királyi vár romjai egy sziklafalon.",
-                  "category": "historical",
-                  "coords": [
-                        14.897022,
-                        55.118773
-                  ]
-            },
             {
                   "name": "Dronningestenen",
                   "text": "Dronningestenen, egy királynő látogatásáról elnevezett kilátópont.",
@@ -2917,60 +2485,6 @@ export const denmarkNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rapshøi",
-                  "text": "Rapshøi, un sit arheologic antic situat în pădurea Almindingen.",
-                  "category": "historical",
-                  "coords": [
-                        14.85742,
-                        55.152885
-                  ]
-            },
-            {
-                  "name": "Gamleborg",
-                  "text": "Gamleborg, ruinele unei cetăți regale din epoca vikingă de pe insula Bornholm.",
-                  "category": "historical",
-                  "coords": [
-                        14.906882,
-                        55.114336
-                  ]
-            },
-            {
-                  "name": "Bisonskoven",
-                  "text": "Pădurea de Zimbri, o rezervație naturală în Almindingen unde au fost reintroduși zimbrii.",
-                  "category": "natural",
-                  "coords": [
-                        14.945497,
-                        55.112166
-                  ]
-            },
-            {
-                  "name": "Arboretet",
-                  "text": "Arboretet, o grădină botanică cu o colecție diversă de arbori și arbuști.",
-                  "category": "park",
-                  "coords": [
-                        14.878027,
-                        55.120008
-                  ]
-            },
-            {
-                  "name": "Rytterknægten",
-                  "text": "Rytterknægten, cel mai înalt punct de pe insula Bornholm, dotat cu un turn de observație.",
-                  "category": "landmark",
-                  "coords": [
-                        14.889337,
-                        55.111698
-                  ]
-            },
-            {
-                  "name": "Lilleborg",
-                  "text": "Lilleborg, ruinele unui castel regal din secolul al XII-lea construit pe o stâncă.",
-                  "category": "historical",
-                  "coords": [
-                        14.897022,
-                        55.118773
-                  ]
-            },
-            {
                   "name": "Dronningestenen",
                   "text": "Dronningestenen, un punct de belvedere numit în onoarea vizitei unei regine.",
                   "category": "natural",
@@ -2981,60 +2495,6 @@ export const denmarkNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Rapshøi",
-                  "text": "Rapshøi is an ancient archaeological site located within the Almindingen Forest.",
-                  "category": "historical",
-                  "coords": [
-                        14.85742,
-                        55.152885
-                  ]
-            },
-            {
-                  "name": "Gamleborg",
-                  "text": "Ruins of a Viking-age royal fortress located in the Almindingen Forest.",
-                  "category": "historical",
-                  "coords": [
-                        14.906882,
-                        55.114336
-                  ]
-            },
-            {
-                  "name": "The Bison Forest",
-                  "text": "Nature reserve in Almindingen where European bison have been reintroduced.",
-                  "category": "natural",
-                  "coords": [
-                        14.945497,
-                        55.112166
-                  ]
-            },
-            {
-                  "name": "Arboretet",
-                  "text": "A botanical garden in the forest featuring a diverse collection of trees and shrubs.",
-                  "category": "park",
-                  "coords": [
-                        14.878027,
-                        55.120008
-                  ]
-            },
-            {
-                  "name": "Rytterknægten",
-                  "text": "The highest point on the island of Bornholm, topped by a historic lookout tower.",
-                  "category": "landmark",
-                  "coords": [
-                        14.889337,
-                        55.111698
-                  ]
-            },
-            {
-                  "name": "Lilleborg",
-                  "text": "Ruins of a 12th-century royal castle built on a dramatic cliff in the forest.",
-                  "category": "historical",
-                  "coords": [
-                        14.897022,
-                        55.118773
-                  ]
-            },
             {
                   "name": "Dronningestenen",
                   "text": "A scenic viewpoint stone named in honor of a queen's visit to the forest.",
@@ -3102,15 +2562,6 @@ export const denmarkNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hohøj",
-                  "text": "Ein prähistorischer Grabhügel in der Nähe des Mariager Fjords.",
-                  "category": "historical",
-                  "coords": [
-                        9.999863,
-                        56.64724
-                  ]
-            },
-            {
                   "name": "Hedehøj",
                   "text": "Ein prähistorischer Grabhügel in der Nähe des Mariager Fjords.",
                   "category": "historical",
@@ -3173,15 +2624,6 @@ export const denmarkNatureV2: POI[] = [
                   "coords": [
                         10.045258,
                         56.644935
-                  ]
-            },
-            {
-                  "name": "Hohøj",
-                  "text": "Prehisztorikus sírhalom a Mariager-fjord közelében.",
-                  "category": "historical",
-                  "coords": [
-                        9.999863,
-                        56.64724
                   ]
             },
             {
@@ -3250,15 +2692,6 @@ export const denmarkNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hohøj",
-                  "text": "Un tumul preistoric situat în apropierea fiordului Mariager.",
-                  "category": "historical",
-                  "coords": [
-                        9.999863,
-                        56.64724
-                  ]
-            },
-            {
                   "name": "Hedehøj",
                   "text": "Un tumul preistoric situat în apropierea fiordului Mariager.",
                   "category": "historical",
@@ -3321,15 +2754,6 @@ export const denmarkNatureV2: POI[] = [
                   "coords": [
                         10.045258,
                         56.644935
-                  ]
-            },
-            {
-                  "name": "Hohøj",
-                  "text": "A prehistoric burial mound located near the Mariager Fjord.",
-                  "category": "historical",
-                  "coords": [
-                        9.999863,
-                        56.64724
                   ]
             },
             {

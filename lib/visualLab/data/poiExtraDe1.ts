@@ -7430,15 +7430,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Klärteich",
-                  "text": "Ein ruhiges Gewässer in Wuppertal, das sich für entspannte Naturbeobachtungen eignet.",
-                  "category": "natural",
-                  "coords": [
-                        7.07831,
-                        51.256597
-                  ]
-            },
-            {
                   "name": "Ronsdorfer Talsperre",
                   "text": "Ein idyllischer See in Wuppertal, ideal für erholsame Spaziergänge in der Landschaft.",
                   "category": "natural",
@@ -7698,15 +7689,6 @@ export const poiExtraDe1: POI[] = [
                         7.144531,
                         51.224938
                   ]
-            },
-            {
-                  "name": "Gartenhallenbad Langerfeld",
-                  "text": "Das Gartenhallenbad Langerfeld kombiniert Schwimmspaß mit einer angenehmen Atmosphäre.",
-                  "category": "family",
-                  "coords": [
-                        7.249195,
-                        51.273191
-                  ]
             }
       ],
       "hu": [
@@ -7768,15 +7750,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         7.160318,
                         51.260253
-                  ]
-            },
-            {
-                  "name": "Klärteich",
-                  "text": "Nyugodt vízfelület Wuppertalban, amely alkalmas a természet megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        7.07831,
-                        51.256597
                   ]
             },
             {
@@ -8039,15 +8012,6 @@ export const poiExtraDe1: POI[] = [
                         7.144531,
                         51.224938
                   ]
-            },
-            {
-                  "name": "Gartenhallenbad Langerfeld",
-                  "text": "A langerfeldi kerti fedett uszoda ötvözi az úszás örömét a kellemes légkörrel.",
-                  "category": "family",
-                  "coords": [
-                        7.249195,
-                        51.273191
-                  ]
             }
       ],
       "ro": [
@@ -8109,15 +8073,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         7.160318,
                         51.260253
-                  ]
-            },
-            {
-                  "name": "Klärteich",
-                  "text": "O apă liniștită în Wuppertal, potrivită pentru observarea relaxată a naturii.",
-                  "category": "natural",
-                  "coords": [
-                        7.07831,
-                        51.256597
                   ]
             },
             {
@@ -8380,15 +8335,6 @@ export const poiExtraDe1: POI[] = [
                         7.144531,
                         51.224938
                   ]
-            },
-            {
-                  "name": "Gartenhallenbad Langerfeld",
-                  "text": "Piscina acoperită cu grădină din Langerfeld combină distracția la înot cu o atmosferă plăcută.",
-                  "category": "family",
-                  "coords": [
-                        7.249195,
-                        51.273191
-                  ]
             }
       ],
       "en": [
@@ -8450,15 +8396,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         7.160318,
                         51.260253
-                  ]
-            },
-            {
-                  "name": "Klärteich",
-                  "text": "A calm body of water in Wuppertal, suitable for relaxed nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        7.07831,
-                        51.256597
                   ]
             },
             {
@@ -8720,15 +8657,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         7.144531,
                         51.224938
-                  ]
-            },
-            {
-                  "name": "Gartenhallenbad Langerfeld",
-                  "text": "The Langerfeld garden indoor pool combines swimming fun with a pleasant atmosphere.",
-                  "category": "family",
-                  "coords": [
-                        7.249195,
-                        51.273191
                   ]
             }
       ],
@@ -9573,15 +9501,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Florian Zimmer Theater",
-                  "text": "Ein modernes Magie- und Illusionstheater in Neu-Ulm, das spektakuläre Shows bietet.",
-                  "category": "cultural",
-                  "coords": [
-                        10.007562,
-                        48.383896
-                  ]
-            },
-            {
                   "name": "Theater Ulm",
                   "text": "Das älteste städtische Theater Deutschlands bietet Opern-, Schauspiel- und Ballettaufführungen.",
                   "category": "cultural",
@@ -9654,24 +9573,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Donaubad Freibad",
-                  "text": "Ein beliebtes Freibad an der Donau mit verschiedenen Becken und Liegeflächen für die Freizeitgestaltung.",
-                  "category": "family",
-                  "coords": [
-                        9.986311,
-                        48.387046
-                  ]
-            },
-            {
-                  "name": "Donaubad",
-                  "text": "Ein großes Erlebnisbad an der Donau mit Rutschen und einem weitläufigen Wellnessbereich.",
-                  "category": "family",
-                  "coords": [
-                        9.985629,
-                        48.385849
-                  ]
-            },
-            {
                   "name": "Ehemaliger Infanteriestützpunkt Gleißelstetten",
                   "text": "Ein historischer Teil der Bundesfestung Ulm, der ursprünglich als Verteidigungsanlage diente.",
                   "category": "fortress",
@@ -9696,15 +9597,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.980306,
                         48.414334
-                  ]
-            },
-            {
-                  "name": "Kiesbank Illerbrücke",
-                  "text": "Eine natürliche Kiesbank an der Iller, die im Sommer als Liege- und Badeplatz genutzt wird.",
-                  "category": "recreational",
-                  "coords": [
-                        9.988224,
-                        48.370384
                   ]
             },
             {
@@ -9753,24 +9645,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Gurrensee",
-                  "text": "Der Gurrensee in Ulm ist ein schönes Gewässer, das zum Entspannen in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        10.020124,
-                        48.349434
-                  ]
-            },
-            {
-                  "name": "nördlicher Ausee",
-                  "text": "Der nördliche Ausee in Ulm bietet eine ruhige Kulisse für Spaziergänge am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        10.016873,
-                        48.333722
-                  ]
-            },
-            {
                   "name": "Südlicher Griessee",
                   "text": "Südlicher Griessee – ein See südlich von Ulm.",
                   "category": "natural",
@@ -9786,51 +9660,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         10.064649,
                         48.42896
-                  ]
-            },
-            {
-                  "name": "Werzler See",
-                  "text": "Werzler See – ein Badesee bei Ulm.",
-                  "category": "natural",
-                  "coords": [
-                        10.043015,
-                        48.347516
-                  ]
-            },
-            {
-                  "name": "Ludwigsfelder Baggersee",
-                  "text": "Der Ludwigsfelder Baggersee in Ulm ist ein beliebtes Ziel für Erholungssuchende.",
-                  "category": "natural",
-                  "coords": [
-                        10.026371,
-                        48.365882
-                  ]
-            },
-            {
-                  "name": "Oberer Plessenteich",
-                  "text": "Der Obere Plessenteich in Ulm bietet eine schöne Aussicht und Ruhe in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        10.04517,
-                        48.362992
-                  ]
-            },
-            {
-                  "name": "Beschussamtsee",
-                  "text": "Der Beschussamtsee in Ulm ist ein lokales Gewässer in einer grünen Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        9.959582,
-                        48.37196
-                  ]
-            },
-            {
-                  "name": "Werzler Weiher",
-                  "text": "Werzler Weiher – ein kleiner Teich bei Ulm.",
-                  "category": "natural",
-                  "coords": [
-                        10.045485,
-                        48.352782
                   ]
             },
             {
@@ -9879,39 +9708,12 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Trinkwasserhochbehälter Einsingen",
-                  "text": "Der See am Trinkwasserhochbehälter Einsingen in Ulm liegt in einer natürlichen Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        9.9055,
-                        48.358413
-                  ]
-            },
-            {
-                  "name": "Nussersee",
-                  "text": "Der Nussersee in Ulm ist ein idyllischer Ort zum Entspannen und Natur genießen.",
-                  "category": "natural",
-                  "coords": [
-                        10.056023,
-                        48.392218
-                  ]
-            },
-            {
                   "name": "Fischersee",
                   "text": "Der Fischersee in Ulm bietet eine friedliche Kulisse für Beobachtungen in der Natur.",
                   "category": "natural",
                   "coords": [
                         10.059822,
                         48.421124
-                  ]
-            },
-            {
-                  "name": "südlicher Ausee",
-                  "text": "Der südliche Ausee in Ulm ist ein ruhiger See für erholsame Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        10.022645,
-                        48.32868
                   ]
             },
             {
@@ -9924,30 +9726,12 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Brandstätter Baggersee",
-                  "text": "Der Brandstätter Baggersee in Ulm bietet eine ruhige Atmosphäre am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        10.088188,
-                        48.409338
-                  ]
-            },
-            {
                   "name": "Burlafinger Baggersee",
                   "text": "Der Burlafinger Baggersee in Ulm ist ein beliebtes lokales Gewässer für Naturliebhaber.",
                   "category": "natural",
                   "coords": [
                         10.050761,
                         48.424694
-                  ]
-            },
-            {
-                  "name": "Grüner Spielplatz",
-                  "text": "Der Grüne Spielplatz in Ulm bietet Kindern viel Raum zum Spielen in einer grünen Umgebung.",
-                  "category": "family",
-                  "coords": [
-                        10.014373,
-                        48.372728
                   ]
             },
             {
@@ -9975,24 +9759,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         10.010309,
                         48.408366
-                  ]
-            },
-            {
-                  "name": "Schwimmerbecken",
-                  "text": "Das Schwimmerbecken in Ulm bietet ideale Bedingungen für sportliches Schwimmen und aktive Erholung.",
-                  "category": "family",
-                  "coords": [
-                        9.984433,
-                        48.385468
-                  ]
-            },
-            {
-                  "name": "Schildkröten- und Reptilienzoo",
-                  "text": "Der Schildkröten- und Reptilienzoo in Ulm bietet einen faszinierenden Einblick in die Welt der Reptilien.",
-                  "category": "family",
-                  "coords": [
-                        10.02589,
-                        48.375828
                   ]
             }
       ],
@@ -10149,15 +9915,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Florian Zimmer Theater",
-                  "text": "Egy modern bűvész- és illúziószínház Neu-Ulmban, amely látványos bemutatóknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        10.007562,
-                        48.383896
-                  ]
-            },
-            {
                   "name": "Theater Ulm",
                   "text": "Németország legrégebbi városi színháza, amely opera-, prózai és balettelőadásokat kínál.",
                   "category": "cultural",
@@ -10230,24 +9987,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Donaubad Freibad",
-                  "text": "Népszerű szabadtéri strand a Duna partján, különféle medencékkel és napozóhelyekkel a kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        9.986311,
-                        48.387046
-                  ]
-            },
-            {
-                  "name": "Donaubad",
-                  "text": "Nagy élményfürdő a Duna partján, csúszdákkal és kiterjedt wellness részleggel.",
-                  "category": "family",
-                  "coords": [
-                        9.985629,
-                        48.385849
-                  ]
-            },
-            {
                   "name": "Ehemaliger Infanteriestützpunkt Gleißelstetten",
                   "text": "Az ulmi szövetségi erőd történelmi része, amely eredetileg védelmi létesítményként szolgált.",
                   "category": "fortress",
@@ -10272,15 +10011,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.980306,
                         48.414334
-                  ]
-            },
-            {
-                  "name": "Kiesbank Illerbrücke",
-                  "text": "Természetes kavicspad az Iller folyónál, amelyet nyáron pihenő- és fürdőhelyként használnak.",
-                  "category": "recreational",
-                  "coords": [
-                        9.988224,
-                        48.370384
                   ]
             },
             {
@@ -10329,24 +10059,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Gurrensee",
-                  "text": "Az ulmi Gurrensee egy szép állóvíz, amely pihenésre hív a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        10.020124,
-                        48.349434
-                  ]
-            },
-            {
-                  "name": "nördlicher Ausee",
-                  "text": "Az ulmi északi Ausee nyugodt környezetet biztosít a vízparti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        10.016873,
-                        48.333722
-                  ]
-            },
-            {
                   "name": "Südlicher Griessee",
                   "text": "Südlicher Griessee – egy tó Ulm déli részén.",
                   "category": "natural",
@@ -10362,51 +10074,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         10.064649,
                         48.42896
-                  ]
-            },
-            {
-                  "name": "Werzler See",
-                  "text": "Werzler See – fürdő tó Ulm mellett.",
-                  "category": "natural",
-                  "coords": [
-                        10.043015,
-                        48.347516
-                  ]
-            },
-            {
-                  "name": "Ludwigsfelder Baggersee",
-                  "text": "Az ulmi Ludwigsfelder Baggersee népszerű célpont a kikapcsolódni vágyók körében.",
-                  "category": "natural",
-                  "coords": [
-                        10.026371,
-                        48.365882
-                  ]
-            },
-            {
-                  "name": "Oberer Plessenteich",
-                  "text": "Az ulmi Oberer Plessenteich szép kilátást és nyugalmat kínál a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        10.04517,
-                        48.362992
-                  ]
-            },
-            {
-                  "name": "Beschussamtsee",
-                  "text": "Az ulmi Beschussamtsee egy helyi állóvíz zöld környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        9.959582,
-                        48.37196
-                  ]
-            },
-            {
-                  "name": "Werzler Weiher",
-                  "text": "Werzler Weiher – egy kis tó Ulm mellett.",
-                  "category": "natural",
-                  "coords": [
-                        10.045485,
-                        48.352782
                   ]
             },
             {
@@ -10455,39 +10122,12 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Trinkwasserhochbehälter Einsingen",
-                  "text": "Az ulmi Einsingen víztározónál található tó természetes környezetben fekszik.",
-                  "category": "natural",
-                  "coords": [
-                        9.9055,
-                        48.358413
-                  ]
-            },
-            {
-                  "name": "Nussersee",
-                  "text": "Az ulmi Nussersee idilli hely a pihenésre és a természet élvezetére.",
-                  "category": "natural",
-                  "coords": [
-                        10.056023,
-                        48.392218
-                  ]
-            },
-            {
                   "name": "Fischersee",
                   "text": "Az ulmi Fischersee békés környezetet kínál a természet megfigyeléséhez.",
                   "category": "natural",
                   "coords": [
                         10.059822,
                         48.421124
-                  ]
-            },
-            {
-                  "name": "südlicher Ausee",
-                  "text": "Az ulmi déli Ausee egy csendes tó a pihentető sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        10.022645,
-                        48.32868
                   ]
             },
             {
@@ -10500,30 +10140,12 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Brandstätter Baggersee",
-                  "text": "Az ulmi Brandstätter Baggersee nyugodt vízparti légkört biztosít.",
-                  "category": "natural",
-                  "coords": [
-                        10.088188,
-                        48.409338
-                  ]
-            },
-            {
                   "name": "Burlafinger Baggersee",
                   "text": "Az ulmi Burlafinger Baggersee népszerű helyi állóvíz a természetbarátok körében.",
                   "category": "natural",
                   "coords": [
                         10.050761,
                         48.424694
-                  ]
-            },
-            {
-                  "name": "Grüner Spielplatz",
-                  "text": "Az ulmi Grüne Spielplatz tágas teret biztosít a gyerekeknek a játékhoz zöld környezetben.",
-                  "category": "family",
-                  "coords": [
-                        10.014373,
-                        48.372728
                   ]
             },
             {
@@ -10551,24 +10173,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         10.010309,
                         48.408366
-                  ]
-            },
-            {
-                  "name": "Schwimmerbecken",
-                  "text": "Az ulmi Schwimmerbecken ideális feltételeket biztosít a sportoláshoz és az aktív kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        9.984433,
-                        48.385468
-                  ]
-            },
-            {
-                  "name": "Schildkröten- und Reptilienzoo",
-                  "text": "Az ulmi teknős- és hüllőkert lenyűgöző betekintést nyújt a hüllők világába.",
-                  "category": "family",
-                  "coords": [
-                        10.02589,
-                        48.375828
                   ]
             }
       ],
@@ -10725,15 +10329,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Florian Zimmer Theater",
-                  "text": "Un teatru modern de magie și iluzionism din Neu-Ulm, care oferă spectacole spectaculoase.",
-                  "category": "cultural",
-                  "coords": [
-                        10.007562,
-                        48.383896
-                  ]
-            },
-            {
                   "name": "Theater Ulm",
                   "text": "Cel mai vechi teatru municipal din Germania, oferind spectacole de operă, teatru și balet.",
                   "category": "cultural",
@@ -10806,24 +10401,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Donaubad Freibad",
-                  "text": "Un ștrand popular pe malul Dunării, cu diverse bazine și zone de plajă pentru recreere.",
-                  "category": "family",
-                  "coords": [
-                        9.986311,
-                        48.387046
-                  ]
-            },
-            {
-                  "name": "Donaubad",
-                  "text": "Un parc acvatic mare pe malul Dunării, cu tobogane și o zonă de wellness generoasă.",
-                  "category": "family",
-                  "coords": [
-                        9.985629,
-                        48.385849
-                  ]
-            },
-            {
                   "name": "Ehemaliger Infanteriestützpunkt Gleißelstetten",
                   "text": "O parte istorică a Cetății Federale Ulm, care a servit inițial ca instalație de apărare.",
                   "category": "fortress",
@@ -10848,15 +10425,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.980306,
                         48.414334
-                  ]
-            },
-            {
-                  "name": "Kiesbank Illerbrücke",
-                  "text": "Un banc de pietriș natural pe râul Iller, folosit vara ca loc de plajă și scăldat.",
-                  "category": "recreational",
-                  "coords": [
-                        9.988224,
-                        48.370384
                   ]
             },
             {
@@ -10905,24 +10473,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Gurrensee",
-                  "text": "Gurrensee din Ulm este o apă frumoasă care invită la relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        10.020124,
-                        48.349434
-                  ]
-            },
-            {
-                  "name": "nördlicher Ausee",
-                  "text": "Lacul Ausee de nord din Ulm oferă un cadru liniștit pentru plimbări pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        10.016873,
-                        48.333722
-                  ]
-            },
-            {
                   "name": "Südlicher Griessee",
                   "text": "Südlicher Griessee – un lac la sud de Ulm.",
                   "category": "natural",
@@ -10938,51 +10488,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         10.064649,
                         48.42896
-                  ]
-            },
-            {
-                  "name": "Werzler See",
-                  "text": "Werzler See – un lac de scăldat lângă Ulm.",
-                  "category": "natural",
-                  "coords": [
-                        10.043015,
-                        48.347516
-                  ]
-            },
-            {
-                  "name": "Ludwigsfelder Baggersee",
-                  "text": "Ludwigsfelder Baggersee din Ulm este o destinație populară pentru cei care caută relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        10.026371,
-                        48.365882
-                  ]
-            },
-            {
-                  "name": "Oberer Plessenteich",
-                  "text": "Obere Plessenteich din Ulm oferă o priveliște frumoasă și liniște în natură.",
-                  "category": "natural",
-                  "coords": [
-                        10.04517,
-                        48.362992
-                  ]
-            },
-            {
-                  "name": "Beschussamtsee",
-                  "text": "Beschussamtsee din Ulm este o apă locală într-un mediu verde.",
-                  "category": "natural",
-                  "coords": [
-                        9.959582,
-                        48.37196
-                  ]
-            },
-            {
-                  "name": "Werzler Weiher",
-                  "text": "Werzler Weiher – un iaz lângă Ulm.",
-                  "category": "natural",
-                  "coords": [
-                        10.045485,
-                        48.352782
                   ]
             },
             {
@@ -11031,39 +10536,12 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Trinkwasserhochbehälter Einsingen",
-                  "text": "Lacul de la rezervorul de apă Einsingen din Ulm este situat într-un mediu natural.",
-                  "category": "natural",
-                  "coords": [
-                        9.9055,
-                        48.358413
-                  ]
-            },
-            {
-                  "name": "Nussersee",
-                  "text": "Nussersee din Ulm este un loc idilic pentru relaxare și bucurarea de natură.",
-                  "category": "natural",
-                  "coords": [
-                        10.056023,
-                        48.392218
-                  ]
-            },
-            {
                   "name": "Fischersee",
                   "text": "Fischersee din Ulm oferă un cadru liniștit pentru observații în natură.",
                   "category": "natural",
                   "coords": [
                         10.059822,
                         48.421124
-                  ]
-            },
-            {
-                  "name": "südlicher Ausee",
-                  "text": "Lacul Ausee de sud din Ulm este un lac liniștit pentru plimbări relaxante.",
-                  "category": "natural",
-                  "coords": [
-                        10.022645,
-                        48.32868
                   ]
             },
             {
@@ -11076,30 +10554,12 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Brandstätter Baggersee",
-                  "text": "Brandstätter Baggersee din Ulm oferă o atmosferă liniștită pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        10.088188,
-                        48.409338
-                  ]
-            },
-            {
                   "name": "Burlafinger Baggersee",
                   "text": "Burlafinger Baggersee din Ulm este o apă locală populară pentru iubitorii de natură.",
                   "category": "natural",
                   "coords": [
                         10.050761,
                         48.424694
-                  ]
-            },
-            {
-                  "name": "Grüner Spielplatz",
-                  "text": "Grüner Spielplatz din Ulm oferă copiilor mult spațiu de joacă într-un mediu verde.",
-                  "category": "family",
-                  "coords": [
-                        10.014373,
-                        48.372728
                   ]
             },
             {
@@ -11127,24 +10587,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         10.010309,
                         48.408366
-                  ]
-            },
-            {
-                  "name": "Schwimmerbecken",
-                  "text": "Schwimmerbecken din Ulm oferă condiții ideale pentru înot sportiv și recreere activă.",
-                  "category": "family",
-                  "coords": [
-                        9.984433,
-                        48.385468
-                  ]
-            },
-            {
-                  "name": "Schildkröten- und Reptilienzoo",
-                  "text": "Grădina zoologică de țestoase și reptile din Ulm oferă o privire fascinantă în lumea reptilelor.",
-                  "category": "family",
-                  "coords": [
-                        10.02589,
-                        48.375828
                   ]
             }
       ],
@@ -11301,15 +10743,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Florian Zimmer Theater",
-                  "text": "A modern magic and illusion theatre in Neu-Ulm offering spectacular shows.",
-                  "category": "cultural",
-                  "coords": [
-                        10.007562,
-                        48.383896
-                  ]
-            },
-            {
                   "name": "Theater Ulm",
                   "text": "The oldest municipal theatre in Germany, offering opera, drama, and ballet performances.",
                   "category": "cultural",
@@ -11382,24 +10815,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Donaubad Freibad",
-                  "text": "A popular outdoor pool on the Danube with various basins and sunbathing areas for recreation.",
-                  "category": "family",
-                  "coords": [
-                        9.986311,
-                        48.387046
-                  ]
-            },
-            {
-                  "name": "Donaubad",
-                  "text": "A large water park on the Danube featuring slides and a spacious wellness area.",
-                  "category": "family",
-                  "coords": [
-                        9.985629,
-                        48.385849
-                  ]
-            },
-            {
                   "name": "Ehemaliger Infanteriestützpunkt Gleißelstetten",
                   "text": "A historical part of the Federal Fortress Ulm that originally served as a defensive facility.",
                   "category": "fortress",
@@ -11424,15 +10839,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.980306,
                         48.414334
-                  ]
-            },
-            {
-                  "name": "Kiesbank Illerbrücke",
-                  "text": "A natural gravel bank on the Iller river used for sunbathing and swimming in summer.",
-                  "category": "recreational",
-                  "coords": [
-                        9.988224,
-                        48.370384
                   ]
             },
             {
@@ -11481,24 +10887,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Gurrensee",
-                  "text": "The Gurrensee in Ulm is a beautiful body of water that invites you to relax in nature.",
-                  "category": "natural",
-                  "coords": [
-                        10.020124,
-                        48.349434
-                  ]
-            },
-            {
-                  "name": "nördlicher Ausee",
-                  "text": "The northern Ausee in Ulm offers a peaceful setting for walks by the water.",
-                  "category": "natural",
-                  "coords": [
-                        10.016873,
-                        48.333722
-                  ]
-            },
-            {
                   "name": "Südlicher Griessee",
                   "text": "Südlicher Griessee – a lake south of Ulm.",
                   "category": "natural",
@@ -11514,51 +10902,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         10.064649,
                         48.42896
-                  ]
-            },
-            {
-                  "name": "Werzler See",
-                  "text": "Werzler See – a swimming lake near Ulm.",
-                  "category": "natural",
-                  "coords": [
-                        10.043015,
-                        48.347516
-                  ]
-            },
-            {
-                  "name": "Ludwigsfelder Baggersee",
-                  "text": "The Ludwigsfelder Baggersee in Ulm is a popular destination for those seeking relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        10.026371,
-                        48.365882
-                  ]
-            },
-            {
-                  "name": "Oberer Plessenteich",
-                  "text": "The Oberer Plessenteich in Ulm offers a beautiful view and peace in nature.",
-                  "category": "natural",
-                  "coords": [
-                        10.04517,
-                        48.362992
-                  ]
-            },
-            {
-                  "name": "Beschussamtsee",
-                  "text": "The Beschussamtsee in Ulm is a local body of water in a green setting.",
-                  "category": "natural",
-                  "coords": [
-                        9.959582,
-                        48.37196
-                  ]
-            },
-            {
-                  "name": "Werzler Weiher",
-                  "text": "Werzler Weiher – a small pond near Ulm.",
-                  "category": "natural",
-                  "coords": [
-                        10.045485,
-                        48.352782
                   ]
             },
             {
@@ -11607,39 +10950,12 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Trinkwasserhochbehälter Einsingen",
-                  "text": "The lake at the Einsingen drinking water reservoir in Ulm is situated in a natural setting.",
-                  "category": "natural",
-                  "coords": [
-                        9.9055,
-                        48.358413
-                  ]
-            },
-            {
-                  "name": "Nussersee",
-                  "text": "The Nussersee in Ulm is an idyllic place to relax and enjoy nature.",
-                  "category": "natural",
-                  "coords": [
-                        10.056023,
-                        48.392218
-                  ]
-            },
-            {
                   "name": "Fischersee",
                   "text": "The Fischersee in Ulm offers a peaceful backdrop for nature observations.",
                   "category": "natural",
                   "coords": [
                         10.059822,
                         48.421124
-                  ]
-            },
-            {
-                  "name": "südlicher Ausee",
-                  "text": "The southern Ausee in Ulm is a quiet lake for relaxing walks.",
-                  "category": "natural",
-                  "coords": [
-                        10.022645,
-                        48.32868
                   ]
             },
             {
@@ -11652,30 +10968,12 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Brandstätter Baggersee",
-                  "text": "The Brandstätter Baggersee in Ulm offers a quiet atmosphere by the water.",
-                  "category": "natural",
-                  "coords": [
-                        10.088188,
-                        48.409338
-                  ]
-            },
-            {
                   "name": "Burlafinger Baggersee",
                   "text": "The Burlafinger Baggersee in Ulm is a popular local body of water for nature lovers.",
                   "category": "natural",
                   "coords": [
                         10.050761,
                         48.424694
-                  ]
-            },
-            {
-                  "name": "Grüner Spielplatz",
-                  "text": "The Grüne Spielplatz in Ulm offers children plenty of space to play in a green setting.",
-                  "category": "family",
-                  "coords": [
-                        10.014373,
-                        48.372728
                   ]
             },
             {
@@ -11703,24 +11001,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         10.010309,
                         48.408366
-                  ]
-            },
-            {
-                  "name": "Schwimmerbecken",
-                  "text": "The Schwimmerbecken in Ulm offers ideal conditions for sports swimming and active recreation.",
-                  "category": "family",
-                  "coords": [
-                        9.984433,
-                        48.385468
-                  ]
-            },
-            {
-                  "name": "Schildkröten- und Reptilienzoo",
-                  "text": "The turtle and reptile zoo in Ulm offers a fascinating insight into the world of reptiles.",
-                  "category": "family",
-                  "coords": [
-                        10.02589,
-                        48.375828
                   ]
             }
       ],
@@ -11794,266 +11074,10 @@ export const poiExtraDe1: POI[] = [
 
   {
     id: "mnt-feldberg-bw-extra", "sights": {
-      "de": [
-            {
-                  "name": "Haus der Natur",
-                  "text": "Interaktives Museum im Schwarzwald, das über die lokale Flora und Fauna informiert.",
-                  "category": "museum",
-                  "coords": [
-                        8.034883,
-                        47.860202
-                  ]
-            },
-            {
-                  "name": "Schinkenmuseum",
-                  "text": "Ein kleines Museum auf dem Feldberg, das der Tradition des Schwarzwälder Schinkens gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        8.022145,
-                        47.864476
-                  ]
-            },
-            {
-                  "name": "Baldenweger Buck",
-                  "text": "Ein Nebengipfel des Feldbergs mit weitem Blick über den Schwarzwald.",
-                  "category": "landmark",
-                  "coords": [
-                        8.014749,
-                        47.877169
-                  ]
-            },
-            {
-                  "name": "Stübenwasen",
-                  "text": "Ein markanter Gipfel im Schwarzwald mit einer bekannten Berggaststätte.",
-                  "category": "landmark",
-                  "coords": [
-                        7.971566,
-                        47.867402
-                  ]
-            },
-            {
-                  "name": "Toter Mann",
-                  "text": "Ein Berg im Schwarzwald, der für seine Wanderwege und Aussichten bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        7.990247,
-                        47.892138
-                  ]
-            },
-            {
-                  "name": "Grafenmatt",
-                  "text": "Ein Berggipfel im Schwarzwald, der im Winter ein beliebtes Skigebiet ist.",
-                  "category": "landmark",
-                  "coords": [
-                        8.020433,
-                        47.847871
-                  ]
-            },
-            {
-                  "name": "Immisberg",
-                  "text": "Ein Berg im Schwarzwald-Massiv nahe dem Feldberg.",
-                  "category": "landmark",
-                  "coords": [
-                        7.995654,
-                        47.87922
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Haus der Natur",
-                  "text": "Interaktív múzeum a Fekete-erdőben, amely a helyi élővilágot mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        8.034883,
-                        47.860202
-                  ]
-            },
-            {
-                  "name": "Schinkenmuseum",
-                  "text": "A Feldberg-hegyen található kis múzeum, amely a fekete-erdei sonka hagyományát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        8.022145,
-                        47.864476
-                  ]
-            },
-            {
-                  "name": "Baldenweger Buck",
-                  "text": "A Feldberg egyik mellékcsúcsa, ahonnan tágas kilátás nyílik a Fekete-erdőre.",
-                  "category": "landmark",
-                  "coords": [
-                        8.014749,
-                        47.877169
-                  ]
-            },
-            {
-                  "name": "Stübenwasen",
-                  "text": "A Fekete-erdő egyik jellegzetes csúcsa, népszerű hegyi fogadóval.",
-                  "category": "landmark",
-                  "coords": [
-                        7.971566,
-                        47.867402
-                  ]
-            },
-            {
-                  "name": "Toter Mann",
-                  "text": "Hegycsúcs a Fekete-erdőben, amely túraútvonalairól és kilátásáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        7.990247,
-                        47.892138
-                  ]
-            },
-            {
-                  "name": "Grafenmatt",
-                  "text": "Hegycsúcs a Fekete-erdőben, amely télen népszerű síterület.",
-                  "category": "landmark",
-                  "coords": [
-                        8.020433,
-                        47.847871
-                  ]
-            },
-            {
-                  "name": "Immisberg",
-                  "text": "Hegycsúcs a Fekete-erdő hegységben, a Feldberg közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        7.995654,
-                        47.87922
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Haus der Natur",
-                  "text": "Muzeu interactiv în Pădurea Neagră, dedicat florei și faunei locale.",
-                  "category": "museum",
-                  "coords": [
-                        8.034883,
-                        47.860202
-                  ]
-            },
-            {
-                  "name": "Schinkenmuseum",
-                  "text": "Un mic muzeu pe muntele Feldberg, dedicat tradiției șoncii din Pădurea Neagră.",
-                  "category": "museum",
-                  "coords": [
-                        8.022145,
-                        47.864476
-                  ]
-            },
-            {
-                  "name": "Baldenweger Buck",
-                  "text": "Un vârf secundar al muntelui Feldberg, oferind vederi largi asupra Pădurii Negre.",
-                  "category": "landmark",
-                  "coords": [
-                        8.014749,
-                        47.877169
-                  ]
-            },
-            {
-                  "name": "Stübenwasen",
-                  "text": "Un vârf proeminent din Pădurea Neagră, dotat cu un han montan cunoscut.",
-                  "category": "landmark",
-                  "coords": [
-                        7.971566,
-                        47.867402
-                  ]
-            },
-            {
-                  "name": "Toter Mann",
-                  "text": "Un munte în Pădurea Neagră, cunoscut pentru traseele de drumeție și panorame.",
-                  "category": "landmark",
-                  "coords": [
-                        7.990247,
-                        47.892138
-                  ]
-            },
-            {
-                  "name": "Grafenmatt",
-                  "text": "Un vârf montan în Pădurea Neagră, care este o zonă de schi populară iarna.",
-                  "category": "landmark",
-                  "coords": [
-                        8.020433,
-                        47.847871
-                  ]
-            },
-            {
-                  "name": "Immisberg",
-                  "text": "Un vârf în masivul Pădurea Neagră, situat lângă Feldberg.",
-                  "category": "landmark",
-                  "coords": [
-                        7.995654,
-                        47.87922
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Haus der Natur",
-                  "text": "An interactive museum in the Black Forest focusing on local flora and fauna.",
-                  "category": "museum",
-                  "coords": [
-                        8.034883,
-                        47.860202
-                  ]
-            },
-            {
-                  "name": "Schinkenmuseum",
-                  "text": "A small museum on Mount Feldberg dedicated to the tradition of Black Forest ham.",
-                  "category": "museum",
-                  "coords": [
-                        8.022145,
-                        47.864476
-                  ]
-            },
-            {
-                  "name": "Baldenweger Buck",
-                  "text": "A sub-peak of the Feldberg offering wide views over the Black Forest.",
-                  "category": "landmark",
-                  "coords": [
-                        8.014749,
-                        47.877169
-                  ]
-            },
-            {
-                  "name": "Stübenwasen",
-                  "text": "A prominent peak in the Black Forest featuring a well-known mountain inn.",
-                  "category": "landmark",
-                  "coords": [
-                        7.971566,
-                        47.867402
-                  ]
-            },
-            {
-                  "name": "Toter Mann",
-                  "text": "A mountain in the Black Forest known for its hiking trails and scenic views.",
-                  "category": "landmark",
-                  "coords": [
-                        7.990247,
-                        47.892138
-                  ]
-            },
-            {
-                  "name": "Grafenmatt",
-                  "text": "A mountain peak in the Black Forest that is a popular skiing area in winter.",
-                  "category": "landmark",
-                  "coords": [
-                        8.020433,
-                        47.847871
-                  ]
-            },
-            {
-                  "name": "Immisberg",
-                  "text": "A mountain peak in the Black Forest massif near the Feldberg.",
-                  "category": "landmark",
-                  "coords": [
-                        7.995654,
-                        47.87922
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "DE-BW",
@@ -12410,15 +11434,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.096321,
                         48.528781
-                  ]
-            },
-            {
-                  "name": "Baggersee Epple Kirchentellinsfurt",
-                  "text": "Der Baggersee Epple in Kirchentellinsfurt ist ein beliebtes Ziel für Erholungssuchende in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        9.151052,
-                        48.54119
                   ]
             },
             {
@@ -12827,15 +11842,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Baggersee Epple Kirchentellinsfurt",
-                  "text": "A Kirchentellinsfurtban található Baggersee Epple népszerű célpont a természetben pihenni vágyóknak.",
-                  "category": "natural",
-                  "coords": [
-                        9.151052,
-                        48.54119
-                  ]
-            },
-            {
                   "name": "Bischoff-Baggersee",
                   "text": "A tübingeni Bischoff-Baggersee pihentető órákra hívogat a vízparton.",
                   "category": "natural",
@@ -13241,15 +12247,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Baggersee Epple Kirchentellinsfurt",
-                  "text": "Baggersee Epple din Kirchentellinsfurt este o destinație populară pentru cei care caută relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.151052,
-                        48.54119
-                  ]
-            },
-            {
                   "name": "Bischoff-Baggersee",
                   "text": "Bischoff-Baggersee din Tübingen invită la ore de relaxare pe malul apei.",
                   "category": "natural",
@@ -13652,15 +12649,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.096321,
                         48.528781
-                  ]
-            },
-            {
-                  "name": "Baggersee Epple Kirchentellinsfurt",
-                  "text": "Baggersee Epple in Kirchentellinsfurt is a popular destination for those seeking relaxation in nature.",
-                  "category": "natural",
-                  "coords": [
-                        9.151052,
-                        48.54119
                   ]
             },
             {
@@ -14314,39 +13302,12 @@ export const poiExtraDe1: POI[] = [
                   "confidence": "high"
             },
             {
-                  "name": "Hus-Museum Konstanz",
-                  "text": "Ein Museum in Konstanz, das dem böhmischen Reformator Jan Hus gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        9.170944,
-                        47.658897
-                  ]
-            },
-            {
-                  "name": "Rosgartenmuseum",
-                  "text": "Das Museum präsentiert die Kunst- und Kulturgeschichte der Stadt Konstanz und der Region.",
-                  "category": "museum",
-                  "coords": [
-                        9.174765,
-                        47.65979
-                  ]
-            },
-            {
                   "name": "Städtische Wessenberg Galerie",
                   "text": "Diese Galerie in Konstanz zeigt bedeutende Kunstwerke aus dem südwestdeutschen Raum.",
                   "category": "museum",
                   "coords": [
                         9.175074,
                         47.663305
-                  ]
-            },
-            {
-                  "name": "Bodensee-Naturmuseum",
-                  "text": "Ein Museum, das sich der vielfältigen Flora und Fauna des Bodenseeraums widmet.",
-                  "category": "museum",
-                  "coords": [
-                        9.180583,
-                        47.657108
                   ]
             },
             {
@@ -14374,15 +13335,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.178877,
                         47.668187
-                  ]
-            },
-            {
-                  "name": "K 9",
-                  "text": "Ein bekanntes Kulturzentrum und Theater, das in den Räumlichkeiten der ehemaligen Paulskirche untergebracht ist.",
-                  "category": "cultural",
-                  "coords": [
-                        9.171467,
-                        47.659909
                   ]
             },
             {
@@ -14440,15 +13392,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Schmuggler Bucht",
-                  "text": "Eine Badebucht am Bodensee in Konstanz.",
-                  "category": "recreational",
-                  "coords": [
-                        9.193654,
-                        47.666073
-                  ]
-            },
-            {
                   "name": "Schwaketenbad",
                   "text": "Ein großes Freizeit- und Hallenbad im Stadtteil Wollmatingen in Konstanz.",
                   "category": "family",
@@ -14464,15 +13407,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.161546,
                         47.681917
-                  ]
-            },
-            {
-                  "name": "Seeburgturm",
-                  "text": "Ein Aussichtsturm im Seeburgpark in Kreuzlingen, direkt an der Grenze zu Konstanz.",
-                  "category": "natural",
-                  "coords": [
-                        9.18535,
-                        47.652676
                   ]
             },
             {
@@ -14512,24 +13446,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Dingelsdorfer Weiher",
-                  "text": "Dieser Weiher in Konstanz ist ein schönes Ziel für einen entspannten Spaziergang am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        9.138705,
-                        47.727552
-                  ]
-            },
-            {
-                  "name": "Undere Bommerweiher",
-                  "text": "Ein idyllisches Gewässer bei Konstanz, das zum Verweilen in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        9.149812,
-                        47.617305
-                  ]
-            },
-            {
                   "name": "Bruckgraben",
                   "text": "Ein ruhiger Ort am Wasser in Konstanz, ideal für eine kleine Auszeit im Grünen.",
                   "category": "natural",
@@ -14539,30 +13455,12 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Obere Bommerweiher",
-                  "text": "Obere Bommerweiher – ein Weiher bei Konstanz.",
-                  "category": "natural",
-                  "coords": [
-                        9.157578,
-                        47.618685
-                  ]
-            },
-            {
                   "name": "Regenklärbecken Hegne",
                   "text": "Ein ruhiges Wasserbecken in Konstanz, umgeben von schöner Landschaft.",
                   "category": "natural",
                   "coords": [
                         9.101234,
                         47.705993
-                  ]
-            },
-            {
-                  "name": "Bodensee",
-                  "text": "Der Bodensee bei Konstanz bietet unzählige Möglichkeiten für Freizeitaktivitäten am und im Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        9.30627,
-                        47.647787
                   ]
             },
             {
@@ -14581,15 +13479,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.150143,
                         47.692171
-                  ]
-            },
-            {
-                  "name": "Fusion Arena Virtual Reality Center Kreuzlingen",
-                  "text": "Ein modernes Virtual-Reality-Zentrum in Konstanz für spannende Erlebnisse mit der Familie.",
-                  "category": "family",
-                  "coords": [
-                        9.172235,
-                        47.650811
                   ]
             },
             {
@@ -14620,15 +13509,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Spielburgpark",
-                  "text": "Ein großzügiger Spielplatz in Konstanz mit vielfältigen Möglichkeiten zum Klettern und Spielen.",
-                  "category": "family",
-                  "coords": [
-                        9.181987,
-                        47.650284
-                  ]
-            },
-            {
                   "name": "Katzgasse",
                   "text": "Ein charmanter Spielplatz in Konstanz, ideal für eine kleine Spielpause zwischendurch.",
                   "category": "family",
@@ -14656,15 +13536,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Gütlespielplatz",
-                  "text": "Ein gepflegter Spielplatz in Konstanz, auf dem Kinder sicher spielen können.",
-                  "category": "family",
-                  "coords": [
-                        9.168668,
-                        47.661586
-                  ]
-            },
-            {
                   "name": "Steine im Fluss",
                   "text": "Ein originell gestalteter Spielplatz in Konstanz, der zum kreativen Spielen anregt.",
                   "category": "family",
@@ -14680,15 +13551,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.191898,
                         47.704143
-                  ]
-            },
-            {
-                  "name": "Thermalbad Egelsee",
-                  "text": "Das Thermalbad Egelsee bietet entspannendes Baden in warmem Wasser.",
-                  "category": "family",
-                  "coords": [
-                        9.176786,
-                        47.645533
                   ]
             },
             {
@@ -14710,15 +13572,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Tierpark Kreuzlingen",
-                  "text": "Der Tierpark Kreuzlingen bietet Familien die Möglichkeit, verschiedene Tiere zu beobachten.",
-                  "category": "family",
-                  "coords": [
-                        9.185224,
-                        47.650517
-                  ]
-            },
-            {
                   "name": "Rheinstrandbad",
                   "text": "Das Rheinstrandbad bietet Bademöglichkeiten direkt am Ufer des Rheins.",
                   "category": "family",
@@ -14734,15 +13587,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.194175,
                         47.706262
-                  ]
-            },
-            {
-                  "name": "Piazza Cisternino",
-                  "text": "Piazza Cisternino ist ein familienfreundlicher Platz mit Brunnen in der Altstadt von Konstanz.",
-                  "category": "family",
-                  "coords": [
-                        9.174507,
-                        47.649365
                   ]
             },
             {
@@ -14825,39 +13669,12 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Hus-Haus",
-                  "text": "Konstanzi múzeum, amelyet Jan Hus cseh reformátornak szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        9.170944,
-                        47.658897
-                  ]
-            },
-            {
-                  "name": "Rosgartenmuseum",
-                  "text": "A múzeum Konstanz városának és régiójának művészeti és kultúrtörténetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        9.174765,
-                        47.65979
-                  ]
-            },
-            {
                   "name": "Städtische Wessenberg Galerie",
                   "text": "Ez a konstanzi galéria jelentős műalkotásokat mutat be Délnyugat-Németországból.",
                   "category": "museum",
                   "coords": [
                         9.175074,
                         47.663305
-                  ]
-            },
-            {
-                  "name": "Bodensee-Naturmuseum",
-                  "text": "A Bodeni-tó vidékének változatos növény- és állatvilágának szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        9.180583,
-                        47.657108
                   ]
             },
             {
@@ -14885,15 +13702,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.178877,
                         47.668187
-                  ]
-            },
-            {
-                  "name": "K 9",
-                  "text": "Népszerű kulturális központ és színház, amely az egykori Szent Pál-templom épületében működik.",
-                  "category": "cultural",
-                  "coords": [
-                        9.171467,
-                        47.659909
                   ]
             },
             {
@@ -14951,15 +13759,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Schmuggler Bucht",
-                  "text": "Egy fürdőöböl a Boden-tó partján, Konstanzban.",
-                  "category": "recreational",
-                  "coords": [
-                        9.193654,
-                        47.666073
-                  ]
-            },
-            {
                   "name": "Schwaketenbad",
                   "text": "Egy nagy szabadidős és fedett uszoda Konstanz Wollmatingen negyedében.",
                   "category": "family",
@@ -14975,15 +13774,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.161546,
                         47.681917
-                  ]
-            },
-            {
-                  "name": "Seeburgturm",
-                  "text": "Egy kilátótorony a kreuzlingeni Seeburgparkban, közvetlenül a konstanzi határnál.",
-                  "category": "natural",
-                  "coords": [
-                        9.18535,
-                        47.652676
                   ]
             },
             {
@@ -15023,24 +13813,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Dingelsdorfer Weiher",
-                  "text": "Ez a konstanzi tavacska szép célpont egy pihentető vízparti sétához.",
-                  "category": "natural",
-                  "coords": [
-                        9.138705,
-                        47.727552
-                  ]
-            },
-            {
-                  "name": "Undere Bommerweiher",
-                  "text": "Idilli vízfelület Konstanz közelében, amely a természetben való időzésre hív.",
-                  "category": "natural",
-                  "coords": [
-                        9.149812,
-                        47.617305
-                  ]
-            },
-            {
                   "name": "Bruckgraben",
                   "text": "Nyugodt vízparti hely Konstanzban, amely ideális egy kis zöldövezeti pihenőhöz.",
                   "category": "natural",
@@ -15050,30 +13822,12 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Obere Bommerweiher",
-                  "text": "Obere Bommerweiher – egy tó Konstanz mellett.",
-                  "category": "natural",
-                  "coords": [
-                        9.157578,
-                        47.618685
-                  ]
-            },
-            {
                   "name": "Regenklärbecken Hegne",
                   "text": "Nyugodt víztározó Konstanzban, szép tájjal körülvéve.",
                   "category": "natural",
                   "coords": [
                         9.101234,
                         47.705993
-                  ]
-            },
-            {
-                  "name": "Bodensee",
-                  "text": "A Bódeni-tó Konstanznál számtalan lehetőséget kínál a vízparti és vízi szabadidős tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        9.30627,
-                        47.647787
                   ]
             },
             {
@@ -15092,15 +13846,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.150143,
                         47.692171
-                  ]
-            },
-            {
-                  "name": "Fusion Arena Virtual Reality Center Kreuzlingen",
-                  "text": "Modern virtuális valóság központ Konstanzban az izgalmas családi élményekhez.",
-                  "category": "family",
-                  "coords": [
-                        9.172235,
-                        47.650811
                   ]
             },
             {
@@ -15131,15 +13876,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Spielburgpark",
-                  "text": "Tágas játszótér Konstanzban, változatos mászási és játéklehetőségekkel.",
-                  "category": "family",
-                  "coords": [
-                        9.181987,
-                        47.650284
-                  ]
-            },
-            {
                   "name": "Katzgasse",
                   "text": "Bájos játszótér Konstanzban, amely ideális egy kis játékos szünetre.",
                   "category": "family",
@@ -15167,15 +13903,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Gütlespielplatz",
-                  "text": "Gondozott játszótér Konstanzban, ahol a gyerekek biztonságosan játszhatnak.",
-                  "category": "family",
-                  "coords": [
-                        9.168668,
-                        47.661586
-                  ]
-            },
-            {
                   "name": "Steine im Fluss",
                   "text": "Eredeti kialakítású játszótér Konstanzban, amely kreatív játékra ösztönöz.",
                   "category": "family",
@@ -15191,15 +13918,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.191898,
                         47.704143
-                  ]
-            },
-            {
-                  "name": "Thermalbad Egelsee",
-                  "text": "Az Egelsee termálfürdő pihentető fürdőzést kínál meleg vízben.",
-                  "category": "family",
-                  "coords": [
-                        9.176786,
-                        47.645533
                   ]
             },
             {
@@ -15221,15 +13939,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Tierpark Kreuzlingen",
-                  "text": "A kreuzlingeni állatpark lehetőséget nyújt a családoknak különféle állatok megfigyelésére.",
-                  "category": "family",
-                  "coords": [
-                        9.185224,
-                        47.650517
-                  ]
-            },
-            {
                   "name": "Rheinstrandbad",
                   "text": "A Rheinstrandbad közvetlenül a Rajna partján kínál fürdési lehetőséget.",
                   "category": "family",
@@ -15245,15 +13954,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.194175,
                         47.706262
-                  ]
-            },
-            {
-                  "name": "Piazza Cisternino",
-                  "text": "A Piazza Cisternino egy családbarát tér szökőkúttal Konstanz óvárosában.",
-                  "category": "family",
-                  "coords": [
-                        9.174507,
-                        47.649365
                   ]
             },
             {
@@ -15336,39 +14036,12 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Hus-Haus",
-                  "text": "Un muzeu din Konstanz dedicat reformatorului boem Jan Hus.",
-                  "category": "museum",
-                  "coords": [
-                        9.170944,
-                        47.658897
-                  ]
-            },
-            {
-                  "name": "Rosgartenmuseum",
-                  "text": "Muzeul prezintă istoria artei și culturii orașului Konstanz și a regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        9.174765,
-                        47.65979
-                  ]
-            },
-            {
                   "name": "Städtische Wessenberg Galerie",
                   "text": "Această galerie din Konstanz expune opere de artă importante din zona de sud-vest a Germaniei.",
                   "category": "museum",
                   "coords": [
                         9.175074,
                         47.663305
-                  ]
-            },
-            {
-                  "name": "Bodensee-Naturmuseum",
-                  "text": "Un muzeu dedicat florei și faunei diverse din regiunea Lacului Constanța.",
-                  "category": "museum",
-                  "coords": [
-                        9.180583,
-                        47.657108
                   ]
             },
             {
@@ -15396,15 +14069,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.178877,
                         47.668187
-                  ]
-            },
-            {
-                  "name": "K 9",
-                  "text": "Un cunoscut centru cultural și teatru situat în incinta fostei biserici Sfântul Paul.",
-                  "category": "cultural",
-                  "coords": [
-                        9.171467,
-                        47.659909
                   ]
             },
             {
@@ -15462,15 +14126,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Schmuggler Bucht",
-                  "text": "Un golf pentru scăldat pe malul lacului Constanța (Bodensee) în Konstanz.",
-                  "category": "recreational",
-                  "coords": [
-                        9.193654,
-                        47.666073
-                  ]
-            },
-            {
                   "name": "Schwaketenbad",
                   "text": "Un parc acvatic și piscină acoperită situată în cartierul Wollmatingen din Konstanz.",
                   "category": "family",
@@ -15486,15 +14141,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.161546,
                         47.681917
-                  ]
-            },
-            {
-                  "name": "Seeburgturm",
-                  "text": "Un turn de observare în parcul Seeburg din Kreuzlingen, chiar lângă granița cu Konstanz.",
-                  "category": "natural",
-                  "coords": [
-                        9.18535,
-                        47.652676
                   ]
             },
             {
@@ -15534,24 +14180,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Dingelsdorfer Weiher",
-                  "text": "Acest iaz din Constance este o destinație frumoasă pentru o plimbare relaxantă pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        9.138705,
-                        47.727552
-                  ]
-            },
-            {
-                  "name": "Undere Bommerweiher",
-                  "text": "O apă idilică lângă Constance, care invită la relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.149812,
-                        47.617305
-                  ]
-            },
-            {
                   "name": "Bruckgraben",
                   "text": "Un loc liniștit pe malul apei în Constance, ideal pentru o mică pauză în natură.",
                   "category": "natural",
@@ -15561,30 +14189,12 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Obere Bommerweiher",
-                  "text": "Obere Bommerweiher – un iaz lângă Konstanz.",
-                  "category": "natural",
-                  "coords": [
-                        9.157578,
-                        47.618685
-                  ]
-            },
-            {
                   "name": "Regenklärbecken Hegne",
                   "text": "Un bazin de apă liniștit în Constance, înconjurat de un peisaj frumos.",
                   "category": "natural",
                   "coords": [
                         9.101234,
                         47.705993
-                  ]
-            },
-            {
-                  "name": "Bodensee",
-                  "text": "Lacul Constance de lângă orașul cu același nume oferă nenumărate posibilități pentru activități de agrement pe și în apă.",
-                  "category": "natural",
-                  "coords": [
-                        9.30627,
-                        47.647787
                   ]
             },
             {
@@ -15603,15 +14213,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.150143,
                         47.692171
-                  ]
-            },
-            {
-                  "name": "Fusion Arena Virtual Reality Center Kreuzlingen",
-                  "text": "Un centru modern de realitate virtuală în Constance pentru experiențe captivante alături de familie.",
-                  "category": "family",
-                  "coords": [
-                        9.172235,
-                        47.650811
                   ]
             },
             {
@@ -15642,15 +14243,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Spielburgpark",
-                  "text": "Un loc de joacă generos în Constance, cu posibilități variate de cățărat și joacă.",
-                  "category": "family",
-                  "coords": [
-                        9.181987,
-                        47.650284
-                  ]
-            },
-            {
                   "name": "Katzgasse",
                   "text": "Un loc de joacă fermecător în Constance, ideal pentru o mică pauză de joacă.",
                   "category": "family",
@@ -15678,15 +14270,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Gütlespielplatz",
-                  "text": "Un loc de joacă îngrijit în Constance, unde copiii se pot juca în siguranță.",
-                  "category": "family",
-                  "coords": [
-                        9.168668,
-                        47.661586
-                  ]
-            },
-            {
                   "name": "Steine im Fluss",
                   "text": "Un loc de joacă cu un design original în Constance, care stimulează jocul creativ.",
                   "category": "family",
@@ -15702,15 +14285,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.191898,
                         47.704143
-                  ]
-            },
-            {
-                  "name": "Thermalbad Egelsee",
-                  "text": "Baia termală Egelsee oferă scăldat relaxant în apă caldă.",
-                  "category": "family",
-                  "coords": [
-                        9.176786,
-                        47.645533
                   ]
             },
             {
@@ -15732,15 +14306,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Tierpark Kreuzlingen",
-                  "text": "Grădina zoologică din Kreuzlingen oferă familiilor ocazia de a observa diverse animale.",
-                  "category": "family",
-                  "coords": [
-                        9.185224,
-                        47.650517
-                  ]
-            },
-            {
                   "name": "Rheinstrandbad",
                   "text": "Rheinstrandbad oferă posibilități de scăldat direct pe malul Rinului.",
                   "category": "family",
@@ -15756,15 +14321,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.194175,
                         47.706262
-                  ]
-            },
-            {
-                  "name": "Piazza Cisternino",
-                  "text": "Piazza Cisternino este o piață pentru familii cu o fântână în centrul vechi al Constanței.",
-                  "category": "family",
-                  "coords": [
-                        9.174507,
-                        47.649365
                   ]
             },
             {
@@ -15847,39 +14403,12 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Hus-Haus",
-                  "text": "A museum in Konstanz dedicated to the Bohemian reformer Jan Hus.",
-                  "category": "museum",
-                  "coords": [
-                        9.170944,
-                        47.658897
-                  ]
-            },
-            {
-                  "name": "Rosgartenmuseum",
-                  "text": "The museum presents the art and cultural history of the city of Konstanz and the region.",
-                  "category": "museum",
-                  "coords": [
-                        9.174765,
-                        47.65979
-                  ]
-            },
-            {
                   "name": "Städtische Wessenberg Galerie",
                   "text": "This gallery in Konstanz displays significant works of art from the southwestern German region.",
                   "category": "museum",
                   "coords": [
                         9.175074,
                         47.663305
-                  ]
-            },
-            {
-                  "name": "Bodensee-Naturmuseum",
-                  "text": "A museum dedicated to the diverse flora and fauna of the Lake Constance region.",
-                  "category": "museum",
-                  "coords": [
-                        9.180583,
-                        47.657108
                   ]
             },
             {
@@ -15907,15 +14436,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.178877,
                         47.668187
-                  ]
-            },
-            {
-                  "name": "K 9",
-                  "text": "A well-known cultural center and theatre located in the former St. Paul's Church.",
-                  "category": "cultural",
-                  "coords": [
-                        9.171467,
-                        47.659909
                   ]
             },
             {
@@ -15973,15 +14493,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Schmuggler Bucht",
-                  "text": "A bathing bay on the shores of Lake Constance in Konstanz.",
-                  "category": "recreational",
-                  "coords": [
-                        9.193654,
-                        47.666073
-                  ]
-            },
-            {
                   "name": "Schwaketenbad",
                   "text": "A large leisure and indoor pool in the Wollmatingen district of Konstanz.",
                   "category": "family",
@@ -15997,15 +14508,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.161546,
                         47.681917
-                  ]
-            },
-            {
-                  "name": "Seeburgturm",
-                  "text": "An observation tower in Seeburg Park in Kreuzlingen, right on the border with Konstanz.",
-                  "category": "natural",
-                  "coords": [
-                        9.18535,
-                        47.652676
                   ]
             },
             {
@@ -16045,24 +14547,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Dingelsdorfer Weiher",
-                  "text": "This pond in Constance is a lovely destination for a relaxed walk by the water.",
-                  "category": "natural",
-                  "coords": [
-                        9.138705,
-                        47.727552
-                  ]
-            },
-            {
-                  "name": "Undere Bommerweiher",
-                  "text": "An idyllic body of water near Constance that invites you to linger in nature.",
-                  "category": "natural",
-                  "coords": [
-                        9.149812,
-                        47.617305
-                  ]
-            },
-            {
                   "name": "Bruckgraben",
                   "text": "A quiet spot by the water in Constance, ideal for a short break in the countryside.",
                   "category": "natural",
@@ -16072,30 +14556,12 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Obere Bommerweiher",
-                  "text": "Obere Bommerweiher – a pond near Konstanz.",
-                  "category": "natural",
-                  "coords": [
-                        9.157578,
-                        47.618685
-                  ]
-            },
-            {
                   "name": "Regenklärbecken Hegne",
                   "text": "A quiet water basin in Constance, surrounded by beautiful scenery.",
                   "category": "natural",
                   "coords": [
                         9.101234,
                         47.705993
-                  ]
-            },
-            {
-                  "name": "Lake Constance",
-                  "text": "Lake Constance near the city offers countless opportunities for leisure activities on and in the water.",
-                  "category": "natural",
-                  "coords": [
-                        9.30627,
-                        47.647787
                   ]
             },
             {
@@ -16114,15 +14580,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.150143,
                         47.692171
-                  ]
-            },
-            {
-                  "name": "Fusion Arena Virtual Reality Center Kreuzlingen",
-                  "text": "A modern virtual reality center in Constance for exciting experiences with the family.",
-                  "category": "family",
-                  "coords": [
-                        9.172235,
-                        47.650811
                   ]
             },
             {
@@ -16153,15 +14610,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Spielburgpark",
-                  "text": "A generous playground in Constance with diverse opportunities for climbing and playing.",
-                  "category": "family",
-                  "coords": [
-                        9.181987,
-                        47.650284
-                  ]
-            },
-            {
                   "name": "Katzgasse",
                   "text": "A charming playground in Constance, ideal for a short play break in between.",
                   "category": "family",
@@ -16189,15 +14637,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Gütlespielplatz",
-                  "text": "A well-maintained playground in Constance where children can play safely.",
-                  "category": "family",
-                  "coords": [
-                        9.168668,
-                        47.661586
-                  ]
-            },
-            {
                   "name": "Steine im Fluss",
                   "text": "An originally designed playground in Constance that encourages creative play.",
                   "category": "family",
@@ -16213,15 +14652,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.191898,
                         47.704143
-                  ]
-            },
-            {
-                  "name": "Thermalbad Egelsee",
-                  "text": "The Egelsee thermal bath offers relaxing bathing in warm water.",
-                  "category": "family",
-                  "coords": [
-                        9.176786,
-                        47.645533
                   ]
             },
             {
@@ -16243,15 +14673,6 @@ export const poiExtraDe1: POI[] = [
                   ]
             },
             {
-                  "name": "Tierpark Kreuzlingen",
-                  "text": "The Kreuzlingen animal park offers families the opportunity to observe various animals.",
-                  "category": "family",
-                  "coords": [
-                        9.185224,
-                        47.650517
-                  ]
-            },
-            {
                   "name": "Rheinstrandbad",
                   "text": "The Rheinstrandbad offers bathing possibilities directly on the banks of the Rhine.",
                   "category": "family",
@@ -16267,15 +14688,6 @@ export const poiExtraDe1: POI[] = [
                   "coords": [
                         9.194175,
                         47.706262
-                  ]
-            },
-            {
-                  "name": "Piazza Cisternino",
-                  "text": "Piazza Cisternino is a family-friendly square with a fountain in Konstanz's old town.",
-                  "category": "family",
-                  "coords": [
-                        9.174507,
-                        47.649365
                   ]
             },
             {

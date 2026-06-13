@@ -220,15 +220,6 @@ export const lithuaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dovainonių piliakalnis",
-                  "text": "Ein bedeutender archäologischer Fundplatz am Ufer der Memel.",
-                  "category": "historical",
-                  "coords": [
-                        24.228361,
-                        54.832333
-                  ]
-            },
-            {
                   "name": "Maisiejūnų I piliakalnis",
                   "text": "Ein antiker Burghügel, der die umliegende Landschaft von Kruonis überragt.",
                   "category": "historical",
@@ -291,15 +282,6 @@ export const lithuaniaEconomicV2: POI[] = [
                   "coords": [
                         24.274861,
                         54.76925
-                  ]
-            },
-            {
-                  "name": "Dovainonių piliakalnis",
-                  "text": "Jelentős régészeti lelőhely a Nyeman folyó partján.",
-                  "category": "historical",
-                  "coords": [
-                        24.228361,
-                        54.832333
                   ]
             },
             {
@@ -368,15 +350,6 @@ export const lithuaniaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dovainonių piliakalnis",
-                  "text": "Un sit arheologic important pe malul râului Nemunas.",
-                  "category": "historical",
-                  "coords": [
-                        24.228361,
-                        54.832333
-                  ]
-            },
-            {
                   "name": "Maisiejūnų I piliakalnis",
                   "text": "O veche așezare fortificată ce domină peisajul din jurul localității Kruonis.",
                   "category": "historical",
@@ -439,15 +412,6 @@ export const lithuaniaEconomicV2: POI[] = [
                   "coords": [
                         24.274861,
                         54.76925
-                  ]
-            },
-            {
-                  "name": "Dovainonių piliakalnis",
-                  "text": "An important archaeological site on the banks of the Nemunas river.",
-                  "category": "historical",
-                  "coords": [
-                        24.228361,
-                        54.832333
                   ]
             },
             {

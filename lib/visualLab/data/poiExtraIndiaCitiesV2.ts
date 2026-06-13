@@ -17742,30 +17742,12 @@ export const poiExtraIndiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maharaja Ranjit Singh",
-                  "text": "Die Statue von Maharaja Ranjit Singh ist ein Denkmal für den Herrscher in Amritsar.",
-                  "category": "historical",
-                  "coords": [
-                        74.879565,
-                        31.623851
-                  ]
-            },
-            {
                   "name": "Shri Durgiana Mandir",
                   "text": "Hindu-Tempel aus dem Jahr 1921 in Amritsar, bekannt für seine verspiegelten Innenräume und silberne Schreine.",
                   "category": "religious",
                   "coords": [
                         74.867414,
                         31.627224
-                  ]
-            },
-            {
-                  "name": "Sri Akal Takht Sahib",
-                  "text": "Einer der fünf Takhts des Sikhismus in Amritsar, Sitz der religiösen Autorität.",
-                  "category": "religious",
-                  "coords": [
-                        74.875388,
-                        31.620703
                   ]
             }
       ],
@@ -17825,30 +17807,12 @@ export const poiExtraIndiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maharaja Ranjit Singh",
-                  "text": "A Maharaja Ranjit Singh-szobor egy emlékmű az uralkodó számára Amritsarban.",
-                  "category": "historical",
-                  "coords": [
-                        74.879565,
-                        31.623851
-                  ]
-            },
-            {
                   "name": "Shri Durgiana Mandir",
                   "text": "1921-ben épült hindu templom Amritsarban, híres tükrös belső tereiről és ezüst szentélyeiről.",
                   "category": "religious",
                   "coords": [
                         74.867414,
                         31.627224
-                  ]
-            },
-            {
-                  "name": "Sri Akal Takht Sahib",
-                  "text": "A szikhizmus öt takhtjának egyike Amritsarban, a vallási tekintély székhelye.",
-                  "category": "religious",
-                  "coords": [
-                        74.875388,
-                        31.620703
                   ]
             }
       ],
@@ -17908,30 +17872,12 @@ export const poiExtraIndiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maharaja Ranjit Singh",
-                  "text": "Statuia lui Maharaja Ranjit Singh este un monument al domnitorului în Amritsar.",
-                  "category": "historical",
-                  "coords": [
-                        74.879565,
-                        31.623851
-                  ]
-            },
-            {
                   "name": "Shri Durgiana Mandir",
                   "text": "Templu hindus construit în 1921 în Amritsar, renumit pentru interioarele sale oglinzite și altarele de argint.",
                   "category": "religious",
                   "coords": [
                         74.867414,
                         31.627224
-                  ]
-            },
-            {
-                  "name": "Sri Akal Takht Sahib",
-                  "text": "Unul dintre cele cinci takht-uri ale sikhismului în Amritsar, sediul autorității religioase.",
-                  "category": "religious",
-                  "coords": [
-                        74.875388,
-                        31.620703
                   ]
             }
       ],
@@ -17943,15 +17889,6 @@ export const poiExtraIndiaCitiesV2: POI[] = [
                   "coords": [
                         74.860408,
                         31.627112
-                  ]
-            },
-            {
-                  "name": "Central Sikh Museum",
-                  "text": "The Central Sikh Museum in Amritsar documents the history of Sikhism.",
-                  "category": "museum",
-                  "coords": [
-                        74.877167,
-                        31.620627
                   ]
             },
             {
@@ -17991,30 +17928,12 @@ export const poiExtraIndiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maharaja Ranjit Singh",
-                  "text": "Maharaja Ranjit Singh statue is a monument to the ruler in Amritsar.",
-                  "category": "historical",
-                  "coords": [
-                        74.879565,
-                        31.623851
-                  ]
-            },
-            {
                   "name": "Shri Durgiana Mandir",
                   "text": "Hindu temple built in 1921 in Amritsar, famous for its mirrored interiors and silver shrines.",
                   "category": "religious",
                   "coords": [
                         74.867414,
                         31.627224
-                  ]
-            },
-            {
-                  "name": "Sri Akal Takht Sahib",
-                  "text": "One of the five takhts of Sikhism in Amritsar, the seat of religious authority.",
-                  "category": "religious",
-                  "coords": [
-                        74.875388,
-                        31.620703
                   ]
             }
       ]

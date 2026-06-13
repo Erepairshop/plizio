@@ -40,15 +40,6 @@ export const poiExtraPortugalNature: POI[] = [
                         -9.497527,
                         39.419265
                   ]
-            },
-            {
-                  "name": "Pedra do Elefante",
-                  "text": "Ein Aussichtspunkt, der für seine elefantenförmige Felsformation bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        -9.512398,
-                        39.40825
-                  ]
             }
       ],
       "hu": [
@@ -86,15 +77,6 @@ export const poiExtraPortugalNature: POI[] = [
                   "coords": [
                         -9.497527,
                         39.419265
-                  ]
-            },
-            {
-                  "name": "Pedra do Elefante",
-                  "text": "Elefánt alakú sziklaképződményéről ismert kilátópont.",
-                  "category": "natural",
-                  "coords": [
-                        -9.512398,
-                        39.40825
                   ]
             }
       ],
@@ -134,15 +116,6 @@ export const poiExtraPortugalNature: POI[] = [
                         -9.497527,
                         39.419265
                   ]
-            },
-            {
-                  "name": "Pedra do Elefante",
-                  "text": "Un punct de belvedere cunoscut pentru formațiunea sa stâncoasă în formă de elefant.",
-                  "category": "natural",
-                  "coords": [
-                        -9.512398,
-                        39.40825
-                  ]
             }
       ],
       "en": [
@@ -180,15 +153,6 @@ export const poiExtraPortugalNature: POI[] = [
                   "coords": [
                         -9.497527,
                         39.419265
-                  ]
-            },
-            {
-                  "name": "Pedra do Elefante",
-                  "text": "A viewpoint known for its elephant-shaped rock formation.",
-                  "category": "natural",
-                  "coords": [
-                        -9.512398,
-                        39.40825
                   ]
             }
       ]
@@ -740,15 +704,6 @@ export const poiExtraPortugalNature: POI[] = [
                   ]
             },
             {
-                  "name": "Miradouro da Cha da Macela",
-                  "text": "Der Aussichtspunkt Miradouro da Chã da Macela bietet ein weitreichendes Panorama über die Vulkanlandschaft der Insel São Miguel.",
-                  "category": "natural",
-                  "coords": [
-                        -25.521633,
-                        37.763749
-                  ]
-            },
-            {
                   "name": "Miradouro da Bela Vista",
                   "text": "Aussichtspunkt mit Panoramablick auf den Kratersee Lagoa do Fogo auf den Azoren.",
                   "category": "natural",
@@ -811,15 +766,6 @@ export const poiExtraPortugalNature: POI[] = [
                   "coords": [
                         -25.487041,
                         37.797782
-                  ]
-            },
-            {
-                  "name": "Miradouro da Cha da Macela",
-                  "text": "A Miradouro da Chã da Macela kilátópont széles körű panorámát nyújt São Miguel szigetének vulkanikus tájára.",
-                  "category": "natural",
-                  "coords": [
-                        -25.521633,
-                        37.763749
                   ]
             },
             {
@@ -888,15 +834,6 @@ export const poiExtraPortugalNature: POI[] = [
                   ]
             },
             {
-                  "name": "Miradouro da Cha da Macela",
-                  "text": "Punctul de belvedere Miradouro da Chã da Macela oferă o panoramă vastă asupra peisajului vulcanic al insulei São Miguel.",
-                  "category": "natural",
-                  "coords": [
-                        -25.521633,
-                        37.763749
-                  ]
-            },
-            {
                   "name": "Miradouro da Bela Vista",
                   "text": "Punct de belvedere cu vedere panoramică asupra lacului de crater Lagoa do Fogo din Azore.",
                   "category": "natural",
@@ -959,15 +896,6 @@ export const poiExtraPortugalNature: POI[] = [
                   "coords": [
                         -25.487041,
                         37.797782
-                  ]
-            },
-            {
-                  "name": "Miradouro da Cha da Macela",
-                  "text": "The viewpoint Miradouro da Chã da Macela offers a wide panorama over the volcanic landscape of São Miguel island.",
-                  "category": "natural",
-                  "coords": [
-                        -25.521633,
-                        37.763749
                   ]
             },
             {

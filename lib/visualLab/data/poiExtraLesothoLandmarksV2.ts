@@ -2722,50 +2722,10 @@ export const lesothoLandmarksV2: POI[] = [
   },
   {
     id: "lesotho-st-stephen-anglican-mohale-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Mohale's Hoek LECSA Church",
-                  "text": "Diese Gemeinde in Mohale's Hoek ist ein wichtiges lokales Zentrum für die Lesotho Evangelical Church in Southern Africa.",
-                  "category": "religious",
-                  "coords": [
-                        27.46634,
-                        -30.157395
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mohale's Hoek LECSA Church",
-                  "text": "Ez a Mohale's Hoek-i plébánia a Dél-afrikai Lesothói Evangélikus Egyház kulcsfontosságú helyi központja.",
-                  "category": "religious",
-                  "coords": [
-                        27.46634,
-                        -30.157395
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Mohale's Hoek LECSA Church",
-                  "text": "Această parohie din Mohale's Hoek este un centru local cheie pentru Biserica Evanghelică Lesotho din Africa de Sud.",
-                  "category": "religious",
-                  "coords": [
-                        27.46634,
-                        -30.157395
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mohale's Hoek LECSA Church",
-                  "text": "This parish in Mohale's Hoek is a key local center for the Lesotho Evangelical Church in Southern Africa.",
-                  "category": "religious",
-                  "coords": [
-                        27.46634,
-                        -30.157395
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LS",
     type: "church",

@@ -2176,15 +2176,6 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
     id: "ibo-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Fortim de Santo António",
-                  "text": "Die Festung Santo António ist Teil der historischen Befestigungsanlagen auf der Insel Ibo.",
-                  "category": "fortress",
-                  "coords": [
-                        40.589482,
-                        -12.344938
-                  ]
-            },
-            {
                   "name": "Fortim de São José",
                   "text": "Die Festung São José gehört zu den historischen Verteidigungsanlagen auf Ibo.",
                   "category": "fortress",
@@ -2195,15 +2186,6 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Fortim de Santo António",
-                  "text": "A Santo António erőd az Ibo-sziget történelmi erődítményeinek része.",
-                  "category": "fortress",
-                  "coords": [
-                        40.589482,
-                        -12.344938
-                  ]
-            },
             {
                   "name": "Fortim de São José",
                   "text": "A São José erőd az Ibo történelmi védelmi rendszereinek része.",
@@ -2216,15 +2198,6 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Fortim de Santo António",
-                  "text": "Fortăreața Santo António face parte din fortificațiile istorice de pe insula Ibo.",
-                  "category": "fortress",
-                  "coords": [
-                        40.589482,
-                        -12.344938
-                  ]
-            },
-            {
                   "name": "Fortim de São José",
                   "text": "Fortăreața São José aparține sistemelor istorice de apărare de pe Ibo.",
                   "category": "fortress",
@@ -2235,15 +2208,6 @@ export const poiExtraMozambiqueCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Fortim de Santo António",
-                  "text": "The Santo António fort is part of the historical fortifications on Ibo Island.",
-                  "category": "fortress",
-                  "coords": [
-                        40.589482,
-                        -12.344938
-                  ]
-            },
             {
                   "name": "Fortim de São José",
                   "text": "The São José fort belongs to the historical defense systems on Ibo.",

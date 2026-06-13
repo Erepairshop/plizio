@@ -530,50 +530,10 @@ imageHint: "Mount Tymfi Gamila peak and cliffs",
     image: "/poi-images/greece-mount-tymfi-relief-v2.webp",
 },  {
     id: "greece-mount-oeta-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Nationalpark Iti",
-                  "text": "Ein Informationspunkt im Nationalpark Oiti, der Details über die lokale Waldlandschaft vermittelt.",
-                  "category": "landmark",
-                  "coords": [
-                        22.279064,
-                        38.79904
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Drumos Oites",
-                  "text": "Információs pont az Oiti Nemzeti Parkban, amely részleteket nyújt a helyi erdei tájról.",
-                  "category": "landmark",
-                  "coords": [
-                        22.279064,
-                        38.79904
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Drumos Oites",
-                  "text": "Un punct de informare în Parcul Național Oiti, care oferă detalii despre peisajul forestier local.",
-                  "category": "landmark",
-                  "coords": [
-                        22.279064,
-                        38.79904
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Oiti National Woodland Park",
-                  "text": "An information point in the Oiti National Park providing details about the local woodland landscape.",
-                  "category": "landmark",
-                  "coords": [
-                        22.279064,
-                        38.79904
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "GR",
     type: "peak",
@@ -1023,15 +983,6 @@ imageHint: "Mount Paiko forested slopes",
                   ]
             },
             {
-                  "name": "Crossing",
-                  "text": "Ein Punkt von Interesse oder Orientierungspunkt im Parnitha-Nationalpark.",
-                  "category": "landmark",
-                  "coords": [
-                        23.730017,
-                        38.163457
-                  ]
-            },
-            {
                   "name": "Ntrasiza;Purgos Katsimidi",
                   "text": "Überreste einer alten Siedlung oder Struktur im Parnitha-Gebirge.",
                   "category": "historical",
@@ -1067,15 +1018,6 @@ imageHint: "Mount Paiko forested slopes",
                   "coords": [
                         23.757556,
                         38.174787
-                  ]
-            },
-            {
-                  "name": "Crossing",
-                  "text": "Érdekes pont vagy tájékozódási pont a Parnitha Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        23.730017,
-                        38.163457
                   ]
             },
             {
@@ -1117,15 +1059,6 @@ imageHint: "Mount Paiko forested slopes",
                   ]
             },
             {
-                  "name": "Crossing",
-                  "text": "Un punct de interes sau de reper în Parcul Național Parnitha.",
-                  "category": "landmark",
-                  "coords": [
-                        23.730017,
-                        38.163457
-                  ]
-            },
-            {
                   "name": "Ntrasiza;Purgos Katsimidi",
                   "text": "Vestigiile unei vechi așezări sau structuri în munții Parnitha.",
                   "category": "historical",
@@ -1161,15 +1094,6 @@ imageHint: "Mount Paiko forested slopes",
                   "coords": [
                         23.757556,
                         38.174787
-                  ]
-            },
-            {
-                  "name": "Crossing",
-                  "text": "A point of interest or landmark within the Mount Parnitha National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        23.730017,
-                        38.163457
                   ]
             },
             {
@@ -2799,15 +2723,6 @@ imageHint: "Agrafa mountains remote landscape Greece",
     id: "greece-messara-plain-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Kainourgio Kastelli;Purgos Ampelas",
-                  "text": "Burg aus dem Jahr 1206 in der Messara-Ebene auf Kreta, auch Castel Nuovo genannt.",
-                  "category": "castle",
-                  "coords": [
-                        24.909745,
-                        35.063146
-                  ]
-            },
-            {
                   "name": "Rouvas Wohnhöhlen",
                   "text": "Die Rouvas-Höhlen in der Messara-Ebene sind ein Höhlenlabyrinth, bekannt für neolithische Funde.",
                   "category": "historical",
@@ -2818,15 +2733,6 @@ imageHint: "Agrafa mountains remote landscape Greece",
             }
       ],
       "hu": [
-            {
-                  "name": "Kainourgio Kastelli;Purgos Ampelas",
-                  "text": "1206-ban épült vár a Messara-síkságon, Krétán, más néven Castel Nuovo.",
-                  "category": "castle",
-                  "coords": [
-                        24.909745,
-                        35.063146
-                  ]
-            },
             {
                   "name": "Spelaia Rouba",
                   "text": "A Rouvas-barlangok a Messara-síkságon egy barlangrendszer, amely neolitikus leleteiről ismert.",
@@ -2839,15 +2745,6 @@ imageHint: "Agrafa mountains remote landscape Greece",
       ],
       "ro": [
             {
-                  "name": "Kainourgio Kastelli;Purgos Ampelas",
-                  "text": "Castel construit în 1206 în Câmpia Messara, Creta, cunoscut și ca Castel Nuovo.",
-                  "category": "castle",
-                  "coords": [
-                        24.909745,
-                        35.063146
-                  ]
-            },
-            {
                   "name": "Spelaia Rouba",
                   "text": "Peșterile Rouvas din Câmpia Messara sunt un labirint de peșteri cunoscut pentru artefacte neolitice.",
                   "category": "historical",
@@ -2858,15 +2755,6 @@ imageHint: "Agrafa mountains remote landscape Greece",
             }
       ],
       "en": [
-            {
-                  "name": "Castel Nuovo",
-                  "text": "Castle built in 1206 in the Messara Plain on Crete, also known as Castel Nuovo.",
-                  "category": "castle",
-                  "coords": [
-                        24.909745,
-                        35.063146
-                  ]
-            },
             {
                   "name": "Rouvas caves",
                   "text": "Rouvas Caves in the Messara Plain are a cave network known for Neolithic artifacts.",

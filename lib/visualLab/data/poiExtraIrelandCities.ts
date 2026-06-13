@@ -1512,15 +1512,6 @@ export const poiExtraIrelandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Blast Windsurfing and Windfoiling",
-                  "text": "Blast Windsurfing and Windfoiling in Swords. Ein tolles Ausflugsziel für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        -6.175549,
-                        53.469082
-                  ]
-            },
-            {
                   "name": "ALSAA Swimming Pool",
                   "text": "ALSAA Swimming Pool in Swords. Ein schöner Ort zum Schwimmen und Entspannen.",
                   "category": "family",
@@ -1565,15 +1556,6 @@ export const poiExtraIrelandCities: POI[] = [
                   "coords": [
                         -6.219737,
                         53.462348
-                  ]
-            },
-            {
-                  "name": "Blast Windsurfing and Windfoiling",
-                  "text": "Blast Windsurfing and Windfoiling Swords városában. Nagyszerű program az egész család számára.",
-                  "category": "family",
-                  "coords": [
-                        -6.175549,
-                        53.469082
                   ]
             },
             {
@@ -1624,15 +1606,6 @@ export const poiExtraIrelandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Blast Windsurfing and Windfoiling",
-                  "text": "Blast Windsurfing and Windfoiling din Swords. O destinație excelentă pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        -6.175549,
-                        53.469082
-                  ]
-            },
-            {
                   "name": "ALSAA Swimming Pool",
                   "text": "ALSAA Swimming Pool din Swords. Un loc plăcut pentru înot și relaxare.",
                   "category": "family",
@@ -1677,15 +1650,6 @@ export const poiExtraIrelandCities: POI[] = [
                   "coords": [
                         -6.219737,
                         53.462348
-                  ]
-            },
-            {
-                  "name": "Blast Windsurfing and Windfoiling",
-                  "text": "Blast Windsurfing and Windfoiling in Swords. A great destination for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        -6.175549,
-                        53.469082
                   ]
             },
             {

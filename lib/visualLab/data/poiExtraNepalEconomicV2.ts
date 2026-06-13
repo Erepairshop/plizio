@@ -3807,24 +3807,6 @@ export const poiExtraNepalEconomicV2: POI[] = [
     id: "balaju-industrial-district-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Decoration and Fine Art Gallery",
-                  "text": "Diese Galerie in Balaju präsentiert eine Auswahl an dekorativer Kunst und feinen Werken lokaler nepalesischer Künstler.",
-                  "category": "museum",
-                  "coords": [
-                        85.315746,
-                        27.748946
-                  ]
-            },
-            {
-                  "name": "Johan Arts",
-                  "text": "Ein lokales Kunstzentrum in Balaju, das die Kreativität durch verschiedene Ausstellungen und Kunstprojekte fördert.",
-                  "category": "cultural",
-                  "coords": [
-                        85.321953,
-                        27.742066
-                  ]
-            },
-            {
                   "name": "बुद्ध गुफा",
                   "text": "Eine kleine Höhle in Balaju, die als ruhiger buddhistischer Schrein für Gebete und Meditation genutzt wird.",
                   "category": "religious",
@@ -3921,15 +3903,6 @@ export const poiExtraNepalEconomicV2: POI[] = [
                   "coords": [
                         85.304148,
                         27.735835
-                  ]
-            },
-            {
-                  "name": "Manamaiju Ajima Mai Temple",
-                  "text": "Dieser historische Tempel in Balaju ist der Göttin Ajima Mai gewidmet, einer Beschützerin in der Newari-Tradition.",
-                  "category": "landmark",
-                  "coords": [
-                        85.31214,
-                        27.752077
                   ]
             },
             {
@@ -4106,24 +4079,6 @@ export const poiExtraNepalEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Decoration and Fine Art Gallery",
-                  "text": "Ez a balajui galéria dekoratív művészetek és helyi nepáli művészek finom munkáinak válogatását mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        85.315746,
-                        27.748946
-                  ]
-            },
-            {
-                  "name": "Johan Arts",
-                  "text": "Helyi művészeti központ Balajuban, amely különféle kiállításokon és művészeti projekteken keresztül ösztönzi a kreativitást.",
-                  "category": "cultural",
-                  "coords": [
-                        85.321953,
-                        27.742066
-                  ]
-            },
-            {
                   "name": "बुद्ध गुफा",
                   "text": "Kisméretű barlang Balajuban, amelyet csendes buddhista szentélyként használnak imádkozásra és meditációra.",
                   "category": "religious",
@@ -4220,15 +4175,6 @@ export const poiExtraNepalEconomicV2: POI[] = [
                   "coords": [
                         85.304148,
                         27.735835
-                  ]
-            },
-            {
-                  "name": "Manamaiju Ajima Mai Temple",
-                  "text": "Ez a történelmi balajui templom Adzsima Mai istennőnek, a nevari hagyomány egyik védelmezőjének van szentelve.",
-                  "category": "landmark",
-                  "coords": [
-                        85.31214,
-                        27.752077
                   ]
             },
             {
@@ -4405,24 +4351,6 @@ export const poiExtraNepalEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Decoration and Fine Art Gallery",
-                  "text": "Această galerie din Balaju prezintă o selecție de artă decorativă și lucrări fine ale artiștilor locali nepalezi.",
-                  "category": "museum",
-                  "coords": [
-                        85.315746,
-                        27.748946
-                  ]
-            },
-            {
-                  "name": "Johan Arts",
-                  "text": "Un centru de artă local din Balaju care încurajează creativitatea prin diverse expoziții și proiecte artistice.",
-                  "category": "cultural",
-                  "coords": [
-                        85.321953,
-                        27.742066
-                  ]
-            },
-            {
                   "name": "बुद्ध गुफा",
                   "text": "O peșteră mică în Balaju, utilizată ca sanctuar budist liniștit pentru rugăciune și meditație.",
                   "category": "religious",
@@ -4519,15 +4447,6 @@ export const poiExtraNepalEconomicV2: POI[] = [
                   "coords": [
                         85.304148,
                         27.735835
-                  ]
-            },
-            {
-                  "name": "Manamaiju Ajima Mai Temple",
-                  "text": "Acest templu istoric din Balaju este dedicat zeiței Ajima Mai, o protectoare în tradiția Newari.",
-                  "category": "landmark",
-                  "coords": [
-                        85.31214,
-                        27.752077
                   ]
             },
             {
@@ -4704,24 +4623,6 @@ export const poiExtraNepalEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Decoration and Fine Art Gallery",
-                  "text": "This gallery in Balaju showcases a selection of decorative arts and fine works by local Nepalese artists.",
-                  "category": "museum",
-                  "coords": [
-                        85.315746,
-                        27.748946
-                  ]
-            },
-            {
-                  "name": "Johan Arts",
-                  "text": "A local arts center in Balaju that encourages creativity through various exhibitions and art projects.",
-                  "category": "cultural",
-                  "coords": [
-                        85.321953,
-                        27.742066
-                  ]
-            },
-            {
                   "name": "Buddha Cave",
                   "text": "A small cave in Balaju used as a quiet Buddhist shrine for prayer and meditation.",
                   "category": "religious",
@@ -4818,15 +4719,6 @@ export const poiExtraNepalEconomicV2: POI[] = [
                   "coords": [
                         85.304148,
                         27.735835
-                  ]
-            },
-            {
-                  "name": "Manamaiju Ajima Mai Temple",
-                  "text": "This historic temple in Balaju is dedicated to the goddess Ajima Mai, a protector in the Newari tradition.",
-                  "category": "landmark",
-                  "coords": [
-                        85.31214,
-                        27.752077
                   ]
             },
             {

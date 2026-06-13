@@ -2264,15 +2264,6 @@ imageHint: "Massive concrete dam of Sayano-Shushenskaya power station",
                   ]
             },
             {
-                  "name": "Surgutskii kraevedcheskii muzei",
-                  "text": "Das Heimatmuseum Surgut zeigt Sammlungen zur regionalen Geschichte, Kultur und Natur von Surgut.",
-                  "category": "museum",
-                  "coords": [
-                        73.422913,
-                        61.253858
-                  ]
-            },
-            {
                   "name": "Rossiia - Moia istoriia. Iugra",
                   "text": "„Russland - Meine Geschichte. Jugra“ ist ein interaktives multimediales historisches Museum in Surgut.",
                   "category": "museum",
@@ -2318,15 +2309,6 @@ imageHint: "Massive concrete dam of Sayano-Shushenskaya power station",
                   ]
             },
             {
-                  "name": "Advance",
-                  "text": "Advance ist ein Kunstzentrum, das kulturelle Aktivitäten und kreative Räume in Surgut bietet.",
-                  "category": "cultural",
-                  "coords": [
-                        73.422898,
-                        61.261211
-                  ]
-            },
-            {
                   "name": "Teatr SurGU",
                   "text": "Teatr SurGU ist ein der Staatlichen Universität Surgut angegliedertes Theater, in dem verschiedene Bühnenaufführungen stattfinden.",
                   "category": "cultural",
@@ -2360,15 +2342,6 @@ imageHint: "Massive concrete dam of Sayano-Shushenskaya power station",
                   "coords": [
                         73.401512,
                         61.260784
-                  ]
-            },
-            {
-                  "name": "Tsentr molodezhnogo dizaina",
-                  "text": "Das Jugend-Designzentrum ist ein kultureller Veranstaltungsort für Kunst in Surgut.",
-                  "category": "cultural",
-                  "coords": [
-                        73.43969,
-                        61.258716
                   ]
             },
             {
@@ -2554,15 +2527,6 @@ imageHint: "Massive concrete dam of Sayano-Shushenskaya power station",
                   ]
             },
             {
-                  "name": "Surgutskii kraevedcheskii muzei",
-                  "text": "A Szurguti Helytörténeti Múzeum Szurgut regionális történelmével, kultúrájával és természetével kapcsolatos gyűjteményeket állít ki.",
-                  "category": "museum",
-                  "coords": [
-                        73.422913,
-                        61.253858
-                  ]
-            },
-            {
                   "name": "Rossiia - Moia istoriia. Iugra",
                   "text": "A „Oroszország - Az én történelmem. Jugra” egy interaktív multimédiás történelmi múzeum Szurgutban.",
                   "category": "museum",
@@ -2608,15 +2572,6 @@ imageHint: "Massive concrete dam of Sayano-Shushenskaya power station",
                   ]
             },
             {
-                  "name": "Advance",
-                  "text": "Az Advance egy művészeti központ, amely kulturális tevékenységeket és kreatív tereket kínál Szurgutban.",
-                  "category": "cultural",
-                  "coords": [
-                        73.422898,
-                        61.261211
-                  ]
-            },
-            {
                   "name": "Teatr SurGU",
                   "text": "A Teatr SurGU a Szurguti Állami Egyetemhez tartozó színház, amely különféle színpadi előadásoknak ad otthont.",
                   "category": "cultural",
@@ -2650,15 +2605,6 @@ imageHint: "Massive concrete dam of Sayano-Shushenskaya power station",
                   "coords": [
                         73.401512,
                         61.260784
-                  ]
-            },
-            {
-                  "name": "Tsentr molodezhnogo dizaina",
-                  "text": "Az Ifjúsági Tervezőközpont egy művészeti és kulturális helyszín Szurgutban.",
-                  "category": "cultural",
-                  "coords": [
-                        73.43969,
-                        61.258716
                   ]
             },
             {
@@ -2844,15 +2790,6 @@ imageHint: "Massive concrete dam of Sayano-Shushenskaya power station",
                   ]
             },
             {
-                  "name": "Surgutskii kraevedcheskii muzei",
-                  "text": "Muzeul de Istorie Locală din Surgut expune colecții legate de istoria, cultura și natura regională a Surgutului.",
-                  "category": "museum",
-                  "coords": [
-                        73.422913,
-                        61.253858
-                  ]
-            },
-            {
                   "name": "Rossiia - Moia istoriia. Iugra",
                   "text": "„Rusia - Istoria mea. Iugra” este un muzeu istoric multimedia interactiv situat în Surgut.",
                   "category": "museum",
@@ -2898,15 +2835,6 @@ imageHint: "Massive concrete dam of Sayano-Shushenskaya power station",
                   ]
             },
             {
-                  "name": "Advance",
-                  "text": "Advance este un centru de arte care oferă activități culturale și spații creative în Surgut.",
-                  "category": "cultural",
-                  "coords": [
-                        73.422898,
-                        61.261211
-                  ]
-            },
-            {
                   "name": "Teatr SurGU",
                   "text": "Teatr SurGU este un teatru afiliat Universității de Stat din Surgut, care găzduiește diverse spectacole de scenă.",
                   "category": "cultural",
@@ -2940,15 +2868,6 @@ imageHint: "Massive concrete dam of Sayano-Shushenskaya power station",
                   "coords": [
                         73.401512,
                         61.260784
-                  ]
-            },
-            {
-                  "name": "Tsentr molodezhnogo dizaina",
-                  "text": "Centrul de Design pentru Tineret este un spațiu cultural dedicat artelor, situat în Surgut.",
-                  "category": "cultural",
-                  "coords": [
-                        73.43969,
-                        61.258716
                   ]
             },
             {
@@ -3134,15 +3053,6 @@ imageHint: "Massive concrete dam of Sayano-Shushenskaya power station",
                   ]
             },
             {
-                  "name": "Surgutskii kraevedcheskii muzei",
-                  "text": "The Surgut Local Lore Museum exhibits collections related to the regional history, culture, and nature of Surgut.",
-                  "category": "museum",
-                  "coords": [
-                        73.422913,
-                        61.253858
-                  ]
-            },
-            {
                   "name": "Rossiia - Moia istoriia. Iugra",
                   "text": "\"Russia - My History. Yugra\" is an interactive multimedia historical museum located in Surgut.",
                   "category": "museum",
@@ -3188,15 +3098,6 @@ imageHint: "Massive concrete dam of Sayano-Shushenskaya power station",
                   ]
             },
             {
-                  "name": "Advance",
-                  "text": "Advance is an arts centre offering cultural activities and creative spaces in Surgut.",
-                  "category": "cultural",
-                  "coords": [
-                        73.422898,
-                        61.261211
-                  ]
-            },
-            {
                   "name": "Teatr SurGU",
                   "text": "Teatr SurGU is a theater affiliated with the Surgut State University, hosting various stage performances.",
                   "category": "cultural",
@@ -3230,15 +3131,6 @@ imageHint: "Massive concrete dam of Sayano-Shushenskaya power station",
                   "coords": [
                         73.401512,
                         61.260784
-                  ]
-            },
-            {
-                  "name": "Tsentr molodezhnogo dizaina",
-                  "text": "The Youth Design Center is a cultural venue for the arts located in Surgut.",
-                  "category": "cultural",
-                  "coords": [
-                        73.43969,
-                        61.258716
                   ]
             },
             {
@@ -10549,15 +10441,6 @@ imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
     id: "russia-salekhard-arctic-port-economic-v2", "sights": {
       "de": [
             {
-                  "name": "DK Rybnik",
-                  "text": "Ein bedeutendes lokales Theater und Kulturzentrum in der arktischen Stadt Salechard.",
-                  "category": "cultural",
-                  "coords": [
-                        66.583402,
-                        66.544013
-                  ]
-            },
-            {
                   "name": "Iak-40",
                   "text": "Ein als Denkmal aufgestelltes Jak-40-Flugzeug, das die Bedeutung der Polarluftfahrt würdigt.",
                   "category": "landmark",
@@ -10594,30 +10477,12 @@ imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
                   ]
             },
             {
-                  "name": "MiG-27D",
-                  "text": "Ein ausgestelltes MiG-27D-Jagdbombenflugzeug, ein markantes Beispiel sowjetischer Luftfahrttechnik.",
-                  "category": "landmark",
-                  "coords": [
-                        66.606144,
-                        66.54366
-                  ]
-            },
-            {
                   "name": "Su-22M4",
                   "text": "Dieses Kampfflugzeug vom Typ Su-22M4 ist als technisches Monument im Freien zu besichtigen.",
                   "category": "landmark",
                   "coords": [
                         66.608713,
                         66.544275
-                  ]
-            },
-            {
-                  "name": "Byvshee zdanie teatra 501-i stroiki",
-                  "text": "Dieses historische Gebäude gehörte zum Theater des berüchtigten Eisenbahnprojekts 501 aus der Stalin-Ära.",
-                  "category": "landmark",
-                  "coords": [
-                        66.641287,
-                        66.52867
                   ]
             },
             {
@@ -10648,39 +10513,12 @@ imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
                   ]
             },
             {
-                  "name": "Sezonnyi ledovyi gorodok",
-                  "text": "Ein winterlicher Vergnügungspark mit aufwendigen Skulpturen und Gebäuden aus Eis.",
-                  "category": "landmark",
-                  "coords": [
-                        66.625066,
-                        66.536278
-                  ]
-            },
-            {
-                  "name": "Vystavochnyi tsentr im. Shemanovskogo",
-                  "text": "Ein Informationszentrum und Museum, das Einblicke in die lokale Geschichte und Traditionen bietet.",
-                  "category": "museum",
-                  "coords": [
-                        66.607011,
-                        66.536051
-                  ]
-            },
-            {
                   "name": "Staryi obdorskii dom",
                   "text": "Ein seltenes Beispiel für die traditionelle Holzarchitektur des alten Obdorsk aus der Siedlungszeit.",
                   "category": "historical",
                   "coords": [
                         66.589377,
                         66.52575
-                  ]
-            },
-            {
-                  "name": "Park pobedy",
-                  "text": "Ein Freilichtmuseum am Polarkreis, das militärische Ausrüstung und Denkmäler zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        66.606418,
-                        66.545081
                   ]
             },
             {
@@ -10731,15 +10569,6 @@ imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
       ],
       "hu": [
             {
-                  "name": "DK Rybnik",
-                  "text": "Jelentős helyi színház és kulturális központ az arktiszi Szalehard városában.",
-                  "category": "cultural",
-                  "coords": [
-                        66.583402,
-                        66.544013
-                  ]
-            },
-            {
                   "name": "Iak-40",
                   "text": "Emlékműként felállított Jak-40-es repülőgép, amely a sarki repülés jelentősége előtt tiszteleg.",
                   "category": "landmark",
@@ -10776,30 +10605,12 @@ imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
                   ]
             },
             {
-                  "name": "MiG-27D",
-                  "text": "Kiállított MiG-27D vadászbombázó repülőgép, a szovjet repüléstechnika markáns példája.",
-                  "category": "landmark",
-                  "coords": [
-                        66.606144,
-                        66.54366
-                  ]
-            },
-            {
                   "name": "Su-22M4",
                   "text": "Ez a Szu-22M4 típusú vadászgép szabadtéri technikai műemlékként tekinthető meg.",
                   "category": "landmark",
                   "coords": [
                         66.608713,
                         66.544275
-                  ]
-            },
-            {
-                  "name": "Byvshee zdanie teatra 501-i stroiki",
-                  "text": "Ez a történelmi épület a sztálini korszak hírhedt 501-es vasútépítési projektjének színházához tartozott.",
-                  "category": "landmark",
-                  "coords": [
-                        66.641287,
-                        66.52867
                   ]
             },
             {
@@ -10830,39 +10641,12 @@ imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
                   ]
             },
             {
-                  "name": "Sezonnyi ledovyi gorodok",
-                  "text": "Téli vidámpark látványos jégszobrokkal és jégből készült építményekkel.",
-                  "category": "landmark",
-                  "coords": [
-                        66.625066,
-                        66.536278
-                  ]
-            },
-            {
-                  "name": "Vystavochnyi tsentr im. Shemanovskogo",
-                  "text": "Információs központ és múzeum, amely betekintést nyújt a helyi történelembe és hagyományokba.",
-                  "category": "museum",
-                  "coords": [
-                        66.607011,
-                        66.536051
-                  ]
-            },
-            {
                   "name": "Staryi obdorskii dom",
                   "text": "A régi Obdorszk hagyományos faépítészetének ritka példája a betelepülés korából.",
                   "category": "historical",
                   "coords": [
                         66.589377,
                         66.52575
-                  ]
-            },
-            {
-                  "name": "Park pobedy",
-                  "text": "Szabadtéri múzeum katonai felszerelésekkel és emlékművekkel a sarkkör közelében.",
-                  "category": "museum",
-                  "coords": [
-                        66.606418,
-                        66.545081
                   ]
             },
             {
@@ -10913,15 +10697,6 @@ imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
       ],
       "ro": [
             {
-                  "name": "DK Rybnik",
-                  "text": "Un teatru local important și centru cultural în orașul arctic Salehard.",
-                  "category": "cultural",
-                  "coords": [
-                        66.583402,
-                        66.544013
-                  ]
-            },
-            {
                   "name": "Iak-40",
                   "text": "Un avion Iak-40 expus ca monument, onorând importanța aviației polare.",
                   "category": "landmark",
@@ -10958,30 +10733,12 @@ imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
                   ]
             },
             {
-                  "name": "MiG-27D",
-                  "text": "Un avion de vânătoare-bombardament MiG-27D expus, un exemplu marcant al tehnologiei aviatice sovietice.",
-                  "category": "landmark",
-                  "coords": [
-                        66.606144,
-                        66.54366
-                  ]
-            },
-            {
                   "name": "Su-22M4",
                   "text": "Acest avion de luptă de tip Su-22M4 poate fi vizitat ca monument tehnic în aer liber.",
                   "category": "landmark",
                   "coords": [
                         66.608713,
                         66.544275
-                  ]
-            },
-            {
-                  "name": "Byvshee zdanie teatra 501-i stroiki",
-                  "text": "Această clădire istorică a aparținut teatrului infamului proiect feroviar 501 din epoca stalinistă.",
-                  "category": "landmark",
-                  "coords": [
-                        66.641287,
-                        66.52867
                   ]
             },
             {
@@ -11012,39 +10769,12 @@ imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
                   ]
             },
             {
-                  "name": "Sezonnyi ledovyi gorodok",
-                  "text": "Un parc de distracții de iarnă cu sculpturi elaborate și clădiri realizate din gheață.",
-                  "category": "landmark",
-                  "coords": [
-                        66.625066,
-                        66.536278
-                  ]
-            },
-            {
-                  "name": "Vystavochnyi tsentr im. Shemanovskogo",
-                  "text": "Un centru de informare și muzeu care oferă perspective asupra istoriei și tradițiilor locale.",
-                  "category": "museum",
-                  "coords": [
-                        66.607011,
-                        66.536051
-                  ]
-            },
-            {
                   "name": "Staryi obdorskii dom",
                   "text": "Un exemplu rar de arhitectură tradițională din lemn a vechiului Obdorsk din perioada colonizării.",
                   "category": "historical",
                   "coords": [
                         66.589377,
                         66.52575
-                  ]
-            },
-            {
-                  "name": "Park pobedy",
-                  "text": "Un muzeu în aer liber care expune echipament militar și monumente lângă Cercul Polar.",
-                  "category": "museum",
-                  "coords": [
-                        66.606418,
-                        66.545081
                   ]
             },
             {
@@ -11095,15 +10825,6 @@ imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
       ],
       "en": [
             {
-                  "name": "DK Rybnik",
-                  "text": "A prominent local theatre and cultural hub in the Arctic city of Salekhard.",
-                  "category": "cultural",
-                  "coords": [
-                        66.583402,
-                        66.544013
-                  ]
-            },
-            {
                   "name": "Iak-40",
                   "text": "A Yak-40 aircraft displayed as a monument, honoring the importance of polar aviation.",
                   "category": "landmark",
@@ -11140,30 +10861,12 @@ imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
                   ]
             },
             {
-                  "name": "MiG-27D",
-                  "text": "An exhibited MiG-27D fighter-bomber jet, a striking example of Soviet aviation technology.",
-                  "category": "landmark",
-                  "coords": [
-                        66.606144,
-                        66.54366
-                  ]
-            },
-            {
                   "name": "Su-22M4",
                   "text": "This Su-22M4 fighter jet is on display as an open-air technical monument.",
                   "category": "landmark",
                   "coords": [
                         66.608713,
                         66.544275
-                  ]
-            },
-            {
-                  "name": "Byvshee zdanie teatra 501-i stroiki",
-                  "text": "This historic building belonged to the theatre of the notorious Stalin-era '501 construction' railway project.",
-                  "category": "landmark",
-                  "coords": [
-                        66.641287,
-                        66.52867
                   ]
             },
             {
@@ -11194,39 +10897,12 @@ imageHint: "Bilibino nuclear power plant in the snowy Arctic tundra",
                   ]
             },
             {
-                  "name": "Sezonnyi ledovyi gorodok",
-                  "text": "A winter amusement park featuring elaborate sculptures and buildings made of ice.",
-                  "category": "landmark",
-                  "coords": [
-                        66.625066,
-                        66.536278
-                  ]
-            },
-            {
-                  "name": "Posetit'",
-                  "text": "An information center and museum providing insights into local history and traditions.",
-                  "category": "museum",
-                  "coords": [
-                        66.607011,
-                        66.536051
-                  ]
-            },
-            {
                   "name": "Staryi obdorskii dom",
                   "text": "A rare example of traditional wooden architecture from old Obdorsk dating back to the settlement era.",
                   "category": "historical",
                   "coords": [
                         66.589377,
                         66.52575
-                  ]
-            },
-            {
-                  "name": "Park pobedy",
-                  "text": "An open-air museum displaying military equipment and memorials near the Arctic Circle.",
-                  "category": "museum",
-                  "coords": [
-                        66.606418,
-                        66.545081
                   ]
             },
             {

@@ -779,39 +779,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
       id: "port-of-long-beach-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Museum of Latin American Art",
-                  "text": "Museum of Latin American Art ist ein Museum in Long Beach, Kalifornien. Es ist das einzige Museum in den Vereinigten Staaten, das ausschließlich der modernen lateinamerikanischen Kunst gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -118.179678,
-                        33.774576
-                  ]
-            },
-            {
-                  "name": "Second Samoan Church, (historic)",
-                  "text": "Historische Kirche der Christlichen Wissenschaft in Long Beach, Kalifornien.",
-                  "category": "religious",
-                  "coords": [
-                        -118.195452,
-                        33.775138
-                  ]
-            },
-            {
                   "name": "Long Beach Light",
                   "text": "Leuchtturm an der Hafeneinfahrt von Long Beach, führt Schiffe.",
                   "category": "landmark",
                   "coords": [
                         -118.186879,
                         33.723226
-                  ]
-            },
-            {
-                  "name": "Lions Lighthouse",
-                  "text": "Replika-Leuchtturm, erbaut von den Lions Clubs, in Long Beach.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.194107,
-                        33.760238
                   ]
             },
             {
@@ -878,30 +851,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "B-427 Scorpion",
-                  "text": "Das B-427 Scorpion ist ein Museum in Long Beach mit einem sowjetischen U-Boot.",
-                  "category": "museum",
-                  "coords": [
-                        -118.19143,
-                        33.753305
-                  ]
-            },
-            {
                   "name": "Fort MacArthur Museum",
                   "text": "Das Fort MacArthur Museum in Long Beach befindet sich in einer ehemaligen Militärbefestigung.",
                   "category": "museum",
                   "coords": [
                         -118.295958,
                         33.711991
-                  ]
-            },
-            {
-                  "name": "Long Beach Museum of Art",
-                  "text": "Ein Kunstmuseum mit Blick auf den Pazifischen Ozean in Long Beach.",
-                  "category": "museum",
-                  "coords": [
-                        -118.16478,
-                        33.763473
                   ]
             },
             {
@@ -929,15 +884,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -118.296473,
                         33.737711
-                  ]
-            },
-            {
-                  "name": "First Church of Christ Scientist",
-                  "text": "1913 erbautes Kirchengebäude der Christlichen Wissenschaft in Long Beach.",
-                  "category": "religious",
-                  "coords": [
-                        -118.187296,
-                        33.772411
                   ]
             },
             {
@@ -977,15 +923,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Queensway Bay",
-                  "text": "Eine kleine Bucht nahe dem Long Beach Convention Center.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.196735,
-                        33.758351
-                  ]
-            },
-            {
                   "name": "Long Beach Middle Harbor",
                   "text": "Ein Abschnitt des Hafens von Long Beach.",
                   "category": "landmark",
@@ -1004,24 +941,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Inner Harbor",
-                  "text": "Ein geschützter Hafenbereich innerhalb des Hafens von Long Beach.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.223403,
-                        33.769185
-                  ]
-            },
-            {
-                  "name": "Queensway Twin Bridges",
-                  "text": "Zwillingsbrücken der Queensway über einen Kanal in Long Beach.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.199384,
-                        33.759773
-                  ]
-            },
-            {
                   "name": "Battleship USS Iowa",
                   "text": "Das historische Schlachtschiff USS Iowa der Iowa-Klasse, das im Zweiten Weltkrieg und in Korea diente, ist heute ein Museum in Long Beach.",
                   "category": "landmark",
@@ -1031,30 +950,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santa Cruz Park",
-                  "text": "Ein Gemeinschaftspark in Long Beach mit Spielplätzen, Sportplätzen und Picknickbereichen.",
-                  "category": "park",
-                  "coords": [
-                        -118.202291,
-                        33.766685
-                  ]
-            },
-            {
                   "name": "Cabrillo Beach Park",
                   "text": "Ein Küstenpark in Long Beach, benannt nach dem Entdecker Juan Rodríguez Cabrillo, mit Meerblick und Strandzugang.",
                   "category": "park",
                   "coords": [
                         -118.283494,
                         33.709892
-                  ]
-            },
-            {
-                  "name": "California Recreation Center",
-                  "text": "Ein öffentlicher Park in Long Beach mit einem Freizeitzentrum, das Basketballplätze und ein Fitnessstudio bietet.",
-                  "category": "park",
-                  "coords": [
-                        -118.180624,
-                        33.785851
                   ]
             },
             {
@@ -1073,15 +974,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -118.297556,
                         33.72506
-                  ]
-            },
-            {
-                  "name": "Douglas MacArthur Park",
-                  "text": "Ein Park in Long Beach, der General Douglas MacArthur gewidmet ist, mit einem Gedenkplatz und weitläufigen Rasenflächen.",
-                  "category": "park",
-                  "coords": [
-                        -118.174726,
-                        33.783544
                   ]
             },
             {
@@ -1112,15 +1004,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bixby Park",
-                  "text": "Ein historischer Park in Long Beach mit einem Musikpavillon, Tennisplätzen und einem wöchentlichen Bauernmarkt.",
-                  "category": "park",
-                  "coords": [
-                        -118.167186,
-                        33.765798
-                  ]
-            },
-            {
                   "name": "Shoreline Aquatic Park",
                   "text": "Ein Uferpark entlang der Küste von Long Beach mit einem Yachthafen, Grünflächen und einem Angelsteg.",
                   "category": "park",
@@ -1128,36 +1011,9 @@ export const poiExtraUsaEconomicV2: POI[] = [
                         -118.195504,
                         33.761916
                   ]
-            },
-            {
-                  "name": "Victory Park",
-                  "text": "Ein großer Park in Long Beach mit einem 18-Loch-Golfplatz, Tennisplätzen und einem See.",
-                  "category": "park",
-                  "coords": [
-                        -118.186266,
-                        33.766242
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Museum of Latin American Art",
-                  "text": "A Museum of Latin American Art egy múzeum Long Beachben, Kaliforniában. Ez az egyetlen múzeum az Egyesült Államokban, amely kizárólag a modern latin-amerikai művészetnek szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        -118.179678,
-                        33.774576
-                  ]
-            },
-            {
-                  "name": "Second Samoan Church, (historic)",
-                  "text": "Történelmi Keresztény Tudomány templom Long Beachben, Kaliforniában.",
-                  "category": "religious",
-                  "coords": [
-                        -118.195452,
-                        33.775138
-                  ]
-            },
             {
                   "name": "Long Beach Light",
                   "text": "Világítótorony a Long Beach-i kikötő bejáratánál, hajókat vezet.",
@@ -1165,15 +1021,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -118.186879,
                         33.723226
-                  ]
-            },
-            {
-                  "name": "Lions Lighthouse",
-                  "text": "Lions Clubok által épített replika világítótorony Long Beachben.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.194107,
-                        33.760238
                   ]
             },
             {
@@ -1240,30 +1087,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "B-427 Scorpion",
-                  "text": "A B-427 Scorpion egy múzeum Long Beachben, amely egy szovjet tengeralattjárót mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -118.19143,
-                        33.753305
-                  ]
-            },
-            {
                   "name": "Fort MacArthur Museum",
                   "text": "A Fort MacArthur Museum Long Beachben egy egykori katonai erődítményben található.",
                   "category": "museum",
                   "coords": [
                         -118.295958,
                         33.711991
-                  ]
-            },
-            {
-                  "name": "Long Beach Museum of Art",
-                  "text": "Művészeti múzeum a Csendes-óceánra néző kilátással Long Beachben.",
-                  "category": "museum",
-                  "coords": [
-                        -118.16478,
-                        33.763473
                   ]
             },
             {
@@ -1291,15 +1120,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -118.296473,
                         33.737711
-                  ]
-            },
-            {
-                  "name": "First Church of Christ Scientist",
-                  "text": "1913-ban épült Keresztény Tudomány templom Long Beachben.",
-                  "category": "religious",
-                  "coords": [
-                        -118.187296,
-                        33.772411
                   ]
             },
             {
@@ -1339,15 +1159,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Queensway Bay",
-                  "text": "Kis öböl a Long Beach-i Kongresszusi Központ közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.196735,
-                        33.758351
-                  ]
-            },
-            {
                   "name": "Long Beach Middle Harbor",
                   "text": "A Long Beach-i kikötő egy része.",
                   "category": "landmark",
@@ -1366,24 +1177,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Inner Harbor",
-                  "text": "Védett kikötői terület a Long Beach-i kikötőn belül.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.223403,
-                        33.769185
-                  ]
-            },
-            {
-                  "name": "Queensway Twin Bridges",
-                  "text": "Ikerhidak a Queensway-n, amelyek egy csatornán ívelnek át Long Beach-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.199384,
-                        33.759773
-                  ]
-            },
-            {
                   "name": "Battleship USS Iowa",
                   "text": "Az Iowa osztályú USS Iowa történelmi csatahajó, amely a II. világháborúban és Koreában szolgált, ma múzeum Long Beach-ben.",
                   "category": "landmark",
@@ -1393,30 +1186,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santa Cruz Park",
-                  "text": "Egy közösségi park Long Beach-ben, játszóterekkel, sportpályákkal és piknikhelyekkel.",
-                  "category": "park",
-                  "coords": [
-                        -118.202291,
-                        33.766685
-                  ]
-            },
-            {
                   "name": "Cabrillo Beach Park",
                   "text": "Egy tengerparti park Long Beach-ben, amely Juan Rodríguez Cabrillo felfedezőről kapta a nevét, óceáni kilátással és strandhozzáféréssel.",
                   "category": "park",
                   "coords": [
                         -118.283494,
                         33.709892
-                  ]
-            },
-            {
-                  "name": "California Recreation Center",
-                  "text": "Egy nyilvános park Long Beach-ben, egy rekreációs központtal, amely kosárlabdapályákat és edzőtermet kínál.",
-                  "category": "park",
-                  "coords": [
-                        -118.180624,
-                        33.785851
                   ]
             },
             {
@@ -1435,15 +1210,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -118.297556,
                         33.72506
-                  ]
-            },
-            {
-                  "name": "Douglas MacArthur Park",
-                  "text": "Egy park Long Beach-ben, amely Douglas MacArthur tábornok tiszteletére készült, emlékművel és tágas füves területekkel.",
-                  "category": "park",
-                  "coords": [
-                        -118.174726,
-                        33.783544
                   ]
             },
             {
@@ -1474,15 +1240,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bixby Park",
-                  "text": "Egy történelmi park Long Beach-ben, zenepavilonnal, teniszpályákkal és heti termelői piaccal.",
-                  "category": "park",
-                  "coords": [
-                        -118.167186,
-                        33.765798
-                  ]
-            },
-            {
                   "name": "Shoreline Aquatic Park",
                   "text": "Egy vízparti park Long Beach partvonala mentén, kikötővel, füves területekkel és horgászmólóval.",
                   "category": "park",
@@ -1490,36 +1247,9 @@ export const poiExtraUsaEconomicV2: POI[] = [
                         -118.195504,
                         33.761916
                   ]
-            },
-            {
-                  "name": "Victory Park",
-                  "text": "Egy nagy park Long Beach-ben, 18 lyukú golfpályával, teniszpályákkal és egy tóval.",
-                  "category": "park",
-                  "coords": [
-                        -118.186266,
-                        33.766242
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Museum of Latin American Art",
-                  "text": "Museum of Latin American Art este un muzeu în Long Beach, California. Este singurul muzeu din Statele Unite dedicat exclusiv artei moderne latino-americane.",
-                  "category": "museum",
-                  "coords": [
-                        -118.179678,
-                        33.774576
-                  ]
-            },
-            {
-                  "name": "Second Samoan Church, (historic)",
-                  "text": "Biserică istorică a Științei Creștine în Long Beach, California.",
-                  "category": "religious",
-                  "coords": [
-                        -118.195452,
-                        33.775138
-                  ]
-            },
             {
                   "name": "Long Beach Light",
                   "text": "Far la intrarea în portul Long Beach, ghidează navele.",
@@ -1527,15 +1257,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -118.186879,
                         33.723226
-                  ]
-            },
-            {
-                  "name": "Lions Lighthouse",
-                  "text": "Far replică construit de cluburile Lions în Long Beach.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.194107,
-                        33.760238
                   ]
             },
             {
@@ -1602,30 +1323,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "B-427 Scorpion",
-                  "text": "B-427 Scorpion este un muzeu în Long Beach care prezintă un submarin sovietic.",
-                  "category": "museum",
-                  "coords": [
-                        -118.19143,
-                        33.753305
-                  ]
-            },
-            {
                   "name": "Fort MacArthur Museum",
                   "text": "Fort MacArthur Museum din Long Beach este situat într-o fostă fortificație militară.",
                   "category": "museum",
                   "coords": [
                         -118.295958,
                         33.711991
-                  ]
-            },
-            {
-                  "name": "Long Beach Museum of Art",
-                  "text": "Un muzeu de artă cu vedere la Oceanul Pacific în Long Beach.",
-                  "category": "museum",
-                  "coords": [
-                        -118.16478,
-                        33.763473
                   ]
             },
             {
@@ -1653,15 +1356,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -118.296473,
                         33.737711
-                  ]
-            },
-            {
-                  "name": "First Church of Christ Scientist",
-                  "text": "Clădire bisericească a Științei Creștine construită în 1913 în Long Beach.",
-                  "category": "religious",
-                  "coords": [
-                        -118.187296,
-                        33.772411
                   ]
             },
             {
@@ -1701,15 +1395,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Queensway Bay",
-                  "text": "Un golf mic lângă Centrul de Convenții din Long Beach.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.196735,
-                        33.758351
-                  ]
-            },
-            {
                   "name": "Long Beach Middle Harbor",
                   "text": "O secțiune a Portului Long Beach.",
                   "category": "landmark",
@@ -1728,24 +1413,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Inner Harbor",
-                  "text": "O zonă portuară protejată în Portul Long Beach.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.223403,
-                        33.769185
-                  ]
-            },
-            {
-                  "name": "Queensway Twin Bridges",
-                  "text": "Poduri gemene care duc Queensway-ul peste un canal în Long Beach.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.199384,
-                        33.759773
-                  ]
-            },
-            {
                   "name": "Battleship USS Iowa",
                   "text": "Cuirasatul istoric USS Iowa din clasa Iowa, care a servit în Al Doilea Război Mondial și în Coreea, este acum un muzeu în Long Beach.",
                   "category": "landmark",
@@ -1755,30 +1422,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santa Cruz Park",
-                  "text": "Un parc comunitar în Long Beach, cu locuri de joacă, terenuri sportive și zone de picnic.",
-                  "category": "park",
-                  "coords": [
-                        -118.202291,
-                        33.766685
-                  ]
-            },
-            {
                   "name": "Cabrillo Beach Park",
                   "text": "Un parc de coastă în Long Beach, numit după exploratorul Juan Rodríguez Cabrillo, cu vedere la ocean și acces la plajă.",
                   "category": "park",
                   "coords": [
                         -118.283494,
                         33.709892
-                  ]
-            },
-            {
-                  "name": "California Recreation Center",
-                  "text": "Un parc public în Long Beach, cu un centru de recreere care oferă terenuri de baschet și o sală de sport.",
-                  "category": "park",
-                  "coords": [
-                        -118.180624,
-                        33.785851
                   ]
             },
             {
@@ -1797,15 +1446,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -118.297556,
                         33.72506
-                  ]
-            },
-            {
-                  "name": "Douglas MacArthur Park",
-                  "text": "Un parc în Long Beach dedicat generalului Douglas MacArthur, cu o piață memorială și peluze întinse.",
-                  "category": "park",
-                  "coords": [
-                        -118.174726,
-                        33.783544
                   ]
             },
             {
@@ -1836,15 +1476,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bixby Park",
-                  "text": "Un parc istoric în Long Beach, cu un chioșc de muzică, terenuri de tenis și o piață săptămânală a fermierilor.",
-                  "category": "park",
-                  "coords": [
-                        -118.167186,
-                        33.765798
-                  ]
-            },
-            {
                   "name": "Shoreline Aquatic Park",
                   "text": "Un parc pe malul apei de-a lungul coastei Long Beach, cu o marina, zone verzi și un debarcader de pescuit.",
                   "category": "park",
@@ -1852,36 +1483,9 @@ export const poiExtraUsaEconomicV2: POI[] = [
                         -118.195504,
                         33.761916
                   ]
-            },
-            {
-                  "name": "Victory Park",
-                  "text": "Un parc mare în Long Beach, cu un teren de golf de 18 găuri, terenuri de tenis și un lac.",
-                  "category": "park",
-                  "coords": [
-                        -118.186266,
-                        33.766242
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Museum of Latin American Art",
-                  "text": "Museum of Latin American Art is a museum in Long Beach, California. It is the only museum in the United States exclusively dedicated to modern Latin American art.",
-                  "category": "museum",
-                  "coords": [
-                        -118.179678,
-                        33.774576
-                  ]
-            },
-            {
-                  "name": "Second Samoan Church, (historic)",
-                  "text": "Historic Christian Science church in Long Beach, California.",
-                  "category": "religious",
-                  "coords": [
-                        -118.195452,
-                        33.775138
-                  ]
-            },
             {
                   "name": "Long Beach Light",
                   "text": "Lighthouse at the entrance to Long Beach Harbor, guiding ships.",
@@ -1889,15 +1493,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -118.186879,
                         33.723226
-                  ]
-            },
-            {
-                  "name": "Lions Lighthouse",
-                  "text": "Replica lighthouse built by Lions Clubs in Long Beach.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.194107,
-                        33.760238
                   ]
             },
             {
@@ -1964,30 +1559,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "B-427 Scorpion",
-                  "text": "B-427 Scorpion is a museum in Long Beach featuring a Soviet submarine.",
-                  "category": "museum",
-                  "coords": [
-                        -118.19143,
-                        33.753305
-                  ]
-            },
-            {
                   "name": "Fort MacArthur Museum",
                   "text": "Fort MacArthur Museum in Long Beach is located in a former military fortification.",
                   "category": "museum",
                   "coords": [
                         -118.295958,
                         33.711991
-                  ]
-            },
-            {
-                  "name": "Long Beach Museum of Art",
-                  "text": "An art museum overlooking the Pacific Ocean in Long Beach.",
-                  "category": "museum",
-                  "coords": [
-                        -118.16478,
-                        33.763473
                   ]
             },
             {
@@ -2015,15 +1592,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -118.296473,
                         33.737711
-                  ]
-            },
-            {
-                  "name": "First Church of Christ Scientist",
-                  "text": "1913-built Christian Science church building in Long Beach.",
-                  "category": "religious",
-                  "coords": [
-                        -118.187296,
-                        33.772411
                   ]
             },
             {
@@ -2063,15 +1631,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Queensway Bay",
-                  "text": "A small bay near the Long Beach Convention Center.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.196735,
-                        33.758351
-                  ]
-            },
-            {
                   "name": "Long Beach Middle Harbor",
                   "text": "A section of the Port of Long Beach.",
                   "category": "landmark",
@@ -2090,24 +1649,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Inner Harbor",
-                  "text": "A protected harbor area within the Port of Long Beach.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.223403,
-                        33.769185
-                  ]
-            },
-            {
-                  "name": "Queensway Twin Bridges",
-                  "text": "Twin bridges carrying Queensway over a channel in Long Beach.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.199384,
-                        33.759773
-                  ]
-            },
-            {
                   "name": "Battleship USS Iowa",
                   "text": "The historic Iowa-class battleship USS Iowa, which served in WWII and Korea, is now a museum in Long Beach.",
                   "category": "landmark",
@@ -2117,30 +1658,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santa Cruz Park",
-                  "text": "A community park in Long Beach with playgrounds, sports fields, and picnic areas.",
-                  "category": "park",
-                  "coords": [
-                        -118.202291,
-                        33.766685
-                  ]
-            },
-            {
                   "name": "Cabrillo Beach Park",
                   "text": "A coastal park in Long Beach named after explorer Juan Rodríguez Cabrillo, offering ocean views and beach access.",
                   "category": "park",
                   "coords": [
                         -118.283494,
                         33.709892
-                  ]
-            },
-            {
-                  "name": "California Recreation Center",
-                  "text": "A public park in Long Beach with a recreation center offering basketball courts and a gym.",
-                  "category": "park",
-                  "coords": [
-                        -118.180624,
-                        33.785851
                   ]
             },
             {
@@ -2159,15 +1682,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -118.297556,
                         33.72506
-                  ]
-            },
-            {
-                  "name": "Douglas MacArthur Park",
-                  "text": "A park in Long Beach dedicated to General Douglas MacArthur, featuring a memorial plaza and expansive lawns.",
-                  "category": "park",
-                  "coords": [
-                        -118.174726,
-                        33.783544
                   ]
             },
             {
@@ -2198,30 +1712,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bixby Park",
-                  "text": "A historic park in Long Beach with a bandstand, tennis courts, and a weekly farmers market.",
-                  "category": "park",
-                  "coords": [
-                        -118.167186,
-                        33.765798
-                  ]
-            },
-            {
                   "name": "Shoreline Aquatic Park",
                   "text": "A waterfront park along the Long Beach shoreline, with a marina, grassy areas, and a fishing pier.",
                   "category": "park",
                   "coords": [
                         -118.195504,
                         33.761916
-                  ]
-            },
-            {
-                  "name": "Victory Park",
-                  "text": "A large park in Long Beach with an 18-hole golf course, tennis courts, and a lake.",
-                  "category": "park",
-                  "coords": [
-                        -118.186266,
-                        33.766242
                   ]
             }
       ]
@@ -3639,84 +3135,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
       id: "port-of-savannah-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Casimir Pulaski Monument",
-                  "text": "Ein Denkmal in Savannah zu Ehren von Casimir Pulaski, einem polnischen Helden des Amerikanischen Unabhängigkeitskrieges.",
-                  "category": "historical",
-                  "coords": [
-                        -81.09479,
-                        32.071363
-                  ]
-            },
-            {
-                  "name": "Yamacraw Bluff",
-                  "text": "Ein Denkmal in Savannah, das den Landeplatz von James Oglethorpe, dem Gründer der Stadt, markiert.",
-                  "category": "historical",
-                  "coords": [
-                        -81.088673,
-                        32.08115
-                  ]
-            },
-            {
-                  "name": "First Bryan Baptist Church",
-                  "text": "Eine historische afroamerikanische Baptistenkirche in Savannah, eine der ältesten in den USA.",
-                  "category": "religious",
-                  "coords": [
-                        -81.099063,
-                        32.082051
-                  ]
-            },
-            {
-                  "name": "Saint Johns Episcopal Church",
-                  "text": "Eine episkopale Kirche in Savannah im neugotischen Stil.",
-                  "category": "religious",
-                  "coords": [
-                        -81.094862,
-                        32.073615
-                  ]
-            },
-            {
-                  "name": "Savannah Theatre",
-                  "text": "Ein historisches Theater in Savannah, eines der ältesten noch bespielten Theater in den USA.",
-                  "category": "cultural",
-                  "coords": [
-                        -81.092262,
-                        32.075761
-                  ]
-            },
-            {
-                  "name": "The Cathedral of Saint John the Baptist",
-                  "text": "Eine katholische Kathedrale in Savannah, die Mutterkirche der Diözese.",
-                  "category": "religious",
-                  "coords": [
-                        -81.090896,
-                        32.073329
-                  ]
-            },
-            {
-                  "name": "Talmadge Memorial Bridge",
-                  "text": "Eine Schrägseilbrücke über den Savannah River in Savannah.",
-                  "category": "landmark",
-                  "coords": [
-                        -81.099067,
-                        32.088515
-                  ]
-            },
-            {
                   "name": "Dorothy Barnes Pelote Bridge",
                   "text": "Eine Fußgängerbrücke in Savannah, benannt nach der Bürgerrechtlerin Dorothy Barnes Pelote.",
                   "category": "landmark",
                   "coords": [
                         -81.105508,
                         32.084706
-                  ]
-            },
-            {
-                  "name": "Forsyth Park",
-                  "text": "Ein großer Park in Savannah, bekannt für seinen ikonischen Springbrunnen.",
-                  "category": "park",
-                  "coords": [
-                        -81.096218,
-                        32.067559
                   ]
             },
             {
@@ -3729,24 +3153,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Emmet Park",
-                  "text": "Ein Park in Savannah, benannt nach dem irischen Nationalisten Robert Emmet.",
-                  "category": "park",
-                  "coords": [
-                        -81.086096,
-                        32.079861
-                  ]
-            },
-            {
-                  "name": "First African Baptist Church",
-                  "text": "Eine historische afroamerikanische Baptistenkirche in Savannah, eine der ältesten Gemeinden.",
-                  "category": "religious",
-                  "coords": [
-                        -81.096299,
-                        32.081366
-                  ]
-            },
-            {
                   "name": "Old Fort Jackson",
                   "text": "Eine restaurierte Festung aus dem 19. Jahrhundert in Savannah mit Kanonenvorführungen.",
                   "category": "landmark",
@@ -3756,57 +3162,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wright Square",
-                  "text": "Einer der historischen Plätze von Savannah, Teil des ursprünglichen Stadtplans.",
-                  "category": "park",
-                  "coords": [
-                        -81.092336,
-                        32.077963
-                  ]
-            },
-            {
                   "name": "Museum of Art",
                   "text": "Ein Kunstmuseum in Savannah mit einer Sammlung amerikanischer und europäischer Werke.",
                   "category": "museum",
                   "coords": [
                         -81.099501,
                         32.077609
-                  ]
-            },
-            {
-                  "name": "Savannah History Museum",
-                  "text": "Ein Museum im historischen Central of Georgia Railway Station in Savannah, das die Geschichte der Stadt zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -81.099819,
-                        32.076227
-                  ]
-            },
-            {
-                  "name": "Telfair Academy of Arts and Sciences",
-                  "text": "Ein Kunstmuseum in Savannah in einem historischen Gebäude im Regency-Stil.",
-                  "category": "museum",
-                  "coords": [
-                        -81.095283,
-                        32.078935
-                  ]
-            },
-            {
-                  "name": "Old Harbor Light",
-                  "text": "Ein historischer Leuchtturm, der die Einfahrt zum Savannah River markiert, aus dem 19. Jahrhundert.",
-                  "category": "historical",
-                  "coords": [
-                        -81.084262,
-                        32.079311
-                  ]
-            },
-            {
-                  "name": "Trustees Theatre",
-                  "text": "Ein historisches Theater auf dem Campus des Savannah College of Art and Design, das Theaterstücke und Filmvorführungen veranstaltet.",
-                  "category": "cultural",
-                  "coords": [
-                        -81.089053,
-                        32.078374
                   ]
             },
             {
@@ -3846,15 +3207,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chatham Square",
-                  "text": "Einer der historischen Plätze von Savannah mit einem zentralen Brunnen und schattigen Parkbänken.",
-                  "category": "park",
-                  "coords": [
-                        -81.097038,
-                        32.071915
-                  ]
-            },
-            {
                   "name": "Cann Park",
                   "text": "Ein kleiner Park in Savannah mit Spielplatz, Basketballplatz und offener Rasenfläche.",
                   "category": "park",
@@ -3882,15 +3234,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nonfiction Gallery",
-                  "text": "Galerie für zeitgenössische Kunst im historischen Viertel von Savannah in Of Savannah.",
-                  "category": "museum",
-                  "coords": [
-                        -81.098612,
-                        32.061048
-                  ]
-            },
-            {
                   "name": "Stephen Kasun Fine Art Gallery",
                   "text": "Galerie für bildende Kunst in Savannah, Of Savannah.",
                   "category": "museum",
@@ -3898,117 +3241,9 @@ export const poiExtraUsaEconomicV2: POI[] = [
                         -81.095259,
                         32.080662
                   ]
-            },
-            {
-                  "name": "Gretsch Museum",
-                  "text": "Ein Museum in Savannah, das historische Gretsch-Gitarren und Erinnerungsstücke zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -81.096122,
-                        32.083798
-                  ]
-            },
-            {
-                  "name": "Ships of the Sea Mairitme Museum",
-                  "text": "Ein Museum in Savannah in einem historischen Gebäude mit Modellschiffen.",
-                  "category": "museum",
-                  "coords": [
-                        -81.097295,
-                        32.081175
-                  ]
-            },
-            {
-                  "name": "Savannah Children's Museum",
-                  "text": "Interaktives Kindermuseum in den historischen Eisenbahnwerkstätten von Savannah, Of Savannah.",
-                  "category": "museum",
-                  "coords": [
-                        -81.102547,
-                        32.075315
-                  ]
-            },
-            {
-                  "name": "Roundhouse Railroad Museum",
-                  "text": "Museum in einem historischen Ringlokschuppen mit Eisenbahnausstellung in Savannah, Of Savannah.",
-                  "category": "museum",
-                  "coords": [
-                        -81.101132,
-                        32.075371
-                  ]
-            },
-            {
-                  "name": "Georgia State Railroad Museum",
-                  "text": "Ein Museum in Savannah mit historischen Lokomotiven und Eisenbahnwagen.",
-                  "category": "museum",
-                  "coords": [
-                        -81.10348,
-                        32.075494
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Casimir Pulaski Monument",
-                  "text": "Emlékmű Savannah-ban Casimir Pulaski, az amerikai függetlenségi háború lengyel hősének tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        -81.09479,
-                        32.071363
-                  ]
-            },
-            {
-                  "name": "Yamacraw Bluff",
-                  "text": "Emlékmű Savannah-ban, amely James Oglethorpe, a város alapítójának partraszállási helyét jelöli.",
-                  "category": "historical",
-                  "coords": [
-                        -81.088673,
-                        32.08115
-                  ]
-            },
-            {
-                  "name": "First Bryan Baptist Church",
-                  "text": "Történelmi afroamerikai baptista templom Savannah-ban, az egyik legrégebbi az USA-ban.",
-                  "category": "religious",
-                  "coords": [
-                        -81.099063,
-                        32.082051
-                  ]
-            },
-            {
-                  "name": "Saint Johns Episcopal Church",
-                  "text": "Episzkopális templom Savannah-ban, gótikus stílusban épült.",
-                  "category": "religious",
-                  "coords": [
-                        -81.094862,
-                        32.073615
-                  ]
-            },
-            {
-                  "name": "Savannah Theatre",
-                  "text": "Történelmi színház Savannah-ban, az egyik legrégebbi működő színház az USA-ban.",
-                  "category": "cultural",
-                  "coords": [
-                        -81.092262,
-                        32.075761
-                  ]
-            },
-            {
-                  "name": "The Cathedral of Saint John the Baptist",
-                  "text": "Katolikus székesegyház Savannah-ban, az egyházmegye anyatemploma.",
-                  "category": "religious",
-                  "coords": [
-                        -81.090896,
-                        32.073329
-                  ]
-            },
-            {
-                  "name": "Talmadge Memorial Bridge",
-                  "text": "Kábelhíd a Savannah folyón át Savannah-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        -81.099067,
-                        32.088515
-                  ]
-            },
             {
                   "name": "Dorothy Barnes Pelote Bridge",
                   "text": "Gyalogos híd Savannah-ban, Dorothy Barnes Pelote polgárjogi aktivistáról elnevezve.",
@@ -4016,15 +3251,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -81.105508,
                         32.084706
-                  ]
-            },
-            {
-                  "name": "Forsyth Park",
-                  "text": "Nagy park Savannah-ban, ikonikus szökőkútjáról ismert.",
-                  "category": "park",
-                  "coords": [
-                        -81.096218,
-                        32.067559
                   ]
             },
             {
@@ -4037,24 +3263,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Emmet Park",
-                  "text": "Park Savannah-ban, Robert Emmet ír nacionalistáról elnevezve.",
-                  "category": "park",
-                  "coords": [
-                        -81.086096,
-                        32.079861
-                  ]
-            },
-            {
-                  "name": "First African Baptist Church",
-                  "text": "Történelmi afroamerikai baptista templom Savannah-ban, az egyik legrégebbi gyülekezet.",
-                  "category": "religious",
-                  "coords": [
-                        -81.096299,
-                        32.081366
-                  ]
-            },
-            {
                   "name": "Old Fort Jackson",
                   "text": "Egy helyreállított 19. századi erőd Savannah-ban ágyúbemutatókkal.",
                   "category": "landmark",
@@ -4064,57 +3272,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wright Square",
-                  "text": "Savannah egyik történelmi tere, az eredeti városi terv része.",
-                  "category": "park",
-                  "coords": [
-                        -81.092336,
-                        32.077963
-                  ]
-            },
-            {
                   "name": "Museum of Art",
                   "text": "Művészeti múzeum Savannah-ban, amerikai és európai alkotások gyűjteményével.",
                   "category": "museum",
                   "coords": [
                         -81.099501,
                         32.077609
-                  ]
-            },
-            {
-                  "name": "Savannah History Museum",
-                  "text": "Egy múzeum Savannah történelmi Central of Georgia vasútállomásában, amely a város történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -81.099819,
-                        32.076227
-                  ]
-            },
-            {
-                  "name": "Telfair Academy of Arts and Sciences",
-                  "text": "Művészeti múzeum Savannah-ban, egy történelmi, Regency stílusú épületben.",
-                  "category": "museum",
-                  "coords": [
-                        -81.095283,
-                        32.078935
-                  ]
-            },
-            {
-                  "name": "Old Harbor Light",
-                  "text": "Egy történelmi világítótorony, amely a Savannah folyó bejáratát jelzi, a 19. századból.",
-                  "category": "historical",
-                  "coords": [
-                        -81.084262,
-                        32.079311
-                  ]
-            },
-            {
-                  "name": "Trustees Theatre",
-                  "text": "Egy történelmi színház a Savannah College of Art and Design campusán, színházi előadásokkal és filmvetítésekkel.",
-                  "category": "cultural",
-                  "coords": [
-                        -81.089053,
-                        32.078374
                   ]
             },
             {
@@ -4154,15 +3317,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chatham Square",
-                  "text": "Savannah egyik történelmi tere, központi szökőkúttal és árnyékos parkpadokkal.",
-                  "category": "park",
-                  "coords": [
-                        -81.097038,
-                        32.071915
-                  ]
-            },
-            {
                   "name": "Cann Park",
                   "text": "Egy kis park Savannah-ban, játszótérrel, kosárlabdapályával és nyílt gyepfelülettel.",
                   "category": "park",
@@ -4190,15 +3344,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nonfiction Gallery",
-                  "text": "Kortárs művészeti galéria Savannah történelmi negyedében, Of Savannahban.",
-                  "category": "museum",
-                  "coords": [
-                        -81.098612,
-                        32.061048
-                  ]
-            },
-            {
                   "name": "Stephen Kasun Fine Art Gallery",
                   "text": "Képzőművészeti galéria Savannahban, Of Savannahban.",
                   "category": "museum",
@@ -4206,117 +3351,9 @@ export const poiExtraUsaEconomicV2: POI[] = [
                         -81.095259,
                         32.080662
                   ]
-            },
-            {
-                  "name": "Gretsch Museum",
-                  "text": "Egy múzeum Savannah-ban, amely történelmi Gretsch-gitárokat és emléktárgyakat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -81.096122,
-                        32.083798
-                  ]
-            },
-            {
-                  "name": "Ships of the Sea Mairitme Museum",
-                  "text": "Egy múzeum Savannah-ban egy történelmi épületben, hajómodellekkel.",
-                  "category": "museum",
-                  "coords": [
-                        -81.097295,
-                        32.081175
-                  ]
-            },
-            {
-                  "name": "Savannah Children's Museum",
-                  "text": "Interaktív gyermekmúzeum Savannah történelmi vasúti műhelyeiben, Of Savannahban.",
-                  "category": "museum",
-                  "coords": [
-                        -81.102547,
-                        32.075315
-                  ]
-            },
-            {
-                  "name": "Roundhouse Railroad Museum",
-                  "text": "Múzeum egy történelmi körfűtőházban, vasúti kiállítással Savannahban, Of Savannahban.",
-                  "category": "museum",
-                  "coords": [
-                        -81.101132,
-                        32.075371
-                  ]
-            },
-            {
-                  "name": "Georgia State Railroad Museum",
-                  "text": "Egy múzeum Savannah-ban történelmi mozdonyokkal és vasúti kocsikkal.",
-                  "category": "museum",
-                  "coords": [
-                        -81.10348,
-                        32.075494
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Casimir Pulaski Monument",
-                  "text": "Un monument în Savannah în onoarea lui Casimir Pulaski, un erou polonez al Revoluției Americane.",
-                  "category": "historical",
-                  "coords": [
-                        -81.09479,
-                        32.071363
-                  ]
-            },
-            {
-                  "name": "Yamacraw Bluff",
-                  "text": "Un monument în Savannah care marchează locul debarcării lui James Oglethorpe, fondatorul orașului.",
-                  "category": "historical",
-                  "coords": [
-                        -81.088673,
-                        32.08115
-                  ]
-            },
-            {
-                  "name": "First Bryan Baptist Church",
-                  "text": "O biserică baptistă afro-americană istorică în Savannah, una dintre cele mai vechi din SUA.",
-                  "category": "religious",
-                  "coords": [
-                        -81.099063,
-                        32.082051
-                  ]
-            },
-            {
-                  "name": "Saint Johns Episcopal Church",
-                  "text": "O biserică episcopală în Savannah construită în stil gotic revival.",
-                  "category": "religious",
-                  "coords": [
-                        -81.094862,
-                        32.073615
-                  ]
-            },
-            {
-                  "name": "Savannah Theatre",
-                  "text": "Un teatru istoric în Savannah, unul dintre cele mai vechi teatre în funcțiune din SUA.",
-                  "category": "cultural",
-                  "coords": [
-                        -81.092262,
-                        32.075761
-                  ]
-            },
-            {
-                  "name": "The Cathedral of Saint John the Baptist",
-                  "text": "O catedrală catolică în Savannah, biserica mamă a diecezei.",
-                  "category": "religious",
-                  "coords": [
-                        -81.090896,
-                        32.073329
-                  ]
-            },
-            {
-                  "name": "Talmadge Memorial Bridge",
-                  "text": "Un pod cu cabluri care traversează râul Savannah în Savannah.",
-                  "category": "landmark",
-                  "coords": [
-                        -81.099067,
-                        32.088515
-                  ]
-            },
             {
                   "name": "Dorothy Barnes Pelote Bridge",
                   "text": "Un pod pietonal în Savannah numit după activista pentru drepturi civile Dorothy Barnes Pelote.",
@@ -4324,15 +3361,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -81.105508,
                         32.084706
-                  ]
-            },
-            {
-                  "name": "Forsyth Park",
-                  "text": "Un parc mare în Savannah cunoscut pentru fântâna sa iconică.",
-                  "category": "park",
-                  "coords": [
-                        -81.096218,
-                        32.067559
                   ]
             },
             {
@@ -4345,24 +3373,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Emmet Park",
-                  "text": "Un parc în Savannah numit după naționalistul irlandez Robert Emmet.",
-                  "category": "park",
-                  "coords": [
-                        -81.086096,
-                        32.079861
-                  ]
-            },
-            {
-                  "name": "First African Baptist Church",
-                  "text": "O biserică baptistă afro-americană istorică în Savannah, una dintre cele mai vechi congregații.",
-                  "category": "religious",
-                  "coords": [
-                        -81.096299,
-                        32.081366
-                  ]
-            },
-            {
                   "name": "Old Fort Jackson",
                   "text": "Un fort restaurat din secolul al XIX-lea în Savannah cu demonstrații de tunuri.",
                   "category": "landmark",
@@ -4372,57 +3382,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wright Square",
-                  "text": "Una dintre piețele istorice ale Savannah, parte din planul original al orașului.",
-                  "category": "park",
-                  "coords": [
-                        -81.092336,
-                        32.077963
-                  ]
-            },
-            {
                   "name": "Museum of Art",
                   "text": "Un muzeu de artă în Savannah cu o colecție de lucrări americane și europene.",
                   "category": "museum",
                   "coords": [
                         -81.099501,
                         32.077609
-                  ]
-            },
-            {
-                  "name": "Savannah History Museum",
-                  "text": "Un muzeu găzduit în istorica gară Central of Georgia Railway din Savannah, care prezintă istoria orașului.",
-                  "category": "museum",
-                  "coords": [
-                        -81.099819,
-                        32.076227
-                  ]
-            },
-            {
-                  "name": "Telfair Academy of Arts and Sciences",
-                  "text": "Un muzeu de artă în Savannah găzduit într-o clădire istorică în stil Regency.",
-                  "category": "museum",
-                  "coords": [
-                        -81.095283,
-                        32.078935
-                  ]
-            },
-            {
-                  "name": "Old Harbor Light",
-                  "text": "Un far istoric care marchează intrarea în râul Savannah, datând din secolul al XIX-lea.",
-                  "category": "historical",
-                  "coords": [
-                        -81.084262,
-                        32.079311
-                  ]
-            },
-            {
-                  "name": "Trustees Theatre",
-                  "text": "Un teatru istoric în campusul Savannah College of Art and Design, care găzduiește piese de teatru și proiecții de filme.",
-                  "category": "cultural",
-                  "coords": [
-                        -81.089053,
-                        32.078374
                   ]
             },
             {
@@ -4462,15 +3427,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chatham Square",
-                  "text": "Una dintre piețele istorice din Savannah, cu o fântână centrală și bănci umbrite.",
-                  "category": "park",
-                  "coords": [
-                        -81.097038,
-                        32.071915
-                  ]
-            },
-            {
                   "name": "Cann Park",
                   "text": "Un mic parc în Savannah, cu loc de joacă, teren de baschet și gazon deschis.",
                   "category": "park",
@@ -4498,15 +3454,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nonfiction Gallery",
-                  "text": "Galerie de artă contemporană în cartierul istoric al Savannahului în Of Savannah.",
-                  "category": "museum",
-                  "coords": [
-                        -81.098612,
-                        32.061048
-                  ]
-            },
-            {
                   "name": "Stephen Kasun Fine Art Gallery",
                   "text": "Galerie de artă plastică în Savannah, Of Savannah.",
                   "category": "museum",
@@ -4514,117 +3461,9 @@ export const poiExtraUsaEconomicV2: POI[] = [
                         -81.095259,
                         32.080662
                   ]
-            },
-            {
-                  "name": "Gretsch Museum",
-                  "text": "Un muzeu în Savannah care expune chitare Gretsch istorice și suveniruri.",
-                  "category": "museum",
-                  "coords": [
-                        -81.096122,
-                        32.083798
-                  ]
-            },
-            {
-                  "name": "Ships of the Sea Mairitme Museum",
-                  "text": "Un muzeu din Savannah găzduit într-o clădire istorică, cu nave model.",
-                  "category": "museum",
-                  "coords": [
-                        -81.097295,
-                        32.081175
-                  ]
-            },
-            {
-                  "name": "Savannah Children's Museum",
-                  "text": "Muzeu interactiv pentru copii în atelierele feroviare istorice din Savannah, Of Savannah.",
-                  "category": "museum",
-                  "coords": [
-                        -81.102547,
-                        32.075315
-                  ]
-            },
-            {
-                  "name": "Roundhouse Railroad Museum",
-                  "text": "Muzeu într-o rotondă istorică, cu expoziție de locomotive în Savannah, Of Savannah.",
-                  "category": "museum",
-                  "coords": [
-                        -81.101132,
-                        32.075371
-                  ]
-            },
-            {
-                  "name": "Georgia State Railroad Museum",
-                  "text": "Un muzeu în Savannah cu locomotive și vagoane istorice.",
-                  "category": "museum",
-                  "coords": [
-                        -81.10348,
-                        32.075494
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Casimir Pulaski Monument",
-                  "text": "A monument in Savannah honoring Casimir Pulaski, a Polish hero of the American Revolution.",
-                  "category": "historical",
-                  "coords": [
-                        -81.09479,
-                        32.071363
-                  ]
-            },
-            {
-                  "name": "Yamacraw Bluff",
-                  "text": "A monument in Savannah marking the landing site of James Oglethorpe, founder of the city.",
-                  "category": "historical",
-                  "coords": [
-                        -81.088673,
-                        32.08115
-                  ]
-            },
-            {
-                  "name": "First Bryan Baptist Church",
-                  "text": "A historic African American Baptist church in Savannah, one of the oldest in the U.S.",
-                  "category": "religious",
-                  "coords": [
-                        -81.099063,
-                        32.082051
-                  ]
-            },
-            {
-                  "name": "Saint Johns Episcopal Church",
-                  "text": "An Episcopal church in Savannah built in the Gothic Revival style.",
-                  "category": "religious",
-                  "coords": [
-                        -81.094862,
-                        32.073615
-                  ]
-            },
-            {
-                  "name": "Savannah Theatre",
-                  "text": "A historic theatre in Savannah, one of the oldest operating theatres in the U.S.",
-                  "category": "cultural",
-                  "coords": [
-                        -81.092262,
-                        32.075761
-                  ]
-            },
-            {
-                  "name": "The Cathedral of Saint John the Baptist",
-                  "text": "A Catholic cathedral in Savannah, the mother church of the diocese.",
-                  "category": "religious",
-                  "coords": [
-                        -81.090896,
-                        32.073329
-                  ]
-            },
-            {
-                  "name": "Talmadge Memorial Bridge",
-                  "text": "A cable-stayed bridge spanning the Savannah River in Savannah.",
-                  "category": "landmark",
-                  "coords": [
-                        -81.099067,
-                        32.088515
-                  ]
-            },
             {
                   "name": "Dorothy Barnes Pelote Bridge",
                   "text": "A pedestrian bridge in Savannah named after civil rights activist Dorothy Barnes Pelote.",
@@ -4632,15 +3471,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -81.105508,
                         32.084706
-                  ]
-            },
-            {
-                  "name": "Forsyth Park",
-                  "text": "A large park in Savannah known for its iconic fountain.",
-                  "category": "park",
-                  "coords": [
-                        -81.096218,
-                        32.067559
                   ]
             },
             {
@@ -4653,24 +3483,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Emmet Park",
-                  "text": "A park in Savannah named after Irish nationalist Robert Emmet.",
-                  "category": "park",
-                  "coords": [
-                        -81.086096,
-                        32.079861
-                  ]
-            },
-            {
-                  "name": "First African Baptist Church",
-                  "text": "A historic African American Baptist church in Savannah, one of the oldest congregations.",
-                  "category": "religious",
-                  "coords": [
-                        -81.096299,
-                        32.081366
-                  ]
-            },
-            {
                   "name": "Old Fort Jackson",
                   "text": "A restored 19th-century fort in Savannah with cannon demonstrations.",
                   "category": "landmark",
@@ -4680,57 +3492,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wright Square",
-                  "text": "One of Savannah's historic squares, part of the original city plan.",
-                  "category": "park",
-                  "coords": [
-                        -81.092336,
-                        32.077963
-                  ]
-            },
-            {
                   "name": "Museum of Art",
                   "text": "An art museum in Savannah featuring a collection of American and European works.",
                   "category": "museum",
                   "coords": [
                         -81.099501,
                         32.077609
-                  ]
-            },
-            {
-                  "name": "Savannah History Museum",
-                  "text": "A museum housed in the historic Central of Georgia Railway station in Savannah, showcasing the city's history.",
-                  "category": "museum",
-                  "coords": [
-                        -81.099819,
-                        32.076227
-                  ]
-            },
-            {
-                  "name": "Telfair Academy of Arts and Sciences",
-                  "text": "An art museum in Savannah housed in a historic Regency-style building.",
-                  "category": "museum",
-                  "coords": [
-                        -81.095283,
-                        32.078935
-                  ]
-            },
-            {
-                  "name": "Old Harbor Light",
-                  "text": "A historic lighthouse marking the entrance to the Savannah River, dating from the 19th century.",
-                  "category": "historical",
-                  "coords": [
-                        -81.084262,
-                        32.079311
-                  ]
-            },
-            {
-                  "name": "Trustees Theatre",
-                  "text": "A historic theater on the Savannah College of Art and Design campus, hosting plays and film screenings.",
-                  "category": "cultural",
-                  "coords": [
-                        -81.089053,
-                        32.078374
                   ]
             },
             {
@@ -4770,15 +3537,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chatham Square",
-                  "text": "One of Savannah's historic squares, featuring a central fountain and shaded park benches.",
-                  "category": "park",
-                  "coords": [
-                        -81.097038,
-                        32.071915
-                  ]
-            },
-            {
                   "name": "Cann Park",
                   "text": "A small park in Savannah with a playground, basketball court, and open lawn.",
                   "category": "park",
@@ -4806,66 +3564,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nonfiction Gallery",
-                  "text": "Contemporary art gallery in Savannah's historic district in Of Savannah.",
-                  "category": "museum",
-                  "coords": [
-                        -81.098612,
-                        32.061048
-                  ]
-            },
-            {
                   "name": "Stephen Kasun Fine Art Gallery",
                   "text": "Fine art gallery in Savannah, Of Savannah.",
                   "category": "museum",
                   "coords": [
                         -81.095259,
                         32.080662
-                  ]
-            },
-            {
-                  "name": "Gretsch Museum",
-                  "text": "A museum in Savannah displaying vintage Gretsch guitars and memorabilia.",
-                  "category": "museum",
-                  "coords": [
-                        -81.096122,
-                        32.083798
-                  ]
-            },
-            {
-                  "name": "Ships of the Sea Mairitme Museum",
-                  "text": "A museum in Savannah housed in a historic building featuring model ships.",
-                  "category": "museum",
-                  "coords": [
-                        -81.097295,
-                        32.081175
-                  ]
-            },
-            {
-                  "name": "Savannah Children's Museum",
-                  "text": "Interactive children's museum in Savannah's Historic Railroad Shops, Of Savannah.",
-                  "category": "museum",
-                  "coords": [
-                        -81.102547,
-                        32.075315
-                  ]
-            },
-            {
-                  "name": "Roundhouse Railroad Museum",
-                  "text": "Museum in a historic roundhouse with locomotive exhibits in Savannah, Of Savannah.",
-                  "category": "museum",
-                  "coords": [
-                        -81.101132,
-                        32.075371
-                  ]
-            },
-            {
-                  "name": "Georgia State Railroad Museum",
-                  "text": "A museum in Savannah featuring historic locomotives and railcars.",
-                  "category": "museum",
-                  "coords": [
-                        -81.10348,
-                        32.075494
                   ]
             }
       ]
@@ -4934,15 +3638,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seattle City Hall",
-                  "text": "Das Seattle City Hall wurde 2005 eröffnet und verfügt über ein markantes Glasatrium.",
-                  "category": "historical",
-                  "coords": [
-                        -122.330007,
-                        47.60388
-                  ]
-            },
-            {
                   "name": "Dai Bai Zan Cho Bo Zen Ji",
                   "text": "Der Dai Bai Zan Cho Bo Zen Ji in Seattle ist der erste Zen-Tempel im pazifischen Nordwesten.",
                   "category": "religious",
@@ -4952,39 +3647,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hugo House",
-                  "text": "Das Hugo House in Seattle ist ein gemeinnütziges Literaturzentrum, das Schriftsteller und Leser fördert.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.317993,
-                        47.616189
-                  ]
-            },
-            {
                   "name": "Seattle Buddhist Church",
                   "text": "Die Seattle Buddhist Church ist einer der ältesten buddhistischen Tempel in den Vereinigten Staaten.",
                   "category": "religious",
                   "coords": [
                         -122.313011,
                         47.599742
-                  ]
-            },
-            {
-                  "name": "Saint James Cathedral",
-                  "text": "Die Saint James Cathedral in Seattle wurde 1907 erbaut.",
-                  "category": "religious",
-                  "coords": [
-                        -122.32584,
-                        47.607679
-                  ]
-            },
-            {
-                  "name": "Chapel of Saint Ignatius",
-                  "text": "Die Chapel of Saint Ignatius in Seattle ist bekannt für ihre moderne Architektur und die Nutzung von natürlichem Licht.",
-                  "category": "religious",
-                  "coords": [
-                        -122.317955,
-                        47.611337
                   ]
             },
             {
@@ -5078,15 +3746,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Donnie Chin International Children’s Park",
-                  "text": "Der Donnie Chin International Children’s Park in Seattle ist nach einem lokalen Gemeinschaftsaktivisten benannt.",
-                  "category": "park",
-                  "coords": [
-                        -122.323446,
-                        47.596888
-                  ]
-            },
-            {
                   "name": "Bellevue Downtown Park",
                   "text": "Zentraler Stadtpark mit großem kreisförmigen Teich in Bellevue, nahe Seattle.",
                   "category": "park",
@@ -5159,24 +3818,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wing Luke Asian Museum",
-                  "text": "Dieses Museum in der Wirtschaftszone Port of Seattle zeigt die asiatisch-amerikanische Kultur und Geschichte.",
-                  "category": "museum",
-                  "coords": [
-                        -122.32287,
-                        47.598246
-                  ]
-            },
-            {
-                  "name": "Coast Guard Museum Northwest",
-                  "text": "Dieses Museum in der Wirtschaftszone Port of Seattle konzentriert sich auf die Geschichte der US-Küstenwache im Nordwesten.",
-                  "category": "museum",
-                  "coords": [
-                        -122.337732,
-                        47.590633
-                  ]
-            },
-            {
                   "name": "Frye Art Museum",
                   "text": "Dieses Kunstmuseum in der Wirtschaftszone Port of Seattle zeigt eine Sammlung europäischer und amerikanischer Gemälde.",
                   "category": "museum",
@@ -5204,39 +3845,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nippon Kan Theater",
-                  "text": "Dieses Theater in der Wirtschaftszone Port of Seattle ist ein historischer Veranstaltungsort für darstellende Künste.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.325354,
-                        47.600984
-                  ]
-            },
-            {
-                  "name": "Northwest Film Forum",
-                  "text": "Dieses Kunstzentrum in der Wirtschaftszone Port of Seattle zeigt unabhängige Filme und Medien.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.317071,
-                        47.614414
-                  ]
-            },
-            {
                   "name": "Kenyon Hall",
                   "text": "Dieses Theater in der Wirtschaftszone Port of Seattle veranstaltet Live-Aufführungen und Gemeinschaftsveranstaltungen.",
                   "category": "cultural",
                   "coords": [
                         -122.376173,
                         47.531662
-                  ]
-            },
-            {
-                  "name": "King Street Baptist Church",
-                  "text": "Diese Kirche in der Wirtschaftszone Port of Seattle dient der Baptistengemeinde.",
-                  "category": "religious",
-                  "coords": [
-                        -122.319887,
-                        47.598156
                   ]
             }
       ],
@@ -5269,15 +3883,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seattle City Hall",
-                  "text": "A seattle-i városháza 2005-ben nyílt meg, és feltűnő üvegatriuma van.",
-                  "category": "historical",
-                  "coords": [
-                        -122.330007,
-                        47.60388
-                  ]
-            },
-            {
                   "name": "Dai Bai Zan Cho Bo Zen Ji",
                   "text": "A seattle-i Dai Bai Zan Cho Bo Zen Ji az első zen templom a Csendes-óceán északnyugati részén.",
                   "category": "religious",
@@ -5287,39 +3892,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hugo House",
-                  "text": "A seattle-i Hugo House egy nonprofit irodalmi központ, amely támogatja az írókat és olvasókat.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.317993,
-                        47.616189
-                  ]
-            },
-            {
                   "name": "Seattle Buddhist Church",
                   "text": "A Seattle-i Buddhista Templom az Egyesült Államok egyik legrégebbi buddhista temploma.",
                   "category": "religious",
                   "coords": [
                         -122.313011,
                         47.599742
-                  ]
-            },
-            {
-                  "name": "Saint James Cathedral",
-                  "text": "A Szent Jakab székesegyház Seattle-ben 1907-ben épült.",
-                  "category": "religious",
-                  "coords": [
-                        -122.32584,
-                        47.607679
-                  ]
-            },
-            {
-                  "name": "Chapel of Saint Ignatius",
-                  "text": "A seattle-i Chapel of Saint Ignatius híres modern építészetéről és a természetes fény használatáról.",
-                  "category": "religious",
-                  "coords": [
-                        -122.317955,
-                        47.611337
                   ]
             },
             {
@@ -5413,15 +3991,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Donnie Chin International Children’s Park",
-                  "text": "A seattle-i Donnie Chin International Children’s Park egy helyi közösségi aktivistáról kapta a nevét.",
-                  "category": "park",
-                  "coords": [
-                        -122.323446,
-                        47.596888
-                  ]
-            },
-            {
                   "name": "Bellevue Downtown Park",
                   "text": "Központi városi park nagy kör alakú tóval Bellevue-ban, Seattle közelében.",
                   "category": "park",
@@ -5494,24 +4063,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wing Luke Asian Museum",
-                  "text": "Ez a múzeum a Port of Seattle gazdasági övezetben az ázsiai-amerikai kultúrát és történelmet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -122.32287,
-                        47.598246
-                  ]
-            },
-            {
-                  "name": "Coast Guard Museum Northwest",
-                  "text": "Ez a múzeum a Port of Seattle gazdasági övezetben az Egyesült Államok Parti Őrségének északnyugati történetére összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        -122.337732,
-                        47.590633
-                  ]
-            },
-            {
                   "name": "Frye Art Museum",
                   "text": "Ez a művészeti múzeum a Port of Seattle gazdasági övezetben európai és amerikai festmények gyűjteményét állítja ki.",
                   "category": "museum",
@@ -5539,39 +4090,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nippon Kan Theater",
-                  "text": "Ez a színház a Port of Seattle gazdasági övezetben egy történelmi helyszín az előadóművészet számára.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.325354,
-                        47.600984
-                  ]
-            },
-            {
-                  "name": "Northwest Film Forum",
-                  "text": "Ez a művészeti központ a Port of Seattle gazdasági övezetben független filmeket és médiát mutat be.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.317071,
-                        47.614414
-                  ]
-            },
-            {
                   "name": "Kenyon Hall",
                   "text": "Ez a színház a Port of Seattle gazdasági övezetben élő előadásoknak és közösségi eseményeknek ad otthont.",
                   "category": "cultural",
                   "coords": [
                         -122.376173,
                         47.531662
-                  ]
-            },
-            {
-                  "name": "King Street Baptist Church",
-                  "text": "Ez a templom a Port of Seattle gazdasági övezetben a baptista közösséget szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        -122.319887,
-                        47.598156
                   ]
             }
       ],
@@ -5604,15 +4128,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seattle City Hall",
-                  "text": "Primăria orașului Seattle a fost deschisă în 2005 și are un atrium de sticlă proeminent.",
-                  "category": "historical",
-                  "coords": [
-                        -122.330007,
-                        47.60388
-                  ]
-            },
-            {
                   "name": "Dai Bai Zan Cho Bo Zen Ji",
                   "text": "Dai Bai Zan Cho Bo Zen Ji din Seattle este primul templu zen din nord-vestul Pacificului.",
                   "category": "religious",
@@ -5622,39 +4137,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hugo House",
-                  "text": "Hugo House din Seattle este un centru literar non-profit care sprijină scriitorii și cititorii.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.317993,
-                        47.616189
-                  ]
-            },
-            {
                   "name": "Seattle Buddhist Church",
                   "text": "Biserica Budistă din Seattle este unul dintre cele mai vechi temple budiste din Statele Unite.",
                   "category": "religious",
                   "coords": [
                         -122.313011,
                         47.599742
-                  ]
-            },
-            {
-                  "name": "Saint James Cathedral",
-                  "text": "Catedrala Sfântul Iacob din Seattle a fost construită în 1907.",
-                  "category": "religious",
-                  "coords": [
-                        -122.32584,
-                        47.607679
-                  ]
-            },
-            {
-                  "name": "Chapel of Saint Ignatius",
-                  "text": "Capela Sfântului Ignațiu din Seattle este cunoscută pentru arhitectura sa modernă și utilizarea luminii naturale.",
-                  "category": "religious",
-                  "coords": [
-                        -122.317955,
-                        47.611337
                   ]
             },
             {
@@ -5748,15 +4236,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Donnie Chin International Children’s Park",
-                  "text": "Parcul Internațional pentru Copii Donnie Chin din Seattle este numit după un activist comunitar local.",
-                  "category": "park",
-                  "coords": [
-                        -122.323446,
-                        47.596888
-                  ]
-            },
-            {
                   "name": "Bellevue Downtown Park",
                   "text": "Parc central urban cu un iaz circular mare în Bellevue, lângă Seattle.",
                   "category": "park",
@@ -5829,24 +4308,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wing Luke Asian Museum",
-                  "text": "Acest muzeu din zona economică Port of Seattle evidențiază cultura și istoria asiatico-americană.",
-                  "category": "museum",
-                  "coords": [
-                        -122.32287,
-                        47.598246
-                  ]
-            },
-            {
-                  "name": "Coast Guard Museum Northwest",
-                  "text": "Acest muzeu din zona economică Port of Seattle se concentrează pe istoria Pazei de Coastă a Statelor Unite în Nord-Vest.",
-                  "category": "museum",
-                  "coords": [
-                        -122.337732,
-                        47.590633
-                  ]
-            },
-            {
                   "name": "Frye Art Museum",
                   "text": "Acest muzeu de artă din zona economică Port of Seattle expune o colecție de picturi europene și americane.",
                   "category": "museum",
@@ -5874,39 +4335,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nippon Kan Theater",
-                  "text": "Acest teatru din zona economică Port of Seattle este un loc istoric pentru artele spectacolului.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.325354,
-                        47.600984
-                  ]
-            },
-            {
-                  "name": "Northwest Film Forum",
-                  "text": "Acest centru de artă din zona economică Port of Seattle prezintă filme și media independente.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.317071,
-                        47.614414
-                  ]
-            },
-            {
                   "name": "Kenyon Hall",
                   "text": "Acest teatru din zona economică Port of Seattle găzduiește spectacole live și evenimente comunitare.",
                   "category": "cultural",
                   "coords": [
                         -122.376173,
                         47.531662
-                  ]
-            },
-            {
-                  "name": "King Street Baptist Church",
-                  "text": "Această biserică din zona economică Port of Seattle servește comunitatea baptistă.",
-                  "category": "religious",
-                  "coords": [
-                        -122.319887,
-                        47.598156
                   ]
             }
       ],
@@ -5939,15 +4373,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seattle City Hall",
-                  "text": "Seattle City Hall opened in 2005 and features a prominent glass atrium.",
-                  "category": "historical",
-                  "coords": [
-                        -122.330007,
-                        47.60388
-                  ]
-            },
-            {
                   "name": "Dai Bai Zan Cho Bo Zen Ji",
                   "text": "Dai Bai Zan Cho Bo Zen Ji in Seattle is the first Zen temple established in the Pacific Northwest.",
                   "category": "religious",
@@ -5957,39 +4382,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hugo House",
-                  "text": "Hugo House in Seattle is a nonprofit literary center supporting writers and readers.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.317993,
-                        47.616189
-                  ]
-            },
-            {
                   "name": "Seattle Buddhist Church",
                   "text": "The Seattle Buddhist Church is one of the oldest Buddhist temples in the United States.",
                   "category": "religious",
                   "coords": [
                         -122.313011,
                         47.599742
-                  ]
-            },
-            {
-                  "name": "Saint James Cathedral",
-                  "text": "Saint James Cathedral in Seattle was built in 1907.",
-                  "category": "religious",
-                  "coords": [
-                        -122.32584,
-                        47.607679
-                  ]
-            },
-            {
-                  "name": "Chapel of Saint Ignatius",
-                  "text": "The Chapel of Saint Ignatius in Seattle is known for its modern architecture and use of natural light.",
-                  "category": "religious",
-                  "coords": [
-                        -122.317955,
-                        47.611337
                   ]
             },
             {
@@ -6083,15 +4481,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Donnie Chin International Children’s Park",
-                  "text": "Donnie Chin International Children’s Park in Seattle is named after a local community activist.",
-                  "category": "park",
-                  "coords": [
-                        -122.323446,
-                        47.596888
-                  ]
-            },
-            {
                   "name": "Bellevue Downtown Park",
                   "text": "Central city park with a large circular pond in Bellevue, near Seattle.",
                   "category": "park",
@@ -6164,24 +4553,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wing Luke Asian Museum",
-                  "text": "This museum in the Port of Seattle economic zone highlights Asian American culture and history.",
-                  "category": "museum",
-                  "coords": [
-                        -122.32287,
-                        47.598246
-                  ]
-            },
-            {
-                  "name": "Coast Guard Museum Northwest",
-                  "text": "This museum in the Port of Seattle economic zone focuses on the history of the United States Coast Guard in the Northwest.",
-                  "category": "museum",
-                  "coords": [
-                        -122.337732,
-                        47.590633
-                  ]
-            },
-            {
                   "name": "Frye Art Museum",
                   "text": "This art museum in the Port of Seattle economic zone displays a collection of European and American paintings.",
                   "category": "museum",
@@ -6209,39 +4580,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nippon Kan Theater",
-                  "text": "This theater in the Port of Seattle economic zone is a historic venue for performing arts.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.325354,
-                        47.600984
-                  ]
-            },
-            {
-                  "name": "Northwest Film Forum",
-                  "text": "This arts centre in the Port of Seattle economic zone showcases independent films and media.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.317071,
-                        47.614414
-                  ]
-            },
-            {
                   "name": "Kenyon Hall",
                   "text": "This theater in the Port of Seattle economic zone hosts live performances and community events.",
                   "category": "cultural",
                   "coords": [
                         -122.376173,
                         47.531662
-                  ]
-            },
-            {
-                  "name": "King Street Baptist Church",
-                  "text": "This place of worship in the Port of Seattle economic zone serves the Baptist community.",
-                  "category": "religious",
-                  "coords": [
-                        -122.319887,
-                        47.598156
                   ]
             }
       ]
@@ -6283,24 +4627,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
       id: "port-of-oakland-economic-v2", "sights": {
       "de": [
             {
-                  "name": "African American Museum and Library at Oakland",
-                  "text": "Ein Museum und Bibliothek mit Schwerpunkt auf afroamerikanischer Geschichte in port-of-oakland-economic-v2.",
-                  "category": "museum",
-                  "coords": [
-                        -122.276398,
-                        37.806152
-                  ]
-            },
-            {
-                  "name": "The Museum of Art and Digital Entertainment",
-                  "text": "Museum für Videospiele und digitale Kunst in Oakland.",
-                  "category": "museum",
-                  "coords": [
-                        -122.274411,
-                        37.801982
-                  ]
-            },
-            {
                   "name": "Alameda Museum",
                   "text": "Heimatmuseum der Stadt Alameda in einem historischen Gebäude.",
                   "category": "museum",
@@ -6316,15 +4642,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -122.388244,
                         37.759825
-                  ]
-            },
-            {
-                  "name": "USS Potomac",
-                  "text": "Ein Museumsschiff, die ehemalige Präsidentenyacht von FDR, in port-of-oakland-economic-v2.",
-                  "category": "museum",
-                  "coords": [
-                        -122.280107,
-                        37.795334
                   ]
             },
             {
@@ -6379,15 +4696,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -122.1991,
                         37.807818
-                  ]
-            },
-            {
-                  "name": "Temple Sinai",
-                  "text": "Synagoge der Reformgemeinde in Oakland, Kalifornien.",
-                  "category": "religious",
-                  "coords": [
-                        -122.26439,
-                        37.816723
                   ]
             },
             {
@@ -6487,15 +4795,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -122.310725,
                         37.861505
-                  ]
-            },
-            {
-                  "name": "Morcom Rose Garden",
-                  "text": "Rosengarten mit über 1.000 Rosenstöcken und einem Pavillon in Oakland.",
-                  "category": "park",
-                  "coords": [
-                        -122.246981,
-                        37.82028
                   ]
             },
             {
@@ -6614,36 +4913,9 @@ export const poiExtraUsaEconomicV2: POI[] = [
                         -122.393674,
                         37.793802
                   ]
-            },
-            {
-                  "name": "Camron-Stanford House",
-                  "text": "Historisches viktorianisches Haus von 1876, heute Museum in Oakland.",
-                  "category": "museum",
-                  "coords": [
-                        -122.262198,
-                        37.801436
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "African American Museum and Library at Oakland",
-                  "text": "Afroamerikai történelemre összpontosító múzeum és könyvtár a port-of-oakland-economic-v2 területén.",
-                  "category": "museum",
-                  "coords": [
-                        -122.276398,
-                        37.806152
-                  ]
-            },
-            {
-                  "name": "The Museum of Art and Digital Entertainment",
-                  "text": "Videójáték- és digitális művészeti múzeum Oaklandben.",
-                  "category": "museum",
-                  "coords": [
-                        -122.274411,
-                        37.801982
-                  ]
-            },
             {
                   "name": "Alameda Museum",
                   "text": "Alameda város helytörténeti múzeuma egy történelmi épületben.",
@@ -6660,15 +4932,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -122.388244,
                         37.759825
-                  ]
-            },
-            {
-                  "name": "USS Potomac",
-                  "text": "Múzeumhajó, FDR egykori elnöki jachtja a port-of-oakland-economic-v2 területén.",
-                  "category": "museum",
-                  "coords": [
-                        -122.280107,
-                        37.795334
                   ]
             },
             {
@@ -6723,15 +4986,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -122.1991,
                         37.807818
-                  ]
-            },
-            {
-                  "name": "Temple Sinai",
-                  "text": "Reform zsidó közösség zsinagógája Oaklandben, Kaliforniában.",
-                  "category": "religious",
-                  "coords": [
-                        -122.26439,
-                        37.816723
                   ]
             },
             {
@@ -6831,15 +5085,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -122.310725,
                         37.861505
-                  ]
-            },
-            {
-                  "name": "Morcom Rose Garden",
-                  "text": "Rózsakert több mint 1000 rózsatővel és egy pavilonnal Oaklandben.",
-                  "category": "park",
-                  "coords": [
-                        -122.246981,
-                        37.82028
                   ]
             },
             {
@@ -6958,36 +5203,9 @@ export const poiExtraUsaEconomicV2: POI[] = [
                         -122.393674,
                         37.793802
                   ]
-            },
-            {
-                  "name": "Camron-Stanford House",
-                  "text": "Történelmi viktoriánus ház 1876-ból, ma múzeum Oaklandben.",
-                  "category": "museum",
-                  "coords": [
-                        -122.262198,
-                        37.801436
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "African American Museum and Library at Oakland",
-                  "text": "Un muzeu și bibliotecă axate pe istoria afro-americană în port-of-oakland-economic-v2.",
-                  "category": "museum",
-                  "coords": [
-                        -122.276398,
-                        37.806152
-                  ]
-            },
-            {
-                  "name": "The Museum of Art and Digital Entertainment",
-                  "text": "Muzeu de jocuri video și artă digitală în Oakland.",
-                  "category": "museum",
-                  "coords": [
-                        -122.274411,
-                        37.801982
-                  ]
-            },
             {
                   "name": "Alameda Museum",
                   "text": "Muzeu de istorie locală a orașului Alameda într-o clădire istorică.",
@@ -7004,15 +5222,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -122.388244,
                         37.759825
-                  ]
-            },
-            {
-                  "name": "USS Potomac",
-                  "text": "O navă muzeu, fosta iaht prezidențială a lui FDR, în port-of-oakland-economic-v2.",
-                  "category": "museum",
-                  "coords": [
-                        -122.280107,
-                        37.795334
                   ]
             },
             {
@@ -7067,15 +5276,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -122.1991,
                         37.807818
-                  ]
-            },
-            {
-                  "name": "Temple Sinai",
-                  "text": "Sinagogă a comunității reformate în Oakland, California.",
-                  "category": "religious",
-                  "coords": [
-                        -122.26439,
-                        37.816723
                   ]
             },
             {
@@ -7175,15 +5375,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -122.310725,
                         37.861505
-                  ]
-            },
-            {
-                  "name": "Morcom Rose Garden",
-                  "text": "Grădină de trandafiri cu peste 1000 de tufe și un foișor în Oakland.",
-                  "category": "park",
-                  "coords": [
-                        -122.246981,
-                        37.82028
                   ]
             },
             {
@@ -7302,36 +5493,9 @@ export const poiExtraUsaEconomicV2: POI[] = [
                         -122.393674,
                         37.793802
                   ]
-            },
-            {
-                  "name": "Camron-Stanford House",
-                  "text": "Casă istorică victoriană din 1876, acum muzeu în Oakland.",
-                  "category": "museum",
-                  "coords": [
-                        -122.262198,
-                        37.801436
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "African American Museum and Library at Oakland",
-                  "text": "A museum and library focusing on African American history in port-of-oakland-economic-v2.",
-                  "category": "museum",
-                  "coords": [
-                        -122.276398,
-                        37.806152
-                  ]
-            },
-            {
-                  "name": "The MADE",
-                  "text": "Museum of video games and digital art in Oakland.",
-                  "category": "museum",
-                  "coords": [
-                        -122.274411,
-                        37.801982
-                  ]
-            },
             {
                   "name": "Alameda Museum",
                   "text": "Local history museum of Alameda in a historic building.",
@@ -7348,15 +5512,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -122.388244,
                         37.759825
-                  ]
-            },
-            {
-                  "name": "USS Potomac",
-                  "text": "A museum ship, the former presidential yacht of FDR, in port-of-oakland-economic-v2.",
-                  "category": "museum",
-                  "coords": [
-                        -122.280107,
-                        37.795334
                   ]
             },
             {
@@ -7411,15 +5566,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -122.1991,
                         37.807818
-                  ]
-            },
-            {
-                  "name": "Temple Sinai",
-                  "text": "Reform Jewish synagogue in Oakland, California.",
-                  "category": "religious",
-                  "coords": [
-                        -122.26439,
-                        37.816723
                   ]
             },
             {
@@ -7519,15 +5665,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -122.310725,
                         37.861505
-                  ]
-            },
-            {
-                  "name": "Morcom Rose Garden",
-                  "text": "Rose garden with over 1,000 rose bushes and a pavilion in Oakland.",
-                  "category": "park",
-                  "coords": [
-                        -122.246981,
-                        37.82028
                   ]
             },
             {
@@ -7646,15 +5783,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                         -122.393674,
                         37.793802
                   ]
-            },
-            {
-                  "name": "Camron-Stanford House",
-                  "text": "Historic Victorian house from 1876, now a museum in Oakland.",
-                  "category": "museum",
-                  "coords": [
-                        -122.262198,
-                        37.801436
-                  ]
             }
       ]
 },
@@ -7704,33 +5832,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Children's Museum of Virginia",
-                  "text": "Das Children's Museum of Virginia ist ein Museum im Port-of-Virginia-Wirtschaftsgebiet mit interaktiven Ausstellungen für Kinder.",
-                  "category": "museum",
-                  "coords": [
-                        -76.298924,
-                        36.834932
-                  ]
-            },
-            {
-                  "name": "Chrysler Museum of Art",
-                  "text": "Das Chrysler Museum of Art ist ein Museum im Port-of-Virginia-Wirtschaftsgebiet, das eine umfangreiche Kunstsammlung beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        -76.293,
-                        36.856408
-                  ]
-            },
-            {
-                  "name": "USS Wisconsin BB-64",
-                  "text": "Die USS Wisconsin BB-64 ist ein Museum im Port-of-Virginia-Wirtschaftsgebiet, ein ausgemustertes Schlachtschiff.",
-                  "category": "museum",
-                  "coords": [
-                        -76.295388,
-                        36.848403
-                  ]
-            },
-            {
                   "name": "USS Norfolk Bell",
                   "text": "Schiffsglocke des Zerstörers USS Norfolk, ausgestellt in Virginia.",
                   "category": "landmark",
@@ -7758,42 +5859,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Virginia Zoological Park",
-                  "text": "Der Virginia Zoological Park ist ein Zoo im Port-of-Virginia-Wirtschaftsgebiet mit über 100 Tierarten.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.27668,
-                        36.878318
-                  ]
-            },
-            {
-                  "name": "Fresnel Lens from Hog Island Light",
-                  "text": "Die Fresnel-Linse des Hog Island Light ist eine Sehenswürdigkeit im Port-of-Virginia-Wirtschaftsgebiet, eine historische Leuchtturm-Linse.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.296267,
-                        36.834708
-                  ]
-            },
-            {
-                  "name": "Campostella Bridge",
-                  "text": "Eine Zugbrücke über den Elizabeth River in Norfolk, die das Campostella-Viertel verbindet.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.265026,
-                        36.840339
-                  ]
-            },
-            {
-                  "name": "The MacArthur Memorial Museum",
-                  "text": "Das MacArthur Memorial Museum ist ein Museum im Port-of-Virginia-Wirtschaftsgebiet, das General Douglas MacArthur gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -76.288161,
-                        36.847358
-                  ]
-            },
-            {
                   "name": "Portsmouth Colored Community Library Museum",
                   "text": "Das Portsmouth Colored Community Library Museum ist ein Museum im Port-of-Virginia-Wirtschaftsgebiet, eine historische afroamerikanische Bibliothek.",
                   "category": "museum",
@@ -7809,87 +5874,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -76.301856,
                         36.883058
-                  ]
-            },
-            {
-                  "name": "First Baptist Church",
-                  "text": "Die First Baptist Church ist ein Gotteshaus im Port-of-Virginia-Wirtschaftsgebiet.",
-                  "category": "religious",
-                  "coords": [
-                        -76.284173,
-                        36.852783
-                  ]
-            },
-            {
-                  "name": "Granby Theater",
-                  "text": "Ein historisches Theater an der Granby Street in Norfolk, das Live-Musik, Comedy und Events veranstaltet.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.28988,
-                        36.85195
-                  ]
-            },
-            {
-                  "name": "Wells Theater",
-                  "text": "Ein historisches Theater in der Innenstadt von Norfolk, bekannt für seine Beaux-Arts-Architektur und darstellende Künste.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.290211,
-                        36.84912
-                  ]
-            },
-            {
-                  "name": "The NorVa",
-                  "text": "Das NorVa ist ein Theater im Port-of-Virginia-Wirtschaftsgebiet, ein Musikveranstaltungsort.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.289663,
-                        36.850259
-                  ]
-            },
-            {
-                  "name": "Chrysler Hall",
-                  "text": "Die Chrysler Hall ist ein Theater im Port-of-Virginia-Wirtschaftsgebiet, ein Veranstaltungssaal.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.286246,
-                        36.852079
-                  ]
-            },
-            {
-                  "name": "Freemason Street Baptist Church",
-                  "text": "Die Freemason Street Baptist Church ist ein Gotteshaus im Port-of-Virginia-Wirtschaftsgebiet.",
-                  "category": "religious",
-                  "coords": [
-                        -76.28669,
-                        36.850476
-                  ]
-            },
-            {
-                  "name": "Basilica of St. Mary of the Immaculate Conception",
-                  "text": "Die Basilica of St. Mary of the Immaculate Conception ist ein Gotteshaus im Port-of-Virginia-Wirtschaftsgebiet, eine katholische Basilika.",
-                  "category": "religious",
-                  "coords": [
-                        -76.282397,
-                        36.847152
-                  ]
-            },
-            {
-                  "name": "First Calvary Baptist Church",
-                  "text": "Die First Calvary Baptist Church ist ein Gotteshaus im Port-of-Virginia-Wirtschaftsgebiet.",
-                  "category": "religious",
-                  "coords": [
-                        -76.277524,
-                        36.856563
-                  ]
-            },
-            {
-                  "name": "Harrison Opera House",
-                  "text": "Das Haus der Virginia Opera in Norfolk, ein historisches Opernhaus mit prunkvollen Innenräumen.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.289942,
-                        36.858228
                   ]
             },
             {
@@ -7965,30 +5949,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Town Point Park",
-                  "text": "Uferpark im Stadtzentrum von Norfolk am Elizabeth River mit Piers und Veranstaltungen.",
-                  "category": "park",
-                  "coords": [
-                        -76.294457,
-                        36.845832
-                  ]
-            },
-            {
                   "name": "Lafayette Park",
                   "text": "Park benannt nach Marquis de Lafayette, entlang des Lafayette River in Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.280251,
                         36.878257
-                  ]
-            },
-            {
-                  "name": "Barraud Park",
-                  "text": "Park mit einem Gemeinschaftszentrum im Barraud-Park-Viertel von Norfolk.",
-                  "category": "park",
-                  "coords": [
-                        -76.265395,
-                        36.866179
                   ]
             },
             {
@@ -8039,33 +6005,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Children's Museum of Virginia",
-                  "text": "A Children's Museum of Virginia egy múzeum a Port of Virginia gazdasági övezetben, interaktív kiállításokkal gyermekek számára.",
-                  "category": "museum",
-                  "coords": [
-                        -76.298924,
-                        36.834932
-                  ]
-            },
-            {
-                  "name": "Chrysler Museum of Art",
-                  "text": "A Chrysler Museum of Art egy múzeum a Port of Virginia gazdasági övezetben, kiterjedt művészeti gyűjteménnyel.",
-                  "category": "museum",
-                  "coords": [
-                        -76.293,
-                        36.856408
-                  ]
-            },
-            {
-                  "name": "USS Wisconsin BB-64",
-                  "text": "Az USS Wisconsin BB-64 egy múzeum a Port of Virginia gazdasági övezetben, egy leszerelt csatahajó.",
-                  "category": "museum",
-                  "coords": [
-                        -76.295388,
-                        36.848403
-                  ]
-            },
-            {
                   "name": "USS Norfolk Bell",
                   "text": "Az USS Norfolk romboló hajóharangja, kiállítva Virginiában.",
                   "category": "landmark",
@@ -8093,42 +6032,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Virginia Zoological Park",
-                  "text": "A Virginia Zoological Park egy állatkert a Port of Virginia gazdasági övezetben, több mint 100 állatfajjal.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.27668,
-                        36.878318
-                  ]
-            },
-            {
-                  "name": "Fresnel Lens from Hog Island Light",
-                  "text": "A Hog Island Light Fresnel-lencséje egy látványosság a Port of Virginia gazdasági övezetben, egy történelmi világítótorony-lencse.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.296267,
-                        36.834708
-                  ]
-            },
-            {
-                  "name": "Campostella Bridge",
-                  "text": "Egy felvonóhíd az Elizabeth folyón Norfolkban, összekötve a Campostella negyedet.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.265026,
-                        36.840339
-                  ]
-            },
-            {
-                  "name": "The MacArthur Memorial Museum",
-                  "text": "A MacArthur Memorial Museum egy múzeum a Port of Virginia gazdasági övezetben, amely Douglas MacArthur tábornoknak állít emléket.",
-                  "category": "museum",
-                  "coords": [
-                        -76.288161,
-                        36.847358
-                  ]
-            },
-            {
                   "name": "Portsmouth Colored Community Library Museum",
                   "text": "A Portsmouth Colored Community Library Museum egy múzeum a Port of Virginia gazdasági övezetben, egy történelmi afroamerikai könyvtár.",
                   "category": "museum",
@@ -8144,87 +6047,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -76.301856,
                         36.883058
-                  ]
-            },
-            {
-                  "name": "First Baptist Church",
-                  "text": "A First Baptist Church egy istentiszteleti hely a Port of Virginia gazdasági övezetben.",
-                  "category": "religious",
-                  "coords": [
-                        -76.284173,
-                        36.852783
-                  ]
-            },
-            {
-                  "name": "Granby Theater",
-                  "text": "Egy történelmi színház a norfolki Granby Streeten, élő zenével, komédiával és rendezvényekkel.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.28988,
-                        36.85195
-                  ]
-            },
-            {
-                  "name": "Wells Theater",
-                  "text": "Egy történelmi színház Norfolk belvárosában, ismert Beaux-Arts építészetéről és előadóművészetéről.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.290211,
-                        36.84912
-                  ]
-            },
-            {
-                  "name": "The NorVa",
-                  "text": "A The NorVa egy színház a Port of Virginia gazdasági övezetben, egy zenei helyszín.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.289663,
-                        36.850259
-                  ]
-            },
-            {
-                  "name": "Chrysler Hall",
-                  "text": "A Chrysler Hall egy színház a Port of Virginia gazdasági övezetben, egy előadóterem.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.286246,
-                        36.852079
-                  ]
-            },
-            {
-                  "name": "Freemason Street Baptist Church",
-                  "text": "A Freemason Street Baptist Church egy istentiszteleti hely a Port of Virginia gazdasági övezetben.",
-                  "category": "religious",
-                  "coords": [
-                        -76.28669,
-                        36.850476
-                  ]
-            },
-            {
-                  "name": "Basilica of St. Mary of the Immaculate Conception",
-                  "text": "A Basilica of St. Mary of the Immaculate Conception egy istentiszteleti hely a Port of Virginia gazdasági övezetben, egy katolikus bazilika.",
-                  "category": "religious",
-                  "coords": [
-                        -76.282397,
-                        36.847152
-                  ]
-            },
-            {
-                  "name": "First Calvary Baptist Church",
-                  "text": "A First Calvary Baptist Church egy istentiszteleti hely a Port of Virginia gazdasági övezetben.",
-                  "category": "religious",
-                  "coords": [
-                        -76.277524,
-                        36.856563
-                  ]
-            },
-            {
-                  "name": "Harrison Opera House",
-                  "text": "A Virginia Opera otthona Norfolkban, egy történelmi operaház díszes belső terekkel.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.289942,
-                        36.858228
                   ]
             },
             {
@@ -8300,30 +6122,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Town Point Park",
-                  "text": "Vízi park Norfolk belvárosában az Elizabeth River partján, stégekkel és rendezvényekkel.",
-                  "category": "park",
-                  "coords": [
-                        -76.294457,
-                        36.845832
-                  ]
-            },
-            {
                   "name": "Lafayette Park",
                   "text": "Park, amely Marquis de Lafayette-ről kapta a nevét, a Lafayette River mentén Norfolkban.",
                   "category": "park",
                   "coords": [
                         -76.280251,
                         36.878257
-                  ]
-            },
-            {
-                  "name": "Barraud Park",
-                  "text": "Park közösségi központtal Norfolk Barraud Park negyedében.",
-                  "category": "park",
-                  "coords": [
-                        -76.265395,
-                        36.866179
                   ]
             },
             {
@@ -8374,33 +6178,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Children's Museum of Virginia",
-                  "text": "Children's Museum of Virginia este un muzeu în zona economică Port of Virginia, cu exponate interactive pentru copii.",
-                  "category": "museum",
-                  "coords": [
-                        -76.298924,
-                        36.834932
-                  ]
-            },
-            {
-                  "name": "Chrysler Museum of Art",
-                  "text": "Chrysler Museum of Art este un muzeu în zona economică Port of Virginia, adăpostind o colecție extinsă de artă.",
-                  "category": "museum",
-                  "coords": [
-                        -76.293,
-                        36.856408
-                  ]
-            },
-            {
-                  "name": "USS Wisconsin BB-64",
-                  "text": "USS Wisconsin BB-64 este un muzeu în zona economică Port of Virginia, un cuirasat dezafectat.",
-                  "category": "museum",
-                  "coords": [
-                        -76.295388,
-                        36.848403
-                  ]
-            },
-            {
                   "name": "USS Norfolk Bell",
                   "text": "Clopotul navei distrugător USS Norfolk, expus în Virginia.",
                   "category": "landmark",
@@ -8428,42 +6205,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Virginia Zoological Park",
-                  "text": "Virginia Zoological Park este o grădină zoologică în zona economică Port of Virginia, cu peste 100 de specii.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.27668,
-                        36.878318
-                  ]
-            },
-            {
-                  "name": "Fresnel Lens from Hog Island Light",
-                  "text": "Lentila Fresnel de la Hog Island Light este o atracție în zona economică Port of Virginia, o lentilă istorică de far.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.296267,
-                        36.834708
-                  ]
-            },
-            {
-                  "name": "Campostella Bridge",
-                  "text": "Un pod basculant peste râul Elizabeth din Norfolk, care leagă cartierul Campostella.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.265026,
-                        36.840339
-                  ]
-            },
-            {
-                  "name": "The MacArthur Memorial Museum",
-                  "text": "The MacArthur Memorial Museum este un muzeu în zona economică Port of Virginia, dedicat generalului Douglas MacArthur.",
-                  "category": "museum",
-                  "coords": [
-                        -76.288161,
-                        36.847358
-                  ]
-            },
-            {
                   "name": "Portsmouth Colored Community Library Museum",
                   "text": "Portsmouth Colored Community Library Museum este un muzeu în zona economică Port of Virginia, o bibliotecă istorică afro-americană.",
                   "category": "museum",
@@ -8479,87 +6220,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -76.301856,
                         36.883058
-                  ]
-            },
-            {
-                  "name": "First Baptist Church",
-                  "text": "First Baptist Church este un locaș de cult în zona economică Port of Virginia.",
-                  "category": "religious",
-                  "coords": [
-                        -76.284173,
-                        36.852783
-                  ]
-            },
-            {
-                  "name": "Granby Theater",
-                  "text": "Un teatru istoric pe strada Granby din Norfolk, care găzduiește muzică live, comedie și evenimente.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.28988,
-                        36.85195
-                  ]
-            },
-            {
-                  "name": "Wells Theater",
-                  "text": "Un teatru istoric în centrul orașului Norfolk, cunoscut pentru arhitectura sa Beaux-Arts și artele spectacolului.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.290211,
-                        36.84912
-                  ]
-            },
-            {
-                  "name": "The NorVa",
-                  "text": "The NorVa este un teatru în zona economică Port of Virginia, un loc de muzică.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.289663,
-                        36.850259
-                  ]
-            },
-            {
-                  "name": "Chrysler Hall",
-                  "text": "Chrysler Hall este un teatru în zona economică Port of Virginia, o sală de spectacole.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.286246,
-                        36.852079
-                  ]
-            },
-            {
-                  "name": "Freemason Street Baptist Church",
-                  "text": "Freemason Street Baptist Church este un locaș de cult în zona economică Port of Virginia.",
-                  "category": "religious",
-                  "coords": [
-                        -76.28669,
-                        36.850476
-                  ]
-            },
-            {
-                  "name": "Basilica of St. Mary of the Immaculate Conception",
-                  "text": "Basilica of St. Mary of the Immaculate Conception este un locaș de cult în zona economică Port of Virginia, o bazilică catolică.",
-                  "category": "religious",
-                  "coords": [
-                        -76.282397,
-                        36.847152
-                  ]
-            },
-            {
-                  "name": "First Calvary Baptist Church",
-                  "text": "First Calvary Baptist Church este un locaș de cult în zona economică Port of Virginia.",
-                  "category": "religious",
-                  "coords": [
-                        -76.277524,
-                        36.856563
-                  ]
-            },
-            {
-                  "name": "Harrison Opera House",
-                  "text": "Casa Operei Virginia din Norfolk, o casă de operă istorică cu interioare ornamentate.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.289942,
-                        36.858228
                   ]
             },
             {
@@ -8635,30 +6295,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Town Point Park",
-                  "text": "Parcul de pe mal în centrul orașului Norfolk pe râul Elizabeth, cu pontoane și evenimente.",
-                  "category": "park",
-                  "coords": [
-                        -76.294457,
-                        36.845832
-                  ]
-            },
-            {
                   "name": "Lafayette Park",
                   "text": "Parcul numit după marchizul de Lafayette, de-a lungul râului Lafayette din Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.280251,
                         36.878257
-                  ]
-            },
-            {
-                  "name": "Barraud Park",
-                  "text": "Parcul cu un centru comunitar în cartierul Barraud Park din Norfolk.",
-                  "category": "park",
-                  "coords": [
-                        -76.265395,
-                        36.866179
                   ]
             },
             {
@@ -8709,33 +6351,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Children's Museum of Virginia",
-                  "text": "Children's Museum of Virginia is a museum in the Port of Virginia economic area offering interactive exhibits for children.",
-                  "category": "museum",
-                  "coords": [
-                        -76.298924,
-                        36.834932
-                  ]
-            },
-            {
-                  "name": "Chrysler Museum of Art",
-                  "text": "Chrysler Museum of Art is a museum in the Port of Virginia economic area housing an extensive art collection.",
-                  "category": "museum",
-                  "coords": [
-                        -76.293,
-                        36.856408
-                  ]
-            },
-            {
-                  "name": "USS Wisconsin BB-64",
-                  "text": "USS Wisconsin BB-64 is a museum in the Port of Virginia economic area, a decommissioned battleship.",
-                  "category": "museum",
-                  "coords": [
-                        -76.295388,
-                        36.848403
-                  ]
-            },
-            {
                   "name": "USS Norfolk Bell",
                   "text": "Ship's bell of the destroyer USS Norfolk, displayed in Virginia.",
                   "category": "landmark",
@@ -8763,42 +6378,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Virginia Zoological Park",
-                  "text": "Virginia Zoological Park is a zoo in the Port of Virginia economic area with over 100 species.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.27668,
-                        36.878318
-                  ]
-            },
-            {
-                  "name": "Fresnel Lens from Hog Island Light",
-                  "text": "Fresnel Lens from Hog Island Light is an attraction in the Port of Virginia economic area, a historic lighthouse lens.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.296267,
-                        36.834708
-                  ]
-            },
-            {
-                  "name": "Campostella Bridge",
-                  "text": "A drawbridge crossing the Elizabeth River in Norfolk, connecting the Campostella neighborhood.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.265026,
-                        36.840339
-                  ]
-            },
-            {
-                  "name": "The MacArthur Memorial Museum",
-                  "text": "The MacArthur Memorial Museum is a museum in the Port of Virginia economic area dedicated to General Douglas MacArthur.",
-                  "category": "museum",
-                  "coords": [
-                        -76.288161,
-                        36.847358
-                  ]
-            },
-            {
                   "name": "Portsmouth Colored Community Library Museum",
                   "text": "Portsmouth Colored Community Library Museum is a museum in the Port of Virginia economic area, a historic African American library.",
                   "category": "museum",
@@ -8814,87 +6393,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -76.301856,
                         36.883058
-                  ]
-            },
-            {
-                  "name": "First Baptist Church",
-                  "text": "First Baptist Church is a place of worship in the Port of Virginia economic area.",
-                  "category": "religious",
-                  "coords": [
-                        -76.284173,
-                        36.852783
-                  ]
-            },
-            {
-                  "name": "Granby Theater",
-                  "text": "A historic theater on Granby Street in Norfolk, hosting live music, comedy, and events.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.28988,
-                        36.85195
-                  ]
-            },
-            {
-                  "name": "Wells Theater",
-                  "text": "A historic theater in downtown Norfolk, known for its Beaux-Arts architecture and performing arts.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.290211,
-                        36.84912
-                  ]
-            },
-            {
-                  "name": "The NorVa",
-                  "text": "The NorVa is a theatre in the Port of Virginia economic area, a music venue.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.289663,
-                        36.850259
-                  ]
-            },
-            {
-                  "name": "Chrysler Hall",
-                  "text": "Chrysler Hall is a theatre in the Port of Virginia economic area, a performance hall.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.286246,
-                        36.852079
-                  ]
-            },
-            {
-                  "name": "Freemason Street Baptist Church",
-                  "text": "Freemason Street Baptist Church is a place of worship in the Port of Virginia economic area.",
-                  "category": "religious",
-                  "coords": [
-                        -76.28669,
-                        36.850476
-                  ]
-            },
-            {
-                  "name": "Basilica of St. Mary of the Immaculate Conception",
-                  "text": "Basilica of St. Mary of the Immaculate Conception is a place of worship in the Port of Virginia economic area, a Catholic basilica.",
-                  "category": "religious",
-                  "coords": [
-                        -76.282397,
-                        36.847152
-                  ]
-            },
-            {
-                  "name": "First Calvary Baptist Church",
-                  "text": "First Calvary Baptist Church is a place of worship in the Port of Virginia economic area.",
-                  "category": "religious",
-                  "coords": [
-                        -76.277524,
-                        36.856563
-                  ]
-            },
-            {
-                  "name": "Harrison Opera House",
-                  "text": "The home of Virginia Opera in Norfolk, a historic opera house with ornate interiors.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.289942,
-                        36.858228
                   ]
             },
             {
@@ -8970,30 +6468,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Town Point Park",
-                  "text": "Waterfront park in downtown Norfolk on the Elizabeth River with piers and events.",
-                  "category": "park",
-                  "coords": [
-                        -76.294457,
-                        36.845832
-                  ]
-            },
-            {
                   "name": "Lafayette Park",
                   "text": "Park named after the Marquis de Lafayette along the Lafayette River in Norfolk.",
                   "category": "park",
                   "coords": [
                         -76.280251,
                         36.878257
-                  ]
-            },
-            {
-                  "name": "Barraud Park",
-                  "text": "Park with a community center in the Barraud Park neighborhood of Norfolk.",
-                  "category": "park",
-                  "coords": [
-                        -76.265395,
-                        36.866179
                   ]
             },
             {
@@ -9098,60 +6578,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Henry B. Plant Museum",
-                  "text": "Das Henry B. Plant Museum in Tampa ist ein Museum zur Geschichte des Gilded Age, untergebracht im ehemaligen Tampa Bay Hotel.",
-                  "category": "museum",
-                  "coords": [
-                        -82.464182,
-                        27.946213
-                  ]
-            },
-            {
-                  "name": "Tampa Bay History Center",
-                  "text": "Museum am Tampa Riverwalk, das die Geschichte der Tampa Bay darstellt.",
-                  "category": "museum",
-                  "coords": [
-                        -82.449885,
-                        27.942241
-                  ]
-            },
-            {
-                  "name": "Tampa City Hall",
-                  "text": "Historisches Beaux-Arts-Rathaus von 1915 in der Innenstadt von Tampa.",
-                  "category": "historical",
-                  "coords": [
-                        -82.457237,
-                        27.947659
-                  ]
-            },
-            {
-                  "name": "Tampa Theatre",
-                  "text": "Das Tampa Theatre ist ein historischer Filmpalast, der 1926 eröffnet wurde.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.458807,
-                        27.950381
-                  ]
-            },
-            {
-                  "name": "Sacred Heart Catholic Church",
-                  "text": "Römisch-katholische Kirche mit markanter Kuppel in der Innenstadt von Tampa.",
-                  "category": "religious",
-                  "coords": [
-                        -82.457235,
-                        27.949352
-                  ]
-            },
-            {
-                  "name": "The RITZ Ybor",
-                  "text": "Das RITZ Ybor in Tampa ist ein historisches Theater und Veranstaltungsort in Ybor City.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.442767,
-                        27.960069
-                  ]
-            },
-            {
                   "name": "Palma Ceia Spring",
                   "text": "Natürliche Quelle im Palma-Ceia-Viertel von Tampa.",
                   "category": "landmark",
@@ -9188,24 +6614,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anderson Park",
-                  "text": "Park im Anderson-Viertel von Tampa.",
-                  "category": "park",
-                  "coords": [
-                        -82.477388,
-                        27.93431
-                  ]
-            },
-            {
-                  "name": "AIDS Memorial Park",
-                  "text": "Gedenkpark in Tampa zu Ehren der von AIDS Betroffenen.",
-                  "category": "park",
-                  "coords": [
-                        -82.46014,
-                        27.940922
-                  ]
-            },
-            {
                   "name": "McKay Bay Nature Park",
                   "text": "Naturschutzgebiet entlang der McKay Bay in Tampa.",
                   "category": "natural",
@@ -9224,138 +6632,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Scarfone/Hartley Gallery",
-                  "text": "Universitätskunstgalerie auf dem Campus der University of Tampa, Of Tampa Bay.",
-                  "category": "museum",
-                  "coords": [
-                        -82.468692,
-                        27.946723
-                  ]
-            },
-            {
-                  "name": "Florida Museum of Photographic Arts",
-                  "text": "Museum für fotografische Kunst in der Innenstadt von Tampa, Of Tampa Bay.",
-                  "category": "museum",
-                  "coords": [
-                        -82.440725,
-                        27.960402
-                  ]
-            },
-            {
-                  "name": "Tampa Fire Fighters Museum",
-                  "text": "Feuerwehrmuseum in einer ehemaligen Feuerwache in Tampa, Of Tampa Bay.",
-                  "category": "museum",
-                  "coords": [
-                        -82.455061,
-                        27.95149
-                  ]
-            },
-            {
-                  "name": "Columbia Centennial Museum",
-                  "text": "Museum zum 100-jährigen Jubiläum des Columbia Restaurants in Ybor City, Of Tampa Bay.",
-                  "category": "museum",
-                  "coords": [
-                        -82.435707,
-                        27.960071
-                  ]
-            },
-            {
-                  "name": "David Falk Theater",
-                  "text": "Aufführungsort der University of South Florida in Tampa, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.464856,
-                        27.944882
-                  ]
-            },
-            {
-                  "name": "Friday Morning Musicale",
-                  "text": "Ein Theater in Tampa mit musikalischen Veranstaltungen am Freitagmorgen.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.467404,
-                        27.940011
-                  ]
-            },
-            {
-                  "name": "Improv",
-                  "text": "Comedy-Club im Channelside-Viertel von Tampa, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.441858,
-                        27.96075
-                  ]
-            },
-            {
-                  "name": "The Commodore",
-                  "text": "Live-Musik-Lokal im Seminole Heights-Viertel von Tampa, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.451582,
-                        27.960299
-                  ]
-            },
-            {
-                  "name": "Downtown Rotary Pavillion",
-                  "text": "Pavillon für Gemeinschaftsveranstaltungen in der Innenstadt von Tampa, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.463153,
-                        27.958567
-                  ]
-            },
-            {
-                  "name": "Rialto Theater",
-                  "text": "Historisches Kino aus der Stummfilmzeit im Tampa Heights-Viertel, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.459956,
-                        27.959088
-                  ]
-            },
-            {
-                  "name": "Straz Center for The Performing Arts",
-                  "text": "Großes Kulturzentrum am Hillsborough River in der Innenstadt von Tampa, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.463933,
-                        27.95164
-                  ]
-            },
-            {
-                  "name": "Kiley Gardens Amphitheatre",
-                  "text": "Freiluft-Amphitheater in den Kiley Gardens am Straz Center, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.461487,
-                        27.947904
-                  ]
-            },
-            {
-                  "name": "The Orpheum",
-                  "text": "Historischer Musikclub in Ybor City, ursprünglich ein Theater, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.437391,
-                        27.960047
-                  ]
-            },
-            {
                   "name": "Florida State Fairgrounds",
                   "text": "Ausstellungsgelände der jährlichen Florida State Fair in Tampa, Of Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.389827,
                         27.967251
-                  ]
-            },
-            {
-                  "name": "Royal Caribbean cruise port",
-                  "text": "Kreuzfahrtterminal für Royal Caribbean im Hafen von Tampa, Of Tampa Bay.",
-                  "category": "landmark",
-                  "coords": [
-                        -82.445895,
-                        27.943126
                   ]
             }
       ],
@@ -9385,60 +6667,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -82.444125,
                         27.94369
-                  ]
-            },
-            {
-                  "name": "Henry B. Plant Museum",
-                  "text": "A tampa-i Henry B. Plant Museum a Gilded Age történetének múzeuma, amely a korábbi Tampa Bay Hotel épületében található.",
-                  "category": "museum",
-                  "coords": [
-                        -82.464182,
-                        27.946213
-                  ]
-            },
-            {
-                  "name": "Tampa Bay History Center",
-                  "text": "Múzeum a Tampa Riverwalkon, amely a Tampa Bay történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -82.449885,
-                        27.942241
-                  ]
-            },
-            {
-                  "name": "Tampa City Hall",
-                  "text": "Történelmi Beaux-Arts városháza 1915-ből Tampa belvárosában.",
-                  "category": "historical",
-                  "coords": [
-                        -82.457237,
-                        27.947659
-                  ]
-            },
-            {
-                  "name": "Tampa Theatre",
-                  "text": "A Tampa Theatre egy történelmi mozi palota, amely 1926-ban nyílt meg.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.458807,
-                        27.950381
-                  ]
-            },
-            {
-                  "name": "Sacred Heart Catholic Church",
-                  "text": "Római katolikus templom jellegzetes kupolával Tampa belvárosában.",
-                  "category": "religious",
-                  "coords": [
-                        -82.457235,
-                        27.949352
-                  ]
-            },
-            {
-                  "name": "The RITZ Ybor",
-                  "text": "A tampa-i RITZ Ybor egy történelmi színház és rendezvényhelyszín a Ybor City-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.442767,
-                        27.960069
                   ]
             },
             {
@@ -9478,24 +6706,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anderson Park",
-                  "text": "Park Tampa Anderson negyedében.",
-                  "category": "park",
-                  "coords": [
-                        -82.477388,
-                        27.93431
-                  ]
-            },
-            {
-                  "name": "AIDS Memorial Park",
-                  "text": "Emlékpark Tampában az AIDS által érintettek tiszteletére.",
-                  "category": "park",
-                  "coords": [
-                        -82.46014,
-                        27.940922
-                  ]
-            },
-            {
                   "name": "McKay Bay Nature Park",
                   "text": "Természetvédelmi terület a McKay Bay mentén Tampában.",
                   "category": "natural",
@@ -9514,138 +6724,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Scarfone/Hartley Gallery",
-                  "text": "Egyetemi művészeti galéria a Tampa Egyetem campusán, Of Tampa Bayben.",
-                  "category": "museum",
-                  "coords": [
-                        -82.468692,
-                        27.946723
-                  ]
-            },
-            {
-                  "name": "Florida Museum of Photographic Arts",
-                  "text": "Fotóművészeti múzeum Tampa belvárosában, Of Tampa Bayben.",
-                  "category": "museum",
-                  "coords": [
-                        -82.440725,
-                        27.960402
-                  ]
-            },
-            {
-                  "name": "Tampa Fire Fighters Museum",
-                  "text": "Tűzoltómúzeum egykori tűzoltóállomáson Tampában, Of Tampa Bayben.",
-                  "category": "museum",
-                  "coords": [
-                        -82.455061,
-                        27.95149
-                  ]
-            },
-            {
-                  "name": "Columbia Centennial Museum",
-                  "text": "Múzeum a Columbia Étterem századik évfordulójára Ybor Cityben, Of Tampa Bayben.",
-                  "category": "museum",
-                  "coords": [
-                        -82.435707,
-                        27.960071
-                  ]
-            },
-            {
-                  "name": "David Falk Theater",
-                  "text": "Előadóhely a Dél-Floridai Egyetemen Tampában, Of Tampa Bayben.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.464856,
-                        27.944882
-                  ]
-            },
-            {
-                  "name": "Friday Morning Musicale",
-                  "text": "Színház Tampában, péntek reggeli zenei eseményekkel.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.467404,
-                        27.940011
-                  ]
-            },
-            {
-                  "name": "Improv",
-                  "text": "Komédia klub Tampa Channelside negyedében, Of Tampa Bayben.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.441858,
-                        27.96075
-                  ]
-            },
-            {
-                  "name": "The Commodore",
-                  "text": "Élőzenei helyszín Tampa Seminole Heights negyedében, Of Tampa Bayben.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.451582,
-                        27.960299
-                  ]
-            },
-            {
-                  "name": "Downtown Rotary Pavillion",
-                  "text": "Közösségi események pavilonja Tampa belvárosában, Of Tampa Bayben.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.463153,
-                        27.958567
-                  ]
-            },
-            {
-                  "name": "Rialto Theater",
-                  "text": "Történelmozi a némafilmes korszakból Tampa Heights negyedében, Of Tampa Bayben.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.459956,
-                        27.959088
-                  ]
-            },
-            {
-                  "name": "Straz Center for The Performing Arts",
-                  "text": "Nagy kulturális központ a Hillsborough-folyó partján Tampa belvárosában, Of Tampa Bayben.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.463933,
-                        27.95164
-                  ]
-            },
-            {
-                  "name": "Kiley Gardens Amphitheatre",
-                  "text": "Szabadtéri amfiteátrum a Kiley kertekben a Straz Center mellett, Of Tampa Bayben.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.461487,
-                        27.947904
-                  ]
-            },
-            {
-                  "name": "The Orpheum",
-                  "text": "Történelmi zenei klub Ybor Cityben, eredetileg színház, Of Tampa Bayben.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.437391,
-                        27.960047
-                  ]
-            },
-            {
                   "name": "Florida State Fairgrounds",
                   "text": "Kiállítási terület az éves floridai állami vásárhoz Tampában, Of Tampa Bayben.",
                   "category": "landmark",
                   "coords": [
                         -82.389827,
                         27.967251
-                  ]
-            },
-            {
-                  "name": "Royal Caribbean cruise port",
-                  "text": "Royal Caribbean körutazási terminál Tampa kikötőjében, Of Tampa Bayben.",
-                  "category": "landmark",
-                  "coords": [
-                        -82.445895,
-                        27.943126
                   ]
             }
       ],
@@ -9675,60 +6759,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -82.444125,
                         27.94369
-                  ]
-            },
-            {
-                  "name": "Henry B. Plant Museum",
-                  "text": "Muzeul Henry B. Plant din Tampa este un muzeu de istorie a Epocii de Aur, găzduit în fostul hotel Tampa Bay.",
-                  "category": "museum",
-                  "coords": [
-                        -82.464182,
-                        27.946213
-                  ]
-            },
-            {
-                  "name": "Tampa Bay History Center",
-                  "text": "Muzeul pe Tampa Riverwalk care prezintă istoria golfului Tampa Bay.",
-                  "category": "museum",
-                  "coords": [
-                        -82.449885,
-                        27.942241
-                  ]
-            },
-            {
-                  "name": "Tampa City Hall",
-                  "text": "Primăria istorică Beaux-Arts din 1915 din centrul orașului Tampa.",
-                  "category": "historical",
-                  "coords": [
-                        -82.457237,
-                        27.947659
-                  ]
-            },
-            {
-                  "name": "Tampa Theatre",
-                  "text": "Tampa Theatre este un cinematograf istoric, deschis în 1926.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.458807,
-                        27.950381
-                  ]
-            },
-            {
-                  "name": "Sacred Heart Catholic Church",
-                  "text": "Biserică romano-catolică cu o cupolă proeminentă în centrul orașului Tampa.",
-                  "category": "religious",
-                  "coords": [
-                        -82.457235,
-                        27.949352
-                  ]
-            },
-            {
-                  "name": "The RITZ Ybor",
-                  "text": "RITZ Ybor din Tampa este un teatru istoric și loc de evenimente în Ybor City.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.442767,
-                        27.960069
                   ]
             },
             {
@@ -9768,24 +6798,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anderson Park",
-                  "text": "Parcul în cartierul Anderson din Tampa.",
-                  "category": "park",
-                  "coords": [
-                        -82.477388,
-                        27.93431
-                  ]
-            },
-            {
-                  "name": "AIDS Memorial Park",
-                  "text": "Parcul memorial din Tampa în onoarea celor afectați de SIDA.",
-                  "category": "park",
-                  "coords": [
-                        -82.46014,
-                        27.940922
-                  ]
-            },
-            {
                   "name": "McKay Bay Nature Park",
                   "text": "Rezervația naturală de-a lungul golfului McKay Bay din Tampa.",
                   "category": "natural",
@@ -9804,138 +6816,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Scarfone/Hartley Gallery",
-                  "text": "Galerie de artă universitară pe campusul Universității din Tampa, Of Tampa Bay.",
-                  "category": "museum",
-                  "coords": [
-                        -82.468692,
-                        27.946723
-                  ]
-            },
-            {
-                  "name": "Florida Museum of Photographic Arts",
-                  "text": "Muzeu de artă fotografică în centrul orașului Tampa, Of Tampa Bay.",
-                  "category": "museum",
-                  "coords": [
-                        -82.440725,
-                        27.960402
-                  ]
-            },
-            {
-                  "name": "Tampa Fire Fighters Museum",
-                  "text": "Muzeu al pompierilor într-o fostă stație de pompieri în Tampa, Of Tampa Bay.",
-                  "category": "museum",
-                  "coords": [
-                        -82.455061,
-                        27.95149
-                  ]
-            },
-            {
-                  "name": "Columbia Centennial Museum",
-                  "text": "Muzeu dedicat centenarului Restaurantului Columbia din Ybor City, Of Tampa Bay.",
-                  "category": "museum",
-                  "coords": [
-                        -82.435707,
-                        27.960071
-                  ]
-            },
-            {
-                  "name": "David Falk Theater",
-                  "text": "Loc de spectacole la Universitatea din Florida de Sud în Tampa, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.464856,
-                        27.944882
-                  ]
-            },
-            {
-                  "name": "Friday Morning Musicale",
-                  "text": "Un teatru în Tampa cu evenimente muzicale în dimineața de vineri.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.467404,
-                        27.940011
-                  ]
-            },
-            {
-                  "name": "Improv",
-                  "text": "Club de comedie în cartierul Channelside din Tampa, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.441858,
-                        27.96075
-                  ]
-            },
-            {
-                  "name": "The Commodore",
-                  "text": "Locație de muzică live în cartierul Seminole Heights din Tampa, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.451582,
-                        27.960299
-                  ]
-            },
-            {
-                  "name": "Downtown Rotary Pavillion",
-                  "text": "Pavilion pentru evenimente comunitare în centrul orașului Tampa, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.463153,
-                        27.958567
-                  ]
-            },
-            {
-                  "name": "Rialto Theater",
-                  "text": "Cinema istoric din epoca filmelor mute în cartierul Tampa Heights, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.459956,
-                        27.959088
-                  ]
-            },
-            {
-                  "name": "Straz Center for The Performing Arts",
-                  "text": "Centru cultural major pe malul râului Hillsborough în centrul orașului Tampa, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.463933,
-                        27.95164
-                  ]
-            },
-            {
-                  "name": "Kiley Gardens Amphitheatre",
-                  "text": "Amfiteatru în aer liber în Grădinile Kiley de la Straz Center, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.461487,
-                        27.947904
-                  ]
-            },
-            {
-                  "name": "The Orpheum",
-                  "text": "Club muzical istoric în Ybor City, inițial un teatru, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.437391,
-                        27.960047
-                  ]
-            },
-            {
                   "name": "Florida State Fairgrounds",
                   "text": "Teren de expoziție pentru Târgul anual al statului Florida în Tampa, Of Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.389827,
                         27.967251
-                  ]
-            },
-            {
-                  "name": "Royal Caribbean cruise port",
-                  "text": "Terminal de croazieră Royal Caribbean în portul Tampa, Of Tampa Bay.",
-                  "category": "landmark",
-                  "coords": [
-                        -82.445895,
-                        27.943126
                   ]
             }
       ],
@@ -9965,60 +6851,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   "coords": [
                         -82.444125,
                         27.94369
-                  ]
-            },
-            {
-                  "name": "Henry B. Plant Museum",
-                  "text": "Henry B. Plant Museum in Tampa is a museum of Gilded Age history housed in the former Tampa Bay Hotel.",
-                  "category": "museum",
-                  "coords": [
-                        -82.464182,
-                        27.946213
-                  ]
-            },
-            {
-                  "name": "Tampa Bay History Center",
-                  "text": "Museum on the Tampa Riverwalk charting the history of Tampa Bay.",
-                  "category": "museum",
-                  "coords": [
-                        -82.449885,
-                        27.942241
-                  ]
-            },
-            {
-                  "name": "Tampa City Hall",
-                  "text": "Historic 1915 Beaux-Arts city hall in downtown Tampa.",
-                  "category": "historical",
-                  "coords": [
-                        -82.457237,
-                        27.947659
-                  ]
-            },
-            {
-                  "name": "Tampa Theatre",
-                  "text": "Tampa Theatre is a historic movie palace opened in 1926.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.458807,
-                        27.950381
-                  ]
-            },
-            {
-                  "name": "Sacred Heart Catholic Church",
-                  "text": "Roman Catholic church with a prominent dome in downtown Tampa.",
-                  "category": "religious",
-                  "coords": [
-                        -82.457235,
-                        27.949352
-                  ]
-            },
-            {
-                  "name": "The RITZ Ybor",
-                  "text": "The RITZ Ybor in Tampa is a historic theater and event venue in Ybor City.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.442767,
-                        27.960069
                   ]
             },
             {
@@ -10058,24 +6890,6 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anderson Park",
-                  "text": "Park in the Anderson neighborhood of Tampa.",
-                  "category": "park",
-                  "coords": [
-                        -82.477388,
-                        27.93431
-                  ]
-            },
-            {
-                  "name": "AIDS Memorial Park",
-                  "text": "Memorial park in Tampa honoring those affected by AIDS.",
-                  "category": "park",
-                  "coords": [
-                        -82.46014,
-                        27.940922
-                  ]
-            },
-            {
                   "name": "McKay Bay Nature Park",
                   "text": "Nature preserve along McKay Bay in Tampa.",
                   "category": "natural",
@@ -10094,138 +6908,12 @@ export const poiExtraUsaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Scarfone/Hartley Gallery",
-                  "text": "University art gallery on the campus of the University of Tampa, Of Tampa Bay.",
-                  "category": "museum",
-                  "coords": [
-                        -82.468692,
-                        27.946723
-                  ]
-            },
-            {
-                  "name": "Florida Museum of Photographic Arts",
-                  "text": "Museum of photographic arts in downtown Tampa, Of Tampa Bay.",
-                  "category": "museum",
-                  "coords": [
-                        -82.440725,
-                        27.960402
-                  ]
-            },
-            {
-                  "name": "Tampa Fire Fighters Museum",
-                  "text": "Firefighters museum housed in a former fire station in Tampa, Of Tampa Bay.",
-                  "category": "museum",
-                  "coords": [
-                        -82.455061,
-                        27.95149
-                  ]
-            },
-            {
-                  "name": "Columbia Centennial Museum",
-                  "text": "Museum celebrating the centennial of the Columbia Restaurant in Ybor City, Of Tampa Bay.",
-                  "category": "museum",
-                  "coords": [
-                        -82.435707,
-                        27.960071
-                  ]
-            },
-            {
-                  "name": "David Falk Theater",
-                  "text": "Performance venue at the University of South Florida in Tampa, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.464856,
-                        27.944882
-                  ]
-            },
-            {
-                  "name": "Friday Morning Musicale",
-                  "text": "A theater in Tampa hosting Friday morning musical events.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.467404,
-                        27.940011
-                  ]
-            },
-            {
-                  "name": "Improv",
-                  "text": "Comedy club in the Channelside district of Tampa, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.441858,
-                        27.96075
-                  ]
-            },
-            {
-                  "name": "The Commodore",
-                  "text": "Live music venue in the Seminole Heights neighborhood of Tampa, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.451582,
-                        27.960299
-                  ]
-            },
-            {
-                  "name": "Downtown Rotary Pavillion",
-                  "text": "Outdoor pavilion for community events in downtown Tampa, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.463153,
-                        27.958567
-                  ]
-            },
-            {
-                  "name": "Rialto Theater",
-                  "text": "Historic movie palace from the silent film era in Tampa Heights, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.459956,
-                        27.959088
-                  ]
-            },
-            {
-                  "name": "Straz Center for The Performing Arts",
-                  "text": "Major performing arts center on the Hillsborough River in downtown Tampa, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.463933,
-                        27.95164
-                  ]
-            },
-            {
-                  "name": "Kiley Gardens Amphitheatre",
-                  "text": "Outdoor amphitheatre within the Kiley Gardens at the Straz Center, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.461487,
-                        27.947904
-                  ]
-            },
-            {
-                  "name": "The Orpheum",
-                  "text": "Historic music venue in Ybor City, originally a theatre, Of Tampa Bay.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.437391,
-                        27.960047
-                  ]
-            },
-            {
                   "name": "Florida State Fairgrounds",
                   "text": "Exhibition grounds for the annual Florida State Fair in Tampa, Of Tampa Bay.",
                   "category": "landmark",
                   "coords": [
                         -82.389827,
                         27.967251
-                  ]
-            },
-            {
-                  "name": "Royal Caribbean cruise port",
-                  "text": "Cruise ship terminal for Royal Caribbean at the Port of Tampa, Of Tampa Bay.",
-                  "category": "landmark",
-                  "coords": [
-                        -82.445895,
-                        27.943126
                   ]
             }
       ]
@@ -13387,15 +10075,6 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "LA Plaza De Culturas Y Artes",
-                  "text": "Museum und Kulturzentrum an der historischen Olvera Street in Entertainment Industry.",
-                  "category": "museum",
-                  "coords": [
-                        -118.239796,
-                        34.056421
-                  ]
-            },
-            {
                   "name": "Luz De Jesus",
                   "text": "In hollywood-entertainment-industry-economic-v2 zeigt Luz De Jesus Außenseiterkunst.",
                   "category": "museum",
@@ -13423,15 +10102,6 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "Institute of Contemporary Art, Los Angeles",
-                  "text": "Museum für zeitgenössische Kunst im Kunstviertel von Entertainment Industry.",
-                  "category": "museum",
-                  "coords": [
-                        -118.235646,
-                        34.035134
-                  ]
-            },
-            {
                   "name": "African American Firefighter Museum",
                   "text": "Museum in der ehemaligen Feuerwache 30, das afroamerikanischen Feuerwehrleuten gewidmet ist, in Entertainment Industry.",
                   "category": "museum",
@@ -13441,39 +10111,12 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "The Broad Museum",
-                  "text": "In hollywood-entertainment-industry-economic-v2 ist The Broad Museum ein Museum für zeitgenössische Kunst in der Innenstadt von Los Angeles.",
-                  "category": "museum",
-                  "coords": [
-                        -118.250594,
-                        34.054458
-                  ]
-            },
-            {
-                  "name": "Museum of Contemporary Art",
-                  "text": "Museum für zeitgenössische Kunst an der Grand Avenue in der Innenstadt von Entertainment Industry.",
-                  "category": "museum",
-                  "coords": [
-                        -118.250539,
-                        34.053293
-                  ]
-            },
-            {
                   "name": "Japanese American National Museum",
                   "text": "Eröffnet 1996 und von Gyo Obata entworfen, das Japanese American National Museum in Los Angeles.",
                   "category": "museum",
                   "coords": [
                         -118.238596,
                         34.049655
-                  ]
-            },
-            {
-                  "name": "Avila Adobe",
-                  "text": "Adobe-Haus von 1818, das älteste noch stehende Wohnhaus von Los Angeles, an der Olvera Street in Entertainment Industry.",
-                  "category": "museum",
-                  "coords": [
-                        -118.237823,
-                        34.057218
                   ]
             },
             {
@@ -13513,78 +10156,6 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "Los Angeles Sister Cities Monument",
-                  "text": "Denkmal zu Ehren der Partnerstädte von Los Angeles im Civic Center von Entertainment Industry.",
-                  "category": "historical",
-                  "coords": [
-                        -118.243128,
-                        34.052284
-                  ]
-            },
-            {
-                  "name": "Go For Broke Monument",
-                  "text": "Das Go For Broke Monument ist ein Denkmal für japanisch-amerikanische Soldaten des Zweiten Weltkriegs in hollywood-entertainment-industry-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        -118.23907,
-                        34.05114
-                  ]
-            },
-            {
-                  "name": "Chinatown Gateway",
-                  "text": "Das Chinatown Gateway ist ein monumentales Tor in der Chinatown von Los Angeles in hollywood-entertainment-industry-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        -118.240042,
-                        34.058937
-                  ]
-            },
-            {
-                  "name": "Orpheum Theatre",
-                  "text": "Historischer Filmpalast am Broadway, eröffnet 1926, in Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.255389,
-                        34.042718
-                  ]
-            },
-            {
-                  "name": "Globe Theatre",
-                  "text": "Theater am Broadway im historischen Theaterbezirk von Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.254133,
-                        34.044048
-                  ]
-            },
-            {
-                  "name": "Grauman's Million Dollar Theatre",
-                  "text": "Historischer Filmpalast am Broadway, eröffnet 1918, in Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.248673,
-                        34.051077
-                  ]
-            },
-            {
-                  "name": "East West Players",
-                  "text": "Theaterkompanie mit Fokus auf asiatisch-amerikanische Geschichten im Little Tokyo-Viertel von Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.240152,
-                        34.050758
-                  ]
-            },
-            {
-                  "name": "The Novo",
-                  "text": "Livemusik-Veranstaltungsort am LA Live in der Innenstadt von Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.265472,
-                        34.044549
-                  ]
-            },
-            {
                   "name": "Saint Brendan Roman Catholic Church",
                   "text": "Römisch-katholische Kirche im Highland Park-Viertel von Entertainment Industry.",
                   "category": "religious",
@@ -13612,48 +10183,12 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "Dorothy Chandler Pavilion",
-                  "text": "Konzertsaal im Music Center, Heimat der Los Angeles Opera, in der Innenstadt von Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.248927,
-                        34.056601
-                  ]
-            },
-            {
-                  "name": "The Regent",
-                  "text": "1914 eröffnetes Filmpalast-Theater in Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.247817,
-                        34.04699
-                  ]
-            },
-            {
-                  "name": "Koyasan Beikoku Betsuin of Los Angeles",
-                  "text": "1940 gegründeter Shingon-buddhistischer Tempel in Entertainment Industry.",
-                  "category": "religious",
-                  "coords": [
-                        -118.240311,
-                        34.04926
-                  ]
-            },
-            {
                   "name": "First Church of Christ, Scientist",
                   "text": "Erbaut 1912 und von Elmer Grey entworfen, diese Kirche befindet sich in Los Angeles, Kalifornien.",
                   "category": "religious",
                   "coords": [
                         -118.283566,
                         34.045295
-                  ]
-            },
-            {
-                  "name": "Peacock Theater",
-                  "text": "Veranstaltungsort für darstellende Künste am LA Live in der Innenstadt von Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.267052,
-                        34.044393
                   ]
             },
             {
@@ -13702,15 +10237,6 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "Thien Hau Temple",
-                  "text": "Chinesischer Volkstempel, der Mazu gewidmet ist, in Chinatown von Entertainment Industry.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.240768,
-                        34.062601
-                  ]
-            },
-            {
                   "name": "Koreatown",
                   "text": "Lebendiges Viertel mit koreanischen Restaurants, Geschäften und Nachtleben in Entertainment Industry.",
                   "category": "landmark",
@@ -13728,15 +10254,6 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   "coords": [
                         -118.205806,
                         34.100464
-                  ]
-            },
-            {
-                  "name": "LA Plaza De Culturas Y Artes",
-                  "text": "Múzeum és kulturális központ a történelmi Olvera Streeten az Entertainment Industryben.",
-                  "category": "museum",
-                  "coords": [
-                        -118.239796,
-                        34.056421
                   ]
             },
             {
@@ -13767,15 +10284,6 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "Institute of Contemporary Art, Los Angeles",
-                  "text": "Kortárs művészeti múzeum az Entertainment Industry-i Művészeti Negyedben.",
-                  "category": "museum",
-                  "coords": [
-                        -118.235646,
-                        34.035134
-                  ]
-            },
-            {
                   "name": "African American Firefighter Museum",
                   "text": "Múzeum az egykori 30-as tűzoltóállomásban, amely az afroamerikai tűzoltók előtt tiszteleg az Entertainment Industryben.",
                   "category": "museum",
@@ -13785,39 +10293,12 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "The Broad Museum",
-                  "text": "A hollywood-entertainment-industry-economic-v2 területén a The Broad Museum egy kortárs művészeti múzeum Los Angeles belvárosában.",
-                  "category": "museum",
-                  "coords": [
-                        -118.250594,
-                        34.054458
-                  ]
-            },
-            {
-                  "name": "Museum of Contemporary Art",
-                  "text": "Kortárs művészeti múzeum a Grand Avenue-n az Entertainment Industry belvárosában.",
-                  "category": "museum",
-                  "coords": [
-                        -118.250539,
-                        34.053293
-                  ]
-            },
-            {
                   "name": "Japanese American National Museum",
                   "text": "1996-ban nyílt meg, Gyo Obata tervezte, a Japán Amerikai Nemzeti Múzeum Los Angelesben.",
                   "category": "museum",
                   "coords": [
                         -118.238596,
                         34.049655
-                  ]
-            },
-            {
-                  "name": "Avila Adobe",
-                  "text": "1818-ból származó vályogház, Los Angeles legrégebbi fennmaradt lakóháza az Olvera Streeten az Entertainment Industryben.",
-                  "category": "museum",
-                  "coords": [
-                        -118.237823,
-                        34.057218
                   ]
             },
             {
@@ -13857,78 +10338,6 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "Los Angeles Sister Cities Monument",
-                  "text": "Emlékmű Los Angeles testvérvárosainak tiszteletére az Entertainment Industry-i Civic Centerben.",
-                  "category": "historical",
-                  "coords": [
-                        -118.243128,
-                        34.052284
-                  ]
-            },
-            {
-                  "name": "Go For Broke Monument",
-                  "text": "A Go For Broke Monument egy emlékmű a második világháborús japán-amerikai katonák tiszteletére hollywood-entertainment-industry-economic-v2-ben.",
-                  "category": "historical",
-                  "coords": [
-                        -118.23907,
-                        34.05114
-                  ]
-            },
-            {
-                  "name": "Chinatown Gateway",
-                  "text": "A Chinatown Gateway egy monumentális kapu Los Angeles kínai negyedében hollywood-entertainment-industry-economic-v2-ben.",
-                  "category": "historical",
-                  "coords": [
-                        -118.240042,
-                        34.058937
-                  ]
-            },
-            {
-                  "name": "Orpheum Theatre",
-                  "text": "Történelmi filmszínház a Broadway-n, 1926-ban nyílt meg, az Entertainment Industryben.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.255389,
-                        34.042718
-                  ]
-            },
-            {
-                  "name": "Globe Theatre",
-                  "text": "Színház a Broadway-n az Entertainment Industry-i történelmi színháznegyedben.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.254133,
-                        34.044048
-                  ]
-            },
-            {
-                  "name": "Grauman's Million Dollar Theatre",
-                  "text": "Történelmi filmszínház a Broadway-n, 1918-ban nyílt meg, az Entertainment Industryben.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.248673,
-                        34.051077
-                  ]
-            },
-            {
-                  "name": "East West Players",
-                  "text": "Színházi társaság, amely az ázsiai-amerikai történetekre összpontosít az Entertainment Industry-i Little Tokyóban.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.240152,
-                        34.050758
-                  ]
-            },
-            {
-                  "name": "The Novo",
-                  "text": "Élőzenei helyszín a LA Live-nál az Entertainment Industry belvárosában.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.265472,
-                        34.044549
-                  ]
-            },
-            {
                   "name": "Saint Brendan Roman Catholic Church",
                   "text": "Római katolikus templom az Entertainment Industry-i Highland Park negyedben.",
                   "category": "religious",
@@ -13956,48 +10365,12 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "Dorothy Chandler Pavilion",
-                  "text": "Koncertterem a Music Centerben, a Los Angeles-i Opera otthona, az Entertainment Industry belvárosában.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.248927,
-                        34.056601
-                  ]
-            },
-            {
-                  "name": "The Regent",
-                  "text": "1914-ben megnyitott mozi palota az Entertainment Industryban.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.247817,
-                        34.04699
-                  ]
-            },
-            {
-                  "name": "Koyasan Beikoku Betsuin of Los Angeles",
-                  "text": "1940-ben alapított Singon buddhista templom az Entertainment Industryban.",
-                  "category": "religious",
-                  "coords": [
-                        -118.240311,
-                        34.04926
-                  ]
-            },
-            {
                   "name": "First Church of Christ, Scientist",
                   "text": "1912-ben épült, Elmer Grey tervezte, ez a templom Los Angelesben, Kaliforniában található.",
                   "category": "religious",
                   "coords": [
                         -118.283566,
                         34.045295
-                  ]
-            },
-            {
-                  "name": "Peacock Theater",
-                  "text": "Előadóművészeti helyszín a LA Live-nál az Entertainment Industry belvárosában.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.267052,
-                        34.044393
                   ]
             },
             {
@@ -14046,15 +10419,6 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "Thien Hau Temple",
-                  "text": "Kínai népi templom Mazu tiszteletére az Entertainment Industry-i Chinatownban.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.240768,
-                        34.062601
-                  ]
-            },
-            {
                   "name": "Koreatown",
                   "text": "Élénk negyed koreai éttermekkel, üzletekkel és éjszakai élettel az Entertainment Industryben.",
                   "category": "landmark",
@@ -14072,15 +10436,6 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   "coords": [
                         -118.205806,
                         34.100464
-                  ]
-            },
-            {
-                  "name": "LA Plaza De Culturas Y Artes",
-                  "text": "Muzeu și centru cultural pe istorica Olvera Street din Entertainment Industry.",
-                  "category": "museum",
-                  "coords": [
-                        -118.239796,
-                        34.056421
                   ]
             },
             {
@@ -14111,15 +10466,6 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "Institute of Contemporary Art, Los Angeles",
-                  "text": "Muzeu de artă contemporană în Cartierul Artelor din Entertainment Industry.",
-                  "category": "museum",
-                  "coords": [
-                        -118.235646,
-                        34.035134
-                  ]
-            },
-            {
                   "name": "African American Firefighter Museum",
                   "text": "Muzeu în fosta stație de pompieri nr. 30, dedicat pompierilor afro-americani în Entertainment Industry.",
                   "category": "museum",
@@ -14129,39 +10475,12 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "The Broad Museum",
-                  "text": "În hollywood-entertainment-industry-economic-v2, The Broad Museum este un muzeu de artă contemporană în centrul Los Angelesului.",
-                  "category": "museum",
-                  "coords": [
-                        -118.250594,
-                        34.054458
-                  ]
-            },
-            {
-                  "name": "Museum of Contemporary Art",
-                  "text": "Muzeu de artă contemporană pe Grand Avenue în centrul orașului Entertainment Industry.",
-                  "category": "museum",
-                  "coords": [
-                        -118.250539,
-                        34.053293
-                  ]
-            },
-            {
                   "name": "Japanese American National Museum",
                   "text": "Deschis în 1996 și proiectat de Gyo Obata, Muzeul Național Japonez American din Los Angeles.",
                   "category": "museum",
                   "coords": [
                         -118.238596,
                         34.049655
-                  ]
-            },
-            {
-                  "name": "Avila Adobe",
-                  "text": "Casă din chirpici din 1818, cea mai veche locuință în picioare din Los Angeles, pe Olvera Street în Entertainment Industry.",
-                  "category": "museum",
-                  "coords": [
-                        -118.237823,
-                        34.057218
                   ]
             },
             {
@@ -14201,78 +10520,6 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "Los Angeles Sister Cities Monument",
-                  "text": "Monument care comemorează orașele înfrățite ale Los Angeles-ului în Civic Center din Entertainment Industry.",
-                  "category": "historical",
-                  "coords": [
-                        -118.243128,
-                        34.052284
-                  ]
-            },
-            {
-                  "name": "Go For Broke Monument",
-                  "text": "Monumentul Go For Broke este un monument dedicat soldaților japonezi-americani din cel de-al Doilea Război Mondial în hollywood-entertainment-industry-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        -118.23907,
-                        34.05114
-                  ]
-            },
-            {
-                  "name": "Chinatown Gateway",
-                  "text": "Poarta Chinatown este o poartă monumentală în Chinatown din Los Angeles, în hollywood-entertainment-industry-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        -118.240042,
-                        34.058937
-                  ]
-            },
-            {
-                  "name": "Orpheum Theatre",
-                  "text": "Palat de film istoric pe Broadway, deschis în 1926, în Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.255389,
-                        34.042718
-                  ]
-            },
-            {
-                  "name": "Globe Theatre",
-                  "text": "Teatru pe Broadway în districtul istoric al teatrelor din Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.254133,
-                        34.044048
-                  ]
-            },
-            {
-                  "name": "Grauman's Million Dollar Theatre",
-                  "text": "Palat de film istoric pe Broadway, deschis în 1918, în Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.248673,
-                        34.051077
-                  ]
-            },
-            {
-                  "name": "East West Players",
-                  "text": "Companie de teatru axată pe poveștile asiatice-americane în cartierul Little Tokyo din Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.240152,
-                        34.050758
-                  ]
-            },
-            {
-                  "name": "The Novo",
-                  "text": "Locație de muzică live la LA Live în centrul orașului Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.265472,
-                        34.044549
-                  ]
-            },
-            {
                   "name": "Saint Brendan Roman Catholic Church",
                   "text": "Biserică romano-catolică în cartierul Highland Park din Entertainment Industry.",
                   "category": "religious",
@@ -14300,48 +10547,12 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "Dorothy Chandler Pavilion",
-                  "text": "Sala de concerte la Music Center, casa Operei din Los Angeles, în centrul orașului Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.248927,
-                        34.056601
-                  ]
-            },
-            {
-                  "name": "The Regent",
-                  "text": "Teatru cinematografic deschis în 1914 în Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.247817,
-                        34.04699
-                  ]
-            },
-            {
-                  "name": "Koyasan Beikoku Betsuin of Los Angeles",
-                  "text": "Templu budist Shingon fondat în 1940 în Entertainment Industry.",
-                  "category": "religious",
-                  "coords": [
-                        -118.240311,
-                        34.04926
-                  ]
-            },
-            {
                   "name": "First Church of Christ, Scientist",
                   "text": "Construită în 1912 și proiectată de Elmer Grey, această biserică se află în Los Angeles, California.",
                   "category": "religious",
                   "coords": [
                         -118.283566,
                         34.045295
-                  ]
-            },
-            {
-                  "name": "Peacock Theater",
-                  "text": "Locație de arte spectacolului la LA Live în centrul orașului Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.267052,
-                        34.044393
                   ]
             },
             {
@@ -14390,15 +10601,6 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "Thien Hau Temple",
-                  "text": "Templu popular chinezesc dedicat lui Mazu în Chinatown, Entertainment Industry.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.240768,
-                        34.062601
-                  ]
-            },
-            {
                   "name": "Koreatown",
                   "text": "Cartier vibrant cu restaurante coreene, magazine și viață de noapte în Entertainment Industry.",
                   "category": "landmark",
@@ -14416,15 +10618,6 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   "coords": [
                         -118.205806,
                         34.100464
-                  ]
-            },
-            {
-                  "name": "LA Plaza De Culturas Y Artes",
-                  "text": "Museum and cultural center on the historic Olvera Street in Entertainment Industry.",
-                  "category": "museum",
-                  "coords": [
-                        -118.239796,
-                        34.056421
                   ]
             },
             {
@@ -14455,15 +10648,6 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "Institute of Contemporary Art, Los Angeles",
-                  "text": "Contemporary art museum in the Arts District of Entertainment Industry.",
-                  "category": "museum",
-                  "coords": [
-                        -118.235646,
-                        34.035134
-                  ]
-            },
-            {
                   "name": "African American Firefighter Museum",
                   "text": "Museum in the former Fire Station 30, dedicated to African American firefighters in Entertainment Industry.",
                   "category": "museum",
@@ -14473,39 +10657,12 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "The Broad Museum",
-                  "text": "In hollywood-entertainment-industry-economic-v2, The Broad Museum is a contemporary art museum in downtown Los Angeles.",
-                  "category": "museum",
-                  "coords": [
-                        -118.250594,
-                        34.054458
-                  ]
-            },
-            {
-                  "name": "Museum of Contemporary Art",
-                  "text": "Museum of contemporary art on Grand Avenue in downtown Entertainment Industry.",
-                  "category": "museum",
-                  "coords": [
-                        -118.250539,
-                        34.053293
-                  ]
-            },
-            {
                   "name": "Japanese American National Museum",
                   "text": "Opened in 1996 and designed by Gyo Obata, the Japanese American National Museum in Los Angeles.",
                   "category": "museum",
                   "coords": [
                         -118.238596,
                         34.049655
-                  ]
-            },
-            {
-                  "name": "Avila Adobe",
-                  "text": "Adobe house from 1818, the oldest standing residence in Los Angeles, on Olvera Street in Entertainment Industry.",
-                  "category": "museum",
-                  "coords": [
-                        -118.237823,
-                        34.057218
                   ]
             },
             {
@@ -14545,78 +10702,6 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "Los Angeles Sister Cities Monument",
-                  "text": "Monument commemorating Los Angeles' sister cities in the Civic Center of Entertainment Industry.",
-                  "category": "historical",
-                  "coords": [
-                        -118.243128,
-                        34.052284
-                  ]
-            },
-            {
-                  "name": "Go For Broke Monument",
-                  "text": "The Go For Broke Monument is a monument honoring Japanese American soldiers of World War II in hollywood-entertainment-industry-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        -118.23907,
-                        34.05114
-                  ]
-            },
-            {
-                  "name": "Chinatown Gateway",
-                  "text": "The Chinatown Gateway is a monumental gate in Los Angeles' Chinatown in hollywood-entertainment-industry-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        -118.240042,
-                        34.058937
-                  ]
-            },
-            {
-                  "name": "Orpheum Theatre",
-                  "text": "Historic movie palace on Broadway, opened in 1926, in Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.255389,
-                        34.042718
-                  ]
-            },
-            {
-                  "name": "Globe Theatre",
-                  "text": "Theatre on Broadway in the historic theatre district of Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.254133,
-                        34.044048
-                  ]
-            },
-            {
-                  "name": "Grauman's Million Dollar Theatre",
-                  "text": "Historic movie palace on Broadway, opened in 1918, in Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.248673,
-                        34.051077
-                  ]
-            },
-            {
-                  "name": "East West Players",
-                  "text": "Theatre company focused on Asian American stories in the Little Tokyo area of Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.240152,
-                        34.050758
-                  ]
-            },
-            {
-                  "name": "The Novo",
-                  "text": "Live music venue at LA Live in downtown Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.265472,
-                        34.044549
-                  ]
-            },
-            {
                   "name": "Saint Brendan Roman Catholic Church",
                   "text": "Roman Catholic church in the Highland Park area of Entertainment Industry.",
                   "category": "religious",
@@ -14644,48 +10729,12 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   ]
             },
             {
-                  "name": "Dorothy Chandler Pavilion",
-                  "text": "Concert hall at the Music Center, home of the Los Angeles Opera, in downtown Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.248927,
-                        34.056601
-                  ]
-            },
-            {
-                  "name": "The Regent",
-                  "text": "Movie palace opened in 1914 in Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.247817,
-                        34.04699
-                  ]
-            },
-            {
-                  "name": "Koyasan Beikoku Betsuin of Los Angeles",
-                  "text": "Shingon Buddhist temple founded in 1940 in Entertainment Industry.",
-                  "category": "religious",
-                  "coords": [
-                        -118.240311,
-                        34.04926
-                  ]
-            },
-            {
                   "name": "First Church of Christ, Scientist",
                   "text": "Built in 1912 and designed by Elmer Grey, this church is in Los Angeles, California.",
                   "category": "religious",
                   "coords": [
                         -118.283566,
                         34.045295
-                  ]
-            },
-            {
-                  "name": "Peacock Theater",
-                  "text": "Performing arts venue at LA Live in downtown Entertainment Industry.",
-                  "category": "cultural",
-                  "coords": [
-                        -118.267052,
-                        34.044393
                   ]
             },
             {
@@ -14731,15 +10780,6 @@ factsAdvanced: { de: ["Gilt weltweit als die führende und prestigeträchtigste 
                   "coords": [
                         -118.296387,
                         34.11951
-                  ]
-            },
-            {
-                  "name": "Thien Hau Temple",
-                  "text": "Chinese folk temple dedicated to Mazu in Chinatown, Entertainment Industry.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.240768,
-                        34.062601
                   ]
             },
             {
@@ -18936,15 +14976,6 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
                   ]
             },
             {
-                  "name": "The Maryland Zoo in Baltimore",
-                  "text": "Der Maryland Zoo in Baltimore ist ein Zoo mit über 1.500 Tieren aus aller Welt.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.646157,
-                        39.324945
-                  ]
-            },
-            {
                   "name": "Baltimore Streetcar Museum",
                   "text": "Das Baltimore Streetcar Museum zeigt historische Straßenbahnen und deren Geschichte in Baltimore.",
                   "category": "museum",
@@ -19286,15 +15317,6 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
                   "coords": [
                         -76.57927,
                         39.288926
-                  ]
-            },
-            {
-                  "name": "The Maryland Zoo in Baltimore",
-                  "text": "A Maryland Zoo in Baltimore egy állatkert, ahol több mint 1.500 állat látható a világ minden tájáról.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.646157,
-                        39.324945
                   ]
             },
             {
@@ -19642,15 +15664,6 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
                   ]
             },
             {
-                  "name": "The Maryland Zoo in Baltimore",
-                  "text": "Grădina Zoologică Maryland din Baltimore este o grădină zoologică cu peste 1.500 de animale din întreaga lume.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.646157,
-                        39.324945
-                  ]
-            },
-            {
                   "name": "Baltimore Streetcar Museum",
                   "text": "Baltimore Streetcar Museum prezintă tramvaie istorice și istoria lor în Baltimore.",
                   "category": "museum",
@@ -19995,15 +16008,6 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
                   ]
             },
             {
-                  "name": "The Maryland Zoo in Baltimore",
-                  "text": "The Maryland Zoo in Baltimore is a zoo with over 1,500 animals from around the world.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.646157,
-                        39.324945
-                  ]
-            },
-            {
                   "name": "Baltimore Streetcar Museum",
                   "text": "The Baltimore Streetcar Museum displays historic streetcars and their history in Baltimore.",
                   "category": "museum",
@@ -20258,15 +16262,6 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
       id: "port-of-houston-deepwater-economic-v2", "sights": {
       "de": [
             {
-                  "name": "The Buffalo Soldiers National Museum",
-                  "text": "Ein Museum, das der Geschichte der Buffalo Soldiers gewidmet ist, afroamerikanischen Kavallerieregimenten.",
-                  "category": "museum",
-                  "coords": [
-                        -95.37814,
-                        29.735992
-                  ]
-            },
-            {
                   "name": "Museum of Fine Arts, Houston",
                   "text": "Eines der größten Kunstmuseen in den USA mit einer umfangreichen Sammlung.",
                   "category": "museum",
@@ -20330,57 +16325,12 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
                   ]
             },
             {
-                  "name": "Houston City Hall",
-                  "text": "Historisches Rathausgebäude von 1939 in der Innenstadt von Houston.",
-                  "category": "historical",
-                  "coords": [
-                        -95.369375,
-                        29.760182
-                  ]
-            },
-            {
-                  "name": "Bayou Music Center",
-                  "text": "Musikspielstätte an den Ufern des Buffalo Bayou in Houston.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.367189,
-                        29.762431
-                  ]
-            },
-            {
-                  "name": "Christ Church Cathedral",
-                  "text": "Episkopalkathedrale im neugotischen Stil in der Innenstadt von Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.360816,
-                        29.759507
-                  ]
-            },
-            {
                   "name": "Our Mother of Mercy Church",
                   "text": "Historische katholische Kirche von 1910 an der Southmore Boulevard in Houston.",
                   "category": "religious",
                   "coords": [
                         -95.329944,
                         29.780396
-                  ]
-            },
-            {
-                  "name": "Temple Beth Israel",
-                  "text": "Temple Beth Israel ist die älteste jüdische Gemeinde in Texas, gelegen in Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.379607,
-                        29.757377
-                  ]
-            },
-            {
-                  "name": "Annunciation Greek Orthodox Cathedral",
-                  "text": "Griechisch-orthodoxe Kathedrale im byzantinischen Stil im Montrose-Viertel von Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.392047,
-                        29.740921
                   ]
             },
             {
@@ -20438,78 +16388,6 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
                   ]
             },
             {
-                  "name": "Co-Cathedral of the Sacred Heart",
-                  "text": "Moderne römisch-katholische Kathedrale von 2008 in der Innenstadt von Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.368674,
-                        29.749902
-                  ]
-            },
-            {
-                  "name": "Antioch Missionary Baptist Church",
-                  "text": "Historische Baptistenkirche von 1875 im Fourth Ward von Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.372057,
-                        29.756248
-                  ]
-            },
-            {
-                  "name": "Hobby Center for the Performing Arts",
-                  "text": "Hobby Center for the Performing Arts ist ein bedeutender Veranstaltungsort für darstellende Künste in der Innenstadt von Houston.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.369665,
-                        29.761692
-                  ]
-            },
-            {
-                  "name": "Wortham Theatre Center",
-                  "text": "Wortham Theater Center ist die Heimat des Houston Ballet und der Houston Grand Opera.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.365683,
-                        29.763367
-                  ]
-            },
-            {
-                  "name": "Alley Theatre",
-                  "text": "Tony-preisgekröntes Theater im Theaterbezirk von Houston.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.365342,
-                        29.762069
-                  ]
-            },
-            {
-                  "name": "Jones Hall",
-                  "text": "Konzertsaal der Houston Symphony in der Innenstadt von Houston.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.365029,
-                        29.760873
-                  ]
-            },
-            {
-                  "name": "Annunciation Catholic Church",
-                  "text": "Historische römisch-katholische Kirche von 1870 an der Texas Avenue in Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.357257,
-                        29.756402
-                  ]
-            },
-            {
-                  "name": "Our Lady of Guadalupe Catholic Church",
-                  "text": "Historische katholische Kirche von 1912 im Second Ward von Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.345026,
-                        29.759227
-                  ]
-            },
-            {
                   "name": "McGovern Centennial Gardens",
                   "text": "McGovern Centennial Gardens ist ein 15 Hektar großer Garten im Hermann Park in Houston.",
                   "category": "park",
@@ -20535,81 +16413,9 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
                         -95.339813,
                         29.709701
                   ]
-            },
-            {
-                  "name": "Emancipation Park",
-                  "text": "Emancipation Park ist der älteste öffentliche Park in Houston, ursprünglich für Afroamerikaner angelegt.",
-                  "category": "park",
-                  "coords": [
-                        -95.365147,
-                        29.735884
-                  ]
-            },
-            {
-                  "name": "Tranquillity Park",
-                  "text": "Tranquillity Park ist ein Park in der Innenstadt von Houston, benannt nach der Apollo-11-Mondlandung.",
-                  "category": "park",
-                  "coords": [
-                        -95.368343,
-                        29.760685
-                  ]
-            },
-            {
-                  "name": "Sam Houston Park",
-                  "text": "Park in der Innenstadt mit einer Sammlung historischer Häuser.",
-                  "category": "park",
-                  "coords": [
-                        -95.371865,
-                        29.759937
-                  ]
-            },
-            {
-                  "name": "Market Square Park",
-                  "text": "1964 angelegter Park im historischen Viertel von Of Houston Deepwater.",
-                  "category": "park",
-                  "coords": [
-                        -95.362344,
-                        29.76266
-                  ]
-            },
-            {
-                  "name": "Discovery Green",
-                  "text": "5 Hektar großer Stadtpark mit Springbrunnen und Veranstaltungsflächen in der Innenstadt von Houston.",
-                  "category": "park",
-                  "coords": [
-                        -95.359604,
-                        29.753214
-                  ]
-            },
-            {
-                  "name": "Houston Zoo",
-                  "text": "Der Houston Zoo beherbergt über 6.000 Tiere im Hermann Park in Houston.",
-                  "category": "recreational",
-                  "coords": [
-                        -95.391738,
-                        29.713838
-                  ]
-            },
-            {
-                  "name": "Downtown Aquarium",
-                  "text": "Aquarium und Restaurant mit einem 500.000-Gallonen-Becken in der Innenstadt von Houston.",
-                  "category": "recreational",
-                  "coords": [
-                        -95.367408,
-                        29.764274
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "The Buffalo Soldiers National Museum",
-                  "text": "Múzeum, amely a Buffalo Soldiers, afroamerikai lovasezredek történetének adózik.",
-                  "category": "museum",
-                  "coords": [
-                        -95.37814,
-                        29.735992
-                  ]
-            },
             {
                   "name": "Museum of Fine Arts, Houston",
                   "text": "Az Egyesült Államok egyik legnagyobb művészeti múzeuma, gazdag gyűjteménnyel.",
@@ -20674,57 +16480,12 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
                   ]
             },
             {
-                  "name": "Houston City Hall",
-                  "text": "Történelmi városháza épület 1938-ból a houstoni belvárosban.",
-                  "category": "historical",
-                  "coords": [
-                        -95.369375,
-                        29.760182
-                  ]
-            },
-            {
-                  "name": "Bayou Music Center",
-                  "text": "Zenei helyszín a Buffalo Bayou partján Houstonban.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.367189,
-                        29.762431
-                  ]
-            },
-            {
-                  "name": "Christ Church Cathedral",
-                  "text": "Gótikus stílusú episzkopális székesegyház a houstoni belvárosban.",
-                  "category": "religious",
-                  "coords": [
-                        -95.360816,
-                        29.759507
-                  ]
-            },
-            {
                   "name": "Our Mother of Mercy Church",
                   "text": "Történelmi katolikus templom 1910-ből a houstoni Southmore Boulevard-on.",
                   "category": "religious",
                   "coords": [
                         -95.329944,
                         29.780396
-                  ]
-            },
-            {
-                  "name": "Temple Beth Israel",
-                  "text": "A Temple Beth Israel a legrégebbi zsidó gyülekezet Texasban, Houstonban található.",
-                  "category": "religious",
-                  "coords": [
-                        -95.379607,
-                        29.757377
-                  ]
-            },
-            {
-                  "name": "Annunciation Greek Orthodox Cathedral",
-                  "text": "Bizánci stílusú görög ortodox székesegyház a houstoni Montrose negyedben.",
-                  "category": "religious",
-                  "coords": [
-                        -95.392047,
-                        29.740921
                   ]
             },
             {
@@ -20782,78 +16543,6 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
                   ]
             },
             {
-                  "name": "Co-Cathedral of the Sacred Heart",
-                  "text": "Modern római katolikus székesegyház 2008-ból a houstoni belvárosban.",
-                  "category": "religious",
-                  "coords": [
-                        -95.368674,
-                        29.749902
-                  ]
-            },
-            {
-                  "name": "Antioch Missionary Baptist Church",
-                  "text": "Történelmi baptista templom 1875-ből Houston Fourth Ward negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        -95.372057,
-                        29.756248
-                  ]
-            },
-            {
-                  "name": "Hobby Center for the Performing Arts",
-                  "text": "A Hobby Center for the Performing Arts egy jelentős előadóművészeti helyszín Houston belvárosában.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.369665,
-                        29.761692
-                  ]
-            },
-            {
-                  "name": "Wortham Theatre Center",
-                  "text": "A Wortham Theater Center a Houston Ballet és a Houston Grand Opera otthona.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.365683,
-                        29.763367
-                  ]
-            },
-            {
-                  "name": "Alley Theatre",
-                  "text": "Tony-díjas színház a houstoni Színháznegyedben.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.365342,
-                        29.762069
-                  ]
-            },
-            {
-                  "name": "Jones Hall",
-                  "text": "Koncertterem, a houstoni szimfonikus zenekar otthona a belvárosban.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.365029,
-                        29.760873
-                  ]
-            },
-            {
-                  "name": "Annunciation Catholic Church",
-                  "text": "Történelmi római katolikus templom 1870-ből a houstoni Texas Avenue-n.",
-                  "category": "religious",
-                  "coords": [
-                        -95.357257,
-                        29.756402
-                  ]
-            },
-            {
-                  "name": "Our Lady of Guadalupe Catholic Church",
-                  "text": "Történelmi katolikus templom 1912-ből Houston Second Ward negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        -95.345026,
-                        29.759227
-                  ]
-            },
-            {
                   "name": "McGovern Centennial Gardens",
                   "text": "A McGovern Centennial Gardens egy 15 hektáros kert a Hermann Parkban Houstonban.",
                   "category": "park",
@@ -20879,81 +16568,9 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
                         -95.339813,
                         29.709701
                   ]
-            },
-            {
-                  "name": "Emancipation Park",
-                  "text": "Az Emancipation Park a legrégebbi közpark Houstonban, amelyet eredetileg afroamerikaiak számára hoztak létre.",
-                  "category": "park",
-                  "coords": [
-                        -95.365147,
-                        29.735884
-                  ]
-            },
-            {
-                  "name": "Tranquillity Park",
-                  "text": "A Tranquillity Park egy park Houston belvárosában, amely az Apollo-11 holdraszállásról kapta a nevét.",
-                  "category": "park",
-                  "coords": [
-                        -95.368343,
-                        29.760685
-                  ]
-            },
-            {
-                  "name": "Sam Houston Park",
-                  "text": "Belvárosi park történelmi házak gyűjteményével.",
-                  "category": "park",
-                  "coords": [
-                        -95.371865,
-                        29.759937
-                  ]
-            },
-            {
-                  "name": "Market Square Park",
-                  "text": "1964-ben létrehozott park Houston történelmi negyedében.",
-                  "category": "park",
-                  "coords": [
-                        -95.362344,
-                        29.76266
-                  ]
-            },
-            {
-                  "name": "Discovery Green",
-                  "text": "5 hektáros városi park szökőkutakkal és rendezvényterekkel a houstoni belvárosban.",
-                  "category": "park",
-                  "coords": [
-                        -95.359604,
-                        29.753214
-                  ]
-            },
-            {
-                  "name": "Houston Zoo",
-                  "text": "A Houston Zoo több mint 6000 állatot tart a Hermann Parkban Houstonban.",
-                  "category": "recreational",
-                  "coords": [
-                        -95.391738,
-                        29.713838
-                  ]
-            },
-            {
-                  "name": "Downtown Aquarium",
-                  "text": "Akvárium és étterem egy 500.000 gallonos tartállyal a houstoni belvárosban.",
-                  "category": "recreational",
-                  "coords": [
-                        -95.367408,
-                        29.764274
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "The Buffalo Soldiers National Museum",
-                  "text": "Un muzeu dedicat istoriei Buffalo Soldiers, regimente de cavalerie afro-americane.",
-                  "category": "museum",
-                  "coords": [
-                        -95.37814,
-                        29.735992
-                  ]
-            },
             {
                   "name": "Museum of Fine Arts, Houston",
                   "text": "Unul dintre cele mai mari muzee de artă din SUA, cu o colecție cuprinzătoare.",
@@ -21018,57 +16635,12 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
                   ]
             },
             {
-                  "name": "Houston City Hall",
-                  "text": "Clădire istorică a primăriei construită în 1939 în centrul Houstonului.",
-                  "category": "historical",
-                  "coords": [
-                        -95.369375,
-                        29.760182
-                  ]
-            },
-            {
-                  "name": "Bayou Music Center",
-                  "text": "Locație de concerte pe malurile Buffalo Bayou în Houston.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.367189,
-                        29.762431
-                  ]
-            },
-            {
-                  "name": "Christ Church Cathedral",
-                  "text": "Catedrală episcopală în stil gotic revival în centrul Houstonului.",
-                  "category": "religious",
-                  "coords": [
-                        -95.360816,
-                        29.759507
-                  ]
-            },
-            {
                   "name": "Our Mother of Mercy Church",
                   "text": "Biserică catolică istorică construită în 1910 pe Southmore Boulevard în Houston.",
                   "category": "religious",
                   "coords": [
                         -95.329944,
                         29.780396
-                  ]
-            },
-            {
-                  "name": "Temple Beth Israel",
-                  "text": "Temple Beth Israel este cea mai veche comunitate evreiască din Texas, situată în Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.379607,
-                        29.757377
-                  ]
-            },
-            {
-                  "name": "Annunciation Greek Orthodox Cathedral",
-                  "text": "Catedrală ortodoxă greacă în stil bizantin în cartierul Montrose din Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.392047,
-                        29.740921
                   ]
             },
             {
@@ -21126,78 +16698,6 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
                   ]
             },
             {
-                  "name": "Co-Cathedral of the Sacred Heart",
-                  "text": "Catedrală romano-catolică modernă construită în 2008 în centrul Houstonului.",
-                  "category": "religious",
-                  "coords": [
-                        -95.368674,
-                        29.749902
-                  ]
-            },
-            {
-                  "name": "Antioch Missionary Baptist Church",
-                  "text": "Biserică baptistă istorică construită în 1875 în Fourth Ward din Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.372057,
-                        29.756248
-                  ]
-            },
-            {
-                  "name": "Hobby Center for the Performing Arts",
-                  "text": "Hobby Center for the Performing Arts este un important loc de spectacole în centrul orașului Houston.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.369665,
-                        29.761692
-                  ]
-            },
-            {
-                  "name": "Wortham Theatre Center",
-                  "text": "Wortham Theater Center este casa Houston Ballet și Houston Grand Opera.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.365683,
-                        29.763367
-                  ]
-            },
-            {
-                  "name": "Alley Theatre",
-                  "text": "Teatru premiat cu Tony în Districtul Teatrului din Houston.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.365342,
-                        29.762069
-                  ]
-            },
-            {
-                  "name": "Jones Hall",
-                  "text": "Sala de concerte a Orchestrei Simfonice din Houston în centrul orașului.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.365029,
-                        29.760873
-                  ]
-            },
-            {
-                  "name": "Annunciation Catholic Church",
-                  "text": "Biserică romano-catolică istorică construită în 1870 pe Texas Avenue în Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.357257,
-                        29.756402
-                  ]
-            },
-            {
-                  "name": "Our Lady of Guadalupe Catholic Church",
-                  "text": "Biserică catolică istorică construită în 1912 în Second Ward din Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.345026,
-                        29.759227
-                  ]
-            },
-            {
                   "name": "McGovern Centennial Gardens",
                   "text": "McGovern Centennial Gardens este o grădină de 15 acri în Hermann Park din Houston.",
                   "category": "park",
@@ -21223,81 +16723,9 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
                         -95.339813,
                         29.709701
                   ]
-            },
-            {
-                  "name": "Emancipation Park",
-                  "text": "Emancipation Park este cel mai vechi parc public din Houston, creat inițial pentru afro-americani.",
-                  "category": "park",
-                  "coords": [
-                        -95.365147,
-                        29.735884
-                  ]
-            },
-            {
-                  "name": "Tranquillity Park",
-                  "text": "Tranquillity Park este un parc în centrul orașului Houston, numit după aselenizarea Apollo 11.",
-                  "category": "park",
-                  "coords": [
-                        -95.368343,
-                        29.760685
-                  ]
-            },
-            {
-                  "name": "Sam Houston Park",
-                  "text": "Parcul din centru cu o colecție de case istorice.",
-                  "category": "park",
-                  "coords": [
-                        -95.371865,
-                        29.759937
-                  ]
-            },
-            {
-                  "name": "Market Square Park",
-                  "text": "Parcul creat în 1964 în cartierul istoric din Of Houston Deepwater.",
-                  "category": "park",
-                  "coords": [
-                        -95.362344,
-                        29.76266
-                  ]
-            },
-            {
-                  "name": "Discovery Green",
-                  "text": "Parcul urban de 12 acri cu fântâni și spații pentru evenimente în centrul Houstonului.",
-                  "category": "park",
-                  "coords": [
-                        -95.359604,
-                        29.753214
-                  ]
-            },
-            {
-                  "name": "Houston Zoo",
-                  "text": "Grădina Zoologică din Houston adăpostește peste 6.000 de animale în Hermann Park din Houston.",
-                  "category": "recreational",
-                  "coords": [
-                        -95.391738,
-                        29.713838
-                  ]
-            },
-            {
-                  "name": "Downtown Aquarium",
-                  "text": "Acvariu și restaurant cu un rezervor de 500.000 de galoane în centrul Houstonului.",
-                  "category": "recreational",
-                  "coords": [
-                        -95.367408,
-                        29.764274
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "The Buffalo Soldiers National Museum",
-                  "text": "A museum dedicated to the history of the Buffalo Soldiers, African American cavalry regiments.",
-                  "category": "museum",
-                  "coords": [
-                        -95.37814,
-                        29.735992
-                  ]
-            },
             {
                   "name": "Museum of Fine Arts, Houston",
                   "text": "One of the largest art museums in the US, with a comprehensive collection.",
@@ -21362,57 +16790,12 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
                   ]
             },
             {
-                  "name": "Houston City Hall",
-                  "text": "Historic city hall building built in 1939 in downtown Houston.",
-                  "category": "historical",
-                  "coords": [
-                        -95.369375,
-                        29.760182
-                  ]
-            },
-            {
-                  "name": "Bayou Music Center",
-                  "text": "Music venue on the banks of Buffalo Bayou in Houston.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.367189,
-                        29.762431
-                  ]
-            },
-            {
-                  "name": "Christ Church Cathedral",
-                  "text": "Gothic Revival Episcopal cathedral in downtown Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.360816,
-                        29.759507
-                  ]
-            },
-            {
                   "name": "Our Mother of Mercy Church",
                   "text": "Historic Catholic church built in 1910 on Southmore Boulevard in Houston.",
                   "category": "religious",
                   "coords": [
                         -95.329944,
                         29.780396
-                  ]
-            },
-            {
-                  "name": "Temple Beth Israel",
-                  "text": "Temple Beth Israel is the oldest Jewish congregation in Texas, located in Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.379607,
-                        29.757377
-                  ]
-            },
-            {
-                  "name": "Annunciation Greek Orthodox Cathedral",
-                  "text": "Byzantine-style Greek Orthodox cathedral in the Montrose neighborhood of Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.392047,
-                        29.740921
                   ]
             },
             {
@@ -21470,78 +16853,6 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
                   ]
             },
             {
-                  "name": "Co-Cathedral of the Sacred Heart",
-                  "text": "Modern Roman Catholic cathedral built in 2008 in downtown Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.368674,
-                        29.749902
-                  ]
-            },
-            {
-                  "name": "Antioch Missionary Baptist Church",
-                  "text": "Historic Baptist church built in 1875 in the Fourth Ward of Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.372057,
-                        29.756248
-                  ]
-            },
-            {
-                  "name": "Hobby Center for the Performing Arts",
-                  "text": "Hobby Center for the Performing Arts is a major performing arts venue in downtown Houston.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.369665,
-                        29.761692
-                  ]
-            },
-            {
-                  "name": "Wortham Theatre Center",
-                  "text": "Wortham Theater Center is the home of the Houston Ballet and Houston Grand Opera.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.365683,
-                        29.763367
-                  ]
-            },
-            {
-                  "name": "Alley Theatre",
-                  "text": "Tony Award-winning theater in the Houston Theater District.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.365342,
-                        29.762069
-                  ]
-            },
-            {
-                  "name": "Jones Hall",
-                  "text": "Concert hall home to the Houston Symphony in downtown Houston.",
-                  "category": "cultural",
-                  "coords": [
-                        -95.365029,
-                        29.760873
-                  ]
-            },
-            {
-                  "name": "Annunciation Catholic Church",
-                  "text": "Historic Roman Catholic church built in 1870 on Texas Avenue in Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.357257,
-                        29.756402
-                  ]
-            },
-            {
-                  "name": "Our Lady of Guadalupe Catholic Church",
-                  "text": "Historic Catholic church built in 1912 in the Second Ward of Houston.",
-                  "category": "religious",
-                  "coords": [
-                        -95.345026,
-                        29.759227
-                  ]
-            },
-            {
                   "name": "McGovern Centennial Gardens",
                   "text": "McGovern Centennial Gardens is a 15-acre garden in Hermann Park in Houston.",
                   "category": "park",
@@ -21566,69 +16877,6 @@ factsAdvanced: { de: ["Der Research Triangle Park (RTP) ist der flächenmäßig 
                   "coords": [
                         -95.339813,
                         29.709701
-                  ]
-            },
-            {
-                  "name": "Emancipation Park",
-                  "text": "Emancipation Park is the oldest public park in Houston, originally created for African Americans.",
-                  "category": "park",
-                  "coords": [
-                        -95.365147,
-                        29.735884
-                  ]
-            },
-            {
-                  "name": "Tranquillity Park",
-                  "text": "Tranquillity Park is a park in downtown Houston named after the Apollo 11 moon landing.",
-                  "category": "park",
-                  "coords": [
-                        -95.368343,
-                        29.760685
-                  ]
-            },
-            {
-                  "name": "Sam Houston Park",
-                  "text": "Downtown park with a collection of historic houses.",
-                  "category": "park",
-                  "coords": [
-                        -95.371865,
-                        29.759937
-                  ]
-            },
-            {
-                  "name": "Market Square Park",
-                  "text": "Park created in 1964 in the historic district of Of Houston Deepwater.",
-                  "category": "park",
-                  "coords": [
-                        -95.362344,
-                        29.76266
-                  ]
-            },
-            {
-                  "name": "Discovery Green",
-                  "text": "12-acre urban park with fountains and event spaces in downtown Houston.",
-                  "category": "park",
-                  "coords": [
-                        -95.359604,
-                        29.753214
-                  ]
-            },
-            {
-                  "name": "Houston Zoo",
-                  "text": "Houston Zoo houses over 6,000 animals in Hermann Park in Houston.",
-                  "category": "recreational",
-                  "coords": [
-                        -95.391738,
-                        29.713838
-                  ]
-            },
-            {
-                  "name": "Downtown Aquarium",
-                  "text": "Aquarium and restaurant with a 500,000-gallon tank in downtown Houston.",
-                  "category": "recreational",
-                  "coords": [
-                        -95.367408,
-                        29.764274
                   ]
             }
       ]
@@ -23086,15 +18334,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
       id: "port-of-anchorage-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Anchorage Museum",
-                  "text": "Museum mit der größten Sammlung von Kunst und Artefakten Alaskas.",
-                  "category": "museum",
-                  "coords": [
-                        -149.884594,
-                        61.216054
-                  ]
-            },
-            {
                   "name": "Anchorage Unitarian Universalist Fellowship",
                   "text": "Unitarisch-universalistische Kirche in Anchorage.",
                   "category": "religious",
@@ -23122,15 +18361,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Greater Friendship Baptist Church",
-                  "text": "Baptistenkirche in Anchorage.",
-                  "category": "religious",
-                  "coords": [
-                        -149.866416,
-                        61.209884
-                  ]
-            },
-            {
                   "name": "Islamic Community Center of Anchorage",
                   "text": "Größte Moschee Alaskas in Anchorage.",
                   "category": "religious",
@@ -23149,15 +18379,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Ceremonial Start of Iditarod Trail Sled Dog Race",
-                  "text": "Jährlicher Startort des berühmten Iditarod-Schlittenhunderennens an der Fourth Avenue.",
-                  "category": "landmark",
-                  "coords": [
-                        -149.889363,
-                        61.218549
-                  ]
-            },
-            {
                   "name": "Far North Bicentennial Park",
                   "text": "1.500 Hektar großer Park mit Wanderwegen und Skigebiet.",
                   "category": "park",
@@ -23173,15 +18394,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -149.759875,
                         61.176774
-                  ]
-            },
-            {
-                  "name": "Delaney Park Strip",
-                  "text": "Linearer Park, ursprünglich eine Brandschneise, heute Erholungsgebiet.",
-                  "category": "park",
-                  "coords": [
-                        -149.897602,
-                        61.213163
                   ]
             },
             {
@@ -23218,24 +18430,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -149.759931,
                         61.196364
-                  ]
-            },
-            {
-                  "name": "All Saints Episcopal Church",
-                  "text": "All Saints Episcopal Church, eine episkopale Kirche im Zentrum von Anchorage.",
-                  "category": "religious",
-                  "coords": [
-                        -149.892965,
-                        61.21489
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Holy Family",
-                  "text": "Cathedral of the Holy Family, die katholische Kathedrale von Anchorage.",
-                  "category": "religious",
-                  "coords": [
-                        -149.898066,
-                        61.217278
                   ]
             },
             {
@@ -23338,30 +18532,12 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Resolution Park",
-                  "text": "Resolution Park, ein Park mit Blick auf den Cook Inlet in Anchorage.",
-                  "category": "park",
-                  "coords": [
-                        -149.904269,
-                        61.219289
-                  ]
-            },
-            {
                   "name": "Nulbay Park",
                   "text": "Nulbay Park, ein Park in Anchorage mit einem Teich.",
                   "category": "park",
                   "coords": [
                         -149.910318,
                         61.215871
-                  ]
-            },
-            {
-                  "name": "Elderberry Park",
-                  "text": "Elderberry Park, ein Park in Anchorage mit Holundersträuchern.",
-                  "category": "park",
-                  "coords": [
-                        -149.906556,
-                        61.217993
                   ]
             },
             {
@@ -23410,15 +18586,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Fairbanks Park",
-                  "text": "Fairbanks Park, ein Park in Anchorage benannt nach der Stadt Fairbanks.",
-                  "category": "park",
-                  "coords": [
-                        -149.873238,
-                        61.211367
-                  ]
-            },
-            {
                   "name": "Jacobson Park",
                   "text": "Jacobson Park, ein Park in Anchorage mit einem Spielplatz.",
                   "category": "park",
@@ -23448,15 +18615,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
       ],
       "hu": [
             {
-                  "name": "Anchorage Museum",
-                  "text": "Múzeum Alaszka legnagyobb művészeti és tárgyi gyűjteményével.",
-                  "category": "museum",
-                  "coords": [
-                        -149.884594,
-                        61.216054
-                  ]
-            },
-            {
                   "name": "Anchorage Unitarian Universalist Fellowship",
                   "text": "Unitárius univerzalista templom Anchorage-ban.",
                   "category": "religious",
@@ -23484,15 +18642,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Greater Friendship Baptist Church",
-                  "text": "Baptista templom Anchorage-ban.",
-                  "category": "religious",
-                  "coords": [
-                        -149.866416,
-                        61.209884
-                  ]
-            },
-            {
                   "name": "Islamic Community Center of Anchorage",
                   "text": "Alaszka legnagyobb mecsetje Anchorage-ban.",
                   "category": "religious",
@@ -23511,15 +18660,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Ceremonial Start of Iditarod Trail Sled Dog Race",
-                  "text": "A híres Iditarod kutyaszánverseny éves rajtja a Fourth Avenue-n.",
-                  "category": "landmark",
-                  "coords": [
-                        -149.889363,
-                        61.218549
-                  ]
-            },
-            {
                   "name": "Far North Bicentennial Park",
                   "text": "1,5 km²-es park túraútvonalakkal és síterülettel.",
                   "category": "park",
@@ -23535,15 +18675,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -149.759875,
                         61.176774
-                  ]
-            },
-            {
-                  "name": "Delaney Park Strip",
-                  "text": "Lineáris park, eredetileg tűzgát, ma rekreációs terület.",
-                  "category": "park",
-                  "coords": [
-                        -149.897602,
-                        61.213163
                   ]
             },
             {
@@ -23580,24 +18711,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -149.759931,
                         61.196364
-                  ]
-            },
-            {
-                  "name": "All Saints Episcopal Church",
-                  "text": "All Saints Episcopal Church, egy episzkopális templom Anchorage belvárosában.",
-                  "category": "religious",
-                  "coords": [
-                        -149.892965,
-                        61.21489
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Holy Family",
-                  "text": "Cathedral of the Holy Family, a katolikus székesegyház Anchorage-ban.",
-                  "category": "religious",
-                  "coords": [
-                        -149.898066,
-                        61.217278
                   ]
             },
             {
@@ -23700,30 +18813,12 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Resolution Park",
-                  "text": "Resolution Park, egy park a Cook Inletre néző kilátással Anchorage-ban.",
-                  "category": "park",
-                  "coords": [
-                        -149.904269,
-                        61.219289
-                  ]
-            },
-            {
                   "name": "Nulbay Park",
                   "text": "Nulbay Park, egy park Anchorage-ban egy tóval.",
                   "category": "park",
                   "coords": [
                         -149.910318,
                         61.215871
-                  ]
-            },
-            {
-                  "name": "Elderberry Park",
-                  "text": "Elderberry Park, egy park Anchorage-ban bodzabokrokkal.",
-                  "category": "park",
-                  "coords": [
-                        -149.906556,
-                        61.217993
                   ]
             },
             {
@@ -23772,15 +18867,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Fairbanks Park",
-                  "text": "Fairbanks Park, egy park Anchorage-ban, Fairbanks városáról elnevezve.",
-                  "category": "park",
-                  "coords": [
-                        -149.873238,
-                        61.211367
-                  ]
-            },
-            {
                   "name": "Jacobson Park",
                   "text": "Jacobson Park, egy park Anchorage-ban játszótérrel.",
                   "category": "park",
@@ -23810,15 +18896,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
       ],
       "ro": [
             {
-                  "name": "Anchorage Museum",
-                  "text": "Muzeu cu cea mai mare colecție de artă și artefacte din Alaska.",
-                  "category": "museum",
-                  "coords": [
-                        -149.884594,
-                        61.216054
-                  ]
-            },
-            {
                   "name": "Anchorage Unitarian Universalist Fellowship",
                   "text": "Biserică unitariană universalistă în Anchorage.",
                   "category": "religious",
@@ -23846,15 +18923,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Greater Friendship Baptist Church",
-                  "text": "Biserică baptistă în Anchorage.",
-                  "category": "religious",
-                  "coords": [
-                        -149.866416,
-                        61.209884
-                  ]
-            },
-            {
                   "name": "Islamic Community Center of Anchorage",
                   "text": "Cea mai mare moschee din Alaska, în Anchorage.",
                   "category": "religious",
@@ -23873,15 +18941,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Ceremonial Start of Iditarod Trail Sled Dog Race",
-                  "text": "Locul de start anual al celebrei curse de câini de sanie Iditarod, pe Fourth Avenue.",
-                  "category": "landmark",
-                  "coords": [
-                        -149.889363,
-                        61.218549
-                  ]
-            },
-            {
                   "name": "Far North Bicentennial Park",
                   "text": "Parcul de 600 de hectare cu trasee și o zonă de schi.",
                   "category": "park",
@@ -23897,15 +18956,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -149.759875,
                         61.176774
-                  ]
-            },
-            {
-                  "name": "Delaney Park Strip",
-                  "text": "Parcul liniar, inițial o fâșie de protecție împotriva incendiilor, acum zonă de recreere.",
-                  "category": "park",
-                  "coords": [
-                        -149.897602,
-                        61.213163
                   ]
             },
             {
@@ -23942,24 +18992,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -149.759931,
                         61.196364
-                  ]
-            },
-            {
-                  "name": "All Saints Episcopal Church",
-                  "text": "All Saints Episcopal Church, o biserică episcopală în centrul orașului Anchorage.",
-                  "category": "religious",
-                  "coords": [
-                        -149.892965,
-                        61.21489
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Holy Family",
-                  "text": "Cathedral of the Holy Family, catedrala catolică din Anchorage.",
-                  "category": "religious",
-                  "coords": [
-                        -149.898066,
-                        61.217278
                   ]
             },
             {
@@ -24062,30 +19094,12 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Resolution Park",
-                  "text": "Resolution Park, un parc cu vedere spre Cook Inlet în Anchorage.",
-                  "category": "park",
-                  "coords": [
-                        -149.904269,
-                        61.219289
-                  ]
-            },
-            {
                   "name": "Nulbay Park",
                   "text": "Nulbay Park, un parc în Anchorage cu un iaz.",
                   "category": "park",
                   "coords": [
                         -149.910318,
                         61.215871
-                  ]
-            },
-            {
-                  "name": "Elderberry Park",
-                  "text": "Elderberry Park, un parc în Anchorage cu tufe de soc.",
-                  "category": "park",
-                  "coords": [
-                        -149.906556,
-                        61.217993
                   ]
             },
             {
@@ -24134,15 +19148,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Fairbanks Park",
-                  "text": "Fairbanks Park, un parc în Anchorage numit după orașul Fairbanks.",
-                  "category": "park",
-                  "coords": [
-                        -149.873238,
-                        61.211367
-                  ]
-            },
-            {
                   "name": "Jacobson Park",
                   "text": "Jacobson Park, un parc în Anchorage cu un loc de joacă.",
                   "category": "park",
@@ -24172,15 +19177,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
       ],
       "en": [
             {
-                  "name": "Anchorage Museum",
-                  "text": "Museum with the largest collection of Alaska art and artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        -149.884594,
-                        61.216054
-                  ]
-            },
-            {
                   "name": "Anchorage Unitarian Universalist Fellowship",
                   "text": "Unitarian Universalist church in Anchorage.",
                   "category": "religious",
@@ -24208,15 +19204,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Greater Friendship Baptist Church",
-                  "text": "Baptist church in Anchorage.",
-                  "category": "religious",
-                  "coords": [
-                        -149.866416,
-                        61.209884
-                  ]
-            },
-            {
                   "name": "Islamic Community Center of Anchorage",
                   "text": "The largest mosque in Alaska, in Anchorage.",
                   "category": "religious",
@@ -24235,15 +19222,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Ceremonial Start of Iditarod Trail Sled Dog Race",
-                  "text": "Annual start location of the famous Iditarod sled dog race on Fourth Avenue.",
-                  "category": "landmark",
-                  "coords": [
-                        -149.889363,
-                        61.218549
-                  ]
-            },
-            {
                   "name": "Far North Bicentennial Park",
                   "text": "1,500-acre park with trails and a ski area.",
                   "category": "park",
@@ -24259,15 +19237,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -149.759875,
                         61.176774
-                  ]
-            },
-            {
-                  "name": "Delaney Park Strip",
-                  "text": "Linear park originally a firebreak, now used for recreation.",
-                  "category": "park",
-                  "coords": [
-                        -149.897602,
-                        61.213163
                   ]
             },
             {
@@ -24304,24 +19273,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -149.759931,
                         61.196364
-                  ]
-            },
-            {
-                  "name": "All Saints Episcopal Church",
-                  "text": "All Saints Episcopal Church, an Episcopal church in downtown Anchorage.",
-                  "category": "religious",
-                  "coords": [
-                        -149.892965,
-                        61.21489
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Holy Family",
-                  "text": "Cathedral of the Holy Family, the Catholic cathedral of Anchorage.",
-                  "category": "religious",
-                  "coords": [
-                        -149.898066,
-                        61.217278
                   ]
             },
             {
@@ -24424,30 +19375,12 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Resolution Park",
-                  "text": "Resolution Park, a park with views of Cook Inlet in Anchorage.",
-                  "category": "park",
-                  "coords": [
-                        -149.904269,
-                        61.219289
-                  ]
-            },
-            {
                   "name": "Nulbay Park",
                   "text": "Nulbay Park, a park in Anchorage with a pond.",
                   "category": "park",
                   "coords": [
                         -149.910318,
                         61.215871
-                  ]
-            },
-            {
-                  "name": "Elderberry Park",
-                  "text": "Elderberry Park, a park in Anchorage with elderberry shrubs.",
-                  "category": "park",
-                  "coords": [
-                        -149.906556,
-                        61.217993
                   ]
             },
             {
@@ -24493,15 +19426,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -149.905395,
                         61.184856
-                  ]
-            },
-            {
-                  "name": "Fairbanks Park",
-                  "text": "Fairbanks Park, a park in Anchorage named after the city of Fairbanks.",
-                  "category": "park",
-                  "coords": [
-                        -149.873238,
-                        61.211367
                   ]
             },
             {
@@ -24594,15 +19518,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -115.024732,
                         36.072029
-                  ]
-            },
-            {
-                  "name": "Hadland Pool",
-                  "text": "Hadland Pool, ein Schwimmbadpark im Bezirk Vegas Tourism Industry.",
-                  "category": "park",
-                  "coords": [
-                        -115.1104,
-                        36.1652
                   ]
             },
             {
@@ -24732,15 +19647,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Bracken Playground",
-                  "text": "Bracken Playground ist ein Spielplatzpark im Las-Vegas-Tourismusviertel.",
-                  "category": "park",
-                  "coords": [
-                        -115.1124,
-                        36.1837
-                  ]
-            },
-            {
                   "name": "Jaycee Park",
                   "text": "Jaycee Park ist ein Gemeinschaftspark im Las-Vegas-Tourismusviertel.",
                   "category": "park",
@@ -24765,15 +19671,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -115.137395,
                         36.037196
-                  ]
-            },
-            {
-                  "name": "Hadland Park",
-                  "text": "Hadland Park ist ein Stadtteilpark im Las-Vegas-Tourismusviertel.",
-                  "category": "park",
-                  "coords": [
-                        -115.112786,
-                        36.165779
                   ]
             },
             {
@@ -24849,15 +19746,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Arroyo Grande Sports Complex",
-                  "text": "Arroyo Grande Sports Complex ist ein Sportpark mit Feldern im Las-Vegas-Tourismusviertel.",
-                  "category": "park",
-                  "coords": [
-                        -115.053203,
-                        36.046042
-                  ]
-            },
-            {
                   "name": "Mountain View Park",
                   "text": "Mountain View Park bietet Bergblick im Las-Vegas-Tourismusviertel.",
                   "category": "park",
@@ -24929,15 +19817,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -115.024732,
                         36.072029
-                  ]
-            },
-            {
-                  "name": "Hadland Pool",
-                  "text": "Hadland Pool, egy úszómedence park a Vegas Tourism Industry kerületben.",
-                  "category": "park",
-                  "coords": [
-                        -115.1104,
-                        36.1652
                   ]
             },
             {
@@ -25067,15 +19946,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Bracken Playground",
-                  "text": "A Bracken Playground egy játszótérpark a Las Vegas-i turisztikai negyedben.",
-                  "category": "park",
-                  "coords": [
-                        -115.1124,
-                        36.1837
-                  ]
-            },
-            {
                   "name": "Jaycee Park",
                   "text": "A Jaycee Park egy közösségi park a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
@@ -25100,15 +19970,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -115.137395,
                         36.037196
-                  ]
-            },
-            {
-                  "name": "Hadland Park",
-                  "text": "A Hadland Park egy városrészi park a Las Vegas-i turisztikai negyedben.",
-                  "category": "park",
-                  "coords": [
-                        -115.112786,
-                        36.165779
                   ]
             },
             {
@@ -25184,15 +20045,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Arroyo Grande Sports Complex",
-                  "text": "Az Arroyo Grande Sports Complex egy sportpark pályákkal a Las Vegas-i turisztikai negyedben.",
-                  "category": "park",
-                  "coords": [
-                        -115.053203,
-                        36.046042
-                  ]
-            },
-            {
                   "name": "Mountain View Park",
                   "text": "A Mountain View Park hegyi kilátást nyújt a Las Vegas-i turisztikai negyedben.",
                   "category": "park",
@@ -25264,15 +20116,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -115.024732,
                         36.072029
-                  ]
-            },
-            {
-                  "name": "Hadland Pool",
-                  "text": "Hadland Pool, un parc cu piscină în districtul Vegas Tourism Industry.",
-                  "category": "park",
-                  "coords": [
-                        -115.1104,
-                        36.1652
                   ]
             },
             {
@@ -25402,15 +20245,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Bracken Playground",
-                  "text": "Bracken Playground este un parc cu loc de joacă în districtul turistic Las Vegas.",
-                  "category": "park",
-                  "coords": [
-                        -115.1124,
-                        36.1837
-                  ]
-            },
-            {
                   "name": "Jaycee Park",
                   "text": "Jaycee Park este un parc comunitar în districtul turistic Las Vegas.",
                   "category": "park",
@@ -25435,15 +20269,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -115.137395,
                         36.037196
-                  ]
-            },
-            {
-                  "name": "Hadland Park",
-                  "text": "Hadland Park este un parc de cartier în districtul turistic Las Vegas.",
-                  "category": "park",
-                  "coords": [
-                        -115.112786,
-                        36.165779
                   ]
             },
             {
@@ -25519,15 +20344,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Arroyo Grande Sports Complex",
-                  "text": "Arroyo Grande Sports Complex este un parc sportiv cu terenuri în districtul turistic Las Vegas.",
-                  "category": "park",
-                  "coords": [
-                        -115.053203,
-                        36.046042
-                  ]
-            },
-            {
                   "name": "Mountain View Park",
                   "text": "Mountain View Park oferă vedere la munți în districtul turistic Las Vegas.",
                   "category": "park",
@@ -25599,15 +20415,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -115.024732,
                         36.072029
-                  ]
-            },
-            {
-                  "name": "Hadland Pool",
-                  "text": "Hadland Pool, a swimming pool park in the Vegas Tourism Industry district.",
-                  "category": "park",
-                  "coords": [
-                        -115.1104,
-                        36.1652
                   ]
             },
             {
@@ -25737,15 +20544,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   ]
             },
             {
-                  "name": "Bracken Playground",
-                  "text": "Bracken Playground is a playground park in the Las Vegas tourism district.",
-                  "category": "park",
-                  "coords": [
-                        -115.1124,
-                        36.1837
-                  ]
-            },
-            {
                   "name": "Jaycee Park",
                   "text": "Jaycee Park is a community park in the Las Vegas tourism district.",
                   "category": "park",
@@ -25770,15 +20568,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -115.137395,
                         36.037196
-                  ]
-            },
-            {
-                  "name": "Hadland Park",
-                  "text": "Hadland Park is a neighborhood park in the Las Vegas tourism district.",
-                  "category": "park",
-                  "coords": [
-                        -115.112786,
-                        36.165779
                   ]
             },
             {
@@ -25851,15 +20640,6 @@ factsAdvanced: { de: ["Der Kendall Square in Cambridge wird oft als 'der innovat
                   "coords": [
                         -115.1514,
                         36.029447
-                  ]
-            },
-            {
-                  "name": "Arroyo Grande Sports Complex",
-                  "text": "Arroyo Grande Sports Complex is a sports park with fields in the Las Vegas tourism district.",
-                  "category": "park",
-                  "coords": [
-                        -115.053203,
-                        36.046042
                   ]
             },
             {
@@ -25944,24 +20724,6 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
       id: "port-of-new-orleans-economic-v2", "sights": {
       "de": [
             {
-                  "name": "New Orleans Jazz Museum",
-                  "text": "Museum in New Orleans zur Geschichte des Jazz, untergebracht im Gebäude der alten US-Münzanstalt.",
-                  "category": "museum",
-                  "coords": [
-                        -90.057775,
-                        29.96143
-                  ]
-            },
-            {
-                  "name": "Confederate Memorial Hall;Confederate Memorial Hall Museum",
-                  "text": "Museum in New Orleans mit einer großen Sammlung konföderierter Artefakte und Erinnerungsstücke.",
-                  "category": "museum",
-                  "coords": [
-                        -90.071304,
-                        29.94343
-                  ]
-            },
-            {
                   "name": "The Presbytère",
                   "text": "Historisches Gebäude am Jackson Square in New Orleans, heute ein Museum zur Geschichte Louisianas.",
                   "category": "museum",
@@ -26004,15 +20766,6 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
                   "coords": [
                         -90.070659,
                         29.942348
-                  ]
-            },
-            {
-                  "name": "Immaculate Conception Catholic Church",
-                  "text": "Eine historische katholische Kirche in New Orleans, die der Pfarrei der Unbefleckten Empfängnis dient.",
-                  "category": "religious",
-                  "coords": [
-                        -90.071575,
-                        29.953551
                   ]
             },
             {
@@ -26079,39 +20832,12 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
                   ]
             },
             {
-                  "name": "Congo Square",
-                  "text": "Historischer Versammlungsort in New Orleans für afrikanische Musik und Tanz, heute ein Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.068615,
-                        29.961254
-                  ]
-            },
-            {
                   "name": "French Quarter",
                   "text": "Das älteste Viertel in New Orleans, berühmt für sein pulsierendes Nachtleben und seine französische Architektur.",
                   "category": "landmark",
                   "coords": [
                         -90.06554,
                         29.959493
-                  ]
-            },
-            {
-                  "name": "French Market",
-                  "text": "Ein historischer Markt in New Orleans aus dem 18. Jahrhundert mit Lebensmitteln und Kunsthandwerk.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.060257,
-                        29.959343
-                  ]
-            },
-            {
-                  "name": "Steamboat Natchez",
-                  "text": "Ein dampfbetriebener Raddampfer in New Orleans mit Kreuzfahrten auf dem Mississippi River.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.062393,
-                        29.954927
                   ]
             },
             {
@@ -26160,30 +20886,12 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
                   ]
             },
             {
-                  "name": "Lafayette Square",
-                  "text": "Der Lafayette Square ist ein historischer Park im Central Business District von New Orleans.",
-                  "category": "park",
-                  "coords": [
-                        -90.070311,
-                        29.94825
-                  ]
-            },
-            {
                   "name": "Harmony Circle",
                   "text": "Harmony Circle ist ein Verkehrskreis und Park in New Orleans, auch bekannt als Tivoli Circle.",
                   "category": "park",
                   "coords": [
                         -90.07247,
                         29.94333
-                  ]
-            },
-            {
-                  "name": "Audubon Insectarium",
-                  "text": "Das Audubon Insectarium in New Orleans ist ein Museum, das Insekten und ihren Lebensräumen gewidmet ist.",
-                  "category": "recreational",
-                  "coords": [
-                        -90.063318,
-                        29.951359
                   ]
             },
             {
@@ -26234,24 +20942,6 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
       ],
       "hu": [
             {
-                  "name": "New Orleans Jazz Museum",
-                  "text": "Múzeum New Orleansban a jazz történetének szentelve, a régi amerikai pénzverde épületében.",
-                  "category": "museum",
-                  "coords": [
-                        -90.057775,
-                        29.96143
-                  ]
-            },
-            {
-                  "name": "Confederate Memorial Hall;Confederate Memorial Hall Museum",
-                  "text": "Múzeum New Orleansban, amely a Konföderáció tárgyainak és emléktárgyainak nagy gyűjteményét őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        -90.071304,
-                        29.94343
-                  ]
-            },
-            {
                   "name": "The Presbytère",
                   "text": "Történelmi épület a New Orleans-i Jackson Square-en, ma Louisiana történetét bemutató múzeum.",
                   "category": "museum",
@@ -26294,15 +20984,6 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
                   "coords": [
                         -90.070659,
                         29.942348
-                  ]
-            },
-            {
-                  "name": "Immaculate Conception Catholic Church",
-                  "text": "Történelmi katolikus templom New Orleansban, a Szeplőtelen Fogantatás plébániáját szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        -90.071575,
-                        29.953551
                   ]
             },
             {
@@ -26369,39 +21050,12 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
                   ]
             },
             {
-                  "name": "Congo Square",
-                  "text": "Történelmi gyülekezőhely New Orleansban az afrikai zene és tánc számára, ma park.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.068615,
-                        29.961254
-                  ]
-            },
-            {
                   "name": "French Quarter",
                   "text": "New Orleans legrégebbi negyede, híres pezsgő éjszakai életéről és francia építészetéről.",
                   "category": "landmark",
                   "coords": [
                         -90.06554,
                         29.959493
-                  ]
-            },
-            {
-                  "name": "French Market",
-                  "text": "Történelmi piac New Orleansban a 18. századból, ételekkel és kézműves termékekkel.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.060257,
-                        29.959343
-                  ]
-            },
-            {
-                  "name": "Steamboat Natchez",
-                  "text": "Gőzüzemű lapátkerekes hajó New Orleansban, körutazásokat kínál a Mississippi folyón.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.062393,
-                        29.954927
                   ]
             },
             {
@@ -26450,30 +21104,12 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
                   ]
             },
             {
-                  "name": "Lafayette Square",
-                  "text": "A Lafayette Square egy történelmi park New Orleans Central Business Districtében.",
-                  "category": "park",
-                  "coords": [
-                        -90.070311,
-                        29.94825
-                  ]
-            },
-            {
                   "name": "Harmony Circle",
                   "text": "A Harmony Circle egy forgalmi körforgalom és park New Orleansban, más néven Tivoli Circle.",
                   "category": "park",
                   "coords": [
                         -90.07247,
                         29.94333
-                  ]
-            },
-            {
-                  "name": "Audubon Insectarium",
-                  "text": "A New Orleans-i Audubon Insectarium egy múzeum, amely rovaroknak és élőhelyeiknek szentelt.",
-                  "category": "recreational",
-                  "coords": [
-                        -90.063318,
-                        29.951359
                   ]
             },
             {
@@ -26524,24 +21160,6 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
       ],
       "ro": [
             {
-                  "name": "New Orleans Jazz Museum",
-                  "text": "Muzeu în New Orleans dedicat istoriei jazz-ului, găzduit în clădirea vechii monetării americane.",
-                  "category": "museum",
-                  "coords": [
-                        -90.057775,
-                        29.96143
-                  ]
-            },
-            {
-                  "name": "Confederate Memorial Hall;Confederate Memorial Hall Museum",
-                  "text": "Muzeu în New Orleans care găzduiește o colecție mare de artefacte confederate și obiecte memoriale.",
-                  "category": "museum",
-                  "coords": [
-                        -90.071304,
-                        29.94343
-                  ]
-            },
-            {
                   "name": "The Presbytère",
                   "text": "O clădire istorică pe Jackson Square în New Orleans, acum muzeu despre istoria Louisianei.",
                   "category": "museum",
@@ -26584,15 +21202,6 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
                   "coords": [
                         -90.070659,
                         29.942348
-                  ]
-            },
-            {
-                  "name": "Immaculate Conception Catholic Church",
-                  "text": "O biserică catolică istorică în New Orleans care deservește parohia Neprihănitei Zămisliri.",
-                  "category": "religious",
-                  "coords": [
-                        -90.071575,
-                        29.953551
                   ]
             },
             {
@@ -26659,39 +21268,12 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
                   ]
             },
             {
-                  "name": "Congo Square",
-                  "text": "Loc istoric de întâlnire în New Orleans pentru muzică și dans african, acum un parc.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.068615,
-                        29.961254
-                  ]
-            },
-            {
                   "name": "French Quarter",
                   "text": "Cel mai vechi cartier din New Orleans, renumit pentru viața de noapte vibrantă și arhitectura franceză.",
                   "category": "landmark",
                   "coords": [
                         -90.06554,
                         29.959493
-                  ]
-            },
-            {
-                  "name": "French Market",
-                  "text": "O piață istorică în New Orleans datând din secolul al XVIII-lea, care oferă alimente și meșteșuguri.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.060257,
-                        29.959343
-                  ]
-            },
-            {
-                  "name": "Steamboat Natchez",
-                  "text": "O navă cu zbaturi cu abur în New Orleans care oferă croaziere pe râul Mississippi.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.062393,
-                        29.954927
                   ]
             },
             {
@@ -26740,30 +21322,12 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
                   ]
             },
             {
-                  "name": "Lafayette Square",
-                  "text": "Piața Lafayette este un parc istoric în districtul central de afaceri din New Orleans.",
-                  "category": "park",
-                  "coords": [
-                        -90.070311,
-                        29.94825
-                  ]
-            },
-            {
                   "name": "Harmony Circle",
                   "text": "Harmony Circle este un sens giratoriu și parc din New Orleans, cunoscut și sub numele de Tivoli Circle.",
                   "category": "park",
                   "coords": [
                         -90.07247,
                         29.94333
-                  ]
-            },
-            {
-                  "name": "Audubon Insectarium",
-                  "text": "Audubon Insectarium din New Orleans este un muzeu dedicat insectelor și habitatelor lor.",
-                  "category": "recreational",
-                  "coords": [
-                        -90.063318,
-                        29.951359
                   ]
             },
             {
@@ -26814,24 +21378,6 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
       ],
       "en": [
             {
-                  "name": "New Orleans Jazz Museum",
-                  "text": "Museum in New Orleans dedicated to the history of jazz, located in the Old U.S. Mint building.",
-                  "category": "museum",
-                  "coords": [
-                        -90.057775,
-                        29.96143
-                  ]
-            },
-            {
-                  "name": "Confederate Memorial Hall;Confederate Memorial Hall Museum",
-                  "text": "Museum in New Orleans housing a large collection of Confederate artifacts and memorabilia.",
-                  "category": "museum",
-                  "coords": [
-                        -90.071304,
-                        29.94343
-                  ]
-            },
-            {
                   "name": "The Presbytère",
                   "text": "Historic building on Jackson Square in New Orleans, now a museum about Louisiana's history.",
                   "category": "museum",
@@ -26874,15 +21420,6 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
                   "coords": [
                         -90.070659,
                         29.942348
-                  ]
-            },
-            {
-                  "name": "Immaculate Conception Catholic Church",
-                  "text": "A historic Catholic church in New Orleans serving the Immaculate Conception parish.",
-                  "category": "religious",
-                  "coords": [
-                        -90.071575,
-                        29.953551
                   ]
             },
             {
@@ -26949,39 +21486,12 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
                   ]
             },
             {
-                  "name": "Congo Square",
-                  "text": "Historic gathering place in New Orleans for African music and dance, now a park.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.068615,
-                        29.961254
-                  ]
-            },
-            {
                   "name": "French Quarter",
                   "text": "The oldest neighborhood in New Orleans, famous for its vibrant nightlife and French architecture.",
                   "category": "landmark",
                   "coords": [
                         -90.06554,
                         29.959493
-                  ]
-            },
-            {
-                  "name": "French Market",
-                  "text": "A historic marketplace in New Orleans dating back to the 18th century, offering food and crafts.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.060257,
-                        29.959343
-                  ]
-            },
-            {
-                  "name": "Steamboat Natchez",
-                  "text": "A steam-powered paddlewheeler in New Orleans offering cruises on the Mississippi River.",
-                  "category": "landmark",
-                  "coords": [
-                        -90.062393,
-                        29.954927
                   ]
             },
             {
@@ -27030,30 +21540,12 @@ factsAdvanced: { de: ["Tourismus und Glücksspiel sind die absolut dominanten Wi
                   ]
             },
             {
-                  "name": "Lafayette Square",
-                  "text": "Lafayette Square is a historic park in the Central Business District of New Orleans.",
-                  "category": "park",
-                  "coords": [
-                        -90.070311,
-                        29.94825
-                  ]
-            },
-            {
                   "name": "Harmony Circle",
                   "text": "Harmony Circle is a traffic circle and park in New Orleans, also known as Tivoli Circle.",
                   "category": "park",
                   "coords": [
                         -90.07247,
                         29.94333
-                  ]
-            },
-            {
-                  "name": "Audubon Insectarium",
-                  "text": "The Audubon Insectarium in New Orleans is a museum dedicated to insects and their habitats.",
-                  "category": "recreational",
-                  "coords": [
-                        -90.063318,
-                        29.951359
                   ]
             },
             {

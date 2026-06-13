@@ -2335,122 +2335,10 @@ export const estoniaLifeV2: POI[] = [
   },
   {
     id: "estonia-kurkse-park-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Padise klooster",
-                  "text": "Eine eindrucksvolle Ruine eines Zisterzienserklosters in Estland, die auf das 14. Jahrhundert zurückgeht.",
-                  "category": "religious",
-                  "coords": [
-                        24.140723,
-                        59.227607
-                  ]
-            },
-            {
-                  "name": "Padise mõisa peahoone",
-                  "text": "Das Hauptgebäude des historischen Gutshofs Padise, das heute als Hotel und Veranstaltungsort dient.",
-                  "category": "historical",
-                  "coords": [
-                        24.142301,
-                        59.22792
-                  ]
-            },
-            {
-                  "name": "Padise mõisa viinavabrik",
-                  "text": "Die Ruinen der ehemaligen Brennerei des Gutshofs Padise in Estland.",
-                  "category": "historical",
-                  "coords": [
-                        24.139406,
-                        59.226442
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Padise klooster",
-                  "text": "Egy ciszterci kolostor lenyűgöző romjai Észtországban, amelyek a 14. századból származnak.",
-                  "category": "religious",
-                  "coords": [
-                        24.140723,
-                        59.227607
-                  ]
-            },
-            {
-                  "name": "Padise mõisa peahoone",
-                  "text": "A történelmi padisei uradalom főépülete, amely ma szállodaként és rendezvényhelyszínként működik.",
-                  "category": "historical",
-                  "coords": [
-                        24.142301,
-                        59.22792
-                  ]
-            },
-            {
-                  "name": "Padise mõisa viinavabrik",
-                  "text": "Az észtországi padisei uradalom egykori szeszfőzdéjének romjai.",
-                  "category": "historical",
-                  "coords": [
-                        24.139406,
-                        59.226442
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Padise klooster",
-                  "text": "Ruinele impresionante ale unei mănăstiri cisterciene din Estonia, datând din secolul al XIV-lea.",
-                  "category": "religious",
-                  "coords": [
-                        24.140723,
-                        59.227607
-                  ]
-            },
-            {
-                  "name": "Padise mõisa peahoone",
-                  "text": "Clădirea principală a conacului istoric Padise, care astăzi servește ca hotel și spațiu de evenimente.",
-                  "category": "historical",
-                  "coords": [
-                        24.142301,
-                        59.22792
-                  ]
-            },
-            {
-                  "name": "Padise mõisa viinavabrik",
-                  "text": "Ruinele fostei distilerii a conacului Padise din Estonia.",
-                  "category": "historical",
-                  "coords": [
-                        24.139406,
-                        59.226442
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Padise klooster",
-                  "text": "Impressive ruins of a Cistercian monastery in Estonia, dating back to the 14th century.",
-                  "category": "religious",
-                  "coords": [
-                        24.140723,
-                        59.227607
-                  ]
-            },
-            {
-                  "name": "Padise mõisa peahoone",
-                  "text": "The main building of the historic Padise manor, which now serves as a hotel and event venue.",
-                  "category": "historical",
-                  "coords": [
-                        24.142301,
-                        59.22792
-                  ]
-            },
-            {
-                  "name": "Padise mõisa viinavabrik",
-                  "text": "The ruins of the former distillery of the Padise manor in Estonia.",
-                  "category": "historical",
-                  "coords": [
-                        24.139406,
-                        59.226442
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "park",
     parent: "EE",
@@ -2544,24 +2432,6 @@ export const estoniaLifeV2: POI[] = [
     id: "estonia-kaldase-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Shloss Fall",
-                  "text": "Dieses neugotische Herrenhaus in Keila-Joa beherbergt heute ein Museum und ein Hotel.",
-                  "category": "museum",
-                  "coords": [
-                        24.295644,
-                        59.396996
-                  ]
-            },
-            {
-                  "name": "Türisalu maastikukaitseala",
-                  "text": "Dieses Landschaftsschutzgebiet ist für seine markanten Steilklippen an der estnischen Küste bekannt.",
-                  "category": "natural",
-                  "coords": [
-                        24.298378,
-                        59.408775
-                  ]
-            },
-            {
                   "name": "Türisalu pank",
                   "text": "Die Klippe von Türisalu bietet einen beeindruckenden Panoramablick über die Ostsee.",
                   "category": "natural",
@@ -2569,36 +2439,9 @@ export const estoniaLifeV2: POI[] = [
                         24.321861,
                         59.420488
                   ]
-            },
-            {
-                  "name": "Meremõisa mõisa varemed",
-                  "text": "Diese Ruinen gehören zum ehemaligen Gutshof Meremõisa in der Nähe der Küste.",
-                  "category": "historical",
-                  "coords": [
-                        24.287166,
-                        59.396424
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Shloss Fall",
-                  "text": "Ez a Keila-Joa-i neogótikus kúria ma múzeumnak és szállodának ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        24.295644,
-                        59.396996
-                  ]
-            },
-            {
-                  "name": "Türisalu maastikukaitseala",
-                  "text": "Ez a tájvédelmi körzet az észt tengerpart jellegzetes meredek szikláiról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        24.298378,
-                        59.408775
-                  ]
-            },
             {
                   "name": "Türisalu pank",
                   "text": "A Türisalu-szikla lenyűgöző panorámát nyújt a Balti-tengerre.",
@@ -2607,36 +2450,9 @@ export const estoniaLifeV2: POI[] = [
                         24.321861,
                         59.420488
                   ]
-            },
-            {
-                  "name": "Meremõisa mõisa varemed",
-                  "text": "Ezek a romok az egykori Meremõisa kúriához tartoznak a tengerpart közelében.",
-                  "category": "historical",
-                  "coords": [
-                        24.287166,
-                        59.396424
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Shloss Fall",
-                  "text": "Acest conac neogotic din Keila-Joa găzduiește astăzi un muzeu și un hotel.",
-                  "category": "museum",
-                  "coords": [
-                        24.295644,
-                        59.396996
-                  ]
-            },
-            {
-                  "name": "Türisalu maastikukaitseala",
-                  "text": "Această rezervație peisajistică este cunoscută pentru stâncile sale abrupte de pe coasta estonă.",
-                  "category": "natural",
-                  "coords": [
-                        24.298378,
-                        59.408775
-                  ]
-            },
             {
                   "name": "Türisalu pank",
                   "text": "Faleza Türisalu oferă o vedere panoramică impresionantă asupra Mării Baltice.",
@@ -2645,36 +2461,9 @@ export const estoniaLifeV2: POI[] = [
                         24.321861,
                         59.420488
                   ]
-            },
-            {
-                  "name": "Meremõisa mõisa varemed",
-                  "text": "Aceste ruine aparțin fostului conac Meremõisa situat în apropierea coastei.",
-                  "category": "historical",
-                  "coords": [
-                        24.287166,
-                        59.396424
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Shloss Fall",
-                  "text": "This neo-Gothic manor house in Keila-Joa now houses a museum and a hotel.",
-                  "category": "museum",
-                  "coords": [
-                        24.295644,
-                        59.396996
-                  ]
-            },
-            {
-                  "name": "Türisalu maastikukaitseala",
-                  "text": "This landscape protection area is known for its prominent steep cliffs on the Estonian coast.",
-                  "category": "natural",
-                  "coords": [
-                        24.298378,
-                        59.408775
-                  ]
-            },
             {
                   "name": "Türisalu pank",
                   "text": "The Türisalu cliff offers an impressive panoramic view over the Baltic Sea.",
@@ -2682,15 +2471,6 @@ export const estoniaLifeV2: POI[] = [
                   "coords": [
                         24.321861,
                         59.420488
-                  ]
-            },
-            {
-                  "name": "Meremõisa mõisa varemed",
-                  "text": "These ruins belong to the former Meremõisa manor located near the coast.",
-                  "category": "historical",
-                  "coords": [
-                        24.287166,
-                        59.396424
                   ]
             }
       ]

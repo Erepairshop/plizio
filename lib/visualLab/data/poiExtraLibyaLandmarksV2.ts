@@ -1487,42 +1487,6 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     id: "misrata-central-mosque-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Home",
-                  "text": "Diese urbane Sehenswürdigkeit liegt in unmittelbarer Nähe zur architektonisch markanten zentralen Moschee von Misrata.",
-                  "category": "landmark",
-                  "coords": [
-                        15.115834,
-                        32.39073
-                  ]
-            },
-            {
-                  "name": "Roundabout",
-                  "text": "Das steinerne Kreisverkehr-Denkmal ist ein zentrales urbanes Wahrzeichen im verkehrsreichen Zentrum von Misrata.",
-                  "category": "historical",
-                  "coords": [
-                        15.102782,
-                        32.37675
-                  ]
-            },
-            {
-                  "name": "Smart Technology Company for Protection and Monitoring Systems",
-                  "text": "Der Aussichtspunkt bei der Smart Technology Company bietet einen Blick auf die modernen Geschäftsviertel von Misrata.",
-                  "category": "natural",
-                  "coords": [
-                        15.097305,
-                        32.378596
-                  ]
-            },
-            {
-                  "name": "Historical Museum",
-                  "text": "Das Historische Museum nahe der Moschee von Misrata bewahrt wichtige Artefakte zur städtischen und islamischen Geschichte.",
-                  "category": "museum",
-                  "coords": [
-                        15.090913,
-                        32.375029
-                  ]
-            },
-            {
                   "name": "Gadah roundabout",
                   "text": "Das Denkmal am Gadah-Kreisverkehr ist ein markantes architektonisches Verkehrszeichen im Straßennetz von Misrata.",
                   "category": "historical",
@@ -1578,42 +1542,6 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Home",
-                  "text": "Ez a városi látványosság a miszrátai központi mecset építészeti környezetében található.",
-                  "category": "landmark",
-                  "coords": [
-                        15.115834,
-                        32.39073
-                  ]
-            },
-            {
-                  "name": "Roundabout",
-                  "text": "Ez a kőből épült körforgalmi emlékmű egy modern városi tájékozódási pont a forgalmas Miszrátában.",
-                  "category": "historical",
-                  "coords": [
-                        15.102782,
-                        32.37675
-                  ]
-            },
-            {
-                  "name": "Smart Technology Company for Protection and Monitoring Systems",
-                  "text": "A Smart Technology Company épülete közelében lévő kilátópontról Miszráta modern üzleti negyedére nyílik rálátás.",
-                  "category": "natural",
-                  "coords": [
-                        15.097305,
-                        32.378596
-                  ]
-            },
-            {
-                  "name": "Historical Museum",
-                  "text": "A Miszrátai Történeti Múzeum a város és a központi mecset környékének kulturális tárgyi emlékeit őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        15.090913,
-                        32.375029
-                  ]
-            },
             {
                   "name": "Gadah roundabout",
                   "text": "A Gadah körforgalom emlékműve a miszrátai modern úthálózat egyik felismerhető tájékozódási pontja.",
@@ -1671,42 +1599,6 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Home",
-                  "text": "Această atracție urbană este situată în vecinătatea imediată a moscheii centrale din Misrata.",
-                  "category": "landmark",
-                  "coords": [
-                        15.115834,
-                        32.39073
-                  ]
-            },
-            {
-                  "name": "Roundabout",
-                  "text": "Monumentul de piatră din sensul giratoriu este un reper urban central pe străzile aglomerate din Misrata.",
-                  "category": "historical",
-                  "coords": [
-                        15.102782,
-                        32.37675
-                  ]
-            },
-            {
-                  "name": "Smart Technology Company for Protection and Monitoring Systems",
-                  "text": "Punctul de belvedere de lângă Smart Technology Company oferă o panoramă a clădirilor de afaceri din Misrata.",
-                  "category": "natural",
-                  "coords": [
-                        15.097305,
-                        32.378596
-                  ]
-            },
-            {
-                  "name": "Historical Museum",
-                  "text": "Muzeul Istoric din zona centrală a Misratei păstrează artefacte semnificative privind moștenirea urbană locală.",
-                  "category": "museum",
-                  "coords": [
-                        15.090913,
-                        32.375029
-                  ]
-            },
-            {
                   "name": "Gadah roundabout",
                   "text": "Monumentul din sensul giratoriu Gadah este un punct de reper arhitectural pe bulevardele din Misrata.",
                   "category": "historical",
@@ -1762,42 +1654,6 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Home",
-                  "text": "This urban attraction is located in the immediate neighborhood surrounding the central mosque of Misrata.",
-                  "category": "landmark",
-                  "coords": [
-                        15.115834,
-                        32.39073
-                  ]
-            },
-            {
-                  "name": "Roundabout",
-                  "text": "The stone roundabout monument serves as a central urban landmark amidst the busy traffic of Misrata.",
-                  "category": "historical",
-                  "coords": [
-                        15.102782,
-                        32.37675
-                  ]
-            },
-            {
-                  "name": "Smart Technology Company for Protection and Monitoring Systems",
-                  "text": "The viewpoint near the Smart Technology Company offers a look at the modern commercial district of Misrata.",
-                  "category": "natural",
-                  "coords": [
-                        15.097305,
-                        32.378596
-                  ]
-            },
-            {
-                  "name": "Historical Museum",
-                  "text": "The Historical Museum in central Misrata preserves significant artifacts detailing the city's civic and cultural history.",
-                  "category": "museum",
-                  "coords": [
-                        15.090913,
-                        32.375029
-                  ]
-            },
             {
                   "name": "Gadah roundabout",
                   "text": "The Gadah roundabout monument is a noticeable architectural traffic landmark in the streets of Misrata.",
@@ -2320,15 +2176,6 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
                         14.425212,
                         27.042633
                   ]
-            },
-            {
-                  "name": "Old Town",
-                  "text": "Die Altstadt beherbergt die Ruinen der ursprünglichen historischen Siedlung in Sabha.",
-                  "category": "historical",
-                  "coords": [
-                        14.41349,
-                        27.0499
-                  ]
             }
       ],
       "hu": [
@@ -2339,15 +2186,6 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
                   "coords": [
                         14.425212,
                         27.042633
-                  ]
-            },
-            {
-                  "name": "Old Town",
-                  "text": "Az óvárosban találhatók Sabha eredeti történelmi településének romjai.",
-                  "category": "historical",
-                  "coords": [
-                        14.41349,
-                        27.0499
                   ]
             }
       ],
@@ -2360,15 +2198,6 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
                         14.425212,
                         27.042633
                   ]
-            },
-            {
-                  "name": "Old Town",
-                  "text": "Orașul Vechi prezintă ruinele așezării istorice originale din Sabha.",
-                  "category": "historical",
-                  "coords": [
-                        14.41349,
-                        27.0499
-                  ]
             }
       ],
       "en": [
@@ -2379,15 +2208,6 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
                   "coords": [
                         14.425212,
                         27.042633
-                  ]
-            },
-            {
-                  "name": "Old Town",
-                  "text": "The Old Town features the ruins of the original historical settlement in Sabha.",
-                  "category": "historical",
-                  "coords": [
-                        14.41349,
-                        27.0499
                   ]
             }
       ]
@@ -2945,15 +2765,6 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
     id: "al-baida-grand-mosque-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Al Ghariqa Bridge",
-                  "text": "Diese Brücke in Al Bayda dient als markanter Aussichtspunkt über die umliegende Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        21.765412,
-                        32.753964
-                  ]
-            },
-            {
                   "name": "Dove Bridge",
                   "text": "Dieser lokal als Taubenbrücke bekannte Ort in Al Bayda bietet malerische Ausblicke auf die städtische Umgebung.",
                   "category": "natural",
@@ -2991,15 +2802,6 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Al Ghariqa Bridge",
-                  "text": "Ez az Al Bayda-i híd kiemelkedő kilátópontként szolgál a környező tájra.",
-                  "category": "natural",
-                  "coords": [
-                        21.765412,
-                        32.753964
-                  ]
-            },
             {
                   "name": "Dove Bridge",
                   "text": "A helyiek által Galamb-hídként ismert al-bayda-i helyszín festői kilátást nyújt a városi környezetre.",
@@ -3039,15 +2841,6 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Al Ghariqa Bridge",
-                  "text": "Acest pod din Al Bayda servește drept un punct de observație proeminent asupra peisajului înconjurător.",
-                  "category": "natural",
-                  "coords": [
-                        21.765412,
-                        32.753964
-                  ]
-            },
-            {
                   "name": "Dove Bridge",
                   "text": "Cunoscut local sub numele de Podul Porumbeilor, acest loc din Al Bayda oferă vederi pitorești asupra mediului urban.",
                   "category": "natural",
@@ -3085,15 +2878,6 @@ export const poiExtraLibyaLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Al Ghariqa Bridge",
-                  "text": "This bridge in Al Bayda serves as a prominent viewpoint over the surrounding landscape.",
-                  "category": "natural",
-                  "coords": [
-                        21.765412,
-                        32.753964
-                  ]
-            },
             {
                   "name": "Dove Bridge",
                   "text": "Known locally as Dove Bridge, this spot in Al Bayda offers scenic views of the urban environment.",

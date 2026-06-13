@@ -413,24 +413,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rotary Club of Sekondi-Takoradi",
-                  "text": "Rotary Club of Sekondi-Takoradi, eine traditionsreiche Serviceorganisation mit Sitz in Takoradi.",
-                  "category": "historical",
-                  "coords": [
-                        -1.753293,
-                        4.909261
-                  ]
-            },
-            {
-                  "name": "Cheep cigarettes",
-                  "text": "Cheep cigarettes in Takoradi, ein kleiner Laden, der günstige Zigaretten verkauft.",
-                  "category": "landmark",
-                  "coords": [
-                        -1.765365,
-                        4.901318
-                  ]
-            },
-            {
                   "name": "Africa Beach",
                   "text": "Am Rand der pulsierenden Stadt Takoradi gelegen, dient der Africa Beach als friedliche Küstenoase mit Resort-Atmosphäre. Die sandige Umgebung ermutigt Besucher zu gemütlichen Spaziergängen oder zur Abkühlung in den Wellen des Ozeans. Er bietet eine malerische Kulisse, die das Wesen der ghanaischen Küste wunderschön einfängt. Es lohnt sich, eine Kamera mitzubringen, um die weiten Blicke über das Meer festzuhalten.",
                   "category": "recreational",
@@ -457,24 +439,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
                   "coords": [
                         -1.751492,
                         4.878978
-                  ]
-            },
-            {
-                  "name": "Rotary Club of Sekondi-Takoradi",
-                  "text": "Rotary Club of Sekondi-Takoradi, egy hagyományos szolgáltató szervezet Takoradiban.",
-                  "category": "historical",
-                  "coords": [
-                        -1.753293,
-                        4.909261
-                  ]
-            },
-            {
-                  "name": "Cheep cigarettes",
-                  "text": "Cheep cigarettes Takoradiban, egy kis bolt, ahol olcsó cigarettákat árulnak.",
-                  "category": "landmark",
-                  "coords": [
-                        -1.765365,
-                        4.901318
                   ]
             },
             {
@@ -507,24 +471,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rotary Club of Sekondi-Takoradi",
-                  "text": "Rotary Club of Sekondi-Takoradi, o organizație de servicii cu tradiție în Takoradi.",
-                  "category": "historical",
-                  "coords": [
-                        -1.753293,
-                        4.909261
-                  ]
-            },
-            {
-                  "name": "Cheep cigarettes",
-                  "text": "Cheep cigarettes în Takoradi, un mic magazin care vinde țigări ieftine.",
-                  "category": "landmark",
-                  "coords": [
-                        -1.765365,
-                        4.901318
-                  ]
-            },
-            {
                   "name": "Africa Beach",
                   "text": "Mărginită de orașul vibrant Takoradi, plaja Africa Beach servește ca un refugiu pașnic de coastă într-o atmosferă de stațiune. Mediul nisipos încurajează vizitatorii să facă plimbări plăcute sau să se răcorească în valurile oceanului. Oferă un fundal pitoresc care surprinde frumos esența coastei ghaneze. Aducerea unei camere foto este o idee excelentă pentru a surprinde priveliștile ample ale oceanului.",
                   "category": "recreational",
@@ -551,24 +497,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
                   "coords": [
                         -1.751492,
                         4.878978
-                  ]
-            },
-            {
-                  "name": "Rotary Club of Sekondi-Takoradi",
-                  "text": "Rotary Club of Sekondi-Takoradi, a long-standing service organization based in Takoradi.",
-                  "category": "historical",
-                  "coords": [
-                        -1.753293,
-                        4.909261
-                  ]
-            },
-            {
-                  "name": "Cheep cigarettes",
-                  "text": "Cheep cigarettes in Takoradi, a small shop selling cheap cigarettes.",
-                  "category": "landmark",
-                  "coords": [
-                        -1.765365,
-                        4.901318
                   ]
             },
             {
@@ -816,42 +744,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
                         -1.240974,
                         5.103687
                   ]
-            },
-            {
-                  "name": "Fort William Lighthouse",
-                  "text": "Das Fort William Lighthouse ist eine Burg in Cape Coast. Es ist ein historischer Leuchtturm auf einem Hügel.",
-                  "category": "castle",
-                  "coords": [
-                        -1.244273,
-                        5.107985
-                  ]
-            },
-            {
-                  "name": "Fort Victoria",
-                  "text": "Fort Victoria in Cape Coast, eine historische britische Festung aus dem 18. Jahrhundert an der Küste.",
-                  "category": "castle",
-                  "coords": [
-                        -1.249154,
-                        5.106795
-                  ]
-            },
-            {
-                  "name": "Asasse Pa Resort - Resort, Restaurant & Spa",
-                  "text": "Asasse Pa Resort in Cape Coast, ein Resort mit Restaurant, Spa und Pool.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.254584,
-                        5.102367
-                  ]
-            },
-            {
-                  "name": "Crab",
-                  "text": "Crab in Cape Coast, ein historisches Gebäude mit Bedeutung für den lokalen Handel.",
-                  "category": "historical",
-                  "coords": [
-                        -1.24236,
-                        5.109099
-                  ]
             }
       ],
       "hu": [
@@ -862,42 +754,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
                   "coords": [
                         -1.240974,
                         5.103687
-                  ]
-            },
-            {
-                  "name": "Fort William Lighthouse",
-                  "text": "A Fort William Lighthouse egy vár Cape Coast városában. Ez egy történelmi világítótorony egy dombon.",
-                  "category": "castle",
-                  "coords": [
-                        -1.244273,
-                        5.107985
-                  ]
-            },
-            {
-                  "name": "Fort Victoria",
-                  "text": "Fort Victoria Cape Coastban, egy történelmi brit erőd a 18. századból a parton.",
-                  "category": "castle",
-                  "coords": [
-                        -1.249154,
-                        5.106795
-                  ]
-            },
-            {
-                  "name": "Asasse Pa Resort - Resort, Restaurant & Spa",
-                  "text": "Asasse Pa Resort Cape Coastban, egy üdülőhely étteremmel, spával és medencével.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.254584,
-                        5.102367
-                  ]
-            },
-            {
-                  "name": "Crab",
-                  "text": "Crab Cape Coastban, egy történelmi épület, amely fontos a helyi kereskedelem szempontjából.",
-                  "category": "historical",
-                  "coords": [
-                        -1.24236,
-                        5.109099
                   ]
             }
       ],
@@ -910,42 +766,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
                         -1.240974,
                         5.103687
                   ]
-            },
-            {
-                  "name": "Fort William Lighthouse",
-                  "text": "Fort William Lighthouse este un castel situat în Cape Coast. Este un far istoric construit pe un deal.",
-                  "category": "castle",
-                  "coords": [
-                        -1.244273,
-                        5.107985
-                  ]
-            },
-            {
-                  "name": "Fort Victoria",
-                  "text": "Fort Victoria în Cape Coast, o fortăreață istorică britanică din secolul al XVIII-lea pe coastă.",
-                  "category": "castle",
-                  "coords": [
-                        -1.249154,
-                        5.106795
-                  ]
-            },
-            {
-                  "name": "Asasse Pa Resort - Resort, Restaurant & Spa",
-                  "text": "Asasse Pa Resort în Cape Coast, o stațiune cu restaurant, spa și piscină.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.254584,
-                        5.102367
-                  ]
-            },
-            {
-                  "name": "Crab",
-                  "text": "Crab în Cape Coast, o clădire istorică cu importanță pentru comerțul local.",
-                  "category": "historical",
-                  "coords": [
-                        -1.24236,
-                        5.109099
-                  ]
             }
       ],
       "en": [
@@ -956,42 +776,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
                   "coords": [
                         -1.240974,
                         5.103687
-                  ]
-            },
-            {
-                  "name": "Fort William Lighthouse",
-                  "text": "Fort William Lighthouse is a castle located in Cape Coast. It is a historic lighthouse built on a hill.",
-                  "category": "castle",
-                  "coords": [
-                        -1.244273,
-                        5.107985
-                  ]
-            },
-            {
-                  "name": "Fort Victoria",
-                  "text": "Fort Victoria in Cape Coast, a historic British fort from the 18th century on the coast.",
-                  "category": "castle",
-                  "coords": [
-                        -1.249154,
-                        5.106795
-                  ]
-            },
-            {
-                  "name": "Asasse Pa Resort - Resort, Restaurant & Spa",
-                  "text": "Asasse Pa Resort in Cape Coast, a resort with restaurant, spa and pool.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.254584,
-                        5.102367
-                  ]
-            },
-            {
-                  "name": "Crab",
-                  "text": "Crab in Cape Coast, a historic building significant for local trade.",
-                  "category": "historical",
-                  "coords": [
-                        -1.24236,
-                        5.109099
                   ]
             }
       ]
@@ -1194,15 +978,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
                         -0.186795,
                         5.675878
                   ]
-            },
-            {
-                  "name": "Museum of Archaelogy",
-                  "text": "Museum of Archaeology in Madina, zeigt Funde aus der Region wie Keramik und Werkzeuge.",
-                  "category": "museum",
-                  "coords": [
-                        -0.181082,
-                        5.651968
-                  ]
             }
       ],
       "hu": [
@@ -1213,15 +988,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
                   "coords": [
                         -0.186795,
                         5.675878
-                  ]
-            },
-            {
-                  "name": "Museum of Archaelogy",
-                  "text": "Régészeti Múzeum Madinában, a régió leleteit mutatja be, mint kerámiák és eszközök.",
-                  "category": "museum",
-                  "coords": [
-                        -0.181082,
-                        5.651968
                   ]
             }
       ],
@@ -1234,15 +1000,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
                         -0.186795,
                         5.675878
                   ]
-            },
-            {
-                  "name": "Museum of Archaelogy",
-                  "text": "Muzeul de Arheologie din Madina, expune descoperiri din regiune, precum ceramică și unelte.",
-                  "category": "museum",
-                  "coords": [
-                        -0.181082,
-                        5.651968
-                  ]
             }
       ],
       "en": [
@@ -1253,15 +1010,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
                   "coords": [
                         -0.186795,
                         5.675878
-                  ]
-            },
-            {
-                  "name": "Museum of Archaelogy",
-                  "text": "Museum of Archaeology in Madina, displaying regional finds like pottery and tools.",
-                  "category": "museum",
-                  "coords": [
-                        -0.181082,
-                        5.651968
                   ]
             }
       ]
@@ -1545,15 +1293,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
                         -0.056665,
                         5.607437
                   ]
-            },
-            {
-                  "name": "Drums N Barrels Resort",
-                  "text": "Drums N Barrels Resort in Nungua, ein Strandresort mit Unterkünften und Restaurant.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.089152,
-                        5.585328
-                  ]
             }
       ],
       "hu": [
@@ -1564,15 +1303,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
                   "coords": [
                         -0.056665,
                         5.607437
-                  ]
-            },
-            {
-                  "name": "Drums N Barrels Resort",
-                  "text": "Drums N Barrels Resort Nunguában, egy tengerparti üdülőhely szálláslehetőségekkel és étteremmel.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.089152,
-                        5.585328
                   ]
             }
       ],
@@ -1585,15 +1315,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
                         -0.056665,
                         5.607437
                   ]
-            },
-            {
-                  "name": "Drums N Barrels Resort",
-                  "text": "Drums N Barrels Resort în Nungua, o stațiune pe plajă cu cazare și restaurant.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.089152,
-                        5.585328
-                  ]
             }
       ],
       "en": [
@@ -1604,15 +1325,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
                   "coords": [
                         -0.056665,
                         5.607437
-                  ]
-            },
-            {
-                  "name": "Drums N Barrels Resort",
-                  "text": "Drums N Barrels Resort in Nungua, a beach resort with accommodation and restaurant.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.089152,
-                        5.585328
                   ]
             }
       ]
@@ -1653,86 +1365,10 @@ export const poiExtraGhanaCitiesV2: POI[] = [
   },
   {
     id: "tema-new-town-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Valco Employees Recreation Area (VERA)",
-                  "text": "Valco Employees Recreation Area (VERA) in New Town, ein Erholungsgebiet für Mitarbeiter mit Sportplätzen und Grillstationen.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.005595,
-                        5.656316
-                  ]
-            },
-            {
-                  "name": "Greenwich Meridian Monument at Presbitarian Church",
-                  "text": "Greenwich-Meridian-Denkmal an der Presbyterianischen Kirche in Tema New Town.",
-                  "category": "landmark",
-                  "coords": [
-                        0.000891,
-                        5.642876
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Valco Employees Recreation Area (VERA)",
-                  "text": "Valco Dolgozói Pihenőövezet (VERA) New Townban, egy rekreációs terület sportpályákkal és grillezőhelyekkel.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.005595,
-                        5.656316
-                  ]
-            },
-            {
-                  "name": "Greenwich Meridian Monument at Presbitarian Church",
-                  "text": "Greenwichi délkör-emlékmű a presbiteriánus templomnál, Tema New Town.",
-                  "category": "landmark",
-                  "coords": [
-                        0.000891,
-                        5.642876
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Valco Employees Recreation Area (VERA)",
-                  "text": "Zona de Recreere pentru Angajații Valco (VERA) în New Town, o zonă de agrement cu terenuri de sport și grătare.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.005595,
-                        5.656316
-                  ]
-            },
-            {
-                  "name": "Greenwich Meridian Monument at Presbitarian Church",
-                  "text": "Monumentul Meridianului Greenwich la Biserica Prezbiteriană din Tema New Town.",
-                  "category": "landmark",
-                  "coords": [
-                        0.000891,
-                        5.642876
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Valco Employees Recreation Area (VERA)",
-                  "text": "Valco Employees Recreation Area (VERA) in New Town, a staff leisure area with sports fields and BBQ spots.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.005595,
-                        5.656316
-                  ]
-            },
-            {
-                  "name": "Greenwich Meridian Monument at Presbitarian Church",
-                  "text": "Greenwich Meridian monument at the Presbyterian Church in Tema New Town.",
-                  "category": "landmark",
-                  "coords": [
-                        0.000891,
-                        5.642876
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "GH-AA",
@@ -2078,24 +1714,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
     id: "bolgatanga-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Upper East Regional Museum",
-                  "text": "Upper East Regional Museum in Bolgatanga, zeigt die materielle Kultur der Region, wie traditionelle Textilien und Masken.",
-                  "category": "museum",
-                  "coords": [
-                        -0.856017,
-                        10.794314
-                  ]
-            },
-            {
-                  "name": "Art Center",
-                  "text": "Art Center in Bolgatanga, ein Zentrum für lokale Kunst mit Gemälden, Skulpturen und Batikarbeiten.",
-                  "category": "cultural",
-                  "coords": [
-                        -0.854217,
-                        10.795094
-                  ]
-            },
-            {
                   "name": "Shiloh Temple - Christ Frontiers Mission International",
                   "text": "Christliche Kirche in Bolgatanga, Teil der Christ Frontiers Mission International.",
                   "category": "religious",
@@ -2106,24 +1724,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Upper East Regional Museum",
-                  "text": "Felső-Keleti Regionális Múzeum Bolgatanga-ban, bemutatja a régió anyagi kultúráját, mint hagyományos textíliák és maszkok.",
-                  "category": "museum",
-                  "coords": [
-                        -0.856017,
-                        10.794314
-                  ]
-            },
-            {
-                  "name": "Art Center",
-                  "text": "Művészeti Központ Bolgatanga-ban, egy helyi művészeti központ festményekkel, szobrokkal és batikolt alkotásokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        -0.854217,
-                        10.795094
-                  ]
-            },
             {
                   "name": "Shiloh Temple - Christ Frontiers Mission International",
                   "text": "Keresztény templom Bolgatanga városában, a Christ Frontiers Mission International része.",
@@ -2136,24 +1736,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Upper East Regional Museum",
-                  "text": "Muzeul Regional Upper East din Bolgatanga, expune cultura materială a regiunii, precum textile tradiționale și măști.",
-                  "category": "museum",
-                  "coords": [
-                        -0.856017,
-                        10.794314
-                  ]
-            },
-            {
-                  "name": "Art Center",
-                  "text": "Centrul de Artă din Bolgatanga, un centru de artă locală cu picturi, sculpturi și lucrări batik.",
-                  "category": "cultural",
-                  "coords": [
-                        -0.854217,
-                        10.795094
-                  ]
-            },
-            {
                   "name": "Shiloh Temple - Christ Frontiers Mission International",
                   "text": "Biserică creștină în Bolgatanga, parte a Christ Frontiers Mission International.",
                   "category": "religious",
@@ -2164,24 +1746,6 @@ export const poiExtraGhanaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Upper East Regional Museum",
-                  "text": "Upper East Regional Museum in Bolgatanga, showcasing the region's material culture, including traditional textiles and masks.",
-                  "category": "museum",
-                  "coords": [
-                        -0.856017,
-                        10.794314
-                  ]
-            },
-            {
-                  "name": "Art Center",
-                  "text": "Art Center in Bolgatanga, a local art centre with paintings, sculptures and batik works.",
-                  "category": "cultural",
-                  "coords": [
-                        -0.854217,
-                        10.795094
-                  ]
-            },
             {
                   "name": "Shiloh Temple - Christ Frontiers Mission International",
                   "text": "Christian church in Bolgatanga, part of Christ Frontiers Mission International.",
@@ -2310,86 +1874,10 @@ export const poiExtraGhanaCitiesV2: POI[] = [
   },
   {
     id: "taifa-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Accra Brewery Limited",
-                  "text": "Accra Brewery Limited ist eine bedeutende ghanaische Brauerei in Taifa, bekannt für die Herstellung von Club Bier.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.235134,
-                        5.632775
-                  ]
-            },
-            {
-                  "name": "Guinness Ghana Brewery",
-                  "text": "Die Guinness Ghana Brewery ist eine Sehenswürdigkeit in Taifa. Es ist ein führendes Getränkeunternehmen in Ghana.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.235782,
-                        5.631866
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Accra Brewery Limited",
-                  "text": "Az Accra Brewery Limited egy jelentős ghánai sörfőzde Taifában, híres a Club sör gyártásáról.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.235134,
-                        5.632775
-                  ]
-            },
-            {
-                  "name": "Guinness Ghana Brewery",
-                  "text": "A Guinness Ghana Brewery egy látványosság Taifa városában. Ez egy vezető italgyártó vállalat Ghánában.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.235782,
-                        5.631866
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Accra Brewery Limited",
-                  "text": "Accra Brewery Limited este o importantă fabrică de bere din Ghana, în Taifa, cunoscută pentru producerea berii Club.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.235134,
-                        5.632775
-                  ]
-            },
-            {
-                  "name": "Guinness Ghana Brewery",
-                  "text": "Guinness Ghana Brewery este o atracție situată în Taifa. Este o companie de frunte în domeniul băuturilor din Ghana.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.235782,
-                        5.631866
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Accra Brewery Limited",
-                  "text": "Accra Brewery Limited is a major Ghanaian brewery in Taifa, known for producing Club beer.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.235134,
-                        5.632775
-                  ]
-            },
-            {
-                  "name": "Guinness Ghana Brewery",
-                  "text": "Guinness Ghana Brewery is an attraction located in Taifa. It is a leading beverage business in Ghana.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.235782,
-                        5.631866
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "GH-AA",
@@ -2724,50 +2212,10 @@ export const poiExtraGhanaCitiesV2: POI[] = [
   },
   {
     id: "tafo-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Statue of Otumfuo Opoku Ware II",
-                  "text": "Statue von Otumfuo Opoku Ware II in Tafo, dem 14. Asantehene, auf einem Sockel im Stadtzentrum.",
-                  "category": "historical",
-                  "coords": [
-                        -1.627865,
-                        6.711232
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Statue of Otumfuo Opoku Ware II",
-                  "text": "Otumfuo Opoku Ware II szobra Tafóban, a 14. asantehene szobra egy talapzaton a városközpontban.",
-                  "category": "historical",
-                  "coords": [
-                        -1.627865,
-                        6.711232
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Statue of Otumfuo Opoku Ware II",
-                  "text": "Statuia lui Otumfuo Opoku Ware II din Tafo, al 14-lea Asantehene, pe un soclu în centrul orașului.",
-                  "category": "historical",
-                  "coords": [
-                        -1.627865,
-                        6.711232
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Statue of Otumfuo Opoku Ware II",
-                  "text": "Statue of Otumfuo Opoku Ware II in Tafo, the 14th Asantehene, on a plinth in the town centre.",
-                  "category": "historical",
-                  "coords": [
-                        -1.627865,
-                        6.711232
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "GH-AH",
@@ -2841,86 +2289,10 @@ export const poiExtraGhanaCitiesV2: POI[] = [
   },
   {
     id: "tarkwa-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Wassa Fiase Traditional Council",
-                  "text": "Das traditionelle Schloss des Wassa Fiase Rates in Tarkwa dient als Sitz der lokalen traditionellen Autorität.",
-                  "category": "castle",
-                  "coords": [
-                        -1.98921,
-                        5.29744
-                  ]
-            },
-            {
-                  "name": "TNA Park",
-                  "text": "Der TNA Park ist ein Fußballstadion in Tarkwa, Ghana, Heimstätte des Tarkwa United FC.",
-                  "category": "park",
-                  "coords": [
-                        -1.992364,
-                        5.300967
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Wassa Fiase Traditional Council",
-                  "text": "A Wassa Fiase Hagyományos Tanács vára Tarkwában a helyi hagyományos hatalom székhelye.",
-                  "category": "castle",
-                  "coords": [
-                        -1.98921,
-                        5.29744
-                  ]
-            },
-            {
-                  "name": "TNA Park",
-                  "text": "A TNA Park egy labdarúgó-stadion Tarkwában, Ghánában, a Tarkwa United FC otthona.",
-                  "category": "park",
-                  "coords": [
-                        -1.992364,
-                        5.300967
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Wassa Fiase Traditional Council",
-                  "text": "Castelul tradițional al Consiliului Wassa Fiase din Tarkwa servește ca sediu al autorității tradiționale locale.",
-                  "category": "castle",
-                  "coords": [
-                        -1.98921,
-                        5.29744
-                  ]
-            },
-            {
-                  "name": "TNA Park",
-                  "text": "TNA Park este un stadion de fotbal în Tarkwa, Ghana, stadionul echipei Tarkwa United FC.",
-                  "category": "park",
-                  "coords": [
-                        -1.992364,
-                        5.300967
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Wassa Fiase Traditional Council",
-                  "text": "The Wassa Fiase Traditional Council castle in Tarkwa serves as the seat of the local traditional authority.",
-                  "category": "castle",
-                  "coords": [
-                        -1.98921,
-                        5.29744
-                  ]
-            },
-            {
-                  "name": "TNA Park",
-                  "text": "TNA Park is a football stadium in Tarkwa, Ghana, home to Tarkwa United FC.",
-                  "category": "park",
-                  "coords": [
-                        -1.992364,
-                        5.300967
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "GH-WP",
@@ -3417,122 +2789,10 @@ export const poiExtraGhanaCitiesV2: POI[] = [
   },
   {
     id: "effiakuma-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Hazard Monument",
-                  "text": "Das Hazard-Denkmal in Effiakuma erinnert an ein historisches Ereignis in der Region.",
-                  "category": "historical",
-                  "coords": [
-                        -1.742768,
-                        4.920127
-                  ]
-            },
-            {
-                  "name": "Rotary Club of Sekondi-Takoradi",
-                  "text": "Der Rotary Club von Sekondi-Takoradi hat seinen historischen Treffpunkt in Effiakuma.",
-                  "category": "historical",
-                  "coords": [
-                        -1.753293,
-                        4.909261
-                  ]
-            },
-            {
-                  "name": "Cheep cigarettes",
-                  "text": "Das Wahrzeichen „Cheep Cigarettes“ in Effiakuma ist ein bekannter lokaler Laden.",
-                  "category": "landmark",
-                  "coords": [
-                        -1.765365,
-                        4.901318
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Hazard Monument",
-                  "text": "A Hazard-emlékmű Effiakumában a régió egy történelmi eseményére emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        -1.742768,
-                        4.920127
-                  ]
-            },
-            {
-                  "name": "Rotary Club of Sekondi-Takoradi",
-                  "text": "A Sekondi-Takoradi Rotary Club történelmi találkozóhelye Effiakumában található.",
-                  "category": "historical",
-                  "coords": [
-                        -1.753293,
-                        4.909261
-                  ]
-            },
-            {
-                  "name": "Cheep cigarettes",
-                  "text": "A „Cheep Cigarettes” nevezetesség Effiakumában egy ismert helyi bolt.",
-                  "category": "landmark",
-                  "coords": [
-                        -1.765365,
-                        4.901318
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Hazard Monument",
-                  "text": "Monumentul Hazard din Effiakuma comemorează un eveniment istoric din regiune.",
-                  "category": "historical",
-                  "coords": [
-                        -1.742768,
-                        4.920127
-                  ]
-            },
-            {
-                  "name": "Rotary Club of Sekondi-Takoradi",
-                  "text": "Clubul Rotary din Sekondi-Takoradi își are locul de întâlnire istoric în Effiakuma.",
-                  "category": "historical",
-                  "coords": [
-                        -1.753293,
-                        4.909261
-                  ]
-            },
-            {
-                  "name": "Cheep cigarettes",
-                  "text": "Reperul „Cheep Cigarettes” din Effiakuma este un magazin local cunoscut.",
-                  "category": "landmark",
-                  "coords": [
-                        -1.765365,
-                        4.901318
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Hazard Monument",
-                  "text": "The Hazard Monument in Effiakuma commemorates a historical event in the region.",
-                  "category": "historical",
-                  "coords": [
-                        -1.742768,
-                        4.920127
-                  ]
-            },
-            {
-                  "name": "Rotary Club of Sekondi-Takoradi",
-                  "text": "The Rotary Club of Sekondi-Takoradi has its historic meeting place in Effiakuma.",
-                  "category": "historical",
-                  "coords": [
-                        -1.753293,
-                        4.909261
-                  ]
-            },
-            {
-                  "name": "Cheep cigarettes",
-                  "text": "The 'Cheep Cigarettes' landmark in Effiakuma is a well-known local shop.",
-                  "category": "landmark",
-                  "coords": [
-                        -1.765365,
-                        4.901318
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "GH-WP",
@@ -4029,50 +3289,10 @@ export const poiExtraGhanaCitiesV2: POI[] = [
   },
   {
     id: "apam-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Fort Patience",
-                  "text": "Fort Patience in Apam ist eine niederländische Festung aus dem 17. Jahrhundert an der Küste Ghanas (UNESCO-Weltkulturerbe).",
-                  "category": "castle",
-                  "coords": [
-                        -0.728116,
-                        5.286162
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Fort Patience",
-                  "text": "Az Apam-i Fort Patience egy 17. századi holland erőd a ghánai parton (UNESCO Világörökség).",
-                  "category": "castle",
-                  "coords": [
-                        -0.728116,
-                        5.286162
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Fort Patience",
-                  "text": "Fort Patience din Apam este o fortăreață olandeză din secolul al XVII-lea pe coasta ghaneză, Patrimoniu UNESCO.",
-                  "category": "castle",
-                  "coords": [
-                        -0.728116,
-                        5.286162
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Fort Patience",
-                  "text": "Fort Patience in Apam is a 17th-century Dutch fort on the Ghanaian coast, a UNESCO World Heritage site.",
-                  "category": "castle",
-                  "coords": [
-                        -0.728116,
-                        5.286162
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "GH-CP",

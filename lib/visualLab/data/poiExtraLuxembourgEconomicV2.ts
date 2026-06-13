@@ -6,201 +6,12 @@ export const luxembourgEconomicV2: POI[] = [
     id: "luxembourg-kirchberg-district-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Musée Dräi Eechelen",
-                  "text": "Ein im restaurierten Fort Thüngen untergebrachtes Museum zur Geschichte der Festung Luxemburg.",
-                  "category": "museum",
-                  "coords": [
-                        6.139297,
-                        49.616395
-                  ]
-            },
-            {
-                  "name": "Casino Luxembourg - Forum d'art contemporain",
-                  "text": "Ein Museum für zeitgenössische Kunst und ein Kulturzentrum in der Stadt Luxemburg.",
-                  "category": "museum",
-                  "coords": [
-                        6.127167,
-                        49.609782
-                  ]
-            },
-            {
-                  "name": "Großherzogliches Palais",
-                  "text": "Die offizielle Residenz des Großherzogs von Luxemburg in der Hauptstadt.",
-                  "category": "castle",
-                  "coords": [
-                        6.132913,
-                        49.610988
-                  ]
-            },
-            {
-                  "name": "Musée national d'histoire naturelle",
-                  "text": "Ein Museum mit Sammlungen zu Zoologie, Botanik, Paläontologie und Geologie.",
-                  "category": "museum",
-                  "coords": [
-                        6.135605,
-                        49.609699
-                  ]
-            },
-            {
-                  "name": "Lëtzebuerg City Museum",
-                  "text": "In der Nähe des Kirchberg Financial District befindet sich das renommierte Lëtzebuerg City Museum. Die Ausstellungen in diesem Haus dokumentieren detailliert die vielschichtige Geschichte und Entwicklung der Stadt Luxemburg.",
-                  "category": "museum",
-                  "coords": [
-                        6.133629,
-                        49.609966
-                  ]
-            },
-            {
-                  "name": "Villa Vauban",
-                  "text": "Ein Kunstmuseum in einer historischen Villa mit europäischen Gemälden und Skulpturen.",
-                  "category": "museum",
-                  "coords": [
-                        6.122488,
-                        49.613107
-                  ]
-            },
-            {
-                  "name": "Botschaft von Russland",
-                  "text": "Die diplomatische Vertretung Russlands, untergebracht in einem historischen Gebäude in Luxemburg-Stadt.",
-                  "category": "castle",
-                  "coords": [
-                        6.13776,
-                        49.64337
-                  ]
-            },
-            {
-                  "name": "Fort Dumoulin",
-                  "text": "Teil der historischen Befestigungsanlagen der Festung Luxemburg.",
-                  "category": "fortress",
-                  "coords": [
-                        6.150797,
-                        49.613166
-                  ]
-            },
-            {
-                  "name": "Fort Parkhöhe",
-                  "text": "Ein ehemaliges Verteidigungsfort, das zur Festung Luxemburg gehörte.",
-                  "category": "fortress",
-                  "coords": [
-                        6.146439,
-                        49.616795
-                  ]
-            },
-            {
-                  "name": "Fort Olizy",
-                  "text": "Ein Festungsbauwerk auf dem Kirchberg-Plateau.",
-                  "category": "fortress",
-                  "coords": [
-                        6.136778,
-                        49.618734
-                  ]
-            },
-            {
-                  "name": "Fort Niedergrünewald",
-                  "text": "Eines der äußeren Forts des Verteidigungssystems der Stadt Luxemburg.",
-                  "category": "fortress",
-                  "coords": [
-                        6.133855,
-                        49.616302
-                  ]
-            },
-            {
-                  "name": "Fort Rumigny",
-                  "text": "Ein historisches Fort, das Teil des umfangreichen Verteidigungsnetzes der Stadt war.",
-                  "category": "fortress",
-                  "coords": [
-                        6.145647,
-                        49.611154
-                  ]
-            },
-            {
-                  "name": "Fort Rubamprez",
-                  "text": "Ein Bestandteil der ehemaligen Befestigungsanlagen auf dem Kirchberg-Plateau.",
-                  "category": "fortress",
-                  "coords": [
-                        6.143118,
-                        49.610606
-                  ]
-            },
-            {
-                  "name": "Mansfeld-Schloss",
-                  "text": "Die archäologischen Überreste des ehemaligen Renaissance-Palastes von Peter Ernst von Mansfeld.",
-                  "category": "historical",
-                  "coords": [
-                        6.1443,
-                        49.615241
-                  ]
-            },
-            {
-                  "name": "Gëlle Fra",
-                  "text": "Das Monument der Erinnerung mit einer vergoldeten Bronzestatue einer Frau.",
-                  "category": "historical",
-                  "coords": [
-                        6.12936,
-                        49.60927
-                  ]
-            },
-            {
-                  "name": "Hôtel de Ville",
-                  "text": "Der Sitz der Stadtverwaltung von Luxemburg am Place Guillaume II.",
-                  "category": "historical",
-                  "coords": [
-                        6.130489,
-                        49.610195
-                  ]
-            },
-            {
-                  "name": "Grand Théâtre de Luxembourg",
-                  "text": "Grand Théâtre de Luxembourg ist das Nationaltheater Luxemburgs im Kirchberg-Viertel.",
-                  "category": "cultural",
-                  "coords": [
-                        6.127874,
-                        49.617779
-                  ]
-            },
-            {
                   "name": "Exaltation-de-la-Sainte-Croix",
                   "text": "Die Pfarrkirche des Stadtteils Hamm in Luxemburg-Stadt.",
                   "category": "religious",
                   "coords": [
                         6.167644,
                         49.610237
-                  ]
-            },
-            {
-                  "name": "Johanneskirche",
-                  "text": "Eine historische Kirche im Stadtteil Grund, Teil des ehemaligen Komplexes der Abtei Neumünster.",
-                  "category": "religious",
-                  "coords": [
-                        6.136186,
-                        49.610627
-                  ]
-            },
-            {
-                  "name": "Liebfrauendom",
-                  "text": "Die römisch-katholische Kathedrale von Luxemburg-Stadt, erbaut im spätgotischen Stil mit Renaissance-Elementen.",
-                  "category": "religious",
-                  "coords": [
-                        6.131589,
-                        49.609602
-                  ]
-            },
-            {
-                  "name": "St.-Michaelskirche",
-                  "text": "Die älteste religiöse Stätte in Luxemburg-Stadt, im historischen Zentrum gelegen.",
-                  "category": "religious",
-                  "coords": [
-                        6.134862,
-                        49.611228
-                  ]
-            },
-            {
-                  "name": "Saint-Joseph",
-                  "text": "Die Pfarrkirche des Stadtteils Limpertsberg in Luxemburg-Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        6.121024,
-                        49.620651
                   ]
             },
             {
@@ -240,129 +51,12 @@ export const luxembourgEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saint-Fiacre",
-                  "text": "Die Pfarrkirche des Stadtteils Mühlenbach in Luxemburg-Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        6.11803,
-                        49.630533
-                  ]
-            },
-            {
-                  "name": "Stadt-Palais",
-                  "text": "Ein Verwaltungsgebäude und Kulturzentrum am Place d'Armes in Luxemburg-Stadt.",
-                  "category": "landmark",
-                  "coords": [
-                        6.130179,
-                        49.611365
-                  ]
-            },
-            {
-                  "name": "Trois Tours",
-                  "text": "Ein historisches Torhaus mit drei Türmen, das einst Teil der zweiten Stadtmauer war.",
-                  "category": "landmark",
-                  "coords": [
-                        6.133358,
-                        49.612531
-                  ]
-            },
-            {
-                  "name": "Dent Creuse",
-                  "text": "Die Ruinen eines Turms der alten Befestigungsanlagen, heute ein Wahrzeichen im Bock-Felsen.",
-                  "category": "landmark",
-                  "coords": [
-                        6.137665,
-                        49.612018
-                  ]
-            },
-            {
                   "name": "Luxembourg American Cemetery and Memorial",
                   "text": "Ein bedeutender US-amerikanischer Militärfriedhof aus dem Zweiten Weltkrieg.",
                   "category": "landmark",
                   "coords": [
                         6.185747,
                         49.611728
-                  ]
-            },
-            {
-                  "name": "Chapelle Saint-Quirin",
-                  "text": "Chapelle Saint-Quirin (Grëinskapell) ist eine barocke Kapelle im Kirchberg-Viertel.",
-                  "category": "landmark",
-                  "coords": [
-                        6.135101,
-                        49.605667
-                  ]
-            },
-            {
-                  "name": "Théiwesbur",
-                  "text": "Ein historischer Brunnen und ehemaliger Waschplatz im Stadtteil Pfaffenthal.",
-                  "category": "landmark",
-                  "coords": [
-                        6.132837,
-                        49.616041
-                  ]
-            },
-            {
-                  "name": "Tour Malakoff",
-                  "text": "Ein historischer Turm, der Teil der ehemaligen Festung Luxemburg war.",
-                  "category": "tower",
-                  "coords": [
-                        6.143994,
-                        49.61673
-                  ]
-            },
-            {
-                  "name": "Großherzogin-Charlotte-Brücke",
-                  "text": "Eine markante rote Stahlbrücke, die das Stadtzentrum mit dem Kirchberg-Plateau verbindet.",
-                  "category": "landmark",
-                  "coords": [
-                        6.131761,
-                        49.617767
-                  ]
-            },
-            {
-                  "name": "Adolphe-Brücke",
-                  "text": "Eine berühmte Steinbogenbrücke und ein Wahrzeichen der Stadt Luxemburg.",
-                  "category": "landmark",
-                  "coords": [
-                        6.126928,
-                        49.608459
-                  ]
-            },
-            {
-                  "name": "Alte Brücke",
-                  "text": "Pont Viaduc (Passerelle) ist eine 255 Meter lange und 45 Meter hohe Brücke, die die Oberstadt mit Kirchberg verbindet.",
-                  "category": "landmark",
-                  "coords": [
-                        6.133566,
-                        49.60591
-                  ]
-            },
-            {
-                  "name": "Viaduc Pulvermühle",
-                  "text": "Ein beeindruckendes Eisenbahnviadukt, das das Alzette-Tal überspannt.",
-                  "category": "landmark",
-                  "coords": [
-                        6.139312,
-                        49.607846
-                  ]
-            },
-            {
-                  "name": "Clausener Viaduc",
-                  "text": "Ein hohes Eisenbahnviadukt im historischen Stadtteil Clausen.",
-                  "category": "landmark",
-                  "coords": [
-                        6.140102,
-                        49.611698
-                  ]
-            },
-            {
-                  "name": "Pafendaller Viaduc",
-                  "text": "Eine bedeutende Eisenbahnbrücke im Stadtteil Pfaffenthal.",
-                  "category": "landmark",
-                  "coords": [
-                        6.138071,
-                        49.613388
                   ]
             },
             {
@@ -381,15 +75,6 @@ export const luxembourgEconomicV2: POI[] = [
                   "coords": [
                         6.130647,
                         49.615592
-                  ]
-            },
-            {
-                  "name": "Fort Wallis",
-                  "text": "Die Überreste eines historischen Forts der ehemaligen Festung Luxemburg.",
-                  "category": "fortress",
-                  "coords": [
-                        6.134458,
-                        49.604048
                   ]
             },
             {
@@ -474,15 +159,6 @@ export const luxembourgEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Étang du Centre de l'Oseraie",
-                  "text": "Der See Étang du Centre de l'Oseraie in Kirchberg Financial District ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
-                  "category": "natural",
-                  "coords": [
-                        6.068476,
-                        49.659244
-                  ]
-            },
-            {
                   "name": "Qanatwasserloch",
                   "text": "Der See Qanatwasserloch in Kirchberg Financial District ist ideal für einen entspannten Spaziergang oder um die Landschaft zu genießen.",
                   "category": "natural",
@@ -510,30 +186,12 @@ export const luxembourgEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tanneurs",
-                  "text": "Der Spielplatz Tanneurs in Kirchberg Financial District bietet eine sichere und unterhaltsame Umgebung für Familienaktivitäten.",
-                  "category": "family",
-                  "coords": [
-                        6.132179,
-                        49.62155
-                  ]
-            },
-            {
                   "name": "Ale Wee",
                   "text": "Der Spielplatz Ale Wee in Kirchberg Financial District bietet eine sichere und unterhaltsame Umgebung für Familienaktivitäten.",
                   "category": "family",
                   "coords": [
                         6.160754,
                         49.621091
-                  ]
-            },
-            {
-                  "name": "Fraternité",
-                  "text": "Der Spielplatz Fraternité in Kirchberg Financial District bietet eine sichere und unterhaltsame Umgebung für Familienaktivitäten.",
-                  "category": "family",
-                  "coords": [
-                        6.143081,
-                        49.601045
                   ]
             },
             {
@@ -609,15 +267,6 @@ export const luxembourgEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscine scolaire",
-                  "text": "Ein öffentlicher Schwimmbereich in Kirchberg Financial District, der sich für Sport und Entspannung eignet.",
-                  "category": "family",
-                  "coords": [
-                        6.115185,
-                        49.621732
-                  ]
-            },
-            {
                   "name": "d'Coque",
                   "text": "Ein öffentlicher Schwimmbereich in Kirchberg Financial District, der sich für Sport und Entspannung eignet.",
                   "category": "family",
@@ -625,171 +274,9 @@ export const luxembourgEconomicV2: POI[] = [
                         6.151855,
                         49.623368
                   ]
-            },
-            {
-                  "name": "Piscine Municipale de Bonnevoie",
-                  "text": "Ein städtisches Hallenbad in Luxemburg, das Bahnen zum Schwimmen und Kurse anbietet.",
-                  "category": "recreational",
-                  "coords": [
-                        6.136472,
-                        49.596257
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Musée Dräi Eechelen",
-                  "text": "A restaurált Fort Thüngenben helyet kapó múzeum, amely Luxemburg erődrendszerének történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        6.139297,
-                        49.616395
-                  ]
-            },
-            {
-                  "name": "Casino Luxembourg - Forum d'art contemporain",
-                  "text": "Kortárs művészeti múzeum és kulturális központ Luxemburg városában.",
-                  "category": "museum",
-                  "coords": [
-                        6.127167,
-                        49.609782
-                  ]
-            },
-            {
-                  "name": "Palais Grand Ducal",
-                  "text": "A luxemburgi nagyherceg hivatalos rezidenciája a fővárosban.",
-                  "category": "castle",
-                  "coords": [
-                        6.132913,
-                        49.610988
-                  ]
-            },
-            {
-                  "name": "Musée national d'histoire naturelle",
-                  "text": "Állattani, növénytani, őslénytani és földtani gyűjteményeket bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        6.135605,
-                        49.609699
-                  ]
-            },
-            {
-                  "name": "Lëtzebuerg City Museum",
-                  "text": "A Kirchberg Financial District közelében található a neves Lëtzebuerg City Museum. Az intézmény kiállításai részletesen dokumentálják Luxemburg városának összetett történelmét és fejlődését.",
-                  "category": "museum",
-                  "coords": [
-                        6.133629,
-                        49.609966
-                  ]
-            },
-            {
-                  "name": "Villa Vauban",
-                  "text": "Történelmi villában található művészeti múzeum európai festményekkel és szobrokkal.",
-                  "category": "museum",
-                  "coords": [
-                        6.122488,
-                        49.613107
-                  ]
-            },
-            {
-                  "name": "Ambassade de Russie",
-                  "text": "Oroszország diplomáciai képviselete, amely egy történelmi épületben található Luxemburg városában.",
-                  "category": "castle",
-                  "coords": [
-                        6.13776,
-                        49.64337
-                  ]
-            },
-            {
-                  "name": "Fort Dumoulin",
-                  "text": "Luxemburg erődrendszerének történelmi erődítményeinek része.",
-                  "category": "fortress",
-                  "coords": [
-                        6.150797,
-                        49.613166
-                  ]
-            },
-            {
-                  "name": "Fort Parkhöhe",
-                  "text": "Egykori védelmi erőd, amely Luxemburg erődrendszeréhez tartozott.",
-                  "category": "fortress",
-                  "coords": [
-                        6.146439,
-                        49.616795
-                  ]
-            },
-            {
-                  "name": "Fort Olizy",
-                  "text": "Erődítmény a Kirchberg-fennsíkon.",
-                  "category": "fortress",
-                  "coords": [
-                        6.136778,
-                        49.618734
-                  ]
-            },
-            {
-                  "name": "Fort Niedergrünewald",
-                  "text": "Luxemburg város védelmi rendszerének egyik külső erődje.",
-                  "category": "fortress",
-                  "coords": [
-                        6.133855,
-                        49.616302
-                  ]
-            },
-            {
-                  "name": "Fort Rumigny",
-                  "text": "Történelmi erőd, amely a város kiterjedt védelmi hálózatának része volt.",
-                  "category": "fortress",
-                  "coords": [
-                        6.145647,
-                        49.611154
-                  ]
-            },
-            {
-                  "name": "Fort Rubamprez",
-                  "text": "Az egykori erődítmények egyik eleme a Kirchberg-fennsíkon.",
-                  "category": "fortress",
-                  "coords": [
-                        6.143118,
-                        49.610606
-                  ]
-            },
-            {
-                  "name": "Schlass La Fontaine",
-                  "text": "Peter Ernst von Mansfeld egykori reneszánsz palotájának régészeti maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        6.1443,
-                        49.615241
-                  ]
-            },
-            {
-                  "name": "Gëlle Fra",
-                  "text": "Az Emlékezés Emlékműve, amely egy aranyozott bronz női alakot ábrázol.",
-                  "category": "historical",
-                  "coords": [
-                        6.12936,
-                        49.60927
-                  ]
-            },
-            {
-                  "name": "Hôtel de Ville",
-                  "text": "Luxemburg város önkormányzatának székhelye a Place Guillaume II-n.",
-                  "category": "historical",
-                  "coords": [
-                        6.130489,
-                        49.610195
-                  ]
-            },
-            {
-                  "name": "Grand Théâtre de Luxembourg",
-                  "text": "A Grand Théâtre de Luxembourg Luxemburg nemzeti színháza a Kirchberg negyedben.",
-                  "category": "cultural",
-                  "coords": [
-                        6.127874,
-                        49.617779
-                  ]
-            },
             {
                   "name": "Exaltation-de-la-Sainte-Croix",
                   "text": "Luxemburg város Hamm városrészének plébániatemploma.",
@@ -797,42 +284,6 @@ export const luxembourgEconomicV2: POI[] = [
                   "coords": [
                         6.167644,
                         49.610237
-                  ]
-            },
-            {
-                  "name": "Saint-Jean-Baptiste",
-                  "text": "Történelmi templom a Grund városrészben, az egykori Neumünster-apátság komplexumának része.",
-                  "category": "religious",
-                  "coords": [
-                        6.136186,
-                        49.610627
-                  ]
-            },
-            {
-                  "name": "Cathédrale Notre-Dame de Luxembourg",
-                  "text": "Luxemburg város római katolikus katedrálisa, késő gótikus stílusban épült reneszánsz elemekkel.",
-                  "category": "religious",
-                  "coords": [
-                        6.131589,
-                        49.609602
-                  ]
-            },
-            {
-                  "name": "Église de Saint-Michel",
-                  "text": "Luxemburg város legrégebbi egyházi helyszíne a történelmi központban.",
-                  "category": "religious",
-                  "coords": [
-                        6.134862,
-                        49.611228
-                  ]
-            },
-            {
-                  "name": "Saint-Joseph",
-                  "text": "Luxemburg város Limpertsberg városrészének plébániatemploma.",
-                  "category": "religious",
-                  "coords": [
-                        6.121024,
-                        49.620651
                   ]
             },
             {
@@ -872,129 +323,12 @@ export const luxembourgEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saint-Fiacre",
-                  "text": "Luxemburg város Muhlenbach városrészének plébániatemploma.",
-                  "category": "religious",
-                  "coords": [
-                        6.11803,
-                        49.630533
-                  ]
-            },
-            {
-                  "name": "Cercle municipal",
-                  "text": "Közigazgatási épület és kulturális helyszín a luxemburgi Place d'Armes-on.",
-                  "category": "landmark",
-                  "coords": [
-                        6.130179,
-                        49.611365
-                  ]
-            },
-            {
-                  "name": "Trois Tours",
-                  "text": "Háromtornyú történelmi kapuépület, amely egykor a város második védőfalának része volt.",
-                  "category": "landmark",
-                  "coords": [
-                        6.133358,
-                        49.612531
-                  ]
-            },
-            {
-                  "name": "Dent Creuse",
-                  "text": "A régi erődítmények egyik tornyának romjai, ma a Bock-szikla jellegzetes pontja.",
-                  "category": "landmark",
-                  "coords": [
-                        6.137665,
-                        49.612018
-                  ]
-            },
-            {
                   "name": "Luxembourg American Cemetery and Memorial",
                   "text": "Jelentős amerikai katonai temető a második világháború idejéből.",
                   "category": "landmark",
                   "coords": [
                         6.185747,
                         49.611728
-                  ]
-            },
-            {
-                  "name": "Chapelle Saint-Quirin",
-                  "text": "A Chapelle Saint-Quirin (Grëinskapell) egy barokk kápolna a Kirchberg negyedben.",
-                  "category": "landmark",
-                  "coords": [
-                        6.135101,
-                        49.605667
-                  ]
-            },
-            {
-                  "name": "Théiwesbur",
-                  "text": "Történelmi forrás és egykori mosóhely Pfaffenthal negyedben.",
-                  "category": "landmark",
-                  "coords": [
-                        6.132837,
-                        49.616041
-                  ]
-            },
-            {
-                  "name": "Tour Malakoff",
-                  "text": "Történelmi torony, amely az egykori luxemburgi erőd része volt.",
-                  "category": "tower",
-                  "coords": [
-                        6.143994,
-                        49.61673
-                  ]
-            },
-            {
-                  "name": "Pont Grande-Duchesse Charlotte",
-                  "text": "Jellegzetes piros acélhíd, amely a városközpontot köti össze a Kirchberg-fennsíkkal.",
-                  "category": "landmark",
-                  "coords": [
-                        6.131761,
-                        49.617767
-                  ]
-            },
-            {
-                  "name": "Pont Adolphe",
-                  "text": "Híres kőboltozatos híd és Luxemburg városának egyik jelképe.",
-                  "category": "landmark",
-                  "coords": [
-                        6.126928,
-                        49.608459
-                  ]
-            },
-            {
-                  "name": "Pont Viaduc",
-                  "text": "A Pont Viaduc (Passerelle) egy 255 méter hosszú és 45 méter magas híd, amely a Felsővárost köti össze Kirchberggel.",
-                  "category": "landmark",
-                  "coords": [
-                        6.133566,
-                        49.60591
-                  ]
-            },
-            {
-                  "name": "Viaduc Pulvermühle",
-                  "text": "Lenyűgöző vasúti viadukt az Alzette-völgy felett.",
-                  "category": "landmark",
-                  "coords": [
-                        6.139312,
-                        49.607846
-                  ]
-            },
-            {
-                  "name": "Clausener Viaduc",
-                  "text": "Magas vasúti viadukt a történelmi Clausen negyedben.",
-                  "category": "landmark",
-                  "coords": [
-                        6.140102,
-                        49.611698
-                  ]
-            },
-            {
-                  "name": "Pafendaller Viaduc",
-                  "text": "Jelentős vasúti híd Pfaffenthal negyedben.",
-                  "category": "landmark",
-                  "coords": [
-                        6.138071,
-                        49.613388
                   ]
             },
             {
@@ -1013,15 +347,6 @@ export const luxembourgEconomicV2: POI[] = [
                   "coords": [
                         6.130647,
                         49.615592
-                  ]
-            },
-            {
-                  "name": "Fort Wallis",
-                  "text": "Az egykori luxemburgi erőd történelmi erődjének maradványai.",
-                  "category": "fortress",
-                  "coords": [
-                        6.134458,
-                        49.604048
                   ]
             },
             {
@@ -1106,15 +431,6 @@ export const luxembourgEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Étang du Centre de l'Oseraie",
-                  "text": "A(z) Étang du Centre de l'Oseraie tó Kirchberg Financial District területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
-                  "category": "natural",
-                  "coords": [
-                        6.068476,
-                        49.659244
-                  ]
-            },
-            {
                   "name": "Qanatwasserloch",
                   "text": "A(z) Qanatwasserloch tó Kirchberg Financial District területén található, ideális helyszín egy pihentető sétához vagy a táj megcsodálásához.",
                   "category": "natural",
@@ -1142,30 +458,12 @@ export const luxembourgEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tanneurs",
-                  "text": "A(z) Tanneurs játszótér Kirchberg Financial District városában biztonságos és vidám környezetet biztosít a családi kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        6.132179,
-                        49.62155
-                  ]
-            },
-            {
                   "name": "Ale Wee",
                   "text": "A(z) Ale Wee játszótér Kirchberg Financial District városában biztonságos és vidám környezetet biztosít a családi kikapcsolódáshoz.",
                   "category": "family",
                   "coords": [
                         6.160754,
                         49.621091
-                  ]
-            },
-            {
-                  "name": "Fraternité",
-                  "text": "A(z) Fraternité játszótér Kirchberg Financial District városában biztonságos és vidám környezetet biztosít a családi kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        6.143081,
-                        49.601045
                   ]
             },
             {
@@ -1241,15 +539,6 @@ export const luxembourgEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscine scolaire",
-                  "text": "Egy nyilvános úszóhely Kirchberg Financial District városában, amely alkalmas sportolásra és kikapcsolódásra.",
-                  "category": "family",
-                  "coords": [
-                        6.115185,
-                        49.621732
-                  ]
-            },
-            {
                   "name": "d'Coque",
                   "text": "Egy nyilvános úszóhely Kirchberg Financial District városában, amely alkalmas sportolásra és kikapcsolódásra.",
                   "category": "family",
@@ -1257,171 +546,9 @@ export const luxembourgEconomicV2: POI[] = [
                         6.151855,
                         49.623368
                   ]
-            },
-            {
-                  "name": "Piscine Municipale de Bonnevoie",
-                  "text": "Luxembourg városi fedett uszodája, amely úszósávokat és tanfolyamokat kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        6.136472,
-                        49.596257
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Musée Dräi Eechelen",
-                  "text": "Un muzeu găzduit în Fort Thüngen restaurat, dedicat istoriei cetății Luxemburg.",
-                  "category": "museum",
-                  "coords": [
-                        6.139297,
-                        49.616395
-                  ]
-            },
-            {
-                  "name": "Casino Luxembourg - Forum d'art contemporain",
-                  "text": "Un muzeu de artă contemporană și centru cultural din orașul Luxemburg.",
-                  "category": "museum",
-                  "coords": [
-                        6.127167,
-                        49.609782
-                  ]
-            },
-            {
-                  "name": "Palais Grand Ducal",
-                  "text": "Reședința oficială a marelui duce de Luxemburg în capitală.",
-                  "category": "castle",
-                  "coords": [
-                        6.132913,
-                        49.610988
-                  ]
-            },
-            {
-                  "name": "Musée national d'histoire naturelle",
-                  "text": "Un muzeu cu colecții de zoologie, botanică, paleontologie și geologie.",
-                  "category": "museum",
-                  "coords": [
-                        6.135605,
-                        49.609699
-                  ]
-            },
-            {
-                  "name": "Lëtzebuerg City Museum",
-                  "text": "În apropierea Kirchberg Financial District se află renumitul Lëtzebuerg City Museum. Expozițiile din această clădire documentează în detaliu istoria și dezvoltarea complexă a orașului Luxemburg.",
-                  "category": "museum",
-                  "coords": [
-                        6.133629,
-                        49.609966
-                  ]
-            },
-            {
-                  "name": "Villa Vauban",
-                  "text": "Un muzeu de artă situat într-o vilă istorică, cu picturi și sculpturi europene.",
-                  "category": "museum",
-                  "coords": [
-                        6.122488,
-                        49.613107
-                  ]
-            },
-            {
-                  "name": "Ambassade de Russie",
-                  "text": "Misiunea diplomatică a Rusiei, găzduită într-o clădire istorică din orașul Luxemburg.",
-                  "category": "castle",
-                  "coords": [
-                        6.13776,
-                        49.64337
-                  ]
-            },
-            {
-                  "name": "Fort Dumoulin",
-                  "text": "Parte a fortificațiilor istorice ale cetății Luxemburg.",
-                  "category": "fortress",
-                  "coords": [
-                        6.150797,
-                        49.613166
-                  ]
-            },
-            {
-                  "name": "Fort Parkhöhe",
-                  "text": "Un fost fort de apărare care a aparținut cetății Luxemburg.",
-                  "category": "fortress",
-                  "coords": [
-                        6.146439,
-                        49.616795
-                  ]
-            },
-            {
-                  "name": "Fort Olizy",
-                  "text": "O structură de fortificație situată pe platoul Kirchberg.",
-                  "category": "fortress",
-                  "coords": [
-                        6.136778,
-                        49.618734
-                  ]
-            },
-            {
-                  "name": "Fort Niedergrünewald",
-                  "text": "Unul dintre forturile exterioare ale sistemului de apărare al orașului Luxemburg.",
-                  "category": "fortress",
-                  "coords": [
-                        6.133855,
-                        49.616302
-                  ]
-            },
-            {
-                  "name": "Fort Rumigny",
-                  "text": "Un fort istoric care a făcut parte din rețeaua defensivă extinsă a orașului.",
-                  "category": "fortress",
-                  "coords": [
-                        6.145647,
-                        49.611154
-                  ]
-            },
-            {
-                  "name": "Fort Rubamprez",
-                  "text": "O componentă a fostelor fortificații de pe platoul Kirchberg.",
-                  "category": "fortress",
-                  "coords": [
-                        6.143118,
-                        49.610606
-                  ]
-            },
-            {
-                  "name": "Schlass La Fontaine",
-                  "text": "Rămășițele arheologice ale fostului palat renascentist al lui Peter Ernst von Mansfeld.",
-                  "category": "historical",
-                  "coords": [
-                        6.1443,
-                        49.615241
-                  ]
-            },
-            {
-                  "name": "Gëlle Fra",
-                  "text": "Monumentul amintirii, cu o statuie din bronz aurit a unei femei.",
-                  "category": "historical",
-                  "coords": [
-                        6.12936,
-                        49.60927
-                  ]
-            },
-            {
-                  "name": "Hôtel de Ville",
-                  "text": "Sediul administrației locale a orașului Luxemburg, situat în Place Guillaume II.",
-                  "category": "historical",
-                  "coords": [
-                        6.130489,
-                        49.610195
-                  ]
-            },
-            {
-                  "name": "Grand Théâtre de Luxembourg",
-                  "text": "Grand Théâtre de Luxembourg este teatrul național al Luxemburgului în cartierul Kirchberg.",
-                  "category": "cultural",
-                  "coords": [
-                        6.127874,
-                        49.617779
-                  ]
-            },
             {
                   "name": "Exaltation-de-la-Sainte-Croix",
                   "text": "Biserica parohială a cartierului Hamm din orașul Luxemburg.",
@@ -1429,42 +556,6 @@ export const luxembourgEconomicV2: POI[] = [
                   "coords": [
                         6.167644,
                         49.610237
-                  ]
-            },
-            {
-                  "name": "Saint-Jean-Baptiste",
-                  "text": "O biserică istorică din cartierul Grund, parte a fostului complex al Abației Neumünster.",
-                  "category": "religious",
-                  "coords": [
-                        6.136186,
-                        49.610627
-                  ]
-            },
-            {
-                  "name": "Cathédrale Notre-Dame de Luxembourg",
-                  "text": "Catedrala romano-catolică a orașului Luxemburg, construită în stil gotic târziu cu elemente renascentiste.",
-                  "category": "religious",
-                  "coords": [
-                        6.131589,
-                        49.609602
-                  ]
-            },
-            {
-                  "name": "Église de Saint-Michel",
-                  "text": "Cel mai vechi sit religios din orașul Luxemburg, situat în centrul istoric.",
-                  "category": "religious",
-                  "coords": [
-                        6.134862,
-                        49.611228
-                  ]
-            },
-            {
-                  "name": "Saint-Joseph",
-                  "text": "Biserica parohială a cartierului Limpertsberg din orașul Luxemburg.",
-                  "category": "religious",
-                  "coords": [
-                        6.121024,
-                        49.620651
                   ]
             },
             {
@@ -1504,129 +595,12 @@ export const luxembourgEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saint-Fiacre",
-                  "text": "Biserica parohială a cartierului Muhlenbach din orașul Luxemburg.",
-                  "category": "religious",
-                  "coords": [
-                        6.11803,
-                        49.630533
-                  ]
-            },
-            {
-                  "name": "Cercle municipal",
-                  "text": "O clădire administrativă și un loc cultural în Place d'Armes din orașul Luxemburg.",
-                  "category": "landmark",
-                  "coords": [
-                        6.130179,
-                        49.611365
-                  ]
-            },
-            {
-                  "name": "Trois Tours",
-                  "text": "O poartă istorică cu trei turnuri care a făcut parte odinioară din al doilea zid defensiv al orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        6.133358,
-                        49.612531
-                  ]
-            },
-            {
-                  "name": "Dent Creuse",
-                  "text": "Ruinele unui turn din vechile fortificații, acum un reper pe stânca Bock.",
-                  "category": "landmark",
-                  "coords": [
-                        6.137665,
-                        49.612018
-                  ]
-            },
-            {
                   "name": "Luxembourg American Cemetery and Memorial",
                   "text": "Un important cimitir militar american din al Doilea Război Mondial.",
                   "category": "landmark",
                   "coords": [
                         6.185747,
                         49.611728
-                  ]
-            },
-            {
-                  "name": "Chapelle Saint-Quirin",
-                  "text": "Chapelle Saint-Quirin (Grëinskapell) este o capelă barocă în cartierul Kirchberg.",
-                  "category": "landmark",
-                  "coords": [
-                        6.135101,
-                        49.605667
-                  ]
-            },
-            {
-                  "name": "Théiwesbur",
-                  "text": "O fântână istorică și fost loc de spălat rufe în cartierul Pfaffenthal.",
-                  "category": "landmark",
-                  "coords": [
-                        6.132837,
-                        49.616041
-                  ]
-            },
-            {
-                  "name": "Tour Malakoff",
-                  "text": "Un turn istoric care făcea parte din fosta fortăreață a Luxemburgului.",
-                  "category": "tower",
-                  "coords": [
-                        6.143994,
-                        49.61673
-                  ]
-            },
-            {
-                  "name": "Pont Grande-Duchesse Charlotte",
-                  "text": "Un pod de oțel roșu distinctiv care leagă centrul orașului de platoul Kirchberg.",
-                  "category": "landmark",
-                  "coords": [
-                        6.131761,
-                        49.617767
-                  ]
-            },
-            {
-                  "name": "Pont Adolphe",
-                  "text": "Un celebru pod de piatră în arc și un simbol al orașului Luxemburg.",
-                  "category": "landmark",
-                  "coords": [
-                        6.126928,
-                        49.608459
-                  ]
-            },
-            {
-                  "name": "Pont Viaduc",
-                  "text": "Pont Viaduc (Passerelle) este un pod lung de 255 de metri și înalt de 45 de metri, care leagă Orașul Superior de Kirchberg.",
-                  "category": "landmark",
-                  "coords": [
-                        6.133566,
-                        49.60591
-                  ]
-            },
-            {
-                  "name": "Viaduc Pulvermühle",
-                  "text": "Un viaduct feroviar impresionant care traversează valea Alzette.",
-                  "category": "landmark",
-                  "coords": [
-                        6.139312,
-                        49.607846
-                  ]
-            },
-            {
-                  "name": "Clausener Viaduc",
-                  "text": "Un viaduct feroviar înalt situat în cartierul istoric Clausen.",
-                  "category": "landmark",
-                  "coords": [
-                        6.140102,
-                        49.611698
-                  ]
-            },
-            {
-                  "name": "Pafendaller Viaduc",
-                  "text": "Un pod feroviar important în cartierul Pfaffenthal.",
-                  "category": "landmark",
-                  "coords": [
-                        6.138071,
-                        49.613388
                   ]
             },
             {
@@ -1645,15 +619,6 @@ export const luxembourgEconomicV2: POI[] = [
                   "coords": [
                         6.130647,
                         49.615592
-                  ]
-            },
-            {
-                  "name": "Fort Wallis",
-                  "text": "Rămășițele unui fort istoric din fosta fortăreață a Luxemburgului.",
-                  "category": "fortress",
-                  "coords": [
-                        6.134458,
-                        49.604048
                   ]
             },
             {
@@ -1738,15 +703,6 @@ export const luxembourgEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Étang du Centre de l'Oseraie",
-                  "text": "Lacul Étang du Centre de l'Oseraie din Kirchberg Financial District este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
-                  "category": "natural",
-                  "coords": [
-                        6.068476,
-                        49.659244
-                  ]
-            },
-            {
                   "name": "Qanatwasserloch",
                   "text": "Lacul Qanatwasserloch din Kirchberg Financial District este locul ideal pentru o plimbare relaxantă sau pentru a admira peisajul local.",
                   "category": "natural",
@@ -1774,30 +730,12 @@ export const luxembourgEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tanneurs",
-                  "text": "Locul de joacă Tanneurs din Kirchberg Financial District oferă un mediu sigur și distractiv pentru activități în familie.",
-                  "category": "family",
-                  "coords": [
-                        6.132179,
-                        49.62155
-                  ]
-            },
-            {
                   "name": "Ale Wee",
                   "text": "Locul de joacă Ale Wee din Kirchberg Financial District oferă un mediu sigur și distractiv pentru activități în familie.",
                   "category": "family",
                   "coords": [
                         6.160754,
                         49.621091
-                  ]
-            },
-            {
-                  "name": "Fraternité",
-                  "text": "Locul de joacă Fraternité din Kirchberg Financial District oferă un mediu sigur și distractiv pentru activități în familie.",
-                  "category": "family",
-                  "coords": [
-                        6.143081,
-                        49.601045
                   ]
             },
             {
@@ -1873,15 +811,6 @@ export const luxembourgEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscine scolaire",
-                  "text": "O zonă publică de înot în Kirchberg Financial District potrivită pentru sport și relaxare.",
-                  "category": "family",
-                  "coords": [
-                        6.115185,
-                        49.621732
-                  ]
-            },
-            {
                   "name": "d'Coque",
                   "text": "O zonă publică de înot în Kirchberg Financial District potrivită pentru sport și relaxare.",
                   "category": "family",
@@ -1889,171 +818,9 @@ export const luxembourgEconomicV2: POI[] = [
                         6.151855,
                         49.623368
                   ]
-            },
-            {
-                  "name": "Piscine Municipale de Bonnevoie",
-                  "text": "O piscină municipală interioară din Luxemburg, care oferă culoare pentru înot și cursuri.",
-                  "category": "recreational",
-                  "coords": [
-                        6.136472,
-                        49.596257
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Musée Dräi Eechelen",
-                  "text": "A museum housed in the restored Fort Thüngen, dedicated to Luxembourg's fortress history.",
-                  "category": "museum",
-                  "coords": [
-                        6.139297,
-                        49.616395
-                  ]
-            },
-            {
-                  "name": "Casino Luxembourg - Forum d'art contemporain",
-                  "text": "A contemporary art museum and cultural center in Luxembourg City.",
-                  "category": "museum",
-                  "coords": [
-                        6.127167,
-                        49.609782
-                  ]
-            },
-            {
-                  "name": "Grand Ducal Palace",
-                  "text": "The official residence of the Grand Duke of Luxembourg in the capital city.",
-                  "category": "castle",
-                  "coords": [
-                        6.132913,
-                        49.610988
-                  ]
-            },
-            {
-                  "name": "Musée national d'histoire naturelle",
-                  "text": "A museum featuring collections on zoology, botany, paleontology, and geology.",
-                  "category": "museum",
-                  "coords": [
-                        6.135605,
-                        49.609699
-                  ]
-            },
-            {
-                  "name": "Lëtzebuerg City Museum",
-                  "text": "Near the Kirchberg Financial District is the renowned Lëtzebuerg City Museum. The exhibitions in this building detail the complex history and development of the city of Luxembourg.",
-                  "category": "museum",
-                  "coords": [
-                        6.133629,
-                        49.609966
-                  ]
-            },
-            {
-                  "name": "Villa Vauban",
-                  "text": "An art museum located in a historic villa, featuring European paintings and sculptures.",
-                  "category": "museum",
-                  "coords": [
-                        6.122488,
-                        49.613107
-                  ]
-            },
-            {
-                  "name": "Embassy of Russia",
-                  "text": "The diplomatic mission of Russia, housed in a historic building in Luxembourg City.",
-                  "category": "castle",
-                  "coords": [
-                        6.13776,
-                        49.64337
-                  ]
-            },
-            {
-                  "name": "Fort Dumoulin",
-                  "text": "Part of the historical fortifications of the Fortress of Luxembourg.",
-                  "category": "fortress",
-                  "coords": [
-                        6.150797,
-                        49.613166
-                  ]
-            },
-            {
-                  "name": "Fort Parkhöhe",
-                  "text": "A former defensive fort that belonged to the Fortress of Luxembourg.",
-                  "category": "fortress",
-                  "coords": [
-                        6.146439,
-                        49.616795
-                  ]
-            },
-            {
-                  "name": "Fort Olizy",
-                  "text": "A fortification structure located on the Kirchberg plateau.",
-                  "category": "fortress",
-                  "coords": [
-                        6.136778,
-                        49.618734
-                  ]
-            },
-            {
-                  "name": "Fort Niedergrünewald",
-                  "text": "One of the outer forts of the Luxembourg City defense system.",
-                  "category": "fortress",
-                  "coords": [
-                        6.133855,
-                        49.616302
-                  ]
-            },
-            {
-                  "name": "Fort Rumigny",
-                  "text": "A historical fort that was part of the city's extensive defensive network.",
-                  "category": "fortress",
-                  "coords": [
-                        6.145647,
-                        49.611154
-                  ]
-            },
-            {
-                  "name": "Fort Rubamprez",
-                  "text": "A component of the former fortifications on the Kirchberg plateau.",
-                  "category": "fortress",
-                  "coords": [
-                        6.143118,
-                        49.610606
-                  ]
-            },
-            {
-                  "name": "\"La Fontaine\" Castle",
-                  "text": "The archaeological remains of the former Renaissance palace of Peter Ernst von Mansfeld.",
-                  "category": "historical",
-                  "coords": [
-                        6.1443,
-                        49.615241
-                  ]
-            },
-            {
-                  "name": "Gëlle Fra",
-                  "text": "The Monument of Remembrance, featuring a gilded bronze statue of a woman.",
-                  "category": "historical",
-                  "coords": [
-                        6.12936,
-                        49.60927
-                  ]
-            },
-            {
-                  "name": "Hôtel de Ville",
-                  "text": "The seat of local government for Luxembourg City, located on Place Guillaume II.",
-                  "category": "historical",
-                  "coords": [
-                        6.130489,
-                        49.610195
-                  ]
-            },
-            {
-                  "name": "Grand Théâtre de Luxembourg",
-                  "text": "Grand Théâtre de Luxembourg is the national theatre of Luxembourg in the Kirchberg district.",
-                  "category": "cultural",
-                  "coords": [
-                        6.127874,
-                        49.617779
-                  ]
-            },
             {
                   "name": "Exaltation-de-la-Sainte-Croix",
                   "text": "The parish church of the Hamm district in Luxembourg City.",
@@ -2061,42 +828,6 @@ export const luxembourgEconomicV2: POI[] = [
                   "coords": [
                         6.167644,
                         49.610237
-                  ]
-            },
-            {
-                  "name": "Saint-Jean-Baptiste",
-                  "text": "A historic church in the Grund district, part of the former Neumünster Abbey complex.",
-                  "category": "religious",
-                  "coords": [
-                        6.136186,
-                        49.610627
-                  ]
-            },
-            {
-                  "name": "Notre-Dame Cathedral",
-                  "text": "The Roman Catholic cathedral of Luxembourg City, built in late Gothic style with Renaissance elements.",
-                  "category": "religious",
-                  "coords": [
-                        6.131589,
-                        49.609602
-                  ]
-            },
-            {
-                  "name": "Église de Saint-Michel",
-                  "text": "The oldest religious site in Luxembourg City, located in the historic center.",
-                  "category": "religious",
-                  "coords": [
-                        6.134862,
-                        49.611228
-                  ]
-            },
-            {
-                  "name": "Saint-Joseph",
-                  "text": "The parish church of the Limpertsberg district in Luxembourg City.",
-                  "category": "religious",
-                  "coords": [
-                        6.121024,
-                        49.620651
                   ]
             },
             {
@@ -2136,129 +867,12 @@ export const luxembourgEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saint-Fiacre",
-                  "text": "The parish church of the Muhlenbach district in Luxembourg City.",
-                  "category": "religious",
-                  "coords": [
-                        6.11803,
-                        49.630533
-                  ]
-            },
-            {
-                  "name": "Cercle municipal",
-                  "text": "An administrative building and cultural venue on the Place d'Armes in Luxembourg City.",
-                  "category": "landmark",
-                  "coords": [
-                        6.130179,
-                        49.611365
-                  ]
-            },
-            {
-                  "name": "Trois Tours",
-                  "text": "A historic gatehouse with three towers that was once part of the city's second defensive wall.",
-                  "category": "landmark",
-                  "coords": [
-                        6.133358,
-                        49.612531
-                  ]
-            },
-            {
-                  "name": "Dent Creuse",
-                  "text": "The ruins of a tower from the old fortifications, now a landmark in the Bock cliff.",
-                  "category": "landmark",
-                  "coords": [
-                        6.137665,
-                        49.612018
-                  ]
-            },
-            {
                   "name": "Luxembourg American Cemetery and Memorial",
                   "text": "A significant American military cemetery from World War II.",
                   "category": "landmark",
                   "coords": [
                         6.185747,
                         49.611728
-                  ]
-            },
-            {
-                  "name": "Chapelle Saint-Quirin",
-                  "text": "Chapelle Saint-Quirin (Grëinskapell) is a Baroque chapel in the Kirchberg district.",
-                  "category": "landmark",
-                  "coords": [
-                        6.135101,
-                        49.605667
-                  ]
-            },
-            {
-                  "name": "Théiwesbur",
-                  "text": "A historic spring and former wash house in the Pfaffenthal district.",
-                  "category": "landmark",
-                  "coords": [
-                        6.132837,
-                        49.616041
-                  ]
-            },
-            {
-                  "name": "Tour Malakoff",
-                  "text": "A historic tower that was part of the former Luxembourg fortress.",
-                  "category": "tower",
-                  "coords": [
-                        6.143994,
-                        49.61673
-                  ]
-            },
-            {
-                  "name": "Pont Grande-Duchesse Charlotte",
-                  "text": "A distinctive red steel bridge connecting the city center with the Kirchberg plateau.",
-                  "category": "landmark",
-                  "coords": [
-                        6.131761,
-                        49.617767
-                  ]
-            },
-            {
-                  "name": "Pont Adolphe",
-                  "text": "A famous stone arch bridge and a landmark of Luxembourg City.",
-                  "category": "landmark",
-                  "coords": [
-                        6.126928,
-                        49.608459
-                  ]
-            },
-            {
-                  "name": "Pont Viaduc",
-                  "text": "Pont Viaduc (Passerelle) is a 255-metre-long, 45-metre-high bridge connecting the Upper Town to Kirchberg.",
-                  "category": "landmark",
-                  "coords": [
-                        6.133566,
-                        49.60591
-                  ]
-            },
-            {
-                  "name": "Viaduc Pulvermühle",
-                  "text": "An impressive railway viaduct spanning the Alzette valley.",
-                  "category": "landmark",
-                  "coords": [
-                        6.139312,
-                        49.607846
-                  ]
-            },
-            {
-                  "name": "Clausener Viaduc",
-                  "text": "A tall railway viaduct located in the historic Clausen district.",
-                  "category": "landmark",
-                  "coords": [
-                        6.140102,
-                        49.611698
-                  ]
-            },
-            {
-                  "name": "Pafendaller Viaduc",
-                  "text": "A significant railway bridge in the Pfaffenthal district.",
-                  "category": "landmark",
-                  "coords": [
-                        6.138071,
-                        49.613388
                   ]
             },
             {
@@ -2277,15 +891,6 @@ export const luxembourgEconomicV2: POI[] = [
                   "coords": [
                         6.130647,
                         49.615592
-                  ]
-            },
-            {
-                  "name": "Fort Wallis",
-                  "text": "The remains of a historic fort from the former Luxembourg fortress.",
-                  "category": "fortress",
-                  "coords": [
-                        6.134458,
-                        49.604048
                   ]
             },
             {
@@ -2370,15 +975,6 @@ export const luxembourgEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Étang du Centre de l'Oseraie",
-                  "text": "Étang du Centre de l'Oseraie is a lake in Kirchberg Financial District, perfect for a relaxing walk or enjoying the local scenery.",
-                  "category": "natural",
-                  "coords": [
-                        6.068476,
-                        49.659244
-                  ]
-            },
-            {
                   "name": "Qanatwasserloch",
                   "text": "Qanatwasserloch is a lake in Kirchberg Financial District, perfect for a relaxing walk or enjoying the local scenery.",
                   "category": "natural",
@@ -2406,30 +1002,12 @@ export const luxembourgEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tanneurs",
-                  "text": "The Tanneurs playground in Kirchberg Financial District provides a safe and fun environment for family activities.",
-                  "category": "family",
-                  "coords": [
-                        6.132179,
-                        49.62155
-                  ]
-            },
-            {
                   "name": "Ale Wee",
                   "text": "The Ale Wee playground in Kirchberg Financial District provides a safe and fun environment for family activities.",
                   "category": "family",
                   "coords": [
                         6.160754,
                         49.621091
-                  ]
-            },
-            {
-                  "name": "Fraternité",
-                  "text": "The Fraternité playground in Kirchberg Financial District provides a safe and fun environment for family activities.",
-                  "category": "family",
-                  "coords": [
-                        6.143081,
-                        49.601045
                   ]
             },
             {
@@ -2505,30 +1083,12 @@ export const luxembourgEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscine scolaire",
-                  "text": "A public swimming area in Kirchberg Financial District suitable for sports and relaxation.",
-                  "category": "family",
-                  "coords": [
-                        6.115185,
-                        49.621732
-                  ]
-            },
-            {
                   "name": "d'Coque",
                   "text": "A public swimming area in Kirchberg Financial District suitable for sports and relaxation.",
                   "category": "family",
                   "coords": [
                         6.151855,
                         49.623368
-                  ]
-            },
-            {
-                  "name": "Piscine Municipale de Bonnevoie",
-                  "text": "A municipal indoor swimming pool in Luxembourg offering lanes for swimming and classes.",
-                  "category": "recreational",
-                  "coords": [
-                        6.136472,
-                        49.596257
                   ]
             }
       ]

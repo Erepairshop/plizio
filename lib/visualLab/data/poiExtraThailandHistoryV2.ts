@@ -4244,15 +4244,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Chaimongkron",
-                  "text": "Dieser bedeutende buddhistische Tempel im Süden Pattayas dient als Zentrum für kulturelle Veranstaltungen und religiöse Feste.",
-                  "category": "religious",
-                  "coords": [
-                        100.877107,
-                        12.926011
-                  ]
-            },
-            {
                   "name": "Parody Art Museum",
                   "text": "Dieses Museum bietet ein humorvolles Erlebnis, indem es klassische, weltberühmte Gemälde mit satirischen, modernen Elementen nachbildet.",
                   "category": "museum",
@@ -4271,48 +4262,12 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "The bottle museum",
-                  "text": "Diese Ausstellung zeigt eine einzigartige Sammlung von Miniatur-Wahrzeichen, die in mühevoller Kleinarbeit durch die engen Hälse von Glasflaschen konstruiert wurden.",
-                  "category": "museum",
-                  "coords": [
-                        100.90008,
-                        12.929072
-                  ]
-            },
-            {
-                  "name": "Ripley's Believe it or not",
-                  "text": "Ein Kuriositätenkabinett in Pattaya mit bizarren Artefakten, optischen Täuschungen und merkwürdigen Kuriositäten aus aller Welt.",
-                  "category": "museum",
-                  "coords": [
-                        100.878571,
-                        12.928761
-                  ]
-            },
-            {
-                  "name": "Teddy Bear Museum",
-                  "text": "Dieses familienorientierte Museum bietet umfangreiche Diorama-Szenen, in denen Hunderte von Plüsch-Teddybären in verschiedenen historischen und Fantasy-Kostümen gekleidet sind.",
-                  "category": "museum",
-                  "coords": [
-                        100.885038,
-                        12.946648
-                  ]
-            },
-            {
                   "name": "Asian Spicy Garden",
                   "text": "Ein botanisches Museum und Garten, das Besucher über den Anbau traditioneller asiatischer Kräuter und Gewürze informiert.",
                   "category": "museum",
                   "coords": [
                         100.939725,
                         12.951351
-                  ]
-            },
-            {
-                  "name": "Amazing Art",
-                  "text": "Diese interaktive Galerie ermöglicht es Besuchern, direkt in großformatige 3D-Gemälde zu treten, um Teil der optischen Täuschung zu werden.",
-                  "category": "museum",
-                  "coords": [
-                        100.897032,
-                        12.944936
                   ]
             },
             {
@@ -4331,33 +4286,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.892778,
                         12.953618
-                  ]
-            },
-            {
-                  "name": "Tuxedo Illusion Hall",
-                  "text": "Dieses Zaubertheater fasziniert das Publikum mit professionellen Illusionsshows und interaktiven Ausstellungen klassischer Zaubertricks.",
-                  "category": "cultural",
-                  "coords": [
-                        100.889754,
-                        12.946925
-                  ]
-            },
-            {
-                  "name": "Colosseum Show Pattaya",
-                  "text": "In einem prächtigen, dem antiken Rom nachempfundenen Gebäude, beherbergt dieses Theater spektakuläre Ladyboy-Cabaret-Aufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        100.877482,
-                        12.904689
-                  ]
-            },
-            {
-                  "name": "Alcazar Cabaret Show",
-                  "text": "Dieses berühmte Theater bietet extravagante, Playback-Musiknummern, die von Transgender-Künstlern in aufwendigen, glitzernden Kostümen aufgeführt werden.",
-                  "category": "cultural",
-                  "coords": [
-                        100.889014,
-                        12.943042
                   ]
             },
             {
@@ -4579,15 +4507,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Chaimongkron",
-                  "text": "A Dél-Pattayán található jelentős buddhista templom kulturális események és vallási fesztiválok központjaként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        100.877107,
-                        12.926011
-                  ]
-            },
-            {
                   "name": "Parody Art Museum",
                   "text": "Ez a múzeum humoros élményt nyújt a klasszikus, világhírű festmények szatirikus, modern csavarral történő újraalkotásával.",
                   "category": "museum",
@@ -4606,48 +4525,12 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "The bottle museum",
-                  "text": "Ez a kiállítás a miniatűr nevezetességek egyedülálló gyűjteményét mutatja be, amelyeket üvegpalackok szűk nyakán keresztül, fáradságos munkával építettek fel.",
-                  "category": "museum",
-                  "coords": [
-                        100.90008,
-                        12.929072
-                  ]
-            },
-            {
-                  "name": "Ripley's Believe it or not",
-                  "text": "Egy pattayai furcsaságok múzeuma, amely bizarr műtárgyakat, optikai csalódásokat és a világ minden tájáról származó különlegességeket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        100.878571,
-                        12.928761
-                  ]
-            },
-            {
-                  "name": "Teddy Bear Museum",
-                  "text": "Ez a családbarát múzeum kiterjedt diorámákat mutat be, ahol több száz plüss játékmaci öltözött különféle történelmi és fantáziajelmezekbe.",
-                  "category": "museum",
-                  "coords": [
-                        100.885038,
-                        12.946648
-                  ]
-            },
-            {
                   "name": "Asian Spicy Garden",
                   "text": "Botanikai múzeum és kert, amely a hagyományos ázsiai gyógynövények és fűszerek termesztésének bemutatására szolgál.",
                   "category": "museum",
                   "coords": [
                         100.939725,
                         12.951351
-                  ]
-            },
-            {
-                  "name": "Amazing Art",
-                  "text": "Ebben az interaktív galériában a látogatók közvetlenül beléphetnek a nagyméretű 3D-s festményekbe, így maguk is az optikai csalódás részévé válnak.",
-                  "category": "museum",
-                  "coords": [
-                        100.897032,
-                        12.944936
                   ]
             },
             {
@@ -4666,33 +4549,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.892778,
                         12.953618
-                  ]
-            },
-            {
-                  "name": "Tuxedo Illusion Hall",
-                  "text": "Ez a bűvészszínház professzionális illuzionista műsorokkal és a klasszikus bűvésztrükkök interaktív kiállításaival nyűgözi le a közönséget.",
-                  "category": "cultural",
-                  "coords": [
-                        100.889754,
-                        12.946925
-                  ]
-            },
-            {
-                  "name": "Colosseum Show Pattaya",
-                  "text": "Az ókori Róma mintájára épült nagyszerű épületben helyet kapó színház látványos transzvesztita kabaréelőadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        100.877482,
-                        12.904689
-                  ]
-            },
-            {
-                  "name": "Alcazar Cabaret Show",
-                  "text": "Ebben a híres színházban transznemű művészek adnak elő extravagáns, tátogós zenés számokat pazar, csillogó jelmezekben.",
-                  "category": "cultural",
-                  "coords": [
-                        100.889014,
-                        12.943042
                   ]
             },
             {
@@ -4914,15 +4770,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Chaimongkron",
-                  "text": "Situat în sudul Pattaya, acest templu budist major servește drept centru pentru evenimente culturale și festivaluri religioase.",
-                  "category": "religious",
-                  "coords": [
-                        100.877107,
-                        12.926011
-                  ]
-            },
-            {
                   "name": "Parody Art Museum",
                   "text": "Acest muzeu oferă o experiență plină de umor prin expunerea de picturi clasice, de renume mondial, recreate cu o notă satirică și modernă.",
                   "category": "museum",
@@ -4941,48 +4788,12 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "The bottle museum",
-                  "text": "Această expoziție prezintă o colecție unică de repere în miniatură, construite cu greu prin gâturile înguste ale sticlelor.",
-                  "category": "museum",
-                  "coords": [
-                        100.90008,
-                        12.929072
-                  ]
-            },
-            {
-                  "name": "Ripley's Believe it or not",
-                  "text": "Un muzeu al curiozităților din Pattaya care prezintă artefacte bizare, iluzii optice și ciudățenii curioase din întreaga lume.",
-                  "category": "museum",
-                  "coords": [
-                        100.878571,
-                        12.928761
-                  ]
-            },
-            {
-                  "name": "Teddy Bear Museum",
-                  "text": "Acest muzeu orientat spre familie prezintă scene ample de diorame în care sute de urși de pluș sunt îmbrăcați în diverse costume istorice și fantastice.",
-                  "category": "museum",
-                  "coords": [
-                        100.885038,
-                        12.946648
-                  ]
-            },
-            {
                   "name": "Asian Spicy Garden",
                   "text": "Un muzeu și o grădină botanică dedicate educării vizitatorilor cu privire la cultivarea ierburilor și condimentelor tradiționale asiatice.",
                   "category": "museum",
                   "coords": [
                         100.939725,
                         12.951351
-                  ]
-            },
-            {
-                  "name": "Amazing Art",
-                  "text": "Această galerie interactivă permite vizitatorilor să pășească direct în picturi 3D la scară largă pentru a deveni parte a iluziei optice.",
-                  "category": "museum",
-                  "coords": [
-                        100.897032,
-                        12.944936
                   ]
             },
             {
@@ -5001,33 +4812,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.892778,
                         12.953618
-                  ]
-            },
-            {
-                  "name": "Tuxedo Illusion Hall",
-                  "text": "Acest teatru de magie fascinează publicul cu spectacole profesionale de iluzionism și expoziții interactive de trucuri magice clasice.",
-                  "category": "cultural",
-                  "coords": [
-                        100.889754,
-                        12.946925
-                  ]
-            },
-            {
-                  "name": "Colosseum Show Pattaya",
-                  "text": "Găzduit într-o clădire grandioasă, modelată după Roma antică, acest teatru găzduiește spectacole spectaculoase de cabaret cu travestiți.",
-                  "category": "cultural",
-                  "coords": [
-                        100.877482,
-                        12.904689
-                  ]
-            },
-            {
-                  "name": "Alcazar Cabaret Show",
-                  "text": "Acest teatru faimos prezintă numere muzicale extravagante, cu sincronizare a buzelor, interpretate de artiști transgender în costume somptuoase și sclipitoare.",
-                  "category": "cultural",
-                  "coords": [
-                        100.889014,
-                        12.943042
                   ]
             },
             {
@@ -5249,15 +5033,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Chaimongkron",
-                  "text": "Situated in South Pattaya, this major Buddhist temple serves as a hub for cultural events and religious festivals.",
-                  "category": "religious",
-                  "coords": [
-                        100.877107,
-                        12.926011
-                  ]
-            },
-            {
                   "name": "Parody Art Museum",
                   "text": "This museum offers a humorous experience by displaying classic, world-renowned paintings recreated with satirical, modern twists.",
                   "category": "museum",
@@ -5276,48 +5051,12 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "The bottle museum",
-                  "text": "This exhibition showcases a unique collection of miniature landmarks painstakingly constructed through the narrow necks of glass bottles.",
-                  "category": "museum",
-                  "coords": [
-                        100.90008,
-                        12.929072
-                  ]
-            },
-            {
-                  "name": "Ripley's Believe it or not",
-                  "text": "An odditorium in Pattaya featuring bizarre artifacts, optical illusions, and curious oddities from around the globe.",
-                  "category": "museum",
-                  "coords": [
-                        100.878571,
-                        12.928761
-                  ]
-            },
-            {
-                  "name": "Teddy Bear Museum",
-                  "text": "This family-oriented museum features extensive diorama scenes where hundreds of plush teddy bears are dressed in various historical and fantasy costumes.",
-                  "category": "museum",
-                  "coords": [
-                        100.885038,
-                        12.946648
-                  ]
-            },
-            {
                   "name": "Asian Spicy Garden",
                   "text": "A botanical museum and garden dedicated to educating visitors about the cultivation of traditional Asian herbs and spices.",
                   "category": "museum",
                   "coords": [
                         100.939725,
                         12.951351
-                  ]
-            },
-            {
-                  "name": "Amazing Art",
-                  "text": "This interactive gallery allows visitors to step directly into large-scale 3D paintings to become part of the optical illusion.",
-                  "category": "museum",
-                  "coords": [
-                        100.897032,
-                        12.944936
                   ]
             },
             {
@@ -5336,33 +5075,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.892778,
                         12.953618
-                  ]
-            },
-            {
-                  "name": "Tuxedo Illusion Hall",
-                  "text": "This magic theatre mesmerizes audiences with professional illusionist shows and interactive exhibits of classic magic tricks.",
-                  "category": "cultural",
-                  "coords": [
-                        100.889754,
-                        12.946925
-                  ]
-            },
-            {
-                  "name": "Colosseum Show Pattaya",
-                  "text": "Housed in a grand building modeled after ancient Rome, this theatre hosts spectacular ladyboy cabaret performances.",
-                  "category": "cultural",
-                  "coords": [
-                        100.877482,
-                        12.904689
-                  ]
-            },
-            {
-                  "name": "Alcazar Cabaret Show",
-                  "text": "This famous theatre features extravagant, lip-synced musical numbers performed by transgender artists in lavish, glittering costumes.",
-                  "category": "cultural",
-                  "coords": [
-                        100.889014,
-                        12.943042
                   ]
             },
             {
@@ -6786,24 +6498,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Tawet",
-                  "text": "Wat Tawet besteht aus von Bäumen beschatteten Backsteinfundamenten und verwitterten Stupa-Überresten aus dem historischen Königreich Ayutthaya.",
-                  "category": "landmark",
-                  "coords": [
-                        100.56289,
-                        14.337276
-                  ]
-            },
-            {
-                  "name": "Wat Khun Phrom",
-                  "text": "Die Stätte bewahrt die stimmungsvollen Backsteinruinen eines traditionellen buddhistischen Tempelkomplexes aus Thailands alter königlicher Ära.",
-                  "category": "landmark",
-                  "coords": [
-                        100.57063,
-                        14.3463
-                  ]
-            },
-            {
                   "name": "Wihan Phra Mongkhon Bophit",
                   "text": "Dieses beeindruckende buddhistische Heiligtum beherbergt in seiner majestätischen Haupthalle eine der größten Bronze-Buddha-Statuen Thailands.",
                   "category": "landmark",
@@ -6840,15 +6534,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ayutthaya Historical Study Centre",
-                  "text": "Dieses Museum bietet detaillierte Dioramen und pädagogische Ausstellungen über das tägliche städtische Leben im alten siamesischen Königreich.",
-                  "category": "museum",
-                  "coords": [
-                        100.565502,
-                        14.349398
-                  ]
-            },
-            {
                   "name": "Ayutthaya Studies Institute",
                   "text": "Das Institut fungiert als akademische Einrichtung und beherbergt historische Dokumente und kulturelle Artefakte, die die Geschichte der ehemaligen Hauptstadt nachzeichnen.",
                   "category": "museum",
@@ -6864,15 +6549,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.574732,
                         14.333733
-                  ]
-            },
-            {
-                  "name": "Japanese Village",
-                  "text": "Dieses Museum erinnert an eine lebhafte japanische Handelssiedlung aus dem 17. Jahrhundert mit einem Gedenkpark und informativen Pavillons.",
-                  "category": "museum",
-                  "coords": [
-                        100.57743,
-                        14.332844
                   ]
             },
             {
@@ -7040,24 +6716,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Tawet",
-                  "text": "A Wat Tawet fákkal árnyékolt téglaalapokból és a történelmi Ayutthaya királyságból származó, az idő által kikezdett sztúpa maradványokból áll.",
-                  "category": "landmark",
-                  "coords": [
-                        100.56289,
-                        14.337276
-                  ]
-            },
-            {
-                  "name": "Wat Khun Phrom",
-                  "text": "A helyszín Thaiföld ősi királyi korszakából származó hagyományos buddhista templomkomplexum hangulatos téglaromjait őrzi.",
-                  "category": "landmark",
-                  "coords": [
-                        100.57063,
-                        14.3463
-                  ]
-            },
-            {
                   "name": "Wihan Phra Mongkhon Bophit",
                   "text": "Ez a lenyűgöző buddhista szentély Thaiföld egyik legnagyobb bronz Buddha-szobrát őrzi fenséges főcsarnokában.",
                   "category": "landmark",
@@ -7094,15 +6752,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ayutthaya Historical Study Centre",
-                  "text": "Ez a múzeum részletes diorámákat és oktatási kiállításokat kínál a régi sziámi királyság mindennapi városi életéről.",
-                  "category": "museum",
-                  "coords": [
-                        100.565502,
-                        14.349398
-                  ]
-            },
-            {
                   "name": "Ayutthaya Studies Institute",
                   "text": "Az intézet akadémiai létesítményként működik, és olyan történelmi dokumentumoknak és kulturális tárgyaknak ad otthont, amelyek az egykori főváros történetét követik nyomon.",
                   "category": "museum",
@@ -7118,15 +6767,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.574732,
                         14.333733
-                  ]
-            },
-            {
-                  "name": "Japanese Village",
-                  "text": "Ez a múzeum egy nyüzsgő 17. századi japán kereskedelmi településnek állít emléket egy emlékparkkal és informatív pavilonokkal.",
-                  "category": "museum",
-                  "coords": [
-                        100.57743,
-                        14.332844
                   ]
             },
             {
@@ -7294,24 +6934,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Tawet",
-                  "text": "Wat Tawet constă în fundații de cărămidă umbrite de copaci și rămășițe de stupe erodate de timp din istoricul regat Ayutthaya.",
-                  "category": "landmark",
-                  "coords": [
-                        100.56289,
-                        14.337276
-                  ]
-            },
-            {
-                  "name": "Wat Khun Phrom",
-                  "text": "Situl păstrează ruinele atmosferice de cărămidă ale unui complex tradițional de temple budiste din vechea eră regală a Thailandei.",
-                  "category": "landmark",
-                  "coords": [
-                        100.57063,
-                        14.3463
-                  ]
-            },
-            {
                   "name": "Wihan Phra Mongkhon Bophit",
                   "text": "Acest impresionant sanctuar budist adăpostește în sala sa principală maiestuoasă una dintre cele mai mari statui de bronz ale lui Buddha din Thailanda.",
                   "category": "landmark",
@@ -7348,15 +6970,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ayutthaya Historical Study Centre",
-                  "text": "Acest muzeu oferă diorame detaliate și expoziții educaționale despre viața urbană de zi cu zi în vechiul regat siamez.",
-                  "category": "museum",
-                  "coords": [
-                        100.565502,
-                        14.349398
-                  ]
-            },
-            {
                   "name": "Ayutthaya Studies Institute",
                   "text": "Funcționând ca o facilitate academică, institutul găzduiește documente istorice și artefacte culturale care urmăresc istoria fostei capitale.",
                   "category": "museum",
@@ -7372,15 +6985,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.574732,
                         14.333733
-                  ]
-            },
-            {
-                  "name": "Japanese Village",
-                  "text": "Acest muzeu comemorează o vibrantă așezare comercială japoneză din secolul al XVII-lea printr-un parc memorial și pavilioane informative.",
-                  "category": "museum",
-                  "coords": [
-                        100.57743,
-                        14.332844
                   ]
             },
             {
@@ -7548,24 +7152,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Tawet",
-                  "text": "Wat Tawet consists of tree-shaded brick foundations and time-worn stupa remnants from the historic Ayutthaya kingdom.",
-                  "category": "landmark",
-                  "coords": [
-                        100.56289,
-                        14.337276
-                  ]
-            },
-            {
-                  "name": "Wat Khun Phrom",
-                  "text": "The site preserves the atmospheric brick ruins of a traditional Buddhist temple complex from Thailand's ancient royal era.",
-                  "category": "landmark",
-                  "coords": [
-                        100.57063,
-                        14.3463
-                  ]
-            },
-            {
                   "name": "Wihan Phra Mongkhon Bophit",
                   "text": "This impressive Buddhist sanctuary enshrines one of the largest bronze Buddha statues in Thailand within its majestic main hall.",
                   "category": "landmark",
@@ -7602,15 +7188,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ayutthaya Historical Study Centre",
-                  "text": "This museum features detailed dioramas and educational exhibits depicting daily urban life in the ancient Siamese kingdom.",
-                  "category": "museum",
-                  "coords": [
-                        100.565502,
-                        14.349398
-                  ]
-            },
-            {
                   "name": "Ayutthaya Studies Institute",
                   "text": "Operating as an academic facility, the institute houses historical documents and cultural artifacts tracing the former capital's history.",
                   "category": "museum",
@@ -7626,15 +7203,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.574732,
                         14.333733
-                  ]
-            },
-            {
-                  "name": "Japanese Village",
-                  "text": "This museum commemorates a vibrant 17th-century Japanese trading settlement with a memorial park and informative pavilions.",
-                  "category": "museum",
-                  "coords": [
-                        100.57743,
-                        14.332844
                   ]
             },
             {
@@ -11627,24 +11195,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Maha That",
-                  "text": "Dieses weitläufige antike buddhistische Kloster ist weltweit bekannt für den markanten Buddha-Kopf aus Sandstein, der von den Wurzeln eines Bodhi-Baumes umschlungen ist.",
-                  "category": "landmark",
-                  "coords": [
-                        100.567494,
-                        14.357006
-                  ]
-            },
-            {
-                  "name": "Wat Yai Chai Mongkhon Worawihan",
-                  "text": "Diese majestätische buddhistische Tempelanlage verfügt über einen massiven glockenförmigen Chedi und eine große liegende Buddha-Statue, die in safranfarbene Gewänder gehüllt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        100.593536,
-                        14.344462
-                  ]
-            },
-            {
                   "name": "Wat Phananchoeng Worawihan",
                   "text": "Dieser lebhafte buddhistische Tempel aus dem Jahr 1324 ist bekannt für seinen kolossalen, hochverehrten 19 Meter hohen sitzenden goldenen Buddha.",
                   "category": "landmark",
@@ -11669,15 +11219,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.560528,
                         14.367824
-                  ]
-            },
-            {
-                  "name": "Wat Chaiyaphum",
-                  "text": "Besucher können an dieser historischen buddhistischen Tempelstätte die Überreste von Lateritmauern und Stupas erkunden.",
-                  "category": "landmark",
-                  "coords": [
-                        100.570088,
-                        14.357272
                   ]
             },
             {
@@ -11732,24 +11273,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.558769,
                         14.363157
-                  ]
-            },
-            {
-                  "name": "Phet Fort",
-                  "text": "Diese historische Ziegelsteinfestung steht am Zusammenfluss von Chao Phraya und Pa Sak und diente einst als wichtige Verteidigungsbastion für die Stadt.",
-                  "category": "landmark",
-                  "coords": [
-                        100.576274,
-                        14.346287
-                  ]
-            },
-            {
-                  "name": "Wat Suwan Dararam Ratchaworawihan",
-                  "text": "Dieser in der späten Ayutthaya-Zeit erbaute buddhistische Tempel wird für seine spektakulären Wandmalereien gefeiert, die die kriegerischen Siege von König Naresuan darstellen.",
-                  "category": "landmark",
-                  "coords": [
-                        100.578435,
-                        14.348211
                   ]
             },
             {
@@ -11825,60 +11348,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Pradu Song Tham",
-                  "text": "Dieser historische buddhistische Tempel ist als altes Zentrum für traditionelle thailändische Kampfkünste und ganzheitliche Medizin von historischer Bedeutung.",
-                  "category": "landmark",
-                  "coords": [
-                        100.587259,
-                        14.364072
-                  ]
-            },
-            {
-                  "name": "Wat Dusidaram",
-                  "text": "Besucher dieser Stätte können zwischen den verwitterten Laterit- und Ziegelresten eines ehemaligen großen buddhistischen Klosters umherwandern.",
-                  "category": "landmark",
-                  "coords": [
-                        100.589013,
-                        14.370819
-                  ]
-            },
-            {
-                  "name": "Wat Ayothaya",
-                  "text": "Diese aktive buddhistische Stätte östlich der Insel verbindet alte Ziegel-Stupas mit modernen Klostergebäuden.",
-                  "category": "landmark",
-                  "coords": [
-                        100.589584,
-                        14.368107
-                  ]
-            },
-            {
-                  "name": "Ayothaya Floating Market",
-                  "text": "Diese rekonstruierte kulturelle Attraktion ermöglicht es den Besuchern, auf traditionellen Holzstegen über das Wasser zu spazieren und lokale Snacks von festgemachten Verkäuferbooten zu probieren.",
-                  "category": "landmark",
-                  "coords": [
-                        100.593176,
-                        14.358877
-                  ]
-            },
-            {
-                  "name": "Wat Samanakottharam",
-                  "text": "Dieser historische buddhistische Tempel verfügt über einen rekonstruierten Prang neben den ursprünglichen Ziegelruinen seiner alten Ordinationshalle.",
-                  "category": "landmark",
-                  "coords": [
-                        100.590356,
-                        14.361253
-                  ]
-            },
-            {
-                  "name": "Wat Bang Kacha",
-                  "text": "In der Nähe des Zusammenflusses zweier großer Flüsse gelegen, bewahrt diese historische buddhistische Stätte die ruhigen Ziegelfundamente ihrer ursprünglichen Strukturen.",
-                  "category": "landmark",
-                  "coords": [
-                        100.574958,
-                        14.344639
-                  ]
-            },
-            {
                   "name": "Wat Phai Somnarin",
                   "text": "Wat Phai Somnarin ist ein aktiver buddhistischer Tempel, der der lokalen Gemeinde mit seinen charakteristischen Klostergebäuden dient.",
                   "category": "landmark",
@@ -11903,24 +11372,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.581464,
                         14.374899
-                  ]
-            },
-            {
-                  "name": "Wat Tham Niyom",
-                  "text": "Diese buddhistische Stätte bezieht oft natürliche Felsformationen oder Höhlenelemente ein und bietet eine abgeschiedene Umgebung für Meditationen.",
-                  "category": "landmark",
-                  "coords": [
-                        100.582094,
-                        14.359129
-                  ]
-            },
-            {
-                  "name": "Wat Phichai Songkhram",
-                  "text": "Dieser buddhistische Tempel dient der umliegenden Nachbarschaft als aktives Zentrum für Verdiensterwerb und klösterliches Leben.",
-                  "category": "landmark",
-                  "coords": [
-                        100.582139,
-                        14.353938
                   ]
             },
             {
@@ -11949,15 +11400,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                         100.574626,
                         14.365089
                   ]
-            },
-            {
-                  "name": "Baan Hollanda",
-                  "text": "Das Museum befindet sich genau an der Stelle des ehemaligen Handelspostens der Niederländischen Ostindien-Kompanie und dokumentiert die Handelsgeschichte zwischen Siam und den Niederlanden.",
-                  "category": "museum",
-                  "coords": [
-                        100.577299,
-                        14.340601
-                  ]
             }
       ],
       "hu": [
@@ -11968,24 +11410,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.567294,
                         14.358738
-                  ]
-            },
-            {
-                  "name": "Wat Maha That",
-                  "text": "Ez a kiterjedt ősi buddhista kolostor világszerte ismert arról a lenyűgöző homokkő Buddha-fejről, amelyet egy Bódhifa gyökerei fonnak körbe.",
-                  "category": "landmark",
-                  "coords": [
-                        100.567494,
-                        14.357006
-                  ]
-            },
-            {
-                  "name": "Wat Yai Chai Mongkhon Worawihan",
-                  "text": "Ez a fenséges buddhista templomkomplexum egy hatalmas harang alakú chedivel és egy nagy, sáfrányszínű köntösbe burkolt fekvő Buddha-szoborral büszkélkedhet.",
-                  "category": "landmark",
-                  "coords": [
-                        100.593536,
-                        14.344462
                   ]
             },
             {
@@ -12013,15 +11437,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.560528,
                         14.367824
-                  ]
-            },
-            {
-                  "name": "Wat Chaiyaphum",
-                  "text": "A látogatók a lateritfalak és sztúpák maradványait fedezhetik fel ezen a történelmi buddhista templomhelyen.",
-                  "category": "landmark",
-                  "coords": [
-                        100.570088,
-                        14.357272
                   ]
             },
             {
@@ -12076,24 +11491,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.558769,
                         14.363157
-                  ]
-            },
-            {
-                  "name": "Phet Fort",
-                  "text": "Ez a történelmi téglaerőd a Chao Phraya és a Pa Sak folyók összefolyásánál áll, és egykor a város létfontosságú védelmi bástyájaként szolgált.",
-                  "category": "landmark",
-                  "coords": [
-                        100.576274,
-                        14.346287
-                  ]
-            },
-            {
-                  "name": "Wat Suwan Dararam Ratchaworawihan",
-                  "text": "Ez a késő Ayutthaya-korszakban épült buddhista templom lenyűgöző belső falfestményeiről híres, amelyek Naresuan király hadi győzelmeit ábrázolják.",
-                  "category": "landmark",
-                  "coords": [
-                        100.578435,
-                        14.348211
                   ]
             },
             {
@@ -12169,60 +11566,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Pradu Song Tham",
-                  "text": "Ez a történelmi buddhista templom a hagyományos thai harcművészetek és a holisztikus orvoslás ősi központjaként bír történelmi jelentőséggel.",
-                  "category": "landmark",
-                  "coords": [
-                        100.587259,
-                        14.364072
-                  ]
-            },
-            {
-                  "name": "Wat Dusidaram",
-                  "text": "A helyszínre látogatók egy egykori nagy buddhista kolostor viharvert laterit- és téglamaradványai között barangolhatnak.",
-                  "category": "landmark",
-                  "coords": [
-                        100.589013,
-                        14.370819
-                  ]
-            },
-            {
-                  "name": "Wat Ayothaya",
-                  "text": "A szigettől keletre található aktív buddhista helyszín az ősi téglasztúpákat modern kolostori épületekkel ötvözi.",
-                  "category": "landmark",
-                  "coords": [
-                        100.589584,
-                        14.368107
-                  ]
-            },
-            {
-                  "name": "Ayothaya Floating Market",
-                  "text": "Ez a rekonstruált kulturális látványosság lehetővé teszi a látogatók számára, hogy hagyományos fa sétányokon közlekedjenek a víz felett, és helyi rágcsálnivalókat kóstoljanak a kikötött áruscsónakokból.",
-                  "category": "landmark",
-                  "coords": [
-                        100.593176,
-                        14.358877
-                  ]
-            },
-            {
-                  "name": "Wat Samanakottharam",
-                  "text": "Ezen a történelmi buddhista templomon egy újjáépített prang található az ősi szentelési csarnok eredeti téglamaradványai mellett.",
-                  "category": "landmark",
-                  "coords": [
-                        100.590356,
-                        14.361253
-                  ]
-            },
-            {
-                  "name": "Wat Bang Kacha",
-                  "text": "A két nagy folyó találkozásánál fekvő történelmi buddhista helyszín megőrizte eredeti építményeinek csendes téglaalapjait.",
-                  "category": "landmark",
-                  "coords": [
-                        100.574958,
-                        14.344639
-                  ]
-            },
-            {
                   "name": "Wat Phai Somnarin",
                   "text": "A Wat Phai Somnarin egy aktív buddhista templom, amely jellegzetes kolostorépületeivel szolgálja a helyi közösséget.",
                   "category": "landmark",
@@ -12247,24 +11590,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.581464,
                         14.374899
-                  ]
-            },
-            {
-                  "name": "Wat Tham Niyom",
-                  "text": "A gyakran természetes sziklaképződményeket vagy barlangokat magába foglaló buddhista helyszín elzárt környezetet biztosít a meditációhoz.",
-                  "category": "landmark",
-                  "coords": [
-                        100.582094,
-                        14.359129
-                  ]
-            },
-            {
-                  "name": "Wat Phichai Songkhram",
-                  "text": "Ez a buddhista templom az érdemszerzés és a kolostori élet aktív központjaként szolgál a környező lakosság számára.",
-                  "category": "landmark",
-                  "coords": [
-                        100.582139,
-                        14.353938
                   ]
             },
             {
@@ -12293,15 +11618,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                         100.574626,
                         14.365089
                   ]
-            },
-            {
-                  "name": "Baan Hollanda",
-                  "text": "A Holland Kelet-indiai Társaság egykori kereskedelmi állomásának pontos helyén található múzeum Sziám és Hollandia kereskedelmi történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        100.577299,
-                        14.340601
-                  ]
             }
       ],
       "ro": [
@@ -12312,24 +11628,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.567294,
                         14.358738
-                  ]
-            },
-            {
-                  "name": "Wat Maha That",
-                  "text": "Această vastă mănăstire budistă antică este recunoscută la nivel mondial pentru capul de Buddha din gresie, faimos prin faptul că este încolăcit în rădăcinile unui copac Bodhi.",
-                  "category": "landmark",
-                  "coords": [
-                        100.567494,
-                        14.357006
-                  ]
-            },
-            {
-                  "name": "Wat Yai Chai Mongkhon Worawihan",
-                  "text": "Acest complex de temple budiste maiestuos prezintă un chedi masiv în formă de clopot și o statuie mare a lui Buddha înclinat, drapată în robe șofran.",
-                  "category": "landmark",
-                  "coords": [
-                        100.593536,
-                        14.344462
                   ]
             },
             {
@@ -12357,15 +11655,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.560528,
                         14.367824
-                  ]
-            },
-            {
-                  "name": "Wat Chaiyaphum",
-                  "text": "Vizitatorii pot explora rămășițele pereților de laterit și ale stupelor la acest sit istoric al unui templu budist.",
-                  "category": "landmark",
-                  "coords": [
-                        100.570088,
-                        14.357272
                   ]
             },
             {
@@ -12420,24 +11709,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.558769,
                         14.363157
-                  ]
-            },
-            {
-                  "name": "Phet Fort",
-                  "text": "Această fortăreață istorică de cărămidă se află la confluența râurilor Chao Phraya și Pa Sak, servind cândva ca un bastion de apărare vital pentru oraș.",
-                  "category": "landmark",
-                  "coords": [
-                        100.576274,
-                        14.346287
-                  ]
-            },
-            {
-                  "name": "Wat Suwan Dararam Ratchaworawihan",
-                  "text": "Construit în perioada târzie Ayutthaya, acest templu budist este aclamat pentru picturile sale murale interioare spectaculoase, care înfățișează victoriile marțiale ale regelui Naresuan.",
-                  "category": "landmark",
-                  "coords": [
-                        100.578435,
-                        14.348211
                   ]
             },
             {
@@ -12513,60 +11784,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Pradu Song Tham",
-                  "text": "Acest templu budist istoric este semnificativ din punct de vedere istoric ca un vechi centru pentru artele marțiale tradiționale thailandeze și medicina holistică.",
-                  "category": "landmark",
-                  "coords": [
-                        100.587259,
-                        14.364072
-                  ]
-            },
-            {
-                  "name": "Wat Dusidaram",
-                  "text": "Vizitatorii acestui sit pot rătăci printre rămășițele erodate de laterit și cărămidă ale unei foste mănăstiri budiste mărețe.",
-                  "category": "landmark",
-                  "coords": [
-                        100.589013,
-                        14.370819
-                  ]
-            },
-            {
-                  "name": "Wat Ayothaya",
-                  "text": "Situat la est de insulă, acest sit budist activ combină stupele antice de cărămidă cu clădiri monahale moderne.",
-                  "category": "landmark",
-                  "coords": [
-                        100.589584,
-                        14.368107
-                  ]
-            },
-            {
-                  "name": "Ayothaya Floating Market",
-                  "text": "Această atracție culturală reconstituită le permite vizitatorilor să navigheze pe aleile tradiționale de lemn deasupra apei, degustând gustări locale de la bărcile ancorate ale vânzătorilor.",
-                  "category": "landmark",
-                  "coords": [
-                        100.593176,
-                        14.358877
-                  ]
-            },
-            {
-                  "name": "Wat Samanakottharam",
-                  "text": "Acest templu budist istoric prezintă un prang reconstruit alături de ruinele originale de cărămidă ale sălii sale de hirotonire antice.",
-                  "category": "landmark",
-                  "coords": [
-                        100.590356,
-                        14.361253
-                  ]
-            },
-            {
-                  "name": "Wat Bang Kacha",
-                  "text": "Situat lângă intersecția a două râuri majore, acest sit budist istoric păstrează fundațiile liniștite de cărămidă ale structurilor sale originale.",
-                  "category": "landmark",
-                  "coords": [
-                        100.574958,
-                        14.344639
-                  ]
-            },
-            {
                   "name": "Wat Phai Somnarin",
                   "text": "Wat Phai Somnarin este un templu budist activ care servește comunitatea locală prin clădirile sale monahale caracteristice.",
                   "category": "landmark",
@@ -12591,24 +11808,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.581464,
                         14.374899
-                  ]
-            },
-            {
-                  "name": "Wat Tham Niyom",
-                  "text": "Încorporând adesea elemente naturale din stâncă sau elemente de peșteră, acest sit budist oferă un cadru retras pentru meditație.",
-                  "category": "landmark",
-                  "coords": [
-                        100.582094,
-                        14.359129
-                  ]
-            },
-            {
-                  "name": "Wat Phichai Songkhram",
-                  "text": "Acest templu budist servește drept centru activ de dobândire a meritelor și de viață monahală pentru cartierul înconjurător.",
-                  "category": "landmark",
-                  "coords": [
-                        100.582139,
-                        14.353938
                   ]
             },
             {
@@ -12637,15 +11836,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                         100.574626,
                         14.365089
                   ]
-            },
-            {
-                  "name": "Baan Hollanda",
-                  "text": "Situat exact pe locul fostului post comercial al Companiei Olandeze a Indiilor de Est, acest muzeu cronicizează istoria mercantilă dintre Siam și Țările de Jos.",
-                  "category": "museum",
-                  "coords": [
-                        100.577299,
-                        14.340601
-                  ]
             }
       ],
       "en": [
@@ -12656,24 +11846,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.567294,
                         14.358738
-                  ]
-            },
-            {
-                  "name": "Wat Maha That",
-                  "text": "This sprawling ancient Buddhist monastery is globally recognized for the striking sandstone Buddha head famously entwined in the roots of a Bodhi tree.",
-                  "category": "landmark",
-                  "coords": [
-                        100.567494,
-                        14.357006
-                  ]
-            },
-            {
-                  "name": "Wat Yai Chai Mongkhon Worawihan",
-                  "text": "This majestic Buddhist temple complex features a massive bell-shaped chedi and a large reclining Buddha statue draped in saffron robes.",
-                  "category": "landmark",
-                  "coords": [
-                        100.593536,
-                        14.344462
                   ]
             },
             {
@@ -12701,15 +11873,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.560528,
                         14.367824
-                  ]
-            },
-            {
-                  "name": "Wat Chaiyaphum",
-                  "text": "Visitors can explore the remnants of laterite walls and stupas at this historic Buddhist temple site.",
-                  "category": "landmark",
-                  "coords": [
-                        100.570088,
-                        14.357272
                   ]
             },
             {
@@ -12764,24 +11927,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.558769,
                         14.363157
-                  ]
-            },
-            {
-                  "name": "Phet Fort",
-                  "text": "This historic brick fortress stands at the confluence of the Chao Phraya and Pa Sak rivers, once serving as a vital defensive bastion for the city.",
-                  "category": "landmark",
-                  "coords": [
-                        100.576274,
-                        14.346287
-                  ]
-            },
-            {
-                  "name": "Wat Suwan Dararam Ratchaworawihan",
-                  "text": "Built during the late Ayutthaya period, this Buddhist temple is acclaimed for its spectacular interior murals depicting the martial victories of King Naresuan.",
-                  "category": "landmark",
-                  "coords": [
-                        100.578435,
-                        14.348211
                   ]
             },
             {
@@ -12857,60 +12002,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Pradu Song Tham",
-                  "text": "This historic Buddhist temple is historically significant as an ancient centre for traditional Thai martial arts and holistic medicine.",
-                  "category": "landmark",
-                  "coords": [
-                        100.587259,
-                        14.364072
-                  ]
-            },
-            {
-                  "name": "Wat Dusidaram",
-                  "text": "Visitors to this site can wander among the weathered laterite and brick remnants of a former grand Buddhist monastery.",
-                  "category": "landmark",
-                  "coords": [
-                        100.589013,
-                        14.370819
-                  ]
-            },
-            {
-                  "name": "Wat Ayothaya",
-                  "text": "Located east of the island, this active Buddhist site combines ancient brick stupas with modern monastic buildings.",
-                  "category": "landmark",
-                  "coords": [
-                        100.589584,
-                        14.368107
-                  ]
-            },
-            {
-                  "name": "Ayothaya Floating Market",
-                  "text": "This reconstructed cultural attraction allows visitors to navigate traditional wooden walkways over the water, sampling local snacks from moored vendor boats.",
-                  "category": "landmark",
-                  "coords": [
-                        100.593176,
-                        14.358877
-                  ]
-            },
-            {
-                  "name": "Wat Samanakottharam",
-                  "text": "This historic Buddhist temple features a reconstructed prang alongside the original brick ruins of its ancient ordination hall.",
-                  "category": "landmark",
-                  "coords": [
-                        100.590356,
-                        14.361253
-                  ]
-            },
-            {
-                  "name": "Wat Bang Kacha",
-                  "text": "Situated near the junction of two major rivers, this historic Buddhist site preserves the quiet brick foundations of its original structures.",
-                  "category": "landmark",
-                  "coords": [
-                        100.574958,
-                        14.344639
-                  ]
-            },
-            {
                   "name": "Wat Phai Somnarin",
                   "text": "Wat Phai Somnarin is an active Buddhist temple serving the local community with its characteristic monastic buildings.",
                   "category": "landmark",
@@ -12938,24 +12029,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Tham Niyom",
-                  "text": "Often incorporating natural rock features or cave elements as implied by the word 'Tham', this Buddhist site provides a secluded setting for meditation.",
-                  "category": "landmark",
-                  "coords": [
-                        100.582094,
-                        14.359129
-                  ]
-            },
-            {
-                  "name": "Wat Phichai Songkhram",
-                  "text": "This Buddhist temple serves as an active center of merit-making and monastic life for the surrounding neighborhood.",
-                  "category": "landmark",
-                  "coords": [
-                        100.582139,
-                        14.353938
-                  ]
-            },
-            {
                   "name": "Thai Boat Museum",
                   "text": "This specialized museum displays an extensive collection of traditional Thai rivercraft, preserving the country's rich navigational heritage.",
                   "category": "museum",
@@ -12980,15 +12053,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.574626,
                         14.365089
-                  ]
-            },
-            {
-                  "name": "Baan Hollanda",
-                  "text": "Situated on the exact site of the former Dutch East India Company trading post, this museum chronicles the mercantile history between Siam and the Netherlands.",
-                  "category": "museum",
-                  "coords": [
-                        100.577299,
-                        14.340601
                   ]
             }
       ]
@@ -13042,15 +12106,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "khmer-ruins-of-lopburi-history-v2", "sights": {
       "de": [
             {
-                  "name": "Kraison Siharat Palace",
-                  "text": "Die zerfallenden strukturellen Überreste eines ehemaligen königlichen Palastrückzugsortes.",
-                  "category": "historical",
-                  "coords": [
-                        100.645206,
-                        14.812102
-                  ]
-            },
-            {
                   "name": "Wat Tong Pu",
                   "text": "Ein historischer thailändischer buddhistischer Tempel, der für seine langjährige religiöse Bedeutung bekannt ist.",
                   "category": "religious",
@@ -13102,15 +12157,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.609337,
                         14.80685
-                  ]
-            },
-            {
-                  "name": "Lopburi Provincial Stadium",
-                  "text": "Eine öffentliche Sportstätte, die für lokale Leichtathletikveranstaltungen und Fußballspiele genutzt wird.",
-                  "category": "park",
-                  "coords": [
-                        100.647759,
-                        14.801078
                   ]
             },
             {
@@ -13260,15 +12306,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Kraison Siharat Palace",
-                  "text": "Egykori királyi palota omladozó szerkezeti maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        100.645206,
-                        14.812102
-                  ]
-            },
-            {
                   "name": "Wat Tong Pu",
                   "text": "Történelmi thai buddhista templom, amely régóta fennálló vallási jelentőségéről ismert.",
                   "category": "religious",
@@ -13320,15 +12357,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.609337,
                         14.80685
-                  ]
-            },
-            {
-                  "name": "Lopburi Provincial Stadium",
-                  "text": "Nyilvános sportlétesítmény, amelyet helyi atlétikai eseményekre és labdarúgó-mérkőzésekre használnak.",
-                  "category": "park",
-                  "coords": [
-                        100.647759,
-                        14.801078
                   ]
             },
             {
@@ -13478,15 +12506,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Kraison Siharat Palace",
-                  "text": "Rămășițele structurale prăbușite ale unui fost refugiu al palatului regal.",
-                  "category": "historical",
-                  "coords": [
-                        100.645206,
-                        14.812102
-                  ]
-            },
-            {
                   "name": "Wat Tong Pu",
                   "text": "Un templu budist thailandez istoric, renumit pentru semnificația sa religioasă îndelungată.",
                   "category": "religious",
@@ -13538,15 +12557,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.609337,
                         14.80685
-                  ]
-            },
-            {
-                  "name": "Lopburi Provincial Stadium",
-                  "text": "Un spațiu sportiv public folosit pentru evenimente atletice locale și meciuri de fotbal.",
-                  "category": "park",
-                  "coords": [
-                        100.647759,
-                        14.801078
                   ]
             },
             {
@@ -13696,15 +12706,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Kraison Siharat Palace",
-                  "text": "The crumbling structural remnants of a former royal palace retreat.",
-                  "category": "historical",
-                  "coords": [
-                        100.645206,
-                        14.812102
-                  ]
-            },
-            {
                   "name": "Wat Tong Pu",
                   "text": "A historic Thai Buddhist temple renowned for its long-standing religious significance.",
                   "category": "religious",
@@ -13756,15 +12757,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.609337,
                         14.80685
-                  ]
-            },
-            {
-                  "name": "Lopburi Provincial Stadium",
-                  "text": "A public sporting venue used for local athletic events and football matches.",
-                  "category": "park",
-                  "coords": [
-                        100.647759,
-                        14.801078
                   ]
             },
             {
@@ -14019,15 +13011,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khao Krachai Viewpoint",
-                  "text": "Der Khao Krachai Viewpoint bietet von seinem erhöhten Standpunkt aus einen weiten Panoramablick über die Stadt und das Flusstal.",
-                  "category": "natural",
-                  "coords": [
-                        99.545836,
-                        14.041244
-                  ]
-            },
-            {
                   "name": "Khao Phu Rang",
                   "text": "Khao Phu Rang ist ein felsiger Gipfel, der die hügelige Landschaft rund um Kanchanaburi überragt.",
                   "category": "natural",
@@ -14052,24 +13035,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         99.503383,
                         13.999933
-                  ]
-            },
-            {
-                  "name": "The JEATH War Museum",
-                  "text": "Das JEATH-Kriegsmuseum zeigt unter anderem eine rekonstruierte Bambushütte, die die düstere Realität der alliierten Kriegsgefangenen veranschaulicht.",
-                  "category": "museum",
-                  "coords": [
-                        99.5306,
-                        14.016302
-                  ]
-            },
-            {
-                  "name": "Thai Paper Mill",
-                  "text": "Die Thai Paper Mill ist eine alte Industrieanlage, die zur Demonstration traditioneller Papierherstellungstechniken erhalten wurde.",
-                  "category": "museum",
-                  "coords": [
-                        99.532027,
-                        14.018297
                   ]
             },
             {
@@ -14106,15 +13071,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         99.524787,
                         14.032341
-                  ]
-            },
-            {
-                  "name": "Wat Chaichumphon Chanasongkhram",
-                  "text": "Wat Chaichumphon Chanasongkhram ist ein historischer Tempel am Flussufer, der sich durch einen markanten Stupa auszeichnet.",
-                  "category": "religious",
-                  "coords": [
-                        99.531558,
-                        14.015127
                   ]
             },
             {
@@ -14219,15 +13175,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khao Krachai Viewpoint",
-                  "text": "A Khao Krachai Viewpoint magaslati pontjáról széles panorámát kínál a városra és a folyóvölgyre.",
-                  "category": "natural",
-                  "coords": [
-                        99.545836,
-                        14.041244
-                  ]
-            },
-            {
                   "name": "Khao Phu Rang",
                   "text": "A Khao Phu Rang egy sziklás hegycsúcs, amely Kanchanaburi dombos tája fölé magasodik.",
                   "category": "natural",
@@ -14252,24 +13199,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         99.503383,
                         13.999933
-                  ]
-            },
-            {
-                  "name": "The JEATH War Museum",
-                  "text": "A JEATH Háborús Múzeum többek között egy rekonstruált bambuszkunyhót mutat be, amely a szövetséges hadifoglyok zord valóságát szemlélteti.",
-                  "category": "museum",
-                  "coords": [
-                        99.5306,
-                        14.016302
-                  ]
-            },
-            {
-                  "name": "Thai Paper Mill",
-                  "text": "A Thai Papírgyár egy régi ipari létesítmény, amelyet a hagyományos papírgyártási technikák bemutatására őriztek meg.",
-                  "category": "museum",
-                  "coords": [
-                        99.532027,
-                        14.018297
                   ]
             },
             {
@@ -14306,15 +13235,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         99.524787,
                         14.032341
-                  ]
-            },
-            {
-                  "name": "Wat Chaichumphon Chanasongkhram",
-                  "text": "A Wat Chaichumphon Chanasongkhram egy történelmi folyóparti templom, amelyet egy feltűnő sztúpa jellemez.",
-                  "category": "religious",
-                  "coords": [
-                        99.531558,
-                        14.015127
                   ]
             },
             {
@@ -14419,15 +13339,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khao Krachai Viewpoint",
-                  "text": "Punctul de belvedere Khao Krachai oferă o panoramă largă asupra orașului și a văii râului din punctul său înalt.",
-                  "category": "natural",
-                  "coords": [
-                        99.545836,
-                        14.041244
-                  ]
-            },
-            {
                   "name": "Khao Phu Rang",
                   "text": "Khao Phu Rang este un vârf stâncos care domină peisajul deluros din jurul orașului Kanchanaburi.",
                   "category": "natural",
@@ -14452,24 +13363,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         99.503383,
                         13.999933
-                  ]
-            },
-            {
-                  "name": "The JEATH War Museum",
-                  "text": "Muzeul de Război JEATH prezintă o colibă de bambus reconstruită, care ilustrează realitatea sumbră a prizonierilor de război aliați.",
-                  "category": "museum",
-                  "coords": [
-                        99.5306,
-                        14.016302
-                  ]
-            },
-            {
-                  "name": "Thai Paper Mill",
-                  "text": "Fabrica de hârtie thailandeză este o veche facilitate industrială conservată pentru a demonstra tehnicile tradiționale de fabricare a hârtiei.",
-                  "category": "museum",
-                  "coords": [
-                        99.532027,
-                        14.018297
                   ]
             },
             {
@@ -14506,15 +13399,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         99.524787,
                         14.032341
-                  ]
-            },
-            {
-                  "name": "Wat Chaichumphon Chanasongkhram",
-                  "text": "Wat Chaichumphon Chanasongkhram este un templu istoric situat pe malul râului, care se distinge printr-o stupă impresionantă.",
-                  "category": "religious",
-                  "coords": [
-                        99.531558,
-                        14.015127
                   ]
             },
             {
@@ -14619,15 +13503,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khao Krachai Viewpoint",
-                  "text": "The Khao Krachai Viewpoint offers a sweeping panoramic view over the town and river valley from its elevated vantage.",
-                  "category": "natural",
-                  "coords": [
-                        99.545836,
-                        14.041244
-                  ]
-            },
-            {
                   "name": "Khao Phu Rang",
                   "text": "Khao Phu Rang is a rocky peak that towers over the rolling landscape surrounding Kanchanaburi.",
                   "category": "natural",
@@ -14652,24 +13527,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         99.503383,
                         13.999933
-                  ]
-            },
-            {
-                  "name": "The JEATH War Museum",
-                  "text": "The JEATH War Museum features a reconstructed bamboo detention hut detailing the grim reality faced by Allied POWs.",
-                  "category": "museum",
-                  "coords": [
-                        99.5306,
-                        14.016302
-                  ]
-            },
-            {
-                  "name": "Thai Paper Mill",
-                  "text": "The Thai Paper Mill is an old industrial facility preserved to demonstrate traditional paper manufacturing techniques.",
-                  "category": "museum",
-                  "coords": [
-                        99.532027,
-                        14.018297
                   ]
             },
             {
@@ -14706,15 +13563,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         99.524787,
                         14.032341
-                  ]
-            },
-            {
-                  "name": "Wat Chaichumphon Chanasongkhram",
-                  "text": "Wat Chaichumphon Chanasongkhram is a historic riverside temple that is distinguished by a striking structural stupa.",
-                  "category": "religious",
-                  "coords": [
-                        99.531558,
-                        14.015127
                   ]
             },
             {
@@ -18050,66 +16898,12 @@ export const poiExtraThailandHistoryV2: POI[] = [
     id: "wat-tham-suea-krabi-history-v2", "sights": {
       "de": [
             {
-                  "name": "Krabi Lucky Windmill",
-                  "text": "Die Krabi Lucky Windmill ist ein markantes lokales Wahrzeichen vor der Kulisse der malerischen Umgebung von Krabi.",
-                  "category": "landmark",
-                  "coords": [
-                        98.908498,
-                        8.048456
-                  ]
-            },
-            {
                   "name": "HM Lanta War Ship Museum",
                   "text": "Das HM Lanta War Ship Museum in Krabi bewahrt die Geschichte der Königlichen Thailändischen Marine an Bord eines ausgemusterten Marineschiffs.",
                   "category": "museum",
                   "coords": [
                         98.90755,
                         8.046866
-                  ]
-            },
-            {
-                  "name": "Stadtpfeiler",
-                  "text": "Der City Pillar Shrine in Krabi ist eine verehrte Kultstätte, die die heilige Säule beherbergt, die die Gründung und das spirituelle Herz der Stadt repräsentiert.",
-                  "category": "religious",
-                  "coords": [
-                        98.918013,
-                        8.059609
-                  ]
-            },
-            {
-                  "name": "Krabi Walking Street",
-                  "text": "Die Krabi Walking Street ist ein lebhafter Nachtmarkt im Stadtzentrum, der eine Vielzahl von lokalem Streetfood, Kunsthandwerk und Live-Unterhaltung bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        98.916398,
-                        8.06416
-                  ]
-            },
-            {
-                  "name": "Cro-magnon Man Intersection",
-                  "text": "Die Cro-Magnon-Mensch-Kreuzung in Krabi verfügt über eine einzigartige große Skulptur eines prähistorischen Menschen, der eine Ampel trägt.",
-                  "category": "landmark",
-                  "coords": [
-                        98.915184,
-                        8.064853
-                  ]
-            },
-            {
-                  "name": "Smilodon Intersection",
-                  "text": "Die Smilodon-Kreuzung ist ein berühmter Verkehrsknotenpunkt in Krabi, der mit großen Statuen prähistorischer Säbelzahnkatzen geschmückt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        98.914737,
-                        8.066991
-                  ]
-            },
-            {
-                  "name": "Khao Khanap Nam Cave",
-                  "text": "Die Khao Khanap Nam Höhle liegt eingebettet in zwei markante Kalksteinkarstberge, die sich prominent über dem Krabi-Fluss erheben.",
-                  "category": "landmark",
-                  "coords": [
-                        98.921093,
-                        8.078329
                   ]
             },
             {
@@ -18182,15 +16976,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         98.87183,
                         8.083727
-                  ]
-            },
-            {
-                  "name": "Andaman Art Museum",
-                  "text": "Das Andaman Art Museum in Krabi zeigt zeitgenössische Gemälde und Skulpturen, die vom kulturellen Erbe und der Küstenschönheit des Andamanischen Meeres inspiriert sind.",
-                  "category": "museum",
-                  "coords": [
-                        98.913867,
-                        8.070762
                   ]
             },
             {
@@ -18277,66 +17062,12 @@ export const poiExtraThailandHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Krabi Lucky Windmill",
-                  "text": "A Krabi Lucky Windmill egy jellegzetes helyi nevezetesség Krabi festői környezetében.",
-                  "category": "landmark",
-                  "coords": [
-                        98.908498,
-                        8.048456
-                  ]
-            },
-            {
                   "name": "HM Lanta War Ship Museum",
                   "text": "A krabi HM Lanta Hadibárka Múzeum a thai királyi haditengerészet történetét őrzi egy leszerelt tengerészeti hajó fedélzetén.",
                   "category": "museum",
                   "coords": [
                         98.90755,
                         8.046866
-                  ]
-            },
-            {
-                  "name": "City Pillar Shrine",
-                  "text": "A krabi City Pillar Shrine egy tisztelt imahely, amely a város alapítását és spirituális szívét jelképező szent oszlopnak ad otthont.",
-                  "category": "religious",
-                  "coords": [
-                        98.918013,
-                        8.059609
-                  ]
-            },
-            {
-                  "name": "Krabi Walking Street",
-                  "text": "A Krabi Walking Street egy nyüzsgő éjszakai piac a városközpontban, amely helyi utcai ételek, kézműves termékek és élő szórakoztatás széles választékát kínálja.",
-                  "category": "landmark",
-                  "coords": [
-                        98.916398,
-                        8.06416
-                  ]
-            },
-            {
-                  "name": "Cro-magnon Man Intersection",
-                  "text": "A krabi Cro-magnoni ember kereszteződésben egy egyedülálló, közlekedési lámpát tartó ősember hatalmas szobra áll.",
-                  "category": "landmark",
-                  "coords": [
-                        98.915184,
-                        8.064853
-                  ]
-            },
-            {
-                  "name": "Smilodon Intersection",
-                  "text": "A Smilodon kereszteződés egy híres közlekedési csomópont Krabiban, amelyet történelem előtti kardfogú macskák nagy szobrai díszítenek.",
-                  "category": "landmark",
-                  "coords": [
-                        98.914737,
-                        8.066991
-                  ]
-            },
-            {
-                  "name": "Khao Khanap Nam Cave",
-                  "text": "A Khao Khanap Nam-barlang két ikonikus, a Krabi-folyó fölé magasodó mészkőkarszt hegy belsejében található.",
-                  "category": "landmark",
-                  "coords": [
-                        98.921093,
-                        8.078329
                   ]
             },
             {
@@ -18409,15 +17140,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         98.87183,
                         8.083727
-                  ]
-            },
-            {
-                  "name": "Andaman Art Museum",
-                  "text": "A krabi Andamán Művészeti Múzeum az Andamán-tenger kulturális öröksége és partvidéki szépsége által ihletett kortárs festményeket és szobrokat állít ki.",
-                  "category": "museum",
-                  "coords": [
-                        98.913867,
-                        8.070762
                   ]
             },
             {
@@ -18504,66 +17226,12 @@ export const poiExtraThailandHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Krabi Lucky Windmill",
-                  "text": "Krabi Lucky Windmill este o structură distinctivă și un punct de reper local pe fundalul împrejurimilor pitorești din Krabi.",
-                  "category": "landmark",
-                  "coords": [
-                        98.908498,
-                        8.048456
-                  ]
-            },
-            {
                   "name": "HM Lanta War Ship Museum",
                   "text": "Muzeul Navelor de Război HM Lanta din Krabi păstrează istoria Marinei Regale Thailandeze la bordul unei nave navale scoase din funcțiune.",
                   "category": "museum",
                   "coords": [
                         98.90755,
                         8.046866
-                  ]
-            },
-            {
-                  "name": "City Pillar Shrine",
-                  "text": "Sanctuarul Pilonului Orașului din Krabi este un lăcaș de cult venerat, care adăpostește stâlpul sacru ce reprezintă fundația și inima spirituală a orașului.",
-                  "category": "religious",
-                  "coords": [
-                        98.918013,
-                        8.059609
-                  ]
-            },
-            {
-                  "name": "Krabi Walking Street",
-                  "text": "Krabi Walking Street este o piață de noapte plină de viață, oferind o gamă largă de mâncare stradală locală, meșteșuguri și divertisment live în centrul orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        98.916398,
-                        8.06416
-                  ]
-            },
-            {
-                  "name": "Cro-magnon Man Intersection",
-                  "text": "Intersecția Omul de Cro-Magnon din Krabi prezintă o sculptură mare unică a unui om preistoric care poartă un semafor.",
-                  "category": "landmark",
-                  "coords": [
-                        98.915184,
-                        8.064853
-                  ]
-            },
-            {
-                  "name": "Smilodon Intersection",
-                  "text": "Intersecția Smilodon este un faimos nod rutier din Krabi, împodobit cu statui mari de feline preistorice cu dinți sabie.",
-                  "category": "landmark",
-                  "coords": [
-                        98.914737,
-                        8.066991
-                  ]
-            },
-            {
-                  "name": "Khao Khanap Nam Cave",
-                  "text": "Peștera Khao Khanap Nam este ascunsă în interiorul a doi munți carstici emblematici din calcar, care se înalță proeminent deasupra râului Krabi.",
-                  "category": "landmark",
-                  "coords": [
-                        98.921093,
-                        8.078329
                   ]
             },
             {
@@ -18636,15 +17304,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         98.87183,
                         8.083727
-                  ]
-            },
-            {
-                  "name": "Andaman Art Museum",
-                  "text": "Muzeul de Artă Andaman din Krabi prezintă picturi și sculpturi contemporane inspirate din moștenirea culturală și frumusețea de coastă a Mării Andaman.",
-                  "category": "museum",
-                  "coords": [
-                        98.913867,
-                        8.070762
                   ]
             },
             {
@@ -18731,66 +17390,12 @@ export const poiExtraThailandHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Krabi Lucky Windmill",
-                  "text": "The Krabi Lucky Windmill is a distinctive local landmark structure standing against the backdrop of Krabi's scenic surroundings.",
-                  "category": "landmark",
-                  "coords": [
-                        98.908498,
-                        8.048456
-                  ]
-            },
-            {
                   "name": "HM Lanta War Ship Museum",
                   "text": "The HM Lanta War Ship Museum in Krabi preserves the history of the Royal Thai Navy aboard a decommissioned naval vessel.",
                   "category": "museum",
                   "coords": [
                         98.90755,
                         8.046866
-                  ]
-            },
-            {
-                  "name": "City Pillar Shrine",
-                  "text": "The City Pillar Shrine in Krabi is a revered place of worship housing the sacred pillar that represents the city's foundation and spiritual heart.",
-                  "category": "religious",
-                  "coords": [
-                        98.918013,
-                        8.059609
-                  ]
-            },
-            {
-                  "name": "Krabi Walking Street",
-                  "text": "Krabi Walking Street is a lively night market offering an array of local street food, crafts, and live entertainment in the city center.",
-                  "category": "landmark",
-                  "coords": [
-                        98.916398,
-                        8.06416
-                  ]
-            },
-            {
-                  "name": "Cro-magnon Man Intersection",
-                  "text": "The Cro-magnon Man Intersection in Krabi features a unique large sculpture of a prehistoric man carrying a traffic light.",
-                  "category": "landmark",
-                  "coords": [
-                        98.915184,
-                        8.064853
-                  ]
-            },
-            {
-                  "name": "Smilodon Intersection",
-                  "text": "The Smilodon Intersection is a famous traffic junction in Krabi adorned with large statues of prehistoric saber-toothed cats.",
-                  "category": "landmark",
-                  "coords": [
-                        98.914737,
-                        8.066991
-                  ]
-            },
-            {
-                  "name": "Khao Khanap Nam Cave",
-                  "text": "Khao Khanap Nam Cave is nestled within two iconic limestone karst mountains rising prominently above the Krabi River.",
-                  "category": "landmark",
-                  "coords": [
-                        98.921093,
-                        8.078329
                   ]
             },
             {
@@ -18863,15 +17468,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         98.87183,
                         8.083727
-                  ]
-            },
-            {
-                  "name": "Andaman Art Museum",
-                  "text": "The Andaman Art Museum in Krabi showcases contemporary paintings and sculptures inspired by the cultural heritage and coastal beauty of the Andaman Sea.",
-                  "category": "museum",
-                  "coords": [
-                        98.913867,
-                        8.070762
                   ]
             },
             {
@@ -19179,15 +17775,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Phi Suea Samut Fort",
-                  "text": "Das Fort Phi Suea Samut ist eine historische militärische Batterie auf einer Flussinsel, die ursprünglich zum Schutz der Wasserstraße errichtet wurde.",
-                  "category": "museum",
-                  "coords": [
-                        100.58758,
-                        13.595382
-                  ]
-            },
-            {
                   "name": "Wat Khae",
                   "text": "Wat Khae ist ein lokaler thailändischer buddhistischer Tempelkomplex in der Nähe des Flusses, der traditionelle verzierte Schreine aufweist.",
                   "category": "religious",
@@ -19212,15 +17799,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.587969,
                         13.612801
-                  ]
-            },
-            {
-                  "name": "Wat Traimit Wararam",
-                  "text": "Wat Traimit Wararam ist ein thailändischer buddhistischer Tempelkomplex, der sich durch seine verzierten goldenen Stupas und klösterlichen Wohnbereiche auszeichnet.",
-                  "category": "religious",
-                  "coords": [
-                        100.577922,
-                        13.5815
                   ]
             },
             {
@@ -19314,24 +17892,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Phra Samut Chedi",
-                  "text": "Wat Phra Samut Chedi ist ein markanter thailändischer buddhistischer Tempelkomplex, der weithin für seinen hoch aufragenden weißen Stupa am Flussufer bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        100.58484,
-                        13.600144
-                  ]
-            },
-            {
-                  "name": "Wat Mahawong",
-                  "text": "Wat Mahawong ist ein traditioneller buddhistischer Kultort mit klassischen thailändischen architektonischen Details und einer verzierten Haupthalle.",
-                  "category": "religious",
-                  "coords": [
-                        100.596009,
-                        13.603377
-                  ]
-            },
-            {
                   "name": "Wat Yai",
                   "text": "Wat Yai ist ein klassisches thailändisches buddhistisches Heiligtum, das sich durch seine ruhige Atmosphäre und die traditionellen mehrstufigen Dächer auszeichnet.",
                   "category": "religious",
@@ -19341,48 +17901,12 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Klang Worawihan",
-                  "text": "Wat Klang Worawihan ist ein bekannter thailändischer buddhistischer Tempel mit aufwendigen religiösen Verzierungen und klassischen Klostergebäuden.",
-                  "category": "religious",
-                  "coords": [
-                        100.599436,
-                        13.592375
-                  ]
-            },
-            {
-                  "name": "Wat Nai Song Wihan",
-                  "text": "Wat Nai Song Wihan ist ein thailändischer buddhistischer Tempel, der für seine traditionellen Vihara-Strukturen und die rituelle Architektur bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        100.604826,
-                        13.592802
-                  ]
-            },
-            {
-                  "name": "Wat Chai Mongkhon",
-                  "text": "Wat Chai Mongkhon ist ein traditioneller thailändischer buddhistischer Tempelkomplex in der Provinz Samut Prakan, der von einem markanten Stupa dominiert wird.",
-                  "category": "religious",
-                  "coords": [
-                        100.604854,
-                        13.591336
-                  ]
-            },
-            {
                   "name": "Wat Nam Daeng",
                   "text": "Wat Nam Daeng ist ein aktives thailändisches buddhistisches Kloster, das sich durch seinen kunstvollen Gebetssaal und seine klösterliche Gemeinschaft auszeichnet.",
                   "category": "religious",
                   "coords": [
                         100.650137,
                         13.620276
-                  ]
-            },
-            {
-                  "name": "Wat Bang Ping",
-                  "text": "Wat Bang Ping ist ein regionales thailändisches buddhistisches Heiligtum, das durch seine schrägen Ziegeldächer und ruhigen Meditationshöfe auffällt.",
-                  "category": "religious",
-                  "coords": [
-                        100.622405,
-                        13.607034
                   ]
             },
             {
@@ -19501,15 +18025,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                         100.540039,
                         13.657691
                   ]
-            },
-            {
-                  "name": "lee",
-                  "text": "Das Lee Museum fungiert als lokaler Ausstellungsraum, in dem verschiedene kulturelle Artefakte und Sammlungen in geschlossenen Vitrinen präsentiert werden.",
-                  "category": "museum",
-                  "coords": [
-                        100.607944,
-                        13.579147
-                  ]
             }
       ],
       "hu": [
@@ -19520,15 +18035,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.589502,
                         13.628569
-                  ]
-            },
-            {
-                  "name": "Phi Suea Samut Fort",
-                  "text": "A Phi Suea Samut erőd egy folyami szigeten található történelmi katonai üteg, amelyet eredetileg a vízi út védelmére építettek.",
-                  "category": "museum",
-                  "coords": [
-                        100.58758,
-                        13.595382
                   ]
             },
             {
@@ -19556,15 +18062,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.587969,
                         13.612801
-                  ]
-            },
-            {
-                  "name": "Wat Traimit Wararam",
-                  "text": "A Wat Traimit Wararam egy thai buddhista templomkomplexum, amelyet díszes arany sztúpák és szerzetesi lakóövezetek jellemeznek.",
-                  "category": "religious",
-                  "coords": [
-                        100.577922,
-                        13.5815
                   ]
             },
             {
@@ -19658,24 +18155,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Phra Samut Chedi",
-                  "text": "A Wat Phra Samut Chedi egy kiemelkedő thai buddhista templomkomplexum, amely széles körben ismert a folyópart mentén magasodó fehér sztúpájáról.",
-                  "category": "religious",
-                  "coords": [
-                        100.58484,
-                        13.600144
-                  ]
-            },
-            {
-                  "name": "Wat Mahawong",
-                  "text": "A Wat Mahawong egy hagyományos buddhista istentiszteleti hely, amely klasszikus thai építészeti részleteket és egy díszes főcsarnokot kínál.",
-                  "category": "religious",
-                  "coords": [
-                        100.596009,
-                        13.603377
-                  ]
-            },
-            {
                   "name": "Wat Yai",
                   "text": "A Wat Yai egy klasszikus thai buddhista szentély, amelyet nyugodt légköre és hagyományos többszintes tetői jellemeznek.",
                   "category": "religious",
@@ -19685,48 +18164,12 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Klang Worawihan",
-                  "text": "A Wat Klang Worawihan egy kiemelkedő thai buddhista templom bonyolult vallási díszítésekkel és klasszikus szerzetesi épületekkel.",
-                  "category": "religious",
-                  "coords": [
-                        100.599436,
-                        13.592375
-                  ]
-            },
-            {
-                  "name": "Wat Nai Song Wihan",
-                  "text": "A Wat Nai Song Wihan egy thai buddhista templom, amely a hagyományos vihára épületeiről és rituális építészetéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        100.604826,
-                        13.592802
-                  ]
-            },
-            {
-                  "name": "Wat Chai Mongkhon",
-                  "text": "A Wat Chai Mongkhon egy hagyományos thai buddhista templomkomplexum Samut Prakan tartományban, amelyet egy feltűnő sztúpa ural.",
-                  "category": "religious",
-                  "coords": [
-                        100.604854,
-                        13.591336
-                  ]
-            },
-            {
                   "name": "Wat Nam Daeng",
                   "text": "A Wat Nam Daeng egy aktív thai buddhista kolostor, amelyet díszes imaterme és szerzetesi közössége jellemez.",
                   "category": "religious",
                   "coords": [
                         100.650137,
                         13.620276
-                  ]
-            },
-            {
-                  "name": "Wat Bang Ping",
-                  "text": "A Wat Bang Ping egy regionális thai buddhista szentély, amely ferde cseréptetőivel és békés meditációs udvaraival tűnik ki.",
-                  "category": "religious",
-                  "coords": [
-                        100.622405,
-                        13.607034
                   ]
             },
             {
@@ -19845,15 +18288,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                         100.540039,
                         13.657691
                   ]
-            },
-            {
-                  "name": "lee",
-                  "text": "A Lee Múzeum helyi kiállítótérként működik, ahol különféle kulturális tárgyakat és gyűjteményeket mutatnak be zárt vitrinekben.",
-                  "category": "museum",
-                  "coords": [
-                        100.607944,
-                        13.579147
-                  ]
             }
       ],
       "ro": [
@@ -19864,15 +18298,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.589502,
                         13.628569
-                  ]
-            },
-            {
-                  "name": "Phi Suea Samut Fort",
-                  "text": "Fortul Phi Suea Samut este o baterie militară istorică situată pe o insulă fluvială, construită inițial pentru a proteja calea navigabilă.",
-                  "category": "museum",
-                  "coords": [
-                        100.58758,
-                        13.595382
                   ]
             },
             {
@@ -19900,15 +18325,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.587969,
                         13.612801
-                  ]
-            },
-            {
-                  "name": "Wat Traimit Wararam",
-                  "text": "Wat Traimit Wararam este un complex de temple budiste thailandeze caracterizat prin stupele sale aurii ornamentate și zonele de locuit monahale.",
-                  "category": "religious",
-                  "coords": [
-                        100.577922,
-                        13.5815
                   ]
             },
             {
@@ -20002,24 +18418,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Phra Samut Chedi",
-                  "text": "Wat Phra Samut Chedi este un complex proeminent de temple budiste thailandeze, recunoscut pe scară largă pentru stupa sa albă falnică de-a lungul malului râului.",
-                  "category": "religious",
-                  "coords": [
-                        100.58484,
-                        13.600144
-                  ]
-            },
-            {
-                  "name": "Wat Mahawong",
-                  "text": "Wat Mahawong este un loc de cult budist tradițional care prezintă detalii arhitecturale thailandeze clasice și o sală principală ornamentată.",
-                  "category": "religious",
-                  "coords": [
-                        100.596009,
-                        13.603377
-                  ]
-            },
-            {
                   "name": "Wat Yai",
                   "text": "Wat Yai este un sanctuar budist thailandez clasic caracterizat prin atmosfera sa senină și acoperișurile tradiționale pe mai multe niveluri.",
                   "category": "religious",
@@ -20029,48 +18427,12 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Klang Worawihan",
-                  "text": "Wat Klang Worawihan este un templu budist thailandez proeminent care prezintă decorațiuni religioase complicate și clădiri monahale clasice.",
-                  "category": "religious",
-                  "coords": [
-                        100.599436,
-                        13.592375
-                  ]
-            },
-            {
-                  "name": "Wat Nai Song Wihan",
-                  "text": "Wat Nai Song Wihan este un templu budist thailandez cunoscut pentru structurile sale tradiționale vihara și arhitectura rituală.",
-                  "category": "religious",
-                  "coords": [
-                        100.604826,
-                        13.592802
-                  ]
-            },
-            {
-                  "name": "Wat Chai Mongkhon",
-                  "text": "Wat Chai Mongkhon este un complex tradițional de temple budiste din provincia Samut Prakan, dominat de o stupa impresionantă.",
-                  "category": "religious",
-                  "coords": [
-                        100.604854,
-                        13.591336
-                  ]
-            },
-            {
                   "name": "Wat Nam Daeng",
                   "text": "Wat Nam Daeng este o mănăstire budistă thailandeză activă, caracterizată prin sala sa de rugăciune ornamentată și comunitatea monahală.",
                   "category": "religious",
                   "coords": [
                         100.650137,
                         13.620276
-                  ]
-            },
-            {
-                  "name": "Wat Bang Ping",
-                  "text": "Wat Bang Ping este un sanctuar budist thailandez regional, care se remarcă prin acoperișurile sale din țiglă înclinate și curțile liniștite de meditație.",
-                  "category": "religious",
-                  "coords": [
-                        100.622405,
-                        13.607034
                   ]
             },
             {
@@ -20189,15 +18551,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                         100.540039,
                         13.657691
                   ]
-            },
-            {
-                  "name": "lee",
-                  "text": "Muzeul Lee funcționează ca un spațiu expozițional local unde diverse artefacte și colecții culturale sunt prezentate în vitrine închise.",
-                  "category": "museum",
-                  "coords": [
-                        100.607944,
-                        13.579147
-                  ]
             }
       ],
       "en": [
@@ -20208,15 +18561,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.589502,
                         13.628569
-                  ]
-            },
-            {
-                  "name": "Phi Suea Samut Fort",
-                  "text": "Phi Suea Samut Fort is a historic military battery situated on a river island, originally built to protect the waterway.",
-                  "category": "museum",
-                  "coords": [
-                        100.58758,
-                        13.595382
                   ]
             },
             {
@@ -20244,15 +18588,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.587969,
                         13.612801
-                  ]
-            },
-            {
-                  "name": "Wat Traimit Wararam",
-                  "text": "Wat Traimit Wararam is a Thai Buddhist temple complex characterized by its ornate golden stupas and monastic living areas.",
-                  "category": "religious",
-                  "coords": [
-                        100.577922,
-                        13.5815
                   ]
             },
             {
@@ -20346,24 +18681,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Phra Samut Chedi",
-                  "text": "Wat Phra Samut Chedi is a prominent Thai Buddhist temple complex widely recognized for its towering white stupa along the riverbank.",
-                  "category": "religious",
-                  "coords": [
-                        100.58484,
-                        13.600144
-                  ]
-            },
-            {
-                  "name": "Wat Mahawong",
-                  "text": "Wat Mahawong is a traditional Buddhist place of worship featuring classic Thai architectural details and an ornate main hall.",
-                  "category": "religious",
-                  "coords": [
-                        100.596009,
-                        13.603377
-                  ]
-            },
-            {
                   "name": "Wat Yai",
                   "text": "Wat Yai is a classical Thai Buddhist sanctuary characterized by its serene atmosphere and traditional multi-tiered roofs.",
                   "category": "religious",
@@ -20373,48 +18690,12 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Klang Worawihan",
-                  "text": "Wat Klang Worawihan is a prominent Thai Buddhist temple featuring intricate religious decorations and classical monastic buildings.",
-                  "category": "religious",
-                  "coords": [
-                        100.599436,
-                        13.592375
-                  ]
-            },
-            {
-                  "name": "Wat Nai Song Wihan",
-                  "text": "Wat Nai Song Wihan is a Thai Buddhist temple known for its traditional vihara structures and ritual architecture.",
-                  "category": "religious",
-                  "coords": [
-                        100.604826,
-                        13.592802
-                  ]
-            },
-            {
-                  "name": "Wat Chai Mongkhon",
-                  "text": "Wat Chai Mongkhon is a traditional Thai Buddhist temple complex in the Samut Prakan province dominated by a striking stupa.",
-                  "category": "religious",
-                  "coords": [
-                        100.604854,
-                        13.591336
-                  ]
-            },
-            {
                   "name": "Wat Nam Daeng",
                   "text": "Wat Nam Daeng is an active Thai Buddhist monastery characterized by its ornate prayer hall and monastic community.",
                   "category": "religious",
                   "coords": [
                         100.650137,
                         13.620276
-                  ]
-            },
-            {
-                  "name": "Wat Bang Ping",
-                  "text": "Wat Bang Ping is a regional Thai Buddhist sanctuary characterized by its sloped tile roofs and peaceful meditation courtyards.",
-                  "category": "religious",
-                  "coords": [
-                        100.622405,
-                        13.607034
                   ]
             },
             {
@@ -20532,15 +18813,6 @@ export const poiExtraThailandHistoryV2: POI[] = [
                   "coords": [
                         100.540039,
                         13.657691
-                  ]
-            },
-            {
-                  "name": "lee",
-                  "text": "The Lee Museum operates as a local exhibition space where various cultural artifacts and collections are presented in enclosed display cases.",
-                  "category": "museum",
-                  "coords": [
-                        100.607944,
-                        13.579147
                   ]
             }
       ]

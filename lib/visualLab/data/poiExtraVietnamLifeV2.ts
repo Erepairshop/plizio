@@ -10030,42 +10030,6 @@ export const poiExtraVietnamLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hội quán Nhị Phủ",
-                  "text": "Diese Kultstätte in der Nähe des Đầm Sen Parks besitzt den Status eines Denkmals der Stufe 2.",
-                  "category": "religious",
-                  "coords": [
-                        106.65726,
-                        10.751397
-                  ]
-            },
-            {
-                  "name": "Hội quán Nghĩa Nhuận",
-                  "text": "Diese Versammlungshalle und Kultstätte ist ein anerkanntes Denkmal der Stufe 2.",
-                  "category": "religious",
-                  "coords": [
-                        106.654387,
-                        10.749372
-                  ]
-            },
-            {
-                  "name": "Hội quán Phước An",
-                  "text": "Diese traditionelle Versammlungshalle dient als religiöse Kultstätte.",
-                  "category": "religious",
-                  "coords": [
-                        106.658866,
-                        10.754999
-                  ]
-            },
-            {
-                  "name": "Di tích lưu niệm Chủ tịch Hồ Chí Minh",
-                  "text": "Dieses Museum bewahrt das Andenken an Hồ Chí Minh und genießt Schutz der Stufe 2.",
-                  "category": "museum",
-                  "coords": [
-                        106.658896,
-                        10.751148
-                  ]
-            },
-            {
                   "name": "Nhà bia liệt sĩ phường Tân Tạo A",
                   "text": "Dieses Denkmal ehrt die gefallenen Helden des Bezirks Tân Tạo A.",
                   "category": "historical",
@@ -10371,42 +10335,6 @@ export const poiExtraVietnamLifeV2: POI[] = [
                   "coords": [
                         106.638251,
                         10.76514
-                  ]
-            },
-            {
-                  "name": "Hội quán Nhị Phủ",
-                  "text": "Ez a Đầm Sen park közelében található istentiszteleti hely 2. szintű műemléki státusszal rendelkezik.",
-                  "category": "religious",
-                  "coords": [
-                        106.65726,
-                        10.751397
-                  ]
-            },
-            {
-                  "name": "Hội quán Nghĩa Nhuận",
-                  "text": "Ez a gyülekezeti csarnok és istentiszteleti hely 2. szintű elismert műemlék.",
-                  "category": "religious",
-                  "coords": [
-                        106.654387,
-                        10.749372
-                  ]
-            },
-            {
-                  "name": "Hội quán Phước An",
-                  "text": "Ez a hagyományos gyülekezeti csarnok vallási istentiszteleti helyként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        106.658866,
-                        10.754999
-                  ]
-            },
-            {
-                  "name": "Di tích lưu niệm Chủ tịch Hồ Chí Minh",
-                  "text": "Ez a múzeum Hồ Chí Minh emlékét őrzi, és 2. szintű védettséget élvez.",
-                  "category": "museum",
-                  "coords": [
-                        106.658896,
-                        10.751148
                   ]
             },
             {
@@ -10718,42 +10646,6 @@ export const poiExtraVietnamLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hội quán Nhị Phủ",
-                  "text": "Acest lăcaș de cult de lângă parcul Đầm Sen deține un statut de patrimoniu de nivelul 2.",
-                  "category": "religious",
-                  "coords": [
-                        106.65726,
-                        10.751397
-                  ]
-            },
-            {
-                  "name": "Hội quán Nghĩa Nhuận",
-                  "text": "Această sală de adunare și lăcaș de cult este un monument recunoscut de nivelul 2.",
-                  "category": "religious",
-                  "coords": [
-                        106.654387,
-                        10.749372
-                  ]
-            },
-            {
-                  "name": "Hội quán Phước An",
-                  "text": "Această sală de adunare tradițională servește ca lăcaș de cult religios.",
-                  "category": "religious",
-                  "coords": [
-                        106.658866,
-                        10.754999
-                  ]
-            },
-            {
-                  "name": "Di tích lưu niệm Chủ tịch Hồ Chí Minh",
-                  "text": "Acest muzeu păstrează memoria lui Hồ Chí Minh și se bucură de protecție de nivelul 2.",
-                  "category": "museum",
-                  "coords": [
-                        106.658896,
-                        10.751148
-                  ]
-            },
-            {
                   "name": "Nhà bia liệt sĩ phường Tân Tạo A",
                   "text": "Acest monument onorează eroii căzuți din districtul Tân Tạo A.",
                   "category": "historical",
@@ -11059,42 +10951,6 @@ export const poiExtraVietnamLifeV2: POI[] = [
                   "coords": [
                         106.638251,
                         10.76514
-                  ]
-            },
-            {
-                  "name": "Hội quán Nhị Phủ",
-                  "text": "This place of worship near Đầm Sen Park holds a level 2 heritage status.",
-                  "category": "religious",
-                  "coords": [
-                        106.65726,
-                        10.751397
-                  ]
-            },
-            {
-                  "name": "Nghia Nhuan Assembly Hall",
-                  "text": "This assembly hall and place of worship is a recognized level 2 heritage monument.",
-                  "category": "religious",
-                  "coords": [
-                        106.654387,
-                        10.749372
-                  ]
-            },
-            {
-                  "name": "Phuoc An Assembly Hall",
-                  "text": "This traditional assembly hall serves as a religious place of worship.",
-                  "category": "religious",
-                  "coords": [
-                        106.658866,
-                        10.754999
-                  ]
-            },
-            {
-                  "name": "Di tích lưu niệm Chủ tịch Hồ Chí Minh",
-                  "text": "This museum preserves the memory of Hồ Chí Minh and enjoys level 2 heritage protection.",
-                  "category": "museum",
-                  "coords": [
-                        106.658896,
-                        10.751148
                   ]
             },
             {

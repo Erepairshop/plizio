@@ -7009,15 +7009,6 @@ export const poiExtraIndiaHistoryV2: POI[] = [
     id: "in-jallianwala-bagh-history-v2", "sights": {
       "de": [
             {
-                  "name": "Summer Palace of Maharaja Ranjit Singh",
-                  "text": "Ein Bauwerk aus rotem Sandstein im Ram-Bagh-Garten, das einst Maharaja Ranjit Singh als kühler Sommerrückzugsort diente.",
-                  "category": "castle",
-                  "coords": [
-                        74.87886,
-                        31.637785
-                  ]
-            },
-            {
                   "name": "The Martyr's Gallery",
                   "text": "Eine Galerie innerhalb von Jallianwala Bagh, die durch Fotos und Gemälde an die Opfer des Massakers von 1919 erinnert.",
                   "category": "landmark",
@@ -7163,15 +7154,6 @@ export const poiExtraIndiaHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Summer Palace of Maharaja Ranjit Singh",
-                  "text": "Vörös homokkő épület a Ram Bagh kertben, amely egykor Maharaja Ranjit Singh hűvös nyári menedékéül szolgált.",
-                  "category": "castle",
-                  "coords": [
-                        74.87886,
-                        31.637785
-                  ]
-            },
             {
                   "name": "The Martyr's Gallery",
                   "text": "Galéria a Jallianwala Baghon belül, amely fotókkal és festményekkel emlékezik az 1919-es mészárlás áldozataira.",
@@ -7319,15 +7301,6 @@ export const poiExtraIndiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Summer Palace of Maharaja Ranjit Singh",
-                  "text": "O structură din gresie roșie în Grădina Ram Bagh, care a servit cândva drept refugiu de vară răcoros pentru Maharaja Ranjit Singh.",
-                  "category": "castle",
-                  "coords": [
-                        74.87886,
-                        31.637785
-                  ]
-            },
-            {
                   "name": "The Martyr's Gallery",
                   "text": "O galerie în interiorul Jallianwala Bagh care comemorează victimele masacrului din 1919 prin fotografii și picturi.",
                   "category": "landmark",
@@ -7473,15 +7446,6 @@ export const poiExtraIndiaHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Summer Palace of Maharaja Ranjit Singh",
-                  "text": "A red sandstone structure in Ram Bagh Gardens that once served as the cool summer retreat for Maharaja Ranjit Singh.",
-                  "category": "castle",
-                  "coords": [
-                        74.87886,
-                        31.637785
-                  ]
-            },
             {
                   "name": "The Martyr's Gallery",
                   "text": "A gallery inside Jallianwala Bagh that commemorates the victims of the 1919 massacre through photographs and paintings.",

@@ -1207,15 +1207,6 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
     id: "letpadaung-copper-mine-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Independence Monument လွတ်လပ်ရေးကျောက်တိုင်",
-                  "text": "Eine weiße Gedenksäule zur Feier der nationalen Unabhängigkeit, mitten im Bergbaugebiet von Letpadaung.",
-                  "category": "historical",
-                  "coords": [
-                        95.124061,
-                        22.130947
-                  ]
-            },
-            {
                   "name": "ဖိုလ္းဝင္ေတာင္",
                   "text": "Ein spektakulärer buddhistischer Höhlenkomplex mit hunderten von Sandsteinkammern voller antiker Wandmalereien und Statuen.",
                   "category": "landmark",
@@ -1298,15 +1289,6 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Independence Monument လွတ်လပ်ရေးကျောက်တိုင်",
-                  "text": "A nemzeti függetlenséget ünneplő fehér emlékoszlop a Letpadaung bányavidék szívében.",
-                  "category": "historical",
-                  "coords": [
-                        95.124061,
-                        22.130947
-                  ]
-            },
             {
                   "name": "ဖိုလ္းဝင္ေတာင္",
                   "text": "Látványos buddhista barlangkomplexum több száz homokkő kamrával, ősi falfestményekkel és szobrokkal.",
@@ -1391,15 +1373,6 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Independence Monument လွတ်လပ်ရေးကျောက်တိုင်",
-                  "text": "Un pilon comemorativ alb care celebrează independența națională, situat în inima regiunii miniere Letpadaung.",
-                  "category": "historical",
-                  "coords": [
-                        95.124061,
-                        22.130947
-                  ]
-            },
-            {
                   "name": "ဖိုလ္းဝင္ေတာင္",
                   "text": "Un complex spectaculos de peșteri budiste cu sute de camere în gresie, pline de picturi murale și statui antice.",
                   "category": "landmark",
@@ -1482,15 +1455,6 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Independence Monument လွတ်လပ်ရေးကျောက်တိုင်",
-                  "text": "A white commemorative pillar celebrating national independence, located in the heart of the Letpadaung mining region.",
-                  "category": "historical",
-                  "coords": [
-                        95.124061,
-                        22.130947
-                  ]
-            },
             {
                   "name": "Pho Win Taung",
                   "text": "A spectacular Buddhist cave complex featuring hundreds of sandstone chambers filled with ancient murals and statues.",
@@ -5397,15 +5361,6 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "SERI Beach Resort Hotel",
-                  "text": "Ein Resort direkt am Meer, das an den sandigen Ufern von Kyaukpyu liegt.",
-                  "category": "recreational",
-                  "coords": [
-                        93.533136,
-                        19.43412
-                  ]
-            },
-            {
                   "name": "စေတီ",
                   "text": "Eine lokale buddhistische Pagode in der Nähe der Küste von Kyaukpyu, ein Ort der Ruhe.",
                   "category": "landmark",
@@ -5441,15 +5396,6 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
                   "coords": [
                         93.583974,
                         19.391
-                  ]
-            },
-            {
-                  "name": "SERI Beach Resort Hotel",
-                  "text": "Közvetlen tengerparti üdülőhely Kyaukpyu homokos partjainál, pihenésre alkalmas környezetben.",
-                  "category": "recreational",
-                  "coords": [
-                        93.533136,
-                        19.43412
                   ]
             },
             {
@@ -5491,15 +5437,6 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "SERI Beach Resort Hotel",
-                  "text": "O stațiune situată direct pe malul mării, pe malurile nisipoase ale orașului Kyaukpyu.",
-                  "category": "recreational",
-                  "coords": [
-                        93.533136,
-                        19.43412
-                  ]
-            },
-            {
                   "name": "စေတီ",
                   "text": "O pagodă budistă locală situată lângă coasta din Kyaukpyu, un loc liniștit pentru rugăciune.",
                   "category": "landmark",
@@ -5535,15 +5472,6 @@ export const poiExtraMyanmarEconomicV2: POI[] = [
                   "coords": [
                         93.583974,
                         19.391
-                  ]
-            },
-            {
-                  "name": "SERI Beach Resort Hotel",
-                  "text": "A beachfront resort located on the sandy shores of Kyaukpyu, offering a relaxing atmosphere.",
-                  "category": "recreational",
-                  "coords": [
-                        93.533136,
-                        19.43412
                   ]
             },
             {

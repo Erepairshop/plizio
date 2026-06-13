@@ -405,15 +405,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
     id: "ma-casablanca-cathedral-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Église orthodoxe russe de la Dormition",
-                  "text": "Diese 1958 geweihte russisch-orthodoxe Kirche in Casablanca dient der lokalen Expatriate-Gemeinde mit ihren traditionellen Gottesdiensten.",
-                  "category": "religious",
-                  "coords": [
-                        -7.622635,
-                        33.582016
-                  ]
-            },
-            {
                   "name": "Loft Art Gallery",
                   "text": "Die Loft Art Gallery ist ein zeitgenössischer Ausstellungsraum in Casablanca, der sich der Förderung moderner marokkanischer und afrikanischer Künstler widmet.",
                   "category": "museum",
@@ -447,15 +438,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   "coords": [
                         -7.632292,
                         33.586584
-                  ]
-            },
-            {
-                  "name": "WeCasablanca Sign",
-                  "text": "Das WeCasablanca-Schild ist eine beliebte, farbenfrohe typografische Installation, an der sich oft Touristen zum Fotografieren versammeln.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.618276,
-                        33.591649
                   ]
             },
             {
@@ -501,15 +483,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   "coords": [
                         -7.667763,
                         33.556488
-                  ]
-            },
-            {
-                  "name": "Joutia de Derb Ghallef",
-                  "text": "Joutia de Derb Ghallef ist Casablancas weitläufiger Open-Air-Flohmarkt, der für sein riesiges Angebot an Elektronik und Gebrauchtwaren berühmt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.629951,
-                        33.570713
                   ]
             },
             {
@@ -560,15 +533,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Église orthodoxe russe de la Dormition",
-                  "text": "Az 1958-ban felszentelt casablancai orosz ortodox templom hagyományos istentiszteletekkel szolgálja a helyi külföldi közösséget.",
-                  "category": "religious",
-                  "coords": [
-                        -7.622635,
-                        33.582016
-                  ]
-            },
-            {
                   "name": "Loft Art Gallery",
                   "text": "A Loft Art Gallery egy kortárs kiállítótér Casablancában, amely a modern marokkói és afrikai művészek népszerűsítésének szenteli magát.",
                   "category": "museum",
@@ -602,15 +566,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   "coords": [
                         -7.632292,
                         33.586584
-                  ]
-            },
-            {
-                  "name": "WeCasablanca Sign",
-                  "text": "A WeCasablanca felirat egy népszerű, élénk színű tipográfiai installáció, ahol a turisták gyakran gyűlnek össze fényképezkedni.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.618276,
-                        33.591649
                   ]
             },
             {
@@ -656,15 +611,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   "coords": [
                         -7.667763,
                         33.556488
-                  ]
-            },
-            {
-                  "name": "Joutia de Derb Ghallef",
-                  "text": "A Joutia de Derb Ghallef Casablanca hatalmas szabadtéri bolhapiaca, amely elektronikai cikkek és használt áruk hatalmas választékáról híres.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.629951,
-                        33.570713
                   ]
             },
             {
@@ -715,15 +661,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Église orthodoxe russe de la Dormition",
-                  "text": "Sfințită în 1958, această biserică ortodoxă rusă din Casablanca deservește comunitatea locală de expatriați cu slujbele sale religioase tradiționale.",
-                  "category": "religious",
-                  "coords": [
-                        -7.622635,
-                        33.582016
-                  ]
-            },
-            {
                   "name": "Loft Art Gallery",
                   "text": "Loft Art Gallery este un spațiu expozițional contemporan din Casablanca dedicat promovării artiștilor moderni marocani și africani.",
                   "category": "museum",
@@ -757,15 +694,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   "coords": [
                         -7.632292,
                         33.586584
-                  ]
-            },
-            {
-                  "name": "WeCasablanca Sign",
-                  "text": "Semnul WeCasablanca este o instalație tipografică populară, viu colorată, unde turiștii se adună adesea pentru fotografii.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.618276,
-                        33.591649
                   ]
             },
             {
@@ -811,15 +739,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   "coords": [
                         -7.667763,
                         33.556488
-                  ]
-            },
-            {
-                  "name": "Joutia de Derb Ghallef",
-                  "text": "Joutia de Derb Ghallef este piața de vechituri în aer liber întinsă din Casablanca, faimoasă pentru gama sa vastă de electronice și bunuri la mâna a doua.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.629951,
-                        33.570713
                   ]
             },
             {
@@ -870,15 +789,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Église orthodoxe russe de la Dormition",
-                  "text": "Consecrated in 1958, this Russian Orthodox church in Casablanca serves the local expatriate community with its traditional religious services.",
-                  "category": "religious",
-                  "coords": [
-                        -7.622635,
-                        33.582016
-                  ]
-            },
-            {
                   "name": "Loft Art Gallery",
                   "text": "The Loft Art Gallery is a contemporary exhibition space in Casablanca dedicated to promoting modern Moroccan and African artists.",
                   "category": "museum",
@@ -912,15 +822,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   "coords": [
                         -7.632292,
                         33.586584
-                  ]
-            },
-            {
-                  "name": "WeCasablanca Sign",
-                  "text": "The WeCasablanca Sign is a popular, brightly colored typographic installation where tourists often gather for photographs.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.618276,
-                        33.591649
                   ]
             },
             {
@@ -966,15 +867,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   "coords": [
                         -7.667763,
                         33.556488
-                  ]
-            },
-            {
-                  "name": "Joutia de Derb Ghallef",
-                  "text": "Joutia de Derb Ghallef is Casablanca's sprawling open-air flea market, famous for its vast array of electronics and second-hand goods.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.629951,
-                        33.570713
                   ]
             },
             {
@@ -1227,24 +1119,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kissariate safrioui",
-                  "text": "Dieser traditionelle Einkaufskomplex in Casablanca zeichnet sich durch seine zahlreichen Stände aus, die auf den täglichen marokkanischen Konsumbedarf ausgerichtet sind.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.610563,
-                        33.590687
-                  ]
-            },
-            {
-                  "name": "Kissariat Al Omra",
-                  "text": "Kissariat Al Omra ist eine spezialisierte überdachte Marktgalerie, die häufig von lokalen Käufern in Casablanca besucht wird.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.609813,
-                        33.591686
-                  ]
-            },
-            {
                   "name": "Caesarea 15 Ramadan",
                   "text": "Diese Einkaufspassage, die zur Erinnerung an den 15. Ramadan benannt wurde, ist ein geschäftiges Zentrum für den lokalen Handel in Casablanca.",
                   "category": "landmark",
@@ -1442,24 +1316,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   "coords": [
                         -7.610688,
                         33.589687
-                  ]
-            },
-            {
-                  "name": "Kissariate safrioui",
-                  "text": "Ezt a casablancai hagyományos bevásárlóközpontot számos, a mindennapi marokkói fogyasztói igényeket kielégítő stand jellemzi.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.610563,
-                        33.590687
-                  ]
-            },
-            {
-                  "name": "Kissariat Al Omra",
-                  "text": "A Kissariat Al Omra egy specializált fedett piacgaléria, amelyet a helyi vásárlók gyakran látogatnak Casablancában.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.609813,
-                        33.591686
                   ]
             },
             {
@@ -1663,24 +1519,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kissariate safrioui",
-                  "text": "Acest complex comercial tradițional din Casablanca se caracterizează prin numeroasele sale tarabe care răspund nevoilor zilnice ale consumatorilor marocani.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.610563,
-                        33.590687
-                  ]
-            },
-            {
-                  "name": "Kissariat Al Omra",
-                  "text": "Kissariat Al Omra este o galerie de piață acoperită specializată, frecventată de cumpărătorii locali din Casablanca.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.609813,
-                        33.591686
-                  ]
-            },
-            {
                   "name": "Caesarea 15 Ramadan",
                   "text": "Numită pentru a comemora data de 15 Ramadan, această galerie comercială este un centru plin de viață pentru comerțul local din Casablanca.",
                   "category": "landmark",
@@ -1881,24 +1719,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kissariate safrioui",
-                  "text": "This traditional shopping complex in Casablanca is characterized by its numerous stalls catering to daily Moroccan consumer needs.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.610563,
-                        33.590687
-                  ]
-            },
-            {
-                  "name": "Kissariat Al Omra",
-                  "text": "Kissariat Al Omra is a specialized covered market gallery frequented by local shoppers in Casablanca.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.609813,
-                        33.591686
-                  ]
-            },
-            {
                   "name": "Caesarea 15 Ramadan",
                   "text": "Named to commemorate the 15th of Ramadan, this commercial arcade is a bustling center for local trade in Casablanca.",
                   "category": "landmark",
@@ -2049,24 +1869,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kissariat elbaraka",
-                  "text": "Dieser lokale Markt ist voller Stände, die traditionelle marokkanische Textilien und Waren anbieten.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.612682,
-                        33.593174
-                  ]
-            },
-            {
-                  "name": "Kissariat Taieba",
-                  "text": "Eine traditionelle Einkaufsgalerie, in der Verkäufer eine Vielzahl lokaler Handwerkskünste und Kleidungsstücke anbieten.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.611392,
-                        33.593574
-                  ]
-            },
-            {
                   "name": "Gare CTM Casablanca - principale",
                   "text": "Der Hauptbusbahnhof des CTM-Netzwerks, der den Fernverkehr durch ganz Marokko erleichtert.",
                   "category": "landmark",
@@ -2120,24 +1922,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   "coords": [
                         -7.617628,
                         33.596455
-                  ]
-            },
-            {
-                  "name": "Kissariat elbaraka",
-                  "text": "Ez a helyi piac tele van hagyományos marokkói textíliákat és árukat kínáló standokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.612682,
-                        33.593174
-                  ]
-            },
-            {
-                  "name": "Kissariat Taieba",
-                  "text": "Egy hagyományos bevásárlógaléria, ahol az árusok különféle helyi kézműves termékeket és ruhákat árulnak.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.611392,
-                        33.593574
                   ]
             },
             {
@@ -2197,24 +1981,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kissariat elbaraka",
-                  "text": "Această piață comercială locală este plină de tarabe care oferă textile și bunuri tradiționale marocane.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.612682,
-                        33.593174
-                  ]
-            },
-            {
-                  "name": "Kissariat Taieba",
-                  "text": "O galerie comercială tradițională unde vânzătorii oferă o varietate de obiecte de artizanat și haine locale.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.611392,
-                        33.593574
-                  ]
-            },
-            {
                   "name": "Gare CTM Casablanca - principale",
                   "text": "Principala stație de autobuz pentru rețeaua CTM, facilitând călătoriile pe distanțe lungi în tot Marocul.",
                   "category": "landmark",
@@ -2268,24 +2034,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   "coords": [
                         -7.617628,
                         33.596455
-                  ]
-            },
-            {
-                  "name": "Kissariat elbaraka",
-                  "text": "This local commercial market is filled with stalls offering traditional Moroccan textiles and goods.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.612682,
-                        33.593174
-                  ]
-            },
-            {
-                  "name": "Kissariat Taieba",
-                  "text": "A traditional shopping gallery where vendors sell a variety of local crafts and garments.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.611392,
-                        33.593574
                   ]
             },
             {
@@ -4308,15 +4056,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
     id: "ma-fez-royal-palace-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Musée Meryem",
-                  "text": "Lokales Museum, das regionale marokkanische Artefakte und traditionelle Handwerkskunst ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        -5.009804,
-                        34.038677
-                  ]
-            },
-            {
                   "name": "Tropicana Parc",
                   "text": "Familienfreundlicher Freizeitpark in Fès, der verschiedene Fahrgeschäfte und Freizeitaktivitäten anbietet.",
                   "category": "recreational",
@@ -4336,15 +4075,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Musée Meryem",
-                  "text": "Helyi múzeum, amely regionális marokkói leleteket és hagyományos kézműves tárgyakat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -5.009804,
-                        34.038677
-                  ]
-            },
             {
                   "name": "Tropicana Parc",
                   "text": "Családbarát vidámpark Fesben, amely különféle hintákat és szabadidős tevékenységeket kínál.",
@@ -4366,15 +4096,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Musée Meryem",
-                  "text": "Muzeu local care expune artefacte regionale marocane și obiecte de artizanat tradițional.",
-                  "category": "museum",
-                  "coords": [
-                        -5.009804,
-                        34.038677
-                  ]
-            },
-            {
                   "name": "Tropicana Parc",
                   "text": "Parc de distracții pentru familii din Fes, care oferă diverse atracții și activități recreative.",
                   "category": "recreational",
@@ -4394,15 +4115,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Musée Meryem",
-                  "text": "Local museum showcasing regional Moroccan artifacts and traditional craftsmanship.",
-                  "category": "museum",
-                  "coords": [
-                        -5.009804,
-                        34.038677
-                  ]
-            },
             {
                   "name": "Tropicana Parc",
                   "text": "Family-oriented theme park in Fez featuring various rides and recreational activities.",
@@ -4553,60 +4265,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
     id: "ma-fez-aben-danan-synagogue-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Cendrillon",
-                  "text": "Cendrillon ist ein lokales Geschäft im historischen jüdischen Viertel von Fès.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.998513,
-                        34.039714
-                  ]
-            },
-            {
-                  "name": "Cremerie",
-                  "text": "Diese Cremerie ist ein lokales Milchgeschäft, das frische traditionelle marokkanische Milchprodukte in Fès anbietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.997296,
-                        34.04036
-                  ]
-            },
-            {
-                  "name": "Cofirad",
-                  "text": "Cofirad ist ein lokales Geschäft, das in den belebten Gassen der historischen Stadt Fès zu finden ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.996762,
-                        34.042342
-                  ]
-            },
-            {
-                  "name": "Fly center plus",
-                  "text": "Das Fly center plus ist ein Zentrum für kreative und kulturelle Aktivitäten in Fès.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.996192,
-                        34.037902
-                  ]
-            },
-            {
-                  "name": "Word @ work",
-                  "text": "Word @ work ist ein Kunstzentrum in Fès, das einen Raum für kreativen Austausch und Handwerk bietet.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.998836,
-                        34.037402
-                  ]
-            },
-            {
-                  "name": "Orientaliste Art Gallery",
-                  "text": "Diese Galerie in der Nähe der Aben-Danan-Synagoge stellt lokale orientalistische Kunstwerke in einem traditionellen marokkanischen architektonischen Rahmen aus.",
-                  "category": "museum",
-                  "coords": [
-                        -4.995425,
-                        34.035815
-                  ]
-            },
-            {
                   "name": "Zaouia of Moulay Idriss II",
                   "text": "Dieser verehrte Schrein und religiöse Komplex in der Medina beherbergt das Grab von Moulay Idriss II., dem Schutzpatron von Fès.",
                   "category": "landmark",
@@ -4689,60 +4347,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Cendrillon",
-                  "text": "A Cendrillon egy helyi üzlet Fès történelmi zsidó negyedében.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.998513,
-                        34.039714
-                  ]
-            },
-            {
-                  "name": "Cremerie",
-                  "text": "Ez a Cremerie egy helyi tejbolt, amely friss hagyományos marokkói tejtermékeket kínál Fèsben.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.997296,
-                        34.04036
-                  ]
-            },
-            {
-                  "name": "Cofirad",
-                  "text": "A Cofirad egy helyi vállalkozás a történelmi Fès városának nyüzsgő sikátoraiban.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.996762,
-                        34.042342
-                  ]
-            },
-            {
-                  "name": "Fly center plus",
-                  "text": "A Fly center plus egy kreatív és kulturális tevékenységeknek otthont adó központ Fèsben.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.996192,
-                        34.037902
-                  ]
-            },
-            {
-                  "name": "Word @ work",
-                  "text": "A Word @ work egy művészeti központ Fèsben, amely teret ad a kreatív eszmecserének és a kézművességnek.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.998836,
-                        34.037402
-                  ]
-            },
-            {
-                  "name": "Orientaliste Art Gallery",
-                  "text": "Az Aben Danan zsinagóga közelében található galéria helyi orientalista művészeti alkotásokat mutat be hagyományos marokkói építészeti környezetben.",
-                  "category": "museum",
-                  "coords": [
-                        -4.995425,
-                        34.035815
-                  ]
-            },
             {
                   "name": "Zaouia of Moulay Idriss II",
                   "text": "A medinában található, nagy tiszteletnek örvendő szentély és vallási komplexum Moulay Idriss II., Fes védőszentjének sírját őrzi.",
@@ -4827,60 +4431,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Cendrillon",
-                  "text": "Cendrillon este un magazin local situat în cartierul istoric evreiesc din Fès.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.998513,
-                        34.039714
-                  ]
-            },
-            {
-                  "name": "Cremerie",
-                  "text": "Această lăptărie (Cremerie) oferă produse lactate marocane proaspete și tradiționale în orașul Fès.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.997296,
-                        34.04036
-                  ]
-            },
-            {
-                  "name": "Cofirad",
-                  "text": "Cofirad este o afacere locală integrată în străduțele animate ale orașului istoric Fès.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.996762,
-                        34.042342
-                  ]
-            },
-            {
-                  "name": "Fly center plus",
-                  "text": "Fly center plus este un centru dedicat activităților creative și culturale în orașul Fès.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.996192,
-                        34.037902
-                  ]
-            },
-            {
-                  "name": "Word @ work",
-                  "text": "Word @ work este un centru de artă din Fès care oferă un spațiu pentru schimb creativ și ateliere.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.998836,
-                        34.037402
-                  ]
-            },
-            {
-                  "name": "Orientaliste Art Gallery",
-                  "text": "Această galerie situată lângă Sinagoga Aben Danan expune opere de artă orientalistă locale într-un cadru arhitectural marocan tradițional.",
-                  "category": "museum",
-                  "coords": [
-                        -4.995425,
-                        34.035815
-                  ]
-            },
-            {
                   "name": "Zaouia of Moulay Idriss II",
                   "text": "Acest sanctuar venerat și complex religios din medina adăpostește mormântul lui Moulay Idriss al II-lea, sfântul patron al orașului Fez.",
                   "category": "landmark",
@@ -4963,60 +4513,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Cendrillon",
-                  "text": "Cendrillon is a local shop nestled within the historical Jewish quarter of Fes.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.998513,
-                        34.039714
-                  ]
-            },
-            {
-                  "name": "Cremerie",
-                  "text": "This Cremerie is a local dairy shop offering fresh, traditional Moroccan dairy products in Fes.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.997296,
-                        34.04036
-                  ]
-            },
-            {
-                  "name": "Cofirad",
-                  "text": "Cofirad is a local commercial establishment located within the bustling alleyways of historic Fes.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.996762,
-                        34.042342
-                  ]
-            },
-            {
-                  "name": "Fly center plus",
-                  "text": "Fly center plus is an arts and cultural centre facilitating creative activities in Fes.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.996192,
-                        34.037902
-                  ]
-            },
-            {
-                  "name": "Word @ work",
-                  "text": "Word @ work is an arts centre in Fes providing a collaborative space for creative exchange and crafts.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.998836,
-                        34.037402
-                  ]
-            },
-            {
-                  "name": "Orientaliste Art Gallery",
-                  "text": "This gallery near the Aben Danan Synagogue exhibits local Orientalist artworks in a traditional Moroccan architectural setting.",
-                  "category": "museum",
-                  "coords": [
-                        -4.995425,
-                        34.035815
-                  ]
-            },
             {
                   "name": "Zaouia of Moulay Idriss II",
                   "text": "This revered shrine and religious complex in the medina houses the tomb of Moulay Idriss II, the patron saint of Fez.",
@@ -6341,15 +5837,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
     id: "ma-taza-grand-mosque-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Espace Educatif Culturel Et Museal De La Resistance Et De L'Armée De Liberation De Taza",
-                  "text": "Ein Museum in Taza, das den marokkanischen Widerstand und die Befreiungsarmee durch historische Artefakte und Bildungsausstellungen dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        -4.016543,
-                        34.208679
-                  ]
-            },
-            {
                   "name": "Place de l'Ind",
                   "text": "Ein zentraler öffentlicher Platz in Taza, der als Treffpunkt inmitten der historischen Sehenswürdigkeiten der Stadt dient.",
                   "category": "landmark",
@@ -6369,15 +5856,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Espace Educatif Culturel Et Museal De La Resistance Et De L'Armée De Liberation De Taza",
-                  "text": "Taza egyik múzeuma, amely a marokkói ellenállást és felszabadító hadsereget mutatja be történelmi műtárgyakon és oktatási kiállításokon keresztül.",
-                  "category": "museum",
-                  "coords": [
-                        -4.016543,
-                        34.208679
-                  ]
-            },
             {
                   "name": "Place de l'Ind",
                   "text": "Taza központi nyilvános tere, amely gyülekezőhelyként szolgál a város történelmi nevezetességei között.",
@@ -6399,15 +5877,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Espace Educatif Culturel Et Museal De La Resistance Et De L'Armée De Liberation De Taza",
-                  "text": "Un muzeu din Taza care documentează rezistența marocană și armata de eliberare prin artefacte istorice și exponate educaționale.",
-                  "category": "museum",
-                  "coords": [
-                        -4.016543,
-                        34.208679
-                  ]
-            },
-            {
                   "name": "Place de l'Ind",
                   "text": "O piață publică centrală în Taza, care servește drept loc de adunare printre reperele istorice ale orașului.",
                   "category": "landmark",
@@ -6427,15 +5896,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Espace Educatif Culturel Et Museal De La Resistance Et De L'Armée De Liberation De Taza",
-                  "text": "A museum in Taza documenting the Moroccan resistance and liberation army through historical artifacts and educational exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        -4.016543,
-                        34.208679
-                  ]
-            },
             {
                   "name": "Place de l'Ind",
                   "text": "A central public square in Taza serving as a gathering place amidst the city's historical landmarks.",
@@ -6710,15 +6170,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                         -5.265509,
                         35.166487
                   ]
-            },
-            {
-                  "name": "Piazza",
-                  "text": "Diese öffentliche Plaza dient als Treffpunkt und lokale Attraktion in den Straßen von Chefchaouen.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.268363,
-                        35.168948
-                  ]
             }
       ],
       "hu": [
@@ -6846,15 +6297,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   "coords": [
                         -5.265509,
                         35.166487
-                  ]
-            },
-            {
-                  "name": "Piazza",
-                  "text": "Ez a nyilvános tér találkozóhelyként és helyi látványosságként szolgál Chefchaouen utcáin.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.268363,
-                        35.168948
                   ]
             }
       ],
@@ -6984,15 +6426,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                         -5.265509,
                         35.166487
                   ]
-            },
-            {
-                  "name": "Piazza",
-                  "text": "Această piață publică servește ca loc de întâlnire și atracție locală pe străzile din Chefchaouen.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.268363,
-                        35.168948
-                  ]
             }
       ],
       "en": [
@@ -7120,15 +6553,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
                   "coords": [
                         -5.265509,
                         35.166487
-                  ]
-            },
-            {
-                  "name": "Piazza",
-                  "text": "This public piazza serves as a gathering place and local attraction in the streets of Chefchaouen.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.268363,
-                        35.168948
                   ]
             }
       ]
@@ -7344,15 +6768,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
     id: "ma-essaouira-skala-de-la-ville-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Borj El baroud",
-                  "text": "Ein zerstörter Küstenwachturm, dessen Steinreste bei Flut teilweise unter Wasser stehen.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.777636,
-                        31.487932
-                  ]
-            },
-            {
                   "name": "Prison de Mogador",
                   "text": "Die historischen Steinruinen einer ehemaligen Strafkolonie auf einer vorgelagerten Insel nahe der Stadt.",
                   "category": "historical",
@@ -7426,15 +6841,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Borj El baroud",
-                  "text": "Egy romos tengerparti őrtorony, amelynek kőmaradványai dagály idején részben víz alá kerülnek.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.777636,
-                        31.487932
-                  ]
-            },
             {
                   "name": "Prison de Mogador",
                   "text": "Egy egykori büntetőgyarmat történelmi kőromjai, amelyek egy, a város közelében lévő part menti szigeten találhatók.",
@@ -7510,15 +6916,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Borj El baroud",
-                  "text": "Un turn de veghe de coastă ruinat ale cărui rămășițe de piatră sunt parțial scufundate de maree înalte.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.777636,
-                        31.487932
-                  ]
-            },
-            {
                   "name": "Prison de Mogador",
                   "text": "Ruinele istorice de piatră ale unei foste colonii penale situate pe o insulă în larg, aproape de oraș.",
                   "category": "historical",
@@ -7592,15 +6989,6 @@ export const poiExtraMoroccoLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Borj El baroud",
-                  "text": "A ruined coastal watchtower whose stone remains sit partially submerged by the high tides.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.777636,
-                        31.487932
-                  ]
-            },
             {
                   "name": "Prison de Mogador",
                   "text": "The historic stone ruins of a former penal colony located on an offshore island near the city.",

@@ -1789,24 +1789,6 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Paradise Lodge Pool",
-                  "text": "Der Pool der Paradise Lodge bietet eine erfrischende Bademöglichkeit mit einer malerischen Kulisse der lokalen Grabenbruchseen.",
-                  "category": "landmark",
-                  "coords": [
-                        37.554296,
-                        6.008482
-                  ]
-            },
-            {
-                  "name": "Restaurant",
-                  "text": "Dieses lokale Restaurant in der Nähe des Krokodilhabitats serviert traditionelle Mahlzeiten, darunter regionale Fischgerichte.",
-                  "category": "landmark",
-                  "coords": [
-                        37.555274,
-                        6.008847
-                  ]
-            },
-            {
                   "name": "Crocodile Ranch",
                   "text": "Auf der Krokodilfarm können Besucher verschiedene Entwicklungsstadien von Nilkrokodilen in einem sicheren Gehege aus der Nähe betrachten.",
                   "category": "landmark",
@@ -1824,24 +1806,6 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
                   "coords": [
                         37.598764,
                         6.025701
-                  ]
-            },
-            {
-                  "name": "Paradise Lodge Pool",
-                  "text": "A Paradise Lodge Pool frissítő úszási lehetőséget kínál a helyi hasadékvölgyi tavak festői hátterével.",
-                  "category": "landmark",
-                  "coords": [
-                        37.554296,
-                        6.008482
-                  ]
-            },
-            {
-                  "name": "Restaurant",
-                  "text": "Ez a krokodilélőhely közelében lévő helyi étterem hagyományos ételeket szolgál fel, köztük regionális halételeket.",
-                  "category": "landmark",
-                  "coords": [
-                        37.555274,
-                        6.008847
                   ]
             },
             {
@@ -1865,24 +1829,6 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Paradise Lodge Pool",
-                  "text": "Piscina Paradise Lodge oferă o facilitate de înot răcoritoare cu un fundal pitoresc al lacurilor locale din valea de rift.",
-                  "category": "landmark",
-                  "coords": [
-                        37.554296,
-                        6.008482
-                  ]
-            },
-            {
-                  "name": "Restaurant",
-                  "text": "Acest restaurant local situat în apropierea habitatului crocodililor servește mese tradiționale cu preparate din pește regional.",
-                  "category": "landmark",
-                  "coords": [
-                        37.555274,
-                        6.008847
-                  ]
-            },
-            {
                   "name": "Crocodile Ranch",
                   "text": "Ferma de crocodili le permite vizitatorilor să privească îndeaproape diverse stadii de dezvoltare ale crocodililor de Nil într-un spațiu securizat.",
                   "category": "landmark",
@@ -1900,24 +1846,6 @@ export const poiExtraEthiopiaLifeV2: POI[] = [
                   "coords": [
                         37.598764,
                         6.025701
-                  ]
-            },
-            {
-                  "name": "Paradise Lodge Pool",
-                  "text": "The Paradise Lodge Pool offers a refreshing swimming facility with a scenic backdrop of the local rift valley lakes.",
-                  "category": "landmark",
-                  "coords": [
-                        37.554296,
-                        6.008482
-                  ]
-            },
-            {
-                  "name": "Restaurant",
-                  "text": "This local restaurant near the crocodile habitat serves traditional meals featuring regional fish dishes.",
-                  "category": "landmark",
-                  "coords": [
-                        37.555274,
-                        6.008847
                   ]
             },
             {

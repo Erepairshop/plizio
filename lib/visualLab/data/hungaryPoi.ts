@@ -2430,15 +2430,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Haifischschule",
-                  "text": "Ein Aquarium in Budapest, das Bildungsprogramme über Haie anbietet.",
-                  "category": "recreational",
-                  "coords": [
-                        19.080697,
-                        47.519959
-                  ]
-            },
-            {
                   "name": "Élménymedence",
                   "text": "Ein Erlebnisbecken in Budapest mit verschiedenen Wasserattraktionen.",
                   "category": "recreational",
@@ -3189,15 +3180,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.042749,
                         47.521194
-                  ]
-            },
-            {
-                  "name": "Cápasuli",
-                  "text": "Cápákkal kapcsolatos oktatási programokat kínáló akvárium Budapesten.",
-                  "category": "recreational",
-                  "coords": [
-                        19.080697,
-                        47.519959
                   ]
             },
             {
@@ -3954,15 +3936,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Cápasuli",
-                  "text": "Un acvariu în Budapesta care oferă programe educaționale despre rechini.",
-                  "category": "recreational",
-                  "coords": [
-                        19.080697,
-                        47.519959
-                  ]
-            },
-            {
                   "name": "Élménymedence",
                   "text": "O piscină de agrement în Budapesta cu diverse atracții acvatice.",
                   "category": "recreational",
@@ -4713,15 +4686,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.042749,
                         47.521194
-                  ]
-            },
-            {
-                  "name": "Shark School",
-                  "text": "An aquarium in Budapest offering educational programs about sharks.",
-                  "category": "recreational",
-                  "coords": [
-                        19.080697,
-                        47.519959
                   ]
             },
             {
@@ -8638,15 +8602,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Mattyi-tó",
-                  "text": "Mattyi-See bei Siklos.",
-                  "category": "natural",
-                  "coords": [
-                        18.250771,
-                        45.790099
-                  ]
-            },
-            {
                   "name": "Csarnótai-tó",
                   "text": "Csarnótai-See bei Siklos.",
                   "category": "natural",
@@ -8747,15 +8702,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.373864,
                         45.824919
-                  ]
-            },
-            {
-                  "name": "Mattyi-tó",
-                  "text": "Mattyi-tó Siklós közelében.",
-                  "category": "natural",
-                  "coords": [
-                        18.250771,
-                        45.790099
                   ]
             },
             {
@@ -8862,15 +8808,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Mattyi-tó",
-                  "text": "Lacul Mattyi de lângă Siklos.",
-                  "category": "natural",
-                  "coords": [
-                        18.250771,
-                        45.790099
-                  ]
-            },
-            {
                   "name": "Csarnótai-tó",
                   "text": "Lacul Csarnótai de lângă Siklos.",
                   "category": "natural",
@@ -8971,15 +8908,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.373864,
                         45.824919
-                  ]
-            },
-            {
-                  "name": "Mattyi-tó",
-                  "text": "Lake Mattyi near Siklos.",
-                  "category": "natural",
-                  "coords": [
-                        18.250771,
-                        45.790099
                   ]
             },
             {
@@ -9843,24 +9771,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Malomárok-tó",
-                  "text": "Malomárok-tó ist ein See in Villany, der sich für Naturspaziergänge eignet.",
-                  "category": "natural",
-                  "coords": [
-                        18.380771,
-                        45.824601
-                  ]
-            },
-            {
-                  "name": "Borbála-horgásztó",
-                  "text": "Borbála-horgásztó ist ein See in Villany, der sich ideal für erholsame Stunden am Wasser eignet.",
-                  "category": "natural",
-                  "coords": [
-                        18.373864,
-                        45.824919
-                  ]
-            },
-            {
                   "name": "Horgásztó",
                   "text": "Horgásztó ist ein See in Villany, der sich gut für Naturbeobachtungen eignet.",
                   "category": "natural",
@@ -9960,24 +9870,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.45228,
                         45.875629
-                  ]
-            },
-            {
-                  "name": "Malomárok-tó",
-                  "text": "A Malomárok-tó egy tó Villányban, amely festői környezetet nyújt a kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.380771,
-                        45.824601
-                  ]
-            },
-            {
-                  "name": "Borbála-horgásztó",
-                  "text": "A Borbála-horgásztó egy tó Villányban, amely ideális a vízparti pihenésre.",
-                  "category": "natural",
-                  "coords": [
-                        18.373864,
-                        45.824919
                   ]
             },
             {
@@ -10083,24 +9975,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Malomárok-tó",
-                  "text": "Malomárok-tó este un lac în Villany, potrivit pentru relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.380771,
-                        45.824601
-                  ]
-            },
-            {
-                  "name": "Borbála-horgásztó",
-                  "text": "Borbála-horgásztó este un lac din Villany, perfect pentru relaxare lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        18.373864,
-                        45.824919
-                  ]
-            },
-            {
                   "name": "Horgásztó",
                   "text": "Horgásztó este un lac în Villany, ideal pentru a petrece timpul în natură.",
                   "category": "natural",
@@ -10200,24 +10074,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.45228,
                         45.875629
-                  ]
-            },
-            {
-                  "name": "Malomárok-tó",
-                  "text": "Malomárok-tó is a lake in Villany offering a scenic environment for relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        18.380771,
-                        45.824601
-                  ]
-            },
-            {
-                  "name": "Borbála-horgásztó",
-                  "text": "Borbála-horgásztó is a lake in Villany suitable for relaxing by the water.",
-                  "category": "natural",
-                  "coords": [
-                        18.373864,
-                        45.824919
                   ]
             },
             {
@@ -13879,15 +13735,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Békás-tó",
-                  "text": "Békás-tó ist ein See in Gyula, der Besuchern eine wunderschöne Landschaft bietet.",
-                  "category": "natural",
-                  "coords": [
-                        21.194629,
-                        46.680605
-                  ]
-            },
-            {
                   "name": "Csónakázó",
                   "text": "Csónakázó ist ein See in Gyula, der Besuchern eine wunderschöne Landschaft bietet.",
                   "category": "natural",
@@ -14153,15 +14000,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.28219,
                         46.644375
-                  ]
-            },
-            {
-                  "name": "Békás-tó",
-                  "text": "A(z) Békás-tó egy tó Gyula területén, amely gyönyörű tájat kínál a látogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        21.194629,
-                        46.680605
                   ]
             },
             {
@@ -14433,15 +14271,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Békás-tó",
-                  "text": "Békás-tó este un lac situat în Gyula, oferind peisaje frumoase vizitatorilor.",
-                  "category": "natural",
-                  "coords": [
-                        21.194629,
-                        46.680605
-                  ]
-            },
-            {
                   "name": "Csónakázó",
                   "text": "Csónakázó este un lac situat în Gyula, oferind peisaje frumoase vizitatorilor.",
                   "category": "natural",
@@ -14707,15 +14536,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.28219,
                         46.644375
-                  ]
-            },
-            {
-                  "name": "Békás-tó",
-                  "text": "Békás-tó is a lake located in Gyula, offering beautiful scenery for visitors.",
-                  "category": "natural",
-                  "coords": [
-                        21.194629,
-                        46.680605
                   ]
             },
             {
@@ -26828,16 +26648,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Heilbad Balf",
-                  "text": "Berühmter Kurort bei Sopron, bekannt für seine schwefelhaltigen Heilquellen und Wellnessangebote.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        16.662486,
-                        47.651031
-                  ]
-            },
-            {
                   "name": "Amfiteátrum",
                   "text": "Die Ruinen eines antiken römischen Amphitheaters in Ödenburg.",
                   "category": "historical",
@@ -27147,16 +26957,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Balfi gyógyfürdő",
-                  "text": "Sopron melletti gyógyhely, kénes forrásairól és modern wellness szolgáltatásairól ismert.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        16.662486,
-                        47.651031
-                  ]
-            },
-            {
                   "name": "Amfiteátrum",
                   "text": "Egy ókori római amfiteátrum romjai Ödenburg városában.",
                   "category": "historical",
@@ -27463,16 +27263,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.589167,
                         47.682889
-                  ]
-            },
-            {
-                  "name": "Băile Balf",
-                  "text": "Stațiune balneară lângă Sopron, cunoscută pentru izvoarele sale sulfuroase și serviciile wellness.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        16.662486,
-                        47.651031
                   ]
             },
             {
@@ -27963,33 +27753,6 @@ export const hungaryCities: POI[] = [
     id: "pannonhalma", "sights": {
       "de": [
             {
-                  "name": "Illatmúzeum",
-                  "text": "Ein Museum in Pannonhalma, das der Welt der Düfte und Heilkräuter gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        17.767529,
-                        47.551779
-                  ]
-            },
-            {
-                  "name": "Apátsági Múzeum",
-                  "text": "Das Abteimuseum in Pannonhalma zeigt kirchliche und kunsthistorische Sammlungen.",
-                  "category": "museum",
-                  "coords": [
-                        17.755897,
-                        47.549035
-                  ]
-            },
-            {
-                  "name": "Éld át a történelmet!",
-                  "text": "Eine interaktive historische Ausstellung auf dem Gelände der Abtei Pannonhalma.",
-                  "category": "museum",
-                  "coords": [
-                        17.756198,
-                        47.548103
-                  ]
-            },
-            {
                   "name": "Kiállítótér (időszaki kiállítás)",
                   "text": "Ein Ausstellungsraum in Pannonhalma für wechselnde zeitgenössische und historische Themen.",
                   "category": "museum",
@@ -27997,63 +27760,9 @@ export const hungaryCities: POI[] = [
                         17.760254,
                         47.55316
                   ]
-            },
-            {
-                  "name": "Hefter Üveggaléria",
-                  "text": "Eine Galerie für zeitgenössische Kunst und ein Atelier, das auf Glaskunst und Design spezialisiert ist.",
-                  "category": "museum",
-                  "coords": [
-                        17.76196,
-                        47.555079
-                  ]
-            },
-            {
-                  "name": "\"A sípálya\" - kilátóhely",
-                  "text": "Ein Aussichtspunkt mit Panoramablick auf die Umgebung in der Nähe der örtlichen Skipiste.",
-                  "category": "natural",
-                  "coords": [
-                        17.764278,
-                        47.561079
-                  ]
-            },
-            {
-                  "name": "Esterházy-kripta",
-                  "text": "Die Ruinen einer historischen Krypta, die der adligen Familie Esterházy gehörte.",
-                  "category": "historical",
-                  "coords": [
-                        17.758093,
-                        47.562832
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Illatmúzeum",
-                  "text": "A gyógynövények és illatok világának szentelt múzeum Pannonhalmán.",
-                  "category": "museum",
-                  "coords": [
-                        17.767529,
-                        47.551779
-                  ]
-            },
-            {
-                  "name": "Apátsági Múzeum",
-                  "text": "A Pannonhalmi Főapátság múzeuma, amely egyházi és művészettörténeti gyűjteményeket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        17.755897,
-                        47.549035
-                  ]
-            },
-            {
-                  "name": "Éld át a történelmet!",
-                  "text": "Interaktív történelmi kiállítás a Pannonhalmi Főapátság területén.",
-                  "category": "museum",
-                  "coords": [
-                        17.756198,
-                        47.548103
-                  ]
-            },
             {
                   "name": "Kiállítótér (időszaki kiállítás)",
                   "text": "Időszaki kiállításoknak helyet adó tér Pannonhalmán, kortárs és történelmi témákkal.",
@@ -28062,63 +27771,9 @@ export const hungaryCities: POI[] = [
                         17.760254,
                         47.55316
                   ]
-            },
-            {
-                  "name": "Hefter Üveggaléria",
-                  "text": "Kortárs művészeti galéria és műhely, amely üvegművészetre és designra szakosodott.",
-                  "category": "museum",
-                  "coords": [
-                        17.76196,
-                        47.555079
-                  ]
-            },
-            {
-                  "name": "\"A sípálya\" - kilátóhely",
-                  "text": "Panorámás kilátóhely, amely a környékre nyújt kilátást a helyi sípálya közelében.",
-                  "category": "natural",
-                  "coords": [
-                        17.764278,
-                        47.561079
-                  ]
-            },
-            {
-                  "name": "Esterházy-kripta",
-                  "text": "A nemesi Esterházy család történelmi kriptájának maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        17.758093,
-                        47.562832
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Illatmúzeum",
-                  "text": "Un muzeu în Pannonhalma dedicat lumii parfumurilor și a plantelor medicinale.",
-                  "category": "museum",
-                  "coords": [
-                        17.767529,
-                        47.551779
-                  ]
-            },
-            {
-                  "name": "Apátsági Múzeum",
-                  "text": "Muzeu din abația Pannonhalma ce expune colecții ecleziastice și de istoria artei.",
-                  "category": "museum",
-                  "coords": [
-                        17.755897,
-                        47.549035
-                  ]
-            },
-            {
-                  "name": "Éld át a történelmet!",
-                  "text": "O expoziție istorică interactivă în incinta abației din Pannonhalma.",
-                  "category": "museum",
-                  "coords": [
-                        17.756198,
-                        47.548103
-                  ]
-            },
             {
                   "name": "Kiállítótér (időszaki kiállítás)",
                   "text": "Un spațiu expozițional în Pannonhalma pentru teme contemporane și istorice temporare.",
@@ -28127,63 +27782,9 @@ export const hungaryCities: POI[] = [
                         17.760254,
                         47.55316
                   ]
-            },
-            {
-                  "name": "Hefter Üveggaléria",
-                  "text": "O galerie de artă contemporană și un atelier specializat în arta sticlei și design.",
-                  "category": "museum",
-                  "coords": [
-                        17.76196,
-                        47.555079
-                  ]
-            },
-            {
-                  "name": "\"A sípálya\" - kilátóhely",
-                  "text": "Un punct de observație care oferă vederi panoramice asupra împrejurimilor, lângă pârtia locală de schi.",
-                  "category": "natural",
-                  "coords": [
-                        17.764278,
-                        47.561079
-                  ]
-            },
-            {
-                  "name": "Esterházy-kripta",
-                  "text": "Ruinele unei cripte istorice aparținând nobilei familii Esterházy.",
-                  "category": "historical",
-                  "coords": [
-                        17.758093,
-                        47.562832
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Fragrance museum",
-                  "text": "A museum in Pannonhalma dedicated to the world of scents and medicinal herbs.",
-                  "category": "museum",
-                  "coords": [
-                        17.767529,
-                        47.551779
-                  ]
-            },
-            {
-                  "name": "Apátsági Múzeum",
-                  "text": "The abbey museum in Pannonhalma displaying ecclesiastical and art history collections.",
-                  "category": "museum",
-                  "coords": [
-                        17.755897,
-                        47.549035
-                  ]
-            },
-            {
-                  "name": "Éld át a történelmet!",
-                  "text": "An interactive historical exhibition within the Pannonhalma Abbey grounds.",
-                  "category": "museum",
-                  "coords": [
-                        17.756198,
-                        47.548103
-                  ]
-            },
             {
                   "name": "Kiállítótér (időszaki kiállítás)",
                   "text": "An exhibition space in Pannonhalma for temporary contemporary and historical themes.",
@@ -28191,33 +27792,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.760254,
                         47.55316
-                  ]
-            },
-            {
-                  "name": "Hefter Glass Gallery & Studio",
-                  "text": "A contemporary art gallery and workshop specializing in glass art and design.",
-                  "category": "museum",
-                  "coords": [
-                        17.76196,
-                        47.555079
-                  ]
-            },
-            {
-                  "name": "\"A sípálya\" - kilátóhely",
-                  "text": "A scenic viewpoint offering panoramic views of the surroundings near the local ski slope.",
-                  "category": "natural",
-                  "coords": [
-                        17.764278,
-                        47.561079
-                  ]
-            },
-            {
-                  "name": "Esterházy-kripta",
-                  "text": "The ruins of a historic crypt belonging to the noble Esterházy family.",
-                  "category": "historical",
-                  "coords": [
-                        17.758093,
-                        47.562832
                   ]
             }
       ]
@@ -29860,33 +29434,6 @@ export const hungaryCities: POI[] = [
     id: "hortobagy", "sights": {
       "de": [
             {
-                  "name": "Pusztazoo",
-                  "text": "Ein Tierpark in Hortobágy mit traditionellen ungarischen Rassen.",
-                  "category": "recreational",
-                  "coords": [
-                        21.143712,
-                        47.573171
-                  ]
-            },
-            {
-                  "name": "Hortobágyi Vadaspark",
-                  "text": "Ein Wildpark, der die heimische Fauna des Nationalparks Hortobágy zeigt.",
-                  "category": "recreational",
-                  "coords": [
-                        21.136385,
-                        47.552353
-                  ]
-            },
-            {
-                  "name": "Vízi színpad",
-                  "text": "Eine Freilichtbühne am Wasser für kulturelle Events in Hortobágy.",
-                  "category": "cultural",
-                  "coords": [
-                        21.148013,
-                        47.580473
-                  ]
-            },
-            {
                   "name": "Nagy Bivalyhalom régészeti terület",
                   "text": "Archäologische Stätte in Hortobágy mit historischen Grabhügeln.",
                   "category": "historical",
@@ -29921,45 +29468,9 @@ export const hungaryCities: POI[] = [
                         21.15169,
                         47.582392
                   ]
-            },
-            {
-                  "name": "Hortobágyi Madárpark",
-                  "text": "Vogelpark und Klinik für die Pflege verletzter Vögel in Hortobágy.",
-                  "category": "recreational",
-                  "coords": [
-                        21.152457,
-                        47.580772
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Pusztai Állatpark",
-                  "text": "Hagyományos magyar állatfajtákat bemutató állatpark Hortobágyon.",
-                  "category": "recreational",
-                  "coords": [
-                        21.143712,
-                        47.573171
-                  ]
-            },
-            {
-                  "name": "Hortobágyi Vadaspark",
-                  "text": "A Hortobágyi Nemzeti Park vadon élő állatait bemutató vadaspark.",
-                  "category": "recreational",
-                  "coords": [
-                        21.136385,
-                        47.552353
-                  ]
-            },
-            {
-                  "name": "Vízi színpad",
-                  "text": "Szabadtéri víziszínpad Hortobágyon kulturális rendezvényekhez.",
-                  "category": "cultural",
-                  "coords": [
-                        21.148013,
-                        47.580473
-                  ]
-            },
             {
                   "name": "Nagy Bivalyhalom régészeti terület",
                   "text": "Régészeti terület Hortobágyon történelmi halomsírokkal.",
@@ -29995,45 +29506,9 @@ export const hungaryCities: POI[] = [
                         21.15169,
                         47.582392
                   ]
-            },
-            {
-                  "name": "Hortobágyi Madárpark",
-                  "text": "Madárpark és kórház sérült madarak ápolására Hortobágyon.",
-                  "category": "recreational",
-                  "coords": [
-                        21.152457,
-                        47.580772
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Pusztai Állatpark",
-                  "text": "Un parc de animale din Hortobágy cu rase tradiționale maghiare.",
-                  "category": "recreational",
-                  "coords": [
-                        21.143712,
-                        47.573171
-                  ]
-            },
-            {
-                  "name": "Hortobágyi Vadaspark",
-                  "text": "Un parc de animale sălbatice din Parcul Național Hortobágy.",
-                  "category": "recreational",
-                  "coords": [
-                        21.136385,
-                        47.552353
-                  ]
-            },
-            {
-                  "name": "Vízi színpad",
-                  "text": "O scenă pe apă pentru evenimente culturale în Hortobágy.",
-                  "category": "cultural",
-                  "coords": [
-                        21.148013,
-                        47.580473
-                  ]
-            },
             {
                   "name": "Nagy Bivalyhalom régészeti terület",
                   "text": "Sit arheologic în Hortobágy cu movile funerare istorice.",
@@ -30069,45 +29544,9 @@ export const hungaryCities: POI[] = [
                         21.15169,
                         47.582392
                   ]
-            },
-            {
-                  "name": "Hortobágyi Madárpark",
-                  "text": "Parc de păsări și clinică pentru îngrijirea păsărilor rănite în Hortobágy.",
-                  "category": "recreational",
-                  "coords": [
-                        21.152457,
-                        47.580772
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Pusztai Állatpark",
-                  "text": "An animal park in Hortobágy featuring traditional Hungarian breeds.",
-                  "category": "recreational",
-                  "coords": [
-                        21.143712,
-                        47.573171
-                  ]
-            },
-            {
-                  "name": "Hortobágyi Vadaspark",
-                  "text": "A wildlife park showcasing the native fauna of Hortobágy National Park.",
-                  "category": "recreational",
-                  "coords": [
-                        21.136385,
-                        47.552353
-                  ]
-            },
-            {
-                  "name": "Vízi színpad",
-                  "text": "An open-air water stage for cultural events in Hortobágy.",
-                  "category": "cultural",
-                  "coords": [
-                        21.148013,
-                        47.580473
-                  ]
-            },
             {
                   "name": "Nagy Bivalyhalom régészeti terület",
                   "text": "Archaeological site in Hortobágy featuring historical burial mounds.",
@@ -30142,15 +29581,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.15169,
                         47.582392
-                  ]
-            },
-            {
-                  "name": "Hortobágyi Madárpark",
-                  "text": "Bird park and clinic for the care of injured birds in Hortobágy.",
-                  "category": "recreational",
-                  "coords": [
-                        21.152457,
-                        47.580772
                   ]
             }
       ]
@@ -36861,30 +36291,12 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vadaš Thermal Resort Štúrovo",
-                  "text": "Ein großes Thermalresort in Štúrovo bei Esztergom mit zahlreichen Pools und Rutschen.",
-                  "category": "family",
-                  "coords": [
-                        18.715967,
-                        47.802271
-                  ]
-            },
-            {
                   "name": "Várszínház",
                   "text": "Das Burgtheater in Esztergom bietet eine Bühne für kulturelle Aufführungen in historischer Umgebung.",
                   "category": "cultural",
                   "coords": [
                         18.737416,
                         47.798376
-                  ]
-            },
-            {
-                  "name": "Zábavný park VadašLand",
-                  "text": "Ein Freizeitpark im Vadaš Thermal Resort mit Attraktionen für Kinder und Familien.",
-                  "category": "family",
-                  "coords": [
-                        18.715632,
-                        47.805074
                   ]
             },
             {
@@ -36933,15 +36345,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Galéria",
-                  "text": "Ein Ausstellungsraum in Esztergom für verschiedene künstlerische Werke.",
-                  "category": "cultural",
-                  "coords": [
-                        18.723744,
-                        47.79859
-                  ]
-            },
-            {
                   "name": "Révkapu-Bastei",
                   "text": "Eine Bastion in Esztergom, die einst den Zugang zum Hafen oder zur Fähre schützte.",
                   "category": "landmark",
@@ -36957,15 +36360,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.734972,
                         47.800068
-                  ]
-            },
-            {
-                  "name": "Jazda na koni",
-                  "text": "Ein Ort für Reitaktivitäten in der Nähe von Štúrovo bei Esztergom.",
-                  "category": "landmark",
-                  "coords": [
-                        18.714385,
-                        47.803897
                   ]
             },
             {
@@ -37014,15 +36408,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Gyilkos-tó",
-                  "text": "Der Gyilkos-tó ist ein ruhiger See in Esztergom, der Besuchern eine friedliche Naturlandschaft bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.738073,
-                        47.747328
-                  ]
-            },
-            {
                   "name": "Bajtavská vodná nádrž",
                   "text": "Bajtavská vodná nádrž ist ein Stausee in der Nähe von Esztergom, der von einer wunderschönen Landschaft umgeben ist.",
                   "category": "natural",
@@ -37050,15 +36435,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lóga-tó",
-                  "text": "Der Lóga-tó ist ein friedlicher See in Esztergom, an dem Besucher die lokale Landschaft bewundern können.",
-                  "category": "natural",
-                  "coords": [
-                        18.748061,
-                        47.723768
-                  ]
-            },
-            {
                   "name": "Béke téri játszótér",
                   "text": "Der Béke téri játszótér ist ein familienfreundlicher Spielplatz in der Stadt Esztergom.",
                   "category": "family",
@@ -37074,15 +36450,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.747168,
                         47.801952
-                  ]
-            },
-            {
-                  "name": "Perličkový bazén",
-                  "text": "Ein Perlenbad zur Entspannung in Esztergom.",
-                  "category": "family",
-                  "coords": [
-                        18.716885,
-                        47.80202
                   ]
             },
             {
@@ -37281,30 +36648,12 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vadaš Thermal Resort Štúrovo",
-                  "text": "Párkányban (Štúrovo), Esztergom közelében található nagy termálfürdő számos medencével és csúszdával.",
-                  "category": "family",
-                  "coords": [
-                        18.715967,
-                        47.802271
-                  ]
-            },
-            {
                   "name": "Várszínház",
                   "text": "Az esztergomi várszínház kulturális előadásoknak ad otthont történelmi környezetben.",
                   "category": "cultural",
                   "coords": [
                         18.737416,
                         47.798376
-                  ]
-            },
-            {
-                  "name": "Zábavný park VadašLand",
-                  "text": "A Vadaš termálfürdő területén található vidámpark, amely játékokat kínál gyerekeknek és családoknak.",
-                  "category": "family",
-                  "coords": [
-                        18.715632,
-                        47.805074
                   ]
             },
             {
@@ -37353,15 +36702,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Galéria",
-                  "text": "Kiállítótér Esztergomban, amely különböző művészeti alkotásoknak ad helyet.",
-                  "category": "cultural",
-                  "coords": [
-                        18.723744,
-                        47.79859
-                  ]
-            },
-            {
                   "name": "Révkapu rondella",
                   "text": "Esztergomi bástya, amely egykor a révhez vezető kaput védte.",
                   "category": "landmark",
@@ -37377,15 +36717,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.734972,
                         47.800068
-                  ]
-            },
-            {
-                  "name": "Jazda na koni",
-                  "text": "Lovaglási lehetőség Esztergom közelében, Párkány térségében.",
-                  "category": "landmark",
-                  "coords": [
-                        18.714385,
-                        47.803897
                   ]
             },
             {
@@ -37434,15 +36765,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Gyilkos-tó",
-                  "text": "A Gyilkos-tó egy nyugodt vizű tó Esztergomban, amely békés természeti környezetet kínál a látogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        18.738073,
-                        47.747328
-                  ]
-            },
-            {
                   "name": "Bajtavská vodná nádrž",
                   "text": "A Bajtavská vodná nádrž egy Esztergomhoz közeli víztározó, amelyet gyönyörű táj vesz körül.",
                   "category": "natural",
@@ -37470,15 +36792,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lóga-tó",
-                  "text": "A Lóga-tó egy békés tó Esztergomban, ahol a látogatók gyönyörködhetnek a helyi tájban.",
-                  "category": "natural",
-                  "coords": [
-                        18.748061,
-                        47.723768
-                  ]
-            },
-            {
                   "name": "Béke téri játszótér",
                   "text": "A Béke téri játszótér egy családbarát játszótér Esztergom városában.",
                   "category": "family",
@@ -37494,15 +36807,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.747168,
                         47.801952
-                  ]
-            },
-            {
-                  "name": "Pezsgőmedence",
-                  "text": "Perliczkovy bazén a pihenéshez Esztergom területén.",
-                  "category": "family",
-                  "coords": [
-                        18.716885,
-                        47.80202
                   ]
             },
             {
@@ -37701,30 +37005,12 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vadaš Thermal Resort Štúrovo",
-                  "text": "Un complex termal mare în Štúrovo, lângă Esztergom, cu numeroase piscine și tobogane.",
-                  "category": "family",
-                  "coords": [
-                        18.715967,
-                        47.802271
-                  ]
-            },
-            {
                   "name": "Várszínház",
                   "text": "Teatrul cetății din Esztergom oferă o scenă pentru spectacole culturale într-un cadru istoric.",
                   "category": "cultural",
                   "coords": [
                         18.737416,
                         47.798376
-                  ]
-            },
-            {
-                  "name": "Zábavný park VadašLand",
-                  "text": "Un parc de distracții în cadrul complexului termal Vadaš, cu atracții pentru copii și familii.",
-                  "category": "family",
-                  "coords": [
-                        18.715632,
-                        47.805074
                   ]
             },
             {
@@ -37773,15 +37059,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Galéria",
-                  "text": "Un spațiu de expoziție în Esztergom pentru diverse lucrări artistice.",
-                  "category": "cultural",
-                  "coords": [
-                        18.723744,
-                        47.79859
-                  ]
-            },
-            {
                   "name": "Révkapu rondella",
                   "text": "Un bastion din Esztergom care proteja odinioară poarta de acces către bac sau port.",
                   "category": "landmark",
@@ -37797,15 +37074,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.734972,
                         47.800068
-                  ]
-            },
-            {
-                  "name": "Jazda na koni",
-                  "text": "Un loc pentru activități de echitație în apropiere de Esztergom, în zona Štúrovo.",
-                  "category": "landmark",
-                  "coords": [
-                        18.714385,
-                        47.803897
                   ]
             },
             {
@@ -37854,15 +37122,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Gyilkos-tó",
-                  "text": "Gyilkos-tó este un lac liniștit în Esztergom, care oferă vizitatorilor un peisaj natural pașnic.",
-                  "category": "natural",
-                  "coords": [
-                        18.738073,
-                        47.747328
-                  ]
-            },
-            {
                   "name": "Bajtavská vodná nádrž",
                   "text": "Bajtavská vodná nádrž este un lac de acumulare lângă Esztergom, înconjurat de un peisaj frumos.",
                   "category": "natural",
@@ -37890,15 +37149,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lóga-tó",
-                  "text": "Lóga-tó este un lac pașnic în Esztergom, unde vizitatorii pot admira peisajul local.",
-                  "category": "natural",
-                  "coords": [
-                        18.748061,
-                        47.723768
-                  ]
-            },
-            {
                   "name": "Béke téri játszótér",
                   "text": "Béke téri játszótér este un loc de joacă pentru familii, situat în orașul Esztergom.",
                   "category": "family",
@@ -37914,15 +37164,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.747168,
                         47.801952
-                  ]
-            },
-            {
-                  "name": "Perličkový bazén",
-                  "text": "O piscină cu bule pentru relaxare în Esztergom.",
-                  "category": "family",
-                  "coords": [
-                        18.716885,
-                        47.80202
                   ]
             },
             {
@@ -38121,30 +37362,12 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vadaš Thermal Resort Štúrovo",
-                  "text": "A large thermal resort in Štúrovo near Esztergom featuring numerous pools and water slides.",
-                  "category": "family",
-                  "coords": [
-                        18.715967,
-                        47.802271
-                  ]
-            },
-            {
                   "name": "Várszínház",
                   "text": "The Castle Theatre in Esztergom provides a stage for cultural performances in a historical setting.",
                   "category": "cultural",
                   "coords": [
                         18.737416,
                         47.798376
-                  ]
-            },
-            {
-                  "name": "Zábavný park VadašLand",
-                  "text": "An amusement park within the Vadaš thermal resort area with attractions for children and families.",
-                  "category": "family",
-                  "coords": [
-                        18.715632,
-                        47.805074
                   ]
             },
             {
@@ -38193,15 +37416,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Galéria",
-                  "text": "An exhibition space in Esztergom for various artistic works.",
-                  "category": "cultural",
-                  "coords": [
-                        18.723744,
-                        47.79859
-                  ]
-            },
-            {
                   "name": "Révkapu-Bastion",
                   "text": "A bastion in Esztergom that once protected the gateway leading to the ferry or port.",
                   "category": "landmark",
@@ -38217,15 +37431,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.734972,
                         47.800068
-                  ]
-            },
-            {
-                  "name": "Jazda na koni",
-                  "text": "A location for horse riding activities near Esztergom in the Štúrovo area.",
-                  "category": "landmark",
-                  "coords": [
-                        18.714385,
-                        47.803897
                   ]
             },
             {
@@ -38274,15 +37479,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Gyilkos-tó",
-                  "text": "Gyilkos-tó is a tranquil lake in Esztergom, offering a peaceful natural landscape for visitors.",
-                  "category": "natural",
-                  "coords": [
-                        18.738073,
-                        47.747328
-                  ]
-            },
-            {
                   "name": "Bajtavská vodná nádrž",
                   "text": "Bajtavská vodná nádrž is a water reservoir near Esztergom surrounded by beautiful scenery.",
                   "category": "natural",
@@ -38310,15 +37506,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lóga-tó",
-                  "text": "Lóga-tó is a peaceful lake in Esztergom where visitors can take in the local scenery.",
-                  "category": "natural",
-                  "coords": [
-                        18.748061,
-                        47.723768
-                  ]
-            },
-            {
                   "name": "Béke téri játszótér",
                   "text": "Béke téri játszótér is a family-friendly playground situated in the city of Esztergom.",
                   "category": "family",
@@ -38334,15 +37521,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.747168,
                         47.801952
-                  ]
-            },
-            {
-                  "name": "Perličkový bazén",
-                  "text": "A bubble pool for relaxation in Esztergom.",
-                  "category": "family",
-                  "coords": [
-                        18.716885,
-                        47.80202
                   ]
             },
             {
@@ -40696,24 +39874,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Szabadtéri színpad",
-                  "text": "Ein historisches Theater in Hollókő.",
-                  "category": "cultural",
-                  "coords": [
-                        19.588627,
-                        47.995561
-                  ]
-            },
-            {
-                  "name": "Középkori templom",
-                  "text": "Eine archäologische Stätte in Hollókő mit antiken Überresten.",
-                  "category": "historical",
-                  "coords": [
-                        19.58239,
-                        47.994359
-                  ]
-            },
-            {
                   "name": "Kézműves Nyomdaműhely",
                   "text": "Ein Museum in Hollókő, das der lokalen Geschichte oder Kultur gewidmet ist.",
                   "category": "museum",
@@ -40740,24 +39900,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.581808,
                         47.997745
-                  ]
-            },
-            {
-                  "name": "Szabadtéri színpad",
-                  "text": "Történelmi színház Hollókő városában.",
-                  "category": "cultural",
-                  "coords": [
-                        19.588627,
-                        47.995561
-                  ]
-            },
-            {
-                  "name": "Középkori templom",
-                  "text": "Régészeti lelőhely Hollókő területén, amely ókori maradványokat mutat be.",
-                  "category": "historical",
-                  "coords": [
-                        19.58239,
-                        47.994359
                   ]
             },
             {
@@ -40790,24 +39932,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Szabadtéri színpad",
-                  "text": "Un teatru istoric situat în Hollókő.",
-                  "category": "cultural",
-                  "coords": [
-                        19.588627,
-                        47.995561
-                  ]
-            },
-            {
-                  "name": "Középkori templom",
-                  "text": "Un sit arheologic în Hollókő care prezintă vestigii antice.",
-                  "category": "historical",
-                  "coords": [
-                        19.58239,
-                        47.994359
-                  ]
-            },
-            {
                   "name": "Kézműves Nyomdaműhely",
                   "text": "Un muzeu în Hollókő dedicat istoriei sau culturii locale.",
                   "category": "museum",
@@ -40834,24 +39958,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.581808,
                         47.997745
-                  ]
-            },
-            {
-                  "name": "Szabadtéri színpad",
-                  "text": "A historic theatre venue located in Hollókő.",
-                  "category": "cultural",
-                  "coords": [
-                        19.588627,
-                        47.995561
-                  ]
-            },
-            {
-                  "name": "Középkori templom",
-                  "text": "An archaeological site in Hollókő featuring ancient remains.",
-                  "category": "historical",
-                  "coords": [
-                        19.58239,
-                        47.994359
                   ]
             },
             {
@@ -41262,15 +40368,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.126937,
                         47.60808
-                  ]
-            },
-            {
-                  "name": "Sződligeti horgásztó",
-                  "text": "Sződligeti horgásztó ist ein See in der Nähe von Szentendre, der schöne Spaziergänge am Ufer ermöglicht.",
-                  "category": "natural",
-                  "coords": [
-                        19.140418,
-                        47.717202
                   ]
             },
             {
@@ -41739,15 +40836,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Sződligeti horgásztó",
-                  "text": "A Sződligeti horgásztó egy festői tó Szentendre közelében.",
-                  "category": "natural",
-                  "coords": [
-                        19.140418,
-                        47.717202
-                  ]
-            },
-            {
                   "name": "II. Tó",
                   "text": "A II. Tó egy kellemes környezetű tó Szentendrén.",
                   "category": "natural",
@@ -42213,15 +41301,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Sződligeti horgásztó",
-                  "text": "Sződligeti horgásztó este un lac pitoresc aproape de Szentendre.",
-                  "category": "natural",
-                  "coords": [
-                        19.140418,
-                        47.717202
-                  ]
-            },
-            {
                   "name": "II. Tó",
                   "text": "II. Tó este un lac în Szentendre, potrivit pentru relaxare.",
                   "category": "natural",
@@ -42684,15 +41763,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.126937,
                         47.60808
-                  ]
-            },
-            {
-                  "name": "Sződligeti horgásztó",
-                  "text": "Sződligeti horgásztó is a picturesque lake near Szentendre.",
-                  "category": "natural",
-                  "coords": [
-                        19.140418,
-                        47.717202
                   ]
             },
             {
@@ -47628,15 +46698,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Plattensee",
-                  "text": "Der Balaton in Siofok ist ein ideales Ziel zum Schwimmen und für Freizeitaktivitäten.",
-                  "category": "natural",
-                  "coords": [
-                        17.705925,
-                        46.88396
-                  ]
-            },
-            {
                   "name": "Platán Játékterem",
                   "text": "Die Platán Arcade Venue in Siofok bietet Unterhaltung für die ganze Familie.",
                   "category": "family",
@@ -47936,15 +46997,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.972515,
                         46.885925
-                  ]
-            },
-            {
-                  "name": "Balaton",
-                  "text": "A siófoki Balaton ideális célpont úszáshoz és szabadidős tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        17.705925,
-                        46.88396
                   ]
             },
             {
@@ -48250,15 +47302,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Balaton",
-                  "text": "Lacul Balaton din Siofok este o destinație ideală pentru înot și activități recreative.",
-                  "category": "natural",
-                  "coords": [
-                        17.705925,
-                        46.88396
-                  ]
-            },
-            {
                   "name": "Platán Játékterem",
                   "text": "Platán Arcade Venue din Siofok oferă divertisment pentru întreaga familie.",
                   "category": "family",
@@ -48558,15 +47601,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.972515,
                         46.885925
-                  ]
-            },
-            {
-                  "name": "Lake Balaton",
-                  "text": "Lake Balaton in Siofok is an ideal destination for swimming and leisure activities.",
-                  "category": "natural",
-                  "coords": [
-                        17.705925,
-                        46.88396
                   ]
             },
             {
@@ -63929,15 +62963,6 @@ export const hungaryCities: POI[] = [
     id: "bugac", "sights": {
       "de": [
             {
-                  "name": "Alföldfásítási Múzeum",
-                  "text": "Das Aufforstungs-Museum in Bugac zeigt die Geschichte der Waldanpflanzung in der Großen Tiefebene.",
-                  "category": "museum",
-                  "coords": [
-                        19.669135,
-                        46.655492
-                  ]
-            },
-            {
                   "name": "Pétermonostora kolostorrom",
                   "text": "Pétermonostora ist die Stätte historischer Klosterruinen in der Nähe von Bugac.",
                   "category": "religious",
@@ -63954,27 +62979,9 @@ export const hungaryCities: POI[] = [
                         19.709103,
                         46.69039
                   ]
-            },
-            {
-                  "name": "Parkerdő kilátótorony",
-                  "text": "Der Aussichtsturm im Parkwald bietet einen Panoramablick auf die umliegenden Wälder in Bugac.",
-                  "category": "natural",
-                  "coords": [
-                        19.638841,
-                        46.697786
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Alföldfásítási Múzeum",
-                  "text": "Az Alföldfásítási Múzeum az alföldi erdőtelepítések történetét mutatja be Bugacon.",
-                  "category": "museum",
-                  "coords": [
-                        19.669135,
-                        46.655492
-                  ]
-            },
             {
                   "name": "Pétermonostora kolostorrom",
                   "text": "Pétermonostora egy Bugac közelében található történelmi kolostorrom.",
@@ -63992,27 +62999,9 @@ export const hungaryCities: POI[] = [
                         19.709103,
                         46.69039
                   ]
-            },
-            {
-                  "name": "Parkerdő kilátótorony",
-                  "text": "A parkerdő kilátótornya panorámás kilátást nyújt a környező erdőkre Bugacon.",
-                  "category": "natural",
-                  "coords": [
-                        19.638841,
-                        46.697786
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Alföldfásítási Múzeum",
-                  "text": "Muzeul Împăduririi din Bugac prezintă istoria plantării pădurilor în Marea Câmpie.",
-                  "category": "museum",
-                  "coords": [
-                        19.669135,
-                        46.655492
-                  ]
-            },
             {
                   "name": "Pétermonostora kolostorrom",
                   "text": "Pétermonostora este locul unor ruine istorice de mănăstire situate lângă Bugac.",
@@ -64030,27 +63019,9 @@ export const hungaryCities: POI[] = [
                         19.709103,
                         46.69039
                   ]
-            },
-            {
-                  "name": "Parkerdő kilátótorony",
-                  "text": "Turnul de belvedere din parcul forestier oferă o vedere panoramică asupra pădurilor înconjurătoare din Bugac.",
-                  "category": "natural",
-                  "coords": [
-                        19.638841,
-                        46.697786
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Alföldfásítási Múzeum",
-                  "text": "The Afforestation Museum in Bugac showcases the history of forest planting on the Great Plain.",
-                  "category": "museum",
-                  "coords": [
-                        19.669135,
-                        46.655492
-                  ]
-            },
             {
                   "name": "Pétermonostora kolostorrom",
                   "text": "Pétermonostora is the site of historic monastery ruins located near Bugac.",
@@ -64067,15 +63038,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         19.709103,
                         46.69039
-                  ]
-            },
-            {
-                  "name": "Parkerdő kilátótorony",
-                  "text": "The forest park lookout tower offers a panoramic view of the surrounding woodlands in Bugac.",
-                  "category": "natural",
-                  "coords": [
-                        19.638841,
-                        46.697786
                   ]
             }
       ]
@@ -65914,15 +64876,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Diósgyőri Papíripari Múzeum",
-                  "text": "Ein Museum, das der Geschichte der Papierherstellung in Diósgyőr gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        20.662162,
-                        48.113417
-                  ]
-            },
-            {
                   "name": "Kisvasút kiállítás",
                   "text": "Eine Ausstellung über die Geschichte der Waldbahn von Lillafüred.",
                   "category": "museum",
@@ -65938,24 +64891,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.620386,
                         48.095574
-                  ]
-            },
-            {
-                  "name": "Szeleta Park Látogatóközpont",
-                  "text": "Ein Besucherzentrum, das sich auf das Natur- und Kulturerbe der Szeleta-Höhle konzentriert.",
-                  "category": "museum",
-                  "coords": [
-                        20.656042,
-                        48.115526
-                  ]
-            },
-            {
-                  "name": "Miskolci Állatkert",
-                  "text": "Ein traditionsreicher Zoo in waldreicher Umgebung nahe Lillafüred.",
-                  "category": "recreational",
-                  "coords": [
-                        20.656273,
-                        48.126649
                   ]
             }
       ],
@@ -65979,15 +64914,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Diósgyőri Papíripari Múzeum",
-                  "text": "A diósgyőri papírgyártás történetének szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.662162,
-                        48.113417
-                  ]
-            },
-            {
                   "name": "Kisvasút kiállítás",
                   "text": "A lillafüredi erdei vasút történetét bemutató kiállítás.",
                   "category": "museum",
@@ -66003,24 +64929,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.620386,
                         48.095574
-                  ]
-            },
-            {
-                  "name": "Szeleta Park Látogatóközpont",
-                  "text": "A Szeleta-barlang természeti és kulturális örökségére fókuszáló látogatóközpont.",
-                  "category": "museum",
-                  "coords": [
-                        20.656042,
-                        48.115526
-                  ]
-            },
-            {
-                  "name": "Miskolci Állatkert",
-                  "text": "Gazdag múltú állatkert erdős környezetben, Lillafüred közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        20.656273,
-                        48.126649
                   ]
             }
       ],
@@ -66044,15 +64952,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Diósgyőri Papíripari Múzeum",
-                  "text": "Un muzeu dedicat istoriei fabricării hârtiei în Diósgyőr.",
-                  "category": "museum",
-                  "coords": [
-                        20.662162,
-                        48.113417
-                  ]
-            },
-            {
                   "name": "Kisvasút kiállítás",
                   "text": "O expoziție despre istoria căii ferate forestiere din Lillafüred.",
                   "category": "museum",
@@ -66068,24 +64967,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.620386,
                         48.095574
-                  ]
-            },
-            {
-                  "name": "Szeleta Park Látogatóközpont",
-                  "text": "Un centru de vizitare concentrat pe patrimoniul natural și cultural al peșterii Szeleta.",
-                  "category": "museum",
-                  "coords": [
-                        20.656042,
-                        48.115526
-                  ]
-            },
-            {
-                  "name": "Miskolci Állatkert",
-                  "text": "O grădină zoologică tradițională situată într-o zonă împădurită lângă Lillafüred.",
-                  "category": "recreational",
-                  "coords": [
-                        20.656273,
-                        48.126649
                   ]
             }
       ],
@@ -66109,15 +64990,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Diósgyőri Papíripari Múzeum",
-                  "text": "A museum dedicated to the history of papermaking in Diósgyőr.",
-                  "category": "museum",
-                  "coords": [
-                        20.662162,
-                        48.113417
-                  ]
-            },
-            {
                   "name": "Kisvasút kiállítás",
                   "text": "An exhibition about the history of the Lillafüred forest railway.",
                   "category": "museum",
@@ -66133,24 +65005,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         20.620386,
                         48.095574
-                  ]
-            },
-            {
-                  "name": "Szeleta Park Látogatóközpont",
-                  "text": "A visitor center focusing on the natural and cultural heritage of the Szeleta Cave.",
-                  "category": "museum",
-                  "coords": [
-                        20.656042,
-                        48.115526
-                  ]
-            },
-            {
-                  "name": "Miskolc Zoo",
-                  "text": "A long-standing zoo set in a wooded environment near Lillafüred.",
-                  "category": "recreational",
-                  "coords": [
-                        20.656273,
-                        48.126649
                   ]
             }
       ]
@@ -68493,15 +67347,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Neusiedler See",
-                  "text": "Der Neusiedler See bei Fertod ist ein bedeutendes Naturgebiet für Freizeitaktivitäten.",
-                  "category": "natural",
-                  "coords": [
-                        16.774893,
-                        47.800763
-                  ]
-            },
-            {
                   "name": "KalandBirodalom",
                   "text": "Der Spielplatz KalandBirodalom in Fertod bietet Spaß für die ganze Familie.",
                   "category": "family",
@@ -68730,15 +67575,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.890872,
                         47.592178
-                  ]
-            },
-            {
-                  "name": "Fertő",
-                  "text": "A fertődi Neusiedler See (Fertő-tó) jelentős természeti terület a kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        16.774893,
-                        47.800763
                   ]
             },
             {
@@ -68973,15 +67809,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Neusiedler See / Fertő",
-                  "text": "Lacul Neusiedl lângă Fertod este o zonă naturală importantă pentru activități recreative.",
-                  "category": "natural",
-                  "coords": [
-                        16.774893,
-                        47.800763
-                  ]
-            },
-            {
                   "name": "KalandBirodalom",
                   "text": "Locul de joacă KalandBirodalom din Fertod oferă distracție pentru întreaga familie.",
                   "category": "family",
@@ -69210,15 +68037,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         16.890872,
                         47.592178
-                  ]
-            },
-            {
-                  "name": "Lake Neusiedl",
-                  "text": "Lake Neusiedl near Fertod is a significant natural area for leisure activities.",
-                  "category": "natural",
-                  "coords": [
-                        16.774893,
-                        47.800763
                   ]
             },
             {
@@ -72566,15 +71384,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bazén s termálnou vodou",
-                  "text": "Ein Schwimmbecken mit Thermalwasser in Komarom zur Erholung.",
-                  "category": "family",
-                  "coords": [
-                        18.134058,
-                        47.756851
-                  ]
-            },
-            {
                   "name": "WF - Szabadidőpark",
                   "text": "Ein Freizeit- und Wasserpark in Komárom mit verschiedenen Outdoor-Aktivitäten.",
                   "category": "recreational",
@@ -72908,15 +71717,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.129415,
                         47.743924
-                  ]
-            },
-            {
-                  "name": "Termálvizes medence",
-                  "text": "Termálvizes medence Komáromban pihenésre és felfrissülésre.",
-                  "category": "family",
-                  "coords": [
-                        18.134058,
-                        47.756851
                   ]
             },
             {
@@ -73256,15 +72056,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Bazén s termálnou vodou",
-                  "text": "O piscină cu apă termală în Komarom pentru recuperare.",
-                  "category": "family",
-                  "coords": [
-                        18.134058,
-                        47.756851
-                  ]
-            },
-            {
                   "name": "WF - Szabadidőpark",
                   "text": "Un parc de agrement și parc acvatic în Komárom, cu diverse activități în aer liber.",
                   "category": "recreational",
@@ -73598,15 +72389,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.129415,
                         47.743924
-                  ]
-            },
-            {
-                  "name": "Bazén s termálnou vodou",
-                  "text": "A swimming pool with thermal water in Komarom for relaxation.",
-                  "category": "family",
-                  "coords": [
-                        18.134058,
-                        47.756851
                   ]
             },
             {
@@ -74829,24 +73611,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Csónakázó-tó",
-                  "text": "Csónakázó-tó in Erd ist ein von Natur umgebener Bootsteich, ideal für erholsame Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        18.925797,
-                        47.317723
-                  ]
-            },
-            {
-                  "name": "7 VIP",
-                  "text": "7 VIP ist ein See in Erd, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.906391,
-                        47.336615
-                  ]
-            },
-            {
                   "name": "Törökbálinti-tó",
                   "text": "Törökbálinti-tó ist ein See in Erd, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
                   "category": "natural",
@@ -74871,15 +73635,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.895749,
                         47.436536
-                  ]
-            },
-            {
-                  "name": "tüzivíztározó",
-                  "text": "tüzivíztározó ist ein See in Erd, der einen malerischen Ort für einen Spaziergang in der Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.883903,
-                        47.324078
                   ]
             },
             {
@@ -75152,24 +73907,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Csónakázó-tó",
-                  "text": "Csónakázó-tó egy természetközeli csónakázótó Erd területén, amely ideális a pihentető sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        18.925797,
-                        47.317723
-                  ]
-            },
-            {
-                  "name": "7 VIP",
-                  "text": "7 VIP egy tó Erd területén, amely festői helyszínt kínál egy természetbeni sétához.",
-                  "category": "natural",
-                  "coords": [
-                        18.906391,
-                        47.336615
-                  ]
-            },
-            {
                   "name": "Törökbálinti-tó",
                   "text": "Törökbálinti-tó egy tó Erd területén, amely festői helyszínt kínál egy természetbeni sétához.",
                   "category": "natural",
@@ -75194,15 +73931,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.895749,
                         47.436536
-                  ]
-            },
-            {
-                  "name": "tüzivíztározó",
-                  "text": "tüzivíztározó egy tó Erd területén, amely festői helyszínt kínál egy természetbeni sétához.",
-                  "category": "natural",
-                  "coords": [
-                        18.883903,
-                        47.324078
                   ]
             },
             {
@@ -75475,24 +74203,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Csónakázó-tó",
-                  "text": "Csónakázó-tó din Erd este un lac pentru plimbări cu barca înconjurat de natură, ideal pentru relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        18.925797,
-                        47.317723
-                  ]
-            },
-            {
-                  "name": "7 VIP",
-                  "text": "7 VIP este un lac situat în Erd, oferind un loc pitoresc pentru o plimbare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.906391,
-                        47.336615
-                  ]
-            },
-            {
                   "name": "Törökbálinti-tó",
                   "text": "Törökbálinti-tó este un lac situat în Erd, oferind un loc pitoresc pentru o plimbare în natură.",
                   "category": "natural",
@@ -75517,15 +74227,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.895749,
                         47.436536
-                  ]
-            },
-            {
-                  "name": "tüzivíztározó",
-                  "text": "tüzivíztározó este un lac situat în Erd, oferind un loc pitoresc pentru o plimbare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        18.883903,
-                        47.324078
                   ]
             },
             {
@@ -75798,24 +74499,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Csónakázó-tó",
-                  "text": "Csónakázó-tó in Erd is a boating lake surrounded by nature, ideal for relaxing walks.",
-                  "category": "natural",
-                  "coords": [
-                        18.925797,
-                        47.317723
-                  ]
-            },
-            {
-                  "name": "7 VIP",
-                  "text": "7 VIP is a lake located in Erd, offering a scenic spot for a walk in nature.",
-                  "category": "natural",
-                  "coords": [
-                        18.906391,
-                        47.336615
-                  ]
-            },
-            {
                   "name": "Törökbálinti-tó",
                   "text": "Törökbálinti-tó is a lake located in Erd, offering a scenic spot for a walk in nature.",
                   "category": "natural",
@@ -75840,15 +74523,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         18.895749,
                         47.436536
-                  ]
-            },
-            {
-                  "name": "tüzivíztározó",
-                  "text": "tüzivíztározó is a lake located in Erd, offering a scenic spot for a walk in nature.",
-                  "category": "natural",
-                  "coords": [
-                        18.883903,
-                        47.324078
                   ]
             },
             {
@@ -77427,24 +76101,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Plattensee",
-                  "text": "Lake Balaton ist ein bekannter großer See in Fonyod, der für seine schöne Landschaft und Bademöglichkeiten bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        17.705925,
-                        46.88396
-                  ]
-            },
-            {
-                  "name": "Bugaszegi-horgásztó",
-                  "text": "Bugaszegi-horgásztó ist ein Angelsee in Fonyod, der Anglern und Spaziergängern eine ruhige Umgebung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        17.655225,
-                        46.752176
-                  ]
-            },
-            {
                   "name": "Huszka utcai szabadstrand",
                   "text": "Dieser öffentliche Strand in der Huszka-Straße in Fonyód ist ein ruhiger Ort zum Schwimmen.",
                   "category": "family",
@@ -77631,24 +76287,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.532626,
                         46.735746
-                  ]
-            },
-            {
-                  "name": "Balaton",
-                  "text": "A Lake Balaton egy híres nagy tó Fonyod mellett, amely gyönyörű tájáról és fürdőzési lehetőségeiről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        17.705925,
-                        46.88396
-                  ]
-            },
-            {
-                  "name": "Bugaszegi-horgásztó",
-                  "text": "Bugaszegi-horgásztó egy horgásztó Fonyod területén, amely békés környezetet biztosít a horgászok és kirándulók számára.",
-                  "category": "natural",
-                  "coords": [
-                        17.655225,
-                        46.752176
                   ]
             },
             {
@@ -77841,24 +76479,6 @@ export const hungaryCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Balaton",
-                  "text": "Lake Balaton este un lac mare și faimos în Fonyod, cunoscut pentru peisajele sale frumoase și oportunitățile de înot.",
-                  "category": "natural",
-                  "coords": [
-                        17.705925,
-                        46.88396
-                  ]
-            },
-            {
-                  "name": "Bugaszegi-horgásztó",
-                  "text": "Bugaszegi-horgásztó este un lac de pescuit în Fonyod, oferind un cadru liniștit pentru pescari și plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        17.655225,
-                        46.752176
-                  ]
-            },
-            {
                   "name": "Huszka utcai szabadstrand",
                   "text": "Situată în Fonyód, această plajă publică de pe strada Huszka este un loc liniștit pentru înot.",
                   "category": "family",
@@ -78045,24 +76665,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.532626,
                         46.735746
-                  ]
-            },
-            {
-                  "name": "Lake Balaton",
-                  "text": "Lake Balaton is a famous large lake in Fonyod, known for its beautiful scenery and swimming opportunities.",
-                  "category": "natural",
-                  "coords": [
-                        17.705925,
-                        46.88396
-                  ]
-            },
-            {
-                  "name": "Bugaszegi-horgásztó",
-                  "text": "Bugaszegi-horgásztó is a fishing lake in Fonyod, providing a peaceful setting for anglers and walkers.",
-                  "category": "natural",
-                  "coords": [
-                        17.655225,
-                        46.752176
                   ]
             },
             {
@@ -84027,15 +82629,6 @@ export const hungaryCities: POI[] = [
                         17.482297,
                         46.97
                   ]
-            },
-            {
-                  "name": "Ódörögdi templom romjai",
-                  "text": "Die stimmungsvollen Ruinen einer mittelalterlichen Kirche in der Landschaft bei Sümeg.",
-                  "category": "historical",
-                  "coords": [
-                        17.412497,
-                        46.954616
-                  ]
             }
       ],
       "hu": [
@@ -84046,15 +82639,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.482297,
                         46.97
-                  ]
-            },
-            {
-                  "name": "Ódörögdi templom romjai",
-                  "text": "Egy középkori templom hangulatos romjai Sümeg közelében, a vidéki tájban.",
-                  "category": "historical",
-                  "coords": [
-                        17.412497,
-                        46.954616
                   ]
             }
       ],
@@ -84067,15 +82651,6 @@ export const hungaryCities: POI[] = [
                         17.482297,
                         46.97
                   ]
-            },
-            {
-                  "name": "Ódörögdi templom romjai",
-                  "text": "Ruinele atmosferice ale unei biserici medievale situate în zona rurală de lângă Sümeg.",
-                  "category": "historical",
-                  "coords": [
-                        17.412497,
-                        46.954616
-                  ]
             }
       ],
       "en": [
@@ -84086,15 +82661,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.482297,
                         46.97
-                  ]
-            },
-            {
-                  "name": "Ódörögdi templom romjai",
-                  "text": "The atmospheric ruins of a medieval church located in the countryside near Sümeg.",
-                  "category": "historical",
-                  "coords": [
-                        17.412497,
-                        46.954616
                   ]
             }
       ]
@@ -84505,33 +83071,6 @@ export const hungaryCities: POI[] = [
                         21.100591,
                         47.599892
                   ]
-            },
-            {
-                  "name": "Pusztazoo",
-                  "text": "Ein Tierpark im Nationalpark Hortobágy, der ungarische Haustierrassen zeigt.",
-                  "category": "recreational",
-                  "coords": [
-                        21.143712,
-                        47.573171
-                  ]
-            },
-            {
-                  "name": "Hortobágyi Vadaspark",
-                  "text": "Ein Wildpark im Nationalpark Hortobágy, der die heimische Tierwelt präsentiert.",
-                  "category": "recreational",
-                  "coords": [
-                        21.136385,
-                        47.552353
-                  ]
-            },
-            {
-                  "name": "Hortobagyi Madarpark",
-                  "text": "Eine spezialisierte Vogelklinik und ein Rettungszentrum in der Region Hortobágy.",
-                  "category": "landmark",
-                  "coords": [
-                        21.152457,
-                        47.580772
-                  ]
             }
       ],
       "hu": [
@@ -84587,33 +83126,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.100591,
                         47.599892
-                  ]
-            },
-            {
-                  "name": "Pusztai Állatpark",
-                  "text": "A pusztai állatpark magyar háziasított állatfajokat mutat be a Hortobágyon.",
-                  "category": "recreational",
-                  "coords": [
-                        21.143712,
-                        47.573171
-                  ]
-            },
-            {
-                  "name": "Hortobágyi Vadaspark",
-                  "text": "Vadaspark a Hortobágyi Nemzeti Parkban, amely a puszta vadvilágát mutatja be.",
-                  "category": "recreational",
-                  "coords": [
-                        21.136385,
-                        47.552353
-                  ]
-            },
-            {
-                  "name": "Hortobagyi Madarpark",
-                  "text": "Madárkórház és mentőközpont a Hortobágyon, ahol sérült madarakat gyógyítanak.",
-                  "category": "landmark",
-                  "coords": [
-                        21.152457,
-                        47.580772
                   ]
             }
       ],
@@ -84671,33 +83183,6 @@ export const hungaryCities: POI[] = [
                         21.100591,
                         47.599892
                   ]
-            },
-            {
-                  "name": "Pusztai Állatpark",
-                  "text": "Un parc zoologic în Parcul Național Hortobágy, care prezintă rase domestice maghiare.",
-                  "category": "recreational",
-                  "coords": [
-                        21.143712,
-                        47.573171
-                  ]
-            },
-            {
-                  "name": "Hortobágyi Vadaspark",
-                  "text": "Un parc sălbatic în Parcul Național Hortobágy, dedicat faunei locale.",
-                  "category": "recreational",
-                  "coords": [
-                        21.136385,
-                        47.552353
-                  ]
-            },
-            {
-                  "name": "Hortobagyi Madarpark",
-                  "text": "O clinică specializată pentru păsări și un centru de salvare situat în regiunea Hortobágy.",
-                  "category": "landmark",
-                  "coords": [
-                        21.152457,
-                        47.580772
-                  ]
             }
       ],
       "en": [
@@ -84753,33 +83238,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         21.100591,
                         47.599892
-                  ]
-            },
-            {
-                  "name": "Pusztai Állatpark",
-                  "text": "A zoo in Hortobágy National Park showcasing Hungarian domestic animal breeds.",
-                  "category": "recreational",
-                  "coords": [
-                        21.143712,
-                        47.573171
-                  ]
-            },
-            {
-                  "name": "Hortobágyi Vadaspark",
-                  "text": "A wildlife park in Hortobágy National Park presenting local wild animals.",
-                  "category": "recreational",
-                  "coords": [
-                        21.136385,
-                        47.552353
-                  ]
-            },
-            {
-                  "name": "Hortobagyi Madarpark",
-                  "text": "A specialized bird clinic and rescue center located in the Hortobágy region.",
-                  "category": "landmark",
-                  "coords": [
-                        21.152457,
-                        47.580772
                   ]
             }
       ]
@@ -85503,15 +83961,6 @@ export const hungaryCities: POI[] = [
     id: "pannonhalmi-foapatsag", "sights": {
       "de": [
             {
-                  "name": "Illatmúzeum",
-                  "text": "Ein Museum in der Erzabtei Pannonhalma, das sich mit der Geschichte der Düfte befasst.",
-                  "category": "museum",
-                  "coords": [
-                        17.767529,
-                        47.551779
-                  ]
-            },
-            {
                   "name": "Apátsági Múzeum",
                   "text": "Das Abteimuseum in Pannonhalma, das kirchliche und historische Schätze der Region zeigt.",
                   "category": "museum",
@@ -85528,54 +83977,9 @@ export const hungaryCities: POI[] = [
                         17.756198,
                         47.548103
                   ]
-            },
-            {
-                  "name": "Kiállítótér (időszaki kiállítás)",
-                  "text": "Ein Ausstellungsraum in der Erzabtei Pannonhalma für wechselnde zeitgenössische Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        17.760254,
-                        47.55316
-                  ]
-            },
-            {
-                  "name": "Hefter Üveggaléria",
-                  "text": "Eine Glaskunstgalerie und ein Studio in Pannonhalma, das moderne Glasarbeiten zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        17.76196,
-                        47.555079
-                  ]
-            },
-            {
-                  "name": "\"A sípálya\" - kilátóhely",
-                  "text": "Ein Aussichtspunkt in Pannonhalma, der einen weiten Blick über die umliegende Landschaft bietet.",
-                  "category": "natural",
-                  "coords": [
-                        17.764278,
-                        47.561079
-                  ]
-            },
-            {
-                  "name": "Esterházy-kripta",
-                  "text": "Die Ruinen der historischen Familiengruft der Esterházys in Pannonhalma.",
-                  "category": "historical",
-                  "coords": [
-                        17.758093,
-                        47.562832
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Illatmúzeum",
-                  "text": "A Pannonhalmi Főapátság illatmúzeuma, amely az illatok történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        17.767529,
-                        47.551779
-                  ]
-            },
             {
                   "name": "Apátsági Múzeum",
                   "text": "A Pannonhalmi Főapátság múzeuma, amely egyházi és történelmi emlékeket mutat be.",
@@ -85593,54 +83997,9 @@ export const hungaryCities: POI[] = [
                         17.756198,
                         47.548103
                   ]
-            },
-            {
-                  "name": "Kiállítótér (időszaki kiállítás)",
-                  "text": "A Pannonhalmi Főapátság kiállítótere, amely időszaki művészeti tárlatoknak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        17.760254,
-                        47.55316
-                  ]
-            },
-            {
-                  "name": "Hefter Üveggaléria",
-                  "text": "Üvegművészeti galéria és stúdió Pannonhalmán, amely modern üvegalkotásokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        17.76196,
-                        47.555079
-                  ]
-            },
-            {
-                  "name": "\"A sípálya\" - kilátóhely",
-                  "text": "Kilátóhely Pannonhalmán, ahonnan panorámás kilátás nyílik a környező tájra.",
-                  "category": "natural",
-                  "coords": [
-                        17.764278,
-                        47.561079
-                  ]
-            },
-            {
-                  "name": "Esterházy-kripta",
-                  "text": "Az Esterházy család történelmi kriptájának maradványai Pannonhalmán.",
-                  "category": "historical",
-                  "coords": [
-                        17.758093,
-                        47.562832
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Illatmúzeum",
-                  "text": "Un muzeu în Abația Pannonhalma, dedicat istoriei parfumurilor.",
-                  "category": "museum",
-                  "coords": [
-                        17.767529,
-                        47.551779
-                  ]
-            },
             {
                   "name": "Apátsági Múzeum",
                   "text": "Muzeul Abației din Pannonhalma, care expune comori ecleziastice și istorice.",
@@ -85658,54 +84017,9 @@ export const hungaryCities: POI[] = [
                         17.756198,
                         47.548103
                   ]
-            },
-            {
-                  "name": "Kiállítótér (időszaki kiállítás)",
-                  "text": "Un spațiu expozițional în Abația Pannonhalma pentru expoziții temporare de artă.",
-                  "category": "museum",
-                  "coords": [
-                        17.760254,
-                        47.55316
-                  ]
-            },
-            {
-                  "name": "Hefter Üveggaléria",
-                  "text": "O galerie de artă în sticlă și studio în Pannonhalma, expunând lucrări moderne din sticlă.",
-                  "category": "museum",
-                  "coords": [
-                        17.76196,
-                        47.555079
-                  ]
-            },
-            {
-                  "name": "\"A sípálya\" - kilátóhely",
-                  "text": "Un punct de belvedere în Pannonhalma, oferind o vedere panoramică asupra peisajului înconjurător.",
-                  "category": "natural",
-                  "coords": [
-                        17.764278,
-                        47.561079
-                  ]
-            },
-            {
-                  "name": "Esterházy-kripta",
-                  "text": "Ruinele criptei istorice a familiei Esterházy din Pannonhalma.",
-                  "category": "historical",
-                  "coords": [
-                        17.758093,
-                        47.562832
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Fragrance museum",
-                  "text": "A museum at Pannonhalma Archabbey focusing on the history of fragrances.",
-                  "category": "museum",
-                  "coords": [
-                        17.767529,
-                        47.551779
-                  ]
-            },
             {
                   "name": "Apátsági Múzeum",
                   "text": "The Abbey Museum in Pannonhalma, showcasing ecclesiastical and historical treasures.",
@@ -85722,42 +84036,6 @@ export const hungaryCities: POI[] = [
                   "coords": [
                         17.756198,
                         47.548103
-                  ]
-            },
-            {
-                  "name": "Kiállítótér (időszaki kiállítás)",
-                  "text": "An exhibition space at Pannonhalma Archabbey hosting temporary art displays.",
-                  "category": "museum",
-                  "coords": [
-                        17.760254,
-                        47.55316
-                  ]
-            },
-            {
-                  "name": "Hefter Glass Gallery & Studio",
-                  "text": "A glass art gallery and studio in Pannonhalma exhibiting modern glass works.",
-                  "category": "museum",
-                  "coords": [
-                        17.76196,
-                        47.555079
-                  ]
-            },
-            {
-                  "name": "\"A sípálya\" - kilátóhely",
-                  "text": "A viewpoint in Pannonhalma offering panoramic views over the surrounding landscape.",
-                  "category": "natural",
-                  "coords": [
-                        17.764278,
-                        47.561079
-                  ]
-            },
-            {
-                  "name": "Esterházy-kripta",
-                  "text": "The ruins of the historic Esterházy family crypt in Pannonhalma.",
-                  "category": "historical",
-                  "coords": [
-                        17.758093,
-                        47.562832
                   ]
             }
       ]
@@ -85790,194 +84068,10 @@ export const hungaryCities: POI[] = [
   },
   {
     id: "holloko-ofalu", "sights": {
-      "de": [
-            {
-                  "name": "Hollókői vár",
-                  "text": "Eine mittelalterliche Festung mit Panoramablick über das UNESCO-geschützte Dorf Hollókő.",
-                  "category": "castle",
-                  "coords": [
-                        19.581808,
-                        47.997745
-                  ]
-            },
-            {
-                  "name": "Szabadtéri színpad",
-                  "text": "Eine Freilichtbühne in Hollókő, die für traditionelle Volksfeste genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        19.588627,
-                        47.995561
-                  ]
-            },
-            {
-                  "name": "Középkori templom",
-                  "text": "Die archäologischen Überreste einer mittelalterlichen Kirche im alten Dorf Hollókő.",
-                  "category": "historical",
-                  "coords": [
-                        19.58239,
-                        47.994359
-                  ]
-            },
-            {
-                  "name": "Kézműves Nyomdaműhely",
-                  "text": "Eine Museumswerkstatt in Hollókő, die traditionelle Druck- und Handwerkstechniken zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        19.587475,
-                        47.999133
-                  ]
-            },
-            {
-                  "name": "Palóc Baba Múzeum",
-                  "text": "Ein Museum, das eine Sammlung von Puppen in traditionellen Palóc-Volkstrachten zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        19.586336,
-                        47.999252
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Hollókői vár",
-                  "text": "Középkori vár, ahonnan panorámás kilátás nyílik az UNESCO világörökségi Hollókőre.",
-                  "category": "castle",
-                  "coords": [
-                        19.581808,
-                        47.997745
-                  ]
-            },
-            {
-                  "name": "Szabadtéri színpad",
-                  "text": "Szabadtéri színpad Hollókőn, amelyet hagyományos népi fesztiválokra használnak.",
-                  "category": "cultural",
-                  "coords": [
-                        19.588627,
-                        47.995561
-                  ]
-            },
-            {
-                  "name": "Középkori templom",
-                  "text": "Egy középkori templom régészeti maradványai Hollókő ófalujában.",
-                  "category": "historical",
-                  "coords": [
-                        19.58239,
-                        47.994359
-                  ]
-            },
-            {
-                  "name": "Kézműves Nyomdaműhely",
-                  "text": "Múzeumi műhely Hollókőn, amely a hagyományos nyomtatási és kézműves technikákat mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        19.587475,
-                        47.999133
-                  ]
-            },
-            {
-                  "name": "Palóc Baba Múzeum",
-                  "text": "Palóc népviseletbe öltöztetett babák gyűjteményét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        19.586336,
-                        47.999252
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Hollókői vár",
-                  "text": "O cetate medievală care oferă vederi panoramice asupra satului Hollókő, sit UNESCO.",
-                  "category": "castle",
-                  "coords": [
-                        19.581808,
-                        47.997745
-                  ]
-            },
-            {
-                  "name": "Szabadtéri színpad",
-                  "text": "O scenă în aer liber din Hollókő, folosită pentru festivaluri folclorice tradiționale.",
-                  "category": "cultural",
-                  "coords": [
-                        19.588627,
-                        47.995561
-                  ]
-            },
-            {
-                  "name": "Középkori templom",
-                  "text": "Vestigiile arheologice ale unei biserici medievale situate în satul vechi Hollókő.",
-                  "category": "historical",
-                  "coords": [
-                        19.58239,
-                        47.994359
-                  ]
-            },
-            {
-                  "name": "Kézműves Nyomdaműhely",
-                  "text": "Un atelier muzeal în Hollókő care prezintă tehnici tradiționale de tipărire.",
-                  "category": "museum",
-                  "coords": [
-                        19.587475,
-                        47.999133
-                  ]
-            },
-            {
-                  "name": "Palóc Baba Múzeum",
-                  "text": "Un muzeu care expune o colecție de păpuși îmbrăcate în costume populare Palóc.",
-                  "category": "museum",
-                  "coords": [
-                        19.586336,
-                        47.999252
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Hollókő Castle",
-                  "text": "A medieval fortress offering panoramic views over the UNESCO-listed village of Hollókő.",
-                  "category": "castle",
-                  "coords": [
-                        19.581808,
-                        47.997745
-                  ]
-            },
-            {
-                  "name": "Szabadtéri színpad",
-                  "text": "An open-air stage in Hollókő used for traditional folk festivals and events.",
-                  "category": "cultural",
-                  "coords": [
-                        19.588627,
-                        47.995561
-                  ]
-            },
-            {
-                  "name": "Középkori templom",
-                  "text": "The archaeological remains of a medieval church located in the old village of Hollókő.",
-                  "category": "historical",
-                  "coords": [
-                        19.58239,
-                        47.994359
-                  ]
-            },
-            {
-                  "name": "Kézműves Nyomdaműhely",
-                  "text": "A museum workshop in Hollókő showcasing traditional printing and craft techniques.",
-                  "category": "museum",
-                  "coords": [
-                        19.587475,
-                        47.999133
-                  ]
-            },
-            {
-                  "name": "Palóc Baba Múzeum",
-                  "text": "A museum displaying a collection of dolls dressed in traditional Palóc folk costumes.",
-                  "category": "museum",
-                  "coords": [
-                        19.586336,
-                        47.999252
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "holloko",
@@ -86440,24 +84534,6 @@ export const hungaryCities: POI[] = [
     id: "simontornya-var", "sights": {
       "de": [
             {
-                  "name": "Simontornyai vár",
-                  "text": "Historische Burg in Simontornya mit gotischen und Renaissance-Elementen.",
-                  "category": "castle",
-                  "coords": [
-                        18.552491,
-                        46.752798
-                  ]
-            },
-            {
-                  "name": "Styrum-Linburg-kastély",
-                  "text": "Ein Schloss und historisches Gebäude in Simontornya.",
-                  "category": "castle",
-                  "coords": [
-                        18.554133,
-                        46.753383
-                  ]
-            },
-            {
                   "name": "Simontornyai Városi Strand - Thermál Fürdő",
                   "text": "Ein öffentliches Thermalbad und Wasserpark in Simontornya.",
                   "category": "recreational",
@@ -86495,24 +84571,6 @@ export const hungaryCities: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Simontornyai vár",
-                  "text": "Gótikus és reneszánsz stílusjegyeket ötvöző történelmi vár Simontornyán.",
-                  "category": "castle",
-                  "coords": [
-                        18.552491,
-                        46.752798
-                  ]
-            },
-            {
-                  "name": "Styrum-Linburg-kastély",
-                  "text": "Kastély és történelmi épület Simontornyán.",
-                  "category": "castle",
-                  "coords": [
-                        18.554133,
-                        46.753383
-                  ]
-            },
             {
                   "name": "Simontornyai Városi Strand - Thermál Fürdő",
                   "text": "Városi strand és termálfürdő Simontornyán.",
@@ -86552,24 +84610,6 @@ export const hungaryCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Simontornyai vár",
-                  "text": "Castel istoric în Simontornya, cu elemente gotice și renascentiste.",
-                  "category": "castle",
-                  "coords": [
-                        18.552491,
-                        46.752798
-                  ]
-            },
-            {
-                  "name": "Styrum-Linburg-kastély",
-                  "text": "Un castel și o clădire istorică în Simontornya.",
-                  "category": "castle",
-                  "coords": [
-                        18.554133,
-                        46.753383
-                  ]
-            },
-            {
                   "name": "Simontornyai Városi Strand - Thermál Fürdő",
                   "text": "O baie termală publică și parc acvatic în Simontornya.",
                   "category": "recreational",
@@ -86607,24 +84647,6 @@ export const hungaryCities: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Simontornyai vár",
-                  "text": "A historic castle in Simontornya featuring Gothic and Renaissance elements.",
-                  "category": "castle",
-                  "coords": [
-                        18.552491,
-                        46.752798
-                  ]
-            },
-            {
-                  "name": "Styrum-Linburg-kastély",
-                  "text": "A castle and historical building located in Simontornya.",
-                  "category": "castle",
-                  "coords": [
-                        18.554133,
-                        46.753383
-                  ]
-            },
             {
                   "name": "Simontornyai Városi Strand - Thermál Fürdő",
                   "text": "A public thermal bath and water park in Simontornya.",
@@ -87389,42 +85411,6 @@ export const hungaryCities: POI[] = [
     id: "pannonhalmi-leveltar", "sights": {
       "de": [
             {
-                  "name": "Illatmúzeum",
-                  "text": "Museum für Kräuter und Düfte innerhalb des Abteikomplexes.",
-                  "category": "museum",
-                  "coords": [
-                        17.767529,
-                        47.551779
-                  ]
-            },
-            {
-                  "name": "Apátsági Múzeum",
-                  "text": "Museum mit den religiösen und historischen Schätzen der Abtei Pannonhalma.",
-                  "category": "museum",
-                  "coords": [
-                        17.755897,
-                        47.549035
-                  ]
-            },
-            {
-                  "name": "Éld át a történelmet!",
-                  "text": "Interaktive historische Ausstellung über das lokale Erbe.",
-                  "category": "museum",
-                  "coords": [
-                        17.756198,
-                        47.548103
-                  ]
-            },
-            {
-                  "name": "Kiállítótér (időszaki kiállítás)",
-                  "text": "Kulturraum für wechselnde Kunst- und Geschichtsausstellungen.",
-                  "category": "museum",
-                  "coords": [
-                        17.760254,
-                        47.55316
-                  ]
-            },
-            {
                   "name": "Hefter Üveggaléria",
                   "text": "Moderne Kunstgalerie spezialisiert auf Glasskulpturen und Glaskunst.",
                   "category": "museum",
@@ -87453,42 +85439,6 @@ export const hungaryCities: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Illatmúzeum",
-                  "text": "Gyógynövényeknek és illatoknak szentelt múzeum az apátság területén.",
-                  "category": "museum",
-                  "coords": [
-                        17.767529,
-                        47.551779
-                  ]
-            },
-            {
-                  "name": "Apátsági Múzeum",
-                  "text": "A pannonhalmi apátság vallási és történelmi kincseit bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        17.755897,
-                        47.549035
-                  ]
-            },
-            {
-                  "name": "Éld át a történelmet!",
-                  "text": "Interaktív történelmi kiállítás a helyi örökségről.",
-                  "category": "museum",
-                  "coords": [
-                        17.756198,
-                        47.548103
-                  ]
-            },
-            {
-                  "name": "Kiállítótér (időszaki kiállítás)",
-                  "text": "Időszaki művészeti és történelmi kiállításoknak otthont adó tér.",
-                  "category": "museum",
-                  "coords": [
-                        17.760254,
-                        47.55316
-                  ]
-            },
             {
                   "name": "Hefter Üveggaléria",
                   "text": "Üvegszobrokra és üvegművészetre szakosodott modern galéria.",
@@ -87519,42 +85469,6 @@ export const hungaryCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Illatmúzeum",
-                  "text": "Muzeu dedicat ierburilor și mirosurilor în complexul abației.",
-                  "category": "museum",
-                  "coords": [
-                        17.767529,
-                        47.551779
-                  ]
-            },
-            {
-                  "name": "Apátsági Múzeum",
-                  "text": "Muzeu care prezintă comorile religioase și istorice ale abației.",
-                  "category": "museum",
-                  "coords": [
-                        17.755897,
-                        47.549035
-                  ]
-            },
-            {
-                  "name": "Éld át a történelmet!",
-                  "text": "Expoziție istorică interactivă despre moștenirea locală.",
-                  "category": "museum",
-                  "coords": [
-                        17.756198,
-                        47.548103
-                  ]
-            },
-            {
-                  "name": "Kiállítótér (időszaki kiállítás)",
-                  "text": "Spațiu cultural pentru expoziții temporare de artă și istorie.",
-                  "category": "museum",
-                  "coords": [
-                        17.760254,
-                        47.55316
-                  ]
-            },
-            {
                   "name": "Hefter Üveggaléria",
                   "text": "Galerie de artă modernă specializată în sculpturi și obiecte din sticlă.",
                   "category": "museum",
@@ -87583,42 +85497,6 @@ export const hungaryCities: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Fragrance museum",
-                  "text": "Museum dedicated to herbs and scents within the abbey complex.",
-                  "category": "museum",
-                  "coords": [
-                        17.767529,
-                        47.551779
-                  ]
-            },
-            {
-                  "name": "Apátsági Múzeum",
-                  "text": "Museum showcasing the religious and historical treasures of Pannonhalma.",
-                  "category": "museum",
-                  "coords": [
-                        17.755897,
-                        47.549035
-                  ]
-            },
-            {
-                  "name": "Éld át a történelmet!",
-                  "text": "Interactive historical exhibition providing insight into local heritage.",
-                  "category": "museum",
-                  "coords": [
-                        17.756198,
-                        47.548103
-                  ]
-            },
-            {
-                  "name": "Kiállítótér (időszaki kiállítás)",
-                  "text": "Cultural space used for various temporary art and history exhibitions.",
-                  "category": "museum",
-                  "coords": [
-                        17.760254,
-                        47.55316
-                  ]
-            },
             {
                   "name": "Hefter Glass Gallery & Studio",
                   "text": "Modern art gallery specializing in glass sculptures and glassmaking.",

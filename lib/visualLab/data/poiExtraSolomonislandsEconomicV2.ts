@@ -274,50 +274,10 @@ export const solomonislandsEconomicV2: POI[] = [
   },
   {
     id: "solomonislands-auki-market-economic-v2", "sights": {
-      "de": [
-            {
-                  "name": "Reba Cabe",
-                  "text": "Reba Cabe am Auki-Markt, ein Treffpunkt für Einheimische und Händler.",
-                  "category": "landmark",
-                  "coords": [
-                        160.705998,
-                        -8.750995
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Reba Cabe",
-                  "text": "Reba Cabe az auki piacon, a helyiek és kereskedők találkozóhelye.",
-                  "category": "landmark",
-                  "coords": [
-                        160.705998,
-                        -8.750995
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Reba Cabe",
-                  "text": "Reba Cabe la piața din Auki, un punct de întâlnire pentru localnici și comercianți.",
-                  "category": "landmark",
-                  "coords": [
-                        160.705998,
-                        -8.750995
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Reba Cabe",
-                  "text": "Reba Cabe at Auki Market, a meeting point for locals and traders.",
-                  "category": "landmark",
-                  "coords": [
-                        160.705998,
-                        -8.750995
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "SB",
     type: "town",

@@ -1059,15 +1059,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fuente de los Bastones",
-                  "text": "Ein Brunnen mit skulptierten Gehstöcken auf einem Platz nahe dem Museum.",
-                  "category": "historical",
-                  "coords": [
-                        -99.219313,
-                        19.528496
-                  ]
-            },
-            {
                   "name": "La Humanidad Hoy",
                   "text": "Eine zeitgenössische Skulptur, die den Zustand der Menschheit darstellt.",
                   "category": "historical",
@@ -1382,15 +1373,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -99.278329,
                         19.488823
-                  ]
-            },
-            {
-                  "name": "Fuente de los Bastones",
-                  "text": "Egy szökőkút faragott sétabotokkal a múzeum melletti téren.",
-                  "category": "historical",
-                  "coords": [
-                        -99.219313,
-                        19.528496
                   ]
             },
             {
@@ -1711,15 +1693,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fuente de los Bastones",
-                  "text": "O fântână cu bastoane sculptate, într-o piață lângă muzeu.",
-                  "category": "historical",
-                  "coords": [
-                        -99.219313,
-                        19.528496
-                  ]
-            },
-            {
                   "name": "La Humanidad Hoy",
                   "text": "O sculptură contemporană reprezentând starea umanității.",
                   "category": "historical",
@@ -2037,15 +2010,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fuente de los Bastones",
-                  "text": "A fountain with sculpted walking canes in a plaza near the museum.",
-                  "category": "historical",
-                  "coords": [
-                        -99.219313,
-                        19.528496
-                  ]
-            },
-            {
                   "name": "La Humanidad Hoy",
                   "text": "A contemporary sculpture representing the state of humanity.",
                   "category": "historical",
@@ -2355,24 +2319,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tenayuca II",
-                  "text": "Tenayuca II ist eine archäologische Stätte in Mexiko-Stadt, die für ihre Doppelpyramide bekannt ist.",
-                  "category": "historical",
-                  "coords": [
-                        -99.16923,
-                        19.534999
-                  ]
-            },
-            {
-                  "name": "Pirámide de Tenayuca",
-                  "text": "Die Pirámide de Tenayuca ist die Doppelpyramide der archäologischen Stätte Tenayuca in Mexiko-Stadt.",
-                  "category": "historical",
-                  "coords": [
-                        -99.168535,
-                        19.532097
-                  ]
-            },
-            {
                   "name": "Museo de Figuras de Cera Dilea Castillo Viuda de Neira",
                   "text": "Ein Wachsfigurenmuseum mit religiösen und historischen Figuren nahe der Basilika von Guadalupe.",
                   "category": "museum",
@@ -2526,33 +2472,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de la cultura y las artes José Emilio Pacheco",
-                  "text": "Ein nach dem Dichter José Emilio Pacheco benanntes Kultur- und Kunstzentrum mit Bibliothek und Ausstellungsräumen.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.195708,
-                        19.536442
-                  ]
-            },
-            {
-                  "name": "Teatro Algarabia",
-                  "text": "Ein kleines Theater mit farbenfroher Fassade, bekannt für experimentelle Stücke.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.194711,
-                        19.536847
-                  ]
-            },
-            {
-                  "name": "Teatro Eugenia Leon",
-                  "text": "Ein nach der Schauspielerin Eugenia Leon benanntes intimes Theater mit 200 Plätzen.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.19301,
-                        19.536555
-                  ]
-            },
-            {
                   "name": "Auditorio \"José María de los Reyes\"",
                   "text": "Ein nach dem mexikanischen Komponisten José María de los Reyes benanntes Auditorium für klassische Konzerte.",
                   "category": "cultural",
@@ -2577,15 +2496,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -99.139492,
                         19.512471
-                  ]
-            },
-            {
-                  "name": "Casa de Cultura Guillermo Padilla Díaz de León",
-                  "text": "Ein Kulturhaus, das dem Maler Guillermo Padilla gewidmet ist und Wandgemälde von ihm ausstellt.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.17379,
-                        19.550964
                   ]
             },
             {
@@ -2642,24 +2552,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -99.115712,
                         19.486983
-                  ]
-            },
-            {
-                  "name": "Tenayuca II",
-                  "text": "A Tenayuca II egy régészeti lelőhely Mexikóvárosban, amely híres ikerpiramisáról.",
-                  "category": "historical",
-                  "coords": [
-                        -99.16923,
-                        19.534999
-                  ]
-            },
-            {
-                  "name": "Pirámide de Tenayuca",
-                  "text": "A Pirámide de Tenayuca a tenayucai régészeti lelőhely ikerpiramisa Mexikóvárosban.",
-                  "category": "historical",
-                  "coords": [
-                        -99.168535,
-                        19.532097
                   ]
             },
             {
@@ -2816,33 +2708,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de la cultura y las artes José Emilio Pacheco",
-                  "text": "A José Emilio Pacheco költőről elnevezett kulturális és művészeti központ könyvtárral és kiállítótermekkel.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.195708,
-                        19.536442
-                  ]
-            },
-            {
-                  "name": "Teatro Algarabia",
-                  "text": "Egy kis színház színes homlokzattal, amely kísérleti darabokról ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.194711,
-                        19.536847
-                  ]
-            },
-            {
-                  "name": "Teatro Eugenia Leon",
-                  "text": "A Eugenia Leon színésznőről elnevezett meghitt színház 200 férőhellyel.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.19301,
-                        19.536555
-                  ]
-            },
-            {
                   "name": "Auditorio \"José María de los Reyes\"",
                   "text": "A José María de los Reyes mexikói zeneszerzőről elnevezett előadóterem klasszikus koncertek számára.",
                   "category": "cultural",
@@ -2867,15 +2732,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -99.139492,
                         19.512471
-                  ]
-            },
-            {
-                  "name": "Casa de Cultura Guillermo Padilla Díaz de León",
-                  "text": "Egy kultúrház, amely Guillermo Padilla festőnek állít emléket, és az általa készített falfestményeket mutat be.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.17379,
-                        19.550964
                   ]
             },
             {
@@ -2932,24 +2788,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -99.115712,
                         19.486983
-                  ]
-            },
-            {
-                  "name": "Tenayuca II",
-                  "text": "Tenayuca II este un sit arheologic din Mexico City, cunoscut pentru piramida sa dublă.",
-                  "category": "historical",
-                  "coords": [
-                        -99.16923,
-                        19.534999
-                  ]
-            },
-            {
-                  "name": "Pirámide de Tenayuca",
-                  "text": "Pirámide de Tenayuca este piramida dublă a sitului arheologic Tenayuca din Mexico City.",
-                  "category": "historical",
-                  "coords": [
-                        -99.168535,
-                        19.532097
                   ]
             },
             {
@@ -3106,33 +2944,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de la cultura y las artes José Emilio Pacheco",
-                  "text": "Un centru de cultură și arte numit după poetul José Emilio Pacheco, cu bibliotecă și săli de expoziție.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.195708,
-                        19.536442
-                  ]
-            },
-            {
-                  "name": "Teatro Algarabia",
-                  "text": "Un teatru mic cu fațada colorată, cunoscut pentru piese experimentale.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.194711,
-                        19.536847
-                  ]
-            },
-            {
-                  "name": "Teatro Eugenia Leon",
-                  "text": "Un teatru intim numit după actrița Eugenia Leon, cu 200 de locuri.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.19301,
-                        19.536555
-                  ]
-            },
-            {
                   "name": "Auditorio \"José María de los Reyes\"",
                   "text": "Un auditoriu numit după compozitorul mexican José María de los Reyes, pentru concerte clasice.",
                   "category": "cultural",
@@ -3157,15 +2968,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -99.139492,
                         19.512471
-                  ]
-            },
-            {
-                  "name": "Casa de Cultura Guillermo Padilla Díaz de León",
-                  "text": "O casă de cultură dedicată pictorului Guillermo Padilla, care expune picturile murale realizate de acesta.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.17379,
-                        19.550964
                   ]
             },
             {
@@ -3222,24 +3024,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -99.115712,
                         19.486983
-                  ]
-            },
-            {
-                  "name": "Tenayuca II",
-                  "text": "Tenayuca II is an archaeological site in Mexico City, known for its twin pyramid.",
-                  "category": "historical",
-                  "coords": [
-                        -99.16923,
-                        19.534999
-                  ]
-            },
-            {
-                  "name": "Pirámide de Tenayuca",
-                  "text": "Pirámide de Tenayuca is the twin pyramid of the Tenayuca archaeological site in Mexico City.",
-                  "category": "historical",
-                  "coords": [
-                        -99.168535,
-                        19.532097
                   ]
             },
             {
@@ -3396,33 +3180,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de la cultura y las artes José Emilio Pacheco",
-                  "text": "A culture and arts center named after poet José Emilio Pacheco, housing a library and exhibition halls.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.195708,
-                        19.536442
-                  ]
-            },
-            {
-                  "name": "Teatro Algarabia",
-                  "text": "A small theater with a vibrant facade, known for experimental plays.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.194711,
-                        19.536847
-                  ]
-            },
-            {
-                  "name": "Teatro Eugenia Leon",
-                  "text": "An intimate theater named after actress Eugenia Leon, with 200 seats.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.19301,
-                        19.536555
-                  ]
-            },
-            {
                   "name": "Auditorio \"José María de los Reyes\"",
                   "text": "An auditorium named after Mexican composer José María de los Reyes, used for classical concerts.",
                   "category": "cultural",
@@ -3447,15 +3204,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -99.139492,
                         19.512471
-                  ]
-            },
-            {
-                  "name": "Casa de Cultura Guillermo Padilla Díaz de León",
-                  "text": "A cultural house dedicated to painter Guillermo Padilla, exhibiting murals by him.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.17379,
-                        19.550964
                   ]
             },
             {
@@ -7251,30 +6999,12 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Avila Camacho",
-                  "text": "Ein großer Stadtpark im Zentrum von Guadalajara mit Seen und Spazierwegen.",
-                  "category": "recreational",
-                  "coords": [
-                        -103.373752,
-                        20.712155
-                  ]
-            },
-            {
                   "name": "Escultura La Maestra",
                   "text": "Eine Skulptur, die eine Lehrerin darstellt, in der Innenstadt von Guadalajara.",
                   "category": "historical",
                   "coords": [
                         -103.38472,
                         20.726813
-                  ]
-            },
-            {
-                  "name": "Monumento del Maíz",
-                  "text": "Ein Denkmal zu Ehren des Maises, ein Symbol der mexikanischen Kultur, in Guadalajara.",
-                  "category": "historical",
-                  "coords": [
-                        -103.383162,
-                        20.732803
                   ]
             },
             {
@@ -7442,30 +7172,12 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Avila Camacho",
-                  "text": "Nagy városi park Guadalajara központjában, tavakkal és sétányokkal.",
-                  "category": "recreational",
-                  "coords": [
-                        -103.373752,
-                        20.712155
-                  ]
-            },
-            {
                   "name": "Escultura La Maestra",
                   "text": "Tanítónőt ábrázoló szobor Guadalajara belvárosában.",
                   "category": "historical",
                   "coords": [
                         -103.38472,
                         20.726813
-                  ]
-            },
-            {
-                  "name": "Monumento del Maíz",
-                  "text": "A kukorica tiszteletére emelt emlékmű, a mexikói kultúra szimbóluma, Guadalajarában.",
-                  "category": "historical",
-                  "coords": [
-                        -103.383162,
-                        20.732803
                   ]
             },
             {
@@ -7633,30 +7345,12 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Avila Camacho",
-                  "text": "Un mare parc urban în centrul Guadalajarei, cu lacuri și alei.",
-                  "category": "recreational",
-                  "coords": [
-                        -103.373752,
-                        20.712155
-                  ]
-            },
-            {
                   "name": "Escultura La Maestra",
                   "text": "O sculptură care înfățișează o învățătoare în centrul orașului Guadalajara.",
                   "category": "historical",
                   "coords": [
                         -103.38472,
                         20.726813
-                  ]
-            },
-            {
-                  "name": "Monumento del Maíz",
-                  "text": "Un monument în onoarea porumbului, simbol al culturii mexicane, în Guadalajara.",
-                  "category": "historical",
-                  "coords": [
-                        -103.383162,
-                        20.732803
                   ]
             },
             {
@@ -7824,30 +7518,12 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Avila Camacho",
-                  "text": "A large city park in central Guadalajara with lakes and walking paths.",
-                  "category": "recreational",
-                  "coords": [
-                        -103.373752,
-                        20.712155
-                  ]
-            },
-            {
                   "name": "Escultura La Maestra",
                   "text": "A sculpture depicting a female teacher in downtown Guadalajara.",
                   "category": "historical",
                   "coords": [
                         -103.38472,
                         20.726813
-                  ]
-            },
-            {
-                  "name": "Monumento del Maíz",
-                  "text": "A monument honoring corn, a symbol of Mexican culture, in Guadalajara.",
-                  "category": "historical",
-                  "coords": [
-                        -103.383162,
-                        20.732803
                   ]
             },
             {
@@ -15882,15 +15558,6 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-torre-latinoamericana-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Casa de los Azulejos",
-                  "text": "Herrenhaus aus dem 18. Jahrhundert, bedeckt mit blauen Talavera-Fliesen, direkt neben dem Torre Latinoamericana.",
-                  "category": "museum",
-                  "coords": [
-                        -99.140302,
-                        19.434255
-                  ]
-            },
-            {
                   "name": "Monumento a Francisco I. Madero",
                   "text": "Ein Denkmal für Francisco I. Madero, einen Führer der mexikanischen Revolution.",
                   "category": "historical",
@@ -16010,15 +15677,6 @@ export const mexicoLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Casa de los Azulejos",
-                  "text": "18. századi kastély, kék talavera csempével borítva, közvetlenül a Torre Latinoamericana mellett.",
-                  "category": "museum",
-                  "coords": [
-                        -99.140302,
-                        19.434255
-                  ]
-            },
-            {
                   "name": "Monumento a Francisco I. Madero",
                   "text": "Egy emlékmű Francisco I. Maderónak, a mexikói forradalom egyik vezetőjének.",
                   "category": "historical",
@@ -16137,15 +15795,6 @@ export const mexicoLandmarksV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Casa de los Azulejos",
-                  "text": "Conac din secolul al XVIII-lea acoperit cu plăci de Talavera albastre, lângă Torre Latinoamericana.",
-                  "category": "museum",
-                  "coords": [
-                        -99.140302,
-                        19.434255
-                  ]
-            },
             {
                   "name": "Monumento a Francisco I. Madero",
                   "text": "Un monument dedicat lui Francisco I. Madero, un lider al revoluției mexicane.",
@@ -18348,15 +17997,6 @@ export const mexicoLandmarksV2: POI[] = [
     id: "mexico-santa-prisca-church-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Casa Borda",
-                  "text": "Ein Kulturzentrum in Taxco, untergebracht im historischen Casa Borda.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.605201,
-                        18.556834
-                  ]
-            },
-            {
                   "name": "Museo de arte virreinal",
                   "text": "Museum für viceregalische Kunst im Komplex der Santa-Prisca-Kirche in Taxco.",
                   "category": "museum",
@@ -18394,15 +18034,6 @@ export const mexicoLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Casa Borda",
-                  "text": "Egy kulturális központ Taxcóban, a történelmi Casa Borda épületében.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.605201,
-                        18.556834
-                  ]
-            },
             {
                   "name": "Museo de arte virreinal",
                   "text": "Viceregnális művészeti múzeum a Santa Prisca templom komplexumában, Taxcóban.",
@@ -18442,15 +18073,6 @@ export const mexicoLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Casa Borda",
-                  "text": "Un centru cultural din Taxco, găzduit în istorica Casă Borda.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.605201,
-                        18.556834
-                  ]
-            },
-            {
                   "name": "Museo de arte virreinal",
                   "text": "Muzeu de artă viceregală în complexul Bisericii Santa Prisca din Taxco.",
                   "category": "museum",
@@ -18488,15 +18110,6 @@ export const mexicoLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Casa Borda",
-                  "text": "An arts centre in Taxco housed in the historic Casa Borda.",
-                  "category": "cultural",
-                  "coords": [
-                        -99.605201,
-                        18.556834
-                  ]
-            },
             {
                   "name": "Museo de arte virreinal",
                   "text": "Viceregal art museum in the Santa Prisca Church complex in Taxco.",
@@ -19986,15 +19599,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Arte de Zapopan",
-                  "text": "Kunstmuseum in Zapopan mit zeitgenössischer und moderner Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        -103.389811,
-                        20.720329
-                  ]
-            },
-            {
                   "name": "JAPI Jalisco Paseo Interactivo",
                   "text": "Interaktives Museum in der Region Jalisco mit praktischen Ausstellungen.",
                   "category": "museum",
@@ -20019,15 +19623,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -103.387335,
                         20.674441
-                  ]
-            },
-            {
-                  "name": "Condición Suspendida",
-                  "text": "Denkmal in der Region Guadalajara mit dem Titel Condición Suspendida.",
-                  "category": "historical",
-                  "coords": [
-                        -103.387371,
-                        20.720036
                   ]
             },
             {
@@ -20058,30 +19653,12 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "San Pedro Apostol",
-                  "text": "Kirche, die dem Apostel Petrus geweiht ist, in der Region Guadalajara.",
-                  "category": "religious",
-                  "coords": [
-                        -103.390815,
-                        20.722015
-                  ]
-            },
-            {
                   "name": "Puente Matute Remus",
                   "text": "Puente Matute Remus ist eine markante Bogenbrücke in Guadalajara.",
                   "category": "landmark",
                   "coords": [
                         -103.393769,
                         20.664851
-                  ]
-            },
-            {
-                  "name": "Plaza de las Américas (Juan Pablo II)",
-                  "text": "Park in der Region Guadalajara, benannt nach Papst Johannes Paul II.",
-                  "category": "park",
-                  "coords": [
-                        -103.391049,
-                        20.721081
                   ]
             },
             {
@@ -20109,51 +19686,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -103.392987,
                         20.666261
-                  ]
-            },
-            {
-                  "name": "Basset hound",
-                  "text": "Ein Basset-Hound-Hunde-Denkmal im Bereich der Matute-Remus-Brücke in Mexiko.",
-                  "category": "historical",
-                  "coords": [
-                        -103.390857,
-                        20.695397
-                  ]
-            },
-            {
-                  "name": "Chihuahua",
-                  "text": "Ein Chihuahua-Hunde-Denkmal im Bereich der Matute-Remus-Brücke in Mexiko.",
-                  "category": "historical",
-                  "coords": [
-                        -103.389945,
-                        20.695941
-                  ]
-            },
-            {
-                  "name": "Paloma",
-                  "text": "Ein Tauben-Denkmal (Paloma) im Bereich der Matute-Remus-Brücke in Mexiko.",
-                  "category": "historical",
-                  "coords": [
-                        -103.388711,
-                        20.697743
-                  ]
-            },
-            {
-                  "name": "Conejo",
-                  "text": "Ein Kaninchen-Denkmal (Conejo) im Bereich der Matute-Remus-Brücke in Mexiko.",
-                  "category": "historical",
-                  "coords": [
-                        -103.383744,
-                        20.702292
-                  ]
-            },
-            {
-                  "name": "Barco",
-                  "text": "Ein Boots-Denkmal (Barco) im Bereich der Matute-Remus-Brücke in Mexiko.",
-                  "category": "historical",
-                  "coords": [
-                        -103.394882,
-                        20.694087
                   ]
             },
             {
@@ -20199,15 +19731,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -103.409467,
                         20.597888
-                  ]
-            },
-            {
-                  "name": "Monumento Al Escuadrón 201",
-                  "text": "Ein Denkmal für die 201. Staffel, eine mexikanische Jagdstaffel aus dem Zweiten Weltkrieg, im Bereich der Matute-Remus-Brücke in Mexiko.",
-                  "category": "historical",
-                  "coords": [
-                        -103.39,
-                        20.729231
                   ]
             },
             {
@@ -20312,15 +19835,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Arte de Zapopan",
-                  "text": "Művészeti múzeum Zapopanban, kortárs és modern művészetet bemutatva.",
-                  "category": "museum",
-                  "coords": [
-                        -103.389811,
-                        20.720329
-                  ]
-            },
-            {
                   "name": "JAPI Jalisco Paseo Interactivo",
                   "text": "Interaktív múzeum Jalisco térségében, gyakorlati kiállításokkal.",
                   "category": "museum",
@@ -20345,15 +19859,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -103.387335,
                         20.674441
-                  ]
-            },
-            {
-                  "name": "Condición Suspendida",
-                  "text": "Emlékmű a Guadalajara régióban Condición Suspendida címmel.",
-                  "category": "historical",
-                  "coords": [
-                        -103.387371,
-                        20.720036
                   ]
             },
             {
@@ -20384,30 +19889,12 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "San Pedro Apostol",
-                  "text": "Szent Péter apostolnak szentelt templom a Guadalajara régióban.",
-                  "category": "religious",
-                  "coords": [
-                        -103.390815,
-                        20.722015
-                  ]
-            },
-            {
                   "name": "Puente Matute Remus",
                   "text": "Puente Matute Remus egy jellegzetes ívhíd Guadalajara városában.",
                   "category": "landmark",
                   "coords": [
                         -103.393769,
                         20.664851
-                  ]
-            },
-            {
-                  "name": "Plaza de las Américas (Juan Pablo II)",
-                  "text": "Park a Guadalajara régióban, II. János Pál pápáról elnevezve.",
-                  "category": "park",
-                  "coords": [
-                        -103.391049,
-                        20.721081
                   ]
             },
             {
@@ -20435,51 +19922,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -103.392987,
                         20.666261
-                  ]
-            },
-            {
-                  "name": "Basset hound",
-                  "text": "Egy basset hound kutya szobra a mexikói Matute Remus híd nevezetességeinek területén.",
-                  "category": "historical",
-                  "coords": [
-                        -103.390857,
-                        20.695397
-                  ]
-            },
-            {
-                  "name": "Chihuahua",
-                  "text": "Egy csivava kutya szobra a mexikói Matute Remus híd nevezetességeinek területén.",
-                  "category": "historical",
-                  "coords": [
-                        -103.389945,
-                        20.695941
-                  ]
-            },
-            {
-                  "name": "Paloma",
-                  "text": "Egy galamb (paloma) szobra a mexikói Matute Remus híd nevezetességeinek területén.",
-                  "category": "historical",
-                  "coords": [
-                        -103.388711,
-                        20.697743
-                  ]
-            },
-            {
-                  "name": "Conejo",
-                  "text": "Egy nyúl (conejo) szobra a mexikói Matute Remus híd nevezetességeinek területén.",
-                  "category": "historical",
-                  "coords": [
-                        -103.383744,
-                        20.702292
-                  ]
-            },
-            {
-                  "name": "Barco",
-                  "text": "Egy hajó (barco) szobra a mexikói Matute Remus híd nevezetességeinek területén.",
-                  "category": "historical",
-                  "coords": [
-                        -103.394882,
-                        20.694087
                   ]
             },
             {
@@ -20525,15 +19967,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -103.409467,
                         20.597888
-                  ]
-            },
-            {
-                  "name": "Monumento Al Escuadrón 201",
-                  "text": "A 201. osztag, egy második világháborús mexikói vadászrepülő osztag emlékműve a mexikói Matute Remus híd nevezetességeinek területén.",
-                  "category": "historical",
-                  "coords": [
-                        -103.39,
-                        20.729231
                   ]
             },
             {
@@ -20638,15 +20071,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Arte de Zapopan",
-                  "text": "Muzeu de artă în Zapopan care prezintă artă contemporană și modernă.",
-                  "category": "museum",
-                  "coords": [
-                        -103.389811,
-                        20.720329
-                  ]
-            },
-            {
                   "name": "JAPI Jalisco Paseo Interactivo",
                   "text": "Muzeu interactiv în zona Jalisco cu exponate practice.",
                   "category": "museum",
@@ -20671,15 +20095,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -103.387335,
                         20.674441
-                  ]
-            },
-            {
-                  "name": "Condición Suspendida",
-                  "text": "Monument în regiunea Guadalajara intitulat Condición Suspendida.",
-                  "category": "historical",
-                  "coords": [
-                        -103.387371,
-                        20.720036
                   ]
             },
             {
@@ -20710,30 +20125,12 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "San Pedro Apostol",
-                  "text": "Biserică dedicată Sfântului Petru Apostol în regiunea Guadalajara.",
-                  "category": "religious",
-                  "coords": [
-                        -103.390815,
-                        20.722015
-                  ]
-            },
-            {
                   "name": "Puente Matute Remus",
                   "text": "Puente Matute Remus este un pod remarcabil în formă de arc în Guadalajara.",
                   "category": "landmark",
                   "coords": [
                         -103.393769,
                         20.664851
-                  ]
-            },
-            {
-                  "name": "Plaza de las Américas (Juan Pablo II)",
-                  "text": "Parcul în regiunea Guadalajara numit după Papa Ioan Paul al II-lea.",
-                  "category": "park",
-                  "coords": [
-                        -103.391049,
-                        20.721081
                   ]
             },
             {
@@ -20761,51 +20158,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -103.392987,
                         20.666261
-                  ]
-            },
-            {
-                  "name": "Basset hound",
-                  "text": "Un monument al unui câine basset hound în zona reperelor Podului Matute Remus din Mexic.",
-                  "category": "historical",
-                  "coords": [
-                        -103.390857,
-                        20.695397
-                  ]
-            },
-            {
-                  "name": "Chihuahua",
-                  "text": "Un monument al unui câine Chihuahua în zona reperelor Podului Matute Remus din Mexic.",
-                  "category": "historical",
-                  "coords": [
-                        -103.389945,
-                        20.695941
-                  ]
-            },
-            {
-                  "name": "Paloma",
-                  "text": "Un monument al unui porumbel (paloma) în zona reperelor Podului Matute Remus din Mexic.",
-                  "category": "historical",
-                  "coords": [
-                        -103.388711,
-                        20.697743
-                  ]
-            },
-            {
-                  "name": "Conejo",
-                  "text": "Un monument al unui iepure (conejo) în zona reperelor Podului Matute Remus din Mexic.",
-                  "category": "historical",
-                  "coords": [
-                        -103.383744,
-                        20.702292
-                  ]
-            },
-            {
-                  "name": "Barco",
-                  "text": "Un monument al unei bărci (barco) în zona reperelor Podului Matute Remus din Mexic.",
-                  "category": "historical",
-                  "coords": [
-                        -103.394882,
-                        20.694087
                   ]
             },
             {
@@ -20851,15 +20203,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -103.409467,
                         20.597888
-                  ]
-            },
-            {
-                  "name": "Monumento Al Escuadrón 201",
-                  "text": "Un monument pentru Escadronul 201, o escadrilă de vânătoare mexicană din al Doilea Război Mondial, în zona reperelor Podului Matute Remus din Mexic.",
-                  "category": "historical",
-                  "coords": [
-                        -103.39,
-                        20.729231
                   ]
             },
             {
@@ -20964,15 +20307,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Arte de Zapopan",
-                  "text": "Art museum in Zapopan showcasing contemporary and modern art.",
-                  "category": "museum",
-                  "coords": [
-                        -103.389811,
-                        20.720329
-                  ]
-            },
-            {
                   "name": "JAPI Jalisco Paseo Interactivo",
                   "text": "Interactive museum in the Jalisco area offering hands-on exhibits.",
                   "category": "museum",
@@ -20997,15 +20331,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -103.387335,
                         20.674441
-                  ]
-            },
-            {
-                  "name": "Condición Suspendida",
-                  "text": "Monument in the Guadalajara area titled Condición Suspendida.",
-                  "category": "historical",
-                  "coords": [
-                        -103.387371,
-                        20.720036
                   ]
             },
             {
@@ -21036,30 +20361,12 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "San Pedro Apostol",
-                  "text": "Church dedicated to Saint Peter the Apostle in the Guadalajara area.",
-                  "category": "religious",
-                  "coords": [
-                        -103.390815,
-                        20.722015
-                  ]
-            },
-            {
                   "name": "Puente Matute Remus",
                   "text": "Puente Matute Remus is a distinctive arch bridge in Guadalajara.",
                   "category": "landmark",
                   "coords": [
                         -103.393769,
                         20.664851
-                  ]
-            },
-            {
-                  "name": "Plaza de las Américas (Juan Pablo II)",
-                  "text": "Park in the Guadalajara area named after Pope John Paul II.",
-                  "category": "park",
-                  "coords": [
-                        -103.391049,
-                        20.721081
                   ]
             },
             {
@@ -21087,51 +20394,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -103.392987,
                         20.666261
-                  ]
-            },
-            {
-                  "name": "Basset hound",
-                  "text": "A monument of a basset hound dog in the Matute Remus Bridge landmarks area of Mexico.",
-                  "category": "historical",
-                  "coords": [
-                        -103.390857,
-                        20.695397
-                  ]
-            },
-            {
-                  "name": "Chihuahua",
-                  "text": "A monument of a Chihuahua dog in the Matute Remus Bridge landmarks area of Mexico.",
-                  "category": "historical",
-                  "coords": [
-                        -103.389945,
-                        20.695941
-                  ]
-            },
-            {
-                  "name": "Paloma",
-                  "text": "A monument of a dove (paloma) in the Matute Remus Bridge landmarks area of Mexico.",
-                  "category": "historical",
-                  "coords": [
-                        -103.388711,
-                        20.697743
-                  ]
-            },
-            {
-                  "name": "Conejo",
-                  "text": "A monument of a rabbit (conejo) in the Matute Remus Bridge landmarks area of Mexico.",
-                  "category": "historical",
-                  "coords": [
-                        -103.383744,
-                        20.702292
-                  ]
-            },
-            {
-                  "name": "Barco",
-                  "text": "A monument of a boat (barco) in the Matute Remus Bridge landmarks area of Mexico.",
-                  "category": "historical",
-                  "coords": [
-                        -103.394882,
-                        20.694087
                   ]
             },
             {
@@ -21177,15 +20439,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -103.409467,
                         20.597888
-                  ]
-            },
-            {
-                  "name": "Monumento Al Escuadrón 201",
-                  "text": "A monument to the 201st Squadron, a Mexican fighter squadron from World War II, in the Matute Remus Bridge landmarks area of Mexico.",
-                  "category": "historical",
-                  "coords": [
-                        -103.39,
-                        20.729231
                   ]
             },
             {
@@ -22110,15 +21363,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "zona arquelogica de Palma Sola",
-                  "text": "Die zona arquelogica de Palma Sola ist eine Ausgrabungsstätte mit Petroglyphen aus der vorspanischen Zeit.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.90125,
-                        16.886304
-                  ]
-            },
-            {
                   "name": "Plazoleta de la Quebrada",
                   "text": "Die Plazoleta de la Quebrada ist ein kleiner Platz mit Blick auf die Schlucht und einem Brunnen in der Mitte.",
                   "category": "landmark",
@@ -22155,30 +21399,12 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playa Tamarindos",
-                  "text": "Die Playa Tamarindos ist ein Sandstrand, gesäumt von Tamarindenbäumen, die Schatten spenden.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.894709,
-                        16.855614
-                  ]
-            },
-            {
                   "name": "Punta Diamante",
                   "text": "Punta Diamante ist eine felsige Landzunge, die an einen Diamanten erinnert und einen weiten Meerblick bietet.",
                   "category": "recreational",
                   "coords": [
                         -99.84516,
                         16.810534
-                  ]
-            },
-            {
-                  "name": "Playa Hornos",
-                  "text": "Die Playa Hornos ist ein Strand, benannt nach den historischen Kalköfen in der Nähe.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.890018,
-                        16.857321
                   ]
             },
             {
@@ -22308,24 +21534,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playa El Morro",
-                  "text": "Die Playa El Morro liegt am Fuß eines markanten Felsens, der als Wahrzeichen dient.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.873282,
-                        16.857933
-                  ]
-            },
-            {
-                  "name": "Playa Condesa",
-                  "text": "Die Playa Condesa ist ein eleganter Strandabschnitt mit exklusiven Clubs und ruhiger Atmosphäre.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.868859,
-                        16.856848
-                  ]
-            },
-            {
                   "name": "Playa Guitarrón",
                   "text": "Die Playa Guitarrón hat eine ungewöhnliche Form, die an eine große Gitarre erinnert.",
                   "category": "recreational",
@@ -22418,15 +21626,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "zona arquelogica de Palma Sola",
-                  "text": "A zona arquelogica de Palma Sola egy régészeti lelőhely, ahol spanyol előtti sziklarajzok találhatók.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.90125,
-                        16.886304
-                  ]
-            },
-            {
                   "name": "Plazoleta de la Quebrada",
                   "text": "A Plazoleta de la Quebrada egy kis tér, ahonnan a szurdokra nyílik kilátás, közepén szökőkúttal.",
                   "category": "landmark",
@@ -22463,30 +21662,12 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playa Tamarindos",
-                  "text": "A Playa Tamarindos egy homokos strand, tamarinduszfák szegélyezik, amelyek árnyékot adnak.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.894709,
-                        16.855614
-                  ]
-            },
-            {
                   "name": "Punta Diamante",
                   "text": "A Punta Diamante egy gyémánt alakú sziklás-fok, amely széles kilátást nyújt a tengerre.",
                   "category": "recreational",
                   "coords": [
                         -99.84516,
                         16.810534
-                  ]
-            },
-            {
-                  "name": "Playa Hornos",
-                  "text": "A Playa Hornos egy strand, amelyet a közelben található történelmi mészégetőkről neveztek el.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.890018,
-                        16.857321
                   ]
             },
             {
@@ -22616,24 +21797,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playa El Morro",
-                  "text": "A Playa El Morro egy feltűnő szikla lábánál fekszik, amely tájékozódási pontként szolgál.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.873282,
-                        16.857933
-                  ]
-            },
-            {
-                  "name": "Playa Condesa",
-                  "text": "A Playa Condesa elegáns partszakasz, exkluzív klubokkal és nyugodt légkörrel.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.868859,
-                        16.856848
-                  ]
-            },
-            {
                   "name": "Playa Guitarrón",
                   "text": "A Playa Guitarrón szokatlan alakja egy nagy gitárra emlékeztet.",
                   "category": "recreational",
@@ -22726,15 +21889,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "zona arquelogica de Palma Sola",
-                  "text": "Zona arquelogica de Palma Sola este un sit arheologic cu petroglife din perioada prehispanică.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.90125,
-                        16.886304
-                  ]
-            },
-            {
                   "name": "Plazoleta de la Quebrada",
                   "text": "Plazoleta de la Quebrada este o piațetă cu vedere spre defileu și o fântână în mijloc.",
                   "category": "landmark",
@@ -22771,30 +21925,12 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playa Tamarindos",
-                  "text": "Playa Tamarindos este o plajă cu nisip, mărginită de copaci de tamarind care oferă umbră.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.894709,
-                        16.855614
-                  ]
-            },
-            {
                   "name": "Punta Diamante",
                   "text": "Punta Diamante este un promontoriu stâncos în formă de diamant, cu vedere largă spre mare.",
                   "category": "recreational",
                   "coords": [
                         -99.84516,
                         16.810534
-                  ]
-            },
-            {
-                  "name": "Playa Hornos",
-                  "text": "Playa Hornos este o plajă numită după cuptoarele istorice de var din apropiere.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.890018,
-                        16.857321
                   ]
             },
             {
@@ -22924,24 +22060,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playa El Morro",
-                  "text": "Playa El Morro se află la poalele unei stânci proeminente care servește ca reper.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.873282,
-                        16.857933
-                  ]
-            },
-            {
-                  "name": "Playa Condesa",
-                  "text": "Playa Condesa este un sector de plajă elegant, cu cluburi exclusive și atmosferă liniștită.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.868859,
-                        16.856848
-                  ]
-            },
-            {
                   "name": "Playa Guitarrón",
                   "text": "Playa Guitarrón are o formă neobișnuită care amintește de o chitară mare.",
                   "category": "recreational",
@@ -23034,15 +22152,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "zona arquelogica de Palma Sola",
-                  "text": "The zona arquelogica de Palma Sola is an archaeological site with pre-Hispanic petroglyphs.",
-                  "category": "landmark",
-                  "coords": [
-                        -99.90125,
-                        16.886304
-                  ]
-            },
-            {
                   "name": "Plazoleta de la Quebrada",
                   "text": "Plazoleta de la Quebrada is a small square overlooking the ravine, with a fountain in the center.",
                   "category": "landmark",
@@ -23079,30 +22188,12 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playa Tamarindos",
-                  "text": "Playa Tamarindos is a sandy beach lined with tamarind trees that provide shade.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.894709,
-                        16.855614
-                  ]
-            },
-            {
                   "name": "Punta Diamante",
                   "text": "Punta Diamante is a rocky point shaped like a diamond, offering wide sea views.",
                   "category": "recreational",
                   "coords": [
                         -99.84516,
                         16.810534
-                  ]
-            },
-            {
-                  "name": "Playa Hornos",
-                  "text": "Playa Hornos is a beach named after the historic lime kilns nearby.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.890018,
-                        16.857321
                   ]
             },
             {
@@ -23229,24 +22320,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -99.879426,
                         16.859246
-                  ]
-            },
-            {
-                  "name": "Playa El Morro",
-                  "text": "Playa El Morro lies at the foot of a prominent rock that serves as a landmark.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.873282,
-                        16.857933
-                  ]
-            },
-            {
-                  "name": "Playa Condesa",
-                  "text": "Playa Condesa is an elegant stretch of beach with exclusive clubs and a calm atmosphere.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.868859,
-                        16.856848
                   ]
             },
             {
@@ -25386,15 +24459,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento a la Pulmonia",
-                  "text": "Das Monumento a la Pulmonia in Mazatlán ehrt die ikonischen offenen Taxis der Stadt.",
-                  "category": "historical",
-                  "coords": [
-                        -106.422567,
-                        23.218708
-                  ]
-            },
-            {
                   "name": "Monumento al Pescador",
                   "text": "Bronzestatue eines Fischers mit Netz am Malecón, nahe der Kathedrale von Mazatlan.",
                   "category": "historical",
@@ -25440,15 +24504,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento a Hidalgo",
-                  "text": "Das Monumento a Hidalgo in Mazatlán ehrt Miguel Hidalgo, den Vater der mexikanischen Unabhängigkeit.",
-                  "category": "historical",
-                  "coords": [
-                        -106.405327,
-                        23.228967
-                  ]
-            },
-            {
                   "name": "Monumento a Manuel \"Maquio\" Clouthier",
                   "text": "Das Monumento a Manuel \"Maquio\" Clouthier in Mazatlán erinnert an den mexikanischen Politiker Manuel Clouthier.",
                   "category": "historical",
@@ -25458,39 +24513,12 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento al hombre universal",
-                  "text": "Große Skulptur einer menschlichen Figur am Eingang zum Platz der Kathedrale von Mazatlan.",
-                  "category": "historical",
-                  "coords": [
-                        -106.430995,
-                        23.239189
-                  ]
-            },
-            {
                   "name": "Glorieta Don Cruz Lizárraga",
                   "text": "Kreisverkehr mit einem Denkmal für einen lokalen Musiker, nahe der Kathedrale von Mazatlan.",
                   "category": "historical",
                   "coords": [
                         -106.427853,
                         23.227826
-                  ]
-            },
-            {
-                  "name": "Monumento Centenario Cervecería del Pacífico",
-                  "text": "Das Monumento Centenario Cervecería del Pacífico in Mazatlán feiert das 100-jährige Bestehen der Brauerei.",
-                  "category": "historical",
-                  "coords": [
-                        -106.42471,
-                        23.222538
-                  ]
-            },
-            {
-                  "name": "Monumento al Venado",
-                  "text": "Bronzestatue eines Hirsches in einem Park neben der Kathedrale von Mazatlan.",
-                  "category": "historical",
-                  "coords": [
-                        -106.426606,
-                        23.230265
                   ]
             },
             {
@@ -25527,24 +24555,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -106.467749,
                         23.266131
-                  ]
-            },
-            {
-                  "name": "Letras de Mazatlán",
-                  "text": "Die Letras de Mazatlán sind eine große Buchstabenskulptur, die den Namen der Stadt bildet und ein beliebtes Fotomotiv ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -106.445219,
-                        23.238094
-                  ]
-            },
-            {
-                  "name": "Condominios Miramar (El Chapo)",
-                  "text": "Wohnkomplex, der mit Drogenboss El Chapo in Verbindung steht, mit Blick auf den Pazifik nahe der Kathedrale.",
-                  "category": "landmark",
-                  "coords": [
-                        -106.42767,
-                        23.226733
                   ]
             },
             {
@@ -25667,15 +24677,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento a la Pulmonia",
-                  "text": "A mazatláni Monumento a la Pulmonia a város ikonikus nyitott taxijai előtt tiszteleg.",
-                  "category": "historical",
-                  "coords": [
-                        -106.422567,
-                        23.218708
-                  ]
-            },
-            {
                   "name": "Monumento al Pescador",
                   "text": "Hálós halász bronzszobra a malecónon, a Mazatláni székesegyház közelében.",
                   "category": "historical",
@@ -25721,15 +24722,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento a Hidalgo",
-                  "text": "A mazatláni Monumento a Hidalgo Miguel Hidalgo, a mexikói függetlenség atyja előtt tiszteleg.",
-                  "category": "historical",
-                  "coords": [
-                        -106.405327,
-                        23.228967
-                  ]
-            },
-            {
                   "name": "Monumento a Manuel \"Maquio\" Clouthier",
                   "text": "A mazatláni Monumento a Manuel \"Maquio\" Clouthier emlékmű a mexikói politikus, Manuel Clouthier előtt tiszteleg.",
                   "category": "historical",
@@ -25739,39 +24731,12 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento al hombre universal",
-                  "text": "Emberi alak nagy szobra a Mazatláni székesegyház terének bejáratánál.",
-                  "category": "historical",
-                  "coords": [
-                        -106.430995,
-                        23.239189
-                  ]
-            },
-            {
                   "name": "Glorieta Don Cruz Lizárraga",
                   "text": "Körforgalom egy helyi zenész emlékművével, a Mazatláni székesegyház közelében.",
                   "category": "historical",
                   "coords": [
                         -106.427853,
                         23.227826
-                  ]
-            },
-            {
-                  "name": "Monumento Centenario Cervecería del Pacífico",
-                  "text": "A mazatláni Monumento Centenario Cervecería del Pacífico a sörfőzde 100. évfordulóját ünnepli.",
-                  "category": "historical",
-                  "coords": [
-                        -106.42471,
-                        23.222538
-                  ]
-            },
-            {
-                  "name": "Monumento al Venado",
-                  "text": "Szarvas bronzszobor a Mazatláni székesegyház melletti parkban.",
-                  "category": "historical",
-                  "coords": [
-                        -106.426606,
-                        23.230265
                   ]
             },
             {
@@ -25808,24 +24773,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -106.467749,
                         23.266131
-                  ]
-            },
-            {
-                  "name": "Letras de Mazatlán",
-                  "text": "A mazatláni Letras de Mazatlán egy nagy betűszobor, amely a város nevét alkotja, és népszerű fotótéma.",
-                  "category": "landmark",
-                  "coords": [
-                        -106.445219,
-                        23.238094
-                  ]
-            },
-            {
-                  "name": "Condominios Miramar (El Chapo)",
-                  "text": "Lakókomplexum, amely a drogbáró El Chapohoz köthető, a Csendes-óceánra néz a székesegyház közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -106.42767,
-                        23.226733
                   ]
             },
             {
@@ -25948,15 +24895,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento a la Pulmonia",
-                  "text": "Monumentul a la Pulmonia din Mazatlán onorează celebrele taxiuri deschise ale orașului.",
-                  "category": "historical",
-                  "coords": [
-                        -106.422567,
-                        23.218708
-                  ]
-            },
-            {
                   "name": "Monumento al Pescador",
                   "text": "Statuie de bronz a unui pescar cu plasă pe malecón, aproape de Catedrala Mazatlán.",
                   "category": "historical",
@@ -26002,15 +24940,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento a Hidalgo",
-                  "text": "Monumentul a Hidalgo din Mazatlán onorează pe Miguel Hidalgo, părintele independenței mexicane.",
-                  "category": "historical",
-                  "coords": [
-                        -106.405327,
-                        23.228967
-                  ]
-            },
-            {
                   "name": "Monumento a Manuel \"Maquio\" Clouthier",
                   "text": "Monumentul lui Manuel \"Maquio\" Clouthier din Mazatlán comemorează politicianul mexican Manuel Clouthier.",
                   "category": "historical",
@@ -26020,39 +24949,12 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento al hombre universal",
-                  "text": "Sculptură mare a unei figuri umane la intrarea în piața Catedralei Mazatlán.",
-                  "category": "historical",
-                  "coords": [
-                        -106.430995,
-                        23.239189
-                  ]
-            },
-            {
                   "name": "Glorieta Don Cruz Lizárraga",
                   "text": "Sens giratoriu cu un monument dedicat unui muzician local, lângă Catedrala Mazatlán.",
                   "category": "historical",
                   "coords": [
                         -106.427853,
                         23.227826
-                  ]
-            },
-            {
-                  "name": "Monumento Centenario Cervecería del Pacífico",
-                  "text": "Monumentul Centenario Cervecería del Pacífico din Mazatlán sărbătorește centenarul berăriei.",
-                  "category": "historical",
-                  "coords": [
-                        -106.42471,
-                        23.222538
-                  ]
-            },
-            {
-                  "name": "Monumento al Venado",
-                  "text": "Statuie de bronz a unui cerb într-un parc adiacent Catedralei Mazatlán.",
-                  "category": "historical",
-                  "coords": [
-                        -106.426606,
-                        23.230265
                   ]
             },
             {
@@ -26089,24 +24991,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -106.467749,
                         23.266131
-                  ]
-            },
-            {
-                  "name": "Letras de Mazatlán",
-                  "text": "Letras de Mazatlán este o sculptură mare de litere care formează numele orașului, un loc popular pentru fotografii.",
-                  "category": "landmark",
-                  "coords": [
-                        -106.445219,
-                        23.238094
-                  ]
-            },
-            {
-                  "name": "Condominios Miramar (El Chapo)",
-                  "text": "Complex rezidențial asociat cu baronul drogurilor El Chapo, cu vedere spre Pacific lângă catedrală.",
-                  "category": "landmark",
-                  "coords": [
-                        -106.42767,
-                        23.226733
                   ]
             },
             {
@@ -26229,15 +25113,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento a la Pulmonia",
-                  "text": "Monumento a la Pulmonia in Mazatlán honors the iconic open-air taxis of the city.",
-                  "category": "historical",
-                  "coords": [
-                        -106.422567,
-                        23.218708
-                  ]
-            },
-            {
                   "name": "Monumento al Pescador",
                   "text": "Bronze statue of a fisherman with a net on the malecón, close to Mazatlan Cathedral.",
                   "category": "historical",
@@ -26283,15 +25158,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento a Hidalgo",
-                  "text": "Monumento a Hidalgo in Mazatlán honors Miguel Hidalgo, father of Mexican independence.",
-                  "category": "historical",
-                  "coords": [
-                        -106.405327,
-                        23.228967
-                  ]
-            },
-            {
                   "name": "Monumento a Manuel \"Maquio\" Clouthier",
                   "text": "Monumento a Manuel \"Maquio\" Clouthier in Mazatlán commemorates the Mexican politician Manuel Clouthier.",
                   "category": "historical",
@@ -26301,39 +25167,12 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento al hombre universal",
-                  "text": "Large sculpture of a human figure at the entrance to Mazatlan Cathedral's square.",
-                  "category": "historical",
-                  "coords": [
-                        -106.430995,
-                        23.239189
-                  ]
-            },
-            {
                   "name": "Glorieta Don Cruz Lizárraga",
                   "text": "Traffic circle with a monument to a local musician, near Mazatlan Cathedral.",
                   "category": "historical",
                   "coords": [
                         -106.427853,
                         23.227826
-                  ]
-            },
-            {
-                  "name": "Monumento Centenario Cervecería del Pacífico",
-                  "text": "Monumento Centenario Cervecería del Pacífico in Mazatlán celebrates the brewery's centennial.",
-                  "category": "historical",
-                  "coords": [
-                        -106.42471,
-                        23.222538
-                  ]
-            },
-            {
-                  "name": "Monumento al Venado",
-                  "text": "Bronze deer statue in a park adjacent to Mazatlan Cathedral.",
-                  "category": "historical",
-                  "coords": [
-                        -106.426606,
-                        23.230265
                   ]
             },
             {
@@ -26370,24 +25209,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -106.467749,
                         23.266131
-                  ]
-            },
-            {
-                  "name": "Letras de Mazatlán",
-                  "text": "Letras de Mazatlán is a large letter sculpture spelling the city's name, a popular photo spot.",
-                  "category": "landmark",
-                  "coords": [
-                        -106.445219,
-                        23.238094
-                  ]
-            },
-            {
-                  "name": "Condominios Miramar (El Chapo)",
-                  "text": "Residential complex associated with drug lord El Chapo, overlooking the Pacific near the cathedral.",
-                  "category": "landmark",
-                  "coords": [
-                        -106.42767,
-                        23.226733
                   ]
             },
             {
@@ -36375,33 +35196,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ripley's Believe it or not",
-                  "text": "Ripley's Museum der Kuriositäten nahe der Kathedrale von Veracruz.",
-                  "category": "museum",
-                  "coords": [
-                        -96.122306,
-                        19.187878
-                  ]
-            },
-            {
-                  "name": "Casa de Agustín Lara",
-                  "text": "Museum im ehemaligen Wohnhaus des Komponisten Agustín Lara nahe der Kathedrale von Veracruz.",
-                  "category": "museum",
-                  "coords": [
-                        -96.116841,
-                        19.169307
-                  ]
-            },
-            {
-                  "name": "Replica gate with giant",
-                  "text": "Ein nachgebautes Tor mit einer überlebensgroßen Riesenstatue nahe der Kathedrale von Veracruz.",
-                  "category": "castle",
-                  "coords": [
-                        -96.133982,
-                        19.167454
-                  ]
-            },
-            {
                   "name": "Museo de la Ciudad",
                   "text": "Das Museo de la Ciudad in Veracruz zeigt die Geschichte und Kultur der Stadt.",
                   "category": "museum",
@@ -36492,15 +35286,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro Tamsa",
-                  "text": "Tamsa-Theater für kulturelle Veranstaltungen nahe der Kathedrale von Veracruz.",
-                  "category": "cultural",
-                  "coords": [
-                        -96.122965,
-                        19.150386
-                  ]
-            },
-            {
                   "name": "Teatro Francisco Javier Clavijero",
                   "text": "Das Teatro Francisco Javier Clavijero in Veracruz ist ein Theater, benannt nach dem mexikanischen Historiker.",
                   "category": "cultural",
@@ -36564,33 +35349,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Venta de tiquetes",
-                  "text": "Ticketverkaufsstelle für Bootstouren nahe der Kathedrale von Veracruz.",
-                  "category": "landmark",
-                  "coords": [
-                        -96.12357,
-                        19.18637
-                  ]
-            },
-            {
-                  "name": "Unidad deportiva Salvador campa",
-                  "text": "Salvador-Campa-Sportkomplex nahe der Kathedrale von Veracruz.",
-                  "category": "landmark",
-                  "coords": [
-                        -96.147583,
-                        19.184247
-                  ]
-            },
-            {
-                  "name": "Parque Nucleo Deportivo",
-                  "text": "Nucleo-Deportivo-Park mit Sportanlagen nahe der Kathedrale von Veracruz.",
-                  "category": "landmark",
-                  "coords": [
-                        -96.156318,
-                        19.183081
-                  ]
-            },
-            {
                   "name": "Venustiano Carranza",
                   "text": "Der Leuchtturm Venustiano Carranza in Veracruz ist nach dem ehemaligen Präsidenten benannt.",
                   "category": "landmark",
@@ -36644,33 +35402,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -96.137947,
                         19.2006
-                  ]
-            },
-            {
-                  "name": "Ripley's Believe it or not",
-                  "text": "Ripley Hihetetlen! Múzeum a Veracruz-székesegyház közelében.",
-                  "category": "museum",
-                  "coords": [
-                        -96.122306,
-                        19.187878
-                  ]
-            },
-            {
-                  "name": "Casa de Agustín Lara",
-                  "text": "Múzeum Agustín Lara zeneszerző egykori otthonában a Veracruz-székesegyház közelében.",
-                  "category": "museum",
-                  "coords": [
-                        -96.116841,
-                        19.169307
-                  ]
-            },
-            {
-                  "name": "Replica gate with giant",
-                  "text": "Egy replika kapu egy óriásszoborral a Veracruz-székesegyház közelében.",
-                  "category": "castle",
-                  "coords": [
-                        -96.133982,
-                        19.167454
                   ]
             },
             {
@@ -36764,15 +35495,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro Tamsa",
-                  "text": "Tamsa Színház kulturális eseményeknek a Veracruz-székesegyház közelében.",
-                  "category": "cultural",
-                  "coords": [
-                        -96.122965,
-                        19.150386
-                  ]
-            },
-            {
                   "name": "Teatro Francisco Javier Clavijero",
                   "text": "A veracruzi Teatro Francisco Javier Clavijero egy színház, amely a mexikói történészről kapta a nevét.",
                   "category": "cultural",
@@ -36836,33 +35558,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Venta de tiquetes",
-                  "text": "Jegyárusító hely csónaktúrákhoz a Veracruz-székesegyház közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -96.12357,
-                        19.18637
-                  ]
-            },
-            {
-                  "name": "Unidad deportiva Salvador campa",
-                  "text": "Salvador Campa Sportkomplexum a Veracruz-székesegyház közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -96.147583,
-                        19.184247
-                  ]
-            },
-            {
-                  "name": "Parque Nucleo Deportivo",
-                  "text": "Nucleo Deportivo Park sportlétesítményekkel a Veracruz-székesegyház közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -96.156318,
-                        19.183081
-                  ]
-            },
-            {
                   "name": "Venustiano Carranza",
                   "text": "A veracruzi Venustiano Carranza világítótorony a volt elnökről kapta a nevét.",
                   "category": "landmark",
@@ -36916,33 +35611,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -96.137947,
                         19.2006
-                  ]
-            },
-            {
-                  "name": "Ripley's Believe it or not",
-                  "text": "Muzeul Ripley de curiozități lângă Catedrala Veracruz.",
-                  "category": "museum",
-                  "coords": [
-                        -96.122306,
-                        19.187878
-                  ]
-            },
-            {
-                  "name": "Casa de Agustín Lara",
-                  "text": "Muzeu în fosta casă a compozitorului Agustín Lara lângă Catedrala Veracruz.",
-                  "category": "museum",
-                  "coords": [
-                        -96.116841,
-                        19.169307
-                  ]
-            },
-            {
-                  "name": "Replica gate with giant",
-                  "text": "O poartă replică cu o statuie gigantică lângă Catedrala Veracruz.",
-                  "category": "castle",
-                  "coords": [
-                        -96.133982,
-                        19.167454
                   ]
             },
             {
@@ -37036,15 +35704,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro Tamsa",
-                  "text": "Teatrul Tamsa pentru evenimente culturale lângă Catedrala Veracruz.",
-                  "category": "cultural",
-                  "coords": [
-                        -96.122965,
-                        19.150386
-                  ]
-            },
-            {
                   "name": "Teatro Francisco Javier Clavijero",
                   "text": "Teatro Francisco Javier Clavijero din Veracruz este un teatru numit după istoricul mexican.",
                   "category": "cultural",
@@ -37108,33 +35767,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Venta de tiquetes",
-                  "text": "Punct de vânzare a biletelor pentru tururi cu barca lângă Catedrala Veracruz.",
-                  "category": "landmark",
-                  "coords": [
-                        -96.12357,
-                        19.18637
-                  ]
-            },
-            {
-                  "name": "Unidad deportiva Salvador campa",
-                  "text": "Complexul sportiv Salvador Campa lângă Catedrala Veracruz.",
-                  "category": "landmark",
-                  "coords": [
-                        -96.147583,
-                        19.184247
-                  ]
-            },
-            {
-                  "name": "Parque Nucleo Deportivo",
-                  "text": "Parcul Nucleo Deportivo cu facilități sportive lângă Catedrala Veracruz.",
-                  "category": "landmark",
-                  "coords": [
-                        -96.156318,
-                        19.183081
-                  ]
-            },
-            {
                   "name": "Venustiano Carranza",
                   "text": "Farul Venustiano Carranza din Veracruz poartă numele fostului președinte.",
                   "category": "landmark",
@@ -37188,33 +35820,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -96.137947,
                         19.2006
-                  ]
-            },
-            {
-                  "name": "Ripley's Believe it or not",
-                  "text": "Ripley's museum of oddities near Veracruz Cathedral.",
-                  "category": "museum",
-                  "coords": [
-                        -96.122306,
-                        19.187878
-                  ]
-            },
-            {
-                  "name": "Casa de Agustín Lara",
-                  "text": "Museum in the former home of composer Agustín Lara near Veracruz Cathedral.",
-                  "category": "museum",
-                  "coords": [
-                        -96.116841,
-                        19.169307
-                  ]
-            },
-            {
-                  "name": "Replica gate with giant",
-                  "text": "A replica gate flanked by a giant statue near Veracruz Cathedral.",
-                  "category": "castle",
-                  "coords": [
-                        -96.133982,
-                        19.167454
                   ]
             },
             {
@@ -37308,15 +35913,6 @@ export const mexicoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro Tamsa",
-                  "text": "Tamsa theater for cultural events near Veracruz Cathedral.",
-                  "category": "cultural",
-                  "coords": [
-                        -96.122965,
-                        19.150386
-                  ]
-            },
-            {
                   "name": "Teatro Francisco Javier Clavijero",
                   "text": "Teatro Francisco Javier Clavijero in Veracruz is a theatre named after the Mexican historian.",
                   "category": "cultural",
@@ -37377,33 +35973,6 @@ export const mexicoLandmarksV2: POI[] = [
                   "coords": [
                         -96.120405,
                         19.203799
-                  ]
-            },
-            {
-                  "name": "Venta de tiquetes",
-                  "text": "Ticket booth for boat tours near Veracruz Cathedral.",
-                  "category": "landmark",
-                  "coords": [
-                        -96.12357,
-                        19.18637
-                  ]
-            },
-            {
-                  "name": "Unidad deportiva Salvador campa",
-                  "text": "Salvador Campa sports complex near Veracruz Cathedral.",
-                  "category": "landmark",
-                  "coords": [
-                        -96.147583,
-                        19.184247
-                  ]
-            },
-            {
-                  "name": "Parque Nucleo Deportivo",
-                  "text": "Nucleo Deportivo park with sports facilities near Veracruz Cathedral.",
-                  "category": "landmark",
-                  "coords": [
-                        -96.156318,
-                        19.183081
                   ]
             },
             {

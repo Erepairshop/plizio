@@ -6792,33 +6792,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Weras Ganga Park",
-                  "text": "Diese Parkanlage am Ufer des Weras Ganga in Bellanwila bietet Holzstege und Radwege.",
-                  "category": "park",
-                  "coords": [
-                        79.894072,
-                        6.841573
-                  ]
-            },
-            {
-                  "name": "National Zoological Gardens",
-                  "text": "Der Zoo von Dehiwala ist einer der ältesten Asiens und beherbergt eine begehbare Voliere und einen Schmetterlingsgarten.",
-                  "category": "recreational",
-                  "coords": [
-                        79.874233,
-                        6.857108
-                  ]
-            },
-            {
-                  "name": "National Puppet Museum",
-                  "text": "Das Museum zeigt die traditionelle srilankische Puppenkunst (Rookada) mit lebensgroßen Figuren.",
-                  "category": "museum",
-                  "coords": [
-                        79.866485,
-                        6.861408
-                  ]
-            },
-            {
                   "name": "Chitrasena Art Gallery",
                   "text": "Diese Galerie ist dem Erbe von Chitrasena gewidmet, dem Pionier des modernen Tanzes in Sri Lanka.",
                   "category": "museum",
@@ -6852,15 +6825,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
                   "coords": [
                         79.863057,
                         6.906285
-                  ]
-            },
-            {
-                  "name": "Sri Lanka Air Force Museum",
-                  "text": "Am Flughafen Ratmalana gelegen, zeigt dieses Museum historische Flugzeuge der srilankischen Luftwaffe.",
-                  "category": "museum",
-                  "coords": [
-                        79.891706,
-                        6.824553
                   ]
             },
             {
@@ -7109,33 +7073,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Weras Ganga Park",
-                  "text": "A Bellanwilában, a Weras Ganga folyó partján fekvő park fapallókkal és kerékpárutakkal várja a látogatókat.",
-                  "category": "park",
-                  "coords": [
-                        79.894072,
-                        6.841573
-                  ]
-            },
-            {
-                  "name": "National Zoological Gardens",
-                  "text": "A Dehiwala Állatkert Ázsia egyik legrégebbi állatkertje, ahol átjárható madárház és lepkeház is található.",
-                  "category": "recreational",
-                  "coords": [
-                        79.874233,
-                        6.857108
-                  ]
-            },
-            {
-                  "name": "National Puppet Museum",
-                  "text": "A múzeum a hagyományos srí lankai bábjátékot (Rookada) mutatja be élethű méretű figurákkal.",
-                  "category": "museum",
-                  "coords": [
-                        79.866485,
-                        6.861408
-                  ]
-            },
-            {
                   "name": "Chitrasena Art Gallery",
                   "text": "A galéria Chitrasena, a modern srí lankai táncművészet úttörőjének örökségét őrzi.",
                   "category": "museum",
@@ -7169,15 +7106,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
                   "coords": [
                         79.863057,
                         6.906285
-                  ]
-            },
-            {
-                  "name": "Sri Lanka Air Force Museum",
-                  "text": "A Ratmalana repülőtéren található múzeum a Srí Lankai Légierő történelmi repülőgépeit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        79.891706,
-                        6.824553
                   ]
             },
             {
@@ -7426,33 +7354,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Weras Ganga Park",
-                  "text": "Acest parc de pe malul râului Weras Ganga din Bellanwila oferă poduri de lemn și piste pentru biciclete.",
-                  "category": "park",
-                  "coords": [
-                        79.894072,
-                        6.841573
-                  ]
-            },
-            {
-                  "name": "National Zoological Gardens",
-                  "text": "Grădina Zoologică Dehiwala este una dintre cele mai vechi din Asia și găzduiește o aviară și o grădină de fluturi.",
-                  "category": "recreational",
-                  "coords": [
-                        79.874233,
-                        6.857108
-                  ]
-            },
-            {
-                  "name": "National Puppet Museum",
-                  "text": "Muzeul prezintă arta tradițională a marionetelor din Sri Lanka (Rookada) cu figuri în mărime naturală.",
-                  "category": "museum",
-                  "coords": [
-                        79.866485,
-                        6.861408
-                  ]
-            },
-            {
                   "name": "Chitrasena Art Gallery",
                   "text": "Această galerie este dedicată moștenirii lui Chitrasena, pionierul dansului modern din Sri Lanka.",
                   "category": "museum",
@@ -7486,15 +7387,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
                   "coords": [
                         79.863057,
                         6.906285
-                  ]
-            },
-            {
-                  "name": "Sri Lanka Air Force Museum",
-                  "text": "Situat la aeroportul Ratmalana, acest muzeu expune aeronave istorice ale Forțelor Aeriene din Sri Lanka.",
-                  "category": "museum",
-                  "coords": [
-                        79.891706,
-                        6.824553
                   ]
             },
             {
@@ -7743,33 +7635,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Weras Ganga Park",
-                  "text": "This park on the banks of the Weras Ganga in Bellanwila features wooden boardwalks and cycling tracks.",
-                  "category": "park",
-                  "coords": [
-                        79.894072,
-                        6.841573
-                  ]
-            },
-            {
-                  "name": "National Zoological Gardens",
-                  "text": "Also known as Dehiwala Zoo, this is one of the oldest in Asia and features a walk-through aviary and butterfly garden.",
-                  "category": "recreational",
-                  "coords": [
-                        79.874233,
-                        6.857108
-                  ]
-            },
-            {
-                  "name": "National Puppet Museum",
-                  "text": "The museum showcases traditional Sri Lankan puppetry known as Rookada with life-sized figures.",
-                  "category": "museum",
-                  "coords": [
-                        79.866485,
-                        6.861408
-                  ]
-            },
-            {
                   "name": "Chitrasena Art Gallery",
                   "text": "This gallery is dedicated to the legacy of Chitrasena, the pioneer of modern dance in Sri Lanka.",
                   "category": "museum",
@@ -7803,15 +7668,6 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
                   "coords": [
                         79.863057,
                         6.906285
-                  ]
-            },
-            {
-                  "name": "Sri Lanka Air Force Museum",
-                  "text": "Located at Ratmalana Airport, this museum displays historical aircraft used by the Sri Lanka Air Force.",
-                  "category": "museum",
-                  "coords": [
-                        79.891706,
-                        6.824553
                   ]
             },
             {

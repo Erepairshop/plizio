@@ -2721,15 +2721,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
     id: "sierra-de-guadalupe-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Zona Arqueológica Santa Cecilia Acatitlan",
-                  "text": "Die Zona Arqueológica Santa Cecilia Acatitlan ist eine archäologische Stätte im Gebiet der Sierra de Guadalupe mit einer Pyramide.",
-                  "category": "historical",
-                  "coords": [
-                        -99.173438,
-                        19.552584
-                  ]
-            },
-            {
                   "name": "Museo Jurásica",
                   "text": "Dinosauriermuseum Museo Jurásica in De Guadalupe.",
                   "category": "museum",
@@ -3046,15 +3037,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Zona Arqueológica Santa Cecilia Acatitlan",
-                  "text": "A Santa Cecilia Acatitlan régészeti lelőhely a Sierra de Guadalupe területén, egy piramissal.",
-                  "category": "historical",
-                  "coords": [
-                        -99.173438,
-                        19.552584
-                  ]
-            },
             {
                   "name": "Museo Jurásica",
                   "text": "Jurásica Múzeum (dinoszaurusz-múzeum) De Guadalupeban.",
@@ -3373,15 +3355,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Zona Arqueológica Santa Cecilia Acatitlan",
-                  "text": "Zona Arqueológica Santa Cecilia Acatitlan este un sit arheologic în zona Sierra de Guadalupe, cu o piramidă.",
-                  "category": "historical",
-                  "coords": [
-                        -99.173438,
-                        19.552584
-                  ]
-            },
-            {
                   "name": "Museo Jurásica",
                   "text": "Muzeul Jurassic (muzeul dinozaurilor) în De Guadalupe.",
                   "category": "museum",
@@ -3698,15 +3671,6 @@ export const poiExtraMexicoReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Zona Arqueológica Santa Cecilia Acatitlan",
-                  "text": "The Zona Arqueológica Santa Cecilia Acatitlan is an archaeological site in the Sierra de Guadalupe area with a pyramid.",
-                  "category": "historical",
-                  "coords": [
-                        -99.173438,
-                        19.552584
-                  ]
-            },
             {
                   "name": "Museo Jurásica",
                   "text": "Jurassic museum (dinosaur museum) in De Guadalupe.",

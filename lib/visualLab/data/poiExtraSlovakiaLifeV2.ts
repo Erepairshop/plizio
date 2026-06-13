@@ -6,33 +6,6 @@ export const slovakiaLifeV2: POI[] = [
     id: "slovakia-low-tatras-national-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Jaskyňa mŕtvych netopierov",
-                  "text": "Eine bedeutende Höhle in der Niederen Tatra, bekannt für die Funde zahlreicher Fledermausskelette.",
-                  "category": "landmark",
-                  "coords": [
-                        19.639081,
-                        48.925156
-                  ]
-            },
-            {
-                  "name": "Krúpova hoľa",
-                  "text": "Ein Berg im Hauptkamm der Niederen Tatra in der Slowakei.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630716,
-                        48.93904
-                  ]
-            },
-            {
-                  "name": "Štiavnica",
-                  "text": "Ein markanter Gipfel in der Niederen Tatra, der nahe dem Ďumbier liegt.",
-                  "category": "landmark",
-                  "coords": [
-                        19.653826,
-                        48.936639
-                  ]
-            },
-            {
                   "name": "Besná",
                   "text": "Ein Berggipfel im Nationalpark Niedere Tatra in der Slowakei.",
                   "category": "landmark",
@@ -79,33 +52,6 @@ export const slovakiaLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Jaskyňa mŕtvych netopierov",
-                  "text": "Jelentős barlang az Alacsony-Tátrában, amely számos denevércsontváz-leletéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        19.639081,
-                        48.925156
-                  ]
-            },
-            {
-                  "name": "Krúpova hoľa",
-                  "text": "Hegy az Alacsony-Tátra főgerincén Szlovákiában.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630716,
-                        48.93904
-                  ]
-            },
-            {
-                  "name": "Štiavnica",
-                  "text": "Jellegzetes csúcs az Alacsony-Tátrában, a Gyömbér (Ďumbier) közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        19.653826,
-                        48.936639
-                  ]
-            },
             {
                   "name": "Besná",
                   "text": "Hegycsúcs az Alacsony-Tátra Nemzeti Parkban, Szlovákiában.",
@@ -154,33 +100,6 @@ export const slovakiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Jaskyňa mŕtvych netopierov",
-                  "text": "O peșteră importantă în Tatra Joasă, cunoscută pentru descoperirile a numeroase schelete de lilieci.",
-                  "category": "landmark",
-                  "coords": [
-                        19.639081,
-                        48.925156
-                  ]
-            },
-            {
-                  "name": "Krúpova hoľa",
-                  "text": "Un munte în creasta principală a munților Tatra Joasă din Slovacia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630716,
-                        48.93904
-                  ]
-            },
-            {
-                  "name": "Štiavnica",
-                  "text": "Un vârf proeminent în Tatra Joasă, situat în apropiere de Ďumbier.",
-                  "category": "landmark",
-                  "coords": [
-                        19.653826,
-                        48.936639
-                  ]
-            },
-            {
                   "name": "Besná",
                   "text": "Un vârf montan în Parcul Național Tatra Joasă din Slovacia.",
                   "category": "landmark",
@@ -227,33 +146,6 @@ export const slovakiaLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Jaskyňa mŕtvych netopierov",
-                  "text": "A significant cave in the Low Tatras known for findings of numerous bat skeletons.",
-                  "category": "landmark",
-                  "coords": [
-                        19.639081,
-                        48.925156
-                  ]
-            },
-            {
-                  "name": "Krúpova hoľa",
-                  "text": "A mountain in the main ridge of the Low Tatras in Slovakia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630716,
-                        48.93904
-                  ]
-            },
-            {
-                  "name": "Štiavnica",
-                  "text": "A prominent peak in the Low Tatras situated near Ďumbier.",
-                  "category": "landmark",
-                  "coords": [
-                        19.653826,
-                        48.936639
-                  ]
-            },
             {
                   "name": "Besná",
                   "text": "A mountain peak in the Low Tatras National Park in Slovakia.",
@@ -584,15 +476,6 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
                   ]
             },
             {
-                  "name": "Baraniarky",
-                  "text": "Baraniarky ist ein felsiger Gipfel im Gebirge Malá Fatra, beliebt bei Wanderern.",
-                  "category": "landmark",
-                  "coords": [
-                        19.011151,
-                        49.223243
-                  ]
-            },
-            {
                   "name": "Žitné",
                   "text": "Die Žitné ist eine grasbewachsene Almwiese auf dem Kamm der Malá Fatra.",
                   "category": "landmark",
@@ -655,15 +538,6 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
                   "coords": [
                         19.016589,
                         49.209509
-                  ]
-            },
-            {
-                  "name": "Baraniarky",
-                  "text": "A Baraniarky egy sziklás csúcs a Kis-Fátra hegységben, a túrázók körében népszerű.",
-                  "category": "landmark",
-                  "coords": [
-                        19.011151,
-                        49.223243
                   ]
             },
             {
@@ -732,15 +606,6 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
                   ]
             },
             {
-                  "name": "Baraniarky",
-                  "text": "Baraniarky este un vârf stâncos în masivul Malá Fatra, popular printre drumeți.",
-                  "category": "landmark",
-                  "coords": [
-                        19.011151,
-                        49.223243
-                  ]
-            },
-            {
                   "name": "Žitné",
                   "text": "Žitné este o poiană alpină ierboasă pe creasta Masivului Mala Fatra.",
                   "category": "landmark",
@@ -803,15 +668,6 @@ imageHint: "Wooden bridges in Slovak Paradise gorge",
                   "coords": [
                         19.016589,
                         49.209509
-                  ]
-            },
-            {
-                  "name": "Baraniarky",
-                  "text": "Baraniarky is a rocky peak in the Malá Fatra range, popular with hikers.",
-                  "category": "landmark",
-                  "coords": [
-                        19.011151,
-                        49.223243
                   ]
             },
             {
@@ -891,60 +747,6 @@ imageHint: "Malá Fatra mountain ridge",
     id: "slovakia-muranska-planina-national-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Muráň",
-                  "text": "Ruinen einer hochgelegenen mittelalterlichen Burg im Nationalpark Muránska planina.",
-                  "category": "castle",
-                  "coords": [
-                        20.058571,
-                        48.758657
-                  ]
-            },
-            {
-                  "name": "Rodinný park OBROVISKO",
-                  "text": "Ein Familienpark mit Tiergehegen und Freizeitaktivitäten in der Natur.",
-                  "category": "recreational",
-                  "coords": [
-                        20.072357,
-                        48.75463
-                  ]
-            },
-            {
-                  "name": "Sokoliarstvo Lukáš",
-                  "text": "Eine Falknerei, die Vorführungen mit Greifvögeln im Nationalpark anbietet.",
-                  "category": "recreational",
-                  "coords": [
-                        20.071259,
-                        48.756163
-                  ]
-            },
-            {
-                  "name": "Múzeum Muráň",
-                  "text": "Ein lokales Museum, das sich mit der Geschichte und Kultur der Gemeinde Muráň befasst.",
-                  "category": "museum",
-                  "coords": [
-                        20.047603,
-                        48.739832
-                  ]
-            },
-            {
-                  "name": "Wesselényiho jaskyňa",
-                  "text": "Der Eingang zu einer Höhle, die nach der ungarischen Familie Wesselényi benannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        20.064219,
-                        48.764006
-                  ]
-            },
-            {
-                  "name": "Veľký Cigán",
-                  "text": "Ein markanter Berggipfel im Gebirgszug der Muránska planina.",
-                  "category": "landmark",
-                  "coords": [
-                        20.023388,
-                        48.786429
-                  ]
-            },
-            {
                   "name": "Pavelková",
                   "text": "Ein Berggipfel im Slowakischen Erzgebirge innerhalb des Nationalparks.",
                   "category": "landmark",
@@ -955,60 +757,6 @@ imageHint: "Malá Fatra mountain ridge",
             }
       ],
       "hu": [
-            {
-                  "name": "Murányvár",
-                  "text": "Egy magasan fekvő középkori vár romjai a Murányi-fennsík Nemzeti Parkban.",
-                  "category": "castle",
-                  "coords": [
-                        20.058571,
-                        48.758657
-                  ]
-            },
-            {
-                  "name": "Rodinný park OBROVISKO",
-                  "text": "Családi park állatkifutókkal és szabadidős tevékenységekkel a természetben.",
-                  "category": "recreational",
-                  "coords": [
-                        20.072357,
-                        48.75463
-                  ]
-            },
-            {
-                  "name": "Sokoliarstvo Lukáš",
-                  "text": "Ragadozómadár-bemutatókat kínáló solymászat a nemzeti parkban.",
-                  "category": "recreational",
-                  "coords": [
-                        20.071259,
-                        48.756163
-                  ]
-            },
-            {
-                  "name": "Múzeum Muráň",
-                  "text": "Helyi múzeum, amely Murány község történelmével és kultúrájával foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        20.047603,
-                        48.739832
-                  ]
-            },
-            {
-                  "name": "Wesselényi-barlang",
-                  "text": "A Wesselényi családról elnevezett barlang bejárata.",
-                  "category": "landmark",
-                  "coords": [
-                        20.064219,
-                        48.764006
-                  ]
-            },
-            {
-                  "name": "Veľký Cigán",
-                  "text": "Jellegzetes hegycsúcs a Murányi-fennsík hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        20.023388,
-                        48.786429
-                  ]
-            },
             {
                   "name": "Pavelková",
                   "text": "Hegycsúcs a Szlovák-érchegységben, a nemzeti park területén.",
@@ -1021,60 +769,6 @@ imageHint: "Malá Fatra mountain ridge",
       ],
       "ro": [
             {
-                  "name": "Muráň",
-                  "text": "Ruinele unui castel medieval situat la mare altitudine în Parcul Național Muránska planina.",
-                  "category": "castle",
-                  "coords": [
-                        20.058571,
-                        48.758657
-                  ]
-            },
-            {
-                  "name": "Rodinný park OBROVISKO",
-                  "text": "Un parc de familie cu țarcuri de animale și activități recreative în natură.",
-                  "category": "recreational",
-                  "coords": [
-                        20.072357,
-                        48.75463
-                  ]
-            },
-            {
-                  "name": "Sokoliarstvo Lukáš",
-                  "text": "Un centru de șoimărit care oferă demonstrații cu păsări de pradă în parcul național.",
-                  "category": "recreational",
-                  "coords": [
-                        20.071259,
-                        48.756163
-                  ]
-            },
-            {
-                  "name": "Múzeum Muráň",
-                  "text": "Un muzeu local dedicat istoriei și culturii comunei Muráň.",
-                  "category": "museum",
-                  "coords": [
-                        20.047603,
-                        48.739832
-                  ]
-            },
-            {
-                  "name": "Wesselényiho jaskyňa",
-                  "text": "Intrarea într-o peșteră numită după familia Wesselényi.",
-                  "category": "landmark",
-                  "coords": [
-                        20.064219,
-                        48.764006
-                  ]
-            },
-            {
-                  "name": "Veľký Cigán",
-                  "text": "Un vârf muntos proeminent în masivul Muránska planina.",
-                  "category": "landmark",
-                  "coords": [
-                        20.023388,
-                        48.786429
-                  ]
-            },
-            {
                   "name": "Pavelková",
                   "text": "Un vârf muntos în Munții Metaliferi Slovaci, în cadrul parcului național.",
                   "category": "landmark",
@@ -1085,60 +779,6 @@ imageHint: "Malá Fatra mountain ridge",
             }
       ],
       "en": [
-            {
-                  "name": "Muráň",
-                  "text": "Ruins of a high-altitude medieval castle in the Muránska planina National Park.",
-                  "category": "castle",
-                  "coords": [
-                        20.058571,
-                        48.758657
-                  ]
-            },
-            {
-                  "name": "Rodinný park OBROVISKO",
-                  "text": "A family park featuring animal enclosures and recreational activities in nature.",
-                  "category": "recreational",
-                  "coords": [
-                        20.072357,
-                        48.75463
-                  ]
-            },
-            {
-                  "name": "Sokoliarstvo Lukáš",
-                  "text": "A falconry center offering demonstrations with birds of prey in the national park.",
-                  "category": "recreational",
-                  "coords": [
-                        20.071259,
-                        48.756163
-                  ]
-            },
-            {
-                  "name": "Múzeum Muráň",
-                  "text": "A local museum dedicated to the history and culture of the Muráň municipality.",
-                  "category": "museum",
-                  "coords": [
-                        20.047603,
-                        48.739832
-                  ]
-            },
-            {
-                  "name": "Wesselényi's cave",
-                  "text": "The entrance to a cave named after the Wesselényi family.",
-                  "category": "landmark",
-                  "coords": [
-                        20.064219,
-                        48.764006
-                  ]
-            },
-            {
-                  "name": "Veľký Cigán",
-                  "text": "A prominent mountain peak in the Muránska planina mountain range.",
-                  "category": "landmark",
-                  "coords": [
-                        20.023388,
-                        48.786429
-                  ]
-            },
             {
                   "name": "Pavelková",
                   "text": "A mountain peak in the Slovak Ore Mountains within the national park.",
@@ -1214,24 +854,6 @@ imageHint: "Muránska planina karst plateau",
                         22.369453,
                         49.09023
                   ]
-            },
-            {
-                  "name": "Stolová",
-                  "text": "Ein Berggipfel im Bukovské-vrchy-Gebirge innerhalb des Nationalparks.",
-                  "category": "landmark",
-                  "coords": [
-                        22.398599,
-                        49.045562
-                  ]
-            },
-            {
-                  "name": "Veľký Bukovec",
-                  "text": "Veľký Bukovec ist mit 1.061 Metern der höchste Gipfel des Bukovské-vrchy-Gebirges im Nationalpark Poloniny.",
-                  "category": "landmark",
-                  "coords": [
-                        22.435531,
-                        49.048595
-                  ]
             }
       ],
       "hu": [
@@ -1251,24 +873,6 @@ imageHint: "Muránska planina karst plateau",
                   "coords": [
                         22.369453,
                         49.09023
-                  ]
-            },
-            {
-                  "name": "Stolová",
-                  "text": "Hegycsúcs a Bukovai-hegységben a nemzeti park területén.",
-                  "category": "landmark",
-                  "coords": [
-                        22.398599,
-                        49.045562
-                  ]
-            },
-            {
-                  "name": "Veľký Bukovec",
-                  "text": "A Veľký Bukovec 1061 méterével a Poloniny Nemzeti Parkban található Bukovské vrchy hegység legmagasabb csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        22.435531,
-                        49.048595
                   ]
             }
       ],
@@ -1290,24 +894,6 @@ imageHint: "Muránska planina karst plateau",
                         22.369453,
                         49.09023
                   ]
-            },
-            {
-                  "name": "Stolová",
-                  "text": "Un vârf montan din lanțul Bukovské vrchy, în cadrul parcului național.",
-                  "category": "landmark",
-                  "coords": [
-                        22.398599,
-                        49.045562
-                  ]
-            },
-            {
-                  "name": "Veľký Bukovec",
-                  "text": "Veľký Bukovec, cu 1.061 m, este cel mai înalt vârf al munților Bukovské vrchy din Parcul Național Poloniny.",
-                  "category": "landmark",
-                  "coords": [
-                        22.435531,
-                        49.048595
-                  ]
             }
       ],
       "en": [
@@ -1327,24 +913,6 @@ imageHint: "Muránska planina karst plateau",
                   "coords": [
                         22.369453,
                         49.09023
-                  ]
-            },
-            {
-                  "name": "Stolová",
-                  "text": "A mountain peak in the Bukovské vrchy range within the national park.",
-                  "category": "landmark",
-                  "coords": [
-                        22.398599,
-                        49.045562
-                  ]
-            },
-            {
-                  "name": "Veľký Bukovec",
-                  "text": "Veľký Bukovec is the highest peak of the Bukovské vrchy range in Poloniny National Park (1,061 m).",
-                  "category": "landmark",
-                  "coords": [
-                        22.435531,
-                        49.048595
                   ]
             }
       ]
@@ -1470,24 +1038,6 @@ imageHint: "Karst landscape in Slovakia",
                   ]
             },
             {
-                  "name": "Frčkov",
-                  "text": "Einer der höchsten Gipfel im Hauptkamm des slowakischen Gebirges Große Fatra.",
-                  "category": "landmark",
-                  "coords": [
-                        19.078694,
-                        48.893229
-                  ]
-            },
-            {
-                  "name": "Čierny kameň",
-                  "text": "Ein zerklüfteter Gipfel in der Großen Fatra, der als Naturschutzgebiet für seine besondere Flora geschützt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        19.144802,
-                        48.935081
-                  ]
-            },
-            {
                   "name": "Chyžky",
                   "text": "Ein zentraler Gebirgspass und Gipfelbereich im Hauptkamm der Großen Fatra.",
                   "category": "landmark",
@@ -1541,24 +1091,6 @@ imageHint: "Karst landscape in Slovakia",
                   "coords": [
                         19.117008,
                         48.934057
-                  ]
-            },
-            {
-                  "name": "Frčkov",
-                  "text": "A szlovákiai Nagy-Fátra hegység főgerincének egyik legmagasabb csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        19.078694,
-                        48.893229
-                  ]
-            },
-            {
-                  "name": "Čierny kameň",
-                  "text": "Sziklás csúcs a Nagy-Fátrában, amely különleges flórája miatt természetvédelmi területként védett.",
-                  "category": "landmark",
-                  "coords": [
-                        19.144802,
-                        48.935081
                   ]
             },
             {
@@ -1618,24 +1150,6 @@ imageHint: "Karst landscape in Slovakia",
                   ]
             },
             {
-                  "name": "Frčkov",
-                  "text": "Unul dintre cele mai înalte vârfuri din creasta principală a munților Marea Fatră din Slovacia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.078694,
-                        48.893229
-                  ]
-            },
-            {
-                  "name": "Čierny kameň",
-                  "text": "Un vârf stâncos din Marea Fatră, protejat ca rezervație naturală pentru flora sa deosebită.",
-                  "category": "landmark",
-                  "coords": [
-                        19.144802,
-                        48.935081
-                  ]
-            },
-            {
                   "name": "Chyžky",
                   "text": "O trecătoare montană centrală și o zonă de vârf în creasta principală a Marii Fatre.",
                   "category": "landmark",
@@ -1689,24 +1203,6 @@ imageHint: "Karst landscape in Slovakia",
                   "coords": [
                         19.117008,
                         48.934057
-                  ]
-            },
-            {
-                  "name": "Frčkov",
-                  "text": "One of the highest peaks in the main ridge of the Slovak Greater Fatra mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        19.078694,
-                        48.893229
-                  ]
-            },
-            {
-                  "name": "Čierny kameň",
-                  "text": "A rugged peak in the Greater Fatra, protected as a nature reserve for its special flora.",
-                  "category": "landmark",
-                  "coords": [
-                        19.144802,
-                        48.935081
                   ]
             },
             {
@@ -1973,15 +1469,6 @@ imageHint: "Arboretum Mlyňany botanical garden",
                   ]
             },
             {
-                  "name": "Obranný val, Hradisko Veľký Tribeč - národná kultúr. pamiatka",
-                  "text": "Eine archäologische Ausgrabungsstätte auf dem Berg Veľký Tribeč mit Überresten einer alten Wallburg.",
-                  "category": "historical",
-                  "coords": [
-                        18.242943,
-                        48.471278
-                  ]
-            },
-            {
                   "name": "Velčicky hrad",
                   "text": "Eine archäologische Stätte bei Topoľčianky, die auf eine historische Befestigung hinweist.",
                   "category": "historical",
@@ -1998,42 +1485,6 @@ imageHint: "Arboretum Mlyňany botanical garden",
                         18.339399,
                         48.465161
                   ]
-            },
-            {
-                  "name": "Veľký Tribeč",
-                  "text": "Der höchste Berg im Tribeč-Gebirge in der Slowakei, ein beliebtes Wanderziel.",
-                  "category": "landmark",
-                  "coords": [
-                        18.239677,
-                        48.469253
-                  ]
-            },
-            {
-                  "name": "Medvedí vrch",
-                  "text": "Ein Berggipfel im Tribeč-Gebirge innerhalb des europäischen Wisentparks Topoľčianky.",
-                  "category": "landmark",
-                  "coords": [
-                        18.259308,
-                        48.484018
-                  ]
-            },
-            {
-                  "name": "Malý Tribeč",
-                  "text": "Ein markanter Gipfel im Tribeč-Gebirge, benachbart zum Berg Veľký Tribeč.",
-                  "category": "landmark",
-                  "coords": [
-                        18.250551,
-                        48.474796
-                  ]
-            },
-            {
-                  "name": "Mišov vrch",
-                  "text": "Ein Berg im Tribeč-Gebirge, der sich durch seine natürliche Waldumgebung auszeichnet.",
-                  "category": "landmark",
-                  "coords": [
-                        18.278997,
-                        48.487798
-                  ]
             }
       ],
       "hu": [
@@ -2044,15 +1495,6 @@ imageHint: "Arboretum Mlyňany botanical garden",
                   "coords": [
                         18.292512,
                         48.473633
-                  ]
-            },
-            {
-                  "name": "Obranný val, Hradisko Veľký Tribeč - národná kultúr. pamiatka",
-                  "text": "Régészeti lelőhely a Veľký Tribeč hegyen, egy ősi sáncvár maradványaival.",
-                  "category": "historical",
-                  "coords": [
-                        18.242943,
-                        48.471278
                   ]
             },
             {
@@ -2072,42 +1514,6 @@ imageHint: "Arboretum Mlyňany botanical garden",
                         18.339399,
                         48.465161
                   ]
-            },
-            {
-                  "name": "Tribecs-tető",
-                  "text": "A szlovákiai Tribecs-hegység legmagasabb csúcsa, kedvelt túrázóhely.",
-                  "category": "landmark",
-                  "coords": [
-                        18.239677,
-                        48.469253
-                  ]
-            },
-            {
-                  "name": "Medvedí vrch",
-                  "text": "Hegyi csúcs a Tribecs-hegységben, a Topoľčianky bölényrezervátum területén.",
-                  "category": "landmark",
-                  "coords": [
-                        18.259308,
-                        48.484018
-                  ]
-            },
-            {
-                  "name": "Malý Tribeč",
-                  "text": "A Tribecs-hegység egyik jellegzetes csúcsa, a Veľký Tribeč szomszédságában.",
-                  "category": "landmark",
-                  "coords": [
-                        18.250551,
-                        48.474796
-                  ]
-            },
-            {
-                  "name": "Mišov vrch",
-                  "text": "Hegyi csúcs a Tribecs-hegységben, amely természetes erdei környezetéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        18.278997,
-                        48.487798
-                  ]
             }
       ],
       "ro": [
@@ -2118,15 +1524,6 @@ imageHint: "Arboretum Mlyňany botanical garden",
                   "coords": [
                         18.292512,
                         48.473633
-                  ]
-            },
-            {
-                  "name": "Obranný val, Hradisko Veľký Tribeč - národná kultúr. pamiatka",
-                  "text": "Un sit arheologic pe muntele Veľký Tribeč, cuprinzând vestigiile unei vechi fortificații.",
-                  "category": "historical",
-                  "coords": [
-                        18.242943,
-                        48.471278
                   ]
             },
             {
@@ -2146,42 +1543,6 @@ imageHint: "Arboretum Mlyňany botanical garden",
                         18.339399,
                         48.465161
                   ]
-            },
-            {
-                  "name": "Veľký Tribeč",
-                  "text": "Cel mai înalt vârf din munții Tribeč, Slovacia, fiind o destinație populară pentru drumeții.",
-                  "category": "landmark",
-                  "coords": [
-                        18.239677,
-                        48.469253
-                  ]
-            },
-            {
-                  "name": "Medvedí vrch",
-                  "text": "Un vârf muntos din munții Tribeč, situat în zona parcului de zimbri Topoľčianky.",
-                  "category": "landmark",
-                  "coords": [
-                        18.259308,
-                        48.484018
-                  ]
-            },
-            {
-                  "name": "Malý Tribeč",
-                  "text": "Un vârf distinctiv din munții Tribeč, situat în vecinătatea muntelui Veľký Tribeč.",
-                  "category": "landmark",
-                  "coords": [
-                        18.250551,
-                        48.474796
-                  ]
-            },
-            {
-                  "name": "Mišov vrch",
-                  "text": "Un vârf muntos din munții Tribeč, caracterizat prin mediul său forestier natural.",
-                  "category": "landmark",
-                  "coords": [
-                        18.278997,
-                        48.487798
-                  ]
             }
       ],
       "en": [
@@ -2192,15 +1553,6 @@ imageHint: "Arboretum Mlyňany botanical garden",
                   "coords": [
                         18.292512,
                         48.473633
-                  ]
-            },
-            {
-                  "name": "Obranný val, Hradisko Veľký Tribeč - národná kultúr. pamiatka",
-                  "text": "An archaeological site on Mount Veľký Tribeč featuring the remains of an ancient hillfort.",
-                  "category": "historical",
-                  "coords": [
-                        18.242943,
-                        48.471278
                   ]
             },
             {
@@ -2219,42 +1571,6 @@ imageHint: "Arboretum Mlyňany botanical garden",
                   "coords": [
                         18.339399,
                         48.465161
-                  ]
-            },
-            {
-                  "name": "Veľký Tribeč",
-                  "text": "The highest peak of the Tribeč mountains in Slovakia, a popular hiking destination.",
-                  "category": "landmark",
-                  "coords": [
-                        18.239677,
-                        48.469253
-                  ]
-            },
-            {
-                  "name": "Medvedí vrch",
-                  "text": "A mountain peak in the Tribeč range within the Topoľčianky bison park area.",
-                  "category": "landmark",
-                  "coords": [
-                        18.259308,
-                        48.484018
-                  ]
-            },
-            {
-                  "name": "Malý Tribeč",
-                  "text": "A distinctive peak in the Tribeč mountains, adjacent to Mount Veľký Tribeč.",
-                  "category": "landmark",
-                  "coords": [
-                        18.250551,
-                        48.474796
-                  ]
-            },
-            {
-                  "name": "Mišov vrch",
-                  "text": "A mountain peak in the Tribeč range known for its natural forest environment.",
-                  "category": "landmark",
-                  "coords": [
-                        18.278997,
-                        48.487798
                   ]
             }
       ]
@@ -2408,30 +1724,12 @@ imageHint: "Alder fen forest in Šúr",
                   ]
             },
             {
-                  "name": "Ruine Röthelstein",
-                  "text": "Die Ruinen einer mittelalterlichen Burg im Naturschutzgebiet Devínska Kobyla.",
-                  "category": "castle",
-                  "coords": [
-                        16.95426,
-                        48.161045
-                  ]
-            },
-            {
                   "name": "Villa Rustica",
                   "text": "Archäologische Überreste eines römischen Gutshofs aus dem 3. Jahrhundert.",
                   "category": "historical",
                   "coords": [
                         17.015687,
                         48.195482
-                  ]
-            },
-            {
-                  "name": "Burgruine Theben",
-                  "text": "Eine majestätische mittelalterliche Burgruine am Zusammenfluss von Donau und March.",
-                  "category": "castle",
-                  "coords": [
-                        16.979874,
-                        48.173223
                   ]
             },
             {
@@ -2487,15 +1785,6 @@ imageHint: "Alder fen forest in Šúr",
                         16.979728,
                         48.177188
                   ]
-            },
-            {
-                  "name": "Babybecken",
-                  "text": "Ein flaches Schwimmbecken, das speziell für die Sicherheit und den Spaß von Babys konzipiert ist.",
-                  "category": "recreational",
-                  "coords": [
-                        16.947512,
-                        48.151542
-                  ]
             }
       ],
       "hu": [
@@ -2509,30 +1798,12 @@ imageHint: "Alder fen forest in Šúr",
                   ]
             },
             {
-                  "name": "Ruine Röthelstein",
-                  "text": "Egy középkori vár romjai a Dévényi-tető Természetvédelmi Területen.",
-                  "category": "castle",
-                  "coords": [
-                        16.95426,
-                        48.161045
-                  ]
-            },
-            {
                   "name": "Villa Rustica",
                   "text": "Egy 3. századi római vidéki kúria (villa rustica) régészeti maradványai.",
                   "category": "historical",
                   "coords": [
                         17.015687,
                         48.195482
-                  ]
-            },
-            {
-                  "name": "Dévény vára",
-                  "text": "Fenséges középkori várrom a Duna és a Morva folyók összefolyásánál.",
-                  "category": "castle",
-                  "coords": [
-                        16.979874,
-                        48.173223
                   ]
             },
             {
@@ -2588,15 +1859,6 @@ imageHint: "Alder fen forest in Šúr",
                         16.979728,
                         48.177188
                   ]
-            },
-            {
-                  "name": "Babybecken",
-                  "text": "Sekély úszómedence, amelyet kifejezetten a babák biztonsága és szórakozása érdekében alakítottak ki.",
-                  "category": "recreational",
-                  "coords": [
-                        16.947512,
-                        48.151542
-                  ]
             }
       ],
       "ro": [
@@ -2610,30 +1872,12 @@ imageHint: "Alder fen forest in Šúr",
                   ]
             },
             {
-                  "name": "Ruine Röthelstein",
-                  "text": "Ruinele unui castel medieval situat în Rezervația Naturală Devínska Kobyla.",
-                  "category": "castle",
-                  "coords": [
-                        16.95426,
-                        48.161045
-                  ]
-            },
-            {
                   "name": "Villa Rustica",
                   "text": "Vestigiile arheologice ale unui conac rural roman din secolul al III-lea.",
                   "category": "historical",
                   "coords": [
                         17.015687,
                         48.195482
-                  ]
-            },
-            {
-                  "name": "Devín",
-                  "text": "O maiestuoasă ruină de castel medieval situată la confluența fluviului Dunărea cu râul Morava.",
-                  "category": "castle",
-                  "coords": [
-                        16.979874,
-                        48.173223
                   ]
             },
             {
@@ -2689,15 +1933,6 @@ imageHint: "Alder fen forest in Šúr",
                         16.979728,
                         48.177188
                   ]
-            },
-            {
-                  "name": "Babybecken",
-                  "text": "O piscină puțin adâncă concepută special pentru siguranța și distracția bebelușilor.",
-                  "category": "recreational",
-                  "coords": [
-                        16.947512,
-                        48.151542
-                  ]
             }
       ],
       "en": [
@@ -2711,30 +1946,12 @@ imageHint: "Alder fen forest in Šúr",
                   ]
             },
             {
-                  "name": "Ruine Röthelstein",
-                  "text": "The ruins of a medieval castle located in the Devínska Kobyla Nature Reserve.",
-                  "category": "castle",
-                  "coords": [
-                        16.95426,
-                        48.161045
-                  ]
-            },
-            {
                   "name": "Villa Rustica",
                   "text": "Archaeological remains of a Roman rural manor dating back to the 3rd century.",
                   "category": "historical",
                   "coords": [
                         17.015687,
                         48.195482
-                  ]
-            },
-            {
-                  "name": "Devín Castle",
-                  "text": "A majestic medieval castle ruin standing at the confluence of the Danube and Morava rivers.",
-                  "category": "castle",
-                  "coords": [
-                        16.979874,
-                        48.173223
                   ]
             },
             {
@@ -2789,15 +2006,6 @@ imageHint: "Alder fen forest in Šúr",
                   "coords": [
                         16.979728,
                         48.177188
-                  ]
-            },
-            {
-                  "name": "Babybecken",
-                  "text": "A shallow swimming pool designed specifically for the safety and fun of babies.",
-                  "category": "recreational",
-                  "coords": [
-                        16.947512,
-                        48.151542
                   ]
             }
       ]
@@ -5681,15 +4889,6 @@ imageHint: "Compact beech forest Rožok",
                   ]
             },
             {
-                  "name": "Chrám sv. Michala archanjela",
-                  "text": "Eine orthodoxe Holzkirche im Dorf Ruský Potok.",
-                  "category": "landmark",
-                  "coords": [
-                        22.410781,
-                        49.029085
-                  ]
-            },
-            {
                   "name": "Vyhliadková veža v Poloninách",
                   "text": "Ein Aussichtsturm mit Blick auf das Poloniny-Gebirge.",
                   "category": "natural",
@@ -5716,15 +4915,6 @@ imageHint: "Compact beech forest Rožok",
                   "coords": [
                         22.420084,
                         49.015618
-                  ]
-            },
-            {
-                  "name": "Chrám sv. Michala archanjela",
-                  "text": "Ortodox fatemplom Oroszpatak (Ruský Potok) faluban.",
-                  "category": "landmark",
-                  "coords": [
-                        22.410781,
-                        49.029085
                   ]
             },
             {
@@ -5757,15 +4947,6 @@ imageHint: "Compact beech forest Rožok",
                   ]
             },
             {
-                  "name": "Chrám sv. Michala archanjela",
-                  "text": "O biserică ortodoxă de lemn din satul Ruský Potok.",
-                  "category": "landmark",
-                  "coords": [
-                        22.410781,
-                        49.029085
-                  ]
-            },
-            {
                   "name": "Vyhliadková veža v Poloninách",
                   "text": "Un turn de observare care oferă vedere spre munții Poloniny.",
                   "category": "natural",
@@ -5792,15 +4973,6 @@ imageHint: "Compact beech forest Rožok",
                   "coords": [
                         22.420084,
                         49.015618
-                  ]
-            },
-            {
-                  "name": "Chrám sv. Michala archanjela",
-                  "text": "A wooden Orthodox church in the village of Ruský Potok.",
-                  "category": "landmark",
-                  "coords": [
-                        22.410781,
-                        49.029085
                   ]
             },
             {
@@ -5861,33 +5033,6 @@ imageHint: "Compact beech forest Rožok",
     id: "slovakia-velka-fatra-reserve-life-v2", "sights": {
       "de": [
             {
-                  "name": "Suchý vrch",
-                  "text": "Ein markanter Kalksteingipfel im Gebirge Große Fatra in der Slowakei.",
-                  "category": "landmark",
-                  "coords": [
-                        19.088206,
-                        48.909844
-                  ]
-            },
-            {
-                  "name": "Borišov",
-                  "text": "Ein Gipfel in der Großen Fatra, bekannt für die unterhalb gelegene Berghütte Chata pod Borišovom.",
-                  "category": "landmark",
-                  "coords": [
-                        19.089524,
-                        48.941239
-                  ]
-            },
-            {
-                  "name": "Ploská",
-                  "text": "Ein runder Grasgipfel in der Großen Fatra, der ein wichtiger Knotenpunkt für Wanderwege ist.",
-                  "category": "landmark",
-                  "coords": [
-                        19.117008,
-                        48.934057
-                  ]
-            },
-            {
                   "name": "Čierny kameň",
                   "text": "Ein geschütztes Naturreservat und Felsgipfel in der Großen Fatra mit seltener Flora.",
                   "category": "landmark",
@@ -5895,72 +5040,9 @@ imageHint: "Compact beech forest Rožok",
                         19.144802,
                         48.935081
                   ]
-            },
-            {
-                  "name": "Chyžky",
-                  "text": "Ein Berg im Hauptkamm der Großen Fatra in der Zentralslowakei.",
-                  "category": "landmark",
-                  "coords": [
-                        19.101017,
-                        48.924105
-                  ]
-            },
-            {
-                  "name": "Šoproň",
-                  "text": "Ein Berggipfel in der Großen Fatra, der Teil des Hauptkamms ist.",
-                  "category": "landmark",
-                  "coords": [
-                        19.110085,
-                        48.947396
-                  ]
-            },
-            {
-                  "name": "Ostredok",
-                  "text": "Der höchste Gipfel der Großen Fatra in der Slowakei.",
-                  "category": "landmark",
-                  "coords": [
-                        19.08116,
-                        48.899782
-                  ]
-            },
-            {
-                  "name": "Ostré brdo",
-                  "text": "Ein Gipfel im Nationalpark Große Fatra in der Zentralslowakei.",
-                  "category": "landmark",
-                  "coords": [
-                        19.104055,
-                        48.899212
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Suchý vrch",
-                  "text": "Jellegzetes mészkőcsúcs a szlovákiai Nagy-Fátra hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        19.088206,
-                        48.909844
-                  ]
-            },
-            {
-                  "name": "Borišov",
-                  "text": "Hegycsúcs a Nagy-Fátrában, az alatta található turistaházról (Chata pod Borišovom) ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        19.089524,
-                        48.941239
-                  ]
-            },
-            {
-                  "name": "Ploská",
-                  "text": "Füves, kerek hegycsúcs a Nagy-Fátrában, amely fontos túraútvonalak csomópontja.",
-                  "category": "landmark",
-                  "coords": [
-                        19.117008,
-                        48.934057
-                  ]
-            },
             {
                   "name": "Čierny kameň",
                   "text": "Védett természetvédelmi terület és sziklás csúcs a Nagy-Fátrában, ritka növényvilággal.",
@@ -5969,72 +5051,9 @@ imageHint: "Compact beech forest Rožok",
                         19.144802,
                         48.935081
                   ]
-            },
-            {
-                  "name": "Chyžky",
-                  "text": "Hegycsúcs a Nagy-Fátra főgerincén, Közép-Szlovákiában.",
-                  "category": "landmark",
-                  "coords": [
-                        19.101017,
-                        48.924105
-                  ]
-            },
-            {
-                  "name": "Šoproň",
-                  "text": "Hegycsúcs a Nagy-Fátra hegységben, a főgerinc egyik pontja.",
-                  "category": "landmark",
-                  "coords": [
-                        19.110085,
-                        48.947396
-                  ]
-            },
-            {
-                  "name": "Ostredok",
-                  "text": "A szlovákiai Nagy-Fátra legmagasabb hegycsúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        19.08116,
-                        48.899782
-                  ]
-            },
-            {
-                  "name": "Ostré brdo",
-                  "text": "Hegycsúcs a Nagy-Fátra Nemzeti Parkban, Közép-Szlovákiában.",
-                  "category": "landmark",
-                  "coords": [
-                        19.104055,
-                        48.899212
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Suchý vrch",
-                  "text": "Un vârf calcaros proeminent în munții Marea Fatră din Slovacia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.088206,
-                        48.909844
-                  ]
-            },
-            {
-                  "name": "Borišov",
-                  "text": "Un vârf în Marea Fatră, cunoscut pentru cabana montană situată la baza sa.",
-                  "category": "landmark",
-                  "coords": [
-                        19.089524,
-                        48.941239
-                  ]
-            },
-            {
-                  "name": "Ploská",
-                  "text": "Un vârf înierbat și rotund în Marea Fatră, punct de intersecție pentru trasee montane.",
-                  "category": "landmark",
-                  "coords": [
-                        19.117008,
-                        48.934057
-                  ]
-            },
             {
                   "name": "Čierny kameň",
                   "text": "O rezervație naturală protejată și un vârf stâncos în Marea Fatră, cu floră rară.",
@@ -6043,72 +5062,9 @@ imageHint: "Compact beech forest Rožok",
                         19.144802,
                         48.935081
                   ]
-            },
-            {
-                  "name": "Chyžky",
-                  "text": "Un munte situat pe creasta principală a munților Marea Fatră din Slovacia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.101017,
-                        48.924105
-                  ]
-            },
-            {
-                  "name": "Šoproň",
-                  "text": "Un vârf montan în Marea Fatră, făcând parte din creasta principală.",
-                  "category": "landmark",
-                  "coords": [
-                        19.110085,
-                        48.947396
-                  ]
-            },
-            {
-                  "name": "Ostredok",
-                  "text": "Cel mai înalt vârf din munții Marea Fatră din Slovacia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.08116,
-                        48.899782
-                  ]
-            },
-            {
-                  "name": "Ostré brdo",
-                  "text": "Un vârf montan în Parcul Național Marea Fatră din Slovacia centrală.",
-                  "category": "landmark",
-                  "coords": [
-                        19.104055,
-                        48.899212
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Suchý vrch",
-                  "text": "A prominent limestone peak in the Great Fatra range of Slovakia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.088206,
-                        48.909844
-                  ]
-            },
-            {
-                  "name": "Borišov",
-                  "text": "A peak in the Great Fatra known for the mountain hostel located below it.",
-                  "category": "landmark",
-                  "coords": [
-                        19.089524,
-                        48.941239
-                  ]
-            },
-            {
-                  "name": "Ploská",
-                  "text": "A grassy, rounded peak in the Great Fatra that serves as a major hiking hub.",
-                  "category": "landmark",
-                  "coords": [
-                        19.117008,
-                        48.934057
-                  ]
-            },
             {
                   "name": "Čierny kameň",
                   "text": "A protected nature reserve and rocky peak in the Great Fatra with rare flora.",
@@ -6116,42 +5072,6 @@ imageHint: "Compact beech forest Rožok",
                   "coords": [
                         19.144802,
                         48.935081
-                  ]
-            },
-            {
-                  "name": "Chyžky",
-                  "text": "A mountain located on the main ridge of the Great Fatra in central Slovakia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.101017,
-                        48.924105
-                  ]
-            },
-            {
-                  "name": "Šoproň",
-                  "text": "A mountain peak in the Great Fatra range, part of the main ridge.",
-                  "category": "landmark",
-                  "coords": [
-                        19.110085,
-                        48.947396
-                  ]
-            },
-            {
-                  "name": "Ostredok",
-                  "text": "The highest peak of the Great Fatra mountain range in Slovakia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.08116,
-                        48.899782
-                  ]
-            },
-            {
-                  "name": "Ostré brdo",
-                  "text": "A mountain peak in the Great Fatra National Park in central Slovakia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.104055,
-                        48.899212
                   ]
             }
       ]

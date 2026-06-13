@@ -15,33 +15,6 @@ export const poiExtraSingaporeReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Local market",
-                  "text": "Dieser lokale Markt in der Nähe von Bukit Timah bietet an traditionellen Ständen eine Vielzahl von frischen Lebensmitteln und Waren des täglichen Bedarfs.",
-                  "category": "landmark",
-                  "coords": [
-                        103.757501,
-                        1.348262
-                  ]
-            },
-            {
-                  "name": "St Mary of the Angels Church",
-                  "text": "Die Kirche St Mary of the Angels ist eine bemerkenswerte katholische Pfarrkirche, die für ihre markante moderne Architektur bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        103.759324,
-                        1.347201
-                  ]
-            },
-            {
-                  "name": "Beeh Low See Buddhist Temple",
-                  "text": "Der buddhistische Tempel Beeh Low See verfügt über lebendige Altäre und traditionelle Ikonografie, die typisch für die lokale buddhistische Anbetung sind.",
-                  "category": "religious",
-                  "coords": [
-                        103.773536,
-                        1.339263
-                  ]
-            },
-            {
                   "name": "Bukit Batok Nature Park",
                   "text": "Der Bukit Batok Nature Park ist eine ruhige Grünfläche auf einem stillgelegten Steinbruchgelände und verfügt über ein großes Wasserbecken.",
                   "category": "natural",
@@ -86,33 +59,6 @@ export const poiExtraSingaporeReliefV2: POI[] = [
                   "coords": [
                         103.76871,
                         1.350422
-                  ]
-            },
-            {
-                  "name": "Local market",
-                  "text": "Ez a Bukit Timah közelében található helyi piac különféle friss élelmiszereket és mindennapi szükségleti cikkeket kínál hagyományos standokon.",
-                  "category": "landmark",
-                  "coords": [
-                        103.757501,
-                        1.348262
-                  ]
-            },
-            {
-                  "name": "St Mary of the Angels Church",
-                  "text": "Az Angyalok Szűz Máriája templom egy jelentős katolikus plébániatemplom, amely jellegzetes modern építészetéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        103.759324,
-                        1.347201
-                  ]
-            },
-            {
-                  "name": "Beeh Low See Buddhist Temple",
-                  "text": "A Beeh Low See buddhista templom élénk színű oltárokkal és a helyi buddhista tiszteletadásra jellemző hagyományos ikonográfiával rendelkezik.",
-                  "category": "religious",
-                  "coords": [
-                        103.773536,
-                        1.339263
                   ]
             },
             {
@@ -163,33 +109,6 @@ export const poiExtraSingaporeReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Local market",
-                  "text": "Această piață locală de lângă Bukit Timah oferă o varietate de produse alimentare proaspete și necesități zilnice la tarabele tradiționale.",
-                  "category": "landmark",
-                  "coords": [
-                        103.757501,
-                        1.348262
-                  ]
-            },
-            {
-                  "name": "St Mary of the Angels Church",
-                  "text": "Biserica Sfânta Maria a Îngerilor este o parohie catolică notabilă, cunoscută pentru arhitectura sa modernă distinctă.",
-                  "category": "religious",
-                  "coords": [
-                        103.759324,
-                        1.347201
-                  ]
-            },
-            {
-                  "name": "Beeh Low See Buddhist Temple",
-                  "text": "Templul budist Beeh Low See prezintă altare vibrante și o iconografie tradițională tipică cultului budist local.",
-                  "category": "religious",
-                  "coords": [
-                        103.773536,
-                        1.339263
-                  ]
-            },
-            {
                   "name": "Bukit Batok Nature Park",
                   "text": "Parcul Natural Bukit Batok este un spațiu verde liniștit amenajat pe locul unei cariere abandonate, având un bazin mare de reflecție.",
                   "category": "natural",
@@ -234,33 +153,6 @@ export const poiExtraSingaporeReliefV2: POI[] = [
                   "coords": [
                         103.76871,
                         1.350422
-                  ]
-            },
-            {
-                  "name": "Local market",
-                  "text": "This local market near Bukit Timah offers a variety of fresh groceries and daily necessities at traditional stalls.",
-                  "category": "landmark",
-                  "coords": [
-                        103.757501,
-                        1.348262
-                  ]
-            },
-            {
-                  "name": "St Mary of the Angels Church",
-                  "text": "St Mary of the Angels Church is a notable Catholic parish church known for its distinct modern architecture.",
-                  "category": "religious",
-                  "coords": [
-                        103.759324,
-                        1.347201
-                  ]
-            },
-            {
-                  "name": "Beeh Low See Buddhist Temple",
-                  "text": "The Beeh Low See Buddhist Temple features vibrant altars and traditional iconography typical of local Buddhist worship.",
-                  "category": "religious",
-                  "coords": [
-                        103.773536,
-                        1.339263
                   ]
             },
             {
@@ -4263,66 +4155,12 @@ export const poiExtraSingaporeReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dialogue in the Dark Singapore",
-                  "text": "Dialogue in the Dark Singapore bietet eine interaktive Ausstellung, in der Besucher durch komplett abgedunkelte Räume navigieren.",
-                  "category": "museum",
-                  "coords": [
-                        103.777159,
-                        1.334191
-                  ]
-            },
-            {
-                  "name": "Switch Room Ruin #NBE",
-                  "text": "Die Switch Room Ruin #NBE umfasst die von Vegetation überwucherten Betonüberreste einer alten elektrischen Anlage.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775771,
-                        1.324965
-                  ]
-            },
-            {
-                  "name": "Amphitheatre",
-                  "text": "Dieses Freilicht-Amphitheater bietet abgestufte Sitzreihen für lokale Freiluftaufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        103.772736,
-                        1.325012
-                  ]
-            },
-            {
-                  "name": "Former Buona Vista Battery No. 2 Gun",
-                  "text": "Die ehemalige Buona Vista Battery No. 2 Gun ist eine historische Militärstätte, die die Überreste einer Küstenartilleriestellung bewahrt.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775359,
-                        1.318703
-                  ]
-            },
-            {
                   "name": "Ruins",
                   "text": "Diese verwitterten baulichen Ruinen werden langsam vom umliegenden Wald zurückerobert.",
                   "category": "landmark",
                   "coords": [
                         103.782535,
                         1.320187
-                  ]
-            },
-            {
-                  "name": "Maju Camp Tunnel",
-                  "text": "Der Maju Camp Tunnel ist ein unterirdischer Betondurchgang, der früher für militärische Zwecke genutzt wurde.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775452,
-                        1.326074
-                  ]
-            },
-            {
-                  "name": "Ang Chee Sia Ong Temple",
-                  "text": "Der Ang Chee Sia Ong Tempel ist eine bemerkenswerte daoistische und buddhistische Kultstätte mit traditionellen chinesischen Dachornamenten.",
-                  "category": "religious",
-                  "coords": [
-                        103.760525,
-                        1.311655
                   ]
             },
             {
@@ -4409,66 +4247,12 @@ export const poiExtraSingaporeReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dialogue in the Dark Singapore",
-                  "text": "A Szingapúri Párbeszéd a Sötétben egy olyan élménykiállítás, ahol a látogatók teljesen elsötétített szobákban tájékozódnak.",
-                  "category": "museum",
-                  "coords": [
-                        103.777159,
-                        1.334191
-                  ]
-            },
-            {
-                  "name": "Switch Room Ruin #NBE",
-                  "text": "A Switch Room Ruin #NBE egy régi elektromos létesítmény növényzettel benőtt betonmaradványait rejti.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775771,
-                        1.324965
-                  ]
-            },
-            {
-                  "name": "Amphitheatre",
-                  "text": "Ez a szabadtéri amfiteátrum lépcsőzetes ülőhelyekkel várja a helyi előadások közönségét.",
-                  "category": "cultural",
-                  "coords": [
-                        103.772736,
-                        1.325012
-                  ]
-            },
-            {
-                  "name": "Former Buona Vista Battery No. 2 Gun",
-                  "text": "A korábbi Buona Vista 2-es számú üteg egy történelmi katonai helyszín, amely egy partvédelmi tüzérségi állás maradványait őrzi.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775359,
-                        1.318703
-                  ]
-            },
-            {
                   "name": "Ruins",
                   "text": "Ezeket a málladozó épületromokat lassan visszahódítja a környező erdő.",
                   "category": "landmark",
                   "coords": [
                         103.782535,
                         1.320187
-                  ]
-            },
-            {
-                  "name": "Maju Camp Tunnel",
-                  "text": "A Maju tábor alagútja egy föld alatti betonátjáró, amelyet korábban katonai célokra használtak.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775452,
-                        1.326074
-                  ]
-            },
-            {
-                  "name": "Ang Chee Sia Ong Temple",
-                  "text": "Az Ang Chee Sia Ong templom egy jelentős taoista és buddhista imahely, amelyet hagyományos kínai tetődíszek ékesítenek.",
-                  "category": "religious",
-                  "coords": [
-                        103.760525,
-                        1.311655
                   ]
             },
             {
@@ -4555,66 +4339,12 @@ export const poiExtraSingaporeReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dialogue in the Dark Singapore",
-                  "text": "Dialogue in the Dark Singapore oferă o expoziție experiențială în care vizitatorii navighează în camere complet întunecate.",
-                  "category": "museum",
-                  "coords": [
-                        103.777159,
-                        1.334191
-                  ]
-            },
-            {
-                  "name": "Switch Room Ruin #NBE",
-                  "text": "Switch Room Ruin #NBE prezintă rămășițele din beton ale unei vechi instalații electrice ascunse în vegetație.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775771,
-                        1.324965
-                  ]
-            },
-            {
-                  "name": "Amphitheatre",
-                  "text": "Acest amfiteatru în aer liber dispune de scaune în trepte pentru spectacole locale.",
-                  "category": "cultural",
-                  "coords": [
-                        103.772736,
-                        1.325012
-                  ]
-            },
-            {
-                  "name": "Former Buona Vista Battery No. 2 Gun",
-                  "text": "Fosta baterie Buona Vista No. 2 Gun este un sit militar istoric care păstrează rămășițele unui amplasament de artilerie de coastă.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775359,
-                        1.318703
-                  ]
-            },
-            {
                   "name": "Ruins",
                   "text": "Aceste ruine structurale erodate sunt încet recuperate de pădurea înconjurătoare.",
                   "category": "landmark",
                   "coords": [
                         103.782535,
                         1.320187
-                  ]
-            },
-            {
-                  "name": "Maju Camp Tunnel",
-                  "text": "Tunelul Maju Camp este un pasaj subteran din beton folosit anterior în scopuri militare.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775452,
-                        1.326074
-                  ]
-            },
-            {
-                  "name": "Ang Chee Sia Ong Temple",
-                  "text": "Templul Ang Chee Sia Ong este un loc de cult taoist și budist remarcabil, cu ornamente tradiționale chinezești pe acoperiș.",
-                  "category": "religious",
-                  "coords": [
-                        103.760525,
-                        1.311655
                   ]
             },
             {
@@ -4701,66 +4431,12 @@ export const poiExtraSingaporeReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dialogue in the Dark Singapore",
-                  "text": "Dialogue in the Dark Singapore offers an experiential exhibition where visitors navigate completely darkened rooms.",
-                  "category": "museum",
-                  "coords": [
-                        103.777159,
-                        1.334191
-                  ]
-            },
-            {
-                  "name": "Switch Room Ruin #NBE",
-                  "text": "The Switch Room Ruin #NBE features the concrete remains of an old electrical facility hidden in the vegetation.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775771,
-                        1.324965
-                  ]
-            },
-            {
-                  "name": "Amphitheatre",
-                  "text": "This open-air amphitheatre features tiered seating for local outdoor performances.",
-                  "category": "cultural",
-                  "coords": [
-                        103.772736,
-                        1.325012
-                  ]
-            },
-            {
-                  "name": "Former Buona Vista Battery No. 2 Gun",
-                  "text": "The Former Buona Vista Battery No. 2 Gun is a historical military site preserving the remains of a coastal artillery emplacement.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775359,
-                        1.318703
-                  ]
-            },
-            {
                   "name": "Ruins",
                   "text": "These weathered structural ruins are slowly being reclaimed by the surrounding forest.",
                   "category": "landmark",
                   "coords": [
                         103.782535,
                         1.320187
-                  ]
-            },
-            {
-                  "name": "Maju Camp Tunnel",
-                  "text": "The Maju Camp Tunnel is a subterranean concrete passage formerly used for military purposes.",
-                  "category": "landmark",
-                  "coords": [
-                        103.775452,
-                        1.326074
-                  ]
-            },
-            {
-                  "name": "Ang Chee Sia Ong Temple",
-                  "text": "The Ang Chee Sia Ong Temple is a notable Taoist and Buddhist place of worship featuring traditional Chinese roof ornaments.",
-                  "category": "religious",
-                  "coords": [
-                        103.760525,
-                        1.311655
                   ]
             },
             {

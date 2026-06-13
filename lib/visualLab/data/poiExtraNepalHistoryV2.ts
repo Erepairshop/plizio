@@ -4794,15 +4794,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dil Ceramics",
-                  "text": "Ein traditionelles Töpferzentrum, in dem Handwerker Tongefäße auf handgedrehten Scheiben formen.",
-                  "category": "cultural",
-                  "coords": [
-                        85.391802,
-                        27.68188
-                  ]
-            },
-            {
                   "name": "Erotic ElephantsTemple",
                   "text": "Ein Tempel, der für seine Holzschnitzereien bekannt ist, die spielerische und erotische Elefanten darstellen.",
                   "category": "religious",
@@ -4936,33 +4927,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                         85.431298,
                         27.6766
                   ]
-            },
-            {
-                  "name": "Gankhu dharamapur dol",
-                  "text": "Ein kulturell bedeutsamer Ort in Bhaktapur, der als Treffpunkt für Gemeindefeiern und religiöse Zeremonien dient.",
-                  "category": "landmark",
-                  "coords": [
-                        85.394766,
-                        27.68612
-                  ]
-            },
-            {
-                  "name": "Balkumari Temple",
-                  "text": "Ein schöner Hindutempel in Bhaktapur, der der Göttin Balkumari gewidmet ist und bei lokalen Festen eine zentrale Rolle spielt.",
-                  "category": "landmark",
-                  "coords": [
-                        85.385314,
-                        27.675947
-                  ]
-            },
-            {
-                  "name": "Dhungedhara",
-                  "text": "Ein traditioneller steinerner Wasserbrunnen in Bhaktapur, der seit Jahrhunderten die lokale Bevölkerung mit Quellwasser versorgt.",
-                  "category": "landmark",
-                  "coords": [
-                        85.385027,
-                        27.674715
-                  ]
             }
       ],
       "hu": [
@@ -5018,15 +4982,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   "coords": [
                         85.386511,
                         27.681793
-                  ]
-            },
-            {
-                  "name": "Dil Ceramics",
-                  "text": "Hagyományos kerámiaműhely, ahol a kézművesek kézzel korongozott agyagedényeket készítenek.",
-                  "category": "cultural",
-                  "coords": [
-                        85.391802,
-                        27.68188
                   ]
             },
             {
@@ -5163,33 +5118,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                         85.431298,
                         27.6766
                   ]
-            },
-            {
-                  "name": "Gankhu dharamapur dol",
-                  "text": "Kulturálisan jelentős helyszín Bhaktapurban, amely közösségi ünnepségek és vallási szertartások találkozóhelyeként szolgál.",
-                  "category": "landmark",
-                  "coords": [
-                        85.394766,
-                        27.68612
-                  ]
-            },
-            {
-                  "name": "Balkumari Temple",
-                  "text": "Gyönyörű hindu templom Bhaktapurban, amelyet Balkumari istennőnek szenteltek, és központi szerepet játszik a helyi ünnepeken.",
-                  "category": "landmark",
-                  "coords": [
-                        85.385314,
-                        27.675947
-                  ]
-            },
-            {
-                  "name": "Dhungedhara",
-                  "text": "Hagyományos kőből faragott vízforrás Bhaktapurban, amely évszázadok óta látja el a helyi lakosságot forrásvízzel.",
-                  "category": "landmark",
-                  "coords": [
-                        85.385027,
-                        27.674715
-                  ]
             }
       ],
       "ro": [
@@ -5245,15 +5173,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   "coords": [
                         85.386511,
                         27.681793
-                  ]
-            },
-            {
-                  "name": "Dil Ceramics",
-                  "text": "Un centru tradițional de olărit unde meșteșugarii modelează vase de lut pe roți acționate manual.",
-                  "category": "cultural",
-                  "coords": [
-                        85.391802,
-                        27.68188
                   ]
             },
             {
@@ -5390,33 +5309,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                         85.431298,
                         27.6766
                   ]
-            },
-            {
-                  "name": "Gankhu dharamapur dol",
-                  "text": "Un sit cu importanță culturală în Bhaktapur, servind drept loc de întâlnire pentru celebrări comunitare și ceremonii religioase.",
-                  "category": "landmark",
-                  "coords": [
-                        85.394766,
-                        27.68612
-                  ]
-            },
-            {
-                  "name": "Balkumari Temple",
-                  "text": "Un templu hindu frumos din Bhaktapur dedicat zeiței Balkumari, având un rol central în timpul festivalurilor locale.",
-                  "category": "landmark",
-                  "coords": [
-                        85.385314,
-                        27.675947
-                  ]
-            },
-            {
-                  "name": "Dhungedhara",
-                  "text": "O cișmea tradițională din piatră în Bhaktapur, care alimentează populația locală cu apă de izvor de secole.",
-                  "category": "landmark",
-                  "coords": [
-                        85.385027,
-                        27.674715
-                  ]
             }
       ],
       "en": [
@@ -5454,33 +5346,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   "coords": [
                         85.387503,
                         27.674751
-                  ]
-            },
-            {
-                  "name": "Shankhadar Shakwa statue",
-                  "text": "A statue honoring Shankhadar Shakwa, the philanthropist who founded the Nepal Sambat era.",
-                  "category": "historical",
-                  "coords": [
-                        85.385278,
-                        27.673487
-                  ]
-            },
-            {
-                  "name": "Vidhyaganesh",
-                  "text": "A Vidhyaganesh shrine where students traditionally pray for success in their studies.",
-                  "category": "historical",
-                  "coords": [
-                        85.386511,
-                        27.681793
-                  ]
-            },
-            {
-                  "name": "Dil Ceramics",
-                  "text": "A traditional pottery center where artisans shape clay vessels on hand-turned wheels.",
-                  "category": "cultural",
-                  "coords": [
-                        85.391802,
-                        27.68188
                   ]
             },
             {
@@ -5616,33 +5481,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   "coords": [
                         85.431298,
                         27.6766
-                  ]
-            },
-            {
-                  "name": "Gankhu dharamapur dol",
-                  "text": "A culturally significant site in Bhaktapur serving as a gathering spot for community celebrations and religious ceremonies.",
-                  "category": "landmark",
-                  "coords": [
-                        85.394766,
-                        27.68612
-                  ]
-            },
-            {
-                  "name": "Balkumari Temple",
-                  "text": "A beautiful Hindu temple in Bhaktapur dedicated to Goddess Balkumari, playing a central role during local festivals.",
-                  "category": "landmark",
-                  "coords": [
-                        85.385314,
-                        27.675947
-                  ]
-            },
-            {
-                  "name": "Dhungedhara",
-                  "text": "A traditional stone water spout in Bhaktapur that has supplied the local population with spring water for centuries.",
-                  "category": "landmark",
-                  "coords": [
-                        85.385027,
-                        27.674715
                   ]
             }
       ]
@@ -7296,15 +7134,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "LHO HITI:",
-                  "text": "Ein traditioneller steinerner Wasserbrunnen (Hiti) im historischen Zentrum von Bhaktapur.",
-                  "category": "historical",
-                  "coords": [
-                        85.493307,
-                        27.63297
-                  ]
-            },
-            {
                   "name": "Brammayadi Devi Fix Itta Udhyog",
                   "text": "Überreste einer Stätte in Bhaktapur, die mit der Gottheit Brammayadi Devi verbunden ist.",
                   "category": "historical",
@@ -7440,24 +7269,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sanjivani Krishi farm",
-                  "text": "Ein landwirtschaftlicher Betrieb, der traditionelle nepalesische Anbaumethoden demonstriert.",
-                  "category": "landmark",
-                  "coords": [
-                        85.51885,
-                        27.64511
-                  ]
-            },
-            {
-                  "name": "Pilot Baba Ashram",
-                  "text": "Ein spirituelles Refugium auf einem Hügel mit weitem Blick über das Tal.",
-                  "category": "landmark",
-                  "coords": [
-                        85.42252,
-                        27.640524
-                  ]
-            },
-            {
                   "name": "गणेश मन्दिर",
                   "text": "Ein hinduistischer Tempel, der der elefantenköpfigen Gottheit gewidmet ist und kunstvolle Schnitzereien aufweist.",
                   "category": "landmark",
@@ -7583,15 +7394,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   "coords": [
                         85.435587,
                         27.673721
-                  ]
-            },
-            {
-                  "name": "LHO HITI:",
-                  "text": "Hagyományos kő vízköpő (hiti) Bhaktapur történelmi központjában.",
-                  "category": "historical",
-                  "coords": [
-                        85.493307,
-                        27.63297
                   ]
             },
             {
@@ -7730,24 +7532,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sanjivani Krishi farm",
-                  "text": "Hagyományos nepáli gazdálkodási módszereket bemutató mezőgazdasági farm.",
-                  "category": "landmark",
-                  "coords": [
-                        85.51885,
-                        27.64511
-                  ]
-            },
-            {
-                  "name": "Pilot Baba Ashram",
-                  "text": "Dombtetőn elhelyezkedő spirituális menedékhely, ahonnan széles kilátás nyílik a völgyre.",
-                  "category": "landmark",
-                  "coords": [
-                        85.42252,
-                        27.640524
-                  ]
-            },
-            {
                   "name": "गणेश मन्दिर",
                   "text": "Elefántfejű istenségnek szentelt hindu templom, díszes faragványokkal.",
                   "category": "landmark",
@@ -7873,15 +7657,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   "coords": [
                         85.435587,
                         27.673721
-                  ]
-            },
-            {
-                  "name": "LHO HITI:",
-                  "text": "Un cișmea tradițională din piatră (hiti) în centrul istoric al orașului Bhaktapur.",
-                  "category": "historical",
-                  "coords": [
-                        85.493307,
-                        27.63297
                   ]
             },
             {
@@ -8020,24 +7795,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sanjivani Krishi farm",
-                  "text": "O fermă agricolă care demonstrează metodele tradiționale de cultivare nepaleze.",
-                  "category": "landmark",
-                  "coords": [
-                        85.51885,
-                        27.64511
-                  ]
-            },
-            {
-                  "name": "Pilot Baba Ashram",
-                  "text": "Un refugiu spiritual situat pe un deal, oferind o vedere panoramică asupra văii.",
-                  "category": "landmark",
-                  "coords": [
-                        85.42252,
-                        27.640524
-                  ]
-            },
-            {
                   "name": "गणेश मन्दिर",
                   "text": "Un templu hindus dedicat zeității cu cap de elefant, prezentând sculpturi ornamentate.",
                   "category": "landmark",
@@ -8163,15 +7920,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   "coords": [
                         85.435587,
                         27.673721
-                  ]
-            },
-            {
-                  "name": "LHO HITI:",
-                  "text": "A traditional stone water spout (hiti) in the historic center of Bhaktapur.",
-                  "category": "historical",
-                  "coords": [
-                        85.493307,
-                        27.63297
                   ]
             },
             {
@@ -8307,24 +8055,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   "coords": [
                         85.430726,
                         27.668279
-                  ]
-            },
-            {
-                  "name": "Sanjivani Krishi farm",
-                  "text": "An agricultural farm showcasing traditional Nepali farming methods.",
-                  "category": "landmark",
-                  "coords": [
-                        85.51885,
-                        27.64511
-                  ]
-            },
-            {
-                  "name": "Pilot Baba Ashram",
-                  "text": "A spiritual retreat situated on a hill with panoramic views over the valley.",
-                  "category": "landmark",
-                  "coords": [
-                        85.42252,
-                        27.640524
                   ]
             },
             {
@@ -13524,15 +13254,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kobha Pukhu",
-                  "text": "Ein historischer Teich in der Stadt Banepa, der eine zentrale Rolle bei lokalen Newari-Festen spielt.",
-                  "category": "historical",
-                  "coords": [
-                        85.521965,
-                        27.6313
-                  ]
-            },
-            {
                   "name": "Saraswoti Pati",
                   "text": "Dieses Rasthaus in Panauti ist für seine detaillierten Schnitzereien bekannt und der Göttin der Weisheit gewidmet.",
                   "category": "historical",
@@ -13820,15 +13541,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   "coords": [
                         85.514796,
                         27.585486
-                  ]
-            },
-            {
-                  "name": "Kobha Pukhu",
-                  "text": "Egy történelmi tó Banepa városában, amely központi szerepet játszik a helyi nevari fesztiválokon.",
-                  "category": "historical",
-                  "coords": [
-                        85.521965,
-                        27.6313
                   ]
             },
             {
@@ -14122,15 +13834,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kobha Pukhu",
-                  "text": "Un iaz istoric în orașul Banepa, care joacă un rol central în festivalurile locale Newari.",
-                  "category": "historical",
-                  "coords": [
-                        85.521965,
-                        27.6313
-                  ]
-            },
-            {
                   "name": "Saraswoti Pati",
                   "text": "Această casă de odihnă din Panauti este cunoscută pentru sculpturile sale detaliate și este dedicată zeiței înțelepciunii.",
                   "category": "historical",
@@ -14421,15 +14124,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dwakha Pukhu",
-                  "text": "A historic pond in the town of Banepa that plays a central role in local Newari festivals.",
-                  "category": "historical",
-                  "coords": [
-                        85.521965,
-                        27.6313
-                  ]
-            },
-            {
                   "name": "Saraswoti Pati",
                   "text": "This rest house in Panauti is known for its detailed carvings and is dedicated to the goddess of wisdom.",
                   "category": "historical",
@@ -14598,15 +14292,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
                   "coords": [
                         85.522468,
                         27.632403
-                  ]
-            },
-            {
-                  "name": "Krishna's home",
-                  "text": "A local attraction depicting a traditional residence associated with Krishna's lore.",
-                  "category": "landmark",
-                  "coords": [
-                        85.535625,
-                        27.646637
                   ]
             },
             {

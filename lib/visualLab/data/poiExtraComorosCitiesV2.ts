@@ -192,24 +192,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
                         43.292281,
                         -11.388246
                   ]
-            },
-            {
-                  "name": "Grand Baobab",
-                  "text": "Großer Baobab-Baum in Mitsamiouli, jahrhundertealtes Naturwunder.",
-                  "category": "landmark",
-                  "coords": [
-                        43.307338,
-                        -11.385162
-                  ]
-            },
-            {
-                  "name": "Trou du prophète",
-                  "text": "Das Prophetenloch (Trou du prophète) – ein natürliches Felsenloch mit einer lokalen Legende in Mitsamiouli.",
-                  "category": "landmark",
-                  "coords": [
-                        43.314887,
-                        -11.379587
-                  ]
             }
       ],
       "hu": [
@@ -229,24 +211,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
                   "coords": [
                         43.292281,
                         -11.388246
-                  ]
-            },
-            {
-                  "name": "Grand Baobab",
-                  "text": "Hatalmas baobabfa Mitsamiouliban, évszázados természeti csoda.",
-                  "category": "landmark",
-                  "coords": [
-                        43.307338,
-                        -11.385162
-                  ]
-            },
-            {
-                  "name": "Trou du prophète",
-                  "text": "A Próféta Lyuka (Trou du prophète) – természetes sziklaüreg egy helyi legendával Mitsamiouliban.",
-                  "category": "landmark",
-                  "coords": [
-                        43.314887,
-                        -11.379587
                   ]
             }
       ],
@@ -268,24 +232,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
                         43.292281,
                         -11.388246
                   ]
-            },
-            {
-                  "name": "Grand Baobab",
-                  "text": "Baobab uriaș în Mitsamiouli, minune naturală veche de secole.",
-                  "category": "landmark",
-                  "coords": [
-                        43.307338,
-                        -11.385162
-                  ]
-            },
-            {
-                  "name": "Trou du prophète",
-                  "text": "Groapa Profetului (Trou du prophète) – o gaură naturală în stâncă cu o legendă locală în Mitsamiouli.",
-                  "category": "landmark",
-                  "coords": [
-                        43.314887,
-                        -11.379587
-                  ]
             }
       ],
       "en": [
@@ -305,24 +251,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
                   "coords": [
                         43.292281,
                         -11.388246
-                  ]
-            },
-            {
-                  "name": "Grand Baobab",
-                  "text": "Giant baobab tree in Mitsamiouli, centuries-old natural wonder.",
-                  "category": "landmark",
-                  "coords": [
-                        43.307338,
-                        -11.385162
-                  ]
-            },
-            {
-                  "name": "Trou du prophète",
-                  "text": "Prophet's Hole (Trou du prophète) – a natural rock hole with a local legend in Mitsamiouli.",
-                  "category": "landmark",
-                  "coords": [
-                        43.314887,
-                        -11.379587
                   ]
             }
       ]
@@ -422,50 +350,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
   },
   {
     id: "mbeni-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Drachenfelspanorama",
-                  "text": "Aussichtspunkt auf dem Rocher du Dragon mit Panoramablick auf die Küste bei Mbeni.",
-                  "category": "natural",
-                  "coords": [
-                        43.400802,
-                        -11.39927
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Panorama du Rocher du Dragon",
-                  "text": "Kilátó a Sárkány-sziklán (Rocher du Dragon) panorámás kilátással a tengerpartra Mbeni közelében.",
-                  "category": "natural",
-                  "coords": [
-                        43.400802,
-                        -11.39927
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Panorama du Rocher du Dragon",
-                  "text": "Punct de belvedere pe Stânca Dragonului (Rocher du Dragon) cu panoramă asupra coastei lângă Mbeni.",
-                  "category": "natural",
-                  "coords": [
-                        43.400802,
-                        -11.39927
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Panorama du Rocher du Dragon",
-                  "text": "Viewpoint on Dragon Rock (Rocher du Dragon) with panoramic coast view near Mbeni.",
-                  "category": "natural",
-                  "coords": [
-                        43.400802,
-                        -11.39927
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "KM-G",
@@ -1011,15 +899,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
                         44.394526,
                         -12.170152
                   ]
-            },
-            {
-                  "name": "Citadel",
-                  "text": "Zitadelle aus der Sultanatszeit in Mirontsi, auf einem Hügel gelegen.",
-                  "category": "landmark",
-                  "coords": [
-                        44.397251,
-                        -12.167076
-                  ]
             }
       ],
       "hu": [
@@ -1030,15 +909,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
                   "coords": [
                         44.394526,
                         -12.170152
-                  ]
-            },
-            {
-                  "name": "Citadel",
-                  "text": "Szultánság kori citadella Mirontsiban, egy dombon található.",
-                  "category": "landmark",
-                  "coords": [
-                        44.397251,
-                        -12.167076
                   ]
             }
       ],
@@ -1051,15 +921,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
                         44.394526,
                         -12.170152
                   ]
-            },
-            {
-                  "name": "Citadel",
-                  "text": "Citadelă din perioada sultanatului în Mirontsi, situată pe un deal.",
-                  "category": "landmark",
-                  "coords": [
-                        44.397251,
-                        -12.167076
-                  ]
             }
       ],
       "en": [
@@ -1070,15 +931,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
                   "coords": [
                         44.394526,
                         -12.170152
-                  ]
-            },
-            {
-                  "name": "Citadel",
-                  "text": "Citadel from the sultanate period in Mirontsi, located on a hill.",
-                  "category": "landmark",
-                  "coords": [
-                        44.397251,
-                        -12.167076
                   ]
             }
       ]
@@ -1336,24 +1188,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     id: "mbatse-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Sambadjou",
-                  "text": "Erholungsgebiet Sambadjou in Mbatse, beliebt für Picknicks und Spaziergänge.",
-                  "category": "recreational",
-                  "coords": [
-                        43.667894,
-                        -12.348102
-                  ]
-            },
-            {
-                  "name": "cascade",
-                  "text": "Wasserfall in Mbatse, umgeben von üppiger Vegetation.",
-                  "category": "landmark",
-                  "coords": [
-                        43.674195,
-                        -12.358587
-                  ]
-            },
-            {
                   "name": "Maison Livingstone",
                   "text": "Historisches Haus von David Livingstone, dem berühmten Afrikaforscher, in Mbatse.",
                   "category": "landmark",
@@ -1364,24 +1198,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Sambadjou",
-                  "text": "Sambadjou pihenőövezet Mbatsében, népszerű piknikezésre és sétákra.",
-                  "category": "recreational",
-                  "coords": [
-                        43.667894,
-                        -12.348102
-                  ]
-            },
-            {
-                  "name": "cascade",
-                  "text": "Vízesés Mbatsében, buja növényzettel körülvéve.",
-                  "category": "landmark",
-                  "coords": [
-                        43.674195,
-                        -12.358587
-                  ]
-            },
             {
                   "name": "Maison Livingstone",
                   "text": "David Livingstone, a híres Afrika-kutató történelmi háza Mbatsében.",
@@ -1394,24 +1210,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Sambadjou",
-                  "text": "Zonă de recreere Sambadjou în Mbatse, populară pentru picnicuri și plimbări.",
-                  "category": "recreational",
-                  "coords": [
-                        43.667894,
-                        -12.348102
-                  ]
-            },
-            {
-                  "name": "cascade",
-                  "text": "Cascadă în Mbatse, înconjurată de vegetație luxuriantă.",
-                  "category": "landmark",
-                  "coords": [
-                        43.674195,
-                        -12.358587
-                  ]
-            },
-            {
                   "name": "Maison Livingstone",
                   "text": "Casă istorică a lui David Livingstone, celebrul explorator al Africii, în Mbatse.",
                   "category": "landmark",
@@ -1422,24 +1220,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Sambadjou",
-                  "text": "Sambadjou recreational area in Mbatse, popular for picnics and walks.",
-                  "category": "recreational",
-                  "coords": [
-                        43.667894,
-                        -12.348102
-                  ]
-            },
-            {
-                  "name": "cascade",
-                  "text": "Waterfall in Mbatse, surrounded by lush vegetation.",
-                  "category": "landmark",
-                  "coords": [
-                        43.674195,
-                        -12.358587
-                  ]
-            },
             {
                   "name": "Maison Livingstone",
                   "text": "Historic house of David Livingstone, the famous African explorer, in Mbatse.",
@@ -1535,15 +1315,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
     id: "ouallah-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Maison Livingstone",
-                  "text": "Ein historisches Haus, das mit der regionalen Kolonialgeschichte verbunden ist.",
-                  "category": "landmark",
-                  "coords": [
-                        43.661429,
-                        -12.328051
-                  ]
-            },
-            {
                   "name": "cascade",
                   "text": "Ein malerischer natürlicher Wasserfall, der in ein üppiges Flussbecken mündet.",
                   "category": "landmark",
@@ -1563,15 +1334,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Maison Livingstone",
-                  "text": "A regionális gyarmati történelemhez kötődő történelmi házikó.",
-                  "category": "landmark",
-                  "coords": [
-                        43.661429,
-                        -12.328051
-                  ]
-            },
             {
                   "name": "cascade",
                   "text": "Egy festői természetes vízesés, amely egy buja folyami medencébe ömlik.",
@@ -1593,15 +1355,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Maison Livingstone",
-                  "text": "O casă istorică legată de istoria colonială regională.",
-                  "category": "landmark",
-                  "coords": [
-                        43.661429,
-                        -12.328051
-                  ]
-            },
-            {
                   "name": "cascade",
                   "text": "O cascadă naturală pitorească care se varsă într-un bazin fluvial luxuriant.",
                   "category": "landmark",
@@ -1621,15 +1374,6 @@ export const poiExtraComorosCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Maison Livingstone",
-                  "text": "A historic house attraction linked to regional colonial history.",
-                  "category": "landmark",
-                  "coords": [
-                        43.661429,
-                        -12.328051
-                  ]
-            },
             {
                   "name": "cascade",
                   "text": "A scenic natural waterfall flowing into a lush river pool.",
@@ -2024,30 +1768,12 @@ export const poiExtraComorosCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Barakat",
-                  "text": "Ein Kulturzentrum im Herzen von Mvouni, das traditionelle komorische Tänze und Musik präsentiert.",
-                  "category": "cultural",
-                  "coords": [
-                        43.269507,
-                        -11.733606
-                  ]
-            },
-            {
                   "name": "Bangwé Stileza",
                   "text": "Ein Treffpunkt für Kunsthandwerk und lokale Küche in Mvouni.",
                   "category": "cultural",
                   "coords": [
                         43.265762,
                         -11.735436
-                  ]
-            },
-            {
-                  "name": "Bangwé Boustoine",
-                  "text": "Ein Veranstaltungsort für Geschichtenerzählungen und Zeremonien in Mvouni.",
-                  "category": "cultural",
-                  "coords": [
-                        43.26537,
-                        -11.733242
                   ]
             },
             {
@@ -2098,30 +1824,12 @@ export const poiExtraComorosCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Barakat",
-                  "text": "Egy kulturális központ Mvouni szívében, ahol hagyományos komori táncokat és zenét mutatnak be.",
-                  "category": "cultural",
-                  "coords": [
-                        43.269507,
-                        -11.733606
-                  ]
-            },
-            {
                   "name": "Bangwé Stileza",
                   "text": "Kézműves termékek és helyi konyha találkozóhelye Mvouniban.",
                   "category": "cultural",
                   "coords": [
                         43.265762,
                         -11.735436
-                  ]
-            },
-            {
-                  "name": "Bangwé Boustoine",
-                  "text": "Történetmesélés és szertartások helyszíne Mvouniban.",
-                  "category": "cultural",
-                  "coords": [
-                        43.26537,
-                        -11.733242
                   ]
             },
             {
@@ -2172,30 +1880,12 @@ export const poiExtraComorosCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Barakat",
-                  "text": "Un centru cultural în inima orașului Mvouni, care prezintă dansuri și muzică tradițională comoriană.",
-                  "category": "cultural",
-                  "coords": [
-                        43.269507,
-                        -11.733606
-                  ]
-            },
-            {
                   "name": "Bangwé Stileza",
                   "text": "Un loc de întâlnire pentru meșteșuguri și bucătăria locală în Mvouni.",
                   "category": "cultural",
                   "coords": [
                         43.265762,
                         -11.735436
-                  ]
-            },
-            {
-                  "name": "Bangwé Boustoine",
-                  "text": "Un loc pentru povestiri și ceremonii în Mvouni.",
-                  "category": "cultural",
-                  "coords": [
-                        43.26537,
-                        -11.733242
                   ]
             },
             {
@@ -2246,30 +1936,12 @@ export const poiExtraComorosCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Barakat",
-                  "text": "A cultural centre in the heart of Mvouni showcasing traditional Comorian dance and music.",
-                  "category": "cultural",
-                  "coords": [
-                        43.269507,
-                        -11.733606
-                  ]
-            },
-            {
                   "name": "Bangwé Stileza",
                   "text": "A meeting point for crafts and local cuisine in Mvouni.",
                   "category": "cultural",
                   "coords": [
                         43.265762,
                         -11.735436
-                  ]
-            },
-            {
-                  "name": "Bangwé Boustoine",
-                  "text": "A venue for storytelling and ceremonies in Mvouni.",
-                  "category": "cultural",
-                  "coords": [
-                        43.26537,
-                        -11.733242
                   ]
             },
             {
@@ -2336,158 +2008,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
   },
   {
     id: "selea-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Route du point de départ vers Karthala (380 m)",
-                  "text": "Dieser Ort in Selea markiert den Startpunkt der Attraktion für den Weg zum Karthala.",
-                  "category": "landmark",
-                  "coords": [
-                        43.275659,
-                        -11.724271
-                  ]
-            },
-            {
-                  "name": "Centre Barakat",
-                  "text": "Ein Kulturzentrum in Selea, das für seine bunten Wandmalereien bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        43.269507,
-                        -11.733606
-                  ]
-            },
-            {
-                  "name": "Bangwé Stileza",
-                  "text": "Bangwé Stileza dient als lokales Kunstzentrum für die Gemeinde Selea.",
-                  "category": "cultural",
-                  "coords": [
-                        43.265762,
-                        -11.735436
-                  ]
-            },
-            {
-                  "name": "Bangwé Boustoine",
-                  "text": "Ein traditionelles Versammlungshaus in Selea mit einem markanten Strohdach.",
-                  "category": "cultural",
-                  "coords": [
-                        43.26537,
-                        -11.733242
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Route du point de départ vers Karthala (380 m)",
-                  "text": "Ez a hely Seleában a Karthala felé vezető út kiindulópontját jelöli.",
-                  "category": "landmark",
-                  "coords": [
-                        43.275659,
-                        -11.724271
-                  ]
-            },
-            {
-                  "name": "Centre Barakat",
-                  "text": "Egy kulturális központ Selea-ban, amely színes falfestményeiről ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        43.269507,
-                        -11.733606
-                  ]
-            },
-            {
-                  "name": "Bangwé Stileza",
-                  "text": "A Bangwé Stileza egy helyi művészeti központ Selea közössége számára.",
-                  "category": "cultural",
-                  "coords": [
-                        43.265762,
-                        -11.735436
-                  ]
-            },
-            {
-                  "name": "Bangwé Boustoine",
-                  "text": "Hagyományos gyülekezőház Selea-ban, feltűnő szalmatetővel.",
-                  "category": "cultural",
-                  "coords": [
-                        43.26537,
-                        -11.733242
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Route du point de départ vers Karthala (380 m)",
-                  "text": "Această locație din Selea marchează punctul de atracție de pornire pentru drumul către Karthala.",
-                  "category": "landmark",
-                  "coords": [
-                        43.275659,
-                        -11.724271
-                  ]
-            },
-            {
-                  "name": "Centre Barakat",
-                  "text": "Un centru cultural în Selea, cunoscut pentru picturile murale colorate.",
-                  "category": "cultural",
-                  "coords": [
-                        43.269507,
-                        -11.733606
-                  ]
-            },
-            {
-                  "name": "Bangwé Stileza",
-                  "text": "Bangwé Stileza servește ca un centru de arte local pentru comunitatea din Selea.",
-                  "category": "cultural",
-                  "coords": [
-                        43.265762,
-                        -11.735436
-                  ]
-            },
-            {
-                  "name": "Bangwé Boustoine",
-                  "text": "O casă tradițională de adunare în Selea, cu un acoperiș de paie distinctiv.",
-                  "category": "cultural",
-                  "coords": [
-                        43.26537,
-                        -11.733242
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Starting Point Road to Karthala (380 m)",
-                  "text": "This location in Selea marks the starting attraction point for the road to Karthala.",
-                  "category": "landmark",
-                  "coords": [
-                        43.275659,
-                        -11.724271
-                  ]
-            },
-            {
-                  "name": "Centre Barakat",
-                  "text": "A cultural centre in Selea known for its colourful murals.",
-                  "category": "cultural",
-                  "coords": [
-                        43.269507,
-                        -11.733606
-                  ]
-            },
-            {
-                  "name": "Bangwé Stileza",
-                  "text": "Bangwé Stileza serves as a local arts centre for the community of Selea.",
-                  "category": "cultural",
-                  "coords": [
-                        43.265762,
-                        -11.735436
-                  ]
-            },
-            {
-                  "name": "Bangwé Boustoine",
-                  "text": "A traditional meeting house in Selea with a distinctive thatched roof.",
-                  "category": "cultural",
-                  "coords": [
-                        43.26537,
-                        -11.733242
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "KM-G",
@@ -2577,50 +2101,10 @@ export const poiExtraComorosCitiesV2: POI[] = [
   },
   {
     id: "vouvouni-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Route du point de départ vers Karthala (380 m)",
-                  "text": "Der Ausgangspunkt für Wanderungen zum aktiven Vulkan Karthala auf 380 m Höhe.",
-                  "category": "landmark",
-                  "coords": [
-                        43.275659,
-                        -11.724271
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Route du point de départ vers Karthala (380 m)",
-                  "text": "A Karthala aktív vulkánhoz vezető túrák kiindulópontja 380 m magasságban.",
-                  "category": "landmark",
-                  "coords": [
-                        43.275659,
-                        -11.724271
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Route du point de départ vers Karthala (380 m)",
-                  "text": "Punctul de plecare pentru drumeții către vulcanul activ Karthala, la 380 m altitudine.",
-                  "category": "landmark",
-                  "coords": [
-                        43.275659,
-                        -11.724271
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Starting Point Road to Karthala (380 m)",
-                  "text": "The starting point for hikes to the active Karthala volcano at 380 m elevation.",
-                  "category": "landmark",
-                  "coords": [
-                        43.275659,
-                        -11.724271
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "KM-G",

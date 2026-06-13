@@ -935,86 +935,10 @@ export const poiExtraChadLandmarksV2: POI[] = [
     }, image: "/poi-images/palais-sultan-abeche-landmarks-v2.webp"},
   {
     id: "mosquee-abeche-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Rond Point Franco-Arabe",
-                  "text": "Dieses Denkmal am französisch-arabischen Kreisverkehr ist ein markanter Orientierungspunkt in mosquee-abeche-landmarks-v2.",
-                  "category": "historical",
-                  "coords": [
-                        20.822685,
-                        13.828191
-                  ]
-            },
-            {
-                  "name": "Monument de la Libération",
-                  "text": "Das Befreiungsdenkmal erinnert an wichtige historische Ereignisse in mosquee-abeche-landmarks-v2.",
-                  "category": "historical",
-                  "coords": [
-                        20.825282,
-                        13.828672
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Rond Point Franco-Arabe",
-                  "text": "Ez a francia-arab körforgalomnál lévő emlékmű egy feltűnő tájékozódási pont mosquee-abeche-landmarks-v2-ben.",
-                  "category": "historical",
-                  "coords": [
-                        20.822685,
-                        13.828191
-                  ]
-            },
-            {
-                  "name": "Monument de la Libération",
-                  "text": "A Felszabadulási emlékmű fontos történelmi eseményeknek állít emléket mosquee-abeche-landmarks-v2-ben.",
-                  "category": "historical",
-                  "coords": [
-                        20.825282,
-                        13.828672
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Rond Point Franco-Arabe",
-                  "text": "Acest monument din sensul giratoriu franco-arab este un punct de reper proeminent în mosquee-abeche-landmarks-v2.",
-                  "category": "historical",
-                  "coords": [
-                        20.822685,
-                        13.828191
-                  ]
-            },
-            {
-                  "name": "Monument de la Libération",
-                  "text": "Monumentul Eliberării comemorează evenimente istorice importante din mosquee-abeche-landmarks-v2.",
-                  "category": "historical",
-                  "coords": [
-                        20.825282,
-                        13.828672
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Rond Point Franco-Arabe",
-                  "text": "This monument at the Franco-Arab roundabout is a striking landmark in mosquee-abeche-landmarks-v2.",
-                  "category": "historical",
-                  "coords": [
-                        20.822685,
-                        13.828191
-                  ]
-            },
-            {
-                  "name": "Monument de la Libération",
-                  "text": "The Monument of Liberation commemorates important historical events in mosquee-abeche-landmarks-v2.",
-                  "category": "historical",
-                  "coords": [
-                        20.825282,
-                        13.828672
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "landmark",
     parent: "TD-OD",
@@ -1067,15 +991,6 @@ export const poiExtraChadLandmarksV2: POI[] = [
     id: "palais-gouverneur-faya-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Stade municipal Hussein Habre",
-                  "text": "Das städtische Stadion Hussein Habre ist ein lokaler Veranstaltungsort in palais-gouverneur-faya-landmarks-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        19.095935,
-                        17.918578
-                  ]
-            },
-            {
                   "name": "Rond point",
                   "text": "Dieses Kreisverkehr-Denkmal markiert einen Verkehrsknotenpunkt in palais-gouverneur-faya-landmarks-v2.",
                   "category": "historical",
@@ -1095,15 +1010,6 @@ export const poiExtraChadLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Stade municipal Hussein Habre",
-                  "text": "A Hussein Habre városi stadion egy helyi rendezvényközpont palais-gouverneur-faya-landmarks-v2-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        19.095935,
-                        17.918578
-                  ]
-            },
             {
                   "name": "Rond point",
                   "text": "Ez a körforgalmi emlékmű egy közlekedési csomópontot jelöl palais-gouverneur-faya-landmarks-v2-ben.",
@@ -1125,15 +1031,6 @@ export const poiExtraChadLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Stade municipal Hussein Habre",
-                  "text": "Stadionul municipal Hussein Habre este un spațiu de evenimente local din palais-gouverneur-faya-landmarks-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        19.095935,
-                        17.918578
-                  ]
-            },
-            {
                   "name": "Rond point",
                   "text": "Acest monument în sens giratoriu marchează o intersecție în palais-gouverneur-faya-landmarks-v2.",
                   "category": "historical",
@@ -1153,15 +1050,6 @@ export const poiExtraChadLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Stade municipal Hussein Habre",
-                  "text": "The municipal stadium Hussein Habre is a local event space in palais-gouverneur-faya-landmarks-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        19.095935,
-                        17.918578
-                  ]
-            },
             {
                   "name": "Rond point",
                   "text": "This roundabout monument marks a traffic intersection in palais-gouverneur-faya-landmarks-v2.",
@@ -1278,50 +1166,10 @@ export const poiExtraChadLandmarksV2: POI[] = [
     }, image: "/poi-images/cathedrale-moundou-landmarks-v2.webp"},
   {
     id: "cathedrale-sarh-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Ruine of the house of François Tombalbaye",
-                  "text": "Diese historischen Ruinen bildeten einst die Residenz von François Tombalbaye, dem ersten Präsidenten des Tschad, und bieten einen Einblick in die postkoloniale Geschichte der Nation.",
-                  "category": "landmark",
-                  "coords": [
-                        18.387879,
-                        9.1395
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Ruine of the house of François Tombalbaye",
-                  "text": "Ezek a történelmi romok egykor François Tombalbaye, Csád első elnökének rezidenciáját alkották, bepillantást engedve a nemzet posztkoloniális történetébe.",
-                  "category": "landmark",
-                  "coords": [
-                        18.387879,
-                        9.1395
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Ruine of the house of François Tombalbaye",
-                  "text": "Aceste ruine istorice au format odinioară reședința lui François Tombalbaye, primul președinte al Ciadului, oferind o privire asupra istoriei post-coloniale a națiunii.",
-                  "category": "landmark",
-                  "coords": [
-                        18.387879,
-                        9.1395
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ruine of the house of François Tombalbaye",
-                  "text": "These historical ruins once formed the residence of François Tombalbaye, the first President of Chad, offering a glimpse into the nation's post-colonial history.",
-                  "category": "landmark",
-                  "coords": [
-                        18.387879,
-                        9.1395
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "landmark",
     parent: "TD-MC",

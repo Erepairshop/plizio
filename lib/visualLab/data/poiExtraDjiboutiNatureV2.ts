@@ -3661,24 +3661,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
                         42.844722,
                         11.426944
                   ]
-            },
-            {
-                  "name": "Kalâloho",
-                  "text": "Der Kalâloho ist ein abgelegener Berggipfel in der artenreichen Natur um den Fluss Wea.",
-                  "category": "natural",
-                  "coords": [
-                        42.848056,
-                        11.476111
-                  ]
-            },
-            {
-                  "name": "letters",
-                  "text": "Die Touristenattraktion \"letters\" ist eine großformatige Beschilderung in der Nähe des Wea-Flusses.",
-                  "category": "landmark",
-                  "coords": [
-                        42.828923,
-                        11.48269
-                  ]
             }
       ],
       "hu": [
@@ -3734,24 +3716,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
                   "coords": [
                         42.844722,
                         11.426944
-                  ]
-            },
-            {
-                  "name": "Kalâloho",
-                  "text": "A Kalâloho egy félreeső hegycsúcs a Wea-folyó körüli gazdag természeti környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        42.848056,
-                        11.476111
-                  ]
-            },
-            {
-                  "name": "letters",
-                  "text": "A \"letters\" nevű látványosság egy nagybetűs felirat a Wea-folyó közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        42.828923,
-                        11.48269
                   ]
             }
       ],
@@ -3809,24 +3773,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
                         42.844722,
                         11.426944
                   ]
-            },
-            {
-                  "name": "Kalâloho",
-                  "text": "Kalâloho este un vârf montan izolat în mediul natural bogat din jurul râului Wea.",
-                  "category": "natural",
-                  "coords": [
-                        42.848056,
-                        11.476111
-                  ]
-            },
-            {
-                  "name": "letters",
-                  "text": "Atracția turistică „letters” este un semn de mari dimensiuni situat în apropierea râului Wea.",
-                  "category": "landmark",
-                  "coords": [
-                        42.828923,
-                        11.48269
-                  ]
             }
       ],
       "en": [
@@ -3882,24 +3828,6 @@ export const poiExtraDjiboutiNatureV2: POI[] = [
                   "coords": [
                         42.844722,
                         11.426944
-                  ]
-            },
-            {
-                  "name": "Kalâloho",
-                  "text": "Kalâloho is a remote mountain peak set in the diverse natural environment around the Wea River.",
-                  "category": "natural",
-                  "coords": [
-                        42.848056,
-                        11.476111
-                  ]
-            },
-            {
-                  "name": "letters",
-                  "text": "The \"letters\" attraction features a large-scale sign set against the natural backdrop of the Wea River.",
-                  "category": "landmark",
-                  "coords": [
-                        42.828923,
-                        11.48269
                   ]
             }
       ]

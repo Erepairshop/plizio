@@ -2843,15 +2843,6 @@ imageHint: "Panoramic view of the Eisch valley",
                   ]
             },
             {
-                  "name": "Burg Stolzemburg",
-                  "text": "Eine historische Burgruine in Stolzemburg, die über dem Ourtal thront.",
-                  "category": "castle",
-                  "coords": [
-                        6.166141,
-                        49.965782
-                  ]
-            },
-            {
                   "name": "Schloss Roth",
                   "text": "Schloss Roth ist ein Renaissanceschloss mit einem runden Turm im Moseltal bei Mont St Nicolas.",
                   "category": "castle",
@@ -2888,15 +2879,6 @@ imageHint: "Panoramic view of the Eisch valley",
                   ]
             },
             {
-                  "name": "Museum Kupfermine Stolzemburg",
-                  "text": "Ein Museum, das die Geschichte des Kupferbergbaus in der Region Stolzemburg zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        6.167867,
-                        49.964287
-                  ]
-            },
-            {
                   "name": "Piscine de Vianden",
                   "text": "Ein beheiztes Freibad mit Rutschen in der Nähe von Vianden.",
                   "category": "recreational",
@@ -2923,15 +2905,6 @@ imageHint: "Panoramic view of the Eisch valley",
                   "coords": [
                         6.195155,
                         49.969938
-                  ]
-            },
-            {
-                  "name": "Buerg Stolzebuerg",
-                  "text": "Történelmi várrom Stolzemburgban, amely az Our-völgy fölé magasodik.",
-                  "category": "castle",
-                  "coords": [
-                        6.166141,
-                        49.965782
                   ]
             },
             {
@@ -2971,15 +2944,6 @@ imageHint: "Panoramic view of the Eisch valley",
                   ]
             },
             {
-                  "name": "Musée Koffergrouf Stolzembourg",
-                  "text": "Múzeum, amely a stolzemburgi régió rézbányászatának történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        6.167867,
-                        49.964287
-                  ]
-            },
-            {
                   "name": "Piscine de Vianden",
                   "text": "Fűtött szabadtéri strand csúszdákkal Vianden közelében.",
                   "category": "recreational",
@@ -3006,15 +2970,6 @@ imageHint: "Panoramic view of the Eisch valley",
                   "coords": [
                         6.195155,
                         49.969938
-                  ]
-            },
-            {
-                  "name": "Buerg Stolzebuerg",
-                  "text": "O ruină istorică de castel în Stolzemburg, care domină valea râului Our.",
-                  "category": "castle",
-                  "coords": [
-                        6.166141,
-                        49.965782
                   ]
             },
             {
@@ -3054,15 +3009,6 @@ imageHint: "Panoramic view of the Eisch valley",
                   ]
             },
             {
-                  "name": "Musée Koffergrouf Stolzembourg",
-                  "text": "Un muzeu care prezintă istoria minelor de cupru din regiunea Stolzemburg.",
-                  "category": "museum",
-                  "coords": [
-                        6.167867,
-                        49.964287
-                  ]
-            },
-            {
                   "name": "Piscine de Vianden",
                   "text": "O piscină în aer liber încălzită, cu tobogane, lângă Vianden.",
                   "category": "recreational",
@@ -3089,15 +3035,6 @@ imageHint: "Panoramic view of the Eisch valley",
                   "coords": [
                         6.195155,
                         49.969938
-                  ]
-            },
-            {
-                  "name": "Buerg Stolzebuerg",
-                  "text": "A historical castle ruin in Stolzemburg overlooking the Our valley.",
-                  "category": "castle",
-                  "coords": [
-                        6.166141,
-                        49.965782
                   ]
             },
             {
@@ -3134,15 +3071,6 @@ imageHint: "Panoramic view of the Eisch valley",
                   "coords": [
                         6.204982,
                         49.933453
-                  ]
-            },
-            {
-                  "name": "Museum of the copper mines",
-                  "text": "A museum showcasing the history of copper mining in the Stolzemburg region.",
-                  "category": "museum",
-                  "coords": [
-                        6.167867,
-                        49.964287
                   ]
             },
             {

@@ -519,15 +519,6 @@ export const estoniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Türisalu pank",
-                  "text": "Ein bekannter Aussichtspunkt auf einer Klippe, der einen weiten Blick über das Meer bietet.",
-                  "category": "natural",
-                  "coords": [
-                        24.321861,
-                        59.420488
-                  ]
-            },
-            {
                   "name": "Meremõisa mõisa varemed",
                   "text": "Die Ruinen eines historischen Herrenhauses in der Nähe der estnischen Küste.",
                   "category": "historical",
@@ -581,15 +572,6 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         24.303989,
                         59.373204
-                  ]
-            },
-            {
-                  "name": "Türisalu pank",
-                  "text": "Ismert sziklafal-kilátó, amely tágas kilátást nyújt a tengerre.",
-                  "category": "natural",
-                  "coords": [
-                        24.321861,
-                        59.420488
                   ]
             },
             {
@@ -649,15 +631,6 @@ export const estoniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Türisalu pank",
-                  "text": "Un punct de belvedere cunoscut pe o faleză, oferind o vedere largă asupra mării.",
-                  "category": "natural",
-                  "coords": [
-                        24.321861,
-                        59.420488
-                  ]
-            },
-            {
                   "name": "Meremõisa mõisa varemed",
                   "text": "Ruinele unui conac istoric situat lângă coasta estonă.",
                   "category": "historical",
@@ -711,15 +684,6 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         24.303989,
                         59.373204
-                  ]
-            },
-            {
-                  "name": "Türisalu pank",
-                  "text": "A well-known cliff-top viewpoint offering expansive views over the sea.",
-                  "category": "natural",
-                  "coords": [
-                        24.321861,
-                        59.420488
                   ]
             },
             {
@@ -1527,15 +1491,6 @@ export const estoniaHistoryV2: POI[] = [
     id: "estonia-jaggeri-manor-history-v2", "sights": {
       "de": [
             {
-                  "name": "Jägala linnamägi",
-                  "text": "Eine alte estnische Wallburg an der Mündung des Flusses Jägala.",
-                  "category": "historical",
-                  "coords": [
-                        25.159692,
-                        59.466045
-                  ]
-            },
-            {
                   "name": "Kostivere maastikukaitseala",
                   "text": "Ein Landschaftsschutzgebiet, das für seine Karstformationen bekannt ist.",
                   "category": "natural",
@@ -1545,30 +1500,12 @@ export const estoniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pärnamäe hiis",
-                  "text": "Historischer heiliger Hain in Pärnamäe nahe Gutshof Jaggeri.",
-                  "category": "historical",
-                  "coords": [
-                        25.214805,
-                        59.407319
-                  ]
-            },
-            {
                   "name": "Rebala kivikalmed",
                   "text": "Antike Steinkistengräber im Rebala-Schutzgebiet.",
                   "category": "historical",
                   "coords": [
                         25.134683,
                         59.440108
-                  ]
-            },
-            {
-                  "name": "Jägala juga",
-                  "text": "Einer der höchsten und breitesten natürlichen Wasserfälle in Estland.",
-                  "category": "landmark",
-                  "coords": [
-                        25.178564,
-                        59.449841
                   ]
             },
             {
@@ -1610,15 +1547,6 @@ export const estoniaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Jägala linnamägi",
-                  "text": "Ősi észt földvár a Jägala-folyó torkolatánál.",
-                  "category": "historical",
-                  "coords": [
-                        25.159692,
-                        59.466045
-                  ]
-            },
-            {
                   "name": "Kostivere maastikukaitseala",
                   "text": "Karsztformációiról ismert tájvédelmi körzet.",
                   "category": "natural",
@@ -1628,30 +1556,12 @@ export const estoniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pärnamäe hiis",
-                  "text": "Történelmi szent liget Pärnamäe-ban, a Jaggeri kastély közelében.",
-                  "category": "historical",
-                  "coords": [
-                        25.214805,
-                        59.407319
-                  ]
-            },
-            {
                   "name": "Rebala kivikalmed",
                   "text": "Ősi kőládás sírok a Rebala természetvédelmi területen.",
                   "category": "historical",
                   "coords": [
                         25.134683,
                         59.440108
-                  ]
-            },
-            {
-                  "name": "Jägala juga",
-                  "text": "Észtország egyik legmagasabb és legszélesebb természetes vízesése.",
-                  "category": "landmark",
-                  "coords": [
-                        25.178564,
-                        59.449841
                   ]
             },
             {
@@ -1693,15 +1603,6 @@ export const estoniaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Jägala linnamägi",
-                  "text": "O veche cetate estonă la gura de vărsare a râului Jägala.",
-                  "category": "historical",
-                  "coords": [
-                        25.159692,
-                        59.466045
-                  ]
-            },
-            {
                   "name": "Kostivere maastikukaitseala",
                   "text": "O rezervație naturală cunoscută pentru formațiunile sale carstice.",
                   "category": "natural",
@@ -1711,30 +1612,12 @@ export const estoniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pärnamäe hiis",
-                  "text": "Lunca sacră istorică la Pärnamäe lângă Conacul Jaggeri.",
-                  "category": "historical",
-                  "coords": [
-                        25.214805,
-                        59.407319
-                  ]
-            },
-            {
                   "name": "Rebala kivikalmed",
                   "text": "Morminte antice din piatră în rezervația Rebala.",
                   "category": "historical",
                   "coords": [
                         25.134683,
                         59.440108
-                  ]
-            },
-            {
-                  "name": "Jägala juga",
-                  "text": "Una dintre cele mai înalte și mai late cascade naturale din Estonia.",
-                  "category": "landmark",
-                  "coords": [
-                        25.178564,
-                        59.449841
                   ]
             },
             {
@@ -1776,15 +1659,6 @@ export const estoniaHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Jägala Jõesuu hill fort",
-                  "text": "An ancient Estonian hill fort at the mouth of the Jägala River.",
-                  "category": "historical",
-                  "coords": [
-                        25.159692,
-                        59.466045
-                  ]
-            },
-            {
                   "name": "Kostivere maastikukaitseala",
                   "text": "A landscape protection area known for its karst formations.",
                   "category": "natural",
@@ -1794,30 +1668,12 @@ export const estoniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pärnamäe hiis",
-                  "text": "Historical sacred grove at Pärnamäe near Jaggeri Manor.",
-                  "category": "historical",
-                  "coords": [
-                        25.214805,
-                        59.407319
-                  ]
-            },
-            {
                   "name": "Rebala kivikalmed",
                   "text": "Ancient stone-cist graves in the Rebala heritage reserve.",
                   "category": "historical",
                   "coords": [
                         25.134683,
                         59.440108
-                  ]
-            },
-            {
-                  "name": "Jägala juga",
-                  "text": "One of the highest and widest natural waterfalls in Estonia.",
-                  "category": "landmark",
-                  "coords": [
-                        25.178564,
-                        59.449841
                   ]
             },
             {
@@ -1923,15 +1779,6 @@ export const estoniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Põltsamaa Aleksandrikooli muuseumituba",
-                  "text": "Ein Museumsraum, der der Geschichte der Alexanderschule in Põltsamaa gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        25.980859,
-                        58.631232
-                  ]
-            },
-            {
                   "name": "Uue-Põltsamaa mõisa park",
                   "text": "Der historische Park des Herrenhauses Neu-Pöltsam mit malerischen Wanderwegen.",
                   "category": "park",
@@ -1976,15 +1823,6 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.967489,
                         58.654411
-                  ]
-            },
-            {
-                  "name": "Põltsamaa Aleksandrikooli muuseumituba",
-                  "text": "A põltsamaai Sándor Iskola történetének szentelt múzeumi szoba.",
-                  "category": "museum",
-                  "coords": [
-                        25.980859,
-                        58.631232
                   ]
             },
             {
@@ -2035,15 +1873,6 @@ export const estoniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Põltsamaa Aleksandrikooli muuseumituba",
-                  "text": "O cameră muzeală dedicată istoriei Școlii Alexandru din Põltsamaa.",
-                  "category": "museum",
-                  "coords": [
-                        25.980859,
-                        58.631232
-                  ]
-            },
-            {
                   "name": "Uue-Põltsamaa mõisa park",
                   "text": "Parcul istoric al Conacului Nou din Põltsamaa, cu alei pitorești pentru plimbare.",
                   "category": "park",
@@ -2088,15 +1917,6 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         25.967489,
                         58.654411
-                  ]
-            },
-            {
-                  "name": "Põltsamaa Aleksandrikooli muuseumituba",
-                  "text": "A museum room dedicated to the history of the Alexander School in Põltsamaa.",
-                  "category": "museum",
-                  "coords": [
-                        25.980859,
-                        58.631232
                   ]
             },
             {
@@ -2866,15 +2686,6 @@ export const estoniaHistoryV2: POI[] = [
                         27.312648,
                         57.759922
                   ]
-            },
-            {
-                  "name": "Vastseliina Katariina kirik",
-                  "text": "Eine evangelisch-lutherische Kirche aus dem 18. Jahrhundert in der Nähe der Burgruine.",
-                  "category": "religious",
-                  "coords": [
-                        27.26673,
-                        57.747296
-                  ]
             }
       ],
       "hu": [
@@ -2894,15 +2705,6 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         27.312648,
                         57.759922
-                  ]
-            },
-            {
-                  "name": "Vastseliina Katariina kirik",
-                  "text": "18. századi evangélikus templom a várromok közelében.",
-                  "category": "religious",
-                  "coords": [
-                        27.26673,
-                        57.747296
                   ]
             }
       ],
@@ -2924,15 +2726,6 @@ export const estoniaHistoryV2: POI[] = [
                         27.312648,
                         57.759922
                   ]
-            },
-            {
-                  "name": "Vastseliina Katariina kirik",
-                  "text": "O biserică evanghelică luterană din secolul al XVIII-lea, situată lângă ruinele castelului.",
-                  "category": "religious",
-                  "coords": [
-                        27.26673,
-                        57.747296
-                  ]
             }
       ],
       "en": [
@@ -2952,15 +2745,6 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         27.312648,
                         57.759922
-                  ]
-            },
-            {
-                  "name": "Vastseliina Katariina kirik",
-                  "text": "An 18th-century Evangelical Lutheran church located near the castle ruins.",
-                  "category": "religious",
-                  "coords": [
-                        27.26673,
-                        57.747296
                   ]
             }
       ]
@@ -4146,15 +3930,6 @@ export const estoniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Moldova tulepaak",
-                  "text": "Ein Leuchtfeuer an der estnischen Küste zur Unterstützung der Seeschifffahrt.",
-                  "category": "landmark",
-                  "coords": [
-                        27.05515,
-                        59.432033
-                  ]
-            },
-            {
                   "name": "Tulivee salapiirituseveo muuseum",
                   "text": "Ein Museum, das der Geschichte des Spirituosen-Schmuggels in Estland gewidmet ist.",
                   "category": "museum",
@@ -4181,15 +3956,6 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         27.01299,
                         59.419059
-                  ]
-            },
-            {
-                  "name": "Moldova tulepaak",
-                  "text": "Egy világítótorony az észt tengerparton, amely a hajózást segíti.",
-                  "category": "landmark",
-                  "coords": [
-                        27.05515,
-                        59.432033
                   ]
             },
             {
@@ -4222,15 +3988,6 @@ export const estoniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Moldova tulepaak",
-                  "text": "Un far de pe coasta Estoniei, utilizat pentru asistența navigației maritime.",
-                  "category": "landmark",
-                  "coords": [
-                        27.05515,
-                        59.432033
-                  ]
-            },
-            {
                   "name": "Tulivee salapiirituseveo muuseum",
                   "text": "Un muzeu dedicat istoriei traficului ilegal de băuturi alcoolice din Estonia.",
                   "category": "museum",
@@ -4257,15 +4014,6 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         27.01299,
                         59.419059
-                  ]
-            },
-            {
-                  "name": "Moldova tulepaak",
-                  "text": "A lighthouse beacon on the Estonian coast used for maritime navigation assistance.",
-                  "category": "landmark",
-                  "coords": [
-                        27.05515,
-                        59.432033
                   ]
             },
             {
@@ -4731,33 +4479,6 @@ export const estoniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Padise klooster",
-                  "text": "Ruinen eines bedeutenden Zisterzienserklosters aus dem 13. Jahrhundert in Estland.",
-                  "category": "religious",
-                  "coords": [
-                        24.140723,
-                        59.227607
-                  ]
-            },
-            {
-                  "name": "Padise mõisa peahoone",
-                  "text": "Das historische Haupthaus des ehemaligen Gutshofs von Padise.",
-                  "category": "historical",
-                  "coords": [
-                        24.142301,
-                        59.22792
-                  ]
-            },
-            {
-                  "name": "Padise mõisa viinavabrik",
-                  "text": "Ehemalige Brennerei des Herrenhauses Padise nahe den Klosterruinen.",
-                  "category": "historical",
-                  "coords": [
-                        24.139406,
-                        59.226442
-                  ]
-            },
-            {
                   "name": "Endine Murru vangla",
                   "text": "Ein ehemaliges Gefängnisgelände, das heute als ungewöhnliche Touristenattraktion dient.",
                   "category": "landmark",
@@ -4775,33 +4496,6 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         24.195121,
                         59.22712
-                  ]
-            },
-            {
-                  "name": "Padise klooster",
-                  "text": "Egy jelentős, 13. századi ciszterci kolostor romjai Észtországban.",
-                  "category": "religious",
-                  "coords": [
-                        24.140723,
-                        59.227607
-                  ]
-            },
-            {
-                  "name": "Padise mõisa peahoone",
-                  "text": "A padisei egykori udvarház történelmi főépülete.",
-                  "category": "historical",
-                  "coords": [
-                        24.142301,
-                        59.22792
-                  ]
-            },
-            {
-                  "name": "Padise mõisa viinavabrik",
-                  "text": "A Padise-kastély egykori szeszfőzdéje a kolostorromok mellett.",
-                  "category": "historical",
-                  "coords": [
-                        24.139406,
-                        59.226442
                   ]
             },
             {
@@ -4825,33 +4519,6 @@ export const estoniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Padise klooster",
-                  "text": "Ruinele unei importante mănăstiri cisterciene din secolul al XIII-lea în Estonia.",
-                  "category": "religious",
-                  "coords": [
-                        24.140723,
-                        59.227607
-                  ]
-            },
-            {
-                  "name": "Padise mõisa peahoone",
-                  "text": "Clădirea principală istorică a fostului conac din Padise.",
-                  "category": "historical",
-                  "coords": [
-                        24.142301,
-                        59.22792
-                  ]
-            },
-            {
-                  "name": "Padise mõisa viinavabrik",
-                  "text": "Fosta distilerie a conacului Padise, lângă ruinele mănăstirii.",
-                  "category": "historical",
-                  "coords": [
-                        24.139406,
-                        59.226442
-                  ]
-            },
-            {
                   "name": "Endine Murru vangla",
                   "text": "O fostă incintă a închisorii, care servește astăzi ca o atracție turistică neobișnuită.",
                   "category": "landmark",
@@ -4869,33 +4536,6 @@ export const estoniaHistoryV2: POI[] = [
                   "coords": [
                         24.195121,
                         59.22712
-                  ]
-            },
-            {
-                  "name": "Padise klooster",
-                  "text": "Ruins of a significant 13th-century Cistercian monastery in Estonia.",
-                  "category": "religious",
-                  "coords": [
-                        24.140723,
-                        59.227607
-                  ]
-            },
-            {
-                  "name": "Padise mõisa peahoone",
-                  "text": "The historic main building of the former Padise manor house.",
-                  "category": "historical",
-                  "coords": [
-                        24.142301,
-                        59.22792
-                  ]
-            },
-            {
-                  "name": "Padise mõisa viinavabrik",
-                  "text": "Former distillery of Padise Manor near the monastery ruins.",
-                  "category": "historical",
-                  "coords": [
-                        24.139406,
-                        59.226442
                   ]
             },
             {

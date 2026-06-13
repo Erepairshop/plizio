@@ -430,24 +430,6 @@ imageHint: "Elbasan fortress walls and clock tower",
                   ]
             },
             {
-                  "name": "Rezervuari Zajes",
-                  "text": "Stausee Zajes in Kamez, umgeben von Hügeln.",
-                  "category": "natural",
-                  "coords": [
-                        19.678646,
-                        41.384058
-                  ]
-            },
-            {
-                  "name": "Rezervuari Gjokaj",
-                  "text": "Dieser See in Kamez ist ein friedlicher Ort für Naturbeobachtungen.",
-                  "category": "natural",
-                  "coords": [
-                        19.666909,
-                        41.368037
-                  ]
-            },
-            {
                   "name": "Rezervuari Purrezit",
                   "text": "Ein lokaler Stausee in Kamez, umgeben von ländlicher Landschaft.",
                   "category": "natural",
@@ -472,24 +454,6 @@ imageHint: "Elbasan fortress walls and clock tower",
                   "coords": [
                         19.794808,
                         41.363432
-                  ]
-            },
-            {
-                  "name": "Liqeni Verjonit",
-                  "text": "Dieser See in Kamez besticht durch seine ruhige Lage und natürliche Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        19.772986,
-                        41.454195
-                  ]
-            },
-            {
-                  "name": "Liqeni i Prushit",
-                  "text": "Ein friedlicher Ort am Wasser in Kamez, ideal für eine Pause im Grünen.",
-                  "category": "natural",
-                  "coords": [
-                        19.737585,
-                        41.311271
                   ]
             },
             {
@@ -529,24 +493,6 @@ imageHint: "Elbasan fortress walls and clock tower",
                   ]
             },
             {
-                  "name": "Rezervuari Koni",
-                  "text": "Dieser See in Kamez bietet eine ruhige Atmosphäre abseits der Stadt.",
-                  "category": "natural",
-                  "coords": [
-                        19.685231,
-                        41.388855
-                  ]
-            },
-            {
-                  "name": "Rezervuari Prezes",
-                  "text": "Ein lokales Gewässer bei Kamez, das oft von Spaziergängern besucht wird.",
-                  "category": "natural",
-                  "coords": [
-                        19.676694,
-                        41.409993
-                  ]
-            },
-            {
                   "name": "Golden Crown Resort",
                   "text": "Familienresort in Kamez mit Garten und Freizeitangeboten.",
                   "category": "family",
@@ -564,24 +510,6 @@ imageHint: "Elbasan fortress walls and clock tower",
                   "coords": [
                         19.752692,
                         41.422296
-                  ]
-            },
-            {
-                  "name": "Rezervuari Zajes",
-                  "text": "Zajes víztározó Kamezban, dombokkal körülvéve.",
-                  "category": "natural",
-                  "coords": [
-                        19.678646,
-                        41.384058
-                  ]
-            },
-            {
-                  "name": "Rezervuari Gjokaj",
-                  "text": "Ez a kamezi tó békés hely a természet megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        19.666909,
-                        41.368037
                   ]
             },
             {
@@ -609,24 +537,6 @@ imageHint: "Elbasan fortress walls and clock tower",
                   "coords": [
                         19.794808,
                         41.363432
-                  ]
-            },
-            {
-                  "name": "Liqeni Verjonit",
-                  "text": "Ez a kamezi tó nyugodt fekvésével és természetes környezetével tűnik ki.",
-                  "category": "natural",
-                  "coords": [
-                        19.772986,
-                        41.454195
-                  ]
-            },
-            {
-                  "name": "Liqeni i Prushit",
-                  "text": "Békés vízparti hely Kamezben, ideális egy zöldövezeti pihenőhöz.",
-                  "category": "natural",
-                  "coords": [
-                        19.737585,
-                        41.311271
                   ]
             },
             {
@@ -666,24 +576,6 @@ imageHint: "Elbasan fortress walls and clock tower",
                   ]
             },
             {
-                  "name": "Rezervuari Koni",
-                  "text": "Ez a kamezi tó nyugodt légkört biztosít a városon kívül.",
-                  "category": "natural",
-                  "coords": [
-                        19.685231,
-                        41.388855
-                  ]
-            },
-            {
-                  "name": "Rezervuari Prezes",
-                  "text": "Helyi állóvíz Kamez közelében, amelyet gyakran látogatnak a sétálók.",
-                  "category": "natural",
-                  "coords": [
-                        19.676694,
-                        41.409993
-                  ]
-            },
-            {
                   "name": "Golden Crown Resort",
                   "text": "Családi üdülőhely Kamezban, kerttel és szabadidős lehetőségekkel.",
                   "category": "family",
@@ -701,24 +593,6 @@ imageHint: "Elbasan fortress walls and clock tower",
                   "coords": [
                         19.752692,
                         41.422296
-                  ]
-            },
-            {
-                  "name": "Rezervuari Zajes",
-                  "text": "Rezervorul Zajes din Kamez, înconjurat de dealuri.",
-                  "category": "natural",
-                  "coords": [
-                        19.678646,
-                        41.384058
-                  ]
-            },
-            {
-                  "name": "Rezervuari Gjokaj",
-                  "text": "Acest lac din Kamez este un loc liniștit pentru observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        19.666909,
-                        41.368037
                   ]
             },
             {
@@ -746,24 +620,6 @@ imageHint: "Elbasan fortress walls and clock tower",
                   "coords": [
                         19.794808,
                         41.363432
-                  ]
-            },
-            {
-                  "name": "Liqeni Verjonit",
-                  "text": "Acest lac din Kamez impresionează prin locația sa liniștită și mediul natural.",
-                  "category": "natural",
-                  "coords": [
-                        19.772986,
-                        41.454195
-                  ]
-            },
-            {
-                  "name": "Liqeni i Prushit",
-                  "text": "Un loc liniștit lângă apă în Kamez, ideal pentru o pauză în natură.",
-                  "category": "natural",
-                  "coords": [
-                        19.737585,
-                        41.311271
                   ]
             },
             {
@@ -803,24 +659,6 @@ imageHint: "Elbasan fortress walls and clock tower",
                   ]
             },
             {
-                  "name": "Rezervuari Koni",
-                  "text": "Acest lac din Kamez oferă o atmosferă liniștită în afara orașului.",
-                  "category": "natural",
-                  "coords": [
-                        19.685231,
-                        41.388855
-                  ]
-            },
-            {
-                  "name": "Rezervuari Prezes",
-                  "text": "O apă locală lângă Kamez, vizitată adesea de cei care se plimbă.",
-                  "category": "natural",
-                  "coords": [
-                        19.676694,
-                        41.409993
-                  ]
-            },
-            {
                   "name": "Golden Crown Resort",
                   "text": "Complex familial în Kamez, cu grădină și activități recreative.",
                   "category": "family",
@@ -838,24 +676,6 @@ imageHint: "Elbasan fortress walls and clock tower",
                   "coords": [
                         19.752692,
                         41.422296
-                  ]
-            },
-            {
-                  "name": "Rezervuari Zajes",
-                  "text": "Zajes reservoir in Kamez, surrounded by hills.",
-                  "category": "natural",
-                  "coords": [
-                        19.678646,
-                        41.384058
-                  ]
-            },
-            {
-                  "name": "Rezervuari Gjokaj",
-                  "text": "This lake in Kamez is a peaceful place for nature observations.",
-                  "category": "natural",
-                  "coords": [
-                        19.666909,
-                        41.368037
                   ]
             },
             {
@@ -883,24 +703,6 @@ imageHint: "Elbasan fortress walls and clock tower",
                   "coords": [
                         19.794808,
                         41.363432
-                  ]
-            },
-            {
-                  "name": "Liqeni Verjonit",
-                  "text": "This lake in Kamez stands out for its quiet location and natural surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        19.772986,
-                        41.454195
-                  ]
-            },
-            {
-                  "name": "Liqeni i Prushit",
-                  "text": "A peaceful spot by the water in Kamez, ideal for a break in the greenery.",
-                  "category": "natural",
-                  "coords": [
-                        19.737585,
-                        41.311271
                   ]
             },
             {
@@ -937,24 +739,6 @@ imageHint: "Elbasan fortress walls and clock tower",
                   "coords": [
                         19.750576,
                         41.435527
-                  ]
-            },
-            {
-                  "name": "Rezervuari Koni",
-                  "text": "This lake in Kamez offers a quiet atmosphere outside the city.",
-                  "category": "natural",
-                  "coords": [
-                        19.685231,
-                        41.388855
-                  ]
-            },
-            {
-                  "name": "Rezervuari Prezes",
-                  "text": "A local body of water near Kamez often visited by walkers.",
-                  "category": "natural",
-                  "coords": [
-                        19.676694,
-                        41.409993
                   ]
             },
             {
@@ -1052,15 +836,6 @@ imageHint: "Kamëz city center and boulevard",
                   ]
             },
             {
-                  "name": "Ura Ne Prroin e Lungës",
-                  "text": "Steinbrücke über den Lungë-Bach in Lushnje.",
-                  "category": "landmark",
-                  "coords": [
-                        19.717176,
-                        40.922137
-                  ]
-            },
-            {
                   "name": "rezervuari skilaj",
                   "text": "Ein Reservoir bei Lushnja, das eine ruhige Naturkulisse für Spaziergänge bietet.",
                   "category": "natural",
@@ -1105,15 +880,6 @@ imageHint: "Kamëz city center and boulevard",
                   "coords": [
                         19.706107,
                         40.942284
-                  ]
-            },
-            {
-                  "name": "Ura Ne Prroin e Lungës",
-                  "text": "Kőhíd a Lungë-patakon Lushnjében.",
-                  "category": "landmark",
-                  "coords": [
-                        19.717176,
-                        40.922137
                   ]
             },
             {
@@ -1164,15 +930,6 @@ imageHint: "Kamëz city center and boulevard",
                   ]
             },
             {
-                  "name": "Ura Ne Prroin e Lungës",
-                  "text": "Pod de piatră peste pârâul Lungë în Lushnje.",
-                  "category": "landmark",
-                  "coords": [
-                        19.717176,
-                        40.922137
-                  ]
-            },
-            {
                   "name": "rezervuari skilaj",
                   "text": "Un rezervuar lângă Lushnje, oferind un cadru natural liniștit pentru plimbări.",
                   "category": "natural",
@@ -1217,15 +974,6 @@ imageHint: "Kamëz city center and boulevard",
                   "coords": [
                         19.706107,
                         40.942284
-                  ]
-            },
-            {
-                  "name": "Ura Ne Prroin e Lungës",
-                  "text": "A stone bridge over the Lungë stream in Lushnje.",
-                  "category": "landmark",
-                  "coords": [
-                        19.717176,
-                        40.922137
                   ]
             },
             {
@@ -1339,15 +1087,6 @@ imageHint: "Lushnjë city center and memorial",
                         20.744765,
                         40.912441
                   ]
-            },
-            {
-                  "name": "Ohridsee",
-                  "text": "Ein weitläufiger See bei Pogradec, ideal zum Wandern und Entspannen.",
-                  "category": "natural",
-                  "coords": [
-                        20.718901,
-                        41.037213
-                  ]
             }
       ],
       "hu": [
@@ -1403,15 +1142,6 @@ imageHint: "Lushnjë city center and memorial",
                   "coords": [
                         20.744765,
                         40.912441
-                  ]
-            },
-            {
-                  "name": "Ohridi-tó",
-                  "text": "Kiterjedt tó Pogradec közelében, ideális sétákhoz és pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        20.718901,
-                        41.037213
                   ]
             }
       ],
@@ -1469,15 +1199,6 @@ imageHint: "Lushnjë city center and memorial",
                         20.744765,
                         40.912441
                   ]
-            },
-            {
-                  "name": "Okhridsko Ezero / Liqeni i Ohrit",
-                  "text": "Un lac întins lângă Pogradec, ideal pentru plimbări și relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        20.718901,
-                        41.037213
-                  ]
             }
       ],
       "en": [
@@ -1533,15 +1254,6 @@ imageHint: "Lushnjë city center and memorial",
                   "coords": [
                         20.744765,
                         40.912441
-                  ]
-            },
-            {
-                  "name": "Lake Ohrid",
-                  "text": "An extensive lake near Pogradec, ideal for walking and relaxing.",
-                  "category": "natural",
-                  "coords": [
-                        20.718901,
-                        41.037213
                   ]
             }
       ]
@@ -2172,15 +1884,6 @@ imageHint: "St. Anthony Church on the hill above Laç",
     id: "albania-lezhe-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Arome Deti",
-                  "text": "Familienrestaurant in Lezhe mit Meeresfrüchten und Meerblick.",
-                  "category": "family",
-                  "coords": [
-                        19.602985,
-                        41.787518
-                  ]
-            },
-            {
                   "name": "Kalaja e Lezhës",
                   "text": "Eine historische Festung auf einem Hügel mit Blick auf die Stadt Lezhë.",
                   "category": "castle",
@@ -2236,15 +1939,6 @@ imageHint: "St. Anthony Church on the hill above Laç",
             }
       ],
       "hu": [
-            {
-                  "name": "Arome Deti",
-                  "text": "Családi étterem Lezhában, tengeri ételekkel és tengerre néző kilátással.",
-                  "category": "family",
-                  "coords": [
-                        19.602985,
-                        41.787518
-                  ]
-            },
             {
                   "name": "Kalaja e Lezhës",
                   "text": "Történelmi erőd egy dombtetőn, ahonnan kilátás nyílik Lezhë városára.",
@@ -2302,15 +1996,6 @@ imageHint: "St. Anthony Church on the hill above Laç",
       ],
       "ro": [
             {
-                  "name": "Arome Deti",
-                  "text": "Restaurant familial în Lezhë, cu fructe de mare și vedere la mare.",
-                  "category": "family",
-                  "coords": [
-                        19.602985,
-                        41.787518
-                  ]
-            },
-            {
                   "name": "Kalaja e Lezhës",
                   "text": "O fortăreață istorică situată pe un deal care domină orașul Lezhë.",
                   "category": "castle",
@@ -2366,15 +2051,6 @@ imageHint: "St. Anthony Church on the hill above Laç",
             }
       ],
       "en": [
-            {
-                  "name": "Arome Deti",
-                  "text": "Family seafood restaurant in Lezhe with sea views.",
-                  "category": "family",
-                  "coords": [
-                        19.602985,
-                        41.787518
-                  ]
-            },
             {
                   "name": "Lezhë Castle",
                   "text": "A historic fortress situated on a hilltop overlooking the city of Lezhë.",
@@ -2488,15 +2164,6 @@ imageHint: "Memorial of Skanderbeg in Lezhë",
                   ]
             },
             {
-                  "name": "Kalaja e Irmajt",
-                  "text": "Mittelalterliche Burgruine Irmaj auf einem Hügel bei Kruje.",
-                  "category": "castle",
-                  "coords": [
-                        19.779151,
-                        41.52795
-                  ]
-            },
-            {
                   "name": "Peisazhi i Mbrojtur Kraste-Verjon",
                   "text": "Das geschützte Landschaftsgebiet Kraste-Verjon ist ein Naturschutzgebiet mit malerischer Umgebung nahe Krujë.",
                   "category": "natural",
@@ -2595,15 +2262,6 @@ imageHint: "Memorial of Skanderbeg in Lezhë",
                   "coords": [
                         19.793723,
                         41.506696
-                  ]
-            },
-            {
-                  "name": "Kalaja e Irmajt",
-                  "text": "Irmaj középkori várrom a dombon, Kruja közelében.",
-                  "category": "castle",
-                  "coords": [
-                        19.779151,
-                        41.52795
                   ]
             },
             {
@@ -2708,15 +2366,6 @@ imageHint: "Memorial of Skanderbeg in Lezhë",
                   ]
             },
             {
-                  "name": "Kalaja e Irmajt",
-                  "text": "Ruina castelului medieval Irmaj pe o colină lângă Kruja.",
-                  "category": "castle",
-                  "coords": [
-                        19.779151,
-                        41.52795
-                  ]
-            },
-            {
                   "name": "Peisazhi i Mbrojtur Kraste-Verjon",
                   "text": "Peisajul Protejat Kraste-Verjon este o rezervație naturală care oferă medii pitorești lângă Krujë.",
                   "category": "natural",
@@ -2815,15 +2464,6 @@ imageHint: "Memorial of Skanderbeg in Lezhë",
                   "coords": [
                         19.793723,
                         41.506696
-                  ]
-            },
-            {
-                  "name": "Kalaja e Irmajt",
-                  "text": "Medieval castle ruin of Irmaj on a hill near Kruje.",
-                  "category": "castle",
-                  "coords": [
-                        19.779151,
-                        41.52795
                   ]
             },
             {
@@ -4382,84 +4022,12 @@ imageHint: "Krujë Castle and old bazaar street",
                   ]
             },
             {
-                  "name": "Liqeni i Vores",
-                  "text": "Ein Gewässer bei Shijak, das zu ruhigen Momenten im Freien einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        19.642556,
-                        41.384422
-                  ]
-            },
-            {
-                  "name": "Liqeni i Dunjve",
-                  "text": "Ein kleiner See in der Region Shijak, umgeben von ländlicher Idylle.",
-                  "category": "natural",
-                  "coords": [
-                        19.64098,
-                        41.376179
-                  ]
-            },
-            {
-                  "name": "Liqeni i Rrubjekes",
-                  "text": "Ein ruhig gelegener See bei Shijak, der sich gut für einen kurzen Ausflug eignet.",
-                  "category": "natural",
-                  "coords": [
-                        19.588293,
-                        41.39446
-                  ]
-            },
-            {
-                  "name": "Liqeni i Karreçit",
-                  "text": "Ein See in der Umgebung von Shijak, der Möglichkeiten zur Naturbeobachtung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        19.615548,
-                        41.381958
-                  ]
-            },
-            {
-                  "name": "Liqeni Gerdec",
-                  "text": "Ein See bei Shijak, der eine entspannte Atmosphäre abseits des Trubels bietet.",
-                  "category": "natural",
-                  "coords": [
-                        19.616436,
-                        41.400085
-                  ]
-            },
-            {
                   "name": "Reservari i Rrashbullit",
                   "text": "Ein Reservoir in der Nähe von Shijak, ideal für einen Spaziergang am Wasser.",
                   "category": "natural",
                   "coords": [
                         19.517738,
                         41.323557
-                  ]
-            },
-            {
-                  "name": "Liqeni i Borçës",
-                  "text": "Ein ruhiges Gewässer bei Shijak, das zum Entspannen in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        19.576775,
-                        41.41883
-                  ]
-            },
-            {
-                  "name": "Liqeni i Huqve",
-                  "text": "Ein See in der Region Shijak, der durch seine naturnahe Lage besticht.",
-                  "category": "natural",
-                  "coords": [
-                        19.610228,
-                        41.409333
-                  ]
-            },
-            {
-                  "name": "Selja",
-                  "text": "Ein lokaler See bei Shijak, ideal für eine kurze Auszeit im Grünen.",
-                  "category": "natural",
-                  "coords": [
-                        19.625342,
-                        41.403213
                   ]
             },
             {
@@ -4483,84 +4051,12 @@ imageHint: "Krujë Castle and old bazaar street",
                   ]
             },
             {
-                  "name": "Liqeni i Vores",
-                  "text": "Shijak melletti állóvíz, amely csendes szabadtéri pillanatokra hív.",
-                  "category": "natural",
-                  "coords": [
-                        19.642556,
-                        41.384422
-                  ]
-            },
-            {
-                  "name": "Liqeni i Dunjve",
-                  "text": "Shijak régióbeli kis tó, vidéki idill környezetében.",
-                  "category": "natural",
-                  "coords": [
-                        19.64098,
-                        41.376179
-                  ]
-            },
-            {
-                  "name": "Liqeni i Rrubjekes",
-                  "text": "Csendes fekvésű tó Shijak közelében, amely alkalmas egy rövid kiránduláshoz.",
-                  "category": "natural",
-                  "coords": [
-                        19.588293,
-                        41.39446
-                  ]
-            },
-            {
-                  "name": "Liqeni i Karreçit",
-                  "text": "Shijak környéki tó, amely lehetőséget nyújt a természet megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        19.615548,
-                        41.381958
-                  ]
-            },
-            {
-                  "name": "Liqeni Gerdec",
-                  "text": "Shijak melletti tó, amely pihentető légkört kínál a nyüzsgéstől távol.",
-                  "category": "natural",
-                  "coords": [
-                        19.616436,
-                        41.400085
-                  ]
-            },
-            {
                   "name": "Reservari i Rrashbullit",
                   "text": "Shijak közeli víztározó, ideális egy vízparti sétához.",
                   "category": "natural",
                   "coords": [
                         19.517738,
                         41.323557
-                  ]
-            },
-            {
-                  "name": "Liqeni i Borçës",
-                  "text": "Shijak melletti csendes állóvíz, amely természetközeli kikapcsolódásra hív.",
-                  "category": "natural",
-                  "coords": [
-                        19.576775,
-                        41.41883
-                  ]
-            },
-            {
-                  "name": "Liqeni i Huqve",
-                  "text": "Shijak régióbeli tó, amely természetközeli fekvésével tűnik ki.",
-                  "category": "natural",
-                  "coords": [
-                        19.610228,
-                        41.409333
-                  ]
-            },
-            {
-                  "name": "Selja",
-                  "text": "Helyi tó Shijak közelében, ideális egy rövid zöldövezeti pihenőhöz.",
-                  "category": "natural",
-                  "coords": [
-                        19.625342,
-                        41.403213
                   ]
             },
             {
@@ -4584,84 +4080,12 @@ imageHint: "Krujë Castle and old bazaar street",
                   ]
             },
             {
-                  "name": "Liqeni i Vores",
-                  "text": "Un ochi de apă lângă Shijak, care invită la momente liniștite în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        19.642556,
-                        41.384422
-                  ]
-            },
-            {
-                  "name": "Liqeni i Dunjve",
-                  "text": "Un lac mic în regiunea Shijak, înconjurat de o idilă rurală.",
-                  "category": "natural",
-                  "coords": [
-                        19.64098,
-                        41.376179
-                  ]
-            },
-            {
-                  "name": "Liqeni i Rrubjekes",
-                  "text": "Un lac situat liniștit lângă Shijak, potrivit pentru o scurtă excursie.",
-                  "category": "natural",
-                  "coords": [
-                        19.588293,
-                        41.39446
-                  ]
-            },
-            {
-                  "name": "Liqeni i Karreçit",
-                  "text": "Un lac în împrejurimile localității Shijak, oferind posibilități de observare a naturii.",
-                  "category": "natural",
-                  "coords": [
-                        19.615548,
-                        41.381958
-                  ]
-            },
-            {
-                  "name": "Liqeni Gerdec",
-                  "text": "Un lac lângă Shijak, oferind o atmosferă relaxantă departe de agitație.",
-                  "category": "natural",
-                  "coords": [
-                        19.616436,
-                        41.400085
-                  ]
-            },
-            {
                   "name": "Reservari i Rrashbullit",
                   "text": "Un rezervuar lângă Shijak, ideal pentru o plimbare pe malul apei.",
                   "category": "natural",
                   "coords": [
                         19.517738,
                         41.323557
-                  ]
-            },
-            {
-                  "name": "Liqeni i Borçës",
-                  "text": "Un ochi de apă liniștit lângă Shijak, care invită la relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        19.576775,
-                        41.41883
-                  ]
-            },
-            {
-                  "name": "Liqeni i Huqve",
-                  "text": "Un lac în regiunea Shijak, care impresionează prin locația sa în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        19.610228,
-                        41.409333
-                  ]
-            },
-            {
-                  "name": "Selja",
-                  "text": "Un lac local lângă Shijak, ideal pentru o scurtă pauză în natură.",
-                  "category": "natural",
-                  "coords": [
-                        19.625342,
-                        41.403213
                   ]
             },
             {
@@ -4685,84 +4109,12 @@ imageHint: "Krujë Castle and old bazaar street",
                   ]
             },
             {
-                  "name": "Liqeni i Vores",
-                  "text": "A body of water near Shijak, inviting for quiet moments outdoors.",
-                  "category": "natural",
-                  "coords": [
-                        19.642556,
-                        41.384422
-                  ]
-            },
-            {
-                  "name": "Liqeni i Dunjve",
-                  "text": "A small lake in the Shijak region, surrounded by rural idyll.",
-                  "category": "natural",
-                  "coords": [
-                        19.64098,
-                        41.376179
-                  ]
-            },
-            {
-                  "name": "Liqeni i Rrubjekes",
-                  "text": "A quietly located lake near Shijak, suitable for a short excursion.",
-                  "category": "natural",
-                  "coords": [
-                        19.588293,
-                        41.39446
-                  ]
-            },
-            {
-                  "name": "Liqeni i Karreçit",
-                  "text": "A lake in the surroundings of Shijak, offering opportunities for nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        19.615548,
-                        41.381958
-                  ]
-            },
-            {
-                  "name": "Liqeni Gerdec",
-                  "text": "A lake near Shijak, providing a relaxed atmosphere away from the hustle and bustle.",
-                  "category": "natural",
-                  "coords": [
-                        19.616436,
-                        41.400085
-                  ]
-            },
-            {
                   "name": "Reservari i Rrashbullit",
                   "text": "A reservoir near Shijak, ideal for a walk by the water.",
                   "category": "natural",
                   "coords": [
                         19.517738,
                         41.323557
-                  ]
-            },
-            {
-                  "name": "Liqeni i Borçës",
-                  "text": "A peaceful body of water near Shijak, inviting for relaxation in nature.",
-                  "category": "natural",
-                  "coords": [
-                        19.576775,
-                        41.41883
-                  ]
-            },
-            {
-                  "name": "Liqeni i Huqve",
-                  "text": "A lake in the Shijak region, notable for its natural setting.",
-                  "category": "natural",
-                  "coords": [
-                        19.610228,
-                        41.409333
-                  ]
-            },
-            {
-                  "name": "Selja",
-                  "text": "A local lake near Shijak, ideal for a short break in the countryside.",
-                  "category": "natural",
-                  "coords": [
-                        19.625342,
-                        41.403213
                   ]
             },
             {
@@ -6212,15 +5564,6 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.724194,
                         41.48352
                   ]
-            },
-            {
-                  "name": "Peisazhi i Mbrojtur Kraste-Verjon",
-                  "text": "Ein geschütztes Landschaftsgebiet mit vielfältiger Flora bei Fushe Kruje.",
-                  "category": "natural",
-                  "coords": [
-                        19.776742,
-                        41.484583
-                  ]
             }
       ],
       "hu": [
@@ -6231,15 +5574,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.724194,
                         41.48352
-                  ]
-            },
-            {
-                  "name": "Peisazhi i Mbrojtur Kraste-Verjon",
-                  "text": "Védett tájvédelmi körzet gazdag növényvilággal Fushe Kruje közelében.",
-                  "category": "natural",
-                  "coords": [
-                        19.776742,
-                        41.484583
                   ]
             }
       ],
@@ -6252,15 +5586,6 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.724194,
                         41.48352
                   ]
-            },
-            {
-                  "name": "Peisazhi i Mbrojtur Kraste-Verjon",
-                  "text": "O arie protejată cu floră diversă lângă Fushe Kruje.",
-                  "category": "natural",
-                  "coords": [
-                        19.776742,
-                        41.484583
-                  ]
             }
       ],
       "en": [
@@ -6271,15 +5596,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.724194,
                         41.48352
-                  ]
-            },
-            {
-                  "name": "Kraste-Verjon Protected Landscape",
-                  "text": "A protected landscape area with diverse flora near Fushe Kruje.",
-                  "category": "natural",
-                  "coords": [
-                        19.776742,
-                        41.484583
                   ]
             }
       ]
@@ -8201,24 +7517,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   ]
             },
             {
-                  "name": "Rezervuari Purrezit",
-                  "text": "Ein See in der Region Vore, der eine ruhige Atmosphäre bietet.",
-                  "category": "natural",
-                  "coords": [
-                        19.702479,
-                        41.335392
-                  ]
-            },
-            {
-                  "name": "Rezervuari i Kasharit",
-                  "text": "Das Kashar-Reservoir bei Vore, ein Wasserreservoir.",
-                  "category": "natural",
-                  "coords": [
-                        19.725096,
-                        41.353264
-                  ]
-            },
-            {
                   "name": "Liqeni i Vores",
                   "text": "Der Vore-See, ein kleiner See bei Vore.",
                   "category": "natural",
@@ -8353,24 +7651,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.625773,
                         41.460561
-                  ]
-            },
-            {
-                  "name": "Rezervuari Purrezit",
-                  "text": "Tó Vore régiójában, amely nyugodt hangulatot áraszt.",
-                  "category": "natural",
-                  "coords": [
-                        19.702479,
-                        41.335392
-                  ]
-            },
-            {
-                  "name": "Rezervuari i Kasharit",
-                  "text": "A kashari víztározó Vore mellett.",
-                  "category": "natural",
-                  "coords": [
-                        19.725096,
-                        41.353264
                   ]
             },
             {
@@ -8511,24 +7791,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   ]
             },
             {
-                  "name": "Rezervuari Purrezit",
-                  "text": "Un lac în regiunea Vore, oferind o atmosferă liniștită.",
-                  "category": "natural",
-                  "coords": [
-                        19.702479,
-                        41.335392
-                  ]
-            },
-            {
-                  "name": "Rezervuari i Kasharit",
-                  "text": "Rezervorul Kashar lângă Vore, un lac de acumulare.",
-                  "category": "natural",
-                  "coords": [
-                        19.725096,
-                        41.353264
-                  ]
-            },
-            {
                   "name": "Liqeni i Vores",
                   "text": "Lacul Vore, un mic lac lângă Vore.",
                   "category": "natural",
@@ -8663,24 +7925,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.625773,
                         41.460561
-                  ]
-            },
-            {
-                  "name": "Rezervuari Purrezit",
-                  "text": "A lake in the Vore region, providing a calm atmosphere.",
-                  "category": "natural",
-                  "coords": [
-                        19.702479,
-                        41.335392
-                  ]
-            },
-            {
-                  "name": "Rezervuari i Kasharit",
-                  "text": "The Kashar reservoir near Vore, a water reservoir.",
-                  "category": "natural",
-                  "coords": [
-                        19.725096,
-                        41.353264
                   ]
             },
             {
@@ -8914,24 +8158,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   ]
             },
             {
-                  "name": "Plazhi i Livadhit",
-                  "text": "Livadhi-Strand, ein Kieselstrand bei Himarë.",
-                  "category": "recreational",
-                  "coords": [
-                        19.724829,
-                        40.106854
-                  ]
-            },
-            {
-                  "name": "Plazhi i Akuariumit",
-                  "text": "Aquarium Beach, bekannt für sein klares Wasser bei Himarë.",
-                  "category": "recreational",
-                  "coords": [
-                        19.712141,
-                        40.112925
-                  ]
-            },
-            {
                   "name": "Kisha e Shën Mërisë së Athalit",
                   "text": "Byzantinische Marienkirche in Himarë.",
                   "category": "landmark",
@@ -9030,24 +8256,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.731672,
                         40.117779
-                  ]
-            },
-            {
-                  "name": "Plazhi i Livadhit",
-                  "text": "Livadhi strand, egy kavicsos tengerpart Himarë mellett.",
-                  "category": "recreational",
-                  "coords": [
-                        19.724829,
-                        40.106854
-                  ]
-            },
-            {
-                  "name": "Plazhi i Akuariumit",
-                  "text": "Aquarium Beach, tiszta vizéről ismert strand Himarë közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        19.712141,
-                        40.112925
                   ]
             },
             {
@@ -9152,24 +8360,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   ]
             },
             {
-                  "name": "Plazhi i Livadhit",
-                  "text": "Plaja Livadhi, o plajă cu pietriș lângă Himarë.",
-                  "category": "recreational",
-                  "coords": [
-                        19.724829,
-                        40.106854
-                  ]
-            },
-            {
-                  "name": "Plazhi i Akuariumit",
-                  "text": "Aquarium Beach, plajă cunoscută pentru apele limpezi lângă Himarë.",
-                  "category": "recreational",
-                  "coords": [
-                        19.712141,
-                        40.112925
-                  ]
-            },
-            {
                   "name": "Kisha e Shën Mërisë së Athalit",
                   "text": "Biserică bizantină dedicată Sfintei Maria în Himarë.",
                   "category": "landmark",
@@ -9268,15 +8458,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.731672,
                         40.117779
-                  ]
-            },
-            {
-                  "name": "Plazhi i Livadhit",
-                  "text": "Livadhi beach, a pebble beach near Himarë.",
-                  "category": "recreational",
-                  "coords": [
-                        19.724829,
-                        40.106854
                   ]
             },
             {
@@ -9930,24 +9111,6 @@ imageHint: "Krujë Castle and old bazaar street",
     id: "albania-shengjin-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Plazhi i Shëngjinit",
-                  "text": "Sandstrand an der Adriaküste in Shëngjin.",
-                  "category": "recreational",
-                  "coords": [
-                        19.598806,
-                        41.792941
-                  ]
-            },
-            {
-                  "name": "Arta's beach",
-                  "text": "Ein Küstenabschnitt in Shëngjin, ideal zum Schwimmen und Entspannen.",
-                  "category": "recreational",
-                  "coords": [
-                        19.572348,
-                        41.813473
-                  ]
-            },
-            {
                   "name": "Ilyonis Park",
                   "text": "Ein Küstenpark in Shëngjin mit Promenaden und Blick auf die Adria.",
                   "category": "recreational",
@@ -9964,45 +9127,9 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.587861,
                         41.832762
                   ]
-            },
-            {
-                  "name": "Rrënoja",
-                  "text": "Ruinen einer antiken Siedlung auf einem Hügel über der Bucht von Shëngjin.",
-                  "category": "historical",
-                  "coords": [
-                        19.620895,
-                        41.800654
-                  ]
-            },
-            {
-                  "name": "Arome Deti",
-                  "text": "Ein Badeort mit Strandbar und Liegestühlen an der Küste von Shëngjin.",
-                  "category": "recreational",
-                  "coords": [
-                        19.60296,
-                        41.787518
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Plazhi i Shëngjinit",
-                  "text": "Homokos strand az Adriai-tenger partján Shëngjinben.",
-                  "category": "recreational",
-                  "coords": [
-                        19.598806,
-                        41.792941
-                  ]
-            },
-            {
-                  "name": "Arta's beach",
-                  "text": "Tengerparti szakasz Shëngjinben, amely ideális úszásra és pihenésre.",
-                  "category": "recreational",
-                  "coords": [
-                        19.572348,
-                        41.813473
-                  ]
-            },
             {
                   "name": "Ilyonis Park",
                   "text": "Tengerparti park Shëngjinben sétányokkal és az Adriai-tengerre nyíló kilátással.",
@@ -10020,45 +9147,9 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.587861,
                         41.832762
                   ]
-            },
-            {
-                  "name": "Rrënoja",
-                  "text": "Egy ókori település romjai egy dombon, Shëngjin öblére nézve.",
-                  "category": "historical",
-                  "coords": [
-                        19.620895,
-                        41.800654
-                  ]
-            },
-            {
-                  "name": "Arome Deti",
-                  "text": "Tengerparti üdülőhely strandbárral és napozóágyakkal Shëngjin partján.",
-                  "category": "recreational",
-                  "coords": [
-                        19.60296,
-                        41.787518
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Plazhi i Shëngjinit",
-                  "text": "Plajă nisipoasă pe coasta Adriaticii în Shëngjin.",
-                  "category": "recreational",
-                  "coords": [
-                        19.598806,
-                        41.792941
-                  ]
-            },
-            {
-                  "name": "Arta's beach",
-                  "text": "O porțiune de coastă din Shëngjin, ideală pentru înot și relaxare.",
-                  "category": "recreational",
-                  "coords": [
-                        19.572348,
-                        41.813473
-                  ]
-            },
             {
                   "name": "Ilyonis Park",
                   "text": "Un parc de coastă în Shëngjin, cu promenade și vedere la Marea Adriatică.",
@@ -10076,45 +9167,9 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.587861,
                         41.832762
                   ]
-            },
-            {
-                  "name": "Rrënoja",
-                  "text": "Ruinele unei așezări antice pe un deal deasupra golfului Shëngjin.",
-                  "category": "historical",
-                  "coords": [
-                        19.620895,
-                        41.800654
-                  ]
-            },
-            {
-                  "name": "Arome Deti",
-                  "text": "Un loc de agrement pe malul mării cu bar de plajă și șezlonguri în Shëngjin.",
-                  "category": "recreational",
-                  "coords": [
-                        19.60296,
-                        41.787518
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Shëngjin Beach",
-                  "text": "Sandy beach on the Adriatic coast in Shëngjin.",
-                  "category": "recreational",
-                  "coords": [
-                        19.598806,
-                        41.792941
-                  ]
-            },
-            {
-                  "name": "Arta's beach",
-                  "text": "A coastal stretch in Shëngjin ideal for swimming and relaxation.",
-                  "category": "recreational",
-                  "coords": [
-                        19.572348,
-                        41.813473
-                  ]
-            },
             {
                   "name": "Ilyonis Park",
                   "text": "A coastal park in Shëngjin with promenades and views of the Adriatic.",
@@ -10131,24 +9186,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.587861,
                         41.832762
-                  ]
-            },
-            {
-                  "name": "Rrënoja",
-                  "text": "Ruins of an ancient settlement on a hill overlooking Shëngjin Bay.",
-                  "category": "historical",
-                  "coords": [
-                        19.620895,
-                        41.800654
-                  ]
-            },
-            {
-                  "name": "Arome Deti",
-                  "text": "A seaside recreational spot with a beach bar and sunbeds along the Shëngjin coast.",
-                  "category": "recreational",
-                  "coords": [
-                        19.60296,
-                        41.787518
                   ]
             }
       ]
@@ -10835,7 +9872,97 @@ imageHint: "Krujë Castle and old bazaar street",
     },
   },
   {
-    id: "albania-prrenjas-cities-v2", "sights": {"de": [{"name": "ish-Miniera e Hekur-Nikelit, Prrenjas", "text": "Die ehemalige Eisen-Nickel-Mine von Prrenjas gilt als Industriedenkmal der Gegend.", "category": "historical", "coords": [20.540767, 41.066918]}, {"name": "Rezervuari i Përrenjasit", "text": "Der Rezervuari i Përrenjasit bietet eine erholsame Umgebung am Wasser.", "category": "natural", "coords": [20.56228, 41.068875]}, {"name": "Ohridsee", "text": "Der Ohridsee bei Prrenjas ist berühmt für sein klares Wasser und die malerische Umgebung.", "category": "natural", "coords": [20.718901, 41.037213]}], "hu": [{"name": "ish-Miniera e Hekur-Nikelit, Prrenjas", "text": "A prrenjasi egykori vas- és nikkelbánya a terület ipari műemléke.", "category": "historical", "coords": [20.540767, 41.066918]}, {"name": "Rezervuari i Përrenjasit", "text": "A Rezervuari i Përrenjasit pihentető környezetet kínál a vízparton.", "category": "natural", "coords": [20.56228, 41.068875]}, {"name": "Ohridi-tó", "text": "A Prrenjas közelében fekvő Ohridi-tó tiszta vizéről és festői környezetéről híres.", "category": "natural", "coords": [20.718901, 41.037213]}], "ro": [{"name": "ish-Miniera e Hekur-Nikelit, Prrenjas", "text": "Fosta mină de fier-nichel din Prrenjas este un monument industrial din zonă.", "category": "historical", "coords": [20.540767, 41.066918]}, {"name": "Rezervuari i Përrenjasit", "text": "Rezervuari i Përrenjasit oferă un cadru relaxant la malul apei.", "category": "natural", "coords": [20.56228, 41.068875]}, {"name": "Okhridsko Ezero / Liqeni i Ohrit", "text": "Lacul Ohrid de lângă Prrenjas este faimos pentru apele sale limpezi și cadrul pitoresc.", "category": "natural", "coords": [20.718901, 41.037213]}], "en": [{"name": "ex-Iron-Nickel Mine of Prrenjas", "text": "The ex-Iron-Nickel Mine of Prrenjas stands as an industrial monument in the area.", "category": "historical", "coords": [20.540767, 41.066918]}, {"name": "Rezervuari i Përrenjasit", "text": "Rezervuari i Përrenjasit offers a relaxing environment by the water.", "category": "natural", "coords": [20.56228, 41.068875]}, {"name": "Lake Ohrid", "text": "Lake Ohrid near Prrenjas is famous for its clear waters and scenic surroundings.", "category": "natural", "coords": [20.718901, 41.037213]}]},
+    id: "albania-prrenjas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ish-Miniera e Hekur-Nikelit, Prrenjas",
+                  "text": "Die ehemalige Eisen-Nickel-Mine von Prrenjas gilt als Industriedenkmal der Gegend.",
+                  "category": "historical",
+                  "coords": [
+                        20.540767,
+                        41.066918
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Përrenjasit",
+                  "text": "Der Rezervuari i Përrenjasit bietet eine erholsame Umgebung am Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        20.56228,
+                        41.068875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ish-Miniera e Hekur-Nikelit, Prrenjas",
+                  "text": "A prrenjasi egykori vas- és nikkelbánya a terület ipari műemléke.",
+                  "category": "historical",
+                  "coords": [
+                        20.540767,
+                        41.066918
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Përrenjasit",
+                  "text": "A Rezervuari i Përrenjasit pihentető környezetet kínál a vízparton.",
+                  "category": "natural",
+                  "coords": [
+                        20.56228,
+                        41.068875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ish-Miniera e Hekur-Nikelit, Prrenjas",
+                  "text": "Fosta mină de fier-nichel din Prrenjas este un monument industrial din zonă.",
+                  "category": "historical",
+                  "coords": [
+                        20.540767,
+                        41.066918
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Përrenjasit",
+                  "text": "Rezervuari i Përrenjasit oferă un cadru relaxant la malul apei.",
+                  "category": "natural",
+                  "coords": [
+                        20.56228,
+                        41.068875
+                  ]
+            },
+            {
+                  "name": "Okhridsko Ezero / Liqeni i Ohrit",
+                  "text": "Lacul Ohrid de lângă Prrenjas este faimos pentru apele sale limpezi și cadrul pitoresc.",
+                  "category": "natural",
+                  "coords": [
+                        20.718901,
+                        41.037213
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ex-Iron-Nickel Mine of Prrenjas",
+                  "text": "The ex-Iron-Nickel Mine of Prrenjas stands as an industrial monument in the area.",
+                  "category": "historical",
+                  "coords": [
+                        20.540767,
+                        41.066918
+                  ]
+            },
+            {
+                  "name": "Rezervuari i Përrenjasit",
+                  "text": "Rezervuari i Përrenjasit offers a relaxing environment by the water.",
+                  "category": "natural",
+                  "coords": [
+                        20.56228,
+                        41.068875
+                  ]
+            }
+      ]
+},
     parent: "AL",
     type: "city",
     name: { de: "Prrenjas", hu: "Prrenjas", ro: "Prrenjas", en: "Prrenjas"},
@@ -12184,15 +11311,6 @@ imageHint: "Krujë Castle and old bazaar street",
     id: "albania-paskuqan-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Muzeu i Forcave të Armatosura",
-                  "text": "Das Museum der albanischen Streitkräfte in Paskuqan präsentiert militärhistorische Ausstellungsstücke.",
-                  "category": "museum",
-                  "coords": [
-                        19.838272,
-                        41.341699
-                  ]
-            },
-            {
                   "name": "Teatro Zonja e Bytinës",
                   "text": "Ein Gemeinschaftstheater namens ‚Zonja e Bytinës‘ mit kulturellen Aufführungen im Vorort Paskuqan.",
                   "category": "cultural",
@@ -12229,15 +11347,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   ]
             },
             {
-                  "name": "Hafiz Ibrahim Dalliu",
-                  "text": "Eine Sehenswürdigkeit in Paskuqan, benannt nach Hafiz Ibrahim Dalliu.",
-                  "category": "landmark",
-                  "coords": [
-                        19.82603,
-                        41.338368
-                  ]
-            },
-            {
                   "name": "Alter Panzer",
                   "text": "Ein ausgemusterter Militärpanzer als historisches Denkmal in einer Grünanlage in Paskuqan.",
                   "category": "landmark",
@@ -12248,15 +11357,6 @@ imageHint: "Krujë Castle and old bazaar street",
             }
       ],
       "hu": [
-            {
-                  "name": "Muzeu i Forcave të Armatosura",
-                  "text": "Az albán fegyveres erők múzeuma Paskuqanban katonai történelmi kiállításokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        19.838272,
-                        41.341699
-                  ]
-            },
             {
                   "name": "Teatro Zonja e Bytinës",
                   "text": "A Zonja e Bytinës közösségi színház kulturális előadásokkal, Paskuqan külvárosában.",
@@ -12294,15 +11394,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   ]
             },
             {
-                  "name": "Hafiz Ibrahim Dalliu",
-                  "text": "Látnivaló Paskuqanban, amelyet Hafiz Ibrahim Dalliu-ról neveztek el.",
-                  "category": "landmark",
-                  "coords": [
-                        19.82603,
-                        41.338368
-                  ]
-            },
-            {
                   "name": "Alter Panzer",
                   "text": "Egy leszerelt harckocsi, történelmi emlékműként kiállítva egy parkban Paskuqanban.",
                   "category": "landmark",
@@ -12313,15 +11404,6 @@ imageHint: "Krujë Castle and old bazaar street",
             }
       ],
       "ro": [
-            {
-                  "name": "Muzeu i Forcave të Armatosura",
-                  "text": "Muzeul Forțelor Armate Albaneze din Paskuqan prezintă exponate de istorie militară.",
-                  "category": "museum",
-                  "coords": [
-                        19.838272,
-                        41.341699
-                  ]
-            },
             {
                   "name": "Teatro Zonja e Bytinës",
                   "text": "Un teatru comunitar numit „Zonja e Bytinës” care oferă spectacole culturale în suburbia Paskuqan.",
@@ -12359,15 +11441,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   ]
             },
             {
-                  "name": "Hafiz Ibrahim Dalliu",
-                  "text": "O atracție în Paskuqan, numită după Hafiz Ibrahim Dalliu.",
-                  "category": "landmark",
-                  "coords": [
-                        19.82603,
-                        41.338368
-                  ]
-            },
-            {
                   "name": "Alter Panzer",
                   "text": "Un tanc militar dezafectat expus ca monument istoric într-un parc din Paskuqan.",
                   "category": "landmark",
@@ -12378,15 +11451,6 @@ imageHint: "Krujë Castle and old bazaar street",
             }
       ],
       "en": [
-            {
-                  "name": "Armed Forces Museum",
-                  "text": "The Museum of the Albanian Armed Forces in Paskuqan displays military historical exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        19.838272,
-                        41.341699
-                  ]
-            },
             {
                   "name": "Teatro Zonja e Bytinës",
                   "text": "A community theater named 'Zonja e Bytinës' offering cultural performances in the suburb of Paskuqan.",
@@ -12421,15 +11485,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.831532,
                         41.351063
-                  ]
-            },
-            {
-                  "name": "Hafiz Ibrahim Dalliu",
-                  "text": "An attraction in Paskuqan named after Hafiz Ibrahim Dalliu.",
-                  "category": "landmark",
-                  "coords": [
-                        19.82603,
-                        41.338368
                   ]
             },
             {
@@ -12598,15 +11653,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   ]
             },
             {
-                  "name": "Kalaja e Zigxhafajt",
-                  "text": "Kalaja e Zigxhafajt ist eine bedeutende archäologische Stätte in der Region Golem.",
-                  "category": "historical",
-                  "coords": [
-                        19.564992,
-                        41.199567
-                  ]
-            },
-            {
                   "name": "AQUAPARK",
                   "text": "AQUAPARK ist ein Wasserpark in der Stadt Golem, der Unterhaltung im Wasser bietet.",
                   "category": "family",
@@ -12714,15 +11760,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.51856,
                         41.244742
-                  ]
-            },
-            {
-                  "name": "Kalaja e Zigxhafajt",
-                  "text": "A Kalaja e Zigxhafajt egy figyelemre méltó régészeti lelőhely Golem régiójában.",
-                  "category": "historical",
-                  "coords": [
-                        19.564992,
-                        41.199567
                   ]
             },
             {
@@ -12836,15 +11873,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   ]
             },
             {
-                  "name": "Kalaja e Zigxhafajt",
-                  "text": "Kalaja e Zigxhafajt este un sit arheologic notabil situat în regiunea Golem.",
-                  "category": "historical",
-                  "coords": [
-                        19.564992,
-                        41.199567
-                  ]
-            },
-            {
                   "name": "AQUAPARK",
                   "text": "AQUAPARK este un parc acvatic care oferă divertisment în orașul Golem.",
                   "category": "family",
@@ -12952,15 +11980,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.51856,
                         41.244742
-                  ]
-            },
-            {
-                  "name": "Kalaja e Zigxhafajt",
-                  "text": "Kalaja e Zigxhafajt is a notable archaeological site located within the region of Golem.",
-                  "category": "historical",
-                  "coords": [
-                        19.564992,
-                        41.199567
                   ]
             },
             {
@@ -14074,24 +13093,6 @@ imageHint: "Krujë Castle and old bazaar street",
     id: "albania-libonik-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Vendbanimi Prehistorik ne Maliq",
-                  "text": "Eine prähistorische Pfahlbausiedlung auf Holzpfählen über dem ehemaligen Maliq-See mit ausgegrabenen Artefakten.",
-                  "category": "historical",
-                  "coords": [
-                        20.711072,
-                        40.711421
-                  ]
-            },
-            {
-                  "name": "Rezervati Natyror i Menaxhuar \"Krastafillak\"",
-                  "text": "Ein geschütztes Naturreservat, das Feuchtgebiete und seltene Pflanzenarten bei Libonik bewahrt.",
-                  "category": "natural",
-                  "coords": [
-                        20.693417,
-                        40.694936
-                  ]
-            },
-            {
                   "name": "Pylli i përzjerë i Maliqit",
                   "text": "Ein Mischwald aus Eichen und Kiefern rund um den Maliq-See, beliebt zum Vogelbeobachten und Wandern.",
                   "category": "natural",
@@ -14099,36 +13100,9 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.731499,
                         40.72433
                   ]
-            },
-            {
-                  "name": "Teatri \"Dhimitër Orgocka\"",
-                  "text": "Ein nach dem Schauspieler Dhimitër Orgocka benanntes Kulturtheater mit Aufführungen in Libonik.",
-                  "category": "cultural",
-                  "coords": [
-                        20.700151,
-                        40.70866
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Vendbanimi Prehistorik ne Maliq",
-                  "text": "Őskori cölöpházas település a hajdani Maliq-tó fölött, feltárt leletekkel.",
-                  "category": "historical",
-                  "coords": [
-                        20.711072,
-                        40.711421
-                  ]
-            },
-            {
-                  "name": "Rezervati Natyror i Menaxhuar \"Krastafillak\"",
-                  "text": "Védett természetvédelmi terület, amely vizes élőhelyeket és ritka növényfajokat őriz Libonik mellett.",
-                  "category": "natural",
-                  "coords": [
-                        20.693417,
-                        40.694936
-                  ]
-            },
             {
                   "name": "Pylli i përzjerë i Maliqit",
                   "text": "Tölgy és fenyő kevert erdő a Maliq-tó körül, népszerű madárlesre és túrázásra.",
@@ -14137,36 +13111,9 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.731499,
                         40.72433
                   ]
-            },
-            {
-                  "name": "Teatri \"Dhimitër Orgocka\"",
-                  "text": "A Dhimitër Orgocka színészről elnevezett kulturális színház, előadásokkal Libonikban.",
-                  "category": "cultural",
-                  "coords": [
-                        20.700151,
-                        40.70866
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Vendbanimi Prehistorik ne Maliq",
-                  "text": "O așezare preistorică pe piloni de lemn deasupra fostului lac Maliq, cu artefacte excavate.",
-                  "category": "historical",
-                  "coords": [
-                        20.711072,
-                        40.711421
-                  ]
-            },
-            {
-                  "name": "Rezervati Natyror i Menaxhuar \"Krastafillak\"",
-                  "text": "O rezervație naturală gestionată care protejează zone umede și specii rare de plante lângă Libonik.",
-                  "category": "natural",
-                  "coords": [
-                        20.693417,
-                        40.694936
-                  ]
-            },
             {
                   "name": "Pylli i përzjerë i Maliqit",
                   "text": "O pădure mixtă de stejar și pin în jurul lacului Maliq, populară pentru observarea păsărilor și drumeții.",
@@ -14175,36 +13122,9 @@ imageHint: "Krujë Castle and old bazaar street",
                         20.731499,
                         40.72433
                   ]
-            },
-            {
-                  "name": "Teatri \"Dhimitër Orgocka\"",
-                  "text": "Un teatru cultural numit după actorul Dhimitër Orgocka, care găzduiește piese de teatru și concerte în Libonik.",
-                  "category": "cultural",
-                  "coords": [
-                        20.700151,
-                        40.70866
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Prehistoric Settlement Maliq",
-                  "text": "A prehistoric pile-dwelling settlement over the former Lake Maliq, with excavated artifacts.",
-                  "category": "historical",
-                  "coords": [
-                        20.711072,
-                        40.711421
-                  ]
-            },
-            {
-                  "name": "Rezervati Natyror i Menaxhuar \"Krastafillak\"",
-                  "text": "A managed nature reserve protecting wetlands and rare plant species near Libonik.",
-                  "category": "natural",
-                  "coords": [
-                        20.693417,
-                        40.694936
-                  ]
-            },
             {
                   "name": "Pylli i përzjerë i Maliqit",
                   "text": "A mixed forest of oak and pine surrounding Lake Maliq, popular for birdwatching and hiking.",
@@ -14212,15 +13132,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         20.731499,
                         40.72433
-                  ]
-            },
-            {
-                  "name": "Teatri \"Dhimitër Orgocka\"",
-                  "text": "A cultural theater named after actor Dhimitër Orgocka, hosting plays and concerts in Libonik.",
-                  "category": "cultural",
-                  "coords": [
-                        20.700151,
-                        40.70866
                   ]
             }
       ]
@@ -15442,42 +14353,6 @@ imageHint: "Krujë Castle and old bazaar street",
     id: "albania-karbunare-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Shtepia e Kongresit të Lushnjës",
-                  "text": "Das Kongresshaus von Lushnjë in Karbunarë erinnert an ein wichtiges politisches Ereignis der albanischen Geschichte.",
-                  "category": "museum",
-                  "coords": [
-                        19.70806,
-                        40.941468
-                  ]
-            },
-            {
-                  "name": "Muzeu Historik",
-                  "text": "Das Historische Museum in Karbunarë bewahrt Zeugnisse der lokalen Vergangenheit.",
-                  "category": "museum",
-                  "coords": [
-                        19.706615,
-                        40.941302
-                  ]
-            },
-            {
-                  "name": "Kinoteatri \"Vace Zela\"",
-                  "text": "Ein Theater in Karbunarë, das nach der berühmten Sängerin Vaçe Zela benannt wurde.",
-                  "category": "cultural",
-                  "coords": [
-                        19.705791,
-                        40.943469
-                  ]
-            },
-            {
-                  "name": "Statuja e Lirise \"Toka Jone\"",
-                  "text": "Historisches Monument in ländlicher Umgebung bei Karbunare.",
-                  "category": "historical",
-                  "coords": [
-                        19.706107,
-                        40.942284
-                  ]
-            },
-            {
                   "name": "Ura Ne Prroin e Lungës",
                   "text": "Steinbrücke über den Lungë-Bach in Karbunare.",
                   "category": "landmark",
@@ -15488,42 +14363,6 @@ imageHint: "Krujë Castle and old bazaar street",
             }
       ],
       "hu": [
-            {
-                  "name": "Shtepia e Kongresit të Lushnjës",
-                  "text": "A Karbunarë-ban található Lushnjë-i Kongresszusi Ház az albán történelem egy fontos politikai eseményére emlékeztet.",
-                  "category": "museum",
-                  "coords": [
-                        19.70806,
-                        40.941468
-                  ]
-            },
-            {
-                  "name": "Muzeu Historik",
-                  "text": "A Karbunarë-i Történeti Múzeum a helyi múlt emlékeit őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        19.706615,
-                        40.941302
-                  ]
-            },
-            {
-                  "name": "Kinoteatri \"Vace Zela\"",
-                  "text": "Egy színház Karbunarë-ban, amelyet a híres énekesnőről, Vaçe Zela-ról neveztek el.",
-                  "category": "cultural",
-                  "coords": [
-                        19.705791,
-                        40.943469
-                  ]
-            },
-            {
-                  "name": "Statuja e Lirise \"Toka Jone\"",
-                  "text": "Történelmi emlékmű Karbunare vidéki területén.",
-                  "category": "historical",
-                  "coords": [
-                        19.706107,
-                        40.942284
-                  ]
-            },
             {
                   "name": "Ura Ne Prroin e Lungës",
                   "text": "Kőhíd a Lungë-patakon Karbunareban.",
@@ -15536,42 +14375,6 @@ imageHint: "Krujë Castle and old bazaar street",
       ],
       "ro": [
             {
-                  "name": "Shtepia e Kongresit të Lushnjës",
-                  "text": "Casa Congresului din Lushnjë în Karbunarë amintește de un eveniment politic important din istoria Albaniei.",
-                  "category": "museum",
-                  "coords": [
-                        19.70806,
-                        40.941468
-                  ]
-            },
-            {
-                  "name": "Muzeu Historik",
-                  "text": "Muzeul Istoric din Karbunarë păstrează dovezi ale trecutului local.",
-                  "category": "museum",
-                  "coords": [
-                        19.706615,
-                        40.941302
-                  ]
-            },
-            {
-                  "name": "Kinoteatri \"Vace Zela\"",
-                  "text": "Un teatru în Karbunarë, numit după celebra cântăreață Vaçe Zela.",
-                  "category": "cultural",
-                  "coords": [
-                        19.705791,
-                        40.943469
-                  ]
-            },
-            {
-                  "name": "Statuja e Lirise \"Toka Jone\"",
-                  "text": "Monument istoric într-un cadru rural lângă Karbunare.",
-                  "category": "historical",
-                  "coords": [
-                        19.706107,
-                        40.942284
-                  ]
-            },
-            {
                   "name": "Ura Ne Prroin e Lungës",
                   "text": "Pod de piatră peste pârâul Lungë în Karbunare.",
                   "category": "landmark",
@@ -15582,42 +14385,6 @@ imageHint: "Krujë Castle and old bazaar street",
             }
       ],
       "en": [
-            {
-                  "name": "Shtepia e Kongresit të Lushnjës",
-                  "text": "The Congress House of Lushnjë in Karbunarë commemorates an important political event in Albanian history.",
-                  "category": "museum",
-                  "coords": [
-                        19.70806,
-                        40.941468
-                  ]
-            },
-            {
-                  "name": "Muzeu Historik",
-                  "text": "The Historical Museum in Karbunarë preserves testimonies of the local past.",
-                  "category": "museum",
-                  "coords": [
-                        19.706615,
-                        40.941302
-                  ]
-            },
-            {
-                  "name": "Theatre \"Vace Zela\"",
-                  "text": "A theatre in Karbunarë named after the famous singer Vaçe Zela.",
-                  "category": "cultural",
-                  "coords": [
-                        19.705791,
-                        40.943469
-                  ]
-            },
-            {
-                  "name": "Statuja e Lirise \"Toka Jone\"",
-                  "text": "Historical monument in a rural setting near Karbunare.",
-                  "category": "historical",
-                  "coords": [
-                        19.706107,
-                        40.942284
-                  ]
-            },
             {
                   "name": "Ura Ne Prroin e Lungës",
                   "text": "A stone bridge over the Lungë stream in Karbunare.",
@@ -17044,15 +15811,6 @@ imageHint: "Krujë Castle and old bazaar street",
     id: "albania-shkret-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Muzeu Kombëtar Etnografik",
-                  "text": "Museum in einem osmanischen Turmhaus aus dem 19. Jahrhundert.",
-                  "category": "museum",
-                  "coords": [
-                        19.793723,
-                        41.506696
-                  ]
-            },
-            {
                   "name": "Kalaja e Irmajt",
                   "text": "Mittelalterliche Burgruine auf einem Hügel mit Blick auf das Shkret-Tal.",
                   "category": "castle",
@@ -17060,63 +15818,9 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.779151,
                         41.52795
                   ]
-            },
-            {
-                  "name": "Peisazhi i Mbrojtur Kraste-Verjon",
-                  "text": "Geschützte Hügel- und Waldlandschaft bei Shkret.",
-                  "category": "natural",
-                  "coords": [
-                        19.776742,
-                        41.484583
-                  ]
-            },
-            {
-                  "name": "Shpella e Sari Salltikut",
-                  "text": "Natürliche Kalksteinhöhle in den Bergen oberhalb von Shkret.",
-                  "category": "landmark",
-                  "coords": [
-                        19.802136,
-                        41.517444
-                  ]
-            },
-            {
-                  "name": "View Point over City",
-                  "text": "Aussichtspunkt auf einem Hügel mit Panoramablick über Shkret und das Tal.",
-                  "category": "natural",
-                  "coords": [
-                        19.799703,
-                        41.518065
-                  ]
-            },
-            {
-                  "name": "Stonebridge",
-                  "text": "Historische Steinbrücke über einen Bach in Shkret.",
-                  "category": "landmark",
-                  "coords": [
-                        19.792681,
-                        41.506202
-                  ]
-            },
-            {
-                  "name": "Xhamia e Pazarit",
-                  "text": "Bazaar Mosque ist eine anerkannte historische Kultstätte in Shkret.",
-                  "category": "religious",
-                  "coords": [
-                        19.794561,
-                        41.509665
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Muzeu Kombëtar Etnografik",
-                  "text": "Múzeum egy 19. századi oszmán toronyházban.",
-                  "category": "museum",
-                  "coords": [
-                        19.793723,
-                        41.506696
-                  ]
-            },
             {
                   "name": "Kalaja e Irmajt",
                   "text": "Középkori várrom egy dombon, rálátással a Shkret-völgyre.",
@@ -17125,63 +15829,9 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.779151,
                         41.52795
                   ]
-            },
-            {
-                  "name": "Peisazhi i Mbrojtur Kraste-Verjon",
-                  "text": "Védett domb- és erdővidék Shkret mellett.",
-                  "category": "natural",
-                  "coords": [
-                        19.776742,
-                        41.484583
-                  ]
-            },
-            {
-                  "name": "Shpella e Sari Salltikut",
-                  "text": "Természetes mészkőbarlang a Shkret feletti hegyekben.",
-                  "category": "landmark",
-                  "coords": [
-                        19.802136,
-                        41.517444
-                  ]
-            },
-            {
-                  "name": "View Point over City",
-                  "text": "Kilátó egy dombon, panorámás kilátással Shkretre és a völgyre.",
-                  "category": "natural",
-                  "coords": [
-                        19.799703,
-                        41.518065
-                  ]
-            },
-            {
-                  "name": "Stonebridge",
-                  "text": "Történelmi kőhíd egy patak felett Shkretben.",
-                  "category": "landmark",
-                  "coords": [
-                        19.792681,
-                        41.506202
-                  ]
-            },
-            {
-                  "name": "Xhamia e Pazarit",
-                  "text": "A Bazaar Mosque egy elismert történelmi imahely Shkret városában.",
-                  "category": "religious",
-                  "coords": [
-                        19.794561,
-                        41.509665
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Muzeu Kombëtar Etnografik",
-                  "text": "Muzeu găzduit într-o casă-turn otomană din secolul al XIX-lea.",
-                  "category": "museum",
-                  "coords": [
-                        19.793723,
-                        41.506696
-                  ]
-            },
             {
                   "name": "Kalaja e Irmajt",
                   "text": "Ruina unui castel medieval pe un deal cu vedere spre valea Shkret.",
@@ -17190,63 +15840,9 @@ imageHint: "Krujë Castle and old bazaar street",
                         19.779151,
                         41.52795
                   ]
-            },
-            {
-                  "name": "Peisazhi i Mbrojtur Kraste-Verjon",
-                  "text": "Peisaj protejat de dealuri și păduri lângă Shkret.",
-                  "category": "natural",
-                  "coords": [
-                        19.776742,
-                        41.484583
-                  ]
-            },
-            {
-                  "name": "Shpella e Sari Salltikut",
-                  "text": "Peșteră naturală de calcar în munții de deasupra Shkret.",
-                  "category": "landmark",
-                  "coords": [
-                        19.802136,
-                        41.517444
-                  ]
-            },
-            {
-                  "name": "View Point over City",
-                  "text": "Punct de belvedere pe un deal cu vedere panoramică asupra Shkret și a văii.",
-                  "category": "natural",
-                  "coords": [
-                        19.799703,
-                        41.518065
-                  ]
-            },
-            {
-                  "name": "Stonebridge",
-                  "text": "Pod istoric de piatră peste un pârâu în Shkret.",
-                  "category": "landmark",
-                  "coords": [
-                        19.792681,
-                        41.506202
-                  ]
-            },
-            {
-                  "name": "Xhamia e Pazarit",
-                  "text": "Bazaar Mosque este un lăcaș de cult istoric recunoscut situat în Shkret.",
-                  "category": "religious",
-                  "coords": [
-                        19.794561,
-                        41.509665
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "National Ethnographic Museum",
-                  "text": "Museum housed in a 19th-century Ottoman tower house.",
-                  "category": "museum",
-                  "coords": [
-                        19.793723,
-                        41.506696
-                  ]
-            },
             {
                   "name": "Kalaja e Irmajt",
                   "text": "Medieval castle ruin on a hill overlooking Shkret valley.",
@@ -17254,51 +15850,6 @@ imageHint: "Krujë Castle and old bazaar street",
                   "coords": [
                         19.779151,
                         41.52795
-                  ]
-            },
-            {
-                  "name": "Kraste-Verjon Protected Landscape",
-                  "text": "Protected landscape of hills and forests near Shkret.",
-                  "category": "natural",
-                  "coords": [
-                        19.776742,
-                        41.484583
-                  ]
-            },
-            {
-                  "name": "Sari Salltiku's Cave",
-                  "text": "Natural limestone cave in the mountains above Shkret.",
-                  "category": "landmark",
-                  "coords": [
-                        19.802136,
-                        41.517444
-                  ]
-            },
-            {
-                  "name": "View Point over City",
-                  "text": "Viewpoint on a hill with panoramic views of Shkret and the valley.",
-                  "category": "natural",
-                  "coords": [
-                        19.799703,
-                        41.518065
-                  ]
-            },
-            {
-                  "name": "Stonebridge",
-                  "text": "Historic stone bridge over a stream in Shkret.",
-                  "category": "landmark",
-                  "coords": [
-                        19.792681,
-                        41.506202
-                  ]
-            },
-            {
-                  "name": "Bazaar Mosque",
-                  "text": "Bazaar Mosque is a recognized historical place of worship located in Shkret.",
-                  "category": "religious",
-                  "coords": [
-                        19.794561,
-                        41.509665
                   ]
             }
       ]

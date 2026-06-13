@@ -1021,15 +1021,6 @@ export const finlandNatureV2: POI[] = [
                         29.157422,
                         64.194257
                   ]
-            },
-            {
-                  "name": "Hautasaari",
-                  "text": "Eine archäologische Ausgrabungsstätte in der Region Hiidenportti, die für ihre historische und kulturelle Bedeutung bekannt ist.",
-                  "category": "historical",
-                  "coords": [
-                        29.064195,
-                        64.206652
-                  ]
             }
       ],
       "hu": [
@@ -1049,15 +1040,6 @@ export const finlandNatureV2: POI[] = [
                   "coords": [
                         29.157422,
                         64.194257
-                  ]
-            },
-            {
-                  "name": "Hautasaari",
-                  "text": "Régészeti lelőhely a Hiidenportti régióban, amely történelmi és kulturális jelentőségéről ismert.",
-                  "category": "historical",
-                  "coords": [
-                        29.064195,
-                        64.206652
                   ]
             }
       ],
@@ -1079,15 +1061,6 @@ export const finlandNatureV2: POI[] = [
                         29.157422,
                         64.194257
                   ]
-            },
-            {
-                  "name": "Hautasaari",
-                  "text": "Un sit arheologic în regiunea Hiidenportti, cunoscut pentru semnificația sa istorică și culturală.",
-                  "category": "historical",
-                  "coords": [
-                        29.064195,
-                        64.206652
-                  ]
             }
       ],
       "en": [
@@ -1107,15 +1080,6 @@ export const finlandNatureV2: POI[] = [
                   "coords": [
                         29.157422,
                         64.194257
-                  ]
-            },
-            {
-                  "name": "Hautasaari",
-                  "text": "An archaeological site in the Hiidenportti region, known for its historical and cultural significance.",
-                  "category": "historical",
-                  "coords": [
-                        29.064195,
-                        64.206652
                   ]
             }
       ]
@@ -1428,15 +1392,6 @@ export const finlandNatureV2: POI[] = [
     id: "finland-helvetinjarvi-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Helvetinjärven kansallispuisto",
-                  "text": "Ein Nationalpark mit schroffen Landschaften, tiefen Schluchten und unberührten Seen.",
-                  "category": "natural",
-                  "coords": [
-                        23.851209,
-                        62.023167
-                  ]
-            },
-            {
                   "name": "Kantola",
                   "text": "Ein Naturschutzgebiet in der Region Helvetinjärvi.",
                   "category": "natural",
@@ -1474,15 +1429,6 @@ export const finlandNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Helvetinjärven kansallispuisto",
-                  "text": "Nemzeti park meredek sziklákkal, mély szurdokokkal és érintetlen tavakkal.",
-                  "category": "natural",
-                  "coords": [
-                        23.851209,
-                        62.023167
-                  ]
-            },
             {
                   "name": "Kantola",
                   "text": "Természetvédelmi terület a Helvetinjärvi régióban.",
@@ -1522,15 +1468,6 @@ export const finlandNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Helvetinjärven kansallispuisto",
-                  "text": "Un parc național cu peisaje accidentate, chei adânci și lacuri virgine.",
-                  "category": "natural",
-                  "coords": [
-                        23.851209,
-                        62.023167
-                  ]
-            },
-            {
                   "name": "Kantola",
                   "text": "O arie naturală protejată din regiunea Helvetinjärvi.",
                   "category": "natural",
@@ -1568,15 +1505,6 @@ export const finlandNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Helvetinjärvi National Park",
-                  "text": "A national park featuring rugged landscapes, deep gorges, and pristine lakes.",
-                  "category": "natural",
-                  "coords": [
-                        23.851209,
-                        62.023167
-                  ]
-            },
             {
                   "name": "Kantola",
                   "text": "A protected natural area within the Helvetinjärvi region.",

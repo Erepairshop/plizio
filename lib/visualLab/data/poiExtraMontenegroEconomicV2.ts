@@ -24,51 +24,6 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lokvinjska kosa",
-                  "text": "Bergrücken namens Lokvinjska kosa nahe dem Wasserkraftwerk Bistrica in Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.334107,
-                        43.049698
-                  ]
-            },
-            {
-                  "name": "Zabrdska kosa",
-                  "text": "Ein weiterer Gipfel in der Umgebung des Bistrica-Kraftwerks.",
-                  "category": "landmark",
-                  "coords": [
-                        19.337241,
-                        43.064309
-                  ]
-            },
-            {
-                  "name": "Luboder",
-                  "text": "Ein Berg in der Region Bistrica, der Teil der lokalen Gebirgskette ist.",
-                  "category": "landmark",
-                  "coords": [
-                        19.347905,
-                        43.069153
-                  ]
-            },
-            {
-                  "name": "Pažit",
-                  "text": "Ein Gipfel in der Nähe von Bistrica, der Ausblicke auf die umliegende Landschaft bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        19.322605,
-                        43.062176
-                  ]
-            },
-            {
-                  "name": "Kljun",
-                  "text": "Ein lokaler Berggipfel in der Nähe des Bistrica-Wasserkraftwerks.",
-                  "category": "landmark",
-                  "coords": [
-                        19.343142,
-                        43.080941
-                  ]
-            },
-            {
                   "name": "Gradina",
                   "text": "Ein Gipfel in der bergigen Gegend um das Wasserkraftwerk Bistrica.",
                   "category": "landmark",
@@ -95,51 +50,6 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         19.313679,
                         43.035678
-                  ]
-            },
-            {
-                  "name": "Lokvinjska kosa",
-                  "text": "Lokvinjska kosa nevű gerinc a Bistrica vízerőmű közelében, Montenegróban.",
-                  "category": "landmark",
-                  "coords": [
-                        19.334107,
-                        43.049698
-                  ]
-            },
-            {
-                  "name": "Zabrdska kosa",
-                  "text": "Egy újabb hegycsúcs a Bistrica erőmű környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        19.337241,
-                        43.064309
-                  ]
-            },
-            {
-                  "name": "Luboder",
-                  "text": "Hegy a Bistrica régióban, amely a helyi hegylánc része.",
-                  "category": "landmark",
-                  "coords": [
-                        19.347905,
-                        43.069153
-                  ]
-            },
-            {
-                  "name": "Pažit",
-                  "text": "Bistrica közeli csúcs, amely kilátást nyújt a környező tájra.",
-                  "category": "landmark",
-                  "coords": [
-                        19.322605,
-                        43.062176
-                  ]
-            },
-            {
-                  "name": "Kljun",
-                  "text": "Helyi hegycsúcs a Bistrica vízerőmű közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        19.343142,
-                        43.080941
                   ]
             },
             {
@@ -172,51 +82,6 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lokvinjska kosa",
-                  "text": "Creasta numită Lokvinjska kosa lângă hidrocentrala Bistrica din Muntenegru.",
-                  "category": "landmark",
-                  "coords": [
-                        19.334107,
-                        43.049698
-                  ]
-            },
-            {
-                  "name": "Zabrdska kosa",
-                  "text": "Un alt vârf situat în vecinătatea centralei Bistrica.",
-                  "category": "landmark",
-                  "coords": [
-                        19.337241,
-                        43.064309
-                  ]
-            },
-            {
-                  "name": "Luboder",
-                  "text": "Un munte din regiunea Bistrica, care face parte din lanțul muntos local.",
-                  "category": "landmark",
-                  "coords": [
-                        19.347905,
-                        43.069153
-                  ]
-            },
-            {
-                  "name": "Pažit",
-                  "text": "Un vârf de lângă Bistrica, oferind vederi asupra peisajului înconjurător.",
-                  "category": "landmark",
-                  "coords": [
-                        19.322605,
-                        43.062176
-                  ]
-            },
-            {
-                  "name": "Kljun",
-                  "text": "Un vârf muntos local situat lângă hidrocentrala Bistrica.",
-                  "category": "landmark",
-                  "coords": [
-                        19.343142,
-                        43.080941
-                  ]
-            },
-            {
                   "name": "Gradina",
                   "text": "Un vârf în zona muntoasă din jurul hidrocentralei Bistrica.",
                   "category": "landmark",
@@ -243,51 +108,6 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         19.313679,
                         43.035678
-                  ]
-            },
-            {
-                  "name": "Lokvinjska kosa",
-                  "text": "Ridge called Lokvinjska kosa near the Bistrica hydroelectric plant in Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.334107,
-                        43.049698
-                  ]
-            },
-            {
-                  "name": "Zabrdska kosa",
-                  "text": "Another peak located in the vicinity of the Bistrica power plant.",
-                  "category": "landmark",
-                  "coords": [
-                        19.337241,
-                        43.064309
-                  ]
-            },
-            {
-                  "name": "Luboder",
-                  "text": "A mountain in the Bistrica region, forming part of the local range.",
-                  "category": "landmark",
-                  "coords": [
-                        19.347905,
-                        43.069153
-                  ]
-            },
-            {
-                  "name": "Pažit",
-                  "text": "A peak near Bistrica offering views of the surrounding landscape.",
-                  "category": "landmark",
-                  "coords": [
-                        19.322605,
-                        43.062176
-                  ]
-            },
-            {
-                  "name": "Kljun",
-                  "text": "A local mountain peak situated near the Bistrica hydroelectric plant.",
-                  "category": "landmark",
-                  "coords": [
-                        19.343142,
-                        43.080941
                   ]
             },
             {
@@ -348,33 +168,6 @@ export const montenegroEconomicV2: POI[] = [
     id: "montenegro-luka-bar-port-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Letnja scena",
-                  "text": "Eine Sommerbühne in Bar, Montenegro, auf der kulturelle Veranstaltungen unter freiem Himmel stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
-            {
-                  "name": "Plaža Šušanj",
-                  "text": "Ein weitläufiger Kieselstrand in Bar, gesäumt von Pinienwäldern, die natürlichen Schatten bieten.",
-                  "category": "recreational",
-                  "coords": [
-                        19.082675,
-                        42.113588
-                  ]
-            },
-            {
-                  "name": "Crvena plaža",
-                  "text": "Ein malerischer Strand in der Nähe von Bar, bekannt für seine charakteristische rötliche Farbe des Sandes und der Kiesel.",
-                  "category": "recreational",
-                  "coords": [
-                        19.069766,
-                        42.120396
-                  ]
-            },
-            {
                   "name": "Bigovica",
                   "text": "Eine kleine Bucht mit kristallklarem Wasser in der Nähe des Hafens von Bar.",
                   "category": "recreational",
@@ -402,15 +195,6 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Črvanj",
-                  "text": "Ein ruhiger Küstenabschnitt in der Region Bar, ideal zum Schwimmen und Entspannen.",
-                  "category": "recreational",
-                  "coords": [
-                        19.067284,
-                        42.12202
-                  ]
-            },
-            {
                   "name": "Filin Tuz",
                   "text": "Ein Berggipfel über Bar, der einen weiten Blick über die Adria bietet.",
                   "category": "landmark",
@@ -418,63 +202,9 @@ export const montenegroEconomicV2: POI[] = [
                         19.107447,
                         42.066069
                   ]
-            },
-            {
-                  "name": "Bazeni Bartula",
-                  "text": "Öffentliche Badeeinrichtungen in Bar, in der Nähe des Hafengebiets.",
-                  "category": "recreational",
-                  "coords": [
-                        19.141481,
-                        42.083662
-                  ]
-            },
-            {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "Ein Strand im Hafenbereich von Bar.",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
-                  ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "Der Stadtstrand von Bar am Hafen der montenegrinischen Küstenstadt.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Letnja scena",
-                  "text": "Szabadtéri nyári színpad a montenegrói Barban, kulturális rendezvények helyszíne.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
-            {
-                  "name": "Plaža Šušanj",
-                  "text": "Tágas kavicsos strand Barban, amelyet természetes árnyékot adó fenyvesek szegélyeznek.",
-                  "category": "recreational",
-                  "coords": [
-                        19.082675,
-                        42.113588
-                  ]
-            },
-            {
-                  "name": "Crvena plaža",
-                  "text": "Festői strand Bar közelében, amely a homok és a kavicsok jellegzetes vöröses színéről kapta a nevét.",
-                  "category": "recreational",
-                  "coords": [
-                        19.069766,
-                        42.120396
-                  ]
-            },
             {
                   "name": "Bigovica",
                   "text": "Kis öböl kristálytiszta vízzel a bari kikötő szomszédságában.",
@@ -503,15 +233,6 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Črvanj",
-                  "text": "Csendes tengerparti szakasz Bar régiójában, amely kiválóan alkalmas úszásra és pihenésre.",
-                  "category": "recreational",
-                  "coords": [
-                        19.067284,
-                        42.12202
-                  ]
-            },
-            {
                   "name": "Filin Tuz",
                   "text": "Hegycsúcs Bar felett, ahonnan tágas kilátás nyílik az Adriai-tengerre.",
                   "category": "landmark",
@@ -519,63 +240,9 @@ export const montenegroEconomicV2: POI[] = [
                         19.107447,
                         42.066069
                   ]
-            },
-            {
-                  "name": "Bazeni Bartula",
-                  "text": "Nyilvános fürdőhely Barban, a kikötő környékén.",
-                  "category": "recreational",
-                  "coords": [
-                        19.141481,
-                        42.083662
-                  ]
-            },
-            {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "Strand Bar kikötői területén.",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
-                  ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "Bar városi strandja a montenegrói kikötőváros partján.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Letnja scena",
-                  "text": "O scenă de vară în Bar, Muntenegru, unde au loc evenimente culturale în aer liber.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
-            {
-                  "name": "Plaža Šušanj",
-                  "text": "O plajă spațioasă cu pietriș în Bar, mărginită de păduri de pini care oferă umbră naturală.",
-                  "category": "recreational",
-                  "coords": [
-                        19.082675,
-                        42.113588
-                  ]
-            },
-            {
-                  "name": "Crvena plaža",
-                  "text": "O plajă pitorească lângă Bar, cunoscută pentru culoarea roșiatică distinctivă a nisipului și a pietrișului.",
-                  "category": "recreational",
-                  "coords": [
-                        19.069766,
-                        42.120396
-                  ]
-            },
             {
                   "name": "Bigovica",
                   "text": "Un golf mic cu apă cristalină situat în apropierea portului Bar.",
@@ -604,15 +271,6 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Črvanj",
-                  "text": "O porțiune liniștită de coastă în regiunea Bar, ideală pentru înot și relaxare.",
-                  "category": "recreational",
-                  "coords": [
-                        19.067284,
-                        42.12202
-                  ]
-            },
-            {
                   "name": "Filin Tuz",
                   "text": "Un vârf muntos deasupra orașului Bar, oferind o vedere panoramică asupra Mării Adriatice.",
                   "category": "landmark",
@@ -620,63 +278,9 @@ export const montenegroEconomicV2: POI[] = [
                         19.107447,
                         42.066069
                   ]
-            },
-            {
-                  "name": "Bazeni Bartula",
-                  "text": "Facilități publice de scăldat în Bar, în apropierea zonei portuare.",
-                  "category": "recreational",
-                  "coords": [
-                        19.141481,
-                        42.083662
-                  ]
-            },
-            {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "O plajă în zona portului Bar.",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
-                  ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "Plaja orașului Bar, situată lângă portul acestui oraș de coastă.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Letnja scena",
-                  "text": "A summer stage in Bar, Montenegro, used for various open-air cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
-            {
-                  "name": "Plaža Šušanj",
-                  "text": "A spacious pebble beach in Bar, lined with pine forests that provide natural shade.",
-                  "category": "recreational",
-                  "coords": [
-                        19.082675,
-                        42.113588
-                  ]
-            },
-            {
-                  "name": "Crvena plaža",
-                  "text": "A picturesque beach near Bar, known for the distinctive reddish color of its sand and pebbles.",
-                  "category": "recreational",
-                  "coords": [
-                        19.069766,
-                        42.120396
-                  ]
-            },
             {
                   "name": "Bigovica",
                   "text": "A small bay with crystal clear water located near the port of Bar.",
@@ -705,48 +309,12 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Črvanj",
-                  "text": "A quiet coastal stretch in the Bar region, ideal for swimming and relaxation.",
-                  "category": "recreational",
-                  "coords": [
-                        19.067284,
-                        42.12202
-                  ]
-            },
-            {
                   "name": "Filin Tuz",
                   "text": "A mountain peak above Bar, offering panoramic views over the Adriatic Sea.",
                   "category": "landmark",
                   "coords": [
                         19.107447,
                         42.066069
-                  ]
-            },
-            {
-                  "name": "Bazeni Bartula",
-                  "text": "Public bathing facilities in Bar, located near the port area.",
-                  "category": "recreational",
-                  "coords": [
-                        19.141481,
-                        42.083662
-                  ]
-            },
-            {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "A beach in the port area of Bar.",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
-                  ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "The city beach of Bar, located by the port of the Montenegrin coastal town.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
                   ]
             }
       ]
@@ -841,86 +409,10 @@ export const montenegroEconomicV2: POI[] = [
   },
   {
     id: "montenegro-vranjina-fishing-economic-v2", "sights": {
-      "de": [
-            {
-                  "name": "Lesendro",
-                  "text": "Osmanische Festung aus dem 19. Jahrhundert auf einer Insel im Skutarisee.",
-                  "category": "fortress",
-                  "coords": [
-                        19.119716,
-                        42.271593
-                  ]
-            },
-            {
-                  "name": "Manastir Vranjina",
-                  "text": "Serbisch-orthodoxes Kloster auf der Insel Vranjina im Skutarisee.",
-                  "category": "religious",
-                  "coords": [
-                        19.144185,
-                        42.271258
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Lesendro",
-                  "text": "19. századi oszmán erőd egy kis szigeten a Skadari-tóban.",
-                  "category": "fortress",
-                  "coords": [
-                        19.119716,
-                        42.271593
-                  ]
-            },
-            {
-                  "name": "Manastir Vranjina",
-                  "text": "Szerb ortodox kolostor a Vranjina-szigeten, a Shkodrai-tóban.",
-                  "category": "religious",
-                  "coords": [
-                        19.144185,
-                        42.271258
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Lesendro",
-                  "text": "Fortăreață otomană din secolul al XIX-lea pe o insuliță în Lacul Skadar.",
-                  "category": "fortress",
-                  "coords": [
-                        19.119716,
-                        42.271593
-                  ]
-            },
-            {
-                  "name": "Manastir Vranjina",
-                  "text": "O mănăstire ortodoxă sârbă pe insula Vranjina din lacul Skadar.",
-                  "category": "religious",
-                  "coords": [
-                        19.144185,
-                        42.271258
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Lesendro",
-                  "text": "19th-century Ottoman fortress on a small island in Lake Skadar.",
-                  "category": "fortress",
-                  "coords": [
-                        19.119716,
-                        42.271593
-                  ]
-            },
-            {
-                  "name": "Manastir Vranjina",
-                  "text": "A Serbian Orthodox monastery on Vranjina Island in Lake Skadar.",
-                  "category": "religious",
-                  "coords": [
-                        19.144185,
-                        42.271258
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "port",
     parent: "ME",
@@ -1191,7 +683,304 @@ export const montenegroEconomicV2: POI[] = [
     image: "/poi-images/montenegro-piva-hydro-economic-v2.webp",
   },
   {
-    id: "montenegro-velika-plazad-agri-economic-v2", "sights": {"de": [{"name": "MarBuena Beach", "text": "Der MarBuena Strand erstreckt sich malerisch in der ländlichen Region von Ulcinj und bietet weite Flächen für Küstenliebhaber. Dieses reizvolle Fleckchen Erde ist ideal für ausgedehnte Strandtage mit Familie und Freunden. Die sanfte Brise des Mittelmeers sorgt selbst an heißen Sommertagen für eine angenehme Abkühlung.", "category": "recreational", "coords": [19.298393, 41.891141]}, {"name": "Pearl Beach", "text": "Eingebettet in das landwirtschaftliche Umland von Ulcinj, ist Pearl Beach ein charmantes Küstenziel in Montenegro. Die friedliche Strandkulisse lädt zu entspannten Stunden beim Schwimmen und Sonnenbaden ein. Für einen perfekten Strandtag empfiehlt es sich, die eigenen Sonnenliegen und Erfrischungen mitzubringen.", "category": "recreational", "coords": [19.262355, 41.903908]}, {"name": "Otrant Beach", "text": "Der Otrant Strand bietet eine herrliche Lage in der Küstenregion bei Ulcinj und versprüht entspanntes Urlaubsgefühl. Die weite Küstenlandschaft ist ein Anziehungspunkt für Wasserratten und Erholungssuchende gleichermaßen. Ein Spaziergang am späten Nachmittag lässt Besucher die sanfte Meeresbrise besonders gut genießen.", "category": "recreational", "coords": [19.238969, 41.909604]}, {"name": "Velika Plaža - Plazhi i Madh", "text": "Als einer der bekanntesten Küstenabschnitte bei Ulcinj beeindruckt die Velika Plaža mit ihrer enormen Weitläufigkeit. Der endlose Strand bietet reichlich Platz für ausgedehnte Spaziergänge am Uferrand und ausgelassenen Badespaß. Besonders in der warmen Jahreszeit erwacht diese Gegend zu einem lebhaften Treffpunkt für Sonnenanbeter.", "category": "recreational", "coords": [19.287103, 41.888798]}, {"name": "Lido Beach", "text": "Der Lido Beach fügt sich nahtlos in die Weite der Velika Plaža ein und bietet ein wunderbares Stranderlebnis nahe Ulcinj. Badegäste können hier die unbeschwerte Atmosphäre des Mittelmeers genießen und den Sand unter den Füßen spüren. Für einen optimalen Platz am Wasser lohnt es sich, den Tag am Strand rechtzeitig zu beginnen.", "category": "recreational", "coords": [19.242207, 41.909014]}, {"name": "Lopa Davas", "text": "Ein kleiner Tierpark oder Streichelzoo in der Region Ulcinj.", "category": "family", "coords": [19.237519, 41.928057]}, {"name": "Lutovac Amusement Park", "text": "Ein kleiner Vergnügungspark für Familien in der Gegend von Ulcinj.", "category": "family", "coords": [19.239722, 41.915022]}, {"name": "Albatros beach", "text": "Umrahmt von schattenspendenden Pinienwäldern präsentiert sich der Albatros Strand als ein malerischer, felsiger Küstenabschnitt bei Ulcinj. Die natürliche Struktur des Strandes schafft eine faszinierende Kulisse für entspannte Tage am Meer. Besucher finden hier eine idyllische Kombination aus duftender Natur und erfrischendem Mittelmeerwasser.", "category": "recreational", "coords": [19.215013, 41.91869]}, {"name": "Azul Beach Resort", "text": "Der Küstenabschnitt des Azul Beach Resorts bei Ulcinj verbindet den Komfort einer Ferienanlage mit direktem Zugang zum Meer. Hier können Gäste unbeschwerte Stunden am Strand verbringen und in die sanften Wellen eintauchen. Die gepflegte Umgebung ist ideal für Familien und Erholungssuchende, die eine entspannte Urlaubszeit schätzen.", "category": "recreational", "coords": [19.244719, 41.90912]}], "hu": [{"name": "MarBuena Beach", "text": "A MarBuena strand festőien terül el Ulcinj vidéki régiójában, széles tereket kínálva a tengerpart szerelmeseinek. Ez a bájos hely ideális hosszú strandolós napokhoz a családdal és a barátokkal. A Földközi-tenger lágy szellője a forró nyári napokon is kellemes enyhülést nyújt.", "category": "recreational", "coords": [19.298393, 41.891141]}, {"name": "Pearl Beach", "text": "Az Ulcinj mezőgazdasági környezetében megbúvó Pearl Beach egy bájos partmenti úti cél Montenegróban. A békés tengerparti környezet pihentető órákra csábít úszással és napozással. A tökéletes strandoláshoz érdemes saját napozóágyat és frissítőket hozni.", "category": "recreational", "coords": [19.262355, 41.903908]}, {"name": "Otrant Beach", "text": "Az Otrant strand csodálatos helyen fekszik az Ulcinj környéki partvidéken, és nyugodt nyaralási hangulatot áraszt. A hatalmas partmenti táj egyaránt vonzza a víz szerelmeseit és a pihenni vágyókat. Egy késő délutáni séta során a látogatók különösen élvezhetik a lágy tengeri szellőt.", "category": "recreational", "coords": [19.238969, 41.909604]}, {"name": "Velika Plaža - Plazhi i Madh", "text": "Az Ulcinj melletti partvidék egyik leghíresebb szakaszaként a Velika Plaža hatalmas kiterjedésével nyűgöz le. A végtelen strand rengeteg teret kínál a parti sétákhoz és a felhőtlen fürdőzéshez. Különösen a meleg évszakban ez a terület a napimádók nyüzsgő találkozóhelyévé válik.", "category": "recreational", "coords": [19.287103, 41.888798]}, {"name": "Lido Beach", "text": "A Lido Beach zökkenőmentesen illeszkedik a Velika Plaža tágasságába, csodálatos tengerparti élményt nyújtva Ulcinj közelében. A fürdőzők itt élvezhetik a Földközi-tenger gondtalan hangulatát, és érezhetik a homokot a talpuk alatt. A legjobb vízparti helyért érdemes időben elkezdeni a strandolós napot.", "category": "recreational", "coords": [19.242207, 41.909014]}, {"name": "Lopa Davas", "text": "Kisebb állatpark vagy állatsimogató Ulcinj régiójában.", "category": "family", "coords": [19.237519, 41.928057]}, {"name": "Lutovac Amusement Park", "text": "Kisebb vidámpark családok számára Ulcinj környékén.", "category": "family", "coords": [19.239722, 41.915022]}, {"name": "Albatros beach", "text": "Az árnyékos fenyőerdőkkel körülölelt Albatros strand egy festői, sziklás partszakasz Ulcinj közelében. A strand természetes szerkezete lenyűgöző hátteret teremt a tengerparti pihenéshez. A látogatók az illatos természet és a frissítő mediterrán víz idilli kombinációját találják itt.", "category": "recreational", "coords": [19.215013, 41.91869]}, {"name": "Azul Beach Resort", "text": "Az Ulcinj melletti Azul Beach Resort partszakasza ötvözi az üdülőközpont nyújtotta kényelmet a tengerhez való közvetlen hozzáféréssel. A vendégek itt gondtalan órákat tölthetnek a strandon, és belevethetik magukat a lágy hullámokba. A gondozott környezet ideális családok és pihenni vágyók számára, akik értékelik a nyugodt nyaralást.", "category": "recreational", "coords": [19.244719, 41.90912]}], "ro": [{"name": "MarBuena Beach", "text": "Plaja MarBuena se întinde pitoresc în regiunea rurală din Ulcinj, oferind spații largi pentru iubitorii de coastă. Acest loc fermecător este ideal pentru zile lungi de plajă alături de familie și prieteni. Briza blândă a Mării Mediterane oferă o răcorire plăcută chiar și în zilele toride de vară.", "category": "recreational", "coords": [19.298393, 41.891141]}, {"name": "Pearl Beach", "text": "Amplasată în împrejurimile agricole ale orașului Ulcinj, Pearl Beach este o destinație de coastă fermecătoare din Muntenegru. Decorul liniștit al plajei vă invită să petreceți ore de relaxare înotând și făcând plajă. Pentru o zi perfectă la plajă, este recomandat să aduceți propriile șezlonguri și răcoritoare.", "category": "recreational", "coords": [19.262355, 41.903908]}, {"name": "Otrant Beach", "text": "Plaja Otrant are o locație minunată în regiunea de coastă de lângă Ulcinj, emanând o atmosferă relaxată de vacanță. Peisajul vast de coastă este un magnet pentru iubitorii de apă și pentru cei care caută relaxare. O plimbare la sfârșitul după-amiezii le permite vizitatorilor să se bucure de briza mării.", "category": "recreational", "coords": [19.238969, 41.909604]}, {"name": "Velika Plaža - Plazhi i Madh", "text": "Fiind una dintre cele mai renumite porțiuni de coastă de lângă Ulcinj, Velika Plaža impresionează prin vastitatea sa enormă. Plaja nesfârșită oferă mult spațiu pentru plimbări lungi pe țărm și distracție la scăldat. Mai ales în sezonul cald, această zonă devine un punct de întâlnire plin de viață pentru iubitorii de soare.", "category": "recreational", "coords": [19.287103, 41.888798]}, {"name": "Lido Beach", "text": "Lido Beach se integrează perfect în întinderea Velika Plaža, oferind o experiență minunată la plajă lângă Ulcinj. Scăldătorii se pot bucura aici de atmosfera lipsită de griji a Mediteranei și pot simți nisipul sub picioare. Pentru cel mai bun loc la apă, merită să vă începeți ziua de plajă devreme.", "category": "recreational", "coords": [19.242207, 41.909014]}, {"name": "Lopa Davas", "text": "Un mic parc zoologic sau grădină zoologică cu animale de mângâiat în regiunea Ulcinj.", "category": "family", "coords": [19.237519, 41.928057]}, {"name": "Lutovac Amusement Park", "text": "Un mic parc de distracții pentru familii în zona Ulcinj.", "category": "family", "coords": [19.239722, 41.915022]}, {"name": "Albatros beach", "text": "Încadrată de păduri de pini umbroase, plaja Albatros se prezintă ca o porțiune pitorească și stâncoasă de coastă lângă Ulcinj. Structura naturală a plajei creează un fundal fascinant pentru zile de relaxare la malul mării. Vizitatorii vor găsi aici o combinație idilică de natură parfumată și apă răcoritoare mediteraneană.", "category": "recreational", "coords": [19.215013, 41.91869]}, {"name": "Azul Beach Resort", "text": "Porțiunea de coastă a complexului Azul Beach Resort de lângă Ulcinj combină confortul unei stațiuni de vacanță cu acces direct la mare. Aici oaspeții pot petrece ore fără griji pe plajă și se pot scufunda în valurile blânde. Împrejurimile bine îngrijite sunt ideale pentru familiile și cei care caută relaxare într-o vacanță liniștită.", "category": "recreational", "coords": [19.244719, 41.90912]}], "en": [{"name": "MarBuena Beach", "text": "MarBuena Beach stretches picturesquely in the rural region of Ulcinj, offering wide spaces for coastal lovers. This charming spot is ideal for long beach days with family and friends. The gentle breeze of the Mediterranean provides a pleasant cooldown even on hot summer days.", "category": "recreational", "coords": [19.298393, 41.891141]}, {"name": "Pearl Beach", "text": "Nestled in the agricultural surroundings of Ulcinj, Pearl Beach is a charming coastal destination in Montenegro. The peaceful beach setting invites you to spend relaxing hours swimming and sunbathing. For a perfect day at the beach, it is recommended to bring your own sun loungers and refreshments.", "category": "recreational", "coords": [19.262355, 41.903908]}, {"name": "Otrant Beach", "text": "Otrant Beach boasts a wonderful location in the coastal region near Ulcinj, exuding a relaxed holiday vibe. The expansive coastal landscape is a magnet for water lovers and those seeking relaxation alike. A late afternoon stroll allows visitors to fully enjoy the gentle sea breeze.", "category": "recreational", "coords": [19.238969, 41.909604]}, {"name": "Velika Plaža - Plazhi i Madh", "text": "As one of the most famous coastal stretches near Ulcinj, Velika Plaža impresses with its enormous vastness. The endless beach offers plenty of space for long walks along the shoreline and exuberant swimming fun. Especially in the warm season, this area awakens into a lively meeting spot for sun worshipers.", "category": "recreational", "coords": [19.287103, 41.888798]}, {"name": "Lido Beach", "text": "Lido Beach blends seamlessly into the expanse of Velika Plaža, offering a wonderful beach experience near Ulcinj. Bathers can enjoy the carefree atmosphere of the Mediterranean here and feel the sand between their toes. For the best spot by the water, it is well worth starting your beach day early.", "category": "recreational", "coords": [19.242207, 41.909014]}, {"name": "Lopa Davas", "text": "A small animal park or petting zoo in the Ulcinj region.", "category": "family", "coords": [19.237519, 41.928057]}, {"name": "Lutovac Amusement Park", "text": "A small amusement park for families in the Ulcinj area.", "category": "family", "coords": [19.239722, 41.915022]}, {"name": "Albatros beach", "text": "Framed by shady pine forests, Albatros beach presents itself as a picturesque, rocky coastal stretch near Ulcinj. The natural structure of the beach creates a fascinating backdrop for relaxing days by the sea. Visitors will find an idyllic combination of fragrant nature and refreshing Mediterranean water here.", "category": "recreational", "coords": [19.215013, 41.91869]}, {"name": "Azul Beach Resort", "text": "The coastal stretch of the Azul Beach Resort near Ulcinj combines the comfort of a holiday resort with direct access to the sea. Guests can spend carefree hours on the beach here and dive into the gentle waves. The well-kept surroundings are ideal for families and recreation seekers who appreciate a relaxing vacation time.", "category": "recreational", "coords": [19.244719, 41.90912]}]},
+    id: "montenegro-velika-plazad-agri-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "MarBuena Beach",
+                  "text": "Der MarBuena Strand erstreckt sich malerisch in der ländlichen Region von Ulcinj und bietet weite Flächen für Küstenliebhaber. Dieses reizvolle Fleckchen Erde ist ideal für ausgedehnte Strandtage mit Familie und Freunden. Die sanfte Brise des Mittelmeers sorgt selbst an heißen Sommertagen für eine angenehme Abkühlung.",
+                  "category": "recreational",
+                  "coords": [
+                        19.298393,
+                        41.891141
+                  ]
+            },
+            {
+                  "name": "Pearl Beach",
+                  "text": "Eingebettet in das landwirtschaftliche Umland von Ulcinj, ist Pearl Beach ein charmantes Küstenziel in Montenegro. Die friedliche Strandkulisse lädt zu entspannten Stunden beim Schwimmen und Sonnenbaden ein. Für einen perfekten Strandtag empfiehlt es sich, die eigenen Sonnenliegen und Erfrischungen mitzubringen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.262355,
+                        41.903908
+                  ]
+            },
+            {
+                  "name": "Otrant Beach",
+                  "text": "Der Otrant Strand bietet eine herrliche Lage in der Küstenregion bei Ulcinj und versprüht entspanntes Urlaubsgefühl. Die weite Küstenlandschaft ist ein Anziehungspunkt für Wasserratten und Erholungssuchende gleichermaßen. Ein Spaziergang am späten Nachmittag lässt Besucher die sanfte Meeresbrise besonders gut genießen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.238969,
+                        41.909604
+                  ]
+            },
+            {
+                  "name": "Velika Plaža - Plazhi i Madh",
+                  "text": "Als einer der bekanntesten Küstenabschnitte bei Ulcinj beeindruckt die Velika Plaža mit ihrer enormen Weitläufigkeit. Der endlose Strand bietet reichlich Platz für ausgedehnte Spaziergänge am Uferrand und ausgelassenen Badespaß. Besonders in der warmen Jahreszeit erwacht diese Gegend zu einem lebhaften Treffpunkt für Sonnenanbeter.",
+                  "category": "recreational",
+                  "coords": [
+                        19.287103,
+                        41.888798
+                  ]
+            },
+            {
+                  "name": "Lido Beach",
+                  "text": "Der Lido Beach fügt sich nahtlos in die Weite der Velika Plaža ein und bietet ein wunderbares Stranderlebnis nahe Ulcinj. Badegäste können hier die unbeschwerte Atmosphäre des Mittelmeers genießen und den Sand unter den Füßen spüren. Für einen optimalen Platz am Wasser lohnt es sich, den Tag am Strand rechtzeitig zu beginnen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.242207,
+                        41.909014
+                  ]
+            },
+            {
+                  "name": "Lopa Davas",
+                  "text": "Ein kleiner Tierpark oder Streichelzoo in der Region Ulcinj.",
+                  "category": "family",
+                  "coords": [
+                        19.237519,
+                        41.928057
+                  ]
+            },
+            {
+                  "name": "Lutovac Amusement Park",
+                  "text": "Ein kleiner Vergnügungspark für Familien in der Gegend von Ulcinj.",
+                  "category": "family",
+                  "coords": [
+                        19.239722,
+                        41.915022
+                  ]
+            },
+            {
+                  "name": "Azul Beach Resort",
+                  "text": "Der Küstenabschnitt des Azul Beach Resorts bei Ulcinj verbindet den Komfort einer Ferienanlage mit direktem Zugang zum Meer. Hier können Gäste unbeschwerte Stunden am Strand verbringen und in die sanften Wellen eintauchen. Die gepflegte Umgebung ist ideal für Familien und Erholungssuchende, die eine entspannte Urlaubszeit schätzen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.244719,
+                        41.90912
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MarBuena Beach",
+                  "text": "A MarBuena strand festőien terül el Ulcinj vidéki régiójában, széles tereket kínálva a tengerpart szerelmeseinek. Ez a bájos hely ideális hosszú strandolós napokhoz a családdal és a barátokkal. A Földközi-tenger lágy szellője a forró nyári napokon is kellemes enyhülést nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.298393,
+                        41.891141
+                  ]
+            },
+            {
+                  "name": "Pearl Beach",
+                  "text": "Az Ulcinj mezőgazdasági környezetében megbúvó Pearl Beach egy bájos partmenti úti cél Montenegróban. A békés tengerparti környezet pihentető órákra csábít úszással és napozással. A tökéletes strandoláshoz érdemes saját napozóágyat és frissítőket hozni.",
+                  "category": "recreational",
+                  "coords": [
+                        19.262355,
+                        41.903908
+                  ]
+            },
+            {
+                  "name": "Otrant Beach",
+                  "text": "Az Otrant strand csodálatos helyen fekszik az Ulcinj környéki partvidéken, és nyugodt nyaralási hangulatot áraszt. A hatalmas partmenti táj egyaránt vonzza a víz szerelmeseit és a pihenni vágyókat. Egy késő délutáni séta során a látogatók különösen élvezhetik a lágy tengeri szellőt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.238969,
+                        41.909604
+                  ]
+            },
+            {
+                  "name": "Velika Plaža - Plazhi i Madh",
+                  "text": "Az Ulcinj melletti partvidék egyik leghíresebb szakaszaként a Velika Plaža hatalmas kiterjedésével nyűgöz le. A végtelen strand rengeteg teret kínál a parti sétákhoz és a felhőtlen fürdőzéshez. Különösen a meleg évszakban ez a terület a napimádók nyüzsgő találkozóhelyévé válik.",
+                  "category": "recreational",
+                  "coords": [
+                        19.287103,
+                        41.888798
+                  ]
+            },
+            {
+                  "name": "Lido Beach",
+                  "text": "A Lido Beach zökkenőmentesen illeszkedik a Velika Plaža tágasságába, csodálatos tengerparti élményt nyújtva Ulcinj közelében. A fürdőzők itt élvezhetik a Földközi-tenger gondtalan hangulatát, és érezhetik a homokot a talpuk alatt. A legjobb vízparti helyért érdemes időben elkezdeni a strandolós napot.",
+                  "category": "recreational",
+                  "coords": [
+                        19.242207,
+                        41.909014
+                  ]
+            },
+            {
+                  "name": "Lopa Davas",
+                  "text": "Kisebb állatpark vagy állatsimogató Ulcinj régiójában.",
+                  "category": "family",
+                  "coords": [
+                        19.237519,
+                        41.928057
+                  ]
+            },
+            {
+                  "name": "Lutovac Amusement Park",
+                  "text": "Kisebb vidámpark családok számára Ulcinj környékén.",
+                  "category": "family",
+                  "coords": [
+                        19.239722,
+                        41.915022
+                  ]
+            },
+            {
+                  "name": "Azul Beach Resort",
+                  "text": "Az Ulcinj melletti Azul Beach Resort partszakasza ötvözi az üdülőközpont nyújtotta kényelmet a tengerhez való közvetlen hozzáféréssel. A vendégek itt gondtalan órákat tölthetnek a strandon, és belevethetik magukat a lágy hullámokba. A gondozott környezet ideális családok és pihenni vágyók számára, akik értékelik a nyugodt nyaralást.",
+                  "category": "recreational",
+                  "coords": [
+                        19.244719,
+                        41.90912
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MarBuena Beach",
+                  "text": "Plaja MarBuena se întinde pitoresc în regiunea rurală din Ulcinj, oferind spații largi pentru iubitorii de coastă. Acest loc fermecător este ideal pentru zile lungi de plajă alături de familie și prieteni. Briza blândă a Mării Mediterane oferă o răcorire plăcută chiar și în zilele toride de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        19.298393,
+                        41.891141
+                  ]
+            },
+            {
+                  "name": "Pearl Beach",
+                  "text": "Amplasată în împrejurimile agricole ale orașului Ulcinj, Pearl Beach este o destinație de coastă fermecătoare din Muntenegru. Decorul liniștit al plajei vă invită să petreceți ore de relaxare înotând și făcând plajă. Pentru o zi perfectă la plajă, este recomandat să aduceți propriile șezlonguri și răcoritoare.",
+                  "category": "recreational",
+                  "coords": [
+                        19.262355,
+                        41.903908
+                  ]
+            },
+            {
+                  "name": "Otrant Beach",
+                  "text": "Plaja Otrant are o locație minunată în regiunea de coastă de lângă Ulcinj, emanând o atmosferă relaxată de vacanță. Peisajul vast de coastă este un magnet pentru iubitorii de apă și pentru cei care caută relaxare. O plimbare la sfârșitul după-amiezii le permite vizitatorilor să se bucure de briza mării.",
+                  "category": "recreational",
+                  "coords": [
+                        19.238969,
+                        41.909604
+                  ]
+            },
+            {
+                  "name": "Velika Plaža - Plazhi i Madh",
+                  "text": "Fiind una dintre cele mai renumite porțiuni de coastă de lângă Ulcinj, Velika Plaža impresionează prin vastitatea sa enormă. Plaja nesfârșită oferă mult spațiu pentru plimbări lungi pe țărm și distracție la scăldat. Mai ales în sezonul cald, această zonă devine un punct de întâlnire plin de viață pentru iubitorii de soare.",
+                  "category": "recreational",
+                  "coords": [
+                        19.287103,
+                        41.888798
+                  ]
+            },
+            {
+                  "name": "Lido Beach",
+                  "text": "Lido Beach se integrează perfect în întinderea Velika Plaža, oferind o experiență minunată la plajă lângă Ulcinj. Scăldătorii se pot bucura aici de atmosfera lipsită de griji a Mediteranei și pot simți nisipul sub picioare. Pentru cel mai bun loc la apă, merită să vă începeți ziua de plajă devreme.",
+                  "category": "recreational",
+                  "coords": [
+                        19.242207,
+                        41.909014
+                  ]
+            },
+            {
+                  "name": "Lopa Davas",
+                  "text": "Un mic parc zoologic sau grădină zoologică cu animale de mângâiat în regiunea Ulcinj.",
+                  "category": "family",
+                  "coords": [
+                        19.237519,
+                        41.928057
+                  ]
+            },
+            {
+                  "name": "Lutovac Amusement Park",
+                  "text": "Un mic parc de distracții pentru familii în zona Ulcinj.",
+                  "category": "family",
+                  "coords": [
+                        19.239722,
+                        41.915022
+                  ]
+            },
+            {
+                  "name": "Azul Beach Resort",
+                  "text": "Porțiunea de coastă a complexului Azul Beach Resort de lângă Ulcinj combină confortul unei stațiuni de vacanță cu acces direct la mare. Aici oaspeții pot petrece ore fără griji pe plajă și se pot scufunda în valurile blânde. Împrejurimile bine îngrijite sunt ideale pentru familiile și cei care caută relaxare într-o vacanță liniștită.",
+                  "category": "recreational",
+                  "coords": [
+                        19.244719,
+                        41.90912
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MarBuena Beach",
+                  "text": "MarBuena Beach stretches picturesquely in the rural region of Ulcinj, offering wide spaces for coastal lovers. This charming spot is ideal for long beach days with family and friends. The gentle breeze of the Mediterranean provides a pleasant cooldown even on hot summer days.",
+                  "category": "recreational",
+                  "coords": [
+                        19.298393,
+                        41.891141
+                  ]
+            },
+            {
+                  "name": "Pearl Beach",
+                  "text": "Nestled in the agricultural surroundings of Ulcinj, Pearl Beach is a charming coastal destination in Montenegro. The peaceful beach setting invites you to spend relaxing hours swimming and sunbathing. For a perfect day at the beach, it is recommended to bring your own sun loungers and refreshments.",
+                  "category": "recreational",
+                  "coords": [
+                        19.262355,
+                        41.903908
+                  ]
+            },
+            {
+                  "name": "Otrant Beach",
+                  "text": "Otrant Beach boasts a wonderful location in the coastal region near Ulcinj, exuding a relaxed holiday vibe. The expansive coastal landscape is a magnet for water lovers and those seeking relaxation alike. A late afternoon stroll allows visitors to fully enjoy the gentle sea breeze.",
+                  "category": "recreational",
+                  "coords": [
+                        19.238969,
+                        41.909604
+                  ]
+            },
+            {
+                  "name": "Velika Plaža - Plazhi i Madh",
+                  "text": "As one of the most famous coastal stretches near Ulcinj, Velika Plaža impresses with its enormous vastness. The endless beach offers plenty of space for long walks along the shoreline and exuberant swimming fun. Especially in the warm season, this area awakens into a lively meeting spot for sun worshipers.",
+                  "category": "recreational",
+                  "coords": [
+                        19.287103,
+                        41.888798
+                  ]
+            },
+            {
+                  "name": "Lido Beach",
+                  "text": "Lido Beach blends seamlessly into the expanse of Velika Plaža, offering a wonderful beach experience near Ulcinj. Bathers can enjoy the carefree atmosphere of the Mediterranean here and feel the sand between their toes. For the best spot by the water, it is well worth starting your beach day early.",
+                  "category": "recreational",
+                  "coords": [
+                        19.242207,
+                        41.909014
+                  ]
+            },
+            {
+                  "name": "Lopa Davas",
+                  "text": "A small animal park or petting zoo in the Ulcinj region.",
+                  "category": "family",
+                  "coords": [
+                        19.237519,
+                        41.928057
+                  ]
+            },
+            {
+                  "name": "Lutovac Amusement Park",
+                  "text": "A small amusement park for families in the Ulcinj area.",
+                  "category": "family",
+                  "coords": [
+                        19.239722,
+                        41.915022
+                  ]
+            },
+            {
+                  "name": "Azul Beach Resort",
+                  "text": "The coastal stretch of the Azul Beach Resort near Ulcinj combines the comfort of a holiday resort with direct access to the sea. Guests can spend carefree hours on the beach here and dive into the gentle waves. The well-kept surroundings are ideal for families and recreation seekers who appreciate a relaxing vacation time.",
+                  "category": "recreational",
+                  "coords": [
+                        19.244719,
+                        41.90912
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "ME",
     name: { de: "Ulcinj Landwirtschaftsgebiet", hu: "Ulcinj mezőgazdasági terület", ro: "Zona agricolă Ulcinj", en: "Ulcinj Agricultural Area" },
@@ -1410,15 +1199,6 @@ export const montenegroEconomicV2: POI[] = [
     id: "montenegro-bar-oil-terminal-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Letnja scena",
-                  "text": "Eine Freilicht-Sommerbühne für kulturelle Aufführungen und Theaterveranstaltungen in Bar.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
-            {
                   "name": "Plaža Šušanj",
                   "text": "Ein beliebter Kieselstrand mit Pinien in der Küstenstadt Bar.",
                   "category": "recreational",
@@ -1434,33 +1214,6 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         19.069766,
                         42.120396
-                  ]
-            },
-            {
-                  "name": "Bigovica",
-                  "text": "Eine ruhige Bucht bei Bar, die Besuchern ein eher abgelegenes Stranderlebnis bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        19.085917,
-                        42.076804
-                  ]
-            },
-            {
-                  "name": "Crvena Stijena",
-                  "text": "Ein malerischer Strandbereich in der Nähe der Klippen in der Umgebung von Bar.",
-                  "category": "recreational",
-                  "coords": [
-                        19.094723,
-                        42.071282
-                  ]
-            },
-            {
-                  "name": "FKK Ratac",
-                  "text": "Ein abgelegener Strandbereich in der Nähe der Ruinen der Abtei Ratac, der von Naturisten genutzt wird.",
-                  "category": "recreational",
-                  "coords": [
-                        19.061736,
-                        42.1239
                   ]
             },
             {
@@ -1489,27 +1242,9 @@ export const montenegroEconomicV2: POI[] = [
                         19.083607,
                         42.112782
                   ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "Der Hauptstrand der Stadt Bar, ideal für Badegäste.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Letnja scena",
-                  "text": "Szabadtéri nyári színpad kulturális előadásokhoz és színházi eseményekhez Barban.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
             {
                   "name": "Plaža Šušanj",
                   "text": "Népszerű, fenyőfákkal szegélyezett kavicsos strand Bar tengerparti városában.",
@@ -1526,33 +1261,6 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         19.069766,
                         42.120396
-                  ]
-            },
-            {
-                  "name": "Bigovica",
-                  "text": "Egy csendes öböl Bar közelében, amely eldugottabb strandélményt kínál a látogatóknak.",
-                  "category": "recreational",
-                  "coords": [
-                        19.085917,
-                        42.076804
-                  ]
-            },
-            {
-                  "name": "Crvena Stijena",
-                  "text": "Látványos tengerparti rész a sziklák közelében, Bar környékén.",
-                  "category": "recreational",
-                  "coords": [
-                        19.094723,
-                        42.071282
-                  ]
-            },
-            {
-                  "name": "FKK Ratac",
-                  "text": "Egy eldugott strandrész a Ratac apátság romjai közelében, amelyet naturisták használnak.",
-                  "category": "recreational",
-                  "coords": [
-                        19.061736,
-                        42.1239
                   ]
             },
             {
@@ -1581,27 +1289,9 @@ export const montenegroEconomicV2: POI[] = [
                         19.083607,
                         42.112782
                   ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "Bar városának fő strandja, ideális a fürdőzők számára.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Letnja scena",
-                  "text": "O scenă de vară în aer liber utilizată pentru spectacole culturale și evenimente teatrale în Bar.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
             {
                   "name": "Plaža Šušanj",
                   "text": "O plajă populară de prundiş, mărginită de pini, în orașul de coastă Bar.",
@@ -1618,33 +1308,6 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         19.069766,
                         42.120396
-                  ]
-            },
-            {
-                  "name": "Bigovica",
-                  "text": "Un golf liniștit lângă Bar, care oferă vizitatorilor o experiență de plajă mai retrasă.",
-                  "category": "recreational",
-                  "coords": [
-                        19.085917,
-                        42.076804
-                  ]
-            },
-            {
-                  "name": "Crvena Stijena",
-                  "text": "O zonă de plajă pitorească situată lângă stânci în vecinătatea orașului Bar.",
-                  "category": "recreational",
-                  "coords": [
-                        19.094723,
-                        42.071282
-                  ]
-            },
-            {
-                  "name": "FKK Ratac",
-                  "text": "O zonă de plajă retrasă lângă ruinele abației Ratac, folosită de naturiști.",
-                  "category": "recreational",
-                  "coords": [
-                        19.061736,
-                        42.1239
                   ]
             },
             {
@@ -1673,27 +1336,9 @@ export const montenegroEconomicV2: POI[] = [
                         19.083607,
                         42.112782
                   ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "Plaja principală a orașului Bar, ideală pentru turiști.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Letnja scena",
-                  "text": "An open-air summer stage used for cultural performances and theatrical events in Bar.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
             {
                   "name": "Plaža Šušanj",
                   "text": "A popular pebble beach lined with pine trees in the coastal town of Bar.",
@@ -1710,33 +1355,6 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         19.069766,
                         42.120396
-                  ]
-            },
-            {
-                  "name": "Bigovica",
-                  "text": "A quiet bay near Bar offering a more secluded beach experience for visitors.",
-                  "category": "recreational",
-                  "coords": [
-                        19.085917,
-                        42.076804
-                  ]
-            },
-            {
-                  "name": "Crvena Stijena",
-                  "text": "A scenic beach area located near the cliffs in the vicinity of Bar.",
-                  "category": "recreational",
-                  "coords": [
-                        19.094723,
-                        42.071282
-                  ]
-            },
-            {
-                  "name": "Ratac nude beach",
-                  "text": "A secluded beach area near the ruins of the Ratac Abbey, used by naturists.",
-                  "category": "recreational",
-                  "coords": [
-                        19.061736,
-                        42.1239
                   ]
             },
             {
@@ -1764,15 +1382,6 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         19.083607,
                         42.112782
-                  ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "The main city beach of Bar, ideal for swimmers and sunbathers.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
                   ]
             }
       ]
@@ -1878,15 +1487,6 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Podlastva",
-                  "text": "Ein serbisch-orthodoxes Kloster in der Nähe von Budva in Montenegro.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
                   "name": "Tvrđava Stari grad",
                   "text": "Der historische Stadtkern von Budva, umgeben von mittelalterlichen Stadtmauern.",
                   "category": "fortress",
@@ -1896,84 +1496,12 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mogren",
-                  "text": "Ein bekannter Sandstrand in der Nähe der Altstadt von Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832364,
-                        42.277055
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "Ein großer und beliebter Strand in der Nähe von Budva, bekannt für seine weite Küste.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
-                  "name": "Citadela",
-                  "text": "Mittelalterliche Festung Citadela in Budva Marina, Montenegro, mit Blick auf die Adria.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
                   "name": "Strand Slovenska plaža",
                   "text": "Beliebter Sandstrand Slovenska Beach in Budva Marina, Montenegro.",
                   "category": "recreational",
                   "coords": [
                         18.848868,
                         42.284759
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Ein Strandclub am Meer, der Entspannung in der Nähe des Jachthafens von Budva bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Eine Küstenresort-Anlage mit Strandzugang und Serviceleistungen in Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "Ein Schwimmbad in einem Hotelkomplex in der Nähe des Jachthafens von Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Ein Infinity-Pool und Club mit Panoramablick auf die Küste von Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "Ein Wasserpark auf einem Hügel mit verschiedenen Rutschen und Blick auf Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
                   ]
             }
       ],
@@ -1988,15 +1516,6 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Podlastva",
-                  "text": "Szerb ortodox kolostor Montenegróban, Budva közelében.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
                   "name": "Tvrđava Stari grad",
                   "text": "Budva történelmi városmagja, amelyet középkori városfalak vesznek körül.",
                   "category": "fortress",
@@ -2006,84 +1525,12 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mogren 1",
-                  "text": "Ismert homokos strand Budva óvárosának közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832364,
-                        42.277055
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "Nagy és népszerű strand Budva közelében, amely tágas partjáról ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
-                  "name": "Citadela",
-                  "text": "Citadela középkori erőd Budva Marinában, Montenegróban, az Adriai-tengerre néz.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
                   "name": "Slovenska plaža",
                   "text": "Népszerű homokos strand, Slovenska Beach Budva Marinában, Montenegróban.",
                   "category": "recreational",
                   "coords": [
                         18.848868,
                         42.284759
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Tengerparti strandklub pihenési lehetőséggel a budvai kikötő közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Tengerparti üdülőhely strandkapcsolattal és szolgáltatásokkal Budvában.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "A budvai kikötő közelében, egy szállodakomplexumban található úszómedence.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Feszített víztükrű medence és klub panorámás kilátással a budvai tengerpartra.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "Domboldali vízi park különféle csúszdákkal és medencékkel, kilátással Budvára.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
                   ]
             }
       ],
@@ -2098,15 +1545,6 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Podlastva",
-                  "text": "O mănăstire ortodoxă sârbă situată lângă Budva, în Muntenegru.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
                   "name": "Tvrđava Stari grad",
                   "text": "Nucleul istoric al orașului Budva, înconjurat de ziduri medievale.",
                   "category": "fortress",
@@ -2116,84 +1554,12 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mogren 1",
-                  "text": "O plajă de nisip cunoscută situată lângă orașul vechi Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832364,
-                        42.277055
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "O plajă mare și populară lângă Budva, cunoscută pentru țărmul său larg.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
-                  "name": "Citadela",
-                  "text": "Fortăreața medievală Citadela în Budva Marina, Muntenegru, cu vedere la Marea Adriatică.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
                   "name": "Slovenska plaža",
                   "text": "Plajă nisipoasă populară numită Slovenska Beach în Budva Marina, Muntenegru.",
                   "category": "recreational",
                   "coords": [
                         18.848868,
                         42.284759
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "Un club de plajă la malul mării, oferind relaxare lângă Marina Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "O unitate de resort de coastă care oferă acces la plajă și servicii în Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "O piscină situată într-un complex hotelier lângă Marina Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "O piscină infinity și un club care oferă vederi panoramice ale coastei Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "Un parc acvatic pe deal, cu diverse tobogane și piscine cu vedere la Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
                   ]
             }
       ],
@@ -2208,15 +1574,6 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Podlastva",
-                  "text": "A Serbian Orthodox monastery located near Budva in Montenegro.",
-                  "category": "religious",
-                  "coords": [
-                        18.807832,
-                        42.306861
-                  ]
-            },
-            {
                   "name": "Old Town Budva",
                   "text": "The historical city centre of Budva, surrounded by medieval town walls.",
                   "category": "fortress",
@@ -2226,84 +1583,12 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mogren",
-                  "text": "A well-known sandy beach located near the Old Town of Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.832364,
-                        42.277055
-                  ]
-            },
-            {
-                  "name": "Plaža Jaz",
-                  "text": "A large and popular beach near Budva, known for its wide shoreline.",
-                  "category": "recreational",
-                  "coords": [
-                        18.805434,
-                        42.282971
-                  ]
-            },
-            {
-                  "name": "Citadela",
-                  "text": "Medieval fortress Citadela in Budva Marina, Montenegro, overlooking the Adriatic.",
-                  "category": "castle",
-                  "coords": [
-                        18.838172,
-                        42.277014
-                  ]
-            },
-            {
                   "name": "Slovenska Beach",
                   "text": "Popular sandy beach Slovenska Beach in Budva Marina, Montenegro.",
                   "category": "recreational",
                   "coords": [
                         18.848868,
                         42.284759
-                  ]
-            },
-            {
-                  "name": "Malaya Beach Club",
-                  "text": "A seaside beach club offering relaxation and coastal views near Budva Marina.",
-                  "category": "recreational",
-                  "coords": [
-                        18.814646,
-                        42.28345
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "A coastal resort facility providing beach access and services in Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "A swimming pool located within a hotel complex near the Budva Marina.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "An infinity pool and club offering panoramic views of the Budva coastline.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "Aquapark Budva",
-                  "text": "A hilltop water park featuring various slides and pools overlooking Budva.",
-                  "category": "recreational",
-                  "coords": [
-                        18.821078,
-                        42.293185
                   ]
             }
       ]
@@ -2749,374 +2034,10 @@ export const montenegroEconomicV2: POI[] = [
   },
   {
     id: "montenegro-bar-container-terminal-economic-v2", "sights": {
-      "de": [
-            {
-                  "name": "Letnja scena",
-                  "text": "Eine Freilichtbühne in Bar, die für Theateraufführungen und kulturelle Veranstaltungen genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
-            {
-                  "name": "Plaža Šušanj",
-                  "text": "Ein beliebter Kiesstrand in Bar, der für sein klares Wasser und den angrenzenden Pinienwald bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        19.082675,
-                        42.113588
-                  ]
-            },
-            {
-                  "name": "Crvena plaža",
-                  "text": "Ein malerischer Strand in Bar, der für seinen rötlichen Sand und seine Kieselsteine bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        19.069766,
-                        42.120396
-                  ]
-            },
-            {
-                  "name": "Bigovica",
-                  "text": "Ein ruhiger Strand in einer kleinen Bucht in der Nähe der Stadt Bar.",
-                  "category": "recreational",
-                  "coords": [
-                        19.085917,
-                        42.076804
-                  ]
-            },
-            {
-                  "name": "Crvena Stijena",
-                  "text": "Ein schöner Strand in Bar, der nach den markanten roten Klippen in der Umgebung benannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        19.094723,
-                        42.071282
-                  ]
-            },
-            {
-                  "name": "FKK Ratac",
-                  "text": "Ein bekannter FKK-Strand auf der Halbinsel Ratac in der Nähe von Bar.",
-                  "category": "recreational",
-                  "coords": [
-                        19.061736,
-                        42.1239
-                  ]
-            },
-            {
-                  "name": "Črvanj",
-                  "text": "Ein Küstenabschnitt in Bar, der sich zum Schwimmen und für sommerliche Freizeitaktivitäten eignet.",
-                  "category": "recreational",
-                  "coords": [
-                        19.067284,
-                        42.12202
-                  ]
-            },
-            {
-                  "name": "Filin Tuz",
-                  "text": "Ein Berggipfel in der Nähe von Bar, der Panoramablicke auf die Adriaküste bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        19.107447,
-                        42.066069
-                  ]
-            },
-            {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "Ein Küstenabschnitt in der Stadt Bar in der Nähe des Hafenterminals.",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
-                  ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "Der Hauptstrand von Bar, der Erholung an der Küste in Hafennähe bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Letnja scena",
-                  "text": "Szabadtéri színpad Bar városában, amelyet színházi előadásokra és kulturális eseményekre használnak.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
-            {
-                  "name": "Plaža Šušanj",
-                  "text": "Népszerű kavicsos strand Bar városában, amely tiszta vizéről és a szomszédos fenyőerdőről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        19.082675,
-                        42.113588
-                  ]
-            },
-            {
-                  "name": "Crvena plaža",
-                  "text": "Malerikus strand Bar városában, amely vöröses homokjáról és kavicsairól kapta a nevét.",
-                  "category": "recreational",
-                  "coords": [
-                        19.069766,
-                        42.120396
-                  ]
-            },
-            {
-                  "name": "Bigovica",
-                  "text": "Csendes strand egy kis öbölben, Bar városa közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        19.085917,
-                        42.076804
-                  ]
-            },
-            {
-                  "name": "Crvena Stijena",
-                  "text": "Gyönyörű strand Bar városában, amely a környező jellegzetes vörös sziklákról kapta a nevét.",
-                  "category": "recreational",
-                  "coords": [
-                        19.094723,
-                        42.071282
-                  ]
-            },
-            {
-                  "name": "FKK Ratac",
-                  "text": "Ismert nudista strand a Ratac-félszigeten, Bar városa közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        19.061736,
-                        42.1239
-                  ]
-            },
-            {
-                  "name": "Črvanj",
-                  "text": "Tengerparti szakasz Bar városában, amely alkalmas úszásra és nyári kikapcsolódásra.",
-                  "category": "recreational",
-                  "coords": [
-                        19.067284,
-                        42.12202
-                  ]
-            },
-            {
-                  "name": "Filin Tuz",
-                  "text": "Hegyi csúcs Bar közelében, ahonnan panorámás kilátás nyílik az Adriai-tenger partjára.",
-                  "category": "landmark",
-                  "coords": [
-                        19.107447,
-                        42.066069
-                  ]
-            },
-            {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "Tengerparti strand Bar városában, a kikötői terminál közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
-                  ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "Bar fő városi strandja, amely tengerparti kikapcsolódást kínál a kikötő közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Letnja scena",
-                  "text": "O scenă de vară în aer liber în Bar, utilizată pentru spectacole de teatru și evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
-            {
-                  "name": "Plaža Šušanj",
-                  "text": "O plajă populară cu pietriș în Bar, cunoscută pentru apa sa limpede și pădurea de pini adiacentă.",
-                  "category": "recreational",
-                  "coords": [
-                        19.082675,
-                        42.113588
-                  ]
-            },
-            {
-                  "name": "Crvena plaža",
-                  "text": "O plajă pitorească din Bar, renumită pentru nisipul și pietrișul său roșiatic.",
-                  "category": "recreational",
-                  "coords": [
-                        19.069766,
-                        42.120396
-                  ]
-            },
-            {
-                  "name": "Bigovica",
-                  "text": "O plajă liniștită situată într-un mic golf din apropierea orașului Bar.",
-                  "category": "recreational",
-                  "coords": [
-                        19.085917,
-                        42.076804
-                  ]
-            },
-            {
-                  "name": "Crvena Stijena",
-                  "text": "O plajă frumoasă din Bar, numită după stâncile roșii distinctive din zonă.",
-                  "category": "recreational",
-                  "coords": [
-                        19.094723,
-                        42.071282
-                  ]
-            },
-            {
-                  "name": "FKK Ratac",
-                  "text": "O plajă de nudiști cunoscută, situată pe peninsula Ratac, lângă orașul Bar.",
-                  "category": "recreational",
-                  "coords": [
-                        19.061736,
-                        42.1239
-                  ]
-            },
-            {
-                  "name": "Črvanj",
-                  "text": "O zonă de coastă în Bar, potrivită pentru înot și activități de recreere estivale.",
-                  "category": "recreational",
-                  "coords": [
-                        19.067284,
-                        42.12202
-                  ]
-            },
-            {
-                  "name": "Filin Tuz",
-                  "text": "Un vârf montan de lângă Bar, care oferă vederi panoramice asupra coastei Adriatice.",
-                  "category": "landmark",
-                  "coords": [
-                        19.107447,
-                        42.066069
-                  ]
-            },
-            {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "O zonă de plajă de coastă situată în orașul Bar, lângă terminalul portuar.",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
-                  ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "Plaja principală a orașului Bar, care oferă recreere pe coastă lângă port.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Letnja scena",
-                  "text": "An open-air summer stage in Bar used for theatrical performances and cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        19.092223,
-                        42.100104
-                  ]
-            },
-            {
-                  "name": "Plaža Šušanj",
-                  "text": "A popular pebble beach in Bar known for its clear water and the adjacent pine forest.",
-                  "category": "recreational",
-                  "coords": [
-                        19.082675,
-                        42.113588
-                  ]
-            },
-            {
-                  "name": "Crvena plaža",
-                  "text": "A scenic beach in Bar known for its reddish sand and pebbles.",
-                  "category": "recreational",
-                  "coords": [
-                        19.069766,
-                        42.120396
-                  ]
-            },
-            {
-                  "name": "Bigovica",
-                  "text": "A quiet beach located in a small bay near the town of Bar.",
-                  "category": "recreational",
-                  "coords": [
-                        19.085917,
-                        42.076804
-                  ]
-            },
-            {
-                  "name": "Crvena Stijena",
-                  "text": "A beautiful beach in Bar named after the distinctive red cliffs in the area.",
-                  "category": "recreational",
-                  "coords": [
-                        19.094723,
-                        42.071282
-                  ]
-            },
-            {
-                  "name": "Ratac nude beach",
-                  "text": "A well-known nudist beach situated on the Ratac peninsula near Bar.",
-                  "category": "recreational",
-                  "coords": [
-                        19.061736,
-                        42.1239
-                  ]
-            },
-            {
-                  "name": "Črvanj",
-                  "text": "A coastal beach area in Bar suitable for swimming and summer leisure activities.",
-                  "category": "recreational",
-                  "coords": [
-                        19.067284,
-                        42.12202
-                  ]
-            },
-            {
-                  "name": "Filin Tuz",
-                  "text": "A mountain peak near Bar offering panoramic views of the Adriatic coast.",
-                  "category": "landmark",
-                  "coords": [
-                        19.107447,
-                        42.066069
-                  ]
-            },
-            {
-                  "name": "Plaža Žukotorlica 7C",
-                  "text": "A coastal beach area located in the town of Bar near the port terminal.",
-                  "category": "recreational",
-                  "coords": [
-                        19.083607,
-                        42.112782
-                  ]
-            },
-            {
-                  "name": "Gradska Plaža",
-                  "text": "The main city beach of Bar, offering coastal recreation near the harbor.",
-                  "category": "recreational",
-                  "coords": [
-                        19.090319,
-                        42.100011
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "industry",
     parent: "ME",
@@ -3163,230 +2084,10 @@ export const montenegroEconomicV2: POI[] = [
   },
   {
     id: "montenegro-cetinje-industry-economic-v2", "sights": {
-      "de": [
-            {
-                  "name": "Cetinjski Manastir",
-                  "text": "Ein bedeutendes serbisch-orthodoxes Kloster und ein geistiges Zentrum Montenegros.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
-            {
-                  "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Nationalmuseum im ehemaligen Regierungsgebäude, das montenegrinische königliche Artefakte zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
-                  "name": "Muzej Kralja Nikole",
-                  "text": "Die ehemalige Residenz von König Nikola I., die heute als Museum Einblicke in das montenegrinische Königshaus bietet.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "Die ehemalige Residenz von Petar II. Petrović-Njegoš, benannt nach dem ersten Billardtisch des Landes.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
-            {
-                  "name": "Königliches Theater Zetski Dom",
-                  "text": "Das älteste Theater Montenegros, das im späten 19. Jahrhundert in Cetinje erbaut wurde.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
-                  ]
-            },
-            {
-                  "name": "Ljetnja pozornica",
-                  "text": "Eine Freilichtbühne in Cetinje, auf der kulturelle Darbietungen und Festivals stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cetinjski Manastir",
-                  "text": "Jelentős szerb ortodox kolostor és Montenegró egyik szellemi központja.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
-            {
-                  "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Nemzeti múzeum a volt kormányzati épületben, montenegrói királyi tárgyakkal.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
-                  "name": "Muzej Kralja Nikole",
-                  "text": "I. Miklós király egykori rezidenciája, amely ma múzeumként mutatja be a montenegrói királyi család életét.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "II. Petar Petrović-Njegoš egykori rezidenciája, amely az ország első biliárdasztaláról kapta a nevét.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
-            {
-                  "name": "Kraljevsko Pozorište Zetski Dom",
-                  "text": "Montenegró legrégebbi színháza, amely a 19. század végén épült Cetinjében.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
-                  ]
-            },
-            {
-                  "name": "Ljetnja pozornica",
-                  "text": "Szabadtéri színpad Cetinjében, amely kulturális előadásoknak és fesztiváloknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Cetinjski Manastir",
-                  "text": "O mănăstire ortodoxă sârbă importantă și un centru spiritual al Muntenegrului.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
-            {
-                  "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Muzeul Național găzduit în fosta Casă de Guvern, care expune artefacte regale muntenegrene.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
-                  "name": "Muzej Kralja Nikole",
-                  "text": "Fosta reședință a regelui Nicolae I, care astăzi funcționează ca muzeu dedicat monarhiei muntenegrene.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "Fosta reședință a lui Petar al II-lea Petrović-Njegoș, numită după prima masă de biliard din țară.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
-            {
-                  "name": "Kraljevsko Pozorište Zetski Dom",
-                  "text": "Cel mai vechi teatru din Muntenegru, construit la sfârșitul secolului al XIX-lea în Cetinje.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
-                  ]
-            },
-            {
-                  "name": "Ljetnja pozornica",
-                  "text": "O scenă în aer liber din Cetinje, unde au loc spectacole culturale și festivaluri.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cetinje Monastery",
-                  "text": "A significant Serbian Orthodox monastery and a spiritual center of Montenegro.",
-                  "category": "religious",
-                  "coords": [
-                        18.921819,
-                        42.387837
-                  ]
-            },
-            {
-                  "name": "Government House - National Museum of Montenegro",
-                  "text": "National museum housed in the former Government House, displaying Montenegrin royal artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
-                  "name": "Museum of King Nikola I Petrović",
-                  "text": "The former residence of King Nikola I, now serving as a museum showcasing the Montenegrin royal family's history.",
-                  "category": "museum",
-                  "coords": [
-                        18.924431,
-                        42.387491
-                  ]
-            },
-            {
-                  "name": "Biljarda",
-                  "text": "The former residence of Petar II Petrović-Njegoš, named after the country's first billiard table.",
-                  "category": "museum",
-                  "coords": [
-                        18.923008,
-                        42.387819
-                  ]
-            },
-            {
-                  "name": "Royal Theatre Zetski Dom",
-                  "text": "The oldest theater in Montenegro, built in Cetinje in the late 19th century.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
-                  ]
-            },
-            {
-                  "name": "Summer stage",
-                  "text": "An open-air stage in Cetinje used for cultural performances and festivals.",
-                  "category": "cultural",
-                  "coords": [
-                        18.92083,
-                        42.384515
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "industry",
     parent: "ME",
@@ -3732,30 +2433,12 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plaža Sastavci",
-                  "text": "Ein beliebter Strand am Zusammenfluss zweier Flüsse in Podgorica.",
-                  "category": "recreational",
-                  "coords": [
-                        19.258227,
-                        42.439519
-                  ]
-            },
-            {
                   "name": "Prirodnjački Muzej Crne Gore",
                   "text": "Das Naturkundemuseum zeigt Montenegros Geologie und Biodiversität.",
                   "category": "museum",
                   "coords": [
                         19.262371,
                         42.434043
-                  ]
-            },
-            {
-                  "name": "Plaža Labud",
-                  "text": "Ein bekannter Flussstrand an der Morača in Podgorica.",
-                  "category": "recreational",
-                  "coords": [
-                        19.258098,
-                        42.443557
                   ]
             },
             {
@@ -3806,30 +2489,12 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plaža Sastavci",
-                  "text": "Népszerű strand két folyó összefolyásánál Podgoricában.",
-                  "category": "recreational",
-                  "coords": [
-                        19.258227,
-                        42.439519
-                  ]
-            },
-            {
                   "name": "Prirodnjački Muzej Crne Gore",
                   "text": "A Természettudományi Múzeum Montenegró geológiáját és biológiai sokféleségét mutatja be.",
                   "category": "museum",
                   "coords": [
                         19.262371,
                         42.434043
-                  ]
-            },
-            {
-                  "name": "Plaža Labud",
-                  "text": "Ismert folyóparti strand a Morača folyónál Podgoricában.",
-                  "category": "recreational",
-                  "coords": [
-                        19.258098,
-                        42.443557
                   ]
             },
             {
@@ -3880,30 +2545,12 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plaža Sastavci",
-                  "text": "O plajă populară la confluența a două râuri în Podgorica.",
-                  "category": "recreational",
-                  "coords": [
-                        19.258227,
-                        42.439519
-                  ]
-            },
-            {
                   "name": "Prirodnjački Muzej Crne Gore",
                   "text": "Muzeul de Istorie Naturală prezintă geologia și biodiversitatea Muntenegrului.",
                   "category": "museum",
                   "coords": [
                         19.262371,
                         42.434043
-                  ]
-            },
-            {
-                  "name": "Plaža Labud",
-                  "text": "O plajă fluvială cunoscută pe râul Morača din Podgorica.",
-                  "category": "recreational",
-                  "coords": [
-                        19.258098,
-                        42.443557
                   ]
             },
             {
@@ -3954,30 +2601,12 @@ export const montenegroEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plaža Sastavci",
-                  "text": "A popular beach at the confluence of two rivers in Podgorica.",
-                  "category": "recreational",
-                  "coords": [
-                        19.258227,
-                        42.439519
-                  ]
-            },
-            {
                   "name": "Natural History Museum of Montenegro",
                   "text": "The Natural History Museum showcases Montenegro's geology and biodiversity.",
                   "category": "museum",
                   "coords": [
                         19.262371,
                         42.434043
-                  ]
-            },
-            {
-                  "name": "Plaža Labud",
-                  "text": "A well-known riverside beach on the Morača in Podgorica.",
-                  "category": "recreational",
-                  "coords": [
-                        19.258098,
-                        42.443557
                   ]
             },
             {

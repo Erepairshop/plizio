@@ -409,48 +409,12 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
     id: "sumgait-chemical-park-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Lüdviqshafen parkı",
-                  "text": "Ein Küstenpark, benannt nach Sumqayits Partnerstadt in Deutschland, der Grünflächen in der Nähe des Kaspischen Meeres bietet.",
-                  "category": "park",
-                  "coords": [
-                        49.681312,
-                        40.574083
-                  ]
-            },
-            {
                   "name": "Yeni Bulvar",
                   "text": "Eine moderne Meerespromenade an der kaspischen Küste mit Wanderwegen, Statuen und Blick auf das Meer.",
                   "category": "park",
                   "coords": [
                         49.682815,
                         40.597258
-                  ]
-            },
-            {
-                  "name": "Bayraq Muzeyi \\ Suçqayıt",
-                  "text": "Ein Museum, das der Geschichte und Symbolik der Nationalflagge gewidmet ist und sich in einem modernen architektonischen Gebäude befindet.",
-                  "category": "museum",
-                  "coords": [
-                        49.687702,
-                        40.588317
-                  ]
-            },
-            {
-                  "name": "Tarix Muzeyi Sumqayıt",
-                  "text": "Dieses Museum dokumentiert den industriellen Aufstieg und die Kulturgeschichte der Stadt durch verschiedene archäologische Funde und Fotografien.",
-                  "category": "museum",
-                  "coords": [
-                        49.678081,
-                        40.580665
-                  ]
-            },
-            {
-                  "name": "Heydər Əliyev Mərkəzi",
-                  "text": "Ein bedeutender kultureller Veranstaltungsort und Museum, das die regionale Geschichte in einem prächtigen zeitgenössischen Gebäude präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        49.687462,
-                        40.576372
                   ]
             },
             {
@@ -478,24 +442,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   "coords": [
                         49.55773,
                         40.618444
-                  ]
-            },
-            {
-                  "name": "Röyal abidə",
-                  "text": "Ein markantes lokales Denkmal mit künstlerischen Merkmalen, das die moderne Identität der Stadt feiert.",
-                  "category": "historical",
-                  "coords": [
-                        49.692425,
-                        40.573254
-                  ]
-            },
-            {
-                  "name": "Cəlil Məmmədquluzadə heykəli",
-                  "text": "Eine Bronzestatue zu Ehren des berühmten aserbaidschanischen Schriftstellers und Satirikers Cəlil Məmmədquluzadə.",
-                  "category": "historical",
-                  "coords": [
-                        49.687799,
-                        40.581666
                   ]
             },
             {
@@ -544,84 +490,12 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ərəblinski adına Musiqili Dram Teatrı",
-                  "text": "Ein bedeutendes Theater, benannt nach dem Schauspieler Arablinski, das professionelle Musical- und Dramastücke inszeniert.",
-                  "category": "cultural",
-                  "coords": [
-                        49.66928,
-                        40.596716
-                  ]
-            },
-            {
-                  "name": "Fotoatelye",
-                  "text": "Ein spezialisiertes Studio und Galeriebereich, der sich auf zeitgenössische Fotografie und bildende Kunst konzentriert.",
-                  "category": "cultural",
-                  "coords": [
-                        49.667919,
-                        40.594777
-                  ]
-            },
-            {
-                  "name": "Memarlıq və Dizayn",
-                  "text": "Ein modernes Zentrum für Architektur und Design, das zeitgenössische Ausstellungen in Sumgait präsentiert.",
-                  "category": "cultural",
-                  "coords": [
-                        49.668085,
-                        40.596006
-                  ]
-            },
-            {
-                  "name": "Muğam Evi",
-                  "text": "Dieses Kulturzentrum ist der traditionellen aserbaidschanischen Mugam-Musik gewidmet.",
-                  "category": "cultural",
-                  "coords": [
-                        49.663561,
-                        40.593356
-                  ]
-            },
-            {
                   "name": "Mədəniyyət Evi \\ Kimyaçılar qəsəbəsi",
                   "text": "Ein Theater in der Siedlung der Chemiker, das als kultureller Treffpunkt für die Industriegemeinde dient.",
                   "category": "cultural",
                   "coords": [
                         49.645033,
                         40.606104
-                  ]
-            },
-            {
-                  "name": "Nərimanov adına Mədəniyyət Evi",
-                  "text": "Ein lokales Kunstzentrum, das nach dem Staatsmann Nəriman Nərimanov benannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        49.66814,
-                        40.58856
-                  ]
-            },
-            {
-                  "name": "28 May Mədəniyyət Evi",
-                  "text": "Dieses Theater trägt den Namen des Unabhängigkeitstages Aserbaidschans und bietet Raum für Bühneaufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        49.666916,
-                        40.581093
-                  ]
-            },
-            {
-                  "name": "2 saylı Musiqi Məktəbi",
-                  "text": "Eine spezialisierte Musikschule, die die Ausbildung junger Talente in Sumgait fördert.",
-                  "category": "cultural",
-                  "coords": [
-                        49.679325,
-                        40.572006
-                  ]
-            },
-            {
-                  "name": "Kimyaçılar Sarayı",
-                  "text": "Ein monumentales Theater aus der Sowjetzeit, das ursprünglich für die Industriearbeiter der Stadt errichtet wurde.",
-                  "category": "cultural",
-                  "coords": [
-                        49.681418,
-                        40.578527
                   ]
             },
             {
@@ -708,48 +582,12 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Lüdviqshafen parkı",
-                  "text": "Szumgajit németországi testvérvárosáról elnevezett tengerparti park, amely zöldterületeket kínál a Kaszpi-tenger közelében.",
-                  "category": "park",
-                  "coords": [
-                        49.681312,
-                        40.574083
-                  ]
-            },
-            {
                   "name": "Yeni Bulvar",
                   "text": "Modern tengerparti sétány a Kaszpi-tenger partján, gyalogutakkal, szobrokkal és tengerre néző kilátással.",
                   "category": "park",
                   "coords": [
                         49.682815,
                         40.597258
-                  ]
-            },
-            {
-                  "name": "Bayraq Muzeyi \\ Suçqayıt",
-                  "text": "A nemzeti zászló történetének és szimbolikájának szentelt múzeum, amely egy modern építészeti stílusú épületben kapott helyet.",
-                  "category": "museum",
-                  "coords": [
-                        49.687702,
-                        40.588317
-                  ]
-            },
-            {
-                  "name": "Tarix Muzeyi Sumqayıt",
-                  "text": "Ez a múzeum régészeti leleteken és fényképeken keresztül dokumentálja a város ipari felemelkedését és kultúrtörténetét.",
-                  "category": "museum",
-                  "coords": [
-                        49.678081,
-                        40.580665
-                  ]
-            },
-            {
-                  "name": "Heydər Əliyev Mərkəzi",
-                  "text": "Kiemelkedő kulturális helyszín és múzeum, amely egy nagyszabású kortárs épületben mutatja be a régió történelmét.",
-                  "category": "museum",
-                  "coords": [
-                        49.687462,
-                        40.576372
                   ]
             },
             {
@@ -777,24 +615,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   "coords": [
                         49.55773,
                         40.618444
-                  ]
-            },
-            {
-                  "name": "Röyal abidə",
-                  "text": "Jellegzetes helyi emlékmű művészi jegyekkel, amely a város modern identitását ünnepli.",
-                  "category": "historical",
-                  "coords": [
-                        49.692425,
-                        40.573254
-                  ]
-            },
-            {
-                  "name": "Cəlil Məmmədquluzadə heykəli",
-                  "text": "Dzsalil Mammadguluzadeh híres azerbajdzsáni író és szatirikus tiszteletére emelt bronzszobor.",
-                  "category": "historical",
-                  "coords": [
-                        49.687799,
-                        40.581666
                   ]
             },
             {
@@ -843,84 +663,12 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ərəblinski adına Musiqili Dram Teatrı",
-                  "text": "Az Arablinski színészről elnevezett neves színház, amely professzionális zenés és drámai darabokat állít színpadra.",
-                  "category": "cultural",
-                  "coords": [
-                        49.66928,
-                        40.596716
-                  ]
-            },
-            {
-                  "name": "Fotoatelye",
-                  "text": "Speciális műterem és galéria, amely a kortárs fotográfiára és a vizuális művészetekre összpontosít.",
-                  "category": "cultural",
-                  "coords": [
-                        49.667919,
-                        40.594777
-                  ]
-            },
-            {
-                  "name": "Memarlıq və Dizayn",
-                  "text": "Modern építészeti és dizájnközpont, amely kortárs kiállításoknak ad otthont Sumgaitban.",
-                  "category": "cultural",
-                  "coords": [
-                        49.668085,
-                        40.596006
-                  ]
-            },
-            {
-                  "name": "Muğam Evi",
-                  "text": "Ez a kulturális központ a hagyományos azerbajdzsáni mugam zenének van szentelve.",
-                  "category": "cultural",
-                  "coords": [
-                        49.663561,
-                        40.593356
-                  ]
-            },
-            {
                   "name": "Mədəniyyət Evi \\ Kimyaçılar qəsəbəsi",
                   "text": "Színház a vegyészek negyedében, amely az ipari közösség kulturális találkozóhelyeként szolgál.",
                   "category": "cultural",
                   "coords": [
                         49.645033,
                         40.606104
-                  ]
-            },
-            {
-                  "name": "Nərimanov adına Mədəniyyət Evi",
-                  "text": "Nəriman Nərimanov államférfiról elnevezett helyi művészeti központ.",
-                  "category": "cultural",
-                  "coords": [
-                        49.66814,
-                        40.58856
-                  ]
-            },
-            {
-                  "name": "28 May Mədəniyyət Evi",
-                  "text": "Ez a színház Azerbajdzsán függetlenségi napjának nevét viseli, és színpadi előadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        49.666916,
-                        40.581093
-                  ]
-            },
-            {
-                  "name": "2 saylı Musiqi Məktəbi",
-                  "text": "Speciális zeneiskola, amely a fiatal tehetségek képzését segíti elő Sumgaitban.",
-                  "category": "cultural",
-                  "coords": [
-                        49.679325,
-                        40.572006
-                  ]
-            },
-            {
-                  "name": "Kimyaçılar Sarayı",
-                  "text": "Monumentális szovjet kori színház, amelyet eredetileg a város ipari munkásai számára építettek.",
-                  "category": "cultural",
-                  "coords": [
-                        49.681418,
-                        40.578527
                   ]
             },
             {
@@ -1007,48 +755,12 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Lüdviqshafen parkı",
-                  "text": "Un parc de coastă numit după orașul înfrățit al Sumqayit din Germania, oferind spații verzi lângă Marea Caspică.",
-                  "category": "park",
-                  "coords": [
-                        49.681312,
-                        40.574083
-                  ]
-            },
-            {
                   "name": "Yeni Bulvar",
                   "text": "O faleză modernă de-a lungul coastei caspice, cu alei de plimbare, statui și vedere la mare.",
                   "category": "park",
                   "coords": [
                         49.682815,
                         40.597258
-                  ]
-            },
-            {
-                  "name": "Bayraq Muzeyi \\ Suçqayıt",
-                  "text": "Un muzeu dedicat istoriei și simbolismului drapelului național, situat într-o clădire cu arhitectură modernă.",
-                  "category": "museum",
-                  "coords": [
-                        49.687702,
-                        40.588317
-                  ]
-            },
-            {
-                  "name": "Tarix Muzeyi Sumqayıt",
-                  "text": "Acest muzeu documentează ascensiunea industrială și istoria culturală a orașului prin diverse descoperiri arheologice și fotografii.",
-                  "category": "museum",
-                  "coords": [
-                        49.678081,
-                        40.580665
-                  ]
-            },
-            {
-                  "name": "Heydər Əliyev Mərkəzi",
-                  "text": "Un loc cultural proeminent și muzeu care prezintă istoria regională, găzduit într-o structură contemporană impunătoare.",
-                  "category": "museum",
-                  "coords": [
-                        49.687462,
-                        40.576372
                   ]
             },
             {
@@ -1076,24 +788,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   "coords": [
                         49.55773,
                         40.618444
-                  ]
-            },
-            {
-                  "name": "Röyal abidə",
-                  "text": "Un monument local distinctiv, cu trăsături artistice care celebrează identitatea modernă a orașului.",
-                  "category": "historical",
-                  "coords": [
-                        49.692425,
-                        40.573254
-                  ]
-            },
-            {
-                  "name": "Cəlil Məmmədquluzadə heykəli",
-                  "text": "O statuie de bronz în onoarea celebrului scriitor și satiric azer Jalil Mammadguluzadeh.",
-                  "category": "historical",
-                  "coords": [
-                        49.687799,
-                        40.581666
                   ]
             },
             {
@@ -1142,84 +836,12 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ərəblinski adına Musiqili Dram Teatrı",
-                  "text": "Un teatru proeminent numit după actorul Arablinski, care pune în scenă piese muzicale și dramatice profesionale.",
-                  "category": "cultural",
-                  "coords": [
-                        49.66928,
-                        40.596716
-                  ]
-            },
-            {
-                  "name": "Fotoatelye",
-                  "text": "Un studio specializat și spațiu de galerie axat pe fotografia contemporană și artele vizuale.",
-                  "category": "cultural",
-                  "coords": [
-                        49.667919,
-                        40.594777
-                  ]
-            },
-            {
-                  "name": "Memarlıq və Dizayn",
-                  "text": "Un centru modern de arhitectură și design care găzduiește expoziții contemporane în Sumgait.",
-                  "category": "cultural",
-                  "coords": [
-                        49.668085,
-                        40.596006
-                  ]
-            },
-            {
-                  "name": "Muğam Evi",
-                  "text": "Acest centru cultural este dedicat muzicii tradiționale azerbaidjane Mugam.",
-                  "category": "cultural",
-                  "coords": [
-                        49.663561,
-                        40.593356
-                  ]
-            },
-            {
                   "name": "Mədəniyyət Evi \\ Kimyaçılar qəsəbəsi",
                   "text": "Un teatru în cartierul chimiștilor, servind ca punct de întâlnire cultural pentru comunitatea industrială.",
                   "category": "cultural",
                   "coords": [
                         49.645033,
                         40.606104
-                  ]
-            },
-            {
-                  "name": "Nərimanov adına Mədəniyyət Evi",
-                  "text": "Un centru de artă local numit după omul de stat Nəriman Nərimanov.",
-                  "category": "cultural",
-                  "coords": [
-                        49.66814,
-                        40.58856
-                  ]
-            },
-            {
-                  "name": "28 May Mədəniyyət Evi",
-                  "text": "Acest teatru poartă numele zilei independenței Azerbaidjanului și găzduiește spectacole de scenă.",
-                  "category": "cultural",
-                  "coords": [
-                        49.666916,
-                        40.581093
-                  ]
-            },
-            {
-                  "name": "2 saylı Musiqi Məktəbi",
-                  "text": "O școală de muzică specializată care promovează educația tinerelor talente din Sumgait.",
-                  "category": "cultural",
-                  "coords": [
-                        49.679325,
-                        40.572006
-                  ]
-            },
-            {
-                  "name": "Kimyaçılar Sarayı",
-                  "text": "Un teatru monumental din epoca sovietică, construit inițial pentru muncitorii industriali din oraș.",
-                  "category": "cultural",
-                  "coords": [
-                        49.681418,
-                        40.578527
                   ]
             },
             {
@@ -1306,48 +928,12 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Lüdviqshafen parkı",
-                  "text": "A coastal park named after Sumqayit's twin city in Germany, offering green spaces near the Caspian Sea.",
-                  "category": "park",
-                  "coords": [
-                        49.681312,
-                        40.574083
-                  ]
-            },
-            {
                   "name": "Yeni Bulvar",
                   "text": "A modern seaside promenade along the Caspian coast, featuring walking paths, statues, and views of the sea.",
                   "category": "park",
                   "coords": [
                         49.682815,
                         40.597258
-                  ]
-            },
-            {
-                  "name": "Bayraq Muzeyi \\ Suçqayıt",
-                  "text": "A museum dedicated to the history and symbolism of the national flag, located in a modern architectural building.",
-                  "category": "museum",
-                  "coords": [
-                        49.687702,
-                        40.588317
-                  ]
-            },
-            {
-                  "name": "Tarix Muzeyi Sumqayıt",
-                  "text": "This museum documents the industrial rise and cultural history of the city through various archaeological finds and photographs.",
-                  "category": "museum",
-                  "coords": [
-                        49.678081,
-                        40.580665
-                  ]
-            },
-            {
-                  "name": "Heydar Aliyev Centre",
-                  "text": "A prominent cultural venue and museum showcasing regional history, housed in a grand contemporary structure.",
-                  "category": "museum",
-                  "coords": [
-                        49.687462,
-                        40.576372
                   ]
             },
             {
@@ -1375,24 +961,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   "coords": [
                         49.55773,
                         40.618444
-                  ]
-            },
-            {
-                  "name": "Röyal abidə",
-                  "text": "A distinctive local monument with artistic features that celebrate the city's modern identity.",
-                  "category": "historical",
-                  "coords": [
-                        49.692425,
-                        40.573254
-                  ]
-            },
-            {
-                  "name": "Cəlil Məmmədquluzadə heykəli",
-                  "text": "A bronze statue honoring the famous Azerbaijani writer and satirist Jalil Mammadguluzadeh.",
-                  "category": "historical",
-                  "coords": [
-                        49.687799,
-                        40.581666
                   ]
             },
             {
@@ -1441,84 +1009,12 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arablinski Musical Dramatic Theatre",
-                  "text": "A prominent theater named after the actor Arablinski, staging professional musical and dramatic plays.",
-                  "category": "cultural",
-                  "coords": [
-                        49.66928,
-                        40.596716
-                  ]
-            },
-            {
-                  "name": "Fotoatelye",
-                  "text": "A specialized studio and gallery space focusing on contemporary photography and visual arts.",
-                  "category": "cultural",
-                  "coords": [
-                        49.667919,
-                        40.594777
-                  ]
-            },
-            {
-                  "name": "Memarlıq və Dizayn",
-                  "text": "A modern architecture and design centre showcasing contemporary exhibitions in Sumgait.",
-                  "category": "cultural",
-                  "coords": [
-                        49.668085,
-                        40.596006
-                  ]
-            },
-            {
-                  "name": "Muğam Evi",
-                  "text": "This cultural centre is dedicated to traditional Azerbaijani Mugam music performances.",
-                  "category": "cultural",
-                  "coords": [
-                        49.663561,
-                        40.593356
-                  ]
-            },
-            {
                   "name": "Mədəniyyət Evi \\ Kimyaçılar qəsəbəsi",
                   "text": "A theatre in the chemists' settlement, serving as a cultural hub for the industrial community.",
                   "category": "cultural",
                   "coords": [
                         49.645033,
                         40.606104
-                  ]
-            },
-            {
-                  "name": "Nərimanov adına Mədəniyyət Evi",
-                  "text": "A local arts centre named after the statesman Nariman Narimanov.",
-                  "category": "cultural",
-                  "coords": [
-                        49.66814,
-                        40.58856
-                  ]
-            },
-            {
-                  "name": "28 May Mədəniyyət Evi",
-                  "text": "Named after Azerbaijan's Independence Day, this theatre hosts various stage performances.",
-                  "category": "cultural",
-                  "coords": [
-                        49.666916,
-                        40.581093
-                  ]
-            },
-            {
-                  "name": "2 saylı Musiqi Məktəbi",
-                  "text": "A specialized music school promoting the education of young talents in Sumgait.",
-                  "category": "cultural",
-                  "coords": [
-                        49.679325,
-                        40.572006
-                  ]
-            },
-            {
-                  "name": "Kimyaçılar Sarayı",
-                  "text": "A monumental Soviet-era theatre building originally constructed for the city's industrial workers.",
-                  "category": "cultural",
-                  "coords": [
-                        49.681418,
-                        40.578527
                   ]
             },
             {
@@ -3880,15 +3376,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Yay Teatrı",
-                  "text": "Ein Freilufttheater in Sumqayıt, in dem während der Sommermonate kulturelle Aufführungen unter freiem Himmel stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        49.682578,
-                        40.600487
-                  ]
-            },
-            {
                   "name": "Meridian",
                   "text": "Ein moderner Wasserpark an der Küste, der mit zahlreichen Rutschen und Pools Familienspaß am Meer bietet.",
                   "category": "recreational",
@@ -3942,15 +3429,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   "coords": [
                         49.771017,
                         40.57637
-                  ]
-            },
-            {
-                  "name": "Yay Teatrı",
-                  "text": "Szabadtéri színház Szumgajitban, amely a nyári hónapokban kulturális előadásoknak ad otthont a csillagos ég alatt.",
-                  "category": "cultural",
-                  "coords": [
-                        49.682578,
-                        40.600487
                   ]
             },
             {
@@ -4010,15 +3488,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Yay Teatrı",
-                  "text": "Un teatru în aer liber din Sumqayıt, care găzduiește spectacole culturale sub cerul liber în lunile de vară.",
-                  "category": "cultural",
-                  "coords": [
-                        49.682578,
-                        40.600487
-                  ]
-            },
-            {
                   "name": "Meridian",
                   "text": "Un parc acvatic modern pe coastă, care oferă distracție pentru familie cu numeroase tobogane și piscine.",
                   "category": "recreational",
@@ -4072,15 +3541,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   "coords": [
                         49.771017,
                         40.57637
-                  ]
-            },
-            {
-                  "name": "Yay Teatrı",
-                  "text": "An open-air theatre in Sumqayıt hosting cultural performances under the sky during the summer months.",
-                  "category": "cultural",
-                  "coords": [
-                        49.682578,
-                        40.600487
                   ]
             },
             {
@@ -6609,15 +6069,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mədəniyyət Evi",
-                  "text": "Ein Kulturhaus in Shirvan, in dem regelmäßig Theateraufführungen und lokale Feste stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        48.909321,
-                        39.933221
-                  ]
-            },
-            {
                   "name": "Bayrağ Meydanı",
                   "text": "Ein öffentlicher Platz in Shirvan, der durch einen imposanten Mast mit der Nationalflagge Aserbaidschans geprägt ist.",
                   "category": "landmark",
@@ -6645,30 +6096,12 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Yay Teatrı",
-                  "text": "Ein Freilufttheater in Shirvan, das besonders in den Sommermonaten für Open-Air-Konzerte genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        48.935788,
-                        39.955839
-                  ]
-            },
-            {
                   "name": "20 Yanvar Abidəsi",
                   "text": "Dieses Denkmal erinnert an die tragischen Ereignisse des „Schwarzen Januars“ 1990 in Baku.",
                   "category": "historical",
                   "coords": [
                         48.9373,
                         39.957279
-                  ]
-            },
-            {
-                  "name": "Üç yol",
-                  "text": "Eine markante Dreiwegekreuzung in Shirvan, die als lokaler Orientierungspunkt und Treffpunkt bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        48.896423,
-                        39.946464
                   ]
             },
             {
@@ -6782,15 +6215,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mədəniyyət Evi",
-                  "text": "Kulturális központ Sirvánban, ahol rendszeresen tartanak színházi előadásokat és helyi ünnepségeket.",
-                  "category": "cultural",
-                  "coords": [
-                        48.909321,
-                        39.933221
-                  ]
-            },
-            {
                   "name": "Bayrağ Meydanı",
                   "text": "Közösségi tér Sirvánban, amelyet az azerbajdzsáni nemzeti lobogót tartó hatalmas árboc ural.",
                   "category": "landmark",
@@ -6818,30 +6242,12 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Yay Teatrı",
-                  "text": "Szabadtéri színház Sirvánban, amelyet főként a nyári hónapokban használnak koncertekhez.",
-                  "category": "cultural",
-                  "coords": [
-                        48.935788,
-                        39.955839
-                  ]
-            },
-            {
                   "name": "20 Yanvar Abidəsi",
                   "text": "Ez az emlékmű az 1990-es bakui „fekete január” tragikus eseményeire emlékeztet.",
                   "category": "historical",
                   "coords": [
                         48.9373,
                         39.957279
-                  ]
-            },
-            {
-                  "name": "Üç yol",
-                  "text": "Jellegzetes hármas útkereszteződés Sirvánban, amely helyi tájékozódási pont és találkozóhely.",
-                  "category": "landmark",
-                  "coords": [
-                        48.896423,
-                        39.946464
                   ]
             },
             {
@@ -6955,15 +6361,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mədəniyyət Evi",
-                  "text": "O casă de cultură în Shirvan, unde se desfășoară regulat spectacole de teatru și festivități locale.",
-                  "category": "cultural",
-                  "coords": [
-                        48.909321,
-                        39.933221
-                  ]
-            },
-            {
                   "name": "Bayrağ Meydanı",
                   "text": "O piață publică din Shirvan, dominată de un catarg impunător cu steagul național al Azerbaidjanului.",
                   "category": "landmark",
@@ -6991,30 +6388,12 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Yay Teatrı",
-                  "text": "Un teatru de vară în Shirvan, utilizat în special în lunile calde pentru concerte în aer liber.",
-                  "category": "cultural",
-                  "coords": [
-                        48.935788,
-                        39.955839
-                  ]
-            },
-            {
                   "name": "20 Yanvar Abidəsi",
                   "text": "Acest monument comemorează evenimentele tragice ale „Ianuariei Negre” din 1990 din Baku.",
                   "category": "historical",
                   "coords": [
                         48.9373,
                         39.957279
-                  ]
-            },
-            {
-                  "name": "Üç yol",
-                  "text": "O intersecție importantă cu trei căi din Shirvan, cunoscută ca punct local de orientare și întâlnire.",
-                  "category": "landmark",
-                  "coords": [
-                        48.896423,
-                        39.946464
                   ]
             },
             {
@@ -7128,15 +6507,6 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mədəniyyət Evi",
-                  "text": "A house of culture in Shirvan where theater performances and local festivities are regularly held.",
-                  "category": "cultural",
-                  "coords": [
-                        48.909321,
-                        39.933221
-                  ]
-            },
-            {
                   "name": "Bayrağ Meydanı",
                   "text": "A public square in Shirvan dominated by an imposing mast flying the national flag of Azerbaijan.",
                   "category": "landmark",
@@ -7164,30 +6534,12 @@ export const poiExtraAzerbaijanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Yay Teatrı",
-                  "text": "An open-air theater in Shirvan, used mainly during the summer months for outdoor concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        48.935788,
-                        39.955839
-                  ]
-            },
-            {
                   "name": "20 Yanvar Abidəsi",
                   "text": "This monument commemorates the tragic events of 'Black January' 1990 in Baku.",
                   "category": "historical",
                   "coords": [
                         48.9373,
                         39.957279
-                  ]
-            },
-            {
-                  "name": "Üç yol",
-                  "text": "A prominent three-way junction in Shirvan, known as a local landmark and meeting point.",
-                  "category": "landmark",
-                  "coords": [
-                        48.896423,
-                        39.946464
                   ]
             },
             {

@@ -2380,15 +2380,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                         5.209747,
                         50.117645
                   ]
-            },
-            {
-                  "name": "Domaine des Grottes de Han",
-                  "text": "Ein bedeutendes Naturschutzgebiet mit bekannten Tropfsteinhöhlen und Wildpark.",
-                  "category": "natural",
-                  "coords": [
-                        5.202666,
-                        50.11774
-                  ]
             }
       ],
       "hu": [
@@ -2453,15 +2444,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   "coords": [
                         5.209747,
                         50.117645
-                  ]
-            },
-            {
-                  "name": "Domaine des Grottes de Han",
-                  "text": "Jelentős természetvédelmi terület híres cseppkőbarlangokkal és vadasparkkal.",
-                  "category": "natural",
-                  "coords": [
-                        5.202666,
-                        50.11774
                   ]
             }
       ],
@@ -2528,15 +2510,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                         5.209747,
                         50.117645
                   ]
-            },
-            {
-                  "name": "Domaine des Grottes de Han",
-                  "text": "O rezervație naturală importantă, celebră pentru peșterile sale și parcul cu animale sălbatice.",
-                  "category": "natural",
-                  "coords": [
-                        5.202666,
-                        50.11774
-                  ]
             }
       ],
       "en": [
@@ -2601,15 +2574,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   "coords": [
                         5.209747,
                         50.117645
-                  ]
-            },
-            {
-                  "name": "Domaine des Grottes de Han",
-                  "text": "A major nature reserve famous for its caves and wildlife park.",
-                  "category": "natural",
-                  "coords": [
-                        5.202666,
-                        50.11774
                   ]
             }
       ]
@@ -2679,15 +2643,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   ]
             },
             {
-                  "name": "Spotters 26R",
-                  "text": "Ein Aussichtspunkt für Luftfahrtenthusiasten am nahegelegenen Luftwaffenstützpunkt.",
-                  "category": "natural",
-                  "coords": [
-                        4.666918,
-                        50.243781
-                  ]
-            },
-            {
                   "name": "Spotters 08R",
                   "text": "Ein Beobachtungspunkt mit Blick auf den Flugbetrieb am Luftwaffenstützpunkt Florennes.",
                   "category": "natural",
@@ -2723,15 +2678,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   "coords": [
                         4.623692,
                         50.24478
-                  ]
-            },
-            {
-                  "name": "Spotters 26R",
-                  "text": "Kijelölt kilátóhely repülésrajongók számára a közeli légibázis megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        4.666918,
-                        50.243781
                   ]
             },
             {
@@ -2773,15 +2719,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   ]
             },
             {
-                  "name": "Spotters 26R",
-                  "text": "Un punct de observație desemnat pentru pasionații de aviație de la baza aeriană.",
-                  "category": "natural",
-                  "coords": [
-                        4.666918,
-                        50.243781
-                  ]
-            },
-            {
                   "name": "Spotters 08R",
                   "text": "Un punct de observație care oferă vederi asupra operațiunilor de la Baza Aeriană Florennes.",
                   "category": "natural",
@@ -2817,15 +2754,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   "coords": [
                         4.623692,
                         50.24478
-                  ]
-            },
-            {
-                  "name": "Spotters 26R",
-                  "text": "A designated viewpoint for aviation enthusiasts to watch planes at the nearby air base.",
-                  "category": "natural",
-                  "coords": [
-                        4.666918,
-                        50.243781
                   ]
             },
             {
@@ -2994,15 +2922,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   ]
             },
             {
-                  "name": "Kasteel Magis",
-                  "text": "Erbaut im 19. Jahrhundert in der Abtei von Val Dieu.",
-                  "category": "castle",
-                  "coords": [
-                        5.841762,
-                        50.716861
-                  ]
-            },
-            {
                   "name": "Château Blanc",
                   "text": "Erbaut 1764 in der Abtei von Val Dieu.",
                   "category": "castle",
@@ -3018,33 +2937,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   "coords": [
                         5.768042,
                         50.707912
-                  ]
-            },
-            {
-                  "name": "Fort Aubin Neufchâteau",
-                  "text": "Fort Aubin-Neufchâteau, eine Festung des 19. Jahrhunderts im Festungsgürtel von Lüttich, heute Museum.",
-                  "category": "fortress",
-                  "coords": [
-                        5.788825,
-                        50.72084
-                  ]
-            },
-            {
-                  "name": "Réserve naturelle du moulin du Val Dieu",
-                  "text": "Ein Naturschutzgebiet mit einer historischen Mühle in der Nähe der Abtei Val-Dieu.",
-                  "category": "natural",
-                  "coords": [
-                        5.80853,
-                        50.700013
-                  ]
-            },
-            {
-                  "name": "Musée Fort d'Aubin-Neufchâteau",
-                  "text": "Ein Museum, das in den unterirdischen Galerien des Forts Aubin-Neufchâteau eingerichtet wurde.",
-                  "category": "museum",
-                  "coords": [
-                        5.783582,
-                        50.719762
                   ]
             },
             {
@@ -3068,15 +2960,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   ]
             },
             {
-                  "name": "Kasteel Magis",
-                  "text": "A 19. században épült a Val Dieu apátságban.",
-                  "category": "castle",
-                  "coords": [
-                        5.841762,
-                        50.716861
-                  ]
-            },
-            {
                   "name": "Château Blanc",
                   "text": "1764-ben épült a Val Dieu apátságban.",
                   "category": "castle",
@@ -3092,33 +2975,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   "coords": [
                         5.768042,
                         50.707912
-                  ]
-            },
-            {
-                  "name": "Fort Aubin Neufchâteau",
-                  "text": "Aubin-Neufchâteau erőd, egy 19. századi erődítmény a liège-i erődövben, ma múzeum.",
-                  "category": "fortress",
-                  "coords": [
-                        5.788825,
-                        50.72084
-                  ]
-            },
-            {
-                  "name": "Réserve naturelle du moulin du Val Dieu",
-                  "text": "Természetvédelmi terület egy történelmi malommal a Val-Dieu apátság közelében.",
-                  "category": "natural",
-                  "coords": [
-                        5.80853,
-                        50.700013
-                  ]
-            },
-            {
-                  "name": "Musée Fort d'Aubin-Neufchâteau",
-                  "text": "Az Aubin-Neufchâteau erőd földalatti járataiban kialakított múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        5.783582,
-                        50.719762
                   ]
             },
             {
@@ -3142,15 +2998,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   ]
             },
             {
-                  "name": "Kasteel Magis",
-                  "text": "Construit în secolul al XIX-lea la Abația Val Dieu.",
-                  "category": "castle",
-                  "coords": [
-                        5.841762,
-                        50.716861
-                  ]
-            },
-            {
                   "name": "Château Blanc",
                   "text": "Construit în 1764 la Abația Val Dieu.",
                   "category": "castle",
@@ -3166,33 +3013,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   "coords": [
                         5.768042,
                         50.707912
-                  ]
-            },
-            {
-                  "name": "Fort Aubin Neufchâteau",
-                  "text": "Fortul Aubin-Neufchâteau, o fortăreață din secolul al XIX-lea din centura de fortificații a Liège-ului, acum muzeu.",
-                  "category": "fortress",
-                  "coords": [
-                        5.788825,
-                        50.72084
-                  ]
-            },
-            {
-                  "name": "Réserve naturelle du moulin du Val Dieu",
-                  "text": "O rezervație naturală cu o moară istorică lângă abația Val-Dieu.",
-                  "category": "natural",
-                  "coords": [
-                        5.80853,
-                        50.700013
-                  ]
-            },
-            {
-                  "name": "Musée Fort d'Aubin-Neufchâteau",
-                  "text": "Un muzeu amenajat în galeriile subterane ale fortului Aubin-Neufchâteau.",
-                  "category": "museum",
-                  "coords": [
-                        5.783582,
-                        50.719762
                   ]
             },
             {
@@ -3216,15 +3036,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   ]
             },
             {
-                  "name": "Kasteel Magis",
-                  "text": "Built in the 19th century at the Abbey of Val Dieu.",
-                  "category": "castle",
-                  "coords": [
-                        5.841762,
-                        50.716861
-                  ]
-            },
-            {
                   "name": "Château Blanc",
                   "text": "Built in 1764 at the Abbey of Val Dieu.",
                   "category": "castle",
@@ -3240,33 +3051,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   "coords": [
                         5.768042,
                         50.707912
-                  ]
-            },
-            {
-                  "name": "Fort Aubin Neufchâteau",
-                  "text": "Fort Aubin-Neufchâteau, a 19th-century fortress in the Liège fortification belt, now a museum.",
-                  "category": "fortress",
-                  "coords": [
-                        5.788825,
-                        50.72084
-                  ]
-            },
-            {
-                  "name": "Réserve naturelle du moulin du Val Dieu",
-                  "text": "A nature reserve featuring a historic mill near the Val-Dieu Abbey.",
-                  "category": "natural",
-                  "coords": [
-                        5.80853,
-                        50.700013
-                  ]
-            },
-            {
-                  "name": "Musée Fort d'Aubin-Neufchâteau",
-                  "text": "A museum established within the underground galleries of Fort Aubin-Neufchâteau.",
-                  "category": "museum",
-                  "coords": [
-                        5.783582,
-                        50.719762
                   ]
             },
             {
@@ -4729,122 +4513,10 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
   },
   {
     id: "belgium-abbey-of-florenville-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Ruines de l'abbaye cistercienne",
-                  "text": "Die Ruinen der Zisterzienserabtei Orval sind ein bedeutendes archäologisches Denkmal in Florenville.",
-                  "category": "historical",
-                  "coords": [
-                        5.348624,
-                        49.640294
-                  ]
-            },
-            {
-                  "name": "Château de l'Abbaye",
-                  "text": "Schloss der Abtei Florenville – ehemaliger Klosterbau mit Turm und Innenhof.",
-                  "category": "castle",
-                  "coords": [
-                        5.34765,
-                        49.634288
-                  ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "Église Saint-Martin ist eine römisch-katholische Kirche in Florenville, nahe der Abtei Florenville.",
-                  "category": "religious",
-                  "coords": [
-                        5.350624,
-                        49.614668
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Ruines de l'abbaye cistercienne",
-                  "text": "Az Orval ciszterci apátság romjai Florenville-ben jelentős régészeti emléket képviselnek.",
-                  "category": "historical",
-                  "coords": [
-                        5.348624,
-                        49.640294
-                  ]
-            },
-            {
-                  "name": "Château de l'Abbaye",
-                  "text": "A florenville-i apátság kastélya – egykori kolostorépület toronnyal és udvarral.",
-                  "category": "castle",
-                  "coords": [
-                        5.34765,
-                        49.634288
-                  ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "Az Église Saint-Martin egy római katolikus templom Florenville-ben, a Florenville-i Apátság közelében található.",
-                  "category": "religious",
-                  "coords": [
-                        5.350624,
-                        49.614668
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Ruines de l'abbaye cistercienne",
-                  "text": "Ruinele abației cisterciene Orval reprezintă un monument arheologic important din Florenville.",
-                  "category": "historical",
-                  "coords": [
-                        5.348624,
-                        49.640294
-                  ]
-            },
-            {
-                  "name": "Château de l'Abbaye",
-                  "text": "Castelul abației din Florenville – o fostă clădire monastică, cu turn și curte interioară.",
-                  "category": "castle",
-                  "coords": [
-                        5.34765,
-                        49.634288
-                  ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "Église Saint-Martin este o biserică romano-catolică din Florenville, lângă Abația Florenville.",
-                  "category": "religious",
-                  "coords": [
-                        5.350624,
-                        49.614668
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ruines de l'abbaye cistercienne",
-                  "text": "The ruins of the Cistercian Abbey of Orval are a significant archaeological monument in Florenville.",
-                  "category": "historical",
-                  "coords": [
-                        5.348624,
-                        49.640294
-                  ]
-            },
-            {
-                  "name": "Château de l'Abbaye",
-                  "text": "Château de l'Abbaye in Florenville, a former monastic building with a tower and courtyard.",
-                  "category": "castle",
-                  "coords": [
-                        5.34765,
-                        49.634288
-                  ]
-            },
-            {
-                  "name": "Église Saint-Martin",
-                  "text": "Église Saint-Martin is a Roman Catholic church in Florenville, near the Abbey of Florenville.",
-                  "category": "religious",
-                  "coords": [
-                        5.350624,
-                        49.614668
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "ruins",
     parent: "BE",
@@ -5073,15 +4745,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
     id: "belgium-abbey-of-florenville-orval-history-v2", "sights": {
       "de": [
             {
-                  "name": "Ruines de l'abbaye cistercienne",
-                  "text": "Ruinen einer Zisterzienserabtei, die für ihr Trappistenbier und ihren Käse bekannt ist.",
-                  "category": "historical",
-                  "coords": [
-                        5.348624,
-                        49.640294
-                  ]
-            },
-            {
                   "name": "Château de l'Abbaye",
                   "text": "Ein Schlossgebäude, das mit der historischen Abtei Orval verbunden ist.",
                   "category": "castle",
@@ -5110,15 +4773,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             }
       ],
       "hu": [
-            {
-                  "name": "Ruines de l'abbaye cistercienne",
-                  "text": "Ciszterci apátság romjai, amely trappista söréről és sajtjáról híres.",
-                  "category": "historical",
-                  "coords": [
-                        5.348624,
-                        49.640294
-                  ]
-            },
             {
                   "name": "Château de l'Abbaye",
                   "text": "Az Orval-apátsághoz kapcsolódó kastélyépület.",
@@ -5149,15 +4803,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
       ],
       "ro": [
             {
-                  "name": "Ruines de l'abbaye cistercienne",
-                  "text": "Ruinele unei abații cisterciene renumite pentru berea și brânza sa trapistă.",
-                  "category": "historical",
-                  "coords": [
-                        5.348624,
-                        49.640294
-                  ]
-            },
-            {
                   "name": "Château de l'Abbaye",
                   "text": "O clădire de castel asociată cu istorica abație Orval.",
                   "category": "castle",
@@ -5186,15 +4831,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
             }
       ],
       "en": [
-            {
-                  "name": "Ruines de l'abbaye cistercienne",
-                  "text": "Ruins of a Cistercian abbey famous for its Trappist beer and cheese.",
-                  "category": "historical",
-                  "coords": [
-                        5.348624,
-                        49.640294
-                  ]
-            },
             {
                   "name": "Château de l'Abbaye",
                   "text": "A castle building associated with the historic Orval Abbey.",
@@ -5586,24 +5222,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
     id: "belgium-abbey-of-florennes-abbaye-history-v2", "sights": {
       "de": [
             {
-                  "name": "Château de Florennes",
-                  "text": "Ein historisches Schloss in Florennes, heute Teil der lokalen Geschichte.",
-                  "category": "castle",
-                  "coords": [
-                        4.600986,
-                        50.251285
-                  ]
-            },
-            {
-                  "name": "Musée Spitfire",
-                  "text": "Museum in Florennes, das dem berühmten Spitfire-Jagdflugzeug gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        4.623692,
-                        50.24478
-                  ]
-            },
-            {
                   "name": "Spotters 26R",
                   "text": "Beobachtungsplatz für Flugzeuge, die von der Startbahn 26R des Fliegerhorsts Florennes starten.",
                   "category": "natural",
@@ -5611,45 +5229,9 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                         4.666918,
                         50.243781
                   ]
-            },
-            {
-                  "name": "Spotters 08R",
-                  "text": "Aussichtspunkt zur Beobachtung von Flugzeugen am Flugplatz Florennes.",
-                  "category": "natural",
-                  "coords": [
-                        4.62596,
-                        50.235867
-                  ]
-            },
-            {
-                  "name": "Chapelle Saint Pierre",
-                  "text": "Historische Kapelle und Denkmal in der Nähe der Ruinen von Florennes.",
-                  "category": "historical",
-                  "coords": [
-                        4.607774,
-                        50.252896
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Château de Florennes",
-                  "text": "Florennes történelmi kastélya, a helyi örökség része.",
-                  "category": "castle",
-                  "coords": [
-                        4.600986,
-                        50.251285
-                  ]
-            },
-            {
-                  "name": "Musée Spitfire",
-                  "text": "Florennes-i múzeum, amelyet a híres Spitfire vadászgépnek szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        4.623692,
-                        50.24478
-                  ]
-            },
             {
                   "name": "Spotters 26R",
                   "text": "Repülőgép-megfigyelő hely a florennes-i légibázis 26R kifutópályájáról felszálló gépek számára.",
@@ -5658,45 +5240,9 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                         4.666918,
                         50.243781
                   ]
-            },
-            {
-                  "name": "Spotters 08R",
-                  "text": "Kilátópont a repülőgépek megfigyelésére a florennes-i repülőtéren.",
-                  "category": "natural",
-                  "coords": [
-                        4.62596,
-                        50.235867
-                  ]
-            },
-            {
-                  "name": "Chapelle Saint Pierre",
-                  "text": "Történelmi kápolna és műemlék Florennes romjainak közelében.",
-                  "category": "historical",
-                  "coords": [
-                        4.607774,
-                        50.252896
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Château de Florennes",
-                  "text": "Un castel istoric în Florennes, parte a patrimoniului local.",
-                  "category": "castle",
-                  "coords": [
-                        4.600986,
-                        50.251285
-                  ]
-            },
-            {
-                  "name": "Musée Spitfire",
-                  "text": "Muzeu în Florennes dedicat celebrului avion de vânătoare Spitfire.",
-                  "category": "museum",
-                  "coords": [
-                        4.623692,
-                        50.24478
-                  ]
-            },
             {
                   "name": "Spotters 26R",
                   "text": "Un loc de observare a avioanelor care decolează de pe pista 26R a bazei aeriene Florennes.",
@@ -5705,45 +5251,9 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                         4.666918,
                         50.243781
                   ]
-            },
-            {
-                  "name": "Spotters 08R",
-                  "text": "Punct de observație pentru avioane la aerodromul din Florennes.",
-                  "category": "natural",
-                  "coords": [
-                        4.62596,
-                        50.235867
-                  ]
-            },
-            {
-                  "name": "Chapelle Saint Pierre",
-                  "text": "Capelă istorică și monument lângă ruinele din Florennes.",
-                  "category": "historical",
-                  "coords": [
-                        4.607774,
-                        50.252896
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Château de Florennes",
-                  "text": "A historic castle in Florennes, part of the local heritage.",
-                  "category": "castle",
-                  "coords": [
-                        4.600986,
-                        50.251285
-                  ]
-            },
-            {
-                  "name": "Musée Spitfire",
-                  "text": "Museum in Florennes dedicated to the famous Spitfire fighter aircraft.",
-                  "category": "museum",
-                  "coords": [
-                        4.623692,
-                        50.24478
-                  ]
-            },
             {
                   "name": "Spotters 26R",
                   "text": "A spotter's location for aircraft taking off from runway 26R at Florennes airbase.",
@@ -5751,24 +5261,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   "coords": [
                         4.666918,
                         50.243781
-                  ]
-            },
-            {
-                  "name": "Spotters 08R",
-                  "text": "Observation point for watching aircraft at the Florennes airfield.",
-                  "category": "natural",
-                  "coords": [
-                        4.62596,
-                        50.235867
-                  ]
-            },
-            {
-                  "name": "Chapelle Saint Pierre",
-                  "text": "Historic chapel and monument near the ruins of Florennes.",
-                  "category": "historical",
-                  "coords": [
-                        4.607774,
-                        50.252896
                   ]
             }
       ]
@@ -5910,39 +5402,12 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
     id: "belgium-abbey-of-val-dieu-bis-history-v2", "sights": {
       "de": [
             {
-                  "name": "Abbaye du Val-Dieu",
-                  "text": "Eine historische Zisterzienserabtei, die für ihr kulturelles Erbe und ihre Parkanlagen bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        5.806965,
-                        50.697226
-                  ]
-            },
-            {
                   "name": "Kasteel Magis",
                   "text": "Ein historisches Schloss in der Nähe der Abtei Val-Dieu, das von einer grünen Landschaft umgeben ist.",
                   "category": "castle",
                   "coords": [
                         5.841762,
                         50.716861
-                  ]
-            },
-            {
-                  "name": "Château Blanc",
-                  "text": "Ein elegantes weißes Schloss, das sich in der malerischen Umgebung nahe der Abtei befindet.",
-                  "category": "castle",
-                  "coords": [
-                        5.768814,
-                        50.677459
-                  ]
-            },
-            {
-                  "name": "Château de Wodémont",
-                  "text": "Eine historische Burganlage mit charakteristischer Architektur in der Region um Val-Dieu.",
-                  "category": "castle",
-                  "coords": [
-                        5.768042,
-                        50.707912
                   ]
             },
             {
@@ -5971,27 +5436,9 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                         5.783582,
                         50.719762
                   ]
-            },
-            {
-                  "name": "Château-Ferme de Haméval",
-                  "text": "Ein historisches befestigtes Bauernhaus und Schloss in der Nähe des Val-Dieu-Parks.",
-                  "category": "castle",
-                  "coords": [
-                        5.809517,
-                        50.668818
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Abbaye du Val-Dieu",
-                  "text": "Történelmi ciszterci apátság, amely kulturális örökségéről és parkjairól ismert.",
-                  "category": "religious",
-                  "coords": [
-                        5.806965,
-                        50.697226
-                  ]
-            },
             {
                   "name": "Kasteel Magis",
                   "text": "Történelmi kastély a Val-Dieu apátság közelében, amelyet zöld táj vesz körül.",
@@ -5999,24 +5446,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   "coords": [
                         5.841762,
                         50.716861
-                  ]
-            },
-            {
-                  "name": "Château Blanc",
-                  "text": "Elegáns fehér kastély, amely az apátság közelében, festői környezetben található.",
-                  "category": "castle",
-                  "coords": [
-                        5.768814,
-                        50.677459
-                  ]
-            },
-            {
-                  "name": "Château de Wodémont",
-                  "text": "Történelmi várhelyszín jellegzetes építészettel a Val-Dieu környéki régióban.",
-                  "category": "castle",
-                  "coords": [
-                        5.768042,
-                        50.707912
                   ]
             },
             {
@@ -6045,27 +5474,9 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                         5.783582,
                         50.719762
                   ]
-            },
-            {
-                  "name": "Château-Ferme de Haméval",
-                  "text": "Történelmi várkastély és erődített udvarház a Val-Dieu park közelében.",
-                  "category": "castle",
-                  "coords": [
-                        5.809517,
-                        50.668818
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Abbaye du Val-Dieu",
-                  "text": "O abație cisterciană istorică, cunoscută pentru patrimoniul său cultural și parcurile sale.",
-                  "category": "religious",
-                  "coords": [
-                        5.806965,
-                        50.697226
-                  ]
-            },
             {
                   "name": "Kasteel Magis",
                   "text": "Un castel istoric lângă abația Val-Dieu, înconjurat de un peisaj verde.",
@@ -6073,24 +5484,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   "coords": [
                         5.841762,
                         50.716861
-                  ]
-            },
-            {
-                  "name": "Château Blanc",
-                  "text": "Un castel alb elegant situat în cadrul pitoresc din apropierea abației.",
-                  "category": "castle",
-                  "coords": [
-                        5.768814,
-                        50.677459
-                  ]
-            },
-            {
-                  "name": "Château de Wodémont",
-                  "text": "Un sit istoric de castel cu arhitectură caracteristică în regiunea din jurul Val-Dieu.",
-                  "category": "castle",
-                  "coords": [
-                        5.768042,
-                        50.707912
                   ]
             },
             {
@@ -6119,27 +5512,9 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                         5.783582,
                         50.719762
                   ]
-            },
-            {
-                  "name": "Château-Ferme de Haméval",
-                  "text": "O fermă fortificată istorică și un castel situate lângă parcul Val-Dieu.",
-                  "category": "castle",
-                  "coords": [
-                        5.809517,
-                        50.668818
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Abbaye du Val-Dieu",
-                  "text": "A historic Cistercian abbey known for its cultural heritage and parkland.",
-                  "category": "religious",
-                  "coords": [
-                        5.806965,
-                        50.697226
-                  ]
-            },
             {
                   "name": "Kasteel Magis",
                   "text": "A historical castle near Val-Dieu Abbey, surrounded by a green landscape.",
@@ -6147,24 +5522,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   "coords": [
                         5.841762,
                         50.716861
-                  ]
-            },
-            {
-                  "name": "Château Blanc",
-                  "text": "An elegant white castle located in the picturesque setting near the abbey.",
-                  "category": "castle",
-                  "coords": [
-                        5.768814,
-                        50.677459
-                  ]
-            },
-            {
-                  "name": "Château de Wodémont",
-                  "text": "A historical castle site with characteristic architecture in the region around Val-Dieu.",
-                  "category": "castle",
-                  "coords": [
-                        5.768042,
-                        50.707912
                   ]
             },
             {
@@ -6192,15 +5549,6 @@ imageHint: "La Roche-en-Ardenne castle ruins Ourthe river",
                   "coords": [
                         5.783582,
                         50.719762
-                  ]
-            },
-            {
-                  "name": "Château-Ferme de Haméval",
-                  "text": "A historic fortified farmhouse and castle located near the Val-Dieu park.",
-                  "category": "castle",
-                  "coords": [
-                        5.809517,
-                        50.668818
                   ]
             }
       ]

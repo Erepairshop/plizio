@@ -6,24 +6,6 @@ export const northmacedoniaReliefV2: POI[] = [
     id: "northmacedonia-korab-peak-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Golem Korab",
-                  "text": "Der Berg Korab ist mit 2764 m der höchste Gipfel Nordmazedoniens an der Grenze zu Albanien.",
-                  "category": "natural",
-                  "coords": [
-                        20.546858,
-                        41.790343
-                  ]
-            },
-            {
-                  "name": "Maja e Radomirës",
-                  "text": "Maja e Radomirës ist der Hauptgipfel des Korab-Massivs an der Grenze.",
-                  "category": "landmark",
-                  "coords": [
-                        20.544306,
-                        41.8028
-                  ]
-            },
-            {
                   "name": "Varri i Sejmenit",
                   "text": "Varri i Sejmenit ist ein markanter Ort am Berg Korab in der Grenzregion.",
                   "category": "landmark",
@@ -34,24 +16,6 @@ export const northmacedoniaReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Golem Korab",
-                  "text": "A Korab-hegy (2764 m) Észak-Macedónia legmagasabb csúcsa az albán határon.",
-                  "category": "natural",
-                  "coords": [
-                        20.546858,
-                        41.790343
-                  ]
-            },
-            {
-                  "name": "Maja e Radomirës",
-                  "text": "A Maja e Radomirës a Korab-hegység főcsúcsa a határon.",
-                  "category": "landmark",
-                  "coords": [
-                        20.544306,
-                        41.8028
-                  ]
-            },
             {
                   "name": "Varri i Sejmenit",
                   "text": "Varri i Sejmenit egy jellegzetes helyszín a Korab-hegyen, a határvidéken.",
@@ -64,24 +28,6 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Golem Korab",
-                  "text": "Muntele Korab, cu 2764 m, este cel mai înalt vârf al Macedoniei de Nord la granița cu Albania.",
-                  "category": "natural",
-                  "coords": [
-                        20.546858,
-                        41.790343
-                  ]
-            },
-            {
-                  "name": "Maja e Radomirës",
-                  "text": "Maja e Radomirës este vârful principal al masivului Korab, situat la frontieră.",
-                  "category": "landmark",
-                  "coords": [
-                        20.544306,
-                        41.8028
-                  ]
-            },
-            {
                   "name": "Varri i Sejmenit",
                   "text": "Varri i Sejmenit este un loc proeminent pe muntele Korab, în regiunea de frontieră.",
                   "category": "landmark",
@@ -92,24 +38,6 @@ export const northmacedoniaReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Mount Korab",
-                  "text": "Mount Korab, at 2,764 m, is the highest peak in North Macedonia on the border with Albania.",
-                  "category": "natural",
-                  "coords": [
-                        20.546858,
-                        41.790343
-                  ]
-            },
-            {
-                  "name": "Maja e Radomirës",
-                  "text": "Maja e Radomirës is the main peak of the Korab mountain range on the border.",
-                  "category": "landmark",
-                  "coords": [
-                        20.544306,
-                        41.8028
-                  ]
-            },
             {
                   "name": "Varri i Sejmenit",
                   "text": "Varri i Sejmenit is a prominent location on Mount Korab in the border region.",
@@ -213,42 +141,6 @@ export const northmacedoniaReliefV2: POI[] = [
     id: "northmacedonia-pelister-peak-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Stiv",
-                  "text": "Ein Berggipfel im Pelister-Massiv in Nordmazedonien.",
-                  "category": "landmark",
-                  "coords": [
-                        21.19937,
-                        41.013292
-                  ]
-            },
-            {
-                  "name": "Ilinden",
-                  "text": "Gipfel im Pelister-Nationalpark mit weitem Ausblick.",
-                  "category": "landmark",
-                  "coords": [
-                        21.191696,
-                        41.005421
-                  ]
-            },
-            {
-                  "name": "Pelister",
-                  "text": "Höchster Gipfel des Baba-Gebirges im Pelister-Nationalpark.",
-                  "category": "landmark",
-                  "coords": [
-                        21.183191,
-                        41.002662
-                  ]
-            },
-            {
-                  "name": "Vidikovets",
-                  "text": "Aussichtspunkt mit Panorama auf die umliegenden Berge.",
-                  "category": "natural",
-                  "coords": [
-                        21.205916,
-                        41.024694
-                  ]
-            },
-            {
                   "name": "Jorgov Kamen",
                   "text": "Natürliche Felsformation auf dem Pelister-Gipfel mit Panoramablick über den Berg.",
                   "category": "natural",
@@ -286,42 +178,6 @@ export const northmacedoniaReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Stiv",
-                  "text": "Hegycsúcs az észak-macedóniai Peliszter-masszívumban.",
-                  "category": "landmark",
-                  "coords": [
-                        21.19937,
-                        41.013292
-                  ]
-            },
-            {
-                  "name": "Ilinden",
-                  "text": "Csúcs a Peliszter Nemzeti Parkban, széles kilátással.",
-                  "category": "landmark",
-                  "coords": [
-                        21.191696,
-                        41.005421
-                  ]
-            },
-            {
-                  "name": "Pelister",
-                  "text": "A Baba-hegység legmagasabb csúcsa a Peliszter Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        21.183191,
-                        41.002662
-                  ]
-            },
-            {
-                  "name": "Vidikovets",
-                  "text": "Kilátópont panorámával a környező hegyekre.",
-                  "category": "natural",
-                  "coords": [
-                        21.205916,
-                        41.024694
-                  ]
-            },
             {
                   "name": "Jorgov Kamen",
                   "text": "Természetes sziklaformáció a Pelister-csúcson, panorámás kilátással a hegyre.",
@@ -361,42 +217,6 @@ export const northmacedoniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Stiv",
-                  "text": "Un vârf montan în masivul Pelister din Macedonia de Nord.",
-                  "category": "landmark",
-                  "coords": [
-                        21.19937,
-                        41.013292
-                  ]
-            },
-            {
-                  "name": "Ilinden",
-                  "text": "Vârf în Parcul Național Pelister cu vederi largi.",
-                  "category": "landmark",
-                  "coords": [
-                        21.191696,
-                        41.005421
-                  ]
-            },
-            {
-                  "name": "Pelister",
-                  "text": "Cel mai înalt vârf al muntelui Baba din Parcul Național Pelister.",
-                  "category": "landmark",
-                  "coords": [
-                        21.183191,
-                        41.002662
-                  ]
-            },
-            {
-                  "name": "Vidikovets",
-                  "text": "Punct de observație cu panoramă asupra munților din jur.",
-                  "category": "natural",
-                  "coords": [
-                        21.205916,
-                        41.024694
-                  ]
-            },
-            {
                   "name": "Jorgov Kamen",
                   "text": "Formațiune naturală de stâncă pe Vârful Pelister, cu vedere panoramică asupra muntelui.",
                   "category": "natural",
@@ -434,42 +254,6 @@ export const northmacedoniaReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Stiv",
-                  "text": "A mountain peak in the Pelister massif of North Macedonia.",
-                  "category": "landmark",
-                  "coords": [
-                        21.19937,
-                        41.013292
-                  ]
-            },
-            {
-                  "name": "Ilinden",
-                  "text": "Peak in the Pelister National Park with expansive views.",
-                  "category": "landmark",
-                  "coords": [
-                        21.191696,
-                        41.005421
-                  ]
-            },
-            {
-                  "name": "Pelister",
-                  "text": "The highest peak of the Baba Mountain in the Pelister National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        21.183191,
-                        41.002662
-                  ]
-            },
-            {
-                  "name": "Vidikovec (Viewpoint)",
-                  "text": "Viewpoint offering a panorama of the surrounding mountains.",
-                  "category": "natural",
-                  "coords": [
-                        21.205916,
-                        41.024694
-                  ]
-            },
             {
                   "name": "Jorgov Kamen",
                   "text": "Natural rock formation on Pelister Peak, offering panoramic views of the mountain.",
@@ -553,86 +337,10 @@ export const northmacedoniaReliefV2: POI[] = [
   },
   {
     id: "northmacedonia-golem-korab-plateau-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Golem Korab",
-                  "text": "Der höchste Gipfel in Albanien und Nordmazedonien, gelegen im Korab-Gebirge.",
-                  "category": "natural",
-                  "coords": [
-                        20.546858,
-                        41.790343
-                  ]
-            },
-            {
-                  "name": "Maja e Radomirës",
-                  "text": "Ein markanter Berggipfel im Korab-Massiv an der Grenze zwischen Albanien und Nordmazedonien.",
-                  "category": "landmark",
-                  "coords": [
-                        20.544306,
-                        41.8028
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Golem Korab",
-                  "text": "Albánia és Észak-Macedónia legmagasabb csúcsa a Korab-hegységben.",
-                  "category": "natural",
-                  "coords": [
-                        20.546858,
-                        41.790343
-                  ]
-            },
-            {
-                  "name": "Maja e Radomirës",
-                  "text": "A Korab-masszívum egyik kiemelkedő hegycsúcsa az albán-északmacedón határon.",
-                  "category": "landmark",
-                  "coords": [
-                        20.544306,
-                        41.8028
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Golem Korab",
-                  "text": "Cel mai înalt vârf din Albania și Macedonia de Nord, situat în munții Korab.",
-                  "category": "natural",
-                  "coords": [
-                        20.546858,
-                        41.790343
-                  ]
-            },
-            {
-                  "name": "Maja e Radomirës",
-                  "text": "Un vârf montan proeminent în masivul Korab, la granița dintre Albania și Macedonia de Nord.",
-                  "category": "landmark",
-                  "coords": [
-                        20.544306,
-                        41.8028
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mount Korab",
-                  "text": "The highest peak in both Albania and North Macedonia, located in the Korab mountain range.",
-                  "category": "natural",
-                  "coords": [
-                        20.546858,
-                        41.790343
-                  ]
-            },
-            {
-                  "name": "Maja e Radomirës",
-                  "text": "A prominent mountain peak in the Korab massif on the border between Albania and North Macedonia.",
-                  "category": "landmark",
-                  "coords": [
-                        20.544306,
-                        41.8028
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "landmark",
     parent: "MK",
@@ -769,50 +477,10 @@ export const northmacedoniaReliefV2: POI[] = [
   },
   {
     id: "northmacedonia-baba-mountain-range-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Vidikovets",
-                  "text": "Ein Aussichtspunkt im Baba-Gebirge mit weitem Blick auf die umliegende Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        21.205916,
-                        41.024694
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Vidikovets",
-                  "text": "Kilátóhely a Baba-hegységben, ahonnan messzire ellátni a környező tájra.",
-                  "category": "natural",
-                  "coords": [
-                        21.205916,
-                        41.024694
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Vidikovets",
-                  "text": "Un punct de observație în Munții Baba, oferind vederi spectaculoase asupra peisajului.",
-                  "category": "natural",
-                  "coords": [
-                        21.205916,
-                        41.024694
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Vidikovec (Viewpoint)",
-                  "text": "A scenic viewpoint in the Baba Mountain Range offering wide vistas of the landscape.",
-                  "category": "natural",
-                  "coords": [
-                        21.205916,
-                        41.024694
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "MK",
@@ -949,122 +617,10 @@ export const northmacedoniaReliefV2: POI[] = [
   },
   {
     id: "northmacedonia-galicica-mountain-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Bajrache",
-                  "text": "Ein Berggipfel im Galicica-Nationalpark, gelegen zwischen dem Ohrid- und dem Prespasee.",
-                  "category": "landmark",
-                  "coords": [
-                        20.832286,
-                        40.976077
-                  ]
-            },
-            {
-                  "name": "Baba",
-                  "text": "Ein Aussichtspunkt auf dem Galičica-Berg mit Blick auf die umliegenden Seen.",
-                  "category": "natural",
-                  "coords": [
-                        20.812532,
-                        40.953938
-                  ]
-            },
-            {
-                  "name": "Koritski Rid",
-                  "text": "Ein beliebter Aussichtspunkt im Galicica-Gebirge, bekannt für sein Panorama.",
-                  "category": "natural",
-                  "coords": [
-                        20.811311,
-                        40.965271
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Bajrache",
-                  "text": "Hegycsúcs a Galicica Nemzeti Parkban, az Ohridi- és a Preszpa-tó között.",
-                  "category": "landmark",
-                  "coords": [
-                        20.832286,
-                        40.976077
-                  ]
-            },
-            {
-                  "name": "Baba",
-                  "text": "Kilátópont a Galicica-hegyen, ahonnan rálátni a környező tavakra.",
-                  "category": "natural",
-                  "coords": [
-                        20.812532,
-                        40.953938
-                  ]
-            },
-            {
-                  "name": "Koritski Rid",
-                  "text": "Népszerű kilátóhely a Galicica-hegységben, amely panorámás tájáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        20.811311,
-                        40.965271
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Bajrache",
-                  "text": "Un vârf muntos din Parcul Național Galičica, situat între lacurile Ohrid și Prespa.",
-                  "category": "landmark",
-                  "coords": [
-                        20.832286,
-                        40.976077
-                  ]
-            },
-            {
-                  "name": "Baba",
-                  "text": "Un punct de belvedere pe muntele Galičica, oferind vederi asupra lacurilor din jur.",
-                  "category": "natural",
-                  "coords": [
-                        20.812532,
-                        40.953938
-                  ]
-            },
-            {
-                  "name": "Koritski Rid",
-                  "text": "Un punct de belvedere popular pe creasta Galičica, cunoscut pentru peisajul panoramic.",
-                  "category": "natural",
-                  "coords": [
-                        20.811311,
-                        40.965271
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Bajrače",
-                  "text": "A mountain peak in the Galicica National Park, situated between Lakes Ohrid and Prespa.",
-                  "category": "landmark",
-                  "coords": [
-                        20.832286,
-                        40.976077
-                  ]
-            },
-            {
-                  "name": "Baba",
-                  "text": "A scenic viewpoint on Galičica Mountain offering vistas of the surrounding lakes.",
-                  "category": "natural",
-                  "coords": [
-                        20.812532,
-                        40.953938
-                  ]
-            },
-            {
-                  "name": "Koritski Rigde",
-                  "text": "A popular viewing spot on the Galicica range known for its panoramic landscape.",
-                  "category": "natural",
-                  "coords": [
-                        20.811311,
-                        40.965271
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "MK",
@@ -1156,50 +712,10 @@ export const northmacedoniaReliefV2: POI[] = [
   },
   {
     id: "northmacedonia-belasica-mountains-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Belasica Mountain",
-                  "text": "Ein Gebirge im Grenzgebiet, das für seine reiche Flora und Wanderwege bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        22.764212,
-                        41.345309
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Belasica Mountain",
-                  "text": "A határvidéken fekvő hegység, amely gazdag flórájáról és túraútvonalairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        22.764212,
-                        41.345309
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Belasica Mountain",
-                  "text": "Un munte în zona de frontieră, cunoscut pentru flora sa bogată și traseele de drumeție.",
-                  "category": "landmark",
-                  "coords": [
-                        22.764212,
-                        41.345309
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Belasica Mountain",
-                  "text": "A mountain in the border area, known for its rich flora and hiking trails.",
-                  "category": "landmark",
-                  "coords": [
-                        22.764212,
-                        41.345309
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "MK",
@@ -1291,86 +807,10 @@ export const northmacedoniaReliefV2: POI[] = [
   },
   {
     id: "northmacedonia-pcinja-valley-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Bazen FZTs",
-                  "text": "Freizeitbad namens FZTs im Pcinja-Tal.",
-                  "category": "recreational",
-                  "coords": [
-                        21.742363,
-                        42.121252
-                  ]
-            },
-            {
-                  "name": "Gradski bazen",
-                  "text": "Das öffentliche städtische Schwimmbad in der Region Kumanovo.",
-                  "category": "recreational",
-                  "coords": [
-                        21.726818,
-                        42.131642
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Bazen FZTs",
-                  "text": "FZTs nevű rekreációs medence a Pcinja-völgyben.",
-                  "category": "recreational",
-                  "coords": [
-                        21.742363,
-                        42.121252
-                  ]
-            },
-            {
-                  "name": "Gradski bazen",
-                  "text": "A kumanovói régió nyilvános városi úszómedencéje.",
-                  "category": "recreational",
-                  "coords": [
-                        21.726818,
-                        42.131642
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Bazen FZTs",
-                  "text": "Piscină recreativă numită FZTs în Valea Pcinja.",
-                  "category": "recreational",
-                  "coords": [
-                        21.742363,
-                        42.121252
-                  ]
-            },
-            {
-                  "name": "Gradski bazen",
-                  "text": "Piscina municipală publică din regiunea Kumanovo.",
-                  "category": "recreational",
-                  "coords": [
-                        21.726818,
-                        42.131642
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Bazen FZTs",
-                  "text": "Recreational pool named FZTs in the Pcinja Valley.",
-                  "category": "recreational",
-                  "coords": [
-                        21.742363,
-                        42.121252
-                  ]
-            },
-            {
-                  "name": "Gradski bazen",
-                  "text": "The public municipal swimming pool in the Kumanovo region.",
-                  "category": "recreational",
-                  "coords": [
-                        21.726818,
-                        42.131642
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "valley",
     parent: "MK",
@@ -1642,50 +1082,10 @@ export const northmacedoniaReliefV2: POI[] = [
   },
   {
     id: "northmacedonia-treska-canyon-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Peshtera Vrelo",
-                  "text": "Eine beeindruckende Höhle im Treska-Canyon, bekannt für ihre tiefen Unterwasserbecken.",
-                  "category": "landmark",
-                  "coords": [
-                        21.292269,
-                        41.93016
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Peshtera Vrelo",
-                  "text": "Látványos barlang a Treska-kanyonban, amely mély vízalatti tavairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        21.292269,
-                        41.93016
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Peshtera Vrelo",
-                  "text": "O peșteră impresionantă din canionul Treska, cunoscută pentru lacurile sale subterane adânci.",
-                  "category": "landmark",
-                  "coords": [
-                        21.292269,
-                        41.93016
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Vrelo Cave",
-                  "text": "An impressive cave in the Treska Canyon, known for its deep underwater pools.",
-                  "category": "landmark",
-                  "coords": [
-                        21.292269,
-                        41.93016
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "valley",
     parent: "MK",
@@ -1777,50 +1177,10 @@ export const northmacedoniaReliefV2: POI[] = [
   },
   {
     id: "northmacedonia-kajmakcalan-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Sv. Petar",
-                  "text": "Eine Gedenkkapelle auf dem Gipfel des Kajmakčalan, gewidmet den gefallenen Soldaten.",
-                  "category": "landmark",
-                  "coords": [
-                        21.786055,
-                        40.9307
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Sv. Petar",
-                  "text": "Emlékkápolna a Kajmakčalan-csúcson, az elesett katonák emlékére.",
-                  "category": "landmark",
-                  "coords": [
-                        21.786055,
-                        40.9307
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Sv. Petar",
-                  "text": "O capelă memorială situată pe vârful Kajmakčalan, dedicată soldaților căzuți.",
-                  "category": "landmark",
-                  "coords": [
-                        21.786055,
-                        40.9307
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "St. Peter",
-                  "text": "A memorial chapel located on the Kajmakčalan peak, dedicated to fallen soldiers.",
-                  "category": "landmark",
-                  "coords": [
-                        21.786055,
-                        40.9307
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "peak",
     parent: "MK",
@@ -2038,194 +1398,10 @@ export const northmacedoniaReliefV2: POI[] = [
   },
   {
     id: "northmacedonia-busova-peak-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Museum of Western Macedonia in the War of National Liberation",
-                  "text": "Ein Museum, das dem Widerstand und der Geschichte Westmazedoniens während des Zweiten Weltkriegs gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        20.963812,
-                        41.512798
-                  ]
-            },
-            {
-                  "name": "Kichevski Manastir",
-                  "text": "Ein bedeutendes orthodoxes Kloster, das für seine Architektur und geistliche Tradition bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        20.934948,
-                        41.459422
-                  ]
-            },
-            {
-                  "name": "Khristo Uzunov",
-                  "text": "Ein Denkmal zu Ehren von Hristo Uzunov, einem bedeutenden revolutionären Kämpfer der Region.",
-                  "category": "historical",
-                  "coords": [
-                        20.922262,
-                        41.483575
-                  ]
-            },
-            {
-                  "name": "Kitino Kale",
-                  "text": "Ein historisches Denkmal, das die Überreste einer alten Festungsanlage auf dem Gipfel markiert.",
-                  "category": "historical",
-                  "coords": [
-                        20.966456,
-                        41.512991
-                  ]
-            },
-            {
-                  "name": "Sv. Antonij",
-                  "text": "Eine christliche Kirche in Bigor Dolenci, die dem Heiligen Antonius gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        20.995297,
-                        41.481798
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Museum of Western Macedonia in the War of National Liberation",
-                  "text": "Múzeum, amelyet Nyugat-Macedónia második világháborús ellenállásának és történelmének szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        20.963812,
-                        41.512798
-                  ]
-            },
-            {
-                  "name": "Kichevski Manastir",
-                  "text": "Jelentős ortodox kolostor, amely építészetéről és szellemi hagyományairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        20.934948,
-                        41.459422
-                  ]
-            },
-            {
-                  "name": "Khristo Uzunov",
-                  "text": "Hriszto Uzunov, a régió jelentős forradalmi harcosának tiszteletére emelt emlékmű.",
-                  "category": "historical",
-                  "coords": [
-                        20.922262,
-                        41.483575
-                  ]
-            },
-            {
-                  "name": "Kitino Kale",
-                  "text": "Történelmi emlékmű, amely egy régi erődítmény maradványait jelzi a csúcson.",
-                  "category": "historical",
-                  "coords": [
-                        20.966456,
-                        41.512991
-                  ]
-            },
-            {
-                  "name": "Sv. Antonij",
-                  "text": "Szent Antalnak szentelt keresztény templom Bigor Dolenciben.",
-                  "category": "religious",
-                  "coords": [
-                        20.995297,
-                        41.481798
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Museum of Western Macedonia in the War of National Liberation",
-                  "text": "Un muzeu dedicat rezistenței și istoriei Macedoniei de Vest în timpul celui de-al Doilea Război Mondial.",
-                  "category": "museum",
-                  "coords": [
-                        20.963812,
-                        41.512798
-                  ]
-            },
-            {
-                  "name": "Kichevski Manastir",
-                  "text": "O mănăstire ortodoxă importantă, cunoscută pentru arhitectura sa și tradiția spirituală.",
-                  "category": "landmark",
-                  "coords": [
-                        20.934948,
-                        41.459422
-                  ]
-            },
-            {
-                  "name": "Khristo Uzunov",
-                  "text": "Un monument în cinstea lui Hristo Uzunov, un luptător revoluționar proeminent din regiune.",
-                  "category": "historical",
-                  "coords": [
-                        20.922262,
-                        41.483575
-                  ]
-            },
-            {
-                  "name": "Kitino Kale",
-                  "text": "Un monument istoric care marchează rămășițele unei vechi fortificații de pe vârf.",
-                  "category": "historical",
-                  "coords": [
-                        20.966456,
-                        41.512991
-                  ]
-            },
-            {
-                  "name": "Sv. Antonij",
-                  "text": "O biserică creștină în Bigor Dolenci, dedicată Sfântului Antonie.",
-                  "category": "religious",
-                  "coords": [
-                        20.995297,
-                        41.481798
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Museum of Western Macedonia in the War of National Liberation",
-                  "text": "A museum dedicated to the resistance and history of Western Macedonia during the Second World War.",
-                  "category": "museum",
-                  "coords": [
-                        20.963812,
-                        41.512798
-                  ]
-            },
-            {
-                  "name": "Monastery of Kichevo",
-                  "text": "A significant Orthodox monastery known for its architecture and spiritual tradition.",
-                  "category": "landmark",
-                  "coords": [
-                        20.934948,
-                        41.459422
-                  ]
-            },
-            {
-                  "name": "Hristo Uzunov",
-                  "text": "A monument honoring Hristo Uzunov, a prominent revolutionary fighter of the region.",
-                  "category": "historical",
-                  "coords": [
-                        20.922262,
-                        41.483575
-                  ]
-            },
-            {
-                  "name": "Kita Castle",
-                  "text": "A historical monument marking the remains of an old fortification on the peak.",
-                  "category": "historical",
-                  "coords": [
-                        20.966456,
-                        41.512991
-                  ]
-            },
-            {
-                  "name": "St. Antony",
-                  "text": "A Christian church in Bigor Dolenci dedicated to Saint Antony.",
-                  "category": "religious",
-                  "coords": [
-                        20.995297,
-                        41.481798
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "peak",
     parent: "MK",
@@ -2398,50 +1574,10 @@ export const northmacedoniaReliefV2: POI[] = [
   },
   {
     id: "northmacedonia-osogovo-peak-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Ruen",
-                  "text": "Der Ruen ist der höchste Gipfel des Osogovo-Gebirges an der Grenze.",
-                  "category": "landmark",
-                  "coords": [
-                        22.516274,
-                        42.158009
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Ruen",
-                  "text": "A Ruen az Osogovo-hegység legmagasabb csúcsa a határ mentén.",
-                  "category": "landmark",
-                  "coords": [
-                        22.516274,
-                        42.158009
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Ruen",
-                  "text": "Ruen este cel mai înalt vârf din munții Osogovo, situat pe frontieră.",
-                  "category": "landmark",
-                  "coords": [
-                        22.516274,
-                        42.158009
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ruen",
-                  "text": "Ruen is the highest peak of the Osogovo Mountains located on the border.",
-                  "category": "landmark",
-                  "coords": [
-                        22.516274,
-                        42.158009
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "peak",
     parent: "MK",
@@ -2490,15 +1626,6 @@ export const northmacedoniaReliefV2: POI[] = [
     id: "northmacedonia-belasica-peak-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Koleshinski vodopad",
-                  "text": "Ein beeindruckender Wasserfall im Belasica-Gebirge, der über Kaskaden in ein bewaldetes Tal stürzt.",
-                  "category": "landmark",
-                  "coords": [
-                        22.806863,
-                        41.369436
-                  ]
-            },
-            {
                   "name": "Belasica Mountain",
                   "text": "Ein grenzüberschreitendes Gebirge, das für seine dichten Wälder, Wasserfälle und Wanderwege bekannt ist.",
                   "category": "landmark",
@@ -2506,27 +1633,9 @@ export const northmacedoniaReliefV2: POI[] = [
                         22.764212,
                         41.345309
                   ]
-            },
-            {
-                  "name": "Gabrovo Waterfalls",
-                  "text": "Eine Gruppe von Wasserfällen im Belasica-Gebirge, die in einer malerischen natürlichen Umgebung liegen.",
-                  "category": "landmark",
-                  "coords": [
-                        22.789373,
-                        41.375616
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Koleshinski vodopad",
-                  "text": "Lenyűgöző vízesés a Belasica-hegységben, amely kaskádokon keresztül zúdul egy erdős völgybe.",
-                  "category": "landmark",
-                  "coords": [
-                        22.806863,
-                        41.369436
-                  ]
-            },
             {
                   "name": "Belasica Mountain",
                   "text": "Határokon átnyúló hegység, amely sűrű erdőiről, vízeséseiről és túraútvonalairól ismert.",
@@ -2535,27 +1644,9 @@ export const northmacedoniaReliefV2: POI[] = [
                         22.764212,
                         41.345309
                   ]
-            },
-            {
-                  "name": "Gabrovo Waterfalls",
-                  "text": "Vízesések csoportja a Belasica-hegységben, amelyek festői természeti környezetben találhatók.",
-                  "category": "landmark",
-                  "coords": [
-                        22.789373,
-                        41.375616
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Koleshinski vodopad",
-                  "text": "O cascadă impresionantă în munții Belasica, care cade în cascade într-o vale împădurită.",
-                  "category": "landmark",
-                  "coords": [
-                        22.806863,
-                        41.369436
-                  ]
-            },
             {
                   "name": "Belasica Mountain",
                   "text": "Un lanț muntos transfrontalier, cunoscut pentru pădurile sale dese, cascadele și traseele de drumeție.",
@@ -2564,27 +1655,9 @@ export const northmacedoniaReliefV2: POI[] = [
                         22.764212,
                         41.345309
                   ]
-            },
-            {
-                  "name": "Gabrovo Waterfalls",
-                  "text": "Un grup de cascade în munții Belasica, situate într-un cadru natural pitoresc.",
-                  "category": "landmark",
-                  "coords": [
-                        22.789373,
-                        41.375616
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Koleshino Falls",
-                  "text": "An impressive waterfall in the Belasica mountains, plunging over cascades into a forested valley.",
-                  "category": "landmark",
-                  "coords": [
-                        22.806863,
-                        41.369436
-                  ]
-            },
             {
                   "name": "Belasica Mountain",
                   "text": "A cross-border mountain range known for its dense forests, waterfalls, and hiking trails.",
@@ -2592,15 +1665,6 @@ export const northmacedoniaReliefV2: POI[] = [
                   "coords": [
                         22.764212,
                         41.345309
-                  ]
-            },
-            {
-                  "name": "Gabrovo Waterfalls",
-                  "text": "A group of waterfalls in the Belasica mountains, set in a picturesque natural environment.",
-                  "category": "landmark",
-                  "coords": [
-                        22.789373,
-                        41.375616
                   ]
             }
       ]
@@ -2938,42 +2002,6 @@ export const northmacedoniaReliefV2: POI[] = [
                         21.205916,
                         41.024694
                   ]
-            },
-            {
-                  "name": "Jorgov Kamen",
-                  "text": "Ein Panoramapunkt am Baba-Berg, bekannt für seine Aussicht auf die Natur.",
-                  "category": "natural",
-                  "coords": [
-                        21.222828,
-                        41.02141
-                  ]
-            },
-            {
-                  "name": "Crveni Steni (Red Rocks)",
-                  "text": "Ein Aussichtspunkt am Baba-Berg, benannt nach den auffälligen roten Felsen der Gegend.",
-                  "category": "natural",
-                  "coords": [
-                        21.219523,
-                        41.010206
-                  ]
-            },
-            {
-                  "name": "Dihovo river pool",
-                  "text": "Ein Schwimmbereich am Fluss Dihovo in der Nähe des Baba-Gipfels.",
-                  "category": "recreational",
-                  "coords": [
-                        21.255515,
-                        41.021581
-                  ]
-            },
-            {
-                  "name": "Basen Dihovo",
-                  "text": "Eine Schwimmstätte im Gebiet Dihovo in der Nähe des Baba-Gipfels.",
-                  "category": "recreational",
-                  "coords": [
-                        21.257966,
-                        41.025937
-                  ]
             }
       ],
       "hu": [
@@ -3011,42 +2039,6 @@ export const northmacedoniaReliefV2: POI[] = [
                   "coords": [
                         21.205916,
                         41.024694
-                  ]
-            },
-            {
-                  "name": "Jorgov Kamen",
-                  "text": "Panorámás pont a Baba-hegyen, amely a természetre nyíló kilátásáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        21.222828,
-                        41.02141
-                  ]
-            },
-            {
-                  "name": "Crveni Steni (Red Rocks)",
-                  "text": "Kilátóhely a Baba-hegyen, amely a környék feltűnő vörös szikláiról kapta a nevét.",
-                  "category": "natural",
-                  "coords": [
-                        21.219523,
-                        41.010206
-                  ]
-            },
-            {
-                  "name": "Dihovo river pool",
-                  "text": "A Baba-csúcs közelében, a Dihovo-folyó mellett található úszóhely.",
-                  "category": "recreational",
-                  "coords": [
-                        21.255515,
-                        41.021581
-                  ]
-            },
-            {
-                  "name": "Basen Dihovo",
-                  "text": "A Baba-csúcs közelében, Dihovo területén található úszólétesítmény.",
-                  "category": "recreational",
-                  "coords": [
-                        21.257966,
-                        41.025937
                   ]
             }
       ],
@@ -3086,42 +2078,6 @@ export const northmacedoniaReliefV2: POI[] = [
                         21.205916,
                         41.024694
                   ]
-            },
-            {
-                  "name": "Jorgov Kamen",
-                  "text": "Un punct panoramic pe muntele Baba, cunoscut pentru vederile sale asupra naturii.",
-                  "category": "natural",
-                  "coords": [
-                        21.222828,
-                        41.02141
-                  ]
-            },
-            {
-                  "name": "Crveni Steni (Red Rocks)",
-                  "text": "Un punct de observație pe muntele Baba, numit după stâncile roșii proeminente din zonă.",
-                  "category": "natural",
-                  "coords": [
-                        21.219523,
-                        41.010206
-                  ]
-            },
-            {
-                  "name": "Dihovo river pool",
-                  "text": "O zonă cu piscină situată lângă Vârful Baba, lângă râul Dihovo.",
-                  "category": "recreational",
-                  "coords": [
-                        21.255515,
-                        41.021581
-                  ]
-            },
-            {
-                  "name": "Basen Dihovo",
-                  "text": "O facilitate de înot situată în zona Dihovo, lângă Vârful Baba.",
-                  "category": "recreational",
-                  "coords": [
-                        21.257966,
-                        41.025937
-                  ]
             }
       ],
       "en": [
@@ -3159,42 +2115,6 @@ export const northmacedoniaReliefV2: POI[] = [
                   "coords": [
                         21.205916,
                         41.024694
-                  ]
-            },
-            {
-                  "name": "Jorgov Kamen",
-                  "text": "A panoramic spot on Baba Mountain known for its views of the natural landscape.",
-                  "category": "natural",
-                  "coords": [
-                        21.222828,
-                        41.02141
-                  ]
-            },
-            {
-                  "name": "Crveni Steni (Red Rocks)",
-                  "text": "A viewpoint on Baba Mountain named after the prominent red rocks in the area.",
-                  "category": "natural",
-                  "coords": [
-                        21.219523,
-                        41.010206
-                  ]
-            },
-            {
-                  "name": "Dihovo river pool",
-                  "text": "A swimming pool area located near Baba Peak by the Dihovo river.",
-                  "category": "recreational",
-                  "coords": [
-                        21.255515,
-                        41.021581
-                  ]
-            },
-            {
-                  "name": "Basen Dihovo",
-                  "text": "A swimming facility situated in the Dihovo area near Baba Peak.",
-                  "category": "recreational",
-                  "coords": [
-                        21.257966,
-                        41.025937
                   ]
             }
       ]

@@ -330,266 +330,10 @@ imageHint: "Wide wild river Vjosa flowing through a valley",
     image: "/poi-images/albania-vjosa-river-nature-v2.webp",
 },  {
     id: "albania-theth-valley-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Muzeu Etnografik i Dukagjinit",
-                  "text": "Ein Museum im Theth-Tal, das traditionelle Kleidung und Alltagsgegenstände der Region zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        19.785228,
-                        42.387331
-                  ]
-            },
-            {
-                  "name": "Vendbanim Prehistorik i Sistemit Taracor",
-                  "text": "Eine archäologische Stätte im Theth-Tal, die Hinweise auf frühe terrassierte Siedlungen gibt.",
-                  "category": "historical",
-                  "coords": [
-                        19.790507,
-                        42.374715
-                  ]
-            },
-            {
-                  "name": "Maja e Zorzit",
-                  "text": "Ein markanter Berggipfel in den albanischen Alpen nahe dem Theth-Tal.",
-                  "category": "landmark",
-                  "coords": [
-                        19.76959,
-                        42.370567
-                  ]
-            },
-            {
-                  "name": "Grunas Wasserfall",
-                  "text": "Ein beeindruckender Wasserfall im Theth-Tal, der als Naturdenkmal geschützt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        19.795255,
-                        42.377408
-                  ]
-            },
-            {
-                  "name": "Water mill",
-                  "text": "Eine historische Wassermühle im Theth-Tal, die die traditionelle Lebensweise der Region veranschaulicht.",
-                  "category": "landmark",
-                  "coords": [
-                        19.770116,
-                        42.399649
-                  ]
-            },
-            {
-                  "name": "Vaskat e Nderlysajve",
-                  "text": "Natürliche Felsbecken im Theth-Tal, die für ihr klares Gebirgswasser bekannt sind.",
-                  "category": "landmark",
-                  "coords": [
-                        19.765257,
-                        42.355926
-                  ]
-            },
-            {
-                  "name": "Canyon of Grunas",
-                  "text": "Ein natürlicher Canyon im Theth-Tal, der für seine beeindruckenden Felsformationen bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        19.789351,
-                        42.375023
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Muzeu Etnografik i Dukagjinit",
-                  "text": "Múzeum a Theth-völgyben, amely a régió népviseleteit és mindennapi tárgyait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        19.785228,
-                        42.387331
-                  ]
-            },
-            {
-                  "name": "Vendbanim Prehistorik i Sistemit Taracor",
-                  "text": "Régészeti lelőhely a Theth-völgyben, amely korai teraszos települések nyomait őrzi.",
-                  "category": "historical",
-                  "coords": [
-                        19.790507,
-                        42.374715
-                  ]
-            },
-            {
-                  "name": "Maja e Zorzit",
-                  "text": "Jellegzetes hegycsúcs az Albán-Alpokban, a Theth-völgy közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        19.76959,
-                        42.370567
-                  ]
-            },
-            {
-                  "name": "Ujëvara e Grunasit",
-                  "text": "Lenyűgöző vízesés a Theth-völgyben, amely természetvédelmi terület.",
-                  "category": "landmark",
-                  "coords": [
-                        19.795255,
-                        42.377408
-                  ]
-            },
-            {
-                  "name": "Water mill",
-                  "text": "Történelmi vízimalom a Theth-völgyben, amely a régió hagyományos életmódját szemlélteti.",
-                  "category": "landmark",
-                  "coords": [
-                        19.770116,
-                        42.399649
-                  ]
-            },
-            {
-                  "name": "Vaskat e Nderlysajve",
-                  "text": "Természetes sziklamedencék a Theth-völgyben, amelyek tiszta hegyi vizükről ismertek.",
-                  "category": "landmark",
-                  "coords": [
-                        19.765257,
-                        42.355926
-                  ]
-            },
-            {
-                  "name": "Canyon of Grunas",
-                  "text": "Természetes szurdok a Theth-völgyben, amely látványos sziklaalakzatairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        19.789351,
-                        42.375023
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Muzeu Etnografik i Dukagjinit",
-                  "text": "Un muzeu din Valea Theth care expune haine tradiționale și obiecte de uz cotidian din regiune.",
-                  "category": "museum",
-                  "coords": [
-                        19.785228,
-                        42.387331
-                  ]
-            },
-            {
-                  "name": "Vendbanim Prehistorik i Sistemit Taracor",
-                  "text": "Un sit arheologic din Valea Theth care prezintă urme ale unor așezări terasate timpurii.",
-                  "category": "historical",
-                  "coords": [
-                        19.790507,
-                        42.374715
-                  ]
-            },
-            {
-                  "name": "Maja e Zorzit",
-                  "text": "Un vârf muntos proeminent din Alpii Albanezi, situat lângă Valea Theth.",
-                  "category": "landmark",
-                  "coords": [
-                        19.76959,
-                        42.370567
-                  ]
-            },
-            {
-                  "name": "Ujëvara e Grunasit",
-                  "text": "O cascadă impresionantă din Valea Theth, protejată ca monument al naturii.",
-                  "category": "landmark",
-                  "coords": [
-                        19.795255,
-                        42.377408
-                  ]
-            },
-            {
-                  "name": "Water mill",
-                  "text": "O moară de apă istorică din Valea Theth, care ilustrează modul de viață tradițional din regiune.",
-                  "category": "landmark",
-                  "coords": [
-                        19.770116,
-                        42.399649
-                  ]
-            },
-            {
-                  "name": "Vaskat e Nderlysajve",
-                  "text": "Bazine naturale în stâncă din Valea Theth, cunoscute pentru apa lor muntoasă limpede.",
-                  "category": "landmark",
-                  "coords": [
-                        19.765257,
-                        42.355926
-                  ]
-            },
-            {
-                  "name": "Canyon of Grunas",
-                  "text": "Un canion natural în Valea Theth, cunoscut pentru formațiunile sale stâncoase pitorești.",
-                  "category": "landmark",
-                  "coords": [
-                        19.789351,
-                        42.375023
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ethnographic Museum of Dukagjin",
-                  "text": "A museum in the Theth Valley displaying traditional clothing and everyday objects from the region.",
-                  "category": "museum",
-                  "coords": [
-                        19.785228,
-                        42.387331
-                  ]
-            },
-            {
-                  "name": "Prehistoric Settlement with Terraces",
-                  "text": "An archaeological site in the Theth Valley showing evidence of early terraced settlements.",
-                  "category": "historical",
-                  "coords": [
-                        19.790507,
-                        42.374715
-                  ]
-            },
-            {
-                  "name": "Maja e Zorzit",
-                  "text": "A prominent mountain peak in the Albanian Alps located near the Theth Valley.",
-                  "category": "landmark",
-                  "coords": [
-                        19.76959,
-                        42.370567
-                  ]
-            },
-            {
-                  "name": "Grunas Waterfall",
-                  "text": "An impressive waterfall in the Theth Valley, protected as a natural monument.",
-                  "category": "landmark",
-                  "coords": [
-                        19.795255,
-                        42.377408
-                  ]
-            },
-            {
-                  "name": "Water mill",
-                  "text": "A historic water mill in the Theth Valley illustrating the traditional way of life in the region.",
-                  "category": "landmark",
-                  "coords": [
-                        19.770116,
-                        42.399649
-                  ]
-            },
-            {
-                  "name": "The Baths of the Intercessors",
-                  "text": "Natural rock pools in the Theth Valley known for their clear mountain water.",
-                  "category": "landmark",
-                  "coords": [
-                        19.765257,
-                        42.355926
-                  ]
-            },
-            {
-                  "name": "Canyon of Grunas",
-                  "text": "A natural canyon in the Theth Valley known for its scenic rock formations.",
-                  "category": "landmark",
-                  "coords": [
-                        19.789351,
-                        42.375023
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "AL",
     type: "valley",
@@ -1618,30 +1362,12 @@ imageHint: "Lake Koman ferry passing through steep narrow gorge",
                   ]
             },
             {
-                  "name": "Maja e Kokërhanes",
-                  "text": "Ein Gipfel im Prokletije-Gebirge, bekannt für seine alpine Landschaft.",
-                  "category": "landmark",
-                  "coords": [
-                        19.815699,
-                        42.450255
-                  ]
-            },
-            {
                   "name": "Jezerca",
                   "text": "Der höchste Gipfel der Dinarischen Alpen mit einer Höhe von 2694 Metern.",
                   "category": "landmark",
                   "coords": [
                         19.81283,
                         42.442093
-                  ]
-            },
-            {
-                  "name": "Rrogam Waterfall",
-                  "text": "Ein malerischer Wasserfall im Valbona-Tal in den Albanischen Alpen.",
-                  "category": "landmark",
-                  "coords": [
-                        19.826603,
-                        42.408251
                   ]
             }
       ],
@@ -1656,30 +1382,12 @@ imageHint: "Lake Koman ferry passing through steep narrow gorge",
                   ]
             },
             {
-                  "name": "Maja e Kokërhanes",
-                  "text": "A Prokletije-hegység egyik csúcsa, amely alpesi tájáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        19.815699,
-                        42.450255
-                  ]
-            },
-            {
                   "name": "Maja e Jezercës",
                   "text": "A Dinári-Alpok legmagasabb csúcsa, magassága 2694 méter.",
                   "category": "landmark",
                   "coords": [
                         19.81283,
                         42.442093
-                  ]
-            },
-            {
-                  "name": "Rrogam Waterfall",
-                  "text": "Festői vízesés a Valbona-völgyben, az Albán-Alpokban.",
-                  "category": "landmark",
-                  "coords": [
-                        19.826603,
-                        42.408251
                   ]
             }
       ],
@@ -1694,30 +1402,12 @@ imageHint: "Lake Koman ferry passing through steep narrow gorge",
                   ]
             },
             {
-                  "name": "Maja e Kokërhanes",
-                  "text": "Un vârf în munții Prokletije, cunoscut pentru peisajul său alpin.",
-                  "category": "landmark",
-                  "coords": [
-                        19.815699,
-                        42.450255
-                  ]
-            },
-            {
                   "name": "Maja e Jezercës",
                   "text": "Cel mai înalt vârf din Alpii Dinariici, având o înălțime de 2694 de metri.",
                   "category": "landmark",
                   "coords": [
                         19.81283,
                         42.442093
-                  ]
-            },
-            {
-                  "name": "Rrogam Waterfall",
-                  "text": "O cascadă pitorească în Valea Valbona din Alpii Albanezi.",
-                  "category": "landmark",
-                  "coords": [
-                        19.826603,
-                        42.408251
                   ]
             }
       ],
@@ -1732,30 +1422,12 @@ imageHint: "Lake Koman ferry passing through steep narrow gorge",
                   ]
             },
             {
-                  "name": "Maja e Kokërhanes",
-                  "text": "A peak in the Prokletije mountains known for its alpine scenery.",
-                  "category": "landmark",
-                  "coords": [
-                        19.815699,
-                        42.450255
-                  ]
-            },
-            {
                   "name": "Maja e Jezercës",
                   "text": "The highest peak of the Dinaric Alps, standing at 2,694 meters.",
                   "category": "landmark",
                   "coords": [
                         19.81283,
                         42.442093
-                  ]
-            },
-            {
-                  "name": "Valbona's Waterfall",
-                  "text": "A scenic waterfall in the Valbona Valley in the Albanian Alps.",
-                  "category": "landmark",
-                  "coords": [
-                        19.826603,
-                        42.408251
                   ]
             }
       ]
@@ -1945,15 +1617,6 @@ imageHint: "Narrow Lake Shkopet with wooden suspension bridge",
                   ]
             },
             {
-                  "name": "Water mill",
-                  "text": "Eine traditionelle Wassermühle, die das historische ländliche Leben in der Region zeigt.",
-                  "category": "landmark",
-                  "coords": [
-                        19.770116,
-                        42.399649
-                  ]
-            },
-            {
                   "name": "Vaskat e Nderlysajve",
                   "text": "Natürliche Felsformationen und Becken, die lokal als heilend gelten.",
                   "category": "landmark",
@@ -2016,15 +1679,6 @@ imageHint: "Narrow Lake Shkopet with wooden suspension bridge",
                   "coords": [
                         19.827613,
                         42.386249
-                  ]
-            },
-            {
-                  "name": "Water mill",
-                  "text": "Egy hagyományos vízimalom, amely a régió történelmi vidéki életét mutatja be.",
-                  "category": "landmark",
-                  "coords": [
-                        19.770116,
-                        42.399649
                   ]
             },
             {
@@ -2093,15 +1747,6 @@ imageHint: "Narrow Lake Shkopet with wooden suspension bridge",
                   ]
             },
             {
-                  "name": "Water mill",
-                  "text": "O moară de apă tradițională care ilustrează viața rurală istorică din regiune.",
-                  "category": "landmark",
-                  "coords": [
-                        19.770116,
-                        42.399649
-                  ]
-            },
-            {
                   "name": "Vaskat e Nderlysajve",
                   "text": "Formațiuni stâncoase naturale și bazine considerate local ca fiind tămăduitoare.",
                   "category": "landmark",
@@ -2164,15 +1809,6 @@ imageHint: "Narrow Lake Shkopet with wooden suspension bridge",
                   "coords": [
                         19.827613,
                         42.386249
-                  ]
-            },
-            {
-                  "name": "Water mill",
-                  "text": "A traditional water mill showcasing historical rural life in the region.",
-                  "category": "landmark",
-                  "coords": [
-                        19.770116,
-                        42.399649
                   ]
             },
             {
@@ -3574,15 +3210,6 @@ imageHint: "Grama Bay with ancient inscriptions on rocks",
     id: "albania-lura-lakes-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Maja e Kunora e Lurës",
-                  "text": "Ein markanter Berggipfel im Lura-Massiv in Albanien.",
-                  "category": "landmark",
-                  "coords": [
-                        20.181561,
-                        41.785419
-                  ]
-            },
-            {
                   "name": "Maja e Runja e Lures",
                   "text": "Ein Berggipfel in der Nähe der Lura-Seen in Albanien.",
                   "category": "landmark",
@@ -3593,15 +3220,6 @@ imageHint: "Grama Bay with ancient inscriptions on rocks",
             }
       ],
       "hu": [
-            {
-                  "name": "Maja e Kunora e Lurës",
-                  "text": "Egy jellegzetes hegycsúcs az albániai Lura-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        20.181561,
-                        41.785419
-                  ]
-            },
             {
                   "name": "Maja e Runja e Lures",
                   "text": "Hegycsúcs az albániai Lura-tavak közelében.",
@@ -3614,15 +3232,6 @@ imageHint: "Grama Bay with ancient inscriptions on rocks",
       ],
       "ro": [
             {
-                  "name": "Maja e Kunora e Lurës",
-                  "text": "Un vârf muntos proeminent din masivul Lura din Albania.",
-                  "category": "landmark",
-                  "coords": [
-                        20.181561,
-                        41.785419
-                  ]
-            },
-            {
                   "name": "Maja e Runja e Lures",
                   "text": "Un vârf muntos situat în apropierea lacurilor Lura din Albania.",
                   "category": "landmark",
@@ -3633,15 +3242,6 @@ imageHint: "Grama Bay with ancient inscriptions on rocks",
             }
       ],
       "en": [
-            {
-                  "name": "Maja e Kunora e Lurës",
-                  "text": "A prominent mountain peak in the Lura range in Albania.",
-                  "category": "landmark",
-                  "coords": [
-                        20.181561,
-                        41.785419
-                  ]
-            },
             {
                   "name": "Maja e Runja e Lures",
                   "text": "A mountain peak located near the Lura Lakes in Albania.",

@@ -1170,50 +1170,10 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     }, image: "/poi-images/cv-mindelo-historic-center-history-v2.webp"},
   {
     id: "cv-torre-de-belem-mindelo-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Gago Coutinho e Sacadura Cabral",
-                  "text": "Das Denkmal nahe dem Torre de Belém ehrt die portugiesischen Flugpioniere Gago Coutinho und Sacadura Cabral für ihre Atlantiküberquerung.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.991743,
-                        16.888845
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Gago Coutinho e Sacadura Cabral",
-                  "text": "A Torre de Belém közelében lévő emlékmű a portugál repülés úttörőit, Gago Coutinhót és Sacadura Cabralt ünnepli az Atlanti-óceán átrepüléséért.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.991743,
-                        16.888845
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Gago Coutinho e Sacadura Cabral",
-                  "text": "Monumentul din apropierea Torre de Belém îi onorează pe pionierii portughezi ai aviației Gago Coutinho și Sacadura Cabral pentru zborul lor transatlantic.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.991743,
-                        16.888845
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Gago Coutinho e Sacadura Cabral",
-                  "text": "The monument near the Torre de Belém honors Portuguese aviation pioneers Gago Coutinho and Sacadura Cabral for their transatlantic flight.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.991743,
-                        16.888845
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "CV-SV",
@@ -1518,86 +1478,10 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
     }, image: "/poi-images/cv-forte-duque-de-braganca-history-v2.webp"},
   {
     id: "cv-igreja-nossa-senhora-rosario-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Miradouro Turístico da Nossa Senhora do Rosário",
-                  "text": "Dieser am 2. März 2023 eröffnete Aussichtspunkt in der Nähe der Kirche bietet weite Ausblicke auf die Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        -25.06774,
-                        17.180907
-                  ]
-            },
-            {
-                  "name": "Painted Stairs.",
-                  "text": "Diese farbenfroh bemalten Treppenstufen sind eine künstlerische Attraktion in der Nähe der Nossa Senhora do Rosário.",
-                  "category": "landmark",
-                  "coords": [
-                        -25.06599,
-                        17.181874
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Miradouro Turístico da Nossa Senhora do Rosário",
-                  "text": "A templom közelében 2023. március 2-án megnyitott kilátópont széles kilátást nyújt a környékre.",
-                  "category": "natural",
-                  "coords": [
-                        -25.06774,
-                        17.180907
-                  ]
-            },
-            {
-                  "name": "Painted Stairs.",
-                  "text": "Ezek a színesre festett lépcsők művészi látványosságot nyújtanak a Nossa Senhora do Rosário közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -25.06599,
-                        17.181874
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Miradouro Turístico da Nossa Senhora do Rosário",
-                  "text": "Deschis pe 2 martie 2023, acest punct de belvedere de lângă biserică oferă vederi extinse asupra zonei înconjurătoare.",
-                  "category": "natural",
-                  "coords": [
-                        -25.06774,
-                        17.180907
-                  ]
-            },
-            {
-                  "name": "Painted Stairs.",
-                  "text": "Aceste trepte pictate viu colorat sunt o atracție artistică în apropiere de Nossa Senhora do Rosário.",
-                  "category": "landmark",
-                  "coords": [
-                        -25.06599,
-                        17.181874
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Miradouro Turístico da Nossa Senhora do Rosário",
-                  "text": "Opened on March 2, 2023, this viewpoint near the church provides expansive views of the surrounding area.",
-                  "category": "natural",
-                  "coords": [
-                        -25.06774,
-                        17.180907
-                  ]
-            },
-            {
-                  "name": "Painted Stairs.",
-                  "text": "These vibrantly painted stairs serve as an artistic attraction near Nossa Senhora do Rosário.",
-                  "category": "landmark",
-                  "coords": [
-                        -25.06599,
-                        17.181874
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "CV-RG",
@@ -1696,15 +1580,6 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
                         -24.695977,
                         14.872526
                   ]
-            },
-            {
-                  "name": "Miradouro de Mato Grande",
-                  "text": "Ein Beobachtungspunkt, der einen Panoramablick auf die Landschaft der Insel nahe der historischen Kirche bietet.",
-                  "category": "natural",
-                  "coords": [
-                        -24.70036,
-                        14.866702
-                  ]
             }
       ],
       "hu": [
@@ -1715,15 +1590,6 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
                   "coords": [
                         -24.695977,
                         14.872526
-                  ]
-            },
-            {
-                  "name": "Miradouro de Mato Grande",
-                  "text": "A történelmi templom közelében található kilátóhely, amely panorámás kilátást nyújt a sziget tájára.",
-                  "category": "natural",
-                  "coords": [
-                        -24.70036,
-                        14.866702
                   ]
             }
       ],
@@ -1736,15 +1602,6 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
                         -24.695977,
                         14.872526
                   ]
-            },
-            {
-                  "name": "Miradouro de Mato Grande",
-                  "text": "Un punct de observație care oferă vederi panoramice ale peisajului insulei, în apropierea bisericii istorice.",
-                  "category": "natural",
-                  "coords": [
-                        -24.70036,
-                        14.866702
-                  ]
             }
       ],
       "en": [
@@ -1755,15 +1612,6 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
                   "coords": [
                         -24.695977,
                         14.872526
-                  ]
-            },
-            {
-                  "name": "Miradouro de Mato Grande",
-                  "text": "An observation point providing panoramic views of the island's landscape near the historic church.",
-                  "category": "natural",
-                  "coords": [
-                        -24.70036,
-                        14.866702
                   ]
             }
       ]
@@ -1957,39 +1805,12 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Montinho de Lume",
-                  "text": "Dieser auf einem kleinen Vulkanhügel gelegene Aussichtspunkt bietet einen Panoramablick über die trockene Landschaft der Insel und die nahegelegenen Salinen.",
-                  "category": "natural",
-                  "coords": [
-                        -23.210011,
-                        15.144539
-                  ]
-            },
-            {
                   "name": "Casa L. A. Cardoso",
                   "text": "Diese gut erhaltene historische Residenz präsentiert die traditionelle kapverdische Kolonialarchitektur mit ihrer charakteristischen hellen Fassade und den Fensterläden aus Holz.",
                   "category": "landmark",
                   "coords": [
                         -23.2111,
                         15.137373
-                  ]
-            },
-            {
-                  "name": "Sóis sete luas",
-                  "text": "Als Teil eines internationalen Kulturnetzwerks veranstaltet dieses Kunstzentrum lebhafte Ausstellungen und Konzerte, bei denen mediterrane und lusophone Künstler gefeiert werden.",
-                  "category": "cultural",
-                  "coords": [
-                        -23.212667,
-                        15.138784
-                  ]
-            },
-            {
-                  "name": "Centro do Mergulho AAA Maio Plongée",
-                  "text": "Dieses von der Küste der Insel aus operierende Tauchzentrum organisiert geführte Unterwasserausflüge zur Erkundung der lebhaften lokalen Korallenriffe.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.214602,
-                        15.140007
                   ]
             },
             {
@@ -2022,39 +1843,12 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Montinho de Lume",
-                  "text": "A kis vulkáni dombon található kilátóból panorámás kilátás nyílik a sziget száraz tájaira és a közeli sólepárlókra.",
-                  "category": "natural",
-                  "coords": [
-                        -23.210011,
-                        15.144539
-                  ]
-            },
-            {
                   "name": "Casa L. A. Cardoso",
                   "text": "Ez a megőrzött történelmi rezidencia a hagyományos Zöld-foki-szigeteki gyarmati építészetet mutatja be jellegzetes, világos homlokzatával és fa zsalugátereivel.",
                   "category": "landmark",
                   "coords": [
                         -23.2111,
                         15.137373
-                  ]
-            },
-            {
-                  "name": "Sóis sete luas",
-                  "text": "A nemzetközi kulturális hálózat részét képező művészeti központ nyüzsgő kiállításoknak és koncerteknek ad otthont, a mediterrán és a luzofón művészeket ünnepelve.",
-                  "category": "cultural",
-                  "coords": [
-                        -23.212667,
-                        15.138784
-                  ]
-            },
-            {
-                  "name": "Centro do Mergulho AAA Maio Plongée",
-                  "text": "A sziget partjainál működő búvárközpont vezetett víz alatti kirándulásokat szervez a helyi nyüzsgő korallzátonyok felfedezésére.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.214602,
-                        15.140007
                   ]
             },
             {
@@ -2087,39 +1881,12 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Montinho de Lume",
-                  "text": "Situat pe un mic deal vulcanic, acest punct de belvedere oferă priveliști panoramice asupra peisajelor aride ale insulei și a salinelor din apropiere.",
-                  "category": "natural",
-                  "coords": [
-                        -23.210011,
-                        15.144539
-                  ]
-            },
-            {
                   "name": "Casa L. A. Cardoso",
                   "text": "Această reședință istorică conservată prezintă arhitectura colonială tradițională capverdiană, cu fațada sa luminoasă caracteristică și obloanele din lemn.",
                   "category": "landmark",
                   "coords": [
                         -23.2111,
                         15.137373
-                  ]
-            },
-            {
-                  "name": "Sóis sete luas",
-                  "text": "Parte a unei rețele culturale internaționale, acest centru de arte găzduiește expoziții și concerte vibrante, celebrând artiștii mediteraneeni și lusofoni.",
-                  "category": "cultural",
-                  "coords": [
-                        -23.212667,
-                        15.138784
-                  ]
-            },
-            {
-                  "name": "Centro do Mergulho AAA Maio Plongée",
-                  "text": "Operând de pe țărmurile insulei, acest centru de scufundări organizează excursii subacvatice ghidate pentru a explora recifele de corali locale vibrante.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.214602,
-                        15.140007
                   ]
             },
             {
@@ -2152,39 +1919,12 @@ export const poiExtraCapeverdeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Montinho de Lume",
-                  "text": "Situated on a small volcanic hill, this viewpoint provides panoramic vistas across the island's arid landscapes and nearby salt pans.",
-                  "category": "natural",
-                  "coords": [
-                        -23.210011,
-                        15.144539
-                  ]
-            },
-            {
                   "name": "Casa L. A. Cardoso",
                   "text": "This preserved historic residence showcases traditional Cape Verdean colonial architecture with its characteristic bright facade and wooden shutters.",
                   "category": "landmark",
                   "coords": [
                         -23.2111,
                         15.137373
-                  ]
-            },
-            {
-                  "name": "Sóis sete luas",
-                  "text": "Part of an international cultural network, this arts center hosts vibrant exhibitions and concerts celebrating Mediterranean and Lusophone artists.",
-                  "category": "cultural",
-                  "coords": [
-                        -23.212667,
-                        15.138784
-                  ]
-            },
-            {
-                  "name": "Diving Center AAA Maio Plongée",
-                  "text": "Operating from the island's shores, this scuba diving center organizes guided underwater excursions to explore the vibrant local coral reefs.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.214602,
-                        15.140007
                   ]
             },
             {

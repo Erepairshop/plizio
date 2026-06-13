@@ -600,15 +600,6 @@ imageHint: "Industrial furnace facility at Nikopol Ferroalloy Plant",
                         24.694365,
                         49.226836
                   ]
-            },
-            {
-                  "name": "Basein",
-                  "text": "Schwimmbecken in der Nähe des Wärmekraftwerks Burschtyn.",
-                  "category": "recreational",
-                  "coords": [
-                        24.635491,
-                        49.251699
-                  ]
             }
       ],
       "hu": [
@@ -619,15 +610,6 @@ imageHint: "Industrial furnace facility at Nikopol Ferroalloy Plant",
                   "coords": [
                         24.694365,
                         49.226836
-                  ]
-            },
-            {
-                  "name": "Basein",
-                  "text": "Úszómedence a burstini hőerőmű közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        24.635491,
-                        49.251699
                   ]
             }
       ],
@@ -640,15 +622,6 @@ imageHint: "Industrial furnace facility at Nikopol Ferroalloy Plant",
                         24.694365,
                         49.226836
                   ]
-            },
-            {
-                  "name": "Basein",
-                  "text": "Piscină situată lângă centrala termoelectrică din Burștîn.",
-                  "category": "recreational",
-                  "coords": [
-                        24.635491,
-                        49.251699
-                  ]
             }
       ],
       "en": [
@@ -659,15 +632,6 @@ imageHint: "Industrial furnace facility at Nikopol Ferroalloy Plant",
                   "coords": [
                         24.694365,
                         49.226836
-                  ]
-            },
-            {
-                  "name": "Basein",
-                  "text": "Swimming pool facility located near the Burshtyn Thermal Power Plant.",
-                  "category": "recreational",
-                  "coords": [
-                        24.635491,
-                        49.251699
                   ]
             }
       ]

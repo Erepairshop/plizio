@@ -49,50 +49,10 @@ export const serbiaEconomicV2: POI[] = [
   },
   {
     id: "serbia-kostolac-power-plant-economic-v2", "sights": {
-      "de": [
-            {
-                  "name": "Kuća Kapetana Todića",
-                  "text": "Ein denkmalgeschütztes Herrenhaus in der Nähe des Kraftwerks Kostolac in Serbien.",
-                  "category": "historical",
-                  "coords": [
-                        21.190896,
-                        44.740304
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Kuća Kapetana Todića",
-                  "text": "Műemlékvédelem alatt álló udvarház a szerbiai Kostolac erőmű közelében.",
-                  "category": "historical",
-                  "coords": [
-                        21.190896,
-                        44.740304
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Kuća Kapetana Todića",
-                  "text": "Un conac monument istoric situat în apropierea centralei electrice Kostolac din Serbia.",
-                  "category": "historical",
-                  "coords": [
-                        21.190896,
-                        44.740304
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Kuća Kapetana Todića",
-                  "text": "A heritage-listed manor house located near the Kostolac Power Station in Serbia.",
-                  "category": "historical",
-                  "coords": [
-                        21.190896,
-                        44.740304
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "industry",
     parent: "RS",
@@ -229,266 +189,10 @@ export const serbiaEconomicV2: POI[] = [
   },
   {
     id: "serbia-subotica-industrial-zone-economic-v2", "sights": {
-      "de": [
-            {
-                  "name": "Narodno pozorishte Subotitsa",
-                  "text": "Das Nationaltheater Subotica, 1854 von János Skultéti erbaut, im Industriegebiet von Subotica.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Reichl Palast",
-                  "text": "Ein prächtiger Jugendstilpalast in Subotica, entworfen vom Architekten Ferenc Raichle.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "j Cy",
-                  "text": "Das Stadtmuseum von Subotica bewahrt das historische Erbe der Region.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Ein lokales Museum in Subotica, das verschiedenen Porzellankollektionen gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Gradska kutsha",
-                  "text": "Das prunkvolle Rathaus von Subotica ist ein Meisterwerk des ungarischen Jugendstils.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "Ein Kulturzentrum in Subotica, das der Tradition der Bunjevac-Gemeinschaft gewidmet ist.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Spomenik Ivanu Saritshu",
-                  "text": "Ein Denkmal in Subotica zu Ehren des Luftfahrtpioniers Ivan Sarić.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Szabadkai Népszínház",
-                  "text": "A Szabadkai Nemzeti Színház, 1854-ben építette Skultéti János, Szabadka ipari övezetében.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Palata Rajkhl",
-                  "text": "Szabadka egyik legszebb szecessziós épülete, amelyet Raichle Ferenc építész tervezett.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "Szabadkai Városi Múzeum",
-                  "text": "A Szabadkai Városi Múzeum a régió történelmi örökségét őrzi és mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Egy szabadkai múzeum, amely különböző porcelángyűjteményeket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Városháza",
-                  "text": "Szabadka pompás városházája a magyar szecessziós építészet egyik remekműve.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "Kulturális központ Szabadkán, amely a bunyevác közösség hagyományait ápolja.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Szárits János emlékműve",
-                  "text": "Szabadkai emlékmű, amelyet Ivan Sarić repülési úttörő tiszteletére emeltek.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Narodno pozorishte Subotitsa",
-                  "text": "Teatrul Național din Subotica, construit în 1854 de János Skultéti, în zona industrială a orașului.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Palata Rajkhl",
-                  "text": "Un palat splendid în stil Art Nouveau din Subotica, proiectat de arhitectul Ferenc Raichle.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "j Cy",
-                  "text": "Muzeul Orașului Subotica păstrează moștenirea istorică a regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Un muzeu local din Subotica dedicat diverselor colecții de porțelan.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Gradska kutsha",
-                  "text": "Primăria somptuoasă din Subotica este o capodoperă a stilului Art Nouveau maghiar.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "Un centru cultural din Subotica dedicat tradițiilor comunității bunjevați.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Spomenik Ivanu Saritshu",
-                  "text": "Un monument din Subotica ridicat în onoarea pionierului aviației Ivan Sarić.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Subotica National Theatre",
-                  "text": "Subotica National Theatre, built in 1854 by János Skultéti, located in the industrial zone.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Reichl Palace",
-                  "text": "A magnificent Art Nouveau palace in Subotica, designed by architect Ferenc Raichle.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "Subotica City Museum",
-                  "text": "The Subotica City Museum preserves the historical heritage of the region.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "A local museum in Subotica dedicated to various porcelain collections.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Town hall",
-                  "text": "The grand Subotica Town Hall is a masterpiece of Hungarian Art Nouveau architecture.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "A cultural center in Subotica dedicated to the traditions of the Bunjevac community.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Ivan Sarić Monument",
-                  "text": "A monument in Subotica honoring the aviation pioneer Ivan Sarić.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "industry",
     parent: "RS",
@@ -627,33 +331,6 @@ export const serbiaEconomicV2: POI[] = [
     id: "serbia-zrenjanin-industrial-park-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Narodni muzej Zrenjanin",
-                  "text": "Das bedeutendste Museum von Zrenjanin, das die Geschichte und Kultur des Banats präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        20.389849,
-                        45.379773
-                  ]
-            },
-            {
-                  "name": "Trockene Brücke",
-                  "text": "Eine kuriose Brücke in Zrenjanin, unter der nach einer Flussumleitung kein Wasser mehr fließt.",
-                  "category": "landmark",
-                  "coords": [
-                        20.384094,
-                        45.38157
-                  ]
-            },
-            {
-                  "name": "Spomenik Zharku Zrenjaninu",
-                  "text": "Ein Denkmal zu Ehren von Žarko Zrenjanin, einem Helden der Widerstandsbewegung im Zweiten Weltkrieg.",
-                  "category": "historical",
-                  "coords": [
-                        20.39079,
-                        45.381547
-                  ]
-            },
-            {
                   "name": "Mariä-Entschlafens-Kirche",
                   "text": "Eine bedeutende serbisch-orthodoxe Kirche in Zrenjanin, die der Himmelfahrt Mariens geweiht ist.",
                   "category": "religious",
@@ -661,54 +338,9 @@ export const serbiaEconomicV2: POI[] = [
                         20.395724,
                         45.380362
                   ]
-            },
-            {
-                  "name": "Reformatska tsrkva",
-                  "text": "Eine historische Kirche der reformierten Gemeinde im Zentrum von Zrenjanin.",
-                  "category": "religious",
-                  "coords": [
-                        20.389022,
-                        45.378373
-                  ]
-            },
-            {
-                  "name": "Kupalishte Peskara",
-                  "text": "Ein Erholungsgebiet am Wasser nahe dem Industriegebiet von Zrenjanin.",
-                  "category": "recreational",
-                  "coords": [
-                        20.384494,
-                        45.350045
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Narodni muzej Zrenjanin",
-                  "text": "Nagybecskerek legjelentősebb múzeuma, amely a Bánság történelmét és kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.389849,
-                        45.379773
-                  ]
-            },
-            {
-                  "name": "Most na suvom",
-                  "text": "Különleges híd Nagybecskereken, amely alatt a folyó elterelése óta nem folyik víz.",
-                  "category": "landmark",
-                  "coords": [
-                        20.384094,
-                        45.38157
-                  ]
-            },
-            {
-                  "name": "Spomenik Zharku Zrenjaninu",
-                  "text": "Emlékmű Žarko Zrenjanin tiszteletére, aki a második világháborús ellenállás hőse volt.",
-                  "category": "historical",
-                  "coords": [
-                        20.39079,
-                        45.381547
-                  ]
-            },
             {
                   "name": "Tsrkva Uspenja Bogoroditse",
                   "text": "Jelentős szerb ortodox templom Nagybecskereken, Szűz Mária elszenderedésének szentelve.",
@@ -717,54 +349,9 @@ export const serbiaEconomicV2: POI[] = [
                         20.395724,
                         45.380362
                   ]
-            },
-            {
-                  "name": "Reformatska tsrkva",
-                  "text": "A református közösség történelmi temploma Nagybecskerek központjában.",
-                  "category": "religious",
-                  "coords": [
-                        20.389022,
-                        45.378373
-                  ]
-            },
-            {
-                  "name": "Kupalishte Peskara",
-                  "text": "Vízparti pihenőhely Nagybecskerek (Zrenjanin) ipari negyedének közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        20.384494,
-                        45.350045
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Narodni muzej Zrenjanin",
-                  "text": "Cel mai important muzeu din Zrenjanin, prezentând istoria și cultura regiunii Banat.",
-                  "category": "museum",
-                  "coords": [
-                        20.389849,
-                        45.379773
-                  ]
-            },
-            {
-                  "name": "Most na suvom",
-                  "text": "Un pod neobișnuit din Zrenjanin sub care nu mai curge apă în urma devierii râului.",
-                  "category": "landmark",
-                  "coords": [
-                        20.384094,
-                        45.38157
-                  ]
-            },
-            {
-                  "name": "Spomenik Zharku Zrenjaninu",
-                  "text": "Un monument în onoarea lui Žarko Zrenjanin, un erou al rezistenței din Al Doilea Război Mondial.",
-                  "category": "historical",
-                  "coords": [
-                        20.39079,
-                        45.381547
-                  ]
-            },
             {
                   "name": "Tsrkva Uspenja Bogoroditse",
                   "text": "O importantă biserică ortodoxă sârbă din Zrenjanin, dedicată Adormirii Maicii Domnului.",
@@ -773,54 +360,9 @@ export const serbiaEconomicV2: POI[] = [
                         20.395724,
                         45.380362
                   ]
-            },
-            {
-                  "name": "Reformatska tsrkva",
-                  "text": "O biserică istorică a comunității reformate, situată în centrul orașului Zrenjanin.",
-                  "category": "religious",
-                  "coords": [
-                        20.389022,
-                        45.378373
-                  ]
-            },
-            {
-                  "name": "Kupalishte Peskara",
-                  "text": "O zonă de recreere pe malul apei lângă zona industrială din Zrenjanin.",
-                  "category": "recreational",
-                  "coords": [
-                        20.384494,
-                        45.350045
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "National Museum of Zrenjanin",
-                  "text": "The primary museum of Zrenjanin, showcasing the history and culture of the Banat region.",
-                  "category": "museum",
-                  "coords": [
-                        20.389849,
-                        45.379773
-                  ]
-            },
-            {
-                  "name": "Dry Bridge",
-                  "text": "A unique bridge in Zrenjanin that spans no water due to the diversion of the river.",
-                  "category": "landmark",
-                  "coords": [
-                        20.384094,
-                        45.38157
-                  ]
-            },
-            {
-                  "name": "Monument of Zarko Zrenjanin",
-                  "text": "A monument honoring Žarko Zrenjanin, a hero of the resistance during World War II.",
-                  "category": "historical",
-                  "coords": [
-                        20.39079,
-                        45.381547
-                  ]
-            },
             {
                   "name": "Church of the Assumption",
                   "text": "A significant Serbian Orthodox church in Zrenjanin dedicated to the Assumption of Mary.",
@@ -828,24 +370,6 @@ export const serbiaEconomicV2: POI[] = [
                   "coords": [
                         20.395724,
                         45.380362
-                  ]
-            },
-            {
-                  "name": "Reformed Church",
-                  "text": "A historic church belonging to the Reformed community in central Zrenjanin.",
-                  "category": "religious",
-                  "coords": [
-                        20.389022,
-                        45.378373
-                  ]
-            },
-            {
-                  "name": "Kupalishte Peskara",
-                  "text": "A waterfront recreation area near the Zrenjanin industrial zone.",
-                  "category": "recreational",
-                  "coords": [
-                        20.384494,
-                        45.350045
                   ]
             }
       ]
@@ -942,15 +466,6 @@ export const serbiaEconomicV2: POI[] = [
     id: "serbia-pozarevac-economic-center-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Bambiland",
-                  "text": "Diese familienfreundliche Attraktion in Pozarevac Economic Center bietet verschiedene Aktivitäten für alle Altersgruppen.",
-                  "category": "family",
-                  "coords": [
-                        21.1721,
-                        44.619445
-                  ]
-            },
-            {
                   "name": "Pozharevachki mir",
                   "text": "Ein Museum, das an den historischen Friedensvertrag von 1718 erinnert.",
                   "category": "museum",
@@ -997,15 +512,6 @@ export const serbiaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Bambiland",
-                  "text": "Ez a családbarát látványosság Pozarevac Economic Center városában különféle tevékenységeket kínál minden korosztály számára.",
-                  "category": "family",
-                  "coords": [
-                        21.1721,
-                        44.619445
-                  ]
-            },
             {
                   "name": "Pozharevachki mir",
                   "text": "Az 1718-as történelmi békeszerződésnek emléket állító múzeum.",
@@ -1054,15 +560,6 @@ export const serbiaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Bambiland",
-                  "text": "Această atracție de familie din Pozarevac Economic Center oferă diverse activități pentru toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        21.1721,
-                        44.619445
-                  ]
-            },
-            {
                   "name": "Pozharevachki mir",
                   "text": "Un muzeu care comemorează tratatul istoric de pace din 1718.",
                   "category": "museum",
@@ -1109,15 +606,6 @@ export const serbiaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Bambiland",
-                  "text": "This family-friendly attraction in Pozarevac Economic Center offers various activities for all ages.",
-                  "category": "family",
-                  "coords": [
-                        21.1721,
-                        44.619445
-                  ]
-            },
             {
                   "name": "Treaty of Passarowitz",
                   "text": "A museum commemorating the historic peace treaty signed in 1718.",
@@ -1623,7 +1111,52 @@ export const serbiaEconomicV2: POI[] = [
     image: "/poi-images/serbia-vranje-textile-industry-economic-v2.webp",
   },
   {
-    id: "serbia-sombor-agricultural-hub-economic-v2", "sights": {"de": [{"name": "Narodno pozorište Sombor", "text": "Ein bedeutendes Theatergebäude in Sombor, bekannt für seine lange kulturelle Tradition.", "category": "cultural", "coords": [19.112174, 45.77232]}, {"name": "Preparandija", "text": "Ein historisches Museumsgebäude in Sombor, das ehemals als Lehrerbildungsanstalt diente.", "category": "museum", "coords": [19.113753, 45.774696]}, {"name": "Galerija Milan Konjović", "text": "Diese Galerie ist dem Werk des berühmten serbischen Malers Milan Konjović gewidmet.", "category": "museum", "coords": [19.113573, 45.77212]}, {"name": "Kulturni centar ”Laza Kostić”", "text": "Ein Zentrum für kulturelle Aktivitäten, Ausstellungen und künstlerische Darbietungen in Sombor.", "category": "cultural", "coords": [19.109652, 45.772969]}, {"name": "Crkva Presvetog Trojstva", "text": "Eine bedeutende römisch-katholische Kirche im Herzen von Sombor, bekannt für ihre Architektur.", "category": "religious", "coords": [19.1134, 45.773367]}, {"name": "Crkva Svetog Georgija", "text": "Eine wichtige serbisch-orthodoxe Kathedrale, die für ihre historische Architektur bekannt ist.", "category": "religious", "coords": [19.115042, 45.773927]}, {"name": "Manastir Svetog Arhiđakona Stefana", "text": "Ein serbisch-orthodoxes Kloster, das sich am Rande der Stadt Sombor befindet.", "category": "religious", "coords": [19.133855, 45.778146]}], "hu": [{"name": "Narodno pozorište Sombor", "text": "Sombor jelentős színházépülete, amely hosszú kulturális hagyományairól ismert.", "category": "cultural", "coords": [19.112174, 45.77232]}, {"name": "Preparandija", "text": "Történelmi múzeumépület Somborban, amely korábban tanítóképzőként működött.", "category": "museum", "coords": [19.113753, 45.774696]}, {"name": "Galerija Milan Konjović", "text": "Ez a galéria Milan Konjović híres szerb festőművész munkásságának van szentelve.", "category": "museum", "coords": [19.113573, 45.77212]}, {"name": "Kulturni centar ”Laza Kostić”", "text": "Kulturális tevékenységek, kiállítások és művészeti előadások központja Zomborban.", "category": "cultural", "coords": [19.109652, 45.772969]}, {"name": "Crkva Presvetog Trojstva", "text": "Zombor szívében található jelentős római katolikus templom, amely építészetéről ismert.", "category": "religious", "coords": [19.1134, 45.773367]}, {"name": "Crkva Svetog Georgija", "text": "Fontos szerb ortodox székesegyház, amely történelmi építészetéről nevezetes.", "category": "religious", "coords": [19.115042, 45.773927]}, {"name": "Manastir Svetog Arhiđakona Stefana", "text": "Zombor városának szélén található szerb ortodox kolostor.", "category": "religious", "coords": [19.133855, 45.778146]}], "ro": [{"name": "Narodno pozorište Sombor", "text": "O clădire teatrală importantă din Sombor, cunoscută pentru lunga sa tradiție culturală.", "category": "cultural", "coords": [19.112174, 45.77232]}, {"name": "Preparandija", "text": "O clădire muzeală istorică din Sombor, care a servit în trecut ca instituție de formare a profesorilor.", "category": "museum", "coords": [19.113753, 45.774696]}, {"name": "Galerija Milan Konjović", "text": "Această galerie este dedicată operei celebrului pictor sârb Milan Konjović.", "category": "museum", "coords": [19.113573, 45.77212]}, {"name": "Kulturni centar ”Laza Kostić”", "text": "Un centru pentru activități culturale, expoziții și spectacole artistice în Sombor.", "category": "cultural", "coords": [19.109652, 45.772969]}, {"name": "Crkva Presvetog Trojstva", "text": "O importantă biserică romano-catolică situată în inima orașului Sombor, cunoscută pentru arhitectura sa.", "category": "religious", "coords": [19.1134, 45.773367]}, {"name": "Crkva Svetog Georgija", "text": "O importantă catedrală ortodoxă sârbă, cunoscută pentru arhitectura sa istorică.", "category": "religious", "coords": [19.115042, 45.773927]}, {"name": "Manastir Svetog Arhiđakona Stefana", "text": "O mănăstire ortodoxă sârbă situată la marginea orașului Sombor.", "category": "religious", "coords": [19.133855, 45.778146]}], "en": [{"name": "Narodno pozorište Sombor", "text": "An important theatre building in Sombor, known for its long cultural tradition.", "category": "cultural", "coords": [19.112174, 45.77232]}, {"name": "Preparandija", "text": "A historic museum building in Sombor, formerly used as a teacher training college.", "category": "museum", "coords": [19.113753, 45.774696]}, {"name": "Galerija Milan Konjović", "text": "This gallery is dedicated to the work of the famous Serbian painter Milan Konjović.", "category": "museum", "coords": [19.113573, 45.77212]}, {"name": "Kulturni centar ”Laza Kostić”", "text": "A hub for cultural activities, exhibitions, and artistic performances in Sombor.", "category": "cultural", "coords": [19.109652, 45.772969]}, {"name": "Crkva Presvetog Trojstva", "text": "A significant Roman Catholic church located in the heart of Sombor, known for its architecture.", "category": "religious", "coords": [19.1134, 45.773367]}, {"name": "Crkva Svetog Georgija", "text": "An important Serbian Orthodox cathedral known for its historic architecture.", "category": "religious", "coords": [19.115042, 45.773927]}, {"name": "Manastir Svetog Arhiđakona Stefana", "text": "A Serbian Orthodox monastery located on the outskirts of the city of Sombor.", "category": "religious", "coords": [19.133855, 45.778146]}]},
+    id: "serbia-sombor-agricultural-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Manastir Svetog Arhiđakona Stefana",
+                  "text": "Ein serbisch-orthodoxes Kloster, das sich am Rande der Stadt Sombor befindet.",
+                  "category": "religious",
+                  "coords": [
+                        19.133855,
+                        45.778146
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Manastir Svetog Arhiđakona Stefana",
+                  "text": "Zombor városának szélén található szerb ortodox kolostor.",
+                  "category": "religious",
+                  "coords": [
+                        19.133855,
+                        45.778146
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Manastir Svetog Arhiđakona Stefana",
+                  "text": "O mănăstire ortodoxă sârbă situată la marginea orașului Sombor.",
+                  "category": "religious",
+                  "coords": [
+                        19.133855,
+                        45.778146
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manastir Svetog Arhiđakona Stefana",
+                  "text": "A Serbian Orthodox monastery located on the outskirts of the city of Sombor.",
+                  "category": "religious",
+                  "coords": [
+                        19.133855,
+                        45.778146
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS",
     name: { de: "Agrarzentrum Sombor", hu: "Zombori agrárközpont", ro: "Centrul agricol Sombor", en: "Sombor Agricultural Hub" },
@@ -1941,75 +1474,12 @@ export const serbiaEconomicV2: POI[] = [
     id: "serbia-zajecar-industrial-hub-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Istočna tvrđava",
-                  "text": "Eine historische Festungsanlage zum Schutz der Stadt Zaječar.",
-                  "category": "fortress",
-                  "coords": [
-                        22.28581,
-                        43.893945
-                  ]
-            },
-            {
-                  "name": "Narodno pozorište Timočke Krajine „Zoran Radmilović”",
-                  "text": "Das professionelle Theater der Stadt, benannt nach dem berühmten Schauspieler Zoran Radmilović.",
-                  "category": "cultural",
-                  "coords": [
-                        22.274761,
-                        43.901099
-                  ]
-            },
-            {
-                  "name": "Muzej grada Zaječara",
-                  "text": "Das Nationalmuseum in Zaječar präsentiert lokale archäologische und historische Funde.",
-                  "category": "museum",
-                  "coords": [
-                        22.278768,
-                        43.903485
-                  ]
-            },
-            {
-                  "name": "Radul-begov konak",
-                  "text": "Ein historisches Gebäude im balkanischen Stil, das heute als Museum dient.",
-                  "category": "museum",
-                  "coords": [
-                        22.279295,
-                        43.902007
-                  ]
-            },
-            {
                   "name": "Istorijski arhiv „Timočka Krajina”",
                   "text": "Ein Archiv, das bedeutende historische Dokumente der Region Timok-Tal bewahrt.",
                   "category": "museum",
                   "coords": [
                         22.270801,
                         43.902638
-                  ]
-            },
-            {
-                  "name": "Spomenik Zoranu Radmiloviću",
-                  "text": "Das historische Denkmal Споменик Зорану Радмиловићу befindet sich im Zajecar Industrial Hub und ehrt den berühmten serbischen Schauspieler Zoran Radmilović. Besucher dieser Stätte in Serbien können hier über die kulturelle Bedeutung seines Theatererbes nachdenken.",
-                  "category": "historical",
-                  "coords": [
-                        22.276525,
-                        43.901381
-                  ]
-            },
-            {
-                  "name": "Spomen park-šuma „Kraljevica”",
-                  "text": "Ein weitläufiger Waldpark und Gedenkstätte am Rande von Zaječar.",
-                  "category": "park",
-                  "coords": [
-                        22.273296,
-                        43.885183
-                  ]
-            },
-            {
-                  "name": "Spomenik streljanim žrtvama Timočke bune",
-                  "text": "Denkmal für den Timok-Aufstand im Industriegebiet Zaječar, errichtet 1940.",
-                  "category": "historical",
-                  "coords": [
-                        22.278652,
-                        43.89467
                   ]
             },
             {
@@ -2022,15 +1492,6 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hajduk Veljko",
-                  "text": "Ein Denkmal für Hajduk Veljko Petrović, einen Helden des Ersten Serbischen Aufstands.",
-                  "category": "historical",
-                  "coords": [
-                        22.286917,
-                        43.90703
-                  ]
-            },
-            {
                   "name": "Popova plaža",
                   "text": "Ein beliebtes Sport- und Erholungszentrum am Ufer des Flusses Timok.",
                   "category": "recreational",
@@ -2038,63 +1499,9 @@ export const serbiaEconomicV2: POI[] = [
                         22.276548,
                         43.909344
                   ]
-            },
-            {
-                  "name": "Spomenik Vešala",
-                  "text": "Eine Gedenkstätte für die Opfer des Zweiten Weltkriegs in Zaječar.",
-                  "category": "historical",
-                  "coords": [
-                        22.264806,
-                        43.889121
-                  ]
-            },
-            {
-                  "name": "City Pool",
-                  "text": "Diese Schwimmeinrichtung in Zajecar Industrial Hub bietet Platz zum Schwimmen und zur Erholung.",
-                  "category": "family",
-                  "coords": [
-                        22.276393,
-                        43.894327
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Istočna tvrđava",
-                  "text": "Zaječar városának védelmére épült történelmi erődrendszer része.",
-                  "category": "fortress",
-                  "coords": [
-                        22.28581,
-                        43.893945
-                  ]
-            },
-            {
-                  "name": "Narodno pozorište Timočke Krajine „Zoran Radmilović”",
-                  "text": "A város szakmai színháza, amely Zoran Radmilović híres színész nevét viseli.",
-                  "category": "cultural",
-                  "coords": [
-                        22.274761,
-                        43.901099
-                  ]
-            },
-            {
-                  "name": "Muzej grada Zaječara",
-                  "text": "A zaječari nemzeti múzeum helyi régészeti és történelmi leleteket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        22.278768,
-                        43.903485
-                  ]
-            },
-            {
-                  "name": "Radul-begov konak",
-                  "text": "Egy patinás, balkáni stílusú épület, amely ma múzeumnak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        22.279295,
-                        43.902007
-                  ]
-            },
             {
                   "name": "Istorijski arhiv „Timočka Krajina”",
                   "text": "A Timok-völgy régiójának jelentős történelmi dokumentumait őrző archívum.",
@@ -2102,33 +1509,6 @@ export const serbiaEconomicV2: POI[] = [
                   "coords": [
                         22.270801,
                         43.902638
-                  ]
-            },
-            {
-                  "name": "Spomenik Zoranu Radmiloviću",
-                  "text": "A Zajecar Industrial Hub területén található Споменик Зорану Радмиловићу történelmi emlékmű a híres szerb színész, Zoran Radmilović előtt tiszteleg. A Szerbiába látogatók ezen a helyszínen elgondolkodhatnak az ő színházi örökségének kulturális hatásán.",
-                  "category": "historical",
-                  "coords": [
-                        22.276525,
-                        43.901381
-                  ]
-            },
-            {
-                  "name": "Spomen park-šuma „Kraljevica”",
-                  "text": "Egy kiterjedt erdőpark és emlékhely Zaječar szélén.",
-                  "category": "park",
-                  "coords": [
-                        22.273296,
-                        43.885183
-                  ]
-            },
-            {
-                  "name": "Spomenik streljanim žrtvama Timočke bune",
-                  "text": "Timok-felkelés emlékműve Zaječar ipari negyedében, 1940-ben állítva.",
-                  "category": "historical",
-                  "coords": [
-                        22.278652,
-                        43.89467
                   ]
             },
             {
@@ -2141,15 +1521,6 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hajduk Veljko",
-                  "text": "Emlékmű Hajduk Veljko Petrović, az első szerb felkelés hősének tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        22.286917,
-                        43.90703
-                  ]
-            },
-            {
                   "name": "Popova plaža",
                   "text": "Népszerű sport- és szabadidőközpont a Timok-folyó partján.",
                   "category": "recreational",
@@ -2157,63 +1528,9 @@ export const serbiaEconomicV2: POI[] = [
                         22.276548,
                         43.909344
                   ]
-            },
-            {
-                  "name": "Spomenik Vešala",
-                  "text": "Emlékhely a második világháború zaječari áldozatainak tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        22.264806,
-                        43.889121
-                  ]
-            },
-            {
-                  "name": "City Pool",
-                  "text": "Ez a Zajecar Industrial Hub városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
-                  "category": "family",
-                  "coords": [
-                        22.276393,
-                        43.894327
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Istočna tvrđava",
-                  "text": "O fortificație istorică ce face parte din sistemul de apărare al orașului Zaječar.",
-                  "category": "fortress",
-                  "coords": [
-                        22.28581,
-                        43.893945
-                  ]
-            },
-            {
-                  "name": "Narodno pozorište Timočke Krajine „Zoran Radmilović”",
-                  "text": "Teatrul profesionist al orașului, numit după celebrul actor Zoran Radmilović.",
-                  "category": "cultural",
-                  "coords": [
-                        22.274761,
-                        43.901099
-                  ]
-            },
-            {
-                  "name": "Muzej grada Zaječara",
-                  "text": "Muzeul Național din Zaječar prezintă descoperiri arheologice și istorice locale.",
-                  "category": "museum",
-                  "coords": [
-                        22.278768,
-                        43.903485
-                  ]
-            },
-            {
-                  "name": "Radul-begov konak",
-                  "text": "O clădire istorică în stil balcanic, care servește astăzi ca muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        22.279295,
-                        43.902007
-                  ]
-            },
             {
                   "name": "Istorijski arhiv „Timočka Krajina”",
                   "text": "Un arhivă care păstrează documente istorice importante ale regiunii Valea Timocului.",
@@ -2221,33 +1538,6 @@ export const serbiaEconomicV2: POI[] = [
                   "coords": [
                         22.270801,
                         43.902638
-                  ]
-            },
-            {
-                  "name": "Spomenik Zoranu Radmiloviću",
-                  "text": "Situat în Zajecar Industrial Hub, Споменик Зорану Радмиловићу este un monument istoric care onorează renumitul actor sârb Zoran Radmilović. Vizitatorii acestui sit din Serbia pot reflecta asupra impactului cultural al moștenirii sale teatrale.",
-                  "category": "historical",
-                  "coords": [
-                        22.276525,
-                        43.901381
-                  ]
-            },
-            {
-                  "name": "Spomen park-šuma „Kraljevica”",
-                  "text": "Un parc forestier extins și loc memorial situat la marginea orașului Zaječar.",
-                  "category": "park",
-                  "coords": [
-                        22.273296,
-                        43.885183
-                  ]
-            },
-            {
-                  "name": "Spomenik streljanim žrtvama Timočke bune",
-                  "text": "Monumentul răscoalei Timok în Zaječar Hub Industrial, ridicat în 1940.",
-                  "category": "historical",
-                  "coords": [
-                        22.278652,
-                        43.89467
                   ]
             },
             {
@@ -2260,15 +1550,6 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hajduk Veljko",
-                  "text": "Un monument închinat lui Hajduk Veljko Petrović, un erou al primei răscoale sârbe.",
-                  "category": "historical",
-                  "coords": [
-                        22.286917,
-                        43.90703
-                  ]
-            },
-            {
                   "name": "Popova plaža",
                   "text": "Un popular centru sportiv și de recreere situat pe malul râului Timoc.",
                   "category": "recreational",
@@ -2276,63 +1557,9 @@ export const serbiaEconomicV2: POI[] = [
                         22.276548,
                         43.909344
                   ]
-            },
-            {
-                  "name": "Spomenik Vešala",
-                  "text": "Un monument memorial dedicat victimelor celui de-al Doilea Război Mondial din Zaječar.",
-                  "category": "historical",
-                  "coords": [
-                        22.264806,
-                        43.889121
-                  ]
-            },
-            {
-                  "name": "City Pool",
-                  "text": "Această unitate de înot din Zajecar Industrial Hub oferă un loc pentru înot și recreere.",
-                  "category": "family",
-                  "coords": [
-                        22.276393,
-                        43.894327
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Zaječar Eastern Fortress",
-                  "text": "A historical fortification part of the defensive system of Zaječar.",
-                  "category": "fortress",
-                  "coords": [
-                        22.28581,
-                        43.893945
-                  ]
-            },
-            {
-                  "name": "Zoran Radmilović National Theater of Timok Valley",
-                  "text": "The city's professional theater, named after the famous actor Zoran Radmilović.",
-                  "category": "cultural",
-                  "coords": [
-                        22.274761,
-                        43.901099
-                  ]
-            },
-            {
-                  "name": "Muzej grada Zaječara",
-                  "text": "The National Museum in Zaječar presents local archaeological and historical findings.",
-                  "category": "museum",
-                  "coords": [
-                        22.278768,
-                        43.903485
-                  ]
-            },
-            {
-                  "name": "Radul-Bey's Residence",
-                  "text": "A historical building in Balkan style that now serves as a museum.",
-                  "category": "museum",
-                  "coords": [
-                        22.279295,
-                        43.902007
-                  ]
-            },
             {
                   "name": "Timok Valley Historical Archive",
                   "text": "An archive preserving important historical documents of the Timok Valley region.",
@@ -2340,33 +1567,6 @@ export const serbiaEconomicV2: POI[] = [
                   "coords": [
                         22.270801,
                         43.902638
-                  ]
-            },
-            {
-                  "name": "Zoran Radmilović Monument",
-                  "text": "Located in the Zajecar Industrial Hub, Споменик Зорану Радмиловићу is a historical monument honoring the renowned Serbian actor Zoran Radmilović. Visitors to this site in Serbia can reflect on the cultural impact of his theatrical legacy.",
-                  "category": "historical",
-                  "coords": [
-                        22.276525,
-                        43.901381
-                  ]
-            },
-            {
-                  "name": "Kraljevica Memorial Park and Forest",
-                  "text": "A spacious forest park and memorial site located on the outskirts of Zaječar.",
-                  "category": "park",
-                  "coords": [
-                        22.273296,
-                        43.885183
-                  ]
-            },
-            {
-                  "name": "Monument to the Timok Rebellion",
-                  "text": "Monument to the Timok Rebellion in Zajecar Industrial Hub, erected in 1940.",
-                  "category": "historical",
-                  "coords": [
-                        22.278652,
-                        43.89467
                   ]
             },
             {
@@ -2379,39 +1579,12 @@ export const serbiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hajduk Veljko",
-                  "text": "A monument to Hajduk Veljko Petrović, a hero of the First Serbian Uprising.",
-                  "category": "historical",
-                  "coords": [
-                        22.286917,
-                        43.90703
-                  ]
-            },
-            {
                   "name": "Popova plaža",
                   "text": "A popular sports and recreational center on the banks of the Timok River.",
                   "category": "recreational",
                   "coords": [
                         22.276548,
                         43.909344
-                  ]
-            },
-            {
-                  "name": "The Gallows Monument",
-                  "text": "A memorial site dedicated to the victims of World War II in Zaječar.",
-                  "category": "historical",
-                  "coords": [
-                        22.264806,
-                        43.889121
-                  ]
-            },
-            {
-                  "name": "City pool",
-                  "text": "This swimming facility in Zajecar Industrial Hub offers a place for swimming and recreation.",
-                  "category": "family",
-                  "coords": [
-                        22.276393,
-                        43.894327
                   ]
             }
       ]
@@ -2850,51 +2023,6 @@ export const serbiaEconomicV2: POI[] = [
     id: "serbia-prokuplje-industry-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Rimsko kupatilo",
-                  "text": "Archäologische Stätte, die Überreste eines antiken römischen Bades zeigt.",
-                  "category": "historical",
-                  "coords": [
-                        21.583413,
-                        43.230182
-                  ]
-            },
-            {
-                  "name": "Spomenik Topličanima",
-                  "text": "Ein Denkmal für die Gefallenen der Region Toplica in den Kriegen von 1912 bis 1918.",
-                  "category": "historical",
-                  "coords": [
-                        21.587342,
-                        43.234496
-                  ]
-            },
-            {
-                  "name": "Hamam",
-                  "text": "Überreste eines historischen türkischen Bades aus der osmanischen Zeit.",
-                  "category": "historical",
-                  "coords": [
-                        21.588825,
-                        43.232299
-                  ]
-            },
-            {
-                  "name": "Dr Zoran Đinđić",
-                  "text": "Ein Denkmal zu Ehren des ermordeten serbischen Premierministers Zoran Đinđić.",
-                  "category": "historical",
-                  "coords": [
-                        21.60424,
-                        43.237676
-                  ]
-            },
-            {
-                  "name": "Rastovničko jezero",
-                  "text": "Ein ruhiger See bei Prokuplje, ideal für einen stillen Spaziergang in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        21.604272,
-                        43.210776
-                  ]
-            },
-            {
                   "name": "City Pool",
                   "text": "Das Stadtbad in Prokuplje liegt im Industriegebiet der Stadt.",
                   "category": "family",
@@ -2905,51 +2033,6 @@ export const serbiaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Rimsko kupatilo",
-                  "text": "Régészeti lelőhely, amely egy ókori római fürdő maradványait mutatja be.",
-                  "category": "historical",
-                  "coords": [
-                        21.583413,
-                        43.230182
-                  ]
-            },
-            {
-                  "name": "Spomenik Topličanima",
-                  "text": "Emlékmű a Toplica régió 1912 és 1918 közötti háborúkban elesett hőseinek.",
-                  "category": "historical",
-                  "coords": [
-                        21.587342,
-                        43.234496
-                  ]
-            },
-            {
-                  "name": "Hamam",
-                  "text": "Egy történelmi török fürdő maradványai az oszmán korból.",
-                  "category": "historical",
-                  "coords": [
-                        21.588825,
-                        43.232299
-                  ]
-            },
-            {
-                  "name": "Dr Zoran Đinđić",
-                  "text": "Emlékmű a meggyilkolt szerb miniszterelnök, Zoran Đinđić tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        21.60424,
-                        43.237676
-                  ]
-            },
-            {
-                  "name": "Rastovničko jezero",
-                  "text": "Csendes tó Prokuplje közelében, amely alkalmas egy nyugodt természetbeli sétára.",
-                  "category": "natural",
-                  "coords": [
-                        21.604272,
-                        43.210776
-                  ]
-            },
             {
                   "name": "City Pool",
                   "text": "A prokupljei városi uszoda a város ipari övezetében található.",
@@ -2962,51 +2045,6 @@ export const serbiaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rimsko kupatilo",
-                  "text": "Sit arheologic care prezintă rămășițele unei băi romane antice.",
-                  "category": "historical",
-                  "coords": [
-                        21.583413,
-                        43.230182
-                  ]
-            },
-            {
-                  "name": "Spomenik Topličanima",
-                  "text": "Un monument dedicat celor căzuți din regiunea Toplica în războaiele dintre 1912 și 1918.",
-                  "category": "historical",
-                  "coords": [
-                        21.587342,
-                        43.234496
-                  ]
-            },
-            {
-                  "name": "Hamam",
-                  "text": "Rămășițele unei băi turcești istorice din perioada otomană.",
-                  "category": "historical",
-                  "coords": [
-                        21.588825,
-                        43.232299
-                  ]
-            },
-            {
-                  "name": "Dr Zoran Đinđić",
-                  "text": "Un monument ridicat în onoarea premierului sârb asasinat, Zoran Đinđić.",
-                  "category": "historical",
-                  "coords": [
-                        21.60424,
-                        43.237676
-                  ]
-            },
-            {
-                  "name": "Rastovničko jezero",
-                  "text": "Un lac liniștit situat lângă Prokuplje, potrivit pentru o plimbare calmă în natură.",
-                  "category": "natural",
-                  "coords": [
-                        21.604272,
-                        43.210776
-                  ]
-            },
-            {
                   "name": "City Pool",
                   "text": "Piscina orașului din Prokuplje se află în zona industrială a orașului.",
                   "category": "family",
@@ -3017,51 +2055,6 @@ export const serbiaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Rimsko kupatilo",
-                  "text": "Archaeological site showing the remains of an ancient Roman bath.",
-                  "category": "historical",
-                  "coords": [
-                        21.583413,
-                        43.230182
-                  ]
-            },
-            {
-                  "name": "Spomenik Topličanima",
-                  "text": "A monument to the fallen of the Toplica region in the wars from 1912 to 1918.",
-                  "category": "historical",
-                  "coords": [
-                        21.587342,
-                        43.234496
-                  ]
-            },
-            {
-                  "name": "Hamam",
-                  "text": "Remains of a historic Turkish bath from the Ottoman period.",
-                  "category": "historical",
-                  "coords": [
-                        21.588825,
-                        43.232299
-                  ]
-            },
-            {
-                  "name": "Dr Zoran Đinđić",
-                  "text": "A monument in honor of the assassinated Serbian Prime Minister Zoran Đinđić.",
-                  "category": "historical",
-                  "coords": [
-                        21.60424,
-                        43.237676
-                  ]
-            },
-            {
-                  "name": "Rastovničko jezero",
-                  "text": "A quiet lake located near Prokuplje, suitable for a calm walk in nature.",
-                  "category": "natural",
-                  "coords": [
-                        21.604272,
-                        43.210776
-                  ]
-            },
             {
                   "name": "City Pool",
                   "text": "The City Pool in Prokuplje is located in the industrial area of the city.",
@@ -3163,266 +2156,10 @@ export const serbiaEconomicV2: POI[] = [
   },
   {
     id: "serbia-subotica-food-industry-economic-v2", "sights": {
-      "de": [
-            {
-                  "name": "Narodno pozorishte Subotitsa",
-                  "text": "Das Nationaltheater Subotica, 1854 von János Skultéti erbaut, im Lebensmittelindustriegebiet von Subotica.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Reichl Palast",
-                  "text": "Ein prächtiges Jugendstil-Palais in Subotica, das vom Architekten Ferenc Raichle entworfen wurde.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "j Cy",
-                  "text": "Das Stadtmuseum von Subotica präsentiert lokale historische und künstlerische Sammlungen.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Ein Museum in Subotica, das verschiedenen Porzellanobjekten gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Gradska kutsha",
-                  "text": "Das Rathaus von Subotica ist ein monumentales Wahrzeichen im ungarischen Jugendstil.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "Ein Kulturzentrum in Subotica, das sich der Förderung der Bunjevci-Kultur widmet.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Spomenik Ivanu Saritshu",
-                  "text": "Ein Denkmal in Subotica zu Ehren des Luftfahrtpioniers Ivan Sarić.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Szabadkai Népszínház",
-                  "text": "A Szabadkai Nemzeti Színház, 1854-ben építette Skultéti János, Szabadka élelmiszeripari negyedében.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Palata Rajkhl",
-                  "text": "Szecessziós stílusú palota Szabadkán, melyet Raichle Ferenc építész tervezett.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "Szabadkai Városi Múzeum",
-                  "text": "A Szabadkai Városi Múzeum helyi történelmi és művészeti gyűjteményeket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Porcelántárgyaknak szentelt múzeum Szabadkán.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Városháza",
-                  "text": "A szabadkai városháza a magyar szecessziós építészet monumentális jelképe.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "Kulturális központ Szabadkán, amely a bunyevác kultúra ápolásával foglalkozik.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Szárits János emlékműve",
-                  "text": "Emlékmű Szabadkán Ivan Sarić repülési úttörő tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Narodno pozorishte Subotitsa",
-                  "text": "Teatrul Național din Subotica, construit în 1854 de János Skultéti, în zona industriei alimentare.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Palata Rajkhl",
-                  "text": "Un palat spectaculos în stil Secession din Subotica, proiectat de arhitectul Ferenc Raichle.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "j Cy",
-                  "text": "Muzeul Orașului Subotica prezintă colecții de istorie și artă locală.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "Un muzeu din Subotica dedicat diverselor obiecte din porțelan.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Gradska kutsha",
-                  "text": "Primăria din Subotica este un simbol monumental al stilului Secession maghiar.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "Un centru cultural din Subotica dedicat promovării culturii bunjevci.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Spomenik Ivanu Saritshu",
-                  "text": "Un monument în Subotica ridicat în cinstea pionierului aviației Ivan Sarić.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Subotica National Theatre",
-                  "text": "Subotica National Theatre, built in 1854 by János Skultéti, in the food industry district.",
-                  "category": "cultural",
-                  "coords": [
-                        19.666087,
-                        46.100129
-                  ]
-            },
-            {
-                  "name": "Reichl Palace",
-                  "text": "A magnificent Art Nouveau palace in Subotica, designed by architect Ferenc Raichle.",
-                  "category": "castle",
-                  "coords": [
-                        19.66865,
-                        46.10151
-                  ]
-            },
-            {
-                  "name": "Subotica City Museum",
-                  "text": "The Subotica City Museum showcases local historical and artistic collections.",
-                  "category": "museum",
-                  "coords": [
-                        19.661303,
-                        46.102181
-                  ]
-            },
-            {
-                  "name": "Porcelain Museum",
-                  "text": "A museum in Subotica dedicated to various porcelain objects.",
-                  "category": "museum",
-                  "coords": [
-                        19.667499,
-                        46.102162
-                  ]
-            },
-            {
-                  "name": "Town hall",
-                  "text": "The Subotica Town Hall is a monumental landmark built in the Hungarian Art Nouveau style.",
-                  "category": "landmark",
-                  "coords": [
-                        19.664552,
-                        46.09969
-                  ]
-            },
-            {
-                  "name": "Bunjevački kulturni centar",
-                  "text": "A cultural centre in Subotica dedicated to promoting Bunjevci culture.",
-                  "category": "cultural",
-                  "coords": [
-                        19.670912,
-                        46.100806
-                  ]
-            },
-            {
-                  "name": "Ivan Sarić Monument",
-                  "text": "A monument in Subotica honoring the aviation pioneer Ivan Sarić.",
-                  "category": "historical",
-                  "coords": [
-                        19.667888,
-                        46.099115
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "industry",
     parent: "RS",

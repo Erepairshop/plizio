@@ -681,39 +681,12 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Culturel Ali Tlilani",
-                  "text": "Das Centre Culturel Ali Tlilani ist ein städtisches Kunstzentrum, das lokale Ausstellungen und Gemeindeveranstaltungen in Skikda beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        6.91569,
-                        36.869111
-                  ]
-            },
-            {
-                  "name": "Musée d'el Moujahid",
-                  "text": "Das Musée d'el Moujahid in Skikda ist ein regionales Museum, das Artefakte im Zusammenhang mit dem algerischen Unabhängigkeitskrieg aufbewahrt.",
-                  "category": "museum",
-                  "coords": [
-                        6.920261,
-                        36.871058
-                  ]
-            },
-            {
                   "name": "Baie de Stora",
                   "text": "Die Baie de Stora ist eine markante Mittelmeerbucht, die einen großen natürlichen Hafen an der Küste von Skikda bildet.",
                   "category": "landmark",
                   "coords": [
                         6.951597,
                         36.909006
-                  ]
-            },
-            {
-                  "name": "Maison de Culture Mohamed Seradj",
-                  "text": "Das Maison de Culture Mohamed Seradj ist ein regionales Kulturzentrum in Skikda, das darstellende Künste und lokale Workshops fördert.",
-                  "category": "cultural",
-                  "coords": [
-                        6.909354,
-                        36.868222
                   ]
             },
             {
@@ -741,15 +714,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   "coords": [
                         6.906486,
                         36.881245
-                  ]
-            },
-            {
-                  "name": "Centre Culturel Issat Idir",
-                  "text": "Das Kulturzentrum Issat Idir fungiert als städtischer Kunst- und Bildungsraum für die Gemeinde von Skikda.",
-                  "category": "cultural",
-                  "coords": [
-                        6.910662,
-                        36.875429
                   ]
             },
             {
@@ -917,39 +881,12 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Culturel Ali Tlilani",
-                  "text": "A Centre Culturel Ali Tlilani egy városi művészeti központ, amely helyi kiállításoknak és közösségi eseményeknek ad otthont Skikdában.",
-                  "category": "cultural",
-                  "coords": [
-                        6.91569,
-                        36.869111
-                  ]
-            },
-            {
-                  "name": "Musée d'el Moujahid",
-                  "text": "A skikdai Musée d'el Moujahid egy regionális múzeum, amely az algériai függetlenségi háborúhoz kapcsolódó emlékeket őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        6.920261,
-                        36.871058
-                  ]
-            },
-            {
                   "name": "Baie de Stora",
                   "text": "A Baie de Stora egy kiemelkedő mediterrán öböl, amely hatalmas természetes kikötőt képez Skikda partvonalán.",
                   "category": "landmark",
                   "coords": [
                         6.951597,
                         36.909006
-                  ]
-            },
-            {
-                  "name": "Maison de Culture Mohamed Seradj",
-                  "text": "A Maison de Culture Mohamed Seradj egy regionális kulturális központ Skikdában, amely előadóművészeteket és helyi workshopokat támogat.",
-                  "category": "cultural",
-                  "coords": [
-                        6.909354,
-                        36.868222
                   ]
             },
             {
@@ -977,15 +914,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   "coords": [
                         6.906486,
                         36.881245
-                  ]
-            },
-            {
-                  "name": "Centre Culturel Issat Idir",
-                  "text": "Az Issat Idir Kulturális Központ városi művészeti és oktatási térként működik Skikda közössége számára.",
-                  "category": "cultural",
-                  "coords": [
-                        6.910662,
-                        36.875429
                   ]
             },
             {
@@ -1153,39 +1081,12 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Culturel Ali Tlilani",
-                  "text": "Centre Culturel Ali Tlilani este un centru de arte urban ce găzduiește expoziții locale și evenimente comunitare în Skikda.",
-                  "category": "cultural",
-                  "coords": [
-                        6.91569,
-                        36.869111
-                  ]
-            },
-            {
-                  "name": "Musée d'el Moujahid",
-                  "text": "Muzeul d'el Moujahid din Skikda este un muzeu regional ce conservă artefacte legate de războiul de independență al Algeriei.",
-                  "category": "museum",
-                  "coords": [
-                        6.920261,
-                        36.871058
-                  ]
-            },
-            {
                   "name": "Baie de Stora",
                   "text": "Baie de Stora este un golf mediteranean proeminent care formează un port natural mare de-a lungul coastei din Skikda.",
                   "category": "landmark",
                   "coords": [
                         6.951597,
                         36.909006
-                  ]
-            },
-            {
-                  "name": "Maison de Culture Mohamed Seradj",
-                  "text": "Maison de Culture Mohamed Seradj este un centru cultural regional din Skikda care sprijină artele spectacolului și atelierele comunității locale.",
-                  "category": "cultural",
-                  "coords": [
-                        6.909354,
-                        36.868222
                   ]
             },
             {
@@ -1213,15 +1114,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   "coords": [
                         6.906486,
                         36.881245
-                  ]
-            },
-            {
-                  "name": "Centre Culturel Issat Idir",
-                  "text": "Centrul Cultural Issat Idir funcționează ca un spațiu urban de educație și arte pentru comunitatea din Skikda.",
-                  "category": "cultural",
-                  "coords": [
-                        6.910662,
-                        36.875429
                   ]
             },
             {
@@ -1389,39 +1281,12 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Culturel Ali Tlilani",
-                  "text": "Centre Culturel Ali Tlilani is an urban arts center hosting local exhibitions and community events in Skikda.",
-                  "category": "cultural",
-                  "coords": [
-                        6.91569,
-                        36.869111
-                  ]
-            },
-            {
-                  "name": "Musée d'el Moujahid",
-                  "text": "The Musée d'el Moujahid in Skikda is a dedicated regional museum preserving artifacts related to the Algerian war of independence.",
-                  "category": "museum",
-                  "coords": [
-                        6.920261,
-                        36.871058
-                  ]
-            },
-            {
                   "name": "Baie de Stora",
                   "text": "Baie de Stora is a prominent Mediterranean bay forming a large natural harbor along the coastline of Skikda.",
                   "category": "landmark",
                   "coords": [
                         6.951597,
                         36.909006
-                  ]
-            },
-            {
-                  "name": "Maison de Culture Mohamed Seradj",
-                  "text": "Maison de Culture Mohamed Seradj is a regional cultural hub in Skikda that supports performing arts and local community workshops.",
-                  "category": "cultural",
-                  "coords": [
-                        6.909354,
-                        36.868222
                   ]
             },
             {
@@ -1449,15 +1314,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   "coords": [
                         6.906486,
                         36.881245
-                  ]
-            },
-            {
-                  "name": "Issat Idir Cultural Centre",
-                  "text": "The Issat Idir Cultural Centre operates as an urban arts and education space for the community of Skikda.",
-                  "category": "cultural",
-                  "coords": [
-                        6.910662,
-                        36.875429
                   ]
             },
             {
@@ -1675,15 +1531,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
     id: "port-of-oran-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Parc d'attraction Djanat El Ahlam",
-                  "text": "Dieser familienfreundliche Vergnügungspark in Oran bietet klassische Fahrgeschäfte und Erholungsflächen.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.634307,
-                        35.684844
-                  ]
-            },
-            {
                   "name": "Conservatoire Ahmed Wahbi",
                   "text": "Dieses kulturelle Konservatorium in der Stadt Oran widmet sich der regionalen Musik und den darstellenden Künsten.",
                   "category": "cultural",
@@ -1694,15 +1541,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Parc d'attraction Djanat El Ahlam",
-                  "text": "Ez az oran-i családbarát vidámpark klasszikus játékokkal és rekreációs terekkel várja a látogatókat.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.634307,
-                        35.684844
-                  ]
-            },
             {
                   "name": "Conservatoire Ahmed Wahbi",
                   "text": "Az Oran városában található kulturális konzervatórium a regionális zenének és az előadóművészeteknek szenteli magát.",
@@ -1715,15 +1553,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Parc d'attraction Djanat El Ahlam",
-                  "text": "Acest parc de distracții pentru familii din Oran oferă atracții clasice și spații de recreere.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.634307,
-                        35.684844
-                  ]
-            },
-            {
                   "name": "Conservatoire Ahmed Wahbi",
                   "text": "Dedicat muzicii regionale și artelor spectacolului, acest conservator cultural este situat în orașul Oran.",
                   "category": "cultural",
@@ -1734,15 +1563,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Parc d'attraction Djanat El Ahlam",
-                  "text": "This family-friendly amusement park in Oran features classic rides and recreational spaces.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.634307,
-                        35.684844
-                  ]
-            },
             {
                   "name": "Conservatoire Ahmed Wahbi",
                   "text": "Dedicated to regional music and performing arts, this cultural conservatory is situated in the city of Oran.",
@@ -2669,15 +2489,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Théatre Azzedine Medjoubi",
-                  "text": "Dieses bedeutende regionale Theater ist nach dem ermordeten algerischen Schauspieler Azzedine Medjoubi benannt.",
-                  "category": "cultural",
-                  "coords": [
-                        7.759561,
-                        36.899695
-                  ]
-            },
-            {
                   "name": "Palais de la Culture Mohamed Boudiaf",
                   "text": "Dieser große Kulturpalast ist ein Zentrum für Ausstellungen und Kunstveranstaltungen in Annaba.",
                   "category": "cultural",
@@ -2693,15 +2504,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   "coords": [
                         7.761018,
                         36.927379
-                  ]
-            },
-            {
-                  "name": "Mosquée de Sidi Bou Merouane",
-                  "text": "Diese historische Moschee aus dem 11. Jahrhundert wurde majestätisch mit Blick auf den alten Hafen von Annaba erbaut.",
-                  "category": "religious",
-                  "coords": [
-                        7.764131,
-                        36.898435
                   ]
             }
       ],
@@ -2761,15 +2563,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Théatre Azzedine Medjoubi",
-                  "text": "Ez a jelentős regionális színház a meggyilkolt algériai színészről, Azzedine Medjoubiról kapta a nevét.",
-                  "category": "cultural",
-                  "coords": [
-                        7.759561,
-                        36.899695
-                  ]
-            },
-            {
                   "name": "Palais de la Culture Mohamed Boudiaf",
                   "text": "Ez a nagy kulturális palota kiállítások és művészeti események központja Annabában.",
                   "category": "cultural",
@@ -2785,15 +2578,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   "coords": [
                         7.761018,
                         36.927379
-                  ]
-            },
-            {
-                  "name": "Mosquée de Sidi Bou Merouane",
-                  "text": "Ezt a 11. századi történelmi mecsetet fenségesen, Annaba régi kikötőjére néző kilátással építették.",
-                  "category": "religious",
-                  "coords": [
-                        7.764131,
-                        36.898435
                   ]
             }
       ],
@@ -2853,15 +2637,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Théatre Azzedine Medjoubi",
-                  "text": "Acest important teatru regional este numit după actorul algerian asasinat Azzedine Medjoubi.",
-                  "category": "cultural",
-                  "coords": [
-                        7.759561,
-                        36.899695
-                  ]
-            },
-            {
                   "name": "Palais de la Culture Mohamed Boudiaf",
                   "text": "Acest mare palat cultural este un centru pentru expoziții și evenimente de artă în Annaba.",
                   "category": "cultural",
@@ -2877,15 +2652,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   "coords": [
                         7.761018,
                         36.927379
-                  ]
-            },
-            {
-                  "name": "Mosquée de Sidi Bou Merouane",
-                  "text": "Această moschee istorică din secolul al XI-lea a fost construită maiestuos cu vedere la vechiul port al orașului Annaba.",
-                  "category": "religious",
-                  "coords": [
-                        7.764131,
-                        36.898435
                   ]
             }
       ],
@@ -2945,15 +2711,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Théatre Azzedine Medjoubi",
-                  "text": "This major regional theater is named after the assassinated Algerian actor Azzedine Medjoubi.",
-                  "category": "cultural",
-                  "coords": [
-                        7.759561,
-                        36.899695
-                  ]
-            },
-            {
                   "name": "Palais de la Culture Mohamed Boudiaf",
                   "text": "This large cultural palace serves as a hub for exhibitions and arts events in Annaba.",
                   "category": "cultural",
@@ -2969,15 +2726,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   "coords": [
                         7.761018,
                         36.927379
-                  ]
-            },
-            {
-                  "name": "Mosquée de Sidi Bou Merouane",
-                  "text": "This historic 11th-century mosque was majestically built overlooking the old port of Annaba.",
-                  "category": "religious",
-                  "coords": [
-                        7.764131,
-                        36.898435
                   ]
             }
       ]
@@ -3031,39 +2779,12 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
     id: "port-of-mostaganem-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Cité zagheloul f",
-                  "text": "Cité zagheloul f integriert befestigte architektonische Elemente innerhalb der Hafenstadt Mostaganem.",
-                  "category": "castle",
-                  "coords": [
-                        0.090699,
-                        35.919797
-                  ]
-            },
-            {
                   "name": "Musée du Moudjahid",
                   "text": "Dieses Museum in Mostaganem widmet sich der Geschichte und den Erinnerungen des algerischen Unabhängigkeitskrieges.",
                   "category": "museum",
                   "coords": [
                         0.078014,
                         35.930894
-                  ]
-            },
-            {
-                  "name": "Musée Dar El Kaid",
-                  "text": "Dieses in einem traditionellen Gebäude untergebrachte Museum zeigt das regionale Erbe und historische Artefakte von Mostaganem.",
-                  "category": "museum",
-                  "coords": [
-                        0.092938,
-                        35.936324
-                  ]
-            },
-            {
-                  "name": "Fort Turc",
-                  "text": "Diese historische Festung aus der osmanischen Zeit diente als Küstenverteidigungsanlage mit Blick auf das Mittelmeer.",
-                  "category": "castle",
-                  "coords": [
-                        0.096424,
-                        35.934288
                   ]
             },
             {
@@ -3148,15 +2869,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jardin Zoologique",
-                  "text": "Dieser zoologische Park beherbergt verschiedene Wildtierarten in Gehegen und bietet lehrreiche Spaziergänge für Familien.",
-                  "category": "recreational",
-                  "coords": [
-                        0.088975,
-                        35.932813
-                  ]
-            },
-            {
                   "name": "Mostaland Parc",
                   "text": "Mostaganems größter Vergnügungspark kombiniert aufregende Achterbahnen, Familienfahrgeschäfte und einen zoologischen Garten.",
                   "category": "recreational",
@@ -3177,39 +2889,12 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Cité zagheloul f",
-                  "text": "A Cité zagheloul f erődített építészeti elemeket foglal magába Mostaganem kikötővárosában.",
-                  "category": "castle",
-                  "coords": [
-                        0.090699,
-                        35.919797
-                  ]
-            },
-            {
                   "name": "Musée du Moudjahid",
                   "text": "Ez a mosztagánemi múzeum az algériai függetlenségi háború történetét és emlékeit őrzi.",
                   "category": "museum",
                   "coords": [
                         0.078014,
                         35.930894
-                  ]
-            },
-            {
-                  "name": "Musée Dar El Kaid",
-                  "text": "A hagyományos épületben helyet kapó múzeum Mosztagánem regionális örökségét és műtárgyait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        0.092938,
-                        35.936324
-                  ]
-            },
-            {
-                  "name": "Fort Turc",
-                  "text": "Ez a történelmi, oszmán kori erőd partvédelmi építményként magasodik a Földközi-tenger fölé.",
-                  "category": "castle",
-                  "coords": [
-                        0.096424,
-                        35.934288
                   ]
             },
             {
@@ -3294,15 +2979,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jardin Zoologique",
-                  "text": "Ez a zoológiai park különféle vadon élő állatfajoknak ad otthont kifutókban, oktató jellegű sétákat kínálva a családoknak.",
-                  "category": "recreational",
-                  "coords": [
-                        0.088975,
-                        35.932813
-                  ]
-            },
-            {
                   "name": "Mostaland Parc",
                   "text": "Mosztagánem fő vidámparkja, amely izgalmas hullámvasutakat, családi játékokat és egy állatkertet is magában foglal.",
                   "category": "recreational",
@@ -3323,39 +2999,12 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Cité zagheloul f",
-                  "text": "Cité zagheloul f încorporează elemente arhitecturale fortificate în cadrul orașului-port Mostaganem.",
-                  "category": "castle",
-                  "coords": [
-                        0.090699,
-                        35.919797
-                  ]
-            },
-            {
                   "name": "Musée du Moudjahid",
                   "text": "Acest muzeu din Mostaganem este dedicat păstrării istoriei Războiului de Independență al Algeriei.",
                   "category": "museum",
                   "coords": [
                         0.078014,
                         35.930894
-                  ]
-            },
-            {
-                  "name": "Musée Dar El Kaid",
-                  "text": "Găzduit într-o clădire tradițională, acest muzeu expune moștenirea regională și artefactele istorice din Mostaganem.",
-                  "category": "museum",
-                  "coords": [
-                        0.092938,
-                        35.936324
-                  ]
-            },
-            {
-                  "name": "Fort Turc",
-                  "text": "Această fortăreață istorică din epoca otomană servește drept structură de apărare pe coastă, cu vedere la Marea Mediterană.",
-                  "category": "castle",
-                  "coords": [
-                        0.096424,
-                        35.934288
                   ]
             },
             {
@@ -3440,15 +3089,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jardin Zoologique",
-                  "text": "Acest parc zoologic adăpostește diverse specii de animale sălbatice în incinte, oferind plimbări educative pentru familii.",
-                  "category": "recreational",
-                  "coords": [
-                        0.088975,
-                        35.932813
-                  ]
-            },
-            {
                   "name": "Mostaland Parc",
                   "text": "Principalul parc de distracții din Mostaganem, combinând montagne ruse palpitante, atracții pentru familii și o grădină zoologică.",
                   "category": "recreational",
@@ -3469,39 +3109,12 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Cité zagheloul f",
-                  "text": "Cité zagheloul f incorporates fortified architectural elements within the port city of Mostaganem.",
-                  "category": "castle",
-                  "coords": [
-                        0.090699,
-                        35.919797
-                  ]
-            },
-            {
                   "name": "Musée du Moudjahid",
                   "text": "This museum in Mostaganem is dedicated to preserving the history of the Algerian War of Independence.",
                   "category": "museum",
                   "coords": [
                         0.078014,
                         35.930894
-                  ]
-            },
-            {
-                  "name": "Musée Dar El Kaid",
-                  "text": "Housed in a traditional building, this museum showcases the regional heritage and artifacts of Mostaganem.",
-                  "category": "museum",
-                  "coords": [
-                        0.092938,
-                        35.936324
-                  ]
-            },
-            {
-                  "name": "Fort Turc",
-                  "text": "This historic Ottoman-era fortress stands as a coastal defense structure overlooking the Mediterranean Sea.",
-                  "category": "castle",
-                  "coords": [
-                        0.096424,
-                        35.934288
                   ]
             },
             {
@@ -3586,15 +3199,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jardin Zoologique",
-                  "text": "This zoological park houses various wildlife species in animal enclosures, providing educational strolls for families.",
-                  "category": "recreational",
-                  "coords": [
-                        0.088975,
-                        35.932813
-                  ]
-            },
-            {
                   "name": "Mostaland Parc",
                   "text": "Mostaganem's main amusement park, combining thrilling rollercoasters, family rides, and a zoological garden.",
                   "category": "recreational",
@@ -3672,39 +3276,12 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "3ème",
-                  "text": "3ème ist ein erhöhter malerischer Aussichtspunkt, der weite Panoramen über den Hafen von Djendjen und die umliegende Küstenlandschaft bietet.",
-                  "category": "natural",
-                  "coords": [
-                        5.788863,
-                        36.808964
-                  ]
-            },
-            {
-                  "name": "Théâtre de verdure",
-                  "text": "Das Théâtre de verdure ist ein Freilichtamphitheater inmitten einer grünen Parkanlage nahe dem Gebiet von Djendjen.",
-                  "category": "cultural",
-                  "coords": [
-                        5.780194,
-                        36.80601
-                  ]
-            },
-            {
                   "name": "Maison des jeunes",
                   "text": "Maison des jeunes ist ein lokales Jugendkulturzentrum, das der Gemeinde des Hafens von Djendjen kulturelle und Freizeitaktivitäten bietet.",
                   "category": "cultural",
                   "coords": [
                         5.848189,
                         36.754384
-                  ]
-            },
-            {
-                  "name": "Plage Kotama",
-                  "text": "Plage Kotama ist ein weitläufiger Küstenstrand mit sandigen Mittelmeergestaden in der Nähe der maritimen Zonen von Djendjen.",
-                  "category": "recreational",
-                  "coords": [
-                        5.775737,
-                        36.814249
                   ]
             },
             {
@@ -3728,39 +3305,12 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "3ème",
-                  "text": "A 3ème egy magaslati kilátópont, amely lenyűgöző panorámát nyújt a dzsendzseni kikötőre és a környező tengerparti tájra.",
-                  "category": "natural",
-                  "coords": [
-                        5.788863,
-                        36.808964
-                  ]
-            },
-            {
-                  "name": "Théâtre de verdure",
-                  "text": "A Théâtre de verdure egy szabadtéri amfiteátrum, amely a dzsendzseni terület közelében egy zöld parkos részben fészkel.",
-                  "category": "cultural",
-                  "coords": [
-                        5.780194,
-                        36.80601
-                  ]
-            },
-            {
                   "name": "Maison des jeunes",
                   "text": "A Maison des jeunes egy helyi ifjúsági művészeti központ, amely kulturális és szabadidős tevékenységeket biztosít a dzsendzseni kikötő közösségének.",
                   "category": "cultural",
                   "coords": [
                         5.848189,
                         36.754384
-                  ]
-            },
-            {
-                  "name": "Plage Kotama",
-                  "text": "A Plage Kotama egy kiterjedt tengerparti strand homokos mediterrán partokkal Djendjen tengeri övezetei közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        5.775737,
-                        36.814249
                   ]
             },
             {
@@ -3784,39 +3334,12 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "3ème",
-                  "text": "3ème este un punct de belvedere pitoresc situat la înălțime, oferind panorame ample asupra portului Djendjen și a peisajului de coastă din jur.",
-                  "category": "natural",
-                  "coords": [
-                        5.788863,
-                        36.808964
-                  ]
-            },
-            {
-                  "name": "Théâtre de verdure",
-                  "text": "Théâtre de verdure este un amfiteatru în aer liber amplasat într-un parc verde din zona Djendjen.",
-                  "category": "cultural",
-                  "coords": [
-                        5.780194,
-                        36.80601
-                  ]
-            },
-            {
                   "name": "Maison des jeunes",
                   "text": "Maison des jeunes este un centru local de artă pentru tineret, oferind activități culturale și recreative pentru comunitatea din portul Djendjen.",
                   "category": "cultural",
                   "coords": [
                         5.848189,
                         36.754384
-                  ]
-            },
-            {
-                  "name": "Plage Kotama",
-                  "text": "Plage Kotama este o plajă largă cu țărmuri mediteraneene nisipoase, situată lângă zonele maritime din Djendjen.",
-                  "category": "recreational",
-                  "coords": [
-                        5.775737,
-                        36.814249
                   ]
             },
             {
@@ -3840,39 +3363,12 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "3ème",
-                  "text": "3ème is an elevated scenic viewpoint offering sweeping panoramas over the Djendjen port and the surrounding coastal landscape.",
-                  "category": "natural",
-                  "coords": [
-                        5.788863,
-                        36.808964
-                  ]
-            },
-            {
-                  "name": "Théâtre de verdure",
-                  "text": "The Théâtre de verdure is an open-air amphitheater nestled within a green park space near the Djendjen area.",
-                  "category": "cultural",
-                  "coords": [
-                        5.780194,
-                        36.80601
-                  ]
-            },
-            {
                   "name": "Maison des jeunes",
                   "text": "Maison des jeunes is a local youth arts center providing cultural and recreational activities for the Djendjen port community.",
                   "category": "cultural",
                   "coords": [
                         5.848189,
                         36.754384
-                  ]
-            },
-            {
-                  "name": "Plage Kotama",
-                  "text": "Plage Kotama is a sweeping coastal beach with sandy Mediterranean shores near the maritime zones of Djendjen.",
-                  "category": "recreational",
-                  "coords": [
-                        5.775737,
-                        36.814249
                   ]
             },
             {
@@ -5392,15 +4888,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Station Thermale",
-                  "text": "Diese Thermalstation bietet natürlich beheizte Bäder inmitten der trockenen Landschaften der Touat-Region.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.300707,
-                        27.876632
-                  ]
-            },
-            {
                   "name": "Palais de la culture d'Adrar",
                   "text": "Der Kulturpalast von Adrar ist ein lebendiger Kunstort, der sich der Erhaltung und Ausstellung des regionalen Sahara-Erbes widmet.",
                   "category": "cultural",
@@ -5436,15 +4923,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   "coords": [
                         -0.270723,
                         27.830153
-                  ]
-            },
-            {
-                  "name": "Station Thermale",
-                  "text": "Ez a termálállomás természetes úton fűtött fürdőket kínál a Touat régió száraz tájaival körülvéve.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.300707,
-                        27.876632
                   ]
             },
             {
@@ -5486,15 +4964,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Station Thermale",
-                  "text": "Această stațiune termală oferă băi încălzite natural, înconjurate de peisajele aride ale regiunii Touat.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.300707,
-                        27.876632
-                  ]
-            },
-            {
                   "name": "Palais de la culture d'Adrar",
                   "text": "Palatul Culturii din Adrar este o locație artistică vibrantă, dedicată conservării și expunerii patrimoniului saharian regional.",
                   "category": "cultural",
@@ -5530,15 +4999,6 @@ export const poiExtraAlgeriaEconomicV2: POI[] = [
                   "coords": [
                         -0.270723,
                         27.830153
-                  ]
-            },
-            {
-                  "name": "Station Thermale",
-                  "text": "This thermal station offers naturally heated baths surrounded by the arid landscapes of the Touat region.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.300707,
-                        27.876632
                   ]
             },
             {

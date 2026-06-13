@@ -519,30 +519,12 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-kone-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Centre culturel Pomémie",
-                  "text": "Kulturzentrum Pomémie in Kone.",
-                  "category": "cultural",
-                  "coords": [
-                        164.885275,
-                        -21.068592
-                  ]
-            },
-            {
                   "name": "Tu Koohnê Plongée",
                   "text": "Tauchplatz in Kone.",
                   "category": "landmark",
                   "coords": [
                         164.842074,
                         -21.055876
-                  ]
-            },
-            {
-                  "name": "Complexe culturel",
-                  "text": "Kulturkomplex mit mehreren Einrichtungen in Kone.",
-                  "category": "cultural",
-                  "coords": [
-                        164.863262,
-                        -21.056408
                   ]
             },
             {
@@ -557,30 +539,12 @@ export const newcaledoniaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Centre culturel Pomémie",
-                  "text": "Pomémie kulturális központ Kone-ban.",
-                  "category": "cultural",
-                  "coords": [
-                        164.885275,
-                        -21.068592
-                  ]
-            },
-            {
                   "name": "Tu Koohnê Plongée",
                   "text": "Búvárhely Kone-ban.",
                   "category": "landmark",
                   "coords": [
                         164.842074,
                         -21.055876
-                  ]
-            },
-            {
-                  "name": "Complexe culturel",
-                  "text": "Többfunkciós kulturális komplexum Kone-ban.",
-                  "category": "cultural",
-                  "coords": [
-                        164.863262,
-                        -21.056408
                   ]
             },
             {
@@ -595,30 +559,12 @@ export const newcaledoniaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Centre culturel Pomémie",
-                  "text": "Centrul cultural Pomémie în Kone.",
-                  "category": "cultural",
-                  "coords": [
-                        164.885275,
-                        -21.068592
-                  ]
-            },
-            {
                   "name": "Tu Koohnê Plongée",
                   "text": "Loc de scufundări în Kone.",
                   "category": "landmark",
                   "coords": [
                         164.842074,
                         -21.055876
-                  ]
-            },
-            {
-                  "name": "Complexe culturel",
-                  "text": "Complex cultural cu multiple facilități în Kone.",
-                  "category": "cultural",
-                  "coords": [
-                        164.863262,
-                        -21.056408
                   ]
             },
             {
@@ -633,30 +579,12 @@ export const newcaledoniaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Centre culturel Pomémie",
-                  "text": "Pomémie cultural center in Kone.",
-                  "category": "cultural",
-                  "coords": [
-                        164.885275,
-                        -21.068592
-                  ]
-            },
-            {
                   "name": "Tu Koohnê Plongée",
                   "text": "Diving site in Kone.",
                   "category": "landmark",
                   "coords": [
                         164.842074,
                         -21.055876
-                  ]
-            },
-            {
-                  "name": "Complexe culturel",
-                  "text": "Cultural complex with multiple facilities in Kone.",
-                  "category": "cultural",
-                  "coords": [
-                        164.863262,
-                        -21.056408
                   ]
             },
             {
@@ -762,42 +690,6 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-koumac-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Plage de Pandop",
-                  "text": "Der Plage de Pandop öffnet sich zu den Gewässern von Koumac und ist ein charmanter Küstenort in Neukaledonien. Er versprüht eine zutiefst lokale und entspannte Inselatmosphäre, perfekt für alle, die sich abseits der ausgetretenen Pfade bewegen. Am Sandstrand entlangzuschlendern und die sanften Meeresströmungen zu genießen, bilden hier das Kernerlebnis. Denken Sie an einen Hut und Sonnencreme, da die tropische Sonne sehr intensiv sein kann.",
-                  "category": "recreational",
-                  "coords": [
-                        164.284636,
-                        -20.574158
-                  ]
-            },
-            {
-                  "name": "Plage de Kûdo",
-                  "text": "Versteckt an den Ufern von Koumac, bietet der Plage de Kûdo ein weiteres wunderschönes Stück neukaledonischer Küste. Dieser ruhige Strand wird sehr für seine friedliche Abgeschiedenheit und die markante natürliche Kulisse geschätzt. Schwimmen und das ruhige Erkunden der Wasserlinie sind wunderbare Möglichkeiten, sich hier die Zeit zu vertreiben. Es ist eine kluge Entscheidung, eigenen Schatten und Erfrischungen für einen angenehmen Tag mitzubringen.",
-                  "category": "recreational",
-                  "coords": [
-                        164.272314,
-                        -20.56646
-                  ]
-            },
-            {
-                  "name": "Piscine naturelle",
-                  "text": "Natürlicher Pool (Gezeitenpool) in Koumac.",
-                  "category": "family",
-                  "coords": [
-                        164.275747,
-                        -20.573754
-                  ]
-            },
-            {
-                  "name": "Plage de la Marina de Pandop",
-                  "text": "Direkt am Yachthafen Pandop in Koumac gelegen, verbindet dieser Ort maritime Schönheit mit nautischem Charme. Die Präsenz der anliegenden Boote verleiht dem Uferbereich eine lebhafte und zugleich mondäne Note. Besucher können wunderbar die einlaufenden Yachten beobachten, bevor sie einen gemütlichen Spaziergang am angrenzenden Strand unternehmen. Er eignet sich hervorragend als Ausgangspunkt, um die weitere Küstenregion von Koumac zu erkunden.",
-                  "category": "landmark",
-                  "coords": [
-                        164.275508,
-                        -20.577796
-                  ]
-            },
-            {
                   "name": "Point de Vue",
                   "text": "Aussichtspunkt mit Blick auf die Küste in Koumac.",
                   "category": "natural",
@@ -805,63 +697,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         164.286087,
                         -20.550155
                   ]
-            },
-            {
-                  "name": "Eden Blue Caledonia",
-                  "text": "Eden Blue – malerischer Ort in Koumac.",
-                  "category": "landmark",
-                  "coords": [
-                        164.273745,
-                        -20.579193
-                  ]
-            },
-            {
-                  "name": "Église Sainte Jeanne d'Arc",
-                  "text": "Eine der heiligen Johanna von Orleans geweihte Kirche in Koumac, Neukaledonien.",
-                  "category": "religious",
-                  "coords": [
-                        164.281772,
-                        -20.561131
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Plage de Pandop",
-                  "text": "A Koumac vizeire nyíló Plage de Pandop egy bájos tengerparti helyszín Új-Kaledóniában. Mélyen helyi és nyugodt szigeti hangulatot áraszt, tökéletes azok számára, akik letérnének a kitaposott ösvényről. A homokban való sétálás és a lágy óceáni áramlatok élvezete jelenti itt a fő élményt. Ne felejtsen el kalapot és naptejet hozni, mivel a trópusi napsütés meglehetősen intenzív lehet.",
-                  "category": "recreational",
-                  "coords": [
-                        164.284636,
-                        -20.574158
-                  ]
-            },
-            {
-                  "name": "Plage de Kûdo",
-                  "text": "A Koumac partjainál megbúvó Plage de Kûdo Új-Kaledónia partvonalának egy újabb gyönyörű szeletét nyújtja. Ezt a csendes partot nagyra értékelik békés elszigeteltsége és lenyűgöző természeti háttere miatt. Az úszás és a partvonal nyugodt felfedezése csodálatos módja az itteni időtöltésnek. Egy kényelmes nap érdekében okos döntés saját árnyékolót és frissítőket magunkkal hozni.",
-                  "category": "recreational",
-                  "coords": [
-                        164.272314,
-                        -20.56646
-                  ]
-            },
-            {
-                  "name": "Piscine naturelle",
-                  "text": "Természetes medence (dagálymedence) Koumacban.",
-                  "category": "family",
-                  "coords": [
-                        164.275747,
-                        -20.573754
-                  ]
-            },
-            {
-                  "name": "Plage de la Marina de Pandop",
-                  "text": "A koumaci Pandop jachtkikötő közvetlen közelében található helyszín ötvözi a tengerparti szépséget a tengerészeti bájjal. A közeli hajók jelenléte élénk, mégis kifinomult hangulatot kölcsönöz a vízparti területnek. A látogatók könnyedén megfigyelhetik az érkező jachtokat, mielőtt egy kényelmes sétát tennének a szomszédos strandon. Kiváló kiindulópontként szolgál Koumac tágabb tengerparti régiójának felfedezéséhez.",
-                  "category": "landmark",
-                  "coords": [
-                        164.275508,
-                        -20.577796
-                  ]
-            },
             {
                   "name": "Point de Vue",
                   "text": "Kilátópont a tengerpartra Koumacban.",
@@ -870,63 +708,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         164.286087,
                         -20.550155
                   ]
-            },
-            {
-                  "name": "Eden Blue Caledonia",
-                  "text": "Eden Blue – festői hely Koumacban.",
-                  "category": "landmark",
-                  "coords": [
-                        164.273745,
-                        -20.579193
-                  ]
-            },
-            {
-                  "name": "Église Sainte Jeanne d'Arc",
-                  "text": "Szent Johanna templom Koumacon, Új-Kaledóniában.",
-                  "category": "religious",
-                  "coords": [
-                        164.281772,
-                        -20.561131
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Plage de Pandop",
-                  "text": "Deschizându-se spre apele din Koumac, Plage de Pandop este un loc de coastă fermecător în Noua Caledonie. Păstrează o vibrație insulară profund locală și relaxată, perfectă pentru cei care ies de pe cărările bătătorite. Plimbarea pe nisip și bucuria curenților blânzi ai oceanului formează experiența de bază aici. Nu uitați să aduceți o pălărie și cremă de protecție solară, deoarece soarele tropical poate fi destul de intens.",
-                  "category": "recreational",
-                  "coords": [
-                        164.284636,
-                        -20.574158
-                  ]
-            },
-            {
-                  "name": "Plage de Kûdo",
-                  "text": "Ascunsă de-a lungul țărmurilor din Koumac, Plage de Kûdo oferă o altă porțiune superbă din coasta Noii Caledonii. Acest țărm liniștit este foarte apreciat pentru izolarea sa pașnică și fundalul natural impresionant. Înotul și explorarea liniștită a țărmului sunt modalități minunate de a vă petrece timpul în această locație. Aducerea propriului umbrar și a băuturilor răcoritoare este o alegere înțeleaptă pentru o zi confortabilă în aer liber.",
-                  "category": "recreational",
-                  "coords": [
-                        164.272314,
-                        -20.56646
-                  ]
-            },
-            {
-                  "name": "Piscine naturelle",
-                  "text": "Piscină naturală (bazin de maree) în Koumac.",
-                  "category": "family",
-                  "coords": [
-                        164.275747,
-                        -20.573754
-                  ]
-            },
-            {
-                  "name": "Plage de la Marina de Pandop",
-                  "text": "Situată direct lângă portul de agrement Pandop din Koumac, acest loc îmbină frumusețea coastei cu farmecul nautic. Prezența bărcilor din apropiere adaugă o notă plină de viață, dar sofisticată zonei de la malul apei. Vizitatorii pot privi cu ușurință iahturile care sosesc înainte de a face o plimbare relaxantă pe plaja alăturată. Acesta servește drept un excelent punct de plecare pentru a explora regiunea de coastă mai largă a orașului Koumac.",
-                  "category": "landmark",
-                  "coords": [
-                        164.275508,
-                        -20.577796
-                  ]
-            },
             {
                   "name": "Point de Vue",
                   "text": "Punct de belvedere asupra coastei în Koumac.",
@@ -935,63 +719,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         164.286087,
                         -20.550155
                   ]
-            },
-            {
-                  "name": "Eden Blue Caledonia",
-                  "text": "Eden Blue – loc pitoresc în Koumac.",
-                  "category": "landmark",
-                  "coords": [
-                        164.273745,
-                        -20.579193
-                  ]
-            },
-            {
-                  "name": "Église Sainte Jeanne d'Arc",
-                  "text": "O biserică dedicată Sfintei Ioana d'Arc în Koumac, Noua Caledonie.",
-                  "category": "religious",
-                  "coords": [
-                        164.281772,
-                        -20.561131
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Plage de Pandop",
-                  "text": "Opening up to the waters of Koumac, Plage de Pandop is a charming coastal spot in New Caledonia. It maintains a deeply local and relaxed island vibe, perfect for those stepping off the beaten path. Wandering along the sand and enjoying the gentle ocean currents form the core experience here. Remember to bring a hat and sunscreen, as tropical sunshine can be quite intense.",
-                  "category": "recreational",
-                  "coords": [
-                        164.284636,
-                        -20.574158
-                  ]
-            },
-            {
-                  "name": "Plage de Kûdo",
-                  "text": "Tucked along the shores of Koumac, Plage de Kûdo provides another beautiful slice of New Caledonian coastline. This quiet shore is highly valued for its tranquil isolation and striking natural backdrop. Swimming and peaceful shoreline exploration are wonderful ways to pass the time at this location. Bringing your own shade and refreshments is a wise choice for a comfortable day out.",
-                  "category": "recreational",
-                  "coords": [
-                        164.272314,
-                        -20.56646
-                  ]
-            },
-            {
-                  "name": "Piscine naturelle",
-                  "text": "Natural tidal swimming pool in Koumac.",
-                  "category": "family",
-                  "coords": [
-                        164.275747,
-                        -20.573754
-                  ]
-            },
-            {
-                  "name": "Plage de la Marina de Pandop",
-                  "text": "Located directly by the Pandop Marina in Koumac, this spot blends coastal beauty with nautical charm. The presence of nearby boats adds a lively yet sophisticated touch to the waterfront area. Visitors can easily watch the arriving yachts before taking a leisurely walk along the adjacent beach. It serves as an excellent starting point for exploring the wider coastal region of Koumac.",
-                  "category": "landmark",
-                  "coords": [
-                        164.275508,
-                        -20.577796
-                  ]
-            },
             {
                   "name": "Point de Vue",
                   "text": "Viewpoint overlooking the coastline in Koumac.",
@@ -999,24 +729,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         164.286087,
                         -20.550155
-                  ]
-            },
-            {
-                  "name": "Eden Blue Caledonia",
-                  "text": "Eden Blue – scenic spot in Koumac.",
-                  "category": "landmark",
-                  "coords": [
-                        164.273745,
-                        -20.579193
-                  ]
-            },
-            {
-                  "name": "Église Sainte Jeanne d'Arc",
-                  "text": "A church dedicated to Saint Joan of Arc in Koumac, New Caledonia.",
-                  "category": "religious",
-                  "coords": [
-                        164.281772,
-                        -20.561131
                   ]
             }
       ]
@@ -1606,158 +1318,10 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-hienghene-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Centre Culturel de Hienghène",
-                  "text": "Kulturzentrum/Museum in Hienghène.",
-                  "category": "museum",
-                  "coords": [
-                        164.945409,
-                        -20.692418
-                  ]
-            },
-            {
-                  "name": "Belvédère de la Poule",
-                  "text": "Der Belvédère de la Poule in Hienghène, Neukaledonien, ist ein erstklassiger natürlicher Aussichtspunkt. Touristen strömen zu diesem Aussichtspunkt, um die ikonische, hühnerförmige Felsformation der Gegend zu betrachten, die im Wasser ruht.",
-                  "category": "natural",
-                  "coords": [
-                        164.954901,
-                        -20.684403
-                  ]
-            },
-            {
-                  "name": "Le Sphinx",
-                  "text": "Eine markante Felsformation und Attraktion in Hienghène.",
-                  "category": "landmark",
-                  "coords": [
-                        164.946344,
-                        -20.673892
-                  ]
-            },
-            {
-                  "name": "Point de vue baie de Hienghène",
-                  "text": "Aussichtspunkt über die Bucht von Hienghène.",
-                  "category": "natural",
-                  "coords": [
-                        164.939104,
-                        -20.670239
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Centre Culturel de Hienghène",
-                  "text": "Kulturális központ/múzeum Hienghène-ben.",
-                  "category": "museum",
-                  "coords": [
-                        164.945409,
-                        -20.692418
-                  ]
-            },
-            {
-                  "name": "Belvédère de la Poule",
-                  "text": "Az Új-Kaledóniában, Hienghène-ben található Belvédère de la Poule egy elsőrangú természetes kilátópont. A turisták azért sereglenek ide, hogy megcsodálják a környék ikonikus, tyúk alakú, vízben nyugvó sziklaképződményét.",
-                  "category": "natural",
-                  "coords": [
-                        164.954901,
-                        -20.684403
-                  ]
-            },
-            {
-                  "name": "Le Sphinx",
-                  "text": "Egy jellegzetes sziklaalakzat és látványosság Hienghène városában.",
-                  "category": "landmark",
-                  "coords": [
-                        164.946344,
-                        -20.673892
-                  ]
-            },
-            {
-                  "name": "Point de vue baie de Hienghène",
-                  "text": "Kilátópont a Hienghène-öbölre.",
-                  "category": "natural",
-                  "coords": [
-                        164.939104,
-                        -20.670239
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Centre Culturel de Hienghène",
-                  "text": "Centru cultural/muzeu în Hienghène.",
-                  "category": "museum",
-                  "coords": [
-                        164.945409,
-                        -20.692418
-                  ]
-            },
-            {
-                  "name": "Belvédère de la Poule",
-                  "text": "Situat în Hienghene, Noua Caledonie, Belvédère de la Poule este un punct de belvedere natural de prim rang. Turiștii se adună la acest punct de observație pentru a admira formațiunea stâncoasă iconică în formă de găină din zonă, care se odihnește în apă.",
-                  "category": "natural",
-                  "coords": [
-                        164.954901,
-                        -20.684403
-                  ]
-            },
-            {
-                  "name": "Le Sphinx",
-                  "text": "O formațiune stâncoasă distinctivă și o atracție în Hienghène.",
-                  "category": "landmark",
-                  "coords": [
-                        164.946344,
-                        -20.673892
-                  ]
-            },
-            {
-                  "name": "Point de vue baie de Hienghène",
-                  "text": "Punct de belvedere asupra golfului Hienghène.",
-                  "category": "natural",
-                  "coords": [
-                        164.939104,
-                        -20.670239
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Centre Culturel de Hienghène",
-                  "text": "Cultural center/museum in Hienghène.",
-                  "category": "museum",
-                  "coords": [
-                        164.945409,
-                        -20.692418
-                  ]
-            },
-            {
-                  "name": "Belvédère de la Poule",
-                  "text": "Located in Hienghene, New Caledonia, the Belvédère de la Poule is a premier natural viewpoint. Tourists flock to this outlook to gaze upon the area's iconic hen-shaped rock formation resting in the water.",
-                  "category": "natural",
-                  "coords": [
-                        164.954901,
-                        -20.684403
-                  ]
-            },
-            {
-                  "name": "Le Sphinx",
-                  "text": "A distinctive rock formation and attraction in Hienghène.",
-                  "category": "landmark",
-                  "coords": [
-                        164.946344,
-                        -20.673892
-                  ]
-            },
-            {
-                  "name": "Point de vue baie de Hienghène",
-                  "text": "Viewpoint over Hienghène bay.",
-                  "category": "natural",
-                  "coords": [
-                        164.939104,
-                        -20.670239
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "NC",
     type: "town",
@@ -4245,39 +3809,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fédération de Œuvres Laiques FOL",
-                  "text": "Die Fédération de Œuvres Laiques FOL in Baie des Citrons ist ein säkulares Kulturzentrum.",
-                  "category": "cultural",
-                  "coords": [
-                        166.445508,
-                        -22.272048
-                  ]
-            },
-            {
-                  "name": "Théâtre de Poche",
-                  "text": "Das Théâtre de Poche ist ein kleines Kammertheater in Baie des Citrons.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44871,
-                        -22.277058
-                  ]
-            },
-            {
                   "name": "Baie de l'Anse Vata",
                   "text": "Die Baie de l'Anse Vata ist ein beliebter Sandstrand zum Schwimmen und Wassersport.",
                   "category": "recreational",
                   "coords": [
                         166.442596,
                         -22.303804
-                  ]
-            },
-            {
-                  "name": "Musée de la Ville",
-                  "text": "Das Musée de la Ville ist ein lokales Stadtmuseum in Baie des Citrons.",
-                  "category": "museum",
-                  "coords": [
-                        166.442216,
-                        -22.270467
                   ]
             },
             {
@@ -4296,15 +3833,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.437501,
                         -22.29797
-                  ]
-            },
-            {
-                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
-                  "text": "Das Musée de la seconde guerre mondiale en Nouvelle-Calédonie zeigt Ausstellungen zur Rolle Neukaledoniens im Zweiten Weltkrieg.",
-                  "category": "museum",
-                  "coords": [
-                        166.43939,
-                        -22.268318
                   ]
             },
             {
@@ -4332,33 +3860,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.448227,
                         -22.309797
-                  ]
-            },
-            {
-                  "name": "Maison Célières",
-                  "text": "Die Maison Célières in Baie des Citrons ist ein historisches Kolonialhaus, das als Museum dient.",
-                  "category": "museum",
-                  "coords": [
-                        166.451262,
-                        -22.278097
-                  ]
-            },
-            {
-                  "name": "Maison Higginson",
-                  "text": "Die Maison Higginson in Baie des Citrons ist ein weiteres historisches Kolonialhausmuseum.",
-                  "category": "museum",
-                  "coords": [
-                        166.44355,
-                        -22.269291
-                  ]
-            },
-            {
-                  "name": "Musée de l'Histoire Maritime",
-                  "text": "Das Musée de l'Histoire Maritime zeigt Ausstellungen zur Schifffahrtsgeschichte Neukaledoniens.",
-                  "category": "museum",
-                  "coords": [
-                        166.433986,
-                        -22.268134
                   ]
             },
             {
@@ -4470,15 +3971,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stèle aux Disparus de la Monique",
-                  "text": "Die Stèle aux Disparus de la Monique ist eine Gedenkstele für die Vermissten des Schiffes Monique.",
-                  "category": "historical",
-                  "coords": [
-                        166.439781,
-                        -22.274922
-                  ]
-            },
-            {
                   "name": "Enjoy Diving",
                   "text": "Enjoy Diving in Baie des Citrons ist ein Tauchzentrum für Ausflüge und Kurse.",
                   "category": "landmark",
@@ -4494,51 +3986,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.441074,
                         -22.276434
-                  ]
-            },
-            {
-                  "name": "Le Rex",
-                  "text": "Le Rex in Baie des Citrons ist ein historisches Kino- oder Theatergebäude.",
-                  "category": "cultural",
-                  "coords": [
-                        166.444464,
-                        -22.274017
-                  ]
-            },
-            {
-                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
-                  "text": "Das Monument aux Morts 14-18 de la Place Bir Hakeim ist das Kriegerdenkmal für die Gefallenen des Ersten Weltkriegs.",
-                  "category": "historical",
-                  "coords": [
-                        166.447899,
-                        -22.27413
-                  ]
-            },
-            {
-                  "name": "Mémoire des Gendarmes et Militaires",
-                  "text": "Das Mémoire des Gendarmes et Militaires ist ein Denkmal für gefallene Polizisten und Soldaten.",
-                  "category": "historical",
-                  "coords": [
-                        166.446951,
-                        -22.273696
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Katholische Kirche am Strand von Baie des Citrons.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Cathédrale Saint-Joseph",
-                  "text": "Römisch-katholische Kathedrale im Zentrum von Baie des Citrons.",
-                  "category": "religious",
-                  "coords": [
-                        166.444608,
-                        -22.272778
                   ]
             },
             {
@@ -4562,39 +4009,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fédération de Œuvres Laiques FOL",
-                  "text": "A Baie des Citrons-i Fédération de Œuvres Laiques FOL egy világi kulturális központ.",
-                  "category": "cultural",
-                  "coords": [
-                        166.445508,
-                        -22.272048
-                  ]
-            },
-            {
-                  "name": "Théâtre de Poche",
-                  "text": "A Théâtre de Poche egy intime kamaraszínház Baie des Citrons-ban.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44871,
-                        -22.277058
-                  ]
-            },
-            {
                   "name": "Baie de l'Anse Vata",
                   "text": "A Baie de l'Anse Vata népszerű homokos strand úszáshoz és vízi sportokhoz.",
                   "category": "recreational",
                   "coords": [
                         166.442596,
                         -22.303804
-                  ]
-            },
-            {
-                  "name": "Musée de la Ville",
-                  "text": "A Musée de la Ville egy helyi városi múzeum Baie des Citrons területén.",
-                  "category": "museum",
-                  "coords": [
-                        166.442216,
-                        -22.270467
                   ]
             },
             {
@@ -4613,15 +4033,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.437501,
                         -22.29797
-                  ]
-            },
-            {
-                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
-                  "text": "A Musée de la seconde guerre mondiale en Nouvelle-Calédonie kiállításai Új-Kaledónia második világháborús szerepét mutatják be.",
-                  "category": "museum",
-                  "coords": [
-                        166.43939,
-                        -22.268318
                   ]
             },
             {
@@ -4649,33 +4060,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.448227,
                         -22.309797
-                  ]
-            },
-            {
-                  "name": "Maison Célières",
-                  "text": "A Baie des Citrons-i Maison Célières egy történelmi gyarmati ház, amely múzeumként működik.",
-                  "category": "museum",
-                  "coords": [
-                        166.451262,
-                        -22.278097
-                  ]
-            },
-            {
-                  "name": "Maison Higginson",
-                  "text": "A Baie des Citrons-i Maison Higginson egy másik történelmi gyarmati házmúzeum.",
-                  "category": "museum",
-                  "coords": [
-                        166.44355,
-                        -22.269291
-                  ]
-            },
-            {
-                  "name": "Musée de l'Histoire Maritime",
-                  "text": "A Musée de l'Histoire Maritime Új-Kaledónia tengerészeti történelmét bemutató kiállításokat kínál.",
-                  "category": "museum",
-                  "coords": [
-                        166.433986,
-                        -22.268134
                   ]
             },
             {
@@ -4787,15 +4171,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stèle aux Disparus de la Monique",
-                  "text": "A Stèle aux Disparus de la Monique egy emlékobeliszk a Monique hajó eltűnt utasainak emlékére.",
-                  "category": "historical",
-                  "coords": [
-                        166.439781,
-                        -22.274922
-                  ]
-            },
-            {
                   "name": "Enjoy Diving",
                   "text": "A Baie des Citrons-i Enjoy Diving egy búvárközpont túrákkal és tanfolyamokkal.",
                   "category": "landmark",
@@ -4811,51 +4186,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.441074,
                         -22.276434
-                  ]
-            },
-            {
-                  "name": "Le Rex",
-                  "text": "A Baie des Citrons-i Le Rex egy történelmi mozi- vagy színházépület.",
-                  "category": "cultural",
-                  "coords": [
-                        166.444464,
-                        -22.274017
-                  ]
-            },
-            {
-                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
-                  "text": "A Place Bir Hakeim-i Monument aux Morts 14-18 az első világháború hősi halottainak emlékműve.",
-                  "category": "historical",
-                  "coords": [
-                        166.447899,
-                        -22.27413
-                  ]
-            },
-            {
-                  "name": "Mémoire des Gendarmes et Militaires",
-                  "text": "A Mémoire des Gendarmes et Militaires egy emlékmű az elhunyt csendőrök és katonák tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        166.446951,
-                        -22.273696
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Katolikus templom a Baie des Citrons-i strandon.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Cathédrale Saint-Joseph",
-                  "text": "Római katolikus székesegyház Baie des Citrons központjában.",
-                  "category": "religious",
-                  "coords": [
-                        166.444608,
-                        -22.272778
                   ]
             },
             {
@@ -4879,39 +4209,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fédération de Œuvres Laiques FOL",
-                  "text": "Fédération de Œuvres Laiques FOL din Baie des Citrons este un centru cultural laic.",
-                  "category": "cultural",
-                  "coords": [
-                        166.445508,
-                        -22.272048
-                  ]
-            },
-            {
-                  "name": "Théâtre de Poche",
-                  "text": "Théâtre de Poche este un teatru de buzunar intim în Baie des Citrons.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44871,
-                        -22.277058
-                  ]
-            },
-            {
                   "name": "Baie de l'Anse Vata",
                   "text": "Baia Baie de l'Anse Vata este o plajă nisipoasă populară pentru înot și sporturi nautice.",
                   "category": "recreational",
                   "coords": [
                         166.442596,
                         -22.303804
-                  ]
-            },
-            {
-                  "name": "Musée de la Ville",
-                  "text": "Musée de la Ville este un muzeu local al orașului situat în Baie des Citrons.",
-                  "category": "museum",
-                  "coords": [
-                        166.442216,
-                        -22.270467
                   ]
             },
             {
@@ -4930,15 +4233,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.437501,
                         -22.29797
-                  ]
-            },
-            {
-                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
-                  "text": "Muzeul Musée de la seconde guerre mondiale en Nouvelle-Calédonie prezintă expoziții despre rolul Noii Caledonii în al Doilea Război Mondial.",
-                  "category": "museum",
-                  "coords": [
-                        166.43939,
-                        -22.268318
                   ]
             },
             {
@@ -4966,33 +4260,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.448227,
                         -22.309797
-                  ]
-            },
-            {
-                  "name": "Maison Célières",
-                  "text": "Maison Célières din Baie des Citrons este o casă colonială istorică transformată în muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        166.451262,
-                        -22.278097
-                  ]
-            },
-            {
-                  "name": "Maison Higginson",
-                  "text": "Maison Higginson din Baie des Citrons este un alt muzeu într-o casă colonială istorică.",
-                  "category": "museum",
-                  "coords": [
-                        166.44355,
-                        -22.269291
-                  ]
-            },
-            {
-                  "name": "Musée de l'Histoire Maritime",
-                  "text": "Muzeul Musée de l'Histoire Maritime prezintă expoziții despre istoria maritimă a Noii Caledonii.",
-                  "category": "museum",
-                  "coords": [
-                        166.433986,
-                        -22.268134
                   ]
             },
             {
@@ -5104,15 +4371,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stèle aux Disparus de la Monique",
-                  "text": "Stela Stèle aux Disparus de la Monique este un monument comemorativ pentru dispăruții navei Monique.",
-                  "category": "historical",
-                  "coords": [
-                        166.439781,
-                        -22.274922
-                  ]
-            },
-            {
                   "name": "Enjoy Diving",
                   "text": "Enjoy Diving din Baie des Citrons este un centru de scufundări cu excursii și cursuri.",
                   "category": "landmark",
@@ -5128,51 +4386,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.441074,
                         -22.276434
-                  ]
-            },
-            {
-                  "name": "Le Rex",
-                  "text": "Le Rex din Baie des Citrons este o clădire istorică de cinema sau teatru.",
-                  "category": "cultural",
-                  "coords": [
-                        166.444464,
-                        -22.274017
-                  ]
-            },
-            {
-                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
-                  "text": "Monumentul Monument aux Morts 14-18 de la Place Bir Hakeim este memorialul de război pentru căzuții din Primul Război Mondial.",
-                  "category": "historical",
-                  "coords": [
-                        166.447899,
-                        -22.27413
-                  ]
-            },
-            {
-                  "name": "Mémoire des Gendarmes et Militaires",
-                  "text": "Memorialul Mémoire des Gendarmes et Militaires comemorează jandarmii și militarii căzuți.",
-                  "category": "historical",
-                  "coords": [
-                        166.446951,
-                        -22.273696
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Biserică catolică pe plaja din Baie des Citrons.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Cathédrale Saint-Joseph",
-                  "text": "Catedrală romano-catolică în centrul orașului Baie des Citrons.",
-                  "category": "religious",
-                  "coords": [
-                        166.444608,
-                        -22.272778
                   ]
             },
             {
@@ -5196,39 +4409,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fédération de Œuvres Laiques FOL",
-                  "text": "The Fédération de Œuvres Laiques FOL in Baie des Citrons is a secular cultural center.",
-                  "category": "cultural",
-                  "coords": [
-                        166.445508,
-                        -22.272048
-                  ]
-            },
-            {
-                  "name": "Théâtre de Poche",
-                  "text": "The Théâtre de Poche is an intimate black-box theatre in Baie des Citrons.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44871,
-                        -22.277058
-                  ]
-            },
-            {
                   "name": "Baie de l'Anse Vata",
                   "text": "The Baie de l'Anse Vata is a popular sandy beach for swimming and water sports.",
                   "category": "recreational",
                   "coords": [
                         166.442596,
                         -22.303804
-                  ]
-            },
-            {
-                  "name": "Musée de la Ville",
-                  "text": "Musée de la Ville is a local city museum located in Baie des Citrons.",
-                  "category": "museum",
-                  "coords": [
-                        166.442216,
-                        -22.270467
                   ]
             },
             {
@@ -5247,15 +4433,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.437501,
                         -22.29797
-                  ]
-            },
-            {
-                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
-                  "text": "The Musée de la seconde guerre mondiale en Nouvelle-Calédonie exhibits New Caledonia's role in World War II.",
-                  "category": "museum",
-                  "coords": [
-                        166.43939,
-                        -22.268318
                   ]
             },
             {
@@ -5283,33 +4460,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.448227,
                         -22.309797
-                  ]
-            },
-            {
-                  "name": "Maison Célières",
-                  "text": "The Maison Célières in Baie des Citrons is a historic colonial house serving as a museum.",
-                  "category": "museum",
-                  "coords": [
-                        166.451262,
-                        -22.278097
-                  ]
-            },
-            {
-                  "name": "Maison Higginson",
-                  "text": "The Maison Higginson in Baie des Citrons is another historic colonial house museum.",
-                  "category": "museum",
-                  "coords": [
-                        166.44355,
-                        -22.269291
-                  ]
-            },
-            {
-                  "name": "Musée de l'Histoire Maritime",
-                  "text": "The Musée de l'Histoire Maritime exhibits the maritime history of New Caledonia.",
-                  "category": "museum",
-                  "coords": [
-                        166.433986,
-                        -22.268134
                   ]
             },
             {
@@ -5421,15 +4571,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stèle aux Disparus de la Monique",
-                  "text": "The Stèle aux Disparus de la Monique is a memorial stele for those lost on the vessel Monique.",
-                  "category": "historical",
-                  "coords": [
-                        166.439781,
-                        -22.274922
-                  ]
-            },
-            {
                   "name": "Enjoy Diving",
                   "text": "Enjoy Diving in Baie des Citrons is a scuba diving center offering trips and courses.",
                   "category": "landmark",
@@ -5445,51 +4586,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.441074,
                         -22.276434
-                  ]
-            },
-            {
-                  "name": "Le Rex",
-                  "text": "Le Rex in Baie des Citrons is a historic cinema or theatre building.",
-                  "category": "cultural",
-                  "coords": [
-                        166.444464,
-                        -22.274017
-                  ]
-            },
-            {
-                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
-                  "text": "The Monument aux Morts 14-18 de la Place Bir Hakeim is the war memorial for WWI fallen soldiers.",
-                  "category": "historical",
-                  "coords": [
-                        166.447899,
-                        -22.27413
-                  ]
-            },
-            {
-                  "name": "Mémoire des Gendarmes et Militaires",
-                  "text": "The Mémoire des Gendarmes et Militaires is a memorial for fallen gendarmes and soldiers.",
-                  "category": "historical",
-                  "coords": [
-                        166.446951,
-                        -22.273696
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Catholic church on the beach of Baie des Citrons.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Cathédrale Saint-Joseph",
-                  "text": "Roman Catholic cathedral in the centre of Baie des Citrons.",
-                  "category": "religious",
-                  "coords": [
-                        166.444608,
-                        -22.272778
                   ]
             },
             {
@@ -5595,66 +4691,12 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-magenta-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "Ein bemerkenswerter Zoo- und Waldpark in Magenta.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Block 72",
-                  "text": "Block 72 in Magenta ist ein Kulturzentrum mit Veranstaltungsräumen.",
-                  "category": "cultural",
-                  "coords": [
-                        166.455057,
-                        -22.269563
-                  ]
-            },
-            {
-                  "name": "Parc Forestier et Zooligique",
-                  "text": "Der Parc Forestier et Zooligique in Magenta ist ein Park mit Zoo und Waldwegen.",
-                  "category": "family",
-                  "coords": [
-                        166.457819,
-                        -22.256315
-                  ]
-            },
-            {
                   "name": "Centre Culturel Tjibaou",
                   "text": "Ein bemerkenswertes Kulturzentrum, das die Kanak-Kultur in Magenta feiert.",
                   "category": "museum",
                   "coords": [
                         166.481842,
                         -22.256307
-                  ]
-            },
-            {
-                  "name": "Plage de Magenta",
-                  "text": "Dieser lokale Strand liegt direkt an der Küste von Magenta in Neukaledonien und bietet eine entspannte Kulisse. Besucher erwartet hier eine ruhige Atmosphäre, die sich wunderbar für erholsame Spaziergänge oder zum Sonnenbaden eignet. Wer dem Alltag entfliehen möchte, findet am Wasser einen idealen Ort zur Erholung. Ein Besuch in den wärmeren Monaten lohnt sich besonders für einen unbeschwerten Tag.",
-                  "category": "recreational",
-                  "coords": [
-                        166.472278,
-                        -22.266288
-                  ]
-            },
-            {
-                  "name": "Café Musique Le Mouv'",
-                  "text": "Café Musique Le Mouv' in Magenta ist ein Café mit Live-Musik.",
-                  "category": "cultural",
-                  "coords": [
-                        166.466013,
-                        -22.234207
-                  ]
-            },
-            {
-                  "name": "Maison de la Biodiversité",
-                  "text": "Maison de la Biodiversité in Magenta ist ein Museum zur lokalen Biodiversität.",
-                  "category": "museum",
-                  "coords": [
-                        166.468872,
-                        -22.278695
                   ]
             },
             {
@@ -5667,48 +4709,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Canons de Ouémo",
-                  "text": "Ein historisches Denkmal mit den Ouémo-Kanonen in Magenta.",
-                  "category": "historical",
-                  "coords": [
-                        166.480239,
-                        -22.277106
-                  ]
-            },
-            {
-                  "name": "Magenta",
-                  "text": "Ein lokaler Aussichtspunkt mit weitem Blick über Magenta.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
-                  ]
-            },
-            {
-                  "name": "Point de vue Montravel",
-                  "text": "Point de vue Montravel in Magenta bietet einen Panoramablick auf den Hügel Montravel.",
-                  "category": "natural",
-                  "coords": [
-                        166.453509,
-                        -22.256348
-                  ]
-            },
-            {
                   "name": "Aeroclub Calédonien",
                   "text": "Aeroclub Calédonien in Magenta ist ein Fliegerclub mit einem kleinen Flugplatz.",
                   "category": "landmark",
                   "coords": [
                         166.474457,
                         -22.259081
-                  ]
-            },
-            {
-                  "name": "Mont Te",
-                  "text": "Mont Te in Magenta ist ein Berggipfel, der für seine Wanderwege bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        166.459627,
-                        -22.251908
                   ]
             },
             {
@@ -5728,81 +4734,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.481012,
                         -22.257237
                   ]
-            },
-            {
-                  "name": "Centre Culturel Ko We Kara",
-                  "text": "Centre Culturel Ko We Kara in Magenta veranstaltet Kanak-Kulturveranstaltungen und Workshops.",
-                  "category": "cultural",
-                  "coords": [
-                        166.456155,
-                        -22.237302
-                  ]
-            },
-            {
-                  "name": "Ancien reservoir",
-                  "text": "Ancien reservoir in Magenta ist ein historischer Wassertank aus der Kolonialzeit.",
-                  "category": "historical",
-                  "coords": [
-                        166.460273,
-                        -22.248022
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Kirche im Wohngebiet von Magenta.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Kirche gewidmet der Heiligen Anna in Magenta.",
-                  "category": "religious",
-                  "coords": [
-                        166.472492,
-                        -22.268703
-                  ]
-            },
-            {
-                  "name": "Église du Bon-Pasteur",
-                  "text": "Kirche des Guten Hirten im Zentrum von Magenta.",
-                  "category": "religious",
-                  "coords": [
-                        166.446757,
-                        -22.261025
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "Egy jelentős állat- és erdőpark Magenta városában.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Block 72",
-                  "text": "A Magenta-i Block 72 egy kulturális központ rendezvényhelyiségekkel.",
-                  "category": "cultural",
-                  "coords": [
-                        166.455057,
-                        -22.269563
-                  ]
-            },
-            {
-                  "name": "Parc Forestier et Zooligique",
-                  "text": "A Magenta-i Parc Forestier et Zooligique egy park állatkerttel és erdei ösvényekkel.",
-                  "category": "family",
-                  "coords": [
-                        166.457819,
-                        -22.256315
-                  ]
-            },
             {
                   "name": "Centre Culturel Tjibaou",
                   "text": "A kanak kultúrát bemutató jelentős kulturális központ Magenta városában.",
@@ -5810,33 +4744,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.481842,
                         -22.256307
-                  ]
-            },
-            {
-                  "name": "Plage de Magenta",
-                  "text": "Ez a helyi strand Új-Kaledóniában, Magenta partvidékén kínál kellemes környezetet a kikapcsolódáshoz. A látogatókat nyugodt atmoszféra fogadja, amely kiválóan alkalmas napozásra és pihentető sétákra a víz mentén. Aki szeretne kiszakadni a mindennapokból, itt garantáltan feltöltődhet. Érdemes a melegebb hónapokban érkezni egy gondtalan nap eltöltéséhez.",
-                  "category": "recreational",
-                  "coords": [
-                        166.472278,
-                        -22.266288
-                  ]
-            },
-            {
-                  "name": "Café Musique Le Mouv'",
-                  "text": "Café Musique Le Mouv' Magentában egy élőzenés kávézó.",
-                  "category": "cultural",
-                  "coords": [
-                        166.466013,
-                        -22.234207
-                  ]
-            },
-            {
-                  "name": "Maison de la Biodiversité",
-                  "text": "Maison de la Biodiversité Magentában a helyi biodiverzitásnak szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        166.468872,
-                        -22.278695
                   ]
             },
             {
@@ -5849,48 +4756,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Canons de Ouémo",
-                  "text": "A Ouémo ágyúkat bemutató történelmi emlékmű Magenta városában.",
-                  "category": "historical",
-                  "coords": [
-                        166.480239,
-                        -22.277106
-                  ]
-            },
-            {
-                  "name": "Magenta",
-                  "text": "Egy helyi kilátó, amely pazar kilátást nyújt Magenta városára.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
-                  ]
-            },
-            {
-                  "name": "Point de vue Montravel",
-                  "text": "Point de vue Montravel Magentában panorámás kilátást nyújt a Montravel dombra.",
-                  "category": "natural",
-                  "coords": [
-                        166.453509,
-                        -22.256348
-                  ]
-            },
-            {
                   "name": "Aeroclub Calédonien",
                   "text": "Aeroclub Calédonien Magentában egy repülőklub kis repülőtérrel.",
                   "category": "landmark",
                   "coords": [
                         166.474457,
                         -22.259081
-                  ]
-            },
-            {
-                  "name": "Mont Te",
-                  "text": "Mont Te Magentában egy hegycsúcs, amely túraútvonalairól ismert.",
-                  "category": "natural",
-                  "coords": [
-                        166.459627,
-                        -22.251908
                   ]
             },
             {
@@ -5910,81 +4781,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.481012,
                         -22.257237
                   ]
-            },
-            {
-                  "name": "Centre Culturel Ko We Kara",
-                  "text": "Centre Culturel Ko We Kara Magentában kanak kulturális eseményeket és műhelyeket szervez.",
-                  "category": "cultural",
-                  "coords": [
-                        166.456155,
-                        -22.237302
-                  ]
-            },
-            {
-                  "name": "Ancien reservoir",
-                  "text": "Ancien reservoir Magentában egy történelmi víztározó a gyarmati korszakból.",
-                  "category": "historical",
-                  "coords": [
-                        166.460273,
-                        -22.248022
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Templom Magenta lakónegyedében.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Szent Anna templom Magentában.",
-                  "category": "religious",
-                  "coords": [
-                        166.472492,
-                        -22.268703
-                  ]
-            },
-            {
-                  "name": "Église du Bon-Pasteur",
-                  "text": "Jó Pásztor templom Magenta központjában.",
-                  "category": "religious",
-                  "coords": [
-                        166.446757,
-                        -22.261025
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "Un parc zoologic și forestier notabil situat în Magenta.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Block 72",
-                  "text": "Block 72 din Magenta este un centru cultural cu săli de evenimente.",
-                  "category": "cultural",
-                  "coords": [
-                        166.455057,
-                        -22.269563
-                  ]
-            },
-            {
-                  "name": "Parc Forestier et Zooligique",
-                  "text": "Parcul Parc Forestier et Zooligique din Magenta este un parc cu grădină zoologică și trasee forestiere.",
-                  "category": "family",
-                  "coords": [
-                        166.457819,
-                        -22.256315
-                  ]
-            },
             {
                   "name": "Centre Culturel Tjibaou",
                   "text": "Un centru cultural notabil care celebrează cultura Kanak în Magenta.",
@@ -5992,33 +4791,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.481842,
                         -22.256307
-                  ]
-            },
-            {
-                  "name": "Plage de Magenta",
-                  "text": "Această plajă locală este situată pe coasta din Magenta, Noua Caledonie, oferind un cadru relaxant. Vizitatorii se pot aștepta la o atmosferă liniștită, perfectă pentru băi de soare și plimbări reconfortante pe malul apei. Cei care doresc să scape de rutina zilnică vor găsi aici un loc ideal pentru odihnă. O vizită în timpul lunilor mai calde este recomandată pentru a vă bucura din plin de zonă.",
-                  "category": "recreational",
-                  "coords": [
-                        166.472278,
-                        -22.266288
-                  ]
-            },
-            {
-                  "name": "Café Musique Le Mouv'",
-                  "text": "Café Musique Le Mouv' din Magenta este o cafenea cu muzică live.",
-                  "category": "cultural",
-                  "coords": [
-                        166.466013,
-                        -22.234207
-                  ]
-            },
-            {
-                  "name": "Maison de la Biodiversité",
-                  "text": "Maison de la Biodiversité din Magenta este un muzeu dedicat biodiversității locale.",
-                  "category": "museum",
-                  "coords": [
-                        166.468872,
-                        -22.278695
                   ]
             },
             {
@@ -6031,48 +4803,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Canons de Ouémo",
-                  "text": "Un monument istoric care prezintă tunurile Ouémo în Magenta.",
-                  "category": "historical",
-                  "coords": [
-                        166.480239,
-                        -22.277106
-                  ]
-            },
-            {
-                  "name": "Magenta",
-                  "text": "Un punct de belvedere local care oferă priveliști panoramice asupra Magentei.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
-                  ]
-            },
-            {
-                  "name": "Point de vue Montravel",
-                  "text": "Point de vue Montravel din Magenta oferă o vedere panoramică asupra dealului Montravel.",
-                  "category": "natural",
-                  "coords": [
-                        166.453509,
-                        -22.256348
-                  ]
-            },
-            {
                   "name": "Aeroclub Calédonien",
                   "text": "Aeroclub Calédonien din Magenta este un club de aviație cu un mic aerodrom.",
                   "category": "landmark",
                   "coords": [
                         166.474457,
                         -22.259081
-                  ]
-            },
-            {
-                  "name": "Mont Te",
-                  "text": "Mont Te din Magenta este un vârf montan cunoscut pentru traseele de drumeție.",
-                  "category": "natural",
-                  "coords": [
-                        166.459627,
-                        -22.251908
                   ]
             },
             {
@@ -6092,81 +4828,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.481012,
                         -22.257237
                   ]
-            },
-            {
-                  "name": "Centre Culturel Ko We Kara",
-                  "text": "Centre Culturel Ko We Kara din Magenta găzduiește evenimente și ateliere culturale kanak.",
-                  "category": "cultural",
-                  "coords": [
-                        166.456155,
-                        -22.237302
-                  ]
-            },
-            {
-                  "name": "Ancien reservoir",
-                  "text": "Ancien reservoir din Magenta este un rezervor de apă istoric din epoca colonială.",
-                  "category": "historical",
-                  "coords": [
-                        166.460273,
-                        -22.248022
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Biserică în cartierul rezidențial Magenta.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Biserica Sfânta Ana din Magenta.",
-                  "category": "religious",
-                  "coords": [
-                        166.472492,
-                        -22.268703
-                  ]
-            },
-            {
-                  "name": "Église du Bon-Pasteur",
-                  "text": "Biserica Bunului Păstor în centrul Magentei.",
-                  "category": "religious",
-                  "coords": [
-                        166.446757,
-                        -22.261025
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "A notable zoological and forest park situated in Magenta.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Block 72",
-                  "text": "Block 72 in Magenta is a cultural center with event spaces.",
-                  "category": "cultural",
-                  "coords": [
-                        166.455057,
-                        -22.269563
-                  ]
-            },
-            {
-                  "name": "Parc Forestier et Zooligique",
-                  "text": "The Parc Forestier et Zooligique in Magenta is a park with a zoo and forest trails.",
-                  "category": "family",
-                  "coords": [
-                        166.457819,
-                        -22.256315
-                  ]
-            },
             {
                   "name": "Jean-Marie Tjibaou Cultural Centre",
                   "text": "A notable cultural centre celebrating Kanak culture in Magenta.",
@@ -6174,33 +4838,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.481842,
                         -22.256307
-                  ]
-            },
-            {
-                  "name": "Magenta Beach",
-                  "text": "Set along the coast of Magenta in New Caledonia, this local beach provides a relaxing waterfront setting. Visitors can look forward to a quiet atmosphere that is perfectly suited for sunbathing and soothing walks by the water. Those wanting to escape the daily grind will find an ideal spot to unwind. Visiting during the warmer months ensures a wonderful day out.",
-                  "category": "recreational",
-                  "coords": [
-                        166.472278,
-                        -22.266288
-                  ]
-            },
-            {
-                  "name": "Café Musique Le Mouv'",
-                  "text": "Café Musique Le Mouv' in Magenta is a live music café.",
-                  "category": "cultural",
-                  "coords": [
-                        166.466013,
-                        -22.234207
-                  ]
-            },
-            {
-                  "name": "Maison de la Biodiversité",
-                  "text": "Maison de la Biodiversité in Magenta is a museum dedicated to local biodiversity.",
-                  "category": "museum",
-                  "coords": [
-                        166.468872,
-                        -22.278695
                   ]
             },
             {
@@ -6213,48 +4850,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Canons de Ouémo",
-                  "text": "A historical monument featuring the Ouémo cannons in Magenta.",
-                  "category": "historical",
-                  "coords": [
-                        166.480239,
-                        -22.277106
-                  ]
-            },
-            {
-                  "name": "Magenta",
-                  "text": "A local viewpoint offering sweeping views over Magenta.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
-                  ]
-            },
-            {
-                  "name": "Point de vue Montravel",
-                  "text": "Point de vue Montravel in Magenta offers a scenic view over the Montravel hill.",
-                  "category": "natural",
-                  "coords": [
-                        166.453509,
-                        -22.256348
-                  ]
-            },
-            {
                   "name": "Aeroclub Calédonien",
                   "text": "Aeroclub Calédonien in Magenta is an aviation club with a small airfield.",
                   "category": "landmark",
                   "coords": [
                         166.474457,
                         -22.259081
-                  ]
-            },
-            {
-                  "name": "Mont Te",
-                  "text": "Mont Te in Magenta is a mountain peak known for its hiking trails.",
-                  "category": "natural",
-                  "coords": [
-                        166.459627,
-                        -22.251908
                   ]
             },
             {
@@ -6273,51 +4874,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.481012,
                         -22.257237
-                  ]
-            },
-            {
-                  "name": "Centre Culturel Ko We Kara",
-                  "text": "Centre Culturel Ko We Kara in Magenta hosts Kanak cultural events and workshops.",
-                  "category": "cultural",
-                  "coords": [
-                        166.456155,
-                        -22.237302
-                  ]
-            },
-            {
-                  "name": "Ancien reservoir",
-                  "text": "Ancien reservoir in Magenta is a historic water reservoir from the colonial era.",
-                  "category": "historical",
-                  "coords": [
-                        166.460273,
-                        -22.248022
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Church in the residential area of Magenta.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Saint Anne's Church in Magenta.",
-                  "category": "religious",
-                  "coords": [
-                        166.472492,
-                        -22.268703
-                  ]
-            },
-            {
-                  "name": "Église du Bon-Pasteur",
-                  "text": "Church of the Good Shepherd in central Magenta.",
-                  "category": "religious",
-                  "coords": [
-                        166.446757,
-                        -22.261025
                   ]
             }
       ]
@@ -6369,75 +4925,12 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-riviere-salee-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "Parc Zoologique et Forestier Michel Corbasson in Riviere Salee ist ein Zoo- und Waldpark, benannt nach dem Naturforscher.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Parc Forestier et Zooligique",
-                  "text": "Parc Forestier et Zooligique in Riviere Salee ist ein Waldpark mit kleinem Zoo.",
-                  "category": "family",
-                  "coords": [
-                        166.457819,
-                        -22.256315
-                  ]
-            },
-            {
-                  "name": "Micro-Folie",
-                  "text": "Micro-Folie in Riviere Salee ist ein digitales Kunstmuseum mit interaktiven Exponaten.",
-                  "category": "museum",
-                  "coords": [
-                        166.473382,
-                        -22.217924
-                  ]
-            },
-            {
                   "name": "Café Musique Le Mouv'",
                   "text": "Café Musique Le Mouv' in Riviere Salee ist ein Café mit Live-Musik.",
                   "category": "cultural",
                   "coords": [
                         166.466013,
                         -22.234207
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "Amicale Vietnamienne in Riviere Salee ist eine kulturelle Gruppe, die vietnamesische Traditionen pflegt.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Nouméa Rock'n'Roll École de Danse",
-                  "text": "Nouméa Rock'n'Roll École de Danse in Riviere Salee bietet Rock'n'Roll-Tanzunterricht an.",
-                  "category": "cultural",
-                  "coords": [
-                        166.479419,
-                        -22.225489
-                  ]
-            },
-            {
-                  "name": "Point de vue Montravel",
-                  "text": "Point de vue Montravel in Riviere Salee bietet eine Panoramaaussicht auf die Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        166.453509,
-                        -22.256348
-                  ]
-            },
-            {
-                  "name": "Mont Te",
-                  "text": "Mont Te in Riviere Salee ist ein Berggipfel, der bei Wanderern beliebt ist.",
-                  "category": "natural",
-                  "coords": [
-                        166.459627,
-                        -22.251908
                   ]
             },
             {
@@ -6461,75 +4954,12 @@ export const newcaledoniaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "Parc Zoologique et Forestier Michel Corbasson Riviere Salee-ban egy állatkert és erdőpark, amely a természettudósról kapta a nevét.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Parc Forestier et Zooligique",
-                  "text": "Parc Forestier et Zooligique Riviere Salee-ban egy erdőpark kis állatkerttel.",
-                  "category": "family",
-                  "coords": [
-                        166.457819,
-                        -22.256315
-                  ]
-            },
-            {
-                  "name": "Micro-Folie",
-                  "text": "Micro-Folie Riviere Salee-ban egy digitális művészeti múzeum interaktív kiállításokkal.",
-                  "category": "museum",
-                  "coords": [
-                        166.473382,
-                        -22.217924
-                  ]
-            },
-            {
                   "name": "Café Musique Le Mouv'",
                   "text": "Café Musique Le Mouv' Riviere Salee-ban egy élőzenés kávézó.",
                   "category": "cultural",
                   "coords": [
                         166.466013,
                         -22.234207
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "Amicale Vietnamienne Riviere Salee-ban egy kulturális csoport, amely a vietnami hagyományokat ápolja.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Nouméa Rock'n'Roll École de Danse",
-                  "text": "Nouméa Rock'n'Roll École de Danse Riviere Salee-ban rock and roll táncórákat kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        166.479419,
-                        -22.225489
-                  ]
-            },
-            {
-                  "name": "Point de vue Montravel",
-                  "text": "Point de vue Montravel Riviere Salee-ban panorámás kilátást nyújt a környékre.",
-                  "category": "natural",
-                  "coords": [
-                        166.453509,
-                        -22.256348
-                  ]
-            },
-            {
-                  "name": "Mont Te",
-                  "text": "Mont Te Riviere Salee-ban egy hegycsúcs, amely népszerű a túrázók körében.",
-                  "category": "natural",
-                  "coords": [
-                        166.459627,
-                        -22.251908
                   ]
             },
             {
@@ -6553,75 +4983,12 @@ export const newcaledoniaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "Parc Zoologique et Forestier Michel Corbasson din Riviere Salee este o grădină zoologică și parc forestier numit după naturalist.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Parc Forestier et Zooligique",
-                  "text": "Parc Forestier et Zooligique din Riviere Salee este un parc forestier cu o mică grădină zoologică.",
-                  "category": "family",
-                  "coords": [
-                        166.457819,
-                        -22.256315
-                  ]
-            },
-            {
-                  "name": "Micro-Folie",
-                  "text": "Micro-Folie din Riviere Salee este un muzeu digital de artă cu exponate interactive.",
-                  "category": "museum",
-                  "coords": [
-                        166.473382,
-                        -22.217924
-                  ]
-            },
-            {
                   "name": "Café Musique Le Mouv'",
                   "text": "Café Musique Le Mouv' din Riviere Salee este o cafenea cu muzică live.",
                   "category": "cultural",
                   "coords": [
                         166.466013,
                         -22.234207
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "Amicale Vietnamienne din Riviere Salee este un grup cultural care celebrează tradițiile vietnameze.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Nouméa Rock'n'Roll École de Danse",
-                  "text": "Nouméa Rock'n'Roll École de Danse din Riviere Salee oferă lecții de dans rock and roll.",
-                  "category": "cultural",
-                  "coords": [
-                        166.479419,
-                        -22.225489
-                  ]
-            },
-            {
-                  "name": "Point de vue Montravel",
-                  "text": "Point de vue Montravel din Riviere Salee oferă o vedere panoramică asupra zonei.",
-                  "category": "natural",
-                  "coords": [
-                        166.453509,
-                        -22.256348
-                  ]
-            },
-            {
-                  "name": "Mont Te",
-                  "text": "Mont Te din Riviere Salee este un vârf montan popular pentru drumeții.",
-                  "category": "natural",
-                  "coords": [
-                        166.459627,
-                        -22.251908
                   ]
             },
             {
@@ -6645,75 +5012,12 @@ export const newcaledoniaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "Parc Zoologique et Forestier Michel Corbasson in Riviere Salee is a zoo and forest park named after the naturalist.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Parc Forestier et Zooligique",
-                  "text": "Parc Forestier et Zooligique in Riviere Salee is a forest park with a small zoo.",
-                  "category": "family",
-                  "coords": [
-                        166.457819,
-                        -22.256315
-                  ]
-            },
-            {
-                  "name": "Micro-Folie",
-                  "text": "Micro-Folie in Riviere Salee is a digital art museum with interactive exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        166.473382,
-                        -22.217924
-                  ]
-            },
-            {
                   "name": "Café Musique Le Mouv'",
                   "text": "Café Musique Le Mouv' in Riviere Salee is a café with live music performances.",
                   "category": "cultural",
                   "coords": [
                         166.466013,
                         -22.234207
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "Amicale Vietnamienne in Riviere Salee is a cultural group celebrating Vietnamese traditions.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Nouméa Rock'n'Roll École de Danse",
-                  "text": "Nouméa Rock'n'Roll École de Danse in Riviere Salee offers rock and roll dance lessons.",
-                  "category": "cultural",
-                  "coords": [
-                        166.479419,
-                        -22.225489
-                  ]
-            },
-            {
-                  "name": "Point de vue Montravel",
-                  "text": "Point de vue Montravel in Riviere Salee provides a panoramic view of the area.",
-                  "category": "natural",
-                  "coords": [
-                        166.453509,
-                        -22.256348
-                  ]
-            },
-            {
-                  "name": "Mont Te",
-                  "text": "Mont Te in Riviere Salee is a mountain peak popular for hiking.",
-                  "category": "natural",
-                  "coords": [
-                        166.459627,
-                        -22.251908
                   ]
             },
             {
@@ -6828,120 +5132,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée de la Ville",
-                  "text": "Musée de la Ville in Vallee Des Colons zeigt die lokale Geschichte und Kultur.",
-                  "category": "museum",
-                  "coords": [
-                        166.442216,
-                        -22.270467
-                  ]
-            },
-            {
-                  "name": "Manege",
-                  "text": "Manege in Vallee Des Colons ist ein Karussell für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        166.442016,
-                        -22.277051
-                  ]
-            },
-            {
-                  "name": "Centre Culturel Tjibaou",
-                  "text": "Jean-Marie Tjibaou Cultural Centre in Vallee Des Colons ist ein ikonisches Kanak-Kulturzentrum, entworfen von Renzo Piano.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
-            {
-                  "name": "Plage de Magenta",
-                  "text": "In der Region Vallée des Colons erstreckt sich dieser Küstenabschnitt von Neukaledonien. Die Umgebung strahlt eine friedliche Stimmung aus, die sowohl Einheimische als auch Reisende anzieht. Man kann hier hervorragend am Ufer spazieren oder einfach die maritime Luft beim Entspannen genießen. Für einen ruhigen Platz am Wasser empfiehlt sich ein früher Start in den Tag.",
-                  "category": "recreational",
-                  "coords": [
-                        166.472278,
-                        -22.266288
-                  ]
-            },
-            {
-                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
-                  "text": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie in Vallee Des Colons zeigt Artefakte aus dem Pazifikkrieg.",
-                  "category": "museum",
-                  "coords": [
-                        166.43939,
-                        -22.268318
-                  ]
-            },
-            {
                   "name": "Maison Célières",
                   "text": "Maison Célières in Vallee Des Colons ist ein kolonialzeitliches Haus, das als Museum dient.",
                   "category": "museum",
                   "coords": [
                         166.451262,
                         -22.278097
-                  ]
-            },
-            {
-                  "name": "Maison Higginson",
-                  "text": "Maison Higginson in Vallee Des Colons ist ein restauriertes Wohnhaus aus dem 19. Jahrhundert.",
-                  "category": "museum",
-                  "coords": [
-                        166.44355,
-                        -22.269291
-                  ]
-            },
-            {
-                  "name": "Maison de la Biodiversité",
-                  "text": "Maison de la Biodiversité in Vallee Des Colons konzentriert sich auf die einzigartige Flora und Fauna Neukaledoniens.",
-                  "category": "museum",
-                  "coords": [
-                        166.468872,
-                        -22.278695
-                  ]
-            },
-            {
-                  "name": "Musée de l'Histoire Maritime",
-                  "text": "Musée de l'Histoire Maritime in Vallee Des Colons zeichnet die Seefahrtsgeschichte der Region nach.",
-                  "category": "museum",
-                  "coords": [
-                        166.433986,
-                        -22.268134
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "Amicale Vietnamienne in Vallee Des Colons ist ein vietnamesischer Kulturverein.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Croix de Lorraine",
-                  "text": "Das Croix de Lorraine ist ein bedeutendes Denkmal in Vallée des Colons.",
-                  "category": "historical",
-                  "coords": [
-                        166.447037,
-                        -22.279601
-                  ]
-            },
-            {
-                  "name": "Canons de Ouémo",
-                  "text": "Canons de Ouémo in Vallee Des Colons sind historische Küstenverteidigungskanonen.",
-                  "category": "historical",
-                  "coords": [
-                        166.480239,
-                        -22.277106
-                  ]
-            },
-            {
-                  "name": "Magenta",
-                  "text": "Magenta bietet einen malerischen Aussichtspunkt über die Umgebung in Vallée des Colons.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
                   ]
             },
             {
@@ -6954,75 +5150,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ancre de Marine",
-                  "text": "Ancre de Marine ist ein bemerkenswertes maritimes Denkmal in Vallée des Colons.",
-                  "category": "historical",
-                  "coords": [
-                        166.444608,
-                        -22.286902
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Der Aeroclub Calédonien ist eine Luftfahrtattraktion in Vallée des Colons.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
                   "name": "Mont Te",
                   "text": "Mont Te bietet Besuchern einen atemberaubenden Aussichtspunkt über Vallée des Colons.",
                   "category": "natural",
                   "coords": [
                         166.459627,
                         -22.251908
-                  ]
-            },
-            {
-                  "name": "Stèle aux Disparus de la Monique",
-                  "text": "Diese Stele in Vallée des Colons ist ein Denkmal für die vermissten Passagiere des Schiffes Monique.",
-                  "category": "historical",
-                  "coords": [
-                        166.439781,
-                        -22.274922
-                  ]
-            },
-            {
-                  "name": "Enjoy Diving",
-                  "text": "Enjoy Diving ist eine Attraktion in Vallée des Colons, die Taucherlebnisse anbietet.",
-                  "category": "landmark",
-                  "coords": [
-                        166.440612,
-                        -22.284079
-                  ]
-            },
-            {
-                  "name": "Odyssey Diving",
-                  "text": "Odyssey Diving ist eine spezielle Tauchattraktion in Vallée des Colons.",
-                  "category": "landmark",
-                  "coords": [
-                        166.441074,
-                        -22.276434
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "Das Case traditionnelle ist eine Attraktion, die traditionelle Architektur in Vallée des Colons zeigt.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Case 10 vinimöi ist eine besondere kulturelle Attraktion in Vallée des Colons.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
                   ]
             },
             {
@@ -7053,15 +5186,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ancien reservoir",
-                  "text": "Das Ancien reservoir zeigt die historischen Ruinen eines alten Wasserreservoirs in Vallée des Colons.",
-                  "category": "historical",
-                  "coords": [
-                        166.460273,
-                        -22.248022
-                  ]
-            },
-            {
                   "name": "Église Saint-Jean-Baptiste",
                   "text": "Église Saint-Jean-Baptiste ist ein bedeutendes Gotteshaus in Vallée des Colons.",
                   "category": "religious",
@@ -7077,24 +5201,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.444608,
                         -22.272778
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Église Sainte-Anne ist ein einladendes Gotteshaus in der Stadt Vallée des Colons.",
-                  "category": "religious",
-                  "coords": [
-                        166.472492,
-                        -22.268703
-                  ]
-            },
-            {
-                  "name": "Église du Bon-Pasteur",
-                  "text": "Église du Bon-Pasteur dient der Gemeinde als lokales Gotteshaus in Vallée des Colons.",
-                  "category": "religious",
-                  "coords": [
-                        166.446757,
-                        -22.261025
                   ]
             }
       ],
@@ -7145,120 +5251,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée de la Ville",
-                  "text": "Musée de la Ville Vallee Des Colons-ban a helyi történelmet és kultúrát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        166.442216,
-                        -22.270467
-                  ]
-            },
-            {
-                  "name": "Manege",
-                  "text": "Manege Vallee Des Colons-ban egy gyermekkörhinta.",
-                  "category": "family",
-                  "coords": [
-                        166.442016,
-                        -22.277051
-                  ]
-            },
-            {
-                  "name": "Centre Culturel Tjibaou",
-                  "text": "Jean-Marie Tjibaou Kulturális Központ Vallee Des Colons-ban egy ikonikus kanak kulturális központ, amelyet Renzo Piano tervezett.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
-            {
-                  "name": "Plage de Magenta",
-                  "text": "Új-Kaledónia Vallée des Colons régiójában terül el ez a hívogató tengerparti szakasz. A környék békés hangulatot áraszt, amely egyaránt vonzza a helyieket és az utazókat. Kiváló lehetőség nyílik a parton való sétálásra vagy egyszerűen a tengeri levegő élvezetére pihenés közben. Ha csendes helyet szeretnénk a vízparton, érdemes korán kezdeni a napot.",
-                  "category": "recreational",
-                  "coords": [
-                        166.472278,
-                        -22.266288
-                  ]
-            },
-            {
-                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
-                  "text": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie Vallee Des Colons-ban a csendes-óceáni háborúból származó tárgyakat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        166.43939,
-                        -22.268318
-                  ]
-            },
-            {
                   "name": "Maison Célières",
                   "text": "Maison Célières Vallee Des Colons-ban egy gyarmati korszakbeli ház, amely múzeumként üzemel.",
                   "category": "museum",
                   "coords": [
                         166.451262,
                         -22.278097
-                  ]
-            },
-            {
-                  "name": "Maison Higginson",
-                  "text": "Maison Higginson Vallee Des Colons-ban egy 19. századi helyreállított lakóház.",
-                  "category": "museum",
-                  "coords": [
-                        166.44355,
-                        -22.269291
-                  ]
-            },
-            {
-                  "name": "Maison de la Biodiversité",
-                  "text": "Maison de la Biodiversité Vallee Des Colons-ban Új-Kaledónia egyedi növény- és állatvilágára összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        166.468872,
-                        -22.278695
-                  ]
-            },
-            {
-                  "name": "Musée de l'Histoire Maritime",
-                  "text": "Musée de l'Histoire Maritime Vallee Des Colons-ban a régió tengerészeti múltját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        166.433986,
-                        -22.268134
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "Amicale Vietnamienne Vallee Des Colons-ban egy vietnami kulturális egyesület.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Croix de Lorraine",
-                  "text": "A Croix de Lorraine egy jelentős emlékmű Vallée des Colons területén.",
-                  "category": "historical",
-                  "coords": [
-                        166.447037,
-                        -22.279601
-                  ]
-            },
-            {
-                  "name": "Canons de Ouémo",
-                  "text": "Canons de Ouémo Vallee Des Colons-ban történelmi tengerparti védelmi ágyúk.",
-                  "category": "historical",
-                  "coords": [
-                        166.480239,
-                        -22.277106
-                  ]
-            },
-            {
-                  "name": "Magenta",
-                  "text": "A Magenta egy festői kilátópont Vallée des Colons területén.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
                   ]
             },
             {
@@ -7271,75 +5269,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ancre de Marine",
-                  "text": "Az Ancre de Marine egy figyelemre méltó tengerészeti emlékmű Vallée des Colons-ban.",
-                  "category": "historical",
-                  "coords": [
-                        166.444608,
-                        -22.286902
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Az Aeroclub Calédonien egy repülési látványosság Vallée des Colons területén.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
                   "name": "Mont Te",
                   "text": "A Mont Te lenyűgöző kilátást nyújt a látogatóknak Vallée des Colons területére.",
                   "category": "natural",
                   "coords": [
                         166.459627,
                         -22.251908
-                  ]
-            },
-            {
-                  "name": "Stèle aux Disparus de la Monique",
-                  "text": "Ez a Vallée des Colons-i sztélé a Monique hajó eltűnt utasainak emlékműve.",
-                  "category": "historical",
-                  "coords": [
-                        166.439781,
-                        -22.274922
-                  ]
-            },
-            {
-                  "name": "Enjoy Diving",
-                  "text": "Az Enjoy Diving egy búvárkodási élményeket kínáló látványosság Vallée des Colons-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        166.440612,
-                        -22.284079
-                  ]
-            },
-            {
-                  "name": "Odyssey Diving",
-                  "text": "Az Odyssey Diving egy speciális búvárlátványosság Vallée des Colons területén.",
-                  "category": "landmark",
-                  "coords": [
-                        166.441074,
-                        -22.276434
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "A Case traditionnelle egy hagyományos építészetet bemutató látványosság Vallée des Colons-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "A Case 10 vinimöi egy különleges kulturális látványosság Vallée des Colons városrészben.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
                   ]
             },
             {
@@ -7370,15 +5305,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ancien reservoir",
-                  "text": "Az Ancien reservoir egy régi víztározó történelmi romjait mutatja be Vallée des Colons-ban.",
-                  "category": "historical",
-                  "coords": [
-                        166.460273,
-                        -22.248022
-                  ]
-            },
-            {
                   "name": "Église Saint-Jean-Baptiste",
                   "text": "Az Église Saint-Jean-Baptiste egy kiemelkedő istentiszteleti hely Vallée des Colons területén.",
                   "category": "religious",
@@ -7394,24 +5320,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.444608,
                         -22.272778
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Az Église Sainte-Anne egy hívogató istentiszteleti hely Vallée des Colons városában.",
-                  "category": "religious",
-                  "coords": [
-                        166.472492,
-                        -22.268703
-                  ]
-            },
-            {
-                  "name": "Église du Bon-Pasteur",
-                  "text": "Az Église du Bon-Pasteur a közösséget szolgáló helyi istentiszteleti hely Vallée des Colons-ban.",
-                  "category": "religious",
-                  "coords": [
-                        166.446757,
-                        -22.261025
                   ]
             }
       ],
@@ -7462,120 +5370,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée de la Ville",
-                  "text": "Musée de la Ville din Vallee Des Colons expune istoria și cultura locală.",
-                  "category": "museum",
-                  "coords": [
-                        166.442216,
-                        -22.270467
-                  ]
-            },
-            {
-                  "name": "Manege",
-                  "text": "Manege din Vallee Des Colons este un carusel pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        166.442016,
-                        -22.277051
-                  ]
-            },
-            {
-                  "name": "Centre Culturel Tjibaou",
-                  "text": "Centrul Cultural Jean-Marie Tjibaou din Vallee Des Colons este un centru cultural kanak iconic proiectat de Renzo Piano.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
-            {
-                  "name": "Plage de Magenta",
-                  "text": "Această secțiune de coastă din Noua Caledonie se întinde în regiunea Vallée des Colons. Împrejurimile emană o vibrație pașnică, atrăgând deopotrivă localnici și călători. Oaspeții se pot bucura de plimbări plăcute pe mal sau se pot relaxa pur și simplu respirând aerul mării. Pentru a prinde un loc liniștit lângă apă, se recomandă să ajungeți dimineața devreme.",
-                  "category": "recreational",
-                  "coords": [
-                        166.472278,
-                        -22.266288
-                  ]
-            },
-            {
-                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
-                  "text": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie din Vallee Des Colons expune artefacte din războiul din Pacific.",
-                  "category": "museum",
-                  "coords": [
-                        166.43939,
-                        -22.268318
-                  ]
-            },
-            {
                   "name": "Maison Célières",
                   "text": "Maison Célières din Vallee Des Colons este o casă din epoca colonială transformată în muzeu.",
                   "category": "museum",
                   "coords": [
                         166.451262,
                         -22.278097
-                  ]
-            },
-            {
-                  "name": "Maison Higginson",
-                  "text": "Maison Higginson din Vallee Des Colons este o locuință restaurată din secolul al XIX-lea.",
-                  "category": "museum",
-                  "coords": [
-                        166.44355,
-                        -22.269291
-                  ]
-            },
-            {
-                  "name": "Maison de la Biodiversité",
-                  "text": "Maison de la Biodiversité din Vallee Des Colons se concentrează asupra florei și faunei unice din Noua Caledonie.",
-                  "category": "museum",
-                  "coords": [
-                        166.468872,
-                        -22.278695
-                  ]
-            },
-            {
-                  "name": "Musée de l'Histoire Maritime",
-                  "text": "Musée de l'Histoire Maritime din Vallee Des Colons urmărește trecutul maritim al regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        166.433986,
-                        -22.268134
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "Amicale Vietnamienne din Vallee Des Colons este o asociație culturală vietnameză.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Croix de Lorraine",
-                  "text": "Croix de Lorraine este un monument important situat în Vallée des Colons.",
-                  "category": "historical",
-                  "coords": [
-                        166.447037,
-                        -22.279601
-                  ]
-            },
-            {
-                  "name": "Canons de Ouémo",
-                  "text": "Canons de Ouémo din Vallee Des Colons sunt tunuri istorice de apărare costieră.",
-                  "category": "historical",
-                  "coords": [
-                        166.480239,
-                        -22.277106
-                  ]
-            },
-            {
-                  "name": "Magenta",
-                  "text": "Magenta oferă un punct de belvedere pitoresc asupra zonei din Vallée des Colons.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
                   ]
             },
             {
@@ -7588,75 +5388,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ancre de Marine",
-                  "text": "Ancre de Marine este un monument maritim notabil situat în Vallée des Colons.",
-                  "category": "historical",
-                  "coords": [
-                        166.444608,
-                        -22.286902
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Aeroclub Calédonien este o atracție de aviație situată în Vallée des Colons.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
                   "name": "Mont Te",
                   "text": "Mont Te oferă vizitatorilor un punct de belvedere uimitor asupra Vallée des Colons.",
                   "category": "natural",
                   "coords": [
                         166.459627,
                         -22.251908
-                  ]
-            },
-            {
-                  "name": "Stèle aux Disparus de la Monique",
-                  "text": "Această stelă din Vallée des Colons este un monument dedicat pasagerilor dispăruți de pe nava Monique.",
-                  "category": "historical",
-                  "coords": [
-                        166.439781,
-                        -22.274922
-                  ]
-            },
-            {
-                  "name": "Enjoy Diving",
-                  "text": "Enjoy Diving este o atracție din Vallée des Colons care oferă experiențe de scufundări.",
-                  "category": "landmark",
-                  "coords": [
-                        166.440612,
-                        -22.284079
-                  ]
-            },
-            {
-                  "name": "Odyssey Diving",
-                  "text": "Odyssey Diving este o atracție specializată de scufundări situată în Vallée des Colons.",
-                  "category": "landmark",
-                  "coords": [
-                        166.441074,
-                        -22.276434
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "Case traditionnelle este o atracție care prezintă arhitectura tradițională în Vallée des Colons.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Case 10 vinimöi este o atracție culturală distinctă situată în Vallée des Colons.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
                   ]
             },
             {
@@ -7687,15 +5424,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ancien reservoir",
-                  "text": "Ancien reservoir prezintă ruinele istorice ale unui vechi rezervor de apă din Vallée des Colons.",
-                  "category": "historical",
-                  "coords": [
-                        166.460273,
-                        -22.248022
-                  ]
-            },
-            {
                   "name": "Église Saint-Jean-Baptiste",
                   "text": "Église Saint-Jean-Baptiste este un lăcaș de cult proeminent situat în Vallée des Colons.",
                   "category": "religious",
@@ -7711,24 +5439,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.444608,
                         -22.272778
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Église Sainte-Anne este un lăcaș de cult primitor aflat în orașul Vallée des Colons.",
-                  "category": "religious",
-                  "coords": [
-                        166.472492,
-                        -22.268703
-                  ]
-            },
-            {
-                  "name": "Église du Bon-Pasteur",
-                  "text": "Église du Bon-Pasteur servește comunității ca lăcaș de cult local în Vallée des Colons.",
-                  "category": "religious",
-                  "coords": [
-                        166.446757,
-                        -22.261025
                   ]
             }
       ],
@@ -7779,120 +5489,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée de la Ville",
-                  "text": "Musée de la Ville in Vallee Des Colons displays the local history and culture.",
-                  "category": "museum",
-                  "coords": [
-                        166.442216,
-                        -22.270467
-                  ]
-            },
-            {
-                  "name": "Manege",
-                  "text": "Manege in Vallee Des Colons is a carousel for children.",
-                  "category": "family",
-                  "coords": [
-                        166.442016,
-                        -22.277051
-                  ]
-            },
-            {
-                  "name": "Jean-Marie Tjibaou Cultural Centre",
-                  "text": "Jean-Marie Tjibaou Cultural Centre in Vallee Des Colons is an iconic Kanak cultural center designed by Renzo Piano.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
-            {
-                  "name": "Magenta Beach",
-                  "text": "This stretch of coastline in New Caledonia is nestled within the Vallée des Colons area. The surroundings exude a peaceful vibe that attracts both locals and travelers alike. Guests can enjoy wonderful strolls along the shore or simply relax while breathing in the fresh sea air. Arriving early in the morning is recommended to secure a quiet spot by the water.",
-                  "category": "recreational",
-                  "coords": [
-                        166.472278,
-                        -22.266288
-                  ]
-            },
-            {
-                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
-                  "text": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie in Vallee Des Colons exhibits artifacts from the Pacific War.",
-                  "category": "museum",
-                  "coords": [
-                        166.43939,
-                        -22.268318
-                  ]
-            },
-            {
                   "name": "Maison Célières",
                   "text": "Maison Célières in Vallee Des Colons is a colonial-era house turned museum.",
                   "category": "museum",
                   "coords": [
                         166.451262,
                         -22.278097
-                  ]
-            },
-            {
-                  "name": "Maison Higginson",
-                  "text": "Maison Higginson in Vallee Des Colons is a restored 19th-century residence.",
-                  "category": "museum",
-                  "coords": [
-                        166.44355,
-                        -22.269291
-                  ]
-            },
-            {
-                  "name": "Maison de la Biodiversité",
-                  "text": "Maison de la Biodiversité in Vallee Des Colons focuses on New Caledonia's unique flora and fauna.",
-                  "category": "museum",
-                  "coords": [
-                        166.468872,
-                        -22.278695
-                  ]
-            },
-            {
-                  "name": "Musée de l'Histoire Maritime",
-                  "text": "Musée de l'Histoire Maritime in Vallee Des Colons traces the region's seafaring past.",
-                  "category": "museum",
-                  "coords": [
-                        166.433986,
-                        -22.268134
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "Amicale Vietnamienne in Vallee Des Colons is a Vietnamese cultural association.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Croix de Lorraine",
-                  "text": "The Croix de Lorraine is a significant monument located in Vallée des Colons.",
-                  "category": "historical",
-                  "coords": [
-                        166.447037,
-                        -22.279601
-                  ]
-            },
-            {
-                  "name": "Canons de Ouémo",
-                  "text": "Canons de Ouémo in Vallee Des Colons are historic coastal defense cannons.",
-                  "category": "historical",
-                  "coords": [
-                        166.480239,
-                        -22.277106
-                  ]
-            },
-            {
-                  "name": "Magenta",
-                  "text": "Magenta offers a scenic viewpoint over the area in Vallée des Colons.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
                   ]
             },
             {
@@ -7905,75 +5507,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ancre de Marine",
-                  "text": "Ancre de Marine is a notable maritime monument situated in Vallée des Colons.",
-                  "category": "historical",
-                  "coords": [
-                        166.444608,
-                        -22.286902
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "The Aeroclub Calédonien is an aviation attraction located in Vallée des Colons.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
                   "name": "Mont Te",
                   "text": "Mont Te provides visitors with a stunning viewpoint over Vallée des Colons.",
                   "category": "natural",
                   "coords": [
                         166.459627,
                         -22.251908
-                  ]
-            },
-            {
-                  "name": "Stèle aux Disparus de la Monique",
-                  "text": "This stele in Vallée des Colons is a monument dedicated to the missing passengers of the ship Monique.",
-                  "category": "historical",
-                  "coords": [
-                        166.439781,
-                        -22.274922
-                  ]
-            },
-            {
-                  "name": "Enjoy Diving",
-                  "text": "Enjoy Diving is an attraction in Vallée des Colons that offers diving experiences.",
-                  "category": "landmark",
-                  "coords": [
-                        166.440612,
-                        -22.284079
-                  ]
-            },
-            {
-                  "name": "Odyssey Diving",
-                  "text": "Odyssey Diving is a specialized diving attraction located in Vallée des Colons.",
-                  "category": "landmark",
-                  "coords": [
-                        166.441074,
-                        -22.276434
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "The Case traditionnelle is an attraction showcasing traditional architecture in Vallée des Colons.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Case 10 vinimöi is a distinctive cultural attraction situated in Vallée des Colons.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
                   ]
             },
             {
@@ -8004,15 +5543,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ancien reservoir",
-                  "text": "The Ancien reservoir features the historical ruins of an old water reservoir in Vallée des Colons.",
-                  "category": "historical",
-                  "coords": [
-                        166.460273,
-                        -22.248022
-                  ]
-            },
-            {
                   "name": "Église Saint-Jean-Baptiste",
                   "text": "Église Saint-Jean-Baptiste is a prominent place of worship located in Vallée des Colons.",
                   "category": "religious",
@@ -8028,24 +5558,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.444608,
                         -22.272778
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Église Sainte-Anne is an inviting place of worship found in the city of Vallée des Colons.",
-                  "category": "religious",
-                  "coords": [
-                        166.472492,
-                        -22.268703
-                  ]
-            },
-            {
-                  "name": "Église du Bon-Pasteur",
-                  "text": "Église du Bon-Pasteur serves the community as a local place of worship in Vallée des Colons.",
-                  "category": "religious",
-                  "coords": [
-                        166.446757,
-                        -22.261025
                   ]
             }
       ]
@@ -8142,42 +5654,6 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-yahoue-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Centre Culturel du Mont Dore",
-                  "text": "Centre Culturel du Mont Dore in Yahoue ist ein Zentrum für Kunst und Gemeinschaftsveranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        166.517556,
-                        -22.226096
-                  ]
-            },
-            {
-                  "name": "Micro-Folie",
-                  "text": "Micro-Folie in Yahoue ist ein digitales Museum mit virtuellen Sammlungen.",
-                  "category": "museum",
-                  "coords": [
-                        166.473382,
-                        -22.217924
-                  ]
-            },
-            {
-                  "name": "Nouméa Rock'n'Roll École de Danse",
-                  "text": "Nouméa Rock'n'Roll École de Danse in Yahoue unterrichtet Rock'n'Roll-Tanz.",
-                  "category": "cultural",
-                  "coords": [
-                        166.479419,
-                        -22.225489
-                  ]
-            },
-            {
-                  "name": "Vestiges du Chemin de Fer",
-                  "text": "Vestiges du Chemin de Fer in Yahoue sind die Überreste einer Schmalspurbahn.",
-                  "category": "historical",
-                  "coords": [
-                        166.481909,
-                        -22.193535
-                  ]
-            },
-            {
                   "name": "Sentier du Pic Malaoui via Yahoué",
                   "text": "Pic Malaoui track via Yahoué ist ein Wanderweg, der zum Gipfel des Pic Malaoui führt.",
                   "category": "landmark",
@@ -8197,42 +5673,6 @@ export const newcaledoniaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Centre Culturel du Mont Dore",
-                  "text": "Centre Culturel du Mont Dore Yahoue-ban a művészet és közösségi események központja.",
-                  "category": "cultural",
-                  "coords": [
-                        166.517556,
-                        -22.226096
-                  ]
-            },
-            {
-                  "name": "Micro-Folie",
-                  "text": "Micro-Folie Yahoue-ban egy digitális múzeum virtuális gyűjteményekkel.",
-                  "category": "museum",
-                  "coords": [
-                        166.473382,
-                        -22.217924
-                  ]
-            },
-            {
-                  "name": "Nouméa Rock'n'Roll École de Danse",
-                  "text": "Nouméa Rock'n'Roll École de Danse Yahoue-ban rock and roll táncot tanít.",
-                  "category": "cultural",
-                  "coords": [
-                        166.479419,
-                        -22.225489
-                  ]
-            },
-            {
-                  "name": "Vestiges du Chemin de Fer",
-                  "text": "Vestiges du Chemin de Fer Yahoue-ban egy keskeny nyomtávú vasút maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        166.481909,
-                        -22.193535
-                  ]
-            },
             {
                   "name": "Sentier du Pic Malaoui via Yahoué",
                   "text": "Pic Malaoui track via Yahoué egy túraútvonal, amely a Pic Malaoui csúcsára vezet.",
@@ -8254,42 +5694,6 @@ export const newcaledoniaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Centre Culturel du Mont Dore",
-                  "text": "Centre Culturel du Mont Dore din Yahoue este un centru pentru arte și evenimente comunitare.",
-                  "category": "cultural",
-                  "coords": [
-                        166.517556,
-                        -22.226096
-                  ]
-            },
-            {
-                  "name": "Micro-Folie",
-                  "text": "Micro-Folie din Yahoue este un muzeu digital cu colecții virtuale.",
-                  "category": "museum",
-                  "coords": [
-                        166.473382,
-                        -22.217924
-                  ]
-            },
-            {
-                  "name": "Nouméa Rock'n'Roll École de Danse",
-                  "text": "Nouméa Rock'n'Roll École de Danse din Yahoue predă dans rock and roll.",
-                  "category": "cultural",
-                  "coords": [
-                        166.479419,
-                        -22.225489
-                  ]
-            },
-            {
-                  "name": "Vestiges du Chemin de Fer",
-                  "text": "Vestiges du Chemin de Fer din Yahoue sunt rămășițele unui feroviar cu ecartament îngust.",
-                  "category": "historical",
-                  "coords": [
-                        166.481909,
-                        -22.193535
-                  ]
-            },
-            {
                   "name": "Sentier du Pic Malaoui via Yahoué",
                   "text": "Pic Malaoui track via Yahoué este un traseu de drumeție care duce la vârful Pic Malaoui.",
                   "category": "landmark",
@@ -8309,42 +5713,6 @@ export const newcaledoniaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Centre Culturel du Mont Dore",
-                  "text": "Centre Culturel du Mont Dore in Yahoue is a hub for arts and community events.",
-                  "category": "cultural",
-                  "coords": [
-                        166.517556,
-                        -22.226096
-                  ]
-            },
-            {
-                  "name": "Micro-Folie",
-                  "text": "Micro-Folie in Yahoue is a digital museum featuring virtual collections.",
-                  "category": "museum",
-                  "coords": [
-                        166.473382,
-                        -22.217924
-                  ]
-            },
-            {
-                  "name": "Nouméa Rock'n'Roll École de Danse",
-                  "text": "Nouméa Rock'n'Roll École de Danse in Yahoue teaches rock and roll dancing.",
-                  "category": "cultural",
-                  "coords": [
-                        166.479419,
-                        -22.225489
-                  ]
-            },
-            {
-                  "name": "Vestiges du Chemin de Fer",
-                  "text": "Vestiges du Chemin de Fer in Yahoue are the remains of a narrow-gauge railway.",
-                  "category": "historical",
-                  "coords": [
-                        166.481909,
-                        -22.193535
-                  ]
-            },
             {
                   "name": "Pic Malaoui track via Yahoué",
                   "text": "Pic Malaoui track via Yahoué is a hiking trail leading to the summit of Pic Malaoui.",
@@ -8410,86 +5778,10 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-robinson-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Ilot Tué",
-                  "text": "Ilot Tué ist ein malerischer Aussichtspunkt, der wunderschöne Perspektiven in Robinson bietet.",
-                  "category": "natural",
-                  "coords": [
-                        166.503859,
-                        -22.274156
-                  ]
-            },
-            {
-                  "name": "Mobula Diving",
-                  "text": "Mobula Diving in Robinson ist ein Tauchzentrum, das Ausflüge zu Korallenriffen anbietet.",
-                  "category": "landmark",
-                  "coords": [
-                        166.524908,
-                        -22.233393
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Ilot Tué",
-                  "text": "Az Ilot Tué egy festői kilátó, amely gyönyörű perspektívákat kínál Robinson területén.",
-                  "category": "natural",
-                  "coords": [
-                        166.503859,
-                        -22.274156
-                  ]
-            },
-            {
-                  "name": "Mobula Diving",
-                  "text": "Mobula Diving Robinsonban egy búvárközpont, amely kirándulásokat kínál korallzátonyokhoz.",
-                  "category": "landmark",
-                  "coords": [
-                        166.524908,
-                        -22.233393
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Ilot Tué",
-                  "text": "Ilot Tué este un punct de belvedere pitoresc care oferă perspective frumoase în Robinson.",
-                  "category": "natural",
-                  "coords": [
-                        166.503859,
-                        -22.274156
-                  ]
-            },
-            {
-                  "name": "Mobula Diving",
-                  "text": "Mobula Diving din Robinson este un centru de scufundări care oferă excursii la recife de corali.",
-                  "category": "landmark",
-                  "coords": [
-                        166.524908,
-                        -22.233393
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ilot Tué",
-                  "text": "Ilot Tué is a scenic viewpoint offering beautiful perspectives in Robinson.",
-                  "category": "natural",
-                  "coords": [
-                        166.503859,
-                        -22.274156
-                  ]
-            },
-            {
-                  "name": "Mobula Diving",
-                  "text": "Mobula Diving in Robinson is a scuba diving center offering trips to coral reefs.",
-                  "category": "landmark",
-                  "coords": [
-                        166.524908,
-                        -22.233393
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "NC",
     type: "town",
@@ -8536,50 +5828,10 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-boulari-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Ilot Tué",
-                  "text": "Eine kleine Koralleninsel in der Lagune nahe Boulari.",
-                  "category": "natural",
-                  "coords": [
-                        166.503859,
-                        -22.274156
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Ilot Tué",
-                  "text": "Egy kis korallsziget a lagúnában, Boulari közelében.",
-                  "category": "natural",
-                  "coords": [
-                        166.503859,
-                        -22.274156
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Ilot Tué",
-                  "text": "O insulă mică de corali în laguna de lângă Boulari.",
-                  "category": "natural",
-                  "coords": [
-                        166.503859,
-                        -22.274156
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ilot Tué",
-                  "text": "A small coral islet in the lagoon near Boulari.",
-                  "category": "natural",
-                  "coords": [
-                        166.503859,
-                        -22.274156
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "NC",
     type: "town",
@@ -8727,33 +5979,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Café Musique Le Mouv'",
-                  "text": "Café Musique Le Mouv' ist ein lebendiges Theater und ein Musiklokal in Normandia.",
-                  "category": "cultural",
-                  "coords": [
-                        166.466013,
-                        -22.234207
-                  ]
-            },
-            {
-                  "name": "Nouméa Rock'n'Roll École de Danse",
-                  "text": "Dieses Kunstzentrum in Normandia dient als engagierte Rock'n'Roll-Tanzschule.",
-                  "category": "cultural",
-                  "coords": [
-                        166.479419,
-                        -22.225489
-                  ]
-            },
-            {
-                  "name": "Vestiges du Chemin de Fer",
-                  "text": "Vestiges du Chemin de Fer zeigt die historischen Ruinen einer alten Eisenbahnlinie in Normandia.",
-                  "category": "historical",
-                  "coords": [
-                        166.481909,
-                        -22.193535
-                  ]
-            },
-            {
                   "name": "Croix Point de vue",
                   "text": "Croix Point de vue ist ein Aussichtspunkt, der weite Ausblicke über Normandia bietet.",
                   "category": "natural",
@@ -8770,15 +5995,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.456094,
                         -22.235564
                   ]
-            },
-            {
-                  "name": "Église de la Conception",
-                  "text": "Kirche der Unbefleckten Empfängnis in Normandia.",
-                  "category": "religious",
-                  "coords": [
-                        166.499846,
-                        -22.225475
-                  ]
             }
       ],
       "hu": [
@@ -8789,33 +6005,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.473382,
                         -22.217924
-                  ]
-            },
-            {
-                  "name": "Café Musique Le Mouv'",
-                  "text": "A Café Musique Le Mouv' egy élénk színház és zenei helyszín Normandia területén.",
-                  "category": "cultural",
-                  "coords": [
-                        166.466013,
-                        -22.234207
-                  ]
-            },
-            {
-                  "name": "Nouméa Rock'n'Roll École de Danse",
-                  "text": "Ez a normandiai művészeti központ dedikált rock'n'roll tánciskolaként működik.",
-                  "category": "cultural",
-                  "coords": [
-                        166.479419,
-                        -22.225489
-                  ]
-            },
-            {
-                  "name": "Vestiges du Chemin de Fer",
-                  "text": "A Vestiges du Chemin de Fer egy régi vasútvonal történelmi romjait mutatja be Normandiában.",
-                  "category": "historical",
-                  "coords": [
-                        166.481909,
-                        -22.193535
                   ]
             },
             {
@@ -8835,15 +6024,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.456094,
                         -22.235564
                   ]
-            },
-            {
-                  "name": "Église de la Conception",
-                  "text": "Szeplőtelen Fogantatás temploma Normandiában.",
-                  "category": "religious",
-                  "coords": [
-                        166.499846,
-                        -22.225475
-                  ]
             }
       ],
       "ro": [
@@ -8854,33 +6034,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.473382,
                         -22.217924
-                  ]
-            },
-            {
-                  "name": "Café Musique Le Mouv'",
-                  "text": "Café Musique Le Mouv' este un teatru vibrant și un loc de întâlnire muzical situat în Normandia.",
-                  "category": "cultural",
-                  "coords": [
-                        166.466013,
-                        -22.234207
-                  ]
-            },
-            {
-                  "name": "Nouméa Rock'n'Roll École de Danse",
-                  "text": "Acest centru de arte din Normandia servește ca o școală dedicată de dans rock'n'roll.",
-                  "category": "cultural",
-                  "coords": [
-                        166.479419,
-                        -22.225489
-                  ]
-            },
-            {
-                  "name": "Vestiges du Chemin de Fer",
-                  "text": "Vestiges du Chemin de Fer prezintă ruinele istorice ale unei vechi linii de cale ferată din Normandia.",
-                  "category": "historical",
-                  "coords": [
-                        166.481909,
-                        -22.193535
                   ]
             },
             {
@@ -8900,15 +6053,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.456094,
                         -22.235564
                   ]
-            },
-            {
-                  "name": "Église de la Conception",
-                  "text": "Biserica Neprihănitei Zămisliri din Normandia.",
-                  "category": "religious",
-                  "coords": [
-                        166.499846,
-                        -22.225475
-                  ]
             }
       ],
       "en": [
@@ -8919,33 +6063,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.473382,
                         -22.217924
-                  ]
-            },
-            {
-                  "name": "Café Musique Le Mouv'",
-                  "text": "Café Musique Le Mouv' is a vibrant theatre and musical venue located in Normandia.",
-                  "category": "cultural",
-                  "coords": [
-                        166.466013,
-                        -22.234207
-                  ]
-            },
-            {
-                  "name": "Nouméa Rock'n'Roll École de Danse",
-                  "text": "This arts centre in Normandia serves as a dedicated rock'n'roll dance school.",
-                  "category": "cultural",
-                  "coords": [
-                        166.479419,
-                        -22.225489
-                  ]
-            },
-            {
-                  "name": "Vestiges du Chemin de Fer",
-                  "text": "Vestiges du Chemin de Fer features the historical ruins of an old railway line in Normandia.",
-                  "category": "historical",
-                  "coords": [
-                        166.481909,
-                        -22.193535
                   ]
             },
             {
@@ -8964,15 +6081,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.456094,
                         -22.235564
-                  ]
-            },
-            {
-                  "name": "Église de la Conception",
-                  "text": "Church of the Immaculate Conception in Normandia.",
-                  "category": "religious",
-                  "coords": [
-                        166.499846,
-                        -22.225475
                   ]
             }
       ]
@@ -9168,15 +6276,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ilot Tué",
-                  "text": "Ilot Tué bietet Besuchern in La Conception einen malerischen Aussichtspunkt.",
-                  "category": "natural",
-                  "coords": [
-                        166.503859,
-                        -22.274156
-                  ]
-            },
-            {
                   "name": "Mobula Diving",
                   "text": "Ein Tauchzentrum in La Conception, spezialisiert auf Mobula-Rochen-Sichtungen in der Lagune.",
                   "category": "landmark",
@@ -9194,15 +6293,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.517556,
                         -22.226096
-                  ]
-            },
-            {
-                  "name": "Ilot Tué",
-                  "text": "Az Ilot Tué festői kilátópontot kínál a látogatóknak La Conception-ban.",
-                  "category": "natural",
-                  "coords": [
-                        166.503859,
-                        -22.274156
                   ]
             },
             {
@@ -9226,15 +6316,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ilot Tué",
-                  "text": "Ilot Tué oferă un punct de belvedere pitoresc pentru vizitatorii din La Conception.",
-                  "category": "natural",
-                  "coords": [
-                        166.503859,
-                        -22.274156
-                  ]
-            },
-            {
                   "name": "Mobula Diving",
                   "text": "Un centru de scufundări în La Conception, specializat în observarea razelor mobula în lagună.",
                   "category": "landmark",
@@ -9252,15 +6333,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.517556,
                         -22.226096
-                  ]
-            },
-            {
-                  "name": "Ilot Tué",
-                  "text": "Ilot Tué provides a picturesque viewpoint for visitors in La Conception.",
-                  "category": "natural",
-                  "coords": [
-                        166.503859,
-                        -22.274156
                   ]
             },
             {
@@ -9499,302 +6571,10 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-tina-sur-mer-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Centre Culturel Tjibaou",
-                  "text": "Das Kulturzentrum Jean-Marie Tjibaou ist ein berühmtes Museum in Tina-sur-Mer, das von Renzo Piano entworfen wurde, um die Kanak-Kultur zu würdigen.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
-            {
-                  "name": "Café Musique Le Mouv'",
-                  "text": "Café Musique Le Mouv' ist ein beliebtes Theater und ein Ort für Livemusik in Tina-sur-Mer.",
-                  "category": "cultural",
-                  "coords": [
-                        166.466013,
-                        -22.234207
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "Ein vietnamesischer Kulturverein, der Gemeinschaftsveranstaltungen in Tina Sur Mer organisiert.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Nouméa Rock'n'Roll École de Danse",
-                  "text": "Diese Einrichtung in Tina-sur-Mer fungiert als lebhaftes Kunstzentrum für Rock'n'Roll-Tanz.",
-                  "category": "cultural",
-                  "coords": [
-                        166.479419,
-                        -22.225489
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Ein Flugclub in Tina Sur Mer, der Rundflüge über die Lagune anbietet.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "Das Case traditionnelle ist eine kulturelle Attraktion, die lokale Baustile in Tina-sur-Mer zeigt.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Case 10 vinimöi ist eine besondere lokale Attraktion in Tina-sur-Mer.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Église de la Conception",
-                  "text": "Kirche der Unbefleckten Empfängnis in Tina Sur Mer.",
-                  "category": "religious",
-                  "coords": [
-                        166.499846,
-                        -22.225475
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Centre Culturel Tjibaou",
-                  "text": "A Jean-Marie Tjibaou Kulturális Központ egy híres múzeum Tina-sur-Mer-ben, amelyet Renzo Piano tervezett a kanak kultúra tiszteletére.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
-            {
-                  "name": "Café Musique Le Mouv'",
-                  "text": "A Café Musique Le Mouv' egy népszerű színház és élőzenei helyszín Tina-sur-Mer területén.",
-                  "category": "cultural",
-                  "coords": [
-                        166.466013,
-                        -22.234207
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "Vietnámi kulturális egyesület, amely közösségi eseményeket szervez Tina Sur Merben.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Nouméa Rock'n'Roll École de Danse",
-                  "text": "Ez a Tina-sur-Mer-i létesítmény élénk rock'n'roll táncművészeti központként működik.",
-                  "category": "cultural",
-                  "coords": [
-                        166.479419,
-                        -22.225489
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Repülőklub Tina Sur Merben, körrepüléseket kínálva a lagúna felett.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "A Case traditionnelle egy helyi építészeti stílusokat bemutató kulturális látványosság Tina-sur-Mer-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "A Case 10 vinimöi egy különleges helyi látványosság Tina-sur-Mer területén.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Église de la Conception",
-                  "text": "Szeplőtelen Fogantatás temploma Tina Sur Merben.",
-                  "category": "religious",
-                  "coords": [
-                        166.499846,
-                        -22.225475
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Centre Culturel Tjibaou",
-                  "text": "Centrul Cultural Jean-Marie Tjibaou este un muzeu celebru din Tina-sur-Mer, proiectat de Renzo Piano pentru a onora cultura Kanak.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
-            {
-                  "name": "Café Musique Le Mouv'",
-                  "text": "Café Musique Le Mouv' este un teatru popular și un loc pentru muzică live în Tina-sur-Mer.",
-                  "category": "cultural",
-                  "coords": [
-                        166.466013,
-                        -22.234207
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "O asociație culturală vietnameză care organizează evenimente comunitare în Tina Sur Mer.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Nouméa Rock'n'Roll École de Danse",
-                  "text": "Această instituție din Tina-sur-Mer funcționează ca un centru animat de arte pentru dans rock'n'roll.",
-                  "category": "cultural",
-                  "coords": [
-                        166.479419,
-                        -22.225489
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Un club de aviație în Tina Sur Mer care oferă zboruri de agrement peste lagună.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "Case traditionnelle este o atracție culturală care prezintă stilurile locale de construcție din Tina-sur-Mer.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Case 10 vinimöi este o atracție locală distinctă situată în Tina-sur-Mer.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Église de la Conception",
-                  "text": "Biserica Neprihănitei Zămisliri din Tina Sur Mer.",
-                  "category": "religious",
-                  "coords": [
-                        166.499846,
-                        -22.225475
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Jean-Marie Tjibaou Cultural Centre",
-                  "text": "The Jean-Marie Tjibaou Cultural Centre is a celebrated museum in Tina-sur-Mer designed by Renzo Piano to honor Kanak culture.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
-            {
-                  "name": "Café Musique Le Mouv'",
-                  "text": "Café Musique Le Mouv' is a popular theatre and live music venue in Tina-sur-Mer.",
-                  "category": "cultural",
-                  "coords": [
-                        166.466013,
-                        -22.234207
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "A Vietnamese cultural association organising community events in Tina Sur Mer.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Nouméa Rock'n'Roll École de Danse",
-                  "text": "This establishment in Tina-sur-Mer functions as a lively rock'n'roll dance arts centre.",
-                  "category": "cultural",
-                  "coords": [
-                        166.479419,
-                        -22.225489
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "An aero club in Tina Sur Mer offering scenic flights over the lagoon.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "The Case traditionnelle is a cultural attraction showcasing local building styles in Tina-sur-Mer.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Case 10 vinimöi is a distinctive local attraction situated in Tina-sur-Mer.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Église de la Conception",
-                  "text": "Church of the Immaculate Conception in Tina Sur Mer.",
-                  "category": "religious",
-                  "coords": [
-                        166.499846,
-                        -22.225475
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "NC",
     type: "town",
@@ -9843,51 +6623,6 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-vallee-du-tir-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "Ein Zoo und Waldpark in Vallee Du Tir mit einheimischen neukaledonischen Tieren und Pflanzen.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Fédération de Œuvres Laiques FOL",
-                  "text": "Ein Dachverband zur Förderung säkularer Bildung und kultureller Aktivitäten in Vallee Du Tir.",
-                  "category": "cultural",
-                  "coords": [
-                        166.445508,
-                        -22.272048
-                  ]
-            },
-            {
-                  "name": "Block 72",
-                  "text": "Ein kultureller Veranstaltungsort mit Ausstellungen und Events in Vallee Du Tir.",
-                  "category": "cultural",
-                  "coords": [
-                        166.455057,
-                        -22.269563
-                  ]
-            },
-            {
-                  "name": "Théâtre de Poche",
-                  "text": "Ein intimes Theater für Live-Aufführungen in Vallee Du Tir.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44871,
-                        -22.277058
-                  ]
-            },
-            {
-                  "name": "Parc Forestier et Zooligique",
-                  "text": "Ein Waldpark mit Zooeinrichtungen in Vallee Du Tir.",
-                  "category": "family",
-                  "coords": [
-                        166.457819,
-                        -22.256315
-                  ]
-            },
-            {
                   "name": "Musée de la Ville",
                   "text": "Das Stadtmuseum von Vallee Du Tir mit lokalen historischen Artefakten.",
                   "category": "museum",
@@ -9897,30 +6632,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Manege",
-                  "text": "Ein historisches Karussell für Kinder im Park von Vallee Du Tir.",
-                  "category": "family",
-                  "coords": [
-                        166.442016,
-                        -22.277051
-                  ]
-            },
-            {
                   "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
                   "text": "Das Musée de la seconde guerre mondiale en Nouvelle-Calédonie ist ein Museum in Vallée du Tir. Es widmet sich der Geschichte des Zweiten Weltkriegs.",
                   "category": "museum",
                   "coords": [
                         166.43939,
                         -22.268318
-                  ]
-            },
-            {
-                  "name": "Maison Célières",
-                  "text": "Ein restauriertes Kolonialhaus, das heute als Museum dient, in Vallee Du Tir.",
-                  "category": "museum",
-                  "coords": [
-                        166.451262,
-                        -22.278097
                   ]
             },
             {
@@ -9942,129 +6659,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Croix de Lorraine",
-                  "text": "Ein Lothringerkreuz-Denkmal, das an die Freien Französischen Streitkräfte erinnert, in Vallee Du Tir.",
-                  "category": "historical",
-                  "coords": [
-                        166.447037,
-                        -22.279601
-                  ]
-            },
-            {
-                  "name": "Magenta",
-                  "text": "Ein Naturgebiet mit Wanderwegen und einheimischer Vegetation in Vallee Du Tir.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
-                  ]
-            },
-            {
-                  "name": "Point de vue Montravel",
-                  "text": "Ein Aussichtspunkt mit Panoramablick auf Nouméa in Vallee Du Tir.",
-                  "category": "natural",
-                  "coords": [
-                        166.453509,
-                        -22.256348
-                  ]
-            },
-            {
-                  "name": "Mont Te",
-                  "text": "Ein Berggipfel mit Wanderwegen und Wald in Vallee Du Tir.",
-                  "category": "natural",
-                  "coords": [
-                        166.459627,
-                        -22.251908
-                  ]
-            },
-            {
                   "name": "Stèle aux Disparus de la Monique",
                   "text": "Eine Gedenkstele für die Besatzung des Schiffes Monique, die auf See verloren ging, in Vallee Du Tir.",
                   "category": "historical",
                   "coords": [
                         166.439781,
                         -22.274922
-                  ]
-            },
-            {
-                  "name": "Enjoy Diving",
-                  "text": "Ein Tauchzentrum in Vallee Du Tir, das Korallenriffe und Wracks erkundet.",
-                  "category": "landmark",
-                  "coords": [
-                        166.440612,
-                        -22.284079
-                  ]
-            },
-            {
-                  "name": "Odyssey Diving",
-                  "text": "Ein Tauchzentrum in Vallee Du Tir mit geführten Tauchgängen zu Unterwasserplätzen.",
-                  "category": "landmark",
-                  "coords": [
-                        166.441074,
-                        -22.276434
-                  ]
-            },
-            {
-                  "name": "Le Rex",
-                  "text": "Ein historisches Kino in Vallee Du Tir, das Filme zeigt und Veranstaltungen ausrichtet.",
-                  "category": "cultural",
-                  "coords": [
-                        166.444464,
-                        -22.274017
-                  ]
-            },
-            {
-                  "name": "Centre Culturel Ko We Kara",
-                  "text": "Ein kanakisches Kulturzentrum mit traditionellem Handwerk und Tanz in Vallee Du Tir.",
-                  "category": "cultural",
-                  "coords": [
-                        166.456155,
-                        -22.237302
-                  ]
-            },
-            {
-                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
-                  "text": "Ein Erster-Weltkriegs-Denkmal auf dem Place Bir Hakeim in Vallee Du Tir.",
-                  "category": "historical",
-                  "coords": [
-                        166.447899,
-                        -22.27413
-                  ]
-            },
-            {
-                  "name": "Mémoire des Gendarmes et Militaires",
-                  "text": "Ein Denkmal zu Ehren von Gendarmen und Militärangehörigen in Vallee Du Tir.",
-                  "category": "historical",
-                  "coords": [
-                        166.446951,
-                        -22.273696
-                  ]
-            },
-            {
-                  "name": "Ancien reservoir",
-                  "text": "Ein alter Wasserbehälter, heute ein historisches Bauwerk in Vallee Du Tir.",
-                  "category": "historical",
-                  "coords": [
-                        166.460273,
-                        -22.248022
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Kirche am Stadtrand von Vallee Du Tir.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Cathédrale Saint-Joseph",
-                  "text": "Die Cathédrale Saint-Joseph ist eine religiöse Stätte in Vallée du Tir. Sie ist eine bedeutende katholische Kathedrale der Region.",
-                  "category": "religious",
-                  "coords": [
-                        166.444608,
-                        -22.272778
                   ]
             },
             {
@@ -10079,51 +6679,6 @@ export const newcaledoniaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "Állatkert és erdei park Vallee Du Tirben, őshonos új-kaledóniai állatokkal és növényekkel.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Fédération de Œuvres Laiques FOL",
-                  "text": "Szövetség a szekuláris oktatás és kulturális tevékenységek előmozdítására Vallee Du Tirben.",
-                  "category": "cultural",
-                  "coords": [
-                        166.445508,
-                        -22.272048
-                  ]
-            },
-            {
-                  "name": "Block 72",
-                  "text": "Kulturális helyszín kiállításokkal és rendezvényekkel Vallee Du Tirben.",
-                  "category": "cultural",
-                  "coords": [
-                        166.455057,
-                        -22.269563
-                  ]
-            },
-            {
-                  "name": "Théâtre de Poche",
-                  "text": "Intim színház élő előadások számára Vallee Du Tirben.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44871,
-                        -22.277058
-                  ]
-            },
-            {
-                  "name": "Parc Forestier et Zooligique",
-                  "text": "Erdei park állatkerti létesítményekkel Vallee Du Tirben.",
-                  "category": "family",
-                  "coords": [
-                        166.457819,
-                        -22.256315
-                  ]
-            },
-            {
                   "name": "Musée de la Ville",
                   "text": "Vallee Du Tir városi múzeuma helyi történelmi tárgyakkal.",
                   "category": "museum",
@@ -10133,30 +6688,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Manege",
-                  "text": "Történelmi körhinta gyerekeknek a Vallee Du Tir-i parkban.",
-                  "category": "family",
-                  "coords": [
-                        166.442016,
-                        -22.277051
-                  ]
-            },
-            {
                   "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
                   "text": "A Musée de la seconde guerre mondiale en Nouvelle-Calédonie egy múzeum Vallée du Tir városában. A múzeum a második világháború történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         166.43939,
                         -22.268318
-                  ]
-            },
-            {
-                  "name": "Maison Célières",
-                  "text": "Felújított gyarmati ház, amely ma múzeumként működik Vallee Du Tirben.",
-                  "category": "museum",
-                  "coords": [
-                        166.451262,
-                        -22.278097
                   ]
             },
             {
@@ -10178,129 +6715,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Croix de Lorraine",
-                  "text": "Lotharingiai kereszt emlékmű, amely a Szabad Francia Erőkre emlékeztet Vallee Du Tirben.",
-                  "category": "historical",
-                  "coords": [
-                        166.447037,
-                        -22.279601
-                  ]
-            },
-            {
-                  "name": "Magenta",
-                  "text": "Természeti terület túraútvonalakkal és őshonos növényzettel Vallee Du Tirben.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
-                  ]
-            },
-            {
-                  "name": "Point de vue Montravel",
-                  "text": "Kilátó pont panorámás kilátással Nouméára Vallee Du Tirben.",
-                  "category": "natural",
-                  "coords": [
-                        166.453509,
-                        -22.256348
-                  ]
-            },
-            {
-                  "name": "Mont Te",
-                  "text": "Hegycsúcs túraútvonalakkal és erdővel Vallee Du Tirben.",
-                  "category": "natural",
-                  "coords": [
-                        166.459627,
-                        -22.251908
-                  ]
-            },
-            {
                   "name": "Stèle aux Disparus de la Monique",
                   "text": "Emlékoszlop a Monique hajó tengerészeti veszteségeinek tiszteletére Vallee Du Tirben.",
                   "category": "historical",
                   "coords": [
                         166.439781,
                         -22.274922
-                  ]
-            },
-            {
-                  "name": "Enjoy Diving",
-                  "text": "Búvárközpont Vallee Du Tirben, korallzátonyok és roncsok felfedezésével.",
-                  "category": "landmark",
-                  "coords": [
-                        166.440612,
-                        -22.284079
-                  ]
-            },
-            {
-                  "name": "Odyssey Diving",
-                  "text": "Búvárközpont Vallee Du Tirben vezetett merülésekkel víz alatti helyszínekre.",
-                  "category": "landmark",
-                  "coords": [
-                        166.441074,
-                        -22.276434
-                  ]
-            },
-            {
-                  "name": "Le Rex",
-                  "text": "Történelmi mozi Vallee Du Tirben, filmek vetítésével és rendezvényekkel.",
-                  "category": "cultural",
-                  "coords": [
-                        166.444464,
-                        -22.274017
-                  ]
-            },
-            {
-                  "name": "Centre Culturel Ko We Kara",
-                  "text": "Kanak kulturális központ hagyományos kézművességgel és tánccal Vallee Du Tirben.",
-                  "category": "cultural",
-                  "coords": [
-                        166.456155,
-                        -22.237302
-                  ]
-            },
-            {
-                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
-                  "text": "Első világháborús emlékmű a Place Bir Hakeim téren Vallee Du Tirben.",
-                  "category": "historical",
-                  "coords": [
-                        166.447899,
-                        -22.27413
-                  ]
-            },
-            {
-                  "name": "Mémoire des Gendarmes et Militaires",
-                  "text": "Emlékmű a csendőrök és katonai személyzet tiszteletére Vallee Du Tirben.",
-                  "category": "historical",
-                  "coords": [
-                        166.446951,
-                        -22.273696
-                  ]
-            },
-            {
-                  "name": "Ancien reservoir",
-                  "text": "Régi víztározó, ma történelmi építmény Vallee Du Tirben.",
-                  "category": "historical",
-                  "coords": [
-                        166.460273,
-                        -22.248022
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Templom Vallee Du Tir külterületén.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Cathédrale Saint-Joseph",
-                  "text": "A Cathédrale Saint-Joseph egy vallási helyszín Vallée du Tir városában. Ez a régió egyik jelentős katolikus katedrálisa.",
-                  "category": "religious",
-                  "coords": [
-                        166.444608,
-                        -22.272778
                   ]
             },
             {
@@ -10315,51 +6735,6 @@ export const newcaledoniaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "O grădină zoologică și parc forestier în Vallee Du Tir, cu animale și plante native din Noua Caledonie.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Fédération de Œuvres Laiques FOL",
-                  "text": "O federație care promovează educația seculară și activitățile culturale în Vallee Du Tir.",
-                  "category": "cultural",
-                  "coords": [
-                        166.445508,
-                        -22.272048
-                  ]
-            },
-            {
-                  "name": "Block 72",
-                  "text": "Un spațiu cultural cu expoziții și evenimente în Vallee Du Tir.",
-                  "category": "cultural",
-                  "coords": [
-                        166.455057,
-                        -22.269563
-                  ]
-            },
-            {
-                  "name": "Théâtre de Poche",
-                  "text": "Un teatru intim pentru spectacole live în Vallee Du Tir.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44871,
-                        -22.277058
-                  ]
-            },
-            {
-                  "name": "Parc Forestier et Zooligique",
-                  "text": "Un parc forestier cu facilități zoo în Vallee Du Tir.",
-                  "category": "family",
-                  "coords": [
-                        166.457819,
-                        -22.256315
-                  ]
-            },
-            {
                   "name": "Musée de la Ville",
                   "text": "Muzeul orașului Vallee Du Tir, cu artefacte istorice locale.",
                   "category": "museum",
@@ -10369,30 +6744,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Manege",
-                  "text": "Un carusel istoric pentru copii în parcul din Vallee Du Tir.",
-                  "category": "family",
-                  "coords": [
-                        166.442016,
-                        -22.277051
-                  ]
-            },
-            {
                   "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
                   "text": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie este un muzeu în Vallée du Tir. Este dedicat istoriei celui de-al Doilea Război Mondial.",
                   "category": "museum",
                   "coords": [
                         166.43939,
                         -22.268318
-                  ]
-            },
-            {
-                  "name": "Maison Célières",
-                  "text": "O casă colonială restaurată, acum muzeu, în Vallee Du Tir.",
-                  "category": "museum",
-                  "coords": [
-                        166.451262,
-                        -22.278097
                   ]
             },
             {
@@ -10414,129 +6771,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Croix de Lorraine",
-                  "text": "Un monument cu crucea Lorenei, comemorând Forțele Franceze Libere în Vallee Du Tir.",
-                  "category": "historical",
-                  "coords": [
-                        166.447037,
-                        -22.279601
-                  ]
-            },
-            {
-                  "name": "Magenta",
-                  "text": "O zonă naturală cu trasee de drumeție și vegetație nativă în Vallee Du Tir.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
-                  ]
-            },
-            {
-                  "name": "Point de vue Montravel",
-                  "text": "Un punct de belvedere cu vedere panoramică asupra Nouméa în Vallee Du Tir.",
-                  "category": "natural",
-                  "coords": [
-                        166.453509,
-                        -22.256348
-                  ]
-            },
-            {
-                  "name": "Mont Te",
-                  "text": "Un vârf de munte cu trasee de drumeție și pădure în Vallee Du Tir.",
-                  "category": "natural",
-                  "coords": [
-                        166.459627,
-                        -22.251908
-                  ]
-            },
-            {
                   "name": "Stèle aux Disparus de la Monique",
                   "text": "O stelă memorială pentru echipajul navei Monique, pierdut pe mare, în Vallee Du Tir.",
                   "category": "historical",
                   "coords": [
                         166.439781,
                         -22.274922
-                  ]
-            },
-            {
-                  "name": "Enjoy Diving",
-                  "text": "Un centru de scufundări în Vallee Du Tir care explorează recife de corali și epave.",
-                  "category": "landmark",
-                  "coords": [
-                        166.440612,
-                        -22.284079
-                  ]
-            },
-            {
-                  "name": "Odyssey Diving",
-                  "text": "Un centru de scufundări în Vallee Du Tir cu scufundări ghidate către locuri subacvatice.",
-                  "category": "landmark",
-                  "coords": [
-                        166.441074,
-                        -22.276434
-                  ]
-            },
-            {
-                  "name": "Le Rex",
-                  "text": "Un cinematograf istoric în Vallee Du Tir care proiectează filme și organizează evenimente.",
-                  "category": "cultural",
-                  "coords": [
-                        166.444464,
-                        -22.274017
-                  ]
-            },
-            {
-                  "name": "Centre Culturel Ko We Kara",
-                  "text": "Un centru cultural kanak cu meșteșuguri tradiționale și dans în Vallee Du Tir.",
-                  "category": "cultural",
-                  "coords": [
-                        166.456155,
-                        -22.237302
-                  ]
-            },
-            {
-                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
-                  "text": "Un monument al Primului Război Mondial pe Place Bir Hakeim în Vallee Du Tir.",
-                  "category": "historical",
-                  "coords": [
-                        166.447899,
-                        -22.27413
-                  ]
-            },
-            {
-                  "name": "Mémoire des Gendarmes et Militaires",
-                  "text": "Un monument în onoarea jandarmilor și a personalului militar în Vallee Du Tir.",
-                  "category": "historical",
-                  "coords": [
-                        166.446951,
-                        -22.273696
-                  ]
-            },
-            {
-                  "name": "Ancien reservoir",
-                  "text": "Un vechi rezervor de apă, acum o structură istorică în Vallee Du Tir.",
-                  "category": "historical",
-                  "coords": [
-                        166.460273,
-                        -22.248022
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Biserică la marginea orașului Vallee Du Tir.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Cathédrale Saint-Joseph",
-                  "text": "Cathédrale Saint-Joseph este un lăcaș de cult în Vallée du Tir. Aceasta este o importantă catedrală catolică din regiune.",
-                  "category": "religious",
-                  "coords": [
-                        166.444608,
-                        -22.272778
                   ]
             },
             {
@@ -10551,51 +6791,6 @@ export const newcaledoniaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "A zoo and forest park in Vallee Du Tir with native New Caledonian animals and plants.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Fédération de Œuvres Laiques FOL",
-                  "text": "A federation promoting secular education and cultural activities in Vallee Du Tir.",
-                  "category": "cultural",
-                  "coords": [
-                        166.445508,
-                        -22.272048
-                  ]
-            },
-            {
-                  "name": "Block 72",
-                  "text": "A cultural venue hosting exhibitions and events in Vallee Du Tir.",
-                  "category": "cultural",
-                  "coords": [
-                        166.455057,
-                        -22.269563
-                  ]
-            },
-            {
-                  "name": "Théâtre de Poche",
-                  "text": "An intimate theatre for live performances in Vallee Du Tir.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44871,
-                        -22.277058
-                  ]
-            },
-            {
-                  "name": "Parc Forestier et Zooligique",
-                  "text": "A forest park with zoo facilities in Vallee Du Tir.",
-                  "category": "family",
-                  "coords": [
-                        166.457819,
-                        -22.256315
-                  ]
-            },
-            {
                   "name": "Musée de la Ville",
                   "text": "The city museum of Vallee Du Tir housing local historical artifacts.",
                   "category": "museum",
@@ -10605,30 +6800,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Manege",
-                  "text": "A historic carousel for children in the park of Vallee Du Tir.",
-                  "category": "family",
-                  "coords": [
-                        166.442016,
-                        -22.277051
-                  ]
-            },
-            {
                   "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
                   "text": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie is a museum in Vallée du Tir. It is dedicated to the history of World War II.",
                   "category": "museum",
                   "coords": [
                         166.43939,
                         -22.268318
-                  ]
-            },
-            {
-                  "name": "Maison Célières",
-                  "text": "A restored colonial house turned museum in Vallee Du Tir.",
-                  "category": "museum",
-                  "coords": [
-                        166.451262,
-                        -22.278097
                   ]
             },
             {
@@ -10650,129 +6827,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Croix de Lorraine",
-                  "text": "A Lorraine cross monument commemorating the Free French Forces in Vallee Du Tir.",
-                  "category": "historical",
-                  "coords": [
-                        166.447037,
-                        -22.279601
-                  ]
-            },
-            {
-                  "name": "Magenta",
-                  "text": "A natural area with walking trails and native vegetation in Vallee Du Tir.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
-                  ]
-            },
-            {
-                  "name": "Point de vue Montravel",
-                  "text": "A viewpoint offering panoramic views of Nouméa in Vallee Du Tir.",
-                  "category": "natural",
-                  "coords": [
-                        166.453509,
-                        -22.256348
-                  ]
-            },
-            {
-                  "name": "Mont Te",
-                  "text": "A mountain peak with hiking trails and forest in Vallee Du Tir.",
-                  "category": "natural",
-                  "coords": [
-                        166.459627,
-                        -22.251908
-                  ]
-            },
-            {
                   "name": "Stèle aux Disparus de la Monique",
                   "text": "A memorial stele for the crew of the ship Monique, lost at sea, in Vallee Du Tir.",
                   "category": "historical",
                   "coords": [
                         166.439781,
                         -22.274922
-                  ]
-            },
-            {
-                  "name": "Enjoy Diving",
-                  "text": "A dive centre in Vallee Du Tir exploring coral reefs and wrecks.",
-                  "category": "landmark",
-                  "coords": [
-                        166.440612,
-                        -22.284079
-                  ]
-            },
-            {
-                  "name": "Odyssey Diving",
-                  "text": "A dive centre in Vallee Du Tir offering guided dives to underwater sites.",
-                  "category": "landmark",
-                  "coords": [
-                        166.441074,
-                        -22.276434
-                  ]
-            },
-            {
-                  "name": "Le Rex",
-                  "text": "A historic cinema in Vallee Du Tir showing films and hosting events.",
-                  "category": "cultural",
-                  "coords": [
-                        166.444464,
-                        -22.274017
-                  ]
-            },
-            {
-                  "name": "Centre Culturel Ko We Kara",
-                  "text": "A Kanak cultural centre with traditional crafts and dance in Vallee Du Tir.",
-                  "category": "cultural",
-                  "coords": [
-                        166.456155,
-                        -22.237302
-                  ]
-            },
-            {
-                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
-                  "text": "A World War I memorial on Place Bir Hakeim in Vallee Du Tir.",
-                  "category": "historical",
-                  "coords": [
-                        166.447899,
-                        -22.27413
-                  ]
-            },
-            {
-                  "name": "Mémoire des Gendarmes et Militaires",
-                  "text": "A memorial honoring gendarmes and military personnel in Vallee Du Tir.",
-                  "category": "historical",
-                  "coords": [
-                        166.446951,
-                        -22.273696
-                  ]
-            },
-            {
-                  "name": "Ancien reservoir",
-                  "text": "An old water reservoir, now a historical structure in Vallee Du Tir.",
-                  "category": "historical",
-                  "coords": [
-                        166.460273,
-                        -22.248022
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Church on the outskirts of Vallee Du Tir.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Cathédrale Saint-Joseph",
-                  "text": "Cathédrale Saint-Joseph is a place of worship in Vallée du Tir. It serves as an important Catholic cathedral for the region.",
-                  "category": "religious",
-                  "coords": [
-                        166.444608,
-                        -22.272778
                   ]
             },
             {
@@ -10878,24 +6938,6 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-normandie-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Micro-Folie",
-                  "text": "Ein digitales Museum mit Miniaturrepliken und virtuellen Ausstellungen in Normandie.",
-                  "category": "museum",
-                  "coords": [
-                        166.473382,
-                        -22.217924
-                  ]
-            },
-            {
-                  "name": "Café Musique Le Mouv'",
-                  "text": "Ein Café mit Livemusik-Aufführungen in Normandie.",
-                  "category": "cultural",
-                  "coords": [
-                        166.466013,
-                        -22.234207
-                  ]
-            },
-            {
                   "name": "Nouméa Rock'n'Roll École de Danse",
                   "text": "Eine Tanzschule, die sich auf Rock 'n' Roll in Normandie spezialisiert hat.",
                   "category": "cultural",
@@ -10912,45 +6954,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.481909,
                         -22.193535
                   ]
-            },
-            {
-                  "name": "Sentier du Pic Malaoui via Yahoué",
-                  "text": "Ein Wanderweg zum Gipfel des Pic Malaoui, beginnend in Yahoué, Normandie.",
-                  "category": "landmark",
-                  "coords": [
-                        166.498265,
-                        -22.199551
-                  ]
-            },
-            {
-                  "name": "Église de la Conception",
-                  "text": "Kirche der Unbefleckten Empfängnis in Normandie.",
-                  "category": "religious",
-                  "coords": [
-                        166.499846,
-                        -22.225475
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Micro-Folie",
-                  "text": "Digitális múzeum miniatűr replikákkal és virtuális kiállításokkal Normandiában.",
-                  "category": "museum",
-                  "coords": [
-                        166.473382,
-                        -22.217924
-                  ]
-            },
-            {
-                  "name": "Café Musique Le Mouv'",
-                  "text": "Kávézó élőzenés előadásokkal Normandiában.",
-                  "category": "cultural",
-                  "coords": [
-                        166.466013,
-                        -22.234207
-                  ]
-            },
             {
                   "name": "Nouméa Rock'n'Roll École de Danse",
                   "text": "Tánciskola, amely a rock and rollra specializálódott Normandiában.",
@@ -10968,45 +6974,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.481909,
                         -22.193535
                   ]
-            },
-            {
-                  "name": "Sentier du Pic Malaoui via Yahoué",
-                  "text": "Túraútvonal a Pic Malaoui csúcsára, Yahouéból indulva Normandiában.",
-                  "category": "landmark",
-                  "coords": [
-                        166.498265,
-                        -22.199551
-                  ]
-            },
-            {
-                  "name": "Église de la Conception",
-                  "text": "Szeplőtelen Fogantatás temploma Normandiában.",
-                  "category": "religious",
-                  "coords": [
-                        166.499846,
-                        -22.225475
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Micro-Folie",
-                  "text": "Un muzeu digital cu replici miniaturale și expoziții virtuale în Normandie.",
-                  "category": "museum",
-                  "coords": [
-                        166.473382,
-                        -22.217924
-                  ]
-            },
-            {
-                  "name": "Café Musique Le Mouv'",
-                  "text": "O cafenea cu spectacole de muzică live în Normandie.",
-                  "category": "cultural",
-                  "coords": [
-                        166.466013,
-                        -22.234207
-                  ]
-            },
             {
                   "name": "Nouméa Rock'n'Roll École de Danse",
                   "text": "O școală de dans specializată în rock and roll în Normandie.",
@@ -11024,45 +6994,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.481909,
                         -22.193535
                   ]
-            },
-            {
-                  "name": "Sentier du Pic Malaoui via Yahoué",
-                  "text": "Un traseu de drumeție către vârful Pic Malaoui, pornind din Yahoué, Normandie.",
-                  "category": "landmark",
-                  "coords": [
-                        166.498265,
-                        -22.199551
-                  ]
-            },
-            {
-                  "name": "Église de la Conception",
-                  "text": "Biserica Neprihănitei Zămisliri din Normandie.",
-                  "category": "religious",
-                  "coords": [
-                        166.499846,
-                        -22.225475
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Micro-Folie",
-                  "text": "A digital museum with miniature replicas and virtual exhibits in Normandie.",
-                  "category": "museum",
-                  "coords": [
-                        166.473382,
-                        -22.217924
-                  ]
-            },
-            {
-                  "name": "Café Musique Le Mouv'",
-                  "text": "A café with live music performances in Normandie.",
-                  "category": "cultural",
-                  "coords": [
-                        166.466013,
-                        -22.234207
-                  ]
-            },
             {
                   "name": "Nouméa Rock'n'Roll École de Danse",
                   "text": "A dance school specialising in rock and roll in Normandie.",
@@ -11079,24 +7013,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.481909,
                         -22.193535
-                  ]
-            },
-            {
-                  "name": "Pic Malaoui track via Yahoué",
-                  "text": "A hiking trail to the summit of Pic Malaoui, starting from Yahoué in Normandie.",
-                  "category": "landmark",
-                  "coords": [
-                        166.498265,
-                        -22.199551
-                  ]
-            },
-            {
-                  "name": "Église de la Conception",
-                  "text": "Church of the Immaculate Conception in Normandie.",
-                  "category": "religious",
-                  "coords": [
-                        166.499846,
-                        -22.225475
                   ]
             }
       ]
@@ -11191,266 +7107,10 @@ export const newcaledoniaCitiesV2: POI[] = [
   },
   {
     id: "newcaledonia-pont-des-francais-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Centre Culturel Tjibaou",
-                  "text": "Ein ikonisches Kulturzentrum, entworfen von Renzo Piano, der kanakischen Kultur gewidmet, in Pont Des Francais.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "Ein vietnamesischer Kulturverein, der Gemeinschaftsveranstaltungen in Pont Des Francais organisiert.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Ilot Tué",
-                  "text": "Eine kleine Koralleninsel in der Lagune nahe Pont Des Francais.",
-                  "category": "natural",
-                  "coords": [
-                        166.503859,
-                        -22.274156
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Ein Flugclub in Pont Des Francais, der Rundflüge über die Lagune anbietet.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "Ein traditionelles Kanak-Haus, ein Wahrzeichen der lokalen Architektur in Pont Des Francais.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Traditionelles Kanak-Haus (Case) mit Strohdach im Dorf Pont Des Francais.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Église de la Conception",
-                  "text": "Kirche der Unbefleckten Empfängnis in Pont Des Francais.",
-                  "category": "religious",
-                  "coords": [
-                        166.499846,
-                        -22.225475
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Centre Culturel Tjibaou",
-                  "text": "Ikonikus kulturális központ, Renzo Piano tervezte, a kanak kultúrának szentelve Pont Des Francaisban.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "Vietnámi kulturális egyesület, amely közösségi eseményeket szervez Pont Des Francaisban.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Ilot Tué",
-                  "text": "Egy kis korallsziget a lagúnában, Pont Des Francais közelében.",
-                  "category": "natural",
-                  "coords": [
-                        166.503859,
-                        -22.274156
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Repülőklub Pont Des Francaisban, körrepüléseket kínálva a lagúna felett.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "Hagyományos kanak ház, a helyi építészet jelképe Pont Des Francaisban.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Hagyományos kanak ház (case) nádtetővel Pont Des Francais faluban.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Église de la Conception",
-                  "text": "Szeplőtelen Fogantatás temploma Pont Des Francaisben.",
-                  "category": "religious",
-                  "coords": [
-                        166.499846,
-                        -22.225475
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Centre Culturel Tjibaou",
-                  "text": "Un centru cultural iconic, proiectat de Renzo Piano, dedicat culturii kanak în Pont Des Francais.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "O asociație culturală vietnameză care organizează evenimente comunitare în Pont Des Francais.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Ilot Tué",
-                  "text": "O insulă mică de corali în laguna de lângă Pont Des Francais.",
-                  "category": "natural",
-                  "coords": [
-                        166.503859,
-                        -22.274156
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Un club de aviație în Pont Des Francais care oferă zboruri de agrement peste lagună.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "O casă tradițională kanak, un reper al arhitecturii locale în Pont Des Francais.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Casă tradițională kanak (case) cu acoperiș de paie în satul Pont Des Francais.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Église de la Conception",
-                  "text": "Biserica Neprihănitei Zămisliri din Pont Des Francais.",
-                  "category": "religious",
-                  "coords": [
-                        166.499846,
-                        -22.225475
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Jean-Marie Tjibaou Cultural Centre",
-                  "text": "An iconic cultural centre designed by Renzo Piano, dedicated to Kanak culture in Pont Des Francais.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "A Vietnamese cultural association organising community events in Pont Des Francais.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Ilot Tué",
-                  "text": "A small coral islet in the lagoon near Pont Des Francais.",
-                  "category": "natural",
-                  "coords": [
-                        166.503859,
-                        -22.274156
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "An aero club in Pont Des Francais offering scenic flights over the lagoon.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "A traditional Kanak hut, a landmark of local architecture in Pont Des Francais.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Traditional Kanak house (case) with thatched roof in the village of Pont Des Francais.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Église de la Conception",
-                  "text": "Church of the Immaculate Conception in Pont Des Francais.",
-                  "category": "religious",
-                  "coords": [
-                        166.499846,
-                        -22.225475
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "NC",
     type: "town",
@@ -11499,51 +7159,6 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-sainte-marie-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "Zoologischer und Waldpark mit heimischen Vögeln und Reptilien in Sainte Marie.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Block 72",
-                  "text": "Kulturzentrum in einem umgebauten Betonblock aus den 1970er Jahren in Sainte Marie.",
-                  "category": "cultural",
-                  "coords": [
-                        166.455057,
-                        -22.269563
-                  ]
-            },
-            {
-                  "name": "Théâtre de Poche",
-                  "text": "Intimes Theater mit nur 50 Sitzplätzen in Sainte Marie.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44871,
-                        -22.277058
-                  ]
-            },
-            {
-                  "name": "Plage de Magenta",
-                  "text": "Gelegen in Sainte-Marie, bietet dieser Teil des Strandes eine wunderbare Gelegenheit, die Küste Neukaledoniens zu erleben. Es herrscht meist eine angenehme, unaufgeregte Stimmung, die zum Verweilen einlädt. Besucher können die Zeit nutzen, um am Strand spazieren zu gehen oder im Sand die Sonne zu genießen. Ein Ausflug am späten Nachmittag verspricht zudem eine besonders schöne Lichtstimmung.",
-                  "category": "recreational",
-                  "coords": [
-                        166.472278,
-                        -22.266288
-                  ]
-            },
-            {
-                  "name": "Maison Célières",
-                  "text": "Kolonialzeitliches Wohnhaus-Museum mit originaler Einrichtung in Sainte Marie.",
-                  "category": "museum",
-                  "coords": [
-                        166.451262,
-                        -22.278097
-                  ]
-            },
-            {
                   "name": "Maison de la Biodiversité",
                   "text": "Museum zur Biodiversität Neukaledoniens mit interaktiven Ausstellungen in Sainte Marie.",
                   "category": "museum",
@@ -11551,144 +7166,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.468872,
                         -22.278695
                   ]
-            },
-            {
-                  "name": "Monument de la Promenade Pierre Vernier",
-                  "text": "Steinmonument zu Ehren von Pierre Vernier an der Uferpromenade in Sainte Marie.",
-                  "category": "historical",
-                  "coords": [
-                        166.460874,
-                        -22.306459
-                  ]
-            },
-            {
-                  "name": "Croix de Lorraine",
-                  "text": "Großes Lothringerkreuz aus Stein auf einer Anhöhe in Sainte Marie.",
-                  "category": "historical",
-                  "coords": [
-                        166.447037,
-                        -22.279601
-                  ]
-            },
-            {
-                  "name": "Canons de Ouémo",
-                  "text": "Historische Kanonen aus dem 19. Jahrhundert mit Blick auf die Bucht von Ouémo in Sainte Marie.",
-                  "category": "historical",
-                  "coords": [
-                        166.480239,
-                        -22.277106
-                  ]
-            },
-            {
-                  "name": "Magenta",
-                  "text": "Küstennaher Mangrovenwald mit Wanderwegen in Sainte Marie.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
-                  ]
-            },
-            {
-                  "name": "Centre de Danse Jean-Yves Arroyo",
-                  "text": "Tanzschule, gegründet von Choreograf Jean-Yves Arroyo, in Sainte Marie.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44978,
-                        -22.2934
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Flugclub mit einer Graspiste und Flugzeugwartung in Sainte Marie.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Traditionelles Kanak-Haus (Case) mit Strohdach im Vorort Sainte Marie.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
-                  "text": "Obeliskförmiges Denkmal für die Gefallenen des Ersten Weltkriegs auf dem Place Bir Hakeim in Sainte Marie.",
-                  "category": "historical",
-                  "coords": [
-                        166.447899,
-                        -22.27413
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Kirche im Zentrum von Sainte Marie.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Kirche gewidmet der Heiligen Anna in Sainte Marie.",
-                  "category": "religious",
-                  "coords": [
-                        166.472492,
-                        -22.268703
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "Állatkert és erdei park őshonos madarakkal és hüllőkkel Sainte Marie-ben.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Block 72",
-                  "text": "Központi kulturális helyszín egy átalakított beton épületben Sainte Marie-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        166.455057,
-                        -22.269563
-                  ]
-            },
-            {
-                  "name": "Théâtre de Poche",
-                  "text": "Kis, intime színház mindössze 50 ülőhellyel Sainte Marie-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44871,
-                        -22.277058
-                  ]
-            },
-            {
-                  "name": "Plage de Magenta",
-                  "text": "A Sainte-Marie területén található partszakasz csodálatos lehetőséget kínál Új-Kaledónia tengerpartjának felfedezésére. Általában kellemes, nyugodt hangulat uralkodik itt, amely maradásra csábít. A látogatók kihasználhatják az időt egy tengerparti sétára, vagy egyszerűen csak élvezhetik a napsütést a homokban. Egy késő délutáni látogatás különösen szép fényviszonyokat ígér.",
-                  "category": "recreational",
-                  "coords": [
-                        166.472278,
-                        -22.266288
-                  ]
-            },
-            {
-                  "name": "Maison Célières",
-                  "text": "Gyarmati kori házmúzeum eredeti berendezéssel Sainte Marie-ben.",
-                  "category": "museum",
-                  "coords": [
-                        166.451262,
-                        -22.278097
-                  ]
-            },
             {
                   "name": "Maison de la Biodiversité",
                   "text": "Biodiverzitás múzeum interaktív kiállításokkal Új-Kaledóniáról Sainte Marie-ben.",
@@ -11697,144 +7177,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.468872,
                         -22.278695
                   ]
-            },
-            {
-                  "name": "Monument de la Promenade Pierre Vernier",
-                  "text": "Kőemlék Pierre Vernier tiszteletére a tengerparti sétányon Sainte Marie-ben.",
-                  "category": "historical",
-                  "coords": [
-                        166.460874,
-                        -22.306459
-                  ]
-            },
-            {
-                  "name": "Croix de Lorraine",
-                  "text": "Nagy kőből készült lotharingiai kereszt egy dombtetőn Sainte Marie-ben.",
-                  "category": "historical",
-                  "coords": [
-                        166.447037,
-                        -22.279601
-                  ]
-            },
-            {
-                  "name": "Canons de Ouémo",
-                  "text": "Történelmi ágyúk a 19. századból, kilátással az Ouémo-öbölre Sainte Marie-ben.",
-                  "category": "historical",
-                  "coords": [
-                        166.480239,
-                        -22.277106
-                  ]
-            },
-            {
-                  "name": "Magenta",
-                  "text": "Tengerparti mangrove erdő sétányokkal Sainte Marie-ben.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
-                  ]
-            },
-            {
-                  "name": "Centre de Danse Jean-Yves Arroyo",
-                  "text": "Tánciskola, amelyet Jean-Yves Arroyo koreográfus alapított Sainte Marie-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44978,
-                        -22.2934
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Repülőklub füves kifutópályával és repülőgép-karbantartással Sainte Marie-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Hagyományos kanak ház (case) nádtetővel Sainte Marie külvárosában.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
-                  "text": "Obeliszk alakú első világháborús emlékmű a Place Bir Hakeim téren Sainte Marie-ben.",
-                  "category": "historical",
-                  "coords": [
-                        166.447899,
-                        -22.27413
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Templom Sainte Marie központjában.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Szent Anna templom Sainte Marie-ben.",
-                  "category": "religious",
-                  "coords": [
-                        166.472492,
-                        -22.268703
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "Parc zoologic și forestier cu păsări și reptile locale în Sainte Marie.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Block 72",
-                  "text": "Centru cultural într-o clădire de beton transformată din Sainte Marie.",
-                  "category": "cultural",
-                  "coords": [
-                        166.455057,
-                        -22.269563
-                  ]
-            },
-            {
-                  "name": "Théâtre de Poche",
-                  "text": "Teatru intim cu doar 50 de locuri în Sainte Marie.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44871,
-                        -22.277058
-                  ]
-            },
-            {
-                  "name": "Plage de Magenta",
-                  "text": "Situată în Sainte-Marie, această parte a plajei oferă o oportunitate minunată de a experimenta coasta Noii Caledonii. Există, de obicei, o atmosferă plăcută, neagitată, care invită oaspeții să zăbovească. Vizitatorii pot folosi timpul pentru a se plimba pe mal sau pentru a se bucura de soare stând pe nisip. O excursie târziu după-amiaza promite, de asemenea, o lumină deosebit de frumoasă.",
-                  "category": "recreational",
-                  "coords": [
-                        166.472278,
-                        -22.266288
-                  ]
-            },
-            {
-                  "name": "Maison Célières",
-                  "text": "Muzeu tip casă colonială cu mobilier original în Sainte Marie.",
-                  "category": "museum",
-                  "coords": [
-                        166.451262,
-                        -22.278097
-                  ]
-            },
             {
                   "name": "Maison de la Biodiversité",
                   "text": "Muzeu al biodiversității Noii Caledonii cu expoziții interactive în Sainte Marie.",
@@ -11843,144 +7188,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.468872,
                         -22.278695
                   ]
-            },
-            {
-                  "name": "Monument de la Promenade Pierre Vernier",
-                  "text": "Monument de piatră în cinstea lui Pierre Vernier pe promenada de pe mal în Sainte Marie.",
-                  "category": "historical",
-                  "coords": [
-                        166.460874,
-                        -22.306459
-                  ]
-            },
-            {
-                  "name": "Croix de Lorraine",
-                  "text": "Cruce mare de Lorena din piatră pe o înălțime în Sainte Marie.",
-                  "category": "historical",
-                  "coords": [
-                        166.447037,
-                        -22.279601
-                  ]
-            },
-            {
-                  "name": "Canons de Ouémo",
-                  "text": "Tunuri istorice din secolul al XIX-lea cu vedere spre golful Ouémo în Sainte Marie.",
-                  "category": "historical",
-                  "coords": [
-                        166.480239,
-                        -22.277106
-                  ]
-            },
-            {
-                  "name": "Magenta",
-                  "text": "Pădure de mangrove de coastă cu trasee de plimbare în Sainte Marie.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
-                  ]
-            },
-            {
-                  "name": "Centre de Danse Jean-Yves Arroyo",
-                  "text": "Școală de dans fondată de coregraful Jean-Yves Arroyo în Sainte Marie.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44978,
-                        -22.2934
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Aeroclub cu o pistă de iarbă și întreținere aeronave în Sainte Marie.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Casă tradițională kanak (case) cu acoperiș de paie în suburbia Sainte Marie.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
-                  "text": "Monument obelisc pentru victimele Primului Război Mondial în Piața Bir Hakeim din Sainte Marie.",
-                  "category": "historical",
-                  "coords": [
-                        166.447899,
-                        -22.27413
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Biserică în centrul orașului Sainte Marie.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Biserica Sfânta Ana din Sainte Marie.",
-                  "category": "religious",
-                  "coords": [
-                        166.472492,
-                        -22.268703
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "Zoo and forest park with local birds and reptiles in Sainte Marie.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Block 72",
-                  "text": "Cultural venue in a converted concrete block building in Sainte Marie.",
-                  "category": "cultural",
-                  "coords": [
-                        166.455057,
-                        -22.269563
-                  ]
-            },
-            {
-                  "name": "Théâtre de Poche",
-                  "text": "Intimate theatre with only 50 seats in Sainte Marie.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44871,
-                        -22.277058
-                  ]
-            },
-            {
-                  "name": "Magenta Beach",
-                  "text": "Located in Sainte-Marie, this portion of the beach offers a wonderful opportunity to experience the coast of New Caledonia. There is usually a pleasant, unhurried atmosphere that invites guests to linger. Visitors can spend their time walking along the shore or soaking up the sun on the sand. Planning a trip for the late afternoon also promises especially beautiful lighting.",
-                  "category": "recreational",
-                  "coords": [
-                        166.472278,
-                        -22.266288
-                  ]
-            },
-            {
-                  "name": "Maison Célières",
-                  "text": "Colonial-era house museum with original furnishings in Sainte Marie.",
-                  "category": "museum",
-                  "coords": [
-                        166.451262,
-                        -22.278097
-                  ]
-            },
             {
                   "name": "Maison de la Biodiversité",
                   "text": "Biodiversity museum of New Caledonia with interactive exhibits in Sainte Marie.",
@@ -11988,96 +7198,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.468872,
                         -22.278695
-                  ]
-            },
-            {
-                  "name": "Monument de la Promenade Pierre Vernier",
-                  "text": "Stone monument honouring Pierre Vernier on the seaside promenade in Sainte Marie.",
-                  "category": "historical",
-                  "coords": [
-                        166.460874,
-                        -22.306459
-                  ]
-            },
-            {
-                  "name": "Croix de Lorraine",
-                  "text": "Large Lorraine cross made of stone on a hilltop in Sainte Marie.",
-                  "category": "historical",
-                  "coords": [
-                        166.447037,
-                        -22.279601
-                  ]
-            },
-            {
-                  "name": "Canons de Ouémo",
-                  "text": "Historic 19th-century cannons overlooking Ouémo Bay in Sainte Marie.",
-                  "category": "historical",
-                  "coords": [
-                        166.480239,
-                        -22.277106
-                  ]
-            },
-            {
-                  "name": "Magenta",
-                  "text": "Coastal mangrove forest with walking trails in Sainte Marie.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
-                  ]
-            },
-            {
-                  "name": "Centre de Danse Jean-Yves Arroyo",
-                  "text": "Dance school founded by choreographer Jean-Yves Arroyo in Sainte Marie.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44978,
-                        -22.2934
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Flying club with a grass airstrip and aircraft maintenance in Sainte Marie.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Traditional Kanak house (case) with thatched roof in the suburb of Sainte Marie.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
-                  "text": "Obelisk-shaped war memorial for WWI fallen on Place Bir Hakeim in Sainte Marie.",
-                  "category": "historical",
-                  "coords": [
-                        166.447899,
-                        -22.27413
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Church in the centre of Sainte Marie.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Saint Anne's Church in Sainte Marie.",
-                  "category": "religious",
-                  "coords": [
-                        166.472492,
-                        -22.268703
                   ]
             }
       ]
@@ -12129,48 +7249,12 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-ouemo-pointe-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Centre Culturel Tjibaou",
-                  "text": "Das Jean-Marie Tjibaou Cultural Centre ist ein Museum in Pointe d'Ouémo. Es wurde von dem renommierten Architekten Renzo Piano entworfen.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
-            {
-                  "name": "Plage de Magenta",
-                  "text": "Als beliebter Treffpunkt in Pointe d'Ouémo zieht dieser Strandabschnitt zahlreiche Erholungssuchende an. Die lebhafte und zugleich entspannte Atmosphäre macht den Ort zu einem schönen Ziel in Neukaledonien. Ein Sonnenbad am Strand oder ein Spaziergang am Ufer stehen hier im Mittelpunkt des Besuchs. Es ist ratsam, außerhalb der Stoßzeiten zu kommen, um die Umgebung in Ruhe zu genießen.",
-                  "category": "recreational",
-                  "coords": [
-                        166.472278,
-                        -22.266288
-                  ]
-            },
-            {
-                  "name": "Maison de la Biodiversité",
-                  "text": "Museum zur Biodiversität mit Schwerpunkt auf der Inselwelt Neukaledoniens nahe Ouemo Pointe.",
-                  "category": "museum",
-                  "coords": [
-                        166.468872,
-                        -22.278695
-                  ]
-            },
-            {
                   "name": "Canons de Ouémo",
                   "text": "Alte Kanonen aus der Kolonialzeit, aufgestellt am Strand von Ouémo in Ouemo Pointe.",
                   "category": "historical",
                   "coords": [
                         166.480239,
                         -22.277106
-                  ]
-            },
-            {
-                  "name": "Magenta",
-                  "text": "Naturschutzgebiet mit dichtem Küstenwald und Vogelbeobachtungspunkten in Ouemo Pointe.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
                   ]
             },
             {
@@ -12181,72 +7265,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.503859,
                         -22.274156
                   ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Flugclub mit Hangar und Flugschule in Ouemo Pointe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "Rundes traditionelles Kanak-Haus mit konischem Strohdach in Ouemo Pointe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Die Case 10 vinimöi ist eine Sehenswürdigkeit in Pointe d'Ouémo.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Kirche gewidmet der Heiligen Anna in Ouemo Pointe.",
-                  "category": "religious",
-                  "coords": [
-                        166.472492,
-                        -22.268703
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Centre Culturel Tjibaou",
-                  "text": "A Jean-Marie Tjibaou Cultural Centre egy múzeum Pointe d'Ouémo városában. Az épületet a híres építész, Renzo Piano tervezte.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
-            {
-                  "name": "Plage de Magenta",
-                  "text": "A Pointe d'Ouémo népszerű találkozóhelyeként ez a strandszakasz számos pihenni vágyót vonz. Az élénk, mégis nyugodt légkör csodálatos úti céllá teszi a helyet Új-Kaledóniában. A tengerparti napozás vagy a part menti séta jelenti az itteni látogatás fénypontját. Érdemes a csúcsidőn kívül érkezni, hogy békésen élvezhessük a környezetet.",
-                  "category": "recreational",
-                  "coords": [
-                        166.472278,
-                        -22.266288
-                  ]
-            },
-            {
-                  "name": "Maison de la Biodiversité",
-                  "text": "Biodiverzitás múzeum Új-Kaledónia szigetvilágára összpontosítva Ouemo Pointe közelében.",
-                  "category": "museum",
-                  "coords": [
-                        166.468872,
-                        -22.278695
-                  ]
-            },
             {
                   "name": "Canons de Ouémo",
                   "text": "Gyarmati kori régi ágyúk az Ouémo parton Ouemo Pointe-ban.",
@@ -12257,15 +7278,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Magenta",
-                  "text": "Természetvédelmi terület sűrű parti erdővel és madármegfigyelő pontokkal Ouemo Pointe-ban.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
-                  ]
-            },
-            {
                   "name": "Ilot Tué",
                   "text": "Kis lakatlan sziget fehér homokos strandokkal Ouemo Pointe előtt.",
                   "category": "natural",
@@ -12273,72 +7285,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.503859,
                         -22.274156
                   ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Repülőklub hangárral és repülőiskolával Ouemo Pointe-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "Kerek, hagyományos kanak ház kúpos nádtetővel Ouemo Pointe-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "A Case 10 vinimöi egy látványosság Pointe d'Ouémo városában.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Szent Anna templom Ouemo Pointében.",
-                  "category": "religious",
-                  "coords": [
-                        166.472492,
-                        -22.268703
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Centre Culturel Tjibaou",
-                  "text": "Jean-Marie Tjibaou Cultural Centre este un muzeu în Pointe d'Ouémo. Acesta a fost proiectat de renumitul arhitect Renzo Piano.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
-            {
-                  "name": "Plage de Magenta",
-                  "text": "Ca punct de întâlnire popular în Pointe d'Ouémo, această plajă atrage numeroși oameni în căutare de relaxare. Atmosfera plină de viață, dar relaxată face ca locul să fie o destinație minunată în Noua Caledonie. Făcutul plajei pe nisip sau o plimbare de-a lungul coastei sunt principalele atracții ale unei vizite aici. Este recomandabil să veniți în afara orelor de vârf pentru a vă bucura de zonă în liniște.",
-                  "category": "recreational",
-                  "coords": [
-                        166.472278,
-                        -22.266288
-                  ]
-            },
-            {
-                  "name": "Maison de la Biodiversité",
-                  "text": "Muzeu al biodiversității cu accent pe insulele Noii Caledonii lângă Ouemo Pointe.",
-                  "category": "museum",
-                  "coords": [
-                        166.468872,
-                        -22.278695
-                  ]
-            },
             {
                   "name": "Canons de Ouémo",
                   "text": "Tunuri vechi din perioada colonială amplasate pe plaja Ouémo în Ouemo Pointe.",
@@ -12349,15 +7298,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Magenta",
-                  "text": "Arie naturală protejată cu pădure de coastă densă și puncte de observare a păsărilor în Ouemo Pointe.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
-                  ]
-            },
-            {
                   "name": "Ilot Tué",
                   "text": "Insuliță nelocuită cu plaje de nisip alb în fața Ouemo Pointe.",
                   "category": "natural",
@@ -12365,72 +7305,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.503859,
                         -22.274156
                   ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Aeroclub cu hangar și școală de zbor în Ouemo Pointe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "Casă tradițională kanak rotundă cu acoperiș conic de paie în Ouemo Pointe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Case 10 vinimöi este o atracție turistică în Pointe d'Ouémo.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Biserica Sfânta Ana din Ouemo Pointe.",
-                  "category": "religious",
-                  "coords": [
-                        166.472492,
-                        -22.268703
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Jean-Marie Tjibaou Cultural Centre",
-                  "text": "Jean-Marie Tjibaou Cultural Centre is a museum in Pointe d'Ouémo. It was famously designed by the architect Renzo Piano.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
-            {
-                  "name": "Magenta Beach",
-                  "text": "As a popular gathering spot in Pointe d'Ouémo, this section of the beach attracts many looking for relaxation. The lively yet laid-back atmosphere makes the location a lovely destination in New Caledonia. Sunbathing on the sand or taking a walk along the shore are the main highlights of a visit here. It is advisable to come outside of peak hours to enjoy the surroundings in peace.",
-                  "category": "recreational",
-                  "coords": [
-                        166.472278,
-                        -22.266288
-                  ]
-            },
-            {
-                  "name": "Maison de la Biodiversité",
-                  "text": "Biodiversity museum focusing on New Caledonia's island ecosystems near Ouemo Pointe.",
-                  "category": "museum",
-                  "coords": [
-                        166.468872,
-                        -22.278695
-                  ]
-            },
             {
                   "name": "Canons de Ouémo",
                   "text": "Old colonial cannons placed on Ouémo beach in Ouemo Pointe.",
@@ -12441,57 +7318,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Magenta",
-                  "text": "Nature reserve with dense coastal forest and birdwatching points in Ouemo Pointe.",
-                  "category": "natural",
-                  "coords": [
-                        166.466763,
-                        -22.268201
-                  ]
-            },
-            {
                   "name": "Ilot Tué",
                   "text": "Small uninhabited islet with white sand beaches off Ouemo Pointe.",
                   "category": "natural",
                   "coords": [
                         166.503859,
                         -22.274156
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Flying club with hangar and flight school in Ouemo Pointe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "Round traditional Kanak house with conical thatched roof in Ouemo Pointe.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Case 10 vinimöi is an attraction located in Pointe d'Ouémo.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Saint Anne's Church in Ouemo Pointe.",
-                  "category": "religious",
-                  "coords": [
-                        166.472492,
-                        -22.268703
                   ]
             }
       ]
@@ -12543,147 +7375,12 @@ export const newcaledoniaCitiesV2: POI[] = [
     id: "newcaledonia-vallee-des-colons-east-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "Zoo und Wildpark Michel Corbasson bei Vallée des Colons Est.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Fédération de Œuvres Laiques FOL",
-                  "text": "Kulturzentrum der laizistischen Bildungsvereinigung FOL im Tal Vallee Des Colons East.",
-                  "category": "cultural",
-                  "coords": [
-                        166.445508,
-                        -22.272048
-                  ]
-            },
-            {
-                  "name": "Block 72",
-                  "text": "Kulturelle Veranstaltungsstätte in einem ehemaligen Militärlager in Vallee Des Colons East.",
-                  "category": "cultural",
-                  "coords": [
-                        166.455057,
-                        -22.269563
-                  ]
-            },
-            {
-                  "name": "Théâtre de Poche",
-                  "text": "Kleines Kammertheater mit intimer Atmosphäre in Vallee Des Colons East.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44871,
-                        -22.277058
-                  ]
-            },
-            {
-                  "name": "Parc Forestier et Zooligique",
-                  "text": "Waldpark mit kleinem Zoo und Picknickplätzen in Vallee Des Colons East.",
-                  "category": "family",
-                  "coords": [
-                        166.457819,
-                        -22.256315
-                  ]
-            },
-            {
-                  "name": "Musée de la Ville",
-                  "text": "Stadtmuseum mit Ausstellungen zur Geschichte Nouméas in Vallee Des Colons East.",
-                  "category": "museum",
-                  "coords": [
-                        166.442216,
-                        -22.270467
-                  ]
-            },
-            {
-                  "name": "Manege",
-                  "text": "Historisches Karussell mit handgemalten Pferden für Kinder in Vallee Des Colons East.",
-                  "category": "family",
-                  "coords": [
-                        166.442016,
-                        -22.277051
-                  ]
-            },
-            {
-                  "name": "Centre Culturel Tjibaou",
-                  "text": "Jean-Marie Tjibaou Kulturzentrum bei Vallée des Colons Est.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
-            {
                   "name": "Plage de Magenta",
                   "text": "Dieser Teil des Strandes befindet sich in Vallée des Colons Est und fügt sich malerisch in die Küstenlinie ein. Das Ambiente ist typischerweise einladend und friedlich, passend für das entspannte Inselleben. Man kann entspannte Momente beim Sonnenbaden verbringen oder die Aussicht bei einem Spaziergang auskosten. Ein Ausflug an sonnigen Tagen verspricht das beste Erlebnis.",
                   "category": "recreational",
                   "coords": [
                         166.472278,
                         -22.266288
-                  ]
-            },
-            {
-                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
-                  "text": "Museum über den Zweiten Weltkrieg im Pazifik mit authentischen Militärfahrzeugen in Vallee Des Colons East.",
-                  "category": "museum",
-                  "coords": [
-                        166.43939,
-                        -22.268318
-                  ]
-            },
-            {
-                  "name": "Maison Célières",
-                  "text": "Kolonialvilla aus dem 19. Jahrhundert, heute Museum mit Garten in Vallee Des Colons East.",
-                  "category": "museum",
-                  "coords": [
-                        166.451262,
-                        -22.278097
-                  ]
-            },
-            {
-                  "name": "Maison Higginson",
-                  "text": "Historisches Wohnhaus des Plantagenbesitzers Higginson, heute Museum in Vallee Des Colons East.",
-                  "category": "museum",
-                  "coords": [
-                        166.44355,
-                        -22.269291
-                  ]
-            },
-            {
-                  "name": "Maison de la Biodiversité",
-                  "text": "Biodiversitätsmuseum mit lebenden Schmetterlingen und tropischen Pflanzen in Vallee Des Colons East.",
-                  "category": "museum",
-                  "coords": [
-                        166.468872,
-                        -22.278695
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "Vietnamesisches Kulturzentrum mit traditioneller Pagode und Teezeremonien in Vallee Des Colons East.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Croix de Lorraine",
-                  "text": "Das Croix de Lorraine ist ein bedeutendes historisches Denkmal im Osten des Vallée des Colons. Besucher Neukaledoniens können diese Gedenkstätte besichtigen, die als eindringliche Erinnerung an die Vergangenheit der Region dient.",
-                  "category": "historical",
-                  "coords": [
-                        166.447037,
-                        -22.279601
-                  ]
-            },
-            {
-                  "name": "Canons de Ouémo",
-                  "text": "Geschichtsinteressierte, die den Osten des Vallée des Colons besuchen, werden die Canons de Ouémo entdecken. Dieses historische Denkmal bietet einen greifbaren Einblick in das militärische Erbe, das in Neukaledonien hinterlassen wurde.",
-                  "category": "historical",
-                  "coords": [
-                        166.480239,
-                        -22.277106
                   ]
             },
             {
@@ -12696,123 +7393,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Point de vue Montravel",
-                  "text": "Aussichtspunkt auf dem Hügel Montravel mit Panoramablick über Nouméa und die Lagune in Vallee Des Colons East.",
-                  "category": "natural",
-                  "coords": [
-                        166.453509,
-                        -22.256348
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Der Aeroclub Calédonien fungiert als markantes lokales Wahrzeichen im Osten des Vallée des Colons. Wer diese neukaledonische Stadt erkundet, wird diese luftfahrtbezogene Attraktion auf seinen Reisen leicht entdecken.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Mont Te",
-                  "text": "Vulkanischer Berggipfel mit Wanderwegen durch tropischen Wald in Vallee Des Colons East.",
-                  "category": "natural",
-                  "coords": [
-                        166.459627,
-                        -22.251908
-                  ]
-            },
-            {
-                  "name": "Stèle aux Disparus de la Monique",
-                  "text": "Die Stèle aux Disparus de la Monique befindet sich im Osten des Vallée des Colons und ist ein feierliches historisches Denkmal. Es bietet Besuchern in Neukaledonien einen ruhigen Ort, um über den gedenkenden Zweck der Stätte nachzudenken.",
-                  "category": "historical",
-                  "coords": [
-                        166.439781,
-                        -22.274922
-                  ]
-            },
-            {
-                  "name": "Odyssey Diving",
-                  "text": "Odyssey Diving ist als bemerkenswertes Reiseziel und Wahrzeichen im Osten des Vallée des Colons anerkannt. Touristen, die durch Neukaledonien reisen, können diese Attraktion auf der Suche nach regionalen maritimen Sehenswürdigkeiten finden.",
-                  "category": "landmark",
-                  "coords": [
-                        166.441074,
-                        -22.276434
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "Die Case traditionnelle präsentiert indigene Architektur als kulturell bedeutsames Wahrzeichen im Osten des Vallée des Colons. Wer diesen Teil Neukaledoniens besucht, kann eine authentische Darstellung der traditionellen regionalen Baustile erwarten.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Die Case 10 vinimöi in der Stadt East Vallee Des Colons ist ein faszinierendes lokales Wahrzeichen. Die Erkundung dieser Attraktion vermittelt Reisenden einen Eindruck von der besonderen Anlage und den Merkmalen in Neukaledonien.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Le Rex",
-                  "text": "Historisches Kino im Art-déco-Stil mit regelmäßigen Filmvorführungen in Vallee Des Colons East.",
-                  "category": "cultural",
-                  "coords": [
-                        166.444464,
-                        -22.274017
-                  ]
-            },
-            {
-                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
-                  "text": "Das Monument aux Morts 14-18 de la Place Bir Hakeim nimmt im Osten des Vallée des Colons einen Ehrenplatz ein und ist eine ergreifende historische Gedenkstätte. Es lädt Besucher in Neukaledonien dazu ein, innezuhalten und der vom Ersten Weltkrieg Betroffenen zu gedenken.",
-                  "category": "historical",
-                  "coords": [
-                        166.447899,
-                        -22.27413
-                  ]
-            },
-            {
-                  "name": "Mémoire des Gendarmes et Militaires",
-                  "text": "Das Mémoire des Gendarmes et Militaires ist ein historisches Denkmal in East Vallée des Colons. Es erinnert an Gendarmen und Militärangehörige in Neukaledonien. Besucher finden hier einen ruhigen Ort des Gedenkens innerhalb der Stadt.",
-                  "category": "historical",
-                  "coords": [
-                        166.446951,
-                        -22.273696
-                  ]
-            },
-            {
-                  "name": "Ancien reservoir",
-                  "text": "Alter Steinwassertank aus der Kolonialzeit, heute Aussichtsplattform in Vallee Des Colons East.",
-                  "category": "historical",
-                  "coords": [
-                        166.460273,
-                        -22.248022
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Die Église Saint-Jean-Baptiste dient als lokales Gotteshaus im Stadtteil East Vallée des Colons. Diese religiöse Stätte prägt das spirituelle Leben in diesem Teil Neukaledoniens. Reisende können das Gebäude bei einem Spaziergang durch die Nachbarschaft besichtigen.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Cathédrale Saint-Joseph",
-                  "text": "Als bedeutendes religiöses Bauwerk erhebt sich die Cathédrale Saint-Joseph in East Vallée des Colons. Dieses Gotteshaus in Neukaledonien bietet einen Ort für Gebet und innere Einkehr. Gäste erwartet eine würdevolle Atmosphäre, die zur Besinnung einlädt.",
-                  "category": "religious",
-                  "coords": [
-                        166.444608,
-                        -22.272778
-                  ]
-            },
-            {
                   "name": "Église Sainte-Anne",
                   "text": "Inmitten von East Vallée des Colons befindet sich die Église Sainte-Anne. Das religiöse Gebäude ist ein Treffpunkt für Gläubige in diesem Gebiet Neukaledoniens. Wer die Gegend erkundet, trifft auf ein beschauliches Gotteshaus.",
                   "category": "religious",
@@ -12820,90 +7400,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.472492,
                         -22.268703
                   ]
-            },
-            {
-                  "name": "Église du Bon-Pasteur",
-                  "text": "Die Église du Bon-Pasteur ist eine weitere spirituelle Einrichtung in East Vallée des Colons. Besucher Neukaledoniens können dieses religiöse Zentrum besuchen, um einen Moment der Ruhe zu genießen. Es fügt sich harmonisch in das Bild des Stadtteils ein.",
-                  "category": "religious",
-                  "coords": [
-                        166.446757,
-                        -22.261025
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "Michel Corbasson Állatkert és Vadaspark Vallée des Colons Est közelében.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Fédération de Œuvres Laiques FOL",
-                  "text": "A világi oktatási szövetség FOL kulturális központja a Vallee Des Colons East-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        166.445508,
-                        -22.272048
-                  ]
-            },
-            {
-                  "name": "Block 72",
-                  "text": "Kulturális rendezvényhelyszín egykori katonai táborban Vallee Des Colons East-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        166.455057,
-                        -22.269563
-                  ]
-            },
-            {
-                  "name": "Théâtre de Poche",
-                  "text": "Kis kamaraszínház intim hangulattal Vallee Des Colons East-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44871,
-                        -22.277058
-                  ]
-            },
-            {
-                  "name": "Parc Forestier et Zooligique",
-                  "text": "Erdei park kis állatkerttel és piknikezőhelyekkel Vallee Des Colons East-ben.",
-                  "category": "family",
-                  "coords": [
-                        166.457819,
-                        -22.256315
-                  ]
-            },
-            {
-                  "name": "Musée de la Ville",
-                  "text": "Városi múzeum Nouméa történetének kiállításaival Vallee Des Colons East-ben.",
-                  "category": "museum",
-                  "coords": [
-                        166.442216,
-                        -22.270467
-                  ]
-            },
-            {
-                  "name": "Manege",
-                  "text": "Történelmi körhinta kézzel festett lovakkal gyerekeknek Vallee Des Colons East-ben.",
-                  "category": "family",
-                  "coords": [
-                        166.442016,
-                        -22.277051
-                  ]
-            },
-            {
-                  "name": "Centre Culturel Tjibaou",
-                  "text": "Jean-Marie Tjibaou kulturális központ Vallée des Colons Est közelében.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
             {
                   "name": "Plage de Magenta",
                   "text": "A Vallée des Colons Est területén található partszakasz festőien simul bele Új-Kaledónia partvonalába. A környezet jellemzően hívogató és békés, tökéletesen illeszkedve a sziget nyugodt életviteléhez. Pihentető pillanatokat tölthetünk el napozással, vagy sétálva gyönyörködhetünk a kilátásban. A napsütéses napokon tett kirándulások ígérik a legjobb élményt.",
@@ -12911,69 +7410,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.472278,
                         -22.266288
-                  ]
-            },
-            {
-                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
-                  "text": "Második világháborús múzeum a Csendes-óceán térségében, hiteles katonai járművekkel Vallee Des Colons East-ben.",
-                  "category": "museum",
-                  "coords": [
-                        166.43939,
-                        -22.268318
-                  ]
-            },
-            {
-                  "name": "Maison Célières",
-                  "text": "19. századi gyarmati villa, ma múzeum kerttel Vallee Des Colons East-ben.",
-                  "category": "museum",
-                  "coords": [
-                        166.451262,
-                        -22.278097
-                  ]
-            },
-            {
-                  "name": "Maison Higginson",
-                  "text": "Higginson ültetvényes történelmi lakóháza, ma múzeum Vallee Des Colons East-ben.",
-                  "category": "museum",
-                  "coords": [
-                        166.44355,
-                        -22.269291
-                  ]
-            },
-            {
-                  "name": "Maison de la Biodiversité",
-                  "text": "Biodiverzitás múzeum élő pillangókkal és trópusi növényekkel Vallee Des Colons East-ben.",
-                  "category": "museum",
-                  "coords": [
-                        166.468872,
-                        -22.278695
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "Vietnami kulturális központ hagyományos pagodával és teaceremóniákkal Vallee Des Colons East-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Croix de Lorraine",
-                  "text": "A Croix de Lorraine jelentős történelmi emlékmű East Vallee Des Colons területén. Az Új-Kaledóniába látogatók megtekinthetik ezt az emlékművet, amely a régió múltjának erőteljes emlékeztetőjeként szolgál.",
-                  "category": "historical",
-                  "coords": [
-                        166.447037,
-                        -22.279601
-                  ]
-            },
-            {
-                  "name": "Canons de Ouémo",
-                  "text": "Az East Vallee Des Colonsba látogató történelemrajongók felfedezhetik a Canons de Ouémo-t. Ez a történelmi emlékmű kézzelfogható bepillantást nyújt Új-Kaledónia hátrahagyott katonai örökségébe.",
-                  "category": "historical",
-                  "coords": [
-                        166.480239,
-                        -22.277106
                   ]
             },
             {
@@ -12986,123 +7422,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Point de vue Montravel",
-                  "text": "Kilátó a Montravel-hegyen, panorámás kilátással Nouméára és a lagúnára Vallee Des Colons East-ben.",
-                  "category": "natural",
-                  "coords": [
-                        166.453509,
-                        -22.256348
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Az Aeroclub Calédonien egy jellegzetes helyi nevezetességként működik East Vallee Des Colonsban. Az új-kaledóniai várost felfedezők utazásaik során könnyen észrevehetik ezt a repülés fókuszú látványosságot.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Mont Te",
-                  "text": "Vulkanikus hegycsúcs túraútvonalakkal trópusi erdőn át Vallee Des Colons East-ben.",
-                  "category": "natural",
-                  "coords": [
-                        166.459627,
-                        -22.251908
-                  ]
-            },
-            {
-                  "name": "Stèle aux Disparus de la Monique",
-                  "text": "Az East Vallee Des Colonsban található Stèle aux Disparus de la Monique egy ünnepélyes történelmi emlékmű. Csendes teret biztosít az Új-Kaledóniába látogatóknak, hogy elgondolkodjanak a helyszín megemlékezési célján.",
-                  "category": "historical",
-                  "coords": [
-                        166.439781,
-                        -22.274922
-                  ]
-            },
-            {
-                  "name": "Odyssey Diving",
-                  "text": "Az Odyssey Diving egy figyelemre méltó célpont és nevezetesség East Vallee Des Colons területén. Az Új-Kaledónián átutazó turisták a regionális tengeri nevezetességek keresése közben találhatnak rá erre a látványosságra.",
-                  "category": "landmark",
-                  "coords": [
-                        166.441074,
-                        -22.276434
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "A Case traditionnelle a bennszülött építészetet mutatja be, mint kulturális szempontból jelentős nevezetességet East Vallee Des Colonsban. Bárki, aki Új-Kaledónia ezen részére látogat, a hagyományos regionális építészeti stílusok hiteles megjelenítésére számíthat.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Az East Vallee Des Colons városában található Case 10 vinimöi egy érdekes helyi nevezetesség. Ennek a látványosságnak a felfedezése megismerteti az utazókkal Új-Kaledónia jellegzetes elrendezését és jellemzőit.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Le Rex",
-                  "text": "Történelmi Art deco mozi rendszeres filmvetítésekkel Vallee Des Colons East-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        166.444464,
-                        -22.274017
-                  ]
-            },
-            {
-                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
-                  "text": "Az East Vallee Des Colonsban kiemelt helyet foglaló Monument aux Morts 14-18 de la Place Bir Hakeim egy megrendítő történelmi emlékmű. Arra hívja az Új-Kaledóniába látogatókat, hogy álljanak meg és emlékezzenek az első világháború érintettjeire.",
-                  "category": "historical",
-                  "coords": [
-                        166.447899,
-                        -22.27413
-                  ]
-            },
-            {
-                  "name": "Mémoire des Gendarmes et Militaires",
-                  "text": "A Mémoire des Gendarmes et Militaires egy történelmi emlékmű East Vallée des Colons területén. Ez a neokaledóniai helyszín a csendőröknek és katonáknak állít emléket. Az ide látogatók egy csendes tiszteletadásra alkalmas helyet fedezhetnek fel.",
-                  "category": "historical",
-                  "coords": [
-                        166.446951,
-                        -22.273696
-                  ]
-            },
-            {
-                  "name": "Ancien reservoir",
-                  "text": "Régi kő víztartály a gyarmati korból, ma kilátóplatform Vallee Des Colons East-ben.",
-                  "category": "historical",
-                  "coords": [
-                        166.460273,
-                        -22.248022
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Az Église Saint-Jean-Baptiste egy helyi istentiszteleti hely East Vallée des Colons városrészben. Ez a vallási helyszín Új-Kaledónia közösségi életének szerves része. Az utazók nyugodt környezetben tekinthetik meg az épületet.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Cathédrale Saint-Joseph",
-                  "text": "Az East Vallée des Colons területén található Cathédrale Saint-Joseph egy jelentős vallási építmény. Új-Kaledóniában ez a templom az imádság és a lelki elmélyülés központjaként funkcionál. A látogatókat tiszteletteljes és elmélkedésre ösztönző légkör fogadja.",
-                  "category": "religious",
-                  "coords": [
-                        166.444608,
-                        -22.272778
-                  ]
-            },
-            {
                   "name": "Église Sainte-Anne",
                   "text": "East Vallée des Colons szívében helyezkedik el az Église Sainte-Anne. Ez a vallási épület a hívők fontos találkozóhelye Új-Kaledónia ezen részén. A környéket felfedezők egy békés és meghitt istentiszteleti helyet találhatnak itt.",
                   "category": "religious",
@@ -13110,90 +7429,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.472492,
                         -22.268703
                   ]
-            },
-            {
-                  "name": "Église du Bon-Pasteur",
-                  "text": "Az Église du Bon-Pasteur egy újabb vallási intézmény East Vallée des Colons negyedében. Új-Kaledónia látogatói megtekinthetik ezt az épületet, hogy egy pillanatnyi nyugalmat találjanak. A templom harmonikusan illeszkedik a helyi városképbe.",
-                  "category": "religious",
-                  "coords": [
-                        166.446757,
-                        -22.261025
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "Grădina zoologică și parcul forestier Michel Corbasson lângă Vallée des Colons Est.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Fédération de Œuvres Laiques FOL",
-                  "text": "Centru cultural al asociației laice de educație FOL în Vallee Des Colons East.",
-                  "category": "cultural",
-                  "coords": [
-                        166.445508,
-                        -22.272048
-                  ]
-            },
-            {
-                  "name": "Block 72",
-                  "text": "Locație culturală într-o fostă tabără militară în Vallee Des Colons East.",
-                  "category": "cultural",
-                  "coords": [
-                        166.455057,
-                        -22.269563
-                  ]
-            },
-            {
-                  "name": "Théâtre de Poche",
-                  "text": "Teatru de cameră mic cu atmosferă intimă în Vallee Des Colons East.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44871,
-                        -22.277058
-                  ]
-            },
-            {
-                  "name": "Parc Forestier et Zooligique",
-                  "text": "Parc forestier cu o mică grădină zoologică și zone de picnic în Vallee Des Colons East.",
-                  "category": "family",
-                  "coords": [
-                        166.457819,
-                        -22.256315
-                  ]
-            },
-            {
-                  "name": "Musée de la Ville",
-                  "text": "Muzeul orașului cu expoziții despre istoria Nouméa în Vallee Des Colons East.",
-                  "category": "museum",
-                  "coords": [
-                        166.442216,
-                        -22.270467
-                  ]
-            },
-            {
-                  "name": "Manege",
-                  "text": "Carusel istoric cu cai pictați manual pentru copii în Vallee Des Colons East.",
-                  "category": "family",
-                  "coords": [
-                        166.442016,
-                        -22.277051
-                  ]
-            },
-            {
-                  "name": "Centre Culturel Tjibaou",
-                  "text": "Centru cultural Jean-Marie Tjibaou lângă Vallée des Colons Est.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
             {
                   "name": "Plage de Magenta",
                   "text": "Această parte a plajei este situată în Vallée des Colons Est și se îmbină pitoresc cu linia coastei. Ambianta este de obicei primitoare și pașnică, potrivindu-se perfect cu viața relaxată de pe insulă. Oaspeții pot petrece momente relaxante făcând plajă sau savurând priveliștea în timpul unei plimbări. O excursie în zilele însorite promite cea mai bună experiență.",
@@ -13201,69 +7439,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.472278,
                         -22.266288
-                  ]
-            },
-            {
-                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
-                  "text": "Muzeu al celui de-al Doilea Război Mondial în Pacific cu vehicule militare autentice în Vallee Des Colons East.",
-                  "category": "museum",
-                  "coords": [
-                        166.43939,
-                        -22.268318
-                  ]
-            },
-            {
-                  "name": "Maison Célières",
-                  "text": "Vilă colonială din secolul al XIX-lea, acum muzeu cu grădină în Vallee Des Colons East.",
-                  "category": "museum",
-                  "coords": [
-                        166.451262,
-                        -22.278097
-                  ]
-            },
-            {
-                  "name": "Maison Higginson",
-                  "text": "Casă istorică a plantaatorului Higginson, acum muzeu în Vallee Des Colons East.",
-                  "category": "museum",
-                  "coords": [
-                        166.44355,
-                        -22.269291
-                  ]
-            },
-            {
-                  "name": "Maison de la Biodiversité",
-                  "text": "Muzeu al biodiversității cu fluturi vii și plante tropicale în Vallee Des Colons East.",
-                  "category": "museum",
-                  "coords": [
-                        166.468872,
-                        -22.278695
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "Centru cultural vietnamez cu pagodă tradițională și ceremonii ale ceaiului în Vallee Des Colons East.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Croix de Lorraine",
-                  "text": "Croix de Lorraine este un monument istoric semnificativ în East Vallee Des Colons. Vizitatorii din Noua Caledonie pot vedea acest memorial, care servește ca o amintire puternică a trecutului regiunii.",
-                  "category": "historical",
-                  "coords": [
-                        166.447037,
-                        -22.279601
-                  ]
-            },
-            {
-                  "name": "Canons de Ouémo",
-                  "text": "Entuziaștii de istorie care vizitează East Vallee Des Colons vor descoperi Canons de Ouémo. Acest monument istoric oferă o privire tangibilă asupra moștenirii militare lăsate în Noua Caledonie.",
-                  "category": "historical",
-                  "coords": [
-                        166.480239,
-                        -22.277106
                   ]
             },
             {
@@ -13276,123 +7451,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Point de vue Montravel",
-                  "text": "Punct de belvedere pe dealul Montravel cu vedere panoramică asupra Nouméa și lagunei în Vallee Des Colons East.",
-                  "category": "natural",
-                  "coords": [
-                        166.453509,
-                        -22.256348
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Aeroclub Calédonien funcționează ca un reper local distinctiv în East Vallee Des Colons. Cei care explorează acest oraș din Noua Caledonie vor observa cu ușurință această atracție axată pe aviație în timpul călătoriilor lor.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Mont Te",
-                  "text": "Vârf muntos vulcanic cu trasee de drumeție prin pădure tropicală în Vallee Des Colons East.",
-                  "category": "natural",
-                  "coords": [
-                        166.459627,
-                        -22.251908
-                  ]
-            },
-            {
-                  "name": "Stèle aux Disparus de la Monique",
-                  "text": "Situată în East Vallee Des Colons, Stèle aux Disparus de la Monique este un monument istoric solemn. Oferă vizitatorilor un spațiu liniștit în Noua Caledonie pentru a reflecta asupra scopului comemorativ al sitului.",
-                  "category": "historical",
-                  "coords": [
-                        166.439781,
-                        -22.274922
-                  ]
-            },
-            {
-                  "name": "Odyssey Diving",
-                  "text": "Odyssey Diving este recunoscută ca o destinație și un punct de reper notabil în East Vallee Des Colons. Turiștii care călătoresc prin Noua Caledonie pot găsi această atracție în timp ce caută puncte de interes maritim regionale.",
-                  "category": "landmark",
-                  "coords": [
-                        166.441074,
-                        -22.276434
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "Case traditionnelle prezintă arhitectura indigenă ca un punct de reper semnificativ din punct de vedere cultural în East Vallee Des Colons. Oricine vizitează această parte a Noii Caledonii se poate aștepta să vadă o reprezentare autentică a stilurilor de construcție regionale obișnuite.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Situată în orașul East Vallee Des Colons, Case 10 vinimöi reprezintă un punct de reper local intrigant. Explorarea acestei atracții le oferă călătorilor un sentiment al aspectului și caracteristicilor distincte prezente în Noua Caledonie.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Le Rex",
-                  "text": "Cinematograf istoric în stil Art Deco cu proiecții regulate în Vallee Des Colons East.",
-                  "category": "cultural",
-                  "coords": [
-                        166.444464,
-                        -22.274017
-                  ]
-            },
-            {
-                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
-                  "text": "Ocupând un loc de cinste în East Vallee Des Colons, Monument aux Morts 14-18 de la Place Bir Hakeim este un memorial istoric emoționant. Acesta îi invită pe vizitatorii din Noua Caledonie să facă o pauză și să-și amintească de cei afectați de Primul Război Mondial.",
-                  "category": "historical",
-                  "coords": [
-                        166.447899,
-                        -22.27413
-                  ]
-            },
-            {
-                  "name": "Mémoire des Gendarmes et Militaires",
-                  "text": "Mémoire des Gendarmes et Militaires este un monument istoric situat în East Vallée des Colons. Această locație din Noua Caledonie onorează memoria jandarmilor și a personalului militar. Vizitatorii pot găsi aici un loc liniștit pentru reflecție și recunoștință.",
-                  "category": "historical",
-                  "coords": [
-                        166.446951,
-                        -22.273696
-                  ]
-            },
-            {
-                  "name": "Ancien reservoir",
-                  "text": "Rezervor de apă vechi din piatră din perioada colonială, acum platformă de observație în Vallee Des Colons East.",
-                  "category": "historical",
-                  "coords": [
-                        166.460273,
-                        -22.248022
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "Église Saint-Jean-Baptiste servește drept lăcaș de cult în zona East Vallée des Colons. Acest edificiu religios este o parte importantă a comunității din Noua Caledonie. Călătorii care trec prin cartier pot admira structura liniștită a bisericii.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Cathédrale Saint-Joseph",
-                  "text": "Fiind o structură religioasă importantă, Cathédrale Saint-Joseph se înalță în East Vallée des Colons. Acest lăcaș de cult din Noua Caledonie oferă un spațiu pentru rugăciune și liniște spirituală. Oaspeții pot experimenta o atmosferă solemnă, perfectă pentru meditație.",
-                  "category": "religious",
-                  "coords": [
-                        166.444608,
-                        -22.272778
-                  ]
-            },
-            {
                   "name": "Église Sainte-Anne",
                   "text": "În inima zonei East Vallée des Colons se află Église Sainte-Anne. Clădirea religioasă reprezintă un punct de întâlnire pentru credincioșii din această parte a Noii Caledonii. Cei care explorează cartierul vor descoperi un lăcaș de cult liniștit.",
                   "category": "religious",
@@ -13400,90 +7458,9 @@ export const newcaledoniaCitiesV2: POI[] = [
                         166.472492,
                         -22.268703
                   ]
-            },
-            {
-                  "name": "Église du Bon-Pasteur",
-                  "text": "Église du Bon-Pasteur este o altă instituție spirituală din cartierul East Vallée des Colons. Vizitatorii Noii Caledonii pot poposi la acest centru religios pentru a se bucura de un moment de liniște. Structura se integrează perfect în peisajul urban al zonei.",
-                  "category": "religious",
-                  "coords": [
-                        166.446757,
-                        -22.261025
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Parc Zoologique et Forestier Michel Corbasson",
-                  "text": "Michel Corbasson Zoo and Forest Park near Vallée des Colons Est.",
-                  "category": "family",
-                  "coords": [
-                        166.45697,
-                        -22.258123
-                  ]
-            },
-            {
-                  "name": "Fédération de Œuvres Laiques FOL",
-                  "text": "Cultural centre of the secular education association FOL in Vallee Des Colons East.",
-                  "category": "cultural",
-                  "coords": [
-                        166.445508,
-                        -22.272048
-                  ]
-            },
-            {
-                  "name": "Block 72",
-                  "text": "Cultural venue in a former military camp in Vallee Des Colons East.",
-                  "category": "cultural",
-                  "coords": [
-                        166.455057,
-                        -22.269563
-                  ]
-            },
-            {
-                  "name": "Théâtre de Poche",
-                  "text": "Small chamber theatre with intimate atmosphere in Vallee Des Colons East.",
-                  "category": "cultural",
-                  "coords": [
-                        166.44871,
-                        -22.277058
-                  ]
-            },
-            {
-                  "name": "Parc Forestier et Zooligique",
-                  "text": "Forest park with small zoo and picnic areas in Vallee Des Colons East.",
-                  "category": "family",
-                  "coords": [
-                        166.457819,
-                        -22.256315
-                  ]
-            },
-            {
-                  "name": "Musée de la Ville",
-                  "text": "City museum with exhibits on Nouméa's history in Vallee Des Colons East.",
-                  "category": "museum",
-                  "coords": [
-                        166.442216,
-                        -22.270467
-                  ]
-            },
-            {
-                  "name": "Manege",
-                  "text": "Historic carousel with hand-painted horses for children in Vallee Des Colons East.",
-                  "category": "family",
-                  "coords": [
-                        166.442016,
-                        -22.277051
-                  ]
-            },
-            {
-                  "name": "Jean-Marie Tjibaou Cultural Centre",
-                  "text": "Jean-Marie Tjibaou Cultural Centre near Vallée des Colons Est.",
-                  "category": "museum",
-                  "coords": [
-                        166.481842,
-                        -22.256307
-                  ]
-            },
             {
                   "name": "Magenta Beach",
                   "text": "Located in Vallée des Colons Est, this portion of the beach blends picturesquely into the coastline. The ambiance is typically inviting and peaceful, fitting perfectly with the relaxed island lifestyle. Guests can spend relaxing moments sunbathing or take in the views during a pleasant walk. Taking a trip here on a sunny day promises the best possible experience.",
@@ -13491,69 +7468,6 @@ export const newcaledoniaCitiesV2: POI[] = [
                   "coords": [
                         166.472278,
                         -22.266288
-                  ]
-            },
-            {
-                  "name": "Musée de la seconde guerre mondiale en Nouvelle-Calédonie",
-                  "text": "World War II museum in the Pacific with authentic military vehicles in Vallee Des Colons East.",
-                  "category": "museum",
-                  "coords": [
-                        166.43939,
-                        -22.268318
-                  ]
-            },
-            {
-                  "name": "Maison Célières",
-                  "text": "19th-century colonial villa, now a museum with garden in Vallee Des Colons East.",
-                  "category": "museum",
-                  "coords": [
-                        166.451262,
-                        -22.278097
-                  ]
-            },
-            {
-                  "name": "Maison Higginson",
-                  "text": "Historic home of planter Higginson, now a museum in Vallee Des Colons East.",
-                  "category": "museum",
-                  "coords": [
-                        166.44355,
-                        -22.269291
-                  ]
-            },
-            {
-                  "name": "Maison de la Biodiversité",
-                  "text": "Biodiversity museum with live butterflies and tropical plants in Vallee Des Colons East.",
-                  "category": "museum",
-                  "coords": [
-                        166.468872,
-                        -22.278695
-                  ]
-            },
-            {
-                  "name": "Amicale Vietnamienne",
-                  "text": "Vietnamese cultural centre with traditional pagoda and tea ceremonies in Vallee Des Colons East.",
-                  "category": "cultural",
-                  "coords": [
-                        166.474296,
-                        -22.24748
-                  ]
-            },
-            {
-                  "name": "Croix de Lorraine",
-                  "text": "The Croix de Lorraine stands as a significant historical monument in East Vallee Des Colons. Visitors to New Caledonia can view this memorial, which serves as a powerful reminder of the region's past.",
-                  "category": "historical",
-                  "coords": [
-                        166.447037,
-                        -22.279601
-                  ]
-            },
-            {
-                  "name": "Canons de Ouémo",
-                  "text": "History enthusiasts visiting East Vallee Des Colons will discover the Canons de Ouémo. This historical monument offers a tangible glimpse into the military legacy left behind in New Caledonia.",
-                  "category": "historical",
-                  "coords": [
-                        166.480239,
-                        -22.277106
                   ]
             },
             {
@@ -13566,138 +7480,12 @@ export const newcaledoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Point de vue Montravel",
-                  "text": "Viewpoint on Montravel hill with panoramic views over Nouméa and the lagoon in Vallee Des Colons East.",
-                  "category": "natural",
-                  "coords": [
-                        166.453509,
-                        -22.256348
-                  ]
-            },
-            {
-                  "name": "Aeroclub Calédonien",
-                  "text": "Aeroclub Calédonien operates as a distinctive local landmark in the East Vallee Des Colons. Those exploring this New Caledonian city will easily spot this aviation-focused attraction during their travels.",
-                  "category": "landmark",
-                  "coords": [
-                        166.474457,
-                        -22.259081
-                  ]
-            },
-            {
-                  "name": "Mont Te",
-                  "text": "Volcanic mountain peak with hiking trails through tropical forest in Vallee Des Colons East.",
-                  "category": "natural",
-                  "coords": [
-                        166.459627,
-                        -22.251908
-                  ]
-            },
-            {
-                  "name": "Stèle aux Disparus de la Monique",
-                  "text": "Located in East Vallee Des Colons, the Stèle aux Disparus de la Monique is a solemn historical monument. It provides visitors with a quiet space in New Caledonia to reflect on the commemorative purpose of the site.",
-                  "category": "historical",
-                  "coords": [
-                        166.439781,
-                        -22.274922
-                  ]
-            },
-            {
-                  "name": "Odyssey Diving",
-                  "text": "Odyssey Diving is recognized as a notable destination and landmark within East Vallee Des Colons. Tourists traveling through New Caledonia can find this attraction while seeking out regional maritime points of interest.",
-                  "category": "landmark",
-                  "coords": [
-                        166.441074,
-                        -22.276434
-                  ]
-            },
-            {
-                  "name": "Case traditionnelle",
-                  "text": "The Case traditionnelle showcases indigenous architecture as a culturally significant landmark in East Vallee Des Colons. Anyone visiting this part of New Caledonia can expect to see an authentic representation of customary regional building styles.",
-                  "category": "landmark",
-                  "coords": [
-                        166.482807,
-                        -22.256321
-                  ]
-            },
-            {
-                  "name": "Case 10 vinimöi",
-                  "text": "Situated in the city of East Vallee Des Colons, Case 10 vinimöi stands as an intriguing local landmark. Exploring this attraction gives travelers a sense of the distinct layout and features present in New Caledonia.",
-                  "category": "landmark",
-                  "coords": [
-                        166.481012,
-                        -22.257237
-                  ]
-            },
-            {
-                  "name": "Le Rex",
-                  "text": "Historic Art Deco cinema with regular film screenings in Vallee Des Colons East.",
-                  "category": "cultural",
-                  "coords": [
-                        166.444464,
-                        -22.274017
-                  ]
-            },
-            {
-                  "name": "Monument aux Morts 14-18 de la Place Bir Hakeim",
-                  "text": "Taking pride of place in East Vallee Des Colons, the Monument aux Morts 14-18 de la Place Bir Hakeim is a poignant historical memorial. It invites visitors in New Caledonia to pause and remember those affected by the First World War.",
-                  "category": "historical",
-                  "coords": [
-                        166.447899,
-                        -22.27413
-                  ]
-            },
-            {
-                  "name": "Mémoire des Gendarmes et Militaires",
-                  "text": "The Mémoire des Gendarmes et Militaires is a historical monument located in East Vallée des Colons. This site in New Caledonia honors the memory of gendarmes and military personnel. Visitors can expect a quiet place of remembrance within the city.",
-                  "category": "historical",
-                  "coords": [
-                        166.446951,
-                        -22.273696
-                  ]
-            },
-            {
-                  "name": "Ancien reservoir",
-                  "text": "Old stone water reservoir from colonial times, now a viewing platform in Vallee Des Colons East.",
-                  "category": "historical",
-                  "coords": [
-                        166.460273,
-                        -22.248022
-                  ]
-            },
-            {
-                  "name": "Église Saint-Jean-Baptiste",
-                  "text": "The Église Saint-Jean-Baptiste serves as a local place of worship in the East Vallée des Colons area. This religious building is a central part of community life in this part of New Caledonia. Passersby can appreciate its quiet presence while exploring the neighborhood.",
-                  "category": "religious",
-                  "coords": [
-                        166.452513,
-                        -22.271488
-                  ]
-            },
-            {
-                  "name": "Cathédrale Saint-Joseph",
-                  "text": "Standing as an important religious structure, the Cathédrale Saint-Joseph is situated in East Vallée des Colons. This house of worship in New Caledonia provides a space for prayer and spiritual reflection. Guests will find a dignified atmosphere that invites peaceful contemplation.",
-                  "category": "religious",
-                  "coords": [
-                        166.444608,
-                        -22.272778
-                  ]
-            },
-            {
                   "name": "Église Sainte-Anne",
                   "text": "Located in the heart of East Vallée des Colons is the Église Sainte-Anne. The religious building acts as a gathering place for worshippers in this region of New Caledonia. Those wandering through the neighborhood will encounter a tranquil house of prayer.",
                   "category": "religious",
                   "coords": [
                         166.472492,
                         -22.268703
-                  ]
-            },
-            {
-                  "name": "Église du Bon-Pasteur",
-                  "text": "The Église du Bon-Pasteur represents another spiritual site in East Vallée des Colons. Visitors to New Caledonia can stop by this religious center to enjoy a moment of peace. The church blends harmoniously into the everyday life of the district.",
-                  "category": "religious",
-                  "coords": [
-                        166.446757,
-                        -22.261025
                   ]
             }
       ]

@@ -794,86 +794,10 @@ export const poiExtraNamibiaEconomicV2: POI[] = [
      image: "/poi-images/otjihase-kupfermine-economic-v2.webp"},
   {
     id: "namdeb-oranjemund-economic-v2", "sights": {
-      "de": [
-            {
-                  "name": "Little Theatre",
-                  "text": "Diese kleine Innenbühne bietet einen kulturellen Veranstaltungsort für Aufführungen in der isolierten Diamantenminenstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        16.425072,
-                        -28.550815
-                  ]
-            },
-            {
-                  "name": "The Jasper House Museum",
-                  "text": "Dieses historische Gebäude bewahrt die Sozialgeschichte und die Artefakte der lokalen Diamantenabbau-Gemeinde.",
-                  "category": "museum",
-                  "coords": [
-                        16.427754,
-                        -28.552783
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Little Theatre",
-                  "text": "Ez a kis beltéri színpad kulturális helyszínt biztosít az előadások számára az elszigetelt gyémántbányász városban.",
-                  "category": "cultural",
-                  "coords": [
-                        16.425072,
-                        -28.550815
-                  ]
-            },
-            {
-                  "name": "The Jasper House Museum",
-                  "text": "Ez az örökségvédelmi épület a helyi gyémántbányász közösség társadalmi történelmét és tárgyi emlékeit őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        16.427754,
-                        -28.552783
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Little Theatre",
-                  "text": "Această mică scenă interioară oferă un spațiu cultural pentru spectacole în orașul izolat de extracție a diamantelor.",
-                  "category": "cultural",
-                  "coords": [
-                        16.425072,
-                        -28.550815
-                  ]
-            },
-            {
-                  "name": "The Jasper House Museum",
-                  "text": "Acest clădire de patrimoniu păstrează istoria socială și artefactele comunității locale de extracție a diamantelor.",
-                  "category": "museum",
-                  "coords": [
-                        16.427754,
-                        -28.552783
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Little Theatre",
-                  "text": "This small indoor stage provides a cultural venue for performances in the isolated diamond-mining town.",
-                  "category": "cultural",
-                  "coords": [
-                        16.425072,
-                        -28.550815
-                  ]
-            },
-            {
-                  "name": "The Jasper House Museum",
-                  "text": "This heritage building preserves the social history and artifacts of the local diamond mining community.",
-                  "category": "museum",
-                  "coords": [
-                        16.427754,
-                        -28.552783
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "industry",
     parent: "NA-KA",

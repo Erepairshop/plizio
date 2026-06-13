@@ -231,30 +231,12 @@ export const micronesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teroken",
-                  "text": "Ein Hügel auf der Insel Weno, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.852104,
-                        7.438677
-                  ]
-            },
-            {
                   "name": "Tonnachau",
                   "text": "Ein Hügel auf der Insel Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.849581,
                         7.456903
-                  ]
-            },
-            {
-                  "name": "Japanese War Memorial",
-                  "text": "Japanisches Kriegerdenkmal in Weno, errichtet im Februar 1980.",
-                  "category": "landmark",
-                  "coords": [
-                        151.841968,
-                        7.449697
                   ]
             },
             {
@@ -305,30 +287,12 @@ export const micronesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teroken",
-                  "text": "Egy domb Weno szigetén, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.852104,
-                        7.438677
-                  ]
-            },
-            {
                   "name": "Tonnachau",
                   "text": "Egy domb Weno szigetén, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.849581,
                         7.456903
-                  ]
-            },
-            {
-                  "name": "Japanese War Memorial",
-                  "text": "Japán háborús emlékmű Wenóban, 1980 februárjában állították.",
-                  "category": "landmark",
-                  "coords": [
-                        151.841968,
-                        7.449697
                   ]
             },
             {
@@ -379,30 +343,12 @@ export const micronesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teroken",
-                  "text": "Un deal pe insula Weno, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.852104,
-                        7.438677
-                  ]
-            },
-            {
                   "name": "Tonnachau",
                   "text": "Un deal pe insula Weno, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.849581,
                         7.456903
-                  ]
-            },
-            {
-                  "name": "Japanese War Memorial",
-                  "text": "Monumentul japonez de război din Weno, ridicat în februarie 1980.",
-                  "category": "landmark",
-                  "coords": [
-                        151.841968,
-                        7.449697
                   ]
             },
             {
@@ -453,30 +399,12 @@ export const micronesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teroken",
-                  "text": "A hill on Weno Island, Chuuk.",
-                  "category": "natural",
-                  "coords": [
-                        151.852104,
-                        7.438677
-                  ]
-            },
-            {
                   "name": "Tonnachau",
                   "text": "A hill on Weno Island, Chuuk.",
                   "category": "natural",
                   "coords": [
                         151.849581,
                         7.456903
-                  ]
-            },
-            {
-                  "name": "Japanese War Memorial",
-                  "text": "Japanese war memorial in Weno, erected in February 1980.",
-                  "category": "landmark",
-                  "coords": [
-                        151.841968,
-                        7.449697
                   ]
             },
             {
@@ -555,33 +483,6 @@ export const micronesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pohnpei Lidorkini Museum",
-                  "text": "Das Pohnpei Lidorkini Museum in Kolonia.",
-                  "category": "museum",
-                  "coords": [
-                        158.209722,
-                        6.964722
-                  ]
-            },
-            {
-                  "name": "Eel Pool",
-                  "text": "Ein familienfreundliches natürliches Becken mit Aalen in Kolonia.",
-                  "category": "family",
-                  "coords": [
-                        158.185119,
-                        6.976658
-                  ]
-            },
-            {
-                  "name": "Pohnpei Swimming Pool",
-                  "text": "Ein öffentliches Schwimmbad in Kolonia.",
-                  "category": "family",
-                  "coords": [
-                        158.207667,
-                        6.955703
-                  ]
-            },
-            {
                   "name": "Dolen Metipw",
                   "text": "Ein Berg auf der Insel Pohnpei, in der Nähe von Kolonia.",
                   "category": "natural",
@@ -591,93 +492,12 @@ export const micronesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pohn Dollen Net",
-                  "text": "Ein Berg auf der Insel Pohnpei, in der Nähe von Kolonia.",
-                  "category": "natural",
-                  "coords": [
-                        158.226111,
-                        6.961111
-                  ]
-            },
-            {
-                  "name": "Pohndolap",
-                  "text": "Sokehs Mountain, ein markanter Gipfel auf der Insel Pohnpei, in der Nähe von Kolonia.",
-                  "category": "natural",
-                  "coords": [
-                        158.189673,
-                        6.969504
-                  ]
-            },
-            {
                   "name": "Dolen Nier",
                   "text": "Ein Berg auf der Insel Pohnpei, in der Nähe von Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.196389,
                         6.951667
-                  ]
-            },
-            {
-                  "name": "German Bell Tower",
-                  "text": "Der German Tower ist eine historische Glockenturm-Attraktion in Kolonia. Er dient als markantes Überbleibsel der kolonialen Vergangenheit der Gegend.",
-                  "category": "landmark",
-                  "coords": [
-                        158.211438,
-                        6.968409
-                  ]
-            },
-            {
-                  "name": "Stone Look-Out",
-                  "text": "Ein natürlicher Steinaussichtspunkt in Kolonia.",
-                  "category": "natural",
-                  "coords": [
-                        158.190532,
-                        6.963979
-                  ]
-            },
-            {
-                  "name": "Rifle Pit",
-                  "text": "Eine historische Schützengrube in Kolonia.",
-                  "category": "historical",
-                  "coords": [
-                        158.18969,
-                        6.96649
-                  ]
-            },
-            {
-                  "name": "Kepindau Waterfall",
-                  "text": "Die Kepindau-Wasserfälle in Kolonia.",
-                  "category": "landmark",
-                  "coords": [
-                        158.185717,
-                        6.974778
-                  ]
-            },
-            {
-                  "name": "Cliff Face",
-                  "text": "Eine markante Klippenwand in Kolonia.",
-                  "category": "landmark",
-                  "coords": [
-                        158.190088,
-                        6.978359
-                  ]
-            },
-            {
-                  "name": "Pohn Pillap Waterfall",
-                  "text": "Der Pohn Pillap Wasserfall in Kolonia.",
-                  "category": "landmark",
-                  "coords": [
-                        158.182839,
-                        6.975266
-                  ]
-            },
-            {
-                  "name": "Japanese WW2 Tank Graveyard",
-                  "text": "Japanese WW2 Tank Graveyard ist eine historische Attraktion in Kolonia.",
-                  "category": "landmark",
-                  "coords": [
-                        158.216998,
-                        6.960347
                   ]
             }
       ],
@@ -692,33 +512,6 @@ export const micronesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pohnpei Lidorkini Museum",
-                  "text": "A Pohnpei Lidorkini Múzeum Koloniában.",
-                  "category": "museum",
-                  "coords": [
-                        158.209722,
-                        6.964722
-                  ]
-            },
-            {
-                  "name": "Eel Pool",
-                  "text": "Családbarát természetes medence angolnákkal Koloniában.",
-                  "category": "family",
-                  "coords": [
-                        158.185119,
-                        6.976658
-                  ]
-            },
-            {
-                  "name": "Pohnpei Swimming Pool",
-                  "text": "Nyilvános uszoda Koloniában.",
-                  "category": "family",
-                  "coords": [
-                        158.207667,
-                        6.955703
-                  ]
-            },
-            {
                   "name": "Dolen Metipw",
                   "text": "Egy hegy Pohnpei szigetén, Kolonia közelében.",
                   "category": "natural",
@@ -728,93 +521,12 @@ export const micronesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pohn Dollen Net",
-                  "text": "Egy hegy Pohnpei szigetén, Kolonia közelében.",
-                  "category": "natural",
-                  "coords": [
-                        158.226111,
-                        6.961111
-                  ]
-            },
-            {
-                  "name": "Pohndolap",
-                  "text": "Sokehs Mountain, egy kiemelkedő csúcs Pohnpei szigetén, Kolonia közelében.",
-                  "category": "natural",
-                  "coords": [
-                        158.189673,
-                        6.969504
-                  ]
-            },
-            {
                   "name": "Dolen Nier",
                   "text": "Egy hegy Pohnpei szigetén, Kolonia közelében.",
                   "category": "natural",
                   "coords": [
                         158.196389,
                         6.951667
-                  ]
-            },
-            {
-                  "name": "German Bell Tower",
-                  "text": "A German Tower egy történelmi harangtorony látványosság Kolonia-ban. A terület gyarmati múltjának kiemelkedő maradványaként szolgál.",
-                  "category": "landmark",
-                  "coords": [
-                        158.211438,
-                        6.968409
-                  ]
-            },
-            {
-                  "name": "Stone Look-Out",
-                  "text": "Természetes kő-kilátó Koloniában.",
-                  "category": "natural",
-                  "coords": [
-                        158.190532,
-                        6.963979
-                  ]
-            },
-            {
-                  "name": "Rifle Pit",
-                  "text": "Történelmi puskaárok Koloniában.",
-                  "category": "historical",
-                  "coords": [
-                        158.18969,
-                        6.96649
-                  ]
-            },
-            {
-                  "name": "Kepindau Waterfall",
-                  "text": "Kepindau-vízesés Koloniában.",
-                  "category": "landmark",
-                  "coords": [
-                        158.185717,
-                        6.974778
-                  ]
-            },
-            {
-                  "name": "Cliff Face",
-                  "text": "Egy feltűnő sziklafal Koloniában.",
-                  "category": "landmark",
-                  "coords": [
-                        158.190088,
-                        6.978359
-                  ]
-            },
-            {
-                  "name": "Pohn Pillap Waterfall",
-                  "text": "Pohn Pillap-vízesés Koloniában.",
-                  "category": "landmark",
-                  "coords": [
-                        158.182839,
-                        6.975266
-                  ]
-            },
-            {
-                  "name": "Japanese WW2 Tank Graveyard",
-                  "text": "A Japanese WW2 Tank Graveyard egy történelmi látványosság Kolonia városában.",
-                  "category": "landmark",
-                  "coords": [
-                        158.216998,
-                        6.960347
                   ]
             }
       ],
@@ -829,33 +541,6 @@ export const micronesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pohnpei Lidorkini Museum",
-                  "text": "Muzeul Pohnpei Lidorkini din Kolonia.",
-                  "category": "museum",
-                  "coords": [
-                        158.209722,
-                        6.964722
-                  ]
-            },
-            {
-                  "name": "Eel Pool",
-                  "text": "Un bazin natural prietenos cu familiile, populat de anghile în Kolonia.",
-                  "category": "family",
-                  "coords": [
-                        158.185119,
-                        6.976658
-                  ]
-            },
-            {
-                  "name": "Pohnpei Swimming Pool",
-                  "text": "O piscină publică în Kolonia.",
-                  "category": "family",
-                  "coords": [
-                        158.207667,
-                        6.955703
-                  ]
-            },
-            {
                   "name": "Dolen Metipw",
                   "text": "Un munte pe insula Pohnpei, lângă Kolonia.",
                   "category": "natural",
@@ -865,93 +550,12 @@ export const micronesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pohn Dollen Net",
-                  "text": "Un munte pe insula Pohnpei, lângă Kolonia.",
-                  "category": "natural",
-                  "coords": [
-                        158.226111,
-                        6.961111
-                  ]
-            },
-            {
-                  "name": "Pohndolap",
-                  "text": "Sokehs Mountain, un vârf proeminent pe insula Pohnpei, lângă Kolonia.",
-                  "category": "natural",
-                  "coords": [
-                        158.189673,
-                        6.969504
-                  ]
-            },
-            {
                   "name": "Dolen Nier",
                   "text": "Un munte pe insula Pohnpei, lângă Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.196389,
                         6.951667
-                  ]
-            },
-            {
-                  "name": "German Bell Tower",
-                  "text": "German Tower este o atracție turistică istorică, un turn cu clopot în Kolonia. Acesta servește drept o rămășiță proeminentă a trecutului colonial al zonei.",
-                  "category": "landmark",
-                  "coords": [
-                        158.211438,
-                        6.968409
-                  ]
-            },
-            {
-                  "name": "Stone Look-Out",
-                  "text": "Un punct de belvedere natural din piatră în Kolonia.",
-                  "category": "natural",
-                  "coords": [
-                        158.190532,
-                        6.963979
-                  ]
-            },
-            {
-                  "name": "Rifle Pit",
-                  "text": "O groapă de pușcă istorică în Kolonia.",
-                  "category": "historical",
-                  "coords": [
-                        158.18969,
-                        6.96649
-                  ]
-            },
-            {
-                  "name": "Kepindau Waterfall",
-                  "text": "Cascada Kepindau în Kolonia.",
-                  "category": "landmark",
-                  "coords": [
-                        158.185717,
-                        6.974778
-                  ]
-            },
-            {
-                  "name": "Cliff Face",
-                  "text": "O față de stâncă proeminentă în Kolonia.",
-                  "category": "landmark",
-                  "coords": [
-                        158.190088,
-                        6.978359
-                  ]
-            },
-            {
-                  "name": "Pohn Pillap Waterfall",
-                  "text": "Cascada Pohn Pillap în Kolonia.",
-                  "category": "landmark",
-                  "coords": [
-                        158.182839,
-                        6.975266
-                  ]
-            },
-            {
-                  "name": "Japanese WW2 Tank Graveyard",
-                  "text": "Japanese WW2 Tank Graveyard este o atracție istorică situată în Kolonia.",
-                  "category": "landmark",
-                  "coords": [
-                        158.216998,
-                        6.960347
                   ]
             }
       ],
@@ -966,33 +570,6 @@ export const micronesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pohnpei Lidorkini Museum",
-                  "text": "The Pohnpei Lidorkini Museum in Kolonia.",
-                  "category": "museum",
-                  "coords": [
-                        158.209722,
-                        6.964722
-                  ]
-            },
-            {
-                  "name": "Eel Pool",
-                  "text": "A family-friendly natural pool inhabited by eels in Kolonia.",
-                  "category": "family",
-                  "coords": [
-                        158.185119,
-                        6.976658
-                  ]
-            },
-            {
-                  "name": "Pohnpei Swimming Pool",
-                  "text": "A public swimming pool in Kolonia.",
-                  "category": "family",
-                  "coords": [
-                        158.207667,
-                        6.955703
-                  ]
-            },
-            {
                   "name": "Dolen Metipw",
                   "text": "A mountain on Pohnpei Island, near Kolonia.",
                   "category": "natural",
@@ -1002,93 +579,12 @@ export const micronesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pohn Dollen Net",
-                  "text": "A mountain on Pohnpei Island, near Kolonia.",
-                  "category": "natural",
-                  "coords": [
-                        158.226111,
-                        6.961111
-                  ]
-            },
-            {
-                  "name": "Sokehs Mountain",
-                  "text": "Sokehs Mountain, a prominent peak on Pohnpei Island, near Kolonia.",
-                  "category": "natural",
-                  "coords": [
-                        158.189673,
-                        6.969504
-                  ]
-            },
-            {
                   "name": "Dolen Nier",
                   "text": "A mountain on Pohnpei Island, near Kolonia.",
                   "category": "natural",
                   "coords": [
                         158.196389,
                         6.951667
-                  ]
-            },
-            {
-                  "name": "German Tower",
-                  "text": "German Tower is a historic belltower attraction in Kolonia. It serves as a prominent remnant of the area's colonial past.",
-                  "category": "landmark",
-                  "coords": [
-                        158.211438,
-                        6.968409
-                  ]
-            },
-            {
-                  "name": "Stone Look-Out",
-                  "text": "A natural stone lookout point in Kolonia.",
-                  "category": "natural",
-                  "coords": [
-                        158.190532,
-                        6.963979
-                  ]
-            },
-            {
-                  "name": "Rifle Pit",
-                  "text": "A historical rifle pit in Kolonia.",
-                  "category": "historical",
-                  "coords": [
-                        158.18969,
-                        6.96649
-                  ]
-            },
-            {
-                  "name": "Kepindau Falls",
-                  "text": "Kepindau Falls in Kolonia.",
-                  "category": "landmark",
-                  "coords": [
-                        158.185717,
-                        6.974778
-                  ]
-            },
-            {
-                  "name": "Cliff Face",
-                  "text": "A prominent cliff face in Kolonia.",
-                  "category": "landmark",
-                  "coords": [
-                        158.190088,
-                        6.978359
-                  ]
-            },
-            {
-                  "name": "Pohn Pillap Waterfall",
-                  "text": "Pohn Pillap Waterfall in Kolonia.",
-                  "category": "landmark",
-                  "coords": [
-                        158.182839,
-                        6.975266
-                  ]
-            },
-            {
-                  "name": "Japanese WW2 Tank Graveyard",
-                  "text": "Japanese WW2 Tank Graveyard is a historical attraction situated in Kolonia.",
-                  "category": "landmark",
-                  "coords": [
-                        158.216998,
-                        6.960347
                   ]
             }
       ]
@@ -1273,24 +769,6 @@ export const micronesiaCitiesV2: POI[] = [
                         163.025,
                         5.331667
                   ]
-            },
-            {
-                  "name": "Kosrae Museum",
-                  "text": "Das Kosrae-Museum in Tofol.",
-                  "category": "museum",
-                  "coords": [
-                        163.008563,
-                        5.325186
-                  ]
-            },
-            {
-                  "name": "Finol Finkol",
-                  "text": "Finol Finkol, ein Gipfel auf der Insel Kosrae, in der Nähe von Tofol.",
-                  "category": "natural",
-                  "coords": [
-                        162.991557,
-                        5.311234
-                  ]
             }
       ],
       "hu": [
@@ -1301,24 +779,6 @@ export const micronesiaCitiesV2: POI[] = [
                   "coords": [
                         163.025,
                         5.331667
-                  ]
-            },
-            {
-                  "name": "Kosrae Museum",
-                  "text": "A Kosrae Múzeum Tofolban.",
-                  "category": "museum",
-                  "coords": [
-                        163.008563,
-                        5.325186
-                  ]
-            },
-            {
-                  "name": "Finol Finkol",
-                  "text": "Finol Finkol, egy csúcs Kosrae szigetén, Tofol közelében.",
-                  "category": "natural",
-                  "coords": [
-                        162.991557,
-                        5.311234
                   ]
             }
       ],
@@ -1331,24 +791,6 @@ export const micronesiaCitiesV2: POI[] = [
                         163.025,
                         5.331667
                   ]
-            },
-            {
-                  "name": "Kosrae Museum",
-                  "text": "Muzeul Kosrae din Tofol.",
-                  "category": "museum",
-                  "coords": [
-                        163.008563,
-                        5.325186
-                  ]
-            },
-            {
-                  "name": "Finol Finkol",
-                  "text": "Finol Finkol, un vârf pe insula Kosrae, lângă Tofol.",
-                  "category": "natural",
-                  "coords": [
-                        162.991557,
-                        5.311234
-                  ]
             }
       ],
       "en": [
@@ -1359,24 +801,6 @@ export const micronesiaCitiesV2: POI[] = [
                   "coords": [
                         163.025,
                         5.331667
-                  ]
-            },
-            {
-                  "name": "Kosrae Museum",
-                  "text": "The Kosrae Museum in Tofol.",
-                  "category": "museum",
-                  "coords": [
-                        163.008563,
-                        5.325186
-                  ]
-            },
-            {
-                  "name": "Finol Finkol",
-                  "text": "Finol Finkol, a peak on Kosrae Island, near Tofol.",
-                  "category": "natural",
-                  "coords": [
-                        162.991557,
-                        5.311234
                   ]
             }
       ]
@@ -2355,39 +1779,12 @@ export const micronesiaCitiesV2: POI[] = [
     id: "micronesia-sokehs-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Nipik En Lidakihka",
-                  "text": "Ein Erholungsgebiet namens Nipik En Lidakihka in Sokehs.",
-                  "category": "recreational",
-                  "coords": [
-                        158.201389,
-                        6.970556
-                  ]
-            },
-            {
-                  "name": "Pohnpei Lidorkini Museum",
-                  "text": "Das Pohnpei Lidorkini Museum in Sokehs.",
-                  "category": "museum",
-                  "coords": [
-                        158.209722,
-                        6.964722
-                  ]
-            },
-            {
                   "name": "Eel Pool",
                   "text": "Ein familienfreundliches natürliches Becken mit Aalen in Sokehs.",
                   "category": "family",
                   "coords": [
                         158.185119,
                         6.976658
-                  ]
-            },
-            {
-                  "name": "Pohnpei Swimming Pool",
-                  "text": "Ein öffentliches Schwimmbad in Sokehs.",
-                  "category": "family",
-                  "coords": [
-                        158.207667,
-                        6.955703
                   ]
             },
             {
@@ -2400,30 +1797,12 @@ export const micronesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dolen Metipw",
-                  "text": "Ein Berg im Bezirk Sokehs auf Pohnpei.",
-                  "category": "natural",
-                  "coords": [
-                        158.202222,
-                        6.953056
-                  ]
-            },
-            {
                   "name": "Pohndolap",
                   "text": "Sokehs Mountain, ein markanter Gipfel im Bezirk Sokehs auf Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.189673,
                         6.969504
-                  ]
-            },
-            {
-                  "name": "Dolen Nier",
-                  "text": "Ein Berg im Bezirk Sokehs auf Pohnpei.",
-                  "category": "natural",
-                  "coords": [
-                        158.196389,
-                        6.951667
                   ]
             },
             {
@@ -2483,39 +1862,12 @@ export const micronesiaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Nipik En Lidakihka",
-                  "text": "Nipik En Lidakihka nevű rekreációs terület Sokehsban.",
-                  "category": "recreational",
-                  "coords": [
-                        158.201389,
-                        6.970556
-                  ]
-            },
-            {
-                  "name": "Pohnpei Lidorkini Museum",
-                  "text": "A Pohnpei Lidorkini Múzeum Sokehsban.",
-                  "category": "museum",
-                  "coords": [
-                        158.209722,
-                        6.964722
-                  ]
-            },
-            {
                   "name": "Eel Pool",
                   "text": "Családbarát természetes medence angolnákkal Sokehsban.",
                   "category": "family",
                   "coords": [
                         158.185119,
                         6.976658
-                  ]
-            },
-            {
-                  "name": "Pohnpei Swimming Pool",
-                  "text": "Nyilvános uszoda Sokehsban.",
-                  "category": "family",
-                  "coords": [
-                        158.207667,
-                        6.955703
                   ]
             },
             {
@@ -2528,30 +1880,12 @@ export const micronesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dolen Metipw",
-                  "text": "Egy hegy a Sokehs járásban, Pohnpein.",
-                  "category": "natural",
-                  "coords": [
-                        158.202222,
-                        6.953056
-                  ]
-            },
-            {
                   "name": "Pohndolap",
                   "text": "Sokehs Mountain, egy kiemelkedő csúcs a Sokehs járásban, Pohnpein.",
                   "category": "natural",
                   "coords": [
                         158.189673,
                         6.969504
-                  ]
-            },
-            {
-                  "name": "Dolen Nier",
-                  "text": "Egy hegy a Sokehs járásban, Pohnpein.",
-                  "category": "natural",
-                  "coords": [
-                        158.196389,
-                        6.951667
                   ]
             },
             {
@@ -2611,39 +1945,12 @@ export const micronesiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Nipik En Lidakihka",
-                  "text": "O zonă de agrement numită Nipik En Lidakihka în Sokehs.",
-                  "category": "recreational",
-                  "coords": [
-                        158.201389,
-                        6.970556
-                  ]
-            },
-            {
-                  "name": "Pohnpei Lidorkini Museum",
-                  "text": "Muzeul Pohnpei Lidorkini din Sokehs.",
-                  "category": "museum",
-                  "coords": [
-                        158.209722,
-                        6.964722
-                  ]
-            },
-            {
                   "name": "Eel Pool",
                   "text": "Un bazin natural prietenos cu familiile, populat de anghile în Sokehs.",
                   "category": "family",
                   "coords": [
                         158.185119,
                         6.976658
-                  ]
-            },
-            {
-                  "name": "Pohnpei Swimming Pool",
-                  "text": "O piscină publică în Sokehs.",
-                  "category": "family",
-                  "coords": [
-                        158.207667,
-                        6.955703
                   ]
             },
             {
@@ -2656,30 +1963,12 @@ export const micronesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dolen Metipw",
-                  "text": "Un munte în districtul Sokehs din Pohnpei.",
-                  "category": "natural",
-                  "coords": [
-                        158.202222,
-                        6.953056
-                  ]
-            },
-            {
                   "name": "Pohndolap",
                   "text": "Sokehs Mountain, un vârf proeminent în districtul Sokehs din Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.189673,
                         6.969504
-                  ]
-            },
-            {
-                  "name": "Dolen Nier",
-                  "text": "Un munte în districtul Sokehs din Pohnpei.",
-                  "category": "natural",
-                  "coords": [
-                        158.196389,
-                        6.951667
                   ]
             },
             {
@@ -2739,39 +2028,12 @@ export const micronesiaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Nipik En Lidakihka",
-                  "text": "A recreational area named Nipik En Lidakihka in Sokehs.",
-                  "category": "recreational",
-                  "coords": [
-                        158.201389,
-                        6.970556
-                  ]
-            },
-            {
-                  "name": "Pohnpei Lidorkini Museum",
-                  "text": "The Pohnpei Lidorkini Museum in Sokehs.",
-                  "category": "museum",
-                  "coords": [
-                        158.209722,
-                        6.964722
-                  ]
-            },
-            {
                   "name": "Eel Pool",
                   "text": "A family-friendly natural pool inhabited by eels in Sokehs.",
                   "category": "family",
                   "coords": [
                         158.185119,
                         6.976658
-                  ]
-            },
-            {
-                  "name": "Pohnpei Swimming Pool",
-                  "text": "A public swimming pool in Sokehs.",
-                  "category": "family",
-                  "coords": [
-                        158.207667,
-                        6.955703
                   ]
             },
             {
@@ -2784,30 +2046,12 @@ export const micronesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dolen Metipw",
-                  "text": "A mountain in the Sokehs district of Pohnpei.",
-                  "category": "natural",
-                  "coords": [
-                        158.202222,
-                        6.953056
-                  ]
-            },
-            {
                   "name": "Sokehs Mountain",
                   "text": "Sokehs Mountain, a prominent peak in the Sokehs district of Pohnpei.",
                   "category": "natural",
                   "coords": [
                         158.189673,
                         6.969504
-                  ]
-            },
-            {
-                  "name": "Dolen Nier",
-                  "text": "A mountain in the Sokehs district of Pohnpei.",
-                  "category": "natural",
-                  "coords": [
-                        158.196389,
-                        6.951667
                   ]
             },
             {

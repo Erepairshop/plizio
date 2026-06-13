@@ -126,24 +126,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu do Sal",
-                  "text": "Das Museu do Sal beleuchtet die jahrhundertelange Geschichte der Salzgewinnung auf den Kapverden anhand authentischer Werkzeuge und historischer Dokumente.",
-                  "category": "museum",
-                  "coords": [
-                        -22.90532,
-                        16.598084
-                  ]
-            },
-            {
-                  "name": "Art hands",
-                  "text": "Die Galerie Art hands präsentiert eine bunte Sammlung lokalen kapverdischen Kunsthandwerks, von handgeschnitzten Holzfiguren bis hin zu gewebten Textilien.",
-                  "category": "museum",
-                  "coords": [
-                        -22.905786,
-                        16.599261
-                  ]
-            },
-            {
                   "name": "Pachamama Eco Park",
                   "text": "Der Pachamama Eco Park ist ein grünes Refugium auf der trockenen Insel, das nachhaltige Landwirtschaft und eine Vielfalt an Wüstenpflanzen präsentiert.",
                   "category": "landmark",
@@ -206,24 +188,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                   "coords": [
                         -22.894521,
                         16.595186
-                  ]
-            },
-            {
-                  "name": "Museu do Sal",
-                  "text": "A Museu do Sal autentikus eszközökön és dokumentumokon keresztül mutatja be a zöld-foki-szigeteki sóbányászat és sólepárlás évszázados történetét.",
-                  "category": "museum",
-                  "coords": [
-                        -22.90532,
-                        16.598084
-                  ]
-            },
-            {
-                  "name": "Art hands",
-                  "text": "Az Art hands galéria a helyi zöld-foki kézművesség színes gyűjteményét mutatja be, a fafaragásoktól a szőtt textíliákig.",
-                  "category": "museum",
-                  "coords": [
-                        -22.905786,
-                        16.599261
                   ]
             },
             {
@@ -292,24 +256,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu do Sal",
-                  "text": "Museu do Sal expune instrumente tradiționale și documente istorice care spun povestea seculară a extracției sării în Capul Verde.",
-                  "category": "museum",
-                  "coords": [
-                        -22.90532,
-                        16.598084
-                  ]
-            },
-            {
-                  "name": "Art hands",
-                  "text": "Galeria Art hands prezintă o colecție vibrantă de artizanat local din Capul Verde, de la sculpturi în lemn la textile tradiționale.",
-                  "category": "museum",
-                  "coords": [
-                        -22.905786,
-                        16.599261
-                  ]
-            },
-            {
                   "name": "Pachamama Eco Park",
                   "text": "Pachamama Eco Park este un refugiu ecologic verde pe insula aridă, concentrându-se pe sustenabilitate și pe cultivarea plantelor rezistente la secetă.",
                   "category": "landmark",
@@ -372,24 +318,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                   "coords": [
                         -22.894521,
                         16.595186
-                  ]
-            },
-            {
-                  "name": "Museu do Sal",
-                  "text": "The Museu do Sal showcases the centuries-old history of salt extraction in Cape Verde through traditional tools and historical exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        -22.90532,
-                        16.598084
-                  ]
-            },
-            {
-                  "name": "Art hands",
-                  "text": "The Art hands gallery features a vibrant collection of local Cape Verdean handicrafts, ranging from carved wood sculptures to woven textiles.",
-                  "category": "museum",
-                  "coords": [
-                        -22.905786,
-                        16.599261
                   ]
             },
             {
@@ -478,122 +406,10 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
   },
   {
     id: "coffee-plantations-fogo-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Plantation de café et de petits piments très forts",
-                  "text": "Ein lokaler landwirtschaftlicher Betrieb, in dem Kaffeebohnen und besonders scharfe kleine Paprika angebaut werden.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.324738,
-                        15.020162
-                  ]
-            },
-            {
-                  "name": "Museu do café",
-                  "text": "Ein Museum, das der Geschichte und dem Anbau von Kaffee auf der Insel Fogo gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -24.324806,
-                        15.034281
-                  ]
-            },
-            {
-                  "name": "Plis spectaculaires de strates de lave",
-                  "text": "Eine geologische Stätte, die dramatisch gefaltete Schichten aus erstarrter Lava zeigt.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.341834,
-                        15.04313
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Plantation de café et de petits piments très forts",
-                  "text": "Helyi mezőgazdasági terület, ahol kávébabot és rendkívül csípős kis paprikákat termesztenek.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.324738,
-                        15.020162
-                  ]
-            },
-            {
-                  "name": "Museu do café",
-                  "text": "A Fogo-sziget kávétörténetének és -termesztésének szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -24.324806,
-                        15.034281
-                  ]
-            },
-            {
-                  "name": "Plis spectaculaires de strates de lave",
-                  "text": "Látványos, meggyűrődött megszilárdult lávarétegeket bemutató geológiai helyszín.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.341834,
-                        15.04313
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Plantation de café et de petits piments très forts",
-                  "text": "O plantație agricolă locală care cultivă boabe de cafea și ardei mici foarte iuți.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.324738,
-                        15.020162
-                  ]
-            },
-            {
-                  "name": "Museu do café",
-                  "text": "Un muzeu dedicat istoriei și cultivării cafelei pe insula Fogo.",
-                  "category": "museum",
-                  "coords": [
-                        -24.324806,
-                        15.034281
-                  ]
-            },
-            {
-                  "name": "Plis spectaculaires de strates de lave",
-                  "text": "Un sit geologic care prezintă straturi spectaculoase și cutate de lavă solidificată.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.341834,
-                        15.04313
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Plantation de café et de petits piments très forts",
-                  "text": "A local agricultural site cultivating coffee beans and notably spicy small peppers.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.324738,
-                        15.020162
-                  ]
-            },
-            {
-                  "name": "Museu do café",
-                  "text": "A museum dedicated to the history and cultivation of coffee on the island of Fogo.",
-                  "category": "museum",
-                  "coords": [
-                        -24.324806,
-                        15.034281
-                  ]
-            },
-            {
-                  "name": "Plis spectaculaires de strates de lave",
-                  "text": "A geological site showcasing dramatic, folded layers of solidified lava.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.341834,
-                        15.04313
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "agriculture",
     parent: "CV-MO",
@@ -693,15 +509,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
     id: "banana-plantations-santa-cruz-life-v2", "sights": {
       "de": [
             {
-                  "name": "Igreja São Tiago Maior",
-                  "text": "Diese historische Steinkirche ist ein bedeutendes religiöses Denkmal in der örtlichen Gemeinde.",
-                  "category": "historical",
-                  "coords": [
-                        -23.523968,
-                        15.12988
-                  ]
-            },
-            {
                   "name": "Praia de Mangue",
                   "text": "Dieser malerische Strand verfügt über einen Sandstreifen, der von Küstenvegetation gesäumt ist.",
                   "category": "recreational",
@@ -709,27 +516,9 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                         -23.491035,
                         15.089135
                   ]
-            },
-            {
-                  "name": "Centro Katchás",
-                  "text": "Dieses kulturelle Kunstzentrum veranstaltet lokale Musik- und Kunstereignisse, die von regionalen Traditionen inspiriert sind.",
-                  "category": "cultural",
-                  "coords": [
-                        -23.529257,
-                        15.137434
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Igreja São Tiago Maior",
-                  "text": "Ez a történelmi kőtemplom a helyi közösség jelentős vallási emlékműve.",
-                  "category": "historical",
-                  "coords": [
-                        -23.523968,
-                        15.12988
-                  ]
-            },
             {
                   "name": "Praia de Mangue",
                   "text": "Ez a festői strand tengerparti növényzettel szegélyezett homokos partszakasszal rendelkezik.",
@@ -738,27 +527,9 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                         -23.491035,
                         15.089135
                   ]
-            },
-            {
-                  "name": "Centro Katchás",
-                  "text": "Ez a kulturális művészeti központ regionális hagyományok ihlette helyi zenei és művészeti eseményeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -23.529257,
-                        15.137434
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Igreja São Tiago Maior",
-                  "text": "Această biserică istorică din piatră este un monument religios semnificativ în comunitatea locală.",
-                  "category": "historical",
-                  "coords": [
-                        -23.523968,
-                        15.12988
-                  ]
-            },
             {
                   "name": "Praia de Mangue",
                   "text": "Această plajă pitorească prezintă o întindere de nisip mărginită de vegetație de coastă.",
@@ -767,27 +538,9 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                         -23.491035,
                         15.089135
                   ]
-            },
-            {
-                  "name": "Centro Katchás",
-                  "text": "Acest centru de artă culturală găzduiește muzică locală și evenimente artistice inspirate din tradițiile regionale.",
-                  "category": "cultural",
-                  "coords": [
-                        -23.529257,
-                        15.137434
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Igreja São Tiago Maior",
-                  "text": "This historic stone church is a significant religious monument in the local community.",
-                  "category": "historical",
-                  "coords": [
-                        -23.523968,
-                        15.12988
-                  ]
-            },
             {
                   "name": "Praia de Mangue",
                   "text": "This scenic beach features a stretch of sand lined by coastal vegetation.",
@@ -795,15 +548,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                   "coords": [
                         -23.491035,
                         15.089135
-                  ]
-            },
-            {
-                  "name": "Centro Katchás",
-                  "text": "This cultural arts center hosts local music and artistic events inspired by regional traditions.",
-                  "category": "cultural",
-                  "coords": [
-                        -23.529257,
-                        15.137434
                   ]
             }
       ]
@@ -867,15 +611,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte Batalha",
-                  "text": "Dieser markante Berggipfel bietet Wandermöglichkeiten und einen weiten Blick über die karge Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        -23.185889,
-                        15.201912
-                  ]
-            },
-            {
                   "name": "Praia de Santana",
                   "text": "Dieser sandige Küstenstrand bietet Atlantikwellen und eine ruhige Küstenlinie.",
                   "category": "recreational",
@@ -893,15 +628,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                   "coords": [
                         -23.215626,
                         15.242225
-                  ]
-            },
-            {
-                  "name": "Monte Batalha",
-                  "text": "Ez a jellegzetes hegycsúcs túrázási lehetőségeket és lenyűgöző kilátást nyújt a száraz tájra.",
-                  "category": "natural",
-                  "coords": [
-                        -23.185889,
-                        15.201912
                   ]
             },
             {
@@ -925,15 +651,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte Batalha",
-                  "text": "Acest vârf de munte distinctiv oferă oportunități de drumeții și vederi panoramice asupra peisajului arid.",
-                  "category": "natural",
-                  "coords": [
-                        -23.185889,
-                        15.201912
-                  ]
-            },
-            {
                   "name": "Praia de Santana",
                   "text": "Această plajă de coastă cu nisip oferă valuri atlantice și un țărm liniștit.",
                   "category": "recreational",
@@ -951,15 +668,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                   "coords": [
                         -23.215626,
                         15.242225
-                  ]
-            },
-            {
-                  "name": "Monte Batalha",
-                  "text": "This distinctive mountain peak provides hiking opportunities and sweeping views over the arid landscape.",
-                  "category": "natural",
-                  "coords": [
-                        -23.185889,
-                        15.201912
                   ]
             },
             {
@@ -1023,15 +731,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
     id: "whale-watching-boa-vista-life-v2", "sights": {
       "de": [
             {
-                  "name": "Farol",
-                  "text": "Der Farol, auch als Ponta da Escuma Lighthouse bekannt, ist ein maritimer Navigationsturm nahe whale-watching-boa-vista-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.932059,
-                        16.172563
-                  ]
-            },
-            {
                   "name": "Agua Beach",
                   "text": "Agua Beach ist ein Küstenresort mit Sandstränden und Freizeiteinrichtungen in der Nähe von whale-watching-boa-vista-life-v2.",
                   "category": "recreational",
@@ -1050,48 +749,12 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu de Arqueologia da Boa Vista",
-                  "text": "Das Museu de Arqueologia da Boa Vista bewahrt lokale historische und archäologische Artefakte nahe whale-watching-boa-vista-life-v2 auf.",
-                  "category": "museum",
-                  "coords": [
-                        -22.917976,
-                        16.175304
-                  ]
-            },
-            {
-                  "name": "Museu dos Náufragos",
-                  "text": "Das Museu dos Náufragos ist ein Ausstellungsraum, der sich mit der Geschichte der Schiffswracks in der Nähe von whale-watching-boa-vista-life-v2 befasst.",
-                  "category": "museum",
-                  "coords": [
-                        -22.916133,
-                        16.178207
-                  ]
-            },
-            {
-                  "name": "Praia do Ilhéu",
-                  "text": "Praia do Ilhéu ist ein sandiger Küstenstrand mit malerischem Blick auf das Meer bei whale-watching-boa-vista-life-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.923042,
-                        16.167026
-                  ]
-            },
-            {
                   "name": "Praia de Carlota",
                   "text": "Praia de Carlota bietet einen entspannenden Abschnitt aus Küstensand in der Nähe von whale-watching-boa-vista-life-v2.",
                   "category": "recreational",
                   "coords": [
                         -22.908429,
                         16.158652
-                  ]
-            },
-            {
-                  "name": "Duque de Bragança",
-                  "text": "Duque de Bragança umfasst die verwitterten historischen Überreste des Forte Duque de Bragança nahe whale-watching-boa-vista-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        -22.924905,
-                        16.164827
                   ]
             },
             {
@@ -1105,15 +768,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Farol",
-                  "text": "A Farol, amelyet Ponta da Escuma világítótoronyként is ismernek, egy tengeri navigációs torony whale-watching-boa-vista-life-v2 közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.932059,
-                        16.172563
-                  ]
-            },
             {
                   "name": "Agua Beach",
                   "text": "Az Agua Beach egy tengerparti üdülőhely, amely homokos partokat és szabadidős létesítményeket kínál whale-watching-boa-vista-life-v2 közelében.",
@@ -1133,48 +787,12 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu de Arqueologia da Boa Vista",
-                  "text": "A Museu de Arqueologia da Boa Vista egy kulturális intézmény, amely helyi történelmi és régészeti leleteket őriz whale-watching-boa-vista-life-v2 közelében.",
-                  "category": "museum",
-                  "coords": [
-                        -22.917976,
-                        16.175304
-                  ]
-            },
-            {
-                  "name": "Museu dos Náufragos",
-                  "text": "A Museu dos Náufragos a hajóroncsok történetének és a tengeri örökségnek szentelt kiállítótér whale-watching-boa-vista-life-v2 közelében.",
-                  "category": "museum",
-                  "coords": [
-                        -22.916133,
-                        16.178207
-                  ]
-            },
-            {
-                  "name": "Praia do Ilhéu",
-                  "text": "A Praia do Ilhéu egy tengerparti homokos strand, amely festői óceáni kilátást nyújt whale-watching-boa-vista-life-v2 közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.923042,
-                        16.167026
-                  ]
-            },
-            {
                   "name": "Praia de Carlota",
                   "text": "A Praia de Carlota egy pihentető tengerparti homoksávot kínál whale-watching-boa-vista-life-v2 közelében.",
                   "category": "recreational",
                   "coords": [
                         -22.908429,
                         16.158652
-                  ]
-            },
-            {
-                  "name": "Duque de Bragança",
-                  "text": "A Duque de Bragança a Forte Duque de Bragança történelmi romjait foglalja magában whale-watching-boa-vista-life-v2 közelében.",
-                  "category": "historical",
-                  "coords": [
-                        -22.924905,
-                        16.164827
                   ]
             },
             {
@@ -1188,15 +806,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Farol",
-                  "text": "Farol, cunoscut și sub numele de Farul Ponta da Escuma, este un turn de navigație maritimă lângă whale-watching-boa-vista-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.932059,
-                        16.172563
-                  ]
-            },
             {
                   "name": "Agua Beach",
                   "text": "Agua Beach este o stațiune de coastă care oferă țărmuri cu nisip și facilități de agrement lângă whale-watching-boa-vista-life-v2.",
@@ -1216,48 +825,12 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu de Arqueologia da Boa Vista",
-                  "text": "Museu de Arqueologia da Boa Vista este o instituție culturală care conservă artefacte istorice și arheologice locale lângă whale-watching-boa-vista-life-v2.",
-                  "category": "museum",
-                  "coords": [
-                        -22.917976,
-                        16.175304
-                  ]
-            },
-            {
-                  "name": "Museu dos Náufragos",
-                  "text": "Museu dos Náufragos este un spațiu expozițional dedicat istoriei epavelor și a patrimoniului maritim lângă whale-watching-boa-vista-life-v2.",
-                  "category": "museum",
-                  "coords": [
-                        -22.916133,
-                        16.178207
-                  ]
-            },
-            {
-                  "name": "Praia do Ilhéu",
-                  "text": "Praia do Ilhéu este o plajă de coastă cu nisip, oferind vederi panoramice la ocean lângă whale-watching-boa-vista-life-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.923042,
-                        16.167026
-                  ]
-            },
-            {
                   "name": "Praia de Carlota",
                   "text": "Praia de Carlota oferă o întindere relaxantă de nisip de coastă lângă whale-watching-boa-vista-life-v2.",
                   "category": "recreational",
                   "coords": [
                         -22.908429,
                         16.158652
-                  ]
-            },
-            {
-                  "name": "Duque de Bragança",
-                  "text": "Duque de Bragança prezintă rămășițele istorice erodate ale Forte Duque de Bragança, lângă whale-watching-boa-vista-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        -22.924905,
-                        16.164827
                   ]
             },
             {
@@ -1271,15 +844,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Farol",
-                  "text": "The Farol, also known as the Ponta da Escuma Lighthouse, is a navigational maritime tower near whale-watching-boa-vista-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.932059,
-                        16.172563
-                  ]
-            },
             {
                   "name": "Agua Beach",
                   "text": "Agua Beach is a coastal resort offering sandy shorelines and leisure facilities near whale-watching-boa-vista-life-v2.",
@@ -1299,48 +863,12 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu de Arqueologia da Boa Vista",
-                  "text": "The Museu de Arqueologia da Boa Vista is a cultural institution preserving local historical and archaeological artifacts near whale-watching-boa-vista-life-v2.",
-                  "category": "museum",
-                  "coords": [
-                        -22.917976,
-                        16.175304
-                  ]
-            },
-            {
-                  "name": "Museu dos Náufragos",
-                  "text": "Museu dos Náufragos is an exhibition space dedicated to the history of shipwrecks and maritime heritage near whale-watching-boa-vista-life-v2.",
-                  "category": "museum",
-                  "coords": [
-                        -22.916133,
-                        16.178207
-                  ]
-            },
-            {
-                  "name": "Praia do Ilhéu",
-                  "text": "Praia do Ilhéu is a coastal sandy beach providing scenic ocean vistas near whale-watching-boa-vista-life-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.923042,
-                        16.167026
-                  ]
-            },
-            {
                   "name": "Praia de Carlota",
                   "text": "Praia de Carlota offers a relaxing stretch of coastal sand near whale-watching-boa-vista-life-v2.",
                   "category": "recreational",
                   "coords": [
                         -22.908429,
                         16.158652
-                  ]
-            },
-            {
-                  "name": "Duque de Bragança",
-                  "text": "Duque de Bragança features the weathered historical remnants of Forte Duque de Bragança near whale-watching-boa-vista-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        -22.924905,
-                        16.164827
                   ]
             },
             {
@@ -1662,15 +1190,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
     id: "rabil-lagoon-birds-life-v2", "sights": {
       "de": [
             {
-                  "name": "Artesanato Olaria de Rabil",
-                  "text": "Die Artesanato Olaria de Rabil ist eine traditionelle Töpferei, in der Besucher handgefertigte Keramik aus dem lokalen Ton der Insel bewundern können.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.888902,
-                        16.124623
-                  ]
-            },
-            {
                   "name": "Quad Zone",
                   "text": "Die Quad Zone in Rabil bietet abenteuerlustigen Touristen geführte Offroad-Touren durch die staubigen Landschaften und Dünen der Umgebung.",
                   "category": "recreational",
@@ -1681,15 +1200,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Artesanato Olaria de Rabil",
-                  "text": "Az Artesanato Olaria de Rabil egy hagyományos fazekasműhely, ahol a látogatók megcsodálhatják a sziget helyi agyagjából készült kézműves kerámiákat.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.888902,
-                        16.124623
-                  ]
-            },
             {
                   "name": "Quad Zone",
                   "text": "A rabili Quad Zone vezetett terepjárós túrákat kínál a kalandvágyó turistáknak a környék poros dűnéi és tájai között.",
@@ -1702,15 +1212,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Artesanato Olaria de Rabil",
-                  "text": "Artesanato Olaria de Rabil este un atelier tradițional de ceramică unde vizitatorii pot admira vase realizate manual din argila locală a insulei.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.888902,
-                        16.124623
-                  ]
-            },
-            {
                   "name": "Quad Zone",
                   "text": "Quad Zone din Rabil oferă turiștilor aventuroși excursii ghidate off-road prin peisajele prăfuite și dunele din împrejurimi.",
                   "category": "recreational",
@@ -1721,15 +1222,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Artesanato Olaria de Rabil",
-                  "text": "Artesanato Olaria de Rabil is a traditional pottery workshop where visitors can admire ceramics handcrafted from the island's local clay.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.888902,
-                        16.124623
-                  ]
-            },
             {
                   "name": "Quad Zone",
                   "text": "The Quad Zone in Rabil offers adventurous tourists guided off-road excursions through the surrounding dusty landscapes and dunes.",
@@ -1791,24 +1283,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
     id: "maize-fields-santiago-life-v2", "sights": {
       "de": [
             {
-                  "name": "Centro Cultural Norberto Tavares",
-                  "text": "Eine kulturelle Einrichtung, die dem Leben und Vermächtnis des berühmten kapverdischen Musikers Norberto Tavares gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -23.666998,
-                        15.09626
-                  ]
-            },
-            {
-                  "name": "Monte Brianda",
-                  "text": "Eine markante Gebirgserhebung mit Blick auf die umliegenden Maisfelder und Agrarlandschaften von Santiago.",
-                  "category": "natural",
-                  "coords": [
-                        -23.738094,
-                        15.110601
-                  ]
-            },
-            {
                   "name": "Museu de Tabanka",
                   "text": "Ein Ausstellungsraum, der dem traditionellen musikalischen und kulturellen Erbe der Tabanca der Kapverden gewidmet ist.",
                   "category": "museum",
@@ -1819,24 +1293,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Centro Cultural Norberto Tavares",
-                  "text": "A híres Zöld-foki-szigeteki zenész, Norberto Tavares élete és öröksége előtt tisztelgő kulturális intézmény.",
-                  "category": "museum",
-                  "coords": [
-                        -23.666998,
-                        15.09626
-                  ]
-            },
-            {
-                  "name": "Monte Brianda",
-                  "text": "Kiemelkedő hegyvidéki magaslat, amely a környező kukoricaföldekre és Santiago mezőgazdasági tájaira néz.",
-                  "category": "natural",
-                  "coords": [
-                        -23.738094,
-                        15.110601
-                  ]
-            },
             {
                   "name": "Museu de Tabanka",
                   "text": "A Zöld-foki-szigetek hagyományos Tabanca zenei és kulturális örökségének szentelt kiállítótér.",
@@ -1849,24 +1305,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Centro Cultural Norberto Tavares",
-                  "text": "O instituție culturală dedicată vieții și moștenirii celebrului muzician capverdian Norberto Tavares.",
-                  "category": "museum",
-                  "coords": [
-                        -23.666998,
-                        15.09626
-                  ]
-            },
-            {
-                  "name": "Monte Brianda",
-                  "text": "O elevație muntoasă proeminentă, care domină câmpurile de porumb din jur și peisajele agricole din Santiago.",
-                  "category": "natural",
-                  "coords": [
-                        -23.738094,
-                        15.110601
-                  ]
-            },
-            {
                   "name": "Museu de Tabanka",
                   "text": "Un spațiu expozițional dedicat moștenirii muzicale și culturale tradiționale Tabanca din Capul Verde.",
                   "category": "museum",
@@ -1877,24 +1315,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Centro Cultural Norberto Tavares",
-                  "text": "A cultural institution dedicated to the life and legacy of the famous Cape Verdean musician Norberto Tavares.",
-                  "category": "museum",
-                  "coords": [
-                        -23.666998,
-                        15.09626
-                  ]
-            },
-            {
-                  "name": "Monte Brianda",
-                  "text": "A prominent mountainous elevation overlooking the surrounding maize fields and agricultural landscapes of Santiago.",
-                  "category": "natural",
-                  "coords": [
-                        -23.738094,
-                        15.110601
-                  ]
-            },
             {
                   "name": "Museu de Tabanka",
                   "text": "An exhibition space dedicated to the traditional Tabanca musical and cultural heritage of Cape Verde.",
@@ -2394,24 +1814,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
     id: "salt-experience-sal-life-v2", "sights": {
       "de": [
             {
-                  "name": "Santa Maria Pier",
-                  "text": "Der historische Holzsteg von Santa Maria ragt weit ins kristallklare Wasser hinein und ist ein lebhafter Treffpunkt, an dem die lokalen Fischer morgens ihren frischen Fang anlanden.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.9078,
-                        16.597176
-                  ]
-            },
-            {
-                  "name": "avião",
-                  "text": "Diese ungewöhnliche Flugzeugattraktion in der wüstenartigen Umgebung von Sal bietet einen rostigen, markanten Kontrast zum strahlend blauen Himmel der Insel.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.909762,
-                        16.602864
-                  ]
-            },
-            {
                   "name": "Calheta Funda",
                   "text": "Die Calheta Funda ist eine kleine, geschützte Meeresbucht mit felsigen Ufern, die sich hervorragend zum Schnorcheln im klaren Wasser des Atlantiks eignet.",
                   "category": "recreational",
@@ -2431,24 +1833,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Santa Maria Pier",
-                  "text": "A Santa Maria fapallós mólója a tiszta óceánba nyúlik, ahol a helyi halászok minden reggel partra teszik és megtisztítják friss fogásukat.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.9078,
-                        16.597176
-                  ]
-            },
-            {
-                  "name": "avião",
-                  "text": "Ez a szokatlan, elhagyatott repülőgép-roncs a kietlen szigeti tájon érdekes, rozsdás kontrasztot alkot Sal ragyogó kék egével.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.909762,
-                        16.602864
-                  ]
-            },
             {
                   "name": "Calheta Funda",
                   "text": "A Calheta Funda egy apró, védett tengeröböl sziklás partokkal, amely nyugodt és tiszta vizével kiváló lehetőséget nyújt a sznorkelezésre.",
@@ -2470,24 +1854,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Santa Maria Pier",
-                  "text": "Debarcaderul de lemn din Santa Maria se extinde în apele limpezi, fiind locul unde pescarii locali își descarcă și curăță captura proaspătă în fiecare dimineață.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.9078,
-                        16.597176
-                  ]
-            },
-            {
-                  "name": "avião",
-                  "text": "Această atracție neobișnuită, reprezentând un avion abandonat pe terenul arid, creează un contrast izbitor cu cerul albastru senin al insulei Sal.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.909762,
-                        16.602864
-                  ]
-            },
-            {
                   "name": "Calheta Funda",
                   "text": "Calheta Funda este un mic golf protejat, flancat de coaste stâncoase, ideal pentru snorkeling în apele liniștite ale Atlanticului.",
                   "category": "recreational",
@@ -2507,24 +1873,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Santa Maria Pier",
-                  "text": "The wooden Santa Maria Pier stretches into the clear waters and serves as a bustling hub where local fishermen unload their fresh catch every morning.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.9078,
-                        16.597176
-                  ]
-            },
-            {
-                  "name": "avião",
-                  "text": "This unusual attraction featuring a grounded airplane carcass in the arid landscape offers a rusty, striking contrast against Sal's bright blue skies.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.909762,
-                        16.602864
-                  ]
-            },
             {
                   "name": "Calheta Funda",
                   "text": "Calheta Funda is a small, sheltered rocky bay that offers calm, crystal-clear Atlantic waters ideal for quiet snorkeling excursions.",
@@ -2797,15 +2145,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                         -22.94322,
                         16.756971
                   ]
-            },
-            {
-                  "name": "Anfiteatro José Cabral",
-                  "text": "Das Anfiteatro José Cabral in Espargos ist ein modernes Open-Air-Theater, das als kultureller Treffpunkt für lokale Veranstaltungen und Aufführungen dient.",
-                  "category": "cultural",
-                  "coords": [
-                        -22.945838,
-                        16.753398
-                  ]
             }
       ],
       "hu": [
@@ -2825,15 +2164,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                   "coords": [
                         -22.94322,
                         16.756971
-                  ]
-            },
-            {
-                  "name": "Anfiteatro José Cabral",
-                  "text": "Az Espargosban található Anfiteatro José Cabral egy szabadtéri színház, amely a helyi kulturális események és előadások nyüzsgő központja.",
-                  "category": "cultural",
-                  "coords": [
-                        -22.945838,
-                        16.753398
                   ]
             }
       ],
@@ -2855,15 +2185,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                         -22.94322,
                         16.756971
                   ]
-            },
-            {
-                  "name": "Anfiteatro José Cabral",
-                  "text": "Anfiteatro José Cabral din Espargos este un teatru în aer liber, care găzduiește diverse evenimente culturale și spectacole locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -22.945838,
-                        16.753398
-                  ]
             }
       ],
       "en": [
@@ -2883,15 +2204,6 @@ export const poiExtraCapeverdeLifeV2: POI[] = [
                   "coords": [
                         -22.94322,
                         16.756971
-                  ]
-            },
-            {
-                  "name": "Anfiteatro José Cabral",
-                  "text": "The Anfiteatro José Cabral in Espargos is an open-air theatre serving as a vibrant hub for local cultural events and performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -22.945838,
-                        16.753398
                   ]
             }
       ]

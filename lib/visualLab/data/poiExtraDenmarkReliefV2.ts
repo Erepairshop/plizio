@@ -15,15 +15,6 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rodebuske",
-                  "text": "Historische archäologische Stätte in der Region Yding Skovhøj.",
-                  "category": "historical",
-                  "coords": [
-                        9.795542,
-                        55.992717
-                  ]
-            },
-            {
                   "name": "Trehøje",
                   "text": "Eine bedeutende archäologische Fundstätte bei Yding Skovhøj.",
                   "category": "historical",
@@ -39,33 +30,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         9.76004,
                         56.020184
-                  ]
-            },
-            {
-                  "name": "Møllehøj",
-                  "text": "Møllehøj, die höchste Erhebung Dänemarks, im Yding Skovhøj.",
-                  "category": "landmark",
-                  "coords": [
-                        9.82633,
-                        55.977463
-                  ]
-            },
-            {
-                  "name": "Genforeningstårnet",
-                  "text": "Ein Denkmal zur Erinnerung an die Wiedervereinigung in Yding Skovhøj.",
-                  "category": "historical",
-                  "coords": [
-                        9.830641,
-                        55.97707
-                  ]
-            },
-            {
-                  "name": "Møgelhøj",
-                  "text": "Ein Aussichtspunkt mit Panorama auf die dänische Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        9.825099,
-                        55.974775
                   ]
             },
             {
@@ -89,15 +53,6 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rodebuske",
-                  "text": "Történelmi régészeti lelőhely az Yding Skovhøj régióban.",
-                  "category": "historical",
-                  "coords": [
-                        9.795542,
-                        55.992717
-                  ]
-            },
-            {
                   "name": "Trehøje",
                   "text": "Jelentős régészeti lelőhely Yding Skovhőjnél.",
                   "category": "historical",
@@ -113,33 +68,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         9.76004,
                         56.020184
-                  ]
-            },
-            {
-                  "name": "Møllehøj",
-                  "text": "Møllehøj, Dánia legmagasabb pontja, az Yding Skovhøj területén.",
-                  "category": "landmark",
-                  "coords": [
-                        9.82633,
-                        55.977463
-                  ]
-            },
-            {
-                  "name": "Genforeningstårnet",
-                  "text": "Az újraegyesítés emlékére állított emlékmű Yding Skovhőjnél.",
-                  "category": "historical",
-                  "coords": [
-                        9.830641,
-                        55.97707
-                  ]
-            },
-            {
-                  "name": "Møgelhøj",
-                  "text": "Kilátóhely panorámával a dán tájra.",
-                  "category": "natural",
-                  "coords": [
-                        9.825099,
-                        55.974775
                   ]
             },
             {
@@ -163,15 +91,6 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rodebuske",
-                  "text": "Sit arheologic istoric în regiunea Yding Skovhøj.",
-                  "category": "historical",
-                  "coords": [
-                        9.795542,
-                        55.992717
-                  ]
-            },
-            {
                   "name": "Trehøje",
                   "text": "Un sit arheologic important situat la Yding Skovhøj.",
                   "category": "historical",
@@ -187,33 +106,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         9.76004,
                         56.020184
-                  ]
-            },
-            {
-                  "name": "Møllehøj",
-                  "text": "Møllehøj, cel mai înalt punct al Danemarcei, situat în Yding Skovhøj.",
-                  "category": "landmark",
-                  "coords": [
-                        9.82633,
-                        55.977463
-                  ]
-            },
-            {
-                  "name": "Genforeningstårnet",
-                  "text": "Un monument dedicat reunificării, situat la Yding Skovhøj.",
-                  "category": "historical",
-                  "coords": [
-                        9.830641,
-                        55.97707
-                  ]
-            },
-            {
-                  "name": "Møgelhøj",
-                  "text": "Un punct de observație cu panoramă asupra peisajului danez.",
-                  "category": "natural",
-                  "coords": [
-                        9.825099,
-                        55.974775
                   ]
             },
             {
@@ -237,15 +129,6 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rodebuske",
-                  "text": "Historical archaeological site in the Yding Skovhøj region.",
-                  "category": "historical",
-                  "coords": [
-                        9.795542,
-                        55.992717
-                  ]
-            },
-            {
                   "name": "Trehøje",
                   "text": "A significant archaeological site located at Yding Skovhøj.",
                   "category": "historical",
@@ -261,33 +144,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         9.76004,
                         56.020184
-                  ]
-            },
-            {
-                  "name": "Møllehøj",
-                  "text": "Møllehøj, the highest point in Denmark, located in Yding Skovhøj.",
-                  "category": "landmark",
-                  "coords": [
-                        9.82633,
-                        55.977463
-                  ]
-            },
-            {
-                  "name": "Genforeningstårnet",
-                  "text": "A monument commemorating the reunification, located at Yding Skovhøj.",
-                  "category": "historical",
-                  "coords": [
-                        9.830641,
-                        55.97707
-                  ]
-            },
-            {
-                  "name": "Møgelhøj",
-                  "text": "A viewpoint offering a panorama of the Danish countryside.",
-                  "category": "natural",
-                  "coords": [
-                        9.825099,
-                        55.974775
                   ]
             },
             {
@@ -1365,15 +1221,6 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Askildhøj",
-                  "text": "Bronzezeitlicher Grabhügel auf der Halbinsel Helgenaes.",
-                  "category": "historical",
-                  "coords": [
-                        10.523092,
-                        56.155779
-                  ]
-            },
-            {
                   "name": "Tyskertårnet",
                   "text": "Der Tyskertårn (Deutscher Turm) ist eine natürliche Felsformation auf der Halbinsel Helgenæs.",
                   "category": "natural",
@@ -1427,15 +1274,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         10.512899,
                         56.095082
-                  ]
-            },
-            {
-                  "name": "Askildhøj",
-                  "text": "Bronzkori temetkezési halom a Helgenaes-félszigeten.",
-                  "category": "historical",
-                  "coords": [
-                        10.523092,
-                        56.155779
                   ]
             },
             {
@@ -1495,15 +1333,6 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Askildhøj",
-                  "text": "Movilă funerară din epoca bronzului pe peninsula Helgenaes.",
-                  "category": "historical",
-                  "coords": [
-                        10.523092,
-                        56.155779
-                  ]
-            },
-            {
                   "name": "Tyskertårnet",
                   "text": "Tyskertårnet (Turnul German) este o formațiune naturală de stâncă pe peninsula Helgenæs.",
                   "category": "natural",
@@ -1557,15 +1386,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         10.512899,
                         56.095082
-                  ]
-            },
-            {
-                  "name": "Askildhøj",
-                  "text": "Bronze Age burial mound on the Helgenaes peninsula.",
-                  "category": "historical",
-                  "coords": [
-                        10.523092,
-                        56.155779
                   ]
             },
             {
@@ -3489,15 +3309,6 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skriveshøj",
-                  "text": "Eine archäologische Fundstätte in der dänischen Region Borre Bakkekam.",
-                  "category": "historical",
-                  "coords": [
-                        12.530607,
-                        54.973734
-                  ]
-            },
-            {
                   "name": "Deinesbjerg",
                   "text": "Ein Ort mit archäologischer Bedeutung in Borre Bakkekam.",
                   "category": "historical",
@@ -3569,15 +3380,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         12.490671,
                         54.975368
-                  ]
-            },
-            {
-                  "name": "Skriveshøj",
-                  "text": "Régészeti lelőhely a dániai Borre Bakkekam régióban.",
-                  "category": "historical",
-                  "coords": [
-                        12.530607,
-                        54.973734
                   ]
             },
             {
@@ -3655,15 +3457,6 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skriveshøj",
-                  "text": "Un sit arheologic în regiunea daneză Borre Bakkekam.",
-                  "category": "historical",
-                  "coords": [
-                        12.530607,
-                        54.973734
-                  ]
-            },
-            {
                   "name": "Deinesbjerg",
                   "text": "Un loc cu importanță arheologică în Borre Bakkekam.",
                   "category": "historical",
@@ -3735,15 +3528,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         12.490671,
                         54.975368
-                  ]
-            },
-            {
-                  "name": "Skriveshøj",
-                  "text": "An archaeological site in the Danish region of Borre Bakkekam.",
-                  "category": "historical",
-                  "coords": [
-                        12.530607,
-                        54.973734
                   ]
             },
             {
@@ -6504,24 +6288,6 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Agri Bavnehøj",
-                  "text": "Der höchste Punkt im Nationalpark Mols Bjerge mit einem antiken Grabhügel.",
-                  "category": "historical",
-                  "coords": [
-                        10.536513,
-                        56.229877
-                  ]
-            },
-            {
-                  "name": "Lindhøj",
-                  "text": "Grabhügel im Nationalpark Mols Bjerge, mit Blick auf die Bucht.",
-                  "category": "historical",
-                  "coords": [
-                        10.510471,
-                        56.178712
-                  ]
-            },
-            {
                   "name": "Svinhøj",
                   "text": "Grabhügel auf einer Wiese in den Mols Bjerge Hügeln.",
                   "category": "historical",
@@ -6556,24 +6322,6 @@ export const denmarkReliefV2: POI[] = [
                         10.522903,
                         56.236896
                   ]
-            },
-            {
-                  "name": "Brunhøje",
-                  "text": "Hügelgräber aus prähistorischer Zeit in den Mols-Bjerge-Hügeln.",
-                  "category": "historical",
-                  "coords": [
-                        10.515551,
-                        56.18582
-                  ]
-            },
-            {
-                  "name": "Store Jættehøj",
-                  "text": "Ein beeindruckendes prähistorisches Ganggrab in Mols Bjerge.",
-                  "category": "historical",
-                  "coords": [
-                        10.534578,
-                        56.182174
-                  ]
             }
       ],
       "hu": [
@@ -6584,24 +6332,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         10.579481,
                         56.209736
-                  ]
-            },
-            {
-                  "name": "Agri Bavnehøj",
-                  "text": "A Mols Bjerge Nemzeti Park legmagasabb pontja, amelyen egy ősi sírhalom található.",
-                  "category": "historical",
-                  "coords": [
-                        10.536513,
-                        56.229877
-                  ]
-            },
-            {
-                  "name": "Lindhøj",
-                  "text": "Halomsír a Mols Bjerge Nemzeti Parkban, az öbölre néző kilátással.",
-                  "category": "historical",
-                  "coords": [
-                        10.510471,
-                        56.178712
                   ]
             },
             {
@@ -6639,24 +6369,6 @@ export const denmarkReliefV2: POI[] = [
                         10.522903,
                         56.236896
                   ]
-            },
-            {
-                  "name": "Brunhøje",
-                  "text": "Őskori halomsírok a Mols Bjerge dombokban.",
-                  "category": "historical",
-                  "coords": [
-                        10.515551,
-                        56.18582
-                  ]
-            },
-            {
-                  "name": "Store Jættehøj",
-                  "text": "Lenyűgöző prehisztorikus folyosósír Mols Bjerge területén.",
-                  "category": "historical",
-                  "coords": [
-                        10.534578,
-                        56.182174
-                  ]
             }
       ],
       "ro": [
@@ -6667,24 +6379,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         10.579481,
                         56.209736
-                  ]
-            },
-            {
-                  "name": "Agri Bavnehøj",
-                  "text": "Cel mai înalt punct din Parcul Național Mols Bjerge, unde se află un vechi tumul funerar.",
-                  "category": "historical",
-                  "coords": [
-                        10.536513,
-                        56.229877
-                  ]
-            },
-            {
-                  "name": "Lindhøj",
-                  "text": "Movilă funerară în Parcul Național Mols Bjerge, cu vedere spre golf.",
-                  "category": "historical",
-                  "coords": [
-                        10.510471,
-                        56.178712
                   ]
             },
             {
@@ -6722,24 +6416,6 @@ export const denmarkReliefV2: POI[] = [
                         10.522903,
                         56.236896
                   ]
-            },
-            {
-                  "name": "Brunhøje",
-                  "text": "Movile funerare preistorice în dealurile Mols Bjerge.",
-                  "category": "historical",
-                  "coords": [
-                        10.515551,
-                        56.18582
-                  ]
-            },
-            {
-                  "name": "Store Jættehøj",
-                  "text": "Un impresionant mormânt preistoric cu coridor în Mols Bjerge.",
-                  "category": "historical",
-                  "coords": [
-                        10.534578,
-                        56.182174
-                  ]
             }
       ],
       "en": [
@@ -6750,24 +6426,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         10.579481,
                         56.209736
-                  ]
-            },
-            {
-                  "name": "Agri Bavnehøj",
-                  "text": "The highest point in the Mols Bjerge National Park, featuring an ancient burial mound.",
-                  "category": "historical",
-                  "coords": [
-                        10.536513,
-                        56.229877
-                  ]
-            },
-            {
-                  "name": "Lindhøj",
-                  "text": "Burial mound in Mols Bjerge National Park overlooking the bay.",
-                  "category": "historical",
-                  "coords": [
-                        10.510471,
-                        56.178712
                   ]
             },
             {
@@ -6804,24 +6462,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         10.522903,
                         56.236896
-                  ]
-            },
-            {
-                  "name": "Brunhøje",
-                  "text": "Cluster of prehistoric burial mounds in the Mols Bjerge hills.",
-                  "category": "historical",
-                  "coords": [
-                        10.515551,
-                        56.18582
-                  ]
-            },
-            {
-                  "name": "Store Jættehøj",
-                  "text": "An impressive prehistoric passage grave in Mols Bjerge.",
-                  "category": "historical",
-                  "coords": [
-                        10.534578,
-                        56.182174
                   ]
             }
       ]
@@ -7530,15 +7170,6 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sorø Museum",
-                  "text": "Das Museum dokumentiert die Stadtgeschichte von Sorø und befindet sich in einem historischen Gebäude.",
-                  "category": "museum",
-                  "coords": [
-                        11.55639,
-                        55.433281
-                  ]
-            },
-            {
                   "name": "Kongshøj",
                   "text": "Ein historischer Grabhügel bei Sorø, der als bedeutende archäologische Stätte der Region gilt.",
                   "category": "historical",
@@ -7557,39 +7188,12 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hauchs Physiske Cabinet",
-                  "text": "Eine historische Sammlung physikalischer Instrumente aus dem späten 18. und frühen 19. Jahrhundert.",
-                  "category": "museum",
-                  "coords": [
-                        11.551661,
-                        55.431719
-                  ]
-            },
-            {
                   "name": "Topshøj Skov",
                   "text": "Ein Waldgebiet bei Sorø, das wichtige archäologische Funde und prähistorische Denkmäler beherbergt.",
                   "category": "historical",
                   "coords": [
                         11.538444,
                         55.392727
-                  ]
-            },
-            {
-                  "name": "Essotanken i Sorø",
-                  "text": "Eine restaurierte historische Tankstelle in Sorø, die heute als technisches Denkmal dient.",
-                  "category": "museum",
-                  "coords": [
-                        11.559103,
-                        55.438875
-                  ]
-            },
-            {
-                  "name": "Skjolden badestrand",
-                  "text": "Ein Badestrand in der Nähe von Sorø Bakke für sommerliche Erholung.",
-                  "category": "recreational",
-                  "coords": [
-                        11.548755,
-                        55.44153
                   ]
             },
             {
@@ -7613,15 +7217,6 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sorø Museum",
-                  "text": "A múzeum Sorø várostörténetét dokumentálja, és egy történelmi épületben található.",
-                  "category": "museum",
-                  "coords": [
-                        11.55639,
-                        55.433281
-                  ]
-            },
-            {
                   "name": "Kongshøj",
                   "text": "Történelmi sírhalom Sorø közelében, amely a régió jelentős régészeti lelőhelye.",
                   "category": "historical",
@@ -7640,39 +7235,12 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hauchs Physiske Cabinet",
-                  "text": "Fizikai eszközök történelmi gyűjteménye a 18. század végéről és a 19. század elejéről.",
-                  "category": "museum",
-                  "coords": [
-                        11.551661,
-                        55.431719
-                  ]
-            },
-            {
                   "name": "Topshøj Skov",
                   "text": "Erdős terület Sorø közelében, amely fontos régészeti leleteknek és őskori emlékeknek ad otthont.",
                   "category": "historical",
                   "coords": [
                         11.538444,
                         55.392727
-                  ]
-            },
-            {
-                  "name": "Essotanken i Sorø",
-                  "text": "Restaurált történelmi benzinkút Sorø-ban, amely ma technikai műemlékként szolgál.",
-                  "category": "museum",
-                  "coords": [
-                        11.559103,
-                        55.438875
-                  ]
-            },
-            {
-                  "name": "Skjolden badestrand",
-                  "text": "Fürdőstrand Sorø Bakke közelében a nyári kikapcsolódáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        11.548755,
-                        55.44153
                   ]
             },
             {
@@ -7696,15 +7264,6 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sorø Museum",
-                  "text": "Muzeul documentează istoria orașului Sorø și este situat într-o clădire istorică.",
-                  "category": "museum",
-                  "coords": [
-                        11.55639,
-                        55.433281
-                  ]
-            },
-            {
                   "name": "Kongshøj",
                   "text": "Un tumul istoric lângă Sorø, considerat un sit arheologic important al regiunii.",
                   "category": "historical",
@@ -7723,39 +7282,12 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hauchs Physiske Cabinet",
-                  "text": "O colecție istorică de instrumente fizice de la sfârșitul secolului al XVIII-lea și începutul secolului al XIX-lea.",
-                  "category": "museum",
-                  "coords": [
-                        11.551661,
-                        55.431719
-                  ]
-            },
-            {
                   "name": "Topshøj Skov",
                   "text": "O zonă forestieră lângă Sorø, care găzduiește descoperiri arheologice importante și monumente preistorice.",
                   "category": "historical",
                   "coords": [
                         11.538444,
                         55.392727
-                  ]
-            },
-            {
-                  "name": "Essotanken i Sorø",
-                  "text": "O benzinărie istorică restaurată din Sorø, care servește astăzi ca monument tehnic.",
-                  "category": "museum",
-                  "coords": [
-                        11.559103,
-                        55.438875
-                  ]
-            },
-            {
-                  "name": "Skjolden badestrand",
-                  "text": "O plajă pentru scăldat lângă Sorø Bakke pentru recreere de vară.",
-                  "category": "recreational",
-                  "coords": [
-                        11.548755,
-                        55.44153
                   ]
             },
             {
@@ -7779,15 +7311,6 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sorø Museum",
-                  "text": "The museum documents the local history of Sorø and is located in a historic building.",
-                  "category": "museum",
-                  "coords": [
-                        11.55639,
-                        55.433281
-                  ]
-            },
-            {
                   "name": "Kongshøj",
                   "text": "A historic burial mound near Sorø, considered a significant archaeological site of the region.",
                   "category": "historical",
@@ -7806,39 +7329,12 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hauchs Physiske Cabinet",
-                  "text": "A historic collection of physical instruments from the late 18th and early 19th centuries.",
-                  "category": "museum",
-                  "coords": [
-                        11.551661,
-                        55.431719
-                  ]
-            },
-            {
                   "name": "Topshøj Skov",
                   "text": "A forested area near Sorø that home to important archaeological finds and prehistoric monuments.",
                   "category": "historical",
                   "coords": [
                         11.538444,
                         55.392727
-                  ]
-            },
-            {
-                  "name": "Essotanken i Sorø",
-                  "text": "A restored historic gas station in Sorø that now serves as a technical monument.",
-                  "category": "museum",
-                  "coords": [
-                        11.559103,
-                        55.438875
-                  ]
-            },
-            {
-                  "name": "Skjolden badestrand",
-                  "text": "A swimming beach near Sorø Bakke for summer recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        11.548755,
-                        55.44153
                   ]
             },
             {
@@ -8844,48 +8340,12 @@ export const denmarkReliefV2: POI[] = [
     id: "denmark-falster-bakke-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Præstehøjen",
-                  "text": "Ein antiker Grabhügel und eine archäologische Stätte in der Nähe von Falster.",
-                  "category": "historical",
-                  "coords": [
-                        11.953259,
-                        54.738149
-                  ]
-            },
-            {
-                  "name": "Prejehøj",
-                  "text": "Ein prähistorischer Grabhügel in der Region Falster Bakke.",
-                  "category": "historical",
-                  "coords": [
-                        11.942508,
-                        54.720461
-                  ]
-            },
-            {
                   "name": "Galleri Matthies",
                   "text": "Eine lokale Kunstgalerie, die verschiedene Werke in der Gegend von Falster ausstellt.",
                   "category": "museum",
                   "coords": [
                         11.991746,
                         54.767564
-                  ]
-            },
-            {
-                  "name": "Idestrup Kirke",
-                  "text": "Eine traditionelle dänische Dorfkirche auf der Insel Falster.",
-                  "category": "religious",
-                  "coords": [
-                        11.957987,
-                        54.742383
-                  ]
-            },
-            {
-                  "name": "Lindeskovkirken",
-                  "text": "Ein modernes Gotteshaus für die Gemeinde in der Region Falster.",
-                  "category": "religious",
-                  "coords": [
-                        11.901208,
-                        54.752609
                   ]
             },
             {
@@ -8905,36 +8365,9 @@ export const denmarkReliefV2: POI[] = [
                         11.977478,
                         54.770377
                   ]
-            },
-            {
-                  "name": "Pangea Park Falster",
-                  "text": "Ein Tierpark auf der dänischen Insel Falster mit verschiedenen Tierarten.",
-                  "category": "recreational",
-                  "coords": [
-                        11.892815,
-                        54.767223
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Præstehøjen",
-                  "text": "Egy ősi sírhalom és régészeti lelőhely Falster közelében.",
-                  "category": "historical",
-                  "coords": [
-                        11.953259,
-                        54.738149
-                  ]
-            },
-            {
-                  "name": "Prejehøj",
-                  "text": "Egy őskori sírhalom Falster Bakke régiójában.",
-                  "category": "historical",
-                  "coords": [
-                        11.942508,
-                        54.720461
-                  ]
-            },
             {
                   "name": "Galleri Matthies",
                   "text": "Helyi művészeti galéria, amely különféle alkotásokat mutat be Falster környékén.",
@@ -8942,24 +8375,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         11.991746,
                         54.767564
-                  ]
-            },
-            {
-                  "name": "Idestrup Kirke",
-                  "text": "Egy hagyományos dán falusi templom Falster szigetén.",
-                  "category": "religious",
-                  "coords": [
-                        11.957987,
-                        54.742383
-                  ]
-            },
-            {
-                  "name": "Lindeskovkirken",
-                  "text": "Modern templom, amely a Falster régió közösségét szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        11.901208,
-                        54.752609
                   ]
             },
             {
@@ -8979,36 +8394,9 @@ export const denmarkReliefV2: POI[] = [
                         11.977478,
                         54.770377
                   ]
-            },
-            {
-                  "name": "Pangea Park Falster",
-                  "text": "Állatpark a dániai Falster szigetén, különféle állatfajokkal.",
-                  "category": "recreational",
-                  "coords": [
-                        11.892815,
-                        54.767223
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Præstehøjen",
-                  "text": "Un tumul antic și sit arheologic situat lângă Falster.",
-                  "category": "historical",
-                  "coords": [
-                        11.953259,
-                        54.738149
-                  ]
-            },
-            {
-                  "name": "Prejehøj",
-                  "text": "Un tumul preistoric situat în regiunea Falster Bakke.",
-                  "category": "historical",
-                  "coords": [
-                        11.942508,
-                        54.720461
-                  ]
-            },
             {
                   "name": "Galleri Matthies",
                   "text": "O galerie de artă locală care expune diverse lucrări în zona Falster.",
@@ -9016,24 +8404,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         11.991746,
                         54.767564
-                  ]
-            },
-            {
-                  "name": "Idestrup Kirke",
-                  "text": "O biserică tradițională daneză de sat situată pe insula Falster.",
-                  "category": "religious",
-                  "coords": [
-                        11.957987,
-                        54.742383
-                  ]
-            },
-            {
-                  "name": "Lindeskovkirken",
-                  "text": "Un lăcaș de cult modern care deservește comunitatea din regiunea Falster.",
-                  "category": "religious",
-                  "coords": [
-                        11.901208,
-                        54.752609
                   ]
             },
             {
@@ -9053,36 +8423,9 @@ export const denmarkReliefV2: POI[] = [
                         11.977478,
                         54.770377
                   ]
-            },
-            {
-                  "name": "Pangea Park Falster",
-                  "text": "Un parc de animale pe insula daneză Falster, cu diverse specii.",
-                  "category": "recreational",
-                  "coords": [
-                        11.892815,
-                        54.767223
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Præstehøjen",
-                  "text": "An ancient burial mound and archaeological site located near Falster.",
-                  "category": "historical",
-                  "coords": [
-                        11.953259,
-                        54.738149
-                  ]
-            },
-            {
-                  "name": "Prejehøj",
-                  "text": "A prehistoric burial mound situated in the Falster Bakke region.",
-                  "category": "historical",
-                  "coords": [
-                        11.942508,
-                        54.720461
-                  ]
-            },
             {
                   "name": "Galleri Matthies",
                   "text": "A local art gallery showcasing various works in the Falster area.",
@@ -9090,24 +8433,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         11.991746,
                         54.767564
-                  ]
-            },
-            {
-                  "name": "Idestrup Kirke",
-                  "text": "A traditional Danish village church located on the island of Falster.",
-                  "category": "religious",
-                  "coords": [
-                        11.957987,
-                        54.742383
-                  ]
-            },
-            {
-                  "name": "Lindeskovkirken",
-                  "text": "A modern place of worship serving the community in the Falster region.",
-                  "category": "religious",
-                  "coords": [
-                        11.901208,
-                        54.752609
                   ]
             },
             {
@@ -9126,15 +8451,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         11.977478,
                         54.770377
-                  ]
-            },
-            {
-                  "name": "Pangea Park Falster",
-                  "text": "An animal park on the Danish island of Falster featuring various species.",
-                  "category": "recreational",
-                  "coords": [
-                        11.892815,
-                        54.767223
                   ]
             }
       ]
@@ -9573,15 +8889,6 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arboretet",
-                  "text": "Ein botanischer Garten auf Bornholm, der eine Vielzahl an Bäumen und Sträuchern in gepflegter Umgebung zeigt.",
-                  "category": "park",
-                  "coords": [
-                        14.878027,
-                        55.120008
-                  ]
-            },
-            {
                   "name": "Rokkestenen",
                   "text": "Ein berühmter Findling auf Bornholm, der sich trotz seiner Größe leicht in Bewegung versetzen lässt.",
                   "category": "landmark",
@@ -9617,15 +8924,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         14.85742,
                         55.152885
-                  ]
-            },
-            {
-                  "name": "Arboretet",
-                  "text": "Botanikus kert Bornholm szigetén, amely különféle fákat és cserjéket mutat be gondozott környezetben.",
-                  "category": "park",
-                  "coords": [
-                        14.878027,
-                        55.120008
                   ]
             },
             {
@@ -9667,15 +8965,6 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arboretet",
-                  "text": "O grădină botanică pe Bornholm, care prezintă o varietate de arbori și arbuști într-un mediu îngrijit.",
-                  "category": "park",
-                  "coords": [
-                        14.878027,
-                        55.120008
-                  ]
-            },
-            {
                   "name": "Rokkestenen",
                   "text": "Un faimos bloc eratic pe Bornholm care, în ciuda dimensiunilor sale, poate fi pus ușor în mișcare.",
                   "category": "landmark",
@@ -9711,15 +9000,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         14.85742,
                         55.152885
-                  ]
-            },
-            {
-                  "name": "Arboretet",
-                  "text": "A botanical garden on Bornholm showcasing a variety of trees and shrubs in a manicured setting.",
-                  "category": "park",
-                  "coords": [
-                        14.878027,
-                        55.120008
                   ]
             },
             {
@@ -9852,15 +9132,6 @@ export const denmarkReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Langedyss",
-                  "text": "Langedyss ist eine archäologische Stätte in Ærø Bakke, die Überreste eines prähistorischen Grabmals beherbergt.",
-                  "category": "historical",
-                  "coords": [
-                        10.413397,
-                        54.87253
-                  ]
-            },
-            {
                   "name": "Tingstedet",
                   "text": "Tingstedet ist eine historische archäologische Stätte in Ærø Bakke, die vermutlich als Versammlungsort diente.",
                   "category": "historical",
@@ -9895,15 +9166,6 @@ export const denmarkReliefV2: POI[] = [
                         10.436444,
                         54.825599
                   ]
-            },
-            {
-                  "name": "Nevre Strand",
-                  "text": "Nevre Strand ist ein ruhiger Küstenabschnitt in Ærø Bakke, ideal für Naturbeobachtungen.",
-                  "category": "recreational",
-                  "coords": [
-                        10.418489,
-                        54.87851
-                  ]
             }
       ],
       "hu": [
@@ -9914,15 +9176,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         10.417592,
                         54.866848
-                  ]
-            },
-            {
-                  "name": "Langedyss",
-                  "text": "Langedyss egy régészeti lelőhely Ærø Bakke területén, amely egy őskori síremlék maradványait őrzi.",
-                  "category": "historical",
-                  "coords": [
-                        10.413397,
-                        54.87253
                   ]
             },
             {
@@ -9960,15 +9213,6 @@ export const denmarkReliefV2: POI[] = [
                         10.436444,
                         54.825599
                   ]
-            },
-            {
-                  "name": "Nevre Strand",
-                  "text": "Nevre Strand egy csendes tengerparti szakasz Ærø Bakke közelében, amely kiváló a természet megfigyelésére.",
-                  "category": "recreational",
-                  "coords": [
-                        10.418489,
-                        54.87851
-                  ]
             }
       ],
       "ro": [
@@ -9979,15 +9223,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         10.417592,
                         54.866848
-                  ]
-            },
-            {
-                  "name": "Langedyss",
-                  "text": "Langedyss este un sit arheologic din Ærø Bakke ce adăpostește rămășițele unui monument funerar preistoric.",
-                  "category": "historical",
-                  "coords": [
-                        10.413397,
-                        54.87253
                   ]
             },
             {
@@ -10025,15 +9260,6 @@ export const denmarkReliefV2: POI[] = [
                         10.436444,
                         54.825599
                   ]
-            },
-            {
-                  "name": "Nevre Strand",
-                  "text": "Nevre Strand este o porțiune liniștită de coastă în Ærø Bakke, ideală pentru relaxare în natură.",
-                  "category": "recreational",
-                  "coords": [
-                        10.418489,
-                        54.87851
-                  ]
             }
       ],
       "en": [
@@ -10044,15 +9270,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         10.417592,
                         54.866848
-                  ]
-            },
-            {
-                  "name": "Langedyss",
-                  "text": "Langedyss is an archaeological site in Ærø Bakke containing the remains of a prehistoric tomb.",
-                  "category": "historical",
-                  "coords": [
-                        10.413397,
-                        54.87253
                   ]
             },
             {
@@ -10089,15 +9306,6 @@ export const denmarkReliefV2: POI[] = [
                   "coords": [
                         10.436444,
                         54.825599
-                  ]
-            },
-            {
-                  "name": "Nevre Strand",
-                  "text": "Nevre Strand is a quiet coastal area in Ærø Bakke, suitable for nature walks and seaside relaxation.",
-                  "category": "recreational",
-                  "coords": [
-                        10.418489,
-                        54.87851
                   ]
             }
       ]

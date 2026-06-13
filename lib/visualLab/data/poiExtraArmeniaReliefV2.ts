@@ -4701,15 +4701,6 @@ export const poiExtraArmeniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stepan Shahumyan",
-                  "text": "A monument to the Bolshevik revolutionary leader Stepan Shahumyan in the Lori region.",
-                  "category": "historical",
-                  "coords": [
-                        44.384471,
-                        41.011079
-                  ]
-            },
-            {
                   "name": "Mayori dzor",
                   "text": "A deep gorge in the Lori region known for its dramatic basalt formations and natural beauty.",
                   "category": "landmark",
@@ -4761,15 +4752,6 @@ export const poiExtraArmeniaReliefV2: POI[] = [
                   "coords": [
                         44.290445,
                         41.016349
-                  ]
-            },
-            {
-                  "name": "Stepan Shaumian's Museum",
-                  "text": "This house-museum in Stepanavan is dedicated to the life and activities of the Bolshevik revolutionary Stepan Shaumian.",
-                  "category": "museum",
-                  "coords": [
-                        44.383983,
-                        41.008817
                   ]
             },
             {
@@ -5355,15 +5337,6 @@ export const poiExtraArmeniaReliefV2: POI[] = [
                   "coords": [
                         44.662119,
                         40.276266
-                  ]
-            },
-            {
-                  "name": "MALIBU",
-                  "text": "A popular leisure and entertainment complex on the Kotayk Plateau, often visited for its large outdoor pools.",
-                  "category": "landmark",
-                  "coords": [
-                        44.640953,
-                        40.278479
                   ]
             },
             {

@@ -2217,15 +2217,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Independence Monument",
-                  "text": "A commemorative obelisk standing in a public space to honor Myanmar's sovereignty from colonial rule.",
-                  "category": "historical",
-                  "coords": [
-                        96.47425,
-                        22.031061
-                  ]
-            },
-            {
                   "name": "Outdoor Market",
                   "text": "Open-air stalls selling fresh mountain produce, flowers, and local snacks.",
                   "category": "cultural",
@@ -2280,15 +2271,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Purcell Tower",
-                  "text": "A historic clock tower in the town center that mimics Big Ben's chime.",
-                  "category": "landmark",
-                  "coords": [
-                        96.464098,
-                        22.026731
-                  ]
-            },
-            {
                   "name": "Colonial House",
                   "text": "A stately brick and timber residence from the early 20th century in European style.",
                   "category": "landmark",
@@ -2322,15 +2304,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
                   "coords": [
                         96.533837,
                         22.065261
-                  ]
-            },
-            {
-                  "name": "Royal Jasmine Hotel",
-                  "text": "An upscale hotel set in a quiet area, often reflecting the local architectural style.",
-                  "category": "landmark",
-                  "coords": [
-                        96.475911,
-                        22.030535
                   ]
             },
             {
@@ -9267,15 +9240,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "labyrinth",
-                  "text": "Dieses ungewöhnliche Labyrinth aus Ziegelsteinen beim Pashupatinath-Tempel ist mit 64 Shiva-Lingas aus Marmor gesäumt.",
-                  "category": "landmark",
-                  "coords": [
-                        96.461263,
-                        22.027549
-                  ]
-            },
-            {
                   "name": "ma mar thaw",
                   "text": "Diese Bronzestatue an der Hauptstraße zeigt ein Mädchen aus Madaya, das ein schweres Bündel Brennholz auf dem Kopf trägt.",
                   "category": "landmark",
@@ -9291,15 +9255,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
                   "coords": [
                         96.387531,
                         21.980329
-                  ]
-            },
-            {
-                  "name": "Hotel Pan Thitsar",
-                  "text": "Ein traditionelles lokales Hotel, das den kolonialen Charme und das kühle Klima der berühmten Bergstation widerspiegelt.",
-                  "category": "landmark",
-                  "coords": [
-                        96.46651,
-                        22.033608
                   ]
             },
             {
@@ -9512,15 +9467,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "labyrinth",
-                  "text": "Ez a Pashupatinath-templomnál található szokatlan tégla-labirintus 64 márvány Shiva-lingával van szegélyezve.",
-                  "category": "landmark",
-                  "coords": [
-                        96.461263,
-                        22.027549
-                  ]
-            },
-            {
                   "name": "ma mar thaw",
                   "text": "Ez a főúton található bronzszobor egy madayai lányt ábrázol, aki nehéz tűzifaköteget visz a fején.",
                   "category": "landmark",
@@ -9536,15 +9482,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
                   "coords": [
                         96.387531,
                         21.980329
-                  ]
-            },
-            {
-                  "name": "Hotel Pan Thitsar",
-                  "text": "Egy hagyományos helyi szálloda, amely a híres hegyi állomás gyarmati báját és hűvös éghajlatát tükrözi.",
-                  "category": "landmark",
-                  "coords": [
-                        96.46651,
-                        22.033608
                   ]
             },
             {
@@ -9757,15 +9694,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "labyrinth",
-                  "text": "Situat la Templul Pashupatinath, acest labirint neobișnut din cărămidă este mărginit de 64 de shiva linga din marmură.",
-                  "category": "landmark",
-                  "coords": [
-                        96.461263,
-                        22.027549
-                  ]
-            },
-            {
                   "name": "ma mar thaw",
                   "text": "Această statuie de bronz de pe drumul principal înfățișează o fată din Madaya purtând pe cap un mănunchi greu de lemne de foc.",
                   "category": "landmark",
@@ -9781,15 +9709,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
                   "coords": [
                         96.387531,
                         21.980329
-                  ]
-            },
-            {
-                  "name": "Hotel Pan Thitsar",
-                  "text": "Un hotel local tradițional care reflectă farmecul colonial și climatul răcoros al faimoasei stațiuni montane.",
-                  "category": "landmark",
-                  "coords": [
-                        96.46651,
-                        22.033608
                   ]
             },
             {
@@ -10002,15 +9921,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "labyrinth",
-                  "text": "Located at the Pashupatinath Temple, this unusual brick maze is lined with 64 marble shiva lingas.",
-                  "category": "landmark",
-                  "coords": [
-                        96.461263,
-                        22.027549
-                  ]
-            },
-            {
                   "name": "ma mar thaw",
                   "text": "This bronze statue on the main road depicts a girl from Madaya carrying a heavy bundle of firewood on her head.",
                   "category": "landmark",
@@ -10026,15 +9936,6 @@ export const poiExtraMyanmarLifeV2: POI[] = [
                   "coords": [
                         96.387531,
                         21.980329
-                  ]
-            },
-            {
-                  "name": "Hotel Pan Thitsar",
-                  "text": "A traditional local hotel reflecting the colonial charm and cool climate of the famous hill station.",
-                  "category": "landmark",
-                  "coords": [
-                        96.46651,
-                        22.033608
                   ]
             },
             {

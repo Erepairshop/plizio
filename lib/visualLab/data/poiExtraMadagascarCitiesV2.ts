@@ -186,50 +186,10 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     }, image: "/poi-images/antananarivo-cities-v2.webp"},
   {
     id: "toamasina-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Centre Culturel Canada",
-                  "text": "Das nach Kanada benannte Kulturzentrum in Toamasina.",
-                  "category": "cultural",
-                  "coords": [
-                        49.410109,
-                        -18.163743
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Centre Culturel Canada",
-                  "text": "A Kanadáról elnevezett kulturális központ Toamasinában.",
-                  "category": "cultural",
-                  "coords": [
-                        49.410109,
-                        -18.163743
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Centre Culturel Canada",
-                  "text": "Centrul cultural numit după Canada din Toamasina.",
-                  "category": "cultural",
-                  "coords": [
-                        49.410109,
-                        -18.163743
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Centre Culturel Canada",
-                  "text": "The Canada-named cultural centre in Toamasina.",
-                  "category": "cultural",
-                  "coords": [
-                        49.410109,
-                        -18.163743
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "MG-A",
@@ -266,86 +226,10 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     }, image: "/poi-images/toamasina-cities-v2.webp"},
   {
     id: "antsirabe-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Musée de la propriété intellectuelle",
-                  "text": "Das Museum für geistiges Eigentum in Antsirabe.",
-                  "category": "museum",
-                  "coords": [
-                        47.043145,
-                        -19.87282
-                  ]
-            },
-            {
-                  "name": "Cathédrale Notre-Dame-de-la-Salette",
-                  "text": "Cathédrale Notre-Dame-de-la-Salette ist die Kathedrale des Bistums Antsirabe.",
-                  "category": "religious",
-                  "coords": [
-                        47.034977,
-                        -19.870621
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Musée de la propriété intellectuelle",
-                  "text": "A szellemi tulajdon múzeuma Antsirabében.",
-                  "category": "museum",
-                  "coords": [
-                        47.043145,
-                        -19.87282
-                  ]
-            },
-            {
-                  "name": "Cathédrale Notre-Dame-de-la-Salette",
-                  "text": "A Notre-Dame-de-la-Salette-székesegyház az Antsirabe-i egyházmegye székesegyháza.",
-                  "category": "religious",
-                  "coords": [
-                        47.034977,
-                        -19.870621
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Musée de la propriété intellectuelle",
-                  "text": "Muzeul proprietății intelectuale din Antsirabe.",
-                  "category": "museum",
-                  "coords": [
-                        47.043145,
-                        -19.87282
-                  ]
-            },
-            {
-                  "name": "Cathédrale Notre-Dame-de-la-Salette",
-                  "text": "Catedrala Notre-Dame-de-la-Salette este catedrala diecezei de Antsirabe.",
-                  "category": "religious",
-                  "coords": [
-                        47.034977,
-                        -19.870621
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Musée de la propriété intellectuelle",
-                  "text": "The Museum of Intellectual Property in Antsirabe.",
-                  "category": "museum",
-                  "coords": [
-                        47.043145,
-                        -19.87282
-                  ]
-            },
-            {
-                  "name": "Cathédrale Notre-Dame-de-la-Salette",
-                  "text": "Cathédrale Notre-Dame-de-la-Salette is the cathedral of the Diocese of Antsirabe.",
-                  "category": "religious",
-                  "coords": [
-                        47.034977,
-                        -19.870621
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "MG-T",
@@ -385,122 +269,10 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
   },
   {
     id: "fianarantsoa-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Musée Diocèse Fianarantsoa",
-                  "text": "Das Diözesanmuseum von Fianarantsoa.",
-                  "category": "museum",
-                  "coords": [
-                        47.076232,
-                        -21.458374
-                  ]
-            },
-            {
-                  "name": "Centre Notre Dame de Lourdes",
-                  "text": "Das religiöse Zentrum Notre Dame de Lourdes in Fianarantsoa.",
-                  "category": "family",
-                  "coords": [
-                        47.10935,
-                        -21.465582
-                  ]
-            },
-            {
-                  "name": "Fania",
-                  "text": "Das Museum Fania in Fianarantsoa.",
-                  "category": "museum",
-                  "coords": [
-                        47.088297,
-                        -21.451532
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Musée Diocèse Fianarantsoa",
-                  "text": "A Fianarantsoa-i egyházmegye múzeuma.",
-                  "category": "museum",
-                  "coords": [
-                        47.076232,
-                        -21.458374
-                  ]
-            },
-            {
-                  "name": "Centre Notre Dame de Lourdes",
-                  "text": "A Fianarantsoa-i Notre Dame de Lourdes központ.",
-                  "category": "family",
-                  "coords": [
-                        47.10935,
-                        -21.465582
-                  ]
-            },
-            {
-                  "name": "Fania",
-                  "text": "A Fania múzeum Fianarantsoában.",
-                  "category": "museum",
-                  "coords": [
-                        47.088297,
-                        -21.451532
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Musée Diocèse Fianarantsoa",
-                  "text": "Muzeul Diecezei din Fianarantsoa.",
-                  "category": "museum",
-                  "coords": [
-                        47.076232,
-                        -21.458374
-                  ]
-            },
-            {
-                  "name": "Centre Notre Dame de Lourdes",
-                  "text": "Centrul Notre Dame de Lourdes din Fianarantsoa.",
-                  "category": "family",
-                  "coords": [
-                        47.10935,
-                        -21.465582
-                  ]
-            },
-            {
-                  "name": "Fania",
-                  "text": "Muzeul Fania din Fianarantsoa.",
-                  "category": "museum",
-                  "coords": [
-                        47.088297,
-                        -21.451532
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Musée Diocèse Fianarantsoa",
-                  "text": "The Diocese Museum of Fianarantsoa.",
-                  "category": "museum",
-                  "coords": [
-                        47.076232,
-                        -21.458374
-                  ]
-            },
-            {
-                  "name": "Centre Notre Dame de Lourdes",
-                  "text": "The Notre Dame de Lourdes centre in Fianarantsoa.",
-                  "category": "family",
-                  "coords": [
-                        47.10935,
-                        -21.465582
-                  ]
-            },
-            {
-                  "name": "Fania",
-                  "text": "The Fania museum in Fianarantsoa.",
-                  "category": "museum",
-                  "coords": [
-                        47.088297,
-                        -21.451532
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "MG-F",
@@ -2761,15 +2533,6 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     id: "hell-ville-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Musée océanographique",
-                  "text": "Das Ozeanographische Museum in Ville.",
-                  "category": "museum",
-                  "coords": [
-                        48.291104,
-                        -13.406994
-                  ]
-            },
-            {
                   "name": "LemuriaLand",
                   "text": "Der Familienfreizeitpark LemuriaLand in Ville.",
                   "category": "family",
@@ -2825,15 +2588,6 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Musée océanographique",
-                  "text": "Az Oceanográfiai Múzeum Ville-ben.",
-                  "category": "museum",
-                  "coords": [
-                        48.291104,
-                        -13.406994
-                  ]
-            },
             {
                   "name": "LemuriaLand",
                   "text": "A LemuriaLand családi szórakoztató park Ville-ben.",
@@ -2891,15 +2645,6 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Musée océanographique",
-                  "text": "Muzeul Oceanografic din Ville.",
-                  "category": "museum",
-                  "coords": [
-                        48.291104,
-                        -13.406994
-                  ]
-            },
-            {
                   "name": "LemuriaLand",
                   "text": "Parcul de distracții pentru familie LemuriaLand din Ville.",
                   "category": "family",
@@ -2955,15 +2700,6 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Musée océanographique",
-                  "text": "The Oceanographic Museum in Ville.",
-                  "category": "museum",
-                  "coords": [
-                        48.291104,
-                        -13.406994
-                  ]
-            },
             {
                   "name": "LemuriaLand",
                   "text": "The family amusement park LemuriaLand in Ville.",

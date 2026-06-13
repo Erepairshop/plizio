@@ -2468,15 +2468,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Camposanto Jardines de Durán",
-                  "text": "Der Camposanto Jardines de Durán ist ein wunderschön angelegter Friedhof, der ruhige Aussichtspunkte über das Gebiet von Durán bietet.",
-                  "category": "natural",
-                  "coords": [
-                        -79.827451,
-                        -2.150275
-                  ]
-            },
-            {
                   "name": "Puente Rafael Mendoza Avilés",
                   "text": "Als Teil des Brückenkomplexes der Nationalen Einheit ist die Brücke Rafael Mendoza Avilés eine wichtige Struktur, die den Fluss Guayas überquert, um eine Verbindung mit Durán herzustellen.",
                   "category": "landmark",
@@ -2566,15 +2557,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
                   "coords": [
                         -79.86437,
                         -2.152152
-                  ]
-            },
-            {
-                  "name": "Camposanto Jardines de Durán",
-                  "text": "A Camposanto Jardines de Durán egy gyönyörűen parkosított temető, amely békés kilátópontokat kínál Durán területére.",
-                  "category": "natural",
-                  "coords": [
-                        -79.827451,
-                        -2.150275
                   ]
             },
             {
@@ -2670,15 +2652,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Camposanto Jardines de Durán",
-                  "text": "Camposanto Jardines de Durán este un cimitir frumos amenajat, care oferă puncte de belvedere liniștite asupra zonei Durán.",
-                  "category": "natural",
-                  "coords": [
-                        -79.827451,
-                        -2.150275
-                  ]
-            },
-            {
                   "name": "Puente Rafael Mendoza Avilés",
                   "text": "Parte a complexului Podul Unității Naționale, podul Rafael Mendoza Avilés este o structură majoră care traversează râul Guayas pentru a se conecta cu Durán.",
                   "category": "landmark",
@@ -2768,15 +2741,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
                   "coords": [
                         -79.86437,
                         -2.152152
-                  ]
-            },
-            {
-                  "name": "Camposanto Jardines de Durán",
-                  "text": "The Camposanto Jardines de Durán is a beautifully landscaped cemetery that provides tranquil viewpoint vistas over the Durán area.",
-                  "category": "natural",
-                  "coords": [
-                        -79.827451,
-                        -2.150275
                   ]
             },
             {
@@ -9539,15 +9503,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Orquesta Sinfónica Cristiana del Ecuador",
-                  "text": "Dieser Theaterraum für das ecuadorianische christliche Sinfonieorchester befindet sich in der Nähe der Metropolitankathedrale in Guayaquil.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.896664,
-                        -2.189451
-                  ]
-            },
-            {
                   "name": "Cead Ministerios",
                   "text": "Diese christliche Stätte der Cead Ministries befindet sich in der Nähe der Metropolitankathedrale von Guayaquil.",
                   "category": "landmark",
@@ -9637,15 +9592,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
                   "coords": [
                         -79.8841,
                         -2.194535
-                  ]
-            },
-            {
-                  "name": "Orquesta Sinfónica Cristiana del Ecuador",
-                  "text": "Ez az ecuadori Keresztény Szimfonikus Zenekar színházi tere a guayaquili Fővárosi Katedrális közelében található.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.896664,
-                        -2.189451
                   ]
             },
             {
@@ -9741,15 +9687,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Orquesta Sinfónica Cristiana del Ecuador",
-                  "text": "Acest spațiu de teatru pentru Orchestra Simfonică Creștină din Ecuador este situat lângă Catedrala Metropolitană din Guayaquil.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.896664,
-                        -2.189451
-                  ]
-            },
-            {
                   "name": "Cead Ministerios",
                   "text": "Acest sit creștin Cead Ministries este situat aproape de Catedrala Metropolitană din Guayaquil.",
                   "category": "landmark",
@@ -9839,15 +9776,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
                   "coords": [
                         -79.8841,
                         -2.194535
-                  ]
-            },
-            {
-                  "name": "Orquesta Sinfónica Cristiana del Ecuador",
-                  "text": "This theater space for the Ecuadorian Christian Symphony Orchestra is located near the Metropolitan Cathedral in Guayaquil.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.896664,
-                        -2.189451
                   ]
             },
             {
@@ -19417,15 +19345,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Puente del Velero",
-                  "text": "Diese markante Brücke überspannt den Estero Salado und ist ein wichtiges architektonisches Bauwerk in Guayaquil.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.90132,
-                        -2.189033
-                  ]
-            },
-            {
                   "name": "Museo del Bombero \"Félix Luque Plata\"",
                   "text": "Das Feuerwehrmuseum stellt historische Löschfahrzeuge und antike Ausrüstungsgegenstände der örtlichen Feuerwehr aus.",
                   "category": "museum",
@@ -19650,15 +19569,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
                   "coords": [
                         -79.895036,
                         -2.211172
-                  ]
-            },
-            {
-                  "name": "Puente del Velero",
-                  "text": "Ez a feltűnő híd az Estero Salado felett ível át, és Guayaquil egyik fontos építészeti alkotása.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.90132,
-                        -2.189033
                   ]
             },
             {
@@ -19889,15 +19799,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Puente del Velero",
-                  "text": "Acest pod impresionant traversează Estero Salado și este o structură arhitecturală importantă din Guayaquil.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.90132,
-                        -2.189033
-                  ]
-            },
-            {
                   "name": "Museo del Bombero \"Félix Luque Plata\"",
                   "text": "Muzeul pompierilor expune mașini de intervenție istorice și echipamente vechi ale brigăzii locale.",
                   "category": "museum",
@@ -20122,15 +20023,6 @@ export const poiExtraEcuadorLandmarksV2: POI[] = [
                   "coords": [
                         -79.895036,
                         -2.211172
-                  ]
-            },
-            {
-                  "name": "Puente del Velero",
-                  "text": "This prominent bridge spans the Estero Salado and stands as an important architectural structure in Guayaquil.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.90132,
-                        -2.189033
                   ]
             },
             {

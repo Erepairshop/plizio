@@ -33,33 +33,6 @@ export const austriaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Karlhochkogel",
-                  "text": "Ein hoher Berggipfel im Hochschwab-Massiv, bekannt für seine beeindruckenden Kalksteinfelsen.",
-                  "category": "landmark",
-                  "coords": [
-                        15.157815,
-                        47.60711
-                  ]
-            },
-            {
-                  "name": "G'hacktkogel",
-                  "text": "Ein schroffer Gipfel in der Hochschwab-Region, der über steile und malerische Wanderwege erreichbar ist.",
-                  "category": "landmark",
-                  "coords": [
-                        15.131403,
-                        47.614186
-                  ]
-            },
-            {
-                  "name": "Hochschwab",
-                  "text": "Der Hochschwab ist der höchste Gipfel des gleichnamigen Gebirgsmassivs in der Steiermark.",
-                  "category": "landmark",
-                  "coords": [
-                        15.142451,
-                        47.618242
-                  ]
-            },
-            {
                   "name": "Zagelkogel",
                   "text": "Der Zagelkogel ist ein Hügel im Hochschwab-Gebirge.",
                   "category": "landmark",
@@ -104,33 +77,6 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         15.096136,
                         47.596659
-                  ]
-            },
-            {
-                  "name": "Karlhochkogel",
-                  "text": "Magas hegycsúcs a Hochschwab-masszívumban, amely lenyűgöző mészkőszikláiról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        15.157815,
-                        47.60711
-                  ]
-            },
-            {
-                  "name": "G'hacktkogel",
-                  "text": "Egyenetlen csúcs a Hochschwab-régióban, amely meredek és festői túraútvonalakon érhető el.",
-                  "category": "landmark",
-                  "coords": [
-                        15.131403,
-                        47.614186
-                  ]
-            },
-            {
-                  "name": "Hochschwab",
-                  "text": "A Hochschwab a stájerországi Hochschwab-hegység legmagasabb csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        15.142451,
-                        47.618242
                   ]
             },
             {
@@ -181,33 +127,6 @@ export const austriaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Karlhochkogel",
-                  "text": "Un vârf muntos înalt din masivul Hochschwab, cunoscut pentru stâncile sale impresionante de calcar.",
-                  "category": "landmark",
-                  "coords": [
-                        15.157815,
-                        47.60711
-                  ]
-            },
-            {
-                  "name": "G'hacktkogel",
-                  "text": "Un vârf accidentat din regiunea Hochschwab, accesibil prin trasee de drumeție abrupte și pitorești.",
-                  "category": "landmark",
-                  "coords": [
-                        15.131403,
-                        47.614186
-                  ]
-            },
-            {
-                  "name": "Hochschwab",
-                  "text": "Hochschwab este cel mai înalt vârf al masivului muntos omonim din Stiria.",
-                  "category": "landmark",
-                  "coords": [
-                        15.142451,
-                        47.618242
-                  ]
-            },
-            {
                   "name": "Zagelkogel",
                   "text": "Zagelkogel este o colină în Munții Hochschwab.",
                   "category": "landmark",
@@ -252,33 +171,6 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         15.096136,
                         47.596659
-                  ]
-            },
-            {
-                  "name": "Karlhochkogel",
-                  "text": "A high mountain peak in the Hochschwab massif known for its impressive limestone cliffs.",
-                  "category": "landmark",
-                  "coords": [
-                        15.157815,
-                        47.60711
-                  ]
-            },
-            {
-                  "name": "G'hacktkogel",
-                  "text": "A rugged peak in the Hochschwab region reachable via steep and scenic hiking paths.",
-                  "category": "landmark",
-                  "coords": [
-                        15.131403,
-                        47.614186
-                  ]
-            },
-            {
-                  "name": "Hochschwab",
-                  "text": "The Hochschwab is the highest peak of the eponymous mountain range in Styria.",
-                  "category": "landmark",
-                  "coords": [
-                        15.142451,
-                        47.618242
                   ]
             },
             {
@@ -3381,24 +3273,6 @@ export const austriaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zagelkogel",
-                  "text": "Ein felsiger Gipfel in der Gebirgsgruppe des Hochschwab.",
-                  "category": "landmark",
-                  "coords": [
-                        15.123701,
-                        47.610604
-                  ]
-            },
-            {
-                  "name": "Stangenwand",
-                  "text": "Eine markante Felswand und ein Gipfel im Hochschwab-Massiv, bekannt bei Kletterern.",
-                  "category": "landmark",
-                  "coords": [
-                        15.115672,
-                        47.606924
-                  ]
-            },
-            {
                   "name": "Großer Beilstein",
                   "text": "Ein imposanter Berggipfel in der steirischen Hochschwab-Region.",
                   "category": "landmark",
@@ -3452,24 +3326,6 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         15.142451,
                         47.618242
-                  ]
-            },
-            {
-                  "name": "Zagelkogel",
-                  "text": "Sziklás hegycsúcs a Hochschwab-hegység területén.",
-                  "category": "landmark",
-                  "coords": [
-                        15.123701,
-                        47.610604
-                  ]
-            },
-            {
-                  "name": "Stangenwand",
-                  "text": "Jellegzetes sziklafal és hegycsúcs a Hochschwab-masszívumban, a sziklamászók körében ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        15.115672,
-                        47.606924
                   ]
             },
             {
@@ -3529,24 +3385,6 @@ export const austriaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zagelkogel",
-                  "text": "Un vârf stâncos situat în masivul Hochschwab.",
-                  "category": "landmark",
-                  "coords": [
-                        15.123701,
-                        47.610604
-                  ]
-            },
-            {
-                  "name": "Stangenwand",
-                  "text": "Un perete stâncos și vârf proeminent în masivul Hochschwab, cunoscut printre alpiniști.",
-                  "category": "landmark",
-                  "coords": [
-                        15.115672,
-                        47.606924
-                  ]
-            },
-            {
                   "name": "Großer Beilstein",
                   "text": "Un vârf montan impunător din regiunea stiriană Hochschwab.",
                   "category": "landmark",
@@ -3600,24 +3438,6 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         15.142451,
                         47.618242
-                  ]
-            },
-            {
-                  "name": "Zagelkogel",
-                  "text": "A rocky peak located within the Hochschwab mountain range.",
-                  "category": "landmark",
-                  "coords": [
-                        15.123701,
-                        47.610604
-                  ]
-            },
-            {
-                  "name": "Stangenwand",
-                  "text": "A prominent rock face and peak in the Hochschwab massif, well-known among climbers.",
-                  "category": "landmark",
-                  "coords": [
-                        15.115672,
-                        47.606924
                   ]
             },
             {
@@ -3676,302 +3496,10 @@ export const austriaReliefV2: POI[] = [
   },
   {
     id: "austria-dachstein-gipfel-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Alpin-Museum Ramsau Dachstein",
-                  "text": "Das Alpin-Museum Ramsau Dachstein zeigt die alpine Geschichte am Fuße des Dachsteins.",
-                  "category": "museum",
-                  "coords": [
-                        13.619213,
-                        47.443013
-                  ]
-            },
-            {
-                  "name": "Hohe Gamsfeldspitze",
-                  "text": "Die Hohe Gamsfeldspitze ist ein Gipfel auf dem Dachstein-Gipfelplateau.",
-                  "category": "landmark",
-                  "coords": [
-                        13.645396,
-                        47.451982
-                  ]
-            },
-            {
-                  "name": "Großer Koppenkarstein",
-                  "text": "Ein Gipfel im Dachsteinmassiv, bekannt für seinen Klettersteig und den Gletscherblick.",
-                  "category": "landmark",
-                  "coords": [
-                        13.64015,
-                        47.466309
-                  ]
-            },
-            {
-                  "name": "Hinterer Türlspitz",
-                  "text": "Ein Gipfel in der Dachsteinregion, beliebt bei Bergwanderern.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635552,
-                        47.46271
-                  ]
-            },
-            {
-                  "name": "Hunerkogel",
-                  "text": "Ein Gipfel am Dachstein mit Bergstation und einer Aussichtsplattform aus Glas.",
-                  "category": "landmark",
-                  "coords": [
-                        13.626113,
-                        47.46809
-                  ]
-            },
-            {
-                  "name": "Kleiner Koppenkarstein",
-                  "text": "Ein Nachbargipfel des Großen Koppenkarsteins im Dachstein-Gebiet.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635496,
-                        47.466334
-                  ]
-            },
-            {
-                  "name": "Marstein",
-                  "text": "Der Marstein ist ein auffälliger Stein auf dem Dachstein-Gipfelplateau.",
-                  "category": "landmark",
-                  "coords": [
-                        13.596974,
-                        47.463315
-                  ]
-            },
-            {
-                  "name": "Mitterspitz",
-                  "text": "Der Mitterspitz ist ein Gipfel im Dachstein-Gebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        13.595527,
-                        47.476101
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Alpin-Museum Ramsau Dachstein",
-                  "text": "Az Alpin-Museum Ramsau Dachstein az alpesi történelmet mutatja be a Dachstein lábánál.",
-                  "category": "museum",
-                  "coords": [
-                        13.619213,
-                        47.443013
-                  ]
-            },
-            {
-                  "name": "Hohe Gamsfeldspitze",
-                  "text": "A Hohe Gamsfeldspitze egy csúcs a Dachstein-csúcsplató fennsíkján.",
-                  "category": "landmark",
-                  "coords": [
-                        13.645396,
-                        47.451982
-                  ]
-            },
-            {
-                  "name": "Großer Koppenkarstein",
-                  "text": "A Dachstein-masszívum egyik csúcsa, amely via ferrata útvonalairól és gleccserkilátásáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        13.64015,
-                        47.466309
-                  ]
-            },
-            {
-                  "name": "Hinterer Türlspitz",
-                  "text": "A Dachstein-régió egyik hegycsúcsa, a hegymászók kedvelt célpontja.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635552,
-                        47.46271
-                  ]
-            },
-            {
-                  "name": "Hunerkogel",
-                  "text": "Dachsteini hegycsúcs felvonóállomással és egy üveg kilátóterasszal.",
-                  "category": "landmark",
-                  "coords": [
-                        13.626113,
-                        47.46809
-                  ]
-            },
-            {
-                  "name": "Kleiner Koppenkarstein",
-                  "text": "A Großer Koppenkarstein szomszédos csúcsa a Dachstein-vidéken.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635496,
-                        47.466334
-                  ]
-            },
-            {
-                  "name": "Marstein",
-                  "text": "A Marstein egy feltűnő kő a Dachstein-csúcsplató fennsíkján.",
-                  "category": "landmark",
-                  "coords": [
-                        13.596974,
-                        47.463315
-                  ]
-            },
-            {
-                  "name": "Mitterspitz",
-                  "text": "A Mitterspitz egy csúcs a Dachstein-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        13.595527,
-                        47.476101
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Alpin-Museum Ramsau Dachstein",
-                  "text": "Muzeul Alpin Ramsau Dachstein prezintă istoria alpină la poalele Dachsteinului.",
-                  "category": "museum",
-                  "coords": [
-                        13.619213,
-                        47.443013
-                  ]
-            },
-            {
-                  "name": "Hohe Gamsfeldspitze",
-                  "text": "Hohe Gamsfeldspitze este un vârf pe platoul vârfului Dachstein.",
-                  "category": "landmark",
-                  "coords": [
-                        13.645396,
-                        47.451982
-                  ]
-            },
-            {
-                  "name": "Großer Koppenkarstein",
-                  "text": "Un vârf în masivul Dachstein, cunoscut pentru traseele via ferrata și vederea spre ghețar.",
-                  "category": "landmark",
-                  "coords": [
-                        13.64015,
-                        47.466309
-                  ]
-            },
-            {
-                  "name": "Hinterer Türlspitz",
-                  "text": "Un vârf în regiunea Dachstein, popular printre excursioniști.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635552,
-                        47.46271
-                  ]
-            },
-            {
-                  "name": "Hunerkogel",
-                  "text": "Un vârf pe Dachstein cu o stație de telecabină și o platformă de observație din sticlă.",
-                  "category": "landmark",
-                  "coords": [
-                        13.626113,
-                        47.46809
-                  ]
-            },
-            {
-                  "name": "Kleiner Koppenkarstein",
-                  "text": "Un vârf învecinat cu Großer Koppenkarstein în zona Dachstein.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635496,
-                        47.466334
-                  ]
-            },
-            {
-                  "name": "Marstein",
-                  "text": "Marstein este o piatră proeminentă pe platoul vârfului Dachstein.",
-                  "category": "landmark",
-                  "coords": [
-                        13.596974,
-                        47.463315
-                  ]
-            },
-            {
-                  "name": "Mitterspitz",
-                  "text": "Mitterspitz este un vârf în masivul Dachstein.",
-                  "category": "landmark",
-                  "coords": [
-                        13.595527,
-                        47.476101
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Alpin-Museum Ramsau Dachstein",
-                  "text": "The Alpin-Museum Ramsau Dachstein exhibits alpine history at the foot of the Dachstein.",
-                  "category": "museum",
-                  "coords": [
-                        13.619213,
-                        47.443013
-                  ]
-            },
-            {
-                  "name": "Hohe Gamsfeldspitze",
-                  "text": "Hohe Gamsfeldspitze is a peak on the Dachstein summit plateau.",
-                  "category": "landmark",
-                  "coords": [
-                        13.645396,
-                        47.451982
-                  ]
-            },
-            {
-                  "name": "Großer Koppenkarstein",
-                  "text": "A peak in the Dachstein massif known for its via ferrata and glacier views.",
-                  "category": "landmark",
-                  "coords": [
-                        13.64015,
-                        47.466309
-                  ]
-            },
-            {
-                  "name": "Hinterer Türlspitz",
-                  "text": "A mountain peak in the Dachstein region, popular among hikers.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635552,
-                        47.46271
-                  ]
-            },
-            {
-                  "name": "Hunerkogel",
-                  "text": "A peak on the Dachstein featuring a cable car station and a glass viewing platform.",
-                  "category": "landmark",
-                  "coords": [
-                        13.626113,
-                        47.46809
-                  ]
-            },
-            {
-                  "name": "Kleiner Koppenkarstein",
-                  "text": "A neighboring peak to the Großer Koppenkarstein in the Dachstein area.",
-                  "category": "landmark",
-                  "coords": [
-                        13.635496,
-                        47.466334
-                  ]
-            },
-            {
-                  "name": "Marstein",
-                  "text": "Marstein is a prominent stone on the Dachstein summit plateau.",
-                  "category": "landmark",
-                  "coords": [
-                        13.596974,
-                        47.463315
-                  ]
-            },
-            {
-                  "name": "Mitterspitz",
-                  "text": "Mitterspitz is a peak in the Dachstein mountain range.",
-                  "category": "landmark",
-                  "coords": [
-                        13.595527,
-                        47.476101
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "peak",
     parent: "AT",
@@ -4704,24 +4232,6 @@ export const austriaReliefV2: POI[] = [
     id: "austria-kitzsteinhorn-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Kitzsteinhorn",
-                  "text": "Ein berühmter Gipfel in den Hohen Tauern, bekannt für seinen Gletscher und ganzjährigen Schnee.",
-                  "category": "landmark",
-                  "coords": [
-                        12.687498,
-                        47.188044
-                  ]
-            },
-            {
-                  "name": "Großer Schmiedinger",
-                  "text": "Ein hoher Gipfel in der Region Kitzsteinhorn, der bei Bergsteigern beliebt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        12.671343,
-                        47.197251
-                  ]
-            },
-            {
                   "name": "Bambachkopf",
                   "text": "Der Bambachkopf ist ein Gipfel im Kitzsteinhorn-Gebiet.",
                   "category": "landmark",
@@ -4777,24 +4287,6 @@ export const austriaReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Kitzsteinhorn",
-                  "text": "A Magas-Tauern hegység híres hegycsúcsa, amely gleccsereiről és egész éves haváról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        12.687498,
-                        47.188044
-                  ]
-            },
-            {
-                  "name": "Großer Schmiedinger",
-                  "text": "Magas hegycsúcs a Kitzsteinhorn környékén, amely népszerű a hegymászók körében.",
-                  "category": "landmark",
-                  "coords": [
-                        12.671343,
-                        47.197251
-                  ]
-            },
             {
                   "name": "Bambachkopf",
                   "text": "A Bambachkopf egy csúcs a Kitzsteinhorn területén.",
@@ -4852,24 +4344,6 @@ export const austriaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Kitzsteinhorn",
-                  "text": "Un vârf montan faimos din masivul Hohe Tauern, cunoscut pentru ghețarul său și zăpada permanentă.",
-                  "category": "landmark",
-                  "coords": [
-                        12.687498,
-                        47.188044
-                  ]
-            },
-            {
-                  "name": "Großer Schmiedinger",
-                  "text": "Un vârf înalt din zona Kitzsteinhorn, popular printre alpiniști.",
-                  "category": "landmark",
-                  "coords": [
-                        12.671343,
-                        47.197251
-                  ]
-            },
-            {
                   "name": "Bambachkopf",
                   "text": "Bambachkopf este un vârf în zona Kitzsteinhorn.",
                   "category": "landmark",
@@ -4925,24 +4399,6 @@ export const austriaReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Kitzsteinhorn",
-                  "text": "A famous mountain peak in the High Tauern range, known for its glacier and year-round snow.",
-                  "category": "landmark",
-                  "coords": [
-                        12.687498,
-                        47.188044
-                  ]
-            },
-            {
-                  "name": "Großer Schmiedinger",
-                  "text": "A high peak in the Kitzsteinhorn area, popular with mountaineers.",
-                  "category": "landmark",
-                  "coords": [
-                        12.671343,
-                        47.197251
-                  ]
-            },
             {
                   "name": "Bambachkopf",
                   "text": "Bambachkopf is a peak in the Kitzsteinhorn area.",
@@ -5442,66 +4898,12 @@ export const austriaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zugspitze",
-                  "text": "Mit 2.962 Metern der höchste Gipfel Deutschlands und ein prominenter Berg der Alpen.",
-                  "category": "landmark",
-                  "coords": [
-                        10.986297,
-                        47.421215
-                  ]
-            },
-            {
-                  "name": "Schneefernerkopf",
-                  "text": "Ein 2.875 Meter hoher Gipfel im Wettersteingebirge in der Nähe der Zugspitze.",
-                  "category": "landmark",
-                  "coords": [
-                        10.969959,
-                        47.409597
-                  ]
-            },
-            {
-                  "name": "Südliche Wetterspitze",
-                  "text": "Ein markanter Berggipfel im Wettersteingebirge im Grenzgebiet zwischen Bayern und Tirol.",
-                  "category": "landmark",
-                  "coords": [
-                        10.970351,
-                        47.400796
-                  ]
-            },
-            {
-                  "name": "Mittlere Plattspitze",
-                  "text": "Ein Gipfel des Wettersteingebirges, der Teil des Plateaus des Zugspitzplatts ist.",
-                  "category": "landmark",
-                  "coords": [
-                        10.990347,
-                        47.395805
-                  ]
-            },
-            {
-                  "name": "Zugspitzeck",
-                  "text": "Ein Gipfel im Wettersteingebirge, der sich südwestlich der Zugspitze befindet.",
-                  "category": "landmark",
-                  "coords": [
-                        10.972345,
-                        47.41757
-                  ]
-            },
-            {
                   "name": "Nördliche Riffelspitze",
                   "text": "Ein Berggipfel im Wettersteingebirge mit weitem Blick über die umliegenden Alpen.",
                   "category": "landmark",
                   "coords": [
                         11.005791,
                         47.438804
-                  ]
-            },
-            {
-                  "name": "Badestelle Eibsee",
-                  "text": "Ein malerischer Badeplatz am kristallklaren Eibsee am Fuße der Zugspitze.",
-                  "category": "recreational",
-                  "coords": [
-                        10.985015,
-                        47.45592
                   ]
             }
       ],
@@ -5525,66 +4927,12 @@ export const austriaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zugspitze",
-                  "text": "2962 méteres magasságával Németország legmagasabb csúcsa és az Alpok meghatározó hegye.",
-                  "category": "landmark",
-                  "coords": [
-                        10.986297,
-                        47.421215
-                  ]
-            },
-            {
-                  "name": "Schneefernerkopf",
-                  "text": "2875 méter magas csúcs a Wetterstein-hegységben, a Zugspitze közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        10.969959,
-                        47.409597
-                  ]
-            },
-            {
-                  "name": "Südliche Wetterspitze",
-                  "text": "Jellegzetes hegycsúcs a Wetterstein-hegységben, Bajorország és Tirol határán.",
-                  "category": "landmark",
-                  "coords": [
-                        10.970351,
-                        47.400796
-                  ]
-            },
-            {
-                  "name": "Mittlere Plattspitze",
-                  "text": "A Wetterstein-hegység egyik csúcsa, amely a Zugspitzplatt-fennsík része.",
-                  "category": "landmark",
-                  "coords": [
-                        10.990347,
-                        47.395805
-                  ]
-            },
-            {
-                  "name": "Zugspitzeck",
-                  "text": "Csúcs a Wetterstein-hegységben, amely a Zugspitzétől délnyugatra található.",
-                  "category": "landmark",
-                  "coords": [
-                        10.972345,
-                        47.41757
-                  ]
-            },
-            {
                   "name": "Nördliche Riffelspitze",
                   "text": "Hegycsúcs a Wetterstein-hegységben, ahonnan tágas kilátás nyílik a környező Alpokra.",
                   "category": "landmark",
                   "coords": [
                         11.005791,
                         47.438804
-                  ]
-            },
-            {
-                  "name": "Badestelle Eibsee",
-                  "text": "Gleccser vízű, kristálytiszta fürdőhely az Eibsee-nél, a Zugspitze lábánál.",
-                  "category": "recreational",
-                  "coords": [
-                        10.985015,
-                        47.45592
                   ]
             }
       ],
@@ -5608,66 +4956,12 @@ export const austriaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zugspitze",
-                  "text": "Cel mai înalt vârf din Germania, cu 2.962 de metri, și un munte proeminent din Alpi.",
-                  "category": "landmark",
-                  "coords": [
-                        10.986297,
-                        47.421215
-                  ]
-            },
-            {
-                  "name": "Schneefernerkopf",
-                  "text": "Un vârf de 2.875 de metri în munții Wetterstein, situat lângă Zugspitze.",
-                  "category": "landmark",
-                  "coords": [
-                        10.969959,
-                        47.409597
-                  ]
-            },
-            {
-                  "name": "Südliche Wetterspitze",
-                  "text": "Un vârf montan distinctiv în munții Wetterstein, la granița dintre Bavaria și Tirol.",
-                  "category": "landmark",
-                  "coords": [
-                        10.970351,
-                        47.400796
-                  ]
-            },
-            {
-                  "name": "Mittlere Plattspitze",
-                  "text": "Un vârf din munții Wetterstein, făcând parte din platoul Zugspitzplatt.",
-                  "category": "landmark",
-                  "coords": [
-                        10.990347,
-                        47.395805
-                  ]
-            },
-            {
-                  "name": "Zugspitzeck",
-                  "text": "Un vârf în munții Wetterstein, situat la sud-vest de Zugspitze.",
-                  "category": "landmark",
-                  "coords": [
-                        10.972345,
-                        47.41757
-                  ]
-            },
-            {
                   "name": "Nördliche Riffelspitze",
                   "text": "Un vârf montan în munții Wetterstein, oferind vederi largi asupra Alpilor din jur.",
                   "category": "landmark",
                   "coords": [
                         11.005791,
                         47.438804
-                  ]
-            },
-            {
-                  "name": "Badestelle Eibsee",
-                  "text": "Un loc pitoresc de scăldat pe malul lacului Eibsee, la poalele vârfului Zugspitze.",
-                  "category": "recreational",
-                  "coords": [
-                        10.985015,
-                        47.45592
                   ]
             }
       ],
@@ -5691,66 +4985,12 @@ export const austriaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zugspitze",
-                  "text": "At 2,962 metres, the highest peak in Germany and a prominent mountain in the Alps.",
-                  "category": "landmark",
-                  "coords": [
-                        10.986297,
-                        47.421215
-                  ]
-            },
-            {
-                  "name": "Schneefernerkopf",
-                  "text": "A 2,875-metre peak in the Wetterstein mountains located near the Zugspitze.",
-                  "category": "landmark",
-                  "coords": [
-                        10.969959,
-                        47.409597
-                  ]
-            },
-            {
-                  "name": "Südliche Wetterspitze",
-                  "text": "A distinctive mountain peak in the Wetterstein range on the border of Bavaria and Tyrol.",
-                  "category": "landmark",
-                  "coords": [
-                        10.970351,
-                        47.400796
-                  ]
-            },
-            {
-                  "name": "Mittlere Plattspitze",
-                  "text": "A peak in the Wetterstein mountains, forming part of the Zugspitzplatt plateau.",
-                  "category": "landmark",
-                  "coords": [
-                        10.990347,
-                        47.395805
-                  ]
-            },
-            {
-                  "name": "Zugspitzeck",
-                  "text": "A peak in the Wetterstein mountains located southwest of the Zugspitze.",
-                  "category": "landmark",
-                  "coords": [
-                        10.972345,
-                        47.41757
-                  ]
-            },
-            {
                   "name": "Nördliche Riffelspitze",
                   "text": "A mountain peak in the Wetterstein range offering wide views over the surrounding Alps.",
                   "category": "landmark",
                   "coords": [
                         11.005791,
                         47.438804
-                  ]
-            },
-            {
-                  "name": "Badestelle Eibsee",
-                  "text": "A scenic swimming spot at the crystal-clear Eibsee at the foot of the Zugspitze.",
-                  "category": "recreational",
-                  "coords": [
-                        10.985015,
-                        47.45592
                   ]
             }
       ]
@@ -7044,15 +6284,6 @@ export const austriaReliefV2: POI[] = [
     id: "austria-hoher-dachtein-gletscher-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Alpin-Museum Ramsau Dachstein",
-                  "text": "Dieses Museum in Ramsau am Dachstein widmet sich der alpinen Geschichte und Kultur der Region.",
-                  "category": "museum",
-                  "coords": [
-                        13.619213,
-                        47.443013
-                  ]
-            },
-            {
                   "name": "Landfriedstein",
                   "text": "Ein markanter Berggipfel in der Gebirgsgruppe des Dachstein-Gletschers.",
                   "category": "landmark",
@@ -7105,27 +6336,9 @@ export const austriaReliefV2: POI[] = [
                         13.635496,
                         47.466334
                   ]
-            },
-            {
-                  "name": "Marstein",
-                  "text": "Ein Gipfel in der Gebirgslandschaft rund um den Dachstein-Gletscher.",
-                  "category": "landmark",
-                  "coords": [
-                        13.596974,
-                        47.463315
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Alpin-Museum Ramsau Dachstein",
-                  "text": "Ez a Ramsau am Dachstein-i múzeum a régió alpesi történelmét és kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        13.619213,
-                        47.443013
-                  ]
-            },
             {
                   "name": "Landfriedstein",
                   "text": "Egy jellegzetes hegycsúcs a Dachstein-gleccser hegységében.",
@@ -7179,27 +6392,9 @@ export const austriaReliefV2: POI[] = [
                         13.635496,
                         47.466334
                   ]
-            },
-            {
-                  "name": "Marstein",
-                  "text": "Egy csúcs a Dachstein-gleccser körüli hegyvidéken.",
-                  "category": "landmark",
-                  "coords": [
-                        13.596974,
-                        47.463315
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Alpin-Museum Ramsau Dachstein",
-                  "text": "Acest muzeu din Ramsau am Dachstein este dedicat istoriei și culturii alpine a regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        13.619213,
-                        47.443013
-                  ]
-            },
             {
                   "name": "Landfriedstein",
                   "text": "Un vârf montan proeminent în grupul muntos al ghețarului Dachstein.",
@@ -7253,27 +6448,9 @@ export const austriaReliefV2: POI[] = [
                         13.635496,
                         47.466334
                   ]
-            },
-            {
-                  "name": "Marstein",
-                  "text": "Un vârf în peisajul montan din jurul ghețarului Dachstein.",
-                  "category": "landmark",
-                  "coords": [
-                        13.596974,
-                        47.463315
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Alpin-Museum Ramsau Dachstein",
-                  "text": "This museum in Ramsau am Dachstein is dedicated to the alpine history and culture of the region.",
-                  "category": "museum",
-                  "coords": [
-                        13.619213,
-                        47.443013
-                  ]
-            },
             {
                   "name": "Landfriedstein",
                   "text": "A prominent mountain peak in the Dachstein Glacier mountain group.",
@@ -7326,15 +6503,6 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         13.635496,
                         47.466334
-                  ]
-            },
-            {
-                  "name": "Marstein",
-                  "text": "A peak in the mountain landscape around the Dachstein Glacier.",
-                  "category": "landmark",
-                  "coords": [
-                        13.596974,
-                        47.463315
                   ]
             }
       ]
@@ -8133,24 +7301,6 @@ export const austriaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Großer Donnerkogel",
-                  "text": "Ein markanter Berggipfel im Gosaukamm, der anspruchsvolle Klettertouren bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        13.481382,
-                        47.524282
-                  ]
-            },
-            {
-                  "name": "Kleiner Donnerkogel",
-                  "text": "Ein bemerkenswerter Gipfel im Gebiet Dachstein West, beliebt bei Wanderern und Bergsteigern.",
-                  "category": "landmark",
-                  "coords": [
-                        13.479145,
-                        47.527317
-                  ]
-            },
-            {
                   "name": "Hacklplatten",
                   "text": "Ein schroffer Berggipfel, der einen Panoramablick auf die Alpenlandschaft bietet.",
                   "category": "landmark",
@@ -8204,24 +7354,6 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         13.54336,
                         47.505757
-                  ]
-            },
-            {
-                  "name": "Großer Donnerkogel",
-                  "text": "A Gosaukamm-hegység kiemelkedő csúcsa, amely kihívást jelentő mászási lehetőségeket kínál.",
-                  "category": "landmark",
-                  "coords": [
-                        13.481382,
-                        47.524282
-                  ]
-            },
-            {
-                  "name": "Kleiner Donnerkogel",
-                  "text": "Jelentős csúcs a Dachstein West területén, a túrázók és hegymászók körében népszerű.",
-                  "category": "landmark",
-                  "coords": [
-                        13.479145,
-                        47.527317
                   ]
             },
             {
@@ -8281,24 +7413,6 @@ export const austriaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Großer Donnerkogel",
-                  "text": "Un vârf montan proeminent din creasta Gosaukamm, care oferă trasee de alpinism provocatoare.",
-                  "category": "landmark",
-                  "coords": [
-                        13.481382,
-                        47.524282
-                  ]
-            },
-            {
-                  "name": "Kleiner Donnerkogel",
-                  "text": "Un vârf notabil din zona Dachstein West, popular printre turiști și alpiniști.",
-                  "category": "landmark",
-                  "coords": [
-                        13.479145,
-                        47.527317
-                  ]
-            },
-            {
                   "name": "Hacklplatten",
                   "text": "Un vârf montan accidentat care oferă vederi panoramice asupra peisajului alpin.",
                   "category": "landmark",
@@ -8352,24 +7466,6 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         13.54336,
                         47.505757
-                  ]
-            },
-            {
-                  "name": "Großer Donnerkogel",
-                  "text": "A prominent mountain peak in the Gosaukamm range offering challenging climbs.",
-                  "category": "landmark",
-                  "coords": [
-                        13.481382,
-                        47.524282
-                  ]
-            },
-            {
-                  "name": "Kleiner Donnerkogel",
-                  "text": "A notable peak in the Dachstein West area, popular with hikers and climbers.",
-                  "category": "landmark",
-                  "coords": [
-                        13.479145,
-                        47.527317
                   ]
             },
             {
@@ -9096,15 +8192,6 @@ export const austriaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kieseck",
-                  "text": "Ein Berggipfel in der Region der Schladminger Tauern.",
-                  "category": "landmark",
-                  "coords": [
-                        13.825343,
-                        47.293203
-                  ]
-            },
-            {
                   "name": "Greifenberg",
                   "text": "Ein Berggipfel in den Schladminger Tauern, bekannt für seine Aussicht.",
                   "category": "landmark",
@@ -9139,15 +8226,6 @@ export const austriaReliefV2: POI[] = [
                         13.824458,
                         47.325906
                   ]
-            },
-            {
-                  "name": "Hohes Schareck",
-                  "text": "Ein hoher Gipfel in den Schladminger Tauern, häufig bestiegen von Schladming aus.",
-                  "category": "landmark",
-                  "coords": [
-                        13.838306,
-                        47.323273
-                  ]
             }
       ],
       "hu": [
@@ -9167,15 +8245,6 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         13.817173,
                         47.296192
-                  ]
-            },
-            {
-                  "name": "Kieseck",
-                  "text": "Egy hegycsúcs a Schladmingi-Tauern vidékén.",
-                  "category": "landmark",
-                  "coords": [
-                        13.825343,
-                        47.293203
                   ]
             },
             {
@@ -9213,15 +8282,6 @@ export const austriaReliefV2: POI[] = [
                         13.824458,
                         47.325906
                   ]
-            },
-            {
-                  "name": "Hohes Schareck",
-                  "text": "Egy magas csúcs a Schladmingi-Tauernben, gyakran megmászva Schladmingból.",
-                  "category": "landmark",
-                  "coords": [
-                        13.838306,
-                        47.323273
-                  ]
             }
       ],
       "ro": [
@@ -9241,15 +8301,6 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         13.817173,
                         47.296192
-                  ]
-            },
-            {
-                  "name": "Kieseck",
-                  "text": "Un vârf montan în regiunea Schladminger Tauern.",
-                  "category": "landmark",
-                  "coords": [
-                        13.825343,
-                        47.293203
                   ]
             },
             {
@@ -9287,15 +8338,6 @@ export const austriaReliefV2: POI[] = [
                         13.824458,
                         47.325906
                   ]
-            },
-            {
-                  "name": "Hohes Schareck",
-                  "text": "Un vârf înalt în Munții Schladminger Tauern, adesea escaladat din Schladming.",
-                  "category": "landmark",
-                  "coords": [
-                        13.838306,
-                        47.323273
-                  ]
             }
       ],
       "en": [
@@ -9315,15 +8357,6 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         13.817173,
                         47.296192
-                  ]
-            },
-            {
-                  "name": "Kieseck",
-                  "text": "A mountain peak located in the Schladming Tauern region.",
-                  "category": "landmark",
-                  "coords": [
-                        13.825343,
-                        47.293203
                   ]
             },
             {
@@ -9360,15 +8393,6 @@ export const austriaReliefV2: POI[] = [
                   "coords": [
                         13.824458,
                         47.325906
-                  ]
-            },
-            {
-                  "name": "Hohes Schareck",
-                  "text": "A high peak in the Schladminger Tauern, often climbed from Schladming.",
-                  "category": "landmark",
-                  "coords": [
-                        13.838306,
-                        47.323273
                   ]
             }
       ]
@@ -10473,48 +9497,12 @@ export const austriaReliefV2: POI[] = [
     id: "austria-grosse-wildstelle-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Naturschutzgebiet Klafferkessel",
-                  "text": "Ein alpines Naturschutzgebiet mit einer einzigartigen Seenlandschaft in den Schladminger Tauern.",
-                  "category": "natural",
-                  "coords": [
-                        13.815482,
-                        47.306884
-                  ]
-            },
-            {
-                  "name": "Waldhorn",
-                  "text": "Ein markanter Berggipfel in den Schladminger Tauern mit weitem Rundblick.",
-                  "category": "landmark",
-                  "coords": [
-                        13.817173,
-                        47.296192
-                  ]
-            },
-            {
                   "name": "Kieseck",
                   "text": "Ein alpiner Gipfel, der für Bergwanderungen in der Region Große Wildstelle bekannt ist.",
                   "category": "landmark",
                   "coords": [
                         13.825343,
                         47.293203
-                  ]
-            },
-            {
-                  "name": "Greifenstein",
-                  "text": "Ein felsiger Gipfel in den österreichischen Alpen mit anspruchsvollen Aufstiegen.",
-                  "category": "landmark",
-                  "coords": [
-                        13.800403,
-                        47.29951
-                  ]
-            },
-            {
-                  "name": "Himmelreich",
-                  "text": "Ein malerischer Berggipfel in der Nähe der Großen Wildstelle in den österreichischen Alpen.",
-                  "category": "landmark",
-                  "coords": [
-                        13.824458,
-                        47.325906
                   ]
             },
             {
@@ -10547,48 +9535,12 @@ export const austriaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Naturschutzgebiet Klafferkessel",
-                  "text": "Alpesi természetvédelmi terület egyedülálló tóvidékkel a Schladminger Tauernben.",
-                  "category": "natural",
-                  "coords": [
-                        13.815482,
-                        47.306884
-                  ]
-            },
-            {
-                  "name": "Waldhorn",
-                  "text": "A Schladminger Tauern egyik jellegzetes csúcsa, tágas körpanorámával.",
-                  "category": "landmark",
-                  "coords": [
-                        13.817173,
-                        47.296192
-                  ]
-            },
-            {
                   "name": "Kieseck",
                   "text": "Alpesi csúcs, amely hegyi túráiról ismert a Große Wildstelle régióban.",
                   "category": "landmark",
                   "coords": [
                         13.825343,
                         47.293203
-                  ]
-            },
-            {
-                  "name": "Greifenstein",
-                  "text": "Sziklás hegycsúcs az osztrák Alpokban, kihívást jelentő útvonalakkal.",
-                  "category": "landmark",
-                  "coords": [
-                        13.800403,
-                        47.29951
-                  ]
-            },
-            {
-                  "name": "Himmelreich",
-                  "text": "Egy festői hegycsúcs a Große Wildstelle közelében az Osztrák-Alpokban.",
-                  "category": "landmark",
-                  "coords": [
-                        13.824458,
-                        47.325906
                   ]
             },
             {
@@ -10621,48 +9573,12 @@ export const austriaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Naturschutzgebiet Klafferkessel",
-                  "text": "O rezervație naturală alpină cu un peisaj unic de lacuri în Schladminger Tauern.",
-                  "category": "natural",
-                  "coords": [
-                        13.815482,
-                        47.306884
-                  ]
-            },
-            {
-                  "name": "Waldhorn",
-                  "text": "Un vârf montan proeminent în Schladminger Tauern, cu o vedere panoramică vastă.",
-                  "category": "landmark",
-                  "coords": [
-                        13.817173,
-                        47.296192
-                  ]
-            },
-            {
                   "name": "Kieseck",
                   "text": "Un vârf alpin cunoscut pentru drumețiile montane din regiunea Große Wildstelle.",
                   "category": "landmark",
                   "coords": [
                         13.825343,
                         47.293203
-                  ]
-            },
-            {
-                  "name": "Greifenstein",
-                  "text": "Un vârf stâncos din Alpii Austrieci, cu trasee de ascensiune solicitante.",
-                  "category": "landmark",
-                  "coords": [
-                        13.800403,
-                        47.29951
-                  ]
-            },
-            {
-                  "name": "Himmelreich",
-                  "text": "Un vârf montan pitoresc situat lângă Große Wildstelle în Alpii Austrieci.",
-                  "category": "landmark",
-                  "coords": [
-                        13.824458,
-                        47.325906
                   ]
             },
             {
@@ -10695,48 +9611,12 @@ export const austriaReliefV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Naturschutzgebiet Klafferkessel",
-                  "text": "An alpine nature reserve featuring a unique lake landscape in the Schladminger Tauern.",
-                  "category": "natural",
-                  "coords": [
-                        13.815482,
-                        47.306884
-                  ]
-            },
-            {
-                  "name": "Waldhorn",
-                  "text": "A prominent mountain peak in the Schladminger Tauern with wide panoramic views.",
-                  "category": "landmark",
-                  "coords": [
-                        13.817173,
-                        47.296192
-                  ]
-            },
-            {
                   "name": "Kieseck",
                   "text": "An alpine peak known for mountain hiking in the Große Wildstelle region.",
                   "category": "landmark",
                   "coords": [
                         13.825343,
                         47.293203
-                  ]
-            },
-            {
-                  "name": "Greifenstein",
-                  "text": "A rocky peak in the Austrian Alps featuring challenging ascents.",
-                  "category": "landmark",
-                  "coords": [
-                        13.800403,
-                        47.29951
-                  ]
-            },
-            {
-                  "name": "Himmelreich",
-                  "text": "A scenic mountain peak located near Große Wildstelle in the Austrian Alps.",
-                  "category": "landmark",
-                  "coords": [
-                        13.824458,
-                        47.325906
                   ]
             },
             {

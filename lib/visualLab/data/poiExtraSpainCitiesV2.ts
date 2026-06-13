@@ -17425,33 +17425,6 @@ imageHint: "Vitoria Gasteiz old town aerial",
                   ]
             },
             {
-                  "name": "Praia de Santo Amaro",
-                  "text": "Ruhig und idyllisch gelegen ist die Praia de Santo Amaro im beschaulichen Viertel Adormideras von A Coruña. Die sanften Wellen machen diesen Strand zu einer idealen Wahl für alle, die gerne ungestört schwimmen gehen. An warmen Tagen empfiehlt sich ein früher Start, um die morgendliche Stille am Wasser voll auszukosten.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.396705,
-                        43.381747
-                  ]
-            },
-            {
-                  "name": "Praia de Durmideiras",
-                  "text": "Unweit des berühmten Herkulesturms verbirgt sich die Praia de Durmideiras als intimer Küstenabschnitt in A Coruña. Dieser kleine Strand ist eine herrliche Station, um nach einer Besichtigung des Turms am Meer zu verweilen. Wer raue Küstenlandschaften mag, sollte unbedingt seine Kamera für ein paar schöne Erinnerungsfotos mitbringen.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.393725,
-                        43.383978
-                  ]
-            },
-            {
-                  "name": "Praia do Mouro",
-                  "text": "Praia do Mouro ist ein herrlicher, naturbelassener Sandstrand an der Küste von A Coruña in Spanien. Mit einem weiten Blick auf den Atlantischen Ozean bietet dieser Ort eine malerische Kulisse für erholsame Stunden. Die ruhige Atmosphäre eignet sich ideal für ausgedehnte Spaziergänge oder ungestörtes Sonnenbaden. An sonnigen Tagen empfiehlt sich ein früher Besuch, um die friedliche Küstenlandschaft voll auszukosten.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.392733,
-                        43.384431
-                  ]
-            },
-            {
                   "name": "Praia de Oza",
                   "text": "Verborgen in einer geschützten Bucht von A Coruña lockt der Praia de Oza mit seinem feinen Sand. Besonders bei Einheimischen ist dieser ruhige Rückzugsort an der spanischen Küste sehr beliebt. Hier finden Besucher ideale Bedingungen für entspannte Badetage und gemütliche Stunden am Wasser. Es lohnt sich, rechtzeitig anzureisen, um einen guten Platz an diesem charmanten Strandabschnitt zu ergattern.",
                   "category": "recreational",
@@ -17524,15 +17497,6 @@ imageHint: "Vitoria Gasteiz old town aerial",
                   ]
             },
             {
-                  "name": "Praia das Morosas",
-                  "text": "Wer dem Trubel entfliehen möchte, findet am Praia das Morosas einen ruhigeren Küstenabschnitt in A Coruña. Die sanft abfallende Uferlinie lädt zu ausgedehnten, friedlichen Spaziergängen am Rande der spanischen Stadt ein. Fernab der großen Menschenmengen können Erholungssuchende hier die frische Meeresbrise und das beruhigende Geräusch des Atlantiks genießen. Es ist der perfekte Rückzugsort für einen gemütlichen Vormittag am Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.408529,
-                        43.37908
-                  ]
-            },
-            {
                   "name": "Restos Arqueolóxicos do Convento de San Francisco",
                   "text": "Archäologische Überreste des ehemaligen Franziskanerklosters, die Einblicke in die religiöse Geschichte der Stadt bieten.",
                   "category": "historical",
@@ -17548,15 +17512,6 @@ imageHint: "Vitoria Gasteiz old town aerial",
                   "coords": [
                         -8.393642,
                         43.345924
-                  ]
-            },
-            {
-                  "name": "Praia das Lapas",
-                  "text": "Direkt am Fuße des antiken Herkulesturms verbirgt sich der Praia das Lapas, ein malerischer kleiner Sandstrand in A Coruña. Diese historische Kulisse verleiht jedem Strandbesuch an der spanischen Küste eine ganz besondere und fast schon magische Atmosphäre. Gäste können sich auf feinem Sand ausruhen, im kühlen Wasser schwimmen und dabei das beeindruckende Weltkulturerbe bewundern. Der späte Nachmittag taucht diesen idyllischen Ort in das schönste Licht.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.406081,
-                        43.383821
                   ]
             },
             {
@@ -17674,15 +17629,6 @@ imageHint: "Vitoria Gasteiz old town aerial",
                   "coords": [
                         -8.418521,
                         43.369099
-                  ]
-            },
-            {
-                  "name": "Praia do Coído",
-                  "text": "Im lebhaften Viertel Monte Alto von A Coruña liegt der Praia do Coído, ein charmanter, felsiger kleiner Stadtstrand. Dieser Ort bietet eine reizvolle Alternative zu den klassischen Sandstränden und zeigt die wilde, raue Seite der spanischen Küste. Die steinige Umgebung ist faszinierend für Naturbeobachtungen und eignet sich wunderbar, um dem Rauschen der Brandung zuzuhören. Festes Schuhwerk ist für den Besuch empfehlenswert, um die Felsen sicher zu erkunden.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.395762,
-                        43.386204
                   ]
             },
             {
@@ -17886,33 +17832,6 @@ imageHint: "Vitoria Gasteiz old town aerial",
                   ]
             },
             {
-                  "name": "Praia de Santo Amaro",
-                  "text": "A Coruña csendes Adormideras negyedében található a nyugodt és idilli Praia de Santo Amaro. A lágy hullámok ideális választássá teszik ezt a strandot azok számára, akik zavartalanul szeretnének úszni egyet. Meleg napokon érdemes korán indulni, hogy teljes mértékben kiélvezhessük a vízparti reggeli csendet.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.396705,
-                        43.381747
-                  ]
-            },
-            {
-                  "name": "Praia de Durmideiras",
-                  "text": "A híres Herkules-torony közelében bújik meg a Praia de Durmideiras, A Coruña egy intim tengerparti szakasza. Ez a kis strand csodálatos állomás arra, hogy a torony megtekintése után egy kicsit megpihenjünk a tengerparton. Aki szereti a zord tengerparti tájakat, feltétlenül hozzon magával fényképezőgépet néhány szép emlékfotó elkészítéséhez.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.393725,
-                        43.383978
-                  ]
-            },
-            {
-                  "name": "Praia do Mouro",
-                  "text": "A Praia do Mouro egy gyönyörű, érintetlen homokos strand a spanyolországi A Coruña partjainál. Az Atlanti-óceánra nyíló széles kilátással ez a hely festői környezetet kínál a pihentető órákhoz. A csendes légkör ideális hosszú sétákhoz vagy zavartalan napozáshoz. Napsütéses napokon érdemes korán érkezni, hogy teljes mértékben kiélvezhesse a békés tengerparti tájat.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.392733,
-                        43.384431
-                  ]
-            },
-            {
                   "name": "Praia de Oza",
                   "text": "A Coruña egyik védett öblében megbújó Praia de Oza finom homokjával csábít. Ez a nyugodt menedék a spanyol tengerparton különösen népszerű a helyiek körében. Itt a látogatók ideális feltételeket találnak a pihentető strandoláshoz és a vízparti kikapcsolódáshoz. Érdemes időben érkezni, hogy jó helyet biztosítsunk magunknak ezen a hangulatos partszakaszon.",
                   "category": "recreational",
@@ -17985,15 +17904,6 @@ imageHint: "Vitoria Gasteiz old town aerial",
                   ]
             },
             {
-                  "name": "Praia das Morosas",
-                  "text": "Aki szeretne elmenekülni a nyüzsgés elől, a Praia das Morosas-nál egy csendesebb partszakaszt talál A Coruña városában. A finoman lejtő partvonal hosszú, békés sétákra csábít a spanyol város szélén. A nagy tömegektől távol a pihenni vágyók itt élvezhetik a friss tengeri szellőt és az Atlanti-óceán nyugtató hangját. Ez a tökéletes menedék egy kényelmes vízparti délelőtthöz.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.408529,
-                        43.37908
-                  ]
-            },
-            {
                   "name": "Restos Arqueolóxicos do Convento de San Francisco",
                   "text": "Az egykori ferences kolostor régészeti maradványai, amelyek a város vallási múltjába engednek betekintést.",
                   "category": "historical",
@@ -18009,15 +17919,6 @@ imageHint: "Vitoria Gasteiz old town aerial",
                   "coords": [
                         -8.393642,
                         43.345924
-                  ]
-            },
-            {
-                  "name": "Praia das Lapas",
-                  "text": "Közvetlenül az ókori Herkules-torony lábánál bújik meg a Praia das Lapas, egy festői kis homokos strand A Coruña városában. Ez a történelmi háttér minden spanyol tengerparti látogatásnak egészen különleges és szinte varázslatos hangulatot kölcsönöz. A vendégek megpihenhetnek a finom homokon, úszhatnak a hűsítő vízben, és közben megcsodálhatják a lenyűgöző világörökségi helyszínt. A késő délután a legszebb fénybe öltözteti ezt az idilli helyet.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.406081,
-                        43.383821
                   ]
             },
             {
@@ -18135,15 +18036,6 @@ imageHint: "Vitoria Gasteiz old town aerial",
                   "coords": [
                         -8.418521,
                         43.369099
-                  ]
-            },
-            {
-                  "name": "Praia do Coído",
-                  "text": "A Coruña nyüzsgő Monte Alto negyedében található a Praia do Coído, egy hangulatos, sziklás kis városi strand. Ez a hely egy elragadó alternatívát kínál a klasszikus homokos strandokkal szemben, és bemutatja a spanyol partvidék vad, zord oldalát. A köves környezet lenyűgöző a természet megfigyelésére, és csodálatosan alkalmas a hullámverés hangjának hallgatására. A sziklák biztonságos felfedezéséhez masszív lábbeli ajánlott a látogatáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.395762,
-                        43.386204
                   ]
             },
             {
@@ -18347,33 +18239,6 @@ imageHint: "Vitoria Gasteiz old town aerial",
                   ]
             },
             {
-                  "name": "Praia de Santo Amaro",
-                  "text": "Liniștită și idilică, Praia de Santo Amaro este situată în cartierul pașnic Adormideras din A Coruña. Valurile blânde fac din această plajă o alegere ideală pentru toți cei cărora le place să înoate netulburați. În zilele calde, se recomandă o plecare timpurie pentru a vă bucura din plin de liniștea dimineții la malul apei.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.396705,
-                        43.381747
-                  ]
-            },
-            {
-                  "name": "Praia de Durmideiras",
-                  "text": "Nu departe de faimosul Turn al lui Hercule este ascunsă Praia de Durmideiras, o secțiune de coastă intimă din A Coruña. Această mică plajă este o oprire minunată pentru a zăbovi la malul mării după vizitarea turnului. Cei care apreciază peisajele de coastă aspre ar trebui neapărat să-și aducă aparatul foto pentru câteva suveniruri frumoase.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.393725,
-                        43.383978
-                  ]
-            },
-            {
-                  "name": "Praia do Mouro",
-                  "text": "Praia do Mouro este o plajă cu nisip superbă, lăsată în starea sa naturală, situată pe coasta orașului spaniol A Coruña. Oferind vederi largi asupra Oceanului Atlantic, acest loc creează un cadru pitoresc pentru ore de relaxare. Atmosfera liniștită este ideală pentru plimbări lungi sau băi de soare netulburate. În zilele însorite, se recomandă o vizită matinală pentru a savura pe deplin peisajul de coastă liniștit.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.392733,
-                        43.384431
-                  ]
-            },
-            {
                   "name": "Praia de Oza",
                   "text": "Ascunsă într-un golf protejat din A Coruña, Praia de Oza atrage prin nisipul său fin. Această retragere liniștită de pe coasta spaniolă este deosebit de populară printre localnici. Aici vizitatorii găsesc condiții ideale pentru zile de plajă relaxante și ore liniștite la malul apei. Merită să sosiți devreme pentru a obține un loc bun pe această secțiune fermecătoare de plajă.",
                   "category": "recreational",
@@ -18446,15 +18311,6 @@ imageHint: "Vitoria Gasteiz old town aerial",
                   ]
             },
             {
-                  "name": "Praia das Morosas",
-                  "text": "Cei care doresc să scape de agitație vor găsi o porțiune de coastă mai liniștită în A Coruña la Praia das Morosas. Țărmul ușor înclinat vă invită la plimbări lungi și pașnice la marginea orașului spaniol. Departe de mulțimile mari, cei care caută relaxare se pot bucura aici de briza proaspătă a mării și de sunetul liniștitor al Atlanticului. Este locul perfect de retragere pentru o dimineață relaxantă la malul apei.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.408529,
-                        43.37908
-                  ]
-            },
-            {
                   "name": "Restos Arqueolóxicos do Convento de San Francisco",
                   "text": "Rămășițe arheologice ale fostei mănăstiri franciscane, oferind indicii despre istoria religioasă a orașului.",
                   "category": "historical",
@@ -18470,15 +18326,6 @@ imageHint: "Vitoria Gasteiz old town aerial",
                   "coords": [
                         -8.393642,
                         43.345924
-                  ]
-            },
-            {
-                  "name": "Praia das Lapas",
-                  "text": "Ascunsă chiar la poalele anticului Turn al lui Hercule se află Praia das Lapas, o plajă de nisip mică și pitorească în A Coruña. Acest fundal istoric conferă fiecărei vizite la plajă pe coasta spaniolă o atmosferă cu totul specială și aproape magică. Oaspeții se pot odihni pe nisip fin, pot înota în apa rece și, în același timp, pot admira impresionantul sit al Patrimoniului Mondial. După-amiaza târziu scaldă acest loc idilic în cea mai frumoasă lumină.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.406081,
-                        43.383821
                   ]
             },
             {
@@ -18596,15 +18443,6 @@ imageHint: "Vitoria Gasteiz old town aerial",
                   "coords": [
                         -8.418521,
                         43.369099
-                  ]
-            },
-            {
-                  "name": "Praia do Coído",
-                  "text": "În cartierul plin de viață Monte Alto din A Coruña se află Praia do Coído, o mică plajă urbană stâncoasă și fermecătoare. Acest loc oferă o alternativă încântătoare la plajele clasice cu nisip și prezintă latura sălbatică și accidentată a coastei spaniole. Mediul pietros este fascinant pentru observarea naturii și este minunat de potrivit pentru a asculta sunetul valurilor. Se recomandă încălțăminte robustă pentru vizită pentru a explora în siguranță stâncile.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.395762,
-                        43.386204
                   ]
             },
             {
@@ -18808,33 +18646,6 @@ imageHint: "Vitoria Gasteiz old town aerial",
                   ]
             },
             {
-                  "name": "Praia de Santo Amaro",
-                  "text": "Quietly and idyllically situated, Praia de Santo Amaro is located in the peaceful Adormideras district of A Coruña. The gentle waves make this beach an ideal choice for anyone who likes to go swimming undisturbed. On warm days, an early start is recommended to fully enjoy the morning tranquility by the water.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.396705,
-                        43.381747
-                  ]
-            },
-            {
-                  "name": "Praia de Durmideiras",
-                  "text": "Not far from the famous Tower of Hercules, Praia de Durmideiras is hidden as an intimate coastal section in A Coruña. This small beach is a wonderful stop to linger by the sea after visiting the tower. Anyone who likes rugged coastal landscapes should definitely bring their camera for a few beautiful souvenir photos.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.393725,
-                        43.383978
-                  ]
-            },
-            {
-                  "name": "Praia do Mouro",
-                  "text": "Praia do Mouro is a beautiful, natural sandy beach on the coast of A Coruña in Spain. Offering sweeping views of the Atlantic Ocean, this spot provides a picturesque setting for relaxing hours. The tranquil atmosphere is ideal for long walks or uninterrupted sunbathing. On sunny days, an early visit is recommended to fully appreciate the peaceful coastal landscape.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.392733,
-                        43.384431
-                  ]
-            },
-            {
                   "name": "Praia de Oza",
                   "text": "Hidden in a sheltered bay of A Coruña, Praia de Oza attracts visitors with its fine sand. This quiet retreat on the Spanish coast is particularly popular with locals. Visitors will find ideal conditions for relaxing beach days and leisurely hours by the water here. It is worth arriving early to secure a good spot on this charming stretch of beach.",
                   "category": "recreational",
@@ -18907,15 +18718,6 @@ imageHint: "Vitoria Gasteiz old town aerial",
                   ]
             },
             {
-                  "name": "Praia das Morosas",
-                  "text": "Those looking to escape the hustle and bustle will find a quieter stretch of coastline in A Coruña at Praia das Morosas. The gently sloping shoreline invites you to take long, peaceful walks on the edge of the Spanish city. Far from the large crowds, those seeking relaxation can enjoy the fresh sea breeze and the soothing sound of the Atlantic here. It is the perfect retreat for a leisurely morning by the water.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.408529,
-                        43.37908
-                  ]
-            },
-            {
                   "name": "Restos Arqueolóxicos do Convento de San Francisco",
                   "text": "Archaeological remains of the former Franciscan convent, offering insights into the city's religious history.",
                   "category": "historical",
@@ -18931,15 +18733,6 @@ imageHint: "Vitoria Gasteiz old town aerial",
                   "coords": [
                         -8.393642,
                         43.345924
-                  ]
-            },
-            {
-                  "name": "Praia das Lapas",
-                  "text": "Hidden directly at the foot of the ancient Tower of Hercules is Praia das Lapas, a picturesque little sandy beach in A Coruña. This historical backdrop gives every beach visit on the Spanish coast a very special and almost magical atmosphere. Guests can rest on fine sand, swim in the cool water, and admire the impressive World Heritage site at the same time. The late afternoon bathes this idyllic spot in the most beautiful light.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.406081,
-                        43.383821
                   ]
             },
             {
@@ -19057,15 +18850,6 @@ imageHint: "Vitoria Gasteiz old town aerial",
                   "coords": [
                         -8.418521,
                         43.369099
-                  ]
-            },
-            {
-                  "name": "Praia do Coído",
-                  "text": "In the lively Monte Alto neighborhood of A Coruña lies Praia do Coído, a charming, rocky little urban beach. This spot offers a delightful alternative to classic sandy beaches and showcases the wild, rugged side of the Spanish coast. The stony environment is fascinating for observing nature and is wonderfully suited for listening to the sound of the surf. Sturdy shoes are recommended for the visit to safely explore the rocks.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.395762,
-                        43.386204
                   ]
             },
             {
@@ -23030,15 +22814,6 @@ imageHint: "Sherry barrels in Jerez bodega",
                   ]
             },
             {
-                  "name": "Honna Surf Hub - Citywave Madrid",
-                  "text": "Eine moderne Indoor-Surfanlage in Móstoles mit einer künstlichen stehenden Welle.",
-                  "category": "family",
-                  "coords": [
-                        -3.848376,
-                        40.338466
-                  ]
-            },
-            {
                   "name": "Parque Natural El Soto",
                   "text": "Ein weitläufiger Naturpark in Móstoles, der als wichtiges Naherholungsgebiet dient.",
                   "category": "park",
@@ -23057,15 +22832,6 @@ imageHint: "Sherry barrels in Jerez bodega",
                   ]
             },
             {
-                  "name": "Mesa de Ping-pong",
-                  "text": "Diese Einrichtung in Móstoles verfügt über eine Tischtennisplatte und Schwimmbereiche für die Freizeitgestaltung.",
-                  "category": "family",
-                  "coords": [
-                        -3.826251,
-                        40.330408
-                  ]
-            },
-            {
                   "name": "Enjoy Wellness",
                   "text": "Enjoy Wellness in Móstoles ist ein Fitnesscenter mit einem Schwimmbad und verschiedenen Gesundheitseinrichtungen.",
                   "category": "family",
@@ -23075,30 +22841,12 @@ imageHint: "Sherry barrels in Jerez bodega",
                   ]
             },
             {
-                  "name": "Piscina Municipal Santo Domingo",
-                  "text": "Das städtische Schwimmbad Santo Domingo in Móstoles bietet einen öffentlichen Ort für Schwimmen und Sport.",
-                  "category": "family",
-                  "coords": [
-                        -3.843389,
-                        40.336843
-                  ]
-            },
-            {
                   "name": "Piscina Municipal Las Cumbres",
                   "text": "Las Cumbres ist ein städtisches Schwimmbad in Móstoles, das Einrichtungen für das öffentliche Schwimmen bietet.",
                   "category": "family",
                   "coords": [
                         -3.879122,
                         40.317011
-                  ]
-            },
-            {
-                  "name": "Piscina Comunitaria Martin Luther King 48",
-                  "text": "Dieses Gemeinschaftsschwimmbad in Móstoles bietet einen gemeinsamen Raum für die Bewohner zum Schwimmen und Entspannen.",
-                  "category": "family",
-                  "coords": [
-                        -3.838843,
-                        40.329515
                   ]
             }
       ],
@@ -23140,15 +22888,6 @@ imageHint: "Sherry barrels in Jerez bodega",
                   ]
             },
             {
-                  "name": "Honna Surf Hub - Citywave Madrid",
-                  "text": "Modern fedett szörfközpont Móstolesben, mesterséges állóhullámmal.",
-                  "category": "family",
-                  "coords": [
-                        -3.848376,
-                        40.338466
-                  ]
-            },
-            {
                   "name": "Parque Natural El Soto",
                   "text": "Kiterjedt natúrpark Móstolesben, amely népszerű szabadidős és pihenőhely.",
                   "category": "park",
@@ -23167,15 +22906,6 @@ imageHint: "Sherry barrels in Jerez bodega",
                   ]
             },
             {
-                  "name": "Mesa de Ping-pong",
-                  "text": "Ez a móstolesi létesítmény pingpongasztallal és úszóterületekkel várja a kikapcsolódni vágyókat.",
-                  "category": "family",
-                  "coords": [
-                        -3.826251,
-                        40.330408
-                  ]
-            },
-            {
                   "name": "Enjoy Wellness",
                   "text": "A móstolesi Enjoy Wellness egy fitneszközpont úszómedencével és különféle egészségügyi létesítményekkel.",
                   "category": "family",
@@ -23185,30 +22915,12 @@ imageHint: "Sherry barrels in Jerez bodega",
                   ]
             },
             {
-                  "name": "Piscina Municipal Santo Domingo",
-                  "text": "A móstolesi Santo Domingo önkormányzati úszómedence nyilvános helyet biztosít az úszáshoz és a testmozgáshoz.",
-                  "category": "family",
-                  "coords": [
-                        -3.843389,
-                        40.336843
-                  ]
-            },
-            {
                   "name": "Piscina Municipal Las Cumbres",
                   "text": "A Las Cumbres egy móstolesi önkormányzati úszómedence, amely nyilvános úszási lehetőséget kínál.",
                   "category": "family",
                   "coords": [
                         -3.879122,
                         40.317011
-                  ]
-            },
-            {
-                  "name": "Piscina Comunitaria Martin Luther King 48",
-                  "text": "Ez a móstolesi közösségi úszómedence közös teret kínál a lakóknak az úszáshoz és a kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        -3.838843,
-                        40.329515
                   ]
             }
       ],
@@ -23250,15 +22962,6 @@ imageHint: "Sherry barrels in Jerez bodega",
                   ]
             },
             {
-                  "name": "Honna Surf Hub - Citywave Madrid",
-                  "text": "O facilitate modernă de surf indoor în Móstoles, cu un val artificial staționar.",
-                  "category": "family",
-                  "coords": [
-                        -3.848376,
-                        40.338466
-                  ]
-            },
-            {
                   "name": "Parque Natural El Soto",
                   "text": "Un parc natural întins în Móstoles, care servește ca zonă importantă de recreere.",
                   "category": "park",
@@ -23277,15 +22980,6 @@ imageHint: "Sherry barrels in Jerez bodega",
                   ]
             },
             {
-                  "name": "Mesa de Ping-pong",
-                  "text": "Această facilitate din Móstoles dispune de o masă de ping-pong și zone de înot pentru uz recreativ.",
-                  "category": "family",
-                  "coords": [
-                        -3.826251,
-                        40.330408
-                  ]
-            },
-            {
                   "name": "Enjoy Wellness",
                   "text": "Enjoy Wellness din Móstoles este un centru de fitness cu o piscină și diverse facilități de sănătate.",
                   "category": "family",
@@ -23295,30 +22989,12 @@ imageHint: "Sherry barrels in Jerez bodega",
                   ]
             },
             {
-                  "name": "Piscina Municipal Santo Domingo",
-                  "text": "Piscina municipală Santo Domingo din Móstoles oferă un loc public pentru înot și exerciții fizice.",
-                  "category": "family",
-                  "coords": [
-                        -3.843389,
-                        40.336843
-                  ]
-            },
-            {
                   "name": "Piscina Municipal Las Cumbres",
                   "text": "Las Cumbres este o piscină municipală din Móstoles care oferă facilități pentru înot public.",
                   "category": "family",
                   "coords": [
                         -3.879122,
                         40.317011
-                  ]
-            },
-            {
-                  "name": "Piscina Comunitaria Martin Luther King 48",
-                  "text": "Această piscină comunitară din Móstoles oferă un spațiu comun pentru rezidenți pentru înot și relaxare.",
-                  "category": "family",
-                  "coords": [
-                        -3.838843,
-                        40.329515
                   ]
             }
       ],
@@ -23360,15 +23036,6 @@ imageHint: "Sherry barrels in Jerez bodega",
                   ]
             },
             {
-                  "name": "Honna Surf Hub - Citywave Madrid",
-                  "text": "A modern indoor surfing facility in Móstoles featuring an artificial standing wave.",
-                  "category": "family",
-                  "coords": [
-                        -3.848376,
-                        40.338466
-                  ]
-            },
-            {
                   "name": "Parque Natural El Soto",
                   "text": "An extensive natural park in Móstoles serving as a significant recreational area.",
                   "category": "park",
@@ -23387,15 +23054,6 @@ imageHint: "Sherry barrels in Jerez bodega",
                   ]
             },
             {
-                  "name": "Mesa de Ping-pong",
-                  "text": "This facility in Móstoles features a ping-pong table and swimming areas for recreational use.",
-                  "category": "family",
-                  "coords": [
-                        -3.826251,
-                        40.330408
-                  ]
-            },
-            {
                   "name": "Enjoy Wellness",
                   "text": "Enjoy Wellness in Móstoles is a fitness center featuring a swimming pool and various health facilities.",
                   "category": "family",
@@ -23405,30 +23063,12 @@ imageHint: "Sherry barrels in Jerez bodega",
                   ]
             },
             {
-                  "name": "Piscina Municipal Santo Domingo",
-                  "text": "The Santo Domingo municipal swimming pool in Móstoles provides a public place for swimming and exercise.",
-                  "category": "family",
-                  "coords": [
-                        -3.843389,
-                        40.336843
-                  ]
-            },
-            {
                   "name": "Piscina Municipal Las Cumbres",
                   "text": "Las Cumbres is a municipal swimming pool in Móstoles offering facilities for public swimming.",
                   "category": "family",
                   "coords": [
                         -3.879122,
                         40.317011
-                  ]
-            },
-            {
-                  "name": "Piscina Comunitaria Martin Luther King 48",
-                  "text": "This community swimming pool in Móstoles offers a shared space for residents to swim and relax.",
-                  "category": "family",
-                  "coords": [
-                        -3.838843,
-                        40.329515
                   ]
             }
       ]
@@ -23658,15 +23298,6 @@ imageHint: "Mostoles city square and monument",
                   "coords": [
                         -16.278328,
                         28.458198
-                  ]
-            },
-            {
-                  "name": "Presa de Tahodio",
-                  "text": "Dieser See bei Santa Cruz de Tenerife bietet eine ruhige Kulisse in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        -16.270484,
-                        28.510604
                   ]
             },
             {
@@ -23906,15 +23537,6 @@ imageHint: "Mostoles city square and monument",
                   ]
             },
             {
-                  "name": "Presa de Tahodio",
-                  "text": "Ez a Santa Cruz de Tenerife melletti tó nyugodt környezetet biztosít a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        -16.270484,
-                        28.510604
-                  ]
-            },
-            {
                   "name": "Charca el Cuchillo",
                   "text": "Kisebb tó Tenerifén egy rövid zöldövezeti pihenőhöz.",
                   "category": "natural",
@@ -24151,15 +23773,6 @@ imageHint: "Mostoles city square and monument",
                   ]
             },
             {
-                  "name": "Presa de Tahodio",
-                  "text": "Acest lac de lângă Santa Cruz de Tenerife oferă un cadru liniștit în natură.",
-                  "category": "natural",
-                  "coords": [
-                        -16.270484,
-                        28.510604
-                  ]
-            },
-            {
                   "name": "Charca el Cuchillo",
                   "text": "Un lac mic în Tenerife pentru un scurt popas în natură.",
                   "category": "natural",
@@ -24393,15 +24006,6 @@ imageHint: "Mostoles city square and monument",
                   "coords": [
                         -16.278328,
                         28.458198
-                  ]
-            },
-            {
-                  "name": "Presa de Tahodio",
-                  "text": "This lake near Santa Cruz de Tenerife offers a peaceful backdrop in nature.",
-                  "category": "natural",
-                  "coords": [
-                        -16.270484,
-                        28.510604
                   ]
             },
             {
@@ -28622,15 +28226,6 @@ imageHint: "University of Alcala de Henares facade",
                         -3.767771,
                         40.280579
                   ]
-            },
-            {
-                  "name": "Piscina del Club Social Alarnes",
-                  "text": "Schwimmbad im Club Social Alarnes in Fuenlabrada.",
-                  "category": "family",
-                  "coords": [
-                        -3.749691,
-                        40.290952
-                  ]
             }
       ],
       "hu": [
@@ -28695,15 +28290,6 @@ imageHint: "University of Alcala de Henares facade",
                   "coords": [
                         -3.767771,
                         40.280579
-                  ]
-            },
-            {
-                  "name": "Piscina del Club Social Alarnes",
-                  "text": "Úszómedence a fuenlabradai Alarnes Társasklubban.",
-                  "category": "family",
-                  "coords": [
-                        -3.749691,
-                        40.290952
                   ]
             }
       ],
@@ -28770,15 +28356,6 @@ imageHint: "University of Alcala de Henares facade",
                         -3.767771,
                         40.280579
                   ]
-            },
-            {
-                  "name": "Piscina del Club Social Alarnes",
-                  "text": "O piscină la Clubul Social Alarnes din Fuenlabrada.",
-                  "category": "family",
-                  "coords": [
-                        -3.749691,
-                        40.290952
-                  ]
             }
       ],
       "en": [
@@ -28843,15 +28420,6 @@ imageHint: "University of Alcala de Henares facade",
                   "coords": [
                         -3.767771,
                         40.280579
-                  ]
-            },
-            {
-                  "name": "Piscina del Club Social Alarnes",
-                  "text": "A swimming pool at the Alarnes Social Club in Fuenlabrada.",
-                  "category": "family",
-                  "coords": [
-                        -3.749691,
-                        40.290952
                   ]
             }
       ]
@@ -28922,30 +28490,12 @@ imageHint: "Fuenlabrada city town hall square",
                   ]
             },
             {
-                  "name": "Bosque Sur",
-                  "text": "Ein großes forstwirtschaftliches Erholungsgebiet, das als grüner Gürtel im Süden von Madrid dient.",
-                  "category": "park",
-                  "coords": [
-                        -3.782999,
-                        40.301488
-                  ]
-            },
-            {
                   "name": "Museo de escultura de Leganés",
                   "text": "Ein Freilichtmuseum, in dem moderne Skulpturen in einer weitläufigen Parkanlage ausgestellt sind.",
                   "category": "park",
                   "coords": [
                         -3.760568,
                         40.324481
-                  ]
-            },
-            {
-                  "name": "Parque de Aventuras Trepo Park",
-                  "text": "Der Trepo Park in Leganés ist ein Abenteuerpark mit Kletterparcours und Outdoor-Spaß für alle Altersgruppen.",
-                  "category": "family",
-                  "coords": [
-                        -3.77249,
-                        40.299134
                   ]
             },
             {
@@ -28978,30 +28528,12 @@ imageHint: "Fuenlabrada city town hall square",
                   ]
             },
             {
-                  "name": "Bosque Sur",
-                  "text": "Hatalmas erdős pihenőövezet, amely zöld gyűrűként szolgál Madrid déli részén.",
-                  "category": "park",
-                  "coords": [
-                        -3.782999,
-                        40.301488
-                  ]
-            },
-            {
                   "name": "Museo de escultura de Leganés",
                   "text": "Szabadtéri múzeum, ahol modern szobrokat állítottak ki egy tágas park területén.",
                   "category": "park",
                   "coords": [
                         -3.760568,
                         40.324481
-                  ]
-            },
-            {
-                  "name": "Parque de Aventuras Trepo Park",
-                  "text": "A leganési Trepo Park egy kalandpark mászópályákkal és szabadtéri szórakozással minden korosztály számára.",
-                  "category": "family",
-                  "coords": [
-                        -3.77249,
-                        40.299134
                   ]
             },
             {
@@ -29034,30 +28566,12 @@ imageHint: "Fuenlabrada city town hall square",
                   ]
             },
             {
-                  "name": "Bosque Sur",
-                  "text": "O zonă forestieră vastă de recreere, care servește drept centură verde în sudul Madridului.",
-                  "category": "park",
-                  "coords": [
-                        -3.782999,
-                        40.301488
-                  ]
-            },
-            {
                   "name": "Museo de escultura de Leganés",
                   "text": "Un muzeu în aer liber unde sculpturi moderne sunt expuse într-un cadru natural spațios.",
                   "category": "park",
                   "coords": [
                         -3.760568,
                         40.324481
-                  ]
-            },
-            {
-                  "name": "Parque de Aventuras Trepo Park",
-                  "text": "Trepo Park din Leganés este un parc de aventură cu circuite de cățărare și distracție în aer liber pentru toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        -3.77249,
-                        40.299134
                   ]
             },
             {
@@ -29090,30 +28604,12 @@ imageHint: "Fuenlabrada city town hall square",
                   ]
             },
             {
-                  "name": "Bosque Sur",
-                  "text": "A large forest recreation area that serves as a green belt in the south of Madrid.",
-                  "category": "park",
-                  "coords": [
-                        -3.782999,
-                        40.301488
-                  ]
-            },
-            {
                   "name": "Museo de escultura de Leganés",
                   "text": "An open-air museum showcasing modern sculptures set within a spacious park environment.",
                   "category": "park",
                   "coords": [
                         -3.760568,
                         40.324481
-                  ]
-            },
-            {
-                  "name": "Parque de Aventuras Trepo Park",
-                  "text": "Trepo Park in Leganés is an adventure park with climbing circuits and outdoor fun for all ages.",
-                  "category": "family",
-                  "coords": [
-                        -3.77249,
-                        40.299134
                   ]
             },
             {
@@ -29193,24 +28689,6 @@ imageHint: "Leganes Carlos III university campus",
                   ]
             },
             {
-                  "name": "Museo de escultura de Leganés",
-                  "text": "Ein Freilichtmuseum für Skulpturen mit zeitgenössischen Werken in einer Parkanlage.",
-                  "category": "park",
-                  "coords": [
-                        -3.760568,
-                        40.324481
-                  ]
-            },
-            {
-                  "name": "Parque de Aventuras Trepo Park",
-                  "text": "Der Trepo Park in Getafe bietet spannende Abenteueraktivitäten für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        -3.77249,
-                        40.299134
-                  ]
-            },
-            {
                   "name": "Piscina del Club Social Alarnes",
                   "text": "Genießen Sie die entspannte Atmosphäre am Pool des Club Social Alarnes in Getafe.",
                   "category": "family",
@@ -29237,24 +28715,6 @@ imageHint: "Leganes Carlos III university campus",
                   "coords": [
                         -3.741558,
                         40.294815
-                  ]
-            },
-            {
-                  "name": "Museo de escultura de Leganés",
-                  "text": "Szabadtéri szobormúzeum kortárs alkotásokkal egy parkos környezetben.",
-                  "category": "park",
-                  "coords": [
-                        -3.760568,
-                        40.324481
-                  ]
-            },
-            {
-                  "name": "Parque de Aventuras Trepo Park",
-                  "text": "A getafei Trepo Park izgalmas kalandtevékenységeket kínál az egész család számára.",
-                  "category": "family",
-                  "coords": [
-                        -3.77249,
-                        40.299134
                   ]
             },
             {
@@ -29287,24 +28747,6 @@ imageHint: "Leganes Carlos III university campus",
                   ]
             },
             {
-                  "name": "Museo de escultura de Leganés",
-                  "text": "Un muzeu de sculptură în aer liber care prezintă lucrări contemporane într-un cadru de parc.",
-                  "category": "park",
-                  "coords": [
-                        -3.760568,
-                        40.324481
-                  ]
-            },
-            {
-                  "name": "Parque de Aventuras Trepo Park",
-                  "text": "Trepo Park din Getafe oferă activități de aventură captivante pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        -3.77249,
-                        40.299134
-                  ]
-            },
-            {
                   "name": "Piscina del Club Social Alarnes",
                   "text": "Bucurați-vă de atmosfera relaxantă de la piscina Club Social Alarnes din Getafe.",
                   "category": "family",
@@ -29331,24 +28773,6 @@ imageHint: "Leganes Carlos III university campus",
                   "coords": [
                         -3.741558,
                         40.294815
-                  ]
-            },
-            {
-                  "name": "Museo de escultura de Leganés",
-                  "text": "An open-air sculpture museum featuring contemporary works in a park setting.",
-                  "category": "park",
-                  "coords": [
-                        -3.760568,
-                        40.324481
-                  ]
-            },
-            {
-                  "name": "Parque de Aventuras Trepo Park",
-                  "text": "The Trepo Park in Getafe offers exciting adventure activities for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        -3.77249,
-                        40.299134
                   ]
             },
             {
@@ -32735,15 +32159,6 @@ imageHint: "Palacio de la Magdalena Santander aerial",
                   ]
             },
             {
-                  "name": "Parque de Polvoranca",
-                  "text": "Ein weitläufiger Naturpark zwischen Alcorcón und Leganés, der eine zentrale Lagune umfasst.",
-                  "category": "park",
-                  "coords": [
-                        -3.795448,
-                        40.322001
-                  ]
-            },
-            {
                   "name": "Parque la República",
                   "text": "Ein kleinerer Stadtpark in Alcorcón mit Rasenflächen und Sitzgelegenheiten für Anwohner.",
                   "category": "park",
@@ -32768,24 +32183,6 @@ imageHint: "Palacio de la Magdalena Santander aerial",
                   "coords": [
                         -3.839003,
                         40.351626
-                  ]
-            },
-            {
-                  "name": "Estanque Chico",
-                  "text": "Ein kleiner Teich in Alcorcon, ideal für einen kurzen Spaziergang am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        -3.77158,
-                        40.402489
-                  ]
-            },
-            {
-                  "name": "Los Lagos",
-                  "text": "Ein Erholungsgebiet mit Seen in Alcorcon, perfekt für Zeit im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        -3.743934,
-                        40.304853
                   ]
             },
             {
@@ -32917,15 +32314,6 @@ imageHint: "Palacio de la Magdalena Santander aerial",
                   ]
             },
             {
-                  "name": "Parque de Polvoranca",
-                  "text": "Tágas természetvédelmi terület Alcorcón és Leganés között, egy központi lagúnával.",
-                  "category": "park",
-                  "coords": [
-                        -3.795448,
-                        40.322001
-                  ]
-            },
-            {
                   "name": "Parque la República",
                   "text": "Kisebb városi park Alcorcónban pázsittal és pihenőhelyekkel a helyi lakosok számára.",
                   "category": "park",
@@ -32950,24 +32338,6 @@ imageHint: "Palacio de la Magdalena Santander aerial",
                   "coords": [
                         -3.839003,
                         40.351626
-                  ]
-            },
-            {
-                  "name": "Estanque Chico",
-                  "text": "Kisebb tó Alcorcon területén, ideális egy rövid vízparti sétához.",
-                  "category": "natural",
-                  "coords": [
-                        -3.77158,
-                        40.402489
-                  ]
-            },
-            {
-                  "name": "Los Lagos",
-                  "text": "Tavas pihenőövezet Alcorcon városában, amely tökéletes a szabadban töltött időhöz.",
-                  "category": "natural",
-                  "coords": [
-                        -3.743934,
-                        40.304853
                   ]
             },
             {
@@ -33099,15 +32469,6 @@ imageHint: "Palacio de la Magdalena Santander aerial",
                   ]
             },
             {
-                  "name": "Parque de Polvoranca",
-                  "text": "Un parc natural vast situat între Alcorcón și Leganés, care cuprinde o lagună centrală.",
-                  "category": "park",
-                  "coords": [
-                        -3.795448,
-                        40.322001
-                  ]
-            },
-            {
                   "name": "Parque la República",
                   "text": "Un parc urban mai mic din Alcorcón, cu gazon și bănci pentru locuitorii din zonă.",
                   "category": "park",
@@ -33132,24 +32493,6 @@ imageHint: "Palacio de la Magdalena Santander aerial",
                   "coords": [
                         -3.839003,
                         40.351626
-                  ]
-            },
-            {
-                  "name": "Estanque Chico",
-                  "text": "Un iaz mic în Alcorcon, ideal pentru o scurtă plimbare lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        -3.77158,
-                        40.402489
-                  ]
-            },
-            {
-                  "name": "Los Lagos",
-                  "text": "O zonă de recreere cu lacuri în Alcorcon, perfectă pentru petrecerea timpului în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        -3.743934,
-                        40.304853
                   ]
             },
             {
@@ -33281,15 +32624,6 @@ imageHint: "Palacio de la Magdalena Santander aerial",
                   ]
             },
             {
-                  "name": "Parque de Polvoranca",
-                  "text": "A large natural park between Alcorcón and Leganés featuring a central lagoon.",
-                  "category": "park",
-                  "coords": [
-                        -3.795448,
-                        40.322001
-                  ]
-            },
-            {
                   "name": "Parque la República",
                   "text": "A smaller urban park in Alcorcón with lawns and seating for local residents.",
                   "category": "park",
@@ -33314,24 +32648,6 @@ imageHint: "Palacio de la Magdalena Santander aerial",
                   "coords": [
                         -3.839003,
                         40.351626
-                  ]
-            },
-            {
-                  "name": "Estanque Chico",
-                  "text": "A small pond in Alcorcon, ideal for a short walk by the water.",
-                  "category": "natural",
-                  "coords": [
-                        -3.77158,
-                        40.402489
-                  ]
-            },
-            {
-                  "name": "Los Lagos",
-                  "text": "A recreation area with lakes in Alcorcon, perfect for spending time outdoors.",
-                  "category": "natural",
-                  "coords": [
-                        -3.743934,
-                        40.304853
                   ]
             },
             {
@@ -49242,7 +48558,1060 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
     image: "/poi-images/spain-lugo-cities-v2.webp",
   },
   {
-    id: "spain-pontevedra-cities-v2", "sights": {"de": [{"name": "Parque Illa das Esculturas", "text": "Ein Kunstpark auf einer Insel im Fluss Lérez, der zeitgenössische Skulpturen im Freien zeigt.", "category": "family", "coords": [-8.634521, 42.440225]}, {"name": "Teatro Principal", "text": "Das historische Haupttheater von Pontevedra befindet sich in einem eleganten Gebäude in der Altstadt.", "category": "cultural", "coords": [-8.646278, 42.432446]}, {"name": "Praia Fluvial do Lérez", "text": "Direkt an den Ufern des Flusses Lérez in Pontevedra gelegen, bietet dieser beliebte Flussstrand eine grüne Oase unweit des Stadtzentrums. Die entspannte Stimmung zieht Familien und Naturliebhaber gleichermaßen an. Besucher können sich im kühlen Flusswasser erfrischen oder einfach auf der Wiese die Sonne Spaniens genießen. An heißen Sommertagen lohnt es sich, früh zu kommen, um den besten Platz zu sichern.", "category": "recreational", "coords": [-8.633083, 42.444382]}, {"name": "Pazo de Castro Monteagudo", "text": "Ein Herrenhaus aus dem 18. Jahrhundert, das heute als Sitz des Museums von Pontevedra dient.", "category": "castle", "coords": [-8.642942, 42.43254]}, {"name": "Pazo de Mugartegui", "text": "Ein prächtiger Barockpalast an der Plaza de la Pedreira, der für kulturelle Veranstaltungen genutzt wird.", "category": "castle", "coords": [-8.643419, 42.433712]}, {"name": "A Xunqueira de Alba", "text": "Ein bedeutendes Feuchtgebiet und Naturschutzgebiet am Rande von Pontevedra mit reicher Artenvielfalt.", "category": "natural", "coords": [-8.645794, 42.446846]}, {"name": "Pazo dos Marqueses de Aranda", "text": "Ein historisches Herrenhaus in Pontevedra, das ein Beispiel für die lokale Adelsarchitektur ist.", "category": "castle", "coords": [-8.645024, 42.432864]}, {"name": "Exposiciones Fundación Abanca", "text": "Ein modernes Kulturzentrum in Pontevedra, das verschiedene Kunstausstellungen präsentiert.", "category": "museum", "coords": [-8.645689, 42.429316]}, {"name": "Casa de Colón", "text": "Museum in Pontevedra, das der Theorie über die galicische Herkunft von Christoph Kolumbus gewidmet ist.", "category": "museum", "coords": [-8.65791, 42.430432]}, {"name": "Castro de Salcedo", "text": "Archäologische Stätte in Pontevedra, die Überreste einer befestigten Siedlung aus der Eisenzeit bewahrt.", "category": "historical", "coords": [-8.644814, 42.413482]}, {"name": "Petróglifo do Monte da Tomba 3", "text": "Prähistorische Felsritzungen in Pontevedra, die Teil eines archäologischen Komplexes auf dem Hügel sind.", "category": "historical", "coords": [-8.657693, 42.444714]}, {"name": "Praia do Polvorín", "text": "Dieser kleine, charmante Stadtstrand schmiegt sich an das Flussufer des Lérez in Pontevedra. Ein friedliches Flair zeichnet diesen Ort aus, der oft als ruhige Alternative zu den großen Küstenabschnitten dient. Ein Spaziergang am Wasser oder ein kurzes Bad bieten eine ideale kleine Auszeit mitten in der Stadt. Wer ein Buch lesen und die Natur genießen will, findet hier sein Glück.", "category": "recreational", "coords": [-8.677022, 42.420801]}, {"name": "Conxunto Arquelóxico A Caeira", "text": "Archäologische Stätte, die für ihre bedeutenden Felsritzungen aus der Bronzezeit bekannt ist.", "category": "historical", "coords": [-8.659241, 42.441212]}, {"name": "Pazo da Parda", "text": "Ein historisches galicisches Herrenhaus in Pontevedra, das für seine Architektur und Kapelle bekannt ist.", "category": "historical", "coords": [-8.63137, 42.417312]}, {"name": "Antiga Capela dos Santos de Mollavao", "text": "Die Ruinen einer alten Kapelle, die sich im Stadtteil Mollavao von Pontevedra befinden.", "category": "historical", "coords": [-8.654801, 42.424015]}, {"name": "Praza de Galicia", "text": "Ein zentraler Platz und Park in Pontevedra, der ein wichtiger Treffpunkt der Stadt ist.", "category": "park", "coords": [-8.644319, 42.428311]}, {"name": "Alameda do Arquitecto Sesmero", "text": "Ein eleganter Park aus dem 19. Jahrhundert in Pontevedra, der als beliebte Promenade dient.", "category": "park", "coords": [-8.648638, 42.430794]}, {"name": "Praza de Barcelos", "text": "Ein großer Platz mit Grünflächen in Pontevedra, auf dem früher Viehmärkte stattfanden.", "category": "park", "coords": [-8.640497, 42.430997]}, {"name": "Ruínas de San Domingos", "text": "Diese gotischen Kirchenruinen aus dem 13. Jahrhundert gehören heute zum Museum von Pontevedra.", "category": "historical", "coords": [-8.647048, 42.431202]}, {"name": "Xardíns de Vincenti", "text": "Ein zentraler Stadtpark in Pontevedra, der für seine Palmen und gepflegten Spazierwege bekannt ist.", "category": "park", "coords": [-8.647638, 42.429727]}, {"name": "Pazo da Carballeira de Gandarón", "text": "Ein historisches Herrenhaus in Pontevedra, das heute ein Zentrum für landwirtschaftliche Forschung beherbergt.", "category": "historical", "coords": [-8.64396, 42.404967]}, {"name": "Pazo de Lourizán", "text": "Ein prächtiges Jugendstil-Herrenhaus mit weitläufigen Gärten, entworfen von Jenaro de la Fuente.", "category": "historical", "coords": [-8.664755, 42.409549]}, {"name": "Parque do Miradoiro de Monte Porreiro", "text": "Ein öffentlicher Park im Stadtteil Monte Porreiro mit einem Aussichtspunkt über den Fluss Lérez.", "category": "park", "coords": [-8.628895, 42.444153]}, {"name": "Pazo dos Condes de Maceda", "text": "Ein historisches Gebäude, das heute als staatliches Parador-Hotel in der Altstadt von Pontevedra dient.", "category": "historical", "coords": [-8.646093, 42.434229]}, {"name": "Xardín Botánico de Lourizán", "text": "Ein botanischer Garten mit einer bedeutenden Sammlung von Kamelien und exotischen Baumarten.", "category": "park", "coords": [-8.666141, 42.408805]}, {"name": "Lagoa de Castiñeiras", "text": "Eine wunderschöne Lagune bei Pontevedra, ideal für Wanderungen in der Natur.", "category": "natural", "coords": [-8.674438, 42.362686]}, {"name": "Bosque de Colón", "text": "Ein ruhiges Gewässer in Pontevedra, umgeben von einem friedlichen Wald.", "category": "natural", "coords": [-8.710971, 42.4603]}, {"name": "Parque de Campolongo", "text": "Ein beliebter Park in Pontevedra mit einem großartigen Spielbereich für Kinder.", "category": "family", "coords": [-8.64425, 42.426723]}, {"name": "Campo da Torre", "text": "Ein gut gelegener Spielplatz in Pontevedra für die tägliche Freizeitgestaltung.", "category": "family", "coords": [-8.652703, 42.429952]}, {"name": "Parque infantil de Irlanda", "text": "Ein charmanter Spielplatz in Pontevedra, der Kindern viel Abwechslung bietet.", "category": "family", "coords": [-8.619677, 42.449254]}], "hu": [{"name": "Parque Illa das Esculturas", "text": "Művészeti park a Lérez-folyó szigetén, ahol kortárs szabadtéri szobrok láthatók.", "category": "family", "coords": [-8.634521, 42.440225]}, {"name": "Teatro Principal", "text": "Pontevedra történelmi főszínháza az óváros egyik elegáns épületében található.", "category": "cultural", "coords": [-8.646278, 42.432446]}, {"name": "Praia Fluvial do Lérez", "text": "Pontevedra városában, közvetlenül a Lérez folyó partján fekszik ez a népszerű folyami strand, amely egy zöld oázis a központ közelében. A nyugodt környezet egyaránt vonzza a családokat és a természetkedvelőket. A látogatók felfrissülhetnek a hűvös folyóvízben, vagy egyszerűen élvezhetik a spanyol napsütést a füvön. Forró nyári napokon érdemes korán érkezni a legjobb helyekért.", "category": "recreational", "coords": [-8.633083, 42.444382]}, {"name": "Pazo de Castro Monteagudo", "text": "Egy 18. századi nemesi kúria, amely ma a Pontevedrai Múzeum egyik székhelye.", "category": "castle", "coords": [-8.642942, 42.43254]}, {"name": "Pazo de Mugartegui", "text": "Impozáns barokk palota a Plaza de la Pedreira téren, amelyet kulturális eseményekre használnak.", "category": "castle", "coords": [-8.643419, 42.433712]}, {"name": "A Xunqueira de Alba", "text": "Jelentős mocsaras terület és természetvédelmi terület Pontevedra szélén, gazdag élővilággal.", "category": "natural", "coords": [-8.645794, 42.446846]}, {"name": "Pazo dos Marqueses de Aranda", "text": "Történelmi nemesi kúria Pontevedrában, amely a helyi nemesi építészet egyik példája.", "category": "castle", "coords": [-8.645024, 42.432864]}, {"name": "Exposiciones Fundación Abanca", "text": "Modern kulturális központ Pontevedrában, amely különféle művészeti kiállításoknak ad otthont.", "category": "museum", "coords": [-8.645689, 42.429316]}, {"name": "Casa de Colón", "text": "Pontevedrai múzeum, amely a Kolumbusz Kristóf galíciai származásáról szóló elméletet mutatja be.", "category": "museum", "coords": [-8.65791, 42.430432]}, {"name": "Castro de Salcedo", "text": "Régészeti lelőhely Pontevedrában, amely egy vaskori erődített település maradványait őrzi.", "category": "historical", "coords": [-8.644814, 42.413482]}, {"name": "Petróglifo do Monte da Tomba 3", "text": "Prehisztorikus sziklarajzok Pontevedrában, amelyek a dombtetőn található régészeti együttes részei.", "category": "historical", "coords": [-8.657693, 42.444714]}, {"name": "Praia do Polvorín", "text": "Ez a kicsi, bájos városi strand a Lérez folyó partjára simul Pontevedra városában. Békés hangulat jellemzi ezt a helyet, amely gyakran szolgál nyugodt alternatívaként a nagyobb tengerpartokhoz képest. Egy vízparti séta vagy egy rövid fürdőzés ideális kikapcsolódást nyújt a város szívében. Aki olvasni szeretne, vagy csak élvezni a természetet, itt biztosan megtalálja a számítását.", "category": "recreational", "coords": [-8.677022, 42.420801]}, {"name": "Conxunto Arquelóxico A Caeira", "text": "Régészeti terület, amely jelentős bronzkori sziklarajzairól és kőfaragványairól ismert.", "category": "historical", "coords": [-8.659241, 42.441212]}, {"name": "Pazo da Parda", "text": "Történelmi galíciai kúria Pontevedrában, amely építészetéről és kápolnájáról nevezetes.", "category": "historical", "coords": [-8.63137, 42.417312]}, {"name": "Antiga Capela dos Santos de Mollavao", "text": "Egy régi kápolna romjai Pontevedra Mollavao negyedében.", "category": "historical", "coords": [-8.654801, 42.424015]}, {"name": "Praza de Galicia", "text": "Központi tér és park Pontevedrában, amely a város egyik fontos találkozóhelye.", "category": "park", "coords": [-8.644319, 42.428311]}, {"name": "Alameda do Arquitecto Sesmero", "text": "Elegáns 19. századi park Pontevedrában, amely népszerű sétatérként szolgál.", "category": "park", "coords": [-8.648638, 42.430794]}, {"name": "Praza de Barcelos", "text": "Nagy kiterjedésű tér és zöldövezet Pontevedrában, ahol egykor állatvásárokat tartottak.", "category": "park", "coords": [-8.640497, 42.430997]}, {"name": "Ruínas de San Domingos", "text": "A 13. századi gótikus templomromok ma a Pontevedrai Múzeum kiállítóhelyeként működnek.", "category": "historical", "coords": [-8.647048, 42.431202]}, {"name": "Xardíns de Vincenti", "text": "Központi városi park Pontevedrában, amely pálmafáiról és gondozott sétányairól ismert.", "category": "park", "coords": [-8.647638, 42.429727]}, {"name": "Pazo da Carballeira de Gandarón", "text": "Történelmi udvarház Pontevedrában, amely ma mezőgazdasági kutatóközpontnak ad otthont.", "category": "historical", "coords": [-8.64396, 42.404967]}, {"name": "Pazo de Lourizán", "text": "Impozáns szecessziós udvarház kiterjedt kertekkel, Jenaro de la Fuente tervei alapján.", "category": "historical", "coords": [-8.664755, 42.409549]}, {"name": "Parque do Miradoiro de Monte Porreiro", "text": "Nyilvános park a Monte Porreiro negyedben, kilátóval a Lérez-folyóra.", "category": "park", "coords": [-8.628895, 42.444153]}, {"name": "Pazo dos Condes de Maceda", "text": "Történelmi épület, amely ma állami Parador szállodaként működik Pontevedra óvárosában.", "category": "historical", "coords": [-8.646093, 42.434229]}, {"name": "Xardín Botánico de Lourizán", "text": "Botanikus kert jelentős kaméliagyűjteménnyel és egzotikus fafajokkal.", "category": "park", "coords": [-8.666141, 42.408805]}, {"name": "Lagoa de Castiñeiras", "text": "Egy gyönyörű lagúna Pontevedra közelében, amely ideális természetjáráshoz.", "category": "natural", "coords": [-8.674438, 42.362686]}, {"name": "Bosque de Colón", "text": "Egy nyugodt vízfelület Pontevedrában, egy békés erdővel körülvéve.", "category": "natural", "coords": [-8.710971, 42.4603]}, {"name": "Parque de Campolongo", "text": "Kedvelt park Pontevedrában, nagyszerű játszótérrel a gyermekek számára.", "category": "family", "coords": [-8.64425, 42.426723]}, {"name": "Campo da Torre", "text": "Jó elhelyezkedésű játszótér Pontevedrában a napi szabadidős tevékenységekhez.", "category": "family", "coords": [-8.652703, 42.429952]}, {"name": "Parque infantil de Irlanda", "text": "Bájos játszótér Pontevedrában, amely sok változatosságot kínál a gyerekeknek.", "category": "family", "coords": [-8.619677, 42.449254]}], "ro": [{"name": "Parque Illa das Esculturas", "text": "Un parc de artă pe o insulă din râul Lérez, care expune sculpturi contemporane în aer liber.", "category": "family", "coords": [-8.634521, 42.440225]}, {"name": "Teatro Principal", "text": "Teatrul principal istoric din Pontevedra este situat într-clădire elegantă din centrul vechi.", "category": "cultural", "coords": [-8.646278, 42.432446]}, {"name": "Praia Fluvial do Lérez", "text": "Situată pe malul râului Lérez din Pontevedra, această plajă fluvială populară reprezintă o oază verde aproape de centrul orașului. Atmosfera relaxată atrage în mod egal familiile și iubitorii de natură. Vizitatorii se pot răcori în apa râului sau pot sta pur și simplu la soare pe iarbă. În zilele fierbinți de vară, este recomandat să sosiți devreme pentru a prinde un loc bun.", "category": "recreational", "coords": [-8.633083, 42.444382]}, {"name": "Pazo de Castro Monteagudo", "text": "Un conac din secolul al XVIII-lea care servește astăzi drept sediu al Muzeului din Pontevedra.", "category": "castle", "coords": [-8.642942, 42.43254]}, {"name": "Pazo de Mugartegui", "text": "Un palat baroc impunător în Plaza de la Pedreira, utilizat pentru evenimente culturale.", "category": "castle", "coords": [-8.643419, 42.433712]}, {"name": "A Xunqueira de Alba", "text": "O zonă umedă și rezervație naturală importantă la marginea orașului Pontevedra, cu o biodiversitate bogată.", "category": "natural", "coords": [-8.645794, 42.446846]}, {"name": "Pazo dos Marqueses de Aranda", "text": "Un conac istoric din Pontevedra, care reprezintă un exemplu de arhitectură nobiliară locală.", "category": "castle", "coords": [-8.645024, 42.432864]}, {"name": "Exposiciones Fundación Abanca", "text": "Un centru cultural modern din Pontevedra care prezintă diverse expoziții de artă.", "category": "museum", "coords": [-8.645689, 42.429316]}, {"name": "Casa de Colón", "text": "Muzeu din Pontevedra dedicat teoriei despre originea galițiană a lui Cristofor Columb.", "category": "museum", "coords": [-8.65791, 42.430432]}, {"name": "Castro de Salcedo", "text": "Sit arheologic din Pontevedra ce păstrează vestigiile unei așezări fortificate din epoca fierului.", "category": "historical", "coords": [-8.644814, 42.413482]}, {"name": "Petróglifo do Monte da Tomba 3", "text": "Gravuri rupestre preistorice din Pontevedra, făcând parte dintr-un complex arheologic de pe colină.", "category": "historical", "coords": [-8.657693, 42.444714]}, {"name": "Praia do Polvorín", "text": "Această plajă urbană mică și fermecătoare se îmbrățișează cu malurile râului Lérez în Pontevedra. O aură pașnică definește acest loc, servind adesea drept o alternativă liniștită la plajele aglomerate de pe coastă. O plimbare pe malul apei sau o scurtă baie oferă o pauză ideală direct în oraș. Cei care doresc să citească o carte și să se bucure de natură vor iubi acest loc.", "category": "recreational", "coords": [-8.677022, 42.420801]}, {"name": "Conxunto Arquelóxico A Caeira", "text": "Sit arheologic cunoscut pentru gravurile sale rupestre importante din epoca bronzului.", "category": "historical", "coords": [-8.659241, 42.441212]}, {"name": "Pazo da Parda", "text": "Un conac istoric galițian din Pontevedra, cunoscut pentru arhitectura sa și capela privată.", "category": "historical", "coords": [-8.63137, 42.417312]}, {"name": "Antiga Capela dos Santos de Mollavao", "text": "Ruinele unei vechi capele situate în cartierul Mollavao din Pontevedra.", "category": "historical", "coords": [-8.654801, 42.424015]}, {"name": "Praza de Galicia", "text": "O piață centrală și parc din Pontevedra, reprezentând un punct de întâlnire important al orașului.", "category": "park", "coords": [-8.644319, 42.428311]}, {"name": "Alameda do Arquitecto Sesmero", "text": "Un parc elegant din secolul al XIX-lea în Pontevedra, care servește drept promenadă populară.", "category": "park", "coords": [-8.648638, 42.430794]}, {"name": "Praza de Barcelos", "text": "O piață mare cu spații verzi în Pontevedra, unde în trecut se organizau târguri de vite.", "category": "park", "coords": [-8.640497, 42.430997]}, {"name": "Ruínas de San Domingos", "text": "Aceste ruine gotice ale unei biserici din secolul al XIII-lea aparțin astăzi Muzeului din Pontevedra.", "category": "historical", "coords": [-8.647048, 42.431202]}, {"name": "Xardíns de Vincenti", "text": "Un parc central din Pontevedra, cunoscut pentru palmierii săi și aleile bine întreținute.", "category": "park", "coords": [-8.647638, 42.429727]}, {"name": "Pazo da Carballeira de Gandarón", "text": "Un conac istoric din Pontevedra, care găzduiește astăzi un centru de cercetare agricolă.", "category": "historical", "coords": [-8.64396, 42.404967]}, {"name": "Pazo de Lourizán", "text": "Un conac Art Nouveau spectaculos, cu grădini vaste, proiectat de Jenaro de la Fuente.", "category": "historical", "coords": [-8.664755, 42.409549]}, {"name": "Parque do Miradoiro de Monte Porreiro", "text": "Un parc public din districtul Monte Porreiro, cu un punct de belvedere asupra râului Lérez.", "category": "park", "coords": [-8.628895, 42.444153]}, {"name": "Pazo dos Condes de Maceda", "text": "O clădire istorică ce funcționează astăzi ca hotel de stat Parador în orașul vechi din Pontevedra.", "category": "historical", "coords": [-8.646093, 42.434229]}, {"name": "Xardín Botánico de Lourizán", "text": "O grădină botanică cu o colecție importantă de camelii și specii de copaci exotici.", "category": "park", "coords": [-8.666141, 42.408805]}, {"name": "Lagoa de Castiñeiras", "text": "O lagună frumoasă lângă Pontevedra, ideală pentru drumeții în natură.", "category": "natural", "coords": [-8.674438, 42.362686]}, {"name": "Bosque de Colón", "text": "O acumulare de apă liniștită în Pontevedra, înconjurată de o pădure pașnică.", "category": "natural", "coords": [-8.710971, 42.4603]}, {"name": "Parque de Campolongo", "text": "Un parc popular în Pontevedra, cu o zonă de joacă excelentă pentru copii.", "category": "family", "coords": [-8.64425, 42.426723]}, {"name": "Campo da Torre", "text": "Un loc de joacă bine situat în Pontevedra pentru activități recreative zilnice.", "category": "family", "coords": [-8.652703, 42.429952]}, {"name": "Parque infantil de Irlanda", "text": "Un loc de joacă fermecător în Pontevedra, care oferă multă diversitate copiilor.", "category": "family", "coords": [-8.619677, 42.449254]}], "en": [{"name": "Island of Sculptures", "text": "An art park on an island in the Lérez River featuring contemporary outdoor sculptures.", "category": "family", "coords": [-8.634521, 42.440225]}, {"name": "Teatro Principal", "text": "The historic main theatre of Pontevedra is located in an elegant building in the old town.", "category": "cultural", "coords": [-8.646278, 42.432446]}, {"name": "Praia Fluvial do Lérez", "text": "Nestled directly on the banks of the Lérez River in Pontevedra, this popular fluvial beach acts as a green oasis near the city center. The relaxed ambiance attracts families and nature lovers seeking a tranquil escape. Visitors can refresh themselves in the cool river waters or simply enjoy the Spanish sun on the grassy banks. Getting there early on hot summer days is the best way to secure a prime spot.", "category": "recreational", "coords": [-8.633083, 42.444382]}, {"name": "Pazo de Castro Monteagudo", "text": "An 18th-century manor house that now serves as a seat of the Pontevedra Museum.", "category": "castle", "coords": [-8.642942, 42.43254]}, {"name": "Pazo de Mugartegui", "text": "A grand baroque palace on Plaza de la Pedreira, used for cultural events.", "category": "castle", "coords": [-8.643419, 42.433712]}, {"name": "A Xunqueira de Alba", "text": "An important wetland and nature reserve on the edge of Pontevedra with rich biodiversity.", "category": "natural", "coords": [-8.645794, 42.446846]}, {"name": "Pazo dos Marqueses de Aranda", "text": "A historic manor house in Pontevedra that is an example of local noble architecture.", "category": "castle", "coords": [-8.645024, 42.432864]}, {"name": "Exposiciones Fundación Abanca", "text": "A modern cultural center in Pontevedra that hosts various art exhibitions.", "category": "museum", "coords": [-8.645689, 42.429316]}, {"name": "Casa de Colón", "text": "Museum in Pontevedra dedicated to the theory of Christopher Columbus's Galician origin.", "category": "museum", "coords": [-8.65791, 42.430432]}, {"name": "Castro de Salcedo", "text": "Archaeological site in Pontevedra preserving the remains of an Iron Age fortified settlement.", "category": "historical", "coords": [-8.644814, 42.413482]}, {"name": "Petróglifo do Monte da Tomba 3", "text": "Prehistoric rock carvings in Pontevedra, part of an archaeological complex on the hill.", "category": "historical", "coords": [-8.657693, 42.444714]}, {"name": "Praia do Polvorín", "text": "This small, charming urban beach hugs the banks of the Lérez River in Pontevedra. A highly peaceful flair defines the area, making it a quiet alternative to the broader coastal stretches. Walking by the water or taking a quick dip provides an ideal little break right within the city. Anyone looking to read a book and enjoy a touch of nature will be perfectly happy here.", "category": "recreational", "coords": [-8.677022, 42.420801]}, {"name": "Conxunto Arquelóxico A Caeira", "text": "Archaeological site known for its significant Bronze Age rock carvings and petroglyphs.", "category": "historical", "coords": [-8.659241, 42.441212]}, {"name": "Pazo da Parda", "text": "A historical Galician manor house in Pontevedra, known for its architecture and private chapel.", "category": "historical", "coords": [-8.63137, 42.417312]}, {"name": "Antiga Capela dos Santos de Mollavao", "text": "The ruins of an old chapel located in the Mollavao district of Pontevedra.", "category": "historical", "coords": [-8.654801, 42.424015]}, {"name": "Praza de Galicia", "text": "A central square and park in Pontevedra, serving as an important meeting point in the city.", "category": "park", "coords": [-8.644319, 42.428311]}, {"name": "Alameda do Arquitecto Sesmero", "text": "An elegant 19th-century park in Pontevedra that serves as a popular promenade.", "category": "park", "coords": [-8.648638, 42.430794]}, {"name": "Praza de Barcelos", "text": "A large square with green areas in Pontevedra, formerly used as a cattle market.", "category": "park", "coords": [-8.640497, 42.430997]}, {"name": "Ruínas de San Domingos", "text": "These 13th-century Gothic church ruins are now part of the Pontevedra Museum.", "category": "historical", "coords": [-8.647048, 42.431202]}, {"name": "Xardíns de Vincenti", "text": "A central city park in Pontevedra known for its palm trees and well-kept walkways.", "category": "park", "coords": [-8.647638, 42.429727]}, {"name": "Pazo da Carballeira de Gandarón", "text": "A historic manor house in Pontevedra that now houses an agricultural research center.", "category": "historical", "coords": [-8.64396, 42.404967]}, {"name": "Pazo de Lourizán", "text": "A grand Art Nouveau manor house with extensive gardens, designed by Jenaro de la Fuente.", "category": "historical", "coords": [-8.664755, 42.409549]}, {"name": "Parque do Miradoiro de Monte Porreiro", "text": "A public park in the Monte Porreiro district with a viewpoint over the Lérez River.", "category": "park", "coords": [-8.628895, 42.444153]}, {"name": "Pazo dos Condes de Maceda", "text": "A historic building that now serves as a state-run Parador hotel in Pontevedra's old town.", "category": "historical", "coords": [-8.646093, 42.434229]}, {"name": "Xardín Botánico de Lourizán", "text": "A botanical garden featuring an important collection of camellias and exotic tree species.", "category": "park", "coords": [-8.666141, 42.408805]}, {"name": "Lagoa de Castiñeiras", "text": "A beautiful lagoon near Pontevedra, perfect for nature walks and hiking.", "category": "natural", "coords": [-8.674438, 42.362686]}, {"name": "Bosque de Colón", "text": "A peaceful body of water in Pontevedra, surrounded by a serene forest.", "category": "natural", "coords": [-8.710971, 42.4603]}, {"name": "Parque de Campolongo", "text": "A popular park in Pontevedra featuring a great play area for children.", "category": "family", "coords": [-8.64425, 42.426723]}, {"name": "Campo da Torre", "text": "A well-located playground in Pontevedra suitable for daily recreational activities.", "category": "family", "coords": [-8.652703, 42.429952]}, {"name": "Parque infantil de Irlanda", "text": "A charming playground in Pontevedra offering a variety of activities for kids.", "category": "family", "coords": [-8.619677, 42.449254]}]},
+    id: "spain-pontevedra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Illa das Esculturas",
+                  "text": "Ein Kunstpark auf einer Insel im Fluss Lérez, der zeitgenössische Skulpturen im Freien zeigt.",
+                  "category": "family",
+                  "coords": [
+                        -8.634521,
+                        42.440225
+                  ]
+            },
+            {
+                  "name": "Teatro Principal",
+                  "text": "Das historische Haupttheater von Pontevedra befindet sich in einem eleganten Gebäude in der Altstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.646278,
+                        42.432446
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Lérez",
+                  "text": "Direkt an den Ufern des Flusses Lérez in Pontevedra gelegen, bietet dieser beliebte Flussstrand eine grüne Oase unweit des Stadtzentrums. Die entspannte Stimmung zieht Familien und Naturliebhaber gleichermaßen an. Besucher können sich im kühlen Flusswasser erfrischen oder einfach auf der Wiese die Sonne Spaniens genießen. An heißen Sommertagen lohnt es sich, früh zu kommen, um den besten Platz zu sichern.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.633083,
+                        42.444382
+                  ]
+            },
+            {
+                  "name": "Pazo de Castro Monteagudo",
+                  "text": "Ein Herrenhaus aus dem 18. Jahrhundert, das heute als Sitz des Museums von Pontevedra dient.",
+                  "category": "castle",
+                  "coords": [
+                        -8.642942,
+                        42.43254
+                  ]
+            },
+            {
+                  "name": "Pazo de Mugartegui",
+                  "text": "Ein prächtiger Barockpalast an der Plaza de la Pedreira, der für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        -8.643419,
+                        42.433712
+                  ]
+            },
+            {
+                  "name": "A Xunqueira de Alba",
+                  "text": "Ein bedeutendes Feuchtgebiet und Naturschutzgebiet am Rande von Pontevedra mit reicher Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        -8.645794,
+                        42.446846
+                  ]
+            },
+            {
+                  "name": "Pazo dos Marqueses de Aranda",
+                  "text": "Ein historisches Herrenhaus in Pontevedra, das ein Beispiel für die lokale Adelsarchitektur ist.",
+                  "category": "castle",
+                  "coords": [
+                        -8.645024,
+                        42.432864
+                  ]
+            },
+            {
+                  "name": "Exposiciones Fundación Abanca",
+                  "text": "Ein modernes Kulturzentrum in Pontevedra, das verschiedene Kunstausstellungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -8.645689,
+                        42.429316
+                  ]
+            },
+            {
+                  "name": "Casa de Colón",
+                  "text": "Museum in Pontevedra, das der Theorie über die galicische Herkunft von Christoph Kolumbus gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.65791,
+                        42.430432
+                  ]
+            },
+            {
+                  "name": "Castro de Salcedo",
+                  "text": "Archäologische Stätte in Pontevedra, die Überreste einer befestigten Siedlung aus der Eisenzeit bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        -8.644814,
+                        42.413482
+                  ]
+            },
+            {
+                  "name": "Petróglifo do Monte da Tomba 3",
+                  "text": "Prähistorische Felsritzungen in Pontevedra, die Teil eines archäologischen Komplexes auf dem Hügel sind.",
+                  "category": "historical",
+                  "coords": [
+                        -8.657693,
+                        42.444714
+                  ]
+            },
+            {
+                  "name": "Conxunto Arquelóxico A Caeira",
+                  "text": "Archäologische Stätte, die für ihre bedeutenden Felsritzungen aus der Bronzezeit bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -8.659241,
+                        42.441212
+                  ]
+            },
+            {
+                  "name": "Pazo da Parda",
+                  "text": "Ein historisches galicisches Herrenhaus in Pontevedra, das für seine Architektur und Kapelle bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -8.63137,
+                        42.417312
+                  ]
+            },
+            {
+                  "name": "Antiga Capela dos Santos de Mollavao",
+                  "text": "Die Ruinen einer alten Kapelle, die sich im Stadtteil Mollavao von Pontevedra befinden.",
+                  "category": "historical",
+                  "coords": [
+                        -8.654801,
+                        42.424015
+                  ]
+            },
+            {
+                  "name": "Praza de Galicia",
+                  "text": "Ein zentraler Platz und Park in Pontevedra, der ein wichtiger Treffpunkt der Stadt ist.",
+                  "category": "park",
+                  "coords": [
+                        -8.644319,
+                        42.428311
+                  ]
+            },
+            {
+                  "name": "Alameda do Arquitecto Sesmero",
+                  "text": "Ein eleganter Park aus dem 19. Jahrhundert in Pontevedra, der als beliebte Promenade dient.",
+                  "category": "park",
+                  "coords": [
+                        -8.648638,
+                        42.430794
+                  ]
+            },
+            {
+                  "name": "Praza de Barcelos",
+                  "text": "Ein großer Platz mit Grünflächen in Pontevedra, auf dem früher Viehmärkte stattfanden.",
+                  "category": "park",
+                  "coords": [
+                        -8.640497,
+                        42.430997
+                  ]
+            },
+            {
+                  "name": "Ruínas de San Domingos",
+                  "text": "Diese gotischen Kirchenruinen aus dem 13. Jahrhundert gehören heute zum Museum von Pontevedra.",
+                  "category": "historical",
+                  "coords": [
+                        -8.647048,
+                        42.431202
+                  ]
+            },
+            {
+                  "name": "Xardíns de Vincenti",
+                  "text": "Ein zentraler Stadtpark in Pontevedra, der für seine Palmen und gepflegten Spazierwege bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        -8.647638,
+                        42.429727
+                  ]
+            },
+            {
+                  "name": "Pazo da Carballeira de Gandarón",
+                  "text": "Ein historisches Herrenhaus in Pontevedra, das heute ein Zentrum für landwirtschaftliche Forschung beherbergt.",
+                  "category": "historical",
+                  "coords": [
+                        -8.64396,
+                        42.404967
+                  ]
+            },
+            {
+                  "name": "Pazo de Lourizán",
+                  "text": "Ein prächtiges Jugendstil-Herrenhaus mit weitläufigen Gärten, entworfen von Jenaro de la Fuente.",
+                  "category": "historical",
+                  "coords": [
+                        -8.664755,
+                        42.409549
+                  ]
+            },
+            {
+                  "name": "Parque do Miradoiro de Monte Porreiro",
+                  "text": "Ein öffentlicher Park im Stadtteil Monte Porreiro mit einem Aussichtspunkt über den Fluss Lérez.",
+                  "category": "park",
+                  "coords": [
+                        -8.628895,
+                        42.444153
+                  ]
+            },
+            {
+                  "name": "Pazo dos Condes de Maceda",
+                  "text": "Ein historisches Gebäude, das heute als staatliches Parador-Hotel in der Altstadt von Pontevedra dient.",
+                  "category": "historical",
+                  "coords": [
+                        -8.646093,
+                        42.434229
+                  ]
+            },
+            {
+                  "name": "Xardín Botánico de Lourizán",
+                  "text": "Ein botanischer Garten mit einer bedeutenden Sammlung von Kamelien und exotischen Baumarten.",
+                  "category": "park",
+                  "coords": [
+                        -8.666141,
+                        42.408805
+                  ]
+            },
+            {
+                  "name": "Lagoa de Castiñeiras",
+                  "text": "Eine wunderschöne Lagune bei Pontevedra, ideal für Wanderungen in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -8.674438,
+                        42.362686
+                  ]
+            },
+            {
+                  "name": "Bosque de Colón",
+                  "text": "Ein ruhiges Gewässer in Pontevedra, umgeben von einem friedlichen Wald.",
+                  "category": "natural",
+                  "coords": [
+                        -8.710971,
+                        42.4603
+                  ]
+            },
+            {
+                  "name": "Parque de Campolongo",
+                  "text": "Ein beliebter Park in Pontevedra mit einem großartigen Spielbereich für Kinder.",
+                  "category": "family",
+                  "coords": [
+                        -8.64425,
+                        42.426723
+                  ]
+            },
+            {
+                  "name": "Campo da Torre",
+                  "text": "Ein gut gelegener Spielplatz in Pontevedra für die tägliche Freizeitgestaltung.",
+                  "category": "family",
+                  "coords": [
+                        -8.652703,
+                        42.429952
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Irlanda",
+                  "text": "Ein charmanter Spielplatz in Pontevedra, der Kindern viel Abwechslung bietet.",
+                  "category": "family",
+                  "coords": [
+                        -8.619677,
+                        42.449254
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Illa das Esculturas",
+                  "text": "Művészeti park a Lérez-folyó szigetén, ahol kortárs szabadtéri szobrok láthatók.",
+                  "category": "family",
+                  "coords": [
+                        -8.634521,
+                        42.440225
+                  ]
+            },
+            {
+                  "name": "Teatro Principal",
+                  "text": "Pontevedra történelmi főszínháza az óváros egyik elegáns épületében található.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.646278,
+                        42.432446
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Lérez",
+                  "text": "Pontevedra városában, közvetlenül a Lérez folyó partján fekszik ez a népszerű folyami strand, amely egy zöld oázis a központ közelében. A nyugodt környezet egyaránt vonzza a családokat és a természetkedvelőket. A látogatók felfrissülhetnek a hűvös folyóvízben, vagy egyszerűen élvezhetik a spanyol napsütést a füvön. Forró nyári napokon érdemes korán érkezni a legjobb helyekért.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.633083,
+                        42.444382
+                  ]
+            },
+            {
+                  "name": "Pazo de Castro Monteagudo",
+                  "text": "Egy 18. századi nemesi kúria, amely ma a Pontevedrai Múzeum egyik székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        -8.642942,
+                        42.43254
+                  ]
+            },
+            {
+                  "name": "Pazo de Mugartegui",
+                  "text": "Impozáns barokk palota a Plaza de la Pedreira téren, amelyet kulturális eseményekre használnak.",
+                  "category": "castle",
+                  "coords": [
+                        -8.643419,
+                        42.433712
+                  ]
+            },
+            {
+                  "name": "A Xunqueira de Alba",
+                  "text": "Jelentős mocsaras terület és természetvédelmi terület Pontevedra szélén, gazdag élővilággal.",
+                  "category": "natural",
+                  "coords": [
+                        -8.645794,
+                        42.446846
+                  ]
+            },
+            {
+                  "name": "Pazo dos Marqueses de Aranda",
+                  "text": "Történelmi nemesi kúria Pontevedrában, amely a helyi nemesi építészet egyik példája.",
+                  "category": "castle",
+                  "coords": [
+                        -8.645024,
+                        42.432864
+                  ]
+            },
+            {
+                  "name": "Exposiciones Fundación Abanca",
+                  "text": "Modern kulturális központ Pontevedrában, amely különféle művészeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -8.645689,
+                        42.429316
+                  ]
+            },
+            {
+                  "name": "Casa de Colón",
+                  "text": "Pontevedrai múzeum, amely a Kolumbusz Kristóf galíciai származásáról szóló elméletet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.65791,
+                        42.430432
+                  ]
+            },
+            {
+                  "name": "Castro de Salcedo",
+                  "text": "Régészeti lelőhely Pontevedrában, amely egy vaskori erődített település maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -8.644814,
+                        42.413482
+                  ]
+            },
+            {
+                  "name": "Petróglifo do Monte da Tomba 3",
+                  "text": "Prehisztorikus sziklarajzok Pontevedrában, amelyek a dombtetőn található régészeti együttes részei.",
+                  "category": "historical",
+                  "coords": [
+                        -8.657693,
+                        42.444714
+                  ]
+            },
+            {
+                  "name": "Conxunto Arquelóxico A Caeira",
+                  "text": "Régészeti terület, amely jelentős bronzkori sziklarajzairól és kőfaragványairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -8.659241,
+                        42.441212
+                  ]
+            },
+            {
+                  "name": "Pazo da Parda",
+                  "text": "Történelmi galíciai kúria Pontevedrában, amely építészetéről és kápolnájáról nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        -8.63137,
+                        42.417312
+                  ]
+            },
+            {
+                  "name": "Antiga Capela dos Santos de Mollavao",
+                  "text": "Egy régi kápolna romjai Pontevedra Mollavao negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.654801,
+                        42.424015
+                  ]
+            },
+            {
+                  "name": "Praza de Galicia",
+                  "text": "Központi tér és park Pontevedrában, amely a város egyik fontos találkozóhelye.",
+                  "category": "park",
+                  "coords": [
+                        -8.644319,
+                        42.428311
+                  ]
+            },
+            {
+                  "name": "Alameda do Arquitecto Sesmero",
+                  "text": "Elegáns 19. századi park Pontevedrában, amely népszerű sétatérként szolgál.",
+                  "category": "park",
+                  "coords": [
+                        -8.648638,
+                        42.430794
+                  ]
+            },
+            {
+                  "name": "Praza de Barcelos",
+                  "text": "Nagy kiterjedésű tér és zöldövezet Pontevedrában, ahol egykor állatvásárokat tartottak.",
+                  "category": "park",
+                  "coords": [
+                        -8.640497,
+                        42.430997
+                  ]
+            },
+            {
+                  "name": "Ruínas de San Domingos",
+                  "text": "A 13. századi gótikus templomromok ma a Pontevedrai Múzeum kiállítóhelyeként működnek.",
+                  "category": "historical",
+                  "coords": [
+                        -8.647048,
+                        42.431202
+                  ]
+            },
+            {
+                  "name": "Xardíns de Vincenti",
+                  "text": "Központi városi park Pontevedrában, amely pálmafáiról és gondozott sétányairól ismert.",
+                  "category": "park",
+                  "coords": [
+                        -8.647638,
+                        42.429727
+                  ]
+            },
+            {
+                  "name": "Pazo da Carballeira de Gandarón",
+                  "text": "Történelmi udvarház Pontevedrában, amely ma mezőgazdasági kutatóközpontnak ad otthont.",
+                  "category": "historical",
+                  "coords": [
+                        -8.64396,
+                        42.404967
+                  ]
+            },
+            {
+                  "name": "Pazo de Lourizán",
+                  "text": "Impozáns szecessziós udvarház kiterjedt kertekkel, Jenaro de la Fuente tervei alapján.",
+                  "category": "historical",
+                  "coords": [
+                        -8.664755,
+                        42.409549
+                  ]
+            },
+            {
+                  "name": "Parque do Miradoiro de Monte Porreiro",
+                  "text": "Nyilvános park a Monte Porreiro negyedben, kilátóval a Lérez-folyóra.",
+                  "category": "park",
+                  "coords": [
+                        -8.628895,
+                        42.444153
+                  ]
+            },
+            {
+                  "name": "Pazo dos Condes de Maceda",
+                  "text": "Történelmi épület, amely ma állami Parador szállodaként működik Pontevedra óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.646093,
+                        42.434229
+                  ]
+            },
+            {
+                  "name": "Xardín Botánico de Lourizán",
+                  "text": "Botanikus kert jelentős kaméliagyűjteménnyel és egzotikus fafajokkal.",
+                  "category": "park",
+                  "coords": [
+                        -8.666141,
+                        42.408805
+                  ]
+            },
+            {
+                  "name": "Lagoa de Castiñeiras",
+                  "text": "Egy gyönyörű lagúna Pontevedra közelében, amely ideális természetjáráshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -8.674438,
+                        42.362686
+                  ]
+            },
+            {
+                  "name": "Bosque de Colón",
+                  "text": "Egy nyugodt vízfelület Pontevedrában, egy békés erdővel körülvéve.",
+                  "category": "natural",
+                  "coords": [
+                        -8.710971,
+                        42.4603
+                  ]
+            },
+            {
+                  "name": "Parque de Campolongo",
+                  "text": "Kedvelt park Pontevedrában, nagyszerű játszótérrel a gyermekek számára.",
+                  "category": "family",
+                  "coords": [
+                        -8.64425,
+                        42.426723
+                  ]
+            },
+            {
+                  "name": "Campo da Torre",
+                  "text": "Jó elhelyezkedésű játszótér Pontevedrában a napi szabadidős tevékenységekhez.",
+                  "category": "family",
+                  "coords": [
+                        -8.652703,
+                        42.429952
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Irlanda",
+                  "text": "Bájos játszótér Pontevedrában, amely sok változatosságot kínál a gyerekeknek.",
+                  "category": "family",
+                  "coords": [
+                        -8.619677,
+                        42.449254
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Illa das Esculturas",
+                  "text": "Un parc de artă pe o insulă din râul Lérez, care expune sculpturi contemporane în aer liber.",
+                  "category": "family",
+                  "coords": [
+                        -8.634521,
+                        42.440225
+                  ]
+            },
+            {
+                  "name": "Teatro Principal",
+                  "text": "Teatrul principal istoric din Pontevedra este situat într-clădire elegantă din centrul vechi.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.646278,
+                        42.432446
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Lérez",
+                  "text": "Situată pe malul râului Lérez din Pontevedra, această plajă fluvială populară reprezintă o oază verde aproape de centrul orașului. Atmosfera relaxată atrage în mod egal familiile și iubitorii de natură. Vizitatorii se pot răcori în apa râului sau pot sta pur și simplu la soare pe iarbă. În zilele fierbinți de vară, este recomandat să sosiți devreme pentru a prinde un loc bun.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.633083,
+                        42.444382
+                  ]
+            },
+            {
+                  "name": "Pazo de Castro Monteagudo",
+                  "text": "Un conac din secolul al XVIII-lea care servește astăzi drept sediu al Muzeului din Pontevedra.",
+                  "category": "castle",
+                  "coords": [
+                        -8.642942,
+                        42.43254
+                  ]
+            },
+            {
+                  "name": "Pazo de Mugartegui",
+                  "text": "Un palat baroc impunător în Plaza de la Pedreira, utilizat pentru evenimente culturale.",
+                  "category": "castle",
+                  "coords": [
+                        -8.643419,
+                        42.433712
+                  ]
+            },
+            {
+                  "name": "A Xunqueira de Alba",
+                  "text": "O zonă umedă și rezervație naturală importantă la marginea orașului Pontevedra, cu o biodiversitate bogată.",
+                  "category": "natural",
+                  "coords": [
+                        -8.645794,
+                        42.446846
+                  ]
+            },
+            {
+                  "name": "Pazo dos Marqueses de Aranda",
+                  "text": "Un conac istoric din Pontevedra, care reprezintă un exemplu de arhitectură nobiliară locală.",
+                  "category": "castle",
+                  "coords": [
+                        -8.645024,
+                        42.432864
+                  ]
+            },
+            {
+                  "name": "Exposiciones Fundación Abanca",
+                  "text": "Un centru cultural modern din Pontevedra care prezintă diverse expoziții de artă.",
+                  "category": "museum",
+                  "coords": [
+                        -8.645689,
+                        42.429316
+                  ]
+            },
+            {
+                  "name": "Casa de Colón",
+                  "text": "Muzeu din Pontevedra dedicat teoriei despre originea galițiană a lui Cristofor Columb.",
+                  "category": "museum",
+                  "coords": [
+                        -8.65791,
+                        42.430432
+                  ]
+            },
+            {
+                  "name": "Castro de Salcedo",
+                  "text": "Sit arheologic din Pontevedra ce păstrează vestigiile unei așezări fortificate din epoca fierului.",
+                  "category": "historical",
+                  "coords": [
+                        -8.644814,
+                        42.413482
+                  ]
+            },
+            {
+                  "name": "Petróglifo do Monte da Tomba 3",
+                  "text": "Gravuri rupestre preistorice din Pontevedra, făcând parte dintr-un complex arheologic de pe colină.",
+                  "category": "historical",
+                  "coords": [
+                        -8.657693,
+                        42.444714
+                  ]
+            },
+            {
+                  "name": "Conxunto Arquelóxico A Caeira",
+                  "text": "Sit arheologic cunoscut pentru gravurile sale rupestre importante din epoca bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        -8.659241,
+                        42.441212
+                  ]
+            },
+            {
+                  "name": "Pazo da Parda",
+                  "text": "Un conac istoric galițian din Pontevedra, cunoscut pentru arhitectura sa și capela privată.",
+                  "category": "historical",
+                  "coords": [
+                        -8.63137,
+                        42.417312
+                  ]
+            },
+            {
+                  "name": "Antiga Capela dos Santos de Mollavao",
+                  "text": "Ruinele unei vechi capele situate în cartierul Mollavao din Pontevedra.",
+                  "category": "historical",
+                  "coords": [
+                        -8.654801,
+                        42.424015
+                  ]
+            },
+            {
+                  "name": "Praza de Galicia",
+                  "text": "O piață centrală și parc din Pontevedra, reprezentând un punct de întâlnire important al orașului.",
+                  "category": "park",
+                  "coords": [
+                        -8.644319,
+                        42.428311
+                  ]
+            },
+            {
+                  "name": "Alameda do Arquitecto Sesmero",
+                  "text": "Un parc elegant din secolul al XIX-lea în Pontevedra, care servește drept promenadă populară.",
+                  "category": "park",
+                  "coords": [
+                        -8.648638,
+                        42.430794
+                  ]
+            },
+            {
+                  "name": "Praza de Barcelos",
+                  "text": "O piață mare cu spații verzi în Pontevedra, unde în trecut se organizau târguri de vite.",
+                  "category": "park",
+                  "coords": [
+                        -8.640497,
+                        42.430997
+                  ]
+            },
+            {
+                  "name": "Ruínas de San Domingos",
+                  "text": "Aceste ruine gotice ale unei biserici din secolul al XIII-lea aparțin astăzi Muzeului din Pontevedra.",
+                  "category": "historical",
+                  "coords": [
+                        -8.647048,
+                        42.431202
+                  ]
+            },
+            {
+                  "name": "Xardíns de Vincenti",
+                  "text": "Un parc central din Pontevedra, cunoscut pentru palmierii săi și aleile bine întreținute.",
+                  "category": "park",
+                  "coords": [
+                        -8.647638,
+                        42.429727
+                  ]
+            },
+            {
+                  "name": "Pazo da Carballeira de Gandarón",
+                  "text": "Un conac istoric din Pontevedra, care găzduiește astăzi un centru de cercetare agricolă.",
+                  "category": "historical",
+                  "coords": [
+                        -8.64396,
+                        42.404967
+                  ]
+            },
+            {
+                  "name": "Pazo de Lourizán",
+                  "text": "Un conac Art Nouveau spectaculos, cu grădini vaste, proiectat de Jenaro de la Fuente.",
+                  "category": "historical",
+                  "coords": [
+                        -8.664755,
+                        42.409549
+                  ]
+            },
+            {
+                  "name": "Parque do Miradoiro de Monte Porreiro",
+                  "text": "Un parc public din districtul Monte Porreiro, cu un punct de belvedere asupra râului Lérez.",
+                  "category": "park",
+                  "coords": [
+                        -8.628895,
+                        42.444153
+                  ]
+            },
+            {
+                  "name": "Pazo dos Condes de Maceda",
+                  "text": "O clădire istorică ce funcționează astăzi ca hotel de stat Parador în orașul vechi din Pontevedra.",
+                  "category": "historical",
+                  "coords": [
+                        -8.646093,
+                        42.434229
+                  ]
+            },
+            {
+                  "name": "Xardín Botánico de Lourizán",
+                  "text": "O grădină botanică cu o colecție importantă de camelii și specii de copaci exotici.",
+                  "category": "park",
+                  "coords": [
+                        -8.666141,
+                        42.408805
+                  ]
+            },
+            {
+                  "name": "Lagoa de Castiñeiras",
+                  "text": "O lagună frumoasă lângă Pontevedra, ideală pentru drumeții în natură.",
+                  "category": "natural",
+                  "coords": [
+                        -8.674438,
+                        42.362686
+                  ]
+            },
+            {
+                  "name": "Bosque de Colón",
+                  "text": "O acumulare de apă liniștită în Pontevedra, înconjurată de o pădure pașnică.",
+                  "category": "natural",
+                  "coords": [
+                        -8.710971,
+                        42.4603
+                  ]
+            },
+            {
+                  "name": "Parque de Campolongo",
+                  "text": "Un parc popular în Pontevedra, cu o zonă de joacă excelentă pentru copii.",
+                  "category": "family",
+                  "coords": [
+                        -8.64425,
+                        42.426723
+                  ]
+            },
+            {
+                  "name": "Campo da Torre",
+                  "text": "Un loc de joacă bine situat în Pontevedra pentru activități recreative zilnice.",
+                  "category": "family",
+                  "coords": [
+                        -8.652703,
+                        42.429952
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Irlanda",
+                  "text": "Un loc de joacă fermecător în Pontevedra, care oferă multă diversitate copiilor.",
+                  "category": "family",
+                  "coords": [
+                        -8.619677,
+                        42.449254
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Island of Sculptures",
+                  "text": "An art park on an island in the Lérez River featuring contemporary outdoor sculptures.",
+                  "category": "family",
+                  "coords": [
+                        -8.634521,
+                        42.440225
+                  ]
+            },
+            {
+                  "name": "Teatro Principal",
+                  "text": "The historic main theatre of Pontevedra is located in an elegant building in the old town.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.646278,
+                        42.432446
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial do Lérez",
+                  "text": "Nestled directly on the banks of the Lérez River in Pontevedra, this popular fluvial beach acts as a green oasis near the city center. The relaxed ambiance attracts families and nature lovers seeking a tranquil escape. Visitors can refresh themselves in the cool river waters or simply enjoy the Spanish sun on the grassy banks. Getting there early on hot summer days is the best way to secure a prime spot.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.633083,
+                        42.444382
+                  ]
+            },
+            {
+                  "name": "Pazo de Castro Monteagudo",
+                  "text": "An 18th-century manor house that now serves as a seat of the Pontevedra Museum.",
+                  "category": "castle",
+                  "coords": [
+                        -8.642942,
+                        42.43254
+                  ]
+            },
+            {
+                  "name": "Pazo de Mugartegui",
+                  "text": "A grand baroque palace on Plaza de la Pedreira, used for cultural events.",
+                  "category": "castle",
+                  "coords": [
+                        -8.643419,
+                        42.433712
+                  ]
+            },
+            {
+                  "name": "A Xunqueira de Alba",
+                  "text": "An important wetland and nature reserve on the edge of Pontevedra with rich biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -8.645794,
+                        42.446846
+                  ]
+            },
+            {
+                  "name": "Pazo dos Marqueses de Aranda",
+                  "text": "A historic manor house in Pontevedra that is an example of local noble architecture.",
+                  "category": "castle",
+                  "coords": [
+                        -8.645024,
+                        42.432864
+                  ]
+            },
+            {
+                  "name": "Exposiciones Fundación Abanca",
+                  "text": "A modern cultural center in Pontevedra that hosts various art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -8.645689,
+                        42.429316
+                  ]
+            },
+            {
+                  "name": "Casa de Colón",
+                  "text": "Museum in Pontevedra dedicated to the theory of Christopher Columbus's Galician origin.",
+                  "category": "museum",
+                  "coords": [
+                        -8.65791,
+                        42.430432
+                  ]
+            },
+            {
+                  "name": "Castro de Salcedo",
+                  "text": "Archaeological site in Pontevedra preserving the remains of an Iron Age fortified settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -8.644814,
+                        42.413482
+                  ]
+            },
+            {
+                  "name": "Petróglifo do Monte da Tomba 3",
+                  "text": "Prehistoric rock carvings in Pontevedra, part of an archaeological complex on the hill.",
+                  "category": "historical",
+                  "coords": [
+                        -8.657693,
+                        42.444714
+                  ]
+            },
+            {
+                  "name": "Conxunto Arquelóxico A Caeira",
+                  "text": "Archaeological site known for its significant Bronze Age rock carvings and petroglyphs.",
+                  "category": "historical",
+                  "coords": [
+                        -8.659241,
+                        42.441212
+                  ]
+            },
+            {
+                  "name": "Pazo da Parda",
+                  "text": "A historical Galician manor house in Pontevedra, known for its architecture and private chapel.",
+                  "category": "historical",
+                  "coords": [
+                        -8.63137,
+                        42.417312
+                  ]
+            },
+            {
+                  "name": "Antiga Capela dos Santos de Mollavao",
+                  "text": "The ruins of an old chapel located in the Mollavao district of Pontevedra.",
+                  "category": "historical",
+                  "coords": [
+                        -8.654801,
+                        42.424015
+                  ]
+            },
+            {
+                  "name": "Praza de Galicia",
+                  "text": "A central square and park in Pontevedra, serving as an important meeting point in the city.",
+                  "category": "park",
+                  "coords": [
+                        -8.644319,
+                        42.428311
+                  ]
+            },
+            {
+                  "name": "Alameda do Arquitecto Sesmero",
+                  "text": "An elegant 19th-century park in Pontevedra that serves as a popular promenade.",
+                  "category": "park",
+                  "coords": [
+                        -8.648638,
+                        42.430794
+                  ]
+            },
+            {
+                  "name": "Praza de Barcelos",
+                  "text": "A large square with green areas in Pontevedra, formerly used as a cattle market.",
+                  "category": "park",
+                  "coords": [
+                        -8.640497,
+                        42.430997
+                  ]
+            },
+            {
+                  "name": "Ruínas de San Domingos",
+                  "text": "These 13th-century Gothic church ruins are now part of the Pontevedra Museum.",
+                  "category": "historical",
+                  "coords": [
+                        -8.647048,
+                        42.431202
+                  ]
+            },
+            {
+                  "name": "Xardíns de Vincenti",
+                  "text": "A central city park in Pontevedra known for its palm trees and well-kept walkways.",
+                  "category": "park",
+                  "coords": [
+                        -8.647638,
+                        42.429727
+                  ]
+            },
+            {
+                  "name": "Pazo da Carballeira de Gandarón",
+                  "text": "A historic manor house in Pontevedra that now houses an agricultural research center.",
+                  "category": "historical",
+                  "coords": [
+                        -8.64396,
+                        42.404967
+                  ]
+            },
+            {
+                  "name": "Pazo de Lourizán",
+                  "text": "A grand Art Nouveau manor house with extensive gardens, designed by Jenaro de la Fuente.",
+                  "category": "historical",
+                  "coords": [
+                        -8.664755,
+                        42.409549
+                  ]
+            },
+            {
+                  "name": "Parque do Miradoiro de Monte Porreiro",
+                  "text": "A public park in the Monte Porreiro district with a viewpoint over the Lérez River.",
+                  "category": "park",
+                  "coords": [
+                        -8.628895,
+                        42.444153
+                  ]
+            },
+            {
+                  "name": "Pazo dos Condes de Maceda",
+                  "text": "A historic building that now serves as a state-run Parador hotel in Pontevedra's old town.",
+                  "category": "historical",
+                  "coords": [
+                        -8.646093,
+                        42.434229
+                  ]
+            },
+            {
+                  "name": "Xardín Botánico de Lourizán",
+                  "text": "A botanical garden featuring an important collection of camellias and exotic tree species.",
+                  "category": "park",
+                  "coords": [
+                        -8.666141,
+                        42.408805
+                  ]
+            },
+            {
+                  "name": "Lagoa de Castiñeiras",
+                  "text": "A beautiful lagoon near Pontevedra, perfect for nature walks and hiking.",
+                  "category": "natural",
+                  "coords": [
+                        -8.674438,
+                        42.362686
+                  ]
+            },
+            {
+                  "name": "Bosque de Colón",
+                  "text": "A peaceful body of water in Pontevedra, surrounded by a serene forest.",
+                  "category": "natural",
+                  "coords": [
+                        -8.710971,
+                        42.4603
+                  ]
+            },
+            {
+                  "name": "Parque de Campolongo",
+                  "text": "A popular park in Pontevedra featuring a great play area for children.",
+                  "category": "family",
+                  "coords": [
+                        -8.64425,
+                        42.426723
+                  ]
+            },
+            {
+                  "name": "Campo da Torre",
+                  "text": "A well-located playground in Pontevedra suitable for daily recreational activities.",
+                  "category": "family",
+                  "coords": [
+                        -8.652703,
+                        42.429952
+                  ]
+            },
+            {
+                  "name": "Parque infantil de Irlanda",
+                  "text": "A charming playground in Pontevedra offering a variety of activities for kids.",
+                  "category": "family",
+                  "coords": [
+                        -8.619677,
+                        42.449254
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ES",
     name: { de: "Pontevedra", hu: "Pontevedra", ro: "Pontevedra", en: "Pontevedra" },
@@ -61727,63 +62096,8 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
   },
   {
     id: "spain-jaca-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Fuerte de Rapitán",
-                  "text": "Eine Festung aus dem späten 19. Jahrhundert auf dem Rapitán-Hügel, die Panoramablicke auf Jaca bietet.",
-                  "category": "fortress",
-                  "coords": [
-                        -0.536297,
-                        42.589132
-                  ]
-            },
-            {
-                  "name": "Zitadelle von Jaca",
-                  "text": "Eine außergewöhnlich gut erhaltene pentagonale Festung aus dem 16. Jahrhundert, umgeben von einem Graben.",
-                  "category": "castle",
-                  "coords": [
-                        -0.55221,
-                        42.572303
-                  ]
-            },
-            {
-                  "name": "Palacio Episcopal",
-                  "text": "Historischer Bischofspalast in Jaca mit bedeutenden architektonischen Elementen der Renaissance.",
-                  "category": "castle",
-                  "coords": [
-                        -0.550115,
-                        42.570142
-                  ]
-            },
-            {
-                  "name": "Chiquilandia",
-                  "text": "Ein Freizeitpark und Spielbereich für Kinder im Stadtzentrum von Jaca.",
-                  "category": "family",
-                  "coords": [
-                        -0.554737,
-                        42.566659
-                  ]
-            },
-            {
-                  "name": "Ermita de Sarsa",
-                  "text": "Romanische Ruinen einer Kapelle, die zum Schutz nach Jaca versetzt wurden.",
-                  "category": "historical",
-                  "coords": [
-                        -0.552756,
-                        42.566531
-                  ]
-            }
-      ],
+      "de": [],
       "hu": [
-            {
-                  "name": "Fuerte de Rapitán",
-                  "text": "A 19. század végén épült erőd a Rapitán-dombon, ahonnan panorámás kilátás nyílik a környékre.",
-                  "category": "fortress",
-                  "coords": [
-                        -0.536297,
-                        42.589132
-                  ]
-            },
             {
                   "name": "Ciudadela de Jaca",
                   "text": "Kiváló állapotban fennmaradt, 16. századi ötszögletű erődítmény, amelyet vizesárok vesz körül.",
@@ -61792,45 +62106,9 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -0.55221,
                         42.572303
                   ]
-            },
-            {
-                  "name": "Palacio Episcopal",
-                  "text": "Történelmi püspöki palota Jacában, jelentős reneszánsz építészeti stílusjegyekkel.",
-                  "category": "castle",
-                  "coords": [
-                        -0.550115,
-                        42.570142
-                  ]
-            },
-            {
-                  "name": "Chiquilandia",
-                  "text": "Gyermekeknek szóló szabadidős park és játszótér Jaca városközpontjában.",
-                  "category": "family",
-                  "coords": [
-                        -0.554737,
-                        42.566659
-                  ]
-            },
-            {
-                  "name": "Ermita de Sarsa",
-                  "text": "Egy romanikus kápolna romjai, amelyeket megőrzés céljából telepítettek át Jacába.",
-                  "category": "historical",
-                  "coords": [
-                        -0.552756,
-                        42.566531
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Fuerte de Rapitán",
-                  "text": "O fortăreață de la sfârșitul secolului al 19-lea situată pe dealul Rapitán, oferind vederi panoramice.",
-                  "category": "fortress",
-                  "coords": [
-                        -0.536297,
-                        42.589132
-                  ]
-            },
             {
                   "name": "Ciudadela de Jaca",
                   "text": "O fortăreață pentagonală din secolul al 16-lea remarcabil de bine conservată, înconjurată de un șanț de apă.",
@@ -61839,45 +62117,9 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                         -0.55221,
                         42.572303
                   ]
-            },
-            {
-                  "name": "Palacio Episcopal",
-                  "text": "Palat episcopal istoric din Jaca, prezentând elemente arhitecturale renascentiste importante.",
-                  "category": "castle",
-                  "coords": [
-                        -0.550115,
-                        42.570142
-                  ]
-            },
-            {
-                  "name": "Chiquilandia",
-                  "text": "Un parc de distracții și loc de joacă pentru copii în centrul orașului Jaca.",
-                  "category": "family",
-                  "coords": [
-                        -0.554737,
-                        42.566659
-                  ]
-            },
-            {
-                  "name": "Ermita de Sarsa",
-                  "text": "Ruinele romanice ale unei capele, strămutate în Jaca pentru a fi conservate.",
-                  "category": "historical",
-                  "coords": [
-                        -0.552756,
-                        42.566531
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Fuerte de Rapitán",
-                  "text": "A late 19th-century fortress situated on Rapitán hill, offering defensive architecture and panoramic views.",
-                  "category": "fortress",
-                  "coords": [
-                        -0.536297,
-                        42.589132
-                  ]
-            },
             {
                   "name": "Jaca Citadel",
                   "text": "A remarkably well-preserved 16th-century pentagonal fortress surrounded by a moat.",
@@ -61885,33 +62127,6 @@ imageHint: "Roman Amphitheatre Tarragona by the sea",
                   "coords": [
                         -0.55221,
                         42.572303
-                  ]
-            },
-            {
-                  "name": "Palacio Episcopal",
-                  "text": "Historic bishop's palace in Jaca featuring significant Renaissance architectural elements.",
-                  "category": "castle",
-                  "coords": [
-                        -0.550115,
-                        42.570142
-                  ]
-            },
-            {
-                  "name": "Chiquilandia",
-                  "text": "A leisure park and playground for children located in the city center of Jaca.",
-                  "category": "family",
-                  "coords": [
-                        -0.554737,
-                        42.566659
-                  ]
-            },
-            {
-                  "name": "Ermita de Sarsa",
-                  "text": "The Romanesque ruins of a chapel relocated to Jaca for preservation.",
-                  "category": "historical",
-                  "coords": [
-                        -0.552756,
-                        42.566531
                   ]
             }
       ]

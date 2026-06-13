@@ -97,39 +97,12 @@ imageHint: "Mount Olympus snowy peaks and alpine forest",
     id: "greece-samaria-gorge-national-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Upper western fort Agia Roumeli",
-                  "text": "Überreste einer historischen Befestigungsanlage im Nationalpark Samaria-Schlucht.",
-                  "category": "castle",
-                  "coords": [
-                        23.954895,
-                        35.236975
-                  ]
-            },
-            {
-                  "name": "Man and rock",
-                  "text": "Ein lokales Museum im Nationalpark Samaria-Schlucht, das der Natur und Geologie gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        23.964576,
-                        35.238181
-                  ]
-            },
-            {
                   "name": "Man and Samaria",
                   "text": "Ein thematisches Museum zur Geschichte und Umwelt der Samaria-Schlucht.",
                   "category": "museum",
                   "coords": [
                         23.958806,
                         35.291438
-                  ]
-            },
-            {
-                  "name": "Koules Aggelokampe",
-                  "text": "Eine venezianische Festungsanlage im Gebiet der Samaria-Schlucht auf Kreta.",
-                  "category": "castle",
-                  "coords": [
-                        23.971309,
-                        35.237477
                   ]
             },
             {
@@ -151,15 +124,6 @@ imageHint: "Mount Olympus snowy peaks and alpine forest",
                   ]
             },
             {
-                  "name": "Volakias",
-                  "text": "Ein markanter Berggipfel in den Weißen Bergen in der Nähe der Samaria-Schlucht.",
-                  "category": "landmark",
-                  "coords": [
-                        23.927735,
-                        35.288069
-                  ]
-            },
-            {
                   "name": "Pssiristra",
                   "text": "Ein Berggipfel im Nationalpark Samaria-Schlucht auf der Insel Kreta.",
                   "category": "landmark",
@@ -171,39 +135,12 @@ imageHint: "Mount Olympus snowy peaks and alpine forest",
       ],
       "hu": [
             {
-                  "name": "Upper western fort Agia Roumeli",
-                  "text": "Egy történelmi erődítmény maradványai a Szamaria-szurdok Nemzeti Parkban.",
-                  "category": "castle",
-                  "coords": [
-                        23.954895,
-                        35.236975
-                  ]
-            },
-            {
-                  "name": "Man and rock",
-                  "text": "Helyi múzeum a Szamaria-szurdok Nemzeti Parkban, amely a természetnek és geológiának szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        23.964576,
-                        35.238181
-                  ]
-            },
-            {
                   "name": "Man and Samaria",
                   "text": "Tematikus múzeum a Szamaria-szurdok történelméről és környezetéről.",
                   "category": "museum",
                   "coords": [
                         23.958806,
                         35.291438
-                  ]
-            },
-            {
-                  "name": "Koules Aggelokampe",
-                  "text": "Velencei erődítmény a krétai Szamaria-szurdok területén.",
-                  "category": "castle",
-                  "coords": [
-                        23.971309,
-                        35.237477
                   ]
             },
             {
@@ -225,15 +162,6 @@ imageHint: "Mount Olympus snowy peaks and alpine forest",
                   ]
             },
             {
-                  "name": "Bolakias",
-                  "text": "Jellegzetes hegycsúcs a Fehér-hegységben, a Szamaria-szurdok közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        23.927735,
-                        35.288069
-                  ]
-            },
-            {
                   "name": "Pssiristra",
                   "text": "Hegycsúcs a Szamaria-szurdok Nemzeti Parkban, Kréta szigetén.",
                   "category": "landmark",
@@ -245,39 +173,12 @@ imageHint: "Mount Olympus snowy peaks and alpine forest",
       ],
       "ro": [
             {
-                  "name": "Upper western fort Agia Roumeli",
-                  "text": "Rămășițele unei fortificații istorice în Parcul Național Cheile Samariei.",
-                  "category": "castle",
-                  "coords": [
-                        23.954895,
-                        35.236975
-                  ]
-            },
-            {
-                  "name": "Man and rock",
-                  "text": "Un muzeu local în Parcul Național Cheile Samariei, dedicat naturii și geologiei.",
-                  "category": "museum",
-                  "coords": [
-                        23.964576,
-                        35.238181
-                  ]
-            },
-            {
                   "name": "Man and Samaria",
                   "text": "Un muzeu tematic despre istoria și mediul înconjurător al Cheilor Samariei.",
                   "category": "museum",
                   "coords": [
                         23.958806,
                         35.291438
-                  ]
-            },
-            {
-                  "name": "Koules Aggelokampe",
-                  "text": "O fortificație venețiană situată în zona Cheilor Samariei din Creta.",
-                  "category": "castle",
-                  "coords": [
-                        23.971309,
-                        35.237477
                   ]
             },
             {
@@ -299,15 +200,6 @@ imageHint: "Mount Olympus snowy peaks and alpine forest",
                   ]
             },
             {
-                  "name": "Bolakias",
-                  "text": "Un vârf montan proeminent în Munții Albi, situat lângă Cheile Samariei.",
-                  "category": "landmark",
-                  "coords": [
-                        23.927735,
-                        35.288069
-                  ]
-            },
-            {
                   "name": "Pssiristra",
                   "text": "Un vârf muntos în Parcul Național Cheile Samariei de pe insula Creta.",
                   "category": "landmark",
@@ -319,39 +211,12 @@ imageHint: "Mount Olympus snowy peaks and alpine forest",
       ],
       "en": [
             {
-                  "name": "Upper western fort Agia Roumeli",
-                  "text": "Remains of a historical fortification located within the Samaria Gorge National Park.",
-                  "category": "castle",
-                  "coords": [
-                        23.954895,
-                        35.236975
-                  ]
-            },
-            {
-                  "name": "Man and rock",
-                  "text": "A local museum in the Samaria Gorge National Park dedicated to nature and geology.",
-                  "category": "museum",
-                  "coords": [
-                        23.964576,
-                        35.238181
-                  ]
-            },
-            {
                   "name": "Man and Samaria",
                   "text": "A thematic museum focused on the history and environment of the Samaria Gorge.",
                   "category": "museum",
                   "coords": [
                         23.958806,
                         35.291438
-                  ]
-            },
-            {
-                  "name": "Koules Angelokambi",
-                  "text": "A Venetian fortification located in the area of the Samaria Gorge in Crete.",
-                  "category": "castle",
-                  "coords": [
-                        23.971309,
-                        35.237477
                   ]
             },
             {
@@ -370,15 +235,6 @@ imageHint: "Mount Olympus snowy peaks and alpine forest",
                   "coords": [
                         23.992451,
                         35.27683
-                  ]
-            },
-            {
-                  "name": "Volakiás",
-                  "text": "A prominent mountain peak in the White Mountains near the Samaria Gorge.",
-                  "category": "landmark",
-                  "coords": [
-                        23.927735,
-                        35.288069
                   ]
             },
             {
@@ -1085,24 +941,6 @@ imageHint: "Flamingos in the shallow waters of Evros Delta",
     id: "greece-parnitha-national-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Nationalpark Parnitha",
-                  "text": "Ein weitläufiger Nationalpark nördlich von Athen mit reicher Flora und Fauna.",
-                  "category": "natural",
-                  "coords": [
-                        23.71683,
-                        38.174792
-                  ]
-            },
-            {
-                  "name": "Kserobouni",
-                  "text": "Ein markanter Berggipfel im Parnitha-Nationalpark.",
-                  "category": "landmark",
-                  "coords": [
-                        23.757556,
-                        38.174787
-                  ]
-            },
-            {
                   "name": "Crossing",
                   "text": "Ein markanter Kreuzungspunkt im Parnitha-Nationalpark.",
                   "category": "landmark",
@@ -1110,36 +948,9 @@ imageHint: "Flamingos in the shallow waters of Evros Delta",
                         23.730017,
                         38.163457
                   ]
-            },
-            {
-                  "name": "Ntrasiza;Purgos Katsimidi",
-                  "text": "Überreste historischer Gebäude im Parnitha-Nationalpark.",
-                  "category": "historical",
-                  "coords": [
-                        23.678266,
-                        38.181609
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Drumos Parnethas",
-                  "text": "Kiterjedt nemzeti park Athéntól északra, gazdag növény- és állatvilággal.",
-                  "category": "natural",
-                  "coords": [
-                        23.71683,
-                        38.174792
-                  ]
-            },
-            {
-                  "name": "Kserobouni",
-                  "text": "Egy jellegzetes hegycsúcs a Parnitha Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        23.757556,
-                        38.174787
-                  ]
-            },
             {
                   "name": "Crossing",
                   "text": "Egy jellegzetes kereszteződés a Parnitha Nemzeti Parkban.",
@@ -1148,36 +959,9 @@ imageHint: "Flamingos in the shallow waters of Evros Delta",
                         23.730017,
                         38.163457
                   ]
-            },
-            {
-                  "name": "Ntrasiza;Purgos Katsimidi",
-                  "text": "Történelmi épületek maradványai a Parnitha Nemzeti Parkban.",
-                  "category": "historical",
-                  "coords": [
-                        23.678266,
-                        38.181609
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Drumos Parnethas",
-                  "text": "Un parc național vast la nord de Atena, cu o floră și faună bogată.",
-                  "category": "natural",
-                  "coords": [
-                        23.71683,
-                        38.174792
-                  ]
-            },
-            {
-                  "name": "Kserobouni",
-                  "text": "Un vârf montan proeminent în Parcul Național Parnitha.",
-                  "category": "landmark",
-                  "coords": [
-                        23.757556,
-                        38.174787
-                  ]
-            },
             {
                   "name": "Crossing",
                   "text": "Un punct de trecere sau intersecție în Parcul Național Parnitha.",
@@ -1186,36 +970,9 @@ imageHint: "Flamingos in the shallow waters of Evros Delta",
                         23.730017,
                         38.163457
                   ]
-            },
-            {
-                  "name": "Ntrasiza;Purgos Katsimidi",
-                  "text": "Rămășițele unor clădiri istorice din Parcul Național Parnitha.",
-                  "category": "historical",
-                  "coords": [
-                        23.678266,
-                        38.181609
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Mount Parnitha National Park",
-                  "text": "A vast national park north of Athens known for its rich flora and fauna.",
-                  "category": "natural",
-                  "coords": [
-                        23.71683,
-                        38.174792
-                  ]
-            },
-            {
-                  "name": "Xerovouni",
-                  "text": "A prominent mountain peak within the Parnitha National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        23.757556,
-                        38.174787
-                  ]
-            },
             {
                   "name": "Crossing",
                   "text": "A notable crossing point within the Parnitha National Park.",
@@ -1223,15 +980,6 @@ imageHint: "Flamingos in the shallow waters of Evros Delta",
                   "coords": [
                         23.730017,
                         38.163457
-                  ]
-            },
-            {
-                  "name": "Ntrasiza",
-                  "text": "Remains of historical buildings in the Parnitha National Park.",
-                  "category": "historical",
-                  "coords": [
-                        23.678266,
-                        38.181609
                   ]
             }
       ]
@@ -1700,15 +1448,6 @@ imageHint: "Brown bear in a forested sanctuary enclosure",
                   ]
             },
             {
-                  "name": "Athens Paintball Village",
-                  "text": "Ein Paintball-Themenpark mit verschiedenen Feldern für Outdoor-Aktivitäten in der Nähe von Athen.",
-                  "category": "recreational",
-                  "coords": [
-                        23.912734,
-                        37.914192
-                  ]
-            },
-            {
                   "name": "Magic Paintball Arena",
                   "text": "Eine Paintball-Arena unter freiem Himmel, die Platz für Wettkampfspiele und Spaß bietet.",
                   "category": "recreational",
@@ -1735,15 +1474,6 @@ imageHint: "Brown bear in a forested sanctuary enclosure",
                   "coords": [
                         23.911485,
                         37.978673
-                  ]
-            },
-            {
-                  "name": "Athens Paintball Village",
-                  "text": "Paintball élménypark különféle pályákkal a szabadidő eltöltésére Athén közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        23.912734,
-                        37.914192
                   ]
             },
             {
@@ -1776,15 +1506,6 @@ imageHint: "Brown bear in a forested sanctuary enclosure",
                   ]
             },
             {
-                  "name": "Athens Paintball Village",
-                  "text": "Un parc tematic de paintball care oferă diverse terenuri pentru recreere în aer liber lângă Atena.",
-                  "category": "recreational",
-                  "coords": [
-                        23.912734,
-                        37.914192
-                  ]
-            },
-            {
                   "name": "Magic Paintball Arena",
                   "text": "O arenă de paintball în aer liber care oferă spațiu pentru jocuri competitive și distracție.",
                   "category": "recreational",
@@ -1811,15 +1532,6 @@ imageHint: "Brown bear in a forested sanctuary enclosure",
                   "coords": [
                         23.911485,
                         37.978673
-                  ]
-            },
-            {
-                  "name": "Athens Paintball Village",
-                  "text": "A paintball theme park offering various fields for outdoor recreation near Athens.",
-                  "category": "recreational",
-                  "coords": [
-                        23.912734,
-                        37.914192
                   ]
             },
             {
@@ -3041,15 +2753,6 @@ imageHint: "Lush green paths in the National Garden of Athens",
                   ]
             },
             {
-                  "name": "Stoa of Artemis at Brauron",
-                  "text": "Überreste der antiken Säulenhalle im Heiligtum der Artemis in Brauron.",
-                  "category": "historical",
-                  "coords": [
-                        23.993602,
-                        37.926275
-                  ]
-            },
-            {
                   "name": "Beach Vravrona",
                   "text": "Ein schöner Sandstrand in der Nähe der archäologischen Stätte von Vravrona.",
                   "category": "recreational",
@@ -3130,15 +2833,6 @@ imageHint: "Lush green paths in the National Garden of Athens",
                   "coords": [
                         23.997031,
                         37.924553
-                  ]
-            },
-            {
-                  "name": "Stoa of Artemis at Brauron",
-                  "text": "Az ókori Artemisz-szentély oszlopcsarnokának maradványai Brauronban.",
-                  "category": "historical",
-                  "coords": [
-                        23.993602,
-                        37.926275
                   ]
             },
             {
@@ -3225,15 +2919,6 @@ imageHint: "Lush green paths in the National Garden of Athens",
                   ]
             },
             {
-                  "name": "Stoa of Artemis at Brauron",
-                  "text": "Vestigiile porticului antic din sanctuarul Artemidei de la Brauron.",
-                  "category": "historical",
-                  "coords": [
-                        23.993602,
-                        37.926275
-                  ]
-            },
-            {
                   "name": "Beach Vravrona",
                   "text": "O plajă frumoasă de nisip situată în apropierea sitului arheologic Vravrona.",
                   "category": "recreational",
@@ -3314,15 +2999,6 @@ imageHint: "Lush green paths in the National Garden of Athens",
                   "coords": [
                         23.997031,
                         37.924553
-                  ]
-            },
-            {
-                  "name": "Stoa of Artemis at Brauron",
-                  "text": "Remains of the ancient stoa within the sanctuary of Artemis at Brauron.",
-                  "category": "historical",
-                  "coords": [
-                        23.993602,
-                        37.926275
                   ]
             },
             {
@@ -4189,39 +3865,12 @@ imageHint: "Balkan chamois on a rocky mountain slope",
     id: "greece-sounion-national-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Sanctuary of Athena",
-                  "text": "Die Überreste eines antiken griechischen Heiligtums für die Göttin Athene in Sounion.",
-                  "category": "historical",
-                  "coords": [
-                        24.026974,
-                        37.652956
-                  ]
-            },
-            {
                   "name": "Purgos tes Basilopoulas",
                   "text": "Eine archäologische Stätte mit den Überresten eines antiken Turms oder Wirtschaftsgebäudes.",
                   "category": "historical",
                   "coords": [
                         24.027818,
                         37.6702
-                  ]
-            },
-            {
-                  "name": "Naos Poseidona",
-                  "text": "Ein berühmter antiker griechischer Tempel für Poseidon auf den Klippen von Kap Sounion.",
-                  "category": "historical",
-                  "coords": [
-                        24.024633,
-                        37.650292
-                  ]
-            },
-            {
-                  "name": "Archaeological Site of Sounio",
-                  "text": "Das gesamte archäologische Areal am Kap Sounion mit antiken Ruinen.",
-                  "category": "historical",
-                  "coords": [
-                        24.0235,
-                        37.651633
                   ]
             },
             {
@@ -4252,15 +3901,6 @@ imageHint: "Balkan chamois on a rocky mountain slope",
                   ]
             },
             {
-                  "name": "Sounion Beach",
-                  "text": "Ein malerischer Strand in der Nähe der antiken archäologischen Stätte von Sounion.",
-                  "category": "recreational",
-                  "coords": [
-                        24.024738,
-                        37.65417
-                  ]
-            },
-            {
                   "name": "Χάρακας",
                   "text": "Ein weitläufiger Sandstrand im Sounion-Nationalpark.",
                   "category": "recreational",
@@ -4272,39 +3912,12 @@ imageHint: "Balkan chamois on a rocky mountain slope",
       ],
       "hu": [
             {
-                  "name": "Sanctuary of Athena",
-                  "text": "Athéna istennőnek szentelt ókori görög szentély maradványai Szúnionban.",
-                  "category": "historical",
-                  "coords": [
-                        24.026974,
-                        37.652956
-                  ]
-            },
-            {
                   "name": "Purgos tes Basilopoulas",
                   "text": "Régészeti lelőhely egy ókori torony vagy gazdasági épület maradványaival.",
                   "category": "historical",
                   "coords": [
                         24.027818,
                         37.6702
-                  ]
-            },
-            {
-                  "name": "Naos Poseidona",
-                  "text": "Poszeidónnak szentelt híres ókori görög templom a Szúnion-fok szikláin.",
-                  "category": "historical",
-                  "coords": [
-                        24.024633,
-                        37.650292
-                  ]
-            },
-            {
-                  "name": "Archaeological Site of Sounio",
-                  "text": "A Szúnion-fok teljes régészeti területe az ókori romokkal.",
-                  "category": "historical",
-                  "coords": [
-                        24.0235,
-                        37.651633
                   ]
             },
             {
@@ -4335,15 +3948,6 @@ imageHint: "Balkan chamois on a rocky mountain slope",
                   ]
             },
             {
-                  "name": "Sounion Beach",
-                  "text": "Festői tengerpart a szúnioni ókori régészeti lelőhely közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        24.024738,
-                        37.65417
-                  ]
-            },
-            {
                   "name": "Χάρακας",
                   "text": "Kiterjedt homokos strand a Szunion-foki Nemzeti Park területén.",
                   "category": "recreational",
@@ -4355,39 +3959,12 @@ imageHint: "Balkan chamois on a rocky mountain slope",
       ],
       "ro": [
             {
-                  "name": "Sanctuary of Athena",
-                  "text": "Rămășițele unui sanctuar antic grec dedicat zeiței Atena la Sounion.",
-                  "category": "historical",
-                  "coords": [
-                        24.026974,
-                        37.652956
-                  ]
-            },
-            {
                   "name": "Purgos tes Basilopoulas",
                   "text": "Un sit arheologic care cuprinde rămășițele unui turn antic sau ale unei clădiri de fermă.",
                   "category": "historical",
                   "coords": [
                         24.027818,
                         37.6702
-                  ]
-            },
-            {
-                  "name": "Naos Poseidona",
-                  "text": "Un faimos templu antic grec dedicat lui Poseidon, situat pe stâncile Capului Sounion.",
-                  "category": "historical",
-                  "coords": [
-                        24.024633,
-                        37.650292
-                  ]
-            },
-            {
-                  "name": "Archaeological Site of Sounio",
-                  "text": "Zona arheologică cuprinzătoare de la Capul Sounion, incluzând ruine antice.",
-                  "category": "historical",
-                  "coords": [
-                        24.0235,
-                        37.651633
                   ]
             },
             {
@@ -4418,15 +3995,6 @@ imageHint: "Balkan chamois on a rocky mountain slope",
                   ]
             },
             {
-                  "name": "Sounion Beach",
-                  "text": "O plajă pitorească situată lângă situl arheologic antic de la Sounion.",
-                  "category": "recreational",
-                  "coords": [
-                        24.024738,
-                        37.65417
-                  ]
-            },
-            {
                   "name": "Χάρακας",
                   "text": "O plajă întinsă cu nisip în Parcul Național Sounion.",
                   "category": "recreational",
@@ -4438,39 +4006,12 @@ imageHint: "Balkan chamois on a rocky mountain slope",
       ],
       "en": [
             {
-                  "name": "Sanctuary of Athena",
-                  "text": "The remains of an ancient Greek sanctuary dedicated to the goddess Athena at Sounion.",
-                  "category": "historical",
-                  "coords": [
-                        24.026974,
-                        37.652956
-                  ]
-            },
-            {
                   "name": "Princess tower/farm",
                   "text": "An archaeological site featuring the remains of an ancient tower or farm building.",
                   "category": "historical",
                   "coords": [
                         24.027818,
                         37.6702
-                  ]
-            },
-            {
-                  "name": "Temple of Poseidon",
-                  "text": "A famous ancient Greek temple dedicated to Poseidon, situated on the cliffs of Cape Sounion.",
-                  "category": "historical",
-                  "coords": [
-                        24.024633,
-                        37.650292
-                  ]
-            },
-            {
-                  "name": "Archaeological Site of Sounio",
-                  "text": "The comprehensive archaeological area at Cape Sounion, including ancient ruins.",
-                  "category": "historical",
-                  "coords": [
-                        24.0235,
-                        37.651633
                   ]
             },
             {
@@ -4498,15 +4039,6 @@ imageHint: "Balkan chamois on a rocky mountain slope",
                   "coords": [
                         23.983409,
                         37.661247
-                  ]
-            },
-            {
-                  "name": "Sounion Beach",
-                  "text": "A scenic beach situated near the ancient archaeological site of Sounion.",
-                  "category": "recreational",
-                  "coords": [
-                        24.024738,
-                        37.65417
                   ]
             },
             {

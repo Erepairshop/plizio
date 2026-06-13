@@ -1296,24 +1296,6 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
     id: "moca-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Palacio Presidencial",
-                  "text": "Ein historischer Palast in Moca, einst Residenz des Präsidenten.",
-                  "category": "castle",
-                  "coords": [
-                        8.665149,
-                        3.344664
-                  ]
-            },
-            {
-                  "name": "Centro de Vida Salvaje BBPP de Moka",
-                  "text": "Ein Wildtierschutzzentrum und Museum auf der Insel Bioko, das die Artenvielfalt zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        8.662154,
-                        3.361244
-                  ]
-            },
-            {
                   "name": "Vista de Moka",
                   "text": "Vista de Moka ist ein Aussichtspunkt mit Panoramablick in Moca.",
                   "category": "natural",
@@ -1324,24 +1306,6 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Palacio Presidencial",
-                  "text": "Történelmi palota Mocában, egykor az elnök rezidenciája.",
-                  "category": "castle",
-                  "coords": [
-                        8.665149,
-                        3.344664
-                  ]
-            },
-            {
-                  "name": "Centro de Vida Salvaje BBPP de Moka",
-                  "text": "Vadvédelmi központ és múzeum a Bioko-szigeten, a biológiai sokféleség bemutatásával.",
-                  "category": "museum",
-                  "coords": [
-                        8.662154,
-                        3.361244
-                  ]
-            },
             {
                   "name": "Vista de Moka",
                   "text": "A Vista de Moka egy festői kilátó Moca városában.",
@@ -1354,24 +1318,6 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Palacio Presidencial",
-                  "text": "Un palat istoric în Moca, odinioară reședința președintelui.",
-                  "category": "castle",
-                  "coords": [
-                        8.665149,
-                        3.344664
-                  ]
-            },
-            {
-                  "name": "Centro de Vida Salvaje BBPP de Moka",
-                  "text": "Un centru de conservare a vieții sălbatice și muzeu pe insula Bioko, care prezintă biodiversitatea.",
-                  "category": "museum",
-                  "coords": [
-                        8.662154,
-                        3.361244
-                  ]
-            },
-            {
                   "name": "Vista de Moka",
                   "text": "Vista de Moka este un punct de belvedere pitoresc situat în Moca.",
                   "category": "natural",
@@ -1382,24 +1328,6 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Palacio Presidencial",
-                  "text": "A historic palace in Moca, once the residence of the president.",
-                  "category": "castle",
-                  "coords": [
-                        8.665149,
-                        3.344664
-                  ]
-            },
-            {
-                  "name": "Wildlife Centre BBPP of Moka",
-                  "text": "A wildlife conservation centre and museum on Bioko Island, showcasing biodiversity.",
-                  "category": "museum",
-                  "coords": [
-                        8.662154,
-                        3.361244
-                  ]
-            },
             {
                   "name": "Vista de Moka",
                   "text": "Vista de Moka is a scenic viewpoint offering panoramic views in Moca.",
@@ -2121,50 +2049,10 @@ export const poiExtraEquatorialguineaCitiesV2: POI[] = [
   },
   {
     id: "bilelipa-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Catedrál de Santa Isabel",
-                  "text": "Die Catedrál de Santa Isabel ist eine markante neugotische römisch-katholische Kathedrale und Attraktion in Bilelipa.",
-                  "category": "landmark",
-                  "coords": [
-                        8.782879,
-                        3.756948
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Catedrál de Santa Isabel",
-                  "text": "A Catedrál de Santa Isabel egy kiemelkedő neogótikus római katolikus katedrális és látványosság Bilelipában.",
-                  "category": "landmark",
-                  "coords": [
-                        8.782879,
-                        3.756948
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Catedrál de Santa Isabel",
-                  "text": "Catedrala Santa Isabel este o proeminentă catedrală romano-catolică neogotică și o atracție în Bilelipa.",
-                  "category": "landmark",
-                  "coords": [
-                        8.782879,
-                        3.756948
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Catedrál de Santa Isabel",
-                  "text": "The Catedrál de Santa Isabel is a prominent Neo-Gothic Roman Catholic cathedral acting as an attraction in Bilelipa.",
-                  "category": "landmark",
-                  "coords": [
-                        8.782879,
-                        3.756948
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "GQ-BN",

@@ -6,24 +6,6 @@ export const poiExtraBulgariaHistory: POI[] = [
     id: "cult-rila-monastery", "sights": {
       "de": [
             {
-                  "name": "Waldreservat Rila-Kloster",
-                  "text": "Ein geschütztes Waldgebiet rund um das Rila-Kloster, reich an Artenvielfalt.",
-                  "category": "natural",
-                  "coords": [
-                        23.377245,
-                        42.141702
-                  ]
-            },
-            {
-                  "name": "Naturpark Rila-Kloster",
-                  "text": "Ein Naturpark in Bulgarien, der zum Schutz der Umgebung des Rila-Klosters eingerichtet wurde.",
-                  "category": "natural",
-                  "coords": [
-                        23.364635,
-                        42.124165
-                  ]
-            },
-            {
                   "name": "Rilska Sveta Obitel",
                   "text": "Dieses Museum bewahrt die religiösen und historischen Schätze des berühmten Rila-Klosters auf.",
                   "category": "museum",
@@ -34,24 +16,6 @@ export const poiExtraBulgariaHistory: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Rezervat Rilomanastirska gora",
-                  "text": "A Rila-kolostort körülvevő védett erdőterület, amely gazdag biológiai sokféleséggel rendelkezik.",
-                  "category": "natural",
-                  "coords": [
-                        23.377245,
-                        42.141702
-                  ]
-            },
-            {
-                  "name": "Priroden park Rilski manastir",
-                  "text": "Bulgáriai natúrpark, amelyet a Rila-kolostor körüli környezet védelmére hoztak létre.",
-                  "category": "natural",
-                  "coords": [
-                        23.364635,
-                        42.124165
-                  ]
-            },
             {
                   "name": "Rilska Sveta Obitel",
                   "text": "Ez a múzeum a híres Rila-kolostor vallási és történelmi kincseit őrzi.",
@@ -64,24 +28,6 @@ export const poiExtraBulgariaHistory: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rezervat Rilomanastirska gora",
-                  "text": "O zonă forestieră protejată care înconjoară Mănăstirea Rila, bogată în biodiversitate.",
-                  "category": "natural",
-                  "coords": [
-                        23.377245,
-                        42.141702
-                  ]
-            },
-            {
-                  "name": "Priroden park Rilski manastir",
-                  "text": "Un parc natural din Bulgaria înființat pentru a proteja mediul înconjurător din jurul Mănăstirii Rila.",
-                  "category": "natural",
-                  "coords": [
-                        23.364635,
-                        42.124165
-                  ]
-            },
-            {
                   "name": "Rilska Sveta Obitel",
                   "text": "Acest muzeu păstrează comorile religioase și istorice ale faimoasei Mănăstiri Rila.",
                   "category": "museum",
@@ -92,24 +38,6 @@ export const poiExtraBulgariaHistory: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Rila Monastery Forest Reserve",
-                  "text": "A protected forest area surrounding the Rila Monastery, rich in biodiversity.",
-                  "category": "natural",
-                  "coords": [
-                        23.377245,
-                        42.141702
-                  ]
-            },
-            {
-                  "name": "Rila Monastery Natural Park",
-                  "text": "A natural park in Bulgaria established to protect the environment around the Rila Monastery.",
-                  "category": "natural",
-                  "coords": [
-                        23.364635,
-                        42.124165
-                  ]
-            },
             {
                   "name": "Rila Monastery Ecclesiastical and Historical Museum",
                   "text": "This museum preserves the religious and historical treasures of the famous Rila Monastery.",
@@ -417,57 +345,12 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Thrakergrab von Kasanlak",
-                  "text": "Eine antike thrakische Grabstätte in Kasanlak, die für ihre außergewöhnlich gut erhaltenen Fresken bekannt ist.",
-                  "category": "historical",
-                  "coords": [
-                        25.399166,
-                        42.625736
-                  ]
-            },
-            {
-                  "name": "Istoricheski Muzei Iskra Kazanl'k",
-                  "text": "Ein bedeutendes Museum in Kasanlak, das archäologische und historische Schätze der Region präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        25.39503,
-                        42.621263
-                  ]
-            },
-            {
-                  "name": "Literaturno-khudozhovestven musei Chudomir",
-                  "text": "Ein Museum in Kasanlak, das dem Werk des bulgarischen Schriftstellers und Malers Tschudomir gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        25.398221,
-                        42.620149
-                  ]
-            },
-            {
-                  "name": "Tiulbeto",
-                  "text": "Ein weitläufiger Stadtpark in Kasanlak, der als Erholungsgebiet und Standort der thrakischen Grabstätte dient.",
-                  "category": "park",
-                  "coords": [
-                        25.403321,
-                        42.631726
-                  ]
-            },
-            {
                   "name": "Evro monument",
                   "text": "Ein Monument in Kasanlak, das als Symbol für die europäische Integration errichtet wurde.",
                   "category": "historical",
                   "coords": [
                         25.393366,
                         42.619776
-                  ]
-            },
-            {
-                  "name": "Akvapark Waterland",
-                  "text": "Ein Wasserpark mit Rutschen und Becken, beliebt für Familienausflüge in Kazanlak.",
-                  "category": "recreational",
-                  "coords": [
-                        25.426717,
-                        42.580391
                   ]
             }
       ],
@@ -482,57 +365,12 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Trakiiska grobnitsa",
-                  "text": "Ókori traák síremlék Kazanlakban, amely rendkívül jó állapotban fennmaradt freskóiról híres.",
-                  "category": "historical",
-                  "coords": [
-                        25.399166,
-                        42.625736
-                  ]
-            },
-            {
-                  "name": "Istoricheski Muzei Iskra Kazanl'k",
-                  "text": "Jelentős múzeum Kazanlakban, amely a régió régészeti és történelmi kincseit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        25.39503,
-                        42.621263
-                  ]
-            },
-            {
-                  "name": "Literaturno-khudozhovestven musei Chudomir",
-                  "text": "Kazanlaki múzeum, amely Csudomir bolgár író és festőművész munkásságát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        25.398221,
-                        42.620149
-                  ]
-            },
-            {
-                  "name": "Tiulbeto",
-                  "text": "Tágas városi park Kazanlakban, amely pihenőövezetként és a traák síremlék helyszíneként szolgál.",
-                  "category": "park",
-                  "coords": [
-                        25.403321,
-                        42.631726
-                  ]
-            },
-            {
                   "name": "Evro monument",
                   "text": "Kazanlaki emlékmű, amelyet az európai integráció szimbólumaként emeltek.",
                   "category": "historical",
                   "coords": [
                         25.393366,
                         42.619776
-                  ]
-            },
-            {
-                  "name": "Akvapark Waterland",
-                  "text": "Egy vízipark csúszdákkal és medencékkel, népszerű családi kirándulásokhoz Kazanlakban.",
-                  "category": "recreational",
-                  "coords": [
-                        25.426717,
-                        42.580391
                   ]
             }
       ],
@@ -547,57 +385,12 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Trakiiska grobnitsa",
-                  "text": "Un mormânt trac antic din Kazanlak, renumit pentru frescele sale excepțional de bine conservate.",
-                  "category": "historical",
-                  "coords": [
-                        25.399166,
-                        42.625736
-                  ]
-            },
-            {
-                  "name": "Istoricheski Muzei Iskra Kazanl'k",
-                  "text": "Un muzeu important din Kazanlak care prezintă comori arheologice și istorice ale regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        25.39503,
-                        42.621263
-                  ]
-            },
-            {
-                  "name": "Literaturno-khudozhovestven musei Chudomir",
-                  "text": "Un muzeu din Kazanlak dedicat operei scriitorului și pictorului bulgar Ciudomir.",
-                  "category": "museum",
-                  "coords": [
-                        25.398221,
-                        42.620149
-                  ]
-            },
-            {
-                  "name": "Tiulbeto",
-                  "text": "Un parc urban întins în Kazanlak, care servește ca zonă de recreere și locație pentru mormântul trac.",
-                  "category": "park",
-                  "coords": [
-                        25.403321,
-                        42.631726
-                  ]
-            },
-            {
                   "name": "Evro monument",
                   "text": "Un monument în Kazanlak, ridicat ca simbol al integrării europene.",
                   "category": "historical",
                   "coords": [
                         25.393366,
                         42.619776
-                  ]
-            },
-            {
-                  "name": "Akvapark Waterland",
-                  "text": "Un parc acvatic cu tobogane și piscine, popular pentru excursii de familie în Kazanlâk.",
-                  "category": "recreational",
-                  "coords": [
-                        25.426717,
-                        42.580391
                   ]
             }
       ],
@@ -612,57 +405,12 @@ export const poiExtraBulgariaHistory: POI[] = [
                   ]
             },
             {
-                  "name": "Thracian Tomb of Kazanlak",
-                  "text": "An ancient Thracian tomb in Kazanlak, famous for its exceptionally well-preserved frescoes.",
-                  "category": "historical",
-                  "coords": [
-                        25.399166,
-                        42.625736
-                  ]
-            },
-            {
-                  "name": "Iskra Historical Museum",
-                  "text": "A significant museum in Kazanlak presenting archaeological and historical treasures of the region.",
-                  "category": "museum",
-                  "coords": [
-                        25.39503,
-                        42.621263
-                  ]
-            },
-            {
-                  "name": "Chudomir Art and Literature Museum",
-                  "text": "A museum in Kazanlak dedicated to the work of the Bulgarian writer and painter Chudomir.",
-                  "category": "museum",
-                  "coords": [
-                        25.398221,
-                        42.620149
-                  ]
-            },
-            {
-                  "name": "Tyulbeto",
-                  "text": "A spacious city park in Kazanlak serving as a recreation area and the site of the Thracian tomb.",
-                  "category": "park",
-                  "coords": [
-                        25.403321,
-                        42.631726
-                  ]
-            },
-            {
                   "name": "Euro Monument",
                   "text": "A monument in Kazanlak erected as a symbol of European integration.",
                   "category": "historical",
                   "coords": [
                         25.393366,
                         42.619776
-                  ]
-            },
-            {
-                  "name": "Akvapark Waterland",
-                  "text": "A water park with slides and pools, popular for family outings in Kazanlak.",
-                  "category": "recreational",
-                  "coords": [
-                        25.426717,
-                        42.580391
                   ]
             }
       ]
@@ -805,33 +553,6 @@ export const poiExtraBulgariaHistory: POI[] = [
                         22.681527,
                         43.624882
                   ]
-            },
-            {
-                  "name": "Belogradchishka krepost",
-                  "text": "Eine antike Festung, die spektakulär in die Felsen von Belogradtschik integriert ist.",
-                  "category": "castle",
-                  "coords": [
-                        22.678036,
-                        43.623123
-                  ]
-            },
-            {
-                  "name": "Latin fortress",
-                  "text": "Historische Befestigungsanlagen im Belogradtschik-Komplex, die bis in die Antike zurückreichen.",
-                  "category": "castle",
-                  "coords": [
-                        22.675532,
-                        43.621837
-                  ]
-            },
-            {
-                  "name": "Boginiata Maika",
-                  "text": "Ein Aussichtspunkt bei den Felsen von Belogradtschik, benannt nach einer Felsformation, die einer Gottheit ähnelt.",
-                  "category": "natural",
-                  "coords": [
-                        22.68947,
-                        43.615575
-                  ]
             }
       ],
       "hu": [
@@ -842,33 +563,6 @@ export const poiExtraBulgariaHistory: POI[] = [
                   "coords": [
                         22.681527,
                         43.624882
-                  ]
-            },
-            {
-                  "name": "Belogradchishka krepost",
-                  "text": "Látványos ókori erődítmény, amelyet a Belogradcsik-sziklák közé építettek.",
-                  "category": "castle",
-                  "coords": [
-                        22.678036,
-                        43.623123
-                  ]
-            },
-            {
-                  "name": "Latin fortress",
-                  "text": "A belogradcsiki komplexum ókori eredetű történelmi erődítményei.",
-                  "category": "castle",
-                  "coords": [
-                        22.675532,
-                        43.621837
-                  ]
-            },
-            {
-                  "name": "Boginiata Maika",
-                  "text": "Kilátópont a Belogradcsik-szikláknál, amely egy istenségre hasonlító sziklaalakzatról kapta a nevét.",
-                  "category": "natural",
-                  "coords": [
-                        22.68947,
-                        43.615575
                   ]
             }
       ],
@@ -881,33 +575,6 @@ export const poiExtraBulgariaHistory: POI[] = [
                         22.681527,
                         43.624882
                   ]
-            },
-            {
-                  "name": "Belogradchishka krepost",
-                  "text": "O fortăreață antică integrată în spectaculoasele stânci Belogradcik.",
-                  "category": "castle",
-                  "coords": [
-                        22.678036,
-                        43.623123
-                  ]
-            },
-            {
-                  "name": "Latin fortress",
-                  "text": "Fortificații istorice din cadrul complexului Belogradcik, datând din timpuri antice.",
-                  "category": "castle",
-                  "coords": [
-                        22.675532,
-                        43.621837
-                  ]
-            },
-            {
-                  "name": "Boginiata Maika",
-                  "text": "Un punct de belvedere printre stâncile Belogradcik, numit după o formațiune stâncoasă care seamănă cu o divinitate.",
-                  "category": "natural",
-                  "coords": [
-                        22.68947,
-                        43.615575
-                  ]
             }
       ],
       "en": [
@@ -918,33 +585,6 @@ export const poiExtraBulgariaHistory: POI[] = [
                   "coords": [
                         22.681527,
                         43.624882
-                  ]
-            },
-            {
-                  "name": "Belogradchik Fortress",
-                  "text": "An ancient fortress integrated into the spectacular Belogradchik Rocks.",
-                  "category": "castle",
-                  "coords": [
-                        22.678036,
-                        43.623123
-                  ]
-            },
-            {
-                  "name": "Latin fortress",
-                  "text": "Historical fortifications within the Belogradchik complex dating back to ancient times.",
-                  "category": "castle",
-                  "coords": [
-                        22.675532,
-                        43.621837
-                  ]
-            },
-            {
-                  "name": "Goddess Mother",
-                  "text": "A viewpoint among the Belogradchik Rocks named after a rock formation resembling a deity.",
-                  "category": "natural",
-                  "coords": [
-                        22.68947,
-                        43.615575
                   ]
             }
       ]

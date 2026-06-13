@@ -364,50 +364,10 @@ export const saintvincentEconomicV2: POI[] = [
   },
   {
     id: "saintvincent-barrouallie-fisheries-v2", "sights": {
-      "de": [
-            {
-                  "name": "Pirates of the Caribbean Movie Set Location",
-                  "text": "Filmset der Fluch der Karibik-Filme in Barrouallie Fisheries.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.271276,
-                        13.246738
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Pirates of the Caribbean Movie Set Location",
-                  "text": "A Karib-tenger kalózai filmek forgatási helyszíne Barrouallie Fisheriesben.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.271276,
-                        13.246738
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Pirates of the Caribbean Movie Set Location",
-                  "text": "Locație de film pentru Pirații din Caraibe în Barrouallie Fisheries.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.271276,
-                        13.246738
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Pirates of the Caribbean Movie Set Location",
-                  "text": "Film set location in Barrouallie Fisheries used for Pirates of the Caribbean.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.271276,
-                        13.246738
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "VC",
     type: "village",

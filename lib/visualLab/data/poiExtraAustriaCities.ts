@@ -912,24 +912,6 @@ export const austriaCities: POI[] = [
                         16.097198,
                         47.704552
                   ]
-            },
-            {
-                  "name": "Reservoir",
-                  "text": "Dieses Gewässer in Neunkirchen ist ein ruhiger Ort zum Entspannen in der Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        15.977678,
-                        47.741796
-                  ]
-            },
-            {
-                  "name": "Erlebnisparkbad \"blub\"",
-                  "text": "Das Erlebnisparkbad blub in Neunkirchen bietet abwechslungsreichen Wasserspaß für aktive Badegäste.",
-                  "category": "family",
-                  "coords": [
-                        16.029929,
-                        47.71738
-                  ]
             }
       ],
       "hu": [
@@ -1030,24 +1012,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.097198,
                         47.704552
-                  ]
-            },
-            {
-                  "name": "Reservoir",
-                  "text": "Ez a neunkircheni vízfelület nyugodt hely a tájban való pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        15.977678,
-                        47.741796
-                  ]
-            },
-            {
-                  "name": "Erlebnisparkbad \"blub\"",
-                  "text": "A neunkircheni blub élményfürdő változatos vízi szórakozást kínál az aktív fürdőzőknek.",
-                  "category": "family",
-                  "coords": [
-                        16.029929,
-                        47.71738
                   ]
             }
       ],
@@ -1150,24 +1114,6 @@ export const austriaCities: POI[] = [
                         16.097198,
                         47.704552
                   ]
-            },
-            {
-                  "name": "Reservoir",
-                  "text": "Această acumulare de apă din Neunkirchen este un loc liniștit pentru relaxare în peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        15.977678,
-                        47.741796
-                  ]
-            },
-            {
-                  "name": "Erlebnisparkbad \"blub\"",
-                  "text": "Parcul acvatic blub din Neunkirchen oferă distracție variată în apă pentru vizitatorii activi.",
-                  "category": "family",
-                  "coords": [
-                        16.029929,
-                        47.71738
-                  ]
             }
       ],
       "en": [
@@ -1268,24 +1214,6 @@ export const austriaCities: POI[] = [
                   "coords": [
                         16.097198,
                         47.704552
-                  ]
-            },
-            {
-                  "name": "Reservoir",
-                  "text": "This body of water in Neunkirchen is a quiet spot for relaxing in the landscape.",
-                  "category": "natural",
-                  "coords": [
-                        15.977678,
-                        47.741796
-                  ]
-            },
-            {
-                  "name": "Erlebnisparkbad \"blub\"",
-                  "text": "The blub adventure pool in Neunkirchen offers varied water fun for active swimmers.",
-                  "category": "family",
-                  "coords": [
-                        16.029929,
-                        47.71738
                   ]
             }
       ]

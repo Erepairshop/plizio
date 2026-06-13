@@ -1318,15 +1318,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
                         12.61828,
                         13.31905
                   ]
-            },
-            {
-                  "name": "Chateau d'eau",
-                  "text": "Dieser monumentale Wasserturm dominiert die lokale Skyline und dient in Diffa sowohl als wichtige Versorgungseinrichtung als auch als Orientierungspunkt.",
-                  "category": "historical",
-                  "coords": [
-                        12.604885,
-                        13.324043
-                  ]
             }
       ],
       "hu": [
@@ -1346,15 +1337,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
                   "coords": [
                         12.61828,
                         13.31905
-                  ]
-            },
-            {
-                  "name": "Chateau d'eau",
-                  "text": "Ez a monumentális víztorony uralja a helyi látképet, és egyszerre szolgál fontos közműként és felismerhető tájékozódási pontként Diffában.",
-                  "category": "historical",
-                  "coords": [
-                        12.604885,
-                        13.324043
                   ]
             }
       ],
@@ -1376,15 +1358,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
                         12.61828,
                         13.31905
                   ]
-            },
-            {
-                  "name": "Chateau d'eau",
-                  "text": "Acest castel de apă monumental domină orizontul local, servind atât ca utilitate crucială, cât și ca un reper de navigație recunoscut în Diffa.",
-                  "category": "historical",
-                  "coords": [
-                        12.604885,
-                        13.324043
-                  ]
             }
       ],
       "en": [
@@ -1404,15 +1377,6 @@ export const poiExtraNigerEconomicV2: POI[] = [
                   "coords": [
                         12.61828,
                         13.31905
-                  ]
-            },
-            {
-                  "name": "Chateau d'eau",
-                  "text": "This monumental water tower dominates the local skyline, serving as both a crucial utility and a recognizable navigational landmark in Diffa.",
-                  "category": "historical",
-                  "coords": [
-                        12.604885,
-                        13.324043
                   ]
             }
       ]

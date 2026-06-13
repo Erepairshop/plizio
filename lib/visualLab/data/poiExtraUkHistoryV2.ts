@@ -52,24 +52,6 @@ imageHint: "Stonehenge monoliths at sunrise",
     id: "uk-hadrians-wall-history-v2", "sights": {
       "de": [
             {
-                  "name": "Milecastle 38",
-                  "text": "Die archäologische Stätte eines römischen Meilenkastells entlang des Hadrianswalls.",
-                  "category": "historical",
-                  "coords": [
-                        -2.356764,
-                        55.007223
-                  ]
-            },
-            {
-                  "name": "Castra Vindolanda",
-                  "text": "Ein bedeutendes römisches Hilfstruppenkastell und archäologische Stätte südlich des Hadrianswalls.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.360259,
-                        54.991379
-                  ]
-            },
-            {
                   "name": "Grindon School temporary camp",
                   "text": "Überreste eines temporären römischen Marschlagers in der Nähe des Hadrianswalls.",
                   "category": "historical",
@@ -85,15 +67,6 @@ imageHint: "Stonehenge monoliths at sunrise",
                   "coords": [
                         -2.284663,
                         55.026263
-                  ]
-            },
-            {
-                  "name": "Vindolanda Museum",
-                  "text": "Ein Museum an der Ausgrabungsstätte Vindolanda, das bemerkenswerte römische Artefakte ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        -2.357306,
-                        54.99146
                   ]
             },
             {
@@ -113,36 +86,9 @@ imageHint: "Stonehenge monoliths at sunrise",
                         -2.330268,
                         55.013312
                   ]
-            },
-            {
-                  "name": "Vindolanda Fort",
-                  "text": "Eine bedeutende römische Ausgrabungsstätte mit den Überresten aufeinanderfolgender Kastelle.",
-                  "category": "historical",
-                  "coords": [
-                        -2.361495,
-                        54.99092
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Milecastle 38",
-                  "text": "Egy római mérfölderőd régészeti lelőhelye a Hadrianus-fal mentén.",
-                  "category": "historical",
-                  "coords": [
-                        -2.356764,
-                        55.007223
-                  ]
-            },
-            {
-                  "name": "Castra Vindolanda",
-                  "text": "Jelentős római segédcsapat-erőd és régészeti lelőhely a Hadrianus-faltól délre.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.360259,
-                        54.991379
-                  ]
-            },
             {
                   "name": "Grindon School temporary camp",
                   "text": "Egy ideiglenes római menetelő tábor maradványai a Hadrianus-fal közelében.",
@@ -162,15 +108,6 @@ imageHint: "Stonehenge monoliths at sunrise",
                   ]
             },
             {
-                  "name": "Vindolanda Museum",
-                  "text": "A vindolandai lelőhely múzeuma, amely figyelemre méltó római leleteket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -2.357306,
-                        54.99146
-                  ]
-            },
-            {
                   "name": "Coesike West temporary camps",
                   "text": "Római menetelő táborok régészeti maradványai a Hadrianus-fal környékén.",
                   "category": "historical",
@@ -187,36 +124,9 @@ imageHint: "Stonehenge monoliths at sunrise",
                         -2.330268,
                         55.013312
                   ]
-            },
-            {
-                  "name": "Vindolanda Fort",
-                  "text": "Fontos római régészeti lelőhely, amely egymást követő erődök maradványait mutatja be.",
-                  "category": "historical",
-                  "coords": [
-                        -2.361495,
-                        54.99092
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Milecastle 38",
-                  "text": "Situl arheologic al unui milecastle roman situat de-a lungul Zidului lui Hadrian.",
-                  "category": "historical",
-                  "coords": [
-                        -2.356764,
-                        55.007223
-                  ]
-            },
-            {
-                  "name": "Castra Vindolanda",
-                  "text": "Un important fort auxiliar roman și sit arheologic situat la sud de Zidul lui Hadrian.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.360259,
-                        54.991379
-                  ]
-            },
             {
                   "name": "Grindon School temporary camp",
                   "text": "Rămășițele unei tabere de marș romane temporare lângă Zidul lui Hadrian.",
@@ -236,15 +146,6 @@ imageHint: "Stonehenge monoliths at sunrise",
                   ]
             },
             {
-                  "name": "Vindolanda Museum",
-                  "text": "Un muzeu de la situl Vindolanda care expune artefacte romane remarcabile.",
-                  "category": "museum",
-                  "coords": [
-                        -2.357306,
-                        54.99146
-                  ]
-            },
-            {
                   "name": "Coesike West temporary camps",
                   "text": "Rămășițe arheologice ale unor tabere romane temporare în peisajul Zidului lui Hadrian.",
                   "category": "historical",
@@ -261,36 +162,9 @@ imageHint: "Stonehenge monoliths at sunrise",
                         -2.330268,
                         55.013312
                   ]
-            },
-            {
-                  "name": "Vindolanda Fort",
-                  "text": "Un sit arheologic roman important care prezintă rămășițele unor forturi succesive.",
-                  "category": "historical",
-                  "coords": [
-                        -2.361495,
-                        54.99092
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Milecastle 38",
-                  "text": "The archaeological site of a Roman milecastle located along Hadrian's Wall.",
-                  "category": "historical",
-                  "coords": [
-                        -2.356764,
-                        55.007223
-                  ]
-            },
-            {
-                  "name": "Castra Vindolanda",
-                  "text": "A significant Roman auxiliary fort and archaeological site south of Hadrian's Wall.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.360259,
-                        54.991379
-                  ]
-            },
             {
                   "name": "Grindon School temporary camp",
                   "text": "Remains of a temporary Roman marching camp near Hadrian's Wall.",
@@ -310,15 +184,6 @@ imageHint: "Stonehenge monoliths at sunrise",
                   ]
             },
             {
-                  "name": "Vindolanda Museum",
-                  "text": "A museum at the Vindolanda site showcasing remarkable Roman artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        -2.357306,
-                        54.99146
-                  ]
-            },
-            {
                   "name": "Coesike West temporary camps",
                   "text": "Archaeological remains of Roman temporary camps in the Hadrian's Wall landscape.",
                   "category": "historical",
@@ -334,15 +199,6 @@ imageHint: "Stonehenge monoliths at sunrise",
                   "coords": [
                         -2.330268,
                         55.013312
-                  ]
-            },
-            {
-                  "name": "Vindolanda Fort",
-                  "text": "An important Roman archaeological site featuring the remains of successive forts.",
-                  "category": "historical",
-                  "coords": [
-                        -2.361495,
-                        54.99092
                   ]
             }
       ]
@@ -1854,15 +1710,6 @@ imageHint: "Caernarfon Castle fortress in Wales",
     id: "uk-vindolanda-history-v2", "sights": {
       "de": [
             {
-                  "name": "Milecastle 38",
-                  "text": "Ein gut erhaltenes Kleinkastell am Hadrianswall, das Einblicke in die römischen Grenzbefestigungen bietet.",
-                  "category": "historical",
-                  "coords": [
-                        -2.356764,
-                        55.007223
-                  ]
-            },
-            {
                   "name": "Castra Vindolanda",
                   "text": "Ein wichtiges römisches Hilfstruppenkastell südlich des Hadrianwalls, bekannt für seine Schrifttafeln.",
                   "category": "fortress",
@@ -1887,15 +1734,6 @@ imageHint: "Caernarfon Castle fortress in Wales",
                   "coords": [
                         -2.381405,
                         54.988187
-                  ]
-            },
-            {
-                  "name": "Vercovicium",
-                  "text": "Auch als Housesteads bekannt, ist es eines der am vollständigsten erhaltenen römischen Kastelle am Hadrianswall.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.330268,
-                        55.013312
                   ]
             },
             {
@@ -1928,15 +1766,6 @@ imageHint: "Caernarfon Castle fortress in Wales",
       ],
       "hu": [
             {
-                  "name": "Milecastle 38",
-                  "text": "Jól megőrzött erődítmény Hadrianus fala mentén, amely betekintést nyújt a római határvédelembe.",
-                  "category": "historical",
-                  "coords": [
-                        -2.356764,
-                        55.007223
-                  ]
-            },
-            {
                   "name": "Castra Vindolanda",
                   "text": "Fontos római segédcsapat-erőd Hadrianus falától délre, amely az itt talált írótábláiról híres.",
                   "category": "fortress",
@@ -1961,15 +1790,6 @@ imageHint: "Caernarfon Castle fortress in Wales",
                   "coords": [
                         -2.381405,
                         54.988187
-                  ]
-            },
-            {
-                  "name": "Vercovicium",
-                  "text": "Más néven Housesteads, ez az egyik legépebben maradt római erőd Hadrianus fala mentén.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.330268,
-                        55.013312
                   ]
             },
             {
@@ -2002,15 +1822,6 @@ imageHint: "Caernarfon Castle fortress in Wales",
       ],
       "ro": [
             {
-                  "name": "Milecastle 38",
-                  "text": "O fortificație de tip milecastle bine conservată pe Zidul lui Hadrian, oferind informații despre fortificațiile de frontieră romane.",
-                  "category": "historical",
-                  "coords": [
-                        -2.356764,
-                        55.007223
-                  ]
-            },
-            {
                   "name": "Castra Vindolanda",
                   "text": "Un important castru auxiliar roman situat la sud de Zidul lui Hadrian, faimos pentru tăblițele sale de scris.",
                   "category": "fortress",
@@ -2035,15 +1846,6 @@ imageHint: "Caernarfon Castle fortress in Wales",
                   "coords": [
                         -2.381405,
                         54.988187
-                  ]
-            },
-            {
-                  "name": "Vercovicium",
-                  "text": "Cunoscut și sub numele de Housesteads, este unul dintre cele mai complete forturi romane de-a lungul Zidului lui Hadrian.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.330268,
-                        55.013312
                   ]
             },
             {
@@ -2076,15 +1878,6 @@ imageHint: "Caernarfon Castle fortress in Wales",
       ],
       "en": [
             {
-                  "name": "Milecastle 38",
-                  "text": "A well-preserved milecastle on Hadrian's Wall, providing insight into Roman frontier fortifications.",
-                  "category": "historical",
-                  "coords": [
-                        -2.356764,
-                        55.007223
-                  ]
-            },
-            {
                   "name": "Castra Vindolanda",
                   "text": "An important Roman auxiliary fort located just south of Hadrian's Wall, famous for its writing tablets.",
                   "category": "fortress",
@@ -2109,15 +1902,6 @@ imageHint: "Caernarfon Castle fortress in Wales",
                   "coords": [
                         -2.381405,
                         54.988187
-                  ]
-            },
-            {
-                  "name": "Vercovicium",
-                  "text": "Also known as Housesteads, it is one of the most complete Roman forts along Hadrian's Wall.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.330268,
-                        55.013312
                   ]
             },
             {
@@ -4124,69 +3908,6 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
                         -2.356764,
                         55.007223
                   ]
-            },
-            {
-                  "name": "Castra Vindolanda",
-                  "text": "Ein bedeutendes römisches Kastell, berühmt für die dort gefundenen hölzernen Schrifttafeln.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.360259,
-                        54.991379
-                  ]
-            },
-            {
-                  "name": "Grindon School temporary camp",
-                  "text": "Ein römisches temporäres Lager in der Nähe des Hadrianswalls bei Housesteads.",
-                  "category": "historical",
-                  "coords": [
-                        -2.292291,
-                        55.022198
-                  ]
-            },
-            {
-                  "name": "Coeksike East temporary camp",
-                  "text": "Eine archäologische Ausgrabungsstätte eines einstigen römischen Lagers.",
-                  "category": "historical",
-                  "coords": [
-                        -2.284663,
-                        55.026263
-                  ]
-            },
-            {
-                  "name": "Vindolanda Museum",
-                  "text": "Ein Museum, das die archäologischen Schätze der Ausgrabungsstätte Vindolanda zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -2.357306,
-                        54.99146
-                  ]
-            },
-            {
-                  "name": "Coesike West temporary camps",
-                  "text": "Ein Gebiet mit Überresten mehrerer temporärer römischer Feldlager.",
-                  "category": "historical",
-                  "coords": [
-                        -2.286359,
-                        55.025187
-                  ]
-            },
-            {
-                  "name": "Vercovicium",
-                  "text": "Ein römisches Hilfstruppenkastell am Hadrianswall, bekannt für seine gute Erhaltung.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.330268,
-                        55.013312
-                  ]
-            },
-            {
-                  "name": "Vindolanda Fort",
-                  "text": "Die weitläufige Ausgrabungsstätte des römischen Kastells und Zivilortes Vindolanda.",
-                  "category": "historical",
-                  "coords": [
-                        -2.361495,
-                        54.99092
-                  ]
             }
       ],
       "hu": [
@@ -4197,69 +3918,6 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
                   "coords": [
                         -2.356764,
                         55.007223
-                  ]
-            },
-            {
-                  "name": "Castra Vindolanda",
-                  "text": "Jelentős római erőd, amely az ott talált fatáblás kéziratokról híres.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.360259,
-                        54.991379
-                  ]
-            },
-            {
-                  "name": "Grindon School temporary camp",
-                  "text": "Római ideiglenes tábor a Hadrianus-fal közelében, Housesteadsnél.",
-                  "category": "historical",
-                  "coords": [
-                        -2.292291,
-                        55.022198
-                  ]
-            },
-            {
-                  "name": "Coeksike East temporary camp",
-                  "text": "Egy egykori római tábor régészeti feltárási helyszíne.",
-                  "category": "historical",
-                  "coords": [
-                        -2.284663,
-                        55.026263
-                  ]
-            },
-            {
-                  "name": "Vindolanda Museum",
-                  "text": "Múzeum, amely a Vindolanda régészeti helyszín kincseit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -2.357306,
-                        54.99146
-                  ]
-            },
-            {
-                  "name": "Coesike West temporary camps",
-                  "text": "Terület több ideiglenes római katonai tábor maradványaival.",
-                  "category": "historical",
-                  "coords": [
-                        -2.286359,
-                        55.025187
-                  ]
-            },
-            {
-                  "name": "Vercovicium",
-                  "text": "Római kisegítő erőd Hadrianus falánál, amely kiváló állapotáról ismert.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.330268,
-                        55.013312
-                  ]
-            },
-            {
-                  "name": "Vindolanda Fort",
-                  "text": "A Vindolanda nevű római erőd és polgári település kiterjedt régészeti helyszíne.",
-                  "category": "historical",
-                  "coords": [
-                        -2.361495,
-                        54.99092
                   ]
             }
       ],
@@ -4272,69 +3930,6 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
                         -2.356764,
                         55.007223
                   ]
-            },
-            {
-                  "name": "Castra Vindolanda",
-                  "text": "Un castru roman important, faimos pentru tăblițele de scris din lemn găsite acolo.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.360259,
-                        54.991379
-                  ]
-            },
-            {
-                  "name": "Grindon School temporary camp",
-                  "text": "O tabără temporară romană lângă Zidul lui Hadrian de la Housesteads.",
-                  "category": "historical",
-                  "coords": [
-                        -2.292291,
-                        55.022198
-                  ]
-            },
-            {
-                  "name": "Coeksike East temporary camp",
-                  "text": "Un sit arheologic de excavare a unei foste tabere romane.",
-                  "category": "historical",
-                  "coords": [
-                        -2.284663,
-                        55.026263
-                  ]
-            },
-            {
-                  "name": "Vindolanda Museum",
-                  "text": "Un muzeu care prezintă comorile arheologice ale sitului Vindolanda.",
-                  "category": "museum",
-                  "coords": [
-                        -2.357306,
-                        54.99146
-                  ]
-            },
-            {
-                  "name": "Coesike West temporary camps",
-                  "text": "O zonă cu vestigiile mai multor tabere romane temporare de campanie.",
-                  "category": "historical",
-                  "coords": [
-                        -2.286359,
-                        55.025187
-                  ]
-            },
-            {
-                  "name": "Vercovicium",
-                  "text": "Un castru roman auxiliar de pe Zidul lui Hadrian, cunoscut pentru buna sa conservare.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.330268,
-                        55.013312
-                  ]
-            },
-            {
-                  "name": "Vindolanda Fort",
-                  "text": "Situl arheologic extins al castrului roman și al așezării civile Vindolanda.",
-                  "category": "historical",
-                  "coords": [
-                        -2.361495,
-                        54.99092
-                  ]
             }
       ],
       "en": [
@@ -4345,69 +3940,6 @@ imageHint: "Bannockburn monument Robert the Bruce statue",
                   "coords": [
                         -2.356764,
                         55.007223
-                  ]
-            },
-            {
-                  "name": "Castra Vindolanda",
-                  "text": "A significant Roman fort famous for the wooden writing tablets found there.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.360259,
-                        54.991379
-                  ]
-            },
-            {
-                  "name": "Grindon School temporary camp",
-                  "text": "A Roman temporary camp near Hadrian's Wall at Housesteads.",
-                  "category": "historical",
-                  "coords": [
-                        -2.292291,
-                        55.022198
-                  ]
-            },
-            {
-                  "name": "Coeksike East temporary camp",
-                  "text": "An archaeological excavation site of a former Roman camp.",
-                  "category": "historical",
-                  "coords": [
-                        -2.284663,
-                        55.026263
-                  ]
-            },
-            {
-                  "name": "Vindolanda Museum",
-                  "text": "A museum displaying the archaeological treasures of the Vindolanda site.",
-                  "category": "museum",
-                  "coords": [
-                        -2.357306,
-                        54.99146
-                  ]
-            },
-            {
-                  "name": "Coesike West temporary camps",
-                  "text": "An area containing the remains of several temporary Roman marching camps.",
-                  "category": "historical",
-                  "coords": [
-                        -2.286359,
-                        55.025187
-                  ]
-            },
-            {
-                  "name": "Vercovicium",
-                  "text": "A Roman auxiliary fort on Hadrian's Wall known for its excellent preservation.",
-                  "category": "fortress",
-                  "coords": [
-                        -2.330268,
-                        55.013312
-                  ]
-            },
-            {
-                  "name": "Vindolanda Fort",
-                  "text": "The extensive archaeological site of the Roman fort and civilian settlement of Vindolanda.",
-                  "category": "historical",
-                  "coords": [
-                        -2.361495,
-                        54.99092
                   ]
             }
       ]

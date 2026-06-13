@@ -4293,15 +4293,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Burj ar Raqqah",
-                  "text": "Die antiken Überreste eines Backsteinturms im historischen Zentrum der Stadt.",
-                  "category": "historical",
-                  "coords": [
-                        39.02087,
-                        35.951912
-                  ]
-            },
-            {
                   "name": "Raqqa wall gate",
                   "text": "Ein historischer Durchgang in der massiven, aus Backsteinen errichteten abbasidischen Stadtmauer.",
                   "category": "castle",
@@ -4326,15 +4317,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
                   "coords": [
                         38.933108,
                         35.956688
-                  ]
-            },
-            {
-                  "name": "Amfiteatr",
-                  "text": "Ein modernes Amphitheater, das als Veranstaltungsort für kulturelle Aufführungen in der Stadt dient.",
-                  "category": "cultural",
-                  "coords": [
-                        38.989904,
-                        35.938571
                   ]
             },
             {
@@ -4403,15 +4385,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Burj ar Raqqah",
-                  "text": "Egy téglaépítésű torony ókori maradványai a város történelmi központjában.",
-                  "category": "historical",
-                  "coords": [
-                        39.02087,
-                        35.951912
-                  ]
-            },
-            {
                   "name": "Raqqa wall gate",
                   "text": "Történelmi átjáró a masszív, téglából épült abbászida városfalban.",
                   "category": "castle",
@@ -4436,15 +4409,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
                   "coords": [
                         38.933108,
                         35.956688
-                  ]
-            },
-            {
-                  "name": "Amfiteatr",
-                  "text": "Modern amfiteátrum, amely a város kulturális előadásainak helyszínéül szolgál.",
-                  "category": "cultural",
-                  "coords": [
-                        38.989904,
-                        35.938571
                   ]
             },
             {
@@ -4513,15 +4477,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Burj ar Raqqah",
-                  "text": "Rămășițele antice ale unui turn de cărămidă situat în centrul istoric al orașului.",
-                  "category": "historical",
-                  "coords": [
-                        39.02087,
-                        35.951912
-                  ]
-            },
-            {
                   "name": "Raqqa wall gate",
                   "text": "O poartă istorică în zidul masiv de cărămidă al orașului din epoca abasidă.",
                   "category": "castle",
@@ -4546,15 +4501,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
                   "coords": [
                         38.933108,
                         35.956688
-                  ]
-            },
-            {
-                  "name": "Amfiteatr",
-                  "text": "Un amfiteatru modern folosit pentru spectacole culturale în oraș.",
-                  "category": "cultural",
-                  "coords": [
-                        38.989904,
-                        35.938571
                   ]
             },
             {
@@ -4623,15 +4569,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Burj ar Raqqah",
-                  "text": "The ancient remains of a brick tower located in the historical center of the city.",
-                  "category": "historical",
-                  "coords": [
-                        39.02087,
-                        35.951912
-                  ]
-            },
-            {
                   "name": "Raqqa wall gate",
                   "text": "A historic entrance point within the massive Abbasid-era brick city walls.",
                   "category": "castle",
@@ -4656,15 +4593,6 @@ export const poiExtraSyriaHistoryV2: POI[] = [
                   "coords": [
                         38.933108,
                         35.956688
-                  ]
-            },
-            {
-                  "name": "Amfiteatr",
-                  "text": "A modern amphitheatre used for cultural performances in the city.",
-                  "category": "cultural",
-                  "coords": [
-                        38.989904,
-                        35.938571
                   ]
             },
             {

@@ -12191,15 +12191,6 @@ image: "/poi-images/ph-ninoy-aquino-parks-and-wildlife-center-life-v2.webp",
                   ]
             },
             {
-                  "name": "Colors of Stobosa",
-                  "text": "Diese farbenfrohe Hangsiedlung ist berühmt für ihre lebendigen, ineinandergreifenden Wandmalereien, die sich über Dutzende von Häusern erstrecken.",
-                  "category": "natural",
-                  "coords": [
-                        120.59744,
-                        16.433846
-                  ]
-            },
-            {
                   "name": "Usec. Cabral Jump Spot",
                   "text": "Dieser im Dezember 2025 eröffnete Aussichtspunkt bietet dramatische Panoramablicke auf die umliegende Berglandschaft.",
                   "category": "natural",
@@ -12308,15 +12299,6 @@ image: "/poi-images/ph-ninoy-aquino-parks-and-wildlife-center-life-v2.webp",
                   ]
             },
             {
-                  "name": "Arko Ni Apo Art Gallery",
-                  "text": "Diese ansprechende Galerie dient lokalen Künstlern als lebendiger Ort, um ihre zeitgenössischen Gemälde und von Ureinwohnern inspirierten Skulpturen auszustellen.",
-                  "category": "museum",
-                  "coords": [
-                        120.576219,
-                        16.429809
-                  ]
-            },
-            {
                   "name": "BenCab Museum",
                   "text": "Dieses von einem Nationalkünstler gegründete, mehrstöckige Museum bietet eine spektakuläre Sammlung zeitgenössischer philippinischer Kunst und indigener Artefakte der Kordilleren.",
                   "category": "museum",
@@ -12350,15 +12332,6 @@ image: "/poi-images/ph-ninoy-aquino-parks-and-wildlife-center-life-v2.webp",
                   "coords": [
                         120.598047,
                         16.411644
-                  ]
-            },
-            {
-                  "name": "Little theatre",
-                  "text": "Dieser intime Veranstaltungsort bietet eine gemütliche Bühne für lokale Theaterproduktionen und Talentshows der Gemeinde.",
-                  "category": "cultural",
-                  "coords": [
-                        120.603762,
-                        16.414462
                   ]
             },
             {
@@ -12499,15 +12472,6 @@ image: "/poi-images/ph-ninoy-aquino-parks-and-wildlife-center-life-v2.webp",
                   ]
             },
             {
-                  "name": "Colors of Stobosa",
-                  "text": "Ez a domboldali közösség a tucatnyi házat beborító, élénk és egymásba fonódó falfestményeiről híres.",
-                  "category": "natural",
-                  "coords": [
-                        120.59744,
-                        16.433846
-                  ]
-            },
-            {
                   "name": "Usec. Cabral Jump Spot",
                   "text": "A 2025 decemberében megnyitott panorámás kilátó drámai kilátást nyújt a környező hegyi tájra.",
                   "category": "natural",
@@ -12616,15 +12580,6 @@ image: "/poi-images/ph-ninoy-aquino-parks-and-wildlife-center-life-v2.webp",
                   ]
             },
             {
-                  "name": "Arko Ni Apo Art Gallery",
-                  "text": "Ez a vonzó galéria élettel teli térként szolgál a helyi művészek számára kortárs festményeik és bennszülött ihletésű szobraik kiállítására.",
-                  "category": "museum",
-                  "coords": [
-                        120.576219,
-                        16.429809
-                  ]
-            },
-            {
                   "name": "BenCab Museum",
                   "text": "A Nemzeti Művész által alapított többszintes múzeum a kortárs fülöp-szigeteki művészet és az őslakos kordillerai műtárgyak látványos gyűjteményét mutatja be.",
                   "category": "museum",
@@ -12658,15 +12613,6 @@ image: "/poi-images/ph-ninoy-aquino-parks-and-wildlife-center-life-v2.webp",
                   "coords": [
                         120.598047,
                         16.411644
-                  ]
-            },
-            {
-                  "name": "Little theatre",
-                  "text": "Ez a meghitt előadóhelyszín hangulatos színpadot biztosít a helyi drámai produkciók és a közösségi tehetségkutatók számára.",
-                  "category": "cultural",
-                  "coords": [
-                        120.603762,
-                        16.414462
                   ]
             },
             {
@@ -12807,15 +12753,6 @@ image: "/poi-images/ph-ninoy-aquino-parks-and-wildlife-center-life-v2.webp",
                   ]
             },
             {
-                  "name": "Colors of Stobosa",
-                  "text": "Această comunitate pe deal este renumită pentru picturile sale murale vibrante care acoperă zeci de case.",
-                  "category": "natural",
-                  "coords": [
-                        120.59744,
-                        16.433846
-                  ]
-            },
-            {
                   "name": "Usec. Cabral Jump Spot",
                   "text": "Deschis în decembrie 2025, acest punct de belvedere panoramic oferă priveliști dramatice asupra peisajului montan înconjurător.",
                   "category": "natural",
@@ -12924,15 +12861,6 @@ image: "/poi-images/ph-ninoy-aquino-parks-and-wildlife-center-life-v2.webp",
                   ]
             },
             {
-                  "name": "Arko Ni Apo Art Gallery",
-                  "text": "Această galerie captivantă servește ca un spațiu plin de viață pentru artiștii locali care își expun picturile contemporane și sculpturile de inspirație indigenă.",
-                  "category": "museum",
-                  "coords": [
-                        120.576219,
-                        16.429809
-                  ]
-            },
-            {
                   "name": "BenCab Museum",
                   "text": "Fondat de un Artist Național, acest muzeu pe mai multe niveluri prezintă o colecție spectaculoasă de artă filipineză contemporană și artefacte indigene din Cordiliera.",
                   "category": "museum",
@@ -12966,15 +12894,6 @@ image: "/poi-images/ph-ninoy-aquino-parks-and-wildlife-center-life-v2.webp",
                   "coords": [
                         120.598047,
                         16.411644
-                  ]
-            },
-            {
-                  "name": "Little theatre",
-                  "text": "Această locație de spectacol intimă oferă o scenă primitoare pentru producțiile dramatice locale și prezentările de talente ale comunității.",
-                  "category": "cultural",
-                  "coords": [
-                        120.603762,
-                        16.414462
                   ]
             },
             {
@@ -13115,15 +13034,6 @@ image: "/poi-images/ph-ninoy-aquino-parks-and-wildlife-center-life-v2.webp",
                   ]
             },
             {
-                  "name": "Colors of Stobosa",
-                  "text": "This colorful hillside community is renowned for its vibrant, interlocking murals painted across dozens of houses.",
-                  "category": "natural",
-                  "coords": [
-                        120.59744,
-                        16.433846
-                  ]
-            },
-            {
                   "name": "Usec. Cabral Jump Spot",
                   "text": "Opened in December 2025, this panoramic viewpoint offers dramatic vistas of the surrounding mountain landscape.",
                   "category": "natural",
@@ -13232,15 +13142,6 @@ image: "/poi-images/ph-ninoy-aquino-parks-and-wildlife-center-life-v2.webp",
                   ]
             },
             {
-                  "name": "Arko Ni Apo Art Gallery",
-                  "text": "This engaging gallery serves as a lively space for local artists to exhibit their contemporary paintings and indigenous-inspired sculptures.",
-                  "category": "museum",
-                  "coords": [
-                        120.576219,
-                        16.429809
-                  ]
-            },
-            {
                   "name": "BenCab Museum",
                   "text": "Founded by a National Artist, this multi-level museum features a spectacular collection of contemporary Philippine art and indigenous Cordilleran artifacts.",
                   "category": "museum",
@@ -13274,15 +13175,6 @@ image: "/poi-images/ph-ninoy-aquino-parks-and-wildlife-center-life-v2.webp",
                   "coords": [
                         120.598047,
                         16.411644
-                  ]
-            },
-            {
-                  "name": "Little theatre",
-                  "text": "This intimate performance venue provides a cozy stage for local dramatic productions and community talent showcases.",
-                  "category": "cultural",
-                  "coords": [
-                        120.603762,
-                        16.414462
                   ]
             },
             {
@@ -14791,15 +14683,6 @@ image: "/poi-images/ph-cebu-safari-and-adventure-park-life-v2.webp",
                   ]
             },
             {
-                  "name": "San Nicolas de Tolentino Parish Church",
-                  "text": "Diese katholische Pfarrkirche in Quezon City wird von den Augustiner-Rekollekten verwaltet und dient als spiritueller Anker für die lokale Gemeinde.",
-                  "category": "religious",
-                  "coords": [
-                        121.037551,
-                        14.672245
-                  ]
-            },
-            {
                   "name": "Iglesia Ni Cristo @ Templo Central",
                   "text": "Dieser massive, aufwendig gestaltete Tempel dient als Hauptsitz der Konfession und bietet Platz für Tausende von Gläubigen.",
                   "category": "religious",
@@ -14818,30 +14701,12 @@ image: "/poi-images/ph-cebu-safari-and-adventure-park-life-v2.webp",
                   ]
             },
             {
-                  "name": "Tower of Power",
-                  "text": "Dieser am 7. November 1988 eingeweihte, hoch aufragende Rundfunksender dient als wichtige Kommunikationsstruktur für die Region.",
-                  "category": "tower",
-                  "coords": [
-                        121.050018,
-                        14.669963
-                  ]
-            },
-            {
                   "name": "Quezon Memorial Circle",
                   "text": "Dieser große Nationalpark zeichnet sich durch sein hoch aufragendes Art-déco-Mausoleum aus, das die Überreste des ehemaligen philippinischen Präsidenten Manuel L. Quezon birgt.",
                   "category": "park",
                   "coords": [
                         121.049285,
                         14.651463
-                  ]
-            },
-            {
-                  "name": "Our Lady of the Annunciation Parish",
-                  "text": "Diese katholische Pfarrkirche verfügt über einen geräumigen Innenraum, der der Marienverehrung der Verkündigung gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        121.031666,
-                        14.678764
                   ]
             },
             {
@@ -14854,30 +14719,12 @@ image: "/poi-images/ph-cebu-safari-and-adventure-park-life-v2.webp",
                   ]
             },
             {
-                  "name": "Tandang Sora Women's Museum",
-                  "text": "Dieses Spezialmuseum feiert das Leben und die heldenhaften Beiträge von Melchora Aquino, die oft als Mutter der philippinischen Revolution bezeichnet wird.",
-                  "category": "museum",
-                  "coords": [
-                        121.045609,
-                        14.683179
-                  ]
-            },
-            {
                   "name": "INC Museum and Gallery",
                   "text": "In einem großen, klassisch inspirierten Gebäude untergebracht, bewahrt diese Institution das detaillierte institutionelle Erbe und die Meilensteine der INC-Konfession.",
                   "category": "museum",
                   "coords": [
                         121.048832,
                         14.662903
-                  ]
-            },
-            {
-                  "name": "Bulwagang Recoletos",
-                  "text": "Dieses Museum für religiöses Erbe stellt religiöse Artefakte aus und dokumentiert die Missionsgeschichte des Augustiner-Rekollekten-Ordens im Land.",
-                  "category": "museum",
-                  "coords": [
-                        121.060893,
-                        14.678916
                   ]
             },
             {
@@ -15090,15 +14937,6 @@ image: "/poi-images/ph-cebu-safari-and-adventure-park-life-v2.webp",
                   ]
             },
             {
-                  "name": "San Nicolas de Tolentino Parish Church",
-                  "text": "Ezt a Quezon City-i katolikus plébániatemplomot az ágoston-rendi rekollektek igazgatják, és a helyi közösség spirituális horgonyaként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        121.037551,
-                        14.672245
-                  ]
-            },
-            {
                   "name": "Iglesia Ni Cristo @ Templo Central",
                   "text": "A felekezet főhadiszállásaként szolgáló hatalmas, bonyolult tervezésű templom hívők ezreinek befogadására alkalmas.",
                   "category": "religious",
@@ -15117,30 +14955,12 @@ image: "/poi-images/ph-cebu-safari-and-adventure-park-life-v2.webp",
                   ]
             },
             {
-                  "name": "Tower of Power",
-                  "text": "Az 1988. november 7-én felavatott magasodó műsorszóró adó a régió egyik legfontosabb kommunikációs létesítményeként szolgál.",
-                  "category": "tower",
-                  "coords": [
-                        121.050018,
-                        14.669963
-                  ]
-            },
-            {
                   "name": "Quezon Memorial Circle",
                   "text": "Ezt a nagy nemzeti parkot magasodó art deco mauzóleuma határozza meg, amely a korábbi fülöp-szigeteki elnök, Manuel L. Quezon földi maradványait őrzi.",
                   "category": "park",
                   "coords": [
                         121.049285,
                         14.651463
-                  ]
-            },
-            {
-                  "name": "Our Lady of the Annunciation Parish",
-                  "text": "Ez a katolikus plébániatemplom tágas belső térrel rendelkezik, amelyet az Angyali üdvözlet Mária-tiszteletének szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        121.031666,
-                        14.678764
                   ]
             },
             {
@@ -15153,30 +14973,12 @@ image: "/poi-images/ph-cebu-safari-and-adventure-park-life-v2.webp",
                   ]
             },
             {
-                  "name": "Tandang Sora Women's Museum",
-                  "text": "Ez a speciális múzeum Melchora Aquino életét és hősies tetteit ünnepli, akit gyakran a fülöp-szigeteki forradalom anyjaként is emlegetnek.",
-                  "category": "museum",
-                  "coords": [
-                        121.045609,
-                        14.683179
-                  ]
-            },
-            {
                   "name": "INC Museum and Gallery",
                   "text": "Egy nagy, klasszikus ihletésű épületben helyet kapó intézmény az INC felekezet részletes intézményi örökségét és mérföldköveit őrzi.",
                   "category": "museum",
                   "coords": [
                         121.048832,
                         14.662903
-                  ]
-            },
-            {
-                  "name": "Bulwagang Recoletos",
-                  "text": "Ez a vallási örökségi múzeum vallási műtárgyakat állít ki, és az ágoston-rendi rekollektek országos missziós történetét krónikázza.",
-                  "category": "museum",
-                  "coords": [
-                        121.060893,
-                        14.678916
                   ]
             },
             {
@@ -15389,15 +15191,6 @@ image: "/poi-images/ph-cebu-safari-and-adventure-park-life-v2.webp",
                   ]
             },
             {
-                  "name": "San Nicolas de Tolentino Parish Church",
-                  "text": "Această biserică parohială catolică din Quezon City este administrată de Recolecții Augustinieni și servește ca o ancoră spirituală pentru comunitatea locală.",
-                  "category": "religious",
-                  "coords": [
-                        121.037551,
-                        14.672245
-                  ]
-            },
-            {
                   "name": "Iglesia Ni Cristo @ Templo Central",
                   "text": "Servind drept sediu principal pentru confesiune, acest templu masiv, cu un design complex, poate găzdui mii de credincioși.",
                   "category": "religious",
@@ -15416,30 +15209,12 @@ image: "/poi-images/ph-cebu-safari-and-adventure-park-life-v2.webp",
                   ]
             },
             {
-                  "name": "Tower of Power",
-                  "text": "Inaugurat pe 7 noiembrie 1988, acest transmițător de radiodifuziune înalt servește ca o structură majoră de comunicații pentru regiune.",
-                  "category": "tower",
-                  "coords": [
-                        121.050018,
-                        14.669963
-                  ]
-            },
-            {
                   "name": "Quezon Memorial Circle",
                   "text": "Acest mare parc național este definit de mausoleul său impunător în stil art deco, care conține rămășițele fostului președinte filipinez Manuel L. Quezon.",
                   "category": "park",
                   "coords": [
                         121.049285,
                         14.651463
-                  ]
-            },
-            {
-                  "name": "Our Lady of the Annunciation Parish",
-                  "text": "Această biserică parohială catolică are un interior spațios dedicat devotamentului marian al Bunei Vestiri.",
-                  "category": "religious",
-                  "coords": [
-                        121.031666,
-                        14.678764
                   ]
             },
             {
@@ -15452,30 +15227,12 @@ image: "/poi-images/ph-cebu-safari-and-adventure-park-life-v2.webp",
                   ]
             },
             {
-                  "name": "Tandang Sora Women's Museum",
-                  "text": "Acest muzeu specializat celebrează viața și contribuțiile eroice ale Melchorei Aquino, denumită adesea Mama Revoluției Filipineze.",
-                  "category": "museum",
-                  "coords": [
-                        121.045609,
-                        14.683179
-                  ]
-            },
-            {
                   "name": "INC Museum and Gallery",
                   "text": "Găzduită într-o clădire grandioasă, de inspirație clasică, această instituție păstrează patrimoniul instituțional detaliat și etapele confesionale ale INC.",
                   "category": "museum",
                   "coords": [
                         121.048832,
                         14.662903
-                  ]
-            },
-            {
-                  "name": "Bulwagang Recoletos",
-                  "text": "Acest muzeu de patrimoniu religios expune artefacte religioase și relatează istoria misionară a ordinului Recolecților Augustinieni din țară.",
-                  "category": "museum",
-                  "coords": [
-                        121.060893,
-                        14.678916
                   ]
             },
             {
@@ -15688,15 +15445,6 @@ image: "/poi-images/ph-cebu-safari-and-adventure-park-life-v2.webp",
                   ]
             },
             {
-                  "name": "San Nicolas de Tolentino Parish Church",
-                  "text": "This Catholic parish church in Quezon City is administered by the Augustinian Recollects and serves as a spiritual anchor for the local community.",
-                  "category": "religious",
-                  "coords": [
-                        121.037551,
-                        14.672245
-                  ]
-            },
-            {
                   "name": "Iglesia ni Cristo Central Temple",
                   "text": "Serving as the main headquarters for the denomination, this massive, intricately designed temple can accommodate thousands of worshippers.",
                   "category": "religious",
@@ -15715,30 +15463,12 @@ image: "/poi-images/ph-cebu-safari-and-adventure-park-life-v2.webp",
                   ]
             },
             {
-                  "name": "Tower of Power",
-                  "text": "Inaugurated on November 7, 1988, this towering broadcasting transmitter serves as a major communications structure for the region.",
-                  "category": "tower",
-                  "coords": [
-                        121.050018,
-                        14.669963
-                  ]
-            },
-            {
                   "name": "Quezon Memorial Circle",
                   "text": "This large national park is defined by its towering art deco mausoleum, which contains the remains of former Philippine President Manuel L. Quezon.",
                   "category": "park",
                   "coords": [
                         121.049285,
                         14.651463
-                  ]
-            },
-            {
-                  "name": "Our Lady of the Annunciation Parish",
-                  "text": "This Catholic parish church features a spacious interior dedicated to the Marian devotion of the Annunciation.",
-                  "category": "religious",
-                  "coords": [
-                        121.031666,
-                        14.678764
                   ]
             },
             {
@@ -15751,30 +15481,12 @@ image: "/poi-images/ph-cebu-safari-and-adventure-park-life-v2.webp",
                   ]
             },
             {
-                  "name": "Tandang Sora Women's Museum",
-                  "text": "This specialized museum celebrates the life and heroic contributions of Melchora Aquino, often referred to as the Mother of the Philippine Revolution.",
-                  "category": "museum",
-                  "coords": [
-                        121.045609,
-                        14.683179
-                  ]
-            },
-            {
                   "name": "INC Museum and Gallery",
                   "text": "Housed in a grand, classically inspired building, this institution preserves the detailed institutional heritage and milestones of the INC denomination.",
                   "category": "museum",
                   "coords": [
                         121.048832,
                         14.662903
-                  ]
-            },
-            {
-                  "name": "Bulwagang Recoletos",
-                  "text": "This religious heritage museum exhibits religious artifacts and chronicles the missionary history of the Augustinian Recollect order in the country.",
-                  "category": "museum",
-                  "coords": [
-                        121.060893,
-                        14.678916
                   ]
             },
             {
@@ -18877,15 +18589,6 @@ image: "/poi-images/ph-avilon-zoo-life-v2.webp",
                   ]
             },
             {
-                  "name": "Altro Mondo Creative Space",
-                  "text": "Ein zeitgenössischer Galerieraum, der den Werken aufstrebender und etablierter lokaler bildender Künstler gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        121.011869,
-                        14.564303
-                  ]
-            },
-            {
                   "name": "Yuchengco Museum",
                   "text": "Ein Kunst- und Geschichtsmuseum, das eine bedeutende Sammlung sino-philippinischer Artefakte und moderner Gemälde beherbergt.",
                   "category": "museum",
@@ -18973,15 +18676,6 @@ image: "/poi-images/ph-avilon-zoo-life-v2.webp",
                   "coords": [
                         120.979895,
                         14.557227
-                  ]
-            },
-            {
-                  "name": "CIBI II Philippines",
-                  "text": "Ein modernes Geschäftsgebäude und eine Attraktion, die im geschäftigen Stadtbezirk durch ihre Unternehmensarchitektur auffällt.",
-                  "category": "landmark",
-                  "coords": [
-                        121.007638,
-                        14.562545
                   ]
             },
             {
@@ -19185,15 +18879,6 @@ image: "/poi-images/ph-avilon-zoo-life-v2.webp",
                   ]
             },
             {
-                  "name": "Altro Mondo Creative Space",
-                  "text": "Kortárs galériatér, amely feltörekvő és elismert helyi vizuális művészek alkotásainak bemutatására szolgál.",
-                  "category": "museum",
-                  "coords": [
-                        121.011869,
-                        14.564303
-                  ]
-            },
-            {
                   "name": "Yuchengco Museum",
                   "text": "Művészeti és történelmi múzeum, amely a kínai-fülöp-szigeteki műtárgyak és modern festmények kiemelkedő gyűjteményének ad otthont.",
                   "category": "museum",
@@ -19281,15 +18966,6 @@ image: "/poi-images/ph-avilon-zoo-life-v2.webp",
                   "coords": [
                         120.979895,
                         14.557227
-                  ]
-            },
-            {
-                  "name": "CIBI II Philippines",
-                  "text": "Modern kereskedelmi épület és látványosság, amely vállalati építészetével tűnik ki a nyüzsgő városi negyedben.",
-                  "category": "landmark",
-                  "coords": [
-                        121.007638,
-                        14.562545
                   ]
             },
             {
@@ -19493,15 +19169,6 @@ image: "/poi-images/ph-avilon-zoo-life-v2.webp",
                   ]
             },
             {
-                  "name": "Altro Mondo Creative Space",
-                  "text": "Un spațiu de galerie contemporană dedicat expunerii lucrărilor artiștilor vizuali locali emergenți și consacrați.",
-                  "category": "museum",
-                  "coords": [
-                        121.011869,
-                        14.564303
-                  ]
-            },
-            {
                   "name": "Yuchengco Museum",
                   "text": "Un muzeu de artă și istorie care găzduiește o colecție distinsă de artefacte sino-filipineze și picturi moderne.",
                   "category": "museum",
@@ -19589,15 +19256,6 @@ image: "/poi-images/ph-avilon-zoo-life-v2.webp",
                   "coords": [
                         120.979895,
                         14.557227
-                  ]
-            },
-            {
-                  "name": "CIBI II Philippines",
-                  "text": "O clădire comercială modernă și o atracție notabilă în districtul urban aglomerat pentru arhitectura sa corporativă.",
-                  "category": "landmark",
-                  "coords": [
-                        121.007638,
-                        14.562545
                   ]
             },
             {
@@ -19801,15 +19459,6 @@ image: "/poi-images/ph-avilon-zoo-life-v2.webp",
                   ]
             },
             {
-                  "name": "Altro Mondo Creative Space",
-                  "text": "A contemporary gallery space dedicated to displaying works by emerging and established local visual artists.",
-                  "category": "museum",
-                  "coords": [
-                        121.011869,
-                        14.564303
-                  ]
-            },
-            {
                   "name": "Yuchengco Museum",
                   "text": "An art and history museum housing a distinguished collection of Sino-Filipino artifacts and modern paintings.",
                   "category": "museum",
@@ -19897,15 +19546,6 @@ image: "/poi-images/ph-avilon-zoo-life-v2.webp",
                   "coords": [
                         120.979895,
                         14.557227
-                  ]
-            },
-            {
-                  "name": "CIBI II Philippines",
-                  "text": "A modern commercial building and attraction notable within the busy urban district for its corporate architecture.",
-                  "category": "landmark",
-                  "coords": [
-                        121.007638,
-                        14.562545
                   ]
             },
             {
@@ -20101,15 +19741,6 @@ image: "/poi-images/ph-star-city-life-v2.webp",
                   ]
             },
             {
-                  "name": "Pintô Art Museum",
-                  "text": "Inmitten angelegter Gärten präsentiert das Pintô Art Museum zeitgenössische philippinische Ausstellungen in einem Komplex aus weißen Villen im mediterranen Stil.",
-                  "category": "museum",
-                  "coords": [
-                        121.163867,
-                        14.581169
-                  ]
-            },
-            {
                   "name": "St Joseph Parish Church",
                   "text": "Diese historische katholische Pfarrkirche in Baras besticht durch ihre traditionelle Steinfassade.",
                   "category": "religious",
@@ -20134,15 +19765,6 @@ image: "/poi-images/ph-star-city-life-v2.webp",
                   "coords": [
                         121.238103,
                         14.63952
-                  ]
-            },
-            {
-                  "name": "Hinulugang Taktak",
-                  "text": "Dieser berühmte geschützte Nationalpark in Antipolo bietet einen malerischen Wasserfall, der seit langem ein beliebtes Erholungsziel ist.",
-                  "category": "landmark",
-                  "coords": [
-                        121.167655,
-                        14.594679
                   ]
             },
             {
@@ -20233,24 +19855,6 @@ image: "/poi-images/ph-star-city-life-v2.webp",
                   "coords": [
                         121.172112,
                         14.521572
-                  ]
-            },
-            {
-                  "name": "Kilometer 26",
-                  "text": "Dieses kleine Monument, das als offizieller Autobahnstein dient, markiert genau sechsundzwanzig Kilometer vom nationalen Nullpunkt entfernt.",
-                  "category": "historical",
-                  "coords": [
-                        121.159321,
-                        14.572021
-                  ]
-            },
-            {
-                  "name": "Assumpta Theater",
-                  "text": "Dieser lokale Veranstaltungsort für darstellende Künste verfügt über eine Bühne und ein Auditorium, das für Gemeindetheater und kulturelle Präsentationen ausgelegt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        121.181404,
-                        14.601744
                   ]
             },
             {
@@ -20373,15 +19977,6 @@ image: "/poi-images/ph-star-city-life-v2.webp",
                   ]
             },
             {
-                  "name": "Pintô Art Museum",
-                  "text": "A parkosított kertek között található Pintô Művészeti Múzeum kortárs Fülöp-szigeteki kiállításokat mutat be egy mediterrán stílusú, fehér villákból álló komplexumban.",
-                  "category": "museum",
-                  "coords": [
-                        121.163867,
-                        14.581169
-                  ]
-            },
-            {
                   "name": "St Joseph Parish Church",
                   "text": "Ez a történelmi katolikus plébániatemplom Barasban található, és hagyományos kőhomlokzatával tűnik ki.",
                   "category": "religious",
@@ -20406,15 +20001,6 @@ image: "/poi-images/ph-star-city-life-v2.webp",
                   "coords": [
                         121.238103,
                         14.63952
-                  ]
-            },
-            {
-                  "name": "Hinulugang Taktak",
-                  "text": "Ez a híres antipolói védett nemzeti park egy festői vízesést rejt, amely régóta népszerű rekreációs úti cél.",
-                  "category": "landmark",
-                  "coords": [
-                        121.167655,
-                        14.594679
                   ]
             },
             {
@@ -20505,24 +20091,6 @@ image: "/poi-images/ph-star-city-life-v2.webp",
                   "coords": [
                         121.172112,
                         14.521572
-                  ]
-            },
-            {
-                  "name": "Kilometer 26",
-                  "text": "Hivatalos autópálya-jelzőként funkcionálva ez a kis műemlék pontosan huszonhat kilométert jelöl a nemzeti nullaponttól.",
-                  "category": "historical",
-                  "coords": [
-                        121.159321,
-                        14.572021
-                  ]
-            },
-            {
-                  "name": "Assumpta Theater",
-                  "text": "Ez a helyi előadóművészeti helyszín színpaddal és nézőtérrel rendelkezik, amelyet közösségi színdarabok és kulturális bemutatók számára terveztek.",
-                  "category": "cultural",
-                  "coords": [
-                        121.181404,
-                        14.601744
                   ]
             },
             {
@@ -20645,15 +20213,6 @@ image: "/poi-images/ph-star-city-life-v2.webp",
                   ]
             },
             {
-                  "name": "Pintô Art Museum",
-                  "text": "Înconjurat de grădini amenajate, Muzeul de Artă Pintô prezintă expoziții filipineze contemporane într-un complex de vile albe în stil mediteranean.",
-                  "category": "museum",
-                  "coords": [
-                        121.163867,
-                        14.581169
-                  ]
-            },
-            {
                   "name": "St Joseph Parish Church",
                   "text": "Această biserică parohială catolică istorică din Baras se remarcă prin fațada sa tradițională din piatră.",
                   "category": "religious",
@@ -20678,15 +20237,6 @@ image: "/poi-images/ph-star-city-life-v2.webp",
                   "coords": [
                         121.238103,
                         14.63952
-                  ]
-            },
-            {
-                  "name": "Hinulugang Taktak",
-                  "text": "Acest faimos parc național protejat din Antipolo are o cascadă pitorească care este de mult timp o destinație de recreere populară.",
-                  "category": "landmark",
-                  "coords": [
-                        121.167655,
-                        14.594679
                   ]
             },
             {
@@ -20777,24 +20327,6 @@ image: "/poi-images/ph-star-city-life-v2.webp",
                   "coords": [
                         121.172112,
                         14.521572
-                  ]
-            },
-            {
-                  "name": "Kilometer 26",
-                  "text": "Funcționând ca un marcaj rutier oficial, acest mic monument marchează exact douăzeci și șase de kilometri de la punctul zero național.",
-                  "category": "historical",
-                  "coords": [
-                        121.159321,
-                        14.572021
-                  ]
-            },
-            {
-                  "name": "Assumpta Theater",
-                  "text": "Acest loc local de arte spectacolului are o scenă și un auditoriu concepute pentru piese de teatru comunitare și prezentări culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        121.181404,
-                        14.601744
                   ]
             },
             {
@@ -20917,15 +20449,6 @@ image: "/poi-images/ph-star-city-life-v2.webp",
                   ]
             },
             {
-                  "name": "Pintô Art Museum",
-                  "text": "Set amidst landscaped gardens, the Pintô Art Museum showcases contemporary Philippine exhibits within a complex of white, Mediterranean-style villas.",
-                  "category": "museum",
-                  "coords": [
-                        121.163867,
-                        14.581169
-                  ]
-            },
-            {
                   "name": "St Joseph Parish Church",
                   "text": "This historic Catholic parish church in Baras features a traditional stone facade that reflects its deep roots in the region.",
                   "category": "religious",
@@ -20950,15 +20473,6 @@ image: "/poi-images/ph-star-city-life-v2.webp",
                   "coords": [
                         121.238103,
                         14.63952
-                  ]
-            },
-            {
-                  "name": "Hinulugang Taktak",
-                  "text": "This famous protected national park in Antipolo features a scenic waterfall that has long been a popular recreational destination.",
-                  "category": "landmark",
-                  "coords": [
-                        121.167655,
-                        14.594679
                   ]
             },
             {
@@ -21049,24 +20563,6 @@ image: "/poi-images/ph-star-city-life-v2.webp",
                   "coords": [
                         121.172112,
                         14.521572
-                  ]
-            },
-            {
-                  "name": "Kilometer 26",
-                  "text": "Functioning as an official highway marker, this small monument marks exactly twenty-six kilometers from the national zero point.",
-                  "category": "historical",
-                  "coords": [
-                        121.159321,
-                        14.572021
-                  ]
-            },
-            {
-                  "name": "Assumpta Theater",
-                  "text": "This local performing arts venue features a stage and auditorium setup designed for community plays and cultural presentations.",
-                  "category": "cultural",
-                  "coords": [
-                        121.181404,
-                        14.601744
                   ]
             },
             {

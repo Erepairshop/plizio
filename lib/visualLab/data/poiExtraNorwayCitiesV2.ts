@@ -2670,15 +2670,6 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kverndammen",
-                  "text": "Kverndammen ist ein See in Skien, der eine friedliche Atmosphäre in der Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.622317,
-                        59.14318
-                  ]
-            },
-            {
                   "name": "Limitjenn",
                   "text": "Limitjenn – ein kleiner natürlicher See im Wald bei Skien.",
                   "category": "natural",
@@ -2759,15 +2750,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         9.526032,
                         59.22458
-                  ]
-            },
-            {
-                  "name": "Kverndammen",
-                  "text": "A Kverndammen egy tó Skienben, amely békés hangulatot áraszt a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        9.622317,
-                        59.14318
                   ]
             },
             {
@@ -2854,15 +2836,6 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kverndammen",
-                  "text": "Kverndammen este un lac în Skien care oferă o atmosferă liniștită în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.622317,
-                        59.14318
-                  ]
-            },
-            {
                   "name": "Limitjenn",
                   "text": "Limitjenn – un mic lac natural în pădurea de lângă Skien.",
                   "category": "natural",
@@ -2943,15 +2916,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         9.526032,
                         59.22458
-                  ]
-            },
-            {
-                  "name": "Kverndammen",
-                  "text": "Kverndammen is a lake in Skien offering a peaceful atmosphere in nature.",
-                  "category": "natural",
-                  "coords": [
-                        9.622317,
-                        59.14318
                   ]
             },
             {
@@ -7485,15 +7449,6 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vollane",
-                  "text": "Ein Küstenabschnitt in Horten, der für Freizeitaktivitäten und Baden genutzt wird.",
-                  "category": "recreational",
-                  "coords": [
-                        10.49408,
-                        59.426523
-                  ]
-            },
-            {
                   "name": "Horten bilmuseum",
                   "text": "Ein Museum in Horten, das eine Sammlung historischer Kraftfahrzeuge präsentiert.",
                   "category": "museum",
@@ -7509,15 +7464,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.487886,
                         59.423928
-                  ]
-            },
-            {
-                  "name": "Tivolistranda",
-                  "text": "Tivolistranda – ein lebhafter Strand mit Promenade und Vergnügungspark-Atmosphäre in Horten.",
-                  "category": "recreational",
-                  "coords": [
-                        10.495447,
-                        59.42548
                   ]
             },
             {
@@ -7667,15 +7613,6 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vollane",
-                  "text": "Tengerparti szakasz Hortenben, amelyet szabadidős tevékenységekre és fürdésre használnak.",
-                  "category": "recreational",
-                  "coords": [
-                        10.49408,
-                        59.426523
-                  ]
-            },
-            {
                   "name": "Horten bilmuseum",
                   "text": "Múzeum Hortenben, amely veterán gépjárművek gyűjteményét mutatja be.",
                   "category": "museum",
@@ -7691,15 +7628,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.487886,
                         59.423928
-                  ]
-            },
-            {
-                  "name": "Tivolistranda",
-                  "text": "Tivolistranda – élénk strand sétánnyal és vidámparki hangulattal Hortenben.",
-                  "category": "recreational",
-                  "coords": [
-                        10.495447,
-                        59.42548
                   ]
             },
             {
@@ -7849,15 +7777,6 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vollane",
-                  "text": "O porțiune de coastă în Horten, utilizată pentru activități recreative și scăldat.",
-                  "category": "recreational",
-                  "coords": [
-                        10.49408,
-                        59.426523
-                  ]
-            },
-            {
                   "name": "Horten bilmuseum",
                   "text": "Un muzeu din Horten care prezintă o colecție de autovehicule istorice.",
                   "category": "museum",
@@ -7873,15 +7792,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.487886,
                         59.423928
-                  ]
-            },
-            {
-                  "name": "Tivolistranda",
-                  "text": "Tivolistranda – o plajă animată cu promenadă și atmosferă de parc de distracții în Horten.",
-                  "category": "recreational",
-                  "coords": [
-                        10.495447,
-                        59.42548
                   ]
             },
             {
@@ -8031,15 +7941,6 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vollane",
-                  "text": "A coastal stretch in Horten used for leisure activities and swimming.",
-                  "category": "recreational",
-                  "coords": [
-                        10.49408,
-                        59.426523
-                  ]
-            },
-            {
                   "name": "Horten bilmuseum",
                   "text": "A museum in Horten presenting a collection of historic motor vehicles.",
                   "category": "museum",
@@ -8055,15 +7956,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         10.487886,
                         59.423928
-                  ]
-            },
-            {
-                  "name": "Tivolistranda",
-                  "text": "Tivolistranda – a lively beach with a promenade and amusement park atmosphere in Horten.",
-                  "category": "recreational",
-                  "coords": [
-                        10.495447,
-                        59.42548
                   ]
             },
             {
@@ -13326,24 +13218,6 @@ export const norwayCitiesV2: POI[] = [
     id: "norway-flekkefjord-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Flekkefjord museum",
-                  "text": "Das Flekkefjord museum ist ein Heimatmuseum in einem Kaufmannshaus aus dem 19. Jahrhundert in Flekkefjord.",
-                  "category": "museum",
-                  "coords": [
-                        6.661765,
-                        58.29816
-                  ]
-            },
-            {
-                  "name": "storeheia",
-                  "text": "Die Storeheia ist eine große Heidefläche mit Wanderwegen in Flekkefjord.",
-                  "category": "natural",
-                  "coords": [
-                        6.653755,
-                        58.301441
-                  ]
-            },
-            {
                   "name": "Grimetjørn",
                   "text": "Das Grimetjørn ist ein historischer Teich mit archäologischen Funden in Flekkefjord.",
                   "category": "historical",
@@ -13359,24 +13233,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.678895,
                         58.290142
-                  ]
-            },
-            {
-                  "name": "Flekkfjordbanen",
-                  "text": "Die Flekkfjordbanen ist eine historische Schmalspurbahn mit malerischer Strecke in Flekkefjord.",
-                  "category": "landmark",
-                  "coords": [
-                        6.667593,
-                        58.295181
-                  ]
-            },
-            {
-                  "name": "Flekkefjord kirke",
-                  "text": "Die Flekkefjord kirke, erbaut 1833 von H.D.F. Linstow, ist ein geschütztes Baudenkmal.",
-                  "category": "religious",
-                  "coords": [
-                        6.661879,
-                        58.296047
                   ]
             },
             {
@@ -13490,24 +13346,6 @@ export const norwayCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Flekkefjord museum",
-                  "text": "A Flekkefjord museum egy helytörténeti múzeum egy 19. századi kereskedőházban Flekkefjordban.",
-                  "category": "museum",
-                  "coords": [
-                        6.661765,
-                        58.29816
-                  ]
-            },
-            {
-                  "name": "storeheia",
-                  "text": "A Storeheia egy nagy hangás terület túraútvonalakkal Flekkefjordban.",
-                  "category": "natural",
-                  "coords": [
-                        6.653755,
-                        58.301441
-                  ]
-            },
-            {
                   "name": "Grimetjørn",
                   "text": "A Grimetjørn egy történelmi tó régészeti leletekkel Flekkefjordban.",
                   "category": "historical",
@@ -13523,24 +13361,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.678895,
                         58.290142
-                  ]
-            },
-            {
-                  "name": "Flekkfjordbanen",
-                  "text": "A Flekkfjordbanen egy történelmi keskeny nyomtávú vasút festői útvonallal Flekkefjordban.",
-                  "category": "landmark",
-                  "coords": [
-                        6.667593,
-                        58.295181
-                  ]
-            },
-            {
-                  "name": "Flekkefjord kirke",
-                  "text": "A Flekkefjord-i templom 1833-ban épült H.D.F. Linstow tervei alapján, védett műemlék.",
-                  "category": "religious",
-                  "coords": [
-                        6.661879,
-                        58.296047
                   ]
             },
             {
@@ -13654,24 +13474,6 @@ export const norwayCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Flekkefjord museum",
-                  "text": "Muzeul Flekkefjord este un muzeu de istorie locală într-o casă de negustor din secolul al XIX-lea din Flekkefjord.",
-                  "category": "museum",
-                  "coords": [
-                        6.661765,
-                        58.29816
-                  ]
-            },
-            {
-                  "name": "storeheia",
-                  "text": "Storeheia este o întindere mare de tufăriș cu trasee de drumeție în Flekkefjord.",
-                  "category": "natural",
-                  "coords": [
-                        6.653755,
-                        58.301441
-                  ]
-            },
-            {
                   "name": "Grimetjørn",
                   "text": "Grimetjørn este un iaz istoric cu descoperiri arheologice în Flekkefjord.",
                   "category": "historical",
@@ -13687,24 +13489,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.678895,
                         58.290142
-                  ]
-            },
-            {
-                  "name": "Flekkfjordbanen",
-                  "text": "Flekkfjordbanen este o cale ferată istorică cu ecartament îngust și traseu pitoresc în Flekkefjord.",
-                  "category": "landmark",
-                  "coords": [
-                        6.667593,
-                        58.295181
-                  ]
-            },
-            {
-                  "name": "Flekkefjord kirke",
-                  "text": "Biserica Flekkefjord kirke, construită în 1833 de arhitectul H.D.F. Linstow, este un monument protejat.",
-                  "category": "religious",
-                  "coords": [
-                        6.661879,
-                        58.296047
                   ]
             },
             {
@@ -13818,24 +13602,6 @@ export const norwayCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Flekkefjord museum",
-                  "text": "Flekkefjord museum is a local history museum in a 19th-century merchant house in Flekkefjord.",
-                  "category": "museum",
-                  "coords": [
-                        6.661765,
-                        58.29816
-                  ]
-            },
-            {
-                  "name": "storeheia",
-                  "text": "Storeheia is a large heathland with hiking trails in Flekkefjord.",
-                  "category": "natural",
-                  "coords": [
-                        6.653755,
-                        58.301441
-                  ]
-            },
-            {
                   "name": "Grimetjørn",
                   "text": "Grimetjørn is a historic pond with archaeological finds in Flekkefjord.",
                   "category": "historical",
@@ -13851,24 +13617,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         6.678895,
                         58.290142
-                  ]
-            },
-            {
-                  "name": "Flekkfjordbanen",
-                  "text": "Flekkfjordbanen is a historic narrow-gauge railway with a scenic route in Flekkefjord.",
-                  "category": "landmark",
-                  "coords": [
-                        6.667593,
-                        58.295181
-                  ]
-            },
-            {
-                  "name": "Flekkefjord kirke",
-                  "text": "Flekkefjord Church, built in 1833, was designed by H.D.F. Linstow and is a protected heritage site.",
-                  "category": "religious",
-                  "coords": [
-                        6.661879,
-                        58.296047
                   ]
             },
             {
@@ -14874,30 +14622,12 @@ export const norwayCitiesV2: POI[] = [
     id: "norway-brønnøysund-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Odinskjeret fyr",
-                  "text": "Odinskjeret fyr ist ein Leuchtturm auf einer felsigen Insel, die nach Odin benannt ist, bei Brønnøysund.",
-                  "category": "landmark",
-                  "coords": [
-                        12.198937,
-                        65.472619
-                  ]
-            },
-            {
                   "name": "Festningen",
                   "text": "Festningen ist eine historische Festung mit Blick auf den Hafen von Brønnøysund.",
                   "category": "castle",
                   "coords": [
                         12.185964,
                         65.450523
-                  ]
-            },
-            {
-                  "name": "Frøkenosen",
-                  "text": "Frøkenosen ist eine Felsformation namens 'Die Damennase' in Brønnøysund.",
-                  "category": "landmark",
-                  "coords": [
-                        12.212288,
-                        65.472434
                   ]
             },
             {
@@ -14912,30 +14642,12 @@ export const norwayCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Odinskjeret fyr",
-                  "text": "Az Odinskjeret fyr egy világítótorony egy Odinról elnevezett sziklás szigeten Brønnøysund közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        12.198937,
-                        65.472619
-                  ]
-            },
-            {
                   "name": "Festningen",
                   "text": "A Festningen egy történelmi erőd, mely Brønnøysund kikötőjére néz.",
                   "category": "castle",
                   "coords": [
                         12.185964,
                         65.450523
-                  ]
-            },
-            {
-                  "name": "Frøkenosen",
-                  "text": "A Frøkenosen egy sziklaformáció, melynek neve 'A hölgy orra' Brønnøysundban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.212288,
-                        65.472434
                   ]
             },
             {
@@ -14950,30 +14662,12 @@ export const norwayCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Odinskjeret fyr",
-                  "text": "Odinskjeret fyr este un far pe o insulă stâncoasă numită după Odin, lângă Brønnøysund.",
-                  "category": "landmark",
-                  "coords": [
-                        12.198937,
-                        65.472619
-                  ]
-            },
-            {
                   "name": "Festningen",
                   "text": "Festningen este o fortăreață istorică cu vedere spre portul Brønnøysund.",
                   "category": "castle",
                   "coords": [
                         12.185964,
                         65.450523
-                  ]
-            },
-            {
-                  "name": "Frøkenosen",
-                  "text": "Frøkenosen este o formațiune stâncoasă numită 'Nasul Doamnei' în Brønnøysund.",
-                  "category": "landmark",
-                  "coords": [
-                        12.212288,
-                        65.472434
                   ]
             },
             {
@@ -14988,30 +14682,12 @@ export const norwayCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Odinskjeret fyr",
-                  "text": "Odinskjeret fyr is a lighthouse on a rocky islet named after Odin, near Brønnøysund.",
-                  "category": "landmark",
-                  "coords": [
-                        12.198937,
-                        65.472619
-                  ]
-            },
-            {
                   "name": "Festningen",
                   "text": "Festningen is a historic fortress overlooking the harbor of Brønnøysund.",
                   "category": "castle",
                   "coords": [
                         12.185964,
                         65.450523
-                  ]
-            },
-            {
-                  "name": "Frøkenosen",
-                  "text": "Frøkenosen is a rock formation called The Lady's Nose in Brønnøysund.",
-                  "category": "landmark",
-                  "coords": [
-                        12.212288,
-                        65.472434
                   ]
             },
             {
@@ -15736,15 +15412,6 @@ export const norwayCitiesV2: POI[] = [
                         23.685593,
                         70.634901
                   ]
-            },
-            {
-                  "name": "Storvannet",
-                  "text": "Ein Badebereich am See Storvannet in Hammerfest, beliebt für Erholung im Freien.",
-                  "category": "recreational",
-                  "coords": [
-                        23.703509,
-                        70.68188
-                  ]
             }
       ],
       "hu": [
@@ -15800,15 +15467,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         23.685593,
                         70.634901
-                  ]
-            },
-            {
-                  "name": "Storvannet",
-                  "text": "Fürdőhely a Storvannet-tónál Hammerfestben, amely népszerű a szabadtéri kikapcsolódáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        23.703509,
-                        70.68188
                   ]
             }
       ],
@@ -15866,15 +15524,6 @@ export const norwayCitiesV2: POI[] = [
                         23.685593,
                         70.634901
                   ]
-            },
-            {
-                  "name": "Storvannet",
-                  "text": "O zonă de scăldat la lacul Storvannet din Hammerfest, populară pentru recreere în aer liber.",
-                  "category": "recreational",
-                  "coords": [
-                        23.703509,
-                        70.68188
-                  ]
             }
       ],
       "en": [
@@ -15930,15 +15579,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         23.685593,
                         70.634901
-                  ]
-            },
-            {
-                  "name": "Storvannet",
-                  "text": "A swimming area at Lake Storvannet in Hammerfest, popular for outdoor recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        23.703509,
-                        70.68188
                   ]
             }
       ]
@@ -19246,15 +18886,6 @@ export const norwayCitiesV2: POI[] = [
                         12.265971,
                         65.493687
                   ]
-            },
-            {
-                  "name": "Brønnøy kirke",
-                  "text": "Die um 1200 erbaute Brønnøy kirke in Brønnøy ist eine mittelalterliche Steinkirche, die 1870 von H. A. Mosling restauriert wurde.",
-                  "category": "religious",
-                  "coords": [
-                        12.206501,
-                        65.468881
-                  ]
             }
       ],
       "hu": [
@@ -19283,15 +18914,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         12.265971,
                         65.493687
-                  ]
-            },
-            {
-                  "name": "Brønnøy kirke",
-                  "text": "A Brønnøy-i Brønnøy-templom 1200 körül épült, középkori kőtemplom, amelyet 1870-ben H. A. Mosling állított helyre.",
-                  "category": "religious",
-                  "coords": [
-                        12.206501,
-                        65.468881
                   ]
             }
       ],
@@ -19322,15 +18944,6 @@ export const norwayCitiesV2: POI[] = [
                         12.265971,
                         65.493687
                   ]
-            },
-            {
-                  "name": "Brønnøy kirke",
-                  "text": "Biserica Brønnøy din Brønnøy, construită în jurul anului 1200, este o biserică medievală de piatră, restaurată în 1870 de H. A. Mosling.",
-                  "category": "religious",
-                  "coords": [
-                        12.206501,
-                        65.468881
-                  ]
             }
       ],
       "en": [
@@ -19359,15 +18972,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         12.265971,
                         65.493687
-                  ]
-            },
-            {
-                  "name": "Brønnøy kirke",
-                  "text": "Brønnøy Church in Brønnøy, built around 1200, is a medieval stone church restored in 1870 by H. A. Mosling.",
-                  "category": "religious",
-                  "coords": [
-                        12.206501,
-                        65.468881
                   ]
             }
       ]
@@ -19507,24 +19111,6 @@ export const norwayCitiesV2: POI[] = [
                         9.622317,
                         59.14318
                   ]
-            },
-            {
-                  "name": "Norsjø",
-                  "text": "Norsjø ist ein malerischer See in Porsgrunn, ideal zum Wandern und Naturgenießen.",
-                  "category": "natural",
-                  "coords": [
-                        9.362437,
-                        59.287858
-                  ]
-            },
-            {
-                  "name": "Hjellevannet",
-                  "text": "Hjellevannet ist ein malerischer See in Porsgrunn, ideal zum Wandern und Naturgenießen.",
-                  "category": "natural",
-                  "coords": [
-                        9.597199,
-                        59.200984
-                  ]
             }
       ],
       "hu": [
@@ -19616,24 +19202,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         9.622317,
                         59.14318
-                  ]
-            },
-            {
-                  "name": "Norsjø",
-                  "text": "A Norsjø egy festői tó Porsgrunn városában, amely ideális sétákhoz és a természet élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        9.362437,
-                        59.287858
-                  ]
-            },
-            {
-                  "name": "Hjellevannet",
-                  "text": "A Hjellevannet egy festői tó Porsgrunn városában, amely ideális sétákhoz és a természet élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        9.597199,
-                        59.200984
                   ]
             }
       ],
@@ -19727,24 +19295,6 @@ export const norwayCitiesV2: POI[] = [
                         9.622317,
                         59.14318
                   ]
-            },
-            {
-                  "name": "Norsjø",
-                  "text": "Norsjø este un lac pitoresc din Porsgrunn, ideal pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.362437,
-                        59.287858
-                  ]
-            },
-            {
-                  "name": "Hjellevannet",
-                  "text": "Hjellevannet este un lac pitoresc din Porsgrunn, ideal pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.597199,
-                        59.200984
-                  ]
             }
       ],
       "en": [
@@ -19836,24 +19386,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         9.622317,
                         59.14318
-                  ]
-            },
-            {
-                  "name": "Norsjø",
-                  "text": "Norsjø is a scenic lake in Porsgrunn, ideal for walking and enjoying nature.",
-                  "category": "natural",
-                  "coords": [
-                        9.362437,
-                        59.287858
-                  ]
-            },
-            {
-                  "name": "Hjellevannet",
-                  "text": "Hjellevannet is a scenic lake in Porsgrunn, ideal for walking and enjoying nature.",
-                  "category": "natural",
-                  "coords": [
-                        9.597199,
-                        59.200984
                   ]
             }
       ]
@@ -26619,15 +26151,6 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Geitungen fyr",
-                  "text": "Ein markanter Leuchtturm auf einer Insel vor Skudeneshavn, bekannt für seine Architektur im Art-Déco-Stil.",
-                  "category": "landmark",
-                  "coords": [
-                        5.242683,
-                        59.131478
-                  ]
-            },
-            {
                   "name": "Skudesnes kystfort",
                   "text": "Überreste einer Küstenbefestigungsanlage bei Skudeneshavn aus der Zeit des Zweiten Weltkriegs.",
                   "category": "fortress",
@@ -26637,30 +26160,12 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skudesnes fort",
-                  "text": "Eine historische Verteidigungsanlage in Skudeneshavn, die zum militärischen Erbe der Region gehört.",
-                  "category": "fortress",
-                  "coords": [
-                        5.270735,
-                        59.145716
-                  ]
-            },
-            {
                   "name": "Derikhuset",
                   "text": "Ein historisches Gebäude in Skudeneshavn, das Ausstellungen zur lokalen Fischereigeschichte und Kultur beherbergt.",
                   "category": "museum",
                   "coords": [
                         5.273702,
                         59.16487
-                  ]
-            },
-            {
-                  "name": "Falnes kirke",
-                  "text": "Eine traditionelle norwegische Kirche in Skudeneshavn, die als zentrales geistliches Zentrum der Gemeinde dient.",
-                  "category": "religious",
-                  "coords": [
-                        5.281306,
-                        59.151215
                   ]
             }
       ],
@@ -26684,15 +26189,6 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Geitungen fyr",
-                  "text": "Skudeneshavn előtti szigeten álló jellegzetes világítótorony, amely art deco stílusú építészetéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        5.242683,
-                        59.131478
-                  ]
-            },
-            {
                   "name": "Skudesnes kystfort",
                   "text": "Második világháborús parti erődítmény maradványai Skudeneshavn közelében.",
                   "category": "fortress",
@@ -26702,30 +26198,12 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skudesnes fort",
-                  "text": "Történelmi védmű Skudeneshavnban, amely a régió katonai örökségének része.",
-                  "category": "fortress",
-                  "coords": [
-                        5.270735,
-                        59.145716
-                  ]
-            },
-            {
                   "name": "Derikhuset",
                   "text": "Történelmi épület Skudeneshavnban, amely a helyi halászati történetet és kultúrát bemutató kiállításoknak ad otthont.",
                   "category": "museum",
                   "coords": [
                         5.273702,
                         59.16487
-                  ]
-            },
-            {
-                  "name": "Falnes kirke",
-                  "text": "Hagyományos norvég templom Skudeneshavnban, amely a közösség központi hitéleti helyszíne.",
-                  "category": "religious",
-                  "coords": [
-                        5.281306,
-                        59.151215
                   ]
             }
       ],
@@ -26749,15 +26227,6 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Geitungen fyr",
-                  "text": "Un far distinctiv pe o insulă de lângă Skudeneshavn, cunoscut pentru arhitectura sa în stil Art Deco.",
-                  "category": "landmark",
-                  "coords": [
-                        5.242683,
-                        59.131478
-                  ]
-            },
-            {
                   "name": "Skudesnes kystfort",
                   "text": "Vestigiile unei fortificații de coastă de lângă Skudeneshavn, datând din al Doilea Război Mondial.",
                   "category": "fortress",
@@ -26767,30 +26236,12 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skudesnes fort",
-                  "text": "O structură defensivă istorică din Skudeneshavn, făcând parte din moștenirea militară a regiunii.",
-                  "category": "fortress",
-                  "coords": [
-                        5.270735,
-                        59.145716
-                  ]
-            },
-            {
                   "name": "Derikhuset",
                   "text": "O clădire istorică din Skudeneshavn care găzduiește expoziții despre istoria pescuitului local și cultură.",
                   "category": "museum",
                   "coords": [
                         5.273702,
                         59.16487
-                  ]
-            },
-            {
-                  "name": "Falnes kirke",
-                  "text": "O biserică norvegiană tradițională în Skudeneshavn, servind ca centru spiritual central al comunității.",
-                  "category": "religious",
-                  "coords": [
-                        5.281306,
-                        59.151215
                   ]
             }
       ],
@@ -26814,15 +26265,6 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Geitungen fyr",
-                  "text": "A distinctive lighthouse on an island off Skudeneshavn, known for its Art Deco style architecture.",
-                  "category": "landmark",
-                  "coords": [
-                        5.242683,
-                        59.131478
-                  ]
-            },
-            {
                   "name": "Skudesnes kystfort",
                   "text": "Remains of a coastal fortification near Skudeneshavn dating from World War II.",
                   "category": "fortress",
@@ -26832,30 +26274,12 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skudesnes fort",
-                  "text": "A historical defensive structure in Skudeneshavn, part of the region's military heritage.",
-                  "category": "fortress",
-                  "coords": [
-                        5.270735,
-                        59.145716
-                  ]
-            },
-            {
                   "name": "Derikhuset",
                   "text": "A historic building in Skudeneshavn housing exhibitions on local fishing history and culture.",
                   "category": "museum",
                   "coords": [
                         5.273702,
                         59.16487
-                  ]
-            },
-            {
-                  "name": "Falnes kirke",
-                  "text": "A traditional Norwegian church in Skudeneshavn, serving as a central spiritual hub for the community.",
-                  "category": "religious",
-                  "coords": [
-                        5.281306,
-                        59.151215
                   ]
             }
       ]
@@ -28860,24 +28284,6 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Litle Stokkavatn",
-                  "text": "Litle Stokkavatn ist ein malerischer See in Randaberg, ideal zum Wandern und Naturgenießen.",
-                  "category": "natural",
-                  "coords": [
-                        5.690669,
-                        58.970623
-                  ]
-            },
-            {
-                  "name": "Store Stokkavatn",
-                  "text": "Store Stokkavatn ist ein malerischer See in Randaberg, ideal zum Wandern und Naturgenießen.",
-                  "category": "natural",
-                  "coords": [
-                        5.668607,
-                        58.967373
-                  ]
-            },
-            {
                   "name": "Mosvatnet",
                   "text": "Mosvatnet ist ein malerischer See in Randaberg, ideal zum Wandern und Naturgenießen.",
                   "category": "natural",
@@ -29093,24 +28499,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.619411,
                         58.99978
-                  ]
-            },
-            {
-                  "name": "Litle Stokkavatn",
-                  "text": "A Litle Stokkavatn egy festői tó Randaberg városában, amely ideális sétákhoz és a természet élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        5.690669,
-                        58.970623
-                  ]
-            },
-            {
-                  "name": "Store Stokkavatn",
-                  "text": "A Store Stokkavatn egy festői tó Randaberg városában, amely ideális sétákhoz és a természet élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        5.668607,
-                        58.967373
                   ]
             },
             {
@@ -29332,24 +28720,6 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Litle Stokkavatn",
-                  "text": "Litle Stokkavatn este un lac pitoresc din Randaberg, ideal pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        5.690669,
-                        58.970623
-                  ]
-            },
-            {
-                  "name": "Store Stokkavatn",
-                  "text": "Store Stokkavatn este un lac pitoresc din Randaberg, ideal pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        5.668607,
-                        58.967373
-                  ]
-            },
-            {
                   "name": "Mosvatnet",
                   "text": "Mosvatnet este un lac pitoresc din Randaberg, ideal pentru plimbări și relaxare în natură.",
                   "category": "natural",
@@ -29565,24 +28935,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.619411,
                         58.99978
-                  ]
-            },
-            {
-                  "name": "Litle Stokkavatn",
-                  "text": "Litle Stokkavatn is a scenic lake in Randaberg, ideal for walking and enjoying nature.",
-                  "category": "natural",
-                  "coords": [
-                        5.690669,
-                        58.970623
-                  ]
-            },
-            {
-                  "name": "Store Stokkavatn",
-                  "text": "Store Stokkavatn is a scenic lake in Randaberg, ideal for walking and enjoying nature.",
-                  "category": "natural",
-                  "coords": [
-                        5.668607,
-                        58.967373
                   ]
             },
             {
@@ -31848,15 +31200,6 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stordalsvatnet",
-                  "text": "Stordalsvatnet ist ein malerischer See in Etne, ideal zum Wandern und Naturgenießen.",
-                  "category": "natural",
-                  "coords": [
-                        6.084646,
-                        59.702551
-                  ]
-            },
-            {
                   "name": "Enge skule svømmebasseng",
                   "text": "Genießen Sie ein erfrischendes Bad im Enge skule svømmebasseng in Etne.",
                   "category": "family",
@@ -31901,15 +31244,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.834585,
                         59.637852
-                  ]
-            },
-            {
-                  "name": "Stordalsvatnet",
-                  "text": "A Stordalsvatnet egy festői tó Etne városában, amely ideális sétákhoz és a természet élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        6.084646,
-                        59.702551
                   ]
             },
             {
@@ -31960,15 +31294,6 @@ export const norwayCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stordalsvatnet",
-                  "text": "Stordalsvatnet este un lac pitoresc din Etne, ideal pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        6.084646,
-                        59.702551
-                  ]
-            },
-            {
                   "name": "Enge skule svømmebasseng",
                   "text": "Bucurați-vă de o baie răcoritoare la Enge skule svømmebasseng în Etne.",
                   "category": "family",
@@ -32013,15 +31338,6 @@ export const norwayCitiesV2: POI[] = [
                   "coords": [
                         5.834585,
                         59.637852
-                  ]
-            },
-            {
-                  "name": "Stordalsvatnet",
-                  "text": "Stordalsvatnet is a scenic lake in Etne, ideal for walking and enjoying nature.",
-                  "category": "natural",
-                  "coords": [
-                        6.084646,
-                        59.702551
                   ]
             },
             {
@@ -32316,15 +31632,6 @@ export const norwayCitiesV2: POI[] = [
     id: "norway-rosendal-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Mannsvatnet",
-                  "text": "Der Mannsvatnet ist ein See in Rosendal, ideal für ruhige Spaziergänge und zum Genießen der Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        5.939323,
-                        59.921444
-                  ]
-            },
-            {
                   "name": "Prestavatnet",
                   "text": "Der Prestavatnet ist ein malerischer See in Rosendal, der zu entspannten Stunden im Freien einlädt.",
                   "category": "natural",
@@ -32380,15 +31687,6 @@ export const norwayCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Mannsvatnet",
-                  "text": "A Mannsvatnet egy tó Rosendalban, amely ideális nyugodt sétákhoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        5.939323,
-                        59.921444
-                  ]
-            },
             {
                   "name": "Prestavatnet",
                   "text": "A Prestavatnet egy festői tó Rosendalban, amely pihentető szabadtéri órákra hív.",
@@ -32446,15 +31744,6 @@ export const norwayCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Mannsvatnet",
-                  "text": "Mannsvatnet este un lac din Rosendal, ideal pentru plimbări liniștite și admirarea peisajului.",
-                  "category": "natural",
-                  "coords": [
-                        5.939323,
-                        59.921444
-                  ]
-            },
-            {
                   "name": "Prestavatnet",
                   "text": "Prestavatnet este un lac pitoresc din Rosendal, care invită la ore relaxante în aer liber.",
                   "category": "natural",
@@ -32510,15 +31799,6 @@ export const norwayCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Mannsvatnet",
-                  "text": "Mannsvatnet is a lake in Rosendal, ideal for quiet walks and enjoying the scenery.",
-                  "category": "natural",
-                  "coords": [
-                        5.939323,
-                        59.921444
-                  ]
-            },
             {
                   "name": "Prestavatnet",
                   "text": "Prestavatnet is a scenic lake in Rosendal, inviting for relaxed hours outdoors.",

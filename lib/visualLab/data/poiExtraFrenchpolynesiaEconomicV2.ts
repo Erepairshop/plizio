@@ -1077,15 +1077,6 @@ export const frenchpolynesiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tikis souriant suivre les indications",
-                  "text": "Lächelnde Tiki-Statuen, den Hinweisschildern folgend, nahe Atuona.",
-                  "category": "landmark",
-                  "coords": [
-                        -139.00972,
-                        -9.791613
-                  ]
-            },
-            {
                   "name": "Église de l'Immaculée-Conception",
                   "text": "Katholische Kirche im Wirtschaftszentrum von Atuona.",
                   "category": "religious",
@@ -1130,15 +1121,6 @@ export const frenchpolynesiaEconomicV2: POI[] = [
                   "coords": [
                         -139.040817,
                         -9.803721
-                  ]
-            },
-            {
-                  "name": "Tikis souriant suivre les indications",
-                  "text": "Mosolygó tiki szobrok, a jelzéseket követve, Atuona közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -139.00972,
-                        -9.791613
                   ]
             },
             {
@@ -1189,15 +1171,6 @@ export const frenchpolynesiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tikis souriant suivre les indications",
-                  "text": "Statuile zâmbitoare tiki, urmând indicațiile, lângă Atuona.",
-                  "category": "landmark",
-                  "coords": [
-                        -139.00972,
-                        -9.791613
-                  ]
-            },
-            {
                   "name": "Église de l'Immaculée-Conception",
                   "text": "Biserică catolică în centrul economic al orașului Atuona.",
                   "category": "religious",
@@ -1242,15 +1215,6 @@ export const frenchpolynesiaEconomicV2: POI[] = [
                   "coords": [
                         -139.040817,
                         -9.803721
-                  ]
-            },
-            {
-                  "name": "Tikis souriant suivre les indications",
-                  "text": "Smiling tiki statues, follow the signs, near Atuona.",
-                  "category": "landmark",
-                  "coords": [
-                        -139.00972,
-                        -9.791613
                   ]
             },
             {

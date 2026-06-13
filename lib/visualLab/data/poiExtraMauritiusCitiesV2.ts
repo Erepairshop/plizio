@@ -78,15 +78,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Signal Mountain",
-                  "text": "Signal Mountain ist ein malerischer Aussichtspunkt über Port Louis.",
-                  "category": "natural",
-                  "coords": [
-                        57.492247,
-                        -20.174257
-                  ]
-            },
-            {
                   "name": "Léoville L'Homme",
                   "text": "Léoville L'Homme, eine Bronzestatue auf der Place d'Armes in Port Louis, die einen lokalen Philanthropen ehrt.",
                   "category": "landmark",
@@ -102,15 +93,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.51009,
                         -20.169277
-                  ]
-            },
-            {
-                  "name": "Rivulet Terre Rouge Bird Sanctuary",
-                  "text": "Rivulet Terre Rouge Bird Sanctuary, ein Küstenfeuchtgebiet an der Mündung des Terre-Rouge-Flusses in Port Louis, Heimat von Zugvögeln.",
-                  "category": "landmark",
-                  "coords": [
-                        57.503712,
-                        -20.142496
                   ]
             },
             {
@@ -233,15 +215,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Signal Mountain",
-                  "text": "A Signal Mountain egy festői kilátó, amely Port Louis városára néz.",
-                  "category": "natural",
-                  "coords": [
-                        57.492247,
-                        -20.174257
-                  ]
-            },
-            {
                   "name": "Léoville L'Homme",
                   "text": "Léoville L'Homme, egy bronzszobor a Port Louis-i Place d'Armes-en, amely egy helyi filantrópot tisztel.",
                   "category": "landmark",
@@ -257,15 +230,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.51009,
                         -20.169277
-                  ]
-            },
-            {
-                  "name": "Rivulet Terre Rouge Bird Sanctuary",
-                  "text": "Rivulet Terre Rouge Bird Sanctuary, egy part menti vizes élőhely a Terre Rouge folyó torkolatánál Port Louisban, vonuló madarak otthona.",
-                  "category": "landmark",
-                  "coords": [
-                        57.503712,
-                        -20.142496
                   ]
             },
             {
@@ -388,15 +352,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Signal Mountain",
-                  "text": "Signal Mountain este un punct de belvedere panoramic care oferă priveliști asupra orașului Port Louis.",
-                  "category": "natural",
-                  "coords": [
-                        57.492247,
-                        -20.174257
-                  ]
-            },
-            {
                   "name": "Léoville L'Homme",
                   "text": "Léoville L'Homme, o statuie de bronz pe Place d'Armes din Port Louis, care onorează un filantrop local.",
                   "category": "landmark",
@@ -412,15 +367,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.51009,
                         -20.169277
-                  ]
-            },
-            {
-                  "name": "Rivulet Terre Rouge Bird Sanctuary",
-                  "text": "Rivulet Terre Rouge Bird Sanctuary, o zonă umedă de coastă la gura râului Terre Rouge din Port Louis, adăpost pentru păsări migratoare.",
-                  "category": "landmark",
-                  "coords": [
-                        57.503712,
-                        -20.142496
                   ]
             },
             {
@@ -543,15 +489,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Signal Mountain",
-                  "text": "Signal Mountain is a scenic viewpoint offering vistas over Port Louis.",
-                  "category": "natural",
-                  "coords": [
-                        57.492247,
-                        -20.174257
-                  ]
-            },
-            {
                   "name": "Léoville L'Homme",
                   "text": "Léoville L'Homme, a bronze statue on the Place d'Armes in Port Louis commemorating a local philanthropist.",
                   "category": "landmark",
@@ -567,15 +504,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.51009,
                         -20.169277
-                  ]
-            },
-            {
-                  "name": "Rivulet Terre Rouge Bird Sanctuary",
-                  "text": "Rivulet Terre Rouge Bird Sanctuary, a coastal wetland at the mouth of the Terre Rouge River in Port Louis, home to migratory birds.",
-                  "category": "landmark",
-                  "coords": [
-                        57.503712,
-                        -20.142496
                   ]
             },
             {
@@ -1021,302 +949,10 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-vacoas-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "J&J Auditorium",
-                  "text": "J&J Auditorium, ein Konzertsaal in Vacoas, der klassische Musikaufführungen in einem 500-Sitzplätze-Saal beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        57.491283,
-                        -20.27855
-                  ]
-            },
-            {
-                  "name": "Serge Constantin Theatre",
-                  "text": "Serge Constantin Theatre, ein Gemeinschaftstheater in Vacoas, benannt nach einem lokalen Dramatiker, mit kreolischen Stücken.",
-                  "category": "cultural",
-                  "coords": [
-                        57.495148,
-                        -20.294622
-                  ]
-            },
-            {
-                  "name": "Farqhuar House",
-                  "text": "Farqhuar House, eine Plantagenvilla aus dem 19. Jahrhundert in Vacoas im Stil eines schottischen Schlosses, in einem Park gelegen.",
-                  "category": "castle",
-                  "coords": [
-                        57.495066,
-                        -20.290289
-                  ]
-            },
-            {
-                  "name": "Masonic Lodge",
-                  "text": "Masonic Lodge, ein historischer Freimaurertempel in Vacoas, der heute ein Museum mit Freimaurerartefakten beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        57.498883,
-                        -20.283276
-                  ]
-            },
-            {
-                  "name": "Candos Hill",
-                  "text": "Candos Hill in Vacoas ist ein bewaldeter Hügel mit Wanderwegen und einem Picknickplatz.",
-                  "category": "natural",
-                  "coords": [
-                        57.482576,
-                        -20.276191
-                  ]
-            },
-            {
-                  "name": "Indira Gandhi Centre for Indian Culture",
-                  "text": "Indira Gandhi Centre for Indian Culture, ein Kulturzentrum in Vacoas mit indischen Tanz- und Musikkursen in einem modernen Komplex.",
-                  "category": "landmark",
-                  "coords": [
-                        57.497077,
-                        -20.283384
-                  ]
-            },
-            {
-                  "name": "Clarisse house",
-                  "text": "Clarisse house, ein koloniales Kreolenhaus in Vacoas mit Veranda und kunstvollen Holzarbeiten, erbaut anfang des 20. Jahrhunderts.",
-                  "category": "historical",
-                  "coords": [
-                        57.503034,
-                        -20.294908
-                  ]
-            },
-            {
-                  "name": "Triangle of Peace",
-                  "text": "Triangle of Peace, ein dreieckiger Gedenkpark in Vacoas, der dem Weltfrieden gewidmet ist, mit einem zentralen Springbrunnen.",
-                  "category": "historical",
-                  "coords": [
-                        57.502043,
-                        -20.291265
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "J&J Auditorium",
-                  "text": "J&J Auditorium, egy koncertterem Vacoasban, amely 500 férőhelyes teremben ad otthont klasszikus zenei előadásoknak.",
-                  "category": "cultural",
-                  "coords": [
-                        57.491283,
-                        -20.27855
-                  ]
-            },
-            {
-                  "name": "Serge Constantin Theatre",
-                  "text": "Serge Constantin Theatre, egy közösségi színház Vacoasban, egy helyi drámaíróról elnevezve, kreol színdarabokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        57.495148,
-                        -20.294622
-                  ]
-            },
-            {
-                  "name": "Farqhuar House",
-                  "text": "Farqhuar House, egy 19. századi ültetvényvilla Vacoasban, skót kastély stílusában, parkban elhelyezve.",
-                  "category": "castle",
-                  "coords": [
-                        57.495066,
-                        -20.290289
-                  ]
-            },
-            {
-                  "name": "Masonic Lodge",
-                  "text": "Masonic Lodge, egy történelmi szabadkőműves templom Vacoasban, ma szabadkőműves tárgyak múzeuma.",
-                  "category": "museum",
-                  "coords": [
-                        57.498883,
-                        -20.283276
-                  ]
-            },
-            {
-                  "name": "Candos Hill",
-                  "text": "Candos-hegy Vacoasban egy erdős domb gyalogösvényekkel és piknikezőhellyel.",
-                  "category": "natural",
-                  "coords": [
-                        57.482576,
-                        -20.276191
-                  ]
-            },
-            {
-                  "name": "Indira Gandhi Centre for Indian Culture",
-                  "text": "Indira Gandhi Centre for Indian Culture, egy indiai kulturális központ Vacoasban, indiai tánc- és zeneórákkal egy modern komplexumban.",
-                  "category": "landmark",
-                  "coords": [
-                        57.497077,
-                        -20.283384
-                  ]
-            },
-            {
-                  "name": "Clarisse house",
-                  "text": "Clarisse house, egy gyarmati kreol ház Vacoasban, tornáccal és díszes fa díszítéssel, a 20. század elején épült.",
-                  "category": "historical",
-                  "coords": [
-                        57.503034,
-                        -20.294908
-                  ]
-            },
-            {
-                  "name": "Triangle of Peace",
-                  "text": "Triangle of Peace, egy háromszög alakú emlékpark Vacoasban, a világbékének szentelve, központi szökőkúttal.",
-                  "category": "historical",
-                  "coords": [
-                        57.502043,
-                        -20.291265
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "J&J Auditorium",
-                  "text": "J&J Auditorium, o sală de concerte în Vacoas care găzduiește spectacole de muzică clasică într-o sală de 500 de locuri.",
-                  "category": "cultural",
-                  "coords": [
-                        57.491283,
-                        -20.27855
-                  ]
-            },
-            {
-                  "name": "Serge Constantin Theatre",
-                  "text": "Serge Constantin Theatre, un teatru comunitar în Vacoas, numit după un dramaturg local, cu piese în creolă.",
-                  "category": "cultural",
-                  "coords": [
-                        57.495148,
-                        -20.294622
-                  ]
-            },
-            {
-                  "name": "Farqhuar House",
-                  "text": "Farqhuar House, o vilă de plantație din secolul al XIX-lea în Vacoas, construită în stilul unui castel scoțian, așezată într-un parc.",
-                  "category": "castle",
-                  "coords": [
-                        57.495066,
-                        -20.290289
-                  ]
-            },
-            {
-                  "name": "Masonic Lodge",
-                  "text": "Masonic Lodge, un templu istoric mason în Vacoas, care găzduiește acum un muzeu al artefactelor masonice.",
-                  "category": "museum",
-                  "coords": [
-                        57.498883,
-                        -20.283276
-                  ]
-            },
-            {
-                  "name": "Candos Hill",
-                  "text": "Candos Hill din Vacoas este un deal împădurit cu trasee de mers pe jos și un loc de picnic.",
-                  "category": "natural",
-                  "coords": [
-                        57.482576,
-                        -20.276191
-                  ]
-            },
-            {
-                  "name": "Indira Gandhi Centre for Indian Culture",
-                  "text": "Indira Gandhi Centre for Indian Culture, un centru cultural indian în Vacoas, cu cursuri de dans și muzică indiană într-un complex modern.",
-                  "category": "landmark",
-                  "coords": [
-                        57.497077,
-                        -20.283384
-                  ]
-            },
-            {
-                  "name": "Clarisse house",
-                  "text": "Clarisse house, o casă colonială creolă în Vacoas, cu verandă și lucrări ornamentale din lemn, construită la începutul secolului XX.",
-                  "category": "historical",
-                  "coords": [
-                        57.503034,
-                        -20.294908
-                  ]
-            },
-            {
-                  "name": "Triangle of Peace",
-                  "text": "Triangle of Peace, un parc memorial triunghiular în Vacoas, dedicat păcii mondiale, cu o fântână centrală.",
-                  "category": "historical",
-                  "coords": [
-                        57.502043,
-                        -20.291265
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "J&J Auditorium",
-                  "text": "J&J Auditorium, a concert hall in Vacoas hosting classical music performances in a 500-seat venue.",
-                  "category": "cultural",
-                  "coords": [
-                        57.491283,
-                        -20.27855
-                  ]
-            },
-            {
-                  "name": "Serge Constantin Theatre",
-                  "text": "Serge Constantin Theatre, a community theatre in Vacoas named after a local playwright, staging Creole productions.",
-                  "category": "cultural",
-                  "coords": [
-                        57.495148,
-                        -20.294622
-                  ]
-            },
-            {
-                  "name": "Farqhuar House",
-                  "text": "Farqhuar House, a 19th-century plantation mansion in Vacoas built in the style of a Scottish castle, set in a park.",
-                  "category": "castle",
-                  "coords": [
-                        57.495066,
-                        -20.290289
-                  ]
-            },
-            {
-                  "name": "Masonic Lodge",
-                  "text": "Masonic Lodge, a historic masonic temple in Vacoas now housing a museum of Freemasonry artefacts.",
-                  "category": "museum",
-                  "coords": [
-                        57.498883,
-                        -20.283276
-                  ]
-            },
-            {
-                  "name": "Candos Hill",
-                  "text": "Candos Hill in Vacoas is a forested hill with walking trails and a picnic spot.",
-                  "category": "natural",
-                  "coords": [
-                        57.482576,
-                        -20.276191
-                  ]
-            },
-            {
-                  "name": "Indira Gandhi Centre for Indian Culture",
-                  "text": "Indira Gandhi Centre for Indian Culture, a cultural centre in Vacoas offering Indian dance and music classes in a modern complex.",
-                  "category": "landmark",
-                  "coords": [
-                        57.497077,
-                        -20.283384
-                  ]
-            },
-            {
-                  "name": "Clarisse house",
-                  "text": "Clarisse house, a colonial Creole house in Vacoas with a veranda and ornate woodwork, built in the early 20th century.",
-                  "category": "historical",
-                  "coords": [
-                        57.503034,
-                        -20.294908
-                  ]
-            },
-            {
-                  "name": "Triangle of Peace",
-                  "text": "Triangle of Peace, a triangular memorial park in Vacoas dedicated to world peace, with a central fountain.",
-                  "category": "historical",
-                  "coords": [
-                        57.502043,
-                        -20.291265
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "MU",
     type: "town",
@@ -1392,15 +1028,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Clarisse house",
-                  "text": "Clarisse house, ein koloniales Holzhaus in Curepipe aus dem 19. Jahrhundert, heute als Kulturzentrum genutzt.",
-                  "category": "historical",
-                  "coords": [
-                        57.503034,
-                        -20.294908
-                  ]
-            },
-            {
                   "name": "The Millenium Tower",
                   "text": "The Millenium Tower, ein 40 Meter hoher Glockenturm in Curepipe, errichtet im Jahr 2000 zur Jahrtausendwende.",
                   "category": "historical",
@@ -1445,15 +1072,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.516409,
                         -20.319684
-                  ]
-            },
-            {
-                  "name": "Clarisse house",
-                  "text": "Clarisse house, egy 19. századi gyarmati faház Curepipe-ban, ma kulturális központként működik.",
-                  "category": "historical",
-                  "coords": [
-                        57.503034,
-                        -20.294908
                   ]
             },
             {
@@ -1504,15 +1122,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Clarisse house",
-                  "text": "Clarisse house, o casă colonială din lemn din secolul al XIX-lea în Curepipe, acum folosită ca centru cultural.",
-                  "category": "historical",
-                  "coords": [
-                        57.503034,
-                        -20.294908
-                  ]
-            },
-            {
                   "name": "The Millenium Tower",
                   "text": "The Millenium Tower, un turn cu ceas de 40 de metri în Curepipe, ridicat în anul 2000 pentru a marca mileniul.",
                   "category": "historical",
@@ -1557,15 +1166,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.516409,
                         -20.319684
-                  ]
-            },
-            {
-                  "name": "Clarisse house",
-                  "text": "Clarisse house, a 19th-century colonial wooden house in Curepipe, now used as a cultural venue.",
-                  "category": "historical",
-                  "coords": [
-                        57.503034,
-                        -20.294908
                   ]
             },
             {
@@ -1633,230 +1233,10 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-triolet-town-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Blue Safari Submarine",
-                  "text": "Blue Safari Submarine, eine U-Boot-Tour ab Triolet, die zu einem Korallenriff und einem Schiffswrack taucht.",
-                  "category": "landmark",
-                  "coords": [
-                        57.550378,
-                        -20.02561
-                  ]
-            },
-            {
-                  "name": "Public Beach",
-                  "text": "Dieser öffentliche Strand in Triolet ist ein gut zugänglicher Küstenrückzugsort und bietet ein einladendes Stück Mauritius. Die Atmosphäre ist meist entspannt und familienfreundlich, da hier viele Einheimische ihre Freizeit verbringen. Gäste finden den Ort ideal zum ungezwungenen Sonnenbaden, für kurze Schwimmeinheiten und um die Meeresbrise zu genießen. Am besten genießt man ihn an einem sonnigen Nachmittag mit Freunden oder der Familie.",
-                  "category": "landmark",
-                  "coords": [
-                        57.54862,
-                        -20.026042
-                  ]
-            },
-            {
-                  "name": "Trou aux Biches Public Beach",
-                  "text": "Der in der Gegend von Triolet bekannte Trou aux Biches Public Beach sticht als bezaubernder Sandstrand auf Mauritius hervor. Es erwartet Sie eine lebhafte, aber dennoch einladende Umgebung, die sanfte Entspannung mühelos mit Erholung an der Küste verbindet. Es ist ein fantastisches Ziel für erfrischendes Schwimmen, lange Strandspaziergänge und ausgiebiges Sonnenbaden in der tropischen Sonne. Am frühen Morgen erlebt man hier die friedlichsten Momente am Wasser.",
-                  "category": "landmark",
-                  "coords": [
-                        57.544187,
-                        -20.034802
-                  ]
-            },
-            {
-                  "name": "Piments Public Beach",
-                  "text": "Der Piments Public Beach ziert die Küste von Triolet und bietet einen herrlichen Ort, um sich auf Mauritius mit dem Indischen Ozean zu verbinden. Die Grundstimmung ist im Allgemeinen entspannt und lädt sowohl zum ruhigen Verweilen als auch zu fröhlichen Familienausflügen ein. Wer hier Zeit verbringt, kann sich auf herrliche Badegänge und gemütliches Sonnenbaden im warmen Sand freuen. Packen Sie das Wichtigste ein und machen Sie sich am späten Nachmittag auf den Weg, um das wechselnde Licht zu genießen.",
-                  "category": "landmark",
-                  "coords": [
-                        57.540971,
-                        -20.041216
-                  ]
-            },
-            {
-                  "name": "Pointe aux Piments Public Beach 2",
-                  "text": "Als alternativer Küstenabschnitt in Triolet bietet der Pointe aux Piments Public Beach 2 ein eher unauffälliges Stranderlebnis auf Mauritius. Besucher treffen meist auf eine friedliche Atmosphäre, die es leicht macht, sich von den belebteren Nachbarstränden zurückzuziehen. Er ist ein hervorragender Ort für ein ruhiges Bad im Meer oder um beim Sonnenbaden ein Buch zu lesen. Plant man einen Besuch außerhalb der Stoßzeiten, stellt sich ein noch größeres Gefühl der Ruhe ein.",
-                  "category": "landmark",
-                  "coords": [
-                        57.5227,
-                        -20.050408
-                  ]
-            },
-            {
-                  "name": "Trou aux Biches Resort & Spa",
-                  "text": "Strandresort mit einem langen Sandstrand an der Nordwestküste bei Triolet.",
-                  "category": "landmark",
-                  "coords": [
-                        57.546779,
-                        -20.031356
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Blue Safari Submarine",
-                  "text": "Blue Safari Submarine, egy tengeralattjáró-túra Triolet-ből, amely egy korallzátonyhoz és egy roncsba merül.",
-                  "category": "landmark",
-                  "coords": [
-                        57.550378,
-                        -20.02561
-                  ]
-            },
-            {
-                  "name": "Public Beach",
-                  "text": "A Triolet városában található, könnyen megközelíthető Public Beach egy hívogató szeletet nyújt Mauritiusból. A légkör jellemzően nyugodt és családbarát, ahová a helyiek is szívesen járnak kikapcsolódni. A vendégek ideálisnak fogják találni egy kis napozásra, rövid úszásokra és a tengerparti szellő élvezetére. Egy napsütéses délutánon a legjobb itt lenni a barátok vagy a család társaságában.",
-                  "category": "landmark",
-                  "coords": [
-                        57.54862,
-                        -20.026042
-                  ]
-            },
-            {
-                  "name": "Trou aux Biches Public Beach",
-                  "text": "A Triolet térségében híres Trou aux Biches Public Beach Mauritius egyik bájos homokos partszakaszaként tűnik ki. Élettel teli, mégis hívogató környezetre számíthatunk, amely könnyedén ötvözi a finom pihenést a tengerparti kikapcsolódással. Fantasztikus úti cél frissítő úszásokhoz, hosszú parti sétákhoz és a trópusi napfény élvezetéhez. A kora reggeli órák kínálják a legbékésebb pillanatokat a vízparton.",
-                  "category": "landmark",
-                  "coords": [
-                        57.544187,
-                        -20.034802
-                  ]
-            },
-            {
-                  "name": "Piments Public Beach",
-                  "text": "A Triolet partjait díszítő Piments Public Beach csodálatos helyet kínál a Mauritiuson lévő Indiai-óceánnal való kapcsolódásra. A hangulat általában laza, amely egyaránt hívogat lassú szemlélődésre és vidám családi kirándulásokra. Az itt eltöltött idő alatt kellemes úszásokban és kényelmes napozásban lehet részünk a meleg homokon. Érdemes becsomagolni néhány alapvető holmit, és késő délután elindulni, hogy élvezhessük a változó fényeket.",
-                  "category": "landmark",
-                  "coords": [
-                        57.540971,
-                        -20.041216
-                  ]
-            },
-            {
-                  "name": "Pointe aux Piments Public Beach 2",
-                  "text": "A Triolet egyik alternatív szakaszaként a Pointe aux Piments Public Beach 2 egy diszkrétebb tengerparti élményt nyújt Mauritiuson. A látogatók általában békés légkörrel találkoznak, ami megkönnyíti a forgalmasabb közeli helyektől való elszakadást. Pompás hely egy csendes megmártózáshoz a tengerben, vagy egy könyv olvasásához napozás közben. A csúcsidőn kívüli látogatás még erőteljesebb nyugalmat biztosít.",
-                  "category": "landmark",
-                  "coords": [
-                        57.5227,
-                        -20.050408
-                  ]
-            },
-            {
-                  "name": "Trou aux Biches Resort & Spa",
-                  "text": "Tengerparti üdülőhely hosszú homokos parttal a Triolet melletti északnyugati parton.",
-                  "category": "landmark",
-                  "coords": [
-                        57.546779,
-                        -20.031356
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Blue Safari Submarine",
-                  "text": "Blue Safari Submarine, un tur cu submarin care pleacă din Triolet și se scufundă la un recif de corali și o epavă.",
-                  "category": "landmark",
-                  "coords": [
-                        57.550378,
-                        -20.02561
-                  ]
-            },
-            {
-                  "name": "Public Beach",
-                  "text": "Servind ca un refugiu de coastă accesibil în Triolet, această Public Beach oferă o felie primitoare din Mauritius. Atmosfera tinde de obicei către o vibrație relaxată, prietenoasă cu familiile, unde localnicii vin să se odihnească. Oaspeții o vor găsi potrivită pentru plajă obișnuită, înoturi scurte și pentru a se bucura de briza oceanului. Cel mai bine este să o vizitați într-o după-amiază însorită cu prietenii sau familia.",
-                  "category": "landmark",
-                  "coords": [
-                        57.54862,
-                        -20.026042
-                  ]
-            },
-            {
-                  "name": "Trou aux Biches Public Beach",
-                  "text": "Renumită în zona Triolet, Trou aux Biches Public Beach se remarcă ca o fâșie fermecătoare de nisip în Mauritius. Așteptați-vă la un cadru plin de viață, dar primitor, care îmbină fără efort relaxarea blândă cu recreerea pe coastă. Este o destinație fantastică pentru înoturi răcoritoare, plimbări lungi pe țărm și pentru a vă lăsa mângâiați de soarele tropical. Diminețile devreme oferă aici cele mai pașnice momente la malul apei.",
-                  "category": "landmark",
-                  "coords": [
-                        57.544187,
-                        -20.034802
-                  ]
-            },
-            {
-                  "name": "Piments Public Beach",
-                  "text": "Împodobind țărmurile din Triolet, Piments Public Beach oferă un loc minunat pentru a te conecta cu Oceanul Indian din Mauritius. Atmosfera generală este de obicei relaxată, invitând atât la contemplare lentă, cât și la ieșiri vesele în familie. Petrecerea timpului aici permite sesiuni încântătoare de înot și băi de soare confortabile pe nisipul cald. Împachetați câteva lucruri esențiale și mergeți la sfârșitul după-amiezii pentru a vă bucura de lumina schimbătoare.",
-                  "category": "landmark",
-                  "coords": [
-                        57.540971,
-                        -20.041216
-                  ]
-            },
-            {
-                  "name": "Pointe aux Piments Public Beach 2",
-                  "text": "Ca o porțiune alternativă în Triolet, Pointe aux Piments Public Beach 2 oferă o experiență de coastă mai discretă în Mauritius. Vizitatorii întâlnesc de obicei o atmosferă pașnică care face ușoară îndepărtarea de locurile din apropiere, mai aglomerate. Este o locație splendidă pentru o baie liniștită în mare sau pentru a citi o carte în timp ce faceți plajă. Planificarea unei vizite în afara orelor de vârf oferă un sentiment de liniște și mai puternic.",
-                  "category": "landmark",
-                  "coords": [
-                        57.5227,
-                        -20.050408
-                  ]
-            },
-            {
-                  "name": "Trou aux Biches Resort & Spa",
-                  "text": "Stațiune de plajă cu o plajă lungă de nisip pe coasta de nord-vest lângă Triolet.",
-                  "category": "landmark",
-                  "coords": [
-                        57.546779,
-                        -20.031356
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Blue Safari Submarine",
-                  "text": "Blue Safari Submarine, a submarine tour departing from Triolet that dives to a coral reef and a shipwreck.",
-                  "category": "landmark",
-                  "coords": [
-                        57.550378,
-                        -20.02561
-                  ]
-            },
-            {
-                  "name": "Public Beach",
-                  "text": "Serving as an accessible coastal retreat in Triolet, this Public Beach provides a welcoming slice of Mauritius. The atmosphere typically leans toward a relaxed, family-friendly vibe where locals come to unwind. Guests will find it suitable for casual sunbathing, brief swims, and taking in the ocean breeze. It is best enjoyed on a sunny afternoon with friends or family.",
-                  "category": "landmark",
-                  "coords": [
-                        57.54862,
-                        -20.026042
-                  ]
-            },
-            {
-                  "name": "Trou aux Biches Public Beach",
-                  "text": "Famous in the Triolet area, Trou aux Biches Public Beach stands out as a charming stretch of sand in Mauritius. Expect a lively yet inviting setting that effortlessly mixes gentle relaxation with coastal recreation. It is a fantastic destination for refreshing swims, long shoreline walks, and basking in the tropical sun. Early mornings here offer the most peaceful moments by the water.",
-                  "category": "landmark",
-                  "coords": [
-                        57.544187,
-                        -20.034802
-                  ]
-            },
-            {
-                  "name": "Piments Public Beach",
-                  "text": "Gracing the shores of Triolet, Piments Public Beach provides a lovely spot to connect with the Indian Ocean in Mauritius. The ambient mood is generally laid-back, inviting both slow-paced contemplation and joyful family outings. Spending time here allows for delightful swimming sessions and comfortable sunbathing on the warm sand. Pack some essentials and head out in the late afternoon to enjoy the changing light.",
-                  "category": "landmark",
-                  "coords": [
-                        57.540971,
-                        -20.041216
-                  ]
-            },
-            {
-                  "name": "Pointe aux Piments Public Beach 2",
-                  "text": "As an alternative stretch in Triolet, Pointe aux Piments Public Beach 2 offers a more discrete coastal experience in Mauritius. Visitors usually encounter a peaceful atmosphere that makes it easy to step away from busier nearby spots. It is a splendid location for a quiet dip in the sea or reading a book while sunbathing. Planning a visit during off-peak hours provides an even stronger sense of tranquility.",
-                  "category": "landmark",
-                  "coords": [
-                        57.5227,
-                        -20.050408
-                  ]
-            },
-            {
-                  "name": "Trou aux Biches Resort & Spa",
-                  "text": "Beach resort with a long sandy shore on the northwest coast near Triolet.",
-                  "category": "landmark",
-                  "coords": [
-                        57.546779,
-                        -20.031356
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "MU",
     type: "village",
@@ -2166,33 +1546,6 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-saint-pierre-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Pieter Both",
-                  "text": "Pieter Both ist ein markanter Berggipfel in Saint Pierre und der zweithöchste Berg auf Mauritius.",
-                  "category": "natural",
-                  "coords": [
-                        57.556115,
-                        -20.191316
-                  ]
-            },
-            {
-                  "name": "Creve Coeur",
-                  "text": "Creve Coeur ist ein natürlicher Berggipfel, der sich über Saint Pierre erhebt.",
-                  "category": "natural",
-                  "coords": [
-                        57.551237,
-                        -20.19436
-                  ]
-            },
-            {
-                  "name": "Grand Peak",
-                  "text": "Grand Peak ist ein erhöhter Berggipfel in der Region Saint Pierre.",
-                  "category": "natural",
-                  "coords": [
-                        57.549054,
-                        -20.195621
-                  ]
-            },
-            {
                   "name": "Northern Viewpoint",
                   "text": "Northern Viewpoint ist ein malerischer Aussichtspunkt mit Blick auf die Landschaft von Saint Pierre.",
                   "category": "natural",
@@ -2203,33 +1556,6 @@ export const mauritiusCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Pieter Both",
-                  "text": "A Pieter Both egy kiemelkedő hegycsúcs Saint Pierre-ben, és Mauritius második legmagasabb hegye.",
-                  "category": "natural",
-                  "coords": [
-                        57.556115,
-                        -20.191316
-                  ]
-            },
-            {
-                  "name": "Creve Coeur",
-                  "text": "A Creve Coeur egy természetes hegycsúcs, amely Saint Pierre fölé magasodik.",
-                  "category": "natural",
-                  "coords": [
-                        57.551237,
-                        -20.19436
-                  ]
-            },
-            {
-                  "name": "Grand Peak",
-                  "text": "A Grand Peak egy magaslati hegycsúcs Saint Pierre régiójában.",
-                  "category": "natural",
-                  "coords": [
-                        57.549054,
-                        -20.195621
-                  ]
-            },
             {
                   "name": "Northern Viewpoint",
                   "text": "A Northern Viewpoint egy festői kilátó, ahonnan Saint Pierre tájára nyílik kilátás.",
@@ -2242,33 +1568,6 @@ export const mauritiusCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Pieter Both",
-                  "text": "Pieter Both este un vârf montan proeminent din Saint Pierre și al doilea munte ca înălțime din Mauritius.",
-                  "category": "natural",
-                  "coords": [
-                        57.556115,
-                        -20.191316
-                  ]
-            },
-            {
-                  "name": "Creve Coeur",
-                  "text": "Creve Coeur este un vârf montan natural care se înalță deasupra orașului Saint Pierre.",
-                  "category": "natural",
-                  "coords": [
-                        57.551237,
-                        -20.19436
-                  ]
-            },
-            {
-                  "name": "Grand Peak",
-                  "text": "Grand Peak este un vârf montan elevat situat în regiunea Saint Pierre.",
-                  "category": "natural",
-                  "coords": [
-                        57.549054,
-                        -20.195621
-                  ]
-            },
-            {
                   "name": "Northern Viewpoint",
                   "text": "Northern Viewpoint este un punct de observație pitoresc cu vedere la peisajul din Saint Pierre.",
                   "category": "natural",
@@ -2279,33 +1578,6 @@ export const mauritiusCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Pieter Both",
-                  "text": "Pieter Both is a prominent mountain peak in Saint Pierre and the second-highest mountain in Mauritius.",
-                  "category": "natural",
-                  "coords": [
-                        57.556115,
-                        -20.191316
-                  ]
-            },
-            {
-                  "name": "Creve Coeur",
-                  "text": "Creve Coeur is a natural mountain peak rising above Saint Pierre.",
-                  "category": "natural",
-                  "coords": [
-                        57.551237,
-                        -20.19436
-                  ]
-            },
-            {
-                  "name": "Grand Peak",
-                  "text": "Grand Peak is an elevated mountain peak located in the region of Saint Pierre.",
-                  "category": "natural",
-                  "coords": [
-                        57.549054,
-                        -20.195621
-                  ]
-            },
             {
                   "name": "Northern Viewpoint",
                   "text": "Northern Viewpoint is a scenic observation point overlooking the landscape of Saint Pierre.",
@@ -2362,230 +1634,10 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-le-hochet-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "La Goulet Beach",
-                  "text": "Verankert in der Ortschaft Le Hochet, präsentiert sich der La Goulet Beach als einladende natürliche Küstenlinie auf der Insel Mauritius. Das allgemeine Gefühl hier ist ruhig und authentisch und fängt den alltäglichen Rhythmus der Küste dieser Gegend ein. Er eignet sich hervorragend für gemütliches Schwimmen, um den Sand unter den Füßen zu spüren und abseits der großen Resorts zu entspannen. Mit einem Handtuch und etwas Wasser ausgestattet, wird ein warmer Sommermorgen zu einem wunderbaren Ausflug.",
-                  "category": "recreational",
-                  "coords": [
-                        57.51749,
-                        -20.105389
-                  ]
-            },
-            {
-                  "name": "Rivulet Terre Rouge Bird Sanctuary",
-                  "text": "Vogelschutzgebiet entlang des Flusses Rivulet Terre Rouge bei Le Hochet.",
-                  "category": "landmark",
-                  "coords": [
-                        57.503712,
-                        -20.142496
-                  ]
-            },
-            {
-                  "name": "Public Beach",
-                  "text": "Dieser öffentliche Strand in Le Hochet bietet einen freien Zugang zum Wasser und ist ein funktionaler und freundlicher Treffpunkt an der Küste von Mauritius. Erwarten Sie eine ausgesprochen lokale Atmosphäre, die oft von Familien und Anwohnern geprägt ist, die ihre Freizeit genießen. Sie können hier auf jeden Fall ein entspanntes Sonnenbad, eine schnelle Abkühlung im Wasser oder einen leichten Strandspaziergang einplanen. An den Wochenenden geht es oft lebhafter zu, weshalb sich ein Besuch unter der Woche für mehr Einsamkeit anbietet.",
-                  "category": "landmark",
-                  "coords": [
-                        57.497195,
-                        -20.123259
-                  ]
-            },
-            {
-                  "name": "Eden Garden Culture and Entertainment Square",
-                  "text": "Kulturplatz mit Gärten und Veranstaltungsfläche in Le Hochet.",
-                  "category": "cultural",
-                  "coords": [
-                        57.514115,
-                        -20.108871
-                  ]
-            },
-            {
-                  "name": "Chinatown Arch",
-                  "text": "Traditioneller chinesischer Bogen am Eingang der Chinatown in Le Hochet.",
-                  "category": "historical",
-                  "coords": [
-                        57.507216,
-                        -20.158035
-                  ]
-            },
-            {
-                  "name": "Fort Albert",
-                  "text": "Historisches Fort mit Blick auf die Bucht in Le Hochet.",
-                  "category": "historical",
-                  "coords": [
-                        57.497613,
-                        -20.12713
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "La Goulet Beach",
-                  "text": "A Le Hochet településen horgonyt vető La Goulet Beach egy hívogató természetes partvonalat mutat be Mauritius szigetén. Az itteni általános érzés nyugodt és hiteles, megragadva a környék mindennapi tengerparti ritmusát. Jól szolgál a kényelmes úszáshoz, a homok tapintásához a talpunk alatt, és a nagy üdülőhelyektől távoli pihenéshez. Ha hozunk egy törölközőt és egy kis vizet egy meleg nyári reggelen, csodálatos kirándulásban lehet részünk.",
-                  "category": "recreational",
-                  "coords": [
-                        57.51749,
-                        -20.105389
-                  ]
-            },
-            {
-                  "name": "Rivulet Terre Rouge Bird Sanctuary",
-                  "text": "Madárrezervátum a Rivulet Terre Rouge folyó mentén Le Hochet közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        57.503712,
-                        -20.142496
-                  ]
-            },
-            {
-                  "name": "Public Beach",
-                  "text": "A Le Hochet vizéhez nyílt hozzáférést biztosító Public Beach egy funkcionális és barátságos tengerparti találkozóhely Mauritiuson. Határozottan helyi hangulatra számíthatunk, ahol gyakran látni családokat és lakosokat, akik a szabadidejüket élvezik. Bátran tervezhetünk ide egy nyugodt napozást, egy gyors lehűlést a vízben, vagy egy kellemes tengerparti sétát. A hétvégék általában mozgalmasabbak, ezért érdemes hétköznap ellátogatni, ha a magányt részesítjük előnyben.",
-                  "category": "landmark",
-                  "coords": [
-                        57.497195,
-                        -20.123259
-                  ]
-            },
-            {
-                  "name": "Eden Garden Culture and Entertainment Square",
-                  "text": "Kulturális tér kertekkel és előadóterekkel Le Hochetben.",
-                  "category": "cultural",
-                  "coords": [
-                        57.514115,
-                        -20.108871
-                  ]
-            },
-            {
-                  "name": "Chinatown Arch",
-                  "text": "Hagyományos kínai ívkapu a kínai negyed bejáratánál Le Hochetben.",
-                  "category": "historical",
-                  "coords": [
-                        57.507216,
-                        -20.158035
-                  ]
-            },
-            {
-                  "name": "Fort Albert",
-                  "text": "Történelmi erőd az öbölre néző Le Hochetben.",
-                  "category": "historical",
-                  "coords": [
-                        57.497613,
-                        -20.12713
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "La Goulet Beach",
-                  "text": "Ancorată în localitatea Le Hochet, La Goulet Beach prezintă un țărm natural primitor pe insula Mauritius. Sentimentul general aici este calm și autentic, surprinzând ritmul de coastă de zi cu zi al zonei. Este perfectă pentru înot de agrement, pentru a simți nisipul sub picioare și pentru a vă relaxa departe de stațiunile mari. Aducerea unui prosop și a unor sticle cu apă într-o dimineață caldă de vară promite o ieșire minunată.",
-                  "category": "recreational",
-                  "coords": [
-                        57.51749,
-                        -20.105389
-                  ]
-            },
-            {
-                  "name": "Rivulet Terre Rouge Bird Sanctuary",
-                  "text": "Sanctuar de păsări de-a lungul râului Rivulet Terre Rouge lângă Le Hochet.",
-                  "category": "landmark",
-                  "coords": [
-                        57.503712,
-                        -20.142496
-                  ]
-            },
-            {
-                  "name": "Public Beach",
-                  "text": "Oferind acces deschis la apă în Le Hochet, această Public Beach este un punct de adunare pe coastă, funcțional și prietenos din Mauritius. Așteptați-vă la o vibrație categoric locală, adesea presărată cu familii și rezidenți care se bucură de timpul lor liber. Puteți planifica cu siguranță o plajă relaxată, o răcorire rapidă în apă sau o plimbare ușoară pe malul apei. Sfârșiturile de săptămână tind să fie mai pline de viață, așa că vizitați-o într-o zi lucrătoare dacă preferați singurătatea.",
-                  "category": "landmark",
-                  "coords": [
-                        57.497195,
-                        -20.123259
-                  ]
-            },
-            {
-                  "name": "Eden Garden Culture and Entertainment Square",
-                  "text": "Piață culturală cu grădini și spațiu pentru spectacole în Le Hochet.",
-                  "category": "cultural",
-                  "coords": [
-                        57.514115,
-                        -20.108871
-                  ]
-            },
-            {
-                  "name": "Chinatown Arch",
-                  "text": "Arc tradițional chinezesc marcând intrarea în Chinatown în Le Hochet.",
-                  "category": "historical",
-                  "coords": [
-                        57.507216,
-                        -20.158035
-                  ]
-            },
-            {
-                  "name": "Fort Albert",
-                  "text": "Fort istoric cu vedere spre golf în Le Hochet.",
-                  "category": "historical",
-                  "coords": [
-                        57.497613,
-                        -20.12713
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "La Goulet Beach",
-                  "text": "Anchored in the locale of Le Hochet, La Goulet Beach presents an inviting natural shoreline on the island of Mauritius. The general feeling here is calm and authentic, capturing the everyday coastal rhythm of the area. It serves well for leisurely swimming, feeling the sand beneath your feet, and relaxing away from grand resorts. Bringing a towel and some water for a warm summer morning makes for a wonderful outing.",
-                  "category": "recreational",
-                  "coords": [
-                        57.51749,
-                        -20.105389
-                  ]
-            },
-            {
-                  "name": "Rivulet Terre Rouge Bird Sanctuary",
-                  "text": "Bird sanctuary along the Rivulet Terre Rouge river near Le Hochet.",
-                  "category": "landmark",
-                  "coords": [
-                        57.503712,
-                        -20.142496
-                  ]
-            },
-            {
-                  "name": "Public Beach",
-                  "text": "Providing open access to the water in Le Hochet, this Public Beach is a functional and friendly coastal gathering point in Mauritius. Expect a decidedly local vibe, often dotted with families and residents enjoying their free time. You can definitely plan for relaxed sunbathing, a quick cool-down in the water, or a gentle waterfront stroll. Weekends tend to be livelier, so visit on a weekday if you prefer solitude.",
-                  "category": "landmark",
-                  "coords": [
-                        57.497195,
-                        -20.123259
-                  ]
-            },
-            {
-                  "name": "Eden Garden Culture and Entertainment Square",
-                  "text": "Cultural square with gardens and performance space in Le Hochet.",
-                  "category": "cultural",
-                  "coords": [
-                        57.514115,
-                        -20.108871
-                  ]
-            },
-            {
-                  "name": "Chinatown Arch",
-                  "text": "Traditional Chinese arch marking the entrance to Chinatown in Le Hochet.",
-                  "category": "historical",
-                  "coords": [
-                        57.507216,
-                        -20.158035
-                  ]
-            },
-            {
-                  "name": "Fort Albert",
-                  "text": "Historical fort overlooking the bay in Le Hochet.",
-                  "category": "historical",
-                  "coords": [
-                        57.497613,
-                        -20.12713
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "MU",
     type: "village",
@@ -2722,50 +1774,10 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-rose-belle-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Mont Vernon",
-                  "text": "Mount Vernon in Rose Belle ist ein Hügel in den Zuckerrohrfeldern mit Blick auf die umliegenden Ebenen.",
-                  "category": "natural",
-                  "coords": [
-                        57.623121,
-                        -20.387578
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mont Vernon",
-                  "text": "Mount Vernon Rose Belle-ben egy domb a cukornádmezőkben, kilátással a környező síkságokra.",
-                  "category": "natural",
-                  "coords": [
-                        57.623121,
-                        -20.387578
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Mont Vernon",
-                  "text": "Mount Vernon din Rose Belle este o colină în câmpurile de trestie de zahăr, oferind vederi asupra câmpiilor din jur.",
-                  "category": "natural",
-                  "coords": [
-                        57.623121,
-                        -20.387578
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mount Vernon",
-                  "text": "Mount Vernon in Rose Belle is a hillock in the sugarcane fields, offering views of the surrounding plains.",
-                  "category": "natural",
-                  "coords": [
-                        57.623121,
-                        -20.387578
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "MU",
     type: "village",
@@ -2974,50 +1986,10 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-riviere-du-rempart-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Skydive Austral",
-                  "text": "Skydive Austral ist eine Fallschirmsprung-Attraktion, die Flugerlebnisse in Rivière du Rempart anbietet.",
-                  "category": "landmark",
-                  "coords": [
-                        57.684104,
-                        -20.124181
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Skydive Austral",
-                  "text": "A Skydive Austral egy ejtőernyős látványosság, amely légi élményeket kínál Rivière du Rempart területén.",
-                  "category": "landmark",
-                  "coords": [
-                        57.684104,
-                        -20.124181
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Skydive Austral",
-                  "text": "Skydive Austral este o atracție de parașutism care oferă experiențe aeriene în Rivière du Rempart.",
-                  "category": "landmark",
-                  "coords": [
-                        57.684104,
-                        -20.124181
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Skydive Austral",
-                  "text": "Skydive Austral is a skydiving attraction offering aerial experiences in Rivière du Rempart.",
-                  "category": "landmark",
-                  "coords": [
-                        57.684104,
-                        -20.124181
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "MU",
     type: "village",
@@ -3066,30 +2038,12 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-grand-baie-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Mont Choisy Beach",
-                  "text": "Der Mont Choisy Beach spannt sich in einem großzügigen Bogen in Grand Baie und ist ein Highlight der mauritischen Küste. Besucher spüren sofort die lebhafte und dennoch weitläufige Atmosphäre, die von majestätischen Kasuarinen beschattet wird. Man darf hervorragende Bedingungen zum Schwimmen in klarem Wasser erwarten, ebenso wie reichlich Platz zum Sonnenbaden und für Joggingrunden am Strand. Eine Ankunft rechtzeitig zum Sonnenuntergang sorgt für einen wahrhaft unvergesslichen Sommerabend.",
-                  "category": "recreational",
-                  "coords": [
-                        57.555977,
-                        -20.016024
-                  ]
-            },
-            {
                   "name": "La Cuvette Public Beach",
                   "text": "Versteckt wie ein kleines Juwel in Grand Baie, bietet der La Cuvette Public Beach eine intimere Sandbucht auf Mauritius. Die Atmosphäre hier ist im Vergleich zu größeren benachbarten Küstenabschnitten bemerkenswert ruhig und zieht alle an, die einen gemütlichen Rückzugsort suchen. Sanftes Wasser macht es zu einem reizvollen Ort für ein entspanntes Bad, gefolgt von gemütlichem Sonnenbaden auf dem weichen Sand. Ein Besuch an einem Wochentag verspricht eine ruhige und tief erfrischende Auszeit am Tag.",
                   "category": "recreational",
                   "coords": [
                         57.578063,
                         -20.007103
-                  ]
-            },
-            {
-                  "name": "Plage de Mont Choisy",
-                  "text": "Als ein weiterer atemberaubender Teil der Küste von Grand Baie liefert die Plage de Mont Choisy ein geradezu klassisches tropisches Stranderlebnis auf Mauritius. Eine fröhliche und weitläufige Atmosphäre empfängt die Besucher, die sowohl aktiven Strandgängern als auch Ruhesuchenden im Schatten gerecht wird. Man darf sich auf breite Sandstrände freuen, die perfekt für lange Strandspaziergänge und hervorragende Schwimmbedingungen sind. Kommen Sie an einem sonnigen Morgen frühzeitig, um sich den besten Platz unter den Küstenbäumen zu sichern.",
-                  "category": "recreational",
-                  "coords": [
-                        57.554171,
-                        -20.006894
                   ]
             },
             {
@@ -3111,24 +2065,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pointe Egilise",
-                  "text": "Felsige Landspitze mit einer historischen Kirche über Grand Baie.",
-                  "category": "landmark",
-                  "coords": [
-                        57.583732,
-                        -19.994747
-                  ]
-            },
-            {
-                  "name": "Mont Choisy Public Beach",
-                  "text": "Als ein Zentrum der Erholung in Grand Baie, ist der Mont Choisy Public Beach ein geliebter Küstenabschnitt auf Mauritius. Seine weite, geschwungene Bucht fördert eine gemeinschaftliche und fröhliche Atmosphäre, die sowohl für Picknicks am Wochenende als auch für ruhige Ausflüge unter der Woche beliebt ist. Das Schwimmen im sanften, türkisfarbenen Wasser ist ein Genuss, und das sandige Ufer ist ideal, um sich in der Sonne auszustrecken. Wenn man ein leichtes Mittagessen einpackt und bis zum Nachmittag bleibt, wird der Ausflug ans Meer perfekt.",
-                  "category": "landmark",
-                  "coords": [
-                        57.556447,
-                        -20.014407
-                  ]
-            },
-            {
                   "name": "Grand Baie Public Beach",
                   "text": "Mitten im geschäftigen Zentrum von Grand Baie gelegen, bietet dieser öffentliche Strand ein unglaublich zugängliches Bad im mauritischen Meer. Die Umgebung ist stets lebhaft und reizvoll und bietet einen Platz in der ersten Reihe für das tägliche Leben und die maritimen Aktivitäten der Stadt. Auch wenn er weniger abgeschieden ist, bleibt er ein fantastischer Ort, um im Wasser zu planschen, sich kurz zu sonnen und die im Hafen schaukelnden Boote zu beobachten. Ein kurzer Abstecher bei einem sonnigen Stadtbummel ist die beste Art, ihn zu genießen.",
                   "category": "landmark",
@@ -3136,27 +2072,9 @@ export const mauritiusCitiesV2: POI[] = [
                         57.583745,
                         -20.011055
                   ]
-            },
-            {
-                  "name": "Pereybere Public Beach",
-                  "text": "Nur ein kurzes Stück vom Zentrum von Grand Baie entfernt, ist der Pereybere Public Beach auf Mauritius für sein einladendes, tiefes Wasser bekannt. Besucher loben stets die lebendige, jugendliche Energie, die den Strand zu einem Hotspot für Entspannung und Geselligkeit macht. Erwarten Sie phänomenale Schwimmbedingungen in der klaren Bucht und weichen Sand, um sich in der Sonne auszustrecken. Es handelt sich um einen äußerst beliebten Ort, weshalb ein Besuch am frühen Morgen den meisten Platz garantiert.",
-                  "category": "landmark",
-                  "coords": [
-                        57.59076,
-                        -19.993754
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Mont Choisy Beach",
-                  "text": "A Grand Baie-ben széles ívben elterülő Mont Choisy Beach a mauritiusi partvonal egyik fénypontja. A látogatók azonnal megérzik a fenséges kazuárfák által árnyékolt élénk, mégis tágas légkört. Kiváló feltételekre számíthatunk a tiszta vízben való úszáshoz, valamint bőséges helyre a napozáshoz és a parti kocogáshoz. A naplemente idejére történő érkezés igazán felejthetetlen nyári estét varázsol.",
-                  "category": "recreational",
-                  "coords": [
-                        57.555977,
-                        -20.016024
-                  ]
-            },
             {
                   "name": "La Cuvette Public Beach",
                   "text": "A Grand Baie-ben kis ékszerként megbúvó La Cuvette Public Beach egy intimebb homokos öblöt mutat be Mauritiuson. A hangulat itt a nagyobb szomszédos partokhoz képest figyelemre méltóan nyugodt, és azokat vonzza, akik egy hangulatos menedéket keresnek. A szelíd vizek kellemes hellyé teszik egy pihentető úszáshoz, amelyet kényelmes napozás követhet a puha homokon. Egy hétköznapi látogatás csendes és mélyen frissítő nappali menedéket biztosít.",
@@ -3164,15 +2082,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.578063,
                         -20.007103
-                  ]
-            },
-            {
-                  "name": "Plage de Mont Choisy",
-                  "text": "A Grand Baie-i part egy másik lenyűgöző részét alkotó Plage de Mont Choisy hamisítatlan trópusi tengerparti élményt nyújt Mauritiuson. Vidám és tágas légkör fogadja a látogatókat, amely egyaránt kedvez az aktív strandolóknak és a csendes árnyékot keresőknek. Széles homokos sávokra számíthatunk, amelyek tökéletesek a hosszú tengerparti sétákhoz és a kiváló úszási feltételekhez. Érkezzünk korán egy napsütéses reggelen, hogy lefoglaljuk a legjobb helyet a parti fák alatt.",
-                  "category": "recreational",
-                  "coords": [
-                        57.554171,
-                        -20.006894
                   ]
             },
             {
@@ -3194,24 +2103,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pointe Egilise",
-                  "text": "Sziklás félsziget egy történelmi templommal, amely Grand Baie-ra néz.",
-                  "category": "landmark",
-                  "coords": [
-                        57.583732,
-                        -19.994747
-                  ]
-            },
-            {
-                  "name": "Mont Choisy Public Beach",
-                  "text": "A Grand Baie-i kikapcsolódás központjaként a Mont Choisy Public Beach egy kedvelt partszakasz Mauritiuson. Széles, ívelt öble közösségi és vidám légkört teremt, amely népszerű mind a hétvégi piknikek, mind a csendes hétköznapi kiruccanások számára. Az itteni úszás igazi élvezet a lágy, türkizkék vízben, a homokos part pedig ideális a napon való elnyúlásra. Ha csomagolunk egy könnyű ebédet, és délutánig maradunk, tökéletes tengerparti kirándulást varázsolhatunk.",
-                  "category": "landmark",
-                  "coords": [
-                        57.556447,
-                        -20.014407
-                  ]
-            },
-            {
                   "name": "Grand Baie Public Beach",
                   "text": "A nyüzsgő Grand Baie kellős közepén található Public Beach hihetetlenül könnyen megközelíthető csobbanást kínál a mauritiusi tengerbe. A környezet folyamatosan élettel teli és magával ragadó, első sorból kínálva betekintést a város mindennapi életébe és tengeri tevékenységeibe. Bár kevésbé eldugott, mégis fantasztikus hely a vízben való pancsoláshoz, egy rövid napozáshoz, és a kikötőben ringatózó hajók megfigyeléséhez. Egy napsütéses városi séta során betérni a legjobb módja annak, hogy kiélvezzük.",
                   "category": "landmark",
@@ -3219,27 +2110,9 @@ export const mauritiusCitiesV2: POI[] = [
                         57.583745,
                         -20.011055
                   ]
-            },
-            {
-                  "name": "Pereybere Public Beach",
-                  "text": "A Grand Baie központjától csak egy rövid távolságra található Pereybere Public Beach a hívogató, mély vizéről híres Mauritiuson. A látogatók folyamatosan dicsérik az itteni élénk, fiatalos energiát, ami mind a pihenés, mind a társasági élet központjává teszi. Fantasztikus úszási feltételekre számíthatunk a tiszta öbölben, valamint puha homokra, ahol elnyúlhatunk a napon. Rendkívül népszerű hely, így egy kora reggeli látogatás tervezése garantálja a legtöbb helyet.",
-                  "category": "landmark",
-                  "coords": [
-                        57.59076,
-                        -19.993754
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Mont Choisy Beach",
-                  "text": "Întinzându-se într-o curbă generoasă în Grand Baie, Mont Choisy Beach este un punct de atracție al coastei mauritiene. Vizitatorii simt imediat atmosfera vibrantă, dar spațioasă, umbrită de maiestuoșii copaci de Casuarina. Se pot anticipa condiții superbe pentru înot în ape limpezi, precum și spațiu amplu pentru a face plajă și a face jogging pe țărm. Sosirea la timp pentru apusul soarelui creează o seară de vară cu adevărat de neuitat.",
-                  "category": "recreational",
-                  "coords": [
-                        57.555977,
-                        -20.016024
-                  ]
-            },
             {
                   "name": "La Cuvette Public Beach",
                   "text": "Ascunsă ca o mică bijuterie în Grand Baie, La Cuvette Public Beach prezintă un golf de nisip mai intim în Mauritius. Atmosfera de aici este vizibil mai liniștită în comparație cu țărmurile vecine mai mari, atrăgându-i pe cei care caută un refugiu confortabil. Apele blânde fac din acesta un loc încântător pentru o baie relaxantă, urmată de plajă confortabilă pe nisipul moale. Vizitarea într-o zi lucrătoare asigură o evadare de zi liniștită și profund revigorantă.",
@@ -3247,15 +2120,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.578063,
                         -20.007103
-                  ]
-            },
-            {
-                  "name": "Plage de Mont Choisy",
-                  "text": "Formând o altă parte uimitoare a țărmului Grand Baie, Plage de Mont Choisy oferă o experiență de plajă tropicală prin excelență în Mauritius. O atmosferă veselă și expansivă întâmpină vizitatorii, găzduind atât plajistii activi, cât și pe cei care caută umbră liniștită. Puteți aștepta cu nerăbdare întinderi largi de nisip, perfecte pentru plimbări lungi pe litoral și condiții excelente de înot. Ajungeți devreme într-o dimineață însorită pentru a revendica cel mai bun loc sub copacii de coastă.",
-                  "category": "recreational",
-                  "coords": [
-                        57.554171,
-                        -20.006894
                   ]
             },
             {
@@ -3277,24 +2141,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pointe Egilise",
-                  "text": "Promontoriu stâncos cu o biserică istorică privind Grand Baie.",
-                  "category": "landmark",
-                  "coords": [
-                        57.583732,
-                        -19.994747
-                  ]
-            },
-            {
-                  "name": "Mont Choisy Public Beach",
-                  "text": "O piesă centrală pentru recreere în Grand Baie, Mont Choisy Public Beach este o întindere iubită de coastă din Mauritius. Golful său larg și curbat favorizează o atmosferă comunitară și veselă, populară atât pentru picnicuri de weekend, cât și pentru evadări liniștite în timpul săptămânii. Înotul aici este o încântare în apa turcoaz blândă, iar țărmul nisipos este ideal pentru a vă întinde la soare. Împachetarea unui prânz ușor și șederea până după-amiază creează o ieșire perfectă la malul mării.",
-                  "category": "landmark",
-                  "coords": [
-                        57.556447,
-                        -20.014407
-                  ]
-            },
-            {
                   "name": "Grand Baie Public Beach",
                   "text": "Situată chiar în centrul agitatului Grand Baie, această Public Beach oferă o baie incredibil de accesibilă în marea mauritiană. Mediul este în mod constant plin de viață și captivant, oferind un loc în primul rând la viața de zi cu zi și la activitatea maritimă a orașului. Deși mai puțin izolată, rămâne un loc fantastic pentru a vă bălăci în apă, a face plajă scurtă și a privi bărcile care se balansează în port. Să treceți pe aici în timpul unei plimbări însorite prin oraș este cea mai bună modalitate de a vă bucura de ea.",
                   "category": "landmark",
@@ -3302,27 +2148,9 @@ export const mauritiusCitiesV2: POI[] = [
                         57.583745,
                         -20.011055
                   ]
-            },
-            {
-                  "name": "Pereybere Public Beach",
-                  "text": "Situată la doar o scurtă distanță de nucleul Grand Baie, Pereybere Public Beach este renumită pentru apele sale adânci și primitoare din Mauritius. Vizitatorii laudă în mod constant energia vibrantă și tinerească de aici, făcând din ea un punct fierbinte atât pentru relaxare, cât și pentru socializare. Așteptați-vă la condiții fenomenale de înot în golful limpede și nisip moale pentru a sta sub soare. Este un loc foarte popular, așa că planificarea unei vizite dimineața devreme garantează cel mai mult spațiu.",
-                  "category": "landmark",
-                  "coords": [
-                        57.59076,
-                        -19.993754
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Mont Choisy Beach",
-                  "text": "Spanning a generous curve in Grand Baie, Mont Choisy Beach is a highlight of the Mauritian coastline. Visitors immediately feel the vibrant yet spacious atmosphere, shaded by majestic Casuarina trees. One can anticipate superb conditions for swimming in clear waters, as well as ample room for sunbathing and shoreline jogging. Arriving in time for sunset makes for a truly unforgettable summer evening.",
-                  "category": "recreational",
-                  "coords": [
-                        57.555977,
-                        -20.016024
-                  ]
-            },
             {
                   "name": "La Cuvette Public Beach",
                   "text": "Hidden like a small gem in Grand Baie, La Cuvette Public Beach presents a more intimate sandy cove in Mauritius. The vibe here is notably tranquil compared to larger neighboring shores, attracting those seeking a cozy retreat. Gentle waters make it a delightful place for a relaxing swim, followed by comfortable sunbathing on the soft sand. Visiting on a weekday ensures a quiet and deeply refreshing daytime escape.",
@@ -3330,15 +2158,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.578063,
                         -20.007103
-                  ]
-            },
-            {
-                  "name": "Plage de Mont Choisy",
-                  "text": "Forming another stunning part of the Grand Baie shore, Plage de Mont Choisy delivers a quintessential tropical beach experience in Mauritius. A cheerful and expansive atmosphere greets visitors, accommodating both active beachgoers and those seeking quiet shade. You can look forward to broad stretches of sand perfect for long seaside walks and excellent swimming conditions. Arrive early on a sunny morning to claim the best spot under the coastal trees.",
-                  "category": "recreational",
-                  "coords": [
-                        57.554171,
-                        -20.006894
                   ]
             },
             {
@@ -3360,39 +2179,12 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pointe Egilise",
-                  "text": "Rocky point with a historic church overlooking Grand Baie.",
-                  "category": "landmark",
-                  "coords": [
-                        57.583732,
-                        -19.994747
-                  ]
-            },
-            {
-                  "name": "Mont Choisy Public Beach",
-                  "text": "A centerpiece for recreation in Grand Baie, Mont Choisy Public Beach is a beloved stretch of coastline in Mauritius. Its wide, curving bay fosters a communal and joyful atmosphere, popular for both weekend picnics and quiet weekday escapes. Swimming here is a delight in the gentle turquoise water, and the sandy shore is ideal for stretching out in the sun. Packing a light lunch and staying until the afternoon creates a perfect seaside outing.",
-                  "category": "landmark",
-                  "coords": [
-                        57.556447,
-                        -20.014407
-                  ]
-            },
-            {
                   "name": "Grand Baie Public Beach",
                   "text": "Set right in the center of the bustling Grand Baie, this Public Beach offers an incredibly accessible dip into the Mauritian sea. The environment is constantly lively and engaging, offering a front-row seat to the daily life and maritime activity of the town. While less secluded, it remains a fantastic place to paddle in the water, sunbathe briefly, and watch the boats bob in the harbor. Dropping by during a sunny stroll through town is the best way to enjoy it.",
                   "category": "landmark",
                   "coords": [
                         57.583745,
                         -20.011055
-                  ]
-            },
-            {
-                  "name": "Pereybere Public Beach",
-                  "text": "Located just a short distance from the core of Grand Baie, Pereybere Public Beach is renowned for its inviting, deep waters in Mauritius. Visitors consistently praise the vibrant, youthful energy here, making it a hotspot for both relaxation and socializing. Expect phenomenal swimming conditions in the clear bay and soft sand for laying out under the sun. It is a highly popular spot, so planning an early morning visit guarantees the most space.",
-                  "category": "landmark",
-                  "coords": [
-                        57.59076,
-                        -19.993754
                   ]
             }
       ]
@@ -3489,15 +2281,6 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-pailles-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Blue Penny Museum",
-                  "text": "Das Blue Penny Museum in Pailles ist ein Geschichts- und Kunstmuseum, das für die Ausstellung der seltenen Blue-Penny-Briefmarke von 1847 bekannt ist.",
-                  "category": "museum",
-                  "coords": [
-                        57.497501,
-                        -20.160906
-                  ]
-            },
-            {
                   "name": "Photo Museum",
                   "text": "Das Photo Museum ist eine lokale Einrichtung in Pailles, die sich der Ausstellung von Fotografien widmet.",
                   "category": "museum",
@@ -3516,30 +2299,12 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Odysseo",
-                  "text": "Odysseo ist ein öffentliches Aquarium mit Ausstellungen von Meereslebewesen in Pailles.",
-                  "category": "family",
-                  "coords": [
-                        57.494953,
-                        -20.159095
-                  ]
-            },
-            {
                   "name": "Signal Mountain",
                   "text": "Signal Mountain ist ein erhöhter Aussichtspunkt mit weitem Blick über Pailles.",
                   "category": "natural",
                   "coords": [
                         57.492247,
                         -20.174257
-                  ]
-            },
-            {
-                  "name": "Léoville L'Homme",
-                  "text": "Léoville L'Homme ist eine anerkannte Touristenattraktion in der Stadt Pailles.",
-                  "category": "landmark",
-                  "coords": [
-                        57.502202,
-                        -20.163946
                   ]
             },
             {
@@ -3570,15 +2335,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centre d'Arts Caudan",
-                  "text": "Das Centre d'Arts Caudan ist ein bedeutendes Kunstzentrum für die kreative Gemeinschaft in Pailles.",
-                  "category": "cultural",
-                  "coords": [
-                        57.498197,
-                        -20.161979
-                  ]
-            },
-            {
                   "name": "Camp Chapelon",
                   "text": "Camp Chapelon ist eine historische Stätte mit alten Ruinen in der Nähe von Pailles.",
                   "category": "historical",
@@ -3589,15 +2345,6 @@ export const mauritiusCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Blue Penny Museum",
-                  "text": "A pailles-i Blue Penny Museum történelmi és művészeti múzeum, amely a ritka 1847-es Blue Penny bélyeg kiállításáról híres.",
-                  "category": "museum",
-                  "coords": [
-                        57.497501,
-                        -20.160906
-                  ]
-            },
             {
                   "name": "Photo Museum",
                   "text": "A Photo Museum egy helyi intézmény Pailles-ben, amelyet a fotográfia kiállításának szenteltek.",
@@ -3617,30 +2364,12 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Odysseo",
-                  "text": "Az Odysseo egy nyilvános akvárium tengeri élővilág-kiállításokkal Pailles-ben.",
-                  "category": "family",
-                  "coords": [
-                        57.494953,
-                        -20.159095
-                  ]
-            },
-            {
                   "name": "Signal Mountain",
                   "text": "A Signal Mountain egy magaslati kilátó, amely kiterjedt kilátást nyújt Pailles-ből.",
                   "category": "natural",
                   "coords": [
                         57.492247,
                         -20.174257
-                  ]
-            },
-            {
-                  "name": "Léoville L'Homme",
-                  "text": "A Léoville L'Homme egy elismert turisztikai látványosság Pailles városában.",
-                  "category": "landmark",
-                  "coords": [
-                        57.502202,
-                        -20.163946
                   ]
             },
             {
@@ -3671,15 +2400,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centre d'Arts Caudan",
-                  "text": "A Centre d'Arts Caudan egy kiemelkedő művészeti központ, amely Pailles kreatív közösségét szolgálja.",
-                  "category": "cultural",
-                  "coords": [
-                        57.498197,
-                        -20.161979
-                  ]
-            },
-            {
                   "name": "Camp Chapelon",
                   "text": "A Camp Chapelon egy történelmi helyszín ősi romokkal Pailles közelében.",
                   "category": "historical",
@@ -3690,15 +2410,6 @@ export const mauritiusCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Blue Penny Museum",
-                  "text": "Blue Penny Museum din Pailles este un muzeu de istorie și artă renumit pentru expunerea rarei mărci poștale Blue Penny din 1847.",
-                  "category": "museum",
-                  "coords": [
-                        57.497501,
-                        -20.160906
-                  ]
-            },
             {
                   "name": "Photo Museum",
                   "text": "Photo Museum este o instituție locală din Pailles dedicată expoziției de fotografie.",
@@ -3718,30 +2429,12 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Odysseo",
-                  "text": "Odysseo este un acvariu public care prezintă expoziții de viață marină în Pailles.",
-                  "category": "family",
-                  "coords": [
-                        57.494953,
-                        -20.159095
-                  ]
-            },
-            {
                   "name": "Signal Mountain",
                   "text": "Signal Mountain este un punct de belvedere înalt care oferă priveliști extinse din Pailles.",
                   "category": "natural",
                   "coords": [
                         57.492247,
                         -20.174257
-                  ]
-            },
-            {
-                  "name": "Léoville L'Homme",
-                  "text": "Léoville L'Homme este o atracție turistică recunoscută situată în orașul Pailles.",
-                  "category": "landmark",
-                  "coords": [
-                        57.502202,
-                        -20.163946
                   ]
             },
             {
@@ -3772,15 +2465,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centre d'Arts Caudan",
-                  "text": "Centre d'Arts Caudan este un centru de arte proeminent care deservește comunitatea creativă din Pailles.",
-                  "category": "cultural",
-                  "coords": [
-                        57.498197,
-                        -20.161979
-                  ]
-            },
-            {
                   "name": "Camp Chapelon",
                   "text": "Camp Chapelon este un sit istoric cu ruine vechi în vecinătatea orașului Pailles.",
                   "category": "historical",
@@ -3791,15 +2475,6 @@ export const mauritiusCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Blue Penny Museum",
-                  "text": "The Blue Penny Museum in Pailles is a history and art museum renowned for exhibiting the rare 1847 Blue Penny stamp.",
-                  "category": "museum",
-                  "coords": [
-                        57.497501,
-                        -20.160906
-                  ]
-            },
             {
                   "name": "Photo Museum",
                   "text": "The Photo Museum is a local institution in Pailles dedicated to the exhibition of photography.",
@@ -3819,30 +2494,12 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Odysseo",
-                  "text": "Odysseo is a public aquarium featuring marine life exhibits in Pailles.",
-                  "category": "family",
-                  "coords": [
-                        57.494953,
-                        -20.159095
-                  ]
-            },
-            {
                   "name": "Signal Mountain",
                   "text": "Signal Mountain is an elevated viewpoint offering expansive views from Pailles.",
                   "category": "natural",
                   "coords": [
                         57.492247,
                         -20.174257
-                  ]
-            },
-            {
-                  "name": "Léoville L'Homme",
-                  "text": "Léoville L'Homme is a recognized tourist attraction situated in the city of Pailles.",
-                  "category": "landmark",
-                  "coords": [
-                        57.502202,
-                        -20.163946
                   ]
             },
             {
@@ -3870,15 +2527,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.490968,
                         -20.194234
-                  ]
-            },
-            {
-                  "name": "Centre d'Arts Caudan",
-                  "text": "Centre d'Arts Caudan is a prominent arts centre serving the creative community in Pailles.",
-                  "category": "cultural",
-                  "coords": [
-                        57.498197,
-                        -20.161979
                   ]
             },
             {
@@ -4893,33 +3541,6 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-riche-terre-village-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Postal Museum",
-                  "text": "In einem historischen Gebäude untergebracht, zeigt die Postgeschichte von Mauritius.",
-                  "category": "museum",
-                  "coords": [
-                        57.501651,
-                        -20.159934
-                  ]
-            },
-            {
-                  "name": "Aapravasi Ghat",
-                  "text": "Am 3. November 2014 eröffnetes Museum in Riche Terre Village.",
-                  "category": "museum",
-                  "coords": [
-                        57.503002,
-                        -20.158495
-                  ]
-            },
-            {
-                  "name": "Odysseo",
-                  "text": "Familien-Freizeitpark mit Fahrgeschäften und Aktivitäten in Riche Terre Village.",
-                  "category": "family",
-                  "coords": [
-                        57.494953,
-                        -20.159095
-                  ]
-            },
-            {
                   "name": "Rivulet Terre Rouge Bird Sanctuary",
                   "text": "Vogelschutzgebiet entlang des Rivulet Terre Rouge nahe Riche Terre Village.",
                   "category": "landmark",
@@ -4938,24 +3559,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Central Market",
-                  "text": "Belebter Markt mit lokalen Produkten und Kunsthandwerk in Riche Terre Village.",
-                  "category": "landmark",
-                  "coords": [
-                        57.502696,
-                        -20.160588
-                  ]
-            },
-            {
-                  "name": "Chinatown Arch",
-                  "text": "Traditioneller chinesischer Bogen im Chinatown-Viertel von Riche Terre Village.",
-                  "category": "historical",
-                  "coords": [
-                        57.507216,
-                        -20.158035
-                  ]
-            },
-            {
                   "name": "Fort Albert",
                   "text": "Historische Befestigungsanlage in Riche Terre Village mit Blick auf die Küste.",
                   "category": "historical",
@@ -4963,45 +3566,9 @@ export const mauritiusCitiesV2: POI[] = [
                         57.497613,
                         -20.12713
                   ]
-            },
-            {
-                  "name": "Jummah Mosque",
-                  "text": "Bunte Moschee mit Minaretten und kunstvollen Schnitzereien.",
-                  "category": "religious",
-                  "coords": [
-                        57.505068,
-                        -20.159666
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Postal Museum",
-                  "text": "Egy történelmi épületben található, Mauritius postatörténetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        57.501651,
-                        -20.159934
-                  ]
-            },
-            {
-                  "name": "Aapravasi Ghat",
-                  "text": "2014. november 3-án megnyílt múzeum Riche Terre Village-ben.",
-                  "category": "museum",
-                  "coords": [
-                        57.503002,
-                        -20.158495
-                  ]
-            },
-            {
-                  "name": "Odysseo",
-                  "text": "Családi vidámpark látványosságokkal és tevékenységekkel Riche Terre Village-ben.",
-                  "category": "family",
-                  "coords": [
-                        57.494953,
-                        -20.159095
-                  ]
-            },
             {
                   "name": "Rivulet Terre Rouge Bird Sanctuary",
                   "text": "Madárrezervátum a Rivulet Terre Rouge mentén Riche Terre Village közelében.",
@@ -5021,24 +3588,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Central Market",
-                  "text": "Nyüzsgő piac helyi termékekkel és kézműves árukkal Riche Terre Village-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        57.502696,
-                        -20.160588
-                  ]
-            },
-            {
-                  "name": "Chinatown Arch",
-                  "text": "Hagyományos kínai ívkapu Riche Terre Village kínai negyedében.",
-                  "category": "historical",
-                  "coords": [
-                        57.507216,
-                        -20.158035
-                  ]
-            },
-            {
                   "name": "Fort Albert",
                   "text": "Történelmi erődítmény Riche Terre Village-ben, a partra néző.",
                   "category": "historical",
@@ -5046,45 +3595,9 @@ export const mauritiusCitiesV2: POI[] = [
                         57.497613,
                         -20.12713
                   ]
-            },
-            {
-                  "name": "Jummah Mosque",
-                  "text": "Színes mecset minaretekkel és díszes faragványokkal.",
-                  "category": "religious",
-                  "coords": [
-                        57.505068,
-                        -20.159666
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Postal Museum",
-                  "text": "Adăpostit într-o clădire istorică, ilustrează istoria poștală a Mauritiusului.",
-                  "category": "museum",
-                  "coords": [
-                        57.501651,
-                        -20.159934
-                  ]
-            },
-            {
-                  "name": "Aapravasi Ghat",
-                  "text": "Muzeu deschis pe 3 noiembrie 2014 în Riche Terre Village.",
-                  "category": "museum",
-                  "coords": [
-                        57.503002,
-                        -20.158495
-                  ]
-            },
-            {
-                  "name": "Odysseo",
-                  "text": "Parc de distracții pentru familii cu atracții și activități în Riche Terre Village.",
-                  "category": "family",
-                  "coords": [
-                        57.494953,
-                        -20.159095
-                  ]
-            },
             {
                   "name": "Rivulet Terre Rouge Bird Sanctuary",
                   "text": "Sanctuar de păsări de-a lungul râului Rivulet Terre Rouge lângă Riche Terre Village.",
@@ -5104,24 +3617,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Central Market",
-                  "text": "Piață aglomerată cu produse locale și meșteșuguri în Riche Terre Village.",
-                  "category": "landmark",
-                  "coords": [
-                        57.502696,
-                        -20.160588
-                  ]
-            },
-            {
-                  "name": "Chinatown Arch",
-                  "text": "Arc tradițional chinezesc în cartierul chinezesc din Riche Terre Village.",
-                  "category": "historical",
-                  "coords": [
-                        57.507216,
-                        -20.158035
-                  ]
-            },
-            {
                   "name": "Fort Albert",
                   "text": "Fortificație istorică în Riche Terre Village cu vedere spre coastă.",
                   "category": "historical",
@@ -5129,45 +3624,9 @@ export const mauritiusCitiesV2: POI[] = [
                         57.497613,
                         -20.12713
                   ]
-            },
-            {
-                  "name": "Jummah Mosque",
-                  "text": "Moschee colorată cu minarete și sculpturi ornamentale.",
-                  "category": "religious",
-                  "coords": [
-                        57.505068,
-                        -20.159666
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Postal Museum",
-                  "text": "Housed in a historic building, it showcases Mauritius's postal history.",
-                  "category": "museum",
-                  "coords": [
-                        57.501651,
-                        -20.159934
-                  ]
-            },
-            {
-                  "name": "Aapravasi Ghat",
-                  "text": "Museum opened on 3 November 2014 in Riche Terre Village.",
-                  "category": "museum",
-                  "coords": [
-                        57.503002,
-                        -20.158495
-                  ]
-            },
-            {
-                  "name": "Odysseo",
-                  "text": "Family amusement park with rides and activities in Riche Terre Village.",
-                  "category": "family",
-                  "coords": [
-                        57.494953,
-                        -20.159095
-                  ]
-            },
             {
                   "name": "Rivulet Terre Rouge Bird Sanctuary",
                   "text": "Bird sanctuary along the Rivulet Terre Rouge near Riche Terre Village.",
@@ -5187,39 +3646,12 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Central Market",
-                  "text": "Bustling market with local produce and crafts in Riche Terre Village.",
-                  "category": "landmark",
-                  "coords": [
-                        57.502696,
-                        -20.160588
-                  ]
-            },
-            {
-                  "name": "Chinatown Arch",
-                  "text": "Traditional Chinese arch in Riche Terre Village's Chinatown district.",
-                  "category": "historical",
-                  "coords": [
-                        57.507216,
-                        -20.158035
-                  ]
-            },
-            {
                   "name": "Fort Albert",
                   "text": "Historical fortification in Riche Terre Village overlooking the coast.",
                   "category": "historical",
                   "coords": [
                         57.497613,
                         -20.12713
-                  ]
-            },
-            {
-                  "name": "Jummah Mosque",
-                  "text": "A colourful mosque with minarets and intricate carvings.",
-                  "category": "religious",
-                  "coords": [
-                        57.505068,
-                        -20.159666
                   ]
             }
       ]
@@ -5313,7 +3745,268 @@ export const mauritiusCitiesV2: POI[] = [
     image: "/poi-images/mauritius-quartier-militaire-cities-v2.webp",
   },
   {
-    id: "mauritius-cap-malheureux-cities-v2", "sights": {"de": [{"name": "Public Beach 10.1.2023", "text": "In der malerischen Umgebung von Cap Malheureux gelegen, bietet dieser öffentlich zugängliche Strandbereich ein reizvolles Uferplätzchen auf Mauritius. Die Atmosphäre bleibt im Allgemeinen ruhig und schafft eine heitere Umgebung, die die Besucher dazu einlädt, einen Gang zurückzuschalten. Man kann sich auf ein ungestörtes Sonnenbad oder einen erfrischenden Sprung in die tropischen Fluten freuen. Den Besuch auf die frühen Morgenstunden zu legen, ist eine hervorragende Strategie, um völlige Ruhe zu finden.", "category": "recreational", "coords": [57.606546, -19.985416]}, {"name": "Union Triget", "text": "Union Triget ist ein malerischer Strand für Besucher in Cap Malheureux.", "category": "recreational", "coords": [57.632447, -19.992012]}, {"name": "Anse La Raie Beach", "text": "Der als friedlicher Küstenabschnitt in Cap Malheureux bekannte Anse La Raie Beach fängt die ruhige Schönheit des nördlichen Mauritius ein. Mit seiner stets windigen und entspannten Atmosphäre zieht er alle an, die eine eher gelassene Verbindung zum Meer bevorzugen. Erwarten Sie schöne Bedingungen zum Waten, für die Suche nach Muscheln am Wasser und für ein Sonnenbad in ungedrängter Umgebung. Die stetigen Küstenwinde machen ihn selbst im Hochsommer zu einem erfrischenden Ort.", "category": "recreational", "coords": [57.632844, -19.989644]}, {"name": "Bell", "text": "Bell ist ein lokales Wahrzeichen und eine Attraktion in der Gegend von Cap Malheureux.", "category": "landmark", "coords": [57.622188, -19.986611]}, {"name": "Bain Boeuf Public Beach", "text": "Der Bain Boeuf Public Beach hat sich seinen Status als beliebte Küstenattraktion in Cap Malheureux redlich verdient und besticht durch unglaubliche Ausblicke über die mauritischen Gewässer. Der Ort versprüht eine fröhliche, lebhafte Stimmung, die naturgemäß Freunde und Familien zusammenbringt. Er eignet sich perfekt für ausgiebiges Schwimmen, sanfte Spaziergänge auf dem hellen Sand und unvergessliche Sonnenbäder. Ein Besuch am späten Nachmittag rahmt die spektakulären Farbtöne des Sonnenuntergangs perfekt ein.", "category": "landmark", "coords": [57.604137, -19.985981]}, {"name": "Kap Malheureux", "text": "Kap Malheureux ist ein markanter Ort und eine Touristenattraktion in der gleichnamigen Stadt.", "category": "landmark", "coords": [57.620657, -19.984901]}, {"name": "Pereybere Public Beach", "text": "Dieser Abschnitt des Pereybere Public Beach gilt als bekannter Erholungsort an der Küste von Cap Malheureux und bietet die quintessenzielle Schönheit von Mauritius. Die Stimmung ist bezeichnenderweise beschwingt und einladend und schafft eine Atmosphäre, in der die Stunden wie im Flug vergehen. Erwarten Sie eine herrliche Umgebung, um in den Ozean zu waten, die Zehen in den weichen Sand zu stecken und einfach in der Sonne zu entspannen. Wer einen Ausflug im Frühsommer plant, dem ist ein phänomenaler Tag am Wasser gewiss.", "category": "landmark", "coords": [57.59076, -19.993754]}, {"name": "Public Beach", "text": "Eingebettet in die Küstenlandschaft von Cap Malheureux bietet dieser öffentliche Strand eine wunderbare Kulisse für erholsame Stunden am Meer. Besucher erwartet eine entspannte Atmosphäre, die zum Schwimmen und gemütlichen Sonnenbaden einlädt. Ein Besuch lohnt sich besonders an warmen Sommertagen, um die authentische mauritische Meeresbrise zu genießen.", "category": "landmark", "coords": [57.638195, -19.996149]}], "hu": [{"name": "Public Beach 10.1.2023", "text": "A Cap Malheureux festői környezetében található, nyilvánosan hozzáférhető strand egy elragadó vízparti zugot biztosít Mauritiuson. A hangulat általában csendes marad, derűs környezetet teremtve, amely arra ösztönzi a látogatókat, hogy lelassuljanak. Könnyedén számíthatunk egy zavartalan napozásra, vagy egy frissítő csobbanásra a trópusi vizekben. A látogatás kora reggeli órákra történő időzítése kiváló stratégia a teljes nyugalom megtalálására.", "category": "recreational", "coords": [57.606546, -19.985416]}, {"name": "Union Triget", "text": "A Union Triget egy festői strand és úti cél a Cap Malheureux-be látogatók számára.", "category": "recreational", "coords": [57.632447, -19.992012]}, {"name": "Anse La Raie Beach", "text": "A Cap Malheureux-ben egy békés tengerparti szakaszként ismert Anse La Raie Beach megragadja Észak-Mauritius csendes szépségét. A folyamatosan szellős és nyugodt hangulatával azokat vonzza, akik a tengerrel való lazább kapcsolatot részesítik előnyben. Kellemes feltételekre számíthatunk a gázoláshoz, a kagylógyűjtéshez a víz szélén, és a napozáshoz egy nem zsúfolt környezetben. A folyamatos parti szelek még a nyár tetőfokán is frissítő hellyé teszik.", "category": "recreational", "coords": [57.632844, -19.989644]}, {"name": "Bell", "text": "A Bell egy helyi nevezetesség és látványosság Cap Malheureux területén.", "category": "landmark", "coords": [57.622188, -19.986611]}, {"name": "Bain Boeuf Public Beach", "text": "A Bain Boeuf Public Beach, amely kiérdemelte a Cap Malheureux-i népszerű tengerparti látványosság státuszát, hihetetlen kilátással büszkélkedhet a mauritiusi vizekre. A hely vidám, élénk hangulatot áraszt, amely természetesen hozza össze a barátokat és a családokat. Tökéletesen alkalmas hosszabb úszásra, finom sétákra a világos homokon, és emlékezetes napozásokra. Egy késő délutáni látogatás tökéletesen keretbe foglalja a naplemente látványos árnyalatait.", "category": "landmark", "coords": [57.604137, -19.985981]}, {"name": "Kap Malheureux", "text": "A Kap Malheureux egy kiemelkedő nevezetesség és turisztikai látványosság az azonos nevű városban.", "category": "landmark", "coords": [57.620657, -19.984901]}, {"name": "Pereybere Public Beach", "text": "A Cap Malheureux-ben jól ismert tengerparti pihenőhelyként számon tartott Pereybere Public Beach ezen szakasza hamisítatlan mauritiusi szépséget kínál. A hangulat jellemzően lendületes és hívogató, olyan légkört teremtve, ahol az órák könnyedén elszállnak. Pompás környezetre számíthatunk az óceánba való begázoláshoz, a lábujjaink puha homokba süllyesztéséhez és az egyszerű napon való kikapcsolódáshoz. Egy kora nyári utazás tervezése fenomenális napot biztosít a vízparton.", "category": "landmark", "coords": [57.59076, -19.993754]}, {"name": "Public Beach", "text": "Cap Malheureux tengerparti környezetében található ez a nyilvános strand, amely csodálatos hátteret nyújt a pihentető tengerparti órákhoz. A látogatókat nyugodt légkör várja, amely fürdőzésre és kényelmes napozásra csábít. Különösen meleg nyári napokon érdemes felkeresni, hogy élvezhessük a hamisítatlan mauritiusi tengeri szellőt.", "category": "landmark", "coords": [57.638195, -19.996149]}], "ro": [{"name": "Public Beach 10.1.2023", "text": "Situat în cadrul pitoresc al Cap Malheureux, acest spațiu de plajă accesibil publicului oferă un colț fermecător pe malul apei în Mauritius. Atmosfera rămâne în general liniștită, creând un mediu senin care încurajează vizitatorii să încetinească. Cineva poate aștepta cu nerăbdare o sesiune netulburată de plajă sau o scufundare răcoritoare în apele tropicale. Limitarea vizitei dumneavoastră la primele ore este o strategie excelentă pentru a găsi liniște totală.", "category": "recreational", "coords": [57.606546, -19.985416]}, {"name": "Union Triget", "text": "Union Triget este o destinație de plajă pitorească pentru vizitatorii din Cap Malheureux.", "category": "recreational", "coords": [57.632447, -19.992012]}, {"name": "Anse La Raie Beach", "text": "Cunoscută ca o întindere de coastă pașnică în Cap Malheureux, Anse La Raie Beach surprinde frumusețea liniștită a nordului insulei Mauritius. Cu o atmosferă constant aerisită și relaxată, îi atrage pe cei care preferă o conexiune mai relaxată cu marea. Așteptați-vă la condiții minunate pentru a vă plimba prin apă, a găsi scoici de-a lungul malului și a face plajă într-un cadru neaglomerat. Vânturile de coastă constante o fac un loc răcoritor chiar și în plină vară.", "category": "recreational", "coords": [57.632844, -19.989644]}, {"name": "Bell", "text": "Bell este un punct de reper local și o atracție situată în zona Cap Malheureux.", "category": "landmark", "coords": [57.622188, -19.986611]}, {"name": "Bain Boeuf Public Beach", "text": "Câștigându-și statutul de atracție de coastă populară în Cap Malheureux, Bain Boeuf Public Beach se mândrește cu vederi incredibile peste apele mauritiene. Locația radiază o vibrație veselă și plină de viață, care reunește în mod natural atât prietenii, cât și familiile. O veți găsi perfect potrivită pentru înot prelungit, plimbări ușoare pe nisipul pal și sesiuni memorabile de plajă. Bucurându-vă de o vizită târziu în după-amiaza încadrează perfect nuanțele spectaculoase ale apusului.", "category": "landmark", "coords": [57.604137, -19.985981]}, {"name": "Kap Malheureux", "text": "Kap Malheureux este un punct de interes proeminent și o atracție turistică în orașul cu același nume.", "category": "landmark", "coords": [57.620657, -19.984901]}, {"name": "Pereybere Public Beach", "text": "Cunoscută ca un loc de coastă recreativ bine-cunoscut în Cap Malheureux, acest segment al Pereybere Public Beach oferă frumusețea mauritiană prin excelență. Atmosfera este caracteristic plină de viață și primitoare, creând o atmosferă în care orele trec cu ușurință. Așteptați-vă la un mediu splendid pentru a vă plimba în ocean, a vă scufunda degetele de la picioare în nisipul moale și pur și simplu a vă relaxa la soare. Planificarea unei excursii la începutul verii asigură o zi fenomenală la malul apei.", "category": "landmark", "coords": [57.59076, -19.993754]}, {"name": "Public Beach", "text": "Amplasată pe coasta din Cap Malheureux, această plajă publică oferă un cadru minunat pentru ore de relaxare la malul oceanului. Vizitatorii sunt întâmpinați de o atmosferă liniștită, ideală pentru înot și băi de soare confortabile. O vizită este recomandată în special în zilele calde de vară pentru a savura briza autentică mauritiană.", "category": "landmark", "coords": [57.638195, -19.996149]}], "en": [{"name": "Public Beach 10.1.2023", "text": "Located in the picturesque setting of Cap Malheureux, this publicly accessible beach space provides a delightful waterfront nook in Mauritius. The atmosphere remains generally quiet, creating a serene environment that encourages visitors to slow down. One can easily look forward to an undisturbed sunbathing session or a refreshing plunge into the tropical waters. Keeping your visit to the early hours is an excellent strategy for finding total peace.", "category": "recreational", "coords": [57.606546, -19.985416]}, {"name": "Union Triget", "text": "Union Triget is a scenic beach destination for visitors in Cap Malheureux.", "category": "recreational", "coords": [57.632447, -19.992012]}, {"name": "Anse La Raie Beach", "text": "Known as a peaceful coastal stretch in Cap Malheureux, Anse La Raie Beach captures the quiet beauty of northern Mauritius. With a consistently breezy and relaxed vibe, it draws those who favor a more laid-back connection with the sea. Expect lovely conditions for wading, finding shells along the water’s edge, and sunbathing in an uncrowded setting. The steady coastal winds make it a refreshing spot even in the peak of summer.", "category": "recreational", "coords": [57.632844, -19.989644]}, {"name": "Bell", "text": "Bell is a local landmark and attraction situated in the area of Cap Malheureux.", "category": "landmark", "coords": [57.622188, -19.986611]}, {"name": "Bain Boeuf Public Beach", "text": "Earning its status as a popular coastal attraction in Cap Malheureux, Bain Boeuf Public Beach boasts incredible views across the Mauritian waters. The location radiates a cheerful, lively vibe that naturally brings both friends and families together. You will find it perfectly suited for extended swimming, gentle walks on the pale sand, and memorable sunbathing sessions. Enjoying a late afternoon visit perfectly frames the spectacular hues of the sunset.", "category": "landmark", "coords": [57.604137, -19.985981]}, {"name": "Kap Malheureux", "text": "Kap Malheureux is a prominent point of interest and tourist attraction in the city of the same name.", "category": "landmark", "coords": [57.620657, -19.984901]}, {"name": "Pereybere Public Beach", "text": "Noted as a well-known recreational coastal spot in Cap Malheureux, this segment of Pereybere Public Beach offers quintessential Mauritian beauty. The mood is characteristically buoyant and welcoming, creating an atmosphere where hours easily slip by. Expect a splendid environment for wading into the ocean, sinking your toes into the soft sand, and simply unwinding in the sun. Planning a trip in the early summer ensures a phenomenal day by the water.", "category": "landmark", "coords": [57.59076, -19.993754]}, {"name": "Public Beach", "text": "Nestled along the coastal landscape of Cap Malheureux, this public beach provides a wonderful setting for relaxing hours by the ocean. Visitors can expect a tranquil atmosphere that invites swimming and comfortable sunbathing. It is especially worth a visit on warm summer days to enjoy the authentic Mauritian sea breeze.", "category": "landmark", "coords": [57.638195, -19.996149]}]},
+    id: "mauritius-cap-malheureux-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Public Beach 10.1.2023",
+                  "text": "In der malerischen Umgebung von Cap Malheureux gelegen, bietet dieser öffentlich zugängliche Strandbereich ein reizvolles Uferplätzchen auf Mauritius. Die Atmosphäre bleibt im Allgemeinen ruhig und schafft eine heitere Umgebung, die die Besucher dazu einlädt, einen Gang zurückzuschalten. Man kann sich auf ein ungestörtes Sonnenbad oder einen erfrischenden Sprung in die tropischen Fluten freuen. Den Besuch auf die frühen Morgenstunden zu legen, ist eine hervorragende Strategie, um völlige Ruhe zu finden.",
+                  "category": "recreational",
+                  "coords": [
+                        57.606546,
+                        -19.985416
+                  ]
+            },
+            {
+                  "name": "Union Triget",
+                  "text": "Union Triget ist ein malerischer Strand für Besucher in Cap Malheureux.",
+                  "category": "recreational",
+                  "coords": [
+                        57.632447,
+                        -19.992012
+                  ]
+            },
+            {
+                  "name": "Anse La Raie Beach",
+                  "text": "Der als friedlicher Küstenabschnitt in Cap Malheureux bekannte Anse La Raie Beach fängt die ruhige Schönheit des nördlichen Mauritius ein. Mit seiner stets windigen und entspannten Atmosphäre zieht er alle an, die eine eher gelassene Verbindung zum Meer bevorzugen. Erwarten Sie schöne Bedingungen zum Waten, für die Suche nach Muscheln am Wasser und für ein Sonnenbad in ungedrängter Umgebung. Die stetigen Küstenwinde machen ihn selbst im Hochsommer zu einem erfrischenden Ort.",
+                  "category": "recreational",
+                  "coords": [
+                        57.632844,
+                        -19.989644
+                  ]
+            },
+            {
+                  "name": "Bell",
+                  "text": "Bell ist ein lokales Wahrzeichen und eine Attraktion in der Gegend von Cap Malheureux.",
+                  "category": "landmark",
+                  "coords": [
+                        57.622188,
+                        -19.986611
+                  ]
+            },
+            {
+                  "name": "Bain Boeuf Public Beach",
+                  "text": "Der Bain Boeuf Public Beach hat sich seinen Status als beliebte Küstenattraktion in Cap Malheureux redlich verdient und besticht durch unglaubliche Ausblicke über die mauritischen Gewässer. Der Ort versprüht eine fröhliche, lebhafte Stimmung, die naturgemäß Freunde und Familien zusammenbringt. Er eignet sich perfekt für ausgiebiges Schwimmen, sanfte Spaziergänge auf dem hellen Sand und unvergessliche Sonnenbäder. Ein Besuch am späten Nachmittag rahmt die spektakulären Farbtöne des Sonnenuntergangs perfekt ein.",
+                  "category": "landmark",
+                  "coords": [
+                        57.604137,
+                        -19.985981
+                  ]
+            },
+            {
+                  "name": "Kap Malheureux",
+                  "text": "Kap Malheureux ist ein markanter Ort und eine Touristenattraktion in der gleichnamigen Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        57.620657,
+                        -19.984901
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Eingebettet in die Küstenlandschaft von Cap Malheureux bietet dieser öffentliche Strand eine wunderbare Kulisse für erholsame Stunden am Meer. Besucher erwartet eine entspannte Atmosphäre, die zum Schwimmen und gemütlichen Sonnenbaden einlädt. Ein Besuch lohnt sich besonders an warmen Sommertagen, um die authentische mauritische Meeresbrise zu genießen.",
+                  "category": "landmark",
+                  "coords": [
+                        57.638195,
+                        -19.996149
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Public Beach 10.1.2023",
+                  "text": "A Cap Malheureux festői környezetében található, nyilvánosan hozzáférhető strand egy elragadó vízparti zugot biztosít Mauritiuson. A hangulat általában csendes marad, derűs környezetet teremtve, amely arra ösztönzi a látogatókat, hogy lelassuljanak. Könnyedén számíthatunk egy zavartalan napozásra, vagy egy frissítő csobbanásra a trópusi vizekben. A látogatás kora reggeli órákra történő időzítése kiváló stratégia a teljes nyugalom megtalálására.",
+                  "category": "recreational",
+                  "coords": [
+                        57.606546,
+                        -19.985416
+                  ]
+            },
+            {
+                  "name": "Union Triget",
+                  "text": "A Union Triget egy festői strand és úti cél a Cap Malheureux-be látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        57.632447,
+                        -19.992012
+                  ]
+            },
+            {
+                  "name": "Anse La Raie Beach",
+                  "text": "A Cap Malheureux-ben egy békés tengerparti szakaszként ismert Anse La Raie Beach megragadja Észak-Mauritius csendes szépségét. A folyamatosan szellős és nyugodt hangulatával azokat vonzza, akik a tengerrel való lazább kapcsolatot részesítik előnyben. Kellemes feltételekre számíthatunk a gázoláshoz, a kagylógyűjtéshez a víz szélén, és a napozáshoz egy nem zsúfolt környezetben. A folyamatos parti szelek még a nyár tetőfokán is frissítő hellyé teszik.",
+                  "category": "recreational",
+                  "coords": [
+                        57.632844,
+                        -19.989644
+                  ]
+            },
+            {
+                  "name": "Bell",
+                  "text": "A Bell egy helyi nevezetesség és látványosság Cap Malheureux területén.",
+                  "category": "landmark",
+                  "coords": [
+                        57.622188,
+                        -19.986611
+                  ]
+            },
+            {
+                  "name": "Bain Boeuf Public Beach",
+                  "text": "A Bain Boeuf Public Beach, amely kiérdemelte a Cap Malheureux-i népszerű tengerparti látványosság státuszát, hihetetlen kilátással büszkélkedhet a mauritiusi vizekre. A hely vidám, élénk hangulatot áraszt, amely természetesen hozza össze a barátokat és a családokat. Tökéletesen alkalmas hosszabb úszásra, finom sétákra a világos homokon, és emlékezetes napozásokra. Egy késő délutáni látogatás tökéletesen keretbe foglalja a naplemente látványos árnyalatait.",
+                  "category": "landmark",
+                  "coords": [
+                        57.604137,
+                        -19.985981
+                  ]
+            },
+            {
+                  "name": "Kap Malheureux",
+                  "text": "A Kap Malheureux egy kiemelkedő nevezetesség és turisztikai látványosság az azonos nevű városban.",
+                  "category": "landmark",
+                  "coords": [
+                        57.620657,
+                        -19.984901
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Cap Malheureux tengerparti környezetében található ez a nyilvános strand, amely csodálatos hátteret nyújt a pihentető tengerparti órákhoz. A látogatókat nyugodt légkör várja, amely fürdőzésre és kényelmes napozásra csábít. Különösen meleg nyári napokon érdemes felkeresni, hogy élvezhessük a hamisítatlan mauritiusi tengeri szellőt.",
+                  "category": "landmark",
+                  "coords": [
+                        57.638195,
+                        -19.996149
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Public Beach 10.1.2023",
+                  "text": "Situat în cadrul pitoresc al Cap Malheureux, acest spațiu de plajă accesibil publicului oferă un colț fermecător pe malul apei în Mauritius. Atmosfera rămâne în general liniștită, creând un mediu senin care încurajează vizitatorii să încetinească. Cineva poate aștepta cu nerăbdare o sesiune netulburată de plajă sau o scufundare răcoritoare în apele tropicale. Limitarea vizitei dumneavoastră la primele ore este o strategie excelentă pentru a găsi liniște totală.",
+                  "category": "recreational",
+                  "coords": [
+                        57.606546,
+                        -19.985416
+                  ]
+            },
+            {
+                  "name": "Union Triget",
+                  "text": "Union Triget este o destinație de plajă pitorească pentru vizitatorii din Cap Malheureux.",
+                  "category": "recreational",
+                  "coords": [
+                        57.632447,
+                        -19.992012
+                  ]
+            },
+            {
+                  "name": "Anse La Raie Beach",
+                  "text": "Cunoscută ca o întindere de coastă pașnică în Cap Malheureux, Anse La Raie Beach surprinde frumusețea liniștită a nordului insulei Mauritius. Cu o atmosferă constant aerisită și relaxată, îi atrage pe cei care preferă o conexiune mai relaxată cu marea. Așteptați-vă la condiții minunate pentru a vă plimba prin apă, a găsi scoici de-a lungul malului și a face plajă într-un cadru neaglomerat. Vânturile de coastă constante o fac un loc răcoritor chiar și în plină vară.",
+                  "category": "recreational",
+                  "coords": [
+                        57.632844,
+                        -19.989644
+                  ]
+            },
+            {
+                  "name": "Bell",
+                  "text": "Bell este un punct de reper local și o atracție situată în zona Cap Malheureux.",
+                  "category": "landmark",
+                  "coords": [
+                        57.622188,
+                        -19.986611
+                  ]
+            },
+            {
+                  "name": "Bain Boeuf Public Beach",
+                  "text": "Câștigându-și statutul de atracție de coastă populară în Cap Malheureux, Bain Boeuf Public Beach se mândrește cu vederi incredibile peste apele mauritiene. Locația radiază o vibrație veselă și plină de viață, care reunește în mod natural atât prietenii, cât și familiile. O veți găsi perfect potrivită pentru înot prelungit, plimbări ușoare pe nisipul pal și sesiuni memorabile de plajă. Bucurându-vă de o vizită târziu în după-amiaza încadrează perfect nuanțele spectaculoase ale apusului.",
+                  "category": "landmark",
+                  "coords": [
+                        57.604137,
+                        -19.985981
+                  ]
+            },
+            {
+                  "name": "Kap Malheureux",
+                  "text": "Kap Malheureux este un punct de interes proeminent și o atracție turistică în orașul cu același nume.",
+                  "category": "landmark",
+                  "coords": [
+                        57.620657,
+                        -19.984901
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Amplasată pe coasta din Cap Malheureux, această plajă publică oferă un cadru minunat pentru ore de relaxare la malul oceanului. Vizitatorii sunt întâmpinați de o atmosferă liniștită, ideală pentru înot și băi de soare confortabile. O vizită este recomandată în special în zilele calde de vară pentru a savura briza autentică mauritiană.",
+                  "category": "landmark",
+                  "coords": [
+                        57.638195,
+                        -19.996149
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Public Beach 10.1.2023",
+                  "text": "Located in the picturesque setting of Cap Malheureux, this publicly accessible beach space provides a delightful waterfront nook in Mauritius. The atmosphere remains generally quiet, creating a serene environment that encourages visitors to slow down. One can easily look forward to an undisturbed sunbathing session or a refreshing plunge into the tropical waters. Keeping your visit to the early hours is an excellent strategy for finding total peace.",
+                  "category": "recreational",
+                  "coords": [
+                        57.606546,
+                        -19.985416
+                  ]
+            },
+            {
+                  "name": "Union Triget",
+                  "text": "Union Triget is a scenic beach destination for visitors in Cap Malheureux.",
+                  "category": "recreational",
+                  "coords": [
+                        57.632447,
+                        -19.992012
+                  ]
+            },
+            {
+                  "name": "Anse La Raie Beach",
+                  "text": "Known as a peaceful coastal stretch in Cap Malheureux, Anse La Raie Beach captures the quiet beauty of northern Mauritius. With a consistently breezy and relaxed vibe, it draws those who favor a more laid-back connection with the sea. Expect lovely conditions for wading, finding shells along the water’s edge, and sunbathing in an uncrowded setting. The steady coastal winds make it a refreshing spot even in the peak of summer.",
+                  "category": "recreational",
+                  "coords": [
+                        57.632844,
+                        -19.989644
+                  ]
+            },
+            {
+                  "name": "Bell",
+                  "text": "Bell is a local landmark and attraction situated in the area of Cap Malheureux.",
+                  "category": "landmark",
+                  "coords": [
+                        57.622188,
+                        -19.986611
+                  ]
+            },
+            {
+                  "name": "Bain Boeuf Public Beach",
+                  "text": "Earning its status as a popular coastal attraction in Cap Malheureux, Bain Boeuf Public Beach boasts incredible views across the Mauritian waters. The location radiates a cheerful, lively vibe that naturally brings both friends and families together. You will find it perfectly suited for extended swimming, gentle walks on the pale sand, and memorable sunbathing sessions. Enjoying a late afternoon visit perfectly frames the spectacular hues of the sunset.",
+                  "category": "landmark",
+                  "coords": [
+                        57.604137,
+                        -19.985981
+                  ]
+            },
+            {
+                  "name": "Kap Malheureux",
+                  "text": "Kap Malheureux is a prominent point of interest and tourist attraction in the city of the same name.",
+                  "category": "landmark",
+                  "coords": [
+                        57.620657,
+                        -19.984901
+                  ]
+            },
+            {
+                  "name": "Public Beach",
+                  "text": "Nestled along the coastal landscape of Cap Malheureux, this public beach provides a wonderful setting for relaxing hours by the ocean. Visitors can expect a tranquil atmosphere that invites swimming and comfortable sunbathing. It is especially worth a visit on warm summer days to enjoy the authentic Mauritian sea breeze.",
+                  "category": "landmark",
+                  "coords": [
+                        57.638195,
+                        -19.996149
+                  ]
+            }
+      ]
+},
     parent: "MU",
     type: "village",
     name: { de: "Cap Malheureux", hu: "Cap Malheureux", ro: "Cap Malheureux", en: "Cap Malheureux" },
@@ -6898,50 +5591,10 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-bon-accueil-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Skydive Austral",
-                  "text": "Fallschirmsprungzentrum mit Tandemsprüngen über die Küstenlandschaft von Bon Accueil.",
-                  "category": "landmark",
-                  "coords": [
-                        57.684104,
-                        -20.124181
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Skydive Austral",
-                  "text": "Ejtőernyős központ tandemugrásokkal Bon Accueil tengerparti táján.",
-                  "category": "landmark",
-                  "coords": [
-                        57.684104,
-                        -20.124181
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Skydive Austral",
-                  "text": "Centru de parașutism cu sărituri tandem deasupra peisajului de coastă al Bon Accueil.",
-                  "category": "landmark",
-                  "coords": [
-                        57.684104,
-                        -20.124181
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Skydive Austral",
-                  "text": "Skydiving center offering tandem jumps over the coastal landscape of Bon Accueil.",
-                  "category": "landmark",
-                  "coords": [
-                        57.684104,
-                        -20.124181
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "MU",
     type: "village",
@@ -6988,50 +5641,10 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-laventure-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Skydive Austral",
-                  "text": "Skydive Austral ist eine Fallschirmsprung-Attraktion, die aufregende Erlebnisse in Laventure bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        57.684104,
-                        -20.124181
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Skydive Austral",
-                  "text": "A Skydive Austral egy ejtőernyős látványosság, amely izgalmas élményeket kínál Laventure-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        57.684104,
-                        -20.124181
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Skydive Austral",
-                  "text": "Skydive Austral este o atracție de parașutism care oferă experiențe captivante în Laventure.",
-                  "category": "landmark",
-                  "coords": [
-                        57.684104,
-                        -20.124181
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Skydive Austral",
-                  "text": "Skydive Austral is a skydiving attraction offering exciting experiences in Laventure.",
-                  "category": "landmark",
-                  "coords": [
-                        57.684104,
-                        -20.124181
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "MU",
     type: "village",
@@ -7728,15 +6341,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Case Noyale Viewpoint",
-                  "text": "Der Case Noyale Viewpoint bietet malerische Ausblicke über La Gaulette.",
-                  "category": "natural",
-                  "coords": [
-                        57.368405,
-                        -20.405246
-                  ]
-            },
-            {
                   "name": "Sublim Point",
                   "text": "Aussichtspunkt mit Panorama über die Lagune von La Gaulette.",
                   "category": "natural",
@@ -7754,15 +6358,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.337577,
                         -20.414301
-                  ]
-            },
-            {
-                  "name": "Case Noyale Viewpoint",
-                  "text": "A Case Noyale Viewpoint festői kilátást nyújt La Gaulette területén.",
-                  "category": "natural",
-                  "coords": [
-                        57.368405,
-                        -20.405246
                   ]
             },
             {
@@ -7786,15 +6381,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Case Noyale Viewpoint",
-                  "text": "Case Noyale Viewpoint oferă vederi pitorești în La Gaulette.",
-                  "category": "natural",
-                  "coords": [
-                        57.368405,
-                        -20.405246
-                  ]
-            },
-            {
                   "name": "Sublim Point",
                   "text": "Punct de belvedere cu panoramă asupra lagunei La Gaulette.",
                   "category": "natural",
@@ -7812,15 +6398,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.337577,
                         -20.414301
-                  ]
-            },
-            {
-                  "name": "Case Noyale Viewpoint",
-                  "text": "Case Noyale Viewpoint offers scenic views over the area of La Gaulette.",
-                  "category": "natural",
-                  "coords": [
-                        57.368405,
-                        -20.405246
                   ]
             },
             {
@@ -7879,86 +6456,10 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-case-noyale-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Crystal Coral rock",
-                  "text": "Crystal Coral rock ist eine natürliche geologische Attraktion in Case Noyale.",
-                  "category": "landmark",
-                  "coords": [
-                        57.337577,
-                        -20.414301
-                  ]
-            },
-            {
-                  "name": "Case Noyale Viewpoint",
-                  "text": "Aussichtspunkt über die Black River Gorges.",
-                  "category": "natural",
-                  "coords": [
-                        57.368405,
-                        -20.405246
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Crystal Coral rock",
-                  "text": "A Crystal Coral rock egy természetes geológiai látványosság Case Noyale-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        57.337577,
-                        -20.414301
-                  ]
-            },
-            {
-                  "name": "Case Noyale Viewpoint",
-                  "text": "Kilátópont a Black River Gorges szurdokára.",
-                  "category": "natural",
-                  "coords": [
-                        57.368405,
-                        -20.405246
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Crystal Coral rock",
-                  "text": "Crystal Coral rock este o atracție geologică naturală situată în Case Noyale.",
-                  "category": "landmark",
-                  "coords": [
-                        57.337577,
-                        -20.414301
-                  ]
-            },
-            {
-                  "name": "Case Noyale Viewpoint",
-                  "text": "Punct de belvedere asupra cheilor Black River Gorges.",
-                  "category": "natural",
-                  "coords": [
-                        57.368405,
-                        -20.405246
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Crystal Coral rock",
-                  "text": "Crystal Coral rock is a natural geological attraction situated in Case Noyale.",
-                  "category": "landmark",
-                  "coords": [
-                        57.337577,
-                        -20.414301
-                  ]
-            },
-            {
-                  "name": "Case Noyale Viewpoint",
-                  "text": "Viewpoint overlooking the Black River Gorges.",
-                  "category": "natural",
-                  "coords": [
-                        57.368405,
-                        -20.405246
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "MU",
     type: "village",
@@ -8241,15 +6742,6 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-petite-riviere-cities-v2", "sights": {
       "de": [
             {
-                  "name": "La Tour Koenig Windmill",
-                  "text": "Historische Windmühle in Petite Riviere, ein Turm aus Stein.",
-                  "category": "castle",
-                  "coords": [
-                        57.470341,
-                        -20.176483
-                  ]
-            },
-            {
                   "name": "Public Beach Pointe aux Sables",
                   "text": "Entlang der Küste von Petite Rivière dient der Public Beach Pointe aux Sables als erholsames Rückzugsgebiet für Einheimische und Gäste. Die unaufgeregte, familiäre Stimmung lädt dazu ein, entspannt im kühlen Nass zu baden oder im weichen Sand zu verweilen. Es empfiehlt sich, ausreichend Trinkwasser mitzunehmen, um den Aufenthalt in der Sonne voll auszukosten.",
                   "category": "recreational",
@@ -8284,36 +6776,9 @@ export const mauritiusCitiesV2: POI[] = [
                         57.426484,
                         -20.179206
                   ]
-            },
-            {
-                  "name": "Ruine H...borstal",
-                  "text": "Ruinen einer ehemaligen Besserungsanstalt in Petite Riviere.",
-                  "category": "historical",
-                  "coords": [
-                        57.470786,
-                        -20.177644
-                  ]
-            },
-            {
-                  "name": "Camp Chapelon",
-                  "text": "Historisches Lager aus der Kolonialzeit in Petite Riviere.",
-                  "category": "historical",
-                  "coords": [
-                        57.47439,
-                        -20.174668
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "La Tour Koenig Windmill",
-                  "text": "Történelmi szélmalom Petite Riviere-ben, kőtorony.",
-                  "category": "castle",
-                  "coords": [
-                        57.470341,
-                        -20.176483
-                  ]
-            },
             {
                   "name": "Public Beach Pointe aux Sables",
                   "text": "A Petite Rivière partvonala mentén elhelyezkedő Pointe aux Sables nyilvános strand pihentető menedékként szolgál a helyiek és a vendégek számára. A csendes, családias hangulat hűsítő fürdőzésre a tengerben, vagy a puha homokban való kényelmes időtöltésre invitál. Érdemes elegendő ivóvizet vinni magunkkal, hogy a napsütésben töltött időt maradéktalanul kiélvezhessük.",
@@ -8349,36 +6814,9 @@ export const mauritiusCitiesV2: POI[] = [
                         57.426484,
                         -20.179206
                   ]
-            },
-            {
-                  "name": "Ruine H...borstal",
-                  "text": "Egykori javítóintézet romjai Petite Riviere-ben.",
-                  "category": "historical",
-                  "coords": [
-                        57.470786,
-                        -20.177644
-                  ]
-            },
-            {
-                  "name": "Camp Chapelon",
-                  "text": "Történelmi tábor a gyarmati korból Petite Riviere-ben.",
-                  "category": "historical",
-                  "coords": [
-                        57.47439,
-                        -20.174668
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "La Tour Koenig Windmill",
-                  "text": "Moară de vânt istorică în Petite Riviere, un turn de piatră.",
-                  "category": "castle",
-                  "coords": [
-                        57.470341,
-                        -20.176483
-                  ]
-            },
             {
                   "name": "Public Beach Pointe aux Sables",
                   "text": "De-a lungul coastei din Petite Rivière, plaja publică Pointe aux Sables servește ca un refugiu relaxant pentru localnici și oaspeți. Atmosfera relaxată, de familie, vă invită să faceți o baie liniștită în apa rece sau să zăboviți în nisipul moale. Este recomandat să luați cu voi suficientă apă de băut pentru a vă bucura din plin de șederea la soare.",
@@ -8414,36 +6852,9 @@ export const mauritiusCitiesV2: POI[] = [
                         57.426484,
                         -20.179206
                   ]
-            },
-            {
-                  "name": "Ruine H...borstal",
-                  "text": "Ruinele unei foste instituții de corecție în Petite Riviere.",
-                  "category": "historical",
-                  "coords": [
-                        57.470786,
-                        -20.177644
-                  ]
-            },
-            {
-                  "name": "Camp Chapelon",
-                  "text": "Tabără istorică din perioada colonială în Petite Riviere.",
-                  "category": "historical",
-                  "coords": [
-                        57.47439,
-                        -20.174668
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "La Tour Koenig Windmill",
-                  "text": "Historic windmill in Petite Riviere, a stone tower.",
-                  "category": "castle",
-                  "coords": [
-                        57.470341,
-                        -20.176483
-                  ]
-            },
             {
                   "name": "Public Beach Pointe aux Sables",
                   "text": "Along the coast of Petite Rivière, the Public Beach Pointe aux Sables serves as a relaxing retreat for locals and guests. The calm, family-friendly atmosphere invites one to take a relaxed dip in the cool water or linger in the soft sand. It is highly recommended to bring enough drinking water to fully enjoy the time spent in the sun.",
@@ -8478,24 +6889,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.426484,
                         -20.179206
-                  ]
-            },
-            {
-                  "name": "Ruine H...borstal",
-                  "text": "Ruins of a former borstal in Petite Riviere.",
-                  "category": "historical",
-                  "coords": [
-                        57.470786,
-                        -20.177644
-                  ]
-            },
-            {
-                  "name": "Camp Chapelon",
-                  "text": "Historic colonial-era camp in Petite Riviere.",
-                  "category": "historical",
-                  "coords": [
-                        57.47439,
-                        -20.174668
                   ]
             }
       ]
@@ -8680,50 +7073,10 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-plaine-des-papayes-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Butte aux Papayes",
-                  "text": "Butte Aux Papayes in Plaine Des Papayes ist ein Hügel mit einem Plateau und Panoramablick.",
-                  "category": "natural",
-                  "coords": [
-                        57.606457,
-                        -20.062973
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Butte aux Papayes",
-                  "text": "Butte Aux Papayes Plaine Des Papayes-ben egy domb fennsíkkal és panorámás kilátással.",
-                  "category": "natural",
-                  "coords": [
-                        57.606457,
-                        -20.062973
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Butte aux Papayes",
-                  "text": "Butte Aux Papayes din Plaine Des Papayes este un deal cu un platou și vederi panoramice.",
-                  "category": "natural",
-                  "coords": [
-                        57.606457,
-                        -20.062973
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Butte Aux Papayes",
-                  "text": "Butte Aux Papayes in Plaine Des Papayes is a hill with a plateau and panoramic views.",
-                  "category": "natural",
-                  "coords": [
-                        57.606457,
-                        -20.062973
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "MU",
     type: "village",
@@ -8968,50 +7321,10 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-fond-du-sac-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Butte aux Papayes",
-                  "text": "Butte Aux Papayes in Fond Du Sac ist ein Hügel mit Blick auf den Fluss.",
-                  "category": "natural",
-                  "coords": [
-                        57.606457,
-                        -20.062973
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Butte aux Papayes",
-                  "text": "Butte Aux Papayes Fond Du Sac-ban egy domb, amely a folyóra néz.",
-                  "category": "natural",
-                  "coords": [
-                        57.606457,
-                        -20.062973
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Butte aux Papayes",
-                  "text": "Butte Aux Papayes din Fond Du Sac este un deal care dă spre râu.",
-                  "category": "natural",
-                  "coords": [
-                        57.606457,
-                        -20.062973
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Butte Aux Papayes",
-                  "text": "Butte Aux Papayes in Fond Du Sac is a hill overlooking the river.",
-                  "category": "natural",
-                  "coords": [
-                        57.606457,
-                        -20.062973
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "MU",
     type: "village",
@@ -9078,15 +7391,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Plage Des Canisses",
-                  "text": "La Plage Des Canisses bereichert die Küste von Mont Choisy um eine weitere idyllische Option für Strandgänger. Hier dominiert eine entspannte Urlaubsstimmung, die geradezu danach ruft, die Zehen in den Sand zu stecken und dem Ozean nahe zu sein. Dieser Ort eignet sich exzellent, um den Nachmittag mit einem guten Buch und gelegentlichen Abkühlungen im Meer zu verbringen.",
-                  "category": "recreational",
-                  "coords": [
-                        57.579425,
-                        -20.015488
-                  ]
-            },
-            {
                   "name": "Blue Safari Submarine",
                   "text": "U-Boot-Tauchgang zur Erkundung der Korallenriffe vor Mont Choisy.",
                   "category": "landmark",
@@ -9112,33 +7416,6 @@ export const mauritiusCitiesV2: POI[] = [
                         57.54862,
                         -20.026042
                   ]
-            },
-            {
-                  "name": "Trou aux Biches Public Beach",
-                  "text": "Auch wenn der Name auf den Nachbarort hindeutet, stellt dieser Strandabschnitt in der Region Mont Choisy eine fantastische Gelegenheit zum Baden dar. Die weiche Sandküste und das ruhige Wasser sorgen für eine friedliche, entspannte Atmosphäre bei den Besuchern. Um die tropische Hitze bestens zu ertragen, ist ein kühles Getränk unter einem schattigen Baum sehr zu empfehlen.",
-                  "category": "landmark",
-                  "coords": [
-                        57.544187,
-                        -20.034802
-                  ]
-            },
-            {
-                  "name": "Piments Public Beach",
-                  "text": "Der Piments Public Beach fasziniert durch seine eher unberührte, ruhige Lage nahe Mont Choisy. Dieser Küstenabschnitt ist ideal für Reisende, die abseits der großen Strände das Rauschen des Meeres und ein erfrischendes Bad suchen. Für ein optimales Stranderlebnis sollte man an eigene Schnorchelausrüstung denken, falls man das flache Ufer erkunden möchte.",
-                  "category": "landmark",
-                  "coords": [
-                        57.540971,
-                        -20.041216
-                  ]
-            },
-            {
-                  "name": "Trou aux Biches Resort & Spa",
-                  "text": "Strandresort am öffentlichen Strand von Trou aux Biches.",
-                  "category": "landmark",
-                  "coords": [
-                        57.546779,
-                        -20.031356
-                  ]
             }
       ],
       "hu": [
@@ -9158,15 +7435,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.554171,
                         -20.006894
-                  ]
-            },
-            {
-                  "name": "La Plage Des Canisses",
-                  "text": "A La Plage Des Canisses a Mont Choisy partvidékét egy újabb idilli lehetőséggel gazdagítja a strandolók számára. Itt egy nyugodt nyaralási hangulat uralkodik, amely szinte kiált azért, hogy a lábujjainkat a homokba fúrjuk, és közel legyünk az óceánhoz. Ez a hely kiválóan alkalmas arra, hogy a délutánt egy jó könyvvel és a tengerben való alkalmankénti felfrissüléssel töltsük.",
-                  "category": "recreational",
-                  "coords": [
-                        57.579425,
-                        -20.015488
                   ]
             },
             {
@@ -9195,33 +7463,6 @@ export const mauritiusCitiesV2: POI[] = [
                         57.54862,
                         -20.026042
                   ]
-            },
-            {
-                  "name": "Trou aux Biches Public Beach",
-                  "text": "Bár a név a szomszédos településre utal, ez a Mont Choisy régiójában található strandszakasz fantasztikus lehetőséget nyújt a fürdőzésre. A puha homokos part és a nyugodt víz békés, pihentető légkört biztosít a látogatók számára. A trópusi hőség legjobb elviselése érdekében erősen ajánlott egy hűsítő ital egy árnyékos fa alatt.",
-                  "category": "landmark",
-                  "coords": [
-                        57.544187,
-                        -20.034802
-                  ]
-            },
-            {
-                  "name": "Piments Public Beach",
-                  "text": "A Piments Public Beach a Mont Choisy közelében fekvő, inkább érintetlen, csendes fekvésével varázsol el. Ez a partszakasz ideális olyan utazók számára, akik a nagy strandoktól távol keresik a tenger zúgását és egy frissítő fürdőzést. Az optimális tengerparti élmény érdekében érdemes saját sznorkelfelszerelésre is gondolni, ha a sekély partot szeretnénk felfedezni.",
-                  "category": "landmark",
-                  "coords": [
-                        57.540971,
-                        -20.041216
-                  ]
-            },
-            {
-                  "name": "Trou aux Biches Resort & Spa",
-                  "text": "Strandüdülő a Trou aux Biches-i nyilvános strandon.",
-                  "category": "landmark",
-                  "coords": [
-                        57.546779,
-                        -20.031356
-                  ]
             }
       ],
       "ro": [
@@ -9241,15 +7482,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.554171,
                         -20.006894
-                  ]
-            },
-            {
-                  "name": "La Plage Des Canisses",
-                  "text": "La Plage Des Canisses îmbogățește coasta din Mont Choisy cu o altă opțiune idilică pentru cei care merg la plajă. Aici domină o dispoziție relaxată de vacanță, care aproape că te cheamă să îți înfigi degetele de la picioare în nisip și să fii aproape de ocean. Acest loc se potrivește excelent pentru a petrece după-amiaza cu o carte bună și răcoriri ocazionale în mare.",
-                  "category": "recreational",
-                  "coords": [
-                        57.579425,
-                        -20.015488
                   ]
             },
             {
@@ -9278,33 +7510,6 @@ export const mauritiusCitiesV2: POI[] = [
                         57.54862,
                         -20.026042
                   ]
-            },
-            {
-                  "name": "Trou aux Biches Public Beach",
-                  "text": "Chiar dacă numele sugerează orașul învecinat, această secțiune de plajă din regiunea Mont Choisy reprezintă o oportunitate fantastică pentru înot. Coasta de nisip moale și apa liniștită asigură o atmosferă pașnică și relaxată în rândul vizitatorilor. Pentru a suporta cel mai bine căldura tropicală, se recomandă cu tărie o băutură rece sub un copac umbros.",
-                  "category": "landmark",
-                  "coords": [
-                        57.544187,
-                        -20.034802
-                  ]
-            },
-            {
-                  "name": "Piments Public Beach",
-                  "text": "Piments Public Beach fascinează prin locația sa mai degrabă neatinsă și liniștită de lângă Mont Choisy. Această porțiune de coastă este ideală pentru călătorii care caută sunetul mării și o baie revigorantă departe de plajele mari. Pentru o experiență optimă la plajă, ar trebui să vă gândiți la propriul echipament de snorkeling dacă doriți să explorați țărmul puțin adânc.",
-                  "category": "landmark",
-                  "coords": [
-                        57.540971,
-                        -20.041216
-                  ]
-            },
-            {
-                  "name": "Trou aux Biches Resort & Spa",
-                  "text": "Stațiune pe plaja publică Trou aux Biches.",
-                  "category": "landmark",
-                  "coords": [
-                        57.546779,
-                        -20.031356
-                  ]
             }
       ],
       "en": [
@@ -9324,15 +7529,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.554171,
                         -20.006894
-                  ]
-            },
-            {
-                  "name": "La Plage Des Canisses",
-                  "text": "La Plage Des Canisses enriches the coast of Mont Choisy with another idyllic option for beachgoers. A relaxed holiday mood dominates here, practically calling out for you to sink your toes into the sand and be close to the ocean. This location is excellently suited for spending the afternoon with a good book and occasional cool-downs in the sea.",
-                  "category": "recreational",
-                  "coords": [
-                        57.579425,
-                        -20.015488
                   ]
             },
             {
@@ -9360,33 +7556,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.54862,
                         -20.026042
-                  ]
-            },
-            {
-                  "name": "Trou aux Biches Public Beach",
-                  "text": "Even though the name points to the neighboring town, this beach section in the Mont Choisy region represents a fantastic opportunity for swimming. The soft sandy coast and the calm water ensure a peaceful, relaxed atmosphere among the visitors. To best endure the tropical heat, a cool drink under a shady tree is highly recommended.",
-                  "category": "landmark",
-                  "coords": [
-                        57.544187,
-                        -20.034802
-                  ]
-            },
-            {
-                  "name": "Piments Public Beach",
-                  "text": "Piments Public Beach fascinates with its rather untouched, quiet location near Mont Choisy. This coastal section is ideal for travelers seeking the sound of the sea and a refreshing swim away from the major beaches. For an optimal beach experience, one should consider bringing their own snorkeling gear if they wish to explore the shallow shore.",
-                  "category": "landmark",
-                  "coords": [
-                        57.540971,
-                        -20.041216
-                  ]
-            },
-            {
-                  "name": "Trou aux Biches Resort & Spa",
-                  "text": "Beach resort on Trou aux Biches public beach.",
-                  "category": "landmark",
-                  "coords": [
-                        57.546779,
-                        -20.031356
                   ]
             }
       ]
@@ -9438,33 +7607,6 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-trou-aux-biches-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Mont Choisy Beach",
-                  "text": "Von Trou aux Biches aus zugänglich, präsentiert sich der Mont Choisy Beach als durchgehende, atemberaubende Küstenlinie mit herrlichem Sand. Sonnenanbeter und Schwimmer treffen hier auf eine harmonische, einladende Umgebung, die zu langen Tagen am Wasser einlädt. Wer gerne die Küste erkundet, kann hier ausgedehnte Strandwanderungen unternehmen, bis die Sonne untergeht.",
-                  "category": "recreational",
-                  "coords": [
-                        57.555977,
-                        -20.016024
-                  ]
-            },
-            {
-                  "name": "Blue Safari Submarine",
-                  "text": "Das Blue Safari Submarine in Trou aux Biches bietet Unterwasser-Attraktionen.",
-                  "category": "landmark",
-                  "coords": [
-                        57.550378,
-                        -20.02561
-                  ]
-            },
-            {
-                  "name": "Public Beach",
-                  "text": "Mitten im beliebten Ort Trou aux Biches lädt dieser öffentliche Strandbereich zum Verweilen am Indischen Ozean ein. Ein lebendiger, aber dennoch entspannter Charme liegt in der Luft, während Badegäste das sanfte Meereswasser genießen. Aufgrund seiner Beliebtheit empfiehlt es sich, den Strandbesuch auf die ruhigeren Wochentage zu legen.",
-                  "category": "landmark",
-                  "coords": [
-                        57.54862,
-                        -20.026042
-                  ]
-            },
-            {
                   "name": "Trou aux Biches Public Beach",
                   "text": "An der wunderschönen Küste von Mauritius gelegen, ist der Trou aux Biches Public Beach ein gut besuchtes und einladendes Ziel. Die lebhafte Atmosphäre macht ihn zu einem großartigen Ort, um die Meereswellen und das Sonnenbaden im Sand zu genießen. Besucher erwartet ein klassisches Erlebnis am Meer mit Schwimmen und gemütlichen Spaziergängen. Ein frühes Eintreffen am Tag wird empfohlen, um sich den besten Platz am Wasser zu sichern.",
                   "category": "landmark",
@@ -9483,15 +7625,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pointe aux Piments Public Beach 2",
-                  "text": "Entdecken Sie den Charme des Pointe aux Piments Public Beach 2, einem einladenden öffentlichen Küstenabschnitt in Trou aux Biches. Dieses Ziel an der Küste bietet eine angenehme Atmosphäre für Einheimische und Touristen gleichermaßen, um die natürliche Umgebung zu genießen. Gäste können hier problemlos Stunden damit verbringen, im Ozean zu schwimmen oder sich am Ufer auszuruhen. Etwas Schatten und ein gutes Buch machen den Ausflug tagsüber perfekt.",
-                  "category": "landmark",
-                  "coords": [
-                        57.5227,
-                        -20.050408
-                  ]
-            },
-            {
                   "name": "Trou aux Biches Resort & Spa",
                   "text": "Strandresort am öffentlichen Strand von Trou aux Biches.",
                   "category": "landmark",
@@ -9502,33 +7635,6 @@ export const mauritiusCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Mont Choisy Beach",
-                  "text": "A Trou aux Biches felől megközelíthető Mont Choisy Beach egybefüggő, lélegzetelállító partvonalként mutatkozik be pompás homokkal. A napimádók és az úszók itt egy harmonikus, hívogató környezettel találkoznak, amely hosszú vízparti napokra csábít. Aki szívesen fedezi fel a partot, az kiterjedt tengerparti túrákat tehet itt egészen naplementéig.",
-                  "category": "recreational",
-                  "coords": [
-                        57.555977,
-                        -20.016024
-                  ]
-            },
-            {
-                  "name": "Blue Safari Submarine",
-                  "text": "A Trou aux Biches-ben található Blue Safari Submarine víz alatti látnivalókat kínál.",
-                  "category": "landmark",
-                  "coords": [
-                        57.550378,
-                        -20.02561
-                  ]
-            },
-            {
-                  "name": "Public Beach",
-                  "text": "A népszerű Trou aux Biches település közepén ez a nyilvános strandrész elidőzésre hívogat az Indiai-óceán partján. Élénk, mégis nyugodt báj lengi be a levegőt, miközben a fürdőzők a lágy tengervizet élvezik. Népszerűsége miatt ajánlott a tengerparti látogatást a csendesebb hétköznapokra időzíteni.",
-                  "category": "landmark",
-                  "coords": [
-                        57.54862,
-                        -20.026042
-                  ]
-            },
             {
                   "name": "Trou aux Biches Public Beach",
                   "text": "A gyönyörű mauritiusi tengerparton található Trou aux Biches Public Beach egy gyakran látogatott és hívogató úti cél. A nyüzsgő atmoszféra nagyszerű helyszínt biztosít az óceán hullámainak és a homokos parton való napozásnak az élvezetéhez. A látogatók klasszikus tengerparti élményre számíthatnak, fürdőzéssel és kellemes sétákkal. Érdemes a nap folyamán korán érkezni, hogy a legjobb helyet biztosítsuk magunknak a vízparton.",
@@ -9548,15 +7654,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pointe aux Piments Public Beach 2",
-                  "text": "Fedezze fel a Pointe aux Piments Public Beach 2 varázsát, amely egy hívogató nyilvános partszakasz Trou aux Biches-ben. Ez a tengerparti úti cél kellemes légkört biztosít a helyiek és a turisták számára egyaránt a természetes környezet élvezetéhez. A vendégek könnyedén eltölthetnek itt órákat az óceánban úszva vagy a parton pihenve. Egy kis árnyék és egy jó könyv tökéletessé teszi a nappali kirándulást.",
-                  "category": "landmark",
-                  "coords": [
-                        57.5227,
-                        -20.050408
-                  ]
-            },
-            {
                   "name": "Trou aux Biches Resort & Spa",
                   "text": "Strandüdülő a Trou aux Biches-i nyilvános strandon.",
                   "category": "landmark",
@@ -9567,33 +7664,6 @@ export const mauritiusCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Mont Choisy Beach",
-                  "text": "Accesibilă din Trou aux Biches, Mont Choisy Beach se prezintă ca o linie de coastă continuă, uluitoare, cu nisip superb. Iubitorii de soare și înotătorii întâlnesc aici un mediu armonios, primitor, care invită la zile lungi petrecute la malul apei. Cei cărora le place să exploreze coasta pot face drumeții lungi pe plajă aici până la apusul soarelui.",
-                  "category": "recreational",
-                  "coords": [
-                        57.555977,
-                        -20.016024
-                  ]
-            },
-            {
-                  "name": "Blue Safari Submarine",
-                  "text": "Blue Safari Submarine din Trou aux Biches oferă atracții subacvatice.",
-                  "category": "landmark",
-                  "coords": [
-                        57.550378,
-                        -20.02561
-                  ]
-            },
-            {
-                  "name": "Public Beach",
-                  "text": "Chiar în mijlocul popularei localități Trou aux Biches, această zonă de plajă publică vă invită să zăboviți la Oceanul Indian. Un farmec plin de viață, dar totuși relaxat se simte în aer, în timp ce cei care fac baie se bucură de apa blândă a mării. Datorită popularității sale, este recomandabil să vă programați vizita la plajă în zilele mai liniștite ale săptămânii.",
-                  "category": "landmark",
-                  "coords": [
-                        57.54862,
-                        -20.026042
-                  ]
-            },
             {
                   "name": "Trou aux Biches Public Beach",
                   "text": "Situată de-a lungul frumoasei coaste din Mauritius, Trou aux Biches Public Beach este o destinație foarte vizitată și primitoare. Atmosfera plină de viață o face un loc excelent pentru a vă bucura de valurile oceanului și de plajă pe nisip. Vizitatorii se pot aștepta la o experiență clasică la malul mării, plină de înot și plimbări relaxante. Este recomandat să ajungeți devreme în timpul zilei pentru a vă asigura cel mai bun loc lângă apă.",
@@ -9613,15 +7683,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pointe aux Piments Public Beach 2",
-                  "text": "Descoperiți farmecul Pointe aux Piments Public Beach 2, o zonă de coastă publică primitoare din Trou aux Biches. Această destinație de coastă oferă o atmosferă plăcută atât pentru localnici, cât și pentru turiști, pentru a se bucura de mediul natural. Oaspeții pot petrece cu ușurință ore întregi înotând în ocean sau odihnindu-se pe mal. Aducerea unei umbrele și a unei cărți bune asigură o ieșire perfectă în timpul zilei.",
-                  "category": "landmark",
-                  "coords": [
-                        57.5227,
-                        -20.050408
-                  ]
-            },
-            {
                   "name": "Trou aux Biches Resort & Spa",
                   "text": "Stațiune pe plaja publică Trou aux Biches.",
                   "category": "landmark",
@@ -9632,33 +7693,6 @@ export const mauritiusCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Mont Choisy Beach",
-                  "text": "Accessible from Trou aux Biches, Mont Choisy Beach presents itself as a continuous, breathtaking coastline with gorgeous sand. Sun worshippers and swimmers encounter a harmonious, inviting environment here that invites long days by the water. Those who like to explore the coast can take extensive beach hikes here until the sun goes down.",
-                  "category": "recreational",
-                  "coords": [
-                        57.555977,
-                        -20.016024
-                  ]
-            },
-            {
-                  "name": "Blue Safari Submarine",
-                  "text": "Blue Safari Submarine in Trou aux Biches offers underwater attractions.",
-                  "category": "landmark",
-                  "coords": [
-                        57.550378,
-                        -20.02561
-                  ]
-            },
-            {
-                  "name": "Public Beach",
-                  "text": "Right in the middle of the popular town of Trou aux Biches, this public beach area invites you to linger by the Indian Ocean. A lively yet relaxed charm fills the air as bathers enjoy the gentle sea water. Due to its popularity, it is advisable to schedule the beach visit on the quieter weekdays.",
-                  "category": "landmark",
-                  "coords": [
-                        57.54862,
-                        -20.026042
-                  ]
-            },
             {
                   "name": "Trou aux Biches Public Beach",
                   "text": "Set along the beautiful coastline of Mauritius, Trou aux Biches Public Beach is a well-visited and inviting destination. The lively atmosphere makes it a great spot for enjoying the ocean waves and sunbathing on the sand. Visitors can look forward to a classic seaside experience filled with swimming and leisurely walks. Arriving early in the day is recommended to secure the best spot by the water.",
@@ -9675,15 +7709,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.540971,
                         -20.041216
-                  ]
-            },
-            {
-                  "name": "Pointe aux Piments Public Beach 2",
-                  "text": "Discover the charm of Pointe aux Piments Public Beach 2, an inviting public shoreline in Trou aux Biches. This coastal destination provides a pleasant atmosphere for locals and tourists alike to enjoy the natural surroundings. Guests can easily spend hours swimming in the ocean or resting on the shore. Bringing along some shade and a good book makes for a perfect daytime outing.",
-                  "category": "landmark",
-                  "coords": [
-                        57.5227,
-                        -20.050408
                   ]
             },
             {
@@ -9744,42 +7769,6 @@ export const mauritiusCitiesV2: POI[] = [
     id: "mauritius-pereybere-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Public Beach 10.1.2023",
-                  "text": "Gelegen im charmanten Dorf Pereybere, bietet der Public Beach 10.1.2023 einen herrlichen Rückzugsort an der Küste. Die Gegend ist ein einladender Ort, um die lokale Strandkultur und die Ruhe am Meer zu erleben. Er eignet sich hervorragend für einen entspannten Tag zum Sonnenbaden und Waten im klaren mauritischen Wasser. Um Ihren Besuch optimal zu nutzen, sollten Sie an einem Wochentag kommen, wenn es etwas ruhiger ist.",
-                  "category": "recreational",
-                  "coords": [
-                        57.606546,
-                        -19.985416
-                  ]
-            },
-            {
-                  "name": "La Cuvette Public Beach",
-                  "text": "Der La Cuvette Public Beach ist eine ruhige Oase der Entspannung am Meer, eingebettet in Pereybere. Dieser Ort strahlt eine friedliche Atmosphäre aus und zieht all jene an, die den belebteren Küsten entfliehen möchten. Besucher können gemütlich schwimmen, sich sonnen und sanfte Spaziergänge am Wasser unternehmen. Der Sonnenuntergang ist eine besonders magische Zeit, um die Aussicht an diesem Strand zu genießen.",
-                  "category": "recreational",
-                  "coords": [
-                        57.578063,
-                        -20.007103
-                  ]
-            },
-            {
-                  "name": "LUX* Grand Baie Resort & Residences",
-                  "text": "Resort in Pereybere mit Blick auf die Bucht von Grand Baie.",
-                  "category": "recreational",
-                  "coords": [
-                        57.583355,
-                        -20.000213
-                  ]
-            },
-            {
-                  "name": "Bain Boeuf Public Beach",
-                  "text": "Der Bain Boeuf Public Beach empfängt seine Besucher mit offenen Ufern und ist eine beliebte Küstenattraktion in Pereybere. Die Sandflächen schaffen eine entspannende, familienfreundliche Umgebung, die sich perfekt für einen Tagesausflug eignet. Er ist ein hervorragendes Ziel für eine Mischung aus Schwimmen im Meer, Erkunden der Küste und Sonnenbaden. Ein Picknick einzupacken ist eine großartige Möglichkeit, den Aufenthalt bis in den Nachmittag hinein zu verlängern.",
-                  "category": "landmark",
-                  "coords": [
-                        57.604137,
-                        -19.985981
-                  ]
-            },
-            {
                   "name": "Pointe Egilise",
                   "text": "Felsige Landzunge mit Ruine einer alten Kirche in Pereybere.",
                   "category": "landmark",
@@ -9799,42 +7788,6 @@ export const mauritiusCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Public Beach 10.1.2023",
-                  "text": "A bájos Pereybere faluban található Public Beach 10.1.2023 elragadó tengerparti menedéket kínál. A terület hívogató helyszínként szolgál a helyi strandkultúra és a tengerparti nyugalom megtapasztalására. Tökéletesen alkalmas egy kötetlen napra, melyet napozással és a tiszta mauritiusi vizekben való gázolással tölthetünk. Hogy a legtöbbet hozza ki a látogatásból, tervezze az utat egy hétköznapra, amikor csendesebb lehet.",
-                  "category": "recreational",
-                  "coords": [
-                        57.606546,
-                        -19.985416
-                  ]
-            },
-            {
-                  "name": "La Cuvette Public Beach",
-                  "text": "A La Cuvette Public Beach a tengerparti kikapcsolódás nyugodt menedéke Pereybere-ben. Ez a hely békés hangulatot áraszt, vonzva azokat, akik a forgalmasabb partoktól szeretnének elmenekülni. A látogatók élvezhetik a kényelmes úszást, a napozást és a könnyed sétákat a vízparton. A naplemente különösen varázslatos időszak a tengerparti kilátás megcsodálására.",
-                  "category": "recreational",
-                  "coords": [
-                        57.578063,
-                        -20.007103
-                  ]
-            },
-            {
-                  "name": "LUX* Grand Baie Resort & Residences",
-                  "text": "Üdülő Pereybere-ben, a Grand Baie-i öbölre néző kilátással.",
-                  "category": "recreational",
-                  "coords": [
-                        57.583355,
-                        -20.000213
-                  ]
-            },
-            {
-                  "name": "Bain Boeuf Public Beach",
-                  "text": "A látogatókat nyitott partokkal fogadó Bain Boeuf Public Beach egy kedvelt tengerparti látványosság Pereybere-ben. A homokos kiterjedések pihentető, családbarát környezetet teremtenek, amely tökéletes egy kiránduláshoz. Kiváló úti cél, ahol a tengeri úszás, a part felfedezése és a napozás keveredik. Egy piknik csomagolása nagyszerű módja annak, hogy a tartózkodást a délutánra is meghosszabbítsuk.",
-                  "category": "landmark",
-                  "coords": [
-                        57.604137,
-                        -19.985981
-                  ]
-            },
             {
                   "name": "Pointe Egilise",
                   "text": "Sziklás földnyelv egy régi templom romjaival Pereybere-ben.",
@@ -9856,42 +7809,6 @@ export const mauritiusCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Public Beach 10.1.2023",
-                  "text": "Situată în fermecătorul sat Pereybere, Public Beach 10.1.2023 oferă o evadare încântătoare pe coastă. Zona servește ca un loc primitor pentru a experimenta cultura locală a plajei și liniștea mării. Este perfect potrivită pentru o zi lejeră de plajă și de plimbare prin apele limpezi din Mauritius. Pentru a profita la maximum de vizita dumneavoastră, plănuiți să mergeți într-o zi a săptămânii, când ar putea fi mai liniște.",
-                  "category": "recreational",
-                  "coords": [
-                        57.606546,
-                        -19.985416
-                  ]
-            },
-            {
-                  "name": "La Cuvette Public Beach",
-                  "text": "La Cuvette Public Beach este un refugiu senin pentru relaxare la malul mării, amplasat în Pereybere. Acest loc emană o ambianță pașnică, atrăgându-i pe cei care doresc să scape de țărmurile mai aglomerate. Vizitatorii se pot angaja în înot pe îndelete, plajă și plimbări blânde de-a lungul apei. Apusul soarelui este un moment deosebit de magic pentru a admira priveliștea pe această plajă.",
-                  "category": "recreational",
-                  "coords": [
-                        57.578063,
-                        -20.007103
-                  ]
-            },
-            {
-                  "name": "LUX* Grand Baie Resort & Residences",
-                  "text": "Stațiune în Pereybere cu vedere spre golful Grand Baie.",
-                  "category": "recreational",
-                  "coords": [
-                        57.583355,
-                        -20.000213
-                  ]
-            },
-            {
-                  "name": "Bain Boeuf Public Beach",
-                  "text": "Întâmpinând vizitatorii cu țărmuri deschise, Bain Boeuf Public Beach este o atracție de coastă favorită în Pereybere. Întinderile de nisip creează un mediu relaxant, potrivit pentru familii, perfect pentru o zi de ieșire. Este o destinație excelentă pentru un amestec de înot în mare, explorare a țărmului și băi de soare. Împachetarea unui picnic este o modalitate excelentă de a vă prelungi șederea până după-amiaza.",
-                  "category": "landmark",
-                  "coords": [
-                        57.604137,
-                        -19.985981
-                  ]
-            },
-            {
                   "name": "Pointe Egilise",
                   "text": "Promontoriu stâncos cu ruinele unei vechi biserici în Pereybere.",
                   "category": "landmark",
@@ -9911,42 +7828,6 @@ export const mauritiusCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Public Beach 10.1.2023",
-                  "text": "Situated in the charming village of Pereybere, Public Beach 10.1.2023 offers a delightful coastal escape. The area serves as a welcoming spot to experience the local beach culture and seaside tranquility. It is perfectly suited for a casual day of sunbathing and wading in the clear Mauritian waters. To make the most of your visit, plan to go on a weekday when it might be quieter.",
-                  "category": "recreational",
-                  "coords": [
-                        57.606546,
-                        -19.985416
-                  ]
-            },
-            {
-                  "name": "La Cuvette Public Beach",
-                  "text": "La Cuvette Public Beach is a serene haven for seaside relaxation nestled in Pereybere. This spot exudes a peaceful ambiance, drawing those who wish to escape the busier shores. Visitors can engage in leisurely swimming, sunbathing, and gentle walks along the water's edge. Sunset is a particularly magical time to take in the views at this beach.",
-                  "category": "recreational",
-                  "coords": [
-                        57.578063,
-                        -20.007103
-                  ]
-            },
-            {
-                  "name": "LUX* Grand Baie Resort & Residences",
-                  "text": "Resort in Pereybere with views over Grand Baie bay.",
-                  "category": "recreational",
-                  "coords": [
-                        57.583355,
-                        -20.000213
-                  ]
-            },
-            {
-                  "name": "Bain Boeuf Public Beach",
-                  "text": "Welcoming visitors with open shores, Bain Boeuf Public Beach is a favored coastal attraction in Pereybere. The sandy expanses create a relaxing, family-friendly environment perfect for a day out. It is an excellent destination for a mix of sea swimming, shoreline exploring, and soaking in the sun. Packing a picnic is a great way to extend your stay into the afternoon.",
-                  "category": "landmark",
-                  "coords": [
-                        57.604137,
-                        -19.985981
-                  ]
-            },
             {
                   "name": "Pointe Egilise",
                   "text": "Rocky headland with ruins of an old church in Pereybere.",
@@ -10795,33 +8676,6 @@ export const mauritiusCitiesV2: POI[] = [
                         57.549054,
                         -20.195621
                   ]
-            },
-            {
-                  "name": "Priest's Peak",
-                  "text": "Priest's Peak ist ein natürlicher Hügel, der über Creve Coeur ragt.",
-                  "category": "natural",
-                  "coords": [
-                        57.524975,
-                        -20.163853
-                  ]
-            },
-            {
-                  "name": "Malartic Tomb",
-                  "text": "Grabmal des französischen Gouverneurs Antoine de Malartic.",
-                  "category": "historical",
-                  "coords": [
-                        57.511523,
-                        -20.170626
-                  ]
-            },
-            {
-                  "name": "TOMBEAU MALARTIC",
-                  "text": "Grabmal des französischen Gouverneurs Antoine de Malartic.",
-                  "category": "historical",
-                  "coords": [
-                        57.51009,
-                        -20.169277
-                  ]
             }
       ],
       "hu": [
@@ -10859,33 +8713,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.549054,
                         -20.195621
-                  ]
-            },
-            {
-                  "name": "Priest's Peak",
-                  "text": "A Priest's Peak egy természetes domb, amely Creve Coeur fölé magasodik.",
-                  "category": "natural",
-                  "coords": [
-                        57.524975,
-                        -20.163853
-                  ]
-            },
-            {
-                  "name": "Malartic Tomb",
-                  "text": "Antoine de Malartic francia kormányzó síremléke.",
-                  "category": "historical",
-                  "coords": [
-                        57.511523,
-                        -20.170626
-                  ]
-            },
-            {
-                  "name": "TOMBEAU MALARTIC",
-                  "text": "Antoine de Malartic francia kormányzó síremléke.",
-                  "category": "historical",
-                  "coords": [
-                        57.51009,
-                        -20.169277
                   ]
             }
       ],
@@ -10925,33 +8752,6 @@ export const mauritiusCitiesV2: POI[] = [
                         57.549054,
                         -20.195621
                   ]
-            },
-            {
-                  "name": "Priest's Peak",
-                  "text": "Priest's Peak este un deal natural care domină Creve Coeur.",
-                  "category": "natural",
-                  "coords": [
-                        57.524975,
-                        -20.163853
-                  ]
-            },
-            {
-                  "name": "Malartic Tomb",
-                  "text": "Mormântul guvernatorului francez Antoine de Malartic.",
-                  "category": "historical",
-                  "coords": [
-                        57.511523,
-                        -20.170626
-                  ]
-            },
-            {
-                  "name": "TOMBEAU MALARTIC",
-                  "text": "Mormântul guvernatorului francez Antoine de Malartic.",
-                  "category": "historical",
-                  "coords": [
-                        57.51009,
-                        -20.169277
-                  ]
             }
       ],
       "en": [
@@ -10989,33 +8789,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.549054,
                         -20.195621
-                  ]
-            },
-            {
-                  "name": "Priest's Peak",
-                  "text": "Priest's Peak is a natural hill overlooking Creve Coeur.",
-                  "category": "natural",
-                  "coords": [
-                        57.524975,
-                        -20.163853
-                  ]
-            },
-            {
-                  "name": "Malartic Tomb",
-                  "text": "Tomb of French governor Antoine de Malartic.",
-                  "category": "historical",
-                  "coords": [
-                        57.511523,
-                        -20.170626
-                  ]
-            },
-            {
-                  "name": "TOMBEAU MALARTIC",
-                  "text": "Tomb of French governor Antoine de Malartic.",
-                  "category": "historical",
-                  "coords": [
-                        57.51009,
-                        -20.169277
                   ]
             }
       ]
@@ -11488,50 +9261,10 @@ export const mauritiusCitiesV2: POI[] = [
   },
   {
     id: "mauritius-le-val-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Le Val Reserve",
-                  "text": "Naturreservat mit Wasserfall und Wanderwegen in Le Val.",
-                  "category": "natural",
-                  "coords": [
-                        57.630725,
-                        -20.364228
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Le Val Reserve",
-                  "text": "Természetvédelmi terület vízeséssel és túraútvonalakkal Le Val-ban.",
-                  "category": "natural",
-                  "coords": [
-                        57.630725,
-                        -20.364228
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Le Val Reserve",
-                  "text": "Rezervație naturală cu cascadă și trasee de drumeție în Le Val.",
-                  "category": "natural",
-                  "coords": [
-                        57.630725,
-                        -20.364228
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Le Val Reserve",
-                  "text": "Nature reserve with a waterfall and hiking trails in Le Val.",
-                  "category": "natural",
-                  "coords": [
-                        57.630725,
-                        -20.364228
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "MU",
     type: "village",
@@ -11633,15 +9366,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vieux Grand Port public beach",
-                  "text": "Der öffentliche Strand von Vieux Grand Port bietet Erholung an der Küste in Olivier und ist ein wahres verborgenes Juwel. Die ruhige Umgebung lädt Besucher dazu ein, abzuschalten und den rhythmischen Klängen des Ozeans zu lauschen. Ideal für ein erfrischendes Bad oder einfach nur zum Faulenzen am Sandstrand, verspricht er pure Entspannung. Ein Besuch am späten Nachmittag belohnt die Gäste oft mit wunderschönem, weichem Licht über dem Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        57.71894,
-                        -20.377207
-                  ]
-            },
-            {
                   "name": "Waterfront Mahebourg",
                   "text": "Uferpromenade am Hafen von Mahebourg in Olivier.",
                   "category": "natural",
@@ -11668,15 +9392,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.733201,
                         -20.420197
-                  ]
-            },
-            {
-                  "name": "Vieux Grand Port public beach",
-                  "text": "A parti kikapcsolódást kínáló Vieux Grand Port nyilvános strand Olivierben egy igazi rejtett gyöngyszem. A nyugodt környezet arra csábítja a látogatókat, hogy kikapcsolódjanak és élvezzék az óceán ritmikus hangjait. Ideális egy frissítő úszáshoz vagy egyszerűen csak a homokos parton való heverészéshez, tiszta ellazulást ígér. Egy késő délutáni látogatás gyakran gyönyörű, lágy fénnyel jutalmazza a vendégeket a víz felett.",
-                  "category": "recreational",
-                  "coords": [
-                        57.71894,
-                        -20.377207
                   ]
             },
             {
@@ -11709,15 +9424,6 @@ export const mauritiusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vieux Grand Port public beach",
-                  "text": "Oferind recreere pe coastă în Olivier, plaja publică Vieux Grand Port este o adevărată bijuterie ascunsă. Mediul senin invită vizitatorii să se deconecteze și să se bucure de sunetele ritmice ale oceanului. Ideală pentru o baie răcoritoare sau pur și simplu pentru lenevitul pe malul de nisip, promite o relaxare pură. O vizită la sfârșitul după-amiezii răsplătește adesea oaspeții cu o lumină frumoasă, blândă pe apă.",
-                  "category": "recreational",
-                  "coords": [
-                        57.71894,
-                        -20.377207
-                  ]
-            },
-            {
                   "name": "Waterfront Mahebourg",
                   "text": "Promenadă pe malul apei la portul Mahebourg în Olivier.",
                   "category": "natural",
@@ -11744,15 +9450,6 @@ export const mauritiusCitiesV2: POI[] = [
                   "coords": [
                         57.733201,
                         -20.420197
-                  ]
-            },
-            {
-                  "name": "Vieux Grand Port public beach",
-                  "text": "Offering coastal recreation in Olivier, the Vieux Grand Port public beach is a true hidden gem. The serene environment invites visitors to disconnect and enjoy the rhythmic sounds of the ocean. Ideal for a refreshing swim or simply lounging on the sandy shore, it promises pure relaxation. A late afternoon visit often rewards guests with beautiful, soft light across the water.",
-                  "category": "recreational",
-                  "coords": [
-                        57.71894,
-                        -20.377207
                   ]
             },
             {

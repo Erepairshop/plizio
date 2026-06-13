@@ -24,15 +24,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Salamansa golfcourse",
-                  "text": "Ein einzigartiger, rauer Golfplatz vor der Kulisse des trockenen, windgepeitschten Geländes der Insel in Salamansa.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.933004,
-                        16.908129
-                  ]
-            },
-            {
                   "name": "Parque Natural de Monte Verde",
                   "text": "Ein geschütztes Berggebiet, das endemische Flora beherbergt und atemberaubende Ausblicke über die Insel bietet.",
                   "category": "natural",
@@ -77,15 +68,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
                   "coords": [
                         -24.934072,
                         16.869552
-                  ]
-            },
-            {
-                  "name": "Salamansa golfcourse",
-                  "text": "Egyedülálló, zord golfpálya a sziget száraz, szélfútta terepének hátterében, Salamansában.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.933004,
-                        16.908129
                   ]
             },
             {
@@ -136,15 +118,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Salamansa golfcourse",
-                  "text": "Un teren de golf unic și accidentat, amplasat pe fundalul terenului arid și bătut de vânt al insulei din Salamansa.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.933004,
-                        16.908129
-                  ]
-            },
-            {
                   "name": "Parque Natural de Monte Verde",
                   "text": "O zonă muntoasă protejată care adăpostește floră endemică și oferă priveliști uluitoare peste insulă.",
                   "category": "natural",
@@ -189,15 +162,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
                   "coords": [
                         -24.934072,
                         16.869552
-                  ]
-            },
-            {
-                  "name": "Salamansa golfcourse",
-                  "text": "A unique, rugged golf course set against the backdrop of the island's arid, windswept terrain in Salamansa.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.933004,
-                        16.908129
                   ]
             },
             {
@@ -411,15 +375,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chã das Caldeiras",
-                  "text": "Eine kleine Gemeinde, die sich direkt im Krater des Vulkans Fogo befindet.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.366868,
-                        14.967195
-                  ]
-            },
-            {
                   "name": "Arche",
                   "text": "Eine natürliche Felsbogenformation im zerklüfteten Gelände der Bordeira do Fogo.",
                   "category": "landmark",
@@ -455,15 +410,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
                   "coords": [
                         -24.390481,
                         14.962902
-                  ]
-            },
-            {
-                  "name": "Chã das Caldeiras",
-                  "text": "Közvetlenül a Fogo vulkán kráterében elhelyezkedő kis közösség.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.366868,
-                        14.967195
                   ]
             },
             {
@@ -505,15 +451,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chã das Caldeiras",
-                  "text": "O mică comunitate situată chiar în interiorul craterului vulcanului Fogo.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.366868,
-                        14.967195
-                  ]
-            },
-            {
                   "name": "Arche",
                   "text": "O formațiune stâncoasă sub formă de arcadă naturală, aflată în terenul accidentat din Bordeira do Fogo.",
                   "category": "landmark",
@@ -549,15 +486,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
                   "coords": [
                         -24.390481,
                         14.962902
-                  ]
-            },
-            {
-                  "name": "Chã das Caldeiras",
-                  "text": "A small community situated directly within the crater of the Fogo volcano.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.366868,
-                        14.967195
                   ]
             },
             {
@@ -1699,15 +1627,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
                         -22.960853,
                         16.052336
                   ]
-            },
-            {
-                  "name": "Praia São Roque",
-                  "text": "Praia São Roque ist ein entspannender Strandabschnitt am Ozean in der Nähe von morro-de-areia-relief-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.963852,
-                        16.038897
-                  ]
             }
       ],
       "hu": [
@@ -1754,15 +1673,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
                   "coords": [
                         -22.960853,
                         16.052336
-                  ]
-            },
-            {
-                  "name": "Praia São Roque",
-                  "text": "A Praia São Roque egy pihentető homokos partszakasz az óceán partján, morro-de-areia-relief-v2 közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.963852,
-                        16.038897
                   ]
             }
       ],
@@ -1811,15 +1721,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
                         -22.960853,
                         16.052336
                   ]
-            },
-            {
-                  "name": "Praia São Roque",
-                  "text": "Praia São Roque este o întindere relaxantă de nisip situată lângă ocean, în apropiere de morro-de-areia-relief-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.963852,
-                        16.038897
-                  ]
             }
       ],
       "en": [
@@ -1866,15 +1767,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
                   "coords": [
                         -22.960853,
                         16.052336
-                  ]
-            },
-            {
-                  "name": "Praia São Roque",
-                  "text": "Praia São Roque is a relaxing sandy stretch located by the ocean near morro-de-areia-relief-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.963852,
-                        16.038897
                   ]
             }
       ]
@@ -1927,50 +1819,10 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
   },
   {
     id: "monte-semedo-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Cruz de Barreira",
-                  "text": "Ein erhöhter, durch ein Kreuz markierter Aussichtspunkt mit Blick auf die zerklüfteten Täler im Landesinneren.",
-                  "category": "natural",
-                  "coords": [
-                        -23.597703,
-                        15.199236
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cruz de Barreira",
-                  "text": "Kereszttel jelölt, magaslati kilátópont, ahonnan a zord szárazföldi völgyekre nyílik kilátás.",
-                  "category": "natural",
-                  "coords": [
-                        -23.597703,
-                        15.199236
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Cruz de Barreira",
-                  "text": "Un punct de observație înalt, marcat de o cruce, care domină văile stâncoase din interior.",
-                  "category": "natural",
-                  "coords": [
-                        -23.597703,
-                        15.199236
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cruz de Barreira",
-                  "text": "An elevated observation point marked by a cross, overlooking the rugged inland valleys.",
-                  "category": "natural",
-                  "coords": [
-                        -23.597703,
-                        15.199236
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "CV-SM",
@@ -2424,15 +2276,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santa Maria",
-                  "text": "Santa Maria ist eine lokale Sehenswürdigkeit in der Region monte-joaquim-relief-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.865133,
-                        16.2036
-                  ]
-            },
-            {
                   "name": "Praia da Calheta",
                   "text": "Praia da Calheta ist ein sandiger Strandabschnitt an der Küste nahe monte-joaquim-relief-v2.",
                   "category": "recreational",
@@ -2468,15 +2311,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
                   "coords": [
                         -22.745653,
                         16.209557
-                  ]
-            },
-            {
-                  "name": "Santa Maria",
-                  "text": "A Santa Maria egy helyi nevezetesség a monte-joaquim-relief-v2 régióban.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.865133,
-                        16.2036
                   ]
             },
             {
@@ -2518,15 +2352,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santa Maria",
-                  "text": "Santa Maria este un punct de atracție local situat în regiunea monte-joaquim-relief-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.865133,
-                        16.2036
-                  ]
-            },
-            {
                   "name": "Praia da Calheta",
                   "text": "Praia da Calheta este o întindere de nisip de-a lungul coastei lângă monte-joaquim-relief-v2.",
                   "category": "recreational",
@@ -2562,15 +2387,6 @@ export const poiExtraCapeverdeReliefV2: POI[] = [
                   "coords": [
                         -22.745653,
                         16.209557
-                  ]
-            },
-            {
-                  "name": "Santa Maria",
-                  "text": "Santa Maria is a local point of interest situated in the region of monte-joaquim-relief-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.865133,
-                        16.2036
                   ]
             },
             {

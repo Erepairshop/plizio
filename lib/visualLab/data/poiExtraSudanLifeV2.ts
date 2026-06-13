@@ -1799,15 +1799,6 @@ export const poiExtraSudanLifeV2: POI[] = [
     id: "nile-wildlife-nursery-life-v2", "sights": {
       "de": [
             {
-                  "name": "Blackcraft",
-                  "text": "Eine kreative Galerie in der Nähe der Wildtier-Aufzuchtstationen am Nil.",
-                  "category": "museum",
-                  "coords": [
-                        32.530064,
-                        15.64084
-                  ]
-            },
-            {
                   "name": "Abu AlTayeb Park Tourism",
                   "text": "Ein lokaler Theatersaal in der Nähe der Nile Wildlife Nursery.",
                   "category": "cultural",
@@ -1827,15 +1818,6 @@ export const poiExtraSudanLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Blackcraft",
-                  "text": "Kreatív galéria a Nílus menti vadvédelmi területek közelében.",
-                  "category": "museum",
-                  "coords": [
-                        32.530064,
-                        15.64084
-                  ]
-            },
             {
                   "name": "Abu AlTayeb Park Tourism",
                   "text": "Egy helyi színházterem a Nílus vadvédelmi területének közelében.",
@@ -1857,15 +1839,6 @@ export const poiExtraSudanLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Blackcraft",
-                  "text": "O galerie creativă situată lângă zonele de creștere a animalelor sălbatice de-a lungul Nilului.",
-                  "category": "museum",
-                  "coords": [
-                        32.530064,
-                        15.64084
-                  ]
-            },
-            {
                   "name": "Abu AlTayeb Park Tourism",
                   "text": "O sală de teatru locală situată în apropierea zonei Nile Wildlife Nursery.",
                   "category": "cultural",
@@ -1885,15 +1858,6 @@ export const poiExtraSudanLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Blackcraft",
-                  "text": "A creative gallery space located near the wildlife nursery areas along the Nile.",
-                  "category": "museum",
-                  "coords": [
-                        32.530064,
-                        15.64084
-                  ]
-            },
             {
                   "name": "Abu AlTayeb Park Tourism",
                   "text": "A local theatre venue located near the Nile Wildlife Nursery.",

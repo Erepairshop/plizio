@@ -404,15 +404,6 @@ export const westernsaharaNatureV2: POI[] = [
     id: "westernsahara-ras-nouadhibou-coast-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Tower of the Navy",
-                  "text": "Der Tower of the Navy ist ein historischer Leuchtturm, der an der rauen Küste des Cap Blanc über den Atlantik wacht.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.094449,
-                        20.826046
-                  ]
-            },
-            {
                   "name": "Weißes Kap",
                   "text": "Das White Cape, auch Ras Nouadhibou genannt, ist eine markante Halbinsel, die durch ihre steilen, hellen Klippen auffällt.",
                   "category": "landmark",
@@ -438,27 +429,9 @@ export const westernsaharaNatureV2: POI[] = [
                         -17.089755,
                         20.832491
                   ]
-            },
-            {
-                  "name": "Spanish fort",
-                  "text": "Diese Überreste stammen von einer spanischen Festung aus der Kolonialzeit an der felsigen Küste.",
-                  "category": "historical",
-                  "coords": [
-                        -17.089431,
-                        20.827095
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Tower of the Navy",
-                  "text": "A Tower of the Navy egy történelmi világítótorony, amely a Cap Blanc zord partvidékén őrzi az Atlanti-óceánt.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.094449,
-                        20.826046
-                  ]
-            },
             {
                   "name": "White Cape",
                   "text": "A Fehér-fok, más néven Ras Nouadhibou, egy kiemelkedő félsziget, amely meredek, világos szikláiról ismert.",
@@ -485,27 +458,9 @@ export const westernsaharaNatureV2: POI[] = [
                         -17.089755,
                         20.832491
                   ]
-            },
-            {
-                  "name": "Spanish fort",
-                  "text": "Ezek a maradványok egy gyarmati korszakból származó, sziklás partra épült spanyol erődítményhez tartoznak.",
-                  "category": "historical",
-                  "coords": [
-                        -17.089431,
-                        20.827095
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Tower of the Navy",
-                  "text": "Tower of the Navy este un far istoric care străjuiește Oceanul Atlantic pe coasta accidentată de la Cap Blanc.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.094449,
-                        20.826046
-                  ]
-            },
             {
                   "name": "White Cape",
                   "text": "Capul Alb, cunoscut și sub numele de Ras Nouadhibou, este o peninsulă proeminentă care se remarcă prin stâncile sale abrupte și de culoare deschisă.",
@@ -532,27 +487,9 @@ export const westernsaharaNatureV2: POI[] = [
                         -17.089755,
                         20.832491
                   ]
-            },
-            {
-                  "name": "Spanish fort",
-                  "text": "Aceste vestigii aparțin unei fortificații spaniole din epoca colonială, construită pe coasta stâncoasă.",
-                  "category": "historical",
-                  "coords": [
-                        -17.089431,
-                        20.827095
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Tower of the Navy",
-                  "text": "The Tower of the Navy is a historic lighthouse standing watch over the rugged Atlantic coast of Ras Nouadhibou.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.094449,
-                        20.826046
-                  ]
-            },
             {
                   "name": "White Cape",
                   "text": "White Cape, or Ras Nouadhibou, is a dramatic peninsula known for its steep, pale cliffs plunging into the ocean.",
@@ -578,15 +515,6 @@ export const westernsaharaNatureV2: POI[] = [
                   "coords": [
                         -17.089755,
                         20.832491
-                  ]
-            },
-            {
-                  "name": "Spanish fort",
-                  "text": "These remnants belong to a colonial-era Spanish fortification built on the rocky coast.",
-                  "category": "historical",
-                  "coords": [
-                        -17.089431,
-                        20.827095
                   ]
             }
       ]

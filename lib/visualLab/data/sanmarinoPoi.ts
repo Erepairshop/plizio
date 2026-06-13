@@ -361,42 +361,6 @@ export const sanmarinoCities: POI[] = [
                   ]
             },
             {
-                  "name": "San Marino Adventures",
-                  "text": "Ein Abenteuerpark im Wald mit Kletterparcours für alle Altersgruppen.",
-                  "category": "family",
-                  "coords": [
-                        12.429577,
-                        43.941831
-                  ]
-            },
-            {
-                  "name": "Museo d'Arte Contemporanea di San Marino",
-                  "text": "Die Nationalgalerie zeigt moderne Kunstwerke aus der Republik San Marino.",
-                  "category": "museum",
-                  "coords": [
-                        12.445734,
-                        43.937153
-                  ]
-            },
-            {
-                  "name": "Monte Carlo",
-                  "text": "Ein Gipfel in San Marino, der einen weiten Blick über die Region bietet.",
-                  "category": "natural",
-                  "coords": [
-                        12.455609,
-                        43.914876
-                  ]
-            },
-            {
-                  "name": "Monte della Mandra",
-                  "text": "Ein Aussichtspunkt auf den Hügeln von San Marino.",
-                  "category": "natural",
-                  "coords": [
-                        12.472098,
-                        43.919408
-                  ]
-            },
-            {
                   "name": "Serbatoio da plastilina",
                   "text": "Eine kuriose lokale Attraktion in San Marino.",
                   "category": "landmark",
@@ -439,15 +403,6 @@ export const sanmarinoCities: POI[] = [
                   "coords": [
                         12.452055,
                         43.928347
-                  ]
-            },
-            {
-                  "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "Ein religiöses Heiligtum und Gebetshaus in San Marino.",
-                  "category": "religious",
-                  "coords": [
-                        12.447424,
-                        43.940522
                   ]
             }
       ],
@@ -498,42 +453,6 @@ export const sanmarinoCities: POI[] = [
                   ]
             },
             {
-                  "name": "San Marino Adventures",
-                  "text": "Erdei kalandpark kötélpályákkal minden korosztály számára.",
-                  "category": "family",
-                  "coords": [
-                        12.429577,
-                        43.941831
-                  ]
-            },
-            {
-                  "name": "Museo d'Arte Contemporanea di San Marino",
-                  "text": "A nemzeti galéria a San Marinó-i Köztársaság modern műalkotásait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        12.445734,
-                        43.937153
-                  ]
-            },
-            {
-                  "name": "Monte Carlo",
-                  "text": "San Marinó-i hegycsúcs, ahonnan tágas kilátás nyílik a régióra.",
-                  "category": "natural",
-                  "coords": [
-                        12.455609,
-                        43.914876
-                  ]
-            },
-            {
-                  "name": "Monte della Mandra",
-                  "text": "Kilátópont San Marino dombjai között.",
-                  "category": "natural",
-                  "coords": [
-                        12.472098,
-                        43.919408
-                  ]
-            },
-            {
                   "name": "Serbatoio da plastilina",
                   "text": "Különleges helyi látnivaló San Marinóban.",
                   "category": "landmark",
@@ -576,15 +495,6 @@ export const sanmarinoCities: POI[] = [
                   "coords": [
                         12.452055,
                         43.928347
-                  ]
-            },
-            {
-                  "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "Vallási szentély és imaház San Marinóban.",
-                  "category": "religious",
-                  "coords": [
-                        12.447424,
-                        43.940522
                   ]
             }
       ],
@@ -635,42 +545,6 @@ export const sanmarinoCities: POI[] = [
                   ]
             },
             {
-                  "name": "San Marino Adventures",
-                  "text": "Un parc de aventură în pădure, cu trasee de cățărare pentru toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        12.429577,
-                        43.941831
-                  ]
-            },
-            {
-                  "name": "Museo d'Arte Contemporanea di San Marino",
-                  "text": "Galeria națională care expune opere de artă modernă din Republica San Marino.",
-                  "category": "museum",
-                  "coords": [
-                        12.445734,
-                        43.937153
-                  ]
-            },
-            {
-                  "name": "Monte Carlo",
-                  "text": "Un vârf din San Marino care oferă o vedere panoramică asupra regiunii.",
-                  "category": "natural",
-                  "coords": [
-                        12.455609,
-                        43.914876
-                  ]
-            },
-            {
-                  "name": "Monte della Mandra",
-                  "text": "Un punct de observație situat pe colinele din San Marino.",
-                  "category": "natural",
-                  "coords": [
-                        12.472098,
-                        43.919408
-                  ]
-            },
-            {
                   "name": "Serbatoio da plastilina",
                   "text": "O atracție locală curioasă din San Marino.",
                   "category": "landmark",
@@ -713,15 +587,6 @@ export const sanmarinoCities: POI[] = [
                   "coords": [
                         12.452055,
                         43.928347
-                  ]
-            },
-            {
-                  "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "Un sanctuar religios și lăcaș de cult în San Marino.",
-                  "category": "religious",
-                  "coords": [
-                        12.447424,
-                        43.940522
                   ]
             }
       ],
@@ -772,42 +637,6 @@ export const sanmarinoCities: POI[] = [
                   ]
             },
             {
-                  "name": "San Marino Adventures",
-                  "text": "An adventure park in the forest with climbing courses for all ages.",
-                  "category": "family",
-                  "coords": [
-                        12.429577,
-                        43.941831
-                  ]
-            },
-            {
-                  "name": "National Gallery of Modern and Contemporary Art",
-                  "text": "The national gallery showcasing modern artworks from the Republic of San Marino.",
-                  "category": "museum",
-                  "coords": [
-                        12.445734,
-                        43.937153
-                  ]
-            },
-            {
-                  "name": "Monte Carlo",
-                  "text": "A peak in San Marino offering a wide view over the region.",
-                  "category": "natural",
-                  "coords": [
-                        12.455609,
-                        43.914876
-                  ]
-            },
-            {
-                  "name": "Monte della Mandra",
-                  "text": "A viewpoint located on the hills of San Marino.",
-                  "category": "natural",
-                  "coords": [
-                        12.472098,
-                        43.919408
-                  ]
-            },
-            {
                   "name": "Tank from plasticine",
                   "text": "A curious local attraction in San Marino.",
                   "category": "landmark",
@@ -850,15 +679,6 @@ export const sanmarinoCities: POI[] = [
                   "coords": [
                         12.452055,
                         43.928347
-                  ]
-            },
-            {
-                  "name": "Santuario della Beata Vergine della Consolazione",
-                  "text": "A religious sanctuary and place of worship in San Marino.",
-                  "category": "religious",
-                  "coords": [
-                        12.447424,
-                        43.940522
                   ]
             }
       ]

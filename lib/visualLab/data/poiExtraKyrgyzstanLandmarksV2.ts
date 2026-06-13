@@ -486,15 +486,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sultan Ibraimov atyndagy Osh uluttuk drama teatry",
-                  "text": "Das kirgisische Nationaltheater in Osch ist ein markantes Gebäude, das nach dem Politiker Sultan Ibraimow benannt wurde.",
-                  "category": "cultural",
-                  "coords": [
-                        72.801377,
-                        40.519994
-                  ]
-            },
-            {
                   "name": "Oshskaia spetsial'naia detskaia khudozhestvennaia shkola im. G. Aitieva",
                   "text": "Ein spezialisiertes Kunstzentrum für Kinder, das nach dem bedeutenden kirgisischen Maler Gapar Aitijew benannt ist.",
                   "category": "cultural",
@@ -683,15 +674,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
                   "coords": [
                         72.78155,
                         40.528864
-                  ]
-            },
-            {
-                  "name": "Sultan Ibraimov atyndagy Osh uluttuk drama teatry",
-                  "text": "Osh kirgiz nemzeti színháza egy jellegzetes épület, amelyet Szultan Ibraimov politikusról neveztek el.",
-                  "category": "cultural",
-                  "coords": [
-                        72.801377,
-                        40.519994
                   ]
             },
             {
@@ -886,15 +868,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sultan Ibraimov atyndagy Osh uluttuk drama teatry",
-                  "text": "Teatrul național kârgâz din Osh este o clădire emblematică, numită după politicianul Sultan Ibraimov.",
-                  "category": "cultural",
-                  "coords": [
-                        72.801377,
-                        40.519994
-                  ]
-            },
-            {
                   "name": "Oshskaia spetsial'naia detskaia khudozhestvennaia shkola im. G. Aitieva",
                   "text": "Un centru de artă specializat pentru copii, care poartă numele renumitului pictor kârgâz Gapar Aitiev.",
                   "category": "cultural",
@@ -1083,15 +1056,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
                   "coords": [
                         72.78155,
                         40.528864
-                  ]
-            },
-            {
-                  "name": "Sultan Ibraimov atyndagy Osh uluttuk drama teatry",
-                  "text": "The Kyrgyz national theatre in Osh is a prominent building named after the politician Sultan Ibraimov.",
-                  "category": "cultural",
-                  "coords": [
-                        72.801377,
-                        40.519994
                   ]
             },
             {
@@ -1629,15 +1593,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kumboz Cholpon-Ata",
-                  "text": "Ein traditionelles kirgisisches Denkmal oder Mausoleum in Cholpon-Ata, das an lokale Persönlichkeiten erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        77.055604,
-                        42.639244
-                  ]
-            },
-            {
                   "name": "Kamvol'shchik tsentr otdykha",
                   "text": "Ein Ferienzentrum am Nordufer des Issyk-Kul-Sees, das Strandzugang und Erholung in Seenähe bietet.",
                   "category": "recreational",
@@ -1736,15 +1691,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
                   "coords": [
                         77.0876,
                         42.650462
-                  ]
-            },
-            {
-                  "name": "Kumboz Cholpon-Ata",
-                  "text": "Hagyományos kirgiz emlékmű vagy mauzóleum Cholpon-Atában, amely helyi személyiségeknek állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        77.055604,
-                        42.639244
                   ]
             },
             {
@@ -1849,15 +1795,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kumboz Cholpon-Ata",
-                  "text": "Un monument sau mausoleu tradițional kîrgîz în Cholpon-Ata, care comemorează personalități locale.",
-                  "category": "historical",
-                  "coords": [
-                        77.055604,
-                        42.639244
-                  ]
-            },
-            {
                   "name": "Kamvol'shchik tsentr otdykha",
                   "text": "Un centru de vacanță pe malul nordic al lacului Issîk-Kul, oferind acces la plajă și relaxare lângă lac.",
                   "category": "recreational",
@@ -1956,15 +1893,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
                   "coords": [
                         77.0876,
                         42.650462
-                  ]
-            },
-            {
-                  "name": "Kumboz Cholpon-Ata",
-                  "text": "A traditional Kyrgyz monument or mausoleum in Cholpon-Ata commemorating local figures.",
-                  "category": "historical",
-                  "coords": [
-                        77.055604,
-                        42.639244
                   ]
             },
             {
@@ -2601,15 +2529,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
     id: "manas-ordo-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "K.Medetbekov atyndagy muzykalyk drama-teatry",
-                  "text": "Ein bedeutendes Musik- und Dramatheater, das nach dem kirgisischen Künstler Kasymaly Medetbekov benannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        72.251623,
-                        42.525232
-                  ]
-            },
-            {
                   "name": "Chokoev",
                   "text": "Ein lokaler befestigter Bau oder Herrensitz in der Nähe des historischen Manas-Ordo-Komplexes.",
                   "category": "castle",
@@ -2674,15 +2593,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "K.Medetbekov atyndagy muzykalyk drama-teatry",
-                  "text": "Jelentős zenés drámai színház, amelyet Kaszimáli Medetbekov kirgiz művészről neveztek el.",
-                  "category": "cultural",
-                  "coords": [
-                        72.251623,
-                        42.525232
-                  ]
-            },
             {
                   "name": "Chokoev",
                   "text": "Helyi erődített építmény vagy kúria a történelmi Manasz-Ordo komplexum közelében.",
@@ -2749,15 +2659,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "K.Medetbekov atyndagy muzykalyk drama-teatry",
-                  "text": "Un teatru de dramă muzicală important, numit după artistul kârgâz Kasymaly Medetbekov.",
-                  "category": "cultural",
-                  "coords": [
-                        72.251623,
-                        42.525232
-                  ]
-            },
-            {
                   "name": "Chokoev",
                   "text": "O structură fortificată locală sau un conac lângă complexul istoric Manas-Ordo.",
                   "category": "castle",
@@ -2822,15 +2723,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "K.Medetbekov atyndagy muzykalyk drama-teatry",
-                  "text": "A prominent musical drama theatre named after the Kyrgyz artist Kasymaly Medetbekov.",
-                  "category": "cultural",
-                  "coords": [
-                        72.251623,
-                        42.525232
-                  ]
-            },
             {
                   "name": "Chokoev",
                   "text": "A local fortified structure or manor located near the historic Manas-Ordo complex.",
@@ -5655,15 +5547,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
     id: "karakol-historical-museum-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Main Bazaar",
-                  "text": "Der Hauptbasar ist ein lebhafter zentraler Markt in Karakol, auf dem Händler frische Produkte und regionales Kunsthandwerk anbieten.",
-                  "category": "landmark",
-                  "coords": [
-                        78.385036,
-                        42.49345
-                  ]
-            },
-            {
                   "name": "Tsentral'naia mechet' im. Ibrakhim azhy",
                   "text": "Die im Mai 1910 fertiggestellte Dunganen-Moschee wurde völlig ohne Nägel erbaut und ähnelt einem traditionellen chinesischen buddhistischen Tempel.",
                   "category": "landmark",
@@ -5701,15 +5584,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Main Bazaar",
-                  "text": "A Fő Bazár egy nyüzsgő központi piac Karakolban, ahol a kereskedők friss termékeket és regionális kézműves termékeket árulnak.",
-                  "category": "landmark",
-                  "coords": [
-                        78.385036,
-                        42.49345
-                  ]
-            },
             {
                   "name": "Tsentral'naia mechet' im. Ibrakhim azhy",
                   "text": "Az 1910 májusában befejezett Dungan mecset teljesen szögek nélkül épült, és egy hagyományos kínai buddhista templomra hasonlít.",
@@ -5749,15 +5623,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Main Bazaar",
-                  "text": "Bazarul Principal este o piață centrală vibrantă din Karakol, unde negustorii vând produse proaspete și meșteșuguri regionale.",
-                  "category": "landmark",
-                  "coords": [
-                        78.385036,
-                        42.49345
-                  ]
-            },
-            {
                   "name": "Tsentral'naia mechet' im. Ibrakhim azhy",
                   "text": "Finalizată în mai 1910, Moscheea Dungan a fost construită în întregime fără cuie și seamănă cu un templu budist chinezesc tradițional.",
                   "category": "landmark",
@@ -5795,15 +5660,6 @@ export const poiExtraKyrgyzstanLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Main Bazaar",
-                  "text": "The Main Bazaar is a vibrant central market in Karakol where merchants trade fresh produce and regional crafts.",
-                  "category": "landmark",
-                  "coords": [
-                        78.385036,
-                        42.49345
-                  ]
-            },
             {
                   "name": "Dungan Mosque",
                   "text": "Finished in May 1910, the Dungan Mosque was built entirely without nails and resembles a traditional Chinese Buddhist temple.",

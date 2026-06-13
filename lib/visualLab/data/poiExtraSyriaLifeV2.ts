@@ -6,15 +6,6 @@ export const poiExtraSyriaLifeV2: POI[] = [
     id: "al-thawra-nature-reserve-life-v2", "sights": {
       "de": [
             {
-                  "name": "Jabal `A'id",
-                  "text": "Ein markanter Gipfel, der einen weiten Blick über das Thawra-Naturschutzgebiet und den Assad-See bietet.",
-                  "category": "natural",
-                  "coords": [
-                        38.516667,
-                        35.816667
-                  ]
-            },
-            {
                   "name": "Al Qusur",
                   "text": "Antike Architekturreste inmitten der geschützten Natur landscapes des Thawra-Reservats.",
                   "category": "historical",
@@ -25,15 +16,6 @@ export const poiExtraSyriaLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Jabal `A'id",
-                  "text": "Kiemelkedő csúcs, ahonnan tágas kilátás nyílik a Thawra természetvédelmi területre és az Aszad-tóra.",
-                  "category": "natural",
-                  "coords": [
-                        38.516667,
-                        35.816667
-                  ]
-            },
             {
                   "name": "Al Qusur",
                   "text": "Ókori építészeti maradványok a Thawra-rezervátum védett természeti táján.",
@@ -46,15 +28,6 @@ export const poiExtraSyriaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Jabal `A'id",
-                  "text": "Un vârf proeminent care oferă o vedere panoramică asupra Rezervației Naturale Al-Thawra și a Lacului Assad.",
-                  "category": "natural",
-                  "coords": [
-                        38.516667,
-                        35.816667
-                  ]
-            },
-            {
                   "name": "Al Qusur",
                   "text": "Rămășițe arhitecturale antice în mijlocul peisajului natural protejat al Rezervației Thawra.",
                   "category": "historical",
@@ -65,15 +38,6 @@ export const poiExtraSyriaLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Jabal `A'id",
-                  "text": "A prominent peak offering wide views over the Al-Thawra Nature Reserve and Lake Assad.",
-                  "category": "natural",
-                  "coords": [
-                        38.516667,
-                        35.816667
-                  ]
-            },
             {
                   "name": "Al Qusur",
                   "text": "Ancient architectural remains within the protected natural landscape of the Thawra Reserve.",
@@ -2490,15 +2454,6 @@ export const poiExtraSyriaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Douma Zoo",
-                  "text": "Ein kleiner Tierpark in Douma, der einheimische und exotische Tierarten zeigt.",
-                  "category": "recreational",
-                  "coords": [
-                        36.41404,
-                        33.572282
-                  ]
-            },
-            {
                   "name": "Mosque of Ayesheh bint Abi Bakr",
                   "text": "Eine sunnitische Moschee in der Stadt Douma, benannt nach Ayesheh bint Abi Bakr.",
                   "category": "landmark",
@@ -2588,15 +2543,6 @@ export const poiExtraSyriaLifeV2: POI[] = [
                   "coords": [
                         36.433333,
                         33.5
-                  ]
-            },
-            {
-                  "name": "Douma Zoo",
-                  "text": "Kisméretű állatkert Doumában, amely hazai és egzotikus állatfajokat mutat be.",
-                  "category": "recreational",
-                  "coords": [
-                        36.41404,
-                        33.572282
                   ]
             },
             {
@@ -2692,15 +2638,6 @@ export const poiExtraSyriaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Douma Zoo",
-                  "text": "O mică grădină zoologică în Douma, care prezintă specii de animale locale și exotice.",
-                  "category": "recreational",
-                  "coords": [
-                        36.41404,
-                        33.572282
-                  ]
-            },
-            {
                   "name": "Mosque of Ayesheh bint Abi Bakr",
                   "text": "O moschee sunnită în orașul Douma, purtând numele lui Ayesheh bint Abi Bakr.",
                   "category": "landmark",
@@ -2790,15 +2727,6 @@ export const poiExtraSyriaLifeV2: POI[] = [
                   "coords": [
                         36.433333,
                         33.5
-                  ]
-            },
-            {
-                  "name": "Douma Zoo",
-                  "text": "A small zoo in Douma showcasing local and exotic animal species.",
-                  "category": "recreational",
-                  "coords": [
-                        36.41404,
-                        33.572282
                   ]
             },
             {
@@ -4524,15 +4452,6 @@ export const poiExtraSyriaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sayf al-Dawla",
-                  "text": "Von diesem Aussichtspunkt aus bietet sich ein weiter Blick über das moderne Aleppo und das nach dem Hamdaniden-Herrscher benannte Viertel.",
-                  "category": "natural",
-                  "coords": [
-                        37.125608,
-                        36.19142
-                  ]
-            },
-            {
                   "name": "Al-Rahman Mosque",
                   "text": "Diese moderne Moschee in Aleppo ist für ihre einzigartigen quadratischen Minarette und ihre markante Kalksteinfassade bekannt.",
                   "category": "religious",
@@ -4694,15 +4613,6 @@ export const poiExtraSyriaLifeV2: POI[] = [
                   "coords": [
                         37.101966,
                         36.189517
-                  ]
-            },
-            {
-                  "name": "Sayf al-Dawla",
-                  "text": "Erről a kilátópontról tágas kilátás nyílik a modern Alepóra és a hamdánida uralkodóról elnevezett negyedre.",
-                  "category": "natural",
-                  "coords": [
-                        37.125608,
-                        36.19142
                   ]
             },
             {
@@ -4870,15 +4780,6 @@ export const poiExtraSyriaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sayf al-Dawla",
-                  "text": "Acest punct de observare oferă o vedere panoramică asupra Alepului modern și a cartierului numit după conducătorul hamdanid.",
-                  "category": "natural",
-                  "coords": [
-                        37.125608,
-                        36.19142
-                  ]
-            },
-            {
                   "name": "Al-Rahman Mosque",
                   "text": "Această moschee modernă din Alep este cunoscută pentru minaretele sale pătrate unice și fațada distinctivă din calcar.",
                   "category": "religious",
@@ -5040,15 +4941,6 @@ export const poiExtraSyriaLifeV2: POI[] = [
                   "coords": [
                         37.101966,
                         36.189517
-                  ]
-            },
-            {
-                  "name": "Sayf al-Dawla",
-                  "text": "This viewpoint offers a wide panorama of modern Aleppo and the district named after the famous Hamdanid ruler.",
-                  "category": "natural",
-                  "coords": [
-                        37.125608,
-                        36.19142
                   ]
             },
             {

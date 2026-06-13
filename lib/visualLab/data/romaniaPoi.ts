@@ -581,7 +581,12 @@ export const romaniaRegions: POI[] = [
     },
   },
   {
-    id: "RO-BR", "sights": {"de": [{"name": "Plaja Lipoveneasca", "text": "Verortet im rumänischen Kreis Brăila, lädt die Plaja Lipoveneasca zu entspannten Stunden am Wasser ein. Das Ufer besticht durch eine typisch lokale Atmosphäre, die sich ideal für einen kurzen Ausflug eignet. Badegäste und Spaziergänger finden hier Raum, um die Beine auszustrecken und die Seele baumeln zu lassen. Ein Handtuch und etwas Proviant runden den Besuch an warmen Sommertagen ab.", "category": "recreational", "coords": [27.975349, 45.258447]}], "hu": [{"name": "Plaja Lipoveneasca", "text": "A romániai Brăila megyében található Plaja Lipoveneasca pihentető vízparti órákra hívogat. A part egy tipikus helyi atmoszférával bűvöl el, amely ideális egy rövid kiránduláshoz. A fürdőzők és sétálók itt teret találnak a kinyújtózásra és a feltöltődésre. Egy törölköző és némi útravaló teszi teljessé a látogatást a meleg nyári napokon.", "category": "recreational", "coords": [27.975349, 45.258447]}], "ro": [{"name": "Plaja Lipoveneasca", "text": "Situată în județul Brăila, România, Plaja Lipoveneasca vă invită la ore de relaxare lângă apă. Malul captivează cu o atmosferă tipic locală, ideală pentru o scurtă excursie. Cei care fac baie și se plimbă vor găsi aici spațiu pentru a se întinde și a se relaxa. Un prosop și câteva provizii completează vizita în zilele calde de vară.", "category": "recreational", "coords": [27.975349, 45.258447]}], "en": [{"name": "Plaja Lipoveneasca", "text": "Located in the Romanian county of Brăila, Plaja Lipoveneasca invites you to relaxing hours by the water. The shore captivates with a typically local atmosphere, which is ideal for a short trip. Bathers and walkers will find space here to stretch their legs and unwind. A towel and some provisions round off the visit on warm summer days.", "category": "recreational", "coords": [27.975349, 45.258447]}]}, type: "region", parent: "RO", coords: [27.9667, 45.2667],
+    id: "RO-BR", "sights": {
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
+}, type: "region", parent: "RO", coords: [27.9667, 45.2667],
     name: { de: "Brăila", hu: "Brăila", ro: "Brăila", en: "Brăila" },
     description: {
       de: `Der Kreis Brăila liegt in der historischen Region Große Walachei (Muntenia) im Südosten Rumäniens. Die Kreishauptstadt ist die Stadt Brăila, ein wichtiger Hafen an der Donau. Die Landschaft des Kreises ist überwiegend flach und Teil der fruchtbaren Bărăgan-Ebene. Im Laufe der Geschichte war Brăila ein wichtiger Handelsknotenpunkt für den Getreidehandel. Heute bietet es eine Mischung aus historischer Architektur, landwirtschaftlichen Flächen und Teilen des Naturparks Kleine Au von Brăila.`,
@@ -2502,16 +2507,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Franziskanerkirche",
-                  "text": "Eine der ältesten Kirchen der Stadt, die romanische, gotische und barocke Elemente in einem harmonischen Ensemble vereint.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        23.587992,
-                        46.77194
-                  ]
-            },
-            {
                   "name": "Feuerwehrturm",
                   "text": "Ein mittelalterlicher Wachturm, der einst Teil der Stadtbefestigung war und heute einen Ausblick sowie kulturelle Ausstellungen bietet.",
                   "category": "historical",
@@ -2664,16 +2659,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Farkas utcai református templom",
-                  "text": "Hatalmas, egyhajós gótikus templom a 15. századból, amely kiváló akusztikájáról és történelmi orgonájáról híres.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        23.595783,
-                        46.768113
-                  ]
-            },
-            {
                   "name": "Ortodox székesegyház",
                   "text": "Az Avram Iancu téren álló monumentális bizánci stílusú épület, amelyet az 1920-as években emeltek gazdag belső díszítéssel.",
                   "category": "religious",
@@ -2714,16 +2699,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hója-erdő",
-                  "text": "Világszerte ismert a rejtélyes jelenségeiről, de kiváló túraútvonalakat és gyönyörű kilátást is kínál a városra.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        23.522,
-                        46.774
-                  ]
-            },
-            {
                   "name": "Igazságügyi Palota",
                   "text": "Látványos eklektikus építmény a városközpont szélén, amely az osztrák-magyar időkben a birodalmi igazságszolgáltatás jelképe volt.",
                   "category": "civic",
@@ -2754,16 +2729,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tűzoltótorony",
-                  "text": "Egykori középkori bástya, amely később megfigyelőtoronyként szolgált; ma kilátóként és kulturális térként működik.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        23.590943,
-                        46.773376
-                  ]
-            },
-            {
                   "name": "Babeș-Bolyai Tudományegyetem",
                   "text": "Az egyetem központi épülete a város szellemi életének központja, impozáns neoreneszánsz stílusban épült a 19. század végén.",
                   "category": "civic",
@@ -2771,16 +2736,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         23.591111,
                         46.767778
-                  ]
-            },
-            {
-                  "name": "Neológ zsinagóga",
-                  "text": "Mór-bizánci stílusú emlékmű a Horea úton, amely a kolozsvári zsidóság tragikus történelmének és újjászületésének állít emléket.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        23.586739,
-                        46.777122
                   ]
             },
             {
@@ -2801,16 +2756,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         23.5963,
                         46.77171
-                  ]
-            },
-            {
-                  "name": "Alsóvárosi református templom",
-                  "text": "A köznyelvben 'kétágú templom' néven ismert klasszicista épület, amely a város egyik meghatározó protestáns jelképe.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        23.597608,
-                        46.773628
                   ]
             },
             {
@@ -2956,16 +2901,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Pădurea Hoia-Baciu",
-                  "text": "Cunoscută internațional pentru fenomenele paranormale raportate, este și un loc ideal pentru drumeții și ciclism.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        23.522,
-                        46.774
-                  ]
-            },
-            {
                   "name": "Palatul de Justiție",
                   "text": "O clădire monumentală în stil eclectic, construită la sfârșitul secolului XIX, dominând latura estică a Pieței Avram Iancu.",
                   "category": "civic",
@@ -2996,16 +2931,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Turnul Pompierilor",
-                  "text": "Un vechi turn de pază medieval restaurat recent, oferind o panoramă frumoasă asupra centrului istoric al Clujului.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        23.590943,
-                        46.773376
-                  ]
-            },
-            {
                   "name": "Universitatea Babeș-Bolyai",
                   "text": "Sediul central al celei mai mari universități din țară, o clădire istorică impunătoare ce definește viața academică clujeană.",
                   "category": "civic",
@@ -3013,16 +2938,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         23.591111,
                         46.767778
-                  ]
-            },
-            {
-                  "name": "Sinagoga Neologă",
-                  "text": "Denumită și Templul Memorial al Evreilor, este o clădire superbă în stil maur-bizantin situată pe strada Horea.",
-                  "category": "religious",
-                  "confidence": "high",
-                  "coords": [
-                        23.586739,
-                        46.777122
                   ]
             },
             {
@@ -3235,16 +3150,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         23.587992,
                         46.77194
-                  ]
-            },
-            {
-                  "name": "Firemen's Tower",
-                  "text": "A medieval defense tower that was converted into a fire watchtower, now offering cultural space and city views.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        23.590943,
-                        46.773376
                   ]
             },
             {
@@ -10518,24 +10423,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
-                  "text": "Das Muzeul George Severeanu ist ein Museum in der Nähe des Herăstrău-Parks in Bukarest.",
-                  "category": "museum",
-                  "coords": [
-                        26.092928,
-                        44.447424
-                  ]
-            },
-            {
-                  "name": "Muzeul Colecțiilor de Artă",
-                  "text": "Das Kunstsammlungsmuseum ist ein Museum für Kunstsammlungen in Bukarest.",
-                  "category": "museum",
-                  "coords": [
-                        26.091422,
-                        44.444637
-                  ]
-            },
-            {
                   "name": "Muzeul Național al Hărților și Cărții Vechi",
                   "text": "Das Nationalmuseum für historische Karten und alte Bücher befindet sich in Bukarest.",
                   "category": "museum",
@@ -10581,15 +10468,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeul Nicolae Minovici",
-                  "text": "Das Museum für Volkskunst „Prof. Dr. Nicolae Minovici“ ist ein Museum in Bukarest.",
-                  "category": "museum",
-                  "coords": [
-                        26.075301,
-                        44.484299
-                  ]
-            },
-            {
                   "name": "Frühlingspalast",
                   "text": "Der Palatul Primăverii ist eine ehemalige Residenz in Bukarest, die heute als Museum dient.",
                   "category": "museum",
@@ -10599,30 +10477,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
-                  "text": "Das Astronomische Observatorium „Amiral Vasile Urseanu“ ist ein Observatorium und Museum in Bukarest.",
-                  "category": "museum",
-                  "coords": [
-                        26.092891,
-                        44.448526
-                  ]
-            },
-            {
                   "name": "Muzeul Național al Aviației Române",
                   "text": "Das Nationale Luftfahrtmuseum von Rumänien ist ein Museum in Bukarest.",
                   "category": "museum",
                   "coords": [
                         26.110927,
                         44.477554
-                  ]
-            },
-            {
-                  "name": "Muzeul CFR",
-                  "text": "Das Museum der Rumänischen Eisenbahn ist ein Eisenbahnmuseum in Bukarest.",
-                  "category": "museum",
-                  "coords": [
-                        26.072999,
-                        44.448306
                   ]
             },
             {
@@ -10641,15 +10501,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.086078,
                         44.45977
-                  ]
-            },
-            {
-                  "name": "Monumentul Aripi",
-                  "text": "Das Monumentul Luptei Anticomuniste ist ein Denkmal in Bukarest.",
-                  "category": "historical",
-                  "coords": [
-                        26.072233,
-                        44.478924
                   ]
             },
             {
@@ -10677,33 +10528,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.109527,
                         44.45656
-                  ]
-            },
-            {
-                  "name": "Capela Sfânta Ecaterina",
-                  "text": "Die Capela Sfânta Ecaterina ist eine religiöse Stätte in Bukarest.",
-                  "category": "religious",
-                  "coords": [
-                        26.075672,
-                        44.46694
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă \"Sfântul Gheorghe Grivița\"",
-                  "text": "Die Kirche des Heiligen Georg Grivița ist ein Gotteshaus in Bukarest.",
-                  "category": "religious",
-                  "coords": [
-                        26.055986,
-                        44.464175
-                  ]
-            },
-            {
-                  "name": "Catedrala greco-catolică „Sfântul Vasile cel Mare”",
-                  "text": "Die Kathedrale des Heiligen Basilius des Großen ist eine rumänisch-griechisch-katholische Kathedrale in Bukarest.",
-                  "category": "religious",
-                  "coords": [
-                        26.103812,
-                        44.449542
                   ]
             },
             {
@@ -10815,15 +10639,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeul Sportului",
-                  "text": "In der Nähe des Herăstrău-Parks können Interessierte das Muzeul Sportului besichtigen. Dieses rumänische Museum dokumentiert umfassend die Geschichte und die vielfältigen Erfolge des nationalen Sports. Die Ausstellungen bieten einen detaillierten Rückblick auf bedeutende sportliche Meilensteine des Landes.",
-                  "category": "museum",
-                  "coords": [
-                        26.076375,
-                        44.467913
-                  ]
-            },
-            {
                   "name": "Muzeul Parfumurilor",
                   "text": "Museum mit einer einzigartigen Sammlung von Parfüms und historischen Flakons.",
                   "category": "museum",
@@ -10878,156 +10693,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Spațiu Elena Scutaru",
-                  "text": "Ein spezieller Raum für Kunstausstellungen und kulturelle Veranstaltungen.",
-                  "category": "museum",
-                  "coords": [
-                        26.061857,
-                        44.483915
-                  ]
-            },
-            {
-                  "name": "Una Galeria",
-                  "text": "Eine Kunstgalerie, die mit der Nationalen Universität der Künste verbunden ist.",
-                  "category": "museum",
-                  "coords": [
-                        26.062926,
-                        44.484324
-                  ]
-            },
-            {
-                  "name": "Lacul Morii",
-                  "text": "Der Lacul Morii im Herastrau Park ist ein großer Stausee, der eine weite Aussicht und Wege für Spaziergänge bietet.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "Der Lacul Drumul Taberei im Herastrau Park ist ein zentrales Gewässer, das eine angenehme Umgebung für Erholung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lacul Băneasa",
-                  "text": "Der Lake Băneasa im Herastrau Park ist ein naturnaher See, der sich ideal für erholsame Stunden im Freien eignet.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Chitila",
-                  "text": "Der Lacul Chitila im Herastrau Park bietet eine ruhige Atmosphäre für Besucher, die die Natur am Wasser genießen möchten.",
-                  "category": "natural",
-                  "coords": [
-                        26.00146,
-                        44.51089
-                  ]
-            },
-            {
-                  "name": "Lacul Străulești",
-                  "text": "Der Lacul Străulești im Herastrau Park ist ein lokaler See, der Raum für Spaziergänge und Entspannung im Grünen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        26.011649,
-                        44.502876
-                  ]
-            },
-            {
-                  "name": "Bazin decantare",
-                  "text": "Das Bazin decantare im Herastrau Park ist ein technisches Gewässer, das Teil der lokalen Wasserlandschaft ist.",
-                  "category": "natural",
-                  "coords": [
-                        26.001661,
-                        44.444654
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "Das Bazin apa Cotroceni im Herastrau Park ist ein lokales Wasserreservoir in einer ruhigen Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "Der Lacul Grivița im Herastrau Park ist ein malerischer See, der zu ruhigen Momenten in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Der Lacul IOR im Herastrau Park ist ein beliebtes Ziel für Freizeitaktivitäten und Spaziergänge am Ufer.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "Die Balta Pipera im Herastrau Park ist ein ruhiges Gewässer, das eine natürliche Oase in der Region darstellt.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "Der Lacul Tineretului im Herastrau Park ist ein schöner See, der in eine weitläufige Grünanlage eingebettet ist.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Der Lacul Plumbuita im Herastrau Park bietet eine friedliche Atmosphäre und ist ein Rückzugsort für Naturbeobachter.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
                   "name": "Lebedelor-See",
                   "text": "Der Swan Lake im Herastrau Park ist ein kleiner, eleganter See, der zur Entspannung und zum Betrachten der Umgebung einlädt.",
                   "category": "natural",
                   "coords": [
                         26.088734,
                         44.439013
-                  ]
-            },
-            {
-                  "name": "Lacul Dobroești",
-                  "text": "Der Lacul Dobroești im Herastrau Park ist ein ruhiges Gewässer, das sich gut für Spaziergänge in einer natürlichen Umgebung eignet.",
-                  "category": "natural",
-                  "coords": [
-                        26.173695,
-                        44.449024
-                  ]
-            },
-            {
-                  "name": "Lacul Fundeni",
-                  "text": "Der Lake Fundeni im Herastrau Park bietet eine weite Wasserfläche und Möglichkeiten für Freizeitaktivitäten im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
                   ]
             },
             {
@@ -11121,57 +10792,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina Clubului Diplomatic",
-                  "text": "Ein Schwimmbad im Herăstrău-Park für die Freizeitgestaltung der Familie.",
-                  "category": "family",
-                  "coords": [
-                        26.078388,
-                        44.48496
-                  ]
-            },
-            {
-                  "name": "Piscina Lido",
-                  "text": "Ein Schwimmbad im Herăstrău-Park, geeignet für die Entspannung der Familie.",
-                  "category": "family",
-                  "coords": [
-                        26.098644,
-                        44.441286
-                  ]
-            },
-            {
                   "name": "Bonton",
                   "text": "Ein Schwimmbad im Herăstrău-Park für einen Familienausflug.",
                   "category": "family",
                   "coords": [
                         26.088015,
                         44.477092
-                  ]
-            },
-            {
-                  "name": "Strandul Tineretului",
-                  "text": "Ein Wasserpark im Herăstrău-Park, der Familienaktivitäten bietet.",
-                  "category": "family",
-                  "coords": [
-                        26.072737,
-                        44.473849
-                  ]
-            },
-            {
-                  "name": "UNDA Pool",
-                  "text": "Ein Schwimmbad im Herăstrău-Park für Familienspaß.",
-                  "category": "family",
-                  "coords": [
-                        26.06812,
-                        44.487018
-                  ]
-            },
-            {
-                  "name": "Lagoon Park",
-                  "text": "Ein Strandresort im Herăstrău-Park für ein Urlaubsgefühl mit der Familie.",
-                  "category": "family",
-                  "coords": [
-                        26.056352,
-                        44.489578
                   ]
             }
       ],
@@ -11247,24 +10873,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
-                  "text": "A Muzeul George Severeanu egy múzeum Bukarestben, a Herăstrău park közelében.",
-                  "category": "museum",
-                  "coords": [
-                        26.092928,
-                        44.447424
-                  ]
-            },
-            {
-                  "name": "Muzeul Colecțiilor de Artă",
-                  "text": "A Művészeti Gyűjtemények Múzeuma egy képzőművészeti múzeum Bukarestben.",
-                  "category": "museum",
-                  "coords": [
-                        26.091422,
-                        44.444637
-                  ]
-            },
-            {
                   "name": "Muzeul Național al Hărților și Cărții Vechi",
                   "text": "A Történelmi Térképek és Régi Könyvek Nemzeti Múzeuma Bukarestben található.",
                   "category": "museum",
@@ -11310,15 +10918,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeul Nicolae Minovici",
-                  "text": "A „Prof. Dr. Nicolae Minovici” Népművészeti Múzeum Bukarestben található.",
-                  "category": "museum",
-                  "coords": [
-                        26.075301,
-                        44.484299
-                  ]
-            },
-            {
                   "name": "Palatul Primăverii (fosta locuință a lui Nicolae Ceaușescu)",
                   "text": "A Palatul Primăverii egy korábbi bukaresti rezidencia, amely ma múzeumként működik.",
                   "category": "museum",
@@ -11328,30 +10927,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
-                  "text": "Az „Amiral Vasile Urseanu” Csillagvizsgáló egy obszervatórium és múzeum Bukarestben.",
-                  "category": "museum",
-                  "coords": [
-                        26.092891,
-                        44.448526
-                  ]
-            },
-            {
                   "name": "Muzeul Național al Aviației Române",
                   "text": "A Román Nemzeti Repülési Múzeum Bukarestben található.",
                   "category": "museum",
                   "coords": [
                         26.110927,
                         44.477554
-                  ]
-            },
-            {
-                  "name": "Muzeul CFR",
-                  "text": "A Román Vasúti Múzeum egy vasúttörténeti múzeum Bukarestben.",
-                  "category": "museum",
-                  "coords": [
-                        26.072999,
-                        44.448306
                   ]
             },
             {
@@ -11370,15 +10951,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.086078,
                         44.45977
-                  ]
-            },
-            {
-                  "name": "Monumentul Aripi",
-                  "text": "A Monumentul Luptei Anticomuniste egy emlékmű Bukarestben.",
-                  "category": "historical",
-                  "coords": [
-                        26.072233,
-                        44.478924
                   ]
             },
             {
@@ -11406,33 +10978,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.109527,
                         44.45656
-                  ]
-            },
-            {
-                  "name": "Capela Sfânta Ecaterina",
-                  "text": "A Capela Sfânta Ecaterina egy vallási helyszín Bukarestben.",
-                  "category": "religious",
-                  "coords": [
-                        26.075672,
-                        44.46694
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă \"Sfântul Gheorghe Grivița\"",
-                  "text": "A Szent György Grivița-templom egy vallási helyszín Bukarestben.",
-                  "category": "religious",
-                  "coords": [
-                        26.055986,
-                        44.464175
-                  ]
-            },
-            {
-                  "name": "Catedrala greco-catolică „Sfântul Vasile cel Mare”",
-                  "text": "A Nagy Szent Vazul-székesegyház egy román görögkatolikus katedrális Bukarestben.",
-                  "category": "religious",
-                  "coords": [
-                        26.103812,
-                        44.449542
                   ]
             },
             {
@@ -11544,15 +11089,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeul Sportului",
-                  "text": "A Muzeul Sportului egy sporttörténeti múzeum, amely a romániai Herăstrău park közelében fekszik. A kiállítások a román sport történetét és legnagyobb sikereit mutatják be a nagyközönségnek. A látogatók átfogó képet kaphatnak az ország kiemelkedő sportolóinak eredményeiről.",
-                  "category": "museum",
-                  "coords": [
-                        26.076375,
-                        44.467913
-                  ]
-            },
-            {
                   "name": "Muzeul Parfumurilor",
                   "text": "Múzeum, amely parfümök és történelmi illatszeres üvegek egyedülálló gyűjteményét mutatja be.",
                   "category": "museum",
@@ -11607,156 +11143,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Spațiu Elena Scutaru",
-                  "text": "Művészeti kiállításoknak és kulturális eseményeknek szentelt helyszín.",
-                  "category": "museum",
-                  "coords": [
-                        26.061857,
-                        44.483915
-                  ]
-            },
-            {
-                  "name": "Una Galeria",
-                  "text": "A Nemzeti Művészeti Egyetemhez kapcsolódó művészeti galéria.",
-                  "category": "museum",
-                  "coords": [
-                        26.062926,
-                        44.484324
-                  ]
-            },
-            {
-                  "name": "Lacul Morii",
-                  "text": "A Herastrau Park területén található Lacul Morii egy nagy víztározó, amely tágas kilátást és sétautakat kínál.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "A Herastrau Park városrészben lévő Lacul Drumul Taberei egy központi vízfelület, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lacul Băneasa",
-                  "text": "A Herastrau Park területén található Lake Băneasa egy természetközeli tó, amely ideális a szabadtéri pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Chitila",
-                  "text": "A Herastrau Park környékén lévő Lacul Chitila nyugodt légkört biztosít a vízparti természetet kedvelőknek.",
-                  "category": "natural",
-                  "coords": [
-                        26.00146,
-                        44.51089
-                  ]
-            },
-            {
-                  "name": "Lacul Străulești",
-                  "text": "A Herastrau Park területén található Lacul Străulești egy helyi tó, amely teret ad a sétáknak és a zöldövezeti pihenésnek.",
-                  "category": "natural",
-                  "coords": [
-                        26.011649,
-                        44.502876
-                  ]
-            },
-            {
-                  "name": "Bazin decantare",
-                  "text": "A Herastrau Park területén lévő Bazin decantare egy technikai jellegű vízfelület, amely a helyi vízrendszer része.",
-                  "category": "natural",
-                  "coords": [
-                        26.001661,
-                        44.444654
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "A Herastrau Park környékén található Bazin apa Cotroceni egy helyi víztározó nyugodt környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "A Herastrau Park területén lévő Lacul Grivița egy festői tó, amely nyugodt pillanatokra hív a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "A Herastrau Park környékén található Lacul IOR népszerű helyszín szabadidős tevékenységekhez és parti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "A Herastrau Park területén található Balta Pipera egy nyugodt vízfelület, amely természetes oázist jelent a régióban.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "A Herastrau Park környékén lévő Lacul Tineretului egy szép tó, amely egy kiterjedt zöldterületbe ágyazódik.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "A Herastrau Park területén található Lacul Plumbuita békés légkört kínál, és kedvelt hely a természet megfigyelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
                   "name": "Lacul Lebedelor",
                   "text": "A Herastrau Park területén található Hattyú-tó egy kicsi, elegáns tó, amely pihenésre és nézelődésre hív.",
                   "category": "natural",
                   "coords": [
                         26.088734,
                         44.439013
-                  ]
-            },
-            {
-                  "name": "Lacul Dobroești",
-                  "text": "A Herastrau Park környékén lévő Lacul Dobroești egy nyugodt tó, amely alkalmas természetes környezetben tett sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.173695,
-                        44.449024
-                  ]
-            },
-            {
-                  "name": "Lacul Fundeni",
-                  "text": "A Herastrau Park területén található Lake Fundeni tágas vízfelületet és szabadtéri kikapcsolódási lehetőségeket kínál.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
                   ]
             },
             {
@@ -11850,57 +11242,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina Clubului Diplomatic",
-                  "text": "Egy úszómedence a Herăstrău parkban családi szabadidős tevékenységekhez.",
-                  "category": "family",
-                  "coords": [
-                        26.078388,
-                        44.48496
-                  ]
-            },
-            {
-                  "name": "Piscina Lido",
-                  "text": "Egy úszómedence a Herăstrău parkban, amely alkalmas a családi kikapcsolódásra.",
-                  "category": "family",
-                  "coords": [
-                        26.098644,
-                        44.441286
-                  ]
-            },
-            {
                   "name": "Bonton",
                   "text": "Egy úszómedence a Herăstrău parkban családi kiránduláshoz.",
                   "category": "family",
                   "coords": [
                         26.088015,
                         44.477092
-                  ]
-            },
-            {
-                  "name": "Strandul Tineretului",
-                  "text": "Vízi park a Herăstrău parkban, amely családi programokat kínál.",
-                  "category": "family",
-                  "coords": [
-                        26.072737,
-                        44.473849
-                  ]
-            },
-            {
-                  "name": "UNDA Pool",
-                  "text": "Egy úszómedence a Herăstrău parkban a családi szórakozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        26.06812,
-                        44.487018
-                  ]
-            },
-            {
-                  "name": "Lagoon Park",
-                  "text": "Strandüdülő a Herăstrău parkban a családi nyaralás érzéséért.",
-                  "category": "family",
-                  "coords": [
-                        26.056352,
-                        44.489578
                   ]
             }
       ],
@@ -11976,24 +11323,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
-                  "text": "Muzeul George Severeanu este un muzeu situat în apropierea Parcului Herăstrău din București.",
-                  "category": "museum",
-                  "coords": [
-                        26.092928,
-                        44.447424
-                  ]
-            },
-            {
-                  "name": "Muzeul Colecțiilor de Artă",
-                  "text": "Muzeul Colecțiilor de Artă este un muzeu de artă din București.",
-                  "category": "museum",
-                  "coords": [
-                        26.091422,
-                        44.444637
-                  ]
-            },
-            {
                   "name": "Muzeul Național al Hărților și Cărții Vechi",
                   "text": "Muzeul Național al Hărților și Cărții Vechi este un muzeu din București.",
                   "category": "museum",
@@ -12039,15 +11368,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeul Nicolae Minovici",
-                  "text": "Muzeul de Artă Populară „Prof. Dr. Nicolae Minovici” este un muzeu din București.",
-                  "category": "museum",
-                  "coords": [
-                        26.075301,
-                        44.484299
-                  ]
-            },
-            {
                   "name": "Palatul Primăverii (fosta locuință a lui Nicolae Ceaușescu)",
                   "text": "Palatul Primăverii este o fostă reședință din București, devenită muzeu.",
                   "category": "museum",
@@ -12057,30 +11377,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
-                  "text": "Observatorul Astronomic „Amiral Vasile Urseanu” este un observator și muzeu din București.",
-                  "category": "museum",
-                  "coords": [
-                        26.092891,
-                        44.448526
-                  ]
-            },
-            {
                   "name": "Muzeul Național al Aviației Române",
                   "text": "Muzeul Național al Aviației Române este un muzeu din București.",
                   "category": "museum",
                   "coords": [
                         26.110927,
                         44.477554
-                  ]
-            },
-            {
-                  "name": "Muzeul CFR",
-                  "text": "Muzeul Căilor Ferate Române este un muzeu din București.",
-                  "category": "museum",
-                  "coords": [
-                        26.072999,
-                        44.448306
                   ]
             },
             {
@@ -12099,15 +11401,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.086078,
                         44.45977
-                  ]
-            },
-            {
-                  "name": "Monumentul Aripi",
-                  "text": "Monumentul Luptei Anticomuniste este un monument situat în București.",
-                  "category": "historical",
-                  "coords": [
-                        26.072233,
-                        44.478924
                   ]
             },
             {
@@ -12135,33 +11428,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.109527,
                         44.45656
-                  ]
-            },
-            {
-                  "name": "Capela Sfânta Ecaterina",
-                  "text": "Capela Sfânta Ecaterina este un lăcaș de cult din București.",
-                  "category": "religious",
-                  "coords": [
-                        26.075672,
-                        44.46694
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă \"Sfântul Gheorghe Grivița\"",
-                  "text": "Biserica Sfântul Gheorghe - Grivița este un lăcaș de cult din București.",
-                  "category": "religious",
-                  "coords": [
-                        26.055986,
-                        44.464175
-                  ]
-            },
-            {
-                  "name": "Catedrala greco-catolică „Sfântul Vasile cel Mare”",
-                  "text": "Catedrala Sfântul Vasile cel Mare este o catedrală greco-catolică din București.",
-                  "category": "religious",
-                  "coords": [
-                        26.103812,
-                        44.449542
                   ]
             },
             {
@@ -12273,15 +11539,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeul Sportului",
-                  "text": "Muzeul Sportului se află în perimetrul Parcului Herăstrău și este o instituție culturală din România. Aici este prezentată cu mândrie istoria și evoluția, dar și marile succese ale sportului românesc. Expozițiile oferă o perspectivă detaliată asupra performanțelor atletice naționale de-a lungul timpului.",
-                  "category": "museum",
-                  "coords": [
-                        26.076375,
-                        44.467913
-                  ]
-            },
-            {
                   "name": "Muzeul Parfumurilor",
                   "text": "Un muzeu care expune o colecție unică de parfumuri și flacoane istorice.",
                   "category": "museum",
@@ -12336,156 +11593,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Spațiu Elena Scutaru",
-                  "text": "Un spațiu dedicat expozițiilor de artă și evenimentelor culturale.",
-                  "category": "museum",
-                  "coords": [
-                        26.061857,
-                        44.483915
-                  ]
-            },
-            {
-                  "name": "Una Galeria",
-                  "text": "O galerie de artă asociată cu Universitatea Națională de Arte.",
-                  "category": "museum",
-                  "coords": [
-                        26.062926,
-                        44.484324
-                  ]
-            },
-            {
-                  "name": "Lacul Morii",
-                  "text": "Lacul Morii din Herastrau Park este un lac de acumulare mare ce oferă perspective largi și alei pentru plimbare.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "Lacul Drumul Taberei din Herastrau Park este un luciu de apă central ce oferă un cadru plăcut pentru recreere.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lacul Băneasa",
-                  "text": "Lacul Băneasa din Herastrau Park este un lac apropiat de natură, ideal pentru ore de relaxare în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Chitila",
-                  "text": "Lacul Chitila din Herastrau Park oferă o atmosferă liniștită pentru vizitatorii care doresc să se bucure de natură lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        26.00146,
-                        44.51089
-                  ]
-            },
-            {
-                  "name": "Lacul Străulești",
-                  "text": "Lacul Străulești din Herastrau Park este un lac local ce oferă spațiu pentru plimbări și relaxare în zone verzi.",
-                  "category": "natural",
-                  "coords": [
-                        26.011649,
-                        44.502876
-                  ]
-            },
-            {
-                  "name": "Bazin decantare",
-                  "text": "Bazinul de decantare din Herastrau Park este un luciu de apă cu rol tehnic, parte din peisajul hidrografic local.",
-                  "category": "natural",
-                  "coords": [
-                        26.001661,
-                        44.444654
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "Bazinul de apă Cotroceni din Herastrau Park este un rezervor de apă local situat într-un cadru liniștit.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "Lacul Grivița din Herastrau Park este un lac pitoresc ce invită la momente liniștite în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Lacul IOR din Herastrau Park este o destinație populară pentru activități recreative și plimbări pe mal.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "Balta Pipera din Herastrau Park este un luciu de apă liniștit ce reprezintă o oază naturală în zonă.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "Lacul Tineretului din Herastrau Park este un lac frumos, integrat într-o zonă verde extinsă.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Lacul Plumbuita din Herastrau Park oferă o atmosferă pașnică și este un refugiu pentru observatorii naturii.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
                   "name": "Lacul Lebedelor",
                   "text": "Lacul Lebedelor (Swan Lake) din Herastrau Park este un lac mic și elegant, ce invită la relaxare și contemplare.",
                   "category": "natural",
                   "coords": [
                         26.088734,
                         44.439013
-                  ]
-            },
-            {
-                  "name": "Lacul Dobroești",
-                  "text": "Lacul Dobroești din Herastrau Park este un luciu de apă liniștit, potrivit pentru plimbări într-un cadru natural.",
-                  "category": "natural",
-                  "coords": [
-                        26.173695,
-                        44.449024
-                  ]
-            },
-            {
-                  "name": "Lacul Fundeni",
-                  "text": "Lacul Fundeni din Herastrau Park oferă o suprafață de apă extinsă și posibilități pentru activități în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
                   ]
             },
             {
@@ -12579,57 +11692,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina Clubului Diplomatic",
-                  "text": "O piscină în Parcul Herăstrău pentru petrecerea timpului liber în familie.",
-                  "category": "family",
-                  "coords": [
-                        26.078388,
-                        44.48496
-                  ]
-            },
-            {
-                  "name": "Piscina Lido",
-                  "text": "O piscină în Parcul Herăstrău potrivită pentru relaxare în familie.",
-                  "category": "family",
-                  "coords": [
-                        26.098644,
-                        44.441286
-                  ]
-            },
-            {
                   "name": "Bonton",
                   "text": "O piscină în Parcul Herăstrău pentru o ieșire cu familia.",
                   "category": "family",
                   "coords": [
                         26.088015,
                         44.477092
-                  ]
-            },
-            {
-                  "name": "Strandul Tineretului",
-                  "text": "Un parc acvatic în Parcul Herăstrău care oferă activități în familie.",
-                  "category": "family",
-                  "coords": [
-                        26.072737,
-                        44.473849
-                  ]
-            },
-            {
-                  "name": "UNDA Pool",
-                  "text": "O piscină în Parcul Herăstrău pentru distracție în familie.",
-                  "category": "family",
-                  "coords": [
-                        26.06812,
-                        44.487018
-                  ]
-            },
-            {
-                  "name": "Lagoon Park",
-                  "text": "O stațiune balneară în Parcul Herăstrău pentru o atmosferă de vacanță în familie.",
-                  "category": "family",
-                  "coords": [
-                        26.056352,
-                        44.489578
                   ]
             }
       ],
@@ -12705,24 +11773,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "\"Maria and Dr. George Severeanu\" Collection",
-                  "text": "The \"Maria and Dr. George Severeanu\" Collection is a museum near Herăstrău Park in Bucharest.",
-                  "category": "museum",
-                  "coords": [
-                        26.092928,
-                        44.447424
-                  ]
-            },
-            {
-                  "name": "Art Collections Museum",
-                  "text": "The Art Collections Museum is an art museum in Bucharest.",
-                  "category": "museum",
-                  "coords": [
-                        26.091422,
-                        44.444637
-                  ]
-            },
-            {
                   "name": "National Museum of Maps and Rare Books",
                   "text": "The National Museum of Maps and Rare Books is a museum located in Bucharest.",
                   "category": "museum",
@@ -12768,15 +11818,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Nicolae Minovici Folk Art Museum",
-                  "text": "The Nicolae Minovici Folk Art Museum is located in Bucharest.",
-                  "category": "museum",
-                  "coords": [
-                        26.075301,
-                        44.484299
-                  ]
-            },
-            {
                   "name": "Spring Palace",
                   "text": "The Spring Palace is a former residence in Bucharest, now operating as a museum.",
                   "category": "museum",
@@ -12786,30 +11827,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "\"Admiral Vasile Urseanu\" Bucharest City Observatory",
-                  "text": "The \"Admiral Vasile Urseanu\" Bucharest City Observatory is a museum and observatory in Bucharest.",
-                  "category": "museum",
-                  "coords": [
-                        26.092891,
-                        44.448526
-                  ]
-            },
-            {
                   "name": "National Museum of Romanian Aviation",
                   "text": "The National Museum of Romanian Aviation is a museum in Bucharest.",
                   "category": "museum",
                   "coords": [
                         26.110927,
                         44.477554
-                  ]
-            },
-            {
-                  "name": "Romanian Railway Museum",
-                  "text": "The Romanian Railway Museum is located in Bucharest.",
-                  "category": "museum",
-                  "coords": [
-                        26.072999,
-                        44.448306
                   ]
             },
             {
@@ -12828,15 +11851,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.086078,
                         44.45977
-                  ]
-            },
-            {
-                  "name": "Wings Monument",
-                  "text": "The Wings Monument is a monument located in Bucharest.",
-                  "category": "historical",
-                  "coords": [
-                        26.072233,
-                        44.478924
                   ]
             },
             {
@@ -12864,33 +11878,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.109527,
                         44.45656
-                  ]
-            },
-            {
-                  "name": "Capela Sfânta Ecaterina",
-                  "text": "The Capela Sfânta Ecaterina is a place of worship in Bucharest.",
-                  "category": "religious",
-                  "coords": [
-                        26.075672,
-                        44.46694
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă \"Sfântul Gheorghe Grivița\"",
-                  "text": "The Orthodox Church \"Sfântul Gheorghe Grivița\" is a place of worship in Bucharest.",
-                  "category": "religious",
-                  "coords": [
-                        26.055986,
-                        44.464175
-                  ]
-            },
-            {
-                  "name": "Cathedral of Saint Basil the Great",
-                  "text": "The Saint Basil the Great Cathedral is a Romanian Greek Catholic cathedral in Bucharest.",
-                  "category": "religious",
-                  "coords": [
-                        26.103812,
-                        44.449542
                   ]
             },
             {
@@ -13002,15 +11989,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Museum of Sports Romania",
-                  "text": "Positioned near Herastrau Park, the Muzeul Sportului is a museum dedicated to Romanian athletics. The exhibits display the extensive history and notable achievements of the nation's sports figures. Visitors can expect an engaging journey through the most significant moments in Romania's sporting past.",
-                  "category": "museum",
-                  "coords": [
-                        26.076375,
-                        44.467913
-                  ]
-            },
-            {
                   "name": "Muzeul Parfumurilor",
                   "text": "A museum showcasing a unique collection of perfumes and historical fragrance bottles.",
                   "category": "museum",
@@ -13065,156 +12043,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Spațiu Elena Scutaru",
-                  "text": "A dedicated space for art exhibitions and cultural events.",
-                  "category": "museum",
-                  "coords": [
-                        26.061857,
-                        44.483915
-                  ]
-            },
-            {
-                  "name": "Una Galeria",
-                  "text": "An art gallery associated with the National University of Arts.",
-                  "category": "museum",
-                  "coords": [
-                        26.062926,
-                        44.484324
-                  ]
-            },
-            {
-                  "name": "Lacul Morii",
-                  "text": "Lacul Morii in Herastrau Park is a large reservoir offering wide views and paths for walking.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "Lacul Drumul Taberei in Herastrau Park is a central body of water providing a pleasant setting for recreation.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lake Băneasa",
-                  "text": "Lake Băneasa in Herastrau Park is a nature-oriented lake, ideal for restful hours outdoors.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Chitila",
-                  "text": "Lacul Chitila in Herastrau Park offers a quiet atmosphere for visitors looking to enjoy nature by the water.",
-                  "category": "natural",
-                  "coords": [
-                        26.00146,
-                        44.51089
-                  ]
-            },
-            {
-                  "name": "Lacul Străulești",
-                  "text": "Lacul Străulești in Herastrau Park is a local lake offering space for walks and relaxation in green areas.",
-                  "category": "natural",
-                  "coords": [
-                        26.011649,
-                        44.502876
-                  ]
-            },
-            {
-                  "name": "Bazin decantare",
-                  "text": "Bazin decantare in Herastrau Park is a technical body of water that is part of the local water landscape.",
-                  "category": "natural",
-                  "coords": [
-                        26.001661,
-                        44.444654
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "Bazin apa Cotroceni in Herastrau Park is a local water reservoir situated in a quiet setting.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "Lacul Grivița in Herastrau Park is a scenic lake inviting for quiet moments in nature.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Lacul IOR in Herastrau Park is a popular destination for leisure activities and lakeside walks.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "Balta Pipera in Herastrau Park is a quiet body of water that serves as a natural oasis in the area.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "Lacul Tineretului in Herastrau Park is a beautiful lake embedded in a vast green area.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Lacul Plumbuita in Herastrau Park offers a peaceful atmosphere and is a haven for nature watchers.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
                   "name": "Swan Lake",
                   "text": "Swan Lake in Herastrau Park is a small, elegant lake inviting for relaxation and viewing the surroundings.",
                   "category": "natural",
                   "coords": [
                         26.088734,
                         44.439013
-                  ]
-            },
-            {
-                  "name": "Lacul Dobroești",
-                  "text": "Lacul Dobroești in Herastrau Park is a quiet body of water well-suited for walks in a natural setting.",
-                  "category": "natural",
-                  "coords": [
-                        26.173695,
-                        44.449024
-                  ]
-            },
-            {
-                  "name": "Lake Fundeni",
-                  "text": "Lake Fundeni in Herastrau Park offers a vast water surface and opportunities for outdoor leisure activities.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
                   ]
             },
             {
@@ -13308,57 +12142,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina Clubului Diplomatic",
-                  "text": "A swimming pool in Herăstrău Park for family leisure.",
-                  "category": "family",
-                  "coords": [
-                        26.078388,
-                        44.48496
-                  ]
-            },
-            {
-                  "name": "Piscina Lido",
-                  "text": "A swimming pool in Herăstrău Park suitable for family relaxation.",
-                  "category": "family",
-                  "coords": [
-                        26.098644,
-                        44.441286
-                  ]
-            },
-            {
                   "name": "Bonton",
                   "text": "A swimming pool in Herăstrău Park for a family outing.",
                   "category": "family",
                   "coords": [
                         26.088015,
                         44.477092
-                  ]
-            },
-            {
-                  "name": "Strandul Tineretului",
-                  "text": "A water park in Herăstrău Park providing family activities.",
-                  "category": "family",
-                  "coords": [
-                        26.072737,
-                        44.473849
-                  ]
-            },
-            {
-                  "name": "UNDA Pool",
-                  "text": "A swimming pool in Herăstrău Park for family fun.",
-                  "category": "family",
-                  "coords": [
-                        26.06812,
-                        44.487018
-                  ]
-            },
-            {
-                  "name": "Lagoon Park",
-                  "text": "A beach resort in Herăstrău Park for a family holiday feeling.",
-                  "category": "family",
-                  "coords": [
-                        26.056352,
-                        44.489578
                   ]
             }
       ]
@@ -13401,67 +12190,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Arcul de Triumf",
-                  "text": "Dieses Denkmal erinnert an Rumäniens Sieg im Ersten Weltkrieg und die Vereinigung von 1918 und ist ein Wahrzeichen der Stadt.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        26.078361,
-                        44.467278
-                  ]
-            },
-            {
                   "name": "Lagoon Park",
                   "text": "Ein Strandbereich in der Nähe des Dorfmuseums in Bukarest.",
                   "category": "recreational",
                   "coords": [
                         26.056352,
                         44.489578
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Hărților și Cărții Vechi",
-                  "text": "Ein Museum mit einer wertvollen Sammlung historischer Karten und seltener Drucke.",
-                  "category": "museum",
-                  "coords": [
-                        26.092772,
-                        44.456966
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Țăranului Român",
-                  "text": "Ein bedeutendes Museum in Bukarest, das der Kultur und Kunst des rumänischen Bauernstandes gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        26.083983,
-                        44.454423
-                  ]
-            },
-            {
-                  "name": "Muzeul \"K. H. Zambaccian\"",
-                  "text": "Ein Kunstmuseum, das die bedeutende Privatsammlung von Krikor Zambaccian beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        26.090939,
-                        44.460871
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
-                  "text": "Ein großes Naturkundemuseum mit vielfältigen Exponaten zur rumänischen und globalen Artenvielfalt.",
-                  "category": "museum",
-                  "coords": [
-                        26.084627,
-                        44.453096
-                  ]
-            },
-            {
-                  "name": "Muzeul Național Geologic",
-                  "text": "Ein Museum, das sich mit der geologischen Geschichte und der Mineralogie Rumäniens befasst.",
-                  "category": "museum",
-                  "coords": [
-                        26.085221,
-                        44.454817
                   ]
             },
             {
@@ -13474,84 +12208,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Frühlingspalast",
-                  "text": "Die ehemalige luxuriöse Residenz der Familie Ceaușescu, heute als Museum für Besucher geöffnet.",
-                  "category": "museum",
-                  "coords": [
-                        26.092324,
-                        44.468877
-                  ]
-            },
-            {
-                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
-                  "text": "Das einzige öffentliche astronomische Observatorium in Bukarest, benannt nach Admiral Vasile Urseanu.",
-                  "category": "museum",
-                  "coords": [
-                        26.092891,
-                        44.448526
-                  ]
-            },
-            {
-                  "name": "Palatul Elisabeta",
-                  "text": "Ein Palast in Bukarest, der als offizielle Residenz der rumänischen Königsfamilie dient.",
-                  "category": "castle",
-                  "coords": [
-                        26.079606,
-                        44.470705
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Aviației Române",
-                  "text": "Ein Museum, das die Entwicklung der Luftfahrt in Rumänien anhand historischer Flugzeuge dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        26.110927,
-                        44.477554
-                  ]
-            },
-            {
-                  "name": "Muzeul CFR",
-                  "text": "Ein Museum in Bukarest, das die Geschichte des rumänischen Schienenverkehrs präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        26.072999,
-                        44.448306
-                  ]
-            },
-            {
-                  "name": "Fântâna Modura",
-                  "text": "Ein dekorativer Brunnen im Herăstrău-Park, der eine symbolische Figur der rumänischen Folklore darstellt.",
-                  "category": "historical",
-                  "coords": [
-                        26.084806,
-                        44.467998
-                  ]
-            },
-            {
-                  "name": "Monumentul Eroilor Aerului",
-                  "text": "Ein hohes Denkmal in Bukarest zu Ehren der gefallenen rumänischen Militärflieger.",
-                  "category": "historical",
-                  "coords": [
-                        26.086078,
-                        44.45977
-                  ]
-            },
-            {
                   "name": "Monumentul Aripi",
                   "text": "Ein monumentales Denkmal zum Gedenken an den Kampf gegen den Kommunismus in Rumänien.",
                   "category": "historical",
                   "coords": [
                         26.072233,
                         44.478924
-                  ]
-            },
-            {
-                  "name": "Primăria Sectorului 1",
-                  "text": "Das Verwaltungsgebäude der Stadtverwaltung des 1. Bezirks in Bukarest.",
-                  "category": "historical",
-                  "coords": [
-                        26.073845,
-                        44.453843
                   ]
             },
             {
@@ -13573,120 +12235,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
-                  "text": "Eine orthodoxe Kirche in der Nähe der Calea Victoriei in Bukarest.",
-                  "category": "religious",
-                  "coords": [
-                        26.089334,
-                        44.448881
-                  ]
-            },
-            {
-                  "name": "Biserica „Sf. Visarion Vechi“",
-                  "text": "Eine historische Kirche in Bukarest, die für ihre traditionelle Architektur bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        26.095411,
-                        44.448538
-                  ]
-            },
-            {
-                  "name": "Aero L-29 Delfin",
-                  "text": "Ein tschechoslowakisches Strahltrainingsflugzeug, das als Museumsexponat dient.",
-                  "category": "landmark",
-                  "coords": [
-                        26.110699,
-                        44.478709
-                  ]
-            },
-            {
-                  "name": "Parcul Kiseleff",
-                  "text": "Ein historischer Park in Bukarest, der für seine ruhigen Alleen und Statuen bekannt ist.",
-                  "category": "park",
-                  "coords": [
-                        26.083375,
-                        44.457403
-                  ]
-            },
-            {
-                  "name": "Parcul Circului",
-                  "text": "Ein Stadtpark in Bukarest, bekannt für seinen malerischen See und die Nähe zum staatlichen Zirkus.",
-                  "category": "park",
-                  "coords": [
-                        26.110516,
-                        44.457203
-                  ]
-            },
-            {
-                  "name": "Muzeul Memorial \"George Călinescu\"",
-                  "text": "Ein Gedenkmuseum, das dem Leben und Werk des bedeutenden rumänischen Schriftstellers George Călinescu gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        26.099546,
-                        44.462162
-                  ]
-            },
-            {
-                  "name": "Muzeul Național \"George Enescu\"",
-                  "text": "Ein Museum, das dem Leben des berühmten rumänischen Komponisten George Enescu gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        26.088338,
-                        44.448711
-                  ]
-            },
-            {
-                  "name": "Casa Filipescu-Cesianu",
-                  "text": "Ein historisches Herrenhaus, das Ausstellungen zur Geschichte der Stadt Bukarest beherbergt.",
-                  "category": "castle",
-                  "coords": [
-                        26.087126,
-                        44.450264
-                  ]
-            },
-            {
-                  "name": "Muzeul de Artă Recentă",
-                  "text": "Ein Museum in Bukarest, das sich auf zeitgenössische und neuere rumänische Kunst konzentriert.",
-                  "category": "museum",
-                  "coords": [
-                        26.089054,
-                        44.467901
-                  ]
-            },
-            {
-                  "name": "Vila Filipescu-Brâncoveanu",
-                  "text": "Ein elegantes historisches Gebäude in Bukarest, das für seine architektonische Bedeutung bekannt ist.",
-                  "category": "castle",
-                  "coords": [
-                        26.086887,
-                        44.456912
-                  ]
-            },
-            {
                   "name": "Biserica Dămăroaia",
                   "text": "Eine lokale orthodoxe Kirche im Stadtteil Dămăroaia von Bukarest.",
                   "category": "religious",
                   "coords": [
                         26.053328,
                         44.488558
-                  ]
-            },
-            {
-                  "name": "Parcul Floreasca",
-                  "text": "Ein Park im Norden von Bukarest, der verschiedene Sport- und Erholungsmöglichkeiten bietet.",
-                  "category": "park",
-                  "coords": [
-                        26.097977,
-                        44.46467
-                  ]
-            },
-            {
-                  "name": "Casa Memorială \"Constantin Joja\"",
-                  "text": "Das Constantin Joja Gedenkhaus ist ein Museum im Nationalen Dorfmuseum.",
-                  "category": "museum",
-                  "coords": [
-                        26.096448,
-                        44.450317
                   ]
             },
             {
@@ -13699,39 +12253,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeul Parfumurilor",
-                  "text": "Das Parfümmuseum präsentiert eine private Sammlung historischer Flakons und Düfte.",
-                  "category": "museum",
-                  "coords": [
-                        26.094466,
-                        44.461595
-                  ]
-            },
-            {
                   "name": "Muzeul Național al Satului Dimitrie Gusti",
                   "text": "Dieses berühmte Freilichtmuseum zeigt traditionelle rumänische Bauernhäuser aus dem ganzen Land.",
                   "category": "museum",
                   "coords": [
                         26.076627,
                         44.472389
-                  ]
-            },
-            {
-                  "name": "Muzeul Universității Politehnice",
-                  "text": "Dieses Museum zeigt die technologische Entwicklung und Geschichte der Polytechnischen Universität.",
-                  "category": "museum",
-                  "coords": [
-                        26.078633,
-                        44.449061
-                  ]
-            },
-            {
-                  "name": "Prințesele lui Tata",
-                  "text": "Eine historische Schlossanlage im Bereich des Nationalen Dorfmuseums.",
-                  "category": "castle",
-                  "coords": [
-                        26.086275,
-                        44.449252
                   ]
             },
             {
@@ -13807,84 +12334,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Morii",
-                  "text": "Ein weitläufiger See, der für Spaziergänge und Erholung am Wasser geschätzt wird.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "Ein hübscher See in einer Parkanlage, ideal zum Entspannen im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lacul Băneasa",
-                  "text": "Ein bekannter See, der Ruhe und eine schöne natürliche Kulisse bietet.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Chitila",
-                  "text": "Ein See mit ruhigem Wasser, perfekt für einen entspannten Tag in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        26.00146,
-                        44.51089
-                  ]
-            },
-            {
-                  "name": "Lacul Străulești",
-                  "text": "Ein See, der zu ruhigen Momenten und Naturbeobachtungen einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        26.011649,
-                        44.502876
-                  ]
-            },
-            {
-                  "name": "Bazin decantare",
-                  "text": "Ein funktionales Wasserbecken, das die lokale Szenerie ergänzt.",
-                  "category": "natural",
-                  "coords": [
-                        26.001661,
-                        44.444654
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "Ein Wasserreservoir, das einen interessanten Punkt in der Landschaft bildet.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
                   "name": "Lacul Grivița",
                   "text": "Ein See, der eine friedliche Umgebung für Freizeitaktivitäten im Freien bietet.",
                   "category": "natural",
                   "coords": [
                         26.042831,
                         44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Ein beliebter Ort am Wasser, ideal für Spaziergänge und zum Verweilen.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
                   ]
             },
             {
@@ -13897,132 +12352,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Balta Pipera",
-                  "text": "Ein See, der Ruhe ausstrahlt und eine schöne Kulisse für Naturfreunde ist.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "Ein See in einer grünen Umgebung, der ideal für erholsame Pausen ist.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Der Lacul Plumbuita ist ein See beim Dorfmuseum Dimitrie Gusti, der eine ruhige Umgebung für Spaziergänge bietet.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lebedelor-See",
-                  "text": "Der Schwanensee (Lacul Lebedelor) ist ein malerischer See beim Dorfmuseum Dimitrie Gusti.",
-                  "category": "natural",
-                  "coords": [
-                        26.088734,
-                        44.439013
-                  ]
-            },
-            {
-                  "name": "Lacul Dobroești",
-                  "text": "Der Lacul Dobroești ist ein See beim Dorfmuseum Dimitrie Gusti, ideal für Naturbeobachtungen.",
-                  "category": "natural",
-                  "coords": [
-                        26.173695,
-                        44.449024
-                  ]
-            },
-            {
-                  "name": "Lacul Fundeni",
-                  "text": "Der Lake Fundeni ist ein See beim Dorfmuseum Dimitrie Gusti, der zu entspannten Momenten am Wasser einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
-                  ]
-            },
-            {
-                  "name": "Roata Mare",
-                  "text": "Roata Mare ist ein Spielplatz beim Dorfmuseum Dimitrie Gusti, der Spaß für die ganze Familie bietet.",
-                  "category": "family",
-                  "coords": [
-                        26.083221,
-                        44.481985
-                  ]
-            },
-            {
-                  "name": "Minigolf",
-                  "text": "Dieser Minigolfplatz beim Dorfmuseum Dimitrie Gusti ist ein tolles Ziel für einen Familienausflug.",
-                  "category": "family",
-                  "coords": [
-                        26.084964,
-                        44.469598
-                  ]
-            },
-            {
-                  "name": "închirieri biciclete",
-                  "text": "Der Fahrradverleih beim Dorfmuseum Dimitrie Gusti ermöglicht aktive Familienerlebnisse im Freien.",
-                  "category": "family",
-                  "coords": [
-                        26.087191,
-                        44.471278
-                  ]
-            },
-            {
-                  "name": "Ponei",
-                  "text": "Ponei ist ein Spielbereich beim Dorfmuseum Dimitrie Gusti, der speziell auf Kinder ausgerichtet ist.",
-                  "category": "family",
-                  "coords": [
-                        26.083966,
-                        44.469498
-                  ]
-            },
-            {
-                  "name": "Bungee Jumping Herăstrău",
-                  "text": "Bungee Jumping Herăstrău beim Dorfmuseum Dimitrie Gusti bietet spannende Erlebnisse für abenteuerlustige Familien.",
-                  "category": "family",
-                  "coords": [
-                        26.083514,
-                        44.46754
-                  ]
-            },
-            {
-                  "name": "Golf Room",
-                  "text": "Golf Room ist eine Spielhalle beim Dorfmuseum Dimitrie Gusti, die moderne Unterhaltung für Familien bietet.",
-                  "category": "family",
-                  "coords": [
-                        26.100422,
-                        44.460872
-                  ]
-            },
-            {
-                  "name": "Crazy toboggan",
-                  "text": "Crazy toboggan ist ein Spielplatz beim Dorfmuseum Dimitrie Gusti, ideal zum Austoben für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        26.099236,
-                        44.464153
-                  ]
-            },
-            {
-                  "name": "La Pedale",
-                  "text": "La Pedale ist ein Spielbereich beim Dorfmuseum Dimitrie Gusti, der zu körperlicher Aktivität einlädt.",
-                  "category": "family",
-                  "coords": [
-                        26.08201,
-                        44.467741
-                  ]
-            },
-            {
                   "name": "Skatepark 2",
                   "text": "Skatepark 2 ist ein Spielplatz beim Dorfmuseum Dimitrie Gusti, der für Jugendliche und Familien geeignet ist.",
                   "category": "family",
@@ -14032,48 +12361,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Magic Place Aqua Park",
-                  "text": "Der Magic Place Aqua Park beim Dorfmuseum bietet Wasserattraktionen für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        26.041173,
-                        44.447504
-                  ]
-            },
-            {
                   "name": "Piscina Clubului Diplomatic",
                   "text": "Die Piscina Clubului Diplomatic beim Dorfmuseum bietet ein Becken zum Schwimmen.",
                   "category": "family",
                   "coords": [
                         26.078388,
                         44.48496
-                  ]
-            },
-            {
-                  "name": "Ștrand Gulești",
-                  "text": "Ștrand Gulești beim Dorfmuseum ist ein Schwimmbad für die öffentliche Nutzung.",
-                  "category": "family",
-                  "coords": [
-                        26.030044,
-                        44.468604
-                  ]
-            },
-            {
-                  "name": "Piscina Lido",
-                  "text": "Die Piscina Lido beim Dorfmuseum bietet Möglichkeiten zum Schwimmen und Sonnenbaden.",
-                  "category": "family",
-                  "coords": [
-                        26.098644,
-                        44.441286
-                  ]
-            },
-            {
-                  "name": "Bonton",
-                  "text": "Bonton beim Dorfmuseum ist ein Schwimmbad für die Erholung im Wasser.",
-                  "category": "family",
-                  "coords": [
-                        26.088015,
-                        44.477092
                   ]
             },
             {
@@ -14107,67 +12400,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Arcul de Triumf",
-                  "text": "Ez az emlékmű Románia első világháborús győzelmének és az 1918-as egyesülésnek állít emléket, a város jelképe.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        26.078361,
-                        44.467278
-                  ]
-            },
-            {
                   "name": "Lagoon Park",
                   "text": "Strandterület a bukaresti Falumúzeum közelében.",
                   "category": "recreational",
                   "coords": [
                         26.056352,
                         44.489578
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Hărților și Cărții Vechi",
-                  "text": "Értékes történelmi térképek és ritka nyomatok gyűjteményét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        26.092772,
-                        44.456966
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Țăranului Român",
-                  "text": "Jelentős múzeum Bukarestben, amely a román paraszti kultúrának és művészetnek szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        26.083983,
-                        44.454423
-                  ]
-            },
-            {
-                  "name": "Muzeul \"K. H. Zambaccian\"",
-                  "text": "Művészeti múzeum, amely Krikor Zambaccian jelentős magángyűjteményének ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        26.090939,
-                        44.460871
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
-                  "text": "Nagy természettudományi múzeum a román és a globális élővilágot bemutató változatos kiállításokkal.",
-                  "category": "museum",
-                  "coords": [
-                        26.084627,
-                        44.453096
-                  ]
-            },
-            {
-                  "name": "Muzeul Național Geologic",
-                  "text": "Románia földtani történetével és ásványtanával foglalkozó múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        26.085221,
-                        44.454817
                   ]
             },
             {
@@ -14180,84 +12418,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Palatul Primăverii (fosta locuință a lui Nicolae Ceaușescu)",
-                  "text": "A Ceaușescu család egykori fényűző rezidenciája, amely ma múzeumként látogatható.",
-                  "category": "museum",
-                  "coords": [
-                        26.092324,
-                        44.468877
-                  ]
-            },
-            {
-                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
-                  "text": "Bukarest egyetlen nyilvános csillagvizsgálója, amely Vasile Urseanu tengernagyról kapta nevét.",
-                  "category": "museum",
-                  "coords": [
-                        26.092891,
-                        44.448526
-                  ]
-            },
-            {
-                  "name": "Palatul Elisabeta",
-                  "text": "Palota Bukarestben, amely a román királyi család hivatalos rezidenciája.",
-                  "category": "castle",
-                  "coords": [
-                        26.079606,
-                        44.470705
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Aviației Române",
-                  "text": "A román repülés fejlődését történelmi repülőgépeken keresztül bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        26.110927,
-                        44.477554
-                  ]
-            },
-            {
-                  "name": "Muzeul CFR",
-                  "text": "Múzeum Bukarestben, amely a román vasúti közlekedés történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        26.072999,
-                        44.448306
-                  ]
-            },
-            {
-                  "name": "Fântâna Modura",
-                  "text": "Díszes szökőkút a Herăstrău parkban, amely a román folklór egyik szimbolikus alakját ábrázolja.",
-                  "category": "historical",
-                  "coords": [
-                        26.084806,
-                        44.467998
-                  ]
-            },
-            {
-                  "name": "Monumentul Eroilor Aerului",
-                  "text": "Magas emlékmű Bukarestben az elesett román katonai repülők tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        26.086078,
-                        44.45977
-                  ]
-            },
-            {
                   "name": "Monumentul Aripi",
                   "text": "Monumentális emlékmű a romániai kommunizmus elleni harc emlékére.",
                   "category": "historical",
                   "coords": [
                         26.072233,
                         44.478924
-                  ]
-            },
-            {
-                  "name": "Primăria Sectorului 1",
-                  "text": "Bukarest 1. kerületi polgármesteri hivatalának adminisztratív épülete.",
-                  "category": "historical",
-                  "coords": [
-                        26.073845,
-                        44.453843
                   ]
             },
             {
@@ -14279,120 +12445,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
-                  "text": "Ortodox templom Bukarestben, a Calea Victoriei közelében.",
-                  "category": "religious",
-                  "coords": [
-                        26.089334,
-                        44.448881
-                  ]
-            },
-            {
-                  "name": "Biserica „Sf. Visarion Vechi“",
-                  "text": "Történelmi templom Bukarestben, amely hagyományos építészetéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        26.095411,
-                        44.448538
-                  ]
-            },
-            {
-                  "name": "Aero L-29 Delfin",
-                  "text": "Csehszlovák sugárhajtású gyakorló repülőgép, amely múzeumi tárgyként szolgál.",
-                  "category": "landmark",
-                  "coords": [
-                        26.110699,
-                        44.478709
-                  ]
-            },
-            {
-                  "name": "Parcul Kiseleff",
-                  "text": "Történelmi park Bukarestben, amely nyugodt sugárútjairól és szobrairól ismert.",
-                  "category": "park",
-                  "coords": [
-                        26.083375,
-                        44.457403
-                  ]
-            },
-            {
-                  "name": "Parcul Circului",
-                  "text": "Bukaresti városi park, amely festői taváról és az Állami Cirkusz közelségéről ismert.",
-                  "category": "park",
-                  "coords": [
-                        26.110516,
-                        44.457203
-                  ]
-            },
-            {
-                  "name": "Muzeul Memorial \"George Călinescu\"",
-                  "text": "George Călinescu jelentős román író életének és munkásságának szentelt emlékmúzeum.",
-                  "category": "museum",
-                  "coords": [
-                        26.099546,
-                        44.462162
-                  ]
-            },
-            {
-                  "name": "Muzeul Național \"George Enescu\"",
-                  "text": "A híres román zeneszerző, George Enescu életének szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        26.088338,
-                        44.448711
-                  ]
-            },
-            {
-                  "name": "Casa Filipescu-Cesianu",
-                  "text": "Történelmi kúria, amely Bukarest városának történetét bemutató kiállításoknak ad otthont.",
-                  "category": "castle",
-                  "coords": [
-                        26.087126,
-                        44.450264
-                  ]
-            },
-            {
-                  "name": "Muzeul de Artă Recentă",
-                  "text": "Bukaresti múzeum, amely a kortárs és újabb román művészetre összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        26.089054,
-                        44.467901
-                  ]
-            },
-            {
-                  "name": "Vila Filipescu-Brâncoveanu",
-                  "text": "Elegáns történelmi épület Bukarestben, amely építészeti jelentőségéről ismert.",
-                  "category": "castle",
-                  "coords": [
-                        26.086887,
-                        44.456912
-                  ]
-            },
-            {
                   "name": "Biserica Dămăroaia",
                   "text": "Helyi ortodox templom Bukarest Dămăroaia negyedében.",
                   "category": "religious",
                   "coords": [
                         26.053328,
                         44.488558
-                  ]
-            },
-            {
-                  "name": "Parcul Floreasca",
-                  "text": "Bukarest északi részén található park, amely különféle sportolási és kikapcsolódási lehetőségeket kínál.",
-                  "category": "park",
-                  "coords": [
-                        26.097977,
-                        44.46467
-                  ]
-            },
-            {
-                  "name": "Casa Memorială \"Constantin Joja\"",
-                  "text": "A Constantin Joja emlékház egy múzeum a Nemzeti Falumúzeumban.",
-                  "category": "museum",
-                  "coords": [
-                        26.096448,
-                        44.450317
                   ]
             },
             {
@@ -14405,39 +12463,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeul Parfumurilor",
-                  "text": "A parfümmúzeum történelmi üvegcsék és illatok magángyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        26.094466,
-                        44.461595
-                  ]
-            },
-            {
                   "name": "Muzeul Național al Satului Dimitrie Gusti",
                   "text": "Ez a híres szabadtéri múzeum hagyományos román parasztházakat mutat be az egész országból.",
                   "category": "museum",
                   "coords": [
                         26.076627,
                         44.472389
-                  ]
-            },
-            {
-                  "name": "Muzeul Universității Politehnice",
-                  "text": "Ez a múzeum a Politechnikai Egyetem technológiai fejlődését és történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        26.078633,
-                        44.449061
-                  ]
-            },
-            {
-                  "name": "Prințesele lui Tata",
-                  "text": "Egy történelmi kastélyépület a Nemzeti Falumúzeum területén.",
-                  "category": "castle",
-                  "coords": [
-                        26.086275,
-                        44.449252
                   ]
             },
             {
@@ -14513,84 +12544,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Morii",
-                  "text": "Egy kiterjedt tó, amelyet tóparti sétákért és pihenésért kedvelnek.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "Egy csinos tó egy park területén, amely ideális a szabadban való pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lacul Băneasa",
-                  "text": "Egy ismert tó, amely nyugalmat és szép természeti környezetet biztosít.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Chitila",
-                  "text": "Egy tó nyugodt vízzel, amely tökéletes egy pihentető természetbeni naphoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.00146,
-                        44.51089
-                  ]
-            },
-            {
-                  "name": "Lacul Străulești",
-                  "text": "Egy tó, amely nyugodt pillanatokra és természetmegfigyelésre hív.",
-                  "category": "natural",
-                  "coords": [
-                        26.011649,
-                        44.502876
-                  ]
-            },
-            {
-                  "name": "Bazin decantare",
-                  "text": "Egy funkcionális víztározó, amely kiegészíti a helyi környezetet.",
-                  "category": "natural",
-                  "coords": [
-                        26.001661,
-                        44.444654
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "Egy víztározó, amely érdekes pontot képez a tájban.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
                   "name": "Lacul Grivița",
                   "text": "Egy tó, amely békés környezetet biztosít a szabadidős tevékenységekhez.",
                   "category": "natural",
                   "coords": [
                         26.042831,
                         44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Egy népszerű hely a vízparton, amely ideális sétákhoz és pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
                   ]
             },
             {
@@ -14603,132 +12562,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Balta Pipera",
-                  "text": "Egy tó, amely nyugalmat áraszt és szép környezet a természetbarátoknak.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "Egy tó zöld környezetben, amely ideális pihentető szünetekhez.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "A Lacul Plumbuita egy tó a Dimitrie Gusti Falumúzeumnál, amely nyugodt környezetet biztosít a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lacul Lebedelor",
-                  "text": "A Hattyú-tó (Lacul Lebedelor) egy festői tó a Dimitrie Gusti Falumúzeumnál.",
-                  "category": "natural",
-                  "coords": [
-                        26.088734,
-                        44.439013
-                  ]
-            },
-            {
-                  "name": "Lacul Dobroești",
-                  "text": "A Lacul Dobroești egy tó a Dimitrie Gusti Falumúzeumnál, amely ideális a természet megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        26.173695,
-                        44.449024
-                  ]
-            },
-            {
-                  "name": "Lacul Fundeni",
-                  "text": "A Lake Fundeni egy tó a Dimitrie Gusti Falumúzeumnál, amely pihentető vízparti pillanatokat kínál.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
-                  ]
-            },
-            {
-                  "name": "Roata Mare",
-                  "text": "A Roata Mare egy játszótér a Dimitrie Gusti Falumúzeumnál, amely szórakozást nyújt az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        26.083221,
-                        44.481985
-                  ]
-            },
-            {
-                  "name": "Minigolf",
-                  "text": "Ez a minigolfpálya a Dimitrie Gusti Falumúzeumnál remek úti cél egy családi kiránduláshoz.",
-                  "category": "family",
-                  "coords": [
-                        26.084964,
-                        44.469598
-                  ]
-            },
-            {
-                  "name": "închirieri biciclete",
-                  "text": "A Dimitrie Gusti Falumúzeumnál található kerékpárkölcsönző aktív családi élményeket tesz lehetővé a szabadban.",
-                  "category": "family",
-                  "coords": [
-                        26.087191,
-                        44.471278
-                  ]
-            },
-            {
-                  "name": "Ponei",
-                  "text": "A Ponei egy játszóhely a Dimitrie Gusti Falumúzeumnál, amelyet kifejezetten gyermekeknek alakítottak ki.",
-                  "category": "family",
-                  "coords": [
-                        26.083966,
-                        44.469498
-                  ]
-            },
-            {
-                  "name": "Bungee Jumping Herăstrău",
-                  "text": "A Bungee Jumping Herăstrău a Dimitrie Gusti Falumúzeumnál izgalmas élményeket kínál a kalandvágyó családoknak.",
-                  "category": "family",
-                  "coords": [
-                        26.083514,
-                        44.46754
-                  ]
-            },
-            {
-                  "name": "Golf Room",
-                  "text": "A Golf Room egy játékterem a Dimitrie Gusti Falumúzeumnál, amely modern szórakozást kínál a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        26.100422,
-                        44.460872
-                  ]
-            },
-            {
-                  "name": "Crazy toboggan",
-                  "text": "A Crazy toboggan egy játszótér a Dimitrie Gusti Falumúzeumnál, amely ideális a gyerekek számára a kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        26.099236,
-                        44.464153
-                  ]
-            },
-            {
-                  "name": "La Pedale",
-                  "text": "A La Pedale egy játszóhely a Dimitrie Gusti Falumúzeumnál, amely fizikai aktivitásra ösztönöz.",
-                  "category": "family",
-                  "coords": [
-                        26.08201,
-                        44.467741
-                  ]
-            },
-            {
                   "name": "Skatepark 2",
                   "text": "A Skatepark 2 egy játszótér a Dimitrie Gusti Falumúzeumnál, amely alkalmas fiatalok és családok számára.",
                   "category": "family",
@@ -14738,48 +12571,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Magic Place Aqua Park",
-                  "text": "A Falumúzeumnál található Magic Place Aqua Park vízi attrakciókat kínál az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        26.041173,
-                        44.447504
-                  ]
-            },
-            {
                   "name": "Piscina Clubului Diplomatic",
                   "text": "A Falumúzeumnál található Piscina Clubului Diplomatic úszási lehetőséget kínál.",
                   "category": "family",
                   "coords": [
                         26.078388,
                         44.48496
-                  ]
-            },
-            {
-                  "name": "Ștrand Gulești",
-                  "text": "A Falumúzeumnál található Ștrand Gulești egy nyilvános úszómedence.",
-                  "category": "family",
-                  "coords": [
-                        26.030044,
-                        44.468604
-                  ]
-            },
-            {
-                  "name": "Piscina Lido",
-                  "text": "A Falumúzeumnál található Piscina Lido úszási és napozási lehetőséget kínál.",
-                  "category": "family",
-                  "coords": [
-                        26.098644,
-                        44.441286
-                  ]
-            },
-            {
-                  "name": "Bonton",
-                  "text": "A Falumúzeumnál található Bonton egy úszómedence a vízi kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        26.088015,
-                        44.477092
                   ]
             },
             {
@@ -14813,67 +12610,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Arcul de Triumf",
-                  "text": "Acest monument comemorează victoria României în Primul Război Mondial și Unirea din 1918, fiind un simbol al capitalei.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        26.078361,
-                        44.467278
-                  ]
-            },
-            {
                   "name": "Lagoon Park",
                   "text": "O zonă de plajă lângă Muzeul Satului din București.",
                   "category": "recreational",
                   "coords": [
                         26.056352,
                         44.489578
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Hărților și Cărții Vechi",
-                  "text": "Un muzeu care expune o colecție valoroasă de hărți istorice și stampe rare.",
-                  "category": "museum",
-                  "coords": [
-                        26.092772,
-                        44.456966
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Țăranului Român",
-                  "text": "Un muzeu important din București dedicat culturii și artei țăranului român.",
-                  "category": "museum",
-                  "coords": [
-                        26.083983,
-                        44.454423
-                  ]
-            },
-            {
-                  "name": "Muzeul \"K. H. Zambaccian\"",
-                  "text": "Un muzeu de artă care găzduiește importanta colecție privată a lui Krikor Zambaccian.",
-                  "category": "museum",
-                  "coords": [
-                        26.090939,
-                        44.460871
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
-                  "text": "Un mare muzeu de istorie naturală cu exponate diverse despre biodiversitatea românească și globală.",
-                  "category": "museum",
-                  "coords": [
-                        26.084627,
-                        44.453096
-                  ]
-            },
-            {
-                  "name": "Muzeul Național Geologic",
-                  "text": "Un muzeu care se ocupă de istoria geologică și mineralogia României.",
-                  "category": "museum",
-                  "coords": [
-                        26.085221,
-                        44.454817
                   ]
             },
             {
@@ -14886,84 +12628,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Palatul Primăverii (fosta locuință a lui Nicolae Ceaușescu)",
-                  "text": "Fosta reședință de lux a familiei Ceaușescu, astăzi deschisă vizitatorilor ca muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        26.092324,
-                        44.468877
-                  ]
-            },
-            {
-                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
-                  "text": "Singurul observator astronomic public din București, numit după amiralul Vasile Urseanu.",
-                  "category": "museum",
-                  "coords": [
-                        26.092891,
-                        44.448526
-                  ]
-            },
-            {
-                  "name": "Palatul Elisabeta",
-                  "text": "Un palat din București care servește drept reședință oficială a Familiei Regale a României.",
-                  "category": "castle",
-                  "coords": [
-                        26.079606,
-                        44.470705
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Aviației Române",
-                  "text": "Un muzeu care documentează evoluția aviației în România prin aeronave istorice.",
-                  "category": "museum",
-                  "coords": [
-                        26.110927,
-                        44.477554
-                  ]
-            },
-            {
-                  "name": "Muzeul CFR",
-                  "text": "Un muzeu din București care prezintă istoria transportului feroviar românesc.",
-                  "category": "museum",
-                  "coords": [
-                        26.072999,
-                        44.448306
-                  ]
-            },
-            {
-                  "name": "Fântâna Modura",
-                  "text": "O fântână decorativă din Parcul Herăstrău, reprezentând o figură simbolică a folclorului românesc.",
-                  "category": "historical",
-                  "coords": [
-                        26.084806,
-                        44.467998
-                  ]
-            },
-            {
-                  "name": "Monumentul Eroilor Aerului",
-                  "text": "Un monument înalt din București ridicat în onoarea aviatorilor militari români căzuți la datorie.",
-                  "category": "historical",
-                  "coords": [
-                        26.086078,
-                        44.45977
-                  ]
-            },
-            {
                   "name": "Monumentul Aripi",
                   "text": "Un monument monumental dedicat luptei împotriva comunismului în România.",
                   "category": "historical",
                   "coords": [
                         26.072233,
                         44.478924
-                  ]
-            },
-            {
-                  "name": "Primăria Sector 1",
-                  "text": "Clădirea administrativă a Primăriei Sectorului 1 din București.",
-                  "category": "historical",
-                  "coords": [
-                        26.073845,
-                        44.453843
                   ]
             },
             {
@@ -14985,120 +12655,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
-                  "text": "O biserică ortodoxă din București, situată în apropierea Căii Victoriei.",
-                  "category": "religious",
-                  "coords": [
-                        26.089334,
-                        44.448881
-                  ]
-            },
-            {
-                  "name": "Biserica „Sf. Visarion Vechi“",
-                  "text": "O biserică istorică din București, cunoscută pentru arhitectura sa tradițională.",
-                  "category": "religious",
-                  "coords": [
-                        26.095411,
-                        44.448538
-                  ]
-            },
-            {
-                  "name": "Aero L-29 Delfin",
-                  "text": "Un avion de antrenament cu reacție cehoslovac care servește drept piesă de muzeu.",
-                  "category": "landmark",
-                  "coords": [
-                        26.110699,
-                        44.478709
-                  ]
-            },
-            {
-                  "name": "Parcul Kiseleff",
-                  "text": "Un parc istoric din București, cunoscut pentru aleile sale liniștite și statui.",
-                  "category": "park",
-                  "coords": [
-                        26.083375,
-                        44.457403
-                  ]
-            },
-            {
-                  "name": "Parcul Circului",
-                  "text": "Un parc orășenesc din București, cunoscut pentru lacul său pitoresc și proximitatea față de Circul de Stat.",
-                  "category": "park",
-                  "coords": [
-                        26.110516,
-                        44.457203
-                  ]
-            },
-            {
-                  "name": "Muzeul Memorial \"George Călinescu\"",
-                  "text": "Un muzeu memorial dedicat vieții și operei importantului scriitor român George Călinescu.",
-                  "category": "museum",
-                  "coords": [
-                        26.099546,
-                        44.462162
-                  ]
-            },
-            {
-                  "name": "Muzeul Național \"George Enescu\"",
-                  "text": "Un muzeu dedicat vieții celebrului compozitor român George Enescu.",
-                  "category": "museum",
-                  "coords": [
-                        26.088338,
-                        44.448711
-                  ]
-            },
-            {
-                  "name": "Casa Filipescu-Cesianu",
-                  "text": "Un conac istoric care găzduiește expoziții despre istoria orașului București.",
-                  "category": "castle",
-                  "coords": [
-                        26.087126,
-                        44.450264
-                  ]
-            },
-            {
-                  "name": "Muzeul de Artă Recentă",
-                  "text": "Un muzeu din București care se concentrează pe arta românească contemporană și recentă.",
-                  "category": "museum",
-                  "coords": [
-                        26.089054,
-                        44.467901
-                  ]
-            },
-            {
-                  "name": "Vila Filipescu-Brâncoveanu",
-                  "text": "O clădire istorică elegantă din București, cunoscută pentru importanța sa arhitecturală.",
-                  "category": "castle",
-                  "coords": [
-                        26.086887,
-                        44.456912
-                  ]
-            },
-            {
                   "name": "Biserica Dămăroaia",
                   "text": "O biserică ortodoxă locală situată în cartierul Dămăroaia din București.",
                   "category": "religious",
                   "coords": [
                         26.053328,
                         44.488558
-                  ]
-            },
-            {
-                  "name": "Parcul Floreasca",
-                  "text": "Un parc situat în nordul Bucureștiului, oferind diverse facilități sportive și de recreere.",
-                  "category": "park",
-                  "coords": [
-                        26.097977,
-                        44.46467
-                  ]
-            },
-            {
-                  "name": "Casa Memorială \"Constantin Joja\"",
-                  "text": "Casa Memorială „Constantin Joja” este un muzeu situat în Muzeul Național al Satului.",
-                  "category": "museum",
-                  "coords": [
-                        26.096448,
-                        44.450317
                   ]
             },
             {
@@ -15111,39 +12673,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeul Parfumurilor",
-                  "text": "Muzeul Parfumurilor prezintă o colecție privată de flacoane și esențe istorice.",
-                  "category": "museum",
-                  "coords": [
-                        26.094466,
-                        44.461595
-                  ]
-            },
-            {
                   "name": "Muzeul Național al Satului Dimitrie Gusti",
                   "text": "Acest celebru muzeu în aer liber prezintă gospodării tradiționale românești din întreaga țară.",
                   "category": "museum",
                   "coords": [
                         26.076627,
                         44.472389
-                  ]
-            },
-            {
-                  "name": "Muzeul Universității Politehnice",
-                  "text": "Acest muzeu prezintă evoluția tehnologică și istoria Universității Politehnica.",
-                  "category": "museum",
-                  "coords": [
-                        26.078633,
-                        44.449061
-                  ]
-            },
-            {
-                  "name": "Prințesele lui Tata",
-                  "text": "O structură istorică tip castel situată în zona Muzeului Național al Satului.",
-                  "category": "castle",
-                  "coords": [
-                        26.086275,
-                        44.449252
                   ]
             },
             {
@@ -15219,84 +12754,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Morii",
-                  "text": "Un lac întins, apreciat pentru plimbări și relaxare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "Un lac frumos într-un parc, ideal pentru relaxare în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lacul Băneasa",
-                  "text": "Un lac cunoscut, care oferă liniște și un cadru natural frumos.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Chitila",
-                  "text": "Un lac cu ape liniștite, perfect pentru o zi relaxantă în natură.",
-                  "category": "natural",
-                  "coords": [
-                        26.00146,
-                        44.51089
-                  ]
-            },
-            {
-                  "name": "Lacul Străulești",
-                  "text": "Un lac care invită la momente de liniște și observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        26.011649,
-                        44.502876
-                  ]
-            },
-            {
-                  "name": "Bazin decantare",
-                  "text": "Un bazin de apă funcțional, care completează scenariul local.",
-                  "category": "natural",
-                  "coords": [
-                        26.001661,
-                        44.444654
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "Un rezervor de apă, ce formează un punct interesant în peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
                   "name": "Lacul Grivița",
                   "text": "Un lac ce oferă un mediu pașnic pentru activități de recreere.",
                   "category": "natural",
                   "coords": [
                         26.042831,
                         44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Un loc popular lângă apă, ideal pentru plimbări și relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
                   ]
             },
             {
@@ -15309,132 +12772,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Balta Pipera",
-                  "text": "Un lac ce emană liniște și reprezintă un cadru frumos pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "Un lac într-un cadru verde, ideal pentru pauze relaxante.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Lacul Plumbuita este un lac lângă Muzeul Satului Dimitrie Gusti, oferind un cadru liniștit pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lacul Lebedelor",
-                  "text": "Lacul Lebedelor este un lac pitoresc situat lângă Muzeul Satului Dimitrie Gusti.",
-                  "category": "natural",
-                  "coords": [
-                        26.088734,
-                        44.439013
-                  ]
-            },
-            {
-                  "name": "Lacul Dobroești",
-                  "text": "Lacul Dobroești este un lac lângă Muzeul Satului Dimitrie Gusti, ideal pentru observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        26.173695,
-                        44.449024
-                  ]
-            },
-            {
-                  "name": "Lacul Fundeni",
-                  "text": "Lake Fundeni este un lac lângă Muzeul Satului Dimitrie Gusti, invitând la momente de relaxare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
-                  ]
-            },
-            {
-                  "name": "Roata Mare",
-                  "text": "Roata Mare este un teren de joacă lângă Muzeul Satului Dimitrie Gusti, oferind distracție pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        26.083221,
-                        44.481985
-                  ]
-            },
-            {
-                  "name": "Minigolf",
-                  "text": "Acest teren de minigolf de lângă Muzeul Satului Dimitrie Gusti este o destinație excelentă pentru o ieșire în familie.",
-                  "category": "family",
-                  "coords": [
-                        26.084964,
-                        44.469598
-                  ]
-            },
-            {
-                  "name": "închirieri biciclete",
-                  "text": "Centrul de închirieri biciclete de lângă Muzeul Satului Dimitrie Gusti permite experiențe active în familie în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        26.087191,
-                        44.471278
-                  ]
-            },
-            {
-                  "name": "Ponei",
-                  "text": "Ponei este o zonă de joacă lângă Muzeul Satului Dimitrie Gusti, destinată special copiilor.",
-                  "category": "family",
-                  "coords": [
-                        26.083966,
-                        44.469498
-                  ]
-            },
-            {
-                  "name": "Bungee Jumping Herăstrău",
-                  "text": "Bungee Jumping Herăstrău de lângă Muzeul Satului Dimitrie Gusti oferă experiențe incitante pentru familiile dornice de aventură.",
-                  "category": "family",
-                  "coords": [
-                        26.083514,
-                        44.46754
-                  ]
-            },
-            {
-                  "name": "Golf Room",
-                  "text": "Golf Room este o sală de jocuri lângă Muzeul Satului Dimitrie Gusti, oferind divertisment modern pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        26.100422,
-                        44.460872
-                  ]
-            },
-            {
-                  "name": "Crazy toboggan",
-                  "text": "Crazy toboggan este un teren de joacă lângă Muzeul Satului Dimitrie Gusti, ideal pentru energia celor mici.",
-                  "category": "family",
-                  "coords": [
-                        26.099236,
-                        44.464153
-                  ]
-            },
-            {
-                  "name": "La Pedale",
-                  "text": "La Pedale este o zonă de joacă lângă Muzeul Satului Dimitrie Gusti, care invită la activitate fizică.",
-                  "category": "family",
-                  "coords": [
-                        26.08201,
-                        44.467741
-                  ]
-            },
-            {
                   "name": "Skatepark 2",
                   "text": "Skatepark 2 este un teren de joacă lângă Muzeul Satului Dimitrie Gusti, potrivit pentru tineri și familii.",
                   "category": "family",
@@ -15444,48 +12781,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Magic Place Aqua Park",
-                  "text": "Magic Place Aqua Park de lângă Muzeul Satului oferă atracții acvatice pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        26.041173,
-                        44.447504
-                  ]
-            },
-            {
                   "name": "Piscina Clubului Diplomatic",
                   "text": "Piscina Clubului Diplomatic de lângă Muzeul Satului oferă un bazin pentru înot.",
                   "category": "family",
                   "coords": [
                         26.078388,
                         44.48496
-                  ]
-            },
-            {
-                  "name": "Ștrand Gulești",
-                  "text": "Ștrand Gulești de lângă Muzeul Satului este o piscină pentru uz public.",
-                  "category": "family",
-                  "coords": [
-                        26.030044,
-                        44.468604
-                  ]
-            },
-            {
-                  "name": "Piscina Lido",
-                  "text": "Piscina Lido de lângă Muzeul Satului oferă posibilități de înot și plajă.",
-                  "category": "family",
-                  "coords": [
-                        26.098644,
-                        44.441286
-                  ]
-            },
-            {
-                  "name": "Bonton",
-                  "text": "Bonton de lângă Muzeul Satului este o piscină pentru recreere acvatică.",
-                  "category": "family",
-                  "coords": [
-                        26.088015,
-                        44.477092
                   ]
             },
             {
@@ -15519,67 +12820,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Arcul de Triumf",
-                  "text": "This monument commemorates Romania's victory in WWI and the 1918 Union, standing as an iconic symbol of the capital.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        26.078361,
-                        44.467278
-                  ]
-            },
-            {
                   "name": "Lagoon Park",
                   "text": "A beach area near the Village Museum in Bucharest.",
                   "category": "recreational",
                   "coords": [
                         26.056352,
                         44.489578
-                  ]
-            },
-            {
-                  "name": "National Museum of Maps and Rare Books",
-                  "text": "A museum showcasing a valuable collection of historical maps and rare prints.",
-                  "category": "museum",
-                  "coords": [
-                        26.092772,
-                        44.456966
-                  ]
-            },
-            {
-                  "name": "National Museum of the Romanian Peasant",
-                  "text": "A major museum in Bucharest dedicated to the culture and art of the Romanian peasant.",
-                  "category": "museum",
-                  "coords": [
-                        26.083983,
-                        44.454423
-                  ]
-            },
-            {
-                  "name": "The \"K.H. Zambaccian\" Museum",
-                  "text": "An art museum housing the significant private collection of Krikor Zambaccian.",
-                  "category": "museum",
-                  "coords": [
-                        26.090939,
-                        44.460871
-                  ]
-            },
-            {
-                  "name": "\"Grigore Antipa\" Natural History National Museum",
-                  "text": "A large natural history museum with diverse exhibits on Romanian and global biodiversity.",
-                  "category": "museum",
-                  "coords": [
-                        26.084627,
-                        44.453096
-                  ]
-            },
-            {
-                  "name": "National Geological Museum",
-                  "text": "A museum dealing with the geological history and mineralogy of Romania.",
-                  "category": "museum",
-                  "coords": [
-                        26.085221,
-                        44.454817
                   ]
             },
             {
@@ -15592,84 +12838,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Spring Palace",
-                  "text": "The former luxurious residence of the Ceaușescu family, now open to visitors as a museum.",
-                  "category": "museum",
-                  "coords": [
-                        26.092324,
-                        44.468877
-                  ]
-            },
-            {
-                  "name": "\"Admiral Vasile Urseanu\" Bucharest City Observatory",
-                  "text": "The only public astronomical observatory in Bucharest, named after Admiral Vasile Urseanu.",
-                  "category": "museum",
-                  "coords": [
-                        26.092891,
-                        44.448526
-                  ]
-            },
-            {
-                  "name": "Palatul Elisabeta",
-                  "text": "A palace in Bucharest serving as the official residence of the Romanian Royal Family.",
-                  "category": "castle",
-                  "coords": [
-                        26.079606,
-                        44.470705
-                  ]
-            },
-            {
-                  "name": "National Museum of Romanian Aviation",
-                  "text": "A museum documenting the development of aviation in Romania through historic aircraft.",
-                  "category": "museum",
-                  "coords": [
-                        26.110927,
-                        44.477554
-                  ]
-            },
-            {
-                  "name": "Romanian Railway Museum",
-                  "text": "A museum in Bucharest presenting the history of Romanian railway transport.",
-                  "category": "museum",
-                  "coords": [
-                        26.072999,
-                        44.448306
-                  ]
-            },
-            {
-                  "name": "Fântâna Modura",
-                  "text": "A decorative fountain in Herăstrău Park representing a symbolic figure of Romanian folklore.",
-                  "category": "historical",
-                  "coords": [
-                        26.084806,
-                        44.467998
-                  ]
-            },
-            {
-                  "name": "Monumentul Eroilor Aerului",
-                  "text": "A tall monument in Bucharest honoring fallen Romanian military aviators.",
-                  "category": "historical",
-                  "coords": [
-                        26.086078,
-                        44.45977
-                  ]
-            },
-            {
                   "name": "Wings Monument",
                   "text": "A monumental monument commemorating the struggle against communism in Romania.",
                   "category": "historical",
                   "coords": [
                         26.072233,
                         44.478924
-                  ]
-            },
-            {
-                  "name": "District 1 City Hall",
-                  "text": "The administrative building of the District 1 City Hall in Bucharest.",
-                  "category": "historical",
-                  "coords": [
-                        26.073845,
-                        44.453843
                   ]
             },
             {
@@ -15691,120 +12865,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
-                  "text": "An Orthodox church in Bucharest, located near Calea Victoriei.",
-                  "category": "religious",
-                  "coords": [
-                        26.089334,
-                        44.448881
-                  ]
-            },
-            {
-                  "name": "Biserica „Sf. Visarion Vechi“",
-                  "text": "A historic church in Bucharest known for its traditional architecture.",
-                  "category": "religious",
-                  "coords": [
-                        26.095411,
-                        44.448538
-                  ]
-            },
-            {
-                  "name": "Aero L-29 Delfin",
-                  "text": "A Czechoslovak jet trainer aircraft serving as a museum exhibit.",
-                  "category": "landmark",
-                  "coords": [
-                        26.110699,
-                        44.478709
-                  ]
-            },
-            {
-                  "name": "Parcul Kiseleff",
-                  "text": "A historic park in Bucharest known for its quiet avenues and statues.",
-                  "category": "park",
-                  "coords": [
-                        26.083375,
-                        44.457403
-                  ]
-            },
-            {
-                  "name": "Parcul Circului",
-                  "text": "A city park in Bucharest known for its scenic lake and proximity to the State Circus.",
-                  "category": "park",
-                  "coords": [
-                        26.110516,
-                        44.457203
-                  ]
-            },
-            {
-                  "name": "\"George Calinescu\" Memorial Museum",
-                  "text": "A memorial museum dedicated to the life and work of the prominent Romanian writer George Călinescu.",
-                  "category": "museum",
-                  "coords": [
-                        26.099546,
-                        44.462162
-                  ]
-            },
-            {
-                  "name": "\"George Enescu\" National Museum",
-                  "text": "A museum dedicated to the life of the famous Romanian composer George Enescu.",
-                  "category": "museum",
-                  "coords": [
-                        26.088338,
-                        44.448711
-                  ]
-            },
-            {
-                  "name": "Casa Filipescu-Cesianu",
-                  "text": "A historic mansion that houses exhibitions on the history of the city of Bucharest.",
-                  "category": "castle",
-                  "coords": [
-                        26.087126,
-                        44.450264
-                  ]
-            },
-            {
-                  "name": "Muzeul de Artă Recentă",
-                  "text": "A museum in Bucharest focusing on contemporary and recent Romanian art.",
-                  "category": "museum",
-                  "coords": [
-                        26.089054,
-                        44.467901
-                  ]
-            },
-            {
-                  "name": "Vila Filipescu-Brâncoveanu",
-                  "text": "An elegant historic building in Bucharest known for its architectural significance.",
-                  "category": "castle",
-                  "coords": [
-                        26.086887,
-                        44.456912
-                  ]
-            },
-            {
                   "name": "Biserica Dămăroaia",
                   "text": "A local Orthodox church in the Dămăroaia district of Bucharest.",
                   "category": "religious",
                   "coords": [
                         26.053328,
                         44.488558
-                  ]
-            },
-            {
-                  "name": "Parcul Floreasca",
-                  "text": "A park in northern Bucharest offering various sports and recreational facilities.",
-                  "category": "park",
-                  "coords": [
-                        26.097977,
-                        44.46467
-                  ]
-            },
-            {
-                  "name": "\"Constantin Joja\" Memorial House",
-                  "text": "The Constantin Joja Memorial House is a museum located within the National Village Museum.",
-                  "category": "museum",
-                  "coords": [
-                        26.096448,
-                        44.450317
                   ]
             },
             {
@@ -15817,39 +12883,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeul Parfumurilor",
-                  "text": "The Perfume Museum presents a private collection of historical bottles and fragrances.",
-                  "category": "museum",
-                  "coords": [
-                        26.094466,
-                        44.461595
-                  ]
-            },
-            {
                   "name": "Muzeul Național al Satului Dimitrie Gusti",
                   "text": "This famous open-air museum showcases traditional Romanian peasant houses from across the country.",
                   "category": "museum",
                   "coords": [
                         26.076627,
                         44.472389
-                  ]
-            },
-            {
-                  "name": "Museum of Polytechnical University",
-                  "text": "This museum showcases the technological evolution and history of the Polytechnical University.",
-                  "category": "museum",
-                  "coords": [
-                        26.078633,
-                        44.449061
-                  ]
-            },
-            {
-                  "name": "Prințesele lui Tata",
-                  "text": "A historic castle-style structure located in the area of the National Village Museum.",
-                  "category": "castle",
-                  "coords": [
-                        26.086275,
-                        44.449252
                   ]
             },
             {
@@ -15925,84 +12964,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Morii",
-                  "text": "A large lake, appreciated for walks and relaxation by the water.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "A pretty lake in a park setting, ideal for outdoor relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lake Băneasa",
-                  "text": "A well-known lake, providing peace and a beautiful natural setting.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Chitila",
-                  "text": "A lake with calm waters, perfect for a relaxing day in nature.",
-                  "category": "natural",
-                  "coords": [
-                        26.00146,
-                        44.51089
-                  ]
-            },
-            {
-                  "name": "Lacul Străulești",
-                  "text": "A lake inviting quiet moments and nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        26.011649,
-                        44.502876
-                  ]
-            },
-            {
-                  "name": "Bazin decantare",
-                  "text": "A functional water basin, complementing the local scenery.",
-                  "category": "natural",
-                  "coords": [
-                        26.001661,
-                        44.444654
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "A water reservoir, forming an interesting point in the landscape.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
                   "name": "Lacul Grivița",
                   "text": "A lake offering a peaceful environment for outdoor leisure activities.",
                   "category": "natural",
                   "coords": [
                         26.042831,
                         44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "A popular spot by the water, ideal for walks and spending time.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
                   ]
             },
             {
@@ -16015,132 +12982,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Balta Pipera",
-                  "text": "A lake exuding peace and providing a beautiful setting for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "A lake in a green setting, ideal for relaxing breaks.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Lacul Plumbuita is a lake near the Dimitrie Gusti National Village Museum, offering a peaceful setting for walks.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Swan Lake",
-                  "text": "Swan Lake (Lacul Lebedelor) is a scenic lake located near the Dimitrie Gusti National Village Museum.",
-                  "category": "natural",
-                  "coords": [
-                        26.088734,
-                        44.439013
-                  ]
-            },
-            {
-                  "name": "Lacul Dobroești",
-                  "text": "Lacul Dobroești is a lake near the Dimitrie Gusti National Village Museum, ideal for nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        26.173695,
-                        44.449024
-                  ]
-            },
-            {
-                  "name": "Lake Fundeni",
-                  "text": "Lake Fundeni is a lake near the Dimitrie Gusti National Village Museum, inviting relaxing moments by the water.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
-                  ]
-            },
-            {
-                  "name": "Roata Mare",
-                  "text": "Roata Mare is a playground near the Dimitrie Gusti National Village Museum, offering fun for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        26.083221,
-                        44.481985
-                  ]
-            },
-            {
-                  "name": "Minigolf",
-                  "text": "This minigolf course near the Dimitrie Gusti National Village Museum is a great destination for a family outing.",
-                  "category": "family",
-                  "coords": [
-                        26.084964,
-                        44.469598
-                  ]
-            },
-            {
-                  "name": "închirieri biciclete",
-                  "text": "The bicycle rental at the Dimitrie Gusti National Village Museum enables active family experiences outdoors.",
-                  "category": "family",
-                  "coords": [
-                        26.087191,
-                        44.471278
-                  ]
-            },
-            {
-                  "name": "Ponei",
-                  "text": "Ponei is a play area near the Dimitrie Gusti National Village Museum, specifically designed for children.",
-                  "category": "family",
-                  "coords": [
-                        26.083966,
-                        44.469498
-                  ]
-            },
-            {
-                  "name": "Bungee Jumping Herăstrău",
-                  "text": "Bungee Jumping Herăstrău near the Dimitrie Gusti National Village Museum offers exciting experiences for adventurous families.",
-                  "category": "family",
-                  "coords": [
-                        26.083514,
-                        44.46754
-                  ]
-            },
-            {
-                  "name": "Golf Room",
-                  "text": "Golf Room is an amusement arcade near the Dimitrie Gusti National Village Museum, offering modern entertainment for families.",
-                  "category": "family",
-                  "coords": [
-                        26.100422,
-                        44.460872
-                  ]
-            },
-            {
-                  "name": "Crazy toboggan",
-                  "text": "Crazy toboggan is a playground near the Dimitrie Gusti National Village Museum, ideal for kids to enjoy.",
-                  "category": "family",
-                  "coords": [
-                        26.099236,
-                        44.464153
-                  ]
-            },
-            {
-                  "name": "La Pedale",
-                  "text": "La Pedale is a play area near the Dimitrie Gusti National Village Museum that encourages physical activity.",
-                  "category": "family",
-                  "coords": [
-                        26.08201,
-                        44.467741
-                  ]
-            },
-            {
                   "name": "Skatepark 2",
                   "text": "Skatepark 2 is a playground near the Dimitrie Gusti National Village Museum, suitable for youths and families.",
                   "category": "family",
@@ -16150,48 +12991,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Magic Place Aqua Park",
-                  "text": "Magic Place Aqua Park by the Village Museum offers water attractions for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        26.041173,
-                        44.447504
-                  ]
-            },
-            {
                   "name": "Piscina Clubului Diplomatic",
                   "text": "The Diplomatic Club Pool by the Village Museum offers a swimming facility.",
                   "category": "family",
                   "coords": [
                         26.078388,
                         44.48496
-                  ]
-            },
-            {
-                  "name": "Ștrand Gulești",
-                  "text": "Ștrand Gulești by the Village Museum is a swimming pool for public use.",
-                  "category": "family",
-                  "coords": [
-                        26.030044,
-                        44.468604
-                  ]
-            },
-            {
-                  "name": "Piscina Lido",
-                  "text": "Piscina Lido by the Village Museum provides swimming and sunbathing opportunities.",
-                  "category": "family",
-                  "coords": [
-                        26.098644,
-                        44.441286
-                  ]
-            },
-            {
-                  "name": "Bonton",
-                  "text": "Bonton by the Village Museum is a swimming pool for water-based recreation.",
-                  "category": "family",
-                  "coords": [
-                        26.088015,
-                        44.477092
                   ]
             },
             {
@@ -17423,69 +14228,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Grădina Botanică",
-                  "text": "Der wichtigste botanische Garten in Bukarest, verwaltet von der Universität Bukarest.",
-                  "category": "museum",
-                  "coords": [
-                        26.066362,
-                        44.4369
-                  ]
-            },
-            {
-                  "name": "Muzeul Teatrului Naţional",
-                  "text": "Museum zur Dokumentation der Geschichte und Entwicklung des Nationaltheaters.",
-                  "category": "museum",
-                  "coords": [
-                        26.103626,
-                        44.43763
-                  ]
-            },
-            {
-                  "name": "Muzeul Militar Național \"Regele Ferdinand I\"",
-                  "text": "Rumäniens Nationalmuseum für Militärgeschichte und Ausrüstung.",
-                  "category": "museum",
-                  "coords": [
-                        26.076483,
-                        44.441392
-                  ]
-            },
-            {
-                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
-                  "text": "Museum mit einer wertvollen Sammlung von Münzen und archäologischen Gegenständen.",
-                  "category": "museum",
-                  "coords": [
-                        26.092928,
-                        44.447424
-                  ]
-            },
-            {
-                  "name": "Muzeul \"Theodor Pallady\"",
-                  "text": "Museum im Melik-Haus, einem der ältesten der Stadt, mit Werken von Theodor Pallady.",
-                  "category": "museum",
-                  "coords": [
-                        26.113545,
-                        44.439129
-                  ]
-            },
-            {
-                  "name": "Muzeul Colecțiilor de Artă",
-                  "text": "Museum für Kunstsammlungen, die dem rumänischen Staat gespendet wurden.",
-                  "category": "museum",
-                  "coords": [
-                        26.091422,
-                        44.444637
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Artă al României",
-                  "text": "Das wichtigste Kunstmuseum des Landes im ehemaligen Königspalast.",
-                  "category": "museum",
-                  "coords": [
-                        26.095788,
-                        44.440074
-                  ]
-            },
-            {
                   "name": "Nationalmuseum für zeitgenössische Kunst",
                   "text": "Museum für zeitgenössische Kunst im Parlamentspalast.",
                   "category": "museum",
@@ -17513,24 +14255,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Palatul Crețulescu",
-                  "text": "Ein historischer Palast in der Nähe des Cișmigiu-Parks, bekannt für seine elegante Architektur.",
-                  "category": "castle",
-                  "coords": [
-                        26.088721,
-                        44.439531
-                  ]
-            },
-            {
-                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
-                  "text": "Das einzige öffentliche astronomische Observatorium in Bukarest.",
-                  "category": "museum",
-                  "coords": [
-                        26.092891,
-                        44.448526
-                  ]
-            },
-            {
                   "name": "Palatul Bragadiru",
                   "text": "Ein prächtiger historischer Palast und Veranstaltungsort aus dem frühen 20. Jahrhundert.",
                   "category": "castle",
@@ -17540,66 +14264,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Memorialul Renașterii",
-                  "text": "Denkmal zur Erinnerung an die Opfer der rumänischen Revolution von 1989.",
-                  "category": "historical",
-                  "coords": [
-                        26.097454,
-                        44.438889
-                  ]
-            },
-            {
-                  "name": "Monumentul Infanteristului",
-                  "text": "Denkmal für die Infanterie-Helden der rumänischen Armee.",
-                  "category": "historical",
-                  "coords": [
-                        26.069317,
-                        44.438194
-                  ]
-            },
-            {
-                  "name": "Monumentul Eroilor Artileriști",
-                  "text": "Denkmal zu Ehren der rumänischen Artilleriesoldaten.",
-                  "category": "historical",
-                  "coords": [
-                        26.07236,
-                        44.43456
-                  ]
-            },
-            {
                   "name": "Memorialul Eroilor Neamului",
                   "text": "Ein monumentales Bauwerk im Carol-Park, ursprünglich zu Ehren kommunistischer Führer errichtet.",
                   "category": "historical",
                   "coords": [
                         26.096864,
                         44.411237
-                  ]
-            },
-            {
-                  "name": "Metropolis Teatrul",
-                  "text": "Ein moderner Theaterraum, bekannt für sein vielfältiges Repertoire.",
-                  "category": "cultural",
-                  "coords": [
-                        26.108795,
-                        44.447378
-                  ]
-            },
-            {
-                  "name": "Nationaloper",
-                  "text": "Das wichtigste Opern- und Balletthaus Rumäniens.",
-                  "category": "cultural",
-                  "coords": [
-                        26.079552,
-                        44.436065
-                  ]
-            },
-            {
-                  "name": "Mănăstirea Mihai Vodă",
-                  "text": "Eines der ältesten Klöster Bukarests, das in den 1980er Jahren verlegt wurde.",
-                  "category": "religious",
-                  "coords": [
-                        26.093308,
-                        44.431554
                   ]
             },
             {
@@ -17621,24 +14291,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
-                  "text": "Eine orthodoxe Kirche, die den Heiligen Konstantin und Helena gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        26.084835,
-                        44.436278
-                  ]
-            },
-            {
-                  "name": "Catedrala romano-catolică Sfântul Iosif",
-                  "text": "Die römisch-katholische Hauptkathedrale von Bukarest.",
-                  "category": "religious",
-                  "coords": [
-                        26.091383,
-                        44.442105
-                  ]
-            },
-            {
                   "name": "Biserica Ortodoxă Apostol din Tabaci",
                   "text": "Eine historische orthodoxe Kirche im Viertel Tabaci.",
                   "category": "religious",
@@ -17657,57 +14309,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica „Sfântul Ilie” - Gorgani",
-                  "text": "Historische orthodoxe Kirche auf einem kleinen Hügel im Stadtzentrum.",
-                  "category": "religious",
-                  "coords": [
-                        26.09123,
-                        44.433997
-                  ]
-            },
-            {
                   "name": "Biserica Foișor",
                   "text": "Eine orthodoxe Kirche mit einer langen Geschichte in der Stadt.",
                   "category": "religious",
                   "coords": [
                         26.123168,
                         44.414777
-                  ]
-            },
-            {
-                  "name": "Biserica Doamnei",
-                  "text": "Eine historische orthodoxe Kirche in der Bukarester Innenstadt.",
-                  "category": "religious",
-                  "coords": [
-                        26.098946,
-                        44.434535
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă „Popa Chițu”",
-                  "text": "Eine orthodoxe Kirche im Zentrum von Bukarest.",
-                  "category": "religious",
-                  "coords": [
-                        26.111424,
-                        44.44244
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă \"Amzei\"",
-                  "text": "Eine markante orthodoxe Kirche in Bukarest.",
-                  "category": "religious",
-                  "coords": [
-                        26.09385,
-                        44.444414
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă „Icoanei”",
-                  "text": "Eine geschichtsträchtige orthodoxe Kirche in Bukarest.",
-                  "category": "religious",
-                  "coords": [
-                        26.106517,
-                        44.442964
                   ]
             },
             {
@@ -17720,84 +14327,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Sfinții Trei Ierarhi - Coltea Colțea",
-                  "text": "Eine historische Kirche, die Teil des Colțea-Krankenhauskomplexes ist.",
-                  "category": "religious",
-                  "coords": [
-                        26.103375,
-                        44.434668
-                  ]
-            },
-            {
-                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
-                  "text": "Eine kleine, historische orthodoxe Kirche in Bukarest.",
-                  "category": "religious",
-                  "coords": [
-                        26.074547,
-                        44.433093
-                  ]
-            },
-            {
-                  "name": "Biserica \"Sfântul Elefterie Nou\"",
-                  "text": "Eine imposante orthodoxe Kirche im Stadtteil Cotroceni.",
-                  "category": "religious",
-                  "coords": [
-                        26.077077,
-                        44.433488
-                  ]
-            },
-            {
                   "name": "Biserica Mănăstirii \"Stavropoleos\"",
                   "text": "Eine berühmte Klosterkirche im Brâncovenesc-Stil.",
                   "category": "religious",
                   "coords": [
                         26.098827,
                         44.431785
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Mântuleasa",
-                  "text": "Eine bekannte orthodoxe Kirche in Bukarest.",
-                  "category": "religious",
-                  "coords": [
-                        26.1134,
-                        44.435186
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
-                  "text": "Eine orthodoxe Kirche im Bukarester Plevna-Viertel.",
-                  "category": "religious",
-                  "coords": [
-                        26.072921,
-                        44.440976
-                  ]
-            },
-            {
-                  "name": "Biserica Albă",
-                  "text": "Eine elegante orthodoxe Kirche an der Calea Victoriei.",
-                  "category": "religious",
-                  "coords": [
-                        26.094866,
-                        44.442076
-                  ]
-            },
-            {
-                  "name": "Biserica Domnița Bălașa",
-                  "text": "Eine prächtige orthodoxe Kirche in der Nähe des Unirii-Platzes.",
-                  "category": "religious",
-                  "coords": [
-                        26.100247,
-                        44.428241
-                  ]
-            },
-            {
-                  "name": "Catedrala greco-catolică „Sfântul Vasile cel Mare”",
-                  "text": "Die Kathedrale der rumänischen griechisch-katholischen Kirche in Bukarest.",
-                  "category": "religious",
-                  "coords": [
-                        26.103812,
-                        44.449542
                   ]
             },
             {
@@ -17810,48 +14345,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
-                  "text": "Eine kleine orthodoxe Kirche an der Calea Victoriei.",
-                  "category": "religious",
-                  "coords": [
-                        26.089334,
-                        44.448881
-                  ]
-            },
-            {
-                  "name": "Rotonda Scriitorilor",
-                  "text": "Ein Denkmalensemble mit Büsten rumänischer Schriftsteller im Cișmigiu-Park.",
-                  "category": "landmark",
-                  "coords": [
-                        26.089158,
-                        44.436757
-                  ]
-            },
-            {
-                  "name": "Rumänisches Atheneum",
-                  "text": "Ein prachtvolles Konzerthaus und ein kulturelles Wahrzeichen Bukarests.",
-                  "category": "landmark",
-                  "coords": [
-                        26.097361,
-                        44.441368
-                  ]
-            },
-            {
                   "name": "Sinagoga Mare",
                   "text": "Ein bedeutendes jüdisches Gotteshaus in Bukarest.",
                   "category": "landmark",
                   "coords": [
                         26.108611,
                         44.429559
-                  ]
-            },
-            {
-                  "name": "Parcul Natural Văcărești",
-                  "text": "Ein städtisches Naturschutzgebiet, bekannt als das „Delta von Bukarest“.",
-                  "category": "natural",
-                  "coords": [
-                        26.133574,
-                        44.399413
                   ]
             },
             {
@@ -17891,156 +14390,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Cișmigiu-Park",
-                  "text": "Der älteste öffentliche Park im Zentrum von Bukarest.",
-                  "category": "park",
-                  "coords": [
-                        26.090355,
-                        44.437217
-                  ]
-            },
-            {
-                  "name": "Parcul Ion Voicu",
-                  "text": "Ein kleiner, ruhiger Park im Zentrum von Bukarest.",
-                  "category": "park",
-                  "coords": [
-                        26.104768,
-                        44.445591
-                  ]
-            },
-            {
-                  "name": "Grădina Icoanei",
-                  "text": "Ein gemütlicher öffentlicher Park in einem historischen Viertel.",
-                  "category": "park",
-                  "coords": [
-                        26.103709,
-                        44.443503
-                  ]
-            },
-            {
-                  "name": "Lacul Morii",
-                  "text": "Ein malerischer See in der Nähe der Patriarchal-Kathedrale, ideal zum Spazierengehen.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "Ein lokaler See in der Umgebung der Patriarchal-Kathedrale, geeignet für entspannte Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lacul Băneasa",
-                  "text": "Ein See mit friedlicher Landschaft in der Nähe der Patriarchal-Kathedrale.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Bazin decantare",
-                  "text": "Ein Wasserbecken im Bereich der Patriarchal-Kathedrale.",
-                  "category": "natural",
-                  "coords": [
-                        26.001661,
-                        44.444654
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "Ein Gewässer in der Nähe der Patriarchal-Kathedrale.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
-                  "name": "Balta Floarea Popeștiului",
-                  "text": "Ein lokaler See in der Nähe der Patriarchal-Kathedrale.",
-                  "category": "natural",
-                  "coords": [
-                        26.179957,
-                        44.383457
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Ein beliebter See zum Spazierengehen und für die Aussicht in der Nähe der Patriarchal-Kathedrale.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
-                  "name": "Lacul Pantelimon",
-                  "text": "Ein See mit schöner Aussicht in der Umgebung der Patriarchal-Kathedrale.",
-                  "category": "natural",
-                  "coords": [
-                        26.209104,
-                        44.441318
-                  ]
-            },
-            {
-                  "name": "Herăstrău-See",
-                  "text": "Ein großer, malerischer See in der Nähe der Patriarchal-Kathedrale, ideal für Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "Ein lokales Gewässer im Bereich der Patriarchal-Kathedrale.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
                   "name": "Lacul Tineretului",
                   "text": "Ein See, der sich für Spaziergänge und Entspannung in der Nähe der Patriarchal-Kathedrale eignet.",
                   "category": "natural",
                   "coords": [
                         26.105651,
                         44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Ein malerischer See im Bereich der Patriarchal-Kathedrale.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lacul Dobroești",
-                  "text": "Ein See in natürlicher Umgebung in der Umgebung der Patriarchal-Kathedrale.",
-                  "category": "natural",
-                  "coords": [
-                        26.173695,
-                        44.449024
-                  ]
-            },
-            {
-                  "name": "Lacul Fundeni",
-                  "text": "Ein See im Bereich der Patriarchal-Kathedrale, ideal für die Aussicht.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
                   ]
             },
             {
@@ -18053,84 +14408,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "GV PvP VR",
-                  "text": "Eine Spielhalle für Familienspaß in der Nähe der Patriarchal-Kathedrale.",
-                  "category": "family",
-                  "coords": [
-                        26.120635,
-                        44.439112
-                  ]
-            },
-            {
-                  "name": "Fun Planet",
-                  "text": "Ein familienfreundlicher Spielplatz in der Nähe der Patriarchal-Kathedrale.",
-                  "category": "family",
-                  "coords": [
-                        26.127267,
-                        44.420431
-                  ]
-            },
-            {
-                  "name": "GAME WORLD",
-                  "text": "Eine Spielhalle, die Familienunterhaltung im Bereich der Patriarchal-Kathedrale bietet.",
-                  "category": "family",
-                  "coords": [
-                        26.120016,
-                        44.44395
-                  ]
-            },
-            {
-                  "name": "Parcul Patrat",
-                  "text": "Ein Spielplatz für Kinder in der Nähe der Patriarchal-Kathedrale.",
-                  "category": "family",
-                  "coords": [
-                        26.117177,
-                        44.436666
-                  ]
-            },
-            {
                   "name": "Pista Automodele Off-Road",
                   "text": "Ein Erholungsbereich für Familien in der Nähe der Patriarchal-Kathedrale.",
                   "category": "family",
                   "coords": [
                         26.116163,
                         44.405436
-                  ]
-            },
-            {
-                  "name": "Wellness & Pool BabySpa",
-                  "text": "Ein Wellness- und Poolzentrum in der Nähe der Patriarchalischen Kathedrale.",
-                  "category": "family",
-                  "coords": [
-                        26.131283,
-                        44.412851
-                  ]
-            },
-            {
-                  "name": "Ștrandul Văcărești - Ștrandul Copiilor",
-                  "text": "Ein Wasserpark für Kinder in der Nähe der Patriarchalischen Kathedrale.",
-                  "category": "family",
-                  "coords": [
-                        26.115851,
-                        44.402476
-                  ]
-            },
-            {
-                  "name": "Orășelul Copiilor",
-                  "text": "Ein Themenpark für Kinder in der Nähe der Patriarchalischen Kathedrale mit verschiedenen Attraktionen.",
-                  "category": "family",
-                  "coords": [
-                        26.109323,
-                        44.401186
-                  ]
-            },
-            {
-                  "name": "Piscina Lido",
-                  "text": "Ein Schwimmbad in der Nähe der Patriarchalischen Kathedrale zur Familienerholung.",
-                  "category": "family",
-                  "coords": [
-                        26.098644,
-                        44.441286
                   ]
             }
       ],
@@ -18143,69 +14426,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.09789,
                         44.42406
-                  ]
-            },
-            {
-                  "name": "Grădina Botanică",
-                  "text": "Bukarest fő botanikus kertje, amelyet a Bukaresti Egyetem kezel.",
-                  "category": "museum",
-                  "coords": [
-                        26.066362,
-                        44.4369
-                  ]
-            },
-            {
-                  "name": "Muzeul Teatrului Naţional",
-                  "text": "A Nemzeti Színház történetét és fejlődését dokumentáló múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        26.103626,
-                        44.43763
-                  ]
-            },
-            {
-                  "name": "Muzeul Militar Național \"Regele Ferdinand I\"",
-                  "text": "Románia hadtörténeti és katonai felszereléseket bemutató nemzeti múzeuma.",
-                  "category": "museum",
-                  "coords": [
-                        26.076483,
-                        44.441392
-                  ]
-            },
-            {
-                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
-                  "text": "Értékes numizmatikai és régészeti gyűjteménynek otthont adó múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        26.092928,
-                        44.447424
-                  ]
-            },
-            {
-                  "name": "Muzeul \"Theodor Pallady\"",
-                  "text": "A város egyik legrégebbi épületében, a Melik-házban található múzeum Theodor Pallady műveivel.",
-                  "category": "museum",
-                  "coords": [
-                        26.113545,
-                        44.439129
-                  ]
-            },
-            {
-                  "name": "Muzeul Colecțiilor de Artă",
-                  "text": "Román államnak adományozott számos egyéni művészeti gyűjteményt bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        26.091422,
-                        44.444637
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Artă al României",
-                  "text": "Az ország elsőszámú művészeti múzeuma az egykori királyi palotában.",
-                  "category": "museum",
-                  "coords": [
-                        26.095788,
-                        44.440074
                   ]
             },
             {
@@ -18236,24 +14456,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Palatul Crețulescu",
-                  "text": "Történelmi palota a Cișmigiu-park közelében, amely elegáns építészetéről ismert.",
-                  "category": "castle",
-                  "coords": [
-                        26.088721,
-                        44.439531
-                  ]
-            },
-            {
-                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
-                  "text": "Bukarest egyetlen nyilvános csillagvizsgálója.",
-                  "category": "museum",
-                  "coords": [
-                        26.092891,
-                        44.448526
-                  ]
-            },
-            {
                   "name": "Palatul Bragadiru",
                   "text": "Impozáns történelmi palota és rendezvényhelyszín a 20. század elejéről.",
                   "category": "castle",
@@ -18263,66 +14465,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Memorialul Renașterii",
-                  "text": "Az 1989-es romániai forradalom áldozatainak emléket állító emlékmű.",
-                  "category": "historical",
-                  "coords": [
-                        26.097454,
-                        44.438889
-                  ]
-            },
-            {
-                  "name": "Monumentul Infanteristului",
-                  "text": "A román hadsereg gyalogsági hőseinek szentelt emlékmű.",
-                  "category": "historical",
-                  "coords": [
-                        26.069317,
-                        44.438194
-                  ]
-            },
-            {
-                  "name": "Monumentul Eroilor Artileriști",
-                  "text": "A román tüzérségi katonák tiszteletére emelt emlékmű.",
-                  "category": "historical",
-                  "coords": [
-                        26.07236,
-                        44.43456
-                  ]
-            },
-            {
                   "name": "Memorialul Eroilor Neamului",
                   "text": "Monumentális építmény a Carol-parkban, amelyet eredetileg a kommunista vezetők tiszteletére emeltek.",
                   "category": "historical",
                   "coords": [
                         26.096864,
                         44.411237
-                  ]
-            },
-            {
-                  "name": "Metropolis Teatrul",
-                  "text": "Modern színházi helyszín, amely változatos repertoárjáról ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        26.108795,
-                        44.447378
-                  ]
-            },
-            {
-                  "name": "Opera Națională",
-                  "text": "Románia elsőszámú opera- és balettháza.",
-                  "category": "cultural",
-                  "coords": [
-                        26.079552,
-                        44.436065
-                  ]
-            },
-            {
-                  "name": "Mănăstirea Mihai Vodă",
-                  "text": "Bukarest egyik legrégebbi kolostora, amelyet az 1980-as években helyeztek át.",
-                  "category": "religious",
-                  "coords": [
-                        26.093308,
-                        44.431554
                   ]
             },
             {
@@ -18344,24 +14492,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
-                  "text": "A Szent Konstantin és Heléna tiszteletére szentelt ortodox templom.",
-                  "category": "religious",
-                  "coords": [
-                        26.084835,
-                        44.436278
-                  ]
-            },
-            {
-                  "name": "Catedrala romano-catolică Sfântul Iosif",
-                  "text": "Bukarest fő római katolikus székesegyháza.",
-                  "category": "religious",
-                  "coords": [
-                        26.091383,
-                        44.442105
-                  ]
-            },
-            {
                   "name": "Biserica Ortodoxă Apostol din Tabaci",
                   "text": "Történelmi ortodox templom a Tabaci negyedben.",
                   "category": "religious",
@@ -18380,57 +14510,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica „Sfântul Ilie” - Gorgani",
-                  "text": "Történelmi ortodox templom egy kis dombon a városközpontban.",
-                  "category": "religious",
-                  "coords": [
-                        26.09123,
-                        44.433997
-                  ]
-            },
-            {
                   "name": "Biserica Foișor",
                   "text": "Hosszú múltra visszatekintő ortodox templom a városban.",
                   "category": "religious",
                   "coords": [
                         26.123168,
                         44.414777
-                  ]
-            },
-            {
-                  "name": "Biserica Doamnei",
-                  "text": "Történelmi ortodox templom Bukarest belvárosában.",
-                  "category": "religious",
-                  "coords": [
-                        26.098946,
-                        44.434535
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă „Popa Chițu”",
-                  "text": "Ortodox templom Bukarest központjában.",
-                  "category": "religious",
-                  "coords": [
-                        26.111424,
-                        44.44244
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă \"Amzei\"",
-                  "text": "Jellegzetes ortodox templom Bukarestben.",
-                  "category": "religious",
-                  "coords": [
-                        26.09385,
-                        44.444414
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă „Icoanei”",
-                  "text": "Nagy múltú ortodox templom Bukarestben.",
-                  "category": "religious",
-                  "coords": [
-                        26.106517,
-                        44.442964
                   ]
             },
             {
@@ -18443,84 +14528,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Sfinții Trei Ierarhi - Coltea Colțea",
-                  "text": "A Colțea kórházkomplexumhoz tartozó történelmi templom.",
-                  "category": "religious",
-                  "coords": [
-                        26.103375,
-                        44.434668
-                  ]
-            },
-            {
-                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
-                  "text": "Kisméretű, történelmi ortodox templom Bukarestben.",
-                  "category": "religious",
-                  "coords": [
-                        26.074547,
-                        44.433093
-                  ]
-            },
-            {
-                  "name": "Biserica \"Sfântul Elefterie Nou\"",
-                  "text": "Impozáns ortodox templom a Cotroceni negyedben.",
-                  "category": "religious",
-                  "coords": [
-                        26.077077,
-                        44.433488
-                  ]
-            },
-            {
                   "name": "Biserica Mănăstirii \"Stavropoleos\"",
                   "text": "Híres kolostortemplom a Brâncovenesc-stílus jegyében.",
                   "category": "religious",
                   "coords": [
                         26.098827,
                         44.431785
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Mântuleasa",
-                  "text": "Ismert ortodox templom Bukarestben.",
-                  "category": "religious",
-                  "coords": [
-                        26.1134,
-                        44.435186
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
-                  "text": "Ortodox templom Bukarest Plevna negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        26.072921,
-                        44.440976
-                  ]
-            },
-            {
-                  "name": "Biserica Albă",
-                  "text": "Elegáns ortodox templom a Calea Victoriei sugárúton.",
-                  "category": "religious",
-                  "coords": [
-                        26.094866,
-                        44.442076
-                  ]
-            },
-            {
-                  "name": "Biserica Domnița Bălașa",
-                  "text": "Pompás ortodox templom az Unirii tér közelében.",
-                  "category": "religious",
-                  "coords": [
-                        26.100247,
-                        44.428241
-                  ]
-            },
-            {
-                  "name": "Catedrala greco-catolică „Sfântul Vasile cel Mare”",
-                  "text": "A román görögkatolikus egyház székesegyháza Bukarestben.",
-                  "category": "religious",
-                  "coords": [
-                        26.103812,
-                        44.449542
                   ]
             },
             {
@@ -18533,48 +14546,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
-                  "text": "Kis ortodox templom a Calea Victoriei sugárúton.",
-                  "category": "religious",
-                  "coords": [
-                        26.089334,
-                        44.448881
-                  ]
-            },
-            {
-                  "name": "Rotonda Scriitorilor",
-                  "text": "Román írók mellszobraiból álló emlékmű a Cișmigiu parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        26.089158,
-                        44.436757
-                  ]
-            },
-            {
-                  "name": "Román Atheneum",
-                  "text": "Bukarest lenyűgöző hangversenyterme és kulturális jelképe.",
-                  "category": "landmark",
-                  "coords": [
-                        26.097361,
-                        44.441368
-                  ]
-            },
-            {
                   "name": "Sinagoga Mare",
                   "text": "Bukarest egyik jelentős zsidó imaháza.",
                   "category": "landmark",
                   "coords": [
                         26.108611,
                         44.429559
-                  ]
-            },
-            {
-                  "name": "Parcul Natural Văcărești",
-                  "text": "Városi természetvédelmi terület, amelyet „Bukarest-deltaként” is ismernek.",
-                  "category": "natural",
-                  "coords": [
-                        26.133574,
-                        44.399413
                   ]
             },
             {
@@ -18614,156 +14591,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Parcul Cișmigiu",
-                  "text": "Bukarest központjának legrégebbi közparkja.",
-                  "category": "park",
-                  "coords": [
-                        26.090355,
-                        44.437217
-                  ]
-            },
-            {
-                  "name": "Parcul Ion Voicu",
-                  "text": "Kicsi, csendes park Bukarest központjában.",
-                  "category": "park",
-                  "coords": [
-                        26.104768,
-                        44.445591
-                  ]
-            },
-            {
-                  "name": "Grădina Icoanei",
-                  "text": "Hangulatos közpark egy történelmi negyedben.",
-                  "category": "park",
-                  "coords": [
-                        26.103709,
-                        44.443503
-                  ]
-            },
-            {
-                  "name": "Lacul Morii",
-                  "text": "Festői tó a Patriarkális székesegyház közelében, ideális sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "Egy helyi tó a Patriarkális székesegyház környékén, alkalmas pihentető sétákra.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lacul Băneasa",
-                  "text": "Nyugodt környezetet kínáló tó a Patriarkális székesegyház közelében.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Bazin decantare",
-                  "text": "Vízmedence a Patriarkális székesegyház területén.",
-                  "category": "natural",
-                  "coords": [
-                        26.001661,
-                        44.444654
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "Vízfelület a Patriarkális székesegyház közelében.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
-                  "name": "Balta Floarea Popeștiului",
-                  "text": "Egy helyi tó a Patriarkális székesegyház közelében.",
-                  "category": "natural",
-                  "coords": [
-                        26.179957,
-                        44.383457
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Népszerű tó sétáláshoz és nézelődéshez a Patriarkális székesegyház közelében.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
-                  "name": "Lacul Pantelimon",
-                  "text": "Szép kilátást nyújtó tó a Patriarkális székesegyház környékén.",
-                  "category": "natural",
-                  "coords": [
-                        26.209104,
-                        44.441318
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "Nagy festői tó a Patriarkális székesegyház közelében, ideális sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "Helyi vízfelület a Patriarkális székesegyház területén.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
                   "name": "Lacul Tineretului",
                   "text": "Sétákra és pihenésre alkalmas tó a Patriarkális székesegyház közelében.",
                   "category": "natural",
                   "coords": [
                         26.105651,
                         44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Festői tó a Patriarkális székesegyház területén.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lacul Dobroești",
-                  "text": "Természetes környezetet biztosító tó a Patriarkális székesegyház környékén.",
-                  "category": "natural",
-                  "coords": [
-                        26.173695,
-                        44.449024
-                  ]
-            },
-            {
-                  "name": "Lacul Fundeni",
-                  "text": "A Patriarkális székesegyház területén található tó, ideális a táj kedvelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
                   ]
             },
             {
@@ -18776,84 +14609,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "GV PvP VR",
-                  "text": "Családi szórakozást kínáló játékterem a Patriarkális székesegyház közelében.",
-                  "category": "family",
-                  "coords": [
-                        26.120635,
-                        44.439112
-                  ]
-            },
-            {
-                  "name": "Fun Planet",
-                  "text": "Családbarát játszótér a Patriarkális székesegyház közelében.",
-                  "category": "family",
-                  "coords": [
-                        26.127267,
-                        44.420431
-                  ]
-            },
-            {
-                  "name": "GAME WORLD",
-                  "text": "Családi szórakozást kínáló játékterem a Patriarkális székesegyház területén.",
-                  "category": "family",
-                  "coords": [
-                        26.120016,
-                        44.44395
-                  ]
-            },
-            {
-                  "name": "Parcul Patrat",
-                  "text": "Játszótér gyerekeknek a Patriarkális székesegyház közelében.",
-                  "category": "family",
-                  "coords": [
-                        26.117177,
-                        44.436666
-                  ]
-            },
-            {
                   "name": "Pista Automodele Off-Road",
                   "text": "Családi kikapcsolódási terület a Patriarkális székesegyház közelében.",
                   "category": "family",
                   "coords": [
                         26.116163,
                         44.405436
-                  ]
-            },
-            {
-                  "name": "Wellness & Pool BabySpa",
-                  "text": "Családbarát wellness- és medenceközpont a Patriarkális Székesegyház közelében.",
-                  "category": "family",
-                  "coords": [
-                        26.131283,
-                        44.412851
-                  ]
-            },
-            {
-                  "name": "Ștrandul Văcărești - Ștrandul Copiilor",
-                  "text": "Vízi park gyermekeknek a Patriarkális Székesegyház közelében.",
-                  "category": "family",
-                  "coords": [
-                        26.115851,
-                        44.402476
-                  ]
-            },
-            {
-                  "name": "Orășelul Copiilor",
-                  "text": "Vidámpark gyermekeknek a Patriarkális Székesegyház közelében, különféle látnivalókkal.",
-                  "category": "family",
-                  "coords": [
-                        26.109323,
-                        44.401186
-                  ]
-            },
-            {
-                  "name": "Piscina Lido",
-                  "text": "Egy úszómedence a Patriarkális Székesegyház közelében családi kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        26.098644,
-                        44.441286
                   ]
             }
       ],
@@ -18866,69 +14627,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.09789,
                         44.42406
-                  ]
-            },
-            {
-                  "name": "Grădina Botanică",
-                  "text": "Grădina botanică principală din București, administrată de Universitatea din București.",
-                  "category": "museum",
-                  "coords": [
-                        26.066362,
-                        44.4369
-                  ]
-            },
-            {
-                  "name": "Muzeul Teatrului Naţional",
-                  "text": "Muzeu care documentează istoria și evoluția Teatrului Național.",
-                  "category": "museum",
-                  "coords": [
-                        26.103626,
-                        44.43763
-                  ]
-            },
-            {
-                  "name": "Muzeul Militar Național \"Regele Ferdinand I\"",
-                  "text": "Muzeul național al României pentru istorie și echipament militar.",
-                  "category": "museum",
-                  "coords": [
-                        26.076483,
-                        44.441392
-                  ]
-            },
-            {
-                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
-                  "text": "Muzeu care găzduiește o valoroasă colecție de numismatică și obiecte arheologice.",
-                  "category": "museum",
-                  "coords": [
-                        26.092928,
-                        44.447424
-                  ]
-            },
-            {
-                  "name": "Muzeul \"Theodor Pallady\"",
-                  "text": "Muzeu situat în Casa Melik, una dintre cele mai vechi din oraș, ce expune lucrări de Theodor Pallady.",
-                  "category": "museum",
-                  "coords": [
-                        26.113545,
-                        44.439129
-                  ]
-            },
-            {
-                  "name": "Muzeul Colecțiilor de Artă",
-                  "text": "Muzeu care expune numeroase colecții de artă individuale donate statului român.",
-                  "category": "museum",
-                  "coords": [
-                        26.091422,
-                        44.444637
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Artă al României",
-                  "text": "Principalul muzeu de artă al țării, situat în fostul Palat Regal.",
-                  "category": "museum",
-                  "coords": [
-                        26.095788,
-                        44.440074
                   ]
             },
             {
@@ -18959,24 +14657,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Palatul Crețulescu",
-                  "text": "Un palat istoric situat lângă Grădina Cișmigiu, cunoscut pentru arhitectura sa elegantă.",
-                  "category": "castle",
-                  "coords": [
-                        26.088721,
-                        44.439531
-                  ]
-            },
-            {
-                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
-                  "text": "Singurul observator astronomic public din București.",
-                  "category": "museum",
-                  "coords": [
-                        26.092891,
-                        44.448526
-                  ]
-            },
-            {
                   "name": "Palatul Bragadiru",
                   "text": "Un mare palat istoric și loc de evenimente construit la începutul secolului al XX-lea.",
                   "category": "castle",
@@ -18986,66 +14666,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Memorialul Renașterii",
-                  "text": "Un monument care comemorează victimele Revoluției Române din 1989.",
-                  "category": "historical",
-                  "coords": [
-                        26.097454,
-                        44.438889
-                  ]
-            },
-            {
-                  "name": "Monumentul Infanteristului",
-                  "text": "Un monument dedicat eroilor infanteriști ai Armatei Române.",
-                  "category": "historical",
-                  "coords": [
-                        26.069317,
-                        44.438194
-                  ]
-            },
-            {
-                  "name": "Monumentul Eroilor Artileriști",
-                  "text": "Un monument în cinstea soldaților artileriști români.",
-                  "category": "historical",
-                  "coords": [
-                        26.07236,
-                        44.43456
-                  ]
-            },
-            {
                   "name": "Memorialul Eroilor Neamului",
                   "text": "O structură monumentală în Parcul Carol, construită inițial în onoarea liderilor comuniști.",
                   "category": "historical",
                   "coords": [
                         26.096864,
                         44.411237
-                  ]
-            },
-            {
-                  "name": "Metropolis Teatrul",
-                  "text": "O sală de teatru modernă, cunoscută pentru repertoriul său diversificat.",
-                  "category": "cultural",
-                  "coords": [
-                        26.108795,
-                        44.447378
-                  ]
-            },
-            {
-                  "name": "Opera Națională",
-                  "text": "Principala casă de operă și balet din România.",
-                  "category": "cultural",
-                  "coords": [
-                        26.079552,
-                        44.436065
-                  ]
-            },
-            {
-                  "name": "Mănăstirea Mihai Vodă",
-                  "text": "Una dintre cele mai vechi mănăstiri din București, mutată în anii 1980.",
-                  "category": "religious",
-                  "coords": [
-                        26.093308,
-                        44.431554
                   ]
             },
             {
@@ -19067,24 +14693,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
-                  "text": "O biserică ortodoxă dedicată Sfinților Împărați Constantin și Elena.",
-                  "category": "religious",
-                  "coords": [
-                        26.084835,
-                        44.436278
-                  ]
-            },
-            {
-                  "name": "Catedrala romano-catolică Sfântul Iosif",
-                  "text": "Principala catedrală romano-catolică din București.",
-                  "category": "religious",
-                  "coords": [
-                        26.091383,
-                        44.442105
-                  ]
-            },
-            {
                   "name": "Biserica Ortodoxă Apostol din Tabaci",
                   "text": "O biserică ortodoxă istorică situată în cartierul Tabaci.",
                   "category": "religious",
@@ -19103,57 +14711,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica „Sfântul Ilie” - Gorgani",
-                  "text": "O biserică ortodoxă istorică construită pe o mică colină din centrul orașului.",
-                  "category": "religious",
-                  "coords": [
-                        26.09123,
-                        44.433997
-                  ]
-            },
-            {
                   "name": "Biserica Foișor",
                   "text": "O biserică ortodoxă cu o istorie îndelungată în oraș.",
                   "category": "religious",
                   "coords": [
                         26.123168,
                         44.414777
-                  ]
-            },
-            {
-                  "name": "Biserica Doamnei",
-                  "text": "O biserică ortodoxă istorică situată în centrul Bucureștiului.",
-                  "category": "religious",
-                  "coords": [
-                        26.098946,
-                        44.434535
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă „Popa Chițu”",
-                  "text": "O biserică ortodoxă situată în centrul Capitalei.",
-                  "category": "religious",
-                  "coords": [
-                        26.111424,
-                        44.44244
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă \"Amzei\"",
-                  "text": "O biserică ortodoxă reprezentativă din București.",
-                  "category": "religious",
-                  "coords": [
-                        26.09385,
-                        44.444414
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă „Icoanei”",
-                  "text": "O biserică ortodoxă încărcată de istorie din București.",
-                  "category": "religious",
-                  "coords": [
-                        26.106517,
-                        44.442964
                   ]
             },
             {
@@ -19166,84 +14729,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Sfinții Trei Ierarhi - Coltea Colțea",
-                  "text": "O biserică istorică ce face parte din complexul spitalului Colțea.",
-                  "category": "religious",
-                  "coords": [
-                        26.103375,
-                        44.434668
-                  ]
-            },
-            {
-                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
-                  "text": "O biserică ortodoxă istorică de dimensiuni mici din București.",
-                  "category": "religious",
-                  "coords": [
-                        26.074547,
-                        44.433093
-                  ]
-            },
-            {
-                  "name": "Biserica \"Sfântul Elefterie Nou\"",
-                  "text": "O biserică ortodoxă impunătoare situată în cartierul Cotroceni.",
-                  "category": "religious",
-                  "coords": [
-                        26.077077,
-                        44.433488
-                  ]
-            },
-            {
                   "name": "Biserica Mănăstirii \"Stavropoleos\"",
                   "text": "O renumită biserică de mănăstire în stil brâncovenesc.",
                   "category": "religious",
                   "coords": [
                         26.098827,
                         44.431785
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Mântuleasa",
-                  "text": "O cunoscută biserică ortodoxă din București.",
-                  "category": "religious",
-                  "coords": [
-                        26.1134,
-                        44.435186
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
-                  "text": "O biserică ortodoxă situată în cartierul Plevna din București.",
-                  "category": "religious",
-                  "coords": [
-                        26.072921,
-                        44.440976
-                  ]
-            },
-            {
-                  "name": "Biserica Albă",
-                  "text": "O biserică ortodoxă elegantă situată pe Calea Victoriei.",
-                  "category": "religious",
-                  "coords": [
-                        26.094866,
-                        44.442076
-                  ]
-            },
-            {
-                  "name": "Biserica  Domnița Bălașa",
-                  "text": "O biserică ortodoxă monumentală situată în apropierea Pieței Unirii.",
-                  "category": "religious",
-                  "coords": [
-                        26.100247,
-                        44.428241
-                  ]
-            },
-            {
-                  "name": "Catedrala greco-catolică „Sfântul Vasile cel Mare”",
-                  "text": "Catedrala greco-catolică situată în București.",
-                  "category": "religious",
-                  "coords": [
-                        26.103812,
-                        44.449542
                   ]
             },
             {
@@ -19256,48 +14747,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
-                  "text": "O mică biserică ortodoxă situată pe Calea Victoriei.",
-                  "category": "religious",
-                  "coords": [
-                        26.089334,
-                        44.448881
-                  ]
-            },
-            {
-                  "name": "Rotonda Scriitorilor",
-                  "text": "Un ansamblu de busturi ale scriitorilor români din Parcul Cișmigiu.",
-                  "category": "landmark",
-                  "coords": [
-                        26.089158,
-                        44.436757
-                  ]
-            },
-            {
-                  "name": "Ateneul Român",
-                  "text": "O sală de concerte spectaculoasă și un simbol cultural al Bucureștiului.",
-                  "category": "landmark",
-                  "coords": [
-                        26.097361,
-                        44.441368
-                  ]
-            },
-            {
                   "name": "Sinagoga Mare",
                   "text": "Un lăcaș de cult evreiesc important din București.",
                   "category": "landmark",
                   "coords": [
                         26.108611,
                         44.429559
-                  ]
-            },
-            {
-                  "name": "Parcul Natural Văcărești",
-                  "text": "O rezervație naturală urbană, cunoscută sub numele de „Delta Văcărești”.",
-                  "category": "natural",
-                  "coords": [
-                        26.133574,
-                        44.399413
                   ]
             },
             {
@@ -19337,156 +14792,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Parcul Cișmigiu",
-                  "text": "Cel mai vechi parc public din centrul Bucureștiului.",
-                  "category": "park",
-                  "coords": [
-                        26.090355,
-                        44.437217
-                  ]
-            },
-            {
-                  "name": "Parcul Ion Voicu",
-                  "text": "Un parc mic și liniștit situat în centrul Bucureștiului.",
-                  "category": "park",
-                  "coords": [
-                        26.104768,
-                        44.445591
-                  ]
-            },
-            {
-                  "name": "Grădina Icoanei",
-                  "text": "Un parc public primitor situat într-un cartier istoric.",
-                  "category": "park",
-                  "coords": [
-                        26.103709,
-                        44.443503
-                  ]
-            },
-            {
-                  "name": "Lacul Morii",
-                  "text": "Un lac pitoresc în apropierea zonei Catedralei Patriarhale, ideal pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "Un lac local în vecinătatea Catedralei Patriarhale, potrivit pentru plimbări relaxante.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lacul Băneasa",
-                  "text": "Un lac care oferă un peisaj liniștit în apropierea zonei Catedralei Patriarhale.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Bazin decantare",
-                  "text": "Un bazin de apă situat în zona Catedralei Patriarhale.",
-                  "category": "natural",
-                  "coords": [
-                        26.001661,
-                        44.444654
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "Un corp de apă situat lângă Catedrala Patriarhală.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
-                  "name": "Balta Floarea Popeștiului",
-                  "text": "Un lac local în apropierea zonei Catedralei Patriarhale.",
-                  "category": "natural",
-                  "coords": [
-                        26.179957,
-                        44.383457
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Un lac popular pentru plimbări și peisaj lângă Catedrala Patriarhală.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
-                  "name": "Lacul Pantelimon",
-                  "text": "Un lac care oferă vederi pitorești în vecinătatea Catedralei Patriarhale.",
-                  "category": "natural",
-                  "coords": [
-                        26.209104,
-                        44.441318
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "Un lac mare și pitoresc lângă Catedrala Patriarhală, ideal pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "Un corp de apă local în zona Catedralei Patriarhale.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
                   "name": "Lacul Tineretului",
                   "text": "Un lac potrivit pentru plimbări și relaxare lângă Catedrala Patriarhală.",
                   "category": "natural",
                   "coords": [
                         26.105651,
                         44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Un lac pitoresc situat în zona Catedralei Patriarhale.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lacul Dobroești",
-                  "text": "Un lac care oferă un cadru natural în vecinătatea Catedralei Patriarhale.",
-                  "category": "natural",
-                  "coords": [
-                        26.173695,
-                        44.449024
-                  ]
-            },
-            {
-                  "name": "Lacul Fundeni",
-                  "text": "Un lac situat în zona Catedralei Patriarhale, ideal pentru peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
                   ]
             },
             {
@@ -19499,84 +14810,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "GV PvP VR",
-                  "text": "O sală de jocuri pentru distracție în familie lângă Catedrala Patriarhală.",
-                  "category": "family",
-                  "coords": [
-                        26.120635,
-                        44.439112
-                  ]
-            },
-            {
-                  "name": "Fun Planet",
-                  "text": "Un loc de joacă pentru familii situat lângă Catedrala Patriarhală.",
-                  "category": "family",
-                  "coords": [
-                        26.127267,
-                        44.420431
-                  ]
-            },
-            {
-                  "name": "GAME WORLD",
-                  "text": "O sală de jocuri care oferă divertisment pentru familii în zona Catedralei Patriarhale.",
-                  "category": "family",
-                  "coords": [
-                        26.120016,
-                        44.44395
-                  ]
-            },
-            {
-                  "name": "Parcul Patrat",
-                  "text": "Un loc de joacă pentru copii lângă Catedrala Patriarhală.",
-                  "category": "family",
-                  "coords": [
-                        26.117177,
-                        44.436666
-                  ]
-            },
-            {
                   "name": "Pista Automodele Off-Road",
                   "text": "O zonă de recreere pentru familii lângă Catedrala Patriarhală.",
                   "category": "family",
                   "coords": [
                         26.116163,
                         44.405436
-                  ]
-            },
-            {
-                  "name": "Wellness & Pool BabySpa",
-                  "text": "Un centru wellness și piscină pentru familii lângă Catedrala Patriarhală.",
-                  "category": "family",
-                  "coords": [
-                        26.131283,
-                        44.412851
-                  ]
-            },
-            {
-                  "name": "Ștrandul Văcărești - Ștrandul Copiilor",
-                  "text": "Un parc acvatic pentru copii lângă Catedrala Patriarhală.",
-                  "category": "family",
-                  "coords": [
-                        26.115851,
-                        44.402476
-                  ]
-            },
-            {
-                  "name": "Orășelul Copiilor",
-                  "text": "Un parc de distracții pentru copii lângă Catedrala Patriarhală cu diverse atracții.",
-                  "category": "family",
-                  "coords": [
-                        26.109323,
-                        44.401186
-                  ]
-            },
-            {
-                  "name": "Piscina Lido",
-                  "text": "O piscină lângă Catedrala Patriarhală pentru recreere în familie.",
-                  "category": "family",
-                  "coords": [
-                        26.098644,
-                        44.441286
                   ]
             }
       ],
@@ -19589,69 +14828,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.09789,
                         44.42406
-                  ]
-            },
-            {
-                  "name": "\"Dimitrie Brandza\" Botanic Garden",
-                  "text": "The main botanical garden of Bucharest, managed by the University of Bucharest.",
-                  "category": "museum",
-                  "coords": [
-                        26.066362,
-                        44.4369
-                  ]
-            },
-            {
-                  "name": "National Theatre Bucharest Museum",
-                  "text": "A museum documenting the history and evolution of the National Theatre.",
-                  "category": "museum",
-                  "coords": [
-                        26.103626,
-                        44.43763
-                  ]
-            },
-            {
-                  "name": "\"King Ferdinand I\" National Military Museum",
-                  "text": "Romania's national museum for military history and equipment.",
-                  "category": "museum",
-                  "coords": [
-                        26.076483,
-                        44.441392
-                  ]
-            },
-            {
-                  "name": "\"Maria and Dr. George Severeanu\" Collection",
-                  "text": "A museum housing a valuable collection of numismatics and archaeological items.",
-                  "category": "museum",
-                  "coords": [
-                        26.092928,
-                        44.447424
-                  ]
-            },
-            {
-                  "name": "\"Theodor Pallady\" Museum",
-                  "text": "A museum featuring the Melik House, one of the oldest in the city, and works by Theodor Pallady.",
-                  "category": "museum",
-                  "coords": [
-                        26.113545,
-                        44.439129
-                  ]
-            },
-            {
-                  "name": "Art Collections Museum",
-                  "text": "A museum exhibiting numerous individual art collections donated to the Romanian state.",
-                  "category": "museum",
-                  "coords": [
-                        26.091422,
-                        44.444637
-                  ]
-            },
-            {
-                  "name": "National Museum of Art of Romania",
-                  "text": "The country's primary art museum, located in the former Royal Palace.",
-                  "category": "museum",
-                  "coords": [
-                        26.095788,
-                        44.440074
                   ]
             },
             {
@@ -19682,24 +14858,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kretzulescu Palace",
-                  "text": "A historic palace located near the Cișmigiu Gardens, known for its elegant architecture.",
-                  "category": "castle",
-                  "coords": [
-                        26.088721,
-                        44.439531
-                  ]
-            },
-            {
-                  "name": "\"Admiral Vasile Urseanu\" Bucharest City Observatory",
-                  "text": "The only public astronomical observatory in Bucharest.",
-                  "category": "museum",
-                  "coords": [
-                        26.092891,
-                        44.448526
-                  ]
-            },
-            {
                   "name": "Palatul Bragadiru",
                   "text": "A grand historic palace and event venue built in the early 20th century.",
                   "category": "castle",
@@ -19709,66 +14867,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Memorial of Rebirth",
-                  "text": "A monument commemorating the victims of the 1989 Romanian Revolution.",
-                  "category": "historical",
-                  "coords": [
-                        26.097454,
-                        44.438889
-                  ]
-            },
-            {
-                  "name": "Monumentul Infanteristului",
-                  "text": "A monument dedicated to the infantry heroes of the Romanian Army.",
-                  "category": "historical",
-                  "coords": [
-                        26.069317,
-                        44.438194
-                  ]
-            },
-            {
-                  "name": "Monumentul Eroilor Artileriști",
-                  "text": "A monument honoring the Romanian artillery soldiers.",
-                  "category": "historical",
-                  "coords": [
-                        26.07236,
-                        44.43456
-                  ]
-            },
-            {
                   "name": "Carol Park Mausoleum",
                   "text": "A monumental structure in Carol Park, initially built to honor communist leaders.",
                   "category": "historical",
                   "coords": [
                         26.096864,
                         44.411237
-                  ]
-            },
-            {
-                  "name": "Metropolis Teatrul",
-                  "text": "A modern theatre venue known for its diverse repertoire.",
-                  "category": "cultural",
-                  "coords": [
-                        26.108795,
-                        44.447378
-                  ]
-            },
-            {
-                  "name": "National Opera",
-                  "text": "The main opera and ballet house in Romania.",
-                  "category": "cultural",
-                  "coords": [
-                        26.079552,
-                        44.436065
-                  ]
-            },
-            {
-                  "name": "Mănăstirea Mihai Vodă",
-                  "text": "One of the oldest monasteries in Bucharest, moved in the 1980s.",
-                  "category": "religious",
-                  "coords": [
-                        26.093308,
-                        44.431554
                   ]
             },
             {
@@ -19790,24 +14894,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
-                  "text": "An Orthodox church dedicated to Saints Constantine and Helen.",
-                  "category": "religious",
-                  "coords": [
-                        26.084835,
-                        44.436278
-                  ]
-            },
-            {
-                  "name": "Catedrala romano-catolică Sfântul Iosif",
-                  "text": "The main Roman Catholic cathedral in Bucharest.",
-                  "category": "religious",
-                  "coords": [
-                        26.091383,
-                        44.442105
-                  ]
-            },
-            {
                   "name": "Biserica Ortodoxă Apostol din Tabaci",
                   "text": "A historic Orthodox church located in the Tabaci neighborhood.",
                   "category": "religious",
@@ -19826,57 +14912,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica „Sfântul Ilie” - Gorgani",
-                  "text": "A historic Orthodox church built on a small hill in the city center.",
-                  "category": "religious",
-                  "coords": [
-                        26.09123,
-                        44.433997
-                  ]
-            },
-            {
                   "name": "Biserica Foișor",
                   "text": "An Orthodox church with a long history in the city.",
                   "category": "religious",
                   "coords": [
                         26.123168,
                         44.414777
-                  ]
-            },
-            {
-                  "name": "Biserica Doamnei",
-                  "text": "A historic Orthodox church located in central Bucharest.",
-                  "category": "religious",
-                  "coords": [
-                        26.098946,
-                        44.434535
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă „Popa Chițu”",
-                  "text": "An Orthodox church located in the center of Bucharest.",
-                  "category": "religious",
-                  "coords": [
-                        26.111424,
-                        44.44244
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă \"Amzei\"",
-                  "text": "A prominent Orthodox church in Bucharest.",
-                  "category": "religious",
-                  "coords": [
-                        26.09385,
-                        44.444414
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă „Icoanei”",
-                  "text": "A historic Orthodox church in Bucharest.",
-                  "category": "religious",
-                  "coords": [
-                        26.106517,
-                        44.442964
                   ]
             },
             {
@@ -19889,84 +14930,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Sfinții Trei Ierarhi - Coltea Colțea",
-                  "text": "A historic church that is part of the Colțea hospital complex.",
-                  "category": "religious",
-                  "coords": [
-                        26.103375,
-                        44.434668
-                  ]
-            },
-            {
-                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
-                  "text": "A small, historic Orthodox church in Bucharest.",
-                  "category": "religious",
-                  "coords": [
-                        26.074547,
-                        44.433093
-                  ]
-            },
-            {
-                  "name": "Biserica \"Sfântul Elefterie Nou\"",
-                  "text": "An impressive Orthodox church located in the Cotroceni neighborhood.",
-                  "category": "religious",
-                  "coords": [
-                        26.077077,
-                        44.433488
-                  ]
-            },
-            {
                   "name": "Biserica Mănăstirii \"Stavropoleos\"",
                   "text": "A famous monastery church built in the Brâncovenesc style.",
                   "category": "religious",
                   "coords": [
                         26.098827,
                         44.431785
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Mântuleasa",
-                  "text": "A well-known Orthodox church in Bucharest.",
-                  "category": "religious",
-                  "coords": [
-                        26.1134,
-                        44.435186
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
-                  "text": "An Orthodox church located in the Plevna area of Bucharest.",
-                  "category": "religious",
-                  "coords": [
-                        26.072921,
-                        44.440976
-                  ]
-            },
-            {
-                  "name": "Biserica Albă",
-                  "text": "An elegant Orthodox church located on Calea Victoriei.",
-                  "category": "religious",
-                  "coords": [
-                        26.094866,
-                        44.442076
-                  ]
-            },
-            {
-                  "name": "Domnița Bălașa Church",
-                  "text": "A magnificent Orthodox church located near Unirii Square.",
-                  "category": "religious",
-                  "coords": [
-                        26.100247,
-                        44.428241
-                  ]
-            },
-            {
-                  "name": "Cathedral of Saint Basil the Great",
-                  "text": "The Greek Catholic cathedral located in Bucharest.",
-                  "category": "religious",
-                  "coords": [
-                        26.103812,
-                        44.449542
                   ]
             },
             {
@@ -19979,48 +14948,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
-                  "text": "A small Orthodox church located on Calea Victoriei.",
-                  "category": "religious",
-                  "coords": [
-                        26.089334,
-                        44.448881
-                  ]
-            },
-            {
-                  "name": "Rotonda Scriitorilor",
-                  "text": "A collection of busts of Romanian writers in Cișmigiu Park.",
-                  "category": "landmark",
-                  "coords": [
-                        26.089158,
-                        44.436757
-                  ]
-            },
-            {
-                  "name": "Romanian Atheneum",
-                  "text": "A magnificent concert hall and a cultural landmark of Bucharest.",
-                  "category": "landmark",
-                  "coords": [
-                        26.097361,
-                        44.441368
-                  ]
-            },
-            {
                   "name": "Great Synagogue",
                   "text": "A significant Jewish place of worship in Bucharest.",
                   "category": "landmark",
                   "coords": [
                         26.108611,
                         44.429559
-                  ]
-            },
-            {
-                  "name": "Parcul Natural Văcărești",
-                  "text": "An urban nature reserve known as the \"Văcărești Delta\".",
-                  "category": "natural",
-                  "coords": [
-                        26.133574,
-                        44.399413
                   ]
             },
             {
@@ -20060,156 +14993,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Cișmigiu Gardens",
-                  "text": "The oldest public park in central Bucharest.",
-                  "category": "park",
-                  "coords": [
-                        26.090355,
-                        44.437217
-                  ]
-            },
-            {
-                  "name": "Parcul Ion Voicu",
-                  "text": "A small, peaceful park in the center of Bucharest.",
-                  "category": "park",
-                  "coords": [
-                        26.104768,
-                        44.445591
-                  ]
-            },
-            {
-                  "name": "Grădina Icoanei",
-                  "text": "A cozy public park located in a historic neighborhood.",
-                  "category": "park",
-                  "coords": [
-                        26.103709,
-                        44.443503
-                  ]
-            },
-            {
-                  "name": "Lacul Morii",
-                  "text": "A scenic lake near the Patriarchal Cathedral area, ideal for walking.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "A local lake in the Patriarchal Cathedral vicinity, suitable for relaxing walks.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lake Băneasa",
-                  "text": "A lake offering peaceful scenery near the Patriarchal Cathedral area.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Bazin decantare",
-                  "text": "A water basin located in the Patriarchal Cathedral area.",
-                  "category": "natural",
-                  "coords": [
-                        26.001661,
-                        44.444654
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "A water body located near the Patriarchal Cathedral.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
-                  "name": "Balta Floarea Popeștiului",
-                  "text": "A local lake near the Patriarchal Cathedral area.",
-                  "category": "natural",
-                  "coords": [
-                        26.179957,
-                        44.383457
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "A popular lake for walking and scenery near the Patriarchal Cathedral.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
-                  "name": "Lacul Pantelimon",
-                  "text": "A lake offering scenic views in the Patriarchal Cathedral vicinity.",
-                  "category": "natural",
-                  "coords": [
-                        26.209104,
-                        44.441318
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "A large scenic lake near the Patriarchal Cathedral, ideal for strolls.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "A local water body in the Patriarchal Cathedral area.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
                   "name": "Lacul Tineretului",
                   "text": "A lake suitable for walks and relaxation near the Patriarchal Cathedral.",
                   "category": "natural",
                   "coords": [
                         26.105651,
                         44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "A scenic lake located in the Patriarchal Cathedral area.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lacul Dobroești",
-                  "text": "A lake providing a natural setting in the Patriarchal Cathedral vicinity.",
-                  "category": "natural",
-                  "coords": [
-                        26.173695,
-                        44.449024
-                  ]
-            },
-            {
-                  "name": "Lake Fundeni",
-                  "text": "A lake located in the Patriarchal Cathedral area, ideal for scenery.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
                   ]
             },
             {
@@ -20222,84 +15011,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "GV PvP VR",
-                  "text": "An amusement arcade for family fun near the Patriarchal Cathedral.",
-                  "category": "family",
-                  "coords": [
-                        26.120635,
-                        44.439112
-                  ]
-            },
-            {
-                  "name": "Fun Planet",
-                  "text": "A family-friendly playground located near the Patriarchal Cathedral.",
-                  "category": "family",
-                  "coords": [
-                        26.127267,
-                        44.420431
-                  ]
-            },
-            {
-                  "name": "GAME WORLD",
-                  "text": "An arcade offering family entertainment in the Patriarchal Cathedral area.",
-                  "category": "family",
-                  "coords": [
-                        26.120016,
-                        44.44395
-                  ]
-            },
-            {
-                  "name": "Parcul Patrat",
-                  "text": "A playground for children near the Patriarchal Cathedral.",
-                  "category": "family",
-                  "coords": [
-                        26.117177,
-                        44.436666
-                  ]
-            },
-            {
                   "name": "Pista Automodele Off-Road",
                   "text": "A family recreation area near the Patriarchal Cathedral.",
                   "category": "family",
                   "coords": [
                         26.116163,
                         44.405436
-                  ]
-            },
-            {
-                  "name": "Wellness & Pool BabySpa",
-                  "text": "A family-friendly wellness and pool center near the Patriarchal Cathedral.",
-                  "category": "family",
-                  "coords": [
-                        26.131283,
-                        44.412851
-                  ]
-            },
-            {
-                  "name": "Ștrandul Văcărești - Ștrandul Copiilor",
-                  "text": "A water park for children near the Patriarchal Cathedral.",
-                  "category": "family",
-                  "coords": [
-                        26.115851,
-                        44.402476
-                  ]
-            },
-            {
-                  "name": "Children's Town",
-                  "text": "A theme park for children near the Patriarchal Cathedral with various attractions.",
-                  "category": "family",
-                  "coords": [
-                        26.109323,
-                        44.401186
-                  ]
-            },
-            {
-                  "name": "Piscina Lido",
-                  "text": "A swimming pool near the Patriarchal Cathedral for family recreation.",
-                  "category": "family",
-                  "coords": [
-                        26.098644,
-                        44.441286
                   ]
             }
       ]
@@ -20352,15 +15069,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Morii",
-                  "text": "Der Lacul Morii ist ein großer See beim Schloss Mogoșoaia, der für seine weite Aussicht bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
                   "name": "Lacul Chitila",
                   "text": "Der Lacul Chitila ist ein ruhiger See beim Schloss Mogoșoaia, ideal für einen Spaziergang im Grünen.",
                   "category": "natural",
@@ -20376,33 +15084,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.011649,
                         44.502876
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "Der Lacul Grivița ist ein See beim Schloss Mogoșoaia, umgeben von natürlicher Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Herăstrău-See",
-                  "text": "Der Lacul Herăstrău beim Schloss Mogoșoaia ist ein beliebtes Ziel für Freizeitaktivitäten am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "La Plage Club",
-                  "text": "Der La Plage Club beim Schloss Mogosoaia ist ein Wasserpark für den Familienspaß.",
-                  "category": "family",
-                  "coords": [
-                        26.040844,
-                        44.528644
                   ]
             }
       ],
@@ -20428,15 +15109,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Morii",
-                  "text": "A Lacul Morii egy nagy tó a Mogoșoaia-palotánál, amely tágas kilátásáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
                   "name": "Lacul Chitila",
                   "text": "A Lacul Chitila egy csendes tó a Mogoșoaia-palotánál, amely ideális egy zöldövezeti sétához.",
                   "category": "natural",
@@ -20452,33 +15124,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.011649,
                         44.502876
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "A Lacul Grivița egy tó a Mogoșoaia-palotánál, természetes tájjal körülvéve.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "A Lacul Herăstrău a Mogoșoaia-palotánál népszerű úti cél vízparti szabadidős tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "La Plage Club",
-                  "text": "A Mogoșoaia-palotánál található La Plage Club egy vízipark a családi szórakozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        26.040844,
-                        44.528644
                   ]
             }
       ],
@@ -20504,15 +15149,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Morii",
-                  "text": "Lacul Morii este un lac mare situat lângă Palatul Mogoșoaia, cunoscut pentru priveliștea sa vastă.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
                   "name": "Lacul Chitila",
                   "text": "Lacul Chitila este un lac liniștit lângă Palatul Mogoșoaia, ideal pentru o plimbare în natură.",
                   "category": "natural",
@@ -20528,33 +15164,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.011649,
                         44.502876
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "Lacul Grivița este un lac lângă Palatul Mogoșoaia, înconjurat de un peisaj natural.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "Lacul Herăstrău de lângă Palatul Mogoșoaia este o destinație populară pentru activități de recreere pe apă.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "La Plage Club",
-                  "text": "La Plage Club de lângă Palatul Mogoșoaia este un parc acvatic pentru distracția familiei.",
-                  "category": "family",
-                  "coords": [
-                        26.040844,
-                        44.528644
                   ]
             }
       ],
@@ -20580,15 +15189,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Morii",
-                  "text": "Lacul Morii is a large lake near Mogosoaia Palace, known for its wide views.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
                   "name": "Lacul Chitila",
                   "text": "Lacul Chitila is a quiet lake near Mogosoaia Palace, ideal for a walk in nature.",
                   "category": "natural",
@@ -20604,33 +15204,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.011649,
                         44.502876
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "Lacul Grivița is a lake near Mogosoaia Palace, surrounded by a natural landscape.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "Lacul Herăstrău near Mogosoaia Palace is a popular destination for waterfront leisure activities.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "La Plage Club",
-                  "text": "La Plage Club by Mogosoaia Palace is a water park for family fun.",
-                  "category": "family",
-                  "coords": [
-                        26.040844,
-                        44.528644
                   ]
             }
       ]
@@ -20711,105 +15284,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
-                  "text": "Dieses Museum beherbergt eine wertvolle Sammlung von Numismatik und archäologischen Artefakten.",
-                  "category": "museum",
-                  "coords": [
-                        26.092928,
-                        44.447424
-                  ]
-            },
-            {
-                  "name": "Muzeul Colecțiilor de Artă",
-                  "text": "Das Museum für Kunstsammlungen stellt verschiedene private Kunstschenkungen in einem historischen Palast aus.",
-                  "category": "museum",
-                  "coords": [
-                        26.091422,
-                        44.444637
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Artă al României",
-                  "text": "Dieses im ehemaligen Königspalast untergebrachte Museum zeigt bedeutende rumänische und europäische Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        26.095788,
-                        44.440074
-                  ]
-            },
-            {
-                  "name": "Nationalmuseum für zeitgenössische Kunst",
-                  "text": "Dieses im Parlamentspalast untergebrachte Museum widmet sich der modernen und zeitgenössischen Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        26.086631,
-                        44.428136
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Țăranului Român",
-                  "text": "Dieses Museum zeigt eine reiche Sammlung traditioneller rumänischer Volkskunst und kultureller Artefakte.",
-                  "category": "museum",
-                  "coords": [
-                        26.083983,
-                        44.454423
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Istorie",
-                  "text": "Das Museum präsentiert die Geschichte Rumäniens von der Urgeschichte bis in die Moderne.",
-                  "category": "museum",
-                  "coords": [
-                        26.097209,
-                        44.431488
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
-                  "text": "Dies ist eines der beliebtesten Museen in Bukarest, das der Naturgeschichte und Biodiversität gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        26.084627,
-                        44.453096
-                  ]
-            },
-            {
-                  "name": "Muzeul Național Geologic",
-                  "text": "Das Museum stellt umfangreiche Sammlungen von Mineralien, Gesteinen und Fossilien aus Rumänien aus.",
-                  "category": "museum",
-                  "coords": [
-                        26.085221,
-                        44.454817
-                  ]
-            },
-            {
-                  "name": "Palatul Crețulescu",
-                  "text": "Dieser historische Palast ist ein architektonisches Wahrzeichen in der Nähe des Cișmigiu-Parks.",
-                  "category": "castle",
-                  "coords": [
-                        26.088721,
-                        44.439531
-                  ]
-            },
-            {
-                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
-                  "text": "Dies ist das einzige öffentliche astronomische Observatorium in Bukarest, das für Himmelsbeobachtungen geöffnet ist.",
-                  "category": "museum",
-                  "coords": [
-                        26.092891,
-                        44.448526
-                  ]
-            },
-            {
-                  "name": "Palatul Bragadiru",
-                  "text": "Ein beeindruckender architektonischer Komplex im eklektischen Stil, der für kulturelle Veranstaltungen genutzt wird.",
-                  "category": "castle",
-                  "coords": [
-                        26.087123,
-                        44.421534
-                  ]
-            },
-            {
                   "name": "Palatul Știrbei",
                   "text": "Ein historischer Palast an der Calea Victoriei, ein wichtiges Beispiel für das adelige Erbe Bukarests.",
                   "category": "castle",
@@ -20855,15 +15329,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Memorialul Renașterii",
-                  "text": "Dieses Denkmal erinnert an die Opfer der rumänischen Revolution von 1989.",
-                  "category": "historical",
-                  "coords": [
-                        26.097454,
-                        44.438889
-                  ]
-            },
-            {
                   "name": "Monumentul Infanteristului",
                   "text": "Eine Bronzestatue, die den im Ersten Weltkrieg kämpfenden Infanteriesoldaten gewidmet ist.",
                   "category": "historical",
@@ -20900,15 +15365,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Primăria Sectorului 1",
-                  "text": "Der Verwaltungssitz für den ersten Bezirk von Bukarest, untergebracht in einem markanten Gebäude.",
-                  "category": "historical",
-                  "coords": [
-                        26.073845,
-                        44.453843
-                  ]
-            },
-            {
                   "name": "Primăria Municipiului București",
                   "text": "Der Sitz des Bukarester Rathauses, untergebracht in einem monumentalen historischen Palast.",
                   "category": "historical",
@@ -20927,75 +15383,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Mănăstirea Mihai Vodă",
-                  "text": "Eine der ältesten erhaltenen Kirchen in Bukarest, die in den 1980er Jahren von ihrem ursprünglichen Standort verlegt wurde.",
-                  "category": "religious",
-                  "coords": [
-                        26.093308,
-                        44.431554
-                  ]
-            },
-            {
                   "name": "Teatrul Odeon",
                   "text": "Ein bedeutendes Theater in Bukarest, das in einem historischen Gebäude an der Calea Victoriei untergebracht ist.",
                   "category": "cultural",
                   "coords": [
                         26.098947,
                         44.435998
-                  ]
-            },
-            {
-                  "name": "Mănăstirea Antim",
-                  "text": "Ein historischer Klosterkomplex, der für seine einzigartige Architektur und religiöse Bedeutung bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        26.093471,
-                        44.426009
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
-                  "text": "Eine den Heiligen Konstantin und Helena gewidmete orthodoxe Kirche in der Hauptstadt.",
-                  "category": "religious",
-                  "coords": [
-                        26.084835,
-                        44.436278
-                  ]
-            },
-            {
-                  "name": "Catedrala romano-catolică Sfântul Iosif",
-                  "text": "Das wichtigste römisch-katholische Gotteshaus in Bukarest und ein bemerkenswertes Baudenkmal.",
-                  "category": "religious",
-                  "coords": [
-                        26.091383,
-                        44.442105
-                  ]
-            },
-            {
-                  "name": "Biserica „Sfântul Ilie” - Gorgani",
-                  "text": "Eine historische orthodoxe Kirche auf einem kleinen Hügel, bekannt für ihre spirituelle Atmosphäre.",
-                  "category": "religious",
-                  "coords": [
-                        26.09123,
-                        44.433997
-                  ]
-            },
-            {
-                  "name": "Biserica Doamnei",
-                  "text": "Eine im Zentrum von Bukarest versteckte orthodoxe Kirche aus dem 17. Jahrhundert, bekannt für ihre feinen Steinmetzarbeiten.",
-                  "category": "religious",
-                  "coords": [
-                        26.098946,
-                        44.434535
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă \"Amzei\"",
-                  "text": "Eine markante orthodoxe Kirche in Bukarest, die sich im Bereich des Amzei-Marktes befindet.",
-                  "category": "religious",
-                  "coords": [
-                        26.09385,
-                        44.444414
                   ]
             },
             {
@@ -21017,39 +15410,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Mănăstirii \"Stavropoleos\"",
-                  "text": "Diese kleine Kirche ist ein Juwel der Brâncoveanu-Architektur und berühmt für ihre kunstvollen Stein- und Holzschnitzereien.",
-                  "category": "religious",
-                  "coords": [
-                        26.098827,
-                        44.431785
-                  ]
-            },
-            {
                   "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
                   "text": "Eine dem heiligen Georg gewidmete orthodoxe Kirche in Bukarest, die der örtlichen Gemeinde dient.",
                   "category": "religious",
                   "coords": [
                         26.072921,
                         44.440976
-                  ]
-            },
-            {
-                  "name": "Biserica Albă",
-                  "text": "Sie ist als „Weiße Kirche“ bekannt und ein bedeutendes orthodoxes Wahrzeichen an der Calea Victoriei.",
-                  "category": "religious",
-                  "coords": [
-                        26.094866,
-                        44.442076
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
-                  "text": "Eine historische orthodoxe Kirche an der Calea Victoriei, die dem heiligen Basilius dem Großen gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        26.089334,
-                        44.448881
                   ]
             },
             {
@@ -21107,24 +15473,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Rotonda Scriitorilor",
-                  "text": "Eine kreisförmige Allee im Cișmigiu-Park mit Büsten prominenter rumänischer Schriftsteller.",
-                  "category": "landmark",
-                  "coords": [
-                        26.089158,
-                        44.436757
-                  ]
-            },
-            {
-                  "name": "Rumänisches Atheneum",
-                  "text": "Bukarests renommiertester Konzertsaal und ein Symbol der rumänischen Kultur.",
-                  "category": "landmark",
-                  "coords": [
-                        26.097361,
-                        44.441368
-                  ]
-            },
-            {
                   "name": "Sala Palatului",
                   "text": "Ein großer Konferenz- und Konzertsaal hinter dem Nationalen Kunstmuseum.",
                   "category": "landmark",
@@ -21152,33 +15500,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Dealul Arsenalului",
-                  "text": "Ein historischer Hügel in Bukarest, auf dem sich heute der Parlamentspalast befindet.",
-                  "category": "natural",
-                  "coords": [
-                        26.078037,
-                        44.425748
-                  ]
-            },
-            {
-                  "name": "Parcul Izvor",
-                  "text": "Ein weitläufiger öffentlicher Park im Zentrum von Bukarest, nahe dem Parlamentspalast.",
-                  "category": "park",
-                  "coords": [
-                        26.087567,
-                        44.431811
-                  ]
-            },
-            {
-                  "name": "Cișmigiu-Park",
-                  "text": "Der älteste öffentliche Garten Bukarests, bekannt für seinen See und seine Alleen.",
-                  "category": "park",
-                  "coords": [
-                        26.090355,
-                        44.437217
-                  ]
-            },
-            {
                   "name": "Lacul Morii",
                   "text": "Lacul Morii beim Schloss Cotroceni ist ein weitläufiger See, der ideal für lange Spaziergänge am Wasser ist.",
                   "category": "natural",
@@ -21197,102 +15518,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Băneasa",
-                  "text": "Der Băneasa-See beim Schloss Cotroceni ist ein schöner Ort für Naturfreunde und Spaziergänger.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Bazin decantare",
-                  "text": "Bazin decantare beim Schloss Cotroceni ist ein ruhiges Gewässer in einer städtischen Parklandschaft.",
-                  "category": "natural",
-                  "coords": [
-                        26.001661,
-                        44.444654
-                  ]
-            },
-            {
                   "name": "Bazin apa Cotroceni",
                   "text": "Bazin apa Cotroceni beim Schloss Cotroceni ist eine funktionale Wasserfläche inmitten der Parkanlagen.",
                   "category": "natural",
                   "coords": [
                         26.057237,
                         44.435057
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "Lacul Grivița beim Schloss Cotroceni lädt zu entspannten Spaziergängen in einer naturnahen Umgebung ein.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Lacul IOR beim Schloss Cotroceni ist ein beliebter See für Freizeitaktivitäten und Erholung im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
-                  "name": "Herăstrău-See",
-                  "text": "Lacul Herăstrău beim Schloss Cotroceni ist ein bekanntes Ausflugsziel für Spaziergänge und Naturgenuss.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "Balta Pipera beim Schloss Cotroceni ist ein ruhiger See, der eine kleine Auszeit vom Stadtleben bietet.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "Lacul Tineretului beim Schloss Cotroceni bietet eine malerische Kulisse für Freizeit und Erholung.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Lacul Plumbuita beim Schloss Cotroceni ist ein idyllischer See für entspannte Stunden am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lacul Fundeni",
-                  "text": "Der Fundeni-See beim Schloss Cotroceni bietet eine ruhige Wasserfläche für Erholungsuchende.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
-                  ]
-            },
-            {
-                  "name": "Parc",
-                  "text": "Parc beim Schloss Cotroceni ist ein schöner Spielplatz, auf dem Kinder sicher spielen und toben können.",
-                  "category": "family",
-                  "coords": [
-                        26.084353,
-                        44.416817
                   ]
             },
             {
@@ -21413,30 +15644,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina Lido",
-                  "text": "Piscina Lido ist ein Schwimmbad in Bucharest, ideal für ein erfrischendes Familienschwimmen.",
-                  "category": "family",
-                  "coords": [
-                        26.098644,
-                        44.441286
-                  ]
-            },
-            {
                   "name": "\"Maria Filotti\" Memorial Collection",
                   "text": "Eine Sammlung in Bukarest, die an das Erbe der berühmten rumänischen Schauspielerin Maria Filotti erinnert.",
                   "category": "museum",
                   "coords": [
                         26.083925,
                         44.435791
-                  ]
-            },
-            {
-                  "name": "\"George Enescu\" National Museum",
-                  "text": "Dieses Museum ist dem Leben und Werk des berühmten rumänischen Komponisten George Enescu gewidmet.",
-                  "category": "museum",
-                  "coords": [
-                        26.088338,
-                        44.448711
                   ]
             }
       ],
@@ -21490,105 +15703,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
-                  "text": "Ez a múzeum értékes numizmatikai és régészeti gyűjteménynek ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        26.092928,
-                        44.447424
-                  ]
-            },
-            {
-                  "name": "Muzeul Colecțiilor de Artă",
-                  "text": "A Művészeti Gyűjtemények Múzeuma különböző magánművészeti adományokat mutat be egy történelmi palotában.",
-                  "category": "museum",
-                  "coords": [
-                        26.091422,
-                        44.444637
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Artă al României",
-                  "text": "A korábbi királyi palotában található múzeum jelentős román és európai műalkotásokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        26.095788,
-                        44.440074
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Artă Contemporană",
-                  "text": "Ez a Parlament Palotájában található múzeum a modern és kortárs művészetnek szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        26.086631,
-                        44.428136
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Țăranului Român",
-                  "text": "Ez a múzeum a hagyományos román népművészet és kulturális tárgyak gazdag gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        26.083983,
-                        44.454423
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Istorie",
-                  "text": "A múzeum Románia történelmét mutatja be a prehisztorikus időktől a modern korig.",
-                  "category": "museum",
-                  "coords": [
-                        26.097209,
-                        44.431488
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
-                  "text": "Ez Bukarest egyik legnépszerűbb múzeuma, amely a természetrajznak és a biológiai sokféleségnek szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        26.084627,
-                        44.453096
-                  ]
-            },
-            {
-                  "name": "Muzeul Național Geologic",
-                  "text": "A múzeum ásványok, kőzetek és fosszíliák széleskörű gyűjteményét mutatja be Romániából.",
-                  "category": "museum",
-                  "coords": [
-                        26.085221,
-                        44.454817
-                  ]
-            },
-            {
-                  "name": "Palatul Crețulescu",
-                  "text": "Ez a történelmi palota egy építészeti mérföldkő a Cișmigiu-kert közelében.",
-                  "category": "castle",
-                  "coords": [
-                        26.088721,
-                        44.439531
-                  ]
-            },
-            {
-                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
-                  "text": "Ez az egyetlen nyilvános csillagászati obszervatórium Bukarestben, amely nyitva áll az égi megfigyelések előtt.",
-                  "category": "museum",
-                  "coords": [
-                        26.092891,
-                        44.448526
-                  ]
-            },
-            {
-                  "name": "Palatul Bragadiru",
-                  "text": "Egy lenyűgöző, eklektikus stílusban épült építészeti komplexum, amelyet kulturális eseményekre használnak.",
-                  "category": "castle",
-                  "coords": [
-                        26.087123,
-                        44.421534
-                  ]
-            },
-            {
                   "name": "Palatul Știrbei",
                   "text": "Egy történelmi palota a Calea Victoriei úton, amely Bukarest nemesi örökségének fontos példája.",
                   "category": "castle",
@@ -21634,15 +15748,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Memorialul Renașterii",
-                  "text": "Ez az emlékmű az 1989-es romániai forradalom áldozatainak állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        26.097454,
-                        44.438889
-                  ]
-            },
-            {
                   "name": "Monumentul Infanteristului",
                   "text": "Egy bronzszobor, amelyet az első világháborúban harcoló gyalogos katonáknak szenteltek.",
                   "category": "historical",
@@ -21679,15 +15784,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Primăria Sectorului 1",
-                  "text": "Bukarest első kerületének adminisztratív központja, amely egy nevezetes épületben található.",
-                  "category": "historical",
-                  "coords": [
-                        26.073845,
-                        44.453843
-                  ]
-            },
-            {
                   "name": "Primăria Municipiului București",
                   "text": "Bukarest polgármesteri hivatalának székhelye, amely egy monumentális történelmi palotában található.",
                   "category": "historical",
@@ -21706,75 +15802,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Mănăstirea Mihai Vodă",
-                  "text": "Bukarest egyik legrégebbi fennmaradt temploma, amelyet az 1980-as években helyeztek át eredeti helyéről.",
-                  "category": "religious",
-                  "coords": [
-                        26.093308,
-                        44.431554
-                  ]
-            },
-            {
                   "name": "Teatrul Odeon",
                   "text": "Bukarest egyik neves színháza, amely egy történelmi épületben található a Calea Victoriei úton.",
                   "category": "cultural",
                   "coords": [
                         26.098947,
                         44.435998
-                  ]
-            },
-            {
-                  "name": "Mănăstirea Antim",
-                  "text": "Egy történelmi kolostorkomplexum, amely egyedülálló építészetéről és vallási jelentőségéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        26.093471,
-                        44.426009
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
-                  "text": "Egy Szent Konstantin és Ilona tiszteletére szentelt ortodox templom a fővárosban.",
-                  "category": "religious",
-                  "coords": [
-                        26.084835,
-                        44.436278
-                  ]
-            },
-            {
-                  "name": "Catedrala romano-catolică Sfântul Iosif",
-                  "text": "Bukarest legfőbb római katolikus temploma és jelentős építészeti műemlék.",
-                  "category": "religious",
-                  "coords": [
-                        26.091383,
-                        44.442105
-                  ]
-            },
-            {
-                  "name": "Biserica „Sfântul Ilie” - Gorgani",
-                  "text": "Egy kis dombra épült történelmi ortodox templom, amely spirituális légköréről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        26.09123,
-                        44.433997
-                  ]
-            },
-            {
-                  "name": "Biserica Doamnei",
-                  "text": "Egy 17. századi ortodox templom Bukarest központjában, amely finom kőfaragványairól ismert.",
-                  "category": "religious",
-                  "coords": [
-                        26.098946,
-                        44.434535
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă \"Amzei\"",
-                  "text": "Egy jellegzetes ortodox templom Bukarestben, az Amzei piac környékén.",
-                  "category": "religious",
-                  "coords": [
-                        26.09385,
-                        44.444414
                   ]
             },
             {
@@ -21796,39 +15829,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Mănăstirii \"Stavropoleos\"",
-                  "text": "A brâncovenești építészet egyik gyöngyszeme, ez a kis templom bonyolult kő- és fafaragásairól híres.",
-                  "category": "religious",
-                  "coords": [
-                        26.098827,
-                        44.431785
-                  ]
-            },
-            {
                   "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
                   "text": "Szent György tiszteletére szentelt ortodox templom Bukarestben, amely a helyi közösséget szolgálja.",
                   "category": "religious",
                   "coords": [
                         26.072921,
                         44.440976
-                  ]
-            },
-            {
-                  "name": "Biserica Albă",
-                  "text": "A „Fehér templom” néven ismert épület a Calea Victoriei úton található fontos ortodox műemlék.",
-                  "category": "religious",
-                  "coords": [
-                        26.094866,
-                        44.442076
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
-                  "text": "Egy Szent Vazulnak szentelt történelmi ortodox templom a Calea Victoriei úton.",
-                  "category": "religious",
-                  "coords": [
-                        26.089334,
-                        44.448881
                   ]
             },
             {
@@ -21886,24 +15892,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Rotonda Scriitorilor",
-                  "text": "A Cișmigiu-kertben található kör alakú sétány, amely neves román írók mellszobrait mutatja be.",
-                  "category": "landmark",
-                  "coords": [
-                        26.089158,
-                        44.436757
-                  ]
-            },
-            {
-                  "name": "Román Atheneum",
-                  "text": "Bukarest legrangosabb hangversenyterme és a román kultúra szimbóluma.",
-                  "category": "landmark",
-                  "coords": [
-                        26.097361,
-                        44.441368
-                  ]
-            },
-            {
                   "name": "Sala Palatului",
                   "text": "Egy nagy konferencia- és hangversenyterem a Nemzeti Művészeti Múzeum mögött.",
                   "category": "landmark",
@@ -21931,33 +15919,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Dealul Arsenalului",
-                  "text": "Történelmi domb Bukarestben, ahol ma a Parlament Palotája található.",
-                  "category": "natural",
-                  "coords": [
-                        26.078037,
-                        44.425748
-                  ]
-            },
-            {
-                  "name": "Parcul Izvor",
-                  "text": "Tágas közpark Bukarest központjában, a Parlamenti Palota közelében.",
-                  "category": "park",
-                  "coords": [
-                        26.087567,
-                        44.431811
-                  ]
-            },
-            {
-                  "name": "Parcul Cișmigiu",
-                  "text": "Bukarest legrégebbi közparkja, amely taváról és sétányairól ismert.",
-                  "category": "park",
-                  "coords": [
-                        26.090355,
-                        44.437217
-                  ]
-            },
-            {
                   "name": "Lacul Morii",
                   "text": "A Cotroceni-palota közelében lévő Lacul Morii egy tágas tó, amely ideális nagy vízparti sétákhoz.",
                   "category": "natural",
@@ -21976,102 +15937,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Băneasa",
-                  "text": "A Cotroceni-palota környékén lévő Băneasa-tó szép hely a természet kedvelői és a sétálni vágyók számára.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Bazin decantare",
-                  "text": "A Cotroceni-palotánál található Bazin decantare egy nyugodt vízfelület a városi parkos környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        26.001661,
-                        44.444654
-                  ]
-            },
-            {
                   "name": "Bazin apa Cotroceni",
                   "text": "A Cotroceni-palotánál lévő Bazin apa Cotroceni egy funkcionális vízfelület a parkos területen.",
                   "category": "natural",
                   "coords": [
                         26.057237,
                         44.435057
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "A Cotroceni-palota közelében található Lacul Grivița kellemes sétákra hív a természetközeli környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "A Cotroceni-palotánál fekvő Lacul IOR népszerű hely a szabadidős tevékenységekhez és a kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "A Cotroceni-palota melletti Lacul Herăstrău kedvelt kirándulóhely sétákhoz és a természet élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "A Cotroceni-palota közelében lévő Balta Pipera egy nyugodt tó, amely rövid pihenőt kínál a városi élettől.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "A Cotroceni-palotánál található Lacul Tineretului festői környezetet biztosít a szabadidőhöz és a pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "A Cotroceni-palota környékén lévő Lacul Plumbuita idilli tó a vízparti pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lacul Fundeni",
-                  "text": "A Cotroceni-palota melletti Fundeni-tó nyugodt vízfelületet kínál a pihenni vágyóknak.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
-                  ]
-            },
-            {
-                  "name": "Parc",
-                  "text": "A Cotroceni-palotánál lévő park egy szép játszótér, ahol a gyermekek biztonságban játszhatnak.",
-                  "category": "family",
-                  "coords": [
-                        26.084353,
-                        44.416817
                   ]
             },
             {
@@ -22192,30 +16063,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina Lido",
-                  "text": "Piscina Lido egy úszómedence Bucharest városában, amely ideális egy frissítő családi úszáshoz.",
-                  "category": "family",
-                  "coords": [
-                        26.098644,
-                        44.441286
-                  ]
-            },
-            {
                   "name": "\"Maria Filotti\" Memorial Collection",
                   "text": "Bukaresti gyűjtemény, amely a híres román színésznő, Maria Filotti örökségét őrzi.",
                   "category": "museum",
                   "coords": [
                         26.083925,
                         44.435791
-                  ]
-            },
-            {
-                  "name": "\"George Enescu\" National Museum",
-                  "text": "Ez a múzeum a híres román zeneszerző, George Enescu életének és munkásságának van szentelve.",
-                  "category": "museum",
-                  "coords": [
-                        26.088338,
-                        44.448711
                   ]
             }
       ],
@@ -22269,105 +16122,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
-                  "text": "Acest muzeu găzduiește o valoroasă colecție de numismatică și artefacte arheologice.",
-                  "category": "museum",
-                  "coords": [
-                        26.092928,
-                        44.447424
-                  ]
-            },
-            {
-                  "name": "Muzeul Colecțiilor de Artă",
-                  "text": "Muzeul Colecțiilor de Artă expune diverse donații private de artă într-un palat istoric.",
-                  "category": "museum",
-                  "coords": [
-                        26.091422,
-                        44.444637
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Artă al României",
-                  "text": "Situat în fostul Palat Regal, acest muzeu deține colecții importante de artă românească și europeană.",
-                  "category": "museum",
-                  "coords": [
-                        26.095788,
-                        44.440074
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Artă Contemporană",
-                  "text": "Acest muzeu, situat în Palatul Parlamentului, este dedicat artei moderne și contemporane.",
-                  "category": "museum",
-                  "coords": [
-                        26.086631,
-                        44.428136
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Țăranului Român",
-                  "text": "Acest muzeu expune o bogată colecție de artă populară și obiecte culturale tradiționale românești.",
-                  "category": "museum",
-                  "coords": [
-                        26.083983,
-                        44.454423
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Istorie",
-                  "text": "Muzeul prezintă istoria României din timpurile preistorice până în epoca modernă.",
-                  "category": "museum",
-                  "coords": [
-                        26.097209,
-                        44.431488
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
-                  "text": "Acesta este unul dintre cele mai populare muzee din București, dedicat istoriei naturale și biodiversității.",
-                  "category": "museum",
-                  "coords": [
-                        26.084627,
-                        44.453096
-                  ]
-            },
-            {
-                  "name": "Muzeul Național Geologic",
-                  "text": "Muzeul expune colecții vaste de minerale, roci și fosile din România.",
-                  "category": "museum",
-                  "coords": [
-                        26.085221,
-                        44.454817
-                  ]
-            },
-            {
-                  "name": "Palatul Crețulescu",
-                  "text": "Acest palat istoric este un reper arhitectural situat în apropierea Grădinii Cișmigiu.",
-                  "category": "castle",
-                  "coords": [
-                        26.088721,
-                        44.439531
-                  ]
-            },
-            {
-                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
-                  "text": "Acesta este singurul observator astronomic public din București, deschis pentru observații cerești.",
-                  "category": "museum",
-                  "coords": [
-                        26.092891,
-                        44.448526
-                  ]
-            },
-            {
-                  "name": "Palatul Bragadiru",
-                  "text": "Un complex arhitectural impresionant construit în stil eclectic, utilizat pentru evenimente culturale.",
-                  "category": "castle",
-                  "coords": [
-                        26.087123,
-                        44.421534
-                  ]
-            },
-            {
                   "name": "Palatul Știrbei",
                   "text": "Un palat istoric de pe Calea Victoriei, reprezentând un exemplu important al moștenirii nobiliare a Bucureștiului.",
                   "category": "castle",
@@ -22413,15 +16167,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Memorialul Renașterii",
-                  "text": "Acest monument comemorează victimele Revoluției Române din 1989.",
-                  "category": "historical",
-                  "coords": [
-                        26.097454,
-                        44.438889
-                  ]
-            },
-            {
                   "name": "Monumentul Infanteristului",
                   "text": "O statuie de bronz dedicată soldaților de infanterie care au luptat în Primul Război Mondial.",
                   "category": "historical",
@@ -22458,15 +16203,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Primăria Sector 1",
-                  "text": "Sediul administrativ al primului sector din București, găzduit într-o clădire remarcabilă.",
-                  "category": "historical",
-                  "coords": [
-                        26.073845,
-                        44.453843
-                  ]
-            },
-            {
                   "name": "Primăria Municipiului București",
                   "text": "Sediul Primăriei Municipiului București, situat într-un palat istoric monumental.",
                   "category": "historical",
@@ -22485,75 +16221,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Mănăstirea Mihai Vodă",
-                  "text": "Una dintre cele mai vechi biserici supraviețuitoare din București, mutată de pe amplasamentul original în anii '80.",
-                  "category": "religious",
-                  "coords": [
-                        26.093308,
-                        44.431554
-                  ]
-            },
-            {
                   "name": "Teatrul Odeon",
                   "text": "Un teatru de renume din București, situat într-o clădire istorică pe Calea Victoriei.",
                   "category": "cultural",
                   "coords": [
                         26.098947,
                         44.435998
-                  ]
-            },
-            {
-                  "name": "Mănăstirea Antim",
-                  "text": "Un complex monahal istoric cunoscut pentru arhitectura sa unică și semnificația religioasă.",
-                  "category": "religious",
-                  "coords": [
-                        26.093471,
-                        44.426009
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
-                  "text": "O biserică ortodoxă dedicată Sfinților Constantin și Elena, situată în capitală.",
-                  "category": "religious",
-                  "coords": [
-                        26.084835,
-                        44.436278
-                  ]
-            },
-            {
-                  "name": "Catedrala romano-catolică Sfântul Iosif",
-                  "text": "Principalul lăcaș de cult romano-catolic din București și un monument arhitectural remarcabil.",
-                  "category": "religious",
-                  "coords": [
-                        26.091383,
-                        44.442105
-                  ]
-            },
-            {
-                  "name": "Biserica „Sfântul Ilie” - Gorgani",
-                  "text": "O biserică ortodoxă istorică construită pe o mică colină, cunoscută pentru atmosfera sa spirituală.",
-                  "category": "religious",
-                  "coords": [
-                        26.09123,
-                        44.433997
-                  ]
-            },
-            {
-                  "name": "Biserica Doamnei",
-                  "text": "O biserică ortodoxă din secolul al XVII-lea ascunsă în centrul Bucureștiului, cunoscută pentru sculpturile fine în piatră.",
-                  "category": "religious",
-                  "coords": [
-                        26.098946,
-                        44.434535
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă \"Amzei\"",
-                  "text": "O biserică ortodoxă emblematică din București, situată în zona Pieței Amzei.",
-                  "category": "religious",
-                  "coords": [
-                        26.09385,
-                        44.444414
                   ]
             },
             {
@@ -22575,39 +16248,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Mănăstirii \"Stavropoleos\"",
-                  "text": "O bijuterie a arhitecturii brâncovenești, această mică biserică este celebră pentru sculpturile sale detaliate în piatră și lemn.",
-                  "category": "religious",
-                  "coords": [
-                        26.098827,
-                        44.431785
-                  ]
-            },
-            {
                   "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
                   "text": "O biserică ortodoxă din București dedicată Sfântului Gheorghe, care servește comunitatea locală.",
                   "category": "religious",
                   "coords": [
                         26.072921,
                         44.440976
-                  ]
-            },
-            {
-                  "name": "Biserica Albă",
-                  "text": "Cunoscută sub numele de „Biserica Albă”, este un reper ortodox important de pe Calea Victoriei.",
-                  "category": "religious",
-                  "coords": [
-                        26.094866,
-                        44.442076
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
-                  "text": "O biserică ortodoxă istorică de pe Calea Victoriei, dedicată Sfântului Vasile cel Mare.",
-                  "category": "religious",
-                  "coords": [
-                        26.089334,
-                        44.448881
                   ]
             },
             {
@@ -22665,24 +16311,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Rotonda Scriitorilor",
-                  "text": "O alee circulară din Grădina Cișmigiu care cuprinde busturile unor scriitori români proeminenți.",
-                  "category": "landmark",
-                  "coords": [
-                        26.089158,
-                        44.436757
-                  ]
-            },
-            {
-                  "name": "Ateneul Român",
-                  "text": "Cea mai prestigioasă sală de concerte din București și un simbol al culturii române.",
-                  "category": "landmark",
-                  "coords": [
-                        26.097361,
-                        44.441368
-                  ]
-            },
-            {
                   "name": "Sala Palatului",
                   "text": "O sală mare de conferințe și concerte situată în spatele Muzeului Național de Artă.",
                   "category": "landmark",
@@ -22710,33 +16338,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Dealul Arsenalului",
-                  "text": "Un deal istoric din București pe care se află în prezent Palatul Parlamentului.",
-                  "category": "natural",
-                  "coords": [
-                        26.078037,
-                        44.425748
-                  ]
-            },
-            {
-                  "name": "Parcul Izvor",
-                  "text": "Un parc public spațios din centrul Bucureștiului, situat lângă Palatul Parlamentului.",
-                  "category": "park",
-                  "coords": [
-                        26.087567,
-                        44.431811
-                  ]
-            },
-            {
-                  "name": "Parcul Cișmigiu",
-                  "text": "Cea mai veche grădină publică din București, cunoscută pentru lacul și aleile sale.",
-                  "category": "park",
-                  "coords": [
-                        26.090355,
-                        44.437217
-                  ]
-            },
-            {
                   "name": "Lacul Morii",
                   "text": "Lacul Morii de lângă Palatul Cotroceni este un lac întins, ideal pentru plimbări lungi pe malul apei.",
                   "category": "natural",
@@ -22755,102 +16356,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Băneasa",
-                  "text": "Lacul Băneasa de lângă Palatul Cotroceni este un loc frumos pentru iubitorii de natură și plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Bazin decantare",
-                  "text": "Bazin decantare de la Palatul Cotroceni este o acumulare de apă liniștită într-un cadru de parc urban.",
-                  "category": "natural",
-                  "coords": [
-                        26.001661,
-                        44.444654
-                  ]
-            },
-            {
                   "name": "Bazin apa Cotroceni",
                   "text": "Bazin apa Cotroceni de la Palatul Cotroceni este o suprafață de apă situată în zona parcului.",
                   "category": "natural",
                   "coords": [
                         26.057237,
                         44.435057
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "Lacul Grivița de lângă Palatul Cotroceni invită la plimbări relaxante într-un cadru natural.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Lacul IOR de la Palatul Cotroceni este un lac popular pentru activități recreative și relaxare în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "Lacul Herăstrău de lângă Palatul Cotroceni este o destinație cunoscută pentru plimbări și recreere în natură.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "Balta Pipera de lângă Palatul Cotroceni este un lac liniștit, ce oferă o mică evadare din viața urbană.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "Lacul Tineretului de la Palatul Cotroceni oferă un cadru pitoresc pentru timp liber și relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Lacul Plumbuita de lângă Palatul Cotroceni este un lac idilic pentru momente de relaxare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lacul Fundeni",
-                  "text": "Lacul Fundeni de lângă Palatul Cotroceni oferă o suprafață de apă liniștită pentru relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
-                  ]
-            },
-            {
-                  "name": "Parc",
-                  "text": "Parcul de la Palatul Cotroceni este un loc de joacă frumos, unde copiii se pot juca în siguranță.",
-                  "category": "family",
-                  "coords": [
-                        26.084353,
-                        44.416817
                   ]
             },
             {
@@ -22971,30 +16482,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina Lido",
-                  "text": "Piscina Lido este o piscină din Bucharest ideală pentru o baie revigorantă în familie.",
-                  "category": "family",
-                  "coords": [
-                        26.098644,
-                        44.441286
-                  ]
-            },
-            {
                   "name": "\"Maria Filotti\" Memorial Collection",
                   "text": "O colecție memorială din București ce păstrează moștenirea faimoasei actrițe române Maria Filotti.",
                   "category": "museum",
                   "coords": [
                         26.083925,
                         44.435791
-                  ]
-            },
-            {
-                  "name": "\"George Enescu\" National Museum",
-                  "text": "Acest muzeu este dedicat vieții și creației celebrului compozitor român George Enescu.",
-                  "category": "museum",
-                  "coords": [
-                        26.088338,
-                        44.448711
                   ]
             }
       ],
@@ -23048,105 +16541,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "\"Maria and Dr. George Severeanu\" Collection",
-                  "text": "This museum houses a valuable collection of numismatics and archaeological artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        26.092928,
-                        44.447424
-                  ]
-            },
-            {
-                  "name": "Art Collections Museum",
-                  "text": "The Art Collections Museum exhibits diverse private art donations in a historic palace.",
-                  "category": "museum",
-                  "coords": [
-                        26.091422,
-                        44.444637
-                  ]
-            },
-            {
-                  "name": "National Museum of Art of Romania",
-                  "text": "Located in the former Royal Palace, this museum features significant Romanian and European art.",
-                  "category": "museum",
-                  "coords": [
-                        26.095788,
-                        44.440074
-                  ]
-            },
-            {
-                  "name": "National Museum of Contemporary Art",
-                  "text": "This museum, located in the Palace of the Parliament, is dedicated to modern and contemporary art.",
-                  "category": "museum",
-                  "coords": [
-                        26.086631,
-                        44.428136
-                  ]
-            },
-            {
-                  "name": "National Museum of the Romanian Peasant",
-                  "text": "This museum displays a rich collection of traditional Romanian folk art and cultural artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        26.083983,
-                        44.454423
-                  ]
-            },
-            {
-                  "name": "National History Museum",
-                  "text": "The museum showcases the history of Romania from prehistoric times to the modern era.",
-                  "category": "museum",
-                  "coords": [
-                        26.097209,
-                        44.431488
-                  ]
-            },
-            {
-                  "name": "\"Grigore Antipa\" Natural History National Museum",
-                  "text": "This is one of the most popular museums in Bucharest, dedicated to natural history and biodiversity.",
-                  "category": "museum",
-                  "coords": [
-                        26.084627,
-                        44.453096
-                  ]
-            },
-            {
-                  "name": "National Geological Museum",
-                  "text": "The museum displays extensive collections of minerals, rocks, and fossils from Romania.",
-                  "category": "museum",
-                  "coords": [
-                        26.085221,
-                        44.454817
-                  ]
-            },
-            {
-                  "name": "Kretzulescu Palace",
-                  "text": "This historic palace is an architectural landmark located near the Cismigiu Gardens.",
-                  "category": "castle",
-                  "coords": [
-                        26.088721,
-                        44.439531
-                  ]
-            },
-            {
-                  "name": "\"Admiral Vasile Urseanu\" Bucharest City Observatory",
-                  "text": "This is the only public astronomical observatory in Bucharest, open for celestial observations.",
-                  "category": "museum",
-                  "coords": [
-                        26.092891,
-                        44.448526
-                  ]
-            },
-            {
-                  "name": "Palatul Bragadiru",
-                  "text": "An impressive architectural complex built in the eclectic style, used for cultural events.",
-                  "category": "castle",
-                  "coords": [
-                        26.087123,
-                        44.421534
-                  ]
-            },
-            {
                   "name": "Palatul Știrbei",
                   "text": "A historic palace on Victory Avenue, representing an important example of Bucharest's noble heritage.",
                   "category": "castle",
@@ -23192,15 +16586,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Memorial of Rebirth",
-                  "text": "This monument commemorates the victims of the 1989 Romanian Revolution.",
-                  "category": "historical",
-                  "coords": [
-                        26.097454,
-                        44.438889
-                  ]
-            },
-            {
                   "name": "Monumentul Infanteristului",
                   "text": "A bronze statue dedicated to the infantry soldiers who fought in World War I.",
                   "category": "historical",
@@ -23237,15 +16622,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "District 1 City Hall",
-                  "text": "The administrative headquarters for the first district of Bucharest, housed in a notable building.",
-                  "category": "historical",
-                  "coords": [
-                        26.073845,
-                        44.453843
-                  ]
-            },
-            {
                   "name": "Primăria Municipiului București",
                   "text": "The headquarters of the Bucharest City Hall, located in a monumental historic palace.",
                   "category": "historical",
@@ -23264,75 +16640,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Mănăstirea Mihai Vodă",
-                  "text": "One of the oldest surviving churches in Bucharest, moved from its original site in the 1980s.",
-                  "category": "religious",
-                  "coords": [
-                        26.093308,
-                        44.431554
-                  ]
-            },
-            {
                   "name": "Odeon Teathre",
                   "text": "A prominent theater in Bucharest, located in a historic building on Victory Avenue.",
                   "category": "cultural",
                   "coords": [
                         26.098947,
                         44.435998
-                  ]
-            },
-            {
-                  "name": "Antim Monastery",
-                  "text": "A historic monastic complex known for its unique architecture and religious significance.",
-                  "category": "religious",
-                  "coords": [
-                        26.093471,
-                        44.426009
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
-                  "text": "An Orthodox church dedicated to Saints Constantine and Helen, located in the capital.",
-                  "category": "religious",
-                  "coords": [
-                        26.084835,
-                        44.436278
-                  ]
-            },
-            {
-                  "name": "Catedrala romano-catolică Sfântul Iosif",
-                  "text": "The main Roman Catholic place of worship in Bucharest and a notable architectural monument.",
-                  "category": "religious",
-                  "coords": [
-                        26.091383,
-                        44.442105
-                  ]
-            },
-            {
-                  "name": "Biserica „Sfântul Ilie” - Gorgani",
-                  "text": "A historic Orthodox church built on a small hill, known for its spiritual atmosphere.",
-                  "category": "religious",
-                  "coords": [
-                        26.09123,
-                        44.433997
-                  ]
-            },
-            {
-                  "name": "Biserica Doamnei",
-                  "text": "A 17th-century Orthodox church tucked away in central Bucharest, known for its fine stone carvings.",
-                  "category": "religious",
-                  "coords": [
-                        26.098946,
-                        44.434535
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă \"Amzei\"",
-                  "text": "A landmark Orthodox church in Bucharest, located in the Amzei Market area.",
-                  "category": "religious",
-                  "coords": [
-                        26.09385,
-                        44.444414
                   ]
             },
             {
@@ -23354,39 +16667,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Mănăstirii \"Stavropoleos\"",
-                  "text": "A gem of Brancovenesc architecture, this small church is famous for its intricate stone and wood carvings.",
-                  "category": "religious",
-                  "coords": [
-                        26.098827,
-                        44.431785
-                  ]
-            },
-            {
                   "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
                   "text": "An Orthodox church in Bucharest dedicated to Saint George, serving the local community.",
                   "category": "religious",
                   "coords": [
                         26.072921,
                         44.440976
-                  ]
-            },
-            {
-                  "name": "Biserica Albă",
-                  "text": "Known as \"The White Church,\" it is a significant Orthodox landmark on Victory Avenue.",
-                  "category": "religious",
-                  "coords": [
-                        26.094866,
-                        44.442076
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
-                  "text": "A historic Orthodox church on Victory Avenue dedicated to Saint Basil the Great.",
-                  "category": "religious",
-                  "coords": [
-                        26.089334,
-                        44.448881
                   ]
             },
             {
@@ -23444,24 +16730,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Rotonda Scriitorilor",
-                  "text": "A circular alley in Cismigiu Gardens featuring busts of prominent Romanian writers.",
-                  "category": "landmark",
-                  "coords": [
-                        26.089158,
-                        44.436757
-                  ]
-            },
-            {
-                  "name": "Romanian Atheneum",
-                  "text": "Bucharest's most prestigious concert hall and a symbol of Romanian culture.",
-                  "category": "landmark",
-                  "coords": [
-                        26.097361,
-                        44.441368
-                  ]
-            },
-            {
                   "name": "Sala Palatului",
                   "text": "A large conference and concert hall located behind the National Museum of Art.",
                   "category": "landmark",
@@ -23489,33 +16757,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Dealul Arsenalului",
-                  "text": "A historic hill in Bucharest where the Palace of the Parliament is currently located.",
-                  "category": "natural",
-                  "coords": [
-                        26.078037,
-                        44.425748
-                  ]
-            },
-            {
-                  "name": "Izvor Park",
-                  "text": "A spacious public park in central Bucharest, located near the Palace of the Parliament.",
-                  "category": "park",
-                  "coords": [
-                        26.087567,
-                        44.431811
-                  ]
-            },
-            {
-                  "name": "Cișmigiu Gardens",
-                  "text": "The oldest public garden in Bucharest, known for its lake and walking paths.",
-                  "category": "park",
-                  "coords": [
-                        26.090355,
-                        44.437217
-                  ]
-            },
-            {
                   "name": "Lacul Morii",
                   "text": "Lacul Morii near Cotroceni Palace is a large lake, perfect for long walks by the water.",
                   "category": "natural",
@@ -23534,102 +16775,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lake Băneasa",
-                  "text": "Lake Băneasa near Cotroceni Palace is a lovely spot for nature lovers and walkers.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Bazin decantare",
-                  "text": "Bazin decantare at Cotroceni Palace is a calm body of water within an urban park setting.",
-                  "category": "natural",
-                  "coords": [
-                        26.001661,
-                        44.444654
-                  ]
-            },
-            {
                   "name": "Bazin apa Cotroceni",
                   "text": "Bazin apa Cotroceni at Cotroceni Palace is a water feature located within the park grounds.",
                   "category": "natural",
                   "coords": [
                         26.057237,
                         44.435057
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "Lacul Grivița near Cotroceni Palace invites visitors for relaxing walks in a natural setting.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Lacul IOR at Cotroceni Palace is a popular lake for leisure activities and outdoor relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "Lacul Herăstrău near Cotroceni Palace is a well-known destination for walks and enjoying nature.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "Balta Pipera near Cotroceni Palace is a quiet lake that offers a brief escape from urban life.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "Lacul Tineretului at Cotroceni Palace provides a scenic backdrop for leisure and relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Lacul Plumbuita near Cotroceni Palace is an idyllic lake for relaxing hours by the water.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lake Fundeni",
-                  "text": "Lake Fundeni near Cotroceni Palace offers a calm body of water for those seeking relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
-                  ]
-            },
-            {
-                  "name": "Parc",
-                  "text": "Parc at Cotroceni Palace is a lovely playground where children can play and have fun safely.",
-                  "category": "family",
-                  "coords": [
-                        26.084353,
-                        44.416817
                   ]
             },
             {
@@ -23750,30 +16901,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina Lido",
-                  "text": "Piscina Lido is a swimming pool in Bucharest ideal for a refreshing family swim.",
-                  "category": "family",
-                  "coords": [
-                        26.098644,
-                        44.441286
-                  ]
-            },
-            {
                   "name": "\"Maria Filotti\" Memorial Collection",
                   "text": "A collection in Bucharest preserving the legacy of the famous Romanian actress Maria Filotti.",
                   "category": "museum",
                   "coords": [
                         26.083925,
                         44.435791
-                  ]
-            },
-            {
-                  "name": "\"George Enescu\" National Museum",
-                  "text": "This museum is dedicated to the life and work of the famous Romanian composer George Enescu.",
-                  "category": "museum",
-                  "coords": [
-                        26.088338,
-                        44.448711
                   ]
             }
       ]
@@ -23834,15 +16967,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "IQM TechnoPark",
-                  "text": "Ein modernes Technologiezentrum und eine Attraktion.",
-                  "category": "landmark",
-                  "coords": [
-                        26.064001,
-                        44.587984
-                  ]
-            },
-            {
                   "name": "Biserica Preoțești",
                   "text": "Eine lokale orthodoxe Kirche.",
                   "category": "religious",
@@ -23861,39 +16985,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tâncăbești 2",
-                  "text": "Ein See mit schöner Aussicht in der Nähe der Therme Bukarest.",
-                  "category": "natural",
-                  "coords": [
-                        26.067923,
-                        44.672438
-                  ]
-            },
-            {
-                  "name": "Tâncăbești",
-                  "text": "Ein malerischer See in der Umgebung der Therme Bukarest.",
-                  "category": "natural",
-                  "coords": [
-                        26.048918,
-                        44.674839
-                  ]
-            },
-            {
                   "name": "Lacul Vlasia",
                   "text": "Ein See mit friedlicher Landschaft in der Nähe der Therme Bukarest.",
                   "category": "natural",
                   "coords": [
                         26.076743,
                         44.646594
-                  ]
-            },
-            {
-                  "name": "Lacul Snagov",
-                  "text": "Ein großer See, ideal für die Aussicht und zum Spazierengehen in der Nähe der Therme Bukarest.",
-                  "category": "natural",
-                  "coords": [
-                        26.14178,
-                        44.706596
                   ]
             },
             {
@@ -23945,15 +17042,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "IQM TechnoPark",
-                  "text": "Modern technológiai központ és látványosság.",
-                  "category": "landmark",
-                  "coords": [
-                        26.064001,
-                        44.587984
-                  ]
-            },
-            {
                   "name": "Biserica Preoțești",
                   "text": "Helyi ortodox templom.",
                   "category": "religious",
@@ -23972,39 +17060,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tâncăbești 2",
-                  "text": "Szép kilátást nyújtó tó a bukaresti Therme közelében.",
-                  "category": "natural",
-                  "coords": [
-                        26.067923,
-                        44.672438
-                  ]
-            },
-            {
-                  "name": "Tâncăbești",
-                  "text": "Festői tó a bukaresti Therme környékén.",
-                  "category": "natural",
-                  "coords": [
-                        26.048918,
-                        44.674839
-                  ]
-            },
-            {
                   "name": "Lacul Vlasia",
                   "text": "Nyugodt környezetet kínáló tó a bukaresti Therme közelében.",
                   "category": "natural",
                   "coords": [
                         26.076743,
                         44.646594
-                  ]
-            },
-            {
-                  "name": "Lacul Snagov",
-                  "text": "Nagy tó, amely ideális nézelődésre és sétálásra a bukaresti Therme közelében.",
-                  "category": "natural",
-                  "coords": [
-                        26.14178,
-                        44.706596
                   ]
             },
             {
@@ -24056,15 +17117,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "IQM TechnoPark",
-                  "text": "Un centru tehnologic modern și punct de atracție.",
-                  "category": "landmark",
-                  "coords": [
-                        26.064001,
-                        44.587984
-                  ]
-            },
-            {
                   "name": "Biserica Preoțești",
                   "text": "O biserică ortodoxă locală.",
                   "category": "religious",
@@ -24083,39 +17135,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tâncăbești 2",
-                  "text": "Un lac care oferă vederi pitorești lângă Therme București.",
-                  "category": "natural",
-                  "coords": [
-                        26.067923,
-                        44.672438
-                  ]
-            },
-            {
-                  "name": "Tâncăbești",
-                  "text": "Un lac pitoresc situat în vecinătatea Therme București.",
-                  "category": "natural",
-                  "coords": [
-                        26.048918,
-                        44.674839
-                  ]
-            },
-            {
                   "name": "Lacul Vlasia",
                   "text": "Un lac care oferă un peisaj liniștit lângă Therme București.",
                   "category": "natural",
                   "coords": [
                         26.076743,
                         44.646594
-                  ]
-            },
-            {
-                  "name": "Lacul Snagov",
-                  "text": "Un lac mare, ideal pentru peisaj și plimbări lângă Therme București.",
-                  "category": "natural",
-                  "coords": [
-                        26.14178,
-                        44.706596
                   ]
             },
             {
@@ -24167,15 +17192,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "IQM TechnoPark",
-                  "text": "A modern technology park and attraction.",
-                  "category": "landmark",
-                  "coords": [
-                        26.064001,
-                        44.587984
-                  ]
-            },
-            {
                   "name": "Biserica Preoțești",
                   "text": "A local Orthodox church.",
                   "category": "religious",
@@ -24194,39 +17210,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tâncăbești 2",
-                  "text": "A lake providing scenic views near the Therme Bucharest.",
-                  "category": "natural",
-                  "coords": [
-                        26.067923,
-                        44.672438
-                  ]
-            },
-            {
-                  "name": "Tâncăbești",
-                  "text": "A scenic lake located in the Therme Bucharest vicinity.",
-                  "category": "natural",
-                  "coords": [
-                        26.048918,
-                        44.674839
-                  ]
-            },
-            {
                   "name": "Lacul Vlasia",
                   "text": "A lake offering peaceful scenery near Therme Bucharest.",
                   "category": "natural",
                   "coords": [
                         26.076743,
                         44.646594
-                  ]
-            },
-            {
-                  "name": "Lake Snagov",
-                  "text": "A large lake ideal for scenery and walking near Therme Bucharest.",
-                  "category": "natural",
-                  "coords": [
-                        26.14178,
-                        44.706596
                   ]
             },
             {
@@ -24307,33 +17296,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Acumularea Aroneanu",
-                  "text": "Acumularea Aroneanu ist ein See bei Palas Iași, der sich gut für Erholung im Freien eignet.",
-                  "category": "natural",
-                  "coords": [
-                        27.594207,
-                        47.201347
-                  ]
-            },
-            {
-                  "name": "Acumularea Dorobanț",
-                  "text": "Acumularea Dorobanț ist ein See bei Palas Iași, der eine schöne Kulisse für Spaziergänge bietet.",
-                  "category": "natural",
-                  "coords": [
-                        27.588105,
-                        47.222835
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric I",
-                  "text": "Der Lacul Ciric I ist ein See bei Palas Iași, bekannt als Ort für Freizeit und Entspannung.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
                   "name": "Lacul Veneția",
                   "text": "Der Lacul Veneția ist ein kleiner See bei Palas Iași, der zum Verweilen in der Natur einlädt.",
                   "category": "natural",
@@ -24343,48 +17305,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Chirița",
-                  "text": "Der Lacul Chirița ist ein See bei Palas Iași, der die lokale Landschaft bereichert.",
-                  "category": "natural",
-                  "coords": [
-                        27.64925,
-                        47.172277
-                  ]
-            },
-            {
                   "name": "Doi Peri",
                   "text": "Doi Peri ist ein See bei Palas Iași, ein ruhiger Ort für Naturliebhaber.",
                   "category": "natural",
                   "coords": [
                         27.607414,
                         47.129279
-                  ]
-            },
-            {
-                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
-                  "text": "Dieser See im Botanischen Garten Anastasie Fătu bei Palas Iași bietet eine idyllische Atmosphäre.",
-                  "category": "natural",
-                  "coords": [
-                        27.548701,
-                        47.185717
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "Der Lacul Ciric II ist ein See bei Palas Iași, ideal für Ausflüge in die Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
-                  ]
-            },
-            {
-                  "name": "De-a dura",
-                  "text": "De-a dura ist ein Spielplatz bei Palas Iași, der Kindern Raum zum Toben und Spielen bietet.",
-                  "category": "family",
-                  "coords": [
-                        27.57682,
-                        47.177907
                   ]
             },
             {
@@ -24421,69 +17347,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         27.595894,
                         47.144661
-                  ]
-            },
-            {
-                  "name": "Playground bloc 260",
-                  "text": "Der Playground bloc 260 bei Palas Iași ist ein lokaler Spielbereich für Familien.",
-                  "category": "family",
-                  "coords": [
-                        27.556029,
-                        47.167581
-                  ]
-            },
-            {
-                  "name": "Irinel Nistor",
-                  "text": "Irinel Nistor ist ein Spielplatz bei Palas Iași, der sich gut für kurze Freizeitpausen eignet.",
-                  "category": "family",
-                  "coords": [
-                        27.559367,
-                        47.161644
-                  ]
-            },
-            {
-                  "name": "Teren minigolf",
-                  "text": "Dieser Minigolfplatz bei Palas Iași bietet Unterhaltung und Geschicklichkeitstraining für alle Altersgruppen.",
-                  "category": "family",
-                  "coords": [
-                        27.604536,
-                        47.179435
-                  ]
-            },
-            {
-                  "name": "Playground blocuri 258",
-                  "text": "Der Playground blocuri 258 bei Palas Iași ist ein praktischer Spielort für Familien in der Nähe.",
-                  "category": "family",
-                  "coords": [
-                        27.55503,
-                        47.168532
-                  ]
-            },
-            {
-                  "name": "Parc bloc R5",
-                  "text": "Parc bloc R5 ist ein Spielplatz bei Palas Iași, der eine einfache Möglichkeit zum Spielen im Freien bietet.",
-                  "category": "family",
-                  "coords": [
-                        27.553562,
-                        47.168323
-                  ]
-            },
-            {
-                  "name": "Oscar SPA",
-                  "text": "Oscar SPA im Palas Iasi verfügt über ein Schwimmbad zur Erholung.",
-                  "category": "family",
-                  "coords": [
-                        27.579615,
-                        47.171004
-                  ]
-            },
-            {
-                  "name": "Tiki Village",
-                  "text": "Tiki Village im Palas Iasi ist ein Resort für das Schwimmen im Freien.",
-                  "category": "family",
-                  "coords": [
-                        27.615374,
-                        47.165891
                   ]
             },
             {
@@ -24528,33 +17391,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Aroneanu gyűjtő",
-                  "text": "Az Acumularea Aroneanu egy tó a Palas Iași közelében, amely kiválóan alkalmas szabadtéri kikapcsolódásra.",
-                  "category": "natural",
-                  "coords": [
-                        27.594207,
-                        47.201347
-                  ]
-            },
-            {
-                  "name": "Acumularea Dorobanț",
-                  "text": "Az Acumularea Dorobanț egy tó a Palas Iași közelében, amely szép hátteret biztosít a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        27.588105,
-                        47.222835
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric I",
-                  "text": "A Lacul Ciric I egy tó a Palas Iași közelében, amely szabadidős és pihenőhelyként ismert.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
                   "name": "Lacul Veneția",
                   "text": "A Lacul Veneția egy kis tó a Palas Iași közelében, amely természetközeli időtöltésre hívogat.",
                   "category": "natural",
@@ -24564,48 +17400,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Chirița",
-                  "text": "A Lacul Chirița egy tó a Palas Iași közelében, amely gazdagítja a helyi tájat.",
-                  "category": "natural",
-                  "coords": [
-                        27.64925,
-                        47.172277
-                  ]
-            },
-            {
                   "name": "Doi Peri",
                   "text": "A Doi Peri egy tó a Palas Iași közelében, csendes hely a természet kedvelőinek.",
                   "category": "natural",
                   "coords": [
                         27.607414,
                         47.129279
-                  ]
-            },
-            {
-                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
-                  "text": "Ez a tó a Palas Iași melletti Anastasie Fătu Botanikus Kertben idilli hangulatot áraszt.",
-                  "category": "natural",
-                  "coords": [
-                        27.548701,
-                        47.185717
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "A Lacul Ciric II egy tó a Palas Iași közelében, ideális a környékbeli kirándulásokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
-                  ]
-            },
-            {
-                  "name": "De-a dura",
-                  "text": "A De-a dura egy játszótér a Palas Iași területén, amely teret ad a gyerekeknek a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        27.57682,
-                        47.177907
                   ]
             },
             {
@@ -24642,69 +17442,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         27.595894,
                         47.144661
-                  ]
-            },
-            {
-                  "name": "Playground bloc 260",
-                  "text": "A Playground bloc 260 a Palas Iași területén egy helyi játszótér családok számára.",
-                  "category": "family",
-                  "coords": [
-                        27.556029,
-                        47.167581
-                  ]
-            },
-            {
-                  "name": "Irinel Nistor",
-                  "text": "Az Irinel Nistor egy játszótér a Palas Iași területén, amely kiválóan alkalmas rövid pihenőkre.",
-                  "category": "family",
-                  "coords": [
-                        27.559367,
-                        47.161644
-                  ]
-            },
-            {
-                  "name": "Teren minigolf",
-                  "text": "Ez a minigolfpálya a Palas Iași területén szórakozást és ügyességi tréninget kínál minden korosztálynak.",
-                  "category": "family",
-                  "coords": [
-                        27.604536,
-                        47.179435
-                  ]
-            },
-            {
-                  "name": "Playground blocuri 258",
-                  "text": "A Playground blocuri 258 a Palas Iași területén praktikus játszóhely a közelben lakó családoknak.",
-                  "category": "family",
-                  "coords": [
-                        27.55503,
-                        47.168532
-                  ]
-            },
-            {
-                  "name": "Parc bloc R5",
-                  "text": "A Parc bloc R5 egy játszótér a Palas Iași területén, amely egyszerű lehetőséget nyújt a szabadtéri játékra.",
-                  "category": "family",
-                  "coords": [
-                        27.553562,
-                        47.168323
-                  ]
-            },
-            {
-                  "name": "Oscar SPA",
-                  "text": "A Palas Iasi-ban található Oscar SPA úszómedencével rendelkezik a kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        27.579615,
-                        47.171004
-                  ]
-            },
-            {
-                  "name": "Tiki Village",
-                  "text": "A Palas Iasi-ban található Tiki Village egy üdülőhely a szabadtéri úszáshoz.",
-                  "category": "family",
-                  "coords": [
-                        27.615374,
-                        47.165891
                   ]
             },
             {
@@ -24749,33 +17486,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Acumularea Aroneanu",
-                  "text": "Acumularea Aroneanu este un lac lângă Palas Iași, potrivit pentru recreere în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        27.594207,
-                        47.201347
-                  ]
-            },
-            {
-                  "name": "Acumularea Dorobanț",
-                  "text": "Acumularea Dorobanț este un lac lângă Palas Iași, oferind un decor frumos pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        27.588105,
-                        47.222835
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric I",
-                  "text": "Lacul Ciric I este un lac lângă Palas Iași, cunoscut ca loc pentru agrement și relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
                   "name": "Lacul Veneția",
                   "text": "Lacul Veneția este un lac mic lângă Palas Iași, invitând la momente de liniște în natură.",
                   "category": "natural",
@@ -24785,48 +17495,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Chirița",
-                  "text": "Lacul Chirița este un lac lângă Palas Iași, care îmbogățește peisajul local.",
-                  "category": "natural",
-                  "coords": [
-                        27.64925,
-                        47.172277
-                  ]
-            },
-            {
                   "name": "Doi Peri",
                   "text": "Doi Peri este un lac lângă Palas Iași, un loc liniștit pentru iubitorii de natură.",
                   "category": "natural",
                   "coords": [
                         27.607414,
                         47.129279
-                  ]
-            },
-            {
-                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
-                  "text": "Acest lac din Grădina Botanică Anastasie Fătu de lângă Palas Iași oferă o atmosferă idilică.",
-                  "category": "natural",
-                  "coords": [
-                        27.548701,
-                        47.185717
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "Lacul Ciric II este un lac lângă Palas Iași, ideal pentru excursii în împrejurimi.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
-                  ]
-            },
-            {
-                  "name": "De-a dura",
-                  "text": "De-a dura este un teren de joacă în Palas Iași, oferind copiilor spațiu pentru joacă și mișcare.",
-                  "category": "family",
-                  "coords": [
-                        27.57682,
-                        47.177907
                   ]
             },
             {
@@ -24863,69 +17537,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         27.595894,
                         47.144661
-                  ]
-            },
-            {
-                  "name": "Playground bloc 260",
-                  "text": "Playground bloc 260 din Palas Iași este un spațiu de joacă local pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        27.556029,
-                        47.167581
-                  ]
-            },
-            {
-                  "name": "Irinel Nistor",
-                  "text": "Irinel Nistor este un teren de joacă în Palas Iași, potrivit pentru scurte pauze de recreere.",
-                  "category": "family",
-                  "coords": [
-                        27.559367,
-                        47.161644
-                  ]
-            },
-            {
-                  "name": "Teren minigolf",
-                  "text": "Acest teren de minigolf din Palas Iași oferă divertisment și antrenament de dexteritate pentru toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        27.604536,
-                        47.179435
-                  ]
-            },
-            {
-                  "name": "Playground blocuri 258",
-                  "text": "Playground blocuri 258 din Palas Iași este un loc de joacă practic pentru familiile din apropiere.",
-                  "category": "family",
-                  "coords": [
-                        27.55503,
-                        47.168532
-                  ]
-            },
-            {
-                  "name": "Parc bloc R5",
-                  "text": "Parc bloc R5 este un teren de joacă în Palas Iași, oferind o opțiune simplă pentru joacă în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        27.553562,
-                        47.168323
-                  ]
-            },
-            {
-                  "name": "Oscar SPA",
-                  "text": "Oscar SPA din Palas Iași dispune de o piscină pentru recreere.",
-                  "category": "family",
-                  "coords": [
-                        27.579615,
-                        47.171004
-                  ]
-            },
-            {
-                  "name": "Tiki Village",
-                  "text": "Tiki Village din Palas Iași este un complex pentru înot în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        27.615374,
-                        47.165891
                   ]
             },
             {
@@ -24970,33 +17581,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Acumularea Aroneanu",
-                  "text": "Acumularea Aroneanu is a lake near Palas Iasi, suitable for outdoor recreation.",
-                  "category": "natural",
-                  "coords": [
-                        27.594207,
-                        47.201347
-                  ]
-            },
-            {
-                  "name": "Acumularea Dorobanț",
-                  "text": "Acumularea Dorobanț is a lake near Palas Iasi, providing a nice backdrop for walks.",
-                  "category": "natural",
-                  "coords": [
-                        27.588105,
-                        47.222835
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric I",
-                  "text": "Lacul Ciric I is a lake near Palas Iasi, known as a spot for leisure and relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
                   "name": "Lacul Veneția",
                   "text": "Lacul Veneția is a small lake near Palas Iasi, inviting nature-focused downtime.",
                   "category": "natural",
@@ -25006,48 +17590,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Chirița",
-                  "text": "Lacul Chirița is a lake near Palas Iasi, enriching the local landscape.",
-                  "category": "natural",
-                  "coords": [
-                        27.64925,
-                        47.172277
-                  ]
-            },
-            {
                   "name": "Doi Peri",
                   "text": "Doi Peri is a lake near Palas Iasi, a quiet spot for nature lovers.",
                   "category": "natural",
                   "coords": [
                         27.607414,
                         47.129279
-                  ]
-            },
-            {
-                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
-                  "text": "This lake in the Anastasie Fatu Botanical Garden near Palas Iasi offers an idyllic atmosphere.",
-                  "category": "natural",
-                  "coords": [
-                        27.548701,
-                        47.185717
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "Lacul Ciric II is a lake near Palas Iasi, ideal for local excursions.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
-                  ]
-            },
-            {
-                  "name": "De-a dura",
-                  "text": "De-a dura is a playground in Palas Iasi, providing space for children to play and move.",
-                  "category": "family",
-                  "coords": [
-                        27.57682,
-                        47.177907
                   ]
             },
             {
@@ -25084,69 +17632,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         27.595894,
                         47.144661
-                  ]
-            },
-            {
-                  "name": "Playground bloc 260",
-                  "text": "Playground bloc 260 in Palas Iasi is a local play area for families.",
-                  "category": "family",
-                  "coords": [
-                        27.556029,
-                        47.167581
-                  ]
-            },
-            {
-                  "name": "Irinel Nistor",
-                  "text": "Irinel Nistor is a playground in Palas Iasi, suitable for short leisure breaks.",
-                  "category": "family",
-                  "coords": [
-                        27.559367,
-                        47.161644
-                  ]
-            },
-            {
-                  "name": "Teren minigolf",
-                  "text": "This minigolf course in Palas Iasi offers entertainment and skill practice for all ages.",
-                  "category": "family",
-                  "coords": [
-                        27.604536,
-                        47.179435
-                  ]
-            },
-            {
-                  "name": "Playground blocuri 258",
-                  "text": "Playground blocuri 258 in Palas Iasi is a convenient play spot for nearby families.",
-                  "category": "family",
-                  "coords": [
-                        27.55503,
-                        47.168532
-                  ]
-            },
-            {
-                  "name": "Parc bloc R5",
-                  "text": "Parc bloc R5 is a playground in Palas Iasi, offering a simple option for outdoor play.",
-                  "category": "family",
-                  "coords": [
-                        27.553562,
-                        47.168323
-                  ]
-            },
-            {
-                  "name": "Oscar SPA",
-                  "text": "Oscar SPA in Palas Iasi features a swimming pool for recreation.",
-                  "category": "family",
-                  "coords": [
-                        27.579615,
-                        47.171004
-                  ]
-            },
-            {
-                  "name": "Tiki Village",
-                  "text": "Tiki Village in Palas Iasi is a resort for outdoor swimming.",
-                  "category": "family",
-                  "coords": [
-                        27.615374,
-                        47.165891
                   ]
             },
             {
@@ -25231,15 +17716,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         24.116125,
                         45.755186
-                  ]
-            },
-            {
-                  "name": "Lacul Binder",
-                  "text": "Binder Lake beim Astra Museum ist ein ruhiger See, der zu erholsamen Spaziergängen in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        24.13421,
-                        45.80997
                   ]
             },
             {
@@ -25345,15 +17821,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Binder",
-                  "text": "Az Astra Múzeumnál található Binder Lake egy nyugodt tó, amely pihentető sétákra hív a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        24.13421,
-                        45.80997
-                  ]
-            },
-            {
                   "name": "Lacul Dumbrava Zoo",
                   "text": "Az Astra Múzeumnál fekvő Lacul Dumbrava Zoo egy festői vízfelület az állatkert közelében.",
                   "category": "natural",
@@ -25456,15 +17923,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Binder",
-                  "text": "Binder Lake de la Muzeul Astra este un lac liniștit, care invită la plimbări relaxante în natură.",
-                  "category": "natural",
-                  "coords": [
-                        24.13421,
-                        45.80997
-                  ]
-            },
-            {
                   "name": "Lacul Dumbrava Zoo",
                   "text": "Lacul Dumbrava Zoo de la Muzeul Astra este o apă pitorească situată în apropierea grădinii zoologice.",
                   "category": "natural",
@@ -25564,15 +18022,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         24.116125,
                         45.755186
-                  ]
-            },
-            {
-                  "name": "Binder Lake",
-                  "text": "Binder Lake near Astra Museum is a calm lake that invites visitors for relaxing walks in nature.",
-                  "category": "natural",
-                  "coords": [
-                        24.13421,
-                        45.80997
                   ]
             },
             {
@@ -27658,15 +20107,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Romulus Vuia Ethnographic Park",
-                  "text": "An open-air museum showcasing the traditional architecture of Transylvania.",
-                  "category": "museum",
-                  "coords": [
-                        23.556109,
-                        46.778176
-                  ]
-            },
-            {
                   "name": "Hungarian State Theatre",
                   "text": "A major cultural institution for Hungarian-language performing arts.",
                   "category": "cultural",
@@ -27718,15 +20158,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         23.575376,
                         46.765194
-                  ]
-            },
-            {
-                  "name": "Wooden church from Chiraleș",
-                  "text": "A traditional wooden church relocated to the ethnographic park.",
-                  "category": "religious",
-                  "coords": [
-                        23.554675,
-                        46.778051
                   ]
             },
             {
@@ -28561,55 +20992,9 @@ export const romaniaCities: POI[] = [
                         27.578157,
                         47.171643
                   ]
-            },
-            {
-                  "name": "Oscar SPA",
-                  "text": "Das Oscar SPA bei der Statue von Stephan dem Großen bietet ein Schwimmbad.",
-                  "category": "family",
-                  "coords": [
-                        27.579615,
-                        47.171004
-                  ]
-            },
-            {
-                  "name": "Tiki Village",
-                  "text": "Tiki Village bei der Statue von Stephan dem Großen ist ein Resort zum Schwimmen.",
-                  "category": "family",
-                  "coords": [
-                        27.615374,
-                        47.165891
-                  ]
-            },
-            {
-                  "name": "LaPlaya Pool",
-                  "text": "Der LaPlaya Pool bei der Statue von Stephan dem Großen bietet Bademöglichkeiten.",
-                  "category": "family",
-                  "coords": [
-                        27.609667,
-                        47.136265
-                  ]
-            },
-            {
-                  "name": "Brizo",
-                  "text": "Brizo bei der Statue von Stephan dem Großen ist ein Resort für die Freizeit am Wasser.",
-                  "category": "family",
-                  "coords": [
-                        27.597545,
-                        47.194716
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Kultúrpalota",
-                  "text": "A szobor mögött magasodó monumentális neogótikus épület, amely Jászvásár legfontosabb múzeumainak ad otthont.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        27.58695,
-                        47.15739
-                  ]
-            },
             {
                   "name": "Szent Miklós fejedelmi templom",
                   "text": "Jászvásár legrégebbi temploma, melyet Nagy István alapított, a moldvai fejedelmek egykori koronázási helyszíne.",
@@ -28980,55 +21365,9 @@ export const romaniaCities: POI[] = [
                         27.578157,
                         47.171643
                   ]
-            },
-            {
-                  "name": "Oscar SPA",
-                  "text": "A Ștefan cel Mare-szobornál található Oscar SPA úszómedencét kínál.",
-                  "category": "family",
-                  "coords": [
-                        27.579615,
-                        47.171004
-                  ]
-            },
-            {
-                  "name": "Tiki Village",
-                  "text": "A Ștefan cel Mare-szobornál található Tiki Village egy üdülőhely az úszáshoz.",
-                  "category": "family",
-                  "coords": [
-                        27.615374,
-                        47.165891
-                  ]
-            },
-            {
-                  "name": "LaPlaya Pool",
-                  "text": "A Ștefan cel Mare-szobornál található LaPlaya Pool úszási lehetőséget kínál.",
-                  "category": "family",
-                  "coords": [
-                        27.609667,
-                        47.136265
-                  ]
-            },
-            {
-                  "name": "Brizo",
-                  "text": "A Ștefan cel Mare-szobornál található Brizo egy üdülőhely a vízi kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        27.597545,
-                        47.194716
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Palatul Culturii",
-                  "text": "Edificiu simbol al orașului, construit în stil neogotic, situat imediat în spatele monumentului lui Ștefan cel Mare.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        27.58695,
-                        47.15739
-                  ]
-            },
             {
                   "name": "Biserica Sfântul Nicolae Domnesc",
                   "text": "Ctitorie a lui Ștefan cel Mare din secolul al XV-lea, fiind cel mai vechi lăcaș de cult păstrat în Iași.",
@@ -29399,55 +21738,9 @@ export const romaniaCities: POI[] = [
                         27.578157,
                         47.171643
                   ]
-            },
-            {
-                  "name": "Oscar SPA",
-                  "text": "Oscar SPA de lângă Statuia lui Ștefan cel Mare oferă o piscină.",
-                  "category": "family",
-                  "coords": [
-                        27.579615,
-                        47.171004
-                  ]
-            },
-            {
-                  "name": "Tiki Village",
-                  "text": "Tiki Village de lângă Statuia lui Ștefan cel Mare este un complex pentru înot.",
-                  "category": "family",
-                  "coords": [
-                        27.615374,
-                        47.165891
-                  ]
-            },
-            {
-                  "name": "LaPlaya Pool",
-                  "text": "Piscina LaPlaya de lângă Statuia lui Ștefan cel Mare oferă posibilități de înot.",
-                  "category": "family",
-                  "coords": [
-                        27.609667,
-                        47.136265
-                  ]
-            },
-            {
-                  "name": "Brizo",
-                  "text": "Brizo de lângă Statuia lui Ștefan cel Mare este un complex pentru recreere la malul apei.",
-                  "category": "family",
-                  "coords": [
-                        27.597545,
-                        47.194716
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Palace of Culture",
-                  "text": "The iconic Neo-Gothic landmark of Iași, located right behind the statue, housing four major national museums.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        27.58695,
-                        47.15739
-                  ]
-            },
             {
                   "name": "Princely Saint Nicholas Church",
                   "text": "The oldest church in Iași, founded by Stephen the Great in the 15th century, located adjacent to the square.",
@@ -29685,24 +21978,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "\"Mihail Kogalniceanu\" Memorial Museum",
-                  "text": "The museum is located in the former residence of the statesman Mihail Kogălniceanu.",
-                  "category": "museum",
-                  "coords": [
-                        27.580547,
-                        47.17343
-                  ]
-            },
-            {
-                  "name": "Museum of Romanian Literature",
-                  "text": "Museum in Iași showcasing Romanian literary heritage.",
-                  "category": "museum",
-                  "coords": [
-                        27.576257,
-                        47.172048
-                  ]
-            },
-            {
                   "name": "Casa de Cultură a Sindicatelor",
                   "text": "Arts and cultural center in Iași for cultural activities and events.",
                   "category": "cultural",
@@ -29818,42 +22093,6 @@ export const romaniaCities: POI[] = [
                         27.578157,
                         47.171643
                   ]
-            },
-            {
-                  "name": "Oscar SPA",
-                  "text": "Oscar SPA by the Stephen the Great Statue offers a swimming pool.",
-                  "category": "family",
-                  "coords": [
-                        27.579615,
-                        47.171004
-                  ]
-            },
-            {
-                  "name": "Tiki Village",
-                  "text": "Tiki Village by the Stephen the Great Statue is a resort for swimming.",
-                  "category": "family",
-                  "coords": [
-                        27.615374,
-                        47.165891
-                  ]
-            },
-            {
-                  "name": "LaPlaya Pool",
-                  "text": "LaPlaya Pool by the Stephen the Great Statue provides swimming facilities.",
-                  "category": "family",
-                  "coords": [
-                        27.609667,
-                        47.136265
-                  ]
-            },
-            {
-                  "name": "Brizo",
-                  "text": "Brizo by the Stephen the Great Statue is a resort for water-side recreation.",
-                  "category": "family",
-                  "coords": [
-                        27.597545,
-                        47.194716
-                  ]
             }
       ]
 }
@@ -29932,33 +22171,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Veneția",
-                  "text": "Lacul Veneția bei der Gheorghe Asachi Universität ist ein malerischer See, der zum Verweilen in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
-                  "name": "Lacul Chirița",
-                  "text": "Lacul Chirița bei der Gheorghe Asachi Universität bietet eine friedliche Atmosphäre für entspannte Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        27.64925,
-                        47.172277
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "Doi Peri bei der Gheorghe Asachi Universität ist ein ruhiger See, der ideal für eine Pause im Grünen ist.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
-            },
-            {
                   "name": "Lacul Grădinii Botanice Anastasie Fătu",
                   "text": "Lacul Grădinii Botanice Anastasie Fătu bei der Gheorghe Asachi Universität ist ein idyllisches Gewässer im botanischen Garten.",
                   "category": "natural",
@@ -29983,15 +22195,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         27.57682,
                         47.177907
-                  ]
-            },
-            {
-                  "name": "Starnet",
-                  "text": "Starnet bei der Gheorghe Asachi Universität bietet moderne Unterhaltungsmöglichkeiten für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        27.588783,
-                        47.152831
                   ]
             },
             {
@@ -30094,24 +22297,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tiki Village",
-                  "text": "Tiki Village ist ein Strandresort in Iasi, perfekt für einen entspannten Tag am Wasser.",
-                  "category": "family",
-                  "coords": [
-                        27.615374,
-                        47.165891
-                  ]
-            },
-            {
-                  "name": "Brizo",
-                  "text": "Brizo ist ein Strandresort in Iasi, perfekt für einen entspannten Tag am Wasser.",
-                  "category": "family",
-                  "coords": [
-                        27.597545,
-                        47.194716
-                  ]
-            },
-            {
                   "name": "\"Mihail Kogalniceanu\" Memorial Museum",
                   "text": "Ein Gedenkmuseum in Iași, das dem Staatsmann und Historiker Mihail Kogălniceanu gewidmet ist.",
                   "category": "museum",
@@ -30188,33 +22373,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Veneția",
-                  "text": "A Gheorghe Asachi Egyetemnél található Lacul Veneția egy festői tó, amely a természetben való időzésre hív.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
-                  "name": "Lacul Chirița",
-                  "text": "A Gheorghe Asachi Egyetem közelében lévő Lacul Chirița békés hangulatot kínál a pihentető sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        27.64925,
-                        47.172277
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "A Gheorghe Asachi Egyetemnél található Doi Peri egy nyugodt tó, amely tökéletes egy kis pihenőhöz a zöldben.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
-            },
-            {
                   "name": "Lacul Grădinii Botanice Anastasie Fătu",
                   "text": "A botanikus kertben található tó idilli környezetet biztosít az egyetem közelében.",
                   "category": "natural",
@@ -30239,15 +22397,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         27.57682,
                         47.177907
-                  ]
-            },
-            {
-                  "name": "Starnet",
-                  "text": "A Gheorghe Asachi Egyetem közelében lévő Starnet modern szórakozási lehetőségeket kínál az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        27.588783,
-                        47.152831
                   ]
             },
             {
@@ -30350,24 +22499,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tiki Village",
-                  "text": "Tiki Village egy tengerparti üdülőhely Iasi területén, amely tökéletes egy pihentető naphoz a vízparton.",
-                  "category": "family",
-                  "coords": [
-                        27.615374,
-                        47.165891
-                  ]
-            },
-            {
-                  "name": "Brizo",
-                  "text": "Brizo egy tengerparti üdülőhely Iasi területén, amely tökéletes egy pihentető naphoz a vízparton.",
-                  "category": "family",
-                  "coords": [
-                        27.597545,
-                        47.194716
-                  ]
-            },
-            {
                   "name": "\"Mihail Kogalniceanu\" Memorial Museum",
                   "text": "Jászvásári emlékmúzeum, amely Mihail Kogălniceanu államférfi és történész emlékét őrzi.",
                   "category": "museum",
@@ -30444,33 +22575,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Veneția",
-                  "text": "Lacul Veneția de la Universitatea Gheorghe Asachi este un lac pitoresc care invită la petrecerea timpului în natură.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
-                  "name": "Lacul Chirița",
-                  "text": "Lacul Chirița de lângă Universitatea Gheorghe Asachi oferă o atmosferă pașnică pentru plimbări relaxante.",
-                  "category": "natural",
-                  "coords": [
-                        27.64925,
-                        47.172277
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "Doi Peri de la Universitatea Gheorghe Asachi este un lac liniștit, ideal pentru o pauză în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
-            },
-            {
                   "name": "Lacul Grădinii Botanice Anastasie Fătu",
                   "text": "Lacul Grădinii Botanice Anastasie Fătu de lângă Universitatea Gheorghe Asachi este o apă idilică în grădina botanică.",
                   "category": "natural",
@@ -30495,15 +22599,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         27.57682,
                         47.177907
-                  ]
-            },
-            {
-                  "name": "Starnet",
-                  "text": "Starnet de lângă Universitatea Gheorghe Asachi oferă opțiuni moderne de divertisment pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        27.588783,
-                        47.152831
                   ]
             },
             {
@@ -30606,24 +22701,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Tiki Village",
-                  "text": "Tiki Village este o stațiune de plajă din Iasi perfectă pentru o zi relaxantă lângă apă.",
-                  "category": "family",
-                  "coords": [
-                        27.615374,
-                        47.165891
-                  ]
-            },
-            {
-                  "name": "Brizo",
-                  "text": "Brizo este o stațiune de plajă din Iasi perfectă pentru o zi relaxantă lângă apă.",
-                  "category": "family",
-                  "coords": [
-                        27.597545,
-                        47.194716
-                  ]
-            },
-            {
                   "name": "\"Mihail Kogalniceanu\" Memorial Museum",
                   "text": "Un muzeu memorial din Iași dedicat omului de stat și istoricului Mihail Kogălniceanu.",
                   "category": "museum",
@@ -30700,33 +22777,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Veneția",
-                  "text": "Lacul Veneția at Gheorghe Asachi University is a scenic lake that invites visitors to enjoy nature.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
-                  "name": "Lacul Chirița",
-                  "text": "Lacul Chirița near Gheorghe Asachi University offers a peaceful atmosphere for relaxing walks.",
-                  "category": "natural",
-                  "coords": [
-                        27.64925,
-                        47.172277
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "Doi Peri at Gheorghe Asachi University is a calm lake, perfect for a break in the green.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
-            },
-            {
                   "name": "Lacul Grădinii Botanice Anastasie Fătu",
                   "text": "Lacul Grădinii Botanice Anastasie Fătu near Gheorghe Asachi University is an idyllic lake within the botanical garden.",
                   "category": "natural",
@@ -30751,15 +22801,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         27.57682,
                         47.177907
-                  ]
-            },
-            {
-                  "name": "Starnet",
-                  "text": "Starnet near Gheorghe Asachi University offers modern entertainment options for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        27.588783,
-                        47.152831
                   ]
             },
             {
@@ -30859,24 +22900,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         27.579615,
                         47.171004
-                  ]
-            },
-            {
-                  "name": "Tiki Village",
-                  "text": "Tiki Village is a beach resort in Iasi perfect for a relaxing day by the water.",
-                  "category": "family",
-                  "coords": [
-                        27.615374,
-                        47.165891
-                  ]
-            },
-            {
-                  "name": "Brizo",
-                  "text": "Brizo is a beach resort in Iasi perfect for a relaxing day by the water.",
-                  "category": "family",
-                  "coords": [
-                        27.597545,
-                        47.194716
                   ]
             },
             {
@@ -31016,30 +23039,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Grădina Botanică",
-                  "text": "Der Botanische Garten in Bukarest beherbergt Tausende von Pflanzenarten und ein botanisches Museum.",
-                  "category": "museum",
-                  "coords": [
-                        26.066362,
-                        44.4369
-                  ]
-            },
-            {
                   "name": "Muzeul Teatrului Naţional",
                   "text": "Das Museum dokumentiert die reiche Geschichte des rumänischen Theaters.",
                   "category": "museum",
                   "coords": [
                         26.103626,
                         44.43763
-                  ]
-            },
-            {
-                  "name": "Muzeul Militar Național \"Regele Ferdinand I\"",
-                  "text": "Es ist das größte Militärmuseum des Landes und zeigt die Entwicklung der rumänischen Armee.",
-                  "category": "museum",
-                  "coords": [
-                        26.076483,
-                        44.441392
                   ]
             },
             {
@@ -31079,51 +23084,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Nationalmuseum für zeitgenössische Kunst",
-                  "text": "Das Nationalmuseum für zeitgenössische Kunst ist eine markante kulturelle Einrichtung im Umfeld der Bukarester Altstadt. Untergebracht in einem Flügel des riesigen Parlamentspalastes, widmet sich das Museum der modernen Kunst. Kunstinteressierte finden hier wechselnde Ausstellungen zeitgenössischer Werke aus Rumänien und der Welt.",
-                  "category": "museum",
-                  "coords": [
-                        26.086631,
-                        44.428136
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Hărților și Cărții Vechi",
-                  "text": "Es zeigt eine beeindruckende Sammlung alter Karten und seltener Bücher.",
-                  "category": "museum",
-                  "coords": [
-                        26.092772,
-                        44.456966
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Țăranului Român",
-                  "text": "Das Museum widmet sich der traditionellen Kultur und dem ländlichen Leben in Rumänien.",
-                  "category": "museum",
-                  "coords": [
-                        26.083983,
-                        44.454423
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
-                  "text": "Dieses bekannte Museum bietet umfangreiche Ausstellungen zur Flora und Fauna weltweit.",
-                  "category": "museum",
-                  "coords": [
-                        26.084627,
-                        44.453096
-                  ]
-            },
-            {
-                  "name": "Muzeul Național Geologic",
-                  "text": "Das Museum zeigt eine beeindruckende Vielfalt an Gesteinen, Mineralien und Fossilien.",
-                  "category": "museum",
-                  "coords": [
-                        26.085221,
-                        44.454817
-                  ]
-            },
-            {
                   "name": "Palatul Crețulescu",
                   "text": "Das Kretzulescu-Palais ist ein prächtiges historisches Gebäude im Zentrum von Bukarest.",
                   "category": "castle",
@@ -31151,24 +23111,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Monumentul Infanteristului",
-                  "text": "Das Denkmal ehrt die rumänischen Infanteristen für ihren Einsatz in den Weltkriegen.",
-                  "category": "historical",
-                  "coords": [
-                        26.069317,
-                        44.438194
-                  ]
-            },
-            {
-                  "name": "Monumentul Eroilor Artileriști",
-                  "text": "Ein Monument zur Erinnerung an die im Dienst gefallenen Artillerie-Helden.",
-                  "category": "historical",
-                  "coords": [
-                        26.07236,
-                        44.43456
-                  ]
-            },
-            {
                   "name": "Metropolis Teatrul",
                   "text": "Ein modernes Theater in Bukarest, bekannt für seine vielfältigen Aufführungen.",
                   "category": "cultural",
@@ -31178,39 +23120,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Nationaloper",
-                  "text": "Die Nationaloper ist die führende Institution für Oper und Ballett in Rumänien.",
-                  "category": "cultural",
-                  "coords": [
-                        26.079552,
-                        44.436065
-                  ]
-            },
-            {
-                  "name": "Circul Globus",
-                  "text": "Der Globus-Zirkus ist eine traditionsreiche Stätte für Artistik und Unterhaltung.",
-                  "category": "cultural",
-                  "coords": [
-                        26.109527,
-                        44.45656
-                  ]
-            },
-            {
                   "name": "Mănăstirea Mihai Vodă",
                   "text": "Dieses historische Kloster wurde in den 1980er Jahren auf Schienen an seinen heutigen Standort verschoben.",
                   "category": "religious",
                   "coords": [
                         26.093308,
                         44.431554
-                  ]
-            },
-            {
-                  "name": "Mănăstirea Antim",
-                  "text": "Das Kloster wurde im 18. Jahrhundert erbaut und ist für seine reiche Architektur bekannt.",
-                  "category": "religious",
-                  "coords": [
-                        26.093471,
-                        44.426009
                   ]
             },
             {
@@ -31232,39 +23147,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă Apostol din Tabaci",
-                  "text": "Eine historische orthodoxe Kirche im Tabaci-Viertel der Bukarester Altstadt.",
-                  "category": "religious",
-                  "coords": [
-                        26.113996,
-                        44.418804
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă „Sfântul Spiridon Nou”",
-                  "text": "Diese orthodoxe Kirche in Bukarest ist für ihre beeindruckende Größe und Architektur bekannt.",
-                  "category": "religious",
-                  "coords": [
-                        26.1035,
-                        44.42388
-                  ]
-            },
-            {
                   "name": "Biserica „Sfântul Ilie” - Gorgani",
                   "text": "Eine auf einem kleinen Hügel gelegene orthodoxe Kirche in der Bukarester Altstadt.",
                   "category": "religious",
                   "coords": [
                         26.09123,
                         44.433997
-                  ]
-            },
-            {
-                  "name": "Biserica Foișor",
-                  "text": "Eine charmante orthodoxe Kirche in Bukarest mit historischer Bedeutung.",
-                  "category": "religious",
-                  "coords": [
-                        26.123168,
-                        44.414777
                   ]
             },
             {
@@ -31304,15 +23192,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă „Dobroteasa”",
-                  "text": "Eine historische orthodoxe Kirche in Bukarest, die für ihre religiöse Tradition bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        26.112374,
-                        44.422533
-                  ]
-            },
-            {
                   "name": "Biserica Sfinții Trei Ierarhi - Coltea Colțea",
                   "text": "Teil des Colțea-Krankenhauskomplexes, ist diese Kirche ein Meisterwerk des Brâncoveanu-Stils.",
                   "category": "religious",
@@ -31322,39 +23201,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
-                  "text": "Die alte Kirche Sfântul Elefterie ist ein kleines, historisches Juwel in Bukarest.",
-                  "category": "religious",
-                  "coords": [
-                        26.074547,
-                        44.433093
-                  ]
-            },
-            {
-                  "name": "Biserica \"Sfântul Elefterie Nou\"",
-                  "text": "Eine große, modernere orthodoxe Kirche in Bukarest, nahe dem Opernhaus.",
-                  "category": "religious",
-                  "coords": [
-                        26.077077,
-                        44.433488
-                  ]
-            },
-            {
                   "name": "Biserica Ortodoxă Mântuleasa",
                   "text": "Eine orthodoxe Kirche in Bukarest, die mit Legenden und lokaler Geschichte verbunden ist.",
                   "category": "religious",
                   "coords": [
                         26.1134,
                         44.435186
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
-                  "text": "Eine orthodoxe Kirche im Plevna-Viertel von Bukarest, dem Heiligen Georg gewidmet.",
-                  "category": "religious",
-                  "coords": [
-                        26.072921,
-                        44.440976
                   ]
             },
             {
@@ -31403,15 +23255,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Dealul Arsenalului",
-                  "text": "Ein historischer Hügel in Bukarest, auf dem sich heute der Parlamentspalast befindet.",
-                  "category": "natural",
-                  "coords": [
-                        26.078037,
-                        44.425748
-                  ]
-            },
-            {
                   "name": "Dealul Mitropoliei",
                   "text": "Der Hügel ist das spirituelle Zentrum Bukarests mit der patriarchalen Kathedrale.",
                   "category": "natural",
@@ -31421,48 +23264,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Carol-Park",
-                  "text": "Ein eleganter öffentlicher Park in Bukarest, der ein monumentales Mausoleum beherbergt.",
-                  "category": "park",
-                  "coords": [
-                        26.096467,
-                        44.413988
-                  ]
-            },
-            {
-                  "name": "Parcul Izvor",
-                  "text": "Ein zentraler Park in Bukarest, der direkt gegenüber dem Parlamentspalast liegt.",
-                  "category": "park",
-                  "coords": [
-                        26.087567,
-                        44.431811
-                  ]
-            },
-            {
-                  "name": "Parcul Tineretului",
-                  "text": "Ein weitläufiger Park im Süden Bukarests mit einem großen See und Freizeitanlagen.",
-                  "category": "park",
-                  "coords": [
-                        26.109343,
-                        44.406294
-                  ]
-            },
-            {
                   "name": "Cișmigiu-Park",
                   "text": "Der älteste öffentliche Park in Bukarest, bekannt für seinen romantischen See und die Gärten.",
                   "category": "park",
                   "coords": [
                         26.090355,
                         44.437217
-                  ]
-            },
-            {
-                  "name": "Parcul Circului",
-                  "text": "Ein Park in Bukarest, der für seinen kreisförmigen See und den staatlichen Zirkus bekannt ist.",
-                  "category": "park",
-                  "coords": [
-                        26.110516,
-                        44.457203
                   ]
             },
             {
@@ -31493,138 +23300,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Morii",
-                  "text": "Ein malerischer See in der Nähe der Bukarester Altstadt, ideal für Spaziergänge und Aussichten.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "Ein See in entspannender Umgebung in der Nähe der Bukarester Altstadt.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lacul Băneasa",
-                  "text": "Ein malerischer See in der Umgebung der Bukarester Altstadt.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
                   "name": "Bazin decantare",
                   "text": "Ein Absetzbecken in Bucharest Old Town, das Teil der lokalen Wasserlandschaft ist.",
                   "category": "natural",
                   "coords": [
                         26.002994,
                         44.444706
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "Bazin apa Cotroceni ist ein Wasserbecken in Bucharest Old Town, das einen ruhigen Platz am Wasser bietet.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "Lacul Grivița ist ein weitläufiger See in Bucharest Old Town, ideal für Spaziergänge am Ufer.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Lacul IOR ist ein beliebter See in Bucharest Old Town, der sich perfekt zum Entspannen im Freien eignet.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
-                  "name": "Lacul Pantelimon",
-                  "text": "Lacul Pantelimon in Bucharest Old Town ist ein schöner See, der zum Verweilen in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        26.209104,
-                        44.441318
-                  ]
-            },
-            {
-                  "name": "Herăstrău-See",
-                  "text": "Der Herăstrău-See ist ein bekannter See in Bucharest Old Town, ideal für Bootsfahrten und Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "Balta Pipera ist ein malerisches Gewässer in Bucharest Old Town, das eine natürliche Kulisse bietet.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "Lacul Tineretului ist ein zentraler See in Bucharest Old Town, umgeben von Grünflächen für die Freizeitgestaltung.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Lacul Plumbuita in Bucharest Old Town ist ein ruhiger See, der sich gut für entspannte Nachmittage eignet.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lacul Dobroești",
-                  "text": "Lacul Dobroești ist ein See in Bucharest Old Town, der eine schöne Kulisse für Outdoor-Aktivitäten bietet.",
-                  "category": "natural",
-                  "coords": [
-                        26.173695,
-                        44.449024
-                  ]
-            },
-            {
-                  "name": "Lacul Fundeni",
-                  "text": "Lake Fundeni ist ein markanter See in Bucharest Old Town, ideal zum Entspannen am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
-                  ]
-            },
-            {
-                  "name": "Parc",
-                  "text": "Dieser Park in Bucharest Old Town bietet einen sicheren und freundlichen Spielbereich für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        26.084353,
-                        44.416817
                   ]
             },
             {
@@ -31670,51 +23351,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.115783,
                         44.405645
-                  ]
-            },
-            {
-                  "name": "Wellness & Pool BabySpa",
-                  "text": "Ein familienfreundliches Wellnesszentrum in der Altstadt von Bukarest.",
-                  "category": "family",
-                  "coords": [
-                        26.131283,
-                        44.412851
-                  ]
-            },
-            {
-                  "name": "Bazin Olimpic",
-                  "text": "Ein olympisches Schwimmbecken in der Altstadt von Bukarest zur Familienerholung.",
-                  "category": "family",
-                  "coords": [
-                        26.146701,
-                        44.435432
-                  ]
-            },
-            {
-                  "name": "Ștrandul Văcărești - Ștrandul Copiilor",
-                  "text": "Ein Wasserpark für Kinder im Altstadtbereich.",
-                  "category": "family",
-                  "coords": [
-                        26.115851,
-                        44.402476
-                  ]
-            },
-            {
-                  "name": "Orășelul Copiilor",
-                  "text": "Ein Kinderthemenpark in der Altstadt von Bukarest mit Familienaktivitäten.",
-                  "category": "family",
-                  "coords": [
-                        26.109323,
-                        44.401186
-                  ]
-            },
-            {
-                  "name": "Bazin de înot",
-                  "text": "Ein Schwimmbad in der Altstadt von Bukarest für die Nutzung durch Familien.",
-                  "category": "family",
-                  "coords": [
-                        26.134851,
-                        44.454321
                   ]
             },
             {
@@ -31809,30 +23445,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Grădina Botanică",
-                  "text": "A bukaresti botanikus kert több ezer növényfajnak és egy botanikai múzeumnak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        26.066362,
-                        44.4369
-                  ]
-            },
-            {
                   "name": "Muzeul Teatrului Naţional",
                   "text": "A múzeum a román színjátszás gazdag történelmét dokumentálja.",
                   "category": "museum",
                   "coords": [
                         26.103626,
                         44.43763
-                  ]
-            },
-            {
-                  "name": "Muzeul Militar Național \"Regele Ferdinand I\"",
-                  "text": "Ez az ország legnagyobb hadtörténeti múzeuma, amely a román hadsereg fejlődését mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        26.076483,
-                        44.441392
                   ]
             },
             {
@@ -31872,51 +23490,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeul Național de Artă Contemporană",
-                  "text": "A Nemzeti Kortárs Művészeti Múzeum egy jelentős intézmény a bukaresti óváros vonzáskörzetében, Romániában. A Parlament Palotájának egyik szárnyában helyet kapó múzeum a modern művészeteknek szenteli tereit. A látogatók izgalmas kortárs alkotásokat és modern művészeti gyűjteményeket fedezhetnek fel itt.",
-                  "category": "museum",
-                  "coords": [
-                        26.086631,
-                        44.428136
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Hărților și Cărții Vechi",
-                  "text": "A múzeum régi térképek és ritka könyvek lenyűgöző gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        26.092772,
-                        44.456966
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Țăranului Român",
-                  "text": "A múzeum a romániai hagyományos kultúrának és vidéki életnek van szentelve.",
-                  "category": "museum",
-                  "coords": [
-                        26.083983,
-                        44.454423
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
-                  "text": "Ez az ismert múzeum a világ növény- és állatvilágát bemutató kiterjedt kiállításokat kínál.",
-                  "category": "museum",
-                  "coords": [
-                        26.084627,
-                        44.453096
-                  ]
-            },
-            {
-                  "name": "Muzeul Național Geologic",
-                  "text": "A múzeum kőzetek, ásványok és fosszíliák lenyűgöző választékát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        26.085221,
-                        44.454817
-                  ]
-            },
-            {
                   "name": "Palatul Crețulescu",
                   "text": "A Kretzulescu-palota egy pompás történelmi épület Bukarest központjában.",
                   "category": "castle",
@@ -31944,24 +23517,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Monumentul Infanteristului",
-                  "text": "Az emlékmű a román gyalogos katonák előtt tiszteleg a világháborúkban tanúsított helytállásukért.",
-                  "category": "historical",
-                  "coords": [
-                        26.069317,
-                        44.438194
-                  ]
-            },
-            {
-                  "name": "Monumentul Eroilor Artileriști",
-                  "text": "Emlékmű a szolgálatteljesítés közben elesett tüzér hősök emlékére.",
-                  "category": "historical",
-                  "coords": [
-                        26.07236,
-                        44.43456
-                  ]
-            },
-            {
                   "name": "Metropolis Teatrul",
                   "text": "Egy modern bukaresti színház, amely változatos előadásairól ismert.",
                   "category": "cultural",
@@ -31971,39 +23526,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Opera Națională",
-                  "text": "A Nemzeti Opera Románia vezető opera- és balettintézménye.",
-                  "category": "cultural",
-                  "coords": [
-                        26.079552,
-                        44.436065
-                  ]
-            },
-            {
-                  "name": "Circul Globus",
-                  "text": "A Globusz Cirkusz az artisztika és a szórakoztatás nagy múltú helyszíne.",
-                  "category": "cultural",
-                  "coords": [
-                        26.109527,
-                        44.45656
-                  ]
-            },
-            {
                   "name": "Mănăstirea Mihai Vodă",
                   "text": "Ezt a történelmi kolostort az 1980-as években síneken tolták át jelenlegi helyére.",
                   "category": "religious",
                   "coords": [
                         26.093308,
                         44.431554
-                  ]
-            },
-            {
-                  "name": "Mănăstirea Antim",
-                  "text": "A kolostor a 18. században épült, és gazdag építészetéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        26.093471,
-                        44.426009
                   ]
             },
             {
@@ -32025,39 +23553,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă Apostol din Tabaci",
-                  "text": "Történelmi ortodox templom Bukarest óvárosában, a Tabaci negyedben.",
-                  "category": "religious",
-                  "coords": [
-                        26.113996,
-                        44.418804
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă „Sfântul Spiridon Nou”",
-                  "text": "Bukarest egyik legnagyobb ortodox temploma, amely figyelemre méltó építészeti stílussal rendelkezik.",
-                  "category": "religious",
-                  "coords": [
-                        26.1035,
-                        44.42388
-                  ]
-            },
-            {
                   "name": "Biserica „Sfântul Ilie” - Gorgani",
                   "text": "Egy kis dombon épült ortodox templom Bukarest történelmi központjában.",
                   "category": "religious",
                   "coords": [
                         26.09123,
                         44.433997
-                  ]
-            },
-            {
-                  "name": "Biserica Foișor",
-                  "text": "Bájos ortodox templom Bukarestben, amely jelentős történelmi múlttal rendelkezik.",
-                  "category": "religious",
-                  "coords": [
-                        26.123168,
-                        44.414777
                   ]
             },
             {
@@ -32097,15 +23598,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă „Dobroteasa”",
-                  "text": "Történelmi ortodox templom Bukarestben, amely vallási hagyományairól ismert.",
-                  "category": "religious",
-                  "coords": [
-                        26.112374,
-                        44.422533
-                  ]
-            },
-            {
                   "name": "Biserica Sfinții Trei Ierarhi - Coltea Colțea",
                   "text": "A Colțea kórházkomplexum része, a templom a Brâncoveanu-stílus egyik remekműve.",
                   "category": "religious",
@@ -32115,39 +23607,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
-                  "text": "A régi Szent Elefterie-templom egy kis történelmi ékszerdoboz Bukarestben.",
-                  "category": "religious",
-                  "coords": [
-                        26.074547,
-                        44.433093
-                  ]
-            },
-            {
-                  "name": "Biserica \"Sfântul Elefterie Nou\"",
-                  "text": "Nagy méretű, modernebb ortodox templom Bukarestben, az Operaház közelében.",
-                  "category": "religious",
-                  "coords": [
-                        26.077077,
-                        44.433488
-                  ]
-            },
-            {
                   "name": "Biserica Ortodoxă Mântuleasa",
                   "text": "Legendákkal és helyi történelemmel övezett ortodox templom Bukarestben.",
                   "category": "religious",
                   "coords": [
                         26.1134,
                         44.435186
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
-                  "text": "Szent Györgynek szentelt ortodox templom Bukarest Plevna negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        26.072921,
-                        44.440976
                   ]
             },
             {
@@ -32196,15 +23661,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Dealul Arsenalului",
-                  "text": "Történelmi domb Bukarestben, ahol ma a Parlamenti Palota található.",
-                  "category": "natural",
-                  "coords": [
-                        26.078037,
-                        44.425748
-                  ]
-            },
-            {
                   "name": "Dealul Mitropoliei",
                   "text": "A domb Bukarest spirituális központja, itt található a patriarkális székesegyház.",
                   "category": "natural",
@@ -32214,48 +23670,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Parcul Carol",
-                  "text": "Elegáns bukaresti közpark, amely egy monumentális mauzóleumnak ad helyet.",
-                  "category": "park",
-                  "coords": [
-                        26.096467,
-                        44.413988
-                  ]
-            },
-            {
-                  "name": "Parcul Izvor",
-                  "text": "Bukarest központi parkja, amely közvetlenül a Parlamenti Palotával szemben található.",
-                  "category": "park",
-                  "coords": [
-                        26.087567,
-                        44.431811
-                  ]
-            },
-            {
-                  "name": "Parcul Tineretului",
-                  "text": "Kiterjedt park Bukarest déli részén, nagy tóval és szabadidős létesítményekkel.",
-                  "category": "park",
-                  "coords": [
-                        26.109343,
-                        44.406294
-                  ]
-            },
-            {
                   "name": "Parcul Cișmigiu",
                   "text": "Bukarest legrégebbi közparkja, amely romantikus taváról és kertjeiről ismert.",
                   "category": "park",
                   "coords": [
                         26.090355,
                         44.437217
-                  ]
-            },
-            {
-                  "name": "Parcul Circului",
-                  "text": "Bukaresti park, amely kör alakú taváról és az Állami Cirkusz épületéről ismert.",
-                  "category": "park",
-                  "coords": [
-                        26.110516,
-                        44.457203
                   ]
             },
             {
@@ -32286,138 +23706,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Morii",
-                  "text": "Festői tó a bukaresti óváros közelében, ideális sétákhoz és a kilátáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "Pihentető környezetet kínáló tó a bukaresti óváros közelében.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lacul Băneasa",
-                  "text": "Festői tó a bukaresti óváros környékén.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
                   "name": "Bazin decantare",
                   "text": "Egy ülepítő medence Bucharest Old Town területén, amely a helyi vízfelületek része.",
                   "category": "natural",
                   "coords": [
                         26.002994,
                         44.444706
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "A Bazin apa Cotroceni egy víztározó Bucharest Old Town területén, amely csendes helyet kínál a vízparton.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "A Lacul Grivița egy tágas tó Bucharest Old Town területén, amely ideális a part menti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "A Lacul IOR egy népszerű tó Bucharest Old Town területén, amely tökéletes a szabadtéri kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
-                  "name": "Lacul Pantelimon",
-                  "text": "A Lacul Pantelimon Bucharest Old Town területén egy szép tó, amely hívogató a természetben való időtöltéshez.",
-                  "category": "natural",
-                  "coords": [
-                        26.209104,
-                        44.441318
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "A Herăstrău-tó egy jól ismert tó Bucharest Old Town területén, amely ideális csónakázáshoz és sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "A Balta Pipera egy festői vízfelület Bucharest Old Town területén, amely természetes környezetet kínál.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "A Lacul Tineretului egy központi tó Bucharest Old Town területén, amelyet szabadidős tevékenységekre alkalmas zöldövezet vesz körül.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "A Lacul Plumbuita Bucharest Old Town területén egy nyugodt tó, amely kiválóan alkalmas a pihentető délutánokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lacul Dobroești",
-                  "text": "A Lacul Dobroești egy tó Bucharest Old Town területén, amely szép hátteret biztosít a szabadtéri tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        26.173695,
-                        44.449024
-                  ]
-            },
-            {
-                  "name": "Lacul Fundeni",
-                  "text": "A Lake Fundeni egy jelentős tó Bucharest Old Town területén, amely ideális a vízparti pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
-                  ]
-            },
-            {
-                  "name": "Parc",
-                  "text": "Ez a Bucharest Old Town területén található park biztonságos és barátságos játszóhelyet kínál a gyermekek számára.",
-                  "category": "family",
-                  "coords": [
-                        26.084353,
-                        44.416817
                   ]
             },
             {
@@ -32463,51 +23757,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.115783,
                         44.405645
-                  ]
-            },
-            {
-                  "name": "Wellness & Pool BabySpa",
-                  "text": "Családbarát wellnessközpont Bukarest óvárosában.",
-                  "category": "family",
-                  "coords": [
-                        26.131283,
-                        44.412851
-                  ]
-            },
-            {
-                  "name": "Bazin Olimpic",
-                  "text": "Olimpiai úszómedence Bukarest óvárosában családi kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        26.146701,
-                        44.435432
-                  ]
-            },
-            {
-                  "name": "Ștrandul Văcărești - Ștrandul Copiilor",
-                  "text": "Vízi park gyermekeknek az óváros területén.",
-                  "category": "family",
-                  "coords": [
-                        26.115851,
-                        44.402476
-                  ]
-            },
-            {
-                  "name": "Orășelul Copiilor",
-                  "text": "Gyermekvidámpark Bukarest óvárosában családi programokkal.",
-                  "category": "family",
-                  "coords": [
-                        26.109323,
-                        44.401186
-                  ]
-            },
-            {
-                  "name": "Bazin de înot",
-                  "text": "Egy úszómedence Bukarest óvárosában családi használatra.",
-                  "category": "family",
-                  "coords": [
-                        26.134851,
-                        44.454321
                   ]
             },
             {
@@ -32602,30 +23851,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Grădina Botanică",
-                  "text": "Grădina Botanică din București găzduiește mii de specii de plante și un muzeu botanic.",
-                  "category": "museum",
-                  "coords": [
-                        26.066362,
-                        44.4369
-                  ]
-            },
-            {
                   "name": "Muzeul Teatrului Naţional",
                   "text": "Muzeul documentează istoria bogată a teatrului românesc.",
                   "category": "museum",
                   "coords": [
                         26.103626,
                         44.43763
-                  ]
-            },
-            {
-                  "name": "Muzeul Militar Național \"Regele Ferdinand I\"",
-                  "text": "Este cel mai mare muzeu militar din țară, prezentând evoluția armatei române.",
-                  "category": "museum",
-                  "coords": [
-                        26.076483,
-                        44.441392
                   ]
             },
             {
@@ -32665,51 +23896,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeul Național de Artă Contemporană",
-                  "text": "Muzeul Național de Artă Contemporană este o instituție de prestigiu situată relativ aproape de Centrul Vechi al Bucureștiului. Găzduit într-o aripă a Palatului Parlamentului, muzeul expune o gamă variată de artă modernă. Cei pasionați de cultură vor descoperi aici numeroase lucrări și instalații contemporane impresionante.",
-                  "category": "museum",
-                  "coords": [
-                        26.086631,
-                        44.428136
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Hărților și Cărții Vechi",
-                  "text": "Muzeul prezintă o colecție impresionantă de hărți vechi și cărți rare.",
-                  "category": "museum",
-                  "coords": [
-                        26.092772,
-                        44.456966
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Țăranului Român",
-                  "text": "Muzeul este dedicat culturii tradiționale și vieții rurale din România.",
-                  "category": "museum",
-                  "coords": [
-                        26.083983,
-                        44.454423
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
-                  "text": "Acest muzeu cunoscut oferă expoziții vaste despre flora și fauna din întreaga lume.",
-                  "category": "museum",
-                  "coords": [
-                        26.084627,
-                        44.453096
-                  ]
-            },
-            {
-                  "name": "Muzeul Național Geologic",
-                  "text": "Muzeul prezintă o varietate impresionantă de roci, minerale și fosile.",
-                  "category": "museum",
-                  "coords": [
-                        26.085221,
-                        44.454817
-                  ]
-            },
-            {
                   "name": "Palatul Crețulescu",
                   "text": "Palatul Crețulescu este o clădire istorică impunătoare din centrul Bucureștiului.",
                   "category": "castle",
@@ -32737,24 +23923,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Monumentul Infanteristului",
-                  "text": "Monumentul onorează infanteriștii români pentru sacrificiul lor în războaiele mondiale.",
-                  "category": "historical",
-                  "coords": [
-                        26.069317,
-                        44.438194
-                  ]
-            },
-            {
-                  "name": "Monumentul Eroilor Artileriști",
-                  "text": "Un monument în memoria eroilor artileriști căzuți la datorie.",
-                  "category": "historical",
-                  "coords": [
-                        26.07236,
-                        44.43456
-                  ]
-            },
-            {
                   "name": "Metropolis Teatrul",
                   "text": "Un teatru modern din București, cunoscut pentru spectacolele sale diverse.",
                   "category": "cultural",
@@ -32764,39 +23932,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Opera Națională",
-                  "text": "Opera Națională este principala instituție de operă și balet din România.",
-                  "category": "cultural",
-                  "coords": [
-                        26.079552,
-                        44.436065
-                  ]
-            },
-            {
-                  "name": "Circul Globus",
-                  "text": "Circul Globus este un loc cu tradiție pentru arta circului și divertisment.",
-                  "category": "cultural",
-                  "coords": [
-                        26.109527,
-                        44.45656
-                  ]
-            },
-            {
                   "name": "Mănăstirea Mihai Vodă",
                   "text": "Această mănăstire istorică a fost mutată pe șine în anii '80 pe locul unde se află astăzi.",
                   "category": "religious",
                   "coords": [
                         26.093308,
                         44.431554
-                  ]
-            },
-            {
-                  "name": "Mănăstirea Antim",
-                  "text": "Mănăstirea a fost construită în secolul al XVIII-lea și este cunoscută pentru arhitectura sa bogată.",
-                  "category": "religious",
-                  "coords": [
-                        26.093471,
-                        44.426009
                   ]
             },
             {
@@ -32818,39 +23959,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă Apostol din Tabaci",
-                  "text": "O biserică ortodoxă istorică situată în zona centrală a Bucureștiului, în fostul cartier al tăbăcarilor.",
-                  "category": "religious",
-                  "coords": [
-                        26.113996,
-                        44.418804
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă „Sfântul Spiridon Nou”",
-                  "text": "Biserica Sfântul Spiridon Nou este una dintre cele mai mari și impunătoare biserici ortodoxe din București.",
-                  "category": "religious",
-                  "coords": [
-                        26.1035,
-                        44.42388
-                  ]
-            },
-            {
                   "name": "Biserica „Sfântul Ilie” - Gorgani",
                   "text": "O biserică ortodoxă situată pe colina Gorgani, cunoscută pentru amplasarea sa pitorească în centrul orașului.",
                   "category": "religious",
                   "coords": [
                         26.09123,
                         44.433997
-                  ]
-            },
-            {
-                  "name": "Biserica Foișor",
-                  "text": "Biserica Foișor este un lăcaș de cult ortodox din București, apreciat pentru arhitectura sa tradițională.",
-                  "category": "religious",
-                  "coords": [
-                        26.123168,
-                        44.414777
                   ]
             },
             {
@@ -32890,15 +24004,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă „Dobroteasa”",
-                  "text": "Biserica Dobroteasa este un vechi lăcaș de cult ortodox din București, cu o istorie bogată.",
-                  "category": "religious",
-                  "coords": [
-                        26.112374,
-                        44.422533
-                  ]
-            },
-            {
                   "name": "Biserica Sfinții Trei Ierarhi - Coltea Colțea",
                   "text": "Biserica Colțea face parte din ansamblul spitalului omonim și este un monument de artă brâncovenească.",
                   "category": "religious",
@@ -32908,39 +24013,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
-                  "text": "Biserica Sfântul Elefterie Vechi este un lăcaș de cult istoric, remarcabil prin arhitectura sa armonioasă.",
-                  "category": "religious",
-                  "coords": [
-                        26.074547,
-                        44.433093
-                  ]
-            },
-            {
-                  "name": "Biserica \"Sfântul Elefterie Nou\"",
-                  "text": "Biserica Sfântul Elefterie Nou este un lăcaș de cult impunător, situat în apropierea Operei Naționale.",
-                  "category": "religious",
-                  "coords": [
-                        26.077077,
-                        44.433488
-                  ]
-            },
-            {
                   "name": "Biserica Ortodoxă Mântuleasa",
                   "text": "Biserica Mântuleasa este un lăcaș de cult legendar din București, evocat adesea în literatura română.",
                   "category": "religious",
                   "coords": [
                         26.1134,
                         44.435186
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
-                  "text": "Biserica Sfântul Gheorghe - Plevna este un lăcaș de cult ortodox situat în zona central-vestică a capitalei.",
-                  "category": "religious",
-                  "coords": [
-                        26.072921,
-                        44.440976
                   ]
             },
             {
@@ -32989,15 +24067,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Dealul Arsenalului",
-                  "text": "Dealul Arsenalului este locul unde a fost ridicat Palatul Parlamentului, transformând radical peisajul urban.",
-                  "category": "natural",
-                  "coords": [
-                        26.078037,
-                        44.425748
-                  ]
-            },
-            {
                   "name": "Dealul Mitropoliei",
                   "text": "Dealul Mitropoliei este centrul spiritual al ortodoxiei române, găzduind Catedrala Patriarhală.",
                   "category": "natural",
@@ -33007,48 +24076,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Parcul Carol",
-                  "text": "Parcul Carol I este un parc istoric din București, amenajat în stil francez, dominat de Mausoleu.",
-                  "category": "park",
-                  "coords": [
-                        26.096467,
-                        44.413988
-                  ]
-            },
-            {
-                  "name": "Parcul Izvor",
-                  "text": "Parcul Izvor este un spațiu verde generos situat în imediata vecinătate a Palatului Parlamentului.",
-                  "category": "park",
-                  "coords": [
-                        26.087567,
-                        44.431811
-                  ]
-            },
-            {
-                  "name": "Parcul Tineretului",
-                  "text": "Parcul Tineretului este unul dintre cele mai mari parcuri din București, oferind numeroase zone de recreere.",
-                  "category": "park",
-                  "coords": [
-                        26.109343,
-                        44.406294
-                  ]
-            },
-            {
                   "name": "Parcul Cișmigiu",
                   "text": "Grădina Cișmigiu este cel mai vechi parc din București, fiind o oază de liniște în centrul orașului.",
                   "category": "park",
                   "coords": [
                         26.090355,
                         44.437217
-                  ]
-            },
-            {
-                  "name": "Parcul Circului",
-                  "text": "Parcul Circului este amenajat în jurul unui lac cu lotuși, având ca reper clădirea Circului de Stat.",
-                  "category": "park",
-                  "coords": [
-                        26.110516,
-                        44.457203
                   ]
             },
             {
@@ -33079,138 +24112,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Morii",
-                  "text": "Un lac pitoresc lângă Centrul Vechi al Bucureștiului, ideal pentru plimbări și vederi.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "Un lac care oferă un cadru relaxant lângă Centrul Vechi al Bucureștiului.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lacul Băneasa",
-                  "text": "Un lac pitoresc în vecinătatea Centrului Vechi al Bucureștiului.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
                   "name": "Bazin decantare",
                   "text": "Un bazin de decantare din Bucharest Old Town, care face parte din peisajul acvatic local.",
                   "category": "natural",
                   "coords": [
                         26.002994,
                         44.444706
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "Bazin apa Cotroceni este un bazin de apă din Bucharest Old Town, oferind un loc liniștit lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "Lacul Grivița este un lac întins din Bucharest Old Town, ideal pentru plimbări pe mal.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Lacul IOR este un lac popular din Bucharest Old Town, perfect pentru relaxare în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
-                  "name": "Lacul Pantelimon",
-                  "text": "Lacul Pantelimon din Bucharest Old Town este un lac frumos, care invită la petrecerea timpului în natură.",
-                  "category": "natural",
-                  "coords": [
-                        26.209104,
-                        44.441318
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "Lacul Herăstrău este un lac binecunoscut din Bucharest Old Town, ideal pentru plimbări cu barca și promenadă.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "Balta Pipera este un luciu de apă pitoresc din Bucharest Old Town, oferind un cadru natural.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "Lacul Tineretului este un lac central din Bucharest Old Town, înconjurat de spații verzi pentru recreere.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Lacul Plumbuita din Bucharest Old Town este un lac liniștit, potrivit pentru după-amiezi relaxante.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lacul Dobroești",
-                  "text": "Lacul Dobroești este un lac din Bucharest Old Town, care oferă un cadru frumos pentru activități în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        26.173695,
-                        44.449024
-                  ]
-            },
-            {
-                  "name": "Lacul Fundeni",
-                  "text": "Lake Fundeni este un lac proeminent din Bucharest Old Town, ideal pentru relaxare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
-                  ]
-            },
-            {
-                  "name": "Parc",
-                  "text": "Acest parc din Bucharest Old Town oferă un spațiu de joacă sigur și primitor pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        26.084353,
-                        44.416817
                   ]
             },
             {
@@ -33256,51 +24163,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.115783,
                         44.405645
-                  ]
-            },
-            {
-                  "name": "Wellness & Pool BabySpa",
-                  "text": "Un centru wellness pentru familii în Centrul Vechi al Bucureștiului.",
-                  "category": "family",
-                  "coords": [
-                        26.131283,
-                        44.412851
-                  ]
-            },
-            {
-                  "name": "Bazin Olimpic",
-                  "text": "O piscină olimpică în Centrul Vechi al Bucureștiului pentru recreere în familie.",
-                  "category": "family",
-                  "coords": [
-                        26.146701,
-                        44.435432
-                  ]
-            },
-            {
-                  "name": "Ștrandul Văcărești - Ștrandul Copiilor",
-                  "text": "Un parc acvatic pentru copii în zona Centrului Vechi.",
-                  "category": "family",
-                  "coords": [
-                        26.115851,
-                        44.402476
-                  ]
-            },
-            {
-                  "name": "Orășelul Copiilor",
-                  "text": "Un parc de distracții pentru copii în Centrul Vechi al Bucureștiului cu activități în familie.",
-                  "category": "family",
-                  "coords": [
-                        26.109323,
-                        44.401186
-                  ]
-            },
-            {
-                  "name": "Bazin de înot",
-                  "text": "O piscină în Centrul Vechi al Bucureștiului pentru utilizare în familie.",
-                  "category": "family",
-                  "coords": [
-                        26.134851,
-                        44.454321
                   ]
             },
             {
@@ -33395,30 +24257,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "\"Dimitrie Brandza\" Botanic Garden",
-                  "text": "The Bucharest Botanic Garden houses thousands of plant species and a botanical museum.",
-                  "category": "museum",
-                  "coords": [
-                        26.066362,
-                        44.4369
-                  ]
-            },
-            {
                   "name": "National Theatre Bucharest Museum",
                   "text": "The museum documents the rich history of Romanian theatre.",
                   "category": "museum",
                   "coords": [
                         26.103626,
                         44.43763
-                  ]
-            },
-            {
-                  "name": "\"King Ferdinand I\" National Military Museum",
-                  "text": "It is the largest military museum in the country, showcasing the evolution of the Romanian army.",
-                  "category": "museum",
-                  "coords": [
-                        26.076483,
-                        44.441392
                   ]
             },
             {
@@ -33458,51 +24302,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "National Museum of Contemporary Art",
-                  "text": "The National Museum of Contemporary Art is a prominent museum located near Bucharest Old Town in Romania. Housed within a wing of the massive Palace of the Parliament, it focuses exclusively on modern art. Visitors can expect to browse through extensive collections of contemporary artistic expressions.",
-                  "category": "museum",
-                  "coords": [
-                        26.086631,
-                        44.428136
-                  ]
-            },
-            {
-                  "name": "National Museum of Maps and Rare Books",
-                  "text": "The museum displays an impressive collection of old maps and rare books.",
-                  "category": "museum",
-                  "coords": [
-                        26.092772,
-                        44.456966
-                  ]
-            },
-            {
-                  "name": "National Museum of the Romanian Peasant",
-                  "text": "The museum is dedicated to traditional culture and rural life in Romania.",
-                  "category": "museum",
-                  "coords": [
-                        26.083983,
-                        44.454423
-                  ]
-            },
-            {
-                  "name": "\"Grigore Antipa\" Natural History National Museum",
-                  "text": "This well-known museum offers extensive exhibitions on flora and fauna worldwide.",
-                  "category": "museum",
-                  "coords": [
-                        26.084627,
-                        44.453096
-                  ]
-            },
-            {
-                  "name": "National Geological Museum",
-                  "text": "The museum presents an impressive variety of rocks, minerals, and fossils.",
-                  "category": "museum",
-                  "coords": [
-                        26.085221,
-                        44.454817
-                  ]
-            },
-            {
                   "name": "Kretzulescu Palace",
                   "text": "Crețulescu Palace is a magnificent historic building in the center of Bucharest.",
                   "category": "castle",
@@ -33530,24 +24329,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Monumentul Infanteristului",
-                  "text": "The monument honors Romanian infantrymen for their sacrifice in the world wars.",
-                  "category": "historical",
-                  "coords": [
-                        26.069317,
-                        44.438194
-                  ]
-            },
-            {
-                  "name": "Monumentul Eroilor Artileriști",
-                  "text": "A monument in memory of the artillery heroes who fell in the line of duty.",
-                  "category": "historical",
-                  "coords": [
-                        26.07236,
-                        44.43456
-                  ]
-            },
-            {
                   "name": "Metropolis Teatrul",
                   "text": "A modern theater in Bucharest, known for its diverse performances.",
                   "category": "cultural",
@@ -33557,39 +24338,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "National Opera",
-                  "text": "The National Opera is the leading institution for opera and ballet in Romania.",
-                  "category": "cultural",
-                  "coords": [
-                        26.079552,
-                        44.436065
-                  ]
-            },
-            {
-                  "name": "Circul Globus",
-                  "text": "Globus Circus is a traditional venue for circus arts and entertainment.",
-                  "category": "cultural",
-                  "coords": [
-                        26.109527,
-                        44.45656
-                  ]
-            },
-            {
                   "name": "Mănăstirea Mihai Vodă",
                   "text": "This historic monastery was moved on rails to its current location in the 1980s.",
                   "category": "religious",
                   "coords": [
                         26.093308,
                         44.431554
-                  ]
-            },
-            {
-                  "name": "Antim Monastery",
-                  "text": "The monastery was built in the 18th century and is known for its rich architecture.",
-                  "category": "religious",
-                  "coords": [
-                        26.093471,
-                        44.426009
                   ]
             },
             {
@@ -33611,39 +24365,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă Apostol din Tabaci",
-                  "text": "A historic Orthodox church located in the Tabaci district of Bucharest's Old Town.",
-                  "category": "religious",
-                  "coords": [
-                        26.113996,
-                        44.418804
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă „Sfântul Spiridon Nou”",
-                  "text": "One of the largest Orthodox churches in Bucharest, known for its impressive scale and architecture.",
-                  "category": "religious",
-                  "coords": [
-                        26.1035,
-                        44.42388
-                  ]
-            },
-            {
                   "name": "Biserica „Sfântul Ilie” - Gorgani",
                   "text": "An Orthodox church built on a small hill in the historical center of Bucharest.",
                   "category": "religious",
                   "coords": [
                         26.09123,
                         44.433997
-                  ]
-            },
-            {
-                  "name": "Biserica Foișor",
-                  "text": "A charming Orthodox church in Bucharest with significant historical value.",
-                  "category": "religious",
-                  "coords": [
-                        26.123168,
-                        44.414777
                   ]
             },
             {
@@ -33683,15 +24410,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica Ortodoxă „Dobroteasa”",
-                  "text": "A historic Orthodox church in Bucharest, well-known for its long-standing religious traditions.",
-                  "category": "religious",
-                  "coords": [
-                        26.112374,
-                        44.422533
-                  ]
-            },
-            {
                   "name": "Biserica Sfinții Trei Ierarhi - Coltea Colțea",
                   "text": "Part of the Colțea Hospital complex, this church is a masterpiece of the Brâncovenesc architectural style.",
                   "category": "religious",
@@ -33701,39 +24419,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
-                  "text": "The Old Saint Elefterie Church is a small, historic architectural gem in Bucharest.",
-                  "category": "religious",
-                  "coords": [
-                        26.074547,
-                        44.433093
-                  ]
-            },
-            {
-                  "name": "Biserica \"Sfântul Elefterie Nou\"",
-                  "text": "A large, more modern Orthodox church in Bucharest, located near the National Opera.",
-                  "category": "religious",
-                  "coords": [
-                        26.077077,
-                        44.433488
-                  ]
-            },
-            {
                   "name": "Biserica Ortodoxă Mântuleasa",
                   "text": "An Orthodox church in Bucharest often mentioned in Romanian literature and local legends.",
                   "category": "religious",
                   "coords": [
                         26.1134,
                         44.435186
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
-                  "text": "An Orthodox church in the Plevna area of Bucharest, dedicated to Saint George.",
-                  "category": "religious",
-                  "coords": [
-                        26.072921,
-                        44.440976
                   ]
             },
             {
@@ -33782,15 +24473,6 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Dealul Arsenalului",
-                  "text": "A historic hill in Bucharest, now the site of the massive Palace of the Parliament.",
-                  "category": "natural",
-                  "coords": [
-                        26.078037,
-                        44.425748
-                  ]
-            },
-            {
                   "name": "Dealul Mitropoliei",
                   "text": "The spiritual heart of Bucharest, home to the Romanian Patriarchal Cathedral.",
                   "category": "natural",
@@ -33800,48 +24482,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Carol Park",
-                  "text": "An elegant public park in Bucharest featuring a monumental mausoleum and French-style gardens.",
-                  "category": "park",
-                  "coords": [
-                        26.096467,
-                        44.413988
-                  ]
-            },
-            {
-                  "name": "Izvor Park",
-                  "text": "A central park in Bucharest located directly across from the Palace of the Parliament.",
-                  "category": "park",
-                  "coords": [
-                        26.087567,
-                        44.431811
-                  ]
-            },
-            {
-                  "name": "Parcul Tineretului",
-                  "text": "A vast park in southern Bucharest featuring a large lake and extensive recreational facilities.",
-                  "category": "park",
-                  "coords": [
-                        26.109343,
-                        44.406294
-                  ]
-            },
-            {
                   "name": "Cișmigiu Gardens",
                   "text": "The oldest public park in Bucharest, famous for its romantic lake and English-style gardens.",
                   "category": "park",
                   "coords": [
                         26.090355,
                         44.437217
-                  ]
-            },
-            {
-                  "name": "Parcul Circului",
-                  "text": "A park in Bucharest known for its lotus-filled lake and the State Circus building.",
-                  "category": "park",
-                  "coords": [
-                        26.110516,
-                        44.457203
                   ]
             },
             {
@@ -33872,138 +24518,12 @@ export const romaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Morii",
-                  "text": "A scenic lake near Bucharest Old Town, ideal for walks and views.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "A lake offering a relaxing setting near Bucharest Old Town.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lake Băneasa",
-                  "text": "A scenic lake in the vicinity of Bucharest Old Town.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
                   "name": "Bazin decantare",
                   "text": "A settling basin in Bucharest Old Town that forms part of the local water landscape.",
                   "category": "natural",
                   "coords": [
                         26.002994,
                         44.444706
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "Bazin apa Cotroceni is a water basin in Bucharest Old Town offering a quiet spot by the water.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "Lacul Grivița is a spacious lake in Bucharest Old Town, ideal for walks along the shore.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Lacul IOR is a popular lake in Bucharest Old Town, perfect for outdoor relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
-                  "name": "Lacul Pantelimon",
-                  "text": "Lacul Pantelimon in Bucharest Old Town is a beautiful lake that invites visitors to spend time in nature.",
-                  "category": "natural",
-                  "coords": [
-                        26.209104,
-                        44.441318
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "Lacul Herăstrău is a well-known lake in Bucharest Old Town, ideal for boat rides and walking.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "Balta Pipera is a scenic body of water in Bucharest Old Town, offering a natural setting.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "Lacul Tineretului is a central lake in Bucharest Old Town, surrounded by green spaces for recreation.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Lacul Plumbuita in Bucharest Old Town is a calm lake, well-suited for relaxing afternoons.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lacul Dobroești",
-                  "text": "Lacul Dobroești is a lake in Bucharest Old Town that provides a nice backdrop for outdoor activities.",
-                  "category": "natural",
-                  "coords": [
-                        26.173695,
-                        44.449024
-                  ]
-            },
-            {
-                  "name": "Lake Fundeni",
-                  "text": "Lake Fundeni is a prominent lake in Bucharest Old Town, ideal for relaxing by the water.",
-                  "category": "natural",
-                  "coords": [
-                        26.150077,
-                        44.455844
-                  ]
-            },
-            {
-                  "name": "Parc",
-                  "text": "This park in Bucharest Old Town offers a safe and friendly play area for children.",
-                  "category": "family",
-                  "coords": [
-                        26.084353,
-                        44.416817
                   ]
             },
             {
@@ -34049,51 +24569,6 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.115783,
                         44.405645
-                  ]
-            },
-            {
-                  "name": "Wellness & Pool BabySpa",
-                  "text": "A family-friendly wellness center in Bucharest's Old Town.",
-                  "category": "family",
-                  "coords": [
-                        26.131283,
-                        44.412851
-                  ]
-            },
-            {
-                  "name": "Bazin Olimpic",
-                  "text": "An Olympic swimming pool in Bucharest's Old Town for family recreation.",
-                  "category": "family",
-                  "coords": [
-                        26.146701,
-                        44.435432
-                  ]
-            },
-            {
-                  "name": "Ștrandul Văcărești - Ștrandul Copiilor",
-                  "text": "A water park for children in the Old Town area.",
-                  "category": "family",
-                  "coords": [
-                        26.115851,
-                        44.402476
-                  ]
-            },
-            {
-                  "name": "Children's Town",
-                  "text": "A children's theme park in Bucharest's Old Town with family activities.",
-                  "category": "family",
-                  "coords": [
-                        26.109323,
-                        44.401186
-                  ]
-            },
-            {
-                  "name": "Bazin de înot",
-                  "text": "A swimming pool in Bucharest's Old Town for family use.",
-                  "category": "family",
-                  "coords": [
-                        26.134851,
-                        44.454321
                   ]
             },
             {
@@ -34649,16 +25124,6 @@ export const romaniaCities: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Dino Parc",
-                  "text": "Der größte Dinosaurierpark in Südosteuropa mit lebensgroßen Modellen inmitten eines dichten Waldgebiets.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        25.474148,
-                        45.591341
-                  ]
-            },
-            {
                   "name": "Bauernburg Rosenau",
                   "text": "Eine imposante mittelalterliche Festung, die einen weiten Panoramblick über das Burzenland und die Karpaten bietet.",
                   "category": "fortress",
@@ -34717,16 +25182,6 @@ export const romaniaCities: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Dino Parc",
-                  "text": "Délkelet-Európa legnagyobb dinoszauruszparkja, ahol életnagyságú makettek várják a látogatókat az erdő mélyén.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        25.474148,
-                        45.591341
-                  ]
-            },
             {
                   "name": "Barcarozsnyói vár",
                   "text": "Impozáns középkori parasztvár, ahonnan csodálatos kilátás nyílik a Barcaságra és a környező hegyekre.",
@@ -34787,16 +25242,6 @@ export const romaniaCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Dino Parc",
-                  "text": "Cel mai mare parc cu dinozauri din Europa de Sud-Est, oferind replici în mărime naturală într-un cadru deosebit.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        25.474148,
-                        45.591341
-                  ]
-            },
-            {
                   "name": "Cetatea Râșnov",
                   "text": "O fortăreață medievală impunătoare care oferă panorame superbe asupra Depresiunii Brașovului și munților.",
                   "category": "fortress",
@@ -34855,16 +25300,6 @@ export const romaniaCities: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Dino Parc Râșnov",
-                  "text": "The largest dinosaur theme park in Southeastern Europe, featuring dozens of life-sized prehistoric replicas in a forest.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        25.474148,
-                        45.591341
-                  ]
-            },
             {
                   "name": "Râșnov Fortress",
                   "text": "A powerful medieval citadel that offers stunning panoramic views of the Transylvanian countryside and mountains.",
@@ -35003,30 +25438,12 @@ export const romaniaNature: POI[] = [
     id: "river-prut", "sights": {
       "de": [
             {
-                  "name": "Rezervația științifică „Prutul de Jos“",
-                  "text": "UNESCO-Biosphärenreservat am Beleu-See in der Republik Moldau.",
-                  "category": "natural",
-                  "coords": [
-                        28.13135,
-                        45.600825
-                  ]
-            },
-            {
                   "name": "Muzeul Satului",
                   "text": "Geschichts- und Ethnografiemuseum in Slobozia Mare, Republik Moldau.",
                   "category": "museum",
                   "coords": [
                         28.054838,
                         45.613362
-                  ]
-            },
-            {
-                  "name": "Casa Albă",
-                  "text": "Ein lokales Wahrzeichen in der Nähe von Văleni, Republik Moldau.",
-                  "category": "landmark",
-                  "coords": [
-                        28.1323,
-                        45.621467
                   ]
             },
             {
@@ -35041,30 +25458,12 @@ export const romaniaNature: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Rezervația științifică „Prutul de Jos“",
-                  "text": "UNESCO bioszféra-rezervátum a moldovai Beleu-tónál.",
-                  "category": "natural",
-                  "coords": [
-                        28.13135,
-                        45.600825
-                  ]
-            },
-            {
                   "name": "Muzeul Satului",
                   "text": "Történeti és néprajzi múzeum a moldovai Slobozia Mare településen.",
                   "category": "museum",
                   "coords": [
                         28.054838,
                         45.613362
-                  ]
-            },
-            {
-                  "name": "Casa Albă",
-                  "text": "Helyi jellegzetes épület a moldovai Văleni közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        28.1323,
-                        45.621467
                   ]
             },
             {
@@ -35079,30 +25478,12 @@ export const romaniaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rezervația științifică „Prutul de Jos“",
-                  "text": "Rezervație a biosferei UNESCO pe Lacul Beleu, în Republica Moldova.",
-                  "category": "natural",
-                  "coords": [
-                        28.13135,
-                        45.600825
-                  ]
-            },
-            {
                   "name": "Muzeul Satului",
                   "text": "Muzeu de istorie și etnografie situat în Slobozia Mare, Republica Moldova.",
                   "category": "museum",
                   "coords": [
                         28.054838,
                         45.613362
-                  ]
-            },
-            {
-                  "name": "Casa Albă",
-                  "text": "O clădire emblematică locală situată lângă Văleni, Republica Moldova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.1323,
-                        45.621467
                   ]
             },
             {
@@ -35117,30 +25498,12 @@ export const romaniaNature: POI[] = [
       ],
       "en": [
             {
-                  "name": "Scientific Reserve \"Lower Pruth\"",
-                  "text": "UNESCO Biosphere Reserve on Lake Beleu in Moldova.",
-                  "category": "natural",
-                  "coords": [
-                        28.13135,
-                        45.600825
-                  ]
-            },
-            {
                   "name": "Village Museum",
                   "text": "History and Ethnography Museum in Slobozia Mare, Moldova.",
                   "category": "museum",
                   "coords": [
                         28.054838,
                         45.613362
-                  ]
-            },
-            {
-                  "name": "White House",
-                  "text": "A local landmark building near Văleni, Moldova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.1323,
-                        45.621467
                   ]
             },
             {
@@ -35381,51 +25744,6 @@ export const romaniaNature: POI[] = [
     id: "mountain-negoiu", "sights": {
       "de": [
             {
-                  "name": "Negoiu",
-                  "text": "Mit 2535 Metern der zweithöchste Berggipfel Rumäniens im Făgăraș-Gebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        24.558569,
-                        45.585047
-                  ]
-            },
-            {
-                  "name": "Șerbotă",
-                  "text": "Ein Berggipfel im zentralen Teil des Făgăraș-Gebirges in den Südkarpaten.",
-                  "category": "landmark",
-                  "coords": [
-                        24.53874,
-                        45.584887
-                  ]
-            },
-            {
-                  "name": "Lespezi",
-                  "text": "Ein markanter Gipfel im Făgăraș-Massiv, bekannt für seine steilen Felswände.",
-                  "category": "landmark",
-                  "coords": [
-                        24.56998,
-                        45.577943
-                  ]
-            },
-            {
-                  "name": "Călțun",
-                  "text": "Ein Berggipfel im Făgăraș-Gebirge, nahe dem gleichnamigen Gletschersee gelegen.",
-                  "category": "landmark",
-                  "coords": [
-                        24.567767,
-                        45.578188
-                  ]
-            },
-            {
-                  "name": "Vârful Dintre Strungi",
-                  "text": "Ein Berggipfel im Hauptkamm des Făgăraș-Gebirges in Rumänien.",
-                  "category": "landmark",
-                  "coords": [
-                        24.559881,
-                        45.581707
-                  ]
-            },
-            {
                   "name": "Marginea",
                   "text": "Ein Berggipfel in den rumänischen Karpaten im Gebiet des Negoiu-Massivs.",
                   "category": "landmark",
@@ -35436,51 +25754,6 @@ export const romaniaNature: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Negoj-csúcs",
-                  "text": "Románia második legmagasabb hegycsúcsa a Fogarasi-havasokban, magassága 2535 méter.",
-                  "category": "landmark",
-                  "coords": [
-                        24.558569,
-                        45.585047
-                  ]
-            },
-            {
-                  "name": "Serbota-csúcs",
-                  "text": "Hegycsúcs a Fogarasi-havasok központi részén, a Déli-Kárpátokban.",
-                  "category": "landmark",
-                  "coords": [
-                        24.53874,
-                        45.584887
-                  ]
-            },
-            {
-                  "name": "Leszpez-csúcs",
-                  "text": "A Fogarasi-havasok egyik jelentős csúcsa, amely meredek sziklafalairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        24.56998,
-                        45.577943
-                  ]
-            },
-            {
-                  "name": "Kalcun-csúcs",
-                  "text": "Hegycsúcs a Fogarasi-havasokban, az azonos nevű gleccsertó közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        24.567767,
-                        45.578188
-                  ]
-            },
-            {
-                  "name": "Vârful Dintre Strungi",
-                  "text": "Hegycsúcs a Fogarasi-havasok főgerincén, Romániában.",
-                  "category": "landmark",
-                  "coords": [
-                        24.559881,
-                        45.581707
-                  ]
-            },
             {
                   "name": "Marginea",
                   "text": "Hegycsúcs a Román-Kárpátokban, a Negoj-masszívum területén.",
@@ -35493,51 +25766,6 @@ export const romaniaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Negoiu",
-                  "text": "Al doilea cel mai înalt vârf muntos din România, situat în Munții Făgăraș la 2535 de metri.",
-                  "category": "landmark",
-                  "coords": [
-                        24.558569,
-                        45.585047
-                  ]
-            },
-            {
-                  "name": "Șerbotă",
-                  "text": "Un vârf muntos în partea centrală a Munților Făgăraș, în Carpații Meridionali.",
-                  "category": "landmark",
-                  "coords": [
-                        24.53874,
-                        45.584887
-                  ]
-            },
-            {
-                  "name": "Lespezi",
-                  "text": "Un vârf proeminent în masivul Făgăraș, cunoscut pentru versanții săi stâncoși și abrupți.",
-                  "category": "landmark",
-                  "coords": [
-                        24.56998,
-                        45.577943
-                  ]
-            },
-            {
-                  "name": "Călțun",
-                  "text": "Un vârf muntos în Munții Făgăraș, situat în apropierea lacului glaciar cu același nume.",
-                  "category": "landmark",
-                  "coords": [
-                        24.567767,
-                        45.578188
-                  ]
-            },
-            {
-                  "name": "Vârful Dintre Strungi",
-                  "text": "Un vârf muntos situat pe creasta principală a Munților Făgăraș din România.",
-                  "category": "landmark",
-                  "coords": [
-                        24.559881,
-                        45.581707
-                  ]
-            },
-            {
                   "name": "Marginea",
                   "text": "Un vârf muntos în Carpații Românești, în zona masivului Negoiu.",
                   "category": "landmark",
@@ -35548,51 +25776,6 @@ export const romaniaNature: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Negoiu",
-                  "text": "The second highest mountain peak in Romania, located in the Făgăraș Mountains at 2,535 meters.",
-                  "category": "landmark",
-                  "coords": [
-                        24.558569,
-                        45.585047
-                  ]
-            },
-            {
-                  "name": "Șerbotă",
-                  "text": "A mountain peak in the central part of the Făgăraș Mountains in the Southern Carpathians.",
-                  "category": "landmark",
-                  "coords": [
-                        24.53874,
-                        45.584887
-                  ]
-            },
-            {
-                  "name": "Lespezi",
-                  "text": "A prominent peak in the Făgăraș Massif, known for its steep and rocky slopes.",
-                  "category": "landmark",
-                  "coords": [
-                        24.56998,
-                        45.577943
-                  ]
-            },
-            {
-                  "name": "Călțun",
-                  "text": "A mountain peak in the Făgăraș Mountains, located near the glacial lake of the same name.",
-                  "category": "landmark",
-                  "coords": [
-                        24.567767,
-                        45.578188
-                  ]
-            },
-            {
-                  "name": "Vârful Dintre Strungi",
-                  "text": "A mountain peak located on the main ridge of the Făgăraș Mountains in Romania.",
-                  "category": "landmark",
-                  "coords": [
-                        24.559881,
-                        45.581707
-                  ]
-            },
             {
                   "name": "Marginea",
                   "text": "A mountain peak in the Romanian Carpathians, within the Negoiu Massif area.",
@@ -35658,33 +25841,6 @@ export const romaniaNature: POI[] = [
     id: "mountain-retezat", "sights": {
       "de": [
             {
-                  "name": "Peleaga",
-                  "text": "Der höchste Gipfel im Retezat-Gebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        22.892861,
-                        45.365613
-                  ]
-            },
-            {
-                  "name": "Vârful Păpușa",
-                  "text": "Ein markanter Berggipfel im Retezat-Gebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        22.90792,
-                        45.369941
-                  ]
-            },
-            {
-                  "name": "Vârful Retezat",
-                  "text": "Ein bekannter Berggipfel, nach dem das Retezat-Gebirge benannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        22.849312,
-                        45.380805
-                  ]
-            },
-            {
                   "name": "Lacul Zănoaga Mare",
                   "text": "Der tiefste Gletschersee Rumäniens im Retezat-Gebirge.",
                   "category": "landmark",
@@ -35692,45 +25848,9 @@ export const romaniaNature: POI[] = [
                         22.822342,
                         45.346155
                   ]
-            },
-            {
-                  "name": "Bordul Tomii",
-                  "text": "Eine Sehenswürdigkeit in der Natur des Retezat-Gebirges.",
-                  "category": "landmark",
-                  "coords": [
-                        22.876461,
-                        45.381076
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Pelága-csúcs",
-                  "text": "A Retyezát-hegység legmagasabb csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        22.892861,
-                        45.365613
-                  ]
-            },
-            {
-                  "name": "Papusa-csúcs",
-                  "text": "Egy jelentős hegycsúcs a Retyezát-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        22.90792,
-                        45.369941
-                  ]
-            },
-            {
-                  "name": "Retyezát",
-                  "text": "Ismert hegycsúcs, amelyről a Retyezát-hegység a nevét kapta.",
-                  "category": "landmark",
-                  "coords": [
-                        22.849312,
-                        45.380805
-                  ]
-            },
             {
                   "name": "Zenóga-tó",
                   "text": "Románia legmélyebb gleccsertava a Retyezát-hegységben.",
@@ -35739,45 +25859,9 @@ export const romaniaNature: POI[] = [
                         22.822342,
                         45.346155
                   ]
-            },
-            {
-                  "name": "Tamás-szikla",
-                  "text": "Természeti látnivaló a Retyezát-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        22.876461,
-                        45.381076
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Peleaga",
-                  "text": "Cel mai înalt vârf montan din Munții Retezat.",
-                  "category": "landmark",
-                  "coords": [
-                        22.892861,
-                        45.365613
-                  ]
-            },
-            {
-                  "name": "Vârful Păpușa",
-                  "text": "Un vârf montan proeminent din Munții Retezat.",
-                  "category": "landmark",
-                  "coords": [
-                        22.90792,
-                        45.369941
-                  ]
-            },
-            {
-                  "name": "Vârful Retezat",
-                  "text": "Un vârf montan cunoscut care dă numele masivului Retezat.",
-                  "category": "landmark",
-                  "coords": [
-                        22.849312,
-                        45.380805
-                  ]
-            },
             {
                   "name": "Lacul Zănoaga Mare",
                   "text": "Cel mai adânc lac glaciar din România, situat în Munții Retezat.",
@@ -35786,45 +25870,9 @@ export const romaniaNature: POI[] = [
                         22.822342,
                         45.346155
                   ]
-            },
-            {
-                  "name": "Bordul Tomii",
-                  "text": "O atracție turistică naturală în Munții Retezat.",
-                  "category": "landmark",
-                  "coords": [
-                        22.876461,
-                        45.381076
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Peleaga",
-                  "text": "The highest mountain peak in the Retezat Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        22.892861,
-                        45.365613
-                  ]
-            },
-            {
-                  "name": "Vârful Păpușa",
-                  "text": "A prominent mountain peak in the Retezat Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        22.90792,
-                        45.369941
-                  ]
-            },
-            {
-                  "name": "Vârful Retezat",
-                  "text": "A well-known mountain peak that gives its name to the Retezat range.",
-                  "category": "landmark",
-                  "coords": [
-                        22.849312,
-                        45.380805
-                  ]
-            },
             {
                   "name": "Zănoaga Mare Lake",
                   "text": "The deepest glacial lake in Romania, located in the Retezat Mountains.",
@@ -35832,15 +25880,6 @@ export const romaniaNature: POI[] = [
                   "coords": [
                         22.822342,
                         45.346155
-                  ]
-            },
-            {
-                  "name": "Bordul Tomii",
-                  "text": "A scenic attraction in the Retezat Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        22.876461,
-                        45.381076
                   ]
             }
       ]
@@ -36839,15 +26878,6 @@ export const romaniaNature: POI[] = [
     id: "lake-sfanta-ana", "sights": {
       "de": [
             {
-                  "name": "Tinovul Mohoş - Lacul Sf. Ana",
-                  "text": "Ein bedeutendes Naturschutzgebiet in der Nähe des St.-Anna-Sees.",
-                  "category": "natural",
-                  "coords": [
-                        25.895974,
-                        46.130873
-                  ]
-            },
-            {
                   "name": "Ciomatul Mare",
                   "text": "Der höchste Gipfel des Ciomatu-Massivs in der Nähe des St.-Anna-Sees.",
                   "category": "landmark",
@@ -36857,39 +26887,12 @@ export const romaniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Tinovul Mohoș",
-                  "text": "Ein geschütztes Hochmoor in einem Vulkankrater beim St.-Anna-See.",
-                  "category": "landmark",
-                  "coords": [
-                        25.904176,
-                        46.133695
-                  ]
-            },
-            {
                   "name": "Piatra Șoimilor",
                   "text": "Überreste einer historischen Stätte oder Felsformation beim St.-Anna-See.",
                   "category": "historical",
                   "coords": [
                         25.847804,
                         46.1131
-                  ]
-            },
-            {
-                  "name": "Széndioxid kiáramlás",
-                  "text": "Eine natürliche Kohlendioxid-Quelle (Mofette) in der Region des St.-Anna-Sees.",
-                  "category": "landmark",
-                  "coords": [
-                        25.893618,
-                        46.130997
-                  ]
-            },
-            {
-                  "name": "Mofet",
-                  "text": "Ein Erholungsort beim St.-Anna-See, der für seine natürlichen Gas-Emanationen bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        25.928479,
-                        46.118218
                   ]
             },
             {
@@ -36904,15 +26907,6 @@ export const romaniaNature: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Mohos-tözegláp - Szent Anna-tó",
-                  "text": "Fontos természetvédelmi terület a Szent Anna-tó közelében.",
-                  "category": "natural",
-                  "coords": [
-                        25.895974,
-                        46.130873
-                  ]
-            },
-            {
                   "name": "Nagy Csomád",
                   "text": "A Csomád-hegység legmagasabb csúcsa a Szent Anna-tó közelében.",
                   "category": "landmark",
@@ -36922,39 +26916,12 @@ export const romaniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Mohos-tőzegláp",
-                  "text": "Vulkáni kráterben kialakult védett tőzegláp a Szent Anna-tó mellett.",
-                  "category": "landmark",
-                  "coords": [
-                        25.904176,
-                        46.133695
-                  ]
-            },
-            {
                   "name": "Alsó-Sólyomkő",
                   "text": "Történelmi helyszín vagy sziklaalakzat maradványai a Szent Anna-tónál.",
                   "category": "historical",
                   "coords": [
                         25.847804,
                         46.1131
-                  ]
-            },
-            {
-                  "name": "Széndioxid kiáramlás",
-                  "text": "Természetes szén-dioxid kiáramlás, azaz mofetta a Szent Anna-tó környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        25.893618,
-                        46.130997
-                  ]
-            },
-            {
-                  "name": "Vallató-mofetta",
-                  "text": "A Szent Anna-tónál található üdülőhely, amely gázfürdőjéről (mofetta) ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        25.928479,
-                        46.118218
                   ]
             },
             {
@@ -36969,15 +26936,6 @@ export const romaniaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Tinovul Mohoş - Lacul Sf. Ana",
-                  "text": "O rezervație naturală importantă situată în apropierea Lacului Sfânta Ana.",
-                  "category": "natural",
-                  "coords": [
-                        25.895974,
-                        46.130873
-                  ]
-            },
-            {
                   "name": "Ciomatul Mare",
                   "text": "Cel mai înalt vârf al masivului Ciomatu, situat lângă Lacul Sfânta Ana.",
                   "category": "landmark",
@@ -36987,39 +26945,12 @@ export const romaniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Tinovul Mohoș",
-                  "text": "O mlaștină oligotrofă protejată, situată într-un crater vulcanic lângă Lacul Sfânta Ana.",
-                  "category": "landmark",
-                  "coords": [
-                        25.904176,
-                        46.133695
-                  ]
-            },
-            {
                   "name": "Piatra Șoimilor",
                   "text": "Rămășițele unui sit istoric sau formațiune stâncoasă lângă Lacul Sfânta Ana.",
                   "category": "historical",
                   "coords": [
                         25.847804,
                         46.1131
-                  ]
-            },
-            {
-                  "name": "Széndioxid kiáramlás",
-                  "text": "O emanație naturală de dioxid de carbon (mofetă) în zona Lacului Sfânta Ana.",
-                  "category": "landmark",
-                  "coords": [
-                        25.893618,
-                        46.130997
-                  ]
-            },
-            {
-                  "name": "Mofet",
-                  "text": "O stațiune de lângă Lacul Sfânta Ana, cunoscută pentru emanațiile naturale de gaz.",
-                  "category": "recreational",
-                  "coords": [
-                        25.928479,
-                        46.118218
                   ]
             },
             {
@@ -37034,15 +26965,6 @@ export const romaniaNature: POI[] = [
       ],
       "en": [
             {
-                  "name": "Tinovul Mohoş - Lacul Sf. Ana",
-                  "text": "An important nature reserve located near Saint Ana Lake.",
-                  "category": "natural",
-                  "coords": [
-                        25.895974,
-                        46.130873
-                  ]
-            },
-            {
                   "name": "Ciomatul Mare",
                   "text": "The highest peak of the Ciomatu massif near Saint Ana Lake.",
                   "category": "landmark",
@@ -37052,39 +26974,12 @@ export const romaniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Tinovul Mohoș",
-                  "text": "A protected peat bog located in a volcanic crater near Saint Ana Lake.",
-                  "category": "landmark",
-                  "coords": [
-                        25.904176,
-                        46.133695
-                  ]
-            },
-            {
                   "name": "Piatra Șoimilor",
                   "text": "Remains of a historical site or rock formation near Saint Ana Lake.",
                   "category": "historical",
                   "coords": [
                         25.847804,
                         46.1131
-                  ]
-            },
-            {
-                  "name": "Széndioxid kiáramlás",
-                  "text": "A natural carbon dioxide emission (mofette) in the Saint Ana Lake area.",
-                  "category": "landmark",
-                  "coords": [
-                        25.893618,
-                        46.130997
-                  ]
-            },
-            {
-                  "name": "Mofet",
-                  "text": "A resort near Saint Ana Lake known for its natural gas emanations.",
-                  "category": "recreational",
-                  "coords": [
-                        25.928479,
-                        46.118218
                   ]
             },
             {
@@ -37152,30 +27047,12 @@ export const romaniaNature: POI[] = [
     id: "lake-vidraru", "sights": {
       "de": [
             {
-                  "name": "Cetatea Poenari",
-                  "text": "Eine historische Bergfestung in Rumänien, die mit Vlad dem Pfähler in Verbindung gebracht wird.",
-                  "category": "castle",
-                  "coords": [
-                        24.635238,
-                        45.353903
-                  ]
-            },
-            {
                   "name": "Albina",
                   "text": "Ein Berggipfel in den Karpaten in der Nähe des Vidraru-Stausees.",
                   "category": "landmark",
                   "coords": [
                         24.656315,
                         45.353927
-                  ]
-            },
-            {
-                  "name": "Valea lui Stan - intrare traseu",
-                  "text": "Der Ausgangspunkt für einen beliebten Wanderweg durch eine spektakuläre Schlucht.",
-                  "category": "landmark",
-                  "coords": [
-                        24.616741,
-                        45.362109
                   ]
             },
             {
@@ -37190,30 +27067,12 @@ export const romaniaNature: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Poenari-vár",
-                  "text": "Egy történelmi hegyi erőd Romániában, amelyet Vlad Tepeșsel hoznak összefüggésbe.",
-                  "category": "castle",
-                  "coords": [
-                        24.635238,
-                        45.353903
-                  ]
-            },
-            {
                   "name": "Albina",
                   "text": "Egy hegycsúcs a Kárpátokban, a Vidraru-tó közelében.",
                   "category": "landmark",
                   "coords": [
                         24.656315,
                         45.353927
-                  ]
-            },
-            {
-                  "name": "Stan-völgye",
-                  "text": "Egy népszerű, látványos szurdokon keresztülvezető túraútvonal kezdőpontja.",
-                  "category": "landmark",
-                  "coords": [
-                        24.616741,
-                        45.362109
                   ]
             },
             {
@@ -37228,30 +27087,12 @@ export const romaniaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Cetatea Poenari",
-                  "text": "O cetate istorică pe munte în România, asociată cu Vlad Țepeș.",
-                  "category": "castle",
-                  "coords": [
-                        24.635238,
-                        45.353903
-                  ]
-            },
-            {
                   "name": "Albina",
                   "text": "Un vârf montan în Carpați, situat în apropierea lacului Vidraru.",
                   "category": "landmark",
                   "coords": [
                         24.656315,
                         45.353927
-                  ]
-            },
-            {
-                  "name": "Valea lui Stan - intrare traseu",
-                  "text": "Punctul de plecare pentru un traseu popular de drumeție printr-un canion spectaculos.",
-                  "category": "landmark",
-                  "coords": [
-                        24.616741,
-                        45.362109
                   ]
             },
             {
@@ -37266,30 +27107,12 @@ export const romaniaNature: POI[] = [
       ],
       "en": [
             {
-                  "name": "Poenari Castle",
-                  "text": "A historic clifftop fortress in Romania associated with Vlad the Impaler.",
-                  "category": "castle",
-                  "coords": [
-                        24.635238,
-                        45.353903
-                  ]
-            },
-            {
                   "name": "Albina",
                   "text": "A mountain peak in the Carpathians located near Lake Vidraru.",
                   "category": "landmark",
                   "coords": [
                         24.656315,
                         45.353927
-                  ]
-            },
-            {
-                  "name": "Valea lui Stan - intrare traseu",
-                  "text": "The starting point for a popular hiking trail through a spectacular canyon.",
-                  "category": "landmark",
-                  "coords": [
-                        24.616741,
-                        45.362109
                   ]
             },
             {
@@ -37398,15 +27221,6 @@ export const romaniaNature: POI[] = [
     id: "lake-rosu", "sights": {
       "de": [
             {
-                  "name": "Altar-Stein",
-                  "text": "Der Oltár-kő ist ein markanter Berggipfel in der Nähe des Roten Sees.",
-                  "category": "landmark",
-                  "coords": [
-                        25.813471,
-                        46.814353
-                  ]
-            },
-            {
                   "name": "Frosch-Schlucht",
                   "text": "Die Bicaz-Klamm ist eine beeindruckende Schlucht in den Ostkarpaten.",
                   "category": "landmark",
@@ -37434,33 +27248,6 @@ export const romaniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Gatter der Hölle",
-                  "text": "Das Höllentor ist eine markante Felsformation in der Nähe von Red Lake.",
-                  "category": "landmark",
-                  "coords": [
-                        25.820223,
-                        46.812261
-                  ]
-            },
-            {
-                  "name": "Veranda der Hölle",
-                  "text": "Hell's porch ist ein Aussichtspunkt, der spektakuläre Ausblicke auf die umliegende Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        25.818695,
-                        46.808857
-                  ]
-            },
-            {
-                  "name": "Poarta de Piatra",
-                  "text": "Das Steintor ist eine natürliche Felsattraktion in der Nähe von Red Lake.",
-                  "category": "landmark",
-                  "coords": [
-                        25.813521,
-                        46.808386
-                  ]
-            },
-            {
                   "name": "Poiană",
                   "text": "Die Poiană ist eine malerische Lichtung in der Gegend von Red Lake.",
                   "category": "landmark",
@@ -37480,15 +27267,6 @@ export const romaniaNature: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Oltár-kő",
-                  "text": "Az Oltár-kő a Békás-szoros egyik leglátványosabb sziklaszirthelye a Gyilkos-tó közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        25.813471,
-                        46.814353
-                  ]
-            },
             {
                   "name": "Békás-szoros",
                   "text": "A Békás-szoros egy lenyűgöző szurdokvölgy a Keleti-Kárpátokban.",
@@ -37517,33 +27295,6 @@ export const romaniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Pokol kapuja",
-                  "text": "A Pokol kapuja egy jellegzetes sziklaképződmény a Gyilkos-tó vidékén.",
-                  "category": "landmark",
-                  "coords": [
-                        25.820223,
-                        46.812261
-                  ]
-            },
-            {
-                  "name": "Pokol tornáca",
-                  "text": "A Pokol tornáca egy kilátóhely, amely látványos panorámát nyújt a környékre.",
-                  "category": "natural",
-                  "coords": [
-                        25.818695,
-                        46.808857
-                  ]
-            },
-            {
-                  "name": "Poarta de Piatra",
-                  "text": "A Kőkapu egy természetes sziklaalakzat a Gyilkos-tó közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        25.813521,
-                        46.808386
-                  ]
-            },
-            {
                   "name": "Poiană",
                   "text": "A tisztás egy festői nyílt terület a Gyilkos-tó térségében.",
                   "category": "landmark",
@@ -37563,15 +27314,6 @@ export const romaniaNature: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Piatra Altarului (Turnu Bardosului)",
-                  "text": "Piatra Altarului este un vârf montan spectaculos situat în apropierea Lacului Roșu.",
-                  "category": "landmark",
-                  "coords": [
-                        25.813471,
-                        46.814353
-                  ]
-            },
             {
                   "name": "Cheile Bicazului",
                   "text": "Cheile Bicazului reprezintă un defileu impresionant situat în Carpații Orientali.",
@@ -37600,33 +27342,6 @@ export const romaniaNature: POI[] = [
                   ]
             },
             {
-                  "name": "Poarta ladului",
-                  "text": "Poarta Iadului este o formațiune stâncoasă remarcabilă situată în apropiere de Lacul Roșu.",
-                  "category": "landmark",
-                  "coords": [
-                        25.820223,
-                        46.812261
-                  ]
-            },
-            {
-                  "name": "Pridvorul ladului",
-                  "text": "Ceridacul Iadului este un punct de observație ce oferă vederi spectaculoase asupra naturii înconjurătoare.",
-                  "category": "natural",
-                  "coords": [
-                        25.818695,
-                        46.808857
-                  ]
-            },
-            {
-                  "name": "Poarta de Piatra",
-                  "text": "Poarta de Piatră este o atracție naturală stâncoasă situată în zona Lacului Roșu.",
-                  "category": "landmark",
-                  "coords": [
-                        25.813521,
-                        46.808386
-                  ]
-            },
-            {
                   "name": "Poiană",
                   "text": "Poiana este o zonă deschisă pitorească situată în împrejurimile Lacului Roșu.",
                   "category": "landmark",
@@ -37646,15 +27361,6 @@ export const romaniaNature: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Altar stone",
-                  "text": "Altar stone is a prominent mountain peak located near Red Lake.",
-                  "category": "landmark",
-                  "coords": [
-                        25.813471,
-                        46.814353
-                  ]
-            },
             {
                   "name": "Frog's canyon (Bicaz Canyon)",
                   "text": "Frog's Canyon, also known as Bicaz Canyon, is an impressive gorge in the Eastern Carpathians.",
@@ -37680,33 +27386,6 @@ export const romaniaNature: POI[] = [
                   "coords": [
                         25.788198,
                         46.791988
-                  ]
-            },
-            {
-                  "name": "Hell's Gate",
-                  "text": "Hell's Gate is a striking rock formation located in the Red Lake vicinity.",
-                  "category": "landmark",
-                  "coords": [
-                        25.820223,
-                        46.812261
-                  ]
-            },
-            {
-                  "name": "Hell's porch",
-                  "text": "Hell's porch is a viewpoint providing spectacular vistas of the surrounding natural landscape.",
-                  "category": "natural",
-                  "coords": [
-                        25.818695,
-                        46.808857
-                  ]
-            },
-            {
-                  "name": "Poarta de Piatra",
-                  "text": "Poarta de Piatra is a natural rock attraction located near Red Lake.",
-                  "category": "landmark",
-                  "coords": [
-                        25.813521,
-                        46.808386
                   ]
             },
             {
@@ -37835,158 +27514,10 @@ export const romaniaNature: POI[] = [
   },
   {
     id: "nature-apuseni-np", "sights": {
-      "de": [
-            {
-                  "name": "Parcul Natural Apuseni",
-                  "text": "Ein weitläufiges Naturschutzgebiet in den Westrumänischen Karpaten.",
-                  "category": "natural",
-                  "coords": [
-                        22.802147,
-                        46.583292
-                  ]
-            },
-            {
-                  "name": "Coiba Mare",
-                  "text": "Diese Höhle im Apuseni-Gebirge besitzt eines der größten Höhlenportale Rumäniens.",
-                  "category": "landmark",
-                  "coords": [
-                        22.777965,
-                        46.537276
-                  ]
-            },
-            {
-                  "name": "Ghețarul de la Vârtop",
-                  "text": "Eine bedeutende Eishöhle im Apuseni-Nationalpark, bekannt für ihre prähistorischen Funde.",
-                  "category": "landmark",
-                  "coords": [
-                        22.7807,
-                        46.54082
-                  ]
-            },
-            {
-                  "name": "Cheile Gardisoarei",
-                  "text": "Eine malerische Kalksteinschlucht im Herzen des Apuseni-Nationalparks.",
-                  "category": "landmark",
-                  "coords": [
-                        22.766396,
-                        46.546618
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Parcul Natural Apuseni",
-                  "text": "Kiterjedt természetvédelmi terület az Erdélyi-középhegységben.",
-                  "category": "natural",
-                  "coords": [
-                        22.802147,
-                        46.583292
-                  ]
-            },
-            {
-                  "name": "Coiba Mare",
-                  "text": "Ez az Erdélyi-középhegységben található barlang Románia egyik legnagyobb barlangbejáratával rendelkezik.",
-                  "category": "landmark",
-                  "coords": [
-                        22.777965,
-                        46.537276
-                  ]
-            },
-            {
-                  "name": "Ghețarul de la Vârtop",
-                  "text": "Jelentős jégbarlang az Erdélyi-szigethegységben, amely őskori leleteiről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        22.7807,
-                        46.54082
-                  ]
-            },
-            {
-                  "name": "Cheile Gardisoarei",
-                  "text": "Festői mészkőszurdok az Erdélyi-szigethegység szívében.",
-                  "category": "landmark",
-                  "coords": [
-                        22.766396,
-                        46.546618
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Parcul Natural Apuseni",
-                  "text": "O arie protejată vastă situată în Munții Apuseni, cunoscută pentru peisajele sale carstice.",
-                  "category": "natural",
-                  "coords": [
-                        22.802147,
-                        46.583292
-                  ]
-            },
-            {
-                  "name": "Coiba Mare",
-                  "text": "Această peșteră din Munții Apuseni are unul dintre cele mai mari portaluri de peșteră din România.",
-                  "category": "landmark",
-                  "coords": [
-                        22.777965,
-                        46.537276
-                  ]
-            },
-            {
-                  "name": "Ghețarul de la Vârtop",
-                  "text": "O peșteră importantă din Parcul Natural Apuseni, cunoscută pentru urmele de viață preistorică.",
-                  "category": "landmark",
-                  "coords": [
-                        22.7807,
-                        46.54082
-                  ]
-            },
-            {
-                  "name": "Cheile Gardisoarei",
-                  "text": "O cheie calcaroasă pitorească situată în inima Parcului Natural Apuseni.",
-                  "category": "landmark",
-                  "coords": [
-                        22.766396,
-                        46.546618
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Parcul Natural Apuseni",
-                  "text": "A vast protected area in the Apuseni Mountains, known for its karst landscapes.",
-                  "category": "natural",
-                  "coords": [
-                        22.802147,
-                        46.583292
-                  ]
-            },
-            {
-                  "name": "Coiba Mare",
-                  "text": "This cave in the Apuseni Mountains features one of the largest cave entrances in Romania.",
-                  "category": "landmark",
-                  "coords": [
-                        22.777965,
-                        46.537276
-                  ]
-            },
-            {
-                  "name": "Ghețarul de la Vârtop",
-                  "text": "An important ice cave in the Apuseni National Park, known for its prehistoric findings.",
-                  "category": "landmark",
-                  "coords": [
-                        22.7807,
-                        46.54082
-                  ]
-            },
-            {
-                  "name": "Cheile Gardisoarei",
-                  "text": "A picturesque limestone gorge located in the heart of the Apuseni National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        22.766396,
-                        46.546618
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, type: "mountain", parent: "RO", coords: [22.8, 46.55],
     name: { de: "Apuseni-Nationalpark", hu: "Erdélyi-szigethegység Nemzeti Park", ro: "Parcul Național Apuseni", en: "Apuseni National Park" },
     description: { de: "Karstlandschaft mit Höhlen und Wäldern.", hu: "Karsztos táj barlangokkal és erdőkkel.", ro: "Rezervație naturală carstică cu peșteri și păduri.", en: "Karst landscape with caves and forests." , es: "Paisaje kárstico con cuevas y bosques.", pt: "Paisagem cárstica com cavernas e florestas.", fr: "Paysage karstique avec grottes et forêts."},
@@ -38363,50 +27894,10 @@ export const romaniaNature: POI[] = [
   },
   {
     id: "nature-calimani-np", "sights": {
-      "de": [
-            {
-                  "name": "Pietrosul Călimani",
-                  "text": "Der höchste Gipfel des Călimani-Gebirges in Rumänien mit vulkanischem Ursprung.",
-                  "category": "landmark",
-                  "coords": [
-                        25.18558,
-                        47.12505
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Pietrosz, Nagy-Köves",
-                  "text": "A romániai Kelemen-havasok legmagasabb, vulkáni eredetű csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        25.18558,
-                        47.12505
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Pietrosul Călimani",
-                  "text": "Cel mai înalt vârf din Munții Călimani, de origine vulcanică.",
-                  "category": "landmark",
-                  "coords": [
-                        25.18558,
-                        47.12505
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Pietrosul Călimani",
-                  "text": "The highest peak of the Călimani Mountains in Romania, of volcanic origin.",
-                  "category": "landmark",
-                  "coords": [
-                        25.18558,
-                        47.12505
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, type: "mountain", parent: "RO", coords: [25.2, 47.1],
     name: { de: "Călimani-Nationalpark", hu: "Kelemen-havasok Nemzeti Park", ro: "Parcul Național Călimani", en: "Călimani National Park" },
     description: { de: "Vulkanisches Gebirge mit bizarren Felsformationen.", hu: "Vulkáni eredetű hegység bizarr sziklaalakzatokkal.", ro: "Munți vulcanici cu formațiuni stâncoase spectaculoase.", en: "Volcanic mountains with bizarre rock formations." , es: "Montañas volcánicas con extrañas formaciones rocosas.", pt: "Montanhas vulcânicas com estranhas formações rochosas.", fr: "Massif volcanique avec d'étranges formations rocheuses."},
@@ -38460,15 +27951,6 @@ export const romaniaNature: POI[] = [
     id: "nature-macin-mountains", "sights": {
       "de": [
             {
-                  "name": "Peretele Taberei",
-                  "text": "Eine markante Felswand im Măcin-Gebirge, beliebt bei Kletterern und Wanderern.",
-                  "category": "landmark",
-                  "coords": [
-                        28.272341,
-                        45.18503
-                  ]
-            },
-            {
                   "name": "Peretele Memorial",
                   "text": "Ein Felsabschnitt im Măcin-Gebirge, der häufig für den Bergsport genutzt wird.",
                   "category": "landmark",
@@ -38503,27 +27985,9 @@ export const romaniaNature: POI[] = [
                         28.251803,
                         45.21099
                   ]
-            },
-            {
-                  "name": "Piscina Relax",
-                  "text": "Ein Freizeitschwimmbecken in der Nähe des Măcin-Gebirges.",
-                  "category": "recreational",
-                  "coords": [
-                        28.245434,
-                        45.201469
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Peretele Taberei",
-                  "text": "Jellegzetes sziklafal a Măcin-hegységben, a sziklamászók és túrázók kedvelt helye.",
-                  "category": "landmark",
-                  "coords": [
-                        28.272341,
-                        45.18503
-                  ]
-            },
             {
                   "name": "Peretele Memorial",
                   "text": "A Măcin-hegység egyik sziklaszakasza, amelyet gyakran használnak hegyi sportokhoz.",
@@ -38559,27 +28023,9 @@ export const romaniaNature: POI[] = [
                         28.251803,
                         45.21099
                   ]
-            },
-            {
-                  "name": "Piscina Relax",
-                  "text": "Kikapcsolódást szolgáló úszómedence a Măcin-hegység közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        28.245434,
-                        45.201469
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Peretele Taberei",
-                  "text": "Un perete stâncos proeminent din Munții Măcin, popular pentru alpinism și drumeții.",
-                  "category": "landmark",
-                  "coords": [
-                        28.272341,
-                        45.18503
-                  ]
-            },
             {
                   "name": "Peretele Memorial",
                   "text": "O secțiune de stâncă din Munții Măcin, utilizată frecvent pentru sporturi montane.",
@@ -38615,27 +28061,9 @@ export const romaniaNature: POI[] = [
                         28.251803,
                         45.21099
                   ]
-            },
-            {
-                  "name": "Piscina Relax",
-                  "text": "O piscină recreativă situată în apropierea Munților Măcin.",
-                  "category": "recreational",
-                  "coords": [
-                        28.245434,
-                        45.201469
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Peretele Taberei",
-                  "text": "A prominent rock face in the Măcin Mountains, popular for climbing and hiking.",
-                  "category": "landmark",
-                  "coords": [
-                        28.272341,
-                        45.18503
-                  ]
-            },
             {
                   "name": "Peretele Memorial",
                   "text": "A rock section in the Măcin Mountains frequently used for mountain sports.",
@@ -38670,15 +28098,6 @@ export const romaniaNature: POI[] = [
                   "coords": [
                         28.251803,
                         45.21099
-                  ]
-            },
-            {
-                  "name": "Piscina Relax",
-                  "text": "A recreational swimming pool located near the Măcin Mountains.",
-                  "category": "recreational",
-                  "coords": [
-                        28.245434,
-                        45.201469
                   ]
             }
       ]
@@ -38931,15 +28350,6 @@ export const romaniaNature: POI[] = [
                         22.71417,
                         46.552564
                   ]
-            },
-            {
-                  "name": "Cheile Galbenei",
-                  "text": "Eine spektakuläre Schlucht mit zahlreichen Wasserfällen und Kalksteinformationen.",
-                  "category": "landmark",
-                  "coords": [
-                        22.677814,
-                        46.555333
-                  ]
             }
       ],
       "hu": [
@@ -38986,15 +28396,6 @@ export const romaniaNature: POI[] = [
                   "coords": [
                         22.71417,
                         46.552564
-                  ]
-            },
-            {
-                  "name": "Galbina-szoros",
-                  "text": "Látványos szurdok számos vízeséssel és mészkőalakzattal.",
-                  "category": "landmark",
-                  "coords": [
-                        22.677814,
-                        46.555333
                   ]
             }
       ],
@@ -39043,15 +28444,6 @@ export const romaniaNature: POI[] = [
                         22.71417,
                         46.552564
                   ]
-            },
-            {
-                  "name": "Cheile Galbenei",
-                  "text": "Chei spectaculoase cu numeroase cascade și formațiuni calcaroase.",
-                  "category": "landmark",
-                  "coords": [
-                        22.677814,
-                        46.555333
-                  ]
             }
       ],
       "en": [
@@ -39099,15 +28491,6 @@ export const romaniaNature: POI[] = [
                         22.71417,
                         46.552564
                   ]
-            },
-            {
-                  "name": "Galbena Gorge",
-                  "text": "A spectacular gorge with numerous waterfalls and limestone formations.",
-                  "category": "landmark",
-                  "coords": [
-                        22.677814,
-                        46.555333
-                  ]
             }
       ]
 }, type: "landmark", parent: "RO-BH", coords: [22.7, 46.56],
@@ -39138,15 +28521,6 @@ export const romaniaNature: POI[] = [
     id: "nature-cheile-nerei", "sights": {
       "de": [
             {
-                  "name": "Wasserfall Cascada Beușnița",
-                  "text": "Eine Reihe beeindruckender Wasserfälle im Nationalpark Cheile Nerei-Beușnița.",
-                  "category": "landmark",
-                  "coords": [
-                        21.803482,
-                        44.935215
-                  ]
-            },
-            {
                   "name": "Cascada Văioaga",
                   "text": "Ein malerischer Wasserfall im Nera-Tal, bekannt für sein klares Wasser.",
                   "category": "landmark",
@@ -39166,15 +28540,6 @@ export const romaniaNature: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Cascada Beușnița",
-                  "text": "Lenyűgöző vízeséssorozat a Néra-szurdok–Beușnița Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        21.803482,
-                        44.935215
-                  ]
-            },
             {
                   "name": "Cascada Văioaga",
                   "text": "Gleccser vízű, festői vízesés a Néra-völgyben.",
@@ -39196,15 +28561,6 @@ export const romaniaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Cascada Beușnița",
-                  "text": "O serie de cascade spectaculoase în Parcul Național Cheile Nerei-Beușnița.",
-                  "category": "landmark",
-                  "coords": [
-                        21.803482,
-                        44.935215
-                  ]
-            },
-            {
                   "name": "Cascada Văioaga",
                   "text": "O cascadă pitorească în valea Nerei, cunoscută pentru apele sale limpezi.",
                   "category": "landmark",
@@ -39224,15 +28580,6 @@ export const romaniaNature: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Beușnița Waterfall",
-                  "text": "A series of stunning waterfalls in the Cheile Nerei-Beușnița National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        21.803482,
-                        44.935215
-                  ]
-            },
             {
                   "name": "Văioaga Waterfall",
                   "text": "A picturesque waterfall in the Nera Valley, known for its clear waters.",
@@ -40919,30 +30266,12 @@ export const romaniaHistorical: POI[] = [
                   ]
             },
             {
-                  "name": "Albina",
-                  "text": "Berggipfel nahe der Festung Poenari im Argeș-Tal.",
-                  "category": "landmark",
-                  "coords": [
-                        24.656315,
-                        45.353927
-                  ]
-            },
-            {
                   "name": "Valea lui Stan - intrare traseu",
                   "text": "Einstiegspunkt in den Valea lui Stan Canyon, ein beliebter Wander- und Abenteuerpfad.",
                   "category": "landmark",
                   "coords": [
                         24.616741,
                         45.362109
-                  ]
-            },
-            {
-                  "name": "castel Dracula Transfagarasan",
-                  "text": "Thematische Attraktion an der Transfăgărășan-Straße, inspiriert von der Dracula-Legende.",
-                  "category": "landmark",
-                  "coords": [
-                        24.635423,
-                        45.335584
                   ]
             }
       ],
@@ -40957,30 +30286,12 @@ export const romaniaHistorical: POI[] = [
                   ]
             },
             {
-                  "name": "Albina",
-                  "text": "Hegycsúcs a Poenari-erőd közelében, az Argeș-völgyben.",
-                  "category": "landmark",
-                  "coords": [
-                        24.656315,
-                        45.353927
-                  ]
-            },
-            {
                   "name": "Stan-völgye",
                   "text": "A Valea lui Stan kanyon belépési pontja, népszerű túra- és kalandútvonal.",
                   "category": "landmark",
                   "coords": [
                         24.616741,
                         45.362109
-                  ]
-            },
-            {
-                  "name": "castel Dracula Transfagarasan",
-                  "text": "Drakula legendája által ihletett látványosság a Transzfogarasi út mentén.",
-                  "category": "landmark",
-                  "coords": [
-                        24.635423,
-                        45.335584
                   ]
             }
       ],
@@ -40995,30 +30306,12 @@ export const romaniaHistorical: POI[] = [
                   ]
             },
             {
-                  "name": "Albina",
-                  "text": "Vârf montan situat lângă Cetatea Poenari, în valea Argeșului.",
-                  "category": "landmark",
-                  "coords": [
-                        24.656315,
-                        45.353927
-                  ]
-            },
-            {
                   "name": "Valea lui Stan - intrare traseu",
                   "text": "Punct de intrare în canionul Valea lui Stan, un traseu popular de drumeție și aventură.",
                   "category": "landmark",
                   "coords": [
                         24.616741,
                         45.362109
-                  ]
-            },
-            {
-                  "name": "castel Dracula Transfagarasan",
-                  "text": "Atracție tematică situată lângă Transfăgărășan, inspirată de legenda lui Dracula.",
-                  "category": "landmark",
-                  "coords": [
-                        24.635423,
-                        45.335584
                   ]
             }
       ],
@@ -41033,30 +30326,12 @@ export const romaniaHistorical: POI[] = [
                   ]
             },
             {
-                  "name": "Albina",
-                  "text": "Mountain peak located near the Poenari Citadel in the Argeș valley.",
-                  "category": "landmark",
-                  "coords": [
-                        24.656315,
-                        45.353927
-                  ]
-            },
-            {
                   "name": "Valea lui Stan - intrare traseu",
                   "text": "Entry point to the Valea lui Stan canyon, a popular hiking and adventure trail.",
                   "category": "landmark",
                   "coords": [
                         24.616741,
                         45.362109
-                  ]
-            },
-            {
-                  "name": "castel Dracula Transfagarasan",
-                  "text": "Themed attraction located near the Transfăgărășan road, inspired by the Dracula legend.",
-                  "category": "landmark",
-                  "coords": [
-                        24.635423,
-                        45.335584
                   ]
             }
       ]
@@ -44036,50 +33311,10 @@ export const romaniaWildlife: POI[] = [
   },
   {
     id: "wild-rasul", "sights": {
-      "de": [
-            {
-                  "name": "Stânca Dochiei",
-                  "text": "Eine markante Felsformation im Ceahlău-Massiv, die mit lokalen Legenden verbunden ist.",
-                  "category": "landmark",
-                  "coords": [
-                        25.963555,
-                        46.974671
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Stânca Dochiei",
-                  "text": "Jellegzetes sziklaalakzat a Ceahlău-hegységben, amelyhez helyi legendák fűződnek.",
-                  "category": "landmark",
-                  "coords": [
-                        25.963555,
-                        46.974671
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Stânca Dochiei",
-                  "text": "O formațiune stâncoasă remarcabilă din masivul Ceahlău, de care sunt legate legende locale.",
-                  "category": "landmark",
-                  "coords": [
-                        25.963555,
-                        46.974671
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Stânca Dochiei",
-                  "text": "A prominent rock formation in the Ceahlău Massif associated with local legends.",
-                  "category": "landmark",
-                  "coords": [
-                        25.963555,
-                        46.974671
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, type: "animal-habitat", parent: "RO-NT", coords: [26.0, 47.0],
     name: { ro: "Râsul (Lynx)", en: "Carpathian Lynx", hu: "Kárpáti hiúz", de: "Karpatenluchs" },
     description: { ro: "Cea mai mare felină sălbatică din Europa.", en: "The largest wild feline in Europe.", hu: "Európa legnagyobb vadmacskája.", de: "Die größte Wildkatze in Europa." , es: "El felino salvaje más grande de Europa.", pt: "O maior felino selvagem da Europa.", fr: "Le plus grand félin sauvage d'Europe."},
@@ -45669,15 +34904,6 @@ export const romaniaExtraPois: POI[] = [
                         24.815162,
                         47.547061
                   ]
-            },
-            {
-                  "name": "Gărgălău",
-                  "text": "Ein bekannter Gipfel im Rodna-Gebirge, der für seine Wanderwege geschätzt wird.",
-                  "category": "landmark",
-                  "coords": [
-                        24.812423,
-                        47.564064
-                  ]
             }
       ],
       "hu": [
@@ -45688,15 +34914,6 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         24.815162,
                         47.547061
-                  ]
-            },
-            {
-                  "name": "Gargaló",
-                  "text": "A Radnai-havasok egyik népszerű hegycsúcsa, amely kedvelt túracélpont.",
-                  "category": "landmark",
-                  "coords": [
-                        24.812423,
-                        47.564064
                   ]
             }
       ],
@@ -45709,15 +34926,6 @@ export const romaniaExtraPois: POI[] = [
                         24.815162,
                         47.547061
                   ]
-            },
-            {
-                  "name": "Gărgălău",
-                  "text": "Un vârf cunoscut din Munții Rodnei, apreciat pentru traseele de drumeție.",
-                  "category": "landmark",
-                  "coords": [
-                        24.812423,
-                        47.564064
-                  ]
             }
       ],
       "en": [
@@ -45728,15 +34936,6 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         24.815162,
                         47.547061
-                  ]
-            },
-            {
-                  "name": "Gărgălău",
-                  "text": "A well-known peak in the Rodna Mountains, popular for hiking.",
-                  "category": "landmark",
-                  "coords": [
-                        24.812423,
-                        47.564064
                   ]
             }
       ]
@@ -51861,24 +41060,6 @@ export const romaniaExtraPois: POI[] = [
     id: "ro-poi-parang", "sights": {
       "de": [
             {
-                  "name": "Gruiu",
-                  "text": "Ein Berggipfel im Parâng-Gebirge in den rumänischen Karpaten.",
-                  "category": "landmark",
-                  "coords": [
-                        23.55119,
-                        45.33905
-                  ]
-            },
-            {
-                  "name": "Slivei",
-                  "text": "Ein markanter Gipfel in der Gebirgskette des Parâng in Rumänien.",
-                  "category": "landmark",
-                  "coords": [
-                        23.536361,
-                        45.353368
-                  ]
-            },
-            {
                   "name": "Gemănarea",
                   "text": "Ein hoher Gipfel im Parâng-Massiv der südlichen Karpaten.",
                   "category": "landmark",
@@ -51886,36 +41067,9 @@ export const romaniaExtraPois: POI[] = [
                         23.533393,
                         45.350589
                   ]
-            },
-            {
-                  "name": "Parângul Mare",
-                  "text": "Der höchste Gipfel des Parâng-Gebirges in Rumänien mit einer Höhe von 2519 Metern.",
-                  "category": "landmark",
-                  "coords": [
-                        23.539309,
-                        45.340164
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Gruiu",
-                  "text": "Hegycsúcs a Páring-hegységben, a romániai Kárpátokban.",
-                  "category": "landmark",
-                  "coords": [
-                        23.55119,
-                        45.33905
-                  ]
-            },
-            {
-                  "name": "Slivei",
-                  "text": "Jellegzetes csúcs a Páring-hegység vonulatában, Romániában.",
-                  "category": "landmark",
-                  "coords": [
-                        23.536361,
-                        45.353368
-                  ]
-            },
             {
                   "name": "Gemănarea",
                   "text": "Magas hegycsúcs a Déli-Kárpátok Páring-masszívumában.",
@@ -51924,36 +41078,9 @@ export const romaniaExtraPois: POI[] = [
                         23.533393,
                         45.350589
                   ]
-            },
-            {
-                  "name": "Nagy-Páring",
-                  "text": "A Páring-hegység legmagasabb csúcsa Romániában, 2519 méteres magassággal.",
-                  "category": "landmark",
-                  "coords": [
-                        23.539309,
-                        45.340164
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Gruiu",
-                  "text": "Un vârf montan în Munții Parâng din Carpații românești.",
-                  "category": "landmark",
-                  "coords": [
-                        23.55119,
-                        45.33905
-                  ]
-            },
-            {
-                  "name": "Slivei",
-                  "text": "Un vârf proeminent în lanțul muntos al Parângului din România.",
-                  "category": "landmark",
-                  "coords": [
-                        23.536361,
-                        45.353368
-                  ]
-            },
             {
                   "name": "Gemănarea",
                   "text": "Un vârf înalt în masivul Parâng din Carpații Meridionali.",
@@ -51962,36 +41089,9 @@ export const romaniaExtraPois: POI[] = [
                         23.533393,
                         45.350589
                   ]
-            },
-            {
-                  "name": "Parângul Mare",
-                  "text": "Cel mai înalt vârf din Munții Parâng, având o altitudine de 2519 metri.",
-                  "category": "landmark",
-                  "coords": [
-                        23.539309,
-                        45.340164
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Gruiu",
-                  "text": "A mountain peak in the Parâng Mountains of the Romanian Carpathians.",
-                  "category": "landmark",
-                  "coords": [
-                        23.55119,
-                        45.33905
-                  ]
-            },
-            {
-                  "name": "Slivei",
-                  "text": "A distinctive peak within the Parâng mountain range in Romania.",
-                  "category": "landmark",
-                  "coords": [
-                        23.536361,
-                        45.353368
-                  ]
-            },
             {
                   "name": "Gemănarea",
                   "text": "A high peak in the Parâng massif of the Southern Carpathians.",
@@ -51999,15 +41099,6 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         23.533393,
                         45.350589
-                  ]
-            },
-            {
-                  "name": "Parângul Mare",
-                  "text": "The highest peak of the Parâng Mountains in Romania, reaching an elevation of 2,519 meters.",
-                  "category": "landmark",
-                  "coords": [
-                        23.539309,
-                        45.340164
                   ]
             }
       ]

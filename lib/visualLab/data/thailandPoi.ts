@@ -50,15 +50,6 @@ export const thailandCities: POI[] = [
     id: "th-phuket", "sights": {
       "de": [
             {
-                  "name": "Phuket Thai Hua School",
-                  "text": "Ein Museum in einem schönen historischen Schulgebäude, das der Geschichte der chinesischen Minderheit in Phuket gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        98.386868,
-                        7.885603
-                  ]
-            },
-            {
                   "name": "Phuket Trickeye Museum",
                   "text": "Ein interaktives 3D-Kunstmuseum mit lustigen optischen Täuschungen und Fotomöglichkeiten.",
                   "category": "museum",
@@ -95,24 +86,6 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Phuket Old Town",
-                  "text": "Das historische Viertel von Phuket, das für seine gut erhaltene sino-portugiesische Architektur bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        98.389221,
-                        7.884777
-                  ]
-            },
-            {
-                  "name": "Khao Rang Viewpoint",
-                  "text": "Ein beliebter Aussichtspunkt auf einem Hügel mit Panoramablick über Phuket-Stadt.",
-                  "category": "natural",
-                  "coords": [
-                        98.380192,
-                        7.892383
-                  ]
-            },
-            {
                   "name": "Toh Sae Hill Viewpoint",
                   "text": "Ein Aussichtspunkt in Phuket, der für seine weite Aussicht und die dort lebenden Affen bekannt ist.",
                   "category": "natural",
@@ -140,15 +113,6 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Naka Street food",
-                  "text": "Ein lebhafter Ort für Straßenessen in Phuket, der eine große Auswahl an lokalen Köstlichkeiten bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        98.366272,
-                        7.880452
-                  ]
-            },
-            {
                   "name": "Surin Circle",
                   "text": "Ein bekannter Kreisverkehr in Phuket, der oft als Treffpunkt im Stadtzentrum dient.",
                   "category": "landmark",
@@ -164,15 +128,6 @@ export const thailandCities: POI[] = [
                   "coords": [
                         98.374658,
                         7.875352
-                  ]
-            },
-            {
-                  "name": "Wat Mongkol Nimit",
-                  "text": "Ein bedeutender buddhistischer Tempel in Phuket-Stadt, der als wichtiges religiöses Zentrum dient.",
-                  "category": "religious",
-                  "coords": [
-                        98.389094,
-                        7.886334
                   ]
             },
             {
@@ -484,15 +439,6 @@ export const thailandCities: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Phuket Thai Hua School",
-                  "text": "Egy gyönyörű történelmi iskolaépületben elhelyezett múzeum, amely Phuket kínai közösségének történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        98.386868,
-                        7.885603
-                  ]
-            },
-            {
                   "name": "Phuket Trickeye Museum",
                   "text": "Interaktív 3D művészeti múzeum szórakoztató optikai csalódásokkal és fotózási lehetőségekkel.",
                   "category": "museum",
@@ -529,24 +475,6 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Phuket Old Town",
-                  "text": "Phuket történelmi negyede, amely jól megőrzött kínai-portugál építészetéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        98.389221,
-                        7.884777
-                  ]
-            },
-            {
-                  "name": "Khao Rang Viewpoint",
-                  "text": "Népszerű dombtetői kilátó, amely panorámás kilátást nyújt Phuket városára.",
-                  "category": "natural",
-                  "coords": [
-                        98.380192,
-                        7.892383
-                  ]
-            },
-            {
                   "name": "Toh Sae Hill Viewpoint",
                   "text": "Phuketi kilátóhely, amely tágas kilátásáról és az ott élő majmokról nevezetes.",
                   "category": "natural",
@@ -574,15 +502,6 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Naka Street food",
-                  "text": "Phuket élénk utcai ételhelyszíne, amely helyi finomságok széles választékát kínálja.",
-                  "category": "landmark",
-                  "coords": [
-                        98.366272,
-                        7.880452
-                  ]
-            },
-            {
                   "name": "Surin Circle",
                   "text": "Ismert körforgalom Phuketben, amely gyakran találkozóhelyként szolgál a városközpontban.",
                   "category": "landmark",
@@ -598,15 +517,6 @@ export const thailandCities: POI[] = [
                   "coords": [
                         98.374658,
                         7.875352
-                  ]
-            },
-            {
-                  "name": "Wat Mongkol Nimit",
-                  "text": "Jelentős buddhista templom Phuket városában, amely fontos vallási központként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        98.389094,
-                        7.886334
                   ]
             },
             {
@@ -918,15 +828,6 @@ export const thailandCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Phuket Thai Hua School",
-                  "text": "Un muzeu găzduit într-o frumoasă clădire școlară istorică, dedicat istoriei chinezilor din Phuket.",
-                  "category": "museum",
-                  "coords": [
-                        98.386868,
-                        7.885603
-                  ]
-            },
-            {
                   "name": "Phuket Trickeye Museum",
                   "text": "Un muzeu de artă 3D interactiv, cu iluzii optice distractive și oportunități pentru fotografii.",
                   "category": "museum",
@@ -963,24 +864,6 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Phuket Old Town",
-                  "text": "Cartierul istoric din Phuket, cunoscut pentru arhitectura sa sino-portugheză bine conservată.",
-                  "category": "landmark",
-                  "coords": [
-                        98.389221,
-                        7.884777
-                  ]
-            },
-            {
-                  "name": "Khao Rang Viewpoint",
-                  "text": "Un punct de belvedere popular pe deal, care oferă vedere panoramică asupra orașului Phuket.",
-                  "category": "natural",
-                  "coords": [
-                        98.380192,
-                        7.892383
-                  ]
-            },
-            {
                   "name": "Toh Sae Hill Viewpoint",
                   "text": "Un punct de belvedere din Phuket cunoscut pentru vederile sale largi și maimuțele rezidente.",
                   "category": "natural",
@@ -1008,15 +891,6 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Naka Street food",
-                  "text": "O locație vibrantă de mâncare stradală din Phuket, care oferă o varietate de delicatese locale.",
-                  "category": "landmark",
-                  "coords": [
-                        98.366272,
-                        7.880452
-                  ]
-            },
-            {
                   "name": "Surin Circle",
                   "text": "Un sens giratoriu cunoscut din Phuket, care servește adesea ca punct de întâlnire în centrul orașului.",
                   "category": "landmark",
@@ -1032,15 +906,6 @@ export const thailandCities: POI[] = [
                   "coords": [
                         98.374658,
                         7.875352
-                  ]
-            },
-            {
-                  "name": "Wat Mongkol Nimit",
-                  "text": "Un templu budist semnificativ din orașul Phuket, care servește drept centru religios important.",
-                  "category": "religious",
-                  "coords": [
-                        98.389094,
-                        7.886334
                   ]
             },
             {
@@ -1352,30 +1217,12 @@ export const thailandCities: POI[] = [
       ],
       "en": [
             {
-                  "name": "Phuket Thai Hua School",
-                  "text": "A museum housed in a beautiful historic school building dedicated to Phuket's ethnic Chinese history.",
-                  "category": "museum",
-                  "coords": [
-                        98.386868,
-                        7.885603
-                  ]
-            },
-            {
                   "name": "Phuket Trickeye Museum",
                   "text": "An interactive 3D art museum featuring fun optical illusions and photo opportunities.",
                   "category": "museum",
                   "coords": [
                         98.392607,
                         7.883384
-                  ]
-            },
-            {
-                  "name": "Baan Chinpracha",
-                  "text": "A well-preserved Sino-Portuguese mansion showcasing the lifestyle of a wealthy Phuket family.",
-                  "category": "museum",
-                  "coords": [
-                        98.38394,
-                        7.885778
                   ]
             },
             {
@@ -1397,24 +1244,6 @@ export const thailandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Phuket Old Town",
-                  "text": "The historic district of Phuket, known for its well-preserved Sino-Portuguese architecture.",
-                  "category": "landmark",
-                  "coords": [
-                        98.389221,
-                        7.884777
-                  ]
-            },
-            {
-                  "name": "Khao Rang Viewpoint",
-                  "text": "A popular hilltop viewpoint offering panoramic views over Phuket City.",
-                  "category": "natural",
-                  "coords": [
-                        98.380192,
-                        7.892383
-                  ]
-            },
-            {
                   "name": "Khao To Sae view point",
                   "text": "A viewpoint in Phuket known for its wide views and resident monkeys.",
                   "category": "natural",
@@ -1430,51 +1259,6 @@ export const thailandCities: POI[] = [
                   "coords": [
                         98.396002,
                         7.868483
-                  ]
-            },
-            {
-                  "name": "Monkey feeding",
-                  "text": "A local attraction in Phuket where visitors can observe and feed macaques.",
-                  "category": "landmark",
-                  "coords": [
-                        98.379509,
-                        7.893805
-                  ]
-            },
-            {
-                  "name": "Naka Street food",
-                  "text": "A vibrant street food location in Phuket offering a wide variety of local delicacies.",
-                  "category": "landmark",
-                  "coords": [
-                        98.366272,
-                        7.880452
-                  ]
-            },
-            {
-                  "name": "Surin Roundabout",
-                  "text": "A well-known roundabout in Phuket that often serves as a meeting point in the city center.",
-                  "category": "landmark",
-                  "coords": [
-                        98.392219,
-                        7.880413
-                  ]
-            },
-            {
-                  "name": "Chaloem Phrakiat Park",
-                  "text": "A public park in Phuket providing space for recreation and leisure activities.",
-                  "category": "landmark",
-                  "coords": [
-                        98.374658,
-                        7.875352
-                  ]
-            },
-            {
-                  "name": "Wat Mongkol Nimit",
-                  "text": "A significant Buddhist temple in Phuket City serving as an important religious center.",
-                  "category": "religious",
-                  "coords": [
-                        98.389094,
-                        7.886334
                   ]
             },
             {

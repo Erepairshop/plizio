@@ -175,194 +175,10 @@ export const bulgariaReliefV2: POI[] = [
   },
   {
     id: "bulgaria-pirin-mountains-ridge-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Wichren",
-                  "text": "Wichren, mit 2.914 m der höchste Gipfel des Pirin-Gebirges.",
-                  "category": "natural",
-                  "coords": [
-                        23.398844,
-                        41.767332
-                  ]
-            },
-            {
-                  "name": "Kutelo 2",
-                  "text": "Ein markanter Berggipfel im bulgarischen Pirin-Gebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39536,
-                        41.78001
-                  ]
-            },
-            {
-                  "name": "Kutelo",
-                  "text": "Kutelo, ein 2.908 m hoher Gipfel im Pirin-Gebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        23.400034,
-                        41.776871
-                  ]
-            },
-            {
-                  "name": "Banski sukhodol",
-                  "text": "Ein Berggipfel im Pirin-Gebirge, bekannt für seine steilen Marmorhänge.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39092,
-                        41.78427
-                  ]
-            },
-            {
-                  "name": "Baikushevata mura;Baikusheva mura",
-                  "text": "Einer der ältesten Bäume Bulgariens im Pirin-Gebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        23.42287,
-                        41.767043
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Vihren",
-                  "text": "Vihren, 2914 m, a Pirin-hegység legmagasabb csúcsa.",
-                  "category": "natural",
-                  "coords": [
-                        23.398844,
-                        41.767332
-                  ]
-            },
-            {
-                  "name": "Kutelo 2",
-                  "text": "Egy jellegzetes hegycsúcs a bulgáriai Pirin-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39536,
-                        41.78001
-                  ]
-            },
-            {
-                  "name": "Kutelo",
-                  "text": "Kutelo, 2908 m magas csúcs a Pirin-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        23.400034,
-                        41.776871
-                  ]
-            },
-            {
-                  "name": "Banski sukhodol",
-                  "text": "Hegycsúcs a Pirin-hegységben, amely meredek márványoldalairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39092,
-                        41.78427
-                  ]
-            },
-            {
-                  "name": "Baikushevata mura;Baikusheva mura",
-                  "text": "Bulgária egyik legöregebb fája a Pirin-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        23.42287,
-                        41.767043
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Vikhren",
-                  "text": "Vihren, la 2.914 m, cel mai înalt vârf al munților Pirin.",
-                  "category": "natural",
-                  "coords": [
-                        23.398844,
-                        41.767332
-                  ]
-            },
-            {
-                  "name": "Kutelo 2",
-                  "text": "Un vârf montan proeminent în munții Pirin din Bulgaria.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39536,
-                        41.78001
-                  ]
-            },
-            {
-                  "name": "Kutelo",
-                  "text": "Kutelo, un vârf de 2.908 m în munții Pirin.",
-                  "category": "landmark",
-                  "coords": [
-                        23.400034,
-                        41.776871
-                  ]
-            },
-            {
-                  "name": "Banski sukhodol",
-                  "text": "Un vârf în munții Pirin, cunoscut pentru versanții săi abrupți de marmură.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39092,
-                        41.78427
-                  ]
-            },
-            {
-                  "name": "Baikushevata mura;Baikusheva mura",
-                  "text": "Unul dintre cei mai bătrâni copaci din Bulgaria, situat în munții Pirin.",
-                  "category": "landmark",
-                  "coords": [
-                        23.42287,
-                        41.767043
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Vihren",
-                  "text": "Vihren, at 2,914 m the highest peak of the Pirin Mountains.",
-                  "category": "natural",
-                  "coords": [
-                        23.398844,
-                        41.767332
-                  ]
-            },
-            {
-                  "name": "Kutelo 2",
-                  "text": "A prominent mountain peak in the Bulgarian Pirin range.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39536,
-                        41.78001
-                  ]
-            },
-            {
-                  "name": "Kutelo",
-                  "text": "Kutelo, a 2,908 m high peak in the Pirin Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        23.400034,
-                        41.776871
-                  ]
-            },
-            {
-                  "name": "Banski Suhodol",
-                  "text": "A mountain peak in the Pirin range, known for its steep marble slopes.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39092,
-                        41.78427
-                  ]
-            },
-            {
-                  "name": "Baikushev's Pine",
-                  "text": "One of the oldest trees in Bulgaria, located in the Pirin Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        23.42287,
-                        41.767043
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "BG",
@@ -501,15 +317,6 @@ export const bulgariaReliefV2: POI[] = [
     id: "bulgaria-belogradchik-rocks-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Istoricheski muzei Белоградчик",
-                  "text": "Ein Museum, das die lokale Geschichte und archäologische Funde der Region Belowogradtschik zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        22.681527,
-                        43.624882
-                  ]
-            },
-            {
                   "name": "Belogradchishka krepost",
                   "text": "Eine antike Festung, die in die spektakulären Felsen von Belowogradtschik integriert ist und ursprünglich zur Zeit des Römischen Reiches erbaut wurde.",
                   "category": "castle",
@@ -538,15 +345,6 @@ export const bulgariaReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Istoricheski muzei Белоградчик",
-                  "text": "Múzeum, amely Belogradcsik régiójának helytörténetét és régészeti leleteit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        22.681527,
-                        43.624882
-                  ]
-            },
             {
                   "name": "Belogradchishka krepost",
                   "text": "A látványos belogradcsiki sziklák közé épült ősi erődítmény, amely eredetileg a Római Birodalom idején készült.",
@@ -577,15 +375,6 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Istoricheski muzei Белоградчик",
-                  "text": "Un muzeu care prezintă istoria locală și descoperirile arheologice din regiunea Belogradcik.",
-                  "category": "museum",
-                  "coords": [
-                        22.681527,
-                        43.624882
-                  ]
-            },
-            {
                   "name": "Belogradchishka krepost",
                   "text": "O cetate antică integrată în spectaculoasele stânci Belogradcik, construită inițial în timpul Imperiului Roman.",
                   "category": "castle",
@@ -614,15 +403,6 @@ export const bulgariaReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "History Museum",
-                  "text": "A museum showcasing the local history and archaeological finds of the Belogradchik region.",
-                  "category": "museum",
-                  "coords": [
-                        22.681527,
-                        43.624882
-                  ]
-            },
             {
                   "name": "Belogradchik Fortress",
                   "text": "An ancient fortress integrated into the spectacular Belogradchik Rocks, originally built during the Roman Empire.",
@@ -706,60 +486,6 @@ export const bulgariaReliefV2: POI[] = [
                         23.267477,
                         42.582811
                   ]
-            },
-            {
-                  "name": "Malak Resen",
-                  "text": "Ein markanter Berggipfel im Witoscha-Gebirge mit einer Höhe von 2.191 Metern.",
-                  "category": "landmark",
-                  "coords": [
-                        23.28869,
-                        42.572735
-                  ]
-            },
-            {
-                  "name": "TT16A",
-                  "text": "Einer der höchsten Gipfel im Witoscha-Massiv mit Blick auf Sofia.",
-                  "category": "landmark",
-                  "coords": [
-                        23.290052,
-                        42.564861
-                  ]
-            },
-            {
-                  "name": "Zlatnite mostove",
-                  "text": "Ein berühmter „Steinfluss“ aus großen Felsbrocken an den Hängen des Witoscha-Gebirges.",
-                  "category": "landmark",
-                  "coords": [
-                        23.239174,
-                        42.609729
-                  ]
-            },
-            {
-                  "name": "Schwarzer Gipfel",
-                  "text": "Der höchste Gipfel des Witoscha-Massivs mit einer Höhe von 2.290 Metern.",
-                  "category": "landmark",
-                  "coords": [
-                        23.279341,
-                        42.563093
-                  ]
-            },
-            {
-                  "name": "Ostritsa",
-                  "text": "Ein Aussichtspunkt im Witoscha-Gebirge mit Blick auf die umliegende Natur.",
-                  "category": "natural",
-                  "coords": [
-                        23.211623,
-                        42.585536
-                  ]
-            },
-            {
-                  "name": "Open View of Virosha and Bankya",
-                  "text": "Ein Panoramapunkt mit Blick auf die Witoscha-Hänge und die Stadt Bankja.",
-                  "category": "natural",
-                  "coords": [
-                        23.239222,
-                        42.589253
-                  ]
             }
       ],
       "hu": [
@@ -770,60 +496,6 @@ export const bulgariaReliefV2: POI[] = [
                   "coords": [
                         23.267477,
                         42.582811
-                  ]
-            },
-            {
-                  "name": "Mal'k Rezen",
-                  "text": "A Vitosa-hegység egyik kiemelkedő csúcsa, amely 2191 méter magas.",
-                  "category": "landmark",
-                  "coords": [
-                        23.28869,
-                        42.572735
-                  ]
-            },
-            {
-                  "name": "TT16A",
-                  "text": "A Vitosa-masszívum egyik legmagasabb csúcsa, ahonnan kilátás nyílik Szófiára.",
-                  "category": "landmark",
-                  "coords": [
-                        23.290052,
-                        42.564861
-                  ]
-            },
-            {
-                  "name": "Zlatnite mostove",
-                  "text": "Híres „kőfolyó” hatalmas sziklatömbökből a Vitosa-hegység lejtőin.",
-                  "category": "landmark",
-                  "coords": [
-                        23.239174,
-                        42.609729
-                  ]
-            },
-            {
-                  "name": "Cherni vr'kh",
-                  "text": "A Vitosa-masszívum legmagasabb pontja, amely 2290 méter magas.",
-                  "category": "landmark",
-                  "coords": [
-                        23.279341,
-                        42.563093
-                  ]
-            },
-            {
-                  "name": "Ostritsa",
-                  "text": "Kilátóhely a Vitosa-hegységben, ahonnan rálátni a környező természetre.",
-                  "category": "natural",
-                  "coords": [
-                        23.211623,
-                        42.585536
-                  ]
-            },
-            {
-                  "name": "Open View of Virosha and Bankya",
-                  "text": "Panorámapont, ahonnan kilátás nyílik a Vitosa lejtőire és Bankja városára.",
-                  "category": "natural",
-                  "coords": [
-                        23.239222,
-                        42.589253
                   ]
             }
       ],
@@ -836,60 +508,6 @@ export const bulgariaReliefV2: POI[] = [
                         23.267477,
                         42.582811
                   ]
-            },
-            {
-                  "name": "Mal'k Rezen",
-                  "text": "Un vârf montan proeminent din masivul Vitoșa, atingând 2.191 de metri.",
-                  "category": "landmark",
-                  "coords": [
-                        23.28869,
-                        42.572735
-                  ]
-            },
-            {
-                  "name": "TT16A",
-                  "text": "Unul dintre cele mai înalte vârfuri din masivul Vitoșa, oferind vederi asupra Sofiei.",
-                  "category": "landmark",
-                  "coords": [
-                        23.290052,
-                        42.564861
-                  ]
-            },
-            {
-                  "name": "Zlatnite mostove",
-                  "text": "Un faimos „râu de piatră” format din bolovani mari pe pantele muntelui Vitoșa.",
-                  "category": "landmark",
-                  "coords": [
-                        23.239174,
-                        42.609729
-                  ]
-            },
-            {
-                  "name": "Cherni vr'kh",
-                  "text": "Cel mai înalt vârf din masivul Vitoșa, având o înălțime de 2.290 de metri.",
-                  "category": "landmark",
-                  "coords": [
-                        23.279341,
-                        42.563093
-                  ]
-            },
-            {
-                  "name": "Ostritsa",
-                  "text": "Un punct de belvedere în munții Vitoșa care oferă vederi asupra naturii înconjurătoare.",
-                  "category": "natural",
-                  "coords": [
-                        23.211623,
-                        42.585536
-                  ]
-            },
-            {
-                  "name": "Open View of Virosha and Bankya",
-                  "text": "Un loc panoramic care oferă vederi asupra pantelor Vitoșa și a orașului Bankia.",
-                  "category": "natural",
-                  "coords": [
-                        23.239222,
-                        42.589253
-                  ]
             }
       ],
       "en": [
@@ -900,60 +518,6 @@ export const bulgariaReliefV2: POI[] = [
                   "coords": [
                         23.267477,
                         42.582811
-                  ]
-            },
-            {
-                  "name": "Malak Resen",
-                  "text": "A prominent mountain peak in the Vitosha range, reaching 2,191 meters.",
-                  "category": "landmark",
-                  "coords": [
-                        23.28869,
-                        42.572735
-                  ]
-            },
-            {
-                  "name": "Golyam Rezen",
-                  "text": "One of the highest peaks in the Vitosha massif, offering views over Sofia.",
-                  "category": "landmark",
-                  "coords": [
-                        23.290052,
-                        42.564861
-                  ]
-            },
-            {
-                  "name": "Golden Bridges",
-                  "text": "A famous stone river of large boulders on the slopes of Vitosha Mountain.",
-                  "category": "landmark",
-                  "coords": [
-                        23.239174,
-                        42.609729
-                  ]
-            },
-            {
-                  "name": "Cherni vrah",
-                  "text": "The highest summit of the Vitosha massif, standing at 2,290 meters.",
-                  "category": "landmark",
-                  "coords": [
-                        23.279341,
-                        42.563093
-                  ]
-            },
-            {
-                  "name": "Ostritsa",
-                  "text": "A scenic viewpoint in the Vitosha mountains offering vistas of the surrounding nature.",
-                  "category": "natural",
-                  "coords": [
-                        23.211623,
-                        42.585536
-                  ]
-            },
-            {
-                  "name": "Open View of Virosha and Bankya",
-                  "text": "A panorama spot providing views of the Vitosha slopes and the town of Bankya.",
-                  "category": "natural",
-                  "coords": [
-                        23.239222,
-                        42.589253
                   ]
             }
       ]
@@ -1500,39 +1064,12 @@ export const bulgariaReliefV2: POI[] = [
     id: "bulgaria-pirin-granite-peak-zone-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Wichren",
-                  "text": "Mit 2914 Metern der höchste Gipfel des Pirin-Gebirges in Bulgarien.",
-                  "category": "natural",
-                  "coords": [
-                        23.398844,
-                        41.767332
-                  ]
-            },
-            {
                   "name": "V'zela",
                   "text": "Ein markanter Berggipfel in der Granitzone des Pirin-Gebirges.",
                   "category": "landmark",
                   "coords": [
                         23.437092,
                         41.732956
-                  ]
-            },
-            {
-                  "name": "Kutelo 2",
-                  "text": "Der zweithöchste Gipfel des Kutelo-Massivs im Pirin-Nationalpark.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39536,
-                        41.78001
-                  ]
-            },
-            {
-                  "name": "Kutelo",
-                  "text": "Ein bedeutender Marmorgipfel im Pirin-Gebirge, bekannt für seine steilen Hänge.",
-                  "category": "landmark",
-                  "coords": [
-                        23.400034,
-                        41.776871
                   ]
             },
             {
@@ -1547,39 +1084,12 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Vihren",
-                  "text": "A bulgáriai Pirin-hegység legmagasabb csúcsa, magassága 2914 méter.",
-                  "category": "natural",
-                  "coords": [
-                        23.398844,
-                        41.767332
-                  ]
-            },
-            {
                   "name": "V'zela",
                   "text": "Jellegzetes hegycsúcs a Pirin-hegység gránitövezetében.",
                   "category": "landmark",
                   "coords": [
                         23.437092,
                         41.732956
-                  ]
-            },
-            {
-                  "name": "Kutelo 2",
-                  "text": "A Kutelo-masszívum második legmagasabb csúcsa a Pirin Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39536,
-                        41.78001
-                  ]
-            },
-            {
-                  "name": "Kutelo",
-                  "text": "A Pirin-hegység egyik jelentős márványcsúcsa, meredek lejtőiről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        23.400034,
-                        41.776871
                   ]
             },
             {
@@ -1594,39 +1104,12 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Vikhren",
-                  "text": "Cel mai înalt vârf din munții Pirin, Bulgaria, având o înălțime de 2914 metri.",
-                  "category": "natural",
-                  "coords": [
-                        23.398844,
-                        41.767332
-                  ]
-            },
-            {
                   "name": "V'zela",
                   "text": "Un vârf muntos proeminent în zona de granit a munților Pirin.",
                   "category": "landmark",
                   "coords": [
                         23.437092,
                         41.732956
-                  ]
-            },
-            {
-                  "name": "Kutelo 2",
-                  "text": "Al doilea cel mai înalt vârf al masivului Kutelo din Parcul Național Pirin.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39536,
-                        41.78001
-                  ]
-            },
-            {
-                  "name": "Kutelo",
-                  "text": "Un vârf important de marmură din munții Pirin, cunoscut pentru pantele sale abrupte.",
-                  "category": "landmark",
-                  "coords": [
-                        23.400034,
-                        41.776871
                   ]
             },
             {
@@ -1641,39 +1124,12 @@ export const bulgariaReliefV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Vihren",
-                  "text": "The highest peak of the Pirin Mountains in Bulgaria, reaching an elevation of 2,914 meters.",
-                  "category": "natural",
-                  "coords": [
-                        23.398844,
-                        41.767332
-                  ]
-            },
-            {
                   "name": "Vazela",
                   "text": "A prominent mountain peak located in the granite zone of the Pirin Mountains.",
                   "category": "landmark",
                   "coords": [
                         23.437092,
                         41.732956
-                  ]
-            },
-            {
-                  "name": "Kutelo 2",
-                  "text": "The second-highest peak of the Kutelo massif in the Pirin National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        23.39536,
-                        41.78001
-                  ]
-            },
-            {
-                  "name": "Kutelo",
-                  "text": "A major marble peak in the Pirin Mountains, known for its steep and rugged slopes.",
-                  "category": "landmark",
-                  "coords": [
-                        23.400034,
-                        41.776871
                   ]
             },
             {

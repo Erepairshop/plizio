@@ -48,15 +48,6 @@ export const moldovaPoi: POI[] = [
                         28.564894,
                         47.145763
                   ]
-            },
-            {
-                  "name": "Lacul de acumulare „Ghidighici”",
-                  "text": "Ein bedeutender Stausee bei Straseni für Erholungssuchende.",
-                  "category": "natural",
-                  "coords": [
-                        28.70757,
-                        47.101512
-                  ]
             }
       ],
       "hu": [
@@ -67,15 +58,6 @@ export const moldovaPoi: POI[] = [
                   "coords": [
                         28.564894,
                         47.145763
-                  ]
-            },
-            {
-                  "name": "Lacul de acumulare „Ghidighici”",
-                  "text": "Jelentős víztározó Straseni mellett a kikapcsolódni vágyóknak.",
-                  "category": "natural",
-                  "coords": [
-                        28.70757,
-                        47.101512
                   ]
             }
       ],
@@ -88,15 +70,6 @@ export const moldovaPoi: POI[] = [
                         28.564894,
                         47.145763
                   ]
-            },
-            {
-                  "name": "Lacul de acumulare „Ghidighici”",
-                  "text": "Un lac de acumulare important lângă Strășeni pentru recreere.",
-                  "category": "natural",
-                  "coords": [
-                        28.70757,
-                        47.101512
-                  ]
             }
       ],
       "en": [
@@ -107,15 +80,6 @@ export const moldovaPoi: POI[] = [
                   "coords": [
                         28.564894,
                         47.145763
-                  ]
-            },
-            {
-                  "name": "Ghidighici Reservoir",
-                  "text": "A significant reservoir near Straseni for recreation seekers.",
-                  "category": "natural",
-                  "coords": [
-                        28.70757,
-                        47.101512
                   ]
             }
       ]
@@ -1879,30 +1843,12 @@ export const moldovaPoi: POI[] = [
     id: "MD-031-chisinau-city", "sights": {
       "de": [
             {
-                  "name": "Lacul „Vasimiorca”",
-                  "text": "Der Vasimiorca-See in Chisinau ist ein ruhiger Ort, ideal für einen stillen Spaziergang und zum Genießen der Seenlandschaft.",
-                  "category": "natural",
-                  "coords": [
-                        28.877672,
-                        46.969661
-                  ]
-            },
-            {
                   "name": "Lacul Albișoara",
                   "text": "Der Albișoara-See in Chisinau ist ein angenehmes Seengebiet, das sich für einen ruhigen Spaziergang und zum Genießen der Landschaft eignet.",
                   "category": "natural",
                   "coords": [
                         28.830271,
                         47.038668
-                  ]
-            },
-            {
-                  "name": "Iazul Tortuga",
-                  "text": "Der Tortuga-See in Chisinau bietet eine friedliche und neutrale Umgebung für einen entspannten Spaziergang am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        28.791122,
-                        46.980737
                   ]
             },
             {
@@ -1939,42 +1885,6 @@ export const moldovaPoi: POI[] = [
                   "coords": [
                         28.870825,
                         47.039027
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 4 (Traktornîi)",
-                  "text": "Der See Nr. 4 in Chisinau bietet eine ruhige und einfache Umgebung für einen stillen Spaziergang am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        28.81581,
-                        47.047367
-                  ]
-            },
-            {
-                  "name": "Iazul Hârtoape",
-                  "text": "Der Valley's Lake in Chisinau ist ein ruhiges Gewässer, ideal um einen friedlichen Spaziergang und die Landschaft zu genießen.",
-                  "category": "natural",
-                  "coords": [
-                        28.798866,
-                        46.971189
-                  ]
-            },
-            {
-                  "name": "Lacul „Valea Morilor”",
-                  "text": "Der See Valea Morilor in Chisinau ist ein wunderschöner und beliebter See, der eine malerische Umgebung zum Wandern und Erholen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        28.813007,
-                        47.018422
-                  ]
-            },
-            {
-                  "name": "Panda Kids",
-                  "text": "Panda Kids ist ein unterhaltsamer Spielplatz in Chisinau, der einen sicheren und unterhaltsamen Raum für Familien und Kinder bietet.",
-                  "category": "family",
-                  "coords": [
-                        28.833081,
-                        46.99503
                   ]
             },
             {
@@ -2097,30 +2007,12 @@ export const moldovaPoi: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Lacul „Vasimiorca”",
-                  "text": "A kisinyovi Vasimiorca-tó egy nyugodt hely, amely tökéletes egy csendes sétához és a tavi táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        28.877672,
-                        46.969661
-                  ]
-            },
-            {
                   "name": "Lacul Albișoara",
                   "text": "A kisinyovi Albișoara-tó egy kellemes tóvidék, amely alkalmas egy nyugodt sétára és a táj élvezetére.",
                   "category": "natural",
                   "coords": [
                         28.830271,
                         47.038668
-                  ]
-            },
-            {
-                  "name": "Iazul Tortuga",
-                  "text": "A kisinyovi Tortuga-tó békés és semleges környezetet kínál egy pihentető vízparti sétához.",
-                  "category": "natural",
-                  "coords": [
-                        28.791122,
-                        46.980737
                   ]
             },
             {
@@ -2157,42 +2049,6 @@ export const moldovaPoi: POI[] = [
                   "coords": [
                         28.870825,
                         47.039027
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 4 (Traktornîi)",
-                  "text": "A kisinyovi 4-es számú tó nyugodt és egyszerű környezetet biztosít egy csendes vízparti sétához.",
-                  "category": "natural",
-                  "coords": [
-                        28.81581,
-                        47.047367
-                  ]
-            },
-            {
-                  "name": "Iazul Hârtoape",
-                  "text": "A kisinyovi Valley's Lake egy nyugodt vízfelület, amely tökéletes egy békés séta és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        28.798866,
-                        46.971189
-                  ]
-            },
-            {
-                  "name": "Lacul „Valea Morilor”",
-                  "text": "A kisinyovi Valea Morilor-tó egy gyönyörű és népszerű tó, amely festői környezetet biztosít a sétához és a kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        28.813007,
-                        47.018422
-                  ]
-            },
-            {
-                  "name": "Panda Kids",
-                  "text": "A Panda Kids egy szórakoztató játszótér Kisinyovban, amely biztonságos és élvezetes helyet kínál családoknak és gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        28.833081,
-                        46.99503
                   ]
             },
             {
@@ -2315,30 +2171,12 @@ export const moldovaPoi: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Lacul „Vasimiorca”",
-                  "text": "Lacul „Vasimiorca” din Chișinău este un loc liniștit, perfect pentru o plimbare calmă și pentru a admira peisajul lacustru.",
-                  "category": "natural",
-                  "coords": [
-                        28.877672,
-                        46.969661
-                  ]
-            },
-            {
                   "name": "Lacul Albișoara",
                   "text": "Lacul Albișoara din Chișinău este o zonă lacustră plăcută, potrivită pentru o plimbare calmă și pentru a admira peisajul.",
                   "category": "natural",
                   "coords": [
                         28.830271,
                         47.038668
-                  ]
-            },
-            {
-                  "name": "Iazul Tortuga",
-                  "text": "Lacul Tortuga din Chișinău oferă un cadru liniștit și neutru pentru o plimbare relaxantă pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        28.791122,
-                        46.980737
                   ]
             },
             {
@@ -2375,42 +2213,6 @@ export const moldovaPoi: POI[] = [
                   "coords": [
                         28.870825,
                         47.039027
-                  ]
-            },
-            {
-                  "name": "Lacul nr. 4 (Traktornîi)",
-                  "text": "Lacul nr. 4 din Chișinău oferă un mediu calm și simplu pentru o plimbare liniștită pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        28.81581,
-                        47.047367
-                  ]
-            },
-            {
-                  "name": "Iazul Hârtoape",
-                  "text": "Lacul Valley din Chișinău este o întindere de apă liniștită, perfectă pentru a te bucura de o plimbare calmă și de peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        28.798866,
-                        46.971189
-                  ]
-            },
-            {
-                  "name": "Lacul „Valea Morilor”",
-                  "text": "Lacul Valea Morilor din Chișinău este un lac frumos și popular, oferind un cadru pitoresc pentru plimbare și recreere.",
-                  "category": "natural",
-                  "coords": [
-                        28.813007,
-                        47.018422
-                  ]
-            },
-            {
-                  "name": "Panda Kids",
-                  "text": "Panda Kids este un loc de joacă distractiv în Chișinău, oferind un spațiu sigur și distractiv pentru familii și copii.",
-                  "category": "family",
-                  "coords": [
-                        28.833081,
-                        46.99503
                   ]
             },
             {
@@ -2533,30 +2335,12 @@ export const moldovaPoi: POI[] = [
       ],
       "en": [
             {
-                  "name": "\"Vasimiorca\" Lake",
-                  "text": "\"Vasimiorca\" Lake in Chisinau is a tranquil spot, perfect for a quiet walk and enjoying the lake scenery.",
-                  "category": "natural",
-                  "coords": [
-                        28.877672,
-                        46.969661
-                  ]
-            },
-            {
                   "name": "Albișoara Lake",
                   "text": "Albișoara Lake in Chisinau is a pleasant lake area, suitable for a calm stroll and enjoying the scenery.",
                   "category": "natural",
                   "coords": [
                         28.830271,
                         47.038668
-                  ]
-            },
-            {
-                  "name": "Tortuga Lake",
-                  "text": "Tortuga Lake in Chisinau offers a peaceful and neutral setting for a relaxing walk by the water.",
-                  "category": "natural",
-                  "coords": [
-                        28.791122,
-                        46.980737
                   ]
             },
             {
@@ -2593,42 +2377,6 @@ export const moldovaPoi: POI[] = [
                   "coords": [
                         28.870825,
                         47.039027
-                  ]
-            },
-            {
-                  "name": "Lake No. 4",
-                  "text": "Lake No. 4 in Chisinau provides a calm and simple environment for a quiet stroll by the water.",
-                  "category": "natural",
-                  "coords": [
-                        28.81581,
-                        47.047367
-                  ]
-            },
-            {
-                  "name": "Valley's Lake",
-                  "text": "Valley's Lake in Chisinau is a tranquil body of water, perfect for enjoying a peaceful walk and the landscape.",
-                  "category": "natural",
-                  "coords": [
-                        28.798866,
-                        46.971189
-                  ]
-            },
-            {
-                  "name": "Valea Morilor Lake",
-                  "text": "Valea Morilor Lake in Chisinau is a beautiful and popular lake, offering a scenic setting for walking and recreation.",
-                  "category": "natural",
-                  "coords": [
-                        28.813007,
-                        47.018422
-                  ]
-            },
-            {
-                  "name": "Panda Kids",
-                  "text": "Panda Kids is a fun playground in Chisinau, providing a safe and entertaining space for families and children.",
-                  "category": "family",
-                  "coords": [
-                        28.833081,
-                        46.99503
                   ]
             },
             {
@@ -3229,302 +2977,10 @@ export const moldovaPoi: POI[] = [
   },
   {
     id: "MD-035-tipova-monastery", "sights": {
-      "de": [
-            {
-                  "name": "Cetățuia getică",
-                  "text": "Die antiken archäologischen Überreste einer getischen Festung in der Nähe des Klosters Țipova.",
-                  "category": "historical",
-                  "coords": [
-                        28.960455,
-                        47.618573
-                  ]
-            },
-            {
-                  "name": "Kloster Țipova",
-                  "text": "Eines der größten Höhlenklöster Osteuropas, das in die Klippen am Fluss Dnister gehauen wurde.",
-                  "category": "landmark",
-                  "coords": [
-                        28.98484,
-                        47.603093
-                  ]
-            },
-            {
-                  "name": "Biserica rupestra Tipova",
-                  "text": "Eine historische orthodoxe Höhlenkirche, die Teil des Klosterkomplexes von Țipova ist.",
-                  "category": "landmark",
-                  "coords": [
-                        28.989692,
-                        47.601786
-                  ]
-            },
-            {
-                  "name": "Cascada Moara Veche",
-                  "text": "Ein malerischer Wasserfall in der Naturlandschaft rund um das Kloster Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.959241,
-                        47.619767
-                  ]
-            },
-            {
-                  "name": "Cascada Mare",
-                  "text": "Ein großer natürlicher Wasserfall im Naturschutzgebiet Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "Ein wunderschöner Doppelwasserfall in der Nähe des Höhlenklosterkomplexes von Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
-                  "name": "Cascada Orașul Păsărilor",
-                  "text": "Ein Wasserfall in den malerischen Schluchten des Naturschutzgebiets Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.961889,
-                        47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "Ein saisonaler Wasserfall in der Nähe des Höhlenklosters Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cetățuia getică",
-                  "text": "Egy géta erőd ősi régészeti maradványai a Țipova-kolostor közelében.",
-                  "category": "historical",
-                  "coords": [
-                        28.960455,
-                        47.618573
-                  ]
-            },
-            {
-                  "name": "Manastirea Țipova",
-                  "text": "Kelet-Európa egyik legnagyobb barlangkolostora, amelyet a Dnyeszter folyó menti sziklákba vájtak.",
-                  "category": "landmark",
-                  "coords": [
-                        28.98484,
-                        47.603093
-                  ]
-            },
-            {
-                  "name": "Biserica rupestra Tipova",
-                  "text": "Történelmi ortodox barlangtemplom, amely a Țipova kolostorkomplexum részét képezi.",
-                  "category": "landmark",
-                  "coords": [
-                        28.989692,
-                        47.601786
-                  ]
-            },
-            {
-                  "name": "Cascada Moara Veche",
-                  "text": "Festői vízesés a Țipova-kolostort körülvevő természeti környezetben.",
-                  "category": "landmark",
-                  "coords": [
-                        28.959241,
-                        47.619767
-                  ]
-            },
-            {
-                  "name": "Cascada Mare",
-                  "text": "Nagy természetes vízesés a Țipova természetvédelmi területen.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "Gyönyörű kettős vízesés a Țipova barlangkolostor közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
-                  "name": "Cascada Orașul Păsărilor",
-                  "text": "Vízesés a Țipova természetvédelmi terület festői szurdokaiban.",
-                  "category": "landmark",
-                  "coords": [
-                        28.961889,
-                        47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "Egy időszakos vízesés a Țipova barlangkolostor közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Cetățuia getică",
-                  "text": "Rămășițele arheologice antice ale unei cetăți getice din apropierea Mănăstirii Țipova.",
-                  "category": "historical",
-                  "coords": [
-                        28.960455,
-                        47.618573
-                  ]
-            },
-            {
-                  "name": "Manastirea Țipova",
-                  "text": "Una dintre cele mai mari mănăstiri rupestre din Europa de Est, săpată în stâncile de-a lungul râului Nistru.",
-                  "category": "landmark",
-                  "coords": [
-                        28.98484,
-                        47.603093
-                  ]
-            },
-            {
-                  "name": "Biserica rupestra Tipova",
-                  "text": "O biserică rupestră ortodoxă istorică, parte a complexului monastic Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.989692,
-                        47.601786
-                  ]
-            },
-            {
-                  "name": "Cascada Moara Veche",
-                  "text": "O cascadă pitorească situată în peisajul natural din jurul Mănăstirii Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.959241,
-                        47.619767
-                  ]
-            },
-            {
-                  "name": "Cascada Mare",
-                  "text": "O cascadă naturală mare situată în rezervația naturală Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "O cascadă dublă frumoasă situată lângă complexul monastic rupestru Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
-                  "name": "Cascada Orașul Păsărilor",
-                  "text": "O cascadă situată în defileele pitorești ale zonei naturale Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.961889,
-                        47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "O cascadă sezonieră situată în apropierea mănăstirii rupestre Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cetățuia getică",
-                  "text": "The ancient archaeological remains of a Getic fortress near the Țipova Monastery.",
-                  "category": "historical",
-                  "coords": [
-                        28.960455,
-                        47.618573
-                  ]
-            },
-            {
-                  "name": "Țipova Monastery",
-                  "text": "One of the largest cave monasteries in Eastern Europe, carved into the cliffs along the Dniester River.",
-                  "category": "landmark",
-                  "coords": [
-                        28.98484,
-                        47.603093
-                  ]
-            },
-            {
-                  "name": "Biserica rupestra Tipova",
-                  "text": "A historic Orthodox cave church forming part of the Țipova monastic complex.",
-                  "category": "landmark",
-                  "coords": [
-                        28.989692,
-                        47.601786
-                  ]
-            },
-            {
-                  "name": "Cascada Moara Veche",
-                  "text": "A scenic waterfall located within the natural landscape surrounding the Țipova Monastery.",
-                  "category": "landmark",
-                  "coords": [
-                        28.959241,
-                        47.619767
-                  ]
-            },
-            {
-                  "name": "Cascada Mare",
-                  "text": "A large natural waterfall situated in the Țipova nature reserve.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "A beautiful double waterfall located near the Țipova cave monastic complex.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
-                  "name": "Cascada Orașul Păsărilor",
-                  "text": "A waterfall located in the scenic gorges of the Țipova nature area.",
-                  "category": "landmark",
-                  "coords": [
-                        28.961889,
-                        47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "A seasonal waterfall located near the Țipova Cave Monastery.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "MD-035",
@@ -3572,24 +3028,6 @@ export const moldovaPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Kloster Țipova",
-                  "text": "Ein berühmtes Höhlenkloster bei Horodiște, gelegen an den malerischen Klippen des Dnjestr.",
-                  "category": "landmark",
-                  "coords": [
-                        28.98484,
-                        47.603093
-                  ]
-            },
-            {
-                  "name": "Biserica rupestra Tipova",
-                  "text": "Eine historische Felsenkirche in der Region Horodiște, Teil des Klostersystems von Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.989692,
-                        47.601786
-                  ]
-            },
-            {
                   "name": "Cascada Moara Veche",
                   "text": "Ein malerischer Wasserfall bei Horodiște, bekannt für seine natürliche Schönheit in der Nähe einer alten Mühle.",
                   "category": "landmark",
@@ -3599,39 +3037,12 @@ export const moldovaPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Cascada Mare",
-                  "text": "Der größte Wasserfall in der Gegend von Horodiște, ein beeindruckendes Naturdenkmal.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "Ein schöner Doppelwasserfall bei Horodiște, ein beliebtes Ziel für Naturfreunde.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
                   "name": "Cascada Orașul Păsărilor",
                   "text": "Ein Wasserfall mit dem poetischen Namen „Stadt der Vögel“ in der Nähe von Horodiște.",
                   "category": "landmark",
                   "coords": [
                         28.961889,
                         47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "Ein saisonaler Wasserfall bei Horodiște, der besonders nach starken Regenfällen sichtbar ist.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
                   ]
             }
       ],
@@ -3646,24 +3057,6 @@ export const moldovaPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Manastirea Țipova",
-                  "text": "Híres barlangkolostor Horodiște közelében, a Dnyeszter festői szikláinál.",
-                  "category": "landmark",
-                  "coords": [
-                        28.98484,
-                        47.603093
-                  ]
-            },
-            {
-                  "name": "Biserica rupestra Tipova",
-                  "text": "Történelmi sziklatemplom Horodiște régiójában, a Țipova kolostoregyüttes része.",
-                  "category": "landmark",
-                  "coords": [
-                        28.989692,
-                        47.601786
-                  ]
-            },
-            {
                   "name": "Cascada Moara Veche",
                   "text": "Festői vízesés Horodiște közelében, amely egy régi malom melletti természeti szépségéről ismert.",
                   "category": "landmark",
@@ -3673,39 +3066,12 @@ export const moldovaPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Cascada Mare",
-                  "text": "Horodiște környékének legnagyobb vízesése, lenyűgöző természeti látványosság.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "Szép kettős vízesés Horodiște közelében, a természetjárók kedvelt célpontja.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
                   "name": "Cascada Orașul Păsărilor",
                   "text": "A költői „Madarak városa” nevet viselő vízesés Horodiște közelében.",
                   "category": "landmark",
                   "coords": [
                         28.961889,
                         47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "Időszakos vízesés Horodiște közelében, amely főként nagy esőzések után látható.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
                   ]
             }
       ],
@@ -3720,24 +3086,6 @@ export const moldovaPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Manastirea Țipova",
-                  "text": "O faimoasă mănăstire rupestră lângă Horodiște, situată pe malurile pitorești ale Nistrului.",
-                  "category": "landmark",
-                  "coords": [
-                        28.98484,
-                        47.603093
-                  ]
-            },
-            {
-                  "name": "Biserica rupestra Tipova",
-                  "text": "O biserică istorică săpată în stâncă în regiunea Horodiște, parte a complexului monahal Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.989692,
-                        47.601786
-                  ]
-            },
-            {
                   "name": "Cascada Moara Veche",
                   "text": "O cascadă pitorească lângă Horodiște, cunoscută pentru frumusețea sa naturală din apropierea unei vechi mori.",
                   "category": "landmark",
@@ -3747,39 +3095,12 @@ export const moldovaPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Cascada Mare",
-                  "text": "Cea mai mare cascadă din zona Horodiște, un monument natural impresionant.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "O frumoasă cascadă dublă lângă Horodiște, o destinație populară pentru iubitorii de natură.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
                   "name": "Cascada Orașul Păsărilor",
                   "text": "O cascadă cu numele poetic „Orașul Păsărilor” situată în apropiere de Horodiște.",
                   "category": "landmark",
                   "coords": [
                         28.961889,
                         47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "O cascadă sezonieră lângă Horodiște, vizibilă mai ales după ploi abundente.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
                   ]
             }
       ],
@@ -3794,24 +3115,6 @@ export const moldovaPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Țipova Monastery",
-                  "text": "A famous cave monastery near Horodiște, located on the picturesque cliffs of the Dniester.",
-                  "category": "landmark",
-                  "coords": [
-                        28.98484,
-                        47.603093
-                  ]
-            },
-            {
-                  "name": "Biserica rupestra Tipova",
-                  "text": "A historic rock-cut church in the Horodiște region, part of the Țipova monastery system.",
-                  "category": "landmark",
-                  "coords": [
-                        28.989692,
-                        47.601786
-                  ]
-            },
-            {
                   "name": "Cascada Moara Veche",
                   "text": "A picturesque waterfall near Horodiște, known for its natural beauty near an old mill.",
                   "category": "landmark",
@@ -3821,39 +3124,12 @@ export const moldovaPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Cascada Mare",
-                  "text": "The largest waterfall in the Horodiște area, an impressive natural monument.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "A beautiful double waterfall near Horodiște, a popular destination for nature lovers.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
                   "name": "Cascada Orașul Păsărilor",
                   "text": "A waterfall with the poetic name 'City of Birds' located near Horodiște.",
                   "category": "landmark",
                   "coords": [
                         28.961889,
                         47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "A seasonal waterfall near Horodiște, visible mainly after heavy rainfall.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
                   ]
             }
       ]

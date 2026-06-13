@@ -126,15 +126,6 @@ export const albaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Mutter Albanien",
-                  "text": "Mutter Albanien ist eine monumentale Statue in Tirana.",
-                  "category": "historical",
-                  "coords": [
-                        19.840069,
-                        41.30854
-                  ]
-            },
-            {
                   "name": "Skanderbeg-Denkmal",
                   "text": "Das Skanderbeg-Denkmal ist eine bekannte Reiterstatue auf dem Hauptplatz von Tirana.",
                   "category": "historical",
@@ -477,24 +468,6 @@ export const albaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Rezervuari i Kasharit",
-                  "text": "Malerischer See bei Tirana, ideal für eine Pause im Grünen.",
-                  "category": "natural",
-                  "coords": [
-                        19.725096,
-                        41.353264
-                  ]
-            },
-            {
-                  "name": "Liqeni i Paskuqanit",
-                  "text": "Ein friedliches Gewässer in Tirana, perfekt für Naturbetrachtungen.",
-                  "category": "natural",
-                  "coords": [
-                        19.794808,
-                        41.363432
-                  ]
-            },
-            {
                   "name": "Liqeni i Farkës",
                   "text": "Ein bekannter See bei Tirana, der zu Spaziergängen am Ufer einlädt.",
                   "category": "natural",
@@ -728,15 +701,6 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         19.804254,
                         41.330083
-                  ]
-            },
-            {
-                  "name": "Nëna Shqipëri",
-                  "text": "Az Albánia Anyja egy monumentális szobor Tiranában.",
-                  "category": "historical",
-                  "coords": [
-                        19.840069,
-                        41.30854
                   ]
             },
             {
@@ -1082,24 +1046,6 @@ export const albaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Rezervuari i Kasharit",
-                  "text": "Festői tó Tirana közelében, ideális egy zöldövezeti pihenőhöz.",
-                  "category": "natural",
-                  "coords": [
-                        19.725096,
-                        41.353264
-                  ]
-            },
-            {
-                  "name": "Liqeni i Paskuqanit",
-                  "text": "Békés vízfelület Tirana területén, tökéletes a természet megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        19.794808,
-                        41.363432
-                  ]
-            },
-            {
                   "name": "Liqeni i Farkës",
                   "text": "Ismert tó Tirana közelében, amely parti sétákra hívogat.",
                   "category": "natural",
@@ -1333,15 +1279,6 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         19.804254,
                         41.330083
-                  ]
-            },
-            {
-                  "name": "Nëna Shqipëri",
-                  "text": "Mama Albania este o statuie monumentală situată în Tirana.",
-                  "category": "historical",
-                  "coords": [
-                        19.840069,
-                        41.30854
                   ]
             },
             {
@@ -1687,24 +1624,6 @@ export const albaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Rezervuari i Kasharit",
-                  "text": "Lac pitoresc lângă Tirana, ideal pentru o pauză în natură.",
-                  "category": "natural",
-                  "coords": [
-                        19.725096,
-                        41.353264
-                  ]
-            },
-            {
-                  "name": "Liqeni i Paskuqanit",
-                  "text": "Un lac liniștit în Tirana, perfect pentru observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        19.794808,
-                        41.363432
-                  ]
-            },
-            {
                   "name": "Liqeni i Farkës",
                   "text": "Un lac cunoscut lângă Tirana, care invită la plimbări pe mal.",
                   "category": "natural",
@@ -1938,15 +1857,6 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         19.804254,
                         41.330083
-                  ]
-            },
-            {
-                  "name": "Mother Albania",
-                  "text": "Mother Albania is a monumental statue located in Tirana.",
-                  "category": "historical",
-                  "coords": [
-                        19.840069,
-                        41.30854
                   ]
             },
             {
@@ -2292,24 +2202,6 @@ export const albaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Rezervuari i Kasharit",
-                  "text": "Scenic lake near Tirana, ideal for a break in the greenery.",
-                  "category": "natural",
-                  "coords": [
-                        19.725096,
-                        41.353264
-                  ]
-            },
-            {
-                  "name": "Paskuqan Lake",
-                  "text": "A peaceful body of water in Tirana, perfect for nature viewing.",
-                  "category": "natural",
-                  "coords": [
-                        19.794808,
-                        41.363432
-                  ]
-            },
-            {
                   "name": "Liqeni i Farkës",
                   "text": "A well-known lake near Tirana, inviting for walks along the shore.",
                   "category": "natural",
@@ -2619,24 +2511,6 @@ export const albaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Beach of Durrës",
-                  "text": "Dieser weitläufige Sandstrand erstreckt sich malerisch entlang der Küste der Stadt Durrës in Albanien. Die lebhafte Atmosphäre zieht sowohl Einheimische als auch Urlauber an, die das Meer in vollen Zügen genießen möchten. Besucher können sich auf ausgedehnte Strandspaziergänge, entspanntes Sonnenbaden und erfrischendes Schwimmen freuen. Ein Besuch am Wasser lohnt sich besonders in den warmen Sommermonaten.",
-                  "category": "recreational",
-                  "coords": [
-                        19.485036,
-                        41.306404
-                  ]
-            },
-            {
-                  "name": "Aragosta Beach",
-                  "text": "Als beliebter Strandabschnitt in Durrës bietet dieser Ort an der albanischen Küste eine einladende Kulisse. Hier herrscht meist eine gesellige Stimmung, die zum Verweilen und Genießen einlädt. Man kann herrlich in der Sonne entspannen oder sich bei einem Bad in den Wellen abkühlen. Am besten kommt man früh am Tag, um den perfekten Platz am Ufer zu finden.",
-                  "category": "recreational",
-                  "coords": [
-                        19.434169,
-                        41.311827
-                  ]
-            },
-            {
                   "name": "Vila Mbretërore e Durrësit",
                   "text": "Ein markantes königliches Gebäude in Durrës.",
                   "category": "historical",
@@ -2816,24 +2690,6 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         19.443256,
                         41.31914
-                  ]
-            },
-            {
-                  "name": "Beach of Durrës",
-                  "text": "Ez a kiterjedt homokos part festőien húzódik az albániai Durrës partvonala mentén. A nyüzsgő atmoszféra vonzza a helyieket és a nyaralókat egyaránt, akik teljes mértékben élvezni szeretnék a tengert. A látogatók hosszú parti sétákra, pihentető napozásra és frissítő úszásra számíthatnak. A vízparti látogatás különösen a meleg nyári hónapokban érdemes.",
-                  "category": "recreational",
-                  "coords": [
-                        19.485036,
-                        41.306404
-                  ]
-            },
-            {
-                  "name": "Aragosta Beach",
-                  "text": "Durrës egyik kedvelt partszakaszaként ez a hely hívogató kulisszát kínál az albán tengerparton. Itt többnyire barátságos hangulat uralkodik, amely maradásra és élvezetre csábít. Remekül lehet pihenni a napon, vagy lehűlni a hullámok közötti fürdőzés során. A legjobb korán érkezni a nap folyamán, hogy megtaláljuk a tökéletes helyet a parton.",
-                  "category": "recreational",
-                  "coords": [
-                        19.434169,
-                        41.311827
                   ]
             },
             {
@@ -3019,24 +2875,6 @@ export const albaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Beach of Durrës",
-                  "text": "Această plajă extinsă cu nisip se întinde pitoresc de-a lungul coastei orașului Durrës din Albania. Atmosfera plină de viață atrage deopotrivă localnicii și turiștii dornici să se bucure din plin de mare. Vizitatorii se pot aștepta la plimbări lungi pe țărm, băi de soare relaxante și înot revigorant. O vizită la malul apei merită din plin, mai ales în lunile calde de vară.",
-                  "category": "recreational",
-                  "coords": [
-                        19.485036,
-                        41.306404
-                  ]
-            },
-            {
-                  "name": "Aragosta Beach",
-                  "text": "Fiind o secțiune populară de plajă în Durrës, acest loc de pe coasta albaneză oferă un decor primitor. Aici domnește adesea o atmosferă prietenoasă, care te invită să zăbovești și să te relaxezi. Te poți odihni minunat la soare sau te poți răcori înotând în valuri. Cel mai bine este să ajungi devreme pentru a găsi locul perfect pe țărm.",
-                  "category": "recreational",
-                  "coords": [
-                        19.434169,
-                        41.311827
-                  ]
-            },
-            {
                   "name": "Vila Mbretërore e Durrësit",
                   "text": "O clădire regală distinctivă în Durrës.",
                   "category": "historical",
@@ -3219,24 +3057,6 @@ export const albaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Beach of Durrës",
-                  "text": "This extensive sandy beach stretches picturesquely along the coast of the city of Durres in Albania. The lively atmosphere attracts both locals and vacationers looking to enjoy the sea to the fullest. Visitors can look forward to long shoreline walks, relaxing sunbathing, and refreshing swimming. A visit to the water is highly recommended, especially during the warm summer months.",
-                  "category": "recreational",
-                  "coords": [
-                        19.485036,
-                        41.306404
-                  ]
-            },
-            {
-                  "name": "Aragosta Beach",
-                  "text": "As a popular beach section in Durres, this spot on the Albanian coast offers a welcoming setting. A sociable mood usually prevails here, inviting you to linger and enjoy. You can wonderfully relax in the sun or cool off with a dip in the waves. It is best to arrive early in the day to secure the perfect spot on the shore.",
-                  "category": "recreational",
-                  "coords": [
-                        19.434169,
-                        41.311827
-                  ]
-            },
-            {
                   "name": "Royal Villa of Durrës",
                   "text": "A distinctive royal building in Durrës.",
                   "category": "historical",
@@ -3380,15 +3200,6 @@ export const albaniaCities: POI[] = [
                         19.488077,
                         40.459376
                   ]
-            },
-            {
-                  "name": "Yacht Hotel Beach Chairs",
-                  "text": "Ein Strandbad in Vlore, das Möglichkeiten zum Schwimmen und Sonnenbaden bietet.",
-                  "category": "family",
-                  "coords": [
-                        19.493598,
-                        40.430913
-                  ]
             }
       ],
       "hu": [
@@ -3417,15 +3228,6 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         19.488077,
                         40.459376
-                  ]
-            },
-            {
-                  "name": "Yacht Hotel Beach Chairs",
-                  "text": "Egy strand Vlore területén, amely úszási és napozási lehetőséget biztosít.",
-                  "category": "family",
-                  "coords": [
-                        19.493598,
-                        40.430913
                   ]
             }
       ],
@@ -3456,15 +3258,6 @@ export const albaniaCities: POI[] = [
                         19.488077,
                         40.459376
                   ]
-            },
-            {
-                  "name": "Yacht Hotel Beach Chairs",
-                  "text": "O stațiune de plajă în Vlore care oferă oportunități pentru înot și plajă.",
-                  "category": "family",
-                  "coords": [
-                        19.493598,
-                        40.430913
-                  ]
             }
       ],
       "en": [
@@ -3493,15 +3286,6 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         19.488077,
                         40.459376
-                  ]
-            },
-            {
-                  "name": "Yacht Hotel Beach Chairs",
-                  "text": "A beach resort in Vlore offering opportunities for swimming and sunbathing.",
-                  "category": "family",
-                  "coords": [
-                        19.493598,
-                        40.430913
                   ]
             }
       ]
@@ -3854,15 +3638,6 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         19.716414,
                         42.059438
-                  ]
-            },
-            {
-                  "name": "Skutarisee",
-                  "text": "Ein bedeutender See bei Shkodra, ideal für Naturbeobachtungen und Erholung.",
-                  "category": "natural",
-                  "coords": [
-                        19.280295,
-                        42.195311
                   ]
             },
             {
@@ -4228,15 +4003,6 @@ export const albaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Shkodrai-tó",
-                  "text": "Jelentős tó Shkodra közelében, ideális természetmegfigyeléshez és pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        19.280295,
-                        42.195311
-                  ]
-            },
-            {
                   "name": "Lojra Fëmijësh",
                   "text": "Helyi játszóterület Shkodra területén, amely helyet biztosít a gyerekeknek a játékhoz.",
                   "category": "family",
@@ -4599,15 +4365,6 @@ export const albaniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Skadarsko jezero / Liqeni i Shkodrës",
-                  "text": "Un lac important lângă Shkodra, ideal pentru observarea naturii și recreere.",
-                  "category": "natural",
-                  "coords": [
-                        19.280295,
-                        42.195311
-                  ]
-            },
-            {
                   "name": "Lojra Fëmijësh",
                   "text": "O zonă de joacă locală în Shkodra, oferind spațiu de joacă pentru copii.",
                   "category": "family",
@@ -4967,15 +4724,6 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         19.716414,
                         42.059438
-                  ]
-            },
-            {
-                  "name": "Lake Skadar",
-                  "text": "A significant lake near Shkodra, ideal for nature observation and recreation.",
-                  "category": "natural",
-                  "coords": [
-                        19.280295,
-                        42.195311
                   ]
             },
             {
@@ -6725,15 +6473,6 @@ export const albaniaCities: POI[] = [
                         20.033632,
                         39.872293
                   ]
-            },
-            {
-                  "name": "Plazh publik",
-                  "text": "Ein beliebter öffentlicher Strand an der Küste von Saranda.",
-                  "category": "recreational",
-                  "coords": [
-                        20.01229,
-                        39.872988
-                  ]
             }
       ],
       "hu": [
@@ -6798,15 +6537,6 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         20.033632,
                         39.872293
-                  ]
-            },
-            {
-                  "name": "Plazh publik",
-                  "text": "Népszerű nyilvános strand Saranda tengerpartján.",
-                  "category": "recreational",
-                  "coords": [
-                        20.01229,
-                        39.872988
                   ]
             }
       ],
@@ -6873,15 +6603,6 @@ export const albaniaCities: POI[] = [
                         20.033632,
                         39.872293
                   ]
-            },
-            {
-                  "name": "Plazh publik",
-                  "text": "O plajă publică populară pe coasta orașului Saranda.",
-                  "category": "recreational",
-                  "coords": [
-                        20.01229,
-                        39.872988
-                  ]
             }
       ],
       "en": [
@@ -6946,15 +6667,6 @@ export const albaniaCities: POI[] = [
                   "coords": [
                         20.033632,
                         39.872293
-                  ]
-            },
-            {
-                  "name": "Public beach",
-                  "text": "A popular public beach on the coast of Saranda.",
-                  "category": "recreational",
-                  "coords": [
-                        20.01229,
-                        39.872988
                   ]
             }
       ]
@@ -7345,33 +7057,6 @@ export const albaniaNature: POI[] = [
     id: "nat-valbone", "sights": {
       "de": [
             {
-                  "name": "Parku Kombëtar Lugina e Valbonës",
-                  "text": "Ein geschützter Nationalpark in den Albanischen Alpen, der für seine unberührten Alpenlandschaften bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        19.934352,
-                        42.440812
-                  ]
-            },
-            {
-                  "name": "Maja e Thatë",
-                  "text": "Ein markanter Berggipfel im Valbona-Tal, der Teil der Albanischen Alpen ist.",
-                  "category": "landmark",
-                  "coords": [
-                        19.869091,
-                        42.468072
-                  ]
-            },
-            {
-                  "name": "Maja Grykat e Hapëta",
-                  "text": "Einer der höchsten und markantesten Gipfel in der Region des Valbona-Tals.",
-                  "category": "landmark",
-                  "coords": [
-                        19.904722,
-                        42.408333
-                  ]
-            },
-            {
                   "name": "Bunker",
                   "text": "Ein historischer Militärbunker, der heute als Sehenswürdigkeit im Valbona-Tal dient.",
                   "category": "landmark",
@@ -7391,33 +7076,6 @@ export const albaniaNature: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Parku Kombëtar Lugina e Valbonës",
-                  "text": "Az Albán-Alpokban található védett nemzeti park, amely érintetlen alpesi tájairól ismert.",
-                  "category": "natural",
-                  "coords": [
-                        19.934352,
-                        42.440812
-                  ]
-            },
-            {
-                  "name": "Maja e Thatë",
-                  "text": "Egy jellegzetes hegycsúcs a Valbona-völgyben, az Albán-Alpok területén.",
-                  "category": "landmark",
-                  "coords": [
-                        19.869091,
-                        42.468072
-                  ]
-            },
-            {
-                  "name": "Maja Grykat e Hapëta",
-                  "text": "A Valbona-völgy régiójának egyik legmagasabb és legjellegzetesebb hegycsúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        19.904722,
-                        42.408333
-                  ]
-            },
             {
                   "name": "Bunker",
                   "text": "Egy történelmi katonai bunker, amely ma látnivalóként szolgál a Valbona-völgyben.",
@@ -7439,33 +7097,6 @@ export const albaniaNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Parku Kombëtar Lugina e Valbonës",
-                  "text": "Un parc național protejat din Alpii Albanezi, cunoscut pentru peisajele sale alpine virgine.",
-                  "category": "natural",
-                  "coords": [
-                        19.934352,
-                        42.440812
-                  ]
-            },
-            {
-                  "name": "Maja e Thatë",
-                  "text": "Un vârf muntos proeminent din Valea Valbona, care face parte din Alpii Albanezi.",
-                  "category": "landmark",
-                  "coords": [
-                        19.869091,
-                        42.468072
-                  ]
-            },
-            {
-                  "name": "Maja Grykat e Hapëta",
-                  "text": "Unul dintre cele mai înalte și mai distinctive vârfuri din regiunea Văii Valbona.",
-                  "category": "landmark",
-                  "coords": [
-                        19.904722,
-                        42.408333
-                  ]
-            },
-            {
                   "name": "Bunker",
                   "text": "Un buncăr militar istoric care servește astăzi ca punct de interes în Valea Valbona.",
                   "category": "landmark",
@@ -7485,33 +7116,6 @@ export const albaniaNature: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Valbona Valley National Park",
-                  "text": "A protected national park in the Albanian Alps known for its pristine alpine landscapes.",
-                  "category": "natural",
-                  "coords": [
-                        19.934352,
-                        42.440812
-                  ]
-            },
-            {
-                  "name": "Maja e Thatë",
-                  "text": "A prominent mountain peak in the Valbona Valley, part of the Albanian Alps.",
-                  "category": "landmark",
-                  "coords": [
-                        19.869091,
-                        42.468072
-                  ]
-            },
-            {
-                  "name": "Maja Grykat e Hapëta",
-                  "text": "One of the highest and most distinctive peaks in the Valbona Valley region.",
-                  "category": "landmark",
-                  "coords": [
-                        19.904722,
-                        42.408333
-                  ]
-            },
             {
                   "name": "Bunker",
                   "text": "A historic military bunker that now serves as a point of interest in Valbona Valley.",
@@ -7636,24 +7240,6 @@ export const albaniaNature: POI[] = [
                         19.592743,
                         40.184301
                   ]
-            },
-            {
-                  "name": "Flying Mammut",
-                  "text": "Eine Attraktion am Llogara-Pass, die oft als Startplatz für Paraglider genutzt wird.",
-                  "category": "landmark",
-                  "coords": [
-                        19.599128,
-                        40.188293
-                  ]
-            },
-            {
-                  "name": "Llogora 1912-1913",
-                  "text": "Ein Denkmal am Llogara-Pass zur Erinnerung an historische Ereignisse.",
-                  "category": "historical",
-                  "coords": [
-                        19.598476,
-                        40.195882
-                  ]
             }
       ],
       "hu": [
@@ -7691,24 +7277,6 @@ export const albaniaNature: POI[] = [
                   "coords": [
                         19.592743,
                         40.184301
-                  ]
-            },
-            {
-                  "name": "Flying Mammut",
-                  "text": "Turisztikai attrakció a Llogara-hágónál, gyakran siklóernyős felszállóhely.",
-                  "category": "landmark",
-                  "coords": [
-                        19.599128,
-                        40.188293
-                  ]
-            },
-            {
-                  "name": "Llogora 1912-1913",
-                  "text": "Emlékmű a Llogara-hágónál a történelmi események emlékére.",
-                  "category": "historical",
-                  "coords": [
-                        19.598476,
-                        40.195882
                   ]
             }
       ],
@@ -7748,24 +7316,6 @@ export const albaniaNature: POI[] = [
                         19.592743,
                         40.184301
                   ]
-            },
-            {
-                  "name": "Flying Mammut",
-                  "text": "O atracție în pasul Llogara, utilizată adesea ca punct de lansare pentru parapantă.",
-                  "category": "landmark",
-                  "coords": [
-                        19.599128,
-                        40.188293
-                  ]
-            },
-            {
-                  "name": "Llogora 1912-1913",
-                  "text": "Un monument în pasul Llogara care comemorează evenimente istorice.",
-                  "category": "historical",
-                  "coords": [
-                        19.598476,
-                        40.195882
-                  ]
             }
       ],
       "en": [
@@ -7803,24 +7353,6 @@ export const albaniaNature: POI[] = [
                   "coords": [
                         19.592743,
                         40.184301
-                  ]
-            },
-            {
-                  "name": "Flying Mammut",
-                  "text": "An attraction at the Llogara Pass, often used as a paragliding launch site.",
-                  "category": "landmark",
-                  "coords": [
-                        19.599128,
-                        40.188293
-                  ]
-            },
-            {
-                  "name": "Llogora 1912-1913",
-                  "text": "A monument at the Llogara Pass commemorating historical events.",
-                  "category": "historical",
-                  "coords": [
-                        19.598476,
-                        40.195882
                   ]
             }
       ]
@@ -8010,51 +7542,6 @@ export const albaniaNature: POI[] = [
     id: "nat-theth", "sights": {
       "de": [
             {
-                  "name": "Muzeu Etnografik i Dukagjinit",
-                  "text": "Museum zur Kultur und Geschichte der Region Dukagjin.",
-                  "category": "museum",
-                  "coords": [
-                        19.785228,
-                        42.387331
-                  ]
-            },
-            {
-                  "name": "Vendbanim Prehistorik i Sistemit Taracor",
-                  "text": "Archäologische Fundstätte einer prähistorischen Siedlung mit Terrassenanlagen.",
-                  "category": "historical",
-                  "coords": [
-                        19.790507,
-                        42.374715
-                  ]
-            },
-            {
-                  "name": "Maja e Zorzit",
-                  "text": "Hoher Berggipfel im albanischen Nationalpark Theth.",
-                  "category": "landmark",
-                  "coords": [
-                        19.76959,
-                        42.370567
-                  ]
-            },
-            {
-                  "name": "Grunas Wasserfall",
-                  "text": "Beeindruckender Wasserfall in den albanischen Alpen.",
-                  "category": "landmark",
-                  "coords": [
-                        19.795255,
-                        42.377408
-                  ]
-            },
-            {
-                  "name": "Maja e Boshit",
-                  "text": "Markanter Gipfel in der Bergwelt von Theth.",
-                  "category": "landmark",
-                  "coords": [
-                        19.827613,
-                        42.386249
-                  ]
-            },
-            {
                   "name": "Water mill",
                   "text": "Historische Wassermühle im Theth-Nationalpark.",
                   "category": "landmark",
@@ -8062,72 +7549,9 @@ export const albaniaNature: POI[] = [
                         19.770116,
                         42.399649
                   ]
-            },
-            {
-                  "name": "Rrogam Waterfall",
-                  "text": "Malerischer Wasserfall in der unberührten Natur Nordalbaniens.",
-                  "category": "landmark",
-                  "coords": [
-                        19.826603,
-                        42.408251
-                  ]
-            },
-            {
-                  "name": "Canyon of Grunas",
-                  "text": "Spektakuläre Felsschlucht im Nationalpark Theth.",
-                  "category": "landmark",
-                  "coords": [
-                        19.789351,
-                        42.375023
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Muzeu Etnografik i Dukagjinit",
-                  "text": "A Dukagjin régió kultúráját és történelmét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        19.785228,
-                        42.387331
-                  ]
-            },
-            {
-                  "name": "Vendbanim Prehistorik i Sistemit Taracor",
-                  "text": "Egy teraszos őskori település régészeti lelőhelye.",
-                  "category": "historical",
-                  "coords": [
-                        19.790507,
-                        42.374715
-                  ]
-            },
-            {
-                  "name": "Maja e Zorzit",
-                  "text": "Magas hegycsúcs az albániai Theth Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        19.76959,
-                        42.370567
-                  ]
-            },
-            {
-                  "name": "Ujëvara e Grunasit",
-                  "text": "Lenyűgöző vízesés az Albán-Alpokban.",
-                  "category": "landmark",
-                  "coords": [
-                        19.795255,
-                        42.377408
-                  ]
-            },
-            {
-                  "name": "Maja e Boshit",
-                  "text": "Jellegzetes hegycsúcs Theth hegyvidékén.",
-                  "category": "landmark",
-                  "coords": [
-                        19.827613,
-                        42.386249
-                  ]
-            },
             {
                   "name": "Water mill",
                   "text": "Történelmi vízimalom a Theth Nemzeti Parkban.",
@@ -8136,72 +7560,9 @@ export const albaniaNature: POI[] = [
                         19.770116,
                         42.399649
                   ]
-            },
-            {
-                  "name": "Rrogam Waterfall",
-                  "text": "Festői vízesés Észak-Albánia érintetlen természetében.",
-                  "category": "landmark",
-                  "coords": [
-                        19.826603,
-                        42.408251
-                  ]
-            },
-            {
-                  "name": "Canyon of Grunas",
-                  "text": "Látványos szurdok a Theth Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        19.789351,
-                        42.375023
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Muzeu Etnografik i Dukagjinit",
-                  "text": "Muzeu dedicat culturii și istoriei regiunii Dukagjin.",
-                  "category": "museum",
-                  "coords": [
-                        19.785228,
-                        42.387331
-                  ]
-            },
-            {
-                  "name": "Vendbanim Prehistorik i Sistemit Taracor",
-                  "text": "Sit arheologic al unei așezări preistorice cu terase.",
-                  "category": "historical",
-                  "coords": [
-                        19.790507,
-                        42.374715
-                  ]
-            },
-            {
-                  "name": "Maja e Zorzit",
-                  "text": "Vârf muntos înalt în Parcul Național Theth din Albania.",
-                  "category": "landmark",
-                  "coords": [
-                        19.76959,
-                        42.370567
-                  ]
-            },
-            {
-                  "name": "Ujëvara e Grunasit",
-                  "text": "Cascadă impresionantă în Alpii Albanezi.",
-                  "category": "landmark",
-                  "coords": [
-                        19.795255,
-                        42.377408
-                  ]
-            },
-            {
-                  "name": "Maja e Boshit",
-                  "text": "Vârf proeminent în munții din Theth.",
-                  "category": "landmark",
-                  "coords": [
-                        19.827613,
-                        42.386249
-                  ]
-            },
             {
                   "name": "Water mill",
                   "text": "Moară de apă istorică în Parcul Național Theth.",
@@ -8210,72 +7571,9 @@ export const albaniaNature: POI[] = [
                         19.770116,
                         42.399649
                   ]
-            },
-            {
-                  "name": "Rrogam Waterfall",
-                  "text": "Cascadă pitorească în natura virgină a Albaniei de Nord.",
-                  "category": "landmark",
-                  "coords": [
-                        19.826603,
-                        42.408251
-                  ]
-            },
-            {
-                  "name": "Canyon of Grunas",
-                  "text": "Canion spectaculos în Parcul Național Theth.",
-                  "category": "landmark",
-                  "coords": [
-                        19.789351,
-                        42.375023
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Ethnographic Museum of Dukagjin",
-                  "text": "Museum dedicated to the culture and history of the Dukagjin region.",
-                  "category": "museum",
-                  "coords": [
-                        19.785228,
-                        42.387331
-                  ]
-            },
-            {
-                  "name": "Prehistoric Settlement with Terraces",
-                  "text": "Archaeological site of a prehistoric settlement with terraces.",
-                  "category": "historical",
-                  "coords": [
-                        19.790507,
-                        42.374715
-                  ]
-            },
-            {
-                  "name": "Maja e Zorzit",
-                  "text": "High mountain peak in the Theth National Park in Albania.",
-                  "category": "landmark",
-                  "coords": [
-                        19.76959,
-                        42.370567
-                  ]
-            },
-            {
-                  "name": "Grunas Waterfall",
-                  "text": "Impressive waterfall in the Albanian Alps.",
-                  "category": "landmark",
-                  "coords": [
-                        19.795255,
-                        42.377408
-                  ]
-            },
-            {
-                  "name": "Maja e Boshit",
-                  "text": "Prominent peak in the mountains of Theth.",
-                  "category": "landmark",
-                  "coords": [
-                        19.827613,
-                        42.386249
-                  ]
-            },
             {
                   "name": "Water mill",
                   "text": "Historic water mill in the Theth National Park.",
@@ -8283,24 +7581,6 @@ export const albaniaNature: POI[] = [
                   "coords": [
                         19.770116,
                         42.399649
-                  ]
-            },
-            {
-                  "name": "Valbona's Waterfall",
-                  "text": "Picturesque waterfall in the untouched nature of Northern Albania.",
-                  "category": "landmark",
-                  "coords": [
-                        19.826603,
-                        42.408251
-                  ]
-            },
-            {
-                  "name": "Canyon of Grunas",
-                  "text": "Spectacular canyon in the Theth National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        19.789351,
-                        42.375023
                   ]
             }
       ]

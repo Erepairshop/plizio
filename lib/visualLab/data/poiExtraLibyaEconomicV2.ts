@@ -934,42 +934,6 @@ export const poiExtraLibyaEconomicV2: POI[] = [
                         12.948902,
                         26.559293
                   ]
-            },
-            {
-                  "name": "kasool of obari",
-                  "text": "Kasool of Obari bietet Besuchern einen Einblick in die traditionellen Siedlungen, welche die riesigen Dünenfelder der Sahara umgeben.",
-                  "category": "landmark",
-                  "coords": [
-                        12.772808,
-                        26.58852
-                  ]
-            },
-            {
-                  "name": "jhoko",
-                  "text": "Jhoko ist ein lokales kulturelles Wahrzeichen inmitten der trockenen Weiten der Wüstenregion.",
-                  "category": "landmark",
-                  "coords": [
-                        12.784106,
-                        26.591531
-                  ]
-            },
-            {
-                  "name": "mahkama",
-                  "text": "Mahkama repräsentiert ein altes, traditionelles Verwaltungsgebäude oder Gericht in der Wüstenoase.",
-                  "category": "landmark",
-                  "coords": [
-                        12.793703,
-                        26.589513
-                  ]
-            },
-            {
-                  "name": "tobou country",
-                  "text": "Tobou Country hebt die raue Wüstenheimat und die traditionelle Kultur der indigenen Tubu-Völker hervor.",
-                  "category": "landmark",
-                  "coords": [
-                        12.771388,
-                        26.57841
-                  ]
             }
       ],
       "hu": [
@@ -980,42 +944,6 @@ export const poiExtraLibyaEconomicV2: POI[] = [
                   "coords": [
                         12.948902,
                         26.559293
-                  ]
-            },
-            {
-                  "name": "kasool of obari",
-                  "text": "A Kasool of Obari bepillantást enged a hatalmas szaharai dűnemezőket körülvevő hagyományos települések életébe.",
-                  "category": "landmark",
-                  "coords": [
-                        12.772808,
-                        26.58852
-                  ]
-            },
-            {
-                  "name": "jhoko",
-                  "text": "A Jhoko egy helyi kulturális nevezetesség a sivatagi régió száraz pusztasága közepén.",
-                  "category": "landmark",
-                  "coords": [
-                        12.784106,
-                        26.591531
-                  ]
-            },
-            {
-                  "name": "mahkama",
-                  "text": "A Mahkama egy régi, hagyományos adminisztratív épületet vagy bíróságot képvisel a sivatagi oázisban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.793703,
-                        26.589513
-                  ]
-            },
-            {
-                  "name": "tobou country",
-                  "text": "A Tobou country az őslakos tubu nép zord sivatagi hazáját és hagyományos kultúráját helyezi előtérbe.",
-                  "category": "landmark",
-                  "coords": [
-                        12.771388,
-                        26.57841
                   ]
             }
       ],
@@ -1028,42 +956,6 @@ export const poiExtraLibyaEconomicV2: POI[] = [
                         12.948902,
                         26.559293
                   ]
-            },
-            {
-                  "name": "kasool of obari",
-                  "text": "Kasool din Obari oferă vizitatorilor o privire în așezările tradiționale care înconjoară vastele câmpuri de dune din Sahara.",
-                  "category": "landmark",
-                  "coords": [
-                        12.772808,
-                        26.58852
-                  ]
-            },
-            {
-                  "name": "jhoko",
-                  "text": "Jhoko este un punct de reper cultural local situat în întinderea aridă a regiunii deșertice.",
-                  "category": "landmark",
-                  "coords": [
-                        12.784106,
-                        26.591531
-                  ]
-            },
-            {
-                  "name": "mahkama",
-                  "text": "Mahkama reprezintă o veche structură administrativă tradițională sau curte de justiție situată în oaza din deșert.",
-                  "category": "landmark",
-                  "coords": [
-                        12.793703,
-                        26.589513
-                  ]
-            },
-            {
-                  "name": "tobou country",
-                  "text": "Țara Tobou scoate în evidență patria aspră din deșert și cultura tradițională a popoarelor indigene Tubu.",
-                  "category": "landmark",
-                  "coords": [
-                        12.771388,
-                        26.57841
-                  ]
             }
       ],
       "en": [
@@ -1074,42 +966,6 @@ export const poiExtraLibyaEconomicV2: POI[] = [
                   "coords": [
                         12.948902,
                         26.559293
-                  ]
-            },
-            {
-                  "name": "kasool of obari",
-                  "text": "Kasool of Obari offers visitors a glimpse into the traditional settlements surrounding the vast Saharan dune fields.",
-                  "category": "landmark",
-                  "coords": [
-                        12.772808,
-                        26.58852
-                  ]
-            },
-            {
-                  "name": "jhoko",
-                  "text": "Jhoko is a local cultural landmark set within the arid expanse of the desert region.",
-                  "category": "landmark",
-                  "coords": [
-                        12.784106,
-                        26.591531
-                  ]
-            },
-            {
-                  "name": "mahkama",
-                  "text": "Mahkama represents an old traditional administrative structure or court located in the desert oasis.",
-                  "category": "landmark",
-                  "coords": [
-                        12.793703,
-                        26.589513
-                  ]
-            },
-            {
-                  "name": "tobou country",
-                  "text": "Tobou country highlights the rugged desert homelands and traditional culture of the indigenous Toubou people.",
-                  "category": "landmark",
-                  "coords": [
-                        12.771388,
-                        26.57841
                   ]
             }
       ]

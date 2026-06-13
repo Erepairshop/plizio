@@ -1671,15 +1671,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Trans media",
-                  "text": "Ein Aussichtspunkt in Ramallah.",
-                  "category": "natural",
-                  "coords": [
-                        35.211266,
-                        31.907398
-                  ]
-            },
-            {
                   "name": "French-German Cultural Center",
                   "text": "Ein deutsch-französisches Kulturzentrum in Ramallah.",
                   "category": "cultural",
@@ -1796,15 +1787,6 @@ export const palestineLandmarksV2: POI[] = [
                   "coords": [
                         35.205565,
                         31.905364
-                  ]
-            },
-            {
-                  "name": "Trans media",
-                  "text": "Kilátópont Rámalláh városában.",
-                  "category": "natural",
-                  "coords": [
-                        35.211266,
-                        31.907398
                   ]
             },
             {
@@ -1927,15 +1909,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Trans media",
-                  "text": "Un punct de observație în Ramallah.",
-                  "category": "natural",
-                  "coords": [
-                        35.211266,
-                        31.907398
-                  ]
-            },
-            {
                   "name": "French-German Cultural Center",
                   "text": "Un centru cultural germano-francez în Ramallah.",
                   "category": "cultural",
@@ -2052,15 +2025,6 @@ export const palestineLandmarksV2: POI[] = [
                   "coords": [
                         35.205565,
                         31.905364
-                  ]
-            },
-            {
-                  "name": "Trans media",
-                  "text": "A viewpoint in Ramallah.",
-                  "category": "natural",
-                  "coords": [
-                        35.211266,
-                        31.907398
                   ]
             },
             {
@@ -4038,15 +4002,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Yes For Children Society (Mr Ok Theater)",
-                  "text": "Ein Gemeindetheater in Beit Sahour, das kulturelle Programme und Kunst für Kinder anbietet.",
-                  "category": "cultural",
-                  "coords": [
-                        35.231597,
-                        31.699411
-                  ]
-            },
-            {
                   "name": "Murad Tourism Park",
                   "text": "Ein großer Erholungspark mit Museum in der Nähe der historischen Salomonischen Teiche.",
                   "category": "recreational",
@@ -4118,15 +4073,6 @@ export const palestineLandmarksV2: POI[] = [
                   "coords": [
                         35.220274,
                         31.707106
-                  ]
-            },
-            {
-                  "name": "Yes For Children Society (Mr Ok Theater)",
-                  "text": "Közösségi színház Beit Sahourban, amely kulturális programokat és művészeti foglalkozásokat kínál gyerekeknek.",
-                  "category": "cultural",
-                  "coords": [
-                        35.231597,
-                        31.699411
                   ]
             },
             {
@@ -4204,15 +4150,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Yes For Children Society (Mr Ok Theater)",
-                  "text": "Un teatru comunitar din Beit Sahour, care oferă programe culturale și artă pentru copii.",
-                  "category": "cultural",
-                  "coords": [
-                        35.231597,
-                        31.699411
-                  ]
-            },
-            {
                   "name": "Murad Tourism Park",
                   "text": "Un mare parc de recreere și muzeu situat în apropierea bazinelor istorice ale lui Solomon.",
                   "category": "recreational",
@@ -4284,15 +4221,6 @@ export const palestineLandmarksV2: POI[] = [
                   "coords": [
                         35.220274,
                         31.707106
-                  ]
-            },
-            {
-                  "name": "Yes For Children Society (Mr Ok Theater)",
-                  "text": "A community theater in Beit Sahour providing cultural programs and arts for children.",
-                  "category": "cultural",
-                  "coords": [
-                        35.231597,
-                        31.699411
                   ]
             },
             {
@@ -5766,33 +5694,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Sultan Pool",
-                  "text": "Der Al-Sultan-Teich ist eine bedeutende archäologische Stätte in palestine-old-city-hebron-landmarks-v2.",
-                  "category": "historical",
-                  "coords": [
-                        35.108684,
-                        31.523108
-                  ]
-            },
-            {
-                  "name": "Ali Bakka Mosque",
-                  "text": "Die Ali-Bakka-Moschee ist ein zentrales Gotteshaus im historischen palestine-old-city-hebron-landmarks-v2.",
-                  "category": "religious",
-                  "coords": [
-                        35.103696,
-                        31.528458
-                  ]
-            },
-            {
-                  "name": "Bet Hadasa Museum of History of Jewish Settlement in Hebron",
-                  "text": "Das Bet Hadasa Museum zeigt die Geschichte der jüdischen Besiedlung in palestine-old-city-hebron-landmarks-v2.",
-                  "category": "museum",
-                  "coords": [
-                        35.104488,
-                        31.52611
-                  ]
-            },
-            {
                   "name": "Dari Bath",
                   "text": "Das Dari-Bad ist ein historisches Badehaus und eine archäologische Stätte in palestine-old-city-hebron-landmarks-v2.",
                   "category": "historical",
@@ -5820,15 +5721,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al- Aqqaba Neighborhood",
-                  "text": "Das Viertel Al-Aqqaba ist als archäologische Stätte in der Altstadt von Hebron anerkannt.",
-                  "category": "historical",
-                  "coords": [
-                        35.108564,
-                        31.525895
-                  ]
-            },
-            {
                   "name": "Glass Factory",
                   "text": "Diese alte Glasfabrik ist eine archäologische Stätte, die die lokale Geschichte der Altstadt von Hebron repräsentiert.",
                   "category": "historical",
@@ -5844,24 +5736,6 @@ export const palestineLandmarksV2: POI[] = [
                   "coords": [
                         35.101189,
                         31.524233
-                  ]
-            },
-            {
-                  "name": "Al Fonon Center",
-                  "text": "Das Al Fonon Center ist ein lokales Kunstzentrum für kulturellen Ausdruck in der Altstadt von Hebron.",
-                  "category": "cultural",
-                  "coords": [
-                        35.109794,
-                        31.521484
-                  ]
-            },
-            {
-                  "name": "Abraham's Well",
-                  "text": "Abrahams Brunnen ist eine bekannte historische Attraktion in der Altstadt von Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.104043,
-                        31.524304
                   ]
             },
             {
@@ -5930,33 +5804,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Sultan Pool",
-                  "text": "Az Al-Szultán medence egy jelentős régészeti lelőhely palestine-old-city-hebron-landmarks-v2 területén.",
-                  "category": "historical",
-                  "coords": [
-                        35.108684,
-                        31.523108
-                  ]
-            },
-            {
-                  "name": "Ali Bakka Mosque",
-                  "text": "Az Ali Bakka-mecset egy központi imaház a történelmi palestine-old-city-hebron-landmarks-v2 területén.",
-                  "category": "religious",
-                  "coords": [
-                        35.103696,
-                        31.528458
-                  ]
-            },
-            {
-                  "name": "Bet Hadasa Museum of History of Jewish Settlement in Hebron",
-                  "text": "A Bet Hadasa Múzeum a zsidó telepesek történelmét mutatja be palestine-old-city-hebron-landmarks-v2 területén.",
-                  "category": "museum",
-                  "coords": [
-                        35.104488,
-                        31.52611
-                  ]
-            },
-            {
                   "name": "Dari Bath",
                   "text": "A Dari fürdő egy történelmi fürdőház és régészeti lelőhely palestine-old-city-hebron-landmarks-v2 óvárosában.",
                   "category": "historical",
@@ -5984,15 +5831,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al- Aqqaba Neighborhood",
-                  "text": "Az Al-Aqqaba negyed elismert régészeti lelőhely Hebron óvárosában.",
-                  "category": "historical",
-                  "coords": [
-                        35.108564,
-                        31.525895
-                  ]
-            },
-            {
                   "name": "Glass Factory",
                   "text": "Ez a régi üveggyár a helyi történelmet képviselő régészeti lelőhely Hebron óvárosában.",
                   "category": "historical",
@@ -6008,24 +5846,6 @@ export const palestineLandmarksV2: POI[] = [
                   "coords": [
                         35.101189,
                         31.524233
-                  ]
-            },
-            {
-                  "name": "Al Fonon Center",
-                  "text": "Az Al Fonon Központ egy helyi művészeti központ Hebron óvárosában.",
-                  "category": "cultural",
-                  "coords": [
-                        35.109794,
-                        31.521484
-                  ]
-            },
-            {
-                  "name": "Abraham's Well",
-                  "text": "Ábrahám kútja egy jól ismert történelmi látványosság Hebron óvárosában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.104043,
-                        31.524304
                   ]
             },
             {
@@ -6094,33 +5914,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Sultan Pool",
-                  "text": "Piscina Al-Sultan este un sit arheologic semnificativ din palestine-old-city-hebron-landmarks-v2.",
-                  "category": "historical",
-                  "coords": [
-                        35.108684,
-                        31.523108
-                  ]
-            },
-            {
-                  "name": "Ali Bakka Mosque",
-                  "text": "Moscheea Ali Bakka este un lăcaș de cult central în zona istorică palestine-old-city-hebron-landmarks-v2.",
-                  "category": "religious",
-                  "coords": [
-                        35.103696,
-                        31.528458
-                  ]
-            },
-            {
-                  "name": "Bet Hadasa Museum of History of Jewish Settlement in Hebron",
-                  "text": "Muzeul Bet Hadasa expune istoria așezărilor evreiești din zona palestine-old-city-hebron-landmarks-v2.",
-                  "category": "museum",
-                  "coords": [
-                        35.104488,
-                        31.52611
-                  ]
-            },
-            {
                   "name": "Dari Bath",
                   "text": "Baia Dari este o baie istorică și un sit arheologic în palestine-old-city-hebron-landmarks-v2.",
                   "category": "historical",
@@ -6148,15 +5941,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al- Aqqaba Neighborhood",
-                  "text": "Cartierul Al-Aqqaba este recunoscut ca sit arheologic în Orașul Vechi din Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.108564,
-                        31.525895
-                  ]
-            },
-            {
                   "name": "Glass Factory",
                   "text": "Această veche fabrică de sticlă este un sit arheologic reprezentând istoria locală din Orașul Vechi din Hebron.",
                   "category": "historical",
@@ -6172,24 +5956,6 @@ export const palestineLandmarksV2: POI[] = [
                   "coords": [
                         35.101189,
                         31.524233
-                  ]
-            },
-            {
-                  "name": "Al Fonon Center",
-                  "text": "Centrul Al Fonon este un centru de arte dedicat expresiei culturale din Orașul Vechi din Hebron.",
-                  "category": "cultural",
-                  "coords": [
-                        35.109794,
-                        31.521484
-                  ]
-            },
-            {
-                  "name": "Abraham's Well",
-                  "text": "Fântâna lui Avraam este o atracție istorică bine-cunoscută din Orașul Vechi din Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.104043,
-                        31.524304
                   ]
             },
             {
@@ -6258,33 +6024,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al-Sultan Pool",
-                  "text": "The Al-Sultan Pool is a significant archaeological site located in palestine-old-city-hebron-landmarks-v2.",
-                  "category": "historical",
-                  "coords": [
-                        35.108684,
-                        31.523108
-                  ]
-            },
-            {
-                  "name": "Ali Bakka Mosque",
-                  "text": "The Ali Bakka Mosque is a central place of worship situated in the historic palestine-old-city-hebron-landmarks-v2.",
-                  "category": "religious",
-                  "coords": [
-                        35.103696,
-                        31.528458
-                  ]
-            },
-            {
-                  "name": "Bet Hadasa Museum of History of Jewish Settlement in Hebron",
-                  "text": "The Bet Hadasa Museum showcases the history of Jewish settlement within palestine-old-city-hebron-landmarks-v2.",
-                  "category": "museum",
-                  "coords": [
-                        35.104488,
-                        31.52611
-                  ]
-            },
-            {
                   "name": "Dari Bath",
                   "text": "The Dari Bath is a historic bathhouse and an archaeological site in palestine-old-city-hebron-landmarks-v2.",
                   "category": "historical",
@@ -6312,15 +6051,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al- Aqqaba Neighborhood",
-                  "text": "The Al-Aqqaba Neighborhood is recognized as an archaeological site in the Old City of Hebron.",
-                  "category": "historical",
-                  "coords": [
-                        35.108564,
-                        31.525895
-                  ]
-            },
-            {
                   "name": "Glass Factory",
                   "text": "This old Glass Factory is an archaeological site representing local history in the Old City of Hebron.",
                   "category": "historical",
@@ -6336,24 +6066,6 @@ export const palestineLandmarksV2: POI[] = [
                   "coords": [
                         35.101189,
                         31.524233
-                  ]
-            },
-            {
-                  "name": "Al Fonon Center",
-                  "text": "Al Fonon Center is a local arts centre dedicated to cultural expression in the Old City of Hebron.",
-                  "category": "cultural",
-                  "coords": [
-                        35.109794,
-                        31.521484
-                  ]
-            },
-            {
-                  "name": "Abraham's Well",
-                  "text": "Abraham's Well is a well-known historical attraction situated in the Old City of Hebron.",
-                  "category": "landmark",
-                  "coords": [
-                        35.104043,
-                        31.524304
                   ]
             },
             {
@@ -7467,15 +7179,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Association of Canada Camp for General Services",
-                  "text": "Die Association of Canada Camp for General Services ist ein Kunst- und Gemeindezentrum in Chan Yunis.",
-                  "category": "cultural",
-                  "coords": [
-                        34.24382,
-                        31.30889
-                  ]
-            },
-            {
                   "name": "South Forst",
                   "text": "South Forst ist ein lokaler Zoo im Gebiet von Chan Yunis.",
                   "category": "recreational",
@@ -7500,15 +7203,6 @@ export const palestineLandmarksV2: POI[] = [
                   "coords": [
                         34.298498,
                         31.344081
-                  ]
-            },
-            {
-                  "name": "Barqoq",
-                  "text": "Barqoq ist ein altes Schloss-Wahrzeichen in Chan Yunis.",
-                  "category": "castle",
-                  "coords": [
-                        34.303233,
-                        31.343116
                   ]
             },
             {
@@ -7784,15 +7478,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Association of Canada Camp for General Services",
-                  "text": "Az Association of Canada Camp for General Services egy művészeti és közösségi központ Hán Júniszban.",
-                  "category": "cultural",
-                  "coords": [
-                        34.24382,
-                        31.30889
-                  ]
-            },
-            {
                   "name": "South Forst",
                   "text": "A South Forst egy helyi állatkert a Hán Júnisz térségben.",
                   "category": "recreational",
@@ -7817,15 +7502,6 @@ export const palestineLandmarksV2: POI[] = [
                   "coords": [
                         34.298498,
                         31.344081
-                  ]
-            },
-            {
-                  "name": "Barqoq",
-                  "text": "Barqoq egy ősi vár a Hán Júnisz térségben.",
-                  "category": "castle",
-                  "coords": [
-                        34.303233,
-                        31.343116
                   ]
             },
             {
@@ -8101,15 +7777,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Association of Canada Camp for General Services",
-                  "text": "Association of Canada Camp for General Services este un centru de artă și comunitar din Khan Yunis.",
-                  "category": "cultural",
-                  "coords": [
-                        34.24382,
-                        31.30889
-                  ]
-            },
-            {
                   "name": "South Forst",
                   "text": "South Forst este o grădină zoologică locală situată în zona Khan Yunis.",
                   "category": "recreational",
@@ -8134,15 +7801,6 @@ export const palestineLandmarksV2: POI[] = [
                   "coords": [
                         34.298498,
                         31.344081
-                  ]
-            },
-            {
-                  "name": "Barqoq",
-                  "text": "Barqoq este un vechi castel reper situat în Khan Yunis.",
-                  "category": "castle",
-                  "coords": [
-                        34.303233,
-                        31.343116
                   ]
             },
             {
@@ -8418,15 +8076,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Association of Canada Camp for General Services",
-                  "text": "The Association of Canada Camp for General Services is an arts and community centre in Khan Yunis.",
-                  "category": "cultural",
-                  "coords": [
-                        34.24382,
-                        31.30889
-                  ]
-            },
-            {
                   "name": "South Forst",
                   "text": "South Forst is a local zoo located in the Khan Yunis area.",
                   "category": "recreational",
@@ -8451,15 +8100,6 @@ export const palestineLandmarksV2: POI[] = [
                   "coords": [
                         34.298498,
                         31.344081
-                  ]
-            },
-            {
-                  "name": "Barqoq",
-                  "text": "Barqoq is an ancient castle landmark located in Khan Yunis.",
-                  "category": "castle",
-                  "coords": [
-                        34.303233,
-                        31.343116
                   ]
             },
             {
@@ -11094,15 +10734,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fakhoury Auto Body Shop",
-                  "text": "Fakhoury-Autowerkstatt, ein örtlicher Orientierungspunkt im Thron-Dorf Jaba.",
-                  "category": "landmark",
-                  "coords": [
-                        35.205118,
-                        32.334941
-                  ]
-            },
-            {
                   "name": "Sheikh Abu Yazid Ruins",
                   "text": "Sheikh-Abu-Yazid-Ruinen, historische Ruinen einer Scheich-Stätte im Thron-Dorf Jaba.",
                   "category": "historical",
@@ -11120,15 +10751,6 @@ export const palestineLandmarksV2: POI[] = [
                   "coords": [
                         35.205587,
                         32.32112
-                  ]
-            },
-            {
-                  "name": "Fakhoury Auto Body Shop",
-                  "text": "Fakhoury Autókarosszéria Műhely, egy helyi nevezetesség Jaba trónfaluban.",
-                  "category": "landmark",
-                  "coords": [
-                        35.205118,
-                        32.334941
                   ]
             },
             {
@@ -11152,15 +10774,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fakhoury Auto Body Shop",
-                  "text": "Atelierul de caroserie Fakhoury, un reper local în satul tron Jaba.",
-                  "category": "landmark",
-                  "coords": [
-                        35.205118,
-                        32.334941
-                  ]
-            },
-            {
                   "name": "Sheikh Abu Yazid Ruins",
                   "text": "Ruinele Șeicului Abu Yazid, ruine istorice ale unui sit al șeicului în satul tron Jaba.",
                   "category": "historical",
@@ -11178,15 +10791,6 @@ export const palestineLandmarksV2: POI[] = [
                   "coords": [
                         35.205587,
                         32.32112
-                  ]
-            },
-            {
-                  "name": "Fakhoury Auto Body Shop",
-                  "text": "Fakhoury Auto Body Shop, a local landmark in Jaba Throne Village.",
-                  "category": "landmark",
-                  "coords": [
-                        35.205118,
-                        32.334941
                   ]
             },
             {
@@ -11409,39 +11013,12 @@ export const palestineLandmarksV2: POI[] = [
     id: "palestine-rafah-crossing-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Rafah",
-                  "text": "Die Ruinen von Rafah auf der ägyptischen Seite der Grenze im Gebiet des Grenzübergangs Rafah.",
-                  "category": "historical",
-                  "coords": [
-                        34.236342,
-                        31.287705
-                  ]
-            },
-            {
-                  "name": "Alnada Gallery",
-                  "text": "Die Alnada Gallery ist ein kulturelles Theater in der Nähe des Grenzübergangs Rafah.",
-                  "category": "cultural",
-                  "coords": [
-                        34.243899,
-                        31.297058
-                  ]
-            },
-            {
                   "name": "Anas ben Malik",
                   "text": "Anas ben Malik ist eine lokale Moschee, die Gläubigen in der Nähe des Grenzübergangs Rafah dient.",
                   "category": "religious",
                   "coords": [
                         34.249804,
                         31.301236
-                  ]
-            },
-            {
-                  "name": "Jawwal Showroom",
-                  "text": "Der Jawwal Showroom ist eine bemerkenswerte kommerzielle Attraktion in der Gegend des Grenzübergangs Rafah.",
-                  "category": "landmark",
-                  "coords": [
-                        34.25746,
-                        31.276755
                   ]
             },
             {
@@ -11753,39 +11330,12 @@ export const palestineLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Rafah",
-                  "text": "Rafah egyiptomi oldalának romjai a rafahi határátkelő térségében.",
-                  "category": "historical",
-                  "coords": [
-                        34.236342,
-                        31.287705
-                  ]
-            },
-            {
-                  "name": "Alnada Gallery",
-                  "text": "Az Alnada Galéria egy kulturális színházi helyszín a rafahi határátkelő közelében.",
-                  "category": "cultural",
-                  "coords": [
-                        34.243899,
-                        31.297058
-                  ]
-            },
-            {
                   "name": "Anas ben Malik",
                   "text": "Az Anas ben Malik egy helyi mecset, amely a rafahi határátkelő közelében szolgálja a hívőket.",
                   "category": "religious",
                   "coords": [
                         34.249804,
                         31.301236
-                  ]
-            },
-            {
-                  "name": "Jawwal Showroom",
-                  "text": "A Jawwal Showroom egy figyelemre méltó kereskedelmi látványosság a rafahi határátkelő környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        34.25746,
-                        31.276755
                   ]
             },
             {
@@ -12097,39 +11647,12 @@ export const palestineLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rafah",
-                  "text": "Ruinele de la Rafah pe partea egipteană a graniței în zona punctului de trecere a frontierei Rafah.",
-                  "category": "historical",
-                  "coords": [
-                        34.236342,
-                        31.287705
-                  ]
-            },
-            {
-                  "name": "Alnada Gallery",
-                  "text": "Galeria Alnada este un teatru cultural situat lângă punctul de trecere a frontierei Rafah.",
-                  "category": "cultural",
-                  "coords": [
-                        34.243899,
-                        31.297058
-                  ]
-            },
-            {
                   "name": "Anas ben Malik",
                   "text": "Anas ben Malik este o moschee locală care deservește credincioșii în apropiere de punctul de trecere a frontierei Rafah.",
                   "category": "religious",
                   "coords": [
                         34.249804,
                         31.301236
-                  ]
-            },
-            {
-                  "name": "Jawwal Showroom",
-                  "text": "Showroom-ul Jawwal este o atracție comercială notabilă situată în zona punctului de trecere a frontierei Rafah.",
-                  "category": "landmark",
-                  "coords": [
-                        34.25746,
-                        31.276755
                   ]
             },
             {
@@ -12441,39 +11964,12 @@ export const palestineLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Rafah",
-                  "text": "The ruins of Rafah on the Egyptian side of the border in the Rafah Crossing area.",
-                  "category": "historical",
-                  "coords": [
-                        34.236342,
-                        31.287705
-                  ]
-            },
-            {
-                  "name": "Alnada Gallery",
-                  "text": "Alnada Gallery is a cultural theatre venue located near the Rafah Crossing.",
-                  "category": "cultural",
-                  "coords": [
-                        34.243899,
-                        31.297058
-                  ]
-            },
-            {
                   "name": "Anas ben Malik",
                   "text": "Anas ben Malik is a local mosque serving worshippers near the Rafah Crossing.",
                   "category": "religious",
                   "coords": [
                         34.249804,
                         31.301236
-                  ]
-            },
-            {
-                  "name": "Jawwal Showroom",
-                  "text": "The Jawwal Showroom is a notable commercial attraction situated in the Rafah Crossing area.",
-                  "category": "landmark",
-                  "coords": [
-                        34.25746,
-                        31.276755
                   ]
             },
             {
@@ -12849,15 +12345,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museum of the Seam",
-                  "text": "Das Museum on the Seam ist ein Museum für zeitgenössische Kunst und soziale Themen.",
-                  "category": "museum",
-                  "coords": [
-                        35.226854,
-                        31.786347
-                  ]
-            },
-            {
                   "name": "Mughrabi Music Center",
                   "text": "Das Mughrabi Music Center fördert lokale musikalische Talente und Künste.",
                   "category": "cultural",
@@ -13001,15 +12488,6 @@ export const palestineLandmarksV2: POI[] = [
                   "coords": [
                         35.229115,
                         31.787874
-                  ]
-            },
-            {
-                  "name": "Museum on the Seam",
-                  "text": "A Museum on the Seam kortárs művészeti és társadalmi kérdésekkel foglalkozó múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        35.226854,
-                        31.786347
                   ]
             },
             {
@@ -13159,15 +12637,6 @@ export const palestineLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museum on the Seam",
-                  "text": "Muzeul de pe Naos este un muzeu de artă contemporană și probleme sociale.",
-                  "category": "museum",
-                  "coords": [
-                        35.226854,
-                        31.786347
-                  ]
-            },
-            {
                   "name": "Mughrabi Music Center",
                   "text": "Centrul Muzical Mughrabi promovează talentele muzicale locale și artele.",
                   "category": "cultural",
@@ -13311,15 +12780,6 @@ export const palestineLandmarksV2: POI[] = [
                   "coords": [
                         35.229115,
                         31.787874
-                  ]
-            },
-            {
-                  "name": "Museum on the Seam",
-                  "text": "The Museum on the Seam focuses on contemporary art and social issues.",
-                  "category": "museum",
-                  "coords": [
-                        35.226854,
-                        31.786347
                   ]
             },
             {

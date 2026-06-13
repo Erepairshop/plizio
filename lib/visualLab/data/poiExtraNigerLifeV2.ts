@@ -769,15 +769,6 @@ export const poiExtraNigerLifeV2: POI[] = [
                         12.584873,
                         13.314136
                   ]
-            },
-            {
-                  "name": "Tribune hippodrome",
-                  "text": "Diese monumentale Tribüne überblickt die Sandpisten des lokalen Hippodroms und bietet erhöhte Sitzplätze für Reitveranstaltungen in Diffa.",
-                  "category": "historical",
-                  "coords": [
-                        12.589727,
-                        13.320152
-                  ]
             }
       ],
       "hu": [
@@ -788,15 +779,6 @@ export const poiExtraNigerLifeV2: POI[] = [
                   "coords": [
                         12.584873,
                         13.314136
-                  ]
-            },
-            {
-                  "name": "Tribune hippodrome",
-                  "text": "A helyi hippodrom homokos pályáira néző monumentális lelátó magasított ülőhelyeket kínál a lovas eseményekhez Diffában.",
-                  "category": "historical",
-                  "coords": [
-                        12.589727,
-                        13.320152
                   ]
             }
       ],
@@ -809,15 +791,6 @@ export const poiExtraNigerLifeV2: POI[] = [
                         12.584873,
                         13.314136
                   ]
-            },
-            {
-                  "name": "Tribune hippodrome",
-                  "text": "Având vedere la pistele de nisip ale hipodromului local, această tribună monumentală oferă locuri la înălțime pentru evenimentele ecvestre din Diffa.",
-                  "category": "historical",
-                  "coords": [
-                        12.589727,
-                        13.320152
-                  ]
             }
       ],
       "en": [
@@ -828,15 +801,6 @@ export const poiExtraNigerLifeV2: POI[] = [
                   "coords": [
                         12.584873,
                         13.314136
-                  ]
-            },
-            {
-                  "name": "Tribune hippodrome",
-                  "text": "Overlooking the sandy tracks of the local hippodrome, this monumental grandstand offers elevated seating for equestrian events in Diffa.",
-                  "category": "historical",
-                  "coords": [
-                        12.589727,
-                        13.320152
                   ]
             }
       ]

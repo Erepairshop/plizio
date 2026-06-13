@@ -4,50 +4,10 @@ import type { POI } from "./poi";
 export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
   {
     id: "sultanat-senoussi-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Tata fortifié du sultan Sénoussi",
-                  "text": "Diese historische Festung in sultanat-senoussi-history-v2 ist der befestigte Palast (Tata) von Sultan Sénoussi.",
-                  "category": "castle",
-                  "coords": [
-                        20.651258,
-                        8.404093
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Tata fortifié du sultan Sénoussi",
-                  "text": "Ez a sultanat-senoussi-history-v2-ben található történelmi erődítmény Szenusszi szultán megerősített palotája (Tata).",
-                  "category": "castle",
-                  "coords": [
-                        20.651258,
-                        8.404093
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Tata fortifié du sultan Sénoussi",
-                  "text": "Această fortăreață istorică din sultanat-senoussi-history-v2 este palatul fortificat (Tata) al sultanului Sénoussi.",
-                  "category": "castle",
-                  "coords": [
-                        20.651258,
-                        8.404093
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Tata fortifié du sultan Sénoussi",
-                  "text": "This historic fortress in sultanat-senoussi-history-v2 is the fortified palace (Tata) of Sultan Sénoussi.",
-                  "category": "castle",
-                  "coords": [
-                        20.651258,
-                        8.404093
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "CF-BB",

@@ -3472,15 +3472,6 @@ export const poiExtraDe3b: POI[] = [
                   ]
             },
             {
-                  "name": "Stillinge",
-                  "text": "Ein ruhiger Strandabschnitt und Badebereich in der Nähe von Dessau.",
-                  "category": "recreational",
-                  "coords": [
-                        12.249586,
-                        51.851909
-                  ]
-            },
-            {
                   "name": "Stadtpark",
                   "text": "Die zentrale Parkanlage in Dessau bietet Grünflächen und Wege zur Erholung.",
                   "category": "park",
@@ -3781,15 +3772,6 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         12.27138,
                         51.82403
-                  ]
-            },
-            {
-                  "name": "Stillinge",
-                  "text": "Nyugodt strand és fürdőhely Dessau közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        12.249586,
-                        51.851909
                   ]
             },
             {
@@ -4096,15 +4078,6 @@ export const poiExtraDe3b: POI[] = [
                   ]
             },
             {
-                  "name": "Stillinge",
-                  "text": "O secțiune de plajă liniștită și zonă de scăldat în Dessau.",
-                  "category": "recreational",
-                  "coords": [
-                        12.249586,
-                        51.851909
-                  ]
-            },
-            {
                   "name": "Stadtpark",
                   "text": "Parcul central din Dessau oferă spații verzi și alei pentru recreere.",
                   "category": "park",
@@ -4405,15 +4378,6 @@ export const poiExtraDe3b: POI[] = [
                   "coords": [
                         12.27138,
                         51.82403
-                  ]
-            },
-            {
-                  "name": "Stillinge",
-                  "text": "A quiet beach area and swimming spot located in Dessau.",
-                  "category": "recreational",
-                  "coords": [
-                        12.249586,
-                        51.851909
                   ]
             },
             {

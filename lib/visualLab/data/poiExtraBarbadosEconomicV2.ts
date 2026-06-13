@@ -96,42 +96,6 @@ export const barbadosEconomicV2: POI[] = [
     id: "barbados-warrens-business-district-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Richard Stoute Amphitheatre",
-                  "text": "Freilufttheater benannt nach dem calypso-Sänger Richard Stoute im Geschäftsviertel Warrens.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.603221,
-                        13.126506
-                  ]
-            },
-            {
-                  "name": "Tyrol Cot (Home of Grantley Adams)",
-                  "text": "Historisches Haus und Geburtsort von Sir Grantley Adams, erstem Premierminister von Barbados.",
-                  "category": "landmark",
-                  "coords": [
-                        -59.607209,
-                        13.125193
-                  ]
-            },
-            {
-                  "name": "Welches Great House",
-                  "text": "Historisches Plantagenhaus mit restaurierten Innenräumen und Gärten.",
-                  "category": "historical",
-                  "coords": [
-                        -59.614306,
-                        13.154051
-                  ]
-            },
-            {
-                  "name": "Cane Garden Plantation",
-                  "text": "Ehemalige Zuckerplantage mit Herrenhaus und weitläufigen Gartenanlagen.",
-                  "category": "landmark",
-                  "coords": [
-                        -59.593178,
-                        13.153122
-                  ]
-            },
-            {
                   "name": "Canewood Plantation",
                   "text": "Ehemalige Zuckerplantage mit tropischen Gärten und historischem Herrenhaus.",
                   "category": "landmark",
@@ -139,54 +103,9 @@ export const barbadosEconomicV2: POI[] = [
                         -59.593552,
                         13.147119
                   ]
-            },
-            {
-                  "name": "Sharon Moravian Church",
-                  "text": "Moravianische Kirche aus dem 19. Jahrhundert mit buntem Glasfenster und Glockenturm.",
-                  "category": "religious",
-                  "coords": [
-                        -59.60046,
-                        13.151793
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Richard Stoute Amphitheatre",
-                  "text": "Szabadtéri színház, Richard Stoute calypso-énekesről elnevezve, a Warrens üzleti negyedben.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.603221,
-                        13.126506
-                  ]
-            },
-            {
-                  "name": "Tyrol Cot (Home of Grantley Adams)",
-                  "text": "Történelmi ház és Sir Grantley Adams, Barbados első miniszterelnökének szülőhelye.",
-                  "category": "landmark",
-                  "coords": [
-                        -59.607209,
-                        13.125193
-                  ]
-            },
-            {
-                  "name": "Welches Great House",
-                  "text": "Történelmi ültetvényesi ház felújított belső terekkel és kertekkel.",
-                  "category": "historical",
-                  "coords": [
-                        -59.614306,
-                        13.154051
-                  ]
-            },
-            {
-                  "name": "Cane Garden Plantation",
-                  "text": "Egykori cukorültetvény kúriával és kiterjedt kerttel.",
-                  "category": "landmark",
-                  "coords": [
-                        -59.593178,
-                        13.153122
-                  ]
-            },
             {
                   "name": "Canewood Plantation",
                   "text": "Egykori cukorültetvény trópusi kertekkel és történelmi kúriával.",
@@ -195,54 +114,9 @@ export const barbadosEconomicV2: POI[] = [
                         -59.593552,
                         13.147119
                   ]
-            },
-            {
-                  "name": "Sharon Moravian Church",
-                  "text": "19. századi morva templom színes üvegablakkal és harangtoronnyal.",
-                  "category": "religious",
-                  "coords": [
-                        -59.60046,
-                        13.151793
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Richard Stoute Amphitheatre",
-                  "text": "Amfiteatru în aer liber numit după cântărețul de calypso Richard Stoute în districtul de afaceri Warrens.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.603221,
-                        13.126506
-                  ]
-            },
-            {
-                  "name": "Tyrol Cot (Home of Grantley Adams)",
-                  "text": "Casă istorică și locul nașterii lui Sir Grantley Adams, primul premier al Barbadosului.",
-                  "category": "landmark",
-                  "coords": [
-                        -59.607209,
-                        13.125193
-                  ]
-            },
-            {
-                  "name": "Welches Great House",
-                  "text": "Conac istoric de plantație cu interioare restaurate și grădini.",
-                  "category": "historical",
-                  "coords": [
-                        -59.614306,
-                        13.154051
-                  ]
-            },
-            {
-                  "name": "Cane Garden Plantation",
-                  "text": "Fostă plantație de zahăr cu conac și grădini întinse.",
-                  "category": "landmark",
-                  "coords": [
-                        -59.593178,
-                        13.153122
-                  ]
-            },
             {
                   "name": "Canewood Plantation",
                   "text": "Fostă plantație de zahăr cu grădini tropicale și conac istoric.",
@@ -251,54 +125,9 @@ export const barbadosEconomicV2: POI[] = [
                         -59.593552,
                         13.147119
                   ]
-            },
-            {
-                  "name": "Sharon Moravian Church",
-                  "text": "Biserică moraviană din secolul al XIX-lea cu vitralii și turn clopotniță.",
-                  "category": "religious",
-                  "coords": [
-                        -59.60046,
-                        13.151793
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Richard Stoute Amphitheatre",
-                  "text": "Open-air amphitheatre named after calypso singer Richard Stoute in the Warrens Business District.",
-                  "category": "cultural",
-                  "coords": [
-                        -59.603221,
-                        13.126506
-                  ]
-            },
-            {
-                  "name": "Tyrol Cot (Home of Grantley Adams)",
-                  "text": "Historic house and birthplace of Sir Grantley Adams, first Premier of Barbados.",
-                  "category": "landmark",
-                  "coords": [
-                        -59.607209,
-                        13.125193
-                  ]
-            },
-            {
-                  "name": "Welches Great House",
-                  "text": "Historic plantation great house with restored interiors and gardens.",
-                  "category": "historical",
-                  "coords": [
-                        -59.614306,
-                        13.154051
-                  ]
-            },
-            {
-                  "name": "Cane Garden Plantation",
-                  "text": "Former sugar plantation with a great house and extensive gardens.",
-                  "category": "landmark",
-                  "coords": [
-                        -59.593178,
-                        13.153122
-                  ]
-            },
             {
                   "name": "Canewood Plantation",
                   "text": "Former sugar plantation with tropical gardens and a historic great house.",
@@ -306,15 +135,6 @@ export const barbadosEconomicV2: POI[] = [
                   "coords": [
                         -59.593552,
                         13.147119
-                  ]
-            },
-            {
-                  "name": "Sharon Moravian Church",
-                  "text": "19th-century Moravian church with stained glass and a bell tower.",
-                  "category": "religious",
-                  "coords": [
-                        -59.60046,
-                        13.151793
                   ]
             }
       ]

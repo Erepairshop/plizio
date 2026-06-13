@@ -2555,15 +2555,6 @@ export const poiExtraSloveniaCities: POI[] = [
                         15.612747,
                         46.567285
                   ]
-            },
-            {
-                  "name": "archery",
-                  "text": "Ein Aquarium in Maribor, in dem Besucher verschiedene Wasserarten in einer familiären Umgebung erkunden können.",
-                  "category": "family",
-                  "coords": [
-                        15.671623,
-                        46.525453
-                  ]
             }
       ],
       "hu": [
@@ -2907,15 +2898,6 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         15.612747,
                         46.567285
-                  ]
-            },
-            {
-                  "name": "archery",
-                  "text": "Maribori akvárium, ahol a látogatók különféle vízi fajokat fedezhetnek fel családi környezetben.",
-                  "category": "family",
-                  "coords": [
-                        15.671623,
-                        46.525453
                   ]
             }
       ],
@@ -3261,15 +3243,6 @@ export const poiExtraSloveniaCities: POI[] = [
                         15.612747,
                         46.567285
                   ]
-            },
-            {
-                  "name": "archery",
-                  "text": "Un acvariu în Maribor unde vizitatorii pot explora diverse specii acvatice într-un cadru familial.",
-                  "category": "family",
-                  "coords": [
-                        15.671623,
-                        46.525453
-                  ]
             }
       ],
       "en": [
@@ -3613,15 +3586,6 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         15.612747,
                         46.567285
-                  ]
-            },
-            {
-                  "name": "archery",
-                  "text": "An aquarium in Maribor where visitors can explore various aquatic species in a family setting.",
-                  "category": "family",
-                  "coords": [
-                        15.671623,
-                        46.525453
                   ]
             }
       ]
@@ -5149,15 +5113,6 @@ export const poiExtraSloveniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vanganelsko jezero",
-                  "text": "Der Vanganelsko jezero in Koper ist ein schöner Ort für einen gemütlichen Spaziergang.",
-                  "category": "natural",
-                  "coords": [
-                        13.779023,
-                        45.509218
-                  ]
-            },
-            {
                   "name": "Family Fun",
                   "text": "Family Fun in Koper ist ein Spielplatz, der Unterhaltung für Kinder bietet.",
                   "category": "family",
@@ -5200,15 +5155,6 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         13.710586,
                         45.546495
-                  ]
-            },
-            {
-                  "name": "Mestno kopališče / Spiaggia cittadina",
-                  "text": "Der Stadtstrand von Koper bietet Bademöglichkeiten und Freizeitflächen direkt an der Adria.",
-                  "category": "recreational",
-                  "coords": [
-                        13.725772,
-                        45.549893
                   ]
             }
       ],
@@ -5376,15 +5322,6 @@ export const poiExtraSloveniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vanganelsko jezero",
-                  "text": "A koperi Vanganelsko jezero szép hely egy kellemes sétához.",
-                  "category": "natural",
-                  "coords": [
-                        13.779023,
-                        45.509218
-                  ]
-            },
-            {
                   "name": "Family Fun",
                   "text": "A koperi Family Fun egy játszótér, amely szórakozást nyújt a gyermekeknek.",
                   "category": "family",
@@ -5427,15 +5364,6 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         13.710586,
                         45.546495
-                  ]
-            },
-            {
-                  "name": "Mestno kopališče / Spiaggia cittadina",
-                  "text": "Koper városi strandja közvetlenül az Adriai-tenger partján kínál fürdőzési és pihenési lehetőséget.",
-                  "category": "recreational",
-                  "coords": [
-                        13.725772,
-                        45.549893
                   ]
             }
       ],
@@ -5603,15 +5531,6 @@ export const poiExtraSloveniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vanganelsko jezero",
-                  "text": "Vanganelsko jezero din Koper este un loc frumos pentru o plimbare relaxantă.",
-                  "category": "natural",
-                  "coords": [
-                        13.779023,
-                        45.509218
-                  ]
-            },
-            {
                   "name": "Family Fun",
                   "text": "Family Fun din Koper este un loc de joacă care oferă divertisment pentru copii.",
                   "category": "family",
@@ -5654,15 +5573,6 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         13.710586,
                         45.546495
-                  ]
-            },
-            {
-                  "name": "Mestno kopališče / Spiaggia cittadina",
-                  "text": "Plaja orașului Koper oferă facilități de scăldat și zone de recreere direct la Marea Adriatică.",
-                  "category": "recreational",
-                  "coords": [
-                        13.725772,
-                        45.549893
                   ]
             }
       ],
@@ -5830,15 +5740,6 @@ export const poiExtraSloveniaCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vanganelsko jezero",
-                  "text": "Vanganelsko jezero in Koper is a nice spot for a leisurely lakeside walk.",
-                  "category": "natural",
-                  "coords": [
-                        13.779023,
-                        45.509218
-                  ]
-            },
-            {
                   "name": "Family Fun",
                   "text": "Family Fun in Koper is a playground area providing entertainment for children.",
                   "category": "family",
@@ -5881,15 +5782,6 @@ export const poiExtraSloveniaCities: POI[] = [
                   "coords": [
                         13.710586,
                         45.546495
-                  ]
-            },
-            {
-                  "name": "Mestno kopališče / Spiaggia cittadina",
-                  "text": "The city beach of Koper offers bathing facilities and leisure areas directly on the Adriatic Sea.",
-                  "category": "recreational",
-                  "coords": [
-                        13.725772,
-                        45.549893
                   ]
             }
       ]

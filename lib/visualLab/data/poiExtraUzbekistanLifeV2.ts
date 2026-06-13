@@ -2990,24 +2990,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
     id: "uz-fergana-cotton-fields-life-v2", "sights": {
       "de": [
             {
-                  "name": "Yodgorlik Seiden Manufaktur",
-                  "text": "Diese berühmte Fabrik produziert handgewebte Seide nach der traditionellen Ikat-Technik auf historischen Webstühlen.",
-                  "category": "museum",
-                  "coords": [
-                        71.717827,
-                        40.476361
-                  ]
-            },
-            {
-                  "name": "Museum für Margilans Geschichte",
-                  "text": "Dieses Museum präsentiert eine reichhaltige Sammlung an regionalen Trachten, Schmuck und Alltagsgegenständen aus dem Fergana-Tal.",
-                  "category": "museum",
-                  "coords": [
-                        71.722809,
-                        40.478277
-                  ]
-            },
-            {
                   "name": "Produktovyi rynok",
                   "text": "Ein lebhafter zentraler Basar, auf dem frisches Obst, Gewürze und farbenfrohe Stoffe aus der Region angeboten werden.",
                   "category": "cultural",
@@ -3041,15 +3023,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
                   "coords": [
                         71.715244,
                         40.467951
-                  ]
-            },
-            {
-                  "name": "Said-Achmed-Hodscha-Medrese",
-                  "text": "Diese Madrasa aus dem 19. Jahrhundert beherbergt heute Werkstätten für traditionelle Seidenweberei und Holzschnitzerei.",
-                  "category": "landmark",
-                  "coords": [
-                        71.725228,
-                        40.471892
                   ]
             },
             {
@@ -3316,15 +3289,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gorodskoi etnograficheskii muzei",
-                  "text": "Ez a múzeum a Ferganai-völgy népviseleteinek, ékszereinek és mindennapi tárgyainak gazdag gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        71.722809,
-                        40.478277
-                  ]
-            },
-            {
                   "name": "Produktovyi rynok",
                   "text": "Nyüzsgő központi bazár, ahol friss gyümölcsöket, fűszereket és színes helyi anyagokat kínálnak.",
                   "category": "cultural",
@@ -3358,15 +3322,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
                   "coords": [
                         71.715244,
                         40.467951
-                  ]
-            },
-            {
-                  "name": "Said Akhmad Khuja madresse",
-                  "text": "Ez a 19. századi medresze ma hagyományos selyemszövő és fafaragó műhelyeknek ad otthont.",
-                  "category": "landmark",
-                  "coords": [
-                        71.725228,
-                        40.471892
                   ]
             },
             {
@@ -3633,15 +3588,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gorodskoi etnograficheskii muzei",
-                  "text": "Acest muzeu prezintă o colecție bogată de costume populare, bijuterii și obiecte de uz cotidian din Valea Fergana.",
-                  "category": "museum",
-                  "coords": [
-                        71.722809,
-                        40.478277
-                  ]
-            },
-            {
                   "name": "Produktovyi rynok",
                   "text": "Un bazar central plin de viață, unde sunt oferite fructe proaspete, condimente și țesături colorate din regiune.",
                   "category": "cultural",
@@ -3675,15 +3621,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
                   "coords": [
                         71.715244,
                         40.467951
-                  ]
-            },
-            {
-                  "name": "Said Akhmad Khuja madresse",
-                  "text": "Această medresă din secolul al XIX-lea găzduiește astăzi ateliere de țesut mătase tradițională și sculptură în lemn.",
-                  "category": "landmark",
-                  "coords": [
-                        71.725228,
-                        40.471892
                   ]
             },
             {
@@ -3941,24 +3878,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Yodgorlik Silk Factory",
-                  "text": "This famous factory produces hand-woven silk using the traditional ikat technique on historical looms.",
-                  "category": "museum",
-                  "coords": [
-                        71.717827,
-                        40.476361
-                  ]
-            },
-            {
-                  "name": "Gorodskoi etnograficheskii muzei",
-                  "text": "This museum presents a rich collection of regional folk costumes, jewellery, and everyday items from the Fergana Valley.",
-                  "category": "museum",
-                  "coords": [
-                        71.722809,
-                        40.478277
-                  ]
-            },
-            {
                   "name": "Bazaar",
                   "text": "A bustling central bazaar where fresh fruit, spices, and colourful regional fabrics are on offer.",
                   "category": "cultural",
@@ -3992,15 +3911,6 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
                   "coords": [
                         71.715244,
                         40.467951
-                  ]
-            },
-            {
-                  "name": "Said Akhmad Khuja madresse",
-                  "text": "This 19th-century madrasah now houses workshops for traditional silk weaving and woodcarving.",
-                  "category": "landmark",
-                  "coords": [
-                        71.725228,
-                        40.471892
                   ]
             },
             {
@@ -6186,84 +6096,12 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "NEMO akvarium baliq",
-                  "text": "Ein lokales Aquarium, das eine Vielfalt an Fischarten aus den zentralasiatischen Binnengewässern zeigt.",
-                  "category": "recreational",
-                  "coords": [
-                        60.616883,
-                        41.560434
-                  ]
-            },
-            {
-                  "name": "Abulg'ozi Bahodirxon",
-                  "text": "Ein Standbild von Abu'l-Ghazi Bahadur, dem Herrscher von Chiwa aus dem 17. Jahrhundert und bedeutenden Historiker.",
-                  "category": "historical",
-                  "coords": [
-                        60.640224,
-                        41.558687
-                  ]
-            },
-            {
-                  "name": "GOLD FISH akvarium baliq",
-                  "text": "Eine Ausstellung von Zierfischen und exotischen Wasserlebewesen in einem modern gestalteten Aquarium.",
-                  "category": "recreational",
-                  "coords": [
-                        60.607732,
-                        41.566165
-                  ]
-            },
-            {
-                  "name": "Motomsaro ona xotira maydoni",
-                  "text": "Ein Gedenkort mit der Statue einer trauernden Mutter, der den Opfern des Zweiten Weltkriegs gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        60.624904,
-                        41.560879
-                  ]
-            },
-            {
-                  "name": "Ogoxiy",
-                  "text": "Das Regionaltheater in Urgentsch präsentiert chorezmische Musikdramen und klassische usbekische Stücke.",
-                  "category": "cultural",
-                  "coords": [
-                        60.632843,
-                        41.550837
-                  ]
-            },
-            {
-                  "name": "Komiljon Ataniyazov uy muzeyi",
-                  "text": "Dieses Museum im ehemaligen Wohnhaus ist dem berühmten chorezmischen Volkssänger Komiljon Ataniyazov gewidmet.",
-                  "category": "museum",
-                  "coords": [
-                        60.61474,
-                        41.548823
-                  ]
-            },
-            {
-                  "name": "Xorazm baliq baliqlat do'koni",
-                  "text": "Dieses Aquarium zeigt verschiedene Fischarten aus dem Amu-Darja-Fluss und der Aralsee-Region.",
-                  "category": "recreational",
-                  "coords": [
-                        60.619092,
-                        41.551038
-                  ]
-            },
-            {
                   "name": "Umenshennye versii istoricheskikh zdanii",
                   "text": "Dieser Park zeigt detailgetreue Miniaturmodelle der berühmtesten historischen Bauwerke von Chiwa und Horezm.",
                   "category": "landmark",
                   "coords": [
                         60.61365,
                         41.552679
-                  ]
-            },
-            {
-                  "name": "Eko park",
-                  "text": "Ein moderner Landschaftspark mit künstlichen Teichen und Spazierwegen im Herzen von Urgentsch.",
-                  "category": "landmark",
-                  "coords": [
-                        60.598947,
-                        41.545098
                   ]
             },
             {
@@ -6285,39 +6123,12 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kunstmuseum Urgench",
-                  "text": "Die Galerie befindet sich in einem historischen Telegrafenamt und zeigt Werke chorezmischer Maler.",
-                  "category": "museum",
-                  "coords": [
-                        60.624001,
-                        41.555558
-                  ]
-            },
-            {
-                  "name": "Eksponaty voennoi tekhniki",
-                  "text": "Eine Freiluftausstellung mit sowjetischen Panzern und Artilleriegeschützen aus der Mitte des 20. Jahrhunderts.",
-                  "category": "landmark",
-                  "coords": [
-                        60.615035,
-                        41.556801
-                  ]
-            },
-            {
                   "name": "Amir Temur Istrohat Bog'i",
                   "text": "Ein zentraler Park mit einer monumentalen Statue von Amir Timur und weitläufigen Springbrunnenanlagen.",
                   "category": "recreational",
                   "coords": [
                         60.616546,
                         41.557879
-                  ]
-            },
-            {
-                  "name": "Komiljon Otaniyozov markazi",
-                  "text": "Dieses Kulturzentrum ist nach dem Sänger Komiljon Otaniyozov benannt und bewahrt das musikalische Erbe der Region.",
-                  "category": "museum",
-                  "coords": [
-                        60.597458,
-                        41.547956
                   ]
             },
             {
@@ -6512,84 +6323,12 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "NEMO akvarium baliq",
-                  "text": "Helyi akvárium, amely Közép-Ázsia belvizeinek különféle halfajait mutatja be.",
-                  "category": "recreational",
-                  "coords": [
-                        60.616883,
-                        41.560434
-                  ]
-            },
-            {
-                  "name": "Abulg'ozi Bahodirxon",
-                  "text": "Abulgázi Bahadir kán, 17. századi hívai uralkodó és neves történész szobra.",
-                  "category": "historical",
-                  "coords": [
-                        60.640224,
-                        41.558687
-                  ]
-            },
-            {
-                  "name": "GOLD FISH akvarium baliq",
-                  "text": "Díszhalak és egzotikus vízi élőlények kiállítása egy modern kialakítású akváriumban.",
-                  "category": "recreational",
-                  "coords": [
-                        60.607732,
-                        41.566165
-                  ]
-            },
-            {
-                  "name": "Motomsaro ona xotira maydoni",
-                  "text": "A gyászoló anya szobrával díszített emlékhely, amelyet a második világháború áldozatainak szenteltek.",
-                  "category": "historical",
-                  "coords": [
-                        60.624904,
-                        41.560879
-                  ]
-            },
-            {
-                  "name": "Ogoxiy",
-                  "text": "Az Ürgencsben található színház a horezmi drámai művészetek és a klasszikus üzbég darabok központja.",
-                  "category": "cultural",
-                  "coords": [
-                        60.632843,
-                        41.550837
-                  ]
-            },
-            {
-                  "name": "Komiljon Ataniyazov uy muzeyi",
-                  "text": "A híres horezmi népdalénekes, Komiljon Ataniyazov egykori lakóházában berendezett múzeum az énekes életét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        60.61474,
-                        41.548823
-                  ]
-            },
-            {
-                  "name": "Xorazm baliq baliqlat do'koni",
-                  "text": "Ez az akvárium az Amu-darja folyó és az Aral-tó vidékének jellegzetes halfajait mutatja be.",
-                  "category": "recreational",
-                  "coords": [
-                        60.619092,
-                        41.551038
-                  ]
-            },
-            {
                   "name": "Umenshennye versii istoricheskikh zdanii",
                   "text": "A parkban Híva és Horezm leghíresebb történelmi épületeinek kicsinyített, részletgazdag másolatai láthatók.",
                   "category": "landmark",
                   "coords": [
                         60.61365,
                         41.552679
-                  ]
-            },
-            {
-                  "name": "Eko park",
-                  "text": "Ürgencs szívében található modern tájképi park mesterséges tavakkal és sétányokkal várja a látogatókat.",
-                  "category": "landmark",
-                  "coords": [
-                        60.598947,
-                        41.545098
                   ]
             },
             {
@@ -6620,30 +6359,12 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Eksponaty voennoi tekhniki",
-                  "text": "A szabadtéri kiállításon a 20. század közepéről származó szovjet harckocsik és tüzérségi eszközök láthatók.",
-                  "category": "landmark",
-                  "coords": [
-                        60.615035,
-                        41.556801
-                  ]
-            },
-            {
                   "name": "Amir Temur Istrohat Bog'i",
                   "text": "A város központi parkja, amelyben Amir Timur monumentális szobra és kiterjedt szökőkutak találhatók.",
                   "category": "recreational",
                   "coords": [
                         60.616546,
                         41.557879
-                  ]
-            },
-            {
-                  "name": "Komiljon Otaniyozov markazi",
-                  "text": "A központ Komiljon Otaniyozov énekes nevét viseli, és a régió zenei örökségének megőrzésével foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        60.597458,
-                        41.547956
                   ]
             },
             {
@@ -6838,84 +6559,12 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "NEMO akvarium baliq",
-                  "text": "Un acvariu local care prezintă o varietate de specii de pești din apele interioare ale Asiei Centrale.",
-                  "category": "recreational",
-                  "coords": [
-                        60.616883,
-                        41.560434
-                  ]
-            },
-            {
-                  "name": "Abulg'ozi Bahodirxon",
-                  "text": "O statuie a lui Abu'l-Ghazi Bahadur, conducătorul Khivei din secolul al XVII-lea și un istoric important.",
-                  "category": "historical",
-                  "coords": [
-                        60.640224,
-                        41.558687
-                  ]
-            },
-            {
-                  "name": "GOLD FISH akvarium baliq",
-                  "text": "O expoziție de pești ornamentali și creaturi acvatice exotice într-un acvariu modern.",
-                  "category": "recreational",
-                  "coords": [
-                        60.607732,
-                        41.566165
-                  ]
-            },
-            {
-                  "name": "Motomsaro ona xotira maydoni",
-                  "text": "Un loc de memorie cu statuia unei mame îndurerate, dedicat victimelor celui de-al Doilea Război Mondial.",
-                  "category": "historical",
-                  "coords": [
-                        60.624904,
-                        41.560879
-                  ]
-            },
-            {
-                  "name": "Ogoxiy",
-                  "text": "Teatrul regional din Urgench găzduiește spectacole dramatice și muzicale tradiționale din regiunea Horezm.",
-                  "category": "cultural",
-                  "coords": [
-                        60.632843,
-                        41.550837
-                  ]
-            },
-            {
-                  "name": "Komiljon Ataniyazov uy muzeyi",
-                  "text": "Acest muzeu memorial este dedicat celebrului interpret de muzică populară Komiljon Ataniyazov în fosta sa casă.",
-                  "category": "museum",
-                  "coords": [
-                        60.61474,
-                        41.548823
-                  ]
-            },
-            {
-                  "name": "Xorazm baliq baliqlat do'koni",
-                  "text": "Acest acvariu prezintă diverse specii de pești din bazinul râului Amudaria și regiunea Aral.",
-                  "category": "recreational",
-                  "coords": [
-                        60.619092,
-                        41.551038
-                  ]
-            },
-            {
                   "name": "Umenshennye versii istoricheskikh zdanii",
                   "text": "Acest parc expozițional prezintă machete miniaturale ale celor mai faimoase clădiri istorice din Hiva și Horezm.",
                   "category": "landmark",
                   "coords": [
                         60.61365,
                         41.552679
-                  ]
-            },
-            {
-                  "name": "Eko park",
-                  "text": "Un parc peisagistic modern situat în inima orașului Urgench, dotat cu iazuri artificiale și alei de promenadă.",
-                  "category": "landmark",
-                  "coords": [
-                        60.598947,
-                        41.545098
                   ]
             },
             {
@@ -6946,30 +6595,12 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Eksponaty voennoi tekhniki",
-                  "text": "O expoziție în aer liber ce prezintă tancuri și piese de artilerie sovietice din mijlocul secolului al XX-lea.",
-                  "category": "landmark",
-                  "coords": [
-                        60.615035,
-                        41.556801
-                  ]
-            },
-            {
                   "name": "Amir Temur Istrohat Bog'i",
                   "text": "Un parc central ce găzduiește o statuie monumentală a lui Amir Timur și numeroase fântâni arteziene.",
                   "category": "recreational",
                   "coords": [
                         60.616546,
                         41.557879
-                  ]
-            },
-            {
-                  "name": "Komiljon Otaniyozov markazi",
-                  "text": "Acest centru cultural poartă numele cântărețului Komiljon Otaniyozov și păstrează moștenirea muzicală regională.",
-                  "category": "museum",
-                  "coords": [
-                        60.597458,
-                        41.547956
                   ]
             },
             {
@@ -7164,84 +6795,12 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "NEMO akvarium baliq",
-                  "text": "A local aquarium displaying a variety of fish species from Central Asian inland waters.",
-                  "category": "recreational",
-                  "coords": [
-                        60.616883,
-                        41.560434
-                  ]
-            },
-            {
-                  "name": "Abdulg’oziy Bahodirxon",
-                  "text": "A statue of Abu'l-Ghazi Bahadur, the 17th-century ruler of Khiva and a notable historian.",
-                  "category": "historical",
-                  "coords": [
-                        60.640224,
-                        41.558687
-                  ]
-            },
-            {
-                  "name": "GOLD FISH akvarium baliq",
-                  "text": "An exhibition of ornamental fish and exotic aquatic creatures in a modern aquarium setting.",
-                  "category": "recreational",
-                  "coords": [
-                        60.607732,
-                        41.566165
-                  ]
-            },
-            {
-                  "name": "Motomsaro ona xotira maydoni",
-                  "text": "A memorial site featuring the statue of a grieving mother, dedicated to the victims of World War II.",
-                  "category": "historical",
-                  "coords": [
-                        60.624904,
-                        41.560879
-                  ]
-            },
-            {
-                  "name": "Ogoxiy",
-                  "text": "The regional theatre in Urgench showcases Khorezmian musical dramas and classic Uzbek stage productions.",
-                  "category": "cultural",
-                  "coords": [
-                        60.632843,
-                        41.550837
-                  ]
-            },
-            {
-                  "name": "Komiljon Ataniyazov uy muzeyi",
-                  "text": "This memorial museum is dedicated to the famous Khorezmian folk singer Komiljon Ataniyazov in his former home.",
-                  "category": "museum",
-                  "coords": [
-                        60.61474,
-                        41.548823
-                  ]
-            },
-            {
-                  "name": "Xorazm baliq baliqlat do'koni",
-                  "text": "This aquarium displays various fish species native to the Amu Darya river and the Aral Sea region.",
-                  "category": "recreational",
-                  "coords": [
-                        60.619092,
-                        41.551038
-                  ]
-            },
-            {
                   "name": "Umenshennye versii istoricheskikh zdanii",
                   "text": "This attraction features detailed miniature models of the most famous historical buildings from Khiva and Khorezm.",
                   "category": "landmark",
                   "coords": [
                         60.61365,
                         41.552679
-                  ]
-            },
-            {
-                  "name": "Eko park",
-                  "text": "A modern landscaped park in the heart of Urgench featuring artificial ponds and scenic walking paths.",
-                  "category": "landmark",
-                  "coords": [
-                        60.598947,
-                        41.545098
                   ]
             },
             {
@@ -7272,30 +6831,12 @@ export const poiExtraUzbekistanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Eksponaty voennoi tekhniki",
-                  "text": "An open-air display featuring Soviet tanks and artillery pieces dating back to the mid-20th century.",
-                  "category": "landmark",
-                  "coords": [
-                        60.615035,
-                        41.556801
-                  ]
-            },
-            {
                   "name": "Amir Timur park",
                   "text": "A central park featuring a monumental statue of Amir Timur and extensive fountain installations.",
                   "category": "recreational",
                   "coords": [
                         60.616546,
                         41.557879
-                  ]
-            },
-            {
-                  "name": "Komiljon Otaniyozov markazi",
-                  "text": "This cultural center is named after singer Komiljon Otaniyozov and preserves the musical heritage of the region.",
-                  "category": "museum",
-                  "coords": [
-                        60.597458,
-                        41.547956
                   ]
             },
             {

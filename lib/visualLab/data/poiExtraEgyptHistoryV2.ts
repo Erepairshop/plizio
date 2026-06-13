@@ -1910,15 +1910,6 @@ export const poiExtraEgyptHistoryV2: POI[] = [
     id: "eg-lxr-luxor-temple-history-v2", "sights": {
       "de": [
             {
-                  "name": "Banana Island",
-                  "text": "Auf einer ruhigen Felukenfahrt flussaufwärts auf dem Nil gelegen, ist diese kleine Inselattraktion mit üppigen Bananenplantagen und lokalen Obstbäumen gefüllt.",
-                  "category": "landmark",
-                  "coords": [
-                        32.622872,
-                        25.683452
-                  ]
-            },
-            {
                   "name": "Nūn Art Gallery",
                   "text": "Dieser kulturelle Knotenpunkt kombiniert eine entspannte Café-Umgebung mit kuratierten Kunstausstellungen und präsentiert traditionelle ägyptische Handwerkskunst sowie zeitgenössische lokale Gemälde.",
                   "category": "museum",
@@ -1956,15 +1947,6 @@ export const poiExtraEgyptHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Banana Island",
-                  "text": "Ez a Níluson felfelé haladó, csendes felukkás hajóúton elérhető kis szigeti látványosság buja banánültetvényekkel és helyi gyümölcsfákkal van tele.",
-                  "category": "landmark",
-                  "coords": [
-                        32.622872,
-                        25.683452
-                  ]
-            },
             {
                   "name": "Nūn Art Gallery",
                   "text": "A pihentető kávézói környezetet gondosan összeállított művészeti kiállításokkal ötvöző kulturális központ a hagyományos egyiptomi kézművességet és a kortárs helyi festményeket mutatja be.",
@@ -2004,15 +1986,6 @@ export const poiExtraEgyptHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Banana Island",
-                  "text": "Situată la capătul unei plimbări liniștite cu feluca pe Nil, această mică insulă atracție este plină de plantații luxuriante de banane și pomi fructiferi locali.",
-                  "category": "landmark",
-                  "coords": [
-                        32.622872,
-                        25.683452
-                  ]
-            },
-            {
                   "name": "Nūn Art Gallery",
                   "text": "Combinând o atmosferă relaxantă de cafenea cu expoziții de artă selectate, acest hub cultural prezintă măiestria tradițională egipteană și picturi locale contemporane.",
                   "category": "museum",
@@ -2050,15 +2023,6 @@ export const poiExtraEgyptHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Banana Island",
-                  "text": "Situated on a tranquil felucca sail up the Nile, this small island attraction is filled with lush banana plantations and local fruit trees.",
-                  "category": "landmark",
-                  "coords": [
-                        32.622872,
-                        25.683452
-                  ]
-            },
             {
                   "name": "Nut Art Store & Kaffee",
                   "text": "Combining a relaxing cafe setting with curated art displays, this cultural hub showcases traditional Egyptian craftsmanship and contemporary local paintings.",

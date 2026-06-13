@@ -5082,15 +5082,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Iseongsanseong Fortress, Hanam",
-                  "text": "Eine antike Bergfestung aus Stein, die einen weiten Blick über den Han-Fluss und Seoul bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        127.183832,
-                        37.527264
-                  ]
-            },
-            {
                   "name": "Seoul Olympic Memorial Hall",
                   "text": "Dieses 1988 eröffnete Museum bewahrt das Erbe und die Erfolge der Olympischen Sommerspiele von Seoul.",
                   "category": "museum",
@@ -5127,15 +5118,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "EunBangUl Park",
-                  "text": "Ein lokaler Gemeinschaftspark in Hanam, der Grünflächen und Spazierwege für die Anwohner bietet.",
-                  "category": "park",
-                  "coords": [
-                        127.224615,
-                        37.53985
-                  ]
-            },
-            {
                   "name": "Deokpung Park",
                   "text": "Ein Nachbarschaftspark in Hanam mit Sportanlagen und Erholungsbereichen im Freien.",
                   "category": "park",
@@ -5160,15 +5142,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   "coords": [
                         127.178197,
                         37.486664
-                  ]
-            },
-            {
-                  "name": "Hanam History Museum",
-                  "text": "Dieses Museum dokumentiert die regionale Geschichte von Hanam von der Prähistorie bis zur Moderne.",
-                  "category": "museum",
-                  "coords": [
-                        127.206633,
-                        37.544752
                   ]
             },
             {
@@ -5399,15 +5372,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Iseongsanseong Fortress, Hanam",
-                  "text": "Kőből épült ősi hegyi erőd, ahonnan pazar kilátás nyílik a Han-folyóra és Szöulra.",
-                  "category": "landmark",
-                  "coords": [
-                        127.183832,
-                        37.527264
-                  ]
-            },
-            {
                   "name": "Seoul Olympic Memorial Hall",
                   "text": "Ez az 1988-ban megnyitott múzeum a szöuli nyári olimpia örökségét és sikereit őrzi.",
                   "category": "museum",
@@ -5444,15 +5408,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "EunBangUl Park",
-                  "text": "Helyi közösségi park Hanamban, amely zöldterületet és sétautakat kínál a lakóknak.",
-                  "category": "park",
-                  "coords": [
-                        127.224615,
-                        37.53985
-                  ]
-            },
-            {
                   "name": "Deokpung Park",
                   "text": "Környékbeli park Hanamban, sportpályákkal és szabadtéri pihenőhelyekkel.",
                   "category": "park",
@@ -5477,15 +5432,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   "coords": [
                         127.178197,
                         37.486664
-                  ]
-            },
-            {
-                  "name": "Hanam History Museum",
-                  "text": "Ez a múzeum Hanam regionális történelmét dokumentálja az őskortól a modern korig.",
-                  "category": "museum",
-                  "coords": [
-                        127.206633,
-                        37.544752
                   ]
             },
             {
@@ -5716,15 +5662,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Iseongsanseong Fortress, Hanam",
-                  "text": "O cetate montană antică din piatră, care oferă o vedere panoramică asupra râului Han și a Seulului.",
-                  "category": "landmark",
-                  "coords": [
-                        127.183832,
-                        37.527264
-                  ]
-            },
-            {
                   "name": "Seoul Olympic Memorial Hall",
                   "text": "Inaugurat în 1988, acest muzeu păstrează moștenirea și realizările Jocurilor Olimpice de vară de la Seul.",
                   "category": "museum",
@@ -5761,15 +5698,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "EunBangUl Park",
-                  "text": "Un parc comunitar local în Hanam, care oferă spații verzi și alei de plimbare pentru rezidenți.",
-                  "category": "park",
-                  "coords": [
-                        127.224615,
-                        37.53985
-                  ]
-            },
-            {
                   "name": "Deokpung Park",
                   "text": "Un parc de cartier în Hanam, cu facilități sportive și zone de recreere în aer liber.",
                   "category": "park",
@@ -5794,15 +5722,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   "coords": [
                         127.178197,
                         37.486664
-                  ]
-            },
-            {
-                  "name": "Hanam History Museum",
-                  "text": "Acest muzeu documentează istoria regională a orașului Hanam, din preistorie până în epoca modernă.",
-                  "category": "museum",
-                  "coords": [
-                        127.206633,
-                        37.544752
                   ]
             },
             {
@@ -6033,15 +5952,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Iseongsanseong Fortress, Hanam",
-                  "text": "An ancient stone mountain fortress offering expansive views over the Han River and Seoul.",
-                  "category": "landmark",
-                  "coords": [
-                        127.183832,
-                        37.527264
-                  ]
-            },
-            {
                   "name": "Seoul Olympic Memorial Hall",
                   "text": "Opened in 1988, this museum preserves the legacy and achievements of the Seoul Summer Olympics.",
                   "category": "museum",
@@ -6078,15 +5988,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "EunBangUl Park",
-                  "text": "A local community park in Hanam providing green space and walking paths for residents.",
-                  "category": "park",
-                  "coords": [
-                        127.224615,
-                        37.53985
-                  ]
-            },
-            {
                   "name": "Deokpung Park",
                   "text": "A neighborhood park in Hanam featuring sports facilities and outdoor rest areas.",
                   "category": "park",
@@ -6111,15 +6012,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   "coords": [
                         127.178197,
                         37.486664
-                  ]
-            },
-            {
-                  "name": "Hanam History Museum",
-                  "text": "This museum documents the regional history of Hanam from prehistoric times to the modern era.",
-                  "category": "museum",
-                  "coords": [
-                        127.206633,
-                        37.544752
                   ]
             },
             {
@@ -6327,15 +6219,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jangneungsan (Mt.)",
-                  "text": "Ein bewaldeter Berg in Gimpo, an dessen Fuß sich das königliche Grabmal Jangneung befindet.",
-                  "category": "natural",
-                  "coords": [
-                        126.709252,
-                        37.616164
-                  ]
-            },
-            {
                   "name": "Securities Museum",
                   "text": "Koreas erstes Wertpapiermuseum zeigt die Geschichte des Aktienmarktes und historische Dokumente.",
                   "category": "museum",
@@ -6414,15 +6297,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   "coords": [
                         126.687422,
                         37.705101
-                  ]
-            },
-            {
-                  "name": "Gimpo Art Hall",
-                  "text": "Ein Mehrzweck-Kunstzentrum in Gimpo mit Ausstellungsräumen und einem professionellen Veranstaltungssaal.",
-                  "category": "cultural",
-                  "coords": [
-                        126.720141,
-                        37.618922
                   ]
             },
             {
@@ -6671,15 +6545,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jangneungsan (Mt.)",
-                  "text": "Erdős hegy Kimphóban, amelynek lábánál a Csangnung királyi sír található.",
-                  "category": "natural",
-                  "coords": [
-                        126.709252,
-                        37.616164
-                  ]
-            },
-            {
                   "name": "Securities Museum",
                   "text": "Korea első értékpapírmúzeuma a tőzsde történetét és történelmi dokumentumokat mutat be.",
                   "category": "museum",
@@ -6758,15 +6623,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   "coords": [
                         126.687422,
                         37.705101
-                  ]
-            },
-            {
-                  "name": "Gimpo Art Hall",
-                  "text": "Többfunkciós művészeti központ Gimpóban, kiállítóterekkel és professzionális előadóteremmel.",
-                  "category": "cultural",
-                  "coords": [
-                        126.720141,
-                        37.618922
                   ]
             },
             {
@@ -7015,15 +6871,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jangneungsan (Mt.)",
-                  "text": "Un munte împădurit în Gimpo, la baza căruia se află mormântul regal Jangneung.",
-                  "category": "natural",
-                  "coords": [
-                        126.709252,
-                        37.616164
-                  ]
-            },
-            {
                   "name": "Securities Museum",
                   "text": "Primul muzeu al valorilor mobiliare din Coreea expune istoria pieței de capital și documente istorice.",
                   "category": "museum",
@@ -7102,15 +6949,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   "coords": [
                         126.687422,
                         37.705101
-                  ]
-            },
-            {
-                  "name": "Gimpo Art Hall",
-                  "text": "Un centru de artă multifuncțional din Gimpo, cu spații expoziționale și o sală de spectacole profesională.",
-                  "category": "cultural",
-                  "coords": [
-                        126.720141,
-                        37.618922
                   ]
             },
             {
@@ -7359,15 +7197,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jangneungsan (Mt.)",
-                  "text": "A forested mountain in Gimpo with the Jangneung Royal Tomb located at its base.",
-                  "category": "natural",
-                  "coords": [
-                        126.709252,
-                        37.616164
-                  ]
-            },
-            {
                   "name": "Securities Museum",
                   "text": "Korea's first securities museum displays the history of the stock market and historical documents.",
                   "category": "museum",
@@ -7446,15 +7275,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   "coords": [
                         126.687422,
                         37.705101
-                  ]
-            },
-            {
-                  "name": "Gimpo Art Hall",
-                  "text": "A multi-purpose arts center in Gimpo featuring exhibition spaces and a professional performance hall.",
-                  "category": "cultural",
-                  "coords": [
-                        126.720141,
-                        37.618922
                   ]
             },
             {
@@ -10425,15 +10245,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Icheonsiripwoljeon Art Museum",
-                  "text": "Kunstmuseum, das den Werken von Woljeon Jang Woo-sung, einem Meister der koreanischen Tuschemalerei, gewidmet ist.",
-                  "category": "cultural",
-                  "coords": [
-                        127.42368,
-                        37.279618
-                  ]
-            },
-            {
                   "name": "Hwangtobich Ceramic Exhibition Hall",
                   "text": "Galerie für Gebrauchs-Keramik aus nährstoffreichem gelbem Lehm (Hwangto).",
                   "category": "museum",
@@ -10443,57 +10254,12 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fortress Seolbongsanseong",
-                  "text": "Historische Steinfestungsruinen aus dem 4. Jahrhundert mit Blick über Icheon.",
-                  "category": "castle",
-                  "coords": [
-                        127.420215,
-                        37.286388
-                  ]
-            },
-            {
-                  "name": "Seolbongsan Samhyeongjebawi",
-                  "text": "Drei markante Felssäulen auf dem Kamm des Berges Seolbong, legendär als „Drei Brüder“.",
-                  "category": "natural",
-                  "coords": [
-                        127.416419,
-                        37.280727
-                  ]
-            },
-            {
-                  "name": "Seolbongsan Mountain",
-                  "text": "Ein markanter Gipfel in Icheon, beliebt für seine Wanderwege und den Panoramablick vom Gipfel.",
-                  "category": "natural",
-                  "coords": [
-                        127.413021,
-                        37.280889
-                  ]
-            },
-            {
                   "name": "Miranda Spa Plus",
                   "text": "Thermalwasserpark mit medizinischen heißen Quellen und mehreren Themenbecken.",
                   "category": "recreational",
                   "coords": [
                         127.451033,
                         37.276229
-                  ]
-            },
-            {
-                  "name": "Icheon Art Hall",
-                  "text": "Großer Kulturort für Theateraufführungen und lokale Kunstausstellungen.",
-                  "category": "cultural",
-                  "coords": [
-                        127.434263,
-                        37.271504
-                  ]
-            },
-            {
-                  "name": "Icheon City Museum",
-                  "text": "Heimatmuseum im Seolbong-Park, das das Erbe Icheons seit der Bronzezeit dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        127.427262,
-                        37.274886
                   ]
             },
             {
@@ -10562,15 +10328,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Icheonsiripwoljeon Art Museum",
-                  "text": "Woljeon Jang Woo-sung, a koreai tusfestészet mesterének műveinek szentelt művészeti múzeum.",
-                  "category": "cultural",
-                  "coords": [
-                        127.42368,
-                        37.279618
-                  ]
-            },
-            {
                   "name": "Hwangtobich Ceramic Exhibition Hall",
                   "text": "Tápanyagokban gazdag sárga agyagból (hwangto) készült használati kerámiákat bemutató galéria.",
                   "category": "museum",
@@ -10580,57 +10337,12 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fortress Seolbongsanseong",
-                  "text": "4. századi történelmi kőerőd maradványai, ahonnan kilátás nyílik Icshonra.",
-                  "category": "castle",
-                  "coords": [
-                        127.420215,
-                        37.286388
-                  ]
-            },
-            {
-                  "name": "Seolbongsan Samhyeongjebawi",
-                  "text": "Három jellegzetes kőoszlop a Seolbong-hegy gerincén, amelyeket a legenda szerint „Három testvérnek” hívnak.",
-                  "category": "natural",
-                  "coords": [
-                        127.416419,
-                        37.280727
-                  ]
-            },
-            {
-                  "name": "Seolbongsan Mountain",
-                  "text": "Icshon egyik kiemelkedő hegycsúcsa, amely túraútvonalairól és panorámás kilátásáról népszerű.",
-                  "category": "natural",
-                  "coords": [
-                        127.413021,
-                        37.280889
-                  ]
-            },
-            {
                   "name": "Miranda Spa Plus",
                   "text": "Termálvizes park gyógyhatású meleg forrásokkal és több tematikus medencével.",
                   "category": "recreational",
                   "coords": [
                         127.451033,
                         37.276229
-                  ]
-            },
-            {
-                  "name": "Icheon Art Hall",
-                  "text": "Színházi előadásoknak és helyi művészeti kiállításoknak otthont adó nagy kulturális központ.",
-                  "category": "cultural",
-                  "coords": [
-                        127.434263,
-                        37.271504
-                  ]
-            },
-            {
-                  "name": "Icheon City Museum",
-                  "text": "A Seolbong-parkban található helytörténeti múzeum, amely Icshon örökségét mutatja be a bronzkortól kezdve.",
-                  "category": "museum",
-                  "coords": [
-                        127.427262,
-                        37.274886
                   ]
             },
             {
@@ -10699,15 +10411,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Icheonsiripwoljeon Art Museum",
-                  "text": "Muzeu de artă dedicat lucrărilor lui Woljeon Jang Woo-sung, un maestru al picturii coreene în tuș.",
-                  "category": "cultural",
-                  "coords": [
-                        127.42368,
-                        37.279618
-                  ]
-            },
-            {
                   "name": "Hwangtobich Ceramic Exhibition Hall",
                   "text": "Galerie care expune piese ceramice funcționale realizate din lut galben bogat în nutrienți (hwangto).",
                   "category": "museum",
@@ -10717,57 +10420,12 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fortress Seolbongsanseong",
-                  "text": "Ruinele unei cetăți istorice de piatră din secolul al IV-lea, oferind o priveliște asupra orașului Icheon.",
-                  "category": "castle",
-                  "coords": [
-                        127.420215,
-                        37.286388
-                  ]
-            },
-            {
-                  "name": "Seolbongsan Samhyeongjebawi",
-                  "text": "Trei piloni de stâncă distincți pe creasta muntelui Seolbong, cunoscuți legendar ca „Cei Trei Frați”.",
-                  "category": "natural",
-                  "coords": [
-                        127.416419,
-                        37.280727
-                  ]
-            },
-            {
-                  "name": "Seolbongsan Mountain",
-                  "text": "Un vârf proeminent din Icheon, popular pentru traseele de drumeție și vederea panoramică de pe culme.",
-                  "category": "natural",
-                  "coords": [
-                        127.413021,
-                        37.280889
-                  ]
-            },
-            {
                   "name": "Miranda Spa Plus",
                   "text": "Parc acvatic cu apă termală, cu izvoare fierbinți medicinale și mai multe piscine tematice.",
                   "category": "recreational",
                   "coords": [
                         127.451033,
                         37.276229
-                  ]
-            },
-            {
-                  "name": "Icheon Art Hall",
-                  "text": "Locație culturală mare care găzduiește spectacole de teatru și expoziții de artă locală.",
-                  "category": "cultural",
-                  "coords": [
-                        127.434263,
-                        37.271504
-                  ]
-            },
-            {
-                  "name": "Icheon City Museum",
-                  "text": "Muzeu de istorie locală situat în Parcul Seolbong, care acoperă moștenirea orașului Icheon din epoca bronzului.",
-                  "category": "museum",
-                  "coords": [
-                        127.427262,
-                        37.274886
                   ]
             },
             {
@@ -10836,15 +10494,6 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Icheonsiripwoljeon Art Museum",
-                  "text": "Art museum dedicated to the works of Woljeon Jang Woo-sung, a master of Korean ink painting.",
-                  "category": "cultural",
-                  "coords": [
-                        127.42368,
-                        37.279618
-                  ]
-            },
-            {
                   "name": "Hwangtobich Ceramic Exhibition Hall",
                   "text": "Gallery exhibiting functional ceramic pieces crafted from nutrient-rich yellow clay (hwangto).",
                   "category": "museum",
@@ -10854,57 +10503,12 @@ export const poiExtraSouthkoreaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fortress Seolbongsanseong",
-                  "text": "Historic stone fortress ruins from the 4th century offering a view over Icheon.",
-                  "category": "castle",
-                  "coords": [
-                        127.420215,
-                        37.286388
-                  ]
-            },
-            {
-                  "name": "Seolbongsan Samhyeongjebawi",
-                  "text": "Three distinct rock pillars on the ridge of Mt. Seolbong, legendary as \"Three Brothers\".",
-                  "category": "natural",
-                  "coords": [
-                        127.416419,
-                        37.280727
-                  ]
-            },
-            {
-                  "name": "Seolbongsan Mountain",
-                  "text": "A prominent peak in Icheon popular for its hiking trails and panoramic summit views.",
-                  "category": "natural",
-                  "coords": [
-                        127.413021,
-                        37.280889
-                  ]
-            },
-            {
                   "name": "Miranda Spa Plus",
                   "text": "Thermal water park featuring medicinal hot springs and multiple themed pools.",
                   "category": "recreational",
                   "coords": [
                         127.451033,
                         37.276229
-                  ]
-            },
-            {
-                  "name": "Icheon Art Hall",
-                  "text": "Large cultural venue hosting theatrical performances and local art exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        127.434263,
-                        37.271504
-                  ]
-            },
-            {
-                  "name": "Icheon City Museum",
-                  "text": "Local history museum located within Seolbong Park, covering Icheon's heritage from the Bronze Age.",
-                  "category": "museum",
-                  "coords": [
-                        127.427262,
-                        37.274886
                   ]
             },
             {

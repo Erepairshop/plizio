@@ -1921,50 +1921,10 @@ export const poiExtraMozambiqueHistoryV2: POI[] = [
   },
   {
     id: "mz-massacre-mueda-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "MUSEU DA MASACRE DE MUEDA",
-                  "text": "Das Museu da Masacre de Mueda ist ein historisches Museum, das Artefakte und Aufzeichnungen der tragischen Ereignisse von 1960 ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        39.546158,
-                        -11.659595
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "MUSEU DA MASACRE DE MUEDA",
-                  "text": "A Museu da Masacre de Mueda egy történelmi múzeum, amely az 1960-as tragikus események tárgyi emlékeit és feljegyzéseit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        39.546158,
-                        -11.659595
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "MUSEU DA MASACRE DE MUEDA",
-                  "text": "Museu da Masacre de Mueda este un muzeu istoric care expune artefacte și înregistrări ale evenimentelor tragice din 1960.",
-                  "category": "museum",
-                  "coords": [
-                        39.546158,
-                        -11.659595
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "MUSEU DA MASACRE DE MUEDA",
-                  "text": "The Museu da Masacre de Mueda is a historical museum exhibiting artifacts and records from the tragic events of 1960.",
-                  "category": "museum",
-                  "coords": [
-                        39.546158,
-                        -11.659595
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "MZ-CD",

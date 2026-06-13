@@ -1014,15 +1014,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "chateau chahine",
-                  "text": "Ein steinernes Wohnhaus oder Weingut, das im traditionellen befestigten Stil erbaut wurde.",
-                  "category": "castle",
-                  "coords": [
-                        35.850327,
-                        33.815882
-                  ]
-            },
-            {
                   "name": "Fakhr-al-Din al-Maani Castle",
                   "text": "Eine Festungsruine aus dem 17. Jahrhundert auf einem Hügel mit Blick auf das Bekaa-Tal.",
                   "category": "castle",
@@ -1166,15 +1157,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
                   "coords": [
                         35.865999,
                         33.866254
-                  ]
-            },
-            {
-                  "name": "chateau chahine",
-                  "text": "Hagyományos erődített stílusban épült kőház vagy borászat.",
-                  "category": "castle",
-                  "coords": [
-                        35.850327,
-                        33.815882
                   ]
             },
             {
@@ -1324,15 +1306,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "chateau chahine",
-                  "text": "O reședință din piatră sau cramă construită în stil tradițional fortificat.",
-                  "category": "castle",
-                  "coords": [
-                        35.850327,
-                        33.815882
-                  ]
-            },
-            {
                   "name": "Fakhr-al-Din al-Maani Castle",
                   "text": "O fortăreață în ruine din secolul al XVII-lea, pe un deal cu vedere spre Valea Bekaa.",
                   "category": "castle",
@@ -1476,15 +1449,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
                   "coords": [
                         35.865999,
                         33.866254
-                  ]
-            },
-            {
-                  "name": "chateau chahine",
-                  "text": "A stone residence or winery built in a traditional fortified style.",
-                  "category": "castle",
-                  "coords": [
-                        35.850327,
-                        33.815882
                   ]
             },
             {
@@ -3723,15 +3687,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     id: "waves-aqua-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Seidenmuseum",
-                  "text": "Eine restaurierte Seidenfabrik aus dem 19. Jahrhundert mit üppigen Terrassengärten.",
-                  "category": "museum",
-                  "coords": [
-                        35.572282,
-                        33.817898
-                  ]
-            },
-            {
                   "name": "Hope for Peace",
                   "text": "Ein 30 Meter hohes Monument aus Panzern und Militärfahrzeugen, die in Beton eingegossen sind.",
                   "category": "historical",
@@ -4048,15 +4003,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Silk Museum",
-                  "text": "19. századi selyemgyár épületében berendezett múzeum buja teraszos kertekkel.",
-                  "category": "museum",
-                  "coords": [
-                        35.572282,
-                        33.817898
-                  ]
-            },
             {
                   "name": "Hope for Peace",
                   "text": "30 méter magas emlékmű betonba ágyazott harckocsikból és katonai járművekből.",
@@ -4375,15 +4321,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Silk Museum",
-                  "text": "O fabrică de mătase restaurată din secolul al XIX-lea, transformată în muzeu cu grădini luxuriante.",
-                  "category": "museum",
-                  "coords": [
-                        35.572282,
-                        33.817898
-                  ]
-            },
-            {
                   "name": "Hope for Peace",
                   "text": "Un monument înalt de 30 de metri realizat din tancuri și vehicule militare încastrate în beton.",
                   "category": "historical",
@@ -4700,15 +4637,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Silk Museum",
-                  "text": "A restored 19th-century silk factory converted into a museum with lush terraced gardens.",
-                  "category": "museum",
-                  "coords": [
-                        35.572282,
-                        33.817898
-                  ]
-            },
             {
                   "name": "Hope for Peace",
                   "text": "A 30-meter high monument made of tanks and armored vehicles set in concrete.",
@@ -5946,15 +5874,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     id: "bkassine-pine-forest-life-v2", "sights": {
       "de": [
             {
-                  "name": "Issa's view",
-                  "text": "Ein Aussichtspunkt mit atemberaubendem Blick über den Pinienwald von Bkassine, einen der größten im Mittelmeerraum.",
-                  "category": "natural",
-                  "coords": [
-                        35.55468,
-                        33.539221
-                  ]
-            },
-            {
                   "name": "Mar Maroun Church",
                   "text": "Eine dem heiligen Maron, dem Schutzpatron der maronitischen Gemeinde, gewidmete Kirche in der Nähe von Bkassine.",
                   "category": "landmark",
@@ -6001,15 +5920,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Issa's view",
-                  "text": "Kilátó, ahonnan lélegzetelállító panoráma nyílik a bkassine-i fenyőerdőre, amely a Földközi-tenger térségének egyik legnagyobbja.",
-                  "category": "natural",
-                  "coords": [
-                        35.55468,
-                        33.539221
-                  ]
-            },
             {
                   "name": "Mar Maroun Church",
                   "text": "Szent Maronnak, a maronita közösség védőszentjének szentelt templom Bkassine közelében.",
@@ -6058,15 +5968,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Issa's view",
-                  "text": "Un punct de belvedere care oferă vederi uluitoare asupra pădurii de pini Bkassine, una dintre cele mai mari din Mediterana.",
-                  "category": "natural",
-                  "coords": [
-                        35.55468,
-                        33.539221
-                  ]
-            },
-            {
                   "name": "Mar Maroun Church",
                   "text": "O biserică maronită dedicată Sfântului Maron, patronul comunității maronite, situată lângă Bkassine.",
                   "category": "landmark",
@@ -6113,15 +6014,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Issa's view",
-                  "text": "A scenic viewpoint offering breathtaking vistas over the Bkassine Pine Forest, one of the largest in the Mediterranean.",
-                  "category": "natural",
-                  "coords": [
-                        35.55468,
-                        33.539221
-                  ]
-            },
             {
                   "name": "Mar Maroun Church",
                   "text": "A Maronite church dedicated to Saint Maron, the patron of the Maronite community, situated near Bkassine.",
@@ -6405,24 +6297,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
     id: "hasbaya-olives-life-v2", "sights": {
       "de": [
             {
-                  "name": "kalaa al shahabeya",
-                  "text": "Ein historischer Palast in Hasbaya, der Sitz der Shehab-Emire mit markanter Architektur.",
-                  "category": "landmark",
-                  "coords": [
-                        35.686375,
-                        33.39822
-                  ]
-            },
-            {
-                  "name": "Tall Zaghla",
-                  "text": "Ein Berggipfel bei Hasbaya, der weite Panoramablicke über die umliegenden Olivenhaine bietet.",
-                  "category": "natural",
-                  "coords": [
-                        35.699791,
-                        33.403562
-                  ]
-            },
-            {
                   "name": "Roman Temple ruins",
                   "text": "Überreste eines antiken römischen Heiligtums in den Hügeln von Hasbaya.",
                   "category": "landmark",
@@ -6442,24 +6316,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "kalaa al shahabeya",
-                  "text": "Történelmi palota Hasbayában, a Sehab emírek székhelye, jellegzetes építészettel.",
-                  "category": "landmark",
-                  "coords": [
-                        35.686375,
-                        33.39822
-                  ]
-            },
-            {
-                  "name": "Tall Zaghla",
-                  "text": "Hegycsúcs Hasbaya közelében, amely széles panorámát kínál a környező olajfaligetekre.",
-                  "category": "natural",
-                  "coords": [
-                        35.699791,
-                        33.403562
-                  ]
-            },
             {
                   "name": "Roman Temple ruins",
                   "text": "Egy antik római szentély maradványai Hasbaya dombjai között.",
@@ -6481,24 +6337,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "kalaa al shahabeya",
-                  "text": "Un palat istoric în Hasbaya, sediul emirilor Shehab, cu o arhitectură distinctivă.",
-                  "category": "landmark",
-                  "coords": [
-                        35.686375,
-                        33.39822
-                  ]
-            },
-            {
-                  "name": "Tall Zaghla",
-                  "text": "Un vârf montan lângă Hasbaya, care oferă vederi panoramice largi asupra livezilor de măslini din jur.",
-                  "category": "natural",
-                  "coords": [
-                        35.699791,
-                        33.403562
-                  ]
-            },
-            {
                   "name": "Roman Temple ruins",
                   "text": "Rămășițele unui vechi sanctuar roman situat pe dealurile din Hasbaya.",
                   "category": "landmark",
@@ -6518,24 +6356,6 @@ export const poiExtraLebanonLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Kalaa Al Shahabeya",
-                  "text": "A historic palace in Hasbaya, the seat of the Shehab emirs, featuring striking architecture.",
-                  "category": "landmark",
-                  "coords": [
-                        35.686375,
-                        33.39822
-                  ]
-            },
-            {
-                  "name": "Tall Zaghla",
-                  "text": "A mountain peak near Hasbaya offering wide panoramic views over the surrounding olive groves.",
-                  "category": "natural",
-                  "coords": [
-                        35.699791,
-                        33.403562
-                  ]
-            },
             {
                   "name": "Roman Temple Ruins",
                   "text": "Remains of an ancient Roman sanctuary located in the hills of Hasbaya.",

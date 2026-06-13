@@ -1830,15 +1830,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rainbow Bridge",
-                  "text": "Eine lokale Brückenattraktion, die für ihre leuchtend bunten Strukturelemente bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        103.760684,
-                        1.433176
-                  ]
-            },
-            {
                   "name": "Admiralty Park",
                   "text": "Ein weitläufiger Stadtpark, der für sein hügeliges Gelände und sein Naturschutzgebiet bekannt ist.",
                   "category": "park",
@@ -1854,24 +1845,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   "coords": [
                         103.780457,
                         1.453024
-                  ]
-            },
-            {
-                  "name": "Sri Siva Krishna Temple",
-                  "text": "Ein traditioneller Hindutempel, der den Gottheiten Shiva und Krishna gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        103.779553,
-                        1.439974
-                  ]
-            },
-            {
-                  "name": "Marsiling Park",
-                  "text": "Dieser früher als Woodlands Town Garden bekannte Park bietet Pavillons im chinesischen Stil und einen ruhigen See.",
-                  "category": "park",
-                  "coords": [
-                        103.770099,
-                        1.43724
                   ]
             },
             {
@@ -2039,15 +2012,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rainbow Bridge",
-                  "text": "Egy helyi híd, amely élénk színű szerkezeti elemeiről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        103.760684,
-                        1.433176
-                  ]
-            },
-            {
                   "name": "Admiralty Park",
                   "text": "Kiterjedt városi park, amely dombos domborzatáról és megőrzött természetvédelmi területéről ismert.",
                   "category": "park",
@@ -2063,24 +2027,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   "coords": [
                         103.780457,
                         1.453024
-                  ]
-            },
-            {
-                  "name": "Sri Siva Krishna Temple",
-                  "text": "Hagyományos hindu templom, amelyet elsősorban Siva és Krisna istenségeknek szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        103.779553,
-                        1.439974
-                  ]
-            },
-            {
-                  "name": "Marsiling Park",
-                  "text": "A korábban Woodlands Town Garden néven ismert park kínai stílusú pavilonokkal és egy nyugodt tóval rendelkezik.",
-                  "category": "park",
-                  "coords": [
-                        103.770099,
-                        1.43724
                   ]
             },
             {
@@ -2248,15 +2194,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rainbow Bridge",
-                  "text": "Un pod local, atracție notabilă pentru elementele sale structurale viu colorate.",
-                  "category": "landmark",
-                  "coords": [
-                        103.760684,
-                        1.433176
-                  ]
-            },
-            {
                   "name": "Admiralty Park",
                   "text": "Un parc urban întins, recunoscut pentru terenul său deluros și zona de natură conservată.",
                   "category": "park",
@@ -2272,24 +2209,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   "coords": [
                         103.780457,
                         1.453024
-                  ]
-            },
-            {
-                  "name": "Sri Siva Krishna Temple",
-                  "text": "Un templu hindus tradițional dedicat în mod proeminent zeităților Siva și Krishna.",
-                  "category": "religious",
-                  "coords": [
-                        103.779553,
-                        1.439974
-                  ]
-            },
-            {
-                  "name": "Marsiling Park",
-                  "text": "Cunoscut anterior sub numele de Woodlands Town Garden, acest parc prezintă pavilioane în stil chinezesc și un lac liniștit.",
-                  "category": "park",
-                  "coords": [
-                        103.770099,
-                        1.43724
                   ]
             },
             {
@@ -2457,15 +2376,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rainbow Bridge",
-                  "text": "A local bridge attraction notable for its vibrantly colored structural elements.",
-                  "category": "landmark",
-                  "coords": [
-                        103.760684,
-                        1.433176
-                  ]
-            },
-            {
                   "name": "Admiralty Park",
                   "text": "A sprawling urban park recognized for its hilly terrain and preserved nature area.",
                   "category": "park",
@@ -2481,24 +2391,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   "coords": [
                         103.780457,
                         1.453024
-                  ]
-            },
-            {
-                  "name": "Sri Siva Krishna Temple",
-                  "text": "A traditional Hindu temple prominently dedicated to the deities Siva and Krishna.",
-                  "category": "religious",
-                  "coords": [
-                        103.779553,
-                        1.439974
-                  ]
-            },
-            {
-                  "name": "Marsiling Park",
-                  "text": "Formerly known as Woodlands Town Garden, this park features Chinese-style pavilions and a tranquil lake.",
-                  "category": "park",
-                  "coords": [
-                        103.770099,
-                        1.43724
                   ]
             },
             {
@@ -3123,15 +3015,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Al-Khair",
-                  "text": "Die Masjid Al-Khair in Choa Chu Kang ist eine renommierte Moschee mit moderner Architektur für die islamische Gemeinschaft.",
-                  "category": "religious",
-                  "coords": [
-                        103.749999,
-                        1.382634
-                  ]
-            },
-            {
                   "name": "Choa Chu Kang Park",
                   "text": "Der großflächige Choa Chu Kang Park bietet der Gemeinde mit seinem vielfältigen Baumbestand eine grüne Lunge.",
                   "category": "park",
@@ -3302,15 +3185,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   "coords": [
                         103.77277,
                         1.378129
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Khair",
-                  "text": "A Choa Chu Kangban található Masjid Al-Khair egy elismert, modern építészetű mecset az iszlám közösség számára.",
-                  "category": "religious",
-                  "coords": [
-                        103.749999,
-                        1.382634
                   ]
             },
             {
@@ -3487,15 +3361,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Al-Khair",
-                  "text": "Masjid Al-Khair din Choa Chu Kang este o moschee renumită cu arhitectură modernă pentru comunitatea islamică.",
-                  "category": "religious",
-                  "coords": [
-                        103.749999,
-                        1.382634
-                  ]
-            },
-            {
                   "name": "Choa Chu Kang Park",
                   "text": "Parcul întins Choa Chu Kang oferă comunității un plămân verde datorită numărului mare și variat de copaci.",
                   "category": "park",
@@ -3669,15 +3534,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Al-Khair",
-                  "text": "Masjid Al-Khair in Choa Chu Kang is a renowned mosque with modern architecture serving the Islamic community.",
-                  "category": "religious",
-                  "coords": [
-                        103.749999,
-                        1.382634
-                  ]
-            },
-            {
                   "name": "Choa Chu Kang Park",
                   "text": "The expansive Choa Chu Kang Park provides a green lung for the community with its diverse tree population.",
                   "category": "park",
@@ -3846,24 +3702,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Drain Remains",
-                  "text": "Die Drain Remains bestehen aus einem alten Betonwasserkanal, der heute teilweise mit Waldschutt gefüllt ist.",
-                  "category": "historical",
-                  "coords": [
-                        103.753734,
-                        1.360729
-                  ]
-            },
-            {
-                  "name": "Fence Ruins",
-                  "text": "Korrodierte Pfosten und kaputtes Drahtgeflecht markieren die Fence Ruins, die einst einen Teil dieses Landes umschlossen.",
-                  "category": "historical",
-                  "coords": [
-                        103.756424,
-                        1.357606
-                  ]
-            },
-            {
                   "name": "Stone Tables",
                   "text": "Diese verlassenen Steintische dienten einst als Picknickplatz, bevor der Wald die Überhand nahm.",
                   "category": "historical",
@@ -3879,15 +3717,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   "coords": [
                         103.755265,
                         1.358706
-                  ]
-            },
-            {
-                  "name": "Phoenix Park",
-                  "text": "Der Phoenix Park ist eine historische städtische Grünfläche, die von Wohngebieten umgeben ist.",
-                  "category": "park",
-                  "coords": [
-                        103.757226,
-                        1.375882
                   ]
             },
             {
@@ -3983,24 +3812,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Drain Remains",
-                  "text": "A csatornamaradványok egy régi beton vízcsatornából állnak, amelyet mára részben feltöltött az erdei törmelék.",
-                  "category": "historical",
-                  "coords": [
-                        103.753734,
-                        1.360729
-                  ]
-            },
-            {
-                  "name": "Fence Ruins",
-                  "text": "Korrodált oszlopok és drótháló töredékek jelzik a kerítés romjait, amelyek egykor e föld egy részét vették körül.",
-                  "category": "historical",
-                  "coords": [
-                        103.756424,
-                        1.357606
-                  ]
-            },
-            {
                   "name": "Stone Tables",
                   "text": "Ezek az elhagyatott kőasztalok egykor piknikezőhelyként szolgáltak, mielőtt az erdő átvette volna az uralmat.",
                   "category": "historical",
@@ -4016,15 +3827,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   "coords": [
                         103.755265,
                         1.358706
-                  ]
-            },
-            {
-                  "name": "Phoenix Park",
-                  "text": "A Phoenix Park egy történelmi közösségi zöldterület, amelyet lakóparkok szegélyeznek.",
-                  "category": "park",
-                  "coords": [
-                        103.757226,
-                        1.375882
                   ]
             },
             {
@@ -4120,24 +3922,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Drain Remains",
-                  "text": "Rămășițele de drenaj constau dintr-un vechi canal de apă din beton, acum parțial umplut cu resturi forestiere.",
-                  "category": "historical",
-                  "coords": [
-                        103.753734,
-                        1.360729
-                  ]
-            },
-            {
-                  "name": "Fence Ruins",
-                  "text": "Stâlpii corodați și plasa de sârmă ruptă marchează Ruinele Gardului care odinioară împrejmuia o parte a acestui teren.",
-                  "category": "historical",
-                  "coords": [
-                        103.756424,
-                        1.357606
-                  ]
-            },
-            {
                   "name": "Stone Tables",
                   "text": "Aceste mese de piatră abandonate serveau odată drept zonă de picnic înainte ca pădurea să pună stăpânire pe ele.",
                   "category": "historical",
@@ -4153,15 +3937,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   "coords": [
                         103.755265,
                         1.358706
-                  ]
-            },
-            {
-                  "name": "Phoenix Park",
-                  "text": "Parcul Phoenix este un spațiu verde comunitar istoric, mărginit de dezvoltări rezidențiale.",
-                  "category": "park",
-                  "coords": [
-                        103.757226,
-                        1.375882
                   ]
             },
             {
@@ -4257,24 +4032,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Drain Remains",
-                  "text": "The Drain Remains consist of an old concrete water channel now partially filled with forest debris.",
-                  "category": "historical",
-                  "coords": [
-                        103.753734,
-                        1.360729
-                  ]
-            },
-            {
-                  "name": "Fence Ruins",
-                  "text": "Corroded posts and broken wire mesh mark the Fence Ruins that once enclosed part of this land.",
-                  "category": "historical",
-                  "coords": [
-                        103.756424,
-                        1.357606
-                  ]
-            },
-            {
                   "name": "Stone Tables",
                   "text": "These abandoned stone tables once served as a picnic area before the forest took over.",
                   "category": "historical",
@@ -4290,15 +4047,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   "coords": [
                         103.755265,
                         1.358706
-                  ]
-            },
-            {
-                  "name": "Phoenix Park",
-                  "text": "Phoenix Park is a historical community green space bordered by residential developments.",
-                  "category": "park",
-                  "coords": [
-                        103.757226,
-                        1.375882
                   ]
             },
             {
@@ -5883,15 +5631,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Al-Falah",
-                  "text": "Ein markantes Gotteshaus, das sich auf einzigartige Weise in einem Geschäftsgebäude befindet, um der muslimischen Gemeinde in der Innenstadt zu dienen.",
-                  "category": "religious",
-                  "coords": [
-                        103.836653,
-                        1.303776
-                  ]
-            },
-            {
                   "name": "Church of the Sacred Heart",
                   "text": "Diese 1910 gegründete katholische Kirche besticht optisch durch ihre elegante, französisch inspirierte Architektur.",
                   "category": "religious",
@@ -5934,15 +5673,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   "coords": [
                         103.842623,
                         1.297253
-                  ]
-            },
-            {
-                  "name": "Emerald Hill",
-                  "text": "Diese bedeutende Attraktion besticht durch historisch bedeutsame Architektur in einem bekannten Viertel.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839319,
-                        1.30341
                   ]
             },
             {
@@ -6029,15 +5759,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Al-Falah",
-                  "text": "Kiemelkedő istentiszteleti hely, amely egyedülálló módon egy kereskedelmi épületben található, hogy a belvárosi muszlim közösséget szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        103.836653,
-                        1.303776
-                  ]
-            },
-            {
                   "name": "Church of the Sacred Heart",
                   "text": "Ez az 1910-ben alapított katolikus templom vizuálisan az elegáns, francia ihletésű építészetéről ismert.",
                   "category": "religious",
@@ -6080,15 +5801,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   "coords": [
                         103.842623,
                         1.297253
-                  ]
-            },
-            {
-                  "name": "Emerald Hill",
-                  "text": "Ez a figyelemre méltó látványosság történelmileg jelentős építészettel büszkélkedhet egy híres környéken.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839319,
-                        1.30341
                   ]
             },
             {
@@ -6175,15 +5887,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Al-Falah",
-                  "text": "Un lăcaș de cult proeminent situat în mod unic într-o clădire comercială pentru a servi comunitatea musulmană din centrul orașului.",
-                  "category": "religious",
-                  "coords": [
-                        103.836653,
-                        1.303776
-                  ]
-            },
-            {
                   "name": "Church of the Sacred Heart",
                   "text": "Înființată în 1910, această biserică catolică este remarcată vizual pentru arhitectura sa elegantă de inspirație franceză.",
                   "category": "religious",
@@ -6226,15 +5929,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   "coords": [
                         103.842623,
                         1.297253
-                  ]
-            },
-            {
-                  "name": "Emerald Hill",
-                  "text": "Această atracție notabilă prezintă o arhitectură istorică semnificativă într-un cartier renumit.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839319,
-                        1.30341
                   ]
             },
             {
@@ -6321,15 +6015,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Al-Falah",
-                  "text": "A prominent place of worship uniquely located within a commercial building to serve the downtown Muslim community.",
-                  "category": "religious",
-                  "coords": [
-                        103.836653,
-                        1.303776
-                  ]
-            },
-            {
                   "name": "Church of the Sacred Heart",
                   "text": "Established in 1910, this Catholic church is visually noted for its elegant French-inspired architecture.",
                   "category": "religious",
@@ -6372,15 +6057,6 @@ export const poiExtraSingaporeLifeV2: POI[] = [
                   "coords": [
                         103.842623,
                         1.297253
-                  ]
-            },
-            {
-                  "name": "Emerald Hill",
-                  "text": "This notable attraction features historically significant architecture in a renowned neighborhood.",
-                  "category": "landmark",
-                  "coords": [
-                        103.839319,
-                        1.30341
                   ]
             },
             {

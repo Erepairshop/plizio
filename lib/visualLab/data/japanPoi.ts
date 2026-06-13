@@ -107,24 +107,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Gallery Namban",
-                  "text": "Die Gallery Namban ist ein Museum in Osaka. Es ist auf die Erhaltung und Ausstellung von Namban-Kunst spezialisiert.",
-                  "category": "museum",
-                  "coords": [
-                        135.4919,
-                        34.709457
-                  ]
-            },
-            {
-                  "name": "Osaka Museum of Housing and Living",
-                  "text": "Das Osaka Museum of Housing and Living ist ein Museum in Osaka. Es bietet eine nachgebildete Stadtlandschaft aus der Edo-Zeit.",
-                  "category": "museum",
-                  "coords": [
-                        135.511433,
-                        34.710466
-                  ]
-            },
-            {
                   "name": "Osaka Museum of History",
                   "text": "Das Osaka Museum of History ist ein Museum in Osaka. Es bietet Ausstellungen, die die Vergangenheit der Stadt abdecken.",
                   "category": "museum",
@@ -179,15 +161,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Osaka Shiki Musical Theater",
-                  "text": "Das Osaka Shiki Musical Theater ist ein Theater in Osaka. Es ist bekannt für Produktionen der Shiki Theatre Company.",
-                  "category": "cultural",
-                  "coords": [
-                        135.494755,
-                        34.699818
-                  ]
-            },
-            {
                   "name": "Orix Theater",
                   "text": "Das Orix Theater ist ein beliebtes Theater in Osaka. Es veranstaltet regelmäßig eine Vielzahl von Events.",
                   "category": "cultural",
@@ -197,30 +170,12 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "HEP Hall",
-                  "text": "Die HEP Hall ist ein Theater im HEP Five-Komplex in Osaka. Er dient als Bühne für kleinere Theaterstücke.",
-                  "category": "cultural",
-                  "coords": [
-                        135.499851,
-                        34.703798
-                  ]
-            },
-            {
                   "name": "Matsushita IMP Hall",
                   "text": "Die Matsushita IMP Hall ist ein Theater in Osaka. Sie ist Teil des Matsushita IMP Building-Komplexes.",
                   "category": "cultural",
                   "coords": [
                         135.529671,
                         34.69183
-                  ]
-            },
-            {
-                  "name": "ABC Hall",
-                  "text": "Die ABC Hall ist ein modernes Theater in Osaka. Sie ist mit der Asahi Broadcasting Corporation verbunden.",
-                  "category": "cultural",
-                  "coords": [
-                        135.488453,
-                        34.69362
                   ]
             },
             {
@@ -320,15 +275,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         135.507772,
                         34.692423
-                  ]
-            },
-            {
-                  "name": "Ōgimachi Park",
-                  "text": "Der Ōgimachi Park ist ein Park in Osaka. Es ist ein familienfreundlicher Ort, der an das Kids Plaza Osaka angrenzt.",
-                  "category": "park",
-                  "coords": [
-                        135.509149,
-                        34.704131
                   ]
             },
             {
@@ -775,24 +721,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Gallery Namban",
-                  "text": "A Gallery Namban egy múzeum Oszakában. Namban művészeti tárgyak megőrzésére és kiállítására specializálódott.",
-                  "category": "museum",
-                  "coords": [
-                        135.4919,
-                        34.709457
-                  ]
-            },
-            {
-                  "name": "Osaka Museum of Housing and Living",
-                  "text": "Az Osaka Museum of Housing and Living egy múzeum Oszakában. Egy újjáépített Edo-kori városképet kínál a látogatók számára.",
-                  "category": "museum",
-                  "coords": [
-                        135.511433,
-                        34.710466
-                  ]
-            },
-            {
                   "name": "Oszakai Történeti Múzeum",
                   "text": "Az Oszakai Történeti Múzeum egy múzeum Oszakában. Kiterjedt kiállításokat kínál, amelyek a város múltját mutatják be.",
                   "category": "museum",
@@ -865,30 +793,12 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "HEP Hall",
-                  "text": "A HEP Hall egy színház az oszakai HEP Five komplexumban. Kisebb színdarabok színtereként szolgál.",
-                  "category": "cultural",
-                  "coords": [
-                        135.499851,
-                        34.703798
-                  ]
-            },
-            {
                   "name": "Matsushita IMP Hall",
                   "text": "A Matsushita IMP Hall egy színház Oszakában. A Matsushita IMP Building komplexum része.",
                   "category": "cultural",
                   "coords": [
                         135.529671,
                         34.69183
-                  ]
-            },
-            {
-                  "name": "ABC Hall",
-                  "text": "Az ABC Hall egy modern színház Oszakában. Az Asahi Broadcasting Corporationhöz kötődik.",
-                  "category": "cultural",
-                  "coords": [
-                        135.488453,
-                        34.69362
                   ]
             },
             {
@@ -1533,15 +1443,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "HEP Hall",
-                  "text": "Sala HEP este un teatru situat în complexul HEP Five din Osaka. Servește drept scenă pentru piese de teatru mici.",
-                  "category": "cultural",
-                  "coords": [
-                        135.499851,
-                        34.703798
-                  ]
-            },
-            {
                   "name": "Sala Matsushita IMP",
                   "text": "Sala Matsushita IMP este un teatru situat în Osaka. Face parte din complexul de clădiri Matsushita IMP.",
                   "category": "cultural",
@@ -2111,24 +2012,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Gallery Namban",
-                  "text": "Gallery Namban is a museum located in Osaka. It specializes in preserving and exhibiting Namban art.",
-                  "category": "museum",
-                  "coords": [
-                        135.4919,
-                        34.709457
-                  ]
-            },
-            {
-                  "name": "Osaka Museum of Housing and Living",
-                  "text": "The Osaka Museum of Housing and Living is a museum located in Osaka. It features a recreated Edo-period townscape for visitors.",
-                  "category": "museum",
-                  "coords": [
-                        135.511433,
-                        34.710466
-                  ]
-            },
-            {
                   "name": "Osaka Museum of History",
                   "text": "The Osaka Museum of History is a museum located in Osaka. It offers extensive exhibits covering the city's rich past.",
                   "category": "museum",
@@ -2183,15 +2066,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Osaka Shiki Musical Theater",
-                  "text": "The Osaka Shiki Musical Theater is a theatre located in Osaka. It is well-known for hosting productions by the Shiki Theatre Company.",
-                  "category": "cultural",
-                  "coords": [
-                        135.494755,
-                        34.699818
-                  ]
-            },
-            {
                   "name": "Orix Theater",
                   "text": "Orix Theater is a popular theatre located in Osaka. It regularly hosts a variety of events.",
                   "category": "cultural",
@@ -2201,30 +2075,12 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "HEP Hall",
-                  "text": "HEP Hall is a theatre space located within the HEP Five complex in Osaka. It serves as a stage for small-scale plays.",
-                  "category": "cultural",
-                  "coords": [
-                        135.499851,
-                        34.703798
-                  ]
-            },
-            {
                   "name": "Matsushita IMP Hall",
                   "text": "Matsushita IMP Hall is a theatre located in Osaka. It forms part of the Matsushita IMP Building complex.",
                   "category": "cultural",
                   "coords": [
                         135.529671,
                         34.69183
-                  ]
-            },
-            {
-                  "name": "ABC Hall",
-                  "text": "ABC Hall is a modern theatre situated in Osaka. It is associated with the Asahi Broadcasting Corporation.",
-                  "category": "cultural",
-                  "coords": [
-                        135.488453,
-                        34.69362
                   ]
             },
             {
@@ -2252,15 +2108,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         135.506035,
                         34.688808
-                  ]
-            },
-            {
-                  "name": "Genkoji Temple",
-                  "text": "Genkoji Temple is a place of worship located in the city of Osaka.",
-                  "category": "religious",
-                  "coords": [
-                        135.501306,
-                        34.709995
                   ]
             },
             {
@@ -2324,15 +2171,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         135.507772,
                         34.692423
-                  ]
-            },
-            {
-                  "name": "Ōgimachi Park",
-                  "text": "Ōgimachi Park is a park located in Osaka. It is a family-friendly space situated adjacent to the Kids Plaza Osaka.",
-                  "category": "park",
-                  "coords": [
-                        135.509149,
-                        34.704131
                   ]
             },
             {
@@ -2825,24 +2663,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Yanagihara Bank Memorial Museum",
-                  "text": "Ein Museum in Kyoto, das an die Geschichte der Yanagihara-Bank erinnert.",
-                  "category": "museum",
-                  "coords": [
-                        135.764749,
-                        34.986165
-                  ]
-            },
-            {
-                  "name": "Kyoto Seishu Netsuke Art Museum",
-                  "text": "Ein Museum in Kyoto, das in einem historischen Wohnhaus Netsuke-Schnitzkunst ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        135.744622,
-                        35.001463
-                  ]
-            },
-            {
                   "name": "Rathaus Kyoto",
                   "text": "Das markante Rathausgebäude der Stadt Kyoto.",
                   "category": "historical",
@@ -2948,15 +2768,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         135.761291,
                         35.018941
-                  ]
-            },
-            {
-                  "name": "Salvation Army Kyoto Corps",
-                  "text": "Ein religiöses Zentrum der Heilsarmee in der Stadt Kyoto.",
-                  "category": "religious",
-                  "coords": [
-                        135.764741,
-                        35.003149
                   ]
             },
             {
@@ -3592,24 +3403,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Yanagihara Bank Memorial Museum",
-                  "text": "Kiotói múzeum, amely a Yanagihara Bank történetének állít emléket.",
-                  "category": "museum",
-                  "coords": [
-                        135.764749,
-                        34.986165
-                  ]
-            },
-            {
-                  "name": "Kyoto Seishu Netsuke Art Museum",
-                  "text": "Egy történelmi lakóházban kialakított kiotói múzeum, amely netsuke-faragványokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        135.744622,
-                        35.001463
-                  ]
-            },
-            {
                   "name": "Kyoto City Hall",
                   "text": "Kiotó városának jellegzetes városházi épülete.",
                   "category": "historical",
@@ -3715,15 +3508,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         135.761291,
                         35.018941
-                  ]
-            },
-            {
-                  "name": "Salvation Army Kyoto Corps",
-                  "text": "Az Üdvhadsereg imaháza és közösségi központja Kiotóban.",
-                  "category": "religious",
-                  "coords": [
-                        135.764741,
-                        35.003149
                   ]
             },
             {
@@ -4359,24 +4143,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Yanagihara Bank Memorial Museum",
-                  "text": "Un muzeu din Kyoto care comemorează istoria Băncii Yanagihara.",
-                  "category": "museum",
-                  "coords": [
-                        135.764749,
-                        34.986165
-                  ]
-            },
-            {
-                  "name": "Kyoto Seishu Netsuke Art Museum",
-                  "text": "Un muzeu din Kyoto situat într-o reședință istorică, expunând sculpturi netsuke.",
-                  "category": "museum",
-                  "coords": [
-                        135.744622,
-                        35.001463
-                  ]
-            },
-            {
                   "name": "Kyoto City Hall",
                   "text": "Clădirea impunătoare a primăriei orașului Kyoto.",
                   "category": "historical",
@@ -4482,15 +4248,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         135.761291,
                         35.018941
-                  ]
-            },
-            {
-                  "name": "Salvation Army Kyoto Corps",
-                  "text": "Un centru religios al Armatei Salvării în orașul Kyoto.",
-                  "category": "religious",
-                  "coords": [
-                        135.764741,
-                        35.003149
                   ]
             },
             {
@@ -5108,39 +4865,12 @@ export const japanCities: POI[] = [
       ],
       "en": [
             {
-                  "name": "Kyoto Municipal Museum of School History",
-                  "text": "A museum in Kyoto dedicated to the history of Japanese schooling.",
-                  "category": "museum",
-                  "coords": [
-                        135.765725,
-                        35.000701
-                  ]
-            },
-            {
                   "name": "Yurinkan museum",
                   "text": "A private museum in Kyoto housing a collection of Chinese and Japanese art.",
                   "category": "museum",
                   "coords": [
                         135.781208,
                         35.011631
-                  ]
-            },
-            {
-                  "name": "Yanagihara Bank Memorial Museum",
-                  "text": "A museum in Kyoto commemorating the history of the Yanagihara Bank.",
-                  "category": "museum",
-                  "coords": [
-                        135.764749,
-                        34.986165
-                  ]
-            },
-            {
-                  "name": "Kyoto Seishu Netsuke Art Museum",
-                  "text": "A museum in Kyoto located in a historic residence, showcasing netsuke carvings.",
-                  "category": "museum",
-                  "coords": [
-                        135.744622,
-                        35.001463
                   ]
             },
             {
@@ -5171,39 +4901,12 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Koshoji Temple",
-                  "text": "A Buddhist temple of the Jodo Shinshu sect located in Kyoto city.",
-                  "category": "religious",
-                  "coords": [
-                        135.752462,
-                        34.989731
-                  ]
-            },
-            {
-                  "name": "Byodoji",
-                  "text": "A Buddhist temple in Kyoto, also known as Inaba-do.",
-                  "category": "religious",
-                  "coords": [
-                        135.76028,
-                        34.999489
-                  ]
-            },
-            {
                   "name": "Shiramine Jingu",
                   "text": "A Shinto shrine in Kyoto known for its connection to sports and ball games.",
                   "category": "religious",
                   "coords": [
                         135.753149,
                         35.030277
-                  ]
-            },
-            {
-                  "name": "Yogen-in",
-                  "text": "A temple in Kyoto famous for its blood-stained ceilings and painted doors.",
-                  "category": "religious",
-                  "coords": [
-                        135.773149,
-                        34.987949
                   ]
             },
             {
@@ -5249,15 +4952,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         135.761291,
                         35.018941
-                  ]
-            },
-            {
-                  "name": "Salvation Army Kyoto Corps",
-                  "text": "A place of worship and community center of the Salvation Army in Kyoto.",
-                  "category": "religious",
-                  "coords": [
-                        135.764741,
-                        35.003149
                   ]
             },
             {
@@ -5930,15 +5624,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Japan Coast Guard Museum Yokohama",
-                  "text": "Ein Museum in Yokohama, das der japanischen Küstenwache gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        139.644252,
-                        35.454282
-                  ]
-            },
-            {
                   "name": "Sogo Museum of Art",
                   "text": "Ein Kunstmuseum im SOGO-Kaufhaus, das wechselnde Ausstellungen zeigt.",
                   "category": "museum",
@@ -5954,15 +5639,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         139.653063,
                         35.437639
-                  ]
-            },
-            {
-                  "name": "NYK Maritime Museum",
-                  "text": "Ein Museum zur Geschichte der Schifffahrt der japanischen Reederei NYK.",
-                  "category": "museum",
-                  "coords": [
-                        139.639421,
-                        35.450362
                   ]
             },
             {
@@ -6029,24 +5705,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Yokohama Doll Museum",
-                  "text": "Ein Museum mit einer umfangreichen Sammlung von Puppen aus aller Welt.",
-                  "category": "museum",
-                  "coords": [
-                        139.652123,
-                        35.443191
-                  ]
-            },
-            {
-                  "name": "Cupnoodles Museum",
-                  "text": "Ein interaktives Museum, das der Erfindung der Instant-Nudeln gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        139.638881,
-                        35.455486
-                  ]
-            },
-            {
                   "name": "Kanagawa Prefectural Museum of Cultural History",
                   "text": "Ein Museum, das sich der Kulturgeschichte der Präfektur Kanagawa widmet.",
                   "category": "museum",
@@ -6110,42 +5768,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Yokohama Red Brick Warehouse",
-                  "text": "Ein historischer Komplex aus roten Backsteingebäuden, der heute Geschäfte und Cafés beherbergt.",
-                  "category": "landmark",
-                  "coords": [
-                        139.642918,
-                        35.452405
-                  ]
-            },
-            {
-                  "name": "Ehrismann Residence",
-                  "text": "Ein elegantes westliches Wohnhaus aus dem Jahr 1927 im Yamate-Viertel.",
-                  "category": "landmark",
-                  "coords": [
-                        139.651292,
-                        35.437581
-                  ]
-            },
-            {
-                  "name": "Yamashita Park",
-                  "text": "Ein berühmter Park am Meer in Yokohama mit Blick auf den Hafen.",
-                  "category": "park",
-                  "coords": [
-                        139.649866,
-                        35.445703
-                  ]
-            },
-            {
-                  "name": "Rinko Park",
-                  "text": "Ein weitläufiger Park direkt am Wasser im Viertel Minato Mirai.",
-                  "category": "park",
-                  "coords": [
-                        139.637002,
-                        35.460893
-                  ]
-            },
-            {
                   "name": "Harbor View Park",
                   "text": "Ein Park auf einem Hügel, der für seinen Panoramablick auf den Hafen bekannt ist.",
                   "category": "park",
@@ -6170,15 +5792,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         139.660325,
                         35.425477
-                  ]
-            },
-            {
-                  "name": "America-yama Park",
-                  "text": "Ein kleiner Park auf dem Dach einer Bahnstation im Yamate-Viertel.",
-                  "category": "park",
-                  "coords": [
-                        139.651656,
-                        35.441304
                   ]
             },
             {
@@ -6227,48 +5840,12 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kanagawa Park",
-                  "text": "Eine städtische Grünanlage in Yokohama, die Raum für Erholung im Freien bietet.",
-                  "category": "park",
-                  "coords": [
-                        139.631452,
-                        35.470464
-                  ]
-            },
-            {
-                  "name": "Silk Museum",
-                  "text": "Dieses Museum in Yokohama widmet sich der Geschichte und Herstellung von Seide.",
-                  "category": "museum",
-                  "coords": [
-                        139.64523,
-                        35.447237
-                  ]
-            },
-            {
-                  "name": "Iwasaki Museum",
-                  "text": "Ein Museum in Yokohama, das Ausstellungen zu lokaler Kunst und Kultur zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        139.653468,
-                        35.439514
-                  ]
-            },
-            {
                   "name": "Kannai Hall",
                   "text": "Ein lokaler Veranstaltungsort in Yokohama für Theateraufführungen und Konzerte.",
                   "category": "cultural",
                   "coords": [
                         139.636258,
                         35.447221
-                  ]
-            },
-            {
-                  "name": "Zou-no-hana Park",
-                  "text": "Ein am Hafen gelegener Park in Yokohama mit Blick auf das Wasser.",
-                  "category": "park",
-                  "coords": [
-                        139.644121,
-                        35.449458
                   ]
             },
             {
@@ -6350,15 +5927,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         139.626136,
                         35.460821
-                  ]
-            },
-            {
-                  "name": "Yokohama Foreign Cemetery Museum",
-                  "text": "Ein Museum am Rande des berühmten Friedhofs, das die Geschichte der hier beigesetzten Ausländer erzählt.",
-                  "category": "museum",
-                  "coords": [
-                        139.652384,
-                        35.439531
                   ]
             },
             {
@@ -6508,15 +6076,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Japan Coast Guard Museum Yokohama",
-                  "text": "A japán parti őrségnek szentelt múzeum Yokohamában.",
-                  "category": "museum",
-                  "coords": [
-                        139.644252,
-                        35.454282
-                  ]
-            },
-            {
                   "name": "Sogo Museum of Art",
                   "text": "A SOGO áruházban található művészeti múzeum időszaki kiállításokkal.",
                   "category": "museum",
@@ -6532,15 +6091,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         139.653063,
                         35.437639
-                  ]
-            },
-            {
-                  "name": "NYK Maritime Museum",
-                  "text": "A japán NYK hajózási társaság történetét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        139.639421,
-                        35.450362
                   ]
             },
             {
@@ -6607,24 +6157,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Yokohama Doll Museum",
-                  "text": "A világ minden tájáról származó babák gazdag gyűjteményét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        139.652123,
-                        35.443191
-                  ]
-            },
-            {
-                  "name": "Cupnoodles Museum",
-                  "text": "Az instant tészta feltalálásának szentelt interaktív múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        139.638881,
-                        35.455486
-                  ]
-            },
-            {
                   "name": "Kanagawa Prefectural Museum of Cultural History",
                   "text": "Kanagawa prefektúra kultúrtörténetét bemutató múzeum.",
                   "category": "museum",
@@ -6688,42 +6220,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Yokohama Red Brick Warehouse",
-                  "text": "Vörös téglás épületekből álló történelmi komplexum, amely ma üzleteknek és kávézóknak ad otthont.",
-                  "category": "landmark",
-                  "coords": [
-                        139.642918,
-                        35.452405
-                  ]
-            },
-            {
-                  "name": "Ehrismann Residence",
-                  "text": "Elegáns nyugati stílusú lakóház 1927-ből a Yamate negyedben.",
-                  "category": "landmark",
-                  "coords": [
-                        139.651292,
-                        35.437581
-                  ]
-            },
-            {
-                  "name": "Yamashita Park",
-                  "text": "Híres tengerparti park Yokohamában, kilátással a kikötőre.",
-                  "category": "park",
-                  "coords": [
-                        139.649866,
-                        35.445703
-                  ]
-            },
-            {
-                  "name": "Rinko Park",
-                  "text": "Tágas vízparti park a Minato Mirai negyedben.",
-                  "category": "park",
-                  "coords": [
-                        139.637002,
-                        35.460893
-                  ]
-            },
-            {
                   "name": "Harbor View Park",
                   "text": "Domboldali park, amely a kikötőre nyíló panorámás kilátásáról ismert.",
                   "category": "park",
@@ -6748,15 +6244,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         139.660325,
                         35.425477
-                  ]
-            },
-            {
-                  "name": "America-yama Park",
-                  "text": "Egy vasútállomás tetején kialakított kis park a Yamate negyedben.",
-                  "category": "park",
-                  "coords": [
-                        139.651656,
-                        35.441304
                   ]
             },
             {
@@ -6805,48 +6292,12 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kanagawa Park",
-                  "text": "Városi zöldterület Jokohamában, amely kikapcsolódási lehetőséget nyújt a szabadban.",
-                  "category": "park",
-                  "coords": [
-                        139.631452,
-                        35.470464
-                  ]
-            },
-            {
-                  "name": "Silk Museum",
-                  "text": "Ez a jokohamai múzeum a selyem történetének és gyártásának van szentelve.",
-                  "category": "museum",
-                  "coords": [
-                        139.64523,
-                        35.447237
-                  ]
-            },
-            {
-                  "name": "Iwasaki Museum",
-                  "text": "Múzeum Jokohamában, amely helyi művészeti és kulturális kiállításokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        139.653468,
-                        35.439514
-                  ]
-            },
-            {
                   "name": "Kannai Hall",
                   "text": "Helyi rendezvényhelyszín Jokohamában színházi előadásokhoz és koncertekhez.",
                   "category": "cultural",
                   "coords": [
                         139.636258,
                         35.447221
-                  ]
-            },
-            {
-                  "name": "Zou-no-hana Park",
-                  "text": "Kikötő menti park Jokohamában, kilátással a vízpartra.",
-                  "category": "park",
-                  "coords": [
-                        139.644121,
-                        35.449458
                   ]
             },
             {
@@ -7086,15 +6537,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Japan Coast Guard Museum Yokohama",
-                  "text": "Un muzeu din Yokohama dedicat Gărzii de Coastă a Japoniei.",
-                  "category": "museum",
-                  "coords": [
-                        139.644252,
-                        35.454282
-                  ]
-            },
-            {
                   "name": "Sogo Museum of Art",
                   "text": "Un muzeu de artă situat în magazinul SOGO, care găzduiește expoziții temporare.",
                   "category": "museum",
@@ -7110,15 +6552,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         139.653063,
                         35.437639
-                  ]
-            },
-            {
-                  "name": "NYK Maritime Museum",
-                  "text": "Un muzeu dedicat istoriei navigației liniei maritime japoneze NYK.",
-                  "category": "museum",
-                  "coords": [
-                        139.639421,
-                        35.450362
                   ]
             },
             {
@@ -7185,24 +6618,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Yokohama Doll Museum",
-                  "text": "Un muzeu care găzduiește o colecție vastă de păpuși din întreaga lume.",
-                  "category": "museum",
-                  "coords": [
-                        139.652123,
-                        35.443191
-                  ]
-            },
-            {
-                  "name": "Cupnoodles Museum",
-                  "text": "Un muzeu interactiv dedicat invenției tăițeilor instanți.",
-                  "category": "museum",
-                  "coords": [
-                        139.638881,
-                        35.455486
-                  ]
-            },
-            {
                   "name": "Kanagawa Prefectural Museum of Cultural History",
                   "text": "Un muzeu dedicat istoriei culturale a prefecturii Kanagawa.",
                   "category": "museum",
@@ -7266,42 +6681,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Yokohama Red Brick Warehouse",
-                  "text": "Un complex istoric de clădiri din cărămidă roșie, care astăzi găzduiește magazine și cafenele.",
-                  "category": "landmark",
-                  "coords": [
-                        139.642918,
-                        35.452405
-                  ]
-            },
-            {
-                  "name": "Ehrismann Residence",
-                  "text": "O reședință elegantă în stil occidental din 1927, situată în cartierul Yamate.",
-                  "category": "landmark",
-                  "coords": [
-                        139.651292,
-                        35.437581
-                  ]
-            },
-            {
-                  "name": "Yamashita Park",
-                  "text": "Un parc faimos de pe malul mării din Yokohama, cu vedere la port.",
-                  "category": "park",
-                  "coords": [
-                        139.649866,
-                        35.445703
-                  ]
-            },
-            {
-                  "name": "Rinko Park",
-                  "text": "Un parc spațios situat pe malul apei în districtul Minato Mirai.",
-                  "category": "park",
-                  "coords": [
-                        139.637002,
-                        35.460893
-                  ]
-            },
-            {
                   "name": "Harbor View Park",
                   "text": "Un parc situat pe un deal, cunoscut pentru vederea panoramică asupra portului.",
                   "category": "park",
@@ -7326,15 +6705,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         139.660325,
                         35.425477
-                  ]
-            },
-            {
-                  "name": "America-yama Park",
-                  "text": "Un mic parc situat pe acoperișul unei stații de tren din cartierul Yamate.",
-                  "category": "park",
-                  "coords": [
-                        139.651656,
-                        35.441304
                   ]
             },
             {
@@ -7383,15 +6753,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kanagawa Park",
-                  "text": "Un spațiu verde urban din Yokohama, care oferă loc pentru recreere în aer liber.",
-                  "category": "park",
-                  "coords": [
-                        139.631452,
-                        35.470464
-                  ]
-            },
-            {
                   "name": "Acest muzeu din Yokohama",
                   "text": "Acest muzeu din Yokohama este dedicat istoriei și producției de mătase.",
                   "category": "museum",
@@ -7401,30 +6762,12 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Iwasaki Museum",
-                  "text": "Un muzeu din Yokohama care prezintă expoziții de artă și cultură locală.",
-                  "category": "museum",
-                  "coords": [
-                        139.653468,
-                        35.439514
-                  ]
-            },
-            {
                   "name": "Kannai Hall",
                   "text": "O locație locală din Yokohama pentru spectacole de teatru și concerte.",
                   "category": "cultural",
                   "coords": [
                         139.636258,
                         35.447221
-                  ]
-            },
-            {
-                  "name": "Zou-no-hana Park",
-                  "text": "Un parc situat în portul din Yokohama, cu vedere la malul apei.",
-                  "category": "park",
-                  "coords": [
-                        139.644121,
-                        35.449458
                   ]
             },
             {
@@ -7506,15 +6849,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         139.626136,
                         35.460821
-                  ]
-            },
-            {
-                  "name": "Yokohama Foreign Cemetery Museum",
-                  "text": "Un muzeu situat lângă celebrul cimitir, care spune povestea străinilor înmormântați aici.",
-                  "category": "museum",
-                  "coords": [
-                        139.652384,
-                        35.439531
                   ]
             },
             {
@@ -7664,15 +6998,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Japan Coast Guard Museum YOKOHAMA",
-                  "text": "A museum in Yokohama dedicated to the Japan Coast Guard.",
-                  "category": "museum",
-                  "coords": [
-                        139.644252,
-                        35.454282
-                  ]
-            },
-            {
                   "name": "SOGO Museum of Art",
                   "text": "An art museum located in the SOGO department store featuring temporary exhibitions.",
                   "category": "museum",
@@ -7682,48 +7007,12 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Museum of Tin Toys",
-                  "text": "A museum in Yokohama displaying a large collection of vintage tin toys.",
-                  "category": "museum",
-                  "coords": [
-                        139.653063,
-                        35.437639
-                  ]
-            },
-            {
-                  "name": "NYK Maritime Museum",
-                  "text": "A museum documenting the maritime history of the Japanese shipping line NYK.",
-                  "category": "museum",
-                  "coords": [
-                        139.639421,
-                        35.450362
-                  ]
-            },
-            {
                   "name": "Yokohama Port Museum",
                   "text": "A museum located at the Port of Yokohama dedicated to maritime history.",
                   "category": "museum",
                   "coords": [
                         139.632629,
                         35.452709
-                  ]
-            },
-            {
-                  "name": "Yokohama Museum of EurAsian Cultures",
-                  "text": "A museum exploring the cultural exchange between Europe and Asia.",
-                  "category": "museum",
-                  "coords": [
-                        139.64328,
-                        35.44623
-                  ]
-            },
-            {
-                  "name": "Horse Museum",
-                  "text": "A museum in Yokohama dedicated to the history of horses and equestrianism.",
-                  "category": "museum",
-                  "coords": [
-                        139.639749,
-                        35.422548
                   ]
             },
             {
@@ -7763,39 +7052,12 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "YOKOHAMA DOLL MUSEUM",
-                  "text": "A museum featuring an extensive collection of dolls from around the world.",
-                  "category": "museum",
-                  "coords": [
-                        139.652123,
-                        35.443191
-                  ]
-            },
-            {
-                  "name": "CUPNOODLES MUSEUM",
-                  "text": "An interactive museum dedicated to the invention of instant noodles.",
-                  "category": "museum",
-                  "coords": [
-                        139.638881,
-                        35.455486
-                  ]
-            },
-            {
                   "name": "Kanagawa Prefectural Museum of Cultural History",
                   "text": "A museum dedicated to the cultural history of Kanagawa Prefecture.",
                   "category": "museum",
                   "coords": [
                         139.636229,
                         35.449129
-                  ]
-            },
-            {
-                  "name": "Yokohama Minato Mirai Hall",
-                  "text": "A prominent concert hall in Yokohama, known for its excellent acoustics.",
-                  "category": "cultural",
-                  "coords": [
-                        139.634846,
-                        35.457502
                   ]
             },
             {
@@ -7808,15 +7070,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kantei-byo Kuan Ti Miao",
-                  "text": "A grand Chinese temple located in Yokohama's Chinatown district.",
-                  "category": "religious",
-                  "coords": [
-                        139.645222,
-                        35.442453
-                  ]
-            },
-            {
                   "name": "Naritasan Yokohama Betsuin Enmei- in",
                   "text": "A Buddhist temple in Yokohama, a branch of the famous Naritasan Shinshoji.",
                   "category": "religious",
@@ -7826,57 +7079,12 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Ma Zhu Temple",
-                  "text": "A temple in Yokohama's Chinatown dedicated to the sea goddess Mazu.",
-                  "category": "religious",
-                  "coords": [
-                        139.647713,
-                        35.442119
-                  ]
-            },
-            {
                   "name": "Yokohama Harbor",
                   "text": "The large seaport of Yokohama, one of Japan's most important trading hubs.",
                   "category": "landmark",
                   "coords": [
                         139.64635,
                         35.46143
-                  ]
-            },
-            {
-                  "name": "Yokohama Red Brick Warehouse",
-                  "text": "A historic complex of red brick buildings that now houses shops and cafes.",
-                  "category": "landmark",
-                  "coords": [
-                        139.642918,
-                        35.452405
-                  ]
-            },
-            {
-                  "name": "Ehrismann Residence",
-                  "text": "An elegant Western-style residence from 1927 located in the Yamate district.",
-                  "category": "landmark",
-                  "coords": [
-                        139.651292,
-                        35.437581
-                  ]
-            },
-            {
-                  "name": "Yamashita Park",
-                  "text": "A famous seaside park in Yokohama offering views of the harbor.",
-                  "category": "park",
-                  "coords": [
-                        139.649866,
-                        35.445703
-                  ]
-            },
-            {
-                  "name": "Rinko Park",
-                  "text": "A spacious waterfront park located in the Minato Mirai district.",
-                  "category": "park",
-                  "coords": [
-                        139.637002,
-                        35.460893
                   ]
             },
             {
@@ -7898,39 +7106,12 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Honmokusanchō park",
-                  "text": "A hilltop park offering expansive views over the city of Yokohama.",
-                  "category": "park",
-                  "coords": [
-                        139.660325,
-                        35.425477
-                  ]
-            },
-            {
-                  "name": "America-yama Park",
-                  "text": "A small park built on top of a railway station in the Yamate district.",
-                  "category": "park",
-                  "coords": [
-                        139.651656,
-                        35.441304
-                  ]
-            },
-            {
                   "name": "Yamate Italiayama Garden",
                   "text": "A beautifully landscaped Western-style garden on the Yamate hill.",
                   "category": "park",
                   "coords": [
                         139.643592,
                         35.436846
-                  ]
-            },
-            {
-                  "name": "Takashima Suisaisen Park",
-                  "text": "A modern waterfront park in the Takashima district of Yokohama.",
-                  "category": "park",
-                  "coords": [
-                        139.629896,
-                        35.465221
                   ]
             },
             {
@@ -7961,48 +7142,12 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kanagawa Park",
-                  "text": "An urban green space in Yokohama providing room for outdoor recreation.",
-                  "category": "park",
-                  "coords": [
-                        139.631452,
-                        35.470464
-                  ]
-            },
-            {
-                  "name": "Silk Museum",
-                  "text": "This museum in Yokohama is dedicated to the history and production of silk.",
-                  "category": "museum",
-                  "coords": [
-                        139.64523,
-                        35.447237
-                  ]
-            },
-            {
-                  "name": "Iwasaki Museum",
-                  "text": "A museum in Yokohama featuring exhibitions on local art and culture.",
-                  "category": "museum",
-                  "coords": [
-                        139.653468,
-                        35.439514
-                  ]
-            },
-            {
                   "name": "Kannak hall",
                   "text": "A local venue in Yokohama for theatrical performances and concerts.",
                   "category": "cultural",
                   "coords": [
                         139.636258,
                         35.447221
-                  ]
-            },
-            {
-                  "name": "Zou-no-hana Park",
-                  "text": "A waterfront park in Yokohama offering views of the harbor.",
-                  "category": "park",
-                  "coords": [
-                        139.644121,
-                        35.449458
                   ]
             },
             {
@@ -8024,30 +7169,12 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Japanese Overseas Migration Museum",
-                  "text": "The 海外移住資料館 in Yokohama tells the moving history of Japanese overseas emigration. This museum serves as an important archive for documents and memorabilia of migrants. Those interested can trace the diverse paths and experiences of the emigrants here.",
-                  "category": "museum",
-                  "coords": [
-                        139.640573,
-                        35.454579
-                  ]
-            },
-            {
                   "name": "Kanagawa Prefectural Buried Cultural Properties Center",
                   "text": "A research center and museum for archaeological findings of Kanagawa Prefecture.",
                   "category": "museum",
                   "coords": [
                         139.627603,
                         35.433171
-                  ]
-            },
-            {
-                  "name": "Makuzu ware Museum",
-                  "text": "A museum dedicated to traditional Makuzu pottery.",
-                  "category": "museum",
-                  "coords": [
-                        139.629785,
-                        35.468081
                   ]
             },
             {
@@ -8084,15 +7211,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         139.626136,
                         35.460821
-                  ]
-            },
-            {
-                  "name": "Yokohama Foreign Cemetery Museum",
-                  "text": "A museum next to the famous cemetery telling the story of foreigners buried here.",
-                  "category": "museum",
-                  "coords": [
-                        139.652384,
-                        35.439531
                   ]
             },
             {
@@ -13409,15 +12527,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hakata Port Tower",
-                  "text": "Ein markanter Aussichtsturm mit Panoramablick über den Hafen von Fukuoka.",
-                  "category": "natural",
-                  "coords": [
-                        130.397661,
-                        33.604304
-                  ]
-            },
-            {
                   "name": "Fukuoka City Zoological and Botanical Garden",
                   "text": "Ein kombinierter Tier- und Pflanzengarten im Herzen von Fukuoka.",
                   "category": "family",
@@ -13912,15 +13021,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         130.416047,
                         33.584154
-                  ]
-            },
-            {
-                  "name": "Hakata Port Tower",
-                  "text": "Jellegzetes kilátótorony Fukuoka kikötőjére nyíló panorámával.",
-                  "category": "natural",
-                  "coords": [
-                        130.397661,
-                        33.604304
                   ]
             },
             {
@@ -14421,15 +13521,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hakata Port Tower",
-                  "text": "Un turn de observație distinctiv cu vedere panoramică asupra portului din Fukuoka.",
-                  "category": "natural",
-                  "coords": [
-                        130.397661,
-                        33.604304
-                  ]
-            },
-            {
                   "name": "Fukuoka City Zoological and Botanical Garden",
                   "text": "O grădină zoologică și botanică situată în inima orașului Fukuoka.",
                   "category": "family",
@@ -14810,15 +13901,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Medical Museum of Kyushu University",
-                  "text": "A museum of Kyushu University showing the evolution of medicine.",
-                  "category": "museum",
-                  "coords": [
-                        130.41648,
-                        33.607502
-                  ]
-            },
-            {
                   "name": "Fukuoka City Hall",
                   "text": "The administrative building of Fukuoka City, located in the busy city center.",
                   "category": "historical",
@@ -14927,15 +14009,6 @@ export const japanCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hakata Port Tower",
-                  "text": "A prominent observation tower offering panoramic views of Hakata Port in Fukuoka.",
-                  "category": "natural",
-                  "coords": [
-                        130.397661,
-                        33.604304
-                  ]
-            },
-            {
                   "name": "Fukuoka Municipal Zoo and Botanical Garden",
                   "text": "A combined animal and plant garden located in the heart of Fukuoka.",
                   "category": "family",
@@ -14960,15 +14033,6 @@ export const japanCities: POI[] = [
                   "coords": [
                         130.38493,
                         33.582811
-                  ]
-            },
-            {
-                  "name": "Hakata Port 60 Years Memoreal",
-                  "text": "A monument in Fukuoka commemorating the 60th anniversary of the port.",
-                  "category": "historical",
-                  "coords": [
-                        130.396546,
-                        33.605173
                   ]
             },
             {

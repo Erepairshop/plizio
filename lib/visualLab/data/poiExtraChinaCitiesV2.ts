@@ -15803,15 +15803,6 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2", "si
                   ]
             },
             {
-                  "name": "China Sculpture Museum",
-                  "text": "Das China-Skulpturenmuseum in Datong ist der chinesischen Bildhauerkunst gewidmet.",
-                  "category": "museum",
-                  "coords": [
-                        113.295258,
-                        40.100936
-                  ]
-            },
-            {
                   "name": "Diese Einrichtung",
                   "text": "Diese Einrichtung in Datong ist ein Museum mit regionalen Exponaten.",
                   "category": "museum",
@@ -15866,15 +15857,6 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2", "si
                   ]
             },
             {
-                  "name": "Dai Wangfu",
-                  "text": "Dai Wangfu, die historische Residenz von Prinz Dai in Datong.",
-                  "category": "landmark",
-                  "coords": [
-                        113.297404,
-                        40.094691
-                  ]
-            },
-            {
                   "name": "Dieses Landschaftsgebiet",
                   "text": "Ein landschaftlich reizvolles Gebiet in Datong mit Naturlandschaften und Aussichtspunkten.",
                   "category": "landmark",
@@ -15890,15 +15872,6 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2", "si
                   "coords": [
                         113.285834,
                         40.091333
-                  ]
-            },
-            {
-                  "name": "Trommelturm",
-                  "text": "Ein denkmalgeschützter Trommelturm (Klasse 2) in Datong aus der Ming-Dynastie.",
-                  "category": "landmark",
-                  "coords": [
-                        113.295246,
-                        40.090296
                   ]
             },
             {
@@ -16003,15 +15976,6 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2", "si
                   ]
             },
             {
-                  "name": "Dai Wangfu",
-                  "text": "Dai Wangfu, Dai herceg történelmi rezidenciája Datongban.",
-                  "category": "landmark",
-                  "coords": [
-                        113.297404,
-                        40.094691
-                  ]
-            },
-            {
                   "name": "Nine Dragon Wall",
                   "text": "Egy festői terület Datongban, természeti tájakkal és kilátópontokkal.",
                   "category": "landmark",
@@ -16077,15 +16041,6 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2", "si
                   ]
             },
             {
-                  "name": "China Sculpture Museum",
-                  "text": "Muzeul de Sculptură Chinezesc din Datong este dedicat artei sculpturii chinezești.",
-                  "category": "museum",
-                  "coords": [
-                        113.295258,
-                        40.100936
-                  ]
-            },
-            {
                   "name": "Această instituție",
                   "text": "Această facilitate din Datong este un muzeu cu exponate regionale.",
                   "category": "museum",
@@ -16137,15 +16092,6 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2", "si
                   "coords": [
                         113.281894,
                         40.079924
-                  ]
-            },
-            {
-                  "name": "Dai Wangfu",
-                  "text": "Dai Wangfu, reședința istorică a Prințului Dai din Datong.",
-                  "category": "landmark",
-                  "coords": [
-                        113.297404,
-                        40.094691
                   ]
             },
             {
@@ -16214,15 +16160,6 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2", "si
                   ]
             },
             {
-                  "name": "China Sculpture Museum",
-                  "text": "China Sculpture Museum in Datong is dedicated to Chinese sculpture art.",
-                  "category": "museum",
-                  "coords": [
-                        113.295258,
-                        40.100936
-                  ]
-            },
-            {
                   "name": "This facility",
                   "text": "This facility in Datong is a museum with regional exhibits.",
                   "category": "museum",
@@ -16277,15 +16214,6 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2", "si
                   ]
             },
             {
-                  "name": "Dai Wangfu",
-                  "text": "Dai Wangfu, the historic residence of Prince Dai in Datong.",
-                  "category": "landmark",
-                  "coords": [
-                        113.297404,
-                        40.094691
-                  ]
-            },
-            {
                   "name": "This scenic area",
                   "text": "A scenic area in Datong featuring natural landscapes and viewpoints.",
                   "category": "landmark",
@@ -16304,39 +16232,12 @@ export const poiExtraChinaCitiesV2: POI[] = [   {     id: "jinan-cities-v2", "si
                   ]
             },
             {
-                  "name": "Drum Tower",
-                  "text": "A heritage-listed (class 2) drum tower in Datong, dating from the Ming dynasty.",
-                  "category": "landmark",
-                  "coords": [
-                        113.295246,
-                        40.090296
-                  ]
-            },
-            {
                   "name": "This Guandi Temple",
                   "text": "This Guandi Temple is a notable place of worship dedicated to Guan Yu in Datong.",
                   "category": "religious",
                   "coords": [
                         113.298692,
                         40.090707
-                  ]
-            },
-            {
-                  "name": "Huayan Temple",
-                  "text": "Huayan Temple is an important Buddhist heritage site and ancient architectural complex in Datong.",
-                  "category": "landmark",
-                  "coords": [
-                        113.28804,
-                        40.091335
-                  ]
-            },
-            {
-                  "name": "Shanhua Temple",
-                  "text": "Shanhua Temple is a well-preserved ancient heritage site and Buddhist temple in Datong.",
-                  "category": "landmark",
-                  "coords": [
-                        113.293242,
-                        40.086044
                   ]
             }
       ]

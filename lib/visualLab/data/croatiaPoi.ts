@@ -519,15 +519,6 @@ export const croatiaAllPoi = [
     id: "hr-split", "sights": {
       "de": [
             {
-                  "name": "Mistral Beach Club",
-                  "text": "Ein Strandresort in Split, das Entspannung und Schwimmen am Meer ermöglicht.",
-                  "category": "family",
-                  "coords": [
-                        16.470118,
-                        43.501505
-                  ]
-            },
-            {
                   "name": "Zoološki vrt Split",
                   "text": "Ein Zoo in Split, ideal für einen Familienausflug, um verschiedene Tiere zu sehen.",
                   "category": "family",
@@ -601,15 +592,6 @@ export const croatiaAllPoi = [
             }
       ],
       "hu": [
-            {
-                  "name": "Mistral Beach Club",
-                  "text": "Spliti strandüdülő, amely kikapcsolódást és úszást kínál a tengerparton.",
-                  "category": "family",
-                  "coords": [
-                        16.470118,
-                        43.501505
-                  ]
-            },
             {
                   "name": "Zoološki vrt Split",
                   "text": "Spliti állatkert, amely ideális egy családi kiránduláshoz és állatok megtekintéséhez.",
@@ -685,15 +667,6 @@ export const croatiaAllPoi = [
       ],
       "ro": [
             {
-                  "name": "Mistral Beach Club",
-                  "text": "O stațiune de plajă din Split care oferă relaxare și înot la malul mării.",
-                  "category": "family",
-                  "coords": [
-                        16.470118,
-                        43.501505
-                  ]
-            },
-            {
                   "name": "Zoološki vrt Split",
                   "text": "O grădină zoologică din Split, ideală pentru o excursie în familie pentru a vedea diverse animale.",
                   "category": "family",
@@ -767,15 +740,6 @@ export const croatiaAllPoi = [
             }
       ],
       "en": [
-            {
-                  "name": "Mistral Beach Club",
-                  "text": "A beach resort in Split offering relaxation and swimming by the sea.",
-                  "category": "family",
-                  "coords": [
-                        16.470118,
-                        43.501505
-                  ]
-            },
             {
                   "name": "Split Zoo",
                   "text": "A zoo in Split, ideal for a family outing to see various animals.",
@@ -934,57 +898,12 @@ export const croatiaAllPoi = [
                   ]
             },
             {
-                  "name": "Plaža President",
-                  "text": "Ein Strandresort an der Küste von Dubrovnik.",
-                  "category": "family",
-                  "coords": [
-                        18.057989,
-                        42.662282
-                  ]
-            },
-            {
-                  "name": "Copacabana",
-                  "text": "Ein bekanntes Strandresort zum Schwimmen in Dubrovnik.",
-                  "category": "family",
-                  "coords": [
-                        18.065123,
-                        42.664028
-                  ]
-            },
-            {
-                  "name": "Coral Beach",
-                  "text": "Ein Strandresort für erholsame Stunden in Dubrovnik.",
-                  "category": "family",
-                  "coords": [
-                        18.06196,
-                        42.664053
-                  ]
-            },
-            {
-                  "name": "Kazaliste Marina Drzica",
-                  "text": "Stadttheater von Dubrovnik, benannt nach dem Renaissance-Dramatiker Marin Držić.",
-                  "category": "cultural",
-                  "coords": [
-                        18.110906,
-                        42.640513
-                  ]
-            },
-            {
                   "name": "Homeland War Museum",
                   "text": "Museum des kroatischen Unabhängigkeitskrieges in der Festung Imperial auf dem Berg Srđ.",
                   "category": "museum",
                   "coords": [
                         18.110608,
                         42.649936
-                  ]
-            },
-            {
-                  "name": "Utvrda Strincjera",
-                  "text": "Ruinen der österreichisch-ungarischen Festung Strinćjera bei Dubrovnik.",
-                  "category": "castle",
-                  "coords": [
-                        18.104197,
-                        42.659867
                   ]
             },
             {
@@ -1003,15 +922,6 @@ export const croatiaAllPoi = [
                   "coords": [
                         18.09226,
                         42.646287
-                  ]
-            },
-            {
-                  "name": "War Photo Limited",
-                  "text": "Museum für zeitgenössische Kriegsfotografie in der Altstadt von Dubrovnik.",
-                  "category": "museum",
-                  "coords": [
-                        18.108726,
-                        42.641662
                   ]
             },
             {
@@ -1035,57 +945,12 @@ export const croatiaAllPoi = [
                   ]
             },
             {
-                  "name": "Plaža President",
-                  "text": "Strandüdülő Dubrovnik tengerpartján.",
-                  "category": "family",
-                  "coords": [
-                        18.057989,
-                        42.662282
-                  ]
-            },
-            {
-                  "name": "Copacabana",
-                  "text": "Ismert strandüdülő úszáshoz Dubrovnikban.",
-                  "category": "family",
-                  "coords": [
-                        18.065123,
-                        42.664028
-                  ]
-            },
-            {
-                  "name": "Coral Beach",
-                  "text": "Strandüdülő a pihentető órákhoz Dubrovnikban.",
-                  "category": "family",
-                  "coords": [
-                        18.06196,
-                        42.664053
-                  ]
-            },
-            {
-                  "name": "Kazaliste Marina Drzica",
-                  "text": "Dubrovnik városi színháza, amely Marin Držić reneszánsz drámaíró nevét viseli.",
-                  "category": "cultural",
-                  "coords": [
-                        18.110906,
-                        42.640513
-                  ]
-            },
-            {
                   "name": "Homeland War Museum",
                   "text": "A horvát függetlenségi háború múzeuma az Imperial erődben, a Srđ-hegyen.",
                   "category": "museum",
                   "coords": [
                         18.110608,
                         42.649936
-                  ]
-            },
-            {
-                  "name": "Utvrda Strincjera",
-                  "text": "Az osztrák-magyar Strinćjera erőd romjai Dubrovnik közelében.",
-                  "category": "castle",
-                  "coords": [
-                        18.104197,
-                        42.659867
                   ]
             },
             {
@@ -1104,15 +969,6 @@ export const croatiaAllPoi = [
                   "coords": [
                         18.09226,
                         42.646287
-                  ]
-            },
-            {
-                  "name": "War Photo Limited",
-                  "text": "Kortárs háborús fotográfiai múzeum Dubrovnik óvárosában.",
-                  "category": "museum",
-                  "coords": [
-                        18.108726,
-                        42.641662
                   ]
             },
             {
@@ -1136,57 +992,12 @@ export const croatiaAllPoi = [
                   ]
             },
             {
-                  "name": "Plaža President",
-                  "text": "O stațiune de plajă pe coasta orașului Dubrovnik.",
-                  "category": "family",
-                  "coords": [
-                        18.057989,
-                        42.662282
-                  ]
-            },
-            {
-                  "name": "Copacabana",
-                  "text": "O stațiune de plajă cunoscută pentru înot în Dubrovnik.",
-                  "category": "family",
-                  "coords": [
-                        18.065123,
-                        42.664028
-                  ]
-            },
-            {
-                  "name": "Coral Beach",
-                  "text": "O stațiune de plajă pentru ore de relaxare în Dubrovnik.",
-                  "category": "family",
-                  "coords": [
-                        18.06196,
-                        42.664053
-                  ]
-            },
-            {
-                  "name": "Kazaliste Marina Drzica",
-                  "text": "Teatrul orășenesc din Dubrovnik, numit după dramaturgul renascentist Marin Držić.",
-                  "category": "cultural",
-                  "coords": [
-                        18.110906,
-                        42.640513
-                  ]
-            },
-            {
                   "name": "Homeland War Museum",
                   "text": "Muzeul Războiului de Independență al Croației în fortăreața Imperial de pe muntele Srđ.",
                   "category": "museum",
                   "coords": [
                         18.110608,
                         42.649936
-                  ]
-            },
-            {
-                  "name": "Utvrda Strincjera",
-                  "text": "Ruinele fortăreței austro-ungare Strinćjera de lângă Dubrovnik.",
-                  "category": "castle",
-                  "coords": [
-                        18.104197,
-                        42.659867
                   ]
             },
             {
@@ -1205,15 +1016,6 @@ export const croatiaAllPoi = [
                   "coords": [
                         18.09226,
                         42.646287
-                  ]
-            },
-            {
-                  "name": "War Photo Limited",
-                  "text": "Muzeu de fotografie de război contemporană în centrul vechi al Dubrovnikului.",
-                  "category": "museum",
-                  "coords": [
-                        18.108726,
-                        42.641662
                   ]
             },
             {
@@ -1237,57 +1039,12 @@ export const croatiaAllPoi = [
                   ]
             },
             {
-                  "name": "President Beach",
-                  "text": "A beach resort on the coast of Dubrovnik.",
-                  "category": "family",
-                  "coords": [
-                        18.057989,
-                        42.662282
-                  ]
-            },
-            {
-                  "name": "Copacabana",
-                  "text": "A well-known beach resort for swimming in Dubrovnik.",
-                  "category": "family",
-                  "coords": [
-                        18.065123,
-                        42.664028
-                  ]
-            },
-            {
-                  "name": "Coral Beach",
-                  "text": "A beach resort for relaxing hours in Dubrovnik.",
-                  "category": "family",
-                  "coords": [
-                        18.06196,
-                        42.664053
-                  ]
-            },
-            {
-                  "name": "Kazaliste Marina Drzica",
-                  "text": "Dubrovnik's city theatre, named after the Renaissance playwright Marin Držić.",
-                  "category": "cultural",
-                  "coords": [
-                        18.110906,
-                        42.640513
-                  ]
-            },
-            {
                   "name": "Homeland War Museum",
                   "text": "Museum of the Croatian War of Independence in the Imperial fortress on Mount Srđ.",
                   "category": "museum",
                   "coords": [
                         18.110608,
                         42.649936
-                  ]
-            },
-            {
-                  "name": "Utvrda Strincjera",
-                  "text": "Ruins of the Austro-Hungarian fortress Strinćjera near Dubrovnik.",
-                  "category": "castle",
-                  "coords": [
-                        18.104197,
-                        42.659867
                   ]
             },
             {
@@ -1306,15 +1063,6 @@ export const croatiaAllPoi = [
                   "coords": [
                         18.09226,
                         42.646287
-                  ]
-            },
-            {
-                  "name": "War Photo Limited",
-                  "text": "Museum of contemporary war photography in Dubrovnik's old town.",
-                  "category": "museum",
-                  "coords": [
-                        18.108726,
-                        42.641662
                   ]
             },
             {
@@ -1813,30 +1561,12 @@ export const croatiaAllPoi = [
     id: "city-rijeka", "sights": {
       "de": [
             {
-                  "name": "Hotel Park",
-                  "text": "Dieses Strandresort in Rijeka bietet einen Platz zum Sonnenbaden und Schwimmen.",
-                  "category": "family",
-                  "coords": [
-                        14.467738,
-                        45.315838
-                  ]
-            },
-            {
                   "name": "Grčevo",
                   "text": "Dieses Strandresort in Rijeka bietet einen Platz zum Sonnenbaden und Schwimmen.",
                   "category": "family",
                   "coords": [
                         14.473916,
                         45.312125
-                  ]
-            },
-            {
-                  "name": "Križić",
-                  "text": "Dieses Strandresort in Rijeka bietet einen Platz zum Sonnenbaden und Schwimmen.",
-                  "category": "family",
-                  "coords": [
-                        14.463047,
-                        45.319178
                   ]
             },
             {
@@ -1885,15 +1615,6 @@ export const croatiaAllPoi = [
                   ]
             },
             {
-                  "name": "Svjetionik Mlaka",
-                  "text": "Ein historischer Leuchtturm im Stadtteil Mlaka von Rijeka.",
-                  "category": "landmark",
-                  "coords": [
-                        14.420243,
-                        45.333699
-                  ]
-            },
-            {
                   "name": "Riječki arhiv",
                   "text": "Eine Institution in Rijeka, die wichtige historische Dokumente und Aufzeichnungen bewahrt.",
                   "category": "museum",
@@ -1905,30 +1626,12 @@ export const croatiaAllPoi = [
       ],
       "hu": [
             {
-                  "name": "Hotel Park",
-                  "text": "Ez a fiumei strandüdülőhely napozásra és úszásra kínál lehetőséget.",
-                  "category": "family",
-                  "coords": [
-                        14.467738,
-                        45.315838
-                  ]
-            },
-            {
                   "name": "Grčevo",
                   "text": "Ez a fiumei strandüdülőhely napozásra és úszásra kínál lehetőséget.",
                   "category": "family",
                   "coords": [
                         14.473916,
                         45.312125
-                  ]
-            },
-            {
-                  "name": "Križić",
-                  "text": "Ez a fiumei strandüdülőhely napozásra és úszásra kínál lehetőséget.",
-                  "category": "family",
-                  "coords": [
-                        14.463047,
-                        45.319178
                   ]
             },
             {
@@ -1977,15 +1680,6 @@ export const croatiaAllPoi = [
                   ]
             },
             {
-                  "name": "Svjetionik Mlaka",
-                  "text": "Történelmi világítótorony Fiume Mlaka negyedében.",
-                  "category": "landmark",
-                  "coords": [
-                        14.420243,
-                        45.333699
-                  ]
-            },
-            {
                   "name": "Riječki arhiv",
                   "text": "Fiumei intézmény, amely fontos történelmi dokumentumokat és feljegyzéseket őriz.",
                   "category": "museum",
@@ -1997,30 +1691,12 @@ export const croatiaAllPoi = [
       ],
       "ro": [
             {
-                  "name": "Hotel Park",
-                  "text": "Această stațiune de plajă din Rijeka oferă un loc pentru plajă și înot.",
-                  "category": "family",
-                  "coords": [
-                        14.467738,
-                        45.315838
-                  ]
-            },
-            {
                   "name": "Grčevo",
                   "text": "Această stațiune de plajă din Rijeka oferă un loc pentru plajă și înot.",
                   "category": "family",
                   "coords": [
                         14.473916,
                         45.312125
-                  ]
-            },
-            {
-                  "name": "Križić",
-                  "text": "Această stațiune de plajă din Rijeka oferă un loc pentru plajă și înot.",
-                  "category": "family",
-                  "coords": [
-                        14.463047,
-                        45.319178
                   ]
             },
             {
@@ -2069,15 +1745,6 @@ export const croatiaAllPoi = [
                   ]
             },
             {
-                  "name": "Svjetionik Mlaka",
-                  "text": "Un far istoric situat în cartierul Mlaka din Rijeka.",
-                  "category": "landmark",
-                  "coords": [
-                        14.420243,
-                        45.333699
-                  ]
-            },
-            {
                   "name": "Riječki arhiv",
                   "text": "O instituție din Rijeka ce păstrează documente și înregistrări istorice importante.",
                   "category": "museum",
@@ -2089,30 +1756,12 @@ export const croatiaAllPoi = [
       ],
       "en": [
             {
-                  "name": "Hotel Park",
-                  "text": "This beach resort in Rijeka offers a place for sunbathing and swimming.",
-                  "category": "family",
-                  "coords": [
-                        14.467738,
-                        45.315838
-                  ]
-            },
-            {
                   "name": "Grčevo",
                   "text": "This beach resort in Rijeka offers a place for sunbathing and swimming.",
                   "category": "family",
                   "coords": [
                         14.473916,
                         45.312125
-                  ]
-            },
-            {
-                  "name": "Križić",
-                  "text": "This beach resort in Rijeka offers a place for sunbathing and swimming.",
-                  "category": "family",
-                  "coords": [
-                        14.463047,
-                        45.319178
                   ]
             },
             {
@@ -2158,15 +1807,6 @@ export const croatiaAllPoi = [
                   "coords": [
                         14.444736,
                         45.324365
-                  ]
-            },
-            {
-                  "name": "Svjetionik Mlaka",
-                  "text": "A historical lighthouse located in the Mlaka district of Rijeka.",
-                  "category": "landmark",
-                  "coords": [
-                        14.420243,
-                        45.333699
                   ]
             },
             {

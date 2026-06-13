@@ -24,15 +24,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fine Art Museum",
-                  "text": "Ein Museum, das eine Sammlung nordkoreanischer Gemälde und Skulpturen lokaler Künstler aus der Hafenstadt ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        129.797803,
-                        41.788257
-                  ]
-            },
-            {
                   "name": "Sunam Market",
                   "text": "Ein geschäftiger lokaler Marktplatz, auf dem die Bewohner von Chongjin frische Waren und Haushaltsgüter handeln.",
                   "category": "cultural",
@@ -77,15 +68,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
                   "coords": [
                         129.793758,
                         41.788097
-                  ]
-            },
-            {
-                  "name": "Fine Art Museum",
-                  "text": "Múzeum, amely észak-koreai festményekből és helyi művészek szobraiból álló gyűjteményt mutat be a kikötővárosban.",
-                  "category": "museum",
-                  "coords": [
-                        129.797803,
-                        41.788257
                   ]
             },
             {
@@ -136,15 +118,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fine Art Museum",
-                  "text": "Un muzeu care expune o colecție de picturi și sculpturi nord-coreene ale artiștilor locali din orașul portuar.",
-                  "category": "museum",
-                  "coords": [
-                        129.797803,
-                        41.788257
-                  ]
-            },
-            {
                   "name": "Sunam Market",
                   "text": "O piață locală plină de viață, unde locuitorii din Chongjin comercializează produse proaspete și articole de uz casnic.",
                   "category": "cultural",
@@ -189,15 +162,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
                   "coords": [
                         129.793758,
                         41.788097
-                  ]
-            },
-            {
-                  "name": "Fine Art Museum",
-                  "text": "A museum displaying a collection of North Korean paintings and sculptures by local artists from the port city.",
-                  "category": "museum",
-                  "coords": [
-                        129.797803,
-                        41.788257
                   ]
             },
             {
@@ -501,15 +465,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
     id: "rason-port-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Art Gallery",
-                  "text": "Dieses städtische Museum zeigt eine kuratierte Sammlung regionaler Kunst und kultureller Artefakte aus der Hafenstadt Rason.",
-                  "category": "museum",
-                  "coords": [
-                        130.296132,
-                        42.250387
-                  ]
-            },
-            {
                   "name": "Changpyeong Market",
                   "text": "Der Changpyeong-Markt ist ein geschäftiger Handelsknotenpunkt, an dem die Einheimischen frische Produkte und Dinge des täglichen Bedarfs kaufen.",
                   "category": "cultural",
@@ -529,15 +484,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Art Gallery",
-                  "text": "Ez a városi múzeum a rasoni kikötőváros regionális művészeti és kulturális tárgyainak válogatott gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        130.296132,
-                        42.250387
-                  ]
-            },
             {
                   "name": "Changpyeong Market",
                   "text": "A Csangpjong piac egy nyüzsgő kereskedelmi központ, ahol a helyiek összegyűlnek, hogy friss termékeket és napi szükségleti cikkeket vásároljanak.",
@@ -559,15 +505,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Art Gallery",
-                  "text": "Acest muzeu municipal expune o colecție curatoriată de artă regională și artefacte culturale din orașul-port Rason.",
-                  "category": "museum",
-                  "coords": [
-                        130.296132,
-                        42.250387
-                  ]
-            },
-            {
                   "name": "Changpyeong Market",
                   "text": "Piața Changpyeong este un centru comercial plin de viață unde localnicii se adună pentru a cumpăra produse proaspete și necesități zilnice.",
                   "category": "cultural",
@@ -587,15 +524,6 @@ export const poiExtraNorthkoreaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Art Gallery",
-                  "text": "This municipal museum exhibits a curated collection of regional art and cultural artifacts from the port city of Rason.",
-                  "category": "museum",
-                  "coords": [
-                        130.296132,
-                        42.250387
-                  ]
-            },
             {
                   "name": "Changpyeong Market",
                   "text": "Changpyeong Market is a bustling trading hub where locals gather to buy fresh produce and daily necessities.",
@@ -1579,24 +1507,6 @@ image: "/poi-images/taean-heavy-machine-complex-economic-v2.webp",
     id: "ryongsong-machine-complex-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Tower of Immortality",
-                  "text": "Ein schlanker Obelisk aus weißem Stein, der die ewige Führung der Staatsgründer im Industrieviertel Ryongsong symbolisiert.",
-                  "category": "historical",
-                  "coords": [
-                        127.513088,
-                        39.909027
-                  ]
-            },
-            {
-                  "name": "Sonhwa Hall",
-                  "text": "Diese traditionelle Halle aus der Joseon-Dynastie diente einst als Büro des Provinzgouverneurs.",
-                  "category": "landmark",
-                  "coords": [
-                        127.523867,
-                        39.914031
-                  ]
-            },
-            {
                   "name": "Hamhung Grand Theatre",
                   "text": "Das 1984 eröffnete monumentale Gebäude ist mit rund 2500 Sitzplätzen eines der größten Theater des Landes.",
                   "category": "cultural",
@@ -1607,24 +1517,6 @@ image: "/poi-images/taean-heavy-machine-complex-economic-v2.webp",
             }
       ],
       "hu": [
-            {
-                  "name": "Tower of Immortality",
-                  "text": "Karcsú, fehér kőből készült obeliszk, amely az államalapítók örök vezetését jelképezi a Rjongszong ipari negyedben.",
-                  "category": "historical",
-                  "coords": [
-                        127.513088,
-                        39.909027
-                  ]
-            },
-            {
-                  "name": "Sonhwa Hall",
-                  "text": "Ez a Csoszon-kori hagyományos csarnok egykor a tartományi kormányzó hivatalaként szolgált.",
-                  "category": "landmark",
-                  "coords": [
-                        127.523867,
-                        39.914031
-                  ]
-            },
             {
                   "name": "Hamhung Grand Theatre",
                   "text": "Az 1984-ben megnyitott monumentális épület mintegy 2500 férőhelyével az ország egyik legnagyobb színháza.",
@@ -1637,24 +1529,6 @@ image: "/poi-images/taean-heavy-machine-complex-economic-v2.webp",
       ],
       "ro": [
             {
-                  "name": "Tower of Immortality",
-                  "text": "Un obelisc zvelt din piatră albă, simbolizând conducerea eternă a fondatorilor statului în districtul industrial Ryongsong.",
-                  "category": "historical",
-                  "coords": [
-                        127.513088,
-                        39.909027
-                  ]
-            },
-            {
-                  "name": "Sonhwa Hall",
-                  "text": "Această sală tradițională din dinastia Joseon a servit odinioară drept birou al guvernatorului provincial.",
-                  "category": "landmark",
-                  "coords": [
-                        127.523867,
-                        39.914031
-                  ]
-            },
-            {
                   "name": "Hamhung Grand Theatre",
                   "text": "Această clădire monumentală, deschisă în 1984, este unul dintre cele mai mari teatre din țară, având aproximativ 2500 de locuri.",
                   "category": "cultural",
@@ -1665,24 +1539,6 @@ image: "/poi-images/taean-heavy-machine-complex-economic-v2.webp",
             }
       ],
       "en": [
-            {
-                  "name": "Tower of Immortality",
-                  "text": "A slender white stone obelisk symbolizing the eternal leadership of the state founders in the Ryongsong industrial district.",
-                  "category": "historical",
-                  "coords": [
-                        127.513088,
-                        39.909027
-                  ]
-            },
-            {
-                  "name": "Sonhwa Hall",
-                  "text": "This traditional Joseon-dynasty hall once served as the provincial governor's administrative office.",
-                  "category": "landmark",
-                  "coords": [
-                        127.523867,
-                        39.914031
-                  ]
-            },
             {
                   "name": "Hamhung Grand Theatre",
                   "text": "Opened in 1984, this monumental building is one of the country's largest theaters, seating around 2,500 people.",

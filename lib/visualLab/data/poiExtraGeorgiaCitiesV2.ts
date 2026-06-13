@@ -1177,15 +1177,6 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Batumi Sommertheater",
-                  "text": "Batumi-Sommer-Theater, Freilichtbühne an der Schwarzmeerküste, eröffnet 2013.",
-                  "category": "cultural",
-                  "coords": [
-                        41.632886,
-                        41.653565
-                  ]
-            },
-            {
                   "name": "მემედ აბაშიძის სახლ-მუზეუმი",
                   "text": "Das Memed-Abaschidse-Museum ist ein Museum in Batumi, das dem Leben dieser Persönlichkeit des öffentlichen Lebens gewidmet ist.",
                   "category": "museum",
@@ -1348,39 +1339,12 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kadosh Ceramics",
-                  "text": "Kadosh Ceramics ist ein Kunstzentrum in Batumi, das sich auf Keramikhandwerk konzentriert.",
-                  "category": "cultural",
-                  "coords": [
-                        41.63111,
-                        41.644373
-                  ]
-            },
-            {
-                  "name": "Equator Boat",
-                  "text": "Das Equator Boat ist eine maritime Attraktion, die Sightseeing-Erlebnisse in Batumi bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        41.611469,
-                        41.640336
-                  ]
-            },
-            {
                   "name": "მოცეკვავე შადრევანი",
                   "text": "Der Tanzende Brunnen ist eine beliebte Attraktion in Batumi, die synchronisierte Wasser- und Lichtshows bietet.",
                   "category": "landmark",
                   "coords": [
                         41.613357,
                         41.641462
-                  ]
-            },
-            {
-                  "name": "Zirkus",
-                  "text": "1903 erbautes Zirkusgebäude in Batumi.",
-                  "category": "landmark",
-                  "coords": [
-                        41.637171,
-                        41.649903
                   ]
             },
             {
@@ -1644,24 +1608,6 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
                   "coords": [
                         41.633187,
                         41.642501
-                  ]
-            },
-            {
-                  "name": "Kadosh Ceramics",
-                  "text": "A Kadosh Ceramics egy kerámia kézművességre összpontosító művészeti központ Batumiban.",
-                  "category": "cultural",
-                  "coords": [
-                        41.63111,
-                        41.644373
-                  ]
-            },
-            {
-                  "name": "Equator Boat",
-                  "text": "Az Equator Boat egy tengerészeti látványosság, amely városnéző élményeket kínál Batumiban.",
-                  "category": "landmark",
-                  "coords": [
-                        41.611469,
-                        41.640336
                   ]
             },
             {
@@ -1946,24 +1892,6 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kadosh Ceramics",
-                  "text": "Kadosh Ceramics este un centru de arte din Batumi axat pe meșteșugurile ceramice.",
-                  "category": "cultural",
-                  "coords": [
-                        41.63111,
-                        41.644373
-                  ]
-            },
-            {
-                  "name": "Equator Boat",
-                  "text": "Equator Boat este o atracție maritimă care oferă experiențe turistice în Batumi.",
-                  "category": "landmark",
-                  "coords": [
-                        41.611469,
-                        41.640336
-                  ]
-            },
-            {
                   "name": "მოცეკვავე შადრევანი",
                   "text": "Fântâna Dansatoare este o atracție populară din Batumi, care prezintă spectacole sincronizate de apă și lumină.",
                   "category": "landmark",
@@ -2038,111 +1966,12 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Batumi Drama Theatre after I. Chavchavadze",
-                  "text": "Batumi Drama Theatre, a prominent theatre on the Black Sea, named after Ilia Chavchavadze.",
-                  "category": "cultural",
-                  "coords": [
-                        41.638277,
-                        41.652821
-                  ]
-            },
-            {
-                  "name": "Batumi Dolphinarium",
-                  "text": "Batumi Dolphinarium, one of the largest in the region, with dolphin shows.",
-                  "category": "family",
-                  "coords": [
-                        41.623524,
-                        41.647697
-                  ]
-            },
-            {
                   "name": "Archeological Museum",
                   "text": "The Archeological Museum in Batumi exhibits regional historical artifacts.",
                   "category": "museum",
                   "coords": [
                         41.632142,
                         41.643151
-                  ]
-            },
-            {
-                  "name": "Khariton Akhvlediani Museum",
-                  "text": "The Khariton Akhvlediani Museum, also known as the Adjara State Museum, is a major cultural institution in Batumi.",
-                  "category": "museum",
-                  "coords": [
-                        41.633262,
-                        41.647347
-                  ]
-            },
-            {
-                  "name": "Batumi Summer Theater",
-                  "text": "Batumi Summer Theater, an open-air venue on the Black Sea coast, opened in 2013.",
-                  "category": "cultural",
-                  "coords": [
-                        41.632886,
-                        41.653565
-                  ]
-            },
-            {
-                  "name": "Memed Abashidze Museum",
-                  "text": "The Memed Abashidze Museum is a museum dedicated to the life of the public figure, located in Batumi.",
-                  "category": "museum",
-                  "coords": [
-                        41.639404,
-                        41.652003
-                  ]
-            },
-            {
-                  "name": "Ilia Chavchavadze Museum",
-                  "text": "This museum in Batumi is dedicated to the legacy of the prominent Georgian figure Ilia Chavchavadze.",
-                  "category": "museum",
-                  "coords": [
-                        41.621958,
-                        41.645552
-                  ]
-            },
-            {
-                  "name": "Batumi Aquarium",
-                  "text": "Aquarium in Batumi showcasing Black Sea marine life.",
-                  "category": "museum",
-                  "coords": [
-                        41.622563,
-                        41.647351
-                  ]
-            },
-            {
-                  "name": "Batumi Central Park",
-                  "text": "Batumi Central Park is a popular recreational area and theme park situated in the heart of Batumi.",
-                  "category": "family",
-                  "coords": [
-                        41.62905,
-                        41.647203
-                  ]
-            },
-            {
-                  "name": "Batumi Park",
-                  "text": "City park in Batumi with fountains and greenery along the seaside boulevard.",
-                  "category": "family",
-                  "coords": [
-                        41.604409,
-                        41.633758
-                  ]
-            },
-            {
-                  "name": "Batumi Zoo",
-                  "text": "The Batumi Zoo is a zoological park featuring diverse animal exhibits in Batumi.",
-                  "category": "family",
-                  "coords": [
-                        41.625935,
-                        41.646368
-                  ]
-            },
-            {
-                  "name": "Batumi Bay",
-                  "text": "Batumi Bay, a large bay on the Black Sea, known for its beach promenade.",
-                  "category": "landmark",
-                  "coords": [
-                        41.649942,
-                        41.652601
                   ]
             },
             {
@@ -2161,42 +1990,6 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
                   "coords": [
                         41.641099,
                         41.649591
-                  ]
-            },
-            {
-                  "name": "Alphabetic Tower",
-                  "text": "The Alphabetic Tower is a striking monument in Batumi that celebrates the Georgian alphabet.",
-                  "category": "landmark",
-                  "coords": [
-                        41.63935,
-                        41.655963
-                  ]
-            },
-            {
-                  "name": "Fantasy",
-                  "text": "Fantasy is a uniquely designed former cafe and distinctive architectural attraction in Batumi.",
-                  "category": "landmark",
-                  "coords": [
-                        41.625283,
-                        41.6501
-                  ]
-            },
-            {
-                  "name": "Batumi Lighthouse",
-                  "text": "The Batumi Lighthouse, built in 1882, marks the entrance to Batumi's port.",
-                  "category": "landmark",
-                  "coords": [
-                        41.641073,
-                        41.655899
-                  ]
-            },
-            {
-                  "name": "Astronomical Clock",
-                  "text": "The Astronomical Clock is a beautiful landmark in Batumi that displays astronomical information alongside the time.",
-                  "category": "landmark",
-                  "coords": [
-                        41.637507,
-                        41.651171
                   ]
             },
             {
@@ -2245,84 +2038,12 @@ export const poiExtraGeorgiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kadosh Ceramics",
-                  "text": "Kadosh Ceramics is an arts centre in Batumi focusing on ceramic crafts.",
-                  "category": "cultural",
-                  "coords": [
-                        41.63111,
-                        41.644373
-                  ]
-            },
-            {
-                  "name": "Equator Boat",
-                  "text": "The Equator Boat is a maritime attraction providing sightseeing experiences in Batumi.",
-                  "category": "landmark",
-                  "coords": [
-                        41.611469,
-                        41.640336
-                  ]
-            },
-            {
-                  "name": "Dancing fountain",
-                  "text": "The Dancing Fountain is a popular attraction in Batumi featuring synchronized water and light shows.",
-                  "category": "landmark",
-                  "coords": [
-                        41.613357,
-                        41.641462
-                  ]
-            },
-            {
-                  "name": "Circus",
-                  "text": "Circus building built in 1903 in Batumi.",
-                  "category": "landmark",
-                  "coords": [
-                        41.637171,
-                        41.649903
-                  ]
-            },
-            {
-                  "name": "Apollo",
-                  "text": "Apollo is a notable historic cinema and attraction situated in Batumi.",
-                  "category": "landmark",
-                  "coords": [
-                        41.638464,
-                        41.651423
-                  ]
-            },
-            {
-                  "name": "The Catholic Church of the Holy Spirit",
-                  "text": "Catholic Church of the Holy Spirit built in 1999 in Batumi.",
-                  "category": "religious",
-                  "coords": [
-                        41.649864,
-                        41.645706
-                  ]
-            },
-            {
-                  "name": "Batumi Cental Mosque Orta Djame",
-                  "text": "The Orta Jame is the central mosque and an important historical place of worship in Batumi.",
-                  "category": "religious",
-                  "coords": [
-                        41.643753,
-                        41.64875
-                  ]
-            },
-            {
                   "name": "Batumi Synagogue",
                   "text": "The Batumi Synagogue is a prominent Jewish place of worship constructed in the early 20th century.",
                   "category": "religious",
                   "coords": [
                         41.634442,
                         41.647359
-                  ]
-            },
-            {
-                  "name": "St. Barbare Church",
-                  "text": "Church of St. Barbara built in 1905 in Batumi.",
-                  "category": "religious",
-                  "coords": [
-                        41.631526,
-                        41.650909
                   ]
             }
       ]
@@ -2379,15 +2100,6 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
                   "coords": [
                         42.702752,
                         42.269686
-                  ]
-            },
-            {
-                  "name": "Kutaisi Museum of Sport",
-                  "text": "Das Sportmuseum Kutaisi zeigt Erinnerungsstücke und Trophäen georgischer Athleten.",
-                  "category": "museum",
-                  "coords": [
-                        42.704849,
-                        42.272281
                   ]
             },
             {
@@ -2483,15 +2195,6 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
                   ]
             },
             {
-                  "name": "Kutaisi Museum of Sport",
-                  "text": "A Kutaisi Sportmúzeum a grúz sportolók emléktárgyait és trófeáit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        42.704849,
-                        42.272281
-                  ]
-            },
-            {
                   "name": "ფოტო-კინო მატიანეს მიზეუმი",
                   "text": "Fotó- és filmtörténeti múzeum Kutaisziban.",
                   "category": "museum",
@@ -2584,15 +2287,6 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
                   ]
             },
             {
-                  "name": "Kutaisi Museum of Sport",
-                  "text": "Muzeul Sportului din Kutaisi expune obiecte memoriale și trofee ale sportivilor georgieni.",
-                  "category": "museum",
-                  "coords": [
-                        42.704849,
-                        42.272281
-                  ]
-            },
-            {
                   "name": "ფოტო-კინო მატიანეს მიზეუმი",
                   "text": "Muzeu de fotografie și istorie a filmului în Kutaisi.",
                   "category": "museum",
@@ -2676,42 +2370,6 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
       ],
       "en": [
             {
-                  "name": "Puppet Theatre",
-                  "text": "Small puppet theatre in Kutaisi's old town.",
-                  "category": "cultural",
-                  "coords": [
-                        42.702752,
-                        42.269686
-                  ]
-            },
-            {
-                  "name": "Kutaisi Museum of Sport",
-                  "text": "The Kutaisi Museum of Sport displays memorabilia and trophies from Georgian athletes.",
-                  "category": "museum",
-                  "coords": [
-                        42.704849,
-                        42.272281
-                  ]
-            },
-            {
-                  "name": "Photo-cinema Chronicle Museum",
-                  "text": "Museum of photography and film history in Kutaisi.",
-                  "category": "museum",
-                  "coords": [
-                        42.707116,
-                        42.273363
-                  ]
-            },
-            {
-                  "name": "M. Balanchivadze Kutaisi State Opera and Ballet Theatre",
-                  "text": "Opera and ballet theatre in Kutaisi, named after Meliton Balanchivadze.",
-                  "category": "cultural",
-                  "coords": [
-                        42.70224,
-                        42.270889
-                  ]
-            },
-            {
                   "name": "White Bridge",
                   "text": "White pedestrian bridge over the Rioni River in Kutaisi.",
                   "category": "landmark",
@@ -2730,48 +2388,12 @@ image: "/poi-images/ge-batumi-cities-v2.webp",
                   ]
             },
             {
-                  "name": "Soviet bas-relief \"Bermukha\"",
-                  "text": "Soviet bas-relief in Kutaisi depicting historical scenes.",
-                  "category": "landmark",
-                  "coords": [
-                        42.673274,
-                        42.261297
-                  ]
-            },
-            {
                   "name": "ქრისტინე რობაქიძის გალერეა",
                   "text": "Contemporary art gallery in Kutaisi, named after Kristine Robakidze.",
                   "category": "museum",
                   "coords": [
                         42.716656,
                         42.253069
-                  ]
-            },
-            {
-                  "name": "Kutaisi Synagogue",
-                  "text": "The Kutaisi Synagogue is a prominent place of worship and a historic Jewish heritage site in Kutaissi.",
-                  "category": "religious",
-                  "coords": [
-                        42.709149,
-                        42.274097
-                  ]
-            },
-            {
-                  "name": "St. George's Church",
-                  "text": "Medieval Georgian Orthodox church in the center of Kutaisi.",
-                  "category": "religious",
-                  "coords": [
-                        42.709048,
-                        42.275651
-                  ]
-            },
-            {
-                  "name": "Church of the Annunciation of the Virgin Mary",
-                  "text": "Domed church with frescoes in Kutaisi.",
-                  "category": "religious",
-                  "coords": [
-                        42.706162,
-                        42.274963
                   ]
             }
       ]
@@ -4032,15 +3654,6 @@ image: "/poi-images/ge-gori-cities-v2.webp",
       ],
       "en": [
             {
-                  "name": "Dadiani Palaces Museum",
-                  "text": "The Dadiani Palaces Museum is a historic castle in Sugdidi, famous for housing a rich collection of Georgian cultural artifacts.",
-                  "category": "castle",
-                  "coords": [
-                        41.873949,
-                        42.51225
-                  ]
-            },
-            {
                   "name": "Zugdidi Cultural Center",
                   "text": "Cultural centre in Zugdidi with event spaces and exhibitions.",
                   "category": "cultural",
@@ -4050,39 +3663,12 @@ image: "/poi-images/ge-gori-cities-v2.webp",
                   ]
             },
             {
-                  "name": "Zugdidi Botanical Gardens",
-                  "text": "Zugdidi Botanical Gardens is a major natural attraction in Sugdidi, featuring a wide variety of diverse flora.",
-                  "category": "landmark",
-                  "coords": [
-                        41.87826,
-                        42.511341
-                  ]
-            },
-            {
-                  "name": "Akaki Tsereteli",
-                  "text": "Monument to Georgian poet Akaki Tsereteli in Zugdidi.",
-                  "category": "historical",
-                  "coords": [
-                        41.8811,
-                        42.514241
-                  ]
-            },
-            {
                   "name": "Icon of Theotokos, mother of God.",
                   "text": "Venerated icon of the Mother of God (Theotokos) in Zugdidi.",
                   "category": "historical",
                   "coords": [
                         41.869108,
                         42.504189
-                  ]
-            },
-            {
-                  "name": "Church of the Savior in Zugdidi",
-                  "text": "The Church of the Savior is a historic church and local spiritual center situated in Sugdidi.",
-                  "category": "religious",
-                  "coords": [
-                        41.886984,
-                        42.503294
                   ]
             }
       ]
@@ -6193,17 +5779,7 @@ image: "/poi-images/ge-senaki-cities-v2.webp",
                   ]
             }
       ],
-      "en": [
-            {
-                  "name": "Zestaponi Museum of Local Customs",
-                  "text": "The Zestaponi Museum of Local Customs preserves the regional history and heritage of Sestaponi.",
-                  "category": "museum",
-                  "coords": [
-                        43.039199,
-                        42.10629
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "city",
     parent: "GE-IM",
@@ -7062,15 +6638,6 @@ image: "/poi-images/ge-telavi-cities-v2.webp",
                   "coords": [
                         42.980371,
                         41.642521
-                  ]
-            },
-            {
-                  "name": "Turkish baths (ruins)",
-                  "text": "Ruins of a 17th-century Turkish bath near Akhaltsikhe fortress.",
-                  "category": "landmark",
-                  "coords": [
-                        42.973834,
-                        41.644632
                   ]
             },
             {
@@ -8196,15 +7763,6 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
                   ]
             },
             {
-                  "name": "Chikaura",
-                  "text": "Dieser Ort ist eine lokale Sehenswürdigkeit in der Stadt Tschiatura.",
-                  "category": "landmark",
-                  "coords": [
-                        43.30892,
-                        42.301207
-                  ]
-            },
-            {
                   "name": "გედების ტბა",
                   "text": "Schwanensee in Chiatura, ein kleiner künstlicher See mit Park.",
                   "category": "landmark",
@@ -8229,15 +7787,6 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
                   "coords": [
                         43.270456,
                         42.26518
-                  ]
-            },
-            {
-                  "name": "Pioneer Palace",
-                  "text": "Ehemaliger Pionierpalast aus der Sowjetzeit, heute Jugendzentrum in Chiatura.",
-                  "category": "landmark",
-                  "coords": [
-                        43.283877,
-                        42.281275
                   ]
             }
       ],
@@ -8295,15 +7844,6 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
                         43.270456,
                         42.26518
                   ]
-            },
-            {
-                  "name": "Pioneer Palace",
-                  "text": "Egykori szovjet úttörőpalota, ma ifjúsági központ Chiaturaban.",
-                  "category": "landmark",
-                  "coords": [
-                        43.283877,
-                        42.281275
-                  ]
             }
       ],
       "ro": [
@@ -8360,27 +7900,9 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
                         43.270456,
                         42.26518
                   ]
-            },
-            {
-                  "name": "Pioneer Palace",
-                  "text": "Fostul Palat al Pionierilor sovietic, acum centru de tineret în Chiatura.",
-                  "category": "landmark",
-                  "coords": [
-                        43.283877,
-                        42.281275
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Akaki Tsereteli State Theatre",
-                  "text": "Akaki Tsereteli State Theatre in Chiatura, built in 1949, is a listed heritage building.",
-                  "category": "cultural",
-                  "coords": [
-                        43.284964,
-                        42.286878
-                  ]
-            },
             {
                   "name": "Soviet Monument",
                   "text": "Soviet monument in Chiatura, a relic of the communist era.",
@@ -8424,15 +7946,6 @@ image: "/poi-images/ge-tkibuli-cities-v2.webp",
                   "coords": [
                         43.270456,
                         42.26518
-                  ]
-            },
-            {
-                  "name": "Pioneer Palace",
-                  "text": "Former Soviet Pioneer Palace, now a youth center in Chiatura.",
-                  "category": "landmark",
-                  "coords": [
-                        43.283877,
-                        42.281275
                   ]
             }
       ]
@@ -9216,24 +8729,6 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
                   ]
             },
             {
-                  "name": "Romanov Palace",
-                  "text": "The Romanov Palace in Borjomi, built in 1895, served as a summer residence for the Russian imperial family.",
-                  "category": "landmark",
-                  "coords": [
-                        43.364339,
-                        41.828003
-                  ]
-            },
-            {
-                  "name": "Prometheus",
-                  "text": "Prometheus statue in Borjomi, a symbol of enlightenment.",
-                  "category": "historical",
-                  "coords": [
-                        43.393699,
-                        41.832992
-                  ]
-            },
-            {
                   "name": "Panorama view at Cross Mointain",
                   "text": "Panorama viewpoint at Cross Mountain with views of the Borjomi valley.",
                   "category": "natural",
@@ -9258,24 +8753,6 @@ image: "/poi-images/ge-gardabani-cities-v2.webp",
                   "coords": [
                         43.392275,
                         41.835879
-                  ]
-            },
-            {
-                  "name": "Petre Fortress",
-                  "text": "Petre Fortress, a ruined defensive fortification in Borjomi.",
-                  "category": "historical",
-                  "coords": [
-                        43.366123,
-                        41.824325
-                  ]
-            },
-            {
-                  "name": "Original Steam Engine Train on Borjomi-Bakuriani Railway",
-                  "text": "Historic narrow-gauge steam train on the Borjomi-Bakuriani railway through the Borjomi Gorge.",
-                  "category": "landmark",
-                  "coords": [
-                        43.408861,
-                        41.845343
                   ]
             }
       ]
@@ -10563,15 +10040,6 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
                   ]
             },
             {
-                  "name": "Swetizchoweli-Kathedrale",
-                  "text": "Die Swetizchoweli-Kathedrale in Mtskheta, erbaut 1010, ist eine der ältesten Kirchen Georgiens und UNESCO-Weltkulturerbe.",
-                  "category": "religious",
-                  "coords": [
-                        44.720987,
-                        41.842272
-                  ]
-            },
-            {
                   "name": "მცხეთის ანტიოქია",
                   "text": "Die Antiochia-Kirche in Mtskheta ist eine mittelalterliche Kirche, die als Kulturdenkmal geschützt ist.",
                   "category": "religious",
@@ -10670,15 +10138,6 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
                   "coords": [
                         44.721803,
                         41.836634
-                  ]
-            },
-            {
-                  "name": "Szvetichoveli katedrális",
-                  "text": "A mtskhetai Szvetichoveli-székesegyház 1010-ben épült, Grúzia egyik legrégebbi temploma, UNESCO Világörökség.",
-                  "category": "religious",
-                  "coords": [
-                        44.720987,
-                        41.842272
                   ]
             },
             {
@@ -10848,24 +10307,6 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
                   ]
             },
             {
-                  "name": "Pompey's bridge",
-                  "text": "Pompey's Bridge is an ancient stone bridge crossing the Mtkvari River in Mtskheta, associated with the Roman general Pompey.",
-                  "category": "historical",
-                  "coords": [
-                        44.706003,
-                        41.838581
-                  ]
-            },
-            {
-                  "name": "Jvari Monastery",
-                  "text": "Jvari Monastery in Mtskheta, built in the 6th century on a hilltop overlooking the town, is a UNESCO World Heritage site.",
-                  "category": "landmark",
-                  "coords": [
-                        44.733547,
-                        41.838336
-                  ]
-            },
-            {
                   "name": "Aragvi Gate",
                   "text": "Aragvi Gate in Mtskheta is an 18th-century city gate at the confluence of the Aragvi and Mtkvari rivers.",
                   "category": "historical",
@@ -10890,24 +10331,6 @@ image: "/poi-images/ge-gurjaani-cities-v2.webp",
                   "coords": [
                         44.721803,
                         41.836634
-                  ]
-            },
-            {
-                  "name": "Svetitskhoveli Cathedral",
-                  "text": "Svetitskhoveli Cathedral in Mtskheta, built in 1010, is one of Georgia's oldest churches and a UNESCO World Heritage site.",
-                  "category": "religious",
-                  "coords": [
-                        44.720987,
-                        41.842272
-                  ]
-            },
-            {
-                  "name": "Antiochia Church",
-                  "text": "Antiochia Church in Mtskheta is a medieval church, a listed heritage site.",
-                  "category": "religious",
-                  "coords": [
-                        44.724449,
-                        41.841302
                   ]
             },
             {

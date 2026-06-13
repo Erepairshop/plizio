@@ -10102,15 +10102,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Changhua County Government",
-                  "text": "Das zentrale Verwaltungsgebäude des Landkreises, in dem öffentliche städtische Dienstleistungen und Büros untergebracht sind.",
-                  "category": "historical",
-                  "coords": [
-                        120.544802,
-                        24.075528
-                  ]
-            },
-            {
                   "name": "National Taichung Theater",
                   "text": "Ein spektakuläres avantgardistisches Zentrum für darstellende Künste von Toyo Ito, bekannt für seine geschwungenen Wände.",
                   "category": "cultural",
@@ -10126,33 +10117,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   "coords": [
                         120.573342,
                         24.16296
-                  ]
-            },
-            {
-                  "name": "Yuanching Tempel",
-                  "text": "Ein historisch bedeutsamer daoistischer Tempel in Changhua mit exquisiten Holzarbeiten aus der Qing-Dynastie.",
-                  "category": "religious",
-                  "coords": [
-                        120.542287,
-                        24.079597
-                  ]
-            },
-            {
-                  "name": "F-5E",
-                  "text": "Ein ausgemusterter F-5E Überschall-Kampfjet, der öffentlich ausgestellt ist, um die Geschichte der Luftfahrt zu würdigen.",
-                  "category": "landmark",
-                  "coords": [
-                        120.558527,
-                        24.07856
-                  ]
-            },
-            {
-                  "name": "Kaihua Temple",
-                  "text": "Der Kaihua-Tempel ist ein historisches buddhistisches Heiligtum in der Nähe des Rainbow Village.",
-                  "category": "landmark",
-                  "coords": [
-                        120.540823,
-                        24.078761
                   ]
             },
             {
@@ -10207,15 +10171,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   "coords": [
                         120.584451,
                         24.138243
-                  ]
-            },
-            {
-                  "name": "Baguashan",
-                  "text": "Der Baguashan ist ein berühmter Gipfel, der vor allem als Standort einer kolossalen Buddha-Statue mit Blick auf die Region bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        120.554091,
-                        24.079676
                   ]
             },
             {
@@ -10309,39 +10264,12 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Changhua County Aboriginal Living Museum",
-                  "text": "Das Changhua County Aboriginal Living Museum zeigt traditionelle Artefakte und kulturelle Ausstellungen lokaler indigener Gruppen.",
-                  "category": "museum",
-                  "coords": [
-                        120.5603,
-                        24.08565
-                  ]
-            },
-            {
-                  "name": "Colour Space",
-                  "text": "Colour Space ist eine zeitgenössische Galerie, die lebendige moderne Kunstwerke und Multimedia-Installationen ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        120.538312,
-                        24.078666
-                  ]
-            },
-            {
                   "name": "KNOW PHOTO GALLERY",
                   "text": "KNOW PHOTO GALLERY ist ein spezieller Ausstellungsraum, der lokale und internationale Kunstfotografie präsentiert.",
                   "category": "museum",
                   "coords": [
                         120.701271,
                         24.155102
-                  ]
-            },
-            {
-                  "name": "Landsborough's Graft with Love Memorial Hall",
-                  "text": "Landsborough's Graft with Love Memorial Hall ist ein medizinisches Museum, das das Erbe eines schottischen medizinischen Missionars in der Region würdigt.",
-                  "category": "museum",
-                  "coords": [
-                        120.544011,
-                        24.071828
                   ]
             },
             {
@@ -10426,30 +10354,12 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagua Mountain Buddha",
-                  "text": "Der Bagua Mountain Buddha ist eine riesige, 22 Meter hohe schwarze Statue, die mit gekreuzten Beinen sitzt und die lokale Skyline dominiert.",
-                  "category": "landmark",
-                  "coords": [
-                        120.548869,
-                        24.07857
-                  ]
-            },
-            {
                   "name": "Water bridge",
                   "text": "Diese historische Wasserbrücke ist ein altes Aquäduktbauwerk, das errichtet wurde, um Bewässerungswasser über eine örtliche Schlucht zu transportieren.",
                   "category": "landmark",
                   "coords": [
                         120.588226,
                         24.11964
-                  ]
-            },
-            {
-                  "name": "F-104G",
-                  "text": "Die F-104G ist ein ausgemustertes Überschall-Abfangjägerflugzeug, das stolz auf einem Betonsockel als militärisches Denkmal ausgestellt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        120.549707,
-                        24.079967
                   ]
             }
       ],
@@ -10461,15 +10371,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   "coords": [
                         120.646842,
                         24.161724
-                  ]
-            },
-            {
-                  "name": "Changhua County Government",
-                  "text": "A megyét irányító központi közigazgatási épület, amely a közszolgáltatásoknak és irodáknak ad otthont.",
-                  "category": "historical",
-                  "coords": [
-                        120.544802,
-                        24.075528
                   ]
             },
             {
@@ -10488,33 +10389,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   "coords": [
                         120.573342,
                         24.16296
-                  ]
-            },
-            {
-                  "name": "Yuanching Temple",
-                  "text": "Egy történelmileg jelentős taoista templom Changhuában, amely remek Qing-dinasztia korabeli famunkáival büszkélkedhet.",
-                  "category": "religious",
-                  "coords": [
-                        120.542287,
-                        24.079597
-                  ]
-            },
-            {
-                  "name": "F-5E",
-                  "text": "Egy leszerelt szuperszonikus F-5E vadászrepülőgép, amelyet a repülés történetének ünneplésére állítottak ki.",
-                  "category": "landmark",
-                  "coords": [
-                        120.558527,
-                        24.07856
-                  ]
-            },
-            {
-                  "name": "Kaihua Temple",
-                  "text": "A Kaihua-templom egy történelmi buddhista szentély a Rainbow Village területének közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        120.540823,
-                        24.078761
                   ]
             },
             {
@@ -10569,15 +10443,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   "coords": [
                         120.584451,
                         24.138243
-                  ]
-            },
-            {
-                  "name": "Baguashan",
-                  "text": "A Baguashan egy híres hegycsúcs, amely leginkább a régióra néző hatalmas Buddha-szobor helyszíneként ismert.",
-                  "category": "natural",
-                  "coords": [
-                        120.554091,
-                        24.079676
                   ]
             },
             {
@@ -10671,39 +10536,12 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Changhua County Aboriginal Living Museum",
-                  "text": "A Changhua megyei őslakosok életmódját bemutató múzeum a helyi bennszülött csoportok hagyományos tárgyait és kulturális kiállításait vonultatja fel.",
-                  "category": "museum",
-                  "coords": [
-                        120.5603,
-                        24.08565
-                  ]
-            },
-            {
-                  "name": "Colour Space",
-                  "text": "A Colour Space egy kortárs galéria, amely élénk, modern műalkotásokat és multimédiás installációkat állít ki.",
-                  "category": "museum",
-                  "coords": [
-                        120.538312,
-                        24.078666
-                  ]
-            },
-            {
                   "name": "KNOW PHOTO GALLERY",
                   "text": "A KNOW PHOTO GALLERY egy dedikált kiállítótér, amely a helyi és nemzetközi művészi fotográfiát mutatja be.",
                   "category": "museum",
                   "coords": [
                         120.701271,
                         24.155102
-                  ]
-            },
-            {
-                  "name": "Landsborough's Graft with Love Memorial Hall",
-                  "text": "A Landsborough's Graft with Love Memorial Hall egy orvosi múzeum, amely egy skót orvosi misszionárius regionális örökségének állít emléket.",
-                  "category": "museum",
-                  "coords": [
-                        120.544011,
-                        24.071828
                   ]
             },
             {
@@ -10788,30 +10626,12 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagua Mountain Buddha",
-                  "text": "A Bagua Mountain Buddha egy hatalmas, 22 méter magas, keresztbe tett lábbal ülő fekete szobor, amely a helyi látképet uralja.",
-                  "category": "landmark",
-                  "coords": [
-                        120.548869,
-                        24.07857
-                  ]
-            },
-            {
                   "name": "Water bridge",
                   "text": "Ez a történelmi vízi híd egy régi vízvezeték-szerkezet, amelyet öntözővíz szállítására építettek egy helyi szurdok felett.",
                   "category": "landmark",
                   "coords": [
                         120.588226,
                         24.11964
-                  ]
-            },
-            {
-                  "name": "F-104G",
-                  "text": "Az F-104G egy leszerelt szuperszonikus elfogóvadász, amelyet büszkén állítanak ki egy beton talapzaton mint katonai emlékmű.",
-                  "category": "landmark",
-                  "coords": [
-                        120.549707,
-                        24.079967
                   ]
             }
       ],
@@ -10823,15 +10643,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   "coords": [
                         120.646842,
                         24.161724
-                  ]
-            },
-            {
-                  "name": "Changhua County Government",
-                  "text": "Clădirea administrativă centrală care guvernează județul, adăpostind servicii și birouri publice municipale.",
-                  "category": "historical",
-                  "coords": [
-                        120.544802,
-                        24.075528
                   ]
             },
             {
@@ -10850,33 +10661,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   "coords": [
                         120.573342,
                         24.16296
-                  ]
-            },
-            {
-                  "name": "Yuanching Temple",
-                  "text": "Un templu taoist cu semnificație istorică din Changhua, având sculpturi rafinate în lemn din dinastia Qing.",
-                  "category": "religious",
-                  "coords": [
-                        120.542287,
-                        24.079597
-                  ]
-            },
-            {
-                  "name": "F-5E",
-                  "text": "Un avion de vânătoare supersonic F-5E scos din funcțiune, plasat într-o expoziție publică pentru a celebra istoria aviației.",
-                  "category": "landmark",
-                  "coords": [
-                        120.558527,
-                        24.07856
-                  ]
-            },
-            {
-                  "name": "Kaihua Temple",
-                  "text": "Templul Kaihua este un sanctuar budist istoric situat în apropierea zonei Rainbow Village.",
-                  "category": "landmark",
-                  "coords": [
-                        120.540823,
-                        24.078761
                   ]
             },
             {
@@ -10931,15 +10715,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   "coords": [
                         120.584451,
                         24.138243
-                  ]
-            },
-            {
-                  "name": "Baguashan",
-                  "text": "Baguashan este un vârf faimos, cunoscut în special ca sit al unei statui colosale a lui Buddha care domină regiunea.",
-                  "category": "natural",
-                  "coords": [
-                        120.554091,
-                        24.079676
                   ]
             },
             {
@@ -11033,39 +10808,12 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Changhua County Aboriginal Living Museum",
-                  "text": "Muzeul Vieții Aborigene din Comitatul Changhua expune artefacte tradiționale și expoziții culturale ale grupurilor indigene locale.",
-                  "category": "museum",
-                  "coords": [
-                        120.5603,
-                        24.08565
-                  ]
-            },
-            {
-                  "name": "Colour Space",
-                  "text": "Colour Space este o galerie contemporană care expune lucrări de artă modernă vibrante și instalații multimedia.",
-                  "category": "museum",
-                  "coords": [
-                        120.538312,
-                        24.078666
-                  ]
-            },
-            {
                   "name": "KNOW PHOTO GALLERY",
                   "text": "KNOW PHOTO GALLERY este un spațiu expozițional dedicat, care prezintă fotografie de artă locală și internațională.",
                   "category": "museum",
                   "coords": [
                         120.701271,
                         24.155102
-                  ]
-            },
-            {
-                  "name": "Landsborough's Graft with Love Memorial Hall",
-                  "text": "Landsborough's Graft with Love Memorial Hall este un muzeu medical care onorează moștenirea unui misionar medical scoțian în regiune.",
-                  "category": "museum",
-                  "coords": [
-                        120.544011,
-                        24.071828
                   ]
             },
             {
@@ -11150,30 +10898,12 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagua Mountain Buddha",
-                  "text": "Buddha de pe Muntele Bagua este o imensă statuie neagră de 22 de metri înălțime, așezată cu picioarele încrucișate, care domină orizontul local.",
-                  "category": "landmark",
-                  "coords": [
-                        120.548869,
-                        24.07857
-                  ]
-            },
-            {
                   "name": "Water bridge",
                   "text": "Acest pod de apă istoric este o veche structură de apeduct construită pentru a transporta apa de irigații peste un defileu local.",
                   "category": "landmark",
                   "coords": [
                         120.588226,
                         24.11964
-                  ]
-            },
-            {
-                  "name": "F-104G",
-                  "text": "F-104G este o aeronavă interceptoare supersonică dezafectată, expusă cu mândrie pe un piedestal de beton ca monument militar.",
-                  "category": "landmark",
-                  "coords": [
-                        120.549707,
-                        24.079967
                   ]
             }
       ],
@@ -11185,15 +10915,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   "coords": [
                         120.646842,
                         24.161724
-                  ]
-            },
-            {
-                  "name": "Changhua County Government",
-                  "text": "The central administrative building governing the county, housing public municipal services and offices.",
-                  "category": "historical",
-                  "coords": [
-                        120.544802,
-                        24.075528
                   ]
             },
             {
@@ -11212,33 +10933,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   "coords": [
                         120.573342,
                         24.16296
-                  ]
-            },
-            {
-                  "name": "Yuanching Temple",
-                  "text": "A historically significant Taoist temple in Changhua known for worshipping the Jade Emperor and featuring exquisite Qing dynasty woodwork.",
-                  "category": "religious",
-                  "coords": [
-                        120.542287,
-                        24.079597
-                  ]
-            },
-            {
-                  "name": "F-5E",
-                  "text": "A decommissioned supersonic F-5E fighter jet placed on public static display to celebrate aviation history.",
-                  "category": "landmark",
-                  "coords": [
-                        120.558527,
-                        24.07856
-                  ]
-            },
-            {
-                  "name": "Kaihua Temple",
-                  "text": "Kaihua Temple is an important historic Buddhist sanctuary located near the Rainbow Village area.",
-                  "category": "landmark",
-                  "coords": [
-                        120.540823,
-                        24.078761
                   ]
             },
             {
@@ -11293,15 +10987,6 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   "coords": [
                         120.584451,
                         24.138243
-                  ]
-            },
-            {
-                  "name": "Baguashan",
-                  "text": "Baguashan is a famous peak best known as the site of a colossal Buddha statue overlooking the region.",
-                  "category": "natural",
-                  "coords": [
-                        120.554091,
-                        24.079676
                   ]
             },
             {
@@ -11395,39 +11080,12 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Changhua County Aboriginal Living Museum",
-                  "text": "The Changhua County Aboriginal Living Museum displays traditional artifacts and cultural exhibits of local indigenous groups.",
-                  "category": "museum",
-                  "coords": [
-                        120.5603,
-                        24.08565
-                  ]
-            },
-            {
-                  "name": "Colour Space",
-                  "text": "Colour Space is a contemporary gallery exhibiting vibrant modern artworks and multimedia installations.",
-                  "category": "museum",
-                  "coords": [
-                        120.538312,
-                        24.078666
-                  ]
-            },
-            {
                   "name": "KNOW PHOTO GALLERY",
                   "text": "KNOW PHOTO GALLERY is a dedicated exhibition space showcasing local and international fine art photography.",
                   "category": "museum",
                   "coords": [
                         120.701271,
                         24.155102
-                  ]
-            },
-            {
-                  "name": "Landsborough's Graft with Love Memorial Hall",
-                  "text": "Landsborough's Graft with Love Memorial Hall is a medical museum honoring a Scottish medical missionary's legacy in the region.",
-                  "category": "museum",
-                  "coords": [
-                        120.544011,
-                        24.071828
                   ]
             },
             {
@@ -11512,30 +11170,12 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagua Mountain Buddha",
-                  "text": "The Bagua Mountain Buddha is an immense 22-meter-tall black statue sitting cross-legged that dominates the local skyline.",
-                  "category": "landmark",
-                  "coords": [
-                        120.548869,
-                        24.07857
-                  ]
-            },
-            {
                   "name": "Water bridge",
                   "text": "This historical water bridge is an old aqueduct structure built to transport irrigation water over a local gorge.",
                   "category": "landmark",
                   "coords": [
                         120.588226,
                         24.11964
-                  ]
-            },
-            {
-                  "name": "F-104G",
-                  "text": "The F-104G is a decommissioned supersonic interceptor aircraft proudly displayed on a concrete pedestal as a military monument.",
-                  "category": "landmark",
-                  "coords": [
-                        120.549707,
-                        24.079967
                   ]
             }
       ]

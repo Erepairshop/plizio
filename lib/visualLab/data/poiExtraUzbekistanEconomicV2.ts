@@ -6891,42 +6891,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arxiv",
-                  "text": "Das Staatsarchiv von Termez, ein wichtiges Dokumentationszentrum für die reiche Geschichte der Region Surxondaryo.",
-                  "category": "landmark",
-                  "coords": [
-                        67.266439,
-                        37.229635
-                  ]
-            },
-            {
-                  "name": "Kurantlar",
-                  "text": "Ein markanter Uhrturm in Termez, der als Orientierungspunkt im Stadtzentrum und beliebtes Fotomotiv dient.",
-                  "category": "historical",
-                  "coords": [
-                        67.279544,
-                        37.236261
-                  ]
-            },
-            {
-                  "name": "Motamsaro Ona Khaikali",
-                  "text": "Ein Denkmal in Termez, das der trauernden Mutter gewidmet ist und an die Opfer vergangener Kriege erinnert.",
-                  "category": "landmark",
-                  "coords": [
-                        67.288169,
-                        37.240863
-                  ]
-            },
-            {
-                  "name": "Termiz Arxeologiya Muzeyi",
-                  "text": "Ein bedeutendes Museum in Termez, das seltene buddhistische Artefakte und griechisch-baktrische Schätze aus der Region ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        67.282648,
-                        37.244269
-                  ]
-            },
-            {
                   "name": "Hayvonot bogi",
                   "text": "Der Zoo von Termez, in dem Besucher die einheimische Fauna Zentralasiens und exotische Tiere beobachten können.",
                   "category": "recreational",
@@ -6951,15 +6915,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
                   "coords": [
                         67.285639,
                         37.240945
-                  ]
-            },
-            {
-                  "name": "Amudaryo dam olish maskani",
-                  "text": "Ein Erholungsgebiet am Ufer des Amu Darja, das Möglichkeiten zur Entspannung am mächtigen Grenzfluss bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        67.313122,
-                        37.232874
                   ]
             },
             {
@@ -7046,42 +7001,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arxiv",
-                  "text": "Termez állami archívuma, amely a Surxondaryo régió gazdag történelmének fontos dokumentációs központja.",
-                  "category": "landmark",
-                  "coords": [
-                        67.266439,
-                        37.229635
-                  ]
-            },
-            {
-                  "name": "Kurantlar",
-                  "text": "Termez jellegzetes óratornya, amely a városközpont tájékozódási pontjaként és népszerű fotótémaként szolgál.",
-                  "category": "historical",
-                  "coords": [
-                        67.279544,
-                        37.236261
-                  ]
-            },
-            {
-                  "name": "Motamsaro Ona Khaikali",
-                  "text": "Termezi emlékmű, amelyet a gyászoló anyának szenteltek, emléket állítva a múltbeli háborúk áldozatainak.",
-                  "category": "landmark",
-                  "coords": [
-                        67.288169,
-                        37.240863
-                  ]
-            },
-            {
-                  "name": "Termiz Arxeologiya Muzeyi",
-                  "text": "Termez jelentős múzeuma, amely a régióból származó ritka buddhista leleteket és görög-baktriai kincseket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        67.282648,
-                        37.244269
-                  ]
-            },
-            {
                   "name": "Hayvonot bogi",
                   "text": "Termez állatkertje, ahol a látogatók Közép-Ázsia őshonos faunáját és egzotikus állatokat is megtekinthetik.",
                   "category": "recreational",
@@ -7106,15 +7025,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
                   "coords": [
                         67.285639,
                         37.240945
-                  ]
-            },
-            {
-                  "name": "Amudaryo dam olish maskani",
-                  "text": "Pihenőhely az Amu-darja partján, amely kikapcsolódási lehetőséget kínál a hatalmas határfolyó mentén.",
-                  "category": "recreational",
-                  "coords": [
-                        67.313122,
-                        37.232874
                   ]
             },
             {
@@ -7201,42 +7111,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arxiv",
-                  "text": "Arhiva de stat din Termez, un centru important de documentare pentru istoria bogată a regiunii Surxondaryo.",
-                  "category": "landmark",
-                  "coords": [
-                        67.266439,
-                        37.229635
-                  ]
-            },
-            {
-                  "name": "Kurantlar",
-                  "text": "Un turn cu ceas distinctiv din Termez, care servește ca punct de orientare în centrul orașului și motiv fotografic popular.",
-                  "category": "historical",
-                  "coords": [
-                        67.279544,
-                        37.236261
-                  ]
-            },
-            {
-                  "name": "Motamsaro Ona Khaikali",
-                  "text": "Un monument din Termez dedicat mamei îndurerate, ridicat în memoria victimelor războaielor trecute.",
-                  "category": "landmark",
-                  "coords": [
-                        67.288169,
-                        37.240863
-                  ]
-            },
-            {
-                  "name": "Termiz Arxeologiya Muzeyi",
-                  "text": "Un muzeu important din Termez, care expune artefacte budiste rare și comori greco-bactriene din regiune.",
-                  "category": "museum",
-                  "coords": [
-                        67.282648,
-                        37.244269
-                  ]
-            },
-            {
                   "name": "Hayvonot bogi",
                   "text": "Grădina zoologică din Termez, unde vizitatorii pot observa fauna nativă a Asiei Centrale și animale exotice.",
                   "category": "recreational",
@@ -7261,15 +7135,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
                   "coords": [
                         67.285639,
                         37.240945
-                  ]
-            },
-            {
-                  "name": "Amudaryo dam olish maskani",
-                  "text": "O zonă de recreere pe malul râului Amu Darya, oferind oportunități de relaxare lângă impunătorul fluviu de frontieră.",
-                  "category": "recreational",
-                  "coords": [
-                        67.313122,
-                        37.232874
                   ]
             },
             {
@@ -7356,42 +7221,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arxiv",
-                  "text": "The state archive of Termez, an important documentation center for the rich history of the Surxondaryo region.",
-                  "category": "landmark",
-                  "coords": [
-                        67.266439,
-                        37.229635
-                  ]
-            },
-            {
-                  "name": "Clocktower",
-                  "text": "A distinctive clocktower in Termez that serves as a central landmark and a popular spot for photography.",
-                  "category": "historical",
-                  "coords": [
-                        67.279544,
-                        37.236261
-                  ]
-            },
-            {
-                  "name": "Motamsaro Ona Khaikali",
-                  "text": "A monument in Termez dedicated to the 'Mourning Mother', commemorating the victims of past wars.",
-                  "category": "landmark",
-                  "coords": [
-                        67.288169,
-                        37.240863
-                  ]
-            },
-            {
-                  "name": "Termez Archaeological Museum",
-                  "text": "An important museum in Termez displaying rare Buddhist artifacts and Greco-Bactrian treasures found in the region.",
-                  "category": "museum",
-                  "coords": [
-                        67.282648,
-                        37.244269
-                  ]
-            },
-            {
                   "name": "Hayvonot bogi",
                   "text": "The Termez Zoo, where visitors can observe Central Asian native fauna alongside exotic animal species.",
                   "category": "recreational",
@@ -7416,15 +7245,6 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
                   "coords": [
                         67.285639,
                         37.240945
-                  ]
-            },
-            {
-                  "name": "Amudaryo dam olish maskani",
-                  "text": "A recreation area on the banks of the Amu Darya, offering spots for relaxation along the mighty border river.",
-                  "category": "recreational",
-                  "coords": [
-                        67.313122,
-                        37.232874
                   ]
             },
             {

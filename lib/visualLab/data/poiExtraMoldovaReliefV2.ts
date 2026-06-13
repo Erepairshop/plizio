@@ -719,158 +719,10 @@ export const moldovaReliefV2: POI[] = [
   },
     {
     id: "moldova-fetesti-switzerland-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Cariera Fetești",
-                  "text": "Ein beeindruckender Steinbruch in der Naturlandschaft von Fetești.",
-                  "category": "landmark",
-                  "coords": [
-                        27.124529,
-                        48.158825
-                  ]
-            },
-            {
-                  "name": "Recifele de la Fetești",
-                  "text": "Antike Kalksteinriffe in Fetești, bekannt für ihre besondere geologische Struktur.",
-                  "category": "landmark",
-                  "coords": [
-                        27.112723,
-                        48.167539
-                  ]
-            },
-            {
-                  "name": "Recifele de la Burlănești",
-                  "text": "Geologische Kalksteinformationen und Riffe in der Nähe von Burlănești.",
-                  "category": "landmark",
-                  "coords": [
-                        27.121313,
-                        48.139326
-                  ]
-            },
-            {
-                  "name": "Șanț de apărare",
-                  "text": "Historische Verteidigungsanlagen und Gräben in der Region Fetești.",
-                  "category": "landmark",
-                  "coords": [
-                        27.105653,
-                        48.202143
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cariera Fetești",
-                  "text": "Látványos kőfejtő Fetești természeti táján.",
-                  "category": "landmark",
-                  "coords": [
-                        27.124529,
-                        48.158825
-                  ]
-            },
-            {
-                  "name": "Recifele de la Fetești",
-                  "text": "Ősi mészkőzátonyok Feteștiben, amelyek különleges geológiai formáikról ismertek.",
-                  "category": "landmark",
-                  "coords": [
-                        27.112723,
-                        48.167539
-                  ]
-            },
-            {
-                  "name": "Recifele de la Burlănești",
-                  "text": "Geológiai mészkőképződmények és zátonyok Burlănești közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        27.121313,
-                        48.139326
-                  ]
-            },
-            {
-                  "name": "Șanț de apărare",
-                  "text": "Történelmi védelmi sáncok Fetești régiójában.",
-                  "category": "landmark",
-                  "coords": [
-                        27.105653,
-                        48.202143
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Cariera Fetești",
-                  "text": "O carieră impresionantă în peisajul natural de la Fetești.",
-                  "category": "landmark",
-                  "coords": [
-                        27.124529,
-                        48.158825
-                  ]
-            },
-            {
-                  "name": "Recifele de la Fetești",
-                  "text": "Recife de calcar antice la Fetești, cunoscute pentru structura lor geologică deosebită.",
-                  "category": "landmark",
-                  "coords": [
-                        27.112723,
-                        48.167539
-                  ]
-            },
-            {
-                  "name": "Recifele de la Burlănești",
-                  "text": "Formațiuni geologice de calcar și recife în apropiere de Burlănești.",
-                  "category": "landmark",
-                  "coords": [
-                        27.121313,
-                        48.139326
-                  ]
-            },
-            {
-                  "name": "Șanț de apărare",
-                  "text": "Șanțuri de apărare istorice și atracții în regiunea Fetești.",
-                  "category": "landmark",
-                  "coords": [
-                        27.105653,
-                        48.202143
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cariera Fetești",
-                  "text": "An impressive quarry in the natural landscape of Fetești.",
-                  "category": "landmark",
-                  "coords": [
-                        27.124529,
-                        48.158825
-                  ]
-            },
-            {
-                  "name": "Recifele de la Fetești",
-                  "text": "Ancient limestone reefs in Fetești, known for their unique geological structure.",
-                  "category": "landmark",
-                  "coords": [
-                        27.112723,
-                        48.167539
-                  ]
-            },
-            {
-                  "name": "Recifele de la Burlănești",
-                  "text": "Geological limestone formations and reefs near Burlănești.",
-                  "category": "landmark",
-                  "coords": [
-                        27.121313,
-                        48.139326
-                  ]
-            },
-            {
-                  "name": "Șanț de apărare",
-                  "text": "Historical defensive trenches and attractions in the Fetești region.",
-                  "category": "landmark",
-                  "coords": [
-                        27.105653,
-                        48.202143
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "MD",
     type: "landmark",
@@ -1153,24 +1005,6 @@ export const moldovaReliefV2: POI[] = [
     id: "moldova-tipova-cliffs-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Cetățuia getică",
-                  "text": "Antike Ruinen einer Geten-Festung auf den Klippen bei Tipova.",
-                  "category": "historical",
-                  "coords": [
-                        28.960455,
-                        47.618573
-                  ]
-            },
-            {
-                  "name": "Kloster Țipova",
-                  "text": "Das Kloster Țipova ist ein bekanntes Höhlenkloster an den Klippen des Dnjestr.",
-                  "category": "landmark",
-                  "coords": [
-                        28.98484,
-                        47.603093
-                  ]
-            },
-            {
                   "name": "Biserica rupestra Tipova",
                   "text": "Diese Felsenkirche ist Teil des historischen Klosterkomplexes von Țipova.",
                   "category": "landmark",
@@ -1178,72 +1012,9 @@ export const moldovaReliefV2: POI[] = [
                         28.989692,
                         47.601786
                   ]
-            },
-            {
-                  "name": "Cascada Moara Veche",
-                  "text": "Ein malerischer Wasserfall in der Nähe der Țipova-Klippen.",
-                  "category": "landmark",
-                  "coords": [
-                        28.959241,
-                        47.619767
-                  ]
-            },
-            {
-                  "name": "Cascada Mare",
-                  "text": "Der größte Wasserfall in der Naturlandschaft von Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "Ein charmanter doppelter Wasserfall in der Schlucht von Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
-                  "name": "Cascada Orașul Păsărilor",
-                  "text": "Ein markanter Wasserfall inmitten der natürlichen Schönheit der Țipova-Klippen.",
-                  "category": "landmark",
-                  "coords": [
-                        28.961889,
-                        47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "Ein saisonaler Wasserfall, der oft in den trockeneren Monaten versiegt.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Cetățuia getică",
-                  "text": "Egy géta erőd ókori romjai a Tipova melletti sziklákon.",
-                  "category": "historical",
-                  "coords": [
-                        28.960455,
-                        47.618573
-                  ]
-            },
-            {
-                  "name": "Manastirea Țipova",
-                  "text": "A Țipova-kolostor egy híres barlangkolostor a Dnyeszter menti sziklákon.",
-                  "category": "landmark",
-                  "coords": [
-                        28.98484,
-                        47.603093
-                  ]
-            },
             {
                   "name": "Biserica rupestra Tipova",
                   "text": "Ez a sziklatemplom a történelmi Țipova kolostorkomplexum része.",
@@ -1252,72 +1023,9 @@ export const moldovaReliefV2: POI[] = [
                         28.989692,
                         47.601786
                   ]
-            },
-            {
-                  "name": "Cascada Moara Veche",
-                  "text": "Egy festői vízesés a Țipova-sziklák közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        28.959241,
-                        47.619767
-                  ]
-            },
-            {
-                  "name": "Cascada Mare",
-                  "text": "A legnagyobb vízesés Țipova természeti területén.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "Egy bájos kettős vízesés a Țipova-szurdokban.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
-                  "name": "Cascada Orașul Păsărilor",
-                  "text": "Egy jellegzetes vízesés a Țipova-sziklák természetes környezetében.",
-                  "category": "landmark",
-                  "coords": [
-                        28.961889,
-                        47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "Egy időszakos vízesés, amely a szárazabb hónapokban gyakran kiszárad.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Cetățuia getică",
-                  "text": "Ruinele antice ale unei cetăți getice situate pe stâncile de lângă Țipova.",
-                  "category": "historical",
-                  "coords": [
-                        28.960455,
-                        47.618573
-                  ]
-            },
-            {
-                  "name": "Manastirea Țipova",
-                  "text": "Mănăstirea Țipova este un complex monastic rupestru situat pe malul Nistrului.",
-                  "category": "landmark",
-                  "coords": [
-                        28.98484,
-                        47.603093
-                  ]
-            },
             {
                   "name": "Biserica rupestra Tipova",
                   "text": "Această biserică rupestră face parte din complexul monastic istoric de la Țipova.",
@@ -1326,72 +1034,9 @@ export const moldovaReliefV2: POI[] = [
                         28.989692,
                         47.601786
                   ]
-            },
-            {
-                  "name": "Cascada Moara Veche",
-                  "text": "O cascadă pitorească situată în apropierea stâncilor de la Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.959241,
-                        47.619767
-                  ]
-            },
-            {
-                  "name": "Cascada Mare",
-                  "text": "Cea mai mare cascadă din zona naturală a Țipovei.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "O cascadă dublă fermecătoare situată în defileul Țipovei.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
-                  "name": "Cascada Orașul Păsărilor",
-                  "text": "O cascadă distinctivă situată în cadrul natural al stâncilor Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.961889,
-                        47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "O cascadă sezonieră care adesea seacă în lunile mai lipsite de precipitații.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Cetățuia getică",
-                  "text": "Ancient ruins of a Getae fortress located on the cliffs near Tipova.",
-                  "category": "historical",
-                  "coords": [
-                        28.960455,
-                        47.618573
-                  ]
-            },
-            {
-                  "name": "Țipova Monastery",
-                  "text": "Țipova Monastery is a famous cave monastery complex located on the cliffs overlooking the Dniester River.",
-                  "category": "landmark",
-                  "coords": [
-                        28.98484,
-                        47.603093
-                  ]
-            },
             {
                   "name": "Biserica rupestra Tipova",
                   "text": "This cave church is part of the historical monastic complex of Țipova.",
@@ -1399,51 +1044,6 @@ export const moldovaReliefV2: POI[] = [
                   "coords": [
                         28.989692,
                         47.601786
-                  ]
-            },
-            {
-                  "name": "Cascada Moara Veche",
-                  "text": "A picturesque waterfall located near the Țipova Cliffs.",
-                  "category": "landmark",
-                  "coords": [
-                        28.959241,
-                        47.619767
-                  ]
-            },
-            {
-                  "name": "Cascada Mare",
-                  "text": "The largest waterfall in the natural landscape of Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "A charming double waterfall located in the Țipova gorge.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
-                  "name": "Cascada Orașul Păsărilor",
-                  "text": "A distinctive waterfall set within the natural beauty of the Țipova Cliffs.",
-                  "category": "landmark",
-                  "coords": [
-                        28.961889,
-                        47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "A seasonal waterfall that often dries up during the drier months.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
                   ]
             }
       ]

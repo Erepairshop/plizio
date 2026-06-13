@@ -6557,15 +6557,6 @@ export const poiExtraJordanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ayla",
-                  "text": "Diese ausgegrabenen Ruinen zeigen den Grundriss der ersten islamischen Stadt, die außerhalb der Arabischen Halbinsel gegründet wurde.",
-                  "category": "historical",
-                  "coords": [
-                        34.999935,
-                        29.530594
-                  ]
-            },
-            {
                   "name": "Sheik Zayed Mosque",
                   "text": "Diese große Moschee mit Blick auf das Rote Meer zeichnet sich durch markante weiße Kuppeln und detaillierte Architekturmuster aus.",
                   "category": "landmark",
@@ -6601,15 +6592,6 @@ export const poiExtraJordanHistoryV2: POI[] = [
                   "coords": [
                         35.000804,
                         29.525062
-                  ]
-            },
-            {
-                  "name": "Ayla",
-                  "text": "Ezek a feltárt romok az Arab-félszigeten kívül alapított első iszlám város alaprajzát tárják fel.",
-                  "category": "historical",
-                  "coords": [
-                        34.999935,
-                        29.530594
                   ]
             },
             {
@@ -6651,15 +6633,6 @@ export const poiExtraJordanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ayla",
-                  "text": "Aceste ruine excavate dezvăluie structura primei așezări islamice fondate în afara Peninsulei Arabice.",
-                  "category": "historical",
-                  "coords": [
-                        34.999935,
-                        29.530594
-                  ]
-            },
-            {
                   "name": "Sheik Zayed Mosque",
                   "text": "Având vedere la Marea Roșie, această mare moschee se remarcă prin cupolele sale albe proeminente și modelele arhitecturale detaliate.",
                   "category": "landmark",
@@ -6695,15 +6668,6 @@ export const poiExtraJordanHistoryV2: POI[] = [
                   "coords": [
                         35.000804,
                         29.525062
-                  ]
-            },
-            {
-                  "name": "Ayla",
-                  "text": "These excavated ruins reveal the layout of the first Islamic city established outside the Arabian Peninsula.",
-                  "category": "historical",
-                  "coords": [
-                        34.999935,
-                        29.530594
                   ]
             },
             {

@@ -213,15 +213,6 @@ export const poiExtraJordanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khirbat al Muqbilah",
-                  "text": "Überreste einer antiken Siedlung am Rande der modernen Stadtgebiete von Amman.",
-                  "category": "historical",
-                  "coords": [
-                        35.8,
-                        32.016667
-                  ]
-            },
-            {
                   "name": "Dr. Qays Omari",
                   "text": "Eine bekannte medizinische Einrichtung und lokaler Orientierungspunkt im Viertel Al-Hussein.",
                   "category": "landmark",
@@ -437,15 +428,6 @@ export const poiExtraJordanLifeV2: POI[] = [
                   "coords": [
                         35.872957,
                         32.047208
-                  ]
-            },
-            {
-                  "name": "Khirbat al Muqbilah",
-                  "text": "Egy ókori település maradványai Amman modern városi területeinek szélén.",
-                  "category": "historical",
-                  "coords": [
-                        35.8,
-                        32.016667
                   ]
             },
             {
@@ -667,15 +649,6 @@ export const poiExtraJordanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khirbat al Muqbilah",
-                  "text": "Rămășițele unei așezări antice la marginea zonelor urbane moderne din Amman.",
-                  "category": "historical",
-                  "coords": [
-                        35.8,
-                        32.016667
-                  ]
-            },
-            {
                   "name": "Dr. Qays Omari",
                   "text": "O facilitate medicală cunoscută și un punct de reper local în cartierul Al-Hussein.",
                   "category": "landmark",
@@ -891,15 +864,6 @@ export const poiExtraJordanLifeV2: POI[] = [
                   "coords": [
                         35.872957,
                         32.047208
-                  ]
-            },
-            {
-                  "name": "Khirbat al Muqbilah",
-                  "text": "Remnants of an ancient settlement on the edge of the modern urban areas of Amman.",
-                  "category": "historical",
-                  "coords": [
-                        35.8,
-                        32.016667
                   ]
             },
             {
@@ -2661,15 +2625,6 @@ export const poiExtraJordanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khirbat Rakisa",
-                  "text": "Historische Ruinenstätte mit Überresten antiker Steinmauern in der Region Irbid.",
-                  "category": "historical",
-                  "coords": [
-                        35.866667,
-                        32.483333
-                  ]
-            },
-            {
                   "name": "Khirbat Zambut Mulayk",
                   "text": "Eine archäologische Fundstätte, die Einblicke in die antike Besiedlung Jordaniens bietet.",
                   "category": "historical",
@@ -2694,15 +2649,6 @@ export const poiExtraJordanLifeV2: POI[] = [
                   "coords": [
                         35.858388,
                         32.598626
-                  ]
-            },
-            {
-                  "name": "Irbid Archaeological Museum",
-                  "text": "Das Museum zeigt Keramik und Fundstücke aus der Steinzeit bis zur islamischen Periode.",
-                  "category": "museum",
-                  "coords": [
-                        35.848029,
-                        32.557785
                   ]
             },
             {
@@ -2987,15 +2933,6 @@ export const poiExtraJordanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khirbat Rakisa",
-                  "text": "Történelmi romterület ősi kőfalak maradványaival Irbid régiójában.",
-                  "category": "historical",
-                  "coords": [
-                        35.866667,
-                        32.483333
-                  ]
-            },
-            {
                   "name": "Khirbat Zambut Mulayk",
                   "text": "Régészeti lelőhely, amely betekintést nyújt Jordánia ősi benépesülésébe.",
                   "category": "historical",
@@ -3020,15 +2957,6 @@ export const poiExtraJordanLifeV2: POI[] = [
                   "coords": [
                         35.858388,
                         32.598626
-                  ]
-            },
-            {
-                  "name": "Irbid Archaeological Museum",
-                  "text": "A múzeum a kőkorszaktól az iszlám korszakig terjedő kerámiákat és leleteket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        35.848029,
-                        32.557785
                   ]
             },
             {
@@ -3313,15 +3241,6 @@ export const poiExtraJordanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khirbat Rakisa",
-                  "text": "Situl istoric cu ruine ce păstrează resturi de ziduri antice de piatră în regiunea Irbid.",
-                  "category": "historical",
-                  "coords": [
-                        35.866667,
-                        32.483333
-                  ]
-            },
-            {
                   "name": "Khirbat Zambut Mulayk",
                   "text": "Un sit arheologic care oferă perspective asupra populării antice a Iordaniei.",
                   "category": "historical",
@@ -3346,15 +3265,6 @@ export const poiExtraJordanLifeV2: POI[] = [
                   "coords": [
                         35.858388,
                         32.598626
-                  ]
-            },
-            {
-                  "name": "Irbid Archaeological Museum",
-                  "text": "Muzeul expune ceramică și artefacte din epoca pietrei până în perioada islamică.",
-                  "category": "museum",
-                  "coords": [
-                        35.848029,
-                        32.557785
                   ]
             },
             {
@@ -3639,15 +3549,6 @@ export const poiExtraJordanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khirbat Rakisa",
-                  "text": "Historical ruin site featuring remains of ancient stone walls in the Irbid region.",
-                  "category": "historical",
-                  "coords": [
-                        35.866667,
-                        32.483333
-                  ]
-            },
-            {
                   "name": "Khirbat Zambut Mulayk",
                   "text": "An archaeological site providing insights into the ancient habitation of Jordan.",
                   "category": "historical",
@@ -3672,15 +3573,6 @@ export const poiExtraJordanLifeV2: POI[] = [
                   "coords": [
                         35.858388,
                         32.598626
-                  ]
-            },
-            {
-                  "name": "Irbid Archaeological Museum",
-                  "text": "The museum displays pottery and artifacts ranging from the Stone Age to the Islamic period.",
-                  "category": "museum",
-                  "coords": [
-                        35.848029,
-                        32.557785
                   ]
             },
             {

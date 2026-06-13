@@ -723,15 +723,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fish market",
-                  "text": "Der Fischmarkt ist eine belebte Attraktion in damietta-port-economic-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        31.809981,
-                        31.421047
-                  ]
-            },
-            {
                   "name": "Water Park",
                   "text": "Der Wasserpark ist ein Freizeitpark in der Gegend von damietta-port-economic-v2.",
                   "category": "recreational",
@@ -794,15 +785,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   "coords": [
                         31.833328,
                         31.513684
-                  ]
-            },
-            {
-                  "name": "Fish market",
-                  "text": "A halpiac egy nyüzsgő látványosság a damietta-port-economic-v2 régióban.",
-                  "category": "landmark",
-                  "coords": [
-                        31.809981,
-                        31.421047
                   ]
             },
             {
@@ -871,15 +853,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Fish market",
-                  "text": "Piața de pește este o atracție aglomerată situată în damietta-port-economic-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        31.809981,
-                        31.421047
-                  ]
-            },
-            {
                   "name": "Water Park",
                   "text": "Parcul acvatic este un parc tematic de agrement situat în zona damietta-port-economic-v2.",
                   "category": "recreational",
@@ -942,15 +915,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   "coords": [
                         31.833328,
                         31.513684
-                  ]
-            },
-            {
-                  "name": "Fish market",
-                  "text": "The Fish market is a bustling attraction located in damietta-port-economic-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        31.809981,
-                        31.421047
                   ]
             },
             {
@@ -2694,15 +2658,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Red Sea Aquarium",
-                  "text": "Ein Aquarium, das das pulsierende Meeresleben und die vielfältigen Korallenriffarten des Roten Meeres zeigt.",
-                  "category": "recreational",
-                  "coords": [
-                        33.819122,
-                        27.261641
-                  ]
-            },
-            {
                   "name": "Sea Shell Beach",
                   "text": "Ein Badeortkomplex an der Küste des Roten Meeres mit direktem Zugang zum Sandstrand und Sonnenliegen.",
                   "category": "recreational",
@@ -2772,15 +2727,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   "coords": [
                         33.845467,
                         27.209902
-                  ]
-            },
-            {
-                  "name": "El Sawaki Camp",
-                  "text": "Ein entspanntes Strandcamp in Hurghada, das einfache Entspannung direkt am Roten Meer bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        33.824393,
-                        27.259188
                   ]
             }
       ],
@@ -2867,15 +2813,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Red Sea Aquarium",
-                  "text": "Egy akvárium, amely a Vörös-tenger nyüzsgő tengeri élővilágát és változatos korallzátony-fajait mutatja be.",
-                  "category": "recreational",
-                  "coords": [
-                        33.819122,
-                        27.261641
-                  ]
-            },
-            {
                   "name": "Sea Shell Beach",
                   "text": "Tengerparti üdülőkomplexum a Vörös-tenger partján, amely közvetlen hozzáférést biztosít a homokos strandhoz és a napozóágyakhoz.",
                   "category": "recreational",
@@ -2945,15 +2882,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   "coords": [
                         33.845467,
                         27.209902
-                  ]
-            },
-            {
-                  "name": "El Sawaki Camp",
-                  "text": "Egy laza tengerparti tábor Gurdakában, amely egyszerű tengerparti pihenést kínál közvetlenül a Vörös-tengeren.",
-                  "category": "recreational",
-                  "coords": [
-                        33.824393,
-                        27.259188
                   ]
             }
       ],
@@ -3040,15 +2968,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Red Sea Aquarium",
-                  "text": "Un acvariu care prezintă viața marină vibrantă și diversele specii de recife de corali din Marea Roșie.",
-                  "category": "recreational",
-                  "coords": [
-                        33.819122,
-                        27.261641
-                  ]
-            },
-            {
                   "name": "Sea Shell Beach",
                   "text": "Un complex de stațiune pe litoralul Mării Roșii, oferind acces direct la plaja de nisip și șezlonguri.",
                   "category": "recreational",
@@ -3118,15 +3037,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   "coords": [
                         33.845467,
                         27.209902
-                  ]
-            },
-            {
-                  "name": "El Sawaki Camp",
-                  "text": "O tabără relaxată pe malul mării în Hurghada, care oferă o relaxare simplă chiar pe Marea Roșie.",
-                  "category": "recreational",
-                  "coords": [
-                        33.824393,
-                        27.259188
                   ]
             }
       ],
@@ -3213,15 +3123,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Red Sea Aquarium",
-                  "text": "An aquarium showcasing the vibrant marine life and diverse coral reef species of the Red Sea.",
-                  "category": "recreational",
-                  "coords": [
-                        33.819122,
-                        27.261641
-                  ]
-            },
-            {
                   "name": "Sea Shell Beach",
                   "text": "A seaside resort complex on the Red Sea coast offering direct sandy beach access and sun loungers.",
                   "category": "recreational",
@@ -3291,15 +3192,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   "coords": [
                         33.845467,
                         27.209902
-                  ]
-            },
-            {
-                  "name": "El Sawaki Camp",
-                  "text": "A laid-back beachfront camp in Hurghada offering simple seaside relaxation right on the Red Sea.",
-                  "category": "recreational",
-                  "coords": [
-                        33.824393,
-                        27.259188
                   ]
             }
       ]
@@ -3651,24 +3543,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Garden Bay",
-                  "text": "Eine ruhige und geschützte Bucht in Sharm El-Sheikh, beliebt für ihre luxuriösen Strandresorts und das klare Wasser.",
-                  "category": "landmark",
-                  "coords": [
-                        34.352489,
-                        27.913884
-                  ]
-            },
-            {
-                  "name": "King Tut Museum",
-                  "text": "Zeigt sorgfältig gefertigte Repliken der Schätze, die im berühmten Grab des Pharaos Tutanchamun gefunden wurden.",
-                  "category": "museum",
-                  "coords": [
-                        34.318814,
-                        27.907478
-                  ]
-            },
-            {
                   "name": "Mohamed Ali Pacha",
                   "text": "Ein Denkmal, das dem ehemaligen Herrscher von Ägypten gewidmet ist und an sein historisches Erbe in der Region erinnert.",
                   "category": "historical",
@@ -3702,33 +3576,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   "coords": [
                         34.32528,
                         27.869279
-                  ]
-            },
-            {
-                  "name": "Middle Garden",
-                  "text": "Ein lebhaftes Korallenriff-Plateau mit einer Vielzahl von Hirn- und Feuerkorallen, ideal für die Unterwasserfotografie.",
-                  "category": "landmark",
-                  "coords": [
-                        34.351121,
-                        27.91296
-                  ]
-            },
-            {
-                  "name": "Far Garden",
-                  "text": "Ein malerischer Riffhang am nördlichen Ende der Bucht, bekannt für seine farbenfrohen Korallenüberhänge und Höhlen.",
-                  "category": "landmark",
-                  "coords": [
-                        34.358875,
-                        27.915005
-                  ]
-            },
-            {
-                  "name": "Near Garden",
-                  "text": "Ein flacher Korallengarten, der leicht vom Ufer aus erreichbar ist und sich ideal für Schnorchelanfänger eignet.",
-                  "category": "landmark",
-                  "coords": [
-                        34.346712,
-                        27.908104
                   ]
             },
             {
@@ -3801,24 +3648,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   "coords": [
                         34.32296,
                         27.864461
-                  ]
-            },
-            {
-                  "name": "Sinai Grand Casino",
-                  "text": "Ein großes Casino-Resort auf der Sinai-Halbinsel, das eine Vielzahl von Spieltischen und Unterhaltung bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        34.340312,
-                        27.918536
-                  ]
-            },
-            {
-                  "name": "Sharm",
-                  "text": "Ein bekannter Ferienort am Roten Meer, berühmt für seine erstklassigen Tauchplätze und Sandstrände.",
-                  "category": "landmark",
-                  "coords": [
-                        34.32448,
-                        27.908208
                   ]
             },
             {
@@ -3921,15 +3750,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Public Beach",
-                  "text": "Ein zugänglicher Küstenbereich, der beliebte Möglichkeiten zum Schwimmen und für Wassersport bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        34.328,
-                        27.912454
-                  ]
-            },
-            {
                   "name": "Strand FANARA",
                   "text": "Ein Strand unterhalb der Klippen von Ras Um Sid, bekannt für sein klares Wasser und die reiche Unterwasserwelt.",
                   "category": "recreational",
@@ -3986,24 +3806,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Garden Bay",
-                  "text": "Egy nyugodt és védett öböl Sarm es-Sejkben, amely luxusüdülőiről és tiszta vizéről népszerű.",
-                  "category": "landmark",
-                  "coords": [
-                        34.352489,
-                        27.913884
-                  ]
-            },
-            {
-                  "name": "King Tut Museum",
-                  "text": "Tutanhamon fáraó híres sírjában talált kincsek aprólékosan kidolgozott másolatait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        34.318814,
-                        27.907478
-                  ]
-            },
-            {
                   "name": "Mohamed Ali Pacha",
                   "text": "Egyiptom egykori uralkodójának szentelt emlékmű, amely történelmi örökségének állít emléket.",
                   "category": "historical",
@@ -4037,33 +3839,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   "coords": [
                         34.32528,
                         27.869279
-                  ]
-            },
-            {
-                  "name": "Middle Garden",
-                  "text": "Élénk korallzátony-fennsík agy- és tűzkorallokkal, amely ideális a víz alatti fotózáshoz.",
-                  "category": "landmark",
-                  "coords": [
-                        34.351121,
-                        27.91296
-                  ]
-            },
-            {
-                  "name": "Far Garden",
-                  "text": "Festői zátonylejtő az öböl északi végén, amely színes korallos áthajlásairól és barlangjairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        34.358875,
-                        27.915005
-                  ]
-            },
-            {
-                  "name": "Near Garden",
-                  "text": "Sekély korallkert, amely könnyen elérhető a partról, és tökéletes a kezdő búvárok számára az élővilág megfigyelésére.",
-                  "category": "landmark",
-                  "coords": [
-                        34.346712,
-                        27.908104
                   ]
             },
             {
@@ -4136,24 +3911,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   "coords": [
                         34.32296,
                         27.864461
-                  ]
-            },
-            {
-                  "name": "Sinai Grand Casino",
-                  "text": "A Sínai-félsziget egyik legnagyobb kaszinója, amely számos játékasztallal és szórakozási lehetőséggel várja a látogatókat.",
-                  "category": "landmark",
-                  "coords": [
-                        34.340312,
-                        27.918536
-                  ]
-            },
-            {
-                  "name": "Sharm",
-                  "text": "Népszerű vörös-tengeri üdülőhely, amely kiváló merülőhelyeiről és homokos strandjairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        34.32448,
-                        27.908208
                   ]
             },
             {
@@ -4256,15 +4013,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Public Beach",
-                  "text": "Könnyen megközelíthető tengerparti terület, amely népszerű úszóhely és vízi sportközpont.",
-                  "category": "recreational",
-                  "coords": [
-                        34.328,
-                        27.912454
-                  ]
-            },
-            {
                   "name": "Strand FANARA",
                   "text": "A Ras Um Sid sziklái alatt fekvő strand, amely tiszta vizéről és gazdag élővilágáról ismert.",
                   "category": "recreational",
@@ -4321,24 +4069,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Garden Bay",
-                  "text": "Un golf liniștit și adăpostit în Sharm El Sheikh, popular pentru complexele de lux de pe plajă și apele limpezi.",
-                  "category": "landmark",
-                  "coords": [
-                        34.352489,
-                        27.913884
-                  ]
-            },
-            {
-                  "name": "King Tut Museum",
-                  "text": "Expune replici realizate meticulos ale comorilor găsite în celebrul mormânt al faraonului Tutankhamon.",
-                  "category": "museum",
-                  "coords": [
-                        34.318814,
-                        27.907478
-                  ]
-            },
-            {
                   "name": "Mohamed Ali Pacha",
                   "text": "Un monument dedicat fostului conducător al Egiptului, marcând moștenirea sa istorică în regiune.",
                   "category": "historical",
@@ -4372,33 +4102,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   "coords": [
                         34.32528,
                         27.869279
-                  ]
-            },
-            {
-                  "name": "Middle Garden",
-                  "text": "Un platou de recif de corali vibrant, cu o varietate de corali creier și corali de foc, ideal pentru fotografia subacvatică.",
-                  "category": "landmark",
-                  "coords": [
-                        34.351121,
-                        27.91296
-                  ]
-            },
-            {
-                  "name": "Far Garden",
-                  "text": "O pantă de recif pitorească la capătul nordic al golfului, cunoscută pentru surplombele de corali colorate și peșteri.",
-                  "category": "landmark",
-                  "coords": [
-                        34.358875,
-                        27.915005
-                  ]
-            },
-            {
-                  "name": "Near Garden",
-                  "text": "O grădină de corali de mică adâncime, ușor accesibilă de la țărm, perfectă pentru începători pentru a observa viața marină.",
-                  "category": "landmark",
-                  "coords": [
-                        34.346712,
-                        27.908104
                   ]
             },
             {
@@ -4471,24 +4174,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   "coords": [
                         34.32296,
                         27.864461
-                  ]
-            },
-            {
-                  "name": "Sinai Grand Casino",
-                  "text": "Un cazinou mare pe Peninsula Sinai, care oferă o varietate de mese de joc și divertisment.",
-                  "category": "landmark",
-                  "coords": [
-                        34.340312,
-                        27.918536
-                  ]
-            },
-            {
-                  "name": "Sharm",
-                  "text": "O stațiune populară la Marea Roșie, renumită pentru locurile de scufundări de clasă mondială și plajele cu nisip.",
-                  "category": "landmark",
-                  "coords": [
-                        34.32448,
-                        27.908208
                   ]
             },
             {
@@ -4591,15 +4276,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Public Beach",
-                  "text": "O zonă de coastă accesibilă, care oferă facilități populare pentru înot și sporturi nautice.",
-                  "category": "recreational",
-                  "coords": [
-                        34.328,
-                        27.912454
-                  ]
-            },
-            {
                   "name": "Strand FANARA",
                   "text": "O plajă situată sub stâncile din Ras Um Sid, cunoscută pentru apele sale limpezi și fauna marină bogată.",
                   "category": "recreational",
@@ -4656,24 +4332,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Garden Bay",
-                  "text": "A calm and sheltered bay in Sharm El Sheikh, popular for its luxury beach resorts and clear waters.",
-                  "category": "landmark",
-                  "coords": [
-                        34.352489,
-                        27.913884
-                  ]
-            },
-            {
-                  "name": "King Tut Museum",
-                  "text": "Displays meticulously crafted replicas of the treasures found in Pharaoh Tutankhamun’s famous tomb.",
-                  "category": "museum",
-                  "coords": [
-                        34.318814,
-                        27.907478
-                  ]
-            },
-            {
                   "name": "Mohamed Ali Pacha",
                   "text": "A monument dedicated to the former ruler of Egypt, marking his historical legacy in the region.",
                   "category": "historical",
@@ -4707,33 +4365,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   "coords": [
                         34.32528,
                         27.869279
-                  ]
-            },
-            {
-                  "name": "Middle Garden",
-                  "text": "A vibrant coral reef plateau featuring a variety of brain and fire corals, ideal for underwater photography.",
-                  "category": "landmark",
-                  "coords": [
-                        34.351121,
-                        27.91296
-                  ]
-            },
-            {
-                  "name": "Far Garden",
-                  "text": "A scenic reef slope at the northern end of the bay, known for its colorful coral overhangs and caves.",
-                  "category": "landmark",
-                  "coords": [
-                        34.358875,
-                        27.915005
-                  ]
-            },
-            {
-                  "name": "Near Garden",
-                  "text": "A shallow coral garden easily accessible from the shore, perfect for beginner snorkelers to observe marine life.",
-                  "category": "landmark",
-                  "coords": [
-                        34.346712,
-                        27.908104
                   ]
             },
             {
@@ -4806,24 +4437,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   "coords": [
                         34.32296,
                         27.864461
-                  ]
-            },
-            {
-                  "name": "Sinai Grand Casino",
-                  "text": "A large casino resort on the Sinai Peninsula offering a variety of gaming tables and entertainment.",
-                  "category": "landmark",
-                  "coords": [
-                        34.340312,
-                        27.918536
-                  ]
-            },
-            {
-                  "name": "Sharm",
-                  "text": "A popular Red Sea resort town famous for its world-class diving sites and sandy beaches.",
-                  "category": "landmark",
-                  "coords": [
-                        34.32448,
-                        27.908208
                   ]
             },
             {
@@ -4923,15 +4536,6 @@ export const poiExtraEgyptEconomicV2: POI[] = [
                   "coords": [
                         34.298369,
                         27.854856
-                  ]
-            },
-            {
-                  "name": "Public Beach",
-                  "text": "An accessible coastal area providing popular opportunities for swimming and water sports.",
-                  "category": "recreational",
-                  "coords": [
-                        34.328,
-                        27.912454
                   ]
             },
             {

@@ -3321,15 +3321,6 @@ export const poiExtraUaeNatureV2: POI[] = [
     id: "kalba-conservation-reserve-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Kalba Art Centre",
-                  "text": "Ein kulturelles Zentrum in Kalba, das moderne Kunstwerke und Ausstellungen lokaler Künstler präsentiert.",
-                  "category": "cultural",
-                  "coords": [
-                        56.361097,
-                        25.051682
-                  ]
-            },
-            {
                   "name": "Wildlife observation",
                   "text": "Ein Beobachtungspunkt im Naturschutzgebiet, von dem aus man seltene Vögel und andere lokale Tierarten sichten kann.",
                   "category": "natural",
@@ -3448,15 +3439,6 @@ export const poiExtraUaeNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Kalba Art Centre",
-                  "text": "Kulturális központ Kalba városában, ahol helyi művészek kortárs alkotásait és kiállításait mutatják be.",
-                  "category": "cultural",
-                  "coords": [
-                        56.361097,
-                        25.051682
-                  ]
-            },
             {
                   "name": "Wildlife observation",
                   "text": "Megfigyelőpont a természetvédelmi területen, ahonnan ritka madarak és más helyi vadon élő állatok láthatók.",
@@ -3577,15 +3559,6 @@ export const poiExtraUaeNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Kalba Art Centre",
-                  "text": "Un centru cultural în Kalba care expune opere de artă contemporană și expoziții ale artiștilor locali.",
-                  "category": "cultural",
-                  "coords": [
-                        56.361097,
-                        25.051682
-                  ]
-            },
-            {
                   "name": "Wildlife observation",
                   "text": "Un punct de observație în rezervația de conservare de unde pot fi observate păsări rare și alte specii sălbatice locale.",
                   "category": "natural",
@@ -3704,15 +3677,6 @@ export const poiExtraUaeNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Kalba Art Centre",
-                  "text": "A cultural hub in Kalba showcasing contemporary artworks and exhibitions by local artists.",
-                  "category": "cultural",
-                  "coords": [
-                        56.361097,
-                        25.051682
-                  ]
-            },
             {
                   "name": "Wildlife observation",
                   "text": "An observation point in the conservation reserve from which rare birds and other local wildlife can be spotted.",

@@ -751,50 +751,10 @@ export const poiExtraSouthsudanHistoryV2: POI[] = [
   },
   {
     id: "old-fangak-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "plane",
-                  "text": "Das Wrack eines abgestürzten Flugzeugs, das als Ruine in der Region Old Fangak liegt.",
-                  "category": "historical",
-                  "coords": [
-                        30.879859,
-                        9.079483
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "plane",
-                  "text": "Egy lezuhant repülőgép roncsa, amely romként fekszik az Old Fangak régióban.",
-                  "category": "historical",
-                  "coords": [
-                        30.879859,
-                        9.079483
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "plane",
-                  "text": "Epava unui avion prăbușit care se odihnește ca o ruină în regiunea Old Fangak.",
-                  "category": "historical",
-                  "coords": [
-                        30.879859,
-                        9.079483
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "plane",
-                  "text": "The wreckage of a crashed airplane resting as a ruin in the Old Fangak region.",
-                  "category": "historical",
-                  "coords": [
-                        30.879859,
-                        9.079483
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "SS-JO",

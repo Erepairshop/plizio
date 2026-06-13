@@ -6,24 +6,6 @@ export const serbiaLifeV2: POI[] = [
     id: "serbia-tara-national-forest-life-v2", "sights": {
       "de": [
             {
-                  "name": "Nationalpark Tara",
-                  "text": "Ein beeindruckender Nationalpark in Serbien, der für seine dichten Wälder, Schluchten und die vielfältige Tierwelt bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        19.390144,
-                        43.915721
-                  ]
-            },
-            {
-                  "name": "Kozja stena",
-                  "text": "Ein berühmter Aussichtspunkt im Tara-Nationalpark mit spektakulärem Blick auf die Schlucht des Flusses Drina.",
-                  "category": "natural",
-                  "coords": [
-                        19.428944,
-                        43.944537
-                  ]
-            },
-            {
                   "name": "Vidikovac Oštra stena",
                   "text": "Ein malerischer Aussichtspunkt, der eine Panoramaperspektive auf die bergige Tara-Region bietet.",
                   "category": "natural",
@@ -34,24 +16,6 @@ export const serbiaLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Natsionalni park Tara",
-                  "text": "Lenyűgöző szerbiai nemzeti park, amely sűrű erdőiről, kanyonjairól és változatos élővilágáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        19.390144,
-                        43.915721
-                  ]
-            },
-            {
-                  "name": "Kozja stena",
-                  "text": "A Tara Nemzeti Park híres kilátóhelye, ahonnan látványos kilátás nyílik a Drina folyó kanyonjára.",
-                  "category": "natural",
-                  "coords": [
-                        19.428944,
-                        43.944537
-                  ]
-            },
             {
                   "name": "Vidikovac Oštra stena",
                   "text": "Festői kilátópont, amely panorámás rálátást nyújt a Tara hegyvidéki régiójára.",
@@ -64,24 +28,6 @@ export const serbiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Natsionalni park Tara",
-                  "text": "Un parc național uimitor din Serbia, cunoscut pentru pădurile sale dese, canioanele și fauna sălbatică diversă.",
-                  "category": "natural",
-                  "coords": [
-                        19.390144,
-                        43.915721
-                  ]
-            },
-            {
-                  "name": "Kozja stena",
-                  "text": "Un punct de observație faimos din Parcul Național Tara care oferă vederi spectaculoase asupra canionului râului Drina.",
-                  "category": "natural",
-                  "coords": [
-                        19.428944,
-                        43.944537
-                  ]
-            },
-            {
                   "name": "Vidikovac Oštra stena",
                   "text": "Un punct de belvedere pitoresc care oferă o perspectivă panoramică asupra regiunii muntoase Tara.",
                   "category": "natural",
@@ -92,24 +38,6 @@ export const serbiaLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Tara National Park",
-                  "text": "A stunning national park in Serbia known for its dense forests, canyons, and diverse wildlife.",
-                  "category": "natural",
-                  "coords": [
-                        19.390144,
-                        43.915721
-                  ]
-            },
-            {
-                  "name": "Kozja stena",
-                  "text": "A famous viewpoint in Tara National Park providing spectacular views of the Drina River canyon.",
-                  "category": "natural",
-                  "coords": [
-                        19.428944,
-                        43.944537
-                  ]
-            },
             {
                   "name": "Vidikovac Oštra stena",
                   "text": "A scenic lookout point offering a panoramic perspective of the mountainous Tara region.",
@@ -465,78 +393,6 @@ export const serbiaLifeV2: POI[] = [
     id: "serbia-belgrade-botanical-garden-life-v2", "sights": {
       "de": [
             {
-                  "name": "Römischer Brunnen",
-                  "text": "Römischer Brunnen, ein tiefes historisches Bauwerk aus dem 18. Jahrhundert, nahe dem Botanischen Garten Belgrads.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Mittelalterliche Burgruine des Despoten Stefan Lazarević in der Nähe des Botanischen Gartens Belgrads.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Nationalmuseum zur politischen und kulturellen Geschichte Serbiens.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Museum in Belgrad, das die Geschichte der serbischen Eisenbahn dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Gedenkmuseum für den Nobelpreisträger Ivo Andrić in seiner ehemaligen Wohnung.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Museum im ehemaligen Atelier des bedeutenden serbischen Malers Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Privates Museum in Belgrad mit einer Sammlung moderner und zeitgenössischer Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Museum zur Geschichte von Post, Telegrafie und Telefonie in Serbien.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Dieses öffentliche Aquarium befindet sich beim Botanischen Garten Jevremovac in Belgrad und zeigt exotische Fischarten.",
                   "category": "recreational",
@@ -552,15 +408,6 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         20.450851,
                         44.822126
-                  ]
-            },
-            {
-                  "name": "Belgrader Zoo",
-                  "text": "Der Belgrader Zoo, nahe dem Botanischen Garten gelegen, ist eine der ältesten Kultureinrichtungen der serbischen Hauptstadt.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
                   ]
             },
             {
@@ -583,78 +430,6 @@ export const serbiaLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Rimski bunar",
-                  "text": "Római kút, egy mély, 18. századi történelmi építmény a Belgrádi Botanikus Kert közelében.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Stefan Lazarević despota középkori várának romjai a Belgrádi Botanikus Kert közelében.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Szerbia politikai és kulturális történelmének nemzeti múzeuma.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Belgrádi múzeum, amely a szerb vasút történetét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Ivo Andrić Nobel-díjas író emlékmúzeuma egykori lakásában.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Múzeum Paja Jovanović neves szerb festőművész egykori műtermében.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Magánmúzeum Belgrádban modern és kortárs művészeti gyűjteménnyel.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "A szerbiai posta, távíró és telefon történetét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
             {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Ez a nyilvános akvárium a belgrádi Jevremovac Botanikus Kertnél található, és egzotikus halfajokat mutat be.",
@@ -703,78 +478,6 @@ export const serbiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rimski bunar",
-                  "text": "Fântâna Romană, o construcție istorică adâncă din secolul al XVIII-lea, lângă Grădina Botanică din Belgrad.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Ruinele castelului medieval al despotului Stefan Lazarević lângă Grădina Botanică din Belgrad.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Muzeul național dedicat istoriei politice și culturale a Serbiei.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Muzeu în Belgrad care documentează istoria căilor ferate sârbe.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Muzeu memorial dedicat laureatului Nobel Ivo Andrić în fostul său apartament.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Muzeu în fostul atelier al renumitului pictor sârb Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Muzeu privat din Belgrad cu o colecție de artă modernă și contemporană.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Muzeu dedicat istoriei poștei, telegrafiei și telefoniei în Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
                   "name": "Јавни акваријум и тропикаријум",
                   "text": "Acest acvariu public este situat lângă Grădina Botanică Jevremovac din Belgrad și prezintă specii exotice de pești.",
                   "category": "recreational",
@@ -821,105 +524,6 @@ export const serbiaLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Roman Well",
-                  "text": "Roman Well, a deep 18th-century historic structure near the Belgrade Botanical Garden.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Remains of Despot Stefan Lazarevic's Castle",
-                  "text": "Medieval castle ruins of Despot Stefan Lazarević near the Belgrade Botanical Garden.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Historical Museum of Serbia",
-                  "text": "National museum dedicated to the political and cultural history of Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "Museum in Belgrade documenting the history of Serbian railways.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Ivo Andric Museum",
-                  "text": "Memorial museum for Nobel laureate Ivo Andrić in his former apartment.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovića",
-                  "text": "Museum in the former studio of the prominent Serbian painter Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Zepter Museum",
-                  "text": "Private museum in Belgrade with a collection of modern and contemporary art.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT Museum",
-                  "text": "Museum dedicated to the history of post, telegraphy, and telephony in Serbia.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
-                  "name": "Public Aquarium and Tropicarium",
-                  "text": "This public aquarium is located near the Jevremovac Botanical Garden in Belgrade and showcases exotic fish species.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450379,
-                        44.784244
-                  ]
-            },
-            {
-                  "name": "Dino Park Kalemegdan – Jura Avantura",
-                  "text": "Dino Park Kalemegdan, located near the botanical garden, offers exciting insights into the world of prehistoric giants.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450851,
-                        44.822126
-                  ]
-            },
-            {
-                  "name": "Belgrade Zoo",
-                  "text": "The Belgrade Zoo, located near the botanical garden, is one of the oldest cultural institutions in the Serbian capital.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
-            },
             {
                   "name": "Dechji bazen",
                   "text": "A children's swimming pool located near the Jevremovac Botanical Garden in Belgrade.",
@@ -985,86 +589,10 @@ export const serbiaLifeV2: POI[] = [
   },
   {
     id: "serbia-stara-planina-park-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Babin zub",
-                  "text": "Ein markanter Gipfel und Skigebiet im Naturpark Stara Planina in Serbien.",
-                  "category": "landmark",
-                  "coords": [
-                        22.609002,
-                        43.36943
-                  ]
-            },
-            {
-                  "name": "Plaža",
-                  "text": "Ein Aussichtspunkt im Naturpark Stara Planina, der weite Ausblicke auf die Berglandschaft bietet.",
-                  "category": "natural",
-                  "coords": [
-                        22.624649,
-                        43.37449
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Babin zub",
-                  "text": "Jellegzetes hegycsúcs és síközpont a szerbiai Stara Planina Natúrparkban.",
-                  "category": "landmark",
-                  "coords": [
-                        22.609002,
-                        43.36943
-                  ]
-            },
-            {
-                  "name": "Plaža",
-                  "text": "Kilátóhely a Stara Planina Natúrparkban, ahonnan tágas kilátás nyílik a hegyi tájra.",
-                  "category": "natural",
-                  "coords": [
-                        22.624649,
-                        43.37449
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Babin zub",
-                  "text": "Un vârf proeminent și stațiune de schi în Parcul Natural Stara Planina din Serbia.",
-                  "category": "landmark",
-                  "coords": [
-                        22.609002,
-                        43.36943
-                  ]
-            },
-            {
-                  "name": "Plaža",
-                  "text": "Un punct de observație în Parcul Natural Stara Planina, oferind vederi largi asupra peisajului montan.",
-                  "category": "natural",
-                  "coords": [
-                        22.624649,
-                        43.37449
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Babin Zub",
-                  "text": "A prominent peak and ski resort area in the Stara Planina Nature Park in Serbia.",
-                  "category": "landmark",
-                  "coords": [
-                        22.609002,
-                        43.36943
-                  ]
-            },
-            {
-                  "name": "Plaža",
-                  "text": "A viewpoint in the Stara Planina Nature Park offering expansive views of the mountain landscape.",
-                  "category": "natural",
-                  "coords": [
-                        22.624649,
-                        43.37449
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "park",
     parent: "RS",
@@ -1158,24 +686,6 @@ export const serbiaLifeV2: POI[] = [
     id: "serbia-ovcar-kablar-reserve-life-v2", "sights": {
       "de": [
             {
-                  "name": "Ovcharsko-kablarska klisura",
-                  "text": "Eine malerische Kalksteinschlucht der Westlichen Morava mit zahlreichen Klöstern.",
-                  "category": "natural",
-                  "coords": [
-                        20.189606,
-                        43.908867
-                  ]
-            },
-            {
-                  "name": "Prirodnjachki tsentar",
-                  "text": "Museum zur Naturgeschichte und Artenvielfalt der Region Ovčar-Kablar.",
-                  "category": "museum",
-                  "coords": [
-                        20.187656,
-                        43.900238
-                  ]
-            },
-            {
                   "name": "Ovchar",
                   "text": "Der höchste Gipfel der Ovčar-Kablar-Schlucht mit Panoramablick.",
                   "category": "landmark",
@@ -1195,24 +705,6 @@ export const serbiaLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Ovcharsko-kablarska klisura",
-                  "text": "A Nyugati-Morava festői mészkőszurdoka, amely számos kolostoráról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        20.189606,
-                        43.908867
-                  ]
-            },
-            {
-                  "name": "Prirodnjachki tsentar",
-                  "text": "Az Ovčar-Kablar régió természetrajzát és élővilágát bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.187656,
-                        43.900238
-                  ]
-            },
             {
                   "name": "Ovchar",
                   "text": "Az Ovčar-Kablar-szurdok legmagasabb csúcsa, panorámás kilátással.",
@@ -1234,24 +726,6 @@ export const serbiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ovcharsko-kablarska klisura",
-                  "text": "Defileu calcaros pitoresc al râului Morava de Vest, cunoscut pentru numeroasele sale mănăstiri.",
-                  "category": "natural",
-                  "coords": [
-                        20.189606,
-                        43.908867
-                  ]
-            },
-            {
-                  "name": "Prirodnjachki tsentar",
-                  "text": "Muzeu dedicat istoriei naturale și biodiversității regiunii Ovčar-Kablar.",
-                  "category": "museum",
-                  "coords": [
-                        20.187656,
-                        43.900238
-                  ]
-            },
-            {
                   "name": "Ovchar",
                   "text": "Cel mai înalt vârf din Defileul Ovčar-Kablar, oferind vedere panoramică.",
                   "category": "landmark",
@@ -1271,24 +745,6 @@ export const serbiaLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Ovčar-Kablar Gorge",
-                  "text": "A scenic limestone gorge of the West Morava river known for its many monasteries.",
-                  "category": "natural",
-                  "coords": [
-                        20.189606,
-                        43.908867
-                  ]
-            },
-            {
-                  "name": "Natural History Centre",
-                  "text": "Museum focused on the natural history and biodiversity of the Ovčar-Kablar region.",
-                  "category": "museum",
-                  "coords": [
-                        20.187656,
-                        43.900238
-                  ]
-            },
             {
                   "name": "Ovčar",
                   "text": "The highest peak of the Ovčar-Kablar Gorge, offering panoramic views.",
@@ -1356,78 +812,6 @@ export const serbiaLifeV2: POI[] = [
     id: "serbia-veliki-ratno-ostrvo-life-v2", "sights": {
       "de": [
             {
-                  "name": "Römischer Brunnen",
-                  "text": "Der Römische Brunnen in der Belgrader Festung wurde bekanntlich von Alfred Hitchcock besucht.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Die Burgruine von Stefan Lazarević in der Belgrader Festung wurde 1690 weitgehend zerstört.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Das Historische Museum von Serbien in Belgrad bewahrt die Insignien serbischer Könige auf.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Das Eisenbahnmuseum in Belgrad, gegründet 1950, zeigt die Geschichte der Eisenbahn.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Ein Gedenkmuseum in Belgrad, das dem Leben und Werk des Nobelpreisträgers Ivo Andrić gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Dieses Museum zeigt das Werk und den persönlichen Nachlass des bedeutenden serbischen Malers Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Ein privates Kunstmuseum, das eine bedeutende Sammlung moderner und zeitgenössischer Werke beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Ein Fachmuseum in Belgrad, das die Geschichte des Post-, Telegrafen- und Telefonwesens dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
                   "name": "Aqua Termal Club",
                   "text": "Der Aqua Termal Club ist eine Schwimmbadanlage auf der Großen Kriegsinsel.",
                   "category": "recreational",
@@ -1462,90 +846,9 @@ export const serbiaLifeV2: POI[] = [
                         20.424264,
                         44.840025
                   ]
-            },
-            {
-                  "name": "Belgrader Zoo",
-                  "text": "Einer der ältesten Zoos in Europa, der sich innerhalb der Festung Kalemegdan befindet.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Rimski bunar",
-                  "text": "A belgrádi erődítményben található Római-kutat Alfred Hitchcock is meglátogatott.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Stefan Lazarević várának romjai a belgrádi erődben nagyrészt 1690-ben pusztultak el.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "A belgrádi Szerbiai Történeti Múzeum a szerb királyok koronázási jelvényeit őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Az 1950-ben alapított belgrádi Vasúttörténeti Múzeum a vasút történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "A Nobel-díjas író, Ivo Andrić életének és munkásságának szentelt emlékmúzeum.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Ez a múzeum a neves szerb festő, Paja Jovanović munkásságát és személyes hagyatékát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Magánkézben lévő művészeti múzeum, amely modern és kortárs alkotások jelentős gyűjteményének ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Belgrádi szakmúzeum, amely a posta, a távíró és a telefon történetét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
             {
                   "name": "Aqua Termal Club",
                   "text": "Az Aqua Termal Club egy úszómedence-létesítmény a Nagy Hadi-szigeten.",
@@ -1594,78 +897,6 @@ export const serbiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rimski bunar",
-                  "text": "Purgatoriul Roman din cetatea Belgrad a fost vizitat de faimosul Alfred Hitchcock.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Ostatsi zamka despota Stefana Lazarevitsha",
-                  "text": "Ruinele castelului lui Stefan Lazarević din cetatea Belgrad au fost în mare parte distruse în 1690.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Istorijski muzej Srbije",
-                  "text": "Muzeul Istoric al Serbiei din Belgrad păstrează însemnele regale ale regilor sârbi.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Zheleznichki muzej",
-                  "text": "Muzeul Căilor Ferate din Belgrad, fondat în 1950, prezintă istoria căilor ferate.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Muzej Ive Andritsha",
-                  "text": "Un muzeu memorial dedicat vieții și operei scriitorului laureat al Premiului Nobel, Ivo Andrić.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovitsha",
-                  "text": "Acest muzeu prezintă opera și moștenirea personală a importantului pictor sârb Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Muzej Tsepter",
-                  "text": "Un muzeu de artă privat care găzduiește o colecție importantă de lucrări moderne și contemporane.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT muzej",
-                  "text": "Un muzeu specializat din Belgrad care documentează istoria serviciilor poștale, telegrafice și telefonice.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
                   "name": "Aqua Termal Club",
                   "text": "Aqua Termal Club este o unitate de înot situată pe Insula Mare a Războiului.",
                   "category": "recreational",
@@ -1713,78 +944,6 @@ export const serbiaLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Roman Well",
-                  "text": "The Roman Well in Belgrade Fortress was famously visited by Alfred Hitchcock.",
-                  "category": "museum",
-                  "coords": [
-                        20.448182,
-                        44.823082
-                  ]
-            },
-            {
-                  "name": "Remains of Despot Stefan Lazarevic's Castle",
-                  "text": "Stefan Lazarevic's Castle ruins in Belgrade Fortress were largely destroyed in 1690.",
-                  "category": "historical",
-                  "coords": [
-                        20.448974,
-                        44.824034
-                  ]
-            },
-            {
-                  "name": "Historical Museum of Serbia",
-                  "text": "Historical Museum of Serbia in Belgrade holds the regalia of Serbian kings.",
-                  "category": "museum",
-                  "coords": [
-                        20.463766,
-                        44.812489
-                  ]
-            },
-            {
-                  "name": "Railway Museum",
-                  "text": "Railway Museum in Belgrade, founded in 1950, showcases rail history.",
-                  "category": "museum",
-                  "coords": [
-                        20.458098,
-                        44.805913
-                  ]
-            },
-            {
-                  "name": "Ivo Andric Museum",
-                  "text": "A memorial museum dedicated to the life and work of the Nobel Prize-winning author Ivo Andrić.",
-                  "category": "museum",
-                  "coords": [
-                        20.463782,
-                        44.809649
-                  ]
-            },
-            {
-                  "name": "Muzej Paje Jovanovića",
-                  "text": "This museum showcases the work and personal legacy of the prominent Serbian painter Paja Jovanović.",
-                  "category": "museum",
-                  "coords": [
-                        20.464321,
-                        44.80749
-                  ]
-            },
-            {
-                  "name": "Zepter Museum",
-                  "text": "A private art museum housing a significant collection of modern and contemporary works.",
-                  "category": "museum",
-                  "coords": [
-                        20.455944,
-                        44.818557
-                  ]
-            },
-            {
-                  "name": "PTT Museum",
-                  "text": "A specialized museum in Belgrade documenting the history of postal, telegraph, and telephone services.",
-                  "category": "museum",
-                  "coords": [
-                        20.468044,
-                        44.812585
-                  ]
-            },
-            {
                   "name": "Aqua Termal Club",
                   "text": "Aqua Termal Club is a swimming pool facility located on Great War Island.",
                   "category": "recreational",
@@ -1794,39 +953,12 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Public Aquarium and Tropicarium",
-                  "text": "This aquarium displays a variety of fish and reptiles from tropical regions.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450379,
-                        44.784244
-                  ]
-            },
-            {
-                  "name": "Dino Park Kalemegdan – Jura Avantura",
-                  "text": "A theme park featuring life-sized dinosaur models near the Kalemegdan Fortress.",
-                  "category": "recreational",
-                  "coords": [
-                        20.450851,
-                        44.822126
-                  ]
-            },
-            {
                   "name": "Lido",
                   "text": "A popular sandy beach located at the tip of the Great War Island in Belgrade.",
                   "category": "recreational",
                   "coords": [
                         20.424264,
                         44.840025
-                  ]
-            },
-            {
-                  "name": "Belgrade Zoo",
-                  "text": "One of the oldest zoos in Europe, located within the Kalemegdan Fortress.",
-                  "category": "recreational",
-                  "coords": [
-                        20.453527,
-                        44.825754
                   ]
             }
       ]
@@ -1876,122 +1008,10 @@ export const serbiaLifeV2: POI[] = [
   },
   {
     id: "serbia-kopaonik-park-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Crkvine, Nebeske Stolice",
-                  "text": "Archäologische Stätte mit Resten einer frühchristlichen Basilika.",
-                  "category": "historical",
-                  "coords": [
-                        20.835814,
-                        43.26188
-                  ]
-            },
-            {
-                  "name": "Panchitshev vrkh",
-                  "text": "Panchichev vrh ist der höchste Gipfel des Kopaonik-Gebirges.",
-                  "category": "landmark",
-                  "coords": [
-                        20.823663,
-                        43.269255
-                  ]
-            },
-            {
-                  "name": "Obelisk",
-                  "text": "Ein steinerner Obelisk im Kopaonik-Nationalpark.",
-                  "category": "historical",
-                  "coords": [
-                        20.818674,
-                        43.272555
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Crkvine, Nebeske Stolice",
-                  "text": "Régészeti lelőhely egy kora keresztény bazilika maradványaival.",
-                  "category": "historical",
-                  "coords": [
-                        20.835814,
-                        43.26188
-                  ]
-            },
-            {
-                  "name": "Panchitshev vrkh",
-                  "text": "A Panchichev vrh a Kopaonik-hegység legmagasabb csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        20.823663,
-                        43.269255
-                  ]
-            },
-            {
-                  "name": "Obelisk",
-                  "text": "Egy kő obeliszk a Kopaonik Nemzeti Parkban.",
-                  "category": "historical",
-                  "coords": [
-                        20.818674,
-                        43.272555
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Crkvine, Nebeske Stolice",
-                  "text": "Sit arheologic cu vestigiile unei bazilici timpurii creștine.",
-                  "category": "historical",
-                  "coords": [
-                        20.835814,
-                        43.26188
-                  ]
-            },
-            {
-                  "name": "Panchitshev vrkh",
-                  "text": "Panchichev vrh este cel mai înalt vârf al masivului Kopaonik.",
-                  "category": "landmark",
-                  "coords": [
-                        20.823663,
-                        43.269255
-                  ]
-            },
-            {
-                  "name": "Obelisk",
-                  "text": "Un obelisc de piatră în Parcul Național Kopaonik.",
-                  "category": "historical",
-                  "coords": [
-                        20.818674,
-                        43.272555
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Crkvine, Nebeske Stolice",
-                  "text": "Archaeological site with remains of an early Christian basilica.",
-                  "category": "historical",
-                  "coords": [
-                        20.835814,
-                        43.26188
-                  ]
-            },
-            {
-                  "name": "Panchichev vrh",
-                  "text": "Panchichev vrh is the highest peak of the Kopaonik mountain range.",
-                  "category": "landmark",
-                  "coords": [
-                        20.823663,
-                        43.269255
-                  ]
-            },
-            {
-                  "name": "Obelisk",
-                  "text": "A stone obelisk in Kopaonik National Park.",
-                  "category": "historical",
-                  "coords": [
-                        20.818674,
-                        43.272555
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "park",
     parent: "RS",
@@ -2049,15 +1069,6 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Brankovac",
-                  "text": "Brankovac ist ein beliebter Aussichtspunkt und Rastplatz im Gebirge Fruška Gora.",
-                  "category": "natural",
-                  "coords": [
-                        19.748514,
-                        45.15666
-                  ]
-            },
-            {
                   "name": "Manastir Beshenovo",
                   "text": "Das Kloster Besenovo ist eine historische orthodoxe Gebetsstätte in der Fruška Gora.",
                   "category": "religious",
@@ -2075,15 +1086,6 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         19.711478,
                         45.151032
-                  ]
-            },
-            {
-                  "name": "Brankovac",
-                  "text": "Brankovac egy népszerű kilátó és pihenőhely a Fruška Gora hegyei között.",
-                  "category": "natural",
-                  "coords": [
-                        19.748514,
-                        45.15666
                   ]
             },
             {
@@ -2107,15 +1109,6 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Brankovac",
-                  "text": "Brankovac este un punct de belvedere și loc de popas popular în munții Fruška Gora.",
-                  "category": "natural",
-                  "coords": [
-                        19.748514,
-                        45.15666
-                  ]
-            },
-            {
                   "name": "Manastir Beshenovo",
                   "text": "Mănăstirea Besenovo este un lăcaș de cult ortodox istoric situat în Fruška Gora.",
                   "category": "religious",
@@ -2133,15 +1126,6 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         19.711478,
                         45.151032
-                  ]
-            },
-            {
-                  "name": "Brankovac",
-                  "text": "Brankovac is a popular viewpoint and resting spot in the Fruška Gora mountains.",
-                  "category": "natural",
-                  "coords": [
-                        19.748514,
-                        45.15666
                   ]
             },
             {
@@ -2949,24 +1933,6 @@ export const serbiaLifeV2: POI[] = [
     id: "serbia-banjska-stena-life-v2", "sights": {
       "de": [
             {
-                  "name": "Nationalpark Tara",
-                  "text": "Ein serbischer Nationalpark, bekannt für seine dichten Wälder und die Drina-Schlucht.",
-                  "category": "natural",
-                  "coords": [
-                        19.390144,
-                        43.915721
-                  ]
-            },
-            {
-                  "name": "Nekropola stetshaka Donje Mramorje",
-                  "text": "Eine archäologische Stätte mit mittelalterlichen Grabsteinen im Tara-Nationalpark.",
-                  "category": "historical",
-                  "coords": [
-                        19.353273,
-                        43.945691
-                  ]
-            },
-            {
                   "name": "Kozja stena",
                   "text": "Ein Aussichtspunkt im Tara-Nationalpark mit weitem Blick über den Drina-Fluss.",
                   "category": "natural",
@@ -2982,15 +1948,6 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         19.401079,
                         43.952148
-                  ]
-            },
-            {
-                  "name": "Vidikovac Oštra stena",
-                  "text": "Ein Berg-Aussichtspunkt, der spektakuläre Ausblicke auf die Tara-Region bietet.",
-                  "category": "natural",
-                  "coords": [
-                        19.4399,
-                        43.940685
                   ]
             },
             {
@@ -3023,24 +1980,6 @@ export const serbiaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Natsionalni park Tara",
-                  "text": "Szerbiai nemzeti park, amely sűrű erdőiről és a Drina-kanyonról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        19.390144,
-                        43.915721
-                  ]
-            },
-            {
-                  "name": "Nekropola stetshaka Donje Mramorje",
-                  "text": "Középkori sírköveket bemutató régészeti lelőhely a Tara Nemzeti Parkban.",
-                  "category": "historical",
-                  "coords": [
-                        19.353273,
-                        43.945691
-                  ]
-            },
-            {
                   "name": "Kozja stena",
                   "text": "Kilátópont a Tara Nemzeti Parkban, széles kilátással a Drina folyóra.",
                   "category": "natural",
@@ -3056,15 +1995,6 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         19.401079,
                         43.952148
-                  ]
-            },
-            {
-                  "name": "Vidikovac Oštra stena",
-                  "text": "Hegyi kilátópont, amely látványos kilátást nyújt a Tara-régióra.",
-                  "category": "natural",
-                  "coords": [
-                        19.4399,
-                        43.940685
                   ]
             },
             {
@@ -3097,24 +2027,6 @@ export const serbiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Natsionalni park Tara",
-                  "text": "Un parc național sârbesc, cunoscut pentru pădurile sale dese și canionul Drina.",
-                  "category": "natural",
-                  "coords": [
-                        19.390144,
-                        43.915721
-                  ]
-            },
-            {
-                  "name": "Nekropola stetshaka Donje Mramorje",
-                  "text": "Un sit arheologic cu pietre funerare medievale în Parcul Național Tara.",
-                  "category": "historical",
-                  "coords": [
-                        19.353273,
-                        43.945691
-                  ]
-            },
-            {
                   "name": "Kozja stena",
                   "text": "Un punct de observație în Parcul Național Tara, cu o vedere largă asupra râului Drina.",
                   "category": "natural",
@@ -3130,15 +2042,6 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         19.401079,
                         43.952148
-                  ]
-            },
-            {
-                  "name": "Vidikovac Oštra stena",
-                  "text": "Un punct de observație montan care oferă vederi spectaculoase asupra regiunii Tara.",
-                  "category": "natural",
-                  "coords": [
-                        19.4399,
-                        43.940685
                   ]
             },
             {
@@ -3171,24 +2074,6 @@ export const serbiaLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Tara National Park",
-                  "text": "A Serbian national park known for its dense forests and the Drina canyon.",
-                  "category": "natural",
-                  "coords": [
-                        19.390144,
-                        43.915721
-                  ]
-            },
-            {
-                  "name": "Stecci Necropolis Rastiste, Locality Urosevine",
-                  "text": "An archaeological site featuring medieval tombstones in Tara National Park.",
-                  "category": "historical",
-                  "coords": [
-                        19.353273,
-                        43.945691
-                  ]
-            },
-            {
                   "name": "Kozja stena",
                   "text": "A viewpoint in Tara National Park with a wide view over the Drina River.",
                   "category": "natural",
@@ -3204,15 +2089,6 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         19.401079,
                         43.952148
-                  ]
-            },
-            {
-                  "name": "Vidikovac Oštra stena",
-                  "text": "A mountain viewpoint offering spectacular views of the Tara region.",
-                  "category": "natural",
-                  "coords": [
-                        19.4399,
-                        43.940685
                   ]
             },
             {
@@ -3480,24 +2356,6 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Babin zub",
-                  "text": "Ein markanter Berggipfel und beliebtes Touristenziel im Balkangebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        22.609002,
-                        43.36943
-                  ]
-            },
-            {
-                  "name": "Plaža",
-                  "text": "Ein Aussichtspunkt mit Blick auf die umliegende Berglandschaft.",
-                  "category": "natural",
-                  "coords": [
-                        22.624649,
-                        43.37449
-                  ]
-            },
-            {
                   "name": "Kovani Do",
                   "text": "Eine natürliche Sehenswürdigkeit im Gebiet der Stara-Planina-Wasserfälle.",
                   "category": "landmark",
@@ -3524,24 +2382,6 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         22.680107,
                         43.339884
-                  ]
-            },
-            {
-                  "name": "Babin zub",
-                  "text": "Jellegzetes hegycsúcs és népszerű turisztikai célpont a Balkán-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        22.609002,
-                        43.36943
-                  ]
-            },
-            {
-                  "name": "Plaža",
-                  "text": "Kilátópont a környező hegyvidéki tájra.",
-                  "category": "natural",
-                  "coords": [
-                        22.624649,
-                        43.37449
                   ]
             },
             {
@@ -3574,24 +2414,6 @@ export const serbiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Babin zub",
-                  "text": "Un vârf montan distinctiv și o destinație turistică populară în Munții Balcani.",
-                  "category": "landmark",
-                  "coords": [
-                        22.609002,
-                        43.36943
-                  ]
-            },
-            {
-                  "name": "Plaža",
-                  "text": "Un punct de belvedere cu vedere spre peisajul montan înconjurător.",
-                  "category": "natural",
-                  "coords": [
-                        22.624649,
-                        43.37449
-                  ]
-            },
-            {
                   "name": "Kovani Do",
                   "text": "O atracție naturală în zona cascadelor din Stara Planina.",
                   "category": "landmark",
@@ -3618,24 +2440,6 @@ export const serbiaLifeV2: POI[] = [
                   "coords": [
                         22.680107,
                         43.339884
-                  ]
-            },
-            {
-                  "name": "Babin Zub",
-                  "text": "A distinctive mountain peak and popular tourist destination in the Balkan Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        22.609002,
-                        43.36943
-                  ]
-            },
-            {
-                  "name": "Plaža",
-                  "text": "A viewpoint offering views of the surrounding mountain landscape.",
-                  "category": "natural",
-                  "coords": [
-                        22.624649,
-                        43.37449
                   ]
             },
             {

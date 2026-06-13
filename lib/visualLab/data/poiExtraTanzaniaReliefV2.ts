@@ -357,33 +357,6 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
     id: "usambara-mountains-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Irente Farm",
-                  "text": "Ein aktiver Bauernhof in den Usambara-Bergen, der für die Herstellung von lokalem Käse, Marmeladen und frischem Brot bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        38.265372,
-                        -4.793933
-                  ]
-            },
-            {
-                  "name": "Tayodea Tourist office",
-                  "text": "Ein lokales Informationszentrum in den Usambara-Bergen, das Besuchern bei der Organisation von Wanderungen und Kulturtouren hilft.",
-                  "category": "landmark",
-                  "coords": [
-                        38.291335,
-                        -4.793954
-                  ]
-            },
-            {
-                  "name": "Main trail head",
-                  "text": "Der Hauptausgangspunkt für Wanderer, die sich auf die malerischen Routen durch die üppigen Usambara-Berge begeben.",
-                  "category": "landmark",
-                  "coords": [
-                        38.295136,
-                        -4.759979
-                  ]
-            },
-            {
                   "name": "Kisasa Falls Viewpoint",
                   "text": "Ein Aussichtspunkt in den Usambara-Bergen, der einen ungestörten Blick auf das herabstürzende Wasser der Kisasa-Fälle bietet.",
                   "category": "natural",
@@ -393,48 +366,12 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anzo maji trailhead",
-                  "text": "Ein markierter Wegeingang, der Wanderer zu den lokalen Wasserquellen in den Höhenlagen von Usambara führt.",
-                  "category": "landmark",
-                  "coords": [
-                        38.28957,
-                        -4.75867
-                  ]
-            },
-            {
-                  "name": "New viewpoint and campsite",
-                  "text": "Ein malerischer Aussichtspunkt mit einem ausgewiesenen Campingplatz inmitten der sanften Hügellandschaft der Usambara-Berge.",
-                  "category": "natural",
-                  "coords": [
-                        38.279237,
-                        -4.76635
-                  ]
-            },
-            {
-                  "name": "Eucalyptus trailhead",
-                  "text": "Der Startpunkt eines Waldweges in den Usambara-Bergen, der von hoch aufragenden, für die Plantagen typischen Eukalyptusbäumen beschattet wird.",
-                  "category": "landmark",
-                  "coords": [
-                        38.284966,
-                        -4.763592
-                  ]
-            },
-            {
                   "name": "Mnananda trail head",
                   "text": "Ein erhöhter Startpunkt, der Panoramablicke bietet, bevor die Wanderer tiefer in die Bergkette von Usambara vordringen.",
                   "category": "natural",
                   "coords": [
                         38.281692,
                         -4.767859
-                  ]
-            },
-            {
-                  "name": "magamba",
-                  "text": "Ein atemberaubender Aussichtspunkt inmitten des dichten, unberührten Bergregenwaldes des Magamba-Naturreservats.",
-                  "category": "natural",
-                  "coords": [
-                        38.281143,
-                        -4.770589
                   ]
             },
             {
@@ -449,33 +386,6 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Irente Farm",
-                  "text": "Az Usambara-hegységben működő farm, amely helyi sajt, lekvár és friss kenyér készítéséről híres.",
-                  "category": "landmark",
-                  "coords": [
-                        38.265372,
-                        -4.793933
-                  ]
-            },
-            {
-                  "name": "Tayodea Tourist office",
-                  "text": "Helyi információs központ az Usambara-hegységben, amely segít a látogatóknak túrák és kulturális programok szervezésében.",
-                  "category": "landmark",
-                  "coords": [
-                        38.291335,
-                        -4.793954
-                  ]
-            },
-            {
-                  "name": "Main trail head",
-                  "text": "A festői útvonalakon induló túrázók fő kiindulópontja a buja Usambara-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        38.295136,
-                        -4.759979
-                  ]
-            },
-            {
                   "name": "Kisasa Falls Viewpoint",
                   "text": "Kilátópont az Usambara-hegységben, amely zavartalan kilátást nyújt a lezúduló Kisasa-vízesésre.",
                   "category": "natural",
@@ -485,48 +395,12 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anzo maji trailhead",
-                  "text": "Kijelölt ösvény kezdete, amely az Usambara-fennsík helyi vízforrásai felé vezeti a túrázókat.",
-                  "category": "landmark",
-                  "coords": [
-                        38.28957,
-                        -4.75867
-                  ]
-            },
-            {
-                  "name": "New viewpoint and campsite",
-                  "text": "Festői kilátó és kijelölt kempinghely az Usambara-hegység hullámzó domborzata között.",
-                  "category": "natural",
-                  "coords": [
-                        38.279237,
-                        -4.76635
-                  ]
-            },
-            {
-                  "name": "Eucalyptus trailhead",
-                  "text": "Erdei ösvény kezdete az Usambara-hegységben, amelyet az ültetvényekre jellemző magas eukaliptuszfák árnyékolnak be.",
-                  "category": "landmark",
-                  "coords": [
-                        38.284966,
-                        -4.763592
-                  ]
-            },
-            {
                   "name": "Mnananda trail head",
                   "text": "Magaslati indulópont, amely panorámás kilátást nyújt, mielőtt a túrázók mélyebben behatolnának az Usambara-hegységbe.",
                   "category": "natural",
                   "coords": [
                         38.281692,
                         -4.767859
-                  ]
-            },
-            {
-                  "name": "magamba",
-                  "text": "Lenyűgöző kilátópont a Magamba Természetvédelmi Terület sűrű, érintetlen hegyi esőerdejében.",
-                  "category": "natural",
-                  "coords": [
-                        38.281143,
-                        -4.770589
                   ]
             },
             {
@@ -541,33 +415,6 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Irente Farm",
-                  "text": "O fermă activă din Munții Usambara, cunoscută pentru producerea de brânză locală, gemuri și pâine proaspătă.",
-                  "category": "landmark",
-                  "coords": [
-                        38.265372,
-                        -4.793933
-                  ]
-            },
-            {
-                  "name": "Tayodea Tourist office",
-                  "text": "Un centru local de informații care ajută vizitatorii să organizeze drumeții și tururi culturale în Munții Usambara.",
-                  "category": "landmark",
-                  "coords": [
-                        38.291335,
-                        -4.793954
-                  ]
-            },
-            {
-                  "name": "Main trail head",
-                  "text": "Principalul punct de plecare pentru drumeții care pornesc pe rutele pitorești prin munții luxurianți Usambara.",
-                  "category": "landmark",
-                  "coords": [
-                        38.295136,
-                        -4.759979
-                  ]
-            },
-            {
                   "name": "Kisasa Falls Viewpoint",
                   "text": "Un punct de belvedere în Munții Usambara care oferă vederi neobstrucționate asupra cascadelor Kisasa.",
                   "category": "natural",
@@ -577,48 +424,12 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anzo maji trailhead",
-                  "text": "O intrare desemnată pe traseu care conduce drumeții către sursele locale de apă din zonele înalte Usambara.",
-                  "category": "landmark",
-                  "coords": [
-                        38.28957,
-                        -4.75867
-                  ]
-            },
-            {
-                  "name": "New viewpoint and campsite",
-                  "text": "Un loc de belvedere pitoresc care oferă o zonă de camping amenajată în mijlocul terenului vălurit al Munților Usambara.",
-                  "category": "natural",
-                  "coords": [
-                        38.279237,
-                        -4.76635
-                  ]
-            },
-            {
-                  "name": "Eucalyptus trailhead",
-                  "text": "Punctul de plecare al unui traseu forestier umbrit de eucalipți înalți, caracteristici plantațiilor din munți.",
-                  "category": "landmark",
-                  "coords": [
-                        38.284966,
-                        -4.763592
-                  ]
-            },
-            {
                   "name": "Mnananda trail head",
                   "text": "Un punct de plecare înalt care oferă vederi panoramice înainte ca drumeții să pătrundă mai adânc în lanțul muntos Usambara.",
                   "category": "natural",
                   "coords": [
                         38.281692,
                         -4.767859
-                  ]
-            },
-            {
-                  "name": "magamba",
-                  "text": "Un punct de belvedere uimitor situat în mijlocul pădurii tropicale montane dense din Rezervația Naturală Magamba.",
-                  "category": "natural",
-                  "coords": [
-                        38.281143,
-                        -4.770589
                   ]
             },
             {
@@ -633,33 +444,6 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Irente Farm",
-                  "text": "A working farm in the Usambara Mountains known for producing local cheese, jams, and fresh bread.",
-                  "category": "landmark",
-                  "coords": [
-                        38.265372,
-                        -4.793933
-                  ]
-            },
-            {
-                  "name": "Tayodea Tourist office",
-                  "text": "A local information centre assisting visitors with organizing treks and cultural tours in the Usambara Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        38.291335,
-                        -4.793954
-                  ]
-            },
-            {
-                  "name": "Main trail head",
-                  "text": "The primary starting point for hikers embarking on scenic routes through the lush Usambara Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        38.295136,
-                        -4.759979
-                  ]
-            },
-            {
                   "name": "Kisasa Falls Viewpoint",
                   "text": "A scenic vantage point providing unobstructed views of the cascading waters of the Kisasa Falls.",
                   "category": "natural",
@@ -669,48 +453,12 @@ export const poiExtraTanzaniaReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anzo maji trailhead",
-                  "text": "A designated path entrance leading hikers towards local water sources in the Usambara highlands.",
-                  "category": "landmark",
-                  "coords": [
-                        38.28957,
-                        -4.75867
-                  ]
-            },
-            {
-                  "name": "New viewpoint and campsite",
-                  "text": "A scenic overlook offering a designated camping area amidst the rolling terrain of the Usambara Mountains.",
-                  "category": "natural",
-                  "coords": [
-                        38.279237,
-                        -4.76635
-                  ]
-            },
-            {
-                  "name": "Eucalyptus trailhead",
-                  "text": "A forest trail starting point shaded by tall eucalyptus trees typical of the mountain plantations.",
-                  "category": "landmark",
-                  "coords": [
-                        38.284966,
-                        -4.763592
-                  ]
-            },
-            {
                   "name": "Mnananda trail head",
                   "text": "An elevated starting point offering panoramic views before hikers delve deeper into the Usambara range.",
                   "category": "natural",
                   "coords": [
                         38.281692,
                         -4.767859
-                  ]
-            },
-            {
-                  "name": "magamba",
-                  "text": "A stunning viewpoint located within the dense montane rainforest of the Magamba Nature Reserve.",
-                  "category": "natural",
-                  "coords": [
-                        38.281143,
-                        -4.770589
                   ]
             },
             {

@@ -417,15 +417,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tpi ghash",
-                  "text": "An ancient archaeological site in Dilijan Park, preserving the remains of early settlements in the region.",
-                  "category": "historical",
-                  "coords": [
-                        45.088996,
-                        40.731781
-                  ]
-            },
-            {
                   "name": "Yeghjervasar",
                   "text": "This peak in the Miapor Mountains is a popular destination for hikers in the forested north of Armenia.",
                   "category": "natural",
@@ -1820,15 +1811,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Vazgen Sargsyan House-Museum",
-                  "text": "A museum dedicated to the life and work of the Armenian politician Vazgen Sargsyan.",
-                  "category": "museum",
-                  "coords": [
-                        44.705555,
-                        39.82227
-                  ]
-            },
             {
                   "name": "Armash Important Bird Area",
                   "text": "An important bird area situated on the grounds of former fish ponds.",
@@ -5127,15 +5109,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kapan Theater",
-                  "text": "Das regionale dramatische Theater in Kapan bietet kulturelle Aufführungen im Schatten des Berges Khustup.",
-                  "category": "cultural",
-                  "coords": [
-                        46.401977,
-                        39.206922
-                  ]
-            },
-            {
                   "name": "Գարեգին Նժդեհ հուշարձան",
                   "text": "Ein monumentales Denkmal, das dem armenischen Nationalhelden Garegin Nzhdeh gewidmet ist.",
                   "category": "historical",
@@ -5216,15 +5189,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
                   "coords": [
                         46.399653,
                         39.202816
-                  ]
-            },
-            {
-                  "name": "Kapan Theater",
-                  "text": "A kapani regionális drámai színház kulturális előadásoknak ad otthont a Khustup-hegy árnyékában.",
-                  "category": "cultural",
-                  "coords": [
-                        46.401977,
-                        39.206922
                   ]
             },
             {
@@ -5311,15 +5275,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kapan Theater",
-                  "text": "Teatrul dramatic regional din Kapan găzduiește spectacole culturale la umbra muntelui Khustup.",
-                  "category": "cultural",
-                  "coords": [
-                        46.401977,
-                        39.206922
-                  ]
-            },
-            {
                   "name": "Գարեգին Նժդեհ հուշարձան",
                   "text": "Un monument monumental dedicat eroului național armean Garegin Nzhdeh.",
                   "category": "historical",
@@ -5391,33 +5346,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
                   "coords": [
                         46.35188,
                         39.218212
-                  ]
-            },
-            {
-                  "name": "Historical Museum Sh. Movsisyan",
-                  "text": "This museum displays archaeological finds and ethnographic artifacts from the history of the Kapan region.",
-                  "category": "museum",
-                  "coords": [
-                        46.399653,
-                        39.202816
-                  ]
-            },
-            {
-                  "name": "Kapan Theater",
-                  "text": "The regional dramatic theater in Kapan hosts cultural performances in the shadow of Mount Khustup.",
-                  "category": "cultural",
-                  "coords": [
-                        46.401977,
-                        39.206922
-                  ]
-            },
-            {
-                  "name": "Garegin Nzhdeh Monument",
-                  "text": "A monumental memorial dedicated to the Armenian national hero Garegin Nzhdeh.",
-                  "category": "historical",
-                  "coords": [
-                        46.394802,
-                        39.195715
                   ]
             },
             {
@@ -6141,42 +6069,6 @@ export const poiExtraArmeniaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vanadzor Puppet Theater",
-                  "text": "The Vanadzor Puppet Theater is an important cultural institution that hosts regular performances for children.",
-                  "category": "cultural",
-                  "coords": [
-                        44.492312,
-                        40.806381
-                  ]
-            },
-            {
-                  "name": "Nativity church of the Blessed Virgin Mary",
-                  "text": "This Russian Orthodox Nativity church in Vanadzor stands out with its characteristic golden onion domes.",
-                  "category": "religious",
-                  "coords": [
-                        44.486124,
-                        40.814858
-                  ]
-            },
-            {
-                  "name": "Holy Mother of God Church",
-                  "text": "Built in the 19th century, this Armenian Mother of God church is known for its ornate stone reliefs in Vanadzor city center.",
-                  "category": "religious",
-                  "coords": [
-                        44.495723,
-                        40.814883
-                  ]
-            },
-            {
-                  "name": "Tagavoranist",
-                  "text": "Tagavoranist is an archaeological site on a hill, preserving the traces of an ancient fortress near Vanadzor.",
-                  "category": "historical",
-                  "coords": [
-                        44.500422,
-                        40.81346
-                  ]
-            },
-            {
                   "name": "Երկրորդ Աշխարհամարտում Զոհվածների Հուշարձան",
                   "text": "This monument in Vanadzor honors the local soldiers fallen in World War II with a solemn structure.",
                   "category": "historical",
@@ -6186,48 +6078,12 @@ export const poiExtraArmeniaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Artek Children's Camp",
-                  "text": "The Artek children's camp in Vanadzor is a well-known recreational site nestled in the forested environment of the Pambak valley.",
-                  "category": "landmark",
-                  "coords": [
-                        44.486041,
-                        40.790466
-                  ]
-            },
-            {
                   "name": "Botanical garden",
                   "text": "Founded in 1935, the Vanadzor Botanical Garden houses an extensive collection of Caucasian plants on the banks of the Pambak River.",
                   "category": "park",
                   "coords": [
                         44.48688,
                         40.794466
-                  ]
-            },
-            {
-                  "name": "Vanadzor Museum of Fine Arts",
-                  "text": "This museum in Vanadzor presents a significant collection of modern Armenian art, including works by local painters and sculptors.",
-                  "category": "museum",
-                  "coords": [
-                        44.496374,
-                        40.807047
-                  ]
-            },
-            {
-                  "name": "Theatre Named After H. Abelyan",
-                  "text": "Founded in 1931, this dramatic theater is named after Hovhannes Abelyan and forms the cultural centerpiece of Vanadzor.",
-                  "category": "cultural",
-                  "coords": [
-                        44.494169,
-                        40.809802
-                  ]
-            },
-            {
-                  "name": "Stepan Zoryan's House Museum",
-                  "text": "The house-museum of writer Stepan Zoryan displays personal items and manuscripts documenting his literary legacy.",
-                  "category": "museum",
-                  "coords": [
-                        44.488235,
-                        40.806445
                   ]
             },
             {

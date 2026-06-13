@@ -1316,24 +1316,6 @@ export const belarusEconomicV2: POI[] = [
     id: "belarus-vitebsk-economic-zone-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Literaturmuseum",
-                  "text": "Das Literaturmuseum stellt Exponate zur Literaturgeschichte der Region aus.",
-                  "category": "museum",
-                  "coords": [
-                        30.20921,
-                        55.192341
-                  ]
-            },
-            {
-                  "name": "teatr Maladzik",
-                  "text": "Das Maladzik-Theater ist ein lokaler Aufführungsort in der Freien Wirtschaftszone Witebsk.",
-                  "category": "cultural",
-                  "coords": [
-                        30.216796,
-                        55.162026
-                  ]
-            },
-            {
                   "name": "Studyya Savetskaga Mapeda Uladzimira Gardzeeva",
                   "text": "Wladimir Gordejews Studio des sowjetischen Mopeds ist ein einzigartiges Museum für Retro-Fahrzeuge.",
                   "category": "museum",
@@ -1361,75 +1343,12 @@ export const belarusEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzei gistoryi vitsebskaga tramvaya",
-                  "text": "Das Museum der Witebsker Straßenbahngeschichte erzählt die Geschichte des öffentlichen Nahverkehrs der Stadt.",
-                  "category": "museum",
-                  "coords": [
-                        30.221271,
-                        55.192226
-                  ]
-            },
-            {
-                  "name": "Dukhovskaya gora (berg)",
-                  "text": "Die Duchowskaja-Gora ist eine markante Erhebung in Witebsk, die für ihre historische Bedeutung bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        30.211706,
-                        55.19057
-                  ]
-            },
-            {
-                  "name": "Konzertsaal \"Witebsk\"",
-                  "text": "Modernes Konzerthaus ‚Witebsk‘ für Musikfestivals im Wirtschaftsraum Witebsk.",
-                  "category": "cultural",
-                  "coords": [
-                        30.211109,
-                        55.194845
-                  ]
-            },
-            {
-                  "name": "Sommer Amphitheater",
-                  "text": "Das Sommeramphitheater ist ein bedeutendes Kunstzentrum in der Freien Wirtschaftszone Witebsk, bekannt als Hauptaustragungsort des Slawjanski Basar.",
-                  "category": "cultural",
-                  "coords": [
-                        30.210289,
-                        55.191461
-                  ]
-            },
-            {
-                  "name": "Frunse Park",
-                  "text": "Der Frunze-Park ist eine öffentliche Grünfläche in der Freien Wirtschaftszone Witebsk.",
-                  "category": "park",
-                  "coords": [
-                        30.210064,
-                        55.195824
-                  ]
-            },
-            {
                   "name": "BMD",
                   "text": "Historisches BMD-Schützenpanzerfahrzeug, ausgestellt in der Wirtschaftszone Witebsk.",
                   "category": "historical",
                   "coords": [
                         30.229509,
                         55.191881
-                  ]
-            },
-            {
-                  "name": "Akhvyaram fashyzmu",
-                  "text": "„Den Opfern des Faschismus“ ist ein Gedenkmonument in der Freien Wirtschaftszone Witebsk.",
-                  "category": "historical",
-                  "coords": [
-                        30.221185,
-                        55.198492
-                  ]
-            },
-            {
-                  "name": "Das Gebäude der ehemaligen Land-Bauernbanküber",
-                  "text": "Ehemaliges Land-Bauern-Bankgebäude in Witebsk, ein repräsentativer Jugendstilbau.",
-                  "category": "landmark",
-                  "coords": [
-                        30.214875,
-                        55.197566
                   ]
             },
             {
@@ -1460,42 +1379,6 @@ export const belarusEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Katholische Kirche des Barmherzigen Jesus",
-                  "text": "Die katholische Kathedrale des Barmherzigen Jesus ist ein Gotteshaus und die Bischofskirche der römisch-katholischen Diözese Witebsk.",
-                  "category": "religious",
-                  "coords": [
-                        30.215633,
-                        55.163478
-                  ]
-            },
-            {
-                  "name": "Heilige Jungfrau orthodoxen Kathedrale",
-                  "text": "Die orthodoxe Kathedrale der Heiligen Jungfrau ist ein Gotteshaus in der Freien Wirtschaftszone Witebsk.",
-                  "category": "religious",
-                  "coords": [
-                        30.205999,
-                        55.187583
-                  ]
-            },
-            {
-                  "name": "Katholische Kirche des Heiligen Geistes",
-                  "text": "Die römisch-katholische Heilig-Geist-Kirche ist ein Gotteshaus in der Freien Wirtschaftszone Witebsk.",
-                  "category": "religious",
-                  "coords": [
-                        30.214319,
-                        55.17832
-                  ]
-            },
-            {
-                  "name": "Yubileiny most",
-                  "text": "Die Jubiläumsbrücke ist ein bedeutendes Brückenbauwerk über den Fluss Witsba in der Freien Wirtschaftszone Witebsk.",
-                  "category": "landmark",
-                  "coords": [
-                        30.223257,
-                        55.20017
-                  ]
-            },
-            {
                   "name": "Kastsel sv. Ignatsyya Laely",
                   "text": "Dem heiligen Ignatius von Loyola geweihte katholische Kirche im Umland von Witebsk.",
                   "category": "religious",
@@ -1506,24 +1389,6 @@ export const belarusEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Litaraturny muzei",
-                  "text": "Az Irodalmi Múzeum a régió irodalomtörténetéhez kapcsolódó tárgyakat állít ki.",
-                  "category": "museum",
-                  "coords": [
-                        30.20921,
-                        55.192341
-                  ]
-            },
-            {
-                  "name": "teatr Maladzik",
-                  "text": "A Maladzik Színház egy helyi előadóművészeti központ a Vicebszki Szabadgazdasági Övezetben.",
-                  "category": "cultural",
-                  "coords": [
-                        30.216796,
-                        55.162026
-                  ]
-            },
             {
                   "name": "Studyya Savetskaga Mapeda Uladzimira Gardzeeva",
                   "text": "Vlagyimir Gorgyejev Szovjet Moped Stúdiója a retró járművek egyedi múzeuma.",
@@ -1552,75 +1417,12 @@ export const belarusEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzei gistoryi vitsebskaga tramvaya",
-                  "text": "A Vicebszki Villamos Történeti Múzeum a város tömegközlekedési rendszerének történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        30.221271,
-                        55.192226
-                  ]
-            },
-            {
-                  "name": "Dukhauskaya gara",
-                  "text": "A Duhovszkaja Gora egy kiemelkedő, történelmi jelentőségéről ismert domb Vicebszkben.",
-                  "category": "natural",
-                  "coords": [
-                        30.211706,
-                        55.19057
-                  ]
-            },
-            {
-                  "name": "Kantsertnaya zalya «Vitsebsk»",
-                  "text": "Modern 'Vityebszk' koncertterem zenei fesztiváloknak a Vityebszki Gazdasági Övezetben.",
-                  "category": "cultural",
-                  "coords": [
-                        30.211109,
-                        55.194845
-                  ]
-            },
-            {
-                  "name": "Letni amfiteatr",
-                  "text": "A Nyári Amfiteátrum egy művészeti központ a Vicebszki Szabadgazdasági Övezetben, amely a Szlavjanszkij Bazar fő helyszíneként ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        30.210289,
-                        55.191461
-                  ]
-            },
-            {
-                  "name": "park imya Frunze",
-                  "text": "A Frunze Park egy nyilvános zöldterület a Vicebszki Szabadgazdasági Övezetben.",
-                  "category": "park",
-                  "coords": [
-                        30.210064,
-                        55.195824
-                  ]
-            },
-            {
                   "name": "BMD",
                   "text": "Történelmi BMD gyalogsági harcjármű kiállítva a Vitebszki Gazdasági Övezetben.",
                   "category": "historical",
                   "coords": [
                         30.229509,
                         55.191881
-                  ]
-            },
-            {
-                  "name": "Akhvyaram fashyzmu",
-                  "text": "A „Fasizmus Áldozatainak” egy emlékmű a Vicebszki Szabadgazdasági Övezetben.",
-                  "category": "historical",
-                  "coords": [
-                        30.221185,
-                        55.198492
-                  ]
-            },
-            {
-                  "name": "Budynak byloga Pazyamelna-syalyanskaga banku",
-                  "text": "Volt Földmívesbank épülete Vitebszkben, egy reprezentatív szecessziós épület.",
-                  "category": "landmark",
-                  "coords": [
-                        30.214875,
-                        55.197566
                   ]
             },
             {
@@ -1651,42 +1453,6 @@ export const belarusEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Katedralny kastsel Ezusa Milasernaga",
-                  "text": "Az Irgalmas Jézus Katolikus Székesegyház egy imahely és a vicebszki római katolikus egyházmegye főtemploma.",
-                  "category": "religious",
-                  "coords": [
-                        30.215633,
-                        55.163478
-                  ]
-            },
-            {
-                  "name": "Svyata-Pakrouski kafedralny sabor",
-                  "text": "A Szent Szűz Ortodox Székesegyház egy vallási imahely a Vicebszki Szabadgazdasági Övezetben.",
-                  "category": "religious",
-                  "coords": [
-                        30.205999,
-                        55.187583
-                  ]
-            },
-            {
-                  "name": "Kastsel Dukha Svyatoga",
-                  "text": "A Szentlélek Római Katolikus Templom egy imahely a Vicebszki Szabadgazdasági Övezetben.",
-                  "category": "religious",
-                  "coords": [
-                        30.214319,
-                        55.17832
-                  ]
-            },
-            {
-                  "name": "Yubileiny most",
-                  "text": "A Jubileumi híd egy jelentős híd, amely a Vitszba folyót szeli át a Vicebszki Szabadgazdasági Övezetben.",
-                  "category": "landmark",
-                  "coords": [
-                        30.223257,
-                        55.20017
-                  ]
-            },
-            {
                   "name": "Kastsel sv. Ignatsyya Laely",
                   "text": "Szent Loyolai Ignácnak szentelt katolikus templom Vityebszk külvárosában.",
                   "category": "religious",
@@ -1697,24 +1463,6 @@ export const belarusEconomicV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Litaraturny muzei",
-                  "text": "Muzeul Literar expune obiecte legate de istoria literară a regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        30.20921,
-                        55.192341
-                  ]
-            },
-            {
-                  "name": "teatr Maladzik",
-                  "text": "Teatrul Maladzik este un loc de artă scenică locală în Zona Economică Liberă Vitebsk.",
-                  "category": "cultural",
-                  "coords": [
-                        30.216796,
-                        55.162026
-                  ]
-            },
             {
                   "name": "Studyya Savetskaga Mapeda Uladzimira Gardzeeva",
                   "text": "Studioul Mopedului Sovietic al lui Vladimir Gordeev este un muzeu unic de vehicule retro.",
@@ -1743,75 +1491,12 @@ export const belarusEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzei gistoryi vitsebskaga tramvaya",
-                  "text": "Muzeul Istoriei Tramvaiului din Vitebsk spune povestea sistemului de transport public al orașului.",
-                  "category": "museum",
-                  "coords": [
-                        30.221271,
-                        55.192226
-                  ]
-            },
-            {
-                  "name": "Dukhauskaya gara",
-                  "text": "Dukhovskaya Gora este o zonă înaltă proeminentă din Vitebsk, cunoscută pentru semnificația sa istorică.",
-                  "category": "natural",
-                  "coords": [
-                        30.211706,
-                        55.19057
-                  ]
-            },
-            {
-                  "name": "Kantsertnaya zalya «Vitsebsk»",
-                  "text": "Sala de concerte modernă 'Viciebsk' pentru festivaluri muzicale în Zona Economică Vitebsk.",
-                  "category": "cultural",
-                  "coords": [
-                        30.211109,
-                        55.194845
-                  ]
-            },
-            {
-                  "name": "Letni amfiteatr",
-                  "text": "Amfiteatrul de Vară este un centru de arte din Zona Economică Liberă Vitebsk, cunoscut ca locația principală a festivalului Slavianski Bazaar.",
-                  "category": "cultural",
-                  "coords": [
-                        30.210289,
-                        55.191461
-                  ]
-            },
-            {
-                  "name": "park imya Frunze",
-                  "text": "Parcul Frunze este un spațiu verde public situat în Zona Economică Liberă Vitebsk.",
-                  "category": "park",
-                  "coords": [
-                        30.210064,
-                        55.195824
-                  ]
-            },
-            {
                   "name": "BMD",
                   "text": "Vehicul de luptă istoric BMD expus în Zona Economică Vitebsk.",
                   "category": "historical",
                   "coords": [
                         30.229509,
                         55.191881
-                  ]
-            },
-            {
-                  "name": "Akhvyaram fashyzmu",
-                  "text": "„Victimelor Fascismului” este un monument memorial situat în Zona Economică Liberă Vitebsk.",
-                  "category": "historical",
-                  "coords": [
-                        30.221185,
-                        55.198492
-                  ]
-            },
-            {
-                  "name": "Budynak byloga Pazyamelna-syalyanskaga banku",
-                  "text": "Fosta clădire a Băncii Țărănești din Vitebsk, o construcție Art Nouveau reprezentativă.",
-                  "category": "landmark",
-                  "coords": [
-                        30.214875,
-                        55.197566
                   ]
             },
             {
@@ -1842,42 +1527,6 @@ export const belarusEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Katedralny kastsel Ezusa Milasernaga",
-                  "text": "Catedrala Catolică a lui Isus Milostiv este un lăcaș de cult și biserica catedrală a Diecezei Romano-Catolice de Vitebsk.",
-                  "category": "religious",
-                  "coords": [
-                        30.215633,
-                        55.163478
-                  ]
-            },
-            {
-                  "name": "Svyata-Pakrouski kafedralny sabor",
-                  "text": "Catedrala Ortodoxă Sfânta Fecioară este un lăcaș de cult situat în Zona Economică Liberă Vitebsk.",
-                  "category": "religious",
-                  "coords": [
-                        30.205999,
-                        55.187583
-                  ]
-            },
-            {
-                  "name": "Kastsel Dukha Svyatoga",
-                  "text": "Biserica Romano-Catolică a Sfântului Duh este un lăcaș de cult situat în Zona Economică Liberă Vitebsk.",
-                  "category": "religious",
-                  "coords": [
-                        30.214319,
-                        55.17832
-                  ]
-            },
-            {
-                  "name": "Yubileiny most",
-                  "text": "Podul Jubiliar este o structură de pod semnificativă care traversează râul Vitba în Zona Economică Liberă Vitebsk.",
-                  "category": "landmark",
-                  "coords": [
-                        30.223257,
-                        55.20017
-                  ]
-            },
-            {
                   "name": "Kastsel sv. Ignatsyya Laely",
                   "text": "Biserica catolică dedicată Sfântului Ignațiu de Loyola în periferia orașului Vitebsk.",
                   "category": "religious",
@@ -1888,24 +1537,6 @@ export const belarusEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Literary Museum",
-                  "text": "The Literary Museum exhibits items related to the region's literary history.",
-                  "category": "museum",
-                  "coords": [
-                        30.20921,
-                        55.192341
-                  ]
-            },
-            {
-                  "name": "teatr Maladzik",
-                  "text": "Maladzik Theater is a local performing arts venue in the Free Economic Zone Vitebsk.",
-                  "category": "cultural",
-                  "coords": [
-                        30.216796,
-                        55.162026
-                  ]
-            },
             {
                   "name": "Studyya Savetskaga Mapeda Uladzimira Gardzeeva",
                   "text": "Vladimir Gordeev's Studio of the Soviet Moped is a unique museum of retro vehicles.",
@@ -1934,75 +1565,12 @@ export const belarusEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzei gistoryi vitsebskaga tramvaya",
-                  "text": "The Vitebsk Tram History Museum tells the story of the city's public transport system.",
-                  "category": "museum",
-                  "coords": [
-                        30.221271,
-                        55.192226
-                  ]
-            },
-            {
-                  "name": "Dukhovskaya gora (mountain)",
-                  "text": "Dukhovskaya Gora is a prominent elevated area in Vitebsk known for its historical significance.",
-                  "category": "natural",
-                  "coords": [
-                        30.211706,
-                        55.19057
-                  ]
-            },
-            {
-                  "name": "\"Viciebsk\" Concert hall",
-                  "text": "Modern 'Viciebsk' concert hall hosting music festivals in the Vitebsk Economic Zone.",
-                  "category": "cultural",
-                  "coords": [
-                        30.211109,
-                        55.194845
-                  ]
-            },
-            {
-                  "name": "Summer Amphitheatre",
-                  "text": "The Summer Amphitheatre is a prominent arts centre in the Freie Wirtschaftszone Witebsk, best known as the main venue for the Slavianski Bazaar.",
-                  "category": "cultural",
-                  "coords": [
-                        30.210289,
-                        55.191461
-                  ]
-            },
-            {
-                  "name": "Frunze Park",
-                  "text": "Frunze Park is a public green space located in the Freie Wirtschaftszone Witebsk.",
-                  "category": "park",
-                  "coords": [
-                        30.210064,
-                        55.195824
-                  ]
-            },
-            {
                   "name": "BMD",
                   "text": "Historical BMD infantry fighting vehicle on display in the Vitebsk Economic Zone.",
                   "category": "historical",
                   "coords": [
                         30.229509,
                         55.191881
-                  ]
-            },
-            {
-                  "name": "Akhvyaram fashyzmu",
-                  "text": "\"To the Victims of Fascism\" is a memorial monument located in the Freie Wirtschaftszone Witebsk.",
-                  "category": "historical",
-                  "coords": [
-                        30.221185,
-                        55.198492
-                  ]
-            },
-            {
-                  "name": "The Building of the Former Land-Peasant Bank",
-                  "text": "Former Land-Peasant Bank building in Vitebsk, a representative Art Nouveau building.",
-                  "category": "landmark",
-                  "coords": [
-                        30.214875,
-                        55.197566
                   ]
             },
             {
@@ -2030,42 +1598,6 @@ export const belarusEconomicV2: POI[] = [
                   "coords": [
                         30.245321,
                         55.199799
-                  ]
-            },
-            {
-                  "name": "Catholic Cathedral of Merciful Jesus",
-                  "text": "The Catholic Cathedral of Merciful Jesus is a prominent place of worship and the cathedral church of the Roman Catholic Diocese of Vitebsk.",
-                  "category": "religious",
-                  "coords": [
-                        30.215633,
-                        55.163478
-                  ]
-            },
-            {
-                  "name": "Holy Virgin Orthodox Cathedral",
-                  "text": "The Holy Virgin Orthodox Cathedral is a religious place of worship located in the Freie Wirtschaftszone Witebsk.",
-                  "category": "religious",
-                  "coords": [
-                        30.205999,
-                        55.187583
-                  ]
-            },
-            {
-                  "name": "Roman Catholic Church of the Holy Spirit",
-                  "text": "The Roman Catholic Church of the Holy Spirit is a place of worship situated in the Freie Wirtschaftszone Witebsk.",
-                  "category": "religious",
-                  "coords": [
-                        30.214319,
-                        55.17832
-                  ]
-            },
-            {
-                  "name": "Yubileiny most",
-                  "text": "The Jubilee Bridge is a significant bridge structure crossing the Vitba river in the Freie Wirtschaftszone Witebsk.",
-                  "category": "landmark",
-                  "coords": [
-                        30.223257,
-                        55.20017
                   ]
             },
             {

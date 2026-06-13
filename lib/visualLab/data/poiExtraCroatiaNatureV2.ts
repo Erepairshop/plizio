@@ -52,15 +52,6 @@ imageHint: "Mljet island monastery on lake",
     id: "croatia-kornati-islands-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Uvala Stiniva",
-                  "text": "Eine malerische Bucht auf der Insel Kornat im Nationalpark Kornaten.",
-                  "category": "landmark",
-                  "coords": [
-                        15.339663,
-                        43.808945
-                  ]
-            },
-            {
                   "name": "Metlina",
                   "text": "Der höchste Gipfel der Kornaten mit Blick über die gesamte Inselgruppe.",
                   "category": "landmark",
@@ -71,15 +62,6 @@ imageHint: "Mljet island monastery on lake",
             }
       ],
       "hu": [
-            {
-                  "name": "Uvala Stiniva",
-                  "text": "Festői öböl Kornat szigetén, a Kornati Nemzeti Park területén.",
-                  "category": "landmark",
-                  "coords": [
-                        15.339663,
-                        43.808945
-                  ]
-            },
             {
                   "name": "Metlina",
                   "text": "A Kornati-szigetek legmagasabb csúcsa, kilátással az egész szigetvilágra.",
@@ -92,15 +74,6 @@ imageHint: "Mljet island monastery on lake",
       ],
       "ro": [
             {
-                  "name": "Uvala Stiniva",
-                  "text": "Un golf pitoresc pe insula Kornat, în cadrul Parcului Național Kornati.",
-                  "category": "landmark",
-                  "coords": [
-                        15.339663,
-                        43.808945
-                  ]
-            },
-            {
                   "name": "Metlina",
                   "text": "Cel mai înalt vârf din insulele Kornati, oferind vederi asupra arhipelagului.",
                   "category": "landmark",
@@ -111,15 +84,6 @@ imageHint: "Mljet island monastery on lake",
             }
       ],
       "en": [
-            {
-                  "name": "Uvala Stiniva",
-                  "text": "A scenic bay on the island of Kornat within the Kornati National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        15.339663,
-                        43.808945
-                  ]
-            },
             {
                   "name": "Metlina",
                   "text": "The highest peak in the Kornati Islands, offering views over the archipelago.",
@@ -363,39 +327,12 @@ imageHint: "Lonjsko Polje wooden houses and storks",
     id: "croatia-medvednica-mountain-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Naturpark Bärenberg",
-                  "text": "Ein bewaldeter Naturpark in der Nähe von Zagreb, beliebt für Wandern und Wintersport.",
-                  "category": "natural",
-                  "coords": [
-                        15.96212,
-                        45.910592
-                  ]
-            },
-            {
                   "name": "Dvorac Oršić",
                   "text": "Ein barockes Schloss in Gornja Bistra am Fuße des Medvednica-Gebirges.",
                   "category": "castle",
                   "coords": [
                         15.904515,
                         45.916802
-                  ]
-            },
-            {
-                  "name": "Sljeme",
-                  "text": "Der höchste Gipfel des Medvednica-Gebirges und ein bekanntes Ausflugsziel bei Zagreb.",
-                  "category": "landmark",
-                  "coords": [
-                        15.947377,
-                        45.899297
-                  ]
-            },
-            {
-                  "name": "Rudnik Zrinski",
-                  "text": "Ein historisches Silberbergwerk auf der Medvednica, das heute für Besucher zugänglich ist.",
-                  "category": "landmark",
-                  "coords": [
-                        15.928046,
-                        45.886926
                   ]
             },
             {
@@ -406,36 +343,9 @@ imageHint: "Lonjsko Polje wooden houses and storks",
                         15.921063,
                         45.916524
                   ]
-            },
-            {
-                  "name": "Vidikovac Grafičar",
-                  "text": "Ein bekannter Aussichtspunkt nahe der Grafičar-Hütte auf der Medvednica.",
-                  "category": "natural",
-                  "coords": [
-                        15.933016,
-                        45.887418
-                  ]
-            },
-            {
-                  "name": "crkva Majke Božje Sljemenske Kraljice Hrvata",
-                  "text": "Diese katholische Kirche befindet sich auf dem Berg Medvednica bei Zagreb.",
-                  "category": "religious",
-                  "coords": [
-                        15.955248,
-                        45.901297
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Park prirode Medvednica",
-                  "text": "Erdős természetvédelmi terület Zágráb közelében, kedvelt túrázó- és télisport-helyszín.",
-                  "category": "natural",
-                  "coords": [
-                        15.96212,
-                        45.910592
-                  ]
-            },
             {
                   "name": "Dvorac Oršić",
                   "text": "Barokk kastély Felsőbisztrán (Gornja Bistra), a Medvednica-hegység lábánál.",
@@ -446,24 +356,6 @@ imageHint: "Lonjsko Polje wooden houses and storks",
                   ]
             },
             {
-                  "name": "Sljeme",
-                  "text": "A Medvednica-hegység legmagasabb csúcsa és Zágráb környékének kedvelt kirándulóhelye.",
-                  "category": "landmark",
-                  "coords": [
-                        15.947377,
-                        45.899297
-                  ]
-            },
-            {
-                  "name": "Rudnik Zrinski",
-                  "text": "Történelmi ezüstbánya a Medvednicán, amely ma látogatható.",
-                  "category": "landmark",
-                  "coords": [
-                        15.928046,
-                        45.886926
-                  ]
-            },
-            {
                   "name": "Panjevina",
                   "text": "Kilátópont a Medvednica Natúrparkban, ahonnan kilátás nyílik a környező tájra.",
                   "category": "natural",
@@ -471,36 +363,9 @@ imageHint: "Lonjsko Polje wooden houses and storks",
                         15.921063,
                         45.916524
                   ]
-            },
-            {
-                  "name": "Vidikovac Grafičar",
-                  "text": "Ismert kilátóhely a Medvednicán, a Grafičar-menedékház közelében.",
-                  "category": "natural",
-                  "coords": [
-                        15.933016,
-                        45.887418
-                  ]
-            },
-            {
-                  "name": "crkva Majke Božje Sljemenske Kraljice Hrvata",
-                  "text": "Ez a katolikus templom a Zágráb melletti Medvednica-hegyen található.",
-                  "category": "religious",
-                  "coords": [
-                        15.955248,
-                        45.901297
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Park prirode Medvednica",
-                  "text": "Un parc natural împădurit de lângă Zagreb, popular pentru drumeții și sporturi de iarnă.",
-                  "category": "natural",
-                  "coords": [
-                        15.96212,
-                        45.910592
-                  ]
-            },
             {
                   "name": "Dvorac Oršić",
                   "text": "Un castel baroc în Gornja Bistra, situat la poalele munților Medvednica.",
@@ -511,24 +376,6 @@ imageHint: "Lonjsko Polje wooden houses and storks",
                   ]
             },
             {
-                  "name": "Sljeme",
-                  "text": "Cel mai înalt vârf al munților Medvednica și o destinație populară de excursie lângă Zagreb.",
-                  "category": "landmark",
-                  "coords": [
-                        15.947377,
-                        45.899297
-                  ]
-            },
-            {
-                  "name": "Rudnik Zrinski",
-                  "text": "O mină istorică de argint pe Medvednica, deschisă astăzi vizitatorilor.",
-                  "category": "landmark",
-                  "coords": [
-                        15.928046,
-                        45.886926
-                  ]
-            },
-            {
                   "name": "Panjevina",
                   "text": "Un punct de belvedere în parcul natural Medvednica, oferind vedere spre peisajul înconjurător.",
                   "category": "natural",
@@ -536,36 +383,9 @@ imageHint: "Lonjsko Polje wooden houses and storks",
                         15.921063,
                         45.916524
                   ]
-            },
-            {
-                  "name": "Vidikovac Grafičar",
-                  "text": "Un punct de belvedere cunoscut lângă cabana Grafičar de pe Medvednica.",
-                  "category": "natural",
-                  "coords": [
-                        15.933016,
-                        45.887418
-                  ]
-            },
-            {
-                  "name": "crkva Majke Božje Sljemenske Kraljice Hrvata",
-                  "text": "Această biserică catolică este situată pe muntele Medvednica, lângă Zagreb.",
-                  "category": "religious",
-                  "coords": [
-                        15.955248,
-                        45.901297
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Park prirode Medvednica",
-                  "text": "A forested nature park near Zagreb, popular for hiking and winter sports.",
-                  "category": "natural",
-                  "coords": [
-                        15.96212,
-                        45.910592
-                  ]
-            },
             {
                   "name": "Dvorac Oršić",
                   "text": "A Baroque castle in Gornja Bistra, located at the foot of the Medvednica mountains.",
@@ -576,48 +396,12 @@ imageHint: "Lonjsko Polje wooden houses and storks",
                   ]
             },
             {
-                  "name": "Sljeme",
-                  "text": "The highest summit of the Medvednica mountains and a popular excursion spot near Zagreb.",
-                  "category": "landmark",
-                  "coords": [
-                        15.947377,
-                        45.899297
-                  ]
-            },
-            {
-                  "name": "Rudnik Zrinski",
-                  "text": "A historic silver mine on Medvednica, now open to visitors.",
-                  "category": "landmark",
-                  "coords": [
-                        15.928046,
-                        45.886926
-                  ]
-            },
-            {
                   "name": "Panjevina",
                   "text": "A viewpoint in the Medvednica Nature Park offering views of the surrounding landscape.",
                   "category": "natural",
                   "coords": [
                         15.921063,
                         45.916524
-                  ]
-            },
-            {
-                  "name": "Vidikovac Grafičar",
-                  "text": "A well-known viewpoint located near the Grafičar mountain hut on Medvednica.",
-                  "category": "natural",
-                  "coords": [
-                        15.933016,
-                        45.887418
-                  ]
-            },
-            {
-                  "name": "crkva Majke Božje Sljemenske Kraljice Hrvata",
-                  "text": "This Catholic church is located on the Medvednica mountain near Zagreb.",
-                  "category": "religious",
-                  "coords": [
-                        15.955248,
-                        45.901297
                   ]
             }
       ]
@@ -1135,15 +919,6 @@ imageHint: "Neretva delta mandarin fields",
                         15.589072,
                         45.119835
                   ]
-            },
-            {
-                  "name": "Kupalište Jambrić",
-                  "text": "Eine malerische Badestelle in Rastoke, umgeben von natürlicher Schönheit.",
-                  "category": "recreational",
-                  "coords": [
-                        15.603584,
-                        45.113119
-                  ]
             }
       ],
       "hu": [
@@ -1199,15 +974,6 @@ imageHint: "Neretva delta mandarin fields",
                   "coords": [
                         15.589072,
                         45.119835
-                  ]
-            },
-            {
-                  "name": "Kupalište Jambrić",
-                  "text": "Festői fürdőhely Rastoke területén, természeti szépségekkel övezve.",
-                  "category": "recreational",
-                  "coords": [
-                        15.603584,
-                        45.113119
                   ]
             }
       ],
@@ -1265,15 +1031,6 @@ imageHint: "Neretva delta mandarin fields",
                         15.589072,
                         45.119835
                   ]
-            },
-            {
-                  "name": "Kupalište Jambrić",
-                  "text": "Un loc de scăldat pitoresc în Rastoke, înconjurat de frumusețea naturii.",
-                  "category": "recreational",
-                  "coords": [
-                        15.603584,
-                        45.113119
-                  ]
             }
       ],
       "en": [
@@ -1329,15 +1086,6 @@ imageHint: "Neretva delta mandarin fields",
                   "coords": [
                         15.589072,
                         45.119835
-                  ]
-            },
-            {
-                  "name": "Kupalište Jambrić",
-                  "text": "A picturesque swimming area in Rastoke, surrounded by natural beauty.",
-                  "category": "recreational",
-                  "coords": [
-                        15.603584,
-                        45.113119
                   ]
             }
       ]
@@ -2566,15 +2314,6 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
                   ]
             },
             {
-                  "name": "Partizansko groblje Kovačica",
-                  "text": "Ein Gedenkort im Jankovac-Tal, der an die Partisanenbewegungen der Region erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        17.652566,
-                        45.521765
-                  ]
-            },
-            {
                   "name": "Klak",
                   "text": "Die ruinen einer mittelalterlichen Befestigungsanlage auf einem Hügel im Papuk-Gebirge.",
                   "category": "historical",
@@ -2610,15 +2349,6 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
                   "coords": [
                         17.687616,
                         45.494947
-                  ]
-            },
-            {
-                  "name": "Partizansko groblje Kovačica",
-                  "text": "Emlékhely a Jankovac-völgyben, amely a régió partizánmozgalmaira emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        17.652566,
-                        45.521765
                   ]
             },
             {
@@ -2660,15 +2390,6 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
                   ]
             },
             {
-                  "name": "Partizansko groblje Kovačica",
-                  "text": "Un loc memorial în Valea Jankovac, care amintește de mișcările de partizani din regiune.",
-                  "category": "historical",
-                  "coords": [
-                        17.652566,
-                        45.521765
-                  ]
-            },
-            {
                   "name": "Klak",
                   "text": "Ruinele unei fortificații medievale situate pe un deal din munții Papuk.",
                   "category": "historical",
@@ -2704,15 +2425,6 @@ imageHint: "Susak island sandy paths yellow loess cliffs",
                   "coords": [
                         17.687616,
                         45.494947
-                  ]
-            },
-            {
-                  "name": "Partizansko groblje Kovačica",
-                  "text": "A memorial site in the Jankovac Valley commemorating the partisan movements of the region.",
-                  "category": "historical",
-                  "coords": [
-                        17.652566,
-                        45.521765
                   ]
             },
             {

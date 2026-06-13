@@ -1653,15 +1653,6 @@ export const finlandLifeV2: POI[] = [
     id: "finland-pallas-yllastunturi-life-v2", "sights": {
       "de": [
             {
-                  "name": "Pallas-Yllästunturin kansallispuisto",
-                  "text": "Finnlands drittgrößter Nationalpark, bekannt für seine Fjäll-Landschaften und reine Luft.",
-                  "category": "natural",
-                  "coords": [
-                        24.085916,
-                        67.985072
-                  ]
-            },
-            {
                   "name": "Tar kiln",
                   "text": "Eine historische Stätte im Nationalpark, die an die traditionelle Teergewinnung erinnert.",
                   "category": "historical",
@@ -1669,27 +1660,9 @@ export const finlandLifeV2: POI[] = [
                         23.975993,
                         67.96545
                   ]
-            },
-            {
-                  "name": "Killinpoikainjärvien rajoitusalue",
-                  "text": "Ein geschütztes Naturgebiet um die Killinpoikainjärvet-Seen im Nationalpark.",
-                  "category": "natural",
-                  "coords": [
-                        24.065956,
-                        68.012782
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Pallas-Yllästunturin kansallispuisto",
-                  "text": "Finnország harmadik legnagyobb nemzeti parkja, amely hegyvidéki tájairól és tiszta levegőjéről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        24.085916,
-                        67.985072
-                  ]
-            },
             {
                   "name": "Tar kiln",
                   "text": "Történelmi helyszín a nemzeti parkban, amely a hagyományos kátrányégetésre emlékeztet.",
@@ -1698,27 +1671,9 @@ export const finlandLifeV2: POI[] = [
                         23.975993,
                         67.96545
                   ]
-            },
-            {
-                  "name": "Killinpoikainjärvien rajoitusalue",
-                  "text": "Védett természeti terület a nemzeti parkban, a Killinpoikainjärvet-tavak körül.",
-                  "category": "natural",
-                  "coords": [
-                        24.065956,
-                        68.012782
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Pallas-Yllästunturin kansallispuisto",
-                  "text": "Al treilea cel mai mare parc național din Finlanda, cunoscut pentru peisajele sale montane și aerul curat.",
-                  "category": "natural",
-                  "coords": [
-                        24.085916,
-                        67.985072
-                  ]
-            },
             {
                   "name": "Tar kiln",
                   "text": "Un sit istoric din parcul național care amintește de extracția tradițională a rășinii.",
@@ -1727,27 +1682,9 @@ export const finlandLifeV2: POI[] = [
                         23.975993,
                         67.96545
                   ]
-            },
-            {
-                  "name": "Killinpoikainjärvien rajoitusalue",
-                  "text": "O zonă naturală protejată în jurul lacurilor Killinpoikainjärvet din parcul național.",
-                  "category": "natural",
-                  "coords": [
-                        24.065956,
-                        68.012782
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Pallas-Yllästunturi National Park",
-                  "text": "Finland's third-largest national park, known for its fell landscapes and clean air.",
-                  "category": "natural",
-                  "coords": [
-                        24.085916,
-                        67.985072
-                  ]
-            },
             {
                   "name": "Tar kiln",
                   "text": "A historical site in the national park that commemorates traditional tar production.",
@@ -1755,15 +1692,6 @@ export const finlandLifeV2: POI[] = [
                   "coords": [
                         23.975993,
                         67.96545
-                  ]
-            },
-            {
-                  "name": "Restricted area: Killinpoikainjärvet",
-                  "text": "A protected natural area surrounding the Killinpoikainjärvet lakes in the national park.",
-                  "category": "natural",
-                  "coords": [
-                        24.065956,
-                        68.012782
                   ]
             }
       ]
@@ -2697,42 +2625,6 @@ export const finlandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nuuksion kansallispuisto",
-                  "text": "Ein weitläufiges Schutzgebiet mit Wäldern und Seen in der Nähe von Helsinki.",
-                  "category": "natural",
-                  "coords": [
-                        24.53097,
-                        60.314141
-                  ]
-            },
-            {
-                  "name": "Nuuksion Poropuisto",
-                  "text": "Ein Park, in dem Besucher Rentiere aus nächster Nähe beobachten und füttern können.",
-                  "category": "recreational",
-                  "coords": [
-                        24.550279,
-                        60.305159
-                  ]
-            },
-            {
-                  "name": "Lakeasuon metsä",
-                  "text": "Ein geschütztes Waldgebiet innerhalb des Nuuksio-Nationalparks.",
-                  "category": "natural",
-                  "coords": [
-                        24.57078,
-                        60.294663
-                  ]
-            },
-            {
-                  "name": "Hiidenmetsä",
-                  "text": "Ein naturbelassener Wald, der Teil des ökologischen Netzwerks von Nuuksio ist.",
-                  "category": "natural",
-                  "coords": [
-                        24.541425,
-                        60.3193
-                  ]
-            },
-            {
                   "name": "Lehtimäen taikametsä",
                   "text": "Zauberwald von Lehtimäki im Nuuksio-Nationalpark.",
                   "category": "natural",
@@ -2742,39 +2634,12 @@ export const finlandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mäkelän luonnonsuojelualue",
-                  "text": "Naturschutzgebiet Mäkelä im Nuuksio-Nationalpark.",
-                  "category": "natural",
-                  "coords": [
-                        24.526553,
-                        60.309459
-                  ]
-            },
-            {
-                  "name": "Saukonnoron purolaakson luonnonsuojelualue",
-                  "text": "Bachtal-Naturschutzgebiet Saukonnoro im Nuuksio-Nationalpark.",
-                  "category": "natural",
-                  "coords": [
-                        24.535215,
-                        60.301541
-                  ]
-            },
-            {
                   "name": "Lehtokurpan lehmusrinteen luonnonsuojelualue",
                   "text": "Ein Schutzgebiet, das einen wertvollen Lindenwaldhang bewahrt.",
                   "category": "natural",
                   "coords": [
                         24.543581,
                         60.30593
-                  ]
-            },
-            {
-                  "name": "Solvallan urheiluopiston uimaranta",
-                  "text": "Ein Badestrand am Solvalla-Sportinstitut im Nuuksio-Nationalpark.",
-                  "category": "recreational",
-                  "coords": [
-                        24.555583,
-                        60.292538
                   ]
             }
       ],
@@ -2798,42 +2663,6 @@ export const finlandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nuuksion kansallispuisto",
-                  "text": "Egy kiterjedt természetvédelmi terület erdőkkel és tavakkal Helsinki közelében.",
-                  "category": "natural",
-                  "coords": [
-                        24.53097,
-                        60.314141
-                  ]
-            },
-            {
-                  "name": "Nuuksion Poropuisto",
-                  "text": "Egy park, ahol a látogatók közelről láthatnak és etethetnek rénszarvasokat.",
-                  "category": "recreational",
-                  "coords": [
-                        24.550279,
-                        60.305159
-                  ]
-            },
-            {
-                  "name": "Lakeasuon metsä",
-                  "text": "Egy védett erdőterület a Nuuksio Nemzeti Parkban.",
-                  "category": "natural",
-                  "coords": [
-                        24.57078,
-                        60.294663
-                  ]
-            },
-            {
-                  "name": "Hiidenmetsä",
-                  "text": "Egy természetes erdő, amely a Nuuksio ökológiai hálózatának része.",
-                  "category": "natural",
-                  "coords": [
-                        24.541425,
-                        60.3193
-                  ]
-            },
-            {
                   "name": "Lehtimäen taikametsä",
                   "text": "Lehtimäki varázserdő a Nuuksio Nemzeti Parkban.",
                   "category": "natural",
@@ -2843,39 +2672,12 @@ export const finlandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mäkelän luonnonsuojelualue",
-                  "text": "Mäkelä természetvédelmi terület a Nuuksio Nemzeti Parkban.",
-                  "category": "natural",
-                  "coords": [
-                        24.526553,
-                        60.309459
-                  ]
-            },
-            {
-                  "name": "Saukonnoron purolaakson luonnonsuojelualue",
-                  "text": "Saukonnoro-patakvölgy természetvédelmi terület a Nuuksio Nemzeti Parkban.",
-                  "category": "natural",
-                  "coords": [
-                        24.535215,
-                        60.301541
-                  ]
-            },
-            {
                   "name": "Lehtokurpan lehmusrinteen luonnonsuojelualue",
                   "text": "Természetvédelmi terület, amely egy értékes hársfaerdős lejtőt őriz.",
                   "category": "natural",
                   "coords": [
                         24.543581,
                         60.30593
-                  ]
-            },
-            {
-                  "name": "Solvallan urheiluopiston uimaranta",
-                  "text": "A Solvalla Sportintézet strandja a Nuuksio Nemzeti Parkban.",
-                  "category": "recreational",
-                  "coords": [
-                        24.555583,
-                        60.292538
                   ]
             }
       ],
@@ -2899,42 +2701,6 @@ export const finlandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nuuksion kansallispuisto",
-                  "text": "O rezervație naturală vastă cu păduri și lacuri lângă Helsinki.",
-                  "category": "natural",
-                  "coords": [
-                        24.53097,
-                        60.314141
-                  ]
-            },
-            {
-                  "name": "Nuuksion Poropuisto",
-                  "text": "Un parc unde vizitatorii pot vedea și hrăni reni de aproape.",
-                  "category": "recreational",
-                  "coords": [
-                        24.550279,
-                        60.305159
-                  ]
-            },
-            {
-                  "name": "Lakeasuon metsä",
-                  "text": "O zonă forestieră protejată în cadrul Parcului Național Nuuksio.",
-                  "category": "natural",
-                  "coords": [
-                        24.57078,
-                        60.294663
-                  ]
-            },
-            {
-                  "name": "Hiidenmetsä",
-                  "text": "O pădure naturală care face parte din rețeaua ecologică Nuuksio.",
-                  "category": "natural",
-                  "coords": [
-                        24.541425,
-                        60.3193
-                  ]
-            },
-            {
                   "name": "Lehtimäen taikametsä",
                   "text": "Pădurea fermecată Lehtimäki în Parcul Național Nuuksio.",
                   "category": "natural",
@@ -2944,39 +2710,12 @@ export const finlandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mäkelän luonnonsuojelualue",
-                  "text": "Rezervația naturală Mäkelä în Parcul Național Nuuksio.",
-                  "category": "natural",
-                  "coords": [
-                        24.526553,
-                        60.309459
-                  ]
-            },
-            {
-                  "name": "Saukonnoron purolaakson luonnonsuojelualue",
-                  "text": "Rezervația naturală a văii pârâului Saukonnoro în Parcul Național Nuuksio.",
-                  "category": "natural",
-                  "coords": [
-                        24.535215,
-                        60.301541
-                  ]
-            },
-            {
                   "name": "Lehtokurpan lehmusrinteen luonnonsuojelualue",
                   "text": "O zonă protejată care conservă un versant valoros cu tei.",
                   "category": "natural",
                   "coords": [
                         24.543581,
                         60.30593
-                  ]
-            },
-            {
-                  "name": "Solvallan urheiluopiston uimaranta",
-                  "text": "O plajă la institutul de sport Solvalla din Parcul Național Nuuksio.",
-                  "category": "recreational",
-                  "coords": [
-                        24.555583,
-                        60.292538
                   ]
             }
       ],
@@ -3000,42 +2739,6 @@ export const finlandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nuuksio national park",
-                  "text": "A vast nature reserve with forests and lakes near Helsinki.",
-                  "category": "natural",
-                  "coords": [
-                        24.53097,
-                        60.314141
-                  ]
-            },
-            {
-                  "name": "Nuuksio Reindeer Park",
-                  "text": "A park where visitors can see and feed reindeer up close.",
-                  "category": "recreational",
-                  "coords": [
-                        24.550279,
-                        60.305159
-                  ]
-            },
-            {
-                  "name": "Lakeasuon metsä",
-                  "text": "A protected forest area within the Nuuksio National Park.",
-                  "category": "natural",
-                  "coords": [
-                        24.57078,
-                        60.294663
-                  ]
-            },
-            {
-                  "name": "Hiidenmetsä",
-                  "text": "A natural forest area that is part of the Nuuksio ecological network.",
-                  "category": "natural",
-                  "coords": [
-                        24.541425,
-                        60.3193
-                  ]
-            },
-            {
                   "name": "Lehtimäen taikametsä",
                   "text": "Lehtimäki magic forest in Nuuksio National Park.",
                   "category": "natural",
@@ -3045,39 +2748,12 @@ export const finlandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mäkelän luonnonsuojelualue",
-                  "text": "Mäkelä nature reserve in Nuuksio National Park.",
-                  "category": "natural",
-                  "coords": [
-                        24.526553,
-                        60.309459
-                  ]
-            },
-            {
-                  "name": "Saukonnoron purolaakson luonnonsuojelualue",
-                  "text": "Saukonnoro brook valley nature reserve in Nuuksio National Park.",
-                  "category": "natural",
-                  "coords": [
-                        24.535215,
-                        60.301541
-                  ]
-            },
-            {
                   "name": "Lehtokurpan lehmusrinteen luonnonsuojelualue",
                   "text": "A protected area conserving a valuable lime tree forest slope.",
                   "category": "natural",
                   "coords": [
                         24.543581,
                         60.30593
-                  ]
-            },
-            {
-                  "name": "Solvallan urheiluopiston uimaranta",
-                  "text": "A swimming beach at the Solvalla Sports Institute in Nuuksio National Park.",
-                  "category": "recreational",
-                  "coords": [
-                        24.555583,
-                        60.292538
                   ]
             }
       ]
@@ -3390,15 +3066,6 @@ export const finlandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Uimaranta",
-                  "text": "Badestrand nahe dem Reovesi-Wildtiergebiet.",
-                  "category": "recreational",
-                  "coords": [
-                        24.08197,
-                        61.98934
-                  ]
-            },
-            {
                   "name": "Seurantalo Sointula",
                   "text": "Gemeinschaftshaus Sointula im Reovesi-Wildtiergebiet.",
                   "category": "museum",
@@ -3426,15 +3093,6 @@ export const finlandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Runeberginlähde",
-                  "text": "Eine nach dem Dichter Runeberg benannte historische natürliche Quelle.",
-                  "category": "landmark",
-                  "coords": [
-                        24.06629,
-                        61.990472
-                  ]
-            },
-            {
                   "name": "Ruoveden kirkon tapuli",
                   "text": "Der Glockenturm der historischen Holzkirche von Ruovesi.",
                   "category": "tower",
@@ -3452,15 +3110,6 @@ export const finlandLifeV2: POI[] = [
                   "coords": [
                         24.065896,
                         61.986142
-                  ]
-            },
-            {
-                  "name": "Uimaranta",
-                  "text": "Strand a Reovesi Vadon közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        24.08197,
-                        61.98934
                   ]
             },
             {
@@ -3491,15 +3140,6 @@ export const finlandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Runeberginlähde",
-                  "text": "Runeberg költőről elnevezett történelmi természetes forrás.",
-                  "category": "landmark",
-                  "coords": [
-                        24.06629,
-                        61.990472
-                  ]
-            },
-            {
                   "name": "Ruoveden kirkon tapuli",
                   "text": "Ruovesi történelmi fatemplomának harangtornya.",
                   "category": "tower",
@@ -3517,15 +3157,6 @@ export const finlandLifeV2: POI[] = [
                   "coords": [
                         24.065896,
                         61.986142
-                  ]
-            },
-            {
-                  "name": "Uimaranta",
-                  "text": "Plajă lângă zona sălbatică Reovesi.",
-                  "category": "recreational",
-                  "coords": [
-                        24.08197,
-                        61.98934
                   ]
             },
             {
@@ -3556,15 +3187,6 @@ export const finlandLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Runeberginlähde",
-                  "text": "Un izvor natural istoric numit după poetul Runeberg.",
-                  "category": "landmark",
-                  "coords": [
-                        24.06629,
-                        61.990472
-                  ]
-            },
-            {
                   "name": "Ruoveden kirkon tapuli",
                   "text": "Clopotnița bisericii istorice de lemn din Ruovesi.",
                   "category": "tower",
@@ -3582,15 +3204,6 @@ export const finlandLifeV2: POI[] = [
                   "coords": [
                         24.065896,
                         61.986142
-                  ]
-            },
-            {
-                  "name": "Uimaranta",
-                  "text": "Beach near Reovesi Wildlife area.",
-                  "category": "recreational",
-                  "coords": [
-                        24.08197,
-                        61.98934
                   ]
             },
             {
@@ -3618,15 +3231,6 @@ export const finlandLifeV2: POI[] = [
                   "coords": [
                         24.074931,
                         61.985619
-                  ]
-            },
-            {
-                  "name": "Runeberginlähde",
-                  "text": "A historic natural spring named after the poet Runeberg.",
-                  "category": "landmark",
-                  "coords": [
-                        24.06629,
-                        61.990472
                   ]
             },
             {

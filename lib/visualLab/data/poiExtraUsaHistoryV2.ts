@@ -12495,15 +12495,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Van Wagenen House",
-                  "text": "1740 erbautes historisches niederländisches Bauernhaus in Island.",
-                  "category": "museum",
-                  "coords": [
-                        -74.066423,
-                        40.729965
-                  ]
-            },
-            {
                   "name": "Museum of Russian Art",
                   "text": "Museum in einem ehemaligen Bankgebäude mit russischer realistischer und Ikonenmalerei.",
                   "category": "museum",
@@ -12531,15 +12522,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lincoln the Mystic",
-                  "text": "Bronzestatue Lincolns mit überirdischem Ausdruck im Lincoln Park.",
-                  "category": "historical",
-                  "coords": [
-                        -74.076086,
-                        40.722473
-                  ]
-            },
-            {
                   "name": "Castle Williams",
                   "text": "1807 erbaute runde Festung auf Governors Island.",
                   "category": "fortress",
@@ -12558,15 +12540,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Assembly Hall of Jehovah's Witnesses (Stanley Theater)",
-                  "text": "Die Assembly Hall of Jehovah's Witnesses ist ein ehemaliges Theater, das heute als Gotteshaus genutzt wird in ellis-island-history-v2.",
-                  "category": "religious",
-                  "coords": [
-                        -74.062558,
-                        40.733259
-                  ]
-            },
-            {
                   "name": "Our Lady of Mount Carmel Church",
                   "text": "Römisch-katholische Kirche mit markanter italienischer Kuppel.",
                   "category": "religious",
@@ -12576,48 +12549,12 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saint Demetrios Greek Orthodox Church",
-                  "text": "1886 gegründete griechisch-orthodoxe Kirche in Island (Jersey City).",
-                  "category": "religious",
-                  "coords": [
-                        -74.059685,
-                        40.731875
-                  ]
-            },
-            {
-                  "name": "Mana Contemporary",
-                  "text": "In einer 1890 erbauten Fabrik untergebrachtes Kulturzentrum in Island.",
-                  "category": "cultural",
-                  "coords": [
-                        -74.06868,
-                        40.73694
-                  ]
-            },
-            {
                   "name": "Saint Vincent De Paul Church",
                   "text": "Gotische Revival-Kirche, erbaut 1906.",
                   "category": "religious",
                   "coords": [
                         -74.106876,
                         40.68211
-                  ]
-            },
-            {
-                  "name": "Saint Patrick's Catholic Church",
-                  "text": "Historische katholische Kirche mit hohem Turm aus dem 19. Jahrhundert.",
-                  "category": "religious",
-                  "coords": [
-                        -74.072136,
-                        40.714131
-                  ]
-            },
-            {
-                  "name": "Sacred Heart Church",
-                  "text": "Romanische Revival-Kirche, erbaut 1885.",
-                  "category": "religious",
-                  "coords": [
-                        -74.083206,
-                        40.706642
                   ]
             },
             {
@@ -12681,15 +12618,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   "coords": [
                         -74.135885,
                         40.67417
-                  ]
-            },
-            {
-                  "name": "Lower Hack Lift",
-                  "text": "Senkrechte Hubbrücke für die Eisenbahn über den Hackensack River.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.076625,
-                        40.743114
                   ]
             },
             {
@@ -12810,15 +12738,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jackie Robinson",
-                  "text": "Das Jackie-Robinson-Denkmal im Ellis-Island-Gebiet ehrt den legendären Baseballspieler, der die Farbbarriere durchbrach.",
-                  "category": "historical",
-                  "coords": [
-                        -74.063168,
-                        40.732332
-                  ]
-            },
-            {
                   "name": "Jersey City City Hall",
                   "text": "Das Jersey City City Hall, ein Rathaus im Ellis-Island-Gebiet, ist ein historisches Gebäude.",
                   "category": "historical",
@@ -12845,15 +12764,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   "coords": [
                         -74.102749,
                         40.644521
-                  ]
-            },
-            {
-                  "name": "Van Wagenen House",
-                  "text": "1740-ben épült történelmi holland parasztház az Islanden.",
-                  "category": "museum",
-                  "coords": [
-                        -74.066423,
-                        40.729965
                   ]
             },
             {
@@ -12884,15 +12794,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lincoln the Mystic",
-                  "text": "Lincoln bronzszobra túlvilági arckifejezéssel a Lincoln Parkban.",
-                  "category": "historical",
-                  "coords": [
-                        -74.076086,
-                        40.722473
-                  ]
-            },
-            {
                   "name": "Castle Williams",
                   "text": "1807-ben épült kör alakú erőd a Governors Islanden.",
                   "category": "fortress",
@@ -12911,15 +12812,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Assembly Hall of Jehovah's Witnesses (Stanley Theater)",
-                  "text": "A Jehova Tanúi Gyülekezeti Terme egy korábbi színház, amelyet ma istentiszteleti helyként használnak az ellis-island-history-v2-ben.",
-                  "category": "religious",
-                  "coords": [
-                        -74.062558,
-                        40.733259
-                  ]
-            },
-            {
                   "name": "Our Lady of Mount Carmel Church",
                   "text": "Római katolikus templom jellegzetes olasz stílusú kupolával.",
                   "category": "religious",
@@ -12929,48 +12821,12 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saint Demetrios Greek Orthodox Church",
-                  "text": "1886-ban alapított görög ortodox templom az Islanden (Jersey City).",
-                  "category": "religious",
-                  "coords": [
-                        -74.059685,
-                        40.731875
-                  ]
-            },
-            {
-                  "name": "Mana Contemporary",
-                  "text": "Egy 1890-ben épült gyárban elhelyezett kulturális központ az Islanden.",
-                  "category": "cultural",
-                  "coords": [
-                        -74.06868,
-                        40.73694
-                  ]
-            },
-            {
                   "name": "Saint Vincent De Paul Church",
                   "text": "Gótikus újjászületés templom, épült 1906-ban.",
                   "category": "religious",
                   "coords": [
                         -74.106876,
                         40.68211
-                  ]
-            },
-            {
-                  "name": "Saint Patrick's Catholic Church",
-                  "text": "Történelmi katolikus templom magas toronnyal a 19. századból.",
-                  "category": "religious",
-                  "coords": [
-                        -74.072136,
-                        40.714131
-                  ]
-            },
-            {
-                  "name": "Sacred Heart Church",
-                  "text": "Román stílusú újjászületés templom, épült 1885-ben.",
-                  "category": "religious",
-                  "coords": [
-                        -74.083206,
-                        40.706642
                   ]
             },
             {
@@ -13034,15 +12890,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   "coords": [
                         -74.135885,
                         40.67417
-                  ]
-            },
-            {
-                  "name": "Lower Hack Lift",
-                  "text": "Függőleges felvonóhíd a vasút számára a Hackensack folyón.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.076625,
-                        40.743114
                   ]
             },
             {
@@ -13163,15 +13010,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jackie Robinson",
-                  "text": "A Jackie Robinson emlékmű az Ellis Island környékén a legendás baseballjátékos előtt tiszteleg, aki áttörte a színküszöböt.",
-                  "category": "historical",
-                  "coords": [
-                        -74.063168,
-                        40.732332
-                  ]
-            },
-            {
                   "name": "Jersey City City Hall",
                   "text": "A Jersey City-i városháza, egy városháza az Ellis Island környékén, egy történelmi épület.",
                   "category": "historical",
@@ -13198,15 +13036,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   "coords": [
                         -74.102749,
                         40.644521
-                  ]
-            },
-            {
-                  "name": "Van Wagenen House",
-                  "text": "Casă de fermă istorică olandeză construită în 1740 în Island.",
-                  "category": "museum",
-                  "coords": [
-                        -74.066423,
-                        40.729965
                   ]
             },
             {
@@ -13237,15 +13066,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lincoln the Mystic",
-                  "text": "Statuie de bronz a lui Lincoln cu o expresie supraomenească în Lincoln Park.",
-                  "category": "historical",
-                  "coords": [
-                        -74.076086,
-                        40.722473
-                  ]
-            },
-            {
                   "name": "Castle Williams",
                   "text": "Fortăreață circulară construită în 1807 pe Governors Island.",
                   "category": "fortress",
@@ -13264,15 +13084,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Assembly Hall of Jehovah's Witnesses (Stanley Theater)",
-                  "text": "Sala de Adunări a Martorilor lui Iehova este un fost teatru folosit acum ca lăcaș de cult în ellis-island-history-v2.",
-                  "category": "religious",
-                  "coords": [
-                        -74.062558,
-                        40.733259
-                  ]
-            },
-            {
                   "name": "Our Lady of Mount Carmel Church",
                   "text": "Biserică romano-catolică cu o cupolă italiană proeminentă.",
                   "category": "religious",
@@ -13282,48 +13093,12 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saint Demetrios Greek Orthodox Church",
-                  "text": "Biserică greco-ortodoxă fondată în 1886 în Island (Jersey City).",
-                  "category": "religious",
-                  "coords": [
-                        -74.059685,
-                        40.731875
-                  ]
-            },
-            {
-                  "name": "Mana Contemporary",
-                  "text": "Centru cultural găzduit într-o fostă fabrică construită în 1890 în Island.",
-                  "category": "cultural",
-                  "coords": [
-                        -74.06868,
-                        40.73694
-                  ]
-            },
-            {
                   "name": "Saint Vincent De Paul Church",
                   "text": "Biserică în stil neogotic construită în 1906.",
                   "category": "religious",
                   "coords": [
                         -74.106876,
                         40.68211
-                  ]
-            },
-            {
-                  "name": "Saint Patrick's Catholic Church",
-                  "text": "Biserică catolică istorică cu un turn înalt din secolul al XIX-lea.",
-                  "category": "religious",
-                  "coords": [
-                        -74.072136,
-                        40.714131
-                  ]
-            },
-            {
-                  "name": "Sacred Heart Church",
-                  "text": "Biserică în stil romanic revival construită în 1885.",
-                  "category": "religious",
-                  "coords": [
-                        -74.083206,
-                        40.706642
                   ]
             },
             {
@@ -13387,15 +13162,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   "coords": [
                         -74.135885,
                         40.67417
-                  ]
-            },
-            {
-                  "name": "Lower Hack Lift",
-                  "text": "Pod vertical mobil pentru calea ferată peste râul Hackensack.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.076625,
-                        40.743114
                   ]
             },
             {
@@ -13516,15 +13282,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jackie Robinson",
-                  "text": "Monumentul Jackie Robinson din zona Ellis Island îl onorează pe legendarul jucător de baseball care a spart bariera de culoare.",
-                  "category": "historical",
-                  "coords": [
-                        -74.063168,
-                        40.732332
-                  ]
-            },
-            {
                   "name": "Jersey City City Hall",
                   "text": "Primăria orașului Jersey City, o primărie în zona Ellis Island, este o clădire istorică.",
                   "category": "historical",
@@ -13551,15 +13308,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   "coords": [
                         -74.102749,
                         40.644521
-                  ]
-            },
-            {
-                  "name": "Van Wagenen House",
-                  "text": "Historic Dutch farmhouse built in 1740 in Island.",
-                  "category": "museum",
-                  "coords": [
-                        -74.066423,
-                        40.729965
                   ]
             },
             {
@@ -13590,15 +13338,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lincoln the Mystic",
-                  "text": "Bronze statue of Lincoln with an otherworldly expression in Lincoln Park.",
-                  "category": "historical",
-                  "coords": [
-                        -74.076086,
-                        40.722473
-                  ]
-            },
-            {
                   "name": "Castle Williams",
                   "text": "Circular fortification built in 1807 on Governors Island.",
                   "category": "fortress",
@@ -13617,15 +13356,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Assembly Hall of Jehovah's Witnesses (Stanley Theater)",
-                  "text": "The Assembly Hall of Jehovah's Witnesses is a former theatre now used as a place of worship in ellis-island-history-v2.",
-                  "category": "religious",
-                  "coords": [
-                        -74.062558,
-                        40.733259
-                  ]
-            },
-            {
                   "name": "Our Lady of Mount Carmel Church",
                   "text": "Roman Catholic church with a prominent Italianate dome.",
                   "category": "religious",
@@ -13635,48 +13365,12 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saint Demetrios Greek Orthodox Church",
-                  "text": "Greek Orthodox church founded in 1886 in Island (Jersey City).",
-                  "category": "religious",
-                  "coords": [
-                        -74.059685,
-                        40.731875
-                  ]
-            },
-            {
-                  "name": "Mana Contemporary",
-                  "text": "Cultural center housed in a former factory built in 1890 in Island.",
-                  "category": "cultural",
-                  "coords": [
-                        -74.06868,
-                        40.73694
-                  ]
-            },
-            {
                   "name": "Saint Vincent De Paul Church",
                   "text": "Gothic Revival church built in 1906.",
                   "category": "religious",
                   "coords": [
                         -74.106876,
                         40.68211
-                  ]
-            },
-            {
-                  "name": "Saint Patrick's Catholic Church",
-                  "text": "Historic Catholic church with a tall spire from the 19th century.",
-                  "category": "religious",
-                  "coords": [
-                        -74.072136,
-                        40.714131
-                  ]
-            },
-            {
-                  "name": "Sacred Heart Church",
-                  "text": "Romanesque Revival church built in 1885.",
-                  "category": "religious",
-                  "coords": [
-                        -74.083206,
-                        40.706642
                   ]
             },
             {
@@ -13740,15 +13434,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   "coords": [
                         -74.135885,
                         40.67417
-                  ]
-            },
-            {
-                  "name": "Lower Hack Lift",
-                  "text": "Vertical lift bridge for railway over the Hackensack River.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.076625,
-                        40.743114
                   ]
             },
             {
@@ -13869,15 +13554,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jackie Robinson",
-                  "text": "The Jackie Robinson monument in the Ellis Island area honors the legendary baseball player who broke the color barrier.",
-                  "category": "historical",
-                  "coords": [
-                        -74.063168,
-                        40.732332
-                  ]
-            },
-            {
                   "name": "Jersey City City Hall",
                   "text": "Jersey City City Hall, a town hall in the Ellis Island area, is a historic building.",
                   "category": "historical",
@@ -13938,138 +13614,12 @@ export const poiExtraUsaHistoryV2: POI[] = [
     id: "fort-sumter-history-v2", "sights": {
       "de": [
             {
-                  "name": "Louis G. Gregory Bahá'í Museum",
-                  "text": "Ein Museum, das dem Leben des Bahá'í-Führers Louis George Gregory gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -79.940548,
-                        32.785674
-                  ]
-            },
-            {
-                  "name": "Mace Brown Museum of Natural History",
-                  "text": "Naturkundemuseum mit Fossilien aus dem Südosten der USA.",
-                  "category": "museum",
-                  "coords": [
-                        -79.939638,
-                        32.784827
-                  ]
-            },
-            {
-                  "name": "Halsey Institute of Contemporary Art",
-                  "text": "Eine zeitgenössische Kunstgalerie ohne eigene Sammlung am College of Charleston.",
-                  "category": "museum",
-                  "coords": [
-                        -79.937371,
-                        32.785245
-                  ]
-            },
-            {
-                  "name": "The Best Friend Train Museum",
-                  "text": "Ein Museum über die erste Dampflokomotive im regelmäßigen Personenverkehr in den USA.",
-                  "category": "museum",
-                  "coords": [
-                        -79.936977,
-                        32.788744
-                  ]
-            },
-            {
-                  "name": "Postal Museum",
-                  "text": "Das Museum befindet sich im historischen Post- und Gerichtsgebäude von 1896 in Charleston.",
-                  "category": "museum",
-                  "coords": [
-                        -79.931156,
-                        32.776183
-                  ]
-            },
-            {
                   "name": "The Charleston Museum",
                   "text": "Das älteste Museum der USA, gegründet 1773.",
                   "category": "museum",
                   "coords": [
                         -79.935768,
                         32.789889
-                  ]
-            },
-            {
-                  "name": "International African American Museum",
-                  "text": "Ein Museum, das die Geschichte der afroamerikanischen Erfahrung in Charleston erzählt.",
-                  "category": "museum",
-                  "coords": [
-                        -79.925833,
-                        32.788683
-                  ]
-            },
-            {
-                  "name": "Patriots Point Naval and Maritime Museum",
-                  "text": "Ein Marinemuseum am Charleston Harbor mit historischen Kriegsschiffen.",
-                  "category": "museum",
-                  "coords": [
-                        -79.90559,
-                        32.790529
-                  ]
-            },
-            {
-                  "name": "USS Yorktown",
-                  "text": "Ein Flugzeugträger der Essex-Klasse, der im Zweiten Weltkrieg diente und heute Museumsschiff ist.",
-                  "category": "museum",
-                  "coords": [
-                        -79.908505,
-                        32.790381
-                  ]
-            },
-            {
-                  "name": "Old Exchange & Provost Dungeon",
-                  "text": "Ein historisches Gebäude, das als Zollhaus, Börse und Gefängnis diente.",
-                  "category": "museum",
-                  "coords": [
-                        -79.926855,
-                        32.776858
-                  ]
-            },
-            {
-                  "name": "The Old Slave Mart",
-                  "text": "Eines der wenigen noch erhaltenen Gebäude, das als Sklavenauktionsort genutzt wurde.",
-                  "category": "museum",
-                  "coords": [
-                        -79.928422,
-                        32.777851
-                  ]
-            },
-            {
-                  "name": "The Powder Magazine",
-                  "text": "Das älteste öffentliche Gebäude in Charleston, erbaut 1713.",
-                  "category": "museum",
-                  "coords": [
-                        -79.930082,
-                        32.779448
-                  ]
-            },
-            {
-                  "name": "Gibbes Museum of Art",
-                  "text": "Eröffnet 1905 und von Frank Pierce Milburn entworfen, das Gibbes Museum of Art in Sumter, South Carolina.",
-                  "category": "museum",
-                  "coords": [
-                        -79.93173,
-                        32.778499
-                  ]
-            },
-            {
-                  "name": "Castle Pinckney",
-                  "text": "Eine kleine Festung auf einer Insel im Charleston Harbor, die im Bürgerkrieg genutzt wurde.",
-                  "category": "fortress",
-                  "coords": [
-                        -79.91094,
-                        32.773667
-                  ]
-            },
-            {
-                  "name": "Confederate Defenders of Charleston",
-                  "text": "Ein Denkmal zu Ehren der konföderierten Soldaten, die Charleston verteidigten.",
-                  "category": "historical",
-                  "coords": [
-                        -79.929084,
-                        32.769475
                   ]
             },
             {
@@ -14107,198 +13657,9 @@ export const poiExtraUsaHistoryV2: POI[] = [
                         -79.959041,
                         32.797871
                   ]
-            },
-            {
-                  "name": "Old Bethel United Methodist Church",
-                  "text": "Eine der ältesten afroamerikanischen methodistischen Gemeinden in den USA.",
-                  "category": "religious",
-                  "coords": [
-                        -79.942067,
-                        32.784474
-                  ]
-            },
-            {
-                  "name": "Brith Sholom Beth Israel Synagogue",
-                  "text": "Die älteste orthodoxe Synagoge im Süden der USA.",
-                  "category": "religious",
-                  "coords": [
-                        -79.945732,
-                        32.787656
-                  ]
-            },
-            {
-                  "name": "Morris Brown AME Church",
-                  "text": "Eine historische afrikanisch-methodistische Bischofskirche in Charleston.",
-                  "category": "religious",
-                  "coords": [
-                        -79.940229,
-                        32.78985
-                  ]
-            },
-            {
-                  "name": "St. Matthew's German Evangelical Lutheran Church",
-                  "text": "Eine historische Kirche, die von deutschen Einwanderern im 19. Jahrhundert erbaut wurde.",
-                  "category": "religious",
-                  "coords": [
-                        -79.937327,
-                        32.786723
-                  ]
-            },
-            {
-                  "name": "The St. Luke and St. Paul Anglican Church",
-                  "text": "Die Kathedralkirche der anglikanischen Diözese von South Carolina.",
-                  "category": "religious",
-                  "coords": [
-                        -79.940266,
-                        32.786987
-                  ]
-            },
-            {
-                  "name": "Bethel United Methodist Church",
-                  "text": "Erbaut 1853 und von E. Curtis entworfen, die Bethel United Methodist Church in Sumter, South Carolina.",
-                  "category": "religious",
-                  "coords": [
-                        -79.941084,
-                        32.783985
-                  ]
-            },
-            {
-                  "name": "Citadel Square Baptist Church",
-                  "text": "Historische Baptistenkirche von 1851 mit hohem Kirchturm.",
-                  "category": "religious",
-                  "coords": [
-                        -79.934051,
-                        32.787437
-                  ]
-            },
-            {
-                  "name": "Emanuel African Methodist Episcopal Church",
-                  "text": "Historische AME-Kirche, gegründet 1816, Schauplatz der Schießerei von 2015.",
-                  "category": "religious",
-                  "coords": [
-                        -79.933107,
-                        32.787498
-                  ]
-            },
-            {
-                  "name": "St. Stephen's Episcopal Church",
-                  "text": "Griechisch-Revival-Kirche, erbaut 1835.",
-                  "category": "religious",
-                  "coords": [
-                        -79.931163,
-                        32.784951
-                  ]
-            },
-            {
-                  "name": "St. John's Reformed Episcopal Church",
-                  "text": "Gotische Revival-Kirche, erbaut 1897.",
-                  "category": "religious",
-                  "coords": [
-                        -79.931944,
-                        32.786409
-                  ]
-            },
-            {
-                  "name": "Second Presbyterian Church",
-                  "text": "1811 gegründete presbyterianische Kirche in Sumter (Charleston).",
-                  "category": "religious",
-                  "coords": [
-                        -79.934005,
-                        32.788844
-                  ]
-            },
-            {
-                  "name": "First Baptist Church",
-                  "text": "Baptistenkirche von 1822 mit klassizistischem Portikus.",
-                  "category": "religious",
-                  "coords": [
-                        -79.929317,
-                        32.774171
-                  ]
-            },
-            {
-                  "name": "First (Scots) Presbyterian Church",
-                  "text": "1814 erbaute presbyterianische Kirche in Sumter (Charleston).",
-                  "category": "religious",
-                  "coords": [
-                        -79.931344,
-                        32.77427
-                  ]
-            },
-            {
-                  "name": "Unitarian Church in Charleston",
-                  "text": "Unitarische Kirche mit markantem neugotischen Innenraum.",
-                  "category": "religious",
-                  "coords": [
-                        -79.934364,
-                        32.778566
-                  ]
-            },
-            {
-                  "name": "Cathedral of St. John the Baptist",
-                  "text": "Fertiggestellt 1890 und von Patrick C. Keely entworfen, die Kathedrale St. Johannes der Täufer in Sumter, South Carolina.",
-                  "category": "religious",
-                  "coords": [
-                        -79.93447,
-                        32.776522
-                  ]
-            },
-            {
-                  "name": "Memminger Auditorium",
-                  "text": "Eröffnet 1939 und von Simons und Lapham entworfen, das Memminger Auditorium in Sumter, South Carolina.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.936406,
-                        32.78064
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Louis G. Gregory Bahá'í Museum",
-                  "text": "Egy múzeum, amely Louis George Gregory bahá’í vezető életének van szentelve.",
-                  "category": "museum",
-                  "coords": [
-                        -79.940548,
-                        32.785674
-                  ]
-            },
-            {
-                  "name": "Mace Brown Museum of Natural History",
-                  "text": "Természetrajzi múzeum, amely fosszíliákat mutat be az USA délkeleti részéből.",
-                  "category": "museum",
-                  "coords": [
-                        -79.939638,
-                        32.784827
-                  ]
-            },
-            {
-                  "name": "Halsey Institute of Contemporary Art",
-                  "text": "Egy kortárs művészeti galéria saját gyűjtemény nélkül a College of Charlestonban.",
-                  "category": "museum",
-                  "coords": [
-                        -79.937371,
-                        32.785245
-                  ]
-            },
-            {
-                  "name": "The Best Friend Train Museum",
-                  "text": "Múzeum az első személyszállító gőzmozdonyról az USA-ban.",
-                  "category": "museum",
-                  "coords": [
-                        -79.936977,
-                        32.788744
-                  ]
-            },
-            {
-                  "name": "Postal Museum",
-                  "text": "A múzeum a charlestoni 1896-os Posta és Bíróság épületében található.",
-                  "category": "museum",
-                  "coords": [
-                        -79.931156,
-                        32.776183
-                  ]
-            },
             {
                   "name": "The Charleston Museum",
                   "text": "Az USA legrégebbi múzeuma, 1773-ban alapították.",
@@ -14306,87 +13667,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   "coords": [
                         -79.935768,
                         32.789889
-                  ]
-            },
-            {
-                  "name": "International African American Museum",
-                  "text": "Egy múzeum, amely az afroamerikai tapasztalat történetét meséli el Charlestonban.",
-                  "category": "museum",
-                  "coords": [
-                        -79.925833,
-                        32.788683
-                  ]
-            },
-            {
-                  "name": "Patriots Point Naval and Maritime Museum",
-                  "text": "Egy tengerészeti múzeum a Charleston Harbor partján történelmi hadihajókkal.",
-                  "category": "museum",
-                  "coords": [
-                        -79.90559,
-                        32.790529
-                  ]
-            },
-            {
-                  "name": "USS Yorktown",
-                  "text": "Egy Essex-osztályú repülőgép-hordozó, amely a II. világháborúban szolgált, ma múzeumhajó.",
-                  "category": "museum",
-                  "coords": [
-                        -79.908505,
-                        32.790381
-                  ]
-            },
-            {
-                  "name": "Old Exchange & Provost Dungeon",
-                  "text": "Egy történelmi épület, amely vámházként, tőzsdéként és börtönként szolgált.",
-                  "category": "museum",
-                  "coords": [
-                        -79.926855,
-                        32.776858
-                  ]
-            },
-            {
-                  "name": "The Old Slave Mart",
-                  "text": "Az egyik kevés megmaradt épület, amelyet rabszolga-árverésre használtak az USA-ban.",
-                  "category": "museum",
-                  "coords": [
-                        -79.928422,
-                        32.777851
-                  ]
-            },
-            {
-                  "name": "The Powder Magazine",
-                  "text": "Charleston legrégebbi középülete, 1713-ban épült.",
-                  "category": "museum",
-                  "coords": [
-                        -79.930082,
-                        32.779448
-                  ]
-            },
-            {
-                  "name": "Gibbes Museum of Art",
-                  "text": "1905-ben nyílt meg, Frank Pierce Milburn tervezte, a Gibbes Művészeti Múzeum Sumterben, Dél-Karolinában.",
-                  "category": "museum",
-                  "coords": [
-                        -79.93173,
-                        32.778499
-                  ]
-            },
-            {
-                  "name": "Castle Pinckney",
-                  "text": "Egy kis erőd egy szigeten a Charleston Harborban, a polgárháborúban használták.",
-                  "category": "fortress",
-                  "coords": [
-                        -79.91094,
-                        32.773667
-                  ]
-            },
-            {
-                  "name": "Confederate Defenders of Charleston",
-                  "text": "A Charleston védelmében harcoló konföderációs katonák tiszteletére állított emlékmű.",
-                  "category": "historical",
-                  "coords": [
-                        -79.929084,
-                        32.769475
                   ]
             },
             {
@@ -14424,198 +13704,9 @@ export const poiExtraUsaHistoryV2: POI[] = [
                         -79.959041,
                         32.797871
                   ]
-            },
-            {
-                  "name": "Old Bethel United Methodist Church",
-                  "text": "Az USA egyik legrégebbi afroamerikai metodista gyülekezete.",
-                  "category": "religious",
-                  "coords": [
-                        -79.942067,
-                        32.784474
-                  ]
-            },
-            {
-                  "name": "Brith Sholom Beth Israel Synagogue",
-                  "text": "A legrégebbi ortodox zsinagóga az USA déli részén.",
-                  "category": "religious",
-                  "coords": [
-                        -79.945732,
-                        32.787656
-                  ]
-            },
-            {
-                  "name": "Morris Brown AME Church",
-                  "text": "Egy történelmi afrikai metodista püspöki templom Charlestonban.",
-                  "category": "religious",
-                  "coords": [
-                        -79.940229,
-                        32.78985
-                  ]
-            },
-            {
-                  "name": "St. Matthew's German Evangelical Lutheran Church",
-                  "text": "Egy történelmi templom, amelyet német bevándorlók építettek a 19. században.",
-                  "category": "religious",
-                  "coords": [
-                        -79.937327,
-                        32.786723
-                  ]
-            },
-            {
-                  "name": "The St. Luke and St. Paul Anglican Church",
-                  "text": "A dél-karolinai anglikán egyházmegye székesegyháza.",
-                  "category": "religious",
-                  "coords": [
-                        -79.940266,
-                        32.786987
-                  ]
-            },
-            {
-                  "name": "Bethel United Methodist Church",
-                  "text": "1853-ban épült, E. Curtis tervezte, a Bethel Egyesült Metodista Templom Sumterben, Dél-Karolinában.",
-                  "category": "religious",
-                  "coords": [
-                        -79.941084,
-                        32.783985
-                  ]
-            },
-            {
-                  "name": "Citadel Square Baptist Church",
-                  "text": "Történelmi baptista templom 1851-ből, magas toronnyal.",
-                  "category": "religious",
-                  "coords": [
-                        -79.934051,
-                        32.787437
-                  ]
-            },
-            {
-                  "name": "Emanuel African Methodist Episcopal Church",
-                  "text": "Történelmi AME-templom, alapítva 1816-ban, a 2015-ös lövöldözés helyszíne.",
-                  "category": "religious",
-                  "coords": [
-                        -79.933107,
-                        32.787498
-                  ]
-            },
-            {
-                  "name": "St. Stephen's Episcopal Church",
-                  "text": "Görög újjászületés stílusú templom, épült 1835-ben.",
-                  "category": "religious",
-                  "coords": [
-                        -79.931163,
-                        32.784951
-                  ]
-            },
-            {
-                  "name": "St. John's Reformed Episcopal Church",
-                  "text": "Gótikus újjászületés templom, épült 1897-ben.",
-                  "category": "religious",
-                  "coords": [
-                        -79.931944,
-                        32.786409
-                  ]
-            },
-            {
-                  "name": "Second Presbyterian Church",
-                  "text": "1811-ben alapított presbiteriánus templom a Sumterben (Charleston).",
-                  "category": "religious",
-                  "coords": [
-                        -79.934005,
-                        32.788844
-                  ]
-            },
-            {
-                  "name": "First Baptist Church",
-                  "text": "Baptista templom 1822-ből, klasszikus oszlopcsarnokkal.",
-                  "category": "religious",
-                  "coords": [
-                        -79.929317,
-                        32.774171
-                  ]
-            },
-            {
-                  "name": "First (Scots) Presbyterian Church",
-                  "text": "1814-ben épült presbiteriánus templom a Sumterben (Charleston).",
-                  "category": "religious",
-                  "coords": [
-                        -79.931344,
-                        32.77427
-                  ]
-            },
-            {
-                  "name": "Unitarian Church in Charleston",
-                  "text": "Unitárius templom jellegzetes neogótikus belsővel.",
-                  "category": "religious",
-                  "coords": [
-                        -79.934364,
-                        32.778566
-                  ]
-            },
-            {
-                  "name": "Cathedral of St. John the Baptist",
-                  "text": "1890-ben készült el, Patrick C. Keely tervezte, a Keresztelő Szent János-székesegyház Sumterben, Dél-Karolinában.",
-                  "category": "religious",
-                  "coords": [
-                        -79.93447,
-                        32.776522
-                  ]
-            },
-            {
-                  "name": "Memminger Auditorium",
-                  "text": "1939-ben nyílt meg, Simons és Lapham tervezte, a Memminger Auditorium Sumterben, Dél-Karolinában.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.936406,
-                        32.78064
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Louis G. Gregory Bahá'í Museum",
-                  "text": "Un muzeu dedicat vieții conducătorului bahá’í Louis George Gregory.",
-                  "category": "museum",
-                  "coords": [
-                        -79.940548,
-                        32.785674
-                  ]
-            },
-            {
-                  "name": "Mace Brown Museum of Natural History",
-                  "text": "Muzeu de istorie naturală care expune fosile din sud-estul SUA.",
-                  "category": "museum",
-                  "coords": [
-                        -79.939638,
-                        32.784827
-                  ]
-            },
-            {
-                  "name": "Halsey Institute of Contemporary Art",
-                  "text": "O galerie de artă contemporană fără colecție proprie la College of Charleston.",
-                  "category": "museum",
-                  "coords": [
-                        -79.937371,
-                        32.785245
-                  ]
-            },
-            {
-                  "name": "The Best Friend Train Museum",
-                  "text": "Un muzeu despre prima locomotivă cu abur pentru transport regulat de pasageri din SUA.",
-                  "category": "museum",
-                  "coords": [
-                        -79.936977,
-                        32.788744
-                  ]
-            },
-            {
-                  "name": "Postal Museum",
-                  "text": "Muzeul este situat în clădirea istorică a Poștei și Tribunalului din 1896 din Charleston.",
-                  "category": "museum",
-                  "coords": [
-                        -79.931156,
-                        32.776183
-                  ]
-            },
             {
                   "name": "The Charleston Museum",
                   "text": "Cel mai vechi muzeu din SUA, fondat în 1773.",
@@ -14623,87 +13714,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   "coords": [
                         -79.935768,
                         32.789889
-                  ]
-            },
-            {
-                  "name": "International African American Museum",
-                  "text": "Un muzeu care spune povestea experienței afro-americane în Charleston.",
-                  "category": "museum",
-                  "coords": [
-                        -79.925833,
-                        32.788683
-                  ]
-            },
-            {
-                  "name": "Patriots Point Naval and Maritime Museum",
-                  "text": "Un muzeu naval pe portul Charleston cu nave de război istorice.",
-                  "category": "museum",
-                  "coords": [
-                        -79.90559,
-                        32.790529
-                  ]
-            },
-            {
-                  "name": "USS Yorktown",
-                  "text": "Un portavion din clasa Essex care a servit în al Doilea Război Mondial, acum navă muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        -79.908505,
-                        32.790381
-                  ]
-            },
-            {
-                  "name": "Old Exchange & Provost Dungeon",
-                  "text": "O clădire istorică care a servit ca vamă, bursă și închisoare.",
-                  "category": "museum",
-                  "coords": [
-                        -79.926855,
-                        32.776858
-                  ]
-            },
-            {
-                  "name": "The Old Slave Mart",
-                  "text": "Una dintre puținele clădiri rămase folosite ca loc de licitație de sclavi în SUA.",
-                  "category": "museum",
-                  "coords": [
-                        -79.928422,
-                        32.777851
-                  ]
-            },
-            {
-                  "name": "The Powder Magazine",
-                  "text": "Cea mai veche clădire publică din Charleston, construită în 1713.",
-                  "category": "museum",
-                  "coords": [
-                        -79.930082,
-                        32.779448
-                  ]
-            },
-            {
-                  "name": "Gibbes Museum of Art",
-                  "text": "Deschis în 1905 și proiectat de Frank Pierce Milburn, Muzeul de Artă Gibbes din Sumter, Carolina de Sud.",
-                  "category": "museum",
-                  "coords": [
-                        -79.93173,
-                        32.778499
-                  ]
-            },
-            {
-                  "name": "Castle Pinckney",
-                  "text": "Un mic fort pe o insulă în portul Charleston, folosit în timpul Războiului Civil.",
-                  "category": "fortress",
-                  "coords": [
-                        -79.91094,
-                        32.773667
-                  ]
-            },
-            {
-                  "name": "Confederate Defenders of Charleston",
-                  "text": "Un monument în onoarea soldaților confederați care au apărat Charleston.",
-                  "category": "historical",
-                  "coords": [
-                        -79.929084,
-                        32.769475
                   ]
             },
             {
@@ -14741,198 +13751,9 @@ export const poiExtraUsaHistoryV2: POI[] = [
                         -79.959041,
                         32.797871
                   ]
-            },
-            {
-                  "name": "Old Bethel United Methodist Church",
-                  "text": "Una dintre cele mai vechi congregații metodiste afro-americane din SUA.",
-                  "category": "religious",
-                  "coords": [
-                        -79.942067,
-                        32.784474
-                  ]
-            },
-            {
-                  "name": "Brith Sholom Beth Israel Synagogue",
-                  "text": "Cea mai veche sinagogă ortodoxă din sudul SUA.",
-                  "category": "religious",
-                  "coords": [
-                        -79.945732,
-                        32.787656
-                  ]
-            },
-            {
-                  "name": "Morris Brown AME Church",
-                  "text": "O biserică istorică africană metodistă episcopală în Charleston.",
-                  "category": "religious",
-                  "coords": [
-                        -79.940229,
-                        32.78985
-                  ]
-            },
-            {
-                  "name": "St. Matthew's German Evangelical Lutheran Church",
-                  "text": "O biserică istorică construită de imigranții germani în secolul al XIX-lea.",
-                  "category": "religious",
-                  "coords": [
-                        -79.937327,
-                        32.786723
-                  ]
-            },
-            {
-                  "name": "The St. Luke and St. Paul Anglican Church",
-                  "text": "Biserica catedrală a Diecezei Anglicane a Carolinei de Sud.",
-                  "category": "religious",
-                  "coords": [
-                        -79.940266,
-                        32.786987
-                  ]
-            },
-            {
-                  "name": "Bethel United Methodist Church",
-                  "text": "Construită în 1853 și proiectată de E. Curtis, Biserica Metodistă Unită Bethel din Sumter, Carolina de Sud.",
-                  "category": "religious",
-                  "coords": [
-                        -79.941084,
-                        32.783985
-                  ]
-            },
-            {
-                  "name": "Citadel Square Baptist Church",
-                  "text": "Biserică baptistă istorică din 1851, cu un turn înalt.",
-                  "category": "religious",
-                  "coords": [
-                        -79.934051,
-                        32.787437
-                  ]
-            },
-            {
-                  "name": "Emanuel African Methodist Episcopal Church",
-                  "text": "Biserică AME istorică fondată în 1816, locul împușcăturilor din 2015.",
-                  "category": "religious",
-                  "coords": [
-                        -79.933107,
-                        32.787498
-                  ]
-            },
-            {
-                  "name": "St. Stephen's Episcopal Church",
-                  "text": "Biserică în stil neogrecesc construită în 1835.",
-                  "category": "religious",
-                  "coords": [
-                        -79.931163,
-                        32.784951
-                  ]
-            },
-            {
-                  "name": "St. John's Reformed Episcopal Church",
-                  "text": "Biserică în stil neogotic construită în 1897.",
-                  "category": "religious",
-                  "coords": [
-                        -79.931944,
-                        32.786409
-                  ]
-            },
-            {
-                  "name": "Second Presbyterian Church",
-                  "text": "Biserică prezbiteriană fondată în 1811 în Sumter (Charleston).",
-                  "category": "religious",
-                  "coords": [
-                        -79.934005,
-                        32.788844
-                  ]
-            },
-            {
-                  "name": "First Baptist Church",
-                  "text": "Biserică baptistă din 1822, cu un portic clasic.",
-                  "category": "religious",
-                  "coords": [
-                        -79.929317,
-                        32.774171
-                  ]
-            },
-            {
-                  "name": "First (Scots) Presbyterian Church",
-                  "text": "Biserică prezbiteriană construită în 1814 în Sumter (Charleston).",
-                  "category": "religious",
-                  "coords": [
-                        -79.931344,
-                        32.77427
-                  ]
-            },
-            {
-                  "name": "Unitarian Church in Charleston",
-                  "text": "Biserică unitariană cu un interior neogotic distinctiv.",
-                  "category": "religious",
-                  "coords": [
-                        -79.934364,
-                        32.778566
-                  ]
-            },
-            {
-                  "name": "Cathedral of St. John the Baptist",
-                  "text": "Finalizată în 1890 și proiectată de Patrick C. Keely, Catedrala Sfântul Ioan Botezătorul din Sumter, Carolina de Sud.",
-                  "category": "religious",
-                  "coords": [
-                        -79.93447,
-                        32.776522
-                  ]
-            },
-            {
-                  "name": "Memminger Auditorium",
-                  "text": "Deschis în 1939 și proiectat de Simons și Lapham, Auditoriumul Memminger din Sumter, Carolina de Sud.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.936406,
-                        32.78064
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Louis G. Gregory Bahá'í Museum",
-                  "text": "A museum dedicated to the life of Bahá'í leader Louis George Gregory.",
-                  "category": "museum",
-                  "coords": [
-                        -79.940548,
-                        32.785674
-                  ]
-            },
-            {
-                  "name": "Mace Brown Museum of Natural History",
-                  "text": "Museum of natural history displaying fossils from the southeastern US.",
-                  "category": "museum",
-                  "coords": [
-                        -79.939638,
-                        32.784827
-                  ]
-            },
-            {
-                  "name": "Halsey Institute of Contemporary Art",
-                  "text": "A non-collecting contemporary art gallery at the College of Charleston.",
-                  "category": "museum",
-                  "coords": [
-                        -79.937371,
-                        32.785245
-                  ]
-            },
-            {
-                  "name": "The Best Friend Train Museum",
-                  "text": "A museum about the first steam locomotive in regular passenger service in the US.",
-                  "category": "museum",
-                  "coords": [
-                        -79.936977,
-                        32.788744
-                  ]
-            },
-            {
-                  "name": "Postal Museum",
-                  "text": "The museum is housed in the historic 1896 U.S. Post Office and Courthouse building.",
-                  "category": "museum",
-                  "coords": [
-                        -79.931156,
-                        32.776183
-                  ]
-            },
             {
                   "name": "The Charleston Museum",
                   "text": "The oldest museum in the United States, founded in 1773.",
@@ -14940,87 +13761,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   "coords": [
                         -79.935768,
                         32.789889
-                  ]
-            },
-            {
-                  "name": "International African American Museum",
-                  "text": "A museum that tells the story of the African American experience in Charleston.",
-                  "category": "museum",
-                  "coords": [
-                        -79.925833,
-                        32.788683
-                  ]
-            },
-            {
-                  "name": "Patriots Point Naval and Maritime Museum",
-                  "text": "A naval museum on Charleston Harbor featuring historic warships.",
-                  "category": "museum",
-                  "coords": [
-                        -79.90559,
-                        32.790529
-                  ]
-            },
-            {
-                  "name": "USS Yorktown",
-                  "text": "An Essex-class aircraft carrier that served in WWII and is now a museum ship.",
-                  "category": "museum",
-                  "coords": [
-                        -79.908505,
-                        32.790381
-                  ]
-            },
-            {
-                  "name": "Old Exchange & Provost Dungeon",
-                  "text": "A historic building that served as a customs house, exchange, and prison.",
-                  "category": "museum",
-                  "coords": [
-                        -79.926855,
-                        32.776858
-                  ]
-            },
-            {
-                  "name": "The Old Slave Mart",
-                  "text": "One of the few remaining buildings used as a slave auction site in the US.",
-                  "category": "museum",
-                  "coords": [
-                        -79.928422,
-                        32.777851
-                  ]
-            },
-            {
-                  "name": "The Powder Magazine",
-                  "text": "The oldest public building in Charleston, built in 1713.",
-                  "category": "museum",
-                  "coords": [
-                        -79.930082,
-                        32.779448
-                  ]
-            },
-            {
-                  "name": "Gibbes Museum of Art",
-                  "text": "Opened in 1905 and designed by Frank Pierce Milburn, the Gibbes Museum of Art in Sumter, South Carolina.",
-                  "category": "museum",
-                  "coords": [
-                        -79.93173,
-                        32.778499
-                  ]
-            },
-            {
-                  "name": "Castle Pinckney",
-                  "text": "A small fort on an island in Charleston Harbor used during the Civil War.",
-                  "category": "fortress",
-                  "coords": [
-                        -79.91094,
-                        32.773667
-                  ]
-            },
-            {
-                  "name": "Confederate Defenders of Charleston",
-                  "text": "A monument honoring Confederate soldiers who defended Charleston.",
-                  "category": "historical",
-                  "coords": [
-                        -79.929084,
-                        32.769475
                   ]
             },
             {
@@ -15057,150 +13797,6 @@ export const poiExtraUsaHistoryV2: POI[] = [
                   "coords": [
                         -79.959041,
                         32.797871
-                  ]
-            },
-            {
-                  "name": "Old Bethel United Methodist Church",
-                  "text": "One of the oldest African American Methodist congregations in the US.",
-                  "category": "religious",
-                  "coords": [
-                        -79.942067,
-                        32.784474
-                  ]
-            },
-            {
-                  "name": "Brith Sholom Beth Israel Synagogue",
-                  "text": "The oldest Orthodox synagogue in the Southern United States.",
-                  "category": "religious",
-                  "coords": [
-                        -79.945732,
-                        32.787656
-                  ]
-            },
-            {
-                  "name": "Morris Brown AME Church",
-                  "text": "A historic African Methodist Episcopal church in Charleston.",
-                  "category": "religious",
-                  "coords": [
-                        -79.940229,
-                        32.78985
-                  ]
-            },
-            {
-                  "name": "St. Matthew's German Evangelical Lutheran Church",
-                  "text": "A historic church built by German immigrants in the 19th century.",
-                  "category": "religious",
-                  "coords": [
-                        -79.937327,
-                        32.786723
-                  ]
-            },
-            {
-                  "name": "The St. Luke and St. Paul Anglican Church",
-                  "text": "The cathedral church of the Anglican Diocese of South Carolina.",
-                  "category": "religious",
-                  "coords": [
-                        -79.940266,
-                        32.786987
-                  ]
-            },
-            {
-                  "name": "Bethel United Methodist Church",
-                  "text": "Built in 1853 and designed by E. Curtis, the Bethel United Methodist Church in Sumter, South Carolina.",
-                  "category": "religious",
-                  "coords": [
-                        -79.941084,
-                        32.783985
-                  ]
-            },
-            {
-                  "name": "Citadel Square Baptist Church",
-                  "text": "Historic Baptist church built in 1851 with a tall steeple.",
-                  "category": "religious",
-                  "coords": [
-                        -79.934051,
-                        32.787437
-                  ]
-            },
-            {
-                  "name": "Emanuel African Methodist Episcopal Church",
-                  "text": "Historic AME church founded in 1816, site of the 2015 shooting.",
-                  "category": "religious",
-                  "coords": [
-                        -79.933107,
-                        32.787498
-                  ]
-            },
-            {
-                  "name": "St. Stephen's Episcopal Church",
-                  "text": "Greek Revival style church built in 1835.",
-                  "category": "religious",
-                  "coords": [
-                        -79.931163,
-                        32.784951
-                  ]
-            },
-            {
-                  "name": "St. John's Reformed Episcopal Church",
-                  "text": "Gothic Revival church built in 1897.",
-                  "category": "religious",
-                  "coords": [
-                        -79.931944,
-                        32.786409
-                  ]
-            },
-            {
-                  "name": "Second Presbyterian Church",
-                  "text": "Presbyterian church founded in 1811 in Sumter (Charleston).",
-                  "category": "religious",
-                  "coords": [
-                        -79.934005,
-                        32.788844
-                  ]
-            },
-            {
-                  "name": "First Baptist Church",
-                  "text": "Baptist church built in 1822 with a classic portico.",
-                  "category": "religious",
-                  "coords": [
-                        -79.929317,
-                        32.774171
-                  ]
-            },
-            {
-                  "name": "First (Scots) Presbyterian Church",
-                  "text": "Presbyterian church built in 1814 in Sumter (Charleston).",
-                  "category": "religious",
-                  "coords": [
-                        -79.931344,
-                        32.77427
-                  ]
-            },
-            {
-                  "name": "Unitarian Church in Charleston",
-                  "text": "Unitarian church with a distinctive Gothic Revival interior.",
-                  "category": "religious",
-                  "coords": [
-                        -79.934364,
-                        32.778566
-                  ]
-            },
-            {
-                  "name": "Cathedral of St. John the Baptist",
-                  "text": "Completed in 1890 and designed by Patrick C. Keely, the Cathedral of St. John the Baptist in Sumter, South Carolina.",
-                  "category": "religious",
-                  "coords": [
-                        -79.93447,
-                        32.776522
-                  ]
-            },
-            {
-                  "name": "Memminger Auditorium",
-                  "text": "Opened in 1939 and designed by Simons and Lapham, the Memminger Auditorium in Sumter, South Carolina.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.936406,
-                        32.78064
                   ]
             }
       ]

@@ -1330,33 +1330,6 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Kameronova galereia",
-                  "text": "Eine klassizistische Galerie im Katharinenpark, entworfen vom Architekten Charles Cameron.",
-                  "category": "museum",
-                  "coords": [
-                        30.395577,
-                        59.714486
-                  ]
-            },
-            {
-                  "name": "Katharinenpalast",
-                  "text": "Ein prächtiger Rokoko-Sommerpalast der russischen Zaren in Zarskoje Selo.",
-                  "category": "castle",
-                  "coords": [
-                        30.395487,
-                        59.71603
-                  ]
-            },
-            {
-                  "name": "vystavka \"Voskovykh person. Liubov' i vlast'\"",
-                  "text": "Ein Museum in Zarskoje Selo, das Wachsfiguren bedeutender historischer Persönlichkeiten zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        30.399074,
-                        59.718287
-                  ]
-            },
-            {
                   "name": "Tsarskosel'skii arsenal",
                   "text": "Ein Museum, das eine umfangreiche Sammlung historischer Waffen und Rüstungen präsentiert.",
                   "category": "museum",
@@ -1366,30 +1339,12 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Dom-muzei P. P. Chistiakova",
-                  "text": "Das ehemalige Wohnhaus und Atelier des berühmten russischen Malers und Lehrers Pawel Tschistjakow.",
-                  "category": "museum",
-                  "coords": [
-                        30.426301,
-                        59.713087
-                  ]
-            },
-            {
                   "name": "Muzei khramov Tsarskosel'skogo blagochiniia",
                   "text": "Ein Museum, das der religiösen Geschichte und den Kirchen der Region Zarskoje Selo gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         30.406938,
                         59.720547
-                  ]
-            },
-            {
-                  "name": "Bassein",
-                  "text": "Ein Schwimmbad beim Alexanderpalast, das Besuchern und Anwohnern offensteht.",
-                  "category": "recreational",
-                  "coords": [
-                        30.413535,
-                        59.697937
                   ]
             },
             {
@@ -1422,33 +1377,6 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Kameronova galereia",
-                  "text": "Klasszicista galéria a Katalin-parkban, amelyet Charles Cameron építész tervezett.",
-                  "category": "museum",
-                  "coords": [
-                        30.395577,
-                        59.714486
-                  ]
-            },
-            {
-                  "name": "Ekaterininskii dvorets",
-                  "text": "Az orosz cárok pompás rokokó stílusú nyári palotája Carszkoje Szelóban.",
-                  "category": "castle",
-                  "coords": [
-                        30.395487,
-                        59.71603
-                  ]
-            },
-            {
-                  "name": "vystavka \"Voskovykh person. Liubov' i vlast'\"",
-                  "text": "Múzeumi kiállítás Carszkoje Szelóban, amely történelmi alakok viaszfiguráit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        30.399074,
-                        59.718287
-                  ]
-            },
-            {
                   "name": "Tsarskosel'skii arsenal",
                   "text": "Múzeum, amely történelmi fegyverek és páncélok gazdag gyűjteményét mutatja be.",
                   "category": "museum",
@@ -1458,30 +1386,12 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Dom-muzei P. P. Chistiakova",
-                  "text": "Pavel Csisztjakov híres orosz festő és tanár egykori lakóháza és műterme.",
-                  "category": "museum",
-                  "coords": [
-                        30.426301,
-                        59.713087
-                  ]
-            },
-            {
                   "name": "Muzei khramov Tsarskosel'skogo blagochiniia",
                   "text": "Múzeum, amely Carszkoje Szelo egyháztörténetét és templomait mutatja be.",
                   "category": "museum",
                   "coords": [
                         30.406938,
                         59.720547
-                  ]
-            },
-            {
-                  "name": "Bassein",
-                  "text": "Úszómedence az Sándor-palotánál, amely nyitva áll a látogatók és lakosok előtt.",
-                  "category": "recreational",
-                  "coords": [
-                        30.413535,
-                        59.697937
                   ]
             },
             {
@@ -1514,33 +1424,6 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Kameronova galereia",
-                  "text": "O galerie neoclasică în Parcul Ecaterina, proiectată de arhitectul Charles Cameron.",
-                  "category": "museum",
-                  "coords": [
-                        30.395577,
-                        59.714486
-                  ]
-            },
-            {
-                  "name": "Ekaterininskii dvorets",
-                  "text": "Un somptuos palat de vară în stil rococo al țarilor ruși din Țarskoe Selo.",
-                  "category": "castle",
-                  "coords": [
-                        30.395487,
-                        59.71603
-                  ]
-            },
-            {
-                  "name": "vystavka \"Voskovykh person. Liubov' i vlast'\"",
-                  "text": "O expoziție muzeală în Țarskoe Selo care prezintă figuri de ceară ale unor personaje istorice.",
-                  "category": "museum",
-                  "coords": [
-                        30.399074,
-                        59.718287
-                  ]
-            },
-            {
                   "name": "Tsarskosel'skii arsenal",
                   "text": "Un muzeu care prezintă o colecție vastă de arme și armuri istorice.",
                   "category": "museum",
@@ -1550,30 +1433,12 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Dom-muzei P. P. Chistiakova",
-                  "text": "Fosta casă și atelier al celebrului pictor și profesor rus Pavel Cistiakov.",
-                  "category": "museum",
-                  "coords": [
-                        30.426301,
-                        59.713087
-                  ]
-            },
-            {
                   "name": "Muzei khramov Tsarskosel'skogo blagochiniia",
                   "text": "Un muzeu dedicat istoriei religioase și bisericilor din regiunea Țarskoe Selo.",
                   "category": "museum",
                   "coords": [
                         30.406938,
                         59.720547
-                  ]
-            },
-            {
-                  "name": "Bassein",
-                  "text": "O piscină la Palatul Alexandru, deschisă vizitatorilor și rezidenților.",
-                  "category": "recreational",
-                  "coords": [
-                        30.413535,
-                        59.697937
                   ]
             },
             {
@@ -1606,33 +1471,6 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "Cameron gallery",
-                  "text": "A neoclassical gallery in the Catherine Park, designed by architect Charles Cameron.",
-                  "category": "museum",
-                  "coords": [
-                        30.395577,
-                        59.714486
-                  ]
-            },
-            {
-                  "name": "The Catherine Palace",
-                  "text": "A magnificent Rococo summer palace of the Russian Tsars in Tsarskoye Selo.",
-                  "category": "castle",
-                  "coords": [
-                        30.395487,
-                        59.71603
-                  ]
-            },
-            {
-                  "name": "exhibition of \"Wax figures. Love and power\"",
-                  "text": "A museum exhibition in Tsarskoye Selo featuring wax figures of historical personalities.",
-                  "category": "museum",
-                  "coords": [
-                        30.399074,
-                        59.718287
-                  ]
-            },
-            {
                   "name": "The Imperial Arms Collection",
                   "text": "A museum displaying an extensive collection of historical weapons and armor.",
                   "category": "museum",
@@ -1642,30 +1480,12 @@ imageHint: "State Historical Museum red brick building on Red Square Moscow",
                   ]
             },
             {
-                  "name": "The P.P. Chistyakov House-Museum",
-                  "text": "The former home and studio of the famous Russian painter and teacher Pavel Chistyakov.",
-                  "category": "museum",
-                  "coords": [
-                        30.426301,
-                        59.713087
-                  ]
-            },
-            {
                   "name": "Museum of churches of the Tsarskoye Selo deanery",
                   "text": "A museum dedicated to the religious history and churches of the Tsarskoye Selo region.",
                   "category": "museum",
                   "coords": [
                         30.406938,
                         59.720547
-                  ]
-            },
-            {
-                  "name": "Bassein",
-                  "text": "A swimming pool at the Alexander Palace, open to visitors and residents.",
-                  "category": "recreational",
-                  "coords": [
-                        30.413535,
-                        59.697937
                   ]
             },
             {
@@ -1910,15 +1730,6 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Parkvik",
-                  "text": "Ein kleiner Freizeitpark auf dem Gelände des Tsaritsyno-Palastkomplexes.",
-                  "category": "recreational",
-                  "coords": [
-                        37.646341,
-                        55.65356
-                  ]
-            },
-            {
                   "name": "Gorod masterov",
                   "text": "Ein Themenpark im Tsaritsyno-Komplex, der traditionelles Handwerk und Kultur präsentiert.",
                   "category": "recreational",
@@ -2008,15 +1819,6 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   "coords": [
                         37.724739,
                         55.586801
-                  ]
-            },
-            {
-                  "name": "Parkvik",
-                  "text": "Kisebb vidámpark a Caricinó-palotakomplexum területén.",
-                  "category": "recreational",
-                  "coords": [
-                        37.646341,
-                        55.65356
                   ]
             },
             {
@@ -2112,15 +1914,6 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   ]
             },
             {
-                  "name": "Parkvik",
-                  "text": "Un mic parc de distracții situat pe domeniul complexului palatului Tsaritsyno.",
-                  "category": "recreational",
-                  "coords": [
-                        37.646341,
-                        55.65356
-                  ]
-            },
-            {
                   "name": "Gorod masterov",
                   "text": "Un parc tematic în complexul Tsaritsyno, care prezintă meșteșuguri tradiționale și cultură.",
                   "category": "recreational",
@@ -2210,15 +2003,6 @@ imageHint: "Kazan Cathedral Saint Petersburg colonnade view",
                   "coords": [
                         37.724739,
                         55.586801
-                  ]
-            },
-            {
-                  "name": "Parkvik",
-                  "text": "A small amusement park located within the grounds of the Tsaritsyno Palace complex.",
-                  "category": "recreational",
-                  "coords": [
-                        37.646341,
-                        55.65356
                   ]
             },
             {
@@ -2516,15 +2300,6 @@ imageHint: "State Russian Museum Mikhailovsky Palace Saint Petersburg",
                   ]
             },
             {
-                  "name": "Zhiloi dom (1899 g.)",
-                  "text": "Das Wohnhaus von 1899 ist eine historische Touristenattraktion in Tobolsk.",
-                  "category": "landmark",
-                  "coords": [
-                        68.235566,
-                        58.189184
-                  ]
-            },
-            {
                   "name": "M. S. Znamenskii",
                   "text": "M. S. Znamenskii ist eine historische Sehenswürdigkeit im Gedenken an den Künstler in Tobolsk.",
                   "category": "landmark",
@@ -2549,15 +2324,6 @@ imageHint: "State Russian Museum Mikhailovsky Palace Saint Petersburg",
                   "coords": [
                         68.267368,
                         58.214372
-                  ]
-            },
-            {
-                  "name": "Zhiloi dom (1907 g.)",
-                  "text": "Zhiloi dom (1907 g.) ist ein historisches Wohnhaus und eine Sehenswürdigkeit in Tobolsk.",
-                  "category": "landmark",
-                  "coords": [
-                        68.248521,
-                        58.181669
                   ]
             },
             {
@@ -2588,30 +2354,12 @@ imageHint: "State Russian Museum Mikhailovsky Palace Saint Petersburg",
                   ]
             },
             {
-                  "name": "Zhiloi dom (1895 g.)",
-                  "text": "Zhiloi dom (1895 g.) ist ein erhaltenes historisches Wohnhaus und eine Sehenswürdigkeit in Tobolsk.",
-                  "category": "landmark",
-                  "coords": [
-                        68.247062,
-                        58.187389
-                  ]
-            },
-            {
                   "name": "Zhiloi dom (1903 g.)",
                   "text": "Zhiloi dom (1903 g.) ist ein bemerkenswertes Wohngebäude, das als lokale Attraktion in Tobolsk dient.",
                   "category": "landmark",
                   "coords": [
                         68.246099,
                         58.189158
-                  ]
-            },
-            {
-                  "name": "Zhiloi dom (1897 g.)",
-                  "text": "Zhiloi dom (1897 g.) ist eine Attraktion in Tobolsk, die ein historisches Wohngebäude darstellt.",
-                  "category": "landmark",
-                  "coords": [
-                        68.252015,
-                        58.18868
                   ]
             }
       ],
@@ -2761,15 +2509,6 @@ imageHint: "State Russian Museum Mikhailovsky Palace Saint Petersburg",
                   ]
             },
             {
-                  "name": "Zhiloi dom (1899 g.)",
-                  "text": "Az 1899-es lakóház egy történelmi turisztikai látványosság Tobolszkban.",
-                  "category": "landmark",
-                  "coords": [
-                        68.235566,
-                        58.189184
-                  ]
-            },
-            {
                   "name": "M. S. Znamenskii",
                   "text": "Az M. S. Znamenszkij-emlékhely egy történelmi látványosság a művész tiszteletére Tobolszkban.",
                   "category": "landmark",
@@ -2794,15 +2533,6 @@ imageHint: "State Russian Museum Mikhailovsky Palace Saint Petersburg",
                   "coords": [
                         68.267368,
                         58.214372
-                  ]
-            },
-            {
-                  "name": "Zhiloi dom (1907 g.)",
-                  "text": "A Zhiloi dom (1907 g.) egy történelmi lakóépület és látványosság Tobolszkban.",
-                  "category": "landmark",
-                  "coords": [
-                        68.248521,
-                        58.181669
                   ]
             },
             {
@@ -2833,30 +2563,12 @@ imageHint: "State Russian Museum Mikhailovsky Palace Saint Petersburg",
                   ]
             },
             {
-                  "name": "Zhiloi dom (1895 g.)",
-                  "text": "A Zhiloi dom (1895 g.) egy megőrzött történelmi lakóház és látványosság Tobolszkban.",
-                  "category": "landmark",
-                  "coords": [
-                        68.247062,
-                        58.187389
-                  ]
-            },
-            {
                   "name": "Zhiloi dom (1903 g.)",
                   "text": "A Zhiloi dom (1903 g.) egy figyelemre méltó lakóépület, amely helyi látványosságként szolgál Tobolszkban.",
                   "category": "landmark",
                   "coords": [
                         68.246099,
                         58.189158
-                  ]
-            },
-            {
-                  "name": "Zhiloi dom (1897 g.)",
-                  "text": "A Zhiloi dom (1897 g.) egy tobolszki látványosság, amely egy történelmi lakóépületet mutat be.",
-                  "category": "landmark",
-                  "coords": [
-                        68.252015,
-                        58.18868
                   ]
             }
       ],
@@ -3006,15 +2718,6 @@ imageHint: "State Russian Museum Mikhailovsky Palace Saint Petersburg",
                   ]
             },
             {
-                  "name": "Zhiloi dom (1899 g.)",
-                  "text": "Casa de locuit din 1899 este o atracție turistică istorică din Tobolsk.",
-                  "category": "landmark",
-                  "coords": [
-                        68.235566,
-                        58.189184
-                  ]
-            },
-            {
                   "name": "M. S. Znamenskii",
                   "text": "M. S. Znamenskii este un reper istoric dedicat artistului în Tobolsk.",
                   "category": "landmark",
@@ -3039,15 +2742,6 @@ imageHint: "State Russian Museum Mikhailovsky Palace Saint Petersburg",
                   "coords": [
                         68.267368,
                         58.214372
-                  ]
-            },
-            {
-                  "name": "Zhiloi dom (1907 g.)",
-                  "text": "Zhiloi dom (1907 g.) este o clădire rezidențială istorică și o atracție în Tobolsk.",
-                  "category": "landmark",
-                  "coords": [
-                        68.248521,
-                        58.181669
                   ]
             },
             {
@@ -3078,30 +2772,12 @@ imageHint: "State Russian Museum Mikhailovsky Palace Saint Petersburg",
                   ]
             },
             {
-                  "name": "Zhiloi dom (1895 g.)",
-                  "text": "Zhiloi dom (1895 g.) este o casă rezidențială istorică conservată și o atracție în Tobolsk.",
-                  "category": "landmark",
-                  "coords": [
-                        68.247062,
-                        58.187389
-                  ]
-            },
-            {
                   "name": "Zhiloi dom (1903 g.)",
                   "text": "Zhiloi dom (1903 g.) este o clădire rezidențială notabilă ce servește ca atracție locală în Tobolsk.",
                   "category": "landmark",
                   "coords": [
                         68.246099,
                         58.189158
-                  ]
-            },
-            {
-                  "name": "Zhiloi dom (1897 g.)",
-                  "text": "Zhiloi dom (1897 g.) este o atracție din Tobolsk care prezintă o structură rezidențială istorică.",
-                  "category": "landmark",
-                  "coords": [
-                        68.252015,
-                        58.18868
                   ]
             }
       ],
@@ -3251,15 +2927,6 @@ imageHint: "State Russian Museum Mikhailovsky Palace Saint Petersburg",
                   ]
             },
             {
-                  "name": "Zhiloi dom (1899 g.)",
-                  "text": "The residential house from 1899 is a historical tourist attraction in Tobolsk.",
-                  "category": "landmark",
-                  "coords": [
-                        68.235566,
-                        58.189184
-                  ]
-            },
-            {
                   "name": "M. S. Znamenskii",
                   "text": "M. S. Znamenskii is a historical attraction dedicated to the artist in Tobolsk.",
                   "category": "landmark",
@@ -3284,15 +2951,6 @@ imageHint: "State Russian Museum Mikhailovsky Palace Saint Petersburg",
                   "coords": [
                         68.267368,
                         58.214372
-                  ]
-            },
-            {
-                  "name": "Zhiloi dom (1907 g.)",
-                  "text": "Zhiloi dom (1907 g.) is a historic residential building and attraction in Tobolsk.",
-                  "category": "landmark",
-                  "coords": [
-                        68.248521,
-                        58.181669
                   ]
             },
             {
@@ -3323,30 +2981,12 @@ imageHint: "State Russian Museum Mikhailovsky Palace Saint Petersburg",
                   ]
             },
             {
-                  "name": "Zhiloi dom (1895 g.)",
-                  "text": "Zhiloi dom (1895 g.) is a preserved historical residential house and attraction in Tobolsk.",
-                  "category": "landmark",
-                  "coords": [
-                        68.247062,
-                        58.187389
-                  ]
-            },
-            {
                   "name": "Zhiloi dom (1903 g.)",
                   "text": "Zhiloi dom (1903 g.) is a notable residential building serving as a local attraction in Tobolsk.",
                   "category": "landmark",
                   "coords": [
                         68.246099,
                         58.189158
-                  ]
-            },
-            {
-                  "name": "Zhiloi dom (1897 g.)",
-                  "text": "Zhiloi dom (1897 g.) is an attraction in Tobolsk featuring a historic residential structure.",
-                  "category": "landmark",
-                  "coords": [
-                        68.252015,
-                        58.18868
                   ]
             }
       ]
@@ -4849,93 +4489,12 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
-                  "text": "Dramatheater im Tulaer Kreml, in einem historischen Gebäude untergebracht.",
-                  "category": "cultural",
-                  "coords": [
-                        37.609754,
-                        54.188476
-                  ]
-            },
-            {
-                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
-                  "text": "Ein Museum in Tula, das sich auf die antike Geschichte und Archäologie der Region konzentriert.",
-                  "category": "museum",
-                  "coords": [
-                        37.610572,
-                        54.186416
-                  ]
-            },
-            {
-                  "name": "Memorial'nyi muzei N. I. Beloborodova",
-                  "text": "Ein Museum, das dem Erfinder des chromatischen Akkordeons, Nikolai Beloborodow, gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        37.615196,
-                        54.191507
-                  ]
-            },
-            {
-                  "name": "Muzei Prianika",
-                  "text": "Das Pryanik-Museum – ein Museum über den berühmten Tulaer Lebkuchen im Tulaer Kreml.",
-                  "category": "museum",
-                  "coords": [
-                        37.622309,
-                        54.211542
-                  ]
-            },
-            {
                   "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
                   "text": "Das Tulaer Kammersprechtheater im Tulaer Kreml.",
                   "category": "cultural",
                   "coords": [
                         37.626177,
                         54.191998
-                  ]
-            },
-            {
-                  "name": "Trogatel'nyi zoopark",
-                  "text": "Ein Streichelzoo beim Tulaer Kreml, in dem Besucher Tiere hautnah erleben können.",
-                  "category": "recreational",
-                  "coords": [
-                        37.596199,
-                        54.179942
-                  ]
-            },
-            {
-                  "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Ein Club für virtuelle Realität im Bereich des Tulaer Kremls für moderne Unterhaltung.",
-                  "category": "recreational",
-                  "coords": [
-                        37.599277,
-                        54.175531
-                  ]
-            },
-            {
-                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "Ein spezialisierter Zoo in Tula, der sich auf Reptilien und exotische Tiere konzentriert.",
-                  "category": "recreational",
-                  "coords": [
-                        37.588762,
-                        54.180884
-                  ]
-            },
-            {
-                  "name": "Kharakter",
-                  "text": "Ein Freizeit- und Erlebnispark im historischen Zentrum von Tula.",
-                  "category": "recreational",
-                  "coords": [
-                        37.593657,
-                        54.197341
-                  ]
-            },
-            {
-                  "name": "Otryv",
-                  "text": "Ein moderner Freizeitpark in Tula mit verschiedenen Attraktionen für Kinder.",
-                  "category": "recreational",
-                  "coords": [
-                        37.602294,
-                        54.197773
                   ]
             }
       ],
@@ -4968,93 +4527,12 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
-                  "text": "Drámaszínház a Tula Kremlben, egy történelmi épületben.",
-                  "category": "cultural",
-                  "coords": [
-                        37.609754,
-                        54.188476
-                  ]
-            },
-            {
-                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
-                  "text": "Tulai múzeum, amely a régió ókori történelmére és régészetére összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        37.610572,
-                        54.186416
-                  ]
-            },
-            {
-                  "name": "Memorial'nyi muzei N. I. Beloborodova",
-                  "text": "A kromatikus harmonika feltalálójának, Nyikolaj Beloborodovnak szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        37.615196,
-                        54.191507
-                  ]
-            },
-            {
-                  "name": "Muzei Prianika",
-                  "text": "A Pryanik Múzeum – a híres tulai mézeskalács múzeuma a Tula Kremlben.",
-                  "category": "museum",
-                  "coords": [
-                        37.622309,
-                        54.211542
-                  ]
-            },
-            {
                   "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
                   "text": "A Tula Kamaraszínház a Tula Kremlben.",
                   "category": "cultural",
                   "coords": [
                         37.626177,
                         54.191998
-                  ]
-            },
-            {
-                  "name": "Trogatel'nyi zoopark",
-                  "text": "Simogató állatkert a Tulai Kreml mellett, ahol az állatok közelről megfigyelhetők.",
-                  "category": "recreational",
-                  "coords": [
-                        37.596199,
-                        54.179942
-                  ]
-            },
-            {
-                  "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Virtuális valóság klub a Tulai Kreml területén, modern szórakozást kínálva.",
-                  "category": "recreational",
-                  "coords": [
-                        37.599277,
-                        54.175531
-                  ]
-            },
-            {
-                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "Tulai állatkert, amely hüllőkre és egzotikus állatokra specializálódott.",
-                  "category": "recreational",
-                  "coords": [
-                        37.588762,
-                        54.180884
-                  ]
-            },
-            {
-                  "name": "Kharakter",
-                  "text": "Szórakoztató és élménypark Tula történelmi központjában.",
-                  "category": "recreational",
-                  "coords": [
-                        37.593657,
-                        54.197341
-                  ]
-            },
-            {
-                  "name": "Otryv",
-                  "text": "Modern szabadidőpark Tulában különböző gyermekattrakciókkal.",
-                  "category": "recreational",
-                  "coords": [
-                        37.602294,
-                        54.197773
                   ]
             }
       ],
@@ -5087,93 +4565,12 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Tul'skii akademicheskii teatr dramy im. M. Gor'kogo",
-                  "text": "Teatru dramatic în Kremlinul Tula, găzduit într-o clădire istorică.",
-                  "category": "cultural",
-                  "coords": [
-                        37.609754,
-                        54.188476
-                  ]
-            },
-            {
-                  "name": "Muzeino-vystavochnyi tsentr \"Tul'skie drevnosti\"",
-                  "text": "Un muzeu din Tula care se concentrează pe istoria antică și arheologia regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        37.610572,
-                        54.186416
-                  ]
-            },
-            {
-                  "name": "Memorial'nyi muzei N. I. Beloborodova",
-                  "text": "Un muzeu dedicat inventatorului acordeonului cromatic, Nikolai Beloborodov.",
-                  "category": "museum",
-                  "coords": [
-                        37.615196,
-                        54.191507
-                  ]
-            },
-            {
-                  "name": "Muzei Prianika",
-                  "text": "Muzeul Pryanik – muzeul dedicat turtei dulci celebre din Tula, în incinta Kremlinului din Tula.",
-                  "category": "museum",
-                  "coords": [
-                        37.622309,
-                        54.211542
-                  ]
-            },
-            {
                   "name": "Tul'skii Kamernyi Dramaticheskii Teatr",
                   "text": "Teatrul de Cameră din Tula, situat în Kremlinul din Tula.",
                   "category": "cultural",
                   "coords": [
                         37.626177,
                         54.191998
-                  ]
-            },
-            {
-                  "name": "Trogatel'nyi zoopark",
-                  "text": "O grădină zoologică cu animale de mângâiat lângă Kremlinul din Tula.",
-                  "category": "recreational",
-                  "coords": [
-                        37.596199,
-                        54.179942
-                  ]
-            },
-            {
-                  "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "Un club de realitate virtuală în zona Kremlinului din Tula pentru divertisment modern.",
-                  "category": "recreational",
-                  "coords": [
-                        37.599277,
-                        54.175531
-                  ]
-            },
-            {
-                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "O grădină zoologică specializată în Tula, concentrată pe reptile și animale exotice.",
-                  "category": "recreational",
-                  "coords": [
-                        37.588762,
-                        54.180884
-                  ]
-            },
-            {
-                  "name": "Kharakter",
-                  "text": "Un parc de distracții și aventură în centrul istoric al orașului Tula.",
-                  "category": "recreational",
-                  "coords": [
-                        37.593657,
-                        54.197341
-                  ]
-            },
-            {
-                  "name": "Otryv",
-                  "text": "Un parc de distracții modern în Tula, cu diverse atracții pentru copii.",
-                  "category": "recreational",
-                  "coords": [
-                        37.602294,
-                        54.197773
                   ]
             }
       ],
@@ -5206,93 +4603,12 @@ imageHint: "Russky Bridge cable-stayed Vladivostok",
                   ]
             },
             {
-                  "name": "Tula Academic Drama Theater",
-                  "text": "Drama theater in Tula Kremlin, housed in a historic building.",
-                  "category": "cultural",
-                  "coords": [
-                        37.609754,
-                        54.188476
-                  ]
-            },
-            {
-                  "name": "The Museum and Exhibition Center \"Tula Antiquites\"",
-                  "text": "A museum in Tula focusing on the ancient history and archaeology of the region.",
-                  "category": "museum",
-                  "coords": [
-                        37.610572,
-                        54.186416
-                  ]
-            },
-            {
-                  "name": "N. I. Beloborodov Memorial Museum",
-                  "text": "A museum dedicated to the inventor of the chromatic accordion, Nikolai Beloborodov.",
-                  "category": "museum",
-                  "coords": [
-                        37.615196,
-                        54.191507
-                  ]
-            },
-            {
-                  "name": "Pryanik Museum",
-                  "text": "The Pryanik Museum – a museum about Tula's famous gingerbread inside the Tula Kremlin.",
-                  "category": "museum",
-                  "coords": [
-                        37.622309,
-                        54.211542
-                  ]
-            },
-            {
                   "name": "Tula Chamber Drama Theater",
                   "text": "The Tula Chamber Drama Theater located within the Tula Kremlin.",
                   "category": "cultural",
                   "coords": [
                         37.626177,
                         54.191998
-                  ]
-            },
-            {
-                  "name": "Trogatel'nyi zoopark",
-                  "text": "A petting zoo near the Tula Kremlin where visitors can interact closely with animals.",
-                  "category": "recreational",
-                  "coords": [
-                        37.596199,
-                        54.179942
-                  ]
-            },
-            {
-                  "name": "Fabrika - Klub virtual'noi real'nosti",
-                  "text": "A virtual reality club in the Tula Kremlin area offering modern entertainment.",
-                  "category": "recreational",
-                  "coords": [
-                        37.599277,
-                        54.175531
-                  ]
-            },
-            {
-                  "name": "Tul'skii ekzotarium (novaia ekspozitsiia)",
-                  "text": "A specialized zoo in Tula focusing on reptiles and exotic animals.",
-                  "category": "recreational",
-                  "coords": [
-                        37.588762,
-                        54.180884
-                  ]
-            },
-            {
-                  "name": "Kharakter",
-                  "text": "An amusement and theme park located in the historic center of Tula.",
-                  "category": "recreational",
-                  "coords": [
-                        37.593657,
-                        54.197341
-                  ]
-            },
-            {
-                  "name": "Otryv",
-                  "text": "A modern theme park in Tula featuring various attractions for children.",
-                  "category": "recreational",
-                  "coords": [
-                        37.602294,
-                        54.197773
                   ]
             }
       ]

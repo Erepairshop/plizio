@@ -1209,15 +1209,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
     id: "israel-jezreel-valley-relief-v2", "sights": {
       "de": [
             {
-                  "name": "students monument",
-                  "text": "Ein Denkmal in der Jesreelebene, das den gefallenen Studenten in den Kriegen Israels gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        35.288513,
-                        32.620851
-                  ]
-            },
-            {
                   "name": "Ein Adashim",
                   "text": "Eine natürliche Quelle im östlichen Teil der Jesreelebene, die von üppiger grüner Vegetation umgeben ist.",
                   "category": "landmark",
@@ -1317,15 +1308,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kikar HaAtzmaut",
-                  "text": "Ein zentraler Stadtpark in Afula, der für seine weitläufigen Rasenflächen und Springbrunnen bekannt ist.",
-                  "category": "park",
-                  "coords": [
-                        35.289178,
-                        32.609353
-                  ]
-            },
-            {
                   "name": "Glich Water Park Afula",
                   "text": "Ein beliebter Familienfreizeitort mit farbenfrohen Wasserrutschen und mehreren Schwimmbecken in Afula.",
                   "category": "recreational",
@@ -1381,15 +1363,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "students monument",
-                  "text": "A Jezréel-völgyben található emlékmű, amelyet Izrael háborúiban elesett diákoknak szenteltek.",
-                  "category": "historical",
-                  "coords": [
-                        35.288513,
-                        32.620851
-                  ]
-            },
             {
                   "name": "Ein Adashim",
                   "text": "Természetes forrás a Jezréel-völgy keleti részén, amelyet dús, zöld növényzet vesz körül.",
@@ -1490,15 +1463,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kikar HaAtzmaut",
-                  "text": "Központi városi park Afulában, amely tágas pázsitjairól és szökőkútjairól ismert.",
-                  "category": "park",
-                  "coords": [
-                        35.289178,
-                        32.609353
-                  ]
-            },
-            {
                   "name": "Glich Water Park Afula",
                   "text": "Népszerű családi szabadidős helyszín Afulában, színes csúszdákkal és több úszómedencével.",
                   "category": "recreational",
@@ -1554,15 +1518,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "students monument",
-                  "text": "Un monument în Valea Izreel dedicat studenților căzuți în războaiele Israelului.",
-                  "category": "historical",
-                  "coords": [
-                        35.288513,
-                        32.620851
-                  ]
-            },
             {
                   "name": "Ein Adashim",
                   "text": "Un izvor natural în partea de est a Văii Izreel, înconjurat de vegetație verde luxuriantă.",
@@ -1663,15 +1618,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kikar HaAtzmaut",
-                  "text": "Un parc urban central în Afula, cunoscut pentru peluzele sale largi și fântânile arteziene.",
-                  "category": "park",
-                  "coords": [
-                        35.289178,
-                        32.609353
-                  ]
-            },
-            {
                   "name": "Glich Water Park Afula",
                   "text": "Un loc popular de agrement pentru familii, cu tobogane colorate și mai multe piscine în Afula.",
                   "category": "recreational",
@@ -1727,15 +1673,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "students monument",
-                  "text": "A monument in the Jezreel Valley dedicated to students who fell in Israel's wars.",
-                  "category": "historical",
-                  "coords": [
-                        35.288513,
-                        32.620851
-                  ]
-            },
             {
                   "name": "Ein Adashim",
                   "text": "A natural spring in the eastern Jezreel Valley surrounded by lush green vegetation.",
@@ -1833,15 +1770,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   "coords": [
                         35.355896,
                         32.54959
-                  ]
-            },
-            {
-                  "name": "Kikar HaAtzmaut",
-                  "text": "A central urban park in Afula known for its large lawns and fountains.",
-                  "category": "park",
-                  "coords": [
-                        35.289178,
-                        32.609353
                   ]
             },
             {
@@ -2826,30 +2754,12 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Old Village of Anata",
-                  "text": "The Old Village of Anata besteht aus historischen Ruinen in der Region israel-mount-scopus-relief-v2.",
-                  "category": "historical",
-                  "coords": [
-                        35.260845,
-                        31.813343
-                  ]
-            },
-            {
                   "name": "Reservoir",
                   "text": "Reservoir ist eine archäologische Stätte in der Region israel-mount-scopus-relief-v2.",
                   "category": "historical",
                   "coords": [
                         35.291772,
                         31.807195
-                  ]
-            },
-            {
-                  "name": "Palestinian Art House",
-                  "text": "Das Palestinian Art House ist ein Kunstzentrum in der Region israel-mount-scopus-relief-v2.",
-                  "category": "cultural",
-                  "coords": [
-                        35.24968,
-                        31.80919
                   ]
             },
             {
@@ -3134,30 +3044,12 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Old Village of Anata",
-                  "text": "A The Old Village of Anata történelmi romokból áll a(z) israel-mount-scopus-relief-v2 régióban.",
-                  "category": "historical",
-                  "coords": [
-                        35.260845,
-                        31.813343
-                  ]
-            },
-            {
                   "name": "Reservoir",
                   "text": "A Reservoir egy régészeti lelőhely a(z) israel-mount-scopus-relief-v2 régióban.",
                   "category": "historical",
                   "coords": [
                         35.291772,
                         31.807195
-                  ]
-            },
-            {
-                  "name": "Palestinian Art House",
-                  "text": "A Palesztin Művészetek Háza egy művészeti központ a(z) israel-mount-scopus-relief-v2 régióban.",
-                  "category": "cultural",
-                  "coords": [
-                        35.24968,
-                        31.80919
                   ]
             },
             {
@@ -3442,30 +3334,12 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Old Village of Anata",
-                  "text": "The Old Village of Anata reprezintă ruine istorice în zona israel-mount-scopus-relief-v2.",
-                  "category": "historical",
-                  "coords": [
-                        35.260845,
-                        31.813343
-                  ]
-            },
-            {
                   "name": "Reservoir",
                   "text": "Reservoir este un sit arheologic situat în zona israel-mount-scopus-relief-v2.",
                   "category": "historical",
                   "coords": [
                         35.291772,
                         31.807195
-                  ]
-            },
-            {
-                  "name": "Palestinian Art House",
-                  "text": "Palestinian Art House este un centru de arte din zona israel-mount-scopus-relief-v2.",
-                  "category": "cultural",
-                  "coords": [
-                        35.24968,
-                        31.80919
                   ]
             },
             {
@@ -3750,30 +3624,12 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Old Village of Anata",
-                  "text": "The Old Village of Anata features historical ruins in the israel-mount-scopus-relief-v2 area.",
-                  "category": "historical",
-                  "coords": [
-                        35.260845,
-                        31.813343
-                  ]
-            },
-            {
                   "name": "Reservoir",
                   "text": "Reservoir is an archaeological site located in the israel-mount-scopus-relief-v2 area.",
                   "category": "historical",
                   "coords": [
                         35.291772,
                         31.807195
-                  ]
-            },
-            {
-                  "name": "Palestinian Art House",
-                  "text": "The Palestinian Art House is an arts centre found in the israel-mount-scopus-relief-v2 area.",
-                  "category": "cultural",
-                  "coords": [
-                        35.24968,
-                        31.80919
                   ]
             },
             {
@@ -5011,15 +4867,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gan Menashe",
-                  "text": "Ein historischer botanischer Garten in Kfar Saba mit einer Sammlung seltener mediterraner Pflanzen.",
-                  "category": "park",
-                  "coords": [
-                        34.898099,
-                        32.195806
-                  ]
-            },
-            {
                   "name": "HaIrisim Park",
                   "text": "Ein Naturschutzgebiet in Netanya, das für seine seltenen, lila blühenden Küsten-Iris bekannt ist.",
                   "category": "park",
@@ -5298,15 +5145,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   "coords": [
                         34.918767,
                         32.251286
-                  ]
-            },
-            {
-                  "name": "Gan Menashe",
-                  "text": "Történelmi botanikus kert Kfar Sabában, ritka mediterrán növények gyűjteményével.",
-                  "category": "park",
-                  "coords": [
-                        34.898099,
-                        32.195806
                   ]
             },
             {
@@ -5591,15 +5429,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gan Menashe",
-                  "text": "O grădină botanică istorică în Kfar Saba, cu o colecție de plante mediteraneene rare.",
-                  "category": "park",
-                  "coords": [
-                        34.898099,
-                        32.195806
-                  ]
-            },
-            {
                   "name": "HaIrisim Park",
                   "text": "O rezervație naturală în Netanya, faimoasă pentru stânjeneii de coastă rari, de culoare mov.",
                   "category": "park",
@@ -5881,15 +5710,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gan Menashe",
-                  "text": "A historic botanical garden in Kfar Saba featuring a collection of rare Mediterranean plants.",
-                  "category": "park",
-                  "coords": [
-                        34.898099,
-                        32.195806
-                  ]
-            },
-            {
                   "name": "HaIrisim Park",
                   "text": "A nature reserve in Netanya famous for its rare, purple-colored coastal irises.",
                   "category": "park",
@@ -6106,15 +5926,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
                         35.252123,
                         32.23006
                   ]
-            },
-            {
-                  "name": "Al-Salam Mosque",
-                  "text": "Eine Moschee im Gebiet des Berges Ebal, deren Name „Friedensmoschee“ bedeutet.",
-                  "category": "landmark",
-                  "coords": [
-                        35.25526,
-                        32.225898
-                  ]
             }
       ],
       "hu": [
@@ -6161,15 +5972,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   "coords": [
                         35.252123,
                         32.23006
-                  ]
-            },
-            {
-                  "name": "Al-Salam Mosque",
-                  "text": "Mecset az Ebál-hegy környékén, amelynek neve azt jelenti: „A béke mecsetje”.",
-                  "category": "landmark",
-                  "coords": [
-                        35.25526,
-                        32.225898
                   ]
             }
       ],
@@ -6218,15 +6020,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
                         35.252123,
                         32.23006
                   ]
-            },
-            {
-                  "name": "Al-Salam Mosque",
-                  "text": "O moschee din zona Muntelui Ebal, numele său însemnând „Moscheea Păcii”.",
-                  "category": "landmark",
-                  "coords": [
-                        35.25526,
-                        32.225898
-                  ]
             }
       ],
       "en": [
@@ -6273,15 +6066,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   "coords": [
                         35.252123,
                         32.23006
-                  ]
-            },
-            {
-                  "name": "Al-Salam Mosque",
-                  "text": "A mosque in the Mount Ebal area, its name meaning \"The Mosque of Peace.\"",
-                  "category": "landmark",
-                  "coords": [
-                        35.25526,
-                        32.225898
                   ]
             }
       ]
@@ -10674,42 +10458,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ronen Aussicht",
-                  "text": "Ein Aussichtspunkt mit direktem Blick auf die Ruinen der verlassenen Stadt Quneitra.",
-                  "category": "natural",
-                  "coords": [
-                        35.80079,
-                        33.108542
-                  ]
-            },
-            {
-                  "name": "Syrian Intelligence HQ",
-                  "text": "Die Ruinen eines massiven Betonbaus, der einst als syrisches Militärhauptquartier diente.",
-                  "category": "historical",
-                  "coords": [
-                        35.810283,
-                        33.1321
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Ein alter, in den Fels gehauener Militärbunker, der Zeugnis von vergangenen Konflikten ablegt.",
-                  "category": "historical",
-                  "coords": [
-                        35.826607,
-                        33.14933
-                  ]
-            },
-            {
-                  "name": "Khirbat el Makhfi",
-                  "text": "Überreste antiker Strukturen auf einem basaltischen Hang, die die lange Siedlungsgeschichte zeigen.",
-                  "category": "historical",
-                  "coords": [
-                        35.812308,
-                        33.148329
-                  ]
-            },
-            {
                   "name": "Tel el Makhfi",
                   "text": "Ein kleiner Vulkanhügel im zentralen Golan, der als markante Erhebung aus der Ebene ragt.",
                   "category": "natural",
@@ -10898,42 +10646,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   "coords": [
                         35.794441,
                         33.108046
-                  ]
-            },
-            {
-                  "name": "Quneitra Ronen",
-                  "text": "Kilátópont, ahonnan közvetlen rálátás nyílik az elhagyatott Kuneitra városának romjaira.",
-                  "category": "natural",
-                  "coords": [
-                        35.80079,
-                        33.108542
-                  ]
-            },
-            {
-                  "name": "Syrian Intelligence HQ",
-                  "text": "Egy masszív betonépület romjai, amely egykor szír katonai parancsnokságként szolgált.",
-                  "category": "historical",
-                  "coords": [
-                        35.810283,
-                        33.1321
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Sziklába vájt régi katonai bunker, amely múltbéli konfliktusokról tanúskodik.",
-                  "category": "historical",
-                  "coords": [
-                        35.826607,
-                        33.14933
-                  ]
-            },
-            {
-                  "name": "Khirbat el Makhfi",
-                  "text": "Bazaltlejtőn fekvő ősi építmények maradványai, amelyek a vidék hosszú lakottságát mutatják.",
-                  "category": "historical",
-                  "coords": [
-                        35.812308,
-                        33.148329
                   ]
             },
             {
@@ -11128,42 +10840,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Quneitra Ronen",
-                  "text": "Un punct de observație cu vedere directă spre ruinele orașului abandonat Quneitra.",
-                  "category": "natural",
-                  "coords": [
-                        35.80079,
-                        33.108542
-                  ]
-            },
-            {
-                  "name": "Syrian Intelligence HQ",
-                  "text": "Ruinele unei clădiri masive de beton care a servit odinioară drept cartier general militar sirian.",
-                  "category": "historical",
-                  "coords": [
-                        35.810283,
-                        33.1321
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Un vechi buncăr militar săpat în stâncă, martor al conflictelor trecute.",
-                  "category": "historical",
-                  "coords": [
-                        35.826607,
-                        33.14933
-                  ]
-            },
-            {
-                  "name": "Khirbat el Makhfi",
-                  "text": "Rămășițe ale unor structuri antice pe un versant bazaltic, evidențiind istoria lungă de locuire.",
-                  "category": "historical",
-                  "coords": [
-                        35.812308,
-                        33.148329
-                  ]
-            },
-            {
                   "name": "Tel el Makhfi",
                   "text": "Un mic deal vulcanic în centrul regiunii Golan, care se ridică ca o proeminență distinctă din câmpie.",
                   "category": "natural",
@@ -11352,42 +11028,6 @@ export const poiExtraIsraelReliefV2: POI[] = [
                   "coords": [
                         35.794441,
                         33.108046
-                  ]
-            },
-            {
-                  "name": "Quneitra Ronen",
-                  "text": "A viewpoint offering a direct overlook of the ruins of the abandoned city of Quneitra.",
-                  "category": "natural",
-                  "coords": [
-                        35.80079,
-                        33.108542
-                  ]
-            },
-            {
-                  "name": "Syrian Intelligence HQ",
-                  "text": "The ruins of a massive concrete building that once served as the Syrian military headquarters.",
-                  "category": "historical",
-                  "coords": [
-                        35.810283,
-                        33.1321
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "An old military bunker carved into the rock, bearing witness to past conflicts.",
-                  "category": "historical",
-                  "coords": [
-                        35.826607,
-                        33.14933
-                  ]
-            },
-            {
-                  "name": "Khirbat el Makhfi",
-                  "text": "Remains of ancient structures on a basaltic slope, showing the area's long history of settlement.",
-                  "category": "historical",
-                  "coords": [
-                        35.812308,
-                        33.148329
                   ]
             },
             {

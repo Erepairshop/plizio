@@ -33,24 +33,6 @@ export const sloveniaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bovški Gamsovec",
-                  "text": "Ein malerischer Berggipfel in den Julischen Alpen, beliebt bei Wanderern.",
-                  "category": "landmark",
-                  "coords": [
-                        13.812669,
-                        46.398217
-                  ]
-            },
-            {
-                  "name": "Stenar",
-                  "text": "Ein Berggipfel in den Julischen Alpen, berühmt für seine beeindruckende Nordwand.",
-                  "category": "landmark",
-                  "coords": [
-                        13.818559,
-                        46.407986
-                  ]
-            },
-            {
                   "name": "Mišelj vrh",
                   "text": "Ein pyramidenförmiger Gipfel in den zentralen Julischen Alpen mit Blick auf den Triglav.",
                   "category": "landmark",
@@ -104,24 +86,6 @@ export const sloveniaNatureV2: POI[] = [
                   "coords": [
                         13.80982,
                         46.360109
-                  ]
-            },
-            {
-                  "name": "Bovški Gamsovec",
-                  "text": "Egy festői hegycsúcs a Júliai-Alpokban, amely népszerű a túrázók körében.",
-                  "category": "landmark",
-                  "coords": [
-                        13.812669,
-                        46.398217
-                  ]
-            },
-            {
-                  "name": "Stenar",
-                  "text": "Hegyi csúcs a Júliai-Alpokban, amely lenyűgöző északi faláról híres.",
-                  "category": "landmark",
-                  "coords": [
-                        13.818559,
-                        46.407986
                   ]
             },
             {
@@ -181,24 +145,6 @@ export const sloveniaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bovški Gamsovec",
-                  "text": "Un vârf muntos pitoresc din Alpii Iulieni, popular printre drumeți.",
-                  "category": "landmark",
-                  "coords": [
-                        13.812669,
-                        46.398217
-                  ]
-            },
-            {
-                  "name": "Stenar",
-                  "text": "Un vârf muntos din Alpii Iulieni, renumit pentru peretele său nordic impresionant.",
-                  "category": "landmark",
-                  "coords": [
-                        13.818559,
-                        46.407986
-                  ]
-            },
-            {
                   "name": "Mišelj vrh",
                   "text": "Un vârf în formă de piramidă din Alpii Iulieni centrali, cu vedere spre Triglav.",
                   "category": "landmark",
@@ -252,24 +198,6 @@ export const sloveniaNatureV2: POI[] = [
                   "coords": [
                         13.80982,
                         46.360109
-                  ]
-            },
-            {
-                  "name": "Bovški Gamsovec",
-                  "text": "A scenic mountain peak in the Julian Alps popular among hikers.",
-                  "category": "landmark",
-                  "coords": [
-                        13.812669,
-                        46.398217
-                  ]
-            },
-            {
-                  "name": "Stenar",
-                  "text": "A mountain peak in the Julian Alps, famous for its impressive north face.",
-                  "category": "landmark",
-                  "coords": [
-                        13.818559,
-                        46.407986
                   ]
             },
             {
@@ -458,15 +386,6 @@ imageHint: "Lake Bled with island church at sunrise",
                   ]
             },
             {
-                  "name": "Kopalno območje Ukanc",
-                  "text": "Ein Naturbadeplatz am Wocheiner See, bekannt für sein klares Wasser und die Bergkulisse.",
-                  "category": "recreational",
-                  "coords": [
-                        13.836691,
-                        46.279757
-                  ]
-            },
-            {
                   "name": "Kopalno območje Fužinski zaliv",
                   "text": "Ein öffentlicher Badebereich in der Bucht von Fužina am malerischen Wocheiner See.",
                   "category": "recreational",
@@ -538,15 +457,6 @@ imageHint: "Lake Bled with island church at sunrise",
                   "coords": [
                         13.888905,
                         46.292766
-                  ]
-            },
-            {
-                  "name": "Kopalno območje Ukanc",
-                  "text": "Természetes fürdőhely a Bohinji-tónál, amely tiszta vizéről és hegyi panorámájáról ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        13.836691,
-                        46.279757
                   ]
             },
             {
@@ -624,15 +534,6 @@ imageHint: "Lake Bled with island church at sunrise",
                   ]
             },
             {
-                  "name": "Kopalno območje Ukanc",
-                  "text": "O zonă naturală de scăldat la Lacul Bohinj, cunoscută pentru apa sa limpede și peisajul montan.",
-                  "category": "recreational",
-                  "coords": [
-                        13.836691,
-                        46.279757
-                  ]
-            },
-            {
                   "name": "Kopalno območje Fužinski zaliv",
                   "text": "O zonă publică de scăldat în Golful Fužina, pe malul pitorescului Lac Bohinj.",
                   "category": "recreational",
@@ -704,15 +605,6 @@ imageHint: "Lake Bled with island church at sunrise",
                   "coords": [
                         13.888905,
                         46.292766
-                  ]
-            },
-            {
-                  "name": "Bathing area Ukanc",
-                  "text": "A natural swimming area at Lake Bohinj, known for its clear water and mountain backdrop.",
-                  "category": "recreational",
-                  "coords": [
-                        13.836691,
-                        46.279757
                   ]
             },
             {
@@ -1859,33 +1751,6 @@ imageHint: "Savica waterfall Julian Alps Slovenia",
     id: "slovenia-vrsic-pass-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Gozdni rezervat Mala Pišnica",
-                  "text": "Ein Waldreservat in der Nähe des Vršič-Passes, das für seine unberührte Natur bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        13.749724,
-                        46.460351
-                  ]
-            },
-            {
-                  "name": "Gozdni rezervat Kukla",
-                  "text": "Ein geschütztes Waldgebiet in den slowenischen Alpen beim Vršič-Pass.",
-                  "category": "natural",
-                  "coords": [
-                        13.760169,
-                        46.403617
-                  ]
-            },
-            {
-                  "name": "Prisank",
-                  "text": "Ein markanter Gipfel in den Julischen Alpen, bekannt für das natürliche 'Felsenfenster'.",
-                  "category": "landmark",
-                  "coords": [
-                        13.769714,
-                        46.4247
-                  ]
-            },
-            {
                   "name": "Vršič",
                   "text": "Ein Berggipfel in den Julischen Alpen, der den gleichnamigen berühmten Gebirgspass überragt.",
                   "category": "landmark",
@@ -1901,15 +1766,6 @@ imageHint: "Savica waterfall Julian Alps Slovenia",
                   "coords": [
                         13.726485,
                         46.446007
-                  ]
-            },
-            {
-                  "name": "Ciprnik",
-                  "text": "Ein Berggipfel oberhalb von Planica, der eine weite Sicht über die Julischen Alpen bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        13.740043,
-                        46.468783
                   ]
             },
             {
@@ -1933,33 +1789,6 @@ imageHint: "Savica waterfall Julian Alps Slovenia",
       ],
       "hu": [
             {
-                  "name": "Gozdni rezervat Mala Pišnica",
-                  "text": "Erdőrezervátum a Vršič-hágó közelében, amely érintetlen természetéről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        13.749724,
-                        46.460351
-                  ]
-            },
-            {
-                  "name": "Gozdni rezervat Kukla",
-                  "text": "Védett erdőterület a szlovén Alpokban, a Vršič-hágó mellett.",
-                  "category": "natural",
-                  "coords": [
-                        13.760169,
-                        46.403617
-                  ]
-            },
-            {
-                  "name": "Prisank",
-                  "text": "A Júliai-Alpok egyik jellegzetes csúcsa, amely a természetes sziklaablakáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        13.769714,
-                        46.4247
-                  ]
-            },
-            {
                   "name": "Vršič",
                   "text": "Hegycsúcs a Júliai-Alpokban, amely a híres azonos nevű hágó fölé magasodik.",
                   "category": "landmark",
@@ -1975,15 +1804,6 @@ imageHint: "Savica waterfall Julian Alps Slovenia",
                   "coords": [
                         13.726485,
                         46.446007
-                  ]
-            },
-            {
-                  "name": "Ciprnik",
-                  "text": "Hegycsúcs Planica felett, amely tágas kilátást nyújt a Júliai-Alpokra.",
-                  "category": "landmark",
-                  "coords": [
-                        13.740043,
-                        46.468783
                   ]
             },
             {
@@ -2007,33 +1827,6 @@ imageHint: "Savica waterfall Julian Alps Slovenia",
       ],
       "ro": [
             {
-                  "name": "Gozdni rezervat Mala Pišnica",
-                  "text": "O rezervație forestieră lângă pasul Vršič, cunoscută pentru natura sa virgină.",
-                  "category": "natural",
-                  "coords": [
-                        13.749724,
-                        46.460351
-                  ]
-            },
-            {
-                  "name": "Gozdni rezervat Kukla",
-                  "text": "O zonă forestieră protejată în Alpii sloveni, lângă pasul Vršič.",
-                  "category": "natural",
-                  "coords": [
-                        13.760169,
-                        46.403617
-                  ]
-            },
-            {
-                  "name": "Prisank",
-                  "text": "Un vârf proeminent în Alpii Iulieni, cunoscut pentru fereastra sa naturală în stâncă.",
-                  "category": "landmark",
-                  "coords": [
-                        13.769714,
-                        46.4247
-                  ]
-            },
-            {
                   "name": "Vršič",
                   "text": "Un vârf montan în Alpii Iulieni, care domină faimoasa trecătoare cu același nume.",
                   "category": "landmark",
@@ -2049,15 +1842,6 @@ imageHint: "Savica waterfall Julian Alps Slovenia",
                   "coords": [
                         13.726485,
                         46.446007
-                  ]
-            },
-            {
-                  "name": "Ciprnik",
-                  "text": "Un vârf montan deasupra localității Planica, oferind o vedere vastă asupra Alpilor Iulieni.",
-                  "category": "landmark",
-                  "coords": [
-                        13.740043,
-                        46.468783
                   ]
             },
             {
@@ -2081,33 +1865,6 @@ imageHint: "Savica waterfall Julian Alps Slovenia",
       ],
       "en": [
             {
-                  "name": "Gozdni rezervat Mala Pišnica",
-                  "text": "A forest reserve near the Vršič Pass, known for its pristine nature.",
-                  "category": "natural",
-                  "coords": [
-                        13.749724,
-                        46.460351
-                  ]
-            },
-            {
-                  "name": "Gozdni rezervat Kukla",
-                  "text": "A protected forest area in the Slovenian Alps near the Vršič Pass.",
-                  "category": "natural",
-                  "coords": [
-                        13.760169,
-                        46.403617
-                  ]
-            },
-            {
-                  "name": "Prisojnik",
-                  "text": "A prominent peak in the Julian Alps, known for its natural rock window.",
-                  "category": "landmark",
-                  "coords": [
-                        13.769714,
-                        46.4247
-                  ]
-            },
-            {
                   "name": "Vršič",
                   "text": "A mountain peak in the Julian Alps overlooking the famous mountain pass of the same name.",
                   "category": "landmark",
@@ -2123,15 +1880,6 @@ imageHint: "Savica waterfall Julian Alps Slovenia",
                   "coords": [
                         13.726485,
                         46.446007
-                  ]
-            },
-            {
-                  "name": "Ciprnik",
-                  "text": "A mountain peak above Planica, offering a broad view over the Julian Alps.",
-                  "category": "landmark",
-                  "coords": [
-                        13.740043,
-                        46.468783
                   ]
             },
             {
@@ -2211,15 +1959,6 @@ imageHint: "Vrsic pass mountain road Julian Alps",
                   ]
             },
             {
-                  "name": "Lučki Dedec",
-                  "text": "Ein markanter Berggipfel in den Steiner Alpen über dem Logartal.",
-                  "category": "landmark",
-                  "coords": [
-                        14.637776,
-                        46.352396
-                  ]
-            },
-            {
                   "name": "Veliki vrh (Veža)",
                   "text": "Über 2000 m hoher Gipfel oberhalb des Logar-Tals mit Aussicht auf die Kamnik-Savinja-Alpen.",
                   "category": "landmark",
@@ -2282,15 +2021,6 @@ imageHint: "Vrsic pass mountain road Julian Alps",
                   "coords": [
                         14.634304,
                         46.382293
-                  ]
-            },
-            {
-                  "name": "Lučki Dedec",
-                  "text": "Egy hegycsúcs a Logar-völgy felett a Kamniki-Alpokban.",
-                  "category": "landmark",
-                  "coords": [
-                        14.637776,
-                        46.352396
                   ]
             },
             {
@@ -2359,15 +2089,6 @@ imageHint: "Vrsic pass mountain road Julian Alps",
                   ]
             },
             {
-                  "name": "Lučki Dedec",
-                  "text": "Un vârf montan situat deasupra văii Logar în Alpii Kamnik-Savinja.",
-                  "category": "landmark",
-                  "coords": [
-                        14.637776,
-                        46.352396
-                  ]
-            },
-            {
                   "name": "Veliki vrh (Veža)",
                   "text": "Vârf de peste 2000 m deasupra văii Logar, cu vedere spre Alpii Kamnik-Savinja.",
                   "category": "landmark",
@@ -2430,15 +2151,6 @@ imageHint: "Vrsic pass mountain road Julian Alps",
                   "coords": [
                         14.634304,
                         46.382293
-                  ]
-            },
-            {
-                  "name": "Lučki Dedec",
-                  "text": "A mountain peak in the Kamnik–Savinja Alps overlooking the Logar Valley.",
-                  "category": "landmark",
-                  "coords": [
-                        14.637776,
-                        46.352396
                   ]
             },
             {
@@ -3102,24 +2814,6 @@ imageHint: "Skofja Loka hills Blegos mountain Slovenia",
     id: "slovenia-kamnik-alps-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Turska gora",
-                  "text": "2251 m hoher Gipfel in den Kamnik-Alpen mit charakteristischer Form.",
-                  "category": "landmark",
-                  "coords": [
-                        14.577207,
-                        46.360296
-                  ]
-            },
-            {
-                  "name": "Brana",
-                  "text": "Ein markanter Berg in den Steiner Alpen, bekannt für seine weite Aussicht.",
-                  "category": "landmark",
-                  "coords": [
-                        14.58755,
-                        46.354886
-                  ]
-            },
-            {
                   "name": "Velika Baba",
                   "text": "Ein Gipfel an der Grenze zwischen Slowenien und Österreich in den Steiner Alpen.",
                   "category": "landmark",
@@ -3135,15 +2829,6 @@ imageHint: "Skofja Loka hills Blegos mountain Slovenia",
                   "coords": [
                         14.545802,
                         46.363187
-                  ]
-            },
-            {
-                  "name": "Koroška Rinka",
-                  "text": "Einer der Rinka-Gipfel in den Steiner Alpen, auch bekannt als Križ.",
-                  "category": "landmark",
-                  "coords": [
-                        14.565127,
-                        46.367725
                   ]
             },
             {
@@ -3176,24 +2861,6 @@ imageHint: "Skofja Loka hills Blegos mountain Slovenia",
       ],
       "hu": [
             {
-                  "name": "Turska gora",
-                  "text": "2251 m magas csúcs a Kamnik-Alpokban, jellegzetes alakkal.",
-                  "category": "landmark",
-                  "coords": [
-                        14.577207,
-                        46.360296
-                  ]
-            },
-            {
-                  "name": "Brana",
-                  "text": "Jellegzetes hegy a Kamniki-Alpokban, amely széles panorámájáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        14.58755,
-                        46.354886
-                  ]
-            },
-            {
                   "name": "Velika Baba",
                   "text": "Egy hegycsúcs a szlovén-osztrák határon, a Kamniki-Alpokban.",
                   "category": "landmark",
@@ -3209,15 +2876,6 @@ imageHint: "Skofja Loka hills Blegos mountain Slovenia",
                   "coords": [
                         14.545802,
                         46.363187
-                  ]
-            },
-            {
-                  "name": "Koroška Rinka",
-                  "text": "A Rinka-csúcsok egyike a Kamniki-Alpokban, más néven Križ.",
-                  "category": "landmark",
-                  "coords": [
-                        14.565127,
-                        46.367725
                   ]
             },
             {
@@ -3250,24 +2908,6 @@ imageHint: "Skofja Loka hills Blegos mountain Slovenia",
       ],
       "ro": [
             {
-                  "name": "Turska gora",
-                  "text": "Vârf de 2251 m în Alpii Kamnik, cu o formă distinctivă.",
-                  "category": "landmark",
-                  "coords": [
-                        14.577207,
-                        46.360296
-                  ]
-            },
-            {
-                  "name": "Brana",
-                  "text": "Un munte proeminent în Alpii Kamnik, cunoscut pentru priveliștile sale largi.",
-                  "category": "landmark",
-                  "coords": [
-                        14.58755,
-                        46.354886
-                  ]
-            },
-            {
                   "name": "Velika Baba",
                   "text": "Un vârf aflat la granița dintre Slovenia și Austria, în Alpii Kamnik.",
                   "category": "landmark",
@@ -3283,15 +2923,6 @@ imageHint: "Skofja Loka hills Blegos mountain Slovenia",
                   "coords": [
                         14.545802,
                         46.363187
-                  ]
-            },
-            {
-                  "name": "Koroška Rinka",
-                  "text": "Unul dintre vârfurile Rinka din Alpii Kamnik, cunoscut și sub numele de Križ.",
-                  "category": "landmark",
-                  "coords": [
-                        14.565127,
-                        46.367725
                   ]
             },
             {
@@ -3324,24 +2955,6 @@ imageHint: "Skofja Loka hills Blegos mountain Slovenia",
       ],
       "en": [
             {
-                  "name": "Turska gora",
-                  "text": "2251 m high peak in the Kamnik Alps with a distinctive shape.",
-                  "category": "landmark",
-                  "coords": [
-                        14.577207,
-                        46.360296
-                  ]
-            },
-            {
-                  "name": "Brana",
-                  "text": "A prominent mountain in the Kamnik Alps, known for its wide panoramic views.",
-                  "category": "landmark",
-                  "coords": [
-                        14.58755,
-                        46.354886
-                  ]
-            },
-            {
                   "name": "Velika Baba",
                   "text": "A peak on the border between Slovenia and Austria in the Kamnik Alps.",
                   "category": "landmark",
@@ -3357,15 +2970,6 @@ imageHint: "Skofja Loka hills Blegos mountain Slovenia",
                   "coords": [
                         14.545802,
                         46.363187
-                  ]
-            },
-            {
-                  "name": "Koroška Rinka",
-                  "text": "One of the Rinka peaks in the Kamnik Alps, also known as Križ.",
-                  "category": "landmark",
-                  "coords": [
-                        14.565127,
-                        46.367725
                   ]
             },
             {
@@ -4033,15 +3637,6 @@ imageHint: "Kolpa river Slovenia Croatia border",
                   ]
             },
             {
-                  "name": "Kukova špica",
-                  "text": "Ein Gipfel nahe dem Peričnik-Wasserfall.",
-                  "category": "landmark",
-                  "coords": [
-                        13.854809,
-                        46.447531
-                  ]
-            },
-            {
                   "name": "Škrnatarica",
                   "text": "Ein Berg in den Julischen Alpen nahe dem Peričnik-Wasserfall.",
                   "category": "landmark",
@@ -4104,15 +3699,6 @@ imageHint: "Kolpa river Slovenia Croatia border",
                   "coords": [
                         13.906835,
                         46.403625
-                  ]
-            },
-            {
-                  "name": "Kukova špica",
-                  "text": "Egy csúcs a Peričnik-vízesés közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        13.854809,
-                        46.447531
                   ]
             },
             {
@@ -4181,15 +3767,6 @@ imageHint: "Kolpa river Slovenia Croatia border",
                   ]
             },
             {
-                  "name": "Kukova špica",
-                  "text": "Un vârf lângă cascada Peričnik.",
-                  "category": "landmark",
-                  "coords": [
-                        13.854809,
-                        46.447531
-                  ]
-            },
-            {
                   "name": "Škrnatarica",
                   "text": "Un munte în Alpii Iulieni lângă cascada Peričnik.",
                   "category": "landmark",
@@ -4252,15 +3829,6 @@ imageHint: "Kolpa river Slovenia Croatia border",
                   "coords": [
                         13.906835,
                         46.403625
-                  ]
-            },
-            {
-                  "name": "Kukova špica",
-                  "text": "A peak near the Peričnik waterfall.",
-                  "category": "landmark",
-                  "coords": [
-                        13.854809,
-                        46.447531
                   ]
             },
             {
@@ -4367,24 +3935,6 @@ imageHint: "Pericnik waterfall behind the water curtain",
                   ]
             },
             {
-                  "name": "Gozdni rezervat Mala Pišnica",
-                  "text": "Ein geschütztes Waldreservat im Mala-Pišnica-Tal, das alte Bäume und Gebirgsökosysteme bewahrt.",
-                  "category": "natural",
-                  "coords": [
-                        13.749724,
-                        46.460351
-                  ]
-            },
-            {
-                  "name": "Špik",
-                  "text": "Ein markanter Berggipfel in den Julischen Alpen, bekannt für seine charakteristische spitze Form.",
-                  "category": "landmark",
-                  "coords": [
-                        13.814347,
-                        46.448813
-                  ]
-            },
-            {
                   "name": "Ciprnik",
                   "text": "Ein Berggipfel in den Julischen Alpen, der einen Panoramablick auf die umliegenden Täler und Gebirgsketten bietet.",
                   "category": "landmark",
@@ -4438,24 +3988,6 @@ imageHint: "Pericnik waterfall behind the water curtain",
                   "coords": [
                         13.832788,
                         46.478877
-                  ]
-            },
-            {
-                  "name": "Gozdni rezervat Mala Pišnica",
-                  "text": "Védett erdőrezervátum a Mala Pišnica-völgyben, amely ősi fákat és hegyi ökoszisztémákat őriz.",
-                  "category": "natural",
-                  "coords": [
-                        13.749724,
-                        46.460351
-                  ]
-            },
-            {
-                  "name": "Špik",
-                  "text": "A Júliai-Alpok egyik kiemelkedő hegycsúcsa, amely jellegzetes hegyes alakjáról és festői kilátásáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        13.814347,
-                        46.448813
                   ]
             },
             {
@@ -4515,24 +4047,6 @@ imageHint: "Pericnik waterfall behind the water curtain",
                   ]
             },
             {
-                  "name": "Gozdni rezervat Mala Pišnica",
-                  "text": "O rezervație forestieră protejată în valea Mala Pišnica, care conservă arbori antici și ecosisteme montane.",
-                  "category": "natural",
-                  "coords": [
-                        13.749724,
-                        46.460351
-                  ]
-            },
-            {
-                  "name": "Špik",
-                  "text": "Un vârf muntos proeminent din Alpii Iulieni, cunoscut pentru forma sa ascuțită distinctivă.",
-                  "category": "landmark",
-                  "coords": [
-                        13.814347,
-                        46.448813
-                  ]
-            },
-            {
                   "name": "Ciprnik",
                   "text": "Un vârf muntos din Alpii Iulieni care oferă vederi panoramice asupra văilor și lanțurilor muntoase din jur.",
                   "category": "landmark",
@@ -4586,24 +4100,6 @@ imageHint: "Pericnik waterfall behind the water curtain",
                   "coords": [
                         13.832788,
                         46.478877
-                  ]
-            },
-            {
-                  "name": "Gozdni rezervat Mala Pišnica",
-                  "text": "A protected forest reserve in the Mala Pišnica valley, preserving ancient trees and mountain ecosystems.",
-                  "category": "natural",
-                  "coords": [
-                        13.749724,
-                        46.460351
-                  ]
-            },
-            {
-                  "name": "Špik",
-                  "text": "A prominent mountain peak in the Julian Alps known for its distinctive pointed shape and scenic views.",
-                  "category": "landmark",
-                  "coords": [
-                        13.814347,
-                        46.448813
                   ]
             },
             {
@@ -4683,57 +4179,12 @@ imageHint: "Lake Jasna Kranjska Gora goldhorn statue",
     id: "slovenia-kozjak-waterfall-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Kobarider Museum",
-                  "text": "Ein preisgekröntes Museum in Kobarid, das die Ereignisse an der Isonzo-Front während des Ersten Weltkriegs dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        13.580988,
-                        46.246533
-                  ]
-            },
-            {
                   "name": "Tonovcov grad",
                   "text": "Eine archäologische Ausgrabungsstätte bei Kobarid mit Überresten einer spätrömischen Siedlung und frühchristlichen Kirchen.",
                   "category": "historical",
                   "coords": [
                         13.580481,
                         46.257539
-                  ]
-            },
-            {
-                  "name": "Muzej Sirarstva",
-                  "text": "Ein Museum, das die lange Tradition der alpinen Käseherstellung in der Region Kobarid zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        13.584976,
-                        46.245545
-                  ]
-            },
-            {
-                  "name": "Kobarid Beach",
-                  "text": "Ein beliebter Badeplatz am Ufer des smaragdgrünen Flusses Soča bei Kobarid.",
-                  "category": "recreational",
-                  "coords": [
-                        13.586991,
-                        46.247321
-                  ]
-            },
-            {
-                  "name": "Muzejska zbirka Kobarid v veliki vojni 1917",
-                  "text": "Eine spezialisierte Museumssammlung, die sich auf die Militärgeschichte und die Schlachten um Kobarid im Jahr 1917 konzentriert.",
-                  "category": "museum",
-                  "coords": [
-                        13.583186,
-                        46.247685
-                  ]
-            },
-            {
-                  "name": "Kulturni Dom Kobarid",
-                  "text": "Das Kulturzentrum von Kobarid, in dem Theaterstücke, Kinovorführungen und Gemeinschaftsveranstaltungen stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        13.577064,
-                        46.247534
                   ]
             },
             {
@@ -4748,57 +4199,12 @@ imageHint: "Lake Jasna Kranjska Gora goldhorn statue",
       ],
       "hu": [
             {
-                  "name": "Kobariški muzej",
-                  "text": "Díjnyertes múzeum Kobaridban, amely az első világháborús isonzói front eseményeit dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        13.580988,
-                        46.246533
-                  ]
-            },
-            {
                   "name": "Tonovcov grad",
                   "text": "Régészeti lelőhely Kobarid közelében, egy késő római település és kora keresztény templomok maradványaival.",
                   "category": "historical",
                   "coords": [
                         13.580481,
                         46.257539
-                  ]
-            },
-            {
-                  "name": "Muzej Sirarstva",
-                  "text": "Az alpesi sajtkészítés hosszú hagyományait bemutató múzeum Kobarid régiójában.",
-                  "category": "museum",
-                  "coords": [
-                        13.584976,
-                        46.245545
-                  ]
-            },
-            {
-                  "name": "Kobarid Beach",
-                  "text": "Népszerű folyóparti fürdőhely a smaragdzöld Soča-folyónál, Kobarid közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        13.586991,
-                        46.247321
-                  ]
-            },
-            {
-                  "name": "Muzejska zbirka Kobarid v veliki vojni 1917",
-                  "text": "Speciális múzeumi gyűjtemény, amely a Kobarid környéki hadtörténetre és az 1917-es csatákra összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        13.583186,
-                        46.247685
-                  ]
-            },
-            {
-                  "name": "Kulturni Dom Kobarid",
-                  "text": "Kobarid kulturális központja, amely színházi előadásoknak, mozivetítéseknek és közösségi eseményeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        13.577064,
-                        46.247534
                   ]
             },
             {
@@ -4813,57 +4219,12 @@ imageHint: "Lake Jasna Kranjska Gora goldhorn statue",
       ],
       "ro": [
             {
-                  "name": "Kobariški muzej",
-                  "text": "Un muzeu premiat din Kobarid care documentează evenimentele de pe frontul de la Isonzo din timpul Primului Război Mondial.",
-                  "category": "museum",
-                  "coords": [
-                        13.580988,
-                        46.246533
-                  ]
-            },
-            {
                   "name": "Tonovcov grad",
                   "text": "Un sit arheologic lângă Kobarid care cuprinde vestigii ale unei așezări romane târzii și biserici creștine timpurii.",
                   "category": "historical",
                   "coords": [
                         13.580481,
                         46.257539
-                  ]
-            },
-            {
-                  "name": "Muzej Sirarstva",
-                  "text": "Un muzeu care prezintă lunga tradiție a fabricării brânzeturilor alpine din regiunea Kobarid.",
-                  "category": "museum",
-                  "coords": [
-                        13.584976,
-                        46.245545
-                  ]
-            },
-            {
-                  "name": "Kobarid Beach",
-                  "text": "Un loc popular de scăldat pe malul râului smarald Soča, lângă Kobarid.",
-                  "category": "recreational",
-                  "coords": [
-                        13.586991,
-                        46.247321
-                  ]
-            },
-            {
-                  "name": "Muzejska zbirka Kobarid v veliki vojni 1917",
-                  "text": "O colecție muzeală specializată, axată pe istoria militară și bătăliile din jurul localității Kobarid în 1917.",
-                  "category": "museum",
-                  "coords": [
-                        13.583186,
-                        46.247685
-                  ]
-            },
-            {
-                  "name": "Kulturni Dom Kobarid",
-                  "text": "Centrul cultural din Kobarid, care găzduiește piese de teatru, proiecții de film și evenimente comunitare.",
-                  "category": "cultural",
-                  "coords": [
-                        13.577064,
-                        46.247534
                   ]
             },
             {
@@ -4878,57 +4239,12 @@ imageHint: "Lake Jasna Kranjska Gora goldhorn statue",
       ],
       "en": [
             {
-                  "name": "Kobariški Museum",
-                  "text": "An award-winning museum in Kobarid documenting the events of the Isonzo Front during World War I.",
-                  "category": "museum",
-                  "coords": [
-                        13.580988,
-                        46.246533
-                  ]
-            },
-            {
                   "name": "Tonovcov grad",
                   "text": "An archaeological site near Kobarid featuring remains of a late Roman settlement and early Christian churches.",
                   "category": "historical",
                   "coords": [
                         13.580481,
                         46.257539
-                  ]
-            },
-            {
-                  "name": "Museum of Cheesemaking",
-                  "text": "A museum showcasing the long tradition of alpine cheesemaking in the Kobarid region.",
-                  "category": "museum",
-                  "coords": [
-                        13.584976,
-                        46.245545
-                  ]
-            },
-            {
-                  "name": "Kobarid Beach",
-                  "text": "A popular riverside swimming spot on the emerald Soča River near Kobarid.",
-                  "category": "recreational",
-                  "coords": [
-                        13.586991,
-                        46.247321
-                  ]
-            },
-            {
-                  "name": "Museum Collection Kobarid in the Great War 1917",
-                  "text": "A specialized museum collection focusing on the military history and battles around Kobarid in 1917.",
-                  "category": "museum",
-                  "coords": [
-                        13.583186,
-                        46.247685
-                  ]
-            },
-            {
-                  "name": "Kulturni Dom Kobarid",
-                  "text": "The cultural center of Kobarid, hosting theatrical plays, cinema screenings, and community events.",
-                  "category": "cultural",
-                  "coords": [
-                        13.577064,
-                        46.247534
                   ]
             },
             {

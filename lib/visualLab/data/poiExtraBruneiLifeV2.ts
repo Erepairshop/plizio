@@ -1220,15 +1220,6 @@ export const poiExtraBruneiLifeV2: POI[] = [
     id: "lumapas-agricultural-station-life-v2", "sights": {
       "de": [
             {
-                  "name": "Proboscis Monkey Sighting",
-                  "text": "Diese Beobachtungsstelle in der Nähe der Lumapas Agricultural Station bietet Chancen, die endemischen Nasenaffen in den Mangrovenbäumen zu sehen.",
-                  "category": "landmark",
-                  "coords": [
-                        114.890271,
-                        4.848008
-                  ]
-            },
-            {
                   "name": "Masjid Al-kurnia",
                   "text": "Die Masjid Al-kurnia ist eine lokale muslimische Moschee inmitten der ländlichen Umgebung von Lumapas.",
                   "category": "landmark",
@@ -1266,15 +1257,6 @@ export const poiExtraBruneiLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Proboscis Monkey Sighting",
-                  "text": "Ez a Lumapas Agricultural Station közelében lévő megfigyelőhely esélyt kínál a mangrovefákon élő endemikus ormányos majmok megpillantására.",
-                  "category": "landmark",
-                  "coords": [
-                        114.890271,
-                        4.848008
-                  ]
-            },
             {
                   "name": "Masjid Al-kurnia",
                   "text": "A Masjid Al-kurnia egy helyi muszlim mecset Lumapas vidéki környezetében.",
@@ -1314,15 +1296,6 @@ export const poiExtraBruneiLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Proboscis Monkey Sighting",
-                  "text": "Acest loc de observație de lângă Stațiunea Agricolă Lumapas oferă șanse de a vedea maimuțele nasoase endemice în copacii de mangrove.",
-                  "category": "landmark",
-                  "coords": [
-                        114.890271,
-                        4.848008
-                  ]
-            },
-            {
                   "name": "Masjid Al-kurnia",
                   "text": "Masjid Al-kurnia este o moschee musulmană locală situată în peisajul rural din Lumapas.",
                   "category": "landmark",
@@ -1360,15 +1333,6 @@ export const poiExtraBruneiLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Proboscis Monkey Sighting",
-                  "text": "This spotting location near the Lumapas Agricultural Station offers chances to see endemic proboscis monkeys in the mangrove trees.",
-                  "category": "landmark",
-                  "coords": [
-                        114.890271,
-                        4.848008
-                  ]
-            },
             {
                   "name": "Masjid Al-kurnia",
                   "text": "Masjid Al-kurnia is a local Muslim mosque set amid the rural landscape of Lumapas.",

@@ -3102,15 +3102,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
     id: "br-sugarloaf-mountain-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Museu do Ingá",
-                  "text": "Dieses Museum befindet sich in einem eleganten neoklassizistischen Palast in Niterói und zeigt umfangreiche Sammlungen zur politischen Geschichte und Kunst des Bundesstaates.",
-                  "category": "museum",
-                  "coords": [
-                        -43.125394,
-                        -22.903601
-                  ]
-            },
-            {
                   "name": "Forte Tamandaré da Lage",
                   "text": "Diese historische Marinefestung, die auf einer kleinen Felseninsel in der Guanabara-Bucht erbaut wurde, bewachte einst streng den maritimen Zugang zu Rio.",
                   "category": "castle",
@@ -3138,15 +3129,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu de Arte Contemporânea",
-                  "text": "Dieses vom visionären Architekten Oscar Niemeyer entworfene, futuristische, untertassenförmige Museum auf einer Klippe ist eine weltweite Architekturikone.",
-                  "category": "museum",
-                  "coords": [
-                        -43.125869,
-                        -22.907933
-                  ]
-            },
-            {
                   "name": "Farol da Fortaleza de Santa Cruz",
                   "text": "Dieser historische Leuchtturm zur Navigation ist nahtlos in die robusten Steinmauern einer großen Kolonialfestung aus dem 16. Jahrhundert integriert.",
                   "category": "landmark",
@@ -3162,15 +3144,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
                   "coords": [
                         -43.156157,
                         -22.949489
-                  ]
-            },
-            {
-                  "name": "G.R.E.S. Acadêmicos do Cubango",
-                  "text": "Diese lebendige lokale Sambaschule ist ein leidenschaftlicher Eckpfeiler von Niteróis reichen Karnevalstraditionen und der energiegeladenen Rhythmuskultur.",
-                  "category": "landmark",
-                  "coords": [
-                        -43.095535,
-                        -22.889758
                   ]
             },
             {
@@ -3318,15 +3291,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro Cultural Pascoal Carlos Magno",
-                  "text": "Umgeben von Küstengrün beherbergt dieses Kulturzentrum lokale Kunstausstellungen und Gemeindeveranstaltungen.",
-                  "category": "museum",
-                  "coords": [
-                        -43.107435,
-                        -22.902954
-                  ]
-            },
-            {
                   "name": "Cópia Pequena do Cristo Redentor do Rio de Janeiro",
                   "text": "Diese verkleinerte Nachbildung der ikonischen Christus-Erlöser-Statue bietet die Möglichkeit, das Art-déco-Design aus der Nähe zu betrachten.",
                   "category": "historical",
@@ -3410,15 +3374,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Museu do Ingá",
-                  "text": "A Niteróiban található elegáns neoklasszikus palotában helyet kapó múzeum az állam politikai történetével és művészetével kapcsolatos hatalmas gyűjteményeket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -43.125394,
-                        -22.903601
-                  ]
-            },
-            {
                   "name": "Forte Tamandaré da Lage",
                   "text": "A Guanabara-öböl egy kis, sziklás szigetén épült történelmi haditengerészeti erőd egykor szigorúan őrizte a Rio felé vezető tengeri bejáratot.",
                   "category": "castle",
@@ -3446,15 +3401,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu de Arte Contemporânea",
-                  "text": "A látnok építész, Oscar Niemeyer által tervezett futurisztikus, csészealj alakú, szikla szélén egyensúlyozó múzeum egy globális építészeti ikon.",
-                  "category": "museum",
-                  "coords": [
-                        -43.125869,
-                        -22.907933
-                  ]
-            },
-            {
                   "name": "Farol da Fortaleza de Santa Cruz",
                   "text": "Ez a történelmi navigációs világítótorony zökkenőmentesen illeszkedik egy nagy 16. századi gyarmati erőd robusztus kőfalaiba.",
                   "category": "landmark",
@@ -3470,15 +3416,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
                   "coords": [
                         -43.156157,
                         -22.949489
-                  ]
-            },
-            {
-                  "name": "G.R.E.S. Acadêmicos do Cubango",
-                  "text": "Ez a vibráló helyi szambaiskola Niterói gazdag karneváli hagyományainak és energikus ritmuskultúrájának szenvedélyes alapköve.",
-                  "category": "landmark",
-                  "coords": [
-                        -43.095535,
-                        -22.889758
                   ]
             },
             {
@@ -3626,15 +3563,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro Cultural Pascoal Carlos Magno",
-                  "text": "A tengerparti növényzettel körülvett kulturális központ helyi művészeti kiállításoknak és közösségi eseményeknek ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        -43.107435,
-                        -22.902954
-                  ]
-            },
-            {
                   "name": "Cópia Pequena do Cristo Redentor do Rio de Janeiro",
                   "text": "Az ikonikus Megváltó Krisztus szobor ezen kicsinyített másolata lehetővé teszi az art deco dizájn közelebbi megcsodálását.",
                   "category": "historical",
@@ -3718,15 +3646,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Museu do Ingá",
-                  "text": "Găzduit într-un palat neoclasic elegant din Niterói, acest muzeu expune colecții vaste legate de istoria politică și artele statului.",
-                  "category": "museum",
-                  "coords": [
-                        -43.125394,
-                        -22.903601
-                  ]
-            },
-            {
                   "name": "Forte Tamandaré da Lage",
                   "text": "Construit pe o mică insulă stâncoasă din Golful Guanabara, acest fort naval istoric a păzit odată cu strășnicie intrarea maritimă către Rio.",
                   "category": "castle",
@@ -3754,15 +3673,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu de Arte Contemporânea",
-                  "text": "Proiectat de arhitectul vizionar Oscar Niemeyer, acest muzeu futurist, în formă de farfurie, așezat grațios pe marginea unei stânci, este o icoană arhitecturală globală.",
-                  "category": "museum",
-                  "coords": [
-                        -43.125869,
-                        -22.907933
-                  ]
-            },
-            {
                   "name": "Farol da Fortaleza de Santa Cruz",
                   "text": "Acest far istoric de navigație este integrat perfect în pereții robuști de piatră ai unei importante fortărețe coloniale din secolul al XVI-lea.",
                   "category": "landmark",
@@ -3778,15 +3688,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
                   "coords": [
                         -43.156157,
                         -22.949489
-                  ]
-            },
-            {
-                  "name": "G.R.E.S. Acadêmicos do Cubango",
-                  "text": "Această școală de samba locală vibrantă este o piatră de temelie pasională a bogatelor tradiții de carnaval și a culturii ritmice energice din Niterói.",
-                  "category": "landmark",
-                  "coords": [
-                        -43.095535,
-                        -22.889758
                   ]
             },
             {
@@ -3934,15 +3835,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro Cultural Pascoal Carlos Magno",
-                  "text": "Înconjurat de verdeață de coastă, acest centru cultural găzduiește expoziții de artă locală și evenimente comunitare.",
-                  "category": "museum",
-                  "coords": [
-                        -43.107435,
-                        -22.902954
-                  ]
-            },
-            {
                   "name": "Cópia Pequena do Cristo Redentor do Rio de Janeiro",
                   "text": "Această replică la scară redusă a emblematicei statui Hristos Mântuitorul oferă o apreciere îndeaproape a designului său Art Deco.",
                   "category": "historical",
@@ -4026,15 +3918,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Museu do Ingá",
-                  "text": "Set in an elegant Neoclassical palace in Niterói, this museum displays vast collections related to the state's political history and arts.",
-                  "category": "museum",
-                  "coords": [
-                        -43.125394,
-                        -22.903601
-                  ]
-            },
-            {
                   "name": "Forte Tamandaré da Lage",
                   "text": "Constructed on a small, rocky islet in Guanabara Bay, this historic naval fort once heavily guarded the maritime entrance to Rio.",
                   "category": "castle",
@@ -4062,15 +3945,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Niterói Contemporary Art Museum",
-                  "text": "Designed by visionary architect Oscar Niemeyer, this futuristic, saucer-shaped museum perched gracefully on a cliff edge is a global architectural icon.",
-                  "category": "museum",
-                  "coords": [
-                        -43.125869,
-                        -22.907933
-                  ]
-            },
-            {
                   "name": "Farol da Fortaleza de Santa Cruz",
                   "text": "This historic navigational lighthouse is seamlessly integrated into the robust stone walls of a major 16th-century colonial fortress.",
                   "category": "landmark",
@@ -4086,15 +3960,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
                   "coords": [
                         -43.156157,
                         -22.949489
-                  ]
-            },
-            {
-                  "name": "G.R.E.S. Acadêmicos do Cubango",
-                  "text": "This vibrant local samba school is a passionate cornerstone of Niterói's rich carnival traditions and energetic rhythmic culture.",
-                  "category": "landmark",
-                  "coords": [
-                        -43.095535,
-                        -22.889758
                   ]
             },
             {
@@ -4239,15 +4104,6 @@ export const poiExtraBrazilNatureV2: POI[] = [
                   "coords": [
                         -43.151492,
                         -22.94061
-                  ]
-            },
-            {
-                  "name": "Centro Cultural Pascoal Carlos Magno",
-                  "text": "Surrounded by coastal greenery, this cultural center hosts local art exhibitions and community events.",
-                  "category": "museum",
-                  "coords": [
-                        -43.107435,
-                        -22.902954
                   ]
             },
             {

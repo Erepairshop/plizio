@@ -950,15 +950,6 @@ imageHint: "Historical entrance to a mercury mine in Idrija",
                   ]
             },
             {
-                  "name": "Spomenik 47 padlim",
-                  "text": "Ein Denkmal für 47 Gefallene in der Nähe des Partisanenhospitals.",
-                  "category": "historical",
-                  "coords": [
-                        13.989898,
-                        46.130699
-                  ]
-            },
-            {
                   "name": "Vrh Plazi",
                   "text": "Ein Aussichtspunkt mit Blick auf die umliegende Berglandschaft.",
                   "category": "natural",
@@ -994,15 +985,6 @@ imageHint: "Historical entrance to a mercury mine in Idrija",
                   "coords": [
                         14.028216,
                         46.154034
-                  ]
-            },
-            {
-                  "name": "Spomenik 47 padlim",
-                  "text": "Emlékmű a kórház közelében elesett 47 katona tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        13.989898,
-                        46.130699
                   ]
             },
             {
@@ -1044,15 +1026,6 @@ imageHint: "Historical entrance to a mercury mine in Idrija",
                   ]
             },
             {
-                  "name": "Spomenik 47 padlim",
-                  "text": "Un monument dedicat celor 47 de căzuți în apropierea spitalului de partizani.",
-                  "category": "historical",
-                  "coords": [
-                        13.989898,
-                        46.130699
-                  ]
-            },
-            {
                   "name": "Vrh Plazi",
                   "text": "Un punct de belvedere cu vedere asupra peisajului montan înconjurător.",
                   "category": "natural",
@@ -1088,15 +1061,6 @@ imageHint: "Historical entrance to a mercury mine in Idrija",
                   "coords": [
                         14.028216,
                         46.154034
-                  ]
-            },
-            {
-                  "name": "Spomenik 47 padlim",
-                  "text": "A monument dedicated to 47 fallen soldiers near the partisan hospital.",
-                  "category": "historical",
-                  "coords": [
-                        13.989898,
-                        46.130699
                   ]
             },
             {
@@ -1185,15 +1149,6 @@ imageHint: "Wooden barracks of a secret hospital in a rocky gorge",
                   ]
             },
             {
-                  "name": "Tonovcov grad",
-                  "text": "Eine bedeutende spätantike archäologische Ausgrabungsstätte auf einem Hügel nahe Kobarid.",
-                  "category": "historical",
-                  "coords": [
-                        13.580481,
-                        46.257539
-                  ]
-            },
-            {
                   "name": "Muzej Sirarstva",
                   "text": "Ein Museum, das der Tradition der Käseherstellung in der Region Kobarid gewidmet ist.",
                   "category": "museum",
@@ -1219,15 +1174,6 @@ imageHint: "Wooden barracks of a secret hospital in a rocky gorge",
                         13.577064,
                         46.247534
                   ]
-            },
-            {
-                  "name": "Muzejska Zbirka Botognice",
-                  "text": "Eine kleine Museumssammlung mit Fundstücken aus den Gebirgskämpfen des Ersten Weltkriegs.",
-                  "category": "museum",
-                  "coords": [
-                        13.614882,
-                        46.257002
-                  ]
             }
       ],
       "hu": [
@@ -1247,15 +1193,6 @@ imageHint: "Wooden barracks of a secret hospital in a rocky gorge",
                   "coords": [
                         13.580988,
                         46.246533
-                  ]
-            },
-            {
-                  "name": "Tonovcov grad",
-                  "text": "Jelentős késő antik régészeti lelőhely egy dombtetőn, Kobarid közelében.",
-                  "category": "historical",
-                  "coords": [
-                        13.580481,
-                        46.257539
                   ]
             },
             {
@@ -1284,15 +1221,6 @@ imageHint: "Wooden barracks of a secret hospital in a rocky gorge",
                         13.577064,
                         46.247534
                   ]
-            },
-            {
-                  "name": "Muzejska Zbirka Botognice",
-                  "text": "Kisebb múzeumi gyűjtemény az első világháborús hegyi harcokból származó leletekkel.",
-                  "category": "museum",
-                  "coords": [
-                        13.614882,
-                        46.257002
-                  ]
             }
       ],
       "ro": [
@@ -1312,15 +1240,6 @@ imageHint: "Wooden barracks of a secret hospital in a rocky gorge",
                   "coords": [
                         13.580988,
                         46.246533
-                  ]
-            },
-            {
-                  "name": "Tonovcov grad",
-                  "text": "Un sit arheologic important din antichitatea târzie, situat pe un deal lângă Kobarid.",
-                  "category": "historical",
-                  "coords": [
-                        13.580481,
-                        46.257539
                   ]
             },
             {
@@ -1349,15 +1268,6 @@ imageHint: "Wooden barracks of a secret hospital in a rocky gorge",
                         13.577064,
                         46.247534
                   ]
-            },
-            {
-                  "name": "Muzejska Zbirka Botognice",
-                  "text": "O mică colecție muzeală cu obiecte provenite din luptele montane ale Primului Război Mondial.",
-                  "category": "museum",
-                  "coords": [
-                        13.614882,
-                        46.257002
-                  ]
             }
       ],
       "en": [
@@ -1377,15 +1287,6 @@ imageHint: "Wooden barracks of a secret hospital in a rocky gorge",
                   "coords": [
                         13.580988,
                         46.246533
-                  ]
-            },
-            {
-                  "name": "Tonovcov grad",
-                  "text": "A significant late antiquity archaeological site located on a hilltop near Kobarid.",
-                  "category": "historical",
-                  "coords": [
-                        13.580481,
-                        46.257539
                   ]
             },
             {
@@ -1413,15 +1314,6 @@ imageHint: "Wooden barracks of a secret hospital in a rocky gorge",
                   "coords": [
                         13.577064,
                         46.247534
-                  ]
-            },
-            {
-                  "name": "Muzejska Zbirka Botognice",
-                  "text": "A small museum collection featuring finds from the mountain battles of World War I.",
-                  "category": "museum",
-                  "coords": [
-                        13.614882,
-                        46.257002
                   ]
             }
       ]
@@ -1481,69 +1373,6 @@ imageHint: "Large stone monument with circular terraces on a hill",
                         13.749724,
                         46.460351
                   ]
-            },
-            {
-                  "name": "Prisank",
-                  "text": "Ein markanter Berg in den Julischen Alpen, bekannt für sein natürliches Felsfenster.",
-                  "category": "landmark",
-                  "coords": [
-                        13.769714,
-                        46.4247
-                  ]
-            },
-            {
-                  "name": "Škrlatica",
-                  "text": "Der zweithöchste Gipfel Sloweniens in den Julischen Alpen.",
-                  "category": "landmark",
-                  "coords": [
-                        13.82096,
-                        46.432805
-                  ]
-            },
-            {
-                  "name": "Vršič",
-                  "text": "Ein majestätischer Berggipfel mit Panoramablick in der Region Russian Chapel on the Vršič Pass.",
-                  "category": "landmark",
-                  "coords": [
-                        13.746647,
-                        46.4341
-                  ]
-            },
-            {
-                  "name": "Slemenova špica",
-                  "text": "Ein malerischer Aussichtspunkt mit herrlichem Blick auf die umliegende Landschaft bei Russian Chapel on the Vršič Pass.",
-                  "category": "natural",
-                  "coords": [
-                        13.726485,
-                        46.446007
-                  ]
-            },
-            {
-                  "name": "Špik",
-                  "text": "Ein markanter, nadelförmiger Berggipfel in den Julischen Alpen.",
-                  "category": "landmark",
-                  "coords": [
-                        13.814347,
-                        46.448813
-                  ]
-            },
-            {
-                  "name": "Ciprnik",
-                  "text": "Ein majestätischer Berggipfel mit Panoramablick in der Region Russian Chapel on the Vršič Pass.",
-                  "category": "landmark",
-                  "coords": [
-                        13.740043,
-                        46.468783
-                  ]
-            },
-            {
-                  "name": "Rušica",
-                  "text": "Ein majestätischer Berggipfel mit Panoramablick in der Region Russian Chapel on the Vršič Pass.",
-                  "category": "landmark",
-                  "coords": [
-                        13.806119,
-                        46.458011
-                  ]
             }
       ],
       "hu": [
@@ -1554,69 +1383,6 @@ imageHint: "Large stone monument with circular terraces on a hill",
                   "coords": [
                         13.749724,
                         46.460351
-                  ]
-            },
-            {
-                  "name": "Prisank",
-                  "text": "A Júliai-Alpok egyik jelentős hegye, amely a rajta található természetes sziklaablakról híres.",
-                  "category": "landmark",
-                  "coords": [
-                        13.769714,
-                        46.4247
-                  ]
-            },
-            {
-                  "name": "Škrlatica",
-                  "text": "Szlovénia második legmagasabb csúcsa a Júliai-Alpokban.",
-                  "category": "landmark",
-                  "coords": [
-                        13.82096,
-                        46.432805
-                  ]
-            },
-            {
-                  "name": "Vršič",
-                  "text": "Egy fenséges hegycsúcs panorámás kilátással Russian Chapel on the Vršič Pass régiójában.",
-                  "category": "landmark",
-                  "coords": [
-                        13.746647,
-                        46.4341
-                  ]
-            },
-            {
-                  "name": "Slemenova špica",
-                  "text": "Festői kilátóhely, ahonnan lenyűgöző kilátás nyílik a környező tájra Russian Chapel on the Vršič Pass közelében.",
-                  "category": "natural",
-                  "coords": [
-                        13.726485,
-                        46.446007
-                  ]
-            },
-            {
-                  "name": "Špik",
-                  "text": "Jellegzetes, tűszerű hegycsúcs a Júliai-Alpokban.",
-                  "category": "landmark",
-                  "coords": [
-                        13.814347,
-                        46.448813
-                  ]
-            },
-            {
-                  "name": "Ciprnik",
-                  "text": "Egy fenséges hegycsúcs panorámás kilátással Russian Chapel on the Vršič Pass régiójában.",
-                  "category": "landmark",
-                  "coords": [
-                        13.740043,
-                        46.468783
-                  ]
-            },
-            {
-                  "name": "Rušica",
-                  "text": "Egy fenséges hegycsúcs panorámás kilátással Russian Chapel on the Vršič Pass régiójában.",
-                  "category": "landmark",
-                  "coords": [
-                        13.806119,
-                        46.458011
                   ]
             }
       ],
@@ -1629,69 +1395,6 @@ imageHint: "Large stone monument with circular terraces on a hill",
                         13.749724,
                         46.460351
                   ]
-            },
-            {
-                  "name": "Prisank",
-                  "text": "Un munte proeminent din Alpii Iulieni, faimos pentru fereastra sa naturală în stâncă.",
-                  "category": "landmark",
-                  "coords": [
-                        13.769714,
-                        46.4247
-                  ]
-            },
-            {
-                  "name": "Škrlatica",
-                  "text": "Al doilea cel mai înalt vârf din Slovenia, situat în Alpii Iulieni.",
-                  "category": "landmark",
-                  "coords": [
-                        13.82096,
-                        46.432805
-                  ]
-            },
-            {
-                  "name": "Vršič",
-                  "text": "Un vârf montan maiestuos care oferă vederi panoramice în regiunea Russian Chapel on the Vršič Pass.",
-                  "category": "landmark",
-                  "coords": [
-                        13.746647,
-                        46.4341
-                  ]
-            },
-            {
-                  "name": "Slemenova špica",
-                  "text": "Un punct de belvedere pitoresc care oferă panorame uimitoare asupra peisajului din apropiere de Russian Chapel on the Vršič Pass.",
-                  "category": "natural",
-                  "coords": [
-                        13.726485,
-                        46.446007
-                  ]
-            },
-            {
-                  "name": "Špik",
-                  "text": "Un vârf muntos proeminent și ascuțit în Alpii Iulieni.",
-                  "category": "landmark",
-                  "coords": [
-                        13.814347,
-                        46.448813
-                  ]
-            },
-            {
-                  "name": "Ciprnik",
-                  "text": "Un vârf montan maiestuos care oferă vederi panoramice în regiunea Russian Chapel on the Vršič Pass.",
-                  "category": "landmark",
-                  "coords": [
-                        13.740043,
-                        46.468783
-                  ]
-            },
-            {
-                  "name": "Rušica",
-                  "text": "Un vârf montan maiestuos care oferă vederi panoramice în regiunea Russian Chapel on the Vršič Pass.",
-                  "category": "landmark",
-                  "coords": [
-                        13.806119,
-                        46.458011
-                  ]
             }
       ],
       "en": [
@@ -1702,69 +1405,6 @@ imageHint: "Large stone monument with circular terraces on a hill",
                   "coords": [
                         13.749724,
                         46.460351
-                  ]
-            },
-            {
-                  "name": "Prisojnik",
-                  "text": "A prominent mountain in the Julian Alps, famous for its natural window rock formation.",
-                  "category": "landmark",
-                  "coords": [
-                        13.769714,
-                        46.4247
-                  ]
-            },
-            {
-                  "name": "Škrlatica",
-                  "text": "The second highest peak in Slovenia, located in the Julian Alps.",
-                  "category": "landmark",
-                  "coords": [
-                        13.82096,
-                        46.432805
-                  ]
-            },
-            {
-                  "name": "Vršič",
-                  "text": "A majestic mountain peak offering panoramic views in the Russian Chapel on the Vršič Pass region.",
-                  "category": "landmark",
-                  "coords": [
-                        13.746647,
-                        46.4341
-                  ]
-            },
-            {
-                  "name": "Slemenova špica",
-                  "text": "A scenic viewpoint providing stunning vistas of the surrounding landscape near Russian Chapel on the Vršič Pass.",
-                  "category": "natural",
-                  "coords": [
-                        13.726485,
-                        46.446007
-                  ]
-            },
-            {
-                  "name": "Špik",
-                  "text": "A prominent and needle-like mountain peak in the Julian Alps.",
-                  "category": "landmark",
-                  "coords": [
-                        13.814347,
-                        46.448813
-                  ]
-            },
-            {
-                  "name": "Ciprnik",
-                  "text": "A majestic mountain peak offering panoramic views in the Russian Chapel on the Vršič Pass region.",
-                  "category": "landmark",
-                  "coords": [
-                        13.740043,
-                        46.468783
-                  ]
-            },
-            {
-                  "name": "Rušica",
-                  "text": "A majestic mountain peak offering panoramic views in the Russian Chapel on the Vršič Pass region.",
-                  "category": "landmark",
-                  "coords": [
-                        13.806119,
-                        46.458011
                   ]
             }
       ]
@@ -3442,24 +3082,6 @@ imageHint: "Massive Baroque cathedral with a large dome in a small town",
     id: "slovenia-kostanjevica-monastery-history-v2", "sights": {
       "de": [
             {
-                  "name": "Krakovski pragozd",
-                  "text": "Ein geschütztes Urwaldgebiet in Slowenien, bekannt für seine Artenvielfalt.",
-                  "category": "natural",
-                  "coords": [
-                        15.406938,
-                        45.876533
-                  ]
-            },
-            {
-                  "name": "Galerija Božidar Jakac (Former Monastary Fons Beatae Mariae)",
-                  "text": "Eine bedeutende Kunstgalerie, die in einem ehemaligen Zisterzienserkloster untergebracht ist.",
-                  "category": "museum",
-                  "coords": [
-                        15.416405,
-                        45.835181
-                  ]
-            },
-            {
                   "name": "Kostanjeviška jama",
                   "text": "Eine Schauhöhle in Slowenien mit beeindruckenden Tropfsteinformationen.",
                   "category": "landmark",
@@ -3467,36 +3089,9 @@ imageHint: "Massive Baroque cathedral with a large dome in a small town",
                         15.434388,
                         45.838203
                   ]
-            },
-            {
-                  "name": "Župnijska cerkev Sv. Križa",
-                  "text": "Die örtliche Pfarrkirche von Kostanjevica na Krki, dem Heiligen Kreuz geweiht.",
-                  "category": "religious",
-                  "coords": [
-                        15.465878,
-                        45.863756
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Krakovski pragozd",
-                  "text": "Védett őserdő terület Szlovéniában, amely biodiverzitásáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        15.406938,
-                        45.876533
-                  ]
-            },
-            {
-                  "name": "Galerija Božidar Jakac (Former Monastary Fons Beatae Mariae)",
-                  "text": "Jelentős művészeti galéria, amely egy egykori ciszterci kolostorban kapott helyet.",
-                  "category": "museum",
-                  "coords": [
-                        15.416405,
-                        45.835181
-                  ]
-            },
             {
                   "name": "Kostanjeviška jama",
                   "text": "Látogatható barlang Szlovéniában, lenyűgöző cseppkőképződményekkel.",
@@ -3505,36 +3100,9 @@ imageHint: "Massive Baroque cathedral with a large dome in a small town",
                         15.434388,
                         45.838203
                   ]
-            },
-            {
-                  "name": "Župnijska cerkev Sv. Križa",
-                  "text": "Kostanjevica na Krki helyi plébániatemploma, amelyet a Szent Kereszt tiszteletére szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        15.465878,
-                        45.863756
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Krakovski pragozd",
-                  "text": "O zonă protejată de pădure virgină în Slovenia, cunoscută pentru biodiversitatea sa.",
-                  "category": "natural",
-                  "coords": [
-                        15.406938,
-                        45.876533
-                  ]
-            },
-            {
-                  "name": "Galerija Božidar Jakac (Former Monastary Fons Beatae Mariae)",
-                  "text": "O importantă galerie de artă găzduită într-o fostă mănăstire cisterciană.",
-                  "category": "museum",
-                  "coords": [
-                        15.416405,
-                        45.835181
-                  ]
-            },
             {
                   "name": "Kostanjeviška jama",
                   "text": "O peșteră vizitabilă în Slovenia, cu formațiuni de stalactite impresionante.",
@@ -3543,36 +3111,9 @@ imageHint: "Massive Baroque cathedral with a large dome in a small town",
                         15.434388,
                         45.838203
                   ]
-            },
-            {
-                  "name": "Župnijska cerkev Sv. Križa",
-                  "text": "Biserica parohială locală din Kostanjevica na Krki, dedicată Sfintei Cruci.",
-                  "category": "religious",
-                  "coords": [
-                        15.465878,
-                        45.863756
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Krakovski pragozd",
-                  "text": "A protected virgin forest area in Slovenia, known for its biodiversity.",
-                  "category": "natural",
-                  "coords": [
-                        15.406938,
-                        45.876533
-                  ]
-            },
-            {
-                  "name": "Galerija Božidar Jakac (Former Monastary Fons Beatae Mariae)",
-                  "text": "An important art gallery housed in a former Cistercian monastery.",
-                  "category": "museum",
-                  "coords": [
-                        15.416405,
-                        45.835181
-                  ]
-            },
             {
                   "name": "Kostanjeviška jama",
                   "text": "A show cave in Slovenia with impressive dripstone formations.",
@@ -3580,15 +3121,6 @@ imageHint: "Massive Baroque cathedral with a large dome in a small town",
                   "coords": [
                         15.434388,
                         45.838203
-                  ]
-            },
-            {
-                  "name": "Župnijska cerkev Sv. Križa",
-                  "text": "The local parish church of Kostanjevica na Krki, dedicated to the Holy Cross.",
-                  "category": "religious",
-                  "coords": [
-                        15.465878,
-                        45.863756
                   ]
             }
       ]
@@ -4290,15 +3822,6 @@ imageHint: "Medieval castle on a small island surrounded by a river",
                         14.270187,
                         45.687621
                   ]
-            },
-            {
-                  "name": "Sv. Nikolaj",
-                  "text": "Ein der heiligen Nikolaus gewidmetes Gotteshaus in der Nähe der St.-Kanzian-Kirche in Klanec.",
-                  "category": "religious",
-                  "coords": [
-                        14.257476,
-                        45.675914
-                  ]
             }
       ],
       "hu": [
@@ -4309,15 +3832,6 @@ imageHint: "Medieval castle on a small island surrounded by a river",
                   "coords": [
                         14.270187,
                         45.687621
-                  ]
-            },
-            {
-                  "name": "Sv. Nikolaj",
-                  "text": "Szent Miklósnak szentelt istentiszteleti hely a klaneci Szent Kancián-templom közelében.",
-                  "category": "religious",
-                  "coords": [
-                        14.257476,
-                        45.675914
                   ]
             }
       ],
@@ -4330,15 +3844,6 @@ imageHint: "Medieval castle on a small island surrounded by a river",
                         14.270187,
                         45.687621
                   ]
-            },
-            {
-                  "name": "Sv. Nikolaj",
-                  "text": "Un lăcaș de cult dedicat Sfântului Nicolae, situat lângă Biserica Sfântul Canțian din Klanec.",
-                  "category": "religious",
-                  "coords": [
-                        14.257476,
-                        45.675914
-                  ]
             }
       ],
       "en": [
@@ -4349,15 +3854,6 @@ imageHint: "Medieval castle on a small island surrounded by a river",
                   "coords": [
                         14.270187,
                         45.687621
-                  ]
-            },
-            {
-                  "name": "Sv. Nikolaj",
-                  "text": "A place of worship dedicated to Saint Nicholas, located near the St. Kancijan Church in Klanec.",
-                  "category": "religious",
-                  "coords": [
-                        14.257476,
-                        45.675914
                   ]
             }
       ]
@@ -4479,15 +3975,6 @@ imageHint: "Medieval castle on a small island surrounded by a river",
                         14.020927,
                         46.096409
                   ]
-            },
-            {
-                  "name": "Miklavžev turn",
-                  "text": "Überreste eines historischen Turms oder Gebäudes in der Gegend von Hrib.",
-                  "category": "historical",
-                  "coords": [
-                        13.996952,
-                        46.139483
-                  ]
             }
       ],
       "hu": [
@@ -4516,15 +4003,6 @@ imageHint: "Medieval castle on a small island surrounded by a river",
                   "coords": [
                         14.020927,
                         46.096409
-                  ]
-            },
-            {
-                  "name": "Miklavžev turn",
-                  "text": "Egy történelmi torony vagy épület maradványai Hrib környékén.",
-                  "category": "historical",
-                  "coords": [
-                        13.996952,
-                        46.139483
                   ]
             }
       ],
@@ -4555,15 +4033,6 @@ imageHint: "Medieval castle on a small island surrounded by a river",
                         14.020927,
                         46.096409
                   ]
-            },
-            {
-                  "name": "Miklavžev turn",
-                  "text": "Ruinele unui turn sau ale unei construcții istorice din zona Hrib.",
-                  "category": "historical",
-                  "coords": [
-                        13.996952,
-                        46.139483
-                  ]
             }
       ],
       "en": [
@@ -4592,15 +4061,6 @@ imageHint: "Medieval castle on a small island surrounded by a river",
                   "coords": [
                         14.020927,
                         46.096409
-                  ]
-            },
-            {
-                  "name": "Miklavžev turn",
-                  "text": "Ruins of a historical tower or structure in the Hrib area.",
-                  "category": "historical",
-                  "coords": [
-                        13.996952,
-                        46.139483
                   ]
             }
       ]

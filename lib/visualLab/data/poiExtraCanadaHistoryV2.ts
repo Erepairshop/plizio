@@ -1950,15 +1950,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shannon Park Splash Pads",
-                  "text": "Spritzpads für Kinder im Shannon Park.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.485139,
-                        44.263421
-                  ]
-            },
-            {
                   "name": "Frederick Tower",
                   "text": "Ein Museumsturm in Kingston, Teil des historischen Fort Henry.",
                   "category": "museum",
@@ -2093,15 +2084,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   "coords": [
                         -76.424311,
                         44.298436
-                  ]
-            },
-            {
-                  "name": "Shannon Park Splash Pads",
-                  "text": "Gyermekek számára kialakított pancsoló a Shannon Parkban.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.485139,
-                        44.263421
                   ]
             },
             {
@@ -2242,15 +2224,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shannon Park Splash Pads",
-                  "text": "Zone de stropit pentru copii în Parcul Shannon.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.485139,
-                        44.263421
-                  ]
-            },
-            {
                   "name": "Frederick Tower",
                   "text": "Un turn muzeu în Kingston, parte a sitului istoric Fort Henry.",
                   "category": "museum",
@@ -2385,15 +2358,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   "coords": [
                         -76.424311,
                         44.298436
-                  ]
-            },
-            {
-                  "name": "Shannon Park Splash Pads",
-                  "text": "Splash pads for children in Shannon Park.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.485139,
-                        44.263421
                   ]
             },
             {
@@ -6624,15 +6588,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
     id: "fort-langley-history-v2", "sights": {
       "de": [
             {
-                  "name": "Canadian Museum of Flight",
-                  "text": "Das Canadian Museum of Flight ist ein Museum in fort-langley-history-v2 am Langley Airport, das historische Flugzeuge zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -122.626058,
-                        49.099198
-                  ]
-            },
-            {
                   "name": "Monument to S.S. Beaver",
                   "text": "Das Monument to S.S. Beaver ist ein Denkmal in fort-langley-history-v2, das an das erste Dampfschiff an der Pazifikküste Nordwestamerikas erinnert.",
                   "category": "historical",
@@ -6657,15 +6612,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   "coords": [
                         -122.508834,
                         49.211394
-                  ]
-            },
-            {
-                  "name": "The ACT Arts Centre",
-                  "text": "Ein Zentrum für darstellende Künste in Langley mit Theater- und Musikveranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.59845,
-                        49.219167
                   ]
             },
             {
@@ -6732,30 +6678,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maple Ridge Museum",
-                  "text": "Museum zur Geschichte von Maple Ridge in Langley.",
-                  "category": "museum",
-                  "coords": [
-                        -122.597596,
-                        49.210381
-                  ]
-            },
-            {
                   "name": "Pitt Meadows Art Gallery",
                   "text": "Kunstgalerie in Pitt Meadows, Langley.",
                   "category": "museum",
                   "coords": [
                         -122.680301,
                         49.201813
-                  ]
-            },
-            {
-                  "name": "Haney House",
-                  "text": "Historisches Wohnhausmuseum im Haney-Viertel von Langley.",
-                  "category": "museum",
-                  "coords": [
-                        -122.602087,
-                        49.213084
                   ]
             },
             {
@@ -6804,15 +6732,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Theatre in the Country",
-                  "text": "Das 2013 eröffnete Theatre in the Country in Langley ist ein ländliches Theater.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.652343,
-                        49.106084
-                  ]
-            },
-            {
                   "name": "Langley Prairie Methodist Church",
                   "text": "Langley Prairie Methodist Church, erbaut am 23. Mai 1886, geschütztes Kulturerbe.",
                   "category": "religious",
@@ -6831,30 +6750,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Langley Spirit Square",
-                  "text": "Öffentlicher Platz im Herzen von Langley.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.653815,
-                        49.102468
-                  ]
-            },
-            {
                   "name": "Kanaka Creek Fish Fence",
                   "text": "Historischer Fischzaun am Kanaka Creek in Langley.",
                   "category": "landmark",
                   "coords": [
                         -122.557059,
                         49.199273
-                  ]
-            },
-            {
-                  "name": "Original Fort Langley Site",
-                  "text": "Ursprünglicher Standort des Fort Langley, markiert durch Gedenktafeln.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.593905,
-                        49.198615
                   ]
             },
             {
@@ -6900,15 +6801,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   "coords": [
                         -122.588504,
                         49.188169
-                  ]
-            },
-            {
-                  "name": "Langley Bog",
-                  "text": "Hochmoor in Langley mit seltener Torfvegetation.",
-                  "category": "natural",
-                  "coords": [
-                        -122.610382,
-                        49.19997
                   ]
             },
             {
@@ -6959,15 +6851,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Canadian Museum of Flight",
-                  "text": "A Canadian Museum of Flight egy múzeum a fort-langley-history-v2-ben a Langley repülőtéren, történelmi repülőgépeket bemutatva.",
-                  "category": "museum",
-                  "coords": [
-                        -122.626058,
-                        49.099198
-                  ]
-            },
-            {
                   "name": "Monument to S.S. Beaver",
                   "text": "A Monument to S.S. Beaver egy emlékmű fort-langley-history-v2-ben, amely az északnyugat-amerikai csendes-óceáni partvidék első gőzhajójára emlékeztet.",
                   "category": "historical",
@@ -6992,15 +6875,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   "coords": [
                         -122.508834,
                         49.211394
-                  ]
-            },
-            {
-                  "name": "The ACT Arts Centre",
-                  "text": "Előadóművészeti központ Langley-ban, színházi és zenei eseményekkel.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.59845,
-                        49.219167
                   ]
             },
             {
@@ -7067,30 +6941,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maple Ridge Museum",
-                  "text": "Maple Ridge történetét bemutató múzeum Langleyben.",
-                  "category": "museum",
-                  "coords": [
-                        -122.597596,
-                        49.210381
-                  ]
-            },
-            {
                   "name": "Pitt Meadows Art Gallery",
                   "text": "Művészeti galéria Pitt Meadowsben, Langleyben.",
                   "category": "museum",
                   "coords": [
                         -122.680301,
                         49.201813
-                  ]
-            },
-            {
-                  "name": "Haney House",
-                  "text": "Történelmi lakóház múzeum a haneyi negyedben, Langleyben.",
-                  "category": "museum",
-                  "coords": [
-                        -122.602087,
-                        49.213084
                   ]
             },
             {
@@ -7139,15 +6995,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Theatre in the Country",
-                  "text": "A 2013-ban megnyílt Theatre in the Country Langley-ben egy vidéki színház.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.652343,
-                        49.106084
-                  ]
-            },
-            {
                   "name": "Langley Prairie Methodist Church",
                   "text": "Langley Prairie Methodist Church, 1886. május 23-án épült, védett örökség.",
                   "category": "religious",
@@ -7166,30 +7013,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Langley Spirit Square",
-                  "text": "Nyilvános tér Langley szívében.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.653815,
-                        49.102468
-                  ]
-            },
-            {
                   "name": "Kanaka Creek Fish Fence",
                   "text": "Történelmi halfogó a Kanaka-patakon Langleyben.",
                   "category": "landmark",
                   "coords": [
                         -122.557059,
                         49.199273
-                  ]
-            },
-            {
-                  "name": "Original Fort Langley Site",
-                  "text": "A Fort Langley eredeti helye, emléktáblákkal jelölve.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.593905,
-                        49.198615
                   ]
             },
             {
@@ -7235,15 +7064,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   "coords": [
                         -122.588504,
                         49.188169
-                  ]
-            },
-            {
-                  "name": "Langley Bog",
-                  "text": "Tőzegláp Langleyben, ritka tőzegnövényzettel.",
-                  "category": "natural",
-                  "coords": [
-                        -122.610382,
-                        49.19997
                   ]
             },
             {
@@ -7294,15 +7114,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Canadian Museum of Flight",
-                  "text": "Canadian Museum of Flight este un muzeu în fort-langley-history-v2 pe aeroportul Langley, prezentând aeronave istorice.",
-                  "category": "museum",
-                  "coords": [
-                        -122.626058,
-                        49.099198
-                  ]
-            },
-            {
                   "name": "Monument to S.S. Beaver",
                   "text": "Monument to S.S. Beaver este un monument în fort-langley-history-v2 care comemorează primul vapor cu aburi de pe coasta de nord-vest a Pacificului.",
                   "category": "historical",
@@ -7327,15 +7138,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   "coords": [
                         -122.508834,
                         49.211394
-                  ]
-            },
-            {
-                  "name": "The ACT Arts Centre",
-                  "text": "Un centru de arte spectacolului în Langley, care găzduiește evenimente de teatru și muzică.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.59845,
-                        49.219167
                   ]
             },
             {
@@ -7402,30 +7204,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maple Ridge Museum",
-                  "text": "Muzeu al istoriei Maple Ridge, situat în Langley.",
-                  "category": "museum",
-                  "coords": [
-                        -122.597596,
-                        49.210381
-                  ]
-            },
-            {
                   "name": "Pitt Meadows Art Gallery",
                   "text": "Galerie de artă în Pitt Meadows, Langley.",
                   "category": "museum",
                   "coords": [
                         -122.680301,
                         49.201813
-                  ]
-            },
-            {
-                  "name": "Haney House",
-                  "text": "Muzeu al unei case istorice în cartierul Haney din Langley.",
-                  "category": "museum",
-                  "coords": [
-                        -122.602087,
-                        49.213084
                   ]
             },
             {
@@ -7474,15 +7258,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Theatre in the Country",
-                  "text": "Teatrul „Theatre in the Country” din Langley, deschis în 2013, este un teatru rural.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.652343,
-                        49.106084
-                  ]
-            },
-            {
                   "name": "Langley Prairie Methodist Church",
                   "text": "Biserica metodistă Langley Prairie, construită la 23 mai 1886, patrimoniu protejat.",
                   "category": "religious",
@@ -7501,30 +7276,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Langley Spirit Square",
-                  "text": "Piață publică în inima orașului Langley.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.653815,
-                        49.102468
-                  ]
-            },
-            {
                   "name": "Kanaka Creek Fish Fence",
                   "text": "Gard de pești istoric pe pârâul Kanaka din Langley.",
                   "category": "landmark",
                   "coords": [
                         -122.557059,
                         49.199273
-                  ]
-            },
-            {
-                  "name": "Original Fort Langley Site",
-                  "text": "Locația originală a Fort Langley, marcată cu plăci comemorative.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.593905,
-                        49.198615
                   ]
             },
             {
@@ -7570,15 +7327,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   "coords": [
                         -122.588504,
                         49.188169
-                  ]
-            },
-            {
-                  "name": "Langley Bog",
-                  "text": "Mlaștină de turbă în Langley, cu vegetație rară de turbă.",
-                  "category": "natural",
-                  "coords": [
-                        -122.610382,
-                        49.19997
                   ]
             },
             {
@@ -7629,15 +7377,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Canadian Museum of Flight",
-                  "text": "The Canadian Museum of Flight is a museum in fort-langley-history-v2 located at Langley Airport, showcasing historic aircraft.",
-                  "category": "museum",
-                  "coords": [
-                        -122.626058,
-                        49.099198
-                  ]
-            },
-            {
                   "name": "Monument to S.S. Beaver",
                   "text": "The Monument to S.S. Beaver is a monument in fort-langley-history-v2 commemorating the first steamship on the Pacific Northwest coast.",
                   "category": "historical",
@@ -7662,15 +7401,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   "coords": [
                         -122.508834,
                         49.211394
-                  ]
-            },
-            {
-                  "name": "The ACT Arts Centre",
-                  "text": "A performing arts centre in Langley hosting theatre and music events.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.59845,
-                        49.219167
                   ]
             },
             {
@@ -7737,30 +7467,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maple Ridge Museum",
-                  "text": "Museum of Maple Ridge history, located in Langley.",
-                  "category": "museum",
-                  "coords": [
-                        -122.597596,
-                        49.210381
-                  ]
-            },
-            {
                   "name": "Pitt Meadows Art Gallery",
                   "text": "Art gallery in Pitt Meadows, Langley.",
                   "category": "museum",
                   "coords": [
                         -122.680301,
                         49.201813
-                  ]
-            },
-            {
-                  "name": "Haney House",
-                  "text": "Historic house museum in the Haney area of Langley.",
-                  "category": "museum",
-                  "coords": [
-                        -122.602087,
-                        49.213084
                   ]
             },
             {
@@ -7809,15 +7521,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Theatre in the Country",
-                  "text": "Theatre in the Country, opened in 2013, is a rural theatre in Langley.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.652343,
-                        49.106084
-                  ]
-            },
-            {
                   "name": "Langley Prairie Methodist Church",
                   "text": "Langley Prairie Methodist Church, built on May 23, 1886, listed heritage.",
                   "category": "religious",
@@ -7836,30 +7539,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Langley Spirit Square",
-                  "text": "Public square in the heart of Langley.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.653815,
-                        49.102468
-                  ]
-            },
-            {
                   "name": "Kanaka Creek Fish Fence",
                   "text": "Historic fish fence on Kanaka Creek in Langley.",
                   "category": "landmark",
                   "coords": [
                         -122.557059,
                         49.199273
-                  ]
-            },
-            {
-                  "name": "Original Fort Langley Site",
-                  "text": "Original site of Fort Langley, marked by commemorative plaques.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.593905,
-                        49.198615
                   ]
             },
             {
@@ -7905,15 +7590,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   "coords": [
                         -122.588504,
                         49.188169
-                  ]
-            },
-            {
-                  "name": "Langley Bog",
-                  "text": "Raised bog in Langley with rare peat vegetation.",
-                  "category": "natural",
-                  "coords": [
-                        -122.610382,
-                        49.19997
                   ]
             },
             {
@@ -9687,15 +9363,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Église de Saint-Jean-Chrysostome",
-                  "text": "Die Kirche des heiligen Johannes Chrysostomus, des Erzbischofs von Konstantinopel im 4. Jahrhundert.",
-                  "category": "religious",
-                  "coords": [
-                        -71.197209,
-                        46.717977
-                  ]
-            },
-            {
                   "name": "Anse au Foulon",
                   "text": "Die Bucht, in der 1759 britische Truppen während der Belagerung von Québec landeten.",
                   "category": "landmark",
@@ -9992,15 +9659,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   "coords": [
                         -71.320804,
                         46.811738
-                  ]
-            },
-            {
-                  "name": "Église de Saint-Jean-Chrysostome",
-                  "text": "A Szent Aranyszájú Jánosnak, a 4. századi konstantinápolyi érseknek szentelt templom.",
-                  "category": "religious",
-                  "coords": [
-                        -71.197209,
-                        46.717977
                   ]
             },
             {
@@ -10303,15 +9961,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Église de Saint-Jean-Chrysostome",
-                  "text": "Biserica dedicată Sfântului Ioan Gură de Aur, arhiepiscopul Constantinopolului din secolul al IV-lea.",
-                  "category": "religious",
-                  "coords": [
-                        -71.197209,
-                        46.717977
-                  ]
-            },
-            {
                   "name": "Anse au Foulon",
                   "text": "Golful unde trupele britanice au debarcat în 1759 în timpul asediului Quebecului.",
                   "category": "landmark",
@@ -10611,15 +10260,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Église de Saint-Jean-Chrysostome",
-                  "text": "The church dedicated to Saint John Chrysostom, the 4th-century Archbishop of Constantinople.",
-                  "category": "religious",
-                  "coords": [
-                        -71.197209,
-                        46.717977
-                  ]
-            },
-            {
                   "name": "Anse au Foulon",
                   "text": "The cove where British troops landed in 1759 during the Siege of Quebec.",
                   "category": "landmark",
@@ -10749,15 +10389,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   "coords": [
                         -79.408114,
                         43.678931
-                  ]
-            },
-            {
-                  "name": "Casa Loma",
-                  "text": "Ein natürlicher Hügelpark in Loma Toronto mit Aussicht über die Stadt.",
-                  "category": "natural",
-                  "coords": [
-                        -79.409121,
-                        43.678037
                   ]
             },
             {
@@ -10988,15 +10619,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Loma",
-                  "text": "Egy természetes dombpark Loma Torontóban, kilátással a városra.",
-                  "category": "natural",
-                  "coords": [
-                        -79.409121,
-                        43.678037
-                  ]
-            },
-            {
                   "name": "St. Germain Gallery",
                   "text": "Egy kortárs művészeti galéria Loma Torontóban.",
                   "category": "museum",
@@ -11224,15 +10846,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Loma",
-                  "text": "Un parc natural pe un deal în Loma Toronto, cu vedere asupra orașului.",
-                  "category": "natural",
-                  "coords": [
-                        -79.409121,
-                        43.678037
-                  ]
-            },
-            {
                   "name": "St. Germain Gallery",
                   "text": "O galerie de artă contemporană în Loma Toronto.",
                   "category": "museum",
@@ -11457,15 +11070,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   "coords": [
                         -79.408114,
                         43.678931
-                  ]
-            },
-            {
-                  "name": "Casa Loma",
-                  "text": "A natural hilltop park in Loma Toronto with views over the city.",
-                  "category": "natural",
-                  "coords": [
-                        -79.409121,
-                        43.678037
                   ]
             },
             {
@@ -16800,111 +16404,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bellevue House",
-                  "text": "Historisches Hausmuseum, das die Residenz von Sir John A. Macdonald war.",
-                  "category": "museum",
-                  "coords": [
-                        -76.504105,
-                        44.223021
-                  ]
-            },
-            {
-                  "name": "Marine Museum of the Great Lakes at Kingston",
-                  "text": "Museum zur maritimen Geschichte und zum Schiffbau der Großen Seen.",
-                  "category": "museum",
-                  "coords": [
-                        -76.482957,
-                        44.2253
-                  ]
-            },
-            {
-                  "name": "Kingston City Hall",
-                  "text": "Ein historisches neoklassizistisches Rathaus aus der Mitte des 19. Jahrhunderts.",
-                  "category": "historical",
-                  "coords": [
-                        -76.480497,
-                        44.229922
-                  ]
-            },
-            {
-                  "name": "Beth Israel Congregation",
-                  "text": "Historische Synagoge in Kingston (Ontario) aus dem frühen 20. Jahrhundert.",
-                  "category": "religious",
-                  "coords": [
-                        -76.505242,
-                        44.225339
-                  ]
-            },
-            {
-                  "name": "St. Andrew's Presbyterian Church",
-                  "text": "Historische Steinkirche im Zentrum von Kingston, Ontario.",
-                  "category": "religious",
-                  "coords": [
-                        -76.489464,
-                        44.233021
-                  ]
-            },
-            {
-                  "name": "Chalmers United Church",
-                  "text": "United Church in Kingston mit auffälligem Kirchturm.",
-                  "category": "religious",
-                  "coords": [
-                        -76.490629,
-                        44.229238
-                  ]
-            },
-            {
-                  "name": "St. George's Cathedral",
-                  "text": "Anglikanische Kathedrale in Kingston, Sitz der Diözese Ontario.",
-                  "category": "religious",
-                  "coords": [
-                        -76.483008,
-                        44.22944
-                  ]
-            },
-            {
-                  "name": "Kingston Penitentiary",
-                  "text": "Ehemaliges Hochsicherheitsgefängnis, das 1835 eröffnet wurde und heute ein Museum ist.",
-                  "category": "museum",
-                  "coords": [
-                        -76.513473,
-                        44.219367
-                  ]
-            },
-            {
-                  "name": "Agnes Queen’s Art Gallery",
-                  "text": "Kunstgalerie an der Queen’s University mit einer vielfältigen Sammlung.",
-                  "category": "museum",
-                  "coords": [
-                        -76.496264,
-                        44.225372
-                  ]
-            },
-            {
                   "name": "Ann Baillie Building",
                   "text": "Ein historisches Gebäude auf dem Campus der Queen’s University, das als Museum genutzt wird.",
                   "category": "museum",
                   "coords": [
                         -76.492282,
                         44.223781
-                  ]
-            },
-            {
-                  "name": "Grand Theatre",
-                  "text": "Grand Theatre in Kingston (Towers Kingston) ist ein historisches Theater aus dem frühen 20. Jahrhundert.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.486415,
-                        44.232086
-                  ]
-            },
-            {
-                  "name": "St. John's Anglican Church",
-                  "text": "St. John's Anglican Church in Kingston (Towers Kingston) ist eine anglikanische Kirche, die Johannes dem Täufer geweiht ist.",
-                  "category": "religious",
-                  "coords": [
-                        -76.518659,
-                        44.222588
                   ]
             },
             {
@@ -16917,57 +16422,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Princess Street United Church",
-                  "text": "Princess Street United Church in Kingston (Towers Kingston) ist eine vereinigte Kirche an der Princess Street.",
-                  "category": "religious",
-                  "coords": [
-                        -76.500968,
-                        44.236404
-                  ]
-            },
-            {
                   "name": "First Baptist Church",
                   "text": "First Baptist Church in Kingston (Towers Kingston) ist eine historische Baptistenkirche.",
                   "category": "religious",
                   "coords": [
                         -76.487895,
                         44.230797
-                  ]
-            },
-            {
-                  "name": "Cathedral of Saint Mary of the Immaculate Conception",
-                  "text": "Römisch-katholische Kathedrale in Kingston, Sitz der Diözese Kingston.",
-                  "category": "religious",
-                  "coords": [
-                        -76.489807,
-                        44.231266
-                  ]
-            },
-            {
-                  "name": "Wellington Street Theatre",
-                  "text": "Wellington Street Theatre in Kingston (Towers Kingston) ist ein Theater an der Wellington Street.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.48403,
-                        44.229792
-                  ]
-            },
-            {
-                  "name": "St. John the Apostle Church",
-                  "text": "St. John the Apostle Church in Kingston (Towers Kingston) ist eine katholische Kirche, die dem Apostel Johannes geweiht ist.",
-                  "category": "religious",
-                  "coords": [
-                        -76.489543,
-                        44.23907
-                  ]
-            },
-            {
-                  "name": "St. James' Anglican Church",
-                  "text": "St. James' Anglican Church in Kingston (Towers Kingston) ist eine anglikanische Kirche, die dem Heiligen Jakobus geweiht ist.",
-                  "category": "religious",
-                  "coords": [
-                        -76.491452,
-                        44.227298
                   ]
             },
             {
@@ -16980,24 +16440,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anglin Bay",
-                  "text": "Anglin Bay in Kingston (Towers Kingston) ist eine Bucht am Ontariosee.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.479382,
-                        44.23565
-                  ]
-            },
-            {
-                  "name": "Shoal Tower",
-                  "text": "Ein Martello-Turm auf einer Untiefe im Hafen von Kingston.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.478138,
-                        44.228821
-                  ]
-            },
-            {
                   "name": "Lake Ontario Park",
                   "text": "Lake Ontario Park in Kingston (Towers Kingston) ist ein Park am Ufer des Ontariosees.",
                   "category": "park",
@@ -17007,75 +16449,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Martello Alley",
-                  "text": "Ein Museum in einer restaurierten Gasse in Towers Kingston mit lokaler Geschichte.",
-                  "category": "museum",
-                  "coords": [
-                        -76.481992,
-                        44.231899
-                  ]
-            },
-            {
-                  "name": "Miller Museum of Geology",
-                  "text": "Ein geologisches Museum in Towers Kingston mit Mineralien- und Fossiliensammlungen.",
-                  "category": "museum",
-                  "coords": [
-                        -76.492587,
-                        44.227382
-                  ]
-            },
-            {
-                  "name": "Canada's Penitentiary Museum",
-                  "text": "Ein Museum in Towers Kingston, das die Geschichte der kanadischen Bundesgefängnisse dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        -76.513778,
-                        44.221679
-                  ]
-            },
-            {
                   "name": "PumpHouse Museum",
                   "text": "Museum in einem historischen Wasserpumpwerk in Towers Kingston.",
                   "category": "museum",
                   "coords": [
                         -76.484726,
                         44.224135
-                  ]
-            },
-            {
-                  "name": "Hillcroft Plaque",
-                  "text": "Historische Gedenktafel am Standort des ehemaligen Hillcroft-Anwesens in Towers Kingston.",
-                  "category": "historical",
-                  "coords": [
-                        -76.506039,
-                        44.226305
-                  ]
-            },
-            {
-                  "name": "Market Street Battery",
-                  "text": "Historische Artilleriebatterie an der Market Street in Towers Kingston.",
-                  "category": "fortress",
-                  "coords": [
-                        -76.47946,
-                        44.229438
-                  ]
-            },
-            {
-                  "name": "Summerhill Plaque",
-                  "text": "Gedenktafel zur Geschichte von Summerhill in Towers Kingston.",
-                  "category": "historical",
-                  "coords": [
-                        -76.492374,
-                        44.225728
-                  ]
-            },
-            {
-                  "name": "Vacant",
-                  "text": "Ein unbebautes historisches Gelände in Towers Kingston, durch eine Tafel markiert.",
-                  "category": "historical",
-                  "coords": [
-                        -76.498177,
-                        44.235751
                   ]
             },
             {
@@ -17095,15 +16474,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                         -76.521934,
                         44.246554
                   ]
-            },
-            {
-                  "name": "Isabel Bader Centre for Performing Arts",
-                  "text": "Ein nach der Philanthropin Isabel Bader benanntes Zentrum für darstellende Künste in Towers Kingston.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.506521,
-                        44.22035
-                  ]
             }
       ],
       "hu": [
@@ -17117,111 +16487,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bellevue House",
-                  "text": "Történelmi házmúzeum, amely Sir John A. Macdonald rezidenciája volt.",
-                  "category": "museum",
-                  "coords": [
-                        -76.504105,
-                        44.223021
-                  ]
-            },
-            {
-                  "name": "Marine Museum of the Great Lakes at Kingston",
-                  "text": "A Nagy-tavak tengerészeti történetét és hajóépítését bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -76.482957,
-                        44.2253
-                  ]
-            },
-            {
-                  "name": "Kingston City Hall",
-                  "text": "Egy történelmi neoklasszicista városháza a 19. század közepéről.",
-                  "category": "historical",
-                  "coords": [
-                        -76.480497,
-                        44.229922
-                  ]
-            },
-            {
-                  "name": "Beth Israel Congregation",
-                  "text": "Történelmi zsinagóga Kingstonban (Ontario), a 20. század elejéről.",
-                  "category": "religious",
-                  "coords": [
-                        -76.505242,
-                        44.225339
-                  ]
-            },
-            {
-                  "name": "St. Andrew's Presbyterian Church",
-                  "text": "Történelmi kőtemplom Kingston belvárosában, Ontario.",
-                  "category": "religious",
-                  "coords": [
-                        -76.489464,
-                        44.233021
-                  ]
-            },
-            {
-                  "name": "Chalmers United Church",
-                  "text": "United Church Kingstonban, feltűnő harangtoronnyal.",
-                  "category": "religious",
-                  "coords": [
-                        -76.490629,
-                        44.229238
-                  ]
-            },
-            {
-                  "name": "St. George's Cathedral",
-                  "text": "Anglikán székesegyház Kingstonban, az Ontarioi Egyházmegye székhelye.",
-                  "category": "religious",
-                  "coords": [
-                        -76.483008,
-                        44.22944
-                  ]
-            },
-            {
-                  "name": "Kingston Penitentiary",
-                  "text": "Egykori maximális biztonságú börtön, amely 1835-ben nyílt meg, ma múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -76.513473,
-                        44.219367
-                  ]
-            },
-            {
-                  "name": "Agnes Queen’s Art Gallery",
-                  "text": "Művészeti galéria a Queen’s Egyetemen, változatos gyűjteménnyel.",
-                  "category": "museum",
-                  "coords": [
-                        -76.496264,
-                        44.225372
-                  ]
-            },
-            {
                   "name": "Ann Baillie Building",
                   "text": "Történelmi épület a Queen’s Egyetem campusán, múzeumként használják.",
                   "category": "museum",
                   "coords": [
                         -76.492282,
                         44.223781
-                  ]
-            },
-            {
-                  "name": "Grand Theatre",
-                  "text": "A Grand Theatre egy történelmi színház Kingstonban (Towers Kingston), a 20. század elejéről.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.486415,
-                        44.232086
-                  ]
-            },
-            {
-                  "name": "St. John's Anglican Church",
-                  "text": "A St. John's Anglican Church egy Keresztelő Szent Jánosnak szentelt anglikán templom Kingstonban (Towers Kingston).",
-                  "category": "religious",
-                  "coords": [
-                        -76.518659,
-                        44.222588
                   ]
             },
             {
@@ -17234,57 +16505,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Princess Street United Church",
-                  "text": "A Princess Street United Church egy egyesített templom a Princess Street-en, Kingstonban (Towers Kingston).",
-                  "category": "religious",
-                  "coords": [
-                        -76.500968,
-                        44.236404
-                  ]
-            },
-            {
                   "name": "First Baptist Church",
                   "text": "A First Baptist Church egy történelmi baptista templom Kingstonban (Towers Kingston).",
                   "category": "religious",
                   "coords": [
                         -76.487895,
                         44.230797
-                  ]
-            },
-            {
-                  "name": "Cathedral of Saint Mary of the Immaculate Conception",
-                  "text": "Római katolikus székesegyház Kingstonban, a Kingstoni Egyházmegye székhelye.",
-                  "category": "religious",
-                  "coords": [
-                        -76.489807,
-                        44.231266
-                  ]
-            },
-            {
-                  "name": "Wellington Street Theatre",
-                  "text": "A Wellington Street Theatre egy színház a Wellington Street-en, Kingstonban (Towers Kingston).",
-                  "category": "cultural",
-                  "coords": [
-                        -76.48403,
-                        44.229792
-                  ]
-            },
-            {
-                  "name": "St. John the Apostle Church",
-                  "text": "A St. John the Apostle Church egy János apostolnak szentelt katolikus templom Kingstonban (Towers Kingston).",
-                  "category": "religious",
-                  "coords": [
-                        -76.489543,
-                        44.23907
-                  ]
-            },
-            {
-                  "name": "St. James' Anglican Church",
-                  "text": "A St. James' Anglican Church egy Szent Jakabnak szentelt anglikán templom Kingstonban (Towers Kingston).",
-                  "category": "religious",
-                  "coords": [
-                        -76.491452,
-                        44.227298
                   ]
             },
             {
@@ -17297,24 +16523,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anglin Bay",
-                  "text": "Az Anglin Bay egy öböl az Ontario-tó partján, Kingstonban (Towers Kingston).",
-                  "category": "landmark",
-                  "coords": [
-                        -76.479382,
-                        44.23565
-                  ]
-            },
-            {
-                  "name": "Shoal Tower",
-                  "text": "Egy Martello-torony egy zátonyon a kingstoni kikötőben.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.478138,
-                        44.228821
-                  ]
-            },
-            {
                   "name": "Lake Ontario Park",
                   "text": "A Lake Ontario Park egy park az Ontario-tó partján, Kingstonban (Towers Kingston).",
                   "category": "park",
@@ -17324,75 +16532,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Martello Alley",
-                  "text": "Egy múzeum egy helyreállított sikátorban Towers Kingstonban, helyi történelemmel.",
-                  "category": "museum",
-                  "coords": [
-                        -76.481992,
-                        44.231899
-                  ]
-            },
-            {
-                  "name": "Miller Museum of Geology",
-                  "text": "Egy geológiai múzeum Towers Kingstonban, ásvány- és fosszília-gyűjteményekkel.",
-                  "category": "museum",
-                  "coords": [
-                        -76.492587,
-                        44.227382
-                  ]
-            },
-            {
-                  "name": "Canada's Penitentiary Museum",
-                  "text": "Egy múzeum Towers Kingstonban, amely a kanadai szövetségi börtönök történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -76.513778,
-                        44.221679
-                  ]
-            },
-            {
                   "name": "PumpHouse Museum",
                   "text": "Múzeum egy történelmi vízszivattyú-telepen Towers Kingstonban.",
                   "category": "museum",
                   "coords": [
                         -76.484726,
                         44.224135
-                  ]
-            },
-            {
-                  "name": "Hillcroft Plaque",
-                  "text": "Történelmi emléktábla a korábbi Hillcroft-birtok helyén Towers Kingstonban.",
-                  "category": "historical",
-                  "coords": [
-                        -76.506039,
-                        44.226305
-                  ]
-            },
-            {
-                  "name": "Market Street Battery",
-                  "text": "Történelmi tüzérségi üteg a Market Streeten, Towers Kingstonban.",
-                  "category": "fortress",
-                  "coords": [
-                        -76.47946,
-                        44.229438
-                  ]
-            },
-            {
-                  "name": "Summerhill Plaque",
-                  "text": "Emléktábla Summerhill történelméről Towers Kingstonban.",
-                  "category": "historical",
-                  "coords": [
-                        -76.492374,
-                        44.225728
-                  ]
-            },
-            {
-                  "name": "Vacant",
-                  "text": "Egy beépítetlen történelmi terület Towers Kingstonban, táblával jelölve.",
-                  "category": "historical",
-                  "coords": [
-                        -76.498177,
-                        44.235751
                   ]
             },
             {
@@ -17412,15 +16557,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                         -76.521934,
                         44.246554
                   ]
-            },
-            {
-                  "name": "Isabel Bader Centre for Performing Arts",
-                  "text": "Isabel Bader philanthropistáról elnevezett előadóművészeti központ Towers Kingstonban.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.506521,
-                        44.22035
-                  ]
             }
       ],
       "ro": [
@@ -17434,111 +16570,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bellevue House",
-                  "text": "Muzeu-casă istorică care a fost reședința lui Sir John A. Macdonald.",
-                  "category": "museum",
-                  "coords": [
-                        -76.504105,
-                        44.223021
-                  ]
-            },
-            {
-                  "name": "Marine Museum of the Great Lakes at Kingston",
-                  "text": "Muzeu dedicat istoriei maritime și construcțiilor navale a Marilor Lacuri.",
-                  "category": "museum",
-                  "coords": [
-                        -76.482957,
-                        44.2253
-                  ]
-            },
-            {
-                  "name": "Kingston City Hall",
-                  "text": "O primărie istorică neoclasică construită la mijlocul secolului al XIX-lea.",
-                  "category": "historical",
-                  "coords": [
-                        -76.480497,
-                        44.229922
-                  ]
-            },
-            {
-                  "name": "Beth Israel Congregation",
-                  "text": "Sinagogă istorică în Kingston (Ontario) de la începutul secolului al XX-lea.",
-                  "category": "religious",
-                  "coords": [
-                        -76.505242,
-                        44.225339
-                  ]
-            },
-            {
-                  "name": "St. Andrew's Presbyterian Church",
-                  "text": "Biserică istorică din piatră în centrul orașului Kingston, Ontario.",
-                  "category": "religious",
-                  "coords": [
-                        -76.489464,
-                        44.233021
-                  ]
-            },
-            {
-                  "name": "Chalmers United Church",
-                  "text": "Biserica United Church în Kingston, cu un turn distinctiv.",
-                  "category": "religious",
-                  "coords": [
-                        -76.490629,
-                        44.229238
-                  ]
-            },
-            {
-                  "name": "St. George's Cathedral",
-                  "text": "Catedrală anglicană în Kingston, sediul Diecezei de Ontario.",
-                  "category": "religious",
-                  "coords": [
-                        -76.483008,
-                        44.22944
-                  ]
-            },
-            {
-                  "name": "Kingston Penitentiary",
-                  "text": "Fostă închisoare de maximă securitate deschisă în 1835, acum muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        -76.513473,
-                        44.219367
-                  ]
-            },
-            {
-                  "name": "Agnes Queen’s Art Gallery",
-                  "text": "Galerie de artă la Queen’s University, cu o colecție diversă.",
-                  "category": "museum",
-                  "coords": [
-                        -76.496264,
-                        44.225372
-                  ]
-            },
-            {
                   "name": "Ann Baillie Building",
                   "text": "O clădire istorică pe campusul Queen’s University, folosită ca muzeu.",
                   "category": "museum",
                   "coords": [
                         -76.492282,
                         44.223781
-                  ]
-            },
-            {
-                  "name": "Grand Theatre",
-                  "text": "Grand Theatre din Kingston (Towers Kingston) este un teatru istoric de la începutul secolului al XX-lea.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.486415,
-                        44.232086
-                  ]
-            },
-            {
-                  "name": "St. John's Anglican Church",
-                  "text": "Biserica Anglicană Sf. Ioan din Kingston (Towers Kingston) este dedicată Sfântului Ioan Botezătorul.",
-                  "category": "religious",
-                  "coords": [
-                        -76.518659,
-                        44.222588
                   ]
             },
             {
@@ -17551,57 +16588,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Princess Street United Church",
-                  "text": "Princess Street United Church din Kingston (Towers Kingston) este o biserică unită pe Princess Street.",
-                  "category": "religious",
-                  "coords": [
-                        -76.500968,
-                        44.236404
-                  ]
-            },
-            {
                   "name": "First Baptist Church",
                   "text": "First Baptist Church din Kingston (Towers Kingston) este o biserică baptistă istorică.",
                   "category": "religious",
                   "coords": [
                         -76.487895,
                         44.230797
-                  ]
-            },
-            {
-                  "name": "Cathedral of Saint Mary of the Immaculate Conception",
-                  "text": "Catedrală romano-catolică în Kingston, sediul Diecezei de Kingston.",
-                  "category": "religious",
-                  "coords": [
-                        -76.489807,
-                        44.231266
-                  ]
-            },
-            {
-                  "name": "Wellington Street Theatre",
-                  "text": "Wellington Street Theatre din Kingston (Towers Kingston) este un teatru pe Wellington Street.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.48403,
-                        44.229792
-                  ]
-            },
-            {
-                  "name": "St. John the Apostle Church",
-                  "text": "Biserica Sf. Ioan Apostolul din Kingston (Towers Kingston) este dedicată Sfântului Ioan Apostolul.",
-                  "category": "religious",
-                  "coords": [
-                        -76.489543,
-                        44.23907
-                  ]
-            },
-            {
-                  "name": "St. James' Anglican Church",
-                  "text": "Biserica Anglicană Sf. Iacob din Kingston (Towers Kingston) este dedicată Sfântului Iacob.",
-                  "category": "religious",
-                  "coords": [
-                        -76.491452,
-                        44.227298
                   ]
             },
             {
@@ -17614,24 +16606,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anglin Bay",
-                  "text": "Anglin Bay din Kingston (Towers Kingston) este un golf pe Lacul Ontario.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.479382,
-                        44.23565
-                  ]
-            },
-            {
-                  "name": "Shoal Tower",
-                  "text": "Un turn Martello situat pe un banc de nisip în portul Kingston.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.478138,
-                        44.228821
-                  ]
-            },
-            {
                   "name": "Lake Ontario Park",
                   "text": "Lake Ontario Park din Kingston (Towers Kingston) este un parc pe malul Lacului Ontario.",
                   "category": "park",
@@ -17641,75 +16615,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Martello Alley",
-                  "text": "Un muzeu într-o alee restaurată în Towers Kingston cu istorie locală.",
-                  "category": "museum",
-                  "coords": [
-                        -76.481992,
-                        44.231899
-                  ]
-            },
-            {
-                  "name": "Miller Museum of Geology",
-                  "text": "Un muzeu de geologie în Towers Kingston cu colecții de minerale și fosile.",
-                  "category": "museum",
-                  "coords": [
-                        -76.492587,
-                        44.227382
-                  ]
-            },
-            {
-                  "name": "Canada's Penitentiary Museum",
-                  "text": "Un muzeu în Towers Kingston care documentează istoria penitenciarelor federale canadiene.",
-                  "category": "museum",
-                  "coords": [
-                        -76.513778,
-                        44.221679
-                  ]
-            },
-            {
                   "name": "PumpHouse Museum",
                   "text": "Muzeu într-o stație istorică de pompare a apei din Towers Kingston.",
                   "category": "museum",
                   "coords": [
                         -76.484726,
                         44.224135
-                  ]
-            },
-            {
-                  "name": "Hillcroft Plaque",
-                  "text": "Plașă comemorativă istorică la locul fostei moșii Hillcroft din Towers Kingston.",
-                  "category": "historical",
-                  "coords": [
-                        -76.506039,
-                        44.226305
-                  ]
-            },
-            {
-                  "name": "Market Street Battery",
-                  "text": "Baterie de artilerie istorică pe Market Street în Towers Kingston.",
-                  "category": "fortress",
-                  "coords": [
-                        -76.47946,
-                        44.229438
-                  ]
-            },
-            {
-                  "name": "Summerhill Plaque",
-                  "text": "Plașă comemorativă a istoriei Summerhill din Towers Kingston.",
-                  "category": "historical",
-                  "coords": [
-                        -76.492374,
-                        44.225728
-                  ]
-            },
-            {
-                  "name": "Vacant",
-                  "text": "Un teren istoric neconstruit din Towers Kingston, marcat cu o placă.",
-                  "category": "historical",
-                  "coords": [
-                        -76.498177,
-                        44.235751
                   ]
             },
             {
@@ -17729,15 +16640,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                         -76.521934,
                         44.246554
                   ]
-            },
-            {
-                  "name": "Isabel Bader Centre for Performing Arts",
-                  "text": "Un centru de arte performative numit după filantropa Isabel Bader din Towers Kingston.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.506521,
-                        44.22035
-                  ]
             }
       ],
       "en": [
@@ -17751,111 +16653,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bellevue House",
-                  "text": "Historic house museum that was the residence of Sir John A. Macdonald.",
-                  "category": "museum",
-                  "coords": [
-                        -76.504105,
-                        44.223021
-                  ]
-            },
-            {
-                  "name": "Marine Museum of the Great Lakes at Kingston",
-                  "text": "Museum showcasing the maritime history and shipbuilding of the Great Lakes.",
-                  "category": "museum",
-                  "coords": [
-                        -76.482957,
-                        44.2253
-                  ]
-            },
-            {
-                  "name": "Kingston City Hall",
-                  "text": "A historic neoclassical city hall built in the mid-19th century.",
-                  "category": "historical",
-                  "coords": [
-                        -76.480497,
-                        44.229922
-                  ]
-            },
-            {
-                  "name": "Beth Israel Congregation",
-                  "text": "Historic synagogue in Kingston, Ontario from early 20th century.",
-                  "category": "religious",
-                  "coords": [
-                        -76.505242,
-                        44.225339
-                  ]
-            },
-            {
-                  "name": "St. Andrew's Presbyterian Church",
-                  "text": "Historic stone church in downtown Kingston, Ontario.",
-                  "category": "religious",
-                  "coords": [
-                        -76.489464,
-                        44.233021
-                  ]
-            },
-            {
-                  "name": "Chalmers United Church",
-                  "text": "United Church in Kingston with a distinctive bell tower.",
-                  "category": "religious",
-                  "coords": [
-                        -76.490629,
-                        44.229238
-                  ]
-            },
-            {
-                  "name": "St. George's Cathedral",
-                  "text": "Anglican cathedral in Kingston, seat of the Diocese of Ontario.",
-                  "category": "religious",
-                  "coords": [
-                        -76.483008,
-                        44.22944
-                  ]
-            },
-            {
-                  "name": "Kingston Penitentiary",
-                  "text": "Former maximum security prison that opened in 1835, now a museum.",
-                  "category": "museum",
-                  "coords": [
-                        -76.513473,
-                        44.219367
-                  ]
-            },
-            {
-                  "name": "Agnes Queen’s Art Gallery",
-                  "text": "Art gallery at Queen's University featuring a diverse collection.",
-                  "category": "museum",
-                  "coords": [
-                        -76.496264,
-                        44.225372
-                  ]
-            },
-            {
                   "name": "Ann Baillie Building",
                   "text": "A historic building on Queen's University campus used as a museum.",
                   "category": "museum",
                   "coords": [
                         -76.492282,
                         44.223781
-                  ]
-            },
-            {
-                  "name": "Grand Theatre",
-                  "text": "Grand Theatre in Kingston (Towers Kingston) is a historic theatre from the early 20th century.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.486415,
-                        44.232086
-                  ]
-            },
-            {
-                  "name": "St. John's Anglican Church",
-                  "text": "St. John's Anglican Church in Kingston (Towers Kingston) is an Anglican church dedicated to John the Baptist.",
-                  "category": "religious",
-                  "coords": [
-                        -76.518659,
-                        44.222588
                   ]
             },
             {
@@ -17868,57 +16671,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Princess Street United Church",
-                  "text": "Princess Street United Church in Kingston (Towers Kingston) is a United church on Princess Street.",
-                  "category": "religious",
-                  "coords": [
-                        -76.500968,
-                        44.236404
-                  ]
-            },
-            {
                   "name": "First Baptist Church",
                   "text": "First Baptist Church in Kingston (Towers Kingston) is a historic Baptist church.",
                   "category": "religious",
                   "coords": [
                         -76.487895,
                         44.230797
-                  ]
-            },
-            {
-                  "name": "Cathedral of Saint Mary of the Immaculate Conception",
-                  "text": "Roman Catholic cathedral in Kingston, seat of the Diocese of Kingston.",
-                  "category": "religious",
-                  "coords": [
-                        -76.489807,
-                        44.231266
-                  ]
-            },
-            {
-                  "name": "Wellington Street Theatre",
-                  "text": "Wellington Street Theatre in Kingston (Towers Kingston) is a theatre on Wellington Street.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.48403,
-                        44.229792
-                  ]
-            },
-            {
-                  "name": "St. John the Apostle Church",
-                  "text": "St. John the Apostle Church in Kingston (Towers Kingston) is a Catholic church dedicated to John the Apostle.",
-                  "category": "religious",
-                  "coords": [
-                        -76.489543,
-                        44.23907
-                  ]
-            },
-            {
-                  "name": "St. James' Anglican Church",
-                  "text": "St. James' Anglican Church in Kingston (Towers Kingston) is an Anglican church dedicated to Saint James.",
-                  "category": "religious",
-                  "coords": [
-                        -76.491452,
-                        44.227298
                   ]
             },
             {
@@ -17931,24 +16689,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anglin Bay",
-                  "text": "Anglin Bay in Kingston (Towers Kingston) is a bay on Lake Ontario.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.479382,
-                        44.23565
-                  ]
-            },
-            {
-                  "name": "Shoal Tower",
-                  "text": "A Martello tower located on a shoal in Kingston harbour.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.478138,
-                        44.228821
-                  ]
-            },
-            {
                   "name": "Lake Ontario Park",
                   "text": "Lake Ontario Park in Kingston (Towers Kingston) is a park on the shore of Lake Ontario.",
                   "category": "park",
@@ -17958,75 +16698,12 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Martello Alley",
-                  "text": "A museum in a restored alleyway in Towers Kingston featuring local history.",
-                  "category": "museum",
-                  "coords": [
-                        -76.481992,
-                        44.231899
-                  ]
-            },
-            {
-                  "name": "Miller Museum of Geology",
-                  "text": "A geology museum in Towers Kingston with mineral and fossil collections.",
-                  "category": "museum",
-                  "coords": [
-                        -76.492587,
-                        44.227382
-                  ]
-            },
-            {
-                  "name": "Canada's Penitentiary Museum",
-                  "text": "A museum in Towers Kingston documenting the history of Canada's federal penitentiaries.",
-                  "category": "museum",
-                  "coords": [
-                        -76.513778,
-                        44.221679
-                  ]
-            },
-            {
                   "name": "PumpHouse Museum",
                   "text": "Museum housed in a historic water pumping station in Towers Kingston.",
                   "category": "museum",
                   "coords": [
                         -76.484726,
                         44.224135
-                  ]
-            },
-            {
-                  "name": "Hillcroft Plaque",
-                  "text": "Historical plaque marking the site of the former Hillcroft estate in Towers Kingston.",
-                  "category": "historical",
-                  "coords": [
-                        -76.506039,
-                        44.226305
-                  ]
-            },
-            {
-                  "name": "Market Street Battery",
-                  "text": "Historic artillery battery on Market Street in Towers Kingston.",
-                  "category": "fortress",
-                  "coords": [
-                        -76.47946,
-                        44.229438
-                  ]
-            },
-            {
-                  "name": "Summerhill Plaque",
-                  "text": "Plaque commemorating the history of Summerhill in Towers Kingston.",
-                  "category": "historical",
-                  "coords": [
-                        -76.492374,
-                        44.225728
-                  ]
-            },
-            {
-                  "name": "Vacant",
-                  "text": "A vacant historical site in Towers Kingston, marked by a plaque.",
-                  "category": "historical",
-                  "coords": [
-                        -76.498177,
-                        44.235751
                   ]
             },
             {
@@ -18045,15 +16722,6 @@ export const poiExtraCanadaHistoryV2: POI[] = [
                   "coords": [
                         -76.521934,
                         44.246554
-                  ]
-            },
-            {
-                  "name": "Isabel Bader Centre for Performing Arts",
-                  "text": "A performing arts centre named after philanthropist Isabel Bader in Towers Kingston.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.506521,
-                        44.22035
                   ]
             }
       ]

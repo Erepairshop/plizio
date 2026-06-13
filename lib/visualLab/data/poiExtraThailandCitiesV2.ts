@@ -479,15 +479,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saint Vladimir Orthodox Church",
-                  "text": "Eine orthodoxe Kirche, die der Gemeinde in Chiang Mai dient.",
-                  "category": "religious",
-                  "coords": [
-                        98.997269,
-                        18.773503
-                  ]
-            },
-            {
                   "name": "Wat Phra Singh",
                   "text": "Ein bedeutender Tempelkomplex, der das verehrte Phra-Buddha-Sihing-Bild beherbergt.",
                   "category": "religious",
@@ -695,15 +686,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Hua Fai",
-                  "text": "Ein ruhiger Nachbarschaftstempel, der Raum für lokales Gebet bietet.",
-                  "category": "religious",
-                  "coords": [
-                        98.993585,
-                        18.773568
-                  ]
-            },
-            {
                   "name": "Chiang Mai Samakkhi Charity Foundation",
                   "text": "Eine buddhistische Wohltätigkeitsstiftung in der Altstadt von Chiang Mai.",
                   "category": "religious",
@@ -764,15 +746,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   "coords": [
                         98.988636,
                         18.802565
-                  ]
-            },
-            {
-                  "name": "Wat Yang Kuang",
-                  "text": "Ein historischer buddhistischer Tempel, der vor kurzem restauriert wurde.",
-                  "category": "religious",
-                  "coords": [
-                        98.989084,
-                        18.775809
                   ]
             },
             {
@@ -928,15 +901,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   "coords": [
                         98.98878,
                         18.796325
-                  ]
-            },
-            {
-                  "name": "Saint Vladimir Orthodox Church",
-                  "text": "Ortodox templom, amely a csiangmaji közösséget szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        98.997269,
-                        18.773503
                   ]
             },
             {
@@ -1147,15 +1111,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Hua Fai",
-                  "text": "Csendes környékbeli templom, amely helyet biztosít a helyi hitéletnek.",
-                  "category": "religious",
-                  "coords": [
-                        98.993585,
-                        18.773568
-                  ]
-            },
-            {
                   "name": "Chiang Mai Samakkhi Charity Foundation",
                   "text": "Egy buddhista jótékonysági alapítvány Chiang Mai óvárosában.",
                   "category": "religious",
@@ -1216,15 +1171,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   "coords": [
                         98.988636,
                         18.802565
-                  ]
-            },
-            {
-                  "name": "Wat Yang Kuang",
-                  "text": "Történelmi buddhista templom, amely a közelmúltban restauráláson esett át.",
-                  "category": "religious",
-                  "coords": [
-                        98.989084,
-                        18.775809
                   ]
             },
             {
@@ -1380,15 +1326,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   "coords": [
                         98.98878,
                         18.796325
-                  ]
-            },
-            {
-                  "name": "Saint Vladimir Orthodox Church",
-                  "text": "Un lăcaș de cult ortodox care deservește comunitatea din Chiang Mai.",
-                  "category": "religious",
-                  "coords": [
-                        98.997269,
-                        18.773503
                   ]
             },
             {
@@ -1599,15 +1536,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Hua Fai",
-                  "text": "Un templu de cartier liniștit care oferă un spațiu pentru închinarea locală.",
-                  "category": "religious",
-                  "coords": [
-                        98.993585,
-                        18.773568
-                  ]
-            },
-            {
                   "name": "Chiang Mai Samakkhi Charity Foundation",
                   "text": "O fundație caritabilă budistă în orașul vechi din Chiang Mai.",
                   "category": "religious",
@@ -1668,15 +1596,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   "coords": [
                         98.988636,
                         18.802565
-                  ]
-            },
-            {
-                  "name": "Wat Yang Kuang",
-                  "text": "Un templu budist istoric care a fost restaurat recent.",
-                  "category": "religious",
-                  "coords": [
-                        98.989084,
-                        18.775809
                   ]
             },
             {
@@ -1772,15 +1691,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "San Pa Koi Mosque",
-                  "text": "A place of worship for the local Muslim community in Chiang Mai.",
-                  "category": "religious",
-                  "coords": [
-                        99.007032,
-                        18.792073
-                  ]
-            },
-            {
                   "name": "Baan Haw Mosque",
                   "text": "One of the largest mosques in Chiang Mai, built by the Chin Haw people.",
                   "category": "religious",
@@ -1835,30 +1745,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saint Vladimir Orthodox Church",
-                  "text": "An Orthodox place of worship serving the community in Chiang Mai.",
-                  "category": "religious",
-                  "coords": [
-                        98.997269,
-                        18.773503
-                  ]
-            },
-            {
                   "name": "Wat Phra Singh",
                   "text": "A significant temple complex housing the revered Phra Buddha Sihing image.",
                   "category": "religious",
                   "coords": [
                         98.981382,
                         18.788585
-                  ]
-            },
-            {
-                  "name": "Sacred Heart Church",
-                  "text": "A Catholic church and place of worship located in Chiang Mai.",
-                  "category": "religious",
-                  "coords": [
-                        99.003123,
-                        18.775066
                   ]
             },
             {
@@ -1904,15 +1796,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   "coords": [
                         98.991232,
                         18.782162
-                  ]
-            },
-            {
-                  "name": "Wat Saimoonmuang",
-                  "text": "A local Buddhist temple providing a place for worship and reflection.",
-                  "category": "religious",
-                  "coords": [
-                        98.992431,
-                        18.782625
                   ]
             },
             {
@@ -2051,33 +1934,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Hua Fai",
-                  "text": "A quiet neighborhood temple offering a space for local worship.",
-                  "category": "religious",
-                  "coords": [
-                        98.993585,
-                        18.773568
-                  ]
-            },
-            {
-                  "name": "Chiangmai Samakkee Charity Foundation",
-                  "text": "A Buddhist charity foundation in the old city of Chiang Mai.",
-                  "category": "religious",
-                  "coords": [
-                        99.001433,
-                        18.78344
-                  ]
-            },
-            {
-                  "name": "Wat Chaimongkol",
-                  "text": "A popular temple located on the banks of the Ping River.",
-                  "category": "religious",
-                  "coords": [
-                        99.004624,
-                        18.78067
-                  ]
-            },
-            {
                   "name": "Wat Pa Phrao Nai",
                   "text": "A traditional Buddhist temple located in a peaceful area of the city.",
                   "category": "religious",
@@ -2120,15 +1976,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   "coords": [
                         98.988636,
                         18.802565
-                  ]
-            },
-            {
-                  "name": "Wat Yang Kuang",
-                  "text": "A historic Buddhist temple that has undergone recent restoration.",
-                  "category": "religious",
-                  "coords": [
-                        98.989084,
-                        18.775809
                   ]
             },
             {
@@ -3174,24 +3021,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Art in Paradise",
-                  "text": "Ein interaktives Museum für optische Täuschungen und 3D-Bilder.",
-                  "category": "museum",
-                  "coords": [
-                        100.889885,
-                        12.948239
-                  ]
-            },
-            {
-                  "name": "Tiffany's Show",
-                  "text": "Ein renommiertes Theater in Pattaya, bekannt für seine Cabaret-Aufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        100.887591,
-                        12.94901
-                  ]
-            },
-            {
                   "name": "Amazing Art",
                   "text": "Ein Museum mit interaktiven 3D-Kunstwerken zum Fotografieren.",
                   "category": "museum",
@@ -3389,24 +3218,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   "coords": [
                         100.856814,
                         12.915334
-                  ]
-            },
-            {
-                  "name": "Art in Paradise",
-                  "text": "Interaktív múzeum optikai csalódásokkal és 3D képekkel.",
-                  "category": "museum",
-                  "coords": [
-                        100.889885,
-                        12.948239
-                  ]
-            },
-            {
-                  "name": "Tiffany's Show",
-                  "text": "Neves színház Pattayában, amely kabaré-előadásairól ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        100.887591,
-                        12.94901
                   ]
             },
             {
@@ -3610,24 +3421,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Art in Paradise",
-                  "text": "Un muzeu interactiv pentru iluzii optice și imagini 3D.",
-                  "category": "museum",
-                  "coords": [
-                        100.889885,
-                        12.948239
-                  ]
-            },
-            {
-                  "name": "Tiffany's Show",
-                  "text": "Un teatru de renume în Pattaya, cunoscut pentru spectacolele sale de cabaret.",
-                  "category": "cultural",
-                  "coords": [
-                        100.887591,
-                        12.94901
-                  ]
-            },
-            {
                   "name": "Amazing Art",
                   "text": "Un muzeu cu opere de artă 3D interactive, ideale pentru fotografii.",
                   "category": "museum",
@@ -3825,24 +3618,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   "coords": [
                         100.856814,
                         12.915334
-                  ]
-            },
-            {
-                  "name": "Art in Paradise",
-                  "text": "An interactive museum for optical illusions and 3D paintings.",
-                  "category": "museum",
-                  "coords": [
-                        100.889885,
-                        12.948239
-                  ]
-            },
-            {
-                  "name": "Tiffany's Show",
-                  "text": "A renowned theatre in Pattaya known for its cabaret performances.",
-                  "category": "cultural",
-                  "coords": [
-                        100.887591,
-                        12.94901
                   ]
             },
             {
@@ -5524,48 +5299,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
     id: "ayutthaya-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Wat Ratchaphli",
-                  "text": "Eine archäologische Stätte in Ayutthaya, die Überreste eines historischen buddhistischen Tempels umfasst.",
-                  "category": "historical",
-                  "coords": [
-                        100.543292,
-                        14.34933
-                  ]
-            },
-            {
-                  "name": "Wat Phra Si Sanphet",
-                  "text": "Der wichtigste Tempel des ehemaligen königlichen Palastes in Ayutthaya, bekannt für seine drei großen Chedis.",
-                  "category": "historical",
-                  "coords": [
-                        100.558515,
-                        14.355926
-                  ]
-            },
-            {
-                  "name": "Wat Ratchaburana",
-                  "text": "Ein Tempel aus dem 15. Jahrhundert in Ayutthaya, berühmt für die in seiner Krypta entdeckten Goldschätze.",
-                  "category": "historical",
-                  "coords": [
-                        100.567292,
-                        14.358739
-                  ]
-            },
-            {
                   "name": "Wat Mahathat",
                   "text": "Ein historischer Tempel in Ayutthaya, bekannt für den im Wurzelwerk eines Baumes eingewachsenen Buddha-Kopf.",
                   "category": "historical",
                   "coords": [
                         100.567484,
                         14.357001
-                  ]
-            },
-            {
-                  "name": "Wihan Klaep",
-                  "text": "Eine archäologische Ausgrabungsstätte in Ayutthaya mit Ruinen eines antiken religiösen Gebäudes.",
-                  "category": "historical",
-                  "coords": [
-                        100.559432,
-                        14.354903
                   ]
             },
             {
@@ -5578,48 +5317,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chao Sam Phraya National Museum",
-                  "text": "Dieses Nationalmuseum in Ayutthaya beherbergt bedeutende Goldfunde und Artefakte aus der Geschichte des Königreichs.",
-                  "category": "museum",
-                  "coords": [
-                        100.56182,
-                        14.351189
-                  ]
-            },
-            {
-                  "name": "Wat Borom Phuttharam",
-                  "text": "Diese historische Stätte in Ayutthaya bewahrt die architektonischen Überreste eines ehemaligen buddhistischen Tempels.",
-                  "category": "historical",
-                  "coords": [
-                        100.561267,
-                        14.347677
-                  ]
-            },
-            {
                   "name": "Wat Chaiyaphum",
                   "text": "Eine antike Ruinenstätte in Ayutthaya, die Teil des reichen archäologischen Erbes der ehemaligen Hauptstadt ist.",
                   "category": "historical",
                   "coords": [
                         100.570088,
                         14.357272
-                  ]
-            },
-            {
-                  "name": "Wat Wang Chai",
-                  "text": "Überreste einer historischen Tempelanlage in der alten Königsstadt Ayutthaya.",
-                  "category": "historical",
-                  "coords": [
-                        100.549169,
-                        14.342113
-                  ]
-            },
-            {
-                  "name": "Wat Phlapphla Chai",
-                  "text": "Eine archäologische Stätte in Ayutthaya, die Einblicke in die sakrale Architektur der Vergangenheit bietet.",
-                  "category": "historical",
-                  "coords": [
-                        100.568114,
-                        14.360404
                   ]
             },
             {
@@ -5659,24 +5362,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wihan Phra Mongkhon Bophit",
-                  "text": "Diese prächtige Gebetshalle beherbergt eine der größten bronzenen Buddha-Statuen Thailands.",
-                  "category": "religious",
-                  "coords": [
-                        100.55771,
-                        14.354864
-                  ]
-            },
-            {
-                  "name": "Wat Intharam",
-                  "text": "Ein buddhistischer Tempel in Ayutthaya, der als Ort der Ruhe und des Gebets dient.",
-                  "category": "religious",
-                  "coords": [
-                        100.567875,
-                        14.365353
-                  ]
-            },
-            {
                   "name": "Diese aktive religiöse Stätte in Ayutthaya",
                   "text": "Diese aktive religiöse Stätte in Ayutthaya ist ein Zentrum für lokale gläubige Buddhisten.",
                   "category": "religious",
@@ -5695,30 +5380,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Pa Kho",
-                  "text": "Diese religiöse Anlage in Ayutthaya bietet Besuchern einen Einblick in die lokale buddhistische Praxis.",
-                  "category": "religious",
-                  "coords": [
-                        100.581431,
-                        14.374999
-                  ]
-            },
-            {
                   "name": "Ayothaya Floating Market",
                   "text": "Ein lebhafter schwimmender Markt in Ayutthaya, der traditionelles Kunsthandwerk, Speisen und kulturelle Vorführungen bietet.",
                   "category": "landmark",
                   "coords": [
                         100.593163,
                         14.35891
-                  ]
-            },
-            {
-                  "name": "Wat Thammikarat",
-                  "text": "Ein bedeutender historischer Tempel in Ayutthaya, der für seine liegende Buddha-Statue bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        100.561671,
-                        14.358726
                   ]
             },
             {
@@ -5794,15 +5461,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Phanom Yong",
-                  "text": "Diese religiöse Stätte in Ayutthaya zeichnet sich durch ihre traditionelle Architektur und lokale Bedeutung aus.",
-                  "category": "landmark",
-                  "coords": [
-                        100.551841,
-                        14.361982
-                  ]
-            },
-            {
                   "name": "Wat Sam Vihan",
                   "text": "Ein Tempel in Ayutthaya, der für seine historischen Gebäude und die spirituelle Atmosphäre bekannt ist.",
                   "category": "landmark",
@@ -5866,15 +5524,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Phutthaisawan",
-                  "text": "Ein historisch bedeutender Tempel mit einer markanten weißen Pagode am Ufer des Chao Phraya.",
-                  "category": "landmark",
-                  "coords": [
-                        100.558441,
-                        14.338946
-                  ]
-            },
-            {
                   "name": "Wat Ayothaya",
                   "text": "Eine sehenswerte religiöse Stätte, die Teil der reichen Geschichte von Ayutthaya ist.",
                   "category": "landmark",
@@ -5890,15 +5539,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   "coords": [
                         100.590408,
                         14.361252
-                  ]
-            },
-            {
-                  "name": "Wat Mondop",
-                  "text": "Eine weitere kulturelle Attraktion in Ayutthaya, die Einblicke in die thailändische Tempelkultur bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        100.575239,
-                        14.367428
                   ]
             },
             {
@@ -5965,15 +5605,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Queen Suriyothai Museum",
-                  "text": "Ein Museum in Ayutthaya, das der berühmten thailändischen Königin Suriyothai gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        100.547449,
-                        14.351959
-                  ]
-            },
-            {
                   "name": "Paniad Pavilion",
                   "text": "Ein historisches Gebäude in Ayutthaya, das früher als königlicher Elefantenkraal genutzt wurde.",
                   "category": "castle",
@@ -6021,48 +5652,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Wat Ratchaphli",
-                  "text": "Régészeti lelőhely Ayutthayában, amely egy történelmi buddhista templom maradványait foglalja magában.",
-                  "category": "historical",
-                  "coords": [
-                        100.543292,
-                        14.34933
-                  ]
-            },
-            {
-                  "name": "Wat Phra Si Sanphet",
-                  "text": "Az egykori királyi palota legfontosabb temploma Ayutthayában, három hatalmas csedijéről ismert.",
-                  "category": "historical",
-                  "coords": [
-                        100.558515,
-                        14.355926
-                  ]
-            },
-            {
-                  "name": "Wat Ratchaburana",
-                  "text": "15. századi templom Ayutthayában, amely a kriptájában talált aranykincsekről híres.",
-                  "category": "historical",
-                  "coords": [
-                        100.567292,
-                        14.358739
-                  ]
-            },
-            {
                   "name": "Wat Mahathat",
                   "text": "Történelmi templom Ayutthayában, amely a fagyökerek közé szorult Buddha-fejről híres.",
                   "category": "historical",
                   "coords": [
                         100.567484,
                         14.357001
-                  ]
-            },
-            {
-                  "name": "Wihan Klaep",
-                  "text": "Régészeti lelőhely Ayutthayában egy ókori vallási épület romjaival.",
-                  "category": "historical",
-                  "coords": [
-                        100.559432,
-                        14.354903
                   ]
             },
             {
@@ -6075,48 +5670,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chao Sam Phraya National Museum",
-                  "text": "Ez az ajutthajai nemzeti múzeum jelentős aranykincseket és a királyság történetéből származó műtárgyakat őriz.",
-                  "category": "museum",
-                  "coords": [
-                        100.56182,
-                        14.351189
-                  ]
-            },
-            {
-                  "name": "Wat Borom Phuttharam",
-                  "text": "Ez a történelmi helyszín Ajutthajában egy egykori buddhista templom építészeti maradványait őrzi.",
-                  "category": "historical",
-                  "coords": [
-                        100.561267,
-                        14.347677
-                  ]
-            },
-            {
                   "name": "Wat Chaiyaphum",
                   "text": "Egy ősi romterület Ajutthajában, amely az egykori főváros gazdag régészeti örökségének része.",
                   "category": "historical",
                   "coords": [
                         100.570088,
                         14.357272
-                  ]
-            },
-            {
-                  "name": "Wat Wang Chai",
-                  "text": "Egy történelmi templomkomplexum maradványai az ősi királyi városban, Ajutthajában.",
-                  "category": "historical",
-                  "coords": [
-                        100.549169,
-                        14.342113
-                  ]
-            },
-            {
-                  "name": "Wat Phlapphla Chai",
-                  "text": "Régészeti lelőhely Ajutthajában, amely betekintést nyújt a múlt szakrális építészetébe.",
-                  "category": "historical",
-                  "coords": [
-                        100.568114,
-                        14.360404
                   ]
             },
             {
@@ -6156,24 +5715,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wihan Phra Mongkhon Bophit",
-                  "text": "Ez a pompás imacsarnok Thaiföld egyik legnagyobb bronz Buddha-szobrának ad otthont.",
-                  "category": "religious",
-                  "coords": [
-                        100.55771,
-                        14.354864
-                  ]
-            },
-            {
-                  "name": "Wat Intharam",
-                  "text": "Egy buddhista templom Ajutthajában, amely a nyugalom és az ima helyszíneként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        100.567875,
-                        14.365353
-                  ]
-            },
-            {
                   "name": "Wat Phichai Songkhram",
                   "text": "Ez az aktív vallási helyszín Ajutthajában a helyi hívő buddhisták egyik központja.",
                   "category": "religious",
@@ -6192,30 +5733,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Pa Kho",
-                  "text": "Ez a vallási építmény Ajutthajában betekintést nyújt a látogatóknak a helyi buddhista gyakorlatokba.",
-                  "category": "religious",
-                  "coords": [
-                        100.581431,
-                        14.374999
-                  ]
-            },
-            {
                   "name": "Ayothaya Floating Market",
                   "text": "Egy élénk úszó piac Ajutthajában, amely hagyományos kézműves termékeket, ételeket és kulturális bemutatókat kínál.",
                   "category": "landmark",
                   "coords": [
                         100.593163,
                         14.35891
-                  ]
-            },
-            {
-                  "name": "Wat Thammikarat",
-                  "text": "Fontos történelmi templom Ajutthajában, amely a fekvő Buddha-szobráról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        100.561671,
-                        14.358726
                   ]
             },
             {
@@ -6264,15 +5787,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Choeng Tha",
-                  "text": "Egy történelmi templom Ajutthajában, amely közvetlenül a folyóparton fekszik és békés hangulatot áraszt.",
-                  "category": "landmark",
-                  "coords": [
-                        100.555631,
-                        14.361956
-                  ]
-            },
-            {
                   "name": "Wat Na Phra Men",
                   "text": "Ez a templom arról híres, hogy szinte sértetlenül vészelte át Ajutthaja pusztulását.",
                   "category": "landmark",
@@ -6288,15 +5802,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   "coords": [
                         100.548403,
                         14.35954
-                  ]
-            },
-            {
-                  "name": "Wat Phanom Yong",
-                  "text": "Ez a vallási helyszín Ajutthajában hagyományos építészetével és helyi jelentőségével tűnik ki.",
-                  "category": "landmark",
-                  "coords": [
-                        100.551841,
-                        14.361982
                   ]
             },
             {
@@ -6363,15 +5868,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Phutthaisawan",
-                  "text": "Történelmileg jelentős templom jellegzetes fehér pagodával a Chao Phraya partján.",
-                  "category": "landmark",
-                  "coords": [
-                        100.558441,
-                        14.338946
-                  ]
-            },
-            {
                   "name": "Wat Ayothaya",
                   "text": "Látványos vallási helyszín, amely Ajutthaja gazdag történelmének része.",
                   "category": "landmark",
@@ -6387,15 +5883,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   "coords": [
                         100.590408,
                         14.361252
-                  ]
-            },
-            {
-                  "name": "Wat Mondop",
-                  "text": "Egy másik kulturális látnivaló Ajutthajában, amely betekintést nyújt a thai templomi kultúrába.",
-                  "category": "landmark",
-                  "coords": [
-                        100.575239,
-                        14.367428
                   ]
             },
             {
@@ -6462,15 +5949,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Queen Suriyothai Museum",
-                  "text": "Múzeum Ajutthajában, amelyet a híres thai királynőnek, Szurijothainak szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        100.547449,
-                        14.351959
-                  ]
-            },
-            {
                   "name": "Paniad Pavilion",
                   "text": "Történelmi épület Ajutthajában, amelyet korábban királyi elefántkarámként használtak.",
                   "category": "castle",
@@ -6518,48 +5996,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Wat Ratchaphli",
-                  "text": "Un sit arheologic în Ayutthaya, cuprinzând vestigiile unui templu budist istoric.",
-                  "category": "historical",
-                  "coords": [
-                        100.543292,
-                        14.34933
-                  ]
-            },
-            {
-                  "name": "Wat Phra Si Sanphet",
-                  "text": "Cel mai important templu al fostului palat regal din Ayutthaya, cunoscut pentru cele trei mari chedi-uri ale sale.",
-                  "category": "historical",
-                  "coords": [
-                        100.558515,
-                        14.355926
-                  ]
-            },
-            {
-                  "name": "Wat Ratchaburana",
-                  "text": "Un templu din secolul al XV-lea în Ayutthaya, faimos pentru comorile de aur descoperite în cripta sa.",
-                  "category": "historical",
-                  "coords": [
-                        100.567292,
-                        14.358739
-                  ]
-            },
-            {
                   "name": "Wat Mahathat",
                   "text": "Un templu istoric în Ayutthaya, cunoscut pentru capul de Buddha încastrat în rădăcinile unui copac.",
                   "category": "historical",
                   "coords": [
                         100.567484,
                         14.357001
-                  ]
-            },
-            {
-                  "name": "Wihan Klaep",
-                  "text": "Un sit arheologic în Ayutthaya cu ruinele unei vechi clădiri religioase.",
-                  "category": "historical",
-                  "coords": [
-                        100.559432,
-                        14.354903
                   ]
             },
             {
@@ -6572,48 +6014,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chao Sam Phraya National Museum",
-                  "text": "Acest muzeu național din Ayutthaya găzduiește importante comori de aur și artefacte din istoria regatului.",
-                  "category": "museum",
-                  "coords": [
-                        100.56182,
-                        14.351189
-                  ]
-            },
-            {
-                  "name": "Wat Borom Phuttharam",
-                  "text": "Acest sit istoric din Ayutthaya păstrează vestigiile arhitecturale ale unui fost templu budist.",
-                  "category": "historical",
-                  "coords": [
-                        100.561267,
-                        14.347677
-                  ]
-            },
-            {
                   "name": "Wat Chaiyaphum",
                   "text": "Un sit antic de ruine din Ayutthaya, care face parte din bogata moștenire arheologică a fostei capitale.",
                   "category": "historical",
                   "coords": [
                         100.570088,
                         14.357272
-                  ]
-            },
-            {
-                  "name": "Wat Wang Chai",
-                  "text": "Rămășițele unui complex istoric de temple din vechiul oraș regal Ayutthaya.",
-                  "category": "historical",
-                  "coords": [
-                        100.549169,
-                        14.342113
-                  ]
-            },
-            {
-                  "name": "Wat Phlapphla Chai",
-                  "text": "Un sit arheologic din Ayutthaya care oferă o perspectivă asupra arhitecturii sacre din trecut.",
-                  "category": "historical",
-                  "coords": [
-                        100.568114,
-                        14.360404
                   ]
             },
             {
@@ -6653,24 +6059,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wihan Phra Mongkhon Bophit",
-                  "text": "Această sală de rugăciune magnifică adăpostește una dintre cele mai mari statui de bronz ale lui Buddha din Thailanda.",
-                  "category": "religious",
-                  "coords": [
-                        100.55771,
-                        14.354864
-                  ]
-            },
-            {
-                  "name": "Wat Intharam",
-                  "text": "Un templu budist din Ayutthaya care servește ca loc de liniște și rugăciune.",
-                  "category": "religious",
-                  "coords": [
-                        100.567875,
-                        14.365353
-                  ]
-            },
-            {
                   "name": "Acest sit religios activ din Ayutthaya",
                   "text": "Acest sit religios activ din Ayutthaya este un centru pentru credincioșii budiști locali.",
                   "category": "religious",
@@ -6689,30 +6077,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Pa Kho",
-                  "text": "Acest complex religios din Ayutthaya oferă vizitatorilor o perspectivă asupra practicii budiste locale.",
-                  "category": "religious",
-                  "coords": [
-                        100.581431,
-                        14.374999
-                  ]
-            },
-            {
                   "name": "Ayothaya Floating Market",
                   "text": "O piață plutitoare plină de viață din Ayutthaya, care oferă meșteșuguri tradiționale, mâncare și spectacole culturale.",
                   "category": "landmark",
                   "coords": [
                         100.593163,
                         14.35891
-                  ]
-            },
-            {
-                  "name": "Wat Thammikarat",
-                  "text": "Un templu istoric important din Ayutthaya, cunoscut pentru statuia sa cu Buddha culcat.",
-                  "category": "landmark",
-                  "coords": [
-                        100.561671,
-                        14.358726
                   ]
             },
             {
@@ -6761,15 +6131,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Choeng Tha",
-                  "text": "Un templu istoric din Ayutthaya, situat direct pe malul râului, oferind o atmosferă liniștită.",
-                  "category": "landmark",
-                  "coords": [
-                        100.555631,
-                        14.361956
-                  ]
-            },
-            {
                   "name": "Acest templu",
                   "text": "Acest templu este faimos pentru faptul că a supraviețuit distrugerii orașului Ayutthaya aproape intact.",
                   "category": "landmark",
@@ -6785,15 +6146,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   "coords": [
                         100.548403,
                         14.35954
-                  ]
-            },
-            {
-                  "name": "Wat Phanom Yong",
-                  "text": "Acest sit religios din Ayutthaya se remarcă prin arhitectura sa tradițională și semnificația locală.",
-                  "category": "landmark",
-                  "coords": [
-                        100.551841,
-                        14.361982
                   ]
             },
             {
@@ -6860,15 +6212,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Phutthaisawan",
-                  "text": "Un templu important din punct de vedere istoric, cu o pagodă albă distinctivă pe malul râului Chao Phraya.",
-                  "category": "landmark",
-                  "coords": [
-                        100.558441,
-                        14.338946
-                  ]
-            },
-            {
                   "name": "Wat Ayothaya",
                   "text": "Un sit religios care merită vizitat, făcând parte din istoria bogată a Ayutthayei.",
                   "category": "landmark",
@@ -6884,15 +6227,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   "coords": [
                         100.590408,
                         14.361252
-                  ]
-            },
-            {
-                  "name": "Wat Mondop",
-                  "text": "O altă atracție culturală din Ayutthaya care oferă perspective asupra culturii templiere thailandeze.",
-                  "category": "landmark",
-                  "coords": [
-                        100.575239,
-                        14.367428
                   ]
             },
             {
@@ -6959,15 +6293,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Queen Suriyothai Museum",
-                  "text": "Un muzeu din Ayutthaya dedicat celebrei regine thailandeze Suriyothai.",
-                  "category": "museum",
-                  "coords": [
-                        100.547449,
-                        14.351959
-                  ]
-            },
-            {
                   "name": "Paniad Pavilion",
                   "text": "O clădire istorică din Ayutthaya, folosită anterior ca țarc regal pentru elefanți.",
                   "category": "castle",
@@ -7015,48 +6340,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Wat Ratchaphli",
-                  "text": "An archaeological site in Ayutthaya comprising the remains of a historic Buddhist temple.",
-                  "category": "historical",
-                  "coords": [
-                        100.543292,
-                        14.34933
-                  ]
-            },
-            {
-                  "name": "Wat Phra Si Sanphet",
-                  "text": "The most important temple of the former royal palace in Ayutthaya, famous for its three large chedis.",
-                  "category": "historical",
-                  "coords": [
-                        100.558515,
-                        14.355926
-                  ]
-            },
-            {
-                  "name": "Wat Ratchaburana",
-                  "text": "A 15th-century temple in Ayutthaya, famous for the gold treasures discovered in its crypt.",
-                  "category": "historical",
-                  "coords": [
-                        100.567292,
-                        14.358739
-                  ]
-            },
-            {
                   "name": "Wat Maha That",
                   "text": "A historic temple in Ayutthaya, famous for the Buddha head entwined in tree roots.",
                   "category": "historical",
                   "coords": [
                         100.567484,
                         14.357001
-                  ]
-            },
-            {
-                  "name": "Wihan Klaep",
-                  "text": "An archaeological site in Ayutthaya featuring the ruins of an ancient religious building.",
-                  "category": "historical",
-                  "coords": [
-                        100.559432,
-                        14.354903
                   ]
             },
             {
@@ -7069,48 +6358,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chao Sam Phraya National Museum",
-                  "text": "This national museum in Ayutthaya houses significant gold treasures and artifacts from the kingdom's history.",
-                  "category": "museum",
-                  "coords": [
-                        100.56182,
-                        14.351189
-                  ]
-            },
-            {
-                  "name": "Wat Borom Phuttharam",
-                  "text": "This historical site in Ayutthaya preserves the architectural remains of a former Buddhist temple.",
-                  "category": "historical",
-                  "coords": [
-                        100.561267,
-                        14.347677
-                  ]
-            },
-            {
                   "name": "Wat Chaiyaphum",
                   "text": "An ancient ruin site in Ayutthaya that is part of the former capital's rich archaeological heritage.",
                   "category": "historical",
                   "coords": [
                         100.570088,
                         14.357272
-                  ]
-            },
-            {
-                  "name": "Wat Wang Chai",
-                  "text": "Remains of a historical temple complex in the ancient royal city of Ayutthaya.",
-                  "category": "historical",
-                  "coords": [
-                        100.549169,
-                        14.342113
-                  ]
-            },
-            {
-                  "name": "Wat Phlapphla Chai",
-                  "text": "An archaeological site in Ayutthaya providing insight into the sacred architecture of the past.",
-                  "category": "historical",
-                  "coords": [
-                        100.568114,
-                        14.360404
                   ]
             },
             {
@@ -7141,33 +6394,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Catholic Church of Saint Joseph",
-                  "text": "A historic Catholic church on the riverbank, testifying to the early European presence in Ayutthaya.",
-                  "category": "religious",
-                  "coords": [
-                        100.550499,
-                        14.338682
-                  ]
-            },
-            {
-                  "name": "Wihan Phra Mongkhon Bophit",
-                  "text": "This magnificent prayer hall houses one of Thailand's largest bronze Buddha statues.",
-                  "category": "religious",
-                  "coords": [
-                        100.55771,
-                        14.354864
-                  ]
-            },
-            {
-                  "name": "Wat Intharam",
-                  "text": "A Buddhist temple in Ayutthaya serving as a place of tranquility and prayer.",
-                  "category": "religious",
-                  "coords": [
-                        100.567875,
-                        14.365353
-                  ]
-            },
-            {
                   "name": "Wat Phichai Songkhram",
                   "text": "This active religious site in Ayutthaya is a center for local devout Buddhists.",
                   "category": "religious",
@@ -7186,39 +6412,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Pa Kho",
-                  "text": "This religious complex in Ayutthaya offers visitors an insight into local Buddhist practice.",
-                  "category": "religious",
-                  "coords": [
-                        100.581431,
-                        14.374999
-                  ]
-            },
-            {
                   "name": "Ayothaya Floating Market",
                   "text": "A lively floating market in Ayutthaya offering traditional crafts, food, and cultural performances.",
                   "category": "landmark",
                   "coords": [
                         100.593163,
                         14.35891
-                  ]
-            },
-            {
-                  "name": "Wat Thammikarat",
-                  "text": "A significant historical temple in Ayutthaya known for its reclining Buddha statue.",
-                  "category": "landmark",
-                  "coords": [
-                        100.561671,
-                        14.358726
-                  ]
-            },
-            {
-                  "name": "Wat Yannasen",
-                  "text": "A noteworthy site in Ayutthaya with characteristic architecture and religious significance.",
-                  "category": "landmark",
-                  "coords": [
-                        100.563981,
-                        14.359634
                   ]
             },
             {
@@ -7240,75 +6439,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Senatsanaram Ratchaworawihan",
-                  "text": "A significant temple in Ayutthaya known for its elegant buildings and religious treasures.",
-                  "category": "landmark",
-                  "coords": [
-                        100.57315,
-                        14.363082
-                  ]
-            },
-            {
                   "name": "Wat Sala Pun Worawihan",
                   "text": "This temple is an important religious site in Ayutthaya and showcases classic Thai art.",
                   "category": "landmark",
                   "coords": [
                         100.549187,
                         14.360495
-                  ]
-            },
-            {
-                  "name": "Wat Choeng Tha",
-                  "text": "A historical temple in Ayutthaya located right on the riverbank, offering a peaceful atmosphere.",
-                  "category": "landmark",
-                  "coords": [
-                        100.555631,
-                        14.361956
-                  ]
-            },
-            {
-                  "name": "Wat Na Phra Men Rachikaram",
-                  "text": "This temple is famous for having survived the destruction of Ayutthaya almost intact.",
-                  "category": "landmark",
-                  "coords": [
-                        100.558773,
-                        14.363129
-                  ]
-            },
-            {
-                  "name": "Wat Phrom Niwat Worawihan",
-                  "text": "A quiet temple complex in Ayutthaya that invites lingering and reflection.",
-                  "category": "landmark",
-                  "coords": [
-                        100.548403,
-                        14.35954
-                  ]
-            },
-            {
-                  "name": "Wat Phanom Yong",
-                  "text": "This religious site in Ayutthaya stands out for its traditional architecture and local significance.",
-                  "category": "landmark",
-                  "coords": [
-                        100.551841,
-                        14.361982
-                  ]
-            },
-            {
-                  "name": "Wat Sam Wihan",
-                  "text": "A temple in Ayutthaya known for its historical buildings and spiritual atmosphere.",
-                  "category": "landmark",
-                  "coords": [
-                        100.572771,
-                        14.370081
-                  ]
-            },
-            {
-                  "name": "Wat Ratchapraditsathan",
-                  "text": "Another noteworthy temple complex enriching the cultural heritage of Ayutthaya.",
-                  "category": "landmark",
-                  "coords": [
-                        100.568938,
-                        14.362322
                   ]
             },
             {
@@ -7348,24 +6484,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Tha Ka Rong",
-                  "text": "This temple in Ayutthaya is a popular destination for visitors wishing to experience local Thai culture.",
-                  "category": "landmark",
-                  "coords": [
-                        100.54308,
-                        14.357977
-                  ]
-            },
-            {
-                  "name": "Wat Phutthaisawan",
-                  "text": "A historically significant temple with a striking white pagoda on the banks of the Chao Phraya.",
-                  "category": "landmark",
-                  "coords": [
-                        100.558441,
-                        14.338946
-                  ]
-            },
-            {
                   "name": "Wat Ayothaya",
                   "text": "A religious site worth visiting that is part of Ayutthaya's rich history.",
                   "category": "landmark",
@@ -7384,30 +6502,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Mondop",
-                  "text": "Another cultural attraction in Ayutthaya providing insights into Thai temple culture.",
-                  "category": "landmark",
-                  "coords": [
-                        100.575239,
-                        14.367428
-                  ]
-            },
-            {
                   "name": "Ayutthaya Historical Park",
                   "text": "This UNESCO World Heritage park encompasses the impressive ruins of the former Thai capital.",
                   "category": "park",
                   "coords": [
                         100.55918,
                         14.353589
-                  ]
-            },
-            {
-                  "name": "Chantharakasem National Museum",
-                  "text": "A former palace in Ayutthaya that now houses a national museum with valuable exhibits.",
-                  "category": "castle",
-                  "coords": [
-                        100.574628,
-                        14.365092
                   ]
             },
             {
@@ -7429,15 +6529,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ayutthaya Historic City Conservation Information Center",
-                  "text": "The Ayutthaya Historic City Conservation Information Center, providing insights into the ancient ruins and restoration.",
-                  "category": "museum",
-                  "coords": [
-                        100.557709,
-                        14.350669
-                  ]
-            },
-            {
                   "name": "Ayutthaya Tourist Center",
                   "text": "A tourist center in Ayutthaya that provides cultural information and museum exhibits for visitors.",
                   "category": "museum",
@@ -7453,24 +6544,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   "coords": [
                         100.565534,
                         14.349486
-                  ]
-            },
-            {
-                  "name": "Queen Suriyothai Museum",
-                  "text": "A museum in Ayutthaya dedicated to the famous Thai queen Suriyothai.",
-                  "category": "museum",
-                  "coords": [
-                        100.547449,
-                        14.351959
-                  ]
-            },
-            {
-                  "name": "Tamnak Phaniat",
-                  "text": "A historical building in Ayutthaya formerly used as a royal elephant kraal.",
-                  "category": "castle",
-                  "coords": [
-                        100.571075,
-                        14.376295
                   ]
             },
             {
@@ -11257,15 +10330,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Death Railway Museum and Research Centre",
-                  "text": "Das Death Railway Museum and Research Centre ist ein modernes Museum mit interaktiven Ausstellungen zur Geschichte der Todesbahn.",
-                  "category": "museum",
-                  "coords": [
-                        99.524785,
-                        14.032334
-                  ]
-            },
-            {
                   "name": "Thai Paper Mill",
                   "text": "Ehemalige Papierfabrik, heute Museum über die Papierherstellung in Kanchanaburi.",
                   "category": "museum",
@@ -11275,30 +10339,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lokomotive",
-                  "text": "Historische Lokomotive als Denkmal in Kanchanaburi.",
-                  "category": "landmark",
-                  "coords": [
-                        99.524895,
-                        14.033459
-                  ]
-            },
-            {
                   "name": "Khao Krachai Viewpoint",
                   "text": "Aussichtspunkt auf dem Khao Krachai-Hügel mit Blick über die Umgebung.",
                   "category": "natural",
                   "coords": [
                         99.545836,
                         14.041244
-                  ]
-            },
-            {
-                  "name": "West Wonder waterpark",
-                  "text": "Wasserpark mit Rutschen und Becken in Kanchanaburi.",
-                  "category": "landmark",
-                  "coords": [
-                        99.515779,
-                        14.029541
                   ]
             },
             {
@@ -11322,15 +10368,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Death Railway Museum and Research Centre",
-                  "text": "A Death Railway Museum and Research Centre egy modern múzeum interaktív kiállításokkal a Halálvasút történetéről.",
-                  "category": "museum",
-                  "coords": [
-                        99.524785,
-                        14.032334
-                  ]
-            },
-            {
                   "name": "Thai Paper Mill",
                   "text": "Egykori papírgyár, ma múzeum a kanchanaburi papírgyártás történetéről.",
                   "category": "museum",
@@ -11340,30 +10377,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lokomotive",
-                  "text": "Történelmi mozdony emlékműve Kanchanaburiban.",
-                  "category": "landmark",
-                  "coords": [
-                        99.524895,
-                        14.033459
-                  ]
-            },
-            {
                   "name": "Khao Krachai Viewpoint",
                   "text": "Kilátó a Khao Krachai dombon, panorámával a környékre.",
                   "category": "natural",
                   "coords": [
                         99.545836,
                         14.041244
-                  ]
-            },
-            {
-                  "name": "West Wonder waterpark",
-                  "text": "Vidámparki vízipark csúszdákkal és medencékkel Kanchanaburiban.",
-                  "category": "landmark",
-                  "coords": [
-                        99.515779,
-                        14.029541
                   ]
             },
             {
@@ -11387,15 +10406,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Death Railway Museum and Research Centre",
-                  "text": "Muzeul și Centrul de Cercetare al Căii Ferate a Morții este un muzeu modern cu expoziții interactive despre istoria căii ferate.",
-                  "category": "museum",
-                  "coords": [
-                        99.524785,
-                        14.032334
-                  ]
-            },
-            {
                   "name": "Thai Paper Mill",
                   "text": "Fostă fabrică de hârtie, acum muzeu despre producția de hârtie în Kanchanaburi.",
                   "category": "museum",
@@ -11405,30 +10415,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lokomotive",
-                  "text": "Locomotivă istorică ca monument în Kanchanaburi.",
-                  "category": "landmark",
-                  "coords": [
-                        99.524895,
-                        14.033459
-                  ]
-            },
-            {
                   "name": "Khao Krachai Viewpoint",
                   "text": "Punct de belvedere pe dealul Khao Krachai, cu vedere asupra zonei.",
                   "category": "natural",
                   "coords": [
                         99.545836,
                         14.041244
-                  ]
-            },
-            {
-                  "name": "West Wonder waterpark",
-                  "text": "Parac apă cu tobogane și bazine în Kanchanaburi.",
-                  "category": "landmark",
-                  "coords": [
-                        99.515779,
-                        14.029541
                   ]
             },
             {
@@ -11452,15 +10444,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Death Railway Museum and Research Centre",
-                  "text": "The Death Railway Museum and Research Centre is a modern museum with interactive exhibits on the history of the Death Railway.",
-                  "category": "museum",
-                  "coords": [
-                        99.524785,
-                        14.032334
-                  ]
-            },
-            {
                   "name": "Thai Paper Mill",
                   "text": "A former paper mill now a museum on papermaking in Kanchanaburi.",
                   "category": "museum",
@@ -11470,30 +10453,12 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lokomotive",
-                  "text": "A historic locomotive landmark in Kanchanaburi.",
-                  "category": "landmark",
-                  "coords": [
-                        99.524895,
-                        14.033459
-                  ]
-            },
-            {
                   "name": "Khao Krachai Viewpoint",
                   "text": "A hilltop viewpoint on Khao Krachai offering panoramic views.",
                   "category": "natural",
                   "coords": [
                         99.545836,
                         14.041244
-                  ]
-            },
-            {
-                  "name": "West wonder waterpark",
-                  "text": "A waterpark with slides and pools in Kanchanaburi.",
-                  "category": "landmark",
-                  "coords": [
-                        99.515779,
-                        14.029541
                   ]
             },
             {
@@ -12932,15 +11897,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Bang Nang Kreng",
-                  "text": "Ein buddhistischer Tempel in Samut Prakan, der der lokalen Gemeinschaft dient.",
-                  "category": "religious",
-                  "coords": [
-                        100.587969,
-                        13.612801
-                  ]
-            },
-            {
                   "name": "Wat Traimit Wararam",
                   "text": "Ein buddhistischer Ort der Verehrung in Samut Prakan mit traditioneller Architektur.",
                   "category": "religious",
@@ -13057,15 +12013,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   "coords": [
                         100.598982,
                         13.598233
-                  ]
-            },
-            {
-                  "name": "Wat Bang Nang Kreng",
-                  "text": "Buddhista templom Szamutprakánban, amely a helyi közösséget szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        100.587969,
-                        13.612801
                   ]
             },
             {
@@ -13188,15 +12135,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Bang Nang Kreng",
-                  "text": "Un templu budist din Samut Prakan care deservește comunitatea locală.",
-                  "category": "religious",
-                  "coords": [
-                        100.587969,
-                        13.612801
-                  ]
-            },
-            {
                   "name": "Wat Traimit Wararam",
                   "text": "Un lăcaș de cult budist în Samut Prakan cu arhitectură tradițională.",
                   "category": "religious",
@@ -13313,15 +12251,6 @@ export const poiExtraThailandCitiesV2: POI[] = [
                   "coords": [
                         100.598982,
                         13.598233
-                  ]
-            },
-            {
-                  "name": "Wat Bang Nang Kreng",
-                  "text": "A Buddhist temple in Samut Prakan serving the local community.",
-                  "category": "religious",
-                  "coords": [
-                        100.587969,
-                        13.612801
                   ]
             },
             {

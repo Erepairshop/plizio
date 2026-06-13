@@ -11040,15 +11040,6 @@ export const poiExtraTaiwanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Xiao Rusong Park",
-                  "text": "Dieser Gedenkpark mit Kunstmuseum ehrt das Werk des taiwanischen Malers Xiao Rusong.",
-                  "category": "museum",
-                  "coords": [
-                        121.087604,
-                        24.739576
-                  ]
-            },
-            {
                   "name": "Feifengshan",
                   "text": "Dieser markante Berggipfel ist bekannt für seine steilen Pfade und weiten Ausblicke über die umliegende Landschaft.",
                   "category": "natural",
@@ -11193,15 +11184,6 @@ export const poiExtraTaiwanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zhudong Township Office",
-                  "text": "Dieses städtische Verwaltungsgebäude ist der zentrale Anlaufpunkt für die kommunalen Angelegenheiten der Gemeinde Zhudong.",
-                  "category": "historical",
-                  "coords": [
-                        121.091663,
-                        24.736676
-                  ]
-            },
-            {
                   "name": "Wah",
                   "text": "Eine kreative Attraktion, die durch unkonventionelles Design und farbenfrohe Kunstinstallationen besticht.",
                   "category": "landmark",
@@ -11309,15 +11291,6 @@ export const poiExtraTaiwanLifeV2: POI[] = [
                   "coords": [
                         121.027917,
                         24.732641
-                  ]
-            },
-            {
-                  "name": "Xiao Rusong Park",
-                  "text": "Ez az emlékmű és múzeum Xiao Rusong tajvani festőművész alkotásainak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        121.087604,
-                        24.739576
                   ]
             },
             {
@@ -11465,15 +11438,6 @@ export const poiExtraTaiwanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zhudong Township Office",
-                  "text": "Ez a városi igazgatási épület a Zhudong község önkormányzati ügyeinek központi csomópontja.",
-                  "category": "historical",
-                  "coords": [
-                        121.091663,
-                        24.736676
-                  ]
-            },
-            {
                   "name": "Wah",
                   "text": "Kreatív látványosság, amely szokatlan dizájnnal és színes művészeti installációkkal vonzza a tekintetet.",
                   "category": "landmark",
@@ -11581,15 +11545,6 @@ export const poiExtraTaiwanLifeV2: POI[] = [
                   "coords": [
                         121.027917,
                         24.732641
-                  ]
-            },
-            {
-                  "name": "Xiao Rusong Park",
-                  "text": "Acest parc memorial și muzeu de artă onorează opera pictorului taiwanez Xiao Rusong.",
-                  "category": "museum",
-                  "coords": [
-                        121.087604,
-                        24.739576
                   ]
             },
             {
@@ -11737,15 +11692,6 @@ export const poiExtraTaiwanLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zhudong Township Office",
-                  "text": "Această clădire administrativă municipală este punctul central pentru afacerile civice din localitatea Zhudong.",
-                  "category": "historical",
-                  "coords": [
-                        121.091663,
-                        24.736676
-                  ]
-            },
-            {
                   "name": "Wah",
                   "text": "O atracție creativă care se remarcă prin designul său neconvențional și instalațiile de artă colorate.",
                   "category": "landmark",
@@ -11853,15 +11799,6 @@ export const poiExtraTaiwanLifeV2: POI[] = [
                   "coords": [
                         121.027917,
                         24.732641
-                  ]
-            },
-            {
-                  "name": "Xiao Rusong Park",
-                  "text": "This memorial park and art museum honors the work of Taiwanese painter Xiao Rusong.",
-                  "category": "museum",
-                  "coords": [
-                        121.087604,
-                        24.739576
                   ]
             },
             {
@@ -12006,15 +11943,6 @@ export const poiExtraTaiwanLifeV2: POI[] = [
                   "coords": [
                         121.146365,
                         24.740477
-                  ]
-            },
-            {
-                  "name": "Zhudong Township Office",
-                  "text": "This municipal administrative building is the central hub for civic affairs in Zhudong Township.",
-                  "category": "historical",
-                  "coords": [
-                        121.091663,
-                        24.736676
                   ]
             },
             {

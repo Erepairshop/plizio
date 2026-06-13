@@ -1398,30 +1398,12 @@ export const poiExtraTajikistanNatureV2: POI[] = [
     id: "gunt-river-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Muzei Pamir",
-                  "text": "Das Pamir-Museum ist eine Einrichtung in der Nähe des Flusses Gunt, in der Besucher mehr über die lokale Geschichte erfahren können.",
-                  "category": "museum",
-                  "coords": [
-                        71.547319,
-                        37.491251
-                  ]
-            },
-            {
                   "name": "Teatri viloiati va nomi Mekh'rubon Nazarbov",
                   "text": "Das Regionaltheater Mehrubon Nazarov veranstaltet lokale darstellende Künste und Kulturveranstaltungen in der Region des Flusses Gunt.",
                   "category": "cultural",
                   "coords": [
                         71.548785,
                         37.491599
-                  ]
-            },
-            {
-                  "name": "Summer Theatre",
-                  "text": "Das Sommertheater bietet saisonale Aufführungen in der malerischen Gegend des Flusses Gunt.",
-                  "category": "cultural",
-                  "coords": [
-                        71.545299,
-                        37.489825
                   ]
             },
             {
@@ -1454,30 +1436,12 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Muzei Pamir",
-                  "text": "A Pamir Múzeum egy intézmény a Gunt folyó közelében, ahol a látogatók megismerkedhetnek a helyi történelemmel.",
-                  "category": "museum",
-                  "coords": [
-                        71.547319,
-                        37.491251
-                  ]
-            },
-            {
                   "name": "Teatri viloiati va nomi Mekh'rubon Nazarbov",
                   "text": "A Mehrubon Nazarov Regionális Színház helyi előadóművészeti és kulturális eseményeknek ad otthont a Gunt folyó régiójában.",
                   "category": "cultural",
                   "coords": [
                         71.548785,
                         37.491599
-                  ]
-            },
-            {
-                  "name": "Summer Theatre",
-                  "text": "A Nyári Színház szezonális előadásokat kínál a Gunt folyó festői vidékén.",
-                  "category": "cultural",
-                  "coords": [
-                        71.545299,
-                        37.489825
                   ]
             },
             {
@@ -1510,30 +1474,12 @@ export const poiExtraTajikistanNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Muzei Pamir",
-                  "text": "Muzeul Pamir este o instituție lângă râul Gunt, unde vizitatorii pot afla despre istoria locală.",
-                  "category": "museum",
-                  "coords": [
-                        71.547319,
-                        37.491251
-                  ]
-            },
-            {
                   "name": "Teatri viloiati va nomi Mekh'rubon Nazarbov",
                   "text": "Teatrul Regional Mehrubon Nazarov găzduiește arte ale spectacolului local și evenimente culturale în regiunea râului Gunt.",
                   "category": "cultural",
                   "coords": [
                         71.548785,
                         37.491599
-                  ]
-            },
-            {
-                  "name": "Summer Theatre",
-                  "text": "Teatrul de Vară oferă spectacole sezoniere în zona pitorească a râului Gunt.",
-                  "category": "cultural",
-                  "coords": [
-                        71.545299,
-                        37.489825
                   ]
             },
             {
@@ -1565,33 +1511,6 @@ export const poiExtraTajikistanNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Pamir Museum",
-                  "text": "The Pamir Museum is an institution near the Gunt River where visitors can learn about local history.",
-                  "category": "museum",
-                  "coords": [
-                        71.547319,
-                        37.491251
-                  ]
-            },
-            {
-                  "name": "Mehrubon Nazarov Regional Theatre",
-                  "text": "The Mehrubon Nazarov Regional Theatre hosts local performing arts and cultural events in the Gunt River region.",
-                  "category": "cultural",
-                  "coords": [
-                        71.548785,
-                        37.491599
-                  ]
-            },
-            {
-                  "name": "Summer Theatre",
-                  "text": "The Summer Theatre offers seasonal performances in the scenic area of the Gunt River.",
-                  "category": "cultural",
-                  "coords": [
-                        71.545299,
-                        37.489825
-                  ]
-            },
             {
                   "name": "Ostun",
                   "text": "Ostun is an Islamic religious site located in the Gunt River region.",

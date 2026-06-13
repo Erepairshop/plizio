@@ -1578,39 +1578,12 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zapata",
-                  "text": "Dieses historische Zapata-Denkmal ist ein lokales Wahrzeichen, das an bedeutende Persönlichkeiten der Geschichte der Salzkathedralen-Region erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        -74.002279,
-                        5.026531
-                  ]
-            },
-            {
-                  "name": "Museo Gabriel García Márquez",
-                  "text": "Dieses Museum ist dem Literatur-Nobelpreisträger Gabriel García Márquez gewidmet und feiert das Leben und die literarischen Werke des Autors.",
-                  "category": "museum",
-                  "coords": [
-                        -74.002222,
-                        5.024748
-                  ]
-            },
-            {
                   "name": "Museo Arqueológico",
                   "text": "Das Archäologische Museum zeigt eine beeindruckende Sammlung präkolumbianischer Artefakte von den alten indigenen Kulturen der Region.",
                   "category": "museum",
                   "coords": [
                         -74.006722,
                         5.02102
-                  ]
-            },
-            {
-                  "name": "Teatro Bicentenario",
-                  "text": "Das Teatro Bicentenario ist ein prominenter Veranstaltungsort für darstellende Künste, der eine Vielzahl kultureller Aufführungen in der Gemeinde beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.997855,
-                        5.015092
                   ]
             },
             {
@@ -1760,39 +1733,12 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zapata",
-                  "text": "Ez a történelmi Zapata-emlékmű egy helyi nevezetesség, amely a sókatedrális régió történetének jelentős alakjaira emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        -74.002279,
-                        5.026531
-                  ]
-            },
-            {
-                  "name": "Museo Gabriel García Márquez",
-                  "text": "Ez a múzeum az irodalmi Nobel-díjas Gabriel García Márqueznek van szentelve, és a szerző életét és irodalmi munkásságát ünnepli.",
-                  "category": "museum",
-                  "coords": [
-                        -74.002222,
-                        5.024748
-                  ]
-            },
-            {
                   "name": "Museo Arqueológico",
                   "text": "A Régészeti Múzeum a régió ősi őslakos kultúráinak prekolumbiánus leleteiből mutat be lenyűgöző gyűjteményt.",
                   "category": "museum",
                   "coords": [
                         -74.006722,
                         5.02102
-                  ]
-            },
-            {
-                  "name": "Teatro Bicentenario",
-                  "text": "A Teatro Bicentenario egy kiemelkedő előadó-művészeti helyszín, amely különféle kulturális előadásoknak ad otthont a közösségben.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.997855,
-                        5.015092
                   ]
             },
             {
@@ -1942,39 +1888,12 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zapata",
-                  "text": "Acest monument istoric Zapata este un punct de reper local care comemorează figuri semnificative din istoria regiunii Catedralei de Sare.",
-                  "category": "historical",
-                  "coords": [
-                        -74.002279,
-                        5.026531
-                  ]
-            },
-            {
-                  "name": "Museo Gabriel García Márquez",
-                  "text": "Dedicat laureatului Premiului Nobel pentru literatură Gabriel García Márquez, acest muzeu celebrează viața și operele literare ale autorului.",
-                  "category": "museum",
-                  "coords": [
-                        -74.002222,
-                        5.024748
-                  ]
-            },
-            {
                   "name": "Museo Arqueológico",
                   "text": "Muzeul Arheologic expune o colecție impresionantă de artefacte precolumbiene de la culturile indigene antice ale regiunii.",
                   "category": "museum",
                   "coords": [
                         -74.006722,
                         5.02102
-                  ]
-            },
-            {
-                  "name": "Teatro Bicentenario",
-                  "text": "Teatro Bicentenario este un loc proeminent de artele spectacolului, găzduind o varietate de spectacole culturale în comunitate.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.997855,
-                        5.015092
                   ]
             },
             {
@@ -2124,39 +2043,12 @@ export const poiExtraColombiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zapata",
-                  "text": "This historical Zapata monument is a local landmark commemorating significant figures in the history of the Salt Cathedral region.",
-                  "category": "historical",
-                  "coords": [
-                        -74.002279,
-                        5.026531
-                  ]
-            },
-            {
-                  "name": "Museo Gabriel García Márquez",
-                  "text": "Dedicated to the Nobel Prize-winning author Gabriel García Márquez, this museum celebrates the writer's life and literary works.",
-                  "category": "museum",
-                  "coords": [
-                        -74.002222,
-                        5.024748
-                  ]
-            },
-            {
                   "name": "Museo Arqueológico",
                   "text": "The Archaeological Museum exhibits an impressive collection of pre-Columbian artifacts from the region's ancient indigenous cultures.",
                   "category": "museum",
                   "coords": [
                         -74.006722,
                         5.02102
-                  ]
-            },
-            {
-                  "name": "Teatro Bicentenario",
-                  "text": "The Teatro Bicentenario is a prominent performing arts venue that hosts a variety of cultural performances in the community.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.997855,
-                        5.015092
                   ]
             },
             {

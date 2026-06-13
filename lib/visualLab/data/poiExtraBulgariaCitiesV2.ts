@@ -6609,7 +6609,88 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-etropole-cities-v2.webp",
   },
   {
-    id: "bulgaria-razlog-cities-v2", "sights": {"de": [{"name": "Istoricheski muzei", "text": "Ein Museum in Raslog, das die regionale Geschichte und Volkstraditionen bewahrt.", "category": "museum", "coords": [23.460652, 41.88581]}, {"name": "City Park Razlog", "text": "Ein weitläufiger Stadtpark in Raslog mit verschiedenen Erholungsflächen.", "category": "family", "coords": [23.466273, 41.887294]}, {"name": "Krinets", "text": "Ein kleiner See in Raslog, der zum Verweilen einlädt.", "category": "natural", "coords": [23.494319, 41.822326]}], "hu": [{"name": "Istoricheski muzei", "text": "Razlog történelmét és néphagyományait bemutató múzeum.", "category": "museum", "coords": [23.460652, 41.88581]}, {"name": "City Park Razlog", "text": "Tágas városi park Razlogban, különféle pihenőhelyekkel.", "category": "family", "coords": [23.466273, 41.887294]}, {"name": "Krinets", "text": "Kicsi tó Razlog területén, amely pihenésre hívogat.", "category": "natural", "coords": [23.494319, 41.822326]}], "ro": [{"name": "Istoricheski muzei", "text": "Un muzeu din Razlog care păstrează istoria regională și tradițiile populare.", "category": "museum", "coords": [23.460652, 41.88581]}, {"name": "City Park Razlog", "text": "Un parc orașenesc vast în Razlog, cu diverse zone de recreere.", "category": "family", "coords": [23.466273, 41.887294]}, {"name": "Krinets", "text": "Un lac mic în Razlog, care te invită la relaxare.", "category": "natural", "coords": [23.494319, 41.822326]}], "en": [{"name": "Istoricheski muzei", "text": "A museum in Razlog preserving regional history and folk traditions.", "category": "museum", "coords": [23.460652, 41.88581]}, {"name": "City Park Razlog", "text": "A spacious city park in Razlog with various recreational areas.", "category": "family", "coords": [23.466273, 41.887294]}, {"name": "Krinets", "text": "A small lake in Razlog that invites visitors to linger.", "category": "natural", "coords": [23.494319, 41.822326]}]},
+    id: "bulgaria-razlog-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "Ein Museum in Raslog, das die regionale Geschichte und Volkstraditionen bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        23.460652,
+                        41.88581
+                  ]
+            },
+            {
+                  "name": "City Park Razlog",
+                  "text": "Ein weitläufiger Stadtpark in Raslog mit verschiedenen Erholungsflächen.",
+                  "category": "family",
+                  "coords": [
+                        23.466273,
+                        41.887294
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "Razlog történelmét és néphagyományait bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.460652,
+                        41.88581
+                  ]
+            },
+            {
+                  "name": "City Park Razlog",
+                  "text": "Tágas városi park Razlogban, különféle pihenőhelyekkel.",
+                  "category": "family",
+                  "coords": [
+                        23.466273,
+                        41.887294
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "Un muzeu din Razlog care păstrează istoria regională și tradițiile populare.",
+                  "category": "museum",
+                  "coords": [
+                        23.460652,
+                        41.88581
+                  ]
+            },
+            {
+                  "name": "City Park Razlog",
+                  "text": "Un parc orașenesc vast în Razlog, cu diverse zone de recreere.",
+                  "category": "family",
+                  "coords": [
+                        23.466273,
+                        41.887294
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Istoricheski muzei",
+                  "text": "A museum in Razlog preserving regional history and folk traditions.",
+                  "category": "museum",
+                  "coords": [
+                        23.460652,
+                        41.88581
+                  ]
+            },
+            {
+                  "name": "City Park Razlog",
+                  "text": "A spacious city park in Razlog with various recreational areas.",
+                  "category": "family",
+                  "coords": [
+                        23.466273,
+                        41.887294
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Raslog", hu: "Razlog", ro: "Razlog", en: "Razlog" },
@@ -7899,15 +7980,6 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ezero \"Sveta gora\"",
-                  "text": "Der езеро \"Света гора\" in Lyaskovets ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
-                  "category": "natural",
-                  "coords": [
-                        25.655615,
-                        43.069764
-                  ]
-            },
-            {
                   "name": "Park Detski Kut",
                   "text": "Park Detski Kut in Lyaskovets ist ein tolles Ziel für Familien mit Kindern zum Spielen.",
                   "category": "family",
@@ -7961,15 +8033,6 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         25.707435,
                         43.095299
-                  ]
-            },
-            {
-                  "name": "ezero \"Sveta gora\"",
-                  "text": "A езеро \"Света гора\" egy tó Lyaskovets területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        25.655615,
-                        43.069764
                   ]
             },
             {
@@ -8029,15 +8092,6 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ezero \"Sveta gora\"",
-                  "text": "езеро \"Света гора\" din Lyaskovets este un lac ce oferă un cadru natural frumos pentru relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        25.655615,
-                        43.069764
-                  ]
-            },
-            {
                   "name": "Park Detski Kut",
                   "text": "Park Detski Kut din Lyaskovets este o destinație excelentă de joacă pentru familiile cu copii.",
                   "category": "family",
@@ -8091,15 +8145,6 @@ export const bulgariaCitiesV2: POI[] = [
                   "coords": [
                         25.707435,
                         43.095299
-                  ]
-            },
-            {
-                  "name": "ezero \"Sveta gora\"",
-                  "text": "The езеро \"Света гора\" in Lyaskovets is a lake providing a pleasant natural setting for relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        25.655615,
-                        43.069764
                   ]
             },
             {
@@ -10029,7 +10074,52 @@ export const bulgariaCitiesV2: POI[] = [
     image: "/poi-images/bulgaria-panagyurishte-cities-v2.webp",
   },
   {
-    id: "bulgaria-batanovtsi-cities-v2", "sights": {"de": [{"name": "Krepostta Krakra", "text": "Historische Überreste der mittelalterlichen Festung Krakra nahe Batanowzi.", "category": "historical", "coords": [23.017439, 42.594104]}, {"name": "yaz. Varbitsa", "text": "Der яз. Върбица in Batanovtsi ist ein See, der sich gut für einen Spaziergang in der Natur eignet.", "category": "natural", "coords": [22.982408, 42.53165]}], "hu": [{"name": "Krepostta Krakra", "text": "A középkori Krakra erőd történelmi maradványai Batanovci közelében.", "category": "historical", "coords": [23.017439, 42.594104]}, {"name": "yaz. Varbitsa", "text": "A яз. Върбица egy tó Batanovtsi területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.", "category": "natural", "coords": [22.982408, 42.53165]}], "ro": [{"name": "Krepostta Krakra", "text": "Vestigii istorice ale cetății medievale Krakra, lângă Batanovți.", "category": "historical", "coords": [23.017439, 42.594104]}, {"name": "yaz. Varbitsa", "text": "яз. Върбица din Batanovtsi este un lac ce oferă un cadru natural frumos pentru relaxare.", "category": "natural", "coords": [22.982408, 42.53165]}], "en": [{"name": "Krepostta Krakra", "text": "Historical remains of the medieval Krakra fortress near Batanovtsi.", "category": "historical", "coords": [23.017439, 42.594104]}, {"name": "yaz. Varbitsa", "text": "The яз. Върбица in Batanovtsi is a lake providing a pleasant natural setting for relaxation.", "category": "natural", "coords": [22.982408, 42.53165]}]},
+    id: "bulgaria-batanovtsi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "yaz. Varbitsa",
+                  "text": "Der яз. Върбица in Batanovtsi ist ein See, der sich gut für einen Spaziergang in der Natur eignet.",
+                  "category": "natural",
+                  "coords": [
+                        22.982408,
+                        42.53165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "yaz. Varbitsa",
+                  "text": "A яз. Върбица egy tó Batanovtsi területén, amely kellemes környezetet biztosít a kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        22.982408,
+                        42.53165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "yaz. Varbitsa",
+                  "text": "яз. Върбица din Batanovtsi este un lac ce oferă un cadru natural frumos pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        22.982408,
+                        42.53165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "yaz. Varbitsa",
+                  "text": "The яз. Върбица in Batanovtsi is a lake providing a pleasant natural setting for relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        22.982408,
+                        42.53165
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Batanowzi", hu: "Batanovci", ro: "Batanovți", en: "Batanovtsi" },
@@ -11598,24 +11688,6 @@ export const bulgariaCitiesV2: POI[] = [
     id: "bulgaria-banya-stara-zagora-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Trakiiska grobnitsa",
-                  "text": "Ein archäologischer Fundort einer antiken thrakischen Grabstätte bei Banja.",
-                  "category": "historical",
-                  "coords": [
-                        25.638817,
-                        42.431693
-                  ]
-            },
-            {
-                  "name": "Hilendarski metoh",
-                  "text": "Ein ehemaliger klösterlicher Außenposten, der heute als Museum in Banja dient.",
-                  "category": "museum",
-                  "coords": [
-                        25.629339,
-                        42.430881
-                  ]
-            },
-            {
                   "name": "Samarskoto zname",
                   "text": "Gedenkstätte mit Bronzestatuen bulgarischer Soldaten zur Erinnerung an die Verteidigung von Stara Zagora 1877 bei Banya.",
                   "category": "historical",
@@ -11634,39 +11706,12 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Park „Podpolkovnik Kalitin“",
-                  "text": "Ein nach Podpolkovnik Kalitin benannter Gedenkpark in der Region Banja.",
-                  "category": "park",
-                  "coords": [
-                        25.644582,
-                        42.425044
-                  ]
-            },
-            {
                   "name": "Panorama",
                   "text": "Der Naturort Panorama bietet einen weiten und freien Blick auf die Umgebung von Banja Stara Zagora in Bulgarien. Als wunderschöner Aussichtspunkt ist er ideal für alle, die eine weitreichende landschaftliche Perspektive schätzen. Fotografen und Naturliebhaber kommen hier gleichermaßen auf ihre Kosten.",
                   "category": "natural",
                   "coords": [
                         25.622936,
                         42.442464
-                  ]
-            },
-            {
-                  "name": "pam. Vasil Levski",
-                  "text": "Ein Denkmal zu Ehren des bulgarischen Nationalhelden Wassil Lewski.",
-                  "category": "historical",
-                  "coords": [
-                        25.628409,
-                        42.430189
-                  ]
-            },
-            {
-                  "name": "Revolyutsionerski pametnik",
-                  "text": "Ein lokales Denkmal, das den historischen Revolutionären gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        25.638062,
-                        42.426003
                   ]
             },
             {
@@ -11708,24 +11753,6 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Trakiiska grobnitsa",
-                  "text": "Egy ókori traák sírhely régészeti lelőhelye Banja közelében.",
-                  "category": "historical",
-                  "coords": [
-                        25.638817,
-                        42.431693
-                  ]
-            },
-            {
-                  "name": "Hilendarski metoh",
-                  "text": "Egy egykori kolostori birtok, amely ma múzeumként működik Banjában.",
-                  "category": "museum",
-                  "coords": [
-                        25.629339,
-                        42.430881
-                  ]
-            },
-            {
                   "name": "Samarskoto zname",
                   "text": "Bulgár katonák bronzszobraival díszített emlékkomplexum, amely az 1877-es Sztara Zagora-i védelmet örökíti meg Banya mellett.",
                   "category": "historical",
@@ -11744,39 +11771,12 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Park „Podpolkovnik Kalitin“",
-                  "text": "Kalitin alezredesről elnevezett emlékpark Banja környékén.",
-                  "category": "park",
-                  "coords": [
-                        25.644582,
-                        42.425044
-                  ]
-            },
-            {
                   "name": "Panorama",
                   "text": "A Panorama nevű természeti helyszín tágas és zavartalan kilátást nyújt a bulgáriai Banja Sztara Zagora környékére. Gyönyörű kilátóként ideális mindazok számára, akik értékelik a messzire nyúló tájképi perspektívát. A fotósok és a természetkedvelők egyaránt megtalálják itt a számításukat.",
                   "category": "natural",
                   "coords": [
                         25.622936,
                         42.442464
-                  ]
-            },
-            {
-                  "name": "pam. Vasil Levski",
-                  "text": "Emlékmű a bolgár nemzeti hős, Vaszil Levszki tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        25.628409,
-                        42.430189
-                  ]
-            },
-            {
-                  "name": "Revolyutsionerski pametnik",
-                  "text": "A történelmi forradalmároknak szentelt helyi emlékmű.",
-                  "category": "historical",
-                  "coords": [
-                        25.638062,
-                        42.426003
                   ]
             },
             {
@@ -11818,24 +11818,6 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Trakiiska grobnitsa",
-                  "text": "Un sit arheologic al unui mormânt tracic antic lângă Bania.",
-                  "category": "historical",
-                  "coords": [
-                        25.638817,
-                        42.431693
-                  ]
-            },
-            {
-                  "name": "Hilendarski metoh",
-                  "text": "Un fost avanpost monahal care astăzi servește ca muzeu în Bania.",
-                  "category": "museum",
-                  "coords": [
-                        25.629339,
-                        42.430881
-                  ]
-            },
-            {
                   "name": "Samarskoto zname",
                   "text": "Complex memorial cu statui de bronz ale soldaților bulgari, comemorând apărarea Starei Zagora din 1877 lângă Banya.",
                   "category": "historical",
@@ -11854,39 +11836,12 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Park „Podpolkovnik Kalitin“",
-                  "text": "Un parc memorial numit după Podpolkovnik Kalitin în regiunea Bania.",
-                  "category": "park",
-                  "coords": [
-                        25.644582,
-                        42.425044
-                  ]
-            },
-            {
                   "name": "Panorama",
                   "text": "Locația naturală Panorama oferă o priveliște vastă și neobstrucționată asupra împrejurimilor de la Banya Stara Zagora din Bulgaria. Ca punct de belvedere minunat, este ideal pentru toți cei care apreciază o perspectivă peisagistică largă. Fotografi și iubitori de natură deopotrivă se vor bucura de acest loc.",
                   "category": "natural",
                   "coords": [
                         25.622936,
                         42.442464
-                  ]
-            },
-            {
-                  "name": "pam. Vasil Levski",
-                  "text": "Un monument dedicat eroului național bulgar Vasil Levski.",
-                  "category": "historical",
-                  "coords": [
-                        25.628409,
-                        42.430189
-                  ]
-            },
-            {
-                  "name": "Revolyutsionerski pametnik",
-                  "text": "Un monument local dedicat revoluționarilor istorici.",
-                  "category": "historical",
-                  "coords": [
-                        25.638062,
-                        42.426003
                   ]
             },
             {
@@ -11928,24 +11883,6 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Trakiiska grobnitsa",
-                  "text": "An archaeological site of an ancient Thracian tomb near Banja.",
-                  "category": "historical",
-                  "coords": [
-                        25.638817,
-                        42.431693
-                  ]
-            },
-            {
-                  "name": "Hilendarski metoh",
-                  "text": "A former monastic outpost that now serves as a museum in Banja.",
-                  "category": "museum",
-                  "coords": [
-                        25.629339,
-                        42.430881
-                  ]
-            },
-            {
                   "name": "Defenders of Stara Zagora Memorial Complex",
                   "text": "Memorial complex featuring bronze statues of Bulgarian soldiers, commemorating the 1877 defence of Stara Zagora near Banya.",
                   "category": "historical",
@@ -11964,39 +11901,12 @@ export const bulgariaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Podpolkovnik Kalitin Park",
-                  "text": "A memorial park named after Podpolkovnik Kalitin in the Banja region.",
-                  "category": "park",
-                  "coords": [
-                        25.644582,
-                        42.425044
-                  ]
-            },
-            {
                   "name": "Panorama",
                   "text": "The natural site of Panorama provides a vast and unobstructed view of the surroundings of Banya Stara Zagora in Bulgaria. As a wonderful viewpoint, it is ideal for anyone who appreciates a sweeping landscape perspective. Photographers and nature lovers alike will find much to enjoy here.",
                   "category": "natural",
                   "coords": [
                         25.622936,
                         42.442464
-                  ]
-            },
-            {
-                  "name": "pam. Vasil Levski",
-                  "text": "A monument dedicated to the Bulgarian national hero Vasil Levski.",
-                  "category": "historical",
-                  "coords": [
-                        25.628409,
-                        42.430189
-                  ]
-            },
-            {
-                  "name": "Revolyutsionerski pametnik",
-                  "text": "A local monument dedicated to historical revolutionaries.",
-                  "category": "historical",
-                  "coords": [
-                        25.638062,
-                        42.426003
                   ]
             },
             {
@@ -12489,30 +12399,12 @@ export const bulgariaCitiesV2: POI[] = [
     id: "bulgaria-batenberg-vtarnovo-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Park Kolo Ficheto",
-                  "text": "Ein Park in Weliko Tarnowo, benannt nach dem Architekten Koljo Fitscheto.",
-                  "category": "park",
-                  "coords": [
-                        25.60661,
-                        43.078687
-                  ]
-            },
-            {
                   "name": "Flat Rock",
                   "text": "Ein großer flacher Felsvorsprung mit Panoramablick auf die Umgebung bei Batenberg.",
                   "category": "natural",
                   "coords": [
                         25.629929,
                         43.110041
-                  ]
-            },
-            {
-                  "name": "Izgreva Kartala",
-                  "text": "Ein Aussichtspunkt, bekannt für seinen Sonnenaufgang über dem Kartala-Tal, nahe Batenberg.",
-                  "category": "natural",
-                  "coords": [
-                        25.632841,
-                        43.090417
                   ]
             },
             {
@@ -12527,30 +12419,12 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Park Kolo Ficheto",
-                  "text": "Kolju Ficseto építészről elnevezett park Veliko Tarnovóban.",
-                  "category": "park",
-                  "coords": [
-                        25.60661,
-                        43.078687
-                  ]
-            },
-            {
                   "name": "Flat Rock",
                   "text": "Egy nagy lapos sziklakibúvás, panorámás kilátással a környező vidékre Batenberg közelében.",
                   "category": "natural",
                   "coords": [
                         25.629929,
                         43.110041
-                  ]
-            },
-            {
-                  "name": "Izgreva Kartala",
-                  "text": "Egy kilátópont, amely a napfelkeltéről ismert a Kartala-völgy felett, Batenberg közelében.",
-                  "category": "natural",
-                  "coords": [
-                        25.632841,
-                        43.090417
                   ]
             },
             {
@@ -12565,30 +12439,12 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Park Kolo Ficheto",
-                  "text": "Un parc în Veliko Tărnovo numit după arhitectul Kolio Ficeto.",
-                  "category": "park",
-                  "coords": [
-                        25.60661,
-                        43.078687
-                  ]
-            },
-            {
                   "name": "Flat Rock",
                   "text": "O stâncă mare și plată, cu vedere panoramică asupra peisajului din jur, lângă Batenberg.",
                   "category": "natural",
                   "coords": [
                         25.629929,
                         43.110041
-                  ]
-            },
-            {
-                  "name": "Izgreva Kartala",
-                  "text": "Un punct de belvedere cunoscut pentru răsăritul soarelui peste valea Kartala, lângă Batenberg.",
-                  "category": "natural",
-                  "coords": [
-                        25.632841,
-                        43.090417
                   ]
             },
             {
@@ -12603,30 +12459,12 @@ export const bulgariaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Park Kolo Ficheto",
-                  "text": "A park in Veliko Tarnovo named after the architect Kolyu Ficheto.",
-                  "category": "park",
-                  "coords": [
-                        25.60661,
-                        43.078687
-                  ]
-            },
-            {
                   "name": "Flat Rock",
                   "text": "A large flat rock outcrop offering panoramic views of the surrounding countryside near Batenberg.",
                   "category": "natural",
                   "coords": [
                         25.629929,
                         43.110041
-                  ]
-            },
-            {
-                  "name": "Izgreva Kartala",
-                  "text": "A scenic viewpoint known for its sunrise over the Kartala valley, near Batenberg.",
-                  "category": "natural",
-                  "coords": [
-                        25.632841,
-                        43.090417
                   ]
             },
             {

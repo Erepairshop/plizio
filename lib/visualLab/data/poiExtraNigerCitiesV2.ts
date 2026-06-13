@@ -43,51 +43,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     id: "zinder-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Palais de Tambari - le chef des Touareg",
-                  "text": "Ein historischer Palast des Tuareg-Häuptlings in Zinder, in traditioneller Architektur erbaut.",
-                  "category": "castle",
-                  "coords": [
-                        8.985589,
-                        13.808856
-                  ]
-            },
-            {
-                  "name": "Musée Régional de Zinder",
-                  "text": "Ein Museum mit Artefakten der Hausa- und Tuareg-Kultur in Zinder.",
-                  "category": "museum",
-                  "coords": [
-                        8.991863,
-                        13.798467
-                  ]
-            },
-            {
-                  "name": "Sultanat de Zinder",
-                  "text": "Der historische Sultanspalastkomplex in Zinder.",
-                  "category": "castle",
-                  "coords": [
-                        9.001951,
-                        13.793725
-                  ]
-            },
-            {
-                  "name": "FADA CARLO",
-                  "text": "Ein historisches befestigtes Gebäude in Zinder.",
-                  "category": "castle",
-                  "coords": [
-                        8.964927,
-                        13.804887
-                  ]
-            },
-            {
-                  "name": "gida",
-                  "text": "Ein traditionelles Hausa-Schloss oder befestigtes Haus in Zinder.",
-                  "category": "castle",
-                  "coords": [
-                        9.00167,
-                        13.800314
-                  ]
-            },
-            {
                   "name": "CCFN - Centre Culturel Franco-Nigérien",
                   "text": "Französisch-Nigrisches Kulturzentrum mit Bibliothek und Veranstaltungsräumen in Zinder.",
                   "category": "cultural",
@@ -95,63 +50,9 @@ export const poiExtraNigerCitiesV2: POI[] = [
                         8.990284,
                         13.804284
                   ]
-            },
-            {
-                  "name": "Village Artisanal Palami",
-                  "text": "Handwerkerdorf in Zinder, in dem lokale Kunsthandwerker traditionelle Waren herstellen und verkaufen.",
-                  "category": "cultural",
-                  "coords": [
-                        8.97168,
-                        13.800974
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Palais de Tambari - le chef des Touareg",
-                  "text": "A tuareg törzsfőnök történelmi palotája Zinderben, hagyományos stílusban épült.",
-                  "category": "castle",
-                  "coords": [
-                        8.985589,
-                        13.808856
-                  ]
-            },
-            {
-                  "name": "Musée Régional de Zinder",
-                  "text": "Múzeum, amely a hausza és tuareg kultúra tárgyait mutatja be Zinderben.",
-                  "category": "museum",
-                  "coords": [
-                        8.991863,
-                        13.798467
-                  ]
-            },
-            {
-                  "name": "Sultanat de Zinder",
-                  "text": "A történelmi szultáni palotaegyüttes Zinderben.",
-                  "category": "castle",
-                  "coords": [
-                        9.001951,
-                        13.793725
-                  ]
-            },
-            {
-                  "name": "FADA CARLO",
-                  "text": "Egy történelmi erődített épület Zinderben.",
-                  "category": "castle",
-                  "coords": [
-                        8.964927,
-                        13.804887
-                  ]
-            },
-            {
-                  "name": "gida",
-                  "text": "Egy hagyományos hausza vár vagy erődített ház Zinderben.",
-                  "category": "castle",
-                  "coords": [
-                        9.00167,
-                        13.800314
-                  ]
-            },
             {
                   "name": "CCFN - Centre Culturel Franco-Nigérien",
                   "text": "Francia-nigeri kulturális központ könyvtárral és rendezvénytermekkel Zinderben.",
@@ -160,63 +61,9 @@ export const poiExtraNigerCitiesV2: POI[] = [
                         8.990284,
                         13.804284
                   ]
-            },
-            {
-                  "name": "Village Artisanal Palami",
-                  "text": "Kézműves falu Zinderben, ahol a helyi mesterek hagyományos termékeket készítenek és árusítanak.",
-                  "category": "cultural",
-                  "coords": [
-                        8.97168,
-                        13.800974
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Palais de Tambari - le chef des Touareg",
-                  "text": "Un palat istoric al șefului tuareg din Zinder, construit în arhitectură tradițională.",
-                  "category": "castle",
-                  "coords": [
-                        8.985589,
-                        13.808856
-                  ]
-            },
-            {
-                  "name": "Musée Régional de Zinder",
-                  "text": "Un muzeu care prezintă artefacte ale culturii hausa și tuareg din Zinder.",
-                  "category": "museum",
-                  "coords": [
-                        8.991863,
-                        13.798467
-                  ]
-            },
-            {
-                  "name": "Sultanat de Zinder",
-                  "text": "Complexul istoric al palatului sultanului din Zinder.",
-                  "category": "castle",
-                  "coords": [
-                        9.001951,
-                        13.793725
-                  ]
-            },
-            {
-                  "name": "FADA CARLO",
-                  "text": "O clădire fortificată istorică în Zinder.",
-                  "category": "castle",
-                  "coords": [
-                        8.964927,
-                        13.804887
-                  ]
-            },
-            {
-                  "name": "gida",
-                  "text": "Un castel tradițional hausa sau o casă fortificată în Zinder.",
-                  "category": "castle",
-                  "coords": [
-                        9.00167,
-                        13.800314
-                  ]
-            },
             {
                   "name": "CCFN - Centre Culturel Franco-Nigérien",
                   "text": "Centru cultural franco-nigerian cu bibliotecă și săli de evenimente în Zinder.",
@@ -225,63 +72,9 @@ export const poiExtraNigerCitiesV2: POI[] = [
                         8.990284,
                         13.804284
                   ]
-            },
-            {
-                  "name": "Village Artisanal Palami",
-                  "text": "Sat artizanal în Zinder, unde meșteșugarii locali produc și vând bunuri tradiționale.",
-                  "category": "cultural",
-                  "coords": [
-                        8.97168,
-                        13.800974
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Palais de Tambari - le chef des Touareg",
-                  "text": "A historic palace of the Tuareg chief in Zinder, built in traditional architecture.",
-                  "category": "castle",
-                  "coords": [
-                        8.985589,
-                        13.808856
-                  ]
-            },
-            {
-                  "name": "Musée Régional de Zinder",
-                  "text": "A museum displaying artifacts of Hausa and Tuareg culture in Zinder.",
-                  "category": "museum",
-                  "coords": [
-                        8.991863,
-                        13.798467
-                  ]
-            },
-            {
-                  "name": "Sultanat de Zinder",
-                  "text": "The historic sultan's palace complex in Zinder.",
-                  "category": "castle",
-                  "coords": [
-                        9.001951,
-                        13.793725
-                  ]
-            },
-            {
-                  "name": "FADA CARLO",
-                  "text": "A historic fortified building in Zinder.",
-                  "category": "castle",
-                  "coords": [
-                        8.964927,
-                        13.804887
-                  ]
-            },
-            {
-                  "name": "gida",
-                  "text": "A traditional Hausa castle or fortified house in Zinder.",
-                  "category": "castle",
-                  "coords": [
-                        9.00167,
-                        13.800314
-                  ]
-            },
             {
                   "name": "CCFN - Centre Culturel Franco-Nigérien",
                   "text": "Franco-Nigerian cultural centre with library and event spaces in Zinder.",
@@ -289,15 +82,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
                   "coords": [
                         8.990284,
                         13.804284
-                  ]
-            },
-            {
-                  "name": "Village Artisanal Palami",
-                  "text": "Artisan village in Zinder where local craftspeople produce and sell traditional goods.",
-                  "category": "cultural",
-                  "coords": [
-                        8.97168,
-                        13.800974
                   ]
             }
       ]
@@ -388,158 +172,10 @@ export const poiExtraNigerCitiesV2: POI[] = [
     }, image: "/poi-images/maradi-cities-v2.webp"},
   {
     id: "tahoua-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Monument Roumbou",
-                  "text": "Historisches Denkmal in Tahoua, das an eine lokale Persönlichkeit oder ein Ereignis erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        5.264466,
-                        14.890246
-                  ]
-            },
-            {
-                  "name": "Avenu Mamadou Tandja",
-                  "text": "Allee, benannt nach dem ehemaligen nigrischen Präsidenten Mamadou Tandja in Tahoua.",
-                  "category": "historical",
-                  "coords": [
-                        5.269708,
-                        14.892012
-                  ]
-            },
-            {
-                  "name": "Monument de la Renaissance",
-                  "text": "Monument der Renaissance in Tahoua, ein Wahrzeichen für Versammlungen und Feierlichkeiten.",
-                  "category": "historical",
-                  "coords": [
-                        5.284658,
-                        14.885194
-                  ]
-            },
-            {
-                  "name": "Centre Artisanal - Tahoua",
-                  "text": "Handwerkszentrum in Tahoua, in dem lokale Kunsthandwerker ihre Arbeiten ausstellen und verkaufen.",
-                  "category": "cultural",
-                  "coords": [
-                        5.267144,
-                        14.898345
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Monument Roumbou",
-                  "text": "Történelmi emlékmű Tahouában, amely egy helyi személyiség vagy esemény előtt tiszteleg.",
-                  "category": "historical",
-                  "coords": [
-                        5.264466,
-                        14.890246
-                  ]
-            },
-            {
-                  "name": "Avenu Mamadou Tandja",
-                  "text": "A Mamadou Tandja egykori nigeri elnökről elnevezett sugárút Tahouában.",
-                  "category": "historical",
-                  "coords": [
-                        5.269708,
-                        14.892012
-                  ]
-            },
-            {
-                  "name": "Monument de la Renaissance",
-                  "text": "A Reneszánsz emlékmű Tahouában, gyakran találkozók és ünnepségek helyszíne.",
-                  "category": "historical",
-                  "coords": [
-                        5.284658,
-                        14.885194
-                  ]
-            },
-            {
-                  "name": "Centre Artisanal - Tahoua",
-                  "text": "Kézműves központ Tahouában, ahol a helyi mesterek kiállítják és árusítják munkáikat.",
-                  "category": "cultural",
-                  "coords": [
-                        5.267144,
-                        14.898345
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Monument Roumbou",
-                  "text": "Monument istoric în Tahoua, care comemorează o personalitate sau un eveniment local.",
-                  "category": "historical",
-                  "coords": [
-                        5.264466,
-                        14.890246
-                  ]
-            },
-            {
-                  "name": "Avenu Mamadou Tandja",
-                  "text": "Bulevard numit după fostul președinte nigerian Mamadou Tandja în Tahoua.",
-                  "category": "historical",
-                  "coords": [
-                        5.269708,
-                        14.892012
-                  ]
-            },
-            {
-                  "name": "Monument de la Renaissance",
-                  "text": "Monumentul Renașterii din Tahoua, un reper pentru adunări și ceremonii.",
-                  "category": "historical",
-                  "coords": [
-                        5.284658,
-                        14.885194
-                  ]
-            },
-            {
-                  "name": "Centre Artisanal - Tahoua",
-                  "text": "Centru artizanal în Tahoua, unde meșteșugarii locali își expun și vând lucrările.",
-                  "category": "cultural",
-                  "coords": [
-                        5.267144,
-                        14.898345
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Monument Roumbou",
-                  "text": "A historical monument in Tahoua commemorating a local figure or event.",
-                  "category": "historical",
-                  "coords": [
-                        5.264466,
-                        14.890246
-                  ]
-            },
-            {
-                  "name": "Avenu Mamadou Tandja",
-                  "text": "Avenue named after former Nigerien President Mamadou Tandja in Tahoua.",
-                  "category": "historical",
-                  "coords": [
-                        5.269708,
-                        14.892012
-                  ]
-            },
-            {
-                  "name": "Monument de la Renaissance",
-                  "text": "A Renaissance monument in Tahoua, a landmark for gatherings and celebrations.",
-                  "category": "historical",
-                  "coords": [
-                        5.284658,
-                        14.885194
-                  ]
-            },
-            {
-                  "name": "Centre Artisanal - Tahoua",
-                  "text": "A craft center in Tahoua where local artisans display and sell their work.",
-                  "category": "cultural",
-                  "coords": [
-                        5.267144,
-                        14.898345
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "NE-5",
@@ -582,24 +218,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
                         7.988066,
                         16.974804
                   ]
-            },
-            {
-                  "name": "Podium et tribune de la maison de Jeunes MJC.",
-                  "text": "Bühne und Tribüne des Jugend- und Kulturzentrums (MJC) in Agadez, genutzt für Veranstaltungen und Aufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        7.988624,
-                        16.982059
-                  ]
-            },
-            {
-                  "name": "Centre d’Artisanal d’Agadez",
-                  "text": "Handwerkszentrum in Agadez, bekannt für Tuareg-Kunsthandwerk und Silberarbeiten.",
-                  "category": "cultural",
-                  "coords": [
-                        7.983255,
-                        16.970326
-                  ]
             }
       ],
       "hu": [
@@ -610,24 +228,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
                   "coords": [
                         7.988066,
                         16.974804
-                  ]
-            },
-            {
-                  "name": "Podium et tribune de la maison de Jeunes MJC.",
-                  "text": "Az agadezi Ifjúsági és Kulturális Központ (MJC) színpada és lelátója, rendezvények és előadások helyszíne.",
-                  "category": "cultural",
-                  "coords": [
-                        7.988624,
-                        16.982059
-                  ]
-            },
-            {
-                  "name": "Centre d’Artisanal d’Agadez",
-                  "text": "Agadezi kézműves központ, híres tuareg kézműves termékeiről és ezüstmunkáiról.",
-                  "category": "cultural",
-                  "coords": [
-                        7.983255,
-                        16.970326
                   ]
             }
       ],
@@ -640,24 +240,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
                         7.988066,
                         16.974804
                   ]
-            },
-            {
-                  "name": "Podium et tribune de la maison de Jeunes MJC.",
-                  "text": "Podiumul și tribuna Centrului de Tineret și Cultură (MJC) din Agadez, folosite pentru evenimente și spectacole.",
-                  "category": "cultural",
-                  "coords": [
-                        7.988624,
-                        16.982059
-                  ]
-            },
-            {
-                  "name": "Centre d’Artisanal d’Agadez",
-                  "text": "Centru artizanal în Agadez, renumit pentru meșteșugurile tuarege și argintăria.",
-                  "category": "cultural",
-                  "coords": [
-                        7.983255,
-                        16.970326
-                  ]
             }
       ],
       "en": [
@@ -668,24 +250,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
                   "coords": [
                         7.988066,
                         16.974804
-                  ]
-            },
-            {
-                  "name": "Podium et tribune de la maison de Jeunes MJC.",
-                  "text": "The stage and grandstand of the Agadez Youth and Culture Center (MJC), used for events and performances.",
-                  "category": "cultural",
-                  "coords": [
-                        7.988624,
-                        16.982059
-                  ]
-            },
-            {
-                  "name": "Centre d’Artisanal d’Agadez",
-                  "text": "An artisan center in Agadez featuring Tuareg crafts and silverwork.",
-                  "category": "cultural",
-                  "coords": [
-                        7.983255,
-                        16.970326
                   ]
             }
       ]
@@ -778,194 +342,10 @@ export const poiExtraNigerCitiesV2: POI[] = [
   },
   {
     id: "dosso-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Musée Regionale Djermakoye de Dosso",
-                  "text": "Regionalmuseum Djermakoye in Dosso, das Artefakte der Djerma-Kultur und Geschichte ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        3.199169,
-                        13.042867
-                  ]
-            },
-            {
-                  "name": "Maison de Culture du 18/12/2014",
-                  "text": "Kulturhaus, eröffnet am 18. Dezember 2014 in Dosso, das kulturelle Veranstaltungen beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        3.197541,
-                        13.044466
-                  ]
-            },
-            {
-                  "name": "Artisanat",
-                  "text": "Museum für traditionelles Handwerk in Dosso, das lokale kunsthandwerkliche Arbeiten zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        3.199451,
-                        13.041407
-                  ]
-            },
-            {
-                  "name": "Dosso vous Souhaite la bienvenue",
-                  "text": "Willkommensmonument am Eingang von Dosso, das Besucher begrüßt.",
-                  "category": "historical",
-                  "coords": [
-                        3.214179,
-                        13.039967
-                  ]
-            },
-            {
-                  "name": "Place de Djermakoye",
-                  "text": "Djermakoye-Platz in Dosso, ein zentraler öffentlicher Platz, benannt nach einem lokalen Herrscher.",
-                  "category": "historical",
-                  "coords": [
-                        3.200303,
-                        13.042447
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Musée Regionale Djermakoye de Dosso",
-                  "text": "A Djermakoye Regionális Múzeum Dossóban, a dzserma kultúra és történelem tárgyaival.",
-                  "category": "museum",
-                  "coords": [
-                        3.199169,
-                        13.042867
-                  ]
-            },
-            {
-                  "name": "Maison de Culture du 18/12/2014",
-                  "text": "2014. december 18-án megnyílt kulturális központ Dossóban, amely kulturális eseményeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        3.197541,
-                        13.044466
-                  ]
-            },
-            {
-                  "name": "Artisanat",
-                  "text": "Hagyományos kézműves múzeum Dossóban, helyi mesterek munkáit bemutatva.",
-                  "category": "museum",
-                  "coords": [
-                        3.199451,
-                        13.041407
-                  ]
-            },
-            {
-                  "name": "Dosso vous Souhaite la bienvenue",
-                  "text": "Üdvözlő emlékmű Dosso bejáratánál, amely köszönti a látogatókat.",
-                  "category": "historical",
-                  "coords": [
-                        3.214179,
-                        13.039967
-                  ]
-            },
-            {
-                  "name": "Place de Djermakoye",
-                  "text": "Djermakoye tér Dossóban, központi köz tér, amely egy helyi uralkodóról kapta a nevét.",
-                  "category": "historical",
-                  "coords": [
-                        3.200303,
-                        13.042447
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Musée Regionale Djermakoye de Dosso",
-                  "text": "Muzeul Regional Djermakoye din Dosso, care expune artefacte ale culturii și istoriei Djerma.",
-                  "category": "museum",
-                  "coords": [
-                        3.199169,
-                        13.042867
-                  ]
-            },
-            {
-                  "name": "Maison de Culture du 18/12/2014",
-                  "text": "Casă de Cultură inaugurată pe 18 decembrie 2014 în Dosso, care găzduiește evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        3.197541,
-                        13.044466
-                  ]
-            },
-            {
-                  "name": "Artisanat",
-                  "text": "Muzeu de meșteșuguri tradiționale în Dosso, care prezintă lucrări artizanale locale.",
-                  "category": "museum",
-                  "coords": [
-                        3.199451,
-                        13.041407
-                  ]
-            },
-            {
-                  "name": "Dosso vous Souhaite la bienvenue",
-                  "text": "Monument de bun venit la intrarea în Dosso, care salută vizitatorii.",
-                  "category": "historical",
-                  "coords": [
-                        3.214179,
-                        13.039967
-                  ]
-            },
-            {
-                  "name": "Place de Djermakoye",
-                  "text": "Piața Djermakoye din Dosso, un spațiu public central numit după un conducător local.",
-                  "category": "historical",
-                  "coords": [
-                        3.200303,
-                        13.042447
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Musée Regionale Djermakoye de Dosso",
-                  "text": "The Djermakoye Regional Museum in Dosso, exhibiting artifacts of Djerma culture and history.",
-                  "category": "museum",
-                  "coords": [
-                        3.199169,
-                        13.042867
-                  ]
-            },
-            {
-                  "name": "Maison de Culture du 18/12/2014",
-                  "text": "A cultural center inaugurated on 18 December 2014 in Dosso, hosting cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        3.197541,
-                        13.044466
-                  ]
-            },
-            {
-                  "name": "Artisanat",
-                  "text": "A museum of traditional crafts in Dosso, displaying local artisan works.",
-                  "category": "museum",
-                  "coords": [
-                        3.199451,
-                        13.041407
-                  ]
-            },
-            {
-                  "name": "Dosso vous Souhaite la bienvenue",
-                  "text": "A welcome monument at the entrance to Dosso, greeting visitors.",
-                  "category": "historical",
-                  "coords": [
-                        3.214179,
-                        13.039967
-                  ]
-            },
-            {
-                  "name": "Place de Djermakoye",
-                  "text": "Djermakoye Square in Dosso, a central public space named after a local ruler.",
-                  "category": "historical",
-                  "coords": [
-                        3.200303,
-                        13.042447
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "NE-3",
@@ -1013,24 +393,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
     id: "diffa-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Kazelmarie ",
-                  "text": "Schlossähnliche Struktur in Diffa, möglicherweise eine historische Residenz oder Befestigung.",
-                  "category": "castle",
-                  "coords": [
-                        12.61828,
-                        13.31905
-                  ]
-            },
-            {
-                  "name": "Tribune officielle",
-                  "text": "Offizielle Tribüne in Diffa, genutzt für Zeremonien und öffentliche Versammlungen.",
-                  "category": "historical",
-                  "coords": [
-                        12.613831,
-                        13.318235
-                  ]
-            },
-            {
                   "name": "Tribune hippodrome",
                   "text": "Tribüne des Hippodroms (Pferderennbahn) in Diffa.",
                   "category": "historical",
@@ -1047,36 +409,9 @@ export const poiExtraNigerCitiesV2: POI[] = [
                         12.604885,
                         13.324043
                   ]
-            },
-            {
-                  "name": "Porte Diffa Yerima",
-                  "text": "Das Yerima-Tor in Diffa, ein Eingangstor zur Stadt oder zu einem historischen Viertel.",
-                  "category": "historical",
-                  "coords": [
-                        12.584873,
-                        13.314136
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Kazelmarie ",
-                  "text": "Várhoz hasonló építmény Diffában, valószínűleg történelmi rezidencia vagy erődítmény.",
-                  "category": "castle",
-                  "coords": [
-                        12.61828,
-                        13.31905
-                  ]
-            },
-            {
-                  "name": "Tribune officielle",
-                  "text": "Hivatalos lelátó Diffában, ceremóniák és nyilvános összejövetelek helyszíne.",
-                  "category": "historical",
-                  "coords": [
-                        12.613831,
-                        13.318235
-                  ]
-            },
             {
                   "name": "Tribune hippodrome",
                   "text": "A diffai hippodrom (lóversenypálya) lelátója.",
@@ -1094,36 +429,9 @@ export const poiExtraNigerCitiesV2: POI[] = [
                         12.604885,
                         13.324043
                   ]
-            },
-            {
-                  "name": "Porte Diffa Yerima",
-                  "text": "A Yerima-kapu Diffában, bejárati kapu a városhoz vagy egy történelmi negyedhez.",
-                  "category": "historical",
-                  "coords": [
-                        12.584873,
-                        13.314136
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Kazelmarie ",
-                  "text": "Structură asemănătoare unui castel în Diffa, posibil o reședință istorică sau fortificație.",
-                  "category": "castle",
-                  "coords": [
-                        12.61828,
-                        13.31905
-                  ]
-            },
-            {
-                  "name": "Tribune officielle",
-                  "text": "Tribuna oficială din Diffa, folosită pentru ceremonii și adunări publice.",
-                  "category": "historical",
-                  "coords": [
-                        12.613831,
-                        13.318235
-                  ]
-            },
             {
                   "name": "Tribune hippodrome",
                   "text": "Tribuna hipodromului (pista de curse de cai) din Diffa.",
@@ -1141,36 +449,9 @@ export const poiExtraNigerCitiesV2: POI[] = [
                         12.604885,
                         13.324043
                   ]
-            },
-            {
-                  "name": "Porte Diffa Yerima",
-                  "text": "Poarta Yerima din Diffa, o poartă de intrare în oraș sau într-un cartier istoric.",
-                  "category": "historical",
-                  "coords": [
-                        12.584873,
-                        13.314136
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Kazelmarie ",
-                  "text": "A castle-like structure in Diffa, possibly a historical residence or fortification.",
-                  "category": "castle",
-                  "coords": [
-                        12.61828,
-                        13.31905
-                  ]
-            },
-            {
-                  "name": "Tribune officielle",
-                  "text": "The official grandstand in Diffa, used for ceremonies and public gatherings.",
-                  "category": "historical",
-                  "coords": [
-                        12.613831,
-                        13.318235
-                  ]
-            },
             {
                   "name": "Tribune hippodrome",
                   "text": "The grandstand of the hippodrome (horse racing track) in Diffa.",
@@ -1187,15 +468,6 @@ export const poiExtraNigerCitiesV2: POI[] = [
                   "coords": [
                         12.604885,
                         13.324043
-                  ]
-            },
-            {
-                  "name": "Porte Diffa Yerima",
-                  "text": "The Yerima Gate in Diffa, an entrance gate to the city or a historic quarter.",
-                  "category": "historical",
-                  "coords": [
-                        12.584873,
-                        13.314136
                   ]
             }
       ]
@@ -1862,50 +1134,10 @@ export const poiExtraNigerCitiesV2: POI[] = [
   },
   {
     id: "nguigmi-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Tribune",
-                  "text": "Eine Tribüne in Nguigmi, genutzt für lokale Veranstaltungen und Zeremonien.",
-                  "category": "historical",
-                  "coords": [
-                        13.113202,
-                        14.25705
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Tribune",
-                  "text": "Lelátó Nguigmiben, helyi rendezvények és ceremóniák helyszíne.",
-                  "category": "historical",
-                  "coords": [
-                        13.113202,
-                        14.25705
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Tribune",
-                  "text": "O tribună în Nguigmi, folosită pentru evenimente și ceremonii locale.",
-                  "category": "historical",
-                  "coords": [
-                        13.113202,
-                        14.25705
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Tribune",
-                  "text": "A grandstand in Nguigmi, used for local events and ceremonies.",
-                  "category": "historical",
-                  "coords": [
-                        13.113202,
-                        14.25705
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "NE-2",

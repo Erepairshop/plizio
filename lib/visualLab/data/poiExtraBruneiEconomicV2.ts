@@ -1438,15 +1438,6 @@ export const poiExtraBruneiEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taman Seri Warisan Emas",
-                  "text": "Der Taman Seri Warisan Emas ist ein angelegter Monumentalpark, der das kulturelle Erbe der Bukit Panggal Region feiert.",
-                  "category": "historical",
-                  "coords": [
-                        114.661237,
-                        4.815146
-                  ]
-            },
-            {
                   "name": "\"Tutong\" Sign",
                   "text": "Das \"Tutong\" Schild ist ein auffälliges Wahrzeichen, das Besucher im Distrikt nahe Bukit Panggal willkommen heißt.",
                   "category": "historical",
@@ -1500,15 +1491,6 @@ export const poiExtraBruneiEconomicV2: POI[] = [
                   "coords": [
                         114.668556,
                         4.799525
-                  ]
-            },
-            {
-                  "name": "Taman Seri Warisan Emas",
-                  "text": "A Taman Seri Warisan Emas egy parkosított emlékmű, amely a Bukit Panggal régió kulturális örökségét ünnepli.",
-                  "category": "historical",
-                  "coords": [
-                        114.661237,
-                        4.815146
                   ]
             },
             {
@@ -1568,15 +1550,6 @@ export const poiExtraBruneiEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Taman Seri Warisan Emas",
-                  "text": "Taman Seri Warisan Emas este un parc monumental amenajat, care celebrează moștenirea culturală a regiunii Bukit Panggal.",
-                  "category": "historical",
-                  "coords": [
-                        114.661237,
-                        4.815146
-                  ]
-            },
-            {
                   "name": "\"Tutong\" Sign",
                   "text": "Semnul „Tutong” este un reper vizibil ce întâmpină vizitatorii în districtul din apropiere de Bukit Panggal.",
                   "category": "historical",
@@ -1630,15 +1603,6 @@ export const poiExtraBruneiEconomicV2: POI[] = [
                   "coords": [
                         114.668556,
                         4.799525
-                  ]
-            },
-            {
-                  "name": "Taman Seri Warisan Emas",
-                  "text": "Taman Seri Warisan Emas is a landscaped monument park celebrating the cultural heritage of the Bukit Panggal region.",
-                  "category": "historical",
-                  "coords": [
-                        114.661237,
-                        4.815146
                   ]
             },
             {

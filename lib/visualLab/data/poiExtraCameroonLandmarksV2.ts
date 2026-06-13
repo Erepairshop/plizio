@@ -1878,42 +1878,6 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
     id: "kribi-lighthouse-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Foyer culturel et social de la communaute Bameka de l'ocean",
-                  "text": "Das Foyer culturel et social de la communaute Bameka de l'ocean ist ein kommunales Kunstzentrum in der Nähe des Leuchtturms von Kribi.",
-                  "category": "cultural",
-                  "coords": [
-                        9.917172,
-                        2.951536
-                  ]
-            },
-            {
-                  "name": "Association socio culturelle bafung de l'ocean",
-                  "text": "Die Association socio culturelle bafung de l'ocean ist ein kulturelles Kunstzentrum in der Nähe des Leuchtturms von Kribi.",
-                  "category": "cultural",
-                  "coords": [
-                        9.918265,
-                        2.958248
-                  ]
-            },
-            {
-                  "name": "Foyer socioculturel de la famille bansoa a kribi",
-                  "text": "Das Foyer socioculturel de la famille bansoa a kribi ist ein soziokulturelles Zentrum in der Nähe des Leuchtturms von Kribi.",
-                  "category": "cultural",
-                  "coords": [
-                        9.916067,
-                        2.953399
-                  ]
-            },
-            {
-                  "name": "\"Boucanier\" Bibiana",
-                  "text": "Die \"Boucanier\" Bibiana ist eine Attraktion in der Nähe des Leuchtturms von Kribi.",
-                  "category": "landmark",
-                  "coords": [
-                        9.912003,
-                        2.966067
-                  ]
-            },
-            {
                   "name": "Phare de Kribi",
                   "text": "Dieser funktionierende Küstenleuchtturm dient als markantes maritimes Leuchtfeuer für Schiffe, die im Golf von Guinea navigieren.",
                   "category": "landmark",
@@ -1924,42 +1888,6 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Foyer culturel et social de la communaute Bameka de l'ocean",
-                  "text": "A Foyer culturel et social de la communaute Bameka de l'ocean egy közösségi művészeti központ a kribi világítótorony közelében.",
-                  "category": "cultural",
-                  "coords": [
-                        9.917172,
-                        2.951536
-                  ]
-            },
-            {
-                  "name": "Association socio culturelle bafung de l'ocean",
-                  "text": "Az Association socio culturelle bafung de l'ocean egy kulturális művészeti központ a kribi világítótorony közelében.",
-                  "category": "cultural",
-                  "coords": [
-                        9.918265,
-                        2.958248
-                  ]
-            },
-            {
-                  "name": "Foyer socioculturel de la famille bansoa a kribi",
-                  "text": "A Foyer socioculturel de la famille bansoa a kribi egy szociokulturális művészeti központ a kribi világítótorony közelében.",
-                  "category": "cultural",
-                  "coords": [
-                        9.916067,
-                        2.953399
-                  ]
-            },
-            {
-                  "name": "\"Boucanier\" Bibiana",
-                  "text": "A \"Boucanier\" Bibiana egy parti látványosság a kribi világítótorony környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        9.912003,
-                        2.966067
-                  ]
-            },
             {
                   "name": "Phare de Kribi",
                   "text": "Ez a működő parti világítótorony fontos tengeri jelzőfényként szolgál a Guineai-öbölben navigáló hajók számára.",
@@ -1972,42 +1900,6 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Foyer culturel et social de la communaute Bameka de l'ocean",
-                  "text": "Foyer culturel et social de la communaute Bameka de l'ocean este un centru comunitar de arte situat în apropiere de Farul din Kribi.",
-                  "category": "cultural",
-                  "coords": [
-                        9.917172,
-                        2.951536
-                  ]
-            },
-            {
-                  "name": "Association socio culturelle bafung de l'ocean",
-                  "text": "Association socio culturelle bafung de l'ocean este un centru cultural de arte situat lângă Farul din Kribi.",
-                  "category": "cultural",
-                  "coords": [
-                        9.918265,
-                        2.958248
-                  ]
-            },
-            {
-                  "name": "Foyer socioculturel de la famille bansoa a kribi",
-                  "text": "Foyer socioculturel de la famille bansoa a kribi este un centru socio-cultural situat în apropiere de Farul din Kribi.",
-                  "category": "cultural",
-                  "coords": [
-                        9.916067,
-                        2.953399
-                  ]
-            },
-            {
-                  "name": "\"Boucanier\" Bibiana",
-                  "text": "\"Boucanier\" Bibiana este o atracție situată în apropierea farului din Kribi.",
-                  "category": "landmark",
-                  "coords": [
-                        9.912003,
-                        2.966067
-                  ]
-            },
-            {
                   "name": "Phare de Kribi",
                   "text": "Acest far de coastă operațional servește ca un reper maritim important pentru navele care navighează în Golful Guineei.",
                   "category": "landmark",
@@ -2018,42 +1910,6 @@ export const poiExtraCameroonLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Foyer culturel et social de la communaute Bameka de l'ocean",
-                  "text": "Foyer culturel et social de la communaute Bameka de l'ocean is a community arts centre located near the Kribi Lighthouse.",
-                  "category": "cultural",
-                  "coords": [
-                        9.917172,
-                        2.951536
-                  ]
-            },
-            {
-                  "name": "Association socio culturelle bafung de l'ocean",
-                  "text": "Association socio culturelle bafung de l'ocean is a cultural arts centre situated near the Kribi Lighthouse.",
-                  "category": "cultural",
-                  "coords": [
-                        9.918265,
-                        2.958248
-                  ]
-            },
-            {
-                  "name": "Foyer socioculturel de la famille bansoa a kribi",
-                  "text": "Foyer socioculturel de la famille bansoa a kribi is a socio-cultural arts centre located near the Kribi Lighthouse.",
-                  "category": "cultural",
-                  "coords": [
-                        9.916067,
-                        2.953399
-                  ]
-            },
-            {
-                  "name": "\"Boucanier\" Bibiana",
-                  "text": "The \"Boucanier\" Bibiana is a coastal attraction near the Kribi lighthouse area.",
-                  "category": "landmark",
-                  "coords": [
-                        9.912003,
-                        2.966067
-                  ]
-            },
             {
                   "name": "Phare de Kribi",
                   "text": "This operational coastal lighthouse serves as a prominent maritime beacon for ships navigating the Gulf of Guinea.",

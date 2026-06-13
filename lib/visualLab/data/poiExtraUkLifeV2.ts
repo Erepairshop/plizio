@@ -2148,39 +2148,12 @@ imageHint: "Exmoor National Park moorland and wild ponies",
                   ]
             },
             {
-                  "name": "Loughtor Man",
-                  "text": "Ein prähistorischer Menhir oder stehender Stein im Dartmoor-Nationalpark.",
-                  "category": "historical",
-                  "coords": [
-                        -3.904342,
-                        50.562601
-                  ]
-            },
-            {
-                  "name": "The Judge's Chair",
-                  "text": "Eine historische oder archäologische Stätte innerhalb des Dartmoor-Nationalparks.",
-                  "category": "historical",
-                  "coords": [
-                        -3.912682,
-                        50.555188
-                  ]
-            },
-            {
                   "name": "Cairn",
                   "text": "Ein prähistorischer Grabhügel aus Steinen im Dartmoor-Nationalpark.",
                   "category": "historical",
                   "coords": [
                         -3.882709,
                         50.570863
-                  ]
-            },
-            {
-                  "name": "Outer Huccaby Ring",
-                  "text": "Eine archäologische Stätte im Dartmoor, die Überreste einer alten Steinsetzung umfasst.",
-                  "category": "historical",
-                  "coords": [
-                        -3.899326,
-                        50.554137
                   ]
             },
             {
@@ -2213,39 +2186,12 @@ imageHint: "Exmoor National Park moorland and wild ponies",
                   ]
             },
             {
-                  "name": "Loughtor Man",
-                  "text": "Őskori menhir vagy álló kő a Dartmoor Nemzeti Parkban.",
-                  "category": "historical",
-                  "coords": [
-                        -3.904342,
-                        50.562601
-                  ]
-            },
-            {
-                  "name": "The Judge's Chair",
-                  "text": "Történelmi vagy régészeti helyszín a Dartmoor Nemzeti Parkon belül.",
-                  "category": "historical",
-                  "coords": [
-                        -3.912682,
-                        50.555188
-                  ]
-            },
-            {
                   "name": "Cairn",
                   "text": "Őskori kövekből álló sírhalom a Dartmoor Nemzeti Parkban.",
                   "category": "historical",
                   "coords": [
                         -3.882709,
                         50.570863
-                  ]
-            },
-            {
-                  "name": "Outer Huccaby Ring",
-                  "text": "Régészeti lelőhely Dartmoorban, amely egy ősi kőalakzat maradványait foglalja magában.",
-                  "category": "historical",
-                  "coords": [
-                        -3.899326,
-                        50.554137
                   ]
             },
             {
@@ -2278,39 +2224,12 @@ imageHint: "Exmoor National Park moorland and wild ponies",
                   ]
             },
             {
-                  "name": "Loughtor Man",
-                  "text": "Un menhir preistoric sau o piatră verticală în Parcul Național Dartmoor.",
-                  "category": "historical",
-                  "coords": [
-                        -3.904342,
-                        50.562601
-                  ]
-            },
-            {
-                  "name": "The Judge's Chair",
-                  "text": "Un sit istoric sau arheologic în cadrul Parcului Național Dartmoor.",
-                  "category": "historical",
-                  "coords": [
-                        -3.912682,
-                        50.555188
-                  ]
-            },
-            {
                   "name": "Cairn",
                   "text": "Un tumul preistoric din pietre în Parcul Național Dartmoor.",
                   "category": "historical",
                   "coords": [
                         -3.882709,
                         50.570863
-                  ]
-            },
-            {
-                  "name": "Outer Huccaby Ring",
-                  "text": "Un sit arheologic în Dartmoor, cuprinzând resturile unei vechi structuri de piatră.",
-                  "category": "historical",
-                  "coords": [
-                        -3.899326,
-                        50.554137
                   ]
             },
             {
@@ -2343,39 +2262,12 @@ imageHint: "Exmoor National Park moorland and wild ponies",
                   ]
             },
             {
-                  "name": "Loughtor Man",
-                  "text": "A prehistoric menhir or standing stone in Dartmoor National Park.",
-                  "category": "historical",
-                  "coords": [
-                        -3.904342,
-                        50.562601
-                  ]
-            },
-            {
-                  "name": "The Judge's Chair",
-                  "text": "A historical or archaeological site within Dartmoor National Park.",
-                  "category": "historical",
-                  "coords": [
-                        -3.912682,
-                        50.555188
-                  ]
-            },
-            {
                   "name": "Cairn",
                   "text": "A prehistoric stone mound or burial cairn in Dartmoor National Park.",
                   "category": "historical",
                   "coords": [
                         -3.882709,
                         50.570863
-                  ]
-            },
-            {
-                  "name": "Outer Huccaby Ring",
-                  "text": "An archaeological site in Dartmoor comprising the remains of an ancient stone setting.",
-                  "category": "historical",
-                  "coords": [
-                        -3.899326,
-                        50.554137
                   ]
             },
             {

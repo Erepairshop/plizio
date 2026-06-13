@@ -888,15 +888,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harryville Mote and Bailey",
-                  "text": "Eine archäologische Stätte in Ballymena, die Überreste einer mittelalterlichen Motte zeigt.",
-                  "category": "historical",
-                  "coords": [
-                        -6.268843,
-                        54.858841
-                  ]
-            },
-            {
                   "name": "Galgorm Castle",
                   "text": "Ein historisches Schloss bei Ballymena, umgeben von einem Anwesen und Golfplatz.",
                   "category": "castle",
@@ -921,15 +912,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.2843,
                         54.8773
-                  ]
-            },
-            {
-                  "name": "ECOS Centre",
-                  "text": "Ein Umwelt- und Freizeitzentrum in Ballymena mit Fokus auf Natur und Nachhaltigkeit.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.258121,
-                        54.866692
                   ]
             },
             {
@@ -980,15 +962,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harryville Mote and Bailey",
-                  "text": "Régészeti lelőhely Ballymenában, amely egy középkori várhely maradványait őrzi.",
-                  "category": "historical",
-                  "coords": [
-                        -6.268843,
-                        54.858841
-                  ]
-            },
-            {
                   "name": "Galgorm Castle",
                   "text": "Történelmi kastély Ballymena közelében, birtokkal és golfpályával körülvéve.",
                   "category": "castle",
@@ -1013,15 +986,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.2843,
                         54.8773
-                  ]
-            },
-            {
-                  "name": "ECOS Centre",
-                  "text": "Környezetvédelmi és szabadidős központ Ballymenában, a természetre és fenntarthatóságra összpontosítva.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.258121,
-                        54.866692
                   ]
             },
             {
@@ -1072,15 +1036,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harryville Mote and Bailey",
-                  "text": "Un sit arheologic în Ballymena, care prezintă rămășițele unei fortificații medievale.",
-                  "category": "historical",
-                  "coords": [
-                        -6.268843,
-                        54.858841
-                  ]
-            },
-            {
                   "name": "Galgorm Castle",
                   "text": "Un castel istoric lângă Ballymena, înconjurat de o moșie și un teren de golf.",
                   "category": "castle",
@@ -1105,15 +1060,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.2843,
                         54.8773
-                  ]
-            },
-            {
-                  "name": "ECOS Centre",
-                  "text": "Un centru de mediu și recreere în Ballymena, axat pe natură și sustenabilitate.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.258121,
-                        54.866692
                   ]
             },
             {
@@ -1164,15 +1110,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harryville Mote and Bailey",
-                  "text": "An archaeological site in Ballymena showing the remains of a medieval motte and bailey.",
-                  "category": "historical",
-                  "coords": [
-                        -6.268843,
-                        54.858841
-                  ]
-            },
-            {
                   "name": "Galgorm Castle",
                   "text": "A historical castle near Ballymena, surrounded by an estate and golf course.",
                   "category": "castle",
@@ -1197,15 +1134,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.2843,
                         54.8773
-                  ]
-            },
-            {
-                  "name": "ECOS Centre",
-                  "text": "An environmental and leisure center in Ballymena focused on nature and sustainability.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.258121,
-                        54.866692
                   ]
             },
             {
@@ -5145,15 +5073,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Struell Wells",
-                  "text": "Vier antike heilige Brunnen in Downpatrick mit Badehäusern, die zur Heilung genutzt wurden.",
-                  "category": "historical",
-                  "coords": [
-                        -5.677293,
-                        54.324093
-                  ]
-            },
-            {
                   "name": "Finnebrogue House",
                   "text": "Finnebrogue House, ein Herrenhaus aus dem 17. Jahrhundert in Downpatrick.",
                   "category": "historical",
@@ -5261,15 +5180,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -5.735345,
                         54.332553
-                  ]
-            },
-            {
-                  "name": "Struell Wells",
-                  "text": "Négy ősi szent kút Downpatrickban fürdőházakkal, amelyeket gyógyításra használtak.",
-                  "category": "historical",
-                  "coords": [
-                        -5.677293,
-                        54.324093
                   ]
             },
             {
@@ -5383,15 +5293,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Struell Wells",
-                  "text": "Patru fântâni sfinte antice în Downpatrick, cu case de baie, folosite pentru vindecare.",
-                  "category": "historical",
-                  "coords": [
-                        -5.677293,
-                        54.324093
-                  ]
-            },
-            {
                   "name": "Finnebrogue House",
                   "text": "Finnebrogue House, un conac din secolul al XVII-lea în Downpatrick.",
                   "category": "historical",
@@ -5499,15 +5400,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -5.735345,
                         54.332553
-                  ]
-            },
-            {
-                  "name": "Struell Wells",
-                  "text": "Four ancient holy wells in Downpatrick with bath houses used for healing.",
-                  "category": "historical",
-                  "coords": [
-                        -5.677293,
-                        54.324093
                   ]
             },
             {
@@ -5784,42 +5676,6 @@ export const irelandCitiesV2: POI[] = [
     id: "ireland-enos-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Lough Coole",
-                  "text": "Ein kleiner See in einer Senke in der Drumlin-Landschaft bei Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.608945,
-                        54.339566
-                  ]
-            },
-            {
-                  "name": "Lough Acrussel",
-                  "text": "Lough Acrussel bei Enniskillen bietet eine ruhige Naturlandschaft.",
-                  "category": "natural",
-                  "coords": [
-                        -7.602691,
-                        54.316812
-                  ]
-            },
-            {
-                  "name": "Coolyermer Lough",
-                  "text": "Ein See mit schlammigem Grund und Schilfgürtel bei Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.723194,
-                        54.330012
-                  ]
-            },
-            {
-                  "name": "Rossole Lough",
-                  "text": "Ein See, der von Schilf umgeben ist und Vögeln als Lebensraum dient, bei Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.653153,
-                        54.33889
-                  ]
-            },
-            {
                   "name": "Toppedmountain Lough",
                   "text": "Ein See am Fuße eines Berges in der Nähe von Enos.",
                   "category": "natural",
@@ -5829,57 +5685,12 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Drumkirk Lough",
-                  "text": "Ein See nahe einer Kirchenruine auf einem Hügelrücken bei Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.574394,
-                        54.283761
-                  ]
-            },
-            {
-                  "name": "Lough Noely",
-                  "text": "Lough Noely bei Enniskillen bietet eine friedliche Atmosphäre.",
-                  "category": "natural",
-                  "coords": [
-                        -7.560213,
-                        54.299516
-                  ]
-            },
-            {
-                  "name": "Lough Raymond",
-                  "text": "Ein See, der nach einem normannischen Ritter benannt sein könnte, bei Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.560226,
-                        54.296062
-                  ]
-            },
-            {
-                  "name": "Black Lough",
-                  "text": "Ein dunkler Moorsee mit huminsäurereichem Wasser bei Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.577096,
-                        54.295466
-                  ]
-            },
-            {
                   "name": "Wolf Lough",
                   "text": "Ein abgelegener See in einer historisch wolfsreichen Gegend bei Enos.",
                   "category": "natural",
                   "coords": [
                         -7.642555,
                         54.367444
-                  ]
-            },
-            {
-                  "name": "Ballaghmore Lough",
-                  "text": "Ein See auf dem Townland Ballaghmore, nahe Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.668605,
-                        54.342455
                   ]
             },
             {
@@ -5898,15 +5709,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -7.715036,
                         54.403843
-                  ]
-            },
-            {
-                  "name": "Lough Crowey",
-                  "text": "Lough Crowey bei Enniskillen bietet eine schöne Naturkulisse.",
-                  "category": "natural",
-                  "coords": [
-                        -7.605456,
-                        54.289093
                   ]
             },
             {
@@ -5946,15 +5748,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lough Skale",
-                  "text": "Lough Skale bei Enniskillen bietet eine schöne Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        -7.526235,
-                        54.345173
-                  ]
-            },
-            {
                   "name": "Lough Avilly",
                   "text": "Ein See in der Nähe eines Wasserfalls bei Enos.",
                   "category": "natural",
@@ -5982,24 +5775,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lough Yoan",
-                  "text": "Ein kleiner See mit einer Bootsanlegestelle bei Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.611295,
-                        54.32875
-                  ]
-            },
-            {
-                  "name": "Mill Lough",
-                  "text": "Ein See neben den Ruinen einer alten Mühle bei Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.621776,
-                        54.294805
-                  ]
-            },
-            {
                   "name": "Back Lough",
                   "text": "Ein kleiner See hinter einem Gehöft bei Enos.",
                   "category": "natural",
@@ -6007,54 +5782,9 @@ export const irelandCitiesV2: POI[] = [
                         -7.645754,
                         54.355107
                   ]
-            },
-            {
-                  "name": "Lakeland Forum",
-                  "text": "Ein Freizeitzentrum in Enniskillen mit einem öffentlichen Schwimmbad.",
-                  "category": "recreational",
-                  "coords": [
-                        -7.64286,
-                        54.342588
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Lough Coole",
-                  "text": "Kis tó egy mélyedésben, Enos melletti drumlin tájon.",
-                  "category": "natural",
-                  "coords": [
-                        -7.608945,
-                        54.339566
-                  ]
-            },
-            {
-                  "name": "Lough Acrussel",
-                  "text": "Az enniskilleni Lough Acrussel csendes természeti környezetet kínál.",
-                  "category": "natural",
-                  "coords": [
-                        -7.602691,
-                        54.316812
-                  ]
-            },
-            {
-                  "name": "Coolyermer Lough",
-                  "text": "Iszapos fenekű, nádas szegélyű tó Enos közelében.",
-                  "category": "natural",
-                  "coords": [
-                        -7.723194,
-                        54.330012
-                  ]
-            },
-            {
-                  "name": "Rossole Lough",
-                  "text": "Nádas tó, madarak élőhelye, Enosnál.",
-                  "category": "natural",
-                  "coords": [
-                        -7.653153,
-                        54.33889
-                  ]
-            },
             {
                   "name": "Toppedmountain Lough",
                   "text": "Tó egy hegy lábánál Enos közelében.",
@@ -6065,57 +5795,12 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Drumkirk Lough",
-                  "text": "Tó egy dombháton álló templomrom közelében Enosnál.",
-                  "category": "natural",
-                  "coords": [
-                        -7.574394,
-                        54.283761
-                  ]
-            },
-            {
-                  "name": "Lough Noely",
-                  "text": "Az enniskilleni Lough Noely békés hangulatot áraszt.",
-                  "category": "natural",
-                  "coords": [
-                        -7.560213,
-                        54.299516
-                  ]
-            },
-            {
-                  "name": "Lough Raymond",
-                  "text": "Tó, amelyet talán egy normann lovagról neveztek el, Enosnál.",
-                  "category": "natural",
-                  "coords": [
-                        -7.560226,
-                        54.296062
-                  ]
-            },
-            {
-                  "name": "Black Lough",
-                  "text": "Sötét, humuszsavban gazdag vízű láp tó Enosnál.",
-                  "category": "natural",
-                  "coords": [
-                        -7.577096,
-                        54.295466
-                  ]
-            },
-            {
                   "name": "Wolf Lough",
                   "text": "Elszigetelt tó egy történelmileg farkasok által lakott vidéken Enosnál.",
                   "category": "natural",
                   "coords": [
                         -7.642555,
                         54.367444
-                  ]
-            },
-            {
-                  "name": "Ballaghmore Lough",
-                  "text": "Tó a Ballaghmore településrészen, Enos közelében.",
-                  "category": "natural",
-                  "coords": [
-                        -7.668605,
-                        54.342455
                   ]
             },
             {
@@ -6134,15 +5819,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -7.715036,
                         54.403843
-                  ]
-            },
-            {
-                  "name": "Lough Crowey",
-                  "text": "Az enniskilleni Lough Crowey szép természeti hátteret kínál.",
-                  "category": "natural",
-                  "coords": [
-                        -7.605456,
-                        54.289093
                   ]
             },
             {
@@ -6182,15 +5858,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lough Skale",
-                  "text": "Az enniskilleni Lough Skale kellemes környezetet kínál.",
-                  "category": "natural",
-                  "coords": [
-                        -7.526235,
-                        54.345173
-                  ]
-            },
-            {
                   "name": "Lough Avilly",
                   "text": "Tó egy vízesés közelében Enosnál.",
                   "category": "natural",
@@ -6218,24 +5885,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lough Yoan",
-                  "text": "Kis tó csónakkikötővel Enosnál.",
-                  "category": "natural",
-                  "coords": [
-                        -7.611295,
-                        54.32875
-                  ]
-            },
-            {
-                  "name": "Mill Lough",
-                  "text": "Tó egy régi malom romjai mellett Enosnál.",
-                  "category": "natural",
-                  "coords": [
-                        -7.621776,
-                        54.294805
-                  ]
-            },
-            {
                   "name": "Back Lough",
                   "text": "Kis tó egy tanya mögött Enosnál.",
                   "category": "natural",
@@ -6243,54 +5892,9 @@ export const irelandCitiesV2: POI[] = [
                         -7.645754,
                         54.355107
                   ]
-            },
-            {
-                  "name": "Lakeland Forum",
-                  "text": "Szabadidős központ Enniskillenben, nyilvános úszómedencével.",
-                  "category": "recreational",
-                  "coords": [
-                        -7.64286,
-                        54.342588
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Lough Coole",
-                  "text": "Un lac mic într-o depresiune, în peisajul de drumlin lângă Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.608945,
-                        54.339566
-                  ]
-            },
-            {
-                  "name": "Lough Acrussel",
-                  "text": "Lough Acrussel de lângă Enniskillen oferă un peisaj natural liniștit.",
-                  "category": "natural",
-                  "coords": [
-                        -7.602691,
-                        54.316812
-                  ]
-            },
-            {
-                  "name": "Coolyermer Lough",
-                  "text": "Un lac cu fund noroios și stufăriș la margine, lângă Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.723194,
-                        54.330012
-                  ]
-            },
-            {
-                  "name": "Rossole Lough",
-                  "text": "Un lac înconjurat de stuf, habitat pentru păsări, lângă Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.653153,
-                        54.33889
-                  ]
-            },
             {
                   "name": "Toppedmountain Lough",
                   "text": "Un lac la poalele unui munte lângă Enos.",
@@ -6301,57 +5905,12 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Drumkirk Lough",
-                  "text": "Un lac lângă o ruină de biserică pe un deal, lângă Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.574394,
-                        54.283761
-                  ]
-            },
-            {
-                  "name": "Lough Noely",
-                  "text": "Lough Noely de lângă Enniskillen oferă o atmosferă liniștită.",
-                  "category": "natural",
-                  "coords": [
-                        -7.560213,
-                        54.299516
-                  ]
-            },
-            {
-                  "name": "Lough Raymond",
-                  "text": "Un lac posibil numit după un cavaler normand, lângă Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.560226,
-                        54.296062
-                  ]
-            },
-            {
-                  "name": "Black Lough",
-                  "text": "Un lac întunecat de turbărie cu apă bogată în acizi humici, lângă Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.577096,
-                        54.295466
-                  ]
-            },
-            {
                   "name": "Wolf Lough",
                   "text": "Un lac izolat într-o zonă istoric populată de lupi, lângă Enos.",
                   "category": "natural",
                   "coords": [
                         -7.642555,
                         54.367444
-                  ]
-            },
-            {
-                  "name": "Ballaghmore Lough",
-                  "text": "Un lac pe teritoriul Ballaghmore, lângă Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.668605,
-                        54.342455
                   ]
             },
             {
@@ -6370,15 +5929,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -7.715036,
                         54.403843
-                  ]
-            },
-            {
-                  "name": "Lough Crowey",
-                  "text": "Lough Crowey de lângă Enniskillen oferă un fundal natural frumos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.605456,
-                        54.289093
                   ]
             },
             {
@@ -6418,15 +5968,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lough Skale",
-                  "text": "Lough Skale de lângă Enniskillen oferă un mediu plăcut.",
-                  "category": "natural",
-                  "coords": [
-                        -7.526235,
-                        54.345173
-                  ]
-            },
-            {
                   "name": "Lough Avilly",
                   "text": "Un lac lângă o cascadă în apropiere de Enos.",
                   "category": "natural",
@@ -6454,24 +5995,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lough Yoan",
-                  "text": "Un lac mic cu un debarcader pentru bărci lângă Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.611295,
-                        54.32875
-                  ]
-            },
-            {
-                  "name": "Mill Lough",
-                  "text": "Un lac lângă ruinele unei vechi mori lângă Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.621776,
-                        54.294805
-                  ]
-            },
-            {
                   "name": "Back Lough",
                   "text": "Un lac mic în spatele unei ferme lângă Enos.",
                   "category": "natural",
@@ -6479,54 +6002,9 @@ export const irelandCitiesV2: POI[] = [
                         -7.645754,
                         54.355107
                   ]
-            },
-            {
-                  "name": "Lakeland Forum",
-                  "text": "Un centru de agrement în Enniskillen care include o piscină publică.",
-                  "category": "recreational",
-                  "coords": [
-                        -7.64286,
-                        54.342588
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Lough Coole",
-                  "text": "A small lake in a hollow in the drumlin landscape near Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.608945,
-                        54.339566
-                  ]
-            },
-            {
-                  "name": "Lough Acrussel",
-                  "text": "Lough Acrussel near Enniskillen offers a quiet natural landscape.",
-                  "category": "natural",
-                  "coords": [
-                        -7.602691,
-                        54.316812
-                  ]
-            },
-            {
-                  "name": "Coolyermer Lough",
-                  "text": "A lake with a muddy bottom and reed fringe near Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.723194,
-                        54.330012
-                  ]
-            },
-            {
-                  "name": "Rossole Lough",
-                  "text": "A lake surrounded by reeds, providing bird habitat near Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.653153,
-                        54.33889
-                  ]
-            },
             {
                   "name": "Toppedmountain Lough",
                   "text": "A lake at the foot of a mountain near Enos.",
@@ -6537,57 +6015,12 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Drumkirk Lough",
-                  "text": "A lake near a church ruin on a ridge near Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.574394,
-                        54.283761
-                  ]
-            },
-            {
-                  "name": "Lough Noely",
-                  "text": "Lough Noely near Enniskillen offers a peaceful atmosphere.",
-                  "category": "natural",
-                  "coords": [
-                        -7.560213,
-                        54.299516
-                  ]
-            },
-            {
-                  "name": "Lough Raymond",
-                  "text": "A lake possibly named after a Norman knight near Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.560226,
-                        54.296062
-                  ]
-            },
-            {
-                  "name": "Black Lough",
-                  "text": "A dark peat lake with humic-rich water near Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.577096,
-                        54.295466
-                  ]
-            },
-            {
                   "name": "Wolf Lough",
                   "text": "A remote lake in a historically wolf-inhabited area near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.642555,
                         54.367444
-                  ]
-            },
-            {
-                  "name": "Ballaghmore Lough",
-                  "text": "A lake on the townland of Ballaghmore near Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.668605,
-                        54.342455
                   ]
             },
             {
@@ -6606,15 +6039,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -7.715036,
                         54.403843
-                  ]
-            },
-            {
-                  "name": "Lough Crowey",
-                  "text": "Lough Crowey near Enniskillen offers a beautiful natural backdrop.",
-                  "category": "natural",
-                  "coords": [
-                        -7.605456,
-                        54.289093
                   ]
             },
             {
@@ -6654,15 +6078,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lough Skale",
-                  "text": "Lough Skale near Enniskillen offers a nice environment.",
-                  "category": "natural",
-                  "coords": [
-                        -7.526235,
-                        54.345173
-                  ]
-            },
-            {
                   "name": "Lough Avilly",
                   "text": "A lake near a waterfall close to Enos.",
                   "category": "natural",
@@ -6690,39 +6105,12 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lough Yoan",
-                  "text": "A small lake with a boat launch near Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.611295,
-                        54.32875
-                  ]
-            },
-            {
-                  "name": "Mill Lough",
-                  "text": "A lake beside the ruins of an old mill near Enos.",
-                  "category": "natural",
-                  "coords": [
-                        -7.621776,
-                        54.294805
-                  ]
-            },
-            {
                   "name": "Back Lough",
                   "text": "A small lake behind a farmstead near Enos.",
                   "category": "natural",
                   "coords": [
                         -7.645754,
                         54.355107
-                  ]
-            },
-            {
-                  "name": "Lakeland Forum",
-                  "text": "A leisure center in Enniskillen featuring a public swimming pool.",
-                  "category": "recreational",
-                  "coords": [
-                        -7.64286,
-                        54.342588
                   ]
             }
       ]
@@ -8124,15 +7512,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dollymount Strand",
-                  "text": "Der Dollymount Strand erstreckt sich weitläufig entlang von Bull Island und bietet eine gewaltige Sandfläche, die von der Gegend um Howth aus leicht erreichbar ist. Der Strand versprüht eine lebhafte Energie und wird von Kitesurfern, Hundebesitzern und Familien, die einen großzügigen Spielplatz am Meer suchen, sehr geschätzt. Die lange, ununterbrochene Küstenlinie macht den Ort zu einem absoluten Paradies für alle, die gerne im Takt der Gezeiten spazieren gehen. Den Windbericht zu prüfen kann den Besuch erheblich aufwerten, da windige Tage perfekt für Wassersport, aber kühl zum Sonnenbaden sind.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.139379,
-                        53.366999
-                  ]
-            },
-            {
                   "name": "Claremont Beach",
                   "text": "Ruhig auf der Howth-Halbinsel eingebettet, bietet der Claremont Beach ein kleines, behagliches Stückchen Sandstrand. Dieser Ort bewahrt sich ein entspanntes und gemütliches Ambiente und wird häufig von Einheimischen besucht, die hier einen friedlichen Spaziergang am Tag oder ein ruhiges Planschen im flachen Wasser genießen. Der weite Blick hinaus auf die Insel Ireland’s Eye macht es zu einer malerischen Kulisse für Erholung im Freien. Der Zugang ist stark von den Gezeiten abhängig, weshalb eine Ankunft bei Niedrigwasser sehr zu empfehlen ist, um den breiten Sand zu nutzen.",
                   "category": "recreational",
@@ -8384,15 +7763,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.049354,
                         53.378667
-                  ]
-            },
-            {
-                  "name": "Dollymount Strand",
-                  "text": "A Bull-sziget mentén hosszan elnyúló Dollymount Strand egy hatalmas homokos kiterjedés, amely a Howth területről könnyen megközelíthető. A part vibráló energiával rendelkezik, a kiteszörfösök, a kutyasétáltatók és a tágas tengerparti játszóteret kereső családok nagy kedvence. A hosszú, töretlen partvonal abszolút paradicsom azok számára, akik szeretnek a visszahúzódó dagály mentén vándorolni. A szélelőrejelzés ellenőrzése nagyban javíthatja a látogatást, mivel a szeles napok tökéletesek a vízi sportokhoz, de hűvösek a napozáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.139379,
-                        53.366999
                   ]
             },
             {
@@ -8650,15 +8020,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dollymount Strand",
-                  "text": "Întinzându-se extensiv de-a lungul Bull Island, Dollymount Strand este o întindere masivă de nisip ușor accesibilă din zona Howth. Plaja deține o energie vibrantă, fiind extrem de favorizată de surferii cu zmeul, de cei care își plimbă câinii și de familiile care caută un loc de joacă spațios pe litoral. Țărmurile lungi și neîntrerupte o fac un paradis absolut pentru cei cărora le place să rătăcească de-a lungul fluxului care se retrage. Verificarea prognozei vântului vă poate îmbunătăți mult vizita, deoarece zilele cu briză sunt perfecte pentru sporturi nautice, dar răcoroase pentru plajă.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.139379,
-                        53.366999
-                  ]
-            },
-            {
                   "name": "Claremont Beach",
                   "text": "Cuibărită în liniște în peninsula Howth, Claremont Beach oferă o mică porțiune reconfortantă de țărm nisipos. Acest loc menține o ambianță relaxată și confortabilă, fiind adesea frecventat de localnicii ieșiți pentru o plimbare pașnică în timpul zilei sau o bălăceală liniștită în apele puțin adânci. Vederile panoramice către Ireland’s Eye îl fac un cadru frumos și pitoresc pentru relaxare în aer liber. Accesul este strâns legat de maree, astfel încât sosirea în timpul apelor scăzute este foarte recomandată pentru a vă bucura de nisipul expansiv.",
                   "category": "recreational",
@@ -8910,15 +8271,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.049354,
                         53.378667
-                  ]
-            },
-            {
-                  "name": "Dollymount Strand",
-                  "text": "Stretching extensively along Bull Island, Dollymount Strand is a massive sandy expanse easily accessible from the Howth area. The beach holds a vibrant energy, highly favored by kite surfers, dog walkers, and families seeking a spacious seaside playground. Long, unbroken shorelines make it an absolute paradise for those who love to wander along the receding tide. Checking the wind forecast can greatly enhance your visit, as breezy days are perfect for watersports but chilly for sunbathing.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.139379,
-                        53.366999
                   ]
             },
             {
@@ -9645,15 +8997,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "McNeill Theatre",
-                  "text": "Ein lokales Theater und Kulturzentrum in der nordirischen Stadt Larne.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.802473,
-                        54.855182
-                  ]
-            },
-            {
                   "name": "Larne Museum & Art Centre",
                   "text": "Museum und Kunstzentrum in Larne, das sich der lokalen Geschichte und Kultur widmet.",
                   "category": "museum",
@@ -9707,15 +9050,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -5.800786,
                         54.842783
-                  ]
-            },
-            {
-                  "name": "McNeill Theatre",
-                  "text": "Helyi színház és kulturális központ az észak-írországi Larne városában.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.802473,
-                        54.855182
                   ]
             },
             {
@@ -9775,15 +9109,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "McNeill Theatre",
-                  "text": "Un teatru local și centru cultural în orașul Larne din Irlanda de Nord.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.802473,
-                        54.855182
-                  ]
-            },
-            {
                   "name": "Larne Museum & Art Centre",
                   "text": "Muzeu și centru de artă din Larne, dedicat istoriei și culturii locale.",
                   "category": "museum",
@@ -9837,15 +9162,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -5.800786,
                         54.842783
-                  ]
-            },
-            {
-                  "name": "McNeill Theatre",
-                  "text": "A local theatre and arts center in the town of Larne, Northern Ireland.",
-                  "category": "cultural",
-                  "coords": [
-                        -5.802473,
-                        54.855182
                   ]
             },
             {
@@ -11157,15 +10473,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Portmarnock Beach",
-                  "text": "Der Portmarnock Beach fügt sich nahtlos in die Landschaft von Malahide ein und wird für sein malerisches und schier endloses Sandufer bewundert. Die weite Küste bietet herrlichen Raum für lebhafte Familienausflüge, enthusiastische Jogger und all jene, die einfach an den sanft plätschernden Wellen entspannen möchten. Die weite Himmelssicht und der weiche Sand bilden die perfekte Leinwand für eine erholsame Auszeit in der Natur. Ein gemütlicher Spaziergang hier, während die Sonne tiefer sinkt, offenbart wahrhaft spektakuläre maritime Farben.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.117569,
-                        53.415877
-                  ]
-            },
-            {
                   "name": "Corballis Nudist Beach",
                   "text": "Corballis Nudist Beach ist ein ausgewiesener FKK-Strand auf der Donabate-Halbinsel.",
                   "category": "recreational",
@@ -11318,15 +10625,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.128484,
                         53.465298
-                  ]
-            },
-            {
-                  "name": "Portmarnock Beach",
-                  "text": "A Malahide tájába zökkenőmentesen belesimuló Portmarnock Beach festői és látszólag végtelen homokos partjairól híres. A kiterjedt tengerpart csodálatosan alkalmas élénk családi kirándulásokra, lelkes kocogóknak és azoknak, akik egyszerűen csak pihenni szeretnének a lágyan nyaldosó hullámok mellett. A tágas, nyílt égbolt és a puha homok a tökéletes vásznat nyújtja egy helyreállító szabadtéri meneküléshez. Egy kényelmes séta ezen a helyen, ahogy a nap egyre lejjebb süllyed az égen, igazán látványos tengeri színeket tár elénk.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.117569,
-                        53.415877
                   ]
             },
             {
@@ -11485,15 +10783,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Portmarnock Beach",
-                  "text": "Integrându-se perfect în peisajul din Malahide, Portmarnock Beach este venerată pentru țărmurile sale nisipoase pitorești și aparent nesfârșite. Coasta expansivă este minunat de primitoare pentru ieșirile pline de viață în familie, pentru iubitorii de jogging entuziaști și pentru cei care doresc pur și simplu să se relaxeze lângă valurile care se lovesc ușor. Cerul său larg deschis și nisipurile moi oferă pânza supremă pentru o evadare restaurativă în aer liber. Făcând o plimbare relaxantă aici, pe măsură ce soarele coboară pe cer, dezvăluie culori maritime cu adevărat spectaculoase.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.117569,
-                        53.415877
-                  ]
-            },
-            {
                   "name": "Corballis Nudist Beach",
                   "text": "Plaja Nudistă Corballis este o plajă desemnată pentru nudism pe peninsula Donabate.",
                   "category": "recreational",
@@ -11646,15 +10935,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.128484,
                         53.465298
-                  ]
-            },
-            {
-                  "name": "Portmarnock Beach",
-                  "text": "Seamlessly blending into the Malahide landscape, Portmarnock Beach is revered for its picturesque and seemingly endless sandy shores. The expansive coast is wonderfully accommodating to lively family outings, eager joggers, and those who simply wish to relax by the gently lapping waves. Its wide-open skies and soft sands provide the ultimate canvas for a restorative outdoor escape. Taking a leisurely stroll here as the sun dips lower in the sky reveals truly spectacular maritime colors.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.117569,
-                        53.415877
                   ]
             },
             {
@@ -11949,15 +11229,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sandycove Beach",
-                  "text": "Als entzückendes Sandfleckchen nahe Dun Laoghaire dient der Sandycove Beach in Monkstown als charmanter maritimer Zufluchtsort. Die Atmosphäre ist hier meist geschäftig und fröhlich, was besonders mutige lokale Schwimmer und sonnenhungrige Familien anzieht, die einen warmen Tag optimal nutzen möchten. Die geschützte Lage der Bucht macht sie für ein erfrischendes Bad in den kühlen irischen Gewässern ungemein attraktiv. Die Suche nach Straßenparkplätzen kann zu Stoßzeiten knifflig sein, weshalb es eine gute Strategie ist, auf öffentliche Verkehrsmittel auszuweichen oder frühzeitig anzukommen.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.114499,
-                        53.288565
-                  ]
-            },
-            {
                   "name": "Roche's Hill",
                   "text": "Ein Naturschutzgebiet mit Wanderwegen und Aussichtspunkten.",
                   "category": "natural",
@@ -12227,15 +11498,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.14342,
                         53.296982
-                  ]
-            },
-            {
-                  "name": "Sandycove Beach",
-                  "text": "A Dun Laoghaire közelében található elbűvölő homokos kis Sandycove Beach varázslatos tengeri menedékként szolgál Monkstownban. A légkör általában nyüzsgő és vidám, erősen vonzza a bátor helyi úszókat és a napozni vágyó családokat, akik szeretnének maximálisan kihasználni egy meleg napot. Az öböl védett jellege rendkívül vonzóvá teszi egy frissítő mártózáshoz a hűvös ír vizekben. Csúcsidőben nehéz lehet az utcán parkolóhelyet találni, ezért a helyi közlekedésre támaszkodni, vagy korán érkezni mindig jó stratégia.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.114499,
-                        53.288565
                   ]
             },
             {
@@ -12511,15 +11773,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sandycove Beach",
-                  "text": "Un petic încântător de nisip lângă Dun Laoghaire, Sandycove Beach servește ca o evadare maritimă fermecătoare în Monkstown. Atmosfera este în general plină de viață și veselă, atrăgând puternic înotătorii locali curajoși și familiile dornice de soare, care caută să maximizeze o zi caldă. Natura adăpostită a golfului îl face remarcabil de atrăgător pentru o baie revigorantă în apele vioaie irlandeze. Găsirea unei parcări pe stradă poate fi dificilă în perioadele de vârf, așadar bazarea pe transportul local sau sosirea devreme este întotdeauna o strategie bună.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.114499,
-                        53.288565
-                  ]
-            },
-            {
                   "name": "Roche's Hill",
                   "text": "O rezervație naturală cu poteci și puncte de belvedere.",
                   "category": "natural",
@@ -12789,15 +12042,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.14342,
                         53.296982
-                  ]
-            },
-            {
-                  "name": "Sandycove Beach",
-                  "text": "A delightful pocket of sand near Dun Laoghaire, Sandycove Beach serves as a charming maritime escape in Monkstown. The atmosphere is generally bustling and joyful, heavily drawing brave local swimmers and sun-seeking families looking to maximize a warm day. The sheltered nature of the cove makes it remarkably appealing for a refreshing dip in the brisk Irish waters. Finding street parking can be tricky during peak times, so relying on local transit or arriving early is always a good strategy.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.114499,
-                        53.288565
                   ]
             },
             {
@@ -14010,15 +13254,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Windmill Stump",
-                  "text": "Der Windmill Stump in Newtownards ist der Überrest einer historischen Windmühle.",
-                  "category": "historical",
-                  "coords": [
-                        -5.688735,
-                        54.614416
-                  ]
-            },
-            {
                   "name": "Old Market Cross",
                   "text": "Ein historisches Steindenkmal im Zentrum von Newtownards.",
                   "category": "historical",
@@ -14073,15 +13308,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "South Shaft Chimney",
-                  "text": "Die Ruine eines Industrieschornsteins aus der Zeit des Bergbaus in Newtownards.",
-                  "category": "historical",
-                  "coords": [
-                        -5.690618,
-                        54.612833
-                  ]
-            },
-            {
                   "name": "Corry's Crag",
                   "text": "Ein malerischer Aussichtspunkt in Newtownards mit Blick auf die lokale Landschaft.",
                   "category": "natural",
@@ -14115,15 +13341,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -5.722678,
                         54.599747
-                  ]
-            },
-            {
-                  "name": "Bog Shaft Engine House",
-                  "text": "Die industriellen Ruinen eines Maschinenhauses, das einst im Bergbau genutzt wurde.",
-                  "category": "historical",
-                  "coords": [
-                        -5.689433,
-                        54.609392
                   ]
             }
       ],
@@ -14210,15 +13427,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Windmill Stump",
-                  "text": "A newtownards-i Windmill Stump egy történelmi szélmalom maradványa.",
-                  "category": "historical",
-                  "coords": [
-                        -5.688735,
-                        54.614416
-                  ]
-            },
-            {
                   "name": "Old Market Cross",
                   "text": "Történelmi kőemlékmű Newtownards központjában.",
                   "category": "historical",
@@ -14273,15 +13481,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "South Shaft Chimney",
-                  "text": "Egy történelmi bányászathoz kapcsolódó ipari kémény romja Newtownards-ban.",
-                  "category": "historical",
-                  "coords": [
-                        -5.690618,
-                        54.612833
-                  ]
-            },
-            {
                   "name": "Corry's Crag",
                   "text": "Festői kilátóhely Newtownards-ban, ahonnan kilátás nyílik a tájra.",
                   "category": "natural",
@@ -14315,15 +13514,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -5.722678,
                         54.599747
-                  ]
-            },
-            {
-                  "name": "Bog Shaft Engine House",
-                  "text": "Egy egykor bányászati tevékenységhez használt gépház ipari romjai.",
-                  "category": "historical",
-                  "coords": [
-                        -5.689433,
-                        54.609392
                   ]
             }
       ],
@@ -14410,15 +13600,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Windmill Stump",
-                  "text": "Windmill Stump din Newtownards este rămășița unei mori de vânt istorice.",
-                  "category": "historical",
-                  "coords": [
-                        -5.688735,
-                        54.614416
-                  ]
-            },
-            {
                   "name": "Old Market Cross",
                   "text": "Un monument istoric din piatră situat în centrul orașului Newtownards.",
                   "category": "historical",
@@ -14473,15 +13654,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "South Shaft Chimney",
-                  "text": "Ruina unui coș de fum industrial asociat cu mineritul istoric din Newtownards.",
-                  "category": "historical",
-                  "coords": [
-                        -5.690618,
-                        54.612833
-                  ]
-            },
-            {
                   "name": "Corry's Crag",
                   "text": "Un punct de observație pitoresc în Newtownards, oferind vedere asupra peisajului local.",
                   "category": "natural",
@@ -14515,15 +13687,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -5.722678,
                         54.599747
-                  ]
-            },
-            {
-                  "name": "Bog Shaft Engine House",
-                  "text": "Ruinele industriale ale unei case a mașinilor folosită odinioară în activități miniere.",
-                  "category": "historical",
-                  "coords": [
-                        -5.689433,
-                        54.609392
                   ]
             }
       ],
@@ -14610,15 +13773,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Windmill Stump",
-                  "text": "Windmill Stump in Newtownards is the remnant of a historic windmill.",
-                  "category": "historical",
-                  "coords": [
-                        -5.688735,
-                        54.614416
-                  ]
-            },
-            {
                   "name": "Old Market Cross",
                   "text": "A historic stone monument located in the centre of Newtownards.",
                   "category": "historical",
@@ -14673,15 +13827,6 @@ export const irelandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "South Shaft Chimney",
-                  "text": "The ruin of an industrial chimney associated with historical mining in Newtownards.",
-                  "category": "historical",
-                  "coords": [
-                        -5.690618,
-                        54.612833
-                  ]
-            },
-            {
                   "name": "Corry's Crag",
                   "text": "A scenic viewpoint in Newtownards offering views of the local landscape.",
                   "category": "natural",
@@ -14715,15 +13860,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -5.722678,
                         54.599747
-                  ]
-            },
-            {
-                  "name": "Bog Shaft Engine House",
-                  "text": "The industrial ruins of an engine house once used in local mining activities.",
-                  "category": "historical",
-                  "coords": [
-                        -5.689433,
-                        54.609392
                   ]
             }
       ]
@@ -14791,15 +13927,6 @@ export const irelandCitiesV2: POI[] = [
                         -7.30331,
                         54.600769
                   ]
-            },
-            {
-                  "name": "Omagh Gaol",
-                  "text": "Omagh Gaol ist ein ehemaliges Gefängnis aus dem 19. Jahrhundert in der Stadtmitte.",
-                  "category": "historical",
-                  "coords": [
-                        -7.307227,
-                        54.60292
-                  ]
             }
       ],
       "hu": [
@@ -14819,15 +13946,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -7.30331,
                         54.600769
-                  ]
-            },
-            {
-                  "name": "Omagh Gaol",
-                  "text": "Az Omagh-i börtön egy 19. századi egykori fegyház a városközpontban.",
-                  "category": "historical",
-                  "coords": [
-                        -7.307227,
-                        54.60292
                   ]
             }
       ],
@@ -14849,15 +13967,6 @@ export const irelandCitiesV2: POI[] = [
                         -7.30331,
                         54.600769
                   ]
-            },
-            {
-                  "name": "Omagh Gaol",
-                  "text": "Omagh Gaol este o fostă închisoare din secolul al XIX-lea în centrul orașului.",
-                  "category": "historical",
-                  "coords": [
-                        -7.307227,
-                        54.60292
-                  ]
             }
       ],
       "en": [
@@ -14877,15 +13986,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -7.30331,
                         54.600769
-                  ]
-            },
-            {
-                  "name": "Omagh Gaol",
-                  "text": "Omagh Gaol is a former 19th-century prison in the town centre.",
-                  "category": "historical",
-                  "coords": [
-                        -7.307227,
-                        54.60292
                   ]
             }
       ]
@@ -18159,15 +17259,6 @@ export const irelandCitiesV2: POI[] = [
     id: "ireland-ballymoney-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Ballymoney Museum",
-                  "text": "Ein Museum, das die lokale Geschichte und das Erbe von Ballymoney zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -6.518332,
-                        55.071676
-                  ]
-            },
-            {
                   "name": "The Village Gallery",
                   "text": "Eine Galerie in Ballymoney, die Kunstwerke der Region ausstellt.",
                   "category": "museum",
@@ -18175,27 +17266,9 @@ export const irelandCitiesV2: POI[] = [
                         -6.549244,
                         55.04793
                   ]
-            },
-            {
-                  "name": "Carnany Memorial Park",
-                  "text": "Carnany Memorial Park ist ein Spielplatz in Ballymoney, der einen lustigen und sicheren Spielbereich für Kinder und Familien bietet.",
-                  "category": "family",
-                  "coords": [
-                        -6.49102,
-                        55.069057
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Ballymoney Museum",
-                  "text": "Ballymoney helyi történetét és örökségét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -6.518332,
-                        55.071676
-                  ]
-            },
             {
                   "name": "The Village Gallery",
                   "text": "Galéria Ballymoney-ban, amely a régió műalkotásait mutatja be.",
@@ -18204,27 +17277,9 @@ export const irelandCitiesV2: POI[] = [
                         -6.549244,
                         55.04793
                   ]
-            },
-            {
-                  "name": "Carnany Memorial Park",
-                  "text": "A Carnany Memorial Park egy játszótér Ballymoney-ban, amely szórakoztató és biztonságos játékteret biztosít a gyerekek és családok számára.",
-                  "category": "family",
-                  "coords": [
-                        -6.49102,
-                        55.069057
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Ballymoney Museum",
-                  "text": "Un muzeu care prezintă istoria locală și moștenirea din Ballymoney.",
-                  "category": "museum",
-                  "coords": [
-                        -6.518332,
-                        55.071676
-                  ]
-            },
             {
                   "name": "The Village Gallery",
                   "text": "O galerie în Ballymoney care expune opere de artă din regiune.",
@@ -18233,27 +17288,9 @@ export const irelandCitiesV2: POI[] = [
                         -6.549244,
                         55.04793
                   ]
-            },
-            {
-                  "name": "Carnany Memorial Park",
-                  "text": "Carnany Memorial Park este un loc de joacă în Ballymoney, oferind o zonă de joacă distractivă și sigură pentru copii și familii.",
-                  "category": "family",
-                  "coords": [
-                        -6.49102,
-                        55.069057
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Ballymoney Museum",
-                  "text": "A museum showcasing the local history and heritage of Ballymoney.",
-                  "category": "museum",
-                  "coords": [
-                        -6.518332,
-                        55.071676
-                  ]
-            },
             {
                   "name": "The Village Gallery",
                   "text": "A gallery in Ballymoney exhibiting artworks from the region.",
@@ -18261,15 +17298,6 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -6.549244,
                         55.04793
-                  ]
-            },
-            {
-                  "name": "Carnany Memorial Park",
-                  "text": "Carnany Memorial Park is a playground in Ballymoney, providing a fun and safe play area for children and families.",
-                  "category": "family",
-                  "coords": [
-                        -6.49102,
-                        55.069057
                   ]
             }
       ]

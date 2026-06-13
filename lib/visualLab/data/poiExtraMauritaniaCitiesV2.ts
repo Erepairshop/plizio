@@ -6,24 +6,6 @@ export const mauritaniaCitiesV2: POI[] = [
     id: "mauritania-nouakchott-cities-v2", "sights": {
       "de": [
             {
-                  "name": "National Museum of Mauritania",
-                  "text": "Das Nationalmuseum bewahrt das kulturelle Erbe von Nouakchott.",
-                  "category": "museum",
-                  "coords": [
-                        -15.974798,
-                        18.085523
-                  ]
-            },
-            {
-                  "name": "Zein art galerie",
-                  "text": "Die Zein art galerie ist ein Museum für zeitgenössische Kunst in der mauretanischen Hauptstadt Nouakchott. Kunstinteressierte finden hier eine Sammlung moderner Werke in inspirierendem Ambiente. Die Galerie bereichert die lokale Kunstszene mit ihren vielfältigen Ausstellungen.",
-                  "category": "museum",
-                  "coords": [
-                        -15.972571,
-                        18.101056
-                  ]
-            },
-            {
                   "name": "Mini-park",
                   "text": "Kleiner, angelegter Park mit Spielgeräten im Wohnviertel von Nouakchott.",
                   "category": "family",
@@ -43,24 +25,6 @@ export const mauritaniaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "National Museum of Mauritania",
-                  "text": "A nemzeti múzeum Nouakchott kulturális örökségét őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        -15.974798,
-                        18.085523
-                  ]
-            },
-            {
-                  "name": "Zein art galerie",
-                  "text": "A Zein art galerie egy kortárs művészeti múzeum a mauritániai fővárosban, Nouakchottban. A művészetkedvelők itt inspiráló környezetben találják a modern alkotások gyűjteményét. A galéria változatos kiállításaival gazdagítja a helyi művészeti életet.",
-                  "category": "museum",
-                  "coords": [
-                        -15.972571,
-                        18.101056
-                  ]
-            },
             {
                   "name": "Mini-park",
                   "text": "Kis, parkosított terület játszóeszközökkel Nouakchott lakónegyedében.",
@@ -82,24 +46,6 @@ export const mauritaniaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "National Museum of Mauritania",
-                  "text": "Muzeul național păstrează patrimoniul cultural din Nouakchott.",
-                  "category": "museum",
-                  "coords": [
-                        -15.974798,
-                        18.085523
-                  ]
-            },
-            {
-                  "name": "Zein art galerie",
-                  "text": "Zein art galerie este un muzeu de artă contemporană din capitala mauritană Nouakchott. Iubitorii de artă vor găsi aici o colecție de lucrări moderne într-o ambianță inspirată. Galeria îmbogățește scena de artă locală cu expozițiile sale diverse.",
-                  "category": "museum",
-                  "coords": [
-                        -15.972571,
-                        18.101056
-                  ]
-            },
-            {
                   "name": "Mini-park",
                   "text": "Parc mic amenajat cu echipamente de joacă în zona rezidențială a orașului Nouakchott.",
                   "category": "family",
@@ -119,24 +65,6 @@ export const mauritaniaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "National Museum of Mauritania",
-                  "text": "The national museum preserves the cultural heritage of Nouakchott.",
-                  "category": "museum",
-                  "coords": [
-                        -15.974798,
-                        18.085523
-                  ]
-            },
-            {
-                  "name": "Galerie Zeinart",
-                  "text": "The Zein art galerie is a contemporary art museum in the Mauritanian capital of Nouakchott. Art enthusiasts will find a collection of modern works in an inspiring setting here. The gallery enriches the local art scene with its diverse exhibitions.",
-                  "category": "museum",
-                  "coords": [
-                        -15.972571,
-                        18.101056
-                  ]
-            },
             {
                   "name": "Mini-park",
                   "text": "Small landscaped park with playground equipment in Nouakchott's residential area.",
@@ -202,50 +130,10 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-nouadhibou-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Ehl lekhdeym",
-                  "text": "Ehl lekhdeym, ein markanter Felsen an der Küste von Nouadhibou, der die Einfahrt zur Bucht markiert.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.03985,
-                        20.935765
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Ehl lekhdeym",
-                  "text": "Ehl lekhdeym, egy jellegzetes sziklás képződmény Nouadhibou partjainál, amely a öböl bejáratát jelzi.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.03985,
-                        20.935765
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Ehl lekhdeym",
-                  "text": "Ehl lekhdeym, o formațiune stâncoasă de pe coasta orașului Nouadhibou, care marchează intrarea în golf.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.03985,
-                        20.935765
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ehl lekhdeym",
-                  "text": "Ehl lekhdeym, a distinctive rock formation on the coast of Nouadhibou, marking the entrance to the bay.",
-                  "category": "landmark",
-                  "coords": [
-                        -17.03985,
-                        20.935765
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "MR",
     type: "city",
@@ -427,86 +315,10 @@ export const mauritaniaCitiesV2: POI[] = [
   },
   {
     id: "mauritania-zouerat-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Musée de Zouérat",
-                  "text": "Musée de Zouérat, ein Museum zur Geschichte des Eisenerzbergbaus in der Region, untergebracht im ehemaligen Rathaus.",
-                  "category": "museum",
-                  "coords": [
-                        -12.477104,
-                        22.735896
-                  ]
-            },
-            {
-                  "name": "Med Cheikhe",
-                  "text": "Med Cheikhe, ein historisches Grabmal eines lokalen Heiligen auf einem Hügel mit Blick über Zouérat.",
-                  "category": "landmark",
-                  "coords": [
-                        -12.465945,
-                        22.736392
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Musée de Zouérat",
-                  "text": "Musée de Zouérat, a régió vasércbányászatának történetét bemutató múzeum, a volt városházán.",
-                  "category": "museum",
-                  "coords": [
-                        -12.477104,
-                        22.735896
-                  ]
-            },
-            {
-                  "name": "Med Cheikhe",
-                  "text": "Med Cheikhe, egy helyi szent történelmi síremléke egy dombon, Zouératra néző kilátással.",
-                  "category": "landmark",
-                  "coords": [
-                        -12.465945,
-                        22.736392
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Musée de Zouérat",
-                  "text": "Musée de Zouérat, un muzeu dedicat istoriei mineritului de minereu de fier din regiune, găzduit în fosta primărie.",
-                  "category": "museum",
-                  "coords": [
-                        -12.477104,
-                        22.735896
-                  ]
-            },
-            {
-                  "name": "Med Cheikhe",
-                  "text": "Med Cheikhe, un mormânt istoric al unui sfânt local pe un deal cu vedere asupra orașului Zouérat.",
-                  "category": "landmark",
-                  "coords": [
-                        -12.465945,
-                        22.736392
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Musée de Zouérat",
-                  "text": "Musée de Zouérat, a museum dedicated to the history of iron ore mining in the region, housed in the former town hall.",
-                  "category": "museum",
-                  "coords": [
-                        -12.477104,
-                        22.735896
-                  ]
-            },
-            {
-                  "name": "Med Cheikhe",
-                  "text": "Med Cheikhe, a historic tomb of a local saint on a hill overlooking Zouérat.",
-                  "category": "landmark",
-                  "coords": [
-                        -12.465945,
-                        22.736392
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "MR",
     type: "city",
@@ -555,15 +367,6 @@ export const mauritaniaCitiesV2: POI[] = [
     id: "mauritania-atâr-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Musée Universitaire",
-                  "text": "Ein akademisches Museum, das regionale Artefakte und das kulturelle Erbe der Stadt Atâr ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        -13.053003,
-                        20.517208
-                  ]
-            },
-            {
                   "name": "e de Touezek t",
                   "text": "Ein spezialisiertes Museum zur Erhaltung und Präsentation des spezifischen lokalen Erbes von Atâr.",
                   "category": "museum",
@@ -574,15 +377,6 @@ export const mauritaniaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Musée Universitaire",
-                  "text": "Egy akadémiai múzeum, amely Atâr város regionális tárgyi emlékeit és kulturális örökségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -13.053003,
-                        20.517208
-                  ]
-            },
             {
                   "name": "e de Touezek t",
                   "text": "Egy speciális múzeum, amelyet Atâr sajátos helyi örökségének megőrzésének és bemutatásának szenteltek.",
@@ -595,15 +389,6 @@ export const mauritaniaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Musée Universitaire",
-                  "text": "Un muzeu academic care expune artefacte regionale și patrimoniul cultural din orașul Atâr.",
-                  "category": "museum",
-                  "coords": [
-                        -13.053003,
-                        20.517208
-                  ]
-            },
-            {
                   "name": "e de Touezek t",
                   "text": "Un muzeu specializat dedicat conservării și prezentării patrimoniului local specific din Atâr.",
                   "category": "museum",
@@ -614,15 +399,6 @@ export const mauritaniaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Musée Universitaire",
-                  "text": "An academic museum showcasing regional artifacts and cultural heritage in the city of Atâr.",
-                  "category": "museum",
-                  "coords": [
-                        -13.053003,
-                        20.517208
-                  ]
-            },
             {
                   "name": "e de Touezek t",
                   "text": "A specialized museum dedicated to preserving and presenting the specific local heritage of Atâr.",

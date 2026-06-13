@@ -168,33 +168,6 @@ export const cyprusNatureV2: POI[] = [
     id: "cyprus-paphos-forest-gorge-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Kykkos Museum",
-                  "text": "Ein Museum im Klosterkomplex, das eine bedeutende Sammlung christlicher Kunst und Reliquien ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        32.740228,
-                        34.983672
-                  ]
-            },
-            {
-                  "name": "Kloster Kykkos",
-                  "text": "Ein historisches und bedeutendes Kloster auf Zypern, gelegen im malerischen Paphos-Wald.",
-                  "category": "landmark",
-                  "coords": [
-                        32.741232,
-                        34.98388
-                  ]
-            },
-            {
-                  "name": "Tripylos",
-                  "text": "Ein markanter Gipfel im Paphos-Wald, bekannt für seine Panoramaaussicht und natürliche Schönheit.",
-                  "category": "landmark",
-                  "coords": [
-                        32.678066,
-                        34.996763
-                  ]
-            },
-            {
                   "name": "Koilada ton Kedron",
                   "text": "Ein malerisches Tal im Troodos-Gebirge, das für seine zahlreichen einheimischen Zedern bekannt ist.",
                   "category": "landmark",
@@ -205,33 +178,6 @@ export const cyprusNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Kykkos Museum",
-                  "text": "A kolostorkomplexumban található múzeum, amely jelentős keresztény művészeti és ereklyegyűjteményt mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        32.740228,
-                        34.983672
-                  ]
-            },
-            {
-                  "name": "Iera Mone Kukkou",
-                  "text": "Történelmi és jelentős kolostor Cipruson, a festői Paphos-erdő területén.",
-                  "category": "landmark",
-                  "coords": [
-                        32.741232,
-                        34.98388
-                  ]
-            },
-            {
-                  "name": "Tripylos",
-                  "text": "A Paphos-erdő egyik kiemelkedő csúcsa, amely panorámás kilátásáról és természeti szépségéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        32.678066,
-                        34.996763
-                  ]
-            },
             {
                   "name": "Koilada ton Kedron",
                   "text": "A Tróodosz-hegység festői völgye, amely nagyszámú őshonos cédrusfájáról híres.",
@@ -244,33 +190,6 @@ export const cyprusNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Kykkos Museum",
-                  "text": "Un muzeu din cadrul complexului mănăstiresc care expune o colecție semnificativă de artă creștină și relicve.",
-                  "category": "museum",
-                  "coords": [
-                        32.740228,
-                        34.983672
-                  ]
-            },
-            {
-                  "name": "Iera Mone Kukkou",
-                  "text": "O mănăstire istorică și prestigioasă din Cipru, situată în zona pitorească a pădurii Paphos.",
-                  "category": "landmark",
-                  "coords": [
-                        32.741232,
-                        34.98388
-                  ]
-            },
-            {
-                  "name": "Tripylos",
-                  "text": "Un vârf proeminent din pădurea Paphos, cunoscut pentru vederile panoramice și frumusețea naturală.",
-                  "category": "landmark",
-                  "coords": [
-                        32.678066,
-                        34.996763
-                  ]
-            },
-            {
                   "name": "Koilada ton Kedron",
                   "text": "O vale pitorească din Munții Troodos, faimoasă pentru numărul mare de cedri indigeni.",
                   "category": "landmark",
@@ -281,33 +200,6 @@ export const cyprusNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Kykkos Museum",
-                  "text": "A museum within the monastery complex displaying a significant collection of Christian art and relics.",
-                  "category": "museum",
-                  "coords": [
-                        32.740228,
-                        34.983672
-                  ]
-            },
-            {
-                  "name": "Kykkos Monastery",
-                  "text": "A historic and prestigious monastery in Cyprus, situated in the scenic Paphos Forest area.",
-                  "category": "landmark",
-                  "coords": [
-                        32.741232,
-                        34.98388
-                  ]
-            },
-            {
-                  "name": "Tripylos",
-                  "text": "A prominent peak in the Paphos Forest known for its panoramic views and natural beauty.",
-                  "category": "landmark",
-                  "coords": [
-                        32.678066,
-                        34.996763
-                  ]
-            },
             {
                   "name": "Cedar Valley",
                   "text": "A scenic valley in the Troodos Mountains famous for its large number of indigenous cedar trees.",
@@ -697,15 +589,6 @@ export const cyprusNatureV2: POI[] = [
                         32.678066,
                         34.996763
                   ]
-            },
-            {
-                  "name": "Koilada ton Kedron",
-                  "text": "Ein bekanntes Tal im Paphos-Wald, das für seine einheimischen Zedern berühmt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        32.688541,
-                        34.991488
-                  ]
             }
       ],
       "hu": [
@@ -725,15 +608,6 @@ export const cyprusNatureV2: POI[] = [
                   "coords": [
                         32.678066,
                         34.996763
-                  ]
-            },
-            {
-                  "name": "Koilada ton Kedron",
-                  "text": "A Paphos-erdő ismert völgye, amely őshonos cédrusairól híres.",
-                  "category": "landmark",
-                  "coords": [
-                        32.688541,
-                        34.991488
                   ]
             }
       ],
@@ -755,15 +629,6 @@ export const cyprusNatureV2: POI[] = [
                         32.678066,
                         34.996763
                   ]
-            },
-            {
-                  "name": "Koilada ton Kedron",
-                  "text": "O vale cunoscută în pădurea Paphos, faimoasă pentru cedrii săi nativi.",
-                  "category": "landmark",
-                  "coords": [
-                        32.688541,
-                        34.991488
-                  ]
             }
       ],
       "en": [
@@ -783,15 +648,6 @@ export const cyprusNatureV2: POI[] = [
                   "coords": [
                         32.678066,
                         34.996763
-                  ]
-            },
-            {
-                  "name": "Cedar Valley",
-                  "text": "A well-known valley in the Paphos Forest, famous for its native cedars.",
-                  "category": "landmark",
-                  "coords": [
-                        32.688541,
-                        34.991488
                   ]
             }
       ]
@@ -877,15 +733,6 @@ export const cyprusNatureV2: POI[] = [
                         32.960337,
                         34.600637
                   ]
-            },
-            {
-                  "name": "MAV Achaios",
-                  "text": "Das Wrack eines Frachtschiffs vor der Küste der Akrotiri-Halbinsel.",
-                  "category": "landmark",
-                  "coords": [
-                        32.929451,
-                        34.605012
-                  ]
             }
       ],
       "hu": [
@@ -923,15 +770,6 @@ export const cyprusNatureV2: POI[] = [
                   "coords": [
                         32.960337,
                         34.600637
-                  ]
-            },
-            {
-                  "name": "MAV Achaios",
-                  "text": "Egy teherszállító hajó roncsa az Akrotiri-félsziget partjainál.",
-                  "category": "landmark",
-                  "coords": [
-                        32.929451,
-                        34.605012
                   ]
             }
       ],
@@ -971,15 +809,6 @@ export const cyprusNatureV2: POI[] = [
                         32.960337,
                         34.600637
                   ]
-            },
-            {
-                  "name": "MAV Achaios",
-                  "text": "Epava unei nave comerciale situată în largul peninsulei Akrotiri.",
-                  "category": "landmark",
-                  "coords": [
-                        32.929451,
-                        34.605012
-                  ]
             }
       ],
       "en": [
@@ -1017,15 +846,6 @@ export const cyprusNatureV2: POI[] = [
                   "coords": [
                         32.960337,
                         34.600637
-                  ]
-            },
-            {
-                  "name": "MAV Achaios",
-                  "text": "The wreck of a cargo ship located off the coast of the Akrotiri Peninsula.",
-                  "category": "landmark",
-                  "coords": [
-                        32.929451,
-                        34.605012
                   ]
             }
       ]
@@ -1077,42 +897,6 @@ export const cyprusNatureV2: POI[] = [
     id: "cyprus-marathasa-valley-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Byzantine Museum",
-                  "text": "Ein Museum im Marathasa-Tal, das religiöse Kunst und Ikonen ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        32.831145,
-                        34.967602
-                  ]
-            },
-            {
-                  "name": "Folk Museum",
-                  "text": "Dieses Museum präsentiert das traditionelle ländliche Leben und Handwerk der Region.",
-                  "category": "museum",
-                  "coords": [
-                        32.829799,
-                        34.966726
-                  ]
-            },
-            {
-                  "name": "Olympos",
-                  "text": "Der höchste Berggipfel Zyperns im Troodos-Gebirge.",
-                  "category": "landmark",
-                  "coords": [
-                        32.86495,
-                        34.936613
-                  ]
-            },
-            {
-                  "name": "Holy Cross",
-                  "text": "Eine religiöse Stätte im Marathasa-Tal, die dem Heiligen Kreuz gewidmet ist.",
-                  "category": "landmark",
-                  "coords": [
-                        32.824137,
-                        34.970438
-                  ]
-            },
-            {
                   "name": "Berengaria Hotel",
                   "text": "Ein berühmtes historisches Hotel im Gebirge, bekannt für seine Architektur.",
                   "category": "landmark",
@@ -1132,42 +916,6 @@ export const cyprusNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Byzantine Museum",
-                  "text": "Múzeum a Marathasa-völgyben, amely vallási művészetet és ikonokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        32.831145,
-                        34.967602
-                  ]
-            },
-            {
-                  "name": "Folk Museum",
-                  "text": "Ez a múzeum a régió hagyományos vidéki életét és mesterségeit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        32.829799,
-                        34.966726
-                  ]
-            },
-            {
-                  "name": "Olumpos",
-                  "text": "Ciprus legmagasabb hegycsúcsa a Tróodosz-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        32.86495,
-                        34.936613
-                  ]
-            },
-            {
-                  "name": "Holy Cross",
-                  "text": "A Szent Keresztnek szentelt vallási helyszín a Marathasa-völgyben.",
-                  "category": "landmark",
-                  "coords": [
-                        32.824137,
-                        34.970438
-                  ]
-            },
             {
                   "name": "Berengaria Hotel",
                   "text": "Híres történelmi hegyi szálloda, amely építészetéről közismert.",
@@ -1189,42 +937,6 @@ export const cyprusNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Byzantine Museum",
-                  "text": "Un muzeu din Valea Marathasa care expune artă religioasă și icoane.",
-                  "category": "museum",
-                  "coords": [
-                        32.831145,
-                        34.967602
-                  ]
-            },
-            {
-                  "name": "Folk Museum",
-                  "text": "Acest muzeu prezintă viața rurală tradițională și meșteșugurile regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        32.829799,
-                        34.966726
-                  ]
-            },
-            {
-                  "name": "Olumpos",
-                  "text": "Cel mai înalt vârf muntos din Cipru, situat în Munții Troodos.",
-                  "category": "landmark",
-                  "coords": [
-                        32.86495,
-                        34.936613
-                  ]
-            },
-            {
-                  "name": "Holy Cross",
-                  "text": "Un sit religios din Valea Marathasa dedicat Sfintei Cruci.",
-                  "category": "landmark",
-                  "coords": [
-                        32.824137,
-                        34.970438
-                  ]
-            },
-            {
                   "name": "Berengaria Hotel",
                   "text": "Un faimos hotel istoric montan, cunoscut pentru arhitectura sa.",
                   "category": "landmark",
@@ -1244,42 +956,6 @@ export const cyprusNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Byzantine Museum",
-                  "text": "A museum in the Marathasa Valley exhibiting religious art and icons.",
-                  "category": "museum",
-                  "coords": [
-                        32.831145,
-                        34.967602
-                  ]
-            },
-            {
-                  "name": "Folk Museum",
-                  "text": "This museum presents the traditional rural life and crafts of the region.",
-                  "category": "museum",
-                  "coords": [
-                        32.829799,
-                        34.966726
-                  ]
-            },
-            {
-                  "name": "Olympus",
-                  "text": "The highest mountain peak in Cyprus, located in the Troodos range.",
-                  "category": "landmark",
-                  "coords": [
-                        32.86495,
-                        34.936613
-                  ]
-            },
-            {
-                  "name": "Holy Cross",
-                  "text": "A religious site in the Marathasa Valley dedicated to the Holy Cross.",
-                  "category": "landmark",
-                  "coords": [
-                        32.824137,
-                        34.970438
-                  ]
-            },
             {
                   "name": "Berengaria Hotel",
                   "text": "A famous historic mountain hotel known for its grand architecture.",
@@ -1356,39 +1032,12 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bee & embroidery museum",
-                  "text": "Dieses Museum zeigt die Traditionen der Imkerei und der berühmten Lefkara-Stickerei.",
-                  "category": "museum",
-                  "coords": [
-                        33.303697,
-                        34.850606
-                  ]
-            },
-            {
-                  "name": "Rural Museum of Kato Drys",
-                  "text": "Ein ländliches Museum in Kato Drys, das Einblicke in das traditionelle zypriotische Leben bietet.",
-                  "category": "museum",
-                  "coords": [
-                        33.305038,
-                        34.850742
-                  ]
-            },
-            {
                   "name": "Chrisalkora Traditional House",
                   "text": "Ein traditionelles Hausmuseum, das die lokale Architektur und Lebensweise zeigt.",
                   "category": "museum",
                   "coords": [
                         33.307948,
                         34.865303
-                  ]
-            },
-            {
-                  "name": "Ecophysis Eco and Bee Tour",
-                  "text": "Ein ökotouristisches Ziel, das sich auf Naturerziehung und Imkerei konzentriert.",
-                  "category": "landmark",
-                  "coords": [
-                        33.275851,
-                        34.840338
                   ]
             }
       ],
@@ -1403,39 +1052,12 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bee & embroidery museum",
-                  "text": "Ez a múzeum a méhészet és a híres lefkarai hímzés hagyományait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        33.303697,
-                        34.850606
-                  ]
-            },
-            {
-                  "name": "Rural Museum of Kato Drys",
-                  "text": "Kato Drys vidéki múzeuma, amely betekintést nyújt a hagyományos ciprusi életmódba.",
-                  "category": "museum",
-                  "coords": [
-                        33.305038,
-                        34.850742
-                  ]
-            },
-            {
                   "name": "Chrisalkora Traditional House",
                   "text": "Hagyományos házmúzeum, amely a helyi építészetet és életmódot mutatja be.",
                   "category": "museum",
                   "coords": [
                         33.307948,
                         34.865303
-                  ]
-            },
-            {
-                  "name": "Ecophysis Eco and Bee Tour",
-                  "text": "Ökoturisztikai célpont, amely a természetre és a méhészetre összpontosít.",
-                  "category": "landmark",
-                  "coords": [
-                        33.275851,
-                        34.840338
                   ]
             }
       ],
@@ -1450,39 +1072,12 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bee & embroidery museum",
-                  "text": "Acest muzeu prezintă tradițiile apiculturii și ale celebrei broderii de Lefkara.",
-                  "category": "museum",
-                  "coords": [
-                        33.303697,
-                        34.850606
-                  ]
-            },
-            {
-                  "name": "Rural Museum of Kato Drys",
-                  "text": "Un muzeu rural din Kato Drys ce oferă o incursiune în viața tradițională cipriotă.",
-                  "category": "museum",
-                  "coords": [
-                        33.305038,
-                        34.850742
-                  ]
-            },
-            {
                   "name": "Chrisalkora Traditional House",
                   "text": "O casă tradițională muzeu ce prezintă arhitectura și modul de viață local.",
                   "category": "museum",
                   "coords": [
                         33.307948,
                         34.865303
-                  ]
-            },
-            {
-                  "name": "Ecophysis Eco and Bee Tour",
-                  "text": "O destinație de ecoturism axată pe educația despre natură și apicultură.",
-                  "category": "landmark",
-                  "coords": [
-                        33.275851,
-                        34.840338
                   ]
             }
       ],
@@ -1497,39 +1092,12 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bee & embroidery museum",
-                  "text": "This museum showcases the traditions of beekeeping and the famous Lefkara embroidery.",
-                  "category": "museum",
-                  "coords": [
-                        33.303697,
-                        34.850606
-                  ]
-            },
-            {
-                  "name": "Rural Museum of Kato Drys",
-                  "text": "A rural museum in Kato Drys providing insights into traditional Cypriot life.",
-                  "category": "museum",
-                  "coords": [
-                        33.305038,
-                        34.850742
-                  ]
-            },
-            {
                   "name": "Chrisalkora Traditional House",
                   "text": "A traditional house museum showcasing local architecture and lifestyle.",
                   "category": "museum",
                   "coords": [
                         33.307948,
                         34.865303
-                  ]
-            },
-            {
-                  "name": "Ecophysis Eco and Bee Tour",
-                  "text": "An ecotourism destination focusing on nature education and beekeeping.",
-                  "category": "landmark",
-                  "coords": [
-                        33.275851,
-                        34.840338
                   ]
             }
       ]
@@ -1581,15 +1149,6 @@ export const cyprusNatureV2: POI[] = [
     id: "cyprus-kouris-delta-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Kourion Beach",
-                  "text": "Ein Sandstrand an der Küste von Zypern in der Nähe der antiken Stätte Kourion.",
-                  "category": "recreational",
-                  "coords": [
-                        32.884463,
-                        34.660054
-                  ]
-            },
-            {
                   "name": "Kourion Stadium",
                   "text": "Ein gut erhaltenes antikes Stadion, das Teil der Ausgrabungsstätte Kourion ist.",
                   "category": "historical",
@@ -1605,33 +1164,6 @@ export const cyprusNatureV2: POI[] = [
                   "coords": [
                         32.885714,
                         34.665169
-                  ]
-            },
-            {
-                  "name": "Sanctuary of Apollo",
-                  "text": "Ein antikes Heiligtum bei Kourion, das Apollo Hylates gewidmet war.",
-                  "category": "historical",
-                  "coords": [
-                        32.863561,
-                        34.672946
-                  ]
-            },
-            {
-                  "name": "Topiko Arkhaiologiko Mouseio Kouriou",
-                  "text": "Ein Museum, das archäologische Funde aus der antiken Stadt Kourion ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        32.901154,
-                        34.669618
-                  ]
-            },
-            {
-                  "name": "Kupriako Oinomouseio",
-                  "text": "Ein Museum, das sich der langen Geschichte der Weinherstellung auf Zypern widmet.",
-                  "category": "museum",
-                  "coords": [
-                        32.916575,
-                        34.675023
                   ]
             },
             {
@@ -1655,15 +1187,6 @@ export const cyprusNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Kourion Beach",
-                  "text": "Homokos tengerpart Cipruson, az ókori Kourion közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        32.884463,
-                        34.660054
-                  ]
-            },
-            {
                   "name": "Kourion Stadium",
                   "text": "Jó állapotban fennmaradt ókori stadion a kourioni régészeti területen.",
                   "category": "historical",
@@ -1679,33 +1202,6 @@ export const cyprusNatureV2: POI[] = [
                   "coords": [
                         32.885714,
                         34.665169
-                  ]
-            },
-            {
-                  "name": "Sanctuary of Apollo",
-                  "text": "Apollónak szentelt ókori szentély Kourion közelében.",
-                  "category": "historical",
-                  "coords": [
-                        32.863561,
-                        34.672946
-                  ]
-            },
-            {
-                  "name": "Topiko Arkhaiologiko Mouseio Kouriou",
-                  "text": "Az ókori Kourion városából származó régészeti leleteket bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        32.901154,
-                        34.669618
-                  ]
-            },
-            {
-                  "name": "Kupriako Oinomouseio",
-                  "text": "A ciprusi borászat hosszú történelmének szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        32.916575,
-                        34.675023
                   ]
             },
             {
@@ -1729,15 +1225,6 @@ export const cyprusNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Kourion Beach",
-                  "text": "O plajă cu nisip pe coasta Ciprului, în apropierea sitului antic Kourion.",
-                  "category": "recreational",
-                  "coords": [
-                        32.884463,
-                        34.660054
-                  ]
-            },
-            {
                   "name": "Kourion Stadium",
                   "text": "Un stadion antic bine conservat, parte a sitului arheologic Kourion.",
                   "category": "historical",
@@ -1753,33 +1240,6 @@ export const cyprusNatureV2: POI[] = [
                   "coords": [
                         32.885714,
                         34.665169
-                  ]
-            },
-            {
-                  "name": "Sanctuary of Apollo",
-                  "text": "Un sanctuar antic lângă Kourion, dedicat lui Apollo Hylates.",
-                  "category": "historical",
-                  "coords": [
-                        32.863561,
-                        34.672946
-                  ]
-            },
-            {
-                  "name": "Topiko Arkhaiologiko Mouseio Kouriou",
-                  "text": "Un muzeu care expune descoperiri arheologice din orașul antic Kourion.",
-                  "category": "museum",
-                  "coords": [
-                        32.901154,
-                        34.669618
-                  ]
-            },
-            {
-                  "name": "Kupriako Oinomouseio",
-                  "text": "Un muzeu dedicat istoriei îndelungate a producției de vin în Cipru.",
-                  "category": "museum",
-                  "coords": [
-                        32.916575,
-                        34.675023
                   ]
             },
             {
@@ -1803,15 +1263,6 @@ export const cyprusNatureV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Kourion Beach",
-                  "text": "A sandy beach on the coast of Cyprus near the ancient site of Kourion.",
-                  "category": "recreational",
-                  "coords": [
-                        32.884463,
-                        34.660054
-                  ]
-            },
-            {
                   "name": "Kourion Stadium",
                   "text": "A well-preserved ancient stadium that is part of the Kourion archaeological site.",
                   "category": "historical",
@@ -1827,33 +1278,6 @@ export const cyprusNatureV2: POI[] = [
                   "coords": [
                         32.885714,
                         34.665169
-                  ]
-            },
-            {
-                  "name": "Sanctuary of Apollo",
-                  "text": "An ancient sanctuary near Kourion dedicated to Apollo Hylates.",
-                  "category": "historical",
-                  "coords": [
-                        32.863561,
-                        34.672946
-                  ]
-            },
-            {
-                  "name": "Local Archaeological Kourion Museum",
-                  "text": "A museum exhibiting archaeological finds from the ancient city of Kourion.",
-                  "category": "museum",
-                  "coords": [
-                        32.901154,
-                        34.669618
-                  ]
-            },
-            {
-                  "name": "The Cyprus Wine Museum",
-                  "text": "A museum dedicated to the long history of winemaking in Cyprus.",
-                  "category": "museum",
-                  "coords": [
-                        32.916575,
-                        34.675023
                   ]
             },
             {
@@ -1950,15 +1374,6 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Governor's Beach",
-                  "text": "Ein bekannter Badeort, berühmt für seine weißen Kalkfelsen und das dunkle Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        33.27163,
-                        34.712318
-                  ]
-            },
-            {
                   "name": "Palm Beach",
                   "text": "Ein beliebter Strandbereich mit touristischer Infrastruktur für Erholungssuchende.",
                   "category": "recreational",
@@ -1994,15 +1409,6 @@ export const cyprusNatureV2: POI[] = [
                   "coords": [
                         33.275558,
                         34.717941
-                  ]
-            },
-            {
-                  "name": "Governor's Beach",
-                  "text": "Ismert üdülőhely, amely fehér mészkőszikláiról és sötét vizéről híres.",
-                  "category": "recreational",
-                  "coords": [
-                        33.27163,
-                        34.712318
                   ]
             },
             {
@@ -2044,15 +1450,6 @@ export const cyprusNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Governor's Beach",
-                  "text": "O stațiune balneară cunoscută, faimoasă pentru stâncile sale albe de calcar și apa întunecată.",
-                  "category": "recreational",
-                  "coords": [
-                        33.27163,
-                        34.712318
-                  ]
-            },
-            {
                   "name": "Palm Beach",
                   "text": "O zonă de plajă populară cu infrastructură turistică pentru cei care caută relaxare.",
                   "category": "recreational",
@@ -2088,15 +1485,6 @@ export const cyprusNatureV2: POI[] = [
                   "coords": [
                         33.275558,
                         34.717941
-                  ]
-            },
-            {
-                  "name": "Governor's Beach",
-                  "text": "A well-known beach resort famous for its white limestone rocks and dark water.",
-                  "category": "recreational",
-                  "coords": [
-                        33.27163,
-                        34.712318
                   ]
             },
             {

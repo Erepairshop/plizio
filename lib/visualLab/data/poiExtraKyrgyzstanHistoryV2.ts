@@ -3705,15 +3705,6 @@ export const kyrgyzstanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ozgon Munarasy",
-                  "text": "Das historische Minarett von Ösgön ist ein markanter Ziegelturm, der die Architektur der Karachaniden repräsentiert.",
-                  "category": "landmark",
-                  "coords": [
-                        73.297975,
-                        40.769008
-                  ]
-            },
-            {
                   "name": "Chon'-Dobo",
                   "text": "Die Festungsruine Chon'-Dobo verweist mit ihren alten Befestigungswällen auf die einstige militärische Bedeutung der Ösgön-Region.",
                   "category": "fortress",
@@ -3758,15 +3749,6 @@ export const kyrgyzstanHistoryV2: POI[] = [
                   "coords": [
                         73.29921,
                         40.768089
-                  ]
-            },
-            {
-                  "name": "Ozgon Munarasy",
-                  "text": "Az özgöni történelmi minaret egy jellegzetes téglatorony, amely a karakhanida építészetet képviseli.",
-                  "category": "landmark",
-                  "coords": [
-                        73.297975,
-                        40.769008
                   ]
             },
             {
@@ -3817,15 +3799,6 @@ export const kyrgyzstanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ozgon Munarasy",
-                  "text": "Minaretul istoric din Uzgen este un turn de cărămidă proeminent care reprezintă arhitectura dinastiei qarakhanizilor.",
-                  "category": "landmark",
-                  "coords": [
-                        73.297975,
-                        40.769008
-                  ]
-            },
-            {
                   "name": "Chon'-Dobo",
                   "text": "Ruinele fortului Chon'-Dobo, cu vechile sale metereze, indică fosta importanță militară a regiunii Uzgen.",
                   "category": "fortress",
@@ -3870,15 +3843,6 @@ export const kyrgyzstanHistoryV2: POI[] = [
                   "coords": [
                         73.29921,
                         40.768089
-                  ]
-            },
-            {
-                  "name": "Uzgen Minaret",
-                  "text": "The historic Uzgen Minaret is a striking brick tower that represents the architecture of the Karakhanid era.",
-                  "category": "landmark",
-                  "coords": [
-                        73.297975,
-                        40.769008
                   ]
             },
             {
@@ -7386,15 +7350,6 @@ export const kyrgyzstanHistoryV2: POI[] = [
     id: "kyrgyzstan-talas-museum-history-v2", "sights": {
       "de": [
             {
-                  "name": "Roller-klub",
-                  "text": "Ein lokaler Freizeitort in Talas, der Rollschuhlaufen und Unterhaltung für Jugendliche bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        72.249863,
-                        42.516439
-                  ]
-            },
-            {
                   "name": "Al' bukhari",
                   "text": "Eine Moschee in Talas, die dem Andenken des großen islamischen Gelehrten Al-Buchari gewidmet ist.",
                   "category": "landmark",
@@ -7441,15 +7396,6 @@ export const kyrgyzstanHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Roller-klub",
-                  "text": "Helyi szabadidőközpont Talaszban, amely görkorcsolyázást és szórakozást kínál a fiataloknak.",
-                  "category": "recreational",
-                  "coords": [
-                        72.249863,
-                        42.516439
-                  ]
-            },
             {
                   "name": "Al' bukhari",
                   "text": "Talasz egyik mecsetje, amelyet a nagy iszlám tudós, Al-Buhári emlékének szenteltek.",
@@ -7498,15 +7444,6 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Roller-klub",
-                  "text": "Un loc de recreere local în Talas, care oferă patinaj pe rotile și divertisment pentru tineri.",
-                  "category": "recreational",
-                  "coords": [
-                        72.249863,
-                        42.516439
-                  ]
-            },
-            {
                   "name": "Al' bukhari",
                   "text": "O moschee din Talas dedicată memoriei marelui învățat islamic Al-Bukhari.",
                   "category": "landmark",
@@ -7553,15 +7490,6 @@ export const kyrgyzstanHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Roller-klub",
-                  "text": "A local leisure spot in Talas offering roller skating and entertainment for young people.",
-                  "category": "recreational",
-                  "coords": [
-                        72.249863,
-                        42.516439
-                  ]
-            },
             {
                   "name": "Al' bukhari",
                   "text": "A mosque in Talas dedicated to the memory of the great Islamic scholar Al-Bukhari.",
@@ -8232,30 +8160,12 @@ export const kyrgyzstanHistoryV2: POI[] = [
     id: "kyrgyzstan-jalal-abad-museum-history-v2", "sights": {
       "de": [
             {
-                  "name": "Istoriko-Kraevedcheskii muzei",
-                  "text": "Ein Museum in Dschalalabat, das die Archäologie und Ethnographie der südlichen Fergana-Region zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        73.010748,
-                        40.927066
-                  ]
-            },
-            {
                   "name": "Arka",
                   "text": "Ein dekorativer Zeremonialbogen, der als symbolischer Eingang zur Stadt Dschalalabat dient.",
                   "category": "historical",
                   "coords": [
                         72.940956,
                         40.912466
-                  ]
-            },
-            {
-                  "name": "Barpy Alykulov",
-                  "text": "Ein bedeutendes Regionaltheater, benannt nach einem berühmten kirgisischen Volkssänger und Dichter.",
-                  "category": "cultural",
-                  "coords": [
-                        73.007413,
-                        40.929477
                   ]
             },
             {
@@ -8301,15 +8211,6 @@ export const kyrgyzstanHistoryV2: POI[] = [
                   "coords": [
                         72.983491,
                         40.977081
-                  ]
-            },
-            {
-                  "name": "Znak Zhalal-Abad",
-                  "text": "Ein Wahrzeichen am Straßenrand, das die Grenze und den Willkommenspunkt von Dschalalabat markiert.",
-                  "category": "landmark",
-                  "coords": [
-                        73.011722,
-                        40.922981
                   ]
             },
             {
@@ -8475,15 +8376,6 @@ export const kyrgyzstanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vid na Dzhalal-Abad",
-                  "text": "Aussichtspunkt mit weitem Panorama über das Fergana-Tal und die grünen Hügel der Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        73.020875,
-                        40.940372
-                  ]
-            },
-            {
                   "name": "Hotspring",
                   "text": "Heilkräftige Mineralquellen, die für das berühmte Thermalbad und Sanatorium von Dschalalabat genutzt werden.",
                   "category": "recreational",
@@ -8513,30 +8405,12 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Istoriko-Kraevedcheskii muzei",
-                  "text": "Dzsalal-Abad múzeuma, amely a déli Fergana-régió régészetét és néprajzát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        73.010748,
-                        40.927066
-                  ]
-            },
-            {
                   "name": "Arka",
                   "text": "Dekoratív ünnepi boltív, amely Dzsalal-Abad városának szimbolikus bejárataként áll.",
                   "category": "historical",
                   "coords": [
                         72.940956,
                         40.912466
-                  ]
-            },
-            {
-                  "name": "Barpy Alykulov",
-                  "text": "Jelentős regionális színház, amelyet egy híres kirgiz népdalénekesről és költőről neveztek el.",
-                  "category": "cultural",
-                  "coords": [
-                        73.007413,
-                        40.929477
                   ]
             },
             {
@@ -8582,15 +8456,6 @@ export const kyrgyzstanHistoryV2: POI[] = [
                   "coords": [
                         72.983491,
                         40.977081
-                  ]
-            },
-            {
-                  "name": "Znak Zhalal-Abad",
-                  "text": "Útszéli jelzőtábla, amely Dzsalal-Abad határát és üdvözlőpontját jelzi.",
-                  "category": "landmark",
-                  "coords": [
-                        73.011722,
-                        40.922981
                   ]
             },
             {
@@ -8756,15 +8621,6 @@ export const kyrgyzstanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vid na Dzhalal-Abad",
-                  "text": "Kilátópont, ahonnan széles panoráma nyílik a Fergana-völgyre és a környező zöld dombokra.",
-                  "category": "natural",
-                  "coords": [
-                        73.020875,
-                        40.940372
-                  ]
-            },
-            {
                   "name": "Hotspring",
                   "text": "Gyógyhatású ásványvízforrások, amelyeket Dzsalal-Abad híres termálfürdőjében és szanatóriumában használnak.",
                   "category": "recreational",
@@ -8794,30 +8650,12 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Istoriko-Kraevedcheskii muzei",
-                  "text": "Un muzeu din Jalal-Abad care prezintă arheologia și etnografia regiunii sudice Fergana.",
-                  "category": "museum",
-                  "coords": [
-                        73.010748,
-                        40.927066
-                  ]
-            },
-            {
                   "name": "Arka",
                   "text": "O arcadă ceremonială decorativă care servește drept intrare simbolică în orașul Jalal-Abad.",
                   "category": "historical",
                   "coords": [
                         72.940956,
                         40.912466
-                  ]
-            },
-            {
-                  "name": "Barpy Alykulov",
-                  "text": "Un teatru regional proeminent, numit după un faimos cântăreț popular și poet kârgâz.",
-                  "category": "cultural",
-                  "coords": [
-                        73.007413,
-                        40.929477
                   ]
             },
             {
@@ -8863,15 +8701,6 @@ export const kyrgyzstanHistoryV2: POI[] = [
                   "coords": [
                         72.983491,
                         40.977081
-                  ]
-            },
-            {
-                  "name": "Znak Zhalal-Abad",
-                  "text": "Un punct de reper la marginea drumului care marchează limita și punctul de bun venit în Jalal-Abad.",
-                  "category": "landmark",
-                  "coords": [
-                        73.011722,
-                        40.922981
                   ]
             },
             {
@@ -9037,15 +8866,6 @@ export const kyrgyzstanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vid na Dzhalal-Abad",
-                  "text": "Punct de observație cu o panoramă largă asupra Văii Fergana și a dealurilor verzi din jur.",
-                  "category": "natural",
-                  "coords": [
-                        73.020875,
-                        40.940372
-                  ]
-            },
-            {
                   "name": "Hotspring",
                   "text": "Izvoare minerale curative folosite pentru faimoasa baie termală și sanatoriul din Jalal-Abad.",
                   "category": "recreational",
@@ -9075,30 +8895,12 @@ export const kyrgyzstanHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "History and local lore museum",
-                  "text": "A museum in Jalal-Abad showcasing the archaeology and ethnography of the southern Fergana region.",
-                  "category": "museum",
-                  "coords": [
-                        73.010748,
-                        40.927066
-                  ]
-            },
-            {
                   "name": "Arka",
                   "text": "A decorative ceremonial archway that stands as a symbolic entrance to the city of Jalal-Abad.",
                   "category": "historical",
                   "coords": [
                         72.940956,
                         40.912466
-                  ]
-            },
-            {
-                  "name": "Barpy Alykulov",
-                  "text": "A prominent regional theatre named after a famous Kyrgyz folk singer and poet.",
-                  "category": "cultural",
-                  "coords": [
-                        73.007413,
-                        40.929477
                   ]
             },
             {
@@ -9144,15 +8946,6 @@ export const kyrgyzstanHistoryV2: POI[] = [
                   "coords": [
                         72.983491,
                         40.977081
-                  ]
-            },
-            {
-                  "name": "Znak Zhalal-Abad",
-                  "text": "A roadside landmark sign marking the boundary and welcome point of Jalal-Abad.",
-                  "category": "landmark",
-                  "coords": [
-                        73.011722,
-                        40.922981
                   ]
             },
             {
@@ -9315,15 +9108,6 @@ export const kyrgyzstanHistoryV2: POI[] = [
                   "coords": [
                         72.992583,
                         40.859972
-                  ]
-            },
-            {
-                  "name": "Viewpoint over Jalal-Abad",
-                  "text": "A viewpoint offering a wide panorama over the Fergana Valley and the surrounding green hills.",
-                  "category": "natural",
-                  "coords": [
-                        73.020875,
-                        40.940372
                   ]
             },
             {

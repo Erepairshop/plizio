@@ -335,30 +335,12 @@ export const slovakiaLandmarksV2: POI[] = [
     id: "slovakia-devin-castle-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Sandberg",
-                  "text": "Eine bedeutende archäologische und paläontologische Fundstätte bei Devín.",
-                  "category": "historical",
-                  "coords": [
-                        16.974281,
-                        48.20082
-                  ]
-            },
-            {
                   "name": "Ruine Röthelstein",
                   "text": "Die Ruine Röthelstein ist die Ruine einer mittelalterlichen Burg auf einer Felsklippe über der Donau, nahe der Burg Devín.",
                   "category": "castle",
                   "coords": [
                         16.95426,
                         48.161045
-                  ]
-            },
-            {
-                  "name": "Villa Rustica",
-                  "text": "Die Überreste eines römischen Landguts aus dem 3. bis 4. Jahrhundert.",
-                  "category": "historical",
-                  "coords": [
-                        17.015687,
-                        48.195482
                   ]
             },
             {
@@ -380,15 +362,6 @@ export const slovakiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sokoliareň a minizoo Devín",
-                  "text": "Eine Falknerei mit Minizoo unterhalb der Burg Devín.",
-                  "category": "recreational",
-                  "coords": [
-                        16.979728,
-                        48.177188
-                  ]
-            },
-            {
                   "name": "Mittlere Burg",
                   "text": "Ein Teil der Burganlage von Devín, der zwischen der oberen und unteren Burg liegt.",
                   "category": "castle",
@@ -407,15 +380,6 @@ export const slovakiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plavecká akadémia",
-                  "text": "Eine Schwimmakademie, die Kurse und Becken für verschiedene Altersgruppen anbietet.",
-                  "category": "recreational",
-                  "coords": [
-                        16.984145,
-                        48.204521
-                  ]
-            },
-            {
                   "name": "Babybecken",
                   "text": "Ein flaches Schwimmbecken, das speziell für die Sicherheit und den Spaß von Babys konzipiert ist.",
                   "category": "recreational",
@@ -427,30 +391,12 @@ export const slovakiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Sandberg",
-                  "text": "Jelentős régészeti és őslénytani lelőhely Dévény közelében.",
-                  "category": "historical",
-                  "coords": [
-                        16.974281,
-                        48.20082
-                  ]
-            },
-            {
                   "name": "Ruine Röthelstein",
                   "text": "A Röthelstein romja egy középkori várrom egy sziklán a Duna fölött, a Dévényi vár közelében.",
                   "category": "castle",
                   "coords": [
                         16.95426,
                         48.161045
-                  ]
-            },
-            {
-                  "name": "Villa Rustica",
-                  "text": "Egy 3-4. századi római vidéki birtok maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        17.015687,
-                        48.195482
                   ]
             },
             {
@@ -472,15 +418,6 @@ export const slovakiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sokoliareň a minizoo Devín",
-                  "text": "Egy solymászat és mini állatkert a Devín vára alatt.",
-                  "category": "recreational",
-                  "coords": [
-                        16.979728,
-                        48.177188
-                  ]
-            },
-            {
                   "name": "Stredný hrad",
                   "text": "A dévényi várkomplexum része a felső és az alsó vár között.",
                   "category": "castle",
@@ -499,15 +436,6 @@ export const slovakiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plavecká akadémia",
-                  "text": "Úszóakadémia, amely tanfolyamokat és medencéket kínál különböző korosztályok számára.",
-                  "category": "recreational",
-                  "coords": [
-                        16.984145,
-                        48.204521
-                  ]
-            },
-            {
                   "name": "Babybecken",
                   "text": "Sekély úszómedence, amelyet kifejezetten a babák biztonsága és szórakozása érdekében alakítottak ki.",
                   "category": "recreational",
@@ -519,30 +447,12 @@ export const slovakiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Sandberg",
-                  "text": "Un sit arheologic și paleontologic important lângă Devín.",
-                  "category": "historical",
-                  "coords": [
-                        16.974281,
-                        48.20082
-                  ]
-            },
-            {
                   "name": "Ruine Röthelstein",
                   "text": "Ruinele Röthelstein sunt ruinele unui castel medieval pe o stâncă de calcar deasupra Dunării, lângă Castelul Devin.",
                   "category": "castle",
                   "coords": [
                         16.95426,
                         48.161045
-                  ]
-            },
-            {
-                  "name": "Villa Rustica",
-                  "text": "Vestigiile unei vile rustice romane din secolele III-IV.",
-                  "category": "historical",
-                  "coords": [
-                        17.015687,
-                        48.195482
                   ]
             },
             {
@@ -564,15 +474,6 @@ export const slovakiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sokoliareň a minizoo Devín",
-                  "text": "Un șoimerie cu mini-grădină zoologică sub castelul Devín.",
-                  "category": "recreational",
-                  "coords": [
-                        16.979728,
-                        48.177188
-                  ]
-            },
-            {
                   "name": "Stredný hrad",
                   "text": "O secțiune a complexului cetății Devín, situată între castelul de sus și cel de jos.",
                   "category": "castle",
@@ -591,15 +492,6 @@ export const slovakiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Plavecká akadémia",
-                  "text": "O academie de înot care oferă cursuri și bazine pentru diverse grupe de vârstă.",
-                  "category": "recreational",
-                  "coords": [
-                        16.984145,
-                        48.204521
-                  ]
-            },
-            {
                   "name": "Babybecken",
                   "text": "O piscină puțin adâncă concepută special pentru siguranța și distracția bebelușilor.",
                   "category": "recreational",
@@ -611,30 +503,12 @@ export const slovakiaLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Sandberg",
-                  "text": "An important archaeological and paleontological site near Devín.",
-                  "category": "historical",
-                  "coords": [
-                        16.974281,
-                        48.20082
-                  ]
-            },
-            {
                   "name": "Ruine Röthelstein",
                   "text": "Ruine Röthelstein is the ruin of a medieval castle on a limestone cliff above the Danube, near Devín Castle.",
                   "category": "castle",
                   "coords": [
                         16.95426,
                         48.161045
-                  ]
-            },
-            {
-                  "name": "Villa Rustica",
-                  "text": "The remains of a Roman country estate dating from the 3rd to 4th century.",
-                  "category": "historical",
-                  "coords": [
-                        17.015687,
-                        48.195482
                   ]
             },
             {
@@ -656,15 +530,6 @@ export const slovakiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sokoliareň a minizoo Devín",
-                  "text": "A falconry center with a mini-zoo beneath Devín Castle.",
-                  "category": "recreational",
-                  "coords": [
-                        16.979728,
-                        48.177188
-                  ]
-            },
-            {
                   "name": "Middle castle",
                   "text": "A section of the Devín castle complex, situated between the upper and lower castles.",
                   "category": "castle",
@@ -680,15 +545,6 @@ export const slovakiaLandmarksV2: POI[] = [
                   "coords": [
                         17.014424,
                         48.153992
-                  ]
-            },
-            {
-                  "name": "Plavecká akadémia",
-                  "text": "A swimming academy offering courses and pools for various age groups.",
-                  "category": "recreational",
-                  "coords": [
-                        16.984145,
-                        48.204521
                   ]
             },
             {
@@ -948,24 +804,6 @@ export const slovakiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Trenčianske múzeum - expozícia Čachtice",
-                  "text": "Eine Museumsausstellung in Čachtice, die die Geschichte der Burg und des Dorfes dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        17.78578,
-                        48.715188
-                  ]
-            },
-            {
-                  "name": "Veľký Plešivec",
-                  "text": "Ein markanter Hügel in den Kleinen Karpaten in der Nähe der Burgruine Čachtice.",
-                  "category": "landmark",
-                  "coords": [
-                        17.736931,
-                        48.701868
-                  ]
-            },
-            {
                   "name": "Čachtická jaskyňa",
                   "text": "Ein Karsthöhlensystem in der Nähe des Dorfes Čachtice.",
                   "category": "landmark",
@@ -982,24 +820,6 @@ export const slovakiaLandmarksV2: POI[] = [
                         17.796578,
                         48.736387
                   ]
-            },
-            {
-                  "name": "Kúria Drugetovcov",
-                  "text": "Ein historisches Herrenhaus in Čachtice, das einst der Familie Drugeth gehörte.",
-                  "category": "historical",
-                  "coords": [
-                        17.786903,
-                        48.711872
-                  ]
-            },
-            {
-                  "name": "Drugetovská kúria",
-                  "text": "Herrenhaus aus dem 17. Jahrhundert nahe der Burg Čachtice.",
-                  "category": "historical",
-                  "coords": [
-                        17.785113,
-                        48.716412
-                  ]
             }
       ],
       "hu": [
@@ -1010,24 +830,6 @@ export const slovakiaLandmarksV2: POI[] = [
                   "coords": [
                         17.761266,
                         48.725
-                  ]
-            },
-            {
-                  "name": "Trenčianske múzeum - expozícia Čachtice",
-                  "text": "Múzeumi kiállítás Csejtén, amely a vár és a falu történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        17.78578,
-                        48.715188
-                  ]
-            },
-            {
-                  "name": "Veľký Plešivec",
-                  "text": "Jellegzetes domb a Kis-Kárpátokban, a csejtei várrom közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        17.736931,
-                        48.701868
                   ]
             },
             {
@@ -1047,24 +849,6 @@ export const slovakiaLandmarksV2: POI[] = [
                         17.796578,
                         48.736387
                   ]
-            },
-            {
-                  "name": "Kúria Drugetovcov",
-                  "text": "Történelmi kúria Csejtén, amely egykor a Drugeth családé volt.",
-                  "category": "historical",
-                  "coords": [
-                        17.786903,
-                        48.711872
-                  ]
-            },
-            {
-                  "name": "Drugetovská kúria",
-                  "text": "17. századi kúria a Csáktornyai vár közelében.",
-                  "category": "historical",
-                  "coords": [
-                        17.785113,
-                        48.716412
-                  ]
             }
       ],
       "ro": [
@@ -1075,24 +859,6 @@ export const slovakiaLandmarksV2: POI[] = [
                   "coords": [
                         17.761266,
                         48.725
-                  ]
-            },
-            {
-                  "name": "Trenčianske múzeum - expozícia Čachtice",
-                  "text": "O expoziție muzeală în Čachtice care detaliază istoria castelului și a satului.",
-                  "category": "museum",
-                  "coords": [
-                        17.78578,
-                        48.715188
-                  ]
-            },
-            {
-                  "name": "Veľký Plešivec",
-                  "text": "Un deal proeminent în Carpații Mici, lângă ruinele castelului Čachtice.",
-                  "category": "landmark",
-                  "coords": [
-                        17.736931,
-                        48.701868
                   ]
             },
             {
@@ -1112,24 +878,6 @@ export const slovakiaLandmarksV2: POI[] = [
                         17.796578,
                         48.736387
                   ]
-            },
-            {
-                  "name": "Kúria Drugetovcov",
-                  "text": "Un conac istoric în Čachtice care a aparținut odinioară familiei Drugeth.",
-                  "category": "historical",
-                  "coords": [
-                        17.786903,
-                        48.711872
-                  ]
-            },
-            {
-                  "name": "Drugetovská kúria",
-                  "text": "Conac din secolul al XVII-lea lângă Castelul Čachtice.",
-                  "category": "historical",
-                  "coords": [
-                        17.785113,
-                        48.716412
-                  ]
             }
       ],
       "en": [
@@ -1140,24 +888,6 @@ export const slovakiaLandmarksV2: POI[] = [
                   "coords": [
                         17.761266,
                         48.725
-                  ]
-            },
-            {
-                  "name": "Trenčianske múzeum - expozícia Čachtice",
-                  "text": "A museum exhibit in Čachtice detailing the history of the castle and the village.",
-                  "category": "museum",
-                  "coords": [
-                        17.78578,
-                        48.715188
-                  ]
-            },
-            {
-                  "name": "Veľký Plešivec",
-                  "text": "A prominent hill in the Little Carpathians near the Čachtice Castle ruins.",
-                  "category": "landmark",
-                  "coords": [
-                        17.736931,
-                        48.701868
                   ]
             },
             {
@@ -1176,24 +906,6 @@ export const slovakiaLandmarksV2: POI[] = [
                   "coords": [
                         17.796578,
                         48.736387
-                  ]
-            },
-            {
-                  "name": "Kúria Drugetovcov",
-                  "text": "A historic manor house in Čachtice that once belonged to the Drugeth family.",
-                  "category": "historical",
-                  "coords": [
-                        17.786903,
-                        48.711872
-                  ]
-            },
-            {
-                  "name": "Drugetovská kúria",
-                  "text": "17th-century manor house near Čachtice Castle.",
-                  "category": "historical",
-                  "coords": [
-                        17.785113,
-                        48.716412
                   ]
             }
       ]

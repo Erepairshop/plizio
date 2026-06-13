@@ -2328,57 +2328,12 @@ export const latviaCitiesV2: POI[] = [
     id: "latvia-siguldas-pilseta-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Die mittelalterliche Burg von Sigulda",
-                  "text": "Die Ruinen einer mittelalterlichen Burg des Schwertbrüderordens.",
-                  "category": "castle",
-                  "coords": [
-                        24.849273,
-                        57.166623
-                  ]
-            },
-            {
-                  "name": "Burgruine Krimulda",
-                  "text": "Krimuldaer Burgruine aus dem 14. Jahrhundert bei Sigulda, mittelalterliche Höhenburg.",
-                  "category": "castle",
-                  "coords": [
-                        24.832307,
-                        57.170859
-                  ]
-            },
-            {
                   "name": "Satezeles pilskalns",
                   "text": "Ein antiker Burgberg und archäologische Stätte in Sigulda.",
                   "category": "historical",
                   "coords": [
                         24.870701,
                         57.171613
-                  ]
-            },
-            {
-                  "name": "Vikmestes pilskalns",
-                  "text": "Heritage-geschützter alter Burgberg in Siguldas Pilseta.",
-                  "category": "historical",
-                  "coords": [
-                        24.828723,
-                        57.175793
-                  ]
-            },
-            {
-                  "name": "Turaidas Rata kakts",
-                  "text": "Eine bedeutende archäologische Stätte in der Nähe von Turaida.",
-                  "category": "historical",
-                  "coords": [
-                        24.83722,
-                        57.17305
-                  ]
-            },
-            {
-                  "name": "Krusta kalna pilskalns",
-                  "text": "Ein alter Burgberg auf dem Kreuzberg in Sigulda.",
-                  "category": "historical",
-                  "coords": [
-                        24.848331,
-                        57.167754
                   ]
             },
             {
@@ -2391,111 +2346,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gaujas plostnieku stāsts",
-                  "text": "Ein Museum über die Geschichte der Flößerei auf der Gauja.",
-                  "category": "museum",
-                  "coords": [
-                        24.836454,
-                        57.158679
-                  ]
-            },
-            {
-                  "name": "Siguldas pludmale",
-                  "text": "Ein beliebter Badeplatz am Ufer der Gauja.",
-                  "category": "recreational",
-                  "coords": [
-                        24.835506,
-                        57.159787
-                  ]
-            },
-            {
-                  "name": "Gūtmaņa ala",
-                  "text": "Die größte Höhle im Baltikum, bekannt für ihre historischen Inschriften.",
-                  "category": "natural",
-                  "coords": [
-                        24.84236,
-                        57.176197
-                  ]
-            },
-            {
-                  "name": "Siguldas Jaunā pils",
-                  "text": "Ein neugotisches Herrenhaus, auch als Neues Schloss Sigulda bekannt.",
-                  "category": "historical",
-                  "coords": [
-                        24.850132,
-                        57.16555
-                  ]
-            },
-            {
-                  "name": "Ķeizarskats",
-                  "text": "Naturfreunde schätzen den Ķeizarskats in Sigulda Town als herrliches Ausflugsziel. Dieser natürliche Aussichtspunkt gewährt seinen Besuchern einen außergewöhnlich weiten Blick über das grüne Gauja-Tal. Wer hierher kommt, erlebt die faszinierende lettische Landschaft aus einer wunderbaren Perspektive.",
-                  "category": "natural",
-                  "coords": [
-                        24.81779,
-                        57.142941
-                  ]
-            },
-            {
-                  "name": "Siguldas panorāmas rats",
-                  "text": "Am 11. September 1974 eröffnetes Riesenrad in Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.843564,
-                        57.16223
-                  ]
-            },
-            {
                   "name": "Kraukļu aiza",
                   "text": "Eine Sandsteinschlucht in Sigulda, bekannt für ihre Felsformationen.",
                   "category": "landmark",
                   "coords": [
                         24.867386,
                         57.173981
-                  ]
-            },
-            {
-                  "name": "skats uz Velnalu",
-                  "text": "In Sigulda Town finden Besucher den idyllischen Ort skats uz Velnalu in der Natur. Von diesem Aussichtspunkt aus bietet sich ein direkter Blick auf die markante Teufelshöhle. Es ist ein ruhiges Plätzchen, um die unberührten lettischen Naturwunder auf sich wirken zu lassen.",
-                  "category": "natural",
-                  "coords": [
-                        24.811872,
-                        57.149799
-                  ]
-            },
-            {
-                  "name": "Ķeizarkrēsls",
-                  "text": "Eine Felsformation namens Kaisersessel im Tal der Gauja.",
-                  "category": "landmark",
-                  "coords": [
-                        24.823627,
-                        57.142742
-                  ]
-            },
-            {
-                  "name": "Saltavots",
-                  "text": "Eine natürliche Quelle in der malerischen Umgebung von Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.850724,
-                        57.131348
-                  ]
-            },
-            {
-                  "name": "Krimuldas muiža",
-                  "text": "Ein historisches Herrenhaus in Krimulda mit Aussicht auf das Tal.",
-                  "category": "historical",
-                  "coords": [
-                        24.829355,
-                        57.16791
-                  ]
-            },
-            {
-                  "name": "Ziediņkalns",
-                  "text": "Ein Aussichtspunkt, der einen Blick auf die umliegende Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        24.842631,
-                        57.161056
                   ]
             },
             {
@@ -2508,66 +2364,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skats uz Gaujas senleju",
-                  "text": "Ein Ort mit Panoramablick auf das alte Gauja-Tal.",
-                  "category": "natural",
-                  "coords": [
-                        24.839022,
-                        57.149335
-                  ]
-            },
-            {
-                  "name": "Bungee jumping",
-                  "text": "Ein Ort für Bungee-Sprünge aus einer Seilbahn über der Gauja.",
-                  "category": "landmark",
-                  "coords": [
-                        24.845736,
-                        57.164547
-                  ]
-            },
-            {
-                  "name": "Dzintaru darbnīca",
-                  "text": "Eine Werkstatt, in der Bernstein-Schmuck gefertigt wird, bei Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.850758,
-                        57.149877
-                  ]
-            },
-            {
                   "name": "Paradīzes kalns",
                   "text": "Ein Hügel mit Panoramablick auf das Gauja-Tal und Sigulda.",
                   "category": "natural",
                   "coords": [
                         24.86574,
                         57.175034
-                  ]
-            },
-            {
-                  "name": "Koncertzāle \"Baltais Flīģelis\"",
-                  "text": "Ein Konzertsaal mit einem markanten weißen Flügel-Design in Sigulda.",
-                  "category": "cultural",
-                  "coords": [
-                        24.844732,
-                        57.153154
-                  ]
-            },
-            {
-                  "name": "Mīlas Beka",
-                  "text": "Ein kleiner Bach in Sigulda, bekannt als Liebesbach.",
-                  "category": "natural",
-                  "coords": [
-                        24.841454,
-                        57.163714
-                  ]
-            },
-            {
-                  "name": "Piedzīvojumu parks „Mežakaķis”",
-                  "text": "Ein Abenteuerpark mit Seilrutschen und Hindernisparcours im Wald bei Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.8291,
-                        57.143582
                   ]
             },
             {
@@ -2580,138 +2382,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lindes atteka",
-                  "text": "Ein Altwasserarm der Gauja mit ruhiger Natur.",
-                  "category": "landmark",
-                  "coords": [
-                        24.832379,
-                        57.148774
-                  ]
-            },
-            {
-                  "name": "Kājnieku tilts",
-                  "text": "Eine Fußgängerbrücke über die Gauja in Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.807073,
-                        57.149147
-                  ]
-            },
-            {
-                  "name": "Komplex neue Burg von Sigulda",
-                  "text": "Ein Ensemble aus dem Neuen Schloss des 19. Jahrhunderts und seinem Park in Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.851292,
-                        57.165255
-                  ]
-            },
-            {
-                  "name": "Mežakaķis",
-                  "text": "Ein Hindernis- und Abenteuerpark in den Wäldern von Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.828482,
-                        57.144959
-                  ]
-            },
-            {
-                  "name": "Siguldas Katoļu baznīca",
-                  "text": "Moderne katholische Kirche in Sigulda in der Nähe des Gauja-Flusstals.",
-                  "category": "religious",
-                  "coords": [
-                        24.857003,
-                        57.150919
-                  ]
-            },
-            {
-                  "name": "Matiņu ezers",
-                  "text": "Ein schöner See in Sigulda, ideal für Naturliebhaber und Spaziergänger.",
-                  "category": "natural",
-                  "coords": [
-                        24.872974,
-                        57.129861
-                  ]
-            },
-            {
-                  "name": "Ummuru ezers",
-                  "text": "Ein ruhiger Waldsee in Sigulda, der eine friedliche Atmosphäre bietet.",
-                  "category": "natural",
-                  "coords": [
-                        24.920794,
-                        57.11589
-                  ]
-            },
-            {
-                  "name": "Jūdažu ezers",
-                  "text": "Ein malerischer See in Sigulda, perfekt für einen Ausflug in die Natur.",
-                  "category": "natural",
-                  "coords": [
-                        24.951971,
-                        57.104746
-                  ]
-            },
-            {
-                  "name": "Inderdēļu ezers",
-                  "text": "Der Inderdēļu ezers ist ein malerischer See in Sigulda Town, ideal für einen ruhigen Spaziergang.",
-                  "category": "natural",
-                  "coords": [
-                        24.98715,
-                        57.143877
-                  ]
-            },
-            {
                   "name": "Jērkules ezers",
                   "text": "Der Jērkules ezers ist ein ruhiger See in Sigulda Town, der eine schöne Kulisse für Naturfreunde bietet.",
                   "category": "natural",
                   "coords": [
                         24.76253,
                         57.209252
-                  ]
-            },
-            {
-                  "name": "Nurmižu dzirnavu ezers",
-                  "text": "Der Nurmižu dzirnavu ezers ist ein friedlicher See in Sigulda Town, ideal für Entspannung am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        24.94887,
-                        57.199849
-                  ]
-            },
-            {
-                  "name": "Linezers",
-                  "text": "Der Linezers ist ein kleiner, malerischer See in Sigulda Town, der zum Verweilen in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        24.809302,
-                        57.086216
-                  ]
-            },
-            {
-                  "name": "Grebītis",
-                  "text": "Grebītis ist ein ruhiges Gewässer in Sigulda Town, ideal für einen kurzen Ausflug ins Grüne.",
-                  "category": "natural",
-                  "coords": [
-                        24.839609,
-                        57.126613
-                  ]
-            },
-            {
-                  "name": "Ancīšu dīķi",
-                  "text": "Ancīšu dīķi ist ein friedlicher Ort am Wasser in Sigulda Town, der sich gut für einen Spaziergang eignet.",
-                  "category": "natural",
-                  "coords": [
-                        24.845126,
-                        57.129696
-                  ]
-            },
-            {
-                  "name": "Roķēnu ūdenskrātuve",
-                  "text": "Die Roķēnu ūdenskrātuve ist ein Stausee in Sigulda Town, der eine weite Aussicht auf die Landschaft bietet.",
-                  "category": "natural",
-                  "coords": [
-                        24.889017,
-                        57.128251
                   ]
             },
             {
@@ -2722,36 +2398,9 @@ export const latviaCitiesV2: POI[] = [
                         24.859638,
                         57.159248
                   ]
-            },
-            {
-                  "name": "Sigulda Zoo",
-                  "text": "Ein Zoo in Sigulda Town, in dem Familien verschiedene Tiere beobachten können.",
-                  "category": "family",
-                  "coords": [
-                        24.791359,
-                        57.166008
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Siguldas viduslaiku pils",
-                  "text": "A Kardtestvérek rendjének középkori várromjai.",
-                  "category": "castle",
-                  "coords": [
-                        24.849273,
-                        57.166623
-                  ]
-            },
-            {
-                  "name": "Krimuldas pilsdrupas",
-                  "text": "A 14. századi Krimulda várrom Sigulda közelében, középkori magaslati vár.",
-                  "category": "castle",
-                  "coords": [
-                        24.832307,
-                        57.170859
-                  ]
-            },
             {
                   "name": "Satezeles pilskalns",
                   "text": "Ősi várhely és régészeti lelőhely Siguldában.",
@@ -2759,33 +2408,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         24.870701,
                         57.171613
-                  ]
-            },
-            {
-                  "name": "Vikmestes pilskalns",
-                  "text": "Örökségvédelmi ősi várdomb Siguldas Pilsetában.",
-                  "category": "historical",
-                  "coords": [
-                        24.828723,
-                        57.175793
-                  ]
-            },
-            {
-                  "name": "Turaidas Rata kakts",
-                  "text": "Jelentős régészeti lelőhely Turaida közelében.",
-                  "category": "historical",
-                  "coords": [
-                        24.83722,
-                        57.17305
-                  ]
-            },
-            {
-                  "name": "Krusta kalna pilskalns",
-                  "text": "Egy ősi földvár a Kereszt-hegyen Siguldában.",
-                  "category": "historical",
-                  "coords": [
-                        24.848331,
-                        57.167754
                   ]
             },
             {
@@ -2798,111 +2420,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gaujas plostnieku stāsts",
-                  "text": "A Gauja folyón zajló tutajozás történetét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        24.836454,
-                        57.158679
-                  ]
-            },
-            {
-                  "name": "Siguldas pludmale",
-                  "text": "Népszerű fürdőhely a Gauja folyó partján.",
-                  "category": "recreational",
-                  "coords": [
-                        24.835506,
-                        57.159787
-                  ]
-            },
-            {
-                  "name": "Gūtmaņa ala",
-                  "text": "A Baltikum legnagyobb barlangja, történelmi feliratairól ismert.",
-                  "category": "natural",
-                  "coords": [
-                        24.84236,
-                        57.176197
-                  ]
-            },
-            {
-                  "name": "Siguldas Jaunā pils",
-                  "text": "Neogótikus kúria, Sigulda új kastélyaként is ismert.",
-                  "category": "historical",
-                  "coords": [
-                        24.850132,
-                        57.16555
-                  ]
-            },
-            {
-                  "name": "Ķeizarskats",
-                  "text": "A természet szerelmesei a Sigulda Town-i Ķeizarskats kilátót pompás kirándulóhelyként értékelik. Ez a természetes kilátóhely kivételesen széles panorámát nyújt a látogatóknak a zöld Gauja-völgyre. Aki ide látogat, csodálatos perspektívából tapasztalhatja meg a lenyűgöző lett tájat.",
-                  "category": "natural",
-                  "coords": [
-                        24.81779,
-                        57.142941
-                  ]
-            },
-            {
-                  "name": "Siguldas panorāmas rats",
-                  "text": "1974. szeptember 11-én megnyílt óriáskerék Siguldában.",
-                  "category": "landmark",
-                  "coords": [
-                        24.843564,
-                        57.16223
-                  ]
-            },
-            {
                   "name": "Kraukļu aiza",
                   "text": "Egy homokkő-szakadék Siguldában, sziklaformációiról ismert.",
                   "category": "landmark",
                   "coords": [
                         24.867386,
                         57.173981
-                  ]
-            },
-            {
-                  "name": "skats uz Velnalu",
-                  "text": "Sigulda Townban a látogatók a természetben találják meg a skats uz Velnalu idilli helyszínét. Ebből a kilátóból közvetlen kilátás nyílik a jellegzetes Ördög-barlangra. Ez egy békés helyszín arra, hogy átadjuk magunkat az érintetlen lett természeti csodáknak.",
-                  "category": "natural",
-                  "coords": [
-                        24.811872,
-                        57.149799
-                  ]
-            },
-            {
-                  "name": "Ķeizarkrēsls",
-                  "text": "Egy sziklaformáció, a Császár-szék a Gauja folyó völgyében.",
-                  "category": "landmark",
-                  "coords": [
-                        24.823627,
-                        57.142742
-                  ]
-            },
-            {
-                  "name": "Saltavots",
-                  "text": "Természetes forrás Sigulda festői környezetében.",
-                  "category": "landmark",
-                  "coords": [
-                        24.850724,
-                        57.131348
-                  ]
-            },
-            {
-                  "name": "Krimuldas muiža",
-                  "text": "Történelmi kúria Krimuldában, kilátással a völgyre.",
-                  "category": "historical",
-                  "coords": [
-                        24.829355,
-                        57.16791
-                  ]
-            },
-            {
-                  "name": "Ziediņkalns",
-                  "text": "Kilátóhely, amely rálátást biztosít a környező természetre.",
-                  "category": "natural",
-                  "coords": [
-                        24.842631,
-                        57.161056
                   ]
             },
             {
@@ -2915,66 +2438,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skats uz Gaujas senleju",
-                  "text": "Panorámás kilátást nyújtó hely az ősi Gauja-völgyre.",
-                  "category": "natural",
-                  "coords": [
-                        24.839022,
-                        57.149335
-                  ]
-            },
-            {
-                  "name": "Bungee jumping",
-                  "text": "Bungee jumping helyszín a Gauja feletti kötélpályáról.",
-                  "category": "landmark",
-                  "coords": [
-                        24.845736,
-                        57.164547
-                  ]
-            },
-            {
-                  "name": "Dzintaru darbnīca",
-                  "text": "Egy műhely, ahol borostyán ékszereket készítenek, Sigulda közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        24.850758,
-                        57.149877
-                  ]
-            },
-            {
                   "name": "Paradīzes kalns",
                   "text": "Egy domb, panorámás kilátással a Gauja-völgyre és Siguldára.",
                   "category": "natural",
                   "coords": [
                         24.86574,
                         57.175034
-                  ]
-            },
-            {
-                  "name": "Koncertzāle \"Baltais Flīģelis\"",
-                  "text": "Egy hangversenyterem, jellegzetes fehér zongora formával Siguldában.",
-                  "category": "cultural",
-                  "coords": [
-                        24.844732,
-                        57.153154
-                  ]
-            },
-            {
-                  "name": "Mīlas Beka",
-                  "text": "Egy kis patak Siguldában, ismert mint a Szerelem-patak.",
-                  "category": "natural",
-                  "coords": [
-                        24.841454,
-                        57.163714
-                  ]
-            },
-            {
-                  "name": "Piedzīvojumu parks „Mežakaķis”",
-                  "text": "Egy kalandpark, kötélpályákkal és akadálypályákkal az erdőben Sigulda közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        24.8291,
-                        57.143582
                   ]
             },
             {
@@ -2987,138 +2456,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lindes atteka",
-                  "text": "A Gauja folyó holtága nyugodt természeti környezetben.",
-                  "category": "landmark",
-                  "coords": [
-                        24.832379,
-                        57.148774
-                  ]
-            },
-            {
-                  "name": "Kājnieku tilts",
-                  "text": "Egy gyalogos híd a Gauja folyón Siguldában.",
-                  "category": "landmark",
-                  "coords": [
-                        24.807073,
-                        57.149147
-                  ]
-            },
-            {
-                  "name": "Siguldas Jaunās pils komplekss",
-                  "text": "Egy komplexum, amely a 19. századi Új kastélyt és parkját foglalja magában Siguldában.",
-                  "category": "landmark",
-                  "coords": [
-                        24.851292,
-                        57.165255
-                  ]
-            },
-            {
-                  "name": "Mežakaķis",
-                  "text": "Akadály- és kalandpark Sigulda erdőiben.",
-                  "category": "landmark",
-                  "coords": [
-                        24.828482,
-                        57.144959
-                  ]
-            },
-            {
-                  "name": "Siguldas Katoļu baznīca",
-                  "text": "Modern katolikus templom Siguldában, a Gauja folyó völgyének közelében.",
-                  "category": "religious",
-                  "coords": [
-                        24.857003,
-                        57.150919
-                  ]
-            },
-            {
-                  "name": "Matiņu ezers",
-                  "text": "Szép tó Sigulda városában, amely ideális a természet kedvelőinek és a sétálóknak.",
-                  "category": "natural",
-                  "coords": [
-                        24.872974,
-                        57.129861
-                  ]
-            },
-            {
-                  "name": "Ummuru ezers",
-                  "text": "Csendes erdei tó Sigulda közelében, amely békés hangulatot áraszt.",
-                  "category": "natural",
-                  "coords": [
-                        24.920794,
-                        57.11589
-                  ]
-            },
-            {
-                  "name": "Jūdažu ezers",
-                  "text": "Festői tó Sigulda területén, amely tökéletes egy természetjáró kiránduláshoz.",
-                  "category": "natural",
-                  "coords": [
-                        24.951971,
-                        57.104746
-                  ]
-            },
-            {
-                  "name": "Inderdēļu ezers",
-                  "text": "Az Inderdēļu ezers egy festői tó Sigulda Town területén, amely ideális egy csendes sétához.",
-                  "category": "natural",
-                  "coords": [
-                        24.98715,
-                        57.143877
-                  ]
-            },
-            {
                   "name": "Jērkules ezers",
                   "text": "A Jērkules ezers egy nyugodt tó Sigulda Town területén, amely szép környezetet kínál a természetkedvelőknek.",
                   "category": "natural",
                   "coords": [
                         24.76253,
                         57.209252
-                  ]
-            },
-            {
-                  "name": "Nurmižu dzirnavu ezers",
-                  "text": "A Nurmižu dzirnavu ezers egy békés tó Sigulda Town területén, ideális a vízparti kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        24.94887,
-                        57.199849
-                  ]
-            },
-            {
-                  "name": "Linezers",
-                  "text": "A Linezers egy kicsi, festői tó Sigulda Town területén, amely pihenésre hív a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        24.809302,
-                        57.086216
-                  ]
-            },
-            {
-                  "name": "Grebītis",
-                  "text": "A Grebītis egy nyugodt vizű tó Sigulda Town területén, ideális egy rövid kiránduláshoz a zöldben.",
-                  "category": "natural",
-                  "coords": [
-                        24.839609,
-                        57.126613
-                  ]
-            },
-            {
-                  "name": "Ancīšu dīķi",
-                  "text": "Az Ancīšu dīķi egy békés vízparti hely Sigulda Town területén, amely alkalmas egy kellemes sétához.",
-                  "category": "natural",
-                  "coords": [
-                        24.845126,
-                        57.129696
-                  ]
-            },
-            {
-                  "name": "Roķēnu ūdenskrātuve",
-                  "text": "A Roķēnu ūdenskrātuve egy víztározó Sigulda Town területén, amely tágas kilátást nyújt a tájra.",
-                  "category": "natural",
-                  "coords": [
-                        24.889017,
-                        57.128251
                   ]
             },
             {
@@ -3129,36 +2472,9 @@ export const latviaCitiesV2: POI[] = [
                         24.859638,
                         57.159248
                   ]
-            },
-            {
-                  "name": "Sigulda Zoo",
-                  "text": "Állatkert Sigulda Town területén, ahol a családok különféle állatokat láthatnak.",
-                  "category": "family",
-                  "coords": [
-                        24.791359,
-                        57.166008
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Siguldas viduslaiku pils",
-                  "text": "Ruinele unui castel medieval al Ordinului Fraților de Sabie.",
-                  "category": "castle",
-                  "coords": [
-                        24.849273,
-                        57.166623
-                  ]
-            },
-            {
-                  "name": "Krimuldas pilsdrupas",
-                  "text": "Ruinele castelului Krimulda din secolul al XIV-lea lângă Sigulda, cetate medievală de înălțime.",
-                  "category": "castle",
-                  "coords": [
-                        24.832307,
-                        57.170859
-                  ]
-            },
             {
                   "name": "Satezeles pilskalns",
                   "text": "O veche așezare fortificată și sit arheologic în Sigulda.",
@@ -3166,33 +2482,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         24.870701,
                         57.171613
-                  ]
-            },
-            {
-                  "name": "Vikmestes pilskalns",
-                  "text": "Movilă de fortăreață străveche protejată de patrimoniu în Siguldas Pilseta.",
-                  "category": "historical",
-                  "coords": [
-                        24.828723,
-                        57.175793
-                  ]
-            },
-            {
-                  "name": "Turaidas Rata kakts",
-                  "text": "Un sit arheologic important situat lângă Turaida.",
-                  "category": "historical",
-                  "coords": [
-                        24.83722,
-                        57.17305
-                  ]
-            },
-            {
-                  "name": "Krusta kalna pilskalns",
-                  "text": "O fortificație antică pe Dealul Crucii din Sigulda.",
-                  "category": "historical",
-                  "coords": [
-                        24.848331,
-                        57.167754
                   ]
             },
             {
@@ -3205,111 +2494,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gaujas plostnieku stāsts",
-                  "text": "Un muzeu despre istoria plutăritului pe râul Gauja.",
-                  "category": "museum",
-                  "coords": [
-                        24.836454,
-                        57.158679
-                  ]
-            },
-            {
-                  "name": "Siguldas pludmale",
-                  "text": "Un loc popular de scăldat pe malul râului Gauja.",
-                  "category": "recreational",
-                  "coords": [
-                        24.835506,
-                        57.159787
-                  ]
-            },
-            {
-                  "name": "Gūtmaņa ala",
-                  "text": "Cea mai mare peșteră din Țările Baltice, cunoscută pentru inscripțiile sale istorice.",
-                  "category": "natural",
-                  "coords": [
-                        24.84236,
-                        57.176197
-                  ]
-            },
-            {
-                  "name": "Siguldas Jaunā pils",
-                  "text": "Un conac neogotic, cunoscut și sub numele de Noul Castel din Sigulda.",
-                  "category": "historical",
-                  "coords": [
-                        24.850132,
-                        57.16555
-                  ]
-            },
-            {
-                  "name": "Ķeizarskats",
-                  "text": "Iubitorii de natură apreciază Ķeizarskats din Sigulda Town ca pe o destinație de excursie minunată. Acest punct de observație natural oferă vizitatorilor o vedere excepțional de largă asupra văii verzi Gauja. Oricine vine aici experimentează peisajul leton fascinant dintr-o perspectivă minunată.",
-                  "category": "natural",
-                  "coords": [
-                        24.81779,
-                        57.142941
-                  ]
-            },
-            {
-                  "name": "Siguldas panorāmas rats",
-                  "text": "Roata mare deschisă pe 11 septembrie 1974 în Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.843564,
-                        57.16223
-                  ]
-            },
-            {
                   "name": "Kraukļu aiza",
                   "text": "O ravenă de gresie în Sigulda, cunoscută pentru formațiunile sale de stâncă.",
                   "category": "landmark",
                   "coords": [
                         24.867386,
                         57.173981
-                  ]
-            },
-            {
-                  "name": "skats uz Velnalu",
-                  "text": "În Sigulda Town, vizitatorii găsesc locația idilică skats uz Velnalu în mijlocul naturii. Din acest punct de observație, aveți o vedere directă asupra remarcabilei Peșteri a Diavolului. Este un loc liniștit pentru a lăsa minunile naturale letone neatinse să își facă efectul.",
-                  "category": "natural",
-                  "coords": [
-                        24.811872,
-                        57.149799
-                  ]
-            },
-            {
-                  "name": "Ķeizarkrēsls",
-                  "text": "O formațiune stâncoasă numită Scaunul Împăratului în valea râului Gauja.",
-                  "category": "landmark",
-                  "coords": [
-                        24.823627,
-                        57.142742
-                  ]
-            },
-            {
-                  "name": "Saltavots",
-                  "text": "Un izvor natural situat în cadrul pitoresc din Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.850724,
-                        57.131348
-                  ]
-            },
-            {
-                  "name": "Krimuldas muiža",
-                  "text": "Un conac istoric în Krimulda, cu vedere spre vale.",
-                  "category": "historical",
-                  "coords": [
-                        24.829355,
-                        57.16791
-                  ]
-            },
-            {
-                  "name": "Ziediņkalns",
-                  "text": "Un punct de belvedere care oferă o vedere asupra naturii înconjurătoare.",
-                  "category": "natural",
-                  "coords": [
-                        24.842631,
-                        57.161056
                   ]
             },
             {
@@ -3322,66 +2512,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skats uz Gaujas senleju",
-                  "text": "Un loc cu vedere panoramică asupra văii străvechi a râului Gauja.",
-                  "category": "natural",
-                  "coords": [
-                        24.839022,
-                        57.149335
-                  ]
-            },
-            {
-                  "name": "Bungee jumping",
-                  "text": "Un loc pentru sărituri bungee dintr-o telecabină peste râul Gauja.",
-                  "category": "landmark",
-                  "coords": [
-                        24.845736,
-                        57.164547
-                  ]
-            },
-            {
-                  "name": "Dzintaru darbnīca",
-                  "text": "Un atelier unde se confecționează bijuterii din chihlimbar, lângă Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.850758,
-                        57.149877
-                  ]
-            },
-            {
                   "name": "Paradīzes kalns",
                   "text": "Un deal care oferă vederi panoramice asupra văii Gauja și a orașului Sigulda.",
                   "category": "natural",
                   "coords": [
                         24.86574,
                         57.175034
-                  ]
-            },
-            {
-                  "name": "Koncertzāle \"Baltais Flīģelis\"",
-                  "text": "O sală de concerte cu un design distinctiv de pian alb în Sigulda.",
-                  "category": "cultural",
-                  "coords": [
-                        24.844732,
-                        57.153154
-                  ]
-            },
-            {
-                  "name": "Mīlas Beka",
-                  "text": "Un pârâu mic în Sigulda, cunoscut sub numele de Pârâul Iubirii.",
-                  "category": "natural",
-                  "coords": [
-                        24.841454,
-                        57.163714
-                  ]
-            },
-            {
-                  "name": "Piedzīvojumu parks „Mežakaķis”",
-                  "text": "Un parc de aventuri cu tiroliane și trasee cu obstacole în pădurea de lângă Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.8291,
-                        57.143582
                   ]
             },
             {
@@ -3394,138 +2530,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lindes atteka",
-                  "text": "Un braț mort al râului Gauja, într-un cadru natural liniștit.",
-                  "category": "landmark",
-                  "coords": [
-                        24.832379,
-                        57.148774
-                  ]
-            },
-            {
-                  "name": "Kājnieku tilts",
-                  "text": "Un pod pietonal peste râul Gauja în Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.807073,
-                        57.149147
-                  ]
-            },
-            {
-                  "name": "Siguldas Jaunās pils komplekss",
-                  "text": "Un complex care include Castelul Nou din secolul al XIX-lea și parcul său din Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.851292,
-                        57.165255
-                  ]
-            },
-            {
-                  "name": "Mežakaķis",
-                  "text": "Un parc de aventură cu obstacole în pădurile din Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.828482,
-                        57.144959
-                  ]
-            },
-            {
-                  "name": "Siguldas Katoļu baznīca",
-                  "text": "Biserică catolică modernă în Sigulda, aproape de valea râului Gauja.",
-                  "category": "religious",
-                  "coords": [
-                        24.857003,
-                        57.150919
-                  ]
-            },
-            {
-                  "name": "Matiņu ezers",
-                  "text": "Un lac frumos în Sigulda, ideal pentru iubitorii de natură și plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        24.872974,
-                        57.129861
-                  ]
-            },
-            {
-                  "name": "Ummuru ezers",
-                  "text": "Un lac de pădure liniștit în Sigulda, oferind o atmosferă pașnică.",
-                  "category": "natural",
-                  "coords": [
-                        24.920794,
-                        57.11589
-                  ]
-            },
-            {
-                  "name": "Jūdažu ezers",
-                  "text": "Un lac pitoresc în Sigulda, perfect pentru o excursie în natură.",
-                  "category": "natural",
-                  "coords": [
-                        24.951971,
-                        57.104746
-                  ]
-            },
-            {
-                  "name": "Inderdēļu ezers",
-                  "text": "Inderdēļu ezers este un lac pitoresc în Sigulda Town, ideal pentru o plimbare liniștită.",
-                  "category": "natural",
-                  "coords": [
-                        24.98715,
-                        57.143877
-                  ]
-            },
-            {
                   "name": "Jērkules ezers",
                   "text": "Jērkules ezers este un lac liniștit în Sigulda Town, oferind un cadru frumos pentru iubitorii de natură.",
                   "category": "natural",
                   "coords": [
                         24.76253,
                         57.209252
-                  ]
-            },
-            {
-                  "name": "Nurmižu dzirnavu ezers",
-                  "text": "Nurmižu dzirnavu ezers este un lac liniștit în Sigulda Town, ideal pentru relaxare lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        24.94887,
-                        57.199849
-                  ]
-            },
-            {
-                  "name": "Linezers",
-                  "text": "Linezers este un lac mic și pitoresc în Sigulda Town, care invită la relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        24.809302,
-                        57.086216
-                  ]
-            },
-            {
-                  "name": "Grebītis",
-                  "text": "Grebītis este un lac liniștit în Sigulda Town, ideal pentru o scurtă escapadă în natură.",
-                  "category": "natural",
-                  "coords": [
-                        24.839609,
-                        57.126613
-                  ]
-            },
-            {
-                  "name": "Ancīšu dīķi",
-                  "text": "Ancīšu dīķi este un loc liniștit lângă apă în Sigulda Town, potrivit pentru o plimbare plăcută.",
-                  "category": "natural",
-                  "coords": [
-                        24.845126,
-                        57.129696
-                  ]
-            },
-            {
-                  "name": "Roķēnu ūdenskrātuve",
-                  "text": "Roķēnu ūdenskrātuve este un lac de acumulare în Sigulda Town, oferind o priveliște largă asupra peisajului.",
-                  "category": "natural",
-                  "coords": [
-                        24.889017,
-                        57.128251
                   ]
             },
             {
@@ -3536,36 +2546,9 @@ export const latviaCitiesV2: POI[] = [
                         24.859638,
                         57.159248
                   ]
-            },
-            {
-                  "name": "Sigulda Zoo",
-                  "text": "O grădină zoologică în Sigulda Town unde familiile pot vedea diverse animale.",
-                  "category": "family",
-                  "coords": [
-                        24.791359,
-                        57.166008
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Siguldas viduslaiku pils",
-                  "text": "The ruins of a medieval castle of the Livonian Brothers of the Sword.",
-                  "category": "castle",
-                  "coords": [
-                        24.849273,
-                        57.166623
-                  ]
-            },
-            {
-                  "name": "Krimuldas castle",
-                  "text": "Krimulda Castle ruins near Sigulda, a 14th‑century medieval hill fortress.",
-                  "category": "castle",
-                  "coords": [
-                        24.832307,
-                        57.170859
-                  ]
-            },
             {
                   "name": "Satezeles pilskalns",
                   "text": "An ancient hillfort and archaeological site in Sigulda.",
@@ -3573,33 +2556,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         24.870701,
                         57.171613
-                  ]
-            },
-            {
-                  "name": "Vikmestes pilskalns",
-                  "text": "Heritage-listed ancient hillfort in Siguldas Pilseta.",
-                  "category": "historical",
-                  "coords": [
-                        24.828723,
-                        57.175793
-                  ]
-            },
-            {
-                  "name": "Turaidas Rata kakts",
-                  "text": "A significant archaeological site located near Turaida.",
-                  "category": "historical",
-                  "coords": [
-                        24.83722,
-                        57.17305
-                  ]
-            },
-            {
-                  "name": "Krusta kalna pilskalns",
-                  "text": "An ancient hillfort on Cross Hill in Sigulda.",
-                  "category": "historical",
-                  "coords": [
-                        24.848331,
-                        57.167754
                   ]
             },
             {
@@ -3612,111 +2568,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gaujas plostnieku stāsts",
-                  "text": "A museum about the history of timber rafting on the Gauja river.",
-                  "category": "museum",
-                  "coords": [
-                        24.836454,
-                        57.158679
-                  ]
-            },
-            {
-                  "name": "Sigulda beach",
-                  "text": "A popular swimming spot on the banks of the Gauja river.",
-                  "category": "recreational",
-                  "coords": [
-                        24.835506,
-                        57.159787
-                  ]
-            },
-            {
-                  "name": "Gütmanis (Gutmann) Cave",
-                  "text": "The largest cave in the Baltics, known for its historic inscriptions.",
-                  "category": "natural",
-                  "coords": [
-                        24.84236,
-                        57.176197
-                  ]
-            },
-            {
-                  "name": "Sigulda Castle",
-                  "text": "A Neo-Gothic manor house, also known as the Sigulda New Castle.",
-                  "category": "historical",
-                  "coords": [
-                        24.850132,
-                        57.16555
-                  ]
-            },
-            {
-                  "name": "Ķeizarskats",
-                  "text": "Nature lovers appreciate the Ķeizarskats in Sigulda Town as a magnificent excursion destination. This natural viewpoint grants its visitors an exceptionally wide view over the green Gauja Valley. Anyone who comes here experiences the fascinating Latvian landscape from a wonderful perspective.",
-                  "category": "natural",
-                  "coords": [
-                        24.81779,
-                        57.142941
-                  ]
-            },
-            {
-                  "name": "Sigulda Ferris wheel",
-                  "text": "Ferris wheel opened on 11 September 1974 in Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.843564,
-                        57.16223
-                  ]
-            },
-            {
                   "name": "Kraukļu aiza",
                   "text": "A sandstone ravine in Sigulda, known for its rock formations.",
                   "category": "landmark",
                   "coords": [
                         24.867386,
                         57.173981
-                  ]
-            },
-            {
-                  "name": "skats uz Velnalu",
-                  "text": "In Sigulda Town, visitors will find the idyllic spot skats uz Velnalu in nature. From this viewpoint, there is a direct view of the prominent Devil's Cave. It is a quiet place to take in the untouched Latvian natural wonders.",
-                  "category": "natural",
-                  "coords": [
-                        24.811872,
-                        57.149799
-                  ]
-            },
-            {
-                  "name": "Ķeizarkrēsls",
-                  "text": "A rock formation called Emperor's Chair in the Gauja River valley.",
-                  "category": "landmark",
-                  "coords": [
-                        24.823627,
-                        57.142742
-                  ]
-            },
-            {
-                  "name": "Saltavots",
-                  "text": "A natural spring located in the scenic surroundings of Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.850724,
-                        57.131348
-                  ]
-            },
-            {
-                  "name": "Krimuldas muiža",
-                  "text": "A historic manor house in Krimulda with views of the valley.",
-                  "category": "historical",
-                  "coords": [
-                        24.829355,
-                        57.16791
-                  ]
-            },
-            {
-                  "name": "Ziediņkalns",
-                  "text": "A viewpoint providing a look at the surrounding nature.",
-                  "category": "natural",
-                  "coords": [
-                        24.842631,
-                        57.161056
                   ]
             },
             {
@@ -3729,66 +2586,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Skats uz Gaujas senleju",
-                  "text": "A spot offering panoramic views of the ancient Gauja valley.",
-                  "category": "natural",
-                  "coords": [
-                        24.839022,
-                        57.149335
-                  ]
-            },
-            {
-                  "name": "Bungee jumping",
-                  "text": "A bungee jumping site from a cable car over the Gauja river.",
-                  "category": "landmark",
-                  "coords": [
-                        24.845736,
-                        57.164547
-                  ]
-            },
-            {
-                  "name": "Dzintaru darbnīca",
-                  "text": "A workshop where amber jewelry is crafted, near Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.850758,
-                        57.149877
-                  ]
-            },
-            {
                   "name": "Paradise hill",
                   "text": "A hill offering panoramic views of the Gauja valley and Sigulda.",
                   "category": "natural",
                   "coords": [
                         24.86574,
                         57.175034
-                  ]
-            },
-            {
-                  "name": "Koncertzāle \"Baltais Flīģelis\"",
-                  "text": "A concert hall with a distinctive white grand piano design in Sigulda.",
-                  "category": "cultural",
-                  "coords": [
-                        24.844732,
-                        57.153154
-                  ]
-            },
-            {
-                  "name": "Mīlas Beka",
-                  "text": "A small stream in Sigulda, known as the Love Stream.",
-                  "category": "natural",
-                  "coords": [
-                        24.841454,
-                        57.163714
-                  ]
-            },
-            {
-                  "name": "Piedzīvojumu parks „Mežakaķis”",
-                  "text": "An adventure park with zip lines and obstacle courses in the forest near Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.8291,
-                        57.143582
                   ]
             },
             {
@@ -3801,87 +2604,6 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lindes atteka",
-                  "text": "An oxbow lake of the Gauja river in a peaceful natural setting.",
-                  "category": "landmark",
-                  "coords": [
-                        24.832379,
-                        57.148774
-                  ]
-            },
-            {
-                  "name": "Kājnieku tilts",
-                  "text": "A pedestrian bridge crossing the Gauja River in Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.807073,
-                        57.149147
-                  ]
-            },
-            {
-                  "name": "Complex of Sigulda New Castle",
-                  "text": "A complex including the 19th-century New Castle and its park in Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.851292,
-                        57.165255
-                  ]
-            },
-            {
-                  "name": "Mežakaķis",
-                  "text": "An obstacle and adventure park in the forests of Sigulda.",
-                  "category": "landmark",
-                  "coords": [
-                        24.828482,
-                        57.144959
-                  ]
-            },
-            {
-                  "name": "Siguldas Katoļu baznīca",
-                  "text": "Modern Catholic church in Sigulda near the Gauja River valley.",
-                  "category": "religious",
-                  "coords": [
-                        24.857003,
-                        57.150919
-                  ]
-            },
-            {
-                  "name": "Matiņu ezers",
-                  "text": "A lovely lake in Sigulda, ideal for nature lovers and walkers.",
-                  "category": "natural",
-                  "coords": [
-                        24.872974,
-                        57.129861
-                  ]
-            },
-            {
-                  "name": "Ummuru ezers",
-                  "text": "A quiet forest lake in Sigulda, offering a peaceful atmosphere.",
-                  "category": "natural",
-                  "coords": [
-                        24.920794,
-                        57.11589
-                  ]
-            },
-            {
-                  "name": "Jūdažu ezers",
-                  "text": "A scenic lake in Sigulda, perfect for a trip into nature.",
-                  "category": "natural",
-                  "coords": [
-                        24.951971,
-                        57.104746
-                  ]
-            },
-            {
-                  "name": "Inderdēļu ezers",
-                  "text": "Inderdēļu ezers is a scenic lake in Sigulda Town, ideal for a peaceful walk.",
-                  "category": "natural",
-                  "coords": [
-                        24.98715,
-                        57.143877
-                  ]
-            },
-            {
                   "name": "Jērkules ezers",
                   "text": "Jērkules ezers is a peaceful lake in Sigulda Town, providing a beautiful setting for nature lovers.",
                   "category": "natural",
@@ -3891,66 +2613,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nurmižu dzirnavu ezers",
-                  "text": "Nurmižu dzirnavu ezers is a peaceful lake in Sigulda Town, ideal for relaxing by the water.",
-                  "category": "natural",
-                  "coords": [
-                        24.94887,
-                        57.199849
-                  ]
-            },
-            {
-                  "name": "Linezers",
-                  "text": "Linezers is a small, scenic lake in Sigulda Town, inviting visitors to enjoy the natural surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        24.809302,
-                        57.086216
-                  ]
-            },
-            {
-                  "name": "Grebītis",
-                  "text": "Grebītis is a quiet body of water in Sigulda Town, ideal for a short trip into nature.",
-                  "category": "natural",
-                  "coords": [
-                        24.839609,
-                        57.126613
-                  ]
-            },
-            {
-                  "name": "Ancīšu dīķi",
-                  "text": "Ancīšu dīķi is a peaceful waterfront spot in Sigulda Town, suitable for a pleasant walk.",
-                  "category": "natural",
-                  "coords": [
-                        24.845126,
-                        57.129696
-                  ]
-            },
-            {
-                  "name": "Roķēnu ūdenskrātuve",
-                  "text": "Roķēnu ūdenskrātuve is a reservoir in Sigulda Town, offering a wide view of the landscape.",
-                  "category": "natural",
-                  "coords": [
-                        24.889017,
-                        57.128251
-                  ]
-            },
-            {
                   "name": "SSC peldbaseins",
                   "text": "A swimming pool in Sigulda Town suitable for sports and recreation.",
                   "category": "family",
                   "coords": [
                         24.859638,
                         57.159248
-                  ]
-            },
-            {
-                  "name": "Sigulda Zoo",
-                  "text": "A zoo in Sigulda Town where families can see various animals.",
-                  "category": "family",
-                  "coords": [
-                        24.791359,
-                        57.166008
                   ]
             }
       ]
@@ -4738,50 +3406,10 @@ export const latviaCitiesV2: POI[] = [
   },
   {
     id: "latvia-strenci-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Strenču luterāņu baznīca",
-                  "text": "Eine lutherische Kirche, die der örtlichen Gemeinde in Strenči, Lettland, dient.",
-                  "category": "religious",
-                  "coords": [
-                        25.689649,
-                        57.63017
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Strenču luterāņu baznīca",
-                  "text": "Evangélikus templom a lettországi Strenči városában.",
-                  "category": "religious",
-                  "coords": [
-                        25.689649,
-                        57.63017
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Strenču luterāņu baznīca",
-                  "text": "O biserică luterană care deservește comunitatea locală din Strenči, Letonia.",
-                  "category": "religious",
-                  "coords": [
-                        25.689649,
-                        57.63017
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Strenču luterāņu baznīca",
-                  "text": "A Lutheran church serving the local community in Strenči, Latvia.",
-                  "category": "religious",
-                  "coords": [
-                        25.689649,
-                        57.63017
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "LV",
@@ -6135,60 +4763,6 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Aspazijas māja",
-                  "text": "Das Gedenkmuseum der lettischen Dichterin Aspazija.",
-                  "category": "museum",
-                  "coords": [
-                        23.78133,
-                        56.971492
-                  ]
-            },
-            {
-                  "name": "Dabas liegums \"Lielupes grīvas pļavas\"",
-                  "text": "Ein Naturschutzgebiet an der Mündung des Flusses Lielupe.",
-                  "category": "natural",
-                  "coords": [
-                        23.778933,
-                        56.95192
-                  ]
-            },
-            {
-                  "name": "Latvenergo Energoefektivitātes centrs",
-                  "text": "Das Latvenergo Energieeffizienzzentrum in Priedaine ist ein interaktives Museum.",
-                  "category": "museum",
-                  "coords": [
-                        23.789502,
-                        56.972047
-                  ]
-            },
-            {
-                  "name": "Jūrmalas pilsētas muzejs",
-                  "text": "Das Jūrmala Stadtmuseum in Priedaine zeigt die Geschichte des Kurorts.",
-                  "category": "museum",
-                  "coords": [
-                        23.801411,
-                        56.971207
-                  ]
-            },
-            {
-                  "name": "Mākslas stacija \"Dubulti\"",
-                  "text": "Eine Galerie für zeitgenössische Kunst im Bahnhof Dubulti.",
-                  "category": "museum",
-                  "coords": [
-                        23.776144,
-                        56.969666
-                  ]
-            },
-            {
-                  "name": "Inner Light Art Gallery",
-                  "text": "Eine Kunstgalerie in Jūrmala, die für lumineszierende Gemälde bekannt ist.",
-                  "category": "museum",
-                  "coords": [
-                        23.798436,
-                        56.973521
-                  ]
-            },
-            {
                   "name": "Piemineklis Mihailam Zadornovam",
                   "text": "In Priedaine (Jūrmala) steht das Denkmal für den Schriftsteller Michail Sadornow.",
                   "category": "historical",
@@ -6204,15 +4778,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         23.745109,
                         56.963115
-                  ]
-            },
-            {
-                  "name": "Dubultu evanģēliski luteriskā baznīca",
-                  "text": "Eine lutherische Kirche in Dubulti mit markanter Architektur.",
-                  "category": "religious",
-                  "coords": [
-                        23.773727,
-                        56.969585
                   ]
             },
             {
@@ -6241,15 +4806,6 @@ export const latviaCitiesV2: POI[] = [
                         23.737853,
                         56.967731
                   ]
-            },
-            {
-                  "name": "Dubultu pludmale",
-                  "text": "Dubultu ist einer der bekanntesten Strände von Jūrmala. Er bietet eine gute Infrastruktur und weite Flächen für Badegäste und Spaziergänger.",
-                  "category": "recreational",
-                  "coords": [
-                        23.773765,
-                        56.972603
-                  ]
             }
       ],
       "hu": [
@@ -6260,60 +4816,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         23.712213,
                         56.965249
-                  ]
-            },
-            {
-                  "name": "Aspazijas māja",
-                  "text": "Aspazija lett költőnő emlékháza.",
-                  "category": "museum",
-                  "coords": [
-                        23.78133,
-                        56.971492
-                  ]
-            },
-            {
-                  "name": "Dabas liegums \"Lielupes grīvas pļavas\"",
-                  "text": "Természetvédelmi terület a Lielupe folyó torkolatánál.",
-                  "category": "natural",
-                  "coords": [
-                        23.778933,
-                        56.95192
-                  ]
-            },
-            {
-                  "name": "Latvenergo Energoefektivitātes centrs",
-                  "text": "A Latvenergo Energiahatékonysági Központ Priedaine-ben egy interaktív múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        23.789502,
-                        56.972047
-                  ]
-            },
-            {
-                  "name": "Jūrmalas pilsētas muzejs",
-                  "text": "A Jūrmala Városi Múzeum Priedaine-ben bemutatja az üdülőváros történetét.",
-                  "category": "museum",
-                  "coords": [
-                        23.801411,
-                        56.971207
-                  ]
-            },
-            {
-                  "name": "Mākslas stacija \"Dubulti\"",
-                  "text": "Kortárs művészeti galéria a Dubulti vasútállomáson.",
-                  "category": "museum",
-                  "coords": [
-                        23.776144,
-                        56.969666
-                  ]
-            },
-            {
-                  "name": "Inner Light Art Gallery",
-                  "text": "Világító festményeiről ismert művészeti galéria Jūrmalában.",
-                  "category": "museum",
-                  "coords": [
-                        23.798436,
-                        56.973521
                   ]
             },
             {
@@ -6332,15 +4834,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         23.745109,
                         56.963115
-                  ]
-            },
-            {
-                  "name": "Dubultu evanģēliski luteriskā baznīca",
-                  "text": "Jellegzetes építészetű evangélikus templom Dubultiban.",
-                  "category": "religious",
-                  "coords": [
-                        23.773727,
-                        56.969585
                   ]
             },
             {
@@ -6369,15 +4862,6 @@ export const latviaCitiesV2: POI[] = [
                         23.737853,
                         56.967731
                   ]
-            },
-            {
-                  "name": "Dubultu pludmale",
-                  "text": "Dubultu Jūrmala egyik legismertebb strandja. Jó infrastruktúrát és tágas területet kínál a fürdőzőknek és sétálóknak.",
-                  "category": "recreational",
-                  "coords": [
-                        23.773765,
-                        56.972603
-                  ]
             }
       ],
       "ro": [
@@ -6388,60 +4872,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         23.712213,
                         56.965249
-                  ]
-            },
-            {
-                  "name": "Aspazijas māja",
-                  "text": "Casa memorială a poetei letone Aspazija.",
-                  "category": "museum",
-                  "coords": [
-                        23.78133,
-                        56.971492
-                  ]
-            },
-            {
-                  "name": "Dabas liegums \"Lielupes grīvas pļavas\"",
-                  "text": "O rezervație naturală la gura de vărsare a râului Lielupe.",
-                  "category": "natural",
-                  "coords": [
-                        23.778933,
-                        56.95192
-                  ]
-            },
-            {
-                  "name": "Latvenergo Energoefektivitātes centrs",
-                  "text": "Centrul de Eficiență Energetică Latvenergo din Priedaine este un muzeu interactiv.",
-                  "category": "museum",
-                  "coords": [
-                        23.789502,
-                        56.972047
-                  ]
-            },
-            {
-                  "name": "Jūrmalas pilsētas muzejs",
-                  "text": "Muzeul orașului Jūrmala din Priedaine prezintă istoria stațiunii.",
-                  "category": "museum",
-                  "coords": [
-                        23.801411,
-                        56.971207
-                  ]
-            },
-            {
-                  "name": "Mākslas stacija \"Dubulti\"",
-                  "text": "O galerie de artă contemporană în incinta gării Dubulti.",
-                  "category": "museum",
-                  "coords": [
-                        23.776144,
-                        56.969666
-                  ]
-            },
-            {
-                  "name": "Inner Light Art Gallery",
-                  "text": "O galerie de artă din Jūrmala cunoscută pentru picturile luminescente.",
-                  "category": "museum",
-                  "coords": [
-                        23.798436,
-                        56.973521
                   ]
             },
             {
@@ -6460,15 +4890,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         23.745109,
                         56.963115
-                  ]
-            },
-            {
-                  "name": "Dubultu evanģēliski luteriskā baznīca",
-                  "text": "O biserică luterană din Dubulti cu o arhitectură distinctivă.",
-                  "category": "religious",
-                  "coords": [
-                        23.773727,
-                        56.969585
                   ]
             },
             {
@@ -6497,15 +4918,6 @@ export const latviaCitiesV2: POI[] = [
                         23.737853,
                         56.967731
                   ]
-            },
-            {
-                  "name": "Dubultu pludmale",
-                  "text": "Dubultu este una dintre cele mai cunoscute plaje din Jūrmala. Oferă o infrastructură bună și spații largi pentru scăldat și plimbări.",
-                  "category": "recreational",
-                  "coords": [
-                        23.773765,
-                        56.972603
-                  ]
             }
       ],
       "en": [
@@ -6516,60 +4928,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         23.712213,
                         56.965249
-                  ]
-            },
-            {
-                  "name": "Aspazijas māja",
-                  "text": "The memorial house museum of the Latvian poet Aspazija.",
-                  "category": "museum",
-                  "coords": [
-                        23.78133,
-                        56.971492
-                  ]
-            },
-            {
-                  "name": "Dabas liegums \"Lielupes grīvas pļavas\"",
-                  "text": "A nature reserve located at the mouth of the Lielupe river.",
-                  "category": "natural",
-                  "coords": [
-                        23.778933,
-                        56.95192
-                  ]
-            },
-            {
-                  "name": "Latvenergo Energoefektivitātes centrs",
-                  "text": "Latvenergo Energy Efficiency Centre in Priedaine, an interactive museum.",
-                  "category": "museum",
-                  "coords": [
-                        23.789502,
-                        56.972047
-                  ]
-            },
-            {
-                  "name": "Jurmala city museum",
-                  "text": "Jūrmala City Museum in Priedaine, showcasing the resort's history.",
-                  "category": "museum",
-                  "coords": [
-                        23.801411,
-                        56.971207
-                  ]
-            },
-            {
-                  "name": "Mākslas stacija \"Dubulti\"",
-                  "text": "A contemporary art gallery located inside the Dubulti railway station.",
-                  "category": "museum",
-                  "coords": [
-                        23.776144,
-                        56.969666
-                  ]
-            },
-            {
-                  "name": "Inner Light Art Gallery",
-                  "text": "An art gallery in Jūrmala known for its luminescent paintings.",
-                  "category": "museum",
-                  "coords": [
-                        23.798436,
-                        56.973521
                   ]
             },
             {
@@ -6588,15 +4946,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         23.745109,
                         56.963115
-                  ]
-            },
-            {
-                  "name": "Dubultu evanģēliski luteriskā baznīca",
-                  "text": "A Lutheran church in Dubulti with distinctive architecture.",
-                  "category": "religious",
-                  "coords": [
-                        23.773727,
-                        56.969585
                   ]
             },
             {
@@ -6624,15 +4973,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         23.737853,
                         56.967731
-                  ]
-            },
-            {
-                  "name": "Dubultu pludmale",
-                  "text": "Dubultu is one of Jūrmala's best-known beaches. It offers good infrastructure and wide areas for bathers and walkers.",
-                  "category": "recreational",
-                  "coords": [
-                        23.773765,
-                        56.972603
                   ]
             }
       ]
@@ -8718,15 +7058,6 @@ export const latviaCitiesV2: POI[] = [
     id: "latvia-kandava-cities-v2", "sights": {
       "de": [
             {
-                  "name": "dabas parks „Abavas senleja”",
-                  "text": "Der Naturpark Abava-Senleja erstreckt sich entlang des Abava-Flusses bei Kandava.",
-                  "category": "natural",
-                  "coords": [
-                        22.349128,
-                        57.042557
-                  ]
-            },
-            {
                   "name": "Ruinen der Ordensburg Kandau",
                   "text": "Der Ritterburgberg (Kandavas bruņinieku pilskalns) ist eine alte Befestigungsanlage in Kandava.",
                   "category": "historical",
@@ -8800,15 +7131,6 @@ export const latviaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "dabas parks „Abavas senleja”",
-                  "text": "Az Abava-senleja természeti park a Kandava melletti Abava folyó mentén húzódik.",
-                  "category": "natural",
-                  "coords": [
-                        22.349128,
-                        57.042557
-                  ]
-            },
             {
                   "name": "Kandavas bruņinieku pilskalns",
                   "text": "A Kandavai Lovagvár-domb (Kandavas bruņinieku pilskalns) egy régi erődítmény Kandavában.",
@@ -8884,15 +7206,6 @@ export const latviaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "dabas parks „Abavas senleja”",
-                  "text": "Parcul natural Abava-senleja se întinde de-a lungul râului Abava lângă Kandava.",
-                  "category": "natural",
-                  "coords": [
-                        22.349128,
-                        57.042557
-                  ]
-            },
-            {
                   "name": "Kandavas bruņinieku pilskalns",
                   "text": "Dealul Cavalerilor din Kandava (Kandavas bruņinieku pilskalns) este o veche fortificație.",
                   "category": "historical",
@@ -8966,15 +7279,6 @@ export const latviaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "dabas parks „Abavas senleja”",
-                  "text": "Abava River valley nature park near Kandava.",
-                  "category": "natural",
-                  "coords": [
-                        22.349128,
-                        57.042557
-                  ]
-            },
             {
                   "name": "Kandavas bruņinieku pilskalns",
                   "text": "Kandava Knights' Hillfort, an ancient fortified hill.",
@@ -9843,30 +8147,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Brocēnu ezers",
-                  "text": "Der Brocēnu ezers in Brocēni ist ein bekannter See, ideal zum Wandern und Entspannen.",
-                  "category": "natural",
-                  "coords": [
-                        22.554349,
-                        56.698034
-                  ]
-            },
-            {
                   "name": "Lāca ezeriņš",
                   "text": "Der Lāca ezeriņš in Brocēni ist ein kleiner, charmanter See für kurze Spaziergänge.",
                   "category": "natural",
                   "coords": [
                         22.685316,
                         56.725796
-                  ]
-            },
-            {
-                  "name": "Cieceres ezers",
-                  "text": "Der Cieceres ezers in Brocēni bietet weite Wasserflächen und eine schöne Umgebung für Ausflüge.",
-                  "category": "natural",
-                  "coords": [
-                        22.563736,
-                        56.646487
                   ]
             }
       ],
@@ -9881,30 +8167,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Brocēnu ezers",
-                  "text": "A Brocēnu ezers Brocēni városában egy ismert tó, amely ideális túrázásra és pihenésre.",
-                  "category": "natural",
-                  "coords": [
-                        22.554349,
-                        56.698034
-                  ]
-            },
-            {
                   "name": "Lāca ezeriņš",
                   "text": "A Lāca ezeriņš Brocēni területén egy apró, bájos tó a rövid sétákhoz.",
                   "category": "natural",
                   "coords": [
                         22.685316,
                         56.725796
-                  ]
-            },
-            {
-                  "name": "Cieceres ezers",
-                  "text": "A Cieceres ezers Brocēni közelében tágas vízfelületet és szép környezetet kínál a kirándulásokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        22.563736,
-                        56.646487
                   ]
             }
       ],
@@ -9919,30 +8187,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Brocēnu ezers",
-                  "text": "Lacul Brocēnu ezers din Brocēni este un lac cunoscut, ideal pentru drumeții și relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        22.554349,
-                        56.698034
-                  ]
-            },
-            {
                   "name": "Lāca ezeriņš",
                   "text": "Lāca ezeriņš din Brocēni este un lac mic și fermecător pentru plimbări scurte.",
                   "category": "natural",
                   "coords": [
                         22.685316,
                         56.725796
-                  ]
-            },
-            {
-                  "name": "Cieceres ezers",
-                  "text": "Cieceres ezers din Brocēni oferă suprafețe vaste de apă și o împrejurime frumoasă pentru excursii.",
-                  "category": "natural",
-                  "coords": [
-                        22.563736,
-                        56.646487
                   ]
             }
       ],
@@ -9957,30 +8207,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Brocēnu ezers",
-                  "text": "Brocēnu ezers in Brocēni is a well-known lake, ideal for hiking and relaxing.",
-                  "category": "natural",
-                  "coords": [
-                        22.554349,
-                        56.698034
-                  ]
-            },
-            {
                   "name": "Lāca ezeriņš",
                   "text": "Lāca ezeriņš in Brocēni is a small, charming lake suitable for short walks.",
                   "category": "natural",
                   "coords": [
                         22.685316,
                         56.725796
-                  ]
-            },
-            {
-                  "name": "Cieceres ezers",
-                  "text": "Cieceres ezers in Brocēni offers vast water surfaces and a beautiful environment for outings.",
-                  "category": "natural",
-                  "coords": [
-                        22.563736,
-                        56.646487
                   ]
             }
       ]
@@ -11094,15 +9326,6 @@ export const latviaCitiesV2: POI[] = [
     id: "latvia-vane-cities-v2", "sights": {
       "de": [
             {
-                  "name": "dabas parks „Abavas senleja”",
-                  "text": "Naturpark zum Schutz des malerischen Urstromtals der Abava.",
-                  "category": "natural",
-                  "coords": [
-                        22.349128,
-                        57.042557
-                  ]
-            },
-            {
                   "name": "Aizdzires muiža",
                   "text": "Das Gut Aizdzires (Aizdzires muiža) in Vane ist ein historisches Wahrzeichen.",
                   "category": "landmark",
@@ -11122,15 +9345,6 @@ export const latviaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "dabas parks „Abavas senleja”",
-                  "text": "Az Abava-folyó festői ősi völgyét védő természetvédelmi park.",
-                  "category": "natural",
-                  "coords": [
-                        22.349128,
-                        57.042557
-                  ]
-            },
             {
                   "name": "Aizdzires muiža",
                   "text": "Az Aizdzires-kúria (Aizdzires muiža) Vane-ban egy történelmi nevezetesség.",
@@ -11152,15 +9366,6 @@ export const latviaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "dabas parks „Abavas senleja”",
-                  "text": "Parc natural care protejează valea antică pitorească a râului Abava.",
-                  "category": "natural",
-                  "coords": [
-                        22.349128,
-                        57.042557
-                  ]
-            },
-            {
                   "name": "Aizdzires muiža",
                   "text": "Conacul Aizdzires (Aizdzires muiža) din Vane este un reper istoric.",
                   "category": "landmark",
@@ -11180,15 +9385,6 @@ export const latviaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "dabas parks „Abavas senleja”",
-                  "text": "Nature park protecting the scenic ancient valley of the Abava River.",
-                  "category": "natural",
-                  "coords": [
-                        22.349128,
-                        57.042557
-                  ]
-            },
             {
                   "name": "Aizdzires muiža",
                   "text": "Aizdzires Manor in Vane, a historic landmark.",
@@ -11346,24 +9542,6 @@ export const latviaCitiesV2: POI[] = [
     id: "latvia-zirni-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Brocēnu ezers",
-                  "text": "Der Brocēnu ezers ist ein großer See in Zirni, der vielfältige Möglichkeiten zur Erholung am Wasser bietet.",
-                  "category": "natural",
-                  "coords": [
-                        22.554349,
-                        56.698034
-                  ]
-            },
-            {
-                  "name": "Slimnīcas dīķis",
-                  "text": "Der Slimnīcas dīķis ist ein ruhiger Teich in Zirni, ideal für einen kurzen Moment der Stille.",
-                  "category": "natural",
-                  "coords": [
-                        22.490405,
-                        56.671535
-                  ]
-            },
-            {
                   "name": "Sātiņu-Sesiles karjers",
                   "text": "Sātiņu-Sesiles karjers ist ein ehemaliger Steinbruch in Zirni, der heute als ruhiges Gewässer dient.",
                   "category": "natural",
@@ -11373,30 +9551,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cieceres dzirnavu dīķis",
-                  "text": "Der Ciecere-Mühlenteich (Cieceres dzirnavu dīķis) liegt nahe Zirni.",
-                  "category": "natural",
-                  "coords": [
-                        22.527709,
-                        56.663743
-                  ]
-            },
-            {
                   "name": "Pakuļu ūdenskrātuve",
                   "text": "Die Pakuļu ūdenskrātuve ist ein weitläufiger Stausee in Zirni, ideal für Spaziergänge am Ufer.",
                   "category": "natural",
                   "coords": [
                         22.326458,
                         56.689116
-                  ]
-            },
-            {
-                  "name": "Dzirnavnieku dīķis",
-                  "text": "Der Dzirnavnieku dīķis ist ein ruhiges Gewässer in Zirni, ideal für eine Pause in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        22.473177,
-                        56.653779
                   ]
             },
             {
@@ -11420,24 +9580,6 @@ export const latviaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Brocēnu ezers",
-                  "text": "A Brocēnu ezers egy nagy tó Zirni területén, amely sokféle lehetőséget kínál a vízparti pihenésre.",
-                  "category": "natural",
-                  "coords": [
-                        22.554349,
-                        56.698034
-                  ]
-            },
-            {
-                  "name": "Slimnīcas dīķis",
-                  "text": "A Slimnīcas dīķis egy csendes tó Zirni területén, ideális egy rövid, nyugodt pillanathoz.",
-                  "category": "natural",
-                  "coords": [
-                        22.490405,
-                        56.671535
-                  ]
-            },
-            {
                   "name": "Sātiņu-Sesiles karjers",
                   "text": "A Sātiņu-Sesiles karjers egy egykori kőfejtő Zirni területén, amely ma nyugodt vízfelületként szolgál.",
                   "category": "natural",
@@ -11447,30 +9589,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cieceres dzirnavu dīķis",
-                  "text": "A Ciecere-malomtó (Cieceres dzirnavu dīķis) Zirni közelében található.",
-                  "category": "natural",
-                  "coords": [
-                        22.527709,
-                        56.663743
-                  ]
-            },
-            {
                   "name": "Pakuļu ūdenskrātuve",
                   "text": "A Pakuļu ūdenskrātuve egy tágas víztározó Zirni területén, ideális a parti sétákhoz.",
                   "category": "natural",
                   "coords": [
                         22.326458,
                         56.689116
-                  ]
-            },
-            {
-                  "name": "Dzirnavnieku dīķis",
-                  "text": "A Dzirnavnieku dīķis egy nyugodt tó Zirni területén, ideális egy természetben töltött pihenőhöz.",
-                  "category": "natural",
-                  "coords": [
-                        22.473177,
-                        56.653779
                   ]
             },
             {
@@ -11494,24 +9618,6 @@ export const latviaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Brocēnu ezers",
-                  "text": "Brocēnu ezers este un lac mare în Zirni, oferind diverse posibilități de recreere lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        22.554349,
-                        56.698034
-                  ]
-            },
-            {
-                  "name": "Slimnīcas dīķis",
-                  "text": "Slimnīcas dīķis este un iaz liniștit în Zirni, ideal pentru un scurt moment de liniște.",
-                  "category": "natural",
-                  "coords": [
-                        22.490405,
-                        56.671535
-                  ]
-            },
-            {
                   "name": "Sātiņu-Sesiles karjers",
                   "text": "Sātiņu-Sesiles karjers este o fostă carieră în Zirni, care acum servește ca un lac liniștit.",
                   "category": "natural",
@@ -11521,30 +9627,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cieceres dzirnavu dīķis",
-                  "text": "Iazul morii Ciecere (Cieceres dzirnavu dīķis) se află lângă Zirni.",
-                  "category": "natural",
-                  "coords": [
-                        22.527709,
-                        56.663743
-                  ]
-            },
-            {
                   "name": "Pakuļu ūdenskrātuve",
                   "text": "Pakuļu ūdenskrātuve este un lac de acumulare întins în Zirni, ideal pentru plimbări pe mal.",
                   "category": "natural",
                   "coords": [
                         22.326458,
                         56.689116
-                  ]
-            },
-            {
-                  "name": "Dzirnavnieku dīķis",
-                  "text": "Dzirnavnieku dīķis este un lac liniștit în Zirni, ideal pentru o pauză în natură.",
-                  "category": "natural",
-                  "coords": [
-                        22.473177,
-                        56.653779
                   ]
             },
             {
@@ -11568,24 +9656,6 @@ export const latviaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Brocēnu ezers",
-                  "text": "Brocēnu ezers is a large lake in Zirni, offering various opportunities for recreation by the water.",
-                  "category": "natural",
-                  "coords": [
-                        22.554349,
-                        56.698034
-                  ]
-            },
-            {
-                  "name": "Slimnīcas dīķis",
-                  "text": "Slimnīcas dīķis is a quiet pond in Zirni, ideal for a brief moment of quietude.",
-                  "category": "natural",
-                  "coords": [
-                        22.490405,
-                        56.671535
-                  ]
-            },
-            {
                   "name": "Sātiņu-Sesiles karjers",
                   "text": "Sātiņu-Sesiles karjers is a former quarry in Zirni, which now serves as a quiet body of water.",
                   "category": "natural",
@@ -11595,30 +9665,12 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cieceres dzirnavu dīķis",
-                  "text": "Ciecere mill pond near Zirni, a tranquil water body.",
-                  "category": "natural",
-                  "coords": [
-                        22.527709,
-                        56.663743
-                  ]
-            },
-            {
                   "name": "Pakuļu ūdenskrātuve",
                   "text": "Pakuļu ūdenskrātuve is a spacious reservoir in Zirni, ideal for shoreline walks.",
                   "category": "natural",
                   "coords": [
                         22.326458,
                         56.689116
-                  ]
-            },
-            {
-                  "name": "Dzirnavnieku dīķis",
-                  "text": "Dzirnavnieku dīķis is a quiet body of water in Zirni, ideal for a break in nature.",
-                  "category": "natural",
-                  "coords": [
-                        22.473177,
-                        56.653779
                   ]
             },
             {
@@ -11875,15 +9927,6 @@ export const latviaCitiesV2: POI[] = [
                         21.06481,
                         56.353919
                   ]
-            },
-            {
-                  "name": "Libauer See",
-                  "text": "Der Liepājas ezers ist ein großer, naturbelassener See bei Nica, bekannt für seine Vogelwelt.",
-                  "category": "natural",
-                  "coords": [
-                        21.053685,
-                        56.460139
-                  ]
             }
       ],
       "hu": [
@@ -11894,15 +9937,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.06481,
                         56.353919
-                  ]
-            },
-            {
-                  "name": "Liepājas ezers",
-                  "text": "A Liepājas ezers egy nagy, természetes tó Nica közelében, amely gazdag madárvilágáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        21.053685,
-                        56.460139
                   ]
             }
       ],
@@ -11915,15 +9949,6 @@ export const latviaCitiesV2: POI[] = [
                         21.06481,
                         56.353919
                   ]
-            },
-            {
-                  "name": "Liepājas ezers",
-                  "text": "Liepājas ezers este un lac mare și natural lângă Nica, cunoscut pentru fauna sa aviară.",
-                  "category": "natural",
-                  "coords": [
-                        21.053685,
-                        56.460139
-                  ]
             }
       ],
       "en": [
@@ -11934,15 +9959,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.06481,
                         56.353919
-                  ]
-            },
-            {
-                  "name": "Liepājas ezers",
-                  "text": "Liepājas ezers is a large, natural lake near Nica, known for its birdlife and scenery.",
-                  "category": "natural",
-                  "coords": [
-                        21.053685,
-                        56.460139
                   ]
             }
       ]
@@ -12381,15 +10397,6 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bātas dzirnavu dīķis",
-                  "text": "Der Bātas dzirnavu dīķis in Embute ist ein friedlicher Ort, der sich gut für eine kurze Rast eignet.",
-                  "category": "natural",
-                  "coords": [
-                        21.891147,
-                        56.446598
-                  ]
-            },
-            {
                   "name": "Dēseles dzirnavu ezers",
                   "text": "Natürlicher Mühlenteich bei Embute, im Tal gelegen.",
                   "category": "natural",
@@ -12425,15 +10432,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.813362,
                         56.505586
-                  ]
-            },
-            {
-                  "name": "Bātas dzirnavu dīķis",
-                  "text": "A Bātas dzirnavu dīķis Embute területén egy békés hely, amely alkalmas egy rövid pihenőre.",
-                  "category": "natural",
-                  "coords": [
-                        21.891147,
-                        56.446598
                   ]
             },
             {
@@ -12475,15 +10473,6 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bātas dzirnavu dīķis",
-                  "text": "Bātas dzirnavu dīķis din Embute este un loc liniștit, potrivit pentru un scurt popas.",
-                  "category": "natural",
-                  "coords": [
-                        21.891147,
-                        56.446598
-                  ]
-            },
-            {
                   "name": "Dēseles dzirnavu ezers",
                   "text": "Lac natural de moară lângă Embute, situat în vale.",
                   "category": "natural",
@@ -12519,15 +10508,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.813362,
                         56.505586
-                  ]
-            },
-            {
-                  "name": "Bātas dzirnavu dīķis",
-                  "text": "Bātas dzirnavu dīķis in Embute is a peaceful spot, suitable for a brief rest during a visit.",
-                  "category": "natural",
-                  "coords": [
-                        21.891147,
-                        56.446598
                   ]
             },
             {
@@ -12696,15 +10676,6 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zvirgzdu ezers",
-                  "text": "Zvirgzdu ezers, ein natürlicher See in Alsunga, beliebt zum Angeln.",
-                  "category": "natural",
-                  "coords": [
-                        21.647636,
-                        56.934749
-                  ]
-            },
-            {
                   "name": "Dēlene",
                   "text": "Ein friedliches Gewässer bei Alsunga für Erholung im Freien.",
                   "category": "natural",
@@ -12720,15 +10691,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.5731,
                         56.98028
-                  ]
-            },
-            {
-                  "name": "Kukšezers",
-                  "text": "Kukšezers, ein ruhiger See in Alsunga, bekannt für sein klares Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        21.682437,
-                        56.957595
                   ]
             }
       ],
@@ -12752,15 +10714,6 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zvirgzdu ezers",
-                  "text": "Zvirgzdu ezers, természetes tó Alsungában, horgászok kedvence.",
-                  "category": "natural",
-                  "coords": [
-                        21.647636,
-                        56.934749
-                  ]
-            },
-            {
                   "name": "Dēlene",
                   "text": "Békés vízfelület Alsunga közelében a szabadtéri kikapcsolódáshoz.",
                   "category": "natural",
@@ -12776,15 +10729,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.5731,
                         56.98028
-                  ]
-            },
-            {
-                  "name": "Kukšezers",
-                  "text": "Kukšezers, csendes tó Alsungában, tiszta vizéről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        21.682437,
-                        56.957595
                   ]
             }
       ],
@@ -12808,15 +10752,6 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zvirgzdu ezers",
-                  "text": "Lacul natural Zvirgzdu în Alsunga, popular pentru pescuit.",
-                  "category": "natural",
-                  "coords": [
-                        21.647636,
-                        56.934749
-                  ]
-            },
-            {
                   "name": "Dēlene",
                   "text": "O apă pașnică lângă Alsunga pentru recreere în aer liber.",
                   "category": "natural",
@@ -12832,15 +10767,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.5731,
                         56.98028
-                  ]
-            },
-            {
-                  "name": "Kukšezers",
-                  "text": "Kukšezers, un lac liniștit în Alsunga, cunoscut pentru apa limpede.",
-                  "category": "natural",
-                  "coords": [
-                        21.682437,
-                        56.957595
                   ]
             }
       ],
@@ -12864,15 +10790,6 @@ export const latviaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zvirgzdu ezers",
-                  "text": "Zvirgzdu ezers, a natural lake in Alsunga, popular for fishing.",
-                  "category": "natural",
-                  "coords": [
-                        21.647636,
-                        56.934749
-                  ]
-            },
-            {
                   "name": "Dēlene",
                   "text": "A peaceful body of water near Alsunga for outdoor recreation.",
                   "category": "natural",
@@ -12888,15 +10805,6 @@ export const latviaCitiesV2: POI[] = [
                   "coords": [
                         21.5731,
                         56.98028
-                  ]
-            },
-            {
-                  "name": "Kukšezers",
-                  "text": "Kukšezers, a quiet lake in Alsunga, known for its clear water.",
-                  "category": "natural",
-                  "coords": [
-                        21.682437,
-                        56.957595
                   ]
             }
       ]
@@ -12948,30 +10856,12 @@ export const latviaCitiesV2: POI[] = [
     id: "latvia-gudenieki-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Poparāju dīķis",
-                  "text": "Der Poparāju dīķis ist ein ruhiger Teich in Gudenieki, der eine friedliche Atmosphäre bietet.",
-                  "category": "natural",
-                  "coords": [
-                        21.603081,
-                        56.94387
-                  ]
-            },
-            {
                   "name": "Zvirgzdu ezers",
                   "text": "Der Zvirgzdu ezers ist ein schöner See in Gudenieki, ideal für Erholung in der freien Natur.",
                   "category": "natural",
                   "coords": [
                         21.647636,
                         56.934749
-                  ]
-            },
-            {
-                  "name": "Dēlene",
-                  "text": "Dēlene ist ein kleiner, ruhiger See in Gudenieki, der sich gut für eine Pause im Grünen eignet.",
-                  "category": "natural",
-                  "coords": [
-                        21.631183,
-                        56.940923
                   ]
             },
             {
@@ -13013,30 +10903,12 @@ export const latviaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Poparāju dīķis",
-                  "text": "A Poparāju dīķis egy csendes tó Gudenieki területén, amely békés hangulatot áraszt.",
-                  "category": "natural",
-                  "coords": [
-                        21.603081,
-                        56.94387
-                  ]
-            },
-            {
                   "name": "Zvirgzdu ezers",
                   "text": "A Zvirgzdu ezers egy szép tó Gudenieki területén, ideális a szabadban való kikapcsolódáshoz.",
                   "category": "natural",
                   "coords": [
                         21.647636,
                         56.934749
-                  ]
-            },
-            {
-                  "name": "Dēlene",
-                  "text": "A Dēlene egy kicsi, csendes tó Gudenieki területén, amely alkalmas egy zöldben töltött pihenőre.",
-                  "category": "natural",
-                  "coords": [
-                        21.631183,
-                        56.940923
                   ]
             },
             {
@@ -13078,30 +10950,12 @@ export const latviaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Poparāju dīķis",
-                  "text": "Poparāju dīķis este un iaz liniștit în Gudenieki, oferind o atmosferă pașnică.",
-                  "category": "natural",
-                  "coords": [
-                        21.603081,
-                        56.94387
-                  ]
-            },
-            {
                   "name": "Zvirgzdu ezers",
                   "text": "Zvirgzdu ezers este un lac frumos în Gudenieki, ideal pentru recreere în natură.",
                   "category": "natural",
                   "coords": [
                         21.647636,
                         56.934749
-                  ]
-            },
-            {
-                  "name": "Dēlene",
-                  "text": "Dēlene este un lac mic și liniștit în Gudenieki, potrivit pentru o pauză în natură.",
-                  "category": "natural",
-                  "coords": [
-                        21.631183,
-                        56.940923
                   ]
             },
             {
@@ -13143,30 +10997,12 @@ export const latviaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Poparāju dīķis",
-                  "text": "Poparāju dīķis is a quiet pond in Gudenieki, offering a peaceful atmosphere.",
-                  "category": "natural",
-                  "coords": [
-                        21.603081,
-                        56.94387
-                  ]
-            },
-            {
                   "name": "Zvirgzdu ezers",
                   "text": "Zvirgzdu ezers is a beautiful lake in Gudenieki, ideal for outdoor recreation.",
                   "category": "natural",
                   "coords": [
                         21.647636,
                         56.934749
-                  ]
-            },
-            {
-                  "name": "Dēlene",
-                  "text": "Dēlene is a small, quiet lake in Gudenieki, suitable for a break in the countryside.",
-                  "category": "natural",
-                  "coords": [
-                        21.631183,
-                        56.940923
                   ]
             },
             {
@@ -13254,15 +11090,6 @@ export const latviaCitiesV2: POI[] = [
     id: "latvia-pelci-cities-v2", "sights": {
       "de": [
             {
-                  "name": "dabas liegums „Ventas ieleja”",
-                  "text": "Naturschutzgebiet, das das malerische Tal des Flusses Venta umfasst.",
-                  "category": "natural",
-                  "coords": [
-                        21.957198,
-                        57.012699
-                  ]
-            },
-            {
                   "name": "Pelču muiža",
                   "text": "Herrenhaus aus dem frühen 20. Jahrhundert im Neorenaissance- und Jugendstil.",
                   "category": "castle",
@@ -13273,15 +11100,6 @@ export const latviaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "dabas liegums „Ventas ieleja”",
-                  "text": "A Venta-folyó festői völgyét magában foglaló természetvédelmi terület.",
-                  "category": "natural",
-                  "coords": [
-                        21.957198,
-                        57.012699
-                  ]
-            },
             {
                   "name": "Pelču muiža",
                   "text": "20. század eleji kúria neoreneszánsz és szecessziós stílusban.",
@@ -13294,15 +11112,6 @@ export const latviaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "dabas liegums „Ventas ieleja”",
-                  "text": "Rezervație naturală care cuprinde valea pitorească a râului Venta.",
-                  "category": "natural",
-                  "coords": [
-                        21.957198,
-                        57.012699
-                  ]
-            },
-            {
                   "name": "Pelču muiža",
                   "text": "Conac de la începutul secolului al XX-lea, construit în stil neorenascentist și Art Nouveau.",
                   "category": "castle",
@@ -13313,15 +11122,6 @@ export const latviaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "dabas liegums „Ventas ieleja”",
-                  "text": "Nature reserve encompassing the picturesque valley of the Venta River.",
-                  "category": "natural",
-                  "coords": [
-                        21.957198,
-                        57.012699
-                  ]
-            },
             {
                   "name": "Pelču muiža",
                   "text": "Early 20th-century manor house built in Neo-Renaissance and Art Nouveau styles.",
@@ -13810,86 +11610,10 @@ export const latviaCitiesV2: POI[] = [
   },
   {
     id: "latvia-targale-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Būšnieku ezers",
-                  "text": "Der Būšnieku ezers in Tārgale ist ein beliebtes Ziel für Naturfreunde und Spaziergänger.",
-                  "category": "natural",
-                  "coords": [
-                        21.643414,
-                        57.445117
-                  ]
-            },
-            {
-                  "name": "Ventspils Adventure Park Wake Park",
-                  "text": "Der Ventspils Adventure Park Wake Park in Tārgale bietet Möglichkeiten für Wasseraktivitäten in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        21.548342,
-                        57.370933
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Būšnieku ezers",
-                  "text": "A Būšnieku ezers Tārgale területén kedvelt célpont a természetbarátok és sétálók számára.",
-                  "category": "natural",
-                  "coords": [
-                        21.643414,
-                        57.445117
-                  ]
-            },
-            {
-                  "name": "Ventspils Adventure Park Wake Park",
-                  "text": "A Ventspils Adventure Park Wake Park Tārgale területén vízi tevékenységeket kínál a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        21.548342,
-                        57.370933
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Būšnieku ezers",
-                  "text": "Būšnieku ezers din Tārgale este o destinație populară pentru iubitorii de natură și plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        21.643414,
-                        57.445117
-                  ]
-            },
-            {
-                  "name": "Ventspils Adventure Park Wake Park",
-                  "text": "Ventspils Adventure Park Wake Park din Tārgale oferă oportunități pentru activități acvatice în natură.",
-                  "category": "natural",
-                  "coords": [
-                        21.548342,
-                        57.370933
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Būšnieku ezers",
-                  "text": "Būšnieku ezers in Tārgale is a popular destination for nature lovers and walkers.",
-                  "category": "natural",
-                  "coords": [
-                        21.643414,
-                        57.445117
-                  ]
-            },
-            {
-                  "name": "Ventspils Adventure Park Wake Park",
-                  "text": "Ventspils Adventure Park Wake Park in Tārgale offers opportunities for water activities in nature.",
-                  "category": "natural",
-                  "coords": [
-                        21.548342,
-                        57.370933
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "LV",

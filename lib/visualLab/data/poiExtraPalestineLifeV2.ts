@@ -2229,120 +2229,12 @@ export const palestineLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rubinstein memorial",
-                  "text": "Das Rubinstein-Denkmal ist ein schöner Aussichtspunkt im Gebiet palestine-battir-terraces-life-v2.",
-                  "category": "natural",
-                  "coords": [
-                        35.135164,
-                        31.751516
-                  ]
-            },
-            {
-                  "name": "Har Aminadav",
-                  "text": "Har Aminadav ist ein markanter Berggipfel im Gebiet palestine-battir-terraces-life-v2.",
-                  "category": "natural",
-                  "coords": [
-                        35.136404,
-                        31.751626
-                  ]
-            },
-            {
-                  "name": "Har Shalmon",
-                  "text": "Har Shalmon ist ein markanter Gipfel, der die Landschaft im Gebiet palestine-battir-terraces-life-v2 prägt.",
-                  "category": "natural",
-                  "coords": [
-                        35.123422,
-                        31.750873
-                  ]
-            },
-            {
                   "name": "Ein Sapir",
                   "text": "Ein Sapir ist eine erfrischende natürliche Quelle im Gebiet palestine-battir-terraces-life-v2.",
                   "category": "landmark",
                   "coords": [
                         35.132991,
                         31.760108
-                  ]
-            },
-            {
-                  "name": "Ein Aminadav",
-                  "text": "Ein Aminadav ist eine lokale natürliche Quelle im Gebiet palestine-battir-terraces-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        35.133564,
-                        31.754089
-                  ]
-            },
-            {
-                  "name": "Hurvat Seadim",
-                  "text": "Hurvat Seadim bietet antike Ruinen im Gebiet palestine-battir-terraces-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        35.129394,
-                        31.751
-                  ]
-            },
-            {
-                  "name": "Beitar",
-                  "text": "Die Ruinen von Beitar sind eine bedeutende historische Stätte im Gebiet palestine-battir-terraces-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        35.135606,
-                        31.729811
-                  ]
-            },
-            {
-                  "name": "Ein El-Baled;Ein Itamar",
-                  "text": "Ein El-Baled, auch bekannt als Ein Itamar, ist eine bekannte Quelle im Gebiet palestine-battir-terraces-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        35.146989,
-                        31.740958
-                  ]
-            },
-            {
-                  "name": "Beitar Lookout",
-                  "text": "Der Beitar Lookout ist ein landschaftlich reizvoller Aussichtspunkt mit weitem Blick über das Gebiet palestine-battir-terraces-life-v2.",
-                  "category": "natural",
-                  "coords": [
-                        35.142243,
-                        31.741293
-                  ]
-            },
-            {
-                  "name": "Ein Seif",
-                  "text": "Ein Seif ist eine natürliche Quelle, die eine beliebte Attraktion im Gebiet palestine-battir-terraces-life-v2 darstellt.",
-                  "category": "landmark",
-                  "coords": [
-                        35.144287,
-                        31.745964
-                  ]
-            },
-            {
-                  "name": "Khirbet Najjar",
-                  "text": "Die Carpenter's Ruins sind eine faszinierende historische Stätte im Gebiet palestine-battir-terraces-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        35.149326,
-                        31.723717
-                  ]
-            },
-            {
-                  "name": "Unamed Tomb",
-                  "text": "Das namenlose Grab umfasst antike Ruinen im Gebiet palestine-battir-terraces-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        35.152118,
-                        31.72203
-                  ]
-            },
-            {
-                  "name": "Yad Kennedy",
-                  "text": "Yad Kennedy ist ein markantes Denkmal und eine Attraktion im Gebiet palestine-battir-terraces-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        35.134756,
-                        31.749289
                   ]
             },
             {
@@ -2366,120 +2258,12 @@ export const palestineLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rubinstein memorial",
-                  "text": "A Rubinstein-emlékmű egy festői kilátó, amely nagyszerű kilátást nyújt a palestine-battir-terraces-life-v2 területén.",
-                  "category": "natural",
-                  "coords": [
-                        35.135164,
-                        31.751516
-                  ]
-            },
-            {
-                  "name": "Har Aminadav",
-                  "text": "A Har Aminadav egy nevezetes hegycsúcs a palestine-battir-terraces-life-v2 területén.",
-                  "category": "natural",
-                  "coords": [
-                        35.136404,
-                        31.751626
-                  ]
-            },
-            {
-                  "name": "Har Shalmon",
-                  "text": "A Har Shalmon egy kiemelkedő hegycsúcs a palestine-battir-terraces-life-v2 területén.",
-                  "category": "natural",
-                  "coords": [
-                        35.123422,
-                        31.750873
-                  ]
-            },
-            {
                   "name": "Ein Sapir",
                   "text": "Az Ein Sapir egy frissítő természetes forrás a palestine-battir-terraces-life-v2 területén.",
                   "category": "landmark",
                   "coords": [
                         35.132991,
                         31.760108
-                  ]
-            },
-            {
-                  "name": "Ein Aminadav",
-                  "text": "Az Ein Aminadav egy helyi természetes forrás a palestine-battir-terraces-life-v2 területén.",
-                  "category": "landmark",
-                  "coords": [
-                        35.133564,
-                        31.754089
-                  ]
-            },
-            {
-                  "name": "Hurvat Seadim",
-                  "text": "A Hurvat Seadim ősi romokat foglal magában a palestine-battir-terraces-life-v2 területén.",
-                  "category": "historical",
-                  "coords": [
-                        35.129394,
-                        31.751
-                  ]
-            },
-            {
-                  "name": "Beitar",
-                  "text": "A Beitar romok egy jelentős történelmi helyszín a palestine-battir-terraces-life-v2 területén.",
-                  "category": "historical",
-                  "coords": [
-                        35.135606,
-                        31.729811
-                  ]
-            },
-            {
-                  "name": "Ein El-Baled;Ein Itamar",
-                  "text": "Az Ein El-Baled, más néven Ein Itamar egy jól ismert forrás a palestine-battir-terraces-life-v2 területén.",
-                  "category": "landmark",
-                  "coords": [
-                        35.146989,
-                        31.740958
-                  ]
-            },
-            {
-                  "name": "Beitar Lookout",
-                  "text": "A Beitar-kilátó festői panorámát nyújt a palestine-battir-terraces-life-v2 területére.",
-                  "category": "natural",
-                  "coords": [
-                        35.142243,
-                        31.741293
-                  ]
-            },
-            {
-                  "name": "Ein Seif",
-                  "text": "Az Ein Seif egy természetes forrás, amely népszerű látványosság a palestine-battir-terraces-life-v2 területén.",
-                  "category": "landmark",
-                  "coords": [
-                        35.144287,
-                        31.745964
-                  ]
-            },
-            {
-                  "name": "Khirbet Najjar",
-                  "text": "A Carpenter's Ruins egy érdekes történelmi romterület a palestine-battir-terraces-life-v2 területén.",
-                  "category": "historical",
-                  "coords": [
-                        35.149326,
-                        31.723717
-                  ]
-            },
-            {
-                  "name": "Unamed Tomb",
-                  "text": "A Névtelen sír ősi romokat foglal magában a palestine-battir-terraces-life-v2 területén.",
-                  "category": "historical",
-                  "coords": [
-                        35.152118,
-                        31.72203
-                  ]
-            },
-            {
-                  "name": "Yad Kennedy",
-                  "text": "A Yad Kennedy egy kiemelkedő emlékmű és látványosság a palestine-battir-terraces-life-v2 területén.",
-                  "category": "landmark",
-                  "coords": [
-                        35.134756,
-                        31.749289
                   ]
             },
             {
@@ -2503,120 +2287,12 @@ export const palestineLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rubinstein memorial",
-                  "text": "Memorialul Rubinstein este un punct de belvedere pitoresc în zona palestine-battir-terraces-life-v2.",
-                  "category": "natural",
-                  "coords": [
-                        35.135164,
-                        31.751516
-                  ]
-            },
-            {
-                  "name": "Har Aminadav",
-                  "text": "Har Aminadav este un vârf de munte notabil situat în zona palestine-battir-terraces-life-v2.",
-                  "category": "natural",
-                  "coords": [
-                        35.136404,
-                        31.751626
-                  ]
-            },
-            {
-                  "name": "Har Shalmon",
-                  "text": "Har Shalmon este un vârf proeminent în zona palestine-battir-terraces-life-v2.",
-                  "category": "natural",
-                  "coords": [
-                        35.123422,
-                        31.750873
-                  ]
-            },
-            {
                   "name": "Ein Sapir",
                   "text": "Ein Sapir este un izvor natural revigorant aflat în zona palestine-battir-terraces-life-v2.",
                   "category": "landmark",
                   "coords": [
                         35.132991,
                         31.760108
-                  ]
-            },
-            {
-                  "name": "Ein Aminadav",
-                  "text": "Ein Aminadav este un izvor natural local situat în zona palestine-battir-terraces-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        35.133564,
-                        31.754089
-                  ]
-            },
-            {
-                  "name": "Hurvat Seadim",
-                  "text": "Hurvat Seadim prezintă ruine antice situate în zona palestine-battir-terraces-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        35.129394,
-                        31.751
-                  ]
-            },
-            {
-                  "name": "Beitar",
-                  "text": "Ruinele Beitar sunt un sit istoric semnificativ situat în zona palestine-battir-terraces-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        35.135606,
-                        31.729811
-                  ]
-            },
-            {
-                  "name": "Ein El-Baled;Ein Itamar",
-                  "text": "Ein El-Baled, cunoscut și sub numele de Ein Itamar, este un izvor binecunoscut în zona palestine-battir-terraces-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        35.146989,
-                        31.740958
-                  ]
-            },
-            {
-                  "name": "Beitar Lookout",
-                  "text": "Punctul de belvedere Beitar oferă vederi panoramice pitorești asupra zonei palestine-battir-terraces-life-v2.",
-                  "category": "natural",
-                  "coords": [
-                        35.142243,
-                        31.741293
-                  ]
-            },
-            {
-                  "name": "Ein Seif",
-                  "text": "Ein Seif este un izvor natural care servește drept atracție populară în zona palestine-battir-terraces-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        35.144287,
-                        31.745964
-                  ]
-            },
-            {
-                  "name": "Khirbet Najjar",
-                  "text": "Carpenter's Ruins este un sit istoric interesant situat în zona palestine-battir-terraces-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        35.149326,
-                        31.723717
-                  ]
-            },
-            {
-                  "name": "Unamed Tomb",
-                  "text": "Mormântul Nenumit cuprinde ruine antice situate în zona palestine-battir-terraces-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        35.152118,
-                        31.72203
-                  ]
-            },
-            {
-                  "name": "Yad Kennedy",
-                  "text": "Yad Kennedy este un memorial și o atracție proeminentă în zona palestine-battir-terraces-life-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        35.134756,
-                        31.749289
                   ]
             },
             {
@@ -2640,120 +2316,12 @@ export const palestineLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rubinstein memorial",
-                  "text": "The Rubinstein memorial is a scenic viewpoint offering vistas in the palestine-battir-terraces-life-v2 area.",
-                  "category": "natural",
-                  "coords": [
-                        35.135164,
-                        31.751516
-                  ]
-            },
-            {
-                  "name": "Har Aminadav",
-                  "text": "Har Aminadav is a notable mountain peak situated in the palestine-battir-terraces-life-v2 area.",
-                  "category": "natural",
-                  "coords": [
-                        35.136404,
-                        31.751626
-                  ]
-            },
-            {
-                  "name": "Har Shalmon",
-                  "text": "Har Shalmon is a prominent peak characterizing the landscape of the palestine-battir-terraces-life-v2 area.",
-                  "category": "natural",
-                  "coords": [
-                        35.123422,
-                        31.750873
-                  ]
-            },
-            {
                   "name": "Ein Sapir",
                   "text": "Ein Sapir is a refreshing natural spring found in the palestine-battir-terraces-life-v2 area.",
                   "category": "landmark",
                   "coords": [
                         35.132991,
                         31.760108
-                  ]
-            },
-            {
-                  "name": "Ein Aminadav",
-                  "text": "Ein Aminadav is a local natural spring situated in the palestine-battir-terraces-life-v2 area.",
-                  "category": "landmark",
-                  "coords": [
-                        35.133564,
-                        31.754089
-                  ]
-            },
-            {
-                  "name": "Hurvat Seadim",
-                  "text": "Hurvat Seadim features ancient ruins located in the palestine-battir-terraces-life-v2 area.",
-                  "category": "historical",
-                  "coords": [
-                        35.129394,
-                        31.751
-                  ]
-            },
-            {
-                  "name": "Beitar",
-                  "text": "The Beitar ruins are a significant historical site located in the palestine-battir-terraces-life-v2 area.",
-                  "category": "historical",
-                  "coords": [
-                        35.135606,
-                        31.729811
-                  ]
-            },
-            {
-                  "name": "Ein El-Baled;Ein Itamar",
-                  "text": "Ein El-Baled, also known as Ein Itamar, is a well-known spring in the palestine-battir-terraces-life-v2 area.",
-                  "category": "landmark",
-                  "coords": [
-                        35.146989,
-                        31.740958
-                  ]
-            },
-            {
-                  "name": "Beitar Lookout",
-                  "text": "The Beitar Lookout is a scenic viewpoint providing sweeping views of the palestine-battir-terraces-life-v2 area.",
-                  "category": "natural",
-                  "coords": [
-                        35.142243,
-                        31.741293
-                  ]
-            },
-            {
-                  "name": "Ein Seif",
-                  "text": "Ein Seif is a natural spring serving as a popular attraction in the palestine-battir-terraces-life-v2 area.",
-                  "category": "landmark",
-                  "coords": [
-                        35.144287,
-                        31.745964
-                  ]
-            },
-            {
-                  "name": "Carpenter's Ruins",
-                  "text": "Carpenter's Ruins is an intriguing historical site situated in the palestine-battir-terraces-life-v2 area.",
-                  "category": "historical",
-                  "coords": [
-                        35.149326,
-                        31.723717
-                  ]
-            },
-            {
-                  "name": "Unamed Tomb",
-                  "text": "The Unamed Tomb comprises ancient ruins located within the palestine-battir-terraces-life-v2 area.",
-                  "category": "historical",
-                  "coords": [
-                        35.152118,
-                        31.72203
-                  ]
-            },
-            {
-                  "name": "Yad Kennedy",
-                  "text": "Yad Kennedy is a prominent memorial and attraction in the palestine-battir-terraces-life-v2 area.",
-                  "category": "landmark",
-                  "coords": [
-                        35.134756,
-                        31.749289
                   ]
             },
             {
@@ -6594,30 +6162,12 @@ export const palestineLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Raised convent Samaan",
-                  "text": "Eine archäologische Stätte eines ehemaligen Klosters im Gebiet Wadi Ez-Zarka.",
-                  "category": "historical",
-                  "coords": [
-                        35.06854,
-                        32.018189
-                  ]
-            },
-            {
                   "name": "An Nabi Salih Grave",
                   "text": "Eine historische archäologische Stätte im Gebiet Wadi Ez-Zarka.",
                   "category": "historical",
                   "coords": [
                         35.125385,
                         32.017246
-                  ]
-            },
-            {
-                  "name": "mkata'",
-                  "text": "Ein archäologischer Ort im Gebiet Wadi Ez-Zarka.",
-                  "category": "historical",
-                  "coords": [
-                        35.059927,
-                        32.02254
                   ]
             },
             {
@@ -6848,30 +6398,12 @@ export const palestineLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Raised convent Samaan",
-                  "text": "Egy egykori kolostor régészeti lelőhelye Wadi Ez-Zarka területén.",
-                  "category": "historical",
-                  "coords": [
-                        35.06854,
-                        32.018189
-                  ]
-            },
-            {
                   "name": "An Nabi Salih Grave",
                   "text": "Történelmi régészeti lelőhely Wadi Ez-Zarka területén.",
                   "category": "historical",
                   "coords": [
                         35.125385,
                         32.017246
-                  ]
-            },
-            {
-                  "name": "mkata'",
-                  "text": "Régészeti lelőhely Wadi Ez-Zarka területén.",
-                  "category": "historical",
-                  "coords": [
-                        35.059927,
-                        32.02254
                   ]
             },
             {
@@ -7102,30 +6634,12 @@ export const palestineLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Raised convent Samaan",
-                  "text": "Sit arheologic al unei foste mănăstiri din zona Wadi Ez-Zarka.",
-                  "category": "historical",
-                  "coords": [
-                        35.06854,
-                        32.018189
-                  ]
-            },
-            {
                   "name": "An Nabi Salih Grave",
                   "text": "Un sit arheologic istoric în zona Wadi Ez-Zarka.",
                   "category": "historical",
                   "coords": [
                         35.125385,
                         32.017246
-                  ]
-            },
-            {
-                  "name": "mkata'",
-                  "text": "Un sit arheologic în zona Wadi Ez-Zarka.",
-                  "category": "historical",
-                  "coords": [
-                        35.059927,
-                        32.02254
                   ]
             },
             {
@@ -7356,30 +6870,12 @@ export const palestineLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Raised convent Samaan",
-                  "text": "Archaeological site of a former convent in the Wadi Ez-Zarka area.",
-                  "category": "historical",
-                  "coords": [
-                        35.06854,
-                        32.018189
-                  ]
-            },
-            {
                   "name": "An Nabi Salih Grave",
                   "text": "A historic archaeological site in the Wadi Ez-Zarka area.",
                   "category": "historical",
                   "coords": [
                         35.125385,
                         32.017246
-                  ]
-            },
-            {
-                  "name": "mkata'",
-                  "text": "An archaeological site in the Wadi Ez-Zarka area.",
-                  "category": "historical",
-                  "coords": [
-                        35.059927,
-                        32.02254
                   ]
             },
             {
@@ -9573,15 +9069,6 @@ export const palestineLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tel Gador",
-                  "text": "Tel Gador ist eine archäologische Stätte, die historische Überreste in palestine-al-qattamine-life-v2 bewahrt.",
-                  "category": "historical",
-                  "coords": [
-                        35.092145,
-                        31.632629
-                  ]
-            },
-            {
                   "name": "Russian Monastery",
                   "text": "Die Ruinen des Russischen Klosters bieten einen Einblick in die Vergangenheit von palestine-al-qattamine-life-v2.",
                   "category": "historical",
@@ -9680,15 +9167,6 @@ export const palestineLifeV2: POI[] = [
                   "coords": [
                         35.125031,
                         31.646421
-                  ]
-            },
-            {
-                  "name": "Tel Gador",
-                  "text": "A Tel Gador egy régészeti lelőhely, amely történelmi maradványokat őriz palestine-al-qattamine-life-v2 városában.",
-                  "category": "historical",
-                  "coords": [
-                        35.092145,
-                        31.632629
                   ]
             },
             {
@@ -9793,15 +9271,6 @@ export const palestineLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tel Gador",
-                  "text": "Tel Gador este un sit arheologic care conservă rămășițe istorice în palestine-al-qattamine-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        35.092145,
-                        31.632629
-                  ]
-            },
-            {
                   "name": "Russian Monastery",
                   "text": "Ruinele Mănăstirii Rusești oferă o privire în trecutul zonei palestine-al-qattamine-life-v2.",
                   "category": "historical",
@@ -9900,15 +9369,6 @@ export const palestineLifeV2: POI[] = [
                   "coords": [
                         35.125031,
                         31.646421
-                  ]
-            },
-            {
-                  "name": "Tel Gador",
-                  "text": "Tel Gador is an archaeological site preserving historical remnants in palestine-al-qattamine-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        35.092145,
-                        31.632629
                   ]
             },
             {
@@ -10049,15 +9509,6 @@ export const palestineLifeV2: POI[] = [
   {
     id: "palestine-wadi-el-arayis-life-v2", "sights": {
       "de": [
-            {
-                  "name": "Royal Hall",
-                  "text": "Ein moderner Veranstaltungssaal und Theaterraum für kulturelle Ereignisse in Wadi el-Arayis.",
-                  "category": "cultural",
-                  "coords": [
-                        35.261803,
-                        31.763535
-                  ]
-            },
             {
                   "name": "Alshaikh Sa'd Mosque",
                   "text": "Eine lokale Moschee im Herzen von Wadi el-Arayis, die der muslimischen Gemeinde als Gebetsstätte dient.",
@@ -10205,15 +9656,6 @@ export const palestineLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Royal Hall",
-                  "text": "Modern rendezvényterem és színházi tér kulturális eseményekhez Wadi el-Arayis területén.",
-                  "category": "cultural",
-                  "coords": [
-                        35.261803,
-                        31.763535
-                  ]
-            },
-            {
                   "name": "Alshaikh Sa'd Mosque",
                   "text": "Helyi mecset Wadi el-Arayis szívében, amely a muszlim közösség imádkozóhelyeként szolgál.",
                   "category": "landmark",
@@ -10360,15 +9802,6 @@ export const palestineLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Royal Hall",
-                  "text": "O sală modernă de evenimente și teatru pentru manifestări culturale în Wadi el-Arayis.",
-                  "category": "cultural",
-                  "coords": [
-                        35.261803,
-                        31.763535
-                  ]
-            },
-            {
                   "name": "Alshaikh Sa'd Mosque",
                   "text": "O moschee locală în inima Wadi el-Arayis, servind drept lăcaș de rugăciune pentru comunitatea musulmană.",
                   "category": "landmark",
@@ -10514,15 +9947,6 @@ export const palestineLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Royal Hall",
-                  "text": "A modern event hall and theatre space for cultural events in Wadi el-Arayis.",
-                  "category": "cultural",
-                  "coords": [
-                        35.261803,
-                        31.763535
-                  ]
-            },
             {
                   "name": "Alshaikh Sa'd Mosque",
                   "text": "A local mosque in the heart of Wadi el-Arayis, serving as a place of prayer for the Muslim community.",

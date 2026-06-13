@@ -1210,50 +1210,10 @@ export const poiExtraUgandaLifeV2: POI[] = [
   },
   {
     id: "tororo-rock-kid-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Tororo Rock",
-                  "text": "Dieser markante Vulkankegel, der steil aus den umliegenden Ebenen aufragt, dominiert die lokale Skyline und wird von Telekommunikationsmasten gekrönt.",
-                  "category": "natural",
-                  "coords": [
-                        34.183446,
-                        0.685239
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Tororo Rock",
-                  "text": "A környező síkságokból meredeken kiemelkedő, hatalmas vulkáni kúp uralja a helyi látképet, a csúcsát pedig távközlési árbocok hálózata koronázza.",
-                  "category": "natural",
-                  "coords": [
-                        34.183446,
-                        0.685239
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Tororo Rock",
-                  "text": "Ridicându-se abrupt din câmpiile înconjurătoare, acest dop vulcanic proeminent domină orizontul local și este încoronat de catarge de telecomunicații.",
-                  "category": "natural",
-                  "coords": [
-                        34.183446,
-                        0.685239
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Tororo Rock",
-                  "text": "Rising steeply from the surrounding plains, this prominent volcanic plug dominates the local skyline and is crowned by a network of telecom masts.",
-                  "category": "natural",
-                  "coords": [
-                        34.183446,
-                        0.685239
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "kid-landmark",
     parent: "UG-TO",

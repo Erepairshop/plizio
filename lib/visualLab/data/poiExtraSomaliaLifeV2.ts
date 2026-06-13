@@ -1165,15 +1165,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
                         43.646985,
                         3.116072
                   ]
-            },
-            {
-                  "name": "Afar Irdoodka",
-                  "text": "Afar Irdoodka ist ein bemerkenswerter Knotenpunkt oder Torbereich, der die traditionellen Handelsrouten in der Nähe von Baidoa widerspiegelt.",
-                  "category": "landmark",
-                  "coords": [
-                        43.649747,
-                        3.114614
-                  ]
             }
       ],
       "hu": [
@@ -1184,15 +1175,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
                   "coords": [
                         43.646985,
                         3.116072
-                  ]
-            },
-            {
-                  "name": "Afar Irdoodka",
-                  "text": "Az Afar Irdoodka egy figyelemre méltó kereszteződés vagy kapu, amely a Baidoa melletti hagyományos kereskedelmi útvonalakat tükrözi.",
-                  "category": "landmark",
-                  "coords": [
-                        43.649747,
-                        3.114614
                   ]
             }
       ],
@@ -1205,15 +1187,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
                         43.646985,
                         3.116072
                   ]
-            },
-            {
-                  "name": "Afar Irdoodka",
-                  "text": "Afar Irdoodka este o intersecție remarcabilă sau o zonă de poartă care reflectă rutele comerciale tradiționale din apropiere de Baidoa.",
-                  "category": "landmark",
-                  "coords": [
-                        43.649747,
-                        3.114614
-                  ]
             }
       ],
       "en": [
@@ -1224,15 +1197,6 @@ export const poiExtraSomaliaLifeV2: POI[] = [
                   "coords": [
                         43.646985,
                         3.116072
-                  ]
-            },
-            {
-                  "name": "Afar Irdoodka",
-                  "text": "Afar Irdoodka is a notable intersection or gateway area reflecting the traditional trade routes near Baidoa.",
-                  "category": "landmark",
-                  "coords": [
-                        43.649747,
-                        3.114614
                   ]
             }
       ]

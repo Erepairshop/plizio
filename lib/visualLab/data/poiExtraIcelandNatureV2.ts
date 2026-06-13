@@ -142,15 +142,6 @@ imageHint: "Gullfoss waterfall Iceland rainbow",
                   ]
             },
             {
-                  "name": "Skógasafn",
-                  "text": "Ein kulturhistorisches Museum mit traditionellen isländischen Torfhäusern und Artefakten.",
-                  "category": "museum",
-                  "coords": [
-                        -19.493033,
-                        63.526178
-                  ]
-            },
-            {
                   "name": "Skógafoss Viewpoint",
                   "text": "Ein Aussichtspunkt, der einen spektakulären Blick auf den Wasserfall Skógafoss bietet.",
                   "category": "natural",
@@ -176,15 +167,6 @@ imageHint: "Gullfoss waterfall Iceland rainbow",
                         -19.572741,
                         63.522753
                   ]
-            },
-            {
-                  "name": "Holt Á Síðu",
-                  "text": "Ein bemerkenswertes lokales Gebäude oder Wohnhaus in der Region Skógar.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.492349,
-                        63.527305
-                  ]
             }
       ],
       "hu": [
@@ -195,15 +177,6 @@ imageHint: "Gullfoss waterfall Iceland rainbow",
                   "coords": [
                         -19.490809,
                         63.552823
-                  ]
-            },
-            {
-                  "name": "Skógasafn",
-                  "text": "Kulturális örökségvédelmi múzeum hagyományos izlandi tőzegszállásokkal és műtárgyakkal.",
-                  "category": "museum",
-                  "coords": [
-                        -19.493033,
-                        63.526178
                   ]
             },
             {
@@ -232,15 +205,6 @@ imageHint: "Gullfoss waterfall Iceland rainbow",
                         -19.572741,
                         63.522753
                   ]
-            },
-            {
-                  "name": "Holt Á Síðu",
-                  "text": "Figyelemre méltó helyi épület vagy lakóház Skógar környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.492349,
-                        63.527305
-                  ]
             }
       ],
       "ro": [
@@ -251,15 +215,6 @@ imageHint: "Gullfoss waterfall Iceland rainbow",
                   "coords": [
                         -19.490809,
                         63.552823
-                  ]
-            },
-            {
-                  "name": "Skógasafn",
-                  "text": "Un muzeu al patrimoniului cultural care prezintă case tradiționale islandeze de gazon și artefacte.",
-                  "category": "museum",
-                  "coords": [
-                        -19.493033,
-                        63.526178
                   ]
             },
             {
@@ -288,15 +243,6 @@ imageHint: "Gullfoss waterfall Iceland rainbow",
                         -19.572741,
                         63.522753
                   ]
-            },
-            {
-                  "name": "Holt Á Síðu",
-                  "text": "O clădire sau reședință locală notabilă din zona Skógar.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.492349,
-                        63.527305
-                  ]
             }
       ],
       "en": [
@@ -307,15 +253,6 @@ imageHint: "Gullfoss waterfall Iceland rainbow",
                   "coords": [
                         -19.490809,
                         63.552823
-                  ]
-            },
-            {
-                  "name": "Skógar Museum",
-                  "text": "A cultural heritage museum featuring traditional Icelandic turf houses and artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        -19.493033,
-                        63.526178
                   ]
             },
             {
@@ -343,15 +280,6 @@ imageHint: "Gullfoss waterfall Iceland rainbow",
                   "coords": [
                         -19.572741,
                         63.522753
-                  ]
-            },
-            {
-                  "name": "House",
-                  "text": "A notable local building or residence in the Skógar area.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.492349,
-                        63.527305
                   ]
             }
       ]
@@ -1041,15 +969,6 @@ imageHint: "Snaefellsjokull glacier volcano Iceland",
     id: "iceland-myvatn-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Fuglasafn Sigurgeirs",
-                  "text": "Ein Museum am Mývatn-See mit einer umfangreichen Sammlung isländischer Vögel.",
-                  "category": "museum",
-                  "coords": [
-                        -16.995002,
-                        65.628822
-                  ]
-            },
-            {
                   "name": "Vindbelgjarfjall",
                   "text": "Ein markanter Gipfel, der einen weiten Panoramablick über den Mývatn-See bietet.",
                   "category": "landmark",
@@ -1065,15 +984,6 @@ imageHint: "Snaefellsjokull glacier volcano Iceland",
                   "coords": [
                         -17.022504,
                         65.571445
-                  ]
-            },
-            {
-                  "name": "Klasar",
-                  "text": "Interessante Felsformationen im Wasser des Mývatn-Sees.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.958481,
-                        65.578238
                   ]
             },
             {
@@ -1097,15 +1007,6 @@ imageHint: "Snaefellsjokull glacier volcano Iceland",
       ],
       "hu": [
             {
-                  "name": "Fuglasafn Sigurgeirs",
-                  "text": "Egy múzeum a Mývatn-tónál, amely izlandi madarak széles gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -16.995002,
-                        65.628822
-                  ]
-            },
-            {
                   "name": "Vindbelgjarfjall",
                   "text": "Egy jellegzetes csúcs, amely széles panorámát kínál a Mývatn-tóra.",
                   "category": "landmark",
@@ -1121,15 +1022,6 @@ imageHint: "Snaefellsjokull glacier volcano Iceland",
                   "coords": [
                         -17.022504,
                         65.571445
-                  ]
-            },
-            {
-                  "name": "Klasar",
-                  "text": "Érdekes sziklaalakzatok a Mývatn-tó vizében.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.958481,
-                        65.578238
                   ]
             },
             {
@@ -1153,15 +1045,6 @@ imageHint: "Snaefellsjokull glacier volcano Iceland",
       ],
       "ro": [
             {
-                  "name": "Fuglasafn Sigurgeirs",
-                  "text": "Un muzeu de lângă lacul Mývatn, cu o colecție vastă de păsări islandeze.",
-                  "category": "museum",
-                  "coords": [
-                        -16.995002,
-                        65.628822
-                  ]
-            },
-            {
                   "name": "Vindbelgjarfjall",
                   "text": "Un vârf proeminent care oferă o panoramă vastă asupra lacului Mývatn.",
                   "category": "landmark",
@@ -1177,15 +1060,6 @@ imageHint: "Snaefellsjokull glacier volcano Iceland",
                   "coords": [
                         -17.022504,
                         65.571445
-                  ]
-            },
-            {
-                  "name": "Klasar",
-                  "text": "Formațiuni stâncoase interesante în apele lacului Mývatn.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.958481,
-                        65.578238
                   ]
             },
             {
@@ -1209,15 +1083,6 @@ imageHint: "Snaefellsjokull glacier volcano Iceland",
       ],
       "en": [
             {
-                  "name": "Sigurgeirs Bird Museum",
-                  "text": "A museum by Lake Mývatn featuring an extensive collection of Icelandic birds.",
-                  "category": "museum",
-                  "coords": [
-                        -16.995002,
-                        65.628822
-                  ]
-            },
-            {
                   "name": "Vindbelgjarfjall",
                   "text": "A prominent peak offering a wide panoramic view over Lake Mývatn.",
                   "category": "landmark",
@@ -1233,15 +1098,6 @@ imageHint: "Snaefellsjokull glacier volcano Iceland",
                   "coords": [
                         -17.022504,
                         65.571445
-                  ]
-            },
-            {
-                  "name": "Klasar",
-                  "text": "Interesting rock formations in the waters of Lake Mývatn.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.958481,
-                        65.578238
                   ]
             },
             {
@@ -1356,158 +1212,10 @@ imageHint: "Thingvallavatn lake Iceland aerial view",
     image: "/poi-images/iceland-thingvallavatn-nature-v2.webp",
 },  {
     id: "iceland-jokulsarlon-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Vestri-Fellsfjara",
-                  "text": "Ein Teil des berühmten Diamantenstrandes in Island, bekannt für Eisbrocken im schwarzen Sand.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.231947,
-                        64.026387
-                  ]
-            },
-            {
-                  "name": "Eystri-Fellsfjara",
-                  "text": "Ein malerischer schwarzer Sandstrand an der Gletscherlagune Jökulsárlón.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.150402,
-                        64.054509
-                  ]
-            },
-            {
-                  "name": "Jökulsárlón",
-                  "text": "Ein beliebter Aussichtspunkt mit beeindruckendem Blick auf die Gletscherlagune Jökulsárlón.",
-                  "category": "natural",
-                  "coords": [
-                        -16.17802,
-                        64.052911
-                  ]
-            },
-            {
-                  "name": "Breiðamerkursandur",
-                  "text": "Ein berühmter Strand, an dem Eisberge aus der Gletscherlagune auf schwarzen Sand gespült werden.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.176337,
-                        64.043791
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Vestri-Fellsfjara",
-                  "text": "Izland híres Gyémántpartjának része, amely a fekete homokon csillogó jégdarabjairól ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.231947,
-                        64.026387
-                  ]
-            },
-            {
-                  "name": "Eystri-Fellsfjara",
-                  "text": "Festői fekete homokos tengerpart a Jökulsárlón gleccserlagúnánál.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.150402,
-                        64.054509
-                  ]
-            },
-            {
-                  "name": "Jökulsárlón",
-                  "text": "Népszerű kilátóhely, ahonnan lenyűgöző kilátás nyílik a Jökulsárlón gleccserlagúnára.",
-                  "category": "natural",
-                  "coords": [
-                        -16.17802,
-                        64.052911
-                  ]
-            },
-            {
-                  "name": "Breiðamerkursandur",
-                  "text": "Híres tengerpart, ahol a gleccserlagúnából származó jéghegyek sodródnak a fekete homokra.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.176337,
-                        64.043791
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Vestri-Fellsfjara",
-                  "text": "O parte a faimoasei plaje de diamant din Islanda, cunoscută pentru gheața de pe nisipul negru.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.231947,
-                        64.026387
-                  ]
-            },
-            {
-                  "name": "Eystri-Fellsfjara",
-                  "text": "O plajă pitorească cu nisip negru situată la laguna glaciară Jökulsárlón.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.150402,
-                        64.054509
-                  ]
-            },
-            {
-                  "name": "Jökulsárlón",
-                  "text": "Un punct de belvedere popular care oferă priveliști uimitoare asupra lagunei glaciare Jökulsárlón.",
-                  "category": "natural",
-                  "coords": [
-                        -16.17802,
-                        64.052911
-                  ]
-            },
-            {
-                  "name": "Breiðamerkursandur",
-                  "text": "O plajă faimoasă unde aisbergurile din laguna glaciară sunt aduse de valuri pe nisipul negru.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.176337,
-                        64.043791
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Vestri-Fellsfjara",
-                  "text": "Part of the famous Diamond Beach in Iceland, known for ice chunks glistening on the black sand.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.231947,
-                        64.026387
-                  ]
-            },
-            {
-                  "name": "Eystri-Fellsfjara",
-                  "text": "A scenic black sand beach located at the Jökulsárlón glacier lagoon.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.150402,
-                        64.054509
-                  ]
-            },
-            {
-                  "name": "Jökulsárlón",
-                  "text": "A popular viewpoint offering stunning vistas of the Jökulsárlón glacier lagoon.",
-                  "category": "natural",
-                  "coords": [
-                        -16.17802,
-                        64.052911
-                  ]
-            },
-            {
-                  "name": "Diamond Beach",
-                  "text": "A famous beach where icebergs from the glacier lagoon wash ashore on black sand.",
-                  "category": "landmark",
-                  "coords": [
-                        -16.176337,
-                        64.043791
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "IS",
     type: "lake",
@@ -2229,15 +1937,6 @@ imageHint: "Askja caldera Viti crater blue water",
     id: "iceland-krafla-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Kröflustöð",
-                  "text": "Ein Informationszentrum über die geothermische Energie und vulkanische Aktivität in Krafla.",
-                  "category": "museum",
-                  "coords": [
-                        -16.774943,
-                        65.702697
-                  ]
-            },
-            {
                   "name": "Krafla",
                   "text": "Ein bekannter Vulkanberg und eine Caldera in der Region Krafla auf Island.",
                   "category": "landmark",
@@ -2257,15 +1956,6 @@ imageHint: "Askja caldera Viti crater blue water",
             }
       ],
       "hu": [
-            {
-                  "name": "Kröflustöð",
-                  "text": "A Krafla geotermikus energiájáról és vulkáni tevékenységéről szóló információs központ.",
-                  "category": "museum",
-                  "coords": [
-                        -16.774943,
-                        65.702697
-                  ]
-            },
             {
                   "name": "Krafla",
                   "text": "Ismert vulkáni hegy és kaldera az izlandi Krafla régióban.",
@@ -2287,15 +1977,6 @@ imageHint: "Askja caldera Viti crater blue water",
       ],
       "ro": [
             {
-                  "name": "Kröflustöð",
-                  "text": "Un centru de informare despre energia geotermală și activitatea vulcanică din Krafla.",
-                  "category": "museum",
-                  "coords": [
-                        -16.774943,
-                        65.702697
-                  ]
-            },
-            {
                   "name": "Krafla",
                   "text": "Un munte vulcanic cunoscut și o calderă din regiunea Krafla din Islanda.",
                   "category": "landmark",
@@ -2315,15 +1996,6 @@ imageHint: "Askja caldera Viti crater blue water",
             }
       ],
       "en": [
-            {
-                  "name": "Kröflustöð",
-                  "text": "An information center about the geothermal energy and volcanic activity in Krafla.",
-                  "category": "museum",
-                  "coords": [
-                        -16.774943,
-                        65.702697
-                  ]
-            },
             {
                   "name": "Krafla",
                   "text": "A well-known volcanic mountain and caldera in the Krafla region of Iceland.",
@@ -3179,15 +2851,6 @@ imageHint: "Surtsey island volcanic eruption 1963",
                         -17.981628,
                         66.528195
                   ]
-            },
-            {
-                  "name": "Fotarklappir",
-                  "text": "Ein malerischer Aussichtspunkt auf der Insel Grímsey, bekannt für seine dramatischen Klippen.",
-                  "category": "natural",
-                  "coords": [
-                        -18.02127,
-                        66.565787
-                  ]
             }
       ],
       "hu": [
@@ -3198,15 +2861,6 @@ imageHint: "Surtsey island volcanic eruption 1963",
                   "coords": [
                         -17.981628,
                         66.528195
-                  ]
-            },
-            {
-                  "name": "Fotarklappir",
-                  "text": "Festői kilátóhely Grímsey szigetén, amely látványos tengerparti szikláiról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        -18.02127,
-                        66.565787
                   ]
             }
       ],
@@ -3219,15 +2873,6 @@ imageHint: "Surtsey island volcanic eruption 1963",
                         -17.981628,
                         66.528195
                   ]
-            },
-            {
-                  "name": "Fotarklappir",
-                  "text": "Un punct de observație pitoresc pe insula Grímsey, cunoscut pentru faleza sa dramatică.",
-                  "category": "natural",
-                  "coords": [
-                        -18.02127,
-                        66.565787
-                  ]
             }
       ],
       "en": [
@@ -3238,15 +2883,6 @@ imageHint: "Surtsey island volcanic eruption 1963",
                   "coords": [
                         -17.981628,
                         66.528195
-                  ]
-            },
-            {
-                  "name": "Fotarklappir",
-                  "text": "A scenic viewpoint on Grímsey island known for its dramatic coastal cliffs.",
-                  "category": "natural",
-                  "coords": [
-                        -18.02127,
-                        66.565787
                   ]
             }
       ]
@@ -3297,50 +2933,10 @@ imageHint: "Grimsey island Arctic Circle marker",
     image: "/poi-images/iceland-grimsey-nature-v2.webp",
 },  {
     id: "iceland-hornbjarg-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Hornbjargsviti",
-                  "text": "Ein abgelegener Leuchtturm an der dramatischen Nordwestküste Islands bei Hornbjarg.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.379174,
-                        66.410732
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Hornbjargsviti",
-                  "text": "Távoli világítótorony Izland drámai északnyugati partvidékén, Hornbjarg közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.379174,
-                        66.410732
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Hornbjargsviti",
-                  "text": "Un far izolat situat pe coasta dramatică de nord-vest a Islandei, la Hornbjarg.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.379174,
-                        66.410732
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Hornbjargsviti",
-                  "text": "A remote lighthouse on the dramatic northwest coast of Iceland at Hornbjarg.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.379174,
-                        66.410732
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "IS",
     type: "landmark",

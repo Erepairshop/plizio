@@ -14865,24 +14865,6 @@ export const poiExtraMalaysiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "I Love Sandakan",
-                  "text": "Ein beliebter Fotospot für Touristen mit großen, bunten Buchstaben, die den Namen der Stadt bilden.",
-                  "category": "landmark",
-                  "coords": [
-                        118.119324,
-                        5.838441
-                  ]
-            },
-            {
-                  "name": "Jeti Ke Taman Pulau Penyu",
-                  "text": "Der wichtigste Abfahrtsort an der Küste für Boote, die zu den nahegelegenen Meeresschildkröten-Schutzinseln fahren.",
-                  "category": "landmark",
-                  "coords": [
-                        118.125872,
-                        5.842348
-                  ]
-            },
-            {
                   "name": "Rumah Api Pulau Berhala",
                   "text": "Ein Leuchtfeuer auf den dramatischen, steilen Sandsteinklippen von Berhala Island.",
                   "category": "landmark",
@@ -15125,24 +15107,6 @@ export const poiExtraMalaysiaHistoryV2: POI[] = [
                   "coords": [
                         118.058526,
                         5.836239
-                  ]
-            },
-            {
-                  "name": "I Love Sandakan",
-                  "text": "Népszerű turisztikai fotóhelyszín, ahol nagy, élénk színű betűk alkotják a város nevét.",
-                  "category": "landmark",
-                  "coords": [
-                        118.119324,
-                        5.838441
-                  ]
-            },
-            {
-                  "name": "Jeti Ke Taman Pulau Penyu",
-                  "text": "A part menti fő indulási pont a közeli tengeri teknősök védelmét szolgáló szigetekre tartó hajók számára.",
-                  "category": "landmark",
-                  "coords": [
-                        118.125872,
-                        5.842348
                   ]
             },
             {
@@ -15391,24 +15355,6 @@ export const poiExtraMalaysiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "I Love Sandakan",
-                  "text": "Un loc popular pentru fotografii turistice, cu litere mari și viu colorate care formează numele orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        118.119324,
-                        5.838441
-                  ]
-            },
-            {
-                  "name": "Jeti Ke Taman Pulau Penyu",
-                  "text": "Principalul punct de plecare de pe coastă pentru bărcile care se îndreaptă către insulele din apropiere destinate conservării țestoaselor marine.",
-                  "category": "landmark",
-                  "coords": [
-                        118.125872,
-                        5.842348
-                  ]
-            },
-            {
                   "name": "Rumah Api Pulau Berhala",
                   "text": "Un far de navigație cocoțat pe stâncile dramatice și abrupte de gresie ale Insulei Berhala.",
                   "category": "landmark",
@@ -15651,24 +15597,6 @@ export const poiExtraMalaysiaHistoryV2: POI[] = [
                   "coords": [
                         118.058526,
                         5.836239
-                  ]
-            },
-            {
-                  "name": "I Love Sandakan",
-                  "text": "A popular tourist photo spot featuring large, brightly colored letters spelling out the city's name.",
-                  "category": "landmark",
-                  "coords": [
-                        118.119324,
-                        5.838441
-                  ]
-            },
-            {
-                  "name": "Jetty To Turtle Islands Park",
-                  "text": "The primary coastal departure point for boats heading to the nearby sea turtle conservation islands.",
-                  "category": "landmark",
-                  "coords": [
-                        118.125872,
-                        5.842348
                   ]
             },
             {

@@ -1333,15 +1333,6 @@ export const poiExtraChileCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cerro Las Cabras",
-                  "text": "Hügel im Departamento Cerro Largo (Uruguay), Teil der Hügelkette Cuchilla Grande.",
-                  "category": "natural",
-                  "coords": [
-                        -70.603039,
-                        -33.625145
-                  ]
-            },
-            {
                   "name": "Plaza Elvira Matte",
                   "text": "Mitten in Puente Alto bietet dieser städtische Park eine willkommene grüne Oase abseits der belebten Straßen. Zwischen schattigen Bäumen und ruhigen Pfaden können Einheimische und Gäste wunderbar spazieren gehen oder eine kleine Pause einlegen. Ein idealer Ort, um an einem sonnigen Nachmittag im Freien zu entspannen und das lokale Leben zu beobachten.",
                   "category": "park",
@@ -1413,15 +1404,6 @@ export const poiExtraChileCitiesV2: POI[] = [
                   "coords": [
                         -70.576147,
                         -33.634687
-                  ]
-            },
-            {
-                  "name": "Cerro Las Cabras",
-                  "text": "Domb a Cerro Largo megyében (Uruguay), a Cuchilla Grande dombsor része.",
-                  "category": "natural",
-                  "coords": [
-                        -70.603039,
-                        -33.625145
                   ]
             },
             {
@@ -1499,15 +1481,6 @@ export const poiExtraChileCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cerro Las Cabras",
-                  "text": "Deal în departamentul Cerro Largo (Uruguay), parte a lanțului de dealuri Cuchilla Grande.",
-                  "category": "natural",
-                  "coords": [
-                        -70.603039,
-                        -33.625145
-                  ]
-            },
-            {
                   "name": "Plaza Elvira Matte",
                   "text": "În inima orașului Puente Alto, acest parc urban oferă o oază verde binevenită, departe de străzile aglomerate. Printre copacii umbroși și cărările liniștite, localnicii și oaspeții se pot plimba de minune sau pot lua o scurtă pauză. Un loc ideal pentru a vă relaxa în aer liber într-o după-amiază însorită și a observa viața locală.",
                   "category": "park",
@@ -1579,15 +1552,6 @@ export const poiExtraChileCitiesV2: POI[] = [
                   "coords": [
                         -70.576147,
                         -33.634687
-                  ]
-            },
-            {
-                  "name": "Cerro Las Cabras",
-                  "text": "Cerro Las Cabras: a hill in Cerro Largo Department, Uruguay, part of the Cuchilla Grande range.",
-                  "category": "natural",
-                  "coords": [
-                        -70.603039,
-                        -33.625145
                   ]
             },
             {
@@ -1691,15 +1655,6 @@ export const poiExtraChileCitiesV2: POI[] = [
     id: "maipu-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Museo del Carmen",
-                  "text": "Museo del Carmen ist ein bemerkenswertes Museum in Maipú. Es bewahrt historische Sammlungen zur Geschichte Chiles und der Schlacht von Maipú.",
-                  "category": "museum",
-                  "coords": [
-                        -70.766225,
-                        -33.510568
-                  ]
-            },
-            {
                   "name": "Museo del Agua SMAPA",
                   "text": "Museum des Wasserwerks SMAPA in Maipú zur Geschichte der Wasserversorgung.",
                   "category": "museum",
@@ -1727,24 +1682,6 @@ export const poiExtraChileCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Taller Museo Sonoro Organológico (MUSO)",
-                  "text": "Museum für Musikinstrumente und Klanginstallationen in Maipú.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.779343,
-                        -33.513122
-                  ]
-            },
-            {
-                  "name": "Excapilla de La Victoria",
-                  "text": "Die ehemalige Kapelle La Victoria in Maipu, erbaut am 5. April 1892.",
-                  "category": "historical",
-                  "coords": [
-                        -70.764019,
-                        -33.510742
-                  ]
-            },
-            {
                   "name": "Parroquia Nuestra Señora del Carmen",
                   "text": "Parroquia Nuestra Señora del Carmen ist eine bedeutende Kultstätte in Maipú. Die Pfarrei ist historisch mit der alten Siegeskapelle in der Region verbunden.",
                   "category": "religious",
@@ -1755,15 +1692,6 @@ export const poiExtraChileCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Museo del Carmen",
-                  "text": "A Museo del Carmen egy jelentős múzeum Maipúban. Chile történelmével és a maipúi csatával kapcsolatos történelmi gyűjteményeket őriz.",
-                  "category": "museum",
-                  "coords": [
-                        -70.766225,
-                        -33.510568
-                  ]
-            },
             {
                   "name": "Museo del Agua SMAPA",
                   "text": "A maipúi SMAPA vízmű múzeuma a vízellátás történetéről.",
@@ -1792,24 +1720,6 @@ export const poiExtraChileCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Taller Museo Sonoro Organológico (MUSO)",
-                  "text": "Hangszerek és hanginstallációk múzeuma Maipúban.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.779343,
-                        -33.513122
-                  ]
-            },
-            {
-                  "name": "Excapilla de La Victoria",
-                  "text": "A La Victoria egykori kápolna Maipuban, épült 1892. április 5-én.",
-                  "category": "historical",
-                  "coords": [
-                        -70.764019,
-                        -33.510742
-                  ]
-            },
-            {
                   "name": "Parroquia Nuestra Señora del Carmen",
                   "text": "A Parroquia Nuestra Señora del Carmen egy jelentős istentiszteleti hely Maipúban. A plébánia történelmileg a régió egykori Győzelem Kápolnájához kötődik.",
                   "category": "religious",
@@ -1820,15 +1730,6 @@ export const poiExtraChileCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Museo del Carmen",
-                  "text": "Museo del Carmen este un muzeu notabil situat în Maipú. Păstrează colecții istorice legate de istoria statului Chile și de Bătălia de la Maipú.",
-                  "category": "museum",
-                  "coords": [
-                        -70.766225,
-                        -33.510568
-                  ]
-            },
             {
                   "name": "Museo del Agua SMAPA",
                   "text": "Muzeul Apei SMAPA din Maipú, despre istoria alimentării cu apă.",
@@ -1857,24 +1758,6 @@ export const poiExtraChileCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Taller Museo Sonoro Organológico (MUSO)",
-                  "text": "Muzeu de instrumente muzicale și instalații sonore în Maipú.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.779343,
-                        -33.513122
-                  ]
-            },
-            {
-                  "name": "Excapilla de La Victoria",
-                  "text": "Fosta capelă La Victoria din Maipu, construită la 5 aprilie 1892.",
-                  "category": "historical",
-                  "coords": [
-                        -70.764019,
-                        -33.510742
-                  ]
-            },
-            {
                   "name": "Parroquia Nuestra Señora del Carmen",
                   "text": "Parroquia Nuestra Señora del Carmen este un lăcaș de cult notabil situat în Maipú. Parohia este legată istoric de fosta Capelă a Victoriei din regiune.",
                   "category": "religious",
@@ -1885,15 +1768,6 @@ export const poiExtraChileCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Museo del Carmen",
-                  "text": "Museo del Carmen is a notable museum located in Maipú. It preserves historical collections related to the history of Chile and the Battle of Maipú.",
-                  "category": "museum",
-                  "coords": [
-                        -70.766225,
-                        -33.510568
-                  ]
-            },
             {
                   "name": "Museo del Agua SMAPA",
                   "text": "SMAPA Water Museum in Maipú, covering the history of water supply.",
@@ -1919,24 +1793,6 @@ export const poiExtraChileCitiesV2: POI[] = [
                   "coords": [
                         -70.757977,
                         -33.493295
-                  ]
-            },
-            {
-                  "name": "Casa Taller Museo Sonoro Organológico (MUSO)",
-                  "text": "Museum of musical instruments and sound installations in Maipú.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.779343,
-                        -33.513122
-                  ]
-            },
-            {
-                  "name": "Excapilla de La Victoria",
-                  "text": "Former chapel La Victoria in Maipu, built on 5 April 1892.",
-                  "category": "historical",
-                  "coords": [
-                        -70.764019,
-                        -33.510742
                   ]
             },
             {

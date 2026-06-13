@@ -96,15 +96,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Chinese Martyrs Catholic Church",
-                  "text": "Die Chinese Martyrs Catholic Church ist eine römisch-katholische Kirche mit pagodenähnlichem Dach, die der chinesischen Gemeinde dient, nahe dem Toronto Zoo.",
-                  "category": "religious",
-                  "coords": [
-                        -79.268968,
-                        43.841337
-                  ]
-            },
-            {
                   "name": "Ebenezer United Church",
                   "text": "Die Ebenezer United Church ist eine Kirche der United Church mit markantem Turm nahe dem Toronto Zoo.",
                   "category": "religious",
@@ -195,15 +186,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Firefighters Memorial sculpture",
-                  "text": "Eine Skulptur zum Gedenken an gefallene Feuerwehrleute, auf dem Zoogelände.",
-                  "category": "historical",
-                  "coords": [
-                        -79.258717,
-                        43.873795
-                  ]
-            },
-            {
                   "name": "Kao Ying Art Gallery",
                   "text": "Eine Kunstgalerie mit chinesisch-kanadischen Werken, im Zoo gelegen.",
                   "category": "cultural",
@@ -246,24 +228,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -79.181858,
                         43.82111
-                  ]
-            },
-            {
-                  "name": "Rouge Valley Trail",
-                  "text": "Ein Wanderweg im Rouge Valley, zugänglich vom Zoo aus.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.233941,
-                        43.858441
-                  ]
-            },
-            {
-                  "name": "MARKHAM Sign",
-                  "text": "Ein großes beleuchtetes Schild mit der Aufschrift „MARKHAM“ in der Nähe des Zoos.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.251718,
-                        43.836877
                   ]
             },
             {
@@ -395,15 +359,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Chinese Martyrs Catholic Church",
-                  "text": "A Chinese Martyrs Catholic Church egy római katolikus templom pagodaszerű tetővel, amely a kínai közösséget szolgálja a Toronto Zoo közelében.",
-                  "category": "religious",
-                  "coords": [
-                        -79.268968,
-                        43.841337
-                  ]
-            },
-            {
                   "name": "Ebenezer United Church",
                   "text": "Az Ebenezer United Church egy United Church templom jellegzetes toronnyal a Toronto Zoo közelében.",
                   "category": "religious",
@@ -494,15 +449,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Firefighters Memorial sculpture",
-                  "text": "Egy szobor, amely az elesett tűzoltók előtt tiszteleg, az állatkert területén.",
-                  "category": "historical",
-                  "coords": [
-                        -79.258717,
-                        43.873795
-                  ]
-            },
-            {
                   "name": "Kao Ying Art Gallery",
                   "text": "Kínai-kanadai műalkotásokat bemutató művészeti galéria az állatkertben.",
                   "category": "cultural",
@@ -545,24 +491,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -79.181858,
                         43.82111
-                  ]
-            },
-            {
-                  "name": "Rouge Valley Trail",
-                  "text": "Túraút a Rouge Valley-ben, az állatkert felől megközelíthető.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.233941,
-                        43.858441
-                  ]
-            },
-            {
-                  "name": "MARKHAM Sign",
-                  "text": "Egy nagy, megvilágított felirat „MARKHAM” felirattal az állatkert közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.251718,
-                        43.836877
                   ]
             },
             {
@@ -694,15 +622,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Chinese Martyrs Catholic Church",
-                  "text": "Biserica Chinese Martyrs Catholic este o biserică romano-catolică cu acoperiș în stil pagodă, care servește comunitatea chineză, lângă Grădina Zoologică Toronto.",
-                  "category": "religious",
-                  "coords": [
-                        -79.268968,
-                        43.841337
-                  ]
-            },
-            {
                   "name": "Ebenezer United Church",
                   "text": "Biserica Ebenezer United este o biserică a Bisericii Unite cu un turn distinctiv lângă Grădina Zoologică Toronto.",
                   "category": "religious",
@@ -793,15 +712,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Firefighters Memorial sculpture",
-                  "text": "O sculptură care comemorează pompierii căzuți, pe terenul zoo-ului.",
-                  "category": "historical",
-                  "coords": [
-                        -79.258717,
-                        43.873795
-                  ]
-            },
-            {
                   "name": "Kao Ying Art Gallery",
                   "text": "O galerie de artă cu lucrări chino-canadiene, situată la zoo.",
                   "category": "cultural",
@@ -844,24 +754,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -79.181858,
                         43.82111
-                  ]
-            },
-            {
-                  "name": "Rouge Valley Trail",
-                  "text": "Un traseu de drumeție în Rouge Valley, accesibil de la zoo.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.233941,
-                        43.858441
-                  ]
-            },
-            {
-                  "name": "MARKHAM Sign",
-                  "text": "Un semn mare iluminat care scrie „MARKHAM”, lângă zoo.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.251718,
-                        43.836877
                   ]
             },
             {
@@ -993,15 +885,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Chinese Martyrs Catholic Church",
-                  "text": "The Chinese Martyrs Catholic Church is a Roman Catholic church with a pagoda-style roof serving the Chinese community near the Toronto Zoo.",
-                  "category": "religious",
-                  "coords": [
-                        -79.268968,
-                        43.841337
-                  ]
-            },
-            {
                   "name": "Ebenezer United Church",
                   "text": "Ebenezer United Church is a United Church with a distinctive spire near the Toronto Zoo.",
                   "category": "religious",
@@ -1092,15 +975,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Firefighters Memorial sculpture",
-                  "text": "A sculpture memorializing fallen firefighters, located on the zoo grounds.",
-                  "category": "historical",
-                  "coords": [
-                        -79.258717,
-                        43.873795
-                  ]
-            },
-            {
                   "name": "Kao Ying Art Gallery",
                   "text": "An art gallery featuring Chinese-Canadian artworks, located at the zoo.",
                   "category": "cultural",
@@ -1143,24 +1017,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -79.181858,
                         43.82111
-                  ]
-            },
-            {
-                  "name": "Rouge Valley Trail",
-                  "text": "A hiking trail in the Rouge Valley, accessible from the zoo.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.233941,
-                        43.858441
-                  ]
-            },
-            {
-                  "name": "MARKHAM Sign",
-                  "text": "A large illuminated sign spelling 'MARKHAM', located near the zoo.",
-                  "category": "landmark",
-                  "coords": [
-                        -79.251718,
-                        43.836877
                   ]
             },
             {
@@ -2261,48 +2117,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Les Boisés Miner - Parc Écologique Pierre-Horace-Boivin",
-                  "text": "Dieser ökologische Park bietet bewaldete Wanderwege und einen kleinen Teich.",
-                  "category": "natural",
-                  "coords": [
-                        -72.725135,
-                        45.39187
-                  ]
-            },
-            {
-                  "name": "Le Palace de Granby",
-                  "text": "Le Palace de Granby ist ein historisches Theater, das Filme und Live-Shows zeigt.",
-                  "category": "cultural",
-                  "coords": [
-                        -72.724559,
-                        45.39932
-                  ]
-            },
-            {
                   "name": "Verger Champêtre – gîte & compagnie",
                   "text": "Ein ländlicher Obstgarten und eine Pension mit Apfelernte und Landaufenthalten.",
                   "category": "landmark",
                   "coords": [
                         -72.836154,
                         45.394383
-                  ]
-            },
-            {
-                  "name": "Le P’tit Monde Des Grands",
-                  "text": "Ein Kindermuseum mit interaktiven Ausstellungen und kreativen Spielbereichen.",
-                  "category": "museum",
-                  "coords": [
-                        -72.718001,
-                        45.406204
-                  ]
-            },
-            {
-                  "name": "parc André-Dansereau",
-                  "text": "Der parc André-Dansereau ist ein Nachbarschaftspark mit Spielplatz und Sportplätzen nahe dem Montreal Zoo.",
-                  "category": "park",
-                  "coords": [
-                        -72.699744,
-                        45.391545
                   ]
             },
             {
@@ -2342,30 +2162,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "parc Vittie",
-                  "text": "Der parc Vittie ist ein kleiner Park mit Wasserspielplatz nahe dem Montreal Zoo.",
-                  "category": "park",
-                  "coords": [
-                        -72.717482,
-                        45.395317
-                  ]
-            },
-            {
                   "name": "Parc Daniel-Johnson",
                   "text": "Der Parc Daniel-Johnson ist ein linearer Park mit Radweg entlang der Rivière des Prairies nahe dem Montreal Zoo.",
                   "category": "park",
                   "coords": [
                         -72.706489,
                         45.401619
-                  ]
-            },
-            {
-                  "name": "Parc Napoléon-Fontaine",
-                  "text": "Der Parc Napoléon-Fontaine ist ein Park mit einer Napoleon-Statue und einem Rosengarten nahe dem Montreal Zoo.",
-                  "category": "park",
-                  "coords": [
-                        -72.749365,
-                        45.403259
                   ]
             },
             {
@@ -2384,24 +2186,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -72.72235,
                         45.41877
-                  ]
-            },
-            {
-                  "name": "Amazoo Iögo",
-                  "text": "Amazoo Iögo ist ein Wasserpark mit Rutschen und Planschbereichen im Zoo.",
-                  "category": "recreational",
-                  "coords": [
-                        -72.720057,
-                        45.420013
-                  ]
-            },
-            {
-                  "name": "Parc Poitevin",
-                  "text": "Parc Poitevin ist ein kleiner Park im Zoo, bekannt für seine ruhige Atmosphäre.",
-                  "category": "park",
-                  "coords": [
-                        -72.730588,
-                        45.418834
                   ]
             }
       ],
@@ -2434,48 +2218,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Les Boisés Miner - Parc Écologique Pierre-Horace-Boivin",
-                  "text": "Ez az ökológiai park erdős ösvényekkel és egy kis tóval rendelkezik.",
-                  "category": "natural",
-                  "coords": [
-                        -72.725135,
-                        45.39187
-                  ]
-            },
-            {
-                  "name": "Le Palace de Granby",
-                  "text": "A Le Palace de Granby egy történelmi színház, amely filmeket és élő előadásokat mutat be.",
-                  "category": "cultural",
-                  "coords": [
-                        -72.724559,
-                        45.39932
-                  ]
-            },
-            {
                   "name": "Verger Champêtre – gîte & compagnie",
                   "text": "Egy vidéki gyümölcsös és panzió, amely almászedést és vidéki tartózkodást kínál.",
                   "category": "landmark",
                   "coords": [
                         -72.836154,
                         45.394383
-                  ]
-            },
-            {
-                  "name": "Le P’tit Monde Des Grands",
-                  "text": "Egy gyermekmúzeum interaktív kiállításokkal és kreatív játszóterekkel.",
-                  "category": "museum",
-                  "coords": [
-                        -72.718001,
-                        45.406204
-                  ]
-            },
-            {
-                  "name": "parc André-Dansereau",
-                  "text": "A parc André-Dansereau egy szomszédsági park játszótérrel és sportpályákkal a Montreal Zoo közelében.",
-                  "category": "park",
-                  "coords": [
-                        -72.699744,
-                        45.391545
                   ]
             },
             {
@@ -2515,30 +2263,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "parc Vittie",
-                  "text": "A parc Vittie egy kis park vízi játszótérrel a Montreal Zoo közelében.",
-                  "category": "park",
-                  "coords": [
-                        -72.717482,
-                        45.395317
-                  ]
-            },
-            {
                   "name": "Parc Daniel-Johnson",
                   "text": "A Parc Daniel-Johnson egy lineáris park kerékpárúttal a Rivière des Prairies mentén, a Montreal Zoo közelében.",
                   "category": "park",
                   "coords": [
                         -72.706489,
                         45.401619
-                  ]
-            },
-            {
-                  "name": "Parc Napoléon-Fontaine",
-                  "text": "A Parc Napoléon-Fontaine egy park Napóleon-szoborral és rózsakerttel a Montreal Zoo közelében.",
-                  "category": "park",
-                  "coords": [
-                        -72.749365,
-                        45.403259
                   ]
             },
             {
@@ -2557,24 +2287,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -72.72235,
                         45.41877
-                  ]
-            },
-            {
-                  "name": "Amazoo Iögo",
-                  "text": "Az Amazoo Iögo egy vízipark csúszdákkal és pancsolóterületekkel az állatkertben.",
-                  "category": "recreational",
-                  "coords": [
-                        -72.720057,
-                        45.420013
-                  ]
-            },
-            {
-                  "name": "Parc Poitevin",
-                  "text": "A Parc Poitevin egy kis park az Állatkertben, nyugodt légköréről ismert.",
-                  "category": "park",
-                  "coords": [
-                        -72.730588,
-                        45.418834
                   ]
             }
       ],
@@ -2607,48 +2319,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Les Boisés Miner - Parc Écologique Pierre-Horace-Boivin",
-                  "text": "Acest parc ecologic oferă poteci împădurite și un mic iaz.",
-                  "category": "natural",
-                  "coords": [
-                        -72.725135,
-                        45.39187
-                  ]
-            },
-            {
-                  "name": "Le Palace de Granby",
-                  "text": "Le Palace de Granby este un teatru istoric care găzduiește filme și spectacole live.",
-                  "category": "cultural",
-                  "coords": [
-                        -72.724559,
-                        45.39932
-                  ]
-            },
-            {
                   "name": "Verger Champêtre – gîte & compagnie",
                   "text": "O livadă rurală și pensiune care oferă cules de mere și sejururi la țară.",
                   "category": "landmark",
                   "coords": [
                         -72.836154,
                         45.394383
-                  ]
-            },
-            {
-                  "name": "Le P’tit Monde Des Grands",
-                  "text": "Un muzeu pentru copii cu exponate interactive și zone de joacă creative.",
-                  "category": "museum",
-                  "coords": [
-                        -72.718001,
-                        45.406204
-                  ]
-            },
-            {
-                  "name": "parc André-Dansereau",
-                  "text": "Parcul André-Dansereau este un parc de cartier cu loc de joacă și terenuri de sport lângă Grădina Zoologică Montreal.",
-                  "category": "park",
-                  "coords": [
-                        -72.699744,
-                        45.391545
                   ]
             },
             {
@@ -2688,30 +2364,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "parc Vittie",
-                  "text": "Parcul Vittie este un parc mic cu o zonă de joacă cu apă lângă Grădina Zoologică Montreal.",
-                  "category": "park",
-                  "coords": [
-                        -72.717482,
-                        45.395317
-                  ]
-            },
-            {
                   "name": "Parc Daniel-Johnson",
                   "text": "Parcul Daniel-Johnson este un parc liniar cu o pistă de biciclete de-a lungul râului Prairies, lângă Grădina Zoologică Montreal.",
                   "category": "park",
                   "coords": [
                         -72.706489,
                         45.401619
-                  ]
-            },
-            {
-                  "name": "Parc Napoléon-Fontaine",
-                  "text": "Parcul Napoléon-Fontaine este un parc cu o statuie a lui Napoleon și o grădină de trandafiri lângă Grădina Zoologică Montreal.",
-                  "category": "park",
-                  "coords": [
-                        -72.749365,
-                        45.403259
                   ]
             },
             {
@@ -2730,24 +2388,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -72.72235,
                         45.41877
-                  ]
-            },
-            {
-                  "name": "Amazoo Iögo",
-                  "text": "Amazoo Iögo este un parc acvatic cu tobogane și zone de stropit în grădina zoologică.",
-                  "category": "recreational",
-                  "coords": [
-                        -72.720057,
-                        45.420013
-                  ]
-            },
-            {
-                  "name": "Parc Poitevin",
-                  "text": "Parc Poitevin este un parc mic din Grădina Zoologică, cunoscut pentru atmosfera sa liniștită.",
-                  "category": "park",
-                  "coords": [
-                        -72.730588,
-                        45.418834
                   ]
             }
       ],
@@ -2780,48 +2420,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Les Boisés Miner - Parc Écologique Pierre-Horace-Boivin",
-                  "text": "This ecological park features forested trails and a small pond.",
-                  "category": "natural",
-                  "coords": [
-                        -72.725135,
-                        45.39187
-                  ]
-            },
-            {
-                  "name": "Le Palace de Granby",
-                  "text": "Le Palace de Granby is a historic theatre hosting films and live shows.",
-                  "category": "cultural",
-                  "coords": [
-                        -72.724559,
-                        45.39932
-                  ]
-            },
-            {
                   "name": "Verger Champêtre – Gîte & compagnie",
                   "text": "A rural orchard and B&B offering apple picking and countryside stays.",
                   "category": "landmark",
                   "coords": [
                         -72.836154,
                         45.394383
-                  ]
-            },
-            {
-                  "name": "Le P’tit Monde Des Grands",
-                  "text": "A children's museum featuring interactive exhibits and creative play zones.",
-                  "category": "museum",
-                  "coords": [
-                        -72.718001,
-                        45.406204
-                  ]
-            },
-            {
-                  "name": "parc André-Dansereau",
-                  "text": "Parc André-Dansereau is a neighborhood park with a playground and sports fields near the Montreal Zoo.",
-                  "category": "park",
-                  "coords": [
-                        -72.699744,
-                        45.391545
                   ]
             },
             {
@@ -2861,30 +2465,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "parc Vittie",
-                  "text": "Parc Vittie is a small park with a water play area near the Montreal Zoo.",
-                  "category": "park",
-                  "coords": [
-                        -72.717482,
-                        45.395317
-                  ]
-            },
-            {
                   "name": "Parc Daniel-Johnson",
                   "text": "Parc Daniel-Johnson is a linear park with a bike path along the Rivière des Prairies near the Montreal Zoo.",
                   "category": "park",
                   "coords": [
                         -72.706489,
                         45.401619
-                  ]
-            },
-            {
-                  "name": "Parc Napoléon-Fontaine",
-                  "text": "Parc Napoléon-Fontaine is a park with a statue of Napoleon and a rose garden near the Montreal Zoo.",
-                  "category": "park",
-                  "coords": [
-                        -72.749365,
-                        45.403259
                   ]
             },
             {
@@ -2903,24 +2489,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -72.72235,
                         45.41877
-                  ]
-            },
-            {
-                  "name": "Amazoo Iögo",
-                  "text": "Amazoo Iögo is a water park with slides and splash areas inside the zoo.",
-                  "category": "recreational",
-                  "coords": [
-                        -72.720057,
-                        45.420013
-                  ]
-            },
-            {
-                  "name": "Parc Poitevin",
-                  "text": "Parc Poitevin is a small park in the Zoo, known for its quiet atmosphere.",
-                  "category": "park",
-                  "coords": [
-                        -72.730588,
-                        45.418834
                   ]
             }
       ]
@@ -4665,42 +4233,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                         -80.139207,
                         43.383769
                   ]
-            },
-            {
-                  "name": "Shade’s Mills Conservation Area",
-                  "text": "Shade’s Mills Conservation Area ist ein Naturschutzgebiet am Mill Creek, mit Wanderwegen und einem Stausee.",
-                  "category": "natural",
-                  "coords": [
-                        -80.28159,
-                        43.379951
-                  ]
-            },
-            {
-                  "name": "Toyota Amphitheatre",
-                  "text": "Ein Freiluft-Amphitheater, das Konzerte und große Veranstaltungen beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.286146,
-                        43.379054
-                  ]
-            },
-            {
-                  "name": "Our Lady of Fatima Church",
-                  "text": "Our Lady of Fatima Church ist eine römisch-katholische Kirche in der Nähe von Lion Safari, mit einem schlichten Backsteindesign.",
-                  "category": "religious",
-                  "coords": [
-                        -80.29167,
-                        43.345664
-                  ]
-            },
-            {
-                  "name": "Saint Ambrose Church",
-                  "text": "Saint Ambrose Church ist eine anglikanische Kirche in der Nähe von Lion Safari, mit einem traditionellen Steinbau.",
-                  "category": "religious",
-                  "coords": [
-                        -80.297325,
-                        43.353425
-                  ]
             }
       ],
       "hu": [
@@ -4783,42 +4315,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -80.139207,
                         43.383769
-                  ]
-            },
-            {
-                  "name": "Shade’s Mills Conservation Area",
-                  "text": "A Shade’s Mills Conservation Area egy természetvédelmi terület a Mill Creek mellett, túraútvonalakkal és egy tározóval.",
-                  "category": "natural",
-                  "coords": [
-                        -80.28159,
-                        43.379951
-                  ]
-            },
-            {
-                  "name": "Toyota Amphitheatre",
-                  "text": "Egy szabadtéri amfiteátrum, amely koncerteknek és nagy rendezvényeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.286146,
-                        43.379054
-                  ]
-            },
-            {
-                  "name": "Our Lady of Fatima Church",
-                  "text": "A Our Lady of Fatima Church egy római katolikus templom a Lion Safari közelében, egyszerű téglakialakítással.",
-                  "category": "religious",
-                  "coords": [
-                        -80.29167,
-                        43.345664
-                  ]
-            },
-            {
-                  "name": "Saint Ambrose Church",
-                  "text": "A Saint Ambrose Church egy anglikán templom a Lion Safari közelében, hagyományos kőépülettel.",
-                  "category": "religious",
-                  "coords": [
-                        -80.297325,
-                        43.353425
                   ]
             }
       ],
@@ -4903,42 +4399,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                         -80.139207,
                         43.383769
                   ]
-            },
-            {
-                  "name": "Shade’s Mills Conservation Area",
-                  "text": "Shade’s Mills Conservation Area este o arie protejată de pe Mill Creek, cu trasee de drumeție și un lac de acumulare.",
-                  "category": "natural",
-                  "coords": [
-                        -80.28159,
-                        43.379951
-                  ]
-            },
-            {
-                  "name": "Toyota Amphitheatre",
-                  "text": "Un amfiteatru în aer liber care găzduiește concerte și evenimente mari.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.286146,
-                        43.379054
-                  ]
-            },
-            {
-                  "name": "Our Lady of Fatima Church",
-                  "text": "Our Lady of Fatima Church este o biserică romano-catolică lângă Lion Safari, cu un design simplu de cărămidă.",
-                  "category": "religious",
-                  "coords": [
-                        -80.29167,
-                        43.345664
-                  ]
-            },
-            {
-                  "name": "Saint Ambrose Church",
-                  "text": "Saint Ambrose Church este o biserică anglicană lângă Lion Safari, cu o construcție tradițională din piatră.",
-                  "category": "religious",
-                  "coords": [
-                        -80.297325,
-                        43.353425
-                  ]
             }
       ],
       "en": [
@@ -5021,42 +4481,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -80.139207,
                         43.383769
-                  ]
-            },
-            {
-                  "name": "Shade’s Mills Conservation Area",
-                  "text": "Shade’s Mills Conservation Area is a nature reserve along Mill Creek, with hiking trails and a reservoir.",
-                  "category": "natural",
-                  "coords": [
-                        -80.28159,
-                        43.379951
-                  ]
-            },
-            {
-                  "name": "Toyota Amphitheatre",
-                  "text": "An outdoor amphitheatre that hosts concerts and large events.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.286146,
-                        43.379054
-                  ]
-            },
-            {
-                  "name": "Our Lady of Fatima Church",
-                  "text": "Our Lady of Fatima Church is a Roman Catholic church near Lion Safari, with a simple brick design.",
-                  "category": "religious",
-                  "coords": [
-                        -80.29167,
-                        43.345664
-                  ]
-            },
-            {
-                  "name": "Saint Ambrose Church",
-                  "text": "Saint Ambrose Church is an Anglican church near Lion Safari, with a traditional stone building.",
-                  "category": "religious",
-                  "coords": [
-                        -80.297325,
-                        43.353425
                   ]
             }
       ]
@@ -7729,78 +7153,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                         -64.888247,
                         46.138998
                   ]
-            },
-            {
-                  "name": "Centennial Park",
-                  "text": "Centennial Park ist ein großer Stadtpark in Moncton, mit einem See, Wanderwegen und einem Freibad.",
-                  "category": "park",
-                  "coords": [
-                        -64.824118,
-                        46.088952
-                  ]
-            },
-            {
-                  "name": "Sunny Brae Arena",
-                  "text": "Sunny Brae Arena ist eine Ruine im Magnetic Hill Gebiet, ein verfallenes Bauwerk.",
-                  "category": "historical",
-                  "coords": [
-                        -64.77629,
-                        46.10106
-                  ]
-            },
-            {
-                  "name": "Bell Tower",
-                  "text": "128 Meter hoher Telekommunikationsturm mit Aussichtsplattform.",
-                  "category": "tower",
-                  "coords": [
-                        -64.776599,
-                        46.089877
-                  ]
-            },
-            {
-                  "name": "Resurgo Place (Moncton Museum)",
-                  "text": "Museum zur Geschichte und zum Transportwesen von Moncton.",
-                  "category": "museum",
-                  "coords": [
-                        -64.774722,
-                        46.094059
-                  ]
-            },
-            {
-                  "name": "théâtre l'Escaouette",
-                  "text": "Dieses Theater in Magnetic Hill Zoo Life V2 bietet Aufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -64.778478,
-                        46.093931
-                  ]
-            },
-            {
-                  "name": "Notre-Dame De L'Assomption Cathedral",
-                  "text": "Diese Kathedrale in Magnetic Hill Zoo Life V2 ist ein Ort der Anbetung.",
-                  "category": "religious",
-                  "coords": [
-                        -64.781873,
-                        46.090822
-                  ]
-            },
-            {
-                  "name": "Victoria Park",
-                  "text": "Dieser Park in Magnetic Hill Zoo Life V2 bietet Grünflächen.",
-                  "category": "park",
-                  "coords": [
-                        -64.78973,
-                        46.092441
-                  ]
-            },
-            {
-                  "name": "The Venue",
-                  "text": "Dieses Theater in Magnetic Hill Zoo Life V2 ist ein Veranstaltungsort.",
-                  "category": "cultural",
-                  "coords": [
-                        -64.777838,
-                        46.087872
-                  ]
             }
       ],
       "hu": [
@@ -7874,78 +7226,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -64.888247,
                         46.138998
-                  ]
-            },
-            {
-                  "name": "Centennial Park",
-                  "text": "A Centennial Park egy nagy városi park Monctonban, tóval, túraútvonalakkal és szabadtéri medencével.",
-                  "category": "park",
-                  "coords": [
-                        -64.824118,
-                        46.088952
-                  ]
-            },
-            {
-                  "name": "Sunny Brae Arena",
-                  "text": "A Sunny Brae Arena egy rom a Magnetic Hill területen, egy romos építmény.",
-                  "category": "historical",
-                  "coords": [
-                        -64.77629,
-                        46.10106
-                  ]
-            },
-            {
-                  "name": "Bell Tower",
-                  "text": "128 méter magas távközlési torony kilátóval.",
-                  "category": "tower",
-                  "coords": [
-                        -64.776599,
-                        46.089877
-                  ]
-            },
-            {
-                  "name": "Resurgo Place (Moncton Museum)",
-                  "text": "Múzeum Moncton történelméről és közlekedéséről.",
-                  "category": "museum",
-                  "coords": [
-                        -64.774722,
-                        46.094059
-                  ]
-            },
-            {
-                  "name": "théâtre l'Escaouette",
-                  "text": "Ez a színház a Magnetic Hill Zoo Life V2-ben előadásokat tart.",
-                  "category": "cultural",
-                  "coords": [
-                        -64.778478,
-                        46.093931
-                  ]
-            },
-            {
-                  "name": "Notre-Dame De L'Assomption Cathedral",
-                  "text": "Ez a katedrális a Magnetic Hill Zoo Life V2-ben egy imahely.",
-                  "category": "religious",
-                  "coords": [
-                        -64.781873,
-                        46.090822
-                  ]
-            },
-            {
-                  "name": "Victoria Park",
-                  "text": "Ez a park a Magnetic Hill Zoo Life V2-ben zöldterületet biztosít.",
-                  "category": "park",
-                  "coords": [
-                        -64.78973,
-                        46.092441
-                  ]
-            },
-            {
-                  "name": "The Venue",
-                  "text": "Ez a színház a Magnetic Hill Zoo Life V2-ben egy előadóhely.",
-                  "category": "cultural",
-                  "coords": [
-                        -64.777838,
-                        46.087872
                   ]
             }
       ],
@@ -8021,78 +7301,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                         -64.888247,
                         46.138998
                   ]
-            },
-            {
-                  "name": "Centennial Park",
-                  "text": "Centennial Park este un parc urban mare în Moncton, cu un lac, trasee de drumeție și o piscină în aer liber.",
-                  "category": "park",
-                  "coords": [
-                        -64.824118,
-                        46.088952
-                  ]
-            },
-            {
-                  "name": "Sunny Brae Arena",
-                  "text": "Sunny Brae Arena este o ruină în zona Magnetic Hill, o construcție dărăpănată.",
-                  "category": "historical",
-                  "coords": [
-                        -64.77629,
-                        46.10106
-                  ]
-            },
-            {
-                  "name": "Bell Tower",
-                  "text": "Turn de telecomunicații de 128 de metri cu platformă de observație.",
-                  "category": "tower",
-                  "coords": [
-                        -64.776599,
-                        46.089877
-                  ]
-            },
-            {
-                  "name": "Resurgo Place (Moncton Museum)",
-                  "text": "Muzeu care prezintă istoria și transportul din Moncton.",
-                  "category": "museum",
-                  "coords": [
-                        -64.774722,
-                        46.094059
-                  ]
-            },
-            {
-                  "name": "théâtre l'Escaouette",
-                  "text": "Acest teatru din Magnetic Hill Zoo Life V2 găzduiește spectacole.",
-                  "category": "cultural",
-                  "coords": [
-                        -64.778478,
-                        46.093931
-                  ]
-            },
-            {
-                  "name": "Notre-Dame De L'Assomption Cathedral",
-                  "text": "Această catedrală din Magnetic Hill Zoo Life V2 este un loc de închinare.",
-                  "category": "religious",
-                  "coords": [
-                        -64.781873,
-                        46.090822
-                  ]
-            },
-            {
-                  "name": "Victoria Park",
-                  "text": "Acest parc din Magnetic Hill Zoo Life V2 oferă spații verzi.",
-                  "category": "park",
-                  "coords": [
-                        -64.78973,
-                        46.092441
-                  ]
-            },
-            {
-                  "name": "The Venue",
-                  "text": "Acest teatru din Magnetic Hill Zoo Life V2 este o locație de spectacole.",
-                  "category": "cultural",
-                  "coords": [
-                        -64.777838,
-                        46.087872
-                  ]
             }
       ],
       "en": [
@@ -8133,15 +7341,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Capitol Theatre",
-                  "text": "Capitol Theatre is an arts centre in the Magnetic Hill area hosting events.",
-                  "category": "cultural",
-                  "coords": [
-                        -64.779091,
-                        46.088317
-                  ]
-            },
-            {
                   "name": "Tankville School Museum",
                   "text": "Museum in a restored one-room schoolhouse from the Tankville area.",
                   "category": "museum",
@@ -8166,78 +7365,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -64.888247,
                         46.138998
-                  ]
-            },
-            {
-                  "name": "Centennial Park",
-                  "text": "Centennial Park is a large urban park in Moncton, with a lake, hiking trails, and an outdoor pool.",
-                  "category": "park",
-                  "coords": [
-                        -64.824118,
-                        46.088952
-                  ]
-            },
-            {
-                  "name": "Sunny Brae Arena",
-                  "text": "Sunny Brae Arena is a ruin in the Magnetic Hill area, a dilapidated structure.",
-                  "category": "historical",
-                  "coords": [
-                        -64.77629,
-                        46.10106
-                  ]
-            },
-            {
-                  "name": "Bell Tower",
-                  "text": "128-metre telecommunications tower with an observation deck.",
-                  "category": "tower",
-                  "coords": [
-                        -64.776599,
-                        46.089877
-                  ]
-            },
-            {
-                  "name": "Resurgo Place (Moncton Museum)",
-                  "text": "Museum showcasing Moncton's history and transportation.",
-                  "category": "museum",
-                  "coords": [
-                        -64.774722,
-                        46.094059
-                  ]
-            },
-            {
-                  "name": "théâtre l'Escaouette",
-                  "text": "This theatre in Magnetic Hill Zoo Life V2 hosts performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -64.778478,
-                        46.093931
-                  ]
-            },
-            {
-                  "name": "Cathedral of Our Lady of the Assumption",
-                  "text": "This cathedral in Magnetic Hill Zoo Life V2 is a place of worship.",
-                  "category": "religious",
-                  "coords": [
-                        -64.781873,
-                        46.090822
-                  ]
-            },
-            {
-                  "name": "Victoria Park",
-                  "text": "This park in Magnetic Hill Zoo Life V2 provides green space.",
-                  "category": "park",
-                  "coords": [
-                        -64.78973,
-                        46.092441
-                  ]
-            },
-            {
-                  "name": "The Venue",
-                  "text": "This theatre in Magnetic Hill Zoo Life V2 is a performance venue.",
-                  "category": "cultural",
-                  "coords": [
-                        -64.777838,
-                        46.087872
                   ]
             }
       ]
@@ -8485,15 +7612,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. Catharines City Hall",
-                  "text": "St. Catharines City Hall ist das historische Rathaus in St. Catharines, erbaut im neoklassizistischen Stil mit einer markanten Kuppel.",
-                  "category": "historical",
-                  "coords": [
-                        -79.246911,
-                        43.159252
-                  ]
-            },
-            {
                   "name": "Saint Patrick Roman Catholic Church",
                   "text": "Saint Patrick Roman Catholic Church ist eine römisch-katholische Kirche in St. Catharines, mit einem gotischen Turm und Buntglasfenstern.",
                   "category": "religious",
@@ -8512,138 +7630,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Congregation B'Nai Israel",
-                  "text": "Congregation B'Nai Israel ist eine Synagoge in St. Catharines, die der jüdischen Gemeinde dient, mit einem traditionellen Gebäude.",
-                  "category": "religious",
-                  "coords": [
-                        -79.237163,
-                        43.163613
-                  ]
-            },
-            {
-                  "name": "Rodman Hall Art Centre",
-                  "text": "Rodman Hall Art Centre ist ein Kunstzentrum in St. Catharines, untergebracht in einer historischen Villa mit wechselnden Ausstellungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.245934,
-                        43.149925
-                  ]
-            },
-            {
-                  "name": "St. Julia Catholic Church",
-                  "text": "St. Julia Catholic Church ist eine römisch-katholische Kirche in St. Catharines, mit einem modernen Glockenturm und einem Gemeindesaal.",
-                  "category": "religious",
-                  "coords": [
-                        -79.238652,
-                        43.139101
-                  ]
-            },
-            {
-                  "name": "St. Mary of the Assumption Church",
-                  "text": "St. Mary of the Assumption Church ist eine römisch-katholische Kirche in St. Catharines, mit einem traditionellen Altar und Wandmalereien.",
-                  "category": "religious",
-                  "coords": [
-                        -79.251819,
-                        43.147537
-                  ]
-            },
-            {
-                  "name": "Cathedral of Saint Catherine of Alexandria",
-                  "text": "Die Kathedrale der römisch-katholischen Diözese in St. Catharines.",
-                  "category": "religious",
-                  "coords": [
-                        -79.246834,
-                        43.160772
-                  ]
-            },
-            {
-                  "name": "FirstOntario Performing Arts Centre",
-                  "text": "FirstOntario Performing Arts Centre ist ein modernes Kulturzentrum in St. Catharines, mit einem Konzertsaal und einem Theater.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.242728,
-                        43.158387
-                  ]
-            },
-            {
                   "name": "Silver Spire United Church",
                   "text": "Silver Spire United Church ist eine United Church of Canada in St. Catharines, bekannt für ihren markanten silbernen Turm.",
                   "category": "religious",
                   "coords": [
                         -79.24085,
                         43.16012
-                  ]
-            },
-            {
-                  "name": "Knox Presbyterian Church",
-                  "text": "Die Knox Presbyterian Church in Icewine ist nach dem schottischen Reformator John Knox benannt.",
-                  "category": "religious",
-                  "coords": [
-                        -79.247866,
-                        43.15967
-                  ]
-            },
-            {
-                  "name": "St. Denis Catholic Church",
-                  "text": "Die St. Denis Catholic Church in Icewine ist dem Schutzpatron von Paris, dem heiligen Dionysius, geweiht.",
-                  "category": "religious",
-                  "coords": [
-                        -79.25058,
-                        43.172398
-                  ]
-            },
-            {
-                  "name": "St. George Ukrainian Orthodox Church",
-                  "text": "Die St. George Ukrainian Orthodox Church in Icewine gehört zur ukrainisch-orthodoxen Tradition.",
-                  "category": "religious",
-                  "coords": [
-                        -79.22401,
-                        43.176592
-                  ]
-            },
-            {
-                  "name": "St. Ignatius of Antioch",
-                  "text": "Die Kirche St. Ignatius of Antioch in Icewine ist nach dem frühchristlichen Märtyrer Ignatius von Antiochien benannt.",
-                  "category": "religious",
-                  "coords": [
-                        -79.233074,
-                        43.177631
-                  ]
-            },
-            {
-                  "name": "Sts. Cyril & Methodius Ukrainian Catholic Church",
-                  "text": "Die Sts. Cyril & Methodius Ukrainian Catholic Church in Icewine ist den Slawenaposteln Kyrill und Method gewidmet.",
-                  "category": "religious",
-                  "coords": [
-                        -79.231439,
-                        43.174323
-                  ]
-            },
-            {
-                  "name": "St. Alfred Catholic Church",
-                  "text": "Die St. Alfred Catholic Church in Icewine ist nach einem lokalen Heiligen benannt.",
-                  "category": "religious",
-                  "coords": [
-                        -79.229923,
-                        43.179553
-                  ]
-            },
-            {
-                  "name": "Our Lady of Perpetual Help Church",
-                  "text": "Die Our Lady of Perpetual Help Church in Icewine ist der Muttergottes unter dem Titel ‚Maria Hilf‘ geweiht.",
-                  "category": "religious",
-                  "coords": [
-                        -79.224267,
-                        43.178978
-                  ]
-            },
-            {
-                  "name": "Paroisse Immaculee Conception",
-                  "text": "Die Paroisse Immaculée Conception in Icewine ist eine französischsprachige katholische Pfarrei, die der Unbefleckten Empfängnis gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        -79.222001,
-                        43.179832
                   ]
             },
             {
@@ -8719,15 +7711,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "McCombs Family Burial Ground",
-                  "text": "Historischer Familienfriedhof mit alten Grabsteinen.",
-                  "category": "historical",
-                  "coords": [
-                        -79.234764,
-                        43.138781
-                  ]
-            },
-            {
                   "name": "First Nation Peace Monument",
                   "text": "Denkmal zur Erinnerung an Frieden und Freundschaft zwischen indigenen Völkern und Siedlern.",
                   "category": "historical",
@@ -8752,15 +7735,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -79.136007,
                         43.086491
-                  ]
-            },
-            {
-                  "name": "Spotlight Comedy Club",
-                  "text": "Ein gemütlicher Comedy-Club mit Bühne und Bar in Icewines Altstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.24513,
-                        43.156774
                   ]
             }
       ],
@@ -8802,15 +7776,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. Catharines City Hall",
-                  "text": "A St. Catharines City Hall a történelmi városháza St. Catharinesben, neoklasszikus stílusban épült, feltűnő kupolával.",
-                  "category": "historical",
-                  "coords": [
-                        -79.246911,
-                        43.159252
-                  ]
-            },
-            {
                   "name": "Saint Patrick Roman Catholic Church",
                   "text": "A Saint Patrick Roman Catholic Church egy római katolikus templom St. Catharinesben, gótikus toronnyal és ólomüveg ablakokkal.",
                   "category": "religious",
@@ -8829,138 +7794,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Congregation B'Nai Israel",
-                  "text": "A Congregation B'Nai Israel egy zsinagóga St. Catharinesben, a zsidó közösséget szolgálja, hagyományos épülettel.",
-                  "category": "religious",
-                  "coords": [
-                        -79.237163,
-                        43.163613
-                  ]
-            },
-            {
-                  "name": "Rodman Hall Art Centre",
-                  "text": "A Rodman Hall Art Centre egy művészeti központ St. Catharinesben, egy történelmi villában, időszakos kiállításokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.245934,
-                        43.149925
-                  ]
-            },
-            {
-                  "name": "St. Julia Catholic Church",
-                  "text": "A St. Julia Catholic Church egy római katolikus templom St. Catharinesben, modern harangtoronnyal és közösségi teremmel.",
-                  "category": "religious",
-                  "coords": [
-                        -79.238652,
-                        43.139101
-                  ]
-            },
-            {
-                  "name": "St. Mary of the Assumption Church",
-                  "text": "A St. Mary of the Assumption Church egy római katolikus templom St. Catharinesben, hagyományos oltárral és falfestményekkel.",
-                  "category": "religious",
-                  "coords": [
-                        -79.251819,
-                        43.147537
-                  ]
-            },
-            {
-                  "name": "Cathedral of Saint Catherine of Alexandria",
-                  "text": "A római katolikus egyházmegye székesegyháza St. Catharines-ben.",
-                  "category": "religious",
-                  "coords": [
-                        -79.246834,
-                        43.160772
-                  ]
-            },
-            {
-                  "name": "FirstOntario Performing Arts Centre",
-                  "text": "A FirstOntario Performing Arts Centre egy modern kulturális központ St. Catharinesben, koncertteremmel és színházzal.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.242728,
-                        43.158387
-                  ]
-            },
-            {
                   "name": "Silver Spire United Church",
                   "text": "A Silver Spire United Church a Kanadai Egyesült Egyház temploma St. Catharinesben, feltűnő ezüst tornyáról ismert.",
                   "category": "religious",
                   "coords": [
                         -79.24085,
                         43.16012
-                  ]
-            },
-            {
-                  "name": "Knox Presbyterian Church",
-                  "text": "Az Icewine-i Knox Presbyterian Church a skót reformátorról, John Knox-ról kapta a nevét.",
-                  "category": "religious",
-                  "coords": [
-                        -79.247866,
-                        43.15967
-                  ]
-            },
-            {
-                  "name": "St. Denis Catholic Church",
-                  "text": "Az Icewine-i St. Denis Catholic Church Párizs védőszentjének, Szent Dénesnek van szentelve.",
-                  "category": "religious",
-                  "coords": [
-                        -79.25058,
-                        43.172398
-                  ]
-            },
-            {
-                  "name": "St. George Ukrainian Orthodox Church",
-                  "text": "Az Icewine-i St. George Ukrainian Orthodox Church az ukrán ortodox hagyományhoz tartozik.",
-                  "category": "religious",
-                  "coords": [
-                        -79.22401,
-                        43.176592
-                  ]
-            },
-            {
-                  "name": "St. Ignatius of Antioch",
-                  "text": "Az Icewine-i Szent Ignác-templom a korakeresztény vértanúról, Antiókhiai Ignácról kapta a nevét.",
-                  "category": "religious",
-                  "coords": [
-                        -79.233074,
-                        43.177631
-                  ]
-            },
-            {
-                  "name": "Sts. Cyril & Methodius Ukrainian Catholic Church",
-                  "text": "Az Icewine-i Szent Cirill és Metód Ukrán Katolikus Templom a szláv apostoloknak, Cirillnek és Metódnak van szentelve.",
-                  "category": "religious",
-                  "coords": [
-                        -79.231439,
-                        43.174323
-                  ]
-            },
-            {
-                  "name": "St. Alfred Catholic Church",
-                  "text": "Az Icewine-i Szent Alfréd Katolikus Templom egy helyi szentről kapta a nevét.",
-                  "category": "religious",
-                  "coords": [
-                        -79.229923,
-                        43.179553
-                  ]
-            },
-            {
-                  "name": "Our Lady of Perpetual Help Church",
-                  "text": "Az Icewine-i Our Lady of Perpetual Help Church a Segítő Szűz Mária tiszteletére van szentelve.",
-                  "category": "religious",
-                  "coords": [
-                        -79.224267,
-                        43.178978
-                  ]
-            },
-            {
-                  "name": "Paroisse Immaculee Conception",
-                  "text": "Az Icewine-i Paroisse Immaculée Conception egy francia nyelvű katolikus plébánia, amely a Szeplőtelen Fogantatásnak van szentelve.",
-                  "category": "religious",
-                  "coords": [
-                        -79.222001,
-                        43.179832
                   ]
             },
             {
@@ -9036,15 +7875,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "McCombs Family Burial Ground",
-                  "text": "Történelmi családi temető régi sírkövekkel.",
-                  "category": "historical",
-                  "coords": [
-                        -79.234764,
-                        43.138781
-                  ]
-            },
-            {
                   "name": "First Nation Peace Monument",
                   "text": "Emlékmű a bennszülött népek és a telepesek közötti béke és barátság emlékére.",
                   "category": "historical",
@@ -9069,15 +7899,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -79.136007,
                         43.086491
-                  ]
-            },
-            {
-                  "name": "Spotlight Comedy Club",
-                  "text": "Egy hangulatos komédia klub színpaddal és bárral Icewine óvárosában.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.24513,
-                        43.156774
                   ]
             }
       ],
@@ -9119,15 +7940,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. Catharines City Hall",
-                  "text": "St. Catharines City Hall este primăria istorică din St. Catharines, construită în stil neoclasic cu o cupolă distinctivă.",
-                  "category": "historical",
-                  "coords": [
-                        -79.246911,
-                        43.159252
-                  ]
-            },
-            {
                   "name": "Saint Patrick Roman Catholic Church",
                   "text": "Saint Patrick Roman Catholic Church este o biserică romano-catolică în St. Catharines, cu un turn gotic și vitralii.",
                   "category": "religious",
@@ -9146,138 +7958,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Congregation B'Nai Israel",
-                  "text": "Congregation B'Nai Israel este o sinagogă în St. Catharines, care deservește comunitatea evreiască, cu o clădire tradițională.",
-                  "category": "religious",
-                  "coords": [
-                        -79.237163,
-                        43.163613
-                  ]
-            },
-            {
-                  "name": "Rodman Hall Art Centre",
-                  "text": "Rodman Hall Art Centre este un centru de artă în St. Catharines, găzduit într-o vilă istorică cu expoziții temporare.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.245934,
-                        43.149925
-                  ]
-            },
-            {
-                  "name": "St. Julia Catholic Church",
-                  "text": "St. Julia Catholic Church este o biserică romano-catolică în St. Catharines, cu un turn modern de clopot și o sală comunitară.",
-                  "category": "religious",
-                  "coords": [
-                        -79.238652,
-                        43.139101
-                  ]
-            },
-            {
-                  "name": "St. Mary of the Assumption Church",
-                  "text": "St. Mary of the Assumption Church este o biserică romano-catolică în St. Catharines, cu un altar tradițional și picturi murale.",
-                  "category": "religious",
-                  "coords": [
-                        -79.251819,
-                        43.147537
-                  ]
-            },
-            {
-                  "name": "Cathedral of Saint Catherine of Alexandria",
-                  "text": "Catedrala diecezei romano-catolice din St. Catharines.",
-                  "category": "religious",
-                  "coords": [
-                        -79.246834,
-                        43.160772
-                  ]
-            },
-            {
-                  "name": "FirstOntario Performing Arts Centre",
-                  "text": "FirstOntario Performing Arts Centre este un centru cultural modern în St. Catharines, cu o sală de concerte și un teatru.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.242728,
-                        43.158387
-                  ]
-            },
-            {
                   "name": "Silver Spire United Church",
                   "text": "Silver Spire United Church este o biserică a Bisericii Unite a Canadei în St. Catharines, cunoscută pentru turnul său argintiu distinctiv.",
                   "category": "religious",
                   "coords": [
                         -79.24085,
                         43.16012
-                  ]
-            },
-            {
-                  "name": "Knox Presbyterian Church",
-                  "text": "Biserica Presbiteriană Knox din Icewine poartă numele reformatorului scoțian John Knox.",
-                  "category": "religious",
-                  "coords": [
-                        -79.247866,
-                        43.15967
-                  ]
-            },
-            {
-                  "name": "St. Denis Catholic Church",
-                  "text": "Biserica Catolică St. Denis din Icewine este dedicată sfântului patron al Parisului, Sfântul Dionisie.",
-                  "category": "religious",
-                  "coords": [
-                        -79.25058,
-                        43.172398
-                  ]
-            },
-            {
-                  "name": "St. George Ukrainian Orthodox Church",
-                  "text": "Biserica Ortodoxă Ucraineană Sf. Gheorghe din Icewine aparține tradiției ortodoxe ucrainene.",
-                  "category": "religious",
-                  "coords": [
-                        -79.22401,
-                        43.176592
-                  ]
-            },
-            {
-                  "name": "St. Ignatius of Antioch",
-                  "text": "Biserica Sfântul Ignațiu al Antiohiei din Icewine poartă numele martirului creștin timpuriu Ignațiu al Antiohiei.",
-                  "category": "religious",
-                  "coords": [
-                        -79.233074,
-                        43.177631
-                  ]
-            },
-            {
-                  "name": "Sts. Cyril & Methodius Ukrainian Catholic Church",
-                  "text": "Biserica Catolică Ucraineană Sfinții Chiril și Metodie din Icewine este dedicată apostolilor slavilor, Chiril și Metodie.",
-                  "category": "religious",
-                  "coords": [
-                        -79.231439,
-                        43.174323
-                  ]
-            },
-            {
-                  "name": "St. Alfred Catholic Church",
-                  "text": "Biserica Catolică Sfântul Alfred din Icewine poartă numele unui sfânt local.",
-                  "category": "religious",
-                  "coords": [
-                        -79.229923,
-                        43.179553
-                  ]
-            },
-            {
-                  "name": "Our Lady of Perpetual Help Church",
-                  "text": "Biserica Maica Domnului a Ajutorului Perpetuu din Icewine este dedicată Fecioarei Maria sub titlul de Ajutorul Perpetuu.",
-                  "category": "religious",
-                  "coords": [
-                        -79.224267,
-                        43.178978
-                  ]
-            },
-            {
-                  "name": "Paroisse Immaculee Conception",
-                  "text": "Paroisse Immaculée Conception din Icewine este o parohie catolică francofonă dedicată Neprihănitei Zămisliri.",
-                  "category": "religious",
-                  "coords": [
-                        -79.222001,
-                        43.179832
                   ]
             },
             {
@@ -9353,15 +8039,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "McCombs Family Burial Ground",
-                  "text": "Cimitir istoric de familie cu pietre funerare vechi.",
-                  "category": "historical",
-                  "coords": [
-                        -79.234764,
-                        43.138781
-                  ]
-            },
-            {
                   "name": "First Nation Peace Monument",
                   "text": "Monument care comemorează pacea și prietenia dintre popoarele indigene și coloniști.",
                   "category": "historical",
@@ -9386,15 +8063,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -79.136007,
                         43.086491
-                  ]
-            },
-            {
-                  "name": "Spotlight Comedy Club",
-                  "text": "Un club de comedie intim cu scenă și bar în orașul vechi Icewine.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.24513,
-                        43.156774
                   ]
             }
       ],
@@ -9436,15 +8104,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. Catharines City Hall",
-                  "text": "St. Catharines City Hall is the historic city hall in St. Catharines, built in Neoclassical style with a distinctive dome.",
-                  "category": "historical",
-                  "coords": [
-                        -79.246911,
-                        43.159252
-                  ]
-            },
-            {
                   "name": "Saint Patrick Roman Catholic Church",
                   "text": "Saint Patrick Roman Catholic Church is a Roman Catholic church in St. Catharines, with a Gothic tower and stained glass.",
                   "category": "religious",
@@ -9463,138 +8122,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Congregation B'Nai Israel",
-                  "text": "Congregation B'Nai Israel is a synagogue in St. Catharines, serving the Jewish community, with a traditional building.",
-                  "category": "religious",
-                  "coords": [
-                        -79.237163,
-                        43.163613
-                  ]
-            },
-            {
-                  "name": "Rodman Hall Art Centre",
-                  "text": "Rodman Hall Art Centre is an art centre in St. Catharines, housed in a historic villa with rotating exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.245934,
-                        43.149925
-                  ]
-            },
-            {
-                  "name": "St. Julia Catholic Church",
-                  "text": "St. Julia Catholic Church is a Roman Catholic church in St. Catharines, with a modern bell tower and parish hall.",
-                  "category": "religious",
-                  "coords": [
-                        -79.238652,
-                        43.139101
-                  ]
-            },
-            {
-                  "name": "St. Mary of the Assumption Church",
-                  "text": "St. Mary of the Assumption Church is a Roman Catholic church in St. Catharines, with a traditional altar and murals.",
-                  "category": "religious",
-                  "coords": [
-                        -79.251819,
-                        43.147537
-                  ]
-            },
-            {
-                  "name": "Cathedral of Saint Catherine of Alexandria",
-                  "text": "The cathedral of the Roman Catholic diocese in St. Catharines.",
-                  "category": "religious",
-                  "coords": [
-                        -79.246834,
-                        43.160772
-                  ]
-            },
-            {
-                  "name": "FirstOntario Performing Arts Centre",
-                  "text": "FirstOntario Performing Arts Centre is a modern cultural centre in St. Catharines, with a concert hall and theatre.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.242728,
-                        43.158387
-                  ]
-            },
-            {
                   "name": "Silver Spire United Church",
                   "text": "Silver Spire United Church is a United Church of Canada in St. Catharines, known for its distinctive silver spire.",
                   "category": "religious",
                   "coords": [
                         -79.24085,
                         43.16012
-                  ]
-            },
-            {
-                  "name": "Knox Presbyterian Church",
-                  "text": "Knox Presbyterian Church in Icewine is named after the Scottish reformer John Knox.",
-                  "category": "religious",
-                  "coords": [
-                        -79.247866,
-                        43.15967
-                  ]
-            },
-            {
-                  "name": "St. Denis Catholic Church",
-                  "text": "St. Denis Catholic Church in Icewine is dedicated to the patron saint of Paris, Saint Denis.",
-                  "category": "religious",
-                  "coords": [
-                        -79.25058,
-                        43.172398
-                  ]
-            },
-            {
-                  "name": "St. George Ukrainian Orthodox Church",
-                  "text": "St. George Ukrainian Orthodox Church in Icewine follows the Ukrainian Orthodox tradition.",
-                  "category": "religious",
-                  "coords": [
-                        -79.22401,
-                        43.176592
-                  ]
-            },
-            {
-                  "name": "St. Ignatius of Antioch",
-                  "text": "St. Ignatius of Antioch Church in Icewine is named after the early Christian martyr Ignatius of Antioch.",
-                  "category": "religious",
-                  "coords": [
-                        -79.233074,
-                        43.177631
-                  ]
-            },
-            {
-                  "name": "Sts. Cyril & Methodius Ukrainian Catholic Church",
-                  "text": "Sts. Cyril & Methodius Ukrainian Catholic Church in Icewine is dedicated to the apostles to the Slavs, Cyril and Methodius.",
-                  "category": "religious",
-                  "coords": [
-                        -79.231439,
-                        43.174323
-                  ]
-            },
-            {
-                  "name": "St. Alfred Catholic Church",
-                  "text": "St. Alfred Catholic Church in Icewine is named after a local saint.",
-                  "category": "religious",
-                  "coords": [
-                        -79.229923,
-                        43.179553
-                  ]
-            },
-            {
-                  "name": "Our Lady of Perpetual Help Church",
-                  "text": "Our Lady of Perpetual Help Church in Icewine is dedicated to the Virgin Mary under the title of Perpetual Help.",
-                  "category": "religious",
-                  "coords": [
-                        -79.224267,
-                        43.178978
-                  ]
-            },
-            {
-                  "name": "Paroisse Immaculee Conception",
-                  "text": "Paroisse Immaculée Conception in Icewine is a French-speaking Catholic parish dedicated to the Immaculate Conception.",
-                  "category": "religious",
-                  "coords": [
-                        -79.222001,
-                        43.179832
                   ]
             },
             {
@@ -9670,15 +8203,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "McCombs Family Burial Ground",
-                  "text": "Historic family burial ground with old tombstones.",
-                  "category": "historical",
-                  "coords": [
-                        -79.234764,
-                        43.138781
-                  ]
-            },
-            {
                   "name": "First Nation Peace Monument",
                   "text": "Monument commemorating peace and friendship between Indigenous peoples and settlers.",
                   "category": "historical",
@@ -9703,15 +8227,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -79.136007,
                         43.086491
-                  ]
-            },
-            {
-                  "name": "Spotlight Comedy Club",
-                  "text": "A cozy comedy club with a stage and bar in Icewine's old town.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.24513,
-                        43.156774
                   ]
             }
       ]
@@ -9806,24 +8321,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
     id: "fraser-valley-blueberries-life-v2", "sights": {
       "de": [
             {
-                  "name": "The Reach",
-                  "text": "Kunstgalerie und Museum im Kulturviertel von Abbotsford.",
-                  "category": "museum",
-                  "coords": [
-                        -122.327286,
-                        49.052726
-                  ]
-            },
-            {
-                  "name": "Gur Sikh Temple",
-                  "text": "Erbaut 1911, dies ist der älteste erhaltene Sikh-Tempel Nordamerikas, heute ein Museum im Valley Blueberries Gebiet.",
-                  "category": "museum",
-                  "coords": [
-                        -122.307221,
-                        49.051049
-                  ]
-            },
-            {
                   "name": "City of Mission",
                   "text": "Das Rathaus von Mission ist das Rathaus in Mission, das als Sitz der lokalen Regierung dient.",
                   "category": "historical",
@@ -9851,15 +8348,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mill Lake Church",
-                  "text": "Die Mill Lake Church ist ein Gotteshaus in Abbotsford, Teil der Evangelischen Freikirche.",
-                  "category": "religious",
-                  "coords": [
-                        -122.304329,
-                        49.037831
-                  ]
-            },
-            {
                   "name": "St. Clares Monastery",
                   "text": "Das St. Clares Kloster ist ein Gotteshaus in Mission, Heimat des Ordens der Klarissen.",
                   "category": "religious",
@@ -9869,30 +8357,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Trethewey House",
-                  "text": "Denkmalgeschütztes Herrenhausmuseum, erbaut 1910 in Abbotsford.",
-                  "category": "museum",
-                  "coords": [
-                        -122.305033,
-                        49.043757
-                  ]
-            },
-            {
                   "name": "Abbotsford City Hall",
                   "text": "Das Abbotsford City Hall in Valley Blueberries ist der Sitz der Stadtverwaltung von Abbotsford.",
                   "category": "historical",
                   "coords": [
                         -122.329477,
                         49.052117
-                  ]
-            },
-            {
-                  "name": "Abbotsford Arts Centre Theatre",
-                  "text": "Das Abbotsford Arts Centre Theatre in Valley Blueberries ist ein Veranstaltungsort für Theater und Konzerte.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.299364,
-                        49.044502
                   ]
             },
             {
@@ -9911,24 +8381,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -122.311347,
                         49.044422
-                  ]
-            },
-            {
-                  "name": "Aurora Café + Roastery",
-                  "text": "Das Aurora Café + Roastery in Valley Blueberries ist ein Museum, das im Februar 2023 eröffnet wurde.",
-                  "category": "museum",
-                  "coords": [
-                        -122.29054,
-                        49.049318
-                  ]
-            },
-            {
-                  "name": "Abbotsford Sports Hall of Fame",
-                  "text": "Ein Museum für Sportlegenden aus Abbotsford, untergebracht in einer ehemaligen Turnhalle in Valley Blueberries.",
-                  "category": "museum",
-                  "coords": [
-                        -122.324429,
-                        49.061588
                   ]
             },
             {
@@ -9956,15 +8408,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -122.30577,
                         49.045253
-                  ]
-            },
-            {
-                  "name": "Mennonite Heritage Museum",
-                  "text": "Ein Museum über die mennonitische Geschichte mit einer rekonstruierten Scheune in Valley Blueberries.",
-                  "category": "museum",
-                  "coords": [
-                        -122.336084,
-                        49.034904
                   ]
             },
             {
@@ -10067,15 +8510,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santa Village",
-                  "text": "Ein Weihnachtsdorf mit einem Spielzeugladen und dem Haus des Weihnachtsmanns in Valley Blueberries.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.312126,
-                        49.048519
-                  ]
-            },
-            {
                   "name": "Valley Wake Park",
                   "text": "Ein Kabel-Wakeboard-Park mit einem See und Sprüngen in Valley Blueberries.",
                   "category": "landmark",
@@ -10105,24 +8539,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "The Reach",
-                  "text": "Művészeti galéria és múzeum Abbotsford kulturális negyedében.",
-                  "category": "museum",
-                  "coords": [
-                        -122.327286,
-                        49.052726
-                  ]
-            },
-            {
-                  "name": "Gur Sikh Temple",
-                  "text": "1911-ben épült, ez Észak-Amerika legrégebbi fennmaradt szikh temploma, ma múzeum a Valley Blueberries területen.",
-                  "category": "museum",
-                  "coords": [
-                        -122.307221,
-                        49.051049
-                  ]
-            },
-            {
                   "name": "City of Mission",
                   "text": "A City of Mission a városháza Missionben, amely a helyi önkormányzat székhelye.",
                   "category": "historical",
@@ -10150,15 +8566,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mill Lake Church",
-                  "text": "A Mill Lake Church egy istentiszteleti hely Abbotsfordban, az Evangélikus Szabadegyház része.",
-                  "category": "religious",
-                  "coords": [
-                        -122.304329,
-                        49.037831
-                  ]
-            },
-            {
                   "name": "St. Clares Monastery",
                   "text": "A St. Clares Monastery egy istentiszteleti hely Missionben, a Klarissza rend otthona.",
                   "category": "religious",
@@ -10168,30 +8575,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Trethewey House",
-                  "text": "Műemlék ház múzeum, 1910-ben épült Abbotsfordban.",
-                  "category": "museum",
-                  "coords": [
-                        -122.305033,
-                        49.043757
-                  ]
-            },
-            {
                   "name": "Abbotsford City Hall",
                   "text": "A Valley Blueberries-i Abbotsford City Hall az Abbotsford-i városvezetés székhelye.",
                   "category": "historical",
                   "coords": [
                         -122.329477,
                         49.052117
-                  ]
-            },
-            {
-                  "name": "Abbotsford Arts Centre Theatre",
-                  "text": "A Valley Blueberries-i Abbotsford Arts Centre Theatre színházi és koncerthelyszín.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.299364,
-                        49.044502
                   ]
             },
             {
@@ -10210,24 +8599,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -122.311347,
                         49.044422
-                  ]
-            },
-            {
-                  "name": "Aurora Café + Roastery",
-                  "text": "Az Aurora Café + Roastery Valley Blueberries-ban egy múzeum, amely 2023 februárjában nyílt meg.",
-                  "category": "museum",
-                  "coords": [
-                        -122.29054,
-                        49.049318
-                  ]
-            },
-            {
-                  "name": "Abbotsford Sports Hall of Fame",
-                  "text": "Egy sportmúzeum Abbotsford sportolóinak emlékére, egykori tornateremben Valley Blueberriesben.",
-                  "category": "museum",
-                  "coords": [
-                        -122.324429,
-                        49.061588
                   ]
             },
             {
@@ -10255,15 +8626,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -122.30577,
                         49.045253
-                  ]
-            },
-            {
-                  "name": "Mennonite Heritage Museum",
-                  "text": "Egy múzeum a mennonita történelemről, egy rekonstruált pajtában Valley Blueberriesben.",
-                  "category": "museum",
-                  "coords": [
-                        -122.336084,
-                        49.034904
                   ]
             },
             {
@@ -10366,15 +8728,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santa Village",
-                  "text": "Egy karácsonyi falu játékbolttal és a Télapó házával Valley Blueberriesben.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.312126,
-                        49.048519
-                  ]
-            },
-            {
                   "name": "Valley Wake Park",
                   "text": "Egy kábeles wakeboard park tóval és ugrásokkal Valley Blueberriesben.",
                   "category": "landmark",
@@ -10404,24 +8757,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "The Reach",
-                  "text": "Galerie de artă și muzeu în cartierul cultural din Abbotsford.",
-                  "category": "museum",
-                  "coords": [
-                        -122.327286,
-                        49.052726
-                  ]
-            },
-            {
-                  "name": "Gur Sikh Temple",
-                  "text": "Construit în 1911, acesta este cel mai vechi templu sikh supraviețuitor din America de Nord, acum muzeu în zona Valley Blueberries.",
-                  "category": "museum",
-                  "coords": [
-                        -122.307221,
-                        49.051049
-                  ]
-            },
-            {
                   "name": "City of Mission",
                   "text": "City of Mission este primăria din Mission, servind ca sediu al guvernului local.",
                   "category": "historical",
@@ -10449,15 +8784,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mill Lake Church",
-                  "text": "Biserica Mill Lake este un loc de cult în Abbotsford, parte a Bisericii Evanghelice Libere.",
-                  "category": "religious",
-                  "coords": [
-                        -122.304329,
-                        49.037831
-                  ]
-            },
-            {
                   "name": "St. Clares Monastery",
                   "text": "Mănăstirea St. Clares este un loc de cult în Mission, casă a ordinului Clarise.",
                   "category": "religious",
@@ -10467,30 +8793,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Trethewey House",
-                  "text": "Muzeu al casei de patrimoniu, construit în 1910 în Abbotsford.",
-                  "category": "museum",
-                  "coords": [
-                        -122.305033,
-                        49.043757
-                  ]
-            },
-            {
                   "name": "Abbotsford City Hall",
                   "text": "Primăria Abbotsford din Valley Blueberries este sediul administrației municipale a orașului Abbotsford.",
                   "category": "historical",
                   "coords": [
                         -122.329477,
                         49.052117
-                  ]
-            },
-            {
-                  "name": "Abbotsford Arts Centre Theatre",
-                  "text": "Teatrul Abbotsford Arts Centre din Valley Blueberries este un loc pentru piese de teatru și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.299364,
-                        49.044502
                   ]
             },
             {
@@ -10509,24 +8817,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -122.311347,
                         49.044422
-                  ]
-            },
-            {
-                  "name": "Aurora Café + Roastery",
-                  "text": "Aurora Café + Roastery din Valley Blueberries este un muzeu deschis în februarie 2023.",
-                  "category": "museum",
-                  "coords": [
-                        -122.29054,
-                        49.049318
-                  ]
-            },
-            {
-                  "name": "Abbotsford Sports Hall of Fame",
-                  "text": "Un muzeu al sportivilor din Abbotsford, găzduit într-o fostă sală de sport în Valley Blueberries.",
-                  "category": "museum",
-                  "coords": [
-                        -122.324429,
-                        49.061588
                   ]
             },
             {
@@ -10554,15 +8844,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -122.30577,
                         49.045253
-                  ]
-            },
-            {
-                  "name": "Mennonite Heritage Museum",
-                  "text": "Un muzeu al istoriei menonite, cu un hambar reconstruit în Valley Blueberries.",
-                  "category": "museum",
-                  "coords": [
-                        -122.336084,
-                        49.034904
                   ]
             },
             {
@@ -10665,15 +8946,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santa Village",
-                  "text": "Un sat de Crăciun cu un magazin de jucării și casa lui Moș Crăciun în Valley Blueberries.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.312126,
-                        49.048519
-                  ]
-            },
-            {
                   "name": "Valley Wake Park",
                   "text": "Un parc de wakeboarding cu cablu, cu un lac și rampe în Valley Blueberries.",
                   "category": "landmark",
@@ -10703,24 +8975,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "The Reach",
-                  "text": "Art gallery and museum in Abbotsford's cultural district.",
-                  "category": "museum",
-                  "coords": [
-                        -122.327286,
-                        49.052726
-                  ]
-            },
-            {
-                  "name": "Gur Sikh Temple",
-                  "text": "Built in 1911, this is the oldest surviving Sikh temple in North America, now a museum in the Valley Blueberries area.",
-                  "category": "museum",
-                  "coords": [
-                        -122.307221,
-                        49.051049
-                  ]
-            },
-            {
                   "name": "City of Mission",
                   "text": "City of Mission is the town hall in Mission, serving as the seat of local government.",
                   "category": "historical",
@@ -10748,15 +9002,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mill Lake Church",
-                  "text": "Mill Lake Church is a place of worship in Abbotsford, part of the Evangelical Free Church.",
-                  "category": "religious",
-                  "coords": [
-                        -122.304329,
-                        49.037831
-                  ]
-            },
-            {
                   "name": "St. Clares Monastery",
                   "text": "St. Clares Monastery is a place of worship in Mission, home to the Poor Clares order.",
                   "category": "religious",
@@ -10766,30 +9011,12 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Trethewey House",
-                  "text": "Heritage house museum built in 1910 in Abbotsford.",
-                  "category": "museum",
-                  "coords": [
-                        -122.305033,
-                        49.043757
-                  ]
-            },
-            {
                   "name": "Abbotsford City Hall",
                   "text": "Abbotsford City Hall in Valley Blueberries is the seat of municipal government for Abbotsford.",
                   "category": "historical",
                   "coords": [
                         -122.329477,
                         49.052117
-                  ]
-            },
-            {
-                  "name": "Abbotsford Arts Centre Theatre",
-                  "text": "Abbotsford Arts Centre Theatre in Valley Blueberries is a venue for plays and concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.299364,
-                        49.044502
                   ]
             },
             {
@@ -10808,24 +9035,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -122.311347,
                         49.044422
-                  ]
-            },
-            {
-                  "name": "Aurora Café + Roastery",
-                  "text": "Aurora Café + Roastery in Valley Blueberries is a museum that opened in February 2023.",
-                  "category": "museum",
-                  "coords": [
-                        -122.29054,
-                        49.049318
-                  ]
-            },
-            {
-                  "name": "Abbotsford Sports Hall of Fame",
-                  "text": "A museum honouring Abbotsford sports legends, housed in a former gymnasium in Valley Blueberries.",
-                  "category": "museum",
-                  "coords": [
-                        -122.324429,
-                        49.061588
                   ]
             },
             {
@@ -10853,15 +9062,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -122.30577,
                         49.045253
-                  ]
-            },
-            {
-                  "name": "Mennonite Heritage Museum",
-                  "text": "A museum of Mennonite history, with a reconstructed barn in Valley Blueberries.",
-                  "category": "museum",
-                  "coords": [
-                        -122.336084,
-                        49.034904
                   ]
             },
             {
@@ -10961,15 +9161,6 @@ export const poiExtraCanadaLifeV2: POI[] = [
                   "coords": [
                         -122.277492,
                         49.040218
-                  ]
-            },
-            {
-                  "name": "Santa Village",
-                  "text": "A Christmas village with a toy shop and Santa's house in Valley Blueberries.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.312126,
-                        49.048519
                   ]
             },
             {

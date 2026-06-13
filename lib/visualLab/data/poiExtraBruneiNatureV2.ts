@@ -987,15 +987,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Galeri Warisan Kesenian dan Kebudayaan Daerah Temburong",
-                  "text": "Die Galeri Warisan Kesenian dan Kebudayaan in Temburong stellt historische Kunstwerke und traditionelle Kulturgüter des Bezirks aus.",
-                  "category": "museum",
-                  "coords": [
-                        115.072285,
-                        4.7064
-                  ]
-            },
-            {
                   "name": "Surau Syurfatul Jannah",
                   "text": "Der islamische Gebetsraum Surau Syurfatul Jannah am Temburong River bietet Anwohnern einen spirituellen Treffpunkt.",
                   "category": "landmark",
@@ -1184,15 +1175,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
                   "coords": [
                         115.021145,
                         4.765582
-                  ]
-            },
-            {
-                  "name": "Galeri Warisan Kesenian dan Kebudayaan Daerah Temburong",
-                  "text": "A temburongi Galeri Warisan Kesenian dan Kebudayaan a kerület történelmi műalkotásait és hagyományos kulturális tárgyait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        115.072285,
-                        4.7064
                   ]
             },
             {
@@ -1387,15 +1369,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Galeri Warisan Kesenian dan Kebudayaan Daerah Temburong",
-                  "text": "Galeri Warisan Kesenian dan Kebudayaan din Temburong expune opere de artă istorice și bunuri culturale tradiționale ale districtului.",
-                  "category": "museum",
-                  "coords": [
-                        115.072285,
-                        4.7064
-                  ]
-            },
-            {
                   "name": "Surau Syurfatul Jannah",
                   "text": "Sala de rugăciune islamică Surau Syurfatul Jannah de lângă râul Temburong oferă locuitorilor un loc de întâlnire spirituală.",
                   "category": "landmark",
@@ -1584,15 +1557,6 @@ export const poiExtraBruneiNatureV2: POI[] = [
                   "coords": [
                         115.021145,
                         4.765582
-                  ]
-            },
-            {
-                  "name": "Galeri Warisan Kesenian dan Kebudayaan Daerah Temburong",
-                  "text": "The Galeri Warisan Kesenian dan Kebudayaan in Temburong exhibits historical artworks and traditional cultural artifacts of the district.",
-                  "category": "museum",
-                  "coords": [
-                        115.072285,
-                        4.7064
                   ]
             },
             {

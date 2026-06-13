@@ -1654,17 +1654,6 @@ export const poiExtraHuV4: POI[] = [
                         16.696044,
                         47.635941
                   ]
-            },
-            {
-                  "name": "Széchenyi Museumsbahn",
-                  "text": "Eine historische Schmalspurbahn, die Fahrgäste mit Dampflokomotiven in die Vergangenheit entführt.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "source_hint": "wiki",
-                  "coords": [
-                        16.705711,
-                        47.610725
-                  ]
             }
       ],
       "ro": [
@@ -1701,17 +1690,6 @@ export const poiExtraHuV4: POI[] = [
                   "coords": [
                         16.696044,
                         47.635941
-                  ]
-            },
-            {
-                  "name": "Széchenyi Museum Railway",
-                  "text": "A nostalgic narrow-gauge railway line running through the scenic countryside of the Fertő region.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "source_hint": "wiki",
-                  "coords": [
-                        16.705711,
-                        47.610725
                   ]
             }
       ]

@@ -1023,39 +1023,12 @@ export const poiExtraYemenEconomicV2: POI[] = [
     id: "ash-shihr-oil-terminal-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Almehdar Museum",
-                  "text": "Das Almehdar Museum ist eine lokale Einrichtung zur Bewahrung der Geschichte in Ash Shihr.",
-                  "category": "museum",
-                  "coords": [
-                        49.607903,
-                        14.766698
-                  ]
-            },
-            {
-                  "name": "Alkhaishah",
-                  "text": "Alkhaishah bietet historische Ruinen, die einen Einblick in die Vergangenheit von Ash Shihr geben.",
-                  "category": "historical",
-                  "coords": [
-                        49.601253,
-                        14.757786
-                  ]
-            },
-            {
                   "name": "Marir",
                   "text": "Marir ist eine archäologische Stätte mit historischen Ruinen in Ash Shihr.",
                   "category": "historical",
                   "coords": [
                         49.583333,
                         14.75
-                  ]
-            },
-            {
-                  "name": "Bin Ayyash Fort",
-                  "text": "Das Fort Bin Ayyash ist eine historische Verteidigungsanlage in Ash Shihr.",
-                  "category": "fortress",
-                  "coords": [
-                        49.604455,
-                        14.755225
                   ]
             },
             {
@@ -1376,39 +1349,12 @@ export const poiExtraYemenEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Almehdar Museum",
-                  "text": "Az Almehdar Múzeum egy helyi intézmény, amely a történelem megőrzésének szenteli magát Ash Shihr városában.",
-                  "category": "museum",
-                  "coords": [
-                        49.607903,
-                        14.766698
-                  ]
-            },
-            {
-                  "name": "Alkhaishah",
-                  "text": "Alkhaishah történelmi romokkal rendelkezik, amelyek bepillantást engednek Ash Shihr múltjába.",
-                  "category": "historical",
-                  "coords": [
-                        49.601253,
-                        14.757786
-                  ]
-            },
-            {
                   "name": "Marir",
                   "text": "Marir egy régészeti lelőhely, amely történelmi romokat tartalmaz Ash Shihr területén.",
                   "category": "historical",
                   "coords": [
                         49.583333,
                         14.75
-                  ]
-            },
-            {
-                  "name": "Bin Ayyash Fort",
-                  "text": "A Bin Ayyash erőd egy történelmi védelmi építmény Ash Shihr városában.",
-                  "category": "fortress",
-                  "coords": [
-                        49.604455,
-                        14.755225
                   ]
             },
             {
@@ -1729,39 +1675,12 @@ export const poiExtraYemenEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Almehdar Museum",
-                  "text": "Muzeul Almehdar este o instituție locală dedicată conservării istoriei din Ash Shihr.",
-                  "category": "museum",
-                  "coords": [
-                        49.607903,
-                        14.766698
-                  ]
-            },
-            {
-                  "name": "Alkhaishah",
-                  "text": "Alkhaishah prezintă ruine istorice care oferă o privire în trecutul din Ash Shihr.",
-                  "category": "historical",
-                  "coords": [
-                        49.601253,
-                        14.757786
-                  ]
-            },
-            {
                   "name": "Marir",
                   "text": "Marir este un sit arheologic care conține ruine istorice din Ash Shihr.",
                   "category": "historical",
                   "coords": [
                         49.583333,
                         14.75
-                  ]
-            },
-            {
-                  "name": "Bin Ayyash Fort",
-                  "text": "Fortul Bin Ayyash este o structură defensivă istorică situată în Ash Shihr.",
-                  "category": "fortress",
-                  "coords": [
-                        49.604455,
-                        14.755225
                   ]
             },
             {
@@ -2082,39 +2001,12 @@ export const poiExtraYemenEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Almehdar Museum",
-                  "text": "Almehdar Museum is a local institution dedicated to preserving history in Ash Shihr.",
-                  "category": "museum",
-                  "coords": [
-                        49.607903,
-                        14.766698
-                  ]
-            },
-            {
-                  "name": "Alkhaishah",
-                  "text": "Alkhaishah features historic ruins that offer a glimpse into the past of Ash Shihr.",
-                  "category": "historical",
-                  "coords": [
-                        49.601253,
-                        14.757786
-                  ]
-            },
-            {
                   "name": "Marir",
                   "text": "Marir is an archaeological site containing historical ruins in Ash Shihr.",
                   "category": "historical",
                   "coords": [
                         49.583333,
                         14.75
-                  ]
-            },
-            {
-                  "name": "Bin Ayyash Fort",
-                  "text": "Bin Ayyash Fort is a historical defensive structure located in Ash Shihr.",
-                  "category": "fortress",
-                  "coords": [
-                        49.604455,
-                        14.755225
                   ]
             },
             {

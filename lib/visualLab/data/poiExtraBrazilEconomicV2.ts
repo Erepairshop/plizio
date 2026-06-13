@@ -16406,15 +16406,6 @@ export const poiExtraBrazilEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro do SESI",
-                  "text": "Dieses von der SESI-Organisation betriebene Theater ist für seine qualitativ hochwertigen Produktionen bekannt.",
-                  "category": "cultural",
-                  "coords": [
-                        -45.884915,
-                        -23.248835
-                  ]
-            },
-            {
                   "name": "EducaMais Jacareí",
                   "text": "Ein modernes Bildungszentrum mit großem Auditorium für kulturelle Veranstaltungen in Jacareí.",
                   "category": "cultural",
@@ -16702,15 +16693,6 @@ export const poiExtraBrazilEconomicV2: POI[] = [
                   "coords": [
                         -45.890035,
                         -23.258538
-                  ]
-            },
-            {
-                  "name": "Teatro do SESI",
-                  "text": "Ez a SESI szervezet által fenntartott színház a magas színvonalú kulturális produkcióiról ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        -45.884915,
-                        -23.248835
                   ]
             },
             {
@@ -17004,15 +16986,6 @@ export const poiExtraBrazilEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro do SESI",
-                  "text": "Operat de organizația SESI, acest teatru este cunoscut pentru producțiile sale culturale de calitate.",
-                  "category": "cultural",
-                  "coords": [
-                        -45.884915,
-                        -23.248835
-                  ]
-            },
-            {
                   "name": "EducaMais Jacareí",
                   "text": "Un centru educațional modern cu un auditorium mare pentru evenimente culturale în Jacareí.",
                   "category": "cultural",
@@ -17300,15 +17273,6 @@ export const poiExtraBrazilEconomicV2: POI[] = [
                   "coords": [
                         -45.890035,
                         -23.258538
-                  ]
-            },
-            {
-                  "name": "Teatro do SESI",
-                  "text": "Operated by the SESI organization, this theater is known for its high-quality cultural productions.",
-                  "category": "cultural",
-                  "coords": [
-                        -45.884915,
-                        -23.248835
                   ]
             },
             {

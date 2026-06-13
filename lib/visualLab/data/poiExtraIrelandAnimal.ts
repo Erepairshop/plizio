@@ -309,30 +309,12 @@ export const poiExtraIrelandAnimal = [
                   ]
             },
             {
-                  "name": "Caherconnell",
-                  "text": "Ein gut erhaltenes Steinringfort im Herzen des Burren.",
-                  "category": "historical",
-                  "coords": [
-                        -9.141311,
-                        53.041317
-                  ]
-            },
-            {
                   "name": "Newtown Castle",
                   "text": "Ein zylindrisches Turmhaus aus dem 16. Jahrhundert mit einer einzigartigen pyramidalen Basis im Burren.",
                   "category": "castle",
                   "coords": [
                         -9.169293,
                         53.103858
-                  ]
-            },
-            {
-                  "name": "Poulnabrone Dolmen",
-                  "text": "Eines der berühmtesten neolithischen Portalgräber Irlands, gelegen auf dem Kalksteinplateau des Burren.",
-                  "category": "historical",
-                  "coords": [
-                        -9.140043,
-                        53.048695
                   ]
             },
             {
@@ -374,30 +356,12 @@ export const poiExtraIrelandAnimal = [
                   ]
             },
             {
-                  "name": "Caherconnell",
-                  "text": "Egy jól megőrzött kővár a Burren szívében.",
-                  "category": "historical",
-                  "coords": [
-                        -9.141311,
-                        53.041317
-                  ]
-            },
-            {
                   "name": "Newtown Castle",
                   "text": "Egy 16. századi hengeres toronyház egyedi piramis alakú alappal a Burren területén.",
                   "category": "castle",
                   "coords": [
                         -9.169293,
                         53.103858
-                  ]
-            },
-            {
-                  "name": "Poulnabrone Dolmen",
-                  "text": "Írország egyik leghíresebb újkőkorszaki síremléke, amely a Burren mészkőfennsíkján található.",
-                  "category": "historical",
-                  "coords": [
-                        -9.140043,
-                        53.048695
                   ]
             },
             {
@@ -439,30 +403,12 @@ export const poiExtraIrelandAnimal = [
                   ]
             },
             {
-                  "name": "Caherconnell",
-                  "text": "Un fort inelar din piatră bine conservat, situat în inima regiunii Burren.",
-                  "category": "historical",
-                  "coords": [
-                        -9.141311,
-                        53.041317
-                  ]
-            },
-            {
                   "name": "Newtown Castle",
                   "text": "O casă-turn cilindrică din secolul al XVI-lea, cu o bază piramidală unică, situată în Burren.",
                   "category": "castle",
                   "coords": [
                         -9.169293,
                         53.103858
-                  ]
-            },
-            {
-                  "name": "Poulnabrone Dolmen",
-                  "text": "Unul dintre cele mai faimoase morminte portale neolitice din Irlanda, situat pe platoul calcaros din Burren.",
-                  "category": "historical",
-                  "coords": [
-                        -9.140043,
-                        53.048695
                   ]
             },
             {
@@ -504,30 +450,12 @@ export const poiExtraIrelandAnimal = [
                   ]
             },
             {
-                  "name": "Caherconnell",
-                  "text": "A well-preserved stone ring fort situated in the heart of the Burren.",
-                  "category": "historical",
-                  "coords": [
-                        -9.141311,
-                        53.041317
-                  ]
-            },
-            {
                   "name": "Newtown Castle",
                   "text": "A 16th-century cylindrical tower house with a unique pyramidal base in the Burren.",
                   "category": "castle",
                   "coords": [
                         -9.169293,
                         53.103858
-                  ]
-            },
-            {
-                  "name": "Poulnabrone Dolmen",
-                  "text": "One of Ireland's most famous Neolithic portal tombs, located on the limestone pavement of the Burren.",
-                  "category": "historical",
-                  "coords": [
-                        -9.140043,
-                        53.048695
                   ]
             },
             {

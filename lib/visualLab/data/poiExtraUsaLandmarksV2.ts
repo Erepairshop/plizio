@@ -24,39 +24,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "International Photography Hall of Fame and Museum",
-                  "text": "Die International Photography Hall of Fame ehrt Fotografen und zeigt Fotogeschichte im Gateway Arch Landmarks Gebiet.",
-                  "category": "museum",
-                  "coords": [
-                        -90.228727,
-                        38.636798
-                  ]
-            },
-            {
                   "name": "National Blues Museum",
                   "text": "Das National Blues Museum feiert die Geschichte und den Einfluss der Bluesmusik im Gateway Arch Landmarks Gebiet.",
                   "category": "museum",
                   "coords": [
                         -90.189846,
                         38.630516
-                  ]
-            },
-            {
-                  "name": "Scott Joplin House",
-                  "text": "Das Scott Joplin Haus ist das ehemalige Zuhause des Ragtime-Komponisten Scott Joplin im Gateway Arch Landmarks Gebiet.",
-                  "category": "museum",
-                  "coords": [
-                        -90.214942,
-                        38.637041
-                  ]
-            },
-            {
-                  "name": "The Griot Museum of Black History",
-                  "text": "Das Griot Museum of Black History konzentriert sich auf die afroamerikanische Geschichte der Region St. Louis im Gateway Arch Landmarks Gebiet.",
-                  "category": "museum",
-                  "coords": [
-                        -90.209245,
-                        38.652947
                   ]
             },
             {
@@ -96,30 +69,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Soldiers Memorial Military Museum",
-                  "text": "Das Soldiers Memorial Military Museum ehrt die Veteranen der Region St. Louis im Gateway Arch Landmarks Gebiet.",
-                  "category": "museum",
-                  "coords": [
-                        -90.200044,
-                        38.629035
-                  ]
-            },
-            {
                   "name": "Campbell House Museum",
                   "text": "Das Campbell House Museum ist ein historisches Hausmuseum aus den 1850er Jahren im Gateway Arch Landmarks Gebiet.",
                   "category": "museum",
                   "coords": [
                         -90.201844,
                         38.631257
-                  ]
-            },
-            {
-                  "name": "City Museum",
-                  "text": "Das City Museum ist aus recycelten Architekturelementen gebaut im Gateway Arch Landmarks Gebiet.",
-                  "category": "museum",
-                  "coords": [
-                        -90.200446,
-                        38.633608
                   ]
             },
             {
@@ -156,15 +111,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -90.273614,
                         38.653999
-                  ]
-            },
-            {
-                  "name": "Central Baptist Church",
-                  "text": "Gotisch-neugotische Baptistenkirche im Central West End von St. Louis.",
-                  "category": "religious",
-                  "coords": [
-                        -90.219288,
-                        38.635926
                   ]
             },
             {
@@ -222,30 +168,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Powell Symphony Hall",
-                  "text": "Historisches Konzerthaus am Grand Boulevard, Heimat des St. Louis Symphony Orchestra.",
-                  "category": "cultural",
-                  "coords": [
-                        -90.229963,
-                        38.640134
-                  ]
-            },
-            {
                   "name": "Quinn Chapel African Methodist Episcopal Church",
                   "text": "Historische afroamerikanische AME-Kirche im Zentrum von St. Louis.",
                   "category": "religious",
                   "coords": [
                         -90.247888,
                         38.55886
-                  ]
-            },
-            {
-                  "name": "Centenary Methodist Episcopal Church",
-                  "text": "Methodistenkirche im Greek-Revival-Stil in St. Louis.",
-                  "category": "religious",
-                  "coords": [
-                        -90.20372,
-                        38.630465
                   ]
             },
             {
@@ -273,24 +201,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -90.190378,
                         38.617959
-                  ]
-            },
-            {
-                  "name": "Saint Raymond Maronite Cathedral",
-                  "text": "Maronitisch-katholische Kathedrale, Sitz der Eparchie Unserer Lieben Frau vom Libanon.",
-                  "category": "religious",
-                  "coords": [
-                        -90.199129,
-                        38.617732
-                  ]
-            },
-            {
-                  "name": "Trinity Lutheran Church",
-                  "text": "Lutherische Kirche im neugotischen Stil im Central West End von St. Louis.",
-                  "category": "religious",
-                  "coords": [
-                        -90.202881,
-                        38.609315
                   ]
             },
             {
@@ -368,39 +278,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "International Photography Hall of Fame and Museum",
-                  "text": "A Nemzetközi Fényképészeti Hírességek Csarnoka fotósokat tisztel és fényképészeti történetet mutat be a Gateway Arch Landmarks területén.",
-                  "category": "museum",
-                  "coords": [
-                        -90.228727,
-                        38.636798
-                  ]
-            },
-            {
                   "name": "National Blues Museum",
                   "text": "A Nemzeti Blues Múzeum a blues zene történetét és hatását ünnepli a Gateway Arch Landmarks területén.",
                   "category": "museum",
                   "coords": [
                         -90.189846,
                         38.630516
-                  ]
-            },
-            {
-                  "name": "Scott Joplin House",
-                  "text": "A Scott Joplin Ház a ragtime zeneszerző Scott Joplin egykori otthona a Gateway Arch Landmarks területén.",
-                  "category": "museum",
-                  "coords": [
-                        -90.214942,
-                        38.637041
-                  ]
-            },
-            {
-                  "name": "The Griot Museum of Black History",
-                  "text": "A Griot Múzeum a fekete történelemre összpontosít a St. Louis régióban, a Gateway Arch Landmarks területén.",
-                  "category": "museum",
-                  "coords": [
-                        -90.209245,
-                        38.652947
                   ]
             },
             {
@@ -440,30 +323,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Soldiers Memorial Military Museum",
-                  "text": "A Katonák Emlékmúzeuma a St. Louis-i veteránokat tiszteli a Gateway Arch Landmarks területén.",
-                  "category": "museum",
-                  "coords": [
-                        -90.200044,
-                        38.629035
-                  ]
-            },
-            {
                   "name": "Campbell House Museum",
                   "text": "A Campbell Ház Múzeum egy történelmi lakóház múzeum az 1850-es évekből a Gateway Arch Landmarks területén.",
                   "category": "museum",
                   "coords": [
                         -90.201844,
                         38.631257
-                  ]
-            },
-            {
-                  "name": "City Museum",
-                  "text": "A City Museum újrahasznosított építészeti elemekből épült a Gateway Arch Landmarks területén.",
-                  "category": "museum",
-                  "coords": [
-                        -90.200446,
-                        38.633608
                   ]
             },
             {
@@ -500,15 +365,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -90.273614,
                         38.653999
-                  ]
-            },
-            {
-                  "name": "Central Baptist Church",
-                  "text": "Gótikus neogótikus baptista templom St. Louis Central West End negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        -90.219288,
-                        38.635926
                   ]
             },
             {
@@ -566,30 +422,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Powell Symphony Hall",
-                  "text": "Történelmi koncertterem a Grand Boulevard-on, a St. Louis Szimfonikus Zenekar otthona.",
-                  "category": "cultural",
-                  "coords": [
-                        -90.229963,
-                        38.640134
-                  ]
-            },
-            {
                   "name": "Quinn Chapel African Methodist Episcopal Church",
                   "text": "Történelmi afroamerikai AME templom St. Louis belvárosában.",
                   "category": "religious",
                   "coords": [
                         -90.247888,
                         38.55886
-                  ]
-            },
-            {
-                  "name": "Centenary Methodist Episcopal Church",
-                  "text": "Görög újjászületés stílusú metodista templom St. Louisban.",
-                  "category": "religious",
-                  "coords": [
-                        -90.20372,
-                        38.630465
                   ]
             },
             {
@@ -617,24 +455,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -90.190378,
                         38.617959
-                  ]
-            },
-            {
-                  "name": "Saint Raymond Maronite Cathedral",
-                  "text": "Marónita katolikus székesegyház, a Libanoni Miasszonyunk Eparchia székhelye.",
-                  "category": "religious",
-                  "coords": [
-                        -90.199129,
-                        38.617732
-                  ]
-            },
-            {
-                  "name": "Trinity Lutheran Church",
-                  "text": "Neogótikus stílusú evangélikus templom St. Louis Central West End negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        -90.202881,
-                        38.609315
                   ]
             },
             {
@@ -712,39 +532,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "International Photography Hall of Fame and Museum",
-                  "text": "Sala de Onoare Internațională a Fotografiei onorează fotografii și expune istoria fotografiei, în zona Gateway Arch Landmarks.",
-                  "category": "museum",
-                  "coords": [
-                        -90.228727,
-                        38.636798
-                  ]
-            },
-            {
                   "name": "National Blues Museum",
                   "text": "Muzeul Național de Blues celebrează istoria și influența muzicii blues în zona Gateway Arch Landmarks.",
                   "category": "museum",
                   "coords": [
                         -90.189846,
                         38.630516
-                  ]
-            },
-            {
-                  "name": "Scott Joplin House",
-                  "text": "Casa Scott Joplin este fosta locuință a compozitorului de ragtime Scott Joplin, în zona Gateway Arch Landmarks.",
-                  "category": "museum",
-                  "coords": [
-                        -90.214942,
-                        38.637041
-                  ]
-            },
-            {
-                  "name": "The Griot Museum of Black History",
-                  "text": "Muzeul Griot al Istoriei Negre se concentrează pe istoria afro-americană din regiunea St. Louis, în zona Gateway Arch Landmarks.",
-                  "category": "museum",
-                  "coords": [
-                        -90.209245,
-                        38.652947
                   ]
             },
             {
@@ -784,30 +577,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Soldiers Memorial Military Museum",
-                  "text": "Muzeul Militar Memorial al Soldaților onorează veteranii din zona St. Louis, în zona Gateway Arch Landmarks.",
-                  "category": "museum",
-                  "coords": [
-                        -90.200044,
-                        38.629035
-                  ]
-            },
-            {
                   "name": "Campbell House Museum",
                   "text": "Muzeul Casei Campbell este un muzeu de casă istorică din anii 1850, în zona Gateway Arch Landmarks.",
                   "category": "museum",
                   "coords": [
                         -90.201844,
                         38.631257
-                  ]
-            },
-            {
-                  "name": "City Museum",
-                  "text": "Muzeul Orașului este construit din elemente arhitecturale reciclate în zona Gateway Arch Landmarks.",
-                  "category": "museum",
-                  "coords": [
-                        -90.200446,
-                        38.633608
                   ]
             },
             {
@@ -844,15 +619,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -90.273614,
                         38.653999
-                  ]
-            },
-            {
-                  "name": "Central Baptist Church",
-                  "text": "Biserică baptistă neogotică în cartierul Central West End din St. Louis.",
-                  "category": "religious",
-                  "coords": [
-                        -90.219288,
-                        38.635926
                   ]
             },
             {
@@ -910,30 +676,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Powell Symphony Hall",
-                  "text": "Sală de concerte istorică pe Grand Boulevard, casa Orchestrei Simfonice din St. Louis.",
-                  "category": "cultural",
-                  "coords": [
-                        -90.229963,
-                        38.640134
-                  ]
-            },
-            {
                   "name": "Quinn Chapel African Methodist Episcopal Church",
                   "text": "Biserică AME afro-americană istorică în centrul St. Louisului.",
                   "category": "religious",
                   "coords": [
                         -90.247888,
                         38.55886
-                  ]
-            },
-            {
-                  "name": "Centenary Methodist Episcopal Church",
-                  "text": "Biserică metodistă în stil neogrec în St. Louis.",
-                  "category": "religious",
-                  "coords": [
-                        -90.20372,
-                        38.630465
                   ]
             },
             {
@@ -961,24 +709,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -90.190378,
                         38.617959
-                  ]
-            },
-            {
-                  "name": "Saint Raymond Maronite Cathedral",
-                  "text": "Catedrală maronită catolică, sediul Eparhiei Maicii Domnului din Liban.",
-                  "category": "religious",
-                  "coords": [
-                        -90.199129,
-                        38.617732
-                  ]
-            },
-            {
-                  "name": "Trinity Lutheran Church",
-                  "text": "Biserică luterană neogotică în cartierul Central West End din St. Louis.",
-                  "category": "religious",
-                  "coords": [
-                        -90.202881,
-                        38.609315
                   ]
             },
             {
@@ -1056,39 +786,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "International Photography Hall of Fame and Museum",
-                  "text": "The International Photography Hall of Fame honors photographers and exhibits photographic history, in the Gateway Arch Landmarks area.",
-                  "category": "museum",
-                  "coords": [
-                        -90.228727,
-                        38.636798
-                  ]
-            },
-            {
                   "name": "National Blues Museum",
                   "text": "The National Blues Museum celebrates the history and influence of blues music in the Gateway Arch Landmarks area.",
                   "category": "museum",
                   "coords": [
                         -90.189846,
                         38.630516
-                  ]
-            },
-            {
-                  "name": "Scott Joplin House",
-                  "text": "The Scott Joplin House is the former home of ragtime composer Scott Joplin, in the Gateway Arch Landmarks area.",
-                  "category": "museum",
-                  "coords": [
-                        -90.214942,
-                        38.637041
-                  ]
-            },
-            {
-                  "name": "The Griot Museum of Black History",
-                  "text": "The Griot Museum of Black History focuses on African American history in the St. Louis region, in the Gateway Arch Landmarks area.",
-                  "category": "museum",
-                  "coords": [
-                        -90.209245,
-                        38.652947
                   ]
             },
             {
@@ -1128,30 +831,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Soldiers Memorial Military Museum",
-                  "text": "Soldiers Memorial Military Museum honors St. Louis area veterans in the Gateway Arch Landmarks area.",
-                  "category": "museum",
-                  "coords": [
-                        -90.200044,
-                        38.629035
-                  ]
-            },
-            {
                   "name": "Campbell House Museum",
                   "text": "The Campbell House Museum is a historic home museum from the 1850s in the Gateway Arch Landmarks area.",
                   "category": "museum",
                   "coords": [
                         -90.201844,
                         38.631257
-                  ]
-            },
-            {
-                  "name": "City Museum",
-                  "text": "The City Museum is built from recycled architectural elements in the Gateway Arch Landmarks area.",
-                  "category": "museum",
-                  "coords": [
-                        -90.200446,
-                        38.633608
                   ]
             },
             {
@@ -1188,15 +873,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -90.273614,
                         38.653999
-                  ]
-            },
-            {
-                  "name": "Central Baptist Church",
-                  "text": "Central Baptist Church is a Gothic Revival Baptist church in St. Louis's Central West End.",
-                  "category": "religious",
-                  "coords": [
-                        -90.219288,
-                        38.635926
                   ]
             },
             {
@@ -1254,30 +930,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Powell Symphony Hall",
-                  "text": "Powell Symphony Hall is the historic concert hall on Grand Boulevard, home of the St. Louis Symphony.",
-                  "category": "cultural",
-                  "coords": [
-                        -90.229963,
-                        38.640134
-                  ]
-            },
-            {
                   "name": "Quinn Chapel African Methodist Episcopal Church",
                   "text": "Quinn Chapel AME Church is a historic African American AME church in downtown St. Louis.",
                   "category": "religious",
                   "coords": [
                         -90.247888,
                         38.55886
-                  ]
-            },
-            {
-                  "name": "Centenary Methodist Episcopal Church",
-                  "text": "Centenary Methodist Episcopal Church is a Greek Revival Methodist church in St. Louis.",
-                  "category": "religious",
-                  "coords": [
-                        -90.20372,
-                        38.630465
                   ]
             },
             {
@@ -1305,24 +963,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -90.190378,
                         38.617959
-                  ]
-            },
-            {
-                  "name": "Saint Raymond Maronite Cathedral",
-                  "text": "Saint Raymond Maronite Cathedral is the Maronite Catholic cathedral, seat of the Eparchy of Our Lady of Lebanon.",
-                  "category": "religious",
-                  "coords": [
-                        -90.199129,
-                        38.617732
-                  ]
-            },
-            {
-                  "name": "Trinity Lutheran Church",
-                  "text": "Trinity Lutheran Church is a Gothic Revival Lutheran church in St. Louis's Central West End.",
-                  "category": "religious",
-                  "coords": [
-                        -90.202881,
-                        38.609315
                   ]
             },
             {
@@ -3513,15 +3153,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "space-needle-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Seattle Art Museum",
-                  "text": "Das Seattle Art Museum beherbergt eine umfangreiche Sammlung internationaler Kunst, darunter Werke aus dem Pazifikraum.",
-                  "category": "museum",
-                  "coords": [
-                        -122.338558,
-                        47.607701
-                  ]
-            },
-            {
                   "name": "Museum of History and Industry",
                   "text": "Das Museum of History and Industry in Seattle präsentiert die Geschichte der Region Puget Sound.",
                   "category": "museum",
@@ -3603,48 +3234,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Showbox at the Market",
-                  "text": "Der Showbox at the Market in Seattle ist ein historischer Musikclub am Pike Place Market.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.339473,
-                        47.608514
-                  ]
-            },
-            {
                   "name": "Neptune Theatre",
                   "text": "Das Neptune Theatre im University District von Seattle ist ein historisches Kino und Veranstaltungsort.",
                   "category": "cultural",
                   "coords": [
                         -122.314031,
                         47.661136
-                  ]
-            },
-            {
-                  "name": "Benaroya Hall",
-                  "text": "Dieses 1998 eröffnete Konzerthaus in Seattle ist die Heimat des Seattle Symphony Orchestras.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.336972,
-                        47.608107
-                  ]
-            },
-            {
-                  "name": "Paramount Theatre",
-                  "text": "Das Paramount Theatre in der Innenstadt von Seattle ist ein historisches Theater für Aufführungen und Konzerte.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.331364,
-                        47.613256
-                  ]
-            },
-            {
-                  "name": "Plymouth Congregational Church",
-                  "text": "Diese 1912 erbaute Kongregationalistische Kirche in Seattle weist neugotische Architektur auf.",
-                  "category": "religious",
-                  "coords": [
-                        -122.332661,
-                        47.608673
                   ]
             },
             {
@@ -3729,15 +3324,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seattle Great Wheel",
-                  "text": "Das Seattle Great Wheel ist ein Riesenrad am Pier 57 mit Blick auf die Elliott Bay.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.3425,
-                        47.606167
-                  ]
-            },
-            {
                   "name": "Salmon Bay",
                   "text": "Die Salmon Bay in Seattle ist Teil des Lake Washington Ship Canals und verbindet den Puget Sound mit dem Lake Union.",
                   "category": "landmark",
@@ -3783,15 +3369,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Seattle Public Library - Central Library",
-                  "text": "Diese 2004 eröffnete Bibliothek in Seattle ist bekannt für ihre markante dekonstruktivistische Architektur von Rem Koolhaas.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.332663,
-                        47.606689
-                  ]
-            },
-            {
                   "name": "Space Needle",
                   "text": "Die Space Needle in Seattle ist ein ikonischer Aussichtsturm, der für die Weltausstellung 1962 gebaut wurde.",
                   "category": "landmark",
@@ -3802,15 +3379,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Seattle Art Museum",
-                  "text": "A Seattle Art Museum nemzetközi művészeti gyűjteményt őriz, beleértve a csendes-óceáni térség alkotásait is.",
-                  "category": "museum",
-                  "coords": [
-                        -122.338558,
-                        47.607701
-                  ]
-            },
             {
                   "name": "Museum of History and Industry",
                   "text": "A Museum of History and Industry Seattle-ben a Puget Sound régió történelmét mutatja be.",
@@ -3893,48 +3461,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Showbox at the Market",
-                  "text": "A seattle-i Showbox at the Market egy történelmi koncerthelyszín a Pike Place Marketnél.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.339473,
-                        47.608514
-                  ]
-            },
-            {
                   "name": "Neptune Theatre",
                   "text": "A seattle-i Egyetemi negyedben található Neptune Theatre történelmi mozi és rendezvényhelyszín.",
                   "category": "cultural",
                   "coords": [
                         -122.314031,
                         47.661136
-                  ]
-            },
-            {
-                  "name": "Benaroya Hall",
-                  "text": "Az 1998-ban megnyílt seattle-i koncertterem a Seattle Symphony otthona.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.336972,
-                        47.608107
-                  ]
-            },
-            {
-                  "name": "Paramount Theatre",
-                  "text": "A seattle-i belvárosban található Paramount Theatre történelmi színház előadásoknak és koncerteknek.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.331364,
-                        47.613256
-                  ]
-            },
-            {
-                  "name": "Plymouth Congregational Church",
-                  "text": "Az 1912-ben épült seattle-i kongregacionalista templom gótikus revival stílusú.",
-                  "category": "religious",
-                  "coords": [
-                        -122.332661,
-                        47.608673
                   ]
             },
             {
@@ -4019,15 +3551,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seattle Great Wheel",
-                  "text": "A seattle-i Seattle Great Wheel egy óriáskerék a Pier 57-en, kilátással az Elliott-öbölre.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.3425,
-                        47.606167
-                  ]
-            },
-            {
                   "name": "Salmon Bay",
                   "text": "A seattle-i Salmon Bay a Lake Washington Ship Canal része, összekötve a Puget Soundot a Lake Unionnal.",
                   "category": "landmark",
@@ -4073,15 +3596,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Seattle Public Library - Central Library",
-                  "text": "A 2004-ben megnyílt seattle-i könyvtár híres Rem Koolhaas feltűnő dekonstruktivista építészetéről.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.332663,
-                        47.606689
-                  ]
-            },
-            {
                   "name": "Space Needle",
                   "text": "A seattle-i Space Needle egy ikonikus kilátótorony, amely az 1962-es világkiállításra épült.",
                   "category": "landmark",
@@ -4092,15 +3606,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Seattle Art Museum",
-                  "text": "Muzeul de Artă din Seattle găzduiește o colecție extinsă de artă internațională, inclusiv lucrări din zona Pacificului.",
-                  "category": "museum",
-                  "coords": [
-                        -122.338558,
-                        47.607701
-                  ]
-            },
             {
                   "name": "Museum of History and Industry",
                   "text": "Muzeul de Istorie și Industrie din Seattle prezintă istoria regiunii Puget Sound.",
@@ -4183,48 +3688,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Showbox at the Market",
-                  "text": "Showbox at the Market din Seattle este un club de muzică istoric lângă Pike Place Market.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.339473,
-                        47.608514
-                  ]
-            },
-            {
                   "name": "Neptune Theatre",
                   "text": "Neptune Theatre din cartierul universitar din Seattle este un cinematograf și loc de evenimente istoric.",
                   "category": "cultural",
                   "coords": [
                         -122.314031,
                         47.661136
-                  ]
-            },
-            {
-                  "name": "Benaroya Hall",
-                  "text": "Deschis în 1998, această sală de concerte din Seattle este gazda Orchestrei Simfonice din Seattle.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.336972,
-                        47.608107
-                  ]
-            },
-            {
-                  "name": "Paramount Theatre",
-                  "text": "Paramount Theatre din centrul Seattle-ului este un teatru istoric pentru spectacole și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.331364,
-                        47.613256
-                  ]
-            },
-            {
-                  "name": "Plymouth Congregational Church",
-                  "text": "Construită în 1912, această biserică congregaționalistă din Seattle are arhitectură neogotică.",
-                  "category": "religious",
-                  "coords": [
-                        -122.332661,
-                        47.608673
                   ]
             },
             {
@@ -4309,15 +3778,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seattle Great Wheel",
-                  "text": "Roata Mare din Seattle este o roată panoramică la Pier 57, cu vedere spre Elliott Bay.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.3425,
-                        47.606167
-                  ]
-            },
-            {
                   "name": "Salmon Bay",
                   "text": "Salmon Bay din Seattle face parte din Canalul de Nave al Lacului Washington, legând Puget Sound de Lake Union.",
                   "category": "landmark",
@@ -4363,15 +3823,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Seattle Public Library - Central Library",
-                  "text": "Deschisă în 2004, această bibliotecă din Seattle este cunoscută pentru arhitectura sa deconstructivistă remarcabilă, proiectată de Rem Koolhaas.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.332663,
-                        47.606689
-                  ]
-            },
-            {
                   "name": "Space Needle",
                   "text": "Space Needle din Seattle este un turn de observație iconic, construit pentru Expoziția Mondială din 1962.",
                   "category": "landmark",
@@ -4382,15 +3833,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Seattle Art Museum",
-                  "text": "The Seattle Art Museum houses a vast collection of international art, including works from the Pacific region.",
-                  "category": "museum",
-                  "coords": [
-                        -122.338558,
-                        47.607701
-                  ]
-            },
             {
                   "name": "Museum of History and Industry",
                   "text": "The Museum of History and Industry in Seattle presents the history of the Puget Sound region.",
@@ -4473,48 +3915,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Showbox at the Market",
-                  "text": "The Showbox at the Market in Seattle is a historic music venue near Pike Place Market.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.339473,
-                        47.608514
-                  ]
-            },
-            {
                   "name": "Neptune Theatre",
                   "text": "The Neptune Theatre in Seattle's University District is a historic movie theater and venue.",
                   "category": "cultural",
                   "coords": [
                         -122.314031,
                         47.661136
-                  ]
-            },
-            {
-                  "name": "Benaroya Hall",
-                  "text": "Opened in 1998, this Seattle concert hall is home to the Seattle Symphony.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.336972,
-                        47.608107
-                  ]
-            },
-            {
-                  "name": "Paramount Theatre",
-                  "text": "The Paramount Theatre in downtown Seattle is a historic theater for performances and concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.331364,
-                        47.613256
-                  ]
-            },
-            {
-                  "name": "Plymouth Congregational Church",
-                  "text": "Built in 1912, this Congregational church in Seattle features Gothic Revival architecture.",
-                  "category": "religious",
-                  "coords": [
-                        -122.332661,
-                        47.608673
                   ]
             },
             {
@@ -4599,15 +4005,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Seattle Great Wheel",
-                  "text": "The Seattle Great Wheel is a Ferris wheel at Pier 57 overlooking Elliott Bay.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.3425,
-                        47.606167
-                  ]
-            },
-            {
                   "name": "Salmon Bay",
                   "text": "Salmon Bay in Seattle is part of the Lake Washington Ship Canal, connecting Puget Sound to Lake Union.",
                   "category": "landmark",
@@ -4650,15 +4047,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -122.341639,
                         47.60954
-                  ]
-            },
-            {
-                  "name": "Seattle Central Library",
-                  "text": "Opened in 2004, this Seattle library is known for its striking deconstructivist architecture by Rem Koolhaas.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.332663,
-                        47.606689
                   ]
             },
             {
@@ -11310,15 +10698,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grey Art Gallery",
-                  "text": "Die Grey Art Gallery in State Building ist ein Universitätskunstmuseum an der NYU für moderne und zeitgenössische Kunst.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.996123,
-                        40.729947
-                  ]
-            },
-            {
                   "name": "Classic Stage Company",
                   "text": "Die Classic Stage Company in State Building ist ein Off-Broadway-Theater im East Village mit klassischen Werken.",
                   "category": "cultural",
@@ -11606,15 +10985,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -73.984393,
                         40.728123
-                  ]
-            },
-            {
-                  "name": "Grey Art Gallery",
-                  "text": "A State Building-i Grey Art Gallery egy egyetemi művészeti múzeum a NYU-n, modern és kortárs művészettel.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.996123,
-                        40.729947
                   ]
             },
             {
@@ -11908,15 +11278,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grey Art Gallery",
-                  "text": "Grey Art Gallery din State Building este un muzeu de artă universitar la NYU, axat pe arta modernă și contemporană.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.996123,
-                        40.729947
-                  ]
-            },
-            {
                   "name": "Classic Stage Company",
                   "text": "Classic Stage Company din State Building este un teatru Off-Broadway în East Village, cu piese clasice.",
                   "category": "cultural",
@@ -12207,15 +11568,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grey Art Gallery",
-                  "text": "Grey Art Gallery in State Building is a university art museum at NYU focusing on modern and contemporary art.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.996123,
-                        40.729947
-                  ]
-            },
-            {
                   "name": "Classic Stage Company",
                   "text": "Classic Stage Company in State Building is an Off-Broadway theater in the East Village performing classic works.",
                   "category": "cultural",
@@ -12488,33 +11840,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "one-world-trade-center-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Mmuseumm",
-                  "text": "Das Mmuseumm ist ein Museum im Bereich des One World Trade Center, eines der kleinsten Museen in New York, in einem ehemaligen Lastenaufzug untergebracht.",
-                  "category": "museum",
-                  "coords": [
-                        -74.002815,
-                        40.717363
-                  ]
-            },
-            {
-                  "name": "Storefront for Art and Architecture",
-                  "text": "Storefront for Art and Architecture ist eine Galerie im Bereich des One World Trade Center, bekannt für ihre innovative Fassade, die zur Straße geöffnet werden kann.",
-                  "category": "museum",
-                  "coords": [
-                        -73.997103,
-                        40.72148
-                  ]
-            },
-            {
-                  "name": "Leslie-Lohman Museum of Art",
-                  "text": "Das Leslie-Lohman Museum of Art ist ein Museum im Bereich des One World Trade Center, das sich der LGBTQ+-Kunst widmet.",
-                  "category": "museum",
-                  "coords": [
-                        -74.003032,
-                        40.721768
-                  ]
-            },
-            {
                   "name": "New York City Fire Museum",
                   "text": "Das New York City Fire Museum ist ein Museum im Bereich des One World Trade Center, das der Geschichte der Feuerwehr in New York gewidmet ist.",
                   "category": "museum",
@@ -12578,15 +11903,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "SoHo",
-                  "text": "SoHo ist eine Attraktion im Bereich des One World Trade Center, ein Viertel, das für seine gusseiserne Architektur und Einkaufsmöglichkeiten bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.99875,
-                        40.72288
-                  ]
-            },
-            {
                   "name": "FDNY Ladder 8",
                   "text": "Die FDNY Ladder 8 ist eine Attraktion im Bereich des One World Trade Center, das Feuerwehrhaus, das als Außenkulisse für den Film Ghostbusters diente.",
                   "category": "landmark",
@@ -12641,24 +11957,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pershing Field",
-                  "text": "Das Pershing Field ist ein Park im Bereich des One World Trade Center, ein Park in Jersey City.",
-                  "category": "park",
-                  "coords": [
-                        -74.053471,
-                        40.742262
-                  ]
-            },
-            {
-                  "name": "Hamilton Park",
-                  "text": "Der Hamilton Park ist ein Park im Bereich des One World Trade Center, ein Park in Jersey City.",
-                  "category": "park",
-                  "coords": [
-                        -74.045094,
-                        40.727667
-                  ]
-            },
-            {
                   "name": "Sherman Zwicker",
                   "text": "Die Sherman Zwicker ist eine Attraktion im Bereich des One World Trade Center, ein historischer Schoner, der als Museum dient.",
                   "category": "landmark",
@@ -12704,51 +12002,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tribeca Synagogue",
-                  "text": "Die Tribeca Synagogue ist ein Gotteshaus im Bereich des One World Trade Center.",
-                  "category": "religious",
-                  "coords": [
-                        -74.004196,
-                        40.718397
-                  ]
-            },
-            {
-                  "name": "Le Poisson Rouge",
-                  "text": "Le Poisson Rouge ist ein Theater im Bereich des One World Trade Center, ein Musiklokal.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.999882,
-                        40.728425
-                  ]
-            },
-            {
-                  "name": "SoHo Playhouse",
-                  "text": "Das SoHo Playhouse ist ein Theater im Bereich des One World Trade Center.",
-                  "category": "cultural",
-                  "coords": [
-                        -74.004376,
-                        40.726451
-                  ]
-            },
-            {
-                  "name": "Cherry Lane Theatre",
-                  "text": "Cherry Lane Theatre, das älteste Off-Broadway-Theater im World Trade Center.",
-                  "category": "cultural",
-                  "coords": [
-                        -74.00528,
-                        40.731245
-                  ]
-            },
-            {
-                  "name": "Minetta Lane Theatre",
-                  "text": "Minetta Lane Theatre, ein intimes Off-Broadway-Theater im World Trade Center.",
-                  "category": "cultural",
-                  "coords": [
-                        -74.001667,
-                        40.730278
-                  ]
-            },
-            {
                   "name": "United Synagogue of Hoboken",
                   "text": "United Synagogue of Hoboken, eine jüdische Gemeinde im World Trade Center.",
                   "category": "religious",
@@ -12764,24 +12017,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -74.041398,
                         40.732602
-                  ]
-            },
-            {
-                  "name": "Saint Nicholas Church",
-                  "text": "St. Nicholas Greek Orthodox Church, nach 9/11 wiederaufgebaut im World Trade Center.",
-                  "category": "religious",
-                  "coords": [
-                        -74.051537,
-                        40.742198
-                  ]
-            },
-            {
-                  "name": "Second Reformed Church",
-                  "text": "Second Reformed Church, eine reformierte Kirche aus dem 19. Jahrhundert im World Trade Center.",
-                  "category": "religious",
-                  "coords": [
-                        -74.05215,
-                        40.745861
                   ]
             },
             {
@@ -12804,33 +12039,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Mmuseumm",
-                  "text": "A Mmuseumm egy múzeum a One World Trade Center környékén, New York egyik legkisebb múzeuma, egy egykori teherliftben található.",
-                  "category": "museum",
-                  "coords": [
-                        -74.002815,
-                        40.717363
-                  ]
-            },
-            {
-                  "name": "Storefront for Art and Architecture",
-                  "text": "A Storefront for Art and Architecture egy galéria a One World Trade Center környékén, amely innovatív, az utcára nyíló homlokzatáról ismert.",
-                  "category": "museum",
-                  "coords": [
-                        -73.997103,
-                        40.72148
-                  ]
-            },
-            {
-                  "name": "Leslie-Lohman Museum of Art",
-                  "text": "A Leslie-Lohman Museum of Art egy múzeum a One World Trade Center környékén, amely az LGBTQ+ művészetnek van szentelve.",
-                  "category": "museum",
-                  "coords": [
-                        -74.003032,
-                        40.721768
-                  ]
-            },
             {
                   "name": "New York City Fire Museum",
                   "text": "A New York City Fire Museum egy múzeum a One World Trade Center környékén, amely a New York-i tűzoltás történetének van szentelve.",
@@ -12895,15 +12103,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "SoHo",
-                  "text": "A SoHo egy látványosság a One World Trade Center környékén, egy negyed, amely öntöttvas építészetéről és vásárlási lehetőségeiről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.99875,
-                        40.72288
-                  ]
-            },
-            {
                   "name": "FDNY Ladder 8",
                   "text": "Az FDNY Ladder 8 egy látványosság a One World Trade Center környékén, a tűzoltóállomás, amely a Ghostbusters film külső helyszíne volt.",
                   "category": "landmark",
@@ -12958,24 +12157,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pershing Field",
-                  "text": "A Pershing Field egy park a One World Trade Center környékén, egy park Jersey Cityben.",
-                  "category": "park",
-                  "coords": [
-                        -74.053471,
-                        40.742262
-                  ]
-            },
-            {
-                  "name": "Hamilton Park",
-                  "text": "A Hamilton Park egy park a One World Trade Center környékén, egy park Jersey Cityben.",
-                  "category": "park",
-                  "coords": [
-                        -74.045094,
-                        40.727667
-                  ]
-            },
-            {
                   "name": "Sherman Zwicker",
                   "text": "A Sherman Zwicker egy látványosság a One World Trade Center környékén, egy történelmi vitorlás, amely múzeumként szolgál.",
                   "category": "landmark",
@@ -13021,51 +12202,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tribeca Synagogue",
-                  "text": "A Tribeca Synagogue egy istentiszteleti hely a One World Trade Center környékén.",
-                  "category": "religious",
-                  "coords": [
-                        -74.004196,
-                        40.718397
-                  ]
-            },
-            {
-                  "name": "Le Poisson Rouge",
-                  "text": "A Le Poisson Rouge egy színház a One World Trade Center környékén, egy zenei helyszín.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.999882,
-                        40.728425
-                  ]
-            },
-            {
-                  "name": "SoHo Playhouse",
-                  "text": "A SoHo Playhouse egy színház a One World Trade Center környékén.",
-                  "category": "cultural",
-                  "coords": [
-                        -74.004376,
-                        40.726451
-                  ]
-            },
-            {
-                  "name": "Cherry Lane Theatre",
-                  "text": "Cherry Lane Színház, a legrégebbi off-Broadway színház a World Trade Centerben.",
-                  "category": "cultural",
-                  "coords": [
-                        -74.00528,
-                        40.731245
-                  ]
-            },
-            {
-                  "name": "Minetta Lane Theatre",
-                  "text": "Minetta Lane Színház, egy meghitt off-Broadway színház a World Trade Centerben.",
-                  "category": "cultural",
-                  "coords": [
-                        -74.001667,
-                        40.730278
-                  ]
-            },
-            {
                   "name": "United Synagogue of Hoboken",
                   "text": "Hobokeni Egyesült Zsinagóga, egy zsidó közösség a World Trade Centerben.",
                   "category": "religious",
@@ -13081,24 +12217,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -74.041398,
                         40.732602
-                  ]
-            },
-            {
-                  "name": "Saint Nicholas Church",
-                  "text": "Szent Miklós görög ortodox templom, újjáépítve a 9/11 után a World Trade Centerben.",
-                  "category": "religious",
-                  "coords": [
-                        -74.051537,
-                        40.742198
-                  ]
-            },
-            {
-                  "name": "Second Reformed Church",
-                  "text": "Második Református Egyház, egy 19. századi református templom a World Trade Centerben.",
-                  "category": "religious",
-                  "coords": [
-                        -74.05215,
-                        40.745861
                   ]
             },
             {
@@ -13121,33 +12239,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Mmuseumm",
-                  "text": "Mmuseumm este un muzeu în zona One World Trade Center, unul dintre cele mai mici muzee din New York, situat într-un fost lift de marfă.",
-                  "category": "museum",
-                  "coords": [
-                        -74.002815,
-                        40.717363
-                  ]
-            },
-            {
-                  "name": "Storefront for Art and Architecture",
-                  "text": "Storefront for Art and Architecture este o galerie în zona One World Trade Center, cunoscută pentru fațada sa inovatoare care se deschide spre stradă.",
-                  "category": "museum",
-                  "coords": [
-                        -73.997103,
-                        40.72148
-                  ]
-            },
-            {
-                  "name": "Leslie-Lohman Museum of Art",
-                  "text": "Leslie-Lohman Museum of Art este un muzeu în zona One World Trade Center, dedicat artei LGBTQ+.",
-                  "category": "museum",
-                  "coords": [
-                        -74.003032,
-                        40.721768
-                  ]
-            },
             {
                   "name": "New York City Fire Museum",
                   "text": "New York City Fire Museum este un muzeu în zona One World Trade Center, dedicat istoriei pompierilor din New York.",
@@ -13212,15 +12303,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "SoHo",
-                  "text": "SoHo este o atracție în zona One World Trade Center, un cartier cunoscut pentru arhitectura sa din fontă și cumpărături.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.99875,
-                        40.72288
-                  ]
-            },
-            {
                   "name": "FDNY Ladder 8",
                   "text": "FDNY Ladder 8 este o atracție în zona One World Trade Center, stația de pompieri care a servit ca exterior pentru filmul Ghostbusters.",
                   "category": "landmark",
@@ -13275,24 +12357,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pershing Field",
-                  "text": "Pershing Field este un parc în zona One World Trade Center, un parc în Jersey City.",
-                  "category": "park",
-                  "coords": [
-                        -74.053471,
-                        40.742262
-                  ]
-            },
-            {
-                  "name": "Hamilton Park",
-                  "text": "Hamilton Park este un parc în zona One World Trade Center, un parc în Jersey City.",
-                  "category": "park",
-                  "coords": [
-                        -74.045094,
-                        40.727667
-                  ]
-            },
-            {
                   "name": "Sherman Zwicker",
                   "text": "Sherman Zwicker este o atracție în zona One World Trade Center, un schooner istoric care servește ca muzeu.",
                   "category": "landmark",
@@ -13338,51 +12402,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tribeca Synagogue",
-                  "text": "Sinagoga Tribeca este un lăcaș de cult în zona One World Trade Center.",
-                  "category": "religious",
-                  "coords": [
-                        -74.004196,
-                        40.718397
-                  ]
-            },
-            {
-                  "name": "Le Poisson Rouge",
-                  "text": "Le Poisson Rouge este un teatru în zona One World Trade Center, un local de muzică.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.999882,
-                        40.728425
-                  ]
-            },
-            {
-                  "name": "SoHo Playhouse",
-                  "text": "SoHo Playhouse este un teatru în zona One World Trade Center.",
-                  "category": "cultural",
-                  "coords": [
-                        -74.004376,
-                        40.726451
-                  ]
-            },
-            {
-                  "name": "Cherry Lane Theatre",
-                  "text": "Teatrul Cherry Lane, cel mai vechi teatru off-Broadway din World Trade Center.",
-                  "category": "cultural",
-                  "coords": [
-                        -74.00528,
-                        40.731245
-                  ]
-            },
-            {
-                  "name": "Minetta Lane Theatre",
-                  "text": "Teatrul Minetta Lane, un teatru intim off-Broadway în World Trade Center.",
-                  "category": "cultural",
-                  "coords": [
-                        -74.001667,
-                        40.730278
-                  ]
-            },
-            {
                   "name": "United Synagogue of Hoboken",
                   "text": "Sinagoga Unită din Hoboken, o comunitate evreiască în World Trade Center.",
                   "category": "religious",
@@ -13398,24 +12417,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -74.041398,
                         40.732602
-                  ]
-            },
-            {
-                  "name": "Saint Nicholas Church",
-                  "text": "Biserica Ortodoxă Greacă Sfântul Nicolae, reconstruită după 11 septembrie în World Trade Center.",
-                  "category": "religious",
-                  "coords": [
-                        -74.051537,
-                        40.742198
-                  ]
-            },
-            {
-                  "name": "Second Reformed Church",
-                  "text": "A doua Biserică Reformată, o biserică reformată din secolul al XIX-lea în World Trade Center.",
-                  "category": "religious",
-                  "coords": [
-                        -74.05215,
-                        40.745861
                   ]
             },
             {
@@ -13438,33 +12439,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Mmuseumm",
-                  "text": "Mmuseumm is a museum in the One World Trade Center area, one of the smallest museums in New York, located in a former freight elevator.",
-                  "category": "museum",
-                  "coords": [
-                        -74.002815,
-                        40.717363
-                  ]
-            },
-            {
-                  "name": "Storefront for Art and Architecture",
-                  "text": "Storefront for Art and Architecture is a gallery in the One World Trade Center area, known for its innovative facade that opens to the street.",
-                  "category": "museum",
-                  "coords": [
-                        -73.997103,
-                        40.72148
-                  ]
-            },
-            {
-                  "name": "Leslie-Lohman Museum of Art",
-                  "text": "Leslie-Lohman Museum of Art is a museum in the One World Trade Center area, dedicated to LGBTQ+ art.",
-                  "category": "museum",
-                  "coords": [
-                        -74.003032,
-                        40.721768
-                  ]
-            },
             {
                   "name": "New York City Fire Museum",
                   "text": "New York City Fire Museum is a museum in the One World Trade Center area, dedicated to the history of firefighting in New York.",
@@ -13529,15 +12503,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "SoHo",
-                  "text": "SoHo is an attraction in the One World Trade Center area, a neighborhood known for its cast-iron architecture and shopping.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.99875,
-                        40.72288
-                  ]
-            },
-            {
                   "name": "FDNY Ladder 8",
                   "text": "FDNY Ladder 8 is an attraction in the One World Trade Center area, the firehouse that served as the exterior for the Ghostbusters film.",
                   "category": "landmark",
@@ -13592,24 +12557,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pershing Field",
-                  "text": "Pershing Field is a park in the One World Trade Center area, a park in Jersey City.",
-                  "category": "park",
-                  "coords": [
-                        -74.053471,
-                        40.742262
-                  ]
-            },
-            {
-                  "name": "Hamilton Park",
-                  "text": "Hamilton Park is a park in the One World Trade Center area, a park in Jersey City.",
-                  "category": "park",
-                  "coords": [
-                        -74.045094,
-                        40.727667
-                  ]
-            },
-            {
                   "name": "Sherman Zwicker",
                   "text": "Sherman Zwicker is an attraction in the One World Trade Center area, a historic schooner serving as a museum.",
                   "category": "landmark",
@@ -13655,51 +12602,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tribeca Synagogue",
-                  "text": "Tribeca Synagogue is a place of worship in the One World Trade Center area.",
-                  "category": "religious",
-                  "coords": [
-                        -74.004196,
-                        40.718397
-                  ]
-            },
-            {
-                  "name": "Le Poisson Rouge",
-                  "text": "Le Poisson Rouge is a theatre in the One World Trade Center area, a music venue.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.999882,
-                        40.728425
-                  ]
-            },
-            {
-                  "name": "SoHo Playhouse",
-                  "text": "SoHo Playhouse is a theatre in the One World Trade Center area.",
-                  "category": "cultural",
-                  "coords": [
-                        -74.004376,
-                        40.726451
-                  ]
-            },
-            {
-                  "name": "Cherry Lane Theatre",
-                  "text": "Cherry Lane Theatre, the oldest off-Broadway theater in the World Trade Center.",
-                  "category": "cultural",
-                  "coords": [
-                        -74.00528,
-                        40.731245
-                  ]
-            },
-            {
-                  "name": "Minetta Lane Theatre",
-                  "text": "Minetta Lane Theatre, an intimate off-Broadway theater in the World Trade Center.",
-                  "category": "cultural",
-                  "coords": [
-                        -74.001667,
-                        40.730278
-                  ]
-            },
-            {
                   "name": "United Synagogue of Hoboken",
                   "text": "United Synagogue of Hoboken, a Jewish congregation in the World Trade Center.",
                   "category": "religious",
@@ -13715,24 +12617,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -74.041398,
                         40.732602
-                  ]
-            },
-            {
-                  "name": "Saint Nicholas Church",
-                  "text": "Saint Nicholas Greek Orthodox Church, rebuilt after 9/11 in the World Trade Center.",
-                  "category": "religious",
-                  "coords": [
-                        -74.051537,
-                        40.742198
-                  ]
-            },
-            {
-                  "name": "Second Reformed Church",
-                  "text": "Second Reformed Church, a 19th-century Reformed church in the World Trade Center.",
-                  "category": "religious",
-                  "coords": [
-                        -74.05215,
-                        40.745861
                   ]
             },
             {
@@ -19861,15 +18745,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Las Vegas City Hall",
-                  "text": "Ein historisches Art-Déco-Gebäude im Vegas Strip-Gebiet.",
-                  "category": "historical",
-                  "coords": [
-                        -115.148485,
-                        36.167386
-                  ]
-            },
-            {
                   "name": "Dolby Live",
                   "text": "Dolby Live ist ein Veranstaltungsort im Park MGM in Las Vegas, der Konzerte und Residenzen beherbergt.",
                   "category": "cultural",
@@ -19912,24 +18787,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -115.163482,
                         36.130527
-                  ]
-            },
-            {
-                  "name": "Little White Chapel",
-                  "text": "Die Little White Chapel in Las Vegas ist eine berühmte Hochzeitskapelle, ein beliebter Ort für schnelle Trauungen.",
-                  "category": "religious",
-                  "coords": [
-                        -115.14926,
-                        36.155182
-                  ]
-            },
-            {
-                  "name": "Big Shot",
-                  "text": "Big Shot in Las Vegas ist eine Fallturmfahrt im Stratosphere, die Fahrgäste 160 Fuß in die Höhe schleudert.",
-                  "category": "landmark",
-                  "coords": [
-                        -115.155528,
-                        36.147409
                   ]
             },
             {
@@ -19987,24 +18844,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Punk Rock Museum",
-                  "text": "Ein Museum der Punkrock-Geschichte und Erinnerungsstücke auf dem Las Vegas Strip.",
-                  "category": "museum",
-                  "coords": [
-                        -115.160637,
-                        36.154336
-                  ]
-            },
-            {
-                  "name": "Burlesque Hall of Fame",
-                  "text": "Ein Museum mit Burlesque-Kostümen und Erinnerungsstücken in der Nähe des Las Vegas Strip.",
-                  "category": "museum",
-                  "coords": [
-                        -115.152872,
-                        36.160153
-                  ]
-            },
-            {
                   "name": "TI Theatre Mystère",
                   "text": "Das TI Theatre Mystère zeigt die Cirque-du-Soleil-Show Mystère im Treasure Island Hotel am Las Vegas Strip.",
                   "category": "cultural",
@@ -20032,75 +18871,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Discovery Children's Museum",
-                  "text": "Ein interaktives Kindermuseum mit naturwissenschaftlichen und künstlerischen Exponaten in der Nähe des Las Vegas Strip.",
-                  "category": "museum",
-                  "coords": [
-                        -115.152583,
-                        36.168699
-                  ]
-            },
-            {
-                  "name": "The Mob Museum",
-                  "text": "The Mob Museum dokumentiert die Geschichte des organisierten Verbrechens in Las Vegas.",
-                  "category": "museum",
-                  "coords": [
-                        -115.141279,
-                        36.172784
-                  ]
-            },
-            {
-                  "name": "Neon Museum",
-                  "text": "Das Neon Museum bewahrt historische Leuchtreklame aus Las Vegas im Freilichtmuseum.",
-                  "category": "museum",
-                  "coords": [
-                        -115.135254,
-                        36.176728
-                  ]
-            },
-            {
-                  "name": "Emergency Arts",
-                  "text": "Emergency Arts ist eine Künstlergalerie und ein Kreativraum in Las Vegas.",
-                  "category": "museum",
-                  "coords": [
-                        -115.139596,
-                        36.169115
-                  ]
-            },
-            {
-                  "name": "Las Vegas Natural History Museum",
-                  "text": "Ein naturhistorisches Museum mit Dinosaurierskeletten auf dem Las Vegas Strip.",
-                  "category": "museum",
-                  "coords": [
-                        -115.133792,
-                        36.179939
-                  ]
-            },
-            {
-                  "name": "Theatre 7",
-                  "text": "Ein kleiner Theaterraum für lokale Produktionen auf dem Las Vegas Strip.",
-                  "category": "cultural",
-                  "coords": [
-                        -115.151731,
-                        36.153804
-                  ]
-            },
-            {
                   "name": "Shrine of the Most Holy Redeemer",
                   "text": "Eine katholische Kirche, die den Las Vegas Strip bedient.",
                   "category": "religious",
                   "coords": [
                         -115.169454,
                         36.096251
-                  ]
-            },
-            {
-                  "name": "Mon Bel Ami Wedding Chapel",
-                  "text": "Eine Hochzeitskapelle auf dem Las Vegas Strip mit französisch inspirierter Architektur.",
-                  "category": "religious",
-                  "coords": [
-                        -115.144246,
-                        36.162968
                   ]
             },
             {
@@ -20119,33 +18895,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -115.179,
                         36.090656
-                  ]
-            },
-            {
-                  "name": "Hewetson Playground",
-                  "text": "Ein Spielplatz im Hewetson Park in der Nähe des Las Vegas Strip.",
-                  "category": "park",
-                  "coords": [
-                        -115.1224,
-                        36.1765
-                  ]
-            },
-            {
-                  "name": "Fitzgeralds Tot Lot",
-                  "text": "Ein Kleinkinderspielplatz im Fitzgeralds Casino auf dem Las Vegas Strip.",
-                  "category": "park",
-                  "coords": [
-                        -115.1516,
-                        36.1854
-                  ]
-            },
-            {
-                  "name": "Madison Playground",
-                  "text": "Ein öffentlicher Spielplatz im Madison-Viertel in der Nähe des Las Vegas Strip.",
-                  "category": "park",
-                  "coords": [
-                        -115.1551,
-                        36.1827
                   ]
             },
             {
@@ -20175,15 +18924,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -115.148385,
                         36.11402
-                  ]
-            },
-            {
-                  "name": "Las Vegas City Hall",
-                  "text": "Egy történelmi art deco épület a Vegas Strip körzetében.",
-                  "category": "historical",
-                  "coords": [
-                        -115.148485,
-                        36.167386
                   ]
             },
             {
@@ -20229,24 +18969,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -115.163482,
                         36.130527
-                  ]
-            },
-            {
-                  "name": "Little White Chapel",
-                  "text": "A Las Vegas-i Little White Chapel egy híres esküvői kápolna, népszerű hely gyors házasságkötésekhez.",
-                  "category": "religious",
-                  "coords": [
-                        -115.14926,
-                        36.155182
-                  ]
-            },
-            {
-                  "name": "Big Shot",
-                  "text": "A Las Vegas-i Big Shot egy zuhanótorony a Stratosphere-ben, amely 160 lábra lövi fel az utasokat.",
-                  "category": "landmark",
-                  "coords": [
-                        -115.155528,
-                        36.147409
                   ]
             },
             {
@@ -20304,24 +19026,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Punk Rock Museum",
-                  "text": "A punkrock történelemének és emléktárgyainak múzeuma a Las Vegas Strip-en.",
-                  "category": "museum",
-                  "coords": [
-                        -115.160637,
-                        36.154336
-                  ]
-            },
-            {
-                  "name": "Burlesque Hall of Fame",
-                  "text": "Burleszk jelmezeket és emléktárgyakat bemutató múzeum a Las Vegas Strip közelében.",
-                  "category": "museum",
-                  "coords": [
-                        -115.152872,
-                        36.160153
-                  ]
-            },
-            {
                   "name": "TI Theatre Mystère",
                   "text": "A TI Theatre Mystère a Cirque du Soleil Mystère című műsorát mutatja be a Treasure Island szállodában a Las Vegas Stripen.",
                   "category": "cultural",
@@ -20349,75 +19053,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Discovery Children's Museum",
-                  "text": "Interaktív gyermekmúzeum tudományos és művészeti kiállításokkal, a Las Vegas Strip közelében.",
-                  "category": "museum",
-                  "coords": [
-                        -115.152583,
-                        36.168699
-                  ]
-            },
-            {
-                  "name": "The Mob Museum",
-                  "text": "The Mob Museum a szervezett bűnözés történetét mutatja be Las Vegasban.",
-                  "category": "museum",
-                  "coords": [
-                        -115.141279,
-                        36.172784
-                  ]
-            },
-            {
-                  "name": "Neon Museum",
-                  "text": "A Neon Museum a Las Vegas-i történelmi neonreklámokat őrzi szabadtéri múzeumban.",
-                  "category": "museum",
-                  "coords": [
-                        -115.135254,
-                        36.176728
-                  ]
-            },
-            {
-                  "name": "Emergency Arts",
-                  "text": "Emergency Arts egy művészeti galéria és kreatív tér Las Vegasban.",
-                  "category": "museum",
-                  "coords": [
-                        -115.139596,
-                        36.169115
-                  ]
-            },
-            {
-                  "name": "Las Vegas Natural History Museum",
-                  "text": "Természetrajzi múzeum dinoszaurusz csontvázakkal a Las Vegas Strip-en.",
-                  "category": "museum",
-                  "coords": [
-                        -115.133792,
-                        36.179939
-                  ]
-            },
-            {
-                  "name": "Theatre 7",
-                  "text": "Kis színházterem helyi produkcióknak a Las Vegas Strip-en.",
-                  "category": "cultural",
-                  "coords": [
-                        -115.151731,
-                        36.153804
-                  ]
-            },
-            {
                   "name": "Shrine of the Most Holy Redeemer",
                   "text": "Katolikus templom, amely a Las Vegas Strip területét szolgálja ki.",
                   "category": "religious",
                   "coords": [
                         -115.169454,
                         36.096251
-                  ]
-            },
-            {
-                  "name": "Mon Bel Ami Wedding Chapel",
-                  "text": "Esküvői kápolna a Las Vegas Strip-en, francia ihletésű építészettel.",
-                  "category": "religious",
-                  "coords": [
-                        -115.144246,
-                        36.162968
                   ]
             },
             {
@@ -20436,33 +19077,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -115.179,
                         36.090656
-                  ]
-            },
-            {
-                  "name": "Hewetson Playground",
-                  "text": "Játszótér a Hewetson Parkban, a Las Vegas Strip közelében.",
-                  "category": "park",
-                  "coords": [
-                        -115.1224,
-                        36.1765
-                  ]
-            },
-            {
-                  "name": "Fitzgeralds Tot Lot",
-                  "text": "Kisgyermekek számára kialakított játszótér a Fitzgeralds Kaszinóban a Las Vegas Strip-en.",
-                  "category": "park",
-                  "coords": [
-                        -115.1516,
-                        36.1854
-                  ]
-            },
-            {
-                  "name": "Madison Playground",
-                  "text": "Nyilvános játszótér a Madison negyedben, a Las Vegas Strip közelében.",
-                  "category": "park",
-                  "coords": [
-                        -115.1551,
-                        36.1827
                   ]
             },
             {
@@ -20492,15 +19106,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -115.148385,
                         36.11402
-                  ]
-            },
-            {
-                  "name": "Las Vegas City Hall",
-                  "text": "O clădire istorică Art Deco din zona Vegas Strip.",
-                  "category": "historical",
-                  "coords": [
-                        -115.148485,
-                        36.167386
                   ]
             },
             {
@@ -20546,24 +19151,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -115.163482,
                         36.130527
-                  ]
-            },
-            {
-                  "name": "Little White Chapel",
-                  "text": "Little White Chapel din Las Vegas este o capelă de nuntă faimoasă, un loc popular pentru căsătorii rapide.",
-                  "category": "religious",
-                  "coords": [
-                        -115.14926,
-                        36.155182
-                  ]
-            },
-            {
-                  "name": "Big Shot",
-                  "text": "Big Shot din Las Vegas este un turn de cădere la Stratosphere care propulsează călătorii la 160 de picioare în aer.",
-                  "category": "landmark",
-                  "coords": [
-                        -115.155528,
-                        36.147409
                   ]
             },
             {
@@ -20621,24 +19208,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Punk Rock Museum",
-                  "text": "Un muzeu dedicat istoriei și obiectelor de colecție punk rock, pe Las Vegas Strip.",
-                  "category": "museum",
-                  "coords": [
-                        -115.160637,
-                        36.154336
-                  ]
-            },
-            {
-                  "name": "Burlesque Hall of Fame",
-                  "text": "Un muzeu care prezintă costume și obiecte de colecție burlesque, lângă Las Vegas Strip.",
-                  "category": "museum",
-                  "coords": [
-                        -115.152872,
-                        36.160153
-                  ]
-            },
-            {
                   "name": "TI Theatre Mystère",
                   "text": "TI Theatre Mystère găzduiește spectacolul Mystère de la Cirque du Soleil la hotelul Treasure Island pe Las Vegas Strip.",
                   "category": "cultural",
@@ -20666,75 +19235,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Discovery Children's Museum",
-                  "text": "Un muzeu interactiv pentru copii cu exponate științifice și artistice, lângă Las Vegas Strip.",
-                  "category": "museum",
-                  "coords": [
-                        -115.152583,
-                        36.168699
-                  ]
-            },
-            {
-                  "name": "The Mob Museum",
-                  "text": "The Mob Museum documentează istoria crimei organizate în Las Vegas.",
-                  "category": "museum",
-                  "coords": [
-                        -115.141279,
-                        36.172784
-                  ]
-            },
-            {
-                  "name": "Neon Museum",
-                  "text": "Neon Museum păstrează reclame istorice cu neon din Las Vegas într-un muzeu în aer liber.",
-                  "category": "museum",
-                  "coords": [
-                        -115.135254,
-                        36.176728
-                  ]
-            },
-            {
-                  "name": "Emergency Arts",
-                  "text": "Emergency Arts este o galerie de artă și un spațiu creativ în Las Vegas.",
-                  "category": "museum",
-                  "coords": [
-                        -115.139596,
-                        36.169115
-                  ]
-            },
-            {
-                  "name": "Las Vegas Natural History Museum",
-                  "text": "Un muzeu de istorie naturală cu schelete de dinozauri, pe Las Vegas Strip.",
-                  "category": "museum",
-                  "coords": [
-                        -115.133792,
-                        36.179939
-                  ]
-            },
-            {
-                  "name": "Theatre 7",
-                  "text": "O sală de teatru mică pentru producții locale, pe Las Vegas Strip.",
-                  "category": "cultural",
-                  "coords": [
-                        -115.151731,
-                        36.153804
-                  ]
-            },
-            {
                   "name": "Shrine of the Most Holy Redeemer",
                   "text": "O biserică catolică care deservește zona Las Vegas Strip.",
                   "category": "religious",
                   "coords": [
                         -115.169454,
                         36.096251
-                  ]
-            },
-            {
-                  "name": "Mon Bel Ami Wedding Chapel",
-                  "text": "O capelă de nuntă pe Las Vegas Strip, cu arhitectură inspirată de stilul francez.",
-                  "category": "religious",
-                  "coords": [
-                        -115.144246,
-                        36.162968
                   ]
             },
             {
@@ -20753,33 +19259,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -115.179,
                         36.090656
-                  ]
-            },
-            {
-                  "name": "Hewetson Playground",
-                  "text": "Un loc de joacă în Parcul Hewetson, lângă Las Vegas Strip.",
-                  "category": "park",
-                  "coords": [
-                        -115.1224,
-                        36.1765
-                  ]
-            },
-            {
-                  "name": "Fitzgeralds Tot Lot",
-                  "text": "Un loc de joacă pentru copii mici la Fitzgeralds Casino pe Las Vegas Strip.",
-                  "category": "park",
-                  "coords": [
-                        -115.1516,
-                        36.1854
-                  ]
-            },
-            {
-                  "name": "Madison Playground",
-                  "text": "Un loc de joacă public în cartierul Madison, lângă Las Vegas Strip.",
-                  "category": "park",
-                  "coords": [
-                        -115.1551,
-                        36.1827
                   ]
             },
             {
@@ -20809,15 +19288,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -115.148385,
                         36.11402
-                  ]
-            },
-            {
-                  "name": "Las Vegas City Hall",
-                  "text": "A historic Art Deco building in the Vegas Strip area.",
-                  "category": "historical",
-                  "coords": [
-                        -115.148485,
-                        36.167386
                   ]
             },
             {
@@ -20863,24 +19333,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -115.163482,
                         36.130527
-                  ]
-            },
-            {
-                  "name": "Little White Chapel",
-                  "text": "The Little White Chapel in Las Vegas is a famous wedding chapel, a popular location for quick weddings.",
-                  "category": "religious",
-                  "coords": [
-                        -115.14926,
-                        36.155182
-                  ]
-            },
-            {
-                  "name": "Big Shot",
-                  "text": "Big Shot in Las Vegas is a drop tower ride at the Stratosphere that propels riders 160 feet into the air.",
-                  "category": "landmark",
-                  "coords": [
-                        -115.155528,
-                        36.147409
                   ]
             },
             {
@@ -20938,24 +19390,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Punk Rock Museum",
-                  "text": "A museum of punk rock history and memorabilia on the Las Vegas Strip.",
-                  "category": "museum",
-                  "coords": [
-                        -115.160637,
-                        36.154336
-                  ]
-            },
-            {
-                  "name": "Burlesque Hall of Fame",
-                  "text": "A museum showcasing burlesque costumes and memorabilia near the Las Vegas Strip.",
-                  "category": "museum",
-                  "coords": [
-                        -115.152872,
-                        36.160153
-                  ]
-            },
-            {
                   "name": "TI Theatre Mystère",
                   "text": "TI Theatre Mystère hosts the Cirque du Soleil show Mystère at Treasure Island on the Las Vegas Strip.",
                   "category": "cultural",
@@ -20983,75 +19417,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Discovery Children's Museum",
-                  "text": "An interactive children's museum with hands-on science and art exhibits near the Las Vegas Strip.",
-                  "category": "museum",
-                  "coords": [
-                        -115.152583,
-                        36.168699
-                  ]
-            },
-            {
-                  "name": "The Mob Museum",
-                  "text": "The Mob Museum documents the history of organized crime in Las Vegas.",
-                  "category": "museum",
-                  "coords": [
-                        -115.141279,
-                        36.172784
-                  ]
-            },
-            {
-                  "name": "Neon Museum",
-                  "text": "The Neon Museum preserves vintage neon signs from Las Vegas in an outdoor museum.",
-                  "category": "museum",
-                  "coords": [
-                        -115.135254,
-                        36.176728
-                  ]
-            },
-            {
-                  "name": "Emergency Arts",
-                  "text": "Emergency Arts is an art gallery and creative space in Las Vegas.",
-                  "category": "museum",
-                  "coords": [
-                        -115.139596,
-                        36.169115
-                  ]
-            },
-            {
-                  "name": "Las Vegas Natural History Museum",
-                  "text": "A natural history museum with dinosaur skeletons on the Las Vegas Strip.",
-                  "category": "museum",
-                  "coords": [
-                        -115.133792,
-                        36.179939
-                  ]
-            },
-            {
-                  "name": "Theatre 7",
-                  "text": "A small theatre venue for local productions on the Las Vegas Strip.",
-                  "category": "cultural",
-                  "coords": [
-                        -115.151731,
-                        36.153804
-                  ]
-            },
-            {
                   "name": "Shrine of the Most Holy Redeemer",
                   "text": "A Catholic church serving the Las Vegas Strip area.",
                   "category": "religious",
                   "coords": [
                         -115.169454,
                         36.096251
-                  ]
-            },
-            {
-                  "name": "Mon Bel Ami Wedding Chapel",
-                  "text": "A wedding chapel on the Las Vegas Strip with French-inspired architecture.",
-                  "category": "religious",
-                  "coords": [
-                        -115.144246,
-                        36.162968
                   ]
             },
             {
@@ -21070,33 +19441,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -115.179,
                         36.090656
-                  ]
-            },
-            {
-                  "name": "Hewetson Playground",
-                  "text": "A playground at Hewetson Park near the Las Vegas Strip.",
-                  "category": "park",
-                  "coords": [
-                        -115.1224,
-                        36.1765
-                  ]
-            },
-            {
-                  "name": "Fitzgeralds Tot Lot",
-                  "text": "A tot lot at Fitzgeralds Casino on the Las Vegas Strip.",
-                  "category": "park",
-                  "coords": [
-                        -115.1516,
-                        36.1854
-                  ]
-            },
-            {
-                  "name": "Madison Playground",
-                  "text": "A public playground in the Madison neighborhood near the Las Vegas Strip.",
-                  "category": "park",
-                  "coords": [
-                        -115.1551,
-                        36.1827
                   ]
             },
             {
@@ -24780,15 +23124,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Alexander Lyman Holley Monument",
-                  "text": "Das Alexander Lyman Holley Denkmal ist eine Bronzebüste des Ingenieurs Alexander Lyman Holley, gelegen im Gebiet der Madison Square Garden Wahrzeichen.",
-                  "category": "historical",
-                  "coords": [
-                        -73.998145,
-                        40.731282
-                  ]
-            },
-            {
                   "name": "Magnet Theater",
                   "text": "Das Magnet Theater ist ein Comedy-Theater im Madison Square Garden Wahrzeichen-Gebiet, das sich auf Improvisation und Sketch-Comedy spezialisiert hat.",
                   "category": "cultural",
@@ -24941,15 +23276,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -74.002395,
                         40.733607
-                  ]
-            },
-            {
-                  "name": "Alexander Lyman Holley Monument",
-                  "text": "Az Alexander Lyman Holley-emlékmű egy bronz mellszobra Alexander Lyman Holley mérnöknek, a Madison Square Garden nevezetességek területén található.",
-                  "category": "historical",
-                  "coords": [
-                        -73.998145,
-                        40.731282
                   ]
             },
             {
@@ -25108,15 +23434,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Alexander Lyman Holley Monument",
-                  "text": "Monumentul Alexander Lyman Holley este un bust din bronz al inginerului Alexander Lyman Holley, situat în zona reperelor Madison Square Garden.",
-                  "category": "historical",
-                  "coords": [
-                        -73.998145,
-                        40.731282
-                  ]
-            },
-            {
                   "name": "Magnet Theater",
                   "text": "Magnet Theater este un teatru de comedie în zona reperelor Madison Square Garden, specializat în improvizație și comedie de schiță.",
                   "category": "cultural",
@@ -25269,15 +23586,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -74.002395,
                         40.733607
-                  ]
-            },
-            {
-                  "name": "Alexander Lyman Holley Monument",
-                  "text": "The Alexander Lyman Holley Monument is a bronze bust of the engineer Alexander Lyman Holley, located in the Madison Square Garden landmarks area.",
-                  "category": "historical",
-                  "coords": [
-                        -73.998145,
-                        40.731282
                   ]
             },
             {
@@ -29591,15 +27899,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Suzanne Roberts Theatre",
-                  "text": "365-Plätze-Theater an der Broad Street in Hall, Heimstätte der Philadelphia Theatre Company.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.165613,
-                        39.945028
-                  ]
-            },
-            {
                   "name": "Walt Whitman Bridge",
                   "text": "Die Walt Whitman Bridge, benannt nach dem Dichter, ist eine Hängebrücke in independence-hall-landmarks-v2.",
                   "category": "landmark",
@@ -29905,15 +28204,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -75.163173,
                         39.945945
-                  ]
-            },
-            {
-                  "name": "Suzanne Roberts Theatre",
-                  "text": "365 férőhelyes színház a Broad Streeten Hallban, a Philadelphia Theatre Company otthona.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.165613,
-                        39.945028
                   ]
             },
             {
@@ -30225,15 +28515,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Suzanne Roberts Theatre",
-                  "text": "Teatru cu 365 de locuri pe Broad Street în Hall, casa Philadelphia Theatre Company.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.165613,
-                        39.945028
-                  ]
-            },
-            {
                   "name": "Walt Whitman Bridge",
                   "text": "Podul Walt Whitman, numit după poet, este un pod suspendat în independence-hall-landmarks-v2.",
                   "category": "landmark",
@@ -30542,15 +28823,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Suzanne Roberts Theatre",
-                  "text": "365-seat theater on Broad Street in Hall, home to the Philadelphia Theatre Company.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.165613,
-                        39.945028
-                  ]
-            },
-            {
                   "name": "Walt Whitman Bridge",
                   "text": "Walt Whitman Bridge, named after the poet, is a suspension bridge in independence-hall-landmarks-v2.",
                   "category": "landmark",
@@ -30652,24 +28924,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
     id: "liberty-bell-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "The Library Company",
-                  "text": "The Library Company ist Amerikas älteste Kulturinstitution, eine von Benjamin Franklin gegründete Leihbibliothek.",
-                  "category": "museum",
-                  "coords": [
-                        -75.163168,
-                        39.947887
-                  ]
-            },
-            {
-                  "name": "Mütter Museum",
-                  "text": "Das Mütter Museum ist ein medizinisches Museum in Philadelphia, bekannt für seine Sammlung anatomischer Präparate.",
-                  "category": "museum",
-                  "coords": [
-                        -75.176547,
-                        39.953275
-                  ]
-            },
-            {
                   "name": "Weitzman National Museum of American Jewish History",
                   "text": "Museum in Bell, das die amerikanisch-jüdische Erfahrung erkundet.",
                   "category": "museum",
@@ -30733,57 +28987,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Eastern State Penitentiary",
-                  "text": "Das Eastern State Penitentiary ist ein historisches Gefängnis, bekannt für seinen radialen Grundriss und Insassen wie Al Capone.",
-                  "category": "museum",
-                  "coords": [
-                        -75.172662,
-                        39.968342
-                  ]
-            },
-            {
-                  "name": "Philadelphia Museum of Art",
-                  "text": "Das Philadelphia Museum of Art ist berühmt für seine Stufen, die im Film Rocky vorkommen.",
-                  "category": "museum",
-                  "coords": [
-                        -75.181057,
-                        39.965676
-                  ]
-            },
-            {
                   "name": "Lemon Hill Mansion",
                   "text": "Federal-Herrenhaus in Fairmount Park, Bell, erbaut 1800 mit Blick auf den Schuylkill.",
                   "category": "museum",
                   "coords": [
                         -75.187201,
                         39.970723
-                  ]
-            },
-            {
-                  "name": "Barnes Foundation",
-                  "text": "Die Barnes Foundation beherbergt eine renommierte Kunstsammlung mit Werken von Renoir, Cézanne und anderen.",
-                  "category": "museum",
-                  "coords": [
-                        -75.172735,
-                        39.96062
-                  ]
-            },
-            {
-                  "name": "Rodin Museum",
-                  "text": "Das Rodin Museum beherbergt die größte Sammlung von Rodin-Werken außerhalb von Paris.",
-                  "category": "museum",
-                  "coords": [
-                        -75.173951,
-                        39.96193
-                  ]
-            },
-            {
-                  "name": "Franklin Institute",
-                  "text": "Wissenschaftsmuseum in Bell mit interaktiven Exponaten und einem riesigen Herzen.",
-                  "category": "museum",
-                  "coords": [
-                        -75.173123,
-                        39.958276
                   ]
             },
             {
@@ -31014,24 +29223,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "The Library Company",
-                  "text": "A The Library Company Amerika legrégebbi kulturális intézménye, egy Benjamin Franklin által alapított kölcsönkönyvtár.",
-                  "category": "museum",
-                  "coords": [
-                        -75.163168,
-                        39.947887
-                  ]
-            },
-            {
-                  "name": "Mütter Museum",
-                  "text": "A Mütter Museum egy orvosi múzeum Philadelphiában, híres anatómiai preparátumok gyűjteményéről.",
-                  "category": "museum",
-                  "coords": [
-                        -75.176547,
-                        39.953275
-                  ]
-            },
-            {
                   "name": "Weitzman National Museum of American Jewish History",
                   "text": "Múzeum Bellben, amely az amerikai zsidó tapasztalatot mutatja be.",
                   "category": "museum",
@@ -31095,57 +29286,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Eastern State Penitentiary",
-                  "text": "Az Eastern State Penitentiary egy történelmi börtön, híres sugárirányú alaprajzáról és olyan fogvatartottakról, mint Al Capone.",
-                  "category": "museum",
-                  "coords": [
-                        -75.172662,
-                        39.968342
-                  ]
-            },
-            {
-                  "name": "Philadelphia Museum of Art",
-                  "text": "A Philadelphia Museum of Art híres a lépcsőiről, amelyek a Rocky filmben szerepelnek.",
-                  "category": "museum",
-                  "coords": [
-                        -75.181057,
-                        39.965676
-                  ]
-            },
-            {
                   "name": "Lemon Hill Mansion",
                   "text": "Federal stílusú kúria a Fairmount Parkban, Bellben, épült 1800-ban, kilátással a Schuylkillre.",
                   "category": "museum",
                   "coords": [
                         -75.187201,
                         39.970723
-                  ]
-            },
-            {
-                  "name": "Barnes Foundation",
-                  "text": "A Barnes Foundation egy neves művészeti gyűjteményt őriz, Renoir, Cézanne és mások alkotásaival.",
-                  "category": "museum",
-                  "coords": [
-                        -75.172735,
-                        39.96062
-                  ]
-            },
-            {
-                  "name": "Rodin Museum",
-                  "text": "A Rodin Museum a Rodin-művek legnagyobb gyűjteményét őrzi Párizson kívül.",
-                  "category": "museum",
-                  "coords": [
-                        -75.173951,
-                        39.96193
-                  ]
-            },
-            {
-                  "name": "Franklin Institute",
-                  "text": "Tudományos múzeum Bellben interaktív kiállításokkal és egy hatalmas szívvel.",
-                  "category": "museum",
-                  "coords": [
-                        -75.173123,
-                        39.958276
                   ]
             },
             {
@@ -31376,24 +29522,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "The Library Company",
-                  "text": "The Library Company este cea mai veche instituție culturală din America, o bibliotecă de împrumut fondată de Benjamin Franklin.",
-                  "category": "museum",
-                  "coords": [
-                        -75.163168,
-                        39.947887
-                  ]
-            },
-            {
-                  "name": "Mütter Museum",
-                  "text": "Muzeul Mütter este un muzeu medical din Philadelphia, renumit pentru colecția sa de specimene anatomice.",
-                  "category": "museum",
-                  "coords": [
-                        -75.176547,
-                        39.953275
-                  ]
-            },
-            {
                   "name": "Weitzman National Museum of American Jewish History",
                   "text": "Muzeu în Bell care explorează experiența evreiască americană.",
                   "category": "museum",
@@ -31457,57 +29585,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Eastern State Penitentiary",
-                  "text": "Penitenciarul Eastern State este o închisoare istorică, cunoscută pentru planul radial și deținuți precum Al Capone.",
-                  "category": "museum",
-                  "coords": [
-                        -75.172662,
-                        39.968342
-                  ]
-            },
-            {
-                  "name": "Philadelphia Museum of Art",
-                  "text": "Muzeul de Artă din Philadelphia este celebru pentru treptele sale, care apar în filmul Rocky.",
-                  "category": "museum",
-                  "coords": [
-                        -75.181057,
-                        39.965676
-                  ]
-            },
-            {
                   "name": "Lemon Hill Mansion",
                   "text": "Conac în stil federal în Fairmount Park, Bell, construit în 1800, cu vedere spre râul Schuylkill.",
                   "category": "museum",
                   "coords": [
                         -75.187201,
                         39.970723
-                  ]
-            },
-            {
-                  "name": "Barnes Foundation",
-                  "text": "Fundația Barnes găzduiește o renumită colecție de artă cu lucrări de Renoir, Cézanne și alții.",
-                  "category": "museum",
-                  "coords": [
-                        -75.172735,
-                        39.96062
-                  ]
-            },
-            {
-                  "name": "Rodin Museum",
-                  "text": "Muzeul Rodin găzduiește cea mai mare colecție de opere ale lui Rodin din afara Parisului.",
-                  "category": "museum",
-                  "coords": [
-                        -75.173951,
-                        39.96193
-                  ]
-            },
-            {
-                  "name": "Franklin Institute",
-                  "text": "Muzeu de știință în Bell cu exponate interactive și o inimă uriașă.",
-                  "category": "museum",
-                  "coords": [
-                        -75.173123,
-                        39.958276
                   ]
             },
             {
@@ -31738,24 +29821,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "The Library Company",
-                  "text": "The Library Company is America's oldest cultural institution, a subscription library founded by Benjamin Franklin.",
-                  "category": "museum",
-                  "coords": [
-                        -75.163168,
-                        39.947887
-                  ]
-            },
-            {
-                  "name": "Mütter Museum",
-                  "text": "The Mütter Museum is a medical museum in Philadelphia famous for its collection of anatomical specimens.",
-                  "category": "museum",
-                  "coords": [
-                        -75.176547,
-                        39.953275
-                  ]
-            },
-            {
                   "name": "Weitzman National Museum of American Jewish History",
                   "text": "Museum in Bell exploring the American Jewish experience.",
                   "category": "museum",
@@ -31819,57 +29884,12 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Eastern State Penitentiary",
-                  "text": "Eastern State Penitentiary is a historic prison known for its radial floor plan and former inmates like Al Capone.",
-                  "category": "museum",
-                  "coords": [
-                        -75.172662,
-                        39.968342
-                  ]
-            },
-            {
-                  "name": "Philadelphia Museum of Art",
-                  "text": "The Philadelphia Museum of Art is famous for its steps featured in the film Rocky.",
-                  "category": "museum",
-                  "coords": [
-                        -75.181057,
-                        39.965676
-                  ]
-            },
-            {
                   "name": "Lemon Hill Mansion",
                   "text": "Federal-style mansion in Fairmount Park, Bell, built 1800 with view of the Schuylkill River.",
                   "category": "museum",
                   "coords": [
                         -75.187201,
                         39.970723
-                  ]
-            },
-            {
-                  "name": "Barnes Foundation",
-                  "text": "The Barnes Foundation houses a renowned art collection with works by Renoir, Cézanne, and others.",
-                  "category": "museum",
-                  "coords": [
-                        -75.172735,
-                        39.96062
-                  ]
-            },
-            {
-                  "name": "Rodin Museum",
-                  "text": "The Rodin Museum houses the largest collection of Rodin's works outside Paris.",
-                  "category": "museum",
-                  "coords": [
-                        -75.173951,
-                        39.96193
-                  ]
-            },
-            {
-                  "name": "Franklin Institute",
-                  "text": "Science museum in Bell with interactive exhibits and a giant heart.",
-                  "category": "museum",
-                  "coords": [
-                        -75.173123,
-                        39.958276
                   ]
             },
             {
@@ -32927,15 +30947,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lower East Side Tenement Museum",
-                  "text": "Das Lower East Side Tenement Museum zeigt die Wohnverhältnisse von Einwanderern im 19. und 20. Jahrhundert.",
-                  "category": "museum",
-                  "coords": [
-                        -73.990027,
-                        40.718784
-                  ]
-            },
-            {
                   "name": "Museum at Eldridge Street",
                   "text": "Untergebracht in einer historischen Synagoge von 1887, erforscht dieses Museum auf der Lower East Side die jüdische Einwanderungsgeschichte.",
                   "category": "museum",
@@ -32951,15 +30962,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -73.934934,
                         40.703311
-                  ]
-            },
-            {
-                  "name": "Hare Krishna Temple",
-                  "text": "Der Hare Krishna Temple ist ein Gotteshaus der Internationalen Gesellschaft für Krishna-Bewusstsein in New York City.",
-                  "category": "religious",
-                  "coords": [
-                        -73.990443,
-                        40.724476
                   ]
             },
             {
@@ -33104,15 +31106,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -73.995198,
                         40.723581
-                  ]
-            },
-            {
-                  "name": "Liz Christy Garden",
-                  "text": "Erster Gemeinschaftsgarten in New York, gegründet 1973, in Bridge.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.992152,
-                        40.724241
                   ]
             },
             {
@@ -33262,15 +31255,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lower East Side Tenement Museum",
-                  "text": "A Lower East Side Tenement Museum a bevándorlók 19. és 20. századi lakáskörülményeit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -73.990027,
-                        40.718784
-                  ]
-            },
-            {
                   "name": "Museum at Eldridge Street",
                   "text": "Egy 1887-es történelmi zsinagógában elhelyezkedő múzeum a Lower East Side-on a zsidó bevándorlás történetét vizsgálja.",
                   "category": "museum",
@@ -33286,15 +31270,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -73.934934,
                         40.703311
-                  ]
-            },
-            {
-                  "name": "Hare Krishna Temple",
-                  "text": "A Hare Krishna Templom a Nemzetközi Krisna-tudatú Társaság imahelye New York Cityben.",
-                  "category": "religious",
-                  "coords": [
-                        -73.990443,
-                        40.724476
                   ]
             },
             {
@@ -33439,15 +31414,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -73.995198,
                         40.723581
-                  ]
-            },
-            {
-                  "name": "Liz Christy Garden",
-                  "text": "New York első közösségi kertje Bridge-ben, alapítva 1973-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.992152,
-                        40.724241
                   ]
             },
             {
@@ -33597,15 +31563,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lower East Side Tenement Museum",
-                  "text": "Lower East Side Tenement Museum prezintă condițiile de locuit ale imigranților din secolele XIX și XX.",
-                  "category": "museum",
-                  "coords": [
-                        -73.990027,
-                        40.718784
-                  ]
-            },
-            {
                   "name": "Museum at Eldridge Street",
                   "text": "Adăpostit într-o sinagogă istorică din 1887, acest muzeu din Lower East Side explorează istoria imigrației evreiești.",
                   "category": "museum",
@@ -33621,15 +31578,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -73.934934,
                         40.703311
-                  ]
-            },
-            {
-                  "name": "Hare Krishna Temple",
-                  "text": "Templul Hare Krishna este un lăcaș de cult al Societății Internaționale pentru Conștiința lui Krishna din New York City.",
-                  "category": "religious",
-                  "coords": [
-                        -73.990443,
-                        40.724476
                   ]
             },
             {
@@ -33774,15 +31722,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -73.995198,
                         40.723581
-                  ]
-            },
-            {
-                  "name": "Liz Christy Garden",
-                  "text": "Prima grădină comunitară din New York, fondată în 1973, în Bridge.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.992152,
-                        40.724241
                   ]
             },
             {
@@ -33932,15 +31871,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lower East Side Tenement Museum",
-                  "text": "Lower East Side Tenement Museum tells the story of immigrant housing in the 19th and 20th centuries.",
-                  "category": "museum",
-                  "coords": [
-                        -73.990027,
-                        40.718784
-                  ]
-            },
-            {
                   "name": "Museum at Eldridge Street",
                   "text": "Housed in a historic 1887 synagogue, this museum on the Lower East Side explores Jewish immigrant history.",
                   "category": "museum",
@@ -33956,15 +31886,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -73.934934,
                         40.703311
-                  ]
-            },
-            {
-                  "name": "Hare Krishna Temple",
-                  "text": "Hare Krishna Temple is a place of worship of the International Society for Krishna Consciousness in New York City.",
-                  "category": "religious",
-                  "coords": [
-                        -73.990443,
-                        40.724476
                   ]
             },
             {
@@ -34109,15 +32030,6 @@ export const poiExtraUsaLandmarksV2: POI[] = [
                   "coords": [
                         -73.995198,
                         40.723581
-                  ]
-            },
-            {
-                  "name": "Liz Christy Garden",
-                  "text": "First community garden in New York City, established 1973, in Bridge.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.992152,
-                        40.724241
                   ]
             },
             {

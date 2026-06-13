@@ -252,51 +252,6 @@ export const poiExtraMadagascarNatureV2: POI[] = [
                         48.291104,
                         -13.406994
                   ]
-            },
-            {
-                  "name": "Vieux Port Disco",
-                  "text": "Diese lebhafte Disco in der Nähe des alten Hafens ist ein beliebter Ort für das Nachtleben, der moderne Musik mit madagassischen Rhythmen verbindet.",
-                  "category": "landmark",
-                  "coords": [
-                        48.27796,
-                        -13.405548
-                  ]
-            },
-            {
-                  "name": "L'arbre sacré Sakalava",
-                  "text": "Dieser massive, heilige Banyanbaum ist in rote und weiße Tücher gehüllt und ein verehrter spiritueller Ort, an dem die Sakalava traditionelle Gebete sprechen.",
-                  "category": "landmark",
-                  "coords": [
-                        48.253078,
-                        -13.413465
-                  ]
-            },
-            {
-                  "name": "Location Bienvenu",
-                  "text": "Location Bienvenu dient als praktischer lokaler Verleih, der Reisende für Ausflüge in das dichte Naturschutzgebiet Lokobe ausrüstet.",
-                  "category": "landmark",
-                  "coords": [
-                        48.274526,
-                        -13.404493
-                  ]
-            },
-            {
-                  "name": "Nosy Easy Rent",
-                  "text": "Nosy Easy Rent vermietet Motorroller und Fahrzeuge an Touristen, die die Küstenstraßen und bewaldeten Regionen rund um Lokobe erkunden möchten.",
-                  "category": "landmark",
-                  "coords": [
-                        48.265689,
-                        -13.396359
-                  ]
-            },
-            {
-                  "name": "Arbre Sacré",
-                  "text": "Dieser tief verehrte heilige Baum in der Nähe von Lokobe hat weitläufige Wurzeln und ist mit traditionellen Opfergaben der örtlichen Gemeinde geschmückt.",
-                  "category": "landmark",
-                  "coords": [
-                        48.25328,
-                        -13.412054
-                  ]
             }
       ],
       "hu": [
@@ -325,51 +280,6 @@ export const poiExtraMadagascarNatureV2: POI[] = [
                   "coords": [
                         48.291104,
                         -13.406994
-                  ]
-            },
-            {
-                  "name": "Vieux Port Disco",
-                  "text": "A régi kikötő közelében található nyüzsgő diszkó egy népszerű éjszakai szórakozóhely, amely a modern zenét ötvözi a pezsgő madagaszkári ritmusokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        48.27796,
-                        -13.405548
-                  ]
-            },
-            {
-                  "name": "L'arbre sacré Sakalava",
-                  "text": "A piros-fehér textíliákba burkolt, hatalmas, szent banyánfa egy tisztelt spirituális helyszín, ahol a sakalava nép hagyományos imákat mond.",
-                  "category": "landmark",
-                  "coords": [
-                        48.253078,
-                        -13.413465
-                  ]
-            },
-            {
-                  "name": "Location Bienvenu",
-                  "text": "A Location Bienvenu kényelmes helyi kölcsönzőként szolgál, amely felszereli az utazókat a sűrű Lokobe Természetvédelmi Területre induló kirándulásokhoz.",
-                  "category": "landmark",
-                  "coords": [
-                        48.274526,
-                        -13.404493
-                  ]
-            },
-            {
-                  "name": "Nosy Easy Rent",
-                  "text": "A Nosy Easy Rent robogókat és járműveket biztosít azoknak a turistáknak, akik fel szeretnék fedezni a Lokobe körüli tengerparti utakat és erdős régiókat.",
-                  "category": "landmark",
-                  "coords": [
-                        48.265689,
-                        -13.396359
-                  ]
-            },
-            {
-                  "name": "Arbre Sacré",
-                  "text": "A Lokobe közelében található, mélyen tisztelt szent fának kiterjedt gyökérzete van, és a helyi közösség hagyományos felajánlásaival díszítik.",
-                  "category": "landmark",
-                  "coords": [
-                        48.25328,
-                        -13.412054
                   ]
             }
       ],
@@ -400,51 +310,6 @@ export const poiExtraMadagascarNatureV2: POI[] = [
                         48.291104,
                         -13.406994
                   ]
-            },
-            {
-                  "name": "Vieux Port Disco",
-                  "text": "Situată lângă vechiul port, această discotecă vibrantă este o locație populară pentru viața de noapte, îmbinând muzica modernă cu ritmuri malgașe pline de viață.",
-                  "category": "landmark",
-                  "coords": [
-                        48.27796,
-                        -13.405548
-                  ]
-            },
-            {
-                  "name": "L'arbre sacré Sakalava",
-                  "text": "Înfășurat în pânze roșii și albe, acest arbore banyan sacru și masiv este un loc spiritual venerat unde poporul Sakalava oferă rugăciuni tradiționale.",
-                  "category": "landmark",
-                  "coords": [
-                        48.253078,
-                        -13.413465
-                  ]
-            },
-            {
-                  "name": "Location Bienvenu",
-                  "text": "Location Bienvenu servește drept un centru local convenabil de închirieri, echipând călătorii pentru excursii în rezervația naturală densă Lokobe.",
-                  "category": "landmark",
-                  "coords": [
-                        48.274526,
-                        -13.404493
-                  ]
-            },
-            {
-                  "name": "Nosy Easy Rent",
-                  "text": "Nosy Easy Rent oferă scutere și vehicule turiștilor care doresc să exploreze drumurile de coastă și regiunile împădurite din jurul Lokobe.",
-                  "category": "landmark",
-                  "coords": [
-                        48.265689,
-                        -13.396359
-                  ]
-            },
-            {
-                  "name": "Arbre Sacré",
-                  "text": "Acest arbore sacru profund venerat din apropiere de Lokobe are rădăcini extinse și este împodobit cu ofrande tradiționale din partea comunității locale.",
-                  "category": "landmark",
-                  "coords": [
-                        48.25328,
-                        -13.412054
-                  ]
             }
       ],
       "en": [
@@ -473,51 +338,6 @@ export const poiExtraMadagascarNatureV2: POI[] = [
                   "coords": [
                         48.291104,
                         -13.406994
-                  ]
-            },
-            {
-                  "name": "Vieux Port Disco",
-                  "text": "Situated near the old port, this vibrant disco is a popular nightlife venue blending modern music with lively Malagasy rhythms.",
-                  "category": "landmark",
-                  "coords": [
-                        48.27796,
-                        -13.405548
-                  ]
-            },
-            {
-                  "name": "L'arbre sacré Sakalava",
-                  "text": "Wrapped in red and white cloth, this massive, sacred banyan tree is a revered spiritual site where the Sakalava people offer traditional prayers.",
-                  "category": "landmark",
-                  "coords": [
-                        48.253078,
-                        -13.413465
-                  ]
-            },
-            {
-                  "name": "Location Bienvenu",
-                  "text": "Location Bienvenu serves as a convenient local rental outpost, equipping travelers for excursions into the dense Lokobe Nature Reserve.",
-                  "category": "landmark",
-                  "coords": [
-                        48.274526,
-                        -13.404493
-                  ]
-            },
-            {
-                  "name": "Nosy Easy Rent",
-                  "text": "Nosy Easy Rent provides scooters and vehicles to tourists looking to explore the coastal roads and forested regions surrounding Lokobe.",
-                  "category": "landmark",
-                  "coords": [
-                        48.265689,
-                        -13.396359
-                  ]
-            },
-            {
-                  "name": "Arbre Sacré",
-                  "text": "This deeply revered sacred tree near Lokobe features sprawling roots and is adorned with traditional offerings from the local community.",
-                  "category": "landmark",
-                  "coords": [
-                        48.25328,
-                        -13.412054
                   ]
             }
       ]

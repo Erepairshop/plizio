@@ -6,24 +6,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     id: "israel-ramat-gan-safari-life-v2", "sights": {
       "de": [
             {
-                  "name": "pillbox",
-                  "text": "Ein betonierter Verteidigungsposten (Pillbox) aus der Zeit des britischen Mandats.",
-                  "category": "historical",
-                  "coords": [
-                        34.881959,
-                        32.061911
-                  ]
-            },
-            {
-                  "name": "Mirkaz haBama",
-                  "text": "Ein lokales Zentrum für darstellende Künste, das Theateraufführungen und kulturelle Veranstaltungen beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        34.880073,
-                        32.058965
-                  ]
-            },
-            {
                   "name": "Zero",
                   "text": "Ein kleiner Theaterraum in Ramat Gan, der sich auf zeitgenössische Bühnenstücke spezialisiert hat.",
                   "category": "cultural",
@@ -39,15 +21,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.813658,
                         32.047711
-                  ]
-            },
-            {
-                  "name": "Beit Russell",
-                  "text": "Ein multifunktionaler Kultursaal und Theater, das der Gemeinde von Ramat Gan dient.",
-                  "category": "cultural",
-                  "coords": [
-                        34.834221,
-                        32.068684
                   ]
             },
             {
@@ -93,15 +66,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.816837,
                         32.060702
-                  ]
-            },
-            {
-                  "name": "David Park",
-                  "text": "Ein ruhiger Stadtpark mit schattigen Plätzen, Rasenflächen und Bänken zum Entspannen.",
-                  "category": "park",
-                  "coords": [
-                        34.830662,
-                        32.071745
                   ]
             },
             {
@@ -233,24 +197,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "pillbox",
-                  "text": "A brit mandátum idejéből származó beton védelmi őrhely (pillbox).",
-                  "category": "historical",
-                  "coords": [
-                        34.881959,
-                        32.061911
-                  ]
-            },
-            {
-                  "name": "Mirkaz haBama",
-                  "text": "Helyi előadóművészeti központ, amely színházi előadásoknak és kulturális eseményeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        34.880073,
-                        32.058965
-                  ]
-            },
-            {
                   "name": "Zero",
                   "text": "Kis színházi tér Ramat Ganban, amely kortárs színpadi művekre szakosodott.",
                   "category": "cultural",
@@ -266,15 +212,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.813658,
                         32.047711
-                  ]
-            },
-            {
-                  "name": "Beit Russell",
-                  "text": "Többfunkciós kulturális terem és színház, amely Ramat Gan közösségét szolgálja.",
-                  "category": "cultural",
-                  "coords": [
-                        34.834221,
-                        32.068684
                   ]
             },
             {
@@ -320,15 +257,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.816837,
                         32.060702
-                  ]
-            },
-            {
-                  "name": "David Park",
-                  "text": "Csendes városi park árnyékos helyekkel, pázsittal és padokkal a pihenéshez.",
-                  "category": "park",
-                  "coords": [
-                        34.830662,
-                        32.071745
                   ]
             },
             {
@@ -460,24 +388,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "pillbox",
-                  "text": "Un post de pază defensiv din beton (pillbox) datând din perioada mandatului britanic.",
-                  "category": "historical",
-                  "coords": [
-                        34.881959,
-                        32.061911
-                  ]
-            },
-            {
-                  "name": "Mirkaz haBama",
-                  "text": "Un centru local de arte spectacolului care găzduiește piese de teatru și evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        34.880073,
-                        32.058965
-                  ]
-            },
-            {
                   "name": "Zero",
                   "text": "Un spațiu teatral intim în Ramat Gan, specializat în piese de scenă contemporane.",
                   "category": "cultural",
@@ -493,15 +403,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.813658,
                         32.047711
-                  ]
-            },
-            {
-                  "name": "Beit Russell",
-                  "text": "O sală culturală multifuncțională și teatru care deservește comunitatea din Ramat Gan.",
-                  "category": "cultural",
-                  "coords": [
-                        34.834221,
-                        32.068684
                   ]
             },
             {
@@ -547,15 +448,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.816837,
                         32.060702
-                  ]
-            },
-            {
-                  "name": "David Park",
-                  "text": "Un parc urban liniștit, care oferă locuri umbrite, peluze și bänci pentru relaxare.",
-                  "category": "park",
-                  "coords": [
-                        34.830662,
-                        32.071745
                   ]
             },
             {
@@ -687,24 +579,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "pillbox",
-                  "text": "A concrete defensive guard post (pillbox) dating back to the British Mandate era.",
-                  "category": "historical",
-                  "coords": [
-                        34.881959,
-                        32.061911
-                  ]
-            },
-            {
-                  "name": "Mirkaz haBama",
-                  "text": "A local performing arts center hosting theater performances and cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        34.880073,
-                        32.058965
-                  ]
-            },
-            {
                   "name": "Zero",
                   "text": "An intimate theater space in Ramat Gan specialized in contemporary stage plays.",
                   "category": "cultural",
@@ -720,15 +594,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.813658,
                         32.047711
-                  ]
-            },
-            {
-                  "name": "Beit Russell",
-                  "text": "A multi-purpose cultural hall and theater serving the Ramat Gan community.",
-                  "category": "cultural",
-                  "coords": [
-                        34.834221,
-                        32.068684
                   ]
             },
             {
@@ -774,15 +639,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.816837,
                         32.060702
-                  ]
-            },
-            {
-                  "name": "David Park",
-                  "text": "A quiet urban park providing shaded spots, lawns, and benches for relaxation.",
-                  "category": "park",
-                  "coords": [
-                        34.830662,
-                        32.071745
                   ]
             },
             {
@@ -3143,15 +2999,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bnei Brak Municipality",
-                  "text": "Das Gebäude der Bnei Brak Municipality dient als Verwaltungszentrum der lokalen Regierung in israel-yarkon-park-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        34.827578,
-                        32.083746
-                  ]
-            },
-            {
                   "name": "Seven Mills",
                   "text": "Seven Mills ist eine bekannte archäologische Stätte, die entlang des Flusses in israel-yarkon-park-life-v2 liegt.",
                   "category": "historical",
@@ -3170,15 +3017,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Itzhak Ohayon park",
-                  "text": "Der Itzhak Ohayon Park bietet weite Grünflächen und Naherholungsgebiete für die Öffentlichkeit in israel-yarkon-park-life-v2.",
-                  "category": "park",
-                  "coords": [
-                        34.868314,
-                        32.09373
-                  ]
-            },
-            {
                   "name": "Yehushua Gardens",
                   "text": "Die Yehushua Gardens sind ein großer Stadtpark, der einen Ausflug in die Natur innerhalb von israel-yarkon-park-life-v2 ermöglicht.",
                   "category": "park",
@@ -3194,15 +3032,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.810185,
                         32.099754
-                  ]
-            },
-            {
-                  "name": "Tel Zeton",
-                  "text": "Tel Zeton ist eine erhaltene archäologische Ausgrabungsstätte, die in israel-yarkon-park-life-v2 entdeckt wurde.",
-                  "category": "historical",
-                  "coords": [
-                        34.837012,
-                        32.099559
                   ]
             },
             {
@@ -3242,24 +3071,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gan Hai in Petah Tikva",
-                  "text": "Gan Hai in Petah Tikva ist ein lokaler Zoo in der Gegend von israel-yarkon-park-life-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        34.873984,
-                        32.087296
-                  ]
-            },
-            {
-                  "name": "Beit HaDfus",
-                  "text": "Beit HaDfus ist ein Museum in der Stadt israel-yarkon-park-life-v2.",
-                  "category": "museum",
-                  "coords": [
-                        34.883247,
-                        32.087565
-                  ]
-            },
-            {
                   "name": "Beit Natan Rappaport",
                   "text": "Beit Natan Rappaport ist ein historisches Museum in israel-yarkon-park-life-v2.",
                   "category": "museum",
@@ -3293,15 +3104,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.916255,
                         32.114681
-                  ]
-            },
-            {
-                  "name": "Sharet hall",
-                  "text": "Die Sharet Hall ist ein lokales Theater, in dem verschiedene Aufführungen in israel-yarkon-park-life-v2 stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        34.888217,
-                        32.087596
                   ]
             },
             {
@@ -3406,15 +3208,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bnei Brak Municipality",
-                  "text": "A Bnei Brak önkormányzatának épülete a helyi közigazgatási központként szolgál israel-yarkon-park-life-v2-ben.",
-                  "category": "historical",
-                  "coords": [
-                        34.827578,
-                        32.083746
-                  ]
-            },
-            {
                   "name": "Seven Mills",
                   "text": "A Seven Mills egy híres régészeti lelőhely a folyó mentén israel-yarkon-park-life-v2-ben.",
                   "category": "historical",
@@ -3433,15 +3226,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Itzhak Ohayon park",
-                  "text": "Az Itzhak Ohayon park tágas zöldterületeket és rekreációs lehetőségeket kínál a nagyközönség számára israel-yarkon-park-life-v2-ben.",
-                  "category": "park",
-                  "coords": [
-                        34.868314,
-                        32.09373
-                  ]
-            },
-            {
                   "name": "Yehushua Gardens",
                   "text": "A Yehushua Gardens egy jelentős városi park, amely a természetbe való elvonulást biztosítja israel-yarkon-park-life-v2 területén.",
                   "category": "park",
@@ -3457,15 +3241,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.810185,
                         32.099754
-                  ]
-            },
-            {
-                  "name": "Tel Zeton",
-                  "text": "A Tel Zeton egy megőrzött régészeti ásatási terület, amelyet israel-yarkon-park-life-v2-ben fedeztek fel.",
-                  "category": "historical",
-                  "coords": [
-                        34.837012,
-                        32.099559
                   ]
             },
             {
@@ -3505,24 +3280,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gan Hai in Petah Tikva",
-                  "text": "A Gan Hai in Petah Tikva egy helyi állatkert az israel-yarkon-park-life-v2 területén.",
-                  "category": "recreational",
-                  "coords": [
-                        34.873984,
-                        32.087296
-                  ]
-            },
-            {
-                  "name": "Beit HaDfus",
-                  "text": "A Beit HaDfus egy múzeum israel-yarkon-park-life-v2 városában.",
-                  "category": "museum",
-                  "coords": [
-                        34.883247,
-                        32.087565
-                  ]
-            },
-            {
                   "name": "Beit Natan Rappaport",
                   "text": "A Beit Natan Rappaport egy történelmi múzeum israel-yarkon-park-life-v2 területén.",
                   "category": "museum",
@@ -3556,15 +3313,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.916255,
                         32.114681
-                  ]
-            },
-            {
-                  "name": "Sharet hall",
-                  "text": "A Sharet hall egy helyi színház, amely különféle előadásoknak ad otthont israel-yarkon-park-life-v2 területén.",
-                  "category": "cultural",
-                  "coords": [
-                        34.888217,
-                        32.087596
                   ]
             },
             {
@@ -3669,15 +3417,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bnei Brak Municipality",
-                  "text": "Clădirea Primăriei Bnei Brak servește drept centru administrativ pentru guvernul local din israel-yarkon-park-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        34.827578,
-                        32.083746
-                  ]
-            },
-            {
                   "name": "Seven Mills",
                   "text": "Seven Mills este un renumit sit arheologic situat de-a lungul râului în israel-yarkon-park-life-v2.",
                   "category": "historical",
@@ -3696,15 +3435,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Itzhak Ohayon park",
-                  "text": "Parcul Itzhak Ohayon oferă spații verzi largi și zone de recreere pentru publicul din israel-yarkon-park-life-v2.",
-                  "category": "park",
-                  "coords": [
-                        34.868314,
-                        32.09373
-                  ]
-            },
-            {
                   "name": "Yehushua Gardens",
                   "text": "Grădinile Yehushua reprezintă un parc urban major care oferă o evadare în natură în israel-yarkon-park-life-v2.",
                   "category": "park",
@@ -3720,15 +3450,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.810185,
                         32.099754
-                  ]
-            },
-            {
-                  "name": "Tel Zeton",
-                  "text": "Tel Zeton este un sit de excavație arheologică conservat, descoperit în israel-yarkon-park-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        34.837012,
-                        32.099559
                   ]
             },
             {
@@ -3768,24 +3489,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gan Hai in Petah Tikva",
-                  "text": "Gan Hai din Petah Tikva este o grădină zoologică locală în zona israel-yarkon-park-life-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        34.873984,
-                        32.087296
-                  ]
-            },
-            {
-                  "name": "Beit HaDfus",
-                  "text": "Beit HaDfus este un muzeu situat în orașul israel-yarkon-park-life-v2.",
-                  "category": "museum",
-                  "coords": [
-                        34.883247,
-                        32.087565
-                  ]
-            },
-            {
                   "name": "Beit Natan Rappaport",
                   "text": "Beit Natan Rappaport este un muzeu istoric din israel-yarkon-park-life-v2.",
                   "category": "museum",
@@ -3819,15 +3522,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.916255,
                         32.114681
-                  ]
-            },
-            {
-                  "name": "Sharet hall",
-                  "text": "Sharet hall este un teatru local care găzduiește diverse spectacole în israel-yarkon-park-life-v2.",
-                  "category": "cultural",
-                  "coords": [
-                        34.888217,
-                        32.087596
                   ]
             },
             {
@@ -3932,15 +3626,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bnei Brak Municipality",
-                  "text": "The Bnei Brak Municipality building serves as the administrative center for the local government in israel-yarkon-park-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        34.827578,
-                        32.083746
-                  ]
-            },
-            {
                   "name": "Seven Mills",
                   "text": "Seven Mills is a renowned archaeological site situated along the river in israel-yarkon-park-life-v2.",
                   "category": "historical",
@@ -3959,15 +3644,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Itzhak Ohayon park",
-                  "text": "Itzhak Ohayon park offers wide green spaces and recreational areas for the public in israel-yarkon-park-life-v2.",
-                  "category": "park",
-                  "coords": [
-                        34.868314,
-                        32.09373
-                  ]
-            },
-            {
                   "name": "Yehushua Gardens",
                   "text": "Yehushua Gardens is a major urban park providing an escape into nature within israel-yarkon-park-life-v2.",
                   "category": "park",
@@ -3983,15 +3659,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.810185,
                         32.099754
-                  ]
-            },
-            {
-                  "name": "Tel Zeton",
-                  "text": "Tel Zeton is a preserved archaeological excavation site discovered in israel-yarkon-park-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        34.837012,
-                        32.099559
                   ]
             },
             {
@@ -4031,24 +3698,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gan Hai in Petah Tikva",
-                  "text": "Gan Hai in Petah Tikva is a local zoo attraction in the israel-yarkon-park-life-v2 area.",
-                  "category": "recreational",
-                  "coords": [
-                        34.873984,
-                        32.087296
-                  ]
-            },
-            {
-                  "name": "Beit HaDfus",
-                  "text": "Beit HaDfus is a museum located in the city of israel-yarkon-park-life-v2.",
-                  "category": "museum",
-                  "coords": [
-                        34.883247,
-                        32.087565
-                  ]
-            },
-            {
                   "name": "Beit Natan Rappaport",
                   "text": "Beit Natan Rappaport is a historical museum situated in israel-yarkon-park-life-v2.",
                   "category": "museum",
@@ -4082,15 +3731,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.916255,
                         32.114681
-                  ]
-            },
-            {
-                  "name": "Sharet hall",
-                  "text": "Sharet hall is a local theatre hosting various performances in israel-yarkon-park-life-v2.",
-                  "category": "cultural",
-                  "coords": [
-                        34.888217,
-                        32.087596
                   ]
             },
             {
@@ -4240,33 +3880,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "‘Iraq ez-Zighan",
-                  "text": "Prähistorische Höhlenruinen an der „Wand der Raben“ mit Blick auf die Küstenebene.",
-                  "category": "historical",
-                  "coords": [
-                        35.013904,
-                        32.778965
-                  ]
-            },
-            {
-                  "name": "Tamar Viewpoint",
-                  "text": "Ein Aussichtspunkt mit weitem Blick über die bewaldeten Bergrücken des Carmel-Gebirges.",
-                  "category": "natural",
-                  "coords": [
-                        35.001448,
-                        32.775219
-                  ]
-            },
-            {
-                  "name": "Ein Ovadia",
-                  "text": "Eine beständige Bergquelle, die an den Wanderwegen des Berges Carmel liegt.",
-                  "category": "landmark",
-                  "coords": [
-                        34.993634,
-                        32.772434
-                  ]
-            },
-            {
                   "name": "Hecht archaeology museum",
                   "text": "Archäologisches Museum der Universität Haifa mit bedeutenden Funden aus dem alten Israel.",
                   "category": "museum",
@@ -4321,15 +3934,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Balcony",
-                  "text": "Ein felsiger Vorsprung, der einen dramatischen Blick aus der Vogelperspektive auf die Waldhänge bietet.",
-                  "category": "natural",
-                  "coords": [
-                        34.988686,
-                        32.771622
-                  ]
-            },
-            {
                   "name": "Chai-Bar Carmel",
                   "text": "Ein Wildgehege zur Zucht und Auswilderung seltener Arten wie dem Mesopotamischen Damhirsch.",
                   "category": "recreational",
@@ -4356,33 +3960,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         35.033333,
                         32.766667
-                  ]
-            },
-            {
-                  "name": "‘Iraq ez-Zighan",
-                  "text": "Őskori barlangromok a „Hollók fala” sziklán, kilátással a tengerparti síkságra.",
-                  "category": "historical",
-                  "coords": [
-                        35.013904,
-                        32.778965
-                  ]
-            },
-            {
-                  "name": "Tamar Viewpoint",
-                  "text": "Panorámás kilátópont, ahonnan belátni a Carmel-hegység erdős vonulatait.",
-                  "category": "natural",
-                  "coords": [
-                        35.001448,
-                        32.775219
-                  ]
-            },
-            {
-                  "name": "Ein Ovadia",
-                  "text": "Egy állandó hegyi forrás, amely a Carmel-hegy túraútvonalai mentén található.",
-                  "category": "landmark",
-                  "coords": [
-                        34.993634,
-                        32.772434
                   ]
             },
             {
@@ -4440,15 +4017,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Balcony",
-                  "text": "Sziklás kiszögellés, ahonnan drámai madártávlati kilátás nyílik az erdős lejtőkre.",
-                  "category": "natural",
-                  "coords": [
-                        34.988686,
-                        32.771622
-                  ]
-            },
-            {
                   "name": "Chai-Bar Carmel",
                   "text": "Vadvédelmi terület, amely ritka fajok, például a mezopotámiai dámvadak szaporításával foglalkozik.",
                   "category": "recreational",
@@ -4475,33 +4043,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         35.033333,
                         32.766667
-                  ]
-            },
-            {
-                  "name": "‘Iraq ez-Zighan",
-                  "text": "Ruinele unor peșteri preistorice pe stânca „Zidul Corbilor”, cu vedere spre câmpia de coastă.",
-                  "category": "historical",
-                  "coords": [
-                        35.013904,
-                        32.778965
-                  ]
-            },
-            {
-                  "name": "Tamar Viewpoint",
-                  "text": "Un punct de observare panoramic care oferă vederi largi asupra crestelor împădurite ale Carmelului.",
-                  "category": "natural",
-                  "coords": [
-                        35.001448,
-                        32.775219
-                  ]
-            },
-            {
-                  "name": "Ein Ovadia",
-                  "text": "Un izvor montan peren situat de-a lungul traseelor de drumeție de pe Muntele Carmel.",
-                  "category": "landmark",
-                  "coords": [
-                        34.993634,
-                        32.772434
                   ]
             },
             {
@@ -4559,15 +4100,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Balcony",
-                  "text": "O proeminență stâncoasă care oferă o vedere panoramică spectaculoasă asupra versanților împăduriți.",
-                  "category": "natural",
-                  "coords": [
-                        34.988686,
-                        32.771622
-                  ]
-            },
-            {
                   "name": "Chai-Bar Carmel",
                   "text": "O rezervație naturală dedicată creșterii și reintroducerii speciilor pe cale de dispariție, precum cerbul lopătar persan.",
                   "category": "recreational",
@@ -4594,33 +4126,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         35.033333,
                         32.766667
-                  ]
-            },
-            {
-                  "name": "‘Iraq ez-Zighan",
-                  "text": "Prehistoric cave ruins on the \"Wall of the Ravens\" cliff overlooking the coastal plain.",
-                  "category": "historical",
-                  "coords": [
-                        35.013904,
-                        32.778965
-                  ]
-            },
-            {
-                  "name": "Tamar Viewpoint",
-                  "text": "A panoramic lookout point providing sweeping views of the lush Carmel mountain ridges.",
-                  "category": "natural",
-                  "coords": [
-                        35.001448,
-                        32.775219
-                  ]
-            },
-            {
-                  "name": "Ein Ovadia",
-                  "text": "A perennial mountain spring located along the hiking trails of Mount Carmel.",
-                  "category": "landmark",
-                  "coords": [
-                        34.993634,
-                        32.772434
                   ]
             },
             {
@@ -4675,15 +4180,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.989693,
                         32.756623
-                  ]
-            },
-            {
-                  "name": "The Balcony",
-                  "text": "A rocky ledge providing a dramatic bird's-eye view of the surrounding forested slopes.",
-                  "category": "natural",
-                  "coords": [
-                        34.988686,
-                        32.771622
                   ]
             },
             {
@@ -5219,24 +4715,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Heichal HaTarbut",
-                  "text": "Das moderne Kulturzentrum von Modi'in, in dem Theateraufführungen und Konzerte stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        35.01482,
-                        31.899163
-                  ]
-            },
-            {
-                  "name": "Barfilya",
-                  "text": "Ein markanter Hügel mit Überresten eines verlassenen Dorfes und einer Kreuzritterfestung.",
-                  "category": "natural",
-                  "coords": [
-                        34.989365,
-                        31.909391
-                  ]
-            },
-            {
                   "name": "Hurbat Ragav",
                   "text": "Ein Aussichtspunkt auf einem Hügel, der weite Blicke über das Judäische Bergland bietet.",
                   "category": "natural",
@@ -5297,24 +4775,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         35.003726,
                         31.898376
-                  ]
-            },
-            {
-                  "name": "GRAY Club",
-                  "text": "Ein bekannter Live-Musik-Club und Veranstaltungsort für kulturelle Events in Modi'in.",
-                  "category": "cultural",
-                  "coords": [
-                        35.009251,
-                        31.902866
-                  ]
-            },
-            {
-                  "name": "Anava Park Amphitheatre",
-                  "text": "Ein großes Freilufttheater im Anava-Park, das für Konzerte unter freiem Himmel genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        35.003888,
-                        31.897285
                   ]
             },
             {
@@ -5473,24 +4933,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Heichal HaTarbut",
-                  "text": "Modiin modern kulturális központja, amely színházi előadásoknak és koncerteknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        35.01482,
-                        31.899163
-                  ]
-            },
-            {
-                  "name": "Barfilya",
-                  "text": "Jellegzetes domb egy elhagyatott falu és egy keresztes lovagvár maradványaival.",
-                  "category": "natural",
-                  "coords": [
-                        34.989365,
-                        31.909391
-                  ]
-            },
-            {
                   "name": "Hurbat Ragav",
                   "text": "Dombvidéki kilátópont, ahonnan pazar kilátás nyílik a Júdeai-hegyek lábára.",
                   "category": "natural",
@@ -5551,24 +4993,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         35.003726,
                         31.898376
-                  ]
-            },
-            {
-                  "name": "GRAY Club",
-                  "text": "Népszerű élőzenei klub és kulturális rendezvényhelyszín Modiinban.",
-                  "category": "cultural",
-                  "coords": [
-                        35.009251,
-                        31.902866
-                  ]
-            },
-            {
-                  "name": "Anava Park Amphitheatre",
-                  "text": "Az Anava-park nagy szabadtéri színháza, amelyet szabadtéri koncertekre használnak.",
-                  "category": "cultural",
-                  "coords": [
-                        35.003888,
-                        31.897285
                   ]
             },
             {
@@ -5727,24 +5151,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Heichal HaTarbut",
-                  "text": "Centrul cultural modern din Modi'in, gazdă pentru spectacole de teatru și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        35.01482,
-                        31.899163
-                  ]
-            },
-            {
-                  "name": "Barfilya",
-                  "text": "Un deal proeminent cu vestigiile unui sat abandonat și ale unei cetăți cruciate.",
-                  "category": "natural",
-                  "coords": [
-                        34.989365,
-                        31.909391
-                  ]
-            },
-            {
                   "name": "Hurbat Ragav",
                   "text": "Un punct de observație pe deal ce oferă vederi panoramice asupra colinelor Iudeii.",
                   "category": "natural",
@@ -5805,24 +5211,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         35.003726,
                         31.898376
-                  ]
-            },
-            {
-                  "name": "GRAY Club",
-                  "text": "Un club de muzică live cunoscut și locație pentru evenimente culturale în Modi'in.",
-                  "category": "cultural",
-                  "coords": [
-                        35.009251,
-                        31.902866
-                  ]
-            },
-            {
-                  "name": "Anava Park Amphitheatre",
-                  "text": "Un amfiteatru mare în aer liber în parcul Anava, utilizat pentru concerte sub cerul liber.",
-                  "category": "cultural",
-                  "coords": [
-                        35.003888,
-                        31.897285
                   ]
             },
             {
@@ -5981,24 +5369,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Heichal HaTarbut",
-                  "text": "The modern cultural center of Modi'in, hosting theatre performances and concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        35.01482,
-                        31.899163
-                  ]
-            },
-            {
-                  "name": "Barfilya",
-                  "text": "A prominent hill featuring the remains of a deserted village and a Crusader fortress.",
-                  "category": "natural",
-                  "coords": [
-                        34.989365,
-                        31.909391
-                  ]
-            },
-            {
                   "name": "Hurbat Ragav",
                   "text": "A hilltop viewpoint offering sweeping vistas over the Judean foothills.",
                   "category": "natural",
@@ -6059,24 +5429,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         35.003726,
                         31.898376
-                  ]
-            },
-            {
-                  "name": "GRAY Club",
-                  "text": "A well-known live music club and venue for cultural events in Modi'in.",
-                  "category": "cultural",
-                  "coords": [
-                        35.009251,
-                        31.902866
-                  ]
-            },
-            {
-                  "name": "Anava Park Amphitheatre",
-                  "text": "A large open-air theatre in Anava Park used for concerts under the stars.",
-                  "category": "cultural",
-                  "coords": [
-                        35.003888,
-                        31.897285
                   ]
             },
             {
@@ -7395,15 +6747,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Har Shahmon",
-                  "text": "Ein markanter Hügel am nördlichen Stadtrand von Eilat, der einen einfachen Aufstieg mit Panoramablick auf die Bucht bietet.",
-                  "category": "natural",
-                  "coords": [
-                        34.932854,
-                        29.578944
-                  ]
-            },
-            {
                   "name": "Har Shahmon Desert Kite",
                   "text": "Eine archäologische Stätte mit antiken V-förmigen Steinwällen, die einst als hocheffiziente Tierfallen in der Wüste dienten.",
                   "category": "historical",
@@ -7547,15 +6890,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.953631,
                         29.608772
-                  ]
-            },
-            {
-                  "name": "Har Shahmon",
-                  "text": "Jellegzetes domb Eilat északi szélén, amely könnyű túrát és panorámás kilátást kínál az öbölre.",
-                  "category": "natural",
-                  "coords": [
-                        34.932854,
-                        29.578944
                   ]
             },
             {
@@ -7705,15 +7039,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Har Shahmon",
-                  "text": "O colină proeminentă la marginea de nord a Eilatului, oferind o urcare ușoară cu vedere panoramică asupra golfului.",
-                  "category": "natural",
-                  "coords": [
-                        34.932854,
-                        29.578944
-                  ]
-            },
-            {
                   "name": "Har Shahmon Desert Kite",
                   "text": "Un sit arheologic cu ziduri de piatră antice în formă de V, care serveau odinioară drept capcane eficiente pentru animale în deșert.",
                   "category": "historical",
@@ -7857,15 +7182,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.953631,
                         29.608772
-                  ]
-            },
-            {
-                  "name": "Har Shahmon",
-                  "text": "A prominent hill on the northern edge of Eilat offering an easy climb with panoramic views of the bay.",
-                  "category": "natural",
-                  "coords": [
-                        34.932854,
-                        29.578944
                   ]
             },
             {
@@ -9121,33 +8437,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
     id: "israel-meymadion-life-v2", "sights": {
       "de": [
             {
-                  "name": "Tel Kana",
-                  "text": "Ein archäologischer Hügel in der Nähe des Flusses Yarkon, der Überreste aus der Bronzezeit bis zur Römerzeit birgt.",
-                  "category": "historical",
-                  "coords": [
-                        34.889217,
-                        32.129742
-                  ]
-            },
-            {
-                  "name": "Har Ha'zevel Hod HaSharon",
-                  "text": "Ein ehemaliger Deponiehügel, der in einen Landschaftspark mit Panoramablick über die Scharon-Ebene verwandelt wurde.",
-                  "category": "natural",
-                  "coords": [
-                        34.888359,
-                        32.13251
-                  ]
-            },
-            {
-                  "name": "Abu Kishk",
-                  "text": "Die Ruinen eines historischen palästinensischen Dorfes in der Nähe der Quellen des Flusses Yarkon.",
-                  "category": "historical",
-                  "coords": [
-                        34.887197,
-                        32.132434
-                  ]
-            },
-            {
                   "name": "Ten Mills",
                   "text": "Eine historische Stätte am Yarkon-Fluss, an der einst zehn wasserbetriebene Getreidemühlen aus der osmanischen Zeit standen.",
                   "category": "historical",
@@ -9157,30 +8446,12 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wet Pasture",
-                  "text": "Ein ökologisches Feuchtgebiet im Jarkon-Park, das als natürliches Habitat für einheimische Wasservögel dient.",
-                  "category": "landmark",
-                  "coords": [
-                        34.892857,
-                        32.129277
-                  ]
-            },
-            {
                   "name": "Concrete house",
                   "text": "Das 1912 erbaute erste Haus Israels aus Stahlbeton, ein Industriedenkmal direkt am Fluss Yarkon.",
                   "category": "historical",
                   "coords": [
                         34.913038,
                         32.118817
-                  ]
-            },
-            {
-                  "name": "Hod Hasharon Park",
-                  "text": "Ein moderner ökologischer Park mit einem künstlichen See, der durch gereinigtes Abwasser gespeist wird.",
-                  "category": "park",
-                  "coords": [
-                        34.890921,
-                        32.1328
                   ]
             },
             {
@@ -9267,33 +8538,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Tel Kana",
-                  "text": "Régészeti domb a Jarkon-folyó közelében, amely a bronzkortól a római korig őriz maradványokat.",
-                  "category": "historical",
-                  "coords": [
-                        34.889217,
-                        32.129742
-                  ]
-            },
-            {
-                  "name": "Har Ha'zevel Hod HaSharon",
-                  "text": "Egy korábbi szeméttelep dombja, amelyet tájképi parkká alakítottak, panorámás kilátással a Saron-síkságra.",
-                  "category": "natural",
-                  "coords": [
-                        34.888359,
-                        32.13251
-                  ]
-            },
-            {
-                  "name": "Abu Kishk",
-                  "text": "Egy történelmi palesztin falu romjai a Jarkon-folyó forrásainak közelében.",
-                  "category": "historical",
-                  "coords": [
-                        34.887197,
-                        32.132434
-                  ]
-            },
-            {
                   "name": "Ten Mills",
                   "text": "Történelmi helyszín a Jarkon-folyónál, ahol egykor tíz oszmán kori vízi malom működött.",
                   "category": "historical",
@@ -9303,30 +8547,12 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wet Pasture",
-                  "text": "Ökológiai vizes élőhely a Jarkon Parkban, amely a helyi vízimadarak természetes élőhelyeként szolgál.",
-                  "category": "landmark",
-                  "coords": [
-                        34.892857,
-                        32.129277
-                  ]
-            },
-            {
                   "name": "Concrete house",
                   "text": "Az 1912-ben épült első vasbeton ház Izraelben, egy ipari műemlék közvetlenül a Jarkon-folyó partján.",
                   "category": "historical",
                   "coords": [
                         34.913038,
                         32.118817
-                  ]
-            },
-            {
-                  "name": "Hod Hasharon Park",
-                  "text": "Modern ökológiai park mesterséges tóval, amelyet tisztított szennyvíz táplál.",
-                  "category": "park",
-                  "coords": [
-                        34.890921,
-                        32.1328
                   ]
             },
             {
@@ -9413,33 +8639,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Tel Kana",
-                  "text": "O colină arheologică lângă râul Yarkon, care păstrează vestigii din epoca bronzului până în perioada romană.",
-                  "category": "historical",
-                  "coords": [
-                        34.889217,
-                        32.129742
-                  ]
-            },
-            {
-                  "name": "Har Ha'zevel Hod HaSharon",
-                  "text": "O fostă groapă de gunoi transformată într-un parc peisagistic cu vedere panoramică asupra câmpiei Sharon.",
-                  "category": "natural",
-                  "coords": [
-                        34.888359,
-                        32.13251
-                  ]
-            },
-            {
-                  "name": "Abu Kishk",
-                  "text": "Ruinele unui sat palestinian istoric situat în apropierea izvoarelor râului Yarkon.",
-                  "category": "historical",
-                  "coords": [
-                        34.887197,
-                        32.132434
-                  ]
-            },
-            {
                   "name": "Ten Mills",
                   "text": "Un sit istoric pe râul Yarkon, unde se aflau odinioară zece mori de cereale acționate de apă din perioada otomană.",
                   "category": "historical",
@@ -9449,30 +8648,12 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wet Pasture",
-                  "text": "O zonă umedă ecologică în Parcul Yarkon, care servește drept habitat natural pentru păsările acvatice locale.",
-                  "category": "landmark",
-                  "coords": [
-                        34.892857,
-                        32.129277
-                  ]
-            },
-            {
                   "name": "Concrete house",
                   "text": "Prima casă din Israel construită din beton armat în 1912, un monument industrial situat chiar pe malul râului Yarkon.",
                   "category": "historical",
                   "coords": [
                         34.913038,
                         32.118817
-                  ]
-            },
-            {
-                  "name": "Hod Hasharon Park",
-                  "text": "Un parc ecologic modern cu un lac artificial alimentat de ape uzate epurate.",
-                  "category": "park",
-                  "coords": [
-                        34.890921,
-                        32.1328
                   ]
             },
             {
@@ -9559,33 +8740,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Tel Kana",
-                  "text": "An archaeological mound near the Yarkon River containing remains from the Bronze Age through the Roman period.",
-                  "category": "historical",
-                  "coords": [
-                        34.889217,
-                        32.129742
-                  ]
-            },
-            {
-                  "name": "Har Ha'zevel Hod HaSharon",
-                  "text": "A former landfill hill transformed into a landscaped park offering panoramic views over the Sharon plain.",
-                  "category": "natural",
-                  "coords": [
-                        34.888359,
-                        32.13251
-                  ]
-            },
-            {
-                  "name": "Abu Kishk",
-                  "text": "The ruins of a historical Palestinian village located near the springs of the Yarkon River.",
-                  "category": "historical",
-                  "coords": [
-                        34.887197,
-                        32.132434
-                  ]
-            },
-            {
                   "name": "Ten Mills",
                   "text": "A historical site on the Yarkon River where ten water-powered flour mills stood during the Ottoman era.",
                   "category": "historical",
@@ -9595,30 +8749,12 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wet Pasture",
-                  "text": "An ecological wetland area in Yarkon Park that serves as a natural habitat for local waterfowl.",
-                  "category": "landmark",
-                  "coords": [
-                        34.892857,
-                        32.129277
-                  ]
-            },
-            {
                   "name": "Concrete house",
                   "text": "The first house in Israel built of reinforced concrete in 1912, an industrial landmark located right by the Yarkon River.",
                   "category": "historical",
                   "coords": [
                         34.913038,
                         32.118817
-                  ]
-            },
-            {
-                  "name": "Hod Hasharon Park",
-                  "text": "A modern ecological park featuring an artificial lake fed by purified wastewater.",
-                  "category": "park",
-                  "coords": [
-                        34.890921,
-                        32.1328
                   ]
             },
             {
@@ -10613,15 +9749,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Um El Umdan",
-                  "text": "Um El Umdan ist eine anerkannte archäologische Stätte mit antiken Überresten in israel-mini-israel-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        34.997724,
-                        31.88337
-                  ]
-            },
-            {
                   "name": "Tel Gezer National Park",
                   "text": "Der Nationalpark Tel Gezer ist eine bedeutende archäologische Stätte mit antiken Überresten in der Region Israel-Mini-Israel-Life-V2.",
                   "category": "historical",
@@ -10646,15 +9773,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         35.019333,
                         31.809009
-                  ]
-            },
-            {
-                  "name": "Bayt Shanna",
-                  "text": "Bayt Shanna umfasst antike Ruinen in der Region Israel-Mini-Israel-Life-V2.",
-                  "category": "historical",
-                  "coords": [
-                        34.987036,
-                        31.878866
                   ]
             },
             {
@@ -10730,15 +9848,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Givat HaBroshim",
-                  "text": "Givat HaBroshim ist ein Gipfel im Gebiet Israel-Mini-Israel-Life-V2.",
-                  "category": "natural",
-                  "coords": [
-                        35.028731,
-                        31.883314
-                  ]
-            },
-            {
                   "name": "Uzrar Mountain",
                   "text": "Der Berg Uzrar ist ein natürlicher Gipfel in der Region Israel-Mini-Israel-Life-V2.",
                   "category": "natural",
@@ -10799,42 +9908,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.952198,
                         31.778945
-                  ]
-            },
-            {
-                  "name": "Giv'at Sher",
-                  "text": "Giv'at Sher ist ein Gebiet mit Ruinen in der Region Israel-Mini-Israel-Life-V2.",
-                  "category": "historical",
-                  "coords": [
-                        34.994038,
-                        31.881747
-                  ]
-            },
-            {
-                  "name": "Horbat Hadat",
-                  "text": "Horbat Hadat bietet alte Ruinen in der Region Israel-Mini-Israel-Life-V2.",
-                  "category": "historical",
-                  "coords": [
-                        35.014388,
-                        31.879717
-                  ]
-            },
-            {
-                  "name": "Horbat Be’erit",
-                  "text": "Horbat Be’erit ist eine Stätte mit Überresten im Gebiet Israel-Mini-Israel-Life-V2.",
-                  "category": "historical",
-                  "coords": [
-                        35.015716,
-                        31.873688
-                  ]
-            },
-            {
-                  "name": "Horbat Qanuba",
-                  "text": "Horbat Qanuba bewahrt alte Ruinen im Gebiet Israel-Mini-Israel-Life-V2.",
-                  "category": "historical",
-                  "coords": [
-                        35.012191,
-                        31.87351
                   ]
             },
             {
@@ -10939,15 +10012,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Um El Umdan",
-                  "text": "Az Um El Umdan egy elismert régészeti lelőhely, amely ősi maradványokat tartalmaz az israel-mini-israel-life-v2 területén.",
-                  "category": "historical",
-                  "coords": [
-                        34.997724,
-                        31.88337
-                  ]
-            },
-            {
                   "name": "Tel Gezer National Park",
                   "text": "A Tel Gezer Nemzeti Park egy jelentős régészeti lelőhely ősi maradványokkal az Israel-Mini-Israel-Life-V2 területén.",
                   "category": "historical",
@@ -10972,15 +10036,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         35.019333,
                         31.809009
-                  ]
-            },
-            {
-                  "name": "Bayt Shanna",
-                  "text": "Bayt Shanna ősi romokat foglal magában az Israel-Mini-Israel-Life-V2 területén.",
-                  "category": "historical",
-                  "coords": [
-                        34.987036,
-                        31.878866
                   ]
             },
             {
@@ -11056,15 +10111,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Givat HaBroshim",
-                  "text": "A Givat HaBroshim egy hegycsúcs az Israel-Mini-Israel-Life-V2 területén.",
-                  "category": "natural",
-                  "coords": [
-                        35.028731,
-                        31.883314
-                  ]
-            },
-            {
                   "name": "Uzrar Mountain",
                   "text": "Az Uzrar-hegy egy természetes hegycsúcs az Israel-Mini-Israel-Life-V2 területén.",
                   "category": "natural",
@@ -11125,42 +10171,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.952198,
                         31.778945
-                  ]
-            },
-            {
-                  "name": "Giv'at Sher",
-                  "text": "A Giv'at Sher ősi romokat magában foglaló terület az Israel-Mini-Israel-Life-V2 régióban.",
-                  "category": "historical",
-                  "coords": [
-                        34.994038,
-                        31.881747
-                  ]
-            },
-            {
-                  "name": "Horbat Hadat",
-                  "text": "A Horbat Hadat régi romokat mutat be az Israel-Mini-Israel-Life-V2 területén.",
-                  "category": "historical",
-                  "coords": [
-                        35.014388,
-                        31.879717
-                  ]
-            },
-            {
-                  "name": "Horbat Be’erit",
-                  "text": "A Horbat Be’erit egy romokkal rendelkező hely az Israel-Mini-Israel-Life-V2 területén.",
-                  "category": "historical",
-                  "coords": [
-                        35.015716,
-                        31.873688
-                  ]
-            },
-            {
-                  "name": "Horbat Qanuba",
-                  "text": "A Horbat Qanuba régi romokat őriz az Israel-Mini-Israel-Life-V2 területén.",
-                  "category": "historical",
-                  "coords": [
-                        35.012191,
-                        31.87351
                   ]
             },
             {
@@ -11265,15 +10275,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Um El Umdan",
-                  "text": "Um El Umdan este un sit arheologic recunoscut care conține vestigii antice în israel-mini-israel-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        34.997724,
-                        31.88337
-                  ]
-            },
-            {
                   "name": "Tel Gezer National Park",
                   "text": "Parcul Național Tel Gezer este un sit arheologic important cu vestigii antice în zona Israel-Mini-Israel-Life-V2.",
                   "category": "historical",
@@ -11298,15 +10299,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         35.019333,
                         31.809009
-                  ]
-            },
-            {
-                  "name": "Bayt Shanna",
-                  "text": "Bayt Shanna prezintă ruine antice situate în zona Israel-Mini-Israel-Life-V2.",
-                  "category": "historical",
-                  "coords": [
-                        34.987036,
-                        31.878866
                   ]
             },
             {
@@ -11382,15 +10374,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Givat HaBroshim",
-                  "text": "Givat HaBroshim este un vârf din zona Israel-Mini-Israel-Life-V2.",
-                  "category": "natural",
-                  "coords": [
-                        35.028731,
-                        31.883314
-                  ]
-            },
-            {
                   "name": "Uzrar Mountain",
                   "text": "Muntele Uzrar este un vârf natural din zona Israel-Mini-Israel-Life-V2.",
                   "category": "natural",
@@ -11451,42 +10434,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.952198,
                         31.778945
-                  ]
-            },
-            {
-                  "name": "Giv'at Sher",
-                  "text": "Giv'at Sher este o zonă caracterizată de ruine în regiunea Israel-Mini-Israel-Life-V2.",
-                  "category": "historical",
-                  "coords": [
-                        34.994038,
-                        31.881747
-                  ]
-            },
-            {
-                  "name": "Horbat Hadat",
-                  "text": "Horbat Hadat prezintă ruine vechi în zona Israel-Mini-Israel-Life-V2.",
-                  "category": "historical",
-                  "coords": [
-                        35.014388,
-                        31.879717
-                  ]
-            },
-            {
-                  "name": "Horbat Be’erit",
-                  "text": "Horbat Be’erit este un sit cu ruine din zona Israel-Mini-Israel-Life-V2.",
-                  "category": "historical",
-                  "coords": [
-                        35.015716,
-                        31.873688
-                  ]
-            },
-            {
-                  "name": "Horbat Qanuba",
-                  "text": "Horbat Qanuba păstrează ruine vechi din zona Israel-Mini-Israel-Life-V2.",
-                  "category": "historical",
-                  "coords": [
-                        35.012191,
-                        31.87351
                   ]
             },
             {
@@ -11591,15 +10538,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Um El Umdan",
-                  "text": "Um El Umdan is a recognized archaeological site containing ancient remains in israel-mini-israel-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        34.997724,
-                        31.88337
-                  ]
-            },
-            {
                   "name": "Tel Gezer National Park",
                   "text": "Tel Gezer National Park is a prominent archaeological site featuring ancient remains in the Israel-Mini-Israel-Life-V2 area.",
                   "category": "historical",
@@ -11624,15 +10562,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         35.019333,
                         31.809009
-                  ]
-            },
-            {
-                  "name": "Bayt Shanna",
-                  "text": "Bayt Shanna features ancient ruins located in the Israel-Mini-Israel-Life-V2 area.",
-                  "category": "historical",
-                  "coords": [
-                        34.987036,
-                        31.878866
                   ]
             },
             {
@@ -11708,15 +10637,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Givat HaBroshim",
-                  "text": "Givat HaBroshim is a peak in the Israel-Mini-Israel-Life-V2 area.",
-                  "category": "natural",
-                  "coords": [
-                        35.028731,
-                        31.883314
-                  ]
-            },
-            {
                   "name": "Uzrar Mountain",
                   "text": "Uzrar Mountain is a natural peak in the Israel-Mini-Israel-Life-V2 area.",
                   "category": "natural",
@@ -11777,42 +10697,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.952198,
                         31.778945
-                  ]
-            },
-            {
-                  "name": "Giv'at Sher",
-                  "text": "Giv'at Sher is an area characterized by ruins in the Israel-Mini-Israel-Life-V2 region.",
-                  "category": "historical",
-                  "coords": [
-                        34.994038,
-                        31.881747
-                  ]
-            },
-            {
-                  "name": "Horbat Hadat",
-                  "text": "Horbat Hadat features old ruins in the Israel-Mini-Israel-Life-V2 area.",
-                  "category": "historical",
-                  "coords": [
-                        35.014388,
-                        31.879717
-                  ]
-            },
-            {
-                  "name": "Horbat Be’erit",
-                  "text": "Horbat Be’erit is a site with ruins located in the Israel-Mini-Israel-Life-V2 area.",
-                  "category": "historical",
-                  "coords": [
-                        35.015716,
-                        31.873688
-                  ]
-            },
-            {
-                  "name": "Horbat Qanuba",
-                  "text": "Horbat Qanuba preserves old ruins in the Israel-Mini-Israel-Life-V2 area.",
-                  "category": "historical",
-                  "coords": [
-                        35.012191,
-                        31.87351
                   ]
             },
             {
@@ -12096,15 +10980,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Geological museum",
-                  "text": "Museum in Ramat HaSharon, das Mineralien, Fossilien und geologische Formationen ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        34.84313,
-                        32.146669
-                  ]
-            },
-            {
                   "name": "Alexander Museum of Postal History and Philately",
                   "text": "Museum zur Geschichte des Postwesens in Israel und Palästina.",
                   "category": "museum",
@@ -12311,15 +11186,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.793748,
                         32.097611
-                  ]
-            },
-            {
-                  "name": "Geological museum",
-                  "text": "Ásványokat, fosszíliákat és geológiai formációkat bemutató múzeum Ramat HaSharonban.",
-                  "category": "museum",
-                  "coords": [
-                        34.84313,
-                        32.146669
                   ]
             },
             {
@@ -12532,15 +11398,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Geological museum",
-                  "text": "Muzeu din Ramat HaSharon care expune minerale, fosile și formațiuni geologice.",
-                  "category": "museum",
-                  "coords": [
-                        34.84313,
-                        32.146669
-                  ]
-            },
-            {
                   "name": "Alexander Museum of Postal History and Philately",
                   "text": "Muzeu dedicat istoriei serviciilor poștale în Israel și Palestina.",
                   "category": "museum",
@@ -12747,15 +11604,6 @@ export const poiExtraIsraelLifeV2: POI[] = [
                   "coords": [
                         34.793748,
                         32.097611
-                  ]
-            },
-            {
-                  "name": "Geological museum",
-                  "text": "Museum in Ramat HaSharon displaying minerals, fossils, and geological formations.",
-                  "category": "museum",
-                  "coords": [
-                        34.84313,
-                        32.146669
                   ]
             },
             {

@@ -12199,158 +12199,10 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     }, image: "/poi-images/matara-cities-v2.webp"},
   {
     id: "nuwara-eliya-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Victoria Museum",
-                  "text": "Victorian Museum in Nuwara Eliya mit Kolonialzeit-Artefakten.",
-                  "category": "museum",
-                  "coords": [
-                        80.768913,
-                        6.967328
-                  ]
-            },
-            {
-                  "name": "Lake Gregory Park",
-                  "text": "Lake Gregory Park, ein Erholungspark um einen künstlichen See in Nuwara Eliya.",
-                  "category": "family",
-                  "coords": [
-                        80.77237,
-                        6.962313
-                  ]
-            },
-            {
-                  "name": "Single Tree",
-                  "text": "Single Tree, auch als One Tree Hill bekannt, ist ein Berggipfel in der Stadt Nuwara Eliya.",
-                  "category": "natural",
-                  "coords": [
-                        80.762138,
-                        6.956921
-                  ]
-            },
-            {
-                  "name": "Tea plantations view",
-                  "text": "Aussichtspunkt über sanfte Teeplantagen im Hochland von Nuwara Eliya.",
-                  "category": "natural",
-                  "coords": [
-                        80.76709,
-                        6.956334
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Victoria Museum",
-                  "text": "Victoria Múzeum Nuwara Eliyában gyarmati kori tárgyakkal.",
-                  "category": "museum",
-                  "coords": [
-                        80.768913,
-                        6.967328
-                  ]
-            },
-            {
-                  "name": "Lake Gregory Park",
-                  "text": "Lake Gregory Park, egy mesterséges tó körüli szabadidőpark Nuwara Eliyában.",
-                  "category": "family",
-                  "coords": [
-                        80.77237,
-                        6.962313
-                  ]
-            },
-            {
-                  "name": "Single Tree",
-                  "text": "A Single Tree, más néven One Tree Hill, egy hegycsúcs Nuwara Eliya városában.",
-                  "category": "natural",
-                  "coords": [
-                        80.762138,
-                        6.956921
-                  ]
-            },
-            {
-                  "name": "Tea plantations view",
-                  "text": "Kilátó a hullámzó teaültetvényekre Nuwara Eliya felföldjén.",
-                  "category": "natural",
-                  "coords": [
-                        80.76709,
-                        6.956334
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Victoria Museum",
-                  "text": "Muzeul Victoria din Nuwara Eliya, cu artefacte din perioada colonială.",
-                  "category": "museum",
-                  "coords": [
-                        80.768913,
-                        6.967328
-                  ]
-            },
-            {
-                  "name": "Lake Gregory Park",
-                  "text": "Parcul Lacul Gregory, un parc de agrement în jurul unui lac artificial în Nuwara Eliya.",
-                  "category": "family",
-                  "coords": [
-                        80.77237,
-                        6.962313
-                  ]
-            },
-            {
-                  "name": "Single Tree",
-                  "text": "Single Tree, cunoscut și ca One Tree Hill, este un vârf de munte în orașul Nuwara Eliya.",
-                  "category": "natural",
-                  "coords": [
-                        80.762138,
-                        6.956921
-                  ]
-            },
-            {
-                  "name": "Tea plantations view",
-                  "text": "Punct de belvedere peste plantațiile de ceai din podișul Nuwara Eliya.",
-                  "category": "natural",
-                  "coords": [
-                        80.76709,
-                        6.956334
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Victoria Museum",
-                  "text": "Victoria Museum in Nuwara Eliya, housing colonial-era artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        80.768913,
-                        6.967328
-                  ]
-            },
-            {
-                  "name": "Lake Gregory Park",
-                  "text": "Lake Gregory Park, a recreational park around a man-made lake in Nuwara Eliya.",
-                  "category": "family",
-                  "coords": [
-                        80.77237,
-                        6.962313
-                  ]
-            },
-            {
-                  "name": "Single Tree",
-                  "text": "Single Tree, also known as One Tree Hill, is a mountain peak located in the city of Nuwara Eliya.",
-                  "category": "natural",
-                  "coords": [
-                        80.762138,
-                        6.956921
-                  ]
-            },
-            {
-                  "name": "Tea plantations view",
-                  "text": "Viewpoint over rolling tea plantations in the Nuwara Eliya highlands.",
-                  "category": "natural",
-                  "coords": [
-                        80.76709,
-                        6.956334
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "LK-2",
@@ -12417,15 +12269,6 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "kalutara-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Richmond Castle",
-                  "text": "Richmond Castle ist ein edwardianisches Herrenhaus, das Anfang des 20. Jahrhunderts in Kalutara erbaut wurde.",
-                  "category": "castle",
-                  "coords": [
-                        79.975121,
-                        6.601691
-                  ]
-            },
-            {
                   "name": "Calido beach Kalutara",
                   "text": "Der goldene Sand von Kalutara lädt am Calido Beach zu ausgedehnten Momenten der Ruhe ein. Die Mündung des Flusses ins Meer verleiht diesem Küstenabschnitt eine ganz besondere, weite Landschaftsdynamik. Besucher können hier wunderbar spazieren gehen und den stetigen Wellengang des Ozeans beobachten. Ein Besuch in den frühen Abendstunden verspricht ein herrliches Licht für Erinnerungsfotos.",
                   "category": "recreational",
@@ -12445,15 +12288,6 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Richmond Castle",
-                  "text": "A Richmond Castle egy Edward-korabeli kastély, amely az 1900-as évek elején épült Kalutarában.",
-                  "category": "castle",
-                  "coords": [
-                        79.975121,
-                        6.601691
-                  ]
-            },
             {
                   "name": "Calido beach Kalutara",
                   "text": "Kalutara aranyló homokja a Calido Beach partjainál hosszan tartó nyugalmat kínál a látogatóknak. A folyó tengerbe ömlése egészen különleges, tágas tájdinamikát kölcsönöz ennek a partszakasznak. A látogatók csodálatos sétákat tehetnek itt, és megfigyelhetik az óceán állandó hullámzását. A kora esti órákban tett látogatás gyönyörű fényeket ígér az emlékfotók elkészítéséhez.",
@@ -12475,15 +12309,6 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Richmond Castle",
-                  "text": "Richmond Castle este un conac edwardian construit în Kalutara la începutul anilor 1900.",
-                  "category": "castle",
-                  "coords": [
-                        79.975121,
-                        6.601691
-                  ]
-            },
-            {
                   "name": "Calido beach Kalutara",
                   "text": "Nisipul auriu din Kalutara de pe plaja Calido invită la momente prelungite de liniște. Vărsarea râului în mare conferă acestei porțiuni de coastă o dinamică a peisajului cu totul specială și vastă. Vizitatorii pot face plimbări minunate aici și pot privi valurile constante ale oceanului. O vizită la primele ore ale serii promite o lumină glorioasă pentru fotografii de neuitat.",
                   "category": "recreational",
@@ -12503,15 +12328,6 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Richmond Castle",
-                  "text": "Richmond Castle is an Edwardian mansion built in Kalutara in the early 1900s.",
-                  "category": "castle",
-                  "coords": [
-                        79.975121,
-                        6.601691
-                  ]
-            },
             {
                   "name": "Calido beach Kalutara",
                   "text": "The golden sands of Kalutara at Calido Beach invite you for prolonged moments of deep tranquility. The convergence of the river into the sea gives this coastal stretch a very special, vast landscape dynamic. Visitors can enjoy wonderful walks here while continuously watching the rolling waves of the ocean. A visit in the early evening hours promises glorious lighting for your holiday photos.",
@@ -12921,30 +12737,12 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     id: "polonnaruwa-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Archaeological Museum",
-                  "text": "Museum mit Fundstücken aus dem antiken Königreich Polonnaruwa.",
-                  "category": "museum",
-                  "coords": [
-                        80.998976,
-                        7.941801
-                  ]
-            },
-            {
                   "name": "Alahana Pirivena",
                   "text": "Klosterkomplex mit einer großen Stupa in der antiken Stadt Polonnaruwa.",
                   "category": "historical",
                   "coords": [
                         81.00351,
                         7.961946
-                  ]
-            },
-            {
-                  "name": "Pabalu Vehera",
-                  "text": "Buddhistische Stupa (Dagoba) in den Ruinen von Polonnaruwa.",
-                  "category": "historical",
-                  "coords": [
-                        81.004272,
-                        7.949484
                   ]
             },
             {
@@ -12957,66 +12755,12 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rankoth Viharaya",
-                  "text": "Rankoth Viharaya ist eine bekannte antike Stupa und ein Denkmal in der Stadt Polonnaruwa.",
-                  "category": "historical",
-                  "coords": [
-                        81.003399,
-                        7.958176
-                  ]
-            },
-            {
-                  "name": "Royal Palace",
-                  "text": "Ruinen des königlichen Palastes von König Parakramabahu I. aus dem 12. Jahrhundert.",
-                  "category": "historical",
-                  "coords": [
-                        80.997926,
-                        7.943478
-                  ]
-            },
-            {
-                  "name": "Ancient Northern Entrance",
-                  "text": "Torbogenruine, die den nördlichen Eingang zur antiken Stadt Polonnaruwa markiert.",
-                  "category": "historical",
-                  "coords": [
-                        81.003313,
-                        7.952151
-                  ]
-            },
-            {
                   "name": "Kumara Pokuna",
                   "text": "Königliches Badebecken mit Steinstufen in Polonnaruwa.",
                   "category": "landmark",
                   "coords": [
                         81.002422,
                         7.942186
-                  ]
-            },
-            {
-                  "name": "Siva Devalaya",
-                  "text": "Hindu-Tempel zu Ehren Shivas in der antiken Stadt Polonnaruwa.",
-                  "category": "historical",
-                  "coords": [
-                        81.006684,
-                        7.951015
-                  ]
-            },
-            {
-                  "name": "Menik Vehera",
-                  "text": "Große weiße Stupa, erbaut von König Mahasena in Polonnaruwa.",
-                  "category": "historical",
-                  "coords": [
-                        81.002332,
-                        7.953044
-                  ]
-            },
-            {
-                  "name": "Monastic Hospital",
-                  "text": "Ruinen eines antiken Krankenhauskomplexes mit steinernen Badewannen in Polonnaruwa.",
-                  "category": "historical",
-                  "coords": [
-                        81.003041,
-                        7.959804
                   ]
             },
             {
@@ -13031,30 +12775,12 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Archaeological Museum",
-                  "text": "Múzeum Polonnaruwa ókori királyságának leleteivel.",
-                  "category": "museum",
-                  "coords": [
-                        80.998976,
-                        7.941801
-                  ]
-            },
-            {
                   "name": "Alahana Pirivena",
                   "text": "Kolostor komplexum egy nagy sztúpával Polonnaruwa ókori városában.",
                   "category": "historical",
                   "coords": [
                         81.00351,
                         7.961946
-                  ]
-            },
-            {
-                  "name": "Pabalu Vehera",
-                  "text": "Buddhista sztúpa (dagoba) Polonnaruwa romjai között.",
-                  "category": "historical",
-                  "coords": [
-                        81.004272,
-                        7.949484
                   ]
             },
             {
@@ -13067,66 +12793,12 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rankoth Viharaya",
-                  "text": "A Rankoth Viharaya egy jól ismert ókori sztúpa és emlékmű Polonnaruwa városában.",
-                  "category": "historical",
-                  "coords": [
-                        81.003399,
-                        7.958176
-                  ]
-            },
-            {
-                  "name": "Royal Palace",
-                  "text": "Parakramabahu király 12. századi palotájának romjai.",
-                  "category": "historical",
-                  "coords": [
-                        80.997926,
-                        7.943478
-                  ]
-            },
-            {
-                  "name": "Ancient Northern Entrance",
-                  "text": "Kapurom, amely Polonnaruwa ókori városának északi bejáratát jelzi.",
-                  "category": "historical",
-                  "coords": [
-                        81.003313,
-                        7.952151
-                  ]
-            },
-            {
                   "name": "Kumara Pokuna",
                   "text": "Királyi fürdőmedence kőlépcsőkkel Polonnaruwa területén.",
                   "category": "landmark",
                   "coords": [
                         81.002422,
                         7.942186
-                  ]
-            },
-            {
-                  "name": "Siva Devalaya",
-                  "text": "Siva istennek szentelt hindu templom Polonnaruwa ókori városában.",
-                  "category": "historical",
-                  "coords": [
-                        81.006684,
-                        7.951015
-                  ]
-            },
-            {
-                  "name": "Menik Vehera",
-                  "text": "Nagy fehér sztúpa, amelyet Mahasena király építtetett Polonnaruwa területén.",
-                  "category": "historical",
-                  "coords": [
-                        81.002332,
-                        7.953044
-                  ]
-            },
-            {
-                  "name": "Monastic Hospital",
-                  "text": "Egy ókori kórház komplexumának romjai kőfürdőkkel Polonnaruwa területén.",
-                  "category": "historical",
-                  "coords": [
-                        81.003041,
-                        7.959804
                   ]
             },
             {
@@ -13141,30 +12813,12 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Archaeological Museum",
-                  "text": "Muzeu care expune artefacte din vechiul regat Polonnaruwa.",
-                  "category": "museum",
-                  "coords": [
-                        80.998976,
-                        7.941801
-                  ]
-            },
-            {
                   "name": "Alahana Pirivena",
                   "text": "Complex monahal cu o stupă mare în orașul antic Polonnaruwa.",
                   "category": "historical",
                   "coords": [
                         81.00351,
                         7.961946
-                  ]
-            },
-            {
-                  "name": "Pabalu Vehera",
-                  "text": "Stupă budistă (dagoba) în ruinele Polonnaruwa.",
-                  "category": "historical",
-                  "coords": [
-                        81.004272,
-                        7.949484
                   ]
             },
             {
@@ -13177,66 +12831,12 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rankoth Viharaya",
-                  "text": "Rankoth Viharaya este o stupă antică și un monument în orașul Polonnaruwa.",
-                  "category": "historical",
-                  "coords": [
-                        81.003399,
-                        7.958176
-                  ]
-            },
-            {
-                  "name": "Royal Palace",
-                  "text": "Ruinele palatului regal al regelui Parakramabahu I din secolul al XII-lea.",
-                  "category": "historical",
-                  "coords": [
-                        80.997926,
-                        7.943478
-                  ]
-            },
-            {
-                  "name": "Ancient Northern Entrance",
-                  "text": "Ruine ale porții care marchează intrarea nordică a orașului antic Polonnaruwa.",
-                  "category": "historical",
-                  "coords": [
-                        81.003313,
-                        7.952151
-                  ]
-            },
-            {
                   "name": "Kumara Pokuna",
                   "text": "Bazin regal de baie cu trepte de piatră în Polonnaruwa.",
                   "category": "landmark",
                   "coords": [
                         81.002422,
                         7.942186
-                  ]
-            },
-            {
-                  "name": "Siva Devalaya",
-                  "text": "Templu hindus dedicat lui Shiva în orașul antic Polonnaruwa.",
-                  "category": "historical",
-                  "coords": [
-                        81.006684,
-                        7.951015
-                  ]
-            },
-            {
-                  "name": "Menik Vehera",
-                  "text": "Stupă mare albă construită de regele Mahasena în Polonnaruwa.",
-                  "category": "historical",
-                  "coords": [
-                        81.002332,
-                        7.953044
-                  ]
-            },
-            {
-                  "name": "Monastic Hospital",
-                  "text": "Ruinele unui complex spitalicesc antic cu căzi de baie din piatră în Polonnaruwa.",
-                  "category": "historical",
-                  "coords": [
-                        81.003041,
-                        7.959804
                   ]
             },
             {
@@ -13251,30 +12851,12 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Archaeological Museum",
-                  "text": "Museum displaying artifacts from Polonnaruwa's ancient kingdom.",
-                  "category": "museum",
-                  "coords": [
-                        80.998976,
-                        7.941801
-                  ]
-            },
-            {
                   "name": "Alahana Pirivena",
                   "text": "Monastic complex with a large stupa in the ancient city of Polonnaruwa.",
                   "category": "historical",
                   "coords": [
                         81.00351,
                         7.961946
-                  ]
-            },
-            {
-                  "name": "Pabalu Vehera",
-                  "text": "Buddhist stupa (dagoba) among the ruins of Polonnaruwa.",
-                  "category": "historical",
-                  "coords": [
-                        81.004272,
-                        7.949484
                   ]
             },
             {
@@ -13287,66 +12869,12 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rankoth Viharaya",
-                  "text": "Rankoth Viharaya is a prominent ancient stupa and monument located in the city of Polonnaruwa.",
-                  "category": "historical",
-                  "coords": [
-                        81.003399,
-                        7.958176
-                  ]
-            },
-            {
-                  "name": "Royal Palace",
-                  "text": "Ruins of the 12th-century royal palace of King Parakramabahu I.",
-                  "category": "historical",
-                  "coords": [
-                        80.997926,
-                        7.943478
-                  ]
-            },
-            {
-                  "name": "Ancient Northern Entrance",
-                  "text": "Gateway ruins marking the northern entrance to the ancient city of Polonnaruwa.",
-                  "category": "historical",
-                  "coords": [
-                        81.003313,
-                        7.952151
-                  ]
-            },
-            {
                   "name": "Kumara Pokuna",
                   "text": "Royal bathing pond with stone steps in Polonnaruwa.",
                   "category": "landmark",
                   "coords": [
                         81.002422,
                         7.942186
-                  ]
-            },
-            {
-                  "name": "Siva Devalaya",
-                  "text": "Hindu temple dedicated to Shiva in Polonnaruwa's ancient city.",
-                  "category": "historical",
-                  "coords": [
-                        81.006684,
-                        7.951015
-                  ]
-            },
-            {
-                  "name": "Menik Vehera",
-                  "text": "Large white stupa built by King Mahasena in Polonnaruwa.",
-                  "category": "historical",
-                  "coords": [
-                        81.002332,
-                        7.953044
-                  ]
-            },
-            {
-                  "name": "Monastic Hospital",
-                  "text": "Ruins of an ancient hospital complex with stone bathtubs in Polonnaruwa.",
-                  "category": "historical",
-                  "coords": [
-                        81.003041,
-                        7.959804
                   ]
             },
             {

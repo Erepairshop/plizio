@@ -6,195 +6,6 @@ export const cyprusCitiesV2: POI[] = [
     id: "cyprus-strovolos-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Moyseio Istorikis Motosikletas Kyproy",
-                  "text": "Ein Museum in Strovolos, das eine umfangreiche Sammlung klassischer Motorräder zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        33.358387,
-                        35.172869
-                  ]
-            },
-            {
-                  "name": "Archontiko Chatzigeorgaki Kornesioy",
-                  "text": "Ein historisches Herrenhaus aus dem 18. Jahrhundert, das heute als Museum dient.",
-                  "category": "museum",
-                  "coords": [
-                        33.366766,
-                        35.171871
-                  ]
-            },
-            {
-                  "name": "Derviş Paşa Konağı",
-                  "text": "Ein ethnographisches Museum in einem restaurierten osmanischen Herrenhaus.",
-                  "category": "museum",
-                  "coords": [
-                        33.358505,
-                        35.176372
-                  ]
-            },
-            {
-                  "name": "A.G Leventis Gallery",
-                  "text": "Eine bedeutende Kunstgalerie in Nicosia mit Werken europäischer und zypriotischer Künstler.",
-                  "category": "museum",
-                  "coords": [
-                        33.358391,
-                        35.169311
-                  ]
-            },
-            {
-                  "name": "Dimotiko Theatro Leykosias",
-                  "text": "Das wichtigste Theatergebäude der Stadt, ein Zentrum für darstellende Künste.",
-                  "category": "cultural",
-                  "coords": [
-                        33.35507,
-                        35.172637
-                  ]
-            },
-            {
-                  "name": "Tzami Mpairaktari",
-                  "text": "Eine bedeutende Moschee auf der Bairaktar-Bastion der venezianischen Mauern.",
-                  "category": "religious",
-                  "coords": [
-                        33.365424,
-                        35.169057
-                  ]
-            },
-            {
-                  "name": "Church of the Holy Cross",
-                  "text": "Eine griechisch-orthodoxe Kirche in Strovolos, Nikosia, bekannt für ihre byzantinischen Fresken.",
-                  "category": "religious",
-                  "coords": [
-                        33.357419,
-                        35.174328
-                  ]
-            },
-            {
-                  "name": "Büyük Hamam",
-                  "text": "Ein historisches türkisches Bad in einem ehemaligen mittelalterlichen Kirchengebäude.",
-                  "category": "landmark",
-                  "coords": [
-                        33.361678,
-                        35.176765
-                  ]
-            },
-            {
-                  "name": "Belediye Pazarı",
-                  "text": "Ein traditioneller Marktplatz in der Altstadt von Nicosia.",
-                  "category": "landmark",
-                  "coords": [
-                        33.364634,
-                        35.175412
-                  ]
-            },
-            {
-                  "name": "Laiki Geitonia",
-                  "text": "Ein restauriertes Viertel mit traditioneller Architektur und Handwerksläden.",
-                  "category": "landmark",
-                  "coords": [
-                        33.362253,
-                        35.169854
-                  ]
-            },
-            {
-                  "name": "Zypernmuseum",
-                  "text": "Das Nationalmuseum für Archäologie Zyperns in Strovolos mit einer Sammlung von der Jungsteinzeit bis zum Mittelalter.",
-                  "category": "museum",
-                  "coords": [
-                        33.355753,
-                        35.171733
-                  ]
-            },
-            {
-                  "name": "Moyseio Astynomias Kyproy",
-                  "text": "Ein Museum zur Geschichte der zypriotischen Polizei in Strovolos.",
-                  "category": "museum",
-                  "coords": [
-                        33.374292,
-                        35.144751
-                  ]
-            },
-            {
-                  "name": "Fylakismena Mnimata",
-                  "text": "Ein Denkmal und Friedhof für während des Unabhängigkeitskampfes hingerichtete Kämpfer.",
-                  "category": "historical",
-                  "coords": [
-                        33.343707,
-                        35.180405
-                  ]
-            },
-            {
-                  "name": "Casteliotissa Medieval Hall",
-                  "text": "Eine mittelalterliche Halle, die heute als Kultur- und Ausstellungszentrum genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        33.357433,
-                        35.173411
-                  ]
-            },
-            {
-                  "name": "Ekklisia Faneromenis",
-                  "text": "Eine bedeutende orthodoxe Kirche im Herzen der Altstadt von Nicosia.",
-                  "category": "religious",
-                  "coords": [
-                        33.362508,
-                        35.173481
-                  ]
-            },
-            {
-                  "name": "Sourp Asdvadzadzin",
-                  "text": "Eine armenisch-apostolische Kirche in Strovolos, Nikosia.",
-                  "category": "religious",
-                  "coords": [
-                        33.367166,
-                        35.152416
-                  ]
-            },
-            {
-                  "name": "Agios Antonios",
-                  "text": "Eine dem Heiligen Antonius gewidmete Kirche in der Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        33.367897,
-                        35.171692
-                  ]
-            },
-            {
-                  "name": "Archaggelos Michail Trypiotis",
-                  "text": "Eine byzantinische Kirche mit beeindruckenden Schnitzereien und Ikonen.",
-                  "category": "religious",
-                  "coords": [
-                        33.362623,
-                        35.171312
-                  ]
-            },
-            {
-                  "name": "Dimotikos Kipos Leykosias",
-                  "text": "Die größte öffentliche Parkanlage in Nicosia, ideal zur Erholung.",
-                  "category": "park",
-                  "coords": [
-                        33.353981,
-                        35.17292
-                  ]
-            },
-            {
-                  "name": "National Art Gallery",
-                  "text": "Die nationale Kunstgalerie, die Werke bedeutender zypriotischer Künstler ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        33.365661,
-                        35.167944
-                  ]
-            },
-            {
-                  "name": "Shacolas Tower Museum & Observatory",
-                  "text": "Ein Observatorium mit Museum, das einen Panoramablick über Nicosia bietet.",
-                  "category": "museum",
-                  "coords": [
-                        33.361525,
-                        35.171852
-                  ]
-            },
-            {
                   "name": "Ypaithrio Moyseio Neroy",
                   "text": "Freilichtmuseum mit traditionellen Wassermühlen und Aquädukten.",
                   "category": "museum",
@@ -210,15 +21,6 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.340049,
                         35.146191
-                  ]
-            },
-            {
-                  "name": "Kentro Kypriakis Cheirotechnias",
-                  "text": "Ein Zentrum zur Bewahrung und Ausstellung traditioneller zypriotischer Handwerkskunst.",
-                  "category": "museum",
-                  "coords": [
-                        33.373207,
-                        35.140212
                   ]
             },
             {
@@ -420,30 +222,12 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Agios Georgios",
-                  "text": "Ein See bei Strovolos, der eine ruhige Oase in der Stadt bietet.",
-                  "category": "natural",
-                  "coords": [
-                        33.401273,
-                        35.142867
-                  ]
-            },
-            {
                   "name": "Limni toy Magli",
                   "text": "Süßwassersee in Strovolos, Lebensraum für Wasservögel.",
                   "category": "natural",
                   "coords": [
                         33.308401,
                         35.127047
-                  ]
-            },
-            {
-                  "name": "Limni Athalassas",
-                  "text": "Ein bekannter See bei Strovolos in einem beliebten Erholungsgebiet.",
-                  "category": "natural",
-                  "coords": [
-                        33.387377,
-                        35.127679
                   ]
             },
             {
@@ -474,15 +258,6 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hamam Omerye",
-                  "text": "Historisches türkisches Bad (Hamam) in Strovolos, kulturelles Familienerlebnis.",
-                  "category": "family",
-                  "coords": [
-                        33.365357,
-                        35.172563
-                  ]
-            },
-            {
                   "name": "Tivoli Luna Park",
                   "text": "Ein Freizeitpark in Strovolos mit verschiedenen Attraktionen für die ganze Familie.",
                   "category": "family",
@@ -503,195 +278,6 @@ export const cyprusCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Moyseio Istorikis Motosikletas Kyproy",
-                  "text": "Klasszikus motorkerékpárok gyűjteményét bemutató múzeum Strovolosban.",
-                  "category": "museum",
-                  "coords": [
-                        33.358387,
-                        35.172869
-                  ]
-            },
-            {
-                  "name": "Archontiko Chatzigeorgaki Kornesioy",
-                  "text": "18. századi történelmi kúria, amely ma múzeumként működik.",
-                  "category": "museum",
-                  "coords": [
-                        33.366766,
-                        35.171871
-                  ]
-            },
-            {
-                  "name": "Derviş Paşa Konağı",
-                  "text": "Néprajzi múzeum egy restaurált oszmán kori kúriában.",
-                  "category": "museum",
-                  "coords": [
-                        33.358505,
-                        35.176372
-                  ]
-            },
-            {
-                  "name": "A.G Leventis Gallery",
-                  "text": "Jelentős művészeti galéria Nicosiában, európai és ciprusi művészek alkotásaival.",
-                  "category": "museum",
-                  "coords": [
-                        33.358391,
-                        35.169311
-                  ]
-            },
-            {
-                  "name": "Dimotiko Theatro Leykosias",
-                  "text": "A város legfontosabb színházépülete, az előadóművészetek központja.",
-                  "category": "cultural",
-                  "coords": [
-                        33.35507,
-                        35.172637
-                  ]
-            },
-            {
-                  "name": "Tzami Mpairaktari",
-                  "text": "Fontos mecset a velencei falak Bayraktar-bástyáján.",
-                  "category": "religious",
-                  "coords": [
-                        33.365424,
-                        35.169057
-                  ]
-            },
-            {
-                  "name": "Church of the Holy Cross",
-                  "text": "Görög ortodox templom Strovolosban, Nicosiában, híres bizánci freskóiról.",
-                  "category": "religious",
-                  "coords": [
-                        33.357419,
-                        35.174328
-                  ]
-            },
-            {
-                  "name": "Büyük Hamam",
-                  "text": "Történelmi törökfürdő egy egykori középkori templomépületben.",
-                  "category": "landmark",
-                  "coords": [
-                        33.361678,
-                        35.176765
-                  ]
-            },
-            {
-                  "name": "Belediye Pazarı",
-                  "text": "Hagyományos piactér Nicosia óvárosában.",
-                  "category": "landmark",
-                  "coords": [
-                        33.364634,
-                        35.175412
-                  ]
-            },
-            {
-                  "name": "Laiki Geitonia",
-                  "text": "Hagyományos építészetű, restaurált negyed kézműves boltokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        33.362253,
-                        35.169854
-                  ]
-            },
-            {
-                  "name": "Kypriako Moyseio",
-                  "text": "Ciprus Nemzeti Régészeti Múzeuma Strovolosban, a neolitikumtól a középkorig ívelő gyűjteménnyel.",
-                  "category": "museum",
-                  "coords": [
-                        33.355753,
-                        35.171733
-                  ]
-            },
-            {
-                  "name": "Moyseio Astynomias Kyproy",
-                  "text": "A ciprusi rendőrség történetének szentelt múzeum Strovolosban.",
-                  "category": "museum",
-                  "coords": [
-                        33.374292,
-                        35.144751
-                  ]
-            },
-            {
-                  "name": "Fylakismena Mnimata",
-                  "text": "Emlékmű és temető a függetlenségi harc során kivégzett harcosoknak.",
-                  "category": "historical",
-                  "coords": [
-                        33.343707,
-                        35.180405
-                  ]
-            },
-            {
-                  "name": "Casteliotissa Medieval Hall",
-                  "text": "Középkori csarnok, amelyet ma kulturális és kiállítási központként használnak.",
-                  "category": "cultural",
-                  "coords": [
-                        33.357433,
-                        35.173411
-                  ]
-            },
-            {
-                  "name": "Ekklisia Faneromenis",
-                  "text": "Jelentős ortodox templom Nicosia óvárosának szívében.",
-                  "category": "religious",
-                  "coords": [
-                        33.362508,
-                        35.173481
-                  ]
-            },
-            {
-                  "name": "Sourp Asdvadzadzin",
-                  "text": "Egy örmény apostoli templom Strovolosban, Nicosiában.",
-                  "category": "religious",
-                  "coords": [
-                        33.367166,
-                        35.152416
-                  ]
-            },
-            {
-                  "name": "Agios Antonios",
-                  "text": "Szent Antalnak szentelt templom a városban.",
-                  "category": "religious",
-                  "coords": [
-                        33.367897,
-                        35.171692
-                  ]
-            },
-            {
-                  "name": "Archaggelos Michail Trypiotis",
-                  "text": "Bizánci templom lenyűgöző faragványokkal és ikonokkal.",
-                  "category": "religious",
-                  "coords": [
-                        33.362623,
-                        35.171312
-                  ]
-            },
-            {
-                  "name": "Dimotikos Kipos Leykosias",
-                  "text": "Nicosia legnagyobb közparkja, ideális kikapcsolódásra.",
-                  "category": "park",
-                  "coords": [
-                        33.353981,
-                        35.17292
-                  ]
-            },
-            {
-                  "name": "National Art Gallery",
-                  "text": "A nemzeti művészeti galéria, amely jelentős ciprusi művészek alkotásait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        33.365661,
-                        35.167944
-                  ]
-            },
-            {
-                  "name": "Shacolas Observatory",
-                  "text": "Csillagvizsgáló és múzeum, amely panorámás kilátást nyújt Nicosiára.",
-                  "category": "museum",
-                  "coords": [
-                        33.361525,
-                        35.171852
-                  ]
-            },
-            {
                   "name": "Ypaithrio Moyseio Neroy",
                   "text": "Szabadtéri múzeum hagyományos vízimalmokkal és vízvezetékekkel.",
                   "category": "museum",
@@ -707,15 +293,6 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.340049,
                         35.146191
-                  ]
-            },
-            {
-                  "name": "Kentro Kypriakis Cheirotechnias",
-                  "text": "A hagyományos ciprusi kézművesség megőrzésére és bemutatására szolgáló központ.",
-                  "category": "museum",
-                  "coords": [
-                        33.373207,
-                        35.140212
                   ]
             },
             {
@@ -917,30 +494,12 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Agios Georgios",
-                  "text": "Tó Strovolos közelében, amely csendes oázist kínál a városban.",
-                  "category": "natural",
-                  "coords": [
-                        33.401273,
-                        35.142867
-                  ]
-            },
-            {
                   "name": "Limni toy Magli",
                   "text": "Édesvizű tó Strovolosban, vízimadarak élőhelye.",
                   "category": "natural",
                   "coords": [
                         33.308401,
                         35.127047
-                  ]
-            },
-            {
-                  "name": "Limni Athalassas",
-                  "text": "Ismert tó Strovolos közelében, egy népszerű üdülőövezetben.",
-                  "category": "natural",
-                  "coords": [
-                        33.387377,
-                        35.127679
                   ]
             },
             {
@@ -971,15 +530,6 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hamam Omerye",
-                  "text": "Történelmi török fürdő (hamam) Strovolosban, családi kulturális élmény.",
-                  "category": "family",
-                  "coords": [
-                        33.365357,
-                        35.172563
-                  ]
-            },
-            {
                   "name": "Tivoli Luna Park",
                   "text": "Vidámpark Strovolos városában, változatos játékokkal az egész család számára.",
                   "category": "family",
@@ -1000,195 +550,6 @@ export const cyprusCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Moyseio Istorikis Motosikletas Kyproy",
-                  "text": "Un muzeu din Strovolos care expune o colecție vastă de motociclete clasice.",
-                  "category": "museum",
-                  "coords": [
-                        33.358387,
-                        35.172869
-                  ]
-            },
-            {
-                  "name": "Archontiko Chatzigeorgaki Kornesioy",
-                  "text": "Un conac istoric din secolul al XVIII-lea care servește acum ca muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        33.366766,
-                        35.171871
-                  ]
-            },
-            {
-                  "name": "Derviş Paşa Konağı",
-                  "text": "Un muzeu etnografic situat într-un conac otoman restaurat.",
-                  "category": "museum",
-                  "coords": [
-                        33.358505,
-                        35.176372
-                  ]
-            },
-            {
-                  "name": "A.G Leventis Gallery",
-                  "text": "O galerie de artă importantă din Nicosia, cu lucrări ale artiștilor europeni și ciprioți.",
-                  "category": "museum",
-                  "coords": [
-                        33.358391,
-                        35.169311
-                  ]
-            },
-            {
-                  "name": "Dimotiko Theatro Leykosias",
-                  "text": "Cea mai importantă clădire de teatru din oraș, un centru pentru artele spectacolului.",
-                  "category": "cultural",
-                  "coords": [
-                        33.35507,
-                        35.172637
-                  ]
-            },
-            {
-                  "name": "Tzami Mpairaktari",
-                  "text": "O moschee importantă situată pe bastionul Bayraktar al zidurilor venețiene.",
-                  "category": "religious",
-                  "coords": [
-                        33.365424,
-                        35.169057
-                  ]
-            },
-            {
-                  "name": "Church of the Holy Cross",
-                  "text": "O biserică ortodoxă greacă în Strovolos, Nicosia, cunoscută pentru frescele sale bizantine.",
-                  "category": "religious",
-                  "coords": [
-                        33.357419,
-                        35.174328
-                  ]
-            },
-            {
-                  "name": "Büyük Hamam",
-                  "text": "O baie turcească istorică situată într-o fostă clădire de biserică medievală.",
-                  "category": "landmark",
-                  "coords": [
-                        33.361678,
-                        35.176765
-                  ]
-            },
-            {
-                  "name": "Belediye Pazarı",
-                  "text": "O piață tradițională situată în orașul vechi al Nicosiei.",
-                  "category": "landmark",
-                  "coords": [
-                        33.364634,
-                        35.175412
-                  ]
-            },
-            {
-                  "name": "Laiki Geitonia",
-                  "text": "Un cartier restaurat cu arhitectură tradițională și magazine de meșteșuguri.",
-                  "category": "landmark",
-                  "coords": [
-                        33.362253,
-                        35.169854
-                  ]
-            },
-            {
-                  "name": "Kypriako Moyseio",
-                  "text": "Muzeul Național de Arheologie al Ciprului din Strovolos, cu o colecție de la neolitic până în Evul Mediu.",
-                  "category": "museum",
-                  "coords": [
-                        33.355753,
-                        35.171733
-                  ]
-            },
-            {
-                  "name": "Moyseio Astynomias Kyproy",
-                  "text": "Un muzeu dedicat istoriei Poliției Cipriote în Strovolos.",
-                  "category": "museum",
-                  "coords": [
-                        33.374292,
-                        35.144751
-                  ]
-            },
-            {
-                  "name": "Fylakismena Mnimata",
-                  "text": "Un monument și cimitir pentru luptătorii executați în timpul luptei pentru independență.",
-                  "category": "historical",
-                  "coords": [
-                        33.343707,
-                        35.180405
-                  ]
-            },
-            {
-                  "name": "Casteliotissa Medieval Hall",
-                  "text": "O sală medievală utilizată astăzi ca centru cultural și de expoziții.",
-                  "category": "cultural",
-                  "coords": [
-                        33.357433,
-                        35.173411
-                  ]
-            },
-            {
-                  "name": "Ekklisia Faneromenis",
-                  "text": "O biserică ortodoxă importantă în inima orașului vechi din Nicosia.",
-                  "category": "religious",
-                  "coords": [
-                        33.362508,
-                        35.173481
-                  ]
-            },
-            {
-                  "name": "Biserica armeană „Sourp Asdvadzadzin” Nicosia",
-                  "text": "O biserică armeană apostolică în Strovolos, Nicosia.",
-                  "category": "religious",
-                  "coords": [
-                        33.367166,
-                        35.152416
-                  ]
-            },
-            {
-                  "name": "Agios Antonios",
-                  "text": "O biserică dedicată Sfântului Antonie situată în oraș.",
-                  "category": "religious",
-                  "coords": [
-                        33.367897,
-                        35.171692
-                  ]
-            },
-            {
-                  "name": "Archaggelos Michail Trypiotis",
-                  "text": "O biserică bizantină cu sculpturi și icoane impresionante.",
-                  "category": "religious",
-                  "coords": [
-                        33.362623,
-                        35.171312
-                  ]
-            },
-            {
-                  "name": "Dimotikos Kipos Leykosias",
-                  "text": "Cel mai mare parc public din Nicosia, ideal pentru recreere.",
-                  "category": "park",
-                  "coords": [
-                        33.353981,
-                        35.17292
-                  ]
-            },
-            {
-                  "name": "National Art Gallery",
-                  "text": "Galeria națională de artă, care expune lucrări ale unor importanți artiști ciprioți.",
-                  "category": "museum",
-                  "coords": [
-                        33.365661,
-                        35.167944
-                  ]
-            },
-            {
-                  "name": "Shacolas Observatory",
-                  "text": "Un observator și muzeu care oferă o vedere panoramică asupra Nicosiei.",
-                  "category": "museum",
-                  "coords": [
-                        33.361525,
-                        35.171852
-                  ]
-            },
-            {
                   "name": "Ypaithrio Moyseio Neroy",
                   "text": "Muzeu în aer liber cu mori de apă tradiționale și apeducte.",
                   "category": "museum",
@@ -1204,15 +565,6 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.340049,
                         35.146191
-                  ]
-            },
-            {
-                  "name": "Kentro Kypriakis Cheirotechnias",
-                  "text": "Un centru pentru conservarea și expunerea meșteșugurilor tradiționale cipriote.",
-                  "category": "museum",
-                  "coords": [
-                        33.373207,
-                        35.140212
                   ]
             },
             {
@@ -1414,30 +766,12 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Agios Georgios",
-                  "text": "Un lac lângă Strovolos, care oferă o oază de liniște în oraș.",
-                  "category": "natural",
-                  "coords": [
-                        33.401273,
-                        35.142867
-                  ]
-            },
-            {
                   "name": "Limni toy Magli",
                   "text": "Lac de apă dulce în Strovolos, habitat pentru păsări acvatice.",
                   "category": "natural",
                   "coords": [
                         33.308401,
                         35.127047
-                  ]
-            },
-            {
-                  "name": "Limni Athalassas",
-                  "text": "Un lac cunoscut lângă Strovolos, situat într-o zonă de recreere populară.",
-                  "category": "natural",
-                  "coords": [
-                        33.387377,
-                        35.127679
                   ]
             },
             {
@@ -1468,15 +802,6 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hamam Omerye",
-                  "text": "Baie turcească istorică (hamam) în Strovolos, experiență culturală de familie.",
-                  "category": "family",
-                  "coords": [
-                        33.365357,
-                        35.172563
-                  ]
-            },
-            {
                   "name": "Tivoli Luna Park",
                   "text": "Un parc de distracții în Strovolos cu diverse atracții pentru întreaga familie.",
                   "category": "family",
@@ -1497,195 +822,6 @@ export const cyprusCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Cyprus Classic Motorcycle Museum",
-                  "text": "A museum in Strovolos displaying an extensive collection of classic motorcycles.",
-                  "category": "museum",
-                  "coords": [
-                        33.358387,
-                        35.172869
-                  ]
-            },
-            {
-                  "name": "Hadjigeorgakis Kornesios Mansion",
-                  "text": "An 18th-century historic mansion that now serves as a museum.",
-                  "category": "museum",
-                  "coords": [
-                        33.366766,
-                        35.171871
-                  ]
-            },
-            {
-                  "name": "Dervish Pasha Mansion",
-                  "text": "An ethnographic museum housed in a restored Ottoman mansion.",
-                  "category": "museum",
-                  "coords": [
-                        33.358505,
-                        35.176372
-                  ]
-            },
-            {
-                  "name": "A.G Leventis Gallery",
-                  "text": "A major art gallery in Nicosia featuring works by European and Cypriot artists.",
-                  "category": "museum",
-                  "coords": [
-                        33.358391,
-                        35.169311
-                  ]
-            },
-            {
-                  "name": "Nicosia Municipal Theater",
-                  "text": "The city's primary theater building, a center for performing arts.",
-                  "category": "cultural",
-                  "coords": [
-                        33.35507,
-                        35.172637
-                  ]
-            },
-            {
-                  "name": "Bairaktar Mosque",
-                  "text": "An important mosque located on the Bayraktar bastion of the Venetian walls.",
-                  "category": "religious",
-                  "coords": [
-                        33.365424,
-                        35.169057
-                  ]
-            },
-            {
-                  "name": "Church of the Holy Cross",
-                  "text": "A Greek Orthodox church in Strovolos, Nicosia, known for its Byzantine frescoes.",
-                  "category": "religious",
-                  "coords": [
-                        33.357419,
-                        35.174328
-                  ]
-            },
-            {
-                  "name": "Büyük Hamam",
-                  "text": "A historic Turkish bath located in a former medieval church building.",
-                  "category": "landmark",
-                  "coords": [
-                        33.361678,
-                        35.176765
-                  ]
-            },
-            {
-                  "name": "Municipal Market",
-                  "text": "A traditional marketplace located in the old town of Nicosia.",
-                  "category": "landmark",
-                  "coords": [
-                        33.364634,
-                        35.175412
-                  ]
-            },
-            {
-                  "name": "Laiki Geitonia",
-                  "text": "A restored neighborhood with traditional architecture and craft shops.",
-                  "category": "landmark",
-                  "coords": [
-                        33.362253,
-                        35.169854
-                  ]
-            },
-            {
-                  "name": "Cyprus Museum",
-                  "text": "The national archaeological museum of Cyprus in Strovolos, featuring artifacts from the Neolithic to the Middle Ages.",
-                  "category": "museum",
-                  "coords": [
-                        33.355753,
-                        35.171733
-                  ]
-            },
-            {
-                  "name": "Cyprus Police Museum",
-                  "text": "A museum dedicated to the history of the Cyprus Police in Strovolos.",
-                  "category": "museum",
-                  "coords": [
-                        33.374292,
-                        35.144751
-                  ]
-            },
-            {
-                  "name": "The Imprisoned Graves",
-                  "text": "A monument and cemetery for fighters executed during the struggle for independence.",
-                  "category": "historical",
-                  "coords": [
-                        33.343707,
-                        35.180405
-                  ]
-            },
-            {
-                  "name": "Casteliotissa Medieval Hall",
-                  "text": "A medieval hall now used as a cultural and exhibition center.",
-                  "category": "cultural",
-                  "coords": [
-                        33.357433,
-                        35.173411
-                  ]
-            },
-            {
-                  "name": "Faneroumeni Church",
-                  "text": "A major Orthodox church in the heart of Nicosia's old town.",
-                  "category": "religious",
-                  "coords": [
-                        33.362508,
-                        35.173481
-                  ]
-            },
-            {
-                  "name": "Sourp Asdvadzadzin",
-                  "text": "An Armenian Apostolic church in Strovolos, Nicosia.",
-                  "category": "religious",
-                  "coords": [
-                        33.367166,
-                        35.152416
-                  ]
-            },
-            {
-                  "name": "Agios Antonios",
-                  "text": "A church dedicated to Saint Anthony located in the city.",
-                  "category": "religious",
-                  "coords": [
-                        33.367897,
-                        35.171692
-                  ]
-            },
-            {
-                  "name": "Archaggelos Michail Trypiotis",
-                  "text": "A Byzantine church featuring impressive carvings and icons.",
-                  "category": "religious",
-                  "coords": [
-                        33.362623,
-                        35.171312
-                  ]
-            },
-            {
-                  "name": "Nicosia Municipal Gardens",
-                  "text": "The largest public park in Nicosia, ideal for recreation.",
-                  "category": "park",
-                  "coords": [
-                        33.353981,
-                        35.17292
-                  ]
-            },
-            {
-                  "name": "National Art Gallery",
-                  "text": "The national art gallery exhibiting works by prominent Cypriot artists.",
-                  "category": "museum",
-                  "coords": [
-                        33.365661,
-                        35.167944
-                  ]
-            },
-            {
-                  "name": "Shacolas Observatory",
-                  "text": "An observatory and museum offering panoramic views over Nicosia.",
-                  "category": "museum",
-                  "coords": [
-                        33.361525,
-                        35.171852
-                  ]
-            },
-            {
                   "name": "Outdoor Water Museum",
                   "text": "Open-air museum featuring traditional watermills and aqueducts.",
                   "category": "museum",
@@ -1701,15 +837,6 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.340049,
                         35.146191
-                  ]
-            },
-            {
-                  "name": "Cyprus Handicrafts Centre",
-                  "text": "A center for preserving and exhibiting traditional Cypriot handicrafts.",
-                  "category": "museum",
-                  "coords": [
-                        33.373207,
-                        35.140212
                   ]
             },
             {
@@ -1911,30 +1038,12 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Agios Georgios",
-                  "text": "A lake near Strovolos providing a quiet oasis in the city.",
-                  "category": "natural",
-                  "coords": [
-                        33.401273,
-                        35.142867
-                  ]
-            },
-            {
                   "name": "Maglee Lake",
                   "text": "A freshwater lake in Strovolos, a habitat for waterfowl.",
                   "category": "natural",
                   "coords": [
                         33.308401,
                         35.127047
-                  ]
-            },
-            {
-                  "name": "Athalassa Lake",
-                  "text": "A well-known lake near Strovolos in a popular recreation area.",
-                  "category": "natural",
-                  "coords": [
-                        33.387377,
-                        35.127679
                   ]
             },
             {
@@ -1962,15 +1071,6 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.335295,
                         35.166844
-                  ]
-            },
-            {
-                  "name": "Hamam Omerye",
-                  "text": "Historical Turkish bath (hamam) offering a cultural family experience in Strovolos.",
-                  "category": "family",
-                  "coords": [
-                        33.365357,
-                        35.172563
                   ]
             },
             {
@@ -2040,24 +1140,6 @@ export const cyprusCitiesV2: POI[] = [
     id: "cyprus-latsia-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Agios Georgios",
-                  "text": "Der See Agios Georgios in Latsia bietet eine ruhige Atmosphäre für entspannte Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        33.401273,
-                        35.142867
-                  ]
-            },
-            {
-                  "name": "Limni toy Magli",
-                  "text": "Der Maglee Lake in Latsia ist ein See, der eine friedliche Umgebung für Naturfreunde bietet.",
-                  "category": "natural",
-                  "coords": [
-                        33.308401,
-                        35.127047
-                  ]
-            },
-            {
                   "name": "Limni Athalassas",
                   "text": "Der Athalassa Lake in Latsia ist ein beliebtes Ziel für Naturbeobachtungen und ruhige Momente.",
                   "category": "natural",
@@ -2122,24 +1204,6 @@ export const cyprusCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Agios Georgios",
-                  "text": "A Latsia településen található Agios Georgios tó nyugodt légkört biztosít a pihentető sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        33.401273,
-                        35.142867
-                  ]
-            },
-            {
-                  "name": "Limni toy Magli",
-                  "text": "A Latsia-i Maglee Lake egy tó, amely békés környezetet kínál a természetbarátoknak.",
-                  "category": "natural",
-                  "coords": [
-                        33.308401,
-                        35.127047
-                  ]
-            },
             {
                   "name": "Limni Athalassas",
                   "text": "A Latsia-i Athalassa Lake kedvelt célpont a természet megfigyelésére és a csendes pillanatokhoz.",
@@ -2206,24 +1270,6 @@ export const cyprusCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Agios Georgios",
-                  "text": "Lacul Agios Georgios din Latsia oferă o atmosferă liniștită pentru plimbări relaxante.",
-                  "category": "natural",
-                  "coords": [
-                        33.401273,
-                        35.142867
-                  ]
-            },
-            {
-                  "name": "Limni toy Magli",
-                  "text": "Maglee Lake din Latsia este un lac ce oferă un mediu liniștit pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        33.308401,
-                        35.127047
-                  ]
-            },
-            {
                   "name": "Limni Athalassas",
                   "text": "Lacul Athalassa din Latsia este o destinație populară pentru observarea naturii și momente de liniște.",
                   "category": "natural",
@@ -2288,24 +1334,6 @@ export const cyprusCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Agios Georgios",
-                  "text": "The Agios Georgios lake in Latsia offers a calm atmosphere for relaxed walks.",
-                  "category": "natural",
-                  "coords": [
-                        33.401273,
-                        35.142867
-                  ]
-            },
-            {
-                  "name": "Maglee Lake",
-                  "text": "The Maglee Lake in Latsia is a lake offering a peaceful environment for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        33.308401,
-                        35.127047
-                  ]
-            },
             {
                   "name": "Athalassa Lake",
                   "text": "The Athalassa Lake in Latsia is a popular destination for nature observation and quiet moments.",
@@ -2472,15 +1500,6 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Limassol Zoo",
-                  "text": "Ein kleiner Zoo im Stadtgarten von Limassol mit verschiedenen Tierarten.",
-                  "category": "family",
-                  "coords": [
-                        33.055905,
-                        34.683179
-                  ]
-            },
-            {
                   "name": "Kastell von Limassol",
                   "text": "Eine historische Burg in Limassol, in der Richard Löwenherz Berengaria von Navarra geheiratet haben soll.",
                   "category": "castle",
@@ -2532,15 +1551,6 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.062186,
                         34.691429
-                  ]
-            },
-            {
-                  "name": "Cyprus Theatre Museum",
-                  "text": "Ein Museum in Mesa Geitonia, das die Geschichte des zyprischen Theaters dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        33.049844,
-                        34.682367
                   ]
             },
             {
@@ -2616,15 +1626,6 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Akti Olympion Beach",
-                  "text": "Akti Olympion Beach in Mesa Geitonia besticht als lebhafter Küstenabschnitt, an dem sich Entspannung und Freizeitaktivitäten perfekt ergänzen. Besucher können hier am sauberen Ufer flanieren oder das erfrischende Wasser des Mittelmeers genießen. Wer einen aktiven Tag voller Strandvergnügen plant, ist an diesem vielseitigen Ort genau richtig.",
-                  "category": "recreational",
-                  "coords": [
-                        33.053556,
-                        34.680034
-                  ]
-            },
-            {
                   "name": "Stin Agonizomeni Mathitiosa Neolaia",
                   "text": "Ein Denkmal in Mesa Geitonia, das der kämpfenden studentischen Jugend gewidmet ist.",
                   "category": "historical",
@@ -2649,15 +1650,6 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.035658,
                         34.671704
-                  ]
-            },
-            {
-                  "name": "Dolphin Statue Fountain",
-                  "text": "Ein Zierbrunnen mit einer Delphinstatue in Mesa Geitonia.",
-                  "category": "historical",
-                  "coords": [
-                        33.01843,
-                        34.686263
                   ]
             },
             {
@@ -2751,15 +1743,6 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Techniti Limni Polemidion",
-                  "text": "Ein ruhiger Stausee in Mesa Geitonia, ideal für Spaziergänge in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        32.98375,
-                        34.722661
-                  ]
-            },
-            {
                   "name": "Germasogeia",
                   "text": "Ein malerisches Gewässer in Mesa Geitonia mit schöner Aussicht.",
                   "category": "natural",
@@ -2778,30 +1761,12 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Place 2 Race",
-                  "text": "Ein Ort für spannende Spiele und Unterhaltung in Mesa Geitonia.",
-                  "category": "family",
-                  "coords": [
-                        33.060851,
-                        34.68508
-                  ]
-            },
-            {
                   "name": "Plateia Synergatismoy",
                   "text": "Öffentlicher Platz in Mesa Geitonia, Treffpunkt für Familien.",
                   "category": "family",
                   "coords": [
                         33.047853,
                         34.700708
-                  ]
-            },
-            {
-                  "name": "NOA",
-                  "text": "Ein exklusiver Strandclub an der Küste von Zypern mit Blick auf das Mittelmeer.",
-                  "category": "recreational",
-                  "coords": [
-                        33.0748,
-                        34.689777
                   ]
             }
       ],
@@ -2813,15 +1778,6 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.045788,
                         34.679552
-                  ]
-            },
-            {
-                  "name": "Limassol Zoo",
-                  "text": "Limassol városi kertjében található kis állatkert különféle állatfajokkal.",
-                  "category": "family",
-                  "coords": [
-                        33.055905,
-                        34.683179
                   ]
             },
             {
@@ -2876,15 +1832,6 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.062186,
                         34.691429
-                  ]
-            },
-            {
-                  "name": "Cyprus Theatre Museum",
-                  "text": "A ciprusi színház történetét bemutató múzeum Mesa Geitoniában.",
-                  "category": "museum",
-                  "coords": [
-                        33.049844,
-                        34.682367
                   ]
             },
             {
@@ -2960,15 +1907,6 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Akti Olympion Beach",
-                  "text": "A Mesa Geitonia területén lévő Akti Olympion Beach élénk partszakaszként hódít, ahol a pihenés és a szabadidős tevékenységek tökéletesen kiegészítik egymást. A látogatók sétálhatnak a tiszta parton, vagy élvezhetik a Földközi-tenger frissítő vizét. Aki egy aktív, strandolással teli napot tervez, ezen a sokoldalú helyen biztosan megtalálja a számítását.",
-                  "category": "recreational",
-                  "coords": [
-                        33.053556,
-                        34.680034
-                  ]
-            },
-            {
                   "name": "Stin Agonizomeni Mathitiosa Neolaia",
                   "text": "A küzdő diákságnak szentelt emlékmű Mesa Geitoniában.",
                   "category": "historical",
@@ -2993,15 +1931,6 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.035658,
                         34.671704
-                  ]
-            },
-            {
-                  "name": "Dolphin Statue Fountain",
-                  "text": "Delfinszoborral díszített szökőkút Mesa Geitoniában.",
-                  "category": "historical",
-                  "coords": [
-                        33.01843,
-                        34.686263
                   ]
             },
             {
@@ -3095,15 +2024,6 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Techniti Limni Polemidion",
-                  "text": "Nyugodt víztározó Mesa Geitoniában, ideális természeti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        32.98375,
-                        34.722661
-                  ]
-            },
-            {
                   "name": "Germasogeia",
                   "text": "Gleccser eredetű vagy festői vízfelület Mesa Geitoniában, szép kilátással.",
                   "category": "natural",
@@ -3122,30 +2042,12 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Place 2 Race",
-                  "text": "Izgalmas játékok és szórakozás helyszíne Mesa Geitoniában.",
-                  "category": "family",
-                  "coords": [
-                        33.060851,
-                        34.68508
-                  ]
-            },
-            {
                   "name": "Plateia Synergatismoy",
                   "text": "Nyilvános tér Mesa Geitoniában, családok találkozóhelye.",
                   "category": "family",
                   "coords": [
                         33.047853,
                         34.700708
-                  ]
-            },
-            {
-                  "name": "NOA",
-                  "text": "Exkluzív strandklub Ciprus partjainál, kilátással a Földközi-tengerre.",
-                  "category": "recreational",
-                  "coords": [
-                        33.0748,
-                        34.689777
                   ]
             }
       ],
@@ -3157,15 +2059,6 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.045788,
                         34.679552
-                  ]
-            },
-            {
-                  "name": "Limassol Zoo",
-                  "text": "O mică grădină zoologică situată în grădinile municipale din Limassol, cu diverse specii.",
-                  "category": "family",
-                  "coords": [
-                        33.055905,
-                        34.683179
                   ]
             },
             {
@@ -3220,15 +2113,6 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.062186,
                         34.691429
-                  ]
-            },
-            {
-                  "name": "Cyprus Theatre Museum",
-                  "text": "Un muzeu în Mesa Geitonia care documentează istoria teatrului cipriot.",
-                  "category": "museum",
-                  "coords": [
-                        33.049844,
-                        34.682367
                   ]
             },
             {
@@ -3304,15 +2188,6 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Akti Olympion Beach",
-                  "text": "Akti Olympion Beach din Mesa Geitonia impresionează ca o porțiune plină de viață a coastei, unde relaxarea și activitățile de agrement se completează perfect. Vizitatorii se pot plimba aici pe țărmul curat sau pot savura apa răcoroasă a Mării Mediterane. Cei care planifică o zi activă plină de distracție pe plajă se află exact în locul potrivit în acest decor versatil.",
-                  "category": "recreational",
-                  "coords": [
-                        33.053556,
-                        34.680034
-                  ]
-            },
-            {
                   "name": "Stin Agonizomeni Mathitiosa Neolaia",
                   "text": "Un monument în Mesa Geitonia dedicat tineretului studios luptător.",
                   "category": "historical",
@@ -3337,15 +2212,6 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.035658,
                         34.671704
-                  ]
-            },
-            {
-                  "name": "Dolphin Statue Fountain",
-                  "text": "O fântână ornamentală cu o statuie de delfin în Mesa Geitonia.",
-                  "category": "historical",
-                  "coords": [
-                        33.01843,
-                        34.686263
                   ]
             },
             {
@@ -3439,15 +2305,6 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Techniti Limni Polemidion",
-                  "text": "Un rezervuar liniștit în Mesa Geitonia, ideal pentru plimbări în natură.",
-                  "category": "natural",
-                  "coords": [
-                        32.98375,
-                        34.722661
-                  ]
-            },
-            {
                   "name": "Germasogeia",
                   "text": "O zonă cu apă pitorească în Mesa Geitonia, cu vederi frumoase.",
                   "category": "natural",
@@ -3466,30 +2323,12 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Place 2 Race",
-                  "text": "Un loc pentru jocuri captivante și divertisment în Mesa Geitonia.",
-                  "category": "family",
-                  "coords": [
-                        33.060851,
-                        34.68508
-                  ]
-            },
-            {
                   "name": "Plateia Synergatismoy",
                   "text": "Piață publică în Mesa Geitonia, loc de întâlnire pentru familii.",
                   "category": "family",
                   "coords": [
                         33.047853,
                         34.700708
-                  ]
-            },
-            {
-                  "name": "NOA",
-                  "text": "Un club de plajă exclusivist pe coasta Ciprului, cu vedere la Marea Mediterană.",
-                  "category": "recreational",
-                  "coords": [
-                        33.0748,
-                        34.689777
                   ]
             }
       ],
@@ -3501,33 +2340,6 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.045788,
                         34.679552
-                  ]
-            },
-            {
-                  "name": "Limassol Zoo",
-                  "text": "A small zoo located in the municipal gardens of Limassol featuring various species.",
-                  "category": "family",
-                  "coords": [
-                        33.055905,
-                        34.683179
-                  ]
-            },
-            {
-                  "name": "Limassol Medieval Castle",
-                  "text": "A historic castle in Limassol where Richard the Lionheart reportedly married Berengaria of Navarre.",
-                  "category": "castle",
-                  "coords": [
-                        33.041671,
-                        34.672254
-                  ]
-            },
-            {
-                  "name": "Archaeological Museum of the Limassol District",
-                  "text": "A museum in Mesa Geitonia displaying archaeological finds from the Limassol district.",
-                  "category": "museum",
-                  "coords": [
-                        33.054407,
-                        34.685333
                   ]
             },
             {
@@ -3564,15 +2376,6 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.062186,
                         34.691429
-                  ]
-            },
-            {
-                  "name": "Cyprus Theatre Museum",
-                  "text": "A museum in Mesa Geitonia documenting the history of Cypriot theatre.",
-                  "category": "museum",
-                  "coords": [
-                        33.049844,
-                        34.682367
                   ]
             },
             {
@@ -3648,15 +2451,6 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Akti Olympion Beach",
-                  "text": "Akti Olympion Beach in Mesa Geitonia impresses as a lively stretch of coastline where relaxation and leisure activities perfectly complement each other. Visitors can stroll along the clean shore or enjoy the refreshing waters of the Mediterranean Sea. Anyone planning an active day full of beach fun will find themselves right at home in this versatile spot.",
-                  "category": "recreational",
-                  "coords": [
-                        33.053556,
-                        34.680034
-                  ]
-            },
-            {
                   "name": "Stin Agonizomeni Mathitiosa Neolaia",
                   "text": "A monument in Mesa Geitonia dedicated to the struggling student youth.",
                   "category": "historical",
@@ -3681,15 +2475,6 @@ export const cyprusCitiesV2: POI[] = [
                   "coords": [
                         33.035658,
                         34.671704
-                  ]
-            },
-            {
-                  "name": "Dolphin Statue Fountain",
-                  "text": "An ornamental fountain featuring a dolphin statue in Mesa Geitonia.",
-                  "category": "historical",
-                  "coords": [
-                        33.01843,
-                        34.686263
                   ]
             },
             {
@@ -3783,15 +2568,6 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Polemidia Reservoir",
-                  "text": "A calm reservoir in Mesa Geitonia, ideal for nature walks.",
-                  "category": "natural",
-                  "coords": [
-                        32.98375,
-                        34.722661
-                  ]
-            },
-            {
                   "name": "Germasogeia",
                   "text": "A scenic body of water in Mesa Geitonia with beautiful views.",
                   "category": "natural",
@@ -3810,30 +2586,12 @@ export const cyprusCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Place 2 Race",
-                  "text": "A venue for exciting games and entertainment in Mesa Geitonia.",
-                  "category": "family",
-                  "coords": [
-                        33.060851,
-                        34.68508
-                  ]
-            },
-            {
                   "name": "Plateia Synergatismoy",
                   "text": "Public square in Mesa Geitonia, a meeting point for families.",
                   "category": "family",
                   "coords": [
                         33.047853,
                         34.700708
-                  ]
-            },
-            {
-                  "name": "NOA",
-                  "text": "An exclusive beach club on the coast of Cyprus overlooking the Mediterranean Sea.",
-                  "category": "recreational",
-                  "coords": [
-                        33.0748,
-                        34.689777
                   ]
             }
       ]
@@ -3882,7 +2640,88 @@ export const cyprusCitiesV2: POI[] = [
     image: "/poi-images/cyprus-mesa-geitonia-cities-v2.webp",
   },
   {
-    id: "cyprus-agi-trimithia-cities-v2", "sights": {"de": [{"name": "Melios", "text": "Ein Zoo in Agioi Trimithias, der verschiedene Tierarten in einer natürlichen Umgebung zeigt.", "category": "family", "coords": [33.242694, 35.124514]}, {"name": "Tunnels", "text": "Unterirdische Gänge in Agioi Trimithias, die als historische Sehenswürdigkeit dienen.", "category": "landmark", "coords": [33.227908, 35.165124]}, {"name": "Limni toy Magli", "text": "Ein ruhiger See in Agioi Trimithias, ideal für einen entspannten Spaziergang in der Natur.", "category": "natural", "coords": [33.308401, 35.127047]}], "hu": [{"name": "Melios", "text": "Állatkert Agioi Trimithiasban, amely különféle állatfajokat mutat be természetes környezetben.", "category": "family", "coords": [33.242694, 35.124514]}, {"name": "Tunnels", "text": "Földalatti járatok Agioi Trimithiasban, amelyek történelmi látványosságként szolgálnak.", "category": "landmark", "coords": [33.227908, 35.165124]}, {"name": "Limni toy Magli", "text": "Nyugodt tó Agioi Trimithias területén, amely kellemes környezetet kínál a kikapcsolódáshoz.", "category": "natural", "coords": [33.308401, 35.127047]}], "ro": [{"name": "Melios", "text": "O grădină zoologică în Agioi Trimithias care prezintă diverse specii de animale într-un mediu natural.", "category": "family", "coords": [33.242694, 35.124514]}, {"name": "Tunnels", "text": "Tuneluri subterane în Agioi Trimithias care servesc ca atracție istorică.", "category": "landmark", "coords": [33.227908, 35.165124]}, {"name": "Limni toy Magli", "text": "Un lac liniștit în Agioi Trimithias, ideal pentru o plimbare relaxantă în natură.", "category": "natural", "coords": [33.308401, 35.127047]}], "en": [{"name": "Melios Zoo", "text": "A zoo in Agioi Trimithias showing various animal species in a natural environment.", "category": "family", "coords": [33.242694, 35.124514]}, {"name": "Tunnels", "text": "Underground tunnels in Agioi Trimithias serving as a historical attraction.", "category": "landmark", "coords": [33.227908, 35.165124]}, {"name": "Maglee Lake", "text": "A peaceful lake in Agioi Trimithias, ideal for a relaxing walk in nature.", "category": "natural", "coords": [33.308401, 35.127047]}]},
+    id: "cyprus-agi-trimithia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Melios",
+                  "text": "Ein Zoo in Agioi Trimithias, der verschiedene Tierarten in einer natürlichen Umgebung zeigt.",
+                  "category": "family",
+                  "coords": [
+                        33.242694,
+                        35.124514
+                  ]
+            },
+            {
+                  "name": "Tunnels",
+                  "text": "Unterirdische Gänge in Agioi Trimithias, die als historische Sehenswürdigkeit dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        33.227908,
+                        35.165124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Melios",
+                  "text": "Állatkert Agioi Trimithiasban, amely különféle állatfajokat mutat be természetes környezetben.",
+                  "category": "family",
+                  "coords": [
+                        33.242694,
+                        35.124514
+                  ]
+            },
+            {
+                  "name": "Tunnels",
+                  "text": "Földalatti járatok Agioi Trimithiasban, amelyek történelmi látványosságként szolgálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        33.227908,
+                        35.165124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Melios",
+                  "text": "O grădină zoologică în Agioi Trimithias care prezintă diverse specii de animale într-un mediu natural.",
+                  "category": "family",
+                  "coords": [
+                        33.242694,
+                        35.124514
+                  ]
+            },
+            {
+                  "name": "Tunnels",
+                  "text": "Tuneluri subterane în Agioi Trimithias care servesc ca atracție istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        33.227908,
+                        35.165124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Melios Zoo",
+                  "text": "A zoo in Agioi Trimithias showing various animal species in a natural environment.",
+                  "category": "family",
+                  "coords": [
+                        33.242694,
+                        35.124514
+                  ]
+            },
+            {
+                  "name": "Tunnels",
+                  "text": "Underground tunnels in Agioi Trimithias serving as a historical attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        33.227908,
+                        35.165124
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CY",
     name: { de: "Agioi Trimithias", hu: "Áji Trimithiás", ro: "Agioi Trimithias", en: "Agioi Trimithias" },

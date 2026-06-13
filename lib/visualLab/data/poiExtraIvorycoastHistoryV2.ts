@@ -1209,15 +1209,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
                         -4.386437,
                         5.317572
                   ]
-            },
-            {
-                  "name": "Centre Culturel de Dabou",
-                  "text": "Ein kulturelles Zentrum, das lokale Künste, künstlerische Darbietungen und Gemeinschaftsveranstaltungen in Dabou fördert.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.376009,
-                        5.319449
-                  ]
             }
       ],
       "hu": [
@@ -1228,15 +1219,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
                   "coords": [
                         -4.386437,
                         5.317572
-                  ]
-            },
-            {
-                  "name": "Centre Culturel de Dabou",
-                  "text": "Kulturális központ, amely a helyi művészeteket, előadásokat és közösségi eseményeket támogatja Dabouban.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.376009,
-                        5.319449
                   ]
             }
       ],
@@ -1249,15 +1231,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
                         -4.386437,
                         5.317572
                   ]
-            },
-            {
-                  "name": "Centre Culturel de Dabou",
-                  "text": "Un hub cultural care facilitează artele locale, spectacolele artistice și evenimentele comunitare în Dabou.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.376009,
-                        5.319449
-                  ]
             }
       ],
       "en": [
@@ -1268,15 +1241,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
                   "coords": [
                         -4.386437,
                         5.317572
-                  ]
-            },
-            {
-                  "name": "Centre Culturel de Dabou",
-                  "text": "A cultural hub facilitating local arts, artistic performances, and community events in Dabou.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.376009,
-                        5.319449
                   ]
             }
       ]
@@ -1920,50 +1884,10 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
   },
   {
     id: "katiola-colonial-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Cathédrale Sainte-Jeanne-d'Arc de Katiola",
-                  "text": "Die katholische Kathedrale in Katiola zeichnet sich durch ihre bemerkenswerte Kolonialarchitektur aus und dient als Zentrum der örtlichen Diözese.",
-                  "category": "religious",
-                  "coords": [
-                        -5.092266,
-                        8.140761
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cathédrale Sainte-Jeanne-d'Arc de Katiola",
-                  "text": "A katiolai katolikus katedrálist figyelemre méltó gyarmati építészete jellemzi, és a helyi egyházmegye központjaként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        -5.092266,
-                        8.140761
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Cathédrale Sainte-Jeanne-d'Arc de Katiola",
-                  "text": "Catedrala catolică din Katiola se caracterizează prin arhitectura sa notabilă din perioada colonială și servește ca centru al episcopiei locale.",
-                  "category": "religious",
-                  "coords": [
-                        -5.092266,
-                        8.140761
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cathédrale Sainte-Jeanne-d'Arc de Katiola",
-                  "text": "The Catholic cathedral in Katiola is characterized by its notable colonial-era architecture and serves as the center of the local diocese.",
-                  "category": "religious",
-                  "coords": [
-                        -5.092266,
-                        8.140761
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "CI-04",
@@ -2021,15 +1945,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grande mosquée",
-                  "text": "Diese große Moschee dient als zentraler islamischer Kultort mit traditioneller Minarett-Architektur.",
-                  "category": "religious",
-                  "coords": [
-                        -6.44947,
-                        6.876552
-                  ]
-            },
-            {
                   "name": "Cathédrale du Christ-Roi",
                   "text": "Diese große katholische Kathedrale ist ein markantes religiöses Gebäude, das Christkönig gewidmet ist.",
                   "category": "religious",
@@ -2065,15 +1980,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
                   "coords": [
                         -6.449218,
                         6.879817
-                  ]
-            },
-            {
-                  "name": "Grande mosquée",
-                  "text": "Ez a nagy mecset központi iszlám istentiszteleti helyként szolgál hagyományos minaret-építészettel.",
-                  "category": "religious",
-                  "coords": [
-                        -6.44947,
-                        6.876552
                   ]
             },
             {
@@ -2115,15 +2021,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grande mosquée",
-                  "text": "Această mare moschee servește ca un lăcaș de cult islamic central cu arhitectură tradițională cu minaret.",
-                  "category": "religious",
-                  "coords": [
-                        -6.44947,
-                        6.876552
-                  ]
-            },
-            {
                   "name": "Cathédrale du Christ-Roi",
                   "text": "Această mare catedrală catolică este o clădire religioasă proeminentă dedicată lui Hristos Regele.",
                   "category": "religious",
@@ -2159,15 +2056,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
                   "coords": [
                         -6.449218,
                         6.879817
-                  ]
-            },
-            {
-                  "name": "Grande mosquée",
-                  "text": "This large mosque serves as a central Islamic place of worship with traditional minaret architecture.",
-                  "category": "religious",
-                  "coords": [
-                        -6.44947,
-                        6.876552
                   ]
             },
             {
@@ -2343,50 +2231,10 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
   },
   {
     id: "ferkessedougou-historic-town-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "BAR (le monde arabe)",
-                  "text": "In der historischen Stadt Ferkessédougou gelegen, hebt dieser kulturelle Ort arabische Einflüsse hervor.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.207471,
-                        9.591027
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "BAR (le monde arabe)",
-                  "text": "Ferkessédougou történelmi városában található ez a kulturális helyszín, amely az arab hatásokat emeli ki.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.207471,
-                        9.591027
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "BAR (le monde arabe)",
-                  "text": "Situat în orașul istoric Ferkessédougou, acest loc cultural evidențiază influențele arabe.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.207471,
-                        9.591027
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "BAR (arabe world)",
-                  "text": "Set within the historic town of Ferkessédougou, this cultural spot highlights Arabic influences.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.207471,
-                        9.591027
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "CI-14",
@@ -2579,15 +2427,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     id: "gagnoa-bete-center-history-v2", "sights": {
       "de": [
             {
-                  "name": "Cathédrale Sainte Anne",
-                  "text": "Diese als Kultort dienende Kathedrale ist offiziell der Heiligen Anna gewidmet.",
-                  "category": "religious",
-                  "coords": [
-                        -5.942972,
-                        6.124894
-                  ]
-            },
-            {
                   "name": "Les moulins blanc",
                   "text": "Diese markante Windmühlenstruktur zeichnet sich durch ihr weiß gestrichenes Äußeres aus.",
                   "category": "landmark",
@@ -2598,15 +2437,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Cathédrale Sainte Anne",
-                  "text": "Ezt a katedrális istentiszteleti helyet hivatalosan Szent Annának szentelték.",
-                  "category": "religious",
-                  "coords": [
-                        -5.942972,
-                        6.124894
-                  ]
-            },
             {
                   "name": "Les moulins blanc",
                   "text": "Ez a jellegzetes szélmalom szerkezet a fehérre festett külsejéről nevezetes.",
@@ -2619,15 +2449,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Cathédrale Sainte Anne",
-                  "text": "Această catedrală lăcaș de cult este dedicată în mod oficial Sfintei Ana.",
-                  "category": "religious",
-                  "coords": [
-                        -5.942972,
-                        6.124894
-                  ]
-            },
-            {
                   "name": "Les moulins blanc",
                   "text": "Această structură distinctivă de moară de vânt este notabilă pentru exteriorul său vopsit în alb.",
                   "category": "landmark",
@@ -2638,15 +2459,6 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Cathédrale Sainte Anne",
-                  "text": "This cathedral place of worship is formally dedicated to Saint Anne.",
-                  "category": "religious",
-                  "coords": [
-                        -5.942972,
-                        6.124894
-                  ]
-            },
             {
                   "name": "Les moulins blanc",
                   "text": "This distinctive windmill structure is notable for its white-painted exterior.",

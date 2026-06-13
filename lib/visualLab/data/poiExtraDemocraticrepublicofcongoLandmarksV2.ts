@@ -747,15 +747,6 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée Nationale de BUTEMBO",
-                  "text": "Das Nationalmuseum in Butembo bewahrt und präsentiert die regionalen historischen Artefakte der kongolesischen Kultur.",
-                  "category": "museum",
-                  "coords": [
-                        29.294283,
-                        0.110843
-                  ]
-            },
-            {
                   "name": "Ront point IBTP",
                   "text": "Dieses auffällige Kreisverkehr-Denkmal markiert einen wichtigen Verkehrsknotenpunkt in der Nähe des IBTP-Instituts in Butembo.",
                   "category": "historical",
@@ -836,15 +827,6 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
                   "coords": [
                         29.260871,
                         0.11672
-                  ]
-            },
-            {
-                  "name": "Musée Nationale de BUTEMBO",
-                  "text": "A Butembóban található Nemzeti Múzeum a kongói kultúra regionális történelmi leleteit őrzi és mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        29.294283,
-                        0.110843
                   ]
             },
             {
@@ -931,15 +913,6 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Musée Nationale de BUTEMBO",
-                  "text": "Muzeul Național din Butembo păstrează și prezintă artefactele istorice regionale ale culturii congoleze.",
-                  "category": "museum",
-                  "coords": [
-                        29.294283,
-                        0.110843
-                  ]
-            },
-            {
                   "name": "Ront point IBTP",
                   "text": "Acest monument dintr-un sens giratoriu marchează un nod de circulație important lângă institutul IBTP din Butembo.",
                   "category": "historical",
@@ -1020,15 +993,6 @@ export const poiExtraDemocraticrepublicofcongoLandmarksV2: POI[] = [
                   "coords": [
                         29.260871,
                         0.11672
-                  ]
-            },
-            {
-                  "name": "Musée Nationale de BUTEMBO",
-                  "text": "The National Museum in Butembo preserves and displays regional historical artifacts of Congolese culture.",
-                  "category": "museum",
-                  "coords": [
-                        29.294283,
-                        0.110843
                   ]
             },
             {

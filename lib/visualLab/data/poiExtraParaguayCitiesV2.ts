@@ -11881,122 +11881,10 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     }, image: "/poi-images/capiata-cities-v2.webp"},
   {
     id: "lambare-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Paseo del Barro",
-                  "text": "Paseo del Barro, ein Museum für Ton- und Keramikkunst in Lambaré.",
-                  "category": "museum",
-                  "coords": [
-                        -57.612818,
-                        -25.331014
-                  ]
-            },
-            {
-                  "name": "cacique Lambare",
-                  "text": "Cacique Lambaré, ein historisches Denkmal für den indigenen Häuptling in Lambaré.",
-                  "category": "historical",
-                  "coords": [
-                        -57.625348,
-                        -25.342197
-                  ]
-            },
-            {
-                  "name": "Iglesia San Nicolás y Santa Maria",
-                  "text": "Die Iglesia San Nicolás y Santa Maria in Lambaré ist eine katholische Kirche im Zentrum der Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        -57.628463,
-                        -25.324127
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Paseo del Barro",
-                  "text": "Paseo del Barro, egy agyag- és kerámiaművészeti múzeum Lambaréban.",
-                  "category": "museum",
-                  "coords": [
-                        -57.612818,
-                        -25.331014
-                  ]
-            },
-            {
-                  "name": "cacique Lambare",
-                  "text": "Cacique Lambaré, egy történelmi emlékmű az őslakos törzsfőnök tiszteletére Lambaréban.",
-                  "category": "historical",
-                  "coords": [
-                        -57.625348,
-                        -25.342197
-                  ]
-            },
-            {
-                  "name": "Iglesia San Nicolás y Santa Maria",
-                  "text": "Az Iglesia San Nicolás y Santa Maria Lambaréban egy katolikus templom a város központjában.",
-                  "category": "religious",
-                  "coords": [
-                        -57.628463,
-                        -25.324127
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Paseo del Barro",
-                  "text": "Paseo del Barro, un muzeu de artă din lut și ceramică în Lambaré.",
-                  "category": "museum",
-                  "coords": [
-                        -57.612818,
-                        -25.331014
-                  ]
-            },
-            {
-                  "name": "cacique Lambare",
-                  "text": "Cacique Lambaré, un monument istoric dedicat șefului indigen din Lambaré.",
-                  "category": "historical",
-                  "coords": [
-                        -57.625348,
-                        -25.342197
-                  ]
-            },
-            {
-                  "name": "Iglesia San Nicolás y Santa Maria",
-                  "text": "Iglesia San Nicolás y Santa Maria din Lambare este o biserică catolică în centrul orașului.",
-                  "category": "religious",
-                  "coords": [
-                        -57.628463,
-                        -25.324127
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Paseo del Barro",
-                  "text": "Paseo del Barro, a museum of clay and ceramic art in Lambaré.",
-                  "category": "museum",
-                  "coords": [
-                        -57.612818,
-                        -25.331014
-                  ]
-            },
-            {
-                  "name": "cacique Lambare",
-                  "text": "Cacique Lambaré, a historical monument to the indigenous chief in Lambaré.",
-                  "category": "historical",
-                  "coords": [
-                        -57.625348,
-                        -25.342197
-                  ]
-            },
-            {
-                  "name": "Iglesia San Nicolás y Santa Maria",
-                  "text": "Iglesia San Nicolás y Santa Maria in Lambare, a Catholic church in the town center.",
-                  "category": "religious",
-                  "coords": [
-                        -57.628463,
-                        -25.324127
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "PY-11",
@@ -15138,51 +15026,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     id: "presidente-franco-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Auditorio Municipal Mauro Cespedes",
-                  "text": "Auditorio Municipal Mauro Céspedes, ein städtisches Kultur-Auditorium in Presidente Franco.",
-                  "category": "cultural",
-                  "coords": [
-                        -54.614264,
-                        -25.525696
-                  ]
-            },
-            {
-                  "name": "Centro Cultural Mangoré",
-                  "text": "Centro Cultural Mangoré, ein Kulturzentrum in Presidente Franco.",
-                  "category": "cultural",
-                  "coords": [
-                        -54.61647,
-                        -25.524303
-                  ]
-            },
-            {
-                  "name": "Parque Municipal Monday",
-                  "text": "Parque Municipal Monday, ein Stadtpark entlang des Monday-Flusses in Presidente Franco.",
-                  "category": "natural",
-                  "coords": [
-                        -54.632764,
-                        -25.56172
-                  ]
-            },
-            {
-                  "name": "Saltos del Monday",
-                  "text": "Saltos del Monday sind Wasserfälle am Río Monday nahe Franco.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.63237,
-                        -25.562752
-                  ]
-            },
-            {
-                  "name": "Las Maravillas",
-                  "text": "Las Maravillas, ein Erholungspark in Presidente Franco.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.617497,
-                        -25.571
-                  ]
-            },
-            {
                   "name": "Arts",
                   "text": "Arts, ein Museum der bildenden Künste in Presidente Franco.",
                   "category": "museum",
@@ -15193,51 +15036,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Auditorio Municipal Mauro Cespedes",
-                  "text": "Auditorio Municipal Mauro Céspedes, egy önkormányzati kulturális színházterem Presidente Francóban.",
-                  "category": "cultural",
-                  "coords": [
-                        -54.614264,
-                        -25.525696
-                  ]
-            },
-            {
-                  "name": "Centro Cultural Mangoré",
-                  "text": "Centro Cultural Mangoré, egy kulturális központ Presidente Francóban.",
-                  "category": "cultural",
-                  "coords": [
-                        -54.61647,
-                        -25.524303
-                  ]
-            },
-            {
-                  "name": "Parque Municipal Monday",
-                  "text": "Parque Municipal Monday, egy városi park a Monday folyó mentén Presidente Francóban.",
-                  "category": "natural",
-                  "coords": [
-                        -54.632764,
-                        -25.56172
-                  ]
-            },
-            {
-                  "name": "Saltos del Monday",
-                  "text": "Saltos del Monday vízesések a Monday folyón Franco közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.63237,
-                        -25.562752
-                  ]
-            },
-            {
-                  "name": "Las Maravillas",
-                  "text": "Las Maravillas, egy szabadidőpark Presidente Francóban.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.617497,
-                        -25.571
-                  ]
-            },
             {
                   "name": "Arts",
                   "text": "Arts, egy képzőművészeti múzeum Presidente Francóban.",
@@ -15250,51 +15048,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Auditorio Municipal Mauro Cespedes",
-                  "text": "Auditorio Municipal Mauro Céspedes, un auditoriu cultural municipal în Presidente Franco.",
-                  "category": "cultural",
-                  "coords": [
-                        -54.614264,
-                        -25.525696
-                  ]
-            },
-            {
-                  "name": "Centro Cultural Mangoré",
-                  "text": "Centro Cultural Mangoré, un centru cultural în Presidente Franco.",
-                  "category": "cultural",
-                  "coords": [
-                        -54.61647,
-                        -25.524303
-                  ]
-            },
-            {
-                  "name": "Parque Municipal Monday",
-                  "text": "Parque Municipal Monday, un parc municipal de-a lungul râului Monday în Presidente Franco.",
-                  "category": "natural",
-                  "coords": [
-                        -54.632764,
-                        -25.56172
-                  ]
-            },
-            {
-                  "name": "Saltos del Monday",
-                  "text": "Saltos del Monday sunt cascade pe râul Monday lângă Franco.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.63237,
-                        -25.562752
-                  ]
-            },
-            {
-                  "name": "Las Maravillas",
-                  "text": "Las Maravillas, un parc de agrement în Presidente Franco.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.617497,
-                        -25.571
-                  ]
-            },
-            {
                   "name": "Arts",
                   "text": "Arts, un muzeu de arte plastice în Presidente Franco.",
                   "category": "museum",
@@ -15305,51 +15058,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Auditorio Municipal Mauro Cespedes",
-                  "text": "Auditorio Municipal Mauro Céspedes, a municipal cultural auditorium in Presidente Franco.",
-                  "category": "cultural",
-                  "coords": [
-                        -54.614264,
-                        -25.525696
-                  ]
-            },
-            {
-                  "name": "Centro Cultural Mangoré",
-                  "text": "Centro Cultural Mangoré, a cultural center in Presidente Franco.",
-                  "category": "cultural",
-                  "coords": [
-                        -54.61647,
-                        -25.524303
-                  ]
-            },
-            {
-                  "name": "Parque Municipal Monday",
-                  "text": "Parque Municipal Monday, a municipal park along the Monday River in Presidente Franco.",
-                  "category": "natural",
-                  "coords": [
-                        -54.632764,
-                        -25.56172
-                  ]
-            },
-            {
-                  "name": "Saltos del Monday",
-                  "text": "Saltos del Monday are waterfalls on the Monday River near Franco.",
-                  "category": "landmark",
-                  "coords": [
-                        -54.63237,
-                        -25.562752
-                  ]
-            },
-            {
-                  "name": "Las Maravillas",
-                  "text": "Las Maravillas, a recreational park in Presidente Franco.",
-                  "category": "recreational",
-                  "coords": [
-                        -54.617497,
-                        -25.571
-                  ]
-            },
             {
                   "name": "Arts",
                   "text": "Arts, a museum of fine arts in Presidente Franco.",
@@ -18531,15 +18239,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
                         -55.652344,
                         -27.08364
                   ]
-            },
-            {
-                  "name": "Salón Padre Guillermo Hütte",
-                  "text": "Der Salón Padre Guillermo Hütte in Hohenau ist ein Gemeindesaal und Veranstaltungsort für kulturelle Anlässe.",
-                  "category": "cultural",
-                  "coords": [
-                        -55.637723,
-                        -27.061932
-                  ]
             }
       ],
       "hu": [
@@ -18559,15 +18258,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
                   "coords": [
                         -55.652344,
                         -27.08364
-                  ]
-            },
-            {
-                  "name": "Salón Padre Guillermo Hütte",
-                  "text": "A hohenau-i Salón Padre Guillermo Hütte egy közösségi terem és kulturális rendezvényhelyszín.",
-                  "category": "cultural",
-                  "coords": [
-                        -55.637723,
-                        -27.061932
                   ]
             }
       ],
@@ -18589,15 +18279,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
                         -55.652344,
                         -27.08364
                   ]
-            },
-            {
-                  "name": "Salón Padre Guillermo Hütte",
-                  "text": "Salonul Padre Guillermo Hütte din Hohenau este o sală comunitară și loc de evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        -55.637723,
-                        -27.061932
-                  ]
             }
       ],
       "en": [
@@ -18617,15 +18298,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
                   "coords": [
                         -55.652344,
                         -27.08364
-                  ]
-            },
-            {
-                  "name": "Salón Padre Guillermo Hütte",
-                  "text": "The Salón Padre Guillermo Hütte in Hohenau is a community hall and cultural venue.",
-                  "category": "cultural",
-                  "coords": [
-                        -55.637723,
-                        -27.061932
                   ]
             }
       ]
@@ -18720,15 +18392,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
     id: "obligado-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Parque Ecológico Ingeniero Alfredo Sitzmann",
-                  "text": "Ein ökologisches Museum, das die lokale Flora und Fauna sowie die Geschichte der deutschen Einwanderung zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -55.65143,
-                        -27.068088
-                  ]
-            },
-            {
                   "name": "Salón Padre Guillermo Hütte",
                   "text": "Ein multifunktionales Kulturzentrum, das für Theateraufführungen und Gemeinschaftsveranstaltungen genutzt wird.",
                   "category": "cultural",
@@ -18784,15 +18447,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Parque Ecológico Ingeniero Alfredo Sitzmann",
-                  "text": "Ökológiai múzeum, amely bemutatja a helyi növény- és állatvilágot, valamint a német bevándorlás történetét.",
-                  "category": "museum",
-                  "coords": [
-                        -55.65143,
-                        -27.068088
-                  ]
-            },
             {
                   "name": "Salón Padre Guillermo Hütte",
                   "text": "Többfunkciós kulturális központ, amelyet színházi előadásokhoz és közösségi eseményekhez használnak.",
@@ -18850,15 +18504,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Parque Ecológico Ingeniero Alfredo Sitzmann",
-                  "text": "Un muzeu ecologic care prezintă flora și fauna locală, precum și istoria imigrației germane.",
-                  "category": "museum",
-                  "coords": [
-                        -55.65143,
-                        -27.068088
-                  ]
-            },
-            {
                   "name": "Salón Padre Guillermo Hütte",
                   "text": "Un centru cultural multifuncțional, utilizat pentru spectacole de teatru și evenimente comunitare.",
                   "category": "cultural",
@@ -18914,15 +18559,6 @@ export const poiExtraParaguayCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Parque Ecológico Ingeniero Alfredo Sitzmann",
-                  "text": "An ecological museum showcasing local flora and fauna alongside the history of German immigration.",
-                  "category": "museum",
-                  "coords": [
-                        -55.65143,
-                        -27.068088
-                  ]
-            },
             {
                   "name": "Salón Padre Guillermo Hütte",
                   "text": "A multifunctional cultural center used for theater performances and community events.",

@@ -42,26 +42,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Piazza Maggiore",
-                  "text": "Das Herz von Bologna, umgeben von mittelalterlichen Palästen und der unvollendeten Fassade der Basilika San Petronio.",
-                  "category": "squares",
-                  "confidence": "high",
-                  "coords": [
-                        11.343064,
-                        44.49373
-                  ]
-            },
-            {
-                  "name": "Le Due Torri",
-                  "text": "Die Türme Asinelli und Garisenda sind die Wahrzeichen der Stadt; der Asinelli-Turm bietet einen weiten Blick über die roten Dächer.",
-                  "category": "monuments",
-                  "confidence": "high",
-                  "coords": [
-                        11.346794,
-                        44.494254
-                  ]
-            },
-            {
                   "name": "Basilika San Petronio",
                   "text": "Eine der größten Kirchen der Welt am Hauptplatz, bekannt für ihre gotische Architektur und die riesige Mittagslinie im Inneren.",
                   "category": "churches",
@@ -102,36 +82,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   ]
             },
             {
-                  "name": "Fontana del Nettuno",
-                  "text": "Prächtiger Renaissance-Brunnen von Giambologna, der Neptun darstellt und ein zentraler Treffpunkt neben der Piazza Maggiore ist.",
-                  "category": "monuments",
-                  "confidence": "high",
-                  "coords": [
-                        11.342651,
-                        44.494223
-                  ]
-            },
-            {
-                  "name": "Pinacoteca Nazionale",
-                  "text": "Bedeutende Kunstgalerie mit Werken von Raffael, Giotto und den Carracci, die die Kunstgeschichte Bolognas dokumentiert.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        11.353547,
-                        44.497772
-                  ]
-            },
-            {
-                  "name": "MAMbo",
-                  "text": "Das Museum für moderne Kunst in Bologna zeigt zeitgenössische Werke und eine permanente Sammlung von Giorgio Morandi.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        11.3369,
-                        44.5025
-                  ]
-            },
-            {
                   "name": "Canale di Reno (Finestrella)",
                   "text": "Ein kleines Fenster in der Via Piella gibt den Blick auf einen der versteckten Kanäle frei, was an Venedig erinnert.",
                   "category": "viewpoints",
@@ -143,16 +93,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Piazza Maggiore",
-                  "text": "Bologna főtere, amelyet középkori paloták és a San Petronio bazilika monumentális homlokzata vesz körül.",
-                  "category": "squares",
-                  "confidence": "high",
-                  "coords": [
-                        11.343064,
-                        44.49373
-                  ]
-            },
             {
                   "name": "A Két Torony (Asinelli és Garisenda)",
                   "text": "Bologna ikonikus jelképei; a magasabbik, Asinelli-torony megmászható, ahonnan vörös tetős panoráma tárul elénk.",
@@ -214,26 +154,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   ]
             },
             {
-                  "name": "Pinacoteca Nazionale",
-                  "text": "A város nemzeti képtára, ahol Raffaello, Giotto és a Carracci fivérek legfontosabb alkotásait őrzik.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        11.353547,
-                        44.497772
-                  ]
-            },
-            {
-                  "name": "MAMbo",
-                  "text": "Bologna modern művészeti múzeuma, amely kortárs kiállításoknak és Giorgio Morandi állandó gyűjteményének ad otthont.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        11.3369,
-                        44.5025
-                  ]
-            },
-            {
                   "name": "Reno-csatorna (Finestrella)",
                   "text": "A Via Piella kis ablaka, amely a város egyik rejtett csatornájára nyílik, megidézve a 'kis Velence' hangulatát.",
                   "category": "viewpoints",
@@ -246,36 +166,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Piazza Maggiore",
-                  "text": "Piața centrală a Bolognei, înconjurată de palate medievale și de fațada impunătoare a Basilicii San Petronio.",
-                  "category": "squares",
-                  "confidence": "high",
-                  "coords": [
-                        11.343064,
-                        44.49373
-                  ]
-            },
-            {
-                  "name": "Le Due Torri",
-                  "text": "Turnurile Asinelli și Garisenda sunt simbolurile orașului; turnul Asinelli oferă o vedere panoramică asupra acoperișurilor roșii.",
-                  "category": "monuments",
-                  "confidence": "high",
-                  "coords": [
-                        11.346794,
-                        44.494254
-                  ]
-            },
-            {
-                  "name": "Basilica di San Petronio",
-                  "text": "Una dintre cele mai mari biserici din lume, situată în piața principală, renumită pentru meridianul solar interior.",
-                  "category": "churches",
-                  "confidence": "high",
-                  "coords": [
-                        11.343285,
-                        44.493382
-                  ]
-            },
-            {
                   "name": "Archiginnasio din Bologna",
                   "text": "Fostul sediu al universității, ce găzduiește Teatrul Anatomic sculptat în lemn și o bibliotecă istorică valoroasă.",
                   "category": "famous buildings",
@@ -286,16 +176,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   ]
             },
             {
-                  "name": "Basilica di Santo Stefano",
-                  "text": "Un complex fascinant de clădiri religioase cunoscut sub numele de 'Sette Chiese', construit de-a lungul secolelor.",
-                  "category": "churches",
-                  "confidence": "high",
-                  "coords": [
-                        11.348648,
-                        44.492204
-                  ]
-            },
-            {
                   "name": "Portico di San Luca",
                   "text": "Cel mai lung portic din lume, măsurând aproape 4 kilometri, care leagă centrul orașului de sanctuarul de pe deal.",
                   "category": "monuments",
@@ -303,36 +183,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   "coords": [
                         11.3019,
                         44.4854
-                  ]
-            },
-            {
-                  "name": "Fontana del Nettuno",
-                  "text": "Fântână renascentistă monumentală realizată de Giambologna, dominată de statuia de bronz a zeului Neptun.",
-                  "category": "monuments",
-                  "confidence": "high",
-                  "coords": [
-                        11.342651,
-                        44.494223
-                  ]
-            },
-            {
-                  "name": "Pinacoteca Nazionale",
-                  "text": "Galeria de artă principală a orașului, cu o colecție vastă ce include opere de Rafael, Giotto și Guido Reni.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        11.353547,
-                        44.497772
-                  ]
-            },
-            {
-                  "name": "MAMbo",
-                  "text": "Muzeul de Artă Modernă din Bologna, spațiu dedicat artei contemporane și colecției permanente Giorgio Morandi.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        11.3369,
-                        44.5025
                   ]
             },
             {
@@ -348,16 +198,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
       ],
       "en": [
             {
-                  "name": "Piazza Maggiore",
-                  "text": "The main square of Bologna, surrounded by medieval palaces and the unfinished facade of San Petronio Basilica.",
-                  "category": "squares",
-                  "confidence": "high",
-                  "coords": [
-                        11.343064,
-                        44.49373
-                  ]
-            },
-            {
                   "name": "The Two Towers (Asinelli & Garisenda)",
                   "text": "Bologna’s iconic landmark; the taller Asinelli tower can be climbed for a bird's-eye view of the city's red roofs.",
                   "category": "monuments",
@@ -365,16 +205,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   "coords": [
                         11.346794,
                         44.494254
-                  ]
-            },
-            {
-                  "name": "Basilica di San Petronio",
-                  "text": "One of the world's largest cathedrals, dominant on the main square, famous for its Cassini meridian line.",
-                  "category": "churches",
-                  "confidence": "high",
-                  "coords": [
-                        11.343285,
-                        44.493382
                   ]
             },
             {
@@ -388,16 +218,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   ]
             },
             {
-                  "name": "Basilica di Santo Stefano",
-                  "text": "A complex of interconnected religious buildings known as 'Sette Chiese' (Seven Churches) of varying styles.",
-                  "category": "churches",
-                  "confidence": "high",
-                  "coords": [
-                        11.348648,
-                        44.492204
-                  ]
-            },
-            {
                   "name": "Portico di San Luca",
                   "text": "The world’s longest covered walkway (3.8 km), connecting the city centre to the Sanctuary of San Luca on the hill.",
                   "category": "monuments",
@@ -405,36 +225,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   "coords": [
                         11.3019,
                         44.4854
-                  ]
-            },
-            {
-                  "name": "Fontana del Nettuno",
-                  "text": "A monumental Renaissance fountain by Giambologna featuring a bronze statue of Neptune, a symbol of papal power.",
-                  "category": "monuments",
-                  "confidence": "high",
-                  "coords": [
-                        11.342651,
-                        44.494223
-                  ]
-            },
-            {
-                  "name": "Pinacoteca Nazionale",
-                  "text": "The city's main gallery, home to masterpieces by Raphael, Perugino, and the Bolognese Carracci family.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        11.353547,
-                        44.497772
-                  ]
-            },
-            {
-                  "name": "MAMbo",
-                  "text": "The Museum of Modern Art of Bologna, featuring contemporary exhibitions and the permanent Giorgio Morandi collection.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        11.3369,
-                        44.5025
                   ]
             },
             {
@@ -501,140 +291,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Acquario di Genova",
-                  "text": "Das Aquarium von Genua ist das größte in Italien und zeigt eine beeindruckende Vielfalt an Meerestieren in modernen Becken am alten Hafen.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        8.926508,
-                        44.41019
-                  ]
-            },
-            {
-                  "name": "Cattedrale di San Lorenzo",
-                  "text": "Die schwarz-weiß gestreifte Kathedrale aus dem 12. Jahrhundert ist das wichtigste religiöse Bauwerk der Stadt mit einer prachtvollen Fassade.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        8.93135,
-                        44.40766
-                  ]
-            },
-            {
-                  "name": "Piazza de Ferrari",
-                  "text": "Der zentrale Hauptplatz der Stadt wird durch einen monumentalen Bronzebrunnen und die umliegenden prachtvollen Paläste und das Opernhaus geprägt.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        8.934028,
-                        44.407156
-                  ]
-            },
-            {
-                  "name": "Via Garibaldi",
-                  "text": "Diese prächtige Straße beherbergt die Palazzi dei Rolli, ein UNESCO-Welterbe mit beeindruckenden Renaissance- und Barockfassaden vornehmer Familien.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high",
-                  "coords": [
-                        8.932778,
-                        44.411111
-                  ]
-            },
-            {
-                  "name": "Lanterna di Genova",
-                  "text": "Der historische Leuchtturm aus dem Jahr 1543 ist das Wahrzeichen der Stadt und einer der ältesten noch in Betrieb befindlichen Türme der Welt.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "coords": [
-                        8.904636,
-                        44.40454
-                  ]
-            },
-            {
-                  "name": "Palazzo Ducale",
-                  "text": "Einst der Sitz der Dogen von Genua, dient dieser weitläufige Palast heute als bedeutendes Kulturzentrum für Kunstausstellungen und Veranstaltungen.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high",
-                  "coords": [
-                        8.933284,
-                        44.407501
-                  ]
-            },
-            {
-                  "name": "Boccadasse",
-                  "text": "Ein malerisches altes Fischerdorf am Ende der Uferpromenade mit bunten Häusern und einem kleinen Kiesstrand in einer romantischen Bucht.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high",
-                  "coords": [
-                        8.974673,
-                        44.390126
-                  ]
-            },
-            {
-                  "name": "Spianata Castelletto",
-                  "text": "Ein herrlicher Aussichtspunkt, der bequem per Jugendstil-Aufzug erreichbar ist und einen fantastischen Blick über die Dächer und den Hafen bietet.",
-                  "category": "viewpoints",
-                  "confidence": "high",
-                  "coords": [
-                        8.933039,
-                        44.413347
-                  ]
-            },
-            {
-                  "name": "Bagni Nuovo Lido",
-                  "text": "Bagni Nuovo Lido ist ein Strandbad in Genua, das Erholungsmöglichkeiten an der Küste bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        8.968042,
-                        44.390847
-                  ]
-            },
-            {
-                  "name": "Bagni Roma",
-                  "text": "Bagni Roma ist ein Strandbad in Genua, das Erholungsmöglichkeiten an der Küste bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        8.96117,
-                        44.392387
-                  ]
-            },
-            {
-                  "name": "Bagni Sporting",
-                  "text": "Bagni Sporting ist ein Strandbad in Genua, das Erholungsmöglichkeiten an der Küste bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        8.96521,
-                        44.391282
-                  ]
-            },
-            {
-                  "name": "Squash",
-                  "text": "Squash ist ein Strandbad in Genua, das Erholungsmöglichkeiten an der Küste bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        8.959969,
-                        44.391946
-                  ]
-            },
-            {
-                  "name": "Bagni Paolo e Lelle",
-                  "text": "Bagni Paolo e Lelle ist ein Strandbad in Genua, das Erholungsmöglichkeiten an der Küste bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        8.990707,
-                        44.390024
-                  ]
-            },
-            {
-                  "name": "Bagni Liggia",
-                  "text": "Bagni Liggia ist ein Strandbad in Genua, das Erholungsmöglichkeiten an der Küste bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        8.988625,
-                        44.39107
-                  ]
-            },
-            {
                   "name": "San Nazaro",
                   "text": "Erholungsgebiet mit Sportplätzen, Grillplätzen und einem kleinen See in Genua.",
                   "category": "recreational",
@@ -642,152 +298,9 @@ export const poiExtraItalyCitiesC1: POI[] = [
                         8.954204,
                         44.391609
                   ]
-            },
-            {
-                  "name": "Bagni Santa Chiara",
-                  "text": "Bagni Santa Chiara ist ein Strandbad in Genua, das Erholungsmöglichkeiten an der Küste bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        8.977638,
-                        44.38985
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Acquario di Genova",
-                  "text": "A genovai akvárium Olaszország legnagyobbja, a régi kikötőben található modern épületben lenyűgöző tengeri élővilágot mutat be látogatóinak.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        8.926508,
-                        44.41019
-                  ]
-            },
-            {
-                  "name": "Cattedrale di San Lorenzo",
-                  "text": "A 12. századi, fekete-fehér csíkos márványhomlokzatú katedrális a város legfontosabb vallási emléke, belseje értékes műkincseket őriz.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        8.93135,
-                        44.40766
-                  ]
-            },
-            {
-                  "name": "Piazza de Ferrari",
-                  "text": "Genova lüktető központja, melynek fő dísze a hatalmas bronz szökőkút, körbevéve elegáns neoklasszicista palotákkal és az operaházzal.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        8.934028,
-                        44.407156
-                  ]
-            },
-            {
-                  "name": "Via Garibaldi",
-                  "text": "A Rolli-paloták utcája, amely az UNESCO világörökség része, a város aranykorának legpompásabb reneszánsz és barokk épületeit vonultatja fel.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high",
-                  "coords": [
-                        8.932778,
-                        44.411111
-                  ]
-            },
-            {
-                  "name": "Lanterna di Genova",
-                  "text": "Az 1543-ban épült történelmi világítótorony Genova szimbóluma, a világ egyik legrégebbi, ma is működő tengeri jelzőfénye a kikötőben.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "coords": [
-                        8.904636,
-                        44.40454
-                  ]
-            },
-            {
-                  "name": "Palazzo Ducale",
-                  "text": "A genovai dózsék egykori székhelye ma nagyszabású kulturális központ, ahol rangos művészeti kiállításokat és koncerteket rendeznek.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high",
-                  "coords": [
-                        8.933284,
-                        44.407501
-                  ]
-            },
-            {
-                  "name": "Boccadasse",
-                  "text": "Festői halászfalu a város szélén, pasztellszínű házaival és hangulatos öblével a tengerparti sétány egyik legvonzóbb állomása.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high",
-                  "coords": [
-                        8.974673,
-                        44.390126
-                  ]
-            },
-            {
-                  "name": "Spianata Castelletto",
-                  "text": "Kiváló kilátópont, ahová egy gyönyörű szecessziós lifttel juthatunk fel, páratlan panorámát nyújtva az óvárosra és a hatalmas kikötőre.",
-                  "category": "viewpoints",
-                  "confidence": "high",
-                  "coords": [
-                        8.933039,
-                        44.413347
-                  ]
-            },
-            {
-                  "name": "Bagni Nuovo Lido",
-                  "text": "A(z) Bagni Nuovo Lido egy strandfürdő Genovában, amely tengerparti kikapcsolódást kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        8.968042,
-                        44.390847
-                  ]
-            },
-            {
-                  "name": "Bagni Roma",
-                  "text": "A(z) Bagni Roma egy strandfürdő Genovában, amely tengerparti kikapcsolódást kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        8.96117,
-                        44.392387
-                  ]
-            },
-            {
-                  "name": "Bagni Sporting",
-                  "text": "A(z) Bagni Sporting egy strandfürdő Genovában, amely tengerparti kikapcsolódást kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        8.96521,
-                        44.391282
-                  ]
-            },
-            {
-                  "name": "Squash",
-                  "text": "A(z) Squash egy strandfürdő Genovában, amely tengerparti kikapcsolódást kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        8.959969,
-                        44.391946
-                  ]
-            },
-            {
-                  "name": "Bagni Paolo e Lelle",
-                  "text": "A(z) Bagni Paolo e Lelle egy strandfürdő Genovában, amely tengerparti kikapcsolódást kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        8.990707,
-                        44.390024
-                  ]
-            },
-            {
-                  "name": "Bagni Liggia",
-                  "text": "A(z) Bagni Liggia egy strandfürdő Genovában, amely tengerparti kikapcsolódást kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        8.988625,
-                        44.39107
-                  ]
-            },
             {
                   "name": "San Nazaro",
                   "text": "Szabadidős terület sportpályákkal, grillezőhelyekkel és egy kis tóval Genovában.",
@@ -796,152 +309,9 @@ export const poiExtraItalyCitiesC1: POI[] = [
                         8.954204,
                         44.391609
                   ]
-            },
-            {
-                  "name": "Bagni Santa Chiara",
-                  "text": "A(z) Bagni Santa Chiara egy strandfürdő Genovában, amely tengerparti kikapcsolódást kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        8.977638,
-                        44.38985
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Acquario di Genova",
-                  "text": "Cel mai mare acvariu din Italia, situat în Portul Vechi, oferă o călătorie fascinantă printre rechini, delfini și mii de specii marine.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        8.926508,
-                        44.41019
-                  ]
-            },
-            {
-                  "name": "Cattedrale di San Lorenzo",
-                  "text": "Catedrala orașului, ridicată în secolul al XII-lea, impresionează prin fațada sa în dungi albe și negre și prin arhitectura gotică superbă.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        8.93135,
-                        44.40766
-                  ]
-            },
-            {
-                  "name": "Piazza de Ferrari",
-                  "text": "Principala piață din Genova, renumită pentru fântâna sa arteziană monumentală și clădirile istorice impunătoare care o înconjoară.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        8.934028,
-                        44.407156
-                  ]
-            },
-            {
-                  "name": "Via Garibaldi",
-                  "text": "O stradă spectaculoasă inclusă în patrimoniul UNESCO, celebră pentru Palazzi dei Rolli, reședințe nobiliare de o rară frumusețe barocă.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high",
-                  "coords": [
-                        8.932778,
-                        44.411111
-                  ]
-            },
-            {
-                  "name": "Lanterna di Genova",
-                  "text": "Farul istoric al orașului, construit în 1543, este cel mai înalt din Mediterană și rămâne un simbol etern al puterii maritime genoveze.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "coords": [
-                        8.904636,
-                        44.40454
-                  ]
-            },
-            {
-                  "name": "Palazzo Ducale",
-                  "text": "Fosta reședință a dogilor din Genova este astăzi un centru cultural vibrant, găzduind expoziții de artă de clasă mondială și evenimente.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high",
-                  "coords": [
-                        8.933284,
-                        44.407501
-                  ]
-            },
-            {
-                  "name": "Boccadasse",
-                  "text": "Un cartier de pescari pitoresc, cu case colorate înghesuite în jurul unei mici plaje, oferind o atmosferă relaxantă și boemă la mare.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high",
-                  "coords": [
-                        8.974673,
-                        44.390126
-                  ]
-            },
-            {
-                  "name": "Spianata Castelletto",
-                  "text": "O terasă panoramică superbă accesibilă cu un lift istoric, oferind cea mai frumoasă vedere asupra acoperișurilor orașului și a portului.",
-                  "category": "viewpoints",
-                  "confidence": "high",
-                  "coords": [
-                        8.933039,
-                        44.413347
-                  ]
-            },
-            {
-                  "name": "Bagni Nuovo Lido",
-                  "text": "Bagni Nuovo Lido este o stațiune balneară în Genova, oferind facilități de agrement pe coastă.",
-                  "category": "recreational",
-                  "coords": [
-                        8.968042,
-                        44.390847
-                  ]
-            },
-            {
-                  "name": "Bagni Roma",
-                  "text": "Bagni Roma este o stațiune balneară în Genova, oferind facilități de agrement pe coastă.",
-                  "category": "recreational",
-                  "coords": [
-                        8.96117,
-                        44.392387
-                  ]
-            },
-            {
-                  "name": "Bagni Sporting",
-                  "text": "Bagni Sporting este o stațiune balneară în Genova, oferind facilități de agrement pe coastă.",
-                  "category": "recreational",
-                  "coords": [
-                        8.96521,
-                        44.391282
-                  ]
-            },
-            {
-                  "name": "Squash",
-                  "text": "Squash este o stațiune balneară în Genova, oferind facilități de agrement pe coastă.",
-                  "category": "recreational",
-                  "coords": [
-                        8.959969,
-                        44.391946
-                  ]
-            },
-            {
-                  "name": "Bagni Paolo e Lelle",
-                  "text": "Bagni Paolo e Lelle este o stațiune balneară în Genova, oferind facilități de agrement pe coastă.",
-                  "category": "recreational",
-                  "coords": [
-                        8.990707,
-                        44.390024
-                  ]
-            },
-            {
-                  "name": "Bagni Liggia",
-                  "text": "Bagni Liggia este o stațiune balneară în Genova, oferind facilități de agrement pe coastă.",
-                  "category": "recreational",
-                  "coords": [
-                        8.988625,
-                        44.39107
-                  ]
-            },
             {
                   "name": "San Nazaro",
                   "text": "Zonă de agrement cu terenuri de sport, locuri de grătar și un mic lac în Genova.",
@@ -950,152 +320,9 @@ export const poiExtraItalyCitiesC1: POI[] = [
                         8.954204,
                         44.391609
                   ]
-            },
-            {
-                  "name": "Bagni Santa Chiara",
-                  "text": "Bagni Santa Chiara este o stațiune balneară în Genova, oferind facilități de agrement pe coastă.",
-                  "category": "recreational",
-                  "coords": [
-                        8.977638,
-                        44.38985
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Acquario di Genova",
-                  "text": "The Aquarium of Genoa is Italy's largest marine park, located in the Old Port, featuring diverse ecosystems and thousands of sea creatures.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        8.926508,
-                        44.41019
-                  ]
-            },
-            {
-                  "name": "Cattedrale di San Lorenzo",
-                  "text": "This 12th-century cathedral is famous for its distinctive black and white striped facade and holds the Treasury Museum in its crypt.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        8.93135,
-                        44.40766
-                  ]
-            },
-            {
-                  "name": "Piazza de Ferrari",
-                  "text": "The city's main square, centered around a large circular fountain and surrounded by magnificent 19th-century buildings and the opera house.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        8.934028,
-                        44.407156
-                  ]
-            },
-            {
-                  "name": "Via Garibaldi",
-                  "text": "Known as the street of palaces, this UNESCO site features the Palazzi dei Rolli, former residences of Genoa's most powerful families.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high",
-                  "coords": [
-                        8.932778,
-                        44.411111
-                  ]
-            },
-            {
-                  "name": "Lanterna di Genova",
-                  "text": "Built in 1543, this iconic lighthouse is the symbol of Genoa and one of the oldest working lighthouses in the world.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "coords": [
-                        8.904636,
-                        44.40454
-                  ]
-            },
-            {
-                  "name": "Palazzo Ducale",
-                  "text": "Once the seat of the Doges of Genoa, this vast palace complex now serves as a major hub for art exhibitions and cultural festivals.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high",
-                  "coords": [
-                        8.933284,
-                        44.407501
-                  ]
-            },
-            {
-                  "name": "Boccadasse",
-                  "text": "A charming old fishing village at the end of the promenade, famous for its pastel-colored houses and small pebble beach in a quiet bay.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high",
-                  "coords": [
-                        8.974673,
-                        44.390126
-                  ]
-            },
-            {
-                  "name": "Spianata Castelletto",
-                  "text": "A panoramic viewpoint reachable by a beautiful Art Nouveau elevator, offering the best birds-eye views over the historic center and port.",
-                  "category": "viewpoints",
-                  "confidence": "high",
-                  "coords": [
-                        8.933039,
-                        44.413347
-                  ]
-            },
-            {
-                  "name": "Bagni Nuovo Lido",
-                  "text": "Bagni Nuovo Lido is a beach resort in Genoa offering coastal leisure facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        8.968042,
-                        44.390847
-                  ]
-            },
-            {
-                  "name": "Bagni Roma",
-                  "text": "Bagni Roma is a beach resort in Genoa offering coastal leisure facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        8.96117,
-                        44.392387
-                  ]
-            },
-            {
-                  "name": "Bagni Sporting",
-                  "text": "Bagni Sporting is a beach resort in Genoa offering coastal leisure facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        8.96521,
-                        44.391282
-                  ]
-            },
-            {
-                  "name": "Squash",
-                  "text": "Squash is a beach resort in Genoa offering coastal leisure facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        8.959969,
-                        44.391946
-                  ]
-            },
-            {
-                  "name": "Bagni Paolo e Lelle",
-                  "text": "Bagni Paolo e Lelle is a beach resort in Genoa offering coastal leisure facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        8.990707,
-                        44.390024
-                  ]
-            },
-            {
-                  "name": "Bagni Liggia",
-                  "text": "Bagni Liggia is a beach resort in Genoa offering coastal leisure facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        8.988625,
-                        44.39107
-                  ]
-            },
             {
                   "name": "San Nazaro",
                   "text": "Recreational area with sports fields, barbecue spots, and a small lake in Genoa.",
@@ -1103,15 +330,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   "coords": [
                         8.954204,
                         44.391609
-                  ]
-            },
-            {
-                  "name": "Bagni Santa Chiara",
-                  "text": "Bagni Santa Chiara is a beach resort in Genoa offering coastal leisure facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        8.977638,
-                        44.38985
                   ]
             }
       ]
@@ -1154,334 +372,10 @@ export const poiExtraItalyCitiesC1: POI[] = [
       en: ["Turin is the third most economically productive city in Italy after Milan and Rome.", "The city's name comes from the Celtic word 'Taur', meaning 'mountain' or 'bull'.", "The Superga Hill offers a 672-meter high viewpoint over the city and the Alps.", "Turin hosted the first International Cinema Exhibition in 1914.", "The University of Turin, founded in 1404, is one of the oldest in the country.", "The city is a major center for the 'Slow Food' movement, promoting local traditions.", "Turin's street layout is based on the original Roman military camp (Castrum).", "The Allianz Stadium, home of Juventus, was the first club-owned stadium in Italy."],
     }, image: "/poi-images/city-it-turin.webp",
     "sights": {
-      "de": [
-            {
-                  "name": "Mole Antonelliana",
-                  "text": "Das markante Wahrzeichen Torins beherbergt das Nationale Filmmuseum und bietet einen gläsernen Aufzug zur Aussichtsplattform in 85 Metern Höhe.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        7.69324,
-                        45.06898
-                  ]
-            },
-            {
-                  "name": "Museo Egizio",
-                  "text": "Das Ägyptische Museum in Turin besitzt eine der bedeutendsten Sammlungen altägyptischer Kunst und Artefakte weltweit außerhalb von Ägypten.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        7.684444,
-                        45.068333
-                  ]
-            },
-            {
-                  "name": "Palazzo Reale",
-                  "text": "Der prunkvolle Königspalast der Savoyer war einst das Zentrum der Macht und beeindruckt mit prächtigen Sälen und der königlichen Rüstkammer.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high",
-                  "coords": [
-                        7.686333,
-                        45.07283
-                  ]
-            },
-            {
-                  "name": "Piazza Castello",
-                  "text": "Der zentrale Platz Torins wird vom Palazzo Reale und dem Palazzo Madama gesäumt und ist das historische Herz der piemontesischen Hauptstadt.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        7.6858,
-                        45.0708
-                  ]
-            },
-            {
-                  "name": "Duomo di Torino",
-                  "text": "Die Johannes dem Täufer geweihte Renaissance-Kathedrale ist weltberühmt als Aufbewahrungsort des Turiner Grabtuchs in einer speziellen Kapelle.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        7.685435,
-                        45.07332
-                  ]
-            },
-            {
-                  "name": "Parco del Valentino",
-                  "text": "Der Stadtpark am Po-Ufer beherbergt das mittelalterliche Borgo Medievale und das prächtige Schloss Valentino inmitten grüner Alleen.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high",
-                  "coords": [
-                        7.686,
-                        45.054
-                  ]
-            },
-            {
-                  "name": "Basilica di Superga",
-                  "text": "Die imposante Barockbasilika thront auf einem Hügel über der Stadt und dient als Grabstätte für viele Mitglieder des Hauses Savoyen.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        7.767366,
-                        45.08062
-                  ]
-            },
-            {
-                  "name": "Palazzo Madama",
-                  "text": "Dieses architektonische Meisterwerk verbindet römische Ruinen, mittelalterliche Türme und eine prachtvolle Barockfassade zu einem Museum.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high",
-                  "coords": [
-                        7.685778,
-                        45.070944
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mole Antonelliana",
-                  "text": "Torinó emblematikus épülete, amelyben a Nemzeti Filmmúzeum működik, üvegliftje pedig lenyűgöző kilátást nyújt a városra és az Alpokra.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        7.69324,
-                        45.06898
-                  ]
-            },
-            {
-                  "name": "Museo Egizio",
-                  "text": "A Torinói Egyiptomi Múzeum Kairó után a világ legjelentősebb egyiptomi gyűjteményével rendelkezik, több ezer éves kincseket bemutatva.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        7.684444,
-                        45.068333
-                  ]
-            },
-            {
-                  "name": "Palazzo Reale",
-                  "text": "A Savoyai-ház egykori királyi palotája pazar barokk belső tereivel, aranyozott termeivel és a híres fegyvertárral várja a látogatókat.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high",
-                  "coords": [
-                        7.686333,
-                        45.07283
-                  ]
-            },
-            {
-                  "name": "Piazza Castello",
-                  "text": "Torinó szíve, az elegáns főtér, ahol a Királyi Palota és a Palazzo Madama található, fontos történelmi és társasági események helyszíne.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        7.6858,
-                        45.0708
-                  ]
-            },
-            {
-                  "name": "Duomo di Torino",
-                  "text": "Keresztelő Szent János tiszteletére szentelt reneszánsz katedrális, amely a világhírű Torinói Lepel őrzési helyeként vált zarándokhellyé.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        7.685435,
-                        45.07332
-                  ]
-            },
-            {
-                  "name": "Parco del Valentino",
-                  "text": "A Pó folyó partján fekvő hatalmas park, ahol a középkori várfalut (Borgo Medievale) és a Valentino-kastélyt is megcsodálhatjuk.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high",
-                  "coords": [
-                        7.686,
-                        45.054
-                  ]
-            },
-            {
-                  "name": "Basilica di Superga",
-                  "text": "A város fölé magasodó dombon álló monumentális barokk bazilika a Savoyai-család mauzóleuma és kiváló panorámapont egyben.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        7.767366,
-                        45.08062
-                  ]
-            },
-            {
-                  "name": "Palazzo Madama",
-                  "text": "Építészeti különlegesség, amely római kori alapokra épült középkori várat és pazar barokk palotahomlokzatot ötvöz egyetlen épületben.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high",
-                  "coords": [
-                        7.685778,
-                        45.070944
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Mole Antonelliana",
-                  "text": "Simbolul orașului Torino, această clădire înaltă găzduiește Muzeul Național al Cinema-ului și oferă o panoramă spectaculoasă asupra Alpilor.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        7.69324,
-                        45.06898
-                  ]
-            },
-            {
-                  "name": "Museo Egizio",
-                  "text": "Muzeul Egiptean din Torino este cel mai vechi muzeu din lume dedicat exclusiv civilizației egiptene, având o colecție inestimabilă.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        7.684444,
-                        45.068333
-                  ]
-            },
-            {
-                  "name": "Palazzo Reale",
-                  "text": "Fosta reședință regală a familiei de Savoia, palatul impresionează prin apartamentele de stat somptuoase și armureria regală vastă.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high",
-                  "coords": [
-                        7.686333,
-                        45.07283
-                  ]
-            },
-            {
-                  "name": "Piazza Castello",
-                  "text": "Piața centrală a orașului Torino, înconjurată de palate mărețe și arcade elegante, este punctul de plecare ideal pentru a explora centrul.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        7.6858,
-                        45.0708
-                  ]
-            },
-            {
-                  "name": "Duomo di Torino",
-                  "text": "Catedrala Sfântul Ioan Botezătorul este o bijuterie renascentistă cunoscută la nivel mondial pentru că adăpostește Giulgiul din Torino.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        7.685435,
-                        45.07332
-                  ]
-            },
-            {
-                  "name": "Parco del Valentino",
-                  "text": "Cel mai popular parc din Torino, situat pe malul râului Po, incluzând un sat medieval recreat fidel și castelul Valentino.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high",
-                  "coords": [
-                        7.686,
-                        45.054
-                  ]
-            },
-            {
-                  "name": "Basilica di Superga",
-                  "text": "O bazilică barocă impunătoare situată pe un deal, oferind vederi panoramice și servind drept panteon pentru familia regală de Savoia.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        7.767366,
-                        45.08062
-                  ]
-            },
-            {
-                  "name": "Palazzo Madama",
-                  "text": "O clădire fascinantă ce îmbină un castel medieval cu o fațadă barocă superbă, găzduind în prezent Muzeul de Artă Antică.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high",
-                  "coords": [
-                        7.685778,
-                        45.070944
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mole Antonelliana",
-                  "text": "Torino's most iconic landmark, this spire-topped building houses the National Museum of Cinema and features a panoramic glass lift.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        7.69324,
-                        45.06898
-                  ]
-            },
-            {
-                  "name": "Museo Egizio",
-                  "text": "The Egyptian Museum in Turin is the only museum outside Cairo dedicated solely to Egyptian art and culture, housing world-class treasures.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        7.684444,
-                        45.068333
-                  ]
-            },
-            {
-                  "name": "Palazzo Reale",
-                  "text": "The Royal Palace of the House of Savoy showcases opulent baroque interiors, royal armory, and beautifully manicured royal gardens.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high",
-                  "coords": [
-                        7.686333,
-                        45.07283
-                  ]
-            },
-            {
-                  "name": "Piazza Castello",
-                  "text": "The central square of Turin, surrounded by prestigious palaces like Palazzo Reale and Palazzo Madama, is the city's historic core.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        7.6858,
-                        45.0708
-                  ]
-            },
-            {
-                  "name": "Duomo di Torino",
-                  "text": "This Renaissance cathedral, dedicated to Saint John the Baptist, is internationally famous as the home of the Holy Shroud of Turin.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        7.685435,
-                        45.07332
-                  ]
-            },
-            {
-                  "name": "Parco del Valentino",
-                  "text": "A vast park along the Po riverbank featuring the Borgo Medievale (medieval village) and the elegant 17th-century Valentino Castle.",
-                  "category": "parks/promenades/lakes",
-                  "confidence": "high",
-                  "coords": [
-                        7.686,
-                        45.054
-                  ]
-            },
-            {
-                  "name": "Basilica di Superga",
-                  "text": "A hilltop Baroque masterpiece offering stunning views of the city and the Alps, and serving as the final resting place of the Savoy family.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "coords": [
-                        7.767366,
-                        45.08062
-                  ]
-            },
-            {
-                  "name": "Palazzo Madama",
-                  "text": "An architectural marvel combining Roman ruins, a medieval castle, and a grand baroque facade, now housing the Museum of Ancient Art.",
-                  "category": "famous buildings/residences",
-                  "confidence": "high",
-                  "coords": [
-                        7.685778,
-                        45.070944
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }
   },
   {
@@ -1543,36 +437,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro Massimo",
-                  "text": "Italiens größtes Opernhaus ist bekannt für seine perfekte Akustik und seine neoklassizistische Pracht im Herzen der historischen Stadt.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high",
-                  "coords": [
-                        13.357222,
-                        38.120278
-                  ]
-            },
-            {
-                  "name": "Quattro Canti",
-                  "text": "Dieser prächtige Barockplatz markiert den historischen Schnittpunkt der vier Hauptviertel Palermos mit seinen vier verzierten Fassaden.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        13.36149,
-                        38.11568
-                  ]
-            },
-            {
-                  "name": "Fontana Pretoria",
-                  "text": "Ein monumentaler Renaissance-Brunnen im Herzen der Altstadt, der mit zahlreichen Statuen mythologischer Figuren geschmückt ist.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high",
-                  "coords": [
-                        13.361944,
-                        38.115556
-                  ]
-            },
-            {
                   "name": "Kapuzinergruft",
                   "text": "Ein einzigartiger und düsterer unterirdischer Friedhof mit Tausenden von Mumien, die von den Kapuzinermönchen konserviert wurden.",
                   "category": "museums",
@@ -1622,36 +486,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   "coords": [
                         13.35341,
                         38.111282
-                  ]
-            },
-            {
-                  "name": "Teatro Massimo",
-                  "text": "Olaszország legnagyobb operaháza, amely tökéletes akusztikájáról és monumentális neoklasszikus nagyszerűségéről ismert.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high",
-                  "coords": [
-                        13.357222,
-                        38.120278
-                  ]
-            },
-            {
-                  "name": "Quattro Canti",
-                  "text": "A gazdagon díszített barokk tér Palermo négy történelmi negyedének metszéspontját jelöli négy monumentális homlokzattal.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        13.36149,
-                        38.11568
-                  ]
-            },
-            {
-                  "name": "Fontana Pretoria",
-                  "text": "Monumentális reneszánsz szökőkút a történelmi központban, amelyet számos mitológiai alakot ábrázoló szobor díszít.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high",
-                  "coords": [
-                        13.361944,
-                        38.115556
                   ]
             },
             {
@@ -1707,36 +541,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro Massimo",
-                  "text": "Cel mai mare teatru de operă din Italia, cunoscut pentru acustica sa perfectă și grandoarea sa neoclasică impresionantă.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high",
-                  "coords": [
-                        13.357222,
-                        38.120278
-                  ]
-            },
-            {
-                  "name": "Quattro Canti",
-                  "text": "Piața barocă bogat decorată marchează intersecția istorică a celor patru districte centrale ale orașului Palermo.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        13.36149,
-                        38.11568
-                  ]
-            },
-            {
-                  "name": "Fontana Pretoria",
-                  "text": "O fântână monumentală renascentistă situată în centrul istoric, împodobită cu numeroase statui ale unor figuri mitologice.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high",
-                  "coords": [
-                        13.361944,
-                        38.115556
-                  ]
-            },
-            {
                   "name": "Catacombele Capucinilor",
                   "text": "Un cimitir subteran unic și sumbru, care conține mii de corpuri mumificate conservate de către călugării capucini.",
                   "category": "museums",
@@ -1786,36 +590,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   "coords": [
                         13.35341,
                         38.111282
-                  ]
-            },
-            {
-                  "name": "Teatro Massimo",
-                  "text": "Italy's largest opera house, known for its perfect acoustics and neoclassical grandeur, famously featured in cinema history.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high",
-                  "coords": [
-                        13.357222,
-                        38.120278
-                  ]
-            },
-            {
-                  "name": "Quattro Canti",
-                  "text": "The ornate Baroque square marking the historic intersection of Palermo's four central districts with four decorated facades.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        13.36149,
-                        38.11568
-                  ]
-            },
-            {
-                  "name": "Fontana Pretoria",
-                  "text": "A monumental Renaissance fountain located in the historic center, adorned with numerous statues of mythological figures.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high",
-                  "coords": [
-                        13.361944,
-                        38.115556
                   ]
             },
             {
@@ -2143,15 +917,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   ]
             },
             {
-                  "name": "Spiaggia nera di San Giovanni Li Cuti",
-                  "text": "Direkt in Catania gelegen, ist San Giovanni Li Cuti ein markanter Stadtstrand, der für seinen dunklen vulkanischen Sand und die schroffen Lavasteine berühmt ist. Die einzigartige geologische Beschaffenheit bildet einen dramatischen Kontrast zum klaren Wasser des Mittelmeers. Es herrscht eine sehr authentische, lokale Stimmung, wenn sich die Einwohner hier am Meer treffen. Badeschuhe sind sehr zu empfehlen, um bequem über das felsige Terrain zu laufen.",
-                  "category": "recreational",
-                  "coords": [
-                        15.109163,
-                        37.519368
-                  ]
-            },
-            {
                   "name": "Terme dell'Acropoli",
                   "text": "Archäologische Überreste antiker römischer Thermen, die sich im historischen Zentrum von Catania befinden.",
                   "category": "historical",
@@ -2410,15 +1175,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   "coords": [
                         15.082871,
                         37.480024
-                  ]
-            },
-            {
-                  "name": "Sole Mare Beach Club",
-                  "text": "Sole Mare Beach Club bietet Liegen, ein Restaurant und eine Hüpfburg für Kinder in Catania.",
-                  "category": "family",
-                  "coords": [
-                        15.108002,
-                        37.518784
                   ]
             }
       ],
@@ -2712,15 +1468,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   ]
             },
             {
-                  "name": "Spiaggia nera di San Giovanni Li Cuti",
-                  "text": "Közvetlenül Catania városában található a San Giovanni Li Cuti, egy lenyűgöző városi strand, amely híres sötét vulkáni homokjáról és lávaköveiről. Az egyedülálló geológiai környezet drámai kontrasztot alkot a Földközi-tenger tiszta vizével. Egyedülálló, autentikus helyi hangulattal bír, ahol a lakosok a tengerparton gyűlnek össze beszélgetni. Védő vízi cipő viselete ajánlott a sziklás terepen való kényelmes sétához.",
-                  "category": "recreational",
-                  "coords": [
-                        15.109163,
-                        37.519368
-                  ]
-            },
-            {
                   "name": "Terme dell'Acropoli",
                   "text": "Ókori római fürdők régészeti maradványai Catania történelmi központjában.",
                   "category": "historical",
@@ -2979,15 +1726,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   "coords": [
                         15.082871,
                         37.480024
-                  ]
-            },
-            {
-                  "name": "Sole Mare Beach Club",
-                  "text": "Sole Mare Beach Club napernyőkkel, étteremmel és ugrálóvárral Cataniában.",
-                  "category": "family",
-                  "coords": [
-                        15.108002,
-                        37.518784
                   ]
             }
       ],
@@ -3281,15 +2019,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   ]
             },
             {
-                  "name": "Spiaggia nera di San Giovanni Li Cuti",
-                  "text": "Situată chiar în Catania, San Giovanni Li Cuti este o plajă urbană impresionantă, renumită pentru nisipul vulcanic întunecat și rocile de lavă. Cadrul geologic unic creează un contrast dramatic cu apele limpezi ale Mării Mediterane. Are o vibrație locală distinctă, autentică, unde rezidenții se adună pentru a socializa lângă mare. Încălțămintea de protecție pentru apă este recomandată pentru a merge confortabil pe terenul stâncos.",
-                  "category": "recreational",
-                  "coords": [
-                        15.109163,
-                        37.519368
-                  ]
-            },
-            {
                   "name": "Terme dell'Acropoli",
                   "text": "Vestigii arheologice ale unor băi romane antice situate în centrul istoric al orașului Catania.",
                   "category": "historical",
@@ -3548,15 +2277,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   "coords": [
                         15.082871,
                         37.480024
-                  ]
-            },
-            {
-                  "name": "Sole Mare Beach Club",
-                  "text": "Sole Mare Beach Club oferă șezlonguri, restaurant și un castel gonflabil pentru copii în Catania.",
-                  "category": "family",
-                  "coords": [
-                        15.108002,
-                        37.518784
                   ]
             }
       ],
@@ -3850,15 +2570,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   ]
             },
             {
-                  "name": "Spiaggia nera di San Giovanni Li Cuti",
-                  "text": "Situated right within Catania, San Giovanni Li Cuti is a striking urban beach famed for its dark volcanic sand and lava rocks. The unique geological setting creates a dramatic contrast with the clear waters of the Mediterranean. It holds a distinct, authentic local vibe where residents gather to socialize by the sea. Protective water shoes are recommended for comfortably walking over the rocky terrain.",
-                  "category": "recreational",
-                  "coords": [
-                        15.109163,
-                        37.519368
-                  ]
-            },
-            {
                   "name": "Terme dell'Acropoli",
                   "text": "Archaeological remains of ancient Roman baths located in the historic center of Catania.",
                   "category": "historical",
@@ -4117,15 +2828,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   "coords": [
                         15.082871,
                         37.480024
-                  ]
-            },
-            {
-                  "name": "Sole Mare Beach Club",
-                  "text": "Sole Mare Beach Club with sunbeds, a restaurant, and a bouncy castle in Catania.",
-                  "category": "family",
-                  "coords": [
-                        15.108002,
-                        37.518784
                   ]
             }
       ]
@@ -5630,16 +4332,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Piazza Unità d'Italia",
-                  "text": "Europas größter Platz am Meer, umgeben von prächtigen Palästen aus dem 19. Jahrhundert mit einem spektakulären Blick auf die Adria.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        13.767861,
-                        45.65
-                  ]
-            },
-            {
                   "name": "Schloss Miramare",
                   "text": "Ein weißes Märchenschloss aus dem 19. Jahrhundert, erbaut für Erzherzog Maximilian von Österreich auf einer Klippe über dem Meer.",
                   "category": "castles/fortresses/towers",
@@ -5678,57 +4370,9 @@ export const poiExtraItalyCitiesC1: POI[] = [
                         13.77107,
                         45.65251
                   ]
-            },
-            {
-                  "name": "Molo Audace",
-                  "text": "Eine über 200 Meter lange Steinmole, die ins Meer ragt und ein beliebter Ort für Spaziergänge bei Sonnenuntergang ist.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high",
-                  "coords": [
-                        13.766486,
-                        45.652068
-                  ]
-            },
-            {
-                  "name": "Risiera di San Sabba",
-                  "text": "Eine ehemalige Reismühle, die im Zweiten Weltkrieg als Konzentrationslager diente, heute eine bewegende nationale Gedenkstätte.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        13.789167,
-                        45.620833
-                  ]
-            },
-            {
-                  "name": "Bagno Ferroviario",
-                  "text": "Ein Strandbad in Triest, das historisch mit der lokalen Eisenbahnergemeinschaft verbunden ist.",
-                  "category": "recreational",
-                  "coords": [
-                        13.756631,
-                        45.672451
-                  ]
-            },
-            {
-                  "name": "Bagno CRAL Autorità Portuale",
-                  "text": "Ein privater Strandclub in Triest, der den Mitarbeitern der Hafenbehörde und Besuchern dient.",
-                  "category": "recreational",
-                  "coords": [
-                        13.756996,
-                        45.671452
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Piazza Unità d'Italia",
-                  "text": "Európa legnagyobb tengerparti tere, amelyet impozáns 19. századi paloták vesznek körül, kilátással az Adriai-tengerre.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        13.767861,
-                        45.65
-                  ]
-            },
             {
                   "name": "Miramare-kastély",
                   "text": "Lenyűgöző fehér 19. századi kastély, amely Habsburg Miksa főherceg számára épült egy tengerparti sziklaszirten.",
@@ -5768,57 +4412,9 @@ export const poiExtraItalyCitiesC1: POI[] = [
                         13.77107,
                         45.65251
                   ]
-            },
-            {
-                  "name": "Molo Audace",
-                  "text": "Hosszú kőmóló, amely a főtér mellől nyúlik a tengerbe, népszerű hely esti sétákhoz és a naplemente megcsodálásához.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high",
-                  "coords": [
-                        13.766486,
-                        45.652068
-                  ]
-            },
-            {
-                  "name": "Risiera di San Sabba",
-                  "text": "Egykori rizshántoló üzem, amelyet a második világháború alatt koncentrációs táborrá alakítottak, ma nemzeti emlékhely.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        13.789167,
-                        45.620833
-                  ]
-            },
-            {
-                  "name": "Bagno Ferroviario",
-                  "text": "Trieszti strandkomplexum, amely történelmileg a helyi vasutas közösséghez kapcsolódik.",
-                  "category": "recreational",
-                  "coords": [
-                        13.756631,
-                        45.672451
-                  ]
-            },
-            {
-                  "name": "Bagno CRAL Autorità Portuale",
-                  "text": "Privát strandklub Triesztben, amely a kikötői hatóság dolgozóit és látogatóit szolgálja.",
-                  "category": "recreational",
-                  "coords": [
-                        13.756996,
-                        45.671452
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Piazza Unità d'Italia",
-                  "text": "Cea mai mare piață de pe malul mării din Europa, înconjurată de palate grandioase din secolul al XIX-lea și vederi superbe.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        13.767861,
-                        45.65
-                  ]
-            },
             {
                   "name": "Castelul Miramare",
                   "text": "Un castel alb uimitor din secolul al XIX-lea, construit pentru arhiducele Maximilian de Austria pe o stâncă deasupra mării.",
@@ -5858,57 +4454,9 @@ export const poiExtraItalyCitiesC1: POI[] = [
                         13.77107,
                         45.65251
                   ]
-            },
-            {
-                  "name": "Molo Audace",
-                  "text": "Un dig lung de piatră care se întinde în mare de la Piazza Unità, popular pentru plimbări și vizionarea apusului.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high",
-                  "coords": [
-                        13.766486,
-                        45.652068
-                  ]
-            },
-            {
-                  "name": "Risiera di San Sabba",
-                  "text": "O fostă moară de orez transformată în lagăr de concentrare în timpul războiului, acum un muzeu memorial sumbru.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        13.789167,
-                        45.620833
-                  ]
-            },
-            {
-                  "name": "Bagno Ferroviario",
-                  "text": "O plajă din Trieste, legată istoric de comunitatea locală a feroviarilor.",
-                  "category": "recreational",
-                  "coords": [
-                        13.756631,
-                        45.672451
-                  ]
-            },
-            {
-                  "name": "Bagno CRAL Autorità Portuale",
-                  "text": "Un club de plajă privat în Trieste, destinat angajaților autorității portuare și vizitatorilor.",
-                  "category": "recreational",
-                  "coords": [
-                        13.756996,
-                        45.671452
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Piazza Unità d'Italia",
-                  "text": "Europe's largest seaside square, surrounded by grand 19th-century palaces and offering a spectacular view of the Adriatic.",
-                  "category": "squares/old-town",
-                  "confidence": "high",
-                  "coords": [
-                        13.767861,
-                        45.65
-                  ]
-            },
             {
                   "name": "Miramare Castle",
                   "text": "A stunning white 19th-century castle built for Archduke Maximilian of Austria, situated on a cliff overlooking the sea.",
@@ -5947,44 +4495,6 @@ export const poiExtraItalyCitiesC1: POI[] = [
                   "coords": [
                         13.77107,
                         45.65251
-                  ]
-            },
-            {
-                  "name": "Molo Audace",
-                  "text": "A long stone pier extending into the sea from Piazza Unità, popular for evening walks and watching the sunset.",
-                  "category": "bridges/monuments/statues",
-                  "confidence": "high",
-                  "coords": [
-                        13.766486,
-                        45.652068
-                  ]
-            },
-            {
-                  "name": "Risiera di San Sabba",
-                  "text": "A former rice mill converted into a concentration camp during WWII, now serving as a somber memorial and museum.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "coords": [
-                        13.789167,
-                        45.620833
-                  ]
-            },
-            {
-                  "name": "Bagno Ferroviario",
-                  "text": "A beach resort in Trieste, historically associated with the local railway community.",
-                  "category": "recreational",
-                  "coords": [
-                        13.756631,
-                        45.672451
-                  ]
-            },
-            {
-                  "name": "Bagno CRAL Autorità Portuale",
-                  "text": "A private beach club in Trieste, serving port authority employees and visitors.",
-                  "category": "recreational",
-                  "coords": [
-                        13.756996,
-                        45.671452
                   ]
             }
       ]

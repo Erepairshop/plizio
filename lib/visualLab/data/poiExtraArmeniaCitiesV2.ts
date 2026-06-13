@@ -1950,15 +1950,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Roman House",
-                  "text": "Historisches Wohnhaus aus dem 19. Jahrhundert mit markanter Fassade in Wagharschapat.",
-                  "category": "landmark",
-                  "coords": [
-                        44.295287,
-                        40.160486
-                  ]
-            },
-            {
                   "name": "Մաչանենց տուն",
                   "text": "Traditionelles armenisches Steinhaus mit geschnitztem Holzbalkon in Wagharschapat.",
                   "category": "landmark",
@@ -2066,15 +2057,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   "coords": [
                         44.282914,
                         40.160768
-                  ]
-            },
-            {
-                  "name": "Roman House",
-                  "text": "19. századi történelmi lakóépület jellegzetes homlokzattal Vagarsapatban.",
-                  "category": "landmark",
-                  "coords": [
-                        44.295287,
-                        40.160486
                   ]
             },
             {
@@ -2188,15 +2170,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Roman House",
-                  "text": "Clădire istorică rezidențială din secolul al XIX-lea cu o fațadă distinctivă în Vagharshapat.",
-                  "category": "landmark",
-                  "coords": [
-                        44.295287,
-                        40.160486
-                  ]
-            },
-            {
                   "name": "Մաչանենց տուն",
                   "text": "Casă tradițională armeană din piatră cu balcon din lemn sculptat în Vagharshapat.",
                   "category": "landmark",
@@ -2244,84 +2217,12 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Khoren Ter-Harutyunyan Museum",
-                  "text": "Museum of Armenian painter Khoren Ter-Harutyunyan in Vagharshapat.",
-                  "category": "museum",
-                  "coords": [
-                        44.294521,
-                        40.16209
-                  ]
-            },
-            {
-                  "name": "Etchmiadzin",
-                  "text": "Etchmiadzin Cathedral, seat of the head of the Armenian Apostolic Church.",
-                  "category": "religious",
-                  "coords": [
-                        44.291274,
-                        40.161884
-                  ]
-            },
-            {
-                  "name": "Museum aft. Hovhanes Hovhanisyan",
-                  "text": "Museum dedicated to the life and work of poet Hovhanes Hovhanisyan in Vagharshapat.",
-                  "category": "museum",
-                  "coords": [
-                        44.292821,
-                        40.163583
-                  ]
-            },
-            {
                   "name": "Historical and Ethnographic Museum of Ejmiatsin",
                   "text": "Historical and ethnographic museum showcasing local history and culture in Vagharshapat.",
                   "category": "museum",
                   "coords": [
                         44.29447,
                         40.16453
-                  ]
-            },
-            {
-                  "name": "Alex and Marie Manoogian Treasury House",
-                  "text": "Treasury house displaying religious treasures of the Armenian Church in Vagharshapat.",
-                  "category": "museum",
-                  "coords": [
-                        44.288464,
-                        40.161332
-                  ]
-            },
-            {
-                  "name": "Saint Gregory's right hand",
-                  "text": "A relic of Saint Gregory the Illuminator kept in Etchmiadzin.",
-                  "category": "historical",
-                  "coords": [
-                        44.316727,
-                        40.166398
-                  ]
-            },
-            {
-                  "name": "Egishe Charents",
-                  "text": "Monument to the Armenian poet Egishe Charents in Vagharshapat.",
-                  "category": "historical",
-                  "coords": [
-                        44.282914,
-                        40.160768
-                  ]
-            },
-            {
-                  "name": "Roman House",
-                  "text": "Historic 19th-century residential building with a distinctive facade in Vagharshapat.",
-                  "category": "landmark",
-                  "coords": [
-                        44.295287,
-                        40.160486
-                  ]
-            },
-            {
-                  "name": "Machanents home",
-                  "text": "Traditional Armenian stone house with a carved wooden balcony in Vagharshapat.",
-                  "category": "landmark",
-                  "coords": [
-                        44.298038,
-                        40.16068
                   ]
             },
             {
@@ -2340,24 +2241,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   "coords": [
                         44.309553,
                         40.166977
-                  ]
-            },
-            {
-                  "name": "Saint Gayane Church",
-                  "text": "Another spiritual center in Vagharshapat is the church of Սուրբ Գայանե եկեղեցի. This religious site in Armenia is distinguished by its special architectural presence. Visitors will find a peaceful space here that makes the deeply rooted spirituality of the region palpable.",
-                  "category": "religious",
-                  "coords": [
-                        44.291854,
-                        40.157481
-                  ]
-            },
-            {
-                  "name": "Church of the Holy Archangels",
-                  "text": "The church of Սրբոց Հրեշտակապետաց եկեղեցի is an integral part of religious life in Vagharshapat. In this historic city in Armenia, the building provides a place for worship and inner contemplation. Guests can absorb the silence and the sacred atmosphere during a visit.",
-                  "category": "religious",
-                  "coords": [
-                        44.293462,
-                        40.162609
                   ]
             }
       ]
@@ -3163,15 +3046,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Theater aft. A. Kharazyan",
-                  "text": "Theater named after Armenian cultural figure A. Kharazyan in Artashat.",
-                  "category": "cultural",
-                  "coords": [
-                        44.545313,
-                        39.956043
-                  ]
-            },
-            {
                   "name": "Մայր Հայաստան",
                   "text": "This monument, meaning Mother Armenia, is a prominent statue located in Artaschat.",
                   "category": "historical",
@@ -3423,15 +3297,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   "coords": [
                         45.144103,
                         40.873925
-                  ]
-            },
-            {
-                  "name": "Ijevan Church",
-                  "text": "A church in the town of Ijevan, Armenia.",
-                  "category": "religious",
-                  "coords": [
-                        45.147742,
-                        40.875244
                   ]
             }
       ]
@@ -3841,24 +3706,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   "coords": [
                         46.344135,
                         39.516104
-                  ]
-            },
-            {
-                  "name": "Goris Gate",
-                  "text": "A historic gate in the city of Goris, Armenia.",
-                  "category": "historical",
-                  "coords": [
-                        46.326702,
-                        39.503669
-                  ]
-            },
-            {
-                  "name": "Goris Viewpoint",
-                  "text": "Goris Viewpoint offers a scenic overlook in the city of Goris.",
-                  "category": "natural",
-                  "coords": [
-                        46.341502,
-                        39.489076
                   ]
             },
             {
@@ -5087,15 +4934,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Archeological Museum",
-                  "text": "Das Archäologische Museum bietet Ausstellungen historischer Artefakte in Sisian.",
-                  "category": "museum",
-                  "coords": [
-                        46.343885,
-                        39.505987
-                  ]
-            },
-            {
                   "name": "Սերո Խանզադյան թանգարան",
                   "text": "Museum für den Schriftsteller Sero Chanzradsjan in Sissian.",
                   "category": "museum",
@@ -5158,15 +4996,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   "coords": [
                         46.340797,
                         39.511229
-                  ]
-            },
-            {
-                  "name": "Archeological Museum",
-                  "text": "A Régészeti Múzeum történelmi műtárgyak kiállításait kínálja Sziszianban.",
-                  "category": "museum",
-                  "coords": [
-                        46.343885,
-                        39.505987
                   ]
             },
             {
@@ -5235,15 +5064,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Archeological Museum",
-                  "text": "Muzeul Arheologic oferă expoziții de artefacte istorice în Sisian.",
-                  "category": "museum",
-                  "coords": [
-                        46.343885,
-                        39.505987
-                  ]
-            },
-            {
                   "name": "Սերո Խանզադյան թանգարան",
                   "text": "Muzeul scriitorului Sero Khandzradzyan din Sisian.",
                   "category": "museum",
@@ -5299,69 +5119,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "House Museum of Axel Bakunts",
-                  "text": "The birthplace museum of Armenian writer Axel Bakunts in Sisian.",
-                  "category": "museum",
-                  "coords": [
-                        46.340797,
-                        39.511229
-                  ]
-            },
-            {
-                  "name": "Archeological Museum",
-                  "text": "The Archeological Museum offers exhibitions of historical artifacts in Sisian.",
-                  "category": "museum",
-                  "coords": [
-                        46.343885,
-                        39.505987
-                  ]
-            },
-            {
-                  "name": "Sero Khandzradzyan Museum",
-                  "text": "Museum of writer Sero Khandzradzyan in Sisian.",
-                  "category": "museum",
-                  "coords": [
-                        46.344135,
-                        39.516104
-                  ]
-            },
-            {
-                  "name": "Goris Gate",
-                  "text": "A medieval stone gate from the Goris fortress near Sisian.",
-                  "category": "historical",
-                  "coords": [
-                        46.326702,
-                        39.503669
-                  ]
-            },
-            {
-                  "name": "Bells of Goris",
-                  "text": "The Bells of Goris in Sisian, also by architect Sevada Zakaryan.",
-                  "category": "historical",
-                  "coords": [
-                        46.362756,
-                        39.515778
-                  ]
-            },
-            {
-                  "name": "St. Hripsime",
-                  "text": "17th-century Armenian church of Saint Hripsime in Sisian.",
-                  "category": "religious",
-                  "coords": [
-                        46.350755,
-                        39.505243
-                  ]
-            },
-            {
-                  "name": "Saint Gregory The Illuminator",
-                  "text": "A modern Armenian church with a tall bell tower in Sisian.",
-                  "category": "religious",
-                  "coords": [
-                        46.345737,
-                        39.5052
-                  ]
-            },
             {
                   "name": "Saint Hripsime Church",
                   "text": "A small chapel dedicated to Saint Hripsime in Sisian.",
@@ -5476,15 +5233,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "House of Culture",
-                  "text": "Das Kulturhaus dient als Kunstzentrum in Alawerdi.",
-                  "category": "cultural",
-                  "coords": [
-                        44.658243,
-                        41.091653
-                  ]
-            },
-            {
                   "name": "Chasovnya Sv. Arutyun",
                   "text": "Kapelle der Heiligen Auferstehung (Surb Harutyun) in Alaverdi, nahe der historischen Brücke.",
                   "category": "landmark",
@@ -5547,15 +5295,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   "coords": [
                         44.657548,
                         41.099001
-                  ]
-            },
-            {
-                  "name": "House of Culture",
-                  "text": "A Kultúrház művészeti központként működik Alawerdiben.",
-                  "category": "cultural",
-                  "coords": [
-                        44.658243,
-                        41.091653
                   ]
             },
             {
@@ -5624,15 +5363,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "House of Culture",
-                  "text": "Casa de Cultură servește drept centru de arte în Alawerdi.",
-                  "category": "cultural",
-                  "coords": [
-                        44.658243,
-                        41.091653
-                  ]
-            },
-            {
                   "name": "Chasovnya Sv. Arutyun",
                   "text": "Capela Sfintei Învieri (Surb Harutyun) în Alaverdi, lângă podul istoric.",
                   "category": "landmark",
@@ -5662,33 +5392,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Koshaberd Fortress",
-                  "text": "Medieval fortress on a rocky outcrop above the Debed River in Alaverdi.",
-                  "category": "castle",
-                  "coords": [
-                        44.667607,
-                        41.107111
-                  ]
-            },
-            {
-                  "name": "Mikoyan Brothers Museum",
-                  "text": "Museum about the Mikoyan brothers, the Soviet politician and aircraft designer, in Alaverdi.",
-                  "category": "museum",
-                  "coords": [
-                        44.667651,
-                        41.089844
-                  ]
-            },
-            {
-                  "name": "Dark",
-                  "text": "A deep wooded valley near the Debed River in Alaverdi.",
-                  "category": "natural",
-                  "coords": [
-                        44.629898,
-                        41.111952
-                  ]
-            },
-            {
                   "name": "Sanahin bridge",
                   "text": "Medieval stone bridge over the Debed River, near Sanahin Monastery outside Alaverdi.",
                   "category": "landmark",
@@ -5698,30 +5401,12 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "House of Culture",
-                  "text": "The House of Culture serves as an arts centre in Alawerdi.",
-                  "category": "cultural",
-                  "coords": [
-                        44.658243,
-                        41.091653
-                  ]
-            },
-            {
                   "name": "Chasovnya Sv. Arutyun",
                   "text": "Chapel of the Holy Resurrection (St. Harutyun) in Alaverdi, near the historic bridge.",
                   "category": "landmark",
                   "coords": [
                         44.667587,
                         41.086469
-                  ]
-            },
-            {
-                  "name": "Chapel of St. Sarkis",
-                  "text": "A small chapel perched on a rocky outcrop in Alaverdi.",
-                  "category": "religious",
-                  "coords": [
-                        44.660965,
-                        41.087301
                   ]
             }
       ]
@@ -5922,15 +5607,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   "coords": [
                         44.384471,
                         41.011079
-                  ]
-            },
-            {
-                  "name": "Mayori dzor",
-                  "text": "Mayori dzor – a scenic gorge on the outskirts of Stepanavan, popular for hiking.",
-                  "category": "landmark",
-                  "coords": [
-                        44.404061,
-                        41.009733
                   ]
             }
       ]
@@ -6831,15 +6507,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Roman House",
-                  "text": "Reste eines römischen Hauses auf dem Ausgrabungsgelände von Metsamor.",
-                  "category": "landmark",
-                  "coords": [
-                        44.295287,
-                        40.160486
-                  ]
-            },
-            {
                   "name": "Մաչանենց տուն",
                   "text": "Machanents-Haus – ein historisches Wohnhaus aus dem 19. Jahrhundert in Metsamor.",
                   "category": "landmark",
@@ -6920,15 +6587,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   "coords": [
                         44.282914,
                         40.160768
-                  ]
-            },
-            {
-                  "name": "Roman House",
-                  "text": "Egy római kori ház maradványai a metszamori régészeti lelőhelyen.",
-                  "category": "landmark",
-                  "coords": [
-                        44.295287,
-                        40.160486
                   ]
             },
             {
@@ -7015,15 +6673,6 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Roman House",
-                  "text": "Vestigiile unei case romane pe situl arheologic Metsamor.",
-                  "category": "landmark",
-                  "coords": [
-                        44.295287,
-                        40.160486
-                  ]
-            },
-            {
                   "name": "Մաչանենց տուն",
                   "text": "Casa Machanents – o casă istorică din secolul al XIX-lea în Metsamor.",
                   "category": "landmark",
@@ -7051,98 +6700,7 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
                   ]
             }
       ],
-      "en": [
-            {
-                  "name": "Khoren Ter-Harutyunyan Museum",
-                  "text": "Museum of Armenian painter Khoren Ter-Harutyunyan in Metsamor.",
-                  "category": "museum",
-                  "coords": [
-                        44.294521,
-                        40.16209
-                  ]
-            },
-            {
-                  "name": "Etchmiadzin",
-                  "text": "Armenian church of Etchmiadzin in Metsamor, named after the holy city.",
-                  "category": "religious",
-                  "coords": [
-                        44.291274,
-                        40.161884
-                  ]
-            },
-            {
-                  "name": "Museum aft. Hovhanes Hovhanisyan",
-                  "text": "Museum dedicated to poet Hovhannes Hovhannisyan in Metsamor.",
-                  "category": "museum",
-                  "coords": [
-                        44.292821,
-                        40.163583
-                  ]
-            },
-            {
-                  "name": "Historical and Ethnographic Museum of Ejmiatsin",
-                  "text": "Historical and Ethnographic Museum of Ejmiatsin, located in Metsamor.",
-                  "category": "museum",
-                  "coords": [
-                        44.29447,
-                        40.16453
-                  ]
-            },
-            {
-                  "name": "Alex and Marie Manoogian Treasury House",
-                  "text": "Alex and Marie Manoogian Treasury House – museum of Armenian ecclesiastical treasures in Metsamor.",
-                  "category": "museum",
-                  "coords": [
-                        44.288464,
-                        40.161332
-                  ]
-            },
-            {
-                  "name": "Egishe Charents",
-                  "text": "Monument to poet Yeghishe Charents in Metsamor.",
-                  "category": "historical",
-                  "coords": [
-                        44.282914,
-                        40.160768
-                  ]
-            },
-            {
-                  "name": "Roman House",
-                  "text": "Remains of a Roman-era house at the Metsamor archaeological site.",
-                  "category": "landmark",
-                  "coords": [
-                        44.295287,
-                        40.160486
-                  ]
-            },
-            {
-                  "name": "Machanents home",
-                  "text": "Machanents home – a 19th-century historic house in Metsamor.",
-                  "category": "landmark",
-                  "coords": [
-                        44.298038,
-                        40.16068
-                  ]
-            },
-            {
-                  "name": "Saint Gayane Church",
-                  "text": "A 7th-century Armenian church, part of the UNESCO World Heritage site of Etchmiadzin.",
-                  "category": "religious",
-                  "coords": [
-                        44.291854,
-                        40.157481
-                  ]
-            },
-            {
-                  "name": "Church of the Holy Archangels",
-                  "text": "Armenian Church of the Holy Archangels in Metsamor.",
-                  "category": "religious",
-                  "coords": [
-                        44.293462,
-                        40.162609
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "city",
     parent: "AM-AR",

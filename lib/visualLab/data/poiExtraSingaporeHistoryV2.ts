@@ -585,84 +585,12 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
     id: "sg-istana-kampong-glam-history-v2", "sights": {
       "de": [
             {
-                  "name": "Indian Heritage Centre",
-                  "text": "Dieses Museum in Little India zeichnet die reiche Geschichte, Kultur und das Erbe der indischen und südasiatischen Gemeinschaften Singapurs nach.",
-                  "category": "museum",
-                  "coords": [
-                        103.852288,
-                        1.30567
-                  ]
-            },
-            {
                   "name": "Malay Heritage Centre",
                   "text": "Dieses 1843 erbaute, in einem ehemaligen Palast untergebrachte Kulturzentrum präsentiert das Erbe und die Geschichte der malaiischen Singapurer.",
                   "category": "museum",
                   "coords": [
                         103.859827,
                         1.302888
-                  ]
-            },
-            {
-                  "name": "Thekchen Choling",
-                  "text": "Dieser tibetisch-buddhistische Tempel ist bekannt für seine traditionellen Heilpraktiken und die regelmäßigen gemeinsamen Gesänge.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "Diese historische Moschee besticht durch eine einzigartige Mischung aus südindischer, mogulischer und römischer Architektur sowie eine markante Sonnenuhr über dem Eingang.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "Dieser aufwendig gestaltete Hindu-Tempel ist der furchteinflößenden Göttin Kali gewidmet und einer der ältesten im Viertel Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.852397,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "Diese für eine chinesische Gemeinde der Straits-Region gegründete Kirche besticht durch eine markante Art-déco-Fassade und einen hohen Glockenturm.",
-                  "category": "religious",
-                  "coords": [
-                        103.854033,
-                        1.307213
-                  ]
-            },
-            {
-                  "name": "Sri Srinivasa Perumal Temple",
-                  "text": "Dieser majestätische, dem Gott Vishnu geweihte Hindu-Tempel ist leicht an seinem hoch aufragenden Gopuram mit kunstvollen Götterstatuen zu erkennen.",
-                  "category": "religious",
-                  "coords": [
-                        103.856436,
-                        1.313553
-                  ]
-            },
-            {
-                  "name": "Sri Vadapathira Kaliamman Temple",
-                  "text": "Dieser farbenfrohe Hindu-Tempel ist der Göttin Kali gewidmet und bekannt für den heiligen Banyanbaum, der seinen Schrein schützt.",
-                  "category": "religious",
-                  "coords": [
-                        103.857961,
-                        1.315398
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "Diese neugotische katholische Kirche ist dem berühmten Heiligtum in Frankreich nachempfunden und wurde ursprünglich für die tamilischsprachige Gemeinde erbaut.",
-                  "category": "religious",
-                  "coords": [
-                        103.855942,
-                        1.303202
                   ]
             },
             {
@@ -803,84 +731,12 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Indian Heritage Centre",
-                  "text": "Ez a Little India negyedben található múzeum Szingapúr indiai és dél-ázsiai közösségeinek gazdag történelmét és kulturális örökségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        103.852288,
-                        1.30567
-                  ]
-            },
-            {
                   "name": "Malay Heritage Centre",
                   "text": "Az 1843-ban épült egykori palotában működő kulturális központ a szingapúri maláj közösség történelmét és örökségét mutatja be.",
                   "category": "museum",
                   "coords": [
                         103.859827,
                         1.302888
-                  ]
-            },
-            {
-                  "name": "Thekchen Choling",
-                  "text": "Ez a tibeti buddhista templom hagyományos gyógyító gyakorlatairól és rendszeres közösségi kántálásairól ismert.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "Ez a történelmi mecset a dél-indiai, a mogul és a római építészet egyedülálló keverékét kínálja, bejáratát pedig egy figyelemre méltó napóra koronázza.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "A félelmetes Káli istennőnek szentelt, bonyolult faragású hindu templom a Little India negyed egyik legrégebbi szentélye.",
-                  "category": "religious",
-                  "coords": [
-                        103.852397,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "A szorosi kínai gyülekezet számára alapított templom feltűnő Art Deco homlokzattal és egy kiemelkedő harangtoronnyal büszkélkedhet.",
-                  "category": "religious",
-                  "coords": [
-                        103.854033,
-                        1.307213
-                  ]
-            },
-            {
-                  "name": "Sri Srinivasa Perumal Temple",
-                  "text": "A Visnu istennek szentelt hatalmas hindu templom könnyen felismerhető az istenségek bonyolult szobraival díszített, magasba tornyosuló gopuramjáról.",
-                  "category": "religious",
-                  "coords": [
-                        103.856436,
-                        1.313553
-                  ]
-            },
-            {
-                  "name": "Sri Vadapathira Kaliamman Temple",
-                  "text": "Ezt a vibráló hindu templomot Káli istennőnek szentelték, és a szentélyét védelmező szent banyánfájáról nevezetes.",
-                  "category": "religious",
-                  "coords": [
-                        103.857961,
-                        1.315398
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "A franciaországi híres szentély mintájára épült neogótikus katolikus templomot eredetileg a helyi tamil nyelvű közösség számára emelték.",
-                  "category": "religious",
-                  "coords": [
-                        103.855942,
-                        1.303202
                   ]
             },
             {
@@ -1021,84 +877,12 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Indian Heritage Centre",
-                  "text": "Acest muzeu din Little India urmărește istoria, cultura și patrimoniul bogat al comunităților indiene și sud-asiatice din Singapore.",
-                  "category": "museum",
-                  "coords": [
-                        103.852288,
-                        1.30567
-                  ]
-            },
-            {
                   "name": "Malay Heritage Centre",
                   "text": "Găzduit într-un fost palat istoric construit în 1843, acest centru cultural prezintă moștenirea și istoria comunității malaeziene din Singapore.",
                   "category": "museum",
                   "coords": [
                         103.859827,
                         1.302888
-                  ]
-            },
-            {
-                  "name": "Thekchen Choling",
-                  "text": "Acest templu budist tibetan este renumit pentru practicile sale tradiționale de vindecare și pentru sesiunile regulate de incantații ale comunității.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "Această moschee istorică prezintă un amestec unic de arhitectură sud-indiană, mogulă și romană, completată de un cadran solar vizibil deasupra intrării.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "Dedicat fioroasei zeițe Kali, acest templu hindus sculptat complex este unul dintre cele mai vechi din cartierul Little India.",
-                  "category": "religious",
-                  "coords": [
-                        103.852397,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "Fondată pentru o congregație chineză din strâmtori, această biserică prezintă o fațadă Art Deco impresionantă și un turn cu clopot proeminent.",
-                  "category": "religious",
-                  "coords": [
-                        103.854033,
-                        1.307213
-                  ]
-            },
-            {
-                  "name": "Sri Srinivasa Perumal Temple",
-                  "text": "Acest grandios templu hindus dedicat zeului Vishnu este ușor de recunoscut datorită gopuram-ului său impunător, împodobit cu statui complicate ale zeităților.",
-                  "category": "religious",
-                  "coords": [
-                        103.856436,
-                        1.313553
-                  ]
-            },
-            {
-                  "name": "Sri Vadapathira Kaliamman Temple",
-                  "text": "Acest templu hindus vibrant este dedicat zeiței Kali și se remarcă prin copacul sacru banyan care îi adăpostește altarul.",
-                  "category": "religious",
-                  "coords": [
-                        103.857961,
-                        1.315398
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "Modelată după celebrul sanctuar din Franța, această biserică catolică neogotică a fost construită inițial pentru comunitatea locală vorbitoare de tamilă.",
-                  "category": "religious",
-                  "coords": [
-                        103.855942,
-                        1.303202
                   ]
             },
             {
@@ -1239,84 +1023,12 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Indian Heritage Centre",
-                  "text": "This museum in Little India traces the rich history, culture, and heritage of Singapore's Indian and South Asian communities.",
-                  "category": "museum",
-                  "coords": [
-                        103.852288,
-                        1.30567
-                  ]
-            },
-            {
                   "name": "Malay Heritage Centre",
                   "text": "Set in a historic former palace built in 1843, this cultural centre showcases the heritage and history of Malay Singaporeans.",
                   "category": "museum",
                   "coords": [
                         103.859827,
                         1.302888
-                  ]
-            },
-            {
-                  "name": "Thekchen Choling",
-                  "text": "This Tibetan Buddhist temple is renowned for its traditional healing practices and regular community chanting sessions.",
-                  "category": "religious",
-                  "coords": [
-                        103.860461,
-                        1.312016
-                  ]
-            },
-            {
-                  "name": "Masjid Abdul Gafoor",
-                  "text": "This historic mosque features a unique blend of South Indian, Moghul, and Roman architecture, complete with a notable sundial crowning its entrance.",
-                  "category": "religious",
-                  "coords": [
-                        103.853738,
-                        1.3044
-                  ]
-            },
-            {
-                  "name": "Sri Veeramakaliamman",
-                  "text": "Dedicated to the fierce goddess Kali, this intricately sculpted Hindu temple is one of the oldest in the Little India district.",
-                  "category": "religious",
-                  "coords": [
-                        103.852397,
-                        1.307932
-                  ]
-            },
-            {
-                  "name": "Kampong Kapor Methodist Church",
-                  "text": "Founded for a Straits Chinese congregation, this church features a striking Art Deco facade and a prominent bell tower.",
-                  "category": "religious",
-                  "coords": [
-                        103.854033,
-                        1.307213
-                  ]
-            },
-            {
-                  "name": "Sri Srinivasa Perumal Temple",
-                  "text": "This grand Hindu temple dedicated to Lord Vishnu is easily recognized by its towering gopuram adorned with intricate statues of deities.",
-                  "category": "religious",
-                  "coords": [
-                        103.856436,
-                        1.313553
-                  ]
-            },
-            {
-                  "name": "Sri Vadapathira Kaliamman Temple",
-                  "text": "This vibrant Hindu temple is dedicated to the goddess Kali and is notable for the sacred banyan tree sheltering its shrine.",
-                  "category": "religious",
-                  "coords": [
-                        103.857961,
-                        1.315398
-                  ]
-            },
-            {
-                  "name": "Church of Our Lady of Lourdes",
-                  "text": "Modeled after the famous sanctuary in France, this Neo-Gothic Catholic church was originally built for the local Tamil-speaking community.",
-                  "category": "religious",
-                  "coords": [
-                        103.855942,
-                        1.303202
                   ]
             },
             {
@@ -5892,15 +5604,6 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Sallim Mattar",
-                  "text": "Eine Gemeindemoschee in Singapur, die der lokalen muslimischen Bevölkerung für die täglichen Gebete dient.",
-                  "category": "religious",
-                  "coords": [
-                        103.881224,
-                        1.325753
-                  ]
-            },
-            {
                   "name": "Central Sikh Temple",
                   "text": "Ein markanter Sikh-Gurdwara aus dem Jahr 1986, der als Hauptgebetshaus der lokalen Sikh-Gemeinde dient.",
                   "category": "religious",
@@ -5910,39 +5613,12 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Elim Church Assembly Of God",
-                  "text": "Eine christliche Pfingstkirche der Denomination Assembly of God in Singapur.",
-                  "category": "religious",
-                  "coords": [
-                        103.864268,
-                        1.323896
-                  ]
-            },
-            {
                   "name": "Sri Sivan Temple",
                   "text": "Ein bekannter hinduistischer Tempel, der der Gottheit Shiva gewidmet ist und dravidische Architektur aufweist.",
                   "category": "religious",
                   "coords": [
                         103.888709,
                         1.318449
-                  ]
-            },
-            {
-                  "name": "55 Artspace",
-                  "text": "Ein intimer Galerieraum, der der Präsentation zeitgenössischer Kunstwerke gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        103.875143,
-                        1.327481
-                  ]
-            },
-            {
-                  "name": "Art Seasons Gallery",
-                  "text": "Eine zeitgenössische Kunstgalerie mit Fokus auf aufstrebende und etablierte asiatische Künstler.",
-                  "category": "museum",
-                  "coords": [
-                        103.873874,
-                        1.327515
                   ]
             },
             {
@@ -5964,30 +5640,12 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Serangoon Broadway",
-                  "text": "Ein traditionsreiches lokales Studio und Veranstaltungsort entlang des Serangoon-Abschnitts.",
-                  "category": "cultural",
-                  "coords": [
-                        103.867327,
-                        1.327098
-                  ]
-            },
-            {
                   "name": "Goodman Arts Centre",
                   "text": "Ein weitläufiges Künstlerviertel mit zahlreichen Studios, Galerien und Theaterräumen.",
                   "category": "cultural",
                   "coords": [
                         103.884969,
                         1.303952
-                  ]
-            },
-            {
-                  "name": "Buddhist Art Centre",
-                  "text": "Ein Kunstzentrum, das der Ausstellung und Erhaltung buddhistischer kultureller Artefakte und Kunstwerke gewidmet ist.",
-                  "category": "cultural",
-                  "coords": [
-                        103.878191,
-                        1.312551
                   ]
             },
             {
@@ -6164,15 +5822,6 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Sallim Mattar",
-                  "text": "Közösségi mecset Szingapúrban, amely a helyi muszlim lakosságot szolgálja a napi imák során.",
-                  "category": "religious",
-                  "coords": [
-                        103.881224,
-                        1.325753
-                  ]
-            },
-            {
                   "name": "Central Sikh Temple",
                   "text": "Egy kiemelkedő, 1986-ban épült szikh gurdwara, amely a helyi szikh közösség fő istentiszteleti helyeként szolgál.",
                   "category": "religious",
@@ -6182,39 +5831,12 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Elim Church Assembly Of God",
-                  "text": "A szingapúri Assembly of God felekezethez tartozó pünkösdi keresztény templom.",
-                  "category": "religious",
-                  "coords": [
-                        103.864268,
-                        1.323896
-                  ]
-            },
-            {
                   "name": "Sri Sivan Temple",
                   "text": "A Siva istenségnek szentelt jól ismert hindu templom, amely dravida építészettel büszkélkedhet.",
                   "category": "religious",
                   "coords": [
                         103.888709,
                         1.318449
-                  ]
-            },
-            {
-                  "name": "55 Artspace",
-                  "text": "A kortárs művészeti alkotások bemutatásának szentelt meghitt galériatér.",
-                  "category": "museum",
-                  "coords": [
-                        103.875143,
-                        1.327481
-                  ]
-            },
-            {
-                  "name": "Art Seasons Gallery",
-                  "text": "Kortárs művészeti galéria, amely a feltörekvő és elismert ázsiai művészekre fókuszál.",
-                  "category": "museum",
-                  "coords": [
-                        103.873874,
-                        1.327515
                   ]
             },
             {
@@ -6236,30 +5858,12 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Serangoon Broadway",
-                  "text": "Nagy múltú helyi stúdió és rendezvénytér a Serangoon szakaszon.",
-                  "category": "cultural",
-                  "coords": [
-                        103.867327,
-                        1.327098
-                  ]
-            },
-            {
                   "name": "Goodman Arts Centre",
                   "text": "Kiterjedt művészeti negyed számos stúdióval, galériával és színházi térrel.",
                   "category": "cultural",
                   "coords": [
                         103.884969,
                         1.303952
-                  ]
-            },
-            {
-                  "name": "Buddhist Art Centre",
-                  "text": "A buddhista kulturális leletek és műalkotások kiállításának és megőrzésének szentelt művészeti központ.",
-                  "category": "cultural",
-                  "coords": [
-                        103.878191,
-                        1.312551
                   ]
             },
             {
@@ -6436,15 +6040,6 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Sallim Mattar",
-                  "text": "O moschee comunitară din Singapore care deservește populația musulmană locală pentru rugăciunile zilnice.",
-                  "category": "religious",
-                  "coords": [
-                        103.881224,
-                        1.325753
-                  ]
-            },
-            {
                   "name": "Central Sikh Temple",
                   "text": "O gurdwara sikh proeminentă, construită în 1986, care servește drept principal lăcaș de cult pentru comunitatea sikh locală.",
                   "category": "religious",
@@ -6454,39 +6049,12 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Elim Church Assembly Of God",
-                  "text": "O biserică creștină penticostală aparținând confesiunii Assembly of God din Singapore.",
-                  "category": "religious",
-                  "coords": [
-                        103.864268,
-                        1.323896
-                  ]
-            },
-            {
                   "name": "Sri Sivan Temple",
                   "text": "Un cunoscut templu hindus dedicat zeității Shiva, cu arhitectură dravidiană.",
                   "category": "religious",
                   "coords": [
                         103.888709,
                         1.318449
-                  ]
-            },
-            {
-                  "name": "55 Artspace",
-                  "text": "Un spațiu de galerie intim dedicat prezentării operelor de artă contemporană.",
-                  "category": "museum",
-                  "coords": [
-                        103.875143,
-                        1.327481
-                  ]
-            },
-            {
-                  "name": "Art Seasons Gallery",
-                  "text": "O galerie de artă contemporană axată pe artiști asiatici emergenți și consacrați.",
-                  "category": "museum",
-                  "coords": [
-                        103.873874,
-                        1.327515
                   ]
             },
             {
@@ -6508,30 +6076,12 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Serangoon Broadway",
-                  "text": "Un studio local cu tradiție lungă și spațiu de evenimente situat pe tronsonul Serangoon.",
-                  "category": "cultural",
-                  "coords": [
-                        103.867327,
-                        1.327098
-                  ]
-            },
-            {
                   "name": "Goodman Arts Centre",
                   "text": "O enclavă artistică întinsă, cu numeroase studiouri, galerii și spații de teatru.",
                   "category": "cultural",
                   "coords": [
                         103.884969,
                         1.303952
-                  ]
-            },
-            {
-                  "name": "Buddhist Art Centre",
-                  "text": "Un centru de artă dedicat expoziției și conservării artefactelor culturale și a operelor de artă budiste.",
-                  "category": "cultural",
-                  "coords": [
-                        103.878191,
-                        1.312551
                   ]
             },
             {
@@ -6708,15 +6258,6 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Sallim Mattar",
-                  "text": "A community mosque in Singapore serving the local Muslim population for daily prayers.",
-                  "category": "religious",
-                  "coords": [
-                        103.881224,
-                        1.325753
-                  ]
-            },
-            {
                   "name": "Central Sikh Temple",
                   "text": "A prominent Sikh gurdwara built in 1986, serving as the main place of worship for the local Sikh community.",
                   "category": "religious",
@@ -6726,39 +6267,12 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Elim Church Assembly Of God",
-                  "text": "A Pentecostal Christian church belonging to the Assembly of God denomination in Singapore.",
-                  "category": "religious",
-                  "coords": [
-                        103.864268,
-                        1.323896
-                  ]
-            },
-            {
                   "name": "Sri Sivan Temple",
                   "text": "A well-known Hindu temple dedicated to the deity Shiva, featuring distinct Dravidian architecture.",
                   "category": "religious",
                   "coords": [
                         103.888709,
                         1.318449
-                  ]
-            },
-            {
-                  "name": "55 Artspace",
-                  "text": "An intimate gallery space dedicated to showcasing contemporary artworks.",
-                  "category": "museum",
-                  "coords": [
-                        103.875143,
-                        1.327481
-                  ]
-            },
-            {
-                  "name": "Art Seasons Gallery",
-                  "text": "A contemporary art gallery focusing on emerging and established Asian artists.",
-                  "category": "museum",
-                  "coords": [
-                        103.873874,
-                        1.327515
                   ]
             },
             {
@@ -6780,30 +6294,12 @@ export const poiExtraSingaporeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Serangoon Broadway",
-                  "text": "A long-established local studio and events space located along the Serangoon stretch.",
-                  "category": "cultural",
-                  "coords": [
-                        103.867327,
-                        1.327098
-                  ]
-            },
-            {
                   "name": "Goodman Arts Centre",
                   "text": "A sprawling arts enclave featuring numerous studios, galleries, and theatre spaces.",
                   "category": "cultural",
                   "coords": [
                         103.884969,
                         1.303952
-                  ]
-            },
-            {
-                  "name": "Buddhist Art Centre",
-                  "text": "An arts centre dedicated to the exhibition and preservation of Buddhist cultural artifacts and artworks.",
-                  "category": "cultural",
-                  "coords": [
-                        103.878191,
-                        1.312551
                   ]
             },
             {

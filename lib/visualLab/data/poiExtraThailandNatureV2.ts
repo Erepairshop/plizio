@@ -3368,15 +3368,6 @@ export const poiExtraThailandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Phut Phawanaram",
-                  "text": "Wat Phut Phawanaram ist ein buddhistischer Tempel, der spirituelle Ruhe inmitten der Flusslandschaft des Chao Phraya bietet.",
-                  "category": "religious",
-                  "coords": [
-                        100.610788,
-                        13.575681
-                  ]
-            },
-            {
                   "name": "Wat Sothon Nimit",
                   "text": "Wat Sothon Nimit ist ein bemerkenswerter buddhistischer Tempel, der Gläubige in der Region des Chao Phraya anzieht.",
                   "category": "religious",
@@ -3401,15 +3392,6 @@ export const poiExtraThailandNatureV2: POI[] = [
                   "coords": [
                         100.629637,
                         13.548488
-                  ]
-            },
-            {
-                  "name": "Samutprakarn Crocodile Farm & Zoo",
-                  "text": "Die Samutprakarn Crocodile Farm & Zoo in der Nähe des Chao Phraya ist als weltweit größte Krokodilfarm mit vielfältigen Tiergehegen bekannt.",
-                  "category": "recreational",
-                  "coords": [
-                        100.596311,
-                        13.571029
                   ]
             },
             {
@@ -3604,15 +3586,6 @@ export const poiExtraThailandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Phut Phawanaram",
-                  "text": "A Wat Phut Phawanaram egy buddhista templom, amely spirituális nyugalmat kínál a Csaophraja folyó tájának közepén.",
-                  "category": "religious",
-                  "coords": [
-                        100.610788,
-                        13.575681
-                  ]
-            },
-            {
                   "name": "Wat Sothon Nimit",
                   "text": "A Wat Sothon Nimit egy figyelemre méltó buddhista templom, amely a Csaophraja régióból vonzza a hívőket.",
                   "category": "religious",
@@ -3637,15 +3610,6 @@ export const poiExtraThailandNatureV2: POI[] = [
                   "coords": [
                         100.629637,
                         13.548488
-                  ]
-            },
-            {
-                  "name": "Samutprakarn Crocodile Farm & Zoo",
-                  "text": "A Csaophraja közelében található Samutprakarn Krokodilfarm és Állatkert a világ legnagyobb krokodilfarmjaként ismert, és változatos állatkifutókkal rendelkezik.",
-                  "category": "recreational",
-                  "coords": [
-                        100.596311,
-                        13.571029
                   ]
             },
             {
@@ -3840,15 +3804,6 @@ export const poiExtraThailandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Phut Phawanaram",
-                  "text": "Wat Phut Phawanaram este un templu budist care oferă liniște spirituală în mijlocul peisajului fluvial al râului Chao Phraya.",
-                  "category": "religious",
-                  "coords": [
-                        100.610788,
-                        13.575681
-                  ]
-            },
-            {
                   "name": "Wat Sothon Nimit",
                   "text": "Wat Sothon Nimit este un templu budist remarcabil care atrage credincioșii din regiunea Chao Phraya.",
                   "category": "religious",
@@ -3873,15 +3828,6 @@ export const poiExtraThailandNatureV2: POI[] = [
                   "coords": [
                         100.629637,
                         13.548488
-                  ]
-            },
-            {
-                  "name": "Samutprakarn Crocodile Farm & Zoo",
-                  "text": "Ferma de crocodili și grădina zoologică Samutprakarn de lângă Chao Phraya este cunoscută drept cea mai mare fermă de crocodili din lume, având diverse incinte pentru animale.",
-                  "category": "recreational",
-                  "coords": [
-                        100.596311,
-                        13.571029
                   ]
             },
             {
@@ -4076,15 +4022,6 @@ export const poiExtraThailandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Wat Phut Phawanaram",
-                  "text": "Wat Phut Phawanaram is a Buddhist temple offering spiritual tranquility amidst the Chao Phraya river landscape.",
-                  "category": "religious",
-                  "coords": [
-                        100.610788,
-                        13.575681
-                  ]
-            },
-            {
                   "name": "Wat Sothon Nimit",
                   "text": "Wat Sothon Nimit is a notable Buddhist temple attracting the faithful in the Chao Phraya region.",
                   "category": "religious",
@@ -4109,15 +4046,6 @@ export const poiExtraThailandNatureV2: POI[] = [
                   "coords": [
                         100.629637,
                         13.548488
-                  ]
-            },
-            {
-                  "name": "Samutprakarn Crocodile Farm & Zoo",
-                  "text": "The Samutprakarn Crocodile Farm & Zoo near the Chao Phraya is renowned as the world's largest crocodile farm, featuring diverse animal enclosures.",
-                  "category": "recreational",
-                  "coords": [
-                        100.596311,
-                        13.571029
                   ]
             },
             {
@@ -6608,60 +6536,6 @@ export const poiExtraThailandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Origin of Chao Phraya river",
-                  "text": "Dieser malerische Aussichtspunkt markiert den Zusammenfluss, an dem sich die Flüsse Ping und Nan zum mächtigen Chao Phraya River vereinen.",
-                  "category": "natural",
-                  "coords": [
-                        100.142093,
-                        15.700989
-                  ]
-            },
-            {
-                  "name": "Wat Photharam",
-                  "text": "Wat Photharam ist ein verehrter Ort der Anbetung mit klassischen thailändischen buddhistischen Architekturelementen in der Nähe der Ufer des Bueng Boraphet.",
-                  "category": "religious",
-                  "coords": [
-                        100.140503,
-                        15.704702
-                  ]
-            },
-            {
-                  "name": "Wat Nakhon Sawan Phra Aram Luang",
-                  "text": "Wat Nakhon Sawan Phra Aram Luang ist ein bekannter königlicher buddhistischer Tempel, der für seine wunderschön geschmückte Ordinationshalle im Zentrum der Stadt bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        100.13515,
-                        15.701339
-                  ]
-            },
-            {
-                  "name": "Wat Khiri Wong",
-                  "text": "Der auf einem Hügel gelegene Wat Khiri Wong verfügt über eine markante goldene Pagode, die einen weiten Panoramablick über Nakhon Sawan bietet.",
-                  "category": "religious",
-                  "coords": [
-                        100.124718,
-                        15.71872
-                  ]
-            },
-            {
-                  "name": "Cultural Hall of Nakhon Sawan",
-                  "text": "Die Kulturhalle von Nakhon Sawan fungiert als lokales Museum, das der Kunst, Geschichte und den Traditionen der umliegenden Flussgemeinden gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        100.108152,
-                        15.688577
-                  ]
-            },
-            {
-                  "name": "Dechatiwong Bridge",
-                  "text": "Die historische Dechatiwong-Brücke überspannt den Chao Phraya River und dient als wichtige Verkehrsverbindung und Wahrzeichen von Nakhon Sawan.",
-                  "category": "landmark",
-                  "coords": [
-                        100.123542,
-                        15.688614
-                  ]
-            },
-            {
                   "name": "Hat Bueng Boraphet",
                   "text": "Hat Bueng Boraphet ist ein beliebter Strand am See, der ein sandiges Erholungsgebiet an den Ufern von Thailands größtem Süßwassersumpf bietet.",
                   "category": "recreational",
@@ -6805,60 +6679,6 @@ export const poiExtraThailandNatureV2: POI[] = [
                   "coords": [
                         100.175667,
                         15.711741
-                  ]
-            },
-            {
-                  "name": "Origin of Chao Phraya river",
-                  "text": "Ez a festői kilátó jelzi azt az összefolyást, ahol a Ping és a Nan folyók egyesülnek, hogy létrehozzák a hatalmas Chao Phraya folyót.",
-                  "category": "natural",
-                  "coords": [
-                        100.142093,
-                        15.700989
-                  ]
-            },
-            {
-                  "name": "Wat Photharam",
-                  "text": "A Wat Photharam egy tisztelt istentiszteleti hely klasszikus thai buddhista építészeti elemekkel a Bueng Boraphet partjainak közelében.",
-                  "category": "religious",
-                  "coords": [
-                        100.140503,
-                        15.704702
-                  ]
-            },
-            {
-                  "name": "Wat Nakhon Sawan Phra Aram Luang",
-                  "text": "A Wat Nakhon Sawan Phra Aram Luang egy kiemelkedő királyi buddhista templom, amely a városközpontban található, gyönyörűen díszített felszentelési csarnokáról ismert.",
-                  "category": "religious",
-                  "coords": [
-                        100.13515,
-                        15.701339
-                  ]
-            },
-            {
-                  "name": "Wat Khiri Wong",
-                  "text": "A dombon magasodó Wat Khiri Wong egy lenyűgöző arany pagodával rendelkezik, amely széleskörű panorámás kilátást nyújt Nakhon Sawanra.",
-                  "category": "religious",
-                  "coords": [
-                        100.124718,
-                        15.71872
-                  ]
-            },
-            {
-                  "name": "Cultural Hall of Nakhon Sawan",
-                  "text": "A Nakhon Sawan Kulturális Csarnoka helyi múzeumként működik, amelyet a környező folyó menti közösségek művészetének, történelmének és hagyományainak szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        100.108152,
-                        15.688577
-                  ]
-            },
-            {
-                  "name": "Dechatiwong Bridge",
-                  "text": "A történelmi Dechatiwong híd a Chao Phraya folyón ível át, létfontosságú közlekedési kapcsolatként és Nakhon Sawan ikonikus nevezetességeként szolgálva.",
-                  "category": "landmark",
-                  "coords": [
-                        100.123542,
-                        15.688614
                   ]
             },
             {
@@ -7008,60 +6828,6 @@ export const poiExtraThailandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Origin of Chao Phraya river",
-                  "text": "Acest punct de belvedere pitoresc marchează confluența unde râurile Ping și Nan se unesc pentru a forma puternicul râu Chao Phraya.",
-                  "category": "natural",
-                  "coords": [
-                        100.142093,
-                        15.700989
-                  ]
-            },
-            {
-                  "name": "Wat Photharam",
-                  "text": "Wat Photharam este un lăcaș de cult venerat, prezentând elemente arhitecturale budiste thailandeze clasice lângă țărmurile Bueng Boraphet.",
-                  "category": "religious",
-                  "coords": [
-                        100.140503,
-                        15.704702
-                  ]
-            },
-            {
-                  "name": "Wat Nakhon Sawan Phra Aram Luang",
-                  "text": "Wat Nakhon Sawan Phra Aram Luang este un templu budist regal proeminent, cunoscut pentru sala sa de hirotonire frumos împodobită din centrul orașului.",
-                  "category": "religious",
-                  "coords": [
-                        100.13515,
-                        15.701339
-                  ]
-            },
-            {
-                  "name": "Wat Khiri Wong",
-                  "text": "Așezat pe un deal, Wat Khiri Wong prezintă o pagodă aurie izbitoare, care oferă vederi panoramice ample asupra orașului Nakhon Sawan.",
-                  "category": "religious",
-                  "coords": [
-                        100.124718,
-                        15.71872
-                  ]
-            },
-            {
-                  "name": "Cultural Hall of Nakhon Sawan",
-                  "text": "Sala Culturală din Nakhon Sawan funcționează ca un muzeu local dedicat artei, istoriei și tradițiilor comunităților fluviale din jur.",
-                  "category": "museum",
-                  "coords": [
-                        100.108152,
-                        15.688577
-                  ]
-            },
-            {
-                  "name": "Dechatiwong Bridge",
-                  "text": "Podul istoric Dechatiwong traversează râul Chao Phraya, servind drept o legătură vitală de transport și un reper iconic al orașului Nakhon Sawan.",
-                  "category": "landmark",
-                  "coords": [
-                        100.123542,
-                        15.688614
-                  ]
-            },
-            {
                   "name": "Hat Bueng Boraphet",
                   "text": "Hat Bueng Boraphet este o plajă populară pe malul lacului, oferind o zonă de recreere cu nisip de-a lungul țărmurilor celei mai mari mlaștini de apă dulce din Thailanda.",
                   "category": "recreational",
@@ -7205,60 +6971,6 @@ export const poiExtraThailandNatureV2: POI[] = [
                   "coords": [
                         100.175667,
                         15.711741
-                  ]
-            },
-            {
-                  "name": "Origin of Chao Phraya river",
-                  "text": "This scenic viewpoint marks the confluence where the Ping and Nan rivers merge to form the mighty Chao Phraya River.",
-                  "category": "natural",
-                  "coords": [
-                        100.142093,
-                        15.700989
-                  ]
-            },
-            {
-                  "name": "Wat Photharam",
-                  "text": "Wat Photharam is a revered place of worship featuring classic Thai Buddhist architectural elements near the shores of Bueng Boraphet.",
-                  "category": "religious",
-                  "coords": [
-                        100.140503,
-                        15.704702
-                  ]
-            },
-            {
-                  "name": "Wat Nakhon Sawan Phra Aram Luang",
-                  "text": "Wat Nakhon Sawan Phra Aram Luang is a prominent royal Buddhist temple known for its beautifully adorned ordination hall in the city center.",
-                  "category": "religious",
-                  "coords": [
-                        100.13515,
-                        15.701339
-                  ]
-            },
-            {
-                  "name": "Wat Khiri Wong",
-                  "text": "Perched on a hill, Wat Khiri Wong features a striking golden pagoda that offers sweeping panoramic views over Nakhon Sawan.",
-                  "category": "religious",
-                  "coords": [
-                        100.124718,
-                        15.71872
-                  ]
-            },
-            {
-                  "name": "Cultural Hall of Nakhon Sawan",
-                  "text": "The Cultural Hall of Nakhon Sawan operates as a local museum dedicated to the art, history, and traditions of the surrounding river communities.",
-                  "category": "museum",
-                  "coords": [
-                        100.108152,
-                        15.688577
-                  ]
-            },
-            {
-                  "name": "Dechatiwong Bridge",
-                  "text": "The historic Dechatiwong Bridge spans the Chao Phraya River, serving as a vital transport link and an iconic landmark of Nakhon Sawan.",
-                  "category": "landmark",
-                  "coords": [
-                        100.123542,
-                        15.688614
                   ]
             },
             {

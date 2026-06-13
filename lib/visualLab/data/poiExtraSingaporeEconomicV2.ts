@@ -880,15 +880,6 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Viewpoint (eastward)",
-                  "text": "Ein nach Osten ausgerichteter Aussichtspunkt im Changi Business Park, der einen weiten Blick über das landschaftlich gestaltete Geschäftsviertel bietet.",
-                  "category": "natural",
-                  "coords": [
-                        103.958617,
-                        1.313055
-                  ]
-            },
-            {
                   "name": "Viewpoint (westward)",
                   "text": "Ein Aussichtspunkt, der weite Blicke in westlicher Richtung über den Changi Business Park und die Umgebung bietet.",
                   "category": "natural",
@@ -1005,15 +996,6 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
                   "coords": [
                         103.97616,
                         1.316403
-                  ]
-            },
-            {
-                  "name": "Viewpoint (eastward)",
-                  "text": "Egy keleti fekvésű kilátópont a Changi Business Parkban, amely kiterjedt kilátást nyújt a parkosított kereskedelmi negyedre.",
-                  "category": "natural",
-                  "coords": [
-                        103.958617,
-                        1.313055
                   ]
             },
             {
@@ -1136,15 +1118,6 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Viewpoint (eastward)",
-                  "text": "Un punct de observație orientat spre est în Changi Business Park, oferind vederi largi asupra zonei comerciale amenajate.",
-                  "category": "natural",
-                  "coords": [
-                        103.958617,
-                        1.313055
-                  ]
-            },
-            {
                   "name": "Viewpoint (westward)",
                   "text": "Un punct de observație care oferă vederi spre vest asupra zonei Changi Business Park și a împrejurimilor.",
                   "category": "natural",
@@ -1261,15 +1234,6 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
                   "coords": [
                         103.97616,
                         1.316403
-                  ]
-            },
-            {
-                  "name": "Viewpoint (eastward)",
-                  "text": "An eastern-facing vantage point in Changi Business Park offering expansive views over the landscaped commercial precinct.",
-                  "category": "natural",
-                  "coords": [
-                        103.958617,
-                        1.313055
                   ]
             },
             {
@@ -1879,51 +1843,6 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dance Studio",
-                  "text": "Ein spezieller Aufführungsraum mit speziellen Schwingböden und Spiegeln für choreografische Proben.",
-                  "category": "cultural",
-                  "coords": [
-                        103.772309,
-                        1.304541
-                  ]
-            },
-            {
-                  "name": "Theatrette",
-                  "text": "Ein intimer Veranstaltungsort mit ansteigenden Sitzreihen, der für kleinere Theateraufführungen und akademische Vorträge konzipiert wurde.",
-                  "category": "cultural",
-                  "coords": [
-                        103.769502,
-                        1.305943
-                  ]
-            },
-            {
-                  "name": "Amphitheatre at Clementi Woods Park",
-                  "text": "Eine von hohen Bäumen umgebene, terrassenförmig angelegte Freilichtbühne, die einen natürlichen Rahmen für Gemeindetreffen bietet.",
-                  "category": "cultural",
-                  "coords": [
-                        103.768524,
-                        1.298583
-                  ]
-            },
-            {
-                  "name": "rumah pekerja hortpark",
-                  "text": "Dieser Aussichtspunkt blickt auf die ausgewiesenen Arbeiterunterkünfte in der Nähe der botanischen Parklandschaft.",
-                  "category": "natural",
-                  "coords": [
-                        103.761885,
-                        1.308246
-                  ]
-            },
-            {
-                  "name": "Yale-NUS Black Box Theatre",
-                  "text": "Ein flexibler, schmuckloser Aufführungsraum, der von Studenten für experimentelle Theaterproduktionen genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        103.77203,
-                        1.307501
-                  ]
-            },
-            {
                   "name": "Performing Arts Studio",
                   "text": "Ein vielseitiger Studioraum, der mit professionellen Lichtgittern für Schauspiel- und Tanzworkshops von Studenten ausgestattet ist.",
                   "category": "cultural",
@@ -2004,51 +1923,6 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
                   "coords": [
                         103.773624,
                         1.30143
-                  ]
-            },
-            {
-                  "name": "Dance Studio",
-                  "text": "Dedikált előadótér speciális rugalmas padlóval és tükrökkel a koreográfiai próbákhoz.",
-                  "category": "cultural",
-                  "coords": [
-                        103.772309,
-                        1.304541
-                  ]
-            },
-            {
-                  "name": "Theatrette",
-                  "text": "Meghitt, lépcsőzetes ülésrendű terem, amelyet kisléptékű színházi előadásokhoz és tudományos előadásokhoz terveztek.",
-                  "category": "cultural",
-                  "coords": [
-                        103.769502,
-                        1.305943
-                  ]
-            },
-            {
-                  "name": "Amphitheatre at Clementi Woods Park",
-                  "text": "A magas fákkal körülvett teraszos szabadtéri színpad természetes környezetet biztosít a közösségi összejövetelekhez.",
-                  "category": "cultural",
-                  "coords": [
-                        103.768524,
-                        1.298583
-                  ]
-            },
-            {
-                  "name": "rumah pekerja hortpark",
-                  "text": "Ez a kilátóhely a botanikus park közelében található, kijelölt munkásszállásokra néz.",
-                  "category": "natural",
-                  "coords": [
-                        103.761885,
-                        1.308246
-                  ]
-            },
-            {
-                  "name": "Yale-NUS Black Box Theatre",
-                  "text": "Rugalmas, dísztelen előadótér, amelyet a főiskolai hallgatók kísérleti drámai produkciókhoz használnak.",
-                  "category": "cultural",
-                  "coords": [
-                        103.77203,
-                        1.307501
                   ]
             },
             {
@@ -2135,51 +2009,6 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dance Studio",
-                  "text": "Un spațiu de spectacol dedicat, dotat cu podele elastice specializate și oglinzi pentru repetiții coregrafice.",
-                  "category": "cultural",
-                  "coords": [
-                        103.772309,
-                        1.304541
-                  ]
-            },
-            {
-                  "name": "Theatrette",
-                  "text": "O sală intimă, cu locuri în amfiteatru, concepută pentru spectacole de teatru la scară mică și prelegeri academice.",
-                  "category": "cultural",
-                  "coords": [
-                        103.769502,
-                        1.305943
-                  ]
-            },
-            {
-                  "name": "Amphitheatre at Clementi Woods Park",
-                  "text": "O scenă în aer liber terasată, înconjurată de copaci înalți, oferind un cadru natural pentru adunările comunitare.",
-                  "category": "cultural",
-                  "coords": [
-                        103.768524,
-                        1.298583
-                  ]
-            },
-            {
-                  "name": "rumah pekerja hortpark",
-                  "text": "Acest punct de belvedere are vedere la cazările desemnate pentru muncitori, amplasate lângă parcul botanic.",
-                  "category": "natural",
-                  "coords": [
-                        103.761885,
-                        1.308246
-                  ]
-            },
-            {
-                  "name": "Yale-NUS Black Box Theatre",
-                  "text": "Un spațiu de spectacol flexibil, neadornat, folosit de studenți pentru producții dramatice experimentale.",
-                  "category": "cultural",
-                  "coords": [
-                        103.77203,
-                        1.307501
-                  ]
-            },
-            {
                   "name": "Performing Arts Studio",
                   "text": "O sală de studio versatilă, echipată cu grile de iluminat profesionale pentru atelierele studențești de actorie și dans.",
                   "category": "cultural",
@@ -2260,51 +2089,6 @@ export const poiExtraSingaporeEconomicV2: POI[] = [
                   "coords": [
                         103.773624,
                         1.30143
-                  ]
-            },
-            {
-                  "name": "Dance Studio",
-                  "text": "A dedicated performance space featuring specialized sprung floors and mirrors for choreographic rehearsals.",
-                  "category": "cultural",
-                  "coords": [
-                        103.772309,
-                        1.304541
-                  ]
-            },
-            {
-                  "name": "Theatrette",
-                  "text": "An intimate, raked-seating venue designed for small-scale theatrical performances and academic lectures.",
-                  "category": "cultural",
-                  "coords": [
-                        103.769502,
-                        1.305943
-                  ]
-            },
-            {
-                  "name": "Amphitheatre at Clementi Woods Park",
-                  "text": "A terraced outdoor stage surrounded by tall trees, offering a natural setting for community gatherings.",
-                  "category": "cultural",
-                  "coords": [
-                        103.768524,
-                        1.298583
-                  ]
-            },
-            {
-                  "name": "rumah pekerja hortpark",
-                  "text": "This vantage point looks over the designated worker accommodations nestled near the botanical parkland.",
-                  "category": "natural",
-                  "coords": [
-                        103.761885,
-                        1.308246
-                  ]
-            },
-            {
-                  "name": "Yale-NUS Black Box Theatre",
-                  "text": "A flexible, unadorned performance space used by college students for experimental dramatic productions.",
-                  "category": "cultural",
-                  "coords": [
-                        103.77203,
-                        1.307501
                   ]
             },
             {

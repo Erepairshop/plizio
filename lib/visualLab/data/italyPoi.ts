@@ -4595,30 +4595,12 @@ export const italyCities: POI[] = [
     id: "it-gran-paradiso", "sights": {
       "de": [
             {
-                  "name": "Herbetet",
-                  "text": "Ein markanter Berggipfel in den Grajischen Alpen im Nationalpark Gran Paradiso.",
-                  "category": "landmark",
-                  "coords": [
-                        7.273839,
-                        45.544501
-                  ]
-            },
-            {
                   "name": "Cresta Gastaldi",
                   "text": "Ein felsiger Berggrat im Gran Paradiso Massiv an der Grenze zum Piemont.",
                   "category": "landmark",
                   "coords": [
                         7.27534,
                         45.514113
-                  ]
-            },
-            {
-                  "name": "Becca di Montandayné",
-                  "text": "Ein hoher Gipfel im Gran Paradiso Massiv in den italienischen Alpen.",
-                  "category": "landmark",
-                  "coords": [
-                        7.269954,
-                        45.532427
                   ]
             },
             {
@@ -4649,15 +4631,6 @@ export const italyCities: POI[] = [
                   ]
             },
             {
-                  "name": "Testa della Tribolazione",
-                  "text": "Ein Gipfel im Herzen des Gran Paradiso Massivs in Norditalien.",
-                  "category": "landmark",
-                  "coords": [
-                        7.297703,
-                        45.516322
-                  ]
-            },
-            {
                   "name": "Becca di Montcorvè",
                   "text": "Ein hoher Berg im Gran Paradiso Nationalpark, nahe dem Hauptgipfel.",
                   "category": "landmark",
@@ -4669,30 +4642,12 @@ export const italyCities: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Herbetet",
-                  "text": "Egy jellegzetes hegycsúcs a Graji-Alpokban, a Gran Paradiso Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        7.273839,
-                        45.544501
-                  ]
-            },
-            {
                   "name": "Cresta Gastaldi",
                   "text": "Egy sziklás hegygerinc a Gran Paradiso-masszívumban, Piemont határán.",
                   "category": "landmark",
                   "coords": [
                         7.27534,
                         45.514113
-                  ]
-            },
-            {
-                  "name": "Becca di Montandayné",
-                  "text": "A Gran Paradiso-masszívum egyik magas csúcsa az olasz Alpokban.",
-                  "category": "landmark",
-                  "coords": [
-                        7.269954,
-                        45.532427
                   ]
             },
             {
@@ -4723,15 +4678,6 @@ export const italyCities: POI[] = [
                   ]
             },
             {
-                  "name": "Testa della Tribolazione",
-                  "text": "Egy hegycsúcs a Gran Paradiso-masszívum szívében, Észak-Olaszországban.",
-                  "category": "landmark",
-                  "coords": [
-                        7.297703,
-                        45.516322
-                  ]
-            },
-            {
                   "name": "Becca di Montcorvè",
                   "text": "Egy magas hegy a Gran Paradiso Nemzeti Parkban, a főcsúcs közelében.",
                   "category": "landmark",
@@ -4743,30 +4689,12 @@ export const italyCities: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Herbetet",
-                  "text": "Un vârf muntos proeminent în Alpii Graici, în Parcul Național Gran Paradiso.",
-                  "category": "landmark",
-                  "coords": [
-                        7.273839,
-                        45.544501
-                  ]
-            },
-            {
                   "name": "Cresta Gastaldi",
                   "text": "O creastă muntoasă stâncoasă în masivul Gran Paradiso, la granița cu Piemont.",
                   "category": "landmark",
                   "coords": [
                         7.27534,
                         45.514113
-                  ]
-            },
-            {
-                  "name": "Becca di Montandayné",
-                  "text": "Un vârf înalt în masivul Gran Paradiso din Alpii Italieni.",
-                  "category": "landmark",
-                  "coords": [
-                        7.269954,
-                        45.532427
                   ]
             },
             {
@@ -4797,15 +4725,6 @@ export const italyCities: POI[] = [
                   ]
             },
             {
-                  "name": "Testa della Tribolazione",
-                  "text": "Un vârf în inima masivului Gran Paradiso din nordul Italiei.",
-                  "category": "landmark",
-                  "coords": [
-                        7.297703,
-                        45.516322
-                  ]
-            },
-            {
                   "name": "Becca di Montcorvè",
                   "text": "Un munte înalt în Parcul Național Gran Paradiso, aproape de vârful principal.",
                   "category": "landmark",
@@ -4817,30 +4736,12 @@ export const italyCities: POI[] = [
       ],
       "en": [
             {
-                  "name": "Herbetet",
-                  "text": "A prominent mountain peak in the Graian Alps within the Gran Paradiso National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        7.273839,
-                        45.544501
-                  ]
-            },
-            {
                   "name": "Cresta Gastaldi",
                   "text": "A rocky mountain ridge in the Gran Paradiso massif on the border with Piedmont.",
                   "category": "landmark",
                   "coords": [
                         7.27534,
                         45.514113
-                  ]
-            },
-            {
-                  "name": "Becca di Montandayné",
-                  "text": "A high peak in the Gran Paradiso massif within the Italian Alps.",
-                  "category": "landmark",
-                  "coords": [
-                        7.269954,
-                        45.532427
                   ]
             },
             {
@@ -4868,15 +4769,6 @@ export const italyCities: POI[] = [
                   "coords": [
                         7.285211,
                         45.513111
-                  ]
-            },
-            {
-                  "name": "Testa della Tribolazione",
-                  "text": "A peak in the heart of the Gran Paradiso massif in northern Italy.",
-                  "category": "landmark",
-                  "coords": [
-                        7.297703,
-                        45.516322
                   ]
             },
             {
@@ -7333,30 +7225,12 @@ export const italyCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lido Adria",
-                  "text": "Das Lido Adria in Bari ist ein Strandbad, das für einen angenehmen Aufenthalt an der adriatischen Küste sorgt.",
-                  "category": "family",
-                  "coords": [
-                        16.826953,
-                        41.137269
-                  ]
-            },
-            {
                   "name": "Lido San Francesco",
                   "text": "Das Lido San Francesco in Bari bietet als beliebtes Strandbad zahlreiche Möglichkeiten für einen Familientag am Meer.",
                   "category": "family",
                   "coords": [
                         16.832389,
                         41.136095
-                  ]
-            },
-            {
-                  "name": "Lido Il Trampolino",
-                  "text": "Das Lido Il Trampolino in Bari zeichnet sich durch seine einladende Atmosphäre für einen Tag am Strand aus.",
-                  "category": "family",
-                  "coords": [
-                        16.829352,
-                        41.136918
                   ]
             },
             {
@@ -7641,30 +7515,12 @@ export const italyCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lido Adria",
-                  "text": "A bari Lido Adria egy tengerparti fürdőhely, amely kellemes időtöltést biztosít az adriai parton.",
-                  "category": "family",
-                  "coords": [
-                        16.826953,
-                        41.137269
-                  ]
-            },
-            {
                   "name": "Lido San Francesco",
                   "text": "A bari Lido San Francesco népszerű strandüdülőként számos lehetőséget kínál egy tengerparti családi naphoz.",
                   "category": "family",
                   "coords": [
                         16.832389,
                         41.136095
-                  ]
-            },
-            {
-                  "name": "Lido Il Trampolino",
-                  "text": "A bari Lido Il Trampolino hívogató légkörével tűnik ki a tengerparti pihenéshez.",
-                  "category": "family",
-                  "coords": [
-                        16.829352,
-                        41.136918
                   ]
             },
             {
@@ -7949,30 +7805,12 @@ export const italyCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lido Adria",
-                  "text": "Lido Adria din Bari este o stațiune de plajă care asigură un sejur plăcut pe coasta adriatică.",
-                  "category": "family",
-                  "coords": [
-                        16.826953,
-                        41.137269
-                  ]
-            },
-            {
                   "name": "Lido San Francesco",
                   "text": "Lido San Francesco din Bari oferă, ca stațiune populară de plajă, numeroase opțiuni pentru o zi în familie la mare.",
                   "category": "family",
                   "coords": [
                         16.832389,
                         41.136095
-                  ]
-            },
-            {
-                  "name": "Lido Il Trampolino",
-                  "text": "Lido Il Trampolino din Bari se remarcă prin atmosfera sa primitoare pentru o zi la plajă.",
-                  "category": "family",
-                  "coords": [
-                        16.829352,
-                        41.136918
                   ]
             },
             {
@@ -8257,30 +8095,12 @@ export const italyCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lido Adria",
-                  "text": "Lido Adria in Bari is a beach resort providing a pleasant stay on the Adriatic coast.",
-                  "category": "family",
-                  "coords": [
-                        16.826953,
-                        41.137269
-                  ]
-            },
-            {
                   "name": "Lido San Francesco",
                   "text": "Lido San Francesco in Bari, as a popular beach resort, offers many options for a family day by the sea.",
                   "category": "family",
                   "coords": [
                         16.832389,
                         41.136095
-                  ]
-            },
-            {
-                  "name": "Lido Il Trampolino",
-                  "text": "Lido Il Trampolino in Bari stands out for its welcoming atmosphere for a day at the beach.",
-                  "category": "family",
-                  "coords": [
-                        16.829352,
-                        41.136918
                   ]
             },
             {
@@ -10992,15 +10812,6 @@ export const italyCities: POI[] = [
                   ]
             },
             {
-                  "name": "Spiaggia di Giorgino",
-                  "text": "In der Nähe des Industriehafens von Cagliari gelegen, bietet die Spiaggia di Giorgino ein sehr traditionelles Stück sardisches Küstenleben. Dieser Strand wird stark von Einheimischen frequentiert, was eine authentische und lebhafte Atmosphäre voller Gemeinschaftsgefühl schafft. Besucher können hier echte Meereserholung erleben, im Sand entspannen und im ruhigen Wasser schwimmen. Es ist ein idealer Ort, um sich unter die Bewohner zu mischen und den unpolierten Charme der städtischen Küstenlinie zu erleben.",
-                  "category": "recreational",
-                  "coords": [
-                        9.091567,
-                        39.211984
-                  ]
-            },
-            {
                   "name": "Chiesa di Santa Lucia",
                   "text": "Archäologische Überreste der ehemaligen Kirche Santa Lucia im historischen Zentrum von Cagliari.",
                   "category": "historical",
@@ -11432,15 +11243,6 @@ export const italyCities: POI[] = [
                   "coords": [
                         9.111145,
                         39.215427
-                  ]
-            },
-            {
-                  "name": "Spiaggia di Giorgino",
-                  "text": "A cagliari ipari kikötő közelében található Spiaggia di Giorgino a szardíniai tengerparti élet egy rendkívül hagyományos szeletét kínálja. Ezt a strandot a helyiek kifejezetten kedvelik, így autentikus, élettel teli, igazi közösségi atmoszféra várja az ide érkezőket. A látogatók megtapasztalhatják a hamisítatlan tengerparti kikapcsolódást, heverészhetnek a homokban és úszhatnak a nyugodt vízben. Ideális helyszín arra, hogy elvegyüljünk a lakosok között, és átéljük a város partvidékének nyers, csiszolatlan báját.",
-                  "category": "recreational",
-                  "coords": [
-                        9.091567,
-                        39.211984
                   ]
             },
             {
@@ -11878,15 +11680,6 @@ export const italyCities: POI[] = [
                   ]
             },
             {
-                  "name": "Spiaggia di Giorgino",
-                  "text": "Situată aproape de portul industrial din Cagliari, Spiaggia di Giorgino oferă o felie foarte tradițională din viața de coastă a Sardiniei. Această plajă este puternic favorizată de localnici, creând o atmosferă autentică și plină de viață, cu un spirit comunitar puternic. Vizitatorii pot experimenta o recreere autentică pe litoral, relaxându-se pe nisip și înotând în apele calme. Este un loc ideal pentru a interacționa cu locuitorii și a experimenta farmecul neșlefuit al marginii de coastă a orașului.",
-                  "category": "recreational",
-                  "coords": [
-                        9.091567,
-                        39.211984
-                  ]
-            },
-            {
                   "name": "Chiesa di Santa Lucia",
                   "text": "Vestigii arheologice ale fostei biserici Santa Lucia din centrul istoric al orașului Cagliari.",
                   "category": "historical",
@@ -12321,15 +12114,6 @@ export const italyCities: POI[] = [
                   ]
             },
             {
-                  "name": "Spiaggia di Giorgino",
-                  "text": "Located close to the industrial port of Cagliari, Spiaggia di Giorgino offers a very traditional slice of Sardinian coastal life. This beach is heavily favored by locals, creating an authentic and lively atmosphere full of community spirit. Visitors can experience genuine seaside recreation, lounging on the sand and swimming in the calm waters. It is an ideal spot to mix with the residents and experience the unpolished charm of the city's coastal edge.",
-                  "category": "recreational",
-                  "coords": [
-                        9.091567,
-                        39.211984
-                  ]
-            },
-            {
                   "name": "Chiesa di Santa Lucia",
                   "text": "Archaeological remains of the former Santa Lucia church in the historical center of Cagliari.",
                   "category": "historical",
@@ -12670,7 +12454,772 @@ export const italyCities: POI[] = [
     },
   },
   {
-    id: "it-amalfi", "sights": {"de": [{"name": "Arsenale di Amalfi", "text": "Eine ehemalige mittelalterliche Werft, in der heute das Schifffahrtsmuseum von Amalfi untergebracht ist.", "category": "museum", "coords": [14.602051, 40.633809]}, {"name": "Basilica del Crocifisso - Museo Diocesiano", "text": "Das Museum in der Basilika del Crocifisso zeigt religiöse Kunstwerke und Schätze der Diözese Amalfi.", "category": "museum", "coords": [14.603091, 40.634608]}, {"name": "Museo La Valle dei Mulini", "text": "Dieses Museum widmet sich der Geschichte der Papierherstellung im Tal der Mühlen von Amalfi.", "category": "museum", "coords": [14.597179, 40.641044]}, {"name": "Museo Duomo", "text": "Das Dommuseum präsentiert die bedeutendsten Kunstschätze und Reliquien der Kathedrale von Amalfi.", "category": "museum", "coords": [14.611876, 40.649278]}, {"name": "Auditorium Oscar Niemeyer", "text": "Dieses moderne Auditorium wurde vom berühmten Architekten Oscar Niemeyer entworfen und dient als Konzertsaal.", "category": "cultural", "coords": [14.614336, 40.650903]}, {"name": "Museo della Carta", "text": "Das Papiermuseum befindet sich in einer historischen Papierfabrik und zeigt die traditionelle Herstellungstechnik.", "category": "museum", "coords": [14.599698, 40.639712]}, {"name": "Castello Lauritano", "text": "Diese historische Festung bietet einen weiten Panoramablick über die Küste von Amalfi.", "category": "castle", "coords": [14.576023, 40.627398]}, {"name": "Il Ninfeo - Villa Romana", "text": "Diese archäologische Stätte umfasst die Überreste eines Nymphäums aus einer antiken römischen Villa.", "category": "historical", "coords": [14.602137, 40.634848]}, {"name": "Villa Marittima Archeologica Romana", "text": "Dieses Museum bewahrt die archäologischen Funde einer antiken römischen Seevilla an der Küste.", "category": "museum", "coords": [14.626073, 40.650569]}, {"name": "Pascal", "text": "Dieses Museum präsentiert die feine lokale Keramikkunst, die für die Region Amalfi charakteristisch ist.", "category": "museum", "coords": [14.611708, 40.65022]}, {"name": "Escher in Atrani", "text": "Dieses Museum widmet sich dem Werk von M.C. Escher, der sich oft von der Architektur in Atrani inspirieren ließ.", "category": "museum", "coords": [14.608432, 40.636602]}, {"name": "Spiaggia Duoglio", "text": "Versteckt in der Nähe von Amalfi, ist die Spiaggia Duoglio ein spektakulärer Kieselstrand, der über den lohnenden Abstieg einer langen Treppe erreichbar ist. Das klare Wasser und die steilen Klippen, die die Bucht umgeben, schaffen eine intime und äußerst malerische Atmosphäre. Badegäste erwarten fantastische Bedingungen zum Schwimmen und Entspannen in einer idyllischen, abgeschiedenen Umgebung. Das Tragen von vernünftigem Schuhwerk ist ratsam, um die Stufen bequem zu bewältigen, bevor man dieses markante Juwel des Mittelmeers genießt.", "category": "recreational", "coords": [14.58833, 40.626]}, {"name": "Castiglione", "text": "Ein kleiner Sand- und Kiesstrand in der Nähe von Atrani an der Amalfiküste.", "category": "recreational", "coords": [14.610896, 40.636836]}, {"name": "Spiaggia della Vite", "text": "Versteckt an der malerischen Amalfiküste liegt die Spiaggia della Vite als wahres Refugium fernab des Trubels. Dieser abgelegene Küstenabschnitt ist oft nur über das Wasser mit dem Boot erreichbar und verspricht absolute Ruhe. Besucher können sich auf entspannte Stunden am Tyrrhenischen Meer freuen. Ein Besuch lohnt sich besonders für diejenigen, die ein stilles Naturerlebnis in Italien suchen.", "category": "recreational", "coords": [14.577532, 40.618662]}, {"name": "Torre Saracena", "text": "Ein historischer Wehrturm an der Küste von Amalfi, der einst der Verteidigung diente.", "category": "castle", "coords": [14.606956, 40.632933]}, {"name": "Castello Mezzacapo", "text": "Eine markante Burgruine mit Blick auf das Meer in der Nähe von Maiori.", "category": "castle", "coords": [14.633244, 40.648371]}, {"name": "Riserva naturale Valle delle Ferriere", "text": "Ein geschütztes Naturreservat oberhalb von Amalfi mit Wasserfällen und seltener Flora.", "category": "natural", "coords": [14.580061, 40.660224]}, {"name": "Balnea", "text": "Archäologische Überreste antiker Bäder, die Zeugnis von der römischen Geschichte der Region ablegen.", "category": "historical", "coords": [14.613223, 40.648911]}, {"name": "Terrazza dell'Infinito", "text": "Ein berühmter Aussichtspunkt in der Villa Cimbrone in Ravello mit Panoramablick auf das Meer.", "category": "natural", "coords": [14.610113, 40.642101]}, {"name": "Basilica di Santa Trofimena", "text": "Eine bedeutende Barockkirche in Minori, die den Reliquien der Heiligen Trofimena gewidmet ist.", "category": "religious", "coords": [14.627934, 40.650377]}, {"name": "Duomo di San Lorenzo", "text": "Die Hauptkirche von Scala, der ältesten Stadt an der Amalfiküste.", "category": "religious", "coords": [14.608195, 40.653514]}, {"name": "Torre di Pogerola", "text": "Ein historischer Aussichtsturm im Bergdorf Pogerola oberhalb von Amalfi.", "category": "tower", "coords": [14.597813, 40.635427]}], "hu": [{"name": "Arsenale di Amalfi", "text": "Egykori középkori hajógyár, amely ma Amalfi tengerészeti múzeumának ad otthont.", "category": "museum", "coords": [14.602051, 40.633809]}, {"name": "Basilica del Crocifisso - Museo Diocesiano", "text": "A Basilica del Crocifisso épületében található múzeum Amalfi vallási művészeti kincseit mutatja be.", "category": "museum", "coords": [14.603091, 40.634608]}, {"name": "Museo La Valle dei Mulini", "text": "Ez a múzeum az amalfi Malmok völgyében zajló papírgyártás történetét mutatja be.", "category": "museum", "coords": [14.597179, 40.641044]}, {"name": "Museo Duomo", "text": "A dóm múzeuma az amalfi székesegyház legfontosabb művészeti kincseit és ereklyéit mutatja be.", "category": "museum", "coords": [14.611876, 40.649278]}, {"name": "Auditorium Oscar Niemeyer", "text": "Ezt a modern auditóriumot a híres építész, Oscar Niemeyer tervezte, és koncertteremként működik.", "category": "cultural", "coords": [14.614336, 40.650903]}, {"name": "Museo della Carta", "text": "A papírmúzeum egy történelmi papírmalomban található, és a hagyományos gyártási technikákat mutatja be.", "category": "museum", "coords": [14.599698, 40.639712]}, {"name": "Castello Lauritano", "text": "Ez a történelmi erődítmény széles panorámát kínál az Amalfi-partra.", "category": "castle", "coords": [14.576023, 40.627398]}, {"name": "Il Ninfeo - Villa Romana", "text": "Ez a régészeti lelőhely egy ókori római villa díszkútjának (nymphäum) maradványait foglalja magában.", "category": "historical", "coords": [14.602137, 40.634848]}, {"name": "Villa Marittima Archeologica Romana", "text": "Ez a múzeum egy ókori római tengerparti villa régészeti leleteit őrzi és mutatja be.", "category": "museum", "coords": [14.626073, 40.650569]}, {"name": "Pascal", "text": "Ez a múzeum a környékre jellemző finom helyi kerámiaművészetet mutatja be.", "category": "museum", "coords": [14.611708, 40.65022]}, {"name": "Escher in Atrani", "text": "Ez a múzeum M.C. Escher munkásságának szentelt helyszín, akit gyakran ihletett meg Atrani építészete.", "category": "museum", "coords": [14.608432, 40.636602]}, {"name": "Spiaggia Duoglio", "text": "Az Amalfi közelében megbúvó Spiaggia Duoglio egy látványos kavicsos strand, amely egy hosszú, de megéri a fáradságot jelentő lépcsősoron érhető el. Az öblöt körülvevő tiszta víz és meredek sziklák meghitt és rendkívül festői atmoszférát teremtenek. A fürdőzők fantasztikus körülményekre számíthatnak az úszáshoz és a kikapcsolódáshoz ebben az idilli, eldugott környezetben. Érdemes kényelmes cipőt viselni a lépcsők leküzdéséhez, mielőtt átadnánk magunkat ennek a lenyűgöző mediterrán gyöngyszemnek.", "category": "recreational", "coords": [14.58833, 40.626]}, {"name": "Castiglione", "text": "Egy kis homokos és kavicsos strand Atrani közelében, az Amalfi-parton.", "category": "recreational", "coords": [14.610896, 40.636836]}, {"name": "Spiaggia della Vite", "text": "Az Amalfi-part festői környezetében megbúvó Spiaggia della Vite egy igazi menedék a nyüzsgés elől. Ez a félreeső partszakasz gyakran csak hajóval közelíthető meg a tenger felől, így teljes nyugalmat ígér. A látogatók pihentető órákra számíthatnak a Tirrén-tenger partján. Érdemes azoknak felkeresni, akik egy csendes olaszországi természetközeli élményre vágynak.", "category": "recreational", "coords": [14.577532, 40.618662]}, {"name": "Torre Saracena", "text": "Történelmi őrtorony Amalfi partjainál, amely egykor védelmi célokat szolgált.", "category": "castle", "coords": [14.606956, 40.632933]}, {"name": "Castello Mezzacapo", "text": "Egy jellegzetes várkastély a tengerre néző kilátással Maiori közelében.", "category": "castle", "coords": [14.633244, 40.648371]}, {"name": "Riserva naturale Valle delle Ferriere", "text": "Amalfi felett fekvő természetvédelmi terület vízesésekkel és ritka növényvilággal.", "category": "natural", "coords": [14.580061, 40.660224]}, {"name": "Balnea", "text": "Antik fürdők régészeti maradványai, amelyek a régió római kori múltját idézik.", "category": "historical", "coords": [14.613223, 40.648911]}, {"name": "Terrazza dell'Infinito", "text": "A ravellói Villa Cimbrone híres kilátóterasza lenyűgöző tengeri panorámával.", "category": "natural", "coords": [14.610113, 40.642101]}, {"name": "Basilica di Santa Trofimena", "text": "Minori jelentős barokk temploma, amelyet Szent Trofimena ereklyéinek szenteltek.", "category": "religious", "coords": [14.627934, 40.650377]}, {"name": "Duomo di San Lorenzo", "text": "Scala központjában található templom, amely az Amalfi-part legrégebbi városa.", "category": "religious", "coords": [14.608195, 40.653514]}, {"name": "Torre di Pogerola", "text": "Történelmi kilátótorony az Amalfi felett fekvő Pogerola hegyi faluban.", "category": "tower", "coords": [14.597813, 40.635427]}], "ro": [{"name": "Arsenale di Amalfi", "text": "Un fost șantier naval medieval, care găzduiește astăzi muzeul maritim din Amalfi.", "category": "museum", "coords": [14.602051, 40.633809]}, {"name": "Basilica del Crocifisso - Museo Diocesiano", "text": "Muzeul situat în Basilica del Crocifisso expune obiecte de artă religioasă și comori ale diecezei din Amalfi.", "category": "museum", "coords": [14.603091, 40.634608]}, {"name": "Museo La Valle dei Mulini", "text": "Acest muzeu este dedicat istoriei fabricării hârtiei în Valea Morilor din Amalfi.", "category": "museum", "coords": [14.597179, 40.641044]}, {"name": "Museo Duomo", "text": "Muzeul Domului prezintă cele mai importante comori de artă și relicve ale catedralei din Amalfi.", "category": "museum", "coords": [14.611876, 40.649278]}, {"name": "Auditorium Oscar Niemeyer", "text": "Acest auditorium modern a fost proiectat de celebrul arhitect Oscar Niemeyer și servește drept sală de concerte.", "category": "cultural", "coords": [14.614336, 40.650903]}, {"name": "Museo della Carta", "text": "Muzeul Hârtiei este situat într-o moară istorică și prezintă tehnicile tradiționale de producție.", "category": "museum", "coords": [14.599698, 40.639712]}, {"name": "Castello Lauritano", "text": "Această fortăreață istorică oferă o vedere panoramică vastă asupra coastei Amalfi.", "category": "castle", "coords": [14.576023, 40.627398]}, {"name": "Il Ninfeo - Villa Romana", "text": "Acest sit arheologic cuprinde vestigiile unui nymphaeum dintr-o vilă romană antică.", "category": "historical", "coords": [14.602137, 40.634848]}, {"name": "Villa Marittima Archeologica Romana", "text": "Acest muzeu păstrează vestigiile arheologice ale unei foste vile maritime romane de pe coastă.", "category": "museum", "coords": [14.626073, 40.650569]}, {"name": "Pascal", "text": "Acest muzeu prezintă arta ceramică locală fină, caracteristică regiunii Amalfi.", "category": "museum", "coords": [14.611708, 40.65022]}, {"name": "Escher in Atrani", "text": "Acest muzeu este dedicat operei lui M.C. Escher, care s-a inspirat adesea din arhitectura din Atrani.", "category": "museum", "coords": [14.608432, 40.636602]}, {"name": "Spiaggia Duoglio", "text": "Ascunsă lângă Amalfi, Spiaggia Duoglio este o plajă de pietriș spectaculoasă, accesibilă printr-o coborâre plină de satisfacții pe o scară lungă. Apele limpezi și stâncile abrupte care înconjoară golful creează o atmosferă intimă și extrem de pitorească. Iubitorii de plajă se pot aștepta la condiții fantastice pentru înot și relaxare într-un cadru idilic, retras. Purtarea unor pantofi adecvați este o idee bună pentru a aborda confortabil scările înainte de a vă bucura de această bijuterie mediteraneană impresionantă.", "category": "recreational", "coords": [14.58833, 40.626]}, {"name": "Castiglione", "text": "O mică plajă cu nisip și pietriș situată lângă Atrani, pe Coasta Amalfi.", "category": "recreational", "coords": [14.610896, 40.636836]}, {"name": "Spiaggia della Vite", "text": "Ascunsă pe pitoreasca Coastă Amalfi, Spiaggia della Vite este un adevărat refugiu departe de agitație. Această secțiune retrasă de coastă este adesea accesibilă doar cu barca pe apă, promițând liniște deplină. Vizitatorii se pot aștepta la ore de relaxare la Marea Tireniană. O vizită este recomandată în special celor care caută o experiență naturală tăcută în Italia.", "category": "recreational", "coords": [14.577532, 40.618662]}, {"name": "Torre Saracena", "text": "Un turn de veghe istoric pe coasta Amalfi, care servea odinioară pentru apărare.", "category": "castle", "coords": [14.606956, 40.632933]}, {"name": "Castello Mezzacapo", "text": "Un castel distinctiv cu vedere la mare situat lângă localitatea Maiori.", "category": "castle", "coords": [14.633244, 40.648371]}, {"name": "Riserva naturale Valle delle Ferriere", "text": "O rezervație naturală protejată deasupra orașului Amalfi, cu cascade și floră rară.", "category": "natural", "coords": [14.580061, 40.660224]}, {"name": "Balnea", "text": "Vestigii arheologice ale unor băi antice care atestă istoria romană a regiunii.", "category": "historical", "coords": [14.613223, 40.648911]}, {"name": "Terrazza dell'Infinito", "text": "Un punct de belvedere faimos în Villa Cimbrone din Ravello, cu vedere panoramică la mare.", "category": "natural", "coords": [14.610113, 40.642101]}, {"name": "Basilica di Santa Trofimena", "text": "O biserică barocă importantă din Minori dedicată moaștelor Sfintei Trofimena.", "category": "religious", "coords": [14.627934, 40.650377]}, {"name": "Duomo di San Lorenzo", "text": "Biserica principală din Scala, cel mai vechi oraș de pe Coasta Amalfi.", "category": "religious", "coords": [14.608195, 40.653514]}, {"name": "Torre di Pogerola", "text": "Un turn istoric de observație în satul de munte Pogerola, situat deasupra orașului Amalfi.", "category": "tower", "coords": [14.597813, 40.635427]}], "en": [{"name": "Arsenale di Amalfi", "text": "A former medieval shipyard that now houses the maritime museum of Amalfi.", "category": "museum", "coords": [14.602051, 40.633809]}, {"name": "Basilica del Crocifisso - Museo Diocesiano", "text": "Located in the Basilica del Crocifisso, this museum displays religious art and treasures of the Diocese of Amalfi.", "category": "museum", "coords": [14.603091, 40.634608]}, {"name": "Museo La Valle dei Mulini", "text": "This museum is dedicated to the history of paper production in Amalfi's Valley of the Mills.", "category": "museum", "coords": [14.597179, 40.641044]}, {"name": "Museo Duomo", "text": "The Cathedral Museum presents the most important art treasures and relics of the Amalfi Cathedral.", "category": "museum", "coords": [14.611876, 40.649278]}, {"name": "Auditorium Oscar Niemeyer", "text": "This modern auditorium was designed by the famous architect Oscar Niemeyer and serves as a concert hall.", "category": "cultural", "coords": [14.614336, 40.650903]}, {"name": "Museo della Carta", "text": "The Paper Museum is located in a historic paper mill and demonstrates traditional production techniques.", "category": "museum", "coords": [14.599698, 40.639712]}, {"name": "Castello Lauritano", "text": "This historic fortress offers a wide panoramic view over the Amalfi Coast.", "category": "castle", "coords": [14.576023, 40.627398]}, {"name": "Il Ninfeo - Villa Romana", "text": "This archaeological site includes the remains of a nymphaeum from an ancient Roman villa.", "category": "historical", "coords": [14.602137, 40.634848]}, {"name": "Villa Marittima Archeologica Romana", "text": "This museum preserves the archaeological findings of an ancient Roman maritime villa on the coast.", "category": "museum", "coords": [14.626073, 40.650569]}, {"name": "Pascal", "text": "This museum showcases the fine local ceramic art characteristic of the Amalfi region.", "category": "museum", "coords": [14.611708, 40.65022]}, {"name": "Escher in Atrani", "text": "This museum is dedicated to the work of M.C. Escher, who was often inspired by the architecture of Atrani.", "category": "museum", "coords": [14.608432, 40.636602]}, {"name": "Spiaggia Duoglio", "text": "Tucked away near Amalfi, Spiaggia Duoglio is a spectacular pebble beach accessible by a rewarding descent down a long staircase. The clear waters and steep cliffs surrounding the cove create an intimate and highly picturesque atmosphere. Beachgoers can expect fantastic conditions for swimming and lounging in an idyllic, secluded setting. Wearing sensible shoes is a good idea to tackle the stairs comfortably before enjoying this striking Mediterranean gem.", "category": "recreational", "coords": [14.58833, 40.626]}, {"name": "Castiglione", "text": "A small sand and pebble beach located near Atrani on the Amalfi Coast.", "category": "recreational", "coords": [14.610896, 40.636836]}, {"name": "Spiaggia della Vite", "text": "Hidden away on the picturesque Amalfi Coast, Spiaggia della Vite serves as a true refuge from the hustle and bustle. This secluded stretch of coastline is often only accessible by boat, promising absolute tranquility. Visitors can look forward to relaxing hours by the Tyrrhenian Sea. It is a worthwhile destination for anyone seeking a quiet nature experience in Italy.", "category": "recreational", "coords": [14.577532, 40.618662]}, {"name": "Torre Saracena", "text": "A historic watchtower on the Amalfi coast that once served defensive purposes.", "category": "castle", "coords": [14.606956, 40.632933]}, {"name": "Castello Mezzacapo", "text": "A distinctive castle overlooking the sea located near the town of Maiori.", "category": "castle", "coords": [14.633244, 40.648371]}, {"name": "Riserva naturale Valle delle Ferriere", "text": "A protected nature reserve above Amalfi featuring waterfalls and rare flora.", "category": "natural", "coords": [14.580061, 40.660224]}, {"name": "Balnea", "text": "Archaeological remains of ancient baths testifying to the Roman history of the region.", "category": "historical", "coords": [14.613223, 40.648911]}, {"name": "Terrazza dell'Infinito", "text": "A famous viewpoint at Villa Cimbrone in Ravello offering panoramic sea views.", "category": "natural", "coords": [14.610113, 40.642101]}, {"name": "Basilica di Santa Trofimena", "text": "A significant Baroque church in Minori dedicated to the relics of Saint Trofimena.", "category": "religious", "coords": [14.627934, 40.650377]}, {"name": "Duomo di San Lorenzo", "text": "The main church of Scala, the oldest town on the Amalfi Coast.", "category": "religious", "coords": [14.608195, 40.653514]}, {"name": "Torre di Pogerola", "text": "A historic observation tower in the mountain village of Pogerola above Amalfi.", "category": "tower", "coords": [14.597813, 40.635427]}]},
+    id: "it-amalfi", "sights": {
+      "de": [
+            {
+                  "name": "Arsenale di Amalfi",
+                  "text": "Eine ehemalige mittelalterliche Werft, in der heute das Schifffahrtsmuseum von Amalfi untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.602051,
+                        40.633809
+                  ]
+            },
+            {
+                  "name": "Basilica del Crocifisso - Museo Diocesiano",
+                  "text": "Das Museum in der Basilika del Crocifisso zeigt religiöse Kunstwerke und Schätze der Diözese Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.603091,
+                        40.634608
+                  ]
+            },
+            {
+                  "name": "Museo La Valle dei Mulini",
+                  "text": "Dieses Museum widmet sich der Geschichte der Papierherstellung im Tal der Mühlen von Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.597179,
+                        40.641044
+                  ]
+            },
+            {
+                  "name": "Museo Duomo",
+                  "text": "Das Dommuseum präsentiert die bedeutendsten Kunstschätze und Reliquien der Kathedrale von Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.611876,
+                        40.649278
+                  ]
+            },
+            {
+                  "name": "Museo della Carta",
+                  "text": "Das Papiermuseum befindet sich in einer historischen Papierfabrik und zeigt die traditionelle Herstellungstechnik.",
+                  "category": "museum",
+                  "coords": [
+                        14.599698,
+                        40.639712
+                  ]
+            },
+            {
+                  "name": "Castello Lauritano",
+                  "text": "Diese historische Festung bietet einen weiten Panoramablick über die Küste von Amalfi.",
+                  "category": "castle",
+                  "coords": [
+                        14.576023,
+                        40.627398
+                  ]
+            },
+            {
+                  "name": "Il Ninfeo - Villa Romana",
+                  "text": "Diese archäologische Stätte umfasst die Überreste eines Nymphäums aus einer antiken römischen Villa.",
+                  "category": "historical",
+                  "coords": [
+                        14.602137,
+                        40.634848
+                  ]
+            },
+            {
+                  "name": "Villa Marittima Archeologica Romana",
+                  "text": "Dieses Museum bewahrt die archäologischen Funde einer antiken römischen Seevilla an der Küste.",
+                  "category": "museum",
+                  "coords": [
+                        14.626073,
+                        40.650569
+                  ]
+            },
+            {
+                  "name": "Pascal",
+                  "text": "Dieses Museum präsentiert die feine lokale Keramikkunst, die für die Region Amalfi charakteristisch ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.611708,
+                        40.65022
+                  ]
+            },
+            {
+                  "name": "Escher in Atrani",
+                  "text": "Dieses Museum widmet sich dem Werk von M.C. Escher, der sich oft von der Architektur in Atrani inspirieren ließ.",
+                  "category": "museum",
+                  "coords": [
+                        14.608432,
+                        40.636602
+                  ]
+            },
+            {
+                  "name": "Spiaggia Duoglio",
+                  "text": "Versteckt in der Nähe von Amalfi, ist die Spiaggia Duoglio ein spektakulärer Kieselstrand, der über den lohnenden Abstieg einer langen Treppe erreichbar ist. Das klare Wasser und die steilen Klippen, die die Bucht umgeben, schaffen eine intime und äußerst malerische Atmosphäre. Badegäste erwarten fantastische Bedingungen zum Schwimmen und Entspannen in einer idyllischen, abgeschiedenen Umgebung. Das Tragen von vernünftigem Schuhwerk ist ratsam, um die Stufen bequem zu bewältigen, bevor man dieses markante Juwel des Mittelmeers genießt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.58833,
+                        40.626
+                  ]
+            },
+            {
+                  "name": "Castiglione",
+                  "text": "Ein kleiner Sand- und Kiesstrand in der Nähe von Atrani an der Amalfiküste.",
+                  "category": "recreational",
+                  "coords": [
+                        14.610896,
+                        40.636836
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Vite",
+                  "text": "Versteckt an der malerischen Amalfiküste liegt die Spiaggia della Vite als wahres Refugium fernab des Trubels. Dieser abgelegene Küstenabschnitt ist oft nur über das Wasser mit dem Boot erreichbar und verspricht absolute Ruhe. Besucher können sich auf entspannte Stunden am Tyrrhenischen Meer freuen. Ein Besuch lohnt sich besonders für diejenigen, die ein stilles Naturerlebnis in Italien suchen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.577532,
+                        40.618662
+                  ]
+            },
+            {
+                  "name": "Torre Saracena",
+                  "text": "Ein historischer Wehrturm an der Küste von Amalfi, der einst der Verteidigung diente.",
+                  "category": "castle",
+                  "coords": [
+                        14.606956,
+                        40.632933
+                  ]
+            },
+            {
+                  "name": "Castello Mezzacapo",
+                  "text": "Eine markante Burgruine mit Blick auf das Meer in der Nähe von Maiori.",
+                  "category": "castle",
+                  "coords": [
+                        14.633244,
+                        40.648371
+                  ]
+            },
+            {
+                  "name": "Riserva naturale Valle delle Ferriere",
+                  "text": "Ein geschütztes Naturreservat oberhalb von Amalfi mit Wasserfällen und seltener Flora.",
+                  "category": "natural",
+                  "coords": [
+                        14.580061,
+                        40.660224
+                  ]
+            },
+            {
+                  "name": "Balnea",
+                  "text": "Archäologische Überreste antiker Bäder, die Zeugnis von der römischen Geschichte der Region ablegen.",
+                  "category": "historical",
+                  "coords": [
+                        14.613223,
+                        40.648911
+                  ]
+            },
+            {
+                  "name": "Terrazza dell'Infinito",
+                  "text": "Ein berühmter Aussichtspunkt in der Villa Cimbrone in Ravello mit Panoramablick auf das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        14.610113,
+                        40.642101
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Trofimena",
+                  "text": "Eine bedeutende Barockkirche in Minori, die den Reliquien der Heiligen Trofimena gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.627934,
+                        40.650377
+                  ]
+            },
+            {
+                  "name": "Duomo di San Lorenzo",
+                  "text": "Die Hauptkirche von Scala, der ältesten Stadt an der Amalfiküste.",
+                  "category": "religious",
+                  "coords": [
+                        14.608195,
+                        40.653514
+                  ]
+            },
+            {
+                  "name": "Torre di Pogerola",
+                  "text": "Ein historischer Aussichtsturm im Bergdorf Pogerola oberhalb von Amalfi.",
+                  "category": "tower",
+                  "coords": [
+                        14.597813,
+                        40.635427
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arsenale di Amalfi",
+                  "text": "Egykori középkori hajógyár, amely ma Amalfi tengerészeti múzeumának ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        14.602051,
+                        40.633809
+                  ]
+            },
+            {
+                  "name": "Basilica del Crocifisso - Museo Diocesiano",
+                  "text": "A Basilica del Crocifisso épületében található múzeum Amalfi vallási művészeti kincseit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.603091,
+                        40.634608
+                  ]
+            },
+            {
+                  "name": "Museo La Valle dei Mulini",
+                  "text": "Ez a múzeum az amalfi Malmok völgyében zajló papírgyártás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.597179,
+                        40.641044
+                  ]
+            },
+            {
+                  "name": "Museo Duomo",
+                  "text": "A dóm múzeuma az amalfi székesegyház legfontosabb művészeti kincseit és ereklyéit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.611876,
+                        40.649278
+                  ]
+            },
+            {
+                  "name": "Museo della Carta",
+                  "text": "A papírmúzeum egy történelmi papírmalomban található, és a hagyományos gyártási technikákat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.599698,
+                        40.639712
+                  ]
+            },
+            {
+                  "name": "Castello Lauritano",
+                  "text": "Ez a történelmi erődítmény széles panorámát kínál az Amalfi-partra.",
+                  "category": "castle",
+                  "coords": [
+                        14.576023,
+                        40.627398
+                  ]
+            },
+            {
+                  "name": "Il Ninfeo - Villa Romana",
+                  "text": "Ez a régészeti lelőhely egy ókori római villa díszkútjának (nymphäum) maradványait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        14.602137,
+                        40.634848
+                  ]
+            },
+            {
+                  "name": "Villa Marittima Archeologica Romana",
+                  "text": "Ez a múzeum egy ókori római tengerparti villa régészeti leleteit őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.626073,
+                        40.650569
+                  ]
+            },
+            {
+                  "name": "Pascal",
+                  "text": "Ez a múzeum a környékre jellemző finom helyi kerámiaművészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.611708,
+                        40.65022
+                  ]
+            },
+            {
+                  "name": "Escher in Atrani",
+                  "text": "Ez a múzeum M.C. Escher munkásságának szentelt helyszín, akit gyakran ihletett meg Atrani építészete.",
+                  "category": "museum",
+                  "coords": [
+                        14.608432,
+                        40.636602
+                  ]
+            },
+            {
+                  "name": "Spiaggia Duoglio",
+                  "text": "Az Amalfi közelében megbúvó Spiaggia Duoglio egy látványos kavicsos strand, amely egy hosszú, de megéri a fáradságot jelentő lépcsősoron érhető el. Az öblöt körülvevő tiszta víz és meredek sziklák meghitt és rendkívül festői atmoszférát teremtenek. A fürdőzők fantasztikus körülményekre számíthatnak az úszáshoz és a kikapcsolódáshoz ebben az idilli, eldugott környezetben. Érdemes kényelmes cipőt viselni a lépcsők leküzdéséhez, mielőtt átadnánk magunkat ennek a lenyűgöző mediterrán gyöngyszemnek.",
+                  "category": "recreational",
+                  "coords": [
+                        14.58833,
+                        40.626
+                  ]
+            },
+            {
+                  "name": "Castiglione",
+                  "text": "Egy kis homokos és kavicsos strand Atrani közelében, az Amalfi-parton.",
+                  "category": "recreational",
+                  "coords": [
+                        14.610896,
+                        40.636836
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Vite",
+                  "text": "Az Amalfi-part festői környezetében megbúvó Spiaggia della Vite egy igazi menedék a nyüzsgés elől. Ez a félreeső partszakasz gyakran csak hajóval közelíthető meg a tenger felől, így teljes nyugalmat ígér. A látogatók pihentető órákra számíthatnak a Tirrén-tenger partján. Érdemes azoknak felkeresni, akik egy csendes olaszországi természetközeli élményre vágynak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.577532,
+                        40.618662
+                  ]
+            },
+            {
+                  "name": "Torre Saracena",
+                  "text": "Történelmi őrtorony Amalfi partjainál, amely egykor védelmi célokat szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        14.606956,
+                        40.632933
+                  ]
+            },
+            {
+                  "name": "Castello Mezzacapo",
+                  "text": "Egy jellegzetes várkastély a tengerre néző kilátással Maiori közelében.",
+                  "category": "castle",
+                  "coords": [
+                        14.633244,
+                        40.648371
+                  ]
+            },
+            {
+                  "name": "Riserva naturale Valle delle Ferriere",
+                  "text": "Amalfi felett fekvő természetvédelmi terület vízesésekkel és ritka növényvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        14.580061,
+                        40.660224
+                  ]
+            },
+            {
+                  "name": "Balnea",
+                  "text": "Antik fürdők régészeti maradványai, amelyek a régió római kori múltját idézik.",
+                  "category": "historical",
+                  "coords": [
+                        14.613223,
+                        40.648911
+                  ]
+            },
+            {
+                  "name": "Terrazza dell'Infinito",
+                  "text": "A ravellói Villa Cimbrone híres kilátóterasza lenyűgöző tengeri panorámával.",
+                  "category": "natural",
+                  "coords": [
+                        14.610113,
+                        40.642101
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Trofimena",
+                  "text": "Minori jelentős barokk temploma, amelyet Szent Trofimena ereklyéinek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.627934,
+                        40.650377
+                  ]
+            },
+            {
+                  "name": "Duomo di San Lorenzo",
+                  "text": "Scala központjában található templom, amely az Amalfi-part legrégebbi városa.",
+                  "category": "religious",
+                  "coords": [
+                        14.608195,
+                        40.653514
+                  ]
+            },
+            {
+                  "name": "Torre di Pogerola",
+                  "text": "Történelmi kilátótorony az Amalfi felett fekvő Pogerola hegyi faluban.",
+                  "category": "tower",
+                  "coords": [
+                        14.597813,
+                        40.635427
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arsenale di Amalfi",
+                  "text": "Un fost șantier naval medieval, care găzduiește astăzi muzeul maritim din Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.602051,
+                        40.633809
+                  ]
+            },
+            {
+                  "name": "Basilica del Crocifisso - Museo Diocesiano",
+                  "text": "Muzeul situat în Basilica del Crocifisso expune obiecte de artă religioasă și comori ale diecezei din Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.603091,
+                        40.634608
+                  ]
+            },
+            {
+                  "name": "Museo La Valle dei Mulini",
+                  "text": "Acest muzeu este dedicat istoriei fabricării hârtiei în Valea Morilor din Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.597179,
+                        40.641044
+                  ]
+            },
+            {
+                  "name": "Museo Duomo",
+                  "text": "Muzeul Domului prezintă cele mai importante comori de artă și relicve ale catedralei din Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.611876,
+                        40.649278
+                  ]
+            },
+            {
+                  "name": "Museo della Carta",
+                  "text": "Muzeul Hârtiei este situat într-o moară istorică și prezintă tehnicile tradiționale de producție.",
+                  "category": "museum",
+                  "coords": [
+                        14.599698,
+                        40.639712
+                  ]
+            },
+            {
+                  "name": "Castello Lauritano",
+                  "text": "Această fortăreață istorică oferă o vedere panoramică vastă asupra coastei Amalfi.",
+                  "category": "castle",
+                  "coords": [
+                        14.576023,
+                        40.627398
+                  ]
+            },
+            {
+                  "name": "Il Ninfeo - Villa Romana",
+                  "text": "Acest sit arheologic cuprinde vestigiile unui nymphaeum dintr-o vilă romană antică.",
+                  "category": "historical",
+                  "coords": [
+                        14.602137,
+                        40.634848
+                  ]
+            },
+            {
+                  "name": "Villa Marittima Archeologica Romana",
+                  "text": "Acest muzeu păstrează vestigiile arheologice ale unei foste vile maritime romane de pe coastă.",
+                  "category": "museum",
+                  "coords": [
+                        14.626073,
+                        40.650569
+                  ]
+            },
+            {
+                  "name": "Pascal",
+                  "text": "Acest muzeu prezintă arta ceramică locală fină, caracteristică regiunii Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.611708,
+                        40.65022
+                  ]
+            },
+            {
+                  "name": "Escher in Atrani",
+                  "text": "Acest muzeu este dedicat operei lui M.C. Escher, care s-a inspirat adesea din arhitectura din Atrani.",
+                  "category": "museum",
+                  "coords": [
+                        14.608432,
+                        40.636602
+                  ]
+            },
+            {
+                  "name": "Spiaggia Duoglio",
+                  "text": "Ascunsă lângă Amalfi, Spiaggia Duoglio este o plajă de pietriș spectaculoasă, accesibilă printr-o coborâre plină de satisfacții pe o scară lungă. Apele limpezi și stâncile abrupte care înconjoară golful creează o atmosferă intimă și extrem de pitorească. Iubitorii de plajă se pot aștepta la condiții fantastice pentru înot și relaxare într-un cadru idilic, retras. Purtarea unor pantofi adecvați este o idee bună pentru a aborda confortabil scările înainte de a vă bucura de această bijuterie mediteraneană impresionantă.",
+                  "category": "recreational",
+                  "coords": [
+                        14.58833,
+                        40.626
+                  ]
+            },
+            {
+                  "name": "Castiglione",
+                  "text": "O mică plajă cu nisip și pietriș situată lângă Atrani, pe Coasta Amalfi.",
+                  "category": "recreational",
+                  "coords": [
+                        14.610896,
+                        40.636836
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Vite",
+                  "text": "Ascunsă pe pitoreasca Coastă Amalfi, Spiaggia della Vite este un adevărat refugiu departe de agitație. Această secțiune retrasă de coastă este adesea accesibilă doar cu barca pe apă, promițând liniște deplină. Vizitatorii se pot aștepta la ore de relaxare la Marea Tireniană. O vizită este recomandată în special celor care caută o experiență naturală tăcută în Italia.",
+                  "category": "recreational",
+                  "coords": [
+                        14.577532,
+                        40.618662
+                  ]
+            },
+            {
+                  "name": "Torre Saracena",
+                  "text": "Un turn de veghe istoric pe coasta Amalfi, care servea odinioară pentru apărare.",
+                  "category": "castle",
+                  "coords": [
+                        14.606956,
+                        40.632933
+                  ]
+            },
+            {
+                  "name": "Castello Mezzacapo",
+                  "text": "Un castel distinctiv cu vedere la mare situat lângă localitatea Maiori.",
+                  "category": "castle",
+                  "coords": [
+                        14.633244,
+                        40.648371
+                  ]
+            },
+            {
+                  "name": "Riserva naturale Valle delle Ferriere",
+                  "text": "O rezervație naturală protejată deasupra orașului Amalfi, cu cascade și floră rară.",
+                  "category": "natural",
+                  "coords": [
+                        14.580061,
+                        40.660224
+                  ]
+            },
+            {
+                  "name": "Balnea",
+                  "text": "Vestigii arheologice ale unor băi antice care atestă istoria romană a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        14.613223,
+                        40.648911
+                  ]
+            },
+            {
+                  "name": "Terrazza dell'Infinito",
+                  "text": "Un punct de belvedere faimos în Villa Cimbrone din Ravello, cu vedere panoramică la mare.",
+                  "category": "natural",
+                  "coords": [
+                        14.610113,
+                        40.642101
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Trofimena",
+                  "text": "O biserică barocă importantă din Minori dedicată moaștelor Sfintei Trofimena.",
+                  "category": "religious",
+                  "coords": [
+                        14.627934,
+                        40.650377
+                  ]
+            },
+            {
+                  "name": "Duomo di San Lorenzo",
+                  "text": "Biserica principală din Scala, cel mai vechi oraș de pe Coasta Amalfi.",
+                  "category": "religious",
+                  "coords": [
+                        14.608195,
+                        40.653514
+                  ]
+            },
+            {
+                  "name": "Torre di Pogerola",
+                  "text": "Un turn istoric de observație în satul de munte Pogerola, situat deasupra orașului Amalfi.",
+                  "category": "tower",
+                  "coords": [
+                        14.597813,
+                        40.635427
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arsenale di Amalfi",
+                  "text": "A former medieval shipyard that now houses the maritime museum of Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.602051,
+                        40.633809
+                  ]
+            },
+            {
+                  "name": "Basilica del Crocifisso - Museo Diocesiano",
+                  "text": "Located in the Basilica del Crocifisso, this museum displays religious art and treasures of the Diocese of Amalfi.",
+                  "category": "museum",
+                  "coords": [
+                        14.603091,
+                        40.634608
+                  ]
+            },
+            {
+                  "name": "Museo La Valle dei Mulini",
+                  "text": "This museum is dedicated to the history of paper production in Amalfi's Valley of the Mills.",
+                  "category": "museum",
+                  "coords": [
+                        14.597179,
+                        40.641044
+                  ]
+            },
+            {
+                  "name": "Museo Duomo",
+                  "text": "The Cathedral Museum presents the most important art treasures and relics of the Amalfi Cathedral.",
+                  "category": "museum",
+                  "coords": [
+                        14.611876,
+                        40.649278
+                  ]
+            },
+            {
+                  "name": "Museo della Carta",
+                  "text": "The Paper Museum is located in a historic paper mill and demonstrates traditional production techniques.",
+                  "category": "museum",
+                  "coords": [
+                        14.599698,
+                        40.639712
+                  ]
+            },
+            {
+                  "name": "Castello Lauritano",
+                  "text": "This historic fortress offers a wide panoramic view over the Amalfi Coast.",
+                  "category": "castle",
+                  "coords": [
+                        14.576023,
+                        40.627398
+                  ]
+            },
+            {
+                  "name": "Il Ninfeo - Villa Romana",
+                  "text": "This archaeological site includes the remains of a nymphaeum from an ancient Roman villa.",
+                  "category": "historical",
+                  "coords": [
+                        14.602137,
+                        40.634848
+                  ]
+            },
+            {
+                  "name": "Villa Marittima Archeologica Romana",
+                  "text": "This museum preserves the archaeological findings of an ancient Roman maritime villa on the coast.",
+                  "category": "museum",
+                  "coords": [
+                        14.626073,
+                        40.650569
+                  ]
+            },
+            {
+                  "name": "Pascal",
+                  "text": "This museum showcases the fine local ceramic art characteristic of the Amalfi region.",
+                  "category": "museum",
+                  "coords": [
+                        14.611708,
+                        40.65022
+                  ]
+            },
+            {
+                  "name": "Escher in Atrani",
+                  "text": "This museum is dedicated to the work of M.C. Escher, who was often inspired by the architecture of Atrani.",
+                  "category": "museum",
+                  "coords": [
+                        14.608432,
+                        40.636602
+                  ]
+            },
+            {
+                  "name": "Spiaggia Duoglio",
+                  "text": "Tucked away near Amalfi, Spiaggia Duoglio is a spectacular pebble beach accessible by a rewarding descent down a long staircase. The clear waters and steep cliffs surrounding the cove create an intimate and highly picturesque atmosphere. Beachgoers can expect fantastic conditions for swimming and lounging in an idyllic, secluded setting. Wearing sensible shoes is a good idea to tackle the stairs comfortably before enjoying this striking Mediterranean gem.",
+                  "category": "recreational",
+                  "coords": [
+                        14.58833,
+                        40.626
+                  ]
+            },
+            {
+                  "name": "Castiglione",
+                  "text": "A small sand and pebble beach located near Atrani on the Amalfi Coast.",
+                  "category": "recreational",
+                  "coords": [
+                        14.610896,
+                        40.636836
+                  ]
+            },
+            {
+                  "name": "Spiaggia della Vite",
+                  "text": "Hidden away on the picturesque Amalfi Coast, Spiaggia della Vite serves as a true refuge from the hustle and bustle. This secluded stretch of coastline is often only accessible by boat, promising absolute tranquility. Visitors can look forward to relaxing hours by the Tyrrhenian Sea. It is a worthwhile destination for anyone seeking a quiet nature experience in Italy.",
+                  "category": "recreational",
+                  "coords": [
+                        14.577532,
+                        40.618662
+                  ]
+            },
+            {
+                  "name": "Torre Saracena",
+                  "text": "A historic watchtower on the Amalfi coast that once served defensive purposes.",
+                  "category": "castle",
+                  "coords": [
+                        14.606956,
+                        40.632933
+                  ]
+            },
+            {
+                  "name": "Castello Mezzacapo",
+                  "text": "A distinctive castle overlooking the sea located near the town of Maiori.",
+                  "category": "castle",
+                  "coords": [
+                        14.633244,
+                        40.648371
+                  ]
+            },
+            {
+                  "name": "Riserva naturale Valle delle Ferriere",
+                  "text": "A protected nature reserve above Amalfi featuring waterfalls and rare flora.",
+                  "category": "natural",
+                  "coords": [
+                        14.580061,
+                        40.660224
+                  ]
+            },
+            {
+                  "name": "Balnea",
+                  "text": "Archaeological remains of ancient baths testifying to the Roman history of the region.",
+                  "category": "historical",
+                  "coords": [
+                        14.613223,
+                        40.648911
+                  ]
+            },
+            {
+                  "name": "Terrazza dell'Infinito",
+                  "text": "A famous viewpoint at Villa Cimbrone in Ravello offering panoramic sea views.",
+                  "category": "natural",
+                  "coords": [
+                        14.610113,
+                        40.642101
+                  ]
+            },
+            {
+                  "name": "Basilica di Santa Trofimena",
+                  "text": "A significant Baroque church in Minori dedicated to the relics of Saint Trofimena.",
+                  "category": "religious",
+                  "coords": [
+                        14.627934,
+                        40.650377
+                  ]
+            },
+            {
+                  "name": "Duomo di San Lorenzo",
+                  "text": "The main church of Scala, the oldest town on the Amalfi Coast.",
+                  "category": "religious",
+                  "coords": [
+                        14.608195,
+                        40.653514
+                  ]
+            },
+            {
+                  "name": "Torre di Pogerola",
+                  "text": "A historic observation tower in the mountain village of Pogerola above Amalfi.",
+                  "category": "tower",
+                  "coords": [
+                        14.597813,
+                        40.635427
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IT-72",
     coords: [14.603, 40.634],

@@ -6,15 +6,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mn-erdene-zuu-history-v2", "sights": {
       "de": [
             {
-                  "name": "Guriliin Uildver",
-                  "text": "Ein Aussichtspunkt nahe der örtlichen Mühle mit Blick auf die umliegende Steppe und Industrieanlagen.",
-                  "category": "natural",
-                  "coords": [
-                        102.82711,
-                        47.199565
-                  ]
-            },
-            {
                   "name": "Karakorum",
                   "text": "Die Fundamente und Stein-Schildkröten der im Jahr 1220 von Dschingis Khan gegründeten alten Hauptstadt.",
                   "category": "historical",
@@ -70,15 +61,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Guriliin Uildver",
-                  "text": "Kilátópont a helyi malom közelében, rálátással a környező sztyeppére és az ipari létesítményekre.",
-                  "category": "natural",
-                  "coords": [
-                        102.82711,
-                        47.199565
-                  ]
-            },
             {
                   "name": "Khar Khorum",
                   "text": "A Dzsingisz kán által 1220-ban alapított ősi főváros alapfalai és kőteknősei.",
@@ -136,15 +118,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Guriliin Uildver",
-                  "text": "Un punct de observație lângă moara locală, oferind priveliști asupra stepei înconjurătoare și a structurilor industriale.",
-                  "category": "natural",
-                  "coords": [
-                        102.82711,
-                        47.199565
-                  ]
-            },
-            {
                   "name": "Khar Khorum",
                   "text": "Fundațiile și broaștele țestoase din piatră ale vechii capitale fondate de Ginghis Han în 1220.",
                   "category": "historical",
@@ -200,15 +173,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Guriliin Uildver",
-                  "text": "A vantage point near the local mill offering views of the surrounding steppe and industrial structures.",
-                  "category": "natural",
-                  "coords": [
-                        102.82711,
-                        47.199565
-                  ]
-            },
             {
                   "name": "Karakorum",
                   "text": "The foundations and stone tortoises of the ancient capital founded by Genghis Khan in 1220.",
@@ -332,15 +296,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mn-karakorum-history-v2", "sights": {
       "de": [
             {
-                  "name": "Soyoliin Tov",
-                  "text": "Das lokale Kulturhaus in der historischen Stadt Karakorum bietet Aufführungen und Ausstellungen.",
-                  "category": "cultural",
-                  "coords": [
-                        102.816258,
-                        47.192632
-                  ]
-            },
-            {
                   "name": "Ovoo",
                   "text": "Ein traditioneller Stein-Altar mit blauen Seidenschals auf einem Hügel nahe Kharkhorin.",
                   "category": "natural",
@@ -378,15 +333,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Soyoliin Tov",
-                  "text": "A történelmi Karakorum város helyi kultúrháza előadásokkal és kiállításokkal várja a látogatókat.",
-                  "category": "cultural",
-                  "coords": [
-                        102.816258,
-                        47.192632
-                  ]
-            },
             {
                   "name": "Ovoo",
                   "text": "Hagyományos kőoltár kék selyemsálakkal díszítve egy Kharkhorin közeli dombon.",
@@ -426,15 +372,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Soyoliin Tov",
-                  "text": "Casa locală de cultură din orașul istoric Karakorum oferă spectacole și expoziții.",
-                  "category": "cultural",
-                  "coords": [
-                        102.816258,
-                        47.192632
-                  ]
-            },
-            {
                   "name": "Ovoo",
                   "text": "Un altar tradițional din piatră, împodobit cu eșarfe albastre din mătase, pe un deal lângă Kharkhorin.",
                   "category": "natural",
@@ -472,15 +409,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Soyoliin Tov",
-                  "text": "The local cultural palace in the historic city of Karakorum hosts performances and exhibits.",
-                  "category": "cultural",
-                  "coords": [
-                        102.816258,
-                        47.192632
-                  ]
-            },
             {
                   "name": "Ovoo",
                   "text": "A traditional stone altar draped with blue silk scarves on a hill near Kharkhorin.",
@@ -3883,15 +3811,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sangiin kherem",
-                  "text": "Diese Ruinen markieren den Standort von Sangiin Kherem, einer Festung im mandschurischen Stil, die 1762 erbaut wurde.",
-                  "category": "historical",
-                  "coords": [
-                        91.64094,
-                        48.012346
-                  ]
-            },
-            {
                   "name": "Khovd Park",
                   "text": "Ein grüner Stadtpark mit Spazierwegen, Statuen und einfachen Fahrgeschäften für einheimische Familien.",
                   "category": "recreational",
@@ -3972,15 +3891,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
                   "coords": [
                         91.640937,
                         48.006769
-                  ]
-            },
-            {
-                  "name": "Sangiin kherem",
-                  "text": "Ezek a romok a Szangiin Herem helyszínét jelölik, amely egy 1762-ben épült mandzsu stílusú erőd volt.",
-                  "category": "historical",
-                  "coords": [
-                        91.64094,
-                        48.012346
                   ]
             },
             {
@@ -4067,15 +3977,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sangiin kherem",
-                  "text": "Aceste ruine marchează locul fortăreței Sangiin Kherem, o cetate în stil manciurian construită în 1762.",
-                  "category": "historical",
-                  "coords": [
-                        91.64094,
-                        48.012346
-                  ]
-            },
-            {
                   "name": "Khovd Park",
                   "text": "Un parc urban verde cu alei de promenadă, statui și atracții de divertisment de bază pentru familiile locale.",
                   "category": "recreational",
@@ -4147,24 +4048,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
                   "coords": [
                         91.640591,
                         48.004216
-                  ]
-            },
-            {
-                  "name": "Khovd central museaum",
-                  "text": "The museum displays ethnographic artifacts and historical findings from the diverse ethnic groups of western Mongolia.",
-                  "category": "museum",
-                  "coords": [
-                        91.640937,
-                        48.006769
-                  ]
-            },
-            {
-                  "name": "Fortress of Hovd",
-                  "text": "These ruins mark the site of Sangiin Kherem, a Manchu-style fortress built in 1762 during the Qing dynasty.",
-                  "category": "historical",
-                  "coords": [
-                        91.64094,
-                        48.012346
                   ]
             },
             {
@@ -4296,15 +4179,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
     id: "mn-uushigiin-uvur-history-v2", "sights": {
       "de": [
             {
-                  "name": "Dramyn teatr",
-                  "text": "Das Dramyn teatr ist ein Theater für darstellende Künste, das klassische Bühnenstücke und kulturelle Shows veranstaltet.",
-                  "category": "cultural",
-                  "coords": [
-                        100.153873,
-                        49.635714
-                  ]
-            },
-            {
                   "name": "Uushigiin Uver",
                   "text": "Der Uushigiin-Uver-Komplex zeigt alte, mit Hirschmotiven verzierte Steine in der mongolischen Steppe.",
                   "category": "landmark",
@@ -4333,15 +4207,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Dramyn teatr",
-                  "text": "A Dramyn teatr egy előadóművészeti színház, amely klasszikus színpadi daraboknak és kulturális műsoroknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        100.153873,
-                        49.635714
-                  ]
-            },
             {
                   "name": "Uushigiin Uver",
                   "text": "Az Uushigiin Uver komplexum ősi, szarvasmotívumokkal faragott köveket mutat be a mongol sztyeppén.",
@@ -4372,15 +4237,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Dramyn teatr",
-                  "text": "Dramyn teatr este un teatru de arte ale spectacolului care găzduiește piese de teatru clasice și spectacole culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        100.153873,
-                        49.635714
-                  ]
-            },
-            {
                   "name": "Uushigiin Uver",
                   "text": "Complexul Uushigiin Uver prezintă pietre antice sculptate cu motive de cerb pe stepa mongolă.",
                   "category": "landmark",
@@ -4409,15 +4265,6 @@ export const poiExtraMongoliaHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Dramyn teatr",
-                  "text": "The Dramyn teatr is a performing arts theatre hosting classical stage plays and cultural shows.",
-                  "category": "cultural",
-                  "coords": [
-                        100.153873,
-                        49.635714
-                  ]
-            },
             {
                   "name": "Uushigiin Uver",
                   "text": "The Uushigiin Uver complex showcases ancient carved deer stones on the Mongolian steppe.",

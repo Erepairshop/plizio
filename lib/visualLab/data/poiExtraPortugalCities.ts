@@ -438,15 +438,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "ETAR da Mutela",
-                  "text": "Das Gewässer ETAR da Mutela in Lissabon bietet einen Ausblick auf die Wasserflächen der Stadt.",
-                  "category": "natural",
-                  "coords": [
-                        -9.152314,
-                        38.672799
-                  ]
-            },
-            {
                   "name": "Lago Duque de Lafões",
                   "text": "Der Lago Duque de Lafões in Lissabon ist ein angenehmer Ort für eine kurze Pause am Wasser während einer Stadttour.",
                   "category": "natural",
@@ -465,30 +456,12 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lago parque dos moinhos",
-                  "text": "Dieser See in Lissabon bietet eine ruhige Umgebung für Spaziergänge und Naturbeobachtungen.",
-                  "category": "natural",
-                  "coords": [
-                        -9.205239,
-                        38.708635
-                  ]
-            },
-            {
                   "name": "Tanque",
                   "text": "Ein lokales Gewässer in Lissabon, das sich für einen kurzen Aufenthalt im Freien eignet.",
                   "category": "natural",
                   "coords": [
                         -9.18202,
                         38.709458
-                  ]
-            },
-            {
-                  "name": "Lago Principal",
-                  "text": "Der Hauptsee in Lissabon lädt Besucher zu einer entspannten Pause am Wasser ein.",
-                  "category": "natural",
-                  "coords": [
-                        -9.202917,
-                        38.698231
                   ]
             },
             {
@@ -1160,15 +1133,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "ETAR da Mutela",
-                  "text": "A lisszaboni ETAR da Mutela vízfelülete kilátást nyújt a város vizes területeire.",
-                  "category": "natural",
-                  "coords": [
-                        -9.152314,
-                        38.672799
-                  ]
-            },
-            {
                   "name": "Lago Duque de Lafões",
                   "text": "A lisszaboni Lago Duque de Lafões kellemes helyszín egy rövid vízparti pihenőhöz a városnézés során.",
                   "category": "natural",
@@ -1187,30 +1151,12 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lago parque dos moinhos",
-                  "text": "Ez a Lisszabonban található tó nyugodt környezetet biztosít a sétákhoz és a természet megfigyeléséhez.",
-                  "category": "natural",
-                  "coords": [
-                        -9.205239,
-                        38.708635
-                  ]
-            },
-            {
                   "name": "Tanque",
                   "text": "Egy helyi vízfelület Lisszabonban, amely alkalmas egy rövid szabadtéri pihenőre.",
                   "category": "natural",
                   "coords": [
                         -9.18202,
                         38.709458
-                  ]
-            },
-            {
-                  "name": "Lago Principal",
-                  "text": "Lisszabon fő tava vízi kikapcsolódásra és pihenésre hívja a látogatókat.",
-                  "category": "natural",
-                  "coords": [
-                        -9.202917,
-                        38.698231
                   ]
             },
             {
@@ -1882,15 +1828,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "ETAR da Mutela",
-                  "text": "Luciul de apă ETAR da Mutela din Lisabona oferă o perspectivă asupra zonelor acvatice ale orașului.",
-                  "category": "natural",
-                  "coords": [
-                        -9.152314,
-                        38.672799
-                  ]
-            },
-            {
                   "name": "Lago Duque de Lafões",
                   "text": "Lago Duque de Lafões din Lisabona este un loc plăcut pentru o scurtă pauză lângă apă în timpul unei plimbări prin oraș.",
                   "category": "natural",
@@ -1909,30 +1846,12 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lago parque dos moinhos",
-                  "text": "Acest lac din Lisabona oferă un mediu liniștit pentru plimbări și observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        -9.205239,
-                        38.708635
-                  ]
-            },
-            {
                   "name": "Tanque",
                   "text": "O mică acumulare de apă din Lisabona, potrivită pentru o scurtă oprire în aer liber.",
                   "category": "natural",
                   "coords": [
                         -9.18202,
                         38.709458
-                  ]
-            },
-            {
-                  "name": "Lago Principal",
-                  "text": "Lacul principal din Lisabona invită vizitatorii la o pauză relaxantă lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        -9.202917,
-                        38.698231
                   ]
             },
             {
@@ -2604,15 +2523,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "ETAR da Mutela",
-                  "text": "The water feature ETAR da Mutela in Lisbon offers a view of the city's water areas.",
-                  "category": "natural",
-                  "coords": [
-                        -9.152314,
-                        38.672799
-                  ]
-            },
-            {
                   "name": "Lago Duque de Lafões",
                   "text": "Lago Duque de Lafões in Lisbon is a pleasant spot for a short break by the water during a city tour.",
                   "category": "natural",
@@ -2631,30 +2541,12 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lago parque dos moinhos",
-                  "text": "This lake in Lisbon provides a peaceful setting for walks and nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        -9.205239,
-                        38.708635
-                  ]
-            },
-            {
                   "name": "Tanque",
                   "text": "A local water feature in Lisbon suitable for a short outdoor break.",
                   "category": "natural",
                   "coords": [
                         -9.18202,
                         38.709458
-                  ]
-            },
-            {
-                  "name": "Lago Principal",
-                  "text": "The main lake in Lisbon invites visitors for a relaxing break by the water.",
-                  "category": "natural",
-                  "coords": [
-                        -9.202917,
-                        38.698231
                   ]
             },
             {
@@ -2956,15 +2848,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Palácio da Bolsa - Bolsapalast",
-                  "text": "Der Palácio da Bolsa ist ein historisches Gebäude und Museum in Porto, bekannt für seinen reich verzierten Arabischen Saal.",
-                  "category": "museum",
-                  "coords": [
-                        -8.615729,
-                        41.141411
-                  ]
-            },
-            {
                   "name": "Museu Municipal de Numismática",
                   "text": "Das Museu Municipal de Numismática in Porto widmet sich der Geschichte von Münzen und Medaillen.",
                   "category": "museum",
@@ -3019,24 +2902,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Casa da Câmara",
-                  "text": "Die 2000 von Fernando Távora erbaute Casa da Câmara in Porto ist ein modernes Museum.",
-                  "category": "museum",
-                  "coords": [
-                        -8.611645,
-                        41.143031
-                  ]
-            },
-            {
-                  "name": "Museu do Vinho do Porto",
-                  "text": "Denkmalgeschütztes Museum des Portweins in Porto.",
-                  "category": "museum",
-                  "coords": [
-                        -8.6153,
-                        41.14011
-                  ]
-            },
-            {
                   "name": "Palacete de Belomonte",
                   "text": "Das Palacete de Belomonte ist ein historisches Palastgebäude und schlossähnliches Wahrzeichen in Porto.",
                   "category": "castle",
@@ -3073,15 +2938,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Arqueossítio da Rua de Dom Hugo",
-                  "text": "Das Arqueossítio da Rua de Dom Hugo ist eine archäologische Stätte in Porto, die Schichten der alten Stadtgeschichte offenbart.",
-                  "category": "historical",
-                  "coords": [
-                        -8.610589,
-                        41.142936
-                  ]
-            },
-            {
                   "name": "Teatro Sá da Bandeira",
                   "text": "Das Teatro Sá da Bandeira in Porto ist ein Theater aus dem 19. Jahrhundert mit reicher Ornamentik.",
                   "category": "cultural",
@@ -3097,15 +2953,6 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -8.605311,
                         41.147152
-                  ]
-            },
-            {
-                  "name": "Igreja da Serra do Pilar",
-                  "text": "Die Igreja da Serra do Pilar ist eine einzigartige Rundkirche und ein Klosterkomplex mit Blick auf den Fluss Douro in der Nähe von Porto.",
-                  "category": "religious",
-                  "coords": [
-                        -8.608113,
-                        41.138187
                   ]
             },
             {
@@ -3145,15 +2992,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Capela de Nossa Senhora das Verdades",
-                  "text": "Denkmalgeschützte Kapelle Unserer Lieben Frau der Wahrheiten in Porto.",
-                  "category": "religious",
-                  "coords": [
-                        -8.61136,
-                        41.141662
-                  ]
-            },
-            {
                   "name": "Igreja da Misericórdia",
                   "text": "Die Igreja da Misericórdia ist eine bedeutende historische Kirche und Kultstätte in Porto.",
                   "category": "religious",
@@ -3178,15 +3016,6 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -8.619684,
                         41.142887
-                  ]
-            },
-            {
-                  "name": "Igreja de Nossa Senhora da Esperança",
-                  "text": "Die Igreja de Nossa Senhora da Esperança ist eine bemerkenswerte historische Kirche und Kultstätte in Porto.",
-                  "category": "religious",
-                  "coords": [
-                        -8.602421,
-                        41.145365
                   ]
             },
             {
@@ -3226,15 +3055,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Barcos Rabelo",
-                  "text": "Rabelo-Boote sind traditionelle portugiesische Holzfrachtschiffe, die jahrhundertelang für den Transport von Portwein in Porto verwendet wurden.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.612381,
-                        41.138265
-                  ]
-            },
-            {
                   "name": "Livraria Lello & Irmão",
                   "text": "Die Buchhandlung Lello & Irmão ist eine atemberaubende neugotische Buchhandlung in Porto, bekannt für ihre spektakuläre rote Treppe.",
                   "category": "landmark",
@@ -3244,30 +3064,12 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Funicular dos Guindais",
-                  "text": "Der Funicular dos Guindais ist eine Standseilbahn in Porto, die schnellen Transport und malerische Ausblicke auf die Stadt bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.609512,
-                        41.140956
-                  ]
-            },
-            {
                   "name": "Teatro Nacional São João",
                   "text": "Das Teatro Nacional São João ist ein erstklassiges Nationaltheater und eine großartige architektonische Attraktion in Porto.",
                   "category": "landmark",
                   "coords": [
                         -8.607537,
                         41.14456
-                  ]
-            },
-            {
-                  "name": "Capela dos Alfaiates",
-                  "text": "Die Capela dos Alfaiates ist eine kleine historische Kapelle und architektonische Attraktion in Porto.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.607438,
-                        41.143236
                   ]
             },
             {
@@ -3286,15 +3088,6 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -8.609998,
                         41.14782
-                  ]
-            },
-            {
-                  "name": "Igreja de Santa Clara",
-                  "text": "Die Igreja de Santa Clara ist eine Attraktion in Porto, die für ihr spektakuläres vergoldetes Holzschnitt-Interieur berühmt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.609199,
-                        41.142511
                   ]
             },
             {
@@ -3379,48 +3172,12 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Charca",
-                  "text": "Charca ist ein kleiner Teich in Porto, der oft von Vögeln besucht wird.",
-                  "category": "natural",
-                  "coords": [
-                        -8.686963,
-                        41.169495
-                  ]
-            },
-            {
-                  "name": "Lago III",
-                  "text": "Der Lago III ist Teil der Seenlandschaft in einem der Parks von Porto.",
-                  "category": "natural",
-                  "coords": [
-                        -8.683587,
-                        41.168773
-                  ]
-            },
-            {
                   "name": "Presa de Contumil",
                   "text": "Die Presa de Contumil ist eine Talsperre in Porto mit einem umliegenden Park.",
                   "category": "natural",
                   "coords": [
                         -8.578242,
                         41.169813
-                  ]
-            },
-            {
-                  "name": "Lago II",
-                  "text": "Lago II ist ein See in Porto, der eine malerische Umgebung für einen entspannten Spaziergang bietet.",
-                  "category": "natural",
-                  "coords": [
-                        -8.678059,
-                        41.167399
-                  ]
-            },
-            {
-                  "name": "Lago I",
-                  "text": "Lago I ist ein See in Porto, der zu ruhigen Beobachtungen in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        -8.673753,
-                        41.168099
                   ]
             },
             {
@@ -3516,15 +3273,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Palácio da Bolsa",
-                  "text": "A Palácio da Bolsa egy történelmi épület és múzeum Portóban, amely a díszes Arab terméről ismert.",
-                  "category": "museum",
-                  "coords": [
-                        -8.615729,
-                        41.141411
-                  ]
-            },
-            {
                   "name": "Museu Municipal de Numismática",
                   "text": "A Portói Numizmatikai Múzeum az érmék és érmek történetét mutatja be.",
                   "category": "museum",
@@ -3579,24 +3327,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Casa da Câmara",
-                  "text": "A Porto-i Casa da Câmara 2000-ben épült Fernando Távora tervei alapján, modern múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -8.611645,
-                        41.143031
-                  ]
-            },
-            {
-                  "name": "Museu do Vinho do Porto",
-                  "text": "Műemlék Portói Bor Múzeuma Portóban.",
-                  "category": "museum",
-                  "coords": [
-                        -8.6153,
-                        41.14011
-                  ]
-            },
-            {
                   "name": "Palacete de Belomonte",
                   "text": "A Palacete de Belomonte egy történelmi palotaépület, amely kastélyszerű nevezetességként szolgál Portóban.",
                   "category": "castle",
@@ -3633,15 +3363,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Arqueossítio da Rua de Dom Hugo",
-                  "text": "Az Arqueossítio da Rua de Dom Hugo egy régészeti lelőhely Portóban, amely a város ókori történelmének rétegeit tárja fel.",
-                  "category": "historical",
-                  "coords": [
-                        -8.610589,
-                        41.142936
-                  ]
-            },
-            {
                   "name": "Teatro Sá da Bandeira",
                   "text": "A portói Teatro Sá da Bandeira egy 19. századi színház gazdag díszítéssel.",
                   "category": "cultural",
@@ -3657,15 +3378,6 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -8.605311,
                         41.147152
-                  ]
-            },
-            {
-                  "name": "Igreja da Serra do Pilar",
-                  "text": "Az Igreja da Serra do Pilar egy egyedülálló, kör alakú templom és kolostoregyüttes a Douro folyó felett, Porto közelében.",
-                  "category": "religious",
-                  "coords": [
-                        -8.608113,
-                        41.138187
                   ]
             },
             {
@@ -3705,15 +3417,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Capela de Nossa Senhora das Verdades",
-                  "text": "Műemlék Igazságok Szűzanyja-kápolna Portóban.",
-                  "category": "religious",
-                  "coords": [
-                        -8.61136,
-                        41.141662
-                  ]
-            },
-            {
                   "name": "Igreja da Misericórdia",
                   "text": "Az Igreja da Misericórdia egy jelentős történelmi templom és istentiszteleti hely Portóban.",
                   "category": "religious",
@@ -3738,15 +3441,6 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -8.619684,
                         41.142887
-                  ]
-            },
-            {
-                  "name": "Igreja de Nossa Senhora da Esperança",
-                  "text": "Az Igreja de Nossa Senhora da Esperança egy figyelemre méltó történelmi templom és istentiszteleti hely Portóban.",
-                  "category": "religious",
-                  "coords": [
-                        -8.602421,
-                        41.145365
                   ]
             },
             {
@@ -3786,15 +3480,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Barcos Rabelo",
-                  "text": "A Rabelo csónakok hagyományos portugál fa teherhajók, amelyeket évszázadokon át portói bor szállítására használtak Portóban.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.612381,
-                        41.138265
-                  ]
-            },
-            {
                   "name": "Livraria Lello & Irmão",
                   "text": "A Lello & Irmão könyvesbolt egy lenyűgöző neogótikus könyvesbolt Portóban, amely látványos piros lépcsőjéről ismert.",
                   "category": "landmark",
@@ -3804,30 +3489,12 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Funicular dos Guindais",
-                  "text": "A Funicular dos Guindais egy sikló Portóban, amely gyors közlekedést és festői kilátást nyújt a városra.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.609512,
-                        41.140956
-                  ]
-            },
-            {
                   "name": "Teatro Nacional São João",
                   "text": "A Teatro Nacional São João egy kiemelkedő nemzeti színház és nagyszerű építészeti látványosság Portóban.",
                   "category": "landmark",
                   "coords": [
                         -8.607537,
                         41.14456
-                  ]
-            },
-            {
-                  "name": "Capela dos Alfaiates",
-                  "text": "A Capela dos Alfaiates egy kis történelmi kápolna és építészeti látványosság Portóban.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.607438,
-                        41.143236
                   ]
             },
             {
@@ -3846,15 +3513,6 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -8.609998,
                         41.14782
-                  ]
-            },
-            {
-                  "name": "Igreja de Santa Clara",
-                  "text": "Az Igreja de Santa Clara egy látványosság Portóban, amely látványos aranyozott fafaragásos belső teréről híres.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.609199,
-                        41.142511
                   ]
             },
             {
@@ -3939,48 +3597,12 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Charca",
-                  "text": "A Charca egy kis tó Portóban, amelyet gyakran látogatnak madarak.",
-                  "category": "natural",
-                  "coords": [
-                        -8.686963,
-                        41.169495
-                  ]
-            },
-            {
-                  "name": "Lago III",
-                  "text": "A Lago III a tavak egyikének része Porto egyik parkjában.",
-                  "category": "natural",
-                  "coords": [
-                        -8.683587,
-                        41.168773
-                  ]
-            },
-            {
                   "name": "Presa de Contumil",
                   "text": "A Presa de Contumil egy víztározó gát Portóban, körülötte parkkal.",
                   "category": "natural",
                   "coords": [
                         -8.578242,
                         41.169813
-                  ]
-            },
-            {
-                  "name": "Lago II",
-                  "text": "A Lago II egy tó Portóban, amely festői környezetet biztosít egy pihentető sétához.",
-                  "category": "natural",
-                  "coords": [
-                        -8.678059,
-                        41.167399
-                  ]
-            },
-            {
-                  "name": "Lago I",
-                  "text": "A Lago I egy tó Portóban, amely nyugodt természetjárásra hívogat.",
-                  "category": "natural",
-                  "coords": [
-                        -8.673753,
-                        41.168099
                   ]
             },
             {
@@ -4076,15 +3698,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Palácio da Bolsa",
-                  "text": "Palácio da Bolsa este o clădire istorică și un muzeu în Porto, renumită pentru Sala Arabă bogat ornamentată.",
-                  "category": "museum",
-                  "coords": [
-                        -8.615729,
-                        41.141411
-                  ]
-            },
-            {
                   "name": "Museu Municipal de Numismática",
                   "text": "Muzeul Municipal de Numismatică din Porto este dedicat istoriei monedelor și medaliilor.",
                   "category": "museum",
@@ -4139,24 +3752,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Casa da Câmara",
-                  "text": "Casa da Câmara din Porto, construită în 2000 de Fernando Távora, este un muzeu modern.",
-                  "category": "museum",
-                  "coords": [
-                        -8.611645,
-                        41.143031
-                  ]
-            },
-            {
-                  "name": "Museu do Vinho do Porto",
-                  "text": "Muzeul Vinului de Porto, monument istoric, în Porto.",
-                  "category": "museum",
-                  "coords": [
-                        -8.6153,
-                        41.14011
-                  ]
-            },
-            {
                   "name": "Palacete de Belomonte",
                   "text": "Palacete de Belomonte este o clădire palat istorică care funcționează ca un reper asemănător unui castel în Porto.",
                   "category": "castle",
@@ -4193,15 +3788,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Arqueossítio da Rua de Dom Hugo",
-                  "text": "Arqueossítio da Rua de Dom Hugo este un sit arheologic din Porto care dezvăluie straturi ale istoriei antice a orașului.",
-                  "category": "historical",
-                  "coords": [
-                        -8.610589,
-                        41.142936
-                  ]
-            },
-            {
                   "name": "Teatro Sá da Bandeira",
                   "text": "Teatro Sá da Bandeira din Porto este un teatru din secolul al XIX-lea cu ornamentație bogată.",
                   "category": "cultural",
@@ -4217,15 +3803,6 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -8.605311,
                         41.147152
-                  ]
-            },
-            {
-                  "name": "Igreja da Serra do Pilar",
-                  "text": "Igreja da Serra do Pilar este o biserică circulară unică și un complex de mănăstire cu vedere la râul Douro, lângă Porto.",
-                  "category": "religious",
-                  "coords": [
-                        -8.608113,
-                        41.138187
                   ]
             },
             {
@@ -4265,15 +3842,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Capela de Nossa Senhora das Verdades",
-                  "text": "Capela Maicii Domnului a Adevărurilor, monument istoric, în Porto.",
-                  "category": "religious",
-                  "coords": [
-                        -8.61136,
-                        41.141662
-                  ]
-            },
-            {
                   "name": "Igreja da Misericórdia",
                   "text": "Igreja da Misericórdia este o biserică istorică importantă și un lăcaș de cult din Porto.",
                   "category": "religious",
@@ -4298,15 +3866,6 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -8.619684,
                         41.142887
-                  ]
-            },
-            {
-                  "name": "Igreja de Nossa Senhora da Esperança",
-                  "text": "Igreja de Nossa Senhora da Esperança este o biserică istorică notabilă și un lăcaș de cult din Porto.",
-                  "category": "religious",
-                  "coords": [
-                        -8.602421,
-                        41.145365
                   ]
             },
             {
@@ -4346,15 +3905,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Barcos Rabelo",
-                  "text": "Bărcile Rabelo sunt bărci tradiționale portugheze din lemn pentru marfă, folosite de secole pentru a transporta vin de Porto.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.612381,
-                        41.138265
-                  ]
-            },
-            {
                   "name": "Livraria Lello & Irmão",
                   "text": "Librăria Lello & Irmão este o uimitoare librărie neogotică din Porto, cunoscută pentru spectaculoasa sa scară roșie.",
                   "category": "landmark",
@@ -4364,30 +3914,12 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Funicular dos Guindais",
-                  "text": "Funicular dos Guindais este un funicular în Porto, oferind transport rapid și vederi pitorești ale orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.609512,
-                        41.140956
-                  ]
-            },
-            {
                   "name": "Teatro Nacional São João",
                   "text": "Teatro Nacional São João este un teatru național de prim rang și o mare atracție arhitecturală din Porto.",
                   "category": "landmark",
                   "coords": [
                         -8.607537,
                         41.14456
-                  ]
-            },
-            {
-                  "name": "Capela dos Alfaiates",
-                  "text": "Capela dos Alfaiates este o mică capelă istorică și atracție arhitecturală în Porto.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.607438,
-                        41.143236
                   ]
             },
             {
@@ -4406,15 +3938,6 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -8.609998,
                         41.14782
-                  ]
-            },
-            {
-                  "name": "Igreja de Santa Clara",
-                  "text": "Igreja de Santa Clara este o atracție din Porto, renumită pentru interiorul său spectaculos din lemn aurit.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.609199,
-                        41.142511
                   ]
             },
             {
@@ -4499,48 +4022,12 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Charca",
-                  "text": "Charca este un mic iaz în Porto, frecventat de păsări.",
-                  "category": "natural",
-                  "coords": [
-                        -8.686963,
-                        41.169495
-                  ]
-            },
-            {
-                  "name": "Lago III",
-                  "text": "Lago III face parte dintr-un sistem de lacuri într-unul din parcurile din Porto.",
-                  "category": "natural",
-                  "coords": [
-                        -8.683587,
-                        41.168773
-                  ]
-            },
-            {
                   "name": "Presa de Contumil",
                   "text": "Presa de Contumil este un baraj în Porto, cu un parc în jur.",
                   "category": "natural",
                   "coords": [
                         -8.578242,
                         41.169813
-                  ]
-            },
-            {
-                  "name": "Lago II",
-                  "text": "Lago II este un lac din Porto ce oferă un mediu pitoresc pentru o plimbare relaxantă.",
-                  "category": "natural",
-                  "coords": [
-                        -8.678059,
-                        41.167399
-                  ]
-            },
-            {
-                  "name": "Lago I",
-                  "text": "Lago I este un lac din Porto ce invită la observarea liniștită a naturii.",
-                  "category": "natural",
-                  "coords": [
-                        -8.673753,
-                        41.168099
                   ]
             },
             {
@@ -4636,15 +4123,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Palácio da Bolsa",
-                  "text": "Palácio da Bolsa is a historical building and museum in Porto, renowned for its ornate Arab Room.",
-                  "category": "museum",
-                  "coords": [
-                        -8.615729,
-                        41.141411
-                  ]
-            },
-            {
                   "name": "Museu Municipal de Numismática",
                   "text": "The Museu Municipal de Numismática in Porto is dedicated to the history of coins and medals.",
                   "category": "museum",
@@ -4699,24 +4177,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Casa da Câmara",
-                  "text": "Casa da Câmara in Porto, built in 2000 by Fernando Távora, is a modern museum.",
-                  "category": "museum",
-                  "coords": [
-                        -8.611645,
-                        41.143031
-                  ]
-            },
-            {
-                  "name": "Museu do Vinho do Porto",
-                  "text": "Heritage-listed Port Wine Museum in Porto.",
-                  "category": "museum",
-                  "coords": [
-                        -8.6153,
-                        41.14011
-                  ]
-            },
-            {
                   "name": "Palacete de Belomonte",
                   "text": "Palacete de Belomonte is a historical palatial building functioning as a castle-like landmark in Porto.",
                   "category": "castle",
@@ -4753,15 +4213,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Arqueossítio da Rua de Dom Hugo",
-                  "text": "Arqueossítio da Rua de Dom Hugo is an archaeological site in Porto revealing layers of the city's ancient history.",
-                  "category": "historical",
-                  "coords": [
-                        -8.610589,
-                        41.142936
-                  ]
-            },
-            {
                   "name": "Teatro Sá da Bandeira",
                   "text": "The Teatro Sá da Bandeira in Porto is a 19th-century theatre with ornate architecture.",
                   "category": "cultural",
@@ -4777,15 +4228,6 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -8.605311,
                         41.147152
-                  ]
-            },
-            {
-                  "name": "Igreja da Serra do Pilar",
-                  "text": "Igreja da Serra do Pilar is a unique circular church and monastery complex overlooking the Douro River near Porto.",
-                  "category": "religious",
-                  "coords": [
-                        -8.608113,
-                        41.138187
                   ]
             },
             {
@@ -4825,15 +4267,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Capela de Nossa Senhora das Verdades",
-                  "text": "Heritage-listed Chapel of Our Lady of Truths in Porto.",
-                  "category": "religious",
-                  "coords": [
-                        -8.61136,
-                        41.141662
-                  ]
-            },
-            {
                   "name": "Igreja da Misericórdia",
                   "text": "Igreja da Misericórdia is a significant historic church and place of worship in Porto.",
                   "category": "religious",
@@ -4858,15 +4291,6 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -8.619684,
                         41.142887
-                  ]
-            },
-            {
-                  "name": "Igreja de Nossa Senhora da Esperança",
-                  "text": "Igreja de Nossa Senhora da Esperança is a notable historical church and place of worship in Porto.",
-                  "category": "religious",
-                  "coords": [
-                        -8.602421,
-                        41.145365
                   ]
             },
             {
@@ -4906,15 +4330,6 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Rabelo boats",
-                  "text": "Rabelo boats are traditional Portuguese wooden cargo boats used for centuries to transport Port wine in Porto.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.612381,
-                        41.138265
-                  ]
-            },
-            {
                   "name": "Lello & Irmao Bookstore",
                   "text": "Lello & Irmão Bookstore is a stunning neo-Gothic bookshop in Porto known for its spectacular red staircase.",
                   "category": "landmark",
@@ -4924,30 +4339,12 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Funicular dos Guindais",
-                  "text": "Funicular dos Guindais is a cliff railway in Porto offering quick transport and scenic views of the city.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.609512,
-                        41.140956
-                  ]
-            },
-            {
                   "name": "Teatro Nacional São João",
                   "text": "Teatro Nacional São João is a premier national theatre and grand architectural attraction in Porto.",
                   "category": "landmark",
                   "coords": [
                         -8.607537,
                         41.14456
-                  ]
-            },
-            {
-                  "name": "Capela dos Alfaiates",
-                  "text": "Capela dos Alfaiates is a small historic chapel and architectural attraction in Porto.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.607438,
-                        41.143236
                   ]
             },
             {
@@ -4966,15 +4363,6 @@ export const poiExtraPortugalCities: POI[] = [
                   "coords": [
                         -8.609998,
                         41.14782
-                  ]
-            },
-            {
-                  "name": "Igreja de Santa Clara",
-                  "text": "Igreja de Santa Clara is an attraction in Porto famed for its spectacular gilded woodwork interior.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.609199,
-                        41.142511
                   ]
             },
             {
@@ -5059,48 +4447,12 @@ export const poiExtraPortugalCities: POI[] = [
                   ]
             },
             {
-                  "name": "Charca",
-                  "text": "Charca is a small pond in Porto, often visited by birds.",
-                  "category": "natural",
-                  "coords": [
-                        -8.686963,
-                        41.169495
-                  ]
-            },
-            {
-                  "name": "Lago III",
-                  "text": "Lago III is part of the lake landscape in one of Porto's parks.",
-                  "category": "natural",
-                  "coords": [
-                        -8.683587,
-                        41.168773
-                  ]
-            },
-            {
                   "name": "Presa de Contumil",
                   "text": "Presa de Contumil is a dam in Porto, with a park around it.",
                   "category": "natural",
                   "coords": [
                         -8.578242,
                         41.169813
-                  ]
-            },
-            {
-                  "name": "Lago II",
-                  "text": "Lago II is a lake in Porto providing a scenic environment for a relaxing walk.",
-                  "category": "natural",
-                  "coords": [
-                        -8.678059,
-                        41.167399
-                  ]
-            },
-            {
-                  "name": "Lago I",
-                  "text": "Lago I is a lake in Porto that invites peaceful nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        -8.673753,
-                        41.168099
                   ]
             },
             {

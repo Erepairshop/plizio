@@ -3045,15 +3045,6 @@ export const poiExtraHu2: POI[] = [
     id: "river-hortobagy-folyo-extra", "sights": {
       "de": [
             {
-                  "name": "Pusztazoo",
-                  "text": "Ein Tierpark, der traditionelle ungarische Nutztierrassen zeigt.",
-                  "category": "recreational",
-                  "coords": [
-                        21.143712,
-                        47.573171
-                  ]
-            },
-            {
                   "name": "Hortobágyi Vadaspark",
                   "text": "Ein Wildpark mit der heimischen Fauna der Puszta.",
                   "category": "recreational",
@@ -3061,54 +3052,9 @@ export const poiExtraHu2: POI[] = [
                         21.136385,
                         47.552353
                   ]
-            },
-            {
-                  "name": "Vízi színpad",
-                  "text": "Eine Freilichtbühne am Wasser für lokale kulturelle Aufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        21.148013,
-                        47.580473
-                  ]
-            },
-            {
-                  "name": "Csárda Múzeum",
-                  "text": "Ein Museum über die Geschichte der traditionellen ungarischen Csárda am Hortobágy-Fluss.",
-                  "category": "museum",
-                  "coords": [
-                        21.149176,
-                        47.582094
-                  ]
-            },
-            {
-                  "name": "Hortobágyi Nemzeti Park Látogató Központ",
-                  "text": "Das Besucherzentrum des Hortobágy-Nationalparks bietet Informationen über die lokale Natur.",
-                  "category": "museum",
-                  "coords": [
-                        21.15169,
-                        47.582392
-                  ]
-            },
-            {
-                  "name": "Hortobágyi Madárpark",
-                  "text": "Ein Vogelpark und eine Rettungsstation für geschützte Vögel am Hortobágy-Fluss.",
-                  "category": "recreational",
-                  "coords": [
-                        21.152457,
-                        47.580772
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Pusztai Állatpark",
-                  "text": "Hagyományos magyar állatfajtákat bemutató állatpark.",
-                  "category": "recreational",
-                  "coords": [
-                        21.143712,
-                        47.573171
-                  ]
-            },
             {
                   "name": "Hortobágyi Vadaspark",
                   "text": "Vadaspark, amely a puszta őshonos állatvilágát mutatja be.",
@@ -3117,54 +3063,9 @@ export const poiExtraHu2: POI[] = [
                         21.136385,
                         47.552353
                   ]
-            },
-            {
-                  "name": "Vízi színpad",
-                  "text": "Szabadtéri víziszínpad helyi kulturális előadások számára.",
-                  "category": "cultural",
-                  "coords": [
-                        21.148013,
-                        47.580473
-                  ]
-            },
-            {
-                  "name": "Csárda Múzeum",
-                  "text": "A hagyományos magyar csárda történetét bemutató múzeum a Hortobágy-folyónál.",
-                  "category": "museum",
-                  "coords": [
-                        21.149176,
-                        47.582094
-                  ]
-            },
-            {
-                  "name": "Hortobágyi Nemzeti Park Látogató Központ",
-                  "text": "A Hortobágyi Nemzeti Park látogatóközpontja információkat nyújt a helyi természetről.",
-                  "category": "museum",
-                  "coords": [
-                        21.15169,
-                        47.582392
-                  ]
-            },
-            {
-                  "name": "Hortobágyi Madárpark",
-                  "text": "Madárpark és mentőállomás védett madarak számára a Hortobágy-folyónál.",
-                  "category": "recreational",
-                  "coords": [
-                        21.152457,
-                        47.580772
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Pusztai Állatpark",
-                  "text": "Un parc de animale care prezintă rase tradiționale maghiare de animale.",
-                  "category": "recreational",
-                  "coords": [
-                        21.143712,
-                        47.573171
-                  ]
-            },
             {
                   "name": "Hortobágyi Vadaspark",
                   "text": "Un parc de animale sălbatice care prezintă fauna nativă a Pustei.",
@@ -3173,54 +3074,9 @@ export const poiExtraHu2: POI[] = [
                         21.136385,
                         47.552353
                   ]
-            },
-            {
-                  "name": "Vízi színpad",
-                  "text": "O scenă în aer liber pe apă pentru spectacole culturale locale.",
-                  "category": "cultural",
-                  "coords": [
-                        21.148013,
-                        47.580473
-                  ]
-            },
-            {
-                  "name": "Csárda Múzeum",
-                  "text": "Un muzeu despre istoria hanului tradițional maghiar csárda de lângă râul Hortobágy.",
-                  "category": "museum",
-                  "coords": [
-                        21.149176,
-                        47.582094
-                  ]
-            },
-            {
-                  "name": "Hortobágyi Nemzeti Park Látogató Központ",
-                  "text": "Centrul de vizitare al Parcului Național Hortobágy oferă informații despre natura locală.",
-                  "category": "museum",
-                  "coords": [
-                        21.15169,
-                        47.582392
-                  ]
-            },
-            {
-                  "name": "Hortobágyi Madárpark",
-                  "text": "Un parc de păsări și o stație de salvare pentru păsările protejate de lângă râul Hortobágy.",
-                  "category": "recreational",
-                  "coords": [
-                        21.152457,
-                        47.580772
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Pusztai Állatpark",
-                  "text": "An animal park showcasing traditional Hungarian livestock breeds.",
-                  "category": "recreational",
-                  "coords": [
-                        21.143712,
-                        47.573171
-                  ]
-            },
             {
                   "name": "Hortobágyi Vadaspark",
                   "text": "A wildlife park presenting the native fauna of the Puszta.",
@@ -3228,42 +3084,6 @@ export const poiExtraHu2: POI[] = [
                   "coords": [
                         21.136385,
                         47.552353
-                  ]
-            },
-            {
-                  "name": "Vízi színpad",
-                  "text": "An outdoor water stage for local cultural performances.",
-                  "category": "cultural",
-                  "coords": [
-                        21.148013,
-                        47.580473
-                  ]
-            },
-            {
-                  "name": "Csárda Múzeum",
-                  "text": "A museum about the history of the traditional Hungarian csárda inn by the Hortobagy River.",
-                  "category": "museum",
-                  "coords": [
-                        21.149176,
-                        47.582094
-                  ]
-            },
-            {
-                  "name": "Hortobágyi Nemzeti Park Látogató Központ",
-                  "text": "The visitor center of the Hortobágy National Park provides information about the local nature.",
-                  "category": "museum",
-                  "coords": [
-                        21.15169,
-                        47.582392
-                  ]
-            },
-            {
-                  "name": "Hortobágyi Madárpark",
-                  "text": "A bird park and rescue station for protected birds by the Hortobagy River.",
-                  "category": "recreational",
-                  "coords": [
-                        21.152457,
-                        47.580772
                   ]
             }
       ]
@@ -4240,15 +4060,6 @@ export const poiExtraHu2: POI[] = [
                         19.37563,
                         47.912924
                   ]
-            },
-            {
-                  "name": "Megvilágosodás Sztúpa",
-                  "text": "Ein buddhistisches Denkmal in Tar, das dem Frieden und der Erleuchtung gewidmet ist.",
-                  "category": "landmark",
-                  "coords": [
-                        19.382742,
-                        47.916205
-                  ]
             }
       ],
       "hu": [
@@ -4295,15 +4106,6 @@ export const poiExtraHu2: POI[] = [
                   "coords": [
                         19.37563,
                         47.912924
-                  ]
-            },
-            {
-                  "name": "Megvilágosodás Sztúpa",
-                  "text": "Buddhista emlékhely Tar községben, amelyet a békének és a megvilágosodásnak szenteltek.",
-                  "category": "landmark",
-                  "coords": [
-                        19.382742,
-                        47.916205
                   ]
             }
       ],
@@ -4352,15 +4154,6 @@ export const poiExtraHu2: POI[] = [
                         19.37563,
                         47.912924
                   ]
-            },
-            {
-                  "name": "Megvilágosodás Sztúpa",
-                  "text": "Un monument budist în Tar, dedicat păcii și iluminării.",
-                  "category": "landmark",
-                  "coords": [
-                        19.382742,
-                        47.916205
-                  ]
             }
       ],
       "en": [
@@ -4407,15 +4200,6 @@ export const poiExtraHu2: POI[] = [
                   "coords": [
                         19.37563,
                         47.912924
-                  ]
-            },
-            {
-                  "name": "Megvilágosodás Sztúpa",
-                  "text": "A Buddhist monument in Tar dedicated to peace and enlightenment.",
-                  "category": "landmark",
-                  "coords": [
-                        19.382742,
-                        47.916205
                   ]
             }
       ]
@@ -4776,15 +4560,6 @@ export const poiExtraHu2: POI[] = [
                   ]
             },
             {
-                  "name": "Balás-kúria",
-                  "text": "Ein Herrenhaus der Familie Balás in der Region Szandavár.",
-                  "category": "historical",
-                  "coords": [
-                        19.37563,
-                        47.912924
-                  ]
-            },
-            {
                   "name": "Megvilágosodás Sztúpa",
                   "text": "Eine buddhistische Stupa der Erleuchtung auf dem Szandavár-Hügel.",
                   "category": "landmark",
@@ -4838,15 +4613,6 @@ export const poiExtraHu2: POI[] = [
                   "coords": [
                         19.400093,
                         47.878714
-                  ]
-            },
-            {
-                  "name": "Balás-kúria",
-                  "text": "A Balás család kúriája a Szandavár-vidéken.",
-                  "category": "historical",
-                  "coords": [
-                        19.37563,
-                        47.912924
                   ]
             },
             {
@@ -4906,15 +4672,6 @@ export const poiExtraHu2: POI[] = [
                   ]
             },
             {
-                  "name": "Balás-kúria",
-                  "text": "Un conac al familiei Balás în regiunea Szandavár.",
-                  "category": "historical",
-                  "coords": [
-                        19.37563,
-                        47.912924
-                  ]
-            },
-            {
                   "name": "Megvilágosodás Sztúpa",
                   "text": "O stupă budistă dedicată iluminării pe dealul Szandavár.",
                   "category": "landmark",
@@ -4968,15 +4725,6 @@ export const poiExtraHu2: POI[] = [
                   "coords": [
                         19.400093,
                         47.878714
-                  ]
-            },
-            {
-                  "name": "Balás-kúria",
-                  "text": "A manor house belonging to the Balás family in the Szandavár region.",
-                  "category": "historical",
-                  "coords": [
-                        19.37563,
-                        47.912924
                   ]
             },
             {

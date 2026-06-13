@@ -7432,24 +7432,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Dorada Los Cabos Resort & Spa",
-                  "text": "Ein luxuriöses Resort in El Tezal, das Unterkünfte direkt am Strand bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -109.904965,
-                        22.888039
-                  ]
-            },
-            {
-                  "name": "Meliá Cabo San Lucas",
-                  "text": "Ein bekanntes Hotel in El Tezal, das für seinen Service und seine Lage am Meer geschätzt wird.",
-                  "category": "landmark",
-                  "coords": [
-                        -109.903976,
-                        22.888967
-                  ]
-            },
-            {
                   "name": "Playa El Médano",
                   "text": "Ein lebhafter Strand in El Tezal, bekannt für Wassersport und seine Nähe zu Cabo San Lucas.",
                   "category": "recreational",
@@ -7485,24 +7467,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -109.903609,
                         22.887376
-                  ]
-            },
-            {
-                  "name": "Casa Dorada Los Cabos Resort & Spa",
-                  "text": "Luxus üdülőhely El Tezalban, amely közvetlen tengerparti szállást kínál.",
-                  "category": "landmark",
-                  "coords": [
-                        -109.904965,
-                        22.888039
-                  ]
-            },
-            {
-                  "name": "Meliá Cabo San Lucas",
-                  "text": "Ismert szálloda El Tezalban, amelyet szolgáltatásai és tengerparti elhelyezkedése miatt kedvelnek.",
-                  "category": "landmark",
-                  "coords": [
-                        -109.903976,
-                        22.888967
                   ]
             },
             {
@@ -7544,24 +7508,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Dorada Los Cabos Resort & Spa",
-                  "text": "Un complex de lux în El Tezal, care oferă cazare direct pe plajă.",
-                  "category": "landmark",
-                  "coords": [
-                        -109.904965,
-                        22.888039
-                  ]
-            },
-            {
-                  "name": "Meliá Cabo San Lucas",
-                  "text": "Un hotel cunoscut în El Tezal, apreciat pentru serviciile sale și locația la malul mării.",
-                  "category": "landmark",
-                  "coords": [
-                        -109.903976,
-                        22.888967
-                  ]
-            },
-            {
                   "name": "Playa El Médano",
                   "text": "O plajă animată în El Tezal, cunoscută pentru sporturi nautice și proximitatea față de Cabo San Lucas.",
                   "category": "recreational",
@@ -7597,24 +7543,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -109.903609,
                         22.887376
-                  ]
-            },
-            {
-                  "name": "Casa Dorada Los Cabos Resort & Spa",
-                  "text": "A luxury resort in El Tezal offering beachfront accommodations.",
-                  "category": "landmark",
-                  "coords": [
-                        -109.904965,
-                        22.888039
-                  ]
-            },
-            {
-                  "name": "Meliá Cabo San Lucas",
-                  "text": "A well-known hotel in El Tezal valued for its service and seaside location.",
-                  "category": "landmark",
-                  "coords": [
-                        -109.903976,
-                        22.888967
                   ]
             },
             {
@@ -13692,24 +13620,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Josiah Quincy House",
-                  "text": "Das historische Wohnhaus der Familie Quincy in Quincy.",
-                  "category": "museum",
-                  "coords": [
-                        -71.014699,
-                        42.271762
-                  ]
-            },
-            {
-                  "name": "United States Naval Shipbuilding Museum",
-                  "text": "Ein Marinemuseum in Quincy, das die Geschichte des Schiffbaus dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        -70.971697,
-                        42.242258
-                  ]
-            },
-            {
                   "name": "Quincy Historical Society Museum & Library",
                   "text": "Museum und Bibliothek der Geschichtsgesellschaft von Quincy.",
                   "category": "museum",
@@ -13734,15 +13644,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.00399,
                         42.251122
-                  ]
-            },
-            {
-                  "name": "Baxter Street Historic District",
-                  "text": "Ein historisches Viertel in Quincy mit gut erhaltenen Gebäuden.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.995048,
-                        42.249266
                   ]
             },
             {
@@ -13798,24 +13699,6 @@ export const naNewV1: POI[] = [
                         -70.986651,
                         42.2326
                   ]
-            },
-            {
-                  "name": "John Quincy Adams Birthplace",
-                  "text": "Das historische Geburtshaus des sechsten US-Präsidenten John Quincy Adams in Quincy.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.00347,
-                        42.239052
-                  ]
-            },
-            {
-                  "name": "Adams National Historical Park",
-                  "text": "Ein Nationalpark in Quincy, der das Erbe der Präsidentenfamilie Adams bewahrt.",
-                  "category": "museum",
-                  "coords": [
-                        -71.011637,
-                        42.255461
-                  ]
             }
       ],
       "hu": [
@@ -13835,24 +13718,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.997541,
                         42.233847
-                  ]
-            },
-            {
-                  "name": "Josiah Quincy House",
-                  "text": "A Quincy család történelmi lakóháza Quincyben.",
-                  "category": "museum",
-                  "coords": [
-                        -71.014699,
-                        42.271762
-                  ]
-            },
-            {
-                  "name": "United States Naval Shipbuilding Museum",
-                  "text": "Haditengerészeti múzeum Quincyben, amely a hajógyártás történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -70.971697,
-                        42.242258
                   ]
             },
             {
@@ -13880,15 +13745,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.00399,
                         42.251122
-                  ]
-            },
-            {
-                  "name": "Baxter Street Historic District",
-                  "text": "Történelmi negyed Quincyben jól megőrzött épületekkel.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.995048,
-                        42.249266
                   ]
             },
             {
@@ -13944,24 +13800,6 @@ export const naNewV1: POI[] = [
                         -70.986651,
                         42.2326
                   ]
-            },
-            {
-                  "name": "John Quincy Adams Birthplace",
-                  "text": "John Quincy Adams, az Egyesült Államok hatodik elnökének történelmi szülőháza Quincyben.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.00347,
-                        42.239052
-                  ]
-            },
-            {
-                  "name": "Adams National Historical Park",
-                  "text": "Nemzeti történelmi park Quincyben, amely az Adams elnöki család örökségét őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        -71.011637,
-                        42.255461
-                  ]
             }
       ],
       "ro": [
@@ -13981,24 +13819,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.997541,
                         42.233847
-                  ]
-            },
-            {
-                  "name": "Josiah Quincy House",
-                  "text": "Locuința istorică a familiei Quincy situată în Quincy.",
-                  "category": "museum",
-                  "coords": [
-                        -71.014699,
-                        42.271762
-                  ]
-            },
-            {
-                  "name": "United States Naval Shipbuilding Museum",
-                  "text": "Un muzeu naval în Quincy care documentează istoria construcțiilor navale.",
-                  "category": "museum",
-                  "coords": [
-                        -70.971697,
-                        42.242258
                   ]
             },
             {
@@ -14026,15 +13846,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.00399,
                         42.251122
-                  ]
-            },
-            {
-                  "name": "Baxter Street Historic District",
-                  "text": "Un district istoric în Quincy cu clădiri bine conservate.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.995048,
-                        42.249266
                   ]
             },
             {
@@ -14090,24 +13901,6 @@ export const naNewV1: POI[] = [
                         -70.986651,
                         42.2326
                   ]
-            },
-            {
-                  "name": "John Quincy Adams Birthplace",
-                  "text": "Casa natală istorică a celui de-al șaselea președinte al SUA, John Quincy Adams, în Quincy.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.00347,
-                        42.239052
-                  ]
-            },
-            {
-                  "name": "Adams National Historical Park",
-                  "text": "Un parc istoric național în Quincy, care păstrează moștenirea familiei prezidențiale Adams.",
-                  "category": "museum",
-                  "coords": [
-                        -71.011637,
-                        42.255461
-                  ]
             }
       ],
       "en": [
@@ -14127,24 +13920,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.997541,
                         42.233847
-                  ]
-            },
-            {
-                  "name": "Josiah Quincy House",
-                  "text": "The historic residence of the Quincy family located in Quincy.",
-                  "category": "museum",
-                  "coords": [
-                        -71.014699,
-                        42.271762
-                  ]
-            },
-            {
-                  "name": "United States Naval Shipbuilding Museum",
-                  "text": "A naval museum in Quincy documenting the history of shipbuilding.",
-                  "category": "museum",
-                  "coords": [
-                        -70.971697,
-                        42.242258
                   ]
             },
             {
@@ -14172,15 +13947,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.00399,
                         42.251122
-                  ]
-            },
-            {
-                  "name": "Baxter Street Historic District",
-                  "text": "A historic district in Quincy featuring well-preserved architecture.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.995048,
-                        42.249266
                   ]
             },
             {
@@ -14235,24 +14001,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.986651,
                         42.2326
-                  ]
-            },
-            {
-                  "name": "John Quincy Adams Birthplace",
-                  "text": "The historic birthplace of the sixth U.S. President, John Quincy Adams, in Quincy.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.00347,
-                        42.239052
-                  ]
-            },
-            {
-                  "name": "Adams National Historical Park",
-                  "text": "A national historical park in Quincy preserving the legacy of the Adams presidential family.",
-                  "category": "museum",
-                  "coords": [
-                        -71.011637,
-                        42.255461
                   ]
             }
       ]
@@ -15064,15 +14812,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "John Young Museum of Art",
-                  "text": "Ein Kunstmuseum in Honolulu an der University of Hawaiʻi at Mānoa, das asiatische und pazifische Kunstwerke ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        -157.81784,
-                        21.297725
-                  ]
-            },
-            {
                   "name": "Tantalus",
                   "text": "Ein markanter Gipfel in Honolulu, bekannt für seine kurvenreichen Straßen und den Panoramablick auf die Stadt.",
                   "category": "landmark",
@@ -15136,30 +14875,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lyon Arboretum and Botanical Garden",
-                  "text": "Ein Forschungsstandort und botanischer Garten in Honolulu, der von der University of Hawaiʻi verwaltet wird und sich auf tropische Pflanzen konzentriert.",
-                  "category": "park",
-                  "coords": [
-                        -157.803387,
-                        21.333382
-                  ]
-            },
-            {
                   "name": "Waʻaloa Spring",
                   "text": "Eine natürliche Süßwasserquelle in der Region Honolulu.",
                   "category": "landmark",
                   "coords": [
                         -157.791111,
                         21.334602
-                  ]
-            },
-            {
-                  "name": "Sacred Heart Church",
-                  "text": "Eine historische katholische Kirche in Honolulu, die für ihre markante Architektur und ihre Bedeutung für die Gemeinde bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        -157.831009,
-                        21.301608
                   ]
             },
             {
@@ -15198,15 +14919,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -157.825809,
                         21.303423
-                  ]
-            },
-            {
-                  "name": "John Young Museum of Art",
-                  "text": "Művészeti múzeum Honoluluban, a Hawaii Egyetemen, amely ázsiai és csendes-óceáni műalkotásokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -157.81784,
-                        21.297725
                   ]
             },
             {
@@ -15273,30 +14985,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lyon Arboretum and Botanical Garden",
-                  "text": "A Hawaii Egyetem által kezelt kutatóhely és botanikus kert Honoluluban, amely trópusi növényekre összpontosít.",
-                  "category": "park",
-                  "coords": [
-                        -157.803387,
-                        21.333382
-                  ]
-            },
-            {
                   "name": "Waʻaloa Spring",
                   "text": "Természetes édesvízi forrás Honolulu környékén.",
                   "category": "landmark",
                   "coords": [
                         -157.791111,
                         21.334602
-                  ]
-            },
-            {
-                  "name": "Sacred Heart Church",
-                  "text": "Történelmi katolikus templom Honoluluban, amely jellegzetes építészetéről és közösségi jelentőségéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        -157.831009,
-                        21.301608
                   ]
             },
             {
@@ -15335,15 +15029,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -157.825809,
                         21.303423
-                  ]
-            },
-            {
-                  "name": "John Young Museum of Art",
-                  "text": "Un muzeu de artă din Honolulu situat la Universitatea din Hawaiʻi la Mānoa, care expune opere de artă asiatice și din Pacific.",
-                  "category": "museum",
-                  "coords": [
-                        -157.81784,
-                        21.297725
                   ]
             },
             {
@@ -15410,30 +15095,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lyon Arboretum and Botanical Garden",
-                  "text": "Un sit de cercetare și grădină botanică din Honolulu administrat de Universitatea din Hawaiʻi, axat pe plante tropicale.",
-                  "category": "park",
-                  "coords": [
-                        -157.803387,
-                        21.333382
-                  ]
-            },
-            {
                   "name": "Waʻaloa Spring",
                   "text": "Un izvor natural de apă dulce situat în zona Honolulu.",
                   "category": "landmark",
                   "coords": [
                         -157.791111,
                         21.334602
-                  ]
-            },
-            {
-                  "name": "Sacred Heart Church",
-                  "text": "O biserică catolică istorică din Honolulu, cunoscută pentru arhitectura sa distinctivă și importanța sa comunitară.",
-                  "category": "religious",
-                  "coords": [
-                        -157.831009,
-                        21.301608
                   ]
             },
             {
@@ -15472,15 +15139,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -157.825809,
                         21.303423
-                  ]
-            },
-            {
-                  "name": "John Young Museum of Art",
-                  "text": "An art museum in Honolulu located at the University of Hawaiʻi at Mānoa, showcasing Asian and Pacific artworks.",
-                  "category": "museum",
-                  "coords": [
-                        -157.81784,
-                        21.297725
                   ]
             },
             {
@@ -15547,30 +15205,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lyon Arboretum and Botanical Garden",
-                  "text": "A research site and botanical garden in Honolulu managed by the University of Hawaiʻi, focusing on tropical plants.",
-                  "category": "park",
-                  "coords": [
-                        -157.803387,
-                        21.333382
-                  ]
-            },
-            {
                   "name": "Waʻaloa Spring",
                   "text": "A natural freshwater spring located in the Honolulu area.",
                   "category": "landmark",
                   "coords": [
                         -157.791111,
                         21.334602
-                  ]
-            },
-            {
-                  "name": "Sacred Heart Church",
-                  "text": "A historic Catholic church in Honolulu known for its distinctive architecture and community significance.",
-                  "category": "religious",
-                  "coords": [
-                        -157.831009,
-                        21.301608
                   ]
             },
             {
@@ -20035,24 +19675,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Playa Secreta",
-                  "text": "Ein ruhiger und abgelegener Strandabschnitt in Bahía de Conejos.",
-                  "category": "recreational",
-                  "coords": [
-                        -96.097073,
-                        15.763088
-                  ]
-            },
-            {
-                  "name": "Playa Tornillo",
-                  "text": "Ein malerischer Strand in Bahía de Conejos, der für sein klares Wasser bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        -96.099976,
-                        15.767017
-                  ]
-            },
-            {
                   "name": "Playa Tangolunda",
                   "text": "Ein beliebter und schöner Strand in der Gegend von Bahía de Conejos.",
                   "category": "recreational",
@@ -20086,24 +19708,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -96.084369,
                         15.764747
-                  ]
-            },
-            {
-                  "name": "Playa Manzanilla",
-                  "text": "Ein ruhiger Strand in Bahía de Conejos, umgeben von Küstenvegetation.",
-                  "category": "recreational",
-                  "coords": [
-                        -96.099074,
-                        15.764715
-                  ]
-            },
-            {
-                  "name": "Playa Ventura",
-                  "text": "Ein schöner Sandstrand in Bahía de Conejos, der eine ruhige Atmosphäre bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        -96.097916,
-                        15.764406
                   ]
             },
             {
@@ -20145,24 +19749,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Playa Secreta",
-                  "text": "Egy csendes és eldugott strandszakasz Bahía de Conejos-ban.",
-                  "category": "recreational",
-                  "coords": [
-                        -96.097073,
-                        15.763088
-                  ]
-            },
-            {
-                  "name": "Playa Tornillo",
-                  "text": "Egy festői strand Bahía de Conejos-ban, amely tiszta vizéről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        -96.099976,
-                        15.767017
-                  ]
-            },
-            {
                   "name": "Playa Tangolunda",
                   "text": "Népszerű és szép strand Bahía de Conejos környékén.",
                   "category": "recreational",
@@ -20196,24 +19782,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -96.084369,
                         15.764747
-                  ]
-            },
-            {
-                  "name": "Playa Manzanilla",
-                  "text": "Békés strand Bahía de Conejos-ban, amelyet tengerparti növényzet vesz körül.",
-                  "category": "recreational",
-                  "coords": [
-                        -96.099074,
-                        15.764715
-                  ]
-            },
-            {
-                  "name": "Playa Ventura",
-                  "text": "Szép homokos tengerpart Bahía de Conejos-ban, amely nyugodt légkört kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        -96.097916,
-                        15.764406
                   ]
             },
             {
@@ -20255,24 +19823,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Playa Secreta",
-                  "text": "O zonă de plajă liniștită și retrasă în Bahía de Conejos.",
-                  "category": "recreational",
-                  "coords": [
-                        -96.097073,
-                        15.763088
-                  ]
-            },
-            {
-                  "name": "Playa Tornillo",
-                  "text": "O plajă pitorească din Bahía de Conejos, cunoscută pentru apele sale limpezi.",
-                  "category": "recreational",
-                  "coords": [
-                        -96.099976,
-                        15.767017
-                  ]
-            },
-            {
                   "name": "Playa Tangolunda",
                   "text": "O plajă populară și pitorească situată în zona Bahía de Conejos.",
                   "category": "recreational",
@@ -20306,24 +19856,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -96.084369,
                         15.764747
-                  ]
-            },
-            {
-                  "name": "Playa Manzanilla",
-                  "text": "O plajă liniștită în Bahía de Conejos, înconjurată de vegetație de coastă.",
-                  "category": "recreational",
-                  "coords": [
-                        -96.099074,
-                        15.764715
-                  ]
-            },
-            {
-                  "name": "Playa Ventura",
-                  "text": "O fâșie frumoasă de nisip în Bahía de Conejos, oferind o atmosferă calmă.",
-                  "category": "recreational",
-                  "coords": [
-                        -96.097916,
-                        15.764406
                   ]
             },
             {
@@ -20365,24 +19897,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Playa Secreta",
-                  "text": "A quiet and secluded beach area in Bahía de Conejos.",
-                  "category": "recreational",
-                  "coords": [
-                        -96.097073,
-                        15.763088
-                  ]
-            },
-            {
-                  "name": "Playa Tornillo",
-                  "text": "A picturesque beach in Bahía de Conejos known for its clear waters.",
-                  "category": "recreational",
-                  "coords": [
-                        -96.099976,
-                        15.767017
-                  ]
-            },
-            {
                   "name": "Playa Tangolunda",
                   "text": "A popular and scenic beach located in the Bahía de Conejos area.",
                   "category": "recreational",
@@ -20416,24 +19930,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -96.084369,
                         15.764747
-                  ]
-            },
-            {
-                  "name": "Playa Manzanilla",
-                  "text": "A peaceful beach in Bahía de Conejos surrounded by coastal vegetation.",
-                  "category": "recreational",
-                  "coords": [
-                        -96.099074,
-                        15.764715
-                  ]
-            },
-            {
-                  "name": "Playa Ventura",
-                  "text": "A beautiful stretch of sand in Bahía de Conejos, offering a calm atmosphere.",
-                  "category": "recreational",
-                  "coords": [
-                        -96.097916,
-                        15.764406
                   ]
             },
             {
@@ -20573,15 +20069,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -117.628338,
                         33.426901
-                  ]
-            },
-            {
-                  "name": "Casa Romantica Cultural Center and Gardens",
-                  "text": "Ein historisches Haus und Kulturzentrum in San Clemente mit wunderschönen Gärten und Meerblick.",
-                  "category": "museum",
-                  "coords": [
-                        -117.62044,
-                        33.421823
                   ]
             },
             {
@@ -20731,15 +20218,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Romantica Cultural Center and Gardens",
-                  "text": "Történelmi ház és kulturális központ San Clementében, gyönyörű kertekkel és óceáni kilátással.",
-                  "category": "museum",
-                  "coords": [
-                        -117.62044,
-                        33.421823
-                  ]
-            },
-            {
                   "name": "The Pier Beach",
                   "text": "Központi strand San Clementében, amely a város ikonikus mólója körül terül el.",
                   "category": "recreational",
@@ -20886,15 +20364,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Romantica Cultural Center and Gardens",
-                  "text": "O casă istorică și centru cultural în San Clemente, cu grădină frumoase și vedere la ocean.",
-                  "category": "museum",
-                  "coords": [
-                        -117.62044,
-                        33.421823
-                  ]
-            },
-            {
                   "name": "The Pier Beach",
                   "text": "O plajă centrală din San Clemente, situată în jurul debarcaderului iconic al orașului.",
                   "category": "recreational",
@@ -21038,15 +20507,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -117.628338,
                         33.426901
-                  ]
-            },
-            {
-                  "name": "Casa Romantica Cultural Center and Gardens",
-                  "text": "A historic home and cultural center in San Clemente featuring beautiful gardens and ocean views.",
-                  "category": "museum",
-                  "coords": [
-                        -117.62044,
-                        33.421823
                   ]
             },
             {
@@ -23166,57 +22626,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "cannon",
-                  "text": "Ein historisches Artilleriegeschütz, das als Denkmal in Edgartown aufgestellt ist.",
-                  "category": "historical",
-                  "coords": [
-                        -70.511228,
-                        41.382427
-                  ]
-            },
-            {
                   "name": "Chappaquiddick Beach",
                   "text": "Ein ruhiger Strand auf Chappaquiddick Island, bekannt für seine natürliche Schönheit.",
                   "category": "recreational",
                   "coords": [
                         -70.499471,
                         41.384561
-                  ]
-            },
-            {
-                  "name": "ship's anchor",
-                  "text": "Ein maritimes Denkmal mit einem großen Schiffsanker in Edgartown.",
-                  "category": "historical",
-                  "coords": [
-                        -70.516753,
-                        41.381024
-                  ]
-            },
-            {
-                  "name": "Vincent House Museum",
-                  "text": "Ein historisches Hausmuseum, das traditionelle Architektur und lokale Geschichte zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -70.515316,
-                        41.391165
-                  ]
-            },
-            {
-                  "name": "Mill Hill",
-                  "text": "Eine geografische Erhebung in Edgartown, die einen Blick auf die umliegende Küstenlandschaft bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.518886,
-                        41.377874
-                  ]
-            },
-            {
-                  "name": "Sampson Hill",
-                  "text": "Ein bemerkenswerter Hügel auf Chappaquiddick Island, der einen Panoramablick auf die Umgebung bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.483915,
-                        41.377617
                   ]
             },
             {
@@ -23244,15 +22659,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.519752,
                         41.401868
-                  ]
-            },
-            {
-                  "name": "The Carnegie Heritage Center",
-                  "text": "Ein Kulturzentrum in einem ehemaligen Bibliotheksgebäude, das sich auf das lokale Erbe und die Schifffahrtsgeschichte konzentriert.",
-                  "category": "museum",
-                  "coords": [
-                        -70.511273,
-                        41.390524
                   ]
             },
             {
@@ -23303,57 +22709,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "cannon",
-                  "text": "Edgartownban emlékműként kiállított történelmi tüzérségi eszköz.",
-                  "category": "historical",
-                  "coords": [
-                        -70.511228,
-                        41.382427
-                  ]
-            },
-            {
                   "name": "Chappaquiddick Beach",
                   "text": "A Chappaquiddick-szigeten található nyugodt tengerpart, amely természeti szépségéről ismert.",
                   "category": "recreational",
                   "coords": [
                         -70.499471,
                         41.384561
-                  ]
-            },
-            {
-                  "name": "ship's anchor",
-                  "text": "Edgartown tengerészeti emlékműve, amely egy nagy hajóhorgonyt ábrázol.",
-                  "category": "historical",
-                  "coords": [
-                        -70.516753,
-                        41.381024
-                  ]
-            },
-            {
-                  "name": "Vincent House Museum",
-                  "text": "Történelmi házmúzeum, amely a hagyományos építészetet és a helyi történelmet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -70.515316,
-                        41.391165
-                  ]
-            },
-            {
-                  "name": "Mill Hill",
-                  "text": "Edgartownban található magaslat, ahonnan kilátás nyílik a környező tengerparti tájra.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.518886,
-                        41.377874
-                  ]
-            },
-            {
-                  "name": "Sampson Hill",
-                  "text": "Jelentős domb a Chappaquiddick-szigeten, ahonnan panorámás kilátás nyílik a környékre.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.483915,
-                        41.377617
                   ]
             },
             {
@@ -23381,15 +22742,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.519752,
                         41.401868
-                  ]
-            },
-            {
-                  "name": "The Carnegie Heritage Center",
-                  "text": "Egy korábbi könyvtárépületben helyet kapott kulturális központ, amely a helyi örökségre és a tengerészeti történelemre összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        -70.511273,
-                        41.390524
                   ]
             },
             {
@@ -23440,57 +22792,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "cannon",
-                  "text": "O piesă de artilerie istorică expusă ca monument în Edgartown.",
-                  "category": "historical",
-                  "coords": [
-                        -70.511228,
-                        41.382427
-                  ]
-            },
-            {
                   "name": "Chappaquiddick Beach",
                   "text": "O plajă liniștită situată pe insula Chappaquiddick, cunoscută pentru frumusețea sa naturală.",
                   "category": "recreational",
                   "coords": [
                         -70.499471,
                         41.384561
-                  ]
-            },
-            {
-                  "name": "ship's anchor",
-                  "text": "Un monument maritim care prezintă o ancoră mare de navă în Edgartown.",
-                  "category": "historical",
-                  "coords": [
-                        -70.516753,
-                        41.381024
-                  ]
-            },
-            {
-                  "name": "Vincent House Museum",
-                  "text": "O casă muzeu istorică ce prezintă arhitectura tradițională și istoria locală.",
-                  "category": "museum",
-                  "coords": [
-                        -70.515316,
-                        41.391165
-                  ]
-            },
-            {
-                  "name": "Mill Hill",
-                  "text": "O cotă geografică în Edgartown care oferă vedere spre peisajul de coastă înconjurător.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.518886,
-                        41.377874
-                  ]
-            },
-            {
-                  "name": "Sampson Hill",
-                  "text": "Un deal notabil pe insula Chappaquiddick care oferă vederi panoramice asupra zonei.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.483915,
-                        41.377617
                   ]
             },
             {
@@ -23518,15 +22825,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.519752,
                         41.401868
-                  ]
-            },
-            {
-                  "name": "The Carnegie Heritage Center",
-                  "text": "Un centru cultural găzduit într-o fostă clădire de bibliotecă, axat pe moștenirea locală și istoria maritimă.",
-                  "category": "museum",
-                  "coords": [
-                        -70.511273,
-                        41.390524
                   ]
             },
             {
@@ -23577,57 +22875,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "cannon",
-                  "text": "A historic artillery piece displayed as a monument in Edgartown.",
-                  "category": "historical",
-                  "coords": [
-                        -70.511228,
-                        41.382427
-                  ]
-            },
-            {
                   "name": "Chappaquiddick Beach",
                   "text": "A tranquil beach located on Chappaquiddick Island, known for its natural beauty.",
                   "category": "recreational",
                   "coords": [
                         -70.499471,
                         41.384561
-                  ]
-            },
-            {
-                  "name": "ship's anchor",
-                  "text": "A maritime monument featuring a large ship's anchor in Edgartown.",
-                  "category": "historical",
-                  "coords": [
-                        -70.516753,
-                        41.381024
-                  ]
-            },
-            {
-                  "name": "Vincent House Museum",
-                  "text": "A historic house museum showcasing traditional architecture and local history.",
-                  "category": "museum",
-                  "coords": [
-                        -70.515316,
-                        41.391165
-                  ]
-            },
-            {
-                  "name": "Mill Hill",
-                  "text": "A geographic elevation in Edgartown providing views of the surrounding coastal landscape.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.518886,
-                        41.377874
-                  ]
-            },
-            {
-                  "name": "Sampson Hill",
-                  "text": "A notable hill on Chappaquiddick Island offering panoramic views of the area.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.483915,
-                        41.377617
                   ]
             },
             {
@@ -23655,15 +22908,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.519752,
                         41.401868
-                  ]
-            },
-            {
-                  "name": "The Carnegie Heritage Center",
-                  "text": "A cultural center housed in a former library building, focusing on local heritage and maritime history.",
-                  "category": "museum",
-                  "coords": [
-                        -70.511273,
-                        41.390524
                   ]
             },
             {
@@ -25330,24 +24574,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Église des Saints-Anges-Gardiens",
-                  "text": "Eine bedeutende Kirche in der Region Kahnawake, bekannt für ihre Architektur und religiöse Bedeutung.",
-                  "category": "religious",
-                  "coords": [
-                        -73.677129,
-                        45.432962
-                  ]
-            },
-            {
-                  "name": "Lieu historique national du Commerce-de-la-Fourrure-à-Lachine",
-                  "text": "Eine historische Stätte in Kahnawake, die die Geschichte des Pelzhandels in der Region dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        -73.675535,
-                        45.431439
-                  ]
-            },
-            {
                   "name": "Parc LaSalle",
                   "text": "Ein öffentlicher Park in Kahnawake, der Platz für Freizeitaktivitäten und Erholung im Grünen bietet.",
                   "category": "park",
@@ -25381,15 +24607,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -73.698806,
                         45.412155
-                  ]
-            },
-            {
-                  "name": "Parc René-Lévesque",
-                  "text": "Ein großer Park in Kahnawake, der für seinen Skulpturengarten bekannt ist.",
-                  "category": "park",
-                  "coords": [
-                        -73.679651,
-                        45.428614
                   ]
             },
             {
@@ -25449,24 +24666,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Église des Saints-Anges-Gardiens",
-                  "text": "Jelentős templom Kahnawake régiójában, amely építészetéről és vallási jelentőségéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        -73.677129,
-                        45.432962
-                  ]
-            },
-            {
-                  "name": "Lieu historique national du Commerce-de-la-Fourrure-à-Lachine",
-                  "text": "Történelmi emlékhely Kahnawake területén, amely a régió szőrmekereskedelmi múltját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -73.675535,
-                        45.431439
-                  ]
-            },
-            {
                   "name": "Parc LaSalle",
                   "text": "Nyilvános park Kahnawake városában, amely helyet biztosít a szabadidős tevékenységekhez.",
                   "category": "park",
@@ -25500,15 +24699,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -73.698806,
                         45.412155
-                  ]
-            },
-            {
-                  "name": "Parc René-Lévesque",
-                  "text": "Egy nagy park Kahnawake-ben, amely szoborkertjéről ismert.",
-                  "category": "park",
-                  "coords": [
-                        -73.679651,
-                        45.428614
                   ]
             },
             {
@@ -25568,24 +24758,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Église des Saints-Anges-Gardiens",
-                  "text": "O biserică importantă în regiunea Kahnawake, cunoscută pentru arhitectura și semnificația sa religioasă.",
-                  "category": "religious",
-                  "coords": [
-                        -73.677129,
-                        45.432962
-                  ]
-            },
-            {
-                  "name": "Lieu historique national du Commerce-de-la-Fourrure-à-Lachine",
-                  "text": "Un sit istoric în Kahnawake care documentează istoria comerțului cu blănuri din regiune.",
-                  "category": "museum",
-                  "coords": [
-                        -73.675535,
-                        45.431439
-                  ]
-            },
-            {
                   "name": "Parc LaSalle",
                   "text": "Un parc public în Kahnawake, care oferă spațiu pentru activități recreative și relaxare în aer liber.",
                   "category": "park",
@@ -25619,15 +24791,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -73.698806,
                         45.412155
-                  ]
-            },
-            {
-                  "name": "Parc René-Lévesque",
-                  "text": "Un parc mare în Kahnawake, cunoscut pentru grădina sa de sculpturi.",
-                  "category": "park",
-                  "coords": [
-                        -73.679651,
-                        45.428614
                   ]
             },
             {
@@ -25687,24 +24850,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Église des Saints-Anges-Gardiens",
-                  "text": "A significant church in the Kahnawake region known for its architecture and religious importance.",
-                  "category": "religious",
-                  "coords": [
-                        -73.677129,
-                        45.432962
-                  ]
-            },
-            {
-                  "name": "The Fur Trade at Lachine National Historic Site",
-                  "text": "A historic site in Kahnawake documenting the history of the fur trade in the region.",
-                  "category": "museum",
-                  "coords": [
-                        -73.675535,
-                        45.431439
-                  ]
-            },
-            {
                   "name": "Parc LaSalle",
                   "text": "A public park in Kahnawake offering space for recreational activities and outdoor relaxation.",
                   "category": "park",
@@ -25738,15 +24883,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -73.698806,
                         45.412155
-                  ]
-            },
-            {
-                  "name": "Parc René-Lévesque",
-                  "text": "A large park in Kahnawake known for its sculpture garden.",
-                  "category": "park",
-                  "coords": [
-                        -73.679651,
-                        45.428614
                   ]
             },
             {
@@ -28245,24 +27381,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Niguel Marine Life Refuge",
-                  "text": "Ein geschütztes Meeresgebiet und Park in Dana Point, der dem Küstenschutz gewidmet ist.",
-                  "category": "park",
-                  "coords": [
-                        -117.723109,
-                        33.475861
-                  ]
-            },
-            {
-                  "name": "Dana Cove",
-                  "text": "Eine charmante Küstenbucht in Dana Point, bekannt für ihr ruhiges Wasser und die malerische Umgebung.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.704774,
-                        33.46225
-                  ]
-            },
-            {
                   "name": "Doris Walker Overlook",
                   "text": "Ein Aussichtspunkt in Dana Point mit Panoramablick auf den Hafen und die Küste.",
                   "category": "natural",
@@ -28278,60 +27396,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -117.697409,
                         33.486221
-                  ]
-            },
-            {
-                  "name": "Doheny Marine Life Refuge",
-                  "text": "Ein Küstenpark und Meeresschutzgebiet in Dana Point zum Schutz der lokalen Meeresbewohner.",
-                  "category": "park",
-                  "coords": [
-                        -117.680885,
-                        33.460306
-                  ]
-            },
-            {
-                  "name": "Ocean Institute",
-                  "text": "Ein Bildungsmuseum in Dana Point, das sich mit Meereswissenschaften und Seefahrtsgeschichte befasst.",
-                  "category": "museum",
-                  "coords": [
-                        -117.706704,
-                        33.461206
-                  ]
-            },
-            {
-                  "name": "Sea Terrace Community Park",
-                  "text": "Ein Gemeindepark in Dana Point mit Grünflächen und Wanderwegen in Meeresnähe.",
-                  "category": "park",
-                  "coords": [
-                        -117.717516,
-                        33.479012
-                  ]
-            },
-            {
-                  "name": "Ocean Knoll Park",
-                  "text": "Ein ruhiger lokaler Park in Dana Point, ideal für Erholung im Freien und Entspannung.",
-                  "category": "park",
-                  "coords": [
-                        -117.692384,
-                        33.466454
-                  ]
-            },
-            {
-                  "name": "Mission Bell Park",
-                  "text": "Ein öffentlicher Park in Dana Point mit Grünflächen für die Gemeinschaft und Freizeitgestaltung.",
-                  "category": "park",
-                  "coords": [
-                        -117.678891,
-                        33.480534
-                  ]
-            },
-            {
-                  "name": "Louise Leydon Park",
-                  "text": "Ein Nachbarschaftspark in Dana Point, der Anwohnern einen ruhigen Ort zum Naturgenießen bietet.",
-                  "category": "park",
-                  "coords": [
-                        -117.677456,
-                        33.461972
                   ]
             },
             {
@@ -28382,24 +27446,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Niguel Marine Life Refuge",
-                  "text": "Védett tengeri terület és park Dana Pointban, a parti védelem jegyében.",
-                  "category": "park",
-                  "coords": [
-                        -117.723109,
-                        33.475861
-                  ]
-            },
-            {
-                  "name": "Dana Cove",
-                  "text": "Bájos tengerparti öböl Dana Pointban, amely nyugodt vizéről és festői környezetéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.704774,
-                        33.46225
-                  ]
-            },
-            {
                   "name": "Doris Walker Overlook",
                   "text": "Kilátó Dana Pointban, ahonnan panorámás kilátás nyílik a kikötőre és a tengerpartra.",
                   "category": "natural",
@@ -28415,60 +27461,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -117.697409,
                         33.486221
-                  ]
-            },
-            {
-                  "name": "Doheny Marine Life Refuge",
-                  "text": "Tengerparti park és tengeri menedékhely Dana Pointban a helyi élővilág védelmére.",
-                  "category": "park",
-                  "coords": [
-                        -117.680885,
-                        33.460306
-                  ]
-            },
-            {
-                  "name": "Ocean Institute",
-                  "text": "Oktatási múzeum Dana Pointban, amely a tengerkutatásra és a tengerészeti történelemre összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        -117.706704,
-                        33.461206
-                  ]
-            },
-            {
-                  "name": "Sea Terrace Community Park",
-                  "text": "Közösségi park Dana Pointban zöldfelületekkel és sétányokkal az óceán közelében.",
-                  "category": "park",
-                  "coords": [
-                        -117.717516,
-                        33.479012
-                  ]
-            },
-            {
-                  "name": "Ocean Knoll Park",
-                  "text": "Nyugodt helyi park Dana Pointban, amely ideális szabadtéri kikapcsolódáshoz és pihenéshez.",
-                  "category": "park",
-                  "coords": [
-                        -117.692384,
-                        33.466454
-                  ]
-            },
-            {
-                  "name": "Mission Bell Park",
-                  "text": "Közpark Dana Pointban, amely zöldterületet kínál a közösség és a szabadidő számára.",
-                  "category": "park",
-                  "coords": [
-                        -117.678891,
-                        33.480534
-                  ]
-            },
-            {
-                  "name": "Louise Leydon Park",
-                  "text": "Környékbeli park Dana Pointban, amely csendes helyet biztosít a természet élvezetéhez.",
-                  "category": "park",
-                  "coords": [
-                        -117.677456,
-                        33.461972
                   ]
             },
             {
@@ -28519,24 +27511,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Niguel Marine Life Refuge",
-                  "text": "O rezervație marină protejată și parc în Dana Point, dedicat conservării costiere.",
-                  "category": "park",
-                  "coords": [
-                        -117.723109,
-                        33.475861
-                  ]
-            },
-            {
-                  "name": "Dana Cove",
-                  "text": "Un golf de coastă fermecător în Dana Point, cunoscut pentru apele sale calme și împrejurimile pitorești.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.704774,
-                        33.46225
-                  ]
-            },
-            {
                   "name": "Doris Walker Overlook",
                   "text": "Un punct de observație în Dana Point ce oferă vederi panoramice asupra portului și a liniei de coastă.",
                   "category": "natural",
@@ -28552,60 +27526,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -117.697409,
                         33.486221
-                  ]
-            },
-            {
-                  "name": "Doheny Marine Life Refuge",
-                  "text": "Un parc de coastă și refugiu marin în Dana Point, axat pe protejarea faunei marine locale.",
-                  "category": "park",
-                  "coords": [
-                        -117.680885,
-                        33.460306
-                  ]
-            },
-            {
-                  "name": "Ocean Institute",
-                  "text": "Un muzeu educațional din Dana Point axat pe știința marină și istoria maritimă.",
-                  "category": "museum",
-                  "coords": [
-                        -117.706704,
-                        33.461206
-                  ]
-            },
-            {
-                  "name": "Sea Terrace Community Park",
-                  "text": "Un parc comunitar în Dana Point, cu spații verzi și alei de plimbare lângă ocean.",
-                  "category": "park",
-                  "coords": [
-                        -117.717516,
-                        33.479012
-                  ]
-            },
-            {
-                  "name": "Ocean Knoll Park",
-                  "text": "Un parc local liniștit în Dana Point, ideal pentru recreere în aer liber și relaxare.",
-                  "category": "park",
-                  "coords": [
-                        -117.692384,
-                        33.466454
-                  ]
-            },
-            {
-                  "name": "Mission Bell Park",
-                  "text": "Un parc public din Dana Point care oferă spațiu verde pentru comunitate și recreere.",
-                  "category": "park",
-                  "coords": [
-                        -117.678891,
-                        33.480534
-                  ]
-            },
-            {
-                  "name": "Louise Leydon Park",
-                  "text": "Un parc de cartier în Dana Point, oferind un loc liniștit pentru a se bucura de natură.",
-                  "category": "park",
-                  "coords": [
-                        -117.677456,
-                        33.461972
                   ]
             },
             {
@@ -28656,24 +27576,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Niguel Marine Life Refuge",
-                  "text": "A protected marine area and park in Dana Point dedicated to coastal conservation.",
-                  "category": "park",
-                  "coords": [
-                        -117.723109,
-                        33.475861
-                  ]
-            },
-            {
-                  "name": "Dana Cove",
-                  "text": "A charming coastal bay in Dana Point known for its calm waters and scenic surroundings.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.704774,
-                        33.46225
-                  ]
-            },
-            {
                   "name": "Doris Walker Overlook",
                   "text": "A scenic viewpoint in Dana Point providing panoramic vistas of the harbor and coastline.",
                   "category": "natural",
@@ -28689,60 +27591,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -117.697409,
                         33.486221
-                  ]
-            },
-            {
-                  "name": "Doheny Marine Life Refuge",
-                  "text": "A coastal park and marine refuge in Dana Point focused on protecting local sea life.",
-                  "category": "park",
-                  "coords": [
-                        -117.680885,
-                        33.460306
-                  ]
-            },
-            {
-                  "name": "Ocean Institute",
-                  "text": "An educational museum in Dana Point focused on marine science and maritime history.",
-                  "category": "museum",
-                  "coords": [
-                        -117.706704,
-                        33.461206
-                  ]
-            },
-            {
-                  "name": "Sea Terrace Community Park",
-                  "text": "A community park in Dana Point featuring green spaces and walking paths near the ocean.",
-                  "category": "park",
-                  "coords": [
-                        -117.717516,
-                        33.479012
-                  ]
-            },
-            {
-                  "name": "Ocean Knoll Park",
-                  "text": "A peaceful local park in Dana Point ideal for outdoor recreation and relaxation.",
-                  "category": "park",
-                  "coords": [
-                        -117.692384,
-                        33.466454
-                  ]
-            },
-            {
-                  "name": "Mission Bell Park",
-                  "text": "A public park in Dana Point offering green space for community use and leisure.",
-                  "category": "park",
-                  "coords": [
-                        -117.678891,
-                        33.480534
-                  ]
-            },
-            {
-                  "name": "Louise Leydon Park",
-                  "text": "A neighborhood park in Dana Point providing a quiet spot for residents to enjoy nature.",
-                  "category": "park",
-                  "coords": [
-                        -117.677456,
-                        33.461972
                   ]
             },
             {
@@ -28822,15 +27670,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lone Sailor Monument",
-                  "text": "Ein Denkmal in Sausalito, das den Seeleuten der US Navy gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        -122.47995,
-                        37.83266
-                  ]
-            },
-            {
                   "name": "Battery Cavallo",
                   "text": "Die Ruinen einer ehemaligen Küstenbatterie in Sausalito mit Blick auf die Golden Gate Bridge.",
                   "category": "historical",
@@ -28873,15 +27712,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -122.504495,
                         37.868544
-                  ]
-            },
-            {
-                  "name": "Richardson Bay",
-                  "text": "Ein flacher Arm der San Francisco Bay, der für seine ökologische Bedeutung bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.486844,
-                        37.876381
                   ]
             },
             {
@@ -28986,15 +27816,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lone Sailor Monument",
-                  "text": "Emlékmű Sausalitóban, amelyet az amerikai haditengerészet tengerészeinek szenteltek.",
-                  "category": "historical",
-                  "coords": [
-                        -122.47995,
-                        37.83266
-                  ]
-            },
-            {
                   "name": "Battery Cavallo",
                   "text": "Egy egykori parti üteg romjai Sausalitóban, kilátással a Golden Gate hídra.",
                   "category": "historical",
@@ -29037,15 +27858,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -122.504495,
                         37.868544
-                  ]
-            },
-            {
-                  "name": "Richardson Bay",
-                  "text": "A San Francisco-öböl sekély nyúlványa, amely ökológiai jelentőségéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.486844,
-                        37.876381
                   ]
             },
             {
@@ -29150,15 +27962,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lone Sailor Monument",
-                  "text": "Un monument în Sausalito dedicat marinarilor din Marina Statelor Unite.",
-                  "category": "historical",
-                  "coords": [
-                        -122.47995,
-                        37.83266
-                  ]
-            },
-            {
                   "name": "Battery Cavallo",
                   "text": "Ruinele unei foste baterii de coastă în Sausalito, cu vedere spre Podul Golden Gate.",
                   "category": "historical",
@@ -29201,15 +28004,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -122.504495,
                         37.868544
-                  ]
-            },
-            {
-                  "name": "Richardson Bay",
-                  "text": "O ramificație puțin adâncă a Golfului San Francisco, cunoscută pentru importanța sa ecologică.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.486844,
-                        37.876381
                   ]
             },
             {
@@ -29314,15 +28108,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lone Sailor Monument",
-                  "text": "A monument in Sausalito dedicated to the sailors of the U.S. Navy.",
-                  "category": "historical",
-                  "coords": [
-                        -122.47995,
-                        37.83266
-                  ]
-            },
-            {
                   "name": "Battery Cavallo",
                   "text": "The ruins of a former coastal defense battery in Sausalito overlooking the Golden Gate Bridge.",
                   "category": "historical",
@@ -29365,15 +28150,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -122.504495,
                         37.868544
-                  ]
-            },
-            {
-                  "name": "Richardson Bay",
-                  "text": "A shallow arm of the San Francisco Bay known for its ecological importance.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.486844,
-                        37.876381
                   ]
             },
             {
@@ -37263,158 +36039,10 @@ export const naNewV1: POI[] = [
       ]
 }, "type": "city", "name": {"de": "Bishop's Cove", "hu": "Bishop's Cove", "ro": "Bishop's Cove", "en": "Bishop's Cove"}, "coords": [-53.22774, 47.63195], "parent": "CA-NL", "tier": 2, "description": {"de": "Ein malerisches Fischerdorf an der Conception Bay in Neufundland, bekannt für seine raue Küstenschönheit.", "hu": "Festői halászfalu az új-fundlandi Conception-öböl partján, amely vadregényes tengerparti tájairól ismert.", "ro": "Un sat pitoresc de pescari situat în Golful Conception din Newfoundland, cunoscut pentru frumusețea sa de coastă.", "en": "A picturesque fishing village on the shores of Conception Bay in Newfoundland, known for its rugged coastal beauty."}, "descriptionAdvanced": {"de": "Bishop's Cove ist ein verstecktes Juwel auf der Avalon-Halbinsel in Neufundland und Labrador. Die Gemeinde blickt auf eine reiche Fischereitradition zurück, die bis heute in der Architektur und dem entspannten Lebensstil der Bewohner spürbar ist. Die zerklüftete Küstenlinie bietet spektakuläre Ausblicke auf den Nordatlantik, wo man in den Frühlingsmonaten oft Eisberge und Wale beobachten kann.\n\nDie lokalen Strände wie Saunder's Beach, Bartlett's Beach und Bishop's Beach sind ideal für ruhige Spaziergänge und zum Sammeln von Treibholz. Sparkes Beach, Mack's Beach und Churchill's Beach bieten weitere Möglichkeiten, die frische Meeresbrise zu genießen. Die Gewässer sind zwar kühl, laden aber zu Erkundungen mit dem Kajak oder Boot ein.\n\nGastronomisch steht die Region ganz im Zeichen des Meeres. In der Nähe finden Besucher gemütliche Lokale, die frischen Kabeljau und traditionelle neufundländische Spezialitäten servieren. Die Anreise erfolgt am besten mit dem Auto über die landschaftlich reizvollen Küstenstraßen, die Bishop's Cove mit größeren Zentren wie St. John's verbinden.", "hu": "Bishop's Cove egy rejtett ékkő az új-fundlandi Avalon-félszigeten. A település mélyen gyökerező halászati hagyományokkal rendelkezik, ami a mai napig meghatározza a falu hangulatát és építészetét. A sziklás partvonal lenyűgöző kilátást nyújt az Atlanti-óceánra, ahol a tavaszi hónapokban nem ritka a jéghegyek és bálnák felbukkanása a távolban.\n\nA helyi strandok, mint a Saunder's Beach, a Bartlett's Beach és a Bishop's Beach, tökéletesek a nyugodt sétákhoz és a tengerparti kincsek kereséséhez. A Sparkes Beach, a Mack's Beach és a Churchill's Beach további lehetőséget kínál a természet közelségének élvezetére. Bár a víz hőmérséklete hűvös, a látvány és a friss sós levegő minden látogatót kárpótol.\n\nA gasztronómia középpontjában a frissen fogott tengeri halak állnak, különösen a tőkehal, amelyet helyi receptek alapján készítenek el a közeli éttermekben. A település legkönnyebben autóval érhető el St. John's irányából, egy rendkívül látványos tengerparti útvonalon keresztül, amely feltárja a tartomány érintetlen szépségét.", "ro": "Bishop's Cove este o bijuterie ascunsă pe Peninsula Avalon din Newfoundland și Labrador. Comunitatea are o tradiție pescărească bogată, care se reflectă și astăzi în arhitectura locală și în stilul de viață relaxat al locuitorilor. Linia de coastă accidentată oferă priveliști spectaculoase asupra Atlanticului de Nord, unde în lunile de primăvară pot fi observați adesea aisberguri și balene.\n\nPlajele locale, cum ar fi Saunder's Beach, Bartlett's Beach și Bishop's Beach, sunt ideale pentru plimbări liniștite și colectarea obiectelor aduse de valuri. Sparkes Beach, Mack's Beach și Churchill's Beach oferă spații suplimentare pentru a vă bucura de briza mării. Deși apele sunt reci, ele sunt perfecte pentru explorări cu caiacul sau barca în lungul țărmului stâncos.\n\nDin punct de vedere gastronomic, regiunea celebrează produsele marine proaspete. Vizitatorii pot găsi în apropiere localuri primitoare care servesc cod proaspăt și specialități tradiționale din Newfoundland. Accesul se face cel mai bine cu mașina, parcurgând drumurile de coastă pitorești care leagă Bishop's Cove de orașe mai mari, precum St. John's.", "en": "Bishop's Cove is a hidden gem located on the Avalon Peninsula of Newfoundland and Labrador. The community boasts a deep-rooted fishing heritage that remains evident in its architecture and the laid-back lifestyle of its residents. The rugged coastline provides spectacular views of the North Atlantic, where icebergs and whales are frequently spotted during the spring and summer months.\n\nLocal beaches such as Saunder's Beach, Bartlett's Beach, and Bishop's Beach are perfect for quiet strolls and beachcombing. Sparkes Beach, Mack's Beach, and Churchill's Beach offer additional spots to soak in the fresh ocean air. While the water temperatures are typically brisk, the scenery is unparalleled for kayaking and coastal exploration.\n\nThe local culinary scene focuses heavily on fresh seafood, with cod being a staple in nearby eateries. The village is best accessed by car via scenic coastal drives that connect Bishop's Cove to larger hubs like St. John's, making it a perfect destination for those seeking a tranquil escape in nature."}, "facts": {"de": ["Conception Bay Lage", "Fischereitradition", "Avalon-Halbinsel", "Eisbergbeobachtung", "Walsichtungen", "Raues Küstenklima", "Kabeljau-Spezialitäten", "Wandermöglichkeiten"], "hu": ["Conception-öböl", "Halászati múlt", "Avalon-félsziget", "Jéghegy nézés", "Bálna megfigyelés", "Sziklás partvidék", "Tőkehal ételek", "Csendes környezet"], "ro": ["Golful Conception", "Tradiție pescărească", "Peninsula Avalon", "Observare aisberguri", "Observare balene", "Climat maritim", "Specialități de cod", "Peisaje stâncoase"], "en": ["Conception Bay locale", "Fishing heritage", "Avalon Peninsula", "Iceberg viewing", "Whale watching", "Rugged coastline", "Cod specialties", "Scenic drives"]}, "image": "/poi-images/canada-bishop-s-cove-cities-v2.webp"},
 {"id": "mexico-puerto-marques-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Punta Diamante",
-                  "text": "Ein Strandbereich in Puerto Marqués, der für seine Küstenschönheit bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.84516,
-                        16.810534
-                  ]
-            },
-            {
-                  "name": "Playa Hermosa",
-                  "text": "Ein beliebter Strand in Puerto Marqués, der eine entspannende Atmosphäre bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.837373,
-                        16.796617
-                  ]
-            },
-            {
-                  "name": "Playa Majahua",
-                  "text": "Ein ruhiger Strandabschnitt in Puerto Marqués, ideal zum Schwimmen.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.838978,
-                        16.794536
-                  ]
-            },
-            {
-                  "name": "Playa Puerto Marqués",
-                  "text": "Ein zentraler Strand in Puerto Marqués, bekannt für sein ruhiges Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.836296,
-                        16.802264
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Punta Diamante",
-                  "text": "Tengerparti terület Puerto Marqués-ben, amely a part menti szépségéről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.84516,
-                        16.810534
-                  ]
-            },
-            {
-                  "name": "Playa Hermosa",
-                  "text": "Népszerű tengerpart Puerto Marqués-ben, amely pihentető légkört kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.837373,
-                        16.796617
-                  ]
-            },
-            {
-                  "name": "Playa Majahua",
-                  "text": "Nyugodt tengerparti hely Puerto Marqués-ben, amely ideális úszáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.838978,
-                        16.794536
-                  ]
-            },
-            {
-                  "name": "Playa Puerto Marqués",
-                  "text": "Központi tengerpart Puerto Marqués-ben, amely a nyugodt vizéről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.836296,
-                        16.802264
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Punta Diamante",
-                  "text": "O zonă de plajă în Puerto Marqués cunoscută pentru frumusețea sa de coastă.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.84516,
-                        16.810534
-                  ]
-            },
-            {
-                  "name": "Playa Hermosa",
-                  "text": "O plajă populară în Puerto Marqués care oferă o atmosferă relaxantă.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.837373,
-                        16.796617
-                  ]
-            },
-            {
-                  "name": "Playa Majahua",
-                  "text": "Un loc de plajă liniștit în Puerto Marqués, ideal pentru înot.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.838978,
-                        16.794536
-                  ]
-            },
-            {
-                  "name": "Playa Puerto Marqués",
-                  "text": "O plajă centrală în Puerto Marqués cunoscută pentru apele sale calme.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.836296,
-                        16.802264
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Punta Diamante",
-                  "text": "A beach area in Puerto Marqués known for its coastal beauty.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.84516,
-                        16.810534
-                  ]
-            },
-            {
-                  "name": "Playa Hermosa",
-                  "text": "A popular beach in Puerto Marqués offering a relaxing atmosphere.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.837373,
-                        16.796617
-                  ]
-            },
-            {
-                  "name": "Playa Majahua",
-                  "text": "A tranquil beach spot in Puerto Marqués ideal for swimming.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.838978,
-                        16.794536
-                  ]
-            },
-            {
-                  "name": "Playa Puerto Marqués",
-                  "text": "A central beach in Puerto Marqués known for its calm waters.",
-                  "category": "recreational",
-                  "coords": [
-                        -99.836296,
-                        16.802264
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "name": {"de": "Puerto Marqués", "hu": "Puerto Marqués", "ro": "Puerto Marqués", "en": "Puerto Marqués"}, "coords": [-99.83509, 16.80185], "parent": "MX-GRO", "tier": 2, "description": {"de": "Eine wunderschöne Bucht bei Acapulco, bekannt für ruhiges Wasser und exzellente Meeresfrüchte.", "hu": "Egy gyönyörű öböl Acapulco közelében, amely nyugodt vizéről és kiváló tengeri ételeiről híres.", "ro": "Un golf superb lângă Acapulco, cunoscut pentru apele sale calme și fructele de mare excelente.", "en": "A beautiful bay near Acapulco, famous for its calm waters and excellent seafood."}, "descriptionAdvanced": {"de": "Puerto Marqués liegt in einer geschützten Bucht südöstlich der Stadt Acapulco im Bundesstaat Guerrero. Dieser Ort ist ein beliebtes Ziel für Reisende, die eine entspanntere Atmosphäre als im Zentrum von Acapulco suchen. Das Wasser in der Bucht ist bemerkenswert ruhig und flach, was es ideal für Familien und Wassersportarten wie Stand-up-Paddling und Schnorcheln macht.\n\nDie Strände der Region sind vielfältig: Playa Puerto Marqués und Playa Majahua bieten sanfte Wellen und zahlreiche Restaurants direkt am Sand. Für ein luxuriöseres Erlebnis stehen Punta Diamante und Playa Hermosa zur Verfügung, während Playa Revolcadero für seine kräftigere Brandung bekannt ist. Playa Guitarrón bietet exklusive Ausblicke auf die Bucht von Acapulco.\n\nDie lokale Küche ist berühmt für 'Pescado a la Talla', einen über Holzkohle gegrillten Fisch mit Gewürzen. Puerto Marqués ist leicht mit dem Taxi oder Bus von Acapulco aus zu erreichen und liegt verkehrsgünstig in der Nähe des modernen Viertels Acapulco Diamante, wo sich gehobene Hotels und Einkaufszentren befinden.", "hu": "Puerto Marqués egy védett öbölben fekszik Acapulcótól délkeletre, Guerrero államban. Ez a helyszín népszerű azon utazók körében, akik nyugodtabb környezetre vágynak, mint Acapulco forgalmas központja. Az öböl vize rendkívül csendes és sekély, így ideális családok számára, valamint olyan vízi sportokhoz, mint a kajakozás vagy a könnyűbúvárkodás.\n\nA környék strandjai változatos élményeket kínálnak: a Playa Puerto Marqués és a Playa Majahua lankás partjai mellett számos tengerparti étterem sorakozik. Az exkluzívabb pihenésre vágyók a Punta Diamante és a Playa Hermosa partjait választhatják, míg a Playa Revolcadero híres az erősebb hullámzásáról. A Playa Guitarrón pedig lenyűgöző kilátást nyújt az egész öbölre.\n\nA helyi gasztronómia legismertebb fogása a 'Pescado a la Talla', egy fűszeres, faszénen sült hal. Puerto Marqués könnyen megközelíthető taxival vagy busszal Acapulco központjából, és kényelmes közelségben van a modern Acapulco Diamante negyedhez, ahol luxusszállodák és elegáns üzletek találhatók.", "ro": "Puerto Marqués este situat într-un golf protejat la sud-est de orașul Acapulco, în statul Guerrero. Această locație este o destinație preferată pentru călătorii care caută o atmosferă mai relaxată decât în centrul aglomerat al orașului Acapulco. Apele golfului sunt remarcabil de calme și puțin adânci, fiind ideale pentru familii și sporturi nautice precum stand-up paddle sau snorkeling.\n\nPlajele din regiune sunt diverse: Playa Puerto Marqués și Playa Majahua oferă valuri blânde și numeroase restaurante direct pe nisip. Pentru o experiență mai luxoasă, Punta Diamante și Playa Hermosa sunt opțiuni excelente, în timp ce Playa Revolcadero este cunoscută pentru valurile sale mai puternice. Playa Guitarrón oferă vederi exclusive spre Golful Acapulco.\n\nBucătăria locală este celebră pentru 'Pescado a la Talla', un pește gătit la grătar cu cărbuni și condimente. Puerto Marqués este ușor accesibil cu taxiul sau autobuzul din Acapulco și este situat convenabil lângă cartierul modern Acapulco Diamante, unde se află hoteluri de lux și centre comerciale.", "en": "Puerto Marqués is nestled in a sheltered bay southeast of Acapulco in the state of Guerrero. This destination is a favorite for travelers seeking a more relaxed vibe compared to Acapulco's bustling main bay. The water here is remarkably calm and shallow, making it perfect for families and water activities like kayaking and snorkeling.\n\nThe region's beaches offer a variety of experiences: Playa Puerto Marqués and Playa Majahua feature gentle waves and numerous beachfront eateries. For a more upscale experience, Punta Diamante and Playa Hermosa are the go-to spots, while Playa Revolcadero is famous for its more powerful surf. Playa Guitarrón provides exclusive views overlooking the wider bay area.\n\nThe local culinary highlight is 'Pescado a la Talla', a specially seasoned fish grilled over charcoal. Puerto Marqués is easily accessible by taxi or bus from Acapulco and is conveniently located near the modern Acapulco Diamante district, which hosts high-end hotels and shopping centers."}, "facts": {"de": ["Geschützte Bucht", "Ruhiges Wasser", "Pescado a la Talla", "Acapulco Diamante Nähe", "Wassersport-Eldorado", "Guerrero-Küste", "Familienfreundlich", "Ganzjährig warm"], "hu": ["Védett öböl", "Csendes víz", "Pescado a la Talla", "Acapulco Diamante közelsége", "Vízi sportok", "Guerrero állam", "Családbarát", "Egész évben meleg"], "ro": ["Golf protejat", "Ape calme", "Pescado a la Talla", "Lângă Acapulco Diamante", "Sporturi nautice", "Coasta Guerrero", "Ideal pentru familii", "Climat tropical"], "en": ["Sheltered bay", "Calm waters", "Pescado a la Talla", "Near Acapulco Diamante", "Water sports hub", "Guerrero coast", "Family-friendly", "Year-round warmth"]}, "image": "/poi-images/mexico-puerto-marques-cities-v2.webp"},
 {"id": "usa-avalon-cities-v2", "sights": {
       "de": [
@@ -37428,102 +36056,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "KISL-FM (Avalon)",
-                  "text": "Ein Sendeturm in Avalon, der für die lokale Kommunikation genutzt wird.",
-                  "category": "tower",
-                  "coords": [
-                        -118.322017,
-                        33.343362
-                  ]
-            },
-            {
-                  "name": "Lovers Cove",
-                  "text": "Eine kleine Bucht in Avalon, die für Schnorcheln bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.319517,
-                        33.343362
-                  ]
-            },
-            {
-                  "name": "Avalon Bay",
-                  "text": "Die zentrale Bucht von Avalon, der Hauptankunftsort der Insel.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.324239,
-                        33.345584
-                  ]
-            },
-            {
-                  "name": "Avalon Dive Park",
-                  "text": "Ein beliebter Tauchplatz in Avalon mit reicher Unterwasserwelt.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.324659,
-                        33.349098
-                  ]
-            },
-            {
-                  "name": "Descanso Bay",
-                  "text": "Eine Bucht in Avalon, die für ihren privaten Strandclub bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.326739,
-                        33.350584
-                  ]
-            },
-            {
-                  "name": "Hamilton Beach",
-                  "text": "Ein ruhiger Strandabschnitt nördlich des Stadtzentrums von Avalon.",
-                  "category": "recreational",
-                  "coords": [
-                        -118.330193,
-                        33.354222
-                  ]
-            },
-            {
-                  "name": "Wrigley Botanical Gardens",
-                  "text": "Ein botanischer Garten in Avalon, bekannt für das Wrigley Memorial.",
-                  "category": "park",
-                  "coords": [
-                        -118.340616,
-                        33.325839
-                  ]
-            },
-            {
-                  "name": "Lover's Cove State Marine Conservation Area",
-                  "text": "Ein geschütztes Meeresgebiet in Avalon zur Erhaltung der Unterwasserökosysteme.",
-                  "category": "natural",
-                  "coords": [
-                        -118.31786,
-                        33.343944
-                  ]
-            },
-            {
-                  "name": "Catalina Island Museum",
-                  "text": "Ein Museum in Avalon, das die Geschichte der Insel Santa Catalina zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -118.32801,
-                        33.343468
-                  ]
-            },
-            {
                   "name": "Middle Beach",
                   "text": "Ein zentral gelegener Strand in Avalon, ideal für Besucher.",
                   "category": "recreational",
                   "coords": [
                         -118.325381,
                         33.343733
-                  ]
-            },
-            {
-                  "name": "Catalina Casino",
-                  "text": "Ein ikonisches Wahrzeichen in Avalon mit einem prachtvollen Ballsaal.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.325774,
-                        33.348895
                   ]
             },
             {
@@ -37547,102 +36085,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "KISL-FM (Avalon)",
-                  "text": "Rádiótorony Avalonban, amelyet a helyi kommunikációra használnak.",
-                  "category": "tower",
-                  "coords": [
-                        -118.322017,
-                        33.343362
-                  ]
-            },
-            {
-                  "name": "Lovers Cove",
-                  "text": "Kisebb öböl Avalonban, amely népszerű a búvárkodók körében.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.319517,
-                        33.343362
-                  ]
-            },
-            {
-                  "name": "Avalon Bay",
-                  "text": "Avalon központi öble, a sziget fő érkezési pontja.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.324239,
-                        33.345584
-                  ]
-            },
-            {
-                  "name": "Avalon Dive Park",
-                  "text": "Népszerű merülőhely Avalonban, gazdag víz alatti élővilággal.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.324659,
-                        33.349098
-                  ]
-            },
-            {
-                  "name": "Descanso Bay",
-                  "text": "Öböl Avalonban, amely privát tengerparti klubjáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.326739,
-                        33.350584
-                  ]
-            },
-            {
-                  "name": "Hamilton Beach",
-                  "text": "Csendes tengerparti rész Avalon városközpontjától északra.",
-                  "category": "recreational",
-                  "coords": [
-                        -118.330193,
-                        33.354222
-                  ]
-            },
-            {
-                  "name": "Wrigley Botanical Gardens",
-                  "text": "Botanikus kert Avalonban, amely a Wrigley-emlékműről ismert.",
-                  "category": "park",
-                  "coords": [
-                        -118.340616,
-                        33.325839
-                  ]
-            },
-            {
-                  "name": "Lover's Cove State Marine Conservation Area",
-                  "text": "Védett tengeri terület Avalonban a víz alatti ökoszisztémák megőrzésére.",
-                  "category": "natural",
-                  "coords": [
-                        -118.31786,
-                        33.343944
-                  ]
-            },
-            {
-                  "name": "Catalina Island Museum",
-                  "text": "Múzeum Avalonban, amely a Santa Catalina-sziget történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -118.32801,
-                        33.343468
-                  ]
-            },
-            {
                   "name": "Middle Beach",
                   "text": "Központi fekvésű strand Avalonban, amely ideális a látogatóknak.",
                   "category": "recreational",
                   "coords": [
                         -118.325381,
                         33.343733
-                  ]
-            },
-            {
-                  "name": "Catalina Casino",
-                  "text": "Ikonikus jelkép Avalonban, amely egy pazar bálteremmel rendelkezik.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.325774,
-                        33.348895
                   ]
             },
             {
@@ -37666,102 +36114,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "KISL-FM (Avalon)",
-                  "text": "Un turn de transmisie în Avalon, utilizat pentru comunicațiile locale.",
-                  "category": "tower",
-                  "coords": [
-                        -118.322017,
-                        33.343362
-                  ]
-            },
-            {
-                  "name": "Lovers Cove",
-                  "text": "Un golf mic în Avalon, renumit pentru snorkeling.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.319517,
-                        33.343362
-                  ]
-            },
-            {
-                  "name": "Avalon Bay",
-                  "text": "Golful central din Avalon, principalul punct de sosire pe insulă.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.324239,
-                        33.345584
-                  ]
-            },
-            {
-                  "name": "Avalon Dive Park",
-                  "text": "Un loc de scufundări popular în Avalon, cu o viață subacvatică bogată.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.324659,
-                        33.349098
-                  ]
-            },
-            {
-                  "name": "Descanso Bay",
-                  "text": "Un golf în Avalon cunoscut pentru clubul său de plajă privat.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.326739,
-                        33.350584
-                  ]
-            },
-            {
-                  "name": "Hamilton Beach",
-                  "text": "O porțiune de plajă liniștită situată la nord de centrul orașului Avalon.",
-                  "category": "recreational",
-                  "coords": [
-                        -118.330193,
-                        33.354222
-                  ]
-            },
-            {
-                  "name": "Wrigley Botanical Gardens",
-                  "text": "O grădină botanică în Avalon, faimoasă pentru Memorialul Wrigley.",
-                  "category": "park",
-                  "coords": [
-                        -118.340616,
-                        33.325839
-                  ]
-            },
-            {
-                  "name": "Lover's Cove State Marine Conservation Area",
-                  "text": "O zonă marină protejată în Avalon pentru conservarea ecosistemelor subacvatice.",
-                  "category": "natural",
-                  "coords": [
-                        -118.31786,
-                        33.343944
-                  ]
-            },
-            {
-                  "name": "Catalina Island Museum",
-                  "text": "Un muzeu în Avalon care prezintă istoria insulei Santa Catalina.",
-                  "category": "museum",
-                  "coords": [
-                        -118.32801,
-                        33.343468
-                  ]
-            },
-            {
                   "name": "Middle Beach",
                   "text": "O plajă situată central în Avalon, ideală pentru vizitatori.",
                   "category": "recreational",
                   "coords": [
                         -118.325381,
                         33.343733
-                  ]
-            },
-            {
-                  "name": "Catalina Casino",
-                  "text": "Un reper iconic în Avalon, cu o sală de bal somptuoasă.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.325774,
-                        33.348895
                   ]
             },
             {
@@ -37785,102 +36143,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "KISL-FM (Avalon)",
-                  "text": "A transmission tower in Avalon used for local communications.",
-                  "category": "tower",
-                  "coords": [
-                        -118.322017,
-                        33.343362
-                  ]
-            },
-            {
-                  "name": "Lovers Cove",
-                  "text": "A small bay in Avalon well-known for snorkeling.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.319517,
-                        33.343362
-                  ]
-            },
-            {
-                  "name": "Avalon Bay",
-                  "text": "The central bay of Avalon, the main arrival point for the island.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.324239,
-                        33.345584
-                  ]
-            },
-            {
-                  "name": "Avalon Dive Park",
-                  "text": "A popular diving spot in Avalon with rich underwater life.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.324659,
-                        33.349098
-                  ]
-            },
-            {
-                  "name": "Descanso Bay",
-                  "text": "A bay in Avalon known for its private beach club.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.326739,
-                        33.350584
-                  ]
-            },
-            {
-                  "name": "Hamilton Beach",
-                  "text": "A quiet stretch of beach located north of Avalon's town center.",
-                  "category": "recreational",
-                  "coords": [
-                        -118.330193,
-                        33.354222
-                  ]
-            },
-            {
-                  "name": "Wrigley Botanical Gardens",
-                  "text": "A botanical garden in Avalon, famous for the Wrigley Memorial.",
-                  "category": "park",
-                  "coords": [
-                        -118.340616,
-                        33.325839
-                  ]
-            },
-            {
-                  "name": "Lover's Cove State Marine Conservation Area",
-                  "text": "A protected marine area in Avalon for the conservation of underwater ecosystems.",
-                  "category": "natural",
-                  "coords": [
-                        -118.31786,
-                        33.343944
-                  ]
-            },
-            {
-                  "name": "Catalina Island Museum",
-                  "text": "A museum in Avalon showcasing the history of Santa Catalina Island.",
-                  "category": "museum",
-                  "coords": [
-                        -118.32801,
-                        33.343468
-                  ]
-            },
-            {
                   "name": "Middle Beach",
                   "text": "A centrally located beach in Avalon, ideal for visitors.",
                   "category": "recreational",
                   "coords": [
                         -118.325381,
                         33.343733
-                  ]
-            },
-            {
-                  "name": "Catalina Casino",
-                  "text": "An iconic landmark in Avalon featuring a magnificent ballroom.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.325774,
-                        33.348895
                   ]
             },
             {
@@ -37915,30 +36183,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Alamitos Bay",
-                  "text": "Alamitos Bay ist eine beliebte Bucht in Seal Beach für Wassersportaktivitäten.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.11812,
-                        33.74974
-                  ]
-            },
-            {
                   "name": "Mother's Beach",
                   "text": "Mother's Beach ist ein familienfreundlicher Strandabschnitt in Seal Beach.",
                   "category": "recreational",
                   "coords": [
                         -118.119288,
                         33.757893
-                  ]
-            },
-            {
-                  "name": "Bayshore Park",
-                  "text": "Bayshore Park ist eine Parkanlage in der Nähe der Uferpromenade von Seal Beach.",
-                  "category": "park",
-                  "coords": [
-                        -118.131595,
-                        33.753594
                   ]
             },
             {
@@ -37978,15 +36228,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Marina Community Park",
-                  "text": "Marina Community Park ist ein öffentlicher Park in Seal Beach mit Sport- und Freizeitanlagen.",
-                  "category": "park",
-                  "coords": [
-                        -118.110055,
-                        33.746304
-                  ]
-            },
-            {
                   "name": "Gum Grove Park",
                   "text": "Gum Grove Park ist ein Naturpark in Seal Beach, der für seine Eukalyptushaine bekannt ist.",
                   "category": "park",
@@ -38012,15 +36253,6 @@ export const naNewV1: POI[] = [
                         -118.119504,
                         33.762261
                   ]
-            },
-            {
-                  "name": "Naples Plaza",
-                  "text": "Naples Plaza ist ein kleiner öffentlicher Park und Erholungsraum in Seal Beach.",
-                  "category": "park",
-                  "coords": [
-                        -118.123659,
-                        33.754563
-                  ]
             }
       ],
       "hu": [
@@ -38043,30 +36275,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Alamitos Bay",
-                  "text": "Az Alamitos-öböl egy népszerű öböl Seal Beachben a vízi sportok kedvelői számára.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.11812,
-                        33.74974
-                  ]
-            },
-            {
                   "name": "Mother's Beach",
                   "text": "A Mother's Beach egy családbarát strandterület Seal Beachben.",
                   "category": "recreational",
                   "coords": [
                         -118.119288,
                         33.757893
-                  ]
-            },
-            {
-                  "name": "Bayshore Park",
-                  "text": "A Bayshore Park egy szabadidős park Seal Beach vízpartjának közelében.",
-                  "category": "park",
-                  "coords": [
-                        -118.131595,
-                        33.753594
                   ]
             },
             {
@@ -38106,15 +36320,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Marina Community Park",
-                  "text": "A Marina Community Park egy nyilvános park Seal Beachben, közösségi létesítményekkel.",
-                  "category": "park",
-                  "coords": [
-                        -118.110055,
-                        33.746304
-                  ]
-            },
-            {
                   "name": "Gum Grove Park",
                   "text": "A Gum Grove Park egy természetvédelmi park Seal Beachben, amely eukaliptuszligeteiről nevezetes.",
                   "category": "park",
@@ -38140,15 +36345,6 @@ export const naNewV1: POI[] = [
                         -118.119504,
                         33.762261
                   ]
-            },
-            {
-                  "name": "Naples Plaza",
-                  "text": "A Naples Plaza egy nyilvános park és közösségi tér Seal Beach területén.",
-                  "category": "park",
-                  "coords": [
-                        -118.123659,
-                        33.754563
-                  ]
             }
       ],
       "ro": [
@@ -38171,30 +36367,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Alamitos Bay",
-                  "text": "Alamitos Bay este un golf popular în Seal Beach pentru activități nautice.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.11812,
-                        33.74974
-                  ]
-            },
-            {
                   "name": "Mother's Beach",
                   "text": "Mother's Beach este o zonă de plajă potrivită pentru familii în Seal Beach.",
                   "category": "recreational",
                   "coords": [
                         -118.119288,
                         33.757893
-                  ]
-            },
-            {
-                  "name": "Bayshore Park",
-                  "text": "Bayshore Park este un parc recreativ situat lângă faleza din Seal Beach.",
-                  "category": "park",
-                  "coords": [
-                        -118.131595,
-                        33.753594
                   ]
             },
             {
@@ -38234,15 +36412,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Marina Community Park",
-                  "text": "Marina Community Park este un parc public din Seal Beach cu facilități recreative.",
-                  "category": "park",
-                  "coords": [
-                        -118.110055,
-                        33.746304
-                  ]
-            },
-            {
                   "name": "Gum Grove Park",
                   "text": "Gum Grove Park este un parc natural din Seal Beach, cunoscut pentru dumbrăvile sale de eucalipt.",
                   "category": "park",
@@ -38268,15 +36437,6 @@ export const naNewV1: POI[] = [
                         -118.119504,
                         33.762261
                   ]
-            },
-            {
-                  "name": "Naples Plaza",
-                  "text": "Naples Plaza este un parc public și un spațiu deschis în zona Seal Beach.",
-                  "category": "park",
-                  "coords": [
-                        -118.123659,
-                        33.754563
-                  ]
             }
       ],
       "en": [
@@ -38299,30 +36459,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Alamitos Bay",
-                  "text": "Alamitos Bay is a bay in Seal Beach popular for water activities.",
-                  "category": "landmark",
-                  "coords": [
-                        -118.11812,
-                        33.74974
-                  ]
-            },
-            {
                   "name": "Mother's Beach",
                   "text": "Mother's Beach is a family-friendly beach area in Seal Beach.",
                   "category": "recreational",
                   "coords": [
                         -118.119288,
                         33.757893
-                  ]
-            },
-            {
-                  "name": "Bayshore Park",
-                  "text": "Bayshore Park is a recreational park located near the waterfront in Seal Beach.",
-                  "category": "park",
-                  "coords": [
-                        -118.131595,
-                        33.753594
                   ]
             },
             {
@@ -38362,15 +36504,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Marina Community Park",
-                  "text": "Marina Community Park is a public park in Seal Beach with recreational facilities.",
-                  "category": "park",
-                  "coords": [
-                        -118.110055,
-                        33.746304
-                  ]
-            },
-            {
                   "name": "Gum Grove Park",
                   "text": "Gum Grove Park is a nature park in Seal Beach featuring eucalyptus groves.",
                   "category": "park",
@@ -38395,15 +36528,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -118.119504,
                         33.762261
-                  ]
-            },
-            {
-                  "name": "Naples Plaza",
-                  "text": "Naples Plaza is a public park and open space in the Seal Beach area.",
-                  "category": "park",
-                  "coords": [
-                        -118.123659,
-                        33.754563
                   ]
             }
       ]
@@ -41416,15 +39540,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Cape Cod Inflatable Park",
-                  "text": "Ein familienorientierter Wasserpark in West Yarmouth mit verschiedenen aufblasbaren Attraktionen.",
-                  "category": "recreational",
-                  "coords": [
-                        -70.235115,
-                        41.651095
-                  ]
-            },
-            {
                   "name": "Syrjala Conservation Area",
                   "text": "Ein geschütztes Naturschutzgebiet in West Yarmouth, ideal für Naturspaziergänge.",
                   "category": "natural",
@@ -41568,15 +39683,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.224974,
                         41.650125
-                  ]
-            },
-            {
-                  "name": "Cape Cod Inflatable Park",
-                  "text": "Családbarát vízi park West Yarmouth-ban, különféle felfújható játékokkal.",
-                  "category": "recreational",
-                  "coords": [
-                        -70.235115,
-                        41.651095
                   ]
             },
             {
@@ -41726,15 +39832,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Cape Cod Inflatable Park",
-                  "text": "Un parc acvatic pentru familii în West Yarmouth, dotat cu diverse atracții gonflabile.",
-                  "category": "recreational",
-                  "coords": [
-                        -70.235115,
-                        41.651095
-                  ]
-            },
-            {
                   "name": "Syrjala Conservation Area",
                   "text": "O zonă de conservare protejată în West Yarmouth, ideală pentru plimbări în natură.",
                   "category": "natural",
@@ -41878,15 +39975,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.224974,
                         41.650125
-                  ]
-            },
-            {
-                  "name": "Cape Cod Inflatable Park",
-                  "text": "A family-oriented water park in West Yarmouth featuring various inflatable attractions.",
-                  "category": "recreational",
-                  "coords": [
-                        -70.235115,
-                        41.651095
                   ]
             },
             {
@@ -44707,15 +42795,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "The Met Cloisters",
-                  "text": "Museum in Englewood Cliffs für mittelalterliche Architektur und Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        -73.931923,
-                        40.864868
-                  ]
-            },
-            {
                   "name": "C Rock",
                   "text": "Aussichtspunkt in Englewood Cliffs mit Blick auf den Hudson River.",
                   "category": "natural",
@@ -44841,15 +42920,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -73.922335,
                         40.880009
-                  ]
-            },
-            {
-                  "name": "The Met Cloisters",
-                  "text": "Középkori építészetre és művészetre szakosodott múzeum Englewood Cliffsben.",
-                  "category": "museum",
-                  "coords": [
-                        -73.931923,
-                        40.864868
                   ]
             },
             {
@@ -44981,15 +43051,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "The Met Cloisters",
-                  "text": "Muzeu în Englewood Cliffs specializat în artă și arhitectură medievală.",
-                  "category": "museum",
-                  "coords": [
-                        -73.931923,
-                        40.864868
-                  ]
-            },
-            {
                   "name": "C Rock",
                   "text": "Punct de belvedere în Englewood Cliffs cu vedere la râul Hudson.",
                   "category": "natural",
@@ -45115,15 +43176,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -73.922335,
                         40.880009
-                  ]
-            },
-            {
-                  "name": "The Met Cloisters",
-                  "text": "Museum in Englewood Cliffs specialized in European medieval architecture and art.",
-                  "category": "museum",
-                  "coords": [
-                        -73.931923,
-                        40.864868
                   ]
             },
             {
@@ -50049,15 +48101,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Kenyon Hall",
-                  "text": "Ein historischer Veranstaltungsort und Gemeindetheater in White Center.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.376173,
-                        47.531662
-                  ]
-            },
-            {
                   "name": "White Center Pond Natural Area",
                   "text": "Ein Naturschutzgebiet mit einem Teich und lokalem Lebensraum in White Center.",
                   "category": "natural",
@@ -50165,15 +48208,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -122.32772,
                         47.52162
-                  ]
-            },
-            {
-                  "name": "Kenyon Hall",
-                  "text": "Történelmi előadóhely és közösségi színház White Centerben.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.376173,
-                        47.531662
                   ]
             },
             {
@@ -50287,15 +48321,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Kenyon Hall",
-                  "text": "O locație istorică de spectacole și un teatru comunitar în White Center.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.376173,
-                        47.531662
-                  ]
-            },
-            {
                   "name": "White Center Pond Natural Area",
                   "text": "O rezervație naturală cu un iaz și un habitat pentru fauna locală în White Center.",
                   "category": "natural",
@@ -50403,15 +48428,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -122.32772,
                         47.52162
-                  ]
-            },
-            {
-                  "name": "Kenyon Hall",
-                  "text": "A historic performance venue and community theatre in White Center.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.376173,
-                        47.531662
                   ]
             },
             {
@@ -51033,15 +49049,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Sands of Kahana Resort",
-                  "text": "Das Sands of Kahana Resort ist ein Ferienkomplex am Strand in Napili.",
-                  "category": "recreational",
-                  "coords": [
-                        -156.679994,
-                        20.970215
-                  ]
-            },
-            {
                   "name": "Private Beach",
                   "text": "Dieser Privatstrand in Napili bietet ein abgeschiedenes Küstenerlebnis.",
                   "category": "recreational",
@@ -51104,15 +49111,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -156.673403,
                         20.982023
-                  ]
-            },
-            {
-                  "name": "Sands of Kahana Resort",
-                  "text": "A Sands of Kahana Resort egy tengerparti üdülőkomplexum Napiliben.",
-                  "category": "recreational",
-                  "coords": [
-                        -156.679994,
-                        20.970215
                   ]
             },
             {
@@ -51181,15 +49179,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Sands of Kahana Resort",
-                  "text": "Sands of Kahana Resort este un complex de vacanță pe plajă situat în Napili.",
-                  "category": "recreational",
-                  "coords": [
-                        -156.679994,
-                        20.970215
-                  ]
-            },
-            {
                   "name": "Private Beach",
                   "text": "Această plajă privată din Napili oferă o experiență de coastă retrasă.",
                   "category": "recreational",
@@ -51255,15 +49244,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Sands of Kahana Resort",
-                  "text": "The Sands of Kahana Resort is a beachfront vacation complex located in Napili.",
-                  "category": "recreational",
-                  "coords": [
-                        -156.679994,
-                        20.970215
-                  ]
-            },
-            {
                   "name": "Private Beach",
                   "text": "This private beach in Napili offers a secluded coastal experience.",
                   "category": "recreational",
@@ -51285,42 +49265,6 @@ export const naNewV1: POI[] = [
 }, "type": "city", "name": {"de": "Napili", "hu": "Napili", "ro": "Napili", "en": "Napili"}, "description": {"de": "Ein tropisches Paradies im Nordwesten von Maui, berühmt für seine geschützten Buchten, Korallenriffe und Meeresschildkröten.", "hu": "Trópusi paradicsom Maui északnyugati részén, amely védett öbleiről, korallzátonyairól és tengeri teknőseiről híres.", "ro": "Un paradis tropical în nord-vestul insulei Maui, faimos pentru golfurile sale protejate, recifele de corali și țestoasele marine.", "en": "A tropical paradise in northwest Maui, famous for its protected bays, coral reefs, and sea turtles."}, "descriptionAdvanced": {"de": "Napili ist einer der bezauberndsten Orte auf Maui, wo sich der entspannte hawaiianische Lebensstil mit atemberaubender natürlicher Schönheit verbindet. Die Napili Bay ist weltbekannt für ihr ruhiges, klares Wasser, das ideal zum Schnorcheln und Schwimmen ist. Der Keonenui Beach und der Ka'opala Beach bieten etwas mehr Privatsphäre abseits der größeren Resorts. Für Surfer ist der S-Turns Beach ein beliebter Treffpunkt, besonders wenn die Winterdünung eintrifft.\n\nDas Sands of Kahana Resort bietet einen einfachen Zugang zu wunderschönen Küstenabschnitten, während versteckte Private Beach Bereiche für exklusive Entspannung sorgen. Die Unterwasserwelt hier ist spektakulär; Schnorchler können regelmäßig bunte Fische und die geschützte grüne Meeresschildkröte (Honu) beobachten. Die vulkanischen Felsformationen entlang der Küste bilden einen dramatischen Kontrast zum weißen Sand und dem türkisblauen Meer.\n\nDie Gastronomie in Napili ist geprägt von der 'Farm-to-Table'-Philosophie mit einem Fokus auf frischen Fisch und tropische Früchte wie Ananas und Papaya. Abende in Napili werden oft mit traditionellen polynesischen Klängen und spektakulären Sonnenuntergängen über den Inseln Moloka'i und Lana'i gekrönt. Die Region hat sich trotz ihrer Beliebtheit eine authentische, weniger kommerzialisierte Atmosphäre bewahrt, was sie zu einem perfekten Ziel für Reisende macht, die das echte Hawaii suchen.", "hu": "Napili Maui egyik legvarázslatosabb helyszíne, ahol a nyugodt hawaii életstílus találkozik a lélegzetelállító természeti szépséggel. A Napili-öböl világhírű nyugodt, kristálytiszta vizéről, amely ideális a sznorkelezéshez és az úszáshoz. A Keonenui Beach és a Ka'opala Beach valamivel több magánszférát kínál a nagyobb üdülőhelyektől távolabb. A szörfösök számára az S-Turns Beach népszerű találkozóhely, különösen a téli hullámzás idején.\n\nA Sands of Kahana Resort közvetlen hozzáférést biztosít a gyönyörű partszakaszokhoz, míg az eldugott Private Beach területek exkluzív kikapcsolódást ígérnek. A víz alatti világ itt lenyűgöző; a búvárok rendszeresen találkozhatnak színes halakkal és a védett zöld tengeri teknőssel (Honu). A part menti vulkáni sziklaképződmények drámai kontrasztot alkotnak a fehér homokkal és a türkizkék tengerrel.\n\nNapili gasztronómiáját a „Farm-to-Table” filozófia jellemzi, a friss halakra és az olyan trópusi gyümölcsökre összpontosítva, mint az ananász és a papaya. A napili estéket gyakran hagyományos polinéz dallamok és a Moloka'i és Lana'i szigetek feletti látványos naplementék teszik felejthetetlenné. A régió népszerűsége ellenére megőrizte hiteles, kevésbé kommercializált légkörét, így tökéletes célpont azok számára, akik az igazi Hawaii-t keresik.", "ro": "Napili este una dintre cele mai fermecătoare locații din Maui, unde stilul de viață relaxat hawaiian se îmbină cu frumusețea naturală uluitoare. Golful Napili este faimos în întreaga lume pentru apele sale calme și limpezi, ideale pentru snorkeling și înot. Keonenui Beach și Ka'opala Beach oferă ceva mai multă intimitate, departe de resorturile mari. Pentru surferi, S-Turns Beach este un punct de întâlnire popular, mai ales în timpul valurilor de iarnă.\n\nSands of Kahana Resort oferă acces ușor la secțiuni frumoase de coastă, în timp ce zonele ascunse de tip Private Beach promit relaxare exclusivistă. Lumea subacvatică de aici este spectaculoasă; cei care fac snorkeling pot observa regulat pești colorați și țestoasa verde de mare (Honu), specie protejată. Formațiunile stâncoase vulcanice de-a lungul coastei creează un contrast dramatic cu nisipul alb și marea turcoaz.\n\nGastronomia din Napili este marcată de filosofia „Farm-to-Table”, cu accent pe peștele proaspăt și fructele tropicale precum ananasul și papaya. Serile în Napili sunt adesea încununate de sunete tradiționale polineziene și apusuri spectaculoase peste insulele Moloka'i și Lana'i. Regiunea și-a păstrat atmosfera autentică și mai puțin comercializată, în ciuda popularității sale, ceea ce o face o destinație perfectă pentru călătorii care caută adevăratul Hawaii.", "en": "Napili is one of the most enchanting spots on Maui, where the laid-back Hawaiian lifestyle blends with breathtaking natural beauty. Napili Bay is world-renowned for its calm, clear waters, ideal for snorkeling and swimming. Keonenui Beach and Ka'opala Beach offer a bit more privacy away from the larger resorts. For surfers, S-Turns Beach is a popular gathering spot, especially when the winter swell arrives.\n\nThe Sands of Kahana Resort provides easy access to beautiful coastal stretches, while hidden Private Beach areas ensure exclusive relaxation. The underwater world here is spectacular; snorkelers can regularly spot colorful fish and the protected Hawaiian Green Sea Turtle (Honu). The volcanic rock formations along the coast create a dramatic contrast with the white sand and turquoise sea.\n\nGastronomy in Napili is defined by the 'Farm-to-Table' philosophy, focusing on fresh fish and tropical fruits like pineapple and papaya. Evenings in Napili are often capped with traditional Polynesian sounds and spectacular sunsets over the islands of Moloka'i and Lana'i. Despite its popularity, the region has maintained an authentic, less commercialized atmosphere, making it a perfect destination for travelers seeking the real Hawaii."}, "facts": {"de": ["Insel: Maui, Hawaii", "Aktivität: Schnorcheln", "Natur: Meeresschildkröten", "Klima: Tropisch-warm", "Highlight: Napili Bay", "Strände: 5 Hauptbereiche", "Vibe: Authentisch Hawaii", "Küche: Poke & Meeresfrüchte"], "hu": ["Sziget: Maui, Hawaii", "Aktivitás: Sznorkelezés", "Természet: Teknősök", "Klíma: Trópusi meleg", "Fő látnivaló: Napili-öböl", "Strandok: 5 fő terület", "Hangulat: Hiteles hawaii", "Konyha: Poke és tengeri hal"], "ro": ["Insulă: Maui, Hawaii", "Activitate: Snorkeling", "Faună: Țestoase marine", "Climă: Tropicală caldă", "Atracție: Golful Napili", "Plaje: 5 zone principale", "Atmosferă: Autentică", "Gastronomie: Pește proaspăt"], "en": ["Island: Maui, Hawaii", "Activity: Snorkeling", "Wildlife: Sea turtles", "Climate: Tropical warm", "Top Spot: Napili Bay", "Beaches: 5 main areas", "Vibe: Real Alona spirit", "Cuisine: Farm-to-table"]}, "coords": [-156.6672, 20.98596], "parent": "US-HI", "tier": 2, "image": "/poi-images/usa-napili-cities-v2.webp"},
 {"id": "usa-oak-bluffs-cities-v2", "sights": {
       "de": [
-            {
-                  "name": "War Memorial",
-                  "text": "Ein Denkmal in Oak Bluffs, das den Gefallenen verschiedener Kriege gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        -70.556007,
-                        41.456743
-                  ]
-            },
-            {
-                  "name": "Flying Horses Carousel",
-                  "text": "Ein historisches Karussell in Oak Bluffs, bekannt als eines der ältesten seiner Art.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.557113,
-                        41.457402
-                  ]
-            },
-            {
-                  "name": "Mariposa Museum",
-                  "text": "Das Mariposa Museum ist ein Museum in Oak Bluffs.",
-                  "category": "museum",
-                  "coords": [
-                        -70.558971,
-                        41.454744
-                  ]
-            },
-            {
-                  "name": "Cottage Museum",
-                  "text": "Das Cottage Museum in Oak Bluffs zeigt historische Architektur und lokales Erbe.",
-                  "category": "museum",
-                  "coords": [
-                        -70.561602,
-                        41.455014
-                  ]
-            },
             {
                   "name": "Waterview Farm",
                   "text": "Waterview Farm ist ein Naturschutzgebiet in Oak Bluffs.",
@@ -51432,42 +49376,6 @@ export const naNewV1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "War Memorial",
-                  "text": "Emlékmű Oak Bluffsban, amelyet a különböző háborúk áldozatainak szenteltek.",
-                  "category": "historical",
-                  "coords": [
-                        -70.556007,
-                        41.456743
-                  ]
-            },
-            {
-                  "name": "Flying Horses Carousel",
-                  "text": "Történelmi körhinta Oak Bluffsban, amely a maga nemében az egyik legrégebbi.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.557113,
-                        41.457402
-                  ]
-            },
-            {
-                  "name": "Mariposa Museum",
-                  "text": "A Mariposa Museum egy múzeum Oak Bluffs városában.",
-                  "category": "museum",
-                  "coords": [
-                        -70.558971,
-                        41.454744
-                  ]
-            },
-            {
-                  "name": "Cottage Museum",
-                  "text": "Az Oak Bluffs-i Cottage Museum a történelmi építészetet és a helyi örökséget mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -70.561602,
-                        41.455014
-                  ]
-            },
-            {
                   "name": "Waterview Farm",
                   "text": "A Waterview Farm egy természetvédelmi terület Oak Bluffs városában.",
                   "category": "natural",
@@ -51578,42 +49486,6 @@ export const naNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "War Memorial",
-                  "text": "Un monument în Oak Bluffs, dedicat celor căzuți în diverse războaie.",
-                  "category": "historical",
-                  "coords": [
-                        -70.556007,
-                        41.456743
-                  ]
-            },
-            {
-                  "name": "Flying Horses Carousel",
-                  "text": "Un carusel istoric în Oak Bluffs, cunoscut ca fiind unul dintre cele mai vechi de acest fel.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.557113,
-                        41.457402
-                  ]
-            },
-            {
-                  "name": "Mariposa Museum",
-                  "text": "Mariposa Museum este un muzeu din Oak Bluffs.",
-                  "category": "museum",
-                  "coords": [
-                        -70.558971,
-                        41.454744
-                  ]
-            },
-            {
-                  "name": "Cottage Museum",
-                  "text": "Cottage Museum din Oak Bluffs prezintă arhitectura istorică și moștenirea locală.",
-                  "category": "museum",
-                  "coords": [
-                        -70.561602,
-                        41.455014
-                  ]
-            },
-            {
                   "name": "Waterview Farm",
                   "text": "Waterview Farm este o rezervație naturală din Oak Bluffs.",
                   "category": "natural",
@@ -51723,42 +49595,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "War Memorial",
-                  "text": "A monument in Oak Bluffs dedicated to those who fell in various wars.",
-                  "category": "historical",
-                  "coords": [
-                        -70.556007,
-                        41.456743
-                  ]
-            },
-            {
-                  "name": "Flying Horses Carousel",
-                  "text": "A historic carousel in Oak Bluffs, known as one of the oldest of its kind.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.557113,
-                        41.457402
-                  ]
-            },
-            {
-                  "name": "Mariposa Museum",
-                  "text": "The Mariposa Museum is a museum in Oak Bluffs.",
-                  "category": "museum",
-                  "coords": [
-                        -70.558971,
-                        41.454744
-                  ]
-            },
-            {
-                  "name": "Cottage Museum",
-                  "text": "The Cottage Museum in Oak Bluffs showcases historic architecture and local heritage.",
-                  "category": "museum",
-                  "coords": [
-                        -70.561602,
-                        41.455014
-                  ]
-            },
             {
                   "name": "Waterview Farm",
                   "text": "Waterview Farm is a nature reserve in Oak Bluffs.",
@@ -52099,24 +49935,6 @@ export const naNewV1: POI[] = [
 {"id": "canada-ketepec-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Boars Head Beach",
-                  "text": "Ein malerischer Strand in Ketepec, ideal für Küstenspaziergänge.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.131197,
-                        45.29771
-                  ]
-            },
-            {
-                  "name": "Martinon Beach",
-                  "text": "Ein lokaler Strand in Ketepec mit Blick auf das umliegende Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.180124,
-                        45.291665
-                  ]
-            },
-            {
                   "name": "Vairs Beach",
                   "text": "Ein ruhiger Strandabschnitt in Ketepec, der sich zur Entspannung im Freien eignet.",
                   "category": "recreational",
@@ -52127,24 +49945,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Boars Head Beach",
-                  "text": "Festői tengerpart Ketepecben, amely ideális part menti sétákhoz.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.131197,
-                        45.29771
-                  ]
-            },
-            {
-                  "name": "Martinon Beach",
-                  "text": "Helyi strand Ketepecben, amely kilátást nyújt a környező vizekre.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.180124,
-                        45.291665
-                  ]
-            },
             {
                   "name": "Vairs Beach",
                   "text": "Csendes tengerparti terület Ketepecben, amely alkalmas a szabadtéri kikapcsolódásra.",
@@ -52157,24 +49957,6 @@ export const naNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Boars Head Beach",
-                  "text": "O plajă pitorească situată în Ketepec, ideală pentru plimbări pe coastă.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.131197,
-                        45.29771
-                  ]
-            },
-            {
-                  "name": "Martinon Beach",
-                  "text": "O plajă locală din Ketepec care oferă vedere la apele din jur.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.180124,
-                        45.291665
-                  ]
-            },
-            {
                   "name": "Vairs Beach",
                   "text": "O zonă de plajă liniștită în Ketepec, potrivită pentru relaxare în aer liber.",
                   "category": "recreational",
@@ -52185,24 +49967,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Boars Head Beach",
-                  "text": "A scenic beach located in Ketepec, ideal for coastal walks.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.131197,
-                        45.29771
-                  ]
-            },
-            {
-                  "name": "Martinon Beach",
-                  "text": "A local beach in Ketepec offering views of the surrounding waters.",
-                  "category": "recreational",
-                  "coords": [
-                        -66.180124,
-                        45.291665
-                  ]
-            },
             {
                   "name": "Vairs Beach",
                   "text": "A quiet beach area in Ketepec suitable for outdoor relaxation.",
@@ -56012,15 +53776,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "SunSational",
-                  "text": "Ein Zentrum für kreative Künste in Barnstable, das lokale künstlerische Talente präsentiert.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.302735,
-                        41.667725
-                  ]
-            },
-            {
                   "name": "Conservation Land",
                   "text": "Ein geschütztes Naturgebiet in Barnstable, das der Erhaltung der lokalen Umwelt gewidmet ist.",
                   "category": "natural",
@@ -56164,15 +53919,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.298355,
                         41.633445
-                  ]
-            },
-            {
-                  "name": "SunSational",
-                  "text": "Kreatív művészeti központ Barnstable-ben, amely a helyi művészeti tehetségeket mutatja be.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.302735,
-                        41.667725
                   ]
             },
             {
@@ -56322,15 +54068,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "SunSational",
-                  "text": "Un centru de arte creative în Barnstable, care prezintă talentul artistic local.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.302735,
-                        41.667725
-                  ]
-            },
-            {
                   "name": "Conservation Land",
                   "text": "O zonă naturală protejată în Barnstable dedicată conservării mediului local.",
                   "category": "natural",
@@ -56474,15 +54211,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.298355,
                         41.633445
-                  ]
-            },
-            {
-                  "name": "SunSational",
-                  "text": "A creative arts centre in Barnstable showcasing local artistic talent.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.302735,
-                        41.667725
                   ]
             },
             {
@@ -58093,15 +55821,6 @@ export const naNewV1: POI[] = [
                         -70.556265,
                         41.926244
                   ]
-            },
-            {
-                  "name": "Priscilla Beach Theatre",
-                  "text": "Ein historisches Theater in Manomet, in dem Live-Aufführungen und kulturelle Veranstaltungen stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.566615,
-                        41.931322
-                  ]
             }
       ],
       "hu": [
@@ -58157,15 +55876,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.556265,
                         41.926244
-                  ]
-            },
-            {
-                  "name": "Priscilla Beach Theatre",
-                  "text": "Történelmi színház Manometben, amely élő előadásoknak és kulturális eseményeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.566615,
-                        41.931322
                   ]
             }
       ],
@@ -58223,15 +55933,6 @@ export const naNewV1: POI[] = [
                         -70.556265,
                         41.926244
                   ]
-            },
-            {
-                  "name": "Priscilla Beach Theatre",
-                  "text": "Un teatru istoric în Manomet care găzduiește spectacole live și evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.566615,
-                        41.931322
-                  ]
             }
       ],
       "en": [
@@ -58287,15 +55988,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.556265,
                         41.926244
-                  ]
-            },
-            {
-                  "name": "Priscilla Beach Theatre",
-                  "text": "A historic theatre in Manomet hosting live performances and cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.566615,
-                        41.931322
                   ]
             }
       ]
@@ -58754,30 +56446,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Windsor House Museum",
-                  "text": "Dieses Museum in South Duxbury präsentiert lokale Geschichte und historische Exponate.",
-                  "category": "museum",
-                  "coords": [
-                        -70.672814,
-                        42.03677
-                  ]
-            },
-            {
                   "name": "Captain's Flats",
                   "text": "Ein Strand in South Duxbury, der Möglichkeiten zur Erholung am Wasser bietet.",
                   "category": "recreational",
                   "coords": [
                         -70.664668,
                         42.004214
-                  ]
-            },
-            {
-                  "name": "Myles Standish Monument",
-                  "text": "Ein Denkmal in South Duxbury zu Ehren von Myles Standish, einem Anführer der Pilgerväter.",
-                  "category": "historical",
-                  "coords": [
-                        -70.682164,
-                        42.013909
                   ]
             },
             {
@@ -58817,15 +56491,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "King Caesar House",
-                  "text": "Ein historisches Hausmuseum in South Duxbury, das Einblicke in das Leben im 19. Jahrhundert gibt.",
-                  "category": "museum",
-                  "coords": [
-                        -70.663988,
-                        42.045257
-                  ]
-            },
-            {
                   "name": "Laura Cushman Estate",
                   "text": "Ein Naturschutzgebiet in South Duxbury, das der Erhaltung der lokalen Artenvielfalt gewidmet ist.",
                   "category": "natural",
@@ -58835,30 +56500,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Duxbury Performing Arts Center",
-                  "text": "Ein Veranstaltungsort in South Duxbury für Theateraufführungen und kulturelle Darbietungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.680243,
-                        42.046542
-                  ]
-            },
-            {
                   "name": "Cushman Estate",
                   "text": "Dieses Naturschutzgebiet in South Duxbury bewahrt die natürliche Umgebung der Region.",
                   "category": "natural",
                   "coords": [
                         -70.67741,
                         42.043821
-                  ]
-            },
-            {
-                  "name": "Duxbury Rural & Historical Society",
-                  "text": "Ein Museum in South Duxbury, das sich der ländlichen Geschichte und Denkmalpflege widmet.",
-                  "category": "museum",
-                  "coords": [
-                        -70.671366,
-                        42.039233
                   ]
             },
             {
@@ -58877,15 +56524,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.681944,
                         42.031698
-                  ]
-            },
-            {
-                  "name": "Myles Standish Cellar Hole",
-                  "text": "Die Überreste des Wohnhauses von Myles Standish in South Duxbury bieten einen Einblick in die Kolonialzeit.",
-                  "category": "historical",
-                  "coords": [
-                        -70.6748,
-                        42.007035
                   ]
             },
             {
@@ -58918,30 +56556,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Windsor House Museum",
-                  "text": "Ez a South Duxbury-i múzeum a helyi történelmet és történelmi tárgyakat mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -70.672814,
-                        42.03677
-                  ]
-            },
-            {
                   "name": "Captain's Flats",
                   "text": "Tengerpart South Duxburyben, amely lehetőséget nyújt a vízparti kikapcsolódásra.",
                   "category": "recreational",
                   "coords": [
                         -70.664668,
                         42.004214
-                  ]
-            },
-            {
-                  "name": "Myles Standish Monument",
-                  "text": "Myles Standishnek, a zarándokatyák egyik vezetőjének tiszteletére emelt emlékmű South Duxburyben.",
-                  "category": "historical",
-                  "coords": [
-                        -70.682164,
-                        42.013909
                   ]
             },
             {
@@ -58981,15 +56601,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "King Caesar House",
-                  "text": "Történelmi házmúzeum South Duxburyben, amely betekintést nyújt a 19. századi életbe.",
-                  "category": "museum",
-                  "coords": [
-                        -70.663988,
-                        42.045257
-                  ]
-            },
-            {
                   "name": "Laura Cushman Estate",
                   "text": "Természetvédelmi terület South Duxburyben, amelyet a helyi biológiai sokféleség megőrzésének szenteltek.",
                   "category": "natural",
@@ -58999,30 +56610,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Duxbury Performing Arts Center",
-                  "text": "Helyszín South Duxburyben színházi előadások és kulturális bemutatók számára.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.680243,
-                        42.046542
-                  ]
-            },
-            {
                   "name": "Cushman Estate",
                   "text": "Ez a South Duxbury-i természetvédelmi terület megőrzi a régió természetes környezetét.",
                   "category": "natural",
                   "coords": [
                         -70.67741,
                         42.043821
-                  ]
-            },
-            {
-                  "name": "Duxbury Rural & Historical Society",
-                  "text": "Múzeum South Duxburyben, amely a vidéki történelemnek és a műemlékvédelemnek szentelték.",
-                  "category": "museum",
-                  "coords": [
-                        -70.671366,
-                        42.039233
                   ]
             },
             {
@@ -59041,15 +56634,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.681944,
                         42.031698
-                  ]
-            },
-            {
-                  "name": "Myles Standish Cellar Hole",
-                  "text": "Myles Standish lakóházának maradványai South Duxburyben betekintést nyújtanak a gyarmati korszakba.",
-                  "category": "historical",
-                  "coords": [
-                        -70.6748,
-                        42.007035
                   ]
             },
             {
@@ -59082,30 +56666,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Windsor House Museum",
-                  "text": "Acest muzeu din South Duxbury prezintă istoria locală și exponate istorice.",
-                  "category": "museum",
-                  "coords": [
-                        -70.672814,
-                        42.03677
-                  ]
-            },
-            {
                   "name": "Captain's Flats",
                   "text": "O plajă în South Duxbury, care oferă posibilități de recreere pe malul apei.",
                   "category": "recreational",
                   "coords": [
                         -70.664668,
                         42.004214
-                  ]
-            },
-            {
-                  "name": "Myles Standish Monument",
-                  "text": "Un monument în South Duxbury ridicat în onoarea lui Myles Standish, un lider al pelerinilor.",
-                  "category": "historical",
-                  "coords": [
-                        -70.682164,
-                        42.013909
                   ]
             },
             {
@@ -59145,15 +56711,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "King Caesar House",
-                  "text": "O casă muzeu istorică în South Duxbury, oferind o perspectivă asupra vieții din secolul al XIX-lea.",
-                  "category": "museum",
-                  "coords": [
-                        -70.663988,
-                        42.045257
-                  ]
-            },
-            {
                   "name": "Laura Cushman Estate",
                   "text": "O rezervație naturală în South Duxbury, dedicată conservării biodiversității locale.",
                   "category": "natural",
@@ -59163,30 +56720,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Duxbury Performing Arts Center",
-                  "text": "Un loc în South Duxbury pentru spectacole de teatru și reprezentații culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.680243,
-                        42.046542
-                  ]
-            },
-            {
                   "name": "Cushman Estate",
                   "text": "Această rezervație naturală din South Duxbury păstrează mediul natural al regiunii.",
                   "category": "natural",
                   "coords": [
                         -70.67741,
                         42.043821
-                  ]
-            },
-            {
-                  "name": "Duxbury Rural & Historical Society",
-                  "text": "Un muzeu în South Duxbury dedicat istoriei rurale și conservării monumentelor.",
-                  "category": "museum",
-                  "coords": [
-                        -70.671366,
-                        42.039233
                   ]
             },
             {
@@ -59205,15 +56744,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.681944,
                         42.031698
-                  ]
-            },
-            {
-                  "name": "Myles Standish Cellar Hole",
-                  "text": "Rămășițele casei lui Myles Standish din South Duxbury oferă o perspectivă asupra epocii coloniale.",
-                  "category": "historical",
-                  "coords": [
-                        -70.6748,
-                        42.007035
                   ]
             },
             {
@@ -59246,30 +56776,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Windsor House Museum",
-                  "text": "This museum in South Duxbury presents local history and historical exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        -70.672814,
-                        42.03677
-                  ]
-            },
-            {
                   "name": "Captain's Flats",
                   "text": "A beach in South Duxbury offering opportunities for recreation by the water.",
                   "category": "recreational",
                   "coords": [
                         -70.664668,
                         42.004214
-                  ]
-            },
-            {
-                  "name": "Myles Standish Monument",
-                  "text": "A monument in South Duxbury honoring Myles Standish, a leader of the Pilgrims.",
-                  "category": "historical",
-                  "coords": [
-                        -70.682164,
-                        42.013909
                   ]
             },
             {
@@ -59309,15 +56821,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "King Caesar House",
-                  "text": "A historic house museum in South Duxbury offering a glimpse into 19th-century life.",
-                  "category": "museum",
-                  "coords": [
-                        -70.663988,
-                        42.045257
-                  ]
-            },
-            {
                   "name": "Laura Cushman Estate",
                   "text": "A nature reserve in South Duxbury dedicated to preserving local biodiversity.",
                   "category": "natural",
@@ -59327,30 +56830,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Duxbury Performing Arts Center",
-                  "text": "A venue in South Duxbury for theater performances and cultural displays.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.680243,
-                        42.046542
-                  ]
-            },
-            {
                   "name": "Cushman Estate",
                   "text": "This nature reserve in South Duxbury preserves the natural environment of the region.",
                   "category": "natural",
                   "coords": [
                         -70.67741,
                         42.043821
-                  ]
-            },
-            {
-                  "name": "Duxbury Rural & Historical Society",
-                  "text": "A museum in South Duxbury dedicated to rural history and preservation.",
-                  "category": "museum",
-                  "coords": [
-                        -70.671366,
-                        42.039233
                   ]
             },
             {
@@ -59369,15 +56854,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.681944,
                         42.031698
-                  ]
-            },
-            {
-                  "name": "Myles Standish Cellar Hole",
-                  "text": "The remains of Myles Standish's home in South Duxbury offer a glimpse into the colonial era.",
-                  "category": "historical",
-                  "coords": [
-                        -70.6748,
-                        42.007035
                   ]
             },
             {
@@ -60873,15 +58349,6 @@ export const naNewV1: POI[] = [
 {"id": "usa-jamestown-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Concord Gulf Cove",
-                  "text": "Eine kleine Küstenbucht in Jamestown, die eine ruhige Umgebung und Ausblicke auf die umliegende Küste bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.370331,
-                        41.476491
-                  ]
-            },
-            {
                   "name": "Dutch Island Harbor",
                   "text": "Ein malerisches Hafengebiet in Jamestown, das einen geschützten Ort für maritime Erkundungen bietet.",
                   "category": "landmark",
@@ -60906,15 +58373,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.383665,
                         41.490658
-                  ]
-            },
-            {
-                  "name": "Friends Meetinghouse",
-                  "text": "Ein historisches religiöses Gebäude in Jamestown, in dem sich die örtliche Quäkergemeinde zum Gottesdienst versammelt.",
-                  "category": "religious",
-                  "coords": [
-                        -71.375053,
-                        41.514542
                   ]
             },
             {
@@ -60960,15 +58418,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.373998,
                         41.497532
-                  ]
-            },
-            {
-                  "name": "Jamestown Museum",
-                  "text": "Ein lokales Geschichtsmuseum in Jamestown, das sich der Bewahrung und Vermittlung des Erbes der Insel widmet.",
-                  "category": "museum",
-                  "coords": [
-                        -71.373812,
-                        41.496383
                   ]
             },
             {
@@ -61024,27 +58473,9 @@ export const naNewV1: POI[] = [
                         -71.383118,
                         41.488842
                   ]
-            },
-            {
-                  "name": "Conanicut Battery National Historic Park",
-                  "text": "Ein historischer Park mit den Überresten einer Küstenbatterie aus der Kolonialzeit.",
-                  "category": "park",
-                  "coords": [
-                        -71.393522,
-                        41.480438
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Concord Gulf Cove",
-                  "text": "Kis parti öböl Jamestownban, amely nyugodt környezetet és kilátást nyújt a környező partvonalra.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.370331,
-                        41.476491
-                  ]
-            },
             {
                   "name": "Dutch Island Harbor",
                   "text": "Festői kikötői terület Jamestownban, amely védett helyet biztosít a tengeri felfedezéshez.",
@@ -61070,15 +58501,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.383665,
                         41.490658
-                  ]
-            },
-            {
-                  "name": "Friends Meetinghouse",
-                  "text": "Történelmi vallási épület Jamestownban, ahol a helyi kvéker közösség gyűlik össze istentiszteletre.",
-                  "category": "religious",
-                  "coords": [
-                        -71.375053,
-                        41.514542
                   ]
             },
             {
@@ -61124,15 +58546,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.373998,
                         41.497532
-                  ]
-            },
-            {
-                  "name": "Jamestown Museum",
-                  "text": "Helyi helytörténeti múzeum Jamestownban, amely a sziget örökségének megőrzésére és bemutatására szolgál.",
-                  "category": "museum",
-                  "coords": [
-                        -71.373812,
-                        41.496383
                   ]
             },
             {
@@ -61188,27 +58601,9 @@ export const naNewV1: POI[] = [
                         -71.383118,
                         41.488842
                   ]
-            },
-            {
-                  "name": "Conanicut Battery National Historic Park",
-                  "text": "Történelmi park egy gyarmati kori parti üteg maradványaival.",
-                  "category": "park",
-                  "coords": [
-                        -71.393522,
-                        41.480438
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Concord Gulf Cove",
-                  "text": "Un mic golf de coastă în Jamestown, oferind un mediu liniștit și vederi ale țărmului înconjurător.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.370331,
-                        41.476491
-                  ]
-            },
             {
                   "name": "Dutch Island Harbor",
                   "text": "O zonă de port pitorească în Jamestown, care oferă un loc adăpostit pentru explorarea maritimă.",
@@ -61234,15 +58629,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.383665,
                         41.490658
-                  ]
-            },
-            {
-                  "name": "Friends Meetinghouse",
-                  "text": "O clădire religioasă istorică în Jamestown, unde comunitatea locală de quakeri se adună pentru închinare.",
-                  "category": "religious",
-                  "coords": [
-                        -71.375053,
-                        41.514542
                   ]
             },
             {
@@ -61288,15 +58674,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.373998,
                         41.497532
-                  ]
-            },
-            {
-                  "name": "Jamestown Museum",
-                  "text": "Un muzeu de istorie locală în Jamestown, dedicat păstrării și împărtășirii moștenirii insulei.",
-                  "category": "museum",
-                  "coords": [
-                        -71.373812,
-                        41.496383
                   ]
             },
             {
@@ -61352,27 +58729,9 @@ export const naNewV1: POI[] = [
                         -71.383118,
                         41.488842
                   ]
-            },
-            {
-                  "name": "Conanicut Battery National Historic Park",
-                  "text": "Un parc istoric care păstrează vestigiile unei baterii de coastă din epoca colonială.",
-                  "category": "park",
-                  "coords": [
-                        -71.393522,
-                        41.480438
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Concord Gulf Cove",
-                  "text": "A small coastal bay in Jamestown offering a tranquil environment and views of the surrounding shoreline.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.370331,
-                        41.476491
-                  ]
-            },
             {
                   "name": "Dutch Island Harbor",
                   "text": "A scenic harbor area in Jamestown providing a sheltered spot for maritime exploration.",
@@ -61398,15 +58757,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.383665,
                         41.490658
-                  ]
-            },
-            {
-                  "name": "Friends Meetinghouse",
-                  "text": "A historic religious building in Jamestown where the local Quaker community gathers for worship.",
-                  "category": "religious",
-                  "coords": [
-                        -71.375053,
-                        41.514542
                   ]
             },
             {
@@ -61452,15 +58802,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.373998,
                         41.497532
-                  ]
-            },
-            {
-                  "name": "Jamestown Museum",
-                  "text": "A local history museum in Jamestown dedicated to preserving and sharing the heritage of the island.",
-                  "category": "museum",
-                  "coords": [
-                        -71.373812,
-                        41.496383
                   ]
             },
             {
@@ -61515,15 +58856,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.383118,
                         41.488842
-                  ]
-            },
-            {
-                  "name": "Conanicut Battery National Historic Park",
-                  "text": "A historic park featuring the remains of a colonial-era coastal defense battery.",
-                  "category": "park",
-                  "coords": [
-                        -71.393522,
-                        41.480438
                   ]
             }
       ]
@@ -64197,15 +61529,6 @@ export const naNewV1: POI[] = [
 {"id": "mexico-san-miguel-de-cozumel-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Ecoparque Cuzam",
-                  "text": "Ein Öko-Themenpark auf der Insel Cozumel, der Outdoor-Aktivitäten und Wanderwege bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        -86.922222,
-                        20.488889
-                  ]
-            },
-            {
                   "name": "Galeria Azul",
                   "text": "Eine Kunstgalerie in Cozumel, die lokale und internationale künstlerische Werke zeigt.",
                   "category": "landmark",
@@ -64324,15 +61647,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Ecoparque Cuzam",
-                  "text": "Öko-témájú park Cozumel szigetén, amely szabadtéri tevékenységeket és ösvényeket kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        -86.922222,
-                        20.488889
-                  ]
-            },
             {
                   "name": "Galeria Azul",
                   "text": "Művészeti galéria Cozumelben, amely helyi és nemzetközi alkotásokat mutat be.",
@@ -64453,15 +61767,6 @@ export const naNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ecoparque Cuzam",
-                  "text": "Un parc tematic ecologic pe insula Cozumel, care oferă activități în aer liber și trasee.",
-                  "category": "recreational",
-                  "coords": [
-                        -86.922222,
-                        20.488889
-                  ]
-            },
-            {
                   "name": "Galeria Azul",
                   "text": "O galerie de artă care prezintă lucrări artistice locale și internaționale în Cozumel.",
                   "category": "landmark",
@@ -64580,15 +61885,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Ecoparque Cuzam",
-                  "text": "An eco-theme park on Cozumel island offering outdoor activities and trails.",
-                  "category": "recreational",
-                  "coords": [
-                        -86.922222,
-                        20.488889
-                  ]
-            },
             {
                   "name": "Galeria Azul",
                   "text": "An art gallery showcasing local and international artistic works in Cozumel.",
@@ -67698,24 +64994,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Jamestown Verrazzano Bridge",
-                  "text": "Die Jamestown Verrazzano Bridge verbindet North Kingstown und Jamestown über die West Passage.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.402818,
-                        41.52834
-                  ]
-            },
-            {
-                  "name": "Dutch Island",
-                  "text": "Dutch Island ist ein Naturschutzgebiet auf einer Insel in der Narragansett Bay.",
-                  "category": "natural",
-                  "coords": [
-                        -71.40059,
-                        41.503207
-                  ]
-            },
-            {
                   "name": "Dutch Island Light",
                   "text": "Das Dutch Island Light ist ein historischer Leuchtturm aus dem 19. Jahrhundert auf Dutch Island.",
                   "category": "landmark",
@@ -67796,24 +65074,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.443723,
                         41.514908
-                  ]
-            },
-            {
-                  "name": "Jamestown Verrazzano Bridge",
-                  "text": "A Jamestown Verrazzano híd összeköti North Kingstown-t és Jamestownt a West Passage felett.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.402818,
-                        41.52834
-                  ]
-            },
-            {
-                  "name": "Dutch Island",
-                  "text": "A Dutch Island egy természetvédelmi terület a Narragansett-öböl egyik szigetén.",
-                  "category": "natural",
-                  "coords": [
-                        -71.40059,
-                        41.503207
                   ]
             },
             {
@@ -67900,24 +65160,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Jamestown Verrazzano Bridge",
-                  "text": "Podul Jamestown Verrazzano leagă North Kingstown de Jamestown peste West Passage.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.402818,
-                        41.52834
-                  ]
-            },
-            {
-                  "name": "Dutch Island",
-                  "text": "Dutch Island este o rezervație naturală pe o insulă din Golful Narragansett.",
-                  "category": "natural",
-                  "coords": [
-                        -71.40059,
-                        41.503207
-                  ]
-            },
-            {
                   "name": "Dutch Island Light",
                   "text": "Farul Dutch Island este un far istoric din secolul al XIX-lea situat pe insula Dutch.",
                   "category": "landmark",
@@ -68001,24 +65243,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Jamestown Verrazzano Bridge",
-                  "text": "The Jamestown Verrazzano Bridge connects North Kingstown and Jamestown across the West Passage.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.402818,
-                        41.52834
-                  ]
-            },
-            {
-                  "name": "Dutch Island",
-                  "text": "Dutch Island is a nature reserve located on an island in Narragansett Bay.",
-                  "category": "natural",
-                  "coords": [
-                        -71.40059,
-                        41.503207
-                  ]
-            },
-            {
                   "name": "Dutch Island Light",
                   "text": "Dutch Island Light is a historic 19th-century lighthouse on Dutch Island.",
                   "category": "landmark",
@@ -68068,15 +65292,6 @@ export const naNewV1: POI[] = [
 {"id": "canada-lorneville-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Seely Point Viewpoint",
-                  "text": "Ein Aussichtspunkt bei Seely Point, der einen Blick auf die Küstenlandschaft bietet.",
-                  "category": "natural",
-                  "coords": [
-                        -66.138468,
-                        45.204635
-                  ]
-            },
-            {
                   "name": "Lorneville Creek",
                   "text": "Eine natürliche Bucht in der Nähe von Lorneville.",
                   "category": "landmark",
@@ -68087,15 +65302,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Seely Point Viewpoint",
-                  "text": "Kilátópont a Seely Pointnál, amely rálátást biztosít a tengerparti tájra.",
-                  "category": "natural",
-                  "coords": [
-                        -66.138468,
-                        45.204635
-                  ]
-            },
             {
                   "name": "Lorneville Creek",
                   "text": "Természetes öböl Lorneville közelében.",
@@ -68108,15 +65314,6 @@ export const naNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Seely Point Viewpoint",
-                  "text": "Un punct de belvedere la Seely Point care oferă o vedere spre peisajul de coastă.",
-                  "category": "natural",
-                  "coords": [
-                        -66.138468,
-                        45.204635
-                  ]
-            },
-            {
                   "name": "Lorneville Creek",
                   "text": "Un golf natural în apropiere de Lorneville.",
                   "category": "landmark",
@@ -68127,15 +65324,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Seely Point Viewpoint",
-                  "text": "A viewpoint at Seely Point offering views of the coastal landscape.",
-                  "category": "natural",
-                  "coords": [
-                        -66.138468,
-                        45.204635
-                  ]
-            },
             {
                   "name": "Lorneville Creek",
                   "text": "A natural bay area located near Lorneville.",
@@ -68692,15 +65880,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Legendary Golf",
-                  "text": "Eine beliebte Minigolf-Attraktion in Palmetto Dunes.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.741535,
-                        32.167606
-                  ]
-            },
-            {
                   "name": "Singleton Beach",
                   "text": "Ein ruhiger Küstenabschnitt in Palmetto Dunes.",
                   "category": "recreational",
@@ -68725,24 +65904,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -80.717487,
                         32.188802
-                  ]
-            },
-            {
-                  "name": "Marriott's SurfWatch",
-                  "text": "Ein weitläufiges Strandresort in Palmetto Dunes.",
-                  "category": "recreational",
-                  "coords": [
-                        -80.697772,
-                        32.197187
-                  ]
-            },
-            {
-                  "name": "Disney's Hilton Head Island Resort",
-                  "text": "Ein familienfreundliches Hotelresort in Palmetto Dunes.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.72972,
-                        32.1824
                   ]
             },
             {
@@ -68784,15 +65945,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Legendary Golf",
-                  "text": "Népszerű minigolf-attrakció Palmetto Dunes területén.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.741535,
-                        32.167606
-                  ]
-            },
-            {
                   "name": "Singleton Beach",
                   "text": "Csendes tengerparti szakasz Palmetto Dunesnél.",
                   "category": "recreational",
@@ -68817,24 +65969,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -80.717487,
                         32.188802
-                  ]
-            },
-            {
-                  "name": "Marriott's SurfWatch",
-                  "text": "Tágas tengerparti üdülőhely Palmetto Dunesnél.",
-                  "category": "recreational",
-                  "coords": [
-                        -80.697772,
-                        32.197187
-                  ]
-            },
-            {
-                  "name": "Disney's Hilton Head Island Resort",
-                  "text": "Családbarát szálloda Palmetto Dunes területén.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.72972,
-                        32.1824
                   ]
             },
             {
@@ -68876,15 +66010,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Legendary Golf",
-                  "text": "O atracție populară de minigolf în Palmetto Dunes.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.741535,
-                        32.167606
-                  ]
-            },
-            {
                   "name": "Singleton Beach",
                   "text": "O secțiune de coastă liniștită în Palmetto Dunes.",
                   "category": "recreational",
@@ -68909,24 +66034,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -80.717487,
                         32.188802
-                  ]
-            },
-            {
-                  "name": "Marriott's SurfWatch",
-                  "text": "O stațiune de plajă spațioasă în Palmetto Dunes.",
-                  "category": "recreational",
-                  "coords": [
-                        -80.697772,
-                        32.197187
-                  ]
-            },
-            {
-                  "name": "Disney's Hilton Head Island Resort",
-                  "text": "Un hotel de familie în Palmetto Dunes.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.72972,
-                        32.1824
                   ]
             },
             {
@@ -68968,15 +66075,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Legendary Golf",
-                  "text": "A popular adventure golf attraction in Palmetto Dunes.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.741535,
-                        32.167606
-                  ]
-            },
-            {
                   "name": "Singleton Beach",
                   "text": "A quiet coastal stretch in Palmetto Dunes.",
                   "category": "recreational",
@@ -69001,24 +66099,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -80.717487,
                         32.188802
-                  ]
-            },
-            {
-                  "name": "Marriott's SurfWatch",
-                  "text": "A spacious beach resort located in Palmetto Dunes.",
-                  "category": "recreational",
-                  "coords": [
-                        -80.697772,
-                        32.197187
-                  ]
-            },
-            {
-                  "name": "Disney's Hilton Head Island Resort",
-                  "text": "A family-friendly hotel resort in Palmetto Dunes.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.72972,
-                        32.1824
                   ]
             },
             {
@@ -74111,66 +71191,12 @@ export const naNewV1: POI[] = [
 {"id": "usa-laguna-niguel-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Niguel Hill",
-                  "text": "Eine Erhebung in Laguna Niguel, die Aussicht auf die Umgebung bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.73422,
-                        33.512527
-                  ]
-            },
-            {
-                  "name": "Laguna Niguel Regional Park",
-                  "text": "Ein großer Park in Laguna Niguel mit einem See und Möglichkeiten zum Angeln und Picknicken.",
-                  "category": "park",
-                  "coords": [
-                        -117.70924,
-                        33.549099
-                  ]
-            },
-            {
-                  "name": "Ridge View Park",
-                  "text": "Ein Park in Laguna Niguel, der Grünflächen für Spaziergänge und Erholung bietet.",
-                  "category": "park",
-                  "coords": [
-                        -117.722339,
-                        33.541917
-                  ]
-            },
-            {
                   "name": "Crown Valley Park Amphitheater",
                   "text": "Ein Amphitheater im Crown Valley Park für Konzerte und Veranstaltungen im Freien.",
                   "category": "cultural",
                   "coords": [
                         -117.709639,
                         33.531072
-                  ]
-            },
-            {
-                  "name": "La Plata Park",
-                  "text": "Ein lokaler Park in Laguna Niguel, der Platz für Aktivitäten im Freien bietet.",
-                  "category": "park",
-                  "coords": [
-                        -117.69268,
-                        33.533278
-                  ]
-            },
-            {
-                  "name": "La Hermosa Park",
-                  "text": "Ein öffentlicher Park in Laguna Niguel, ideal für eine Pause im Grünen.",
-                  "category": "park",
-                  "coords": [
-                        -117.703063,
-                        33.525688
-                  ]
-            },
-            {
-                  "name": "Sulphur Creek Park",
-                  "text": "Ein Park in Laguna Niguel, der Natur und Raum für Erholung verbindet.",
-                  "category": "park",
-                  "coords": [
-                        -117.703694,
-                        33.532508
                   ]
             },
             {
@@ -74185,66 +71211,12 @@ export const naNewV1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Niguel Hill",
-                  "text": "Kiemelkedő pont Laguna Niguelben, ahonnan kilátás nyílik a környékre.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.73422,
-                        33.512527
-                  ]
-            },
-            {
-                  "name": "Laguna Niguel Regional Park",
-                  "text": "Nagy park Laguna Niguelben tóval, valamint horgászati és piknikezési lehetőséggel.",
-                  "category": "park",
-                  "coords": [
-                        -117.70924,
-                        33.549099
-                  ]
-            },
-            {
-                  "name": "Ridge View Park",
-                  "text": "Park Laguna Niguelben, amely zöldfelületet kínál sétákhoz és kikapcsolódáshoz.",
-                  "category": "park",
-                  "coords": [
-                        -117.722339,
-                        33.541917
-                  ]
-            },
-            {
                   "name": "Crown Valley Park Amphitheater",
                   "text": "Amfiteátrum a Crown Valley Parkban szabadtéri koncertek és rendezvények számára.",
                   "category": "cultural",
                   "coords": [
                         -117.709639,
                         33.531072
-                  ]
-            },
-            {
-                  "name": "La Plata Park",
-                  "text": "Helyi park Laguna Niguelben, amely helyet biztosít a szabadtéri tevékenységekhez.",
-                  "category": "park",
-                  "coords": [
-                        -117.69268,
-                        33.533278
-                  ]
-            },
-            {
-                  "name": "La Hermosa Park",
-                  "text": "Nyilvános park Laguna Niguelben, amely ideális egy zöld környezetben tett pihenőhöz.",
-                  "category": "park",
-                  "coords": [
-                        -117.703063,
-                        33.525688
-                  ]
-            },
-            {
-                  "name": "Sulphur Creek Park",
-                  "text": "Park Laguna Niguelben, amely ötvözi a természetet és a pihenésre alkalmas tereket.",
-                  "category": "park",
-                  "coords": [
-                        -117.703694,
-                        33.532508
                   ]
             },
             {
@@ -74259,66 +71231,12 @@ export const naNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Niguel Hill",
-                  "text": "O înălțime în Laguna Niguel care oferă vedere asupra împrejurimilor.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.73422,
-                        33.512527
-                  ]
-            },
-            {
-                  "name": "Laguna Niguel Regional Park",
-                  "text": "Un parc mare în Laguna Niguel cu un lac și oportunități pentru pescuit și picnic.",
-                  "category": "park",
-                  "coords": [
-                        -117.70924,
-                        33.549099
-                  ]
-            },
-            {
-                  "name": "Ridge View Park",
-                  "text": "Un parc în Laguna Niguel care oferă spații verzi pentru plimbări și recreere.",
-                  "category": "park",
-                  "coords": [
-                        -117.722339,
-                        33.541917
-                  ]
-            },
-            {
                   "name": "Crown Valley Park Amphitheater",
                   "text": "Un amfiteatru în Crown Valley Park pentru concerte și evenimente în aer liber.",
                   "category": "cultural",
                   "coords": [
                         -117.709639,
                         33.531072
-                  ]
-            },
-            {
-                  "name": "La Plata Park",
-                  "text": "Un parc local în Laguna Niguel care oferă spațiu pentru activități în aer liber.",
-                  "category": "park",
-                  "coords": [
-                        -117.69268,
-                        33.533278
-                  ]
-            },
-            {
-                  "name": "La Hermosa Park",
-                  "text": "Un parc public în Laguna Niguel, ideal pentru o pauză în natură.",
-                  "category": "park",
-                  "coords": [
-                        -117.703063,
-                        33.525688
-                  ]
-            },
-            {
-                  "name": "Sulphur Creek Park",
-                  "text": "Un parc în Laguna Niguel care îmbină natura și spațiul pentru recreere.",
-                  "category": "park",
-                  "coords": [
-                        -117.703694,
-                        33.532508
                   ]
             },
             {
@@ -74333,66 +71251,12 @@ export const naNewV1: POI[] = [
       ],
       "en": [
             {
-                  "name": "Niguel Hill",
-                  "text": "An elevation in Laguna Niguel offering views of the surrounding area.",
-                  "category": "landmark",
-                  "coords": [
-                        -117.73422,
-                        33.512527
-                  ]
-            },
-            {
-                  "name": "Laguna Niguel Regional Park",
-                  "text": "A large park in Laguna Niguel featuring a lake and opportunities for fishing and picnics.",
-                  "category": "park",
-                  "coords": [
-                        -117.70924,
-                        33.549099
-                  ]
-            },
-            {
-                  "name": "Ridge View Park",
-                  "text": "A park in Laguna Niguel providing green spaces for walks and recreation.",
-                  "category": "park",
-                  "coords": [
-                        -117.722339,
-                        33.541917
-                  ]
-            },
-            {
                   "name": "Crown Valley Park Amphitheater",
                   "text": "An amphitheater in Crown Valley Park for outdoor concerts and events.",
                   "category": "cultural",
                   "coords": [
                         -117.709639,
                         33.531072
-                  ]
-            },
-            {
-                  "name": "La Plata Park",
-                  "text": "A local park in Laguna Niguel providing space for outdoor activities.",
-                  "category": "park",
-                  "coords": [
-                        -117.69268,
-                        33.533278
-                  ]
-            },
-            {
-                  "name": "La Hermosa Park",
-                  "text": "A public park in Laguna Niguel, ideal for a break in green surroundings.",
-                  "category": "park",
-                  "coords": [
-                        -117.703063,
-                        33.525688
-                  ]
-            },
-            {
-                  "name": "Sulphur Creek Park",
-                  "text": "A park in Laguna Niguel combining nature and space for recreation.",
-                  "category": "park",
-                  "coords": [
-                        -117.703694,
-                        33.532508
                   ]
             },
             {
@@ -74487,15 +71351,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -117.29742,
                         33.045589
-                  ]
-            },
-            {
-                  "name": "San Dieguito Heritage Museum at the Heritage Ranch",
-                  "text": "Ein Museum in Encinitas, das die Geschichte und das Erbe der Region bewahrt.",
-                  "category": "museum",
-                  "coords": [
-                        -117.279806,
-                        33.057194
                   ]
             },
             {
@@ -74618,15 +71473,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "San Dieguito Heritage Museum at the Heritage Ranch",
-                  "text": "Encinitas-i múzeum, amely a régió történelmét és örökségét őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        -117.279806,
-                        33.057194
-                  ]
-            },
-            {
                   "name": "Oakcrest County Park",
                   "text": "Nyilvános park Encinitasban, amely szabadidős tevékenységekhez kínál területet.",
                   "category": "park",
@@ -74746,15 +71592,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "San Dieguito Heritage Museum at the Heritage Ranch",
-                  "text": "Un muzeu din Encinitas care păstrează istoria și moștenirea regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        -117.279806,
-                        33.057194
-                  ]
-            },
-            {
                   "name": "Oakcrest County Park",
                   "text": "Un parc public din Encinitas cu zone pentru activități recreative.",
                   "category": "park",
@@ -74871,15 +71708,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -117.29742,
                         33.045589
-                  ]
-            },
-            {
-                  "name": "San Dieguito Heritage Museum at the Heritage Ranch",
-                  "text": "A museum in Encinitas dedicated to preserving the history and heritage of the region.",
-                  "category": "museum",
-                  "coords": [
-                        -117.279806,
-                        33.057194
                   ]
             },
             {
@@ -79886,15 +76714,6 @@ export const naNewV1: POI[] = [
 {"id": "usa-vineyard-haven-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Martha's Vineyard Museum",
-                  "text": "Das Martha's Vineyard Museum in Vineyard Haven dokumentiert die reiche Geschichte der Insel.",
-                  "category": "museum",
-                  "coords": [
-                        -70.599769,
-                        41.449221
-                  ]
-            },
-            {
                   "name": "Tisbury Town Beach",
                   "text": "Tisbury Town Beach ist ein beliebter öffentlicher Strand in Vineyard Haven zum Schwimmen.",
                   "category": "recreational",
@@ -79910,51 +76729,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.600028,
                         41.459279
-                  ]
-            },
-            {
-                  "name": "Old Schoolhouse Museum and Liberty Pole",
-                  "text": "Dieses Museum in Vineyard Haven zeigt lokale maritime Exponate und historische Artefakte.",
-                  "category": "museum",
-                  "coords": [
-                        -70.603362,
-                        41.456501
-                  ]
-            },
-            {
-                  "name": "Martha's Vineyard Playhouse",
-                  "text": "Das Martha's Vineyard Playhouse ist ein bekanntes professionelles Theater in Vineyard Haven.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.603885,
-                        41.455465
-                  ]
-            },
-            {
-                  "name": "Katherine Cornell Theater",
-                  "text": "Das Katherine Cornell Theater ist ein kultureller Veranstaltungsort für Aufführungen in Vineyard Haven.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.605013,
-                        41.454175
-                  ]
-            },
-            {
-                  "name": "Vineyard Haven Harbor",
-                  "text": "Vineyard Haven Harbor ist die Haupthafeneinfahrt der Insel und ein malerischer Wasserweg.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.587886,
-                        41.467783
-                  ]
-            },
-            {
-                  "name": "West Chop Vista",
-                  "text": "West Chop Vista bietet einen beeindruckenden Aussichtspunkt über den Vineyard Sound.",
-                  "category": "natural",
-                  "coords": [
-                        -70.597923,
-                        41.475969
                   ]
             },
             {
@@ -80023,15 +76797,6 @@ export const naNewV1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Martha's Vineyard Museum",
-                  "text": "A Vineyard Haven-i Martha's Vineyard Museum a sziget gazdag történelmét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        -70.599769,
-                        41.449221
-                  ]
-            },
-            {
                   "name": "Tisbury Town Beach",
                   "text": "A Tisbury Town Beach egy népszerű nyilvános strand Vineyard Havenben, úszásra alkalmas.",
                   "category": "recreational",
@@ -80047,51 +76812,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.600028,
                         41.459279
-                  ]
-            },
-            {
-                  "name": "Old Schoolhouse Museum and Liberty Pole",
-                  "text": "Ez a Vineyard Haven-i múzeum helyi tengerészeti kiállításokat és történelmi tárgyakat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -70.603362,
-                        41.456501
-                  ]
-            },
-            {
-                  "name": "Martha's Vineyard Playhouse",
-                  "text": "A Martha's Vineyard Playhouse egy jól ismert professzionális színház Vineyard Havenben.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.603885,
-                        41.455465
-                  ]
-            },
-            {
-                  "name": "Katherine Cornell Theater",
-                  "text": "A Katherine Cornell Theater kulturális helyszín előadások számára Vineyard Havenben.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.605013,
-                        41.454175
-                  ]
-            },
-            {
-                  "name": "Vineyard Haven Harbor",
-                  "text": "A Vineyard Haven Harbor a sziget fő kikötője és egy festői vízi út.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.587886,
-                        41.467783
-                  ]
-            },
-            {
-                  "name": "West Chop Vista",
-                  "text": "A West Chop Vista lenyűgöző kilátást nyújt a Vineyard Soundra.",
-                  "category": "natural",
-                  "coords": [
-                        -70.597923,
-                        41.475969
                   ]
             },
             {
@@ -80160,15 +76880,6 @@ export const naNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Martha's Vineyard Museum",
-                  "text": "Martha's Vineyard Museum din Vineyard Haven documentează istoria bogată a insulei.",
-                  "category": "museum",
-                  "coords": [
-                        -70.599769,
-                        41.449221
-                  ]
-            },
-            {
                   "name": "Tisbury Town Beach",
                   "text": "Tisbury Town Beach este o plajă publică populară din Vineyard Haven pentru înot.",
                   "category": "recreational",
@@ -80184,51 +76895,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.600028,
                         41.459279
-                  ]
-            },
-            {
-                  "name": "Old Schoolhouse Museum and Liberty Pole",
-                  "text": "Acest muzeu din Vineyard Haven prezintă expoziții maritime locale și artefacte istorice.",
-                  "category": "museum",
-                  "coords": [
-                        -70.603362,
-                        41.456501
-                  ]
-            },
-            {
-                  "name": "Martha's Vineyard Playhouse",
-                  "text": "Martha's Vineyard Playhouse este un teatru profesionist bine-cunoscut din Vineyard Haven.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.603885,
-                        41.455465
-                  ]
-            },
-            {
-                  "name": "Katherine Cornell Theater",
-                  "text": "Katherine Cornell Theater este un loc cultural pentru spectacole în Vineyard Haven.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.605013,
-                        41.454175
-                  ]
-            },
-            {
-                  "name": "Vineyard Haven Harbor",
-                  "text": "Vineyard Haven Harbor este principala intrare în portul insulei și o cale navigabilă pitorească.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.587886,
-                        41.467783
-                  ]
-            },
-            {
-                  "name": "West Chop Vista",
-                  "text": "West Chop Vista oferă un punct de belvedere impresionant asupra Vineyard Sound.",
-                  "category": "natural",
-                  "coords": [
-                        -70.597923,
-                        41.475969
                   ]
             },
             {
@@ -80297,15 +76963,6 @@ export const naNewV1: POI[] = [
       ],
       "en": [
             {
-                  "name": "Martha's Vineyard Museum",
-                  "text": "The Martha's Vineyard Museum in Vineyard Haven documents the island's rich history.",
-                  "category": "museum",
-                  "coords": [
-                        -70.599769,
-                        41.449221
-                  ]
-            },
-            {
                   "name": "Tisbury Town Beach",
                   "text": "Tisbury Town Beach is a popular public beach in Vineyard Haven for swimming.",
                   "category": "recreational",
@@ -80321,51 +76978,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.600028,
                         41.459279
-                  ]
-            },
-            {
-                  "name": "Old Schoolhouse Museum and Liberty Pole",
-                  "text": "This museum in Vineyard Haven features local maritime exhibits and historical artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        -70.603362,
-                        41.456501
-                  ]
-            },
-            {
-                  "name": "Martha's Vineyard Playhouse",
-                  "text": "Martha's Vineyard Playhouse is a well-known professional theatre in Vineyard Haven.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.603885,
-                        41.455465
-                  ]
-            },
-            {
-                  "name": "Katherine Cornell Theater",
-                  "text": "The Katherine Cornell Theater is a cultural venue for performances in Vineyard Haven.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.605013,
-                        41.454175
-                  ]
-            },
-            {
-                  "name": "Vineyard Haven Harbor",
-                  "text": "Vineyard Haven Harbor is the island's main port of entry and a scenic waterway.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.587886,
-                        41.467783
-                  ]
-            },
-            {
-                  "name": "West Chop Vista",
-                  "text": "West Chop Vista provides an impressive viewpoint overlooking the Vineyard Sound.",
-                  "category": "natural",
-                  "coords": [
-                        -70.597923,
-                        41.475969
                   ]
             },
             {
@@ -87151,15 +83763,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Plage des Îles",
-                  "text": "Ein Strandresort in Les Cèdres mit Freizeiteinrichtungen am Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.045128,
-                        45.291645
-                  ]
-            },
-            {
                   "name": "Manoir Grant",
                   "text": "Ein bemerkenswertes Herrenhaus in der Stadt Les Cèdres.",
                   "category": "historical",
@@ -87195,15 +83798,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -74.054054,
                         45.30436
-                  ]
-            },
-            {
-                  "name": "Plage des Îles",
-                  "text": "Tengerparti üdülőhely Les Cèdres-ben, amely vízi szabadidős létesítményeket kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.045128,
-                        45.291645
                   ]
             },
             {
@@ -87245,15 +83839,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Plage des Îles",
-                  "text": "O stațiune la plajă în Les Cèdres care oferă facilități de recreere pe malul apei.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.045128,
-                        45.291645
-                  ]
-            },
-            {
                   "name": "Manoir Grant",
                   "text": "Un conac remarcabil situat în orașul Les Cèdres.",
                   "category": "historical",
@@ -87289,15 +83874,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -74.054054,
                         45.30436
-                  ]
-            },
-            {
-                  "name": "Plage des Îles",
-                  "text": "A beach resort in Les Cèdres offering recreational facilities by the water.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.045128,
-                        45.291645
                   ]
             },
             {
@@ -89803,33 +86379,6 @@ export const naNewV1: POI[] = [
                         -76.430491,
                         39.046245
                   ]
-            },
-            {
-                  "name": "Childrens Theatre of Annapolis",
-                  "text": "Ein Theater in Cape Saint Claire, das Aufführungen für ein junges Publikum bietet.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.428991,
-                        39.027585
-                  ]
-            },
-            {
-                  "name": "Corcoran Environmental Study Area",
-                  "text": "Ein Naturschutzgebiet in Cape Saint Claire mit geschützten Waldflächen.",
-                  "category": "natural",
-                  "coords": [
-                        -76.417443,
-                        39.033912
-                  ]
-            },
-            {
-                  "name": "Saint Margaret's Episcopal Church",
-                  "text": "Eine Episkopalkirche in Cape Saint Claire, die der örtlichen Gemeinde dient.",
-                  "category": "religious",
-                  "coords": [
-                        -76.462583,
-                        39.020683
-                  ]
             }
       ],
       "hu": [
@@ -89849,33 +86398,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -76.430491,
                         39.046245
-                  ]
-            },
-            {
-                  "name": "Childrens Theatre of Annapolis",
-                  "text": "Színház Cape Saint Claire-ben, amely fiatal közönségnek szóló előadásokat tart.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.428991,
-                        39.027585
-                  ]
-            },
-            {
-                  "name": "Corcoran Environmental Study Area",
-                  "text": "Természetvédelmi terület Cape Saint Claire-ben, védett erdős részekkel.",
-                  "category": "natural",
-                  "coords": [
-                        -76.417443,
-                        39.033912
-                  ]
-            },
-            {
-                  "name": "Saint Margaret's Episcopal Church",
-                  "text": "Episzkopális templom Cape Saint Claire-ben, amely a helyi közösséget szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        -76.462583,
-                        39.020683
                   ]
             }
       ],
@@ -89897,33 +86419,6 @@ export const naNewV1: POI[] = [
                         -76.430491,
                         39.046245
                   ]
-            },
-            {
-                  "name": "Childrens Theatre of Annapolis",
-                  "text": "Un teatru din Cape Saint Claire care oferă spectocole pentru publicul tânăr.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.428991,
-                        39.027585
-                  ]
-            },
-            {
-                  "name": "Corcoran Environmental Study Area",
-                  "text": "O rezervație naturală din Cape Saint Claire, cu zone forestiere protejate.",
-                  "category": "natural",
-                  "coords": [
-                        -76.417443,
-                        39.033912
-                  ]
-            },
-            {
-                  "name": "Saint Margaret's Episcopal Church",
-                  "text": "O biserică episcopală din Cape Saint Claire care deservește comunitatea locală.",
-                  "category": "religious",
-                  "coords": [
-                        -76.462583,
-                        39.020683
-                  ]
             }
       ],
       "en": [
@@ -89943,33 +86438,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -76.430491,
                         39.046245
-                  ]
-            },
-            {
-                  "name": "Childrens Theatre of Annapolis",
-                  "text": "A theatre in Cape Saint Claire providing performances for young audiences.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.428991,
-                        39.027585
-                  ]
-            },
-            {
-                  "name": "Corcoran Environmental Study Area",
-                  "text": "A nature reserve in Cape Saint Claire featuring protected wooded areas.",
-                  "category": "natural",
-                  "coords": [
-                        -76.417443,
-                        39.033912
-                  ]
-            },
-            {
-                  "name": "Saint Margaret's Episcopal Church",
-                  "text": "An Episcopal church in Cape Saint Claire serving the local community.",
-                  "category": "religious",
-                  "coords": [
-                        -76.462583,
-                        39.020683
                   ]
             }
       ]
@@ -94280,15 +90748,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Broad Sound",
-                  "text": "Eine weite Bucht bei Beachmont, die für ihre Gezeiten bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.949493,
-                        42.395931
-                  ]
-            },
-            {
                   "name": "Grovers Cliff",
                   "text": "Eine markante Klippenformation an der Küste von Beachmont.",
                   "category": "landmark",
@@ -94316,15 +90775,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Grace Federated Church",
-                  "text": "Eine historische Kirche in Beachmont, die als lokales Wahrzeichen dient.",
-                  "category": "religious",
-                  "coords": [
-                        -71.017134,
-                        42.383966
-                  ]
-            },
-            {
                   "name": "Orient Heights Beach",
                   "text": "Ein Strandabschnitt bei Orient Heights mit Blick auf die Skyline.",
                   "category": "recreational",
@@ -94334,30 +90784,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Belle Isle Marsh Reservation",
-                  "text": "Dieses Naturschutzgebiet in Beachmont schützt ein bedeutendes Salzwiesen-Ökosystem.",
-                  "category": "natural",
-                  "coords": [
-                        -70.990163,
-                        42.388525
-                  ]
-            },
-            {
                   "name": "Short Beach",
                   "text": "Ein öffentlicher Strand im Viertel Beachmont.",
                   "category": "recreational",
                   "coords": [
                         -70.980957,
                         42.392039
-                  ]
-            },
-            {
-                  "name": "Revere City Hall",
-                  "text": "Der historische Sitz der lokalen Verwaltung in Beachmont.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.013213,
-                        42.407878
                   ]
             }
       ],
@@ -94369,15 +90801,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.017768,
                         42.403431
-                  ]
-            },
-            {
-                  "name": "Broad Sound",
-                  "text": "Beachmont közeli tágas öböl, amely az árapály jelenségről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.949493,
-                        42.395931
                   ]
             },
             {
@@ -94408,15 +90831,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Grace Federated Church",
-                  "text": "Történelmi templom Beachmontban, amely helyi nevezetességként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        -71.017134,
-                        42.383966
-                  ]
-            },
-            {
                   "name": "Orient Heights Beach",
                   "text": "Tengerparti szakasz Orient Heightsnél, kilátással a városra.",
                   "category": "recreational",
@@ -94426,30 +90840,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Belle Isle Marsh Reservation",
-                  "text": "Ez a Beachmontban található természetvédelmi terület egy jelentős sós mocsári ökoszisztémát véd.",
-                  "category": "natural",
-                  "coords": [
-                        -70.990163,
-                        42.388525
-                  ]
-            },
-            {
                   "name": "Short Beach",
                   "text": "Egy nyilvános strand Beachmont városrészében.",
                   "category": "recreational",
                   "coords": [
                         -70.980957,
                         42.392039
-                  ]
-            },
-            {
-                  "name": "Revere City Hall",
-                  "text": "Beachmont helyi önkormányzatának történelmi székhelye.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.013213,
-                        42.407878
                   ]
             }
       ],
@@ -94461,15 +90857,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.017768,
                         42.403431
-                  ]
-            },
-            {
-                  "name": "Broad Sound",
-                  "text": "Un golf larg lângă Beachmont, cunoscut pentru mareele sale.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.949493,
-                        42.395931
                   ]
             },
             {
@@ -94500,15 +90887,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Grace Federated Church",
-                  "text": "O biserică istorică în Beachmont care servește ca reper local.",
-                  "category": "religious",
-                  "coords": [
-                        -71.017134,
-                        42.383966
-                  ]
-            },
-            {
                   "name": "Orient Heights Beach",
                   "text": "O secțiune de plajă la Orient Heights cu vedere spre orizontul orașului.",
                   "category": "recreational",
@@ -94518,30 +90896,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Belle Isle Marsh Reservation",
-                  "text": "Această rezervație naturală din Beachmont protejează un ecosistem important de mlaștină sărată.",
-                  "category": "natural",
-                  "coords": [
-                        -70.990163,
-                        42.388525
-                  ]
-            },
-            {
                   "name": "Short Beach",
                   "text": "O plajă publică situată în cartierul Beachmont.",
                   "category": "recreational",
                   "coords": [
                         -70.980957,
                         42.392039
-                  ]
-            },
-            {
-                  "name": "Revere City Hall",
-                  "text": "Sediul istoric al administrației locale din Beachmont.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.013213,
-                        42.407878
                   ]
             }
       ],
@@ -94553,15 +90913,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.017768,
                         42.403431
-                  ]
-            },
-            {
-                  "name": "Broad Sound",
-                  "text": "A wide bay near Beachmont known for its tidal movements.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.949493,
-                        42.395931
                   ]
             },
             {
@@ -94592,15 +90943,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Grace Federated Church",
-                  "text": "A historic church in Beachmont that serves as a local landmark.",
-                  "category": "religious",
-                  "coords": [
-                        -71.017134,
-                        42.383966
-                  ]
-            },
-            {
                   "name": "Orient Heights Beach",
                   "text": "A beach area at Orient Heights with views of the skyline.",
                   "category": "recreational",
@@ -94610,30 +90952,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Belle Isle Marsh Reservation",
-                  "text": "This nature reserve in Beachmont protects a large salt marsh ecosystem.",
-                  "category": "natural",
-                  "coords": [
-                        -70.990163,
-                        42.388525
-                  ]
-            },
-            {
                   "name": "Short Beach",
                   "text": "A public beach located in the Beachmont neighborhood.",
                   "category": "recreational",
                   "coords": [
                         -70.980957,
                         42.392039
-                  ]
-            },
-            {
-                  "name": "Revere City Hall",
-                  "text": "The historic seat of local government in Beachmont.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.013213,
-                        42.407878
                   ]
             }
       ]
@@ -95859,30 +92183,12 @@ export const naNewV1: POI[] = [
 {"id": "canada-avonport-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Monument à la mémoire des Planters",
-                  "text": "Ein Denkmal in Avonport, das dem Gedenken an die Siedler aus Neuengland gewidmet ist, die die Region besiedelten.",
-                  "category": "historical",
-                  "coords": [
-                        -64.2796,
-                        45.113312
-                  ]
-            },
-            {
                   "name": "Horton Bluff Front Range Light",
                   "text": "Ein historischer Leuchtturm, der am Horton Bluff als Navigationshilfe dient.",
                   "category": "landmark",
                   "coords": [
                         -64.224695,
                         45.108586
-                  ]
-            },
-            {
-                  "name": "View Park",
-                  "text": "Ein öffentlicher Bereich in Avonport mit Panoramablick auf das umliegende Minas-Becken.",
-                  "category": "natural",
-                  "coords": [
-                        -64.240007,
-                        45.086146
                   ]
             },
             {
@@ -95897,30 +92203,12 @@ export const naNewV1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Monument à la mémoire des Planters",
-                  "text": "Emlékmű Avonportban, amelyet a régiót betelepítő új-angliai telepesek emlékének szenteltek.",
-                  "category": "historical",
-                  "coords": [
-                        -64.2796,
-                        45.113312
-                  ]
-            },
-            {
                   "name": "Horton Bluff Front Range Light",
                   "text": "Történelmi világítótorony, amely navigációs segítséget nyújt a Horton Bluffnál.",
                   "category": "landmark",
                   "coords": [
                         -64.224695,
                         45.108586
-                  ]
-            },
-            {
-                  "name": "View Park",
-                  "text": "Nyilvános terület Avonportban, amely panorámás kilátást nyújt a környező Minas-medencére.",
-                  "category": "natural",
-                  "coords": [
-                        -64.240007,
-                        45.086146
                   ]
             },
             {
@@ -95935,30 +92223,12 @@ export const naNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Monument à la mémoire des Planters",
-                  "text": "Un monument în Avonport dedicat memoriei coloniștilor din Noua Anglie care au stabilit regiunea.",
-                  "category": "historical",
-                  "coords": [
-                        -64.2796,
-                        45.113312
-                  ]
-            },
-            {
                   "name": "Horton Bluff Front Range Light",
                   "text": "O structură istorică de far care oferă ajutor de navigație la Horton Bluff.",
                   "category": "landmark",
                   "coords": [
                         -64.224695,
                         45.108586
-                  ]
-            },
-            {
-                  "name": "View Park",
-                  "text": "O zonă publică din Avonport care oferă vedere panoramică asupra bazinului Minas din apropiere.",
-                  "category": "natural",
-                  "coords": [
-                        -64.240007,
-                        45.086146
                   ]
             },
             {
@@ -95973,30 +92243,12 @@ export const naNewV1: POI[] = [
       ],
       "en": [
             {
-                  "name": "Monument à la mémoire des Planters",
-                  "text": "A monument in Avonport dedicated to the memory of the New England Planters who settled the region.",
-                  "category": "historical",
-                  "coords": [
-                        -64.2796,
-                        45.113312
-                  ]
-            },
-            {
                   "name": "Horton Bluff Front Range Light",
                   "text": "A historic lighthouse structure providing navigational aid at Horton Bluff.",
                   "category": "landmark",
                   "coords": [
                         -64.224695,
                         45.108586
-                  ]
-            },
-            {
-                  "name": "View Park",
-                  "text": "A public area in Avonport offering panoramic views of the surrounding Minas Basin.",
-                  "category": "natural",
-                  "coords": [
-                        -64.240007,
-                        45.086146
                   ]
             },
             {
@@ -96011,302 +92263,10 @@ export const naNewV1: POI[] = [
       ]
 }, "type": "city", "parent": "CA-NS", "coords": [-64.25634, 45.10028], "tier": 2, "name": {"de": "Avonport", "hu": "Avonport", "ro": "Avonport", "en": "Avonport"}, "description": {"de": "Ein malerisches Dorf im Annapolis Valley, bekannt für seine extremen Gezeiten am Minas Basin und fruchtbare Weinberge.", "hu": "Festői falu az Annapolis-völgyben, amely a Minas-medence extrém árapály-jelenségéről és termékeny szőlőültetvényeiről ismert.", "ro": "Un sat pitoresc din Valea Annapolis, cunoscut pentru mareele sale extreme din Bazinul Minas și podgoriile fertile.", "en": "A picturesque village in the Annapolis Valley, known for its extreme tides at the Minas Basin and fertile vineyards."}, "descriptionAdvanced": {"de": "Avonport liegt im Herzen des fruchtbaren Annapolis Valley in Nova Scotia, direkt am Minas Basin, einem Arm der Bay of Fundy. Der Ort ist berühmt für die weltweit höchsten Gezeiten, die die Küstenlandschaft zweimal täglich dramatisch verändern. Der Avonport Beach bietet bei Ebbe weite rote Schlickflächen, die zum Wandern einladen, während Penny Beach ein ruhigerer Ort für Naturbeobachtungen ist.\n\nDie Umgebung von Avonport ist geprägt von einer reichen Agrartradition, insbesondere vom Weinbau. Besucher können lokale Weingüter erkunden, die für ihre spritzigen Weißweine bekannt sind. Die Region hat auch eine tiefe historische Bedeutung als Teil des Acadian-Erbes, mit dem nahegelegenen Grand-Pré National Historic Site. Die Landschaft ist eine Mischung aus sanften Hügeln, Obstgärten und der rauen Küste des Beckens.\n\nKulinarisch bietet Avonport das Beste aus dem Tal: frische Äpfel, Beeren und lokal produzierten Käse. Die Anfahrt erfolgt meist über den Highway 101, was den Ort gut mit Halifax verbindet. Avonport ist ein idealer Ausgangspunkt für Reisende, die die natürliche Schönheit und die kulinarischen Schätze von Nova Scotia in einer ruhigen Atmosphäre entdecken möchten.", "hu": "Avonport Új-Skócia termékeny Annapolis-völgyének szívében fekszik, közvetlenül a Minas-medence partján, amely a Fundy-öböl egyik ága. A település a világ legmagasabb árapály-jelenségéről híres, amely naponta kétszer drámaian megváltoztatja a part menti tájat. Az Avonport Beach apály idején hatalmas vörös iszapmezőket tár fel, amelyek alkalmasak a sétára, míg a Penny Beach egy csendesebb hely a természet megfigyelésére.\n\nAvonport környékét gazdag mezőgazdasági hagyományok, különösen a szőlőtermesztés jellemzi. A látogatók helyi borászatokat fedezhetnek fel, amelyek friss fehérboraikról ismertek. A régió mély történelmi jelentőséggel is bír az akádiai örökség részeként, a közeli Grand-Pré nemzeti történelmi emlékhellyel. A táj lankás dombok, gyümölcsösök és a medence vadpartjának keveréke.\n\nGasztronómiai szempontból Avonport a völgy legjavát kínálja: friss almát, bogyós gyümölcsöket és helyi sajtokat. A megközelítés általában a 101-es autópályán keresztül történik, amely jól összeköti a települést Halifaxtal. Avonport ideális kiindulópont azoknak az utazóknak, akik Új-Skócia természeti szépségeit és kulináris kincseit szeretnék felfedezni nyugodt környezetben.", "ro": "Avonport este situat în inima fertilei Văi Annapolis din Nova Scotia, direct pe malul Bazinului Minas, o ramură a Golfului Fundy. Satul este renumit pentru cele mai înalte maree din lume, care schimbă dramatic peisajul de coastă de două ori pe zi. Avonport Beach oferă, la reflux, vaste întinderi de mâl roșu, ideale pentru plimbări, în timp ce Penny Beach este un loc mai liniștit pentru observarea naturii.\n\nÎmprejurimile localității Avonport sunt marcate de o bogată tradiție agricolă, în special viticultura. Vizitatorii pot explora cramele locale, cunoscute pentru vinurile lor albe acidulate. Regiunea are și o semnificație istorică profundă, fiind parte a moștenirii acadiene, cu situl istoric național Grand-Pré în apropiere. Peisajul este un amestec de dealuri blânde, livezi și coasta sălbatică a bazinului.\n\nDin punct de vedere culinar, Avonport oferă tot ce este mai bun din vale: mere proaspete, fructe de pădure și brânzeturi produse local. Accesul se face de obicei prin autostrada 101, care conectează bine localitatea de Halifax. Avonport este un punct de plecare ideal pentru călătorii care doresc să descopere frumusețea naturală și comorile culinare ale Noii Scoții într-o atmosferă liniștită.", "en": "Avonport is located in the heart of Nova Scotia's fertile Annapolis Valley, right on the shores of the Minas Basin, an arm of the Bay of Fundy. The village is famous for having the highest tides in the world, which dramatically change the coastal landscape twice daily. Avonport Beach offers vast expanses of red mudflats at low tide, perfect for walking, while Penny Beach is a more secluded spot for nature observation.\n\nThe area surrounding Avonport is defined by a rich agricultural tradition, particularly viticulture. Visitors can explore local wineries known for their crisp white wines. The region also holds deep historical significance as part of the Acadian heritage, with the nearby Grand-Pré National Historic Site. The landscape is a mix of rolling hills, orchards, and the basin's rugged coastline.\n\nCulinary-wise, Avonport offers the valley's best: fresh apples, berries, and locally produced cheeses. Access is typically via Highway 101, which connects the village well with Halifax. Avonport is an ideal base for travelers looking to discover Nova Scotia's natural beauty and culinary treasures in a peaceful atmosphere."}, "facts": {"de": ["Region: Annapolis Valley", "Phänomen: Höchste Gezeiten", "Strände: Avonport & Penny", "Landwirtschaft: Weinbau", "Geschichte: Acadian Erbe", "Gewässer: Minas Basin", "Aktivität: Schlickwandern", "Verbindung: Hwy 101"], "hu": ["Régió: Annapolis-völgy", "Jelenség: Világrekord árapály", "Strandok: Avonport és Penny", "Mezőgazdaság: Bortermelés", "Történelem: Akádiai örökség", "Víz: Minas-medence", "Tevékenység: Iszapjárás", "Közlekedés: 101-es út"], "ro": ["Regiune: Valea Annapolis", "Fenomen: Maree record", "Plaje: Avonport și Penny", "Agricultură: Viticultură", "Istorie: Moștenire acadiană", "Apă: Bazinul Minas", "Activitate: Plimbări pe mâl", "Acces: Hwy 101"], "en": ["Region: Annapolis Valley", "Phenomenon: World's highest tides", "Beaches: Avonport & Penny", "Industry: Wine making", "History: Acadian heritage", "Waterbody: Minas Basin", "Activity: Mudflat walking", "Transport: Hwy 101"]}, "image": "/poi-images/canada-avonport-cities-v2.webp"},
 {"id": "canada-feltzen-south-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "End of Trail",
-                  "text": "Ein Aussichtspunkt am Ende eines Wanderweges in Feltzen South.",
-                  "category": "natural",
-                  "coords": [
-                        -64.257806,
-                        44.324375
-                  ]
-            },
-            {
-                  "name": "Young's Cave Look Off",
-                  "text": "Ein markanter Aussichtspunkt nahe der Young's Cave in Feltzen South.",
-                  "category": "natural",
-                  "coords": [
-                        -64.256822,
-                        44.323753
-                  ]
-            },
-            {
-                  "name": "Thunder Cave Look Off",
-                  "text": "Ein Aussichtspunkt mit Blick auf die tosende Brandung bei Thunder Cave.",
-                  "category": "natural",
-                  "coords": [
-                        -64.256312,
-                        44.322801
-                  ]
-            },
-            {
-                  "name": "Ovens Reef Lookoff",
-                  "text": "Ein Aussichtspunkt mit Blick auf die markanten Ovens-Riffe.",
-                  "category": "natural",
-                  "coords": [
-                        -64.256328,
-                        44.321187
-                  ]
-            },
-            {
-                  "name": "Petting Zoo",
-                  "text": "Ein kleiner Streichelzoo in Feltzen South, ideal für Familien mit Kindern.",
-                  "category": "recreational",
-                  "coords": [
-                        -64.259278,
-                        44.318916
-                  ]
-            },
-            {
-                  "name": "Kayak Tour Start Location",
-                  "text": "Der Ausgangspunkt für geführte Kajaktouren entlang der Küstenlinie.",
-                  "category": "landmark",
-                  "coords": [
-                        -64.256308,
-                        44.315952
-                  ]
-            },
-            {
-                  "name": "Spindler's Beach",
-                  "text": "Ein ruhiger Naturstrand in der Nähe von Feltzen South.",
-                  "category": "recreational",
-                  "coords": [
-                        -64.275557,
-                        44.326297
-                  ]
-            },
-            {
-                  "name": "Cunard's Beach",
-                  "text": "Ein schöner Strandabschnitt in Feltzen South für entspannte Stunden am Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        -64.256764,
-                        44.3199
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "End of Trail",
-                  "text": "Kilátópont egy túraútvonal végén, Feltzen South területén.",
-                  "category": "natural",
-                  "coords": [
-                        -64.257806,
-                        44.324375
-                  ]
-            },
-            {
-                  "name": "Young's Cave Look Off",
-                  "text": "Jellegzetes kilátóhely a Young-barlang közelében, Feltzen South-ban.",
-                  "category": "natural",
-                  "coords": [
-                        -64.256822,
-                        44.323753
-                  ]
-            },
-            {
-                  "name": "Thunder Cave Look Off",
-                  "text": "Kilátópont, ahonnan rálátni a hullámverésre a Thunder-barlangnál.",
-                  "category": "natural",
-                  "coords": [
-                        -64.256312,
-                        44.322801
-                  ]
-            },
-            {
-                  "name": "Ovens Reef Lookoff",
-                  "text": "Kilátóhely, ahonnan rálátni a jellegzetes Ovens-zátonyokra.",
-                  "category": "natural",
-                  "coords": [
-                        -64.256328,
-                        44.321187
-                  ]
-            },
-            {
-                  "name": "Petting Zoo",
-                  "text": "Kisméretű állatsimogató Feltzen South-ban, ideális kisgyermekes családoknak.",
-                  "category": "recreational",
-                  "coords": [
-                        -64.259278,
-                        44.318916
-                  ]
-            },
-            {
-                  "name": "Kayak Tour Start Location",
-                  "text": "A part menti vezetett kajaktúrák indulási helyszíne.",
-                  "category": "landmark",
-                  "coords": [
-                        -64.256308,
-                        44.315952
-                  ]
-            },
-            {
-                  "name": "Spindler's Beach",
-                  "text": "Nyugodt, természetes tengerpart Feltzen South közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -64.275557,
-                        44.326297
-                  ]
-            },
-            {
-                  "name": "Cunard's Beach",
-                  "text": "Szép tengerparti szakasz Feltzen South-ban a tengerparti kikapcsolódáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        -64.256764,
-                        44.3199
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "End of Trail",
-                  "text": "Un punct de observație la capătul unui traseu de drumeție în Feltzen South.",
-                  "category": "natural",
-                  "coords": [
-                        -64.257806,
-                        44.324375
-                  ]
-            },
-            {
-                  "name": "Young's Cave Look Off",
-                  "text": "Un punct de observație distinctiv lângă Peștera Young în Feltzen South.",
-                  "category": "natural",
-                  "coords": [
-                        -64.256822,
-                        44.323753
-                  ]
-            },
-            {
-                  "name": "Thunder Cave Look Off",
-                  "text": "Un punct de observație cu vedere la valurile puternice de la Peștera Thunder.",
-                  "category": "natural",
-                  "coords": [
-                        -64.256312,
-                        44.322801
-                  ]
-            },
-            {
-                  "name": "Ovens Reef Lookoff",
-                  "text": "Un punct de observație cu vedere la recifele distinctiv Ovens.",
-                  "category": "natural",
-                  "coords": [
-                        -64.256328,
-                        44.321187
-                  ]
-            },
-            {
-                  "name": "Petting Zoo",
-                  "text": "O mică grădină zoologică în Feltzen South, ideală pentru familii cu copii.",
-                  "category": "recreational",
-                  "coords": [
-                        -64.259278,
-                        44.318916
-                  ]
-            },
-            {
-                  "name": "Kayak Tour Start Location",
-                  "text": "Punctul de plecare pentru tururi ghidate cu caiacul de-a lungul liniei de coastă.",
-                  "category": "landmark",
-                  "coords": [
-                        -64.256308,
-                        44.315952
-                  ]
-            },
-            {
-                  "name": "Spindler's Beach",
-                  "text": "O plajă naturală liniștită în apropiere de Feltzen South.",
-                  "category": "recreational",
-                  "coords": [
-                        -64.275557,
-                        44.326297
-                  ]
-            },
-            {
-                  "name": "Cunard's Beach",
-                  "text": "O porțiune frumoasă de plajă în Feltzen South pentru ore relaxante la mare.",
-                  "category": "recreational",
-                  "coords": [
-                        -64.256764,
-                        44.3199
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "End of Trail",
-                  "text": "A viewpoint at the end of a hiking trail in Feltzen South.",
-                  "category": "natural",
-                  "coords": [
-                        -64.257806,
-                        44.324375
-                  ]
-            },
-            {
-                  "name": "Young's Cave Look Off",
-                  "text": "A prominent lookout point near Young's Cave in Feltzen South.",
-                  "category": "natural",
-                  "coords": [
-                        -64.256822,
-                        44.323753
-                  ]
-            },
-            {
-                  "name": "Thunder Cave Look Off",
-                  "text": "A viewpoint overlooking the crashing surf at Thunder Cave.",
-                  "category": "natural",
-                  "coords": [
-                        -64.256312,
-                        44.322801
-                  ]
-            },
-            {
-                  "name": "Ovens Reef Lookoff",
-                  "text": "A lookout point with views of the distinctive Ovens reefs.",
-                  "category": "natural",
-                  "coords": [
-                        -64.256328,
-                        44.321187
-                  ]
-            },
-            {
-                  "name": "Petting Zoo",
-                  "text": "A small petting zoo in Feltzen South, ideal for families with children.",
-                  "category": "recreational",
-                  "coords": [
-                        -64.259278,
-                        44.318916
-                  ]
-            },
-            {
-                  "name": "Kayak Tour Start Location",
-                  "text": "The starting location for guided kayak tours along the coastline.",
-                  "category": "landmark",
-                  "coords": [
-                        -64.256308,
-                        44.315952
-                  ]
-            },
-            {
-                  "name": "Spindler's Beach",
-                  "text": "A quiet natural beach located near Feltzen South.",
-                  "category": "recreational",
-                  "coords": [
-                        -64.275557,
-                        44.326297
-                  ]
-            },
-            {
-                  "name": "Cunard's Beach",
-                  "text": "A beautiful stretch of beach in Feltzen South for relaxing hours by the sea.",
-                  "category": "recreational",
-                  "coords": [
-                        -64.256764,
-                        44.3199
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "CA-NS", "coords": [-64.27002, 44.32532], "tier": 2, "name": {"de": "Feltzen South", "hu": "Feltzen South", "ro": "Feltzen South", "en": "Feltzen South"}, "description": {"de": "Ein authentisches Fischerdorf in Nova Scotia, das Ruhe und unberührte Küstenlandschaften in der Nähe von Lunenburg bietet.", "hu": "Eredeti új-skóciai halászfalu, amely nyugalmat és érintetlen tengerparti tájakat kínál Lunenburg közelében.", "ro": "Un sat de pescari autentic din Nova Scotia, care oferă liniște și peisaje de coastă neatinse în apropiere de Lunenburg.", "en": "An authentic Nova Scotian fishing village offering tranquility and pristine coastal landscapes near Lunenburg."}, "descriptionAdvanced": {"de": "Feltzen South ist ein verstecktes Juwel an der South Shore von Nova Scotia, am Eingang zum Hafen von Lunenburg. Dieses kleine Fischerdorf hat sich seinen ursprünglichen Charme mit bunten Holzhäusern und kleinen Booten bewahrt. Ein Highlight ist Spindler's Beach, ein ruhiger Strandabschnitt, der ideal zum Sammeln von Muscheln und zur Entspannung ist. Cunard's Beach bietet ebenfalls einen friedlichen Rückzugsort mit Blick auf das offene Meer.\n\nDie Gegend ist bekannt für ihre spektakuläre Küstengeografie, insbesondere durch die Nähe zum Ovens Natural Park, wo Besucher Meereshöhlen erkunden können. Feltzen South ist der ideale Ort für Fotografie, da sich das Licht über dem Wasser ständig verändert und die historische Architektur perfekt in die Landschaft passt. Es gibt keine großen Hotels, was die intime und ruhige Atmosphäre des Ortes unterstreicht.\n\nDie lokale Küche konzentriert sich auf das, was das Meer bietet: frischer Schellfisch, Hummer und Muscheln. Eine kurze Autofahrt führt in das UNESCO-Weltkulturerbe Lunenburg, aber Feltzen South bleibt der ruhige Ankerpunkt abseits der Touristenströme. Es ist ein Ort für Reisende, die die Seele baumeln lassen und das echte maritime Leben Kanadas spüren möchten.", "hu": "Feltzen South egy rejtett kincs Új-Skócia déli partján (South Shore), a Lunenburg-öböl bejáratánál. Ez a kis halászfalu megőrizte eredeti báját színes faházaival és kis csónakjaival. A környék egyik fénypontja a Spindler's Beach, egy csendes strand szakasz, amely ideális kagylógyűjtésre és pihenésre. A Cunard's Beach szintén békés menedéket nyújt, kilátással a nyílt tengerre.\n\nA terület látványos tengerparti földrajzáról ismert, különösen a közeli Ovens Natural Park miatt, ahol a látogatók tengeri barlangokat fedezhetnek fel. Feltzen South ideális hely a fotózáshoz, mivel a fények folyamatosan változnak a víz felett, és a történelmi építészet tökéletesen illeszkedik a tájba. Nincsenek nagy szállodák, ami tovább hangsúlyozza a település intim és nyugodt légkörét.\n\nA helyi konyha arra összpontosít, amit a tenger kínál: friss tőkehal, homár és kagyló. Egy rövid autóút vezet az UNESCO világörökség részét képező Lunenburghoz, de Feltzen South marad a csendes kikötő a turisták áradatától távol. Ez a hely azoknak az utazóknak való, akik szeretnének kikapcsolódni és érezni Kanada valódi tengerparti életét.", "ro": "Feltzen South este o bijuterie ascunsă pe malul sudic al Noii Scoții, la intrarea în portul Lunenburg. Acest mic sat de pescari și-a păstrat farmecul original, cu case din lemn colorate și bărci mici. Un punct culminant este Spindler's Beach, o porțiune de plajă liniștită, ideală pentru colectarea scoicilor și relaxare. Cunard's Beach oferă, de asemenea, un refugiu pașnic, cu vedere la marea deschisă.\n\nZona este cunoscută pentru geografia sa de coastă spectaculoasă, în special datorită proximității față de Ovens Natural Park, unde vizitatorii pot explora peșteri marine. Feltzen South este locul ideal pentru fotografie, deoarece lumina de deasupra apei se schimbă constant, iar arhitectura istorică se potrivește perfect în peisaj. Nu există hoteluri mari, ceea ce subliniază atmosfera intimă și liniștită a locului.\n\nBucătăria locală se concentrează pe ceea ce oferă marea: eglefin proaspăt, homar și scoici. O scurtă plimbare cu mașina duce la Lunenburg, sit al Patrimoniului Mondial UNESCO, dar Feltzen South rămâne punctul de ancorare liniștit, departe de fluxurile de turiști. Este un loc pentru călătorii care doresc să se relaxeze și să simtă viața maritimă autentică a Canadei.", "en": "Feltzen South is a hidden gem on Nova Scotia's South Shore, located at the entrance to Lunenburg Harbour. This small fishing village has preserved its original charm with colorful wooden houses and small dories. A highlight is Spindler's Beach, a quiet stretch of coastline ideal for beachcombing and relaxation. Cunard's Beach also offers a peaceful retreat with views of the open sea.\n\nThe area is known for its spectacular coastal geography, particularly its proximity to Ovens Natural Park, where visitors can explore sea caves. Feltzen South is an ideal spot for photography, as the light over the water constantly changes and the historic architecture fits perfectly into the landscape. There are no large hotels, which emphasizes the intimate and quiet atmosphere of the village.\n\nLocal cuisine focuses on what the sea provides: fresh haddock, lobster, and mussels. A short drive leads to the UNESCO World Heritage site of Lunenburg, but Feltzen South remains a quiet anchor point away from the tourist crowds. It is a place for travelers who want to unwind and experience Canada's true maritime life."}, "facts": {"de": ["Region: South Shore", "Stil: Fischerdorf", "Strände: Spindler's & Cunard's", "Nähe: 15 Min von Lunenburg", "Natur: Ovens Natural Park", "Aktivität: Fotografie", "Küche: Frischer Fisch", "Bauweise: Bunte Holzhäuser"], "hu": ["Régió: South Shore", "Stílus: Halászfalu", "Strandok: Spindler's és Cunard's", "Közelség: 15 percre Lunenburgtől", "Park: Ovens Natural Park", "Tevékenység: Fotózás", "Étel: Friss halételek", "Építészet: Színes faházak"], "ro": ["Regiune: South Shore", "Stil: Sat de pescari", "Plaje: Spindler's și Cunard's", "Locație: 15 min de Lunenburg", "Natură: Ovens Natural Park", "Activitate: Fotografie", "Gastronomie: Pește proaspăt", "Arhitectură: Case colorate"], "en": ["Region: South Shore", "Vibe: Fishing village", "Beaches: Spindler's & Cunard's", "Proximity: 15 min from Lunenburg", "Park: Ovens Natural Park", "Activity: Photography", "Food: Fresh seafood", "Style: Colorful wooden houses"]}, "image": "/poi-images/canada-feltzen-south-cities-v2.webp"},
 {"id": "canada-barachois-cities-v2", "sights": {
       "de": [
@@ -97506,15 +93466,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Metchosin Mountain",
-                  "text": "Ein markanter Naturgipfel mit malerischem Blick über die Gegend von Metchosin.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.52927,
-                        48.397379
-                  ]
-            },
-            {
                   "name": "Mount Blinkhorn",
                   "text": "Ein lokaler Gipfel in Metchosin, bekannt für seine Wanderwege und Panoramablicke.",
                   "category": "landmark",
@@ -97540,15 +93491,6 @@ export const naNewV1: POI[] = [
                         -123.513076,
                         48.385043
                   ]
-            },
-            {
-                  "name": "Metchosin School Museum",
-                  "text": "Ein Museum in einem historischen Schulhaus, das die lokale Bildungsgeschichte dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        -123.533443,
-                        48.38058
-                  ]
             }
       ],
       "hu": [
@@ -97559,15 +93501,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -123.535578,
                         48.380412
-                  ]
-            },
-            {
-                  "name": "Metchosin Mountain",
-                  "text": "Kiemelkedő természetes csúcs, amely festői kilátást nyújt Metchosin környékére.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.52927,
-                        48.397379
                   ]
             },
             {
@@ -97596,15 +93529,6 @@ export const naNewV1: POI[] = [
                         -123.513076,
                         48.385043
                   ]
-            },
-            {
-                  "name": "Metchosin School Museum",
-                  "text": "Egy történelmi iskolaépületben elhelyezett múzeum, amely a helyi oktatástörténetet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -123.533443,
-                        48.38058
-                  ]
             }
       ],
       "ro": [
@@ -97615,15 +93539,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -123.535578,
                         48.380412
-                  ]
-            },
-            {
-                  "name": "Metchosin Mountain",
-                  "text": "Un vârf natural proeminent care oferă vederi panoramice asupra zonei Metchosin.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.52927,
-                        48.397379
                   ]
             },
             {
@@ -97652,15 +93567,6 @@ export const naNewV1: POI[] = [
                         -123.513076,
                         48.385043
                   ]
-            },
-            {
-                  "name": "Metchosin School Museum",
-                  "text": "Un muzeu găzduit într-o școală istorică, care documentează istoria educației locale.",
-                  "category": "museum",
-                  "coords": [
-                        -123.533443,
-                        48.38058
-                  ]
             }
       ],
       "en": [
@@ -97671,15 +93577,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -123.535578,
                         48.380412
-                  ]
-            },
-            {
-                  "name": "Metchosin Mountain",
-                  "text": "A prominent natural peak providing scenic views over the Metchosin area.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.52927,
-                        48.397379
                   ]
             },
             {
@@ -97707,15 +93604,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -123.513076,
                         48.385043
-                  ]
-            },
-            {
-                  "name": "Metchosin School Museum",
-                  "text": "A museum housed in a historic schoolhouse documenting local educational history.",
-                  "category": "museum",
-                  "coords": [
-                        -123.533443,
-                        48.38058
                   ]
             }
       ]
@@ -100512,15 +96400,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Jackie Robinson",
-                  "text": "Ein Denkmal in Hoboken zu Ehren des legendären Baseballspielers Jackie Robinson.",
-                  "category": "historical",
-                  "coords": [
-                        -74.063168,
-                        40.732332
-                  ]
-            },
-            {
                   "name": "Hudson River Waterfront Walkway",
                   "text": "Ein malerischer Spazierweg in Hoboken mit beeindruckender Aussicht auf die Skyline von Manhattan.",
                   "category": "park",
@@ -100548,39 +96427,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "The River Project Wetlab",
-                  "text": "Eine Aquarieneinrichtung in Hoboken, die der Erforschung und Bildung zum Hudson River gewidmet ist.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.013529,
-                        40.728456
-                  ]
-            },
-            {
                   "name": "Art Projects International",
                   "text": "Eine Kunstgalerie in Hoboken, die zeitgenössische Werke internationaler Künstler zeigt.",
                   "category": "museum",
                   "coords": [
                         -74.009816,
                         40.722637
-                  ]
-            },
-            {
-                  "name": "Harsimus Cove",
-                  "text": "Eine Bucht im Gebiet von Hoboken, die für ihre Landschaft am Wasser bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.030258,
-                        40.727045
-                  ]
-            },
-            {
-                  "name": "Hoboken Fire Department Museum",
-                  "text": "Ein Museum in Hoboken, das die Geschichte und Ausrüstung der städtischen Feuerwehr zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -74.030956,
-                        40.739273
                   ]
             },
             {
@@ -100649,15 +96501,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Jackie Robinson",
-                  "text": "Jackie Robinson legendás baseballjátékos emléke előtt tisztelgő emlékmű Hobokenben.",
-                  "category": "historical",
-                  "coords": [
-                        -74.063168,
-                        40.732332
-                  ]
-            },
-            {
                   "name": "Hudson River Waterfront Walkway",
                   "text": "Festői sétány Hobokenben, amely lenyűgöző kilátást nyújt Manhattan sziluettjére.",
                   "category": "park",
@@ -100685,39 +96528,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "The River Project Wetlab",
-                  "text": "Akvárium Hobokenben, amely a Hudson-folyó kutatásával és oktatásával foglalkozik.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.013529,
-                        40.728456
-                  ]
-            },
-            {
                   "name": "Art Projects International",
                   "text": "Művészeti galéria Hobokenben, amely nemzetközi művészek kortárs alkotásait mutatja be.",
                   "category": "museum",
                   "coords": [
                         -74.009816,
                         40.722637
-                  ]
-            },
-            {
-                  "name": "Harsimus Cove",
-                  "text": "Öböl Hoboken környékén, amely vízparti tájáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.030258,
-                        40.727045
-                  ]
-            },
-            {
-                  "name": "Hoboken Fire Department Museum",
-                  "text": "Hoboken tűzoltóságának történetét és eszközeit bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -74.030956,
-                        40.739273
                   ]
             },
             {
@@ -100786,15 +96602,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Jackie Robinson",
-                  "text": "Un monument din Hoboken care onorează moștenirea legendarului jucător de baseball Jackie Robinson.",
-                  "category": "historical",
-                  "coords": [
-                        -74.063168,
-                        40.732332
-                  ]
-            },
-            {
                   "name": "Hudson River Waterfront Walkway",
                   "text": "O pasarelă pitorească din Hoboken care oferă vederi uimitoare asupra orizontului Manhattanului.",
                   "category": "park",
@@ -100822,39 +96629,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "The River Project Wetlab",
-                  "text": "O unitate de acvariu din Hoboken dedicată cercetării și educației despre râul Hudson.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.013529,
-                        40.728456
-                  ]
-            },
-            {
                   "name": "Art Projects International",
                   "text": "O galerie de artă din Hoboken care expune lucrări contemporane ale unor artiști internaționali.",
                   "category": "museum",
                   "coords": [
                         -74.009816,
                         40.722637
-                  ]
-            },
-            {
-                  "name": "Harsimus Cove",
-                  "text": "Un golf din zona Hoboken, cunoscut pentru peisajul său de pe malul apei.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.030258,
-                        40.727045
-                  ]
-            },
-            {
-                  "name": "Hoboken Fire Department Museum",
-                  "text": "Un muzeu din Hoboken care prezintă istoria și echipamentele departamentului de pompieri al orașului.",
-                  "category": "museum",
-                  "coords": [
-                        -74.030956,
-                        40.739273
                   ]
             },
             {
@@ -100923,15 +96703,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Jackie Robinson",
-                  "text": "A monument in Hoboken honoring the legacy of the legendary baseball player.",
-                  "category": "historical",
-                  "coords": [
-                        -74.063168,
-                        40.732332
-                  ]
-            },
-            {
                   "name": "Hudson River Waterfront Walkway",
                   "text": "A scenic walkway in Hoboken offering stunning views of the Manhattan skyline.",
                   "category": "park",
@@ -100959,39 +96730,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "The River Project Wetlab",
-                  "text": "An aquarium facility in Hoboken dedicated to Hudson River research and education.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.013529,
-                        40.728456
-                  ]
-            },
-            {
                   "name": "Art Projects International",
                   "text": "An art gallery in Hoboken showcasing contemporary works by international artists.",
                   "category": "museum",
                   "coords": [
                         -74.009816,
                         40.722637
-                  ]
-            },
-            {
-                  "name": "Harsimus Cove",
-                  "text": "A bay in the Hoboken area known for its waterfront scenery.",
-                  "category": "landmark",
-                  "coords": [
-                        -74.030258,
-                        40.727045
-                  ]
-            },
-            {
-                  "name": "Hoboken Fire Department Museum",
-                  "text": "A museum in Hoboken displaying the history and equipment of the city's fire department.",
-                  "category": "museum",
-                  "coords": [
-                        -74.030956,
-                        40.739273
                   ]
             },
             {
@@ -114090,15 +109834,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Thunder Lagoon Water Park",
-                  "text": "Ein familienfreundlicher Wasserpark in Fenwick Island mit Rutschen und verschiedenen Wasserattraktionen.",
-                  "category": "recreational",
-                  "coords": [
-                        -75.053885,
-                        38.452746
-                  ]
-            },
-            {
                   "name": "Gorman Avenue Park",
                   "text": "Ein lokaler Park in Fenwick Island, der Grünflächen für die Erholung im Freien bietet.",
                   "category": "park",
@@ -114179,15 +109914,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -75.070379,
                         38.463269
-                  ]
-            },
-            {
-                  "name": "Thunder Lagoon Water Park",
-                  "text": "Családbarát vízi park Fenwick Islanden, csúszdákkal és különféle vízi látványosságokkal.",
-                  "category": "recreational",
-                  "coords": [
-                        -75.053885,
-                        38.452746
                   ]
             },
             {
@@ -114274,15 +110000,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Thunder Lagoon Water Park",
-                  "text": "Un parc acvatic pentru familii în Fenwick Island, cu tobogane și diverse atracții acvatice.",
-                  "category": "recreational",
-                  "coords": [
-                        -75.053885,
-                        38.452746
-                  ]
-            },
-            {
                   "name": "Gorman Avenue Park",
                   "text": "Un parc local în Fenwick Island care oferă spațiu verde pentru recreere în aer liber.",
                   "category": "park",
@@ -114363,15 +110080,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -75.070379,
                         38.463269
-                  ]
-            },
-            {
-                  "name": "Thunder Lagoon Water Park",
-                  "text": "A family-friendly water park in Fenwick Island featuring slides and various aquatic attractions.",
-                  "category": "recreational",
-                  "coords": [
-                        -75.053885,
-                        38.452746
                   ]
             },
             {
@@ -114678,30 +110386,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "The Cove",
-                  "text": "Ein malerischer Strandbereich in Cape May Point mit Blick auf den Leuchtturm und das Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.934654,
-                        38.929971
-                  ]
-            },
-            {
                   "name": "Cape May Museum & Nature Center",
                   "text": "Eine Bildungseinrichtung in Cape May Point, die sich auf die lokale Geschichte und Ökologie konzentriert.",
                   "category": "museum",
                   "coords": [
                         -74.959443,
                         38.932035
-                  ]
-            },
-            {
-                  "name": "South Cape May Meadows",
-                  "text": "Ein Naturschutzgebiet in Cape May Point, das als wichtiger Lebensraum für Zugvögel dient.",
-                  "category": "natural",
-                  "coords": [
-                        -74.941416,
-                        38.934416
                   ]
             },
             {
@@ -114806,30 +110496,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "The Cove",
-                  "text": "Festői strandterület Cape May Pointban, kilátással a világítótoronyra és az óceánra.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.934654,
-                        38.929971
-                  ]
-            },
-            {
                   "name": "Cape May Museum & Nature Center",
                   "text": "Oktatási létesítmény Cape May Pointban, amely a helyi történelemre és ökológiára összpontosít.",
                   "category": "museum",
                   "coords": [
                         -74.959443,
                         38.932035
-                  ]
-            },
-            {
-                  "name": "South Cape May Meadows",
-                  "text": "Természetvédelmi terület Cape May Pointban, amely kritikus élőhely a vándormadarak számára.",
-                  "category": "natural",
-                  "coords": [
-                        -74.941416,
-                        38.934416
                   ]
             },
             {
@@ -114934,30 +110606,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "The Cove",
-                  "text": "O zonă de plajă pitorească din Cape May Point care oferă vederi spre far și ocean.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.934654,
-                        38.929971
-                  ]
-            },
-            {
                   "name": "Cape May Museum & Nature Center",
                   "text": "O unitate educațională din Cape May Point care se concentrează pe istoria și ecologia locală.",
                   "category": "museum",
                   "coords": [
                         -74.959443,
                         38.932035
-                  ]
-            },
-            {
-                  "name": "South Cape May Meadows",
-                  "text": "O rezervație naturală din Cape May Point care servește drept habitat critic pentru păsările migratoare.",
-                  "category": "natural",
-                  "coords": [
-                        -74.941416,
-                        38.934416
                   ]
             },
             {
@@ -115062,30 +110716,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "The Cove",
-                  "text": "A scenic beach area in Cape May Point offering views of the lighthouse and ocean.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.934654,
-                        38.929971
-                  ]
-            },
-            {
                   "name": "Cape May Museum & Nature Center",
                   "text": "An educational facility in Cape May Point focusing on local history and ecology.",
                   "category": "museum",
                   "coords": [
                         -74.959443,
                         38.932035
-                  ]
-            },
-            {
-                  "name": "South Cape May Meadows",
-                  "text": "A nature preserve in Cape May Point that serves as a critical habitat for migratory birds.",
-                  "category": "natural",
-                  "coords": [
-                        -74.941416,
-                        38.934416
                   ]
             },
             {
@@ -115228,24 +110864,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "The Grand at Diamond Beach",
-                  "text": "Ein Strandresort in Wildwood Gables mit luxuriösen Annehmlichkeiten und Zugang zum Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.84725,
-                        38.957366
-                  ]
-            },
-            {
-                  "name": "Spashpad",
-                  "text": "Eine Wasserpark-Attraktion in Wildwood Gables mit verschiedenen Plansch- und Spielbereichen.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.833847,
-                        38.969982
-                  ]
-            },
-            {
                   "name": "Five Mile Beach",
                   "text": "Ein langer Sandstrand in Wildwood Gables, bekannt für seine breiten Ufer und Freizeitmöglichkeiten.",
                   "category": "recreational",
@@ -115335,24 +110953,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -74.863503,
                         38.986224
-                  ]
-            },
-            {
-                  "name": "The Grand at Diamond Beach",
-                  "text": "Tengerparti üdülőhely Wildwood Gables-ben, amely luxus felszereltséget és óceáni hozzáférést kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.84725,
-                        38.957366
-                  ]
-            },
-            {
-                  "name": "Spashpad",
-                  "text": "Vízi park attrakció Wildwood Gables-ben, különféle csobbanó- és játszóterekkel.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.833847,
-                        38.969982
                   ]
             },
             {
@@ -115448,24 +111048,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "The Grand at Diamond Beach",
-                  "text": "O stațiune de plajă din Wildwood Gables care oferă facilități de lux și acces la ocean.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.84725,
-                        38.957366
-                  ]
-            },
-            {
-                  "name": "Spashpad",
-                  "text": "O atracție de parc acvatic din Wildwood Gables, cu diverse zone de bălăceală și joacă.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.833847,
-                        38.969982
-                  ]
-            },
-            {
                   "name": "Five Mile Beach",
                   "text": "O plajă lungă cu nisip din Wildwood Gables, cunoscută pentru malurile sale largi și recreere.",
                   "category": "recreational",
@@ -115555,24 +111137,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -74.863503,
                         38.986224
-                  ]
-            },
-            {
-                  "name": "The Grand at Diamond Beach",
-                  "text": "A beach resort in Wildwood Gables offering luxury amenities and ocean access.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.84725,
-                        38.957366
-                  ]
-            },
-            {
-                  "name": "Spashpad",
-                  "text": "A water park attraction in Wildwood Gables featuring various splash and play areas.",
-                  "category": "recreational",
-                  "coords": [
-                        -74.833847,
-                        38.969982
                   ]
             },
             {
@@ -116770,15 +112334,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Skull Island",
-                  "text": "Ein Familienunterhaltungszentrum in South Yarmouth mit Themenattraktionen.",
-                  "category": "recreational",
-                  "coords": [
-                        -70.210124,
-                        41.656192
-                  ]
-            },
-            {
                   "name": "Water Department Land",
                   "text": "Offenes Naturgebiet in South Yarmouth, verwaltet von der Wasserbehörde.",
                   "category": "natural",
@@ -116913,15 +112468,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -70.204965,
                         41.666032
-                  ]
-            },
-            {
-                  "name": "Skull Island",
-                  "text": "Családi szórakoztató központ South Yarmouth-ban, tematikus látnivalókkal.",
-                  "category": "recreational",
-                  "coords": [
-                        -70.210124,
-                        41.656192
                   ]
             },
             {
@@ -117062,15 +112608,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Skull Island",
-                  "text": "Un centru de divertisment de familie în South Yarmouth, cu atracții tematice.",
-                  "category": "recreational",
-                  "coords": [
-                        -70.210124,
-                        41.656192
-                  ]
-            },
-            {
                   "name": "Water Department Land",
                   "text": "Spațiu natural deschis în South Yarmouth, administrat de departamentul de apă.",
                   "category": "natural",
@@ -117208,15 +112745,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Skull Island",
-                  "text": "A family entertainment center in South Yarmouth with themed attractions.",
-                  "category": "recreational",
-                  "coords": [
-                        -70.210124,
-                        41.656192
-                  ]
-            },
-            {
                   "name": "Water Department Land",
                   "text": "Water Department Land is an open natural space in South Yarmouth.",
                   "category": "natural",
@@ -117257,66 +112785,12 @@ export const naNewV1: POI[] = [
 {"id": "usa-tisbury-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Tashmoo Overlook",
-                  "text": "Ein malerischer Aussichtspunkt mit Panoramablick auf den Lake Tashmoo und den Vineyard Sound.",
-                  "category": "natural",
-                  "coords": [
-                        -70.622406,
-                        41.445514
-                  ]
-            },
-            {
-                  "name": "Pilot Hill",
-                  "text": "Ein markanter Hügel auf Martha's Vineyard, der einen weiten Blick auf die Nordküste bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.63864,
-                        41.453445
-                  ]
-            },
-            {
                   "name": "Lake Tashmoo Town Beach",
                   "text": "Ein öffentlicher Strand an der Stelle, an der der Lake Tashmoo auf den Vineyard Sound trifft.",
                   "category": "recreational",
                   "coords": [
                         -70.631954,
                         41.467241
-                  ]
-            },
-            {
-                  "name": "Ripley's Farm Preserve",
-                  "text": "Ein Naturschutzgebiet mit offenen Feldern und Wäldern auf Martha's Vineyard.",
-                  "category": "natural",
-                  "coords": [
-                        -70.638237,
-                        41.449564
-                  ]
-            },
-            {
-                  "name": "Ripleys Field Preserve",
-                  "text": "Ein geschützter Naturraum, der wegen seines Lebensraums für Wildtiere und seiner malerischen pastoralen Schönheit erhalten wurde.",
-                  "category": "natural",
-                  "coords": [
-                        -70.63569,
-                        41.444687
-                  ]
-            },
-            {
-                  "name": "Tisbury Meadow Preserve",
-                  "text": "Das Tisbury Meadow Preserve ist ein geschütztes Naturareal in Tisbury mit Wanderwegen.",
-                  "category": "natural",
-                  "coords": [
-                        -70.627417,
-                        41.43674
-                  ]
-            },
-            {
-                  "name": "West Chop Light",
-                  "text": "West Chop Light ist ein historischer Leuchtturm in Tisbury, der die Hafeneinfahrt markiert.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.599764,
-                        41.480795
                   ]
             },
             {
@@ -117394,66 +112868,12 @@ export const naNewV1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Tashmoo Overlook",
-                  "text": "Festői kilátópont, ahonnan panorámás kilátás nyílik a Tashmoo-tóra és a Vineyard Soundra.",
-                  "category": "natural",
-                  "coords": [
-                        -70.622406,
-                        41.445514
-                  ]
-            },
-            {
-                  "name": "Pilot Hill",
-                  "text": "Jellegzetes domb Martha's Vineyard szigetén, ahonnan kilátás nyílik az északi partvidékre.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.63864,
-                        41.453445
-                  ]
-            },
-            {
                   "name": "Lake Tashmoo Town Beach",
                   "text": "Nyilvános tengerpart azon a ponton, ahol a Tashmoo-tó találkozik a Vineyard Sounddal.",
                   "category": "recreational",
                   "coords": [
                         -70.631954,
                         41.467241
-                  ]
-            },
-            {
-                  "name": "Ripley's Farm Preserve",
-                  "text": "Nyílt mezőkkel és erdőkkel rendelkező természetvédelmi terület Martha's Vineyard szigetén.",
-                  "category": "natural",
-                  "coords": [
-                        -70.638237,
-                        41.449564
-                  ]
-            },
-            {
-                  "name": "Ripleys Field Preserve",
-                  "text": "Védett természeti terület, amelyet vadvilági élőhelye és festői pásztori szépsége miatt őriztek meg.",
-                  "category": "natural",
-                  "coords": [
-                        -70.63569,
-                        41.444687
-                  ]
-            },
-            {
-                  "name": "Tisbury Meadow Preserve",
-                  "text": "A Tisbury Meadow Preserve egy védett természeti terület Tisburyben, gyalogutakkal.",
-                  "category": "natural",
-                  "coords": [
-                        -70.627417,
-                        41.43674
-                  ]
-            },
-            {
-                  "name": "West Chop Light",
-                  "text": "A West Chop Light egy történelmi világítótorony Tisburyben, amely a kikötő bejáratát jelzi.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.599764,
-                        41.480795
                   ]
             },
             {
@@ -117531,66 +112951,12 @@ export const naNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Tashmoo Overlook",
-                  "text": "Un punct de belvedere pitoresc care oferă vederi panoramice asupra lacului Tashmoo și Vineyard Sound.",
-                  "category": "natural",
-                  "coords": [
-                        -70.622406,
-                        41.445514
-                  ]
-            },
-            {
-                  "name": "Pilot Hill",
-                  "text": "Un deal proeminent pe Martha's Vineyard care oferă vederi ridicate asupra liniei de coastă nordice.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.63864,
-                        41.453445
-                  ]
-            },
-            {
                   "name": "Lake Tashmoo Town Beach",
                   "text": "O plajă publică situată la intersecția lacului Tashmoo cu Vineyard Sound.",
                   "category": "recreational",
                   "coords": [
                         -70.631954,
                         41.467241
-                  ]
-            },
-            {
-                  "name": "Ripley's Farm Preserve",
-                  "text": "O zonă de conservare cu câmpuri deschise și păduri pe Martha's Vineyard.",
-                  "category": "natural",
-                  "coords": [
-                        -70.638237,
-                        41.449564
-                  ]
-            },
-            {
-                  "name": "Ripleys Field Preserve",
-                  "text": "Un spațiu natural protejat, conservat pentru habitatul faunei sălbatice și frumusețea pastorală pitorească.",
-                  "category": "natural",
-                  "coords": [
-                        -70.63569,
-                        41.444687
-                  ]
-            },
-            {
-                  "name": "Tisbury Meadow Preserve",
-                  "text": "Tisbury Meadow Preserve este o rezervație naturală protejată din Tisbury, cu trasee de drumeție.",
-                  "category": "natural",
-                  "coords": [
-                        -70.627417,
-                        41.43674
-                  ]
-            },
-            {
-                  "name": "West Chop Light",
-                  "text": "West Chop Light este un far istoric din Tisbury care marchează intrarea în port.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.599764,
-                        41.480795
                   ]
             },
             {
@@ -117668,66 +113034,12 @@ export const naNewV1: POI[] = [
       ],
       "en": [
             {
-                  "name": "Tashmoo Overlook",
-                  "text": "A scenic vantage point offering panoramic views of Lake Tashmoo and the Vineyard Sound.",
-                  "category": "natural",
-                  "coords": [
-                        -70.622406,
-                        41.445514
-                  ]
-            },
-            {
-                  "name": "Pilot Hill",
-                  "text": "A prominent hill on Martha's Vineyard providing elevated views of the northern coastline.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.63864,
-                        41.453445
-                  ]
-            },
-            {
                   "name": "Lake Tashmoo Town Beach",
                   "text": "A public beach located where Lake Tashmoo meets the Vineyard Sound.",
                   "category": "recreational",
                   "coords": [
                         -70.631954,
                         41.467241
-                  ]
-            },
-            {
-                  "name": "Ripley's Farm Preserve",
-                  "text": "A conservation area featuring open fields and woodlands on Martha's Vineyard.",
-                  "category": "natural",
-                  "coords": [
-                        -70.638237,
-                        41.449564
-                  ]
-            },
-            {
-                  "name": "Ripleys Field Preserve",
-                  "text": "A protected natural space preserved for its wildlife habitat and scenic pastoral beauty.",
-                  "category": "natural",
-                  "coords": [
-                        -70.63569,
-                        41.444687
-                  ]
-            },
-            {
-                  "name": "Tisbury Meadow Preserve",
-                  "text": "Tisbury Meadow Preserve is a protected natural area in Tisbury offering scenic walking trails.",
-                  "category": "natural",
-                  "coords": [
-                        -70.627417,
-                        41.43674
-                  ]
-            },
-            {
-                  "name": "West Chop Light",
-                  "text": "West Chop Light is a historic lighthouse in Tisbury that marks the entrance to the harbor.",
-                  "category": "landmark",
-                  "coords": [
-                        -70.599764,
-                        41.480795
                   ]
             },
             {
@@ -120133,86 +115445,10 @@ export const naNewV1: POI[] = [
       ]
 }, "type": "city", "slug": "usa-yarmouth-cities-v2", "parent": "US-ME", "coords": [-70.18758, 43.80091], "tier": 2, "name": {"de": "Yarmouth", "hu": "Yarmouth", "ro": "Yarmouth", "en": "Yarmouth"}, "description": {"de": "Eine historische Küstenstadt in Maine, berühmt für ihr Muschelfestival und ihre malerische Lage an der Casco Bay.", "hu": "Történelmi tengerparti város Maine államban, amely híres az osztriga-fesztiváljáról és a Casco-öböl menti fekvéséről.", "ro": "Un oraș de coastă istoric din Maine, faimos pentru festivalul scoicilor și locația pitorească pe malul Casco Bay.", "en": "A historic coastal town in Maine, famous for its annual Clam Festival and picturesque location on Casco Bay."}, "descriptionAdvanced": {"de": "Yarmouth ist ein Inbegriff neuenglischer Schönheit, gelegen an der zerklüfteten Küste von Maine. Die Stadt ist bekannt für ihre reiche Schiffbaugeschichte, die man noch heute in den prächtigen Kapitänshäusern entlang der Main Street bewundern kann. Der Royal River fließt durch das Herz der Stadt und stürzt über malerische Wasserfälle, bevor er in den Atlantik mündet.\n\nEin Highlight für Strandbesucher ist der Sandy Point Beach auf Cousins Island, der über eine Brücke mit dem Festland verbunden ist. Dieser Strand bietet feinen Sand und ruhiges Wasser, ideal zum Schwimmen und Kajakfahren in der Casco Bay. Die Parks der Stadt, wie der Royal River Park, laden zu ausgiebigen Spaziergängen unter alten Ulmen und Ahornbäumen ein.\n\nIn kulinarischer Hinsicht ist Yarmouth ein Paradies für Liebhaber von Meeresfrüchten, insbesondere während des berühmten Yarmouth Clam Festival im Juli. Die lokale Gastronomie setzt auf 'Farm-to-Table' Konzepte und frischen Fang direkt aus der Bucht. Durch die Nähe zu Portland ist Yarmouth ein perfekter Rückzugsort, der dörfliche Ruhe mit kulturellem Angebot verbindet.", "hu": "Yarmouth Maine egyik legvonzóbb települése, ahol a történelmi örökség találkozik a tengerparti eleganciával. A város egykor jelentős hajóépítő központ volt, amiről a főutca mentén sorakozó patinás kapitányi kúriák tanúskodnak. A Royal-folyó vízesései és parkjai a település központjában kínálnak nyugodt pihenőhelyet.\n\nA vízi élményekre vágyók számára a Cousins-szigeten található Sandy Point Beach a fő vonzerő. Ez a homokos part kiváló lehetőséget nyújt a fürdőzésre és a Casco-öböl szigetei közötti kajakozásra. A város környéki túraútvonalak dús erdőkön és sós mocsarakon vezetnek keresztül, bemutatva Maine vadregényes élővilágát.\n\nA gasztronómia középpontjában a világhírű Yarmouth Clam Festival áll, ahol a látogatók megkóstolhatják a legfrissebb kagylóételeket. A helyi éttermekben a „tengertől az asztalig” szemlélet uralkodik. Yarmouth kiváló elhelyezkedése lehetővé teszi a közeli Portland könnyű elérését, miközben megőrzi békés, kisvárosi jellegét.", "ro": "Yarmouth este un exemplu clasic de frumusețe din New England, situat pe coasta dantelată a statului Maine. Orașul are o istorie îndelungată în construcția de nave, reflectată astăzi în conacele elegante ale foștilor căpitani de pe strada principală. Râul Royal traversează localitatea, creând cascade pitorești înainte de a se vărsa în Casco Bay.\n\nPentru iubitorii de soare și mare, Sandy Point Beach de pe insula Cousins este destinația ideală. Plaja oferă nisip fin și ape calme, fiind un loc preferat pentru înot și lansarea caiacelor. Parcurile locale, cum este Royal River Park, sunt perfecte pentru picnicuri și plimbări prin peisajul natural conservat cu grijă.\n\nDin punct de vedere culinar, Yarmouth este renumit pentru Festivalul Scoicilor (Clam Festival), care atrage mii de vizitatori în fiecare vară. Restaurantele locale servesc homari și scoici proaspete, pescuite chiar din apele din apropiere. Comunitatea este activă și primitoare, oferind o alternativă liniștită la agitația urbană din Portlandul vecin.", "en": "Yarmouth is a quintessentially beautiful Maine coastal town, blending historic charm with modern New England elegance. Historically a major shipbuilding hub, the town's heritage is visible in the stately sea captains' homes lining Main Street. The Royal River flows through the center of town, featuring scenic waterfalls and lush parks that provide a focal point for the community.\n\nA major draw for residents and visitors alike is Sandy Point Beach, located on Cousins Island and connected by a bridge. This beach offers soft sand and calm waters, making it ideal for swimming, sunbathing, and exploring Casco Bay by paddleboard. The surrounding natural areas offer miles of trails through forests and along tidal marshes.\n\nGastronomy is a high point, especially during the famous Yarmouth Clam Festival held every July. Local eateries focus on fresh, local ingredients, with Maine lobster and clams taking center stage. Yarmouth's location provides the perfect balance of small-town tranquility and easy access to the cultural amenities of nearby Portland."}, "facts": {"de": ["Yarmouth Clam Festival", "Schiffbau-Tradition", "Sandy Point Beach", "Royal River Wasserfälle", "Historische Main Street", "Lage an der Casco Bay", "Nähe zu Portland, ME", "Cousins Island Brücke"], "hu": ["Híres Kagylófesztivál", "Hajóépítő múlt", "Sandy Point Beach", "Royal-folyó vízesései", "Casco-öböl partja", "Portland közelsége", "Történelmi kúriák", "Cousins-szigeti strand"], "ro": ["Festivalul Scoicilor", "Istorie navală bogată", "Plaja Sandy Point", "Cascadele râului Royal", "Arhitectură colonială", "Acces la Casco Bay", "Aproape de Portland", "Insula Cousins"], "en": ["Annual Clam Festival", "Shipbuilding heritage", "Sandy Point Beach", "Royal River falls", "Historic Main Street", "Casco Bay coastline", "Near Portland, Maine", "Cousins Island access"]}, "image": "/poi-images/usa-yarmouth-cities-v2.webp"},
 {"slug": "canada-saint-fulgence-cities-v2", "id": "canada-saint-fulgence-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "La Maison Coupée En Deux",
-                  "text": "Ein einzigartiges Theater und kultureller Ort in Saint-Fulgence.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.903238,
-                        48.450035
-                  ]
-            },
-            {
-                  "name": "Parc municipal",
-                  "text": "Ein öffentlicher Stadtpark in Saint-Fulgence für die Erholung im Freien.",
-                  "category": "park",
-                  "coords": [
-                        -70.900245,
-                        48.450334
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "La Maison Coupée En Deux",
-                  "text": "Egyedülálló színház és kulturális helyszín Saint-Fulgence-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.903238,
-                        48.450035
-                  ]
-            },
-            {
-                  "name": "Parc municipal",
-                  "text": "Nyilvános önkormányzati park Saint-Fulgence-ben szabadtéri kikapcsolódáshoz.",
-                  "category": "park",
-                  "coords": [
-                        -70.900245,
-                        48.450334
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "La Maison Coupée En Deux",
-                  "text": "Un teatru și loc cultural unic în Saint-Fulgence.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.903238,
-                        48.450035
-                  ]
-            },
-            {
-                  "name": "Parc municipal",
-                  "text": "Un parc municipal public în Saint-Fulgence pentru recreere în aer liber.",
-                  "category": "park",
-                  "coords": [
-                        -70.900245,
-                        48.450334
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "La Maison Coupée En Deux",
-                  "text": "A unique theatre and cultural venue in Saint-Fulgence.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.903238,
-                        48.450035
-                  ]
-            },
-            {
-                  "name": "Parc municipal",
-                  "text": "A public municipal park in Saint-Fulgence for outdoor recreation.",
-                  "category": "park",
-                  "coords": [
-                        -70.900245,
-                        48.450334
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "CA-QC", "coords": [-70.90339, 48.45031], "tier": 2, "name": {"de": "Saint-Fulgence", "hu": "Saint-Fulgence", "ro": "Saint-Fulgence", "en": "Saint-Fulgence"}, "description": {"de": "Ein ökologisches Paradies am Saguenay-Fjord, bekannt für seine beeindruckenden Gezeiten, die Vogelbeobachtung und die wilde Schönheit Quebecs.", "hu": "Ökológiai paradicsom a Saguenay-fjord partján, amely lenyűgöző árapály-jelenségeiről, madármegfigyelő helyeiről és Quebec vad szépségéről ismert.", "ro": "Un paradis ecologic pe malul fiordului Saguenay, cunoscut pentru mareele sale impresionante, observarea păsărilor și frumusețea sălbatică din Quebec.", "en": "An ecological paradise on the Saguenay Fjord, known for its impressive tides, birdwatching, and the wild beauty of Quebec."}, "descriptionAdvanced": {"de": "Saint-Fulgence ist das Tor zum majestätischen Saguenay-Fjord und ein Muss für Ökotouristen in Quebec. Die Gemeinde zeichnet sich durch das Aufeinandertreffen von Süß- und Salzwasser aus, was eine einzigartige Artenvielfalt schafft. Die umliegenden Berge und borealen Wälder bieten endlose Möglichkeiten zum Wandern und Kajakfahren in einer unberührten Umgebung.\n\nDie Küstenzone ist geprägt von den gewaltigen Gezeiten des Saguenay. Am Battures aux Loups Marins können Besucher das Phänomen beobachten, wie das Wasser weite Flächen freigibt oder flutet, was ideal für die Beobachtung von Meeresvögeln ist. Der Bereich Les Battures ist ein international anerkanntes Schutzgebiet für Zugvögel und bietet ruhige Wanderwege entlang der Uferlinie, die die zerklüftete Schönheit der Region unterstreichen.\n\nBesucher sollten das CIBRO (Centre d’interprétation des battures et de l'ornithologie) besuchen, um mehr über das lokale Ökosystem zu erfahren. Die lokale Gastronomie setzt auf regionale Produkte wie Heidelbeeren und handwerklichen Käse. Saint-Fulgence bietet eine authentische Verbindung zur Natur und ist der perfekte Ort, um die Ruhe und Kraft der kanadischen Wildnis zu erleben.", "hu": "Saint-Fulgence a fenséges Saguenay-fjord kapuja, és kihagyhatatlan állomás az ökoturizmus kedvelői számára Quebecben. A település különlegessége az édes- és sós víz találkozása, amely egyedülálló biológiai sokféleséget hoz létre. A környező hegyek és a boreális erdők végtelen lehetőséget kínálnak túrázásra és kajakozásra az érintetlen természetben.\n\nA tengerparti övezetet a Saguenay hatalmas árapály-ingadozása alakítja. A Battures aux Loups Marins részen a látogatók megfigyelhetik, ahogy a víz hatalmas területeket szabadít fel vagy áraszt el, ami ideális a tengeri madarak megfigyeléséhez. A Les Battures terület nemzetközileg elismert madárvédelmi körzet, amely csendes sétányokat kínál a partvonal mentén, kiemelve a régió vadregényes szépségét.\n\nÉrdemes ellátogatni a CIBRO (madártani központ) épületébe, hogy többet megtudjunk a helyi ökoszisztémáról. A helyi gasztronómia olyan regionális termékekre épít, mint az áfonya és a kézműves sajtok. Saint-Fulgence autentikus kapcsolatot kínál a természettel, és tökéletes hely a kanadai vadon nyugalmának és erejének megtapasztalására.", "ro": "Saint-Fulgence este poarta de intrare către maiestuosul fiord Saguenay și o destinație obligatorie pentru ecoturiștii din Quebec. Comunitatea se remarcă prin întâlnirea apelor dulci cu cele sărate, creând o biodiversitate unică. Munții înconjurători și pădurile boreale oferă oportunități infinite pentru drumeții și caiac într-un mediu nealterat.\n\nZona de coastă este modelată de mareele puternice ale Saguenay-ului. La Battures aux Loups Marins, vizitatorii pot observa fenomenul prin care apa eliberează sau inundă suprafețe vaste, fiind ideal pentru observarea păsărilor marine. Zona Les Battures este o rezervație de păsări recunoscută internațional, oferind poteci liniștite de-a lungul liniei țărmului care subliniază frumusețea accidentată a regiunii.\n\nVizitatorii ar trebui să viziteze CIBRO (Centrul de interpretare a bătăturilor și ornitologiei) pentru a afla mai multe despre ecosistemul local. Gastronomia locală se bazează pe produse regionale, cum ar fi afinele și brânzeturile artizanale. Saint-Fulgence oferă o legătură autentică cu natura și este locul perfect pentru a experimenta liniștea și forța sălbăticiei canadiene.", "en": "Saint-Fulgence is the gateway to the majestic Saguenay Fjord and a must-visit for eco-tourists in Quebec. The community is characterized by the convergence of fresh and salt water, creating a unique biodiversity. The surrounding mountains and boreal forests offer endless opportunities for hiking and kayaking in an untouched environment.\n\nThe coastal zone is shaped by the powerful tides of the Saguenay. At Battures aux Loups Marins, visitors can witness the phenomenon of the water exposing or flooding vast areas, ideal for spotting marine birds. The Les Battures area is an internationally recognized bird sanctuary, offering tranquil trails along the shoreline that highlight the region's rugged beauty.\n\nVisitors should explore CIBRO (interpretation center) to learn more about the local ecosystem. Local gastronomy focuses on regional products like blueberries and artisanal cheeses. Saint-Fulgence offers an authentic connection to nature and is the perfect place to experience the peace and power of the Canadian wilderness."}, "facts": {"de": ["Am Saguenay-Fjord", "Wichtiger Vogelzugstopp", "Größte Gezeiten am Fjord", "Ökotourismus-Zentrum", "Boreale Waldregion", "Heidelbeeren-Region", "Kajakparadies", "Winter-Eisfischen"], "hu": ["A Saguenay-fjordon", "Fontos madárvonulási állomás", "Legnagyobb árapály a fjordon", "Ökoturisztikai központ", "Boreális erdővidék", "Áfonya-régió", "Kajakosok paradicsoma", "Téli lékhorgászat"], "ro": ["Pe fiordul Saguenay", "Oprire majoră pentru păsări", "Cele mai mari maree de pe fiord", "Centru de ecoturism", "Regiune de pădure boreală", "Regiunea afinelor", "Paradisul caiacului", "Pescuit la copcă iarna"], "en": ["On the Saguenay Fjord", "Major bird migration stop", "Largest tides on the fjord", "Eco-tourism hub", "Boreal forest region", "Blueberry region", "Kayaking paradise", "Winter ice fishing"]}, "image": "/poi-images/canada-saint-fulgence-cities-v2.webp"},
 {"slug": "usa-bristol-cities-v2", "id": "usa-bristol-cities-v2", "sights": {
       "de": [
@@ -126420,15 +121656,6 @@ export const naNewV1: POI[] = [
 {"id": "usa-tremont-cities-v2", "sights": {
       "de": [
             {
-                  "name": "China Hill",
-                  "text": "Ein Hügel in Tremont, der Teil der lokalen Topographie ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -68.365296,
-                        44.268691
-                  ]
-            },
-            {
                   "name": "Hio Hill",
                   "text": "Ein Gipfel in Tremont, der Ausblicke auf die Umgebung bietet.",
                   "category": "landmark",
@@ -126466,15 +121693,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "China Hill",
-                  "text": "Egy domb Tremontban, amely a helyi domborzat része.",
-                  "category": "landmark",
-                  "coords": [
-                        -68.365296,
-                        44.268691
-                  ]
-            },
             {
                   "name": "Hio Hill",
                   "text": "Hegycsúcs Tremontban, amely kilátást nyújt a környékre.",
@@ -126514,15 +121732,6 @@ export const naNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "China Hill",
-                  "text": "Un deal din Tremont care face parte din topografia locală.",
-                  "category": "landmark",
-                  "coords": [
-                        -68.365296,
-                        44.268691
-                  ]
-            },
-            {
                   "name": "Hio Hill",
                   "text": "Un vârf din Tremont care oferă vederi asupra împrejurimilor.",
                   "category": "landmark",
@@ -126560,15 +121769,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "China Hill",
-                  "text": "A hill in Tremont that is part of the local topography.",
-                  "category": "landmark",
-                  "coords": [
-                        -68.365296,
-                        44.268691
-                  ]
-            },
             {
                   "name": "Hio Hill",
                   "text": "A peak in Tremont offering views of the surrounding area.",
@@ -129632,50 +124832,10 @@ export const naNewV1: POI[] = [
       ]
 }, "type": "city", "slug": "canada-chester-cities-v2", "coords": [-64.24119, 44.54133], "parent": "CA-NS", "tier": 2, "name": {"de": "Chester", "hu": "Chester", "ro": "Chester", "en": "Chester"}, "description": {"de": "Ein eleganter Ferienort an der Mahone Bay, berühmt für seine Segelregatten, viktorianische Villen und sein erstklassiges Kulturangebot.", "hu": "Elegáns üdülőhely a Mahone-öbölben, amely vitorlásversenyeiről, viktoriánus villáiról és elsőrangú kulturális kínálatáról híres.", "ro": "O stațiune elegantă în Golful Mahone, faimoasă pentru regatele de navigație, vilele victoriene și oferta culturală de primă clasă.", "en": "An elegant resort town on Mahone Bay, famous for its sailing regattas, Victorian mansions, and top-tier cultural offerings."}, "descriptionAdvanced": {"de": "Chester ist einer der exklusivsten und charmantesten Orte an der South Shore von Nova Scotia. Gelegen auf einer Halbinsel in der Mahone Bay, besticht das Dorf durch seine von Bäumen gesäumten Straßen, historischen Kapitänshäuser und eine entspannte, aber gehobene Atmosphäre. Seit über einem Jahrhundert ist Chester ein beliebtes Ziel für Segler und Sommergäste, was sich in der erstklassigen maritimen Infrastruktur widerspiegelt.\n\nDas Leben in Chester spielt sich weitgehend am und auf dem Wasser ab. Freda’s Beach ist ein beliebter Ort für ein ruhiges Bad im Ozean und bietet eine herrliche Aussicht auf die ein- und auslaufenden Segelboote. Wer es etwas rustikaler mag, findet am Algerine Shore wunderschöne Abschnitte zum Entspannen und Beobachten der Natur. Das Dorf ist weltbekannt für die 'Chester Race Week', Kanadas größte Kielboot-Regatta, die jedes Jahr im August Segler aus aller Welt anzieht.\n\nNeben dem Wassersport bietet Chester ein reiches kulturelles Leben. Das Chester Playhouse ist ein Zentrum für Theater und Musik, während zahlreiche Galerien die Werke lokaler Künstler präsentieren. Die Gastronomie reicht von gemütlichen Pubs bis hin zu gehobenen Restaurants, die die besten regionalen Produkte verarbeiten. Eine Fähre verbindet das Dorf mit den nahegelegenen Tancook-Inseln, was einen perfekten Tagesausflug ermöglicht. Chester ist die perfekte Mischung aus Tradition, Luxus und natürlicher Schönheit.", "hu": "Chester Új-Skócia egyik legelegánsabb és legkedveltebb tengerparti települése, amely a festői Mahone-öböl partján fekszik. A falu híres a fehér kerítéses, gondosan karbantartott viktoriánus házairól, a virágos kertekről és a tengerparti sétányairól. Chester évtizedek óta a vitorlázás központja a régióban, ahol a hagyomány és a modern luxus harmonikusan találkozik.\n\nA település tengerparti élményei közül kiemelkedik Freda’s Beach, amely finom homokjával és védett fekvésével a helyiek kedvenc strandolóhelye. Az Algerine Shore partvonala vadregényesebb tájakat kínál, ideális a hosszú sétákhoz és az öböl szigeteiben való gyönyörködéshez. Augusztusban a város életre kel a Chester Race Week idején, amely Kanada legnagyobb vitorlásversenye, és igazi fesztiválhangulatot varázsol a kikötőbe.\n\nKulturális szempontból Chester kiemelkedik a környező falvak közül; saját színházzal (Chester Playhouse) és számos művészeti galériával büszkélkedhet. A gasztronómia kedvelői kiváló éttermek közül választhatnak, ahol a friss tengeri ételek mellett a helyi borok is nagy szerepet kapnak. A közeli Tancook-szigetekre induló komp lehetőséget ad egy kis szigeti felfedezésre is. Chester ideális úticél azoknak, akik szeretik a vitorlázást, a művészeteket és a kifinomult tengerparti életstílust.", "ro": "Chester este una dintre cele mai exclusiviste și fermecătoare locații de pe coasta de sud a Noii Scoții. Situat pe o peninsulă în Golful Mahone, satul impresionează prin străzile sale mărginite de copaci, casele istorice ale căpitanilor și o atmosferă relaxată, dar sofisticată. De peste un secol, Chester a fost o destinație populară pentru navigatori și vizitatori de vară, lucru reflectat în infrastructura maritimă de primă clasă.\n\nViața în Chester se desfășoară în mare măsură pe și lângă apă. Freda’s Beach este un loc popular pentru o baie liniștită în ocean, oferind o vedere magnifică asupra bărcii cu pânze care intră și ies din port. Pentru cei care preferă un cadru mai rustic, Algerine Shore oferă porțiuni frumoase pentru relaxare și observarea naturii. Satul este cunoscut la nivel mondial pentru 'Chester Race Week', cea mai mare regată de bărci cu chilă din Canada, care atrage anual în august navigatori din întreaga lume.\n\nPe lângă sporturile nautice, Chester oferă o viață culturală bogată. Chester Playhouse este un centru pentru teatru și muzică, în timp ce numeroase galerii prezintă lucrările artiștilor locali. Gastronomia variază de la pub-uri primitoare la restaurante de lux care folosesc cele mai bune produse regionale. Un feribot conectează satul de insulele Tancook din apropiere, permițând o excursie de o zi perfectă. Chester este amestecul ideal de tradiție, lux și frumusețe naturală.", "en": "Chester is one of the most affluent and charming villages on Nova Scotia's South Shore, nestled on a peninsula overlooking the breathtaking Mahone Bay. Known for its stately Victorian homes, lush gardens, and upscale atmosphere, it has been a premier summer destination for over a century. The village exudes a timeless maritime elegance that attracts sailors, artists, and travelers seeking a refined coastal escape.\n\nThe heart of Chester lies in its relationship with the sea. Freda’s Beach is a beloved local spot, offering calm waters for swimming and a perfect vantage point to watch yachts glide across the bay. For a more rugged experience, Algerine Shore provides a scenic stretch of coastline ideal for quiet reflection and coastal walks. The community is world-renowned for hosting 'Chester Race Week', Canada's largest keelboat regatta, which transforms the harbor into a vibrant spectacle every August.\n\nBeyond sailing, Chester boasts a thriving cultural scene anchored by the Chester Playhouse and numerous independent art galleries. The village streets are lined with boutique shops and exceptional dining options, ranging from casual cafes to fine-dining establishments featuring Atlantic lobster and scallops. A regular ferry service to the nearby Tancook Islands offers a chance to explore traditional island life. Chester perfectly balances historic preservation with a lively, modern coastal lifestyle."}, "facts": {"de": ["Segelhauptstadt", "Chester Race Week", "Freda’s Beach", "Algerine Shore", "Chester Playhouse", "Viktorianische Architektur", "Tancook-Fähre", "Mahone Bay Lage"], "hu": ["Vitorlázás központja", "Chester Race Week", "Freda’s Beach", "Algerine Shore", "Chester Playhouse", "Viktoriánus stílus", "Tancook-komp", "Mahone-öböl"], "ro": ["Capitala navigației", "Chester Race Week", "Freda’s Beach", "Algerine Shore", "Chester Playhouse", "Arhitectură victoriană", "Feribot Tancook", "Locație în Golful Mahone"], "en": ["Sailing capital", "Chester Race Week", "Freda’s Beach", "Algerine Shore", "Chester Playhouse", "Victorian architecture", "Tancook ferry", "Mahone Bay setting"]}, "image": "/poi-images/canada-chester-cities-v2.webp"},
 {"id": "canada-second-peninsula-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Bachman's Beach",
-                  "text": "Ein ruhiger Strand auf der Second Peninsula, ideal für Naturliebhaber.",
-                  "category": "recreational",
-                  "coords": [
-                        -64.267601,
-                        44.406361
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Bachman's Beach",
-                  "text": "Csendes tengerparti szakasz a Second Peninsula területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -64.267601,
-                        44.406361
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Bachman's Beach",
-                  "text": "O plajă liniștită pe Second Peninsula, ideală pentru iubitorii de natură.",
-                  "category": "recreational",
-                  "coords": [
-                        -64.267601,
-                        44.406361
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Bachman's Beach",
-                  "text": "A quiet beach located on the Second Peninsula, perfect for nature lovers.",
-                  "category": "recreational",
-                  "coords": [
-                        -64.267601,
-                        44.406361
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "CA-NS", "coords": [-64.28109, 44.40294], "tier": 2, "name": {"de": "Second Peninsula", "hu": "Second Peninsula", "ro": "Second Peninsula", "en": "Second Peninsula"}, "description": {"de": "Eine malerische Landzunge in Neuschottland, bekannt für ihre ruhigen Buchten und die Nähe zum historischen Lunenburg.", "hu": "Gleccserhordalék alkotta festői félsziget Új-Skóciában, mely nyugodt strandjairól és a közeli Lunenburg közelségéről ismert.", "ro": "O peninsulă pitorească din Nova Scotia, cunoscută pentru golfurile sale liniștite și proximitatea față de istoricul oraș Lunenburg.", "en": "A scenic headland in Nova Scotia, known for its tranquil bays and proximity to the historic town of Lunenburg."}, "descriptionAdvanced": {"de": "Second Peninsula ist ein verstecktes Juwel an der South Shore von Nova Scotia, nur eine kurze Fahrt vom UNESCO-Weltkulturerbe Lunenburg entfernt. Die Gegend ist geprägt von einer sanften Küstenlandschaft, in der sich dichte Wälder mit glitzernden Meeresarmen abwechseln. Besucher schätzen die Ruhe der Natur, die ideal für ausgedehnte Spaziergänge und die Beobachtung von Seevögeln ist.\n\nDie Küste bietet wunderschöne Rückzugsorte wie Bachman's Beach und die idyllische Sandy Cove. Diese Strände sind bekannt für ihre feine Sandbeschaffenheit und das ruhige Wasser der Mahone Bay, was sie perfekt für Familien und Kajakfahrer macht. Das Wasser ist hier oft wärmer als an der offenen Atlantikküste, da die Bucht Schutz vor den kälteren Strömungen bietet.\n\nKulinarisch profitiert die Region von der Nähe zu Lunenburg, wo frischer Hummer und Meeresfrüchte die Speisekarten dominieren. Die Anreise erfolgt meist über den Highway 3 von Halifax aus, wobei die Panoramastraße entlang der Küste atemberaubende Ausblicke bietet. Es ist ein Ort der Entschleunigung, an dem das maritime Erbe Kanadas in jeder Brise spürbar ist.", "hu": "A Second Peninsula Új-Skócia déli partjának egyik rejtett kincse, amely kőhajításnyira fekszik az UNESCO világörökség részét képező Lunenburgtól. A területet lágy part menti táj jellemzi, ahol a sűrű erdők csillogó tengeröblökkel váltakoznak. A látogatók nagyra értékelik a természet nyugalmát, amely ideális hosszú sétákhoz és a tengeri madarak megfigyeléséhez.\n\nA partvidék olyan csodálatos pihenőhelyeket kínál, mint a Bachman's Beach és az idilli Sandy Cove. Ezek a strandok finom homokjukról és a Mahone-öböl nyugodt vizéről ismertek, így tökéletesek családok és kajakosok számára. A víz itt gyakran melegebb, mint a nyílt atlanti parton, mivel az öböl védelmet nyújt a hidegebb áramlatok ellen.\n\nGasztronómiai szempontból a régió profitál Lunenburg közelségéből, ahol a friss homár és a tenger gyümölcsei dominálnak az étlapokon. A megközelítés általában Halifax felől, a 3-as autópályán történik, miközben a part menti panorámaút lélegzetelállító kilátást nyújt. Ez a lassítás helyszíne, ahol Kanada tengeri öröksége minden fuvallatban érezhető.", "ro": "Second Peninsula este o bijuterie ascunsă pe coasta de sud a Noii Scoții, la scurtă distanță de orașul Lunenburg, inclus în patrimoniul UNESCO. Zona este caracterizată printr-un peisaj de coastă blând, unde pădurile dese alternează cu brațe de mare sclipitoare. Vizitatorii apreciază liniștea naturii, ideală pentru plimbări lungi și observarea păsărilor marine.\n\nȚărmul oferă locuri de relaxare minunate, precum Bachman's Beach și idilicul Sandy Cove. Aceste plaje sunt cunoscute pentru nisipul lor fin și apele liniștite ale Golfului Mahone, fiind perfecte pentru familii și pasionații de caiac. Apa este aici adesea mai caldă decât pe coasta deschisă a Atlanticului, deoarece golful oferă protecție împotriva curenților mai reci.\n\nDin punct de vedere gastronomic, regiunea beneficiază de proximitatea față de Lunenburg, unde homarul proaspăt și fructele de mare domină meniurile. Accesul se face de obicei prin autostrada 3 dinspre Halifax, drumul panoramic de-a lungul coastei oferind priveliști uluitoare. Este un loc al relaxării, unde moștenirea maritimă a Canadei se simte în fiecare briză.", "en": "Second Peninsula is a hidden gem on Nova Scotia's South Shore, just a short drive from the UNESCO World Heritage site of Lunenburg. The area is characterized by a gentle coastal landscape where dense forests alternate with sparkling sea inlets. Visitors appreciate the tranquility of nature, which is ideal for long walks and birdwatching.\n\nThe coastline offers beautiful retreats such as Bachman's Beach and the idyllic Sandy Cove. These beaches are known for their fine sand and the calm waters of Mahone Bay, making them perfect for families and kayakers. The water here is often warmer than on the open Atlantic coast, as the bay provides protection from colder currents.\n\nGastronomically, the region benefits from its proximity to Lunenburg, where fresh lobster and seafood dominate the menus. Access is usually via Highway 3 from Halifax, with the scenic coastal road offering breathtaking views. It is a place for slowing down, where Canada's maritime heritage is felt in every breeze."}, "facts": {"de": ["Lage: South Shore, Nova Scotia", "Hauptstrand: Bachman's Beach", "Nächstgelegene Stadt: Lunenburg", "Aktivitäten: Wandern, Kajakfahren", "Gewässer: Mahone Bay", "Landschaft: Halbinsel mit Wald", "Klima: Maritim-mild", "Besonderheit: Ruhiges Badewasser"], "hu": ["Elhelyezkedés: Déli part, Új-Skócia", "Fő strand: Bachman's Beach", "Legközelebbi város: Lunenburg", "Tevékenységek: Túrázás, kajakozás", "Vízfelület: Mahone-öböl", "Tájegység: Erdős félsziget", "Éghajlat: Mérsékelt tengeri", "Különlegesség: Nyugodt fürdővíz"], "ro": ["Locație: South Shore, Nova Scotia", "Plaja principală: Bachman's Beach", "Cel mai apropiat oraș: Lunenburg", "Activități: Drumeții, caiac", "Corp de apă: Golful Mahone", "Peisaj: Peninsulă împădurită", "Climat: Maritim temperat", "Caracteristică: Ape liniștite"], "en": ["Location: South Shore, Nova Scotia", "Main Beach: Bachman's Beach", "Nearest City: Lunenburg", "Activities: Hiking, Kayaking", "Water Body: Mahone Bay", "Landscape: Forested peninsula", "Climate: Maritime temperate", "Highlight: Calm swimming waters"]}, "image": "/poi-images/canada-second-peninsula-cities-v2.webp"},
 {"id": "canada-shanklin-cities-v2", "sights": {
       "de": [
@@ -130876,33 +126036,6 @@ export const naNewV1: POI[] = [
 {"id": "canada-logy-bay-middle-cove-outer-cove-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Torbay Point Viewpoint",
-                  "text": "Ein Aussichtspunkt bei Torbay Point mit weitem Blick über das Meer.",
-                  "category": "natural",
-                  "coords": [
-                        -52.669005,
-                        47.658054
-                  ]
-            },
-            {
-                  "name": "Gun Emplacement",
-                  "text": "Ein historischer Aussichtspunkt an einer ehemaligen Geschützstellung.",
-                  "category": "natural",
-                  "coords": [
-                        -52.661373,
-                        47.646589
-                  ]
-            },
-            {
-                  "name": "Logy Bay Viewpoint",
-                  "text": "Ein Aussichtspunkt mit beeindruckendem Blick auf die Logy Bay.",
-                  "category": "natural",
-                  "coords": [
-                        -52.66655,
-                        47.633503
-                  ]
-            },
-            {
                   "name": "Middle Cove",
                   "text": "Ein felsiger Strandabschnitt in der Middle Cove Bucht.",
                   "category": "recreational",
@@ -130919,54 +126052,9 @@ export const naNewV1: POI[] = [
                         -52.682564,
                         47.650964
                   ]
-            },
-            {
-                  "name": "Red Cliff Radar Station",
-                  "text": "Ruinen einer ehemaligen Radarstation auf den Klippen der Red Cliff.",
-                  "category": "historical",
-                  "coords": [
-                        -52.665505,
-                        47.641262
-                  ]
-            },
-            {
-                  "name": "Seal basin",
-                  "text": "Ein Bereich zur Beobachtung von Robben in ihrem natürlichen Lebensraum.",
-                  "category": "recreational",
-                  "coords": [
-                        -52.662207,
-                        47.624695
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Torbay Point Viewpoint",
-                  "text": "Kilátóhely a Torbay Pointnál, széles kilátással a tengerre.",
-                  "category": "natural",
-                  "coords": [
-                        -52.669005,
-                        47.658054
-                  ]
-            },
-            {
-                  "name": "Gun Emplacement",
-                  "text": "Történelmi kilátóhely egy egykori ágyúállásnál.",
-                  "category": "natural",
-                  "coords": [
-                        -52.661373,
-                        47.646589
-                  ]
-            },
-            {
-                  "name": "Logy Bay Viewpoint",
-                  "text": "Kilátóhely lenyűgöző kilátással a Logy-öbölre.",
-                  "category": "natural",
-                  "coords": [
-                        -52.66655,
-                        47.633503
-                  ]
-            },
             {
                   "name": "Middle Cove",
                   "text": "Sziklás tengerparti szakasz a Middle Cove-öbölben.",
@@ -130984,54 +126072,9 @@ export const naNewV1: POI[] = [
                         -52.682564,
                         47.650964
                   ]
-            },
-            {
-                  "name": "Red Cliff Radar Station",
-                  "text": "Egy egykori radarállomás romjai a Red Cliff szikláin.",
-                  "category": "historical",
-                  "coords": [
-                        -52.665505,
-                        47.641262
-                  ]
-            },
-            {
-                  "name": "Seal basin",
-                  "text": "Fókák megfigyelésére alkalmas terület természetes környezetükben.",
-                  "category": "recreational",
-                  "coords": [
-                        -52.662207,
-                        47.624695
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Torbay Point Viewpoint",
-                  "text": "Un punct de observație la Torbay Point, cu o vedere panoramică asupra mării.",
-                  "category": "natural",
-                  "coords": [
-                        -52.669005,
-                        47.658054
-                  ]
-            },
-            {
-                  "name": "Gun Emplacement",
-                  "text": "Un punct de observație istoric situat la un fost amplasament de tunuri.",
-                  "category": "natural",
-                  "coords": [
-                        -52.661373,
-                        47.646589
-                  ]
-            },
-            {
-                  "name": "Logy Bay Viewpoint",
-                  "text": "Un punct de observație cu o vedere impresionantă asupra Logy Bay.",
-                  "category": "natural",
-                  "coords": [
-                        -52.66655,
-                        47.633503
-                  ]
-            },
             {
                   "name": "Middle Cove",
                   "text": "O secțiune de plajă stâncoasă în golful Middle Cove.",
@@ -131049,54 +126092,9 @@ export const naNewV1: POI[] = [
                         -52.682564,
                         47.650964
                   ]
-            },
-            {
-                  "name": "Red Cliff Radar Station",
-                  "text": "Ruinele unei foste stații radar pe stâncile de la Red Cliff.",
-                  "category": "historical",
-                  "coords": [
-                        -52.665505,
-                        47.641262
-                  ]
-            },
-            {
-                  "name": "Seal basin",
-                  "text": "O zonă pentru observarea focilor în habitatul lor natural.",
-                  "category": "recreational",
-                  "coords": [
-                        -52.662207,
-                        47.624695
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Torbay Point Viewpoint",
-                  "text": "A viewpoint at Torbay Point offering wide views over the ocean.",
-                  "category": "natural",
-                  "coords": [
-                        -52.669005,
-                        47.658054
-                  ]
-            },
-            {
-                  "name": "Gun Emplacement",
-                  "text": "A historic viewpoint located at a former gun emplacement.",
-                  "category": "natural",
-                  "coords": [
-                        -52.661373,
-                        47.646589
-                  ]
-            },
-            {
-                  "name": "Logy Bay Viewpoint",
-                  "text": "A viewpoint offering impressive vistas of Logy Bay.",
-                  "category": "natural",
-                  "coords": [
-                        -52.66655,
-                        47.633503
-                  ]
-            },
             {
                   "name": "Middle Cove",
                   "text": "A rocky beach section located in the Middle Cove area.",
@@ -131113,24 +126111,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -52.682564,
                         47.650964
-                  ]
-            },
-            {
-                  "name": "Red Cliff Radar Station",
-                  "text": "Ruins of a former radar station located on the cliffs of Red Cliff.",
-                  "category": "historical",
-                  "coords": [
-                        -52.665505,
-                        47.641262
-                  ]
-            },
-            {
-                  "name": "Seal basin",
-                  "text": "An area dedicated to observing seals in their natural habitat.",
-                  "category": "recreational",
-                  "coords": [
-                        -52.662207,
-                        47.624695
                   ]
             }
       ]
@@ -131384,15 +126364,6 @@ export const naNewV1: POI[] = [
 {"id": "usa-highland-beach-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Oyster Creek",
-                  "text": "Eine kleine Bucht bei Highland Beach, die für ihre ruhigen Gewässer bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.467181,
-                        38.927613
-                  ]
-            },
-            {
                   "name": "Chesapeake Bay Foundation Conservation Easement",
                   "text": "Ein Naturschutzgebiet in Highland Beach zum Schutz des Ökosystems der Chesapeake Bay.",
                   "category": "natural",
@@ -131412,15 +126383,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Oyster Creek",
-                  "text": "Kis öböl Highland Beach-nél, amely nyugodt vizéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.467181,
-                        38.927613
-                  ]
-            },
             {
                   "name": "Chesapeake Bay Foundation Conservation Easement",
                   "text": "Természetvédelmi terület Highland Beach-ben a Chesapeake-öböl ökoszisztémájának védelmére.",
@@ -131442,15 +126404,6 @@ export const naNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Oyster Creek",
-                  "text": "Un mic golf lângă Highland Beach, cunoscut pentru apele sale liniștite.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.467181,
-                        38.927613
-                  ]
-            },
-            {
                   "name": "Chesapeake Bay Foundation Conservation Easement",
                   "text": "O rezervație naturală în Highland Beach pentru protejarea ecosistemului Golfului Chesapeake.",
                   "category": "natural",
@@ -131470,15 +126423,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Oyster Creek",
-                  "text": "A small bay near Highland Beach known for its calm waters.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.467181,
-                        38.927613
-                  ]
-            },
             {
                   "name": "Chesapeake Bay Foundation Conservation Easement",
                   "text": "A nature reserve in Highland Beach protecting the Chesapeake Bay ecosystem.",
@@ -135641,15 +130585,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Alameda Museum",
-                  "text": "Das offizielle Museum von Alameda, das die Geschichte und das Erbe der Stadt bewahrt.",
-                  "category": "museum",
-                  "coords": [
-                        -122.244089,
-                        37.763501
-                  ]
-            },
-            {
                   "name": "Alameda Art Association",
                   "text": "Eine Kunstgalerie und Organisation in Alameda, die die Arbeit lokaler Künstler fördert.",
                   "category": "museum",
@@ -135802,15 +130737,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -122.236395,
                         37.78351
-                  ]
-            },
-            {
-                  "name": "Alameda Museum",
-                  "text": "Alameda hivatalos múzeuma, amely a város történelmét és örökségét őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        -122.244089,
-                        37.763501
                   ]
             },
             {
@@ -135969,15 +130895,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Alameda Museum",
-                  "text": "Muzeul oficial din Alameda, care păstrează istoria și patrimoniul orașului.",
-                  "category": "museum",
-                  "coords": [
-                        -122.244089,
-                        37.763501
-                  ]
-            },
-            {
                   "name": "Alameda Art Association",
                   "text": "O galerie de artă și organizație în Alameda, care promovează lucrările artiștilor locali.",
                   "category": "museum",
@@ -136133,15 +131050,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Alameda Museum",
-                  "text": "The official museum of Alameda, preserving the history and heritage of the city.",
-                  "category": "museum",
-                  "coords": [
-                        -122.244089,
-                        37.763501
-                  ]
-            },
-            {
                   "name": "Alameda Art Association",
                   "text": "An art gallery and organization in Alameda promoting the work of local artists.",
                   "category": "museum",
@@ -136252,410 +131160,10 @@ export const naNewV1: POI[] = [
       ]
 }, "type": "city", "name": {"de": "Alameda", "hu": "Alameda", "ro": "Alameda", "en": "Alameda"}, "description": {"de": "Eine charmante Inselstadt in der San Francisco Bay, bekannt für ihre viktorianische Architektur und ruhigen Strände.", "hu": "Bájos szigetváros a San Francisco-öbölben, amely viktoriánus építészetéről és nyugodt strandjairól ismert.", "ro": "Un oraș insular fermecător în Golful San Francisco, cunoscut pentru arhitectura sa victoriană și plajele liniștite.", "en": "A charming island city in the San Francisco Bay, known for its Victorian architecture and tranquil beaches."}, "descriptionAdvanced": {"de": "Alameda bietet eine einzigartige Mischung aus Kleinstadtatmosphäre und maritimer Geschichte. Die Insel ist berühmt für ihre gut erhaltenen viktorianischen Häuser und die entspannte Lebensweise abseits des Trubels von San Francisco. Der Robert W. Crown Memorial State Beach ist der Stolz der Stadt und bietet kilometerlange Sandküsten, die ideal zum Windsurfen und Sonnenbaden sind. Ein weiterer beliebter Ort ist der Sandy Beach, der besonders bei Familien geschätzt wird.\n\nBesucher können die historische Park Street erkunden, die mit lokalen Boutiquen, Cafés und Restaurants gefüllt ist. Das maritime Erbe ist überall spürbar, insbesondere am USS Hornet Sea, Air & Space Museum. Die Stadt ist zudem für ihre blühende Craft-Beer-Szene und die 'Spirits Alley' in ehemaligen Marinehangars bekannt.\n\nDie Fortbewegung auf der Insel ist dank flacher Straßen ideal für Radfahrer. Die Anreise ist bequem per Fähre von San Francisco oder über Brücken von Oakland aus möglich. Alameda bewahrt einen nostalgischen Charme, der sie zu einem perfekten Ziel für einen Tagesausflug oder einen entspannten Aufenthalt am Wasser macht.", "hu": "Alameda a kisvárosi hangulat és a tengerészeti múlt különleges elegyét kínálja. A sziget híres a jó állapotban fennmaradt viktoriánus házairól és a San Francisco zajától távoli, nyugodt életmódjáról. A Robert W. Crown Memorial State Beach a város büszkesége, kilométernyi homokos parttal, amely kiválóan alkalmas szörfözésre és napozásra. A Sandy Beach szintén kedvelt célpont, különösen a családok körében.\n\nA látogatók felfedezhetik a történelmi Park Streetet, amely tele van helyi butikokkal, kávézókkal és éttermekkel. A tengerészeti örökség lépten-nyomon érezhető, különösen az USS Hornet repülőgép-hordozó múzeumnál. A város emellett virágzó kézműves sörfőzdéiről és a korábbi hangárokban kialakított „Spirits Alley” negyedéről is nevezetes.\n\nA szigeten való közlekedés a sík terepnek köszönhetően ideális kerékpározáshoz. Megközelítése San Franciscóból komppal, Oakland felől pedig hidakon keresztül egyszerűen megoldható. Alameda megőrizte nosztalgikus báját, így tökéletes úticél egy pihentető vízparti kikapcsolódáshoz.", "ro": "Alameda oferă un amestec unic de atmosferă de oraș mic și istorie maritimă. Insula este renumită pentru casele sale victoriene bine conservate și stilul de viață relaxat, departe de agitația din San Francisco. Robert W. Crown Memorial State Beach este mândria orașului, oferind kilometri de coastă nisipoasă, ideală pentru windsurfing și plajă. Un alt loc popular este Sandy Beach, apreciat în special de familii.\n\nVizitatorii pot explora istorica Park Street, plină de boutique-uri locale, cafenele și restaurante. Moștenirea maritimă este vizibilă peste tot, în special la muzeul USS Hornet Sea, Air & Space. Orașul este, de asemenea, cunoscut pentru scena sa înfloritoare de bere artizanală și „Spirits Alley”, situată în foste hangare navale.\n\nDeplasarea pe insulă este ideală pentru bicicliști datorită străzilor plate. Accesul este facil cu feribotul din San Francisco sau prin podurile din Oakland. Alameda păstrează un farmec nostalgic, făcând din aceasta o destinație perfectă pentru o excursie de o zi sau un sejur relaxant la malul apei.", "en": "Alameda offers a unique blend of small-town atmosphere and maritime history. The island is famous for its well-preserved Victorian houses and relaxed lifestyle, away from the bustle of San Francisco. Robert W. Crown Memorial State Beach is the city's pride, offering miles of sandy shoreline ideal for windsurfing and sunbathing. Another popular spot is Sandy Beach, particularly appreciated by families.\n\nVisitors can explore historic Park Street, filled with local boutiques, cafes, and restaurants. The maritime heritage is palpable everywhere, especially at the USS Hornet Sea, Air & Space Museum. The city is also known for its thriving craft beer scene and 'Spirits Alley' located in former naval hangars.\n\nGetting around the island is ideal for cyclists thanks to flat streets. Access is easy via ferry from San Francisco or bridges from Oakland. Alameda preserves a nostalgic charm, making it a perfect destination for a day trip or a relaxed stay by the water."}, "facts": {"de": ["Inselstadt in der Bucht", "Viktorianische Häuser", "Robert W. Crown Beach", "Fähre nach San Francisco", "Ehemalige Marinebasis", "Park Street Shopping", "Windsurf-Hotspot", "USS Hornet Museum"], "hu": ["Szigetváros az öbölben", "Viktoriánus építészet", "Robert W. Crown strand", "Komp San Franciscóba", "Korábbi haditengerészeti bázis", "Park Street vásárlás", "Szörfösök kedvelt helye", "USS Hornet múzeumhajó"], "ro": ["Oraș insular în golf", "Arhitectură victoriană", "Plaja Robert W. Crown", "Feribot către San Francisco", "Fostă bază navală", "Cumpărături pe Park Street", "Loc ideal pentru windsurfing", "Muzeul USS Hornet"], "en": ["Island city in the Bay", "Victorian architecture", "Robert W. Crown Beach", "Ferry to San Francisco", "Former naval base", "Park Street shopping", "Windsurfing hotspot", "USS Hornet Museum"]}, "coords": [-122.24164, 37.76521], "parent": "US-CA", "tier": 2, "image": "/poi-images/usa-alameda-cities-v2.webp"},
 {"id": "canada-saanich-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Christmas Hill",
-                  "text": "Ein markanter Hügel in Saanich mit Panoramablick über die Region.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.376472,
-                        48.474047
-                  ]
-            },
-            {
-                  "name": "Smith Hill",
-                  "text": "Eine Erhebung in Saanich, die Teil der lokalen Hügellandschaft ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.35284,
-                        48.445848
-                  ]
-            },
-            {
-                  "name": "Peacock Hill",
-                  "text": "Ein Hügel in Saanich, bekannt für seine Aussichtspunkte.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.353232,
-                        48.450061
-                  ]
-            },
-            {
-                  "name": "Swan Lake Christmas Hill Nature Sanctuary",
-                  "text": "Ein Naturschutzgebiet in Saanich, das aus einem Sumpfgebiet und dem benachbarten Hügel besteht.",
-                  "category": "natural",
-                  "coords": [
-                        -123.374007,
-                        48.465954
-                  ]
-            },
-            {
-                  "name": "Cedar Hill Park & Golf Course",
-                  "text": "Eine Parkanlage in Saanich, die einen Golfplatz und Wanderwege umfasst.",
-                  "category": "park",
-                  "coords": [
-                        -123.345378,
-                        48.454895
-                  ]
-            },
-            {
-                  "name": "Rock Bay",
-                  "text": "Eine Bucht in Saanich, die an das städtische Hafengebiet grenzt.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.37016,
-                        48.434617
-                  ]
-            },
-            {
-                  "name": "The Roxy",
-                  "text": "Ein lokales Theater in Saanich, das für Vorstellungen und Filme genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        -123.358722,
-                        48.43914
-                  ]
-            },
-            {
-                  "name": "Point Ellice Bridge",
-                  "text": "Eine Brücke in Saanich, die den Gorge Waterway überquert.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.378522,
-                        48.434299
-                  ]
-            },
-            {
-                  "name": "Point Ellice House",
-                  "text": "Ein historisches Haus und Museum in Saanich, das das viktorianische Leben zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -123.377319,
-                        48.436077
-                  ]
-            },
-            {
-                  "name": "Gorge Waterway Nature House",
-                  "text": "Ein Informationszentrum am Gorge Waterway, das über das lokale Ökosystem aufklärt.",
-                  "category": "museum",
-                  "coords": [
-                        -123.406495,
-                        48.446245
-                  ]
-            },
-            {
-                  "name": "Swan Lake Nature House",
-                  "text": "Ein Besucherzentrum im Swan Lake Naturschutzgebiet in Saanich.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.373861,
-                        48.46485
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Christmas Hill",
-                  "text": "Jellegzetes domb Saanichban, ahonnan panorámás kilátás nyílik a régióra.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.376472,
-                        48.474047
-                  ]
-            },
-            {
-                  "name": "Smith Hill",
-                  "text": "Saanich egyik magaslata, a helyi dombvidék része.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.35284,
-                        48.445848
-                  ]
-            },
-            {
-                  "name": "Peacock Hill",
-                  "text": "Domb Saanichban, amely kilátópontjairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.353232,
-                        48.450061
-                  ]
-            },
-            {
-                  "name": "Swan Lake Christmas Hill Nature Sanctuary",
-                  "text": "Természetvédelmi terület Saanichban, amely egy mocsaras tóból és a szomszédos dombból áll.",
-                  "category": "natural",
-                  "coords": [
-                        -123.374007,
-                        48.465954
-                  ]
-            },
-            {
-                  "name": "Cedar Hill Park & Golf Course",
-                  "text": "Park Saanichban, amely golfpályát és sétatösvényeket is magában foglal.",
-                  "category": "park",
-                  "coords": [
-                        -123.345378,
-                        48.454895
-                  ]
-            },
-            {
-                  "name": "Rock Bay",
-                  "text": "Öböl Saanichban, amely a városi kikötőnegyeddel határos.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.37016,
-                        48.434617
-                  ]
-            },
-            {
-                  "name": "The Roxy",
-                  "text": "Helyi színház Saanichban, amelyet előadásokhoz és vetítésekhez használnak.",
-                  "category": "cultural",
-                  "coords": [
-                        -123.358722,
-                        48.43914
-                  ]
-            },
-            {
-                  "name": "Point Ellice Bridge",
-                  "text": "Híd Saanichban, amely a Gorge-csatorna felett ível át.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.378522,
-                        48.434299
-                  ]
-            },
-            {
-                  "name": "Point Ellice House",
-                  "text": "Történelmi ház és múzeum Saanichban, amely a viktoriánus életmódot mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -123.377319,
-                        48.436077
-                  ]
-            },
-            {
-                  "name": "Gorge Waterway Nature House",
-                  "text": "Oktatóközpont a Gorge-csatorna partján, amely a helyi ökoszisztémát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -123.406495,
-                        48.446245
-                  ]
-            },
-            {
-                  "name": "Swan Lake Nature House",
-                  "text": "Látogatóközpont a Swan Lake természetvédelmi területen, Saanichban.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.373861,
-                        48.46485
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Christmas Hill",
-                  "text": "Un deal proeminent în Saanich cu vedere panoramică asupra regiunii.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.376472,
-                        48.474047
-                  ]
-            },
-            {
-                  "name": "Smith Hill",
-                  "text": "O înălțime în Saanich, parte a peisajului colinar local.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.35284,
-                        48.445848
-                  ]
-            },
-            {
-                  "name": "Peacock Hill",
-                  "text": "Un deal în Saanich, cunoscut pentru punctele sale de observație.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.353232,
-                        48.450061
-                  ]
-            },
-            {
-                  "name": "Swan Lake Christmas Hill Nature Sanctuary",
-                  "text": "O rezervație naturală în Saanich, formată dintr-o zonă mlăștinoasă și dealul învecinat.",
-                  "category": "natural",
-                  "coords": [
-                        -123.374007,
-                        48.465954
-                  ]
-            },
-            {
-                  "name": "Cedar Hill Park & Golf Course",
-                  "text": "Un parc în Saanich care include un teren de golf și poteci de plimbare.",
-                  "category": "park",
-                  "coords": [
-                        -123.345378,
-                        48.454895
-                  ]
-            },
-            {
-                  "name": "Rock Bay",
-                  "text": "Un golf în Saanich, situat la marginea zonei portuare urbane.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.37016,
-                        48.434617
-                  ]
-            },
-            {
-                  "name": "The Roxy",
-                  "text": "Un teatru local în Saanich, utilizat pentru spectacole și filme.",
-                  "category": "cultural",
-                  "coords": [
-                        -123.358722,
-                        48.43914
-                  ]
-            },
-            {
-                  "name": "Point Ellice Bridge",
-                  "text": "Un pod în Saanich care traversează calea navigabilă Gorge.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.378522,
-                        48.434299
-                  ]
-            },
-            {
-                  "name": "Point Ellice House",
-                  "text": "O casă istorică și muzeu în Saanich, care prezintă viața victoriană.",
-                  "category": "museum",
-                  "coords": [
-                        -123.377319,
-                        48.436077
-                  ]
-            },
-            {
-                  "name": "Gorge Waterway Nature House",
-                  "text": "Un centru de informare pe malul apei Gorge, care oferă detalii despre ecosistemul local.",
-                  "category": "museum",
-                  "coords": [
-                        -123.406495,
-                        48.446245
-                  ]
-            },
-            {
-                  "name": "Swan Lake Nature House",
-                  "text": "Un centru pentru vizitatori în rezervația naturală Swan Lake din Saanich.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.373861,
-                        48.46485
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Christmas Hill",
-                  "text": "A prominent hill in Saanich offering panoramic views of the region.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.376472,
-                        48.474047
-                  ]
-            },
-            {
-                  "name": "Smith Hill",
-                  "text": "An elevation in Saanich, part of the local hilly landscape.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.35284,
-                        48.445848
-                  ]
-            },
-            {
-                  "name": "Peacock Hill",
-                  "text": "A hill in Saanich known for its viewpoints.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.353232,
-                        48.450061
-                  ]
-            },
-            {
-                  "name": "Swan Lake Christmas Hill Nature Sanctuary",
-                  "text": "A nature reserve in Saanich consisting of a marshy lake and the adjacent hill.",
-                  "category": "natural",
-                  "coords": [
-                        -123.374007,
-                        48.465954
-                  ]
-            },
-            {
-                  "name": "Cedar Hill Park & Golf Course",
-                  "text": "A park area in Saanich that includes a golf course and walking trails.",
-                  "category": "park",
-                  "coords": [
-                        -123.345378,
-                        48.454895
-                  ]
-            },
-            {
-                  "name": "Rock Bay",
-                  "text": "A bay in Saanich bordering the urban harbour area.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.37016,
-                        48.434617
-                  ]
-            },
-            {
-                  "name": "The Roxy",
-                  "text": "A local theatre in Saanich used for performances and films.",
-                  "category": "cultural",
-                  "coords": [
-                        -123.358722,
-                        48.43914
-                  ]
-            },
-            {
-                  "name": "Point Ellice Bridge",
-                  "text": "A bridge in Saanich that spans the Gorge Waterway.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.378522,
-                        48.434299
-                  ]
-            },
-            {
-                  "name": "Point Ellice House",
-                  "text": "A historic house and museum in Saanich showcasing Victorian life.",
-                  "category": "museum",
-                  "coords": [
-                        -123.377319,
-                        48.436077
-                  ]
-            },
-            {
-                  "name": "Gorge Waterway Nature House",
-                  "text": "An information centre on the Gorge Waterway educating about the local ecosystem.",
-                  "category": "museum",
-                  "coords": [
-                        -123.406495,
-                        48.446245
-                  ]
-            },
-            {
-                  "name": "Swan Lake Nature House",
-                  "text": "A visitor centre located within the Swan Lake nature reserve in Saanich.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.373861,
-                        48.46485
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "name": {"de": "Saanich", "hu": "Saanich", "ro": "Saanich", "en": "Saanich"}, "description": {"de": "Die größte Gemeinde im Großraum Victoria auf Vancouver Island, geprägt von Parks, ländlichem Charme und einer abwechslungsreichen Küste.", "hu": "Victoria körzetének legnagyobb települése a Vancouver-szigeten, parkokkal, vidéki bájjal és változatos tengerparttal.", "ro": "Cea mai mare municipalitate din zona Victoria de pe Insula Vancouver, caracterizată prin parcuri, farmec rural și o coastă variată.", "en": "The largest municipality in Greater Victoria on Vancouver Island, characterized by parks, rural charm, and a diverse coastline."}, "descriptionAdvanced": {"de": "Saanich erstreckt sich über eine weite Fläche nördlich von Victoria und bietet eine beeindruckende Mischung aus Wohngebieten, landwirtschaftlichen Flächen und unberührter Natur. Die Küste von Saanich ist besonders reizvoll, mit versteckten Buchten und weiten Sandstränden. Cordova Bay Beach ist ein beliebter Treffpunkt für Familien und Spaziergänger, bekannt für seine malerische Aussicht auf die Haro-Straße. Für Ruhesuchende bietet Sayward Beach eine friedliche Atmosphäre inmitten der Natur.\n\nDie Gemeinde ist ein Paradies für Outdoor-Enthusiasten. Der Mount Douglas Park bietet Wanderwege mit Panoramablick über die gesamte Region. Saanich beherbergt auch die University of Victoria und das Dominion Astrophysical Observatory. Die lokale Gastronomie profitiert von den zahlreichen umliegenden Farmen, was zu einem erstklassigen Farm-to-Table-Angebot führt.\n\nMit einem gut ausgebauten Netz an Radwegen und Wanderpfaden ist Saanich leicht zu erkunden. Die Nähe zu Victoria macht es zu einem idealen Ausgangspunkt für Erkundungen auf Südvancouver Island. Ob Wassersport, Wandern oder der Besuch lokaler Märkte – Saanich verbindet das Beste aus Stadt und Land.", "hu": "Saanich Victoria északi részén terül el, lakóövezetek, mezőgazdasági területek és érintetlen természet lenyűgöző elegye. Partvidéke különösen vonzó, rejtett öblökkel és tágas strandokkal. A Cordova Bay Beach a családok és sétálók kedvelt találkozóhelye, amely a Haro-szorosra nyíló festői kilátásáról ismert. A nyugalomra vágyók számára a Sayward Beach kínál békés környezetet a természet lágy ölén.\n\nA település a szabadtéri tevékenységek kedvelőinek paradicsoma. A Mount Douglas Park túraútvonalai panorámás kilátást nyújtanak az egész régióra. Saanich ad otthont a Victoriai Egyetemnek és a Dominion Asztrofizikai Obszervatóriumnak is. A helyi gasztronómia a környékbeli farmok bőséges kínálatára épít, kiváló „farm-to-table” élményeket nyújtva.\n\nA jól kiépített kerékpárút-hálózatnak köszönhetően Saanich könnyen felfedezhető. Victoria közelsége ideális bázissá teszi a dél-vancouver-szigeti kirándulásokhoz. Legyen szó vízi sportokról, túrázásról vagy a helyi piacok látogatásáról, Saanich egyesíti a városi kényelmet és a vidéki nyugalmat.", "ro": "Saanich se întinde pe o zonă vastă la nord de Victoria, oferind un amestec impresionant de zone rezidențiale, terenuri agricole și natură virgină. Coasta din Saanich este deosebit de atractivă, cu golfuri ascunse și plaje întinse. Cordova Bay Beach este un loc de întâlnire popular pentru familii și amatorii de plimbări, cunoscut pentru priveliștile pitorești către Strâmtoarea Haro. Pentru cei care caută liniște, Sayward Beach oferă o atmosferă pașnică în mijlocul naturii.\n\nMunicipalitatea este un paradis pentru entuziaștii de activități în aer liber. Parcul Mount Douglas oferă trasee de drumeție cu vedere panoramică asupra întregii regiuni. Saanich găzduiește, de asemenea, Universitatea din Victoria și Observatorul Astrofizic Dominion. Gastronomia locală beneficiază de numeroasele ferme din jur, rezultând o ofertă excelentă de produse proaspete.\n\nCu o rețea bine dezvoltată de piste de biciclete și trasee, Saanich este ușor de explorat. Proximitatea față de Victoria îl face un punct de plecare ideal pentru explorarea sudului Insulei Vancouver. Fie că este vorba de sporturi nautice, drumeții sau vizitarea piețelor locale, Saanich combină ce este mai bun din oraș și mediul rural.", "en": "Saanich spans a vast area north of Victoria, offering an impressive mix of residential areas, agricultural lands, and untouched nature. The coastline of Saanich is particularly attractive, with hidden coves and wide sandy beaches. Cordova Bay Beach is a popular meeting spot for families and walkers, known for its picturesque views across the Haro Strait. For those seeking tranquility, Sayward Beach offers a peaceful atmosphere in the heart of nature.\n\nThe municipality is a paradise for outdoor enthusiasts. Mount Douglas Park features hiking trails with panoramic views over the entire region. Saanich also hosts the University of Victoria and the Dominion Astrophysical Observatory. The local gastronomy benefits from the numerous surrounding farms, leading to a top-tier farm-to-table offering.\n\nWith a well-developed network of bike lanes and trails, Saanich is easy to explore. Its proximity to Victoria makes it an ideal base for exploring southern Vancouver Island. Whether it's water sports, hiking, or visiting local markets, Saanich combines the best of urban and rural life."}, "facts": {"de": ["Größte Gemeinde bei Victoria", "Mount Douglas Aussicht", "Cordova Bay Beach", "Ländlicher Charakter", "Universität von Victoria", "Zahlreiche Parks", "Vielseitige Küstenlinie", "Wander- und Radwege"], "hu": ["Victoria legnagyobb elővárosa", "Mount Douglas kilátó", "Cordova Bay strand", "Vidéki hangulat", "Victoriai Egyetem", "Számos park és zöldterület", "Változatos tengerpart", "Túra- és kerékpárutak"], "ro": ["Cea mai mare zonă din Victoria", "Vedere de pe Mount Douglas", "Plaja Cordova Bay", "Caracter rural", "Universitatea din Victoria", "Numeroase parcuri", "Linie de coastă diversă", "Trasee de drumeție și ciclism"], "en": ["Largest Victoria municipality", "Mount Douglas viewpoint", "Cordova Bay Beach", "Rural character", "University of Victoria", "Numerous parks", "Diverse coastline", "Hiking and biking trails"]}, "coords": [-123.37649, 48.45943], "parent": "CA-BC", "tier": 2, "image": "/poi-images/canada-saanich-cities-v2.webp"},
 {"id": "usa-manchester-cities-v2", "sights": {
       "de": [
@@ -140424,122 +134932,10 @@ export const naNewV1: POI[] = [
       ]
 }, "type": "city", "coords": [-64.41421, 44.23807], "parent": "CA-NS", "tier": 2, "name": {"de": "Crescent Beach", "hu": "Crescent Beach", "ro": "Crescent Beach", "en": "Crescent Beach"}, "description": {"de": "Ein spektakulärer, zwei Kilometer langer Sandstrand an der South Shore von Nova Scotia, der das Festland mit den LaHave Islands verbindet.", "hu": "Egy látványos, két kilométer hosszú homokpad Új-Skócia déli partján, amely összeköti a szárazföldet a LaHave-szigetekkel.", "ro": "O plajă spectaculoasă de nisip, lungă de doi kilometri, pe coasta de sud a Noii Scoții, care leagă continentul de Insulele LaHave.", "en": "A spectacular two-kilometer long sandbar beach on Nova Scotia's South Shore, connecting the mainland to the LaHave Islands."}, "descriptionAdvanced": {"de": "Crescent Beach in Nova Scotia ist eines der markantesten geografischen Merkmale der kanadischen Atlantikküste. Es handelt sich um eine natürliche Sandbank, die sich über zwei Kilometer erstreckt und eine feste Straßenverbindung zu den vorgelagerten LaHave Islands bildet. Das Besondere an diesem Ort ist, dass man den Strand legal mit dem Auto befahren kann, was ihn zu einem beliebten Ziel für Tagesausflügler macht. Die sanfte Kurve des weißen Sandes und das flache, glitzernde Wasser bieten eine fast karibische Atmosphäre im Norden.\n\nIn direkter Nachbarschaft befindet sich der Rissers Beach Provincial Park, zu dem der Bereich Little Rissers gehört. Dieser Abschnitt ist bekannt für seine Holzstege, die durch die geschützten Salzwiesen führen, und bietet hervorragende Möglichkeiten zur Vogelbeobachtung. Der eigentliche Crescent Beach hingegen ist der Inbegriff von Weite; er lädt zum Surfen, Windsurfen und zum Sammeln von Treibholz ein. Das Wasser ist hier aufgrund der geschützten Lage der Bucht oft etwas wärmer als an anderen Stränden der Provinz.\n\nDie Umgebung ist geprägt vom maritimen Erbe der Region. Das nahegelegene Dorf LaHave bietet Kunstgalerien, eine berühmte Bäckerei und eine historische Seilfähre. Besucher können die umliegenden Inseln mit dem Kajak erkunden oder in den kleinen Museen mehr über die lokale Fischereigeschichte erfahren. Crescent Beach ist nicht nur ein Ort zum Sonnenbaden, sondern ein dynamisches Ökosystem, das die rohe Schönheit und die gastfreundliche Kultur von Nova Scotia perfekt vereint.", "hu": "Az új-skóciai Crescent Beach a kanadai atlanti partvidék egyik legjellegzetesebb földrajzi képződménye. Ez egy természetes homokpad, amely több mint két kilométeren húzódik, és szilárd útkapcsolatot biztosít a part menti LaHave-szigetekhez. A hely különlegessége, hogy a strandra legálisan be lehet hajtani autóval, ami a kirándulók kedvelt célpontjává teszi. A fehér homok lágy íve és a sekély, csillogó víz szinte karibi hangulatot áraszt északon.\n\nA közvetlen szomszédságban található a Rissers Beach Provincial Park, amelyhez a Little Rissers terület is tartozik. Ez a szakasz a védett sós mocsarakon átvezető fapallóiról ismert, és kiváló lehetőséget kínál madármegfigyelésre. Maga a Crescent Beach viszont a tágasság megtestesítője; szörfözésre, szélszörfözésre és uszadékfa gyűjtésére invitál. A víz itt az öböl védett fekvésének köszönhetően gyakran valamivel melegebb, mint a tartomány más strandjain.\n\nA környéket a régió tengeri öröksége határozza meg. A közeli LaHave falu művészeti galériákkal, egy híres pékséggel és egy történelmi kötélkomppal várja a látogatókat. A látogatók kajakkal fedezhetik fel a környező szigeteket, vagy a kis múzeumokban többet tudhatnak meg a helyi halászat történetéről. Crescent Beach nemcsak a napozás helyszíne, hanem egy dinamikus ökoszisztéma is, amely tökéletesen ötvözi Új-Skócia nyers szépségét és vendégszerető kultúráját.", "ro": "Crescent Beach din Noua Scoție este una dintre cele mai distinctive caracteristici geografice ale coastei atlantice canadiene. Este un banc de nisip natural care se întinde pe doi kilometri și formează o legătură rutieră fixă cu Insulele LaHave. Particularitatea acestui loc este că plaja poate fi parcursă legal cu mașina, ceea ce o face o destinație populară pentru excursioniștii de o zi. Curba blândă a nisipului alb și apele puțin adânci oferă o atmosferă aproape caraibiană în nord.\n\nÎn imediata vecinătate se află Rissers Beach Provincial Park, care include zona Little Rissers. Această secțiune este cunoscută pentru podurile de lemn care traversează mlaștinile sărate protejate și oferă oportunități excelente pentru observarea păsărilor. Plaja Crescent propriu-zisă este simbolul vastității; invită la surfing, windsurfing și colectarea lemnelor aduse de ape. Apa de aici este adesea puțin mai caldă decât pe alte plaje din provincie, datorită poziției protejate a golfului.\n\nÎmprejurimile sunt marcate de moștenirea maritimă a regiunii. Satul LaHave din apropiere oferă galerii de artă, o brutărie faimoasă și un feribot istoric. Vizitatorii pot explora insulele din jur cu caiacul sau pot afla mai multe despre istoria pescuitului local în micile muzee. Crescent Beach nu este doar un loc pentru plajă, ci un ecosistem dinamic care îmbină perfect frumusețea brută și cultura ospitalieră a Noii Scoții.", "en": "Crescent Beach in Nova Scotia is one of the most distinctive geographical features of the Canadian Atlantic coast. It is a natural sandbar stretching over two kilometers, forming a fixed road connection to the offshore LaHave Islands. What makes this place unique is that you can legally drive your car directly onto the beach, making it a popular destination for day-trippers. The gentle curve of white sand and shallow, sparkling water provide an almost Caribbean atmosphere in the North.\n\nDirectly adjacent is Rissers Beach Provincial Park, which includes the Little Rissers area. This section is known for its boardwalks through protected salt marshes and offers excellent opportunities for birdwatching. Crescent Beach itself is the epitome of openness; it invites surfing, windsurfing, and beachcombing for driftwood. The water here is often slightly warmer than at other provincial beaches due to the bay's sheltered location.\n\nThe surrounding area is shaped by the region's maritime heritage. The nearby village of LaHave features art galleries, a famous bakery, and a historical cable ferry. Visitors can explore the surrounding islands by kayak or learn about local fishing history in small museums. Crescent Beach is not just a place for sunbathing, but a dynamic ecosystem that perfectly combines Nova Scotia's raw beauty and hospitable culture."}, "facts": {"de": ["2 km Sandbank", "Befahrbarer Strand", "South Shore Nova Scotia", "Nahe LaHave Islands", "Rissers Beach Nachbar", "Vogelbeobachtung", "Surf-Spot", "Atlantikküste"], "hu": ["2 km hosszú homokpad", "Autóval hajtható strand", "Új-Skócia déli partja", "LaHave-szigetek mellett", "Rissers Beach szomszédja", "Madármegfigyelő hely", "Szörfparadicsom", "Atlanti-partvidék"], "ro": ["Banc de nisip de 2 km", "Plajă accesibilă cu mașina", "Coasta de Sud Noua Scoție", "Lângă Insulele LaHave", "Vecin cu Rissers Beach", "Observarea păsărilor", "Loc pentru surfing", "Coasta Atlanticului"], "en": ["2 km sandbar", "Drive-on beach", "Nova Scotia South Shore", "Near LaHave Islands", "Rissers Beach neighbor", "Birdwatching hub", "Surfing spot", "Atlantic coastline"]}, "image": "/poi-images/canada-crescent-beach-cities-v2.webp"},
 {"id": "canada-la-verniere-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Auditorium Rosaire-Vigneault",
-                  "text": "Ein Kulturort in La Vernière, der für Theater und Konzerte genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.916173,
-                        47.370634
-                  ]
-            },
-            {
-                  "name": "Arrimage",
-                  "text": "Ein Kunstzentrum in La Vernière, das regionale Künstler und Ausstellungen unterstützt.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.908677,
-                        47.371153
-                  ]
-            },
-            {
-                  "name": "Plage de la police",
-                  "text": "Ein lokaler Strand in La Vernière, der für seinen Küstenstreifen bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.871206,
-                        47.366136
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Auditorium Rosaire-Vigneault",
-                  "text": "La Vernière kulturális intézménye, amely színházi előadásoknak és koncerteknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.916173,
-                        47.370634
-                  ]
-            },
-            {
-                  "name": "Arrimage",
-                  "text": "Művészeti központ La Vernière-ben, amely a régió művészeit és kiállításait támogatja.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.908677,
-                        47.371153
-                  ]
-            },
-            {
-                  "name": "Plage de la police",
-                  "text": "Helyi tengerparti szakasz La Vernière-ben.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.871206,
-                        47.366136
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Auditorium Rosaire-Vigneault",
-                  "text": "Un spațiu cultural din La Vernière folosit pentru teatru și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.916173,
-                        47.370634
-                  ]
-            },
-            {
-                  "name": "Arrimage",
-                  "text": "Un centru de artă din La Vernière care susține artiștii și expozițiile regionale.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.908677,
-                        47.371153
-                  ]
-            },
-            {
-                  "name": "Plage de la police",
-                  "text": "O plajă locală din La Vernière cunoscută pentru malul său.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.871206,
-                        47.366136
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Auditorium Rosaire-Vigneault",
-                  "text": "A cultural venue in La Vernière used for theater and concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.916173,
-                        47.370634
-                  ]
-            },
-            {
-                  "name": "Arrimage",
-                  "text": "An arts center in La Vernière supporting regional artists and exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.908677,
-                        47.371153
-                  ]
-            },
-            {
-                  "name": "Plage de la police",
-                  "text": "A local beach in La Vernière known by residents for its shoreline.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.871206,
-                        47.366136
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "coords": [-61.90688, 47.37095], "parent": "CA-QC", "tier": 2, "name": {"de": "La Vernière", "hu": "La Vernière", "ro": "La Vernière", "en": "La Vernière"}, "description": {"de": "Ein idyllisches Dorf auf den Magdalenen-Inseln in Québec, bekannt für seine leuchtend roten Sandsteinklippen und die größte Holzkirche Nordamerikas.", "hu": "Idilli falu a Magdalén-szigeteken (Québec), amely vörös homokkő szikláiról és Észak-Amerika legnagyobb fatemplomáról ismert.", "ro": "Un sat idilic din Insulele Magdalen, Québec, renumit pentru faleza sa de gresie roșie și cea mai mare biserică de lemn din America de Nord.", "en": "An idyllic village in the Magdalen Islands, Quebec, famous for its bright red sandstone cliffs and North America's largest wooden church."}, "descriptionAdvanced": {"de": "La Vernière liegt im Herzen des Archipels der Magdalenen-Inseln (Îles de la Madeleine) am Sankt-Lorenz-Golf. Das Dorf besticht durch seine bunten Häuser, die typisch für die akadische Kultur der Region sind, und seine dramatische Küstenlinie aus rotem Sandstein. Ein absolutes Wahrzeichen ist die Kirche Saint-Pierre-de-La Vernière, ein imposanter Holzbau, der aus dem Wrackgut zahlreicher Schiffe errichtet wurde und weithin sichtbar über der Landschaft thront. Hier verschmelzen Geschichte, Glaube und die unbändige Kraft des Meeres.\n\nDie Strände der Umgebung gehören zu den schönsten der Inseln. Die Petite Plage ist ein charmanter, geschützter Abschnitt, der ideal für ruhige Stunden am Wasser ist. Im Gegensatz dazu bietet die Plage Martinique weite Horizonte und ist ein beliebter Treffpunkt für Windsurfer und Kitesurfer, da die Winde hier stetig wehen. Der Kontrast zwischen dem tiefen Blau des Golfs, dem leuchtenden Rot der Klippen und dem feinen weißen Sand der Dünen macht La Vernière zu einem Paradies für Fotografen und Naturliebhaber.\n\nDas Leben in La Vernière ist geprägt von maritimen Rhythmen. Besucher können lokale Käsereien (Fromageries) besuchen, in denen Spezialitäten wie der 'Pied-de-Vent' hergestellt werden, oder frischen Hummer direkt am Hafen kaufen. Die Wanderwege entlang der Klippen bieten atemberaubende Ausblicke auf das Meer und die Nachbarinseln. Im Sommer ist das Dorf ein lebendiges Zentrum für Kunsthandwerk und traditionelle akadische Musik, was den Aufenthalt zu einem tiefen kulturellen Erlebnis in der Weite des Atlantiks macht.", "hu": "La Vernière a Szent Lőrinc-öbölben található Magdalén-szigetek (Îles de la Madeleine) szívében fekszik. A falu a régió akádiai kultúrájára jellemző színes házaival és drámai vörös homokkő partvonalaival nyűgözi le a látogatókat. Meghatározó látnivalója a Saint-Pierre-de-La Vernière templom, egy impozáns faépítmény, amelyet számos hajóroncs fájából építettek, és messziről láthatóan magasodik a táj fölé. Itt egyesül a történelem, a hit és a tenger megfékezhetetlen ereje.\n\nA környék strandjai a szigetek legszebbjei közé tartoznak. A Petite Plage egy bájos, védett szakasz, amely ideális a vízparti pihenéshez. Ezzel szemben a Plage Martinique tágas horizontot kínál, és a szörfösök, valamint a kiteszörfösök kedvelt találkozóhelye az állandó szeleknek köszönhetően. Az öböl mélykék vize, a sziklák ragyogó vöröse és a dűnék finom fehér homokja közötti kontraszt La Vernière-t a fotósok és természetbarátok paradicsomává teszi.\n\nAz életet La Vernière-ben a tengeri ritmus határozza meg. A látogatók felkereshetik a helyi sajtmanufaktúrákat (Fromageries), ahol olyan különlegességeket készítenek, mint a 'Pied-de-Vent', vagy friss homárt vásárolhatnak közvetlenül a kikötőben. A sziklák menti túraútvonalak lélegzetelállító kilátást nyújtanak a tengerre és a szomszédos szigetekre. Nyáron a falu a kézművesség és a hagyományos akádiai zene élénk központja, ami mély kulturális élménnyé teszi az itt-tartózkodást az Atlanti-óceán végtelenségében.", "ro": "La Vernière este situat în inima arhipelagului Insulelor Magdalen (Îles de la Madeleine) din Golful Sfântul Laurențiu. Satul impresionează prin casele sale colorate, tipice culturii acadiene din regiune, și prin linia de coastă dramatică formată din gresie roșie. Un reper absolut este biserica Saint-Pierre-de-La Vernière, o construcție impunătoare din lemn, ridicată din resturile a numeroase naufragii, care domină peisajul. Aici se contopesc istoria, credința și forța nestăvilită a mării.\n\nPlajele din zonă sunt printre cele mai frumoase din insule. Petite Plage este o secțiune fermecătoare și protejată, ideală pentru ore liniștite lângă apă. În schimb, Plage Martinique oferă orizonturi largi și este un loc de întâlnire popular pentru windsurferi și kitesurferi, datorită vânturilor constante. Contrastul dintre albastrul intens al golfului, roșul aprins al stâncilor și nisipul alb fin al dunelor face din La Vernière un paradis pentru fotografi și iubitorii de natură.\n\nViața în La Vernière este marcată de ritmurile maritime. Vizitatorii pot vizita fabricile de brânză locale (fromageries), unde se produc specialități precum 'Pied-de-Vent', sau pot cumpăra homar proaspăt direct din port. Traseele de drumeție de-a lungul stâncilor oferă priveliști uluitoare asupra mării și a insulelor vecine. În timpul verii, satul este un centru vibrant pentru artizanat și muzică tradițională acadiană, ceea ce face ca șederea să fie o experiență culturală profundă în imensitatea Atlanticului.", "en": "La Vernière is located in the heart of the Magdalen Islands archipelago (Îles de la Madeleine) in the Gulf of St. Lawrence. The village captivates with its colorful houses, typical of the region's Acadian culture, and its dramatic red sandstone coastline. An absolute landmark is the Church of Saint-Pierre-de-La Vernière, an imposing wooden structure built from the wreckage of numerous ships, which stands visible for miles. Here, history, faith, and the untameable power of the sea merge.\n\nThe surrounding beaches are among the most beautiful in the islands. Petite Plage is a charming, sheltered stretch ideal for quiet hours by the water. In contrast, Plage Martinique offers wide horizons and is a popular meeting point for windsurfers and kitesurfers due to the steady winds. The contrast between the deep blue of the Gulf, the brilliant red of the cliffs, and the fine white sand of the dunes makes La Vernière a paradise for photographers and nature lovers.\n\nLife in La Vernière is shaped by maritime rhythms. Visitors can visit local cheese shops (fromageries) where specialties like 'Pied-de-Vent' are made, or buy fresh lobster directly at the harbor. Hiking trails along the cliffs offer breathtaking views of the sea and neighboring islands. In summer, the village is a lively center for handicrafts and traditional Acadian music, making a stay a deep cultural experience in the vastness of the Atlantic."}, "facts": {"de": ["Magdalenen-Inseln", "Akadische Kultur", "Rote Sandsteinklippen", "Größte Holzkirche", "Fromagerie du Pied-de-Vent", "Vogelzug-Region", "Kitesurf-Hotspot", "St. Lorenz Golf"], "hu": ["Magdalén-szigetek", "Akádiai kultúra", "Vörös homokkő sziklák", "Legnagyobb fatemplom", "Pied-de-Vent sajt", "Madárvonulási útvonal", "Kiteszörf helyszín", "Szent Lőrinc-öböl"], "ro": ["Insulele Magdalen", "Cultură acadiană", "Faleze de gresie roșie", "Cea mai mare biserică de lemn", "Brânză Pied-de-Vent", "Zonă de migrație a păsărilor", "Hotspot de kitesurfing", "Golful Sf. Laurențiu"], "en": ["Magdalen Islands", "Acadian culture", "Red sandstone cliffs", "Largest wooden church", "Fromagerie du Pied-de-Vent", "Bird migration area", "Kitesurfing hotspot", "Gulf of St. Lawrence"]}, "image": "/poi-images/canada-la-verniere-cities-v2.webp"},
 {"id": "usa-chesapeake-beach-cities-v2", "sights": {
       "de": [
@@ -152523,93 +146919,12 @@ export const naNewV1: POI[] = [
 {"id": "canada-fergusons-cove-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Site of former Hugonin-Perrin Estate and Gardens",
-                  "text": "Die Überreste eines ehemaligen Anwesens und Gartens in Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.527355,
-                        44.614809
-                  ]
-            },
-            {
-                  "name": "Former Findlay's Picnic Grounds",
-                  "text": "Ein historisches Ausflugsziel in Fergusons Cove, das einst für Picknicks genutzt wurde.",
-                  "category": "historical",
-                  "coords": [
-                        -63.532569,
-                        44.615205
-                  ]
-            },
-            {
-                  "name": "Former Hugonin Wharf",
-                  "text": "Die Ruinen eines alten Kais in Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.531265,
-                        44.613534
-                  ]
-            },
-            {
-                  "name": "Burial site for cholera victims from the SS England, 1866",
-                  "text": "Eine Gedenkstätte für die Opfer der Cholera-Epidemie von 1866 in Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.535122,
-                        44.61282
-                  ]
-            },
-            {
-                  "name": "Site of former Detention Barracks",
-                  "text": "Überreste ehemaliger Arrestzellen in der Nähe von Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.525341,
-                        44.612265
-                  ]
-            },
-            {
-                  "name": "Site of former McNab Family Homestead",
-                  "text": "Die historischen Überreste des Wohnsitzes der Familie McNab in Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.519447,
-                        44.603094
-                  ]
-            },
-            {
                   "name": "Searchlight Emplacement",
                   "text": "Überreste einer ehemaligen Scheinwerferstellung der Küstenverteidigung in Fergusons Cove.",
                   "category": "historical",
                   "coords": [
                         -63.542342,
                         44.62262
-                  ]
-            },
-            {
-                  "name": "Former McNabs Island Lighthouse (1903-1976)",
-                  "text": "Ruinen des ehemaligen Leuchtturms von McNabs Island, der bis 1976 in Betrieb war.",
-                  "category": "historical",
-                  "coords": [
-                        -63.535521,
-                        44.617657
-                  ]
-            },
-            {
-                  "name": "York Redoubt",
-                  "text": "Eine bedeutende historische Festungsanlage zum Schutz des Hafens von Halifax.",
-                  "category": "landmark",
-                  "coords": [
-                        -63.553976,
-                        44.596271
-                  ]
-            },
-            {
-                  "name": "Woolnough's Pleasure Grounds",
-                  "text": "Überreste eines historischen Ausflugsziels in der Nähe von Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.536969,
-                        44.62035
                   ]
             },
             {
@@ -152631,24 +146946,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Prince of Wales Tower",
-                  "text": "Ein massiver Martello-Turm aus dem Jahr 1796, der zur Küstenverteidigung diente.",
-                  "category": "landmark",
-                  "coords": [
-                        -63.569684,
-                        44.621559
-                  ]
-            },
-            {
-                  "name": "Point Pleasant Battery",
-                  "text": "Überreste einer historischen Artilleriestellung im Point Pleasant Park.",
-                  "category": "historical",
-                  "coords": [
-                        -63.563598,
-                        44.619832
-                  ]
-            },
-            {
                   "name": "Strawberry Battery",
                   "text": "Eine historische Befestigungsanlage zum Schutz des küstennahen Raums.",
                   "category": "fortress",
@@ -152656,81 +146953,9 @@ export const naNewV1: POI[] = [
                         -63.523023,
                         44.603256
                   ]
-            },
-            {
-                  "name": "Long Pond Beach",
-                  "text": "Ein natürlicher Strandabschnitt in der Nähe von Fergusons Cove.",
-                  "category": "recreational",
-                  "coords": [
-                        -63.575276,
-                        44.575883
-                  ]
-            },
-            {
-                  "name": "Sandwish Point Battery",
-                  "text": "Ruinen einer ehemaligen Verteidigungsbatterie an der Küste von Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.550316,
-                        44.587828
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Site of former Hugonin-Perrin Estate and Gardens",
-                  "text": "Egy egykori birtok és kert maradványai Fergusons Cove-ban.",
-                  "category": "historical",
-                  "coords": [
-                        -63.527355,
-                        44.614809
-                  ]
-            },
-            {
-                  "name": "Former Findlay's Picnic Grounds",
-                  "text": "Történelmi kirándulóhely Fergusons Cove-ban, amelyet egykor piknikezésre használtak.",
-                  "category": "historical",
-                  "coords": [
-                        -63.532569,
-                        44.615205
-                  ]
-            },
-            {
-                  "name": "Former Hugonin Wharf",
-                  "text": "Egy régi rakpart romjai Fergusons Cove-ban.",
-                  "category": "historical",
-                  "coords": [
-                        -63.531265,
-                        44.613534
-                  ]
-            },
-            {
-                  "name": "Burial site for cholera victims from the SS England, 1866",
-                  "text": "Az 1866-os kolerajárvány áldozatainak emlékhelye Fergusons Cove-ban.",
-                  "category": "historical",
-                  "coords": [
-                        -63.535122,
-                        44.61282
-                  ]
-            },
-            {
-                  "name": "Site of former Detention Barracks",
-                  "text": "Egykori fogdaépületek maradványai Fergusons Cove közelében.",
-                  "category": "historical",
-                  "coords": [
-                        -63.525341,
-                        44.612265
-                  ]
-            },
-            {
-                  "name": "Site of former McNab Family Homestead",
-                  "text": "A McNab család egykori lakóhelyének történelmi maradványai Fergusons Cove-ban.",
-                  "category": "historical",
-                  "coords": [
-                        -63.519447,
-                        44.603094
-                  ]
-            },
             {
                   "name": "Searchlight Emplacement",
                   "text": "Egykori partvédelmi fényszóróállás romjai Fergusons Cove területén.",
@@ -152738,33 +146963,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -63.542342,
                         44.62262
-                  ]
-            },
-            {
-                  "name": "Former McNabs Island Lighthouse (1903-1976)",
-                  "text": "A McNabs-sziget 1976-ig üzemelő egykori világítótornyának romjai.",
-                  "category": "historical",
-                  "coords": [
-                        -63.535521,
-                        44.617657
-                  ]
-            },
-            {
-                  "name": "York Redoubt",
-                  "text": "Jelentős történelmi erődítmény, amely Halifax kikötőjének védelmét szolgálta.",
-                  "category": "landmark",
-                  "coords": [
-                        -63.553976,
-                        44.596271
-                  ]
-            },
-            {
-                  "name": "Woolnough's Pleasure Grounds",
-                  "text": "Egy történelmi kirándulóhely maradványai Fergusons Cove közelében.",
-                  "category": "historical",
-                  "coords": [
-                        -63.536969,
-                        44.62035
                   ]
             },
             {
@@ -152786,24 +146984,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Prince of Wales Tower",
-                  "text": "Egy masszív, 1796-ban épült Martello-torony, amely a partvédelmet szolgálta.",
-                  "category": "landmark",
-                  "coords": [
-                        -63.569684,
-                        44.621559
-                  ]
-            },
-            {
-                  "name": "Point Pleasant Battery",
-                  "text": "Egy történelmi tüzérségi állás maradványai a Point Pleasant Parkban.",
-                  "category": "historical",
-                  "coords": [
-                        -63.563598,
-                        44.619832
-                  ]
-            },
-            {
                   "name": "Strawberry Battery",
                   "text": "Történelmi erődítmény a part menti területek védelmére.",
                   "category": "fortress",
@@ -152811,81 +146991,9 @@ export const naNewV1: POI[] = [
                         -63.523023,
                         44.603256
                   ]
-            },
-            {
-                  "name": "Long Pond Beach",
-                  "text": "Természetes tengerparti szakasz Fergusons Cove közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -63.575276,
-                        44.575883
-                  ]
-            },
-            {
-                  "name": "Sandwish Point Battery",
-                  "text": "Egy egykori védelmi üteg romjai Fergusons Cove partjainál.",
-                  "category": "historical",
-                  "coords": [
-                        -63.550316,
-                        44.587828
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Site of former Hugonin-Perrin Estate and Gardens",
-                  "text": "Vestigiile unei foste proprietăți și grădini în Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.527355,
-                        44.614809
-                  ]
-            },
-            {
-                  "name": "Former Findlay's Picnic Grounds",
-                  "text": "Un loc istoric de recreere în Fergusons Cove, folosit odinioară pentru picnicuri.",
-                  "category": "historical",
-                  "coords": [
-                        -63.532569,
-                        44.615205
-                  ]
-            },
-            {
-                  "name": "Former Hugonin Wharf",
-                  "text": "Ruinele unui vechi debarcader în Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.531265,
-                        44.613534
-                  ]
-            },
-            {
-                  "name": "Burial site for cholera victims from the SS England, 1866",
-                  "text": "Un loc de memorie pentru victimele epidemiei de holeră din 1866, în Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.535122,
-                        44.61282
-                  ]
-            },
-            {
-                  "name": "Site of former Detention Barracks",
-                  "text": "Vestigiile unor foste barăci de detenție lângă Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.525341,
-                        44.612265
-                  ]
-            },
-            {
-                  "name": "Site of former McNab Family Homestead",
-                  "text": "Vestigiile istorice ale reședinței familiei McNab în Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.519447,
-                        44.603094
-                  ]
-            },
             {
                   "name": "Searchlight Emplacement",
                   "text": "Ruinele unui fost amplasament de proiectoare pentru apărarea de coastă în Fergusons Cove.",
@@ -152893,33 +147001,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -63.542342,
                         44.62262
-                  ]
-            },
-            {
-                  "name": "Former McNabs Island Lighthouse (1903-1976)",
-                  "text": "Ruinele fostului far de pe insula McNabs, care a funcționat până în 1976.",
-                  "category": "historical",
-                  "coords": [
-                        -63.535521,
-                        44.617657
-                  ]
-            },
-            {
-                  "name": "York Redoubt",
-                  "text": "O fortificație istorică importantă construită pentru a proteja portul Halifax.",
-                  "category": "landmark",
-                  "coords": [
-                        -63.553976,
-                        44.596271
-                  ]
-            },
-            {
-                  "name": "Woolnough's Pleasure Grounds",
-                  "text": "Rămășițele unei zone istorice de recreere în apropiere de Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.536969,
-                        44.62035
                   ]
             },
             {
@@ -152941,24 +147022,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Prince of Wales Tower",
-                  "text": "Un turn Martello masiv construit în 1796, folosit pentru apărarea de coastă.",
-                  "category": "landmark",
-                  "coords": [
-                        -63.569684,
-                        44.621559
-                  ]
-            },
-            {
-                  "name": "Point Pleasant Battery",
-                  "text": "Rămășițele unei foste baterii de artilerie din parcul Point Pleasant.",
-                  "category": "historical",
-                  "coords": [
-                        -63.563598,
-                        44.619832
-                  ]
-            },
-            {
                   "name": "Strawberry Battery",
                   "text": "O fortificație istorică pentru protecția zonei de coastă.",
                   "category": "fortress",
@@ -152966,81 +147029,9 @@ export const naNewV1: POI[] = [
                         -63.523023,
                         44.603256
                   ]
-            },
-            {
-                  "name": "Long Pond Beach",
-                  "text": "O porțiune naturală de plajă în apropiere de Fergusons Cove.",
-                  "category": "recreational",
-                  "coords": [
-                        -63.575276,
-                        44.575883
-                  ]
-            },
-            {
-                  "name": "Sandwish Point Battery",
-                  "text": "Ruinele unei foste baterii de apărare pe coasta din Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.550316,
-                        44.587828
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Site of former Hugonin-Perrin Estate and Gardens",
-                  "text": "The remains of a former estate and gardens located in Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.527355,
-                        44.614809
-                  ]
-            },
-            {
-                  "name": "Former Findlay's Picnic Grounds",
-                  "text": "A historic recreational site in Fergusons Cove formerly used for picnics.",
-                  "category": "historical",
-                  "coords": [
-                        -63.532569,
-                        44.615205
-                  ]
-            },
-            {
-                  "name": "Former Hugonin Wharf",
-                  "text": "The ruins of an old wharf situated in Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.531265,
-                        44.613534
-                  ]
-            },
-            {
-                  "name": "Burial site for cholera victims from the SS England, 1866",
-                  "text": "A memorial site for victims of the 1866 cholera epidemic in Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.535122,
-                        44.61282
-                  ]
-            },
-            {
-                  "name": "Site of former Detention Barracks",
-                  "text": "The remains of former detention barracks located near Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.525341,
-                        44.612265
-                  ]
-            },
-            {
-                  "name": "Site of former McNab Family Homestead",
-                  "text": "The historical remains of the McNab family homestead in Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.519447,
-                        44.603094
-                  ]
-            },
             {
                   "name": "Searchlight Emplacement",
                   "text": "Ruins of a former searchlight emplacement for coastal defense in Fergusons Cove.",
@@ -153048,33 +147039,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -63.542342,
                         44.62262
-                  ]
-            },
-            {
-                  "name": "Former McNabs Island Lighthouse (1903-1976)",
-                  "text": "Ruins of the former McNabs Island lighthouse, which operated until 1976.",
-                  "category": "historical",
-                  "coords": [
-                        -63.535521,
-                        44.617657
-                  ]
-            },
-            {
-                  "name": "York Redoubt",
-                  "text": "A significant historic fortification built to protect Halifax Harbour.",
-                  "category": "landmark",
-                  "coords": [
-                        -63.553976,
-                        44.596271
-                  ]
-            },
-            {
-                  "name": "Woolnough's Pleasure Grounds",
-                  "text": "Remains of a historic recreational area near Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.536969,
-                        44.62035
                   ]
             },
             {
@@ -153096,48 +147060,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Prince of Wales Tower",
-                  "text": "A massive Martello tower built in 1796, used for coastal defense.",
-                  "category": "landmark",
-                  "coords": [
-                        -63.569684,
-                        44.621559
-                  ]
-            },
-            {
-                  "name": "Point Pleasant Battery",
-                  "text": "Remains of a historic artillery battery in Point Pleasant Park.",
-                  "category": "historical",
-                  "coords": [
-                        -63.563598,
-                        44.619832
-                  ]
-            },
-            {
                   "name": "Strawberry Battery",
                   "text": "A historic fortification for the protection of the coastal area.",
                   "category": "fortress",
                   "coords": [
                         -63.523023,
                         44.603256
-                  ]
-            },
-            {
-                  "name": "Long Pond Beach",
-                  "text": "A natural stretch of beach near Fergusons Cove.",
-                  "category": "recreational",
-                  "coords": [
-                        -63.575276,
-                        44.575883
-                  ]
-            },
-            {
-                  "name": "Sandwish Point Battery",
-                  "text": "Ruins of a former defense battery on the coast of Fergusons Cove.",
-                  "category": "historical",
-                  "coords": [
-                        -63.550316,
-                        44.587828
                   ]
             }
       ]
@@ -153932,15 +147860,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Stanhope Beach Complex",
-                  "text": "Eine Strandanlage in Stanhope mit Einrichtungen für Besucher und Zugang zur Küste.",
-                  "category": "recreational",
-                  "coords": [
-                        -63.101573,
-                        46.420675
-                  ]
-            },
-            {
                   "name": "Covehead Bay",
                   "text": "Eine malerische Bucht in Stanhope.",
                   "category": "landmark",
@@ -153976,15 +147895,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -63.073357,
                         46.414703
-                  ]
-            },
-            {
-                  "name": "Stanhope Beach Complex",
-                  "text": "Strandkomplexum Stanhope-ban, amely szolgáltatásokat és kijárást biztosít a partra.",
-                  "category": "recreational",
-                  "coords": [
-                        -63.101573,
-                        46.420675
                   ]
             },
             {
@@ -154026,15 +147936,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Stanhope Beach Complex",
-                  "text": "Un complex de plajă din Stanhope care oferă facilități pentru vizitatori și acces la coastă.",
-                  "category": "recreational",
-                  "coords": [
-                        -63.101573,
-                        46.420675
-                  ]
-            },
-            {
                   "name": "Covehead Bay",
                   "text": "Un golf pitoresc în Stanhope.",
                   "category": "landmark",
@@ -154070,15 +147971,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -63.073357,
                         46.414703
-                  ]
-            },
-            {
-                  "name": "Stanhope Beach Complex",
-                  "text": "A beach facility in Stanhope offering visitor amenities and coastal access.",
-                  "category": "recreational",
-                  "coords": [
-                        -63.101573,
-                        46.420675
                   ]
             },
             {
@@ -154768,33 +148660,6 @@ export const naNewV1: POI[] = [
 {"id": "usa-annapolis-neck-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Concert Stage",
-                  "text": "Eine Freiluftbühne in Annapolis Neck, die für verschiedene kulturelle Veranstaltungen genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.503953,
-                        38.932916
-                  ]
-            },
-            {
-                  "name": "Quiet Waters Park",
-                  "text": "Ein großer Park in Annapolis Neck mit Gärten, Wanderwegen und einem Hundestrand.",
-                  "category": "park",
-                  "coords": [
-                        -76.502177,
-                        38.939436
-                  ]
-            },
-            {
-                  "name": "Annapolis Maritime Museum",
-                  "text": "Ein Museum in Annapolis Neck, das über das maritime Erbe und die Austernindustrie informiert.",
-                  "category": "museum",
-                  "coords": [
-                        -76.476314,
-                        38.968876
-                  ]
-            },
-            {
                   "name": "Carr's Beach",
                   "text": "Ein historisch bedeutender Strand in Annapolis Neck, der einst ein bekanntes Zentrum für afroamerikanische Kultur war.",
                   "category": "recreational",
@@ -154823,33 +148688,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Concert Stage",
-                  "text": "Szabadtéri színpad Annapolis Neck-ben, amelyet különféle kulturális eseményekre használnak.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.503953,
-                        38.932916
-                  ]
-            },
-            {
-                  "name": "Quiet Waters Park",
-                  "text": "Nagy park Annapolis Neck-ben kertekkel, túraútvonalakkal és kutyás stranddal.",
-                  "category": "park",
-                  "coords": [
-                        -76.502177,
-                        38.939436
-                  ]
-            },
-            {
-                  "name": "Annapolis Maritime Museum",
-                  "text": "Annapolis Neck-i múzeum, amely a tengerészeti örökségről és az osztrigahalászatról nyújt tájékoztatást.",
-                  "category": "museum",
-                  "coords": [
-                        -76.476314,
-                        38.968876
-                  ]
-            },
             {
                   "name": "Carr's Beach",
                   "text": "Történelmileg jelentős strand Annapolis Neck-ben, amely egykor az afroamerikai kultúra ismert központja volt.",
@@ -154880,33 +148718,6 @@ export const naNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Concert Stage",
-                  "text": "O scenă în aer liber în Annapolis Neck, utilizată pentru diverse evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.503953,
-                        38.932916
-                  ]
-            },
-            {
-                  "name": "Quiet Waters Park",
-                  "text": "Un parc mare în Annapolis Neck cu grădini, trasee de drumeție și o plajă pentru câini.",
-                  "category": "park",
-                  "coords": [
-                        -76.502177,
-                        38.939436
-                  ]
-            },
-            {
-                  "name": "Annapolis Maritime Museum",
-                  "text": "Un muzeu în Annapolis Neck care oferă informații despre moștenirea maritimă și industria stridiilor.",
-                  "category": "museum",
-                  "coords": [
-                        -76.476314,
-                        38.968876
-                  ]
-            },
-            {
                   "name": "Carr's Beach",
                   "text": "O plajă cu importanță istorică în Annapolis Neck, care a fost odată un centru cunoscut al culturii afro-americane.",
                   "category": "recreational",
@@ -154935,33 +148746,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Concert Stage",
-                  "text": "An outdoor stage in Annapolis Neck used for various cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.503953,
-                        38.932916
-                  ]
-            },
-            {
-                  "name": "Quiet Waters Park",
-                  "text": "A large park in Annapolis Neck featuring gardens, trails, and a dog beach.",
-                  "category": "park",
-                  "coords": [
-                        -76.502177,
-                        38.939436
-                  ]
-            },
-            {
-                  "name": "Annapolis Maritime Museum",
-                  "text": "A museum in Annapolis Neck providing information on maritime heritage and the oyster industry.",
-                  "category": "museum",
-                  "coords": [
-                        -76.476314,
-                        38.968876
-                  ]
-            },
             {
                   "name": "Carr's Beach",
                   "text": "A historically significant beach in Annapolis Neck that was once a well-known center for African American culture.",
@@ -156161,15 +149945,6 @@ export const naNewV1: POI[] = [
                         -85.748294,
                         30.144619
                   ]
-            },
-            {
-                  "name": "My Blue Beach House",
-                  "text": "Eine Ferienanlage am Strand in Upper Grand Lagoon für Reisende.",
-                  "category": "recreational",
-                  "coords": [
-                        -85.771805,
-                        30.154775
-                  ]
             }
       ],
       "hu": [
@@ -156180,15 +149955,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -85.748294,
                         30.144619
-                  ]
-            },
-            {
-                  "name": "My Blue Beach House",
-                  "text": "Tengerparti üdülőhely és szálláshely Upper Grand Lagoon területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -85.771805,
-                        30.154775
                   ]
             }
       ],
@@ -156201,15 +149967,6 @@ export const naNewV1: POI[] = [
                         -85.748294,
                         30.144619
                   ]
-            },
-            {
-                  "name": "My Blue Beach House",
-                  "text": "O stațiune de plajă din Upper Grand Lagoon care oferă cazare turiștilor.",
-                  "category": "recreational",
-                  "coords": [
-                        -85.771805,
-                        30.154775
-                  ]
             }
       ],
       "en": [
@@ -156220,15 +149977,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -85.748294,
                         30.144619
-                  ]
-            },
-            {
-                  "name": "My Blue Beach House",
-                  "text": "A beachside resort in Upper Grand Lagoon providing accommodation for visitors.",
-                  "category": "recreational",
-                  "coords": [
-                        -85.771805,
-                        30.154775
                   ]
             }
       ]
@@ -159662,24 +153410,6 @@ export const naNewV1: POI[] = [
 {"id": "usa-sand-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Encanto Park",
-                  "text": "Eine gepflegte städtische Parkanlage in Sand City.",
-                  "category": "park",
-                  "coords": [
-                        -121.828563,
-                        36.603293
-                  ]
-            },
-            {
-                  "name": "Del Rey Park",
-                  "text": "Ein lokaler Park in Sand City, der Möglichkeiten zur Erholung bietet.",
-                  "category": "park",
-                  "coords": [
-                        -121.838163,
-                        36.593941
-                  ]
-            },
-            {
                   "name": "Monterey County Fairgrounds",
                   "text": "Ein Veranstaltungsort in Sand City, bekannt für Messen und lokale Events.",
                   "category": "landmark",
@@ -159689,111 +153419,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Work Memorial Park",
-                  "text": "Eine öffentliche Grünanlage in Sand City, ideal für Spaziergänge.",
-                  "category": "park",
-                  "coords": [
-                        -121.846651,
-                        36.594741
-                  ]
-            },
-            {
-                  "name": "Laguna Grande Regional Park",
-                  "text": "Ein regionaler Park in Sand City mit ausgedehnten Freiflächen.",
-                  "category": "park",
-                  "coords": [
-                        -121.855072,
-                        36.60235
-                  ]
-            },
-            {
                   "name": "Monterey State Beach",
                   "text": "Ein weitläufiger Sandstrand in Sand City, der zum Verweilen am Meer einlädt.",
                   "category": "recreational",
                   "coords": [
                         -121.86314,
                         36.606955
-                  ]
-            },
-            {
-                  "name": "Metz Park",
-                  "text": "Ein kleiner Park in Sand City, der als lokaler Treffpunkt dient.",
-                  "category": "park",
-                  "coords": [
-                        -121.830736,
-                        36.620792
-                  ]
-            },
-            {
-                  "name": "David Cutino Park",
-                  "text": "Eine städtische Grünfläche in Sand City für Freizeitaktivitäten.",
-                  "category": "park",
-                  "coords": [
-                        -121.836738,
-                        36.615618
-                  ]
-            },
-            {
-                  "name": "Beta Park",
-                  "text": "Ein kleinerer Stadtpark in Sand City mit Erholungscharakter.",
-                  "category": "park",
-                  "coords": [
-                        -121.831584,
-                        36.6073
-                  ]
-            },
-            {
-                  "name": "Farallones Park",
-                  "text": "Eine Parkanlage in Sand City, die nach den Farallon-Inseln benannt ist.",
-                  "category": "park",
-                  "coords": [
-                        -121.833791,
-                        36.602954
-                  ]
-            },
-            {
-                  "name": "Mescal Neil Park",
-                  "text": "Ein nach Mescal Neil benannter Park in Sand City.",
-                  "category": "park",
-                  "coords": [
-                        -121.825916,
-                        36.607472
-                  ]
-            },
-            {
-                  "name": "Portola Leslie Park",
-                  "text": "Eine lokale Grünanlage in Sand City zur allgemeinen Nutzung.",
-                  "category": "park",
-                  "coords": [
-                        -121.82543,
-                        36.609925
-                  ]
-            },
-            {
-                  "name": "Manzanita Stuart Park",
-                  "text": "Ein öffentlicher Erholungsort in Sand City.",
-                  "category": "park",
-                  "coords": [
-                        -121.826713,
-                        36.614124
-                  ]
-            },
-            {
-                  "name": "Havana Soliz Park",
-                  "text": "Ein kleiner Park in Sand City für die Nachbarschaft.",
-                  "category": "park",
-                  "coords": [
-                        -121.823735,
-                        36.615709
-                  ]
-            },
-            {
-                  "name": "Lincoln Cunningham Park",
-                  "text": "Eine städtische Parkfläche in Sand City.",
-                  "category": "park",
-                  "coords": [
-                        -121.826148,
-                        36.615324
                   ]
             },
             {
@@ -159808,24 +153439,6 @@ export const naNewV1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Encanto Park",
-                  "text": "Egy gondozott városi park Sand City-ben.",
-                  "category": "park",
-                  "coords": [
-                        -121.828563,
-                        36.603293
-                  ]
-            },
-            {
-                  "name": "Del Rey Park",
-                  "text": "Egy helyi park Sand City-ben, amely kikapcsolódási lehetőséget nyújt.",
-                  "category": "park",
-                  "coords": [
-                        -121.838163,
-                        36.593941
-                  ]
-            },
-            {
                   "name": "Monterey County Fairgrounds",
                   "text": "Rendezvényhelyszín Sand City-ben, amely vásároknak és helyi eseményeknek ad otthont.",
                   "category": "landmark",
@@ -159835,111 +153448,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Work Memorial Park",
-                  "text": "Nyilvános zöldterület Sand City-ben, amely ideális sétákhoz.",
-                  "category": "park",
-                  "coords": [
-                        -121.846651,
-                        36.594741
-                  ]
-            },
-            {
-                  "name": "Laguna Grande Regional Park",
-                  "text": "Regionális park Sand City-ben, kiterjedt nyílt területekkel.",
-                  "category": "park",
-                  "coords": [
-                        -121.855072,
-                        36.60235
-                  ]
-            },
-            {
                   "name": "Monterey State Beach",
                   "text": "Kiterjedt homokos tengerpart Sand City-ben, amely kikapcsolódást kínál a tengernél.",
                   "category": "recreational",
                   "coords": [
                         -121.86314,
                         36.606955
-                  ]
-            },
-            {
-                  "name": "Metz Park",
-                  "text": "Egy kis park Sand City-ben, amely helyi találkozóhelyként szolgál.",
-                  "category": "park",
-                  "coords": [
-                        -121.830736,
-                        36.620792
-                  ]
-            },
-            {
-                  "name": "David Cutino Park",
-                  "text": "Városi zöldterület Sand City-ben szabadidős tevékenységekhez.",
-                  "category": "park",
-                  "coords": [
-                        -121.836738,
-                        36.615618
-                  ]
-            },
-            {
-                  "name": "Beta Park",
-                  "text": "Kisebb városi park Sand City-ben, pihentető környezettel.",
-                  "category": "park",
-                  "coords": [
-                        -121.831584,
-                        36.6073
-                  ]
-            },
-            {
-                  "name": "Farallones Park",
-                  "text": "Park Sand City-ben, amelyet a Farallon-szigetekről neveztek el.",
-                  "category": "park",
-                  "coords": [
-                        -121.833791,
-                        36.602954
-                  ]
-            },
-            {
-                  "name": "Mescal Neil Park",
-                  "text": "Mescal Neilről elnevezett park Sand City-ben.",
-                  "category": "park",
-                  "coords": [
-                        -121.825916,
-                        36.607472
-                  ]
-            },
-            {
-                  "name": "Portola Leslie Park",
-                  "text": "Helyi zöldterület Sand City-ben általános használatra.",
-                  "category": "park",
-                  "coords": [
-                        -121.82543,
-                        36.609925
-                  ]
-            },
-            {
-                  "name": "Manzanita Stuart Park",
-                  "text": "Nyilvános pihenőhely Sand City-ben.",
-                  "category": "park",
-                  "coords": [
-                        -121.826713,
-                        36.614124
-                  ]
-            },
-            {
-                  "name": "Havana Soliz Park",
-                  "text": "Egy kis park Sand City-ben a környék lakói számára.",
-                  "category": "park",
-                  "coords": [
-                        -121.823735,
-                        36.615709
-                  ]
-            },
-            {
-                  "name": "Lincoln Cunningham Park",
-                  "text": "Városi parkterület Sand City-ben.",
-                  "category": "park",
-                  "coords": [
-                        -121.826148,
-                        36.615324
                   ]
             },
             {
@@ -159954,24 +153468,6 @@ export const naNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Encanto Park",
-                  "text": "Un parc urban bine întreținut în Sand City.",
-                  "category": "park",
-                  "coords": [
-                        -121.828563,
-                        36.603293
-                  ]
-            },
-            {
-                  "name": "Del Rey Park",
-                  "text": "Un parc local din Sand City care oferă oportunități de recreere.",
-                  "category": "park",
-                  "coords": [
-                        -121.838163,
-                        36.593941
-                  ]
-            },
-            {
                   "name": "Monterey County Fairgrounds",
                   "text": "Un loc de evenimente din Sand City, cunoscut pentru târguri și evenimente locale.",
                   "category": "landmark",
@@ -159981,111 +153477,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Work Memorial Park",
-                  "text": "Un spațiu verde public în Sand City, ideal pentru plimbări.",
-                  "category": "park",
-                  "coords": [
-                        -121.846651,
-                        36.594741
-                  ]
-            },
-            {
-                  "name": "Laguna Grande Regional Park",
-                  "text": "Un parc regional în Sand City cu spații deschise vaste.",
-                  "category": "park",
-                  "coords": [
-                        -121.855072,
-                        36.60235
-                  ]
-            },
-            {
                   "name": "Monterey State Beach",
                   "text": "O plajă de nisip întinsă în Sand City, care invită la relaxare la malul mării.",
                   "category": "recreational",
                   "coords": [
                         -121.86314,
                         36.606955
-                  ]
-            },
-            {
-                  "name": "Metz Park",
-                  "text": "Un parc mic în Sand City care servește ca loc de întâlnire local.",
-                  "category": "park",
-                  "coords": [
-                        -121.830736,
-                        36.620792
-                  ]
-            },
-            {
-                  "name": "David Cutino Park",
-                  "text": "Un spațiu verde urban în Sand City pentru activități recreative.",
-                  "category": "park",
-                  "coords": [
-                        -121.836738,
-                        36.615618
-                  ]
-            },
-            {
-                  "name": "Beta Park",
-                  "text": "Un parc urban mai mic în Sand City cu caracter recreativ.",
-                  "category": "park",
-                  "coords": [
-                        -121.831584,
-                        36.6073
-                  ]
-            },
-            {
-                  "name": "Farallones Park",
-                  "text": "Un parc în Sand City numit după Insulele Farallon.",
-                  "category": "park",
-                  "coords": [
-                        -121.833791,
-                        36.602954
-                  ]
-            },
-            {
-                  "name": "Mescal Neil Park",
-                  "text": "Un parc numit după Mescal Neil în Sand City.",
-                  "category": "park",
-                  "coords": [
-                        -121.825916,
-                        36.607472
-                  ]
-            },
-            {
-                  "name": "Portola Leslie Park",
-                  "text": "Un spațiu verde local în Sand City pentru uz public.",
-                  "category": "park",
-                  "coords": [
-                        -121.82543,
-                        36.609925
-                  ]
-            },
-            {
-                  "name": "Manzanita Stuart Park",
-                  "text": "Un loc de recreere public în Sand City.",
-                  "category": "park",
-                  "coords": [
-                        -121.826713,
-                        36.614124
-                  ]
-            },
-            {
-                  "name": "Havana Soliz Park",
-                  "text": "Un parc mic în Sand City pentru comunitatea locală.",
-                  "category": "park",
-                  "coords": [
-                        -121.823735,
-                        36.615709
-                  ]
-            },
-            {
-                  "name": "Lincoln Cunningham Park",
-                  "text": "O zonă de parc urban în Sand City.",
-                  "category": "park",
-                  "coords": [
-                        -121.826148,
-                        36.615324
                   ]
             },
             {
@@ -160100,24 +153497,6 @@ export const naNewV1: POI[] = [
       ],
       "en": [
             {
-                  "name": "Encanto Park",
-                  "text": "A well-maintained urban park in Sand City.",
-                  "category": "park",
-                  "coords": [
-                        -121.828563,
-                        36.603293
-                  ]
-            },
-            {
-                  "name": "Del Rey Park",
-                  "text": "A local park in Sand City offering opportunities for recreation.",
-                  "category": "park",
-                  "coords": [
-                        -121.838163,
-                        36.593941
-                  ]
-            },
-            {
                   "name": "Monterey County Fairgrounds",
                   "text": "An event venue in Sand City known for hosting fairs and local events.",
                   "category": "landmark",
@@ -160127,111 +153506,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Work Memorial Park",
-                  "text": "A public green space in Sand City, ideal for walks.",
-                  "category": "park",
-                  "coords": [
-                        -121.846651,
-                        36.594741
-                  ]
-            },
-            {
-                  "name": "Laguna Grande Regional Park",
-                  "text": "A regional park in Sand City featuring extensive open spaces.",
-                  "category": "park",
-                  "coords": [
-                        -121.855072,
-                        36.60235
-                  ]
-            },
-            {
                   "name": "Monterey State Beach",
                   "text": "An extensive sandy beach in Sand City inviting relaxation by the sea.",
                   "category": "recreational",
                   "coords": [
                         -121.86314,
                         36.606955
-                  ]
-            },
-            {
-                  "name": "Metz Park",
-                  "text": "A small park in Sand City serving as a local gathering spot.",
-                  "category": "park",
-                  "coords": [
-                        -121.830736,
-                        36.620792
-                  ]
-            },
-            {
-                  "name": "David Cutino Park",
-                  "text": "An urban green space in Sand City for leisure activities.",
-                  "category": "park",
-                  "coords": [
-                        -121.836738,
-                        36.615618
-                  ]
-            },
-            {
-                  "name": "Beta Park",
-                  "text": "A smaller city park in Sand City with a relaxing atmosphere.",
-                  "category": "park",
-                  "coords": [
-                        -121.831584,
-                        36.6073
-                  ]
-            },
-            {
-                  "name": "Farallones Park",
-                  "text": "A park in Sand City named after the Farallon Islands.",
-                  "category": "park",
-                  "coords": [
-                        -121.833791,
-                        36.602954
-                  ]
-            },
-            {
-                  "name": "Mescal Neil Park",
-                  "text": "A park in Sand City named after Mescal Neil.",
-                  "category": "park",
-                  "coords": [
-                        -121.825916,
-                        36.607472
-                  ]
-            },
-            {
-                  "name": "Portola Leslie Park",
-                  "text": "A local green space in Sand City for public use.",
-                  "category": "park",
-                  "coords": [
-                        -121.82543,
-                        36.609925
-                  ]
-            },
-            {
-                  "name": "Manzanita Stuart Park",
-                  "text": "A public recreation spot in Sand City.",
-                  "category": "park",
-                  "coords": [
-                        -121.826713,
-                        36.614124
-                  ]
-            },
-            {
-                  "name": "Havana Soliz Park",
-                  "text": "A small park in Sand City for the neighborhood.",
-                  "category": "park",
-                  "coords": [
-                        -121.823735,
-                        36.615709
-                  ]
-            },
-            {
-                  "name": "Lincoln Cunningham Park",
-                  "text": "An urban park area in Sand City.",
-                  "category": "park",
-                  "coords": [
-                        -121.826148,
-                        36.615324
                   ]
             },
             {
@@ -160816,15 +154096,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Slate Contemporary",
-                  "text": "Eine Kunstgalerie in Emeryville, die zeitgenössische Künstler und ihre Werke vertritt.",
-                  "category": "museum",
-                  "coords": [
-                        -122.267716,
-                        37.814474
-                  ]
-            },
-            {
                   "name": "Classic Cars West Gallery",
                   "text": "Eine einzigartige Galerie in Emeryville, die Oldtimer mit zeitgenössischer Kunst verbindet.",
                   "category": "museum",
@@ -160859,15 +154130,6 @@ export const naNewV1: POI[] = [
                         -122.275266,
                         37.813387
                   ]
-            },
-            {
-                  "name": "Oakland Terminal",
-                  "text": "Ein Ausstellungsraum für Kunst und kreative Projekte in Emeryville.",
-                  "category": "museum",
-                  "coords": [
-                        -122.284708,
-                        37.819394
-                  ]
             }
       ],
       "hu": [
@@ -160887,15 +154149,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -122.268261,
                         37.812404
-                  ]
-            },
-            {
-                  "name": "Slate Contemporary",
-                  "text": "Művészeti galéria Emeryville-ben, amely kortárs művészeket és munkáikat képviseli.",
-                  "category": "museum",
-                  "coords": [
-                        -122.267716,
-                        37.814474
                   ]
             },
             {
@@ -160933,15 +154186,6 @@ export const naNewV1: POI[] = [
                         -122.275266,
                         37.813387
                   ]
-            },
-            {
-                  "name": "Oakland Terminal",
-                  "text": "Művészeti kiállítótér és kreatív projektek helyszíne Emeryville-ben.",
-                  "category": "museum",
-                  "coords": [
-                        -122.284708,
-                        37.819394
-                  ]
             }
       ],
       "ro": [
@@ -160961,15 +154205,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -122.268261,
                         37.812404
-                  ]
-            },
-            {
-                  "name": "Slate Contemporary",
-                  "text": "O galerie de artă în Emeryville, care reprezintă artiști contemporani și lucrările lor.",
-                  "category": "museum",
-                  "coords": [
-                        -122.267716,
-                        37.814474
                   ]
             },
             {
@@ -161007,15 +154242,6 @@ export const naNewV1: POI[] = [
                         -122.275266,
                         37.813387
                   ]
-            },
-            {
-                  "name": "Oakland Terminal",
-                  "text": "Un spațiu de expoziție pentru artă și proiecte creative în Emeryville.",
-                  "category": "museum",
-                  "coords": [
-                        -122.284708,
-                        37.819394
-                  ]
             }
       ],
       "en": [
@@ -161035,15 +154261,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -122.268261,
                         37.812404
-                  ]
-            },
-            {
-                  "name": "Slate Contemporary",
-                  "text": "An art gallery in Emeryville representing contemporary artists and their works.",
-                  "category": "museum",
-                  "coords": [
-                        -122.267716,
-                        37.814474
                   ]
             },
             {
@@ -161080,15 +154297,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -122.275266,
                         37.813387
-                  ]
-            },
-            {
-                  "name": "Oakland Terminal",
-                  "text": "An exhibition space for art and creative projects in Emeryville.",
-                  "category": "museum",
-                  "coords": [
-                        -122.284708,
-                        37.819394
                   ]
             }
       ]
@@ -162282,15 +155490,6 @@ export const naNewV1: POI[] = [
 {"id": "usa-seaside-cities-v2", "sights": {
       "de": [
             {
-                  "name": "High Life Adventure Park",
-                  "text": "Ein Freizeitpark in Seaside, der verschiedene Outdoor-Aktivitäten anbietet.",
-                  "category": "recreational",
-                  "coords": [
-                        -123.928281,
-                        45.975509
-                  ]
-            },
-            {
                   "name": "Seaside Beach",
                   "text": "Ein weitläufiger Sandstrand in Seaside, ideal für Erholung und Spaziergänge.",
                   "category": "recreational",
@@ -162327,15 +155526,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Captain Kid Amusement Park",
-                  "text": "Ein Vergnügungspark in Seaside mit Fahrgeschäften für Familien.",
-                  "category": "recreational",
-                  "coords": [
-                        -123.925533,
-                        45.972236
-                  ]
-            },
-            {
                   "name": "Seaside Museum",
                   "text": "Ein lokales Museum in Seaside, das die Geschichte der Region dokumentiert.",
                   "category": "museum",
@@ -162346,15 +155536,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "High Life Adventure Park",
-                  "text": "Szabadtéri kalandpark Seaside-ban, amely különféle aktív kikapcsolódást kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        -123.928281,
-                        45.975509
-                  ]
-            },
             {
                   "name": "Seaside Beach",
                   "text": "Széles homokos tengerpart Seaside-ban, amely népszerű üdülőhely.",
@@ -162392,15 +155573,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Captain Kid Amusement Park",
-                  "text": "Családi vidámpark Seaside-ban, különféle játékokkal és attrakciókkal.",
-                  "category": "recreational",
-                  "coords": [
-                        -123.925533,
-                        45.972236
-                  ]
-            },
-            {
                   "name": "Seaside Museum",
                   "text": "Helytörténeti múzeum Seaside-ban, amely a város múltját mutatja be.",
                   "category": "museum",
@@ -162411,15 +155583,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "High Life Adventure Park",
-                  "text": "Un parc de distracții în Seaside, care oferă diverse activități în aer liber.",
-                  "category": "recreational",
-                  "coords": [
-                        -123.928281,
-                        45.975509
-                  ]
-            },
             {
                   "name": "Seaside Beach",
                   "text": "O plajă de nisip întinsă în Seaside, ideală pentru recreere și plimbări.",
@@ -162457,15 +155620,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Captain Kid Amusement Park",
-                  "text": "Un parc de distracții în Seaside, oferind diverse atracții pentru familii.",
-                  "category": "recreational",
-                  "coords": [
-                        -123.925533,
-                        45.972236
-                  ]
-            },
-            {
                   "name": "Seaside Museum",
                   "text": "Un muzeu local în Seaside, care documentează istoria regiunii.",
                   "category": "museum",
@@ -162476,15 +155630,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "High Life Adventure Park",
-                  "text": "A theme park in Seaside offering various outdoor adventure activities.",
-                  "category": "recreational",
-                  "coords": [
-                        -123.928281,
-                        45.975509
-                  ]
-            },
             {
                   "name": "Seaside Beach",
                   "text": "A wide sandy beach in Seaside, popular for recreation and coastal walks.",
@@ -162519,15 +155664,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -123.945797,
                         45.975705
-                  ]
-            },
-            {
-                  "name": "Captain Kid Amusement Park",
-                  "text": "An amusement park in Seaside featuring family-friendly rides and games.",
-                  "category": "recreational",
-                  "coords": [
-                        -123.925533,
-                        45.972236
                   ]
             },
             {
@@ -167855,15 +160991,6 @@ export const naNewV1: POI[] = [
                         -76.540922,
                         38.941815
                   ]
-            },
-            {
-                  "name": "Historic London Town and Gardens",
-                  "text": "Ein historischer Ort in Edgewater mit Gärten und Gebäuden aus der Kolonialzeit.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.541218,
-                        38.940785
-                  ]
             }
       ],
       "hu": [
@@ -167874,15 +161001,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -76.540922,
                         38.941815
-                  ]
-            },
-            {
-                  "name": "Historic London Town and Gardens",
-                  "text": "Történelmi helyszín Edgewaterben kertekkel és gyarmati épületekkel.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.541218,
-                        38.940785
                   ]
             }
       ],
@@ -167895,15 +161013,6 @@ export const naNewV1: POI[] = [
                         -76.540922,
                         38.941815
                   ]
-            },
-            {
-                  "name": "Historic London Town and Gardens",
-                  "text": "Un sit istoric din Edgewater cu grădini și clădiri din epoca colonială.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.541218,
-                        38.940785
-                  ]
             }
       ],
       "en": [
@@ -167914,15 +161023,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -76.540922,
                         38.941815
-                  ]
-            },
-            {
-                  "name": "Historic London Town and Gardens",
-                  "text": "A historic site in Edgewater featuring colonial-era gardens and buildings.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.541218,
-                        38.940785
                   ]
             }
       ]
@@ -168462,15 +161562,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Holy Cross Church",
-                  "text": "Die Church of the Holy Cross ist ein historisches Gotteshaus in Middletown.",
-                  "category": "religious",
-                  "coords": [
-                        -71.2911,
-                        41.538746
-                  ]
-            },
-            {
                   "name": "Robert Sherman Windmill",
                   "text": "Die Robert Sherman Windmill ist ein historisches Holzbauwerk in Middletown.",
                   "category": "landmark",
@@ -168497,15 +161588,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.279936,
                         41.568799
-                  ]
-            },
-            {
-                  "name": "Holy Cross Church",
-                  "text": "A Szent Kereszt templom egy történelmi istentiszteleti hely Middletownban.",
-                  "category": "religious",
-                  "coords": [
-                        -71.2911,
-                        41.538746
                   ]
             },
             {
@@ -168538,15 +161620,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Holy Cross Church",
-                  "text": "Biserica Sfintei Cruci este un lăcaș de cult istoric situat în Middletown.",
-                  "category": "religious",
-                  "coords": [
-                        -71.2911,
-                        41.538746
-                  ]
-            },
-            {
                   "name": "Robert Sherman Windmill",
                   "text": "Moara de vânt Robert Sherman este o structură istorică din lemn situată în Middletown.",
                   "category": "landmark",
@@ -168573,15 +161646,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.279936,
                         41.568799
-                  ]
-            },
-            {
-                  "name": "Holy Cross Church",
-                  "text": "The Church of the Holy Cross is a historic place of worship located in Middletown.",
-                  "category": "religious",
-                  "coords": [
-                        -71.2911,
-                        41.538746
                   ]
             },
             {
@@ -172542,15 +165606,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Malcolm X & Dr. Betty Shabazz Memorial and Educational Center",
-                  "text": "Gedenkstätte in Fort Lee, die dem Leben von Malcolm X gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -73.940675,
-                        40.839358
-                  ]
-            },
-            {
                   "name": "GWB View",
                   "text": "Aussichtspunkt in Fort Lee mit Blick auf die George Washington Bridge.",
                   "category": "natural",
@@ -172575,15 +165630,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -73.938224,
                         40.852982
-                  ]
-            },
-            {
-                  "name": "United Palace",
-                  "text": "Prachtvolles historisches Theater in Fort Lee, eines der fünf Wonder Theatres.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.938127,
-                        40.846563
                   ]
             },
             {
@@ -172688,15 +165734,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Malcolm X & Dr. Betty Shabazz Memorial and Educational Center",
-                  "text": "Malcolm X életének szentelt emlékközpont Fort Lee-ben.",
-                  "category": "museum",
-                  "coords": [
-                        -73.940675,
-                        40.839358
-                  ]
-            },
-            {
                   "name": "GWB View",
                   "text": "Kilátóhely Fort Lee-ben, kilátással a George Washington-hídra.",
                   "category": "natural",
@@ -172721,15 +165758,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -73.938224,
                         40.852982
-                  ]
-            },
-            {
-                  "name": "United Palace",
-                  "text": "Nagyszabású történelmi színház Fort Lee-ben, az öt Wonder Theatre egyike.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.938127,
-                        40.846563
                   ]
             },
             {
@@ -172834,15 +165862,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Malcolm X & Dr. Betty Shabazz Memorial and Educational Center",
-                  "text": "Centru memorial în Fort Lee dedicat vieții lui Malcolm X.",
-                  "category": "museum",
-                  "coords": [
-                        -73.940675,
-                        40.839358
-                  ]
-            },
-            {
                   "name": "GWB View",
                   "text": "Punct de belvedere în Fort Lee cu vedere la podul George Washington.",
                   "category": "natural",
@@ -172867,15 +165886,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -73.938224,
                         40.852982
-                  ]
-            },
-            {
-                  "name": "United Palace",
-                  "text": "Teatru istoric grandios în Fort Lee, unul dintre cele cinci „Wonder Theatres”.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.938127,
-                        40.846563
                   ]
             },
             {
@@ -172980,15 +165990,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Malcolm X & Dr. Betty Shabazz Memorial and Educational Center",
-                  "text": "Memorial and educational center in Fort Lee honoring Malcolm X.",
-                  "category": "museum",
-                  "coords": [
-                        -73.940675,
-                        40.839358
-                  ]
-            },
-            {
                   "name": "GWB View",
                   "text": "Viewpoint in Fort Lee offering vistas of the George Washington Bridge.",
                   "category": "natural",
@@ -173013,15 +166014,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -73.938224,
                         40.852982
-                  ]
-            },
-            {
-                  "name": "United Palace",
-                  "text": "Grand historic theatre in Fort Lee, originally one of the five Wonder Theatres.",
-                  "category": "cultural",
-                  "coords": [
-                        -73.938127,
-                        40.846563
                   ]
             },
             {
@@ -174228,122 +167220,10 @@ export const naNewV1: POI[] = [
       ]
 }, "type": "city", "slug": "canada-chateauguay-cities-v2", "coords": [-73.74936, 45.36024], "parent": "CA-QC", "tier": 2, "name": {"de": "Châteauguay", "hu": "Châteauguay", "ro": "Châteauguay", "en": "Châteauguay"}, "description": {"de": "Eine grüne Stadt am Sankt-Lorenz-Strom in Quebec, bekannt für das Naturschutzgebiet Île Saint-Bernard und seine Wasseraktivitäten.", "hu": "A Szent Lőrinc-folyó mentén fekvő város Quebecben, amely az Île Saint-Bernard természetvédelmi területről és vízi sportjairól híres.", "ro": "Un oraș verde pe malul fluviului Sfântul Laurențiu în Quebec, cunoscut pentru rezervația Île Saint-Bernard și activitățile nautice.", "en": "A lush city along the St. Lawrence River in Quebec, famous for the Île Saint-Bernard nature reserve and its water activities."}, "descriptionAdvanced": {"de": "Châteauguay liegt am Südufer des Lake Saint-Louis und ist ein Paradies für Naturliebhaber direkt vor den Toren Montreals. Die Stadt ist vor allem für die Île Saint-Bernard bekannt, ein außergewöhnliches Naturschutzgebiet am Zusammenfluss des Flusses Châteauguay und des Sankt-Lorenz-Stroms. Hier befindet sich der Johnson Beach, ein beliebter Ort für Familien, um die Sonne zu genießen und im Süßwasser des Sees zu baden. Die Insel bietet zudem kilometerlange Wanderwege durch unberührte Feuchtgebiete.\n\nNeben der Natur bietet Châteauguay eine reiche Geschichte, die bis in die Zeit der französischen Kolonialisierung zurückreicht. Die Kirche Saint-Joachim ist ein beeindruckendes Beispiel für die Architektur des 18. Jahrhunderts. Wassersportler schätzen die Region für Kajakfahren, Segeln und Angeln. In der Stadt gibt es zahlreiche Parks und Radwege, die sie zu einem idealen Ziel für einen aktiven Kurzurlaub machen. Die Anreise von Montreal ist über die Mercier-Brücke in weniger als 30 Minuten möglich.", "hu": "Châteauguay a Lake Saint-Louis déli partján fekszik, és Montreal közelsége ellenére igazi természeti oázis. A város ékköve az Île Saint-Bernard, egy lenyűgöző természetvédelmi terület, ahol a Châteauguay-folyó és a Szent Lőrinc-folyó találkozik. Itt található a Johnson Beach, amely népszerű helyszín a strandolók és a vízi sportok kedvelői számára a tó tiszta vizének köszönhetően. A sziget gazdag növény- és állatvilággal, valamint jól kiépített túraútvonalakkal várja a látogatókat.\n\nA város történelmi emlékei között kiemelkedik a Saint-Joachim templom, amely Quebec egyik legszebb barokk épülete. Châteauguay ideális helyszín a horgászathoz, vitorlázáshoz és kajakozáshoz egyaránt. A számos kerékpárút és park a családosok kedvelt célpontjává teszi a települést. Megközelítése Montrealból mindössze 20-30 perc autóval a Mercier-hídon keresztül, így kiváló úti cél egy egynapos kiránduláshoz is.", "ro": "Châteauguay este situat pe malul sudic al lacului Saint-Louis, reprezentând o destinație de top pentru recreere în aer liber lângă Montreal. Punctul focal al turismului local este Île Saint-Bernard, o rezervație ecologică ce adăpostește ecosisteme variate și o faună bogată. Johnson Beach este plaja preferată a localnicilor și turiștilor, oferind o oază de răcoare pe malul lacului în timpul verii. Insula dispune de trasee de drumeție bine întreținute și vederi panoramice asupra fluviului.\n\nIstoria orașului este profund marcată de bătălia de la Châteauguay din 1812, iar centrul vechi păstrează clădiri de patrimoniu remarcabile, precum biserica Saint-Joachim. Orașul este un centru important pentru activități nautice, oferind facilități moderne pentru bărci și pescuit. Numeroasele piste de biciclete și parcurile urbane întregesc oferta turistică a zonei. Accesul din Montreal se face rapid prin podul Mercier, făcând din Châteauguay o escapadă ideală de weekend.", "en": "Châteauguay is nestled on the southern shore of Lake Saint-Louis, offering a perfect blend of urban proximity and natural splendor. The city is home to the renowned Île Saint-Bernard, a massive nature refuge situated at the confluence of the Châteauguay and St. Lawrence rivers. Within this refuge lies Johnson Beach, a popular summer spot for swimming, sunbathing, and enjoying views of the expansive lake. The island also features a historic manor and extensive trails for birdwatching and hiking.\n\nThe city boasts a rich heritage, significantly highlighted by the historic Saint-Joachim Church, a masterpiece of Quebec's religious architecture. Water enthusiasts flock here for exceptional boating, windsurfing, and fishing opportunities on the lake. Châteauguay also provides a network of cycling paths that connect various scenic parks throughout the municipality. Located just 25 kilometers from downtown Montreal via the Mercier Bridge, it is an accessible haven for those looking to immerse themselves in nature and history."}, "facts": {"de": ["Île Saint-Bernard", "Johnson Beach Seeufer", "Lake Saint-Louis", "Saint-Joachim Kirche", "Naturschutzgebiet", "Nähe zu Montreal", "Wassersportzentrum", "Historische Stätten"], "hu": ["Île Saint-Bernard sziget", "Johnson Beach strand", "Lake Saint-Louis partja", "Saint-Joachim templom", "Természetvédelmi terület", "Montreal közelsége", "Vízi sportok", "Kerékpárút-hálózat"], "ro": ["Insula Saint-Bernard", "Plaja Johnson Beach", "Lacul Saint-Louis", "Biserica Saint-Joachim", "Rezervație naturală", "Aproape de Montreal", "Activități nautice", "Piste de biciclete"], "en": ["Île Saint-Bernard refuge", "Johnson Beach", "Lake Saint-Louis views", "Saint-Joachim Church", "Nature preservation", "Montreal suburb", "Boating and fishing", "Heritage trails"]}, "image": "/poi-images/canada-chateauguay-cities-v2.webp"},
 {"id": "canada-montmagny-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Battures de Montmagny",
-                  "text": "Ein Strandbereich in Montmagny, der für seine Wattflächen und Vogelbeobachtungen bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        -70.5777,
-                        46.996025
-                  ]
-            },
-            {
-                  "name": "Cabaret Cogeco",
-                  "text": "Ein moderner Veranstaltungsort in Montmagny, an dem Konzerte und Liveshows stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.561305,
-                        46.979833
-                  ]
-            },
-            {
-                  "name": "Parc Marcel-Desjardins",
-                  "text": "Ein öffentlicher Park in Montmagny, der Freizeitraum für Bewohner und Besucher bietet.",
-                  "category": "park",
-                  "coords": [
-                        -70.567425,
-                        46.984563
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Battures de Montmagny",
-                  "text": "Strandterület Montmagnyban, amely árapálysíkságairól és madármegfigyeléseiről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        -70.5777,
-                        46.996025
-                  ]
-            },
-            {
-                  "name": "Cabaret Cogeco",
-                  "text": "Modern előadóhely Montmagnyban, amely koncerteknek és élő show-knak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.561305,
-                        46.979833
-                  ]
-            },
-            {
-                  "name": "Parc Marcel-Desjardins",
-                  "text": "Nyilvános park Montmagnyban, amely szabadidős teret biztosít a látogatóknak.",
-                  "category": "park",
-                  "coords": [
-                        -70.567425,
-                        46.984563
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Battures de Montmagny",
-                  "text": "O zonă de plajă în Montmagny, cunoscută pentru zonele de maree și observarea păsărilor.",
-                  "category": "recreational",
-                  "coords": [
-                        -70.5777,
-                        46.996025
-                  ]
-            },
-            {
-                  "name": "Cabaret Cogeco",
-                  "text": "O locație modernă de spectacole din Montmagny, care găzduiește concerte și spectacole live.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.561305,
-                        46.979833
-                  ]
-            },
-            {
-                  "name": "Parc Marcel-Desjardins",
-                  "text": "Un parc public din Montmagny care oferă spațiu de recreere pentru vizitatori.",
-                  "category": "park",
-                  "coords": [
-                        -70.567425,
-                        46.984563
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Battures de Montmagny",
-                  "text": "A beach area in Montmagny known for its tidal flats and birdwatching.",
-                  "category": "recreational",
-                  "coords": [
-                        -70.5777,
-                        46.996025
-                  ]
-            },
-            {
-                  "name": "Cabaret Cogeco",
-                  "text": "A modern performance venue in Montmagny hosting concerts and live shows.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.561305,
-                        46.979833
-                  ]
-            },
-            {
-                  "name": "Parc Marcel-Desjardins",
-                  "text": "A public park in Montmagny providing recreational space for visitors.",
-                  "category": "park",
-                  "coords": [
-                        -70.567425,
-                        46.984563
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "slug": "canada-montmagny-cities-v2", "coords": [-70.55592, 46.98263], "parent": "CA-QC", "tier": 2, "name": {"de": "Montmagny", "hu": "Montmagny", "ro": "Montmagny", "en": "Montmagny"}, "description": {"de": "Die Hauptstadt der Schneegänse am Sankt-Lorenz-Strom, Tor zum Isle-aux-Grues-Archipel und Zentrum der Akkordeonmusik.", "hu": "A hóludak fővárosa a Szent Lőrinc-folyó partján, az Isle-aux-Grues szigetvilág kapuja és a harmonikazene központja.", "ro": "Capitala gâștelor de zăpadă de pe fluviul Sfântul Laurențiu, poarta către arhipelagul Isle-aux-Grues și centrul muzicii de acordeon.", "en": "The snow goose capital of Quebec on the St. Lawrence River, gateway to the Isle-aux-Grues archipelago and accordion music hub."}, "descriptionAdvanced": {"de": "Montmagny liegt malerisch am Südufer des Sankt-Lorenz-Stroms und ist bekannt für seine beeindruckenden Gezeitenunterschiede. Die Battures de Montmagny sind weite Schlickflächen, die bei Ebbe freigelegt werden und ein Paradies für Tausende von Schneegänsen während ihrer Migration sind. Diese Küstenlandschaft bietet einzigartige Möglichkeiten zur Vogelbeobachtung und Naturfotografie. Die Stadt dient zudem als wichtiger Fährhafen zum Isle-aux-Grues-Archipel, einer Gruppe von Inseln mit unberührter Natur.\n\nKulturell ist Montmagny weltweit für sein internationales Akkordeonfestival bekannt, das jedes Jahr Musiker aus aller Welt anzieht. Das Musée de l'accordéon ist das einzige seiner Art in Quebec. Besucher können durch das historische Stadtzentrum schlendern, das von gut erhaltenen Häusern aus dem 19. Jahrhundert geprägt ist. Kulinarisch sollte man unbedingt den lokalen Käse von der Insel Isle-aux-Grues probieren. Montmagny ist etwa eine Autostunde östlich von Quebec City gelegen und über die Autobahn 20 leicht zu erreichen.", "hu": "Montmagny egy különleges folyóparti város Quebecben, ahol a Szent Lőrinc-folyó torkolata már-már tengeri hangulatot áraszt. A Battures de Montmagny területe híres a hatalmas ár-apály ingadozásról, apálykor pedig több ezer hólúd pihenőhelyévé válik a vonulás idején. Ez a természeti jelenség a város egyik legfőbb turisztikai vonzereje. A város kikötőjéből indulnak a kompok az Isle-aux-Grues szigetre, amely híres érintetlen tájairól és hagyományos életmódjáról.\n\nA település kulturális élete is gazdag: Montmagny a harmonikazene nemzetközi fővárosa, ahol minden évben nagyszabású fesztivált rendeznek, és itt található a tartomány egyetlen harmonikamúzeuma is. A belváros történelmi épületei és kisboltjai hívogató légkört teremtenek. A gasztronómia kedvelői megkóstolhatják a híres helyi sajtokat és a juharszirupos különlegességeket. Quebec városától keletre, mintegy 80 kilométerre fekszik, az autópályán gyorsan elérhető.", "ro": "Montmagny este un oraș pitoresc situat în regiunea Chaudière-Appalaches, renumit pentru legătura strânsă cu fluviul Sfântul Laurențiu. Battures de Montmagny reprezintă o zonă de mlaștini intertidale de o importanță ecologică majoră, fiind locul preferat de oprire pentru zeci de mii de gâște de zăpadă în timpul migrației. Peisajul se schimbă dramatic odată cu mareele, oferind vederi spectaculoase asupra arhipelagului din apropiere. Orașul este poarta principală către Isle-aux-Grues și situl istoric Grosse Île.\n\nPe plan cultural, Montmagny strălucește prin Carrefour mondial de l'accordéon, un festival internațional care celebrează acest instrument. Muzeul acordeonului din localitate este o oprire obligatorie pentru melomani. Centrul orașului este marcat de arhitectură victoriană și spații verzi relaxante, precum parcul Saint-Nicolas. Gastronomia locală este renumită pentru brânzeturile artizanale și produsele de patiserie tradiționale. Accesul este facil dinspre Quebec City, aflat la aproximativ o oră de mers cu mașina.", "en": "Montmagny is a captivating riverside city known for its dramatic tides and its status as the 'Snow Goose Capital.' The Battures de Montmagny consist of extensive tidal flats that provide a critical habitat for migrating geese, drawing nature enthusiasts and photographers from across the globe. This coastal stretch offers a unique window into the St. Lawrence estuary's ecosystem. The city also serves as the main ferry hub for the Isle-aux-Grues archipelago and the historic Grosse Île quarantine station site.\n\nCultural life in Montmagny is vibrant, centered around the international accordion festival held annually. The Accordion Museum provides a fascinating look at the instrument's history and local significance. The historic downtown area features charming 19th-century architecture and boutique shops. Visitors can enjoy local delicacies, particularly the world-class cheeses produced on the nearby islands. Located just east of Quebec City along Highway 20, Montmagny is a perfect stop for those exploring the maritime reaches of the province."}, "facts": {"de": ["Hauptstadt der Schneegänse", "Battures de Montmagny", "Isle-aux-Grues Tor", "Akkordeon-Zentrum", "St. Lorenz Ästuar", "Musée de l'accordéon", "Grosse Île Fähre", "Historischer Stadtkern"], "hu": ["Hóludak fővárosa", "Battures mocsárvidék", "Isle-aux-Grues kapuja", "Nemzetközi harmonikafesztivál", "Szent Lőrinc torkolat", "Harmonikamúzeum", "Grosse Île komp", "Történelmi városközpont"], "ro": ["Capitala gâștelor de zăpadă", "Battures de Montmagny", "Acces Isle-aux-Grues", "Festival de acordeon", "Fluviul Sf. Laurențiu", "Muzeul acordeonului", "Situl Grosse Île", "Arhitectură veche"], "en": ["Snow goose capital", "Battures de Montmagny", "Archipelago gateway", "Accordion world hub", "St. Lawrence estuary", "Accordion Museum", "Grosse Île ferry site", "Victorian architecture"]}, "image": "/poi-images/canada-montmagny-cities-v2.webp"},
 {"id": "usa-milbridge-cities-v2", "sights": {
       "de": [
@@ -174832,15 +167712,6 @@ export const naNewV1: POI[] = [
 {"id": "canada-torbay-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Shawn's Big Red Truck",
-                  "text": "Eine lokale Sehenswürdigkeit und ein markanter Punkt in Torbay.",
-                  "category": "landmark",
-                  "coords": [
-                        -52.725,
-                        47.647752
-                  ]
-            },
-            {
                   "name": "Torbay Beach",
                   "text": "Der Strand von Torbay bietet Zugang zur rauen Küstenlandschaft.",
                   "category": "recreational",
@@ -174851,15 +167722,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Shawn's Big Red Truck",
-                  "text": "Helyi látnivaló és jellegzetes pont Torbay területén.",
-                  "category": "landmark",
-                  "coords": [
-                        -52.725,
-                        47.647752
-                  ]
-            },
             {
                   "name": "Torbay Beach",
                   "text": "Torbay strandja hozzáférést biztosít a vadregényes partvidékhez.",
@@ -174872,15 +167734,6 @@ export const naNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Shawn's Big Red Truck",
-                  "text": "O atracție locală și un punct de reper în Torbay.",
-                  "category": "landmark",
-                  "coords": [
-                        -52.725,
-                        47.647752
-                  ]
-            },
-            {
                   "name": "Torbay Beach",
                   "text": "Plaja din Torbay oferă acces la peisajul de coastă accidentat.",
                   "category": "recreational",
@@ -174891,15 +167744,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Shawn's Big Red Truck",
-                  "text": "A local landmark and point of interest in Torbay.",
-                  "category": "landmark",
-                  "coords": [
-                        -52.725,
-                        47.647752
-                  ]
-            },
             {
                   "name": "Torbay Beach",
                   "text": "Torbay's beach provides access to the rugged coastal landscape.",
@@ -178310,50 +171154,10 @@ export const naNewV1: POI[] = [
 }, "type": "city", "slug": "usa-coral-gables-cities-v2", "name": {"de": "Coral Gables", "hu": "Coral Gables", "ro": "Coral Gables", "en": "Coral Gables"}, "description": {"de": "Eine elegante Stadt in Florida, bekannt für ihre mediterrane Architektur, üppige Alleen und den exklusiven Tahiti Beach.", "hu": "Elegáns floridai város, amely mediterrán építészetéről, buja sugárútjairól és az exkluzív Tahiti Beach-ről ismert.", "ro": "Un oraș elegant din Florida, cunoscut pentru arhitectura sa mediteraneană, bulevardele luxuriante și exclusivistul Tahiti Beach.", "en": "An elegant Florida city known for its Mediterranean Revival architecture, lush avenues, and the exclusive Tahiti Beach."}, "descriptionAdvanced": {"de": "Coral Gables, oft als „The City Beautiful“ bezeichnet, ist ein Meisterwerk der Stadtplanung aus den 1920er Jahren. Die von George Merrick entworfene Stadt besticht durch ihren mediterranen Stil, historische Wahrzeichen wie das Biltmore Hotel und den einzigartigen Venetian Pool. Die von Bäumen gesäumten Straßen und prächtigen Kanäle verleihen der Gegend eine zeitlose Eleganz, die sie von anderen Städten in Süd-Florida abhebt.\n\nFür Strandliebhaber bietet der exklusive Tahiti Beach in der bewachten Wohnanlage Cocoplum eine Oase der Ruhe. Obwohl er privat ist, symbolisiert ő den luxuriösen Küstenlebensstil der Region. Besucher können zudem den Fairchild Tropical Botanic Garden erkunden, der eine beeindruckende Sammlung seltener tropischer Pflanzen beherbergt. Die Gastronomie in der Miracle Mile bietet Weltklasse-Küche in einem gehobenen Ambiente.\n\nDie Stadt ist hervorragend mit dem Auto von Miami aus erreichbar und bietet ein ruhigeres, kultivierteres Erlebnis als das geschäftige South Beach. Mit ihren erstklassigen Museen, Kunstgalerien und Boutiquen ist Coral Gables ein Muss für Reisende, die Ästhetik und Geschichte schätzen. Das feuchte subtropische Klima sorgt das ganze Jahr über für eine blühende, grüne Umgebung.", "hu": "Coral Gables, amelyet gyakran „The City Beautiful” néven emlegetnek, az 1920-as évek várostervezésének mesterműve. A George Merrick által megálmodott település mediterrán stílusú épületeivel, történelmi nevezetességeivel, mint a Biltmore Hotel, és az egyedülálló Venetian Pool-lal bűvöli el a látogatókat. Az árnyas sugárutak és a festői csatornák olyan időtlen eleganciát kölcsönöznek a városnak, amely megkülönbözteti Dél-Florida más részeitől.\n\nA tengerpart szerelmesei számára a Cocoplum lakóparkban található Tahiti Beach jelent igazi paradicsomot. Bár a strand privát jellegű, tökéletesen jelképezi a környék luxus életvitelét. A látogatók felfedezhetik a Fairchild Trópusi Botanikus Kertet is, amely ritka növényfajok lenyűgöző gyűjteményét mutatja be. A Miracle Mile környékén világszínvonalú éttermek és elegáns üzletek várják a gasztronómia és a vásárlás kedvelőit.\n\nA város Miamiból autóval könnyen megközelíthető, és jóval nyugodtabb, kifinomultabb élményt nyújt, mint a nyüzsgő South Beach. Múzeumaival, művészeti galériáival és történelmi hangulatával Coral Gables ideális úti cél azoknak, akik értékelik az esztétikát és a történelmet. A párás szubtrópusi klíma egész évben garantálja a buja, zöldellő környezetet.", "ro": "Coral Gables, adesea numit „The City Beautiful”, este o capodoperă a planificării urbane din anii 1920. Creat de George Merrick, orașul impresionează prin stilul său mediteranean, repere istorice precum Hotelul Biltmore și unicul Venetian Pool. Străzile mărginite de copaci și canalele superbe oferă zonei o eleganță atemporală care o distinge de alte orașe din sudul Floridei.\n\nPentru iubitorii de plajă, exclusivista Tahiti Beach, situată în comunitatea închisă Cocoplum, oferă o oază de liniște. Deși este privată, aceasta simbolizează stilul de viață de lux de pe coastă. Vizitatorii pot explora, de asemenea, Grădina Botanică Tropicală Fairchild, care găzduiește o colecție impresionantă de plante rare. Gastronomia de pe Miracle Mile oferă preparate de talie mondială într-un ambient rafinat.\n\nOrașul este ușor accesibil cu mașina din Miami și oferă o experiență mai liniștită și sofisticată decât agitatul South Beach. Cu muzeele sale de clasă, galeriile de artă și buticurile elegante, Coral Gables este o destinație obligatorie pentru călătorii care apreciază estetica și istoria. Climatul subtropical umed asigură un mediu înverzit și înflorit pe tot parcursul anului.", "en": "Coral Gables, often called 'The City Beautiful,' is a masterpiece of 1920s urban planning. Designed by George Merrick, the city enchants with its Mediterranean Revival style, historical landmarks like the Biltmore Hotel, and the unique Venetian Pool. The tree-lined avenues and scenic canals provide the area with a timeless elegance that sets it apart from other South Florida cities.\n\nFor beach lovers, the exclusive Tahiti Beach within the Cocoplum gated community offers a serene escape. Though private, it epitomizes the luxurious coastal lifestyle of the region. Visitors can also explore the Fairchild Tropical Botanic Garden, which houses an impressive collection of rare tropical plants. The gastronomy along Miracle Mile offers world-class cuisine in an upscale setting.\n\nTe city is easily accessible by car from Miami and offers a much calmer, more sophisticated experience than bustling South Beach. With its high-end museums, art galleries, and boutiques, Coral Gables is a must-visit for travelers who appreciate aesthetics and history. The humid subtropical climate ensures a lush, green environment year-round."}, "facts": {"de": ["Gründer: George Merrick", "Architektur: Mediterraner Stil", "Wahrzeichen: Biltmore Hotel", "Pool: Venetian Pool", "Strand: Tahiti Beach (privat)", "Garten: Fairchild Botanic Garden", "Shopping: Miracle Mile", "Klima: Subtropisch"], "hu": ["Alapító: George Merrick", "Stílus: Mediterrán újjászületés", "Jellegzetesség: Biltmore Hotel", "Fürdő: Venetian Pool", "Strand: Tahiti Beach (privát)", "Kert: Fairchild Botanikus Kert", "Vásárlás: Miracle Mile", "Klíma: Szubtrópusi"], "ro": ["Fondator: George Merrick", "Stil: Renaștere Mediteraneană", "Repere: Hotelul Biltmore", "Piscina: Venetian Pool", "Plaja: Tahiti Beach (privată)", "Grădina: Fairchild Botanic Garden", "Cumpărături: Miracle Mile", "Climat: Subtropical"], "en": ["Founder: George Merrick", "Style: Mediterranean Revival", "Landmark: Biltmore Hotel", "Pool: Venetian Pool", "Beach: Tahiti Beach (private)", "Garden: Fairchild Botanic Garden", "Shopping: Miracle Mile", "Climate: Subtropical"]}, "coords": [-80.24946, 25.67676], "parent": "US-FL", "tier": 2, "image": "/poi-images/usa-coral-gables-cities-v2.webp"},
 {"id": "mexico-el-coacoyul-cities-v2", "type": "city", "slug": "mexico-el-coacoyul-cities-v2", "name": {"de": "El Coacoyul", "hu": "El Coacoyul", "ro": "El Coacoyul", "en": "El Coacoyul"}, "description": {"de": "Ein authentisches mexikanisches Dorf in Guerrero, nahe Zihuatanejo, bekannt für den weitläufigen Playa Larga.", "hu": "Autentikus mexikói település Guerrero államban, Zihuatanejo közelében, a hatalmas Playa Larga strand mellett.", "ro": "Un sat mexican autentic în Guerrero, lângă Zihuatanejo, cunoscut pentru vasta Playa Larga.", "en": "An authentic Mexican village in Guerrero, near Zihuatanejo, known for the expansive Playa Larga beach."}, "descriptionAdvanced": {"de": "El Coacoyul ist ein charmantes, traditionelles Dorf im Bundesstaat Guerrero, das einen authentischen Einblick in das mexikanische Alltagsleben bietet. Strategisch günstig in der Nähe des internationalen Flughafens Ixtapa-Zihuatanejo gelegen, dient es als Tor zu unberührten Küstenabschnitten. Das Dorf ist umgeben von Kokosnussplantagen und üppiger Vegetation, was der Region eine entspannte, tropische Atmosphäre verleiht.\n\nDer Hauptanziehungspunkt ist Playa Larga, ein kilometerlanger, naturbelassener Sandstrand, der ideal für lange Spaziergänge, Reitausflüge und das Beobachten von Sonnenuntergängen ist. Aufgrund der starken Brandung ist er weniger zum Schwimmen, dafür aber perfekt für Ruhesuchende geeignet. Entlang des Strandes finden sich gemütliche „Enramadas“ (überdachte Restaurants), die fangfrischen Fisch und lokale Spezialitäten wie „Pescado a la Talla“ servieren.\n\nBesucher schätzen die Einfachheit und Gastfreundschaft des Ortes. Abseits des Massentourismus kann man hier das wahre Mexiko erleben, während die Annehmlichkeiten von Zihuatanejo nur eine kurze Autofahrt entfernt sind. Die Region ist auch für ihre Bemühungen zum Schutz von Meeresschildkröten bekannt, wobei Gäste oft die Gelegenheit haben, an der Freilassung von Jungtieren teilzunehmen. Das Klima ist das ganze Jahr über warm und sonnig.", "hu": "El Coacoyul egy bájos, hagyományos település Guerrero államban, amely betekintést enged a valódi mexikói mindennapokba. Stratégiai elhelyezkedése az Ixtapa-Zihuatanejo nemzetközi repülőtér közelében ideális kiindulóponttá teszi a környék felfedezéséhez. A falut kókuszültetvények és dús trópusi növényzet veszi körül, ami békés és természetközeli hangulatot áraszt.\n\nA környék ékköve a Playa Larga, egy több kilométer hosszú, érintetlen homokos tengerpart, amely tökéletes nagy sétákhoz, lovagláshoz vagy a naplemente megcsodálásához. Az erős hullámzás miatt a strand inkább a pihenésre vágyók, semmint az úszók paradicsoma. A parton található barátságos „enramadákban” (nádfedeles éttermekben) frissen fogott halakat és olyan helyi finomságokat kóstolhatunk, mint a „pescado a la talla”.\n\nA látogatók nagyra értékelik a hely egyszerűségét és vendégszeretetét. Távol a tömegturizmustól, itt megtapasztalható az igazi Mexikó, miközben Zihuatanejo modern kényelme csak egy rövid autóútra van. A terület híres a tengeri teknősök védelméről is, a látogatóknak gyakran van lehetőségük részt venni a kis teknősök tengerbe engedésében. A klíma egész évben meleg és napsütéses.", "ro": "El Coacoyul este un sat tradițional fermecător din statul Guerrero, oferind o privire autentică asupra vieții de zi cu zi din Mexic. Situat strategic lângă Aeroportul Internațional Ixtapa-Zihuatanejo, acesta servește ca poartă către porțiuni de coastă neatinse. Satul este înconjurat de plantații de nucă de cocos și vegetație luxuriantă, oferind regiunii o atmosferă relaxată și tropicală.\n\nAtracția principală este Playa Larga, o plajă de nisip naturală de câțiva kilometri lungime, ideală pentru plimbări lungi, echitație și admirarea apusurilor de soare. Din cauza valurilor puternice, este mai puțin potrivită pentru înot, dar perfectă pentru cei care caută liniștea. De-a lungul plajei se găsesc „enramadas” primitoare (restaurante acoperite) care servesc pește proaspăt și specialități locale precum „pescado a la talla”.\n\nVizitatorii apreciază simplitatea și ospitalitatea locului. Departe de turismul de masă, aici puteți experimenta Mexicul adevărat, în timp ce facilitățile din Zihuatanejo sunt la doar o scurtă distanță de condus. Regiunea este cunoscută și pentru eforturile de conservare a țestoaselor marine, oaspeții având adesea ocazia de a participa la eliberarea puilor de țestoasă. Climatul este cald și însorit pe tot parcursul anului.", "en": "El Coacoyul is a charming, traditional village in the state of Guerrero, offering an authentic glimpse into everyday Mexican life. Strategically located near the Ixtapa-Zihuatanejo International Airport, it serves as a gateway to pristine stretches of coastline. The village is surrounded by coconut plantations and lush vegetation, giving the region a relaxed, tropical vibe.\n\nThe main attraction is Playa Larga, a miles-long, natural sandy beach ideal for long walks, horseback riding, and watching sunsets. Due to strong undercurrents, it is less suited for swimming but perfect for those seeking peace and solitude. Along the beach, cozy 'enramadas' (thatch-roofed restaurants) serve freshly caught fish and local specialties like 'pescado a la talla.'\n\nVisitors appreciate the simplicity and hospitality of the locals. Away from mass tourism, one can experience the true Mexico here, while the amenities of Zihuatanejo are just a short drive away. The region is also known for its sea turtle conservation efforts, where guests often have the chance to participate in hatchling releases. The climate remains warm and sunny year-round."}, "facts": {"de": ["Lage: Bundesstaat Guerrero", "Nähe: Flughafen Zihuatanejo", "Strand: Playa Larga", "Aktivität: Reiten am Strand", "Essen: Pescado a la Talla", "Natur: Kokosnussplantagen", "Kultur: Traditionelles Dorf", "Artenschutz: Meeresschildkröten"], "hu": ["Állam: Guerrero", "Közelség: Zihuatanejo repülőtér", "Strand: Playa Larga", "Program: Lovaglás a parton", "Gasztronómia: Pescado a la Talla", "Környezet: Kókuszültetvények", "Hangulat: Autentikus mexikói falu", "Természet: Teknősvédelem"], "ro": ["Stat: Guerrero", "Proximitate: Aeroport Zihuatanejo", "Plaja: Playa Larga", "Activitate: Echitație pe plajă", "Gastronomie: Pescado a la Talla", "Natură: Plantații de cocos", "Atmosferă: Sat tradițional", "Conservare: Țestoase marine"], "en": ["State: Guerrero", "Proximity: Zihuatanejo Airport", "Beach: Playa Larga", "Activity: Horseback riding", "Food: Pescado a la Talla", "Nature: Coconut plantations", "Vibe: Authentic Mexican village", "Conservation: Sea turtles"]}, "coords": [-101.47812, 17.63976], "parent": "MX-GRO", "tier": 2, "image": "/poi-images/mexico-el-coacoyul-cities-v2.webp"},
 {"id": "mexico-nopolo-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Beach Loreto Bay",
-                  "text": "Ein schöner Strandbereich in Nopoló, beliebt für sein ruhiges Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        -111.348162,
-                        25.922072
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Beach Loreto Bay",
-                  "text": "Gyönyörű tengerparti rész Nopolóban, amely nyugodt vizéről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        -111.348162,
-                        25.922072
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Beach Loreto Bay",
-                  "text": "O zonă de plajă frumoasă în Nopoló, populară pentru apele sale liniștite.",
-                  "category": "recreational",
-                  "coords": [
-                        -111.348162,
-                        25.922072
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Beach Loreto Bay",
-                  "text": "A beautiful beach area in Nopoló, popular for its calm waters.",
-                  "category": "recreational",
-                  "coords": [
-                        -111.348162,
-                        25.922072
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "slug": "mexico-nopolo-cities-v2", "name": {"de": "Nopoló", "hu": "Nopoló", "ro": "Nopoló", "en": "Nopoló"}, "description": {"de": "Ein exklusives Resort-Viertel in Baja California Sur am Golf von Kalifornien, bekannt für die Loreto Bay.", "hu": "Exkluzív üdülőhely Baja California Sur államban, a Kaliforniai-öböl partján, a Loreto Bay strandjáról híres.", "ro": "Un cartier exclusivist de stațiune în Baja California Sur, la Golful California, cunoscut pentru Loreto Bay.", "en": "An exclusive resort area in Baja California Sur on the Gulf of California, famous for Loreto Bay."}, "descriptionAdvanced": {"de": "Nopoló ist ein exklusives Reiseziel südlich der historischen Stadt Loreto in Baja California Sur. Die Siedlung ist bekannt für ihre harmonische Architektur, die sich perfekt in die trockene Wüstenlandschaft und das azurblaue Wasser des Golfs von Kalifornien einfügt. Mit der majestätischen Sierra de la Giganta im Hintergrund bietet Nopoló eine spektakuläre Kulisse, die Naturliebhaber und Ruhesuchende gleichermaßen fasziniert.\n\nDas Herzstück ist der Beach Loreto Bay, ein ruhiger Strand mit kristallklarem Wasser, der ideal zum Kajakfahren, Schnorcheln und Stand-up-Paddling ist. Die Region gehört zum Loreto Bay National Marine Park, der für seinen außergewöhnlichen Reichtum an Meereslebewesen, darunter Wale und Delfine, bekannt ist. Ein erstklassiger Golfplatz mit Blick auf das Meer macht Nopoló zudem zu einem Favoriten für Sportbegeisterte.\n\nDie Gemeinschaft in Loreto Bay ist auf Nachhaltigkeit und ein entspanntes Lebensgefühl ausgelegt. In den charmanten Gassen finden Besucher kleine Cafés, Boutiquen und Restaurants, die frische Meeresfrüchte und regionale Weine servieren. Die Anreise ist über den internationalen Flughafen Loreto unkompliziert. Wer den Kontrast zwischen rauer Wüste und glitzerndem Meer sucht, wird in Nopoló ein luxuriöses und dennoch naturverbundenes Paradies finden.", "hu": "Nopoló egy exkluzív üdülőövezet a történelmi Loreto városától délre, Baja California Sur államban. A település híres harmonikus építészetéről, amely tökéletesen illeszkedik a sivatagi tájba és a Kaliforniai-öböl azúrkék vizéhez. A háttérben magasodó fenséges Sierra de la Giganta hegység látványa lenyűgöző díszletet nyújt, amely a természet szerelmeseit és a nyugalomra vágyókat egyaránt rabul ejti.\n\nA központi helyszín a Beach Loreto Bay, egy nyugodt, kristálytiszta vizű strand, amely kiválóan alkalmas kajakozásra, sznorkelezésre és evezésre. A terület a Loreto Bay Nemzeti Tengeri Park része, amely rendkívül gazdag élővilágáról, többek között bálnáiról és delfinjeiről ismert. A tengerre néző, világszínvonalú golfpálya pedig a sport kedvelőinek teszi Nopolót vonzó célponttá.\n\nA Loreto Bay közösség a fenntarthatóságra és a pihentető életmódra épült. A bájos utcácskákban kis kávézókat, butikokat és kiváló éttermeket találunk, ahol friss tengeri ételeket és helyi borokat szolgálnak fel. A megközelítés egyszerű a loretói nemzetközi repülőtéren keresztül. Aki a vad sivatag és a csillogó tenger kontrasztját keresi, Nopolóban luxus kivitelű, mégis természetközeli paradicsomra lel.", "ro": "Nopoló este o destinație exclusivistă situată la sud de orașul istoric Loreto, în Baja California Sur. Așezarea este cunoscută pentru arhitectura sa armonioasă, care se integrează perfect în peisajul arid de deșert și apele azurii ale Golfului California. Cu maiestuoasa Sierra de la Giganta în fundal, Nopoló oferă un cadru spectaculos care fascinează deopotrivă iubitorii de natură și pe cei care caută liniștea.\n\nPunctul central este Beach Loreto Bay, o plajă liniștită cu ape cristaline, ideală pentru caiac, snorkeling și stand-up paddling. Regiunea face parte din Parcul Național Marin Loreto Bay, cunoscut pentru bogăția sa excepțională de viață marină, inclusiv balene și delfini. Un teren de golf de clasă mondială cu vedere la mare face din Nopoló un favorit și pentru pasionații de sport.\n\nComunitatea din Loreto Bay este concepută pentru sustenabilitate și un stil de viață relaxat. Pe străzile fermecătoare, vizitatorii pot găsi mici cafenele, buticuri și restaurante care servesc fructe de mare proaspete și vinuri regionale. Accesul este simplu prin Aeroportul Internațional Loreto. Cei care caută contrastul dintre deșertul sălbatic și marea strălucitoare vor găsi în Nopoló un paradis luxos, dar conectat la natură.", "en": "Nopoló is an exclusive resort destination located south of the historic town of Loreto in Baja California Sur. The settlement is renowned for its harmonious architecture that blends perfectly with the arid desert landscape and the azure waters of the Gulf of California. With the majestic Sierra de la Giganta mountains in the background, Nopoló offers a spectacular setting that fascinates nature lovers and serenity seekers alike.\n\nThe centerpiece is Beach Loreto Bay, a calm beach with crystal-clear waters ideal for kayaking, snorkeling, and stand-up paddling. The region is part of the Loreto Bay National Marine Park, famous for its extraordinary marine life, including whales and dolphins. A world-class golf course overlooking the sea also makes Nopoló a favorite for sports enthusiasts.\n\nThe community in Loreto Bay is designed around sustainability and a relaxed lifestyle. Along the charming walkways, visitors find small cafes, boutiques, and restaurants serving fresh seafood and regional wines. Access is straightforward via the Loreto International Airport. Those looking for the contrast between the rugged desert and the sparkling sea will find Nopoló to be a luxurious yet nature-oriented paradise."}, "facts": {"de": ["Ort: Baja California Sur", "Gewässer: Golf von Kalifornien", "Strand: Beach Loreto Bay", "Gebirge: Sierra de la Giganta", "Park: Loreto Bay Marine Park", "Sport: Weltklasse-Golf", "Tiere: Walbeobachtung", "Flughafen: Loreto (LTO)"], "hu": ["Helyszín: Baja California Sur", "Vízpart: Kaliforniai-öböl", "Strand: Beach Loreto Bay", "Hegység: Sierra de la Giganta", "Park: Loreto Bay Nemzeti Park", "Sport: Prémium golfpálya", "Élővilág: Bálnales", "Repülőtér: Loreto (LTO)"], "ro": ["Locație: Baja California Sur", "Ape: Golful California", "Plaja: Beach Loreto Bay", "Munți: Sierra de la Giganta", "Parc: Loreto Bay Marine Park", "Sport: Golf de talie mondială", "Faună: Observarea balenelor", "Aeroport: Loreto (LTO)"], "en": ["Location: Baja California Sur", "Water: Gulf of California", "Beach: Beach Loreto Bay", "Mountains: Sierra de la Giganta", "Park: Loreto Bay Marine Park", "Sport: World-class golf", "Wildlife: Whale watching", "Airport: Loreto (LTO)"]}, "coords": [-111.35963, 25.93094], "parent": "MX-BCS", "tier": 2, "image": "/poi-images/mexico-nopolo-cities-v2.webp"},
 {"id": "mexico-eldorado-cities-v2", "type": "city", "slug": "mexico-eldorado-cities-v2", "name": {"de": "Eldorado", "hu": "Eldorado", "ro": "Eldorado", "en": "Eldorado"}, "description": {"de": "Eine Küstenstadt in Sinaloa, bekannt für ihre Landwirtschaft und die Playas de Ponce am Pazifik.", "hu": "Tengerparti város Sinaloa államban, amely mezőgazdaságáról és a Csendes-óceán menti Playas de Ponce strandról ismert.", "ro": "Un oraș de coastă în Sinaloa, cunoscut pentru agricultură și Playas de Ponce de la Oceanul Pacific.", "en": "A coastal town in Sinaloa known for its agriculture and the Playas de Ponce on the Pacific coast."}, "descriptionAdvanced": {"de": "Eldorado ist eine bedeutende Stadt im Bundesstaat Sinaloa, südlich der Landeshauptstadt Culiacán. Ursprünglich um eine große Zuckermühle herum entstanden, hat sich der Ort zu einem wichtigen landwirtschaftlichen und kommerziellen Zentrum der Region entwickelt. Die Stadt bewahrt eine traditionelle Atmosphäre mit lebhaften Märkten und einer starken kulturellen Identität, die tief in der Geschichte Sinaloas verwurzelt ist.\n\nNur wenige Kilometer vom Stadtzentrum entfernt befinden sich die Playas de Ponce, das wichtigste Naherholungsgebiet der Region. Dieser weitläufige Küstenabschnitt am Pazifischen Ozean ist besonders bei Einheimischen beliebt, die hier an Wochenenden zusammenkommen, um die Meeresbrise und frische Meeresfrüchte zu genießen. Der Strand ist bekannt für seine natürliche Schönheit und die Möglichkeit, traditionelles Küstenleben fernab großer Hotelketten zu erleben.\n\nDie Gastronomie in Eldorado ist exzellent und bietet die typischen Aromen Sinaloas, insbesondere Garnelen- und Fischgerichte wie Aguachile. Die Anreise erfolgt meist über Culiacán, von wo aus gut ausgebaute Straßen in die Stadt führen. Eldorado bietet Reisenden die Chance, das authentische, fleißige Gesicht Mexikos kennenzulernen, ergänzt durch die entspannte Stimmung an den Playas de Ponce. Das Klima ist heiß und feucht, typisch für die pazifische Küstenebene.", "hu": "Eldorado Sinaloa állam egyik meghatározó települése, a fővárostól, Culiacántól délre fekszik. A város eredetileg egy hatalmas cukornád-feldolgozó üzem köré épült, mára azonban a régió fontos mezőgazdasági és kereskedelmi központjává vált. Eldorado megőrizte hagyományos jellegét, élénk piacaival és erős kulturális identitásával a hamisítatlan sinaloai életérzést tükrözi.\n\nA városközponttól csupán néhány kilométerre található a Playas de Ponce, amely a környék legnépszerűbb pihenőhelye. A Csendes-óceán partján elterülő tágas strand különösen a helyiek körében kedvelt, akik hétvégenként itt gyűlnek össze élvezni a tengeri szellőt és a frissen készült tengeri finomságokat. A part természetes szépségével és a nagy szállodakomplexumok hiányával tűnik ki, így valódi kikapcsolódást nyújt.\n\nEldorado gasztronómiája kiemelkedő, a sinaloai konyha legjavát kínálja, különös tekintettel a rák- és halételekre, mint például az aguachile. A város legkönnyebben Culiacán felől érhető el jól karbantartott utakon. Eldorado lehetőséget ad az utazóknak, hogy megismerjék Mexikó dolgos, autentikus arcát, amelyet a Playas de Ponce pihentető hangulata egészít ki. A klíma forró és párás, ami jellemző a csendes-óceáni partvidékre.", "ro": "Eldorado este un oraș important din statul Sinaloa, situat la sud de capitala statului, Culiacán. Dezvoltat inițial în jurul unei mari fabrici de zahăr, locul a devenit un centru agricol și comercial vital al regiunii. Orașul păstrează o atmosferă tradițională, cu piețe pline de viață și o identitate culturală puternică, adânc înrădăcinată în istoria Sinaloei.\n\nLa doar câțiva kilometri de centrul orașului se află Playas de Ponce, principala zonă de recreere din regiune. Această porțiune vastă de coastă de la Oceanul Pacific este deosebit de populară printre localnici, care se adună aici în weekenduri pentru a se bucura de briza mării și de fructe de mare proaspete. Plaja este cunoscută pentru frumusețea sa naturală și pentru șansa de a experimenta viața de coastă tradițională, departe de marile lanțuri hoteliere.\n\nGastronomia din Eldorado este excelentă, oferind aromele tipice din Sinaloa, în special preparate din creveți și pește, cum ar fi aguachile. Accesul se face de obicei prin Culiacán, de unde drumuri bine întreținute duc spre oraș. Eldorado oferă călătorilor șansa de a cunoaște fața autentică și harnică a Mexicului, completată de atmosfera relaxată de la Playas de Ponce. Climatul este cald și umed, tipic pentru câmpia de coastă a Pacificului.", "en": "Eldorado is a significant town in the state of Sinaloa, located south of the state capital, Culiacán. Originally developed around a large sugar mill, the area has grown into a vital agricultural and commercial hub for the region. The town maintains a traditional atmosphere with lively markets and a strong cultural identity deeply rooted in Sinaloan history.\n\nJust a few miles from the town center lies Playas de Ponce, the region's most popular recreational area. This expansive stretch of coastline on the Pacific Ocean is a favorite among locals, who gather here on weekends to enjoy the sea breeze and fresh seafood. The beach is known for its natural beauty and the opportunity to experience traditional coastal life away from large hotel chains.\n\nThe gastronomy in Eldorado is excellent, featuring typical Sinaloan flavors, especially shrimp and fish dishes like aguachile. Access is primarily through Culiacán, with well-maintained roads leading to the town. Eldorado offers travelers a chance to see the authentic, hardworking side of Mexico, complemented by the laid-back vibe at Playas de Ponce. The climate is hot and humid, typical of the Pacific coastal plain."}, "facts": {"de": ["Staat: Sinaloa", "Zentrum: Culiacán-Region", "Strand: Playas de Ponce", "Wirtschaft: Landwirtschaft", "Geschichte: Ehemalige Zuckermühle", "Essen: Sinaloa-Aguachile", "Küste: Pazifischer Ozean", "Klima: Heiß und feucht"], "hu": ["Állam: Sinaloa", "Közeli város: Culiacán", "Strand: Playas de Ponce", "Gazdaság: Mezőgazdaság", "Múlt: Cukornád-ipar", "Étel: Sinaloai aguachile", "Partvidék: Csendes-óceán", "Időjárás: Forró és párás"], "ro": ["Stat: Sinaloa", "Regiune: Lângă Culiacán", "Plaja: Playas de Ponce", "Economie: Agricultură", "Istorie: Fosta fabrică de zahăr", "Mâncare: Aguachile de Sinaloa", "Țărm: Oceanul Pacific", "Climat: Cald și umed"], "en": ["State: Sinaloa", "Region: Near Culiacán", "Beach: Playas de Ponce", "Economy: Agriculture", "History: Former sugar mill", "Food: Sinaloan aguachile", "Coast: Pacific Ocean", "Climate: Hot and humid"]}, "coords": [-107.36448, 24.32263], "parent": "MX-SIN", "tier": 2, "image": "/poi-images/mexico-eldorado-cities-v2.webp"},
 {"id": "mexico-careyes-cities-v2", "sights": {
@@ -179824,15 +172628,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Old Saint Hilarys Church",
-                  "text": "Eine historische Holzkirche in Tiburon, die heute als Wahrzeichen und Veranstaltungsort dient.",
-                  "category": "religious",
-                  "coords": [
-                        -122.456118,
-                        37.878667
-                  ]
-            },
-            {
                   "name": "Belvedere Park",
                   "text": "Ein zentraler Park in Belvedere-Tiburon mit Spielplätzen und Grünflächen.",
                   "category": "park",
@@ -179985,15 +172780,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -122.454396,
                         37.884031
-                  ]
-            },
-            {
-                  "name": "Old Saint Hilarys Church",
-                  "text": "Történelmi fatemplom Tiburonban, amely ma jelképként és rendezvényhelyszínként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        -122.456118,
-                        37.878667
                   ]
             },
             {
@@ -180152,15 +172938,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Old Saint Hilarys Church",
-                  "text": "O biserică istorică din lemn în Tiburon, care servește acum ca punct de reper și loc de evenimente.",
-                  "category": "religious",
-                  "coords": [
-                        -122.456118,
-                        37.878667
-                  ]
-            },
-            {
                   "name": "Belvedere Park",
                   "text": "Un parc central în Belvedere-Tiburon, dotat cu terenuri de joacă și spații verzi.",
                   "category": "park",
@@ -180313,15 +173090,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -122.454396,
                         37.884031
-                  ]
-            },
-            {
-                  "name": "Old Saint Hilarys Church",
-                  "text": "A historic wooden church in Tiburon that now serves as a landmark and event venue.",
-                  "category": "religious",
-                  "coords": [
-                        -122.456118,
-                        37.878667
                   ]
             },
             {
@@ -181501,50 +174269,10 @@ export const naNewV1: POI[] = [
       ]
 }, "type": "city", "name": {"de": "Rockland", "hu": "Rockland", "ro": "Rockland", "en": "Rockland"}, "description": {"de": "Rockland ist die Hummer-Hauptstadt der Welt und ein kulturelles Zentrum an der Küste von Maine.", "hu": "Rockland a világ homárfővárosa, Maine állam egyik legfontosabb kikötővárosa és művészeti központja.", "ro": "Rockland este capitala mondială a homarului și un centru cultural vibrant pe coasta statului Maine.", "en": "Rockland is the lobster capital of the world and a thriving cultural hub on the scenic Maine coast."}, "descriptionAdvanced": {"de": "Rockland, gelegen an der Penobscot Bay, gilt als das maritime Herz von Maine. Die Stadt ist weltberühmt für das alljährliche Maine Lobster Festival und beherbergt eine der größten Fangflotten des Bundesstaates. Besucher schätzen das historische Stadtzentrum mit seinen Backsteingebäuden, in denen sich erstklassige Kunstgalerien wie das Farnsworth Art Museum befinden. Ein Highlight ist der fast eine Meile lange Granit-Wellenbrecher, der zum Rockland Breakwater Lighthouse führt.\n\nDer lokale Sandy Beach bietet einen ruhigen Rückzugsort für Familien und Naturliebhaber, die das kühle Wasser des Atlantiks genießen möchten. Die maritime Atmosphäre wird durch die zahlreichen Windjammer-Segelschiffe ergänzt, die im Hafen liegen. Kulinarisch dreht sich alles um fangfrischen Fisch und Meeresfrüchte. Rockland ist über den US Highway 1 leicht erreichbar und dient als wichtiger Fährknotenpunkt für die vorgelagerten Inseln der Bucht.", "hu": "Rockland a Penobscot-öböl partján fekszik, és méltán viseli a világ homárfővárosa címet. A város Maine állam egyik legfontosabb tengeri kikötője, ahol a történelmi belváros téglaépületei között modern művészeti galériák, például a híres Farnsworth Art Museum sorakoznak. A látogatók egyik kedvenc programja a több mint egy kilométer hosszú mólón való séta a Rockland Breakwater világítótoronyhoz, ahonnan pazar kilátás nyílik az óceánra.\n\nA helyi Sandy Beach ideális helyszín a pihenésre és a tengerparti kikapcsolódásra a hűvösebb atlanti vizek mentén. A város gasztronómiája a frissen fogott tengeri herkentyűkre épül, különösen az évente megrendezett homárfesztivál idején. Rockland kiváló kiindulópont a közeli szigetek felfedezéséhez, a közlekedést pedig az 1-es főút és a rendszeres kompjáratok biztosítják. A városban a vitorlázás és a hajózás hagyományai a mai napig meghatározzák a mindennapokat.", "ro": "Rockland, situat în Golful Penobscot, este inima maritimă a statului Maine și sediul celebrului Festival al Homarului. Orașul îmbină moștenirea industrială a pescuitului cu o scenă artistică sofisticată, găzduind muzee de renume precum Farnsworth Art Museum. Centrul istoric este plin de farmec, cu magazine locale și restaurante care servesc cele mai bune preparate din fructe de mare din regiune. O plimbare pe digul de granit lung de aproape doi kilometri până la farul Rockland Breakwater este obligatorie pentru orice vizitator.\n\nPlaja Sandy Beach oferă un spațiu relaxant pentru cei care doresc să se bucure de briza oceanului și de peisajele costiere tipice din Noua Anglie. Gastronomia locală pune accent pe prospețime, homarul fiind vedeta incontestabilă a meniurilor. Orașul este ușor accesibil prin autostrada US 1 și funcționează ca un nod principal de feribot pentru insulele învecinate. Atmosfera autentică de port și ambarcațiunile istorice de tip windjammer completează decorul pitoresc al acestei destinații americane.", "en": "Rockland, nestled on the shores of Penobscot Bay, is the undisputed lobster capital of the world. This Maine gem serves as a primary fishing port and a distinguished arts destination, home to the prestigious Farnsworth Art Museum. The historic downtown features well-preserved brick architecture housing creative galleries and boutique shops. A signature experience is walking the nearly mile-long granite breakwater that leads to the iconic Rockland Breakwater Lighthouse, offering panoramic bay views.\n\nSandy Beach provides a peaceful coastal escape for sunbathing and enjoying the Atlantic's refreshing waters. The city's culinary scene is defined by dock-to-table seafood, showcased during the annual Maine Lobster Festival. Rockland is conveniently located off US Route 1 and serves as a vital ferry hub for the surrounding islands. Whether exploring the maritime heritage or enjoying the local windjammer fleet, visitors find an authentic New England experience here that blends industrial grit with coastal elegance."}, "facts": {"de": ["Hummer-Hauptstadt", "Farnsworth Museum", "Maine Lobster Festival", "Wellenbrecher-Lighthouse", "Penobscot Bay", "Windjammer-Flotte", "Sandy Beach", "US Route 1"], "hu": ["Világ homárfővárosa", "Farnsworth Művészeti Múzeum", "Éves homárfesztivál", "Hosszú gránit móló", "Penobscot-öböl", "Történelmi vitorlások", "Sandy Beach strand", "Kikötői kompjáratok"], "ro": ["Capitala homarului", "Muzeul de Artă Farnsworth", "Festivalul Homarului", "Farul de pe dig", "Golful Penobscot", "Flotă de windjammere", "Plaja Sandy Beach", "Acces prin US Route 1"], "en": ["Lobster capital of the world", "Farnsworth Art Museum", "Maine Lobster Festival", "Mile-long breakwater", "Penobscot Bay location", "Historic windjammer fleet", "Sandy Beach access", "Primary ferry hub"]}, "coords": [-69.10918, 44.10483], "parent": "US-ME", "tier": 2, "image": "/poi-images/usa-rockland-cities-v2.webp"},
 {"id": "canada-les-iles-de-la-madeleine-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Phare de l'Échouerie",
-                  "text": "Ein malerischer Leuchtturm auf den Klippen der Magdalenen-Inseln.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.773528,
-                        47.390905
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Phare de l'Échouerie",
-                  "text": "Festői világítótorony a Magdolna-szigetek szikláin.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.773528,
-                        47.390905
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Phare de l'Échouerie",
-                  "text": "Un far pitoresc de pe stâncile Insulelor Magdalen.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.773528,
-                        47.390905
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cap-Alright Lighthouse",
-                  "text": "A picturesque lighthouse on the cliffs of the Magdalen Islands.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.773528,
-                        47.390905
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "name": {"de": "Les Îles-de-la-Madeleine", "hu": "Les Îles-de-la-Madeleine", "ro": "Les Îles-de-la-Madeleine", "en": "Les Îles-de-la-Madeleine"}, "description": {"de": "Ein atemberaubender Archipel im St.-Lorenz-Golf mit roten Sandsteinfelsen und akadischer Kultur.", "hu": "Látványos szigetcsoport a Szent Lőrinc-öbölben, vörös homokkő sziklákkal és élénk akád kultúrával.", "ro": "Un arhipelag spectaculos în Golful Sfântului Laurențiu, renumit pentru stâncile roșii și cultura acadiană.", "en": "A stunning archipelago in the Gulf of St. Lawrence known for red sandstone cliffs and Acadian culture."}, "descriptionAdvanced": {"de": "Les Îles-de-la-Madeleine (Magdalenen-Inseln) sind ein verstecktes Juwel in Québec. Der Archipel besteht aus einem Dutzend Inseln, die durch lange Sanddünen miteinander verbunden sind. Die Landschaft ist geprägt von sanften grünen Hügeln, bunten Holzhäusern und den dramatischen roten Steilküsten, die gegen das tiefblaue Meer kontrastieren. Die Bewohner, die Madelinots, bewahren stolz ihre akadische Identität und französische Sprache, was sich in einer herzlichen Gastfreundschaft und lebendigen Musikszene widerspiegelt.\n\nDie Plage de la Dune du Nord ist einer der beeindruckendsten Strände und erstreckt sich über Kilometer mit feinem Sand, ideal für Windsurfen und Kitesurfen. Die lokale Gastronomie ist exzellent und basiert auf Schneekrabben, Hummer und handwerklichem Käse. Der Tourismus ist nachhaltig geprägt, mit Fokus auf Naturbeobachtung und Wandern. Die Anreise erfolgt meist per Fähre von Prince Edward Island oder per Flugzeug zum kleinen Inselflughafen. Es ist ein Ort der Entschleunigung, an dem Wind und Gezeiten den Rhythmus des Lebens bestimmen.", "hu": "A Magdalén-szigetek egy varázslatos szigetcsoport Québec tartományban, a Szent Lőrinc-öböl szívében. A területet a vibráló vörös homokkő sziklák, a végtelen dűnék és a színes faházak teszik egyedivé. A helyi lakosok, a madelinot-k, hűen őrzik akád gyökereiket és francia nyelvüket, ami különleges kulturális atmoszférát kölcsönöz a szigeteknek. A táj folyamatosan változik a szél és az erózió hatására, lenyűgöző természeti formákat hozva létre a tengerpart mentén.\n\nA Plage de la Dune du Nord a szigetek egyik legnépszerűbb strandja, amely kilométereken át nyúlik el finom homokjával, tökéletes helyszínt biztosítva a szörfözéshez és a hosszú tengerparti sétákhoz. A gasztronómia központjában a tenger gyümölcsei állnak, különösen a hórák és a homár, de a helyi kézműves sajtok is világhírűek. A szigetek megközelíthetők komppal Prince Edward-szigetről vagy repülővel. Ez a távoli paradicsom a természetkedvelők és a nyugalomra vágyók igazi menedéke, ahol az óceáni éghajlat és a madárvilág minden évszakban lenyűgözi a látogatókat.", "ro": "Les Îles-de-la-Madeleine reprezintă un arhipelag fascinant situat în mijlocul Golfului Sfântului Laurențiu, aparținând provinciei Québec. Peisajul este definit de contrastul dintre stâncile roșii de gresie, dealurile verzi și albastrul intens al apei. Insulele sunt legate între ele prin dune lungi de nisip subțire, creând un mediu ideal pentru iubitorii de natură și sporturi nautice. Comunitatea locală este mândră de originile sale acadiene, oferind vizitatorilor o experiență culturală autentică, dominată de ospitalitate și tradiții maritime.\n\nPlaja Plage de la Dune du Nord este una dintre cele mai spectaculoase, fiind preferată pentru kitesurfing și plimbări lungi datorită vânturilor constante și nisipului fin. Deliciile culinare locale includ crabul de zăpadă, homarul și brânzeturile artizanale premiate. Accesul pe insule se face fie cu feribotul din Insula Prințului Edward, fie prin zboruri către aeroportul local din Havre-aux-Maisons. Este o destinație unde timpul pare să stea în loc, oferind un refugiu perfect departe de agitația urbană, sub semnul vântului și al mareelor.", "en": "The Magdalen Islands (Les Îles-de-la-Madeleine) are a breathtaking archipelago in the heart of the Gulf of St. Lawrence, Quebec. Characterized by vibrant red sandstone cliffs, rolling green hills, and sweeping sand dunes, the islands offer some of Canada's most unique coastal scenery. The local population, known as Madelinots, maintains a strong Acadian identity, greeting visitors with warm hospitality, traditional music, and a colorful French-speaking culture. The archipelago consists of several islands connected by long, slender sandbars.\n\nPlage de la Dune du Nord is a standout beach, offering miles of pristine sand perfect for wind-based sports like kitesurfing and sailing. Gastronomy is a major draw here, featuring world-class snow crab, lobster, and locally produced artisanal cheeses from famous local creameries. Travelers reach the islands via a long-haul ferry from Prince Edward Island or by regional flights. This remote destination is a paradise for birdwatchers and outdoor enthusiasts seeking a serene environment where the rhythm of life is dictated by the Atlantic tides and the ever-present sea breeze."}, "facts": {"de": ["St.-Lorenz-Golf", "Rote Sandsteinfelsen", "Akadische Kultur", "Dune du Nord Strand", "Kitesurf-Paradies", "Bunte Holzhäuser", "Schneekrabben-Spezialität", "Fähre von PEI"], "hu": ["Szent Lőrinc-öböl", "Vörös homokkő sziklák", "Akád identitás", "Dune du Nord strand", "Kiteszörf központ", "Színes faházak", "Hórák gasztronómia", "Komp PEI-ről"], "ro": ["Golful Sf. Laurențiu", "Stânci de gresie roșie", "Moștenire acadiană", "Plaja Dune du Nord", "Sporturi de vânt", "Case colorate", "Crabi de zăpadă", "Feribot din PEI"], "en": ["Gulf of St. Lawrence", "Red sandstone cliffs", "Acadian heritage", "Dune du Nord beach", "Kitesurfing destination", "Colorful wooden houses", "Snow crab specialty", "PEI ferry access"]}, "coords": [-61.78059, 47.40834], "parent": "CA-QC", "tier": 2, "image": "/poi-images/canada-les-iles-de-la-madeleine-cities-v2.webp"},
 {"id": "usa-elizabeth-city-cities-v2", "sights": {
       "de": [
@@ -187968,86 +180696,10 @@ export const naNewV1: POI[] = [
       ]
 }, "type": "city", "parent": "US-NY", "coords": [-73.53232, 40.87369], "tier": 2, "name": {"de": "Oyster Bay", "hu": "Oyster Bay", "ro": "Oyster Bay", "en": "Oyster Bay"}, "description": {"de": "Ein historisches Dorf an der North Shore, bekannt als Heimat von Theodore Roosevelt und für seine malerische Hafenlage.", "hu": "Történelmi település az északi parton, amely Theodore Roosevelt egykori otthonaként és festői kikötőjéről ismert.", "ro": "Un sat istoric pe malul de nord, cunoscut ca fiind reședința lui Theodore Roosevelt și pentru portul său pitoresc.", "en": "A historic village on the North Shore, known as the home of Theodore Roosevelt and for its scenic harbor setting."}, "descriptionAdvanced": {"de": "Oyster Bay ist ein geschichtsträchtiges Juwel an der North Shore von Long Island, das für seine enge Verbindung zu Präsident Theodore Roosevelt weltberühmt ist. Sein ehemaliger Wohnsitz, Sagamore Hill, ist heute eine nationale historische Stätte und ein Muss für jeden Besucher. Das Dorf selbst versprüht den Charme vergangener Zeiten mit seinen gut erhaltenen Gebäuden und kleinen Geschäften. Am Ufer lädt der Beekman Beach zum Entspannen ein, ein malerischer Sandstrand, der einen ruhigen Blick auf den Hafen von Oyster Bay bietet.\n\nDie maritime Atmosphäre ist überall spürbar, besonders während des jährlichen Oyster Festivals, das Tausende von Besuchern anzieht. Der Hafen ist ein beliebter Treffpunkt für Segler und Kajakfahrer, die die geschützten Gewässer der Bucht erkunden möchten. Botanikfreunde sollten die Planting Fields Arboretum State Historic Park besuchen, der mit seinen prächtigen Gärten und Gewächshäusern beeindruckt. Die lokale Gastronomie reicht von rustikalen Austernbars bis hin zu eleganten Restaurants, die den Geist der Region widerspiegeln.\n\nOyster Bay ist nicht nur ein Ort der Geschichte, sondern auch der aktiven Erholung. Wanderwege durchziehen die umliegenden Naturschutzgebiete und bieten immer wieder Ausblicke auf den Sound. Die Anreise ist bequem mit der Eisenbahn von New York City aus möglich. Ob man auf den Spuren der Roosevelts wandelt oder einfach die frische Meeresbrise am Beekman Beach genießt – Oyster Bay bietet ein authentisches Erlebnis an der berühmten Gold Coast von New York.", "hu": "Oyster Bay Long Island északi partjának egyik legjelentősebb történelmi települése, amely szorosan kötődik Theodore Roosevelt elnökhöz. Az elnök egykori birtoka, a Sagamore Hill, ma nemzeti emlékhely, és a város legfontosabb látnivalója. A falu központja megőrizte békebeli hangulatát, ahol antikváriumok és helyi kézműves boltok sorakoznak. A vízparton található Beekman Beach a helyiek kedvelt pihenőhelye, ahol a homokos parton élvezhetjük az öböl nyugalmát és a vitorlások látványát.\n\nA település nevét adó osztrigatenyésztés ma is fontos szerepet játszik, amit minden évben az Oyster Festival keretében ünnepelnek meg. A kikötő kiváló lehetőséget nyújt kajakozásra és vitorlázásra a védett vizeken. A természetkedvelőknek érdemes ellátogatniuk a közeli Planting Fields Arborétumba, amely lenyűgöző kertjeivel és üvegházaival minden évszakban látványos. A gasztronómiai kínálatban természetesen a friss tengeri ételek és az osztriga dominál.\n\nA város könnyen megközelíthető New Yorkból, és ideális célpont egy egész napos kiránduláshoz. Oyster Bay ötvözi az amerikai történelmet a természet szépségeivel, a Beekman Beach pedig tökéletes helyszín a kikapcsolódáshoz a nap végén. Aki ide látogat, egy igazi, hamisítatlan észak-parti közösség életébe nyerhet betekintést, ahol a múlt és a jelen harmonikusan él együtt.", "ro": "Oyster Bay este o bijuterie istorică pe coasta de nord a Long Island, celebră pentru legătura sa profundă cu președintele Theodore Roosevelt. Reședința sa, Sagamore Hill, transformată în sit istoric național, atrage vizitatori din întreaga lume. Satul păstrează o atmosferă nostalgică, cu străzi primitoare și clădiri de patrimoniu. La marginea apei, Beekman Beach oferă un cadru natural splendid, fiind o plajă cu nisip fin unde vizitatorii se pot bucura de liniștea golfului și de briza sărată a mării.\n\nTradiția locală a recoltării stridiilor este celebrată anual prin faimosul Festival al Stridiilor, un eveniment culinar major. Portul este un punct central pentru activități nautice, oferind condiții ideale pentru caiac și navigație în ape protejate. Planting Fields Arboretum este o altă atracție imperativă, oferind grădini botanice vaste și sere istorice. Restaurantele locale variază de la taverne primitoare la localuri rafinate, toate punând accent pe ingrediente marine proaspete.\n\nAccesibilitatea este asigurată de linia de cale ferată Oyster Bay Branch, conectând satul direct cu inima metropolei New York. Orașul oferă o combinație unică de cultură, istorie politică și frumusețe naturală de coastă. O plimbare pe Beekman Beach la apus sau o vizită în centrul istoric fac din Oyster Bay o destinație de neuitat pe faimoasa Gold Coast. Este locul ideal pentru cei care doresc să combine educația istorică cu relaxarea pe malul mării.", "en": "Oyster Bay is a historic and charming hamlet on the North Shore of Long Island, most famous as the home of President Theodore Roosevelt. His estate, Sagamore Hill, serves as a national historic site and is a primary attraction for history enthusiasts. The village maintains a timeless atmosphere with its well-preserved architecture and local shops. Waterfront life is centered around Beekman Beach, a beautiful sandy area that provides scenic views of the protected bay and a calm environment for relaxation.\n\nThe town’s namesake industry is celebrated every year during the Oyster Festival, one of the largest waterfront festivals in the region. The harbor is a sanctuary for boaters and kayakers, offering tranquil waters sheltered from the open sound. Nature lovers should not miss the Planting Fields Arboretum State Historic Park, featuring expansive gardens and historic greenhouses. The local dining scene is diverse, featuring everything from casual seafood shacks to elegant fine-dining establishments.\n\nOyster Bay is easily reached by train from Manhattan, making it a popular choice for a day trip focused on history and coastal beauty. Whether exploring the Roosevelt legacy or spending a quiet afternoon at Beekman Beach, the village offers a unique glimpse into Long Island's Gold Coast heritage. It is a community where historical significance and natural waterfront beauty coexist perfectly, providing a peaceful escape for all types of travelers."}, "facts": {"de": ["Heimat von Theodore Roosevelt", "Sagamore Hill Historic Site", "Beekman Beach Sandstrand", "Jährliches Oyster Festival", "Malerischer Hafenort", "Botanisches Planting Fields", "North Shore Gold Coast", "Hervorragende Meeresfrüchte"], "hu": ["Theodore Roosevelt otthona", "Sagamore Hill emlékhely", "Beekman Beach homokos part", "Éves Osztriga Fesztivál", "Festői kikötőváros", "Planting Fields Arborétum", "North Shore Gold Coast", "Kiváló tengeri ételek"], "ro": ["Reședința lui Theodore Roosevelt", "Sit istoric Sagamore Hill", "Plaja cu nisip Beekman Beach", "Festivalul anual al stridiilor", "Oraș portuar pitoresc", "Arboretul Planting Fields", "North Shore Gold Coast", "Fructe de mare proaspete"], "en": ["Home of Theodore Roosevelt", "Sagamore Hill Historic Site", "Beekman Beach sandy shore", "Annual Oyster Festival", "Scenic harbor village", "Planting Fields Arboretum", "North Shore Gold Coast", "Excellent local seafood"]}, "image": "/poi-images/usa-oyster-bay-cities-v2.webp"},
 {"id": "canada-boucherville-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Maison Louis-Hippolyte-La Fontaine",
-                  "text": "Ein Museum in Boucherville, das dem Leben von Louis-Hippolyte La Fontaine gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -73.457442,
-                        45.599237
-                  ]
-            },
-            {
-                  "name": "Parc national des Îles-de-Boucherville",
-                  "text": "Ein Nationalpark mit mehreren Inseln im Sankt-Lorenz-Strom, bekannt für seine Artenvielfalt.",
-                  "category": "natural",
-                  "coords": [
-                        -73.471322,
-                        45.612693
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Maison Louis-Hippolyte-La Fontaine",
-                  "text": "Boucherville-i múzeum, amely Louis-Hippolyte La Fontaine életének állít emléket.",
-                  "category": "museum",
-                  "coords": [
-                        -73.457442,
-                        45.599237
-                  ]
-            },
-            {
-                  "name": "Parc national des Îles-de-Boucherville",
-                  "text": "Több szigetből álló nemzeti park a Szent Lőrinc-folyón, amely biológiai sokféleségéről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        -73.471322,
-                        45.612693
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Maison Louis-Hippolyte-La Fontaine",
-                  "text": "Un muzeu în Boucherville, dedicat vieții lui Louis-Hippolyte La Fontaine.",
-                  "category": "museum",
-                  "coords": [
-                        -73.457442,
-                        45.599237
-                  ]
-            },
-            {
-                  "name": "Parc national des Îles-de-Boucherville",
-                  "text": "Un parc național care cuprinde mai multe insule de pe fluviul Sfântul Laurențiu, cunoscut pentru biodiversitatea sa.",
-                  "category": "natural",
-                  "coords": [
-                        -73.471322,
-                        45.612693
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Maison Louis-Hippolyte-La Fontaine",
-                  "text": "A museum in Boucherville dedicated to the life of Louis-Hippolyte La Fontaine.",
-                  "category": "museum",
-                  "coords": [
-                        -73.457442,
-                        45.599237
-                  ]
-            },
-            {
-                  "name": "Parc national des Îles-de-Boucherville",
-                  "text": "A national park featuring several islands on the Saint Lawrence River, known for its biodiversity.",
-                  "category": "natural",
-                  "coords": [
-                        -73.471322,
-                        45.612693
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "CA-QC", "coords": [-73.45261, 45.60502], "tier": 2, "name": {"de": "Boucherville", "hu": "Boucherville", "ro": "Boucherville", "en": "Boucherville"}, "description": {"de": "Eine historische Stadt am Sankt-Lorenz-Strom in Quebec, bekannt für ihr französisches Kolonialerbe und ihre Naturparks.", "hu": "Történelmi város a Szent Lőrinc-folyó partján Quebecben, amely francia koloniális örökségéről és természetvédelmi területeiről ismert.", "ro": "Un oraș istoric pe malul fluviului Sfântul Laurențiu în Quebec, cunoscut pentru moștenirea sa colonială franceză și parcurile naturale.", "en": "A historic city on the shores of the St. Lawrence River in Quebec, known for its French colonial heritage and nature parks."}, "descriptionAdvanced": {"de": "Boucherville ist eine der ältesten Städte in Quebec und liegt majestätisch am Ufer des Sankt-Lorenz-Stroms. Das historische Viertel, Vieux-Boucherville, ist ein lebendiges Denkmal französischer Kolonialarchitektur mit charmanten Häusern und der imposanten Kirche Sainte-Famille. Die Stadt bietet eine einzigartige Mischung aus städtischem Komfort und Naturerlebnissen. In unmittelbarer Nähe befindet sich der Parc national des Îles-de-Boucherville, eine Inselgruppe im Strom, die ideal zum Radfahren und Paddeln ist. Ein beliebter Anlaufpunkt für Wasserfreunde ist die nahegelegene Plage de Longueuil, die Erfrischung an heißen Sommertagen bietet.\n\nDie Uferpromenade von Boucherville lädt zu ausgedehnten Spaziergängen ein, bei denen man die Schifffahrt auf dem großen Strom beobachten kann. Die lokale Gastronomie spiegelt die kulinarische Vielfalt Quebecs wider, mit gemütlichen Bistros und erstklassigen Restaurants, die regionale Produkte verarbeiten. Das kulturelle Leben ist reich an Festivals und Veranstaltungen, die die Geschichte der Stadt feiern. Für Pendler und Besucher ist Boucherville über die Brücken von Montreal aus leicht zu erreichen.\n\nWer Ruhe sucht, findet sie in den zahlreichen Parks oder bei einer Bootstour entlang der Inseln. Die Kombination aus historischem Erbe und der direkten Lage am Wasser macht Boucherville zu einem attraktiven Ziel für Touristen, die das authentische Quebec erleben möchten. Ob bei einem Besuch der Plage de Longueuil oder bei einer Wanderung im Nationalpark – die Natur steht hier immer im Vordergrund.", "hu": "Boucherville Quebec tartomány egyik legrégebbi és legszebb városa, amely közvetlenül a Szent Lőrinc-folyó partján fekszik. A város magja, Vieux-Boucherville, lenyűgöző francia koloniális épületeivel és történelmi templomával repíti vissza a látogatókat a múltba. A település legnagyobb vonzereje a folyó és a rajta található szigetvilág, amely ma a Parc national des Îles-de-Boucherville részét képezi. Ez a nemzeti park kiváló helyszín kajakozáshoz, kerékpározáshoz és a helyi vadvilág megfigyeléséhez. A közeli Plage de Longueuil pedig ideális helyszín a strandolásra és a napozásra a nyári hónapokban.\n\nA folyóparti sétányokról csodálatos kilátás nyílik a Szent Lőrinc-folyón elhaladó hatalmas hajókra. Boucherville gasztronómiája a hagyományos francia-kanadai konyhát ötvözi a modern irányzatokkal, számos kiváló pékséget és bisztrót kínálva a látogatóknak. A város kulturális élete egész évben pezseg, különösen a történelmi fesztiválok idején. Montreal közelsége miatt a város könnyen elérhető autóval vagy tömegközlekedéssel is.\n\nA természet és a történelem kedvelői számára Boucherville kihagyhatatlan úticél. A Plage de Longueuil közelsége és a folyóparti aktivitások gazdag választéka miatt a város népszerű a családok körében is. Itt mindenki megtalálja a számítását, legyen szó egy csendes délutánról a folyóparton vagy egy aktív felfedezőútról a szigetek között. Boucherville a nyugalom és a kulturális gazdagság tökéletes egyensúlyát képviseli.", "ro": "Boucherville este unul dintre cele mai vechi orașe din Quebec, situat strategic pe malul sudic al fluviului Sfântul Laurențiu. Centrul său istoric, Vieux-Boucherville, este remarcabil pentru conservarea arhitecturii coloniale franceze, oferind o incursiune fascinantă în istoria regiunii. Orașul este o poartă către natură, fiind situat lângă Parcul Național Îles-de-Boucherville, un arhipelag spectaculos unde vizitatorii pot practica ciclismul, caiacul sau pot observa fauna locală. Pentru relaxare la apă, Plage de Longueuil din apropiere este destinația preferată a localnicilor și turiștilor în timpul verii.\n\nPromenada de-a lungul fluviului oferă priveliști panoramice și este locul ideal pentru relaxare, urmărind traficul maritim intens pe una dintre cele mai importante căi navigabile din lume. Scena culinară locală este diversă, de la bistrouri franțuzești autentice la restaurante moderne cu specific local. Evenimentele culturale și piețele publice animă orașul în fiecare sezon, păstrând vii tradițiile comunității. Accesul dinspre Montreal este facil, orașul fiind legat de metropolă prin poduri și tuneluri.\n\nBoucherville oferă o calitate a vieții excepțională și un cadru turistic relaxant. Vizitatorii se pot bucura de plimbări lungi în natură sau de o zi de soare la Plage de Longueuil. Combinația dintre siturile istorice bine conservate și accesul direct la activități recreative pe apă face din Boucherville o destinație de top în Quebec pentru orice călător. Este un loc unde tradiția se întâlnește cu natura într-un mod armonios.", "en": "Boucherville is one of the oldest cities in Quebec, elegantly situated on the south shore of the St. Lawrence River. Its historic core, Vieux-Boucherville, is a treasure trove of French colonial architecture, featuring the magnificent Sainte-Famille Church and charming heritage homes. The city is a haven for outdoor enthusiasts, primarily due to its proximity to the Parc national des Îles-de-Boucherville, a cluster of islands in the river perfect for kayaking, cycling, and wildlife viewing. Nearby, the Plage de Longueuil provides a popular beach destination for swimming and sunbathing during the warm Quebec summers.\n\nThe riverfront promenade offers breathtaking views of the massive ships passing through the St. Lawrence Seaway. Boucherville’s culinary scene is a delightful mix of traditional Quebecois flavors and modern international cuisine, with many cozy bistros located in the historic district. Cultural events and community festivals frequently celebrate the town’s long history and vibrant present. Boucherville is easily accessible from Montreal, making it a perfect spot for both commuters and day-trippers seeking a mix of history and nature.\n\nWhether you are exploring the scenic trails of the national park or enjoying a relaxing day at Plage de Longueuil, Boucherville offers an authentic taste of Quebec's riverside charm. The balance between preserved history and active waterfront recreation makes it a unique destination. It is a place where visitors can escape the city pace and immerse themselves in a scenic, culturally rich environment along one of North America's most iconic waterways."}, "facts": {"de": ["Gegründet im Jahr 1667", "Ufer des Sankt-Lorenz-Stroms", "Vieux-Boucherville Viertel", "Plage de Longueuil Nähe", "Îles-de-Boucherville Park", "Französisches Kolonialerbe", "Direkt gegenüber von Montreal", "Hervorragende Radwege"], "hu": ["1667-ben alapították", "Szent Lőrinc-folyó partja", "Vieux-Boucherville negyed", "Plage de Longueuil közelsége", "Îles-de-Boucherville Park", "Francia koloniális örökség", "Montreallal szemben fekszik", "Kiváló kerékpárutak"], "ro": ["Fondat în anul 1667", "Malul fluviului Sf. Laurențiu", "Districtul Vieux-Boucherville", "Aproape de Plage de Longueuil", "Parcul Îles-de-Boucherville", "Moștenire colonială franceză", "Situat vizavi de Montreal", "Piste de biciclete excelente"], "en": ["Founded in 1667", "St. Lawrence River banks", "Vieux-Boucherville district", "Plage de Longueuil nearby", "Îles-de-Boucherville Park", "French colonial heritage", "Located opposite Montreal", "Excellent cycling trails"]}, "image": "/poi-images/canada-boucherville-cities-v2.webp"},
 {"id": "canada-hudson-cities-v2", "sights": {
       "de": [
@@ -188242,15 +180894,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Église Sainte-Monique-des-Saules",
-                  "text": "Eine lokale Pfarrkirche, die der Gemeinde von L'Ancienne-Lorette dient.",
-                  "category": "religious",
-                  "coords": [
-                        -71.320804,
-                        46.811738
-                  ]
-            },
-            {
                   "name": "Parc de la Rivière",
                   "text": "Ein Park am Flussufer in L'Ancienne-Lorette, ideal für Spaziergänge und Entspannung.",
                   "category": "park",
@@ -188295,15 +180938,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.324098,
                         46.810027
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Monique-des-Saules",
-                  "text": "Helyi plébániatemplom, amely L'Ancienne-Lorette közösségét szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        -71.320804,
-                        46.811738
                   ]
             },
             {
@@ -188354,15 +180988,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Église Sainte-Monique-des-Saules",
-                  "text": "O biserică parohială locală care deservește comunitatea din L'Ancienne-Lorette.",
-                  "category": "religious",
-                  "coords": [
-                        -71.320804,
-                        46.811738
-                  ]
-            },
-            {
                   "name": "Parc de la Rivière",
                   "text": "Un parc pe malul râului în L'Ancienne-Lorette, ideal pentru plimbări și relaxare.",
                   "category": "park",
@@ -188407,15 +181032,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -71.324098,
                         46.810027
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Monique-des-Saules",
-                  "text": "A local parish church serving the community of L'Ancienne-Lorette.",
-                  "category": "religious",
-                  "coords": [
-                        -71.320804,
-                        46.811738
                   ]
             },
             {
@@ -189182,51 +181798,6 @@ export const naNewV1: POI[] = [
 {"id": "canada-cole-harbour-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Break Heart Hill",
-                  "text": "Eine Erhebung mit Blick auf die Umgebung von Cole Harbour.",
-                  "category": "landmark",
-                  "coords": [
-                        -63.510075,
-                        44.673109
-                  ]
-            },
-            {
-                  "name": "Mount Edward",
-                  "text": "Ein lokaler Gipfel in der Region Cole Harbour.",
-                  "category": "landmark",
-                  "coords": [
-                        -63.509886,
-                        44.685863
-                  ]
-            },
-            {
-                  "name": "Old Red Barn",
-                  "text": "Historische Ruinen eines alten Wirtschaftsgebäudes in Cole Harbour.",
-                  "category": "historical",
-                  "coords": [
-                        -63.468749,
-                        44.664413
-                  ]
-            },
-            {
-                  "name": "Halifax Nova Scotia Temple",
-                  "text": "Ein Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage in Cole Harbour.",
-                  "category": "religious",
-                  "coords": [
-                        -63.48916,
-                        44.67003
-                  ]
-            },
-            {
-                  "name": "Cole Harbour Heritage Farm Museum",
-                  "text": "Ein Museum in Cole Harbour, das der lokalen Landwirtschaftsgeschichte gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -63.499975,
-                        44.672591
-                  ]
-            },
-            {
                   "name": "Abenaki Canoe Club Beach",
                   "text": "Ein lokaler Strandbereich in Cole Harbour.",
                   "category": "recreational",
@@ -189234,63 +181805,9 @@ export const naNewV1: POI[] = [
                         -63.506959,
                         44.672959
                   ]
-            },
-            {
-                  "name": "Bel Ayr Elementary School Park",
-                  "text": "Ein öffentlicher Park in Cole Harbour.",
-                  "category": "park",
-                  "coords": [
-                        -63.506436,
-                        44.675706
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Break Heart Hill",
-                  "text": "Cole Harbour környékére néző magaslat.",
-                  "category": "landmark",
-                  "coords": [
-                        -63.510075,
-                        44.673109
-                  ]
-            },
-            {
-                  "name": "Mount Edward",
-                  "text": "Helyi hegycsúcs Cole Harbour régiójában.",
-                  "category": "landmark",
-                  "coords": [
-                        -63.509886,
-                        44.685863
-                  ]
-            },
-            {
-                  "name": "Old Red Barn",
-                  "text": "Egy régi gazdasági épület történelmi romjai Cole Harbourban.",
-                  "category": "historical",
-                  "coords": [
-                        -63.468749,
-                        44.664413
-                  ]
-            },
-            {
-                  "name": "Halifax Nova Scotia Temple",
-                  "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának temploma Cole Harbourban.",
-                  "category": "religious",
-                  "coords": [
-                        -63.48916,
-                        44.67003
-                  ]
-            },
-            {
-                  "name": "Cole Harbour Heritage Farm Museum",
-                  "text": "Cole Harbour helyi mezőgazdasági múltját bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -63.499975,
-                        44.672591
-                  ]
-            },
             {
                   "name": "Abenaki Canoe Club Beach",
                   "text": "Helyi strandterület Cole Harbourban.",
@@ -189299,63 +181816,9 @@ export const naNewV1: POI[] = [
                         -63.506959,
                         44.672959
                   ]
-            },
-            {
-                  "name": "Bel Ayr Elementary School Park",
-                  "text": "Nyilvános park Cole Harbour területén.",
-                  "category": "park",
-                  "coords": [
-                        -63.506436,
-                        44.675706
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Break Heart Hill",
-                  "text": "O colină care oferă vedere spre zona Cole Harbour.",
-                  "category": "landmark",
-                  "coords": [
-                        -63.510075,
-                        44.673109
-                  ]
-            },
-            {
-                  "name": "Mount Edward",
-                  "text": "Un vârf local din regiunea Cole Harbour.",
-                  "category": "landmark",
-                  "coords": [
-                        -63.509886,
-                        44.685863
-                  ]
-            },
-            {
-                  "name": "Old Red Barn",
-                  "text": "Ruinele istorice ale unei vechi clădiri agricole din Cole Harbour.",
-                  "category": "historical",
-                  "coords": [
-                        -63.468749,
-                        44.664413
-                  ]
-            },
-            {
-                  "name": "Halifax Nova Scotia Temple",
-                  "text": "Un templu al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din Cole Harbour.",
-                  "category": "religious",
-                  "coords": [
-                        -63.48916,
-                        44.67003
-                  ]
-            },
-            {
-                  "name": "Cole Harbour Heritage Farm Museum",
-                  "text": "Un muzeu din Cole Harbour dedicat istoriei agricole locale.",
-                  "category": "museum",
-                  "coords": [
-                        -63.499975,
-                        44.672591
-                  ]
-            },
             {
                   "name": "Abenaki Canoe Club Beach",
                   "text": "O zonă de plajă locală în Cole Harbour.",
@@ -189364,63 +181827,9 @@ export const naNewV1: POI[] = [
                         -63.506959,
                         44.672959
                   ]
-            },
-            {
-                  "name": "Bel Ayr Elementary School Park",
-                  "text": "Un parc public situat în Cole Harbour.",
-                  "category": "park",
-                  "coords": [
-                        -63.506436,
-                        44.675706
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Break Heart Hill",
-                  "text": "A peak overlooking the Cole Harbour area.",
-                  "category": "landmark",
-                  "coords": [
-                        -63.510075,
-                        44.673109
-                  ]
-            },
-            {
-                  "name": "Mount Edward",
-                  "text": "A local peak in the Cole Harbour region.",
-                  "category": "landmark",
-                  "coords": [
-                        -63.509886,
-                        44.685863
-                  ]
-            },
-            {
-                  "name": "Old Red Barn",
-                  "text": "Historical ruins of an old agricultural building in Cole Harbour.",
-                  "category": "historical",
-                  "coords": [
-                        -63.468749,
-                        44.664413
-                  ]
-            },
-            {
-                  "name": "Halifax Nova Scotia Temple",
-                  "text": "A temple of The Church of Jesus Christ of Latter-day Saints in Cole Harbour.",
-                  "category": "religious",
-                  "coords": [
-                        -63.48916,
-                        44.67003
-                  ]
-            },
-            {
-                  "name": "Cole Harbour Heritage Farm Museum",
-                  "text": "A museum in Cole Harbour dedicated to local agricultural history.",
-                  "category": "museum",
-                  "coords": [
-                        -63.499975,
-                        44.672591
-                  ]
-            },
             {
                   "name": "Abenaki Canoe Club Beach",
                   "text": "A local beach area in Cole Harbour.",
@@ -189428,15 +181837,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -63.506959,
                         44.672959
-                  ]
-            },
-            {
-                  "name": "Bel Ayr Elementary School Park",
-                  "text": "A public park located in Cole Harbour.",
-                  "category": "park",
-                  "coords": [
-                        -63.506436,
-                        44.675706
                   ]
             }
       ]
@@ -191276,33 +183676,6 @@ export const naNewV1: POI[] = [
 {"id": "usa-arnold-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Dr. Martin Luther King, Jr. Memorial",
-                  "text": "Ein Denkmal zu Ehren von Dr. Martin Luther King, Jr. in Arnold.",
-                  "category": "historical",
-                  "coords": [
-                        -76.517167,
-                        39.049117
-                  ]
-            },
-            {
-                  "name": "Kimwood Farm House",
-                  "text": "Die Ruinen eines historischen Bauernhauses in Arnold.",
-                  "category": "historical",
-                  "coords": [
-                        -76.487773,
-                        39.046732
-                  ]
-            },
-            {
-                  "name": "Severn River Bridge",
-                  "text": "Eine bedeutende Brücke, die den Severn River in Arnold überquert.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.503988,
-                        39.006208
-                  ]
-            },
-            {
                   "name": "Pines on the Severn Community Beach",
                   "text": "Ein Gemeindestrand am Severn River in Arnold.",
                   "category": "recreational",
@@ -191322,33 +183695,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Dr. Martin Luther King, Jr. Memorial",
-                  "text": "Dr. Martin Luther King, Jr. tiszteletére emelt emlékmű Arnoldban.",
-                  "category": "historical",
-                  "coords": [
-                        -76.517167,
-                        39.049117
-                  ]
-            },
-            {
-                  "name": "Kimwood Farm House",
-                  "text": "Egy történelmi tanyaház romjai Arnoldban.",
-                  "category": "historical",
-                  "coords": [
-                        -76.487773,
-                        39.046732
-                  ]
-            },
-            {
-                  "name": "Severn River Bridge",
-                  "text": "Jelentős híd, amely a Severn-folyót íveli át Arnoldban.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.503988,
-                        39.006208
-                  ]
-            },
             {
                   "name": "Pines on the Severn Community Beach",
                   "text": "Közösségi strand a Severn-folyó partján, Arnoldban.",
@@ -191370,33 +183716,6 @@ export const naNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Dr. Martin Luther King, Jr. Memorial",
-                  "text": "Un monument dedicat Dr. Martin Luther King, Jr., situat în Arnold.",
-                  "category": "historical",
-                  "coords": [
-                        -76.517167,
-                        39.049117
-                  ]
-            },
-            {
-                  "name": "Kimwood Farm House",
-                  "text": "Ruinele unei ferme istorice situate în Arnold.",
-                  "category": "historical",
-                  "coords": [
-                        -76.487773,
-                        39.046732
-                  ]
-            },
-            {
-                  "name": "Severn River Bridge",
-                  "text": "Un pod important care traversează râul Severn în Arnold.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.503988,
-                        39.006208
-                  ]
-            },
-            {
                   "name": "Pines on the Severn Community Beach",
                   "text": "O plajă comunitară situată pe malul râului Severn în Arnold.",
                   "category": "recreational",
@@ -191416,33 +183735,6 @@ export const naNewV1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Dr. Martin Luther King, Jr. Memorial",
-                  "text": "A monument dedicated to Dr. Martin Luther King, Jr. located in Arnold.",
-                  "category": "historical",
-                  "coords": [
-                        -76.517167,
-                        39.049117
-                  ]
-            },
-            {
-                  "name": "Kimwood Farm House",
-                  "text": "The ruins of a historic farmhouse located in Arnold.",
-                  "category": "historical",
-                  "coords": [
-                        -76.487773,
-                        39.046732
-                  ]
-            },
-            {
-                  "name": "Severn River Bridge",
-                  "text": "A significant bridge crossing the Severn River in Arnold.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.503988,
-                        39.006208
-                  ]
-            },
             {
                   "name": "Pines on the Severn Community Beach",
                   "text": "A community beach located on the Severn River in Arnold.",
@@ -192816,24 +185108,6 @@ export const naNewV1: POI[] = [
 {"id": "usa-wilton-manors-cities-v2", "sights": {
       "de": [
             {
-                  "name": "MAC Art Galleries",
-                  "text": "Eine Kunstgalerie in Wilton Manors, die Werke verschiedener zeitgenössischer Künstler zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -80.140216,
-                        26.134539
-                  ]
-            },
-            {
-                  "name": "ArtServe Gallery",
-                  "text": "Ein gemeinnütziges Kunstzentrum in Wilton Manors, das die lokale kreative Gemeinschaft unterstützt.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.130278,
-                        26.136735
-                  ]
-            },
-            {
                   "name": "Sunrise Paddleboards",
                   "text": "Ein beliebter Ort für Stand-Up-Paddling und Wasseraktivitäten in Wilton Manors.",
                   "category": "landmark",
@@ -192850,36 +185124,9 @@ export const naNewV1: POI[] = [
                         -80.138447,
                         26.156563
                   ]
-            },
-            {
-                  "name": "Parker Playhouse",
-                  "text": "Ein historischer Veranstaltungsort für darstellende Künste in der Gegend von Wilton Manors, der verschiedene Live-Shows ausrichtet.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.136183,
-                        26.1343
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "MAC Art Galleries",
-                  "text": "Kortárs művészeti galéria Wilton Manorsban, amely különféle művészek alkotásait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -80.140216,
-                        26.134539
-                  ]
-            },
-            {
-                  "name": "ArtServe Gallery",
-                  "text": "Nonprofit művészeti központ Wilton Manorsban, amely a helyi alkotóközösséget támogatja.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.130278,
-                        26.136735
-                  ]
-            },
             {
                   "name": "Sunrise Paddleboards",
                   "text": "Népszerű hely evezéshez és vízi tevékenységekhez Wilton Manorsban.",
@@ -192897,36 +185144,9 @@ export const naNewV1: POI[] = [
                         -80.138447,
                         26.156563
                   ]
-            },
-            {
-                  "name": "Parker Playhouse",
-                  "text": "Történelmi előadó-művészeti helyszín Wilton Manors környékén, amely különféle élő műsoroknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.136183,
-                        26.1343
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "MAC Art Galleries",
-                  "text": "O galerie de artă din Wilton Manors care expune lucrări ale diverșilor artiști contemporani.",
-                  "category": "museum",
-                  "coords": [
-                        -80.140216,
-                        26.134539
-                  ]
-            },
-            {
-                  "name": "ArtServe Gallery",
-                  "text": "Un centru de artă non-profit din Wilton Manors care sprijină comunitatea creativă locală.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.130278,
-                        26.136735
-                  ]
-            },
             {
                   "name": "Sunrise Paddleboards",
                   "text": "Un loc popular pentru paddleboarding și activități acvatice în Wilton Manors.",
@@ -192944,36 +185164,9 @@ export const naNewV1: POI[] = [
                         -80.138447,
                         26.156563
                   ]
-            },
-            {
-                  "name": "Parker Playhouse",
-                  "text": "O locație istorică pentru artele spectacolului din zona Wilton Manors, care găzduiește diverse spectacole live.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.136183,
-                        26.1343
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "MAC Art Galleries",
-                  "text": "An art gallery in Wilton Manors showcasing works by various contemporary artists.",
-                  "category": "museum",
-                  "coords": [
-                        -80.140216,
-                        26.134539
-                  ]
-            },
-            {
-                  "name": "ArtServe Gallery",
-                  "text": "A non-profit arts center in Wilton Manors supporting the local creative community.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.130278,
-                        26.136735
-                  ]
-            },
             {
                   "name": "Sunrise Paddleboards",
                   "text": "A popular spot for paddleboarding and water activities in Wilton Manors.",
@@ -192990,15 +185183,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -80.138447,
                         26.156563
-                  ]
-            },
-            {
-                  "name": "Parker Playhouse",
-                  "text": "A historic performing arts venue in the Wilton Manors area hosting various live shows.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.136183,
-                        26.1343
                   ]
             }
       ]
@@ -193626,158 +185810,10 @@ export const naNewV1: POI[] = [
       ]
 }, "type": "city", "name": {"de": "Miami Beach", "hu": "Miami Beach", "ro": "Miami Beach", "en": "Miami Beach"}, "description": {"de": "Eine weltberühmte Inselstadt mit ikonischer Art-Déco-Architektur, glamourösen Stränden und pulsierendem Nachtleben.", "hu": "Világhírű szigetváros ikonikus Art Deco építészettel, csillogó strandokkal és lüktető éjszakai élettel.", "ro": "Un oraș insulă renumit în întreaga lume, cu arhitectură Art Deco iconică, plaje pline de glamour și viață de noapte vibrantă.", "en": "A world-famous island city with iconic Art Deco architecture, glamorous beaches, and pulsing nightlife."}, "descriptionAdvanced": {"de": "Miami Beach ist weit mehr als nur ein Vorort von Miami; es ist eine eigenständige Stadt auf einer Barriereinsel, die zwischen der Biscayne Bay und dem Atlantik liegt. Bekannt für das historische Art-Déco-Viertel mit seinen pastellfarbenen Gebäuden aus den 1930er Jahren, bietet die Stadt eine einzigartige Mischung aus Geschichte und modernem Glamour. South Beach, der südlichste Teil, ist das Epizentrum für Mode, erstklassige Gastronomie und weltbekannte Clubs.\n\nDer Miami Beach selbst erstreckt sich über Kilometer und bietet feinen Sand und das warme, klare Wasser des Golfstroms. Ob am belebten Ocean Drive oder an den ruhigeren Abschnitten weiter nördlich – der Strand ist das Herzstück der Stadt. Hier finden Besucher die ikonischen, bunten Rettungsschwimmertürme, die ein beliebtes Fotomotiv sind. Die Strandpromenade lädt zum Joggen, Inline-Skaten oder einfach zum Flanieren ein.\n\nNeben dem Strandleben bietet Miami Beach kulturelle Highlights wie das New World Center und zahlreiche Kunstgalerien. Die Lincoln Road Mall ist eine der bekanntesten Fußgängerzonen für Shopping und Dining unter freiem Himmel. Die Anreise erfolgt meist über den Miami International Airport, gefolgt von einer beeindruckenden Fahrt über die Brücken, die die Insel mit dem Festland verbinden.", "hu": "Miami Beach sokkal több, mint Miami egyik külvárosa; egy önálló város egy gátszigeten, a Biscayne-öböl és az Atlanti-óceán között. Az 1930-as évekből származó, pasztellszínű épületeiről és az Art Deco negyedről híres város a történelem és a modern csillogás egyedülálló keverékét kínálja. South Beach, a legdélebbi rész, a divat, a világszínvonalú gasztronómia és a híres klubok központja.\n\nA Miami Beach strandja kilométereken át húzódik, finom homokkal és a Golf-áramlat meleg, tiszta vizével várva a látogatókat. Legyen szó a nyüzsgő Ocean Drive-ról vagy az északabbra fekvő nyugodtabp részekről, a strand a város szíve. Itt találhatók az ikonikus, színes vízimentő tornyok, amelyek népszerű fotótémák. A tengerparti sétány ideális kocogáshoz, görkorcsolyázáshoz vagy egy kellemes sétához.\n\nA strandolás mellett Miami Beach olyan kulturális látnivalókat is kínál, mint a New World Center és számos művészeti galéria. A Lincoln Road Mall az egyik legismertebb sétálóutca, ahol szabadtéren vásárolhatunk és étkezhetünk. A megközelítés általában a Miami nemzetközi repülőtéren keresztül történik, majd egy lenyűgöző út következik a szigetet a szárazfölddel összekötő hidakon keresztül.", "ro": "Miami Beach este mult mai mult decât o suburbie a orașului Miami; este un oraș de sine stătător pe o insulă barieră, situată între Golful Biscayne și Oceanul Atlantic. Cunoscut pentru districtul istoric Art Deco, cu clădirile sale în culori pastelate din anii 1930, orașul oferă un amestec unic de istorie și glamour modern. South Beach, partea cea mai sudică, este epicentrul modei, gastronomiei de clasă și cluburilor renumite la nivel mondial.\n\nPlaja Miami Beach se întinde pe kilometri întregi, oferind nisip fin și apele calde și limpezi ale Curentului Golfului. Fie că este vorba de zona animată de pe Ocean Drive sau de secțiunile mai liniștite din nord, plaja este inima orașului. Aici vizitatorii găsesc turnurile de salvamar iconice și colorate, care sunt un motiv fotografic popular. Faleza invită la jogging, patinaj pe role sau pur și simplu la plimbare.\n\nPe lângă viața de plajă, Miami Beach oferă atracții culturale precum New World Center și numeroase galerii de artă. Lincoln Road Mall este una dintre cele mai cunoscute zone pietonale pentru cumpărături și luat masa în aer liber. Accesul se face de obicei prin Aeroportul Internațional Miami, urmat de o călătorie impresionantă peste podurile care conectează insula de continent.", "en": "Miami Beach is far more than just a suburb of Miami; it is a separate city on a barrier island located between Biscayne Bay and the Atlantic Ocean. Known for the historic Art Deco District with its pastel-colored buildings from the 1930s, the city offers a unique blend of history and modern glamour. South Beach, the southernmost part, is the epicenter for fashion, world-class dining, and world-renowned clubs.\n\nMiami Beach itself stretches for miles, offering fine sand and the warm, clear waters of the Gulf Stream. Whether at the bustling Ocean Drive or the quieter sections further north, the beach is the heart of the city. Here, visitors find the iconic, colorful lifeguard towers that are a popular photo subject. The beachfront promenade invites jogging, inline skating, or simply strolling.\n\nIn addition to beach life, Miami Beach offers cultural highlights such as the New World Center and numerous art galleries. Lincoln Road Mall is one of the most famous pedestrian streets for outdoor shopping and dining. Travel is typically via Miami International Airport, followed by an impressive drive across the bridges connecting the island to the mainland."}, "facts": {"de": ["Art-Déco-Viertel", "South Beach Szene", "Ocean Drive", "Atlantischer Ozean", "Biscayne Bay", "Lincoln Road Mall", "Bunte Rettungstürme", "Weltklasse-Nachtleben"], "hu": ["Art Deco negyed", "South Beach életérzés", "Ocean Drive", "Atlanti-óceán", "Biscayne-öböl", "Lincoln Road Mall", "Színes mentőtornyok", "Világhírű éjszakai élet"], "ro": ["Districtul Art Deco", "Scena South Beach", "Ocean Drive", "Oceanul Atlantic", "Golful Biscayne", "Lincoln Road Mall", "Turnuri salvamar colorate", "Viața de noapte celebră"], "en": ["Art Deco District", "South Beach scene", "Ocean Drive", "Atlantic Ocean", "Biscayne Bay", "Lincoln Road Mall", "Colorful lifeguard towers", "World-class nightlife"]}, "coords": [-80.1353, 25.79292], "parent": "US-FL", "tier": 2, "image": "/poi-images/usa-miami-beach-cities-v2.webp"},
 {"id": "usa-stock-island-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "WKIZ-AM (Key West)",
-                  "text": "WKIZ-AM ist ein Sendemast auf Stock Island in der Nähe von Key West.",
-                  "category": "tower",
-                  "coords": [
-                        -81.748146,
-                        24.567369
-                  ]
-            },
-            {
-                  "name": "Fort East Martello Museum",
-                  "text": "Dieses Museum ist in einem ehemaligen Fort aus der Zeit des Bürgerkriegs untergebracht und zeigt lokale Geschichte.",
-                  "category": "museum",
-                  "coords": [
-                        -81.754828,
-                        24.552228
-                  ]
-            },
-            {
-                  "name": "Key West Tropical Forest and Botanical Garden",
-                  "text": "Dieser botanische Garten in Stock Island zeigt einheimische Pflanzen und die tropische Flora der Region.",
-                  "category": "museum",
-                  "coords": [
-                        -81.748326,
-                        24.575097
-                  ]
-            },
-            {
-                  "name": "Tennesse Williams Fine Art Center",
-                  "text": "Ein Veranstaltungsort für darstellende Künste auf Stock Island, der verschiedene kulturelle Events beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        -81.744553,
-                        24.582389
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "WKIZ-AM (Key West)",
-                  "text": "A WKIZ-AM egy rádiótorony Stock Islanden, Key West közelében.",
-                  "category": "tower",
-                  "coords": [
-                        -81.748146,
-                        24.567369
-                  ]
-            },
-            {
-                  "name": "Fort East Martello Museum",
-                  "text": "Ez a múzeum egy korábbi polgárháborús erődben található, és a helyi történelmet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -81.754828,
-                        24.552228
-                  ]
-            },
-            {
-                  "name": "Key West Tropical Forest and Botanical Garden",
-                  "text": "Ez a botanikus kert Stock Islanden őshonos növényeket és a régió trópusi flóráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -81.748326,
-                        24.575097
-                  ]
-            },
-            {
-                  "name": "Tennesse Williams Fine Art Center",
-                  "text": "Előadóművészeti központ Stock Islanden, amely különféle kulturális eseményeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -81.744553,
-                        24.582389
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "WKIZ-AM (Key West)",
-                  "text": "WKIZ-AM este un turn radio situat pe Stock Island, lângă Key West.",
-                  "category": "tower",
-                  "coords": [
-                        -81.748146,
-                        24.567369
-                  ]
-            },
-            {
-                  "name": "Fort East Martello Museum",
-                  "text": "Acest muzeu este găzduit într-un fost fort din epoca Războiului Civil și prezintă istoria locală.",
-                  "category": "museum",
-                  "coords": [
-                        -81.754828,
-                        24.552228
-                  ]
-            },
-            {
-                  "name": "Key West Tropical Forest and Botanical Garden",
-                  "text": "Această grădină botanică din Stock Island prezintă plante native și flora tropicală a regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        -81.748326,
-                        24.575097
-                  ]
-            },
-            {
-                  "name": "Tennesse Williams Fine Art Center",
-                  "text": "Un centru de arte spectacolului din Stock Island care găzduiește diverse evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        -81.744553,
-                        24.582389
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "WKIZ-AM (Key West)",
-                  "text": "WKIZ-AM is a radio tower located on Stock Island near Key West.",
-                  "category": "tower",
-                  "coords": [
-                        -81.748146,
-                        24.567369
-                  ]
-            },
-            {
-                  "name": "Fort East Martello Museum",
-                  "text": "This museum is housed in a former Civil War-era fort and features local history and art.",
-                  "category": "museum",
-                  "coords": [
-                        -81.754828,
-                        24.552228
-                  ]
-            },
-            {
-                  "name": "Key West Tropical Forest and Botanical Garden",
-                  "text": "This garden is a frost-free arboretum and botanical garden showcasing native plants and wildlife.",
-                  "category": "museum",
-                  "coords": [
-                        -81.748326,
-                        24.575097
-                  ]
-            },
-            {
-                  "name": "Tennesse Williams Fine Art Center",
-                  "text": "A performing arts venue in Stock Island hosting various cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        -81.744553,
-                        24.582389
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "name": {"de": "Stock Island", "hu": "Stock Island", "ro": "Stock Island", "en": "Stock Island"}, "description": {"de": "Ein authentisches Viertel der Florida Keys direkt neben Key West, bekannt für seine Fischereitradition und Yachthäfen.", "hu": "A Florida Keys autentikus negyede közvetlenül Key West mellett, amely halászati hagyományairól és kikötőiről ismert.", "ro": "Un cartier autentic din Florida Keys, chiar lângă Key West, cunoscut pentru tradiția sa pescărească și porturile de agrement.", "en": "An authentic neighborhood of the Florida Keys right next to Key West, known for its fishing tradition and marinas."}, "descriptionAdvanced": {"de": "Stock Island ist die rustikalere und bodenständigere Nachbarinsel von Key West. Während Key West für seinen Tourismus bekannt ist, hat Stock Island seinen Charakter als funktionierendes Fischerdorf und Zentrum für Handwerk bewahrt. Die Insel bietet einen faszinierenden Einblick in das echte Leben der Florida Keys mit großen Marinas, Werften und einer wachsenden Kunstszene in umgebauten Lagerhäusern. Es ist der ideale Ort für Reisende, die eine entspanntere und weniger kommerzielle Atmosphäre suchen.\n\nDer Sugarloaf Beach ist ein naheliegendes Ziel für einen Ausflug ans Wasser. Obwohl Stock Island selbst eher durch seine industriellen Hafenanlagen geprägt ist, finden sich in der Umgebung wunderschöne, naturbelassene Küstenabschnitte. Sugarloaf Beach bietet die typische Ruhe der Lower Keys, mit klarem Wasser und Möglichkeiten zum Schnorcheln oder Kajakfahren in den Mangroven. Es ist ein Ort der Stille, weit weg vom Trubel der touristischen Hotspots.\n\nDie lokale Küche auf Stock Island ist unschlagbar, wenn es um frischen Fisch geht. In den Restaurants direkt am Hafen wird der Fang des Tages oft unmittelbar vom Boot serviert. Die Insel beherbergt auch den Key West Tropical Forest & Botanical Garden, den einzigen frostfreien botanischen Garten der kontinentalen USA. Die Anreise erfolgt über den Overseas Highway (US 1), nur wenige Minuten vor Key West.", "hu": "Stock Island Key West rusztikusabb és közvetlenebb szomszédja. Amíg Key West a turizmusáról híres, Stock Island megőrizte működő halászfalu jellegét és kézműves központ szerepét. A sziget lenyűgöző betekintést nyújt a Florida Keys valódi életébe hatalmas kikötőivel, hajógyáraival és az átalakított raktárépületekben virágzó művészeti negyedével. Ideális hely azoknak, akik a nyugodtabb és kevésbé kereskedelmi hangulatot keresik.\n\nA Sugarloaf Beach közeli célpont a vízparti kikapcsolódáshoz. Bár magát Stock Islandet inkább az ipari kikötői létesítmények jellemzik, a környéken gyönyörű, érintetlen tengerparti szakaszok találhatók. A Sugarloaf Beach a Lower Keys tipikus nyugalmát árasztja, tiszta vízzel, valamint búvárkodási és kajakozási lehetőségekkel a mangrovék között. Ez a béke szigete, távol a turisztikai központok zajától.\n\nA helyi konyha verhetetlen, ha friss halról van szó. A kikötői éttermekben a nap fogását gyakran közvetlenül a hajókról tálalják. A szigeten található a Key West Tropical Forest & Botanical Garden is, amely az egyetlen fagymentes botanikus kert az Amerikai Egyesült Államok kontinentális területén. A megközelítés az Overseas Highway-en (US 1) keresztül lehetséges, mindössze néhány percre Key West előtt.", "ro": "Stock Island este vecinul mai rustic și mai autentic al insulei Key West. În timp ce Key West este renumit pentru turism, Stock Island și-a păstrat caracterul de sat pescăresc activ și centru meșteșugăresc. Insula oferă o privire fascinantă în viața reală din Florida Keys, cu marine mari, șantiere navale și o scenă artistică în plină dezvoltare în depozite transformate. Este locul ideal pentru călătorii care caută o atmosferă mai relaxată și mai puțin comercială.\n\nPlaja Sugarloaf Beach este o destinație apropiată pentru o ieșire la apă. Deși Stock Island în sine este caracterizată mai degrabă prin facilitățile sale portuare industriale, în împrejurimi se găsesc secțiuni de coastă naturale și frumoase. Sugarloaf Beach oferă liniștea tipică din Lower Keys, cu ape limpezi și oportunități pentru snorkeling sau caiac prin mangrove. Este un loc al tăcerii, departe de agitația punctelor turistice fierbinți.\n\nBucătăria locală din Stock Island este imbatabilă când vine vorba de pește proaspăt. În restaurantele situate direct în port, captura zilei este adesea servită imediat de pe barcă. Insula găzduiește, de asemenea, Grădina Botanică și Pădurea Tropicală Key West, singura grădină botanică fără îngheț din SUA continentală. Accesul se face prin Overseas Highway (US 1), la doar câteva minute înainte de Key West.", "en": "Stock Island is the more rustic and down-to-earth neighbor of Key West. While Key West is famous for its tourism, Stock Island has maintained its character as a working fishing village and hub for craftsmanship. The island offers a fascinating glimpse into the real life of the Florida Keys with large marinas, shipyards, and a growing art scene in converted warehouses. It is the ideal spot for travelers seeking a more relaxed and less commercial atmosphere.\n\nSugarloaf Beach is a nearby destination for a waterfront outing. Although Stock Island itself is characterized more by its industrial port facilities, beautiful natural coastal stretches can be found in the surrounding area. Sugarloaf Beach offers the typical tranquility of the Lower Keys, with clear water and opportunities for snorkeling or kayaking through the mangroves. It is a place of silence, far from the hustle and bustle of tourist hotspots.\n\nLocal cuisine on Stock Island is unbeatable when it comes to fresh fish. In restaurants right on the harbor, the catch of the day is often served directly from the boat. The island also houses the Key West Tropical Forest & Botanical Garden, the only frost-free botanical garden in the continental US. Access is via the Overseas Highway (US 1), just minutes before reaching Key West."}, "facts": {"de": ["Fischereizentrum", "Florida Keys Charme", "Nahe Key West", "Große Yachthäfen", "Botanischer Garten", "Künstlerszene", "Overseas Highway", "Echte Inselkultur"], "hu": ["Halászati központ", "Florida Keys bája", "Key West mellett", "Hatalmas kikötők", "Botanikus kert", "Művészeti negyed", "Overseas Highway", "Valódi szigeti kultúra"], "ro": ["Centru de pescuit", "Farmec Florida Keys", "Lângă Key West", "Marine mari", "Grădină Botanică", "Scenă artistică", "Overseas Highway", "Cultură insulară reală"], "en": ["Fishing hub", "Florida Keys charm", "Near Key West", "Large marinas", "Botanical Garden", "Artist community", "Overseas Highway", "Authentic island culture"]}, "coords": [-81.73898, 24.56727], "parent": "US-FL", "tier": 2, "image": "/poi-images/usa-stock-island-cities-v2.webp"},
 {"id": "mexico-santa-maria-colotepec-cities-v2", "type": "city", "name": {"de": "Santa María Colotepec", "hu": "Santa María Colotepec", "ro": "Santa María Colotepec", "en": "Santa María Colotepec"}, "description": {"de": "Eine charmante Gemeinde an der Küste von Oaxaca, bekannt für ihre unberührten Strände und die Nähe zu Puerto Escondido.", "hu": "Bájos község Oaxaca partjainál, amely érintetlen strandjairól és Puerto Escondido közelségéről ismert.", "ro": "O municipalitate fermecătoare pe coasta Oaxaca, cunoscută pentru plajele sale virgine și proximitatea față de Puerto Escondido.", "en": "A charming municipality on the Oaxaca coast, known for its pristine beaches and proximity to Puerto Escondido."}, "descriptionAdvanced": {"de": "Santa María Colotepec ist ein Juwel an der Pazifikküste Mexikos im Bundesstaat Oaxaca. Die Region bietet eine perfekte Mischung aus traditioneller Kultur und entspanntem Strandleben. Besonders hervorzuheben ist der Strand Tierra Blanca, ein abgelegenes Paradies mit goldenem Sand und kristallklarem Wasser, das ideal für Ruhesuchende und Naturliebhaber ist. Hier können Besucher oft Meeresschildkröten beobachten, die zur Eiablage an den Strand kommen.\n\nDie Gastronomie der Region ist geprägt von frischem Fisch und Meeresfrüchten, die in den lokalen Palapas direkt am Meer serviert werden. Die Anreise erfolgt meist über den Flughafen von Puerto Escondido, von wo aus man die verschiedenen Küstenabschnitte leicht mit dem Taxi oder Mietwagen erreichen kann. Die umliegende Landschaft ist geprägt von Lagunen und den Ausläufern der Sierra Madre del Sur, was zahlreiche Möglichkeiten für Ökotourismus und Wanderungen bietet.", "hu": "Santa María Colotepec egy igazi ékszerdoboz Mexikó csendes-óceáni partvidékén, Oaxaca államban. A régió a hagyományos kultúra és a pihentető tengerparti élet tökéletes keverékét kínálja. Külön kiemelendő a Tierra Blanca strand, amely egy elszigetelt paradicsom aranyló homokkal és kristálytiszta vízzel, ideális a nyugalomra vágyók és a természet szerelmesei számára. Itt a látogatók gyakran megfigyelhetik a tojásrakásra érkező tengeri teknősöket.\n\nA környék gasztronómiáját a friss halak és tenger gyümölcsei határozzák meg, amelyeket a közvetlenül a parton található helyi éttermekben, az úgynevezett palapákban szolgálnak fel. A megközelítés legkönnyebben Puerto Escondido repülőterén keresztül lehetséges, ahonnan taxival vagy bérautóval érhetők el a part menti részek. A környező tájat lagúnák és a Sierra Madre del Sur nyúlványai tarkítják, ami számos lehetőséget kínál az ökoturizmusra és a kirándulásra.", "ro": "Santa María Colotepec este o bijuterie pe coasta Pacificului a Mexicului, în statul Oaxaca. Regiunea oferă un amestec perfect de cultură tradițională și viață relaxată la malul mării. Se remarcă în special plaja Tierra Blanca, un paradis izolat cu nisip auriu și ape cristaline, ideal pentru cei care caută liniște și pentru iubitorii de natură. Aici, vizitatorii pot observa adesea broaștele țestoase marine care vin pe plajă pentru a-și depune ouăle.\n\nGastronomia regiunii este definită de peștele proaspăt și fructele de mare, servite în restaurantele locale tip palapa direct pe plajă. Accesul se face de obicei prin aeroportul din Puerto Escondido, de unde diversele secțiuni de coastă sunt ușor accesibile cu taxiul sau cu o mașină închiriată. Peisajul înconjurător este caracterizat de lagune și poalele munților Sierra Madre del Sur, oferind numeroase oportunități pentru ecoturism și drumeții.", "en": "Santa María Colotepec is a gem on Mexico's Pacific coast in the state of Oaxaca. The region offers a perfect blend of traditional culture and relaxed beach life. Particularly noteworthy is Tierra Blanca beach, a secluded paradise with golden sand and crystal-clear water, ideal for those seeking tranquility and nature lovers. Here, visitors can often observe sea turtles coming to the beach to lay their eggs.\n\nThe local gastronomy is characterized by fresh fish and seafood, served in local palapas right on the oceanfront. Access is typically via the Puerto Escondido airport, from where the various coastal sections are easily reached by taxi or rental car. The surrounding landscape is marked by lagoons and the foothills of the Sierra Madre del Sur, providing numerous opportunities for ecotourism and hiking."}, "facts": {"de": ["Staat: Oaxaca", "Strand: Tierra Blanca", "Klima: Tropisch warm", "Aktivität: Schildkrötenbeobachtung", "Küche: Frische Meeresfrüchte", "Nähe: Puerto Escondido", "Natur: Lagunenlandschaften", "Kultur: Zapotekische Einflüsse"], "hu": ["Állam: Oaxaca", "Strand: Tierra Blanca", "Klíma: Trópusi meleg", "Program: Teknősles", "Konyha: Friss tenger gyümölcsei", "Közelség: Puerto Escondido", "Természet: Lagúnák", "Kultúra: Zapoték hatások"], "ro": ["Stat: Oaxaca", "Plajă: Tierra Blanca", "Climă: Tropicală caldă", "Activitate: Observarea țestoaselor", "Bucătărie: Fructe de mare proaspete", "Proximitate: Puerto Escondido", "Natură: Peisaje cu lagune", "Cultură: Influențe zapotece"], "en": ["State: Oaxaca", "Beach: Tierra Blanca", "Climate: Tropical warm", "Activity: Turtle watching", "Cuisine: Fresh seafood", "Proximity: Puerto Escondido", "Nature: Lagoon landscapes", "Culture: Zapotec influences"]}, "coords": [-96.93908, 15.89807], "parent": "MX-OAX", "tier": 2, "image": "/poi-images/mexico-santa-maria-colotepec-cities-v2.webp"},
 {"id": "mexico-brisas-de-zicatela-cities-v2", "sights": {
@@ -193799,33 +185835,6 @@ export const naNewV1: POI[] = [
                         -97.047354,
                         15.828664
                   ]
-            },
-            {
-                  "name": "Monumento al ahogado, Las Manos ",
-                  "text": "Ein Denkmal in Brisas de Zicatela, das den auf See Umgekommenen gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        -97.059544,
-                        15.857334
-                  ]
-            },
-            {
-                  "name": "Temascal Temascalli",
-                  "text": "Ein Wellnesscenter in Brisas de Zicatela, das traditionelle mexikanische Dampfbäder anbietet.",
-                  "category": "recreational",
-                  "coords": [
-                        -97.043988,
-                        15.83911
-                  ]
-            },
-            {
-                  "name": "Playa Zicatela",
-                  "text": "Ein weltberühmter Surfstrand in Brisas de Zicatela, bekannt für seine gewaltigen Wellen.",
-                  "category": "recreational",
-                  "coords": [
-                        -97.052106,
-                        15.84518
-                  ]
             }
       ],
       "hu": [
@@ -193845,33 +185854,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -97.047354,
                         15.828664
-                  ]
-            },
-            {
-                  "name": "Monumento al ahogado, Las Manos ",
-                  "text": "Az emlékmű Brisas de Zicatelában a tengeren elhunytak tiszteletére készült.",
-                  "category": "historical",
-                  "coords": [
-                        -97.059544,
-                        15.857334
-                  ]
-            },
-            {
-                  "name": "Temascal Temascalli",
-                  "text": "Wellnessközpont Brisas de Zicatelában, amely hagyományos mexikói gőzfürdőket kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        -97.043988,
-                        15.83911
-                  ]
-            },
-            {
-                  "name": "Playa Zicatela",
-                  "text": "Világhírű szörfstrand Brisas de Zicatelában, amely hatalmas hullámairól ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        -97.052106,
-                        15.84518
                   ]
             }
       ],
@@ -193893,33 +185875,6 @@ export const naNewV1: POI[] = [
                         -97.047354,
                         15.828664
                   ]
-            },
-            {
-                  "name": "Monumento al ahogado, Las Manos ",
-                  "text": "Un monument în Brisas de Zicatela dedicat celor dispăruți pe mare.",
-                  "category": "historical",
-                  "coords": [
-                        -97.059544,
-                        15.857334
-                  ]
-            },
-            {
-                  "name": "Temascal Temascalli",
-                  "text": "Un centru de wellness în Brisas de Zicatela care oferă băi de aburi tradiționale mexicane.",
-                  "category": "recreational",
-                  "coords": [
-                        -97.043988,
-                        15.83911
-                  ]
-            },
-            {
-                  "name": "Playa Zicatela",
-                  "text": "O plajă de surf renumită în întreaga lume în Brisas de Zicatela, cunoscută pentru valurile sale puternice.",
-                  "category": "recreational",
-                  "coords": [
-                        -97.052106,
-                        15.84518
-                  ]
             }
       ],
       "en": [
@@ -193940,297 +185895,14 @@ export const naNewV1: POI[] = [
                         -97.047354,
                         15.828664
                   ]
-            },
-            {
-                  "name": "Monumento al ahogado, Las Manos ",
-                  "text": "A monument in Brisas de Zicatela dedicated to those lost at sea.",
-                  "category": "historical",
-                  "coords": [
-                        -97.059544,
-                        15.857334
-                  ]
-            },
-            {
-                  "name": "Temascal Temascalli",
-                  "text": "A wellness center in Brisas de Zicatela offering traditional Mexican steam baths.",
-                  "category": "recreational",
-                  "coords": [
-                        -97.043988,
-                        15.83911
-                  ]
-            },
-            {
-                  "name": "Playa Zicatela",
-                  "text": "A world-famous surfing beach in Brisas de Zicatela, known for its powerful waves.",
-                  "category": "recreational",
-                  "coords": [
-                        -97.052106,
-                        15.84518
-                  ]
             }
       ]
 }, "type": "city", "name": {"de": "Brisas de Zicatela", "hu": "Brisas de Zicatela", "ro": "Brisas de Zicatela", "en": "Brisas de Zicatela"}, "description": {"de": "Das pulsierende Herz der Surfszene von Puerto Escondido, berühmt für die massiven Wellen von Playa Zicatela.", "hu": "Puerto Escondido szörfös életének lüktető központja, amely a Playa Zicatela hatalmas hullámairól híres.", "ro": "Inima vibrantă a scenei de surfing din Puerto Escondido, faimoasă pentru valurile masive de la Playa Zicatela.", "en": "The vibrant heart of Puerto Escondido's surf scene, famous for the massive waves of Playa Zicatela."}, "descriptionAdvanced": {"de": "Brisas de Zicatela ist weltweit als einer der besten Surfspots bekannt. Der legendäre Playa Zicatela beherbergt den 'Mexican Pipeline', eine kraftvolle Welle, die Profisurfer aus aller Welt anzieht. Der Ort hat eine entspannte, böhmische Atmosphäre mit zahlreichen Cafés, Surfshops und Bars, die besonders zum Sonnenuntergang zum Leben erwachen. Während der Hauptstrand für Anfänger aufgrund der starken Strömung gefährlich sein kann, bietet er ein spektakuläres Panorama für Zuschauer.\n\nDie kulinarische Szene in Brisas de Zicatela ist vielfältig und reicht von traditionellen mexikanischen Tacos bis hin zu internationaler Fusionsküche. Am südlichen Ende, bekannt als 'La Punta', ist das Wasser etwas ruhiger und die Stimmung noch entspannter. Hier findet man viele Backpacker und digitale Nomaden. Die Anreise ist unkompliziert über den nationalen Flughafen von Puerto Escondido möglich, gefolgt von einer kurzen Taxifahrt. Es ist der perfekte Ort für Reisende, die Adrenalin auf dem Wasser und ein geselliges Nachtleben suchen.", "hu": "Brisas de Zicatela világszerte az egyik legjobb szörfös helyszínként ismert. A legendás Playa Zicatela ad otthont a 'Mexican Pipeline'-nak, egy erőteljes hullámnak, amely a világ minden tájáról vonzza a profi szörfösöket. A település bohém és laza légkörrel rendelkezik, számos kávézóval, szörfbolttal és bárral, amelyek különösen naplementekor telnek meg élettel. Bár a fő strand az erős áramlatok miatt kezdőknek veszélyes lehet, a nézők számára látványos panorámát nyújt.\n\nBrisas de Zicatela kulináris kínálata rendkívül változatos, a hagyományos mexikói tacostól a nemzetközi fúziós konyháig minden megtalálható. A déli végén, amelyet 'La Punta' néven ismernek, a víz valamivel nyugodtabb, a hangulat pedig még lazább. Itt sok hátizsákos utazóval és digitális nomáddal találkozhatunk. A megközelítés egyszerű Puerto Escondido belföldi repülőterén keresztül, ahonnan csak egy rövid taxiút. Tökéletes úticél azoknak, akik a vizi adrenalin mellett a társasági éjszakai életet is kedvelik.", "ro": "Brisas de Zicatela este cunoscută la nivel mondial ca unul dintre cele mai bune locuri pentru surfing. Legendara Playa Zicatela găzduiește 'Mexican Pipeline', un val puternic care atrage surferi profesioniști din întreaga lume. Localitatea are o atmosferă boemă și relaxată, cu numeroase cafenele, magazine de surf și baruri care prind viață în special la apus. Deși plaja principală poate fi periculoasă pentru începători din cauza curenților puternici, aceasta oferă o panoramă spectaculoasă pentru spectatori.\n\nScena culinară din Brisas de Zicatela este diversă, de la tacos mexicani tradiționali la bucătărie fusion internațională. La capătul sudic, cunoscut sub numele de 'La Punta', apa este puțin mai calmă, iar atmosfera și mai relaxată. Aici se găsesc mulți backpackeri și nomazi digitali. Accesul este facil prin aeroportul național din Puerto Escondido, urmat de o scurtă călătorie cu taxiul. Este locul perfect pentru călătorii care caută adrenalină pe apă și o viață de noapte sociabilă.", "en": "Brisas de Zicatela is world-renowned as one of the premier surfing destinations. The legendary Playa Zicatela is home to the 'Mexican Pipeline', a powerful wave that attracts professional surfers from across the globe. The town maintains a laid-back, bohemian atmosphere with numerous cafes, surf shops, and bars that come alive especially at sunset. While the main beach can be dangerous for beginners due to strong currents, it provides a spectacular panorama for spectators.\n\nThe culinary scene in Brisas de Zicatela is diverse, ranging from traditional Mexican tacos to international fusion cuisine. At the southern end, known as 'La Punta', the water is slightly calmer and the vibe even more relaxed. Many backpackers and digital nomads frequent this area. Access is straightforward via the Puerto Escondido national airport, followed by a short taxi ride. It is the perfect destination for travelers seeking adrenaline on the water and a social nightlife."}, "facts": {"de": ["Wellen: Weltberühmter Surfspot", "Strand: Playa Zicatela", "Highlight: Mexican Pipeline", "Vibe: Böhmisch & Entspannt", "Ortsteil: La Punta (Südende)", "Events: Surf-Weltmeisterschaften", "Sonnenuntergang: Spektakulär", "Zielgruppe: Surfer & Nomaden"], "hu": ["Hullámok: Világhírű szörfhely", "Strand: Playa Zicatela", "Különlegesség: Mexican Pipeline", "Hangulat: Bohém és laza", "Részegység: La Punta (déli vég)", "Események: Szörf világbajnokságok", "Naplemente: Látványos", "Célcsoport: Szörfösök és nomádok"], "ro": ["Valuri: Loc de surf celebru", "Plajă: Playa Zicatela", "Punct forte: Mexican Pipeline", "Atmosferă: Boemă și relaxată", "Zonă: La Punta (capătul sudic)", "Evenimente: Campionate de surf", "Apus: Spectaculos", "Public: Surferi și nomazi"], "en": ["Waves: World-famous surf spot", "Beach: Playa Zicatela", "Highlight: Mexican Pipeline", "Vibe: Bohemian & Relaxed", "Area: La Punta (South end)", "Events: Surf world championships", "Sunset: Spectacular", "Audience: Surfers & Nomads"]}, "coords": [-97.04294, 15.83673], "parent": "MX-OAX", "tier": 2, "image": "/poi-images/mexico-brisas-de-zicatela-cities-v2.webp"},
 {"id": "mexico-lazaro-cardenas-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Monumento al Minero",
-                  "text": "Ein Denkmal in Lázaro Cárdenas, das dem Bergbauerbe der Stadt gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        -102.201217,
-                        17.964847
-                  ]
-            },
-            {
-                  "name": "Kiosko Pérgola municipal",
-                  "text": "Ein traditioneller Pavillon und öffentlicher Raum im Zentrum von Lázaro Cárdenas.",
-                  "category": "landmark",
-                  "coords": [
-                        -102.191206,
-                        17.955221
-                  ]
-            },
-            {
-                  "name": "Virgencita",
-                  "text": "Ein religiöses Denkmal in Lázaro Cárdenas, das der Jungfrau Maria gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        -102.190328,
-                        17.961072
-                  ]
-            },
-            {
-                  "name": "Teatro APILAC",
-                  "text": "Ein Theater und Kulturzentrum in Lázaro Cárdenas für lokale Aufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.187778,
-                        17.941089
-                  ]
-            },
-            {
-                  "name": "Centro Cultural Flamingos",
-                  "text": "Ein Kulturzentrum in Lázaro Cárdenas, das verschiedene Kunst- und Gemeinschaftsveranstaltungen beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.200481,
-                        17.96302
-                  ]
-            },
-            {
-                  "name": "Teatro al Aire Libre",
-                  "text": "Ein Freilufttheater in Lázaro Cárdenas für öffentliche Aufführungen und Veranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.196829,
-                        17.961004
-                  ]
-            },
-            {
-                  "name": "Monumento a Benito Juárez",
-                  "text": "Ein Denkmal zu Ehren des historischen Führers Benito Juárez in Lázaro Cárdenas.",
-                  "category": "historical",
-                  "coords": [
-                        -102.197639,
-                        17.962013
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Monumento al Minero",
-                  "text": "Emlékmű Lázaro Cárdenasban, amelyet a város bányászati múltjának szenteltek.",
-                  "category": "historical",
-                  "coords": [
-                        -102.201217,
-                        17.964847
-                  ]
-            },
-            {
-                  "name": "Kiosko Pérgola municipal",
-                  "text": "Hagyományos pavilon és közösségi tér Lázaro Cárdenas központjában.",
-                  "category": "landmark",
-                  "coords": [
-                        -102.191206,
-                        17.955221
-                  ]
-            },
-            {
-                  "name": "Virgencita",
-                  "text": "Szűz Máriának szentelt vallási emlékmű Lázaro Cárdenasban.",
-                  "category": "historical",
-                  "coords": [
-                        -102.190328,
-                        17.961072
-                  ]
-            },
-            {
-                  "name": "Teatro APILAC",
-                  "text": "Színház és kulturális helyszín Lázaro Cárdenasban helyi előadások számára.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.187778,
-                        17.941089
-                  ]
-            },
-            {
-                  "name": "Centro Cultural Flamingos",
-                  "text": "Kulturális központ Lázaro Cárdenasban, amely különféle művészeti és közösségi eseményeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.200481,
-                        17.96302
-                  ]
-            },
-            {
-                  "name": "Teatro al Aire Libre",
-                  "text": "Szabadtéri színház Lázaro Cárdenasban nyilvános előadások és rendezvények számára.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.196829,
-                        17.961004
-                  ]
-            },
-            {
-                  "name": "Monumento a Benito Juárez",
-                  "text": "Benito Juárez történelmi vezető tiszteletére emelt emlékmű Lázaro Cárdenasban.",
-                  "category": "historical",
-                  "coords": [
-                        -102.197639,
-                        17.962013
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Monumento al Minero",
-                  "text": "Un monument în Lázaro Cárdenas dedicat moștenirii miniere a orașului.",
-                  "category": "historical",
-                  "coords": [
-                        -102.201217,
-                        17.964847
-                  ]
-            },
-            {
-                  "name": "Kiosko Pérgola municipal",
-                  "text": "Un foișor tradițional și spațiu public în centrul orașului Lázaro Cárdenas.",
-                  "category": "landmark",
-                  "coords": [
-                        -102.191206,
-                        17.955221
-                  ]
-            },
-            {
-                  "name": "Virgencita",
-                  "text": "Un monument religios din Lázaro Cárdenas dedicat Fecioarei Maria.",
-                  "category": "historical",
-                  "coords": [
-                        -102.190328,
-                        17.961072
-                  ]
-            },
-            {
-                  "name": "Teatro APILAC",
-                  "text": "Un teatru și centru cultural în Lázaro Cárdenas pentru spectacole locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.187778,
-                        17.941089
-                  ]
-            },
-            {
-                  "name": "Centro Cultural Flamingos",
-                  "text": "Un centru cultural din Lázaro Cárdenas care găzduiește diverse evenimente artistice și comunitare.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.200481,
-                        17.96302
-                  ]
-            },
-            {
-                  "name": "Teatro al Aire Libre",
-                  "text": "Un teatru în aer liber în Lázaro Cárdenas pentru spectacole și evenimente publice.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.196829,
-                        17.961004
-                  ]
-            },
-            {
-                  "name": "Monumento a Benito Juárez",
-                  "text": "Un monument dedicat liderului istoric Benito Juárez în Lázaro Cárdenas.",
-                  "category": "historical",
-                  "coords": [
-                        -102.197639,
-                        17.962013
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Monumento al Minero",
-                  "text": "A monument in Lázaro Cárdenas dedicated to the city's mining heritage.",
-                  "category": "historical",
-                  "coords": [
-                        -102.201217,
-                        17.964847
-                  ]
-            },
-            {
-                  "name": "Kiosko Pérgola municipal",
-                  "text": "A traditional pavilion and public space in the center of Lázaro Cárdenas.",
-                  "category": "landmark",
-                  "coords": [
-                        -102.191206,
-                        17.955221
-                  ]
-            },
-            {
-                  "name": "Virgencita",
-                  "text": "A religious monument in Lázaro Cárdenas dedicated to the Virgin Mary.",
-                  "category": "historical",
-                  "coords": [
-                        -102.190328,
-                        17.961072
-                  ]
-            },
-            {
-                  "name": "Teatro APILAC",
-                  "text": "A theater and cultural venue in Lázaro Cárdenas for local performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.187778,
-                        17.941089
-                  ]
-            },
-            {
-                  "name": "Centro Cultural Flamingos",
-                  "text": "A cultural center in Lázaro Cárdenas hosting various arts and community events.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.200481,
-                        17.96302
-                  ]
-            },
-            {
-                  "name": "Teatro al Aire Libre",
-                  "text": "An open-air theater in Lázaro Cárdenas for public performances and events.",
-                  "category": "cultural",
-                  "coords": [
-                        -102.196829,
-                        17.961004
-                  ]
-            },
-            {
-                  "name": "Monumento a Benito Juárez",
-                  "text": "A monument dedicated to the historical leader Benito Juárez in Lázaro Cárdenas.",
-                  "category": "historical",
-                  "coords": [
-                        -102.197639,
-                        17.962013
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "name": {"de": "Lázaro Cárdenas", "hu": "Lázaro Cárdenas", "ro": "Lázaro Cárdenas", "en": "Lázaro Cárdenas"}, "description": {"de": "Eine bedeutende Hafenstadt in Michoacán, die industrielle Stärke mit der natürlichen Schönheit von Playa Jardín verbindet.", "hu": "Jelentős kikötőváros Michoacánban, amely ötvözi az ipari erőt a Playa Jardín természetes szépségével.", "ro": "Un oraș portuar important în Michoacán, care îmbină puterea industrială cu frumusețea naturală de la Playa Jardín.", "en": "A significant port city in Michoacán, combining industrial strength with the natural beauty of Playa Jardín."}, "descriptionAdvanced": {"de": "Lázaro Cárdenas ist einer der wichtigsten Industriehäfen Mexikos und liegt an der Mündung des Rio Balsas im Bundesstaat Michoacán. Trotz seines industriellen Charakters bietet die Stadt Zugang zu wunderschönen Pazifikstränden. Playa Jardín ist der bekannteste Strand der Stadt, ein weitläufiger Küstenabschnitt mit dunklem Sand, der von Palmen gesäumt ist. Hier finden Besucher zahlreiche traditionelle Restaurants (Enramadas), die frischen Fisch und lokale Spezialitäten wie 'Pescado a la Talla' servieren.\n\nDie Stadt dient als Tor zur unberührten Küste von Michoacán, die für ihren Ökotourismus bekannt ist. Die Uferpromenade 'Malecón de la Cultura y las Artes' ist ein beliebter Treffpunkt für Einheimische und Touristen, um spazieren zu gehen und kulturelle Veranstaltungen zu genießen. Die Anreise ist über den regionalen Flughafen Lázaro Cárdenas oder über gut ausgebaute Autobahnen aus dem Landesinneren möglich. Die Region bietet auch Möglichkeiten zur Beobachtung von Zugvögeln in den nahegelegenen Mangroven und Flussmündungen.", "hu": "Lázaro Cárdenas Mexikó egyik legfontosabb ipari kikötője, a Balsas-folyó torkolatánál fekszik Michoacán államban. Ipari jellege ellenére a város hozzáférést biztosít gyönyörű csendes-óceáni strandokhoz. A Playa Jardín a város legismertebb strandja, egy tágas, pálmákkal szegélyezett, sötét homokos part szakasz. Itt a látogatók számos hagyományos éttermet (Enramadas) találnak, amelyek friss halat és helyi specialitásokat, például 'Pescado a la Talla'-t kínálnak.\n\nA város kapuként szolgál Michoacán érintetlen partvidékéhez, amely ökoturizmusáról ismert. A 'Malecón de la Cultura y las Artes' sétány népszerű találkozóhely a helyiek és a turisták számára a sétákhoz és kulturális eseményekhez. A megközelítés a Lázaro Cárdenas-i regionális repülőtéren vagy a belső országrészből jól kiépített autópályákon keresztül lehetséges. A régió lehetőséget nyújt a költöző madarak megfigyelésére is a közeli mangroveerdőkben és folyótorkolatokban.", "ro": "Lázaro Cárdenas este unul dintre cele mai importante porturi industriale din Mexic, situat la gura de vărsare a râului Balsas în statul Michoacán. În ciuda caracterului său industrial, orașul oferă acces la plaje superbe la Oceanul Pacific. Playa Jardín este cea mai cunoscută plajă a orașului, o întindere vastă de coastă cu nisip închis la culoare, mărginită de palmieri. Aici, vizitatorii găsesc numeroase restaurante tradiționale (Enramadas) care servesc pește proaspăt și specialități locale precum 'Pescado a la Talla'.\n\nOrașul servește ca poartă către coasta virgină din Michoacán, cunoscută pentru ecoturism. Faleza 'Malecón de la Cultura y las Artes' este un loc de întâlnire popular pentru localnici și turiști pentru plimbări și evenimente culturale. Accesul este posibil prin aeroportul regional Lázaro Cárdenas sau prin autostrăzi bine dezvoltate din interiorul țării. Regiunea oferă, de asemenea, oportunități pentru observarea păsărilor migratoare în mangrovele și estuarele din apropiere.", "en": "Lázaro Cárdenas is one of Mexico's most important industrial ports, located at the mouth of the Balsas River in the state of Michoacán. Despite its industrial character, the city provides access to beautiful Pacific beaches. Playa Jardín is the city's most famous beach, a vast stretch of coastline with dark sand lined with palm trees. Here, visitors find numerous traditional restaurants (Enramadas) serving fresh fish and local specialties such as 'Pescado a la Talla'.\n\nThe city serves as a gateway to the pristine Michoacán coast, known for its ecotourism. The 'Malecón de la Cultura y las Artes' boardwalk is a popular meeting spot for locals and tourists to stroll and enjoy cultural events. Access is possible via the Lázaro Cárdenas regional airport or well-developed highways from the interior. The region also offers opportunities for observing migratory birds in nearby mangroves and estuaries."}, "facts": {"de": ["Funktion: Wichtiger Seehafen", "Strand: Playa Jardín", "Lage: Rio Balsas Mündung", "Bundesstaat: Michoacán", "Sehenswert: Kultur-Malecón", "Küche: Pescado a la Talla", "Natur: Mangrovengebiete", "Anreise: Regionalflughafen"], "hu": ["Funkció: Fontos tengeri kikötő", "Strand: Playa Jardín", "Fekvés: Balsas-folyó torkolata", "Állam: Michoacán", "Látnivaló: Kulturális Malecón", "Konyha: Pescado a la Talla", "Természet: Mangroveerdők", "Elérés: Regionális reptér"], "ro": ["Funcție: Port maritim major", "Plajă: Playa Jardín", "Locație: Gura râului Balsas", "Stat: Michoacán", "Atracție: Malecón Cultural", "Bucătărie: Pescado a la Talla", "Natură: Zone de mangrove", "Acces: Aeroport regional"], "en": ["Function: Major seaport", "Beach: Playa Jardín", "Location: Balsas River mouth", "State: Michoacán", "Sight: Cultural Malecón", "Cuisine: Pescado a la Talla", "Nature: Mangrove areas", "Access: Regional airport"]}, "coords": [-102.19866, 17.95948], "parent": "MX-MIC", "tier": 2, "image": "/poi-images/mexico-lazaro-cardenas-cities-v2.webp"},
 {"id": "mexico-el-colomo-cities-v2", "type": "city", "name": {"de": "El Colomo", "hu": "El Colomo", "ro": "El Colomo", "en": "El Colomo"}, "description": {"de": "Ein strategisches Logistikzentrum in Colima, in unmittelbarer Nähe zum ruhigen Playa El Edén.", "hu": "Stratégiai logisztikai központ Colimában, a nyugodt Playa El Edén közvetlen közelében.", "ro": "Un centru logistic strategic în Colima, situat în imediata apropiere a plajei liniștite Playa El Edén.", "en": "A strategic logistics hub in Colima, located in close proximity to the tranquil Playa El Edén."}, "descriptionAdvanced": {"de": "El Colomo liegt im Bundesstaat Colima und ist eng mit der Wirtschaft der Hafenstadt Manzanillo verbunden. Die Region ist bekannt für ihre strategische Bedeutung im Transportwesen, bietet aber auch versteckte Naturschönheiten. Playa El Edén ist ein solcher Ort – ein ruhiger Strand mit feinem Sand und sanften Wellen, der sich perfekt für einen entspannten Tag abseits der Touristenmassen eignet. Das Wasser hier ist meist warm und lädt zum Schwimmen ein.\n\nIn der Umgebung von El Colomo finden Reisende eine authentische mexikanische Atmosphäre. Die lokale Wirtschaft wird durch Landwirtschaft und Logistik geprägt, was sich auch in der herzhaften lokalen Küche widerspiegelt. Besonders empfehlenswert sind die Fischgerichte der Region. Die Anreise erfolgt am besten über Manzanillo, das sowohl über einen internationalen Flughafen als auch über gute Straßenverbindungen verfügt. El Colomo ist ein idealer Ausgangspunkt, um die weniger bekannten Küstenabschnitte von Colima zu erkunden und das echte Alltagsleben der Region kennenzulernen.", "hu": "El Colomo Colima államban található, és szorosan kapcsolódik Manzanillo kikötőváros gazdaságához. A régió stratégiai jelentőségéről ismert a szállítás területén, de rejtett természeti szépségeket is kínál. A Playa El Edén egy ilyen hely – nyugodt strand finom homokkal és szelíd hullámokkal, amely tökéletes egy pihentető naphoz, távol a turistaáradattól. A víz itt általában meleg és hívogató az úszáshoz.\n\nEl Colomo környékén az utazók autentikus mexikói hangulattal találkozhatnak. A helyi gazdaságot a mezőgazdaság és a logisztika határozza meg, ami a kiadós helyi konyhában is tükröződik. Különösen ajánlottak a régió halételei. A megközelítés leginkább Manzanillón keresztül javasolt, amely nemzetközi repülőtérrel és jó közúti kapcsolatokkal is rendelkezik. El Colomo ideális kiindulópont Colima kevésbé ismert tengerparti szakaszainak felfedezéséhez és a régió valódi mindennapi életének megismeréséhez.", "ro": "El Colomo este situat în statul Colima și este strâns legat de economia orașului portuar Manzanillo. Regiunea este cunoscută pentru importanța sa strategică în transporturi, dar oferă și frumuseți naturale ascunse. Playa El Edén este un astfel de loc – o plajă liniștită cu nisip fin și valuri blânde, perfectă pentru o zi relaxantă departe de mulțimile de turiști. Apa de aici este de obicei caldă și primitoare pentru înot.\n\nÎn împrejurimile localității El Colomo, călătorii pot găsi o atmosferă mexicană autentică. Economia locală este definită de agricultură și logistică, ceea ce se reflectă și în bucătăria locală consistentă. Preparatele din pește ale regiunii sunt în mod deosebit recomandate. Accesul se face cel mai bine prin Manzanillo, care dispune atât de un aeroport internațional, cât și de legături rutiere bune. El Colomo este un punct de plecare ideal pentru a explora porțiunile de coastă mai puțin cunoscute din Colima și pentru a cunoaște viața cotidiană reală a regiunii.", "en": "El Colomo is located in the state of Colima and is closely tied to the economy of the port city of Manzanillo. The region is known for its strategic importance in logistics but also offers hidden natural beauties. Playa El Edén is one such spot – a tranquil beach with fine sand and gentle waves, perfect for a relaxing day away from the tourist crowds. The water here is typically warm and inviting for swimming.\n\nIn the surroundings of El Colomo, travelers find an authentic Mexican atmosphere. The local economy is shaped by agriculture and logistics, which is reflected in the hearty local cuisine. The region's fish dishes are particularly recommended. Access is best via Manzanillo, which has both an international airport and good road connections. El Colomo is an ideal base for exploring the lesser-known coastal stretches of Colima and experiencing the genuine everyday life of the region."}, "facts": {"de": ["Staat: Colima", "Strand: Playa El Edén", "Wirtschaft: Logistik & Hafen", "Nähe: Manzanillo", "Charakter: Authentisch & Ruhig", "Küche: Regionale Fischspeisen", "Klima: Subtropisch", "Transport: Eisenbahnknotenpunkt"], "hu": ["Állam: Colima", "Strand: Playa El Edén", "Gazdaság: Logisztika és kikötő", "Közelség: Manzanillo", "Jelleg: Autentikus és nyugodt", "Konyha: Regionális halételek", "Klíma: Szubtrópusi", "Közlekedés: Vasúti csomópont"], "ro": ["Stat: Colima", "Plajă: Playa El Edén", "Economie: Logistică și port", "Proximitate: Manzanillo", "Caracter: Autentic și liniștit", "Bucătărie: Preparate din pește", "Climă: Subtropicală", "Transport: Nod feroviar"], "en": ["State: Colima", "Beach: Playa El Edén", "Economy: Logistics & Port", "Proximity: Manzanillo", "Character: Authentic & Quiet", "Cuisine: Regional fish dishes", "Climate: Subtropical", "Transport: Railway hub"]}, "coords": [-104.2589, 19.06161], "parent": "MX-COL", "tier": 2, "image": "/poi-images/mexico-el-colomo-cities-v2.webp"},
 {"id": "mexico-nautla-cities-v2", "sights": {
@@ -194316,158 +185988,10 @@ export const naNewV1: POI[] = [
       ]
 }, "type": "city", "name": {"de": "Nautla", "hu": "Nautla", "ro": "Nautla", "en": "Nautla"}, "description": {"de": "Eine malerische Stadt an der Costa Esmeralda von Veracruz, bekannt für ihre Flüsse und den Strand Maracaibo.", "hu": "Festői város Veracruz Costa Esmeralda partvidékén, amely folyóiról és a Maracaibo strandról ismert.", "ro": "Un oraș pitoresc pe Costa Esmeralda din Veracruz, cunoscut pentru râurile sale și plaja Maracaibo.", "en": "A picturesque town on Veracruz's Costa Esmeralda, known for its rivers and Maracaibo beach."}, "descriptionAdvanced": {"de": "Nautla ist ein bezaubernder Ort im Bundesstaat Veracruz, gelegen an der berühmten Costa Esmeralda. Die Stadt wird vom Fluss Nautla durchquert, der hier in den Golf von Mexiko mündet, was eine einzigartige Landschaft aus Flussläufen, Mangroven und Meer schafft. Playa Maracaibo ist der Star der lokalen Küste – ein wunderschöner Strand mit smaragdgrünem Wasser und sanften Wellen, ideal für Wassersportarten wie Kajakfahren oder einfach zum Entspannen unter den Palmen.\n\nDie Architektur von Nautla ist geprägt von kolonialen Einflüssen und bunten Häusern, die der Stadt einen besonderen Charme verleihen. Die Gastronomie ist exzellent und berühmt für Gerichte wie 'Arroz a la Tumbada' und frische Garnelen aus der Lagune. Nautla ist auch für seine Bemühungen zum Schutz von Meeresschildkröten bekannt. Die Anreise erfolgt meist über die Küstenstraße von Veracruz oder Poza Rica aus. Die entspannte Atmosphäre und die natürliche Schönheit machen Nautla zu einem perfekten Ziel für Reisende, die das authentische Mexiko abseits der großen Hotelburgen suchen.", "hu": "Nautla egy varázslatos település Veracruz államban, a híres Costa Esmeralda partján. A várost a Nautla-folyó szeli át, amely itt torkollik a Mexikói-öbölbe, egyedülálló tájat alkotva folyóágakból, mangroveerdőkből és a tengerből. A Playa Maracaibo a helyi partvidék sztárja – egy gyönyörű strand smaragdzöld vízzel és szelíd hullámokkal, amely ideális vízi sportokhoz, például kajakozáshoz, vagy egyszerűen csak a pálmák alatti pihenéshez.\n\nNautla építészetét gyarmati hatások és színes házak jellemzik, amelyek különleges bájt kölcsönöznek a városnak. A gasztronómia kiváló, híres az olyan ételekről, mint az 'Arroz a la Tumbada' és a lagúnából származó friss garnélarák. Nautla a tengeri teknősök védelmére irányuló erőfeszítéseiről is ismert. A megközelítés leginkább a veracruzi vagy Poza Rica-i part menti úton lehetséges. A nyugodt légkör és a természetes szépség Nautlát tökéletes célponttá teszi azoknak, akik az autentikus Mexikót keresik, távol a hatalmas szállodakomplexumoktól.", "ro": "Nautla este o localitate fermecătoare în statul Veracruz, situată pe celebra Costa Esmeralda. Orașul este traversat de râul Nautla, care se varsă aici în Golful Mexic, creând un peisaj unic format din brațe de râu, mangrove și mare. Playa Maracaibo este vedeta coastei locale – o plajă frumoasă cu ape de culoarea smaraldului și valuri blânde, ideală pentru sporturi nautice precum caiacul sau pur și simplu pentru relaxare sub palmieri.\n\nArhitectura din Nautla este marcată de influențe coloniale și case colorate care conferă orașului un farmec aparte. Gastronomia este excelentă, faimoasă pentru preparate precum 'Arroz a la Tumbada' și creveți proaspeți din lagună. Nautla este, de asemenea, cunoscută pentru eforturile sale de protejare a țestoaselor marine. Accesul se face de obicei pe drumul de coastă dinspre Veracruz sau Poza Rica. Atmosfera relaxată și frumusețea naturală fac din Nautla o destinație perfectă pentru călătorii care caută Mexicul autentic, departe de marile complexuri hoteliere.", "en": "Nautla is an enchanting town in the state of Veracruz, located on the famous Costa Esmeralda. The town is traversed by the Nautla River, which empties into the Gulf of Mexico here, creating a unique landscape of waterways, mangroves, and sea. Playa Maracaibo is the star of the local coast – a beautiful beach with emerald green waters and gentle waves, ideal for water sports like kayaking or simply relaxing under the palms.\n\nNautla's architecture is characterized by colonial influences and colorful houses that give the town a special charm. The gastronomy is excellent, famous for dishes like 'Arroz a la Tumbada' and fresh shrimp from the lagoon. Nautla is also known for its sea turtle conservation efforts. Access is typically via the coastal highway from Veracruz or Poza Rica. The relaxed atmosphere and natural beauty make Nautla a perfect destination for travelers seeking authentic Mexico away from large hotel resorts."}, "facts": {"de": ["Region: Costa Esmeralda", "Strand: Playa Maracaibo", "Natur: Nautla-Flussmündung", "Staat: Veracruz", "Kultur: Koloniale Architektur", "Artenschutz: Meeresschildkröten", "Küche: Arroz a la Tumbada", "Aktivität: Kajakfahren"], "hu": ["Régió: Costa Esmeralda", "Strand: Playa Maracaibo", "Természet: Nautla-folyótorkolat", "Állam: Veracruz", "Kultúra: Gyarmati építészet", "Védelem: Tengeri teknősök", "Konyha: Arroz a la Tumbada", "Program: Kajakozás"], "ro": ["Regiune: Costa Esmeralda", "Plajă: Playa Maracaibo", "Natură: Gura râului Nautla", "Stat: Veracruz", "Cultură: Arhitectură colonială", "Protecție: Țestoase marine", "Bucătărie: Arroz a la Tumbada", "Activitate: Caiac"], "en": ["Region: Costa Esmeralda", "Beach: Playa Maracaibo", "Nature: Nautla River mouth", "State: Veracruz", "Culture: Colonial architecture", "Conservation: Sea turtles", "Cuisine: Arroz a la Tumbada", "Activity: Kayaking"]}, "coords": [-96.77415, 20.2083], "parent": "MX-VER", "tier": 2, "image": "/poi-images/mexico-nautla-cities-v2.webp"},
 {"id": "mexico-ciudad-madero-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Bandera Monumental",
-                  "text": "Eine große, zeremonielle mexikanische Flagge als patriotisches Wahrzeichen in Ciudad Madero.",
-                  "category": "historical",
-                  "coords": [
-                        -97.852835,
-                        22.228616
-                  ]
-            },
-            {
-                  "name": "Centro de Convenciones Tampico",
-                  "text": "Ein bedeutendes Kongresszentrum und Veranstaltungsort in Ciudad Madero.",
-                  "category": "cultural",
-                  "coords": [
-                        -97.853487,
-                        22.233449
-                  ]
-            },
-            {
-                  "name": "Teatro Metropolitano de Tampico",
-                  "text": "Ein modernes Theater für darstellende Künste in Ciudad Madero.",
-                  "category": "cultural",
-                  "coords": [
-                        -97.854058,
-                        22.235119
-                  ]
-            },
-            {
-                  "name": "Templo de Tampico, México",
-                  "text": "Ein Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage in Ciudad Madero.",
-                  "category": "religious",
-                  "coords": [
-                        -97.855959,
-                        22.254264
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Bandera Monumental",
-                  "text": "Egy nagy, ceremoniális mexikói zászló, amely hazafias jelkép Ciudad Maderóban.",
-                  "category": "historical",
-                  "coords": [
-                        -97.852835,
-                        22.228616
-                  ]
-            },
-            {
-                  "name": "Centro de Convenciones Tampico",
-                  "text": "Jelentős konferenciaközpont és rendezvényhelyszín Ciudad Maderóban.",
-                  "category": "cultural",
-                  "coords": [
-                        -97.853487,
-                        22.233449
-                  ]
-            },
-            {
-                  "name": "Teatro Metropolitano de Tampico",
-                  "text": "Modern előadó-művészeti színház Ciudad Maderóban.",
-                  "category": "cultural",
-                  "coords": [
-                        -97.854058,
-                        22.235119
-                  ]
-            },
-            {
-                  "name": "Templo de Tampico, México",
-                  "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának temploma Ciudad Maderóban.",
-                  "category": "religious",
-                  "coords": [
-                        -97.855959,
-                        22.254264
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Bandera Monumental",
-                  "text": "Un steag mexican mare, ceremonial, ca reper patriotic în Ciudad Madero.",
-                  "category": "historical",
-                  "coords": [
-                        -97.852835,
-                        22.228616
-                  ]
-            },
-            {
-                  "name": "Centro de Convenciones Tampico",
-                  "text": "Un centru de convenții major și loc de evenimente în Ciudad Madero.",
-                  "category": "cultural",
-                  "coords": [
-                        -97.853487,
-                        22.233449
-                  ]
-            },
-            {
-                  "name": "Teatro Metropolitano de Tampico",
-                  "text": "Un teatru modern pentru artele spectacolului situat în Ciudad Madero.",
-                  "category": "cultural",
-                  "coords": [
-                        -97.854058,
-                        22.235119
-                  ]
-            },
-            {
-                  "name": "Templo de Tampico, México",
-                  "text": "Un templu al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din Ciudad Madero.",
-                  "category": "religious",
-                  "coords": [
-                        -97.855959,
-                        22.254264
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Monumental Flag",
-                  "text": "A large, ceremonial Mexican flag serving as a patriotic landmark in Ciudad Madero.",
-                  "category": "historical",
-                  "coords": [
-                        -97.852835,
-                        22.228616
-                  ]
-            },
-            {
-                  "name": "Centro de Convenciones Tampico",
-                  "text": "A major convention centre and event venue in Ciudad Madero.",
-                  "category": "cultural",
-                  "coords": [
-                        -97.853487,
-                        22.233449
-                  ]
-            },
-            {
-                  "name": "Teatro Metropolitano de Tampico",
-                  "text": "A modern performing arts theatre located in Ciudad Madero.",
-                  "category": "cultural",
-                  "coords": [
-                        -97.854058,
-                        22.235119
-                  ]
-            },
-            {
-                  "name": "Templo de Tampico, México",
-                  "text": "A temple of the Church of Jesus Christ of Latter-day Saints in Ciudad Madero.",
-                  "category": "religious",
-                  "coords": [
-                        -97.855959,
-                        22.254264
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "name": {"de": "Ciudad Madero", "hu": "Ciudad Madero", "ro": "Ciudad Madero", "en": "Ciudad Madero"}, "description": {"de": "Eine bedeutende Hafenstadt in Tamaulipas, bekannt für den wunderschönen Strand Playa Miramar am Golf von Mexiko.", "hu": "Tamaulipas állam fontos ipari és kikötővárosa, amely a Mexikói-öböl partján fekszik, és híres aranyhomokos strandjáról.", "ro": "Un important oraș industrial și portuar din Tamaulipas, faimos pentru plajele sale aurii de la Golful Mexic.", "en": "An important industrial and port city in Tamaulipas, famous for its golden beaches along the Gulf of Mexico."}, "descriptionAdvanced": {"de": "Ciudad Madero liegt an der Mündung des Pánuco-Flusses und ist ein wirtschaftliches Zentrum der Ölindustrie, das jedoch auch als Touristenziel am Golf von Mexiko floriert. Die Stadt ist eng mit dem benachbarten Tampico verbunden und bietet eine Mischung aus industrieller Dynamik und entspanntem Küstenflair.\n\nDer Stolz der Stadt ist die Playa Miramar, die als einer der schönsten Strände im Nordosten Mexikos gilt. Der Strand zeichnet sich durch seinen feinen Sand und das ruhige, flache Wasser aus, was ihn ideal für Familien macht. Entlang des Ufers erstreckt sich ein langer Boulevard (Malecón), auf dem Besucher spazieren gehen und den Blick auf die ein- und auslaufenden Schiffe genießen können.\n\nKulinarisch ist die Region für ihre Meeresfrüchte bekannt, wobei die „Jaiba a la Frank“ (gefüllte Krabben) eine lokale Spezialität ist. Die Stadt ist zudem gut über den internationalen Flughafen von Tampico erreichbar und bietet moderne Hotels sowie Einkaufszentren für Besucher.", "hu": "Ciudad Madero a Pánuco-folyó torkolatánál található, és bár gazdaságilag az olajfinomítás központja, turisztikai vonzereje a lenyűgöző tengerpartjában rejlik. A város szorosan összefonódik Tampico szomszédságával, közösen alkotva egy dinamikus régiót a Mexikói-öböl partján.\n\nA Playa Miramar a régió legfontosabb turisztikai célpontja, amely kilométereken át húzódó finom homokkal és sekély vízzel várja a látogatókat. A strand mentén kiépített sétány, a Malecón, népszerű hely a sétákhoz, ahol gyakran láthatók az öbölbe belépő hatalmas hajók, valamint a helyi kabalának számító ormányos medvék (coatí) is.\n\nA gasztronómia középpontjában a friss tengeri ételek állnak, különösen a rákból készült különlegességek és a Tampico-stílusú húsételek. A környék ökológiai jelentőségét növeli a tengeri teknősök fészkelőhelyeinek védelme, ami a természetbarátok számára is vonzóvá teszi a várost. A közlekedés kiváló a közeli nemzetközi repülőtérnek köszönhetően.", "ro": "Ciudad Madero este situat la gura de vărsare a râului Pánuco și reprezintă inima industriei petroliere din regiune, oferind în același timp atracții turistice remarcabile pe malul Golfului Mexic. Orașul face parte din zona metropolitană Tampico, fiind o destinație vibrantă ce îmbină afacerile cu relaxarea.\n\nPlaya Miramar este principala atracție, o plajă vastă cu nisip fin și ape liniștite, perfectă pentru înot și sporturi nautice. Faleza (Malecón) este locul preferat de promenadă, unde vizitatorii pot observa vapoarele care intră în port și pot interacționa cu ratonii prietenoși care au devenit un simbol local al zonei de coastă.\n\nBucătăria locală se bazează pe delicatese marine, crustaceele fiind vedetele meniurilor din restaurantele locale. Orașul oferă o infrastructură modernă, accesibilă prin aeroportul internațional din apropiere, și este un punct de plecare excelent pentru a explora coasta statului Tamaulipas și bogăția sa culturală.", "en": "Ciudad Madero is located at the mouth of the Pánuco River and serves as a major hub for Mexico's oil industry while also being a premier tourist destination on the Gulf Coast. Part of the Tampico metropolitan area, the city offers a unique blend of industrial strength and coastal leisure.\n\nThe centerpiece of tourism is Playa Miramar, widely regarded as one of the best beaches in northeastern Mexico. It features miles of fine sand and calm waters, making it a favorite for families. The coastal boardwalk, known as the Malecón, is a popular spot for evening strolls, offering views of massive ships entering the port and sightings of local wildlife like coatis.\n\nGastronomy in Ciudad Madero is dominated by fresh seafood, with crab dishes being a local specialty. The city is easily accessible via the nearby Tampico International Airport and provides a wide range of accommodations and services for international travelers looking for a sunny getaway."}, "facts": {"de": ["Standort am Golf von Mexiko", "Zentrum der Ölraffinerie", "Berühmter Strand Playa Miramar", "Teil der Metropolregion Tampico", "Langer Malecón (Boulevard)", "Nistplatz für Meeresschildkröten", "Subtropisches Klima", "Bekannt für Meeresfrüchte"], "hu": ["Mexikói-öböl menti fekvés", "Olajfinomítási központ", "Híres Playa Miramar strand", "Tampico agglomeráció része", "Hosszú parti sétány (Malecón)", "Tengeri teknősök fészkelőhelye", "Szubtrópusi éghajlat", "Kiváló tengeri ételek"], "ro": ["Locație la Golful Mexic", "Centru al rafinării petrolului", "Plaja celebră Playa Miramar", "Parte din zona metropolitană Tampico", "Faleză lungă (Malecón)", "Loc de cuibărit pentru țestoase", "Climat subtropical", "Gastronomie marină bogată"], "en": ["Located on the Gulf of Mexico", "Center of oil refining industry", "Famous Playa Miramar beach", "Part of Tampico metro area", "Long coastal boardwalk (Malecón)", "Sea turtle nesting site", "Subtropical climate", "Renowned for seafood"]}, "coords": [-97.83731, 22.2474], "parent": "MX-TAM", "tier": 2, "image": "/poi-images/mexico-ciudad-madero-cities-v2.webp"},
 {"id": "mexico-miramar-cities-v2", "sights": {
       "de": [
@@ -197355,30 +188879,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Santa Cruz Anchorage",
-                  "text": "Ein geschützter Ankerplatz in der Bucht von Live Oak.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.011629,
-                        36.957451
-                  ]
-            },
-            {
                   "name": "Arana Overlook",
                   "text": "Ein Aussichtspunkt in Live Oak mit Blick auf die Umgebung.",
                   "category": "natural",
                   "coords": [
                         -121.997597,
                         36.975684
-                  ]
-            },
-            {
-                  "name": "Rio Theatre",
-                  "text": "Ein historisches Theater in Live Oak, das für Veranstaltungen genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.01045,
-                        36.98001
                   ]
             },
             {
@@ -197415,33 +188921,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -122.015012,
                         36.970104
-                  ]
-            },
-            {
-                  "name": "San Lorenzo River Railroad Trestle Bridge",
-                  "text": "Eine Eisenbahnbrücke über den San Lorenzo River in Live Oak.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.012905,
-                        36.965892
-                  ]
-            },
-            {
-                  "name": "Giant Dipper",
-                  "text": "Die Giant Dipper ist eine berühmte historische Holzachterbahn in Live Oak.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.015321,
-                        36.964708
-                  ]
-            },
-            {
-                  "name": "Santa Cruz Beach Boardwalk",
-                  "text": "Ein bekannter Vergnügungspark direkt am Strand von Live Oak.",
-                  "category": "recreational",
-                  "coords": [
-                        -122.016683,
-                        36.96444
                   ]
             },
             {
@@ -197510,30 +188989,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Santa Cruz Anchorage",
-                  "text": "Védett horgonyzóhely Live Oak öblében.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.011629,
-                        36.957451
-                  ]
-            },
-            {
                   "name": "Arana Overlook",
                   "text": "Kilátóhely Live Oak-ban, rálátással a környékre.",
                   "category": "natural",
                   "coords": [
                         -121.997597,
                         36.975684
-                  ]
-            },
-            {
-                  "name": "Rio Theatre",
-                  "text": "Történelmi színház Live Oak-ban, amelyet rendezvényekre használnak.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.01045,
-                        36.98001
                   ]
             },
             {
@@ -197570,33 +189031,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -122.015012,
                         36.970104
-                  ]
-            },
-            {
-                  "name": "San Lorenzo River Railroad Trestle Bridge",
-                  "text": "Vasúti híd a San Lorenzo-folyó felett Live Oak területén.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.012905,
-                        36.965892
-                  ]
-            },
-            {
-                  "name": "Giant Dipper",
-                  "text": "A Giant Dipper egy híres történelmi hullámvasút Live Oak-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.015321,
-                        36.964708
-                  ]
-            },
-            {
-                  "name": "Santa Cruz Beach Boardwalk",
-                  "text": "Híres tengerparti vidámpark Live Oak területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -122.016683,
-                        36.96444
                   ]
             },
             {
@@ -197665,30 +189099,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Santa Cruz Anchorage",
-                  "text": "Un loc de ancorare protejat în golful din Live Oak.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.011629,
-                        36.957451
-                  ]
-            },
-            {
                   "name": "Arana Overlook",
                   "text": "Un punct de observație în Live Oak, cu vedere spre împrejurimi.",
                   "category": "natural",
                   "coords": [
                         -121.997597,
                         36.975684
-                  ]
-            },
-            {
-                  "name": "Rio Theatre",
-                  "text": "Un teatru istoric în Live Oak, utilizat pentru diverse evenimente.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.01045,
-                        36.98001
                   ]
             },
             {
@@ -197725,33 +189141,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -122.015012,
                         36.970104
-                  ]
-            },
-            {
-                  "name": "San Lorenzo River Railroad Trestle Bridge",
-                  "text": "Un pod feroviar peste râul San Lorenzo în Live Oak.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.012905,
-                        36.965892
-                  ]
-            },
-            {
-                  "name": "Giant Dipper",
-                  "text": "Giant Dipper este un celebru roller coaster istoric din lemn din Live Oak.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.015321,
-                        36.964708
-                  ]
-            },
-            {
-                  "name": "Santa Cruz Beach Boardwalk",
-                  "text": "Un parc de distracții celebru situat chiar pe plaja din Live Oak.",
-                  "category": "recreational",
-                  "coords": [
-                        -122.016683,
-                        36.96444
                   ]
             },
             {
@@ -197820,30 +189209,12 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Santa Cruz Anchorage",
-                  "text": "A protected anchorage area in the bay of Live Oak.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.011629,
-                        36.957451
-                  ]
-            },
-            {
                   "name": "Arana Overlook",
                   "text": "A viewpoint in Live Oak offering views of the surrounding area.",
                   "category": "natural",
                   "coords": [
                         -121.997597,
                         36.975684
-                  ]
-            },
-            {
-                  "name": "Rio Theatre",
-                  "text": "A historic theatre in Live Oak used for various events.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.01045,
-                        36.98001
                   ]
             },
             {
@@ -197880,33 +189251,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -122.015012,
                         36.970104
-                  ]
-            },
-            {
-                  "name": "San Lorenzo River Railroad Trestle Bridge",
-                  "text": "A railroad bridge over the San Lorenzo River in Live Oak.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.012905,
-                        36.965892
-                  ]
-            },
-            {
-                  "name": "Giant Dipper",
-                  "text": "The Giant Dipper is a famous historic wooden roller coaster in Live Oak.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.015321,
-                        36.964708
-                  ]
-            },
-            {
-                  "name": "Santa Cruz Beach Boardwalk",
-                  "text": "A famous seaside amusement park located directly on the beach in Live Oak.",
-                  "category": "recreational",
-                  "coords": [
-                        -122.016683,
-                        36.96444
                   ]
             },
             {
@@ -199187,15 +190531,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Main Hangar",
-                  "text": "Ein Museumshangar in Sidney, der Teil der Luftfahrtausstellung ist.",
-                  "category": "museum",
-                  "coords": [
-                        -123.420961,
-                        48.640546
-                  ]
-            },
-            {
                   "name": "Tsehum Harbour",
                   "text": "Eine malerische Bucht in Sidney, die als Hafen für zahlreiche Boote dient.",
                   "category": "landmark",
@@ -199211,15 +190546,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -123.4073,
                         48.675001
-                  ]
-            },
-            {
-                  "name": "Bazan Bay",
-                  "text": "Eine Bucht in Sidney, die beliebte Ausblicke auf die Küste bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.408428,
-                        48.628953
                   ]
             },
             {
@@ -199261,15 +190587,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Main Hangar",
-                  "text": "Repüléstörténeti múzeumi hangár Sidneyben.",
-                  "category": "museum",
-                  "coords": [
-                        -123.420961,
-                        48.640546
-                  ]
-            },
-            {
                   "name": "Tsehum Harbour",
                   "text": "Festői öböl Sidneyben, amely kikötőként szolgál számos hajó számára.",
                   "category": "landmark",
@@ -199285,15 +190602,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -123.4073,
                         48.675001
-                  ]
-            },
-            {
-                  "name": "Bazan Bay",
-                  "text": "Öböl Sidneyben, amely népszerű kilátást nyújt a tengerpartra.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.408428,
-                        48.628953
                   ]
             },
             {
@@ -199335,15 +190643,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Main Hangar",
-                  "text": "Un hangar muzeal în Sidney, parte a expoziției de aviație.",
-                  "category": "museum",
-                  "coords": [
-                        -123.420961,
-                        48.640546
-                  ]
-            },
-            {
                   "name": "Tsehum Harbour",
                   "text": "Un golf pitoresc în Sidney, care servește drept port pentru numeroase ambarcațiuni.",
                   "category": "landmark",
@@ -199359,15 +190658,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -123.4073,
                         48.675001
-                  ]
-            },
-            {
-                  "name": "Bazan Bay",
-                  "text": "Un golf în Sidney care oferă vederi populare asupra coastei.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.408428,
-                        48.628953
                   ]
             },
             {
@@ -199409,15 +190699,6 @@ export const naNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Main Hangar",
-                  "text": "A museum hangar in Sidney, part of the aviation exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        -123.420961,
-                        48.640546
-                  ]
-            },
-            {
                   "name": "Tsehum Harbour",
                   "text": "A scenic bay in Sidney that serves as a harbour for many boats.",
                   "category": "landmark",
@@ -199433,15 +190714,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -123.4073,
                         48.675001
-                  ]
-            },
-            {
-                  "name": "Bazan Bay",
-                  "text": "A bay in Sidney offering popular coastal views.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.408428,
-                        48.628953
                   ]
             },
             {
@@ -199467,84 +190739,12 @@ export const naNewV1: POI[] = [
 {"id": "canada-langford-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Coast Collective Art Centre",
-                  "text": "Ein Kunstzentrum in Langford, das regionale Künstler und Handwerk fördert.",
-                  "category": "museum",
-                  "coords": [
-                        -123.469235,
-                        48.445513
-                  ]
-            },
-            {
-                  "name": "Mill Hill",
-                  "text": "Eine markante Erhebung in Langford, bekannt für ihre seltene Flora und Aussichten.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.479912,
-                        48.457426
-                  ]
-            },
-            {
-                  "name": "Miniskirt",
-                  "text": "Ein kleinerer Gipfel in der hügeligen Landschaft von Langford.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.525372,
-                        48.47087
-                  ]
-            },
-            {
-                  "name": "Skirt Mountain",
-                  "text": "Ein Berg in Langford, der oft für Outdoor-Aktivitäten genutzt wird.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.53172,
-                        48.464016
-                  ]
-            },
-            {
-                  "name": "Redeemer Lutheran Church",
-                  "text": "Eine lutherische Kirche in Langford, die als lokales geistliches Zentrum dient.",
-                  "category": "religious",
-                  "coords": [
-                        -123.512219,
-                        48.439856
-                  ]
-            },
-            {
                   "name": "Hatley Gardens",
                   "text": "Gepflegte Gartenanlagen in Langford, die Teil des Hatley Park sind.",
                   "category": "landmark",
                   "coords": [
                         -123.473705,
                         48.432914
-                  ]
-            },
-            {
-                  "name": "Hatley Castle",
-                  "text": "Ein prächtiges Schloss im schottischen Baronialstil in Langford.",
-                  "category": "castle",
-                  "coords": [
-                        -123.472717,
-                        48.434476
-                  ]
-            },
-            {
-                  "name": "Gamble Park",
-                  "text": "Ein kleiner städtischer Park in Langford für lokale Erholung.",
-                  "category": "park",
-                  "coords": [
-                        -123.4762,
-                        48.446405
-                  ]
-            },
-            {
-                  "name": "Langford Lake Park",
-                  "text": "Ein öffentlicher Park in Langford, der Grünflächen und Zugang zum Langford Lake bietet.",
-                  "category": "park",
-                  "coords": [
-                        -123.522654,
-                        48.448719
                   ]
             },
             {
@@ -199559,84 +190759,12 @@ export const naNewV1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Coast Collective Art Centre",
-                  "text": "Művészeti központ Langfordban, amely a helyi művészeket és kézművességet támogatja.",
-                  "category": "museum",
-                  "coords": [
-                        -123.469235,
-                        48.445513
-                  ]
-            },
-            {
-                  "name": "Mill Hill",
-                  "text": "Jellegzetes magaslat Langfordban, ritka növényvilágáról és kilátásáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.479912,
-                        48.457426
-                  ]
-            },
-            {
-                  "name": "Miniskirt",
-                  "text": "Kisebb csúcs Langford dombos vidékén.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.525372,
-                        48.47087
-                  ]
-            },
-            {
-                  "name": "Skirt Mountain",
-                  "text": "Hegy Langfordban, amely népszerű a szabadtéri tevékenységekhez.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.53172,
-                        48.464016
-                  ]
-            },
-            {
-                  "name": "Redeemer Lutheran Church",
-                  "text": "Evangélikus templom Langfordban, amely helyi hitéleti központként működik.",
-                  "category": "religious",
-                  "coords": [
-                        -123.512219,
-                        48.439856
-                  ]
-            },
-            {
                   "name": "Hatley Gardens",
                   "text": "Gondozott kertek Langfordban, amelyek a Hatley Park részét képezik.",
                   "category": "landmark",
                   "coords": [
                         -123.473705,
                         48.432914
-                  ]
-            },
-            {
-                  "name": "Hatley Castle",
-                  "text": "Skót bárói stílusban épült pompás kastély Langfordban.",
-                  "category": "castle",
-                  "coords": [
-                        -123.472717,
-                        48.434476
-                  ]
-            },
-            {
-                  "name": "Gamble Park",
-                  "text": "Kis városi park Langfordban a helyi kikapcsolódáshoz.",
-                  "category": "park",
-                  "coords": [
-                        -123.4762,
-                        48.446405
-                  ]
-            },
-            {
-                  "name": "Langford Lake Park",
-                  "text": "Nyilvános park Langfordban, amely zöld területeket és hozzáférést biztosít a Langford-tóhoz.",
-                  "category": "park",
-                  "coords": [
-                        -123.522654,
-                        48.448719
                   ]
             },
             {
@@ -199651,84 +190779,12 @@ export const naNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Coast Collective Art Centre",
-                  "text": "Un centru de artă în Langford care promovează artiștii și meșteșugurile regionale.",
-                  "category": "museum",
-                  "coords": [
-                        -123.469235,
-                        48.445513
-                  ]
-            },
-            {
-                  "name": "Mill Hill",
-                  "text": "O înălțime proeminentă în Langford, cunoscută pentru flora rară și priveliști.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.479912,
-                        48.457426
-                  ]
-            },
-            {
-                  "name": "Miniskirt",
-                  "text": "Un vârf mai mic în peisajul colinar din Langford.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.525372,
-                        48.47087
-                  ]
-            },
-            {
-                  "name": "Skirt Mountain",
-                  "text": "Un munte în Langford, utilizat frecvent pentru activități în aer liber.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.53172,
-                        48.464016
-                  ]
-            },
-            {
-                  "name": "Redeemer Lutheran Church",
-                  "text": "O biserică luterană în Langford, care servește drept centru spiritual local.",
-                  "category": "religious",
-                  "coords": [
-                        -123.512219,
-                        48.439856
-                  ]
-            },
-            {
                   "name": "Hatley Gardens",
                   "text": "Grădini îngrijite în Langford, care fac parte din Hatley Park.",
                   "category": "landmark",
                   "coords": [
                         -123.473705,
                         48.432914
-                  ]
-            },
-            {
-                  "name": "Hatley Castle",
-                  "text": "Un castel impunător în stil baronial scoțian în Langford.",
-                  "category": "castle",
-                  "coords": [
-                        -123.472717,
-                        48.434476
-                  ]
-            },
-            {
-                  "name": "Gamble Park",
-                  "text": "Un mic parc urban în Langford pentru recreere locală.",
-                  "category": "park",
-                  "coords": [
-                        -123.4762,
-                        48.446405
-                  ]
-            },
-            {
-                  "name": "Langford Lake Park",
-                  "text": "Un parc public din Langford care oferă spații verzi și acces la lacul Langford.",
-                  "category": "park",
-                  "coords": [
-                        -123.522654,
-                        48.448719
                   ]
             },
             {
@@ -199743,84 +190799,12 @@ export const naNewV1: POI[] = [
       ],
       "en": [
             {
-                  "name": "Coast Collective Art Centre",
-                  "text": "An art centre in Langford promoting regional artists and craftsmanship.",
-                  "category": "museum",
-                  "coords": [
-                        -123.469235,
-                        48.445513
-                  ]
-            },
-            {
-                  "name": "Mill Hill",
-                  "text": "A prominent elevation in Langford known for its rare flora and scenic views.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.479912,
-                        48.457426
-                  ]
-            },
-            {
-                  "name": "Miniskirt",
-                  "text": "A smaller peak located in the hilly landscape of Langford.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.525372,
-                        48.47087
-                  ]
-            },
-            {
-                  "name": "Skirt Mountain",
-                  "text": "A mountain in Langford often used for outdoor activities.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.53172,
-                        48.464016
-                  ]
-            },
-            {
-                  "name": "Redeemer Lutheran Church",
-                  "text": "A Lutheran church in Langford serving as a local spiritual centre.",
-                  "category": "religious",
-                  "coords": [
-                        -123.512219,
-                        48.439856
-                  ]
-            },
-            {
                   "name": "Hatley Gardens",
                   "text": "Manicured gardens in Langford that are part of the Hatley Park estate.",
                   "category": "landmark",
                   "coords": [
                         -123.473705,
                         48.432914
-                  ]
-            },
-            {
-                  "name": "Hatley Castle",
-                  "text": "A grand Scottish Baronial-style castle located in Langford.",
-                  "category": "castle",
-                  "coords": [
-                        -123.472717,
-                        48.434476
-                  ]
-            },
-            {
-                  "name": "Gamble Park",
-                  "text": "A small urban park in Langford used for local recreation.",
-                  "category": "park",
-                  "coords": [
-                        -123.4762,
-                        48.446405
-                  ]
-            },
-            {
-                  "name": "Langford Lake Park",
-                  "text": "A public park in Langford offering green spaces and access to Langford Lake.",
-                  "category": "park",
-                  "coords": [
-                        -123.522654,
-                        48.448719
                   ]
             },
             {
@@ -203790,24 +194774,6 @@ export const naNewV1: POI[] = [
                         -158.031146,
                         21.305953
                   ]
-            },
-            {
-                  "name": "Puuloa Beach Park",
-                  "text": "Ein Küstenpark in Ewa Beach mit Grünflächen und Blick auf den Strand.",
-                  "category": "park",
-                  "coords": [
-                        -157.991836,
-                        21.31444
-                  ]
-            },
-            {
-                  "name": "Ewa Beach Community Park",
-                  "text": "Ein lokaler Park in Ewa Beach, der Platz für Gemeinschaftsaktivitäten und Spaß im Freien bietet.",
-                  "category": "park",
-                  "coords": [
-                        -158.007431,
-                        21.313983
-                  ]
             }
       ],
       "hu": [
@@ -203818,24 +194784,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -158.031146,
                         21.305953
-                  ]
-            },
-            {
-                  "name": "Puuloa Beach Park",
-                  "text": "Tengerparti park Ewa Beach-en zöldfelületekkel és kilátással a strandra.",
-                  "category": "park",
-                  "coords": [
-                        -157.991836,
-                        21.31444
-                  ]
-            },
-            {
-                  "name": "Ewa Beach Community Park",
-                  "text": "Helyi park Ewa Beach-en, amely helyet biztosít a közösségi tevékenységekhez és a szabadtéri szórakozáshoz.",
-                  "category": "park",
-                  "coords": [
-                        -158.007431,
-                        21.313983
                   ]
             }
       ],
@@ -203848,24 +194796,6 @@ export const naNewV1: POI[] = [
                         -158.031146,
                         21.305953
                   ]
-            },
-            {
-                  "name": "Puuloa Beach Park",
-                  "text": "Un parc de coastă în Ewa Beach, cu spații verzi și vedere la plajă.",
-                  "category": "park",
-                  "coords": [
-                        -157.991836,
-                        21.31444
-                  ]
-            },
-            {
-                  "name": "Ewa Beach Community Park",
-                  "text": "Un parc local în Ewa Beach care oferă spațiu pentru activități comunitare și distracție în aer liber.",
-                  "category": "park",
-                  "coords": [
-                        -158.007431,
-                        21.313983
-                  ]
             }
       ],
       "en": [
@@ -203876,24 +194806,6 @@ export const naNewV1: POI[] = [
                   "coords": [
                         -158.031146,
                         21.305953
-                  ]
-            },
-            {
-                  "name": "Puuloa Beach Park",
-                  "text": "A coastal park in Ewa Beach featuring green spaces and beach views.",
-                  "category": "park",
-                  "coords": [
-                        -157.991836,
-                        21.31444
-                  ]
-            },
-            {
-                  "name": "Ewa Beach Community Park",
-                  "text": "A local park in Ewa Beach providing space for community activities and outdoor fun.",
-                  "category": "park",
-                  "coords": [
-                        -158.007431,
-                        21.313983
                   ]
             }
       ]

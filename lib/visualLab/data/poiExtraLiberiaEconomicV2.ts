@@ -490,50 +490,10 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-monrovia-industrial-park-v2", "sights": {
-      "de": [
-            {
-                  "name": "SKD",
-                  "text": "SKD ist ein Apartmentgebäude im Bezirk liberia-monrovia-industrial-park-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        -10.701219,
-                        6.259205
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "SKD",
-                  "text": "Az SKD egy apartmanház a liberia-monrovia-industrial-park-v2 negyedben.",
-                  "category": "landmark",
-                  "coords": [
-                        -10.701219,
-                        6.259205
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "SKD",
-                  "text": "SKD este o clădire de apartamente din districtul liberia-monrovia-industrial-park-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        -10.701219,
-                        6.259205
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "SKD",
-                  "text": "SKD is an apartment building located in the liberia-monrovia-industrial-park-v2 district.",
-                  "category": "landmark",
-                  "coords": [
-                        -10.701219,
-                        6.259205
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LR",
     type: "industry",
@@ -627,15 +587,6 @@ export const liberiaEconomicV2: POI[] = [
     id: "liberia-zwedru-market-v2", "sights": {
       "de": [
             {
-                  "name": "Samuel Doe's House",
-                  "text": "Das ehemalige Haus von Samuel Doe im Bereich des Zwedru-Marktes.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.134398,
-                        6.080109
-                  ]
-            },
-            {
                   "name": "Zwedru Stadium View Point",
                   "text": "Ein malerischer Aussichtspunkt oberhalb des Zwedru-Stadions nahe dem Markt.",
                   "category": "natural",
@@ -646,15 +597,6 @@ export const liberiaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Samuel Doe's House",
-                  "text": "Samuel Doe egykori otthona a Zwedru piac területén.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.134398,
-                        6.080109
-                  ]
-            },
             {
                   "name": "Zwedru Stadium View Point",
                   "text": "Egy festői kilátó a Zwedru Stadion felett a piac közelében.",
@@ -667,15 +609,6 @@ export const liberiaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Samuel Doe's House",
-                  "text": "Fosta casă a lui Samuel Doe în zona pieței Zwedru.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.134398,
-                        6.080109
-                  ]
-            },
-            {
                   "name": "Zwedru Stadium View Point",
                   "text": "Un punct de belvedere pitoresc deasupra Stadionului Zwedru lângă piață.",
                   "category": "natural",
@@ -686,15 +619,6 @@ export const liberiaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Samuel Doe's House",
-                  "text": "The former home of Samuel Doe at the Zwedru Market area.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.134398,
-                        6.080109
-                  ]
-            },
             {
                   "name": "Zwedru Stadium View Point",
                   "text": "A scenic viewpoint above Zwedru Stadium near the market.",
@@ -841,86 +765,10 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-gbarnga-trade-center-v2", "sights": {
-      "de": [
-            {
-                  "name": "Millennium Sport Center",
-                  "text": "Das Millennium Sport Center im Komplex des Gbarnga Trade Centers.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.462269,
-                        6.994821
-                  ]
-            },
-            {
-                  "name": "Bong Photo Star",
-                  "text": "Das Bong Photo Star Studio im Gbarnga Trade Center.",
-                  "category": "museum",
-                  "coords": [
-                        -9.471331,
-                        6.998983
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Millennium Sport Center",
-                  "text": "A Millennium Sportközpont a Gbarnga Kereskedelmi Központ komplexumában.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.462269,
-                        6.994821
-                  ]
-            },
-            {
-                  "name": "Bong Photo Star",
-                  "text": "A Bong Photo Star stúdió a Gbarnga Kereskedelmi Központban.",
-                  "category": "museum",
-                  "coords": [
-                        -9.471331,
-                        6.998983
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Millennium Sport Center",
-                  "text": "Centrul Sportiv Mileniu situat în complexul Gbarnga Trade Center.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.462269,
-                        6.994821
-                  ]
-            },
-            {
-                  "name": "Bong Photo Star",
-                  "text": "Studioul Bong Photo Star la Gbarnga Trade Center.",
-                  "category": "museum",
-                  "coords": [
-                        -9.471331,
-                        6.998983
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Millennium Sport Center",
-                  "text": "The Millennium Sport Center located at the Gbarnga Trade Center complex.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.462269,
-                        6.994821
-                  ]
-            },
-            {
-                  "name": "Bong Photo Star",
-                  "text": "Bong Photo Star studio at the Gbarnga Trade Center.",
-                  "category": "museum",
-                  "coords": [
-                        -9.471331,
-                        6.998983
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LR",
     type: "city",
@@ -1012,50 +860,10 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-voinjama-cross-border-trade-v2", "sights": {
-      "de": [
-            {
-                  "name": "Pakistan Point",
-                  "text": "Die historische Stätte Pakistan Point nahe des grenzüberschreitenden Handelspostens Voinjama.",
-                  "category": "historical",
-                  "coords": [
-                        -9.753228,
-                        8.428063
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Pakistan Point",
-                  "text": "A Pakistan Point történelmi helyszín a Voinjama határátkelő kereskedelmi poszt közelében.",
-                  "category": "historical",
-                  "coords": [
-                        -9.753228,
-                        8.428063
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Pakistan Point",
-                  "text": "Situl istoric Pakistan Point lângă postul de comerț transfrontalier Voinjama.",
-                  "category": "historical",
-                  "coords": [
-                        -9.753228,
-                        8.428063
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Pakistan Point",
-                  "text": "Pakistan Point historical site near the Voinjama cross-border trade post.",
-                  "category": "historical",
-                  "coords": [
-                        -9.753228,
-                        8.428063
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LR",
     type: "city",
@@ -1192,50 +1000,10 @@ export const liberiaEconomicV2: POI[] = [
   },
   {
     id: "liberia-harper-port-v2", "sights": {
-      "de": [
-            {
-                  "name": "Harper Video Club",
-                  "text": "Der Harper Video Club ist ein informeller lokaler Unterhaltungsort, an dem sich die Bewohner treffen, um Filme und Medienübertragungen anzusehen.",
-                  "category": "cultural",
-                  "coords": [
-                        -7.718836,
-                        4.373812
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Harper Video Club",
-                  "text": "A Harper Video Club egy informális helyi szórakozóhely, ahol a lakosok összegyűlnek filmeket és médiaközvetítéseket nézni.",
-                  "category": "cultural",
-                  "coords": [
-                        -7.718836,
-                        4.373812
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Harper Video Club",
-                  "text": "Harper Video Club este un loc informal de divertisment local, unde rezidenții se adunau pentru a viziona filme și transmisiuni media.",
-                  "category": "cultural",
-                  "coords": [
-                        -7.718836,
-                        4.373812
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Harper Video Club",
-                  "text": "The Harper Video Club is an informal local entertainment venue where residents gather to watch films and media broadcasts.",
-                  "category": "cultural",
-                  "coords": [
-                        -7.718836,
-                        4.373812
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LR",
     type: "port",

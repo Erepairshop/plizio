@@ -106,87 +106,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Soppesøen",
-                  "text": "Soppesøen ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        12.563565,
-                        55.700603
-                  ]
-            },
-            {
-                  "name": "Vagthussøen",
-                  "text": "Vagthussøen ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        12.569616,
-                        55.646922
-                  ]
-            },
-            {
-                  "name": "Utterslev gadekær",
-                  "text": "Utterslev gadekær ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        12.516543,
-                        55.71034
-                  ]
-            },
-            {
-                  "name": "Bademosen",
-                  "text": "Bademosen ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        12.493366,
-                        55.722569
-                  ]
-            },
-            {
-                  "name": "Bøgebjerg Engsøer",
-                  "text": "Bøgebjerg Engsøer ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        12.492007,
-                        55.723922
-                  ]
-            },
-            {
-                  "name": "Vestmosen",
-                  "text": "Vestmosen ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        12.493695,
-                        55.712791
-                  ]
-            },
-            {
-                  "name": "Gentofte Sø",
-                  "text": "Gentofte Sø ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        12.535132,
-                        55.748461
-                  ]
-            },
-            {
-                  "name": "Damhussøen",
-                  "text": "Damhussøen ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        12.478138,
-                        55.677051
-                  ]
-            },
-            {
-                  "name": "Sortedams-See",
-                  "text": "Sortedams Sø ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        12.57129,
-                        55.692053
-                  ]
-            },
-            {
                   "name": "Sankt-Joergens-See",
                   "text": "Sankt Jørgens Sø ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
                   "category": "natural",
@@ -196,30 +115,12 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Grønjordssøen",
-                  "text": "Grønjordssøen ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        12.585011,
-                        55.651501
-                  ]
-            },
-            {
                   "name": "Tivoli Søen",
                   "text": "Tivoli Søen ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
                   "category": "natural",
                   "coords": [
                         12.56963,
                         55.67387
-                  ]
-            },
-            {
-                  "name": "Emdrup Sø",
-                  "text": "Emdrup Sø ist ein See in Kopenhagen, ideal zum Spazierengehen und Genießen der Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        12.550449,
-                        55.722712
                   ]
             },
             {
@@ -256,24 +157,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         12.549202,
                         55.679581
-                  ]
-            },
-            {
-                  "name": "Maximum København",
-                  "text": "Maximum København ist eine Spielhalle in Kopenhagen, die lustige Spiele für die ganze Familie bietet.",
-                  "category": "family",
-                  "coords": [
-                        12.560186,
-                        55.663658
-                  ]
-            },
-            {
-                  "name": "Legepladsen i Langelinieanlægget",
-                  "text": "Legepladsen i Langelinieanlægget in Kopenhagen ist ein familienfreundlicher Spielplatz für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        12.599721,
-                        55.690942
                   ]
             },
             {
@@ -322,51 +205,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "GoMonkey Søndermarken",
-                  "text": "GoMonkey Søndermarken in Kopenhagen ist ein Themenpark für Abenteuer mit der Familie.",
-                  "category": "family",
-                  "coords": [
-                        12.518653,
-                        55.670653
-                  ]
-            },
-            {
-                  "name": "Havnevigen",
-                  "text": "Havnevigen in Kopenhagen ist ein Badebereich für Wasserspaß und Erholung.",
-                  "category": "family",
-                  "coords": [
-                        12.565574,
-                        55.654352
-                  ]
-            },
-            {
-                  "name": "Kajakpolobane",
-                  "text": "Kajakpolobane in Kopenhagen ist ein Schwimmbecken für sportliche Aktivitäten im Wasser.",
-                  "category": "family",
-                  "coords": [
-                        12.60629,
-                        55.676234
-                  ]
-            },
-            {
-                  "name": "Bonderen",
-                  "text": "Bonderen in Kopenhagen ist ein Zoo, der Besuchern die Tierwelt näher bringt.",
-                  "category": "family",
-                  "coords": [
-                        12.598087,
-                        55.652755
-                  ]
-            },
-            {
-                  "name": "Motionsbassin",
-                  "text": "Motionsbassin in Kopenhagen ist ein Badebereich für sportliches Schwimmen.",
-                  "category": "family",
-                  "coords": [
-                        12.554059,
-                        55.646689
-                  ]
-            },
-            {
                   "name": "Tivoli",
                   "text": "Tivoli Gardens in Kopenhagen ist ein berühmter Themenpark für Familienunterhaltung.",
                   "category": "family",
@@ -376,111 +214,12 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Søndre Refshalebassin Badezone",
-                  "text": "Søndre Refshalebassin Badezone in Kopenhagen ist ein Bereich zum Schwimmen im Freien.",
-                  "category": "family",
-                  "coords": [
-                        12.609618,
-                        55.690079
-                  ]
-            },
-            {
-                  "name": "Kalvebod Bølge Badezone",
-                  "text": "Kalvebod Bølge Badezone in Kopenhagen ist ein moderner Badebereich am Wasser.",
-                  "category": "family",
-                  "coords": [
-                        12.575751,
-                        55.66895
-                  ]
-            },
-            {
-                  "name": "Badezone Sandkaj",
-                  "text": "Badezone Sandkaj in Kopenhagen ist ein beliebter Ort für eine Erfrischung im Hafen.",
-                  "category": "family",
-                  "coords": [
-                        12.597159,
-                        55.706255
-                  ]
-            },
-            {
-                  "name": "Badezone Teglholm Brygge",
-                  "text": "Badezone Teglholm Brygge in Kopenhagen bietet Möglichkeiten zum Schwimmen in der Stadt.",
-                  "category": "family",
-                  "coords": [
-                        12.545534,
-                        55.651239
-                  ]
-            },
-            {
-                  "name": "Richard Boones Vej 'Vandtrappen'",
-                  "text": "Richard Boones Vej 'Vandtrappen' in Kopenhagen ist ein Badebereich für Wasserfreunde.",
-                  "category": "family",
-                  "coords": [
-                        12.546822,
-                        55.648024
-                  ]
-            },
-            {
-                  "name": "Glaecier",
-                  "text": "Glaecier in Kopenhagen ist ein Wasserpark mit Attraktionen für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        12.606475,
-                        55.690357
-                  ]
-            },
-            {
-                  "name": "Dyppezone Havnegade",
-                  "text": "Dyppezone Havnegade in Kopenhagen ist ein Schwimmbecken für eine Abkühlung im Hafen.",
-                  "category": "family",
-                  "coords": [
-                        12.592776,
-                        55.678118
-                  ]
-            },
-            {
-                  "name": "La Banchina Badezone",
-                  "text": "La Banchina Badezone in Kopenhagen ist ein Ort zum Schwimmen und Entspannen.",
-                  "category": "family",
-                  "coords": [
-                        12.610545,
-                        55.68942
-                  ]
-            },
-            {
-                  "name": "Danish Jewish Museum",
-                  "text": "Ein Museum in Kopenhagen, das die Geschichte und Kultur der jüdischen Gemeinde in Dänemark erkundet.",
-                  "category": "museum",
-                  "coords": [
-                        12.582303,
-                        55.674365
-                  ]
-            },
-            {
-                  "name": "Medical Museion",
-                  "text": "Ein Museum in Kopenhagen, das sich auf die Geschichte der Medizin und der medizinischen Wissenschaft konzentriert.",
-                  "category": "museum",
-                  "coords": [
-                        12.591896,
-                        55.685958
-                  ]
-            },
-            {
                   "name": "The David Collection",
                   "text": "Ein Museum in Kopenhagen mit einer bedeutenden Sammlung islamischer Kunst und europäischer dekorativer Kunst.",
                   "category": "museum",
                   "coords": [
                         12.582385,
                         55.68428
-                  ]
-            },
-            {
-                  "name": "Politihistorisk Museum",
-                  "text": "Ein Museum in Kopenhagen, das der Geschichte der dänischen Polizei gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        12.560847,
-                        55.690031
                   ]
             },
             {
@@ -499,15 +238,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         12.552377,
                         55.682313
-                  ]
-            },
-            {
-                  "name": "Kongernes Samling Amalienborg",
-                  "text": "Ein Museum im Schloss Amalienborg, das die privaten Gemächer der dänischen Könige und Königinnen zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        12.592452,
-                        55.684455
                   ]
             },
             {
@@ -531,87 +261,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Soppesøen",
-                  "text": "A Soppesøen egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        12.563565,
-                        55.700603
-                  ]
-            },
-            {
-                  "name": "Vagthussøen",
-                  "text": "A Vagthussøen egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        12.569616,
-                        55.646922
-                  ]
-            },
-            {
-                  "name": "Utterslev gadekær",
-                  "text": "Az Utterslev gadekær egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        12.516543,
-                        55.71034
-                  ]
-            },
-            {
-                  "name": "Bademosen",
-                  "text": "A Bademosen egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        12.493366,
-                        55.722569
-                  ]
-            },
-            {
-                  "name": "Bøgebjerg Engsøer",
-                  "text": "A Bøgebjerg Engsøer egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        12.492007,
-                        55.723922
-                  ]
-            },
-            {
-                  "name": "Vestmosen",
-                  "text": "A Vestmosen egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        12.493695,
-                        55.712791
-                  ]
-            },
-            {
-                  "name": "Gentofte Sø",
-                  "text": "A Gentofte Sø egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        12.535132,
-                        55.748461
-                  ]
-            },
-            {
-                  "name": "Damhussøen",
-                  "text": "A Damhussøen egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        12.478138,
-                        55.677051
-                  ]
-            },
-            {
-                  "name": "Sortedams Sø",
-                  "text": "A Sortedams Sø egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        12.57129,
-                        55.692053
-                  ]
-            },
-            {
                   "name": "Sankt Jørgens Sø",
                   "text": "A Sankt Jørgens Sø egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
                   "category": "natural",
@@ -621,30 +270,12 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Grønjordssøen",
-                  "text": "A Grønjordssøen egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        12.585011,
-                        55.651501
-                  ]
-            },
-            {
                   "name": "Tivoli Søen",
                   "text": "A Tivoli Søen egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
                   "category": "natural",
                   "coords": [
                         12.56963,
                         55.67387
-                  ]
-            },
-            {
-                  "name": "Emdrup Sø",
-                  "text": "Az Emdrup Sø egy tó Koppenhága területén, amely ideális sétáláshoz és a táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        12.550449,
-                        55.722712
                   ]
             },
             {
@@ -681,24 +312,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         12.549202,
                         55.679581
-                  ]
-            },
-            {
-                  "name": "Maximum København",
-                  "text": "A Maximum København egy szórakoztató játékterem Koppenhága területén, amely vidám játékokat kínál az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        12.560186,
-                        55.663658
-                  ]
-            },
-            {
-                  "name": "Legepladsen i Langelinieanlægget",
-                  "text": "A Legepladsen i Langelinieanlægget Koppenhága területén egy családbarát játszótér gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        12.599721,
-                        55.690942
                   ]
             },
             {
@@ -747,51 +360,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "GoMonkey Søndermarken",
-                  "text": "A GoMonkey Søndermarken Koppenhágában egy élménypark a családi kalandokhoz.",
-                  "category": "family",
-                  "coords": [
-                        12.518653,
-                        55.670653
-                  ]
-            },
-            {
-                  "name": "Havnevigen",
-                  "text": "A Havnevigen Koppenhágában egy fürdőhely a vízi szórakozáshoz és kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        12.565574,
-                        55.654352
-                  ]
-            },
-            {
-                  "name": "Kajakpolobane",
-                  "text": "A Kajakpolobane Koppenhágában egy úszómedence a vízi sporttevékenységekhez.",
-                  "category": "family",
-                  "coords": [
-                        12.60629,
-                        55.676234
-                  ]
-            },
-            {
-                  "name": "Bonderen",
-                  "text": "A Bonderen Koppenhágában egy állatkert, amely közelebb hozza az állatvilágot a látogatókhoz.",
-                  "category": "family",
-                  "coords": [
-                        12.598087,
-                        55.652755
-                  ]
-            },
-            {
-                  "name": "Motionsbassin",
-                  "text": "A Motionsbassin Koppenhágában egy fürdőhely a sportos úszáshoz.",
-                  "category": "family",
-                  "coords": [
-                        12.554059,
-                        55.646689
-                  ]
-            },
-            {
                   "name": "Tivoli",
                   "text": "A Tivoli Gardens Koppenhágában egy híres élménypark a családi szórakozáshoz.",
                   "category": "family",
@@ -801,111 +369,12 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Søndre Refshalebassin Badezone",
-                  "text": "A Søndre Refshalebassin Badezone Koppenhágában egy szabadtéri úszásra alkalmas terület.",
-                  "category": "family",
-                  "coords": [
-                        12.609618,
-                        55.690079
-                  ]
-            },
-            {
-                  "name": "Kalvebod Bølge Badezone",
-                  "text": "A Kalvebod Bølge Badezone Koppenhágában egy modern vízparti fürdőhely.",
-                  "category": "family",
-                  "coords": [
-                        12.575751,
-                        55.66895
-                  ]
-            },
-            {
-                  "name": "Badezone Sandkaj",
-                  "text": "A Badezone Sandkaj Koppenhágában egy népszerű hely a kikötői felfrissüléshez.",
-                  "category": "family",
-                  "coords": [
-                        12.597159,
-                        55.706255
-                  ]
-            },
-            {
-                  "name": "Badezone Teglholm Brygge",
-                  "text": "A Badezone Teglholm Brygge Koppenhágában úszási lehetőséget kínál a városban.",
-                  "category": "family",
-                  "coords": [
-                        12.545534,
-                        55.651239
-                  ]
-            },
-            {
-                  "name": "Richard Boones Vej 'Vandtrappen'",
-                  "text": "A Richard Boones Vej 'Vandtrappen' Koppenhágában egy fürdőhely a víz kedvelői számára.",
-                  "category": "family",
-                  "coords": [
-                        12.546822,
-                        55.648024
-                  ]
-            },
-            {
-                  "name": "Glaecier",
-                  "text": "A Glaecier Koppenhágában egy vízi park az egész család számára kínált látnivalókkal.",
-                  "category": "family",
-                  "coords": [
-                        12.606475,
-                        55.690357
-                  ]
-            },
-            {
-                  "name": "Dyppezone Havnegade",
-                  "text": "A Dyppezone Havnegade Koppenhágában egy úszómedence a kikötői hűsöléshez.",
-                  "category": "family",
-                  "coords": [
-                        12.592776,
-                        55.678118
-                  ]
-            },
-            {
-                  "name": "La Banchina Badezone",
-                  "text": "A La Banchina Badezone Koppenhágában egy hely az úszáshoz és a lazításhoz.",
-                  "category": "family",
-                  "coords": [
-                        12.610545,
-                        55.68942
-                  ]
-            },
-            {
-                  "name": "Danish Jewish Museum",
-                  "text": "Koppenhágai múzeum, amely a dániai zsidó közösség történelmét és kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        12.582303,
-                        55.674365
-                  ]
-            },
-            {
-                  "name": "Medical Museion",
-                  "text": "Koppenhágai múzeum, amely az orvostudomány és az orvoslás történetére összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        12.591896,
-                        55.685958
-                  ]
-            },
-            {
                   "name": "The David Collection",
                   "text": "Koppenhágai múzeum, amely jelentős iszlám művészeti és európai díszítőművészeti gyűjteménnyel rendelkezik.",
                   "category": "museum",
                   "coords": [
                         12.582385,
                         55.68428
-                  ]
-            },
-            {
-                  "name": "Politihistorisk Museum",
-                  "text": "Koppenhágai múzeum, amely a dán rendőrség történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        12.560847,
-                        55.690031
                   ]
             },
             {
@@ -924,15 +393,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         12.552377,
                         55.682313
-                  ]
-            },
-            {
-                  "name": "Kongernes Samling Amalienborg",
-                  "text": "Múzeum az Amalienborg palotában, amely a dán királyok és királynők magánlakosztályait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        12.592452,
-                        55.684455
                   ]
             },
             {
@@ -956,87 +416,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Soppesøen",
-                  "text": "Soppesøen este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        12.563565,
-                        55.700603
-                  ]
-            },
-            {
-                  "name": "Vagthussøen",
-                  "text": "Vagthussøen este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        12.569616,
-                        55.646922
-                  ]
-            },
-            {
-                  "name": "Utterslev gadekær",
-                  "text": "Utterslev gadekær este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        12.516543,
-                        55.71034
-                  ]
-            },
-            {
-                  "name": "Bademosen",
-                  "text": "Bademosen este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        12.493366,
-                        55.722569
-                  ]
-            },
-            {
-                  "name": "Bøgebjerg Engsøer",
-                  "text": "Bøgebjerg Engsøer este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        12.492007,
-                        55.723922
-                  ]
-            },
-            {
-                  "name": "Vestmosen",
-                  "text": "Vestmosen este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        12.493695,
-                        55.712791
-                  ]
-            },
-            {
-                  "name": "Gentofte Sø",
-                  "text": "Gentofte Sø este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        12.535132,
-                        55.748461
-                  ]
-            },
-            {
-                  "name": "Damhussøen",
-                  "text": "Damhussøen este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        12.478138,
-                        55.677051
-                  ]
-            },
-            {
-                  "name": "Sortedams Sø",
-                  "text": "Sortedams Sø este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        12.57129,
-                        55.692053
-                  ]
-            },
-            {
                   "name": "Sankt Jørgens Sø",
                   "text": "Sankt Jørgens Sø este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
                   "category": "natural",
@@ -1046,30 +425,12 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Grønjordssøen",
-                  "text": "Grønjordssøen este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        12.585011,
-                        55.651501
-                  ]
-            },
-            {
                   "name": "Tivoli Søen",
                   "text": "Tivoli Søen este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
                   "category": "natural",
                   "coords": [
                         12.56963,
                         55.67387
-                  ]
-            },
-            {
-                  "name": "Emdrup Sø",
-                  "text": "Emdrup Sø este un lac din Copenhaga, ideal pentru plimbări și pentru a te bucura de peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        12.550449,
-                        55.722712
                   ]
             },
             {
@@ -1106,24 +467,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         12.549202,
                         55.679581
-                  ]
-            },
-            {
-                  "name": "Maximum København",
-                  "text": "Maximum København este o sală de jocuri din Copenhaga care oferă jocuri distractive pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        12.560186,
-                        55.663658
-                  ]
-            },
-            {
-                  "name": "Legepladsen i Langelinieanlægget",
-                  "text": "Legepladsen i Langelinieanlægget din Copenhaga este un loc de joacă pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        12.599721,
-                        55.690942
                   ]
             },
             {
@@ -1172,51 +515,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "GoMonkey Søndermarken",
-                  "text": "GoMonkey Søndermarken din Copenhaga este un parc tematic pentru aventuri cu familia.",
-                  "category": "family",
-                  "coords": [
-                        12.518653,
-                        55.670653
-                  ]
-            },
-            {
-                  "name": "Havnevigen",
-                  "text": "Havnevigen din Copenhaga este o zonă de înot pentru distracție acvatică și relaxare.",
-                  "category": "family",
-                  "coords": [
-                        12.565574,
-                        55.654352
-                  ]
-            },
-            {
-                  "name": "Kajakpolobane",
-                  "text": "Kajakpolobane din Copenhaga este o piscină pentru activități sportive în apă.",
-                  "category": "family",
-                  "coords": [
-                        12.60629,
-                        55.676234
-                  ]
-            },
-            {
-                  "name": "Bonderen",
-                  "text": "Bonderen din Copenhaga este o grădină zoologică care apropie vizitatorii de lumea animală.",
-                  "category": "family",
-                  "coords": [
-                        12.598087,
-                        55.652755
-                  ]
-            },
-            {
-                  "name": "Motionsbassin",
-                  "text": "Motionsbassin din Copenhaga este o zonă de scăldat pentru înot sportiv.",
-                  "category": "family",
-                  "coords": [
-                        12.554059,
-                        55.646689
-                  ]
-            },
-            {
                   "name": "Tivoli",
                   "text": "Tivoli Gardens din Copenhaga este un parc tematic faimos pentru divertisment în familie.",
                   "category": "family",
@@ -1226,111 +524,12 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Søndre Refshalebassin Badezone",
-                  "text": "Søndre Refshalebassin Badezone din Copenhaga este o zonă pentru înot în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        12.609618,
-                        55.690079
-                  ]
-            },
-            {
-                  "name": "Kalvebod Bølge Badezone",
-                  "text": "Kalvebod Bølge Badezone din Copenhaga este o zonă de scăldat modernă la malul apei.",
-                  "category": "family",
-                  "coords": [
-                        12.575751,
-                        55.66895
-                  ]
-            },
-            {
-                  "name": "Badezone Sandkaj",
-                  "text": "Badezone Sandkaj din Copenhaga este un loc popular pentru o răcorire în port.",
-                  "category": "family",
-                  "coords": [
-                        12.597159,
-                        55.706255
-                  ]
-            },
-            {
-                  "name": "Badezone Teglholm Brygge",
-                  "text": "Badezone Teglholm Brygge din Copenhaga oferă oportunități de înot în oraș.",
-                  "category": "family",
-                  "coords": [
-                        12.545534,
-                        55.651239
-                  ]
-            },
-            {
-                  "name": "Richard Boones Vej 'Vandtrappen'",
-                  "text": "Richard Boones Vej 'Vandtrappen' din Copenhaga este o zonă de scăldat pentru iubitorii de apă.",
-                  "category": "family",
-                  "coords": [
-                        12.546822,
-                        55.648024
-                  ]
-            },
-            {
-                  "name": "Glaecier",
-                  "text": "Glaecier din Copenhaga este un parc acvatic cu atracții pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        12.606475,
-                        55.690357
-                  ]
-            },
-            {
-                  "name": "Dyppezone Havnegade",
-                  "text": "Dyppezone Havnegade din Copenhaga este o piscină pentru o răcorire în port.",
-                  "category": "family",
-                  "coords": [
-                        12.592776,
-                        55.678118
-                  ]
-            },
-            {
-                  "name": "La Banchina Badezone",
-                  "text": "La Banchina Badezone din Copenhaga este un loc pentru înot și relaxare.",
-                  "category": "family",
-                  "coords": [
-                        12.610545,
-                        55.68942
-                  ]
-            },
-            {
-                  "name": "Danish Jewish Museum",
-                  "text": "Un muzeu din Copenhaga care explorează istoria și cultura comunității evreiești din Danemarca.",
-                  "category": "museum",
-                  "coords": [
-                        12.582303,
-                        55.674365
-                  ]
-            },
-            {
-                  "name": "Medical Museion",
-                  "text": "Un muzeu din Copenhaga axat pe istoria medicinei și a științei medicale.",
-                  "category": "museum",
-                  "coords": [
-                        12.591896,
-                        55.685958
-                  ]
-            },
-            {
                   "name": "The David Collection",
                   "text": "Un muzeu din Copenhaga care adăpostește o colecție semnificativă de artă islamică și arte decorative europene.",
                   "category": "museum",
                   "coords": [
                         12.582385,
                         55.68428
-                  ]
-            },
-            {
-                  "name": "Politihistorisk Museum",
-                  "text": "Un muzeu din Copenhaga dedicat istoriei forțelor de poliție daneze.",
-                  "category": "museum",
-                  "coords": [
-                        12.560847,
-                        55.690031
                   ]
             },
             {
@@ -1349,15 +548,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         12.552377,
                         55.682313
-                  ]
-            },
-            {
-                  "name": "Kongernes Samling Amalienborg",
-                  "text": "Un muzeu de la Palatul Amalienborg care prezintă apartamentele private ale regilor și reginelor Danemarcei.",
-                  "category": "museum",
-                  "coords": [
-                        12.592452,
-                        55.684455
                   ]
             },
             {
@@ -1381,87 +571,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Soppesøen",
-                  "text": "Soppesøen is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
-                  "category": "natural",
-                  "coords": [
-                        12.563565,
-                        55.700603
-                  ]
-            },
-            {
-                  "name": "Vagthussøen",
-                  "text": "Vagthussøen is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
-                  "category": "natural",
-                  "coords": [
-                        12.569616,
-                        55.646922
-                  ]
-            },
-            {
-                  "name": "Utterslev gadekær",
-                  "text": "Utterslev gadekær is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
-                  "category": "natural",
-                  "coords": [
-                        12.516543,
-                        55.71034
-                  ]
-            },
-            {
-                  "name": "Bademosen",
-                  "text": "Bademosen is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
-                  "category": "natural",
-                  "coords": [
-                        12.493366,
-                        55.722569
-                  ]
-            },
-            {
-                  "name": "Bøgebjerg Engsøer",
-                  "text": "Bøgebjerg Engsøer is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
-                  "category": "natural",
-                  "coords": [
-                        12.492007,
-                        55.723922
-                  ]
-            },
-            {
-                  "name": "Vestmosen",
-                  "text": "Vestmosen is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
-                  "category": "natural",
-                  "coords": [
-                        12.493695,
-                        55.712791
-                  ]
-            },
-            {
-                  "name": "Gentofte Sø",
-                  "text": "Gentofte Sø is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
-                  "category": "natural",
-                  "coords": [
-                        12.535132,
-                        55.748461
-                  ]
-            },
-            {
-                  "name": "Damhussøen",
-                  "text": "Damhussøen is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
-                  "category": "natural",
-                  "coords": [
-                        12.478138,
-                        55.677051
-                  ]
-            },
-            {
-                  "name": "Sortedams Sø",
-                  "text": "Sortedams Sø is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
-                  "category": "natural",
-                  "coords": [
-                        12.57129,
-                        55.692053
-                  ]
-            },
-            {
                   "name": "Sankt Jørgens Sø",
                   "text": "Sankt Jørgens Sø is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
                   "category": "natural",
@@ -1471,30 +580,12 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Grønjordssøen",
-                  "text": "Grønjordssøen is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
-                  "category": "natural",
-                  "coords": [
-                        12.585011,
-                        55.651501
-                  ]
-            },
-            {
                   "name": "Tivoli Søen",
                   "text": "Tivoli Søen is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
                   "category": "natural",
                   "coords": [
                         12.56963,
                         55.67387
-                  ]
-            },
-            {
-                  "name": "Emdrup Sø",
-                  "text": "Emdrup Sø is a lake in Copenhagen, ideal for walking and enjoying the scenery.",
-                  "category": "natural",
-                  "coords": [
-                        12.550449,
-                        55.722712
                   ]
             },
             {
@@ -1531,24 +622,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         12.549202,
                         55.679581
-                  ]
-            },
-            {
-                  "name": "Maximum København",
-                  "text": "Maximum København is an amusement arcade in Copenhagen offering fun games for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        12.560186,
-                        55.663658
-                  ]
-            },
-            {
-                  "name": "Legepladsen i Langelinieanlægget",
-                  "text": "Legepladsen i Langelinieanlægget in Copenhagen is a family-friendly playground for children.",
-                  "category": "family",
-                  "coords": [
-                        12.599721,
-                        55.690942
                   ]
             },
             {
@@ -1597,51 +670,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "GoMonkey Søndermarken",
-                  "text": "GoMonkey Søndermarken in Copenhagen is a theme park for family adventures.",
-                  "category": "family",
-                  "coords": [
-                        12.518653,
-                        55.670653
-                  ]
-            },
-            {
-                  "name": "Havnevigen",
-                  "text": "Havnevigen in Copenhagen is a swimming area for water fun and relaxation.",
-                  "category": "family",
-                  "coords": [
-                        12.565574,
-                        55.654352
-                  ]
-            },
-            {
-                  "name": "Kajakpolobane",
-                  "text": "Kajakpolobane in Copenhagen is a swimming pool for water sports activities.",
-                  "category": "family",
-                  "coords": [
-                        12.60629,
-                        55.676234
-                  ]
-            },
-            {
-                  "name": "Bonderen",
-                  "text": "Bonderen in Copenhagen is a zoo that brings visitors closer to the animal world.",
-                  "category": "family",
-                  "coords": [
-                        12.598087,
-                        55.652755
-                  ]
-            },
-            {
-                  "name": "Motionsbassin",
-                  "text": "Motionsbassin in Copenhagen is a swimming area for fitness swimming.",
-                  "category": "family",
-                  "coords": [
-                        12.554059,
-                        55.646689
-                  ]
-            },
-            {
                   "name": "Tivoli Gardens",
                   "text": "Tivoli Gardens in Copenhagen is a famous theme park for family entertainment.",
                   "category": "family",
@@ -1651,111 +679,12 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Søndre Refshalebassin Badezone",
-                  "text": "Søndre Refshalebassin Badezone in Copenhagen is an area for outdoor swimming.",
-                  "category": "family",
-                  "coords": [
-                        12.609618,
-                        55.690079
-                  ]
-            },
-            {
-                  "name": "Kalvebod Bølge Badezone",
-                  "text": "Kalvebod Bølge Badezone in Copenhagen is a modern waterfront swimming area.",
-                  "category": "family",
-                  "coords": [
-                        12.575751,
-                        55.66895
-                  ]
-            },
-            {
-                  "name": "Badezone Sandkaj",
-                  "text": "Badezone Sandkaj in Copenhagen is a popular spot for a refreshing dip in the harbor.",
-                  "category": "family",
-                  "coords": [
-                        12.597159,
-                        55.706255
-                  ]
-            },
-            {
-                  "name": "Badezone Teglholm Brygge",
-                  "text": "Badezone Teglholm Brygge in Copenhagen offers opportunities for swimming in the city.",
-                  "category": "family",
-                  "coords": [
-                        12.545534,
-                        55.651239
-                  ]
-            },
-            {
-                  "name": "Richard Boones Vej 'Vandtrappen'",
-                  "text": "Richard Boones Vej 'Vandtrappen' in Copenhagen is a swimming area for water lovers.",
-                  "category": "family",
-                  "coords": [
-                        12.546822,
-                        55.648024
-                  ]
-            },
-            {
-                  "name": "Glaecier",
-                  "text": "Glaecier in Copenhagen is a water park with attractions for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        12.606475,
-                        55.690357
-                  ]
-            },
-            {
-                  "name": "Dyppezone Havnegade",
-                  "text": "Dyppezone Havnegade in Copenhagen is a swimming pool for a cooling dip in the harbor.",
-                  "category": "family",
-                  "coords": [
-                        12.592776,
-                        55.678118
-                  ]
-            },
-            {
-                  "name": "La Banchina Badezone",
-                  "text": "La Banchina Badezone in Copenhagen is a spot for swimming and relaxing.",
-                  "category": "family",
-                  "coords": [
-                        12.610545,
-                        55.68942
-                  ]
-            },
-            {
-                  "name": "Danish Jewish Museum",
-                  "text": "A museum in Copenhagen exploring the history and culture of the Jewish community in Denmark.",
-                  "category": "museum",
-                  "coords": [
-                        12.582303,
-                        55.674365
-                  ]
-            },
-            {
-                  "name": "Medical Museion",
-                  "text": "A museum in Copenhagen focusing on the history of medicine and medical science.",
-                  "category": "museum",
-                  "coords": [
-                        12.591896,
-                        55.685958
-                  ]
-            },
-            {
                   "name": "The David Collection",
                   "text": "A museum in Copenhagen housing a significant collection of Islamic art and European decorative arts.",
                   "category": "museum",
                   "coords": [
                         12.582385,
                         55.68428
-                  ]
-            },
-            {
-                  "name": "Politihistorisk Museum",
-                  "text": "A museum in Copenhagen dedicated to the history of the Danish police force.",
-                  "category": "museum",
-                  "coords": [
-                        12.560847,
-                        55.690031
                   ]
             },
             {
@@ -1774,15 +703,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         12.552377,
                         55.682313
-                  ]
-            },
-            {
-                  "name": "Kongernes Samling Amalienborg",
-                  "text": "A museum at Amalienborg Palace showcasing the private chambers of recent kings and queens.",
-                  "category": "museum",
-                  "coords": [
-                        12.592452,
-                        55.684455
                   ]
             },
             {
@@ -1904,15 +824,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Besættelsesmuseet",
-                  "text": "Ein Museum über die deutsche Besatzungszeit in Aarhus während des Zweiten Weltkriegs.",
-                  "category": "museum",
-                  "coords": [
-                        10.211452,
-                        56.157394
-                  ]
-            },
-            {
                   "name": "Aarhus Rådhus",
                   "text": "Das von Arne Jacobsen entworfene Rathaus von Aarhus.",
                   "category": "historical",
@@ -1931,30 +842,12 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Teatret Gruppe 38",
-                  "text": "Eine preisgekrönte Theatergruppe mit eigenem Spielort in Aarhus.",
-                  "category": "cultural",
-                  "coords": [
-                        10.227524,
-                        56.163184
-                  ]
-            },
-            {
                   "name": "Musikhuset Aarhus",
                   "text": "Ein großes Konzerthaus und Kulturzentrum im Zentrum von Aarhus.",
                   "category": "cultural",
                   "coords": [
                         10.199063,
                         56.152962
-                  ]
-            },
-            {
-                  "name": "Sankt Pauls Kirke",
-                  "text": "Eine neugotische Kirche im Stadtteil Frederiksbjerg in Aarhus.",
-                  "category": "religious",
-                  "coords": [
-                        10.203924,
-                        56.146019
                   ]
             },
             {
@@ -1982,15 +875,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.200385,
                         56.150861
-                  ]
-            },
-            {
-                  "name": "Vor Frue Kirke",
-                  "text": "Ein historischer Kirchenkomplex in Aarhus, der eine Kryptakirche aus dem 11. Jahrhundert umfasst.",
-                  "category": "religious",
-                  "coords": [
-                        10.204391,
-                        56.151529
                   ]
             },
             {
@@ -2057,15 +941,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Sankt Nicolaus Kilde",
-                  "text": "Sankt Nicolaus Kilde ist eine bekannte Quelle in Aarhus.",
-                  "category": "landmark",
-                  "coords": [
-                        10.208086,
-                        56.142633
-                  ]
-            },
-            {
                   "name": "Ringgadebroen",
                   "text": "Die Ringgadebroen ist eine bedeutende Brücke in Aarhus.",
                   "category": "landmark",
@@ -2081,24 +956,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.206893,
                         56.156731
-                  ]
-            },
-            {
-                  "name": "Sky Tower",
-                  "text": "Der Sky Tower ist ein hoher Turm im Tivoli Friheden in Aarhus.",
-                  "category": "tower",
-                  "coords": [
-                        10.196953,
-                        56.136183
-                  ]
-            },
-            {
-                  "name": "Sankt Olufs Kirkegård",
-                  "text": "Die Sankt Olufs Kirkegård ist eine Grünanlage an einer ehemaligen Kirche in Aarhus.",
-                  "category": "park",
-                  "coords": [
-                        10.212886,
-                        56.158405
                   ]
             },
             {
@@ -2129,33 +986,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Skanseparken",
-                  "text": "Die Skanseparken ist eine öffentliche Parkanlage im Viertel Frederiksbjerg in Aarhus.",
-                  "category": "park",
-                  "coords": [
-                        10.207159,
-                        56.145436
-                  ]
-            },
-            {
-                  "name": "Tangkrogen",
-                  "text": "Tangkrogen ist ein Küstenpark in Aarhus, der oft für Veranstaltungen genutzt wird.",
-                  "category": "park",
-                  "coords": [
-                        10.210277,
-                        56.137598
-                  ]
-            },
-            {
-                  "name": "Mindeparken",
-                  "text": "Die Mindeparken ist eine große Parkanlage mit Blick auf die Aarhus-Bucht.",
-                  "category": "park",
-                  "coords": [
-                        10.20769,
-                        56.128754
-                  ]
-            },
-            {
                   "name": "Åparken",
                   "text": "Die Åparken ist ein moderner Park entlang des Flusses in Aarhus.",
                   "category": "park",
@@ -2165,75 +995,12 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Tivoli Friheden",
-                  "text": "Tivoli Friheden ist ein beliebter Freizeitpark in Aarhus.",
-                  "category": "family",
-                  "coords": [
-                        10.198367,
-                        56.136263
-                  ]
-            },
-            {
-                  "name": "Vikingemuseet",
-                  "text": "Das Wikingermuseum in Aarhus zeigt archäologische Funde aus der Wikingerzeit.",
-                  "category": "museum",
-                  "coords": [
-                        10.2091,
-                        56.15669
-                  ]
-            },
-            {
-                  "name": "Røverhøj",
-                  "text": "Røverhøj ist eine archäologische Stätte mit Überresten aus der Vergangenheit in Aarhus.",
-                  "category": "historical",
-                  "coords": [
-                        10.206485,
-                        56.136979
-                  ]
-            },
-            {
-                  "name": "Kulbroen",
-                  "text": "Kulbroen ist eine ehemalige Kohlebrücke, die heute als Industrieruine in Aarhus bekannt ist.",
-                  "category": "historical",
-                  "coords": [
-                        10.211314,
-                        56.148812
-                  ]
-            },
-            {
-                  "name": "Svalegangen",
-                  "text": "Svalegangen ist ein renommiertes Theater für zeitgenössische Dramatik in Aarhus.",
-                  "category": "cultural",
-                  "coords": [
-                        10.206277,
-                        56.152045
-                  ]
-            },
-            {
                   "name": "Teater Katapult",
                   "text": "Das Theater Catapult ist eine Bühne für innovative Theateraufführungen in Aarhus.",
                   "category": "cultural",
                   "coords": [
                         10.193986,
                         56.153574
-                  ]
-            },
-            {
-                  "name": "Aarhus Teater",
-                  "text": "Das Aarhus Teater ist das größte regionale Theater Dänemarks.",
-                  "category": "cultural",
-                  "coords": [
-                        10.210956,
-                        56.155851
-                  ]
-            },
-            {
-                  "name": "Aarhus Bykirke",
-                  "text": "Die Aarhus Bykirke ist eine evangelische Freikirche in Aarhus.",
-                  "category": "religious",
-                  "coords": [
-                        10.202904,
-                        56.147073
                   ]
             },
             {
@@ -2309,15 +1076,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Skovtoften",
-                  "text": "Skovtoften ist eine Grünanlage in Aarhus.",
-                  "category": "park",
-                  "coords": [
-                        10.220901,
-                        56.169838
-                  ]
-            },
-            {
                   "name": "Vor Frue Kirkeplads",
                   "text": "Die Vor Frue Kirkeplads ist ein Platz und Park an der Frauenkirche in Aarhus.",
                   "category": "park",
@@ -2351,24 +1109,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.1888,
                         56.170339
-                  ]
-            },
-            {
-                  "name": "Den Permanente Badeanstalt",
-                  "text": "Diese öffentliche Badeanstalt in Aarhus bietet einen traditionellen Rahmen zum Schwimmen und Entspannen an der Küste.",
-                  "category": "family",
-                  "coords": [
-                        10.231887,
-                        56.176506
-                  ]
-            },
-            {
-                  "name": "Aarhus Havsvømmebane",
-                  "text": "Diese Badezone in Aarhus bietet eine ausgewiesene Bahn für das Schwimmen im offenen Wasser und für Sport.",
-                  "category": "family",
-                  "coords": [
-                        10.229538,
-                        56.16774
                   ]
             },
             {
@@ -2446,15 +1186,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Besættelsesmuseet",
-                  "text": "Aarhus második világháborús német megszállását bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        10.211452,
-                        56.157394
-                  ]
-            },
-            {
                   "name": "Aarhus Rådhus",
                   "text": "Arne Jacobsen által tervezett városháza Aarhusban.",
                   "category": "historical",
@@ -2473,30 +1204,12 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Teatret Gruppe 38",
-                  "text": "Díjnyertes színházi társulat saját játszóhellyel Aarhusban.",
-                  "category": "cultural",
-                  "coords": [
-                        10.227524,
-                        56.163184
-                  ]
-            },
-            {
                   "name": "Musikhuset Aarhus",
                   "text": "Nagy koncertterem és kulturális központ Aarhus központjában.",
                   "category": "cultural",
                   "coords": [
                         10.199063,
                         56.152962
-                  ]
-            },
-            {
-                  "name": "Sankt Pauls Kirke",
-                  "text": "Neogótikus templom Aarhus Frederiksbjerg negyedében.",
-                  "category": "religious",
-                  "coords": [
-                        10.203924,
-                        56.146019
                   ]
             },
             {
@@ -2524,15 +1237,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.200385,
                         56.150861
-                  ]
-            },
-            {
-                  "name": "Vor Frue Kirke",
-                  "text": "Történelmi templomegyüttes Aarhusban, amely egy 11. századi kriptatemplomot is magában foglal.",
-                  "category": "religious",
-                  "coords": [
-                        10.204391,
-                        56.151529
                   ]
             },
             {
@@ -2599,15 +1303,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Sankt Nicolaus Kilde",
-                  "text": "A Sankt Nicolaus Kilde egy ismert forrás Aarhusban.",
-                  "category": "landmark",
-                  "coords": [
-                        10.208086,
-                        56.142633
-                  ]
-            },
-            {
                   "name": "Ringgadebroen",
                   "text": "A Ringgadebroen egy jelentős híd Aarhus városában.",
                   "category": "landmark",
@@ -2623,24 +1318,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.206893,
                         56.156731
-                  ]
-            },
-            {
-                  "name": "Sky Tower",
-                  "text": "A Sky Tower egy magas torony az aarhus-i Tivoli Frihedenben.",
-                  "category": "tower",
-                  "coords": [
-                        10.196953,
-                        56.136183
-                  ]
-            },
-            {
-                  "name": "Sankt Olufs Kirkegård",
-                  "text": "A Sankt Olufs Kirkegård egy park egy egykori templom helyén Aarhusban.",
-                  "category": "park",
-                  "coords": [
-                        10.212886,
-                        56.158405
                   ]
             },
             {
@@ -2671,33 +1348,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Skanseparken",
-                  "text": "A Skanseparken egy közpark Aarhus Frederiksbjerg negyedében.",
-                  "category": "park",
-                  "coords": [
-                        10.207159,
-                        56.145436
-                  ]
-            },
-            {
-                  "name": "Tangkrogen",
-                  "text": "Tangkrogen egy tengerparti park Aarhusban, amelyet gyakran rendezvényekre használnak.",
-                  "category": "park",
-                  "coords": [
-                        10.210277,
-                        56.137598
-                  ]
-            },
-            {
-                  "name": "Mindeparken",
-                  "text": "A Mindeparken egy nagy park, amely az Aarhus-öbölre néz.",
-                  "category": "park",
-                  "coords": [
-                        10.20769,
-                        56.128754
-                  ]
-            },
-            {
                   "name": "Åparken",
                   "text": "Az Åparken egy modern park az Aarhus-folyó mentén.",
                   "category": "park",
@@ -2707,75 +1357,12 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Tivoli Friheden",
-                  "text": "A Tivoli Friheden egy népszerű vidámpark Aarhusban.",
-                  "category": "family",
-                  "coords": [
-                        10.198367,
-                        56.136263
-                  ]
-            },
-            {
-                  "name": "Vikingemuseet",
-                  "text": "Az aarhus-i Viking Múzeum a viking korból származó régészeti leleteket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        10.2091,
-                        56.15669
-                  ]
-            },
-            {
-                  "name": "Røverhøj",
-                  "text": "Røverhøj egy régészeti lelőhely Aarhusban múltbéli maradványokkal.",
-                  "category": "historical",
-                  "coords": [
-                        10.206485,
-                        56.136979
-                  ]
-            },
-            {
-                  "name": "Kulbroen",
-                  "text": "A Kulbroen egy egykori szénszállító híd, amely ma ipari rom Aarhusban.",
-                  "category": "historical",
-                  "coords": [
-                        10.211314,
-                        56.148812
-                  ]
-            },
-            {
-                  "name": "Svalegangen",
-                  "text": "A Svalegangen egy elismert kortárs színház Aarhusban.",
-                  "category": "cultural",
-                  "coords": [
-                        10.206277,
-                        56.152045
-                  ]
-            },
-            {
                   "name": "Teater Katapult",
                   "text": "A Theater Catapult innovatív színházi előadások helyszíne Aarhusban.",
                   "category": "cultural",
                   "coords": [
                         10.193986,
                         56.153574
-                  ]
-            },
-            {
-                  "name": "Aarhus Teater",
-                  "text": "Az Aarhus Teater Dánia legnagyobb regionális színháza.",
-                  "category": "cultural",
-                  "coords": [
-                        10.210956,
-                        56.155851
-                  ]
-            },
-            {
-                  "name": "Aarhus Bykirke",
-                  "text": "Az Aarhus Bykirke egy evangélikus szabadegyház Aarhusban.",
-                  "category": "religious",
-                  "coords": [
-                        10.202904,
-                        56.147073
                   ]
             },
             {
@@ -2851,15 +1438,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Skovtoften",
-                  "text": "Skovtoften egy zöldterület Aarhusban.",
-                  "category": "park",
-                  "coords": [
-                        10.220901,
-                        56.169838
-                  ]
-            },
-            {
                   "name": "Vor Frue Kirkeplads",
                   "text": "A Vor Frue Kirkeplads egy tér és park a Miasszonyunk-templom mellett Aarhusban.",
                   "category": "park",
@@ -2893,24 +1471,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.1888,
                         56.170339
-                  ]
-            },
-            {
-                  "name": "Den Permanente Badeanstalt",
-                  "text": "Ez az Aarhus-i közfürdő hagyományos környezetet biztosít az úszáshoz és a tengerparti pihenéshez.",
-                  "category": "family",
-                  "coords": [
-                        10.231887,
-                        56.176506
-                  ]
-            },
-            {
-                  "name": "Aarhus Havsvømmebane",
-                  "text": "Ez az Aarhus-i úszóhely kijelölt pályát biztosít a nyílt vízi úszáshoz és edzéshez.",
-                  "category": "family",
-                  "coords": [
-                        10.229538,
-                        56.16774
                   ]
             },
             {
@@ -2988,15 +1548,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Besættelsesmuseet",
-                  "text": "Un muzeu despre ocupația germană a orașului Aarhus în timpul celui de-al Doilea Război Mondial.",
-                  "category": "museum",
-                  "coords": [
-                        10.211452,
-                        56.157394
-                  ]
-            },
-            {
                   "name": "Aarhus Rådhus",
                   "text": "Primăria din Aarhus, proiectată de Arne Jacobsen.",
                   "category": "historical",
@@ -3015,30 +1566,12 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Teatret Gruppe 38",
-                  "text": "O trupă de teatru premiată, cu sediul în Aarhus.",
-                  "category": "cultural",
-                  "coords": [
-                        10.227524,
-                        56.163184
-                  ]
-            },
-            {
                   "name": "Musikhuset Aarhus",
                   "text": "O sală mare de concerte și centru cultural în centrul orașului Aarhus.",
                   "category": "cultural",
                   "coords": [
                         10.199063,
                         56.152962
-                  ]
-            },
-            {
-                  "name": "Sankt Pauls Kirke",
-                  "text": "O biserică neogotică în cartierul Frederiksbjerg din Aarhus.",
-                  "category": "religious",
-                  "coords": [
-                        10.203924,
-                        56.146019
                   ]
             },
             {
@@ -3066,15 +1599,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.200385,
                         56.150861
-                  ]
-            },
-            {
-                  "name": "Vor Frue Kirke",
-                  "text": "Un complex bisericesc istoric din Aarhus, care include o criptă din secolul al XI-lea.",
-                  "category": "religious",
-                  "coords": [
-                        10.204391,
-                        56.151529
                   ]
             },
             {
@@ -3141,15 +1665,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Sankt Nicolaus Kilde",
-                  "text": "Sankt Nicolaus Kilde este un izvor cunoscut din Aarhus.",
-                  "category": "landmark",
-                  "coords": [
-                        10.208086,
-                        56.142633
-                  ]
-            },
-            {
                   "name": "Ringgadebroen",
                   "text": "Ringgadebroen este un pod important din Aarhus.",
                   "category": "landmark",
@@ -3165,24 +1680,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.206893,
                         56.156731
-                  ]
-            },
-            {
-                  "name": "Sky Tower",
-                  "text": "Sky Tower este un turn înalt situat în Tivoli Friheden din Aarhus.",
-                  "category": "tower",
-                  "coords": [
-                        10.196953,
-                        56.136183
-                  ]
-            },
-            {
-                  "name": "Sankt Olufs Kirkegård",
-                  "text": "Sankt Olufs Kirkegård este un spațiu verde pe locul unei foste biserici din Aarhus.",
-                  "category": "park",
-                  "coords": [
-                        10.212886,
-                        56.158405
                   ]
             },
             {
@@ -3213,33 +1710,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Skanseparken",
-                  "text": "Skanseparken este un parc public în cartierul Frederiksbjerg din Aarhus.",
-                  "category": "park",
-                  "coords": [
-                        10.207159,
-                        56.145436
-                  ]
-            },
-            {
-                  "name": "Tangkrogen",
-                  "text": "Tangkrogen este un parc de coastă din Aarhus, folosit adesea pentru evenimente.",
-                  "category": "park",
-                  "coords": [
-                        10.210277,
-                        56.137598
-                  ]
-            },
-            {
-                  "name": "Mindeparken",
-                  "text": "Mindeparken este un parc mare cu vedere la Golful Aarhus.",
-                  "category": "park",
-                  "coords": [
-                        10.20769,
-                        56.128754
-                  ]
-            },
-            {
                   "name": "Åparken",
                   "text": "Åparken este un parc modern de-a lungul râului din Aarhus.",
                   "category": "park",
@@ -3249,75 +1719,12 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Tivoli Friheden",
-                  "text": "Tivoli Friheden este un parc de distracții popular din Aarhus.",
-                  "category": "family",
-                  "coords": [
-                        10.198367,
-                        56.136263
-                  ]
-            },
-            {
-                  "name": "Vikingemuseet",
-                  "text": "Muzeul Viking din Aarhus expune descoperiri arheologice din epoca vikingă.",
-                  "category": "museum",
-                  "coords": [
-                        10.2091,
-                        56.15669
-                  ]
-            },
-            {
-                  "name": "Røverhøj",
-                  "text": "Røverhøj este un sit arheologic din Aarhus cu vestigii din trecut.",
-                  "category": "historical",
-                  "coords": [
-                        10.206485,
-                        56.136979
-                  ]
-            },
-            {
-                  "name": "Kulbroen",
-                  "text": "Kulbroen este un fost pod de cărbune, cunoscut astăzi ca o ruină industrială în Aarhus.",
-                  "category": "historical",
-                  "coords": [
-                        10.211314,
-                        56.148812
-                  ]
-            },
-            {
-                  "name": "Svalegangen",
-                  "text": "Svalegangen este un teatru renumit pentru dramaturgie contemporană din Aarhus.",
-                  "category": "cultural",
-                  "coords": [
-                        10.206277,
-                        56.152045
-                  ]
-            },
-            {
                   "name": "Teater Katapult",
                   "text": "Theater Catapult este o scenă pentru spectacole de teatru inovatoare din Aarhus.",
                   "category": "cultural",
                   "coords": [
                         10.193986,
                         56.153574
-                  ]
-            },
-            {
-                  "name": "Aarhus Teater",
-                  "text": "Aarhus Teater este cel mai mare teatru regional din Danemarca.",
-                  "category": "cultural",
-                  "coords": [
-                        10.210956,
-                        56.155851
-                  ]
-            },
-            {
-                  "name": "Aarhus Bykirke",
-                  "text": "Aarhus Bykirke este o biserică evanghelică liberă din Aarhus.",
-                  "category": "religious",
-                  "coords": [
-                        10.202904,
-                        56.147073
                   ]
             },
             {
@@ -3393,15 +1800,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Skovtoften",
-                  "text": "Skovtoften este un spațiu verde din Aarhus.",
-                  "category": "park",
-                  "coords": [
-                        10.220901,
-                        56.169838
-                  ]
-            },
-            {
                   "name": "Vor Frue Kirkeplads",
                   "text": "Vor Frue Kirkeplads este o piață și parc lângă Biserica Maicii Domnului din Aarhus.",
                   "category": "park",
@@ -3435,24 +1833,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.1888,
                         56.170339
-                  ]
-            },
-            {
-                  "name": "Den Permanente Badeanstalt",
-                  "text": "Această baie publică din Aarhus oferă un cadru tradițional pentru înot și relaxare la coastă.",
-                  "category": "family",
-                  "coords": [
-                        10.231887,
-                        56.176506
-                  ]
-            },
-            {
-                  "name": "Aarhus Havsvømmebane",
-                  "text": "Această zonă de înot din Aarhus oferă o culoar dedicat pentru înot în apă deschisă și exerciții fizice.",
-                  "category": "family",
-                  "coords": [
-                        10.229538,
-                        56.16774
                   ]
             },
             {
@@ -3530,15 +1910,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Besættelsesmuseet",
-                  "text": "A museum about the German occupation of Aarhus during World War II.",
-                  "category": "museum",
-                  "coords": [
-                        10.211452,
-                        56.157394
-                  ]
-            },
-            {
                   "name": "Aarhus Rådhus",
                   "text": "The Aarhus city hall, designed by Arne Jacobsen.",
                   "category": "historical",
@@ -3557,30 +1928,12 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Teatret Gruppe 38",
-                  "text": "An award-winning theatre group based in Aarhus.",
-                  "category": "cultural",
-                  "coords": [
-                        10.227524,
-                        56.163184
-                  ]
-            },
-            {
                   "name": "Musikhuset Aarhus",
                   "text": "A large concert hall and cultural center in the center of Aarhus.",
                   "category": "cultural",
                   "coords": [
                         10.199063,
                         56.152962
-                  ]
-            },
-            {
-                  "name": "Sankt Pauls Kirke",
-                  "text": "A Neo-Gothic church in the Frederiksbjerg district of Aarhus.",
-                  "category": "religious",
-                  "coords": [
-                        10.203924,
-                        56.146019
                   ]
             },
             {
@@ -3608,15 +1961,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.200385,
                         56.150861
-                  ]
-            },
-            {
-                  "name": "Vor Frue Kirke",
-                  "text": "A historic church complex in Aarhus that includes an 11th-century crypt church.",
-                  "category": "religious",
-                  "coords": [
-                        10.204391,
-                        56.151529
                   ]
             },
             {
@@ -3683,15 +2027,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Sankt Nicolaus Kilde",
-                  "text": "Sankt Nicolaus Kilde is a well-known spring in Aarhus.",
-                  "category": "landmark",
-                  "coords": [
-                        10.208086,
-                        56.142633
-                  ]
-            },
-            {
                   "name": "Ringgadebroen",
                   "text": "Ringgadebroen is a significant bridge in Aarhus.",
                   "category": "landmark",
@@ -3707,24 +2042,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.206893,
                         56.156731
-                  ]
-            },
-            {
-                  "name": "Sky Tower",
-                  "text": "Sky Tower is a tall tower located in Tivoli Friheden in Aarhus.",
-                  "category": "tower",
-                  "coords": [
-                        10.196953,
-                        56.136183
-                  ]
-            },
-            {
-                  "name": "Sankt Olufs Kirkegård",
-                  "text": "Sankt Olufs Kirkegård is a green space at a former church site in Aarhus.",
-                  "category": "park",
-                  "coords": [
-                        10.212886,
-                        56.158405
                   ]
             },
             {
@@ -3755,33 +2072,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Skanseparken",
-                  "text": "Skanseparken is a public park in the Frederiksbjerg district of Aarhus.",
-                  "category": "park",
-                  "coords": [
-                        10.207159,
-                        56.145436
-                  ]
-            },
-            {
-                  "name": "Tangkrogen",
-                  "text": "Tangkrogen is a coastal park in Aarhus often used for events.",
-                  "category": "park",
-                  "coords": [
-                        10.210277,
-                        56.137598
-                  ]
-            },
-            {
-                  "name": "Mindeparken",
-                  "text": "Mindeparken is a large park overlooking the Aarhus Bay.",
-                  "category": "park",
-                  "coords": [
-                        10.20769,
-                        56.128754
-                  ]
-            },
-            {
                   "name": "Åparken",
                   "text": "Åparken is a modern park along the river in Aarhus.",
                   "category": "park",
@@ -3791,75 +2081,12 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Tivoli Friheden",
-                  "text": "Tivoli Friheden is a popular amusement park in Aarhus.",
-                  "category": "family",
-                  "coords": [
-                        10.198367,
-                        56.136263
-                  ]
-            },
-            {
-                  "name": "The Viking Museum",
-                  "text": "The Viking Museum in Aarhus displays archaeological finds from the Viking Age.",
-                  "category": "museum",
-                  "coords": [
-                        10.2091,
-                        56.15669
-                  ]
-            },
-            {
-                  "name": "Røverhøj",
-                  "text": "Røverhøj is an archaeological site in Aarhus featuring remains from the past.",
-                  "category": "historical",
-                  "coords": [
-                        10.206485,
-                        56.136979
-                  ]
-            },
-            {
-                  "name": "Kulbroen",
-                  "text": "Kulbroen is a former coal bridge, now known as an industrial ruin in Aarhus.",
-                  "category": "historical",
-                  "coords": [
-                        10.211314,
-                        56.148812
-                  ]
-            },
-            {
-                  "name": "Svalegangen",
-                  "text": "Svalegangen is a renowned theatre for contemporary drama in Aarhus.",
-                  "category": "cultural",
-                  "coords": [
-                        10.206277,
-                        56.152045
-                  ]
-            },
-            {
                   "name": "Theater Catapult",
                   "text": "Theater Catapult is a venue for innovative theatre performances in Aarhus.",
                   "category": "cultural",
                   "coords": [
                         10.193986,
                         56.153574
-                  ]
-            },
-            {
-                  "name": "Aarhus Teater",
-                  "text": "Aarhus Teater is the largest regional theatre in Denmark.",
-                  "category": "cultural",
-                  "coords": [
-                        10.210956,
-                        56.155851
-                  ]
-            },
-            {
-                  "name": "Aarhus Bykirke",
-                  "text": "Aarhus Bykirke is an evangelical free church in Aarhus.",
-                  "category": "religious",
-                  "coords": [
-                        10.202904,
-                        56.147073
                   ]
             },
             {
@@ -3935,15 +2162,6 @@ export const denmarkRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Skovtoften",
-                  "text": "Skovtoften is a green area in Aarhus.",
-                  "category": "park",
-                  "coords": [
-                        10.220901,
-                        56.169838
-                  ]
-            },
-            {
                   "name": "Vor Frue Kirkeplads",
                   "text": "Vor Frue Kirkeplads is a square and park by the Church of Our Lady in Aarhus.",
                   "category": "park",
@@ -3977,24 +2195,6 @@ export const denmarkRegions: POI[] = [
                   "coords": [
                         10.1888,
                         56.170339
-                  ]
-            },
-            {
-                  "name": "Den Permanente Badeanstalt",
-                  "text": "This public bath in Aarhus provides a traditional setting for swimming and coastal relaxation.",
-                  "category": "family",
-                  "coords": [
-                        10.231887,
-                        56.176506
-                  ]
-            },
-            {
-                  "name": "Aarhus Havsvømmebane",
-                  "text": "This swimming area in Aarhus offers a designated lane for open-water swimming and exercise.",
-                  "category": "family",
-                  "coords": [
-                        10.229538,
-                        56.16774
                   ]
             },
             {
@@ -9008,15 +7208,6 @@ export const denmarkCities: POI[] = [
                   ]
             },
             {
-                  "name": "Roskilde Fjord Vildtreservat",
-                  "text": "Roskilde Fjord Vildtreservat ist ein Naturschutzgebiet in der Stadt Roskilde.",
-                  "category": "natural",
-                  "coords": [
-                        12.023841,
-                        55.765914
-                  ]
-            },
-            {
                   "name": "Folkeparken",
                   "text": "Folkeparken ist ein bemerkenswerter Park in Roskilde.",
                   "category": "park",
@@ -9259,15 +7450,6 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         12.079225,
                         55.65064
-                  ]
-            },
-            {
-                  "name": "Roskilde Fjord Vildtreservat",
-                  "text": "A Roskilde Fjord Vildtreservat egy természetvédelmi terület Roskilde városában.",
-                  "category": "natural",
-                  "coords": [
-                        12.023841,
-                        55.765914
                   ]
             },
             {
@@ -9516,15 +7698,6 @@ export const denmarkCities: POI[] = [
                   ]
             },
             {
-                  "name": "Roskilde Fjord Vildtreservat",
-                  "text": "Roskilde Fjord Vildtreservat este o rezervație naturală situată în orașul Roskilde.",
-                  "category": "natural",
-                  "coords": [
-                        12.023841,
-                        55.765914
-                  ]
-            },
-            {
                   "name": "Folkeparken",
                   "text": "Folkeparken este un parc notabil situat în Roskilde.",
                   "category": "park",
@@ -9767,15 +7940,6 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         12.079225,
                         55.65064
-                  ]
-            },
-            {
-                  "name": "Roskilde Fjord Vildtreservat",
-                  "text": "Roskilde Fjord Vildtreservat is a nature reserve located in the city of Roskilde.",
-                  "category": "natural",
-                  "coords": [
-                        12.023841,
-                        55.765914
                   ]
             },
             {
@@ -13896,24 +12060,6 @@ export const denmarkCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vestre Søbad",
-                  "text": "Vestre Søbad ist ein beliebter Badeplatz am See Almindsø in Silkeborg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.543666,
-                        56.152063
-                  ]
-            },
-            {
-                  "name": "Aggerholm",
-                  "text": "Ein Strand in Silkeborg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.536475,
-                        56.153306
-                  ]
-            },
-            {
                   "name": "Friluftscenen",
                   "text": "Eine Freilichtbühne in Silkeborg.",
                   "category": "cultural",
@@ -14345,24 +12491,6 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         9.524069,
                         56.151582
-                  ]
-            },
-            {
-                  "name": "Vestre Søbad",
-                  "text": "A Vestre Søbad egy népszerű fürdőhely a silkeborgi Almindsø-tónál.",
-                  "category": "recreational",
-                  "coords": [
-                        9.543666,
-                        56.152063
-                  ]
-            },
-            {
-                  "name": "Aggerholm",
-                  "text": "Strand Silkeborgban.",
-                  "category": "recreational",
-                  "coords": [
-                        9.536475,
-                        56.153306
                   ]
             },
             {
@@ -14800,24 +12928,6 @@ export const denmarkCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vestre Søbad",
-                  "text": "Vestre Søbad este un loc popular pentru scăldat pe lacul Almindsø din Silkeborg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.543666,
-                        56.152063
-                  ]
-            },
-            {
-                  "name": "Aggerholm",
-                  "text": "O plajă în Silkeborg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.536475,
-                        56.153306
-                  ]
-            },
-            {
                   "name": "Friluftscenen",
                   "text": "Un teatru în aer liber în Silkeborg.",
                   "category": "cultural",
@@ -15249,24 +13359,6 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         9.524069,
                         56.151582
-                  ]
-            },
-            {
-                  "name": "Vestre Søbad",
-                  "text": "Vestre Søbad is a popular bathing area on Lake Almindsø in Silkeborg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.543666,
-                        56.152063
-                  ]
-            },
-            {
-                  "name": "Aggerholm",
-                  "text": "A beach in Silkeborg.",
-                  "category": "recreational",
-                  "coords": [
-                        9.536475,
-                        56.153306
                   ]
             },
             {
@@ -18479,33 +16571,6 @@ export const denmarkCulture: POI[] = [
  id: "cult-legoland", "sights": {
       "de": [
             {
-                  "name": "Dronning Amlets Høj",
-                  "text": "Ein antiker Grabhügel aus der Wikingerzeit in der Nähe des Legoland-Geländes in Billund.",
-                  "category": "historical",
-                  "coords": [
-                        9.165999,
-                        55.738305
-                  ]
-            },
-            {
-                  "name": "Staghøi",
-                  "text": "Eine archäologische Stätte mit einem prähistorischen Grabhügel in der Region Billund.",
-                  "category": "historical",
-                  "coords": [
-                        9.122197,
-                        55.718205
-                  ]
-            },
-            {
-                  "name": "Dronningens Høj",
-                  "text": "Ein bedeutender antiker Grabhügel in der Landschaft um Billund.",
-                  "category": "historical",
-                  "coords": [
-                        9.082704,
-                        55.748518
-                  ]
-            },
-            {
                   "name": "Legoland",
                   "text": "Der ursprüngliche Lego-Themenpark mit Fahrgeschäften und beeindruckenden Miniaturmodellen.",
                   "category": "recreational",
@@ -18542,15 +16607,6 @@ export const denmarkCulture: POI[] = [
                   ]
             },
             {
-                  "name": "WOW PARK Billund",
-                  "text": "Ein Abenteuerpark in Billund mit naturnahen Aktivitäten für Familien.",
-                  "category": "recreational",
-                  "coords": [
-                        9.142637,
-                        55.718172
-                  ]
-            },
-            {
                   "name": "Lalandia Billund",
                   "text": "Ein bekannter Indoor-Wasserpark und Aktivitätszentrum direkt neben dem Legoland Billund.",
                   "category": "recreational",
@@ -18561,33 +16617,6 @@ export const denmarkCulture: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Dronning Amlets Høj",
-                  "text": "Viking kori ősi sírhalom Billundban, a Legoland közelében.",
-                  "category": "historical",
-                  "coords": [
-                        9.165999,
-                        55.738305
-                  ]
-            },
-            {
-                  "name": "Staghøi",
-                  "text": "Régészeti lelőhely őskori sírhalommal Billund vidékén.",
-                  "category": "historical",
-                  "coords": [
-                        9.122197,
-                        55.718205
-                  ]
-            },
-            {
-                  "name": "Dronningens Høj",
-                  "text": "Jelentős ősi sírhalom a Billund környéki tájon.",
-                  "category": "historical",
-                  "coords": [
-                        9.082704,
-                        55.748518
-                  ]
-            },
             {
                   "name": "Legoland",
                   "text": "Az eredeti Lego-tematikájú vidámpark, amely játékokkal és lenyűgöző miniatűr modellekkel várja a látogatókat.",
@@ -18625,15 +16654,6 @@ export const denmarkCulture: POI[] = [
                   ]
             },
             {
-                  "name": "WOW PARK Billund",
-                  "text": "Billundi kalandpark, amely természetközeli programokat kínál családoknak.",
-                  "category": "recreational",
-                  "coords": [
-                        9.142637,
-                        55.718172
-                  ]
-            },
-            {
                   "name": "Lalandia Billund",
                   "text": "Ismert fedett vízi park és élményközpont a billundi Legoland mellett.",
                   "category": "recreational",
@@ -18644,33 +16664,6 @@ export const denmarkCulture: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Dronning Amlets Høj",
-                  "text": "Un vechi tumul de înmormântare din epoca vikingă, situat lângă zona Legoland din Billund.",
-                  "category": "historical",
-                  "coords": [
-                        9.165999,
-                        55.738305
-                  ]
-            },
-            {
-                  "name": "Staghøi",
-                  "text": "Un sit arheologic ce cuprinde un tumul preistoric în regiunea Billund.",
-                  "category": "historical",
-                  "coords": [
-                        9.122197,
-                        55.718205
-                  ]
-            },
-            {
-                  "name": "Dronningens Høj",
-                  "text": "Un tumul antic semnificativ situat în peisajul din jurul localității Billund.",
-                  "category": "historical",
-                  "coords": [
-                        9.082704,
-                        55.748518
-                  ]
-            },
             {
                   "name": "Legoland",
                   "text": "Parcul de distracții original cu tematică Lego, oferind atracții și modele miniaturale impresionante.",
@@ -18708,15 +16701,6 @@ export const denmarkCulture: POI[] = [
                   ]
             },
             {
-                  "name": "WOW PARK Billund",
-                  "text": "Un parc de aventură situat în Billund, care oferă activități bazate pe natură pentru familii.",
-                  "category": "recreational",
-                  "coords": [
-                        9.142637,
-                        55.718172
-                  ]
-            },
-            {
                   "name": "Lalandia Billund",
                   "text": "Un cunoscut parc acvatic interior și centru de activități situat lângă Legoland Billund.",
                   "category": "recreational",
@@ -18727,33 +16711,6 @@ export const denmarkCulture: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Dronning Amlets Høj",
-                  "text": "An ancient Viking-era burial mound located near the Legoland area in Billund.",
-                  "category": "historical",
-                  "coords": [
-                        9.165999,
-                        55.738305
-                  ]
-            },
-            {
-                  "name": "Staghøi",
-                  "text": "An archaeological site featuring a prehistoric burial mound in the Billund region.",
-                  "category": "historical",
-                  "coords": [
-                        9.122197,
-                        55.718205
-                  ]
-            },
-            {
-                  "name": "Dronningens Høj",
-                  "text": "A significant ancient burial mound located in the landscape surrounding Billund.",
-                  "category": "historical",
-                  "coords": [
-                        9.082704,
-                        55.748518
-                  ]
-            },
             {
                   "name": "Legoland",
                   "text": "The original Lego-themed amusement park featuring rides and impressive miniature models.",
@@ -18788,15 +16745,6 @@ export const denmarkCulture: POI[] = [
                   "coords": [
                         9.116993,
                         55.731411
-                  ]
-            },
-            {
-                  "name": "WOW PARK Billund",
-                  "text": "An adventure park located in Billund offering nature-based activities for families.",
-                  "category": "recreational",
-                  "coords": [
-                        9.142637,
-                        55.718172
                   ]
             },
             {
@@ -19324,24 +17272,6 @@ export const denmarkCulture: POI[] = [
  id: "land-lego-house", "sights": {
       "de": [
             {
-                  "name": "Dronning Amlets Høj",
-                  "text": "Ein sagenumwobener Grabhügel in der Nähe von Billund.",
-                  "category": "historical",
-                  "coords": [
-                        9.165999,
-                        55.738305
-                  ]
-            },
-            {
-                  "name": "Staghøi",
-                  "text": "Ein antiker archäologischer Grabhügel in Dänemark.",
-                  "category": "historical",
-                  "coords": [
-                        9.122197,
-                        55.718205
-                  ]
-            },
-            {
                   "name": "Dronningens Høj",
                   "text": "Ein prähistorischer Grabhügel in der Region Billund.",
                   "category": "historical",
@@ -19349,81 +17279,9 @@ export const denmarkCulture: POI[] = [
                         9.082704,
                         55.748518
                   ]
-            },
-            {
-                  "name": "Pladderhøj",
-                  "text": "Eine archäologische Fundstätte aus der Vorzeit.",
-                  "category": "historical",
-                  "coords": [
-                        9.069924,
-                        55.710365
-                  ]
-            },
-            {
-                  "name": "Legoland",
-                  "text": "Berühmter Themenpark mit Attraktionen aus LEGO-Steinen.",
-                  "category": "recreational",
-                  "coords": [
-                        9.125647,
-                        55.735888
-                  ]
-            },
-            {
-                  "name": "Atlantis",
-                  "text": "Ein Aquarium mit Meeresbewohnern und LEGO-Thematisierung.",
-                  "category": "recreational",
-                  "coords": [
-                        9.127769,
-                        55.734173
-                  ]
-            },
-            {
-                  "name": "Legorado scenen",
-                  "text": "Eine Bühne für Aufführungen innerhalb des Legolands.",
-                  "category": "cultural",
-                  "coords": [
-                        9.1274,
-                        55.735283
-                  ]
-            },
-            {
-                  "name": "WOW PARK Billund",
-                  "text": "Ein Erlebnispark in Billund, der Outdoor-Aktivitäten in der Nähe des LEGO House bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        9.142637,
-                        55.718172
-                  ]
-            },
-            {
-                  "name": "Lalandia Billund",
-                  "text": "Ein bekannter Wasserpark in Billund mit zahlreichen Rutschen und Pools.",
-                  "category": "recreational",
-                  "coords": [
-                        9.138588,
-                        55.73292
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Dronning Amlets Høj",
-                  "text": "Legendákhoz kötődő sírhalom Billund közelében.",
-                  "category": "historical",
-                  "coords": [
-                        9.165999,
-                        55.738305
-                  ]
-            },
-            {
-                  "name": "Staghøi",
-                  "text": "Ősi régészeti sírhalom Dániában.",
-                  "category": "historical",
-                  "coords": [
-                        9.122197,
-                        55.718205
-                  ]
-            },
             {
                   "name": "Dronningens Høj",
                   "text": "Prehisztorikus sírhalom Billund régiójában.",
@@ -19432,81 +17290,9 @@ export const denmarkCulture: POI[] = [
                         9.082704,
                         55.748518
                   ]
-            },
-            {
-                  "name": "Pladderhøj",
-                  "text": "Őskori régészeti lelőhely.",
-                  "category": "historical",
-                  "coords": [
-                        9.069924,
-                        55.710365
-                  ]
-            },
-            {
-                  "name": "Legoland",
-                  "text": "Híres vidámpark LEGO-elemekből épült látványosságokkal.",
-                  "category": "recreational",
-                  "coords": [
-                        9.125647,
-                        55.735888
-                  ]
-            },
-            {
-                  "name": "Atlantis",
-                  "text": "Akvárium tengeri élővilággal és LEGO-tematikával.",
-                  "category": "recreational",
-                  "coords": [
-                        9.127769,
-                        55.734173
-                  ]
-            },
-            {
-                  "name": "Legorado scenen",
-                  "text": "Előadói színpad a Legoland területén belül.",
-                  "category": "cultural",
-                  "coords": [
-                        9.1274,
-                        55.735283
-                  ]
-            },
-            {
-                  "name": "WOW PARK Billund",
-                  "text": "Kalandpark Billundban, amely szabadtéri játékokat kínál a LEGO House közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        9.142637,
-                        55.718172
-                  ]
-            },
-            {
-                  "name": "Lalandia Billund",
-                  "text": "Népszerű vízipark Billundban, számos csúszdával és medencével.",
-                  "category": "recreational",
-                  "coords": [
-                        9.138588,
-                        55.73292
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Dronning Amlets Høj",
-                  "text": "Un tumul legendar în apropiere de Billund.",
-                  "category": "historical",
-                  "coords": [
-                        9.165999,
-                        55.738305
-                  ]
-            },
-            {
-                  "name": "Staghøi",
-                  "text": "Un tumul arheologic antic în Danemarca.",
-                  "category": "historical",
-                  "coords": [
-                        9.122197,
-                        55.718205
-                  ]
-            },
             {
                   "name": "Dronningens Høj",
                   "text": "Un tumul preistoric în regiunea Billund.",
@@ -19515,81 +17301,9 @@ export const denmarkCulture: POI[] = [
                         9.082704,
                         55.748518
                   ]
-            },
-            {
-                  "name": "Pladderhøj",
-                  "text": "Un sit arheologic din preistorie.",
-                  "category": "historical",
-                  "coords": [
-                        9.069924,
-                        55.710365
-                  ]
-            },
-            {
-                  "name": "Legoland",
-                  "text": "Celebrul parc tematic cu atracții construite din piese LEGO.",
-                  "category": "recreational",
-                  "coords": [
-                        9.125647,
-                        55.735888
-                  ]
-            },
-            {
-                  "name": "Atlantis",
-                  "text": "Un acvariu cu creaturi marine și tematică LEGO.",
-                  "category": "recreational",
-                  "coords": [
-                        9.127769,
-                        55.734173
-                  ]
-            },
-            {
-                  "name": "Legorado scenen",
-                  "text": "O scenă pentru spectacole în interiorul parcului Legoland.",
-                  "category": "cultural",
-                  "coords": [
-                        9.1274,
-                        55.735283
-                  ]
-            },
-            {
-                  "name": "WOW PARK Billund",
-                  "text": "Un parc de distracții în Billund care oferă activități în aer liber lângă LEGO House.",
-                  "category": "recreational",
-                  "coords": [
-                        9.142637,
-                        55.718172
-                  ]
-            },
-            {
-                  "name": "Lalandia Billund",
-                  "text": "Un parc acvatic popular în Billund, dotat cu numeroase tobogane și piscine.",
-                  "category": "recreational",
-                  "coords": [
-                        9.138588,
-                        55.73292
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Dronning Amlets Høj",
-                  "text": "A legend-associated burial mound near Billund.",
-                  "category": "historical",
-                  "coords": [
-                        9.165999,
-                        55.738305
-                  ]
-            },
-            {
-                  "name": "Staghøi",
-                  "text": "An ancient archaeological burial mound in Denmark.",
-                  "category": "historical",
-                  "coords": [
-                        9.122197,
-                        55.718205
-                  ]
-            },
             {
                   "name": "Dronningens Høj",
                   "text": "A prehistoric burial mound in the Billund region.",
@@ -19597,60 +17311,6 @@ export const denmarkCulture: POI[] = [
                   "coords": [
                         9.082704,
                         55.748518
-                  ]
-            },
-            {
-                  "name": "Pladderhøj",
-                  "text": "A prehistoric archaeological site.",
-                  "category": "historical",
-                  "coords": [
-                        9.069924,
-                        55.710365
-                  ]
-            },
-            {
-                  "name": "Legoland",
-                  "text": "Famous theme park featuring attractions made of LEGO bricks.",
-                  "category": "recreational",
-                  "coords": [
-                        9.125647,
-                        55.735888
-                  ]
-            },
-            {
-                  "name": "Atlantis",
-                  "text": "An aquarium featuring marine life and LEGO themes.",
-                  "category": "recreational",
-                  "coords": [
-                        9.127769,
-                        55.734173
-                  ]
-            },
-            {
-                  "name": "Legorado Scene",
-                  "text": "A stage for performances located within Legoland.",
-                  "category": "cultural",
-                  "coords": [
-                        9.1274,
-                        55.735283
-                  ]
-            },
-            {
-                  "name": "WOW PARK Billund",
-                  "text": "An adventure park in Billund offering outdoor play activities near LEGO House.",
-                  "category": "recreational",
-                  "coords": [
-                        9.142637,
-                        55.718172
-                  ]
-            },
-            {
-                  "name": "Lalandia Billund",
-                  "text": "A well-known water park in Billund featuring multiple slides and swimming pools.",
-                  "category": "recreational",
-                  "coords": [
-                        9.138588,
-                        55.73292
                   ]
             }
       ]
@@ -20172,30 +17832,12 @@ export const denmarkCulture: POI[] = [
  id: "ind-lego-factory-billund", "sights": {
       "de": [
             {
-                  "name": "Dronning Amlets Høj",
-                  "text": "Ein prähistorischer Grabhügel in der Nähe der LEGO-Fabrik in Billund.",
-                  "category": "historical",
-                  "coords": [
-                        9.165999,
-                        55.738305
-                  ]
-            },
-            {
                   "name": "Staghøi",
                   "text": "Ein archäologischer Grabhügel in der Nähe von Billund.",
                   "category": "historical",
                   "coords": [
                         9.122197,
                         55.718205
-                  ]
-            },
-            {
-                  "name": "Dronningens Høj",
-                  "text": "Ein historischer Grabhügel in der Umgebung von Billund.",
-                  "category": "historical",
-                  "coords": [
-                        9.082704,
-                        55.748518
                   ]
             },
             {
@@ -20208,33 +17850,6 @@ export const denmarkCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Legoland",
-                  "text": "Ein berühmter Themenpark in Billund mit Attraktionen aus LEGO-Steinen.",
-                  "category": "recreational",
-                  "coords": [
-                        9.125647,
-                        55.735888
-                  ]
-            },
-            {
-                  "name": "Atlantis",
-                  "text": "Eine Aquarium-Attraktion im Legoland-Park in Billund.",
-                  "category": "recreational",
-                  "coords": [
-                        9.127769,
-                        55.734173
-                  ]
-            },
-            {
-                  "name": "Legorado scenen",
-                  "text": "Ein Theater- oder Bühnenbereich im Legoland Resort in Billund.",
-                  "category": "cultural",
-                  "coords": [
-                        9.1274,
-                        55.735283
-                  ]
-            },
-            {
                   "name": "WOW PARK Billund",
                   "text": "Ein Outdoor-Abenteuerpark in Billund mit Kletterbäumen und Waldaktivitäten.",
                   "category": "recreational",
@@ -20242,27 +17857,9 @@ export const denmarkCulture: POI[] = [
                         9.142637,
                         55.718172
                   ]
-            },
-            {
-                  "name": "Lalandia Billund",
-                  "text": "Ein großes tropisches Ferienresort und Wasserpark in Billund.",
-                  "category": "recreational",
-                  "coords": [
-                        9.138588,
-                        55.73292
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Dronning Amlets Høj",
-                  "text": "Billundban, a LEGO gyár közelében található őskori sírhalom.",
-                  "category": "historical",
-                  "coords": [
-                        9.165999,
-                        55.738305
-                  ]
-            },
             {
                   "name": "Staghøi",
                   "text": "Régészeti sírhalom Billund közelében.",
@@ -20270,15 +17867,6 @@ export const denmarkCulture: POI[] = [
                   "coords": [
                         9.122197,
                         55.718205
-                  ]
-            },
-            {
-                  "name": "Dronningens Høj",
-                  "text": "Billund környékén található történelmi sírhalom.",
-                  "category": "historical",
-                  "coords": [
-                        9.082704,
-                        55.748518
                   ]
             },
             {
@@ -20291,33 +17879,6 @@ export const denmarkCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Legoland",
-                  "text": "Híres vidámpark Billundban, ahol LEGO elemekből épült látványosságok találhatók.",
-                  "category": "recreational",
-                  "coords": [
-                        9.125647,
-                        55.735888
-                  ]
-            },
-            {
-                  "name": "Atlantis",
-                  "text": "A billundi Legoland parkban található akvárium.",
-                  "category": "recreational",
-                  "coords": [
-                        9.127769,
-                        55.734173
-                  ]
-            },
-            {
-                  "name": "Legorado scenen",
-                  "text": "Színházi vagy színpadi terület a billundi Legoland üdülőhelyen.",
-                  "category": "cultural",
-                  "coords": [
-                        9.1274,
-                        55.735283
-                  ]
-            },
-            {
                   "name": "WOW PARK Billund",
                   "text": "Billundi szabadtéri kalandpark mászófákkal és erdei tevékenységekkel.",
                   "category": "recreational",
@@ -20325,27 +17886,9 @@ export const denmarkCulture: POI[] = [
                         9.142637,
                         55.718172
                   ]
-            },
-            {
-                  "name": "Lalandia Billund",
-                  "text": "Nagy trópusi üdülőközpont és vízi park Billundban.",
-                  "category": "recreational",
-                  "coords": [
-                        9.138588,
-                        55.73292
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Dronning Amlets Høj",
-                  "text": "Un tumul preistoric situat lângă fabrica LEGO din Billund.",
-                  "category": "historical",
-                  "coords": [
-                        9.165999,
-                        55.738305
-                  ]
-            },
             {
                   "name": "Staghøi",
                   "text": "Un tumul arheologic situat lângă Billund.",
@@ -20353,15 +17896,6 @@ export const denmarkCulture: POI[] = [
                   "coords": [
                         9.122197,
                         55.718205
-                  ]
-            },
-            {
-                  "name": "Dronningens Høj",
-                  "text": "Un tumul istoric situat în vecinătatea orașului Billund.",
-                  "category": "historical",
-                  "coords": [
-                        9.082704,
-                        55.748518
                   ]
             },
             {
@@ -20374,33 +17908,6 @@ export const denmarkCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Legoland",
-                  "text": "Un faimos parc tematic din Billund, cu atracții construite din cărămizi LEGO.",
-                  "category": "recreational",
-                  "coords": [
-                        9.125647,
-                        55.735888
-                  ]
-            },
-            {
-                  "name": "Atlantis",
-                  "text": "O atracție de tip acvariu situată în cadrul parcului Legoland din Billund.",
-                  "category": "recreational",
-                  "coords": [
-                        9.127769,
-                        55.734173
-                  ]
-            },
-            {
-                  "name": "Legorado scenen",
-                  "text": "O zonă de teatru sau scenă în cadrul complexului Legoland din Billund.",
-                  "category": "cultural",
-                  "coords": [
-                        9.1274,
-                        55.735283
-                  ]
-            },
-            {
                   "name": "WOW PARK Billund",
                   "text": "Un parc de aventură în aer liber în Billund, cu arbori pentru cățărat și activități forestiere.",
                   "category": "recreational",
@@ -20408,27 +17915,9 @@ export const denmarkCulture: POI[] = [
                         9.142637,
                         55.718172
                   ]
-            },
-            {
-                  "name": "Lalandia Billund",
-                  "text": "O stațiune de vacanță tropicală mare și un parc acvatic situate în Billund.",
-                  "category": "recreational",
-                  "coords": [
-                        9.138588,
-                        55.73292
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Dronning Amlets Høj",
-                  "text": "A prehistoric burial mound located near the LEGO Factory in Billund.",
-                  "category": "historical",
-                  "coords": [
-                        9.165999,
-                        55.738305
-                  ]
-            },
             {
                   "name": "Staghøi",
                   "text": "An archaeological burial mound situated near Billund.",
@@ -20436,15 +17925,6 @@ export const denmarkCulture: POI[] = [
                   "coords": [
                         9.122197,
                         55.718205
-                  ]
-            },
-            {
-                  "name": "Dronningens Høj",
-                  "text": "A historical burial mound located in the vicinity of Billund.",
-                  "category": "historical",
-                  "coords": [
-                        9.082704,
-                        55.748518
                   ]
             },
             {
@@ -20457,48 +17937,12 @@ export const denmarkCulture: POI[] = [
                   ]
             },
             {
-                  "name": "Legoland",
-                  "text": "A famous theme park in Billund featuring attractions built with LEGO bricks.",
-                  "category": "recreational",
-                  "coords": [
-                        9.125647,
-                        55.735888
-                  ]
-            },
-            {
-                  "name": "Atlantis",
-                  "text": "An aquarium attraction located within the Legoland park in Billund.",
-                  "category": "recreational",
-                  "coords": [
-                        9.127769,
-                        55.734173
-                  ]
-            },
-            {
-                  "name": "Legorado Scene",
-                  "text": "A theatre or stage area within the Legoland resort in Billund.",
-                  "category": "cultural",
-                  "coords": [
-                        9.1274,
-                        55.735283
-                  ]
-            },
-            {
                   "name": "WOW PARK Billund",
                   "text": "An outdoor adventure park in Billund featuring climbing trees and forest activities.",
                   "category": "recreational",
                   "coords": [
                         9.142637,
                         55.718172
-                  ]
-            },
-            {
-                  "name": "Lalandia Billund",
-                  "text": "A large tropical holiday resort and water park located in Billund.",
-                  "category": "recreational",
-                  "coords": [
-                        9.138588,
-                        55.73292
                   ]
             }
       ]
@@ -20755,15 +18199,6 @@ export const denmarkCulture: POI[] = [
                         9.531672,
                         55.361491
                   ]
-            },
-            {
-                  "name": "Tyrstrup Kirke",
-                  "text": "Die markante Pfarrkirche von Christiansfeld mit ihrem charakteristischen Kirchturm.",
-                  "category": "religious",
-                  "coords": [
-                        9.485131,
-                        55.352483
-                  ]
             }
       ],
       "hu": [
@@ -20792,15 +18227,6 @@ export const denmarkCulture: POI[] = [
                   "coords": [
                         9.531672,
                         55.361491
-                  ]
-            },
-            {
-                  "name": "Tyrstrup Kirke",
-                  "text": "Christiansfeld jellegzetes plébániatemploma a rá jellemző toronnyal.",
-                  "category": "religious",
-                  "coords": [
-                        9.485131,
-                        55.352483
                   ]
             }
       ],
@@ -20831,15 +18257,6 @@ export const denmarkCulture: POI[] = [
                         9.531672,
                         55.361491
                   ]
-            },
-            {
-                  "name": "Tyrstrup Kirke",
-                  "text": "Biserica parohială distinctivă din Christiansfeld, cu turnul său caracteristic.",
-                  "category": "religious",
-                  "coords": [
-                        9.485131,
-                        55.352483
-                  ]
             }
       ],
       "en": [
@@ -20868,15 +18285,6 @@ export const denmarkCulture: POI[] = [
                   "coords": [
                         9.531672,
                         55.361491
-                  ]
-            },
-            {
-                  "name": "Tyrstrup Kirke",
-                  "text": "The distinctive parish church of Christiansfeld with its characteristic tower.",
-                  "category": "religious",
-                  "coords": [
-                        9.485131,
-                        55.352483
                   ]
             }
       ]
@@ -21221,24 +18629,6 @@ export const denmarkNature: POI[] = [
  id: "nat-bornholm", "sights": {
       "de": [
             {
-                  "name": "Røser i Vestermarie plantage",
-                  "text": "Eine archäologische Ausgrabungsstätte auf Bornholm mit historischen Steinhügelgräbern.",
-                  "category": "historical",
-                  "coords": [
-                        14.850015,
-                        55.109118
-                  ]
-            },
-            {
-                  "name": "Hjorthøj",
-                  "text": "Ein historischer Grabhügel auf der dänischen Insel Bornholm.",
-                  "category": "historical",
-                  "coords": [
-                        14.855177,
-                        55.10263
-                  ]
-            },
-            {
                   "name": "Gamleborg",
                   "text": "Die Ruinen einer der ältesten mittelalterlichen Befestigungsanlagen auf Bornholm.",
                   "category": "historical",
@@ -21257,15 +18647,6 @@ export const denmarkNature: POI[] = [
                   ]
             },
             {
-                  "name": "Arboretet",
-                  "text": "Ein botanischer Garten auf Bornholm, der eine Vielfalt an Bäumen und Sträuchern beherbergt.",
-                  "category": "park",
-                  "coords": [
-                        14.878027,
-                        55.120008
-                  ]
-            },
-            {
                   "name": "Rytterknægten",
                   "text": "Der höchste punkt Bornholms, auf dem sich ein Aussichtsturm mit weitem Blick befindet.",
                   "category": "landmark",
@@ -21273,36 +18654,9 @@ export const denmarkNature: POI[] = [
                         14.889337,
                         55.111698
                   ]
-            },
-            {
-                  "name": "Lilleborg",
-                  "text": "Die Ruinen einer königlichen Burg aus dem 12. Jahrhundert auf Bornholm.",
-                  "category": "historical",
-                  "coords": [
-                        14.897022,
-                        55.118773
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Røser i Vestermarie plantage",
-                  "text": "Régészeti lelőhely Bornholm szigetén, ahol történelmi kőhalomsírok találhatók.",
-                  "category": "historical",
-                  "coords": [
-                        14.850015,
-                        55.109118
-                  ]
-            },
-            {
-                  "name": "Hjorthøj",
-                  "text": "Történelmi sírhalom a dániai Bornholm szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        14.855177,
-                        55.10263
-                  ]
-            },
             {
                   "name": "Gamleborg",
                   "text": "Bornholm egyik legrégebbi középkori erődítményének romjai.",
@@ -21322,15 +18676,6 @@ export const denmarkNature: POI[] = [
                   ]
             },
             {
-                  "name": "Arboretet",
-                  "text": "Botanikus kert Bornholm szigetén, amely fák és cserjék változatos gyűjteményének ad otthont.",
-                  "category": "park",
-                  "coords": [
-                        14.878027,
-                        55.120008
-                  ]
-            },
-            {
                   "name": "Rytterknægten",
                   "text": "Bornholm legmagasabb pontja, ahol egy kilátótorony kínál széles körpanorámát.",
                   "category": "landmark",
@@ -21338,36 +18683,9 @@ export const denmarkNature: POI[] = [
                         14.889337,
                         55.111698
                   ]
-            },
-            {
-                  "name": "Lilleborg",
-                  "text": "Egy 12. századi királyi vár romjai Bornholm szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        14.897022,
-                        55.118773
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Røser i Vestermarie plantage",
-                  "text": "Un sit arheologic pe insula Bornholm, cuprinzând morminte istorice din grămezi de piatră.",
-                  "category": "historical",
-                  "coords": [
-                        14.850015,
-                        55.109118
-                  ]
-            },
-            {
-                  "name": "Hjorthøj",
-                  "text": "Un tumul istoric situat pe insula daneză Bornholm.",
-                  "category": "historical",
-                  "coords": [
-                        14.855177,
-                        55.10263
-                  ]
-            },
             {
                   "name": "Gamleborg",
                   "text": "Ruinele uneia dintre cele mai vechi fortificații medievale de pe Bornholm.",
@@ -21387,15 +18705,6 @@ export const denmarkNature: POI[] = [
                   ]
             },
             {
-                  "name": "Arboretet",
-                  "text": "O grădină botanică pe Bornholm care găzduiește o varietate de arbori și arbuști.",
-                  "category": "park",
-                  "coords": [
-                        14.878027,
-                        55.120008
-                  ]
-            },
-            {
                   "name": "Rytterknægten",
                   "text": "Cel mai înalt punct de pe Bornholm, unde se află un turn cu o vedere panoramică largă.",
                   "category": "landmark",
@@ -21403,36 +18712,9 @@ export const denmarkNature: POI[] = [
                         14.889337,
                         55.111698
                   ]
-            },
-            {
-                  "name": "Lilleborg",
-                  "text": "Ruinele unui castel regal din secolul al XII-lea de pe insula Bornholm.",
-                  "category": "historical",
-                  "coords": [
-                        14.897022,
-                        55.118773
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Røser i Vestermarie plantage",
-                  "text": "An archaeological site on Bornholm featuring historical stone cairn burials.",
-                  "category": "historical",
-                  "coords": [
-                        14.850015,
-                        55.109118
-                  ]
-            },
-            {
-                  "name": "Hjorthøj",
-                  "text": "A historical burial mound located on the Danish island of Bornholm.",
-                  "category": "historical",
-                  "coords": [
-                        14.855177,
-                        55.10263
-                  ]
-            },
             {
                   "name": "Gamleborg",
                   "text": "The ruins of one of the oldest medieval fortifications on Bornholm.",
@@ -21452,30 +18734,12 @@ export const denmarkNature: POI[] = [
                   ]
             },
             {
-                  "name": "Arboretet",
-                  "text": "A botanical garden on Bornholm housing a diverse collection of trees and shrubs.",
-                  "category": "park",
-                  "coords": [
-                        14.878027,
-                        55.120008
-                  ]
-            },
-            {
                   "name": "Rytterknægten",
                   "text": "The highest point on Bornholm, featuring a lookout tower with wide panoramic views.",
                   "category": "landmark",
                   "coords": [
                         14.889337,
                         55.111698
-                  ]
-            },
-            {
-                  "name": "Lilleborg",
-                  "text": "The ruins of a 12th-century royal castle on the island of Bornholm.",
-                  "category": "historical",
-                  "coords": [
-                        14.897022,
-                        55.118773
                   ]
             }
       ]
@@ -21526,24 +18790,6 @@ export const denmarkNature: POI[] = [
  id: "nat-rabjerg-mile", "sights": {
       "de": [
             {
-                  "name": "Redningshuset",
-                  "text": "Ehemalige Rettungsstation, die heute als Museum dient.",
-                  "category": "museum",
-                  "coords": [
-                        10.388948,
-                        57.66144
-                  ]
-            },
-            {
-                  "name": "Råbjerg Mile",
-                  "text": "Eine große Wanderdüne in Dänemark, die sich jährlich bewegt.",
-                  "category": "landmark",
-                  "coords": [
-                        10.40842,
-                        57.648743
-                  ]
-            },
-            {
                   "name": "Hulsig Kirke",
                   "text": "Eine Dorfkirche in der Nähe der Wanderdüne Råbjerg Mile.",
                   "category": "religious",
@@ -21554,24 +18800,6 @@ export const denmarkNature: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Redningshuset",
-                  "text": "Egykori mentőállomás, amely ma múzeumként működik.",
-                  "category": "museum",
-                  "coords": [
-                        10.388948,
-                        57.66144
-                  ]
-            },
-            {
-                  "name": "Råbjerg Mile",
-                  "text": "Hatalmas vándorló homokdűne Dániában, amely évente változtatja helyét.",
-                  "category": "landmark",
-                  "coords": [
-                        10.40842,
-                        57.648743
-                  ]
-            },
             {
                   "name": "Hulsig Kirke",
                   "text": "Falusi templom a Råbjerg Mile vándorhomok közelében.",
@@ -21584,24 +18812,6 @@ export const denmarkNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Redningshuset",
-                  "text": "Fostă stație de salvare, transformată în prezent în muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        10.388948,
-                        57.66144
-                  ]
-            },
-            {
-                  "name": "Råbjerg Mile",
-                  "text": "O dună de nisip mișcătoare masivă din Danemarca, ce se deplasează anual.",
-                  "category": "landmark",
-                  "coords": [
-                        10.40842,
-                        57.648743
-                  ]
-            },
-            {
                   "name": "Hulsig Kirke",
                   "text": "Biserică sătească situată în apropierea dunelor Råbjerg Mile.",
                   "category": "religious",
@@ -21612,24 +18822,6 @@ export const denmarkNature: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Redningshuset",
-                  "text": "Former rescue station, now operating as a museum.",
-                  "category": "museum",
-                  "coords": [
-                        10.388948,
-                        57.66144
-                  ]
-            },
-            {
-                  "name": "Råbjerg Mile",
-                  "text": "A massive shifting sand dune in Denmark that moves annually.",
-                  "category": "landmark",
-                  "coords": [
-                        10.40842,
-                        57.648743
-                  ]
-            },
             {
                   "name": "Hulsig Kirke",
                   "text": "A village church located near the Råbjerg Mile shifting dunes.",
@@ -21686,42 +18878,6 @@ export const denmarkNature: POI[] = [
  id: "nat-skagen", "sights": {
       "de": [
             {
-                  "name": "Kystmuseet Skagen",
-                  "text": "Ein Freilicht-Küstenmuseum, das die maritime Geschichte und die Fischerkultur von Skagen veranschaulicht.",
-                  "category": "museum",
-                  "coords": [
-                        10.574626,
-                        57.716361
-                  ]
-            },
-            {
-                  "name": "Skagen Bunkermuseum",
-                  "text": "Ein Museum in einem ehemaligen deutschen Bunker aus dem Zweiten Weltkrieg, das militärische Ausrüstung und Geschichte zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        10.631822,
-                        57.738913
-                  ]
-            },
-            {
-                  "name": "Villa Pax",
-                  "text": "Das ehemalige Wohnhaus des Dichters und Malers Holger Drachmann, heute ein Museum, das seinem Leben und Werk gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        10.577809,
-                        57.718777
-                  ]
-            },
-            {
-                  "name": "Skagen Vest",
-                  "text": "Ein historischer Leuchtturm an der Westküste von Skagen, der den Schiffsverkehr leitet.",
-                  "category": "landmark",
-                  "coords": [
-                        10.595155,
-                        57.748764
-                  ]
-            },
-            {
                   "name": "Hvide Fyr",
                   "text": "Ein historischer weißer Leuchtturm in Skagen, bekannt als der erste aus Ziegeln gebaute Leuchtturm Dänemarks.",
                   "category": "landmark",
@@ -21759,42 +18915,6 @@ export const denmarkNature: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Kystmuseet Skagen",
-                  "text": "Szabadtéri tengerparti múzeum, amely Skagen tengerészeti történelmét és halászati kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        10.574626,
-                        57.716361
-                  ]
-            },
-            {
-                  "name": "Skagen Bunkermuseum",
-                  "text": "Egykori második világháborús német bunkerben berendezett múzeum, amely haditechnikát és történelmet mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        10.631822,
-                        57.738913
-                  ]
-            },
-            {
-                  "name": "Villa Pax",
-                  "text": "Holger Drachmann költő és festő egykori otthona, ma az életének és munkásságának szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        10.577809,
-                        57.718777
-                  ]
-            },
-            {
-                  "name": "Skagen Vest",
-                  "text": "Skagen nyugati partján található történelmi világítótorony, amely a tengeri forgalmat segíti.",
-                  "category": "landmark",
-                  "coords": [
-                        10.595155,
-                        57.748764
-                  ]
-            },
             {
                   "name": "Hvide Fyr",
                   "text": "Történelmi fehér világítótorony Skagenben, amely Dánia első téglaépítésű világítótornyaként ismert.",
@@ -21834,42 +18954,6 @@ export const denmarkNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Kystmuseet Skagen",
-                  "text": "Un muzeu de coastă în aer liber care ilustrează istoria maritimă și cultura pescuitului din Skagen.",
-                  "category": "museum",
-                  "coords": [
-                        10.574626,
-                        57.716361
-                  ]
-            },
-            {
-                  "name": "Skagen Bunkermuseum",
-                  "text": "Un muzeu găzduit într-un fost buncăr german din al Doilea Război Mondial, care prezintă echipamente militare și istorie.",
-                  "category": "museum",
-                  "coords": [
-                        10.631822,
-                        57.738913
-                  ]
-            },
-            {
-                  "name": "Villa Pax",
-                  "text": "Fosta casă a poetului și pictorului Holger Drachmann, astăzi un muzeu dedicat vieții și operei sale.",
-                  "category": "museum",
-                  "coords": [
-                        10.577809,
-                        57.718777
-                  ]
-            },
-            {
-                  "name": "Skagen Vest",
-                  "text": "Un far istoric situat pe coasta de vest a Skagenului, care ghidează traficul maritim.",
-                  "category": "landmark",
-                  "coords": [
-                        10.595155,
-                        57.748764
-                  ]
-            },
-            {
                   "name": "Hvide Fyr",
                   "text": "Un far alb istoric în Skagen, cunoscut pentru faptul că a fost primul far din cărămidă din Danemarca.",
                   "category": "landmark",
@@ -21907,42 +18991,6 @@ export const denmarkNature: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Kystmuseet Skagen",
-                  "text": "An open-air coastal museum illustrating the maritime history and fishing culture of Skagen.",
-                  "category": "museum",
-                  "coords": [
-                        10.574626,
-                        57.716361
-                  ]
-            },
-            {
-                  "name": "Skagen Bunkermuseum",
-                  "text": "A museum housed in a former German bunker from World War II, showcasing military equipment and history.",
-                  "category": "museum",
-                  "coords": [
-                        10.631822,
-                        57.738913
-                  ]
-            },
-            {
-                  "name": "Villa Pax",
-                  "text": "The former home of poet and painter Holger Drachmann, now a museum dedicated to his life and work.",
-                  "category": "museum",
-                  "coords": [
-                        10.577809,
-                        57.718777
-                  ]
-            },
-            {
-                  "name": "Skagen Vest",
-                  "text": "A historic lighthouse located on the western coast of Skagen, guiding maritime traffic.",
-                  "category": "landmark",
-                  "coords": [
-                        10.595155,
-                        57.748764
-                  ]
-            },
             {
                   "name": "Hvide Fyr",
                   "text": "A historic white lighthouse in Skagen, noted for being the first brick lighthouse in Denmark.",
@@ -22026,15 +19074,6 @@ export const denmarkNature: POI[] = [
  id: "nat-mons-klint", "sights": {
       "de": [
             {
-                  "name": "Gunildsbjerg",
-                  "text": "Eine archäologische Stätte bei Møns Klint, die für ihre prähistorischen Funde bekannt ist.",
-                  "category": "historical",
-                  "coords": [
-                        12.490671,
-                        54.975368
-                  ]
-            },
-            {
                   "name": "Skriveshøj",
                   "text": "Ein antiker Grabhügel in der Nähe der Kreidefelsen von Møns Klint.",
                   "category": "historical",
@@ -22042,72 +19081,9 @@ export const denmarkNature: POI[] = [
                         12.530607,
                         54.973734
                   ]
-            },
-            {
-                  "name": "Deinesbjerg",
-                  "text": "Eine historische archäologische Ausgrabungsstätte in der Landschaft von Møns Klint.",
-                  "category": "historical",
-                  "coords": [
-                        12.510228,
-                        54.982178
-                  ]
-            },
-            {
-                  "name": "Koes Minde",
-                  "text": "Eine archäologische Stätte bei Møns Klint mit Spuren früherer Besiedlung.",
-                  "category": "historical",
-                  "coords": [
-                        12.524536,
-                        54.998373
-                  ]
-            },
-            {
-                  "name": "Kammerherrens Høj",
-                  "text": "Ein bedeutender prähistorischer Grabhügel in der Gegend von Møns Klint.",
-                  "category": "historical",
-                  "coords": [
-                        12.523059,
-                        54.998942
-                  ]
-            },
-            {
-                  "name": "Kraghøj",
-                  "text": "Eine antike archäologische Stätte bei Møns Klint, die zur lokalen Geschichte beiträgt.",
-                  "category": "historical",
-                  "coords": [
-                        12.527745,
-                        54.998029
-                  ]
-            },
-            {
-                  "name": "Somarke Dolmen",
-                  "text": "Ein gut erhaltenes neolithisches Ganggrab in der Nähe von Møns Klint.",
-                  "category": "historical",
-                  "coords": [
-                        12.501001,
-                        54.991109
-                  ]
-            },
-            {
-                  "name": "Swimming Pool",
-                  "text": "Eine Schwimmeinrichtung bei den Kreidefelsen von Møns Klint.",
-                  "category": "recreational",
-                  "coords": [
-                        12.521788,
-                        54.980283
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Gunildsbjerg",
-                  "text": "Régészeti lelőhely Møns Klint közelében, amely őskori leleteiről ismert.",
-                  "category": "historical",
-                  "coords": [
-                        12.490671,
-                        54.975368
-                  ]
-            },
             {
                   "name": "Skriveshøj",
                   "text": "Ősi sírhalom a Møns Klint krétafalai közelében.",
@@ -22116,72 +19092,9 @@ export const denmarkNature: POI[] = [
                         12.530607,
                         54.973734
                   ]
-            },
-            {
-                  "name": "Deinesbjerg",
-                  "text": "Történelmi régészeti lelőhely Møns Klint vidékén.",
-                  "category": "historical",
-                  "coords": [
-                        12.510228,
-                        54.982178
-                  ]
-            },
-            {
-                  "name": "Koes Minde",
-                  "text": "Régészeti lelőhely Møns Klint közelében, korai települések nyomaival.",
-                  "category": "historical",
-                  "coords": [
-                        12.524536,
-                        54.998373
-                  ]
-            },
-            {
-                  "name": "Kammerherrens Høj",
-                  "text": "Jelentős őskori sírhalom Møns Klint környékén.",
-                  "category": "historical",
-                  "coords": [
-                        12.523059,
-                        54.998942
-                  ]
-            },
-            {
-                  "name": "Kraghøj",
-                  "text": "Ősi régészeti lelőhely Møns Klint közelében, amely a helyi történelmet gazdagítja.",
-                  "category": "historical",
-                  "coords": [
-                        12.527745,
-                        54.998029
-                  ]
-            },
-            {
-                  "name": "Somarke dolmen",
-                  "text": "Egy jól megőrzött neolitikus folyosósír Møns Klint közelében.",
-                  "category": "historical",
-                  "coords": [
-                        12.501001,
-                        54.991109
-                  ]
-            },
-            {
-                  "name": "Swimming Pool",
-                  "text": "Fürdőhely a Møns Klint krétafehér sziklái közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        12.521788,
-                        54.980283
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Gunildsbjerg",
-                  "text": "Un sit arheologic lângă Møns Klint, cunoscut pentru descoperirile sale preistorice.",
-                  "category": "historical",
-                  "coords": [
-                        12.490671,
-                        54.975368
-                  ]
-            },
             {
                   "name": "Skriveshøj",
                   "text": "Un tumul antic situat în apropierea stâncilor de cretă de la Møns Klint.",
@@ -22190,72 +19103,9 @@ export const denmarkNature: POI[] = [
                         12.530607,
                         54.973734
                   ]
-            },
-            {
-                  "name": "Deinesbjerg",
-                  "text": "Un sit arheologic istoric situat în peisajul de la Møns Klint.",
-                  "category": "historical",
-                  "coords": [
-                        12.510228,
-                        54.982178
-                  ]
-            },
-            {
-                  "name": "Koes Minde",
-                  "text": "Un sit arheologic lângă Møns Klint cu urme ale unor așezări timpurii.",
-                  "category": "historical",
-                  "coords": [
-                        12.524536,
-                        54.998373
-                  ]
-            },
-            {
-                  "name": "Kammerherrens Høj",
-                  "text": "Un tumul preistoric important în zona Møns Klint.",
-                  "category": "historical",
-                  "coords": [
-                        12.523059,
-                        54.998942
-                  ]
-            },
-            {
-                  "name": "Kraghøj",
-                  "text": "Un sit arheologic antic lângă Møns Klint, care contribuie la istoria locală.",
-                  "category": "historical",
-                  "coords": [
-                        12.527745,
-                        54.998029
-                  ]
-            },
-            {
-                  "name": "Sømarkedyssen",
-                  "text": "Un dolmen neolitic bine conservat situat în apropiere de Møns Klint.",
-                  "category": "historical",
-                  "coords": [
-                        12.501001,
-                        54.991109
-                  ]
-            },
-            {
-                  "name": "Swimming Pool",
-                  "text": "O instalație de înot lângă stâncile de cretă de la Møns Klint.",
-                  "category": "recreational",
-                  "coords": [
-                        12.521788,
-                        54.980283
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Gunildsbjerg",
-                  "text": "An archaeological site near Møns Klint, known for its prehistoric findings.",
-                  "category": "historical",
-                  "coords": [
-                        12.490671,
-                        54.975368
-                  ]
-            },
             {
                   "name": "Skriveshøj",
                   "text": "An ancient burial mound located near the chalk cliffs of Møns Klint.",
@@ -22263,60 +19113,6 @@ export const denmarkNature: POI[] = [
                   "coords": [
                         12.530607,
                         54.973734
-                  ]
-            },
-            {
-                  "name": "Deinesbjerg",
-                  "text": "A historic archaeological site situated in the landscape of Møns Klint.",
-                  "category": "historical",
-                  "coords": [
-                        12.510228,
-                        54.982178
-                  ]
-            },
-            {
-                  "name": "Koes Minde",
-                  "text": "An archaeological site near Møns Klint with traces of early settlement.",
-                  "category": "historical",
-                  "coords": [
-                        12.524536,
-                        54.998373
-                  ]
-            },
-            {
-                  "name": "Kammerherrens Høj",
-                  "text": "A significant prehistoric burial mound in the Møns Klint area.",
-                  "category": "historical",
-                  "coords": [
-                        12.523059,
-                        54.998942
-                  ]
-            },
-            {
-                  "name": "Kraghøj",
-                  "text": "An ancient archaeological site near Møns Klint contributing to local history.",
-                  "category": "historical",
-                  "coords": [
-                        12.527745,
-                        54.998029
-                  ]
-            },
-            {
-                  "name": "Somarke Dolmen",
-                  "text": "A well-preserved Neolithic passage grave located near Møns Klint.",
-                  "category": "historical",
-                  "coords": [
-                        12.501001,
-                        54.991109
-                  ]
-            },
-            {
-                  "name": "Swimming Pool",
-                  "text": "A swimming facility located near the chalk cliffs of Møns Klint.",
-                  "category": "recreational",
-                  "coords": [
-                        12.521788,
-                        54.980283
                   ]
             }
       ]
@@ -22706,24 +19502,6 @@ export const denmarkNature: POI[] = [
  id: "nat-mollehøj", "sights": {
       "de": [
             {
-                  "name": "Lodnehøie",
-                  "text": "Eine archäologische Stätte mit alten Grabhügeln.",
-                  "category": "historical",
-                  "coords": [
-                        9.886012,
-                        56.122544
-                  ]
-            },
-            {
-                  "name": "Alken Høje",
-                  "text": "Ein archäologischer Ort mit mehreren historischen Grabhügeln.",
-                  "category": "historical",
-                  "coords": [
-                        9.806756,
-                        56.075766
-                  ]
-            },
-            {
                   "name": "Vejhøj",
                   "text": "Ein bedeutender Grabhügel aus der Bronzezeit mit weiter Aussicht.",
                   "category": "historical",
@@ -22760,15 +19538,6 @@ export const denmarkNature: POI[] = [
                   ]
             },
             {
-                  "name": "Skyttehøj",
-                  "text": "Ein archäologischer Ort in Møllehøj.",
-                  "category": "historical",
-                  "coords": [
-                        9.845846,
-                        56.116977
-                  ]
-            },
-            {
                   "name": "Sophiendal",
                   "text": "Ein historisches Herrenhaus in Møllehøj, das heute als Hotel genutzt wird.",
                   "category": "historical",
@@ -22779,24 +19548,6 @@ export const denmarkNature: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Lodnehøie",
-                  "text": "Régészeti lelőhely ősi sírhalmokkal.",
-                  "category": "historical",
-                  "coords": [
-                        9.886012,
-                        56.122544
-                  ]
-            },
-            {
-                  "name": "Alken Høje",
-                  "text": "Régészeti terület több történelmi sírhalommal.",
-                  "category": "historical",
-                  "coords": [
-                        9.806756,
-                        56.075766
-                  ]
-            },
             {
                   "name": "Vejhøj",
                   "text": "Jelentős bronzkori sírhalom, ahonnan messzire el lehet látni.",
@@ -22834,15 +19585,6 @@ export const denmarkNature: POI[] = [
                   ]
             },
             {
-                  "name": "Skyttehøj",
-                  "text": "Régészeti lelőhely Møllehőjben.",
-                  "category": "historical",
-                  "coords": [
-                        9.845846,
-                        56.116977
-                  ]
-            },
-            {
                   "name": "Sophiendal",
                   "text": "Történelmi kúria Møllehőjben, amely ma szállodaként működik.",
                   "category": "historical",
@@ -22853,24 +19595,6 @@ export const denmarkNature: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Lodnehøie",
-                  "text": "Un sit arheologic care conține tumuli vechi.",
-                  "category": "historical",
-                  "coords": [
-                        9.886012,
-                        56.122544
-                  ]
-            },
-            {
-                  "name": "Alken Høje",
-                  "text": "Un sit arheologic cu mai mulți tumuli istorici.",
-                  "category": "historical",
-                  "coords": [
-                        9.806756,
-                        56.075766
-                  ]
-            },
             {
                   "name": "Vejhøj",
                   "text": "Un tumul important din epoca bronzului, oferind o vedere panoramică.",
@@ -22908,15 +19632,6 @@ export const denmarkNature: POI[] = [
                   ]
             },
             {
-                  "name": "Skyttehøj",
-                  "text": "Un sit arheologic în Møllehøj.",
-                  "category": "historical",
-                  "coords": [
-                        9.845846,
-                        56.116977
-                  ]
-            },
-            {
                   "name": "Sophiendal",
                   "text": "Un conac istoric în Møllehøj, utilizat astăzi ca hotel.",
                   "category": "historical",
@@ -22927,24 +19642,6 @@ export const denmarkNature: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Lodnehøie",
-                  "text": "An archaeological site containing ancient burial mounds.",
-                  "category": "historical",
-                  "coords": [
-                        9.886012,
-                        56.122544
-                  ]
-            },
-            {
-                  "name": "Alken Høje",
-                  "text": "An archaeological site featuring several historical burial mounds.",
-                  "category": "historical",
-                  "coords": [
-                        9.806756,
-                        56.075766
-                  ]
-            },
             {
                   "name": "Vejhøj",
                   "text": "A significant Bronze Age burial mound offering wide views.",
@@ -22979,15 +19676,6 @@ export const denmarkNature: POI[] = [
                   "coords": [
                         9.854621,
                         56.058212
-                  ]
-            },
-            {
-                  "name": "Skyttehøj",
-                  "text": "An archaeological site in Møllehøj.",
-                  "category": "historical",
-                  "coords": [
-                        9.845846,
-                        56.116977
                   ]
             },
             {
@@ -23082,15 +19770,6 @@ export const denmarkNature: POI[] = [
                   ]
             },
             {
-                  "name": "Vejhøj",
-                  "text": "Ein markanter antiker Grabhügel, der historische Einblicke in die Region bietet.",
-                  "category": "historical",
-                  "coords": [
-                        9.856846,
-                        56.07291
-                  ]
-            },
-            {
                   "name": "Muldhøj",
                   "text": "Einer der bedeutendsten Grabhügel aus der Bronzezeit in Dänemark mit archäologischer Bedeutung.",
                   "category": "historical",
@@ -23106,15 +19785,6 @@ export const denmarkNature: POI[] = [
                   "coords": [
                         9.845846,
                         56.116977
-                  ]
-            },
-            {
-                  "name": "Sophiendal",
-                  "text": "Ein historisches Herrenhaus und Anwesen in einer malerischen ländlichen Umgebung.",
-                  "category": "historical",
-                  "coords": [
-                        9.879505,
-                        56.111641
                   ]
             }
       ],
@@ -23156,15 +19826,6 @@ export const denmarkNature: POI[] = [
                   ]
             },
             {
-                  "name": "Vejhøj",
-                  "text": "Jelentős ősi sírhalom, amely történelmi betekintést nyújt a régióba.",
-                  "category": "historical",
-                  "coords": [
-                        9.856846,
-                        56.07291
-                  ]
-            },
-            {
                   "name": "Muldhøj",
                   "text": "Dánia egyik jelentős bronzkori sírhalma, amely régészeti jelentőséggel bír.",
                   "category": "historical",
@@ -23180,15 +19841,6 @@ export const denmarkNature: POI[] = [
                   "coords": [
                         9.845846,
                         56.116977
-                  ]
-            },
-            {
-                  "name": "Sophiendal",
-                  "text": "Történelmi kúria és birtok, amely festői vidéki környezetben található.",
-                  "category": "historical",
-                  "coords": [
-                        9.879505,
-                        56.111641
                   ]
             }
       ],
@@ -23230,15 +19882,6 @@ export const denmarkNature: POI[] = [
                   ]
             },
             {
-                  "name": "Vejhøj",
-                  "text": "Un tumul antic proeminent care oferă informații istorice despre regiune.",
-                  "category": "historical",
-                  "coords": [
-                        9.856846,
-                        56.07291
-                  ]
-            },
-            {
                   "name": "Muldhøj",
                   "text": "Unul dintre cei mai importanți tumuli din epoca bronzului din Danemarca, cu importanță arheologică.",
                   "category": "historical",
@@ -23254,15 +19897,6 @@ export const denmarkNature: POI[] = [
                   "coords": [
                         9.845846,
                         56.116977
-                  ]
-            },
-            {
-                  "name": "Sophiendal",
-                  "text": "Un conac istoric și o moșie situată într-un cadru rural pitoresc.",
-                  "category": "historical",
-                  "coords": [
-                        9.879505,
-                        56.111641
                   ]
             }
       ],
@@ -23304,15 +19938,6 @@ export const denmarkNature: POI[] = [
                   ]
             },
             {
-                  "name": "Vejhøj",
-                  "text": "A prominent ancient burial mound offering historical insights into the region.",
-                  "category": "historical",
-                  "coords": [
-                        9.856846,
-                        56.07291
-                  ]
-            },
-            {
                   "name": "Muldhøj",
                   "text": "One of Denmark's significant Bronze Age burial mounds with archaeological importance.",
                   "category": "historical",
@@ -23328,15 +19953,6 @@ export const denmarkNature: POI[] = [
                   "coords": [
                         9.845846,
                         56.116977
-                  ]
-            },
-            {
-                  "name": "Sophiendal",
-                  "text": "A historic manor house and estate located in a scenic rural setting.",
-                  "category": "historical",
-                  "coords": [
-                        9.879505,
-                        56.111641
                   ]
             }
       ]
@@ -24485,30 +21101,12 @@ export const denmarkNature: POI[] = [
  id: "nat-aero", "sights": {
       "de": [
             {
-                  "name": "Brynkehøj",
-                  "text": "Ein antiker Grabhügel oder eine archäologische Stätte auf der Insel Ærø.",
-                  "category": "historical",
-                  "coords": [
-                        10.417592,
-                        54.866848
-                  ]
-            },
-            {
                   "name": "Langedyss",
                   "text": "Ein prähistorischer Dolmen oder eine archäologische Stätte auf Ærø.",
                   "category": "historical",
                   "coords": [
                         10.413397,
                         54.87253
-                  ]
-            },
-            {
-                  "name": "Kragnæs Jættestue",
-                  "text": "Ein prähistorisches Ganggrab auf der Insel Ærø.",
-                  "category": "historical",
-                  "coords": [
-                        10.46154,
-                        54.865056
                   ]
             },
             {
@@ -24550,30 +21148,12 @@ export const denmarkNature: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Brynkehøj",
-                  "text": "Ősi sírhalom vagy régészeti lelőhely Ærø szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        10.417592,
-                        54.866848
-                  ]
-            },
-            {
                   "name": "Langedyss",
                   "text": "Őskori dolmen vagy régészeti lelőhely Ærø szigetén.",
                   "category": "historical",
                   "coords": [
                         10.413397,
                         54.87253
-                  ]
-            },
-            {
-                  "name": "Kragnæs Jættestue",
-                  "text": "Egy őskori folyosósír Ærø szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        10.46154,
-                        54.865056
                   ]
             },
             {
@@ -24615,30 +21195,12 @@ export const denmarkNature: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Brynkehøj",
-                  "text": "Un tumul antic sau sit arheologic pe insula Ærø.",
-                  "category": "historical",
-                  "coords": [
-                        10.417592,
-                        54.866848
-                  ]
-            },
-            {
                   "name": "Langedyss",
                   "text": "Un dolmen preistoric sau sit arheologic situat pe Ærø.",
                   "category": "historical",
                   "coords": [
                         10.413397,
                         54.87253
-                  ]
-            },
-            {
-                  "name": "Kragnæs Jættestue",
-                  "text": "Un mormânt preistoric pe insula Ærø.",
-                  "category": "historical",
-                  "coords": [
-                        10.46154,
-                        54.865056
                   ]
             },
             {
@@ -24680,30 +21242,12 @@ export const denmarkNature: POI[] = [
       ],
       "en": [
             {
-                  "name": "Brynkehøj",
-                  "text": "An ancient burial mound or archaeological site on the island of Ærø.",
-                  "category": "historical",
-                  "coords": [
-                        10.417592,
-                        54.866848
-                  ]
-            },
-            {
                   "name": "Langedyss",
                   "text": "A prehistoric dolmen or archaeological site located on Ærø.",
                   "category": "historical",
                   "coords": [
                         10.413397,
                         54.87253
-                  ]
-            },
-            {
-                  "name": "Kragnæs Jættestue",
-                  "text": "A prehistoric passage grave located on the island of Ærø.",
-                  "category": "historical",
-                  "coords": [
-                        10.46154,
-                        54.865056
                   ]
             },
             {

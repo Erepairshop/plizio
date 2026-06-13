@@ -3667,15 +3667,6 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
     id: "coldingen-industrial-estate-economic-v2", "sights": {
       "de": [
             {
-                  "name": "End",
-                  "text": "Dieser Aussichtspunkt markiert den Rand des Coldingen Industrial Estate und bietet einen Blick auf die lokalen Produktions- und Verarbeitungsanlagen.",
-                  "category": "natural",
-                  "coords": [
-                        -57.960562,
-                        6.739354
-                  ]
-            },
-            {
                   "name": "Start 8",
                   "text": "Von diesem Aussichtspunkt aus können Beobachter die aktiven kommerziellen und industriellen Abläufe von Coldingen überblicken.",
                   "category": "natural",
@@ -3713,15 +3704,6 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
             }
       ],
       "hu": [
-            {
-                  "name": "End",
-                  "text": "Ez a kilátó a Coldingen Ipari Birtok szélét jelöli, ahonnan a helyi gyártó- és feldolgozó létesítményekre nyílik rálátás.",
-                  "category": "natural",
-                  "coords": [
-                        -57.960562,
-                        6.739354
-                  ]
-            },
             {
                   "name": "Start 8",
                   "text": "Ebből a kilátóból a megfigyelők áttekinthetik Coldingen aktív kereskedelmi és ipari tevékenységeit.",
@@ -3761,15 +3743,6 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
       ],
       "ro": [
             {
-                  "name": "End",
-                  "text": "Acest punct de belvedere marchează marginea Coldingen Industrial Estate, oferind o privire asupra facilităților locale de producție și procesare.",
-                  "category": "natural",
-                  "coords": [
-                        -57.960562,
-                        6.739354
-                  ]
-            },
-            {
                   "name": "Start 8",
                   "text": "Observatorii pot supraveghea operațiunile comerciale și industriale active din Coldingen din acest punct de observație.",
                   "category": "natural",
@@ -3807,15 +3780,6 @@ export const poiExtraGuyanaEconomicV2: POI[] = [ {
             }
       ],
       "en": [
-            {
-                  "name": "End",
-                  "text": "This viewpoint marks the edge of the Coldingen Industrial Estate, offering a look over the local manufacturing and processing facilities.",
-                  "category": "natural",
-                  "coords": [
-                        -57.960562,
-                        6.739354
-                  ]
-            },
             {
                   "name": "Start 8",
                   "text": "Observers can survey the active commercial and industrial operations of Coldingen from this vantage point.",

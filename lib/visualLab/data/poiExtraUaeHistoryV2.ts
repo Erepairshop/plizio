@@ -5982,15 +5982,6 @@ export const poiExtraUaeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "AAN2291",
-                  "text": "Bietet einen Panoramablick auf die grünen Oasen und die moderne Entwicklung von Al Ain.",
-                  "category": "natural",
-                  "coords": [
-                        55.7575,
-                        24.19934
-                  ]
-            },
-            {
                   "name": "AAN2457",
                   "text": "Ein Aussichtspunkt mit Blick auf das zerklüftete Gelände rund um die Stadt Al Ain.",
                   "category": "natural",
@@ -6006,15 +5997,6 @@ export const poiExtraUaeHistoryV2: POI[] = [
                   "coords": [
                         55.775106,
                         24.218408
-                  ]
-            },
-            {
-                  "name": "AAN2059",
-                  "text": "Ein Aussichtspunkt, um die einzigartige Mischung aus Natur und Architektur in Al Ain zu bewundern.",
-                  "category": "natural",
-                  "coords": [
-                        55.76464,
-                        24.19464
                   ]
             },
             {
@@ -6092,15 +6074,6 @@ export const poiExtraUaeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "AAN2291",
-                  "text": "Panorámás kilátást nyújt Al Ain zöld oázisaira és modern fejlesztéseire.",
-                  "category": "natural",
-                  "coords": [
-                        55.7575,
-                        24.19934
-                  ]
-            },
-            {
                   "name": "AAN2457",
                   "text": "Kilátópont, ahonnan rálátás nyílik az Al Ain városát körülvevő tagolt terepre.",
                   "category": "natural",
@@ -6116,15 +6089,6 @@ export const poiExtraUaeHistoryV2: POI[] = [
                   "coords": [
                         55.775106,
                         24.218408
-                  ]
-            },
-            {
-                  "name": "AAN2059",
-                  "text": "Kilátópont, ahonnan megcsodálható Al Ain természetének és építészetének egyedi ötvözete.",
-                  "category": "natural",
-                  "coords": [
-                        55.76464,
-                        24.19464
                   ]
             },
             {
@@ -6202,15 +6166,6 @@ export const poiExtraUaeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "AAN2291",
-                  "text": "Oferă o vedere panoramică asupra oazelor verzi și a dezvoltării moderne din Al Ain.",
-                  "category": "natural",
-                  "coords": [
-                        55.7575,
-                        24.19934
-                  ]
-            },
-            {
                   "name": "AAN2457",
                   "text": "Un punct de observație cu vedere spre terenul accidentat din jurul orașului Al Ain.",
                   "category": "natural",
@@ -6226,15 +6181,6 @@ export const poiExtraUaeHistoryV2: POI[] = [
                   "coords": [
                         55.775106,
                         24.218408
-                  ]
-            },
-            {
-                  "name": "AAN2059",
-                  "text": "Un punct de observație pentru a admira amestecul unic de natură și arhitectură din Al Ain.",
-                  "category": "natural",
-                  "coords": [
-                        55.76464,
-                        24.19464
                   ]
             },
             {
@@ -6312,15 +6258,6 @@ export const poiExtraUaeHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "AAN2291",
-                  "text": "Provides a panoramic view of the green oases and modern development of Al Ain.",
-                  "category": "natural",
-                  "coords": [
-                        55.7575,
-                        24.19934
-                  ]
-            },
-            {
                   "name": "AAN2457",
                   "text": "A viewpoint overlooking the rugged terrain surrounding the city of Al Ain.",
                   "category": "natural",
@@ -6336,15 +6273,6 @@ export const poiExtraUaeHistoryV2: POI[] = [
                   "coords": [
                         55.775106,
                         24.218408
-                  ]
-            },
-            {
-                  "name": "AAN2059",
-                  "text": "A viewpoint to admire the unique blend of nature and architecture in Al Ain.",
-                  "category": "natural",
-                  "coords": [
-                        55.76464,
-                        24.19464
                   ]
             },
             {

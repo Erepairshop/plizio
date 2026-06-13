@@ -4,230 +4,10 @@ export const icelandHistoryV2: POI[] = [
 
   {
     id: "iceland-thingvellir-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Þingvellir: Hjarta lands og þjóðar",
-                  "text": "Eine Ausstellung im Nationalpark Þingvellir, die die geologische und historische Bedeutung des isländischen Herzstücks beleuchtet.",
-                  "category": "museum",
-                  "coords": [
-                        -21.129832,
-                        64.256132
-                  ]
-            },
-            {
-                  "name": "Biskupshólar",
-                  "text": "Eine archäologische Fundstätte im Þingvellir-Nationalpark mit Überresten historischer Siedlungsstrukturen.",
-                  "category": "historical",
-                  "coords": [
-                        -21.121481,
-                        64.257654
-                  ]
-            },
-            {
-                  "name": "Gálgaklettar",
-                  "text": "Historische Felsformationen im Þingvellir-Nationalpark, die mit der frühen isländischen Rechtsgeschichte verbunden sind.",
-                  "category": "historical",
-                  "coords": [
-                        -21.113106,
-                        64.268812
-                  ]
-            },
-            {
-                  "name": "Þórhallsstaðir",
-                  "text": "Überreste eines alten Gehöfts im Þingvellir-Nationalpark, die Einblicke in die frühe Besiedlung bieten.",
-                  "category": "historical",
-                  "coords": [
-                        -21.060919,
-                        64.259273
-                  ]
-            },
-            {
-                  "name": "Bárukot",
-                  "text": "Eine archäologische Stätte im Þingvellir-Nationalpark, die Fundamente ehemaliger Torfhäuser bewahrt.",
-                  "category": "historical",
-                  "coords": [
-                        -21.122547,
-                        64.284127
-                  ]
-            },
-            {
-                  "name": "Amtmannsbúð eldri",
-                  "text": "Archäologische Überreste einer älteren Amtmanns-Residenz innerhalb des historischen Gebiets von Þingvellir.",
-                  "category": "historical",
-                  "coords": [
-                        -21.123466,
-                        64.257614
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Þingvellir: Hjarta lands og þjóðar",
-                  "text": "Kiállítás a Þingvellir Nemzeti Parkban, amely Izland szívének földtani és történelmi jelentőségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -21.129832,
-                        64.256132
-                  ]
-            },
-            {
-                  "name": "Biskupshólar",
-                  "text": "Régészeti lelőhely a Þingvellir Nemzeti Parkban, történelmi településnyomokkal.",
-                  "category": "historical",
-                  "coords": [
-                        -21.121481,
-                        64.257654
-                  ]
-            },
-            {
-                  "name": "Gálgaklettar",
-                  "text": "Történelmi sziklaalakzatok a Þingvellir Nemzeti Parkban, amelyek a korai izlandi jogtörténethez kapcsolódnak.",
-                  "category": "historical",
-                  "coords": [
-                        -21.113106,
-                        64.268812
-                  ]
-            },
-            {
-                  "name": "Þórhallsstaðir",
-                  "text": "Egy régi tanya maradványai a Þingvellir Nemzeti Parkban, amelyek bepillantást engednek a korai betelepülésbe.",
-                  "category": "historical",
-                  "coords": [
-                        -21.060919,
-                        64.259273
-                  ]
-            },
-            {
-                  "name": "Bárukot",
-                  "text": "Régészeti lelőhely a Þingvellir Nemzeti Parkban, amely egykori tőzegházak alapjait őrzi.",
-                  "category": "historical",
-                  "coords": [
-                        -21.122547,
-                        64.284127
-                  ]
-            },
-            {
-                  "name": "Amtmannsbúð eldri",
-                  "text": "Egy régebbi kormányzói rezidencia régészeti maradványai Þingvellir történelmi területén.",
-                  "category": "historical",
-                  "coords": [
-                        -21.123466,
-                        64.257614
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Þingvellir: Hjarta lands og þjóðar",
-                  "text": "O expoziție din Parcul Național Þingvellir care prezintă importanța geologică și istorică a inimii Islandei.",
-                  "category": "museum",
-                  "coords": [
-                        -21.129832,
-                        64.256132
-                  ]
-            },
-            {
-                  "name": "Biskupshólar",
-                  "text": "Un sit arheologic în Parcul Național Þingvellir, conținând vestigii ale unor structuri istorice.",
-                  "category": "historical",
-                  "coords": [
-                        -21.121481,
-                        64.257654
-                  ]
-            },
-            {
-                  "name": "Gálgaklettar",
-                  "text": "Formațiuni stâncoase istorice din Parcul Național Þingvellir, legate de istoria juridică timpurie a Islandei.",
-                  "category": "historical",
-                  "coords": [
-                        -21.113106,
-                        64.268812
-                  ]
-            },
-            {
-                  "name": "Þórhallsstaðir",
-                  "text": "Vestigiile unei vechi ferme din Parcul Național Þingvellir, oferind perspective asupra colonizării timpurii.",
-                  "category": "historical",
-                  "coords": [
-                        -21.060919,
-                        64.259273
-                  ]
-            },
-            {
-                  "name": "Bárukot",
-                  "text": "Un sit arheologic din Parcul Național Þingvellir care păstrează fundațiile unor foste case de turbă.",
-                  "category": "historical",
-                  "coords": [
-                        -21.122547,
-                        64.284127
-                  ]
-            },
-            {
-                  "name": "Amtmannsbúð eldri",
-                  "text": "Vestigii arheologice ale unei vechi reședințe administrative în zona istorică Þingvellir.",
-                  "category": "historical",
-                  "coords": [
-                        -21.123466,
-                        64.257614
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Þingvellir Exhibition: Heart of Iceland",
-                  "text": "An exhibition in Þingvellir National Park highlighting the geological and historical significance of Iceland's heart.",
-                  "category": "museum",
-                  "coords": [
-                        -21.129832,
-                        64.256132
-                  ]
-            },
-            {
-                  "name": "Biskupshólar",
-                  "text": "An archaeological site in Þingvellir National Park featuring remains of historical structures.",
-                  "category": "historical",
-                  "coords": [
-                        -21.121481,
-                        64.257654
-                  ]
-            },
-            {
-                  "name": "Gálgaklettar",
-                  "text": "Historical rock formations in Þingvellir National Park linked to early Icelandic legal history.",
-                  "category": "historical",
-                  "coords": [
-                        -21.113106,
-                        64.268812
-                  ]
-            },
-            {
-                  "name": "Þórhallsstaðir",
-                  "text": "Remains of an old farmstead in Þingvellir National Park, providing insight into early settlement.",
-                  "category": "historical",
-                  "coords": [
-                        -21.060919,
-                        64.259273
-                  ]
-            },
-            {
-                  "name": "Bárukot",
-                  "text": "An archaeological site in Þingvellir National Park preserving the foundations of former turf houses.",
-                  "category": "historical",
-                  "coords": [
-                        -21.122547,
-                        64.284127
-                  ]
-            },
-            {
-                  "name": "Amtmannsbúð eldri",
-                  "text": "Archaeological remains of an older official's residence within the historical area of Þingvellir.",
-                  "category": "historical",
-                  "coords": [
-                        -21.123466,
-                        64.257614
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "IS",
     type: "ruins",
@@ -277,15 +57,6 @@ imageHint: "Thingvellir national park assembly site Iceland",
     id: "iceland-skalholt-history-v2", "sights": {
       "de": [
             {
-                  "name": "Slakki",
-                  "text": "Ein kleiner Streichelzoo für Familien in der Nähe von Skálholt.",
-                  "category": "recreational",
-                  "coords": [
-                        -20.50724,
-                        64.115166
-                  ]
-            },
-            {
                   "name": "Fornleifasvæði",
                   "text": "Eine archäologische Ausgrabungsstätte mit Ruinen in Skálholt.",
                   "category": "historical",
@@ -293,36 +64,9 @@ imageHint: "Thingvellir national park assembly site Iceland",
                         -20.524465,
                         64.124951
                   ]
-            },
-            {
-                  "name": "Mosfellskirkja",
-                  "text": "Kirche am historischen Ort Skálholt.",
-                  "category": "religious",
-                  "coords": [
-                        -20.603757,
-                        64.126833
-                  ]
-            },
-            {
-                  "name": "Laugarás Lagoon",
-                  "text": "Ein öffentliches Thermalbad in der historischen Region Skálholt.",
-                  "category": "recreational",
-                  "coords": [
-                        -20.507482,
-                        64.112979
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Slakki",
-                  "text": "Kicsi állatsimogató családoknak Skálholt közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -20.50724,
-                        64.115166
-                  ]
-            },
             {
                   "name": "Fornleifasvæði",
                   "text": "Régészeti ásatási terület romokkal Skálholtban.",
@@ -331,36 +75,9 @@ imageHint: "Thingvellir national park assembly site Iceland",
                         -20.524465,
                         64.124951
                   ]
-            },
-            {
-                  "name": "Mosfellskirkja",
-                  "text": "Templom a történelmi Skálholt helyszínén.",
-                  "category": "religious",
-                  "coords": [
-                        -20.603757,
-                        64.126833
-                  ]
-            },
-            {
-                  "name": "Laugarás Lagoon",
-                  "text": "Nyilvános termálfürdő a történelmi Skálholt régióban.",
-                  "category": "recreational",
-                  "coords": [
-                        -20.507482,
-                        64.112979
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Slakki",
-                  "text": "O mică grădină zoologică pentru familii lângă Skálholt.",
-                  "category": "recreational",
-                  "coords": [
-                        -20.50724,
-                        64.115166
-                  ]
-            },
             {
                   "name": "Fornleifasvæði",
                   "text": "Un sit arheologic cu ruine situat în Skálholt.",
@@ -369,36 +86,9 @@ imageHint: "Thingvellir national park assembly site Iceland",
                         -20.524465,
                         64.124951
                   ]
-            },
-            {
-                  "name": "Mosfellskirkja",
-                  "text": "Biserică la situl istoric Skálholt.",
-                  "category": "religious",
-                  "coords": [
-                        -20.603757,
-                        64.126833
-                  ]
-            },
-            {
-                  "name": "Laugarás Lagoon",
-                  "text": "O baie termală publică în regiunea istorică Skálholt.",
-                  "category": "recreational",
-                  "coords": [
-                        -20.507482,
-                        64.112979
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Slakki",
-                  "text": "A small petting zoo for families located near Skálholt.",
-                  "category": "recreational",
-                  "coords": [
-                        -20.50724,
-                        64.115166
-                  ]
-            },
             {
                   "name": "Fornleifasvæði",
                   "text": "An archaeological excavation site with ruins in Skálholt.",
@@ -406,24 +96,6 @@ imageHint: "Thingvellir national park assembly site Iceland",
                   "coords": [
                         -20.524465,
                         64.124951
-                  ]
-            },
-            {
-                  "name": "Mosfellskirkja",
-                  "text": "Church at the historic site of Skálholt.",
-                  "category": "religious",
-                  "coords": [
-                        -20.603757,
-                        64.126833
-                  ]
-            },
-            {
-                  "name": "Laugarás Lagoon",
-                  "text": "A public thermal bath located in the historic Skálholt region.",
-                  "category": "recreational",
-                  "coords": [
-                        -20.507482,
-                        64.112979
                   ]
             }
       ]
@@ -474,86 +146,10 @@ imageHint: "Skalholt cathedral historic site Iceland",
     image: "/poi-images/iceland-skalholt-history-v2.webp",
 },  {
     id: "iceland-holar-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Nýibær",
-                  "text": "Nýibær, ein restaurierter Torfbauernhof aus dem 19. Jahrhundert in Hólar.",
-                  "category": "museum",
-                  "coords": [
-                        -19.111012,
-                        65.733205
-                  ]
-            },
-            {
-                  "name": "Auðunarstofa",
-                  "text": "Auðunarstofa, ein historisches Holzgebäude in Hólar.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.114276,
-                        65.734213
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Nýibær",
-                  "text": "Nýibær, egy 19. századi, helyreállított tanyasi tőzegből épült ház Hólarban.",
-                  "category": "museum",
-                  "coords": [
-                        -19.111012,
-                        65.733205
-                  ]
-            },
-            {
-                  "name": "Auðunarstofa",
-                  "text": "Auðunarstofa, egy történelmi faház Hólarban.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.114276,
-                        65.734213
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Nýibær",
-                  "text": "Nýibær, o fermă de turbă restaurată din secolul al XIX-lea în Hólar.",
-                  "category": "museum",
-                  "coords": [
-                        -19.111012,
-                        65.733205
-                  ]
-            },
-            {
-                  "name": "Auðunarstofa",
-                  "text": "Auðunarstofa, o clădire istorică din lemn în Hólar.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.114276,
-                        65.734213
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Nýibær",
-                  "text": "Nýibær, a restored 19th-century turf farmhouse at Hólar.",
-                  "category": "museum",
-                  "coords": [
-                        -19.111012,
-                        65.733205
-                  ]
-            },
-            {
-                  "name": "Auðunarstofa",
-                  "text": "Auðunarstofa, a historic timber building in Hólar.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.114276,
-                        65.734213
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "IS",
     type: "cathedral",
@@ -2674,24 +2270,6 @@ imageHint: "Steinsholt archaeological ruins Iceland",
     id: "iceland-skalholt-monastery-history-v2", "sights": {
       "de": [
             {
-                  "name": "Slakki",
-                  "text": "Ein kleiner Streichelzoo und Haustierpark in der Nähe von Skálholt.",
-                  "category": "recreational",
-                  "coords": [
-                        -20.50724,
-                        64.115166
-                  ]
-            },
-            {
-                  "name": "Fornleifasvæði",
-                  "text": "Eine archäologische Ausgrabungsstätte mit historischen Funden in Skálholt.",
-                  "category": "historical",
-                  "coords": [
-                        -20.524465,
-                        64.124951
-                  ]
-            },
-            {
                   "name": "Mosfellskirkja",
                   "text": "Eine malerische Kirche in der historischen Region um Skálholt.",
                   "category": "religious",
@@ -2699,36 +2277,9 @@ imageHint: "Steinsholt archaeological ruins Iceland",
                         -20.603757,
                         64.126833
                   ]
-            },
-            {
-                  "name": "Laugarás Lagoon",
-                  "text": "Ein öffentliches Bad in der Nähe des historischen Klosters Skálholt in Island.",
-                  "category": "recreational",
-                  "coords": [
-                        -20.507482,
-                        64.112979
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Slakki",
-                  "text": "Egy kis állatsimogató és családi park Skálholt közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -20.50724,
-                        64.115166
-                  ]
-            },
-            {
-                  "name": "Fornleifasvæði",
-                  "text": "Régészeti lelőhely történelmi leletekkel Skálholt kolostoránál.",
-                  "category": "historical",
-                  "coords": [
-                        -20.524465,
-                        64.124951
-                  ]
-            },
             {
                   "name": "Mosfellskirkja",
                   "text": "Egy festői templom Skálholt történelmi régiójában.",
@@ -2737,36 +2288,9 @@ imageHint: "Steinsholt archaeological ruins Iceland",
                         -20.603757,
                         64.126833
                   ]
-            },
-            {
-                  "name": "Laugarás Lagoon",
-                  "text": "Nyilvános fürdő a történelmi Skálholt-kolostor közelében Izlandon.",
-                  "category": "recreational",
-                  "coords": [
-                        -20.507482,
-                        64.112979
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Slakki",
-                  "text": "Un mic parc zoologic cu animale domestice situat lângă Skálholt.",
-                  "category": "recreational",
-                  "coords": [
-                        -20.50724,
-                        64.115166
-                  ]
-            },
-            {
-                  "name": "Fornleifasvæði",
-                  "text": "Un sit arheologic ce cuprinde vestigii istorice în Skálholt.",
-                  "category": "historical",
-                  "coords": [
-                        -20.524465,
-                        64.124951
-                  ]
-            },
             {
                   "name": "Mosfellskirkja",
                   "text": "O biserică pitorească în regiunea istorică Skálholt.",
@@ -2775,36 +2299,9 @@ imageHint: "Steinsholt archaeological ruins Iceland",
                         -20.603757,
                         64.126833
                   ]
-            },
-            {
-                  "name": "Laugarás Lagoon",
-                  "text": "O baie publică situată lângă mănăstirea istorică Skálholt din Islanda.",
-                  "category": "recreational",
-                  "coords": [
-                        -20.507482,
-                        64.112979
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Slakki",
-                  "text": "A small petting zoo and family park located near Skálholt Monastery.",
-                  "category": "recreational",
-                  "coords": [
-                        -20.50724,
-                        64.115166
-                  ]
-            },
-            {
-                  "name": "Fornleifasvæði",
-                  "text": "An archaeological site featuring historical excavations at Skálholt Monastery.",
-                  "category": "historical",
-                  "coords": [
-                        -20.524465,
-                        64.124951
-                  ]
-            },
             {
                   "name": "Mosfellskirkja",
                   "text": "A picturesque church located in the historic Skálholt region.",
@@ -2812,15 +2309,6 @@ imageHint: "Steinsholt archaeological ruins Iceland",
                   "coords": [
                         -20.603757,
                         64.126833
-                  ]
-            },
-            {
-                  "name": "Laugarás Lagoon",
-                  "text": "A public bath located near the historical Skálholt Monastery in Iceland.",
-                  "category": "recreational",
-                  "coords": [
-                        -20.507482,
-                        64.112979
                   ]
             }
       ]
@@ -2915,50 +2403,10 @@ imageHint: "Steinsholt archaeological ruins Iceland",
   },
   {
     id: "iceland-vidivellir-ruins-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Kinnafjall",
-                  "text": "Ein Berggipfel in der Umgebung der Ruinen von Víðivellir.",
-                  "category": "landmark",
-                  "coords": [
-                        -18.77965,
-                        65.44832
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Kinnafjall",
-                  "text": "Egy hegycsúcs a Víðivellir romok közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -18.77965,
-                        65.44832
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Kinnafjall",
-                  "text": "Un vârf muntos situat în vecinătatea ruinelor Víðivellir.",
-                  "category": "landmark",
-                  "coords": [
-                        -18.77965,
-                        65.44832
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Kinnafjall",
-                  "text": "A mountain peak located in the vicinity of the Víðivellir ruins.",
-                  "category": "landmark",
-                  "coords": [
-                        -18.77965,
-                        65.44832
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "ruins",
     parent: "IS",

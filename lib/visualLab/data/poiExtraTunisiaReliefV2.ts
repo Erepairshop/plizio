@@ -1705,15 +1705,6 @@ export const poiExtraTunisiaReliefV2: POI[] = [
                         10.333388,
                         36.705028
                   ]
-            },
-            {
-                  "name": "Ecomuseum",
-                  "text": "Das Ecomuseum am Jebel Boukornine widmet sich der Natur und Ökologie der umliegenden Bergregion.",
-                  "category": "museum",
-                  "coords": [
-                        10.32973,
-                        36.726345
-                  ]
             }
       ],
       "hu": [
@@ -1724,15 +1715,6 @@ export const poiExtraTunisiaReliefV2: POI[] = [
                   "coords": [
                         10.333388,
                         36.705028
-                  ]
-            },
-            {
-                  "name": "Ecomuseum",
-                  "text": "A Jebel Boukornine közelében található Ecomuseum a környező hegyvidék természetét és ökológiáját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        10.32973,
-                        36.726345
                   ]
             }
       ],
@@ -1745,15 +1727,6 @@ export const poiExtraTunisiaReliefV2: POI[] = [
                         10.333388,
                         36.705028
                   ]
-            },
-            {
-                  "name": "Ecomuseum",
-                  "text": "Ecomuzeul de lângă Jebel Boukornine este dedicat naturii și ecologiei regiunii montane înconjurătoare.",
-                  "category": "museum",
-                  "coords": [
-                        10.32973,
-                        36.726345
-                  ]
             }
       ],
       "en": [
@@ -1764,15 +1737,6 @@ export const poiExtraTunisiaReliefV2: POI[] = [
                   "coords": [
                         10.333388,
                         36.705028
-                  ]
-            },
-            {
-                  "name": "Ecomuseum",
-                  "text": "The Ecomuseum near Jebel Boukornine is dedicated to the nature and ecology of the surrounding mountainous region.",
-                  "category": "museum",
-                  "coords": [
-                        10.32973,
-                        36.726345
                   ]
             }
       ]

@@ -141,15 +141,6 @@ export const bulgariaLandmarksV2: POI[] = [
     id: "bulgaria-shipka-memorial-church-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Orlovo gnezdo",
-                  "text": "Ein historischer Gipfel im Balkangebirge nahe dem Schipka-Pass.",
-                  "category": "landmark",
-                  "coords": [
-                        25.322236,
-                        42.746463
-                  ]
-            },
-            {
                   "name": "Khram-pametnik \"Rozhdestvo Khristovo\"",
                   "text": "Eine prachtvolle russisch-orthodoxe Kirche mit goldenen Kuppeln in Schipka.",
                   "category": "religious",
@@ -160,15 +151,6 @@ export const bulgariaLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Sasfészek",
-                  "text": "Történelmi hegycsúcs a Balkán-hegységben, a Sipka-szoros közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        25.322236,
-                        42.746463
-                  ]
-            },
             {
                   "name": "Khram-pametnik \"Rozhdestvo Khristovo\"",
                   "text": "Pompás orosz ortodox templom aranykupolákkal Sipka városában.",
@@ -181,15 +163,6 @@ export const bulgariaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Orlovo gnezdo",
-                  "text": "Un vârf istoric în Munții Balcani, lângă Pasul Șipka.",
-                  "category": "landmark",
-                  "coords": [
-                        25.322236,
-                        42.746463
-                  ]
-            },
-            {
                   "name": "Khram-pametnik \"Rozhdestvo Khristovo\"",
                   "text": "O spectaculoasă biserică ortodoxă rusă cu cupole aurite în Șipka.",
                   "category": "religious",
@@ -200,15 +173,6 @@ export const bulgariaLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Eagle's Nest",
-                  "text": "A historic peak in the Balkan Mountains near the Shipka Pass.",
-                  "category": "landmark",
-                  "coords": [
-                        25.322236,
-                        42.746463
-                  ]
-            },
             {
                   "name": "Shipka Memorial Church",
                   "text": "A magnificent Russian Orthodox church with golden domes in Shipka.",
@@ -546,15 +510,6 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Open View of Virosha and Bankya",
-                  "text": "Ein Aussichtspunkt mit Panoramablick auf das Witoscha-Gebirge und Bankja.",
-                  "category": "natural",
-                  "coords": [
-                        23.239222,
-                        42.589253
-                  ]
-            },
-            {
                   "name": "Kirche von Bojana",
                   "text": "Eine mittelalterliche Kirche bei Sofia, die zum UNESCO-Welterbe gehört.",
                   "category": "religious",
@@ -599,15 +554,6 @@ export const bulgariaLandmarksV2: POI[] = [
                   "coords": [
                         23.239174,
                         42.609729
-                  ]
-            },
-            {
-                  "name": "Open View of Virosha and Bankya",
-                  "text": "Panorámás kilátóhely a Vitosa-hegységre és Bankjára.",
-                  "category": "natural",
-                  "coords": [
-                        23.239222,
-                        42.589253
                   ]
             },
             {
@@ -658,15 +604,6 @@ export const bulgariaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Open View of Virosha and Bankya",
-                  "text": "Un punct de belvedere cu vedere panoramică spre munții Vitoșa și Bankia.",
-                  "category": "natural",
-                  "coords": [
-                        23.239222,
-                        42.589253
-                  ]
-            },
-            {
                   "name": "Boianska ts'rkva",
                   "text": "O biserică medievală de lângă Sofia, inclusă în patrimoniul mondial UNESCO.",
                   "category": "religious",
@@ -711,15 +648,6 @@ export const bulgariaLandmarksV2: POI[] = [
                   "coords": [
                         23.239174,
                         42.609729
-                  ]
-            },
-            {
-                  "name": "Open View of Virosha and Bankya",
-                  "text": "A viewpoint with a panoramic view of the Vitosha Mountains and Bankya.",
-                  "category": "natural",
-                  "coords": [
-                        23.239222,
-                        42.589253
                   ]
             },
             {
@@ -1318,15 +1246,6 @@ export const bulgariaLandmarksV2: POI[] = [
                         23.364635,
                         42.124165
                   ]
-            },
-            {
-                  "name": "Rilska Sveta Obitel",
-                  "text": "Das Hauptmuseum des Klosters Rila mit wertvollen religiösen und historischen Exponaten.",
-                  "category": "museum",
-                  "coords": [
-                        23.340722,
-                        42.13334
-                  ]
             }
       ],
       "hu": [
@@ -1346,15 +1265,6 @@ export const bulgariaLandmarksV2: POI[] = [
                   "coords": [
                         23.364635,
                         42.124165
-                  ]
-            },
-            {
-                  "name": "Rilska Sveta Obitel",
-                  "text": "A Rila-kolostor főmúzeuma értékes vallási és történelmi kiállítási tárgyakkal.",
-                  "category": "museum",
-                  "coords": [
-                        23.340722,
-                        42.13334
                   ]
             }
       ],
@@ -1376,15 +1286,6 @@ export const bulgariaLandmarksV2: POI[] = [
                         23.364635,
                         42.124165
                   ]
-            },
-            {
-                  "name": "Rilska Sveta Obitel",
-                  "text": "Principalul muzeu al Mănăstirii Rila, cu exponate religioase și istorice valoroase.",
-                  "category": "museum",
-                  "coords": [
-                        23.340722,
-                        42.13334
-                  ]
             }
       ],
       "en": [
@@ -1404,15 +1305,6 @@ export const bulgariaLandmarksV2: POI[] = [
                   "coords": [
                         23.364635,
                         42.124165
-                  ]
-            },
-            {
-                  "name": "Rila Monastery Ecclesiastical and Historical Museum",
-                  "text": "The main museum of the Rila Monastery, featuring valuable religious and historical exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        23.340722,
-                        42.13334
                   ]
             }
       ]

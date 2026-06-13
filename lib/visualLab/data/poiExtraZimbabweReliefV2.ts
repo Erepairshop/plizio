@@ -213,50 +213,10 @@ export const poiExtraZimbabweReliefV2: POI[] = [
   },
   {
     id: "chimanimani-mountains-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Bridal Veil Falls",
-                  "text": "Die Bridal Veil Falls bei Chimanimani stürzen malerisch über zerklüftete Felsen und ähneln in ihrer Form einem eleganten Brautschleier.",
-                  "category": "natural",
-                  "coords": [
-                        32.848134,
-                        -19.792095
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Bridal Veil Falls",
-                  "text": "A Chimanimani közelében található Bridal Veil Falls festőien zuhog le a sziklákon, formája egy elegáns menyasszonyi fátyolra emlékeztet.",
-                  "category": "natural",
-                  "coords": [
-                        32.848134,
-                        -19.792095
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Bridal Veil Falls",
-                  "text": "Cascada Bridal Veil de lângă Chimanimani se varsă pitoresc peste stânci accidentate, având forma unui voal de mireasă elegant.",
-                  "category": "natural",
-                  "coords": [
-                        32.848134,
-                        -19.792095
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Bridal Veil Falls",
-                  "text": "The Bridal Veil Falls near Chimanimani cascade picturesquely over jagged rocks, resembling an elegant bridal veil.",
-                  "category": "natural",
-                  "coords": [
-                        32.848134,
-                        -19.792095
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "ZW-MA",

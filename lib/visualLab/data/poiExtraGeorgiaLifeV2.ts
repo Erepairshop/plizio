@@ -1902,15 +1902,6 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tskhemvana Bridge",
-                  "text": "An ancient stone arched bridge in the Tskhemvana area, part of a historic trade route.",
-                  "category": "landmark",
-                  "coords": [
-                        41.976164,
-                        41.762296
-                  ]
-            },
-            {
                   "name": "წონიარისის(\"ჯაიმელას\") თაღოვანი ხიდი",
                   "text": "A historic stone arched bridge, also known as Jaimela, located in the village of Tsoniarisi.",
                   "category": "landmark",
@@ -7959,15 +7950,6 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shilda Fortress",
-                  "text": "Medieval fortification ruins located near the village of Shilda.",
-                  "category": "historical",
-                  "coords": [
-                        45.717801,
-                        42.005525
-                  ]
-            },
-            {
                   "name": "ნაგებების კომპლექსი ( სამნავიანი ბაზილიკა და მარანი )",
                   "text": "Ruins of a three-nave basilica and a traditional Georgian wine cellar (marani).",
                   "category": "historical",
@@ -9254,24 +9236,6 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Ozurgeti's State Drama Theatre named after Al. Tsutsunava",
-                  "text": "A grand neoclassical theatre building in Ozurgeti hosting regular dramatic performances.",
-                  "category": "cultural",
-                  "coords": [
-                        42.006324,
-                        41.92336
-                  ]
-            },
-            {
-                  "name": "Ozurgeti History Museum",
-                  "text": "Founded in 1936, this museum houses archaeological finds and ethnographic treasures from the Guria region.",
-                  "category": "museum",
-                  "coords": [
-                        42.005015,
-                        41.922579
-                  ]
-            },
             {
                   "name": "მერიის (ყ.გოგორეთი) წმ.გიორგის ეკლესია",
                   "text": "An Orthodox stone church serving the spiritual life of the rural Meria community.",

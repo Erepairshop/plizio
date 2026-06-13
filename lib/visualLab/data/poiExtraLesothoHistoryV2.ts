@@ -49,50 +49,10 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-cana-mission-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Malimong Cave",
-                  "text": "Eine historische Höhlenstätte in Lesotho, die für ihre Verbindung zur Frühgeschichte des Landes und als ehemaliger Zufluchtsort für Kannibalen bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        27.90679,
-                        -29.217841
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Malimong Cave",
-                  "text": "Történelmi barlang Lesothóban, amely az ország korai történelmével való kapcsolatáról és mint egykori kannibál menedékhely ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        27.90679,
-                        -29.217841
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Malimong Cave",
-                  "text": "O peșteră istorică din Lesotho, cunoscută pentru asocierea sa cu istoria timpurie a țării și ca fost refugiu pentru canibali.",
-                  "category": "landmark",
-                  "coords": [
-                        27.90679,
-                        -29.217841
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Malimong Cave",
-                  "text": "A historic cave site in Lesotho, known for its association with the country's early history and as a former refuge for cannibals.",
-                  "category": "landmark",
-                  "coords": [
-                        27.90679,
-                        -29.217841
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LS",
     type: "church",
@@ -1626,15 +1586,6 @@ export const lesothoHistoryV2: POI[] = [
     id: "lesotho-st-agnes-mission-history-v2", "sights": {
       "de": [
             {
-                  "name": "manga site",
-                  "text": "Ein hoch gelegener Aussichtspunkt im Freien, der einen weiten Blick über das ländliche Hochlandterrain bietet.",
-                  "category": "natural",
-                  "coords": [
-                        27.762996,
-                        -29.153033
-                  ]
-            },
-            {
                   "name": "Kolonyama Corporatives Society",
                   "text": "Dieses kommunale Kunstzentrum fungiert als kooperativer Knotenpunkt für lokale Kunsthandwerker, um ihre Werke zu schaffen und auszustellen.",
                   "category": "cultural",
@@ -1645,15 +1596,6 @@ export const lesothoHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "manga site",
-                  "text": "Egy magasan fekvő szabadtéri kilátópont, amely kiterjedt kilátást nyújt a vidéki felföldi terepre.",
-                  "category": "natural",
-                  "coords": [
-                        27.762996,
-                        -29.153033
-                  ]
-            },
             {
                   "name": "Kolonyama Corporatives Society",
                   "text": "Ez a közösségi művészeti központ helyi kézművesek szövetkezeti központjaként működik, ahol alkothatnak és kiállíthatják munkáikat.",
@@ -1666,15 +1608,6 @@ export const lesothoHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "manga site",
-                  "text": "Un punct de belvedere în aer liber situat la înălțime, care oferă o priveliște vastă asupra terenului rural din zonele înalte.",
-                  "category": "natural",
-                  "coords": [
-                        27.762996,
-                        -29.153033
-                  ]
-            },
-            {
                   "name": "Kolonyama Corporatives Society",
                   "text": "Acest centru comunitar de artă funcționează ca un hub cooperativ pentru artizanii locali care își creează și își expun lucrările.",
                   "category": "cultural",
@@ -1685,15 +1618,6 @@ export const lesothoHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "manga site",
-                  "text": "An elevated outdoor viewpoint providing expansive sights across the rural highland terrain.",
-                  "category": "natural",
-                  "coords": [
-                        27.762996,
-                        -29.153033
-                  ]
-            },
             {
                   "name": "Kolonyama Corporatives Society",
                   "text": "This communal arts centre functions as a cooperative hub for local craftspeople to create and display their work.",
@@ -3091,50 +3015,10 @@ export const lesothoHistoryV2: POI[] = [
   },
   {
     id: "lesotho-royal-archives-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "King's Residence",
-                  "text": "Dieser königliche Wohnsitz beherbergt bedeutende Archive zur Geschichte der Monarchie in Lesotho.",
-                  "category": "castle",
-                  "coords": [
-                        27.565263,
-                        -29.61944
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "King's Residence",
-                  "text": "Ez a királyi rezidencia fontos levéltári anyagoknak ad otthont Lesotho monarchiájának történetéből.",
-                  "category": "castle",
-                  "coords": [
-                        27.565263,
-                        -29.61944
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "King's Residence",
-                  "text": "Această reședință regală găzduiește arhive importante legate de istoria monarhiei din Lesotho.",
-                  "category": "castle",
-                  "coords": [
-                        27.565263,
-                        -29.61944
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "King's Residence",
-                  "text": "This royal residence is associated with significant historical archives detailing the history of the Lesotho monarchy.",
-                  "category": "castle",
-                  "coords": [
-                        27.565263,
-                        -29.61944
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LS",
     type: "museum",

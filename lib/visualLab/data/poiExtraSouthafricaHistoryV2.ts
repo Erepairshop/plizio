@@ -7020,93 +7020,12 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maritime Museum",
-                  "text": "Dieses Schifffahrtsmuseum ist Teil des Bartolomeu-Dias-Museumskomplexes und zeigt eine lebensgroße Nachbildung der Karavelle von Dias.",
-                  "category": "museum",
-                  "coords": [
-                        22.141812,
-                        -34.179955
-                  ]
-            },
-            {
-                  "name": "Aquada de São Bras",
-                  "text": "Eine historische Wasserstelle nahe Pinnacle Point, an der frühe portugiesische Entdecker ihre Süßwasservorräte auffüllten.",
-                  "category": "landmark",
-                  "coords": [
-                        22.140626,
-                        -34.179906
-                  ]
-            },
-            {
-                  "name": "De Bakke Water Trough",
-                  "text": "Ein alter Wassertrog, der die historische Infrastruktur für Reisende und Vieh nahe Pinnacle Point widerspiegelt.",
-                  "category": "landmark",
-                  "coords": [
-                        22.129497,
-                        -34.173041
-                  ]
-            },
-            {
-                  "name": "The Padrão",
-                  "text": "Ein Steinmonument, das die historischen Landgänge früher europäischer Seefahrer in der Region markiert.",
-                  "category": "landmark",
-                  "coords": [
-                        22.139295,
-                        -34.180018
-                  ]
-            },
-            {
-                  "name": "White Shark Africa",
-                  "text": "Eine Attraktion, die Käfigtauchen und Begegnungen mit Weißen Haien entlang der nahegelegenen Küste anbietet.",
-                  "category": "landmark",
-                  "coords": [
-                        22.143075,
-                        -34.180519
-                  ]
-            },
-            {
-                  "name": "Graves",
-                  "text": "Eine Attraktion mit historischen Gräbern, die Einblicke in die frühen Siedler und Seefahrer der Gegend um Pinnacle Point bieten.",
-                  "category": "landmark",
-                  "coords": [
-                        22.143167,
-                        -34.194325
-                  ]
-            },
-            {
-                  "name": "Love Cross Viewpoint",
-                  "text": "Ein Aussichtspunkt an der Küste in der Nähe von Pinnacle Point, der weite Panoramen über die felsige Küste und das Meer bietet.",
-                  "category": "natural",
-                  "coords": [
-                        22.153722,
-                        -34.185121
-                  ]
-            },
-            {
                   "name": "Saint Blaize Cave",
                   "text": "Eine markante Küstenhöhle, in der archäologische Beweise für eine Besiedlung in der mittleren Steinzeit gefunden wurden.",
                   "category": "landmark",
                   "coords": [
                         22.157021,
                         -34.186114
-                  ]
-            },
-            {
-                  "name": "The Shark Lab",
-                  "text": "Ein lehrreiches Aquarium nahe Pinnacle Point, das sich auf den Schutz und die Erforschung lokaler Haiarten konzentriert.",
-                  "category": "recreational",
-                  "coords": [
-                        22.159071,
-                        -34.186043
-                  ]
-            },
-            {
-                  "name": "Historical Cemetery",
-                  "text": "Ein Friedhof, der die Grabstätten von Einwohnern und Seeleuten der Küstenstadt aus dem frühen 19. Jahrhundert bewahrt.",
-                  "category": "landmark",
-                  "coords": [
-                        22.153742,
-                        -34.181159
                   ]
             },
             {
@@ -7125,15 +7044,6 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
                   "coords": [
                         22.056953,
                         -34.204964
-                  ]
-            },
-            {
-                  "name": "Madiba Beach (former Santos Beach)",
-                  "text": "Dieses ehemals als Santos Beach bekannte Küstenziel bietet einen Sandstrand zum Baden und für Aktivitäten am Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        22.137514,
-                        -34.177179
                   ]
             }
       ],
@@ -7157,93 +7067,12 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maritime Museum",
-                  "text": "A Bartolomeu Dias Múzeumkomplexum részét képező tengerészeti múzeumban Dias karavellájának életnagyságú másolata is megtekinthető.",
-                  "category": "museum",
-                  "coords": [
-                        22.141812,
-                        -34.179955
-                  ]
-            },
-            {
-                  "name": "Aquada de São Bras",
-                  "text": "Történelmi vízlelőhely Pinnacle Point közelében, ahol a korai portugál felfedezők frissvíz-készleteiket töltötték fel.",
-                  "category": "landmark",
-                  "coords": [
-                        22.140626,
-                        -34.179906
-                  ]
-            },
-            {
-                  "name": "De Bakke Water Trough",
-                  "text": "Egy régi itatóvályú, amely az utazóknak és az állatoknak szóló történelmi infrastruktúrát tükrözi Pinnacle Point közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        22.129497,
-                        -34.173041
-                  ]
-            },
-            {
-                  "name": "The Padrão",
-                  "text": "Egy kőemlékmű, amely a korai európai tengerészek történelmi partraszállásait jelöli a régióban.",
-                  "category": "landmark",
-                  "coords": [
-                        22.139295,
-                        -34.180018
-                  ]
-            },
-            {
-                  "name": "White Shark Africa",
-                  "text": "Káposztás cápamerülést és tengeri találkozásokat kínáló látványosság a közeli partvonal mentén.",
-                  "category": "landmark",
-                  "coords": [
-                        22.143075,
-                        -34.180519
-                  ]
-            },
-            {
-                  "name": "Graves",
-                  "text": "Történelmi sírokat bemutató látványosság, amely betekintést nyújt a Pinnacle Point környékének korai telepeseinek és tengerészeinek életébe.",
-                  "category": "landmark",
-                  "coords": [
-                        22.143167,
-                        -34.194325
-                  ]
-            },
-            {
-                  "name": "Love Cross Viewpoint",
-                  "text": "Egy tengerparti kilátópont a Pinnacle Point közelében, amely széles panorámát kínál a sziklás partvonalra és az óceánra.",
-                  "category": "natural",
-                  "coords": [
-                        22.153722,
-                        -34.185121
-                  ]
-            },
-            {
                   "name": "Saint Blaize Cave",
                   "text": "Kiemelkedő tengerparti barlang, ahol a középső kőkorszakból származó betelepülés régészeti bizonyítékait találták meg.",
                   "category": "landmark",
                   "coords": [
                         22.157021,
                         -34.186114
-                  ]
-            },
-            {
-                  "name": "The Shark Lab",
-                  "text": "Egy oktatási célú akvárium a Pinnacle Point közelében, amely a helyi cápafajok védelmére és tanulmányozására összpontosít.",
-                  "category": "recreational",
-                  "coords": [
-                        22.159071,
-                        -34.186043
-                  ]
-            },
-            {
-                  "name": "Historical Cemetery",
-                  "text": "Egy temető, amely a parti város 19. század eleji lakóinak és tengerészeinek temetkezési helyeit őrzi.",
-                  "category": "landmark",
-                  "coords": [
-                        22.153742,
-                        -34.181159
                   ]
             },
             {
@@ -7262,15 +7091,6 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
                   "coords": [
                         22.056953,
                         -34.204964
-                  ]
-            },
-            {
-                  "name": "Madiba Beach (former Santos Beach)",
-                  "text": "A korábban Santos Beach néven ismert tengerparti úti cél homokos partot kínál fürdőzéshez és tengerparti tevékenységekhez.",
-                  "category": "recreational",
-                  "coords": [
-                        22.137514,
-                        -34.177179
                   ]
             }
       ],
@@ -7294,93 +7114,12 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maritime Museum",
-                  "text": "Parte a complexului muzeal Bartolomeu Dias, acest muzeu maritim prezintă o replică în mărime naturală a caravelei lui Dias.",
-                  "category": "museum",
-                  "coords": [
-                        22.141812,
-                        -34.179955
-                  ]
-            },
-            {
-                  "name": "Aquada de São Bras",
-                  "text": "Un sit istoric de alimentare cu apă lângă Pinnacle Point, unde primii exploratori portughezi și-au refăcut proviziile de apă dulce.",
-                  "category": "landmark",
-                  "coords": [
-                        22.140626,
-                        -34.179906
-                  ]
-            },
-            {
-                  "name": "De Bakke Water Trough",
-                  "text": "O atracție cu un vechi jgheab de apă care reflectă infrastructura istorică pentru călători și animale lângă Pinnacle Point.",
-                  "category": "landmark",
-                  "coords": [
-                        22.129497,
-                        -34.173041
-                  ]
-            },
-            {
-                  "name": "The Padrão",
-                  "text": "Un monument de piatră care marchează debarcările istorice ale primilor navigatori europeni în regiune.",
-                  "category": "landmark",
-                  "coords": [
-                        22.139295,
-                        -34.180018
-                  ]
-            },
-            {
-                  "name": "White Shark Africa",
-                  "text": "O atracție care oferă scufundări în cușcă și întâlniri cu mari rechini albi de-a lungul coastei din apropiere.",
-                  "category": "landmark",
-                  "coords": [
-                        22.143075,
-                        -34.180519
-                  ]
-            },
-            {
-                  "name": "Graves",
-                  "text": "O atracție cu morminte istorice care oferă o perspectivă asupra primilor coloniști și navigatori din zona Pinnacle Point.",
-                  "category": "landmark",
-                  "coords": [
-                        22.143167,
-                        -34.194325
-                  ]
-            },
-            {
-                  "name": "Love Cross Viewpoint",
-                  "text": "Un punct de belvedere de coastă lângă Pinnacle Point care oferă panorame vaste asupra țărmului stâncos și a oceanului.",
-                  "category": "natural",
-                  "coords": [
-                        22.153722,
-                        -34.185121
-                  ]
-            },
-            {
                   "name": "Saint Blaize Cave",
                   "text": "O peșteră de coastă proeminentă unde s-au găsit dovezi arheologice de locuire din Epoca de Piatră Mijlocie.",
                   "category": "landmark",
                   "coords": [
                         22.157021,
                         -34.186114
-                  ]
-            },
-            {
-                  "name": "The Shark Lab",
-                  "text": "Un acvariu educațional lângă Pinnacle Point, axat pe conservarea și studiul speciilor locale de rechini.",
-                  "category": "recreational",
-                  "coords": [
-                        22.159071,
-                        -34.186043
-                  ]
-            },
-            {
-                  "name": "Historical Cemetery",
-                  "text": "Un cimitir care conservă locurile de înmormântare ale rezidenților și marinarilor de la începutul secolului al XIX-lea din orașul de coastă.",
-                  "category": "landmark",
-                  "coords": [
-                        22.153742,
-                        -34.181159
                   ]
             },
             {
@@ -7399,15 +7138,6 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
                   "coords": [
                         22.056953,
                         -34.204964
-                  ]
-            },
-            {
-                  "name": "Madiba Beach (former Santos Beach)",
-                  "text": "Cunoscută anterior ca plaja Santos, această destinație de coastă oferă un țărm cu nisip pentru baie și activități pe litoral.",
-                  "category": "recreational",
-                  "coords": [
-                        22.137514,
-                        -34.177179
                   ]
             }
       ],
@@ -7431,93 +7161,12 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maritime Museum",
-                  "text": "Part of the Bartolomeu Dias Museum Complex, this maritime museum features a life-size replica of Dias's caravel ship.",
-                  "category": "museum",
-                  "coords": [
-                        22.141812,
-                        -34.179955
-                  ]
-            },
-            {
-                  "name": "Aquada de São Bras",
-                  "text": "A historic watering site near Pinnacle Point where early Portuguese explorers replenished their fresh water supplies.",
-                  "category": "landmark",
-                  "coords": [
-                        22.140626,
-                        -34.179906
-                  ]
-            },
-            {
-                  "name": "De Bakke Water Trough",
-                  "text": "An old water trough attraction reflecting the historical infrastructure for travelers and livestock near Pinnacle Point.",
-                  "category": "landmark",
-                  "coords": [
-                        22.129497,
-                        -34.173041
-                  ]
-            },
-            {
-                  "name": "The Padrão",
-                  "text": "A stone monument attraction marking the historical landfalls of early European navigators in the region.",
-                  "category": "landmark",
-                  "coords": [
-                        22.139295,
-                        -34.180018
-                  ]
-            },
-            {
-                  "name": "White Shark Africa",
-                  "text": "An attraction offering cage diving and marine encounters with great white sharks along the nearby coastline.",
-                  "category": "landmark",
-                  "coords": [
-                        22.143075,
-                        -34.180519
-                  ]
-            },
-            {
-                  "name": "Graves",
-                  "text": "An attraction featuring historic graves that offer insight into the early settlers and seafarers of the Pinnacle Point area.",
-                  "category": "landmark",
-                  "coords": [
-                        22.143167,
-                        -34.194325
-                  ]
-            },
-            {
-                  "name": "Love Cross Viewpoint",
-                  "text": "A coastal viewpoint near Pinnacle Point offering sweeping panoramas over the rocky shoreline and ocean.",
-                  "category": "natural",
-                  "coords": [
-                        22.153722,
-                        -34.185121
-                  ]
-            },
-            {
                   "name": "Saint Blaize Cave",
                   "text": "A prominent coastal cave attraction where archaeological evidence of Middle Stone Age inhabitation has been found.",
                   "category": "landmark",
                   "coords": [
                         22.157021,
                         -34.186114
-                  ]
-            },
-            {
-                  "name": "The Shark Lab",
-                  "text": "An educational aquarium near Pinnacle Point focusing on the conservation and study of local shark species.",
-                  "category": "recreational",
-                  "coords": [
-                        22.159071,
-                        -34.186043
-                  ]
-            },
-            {
-                  "name": "Historical Cemetery",
-                  "text": "A cemetery attraction preserving the burial sites of early 19th-century residents and sailors of the coastal town.",
-                  "category": "landmark",
-                  "coords": [
-                        22.153742,
-                        -34.181159
                   ]
             },
             {
@@ -7536,15 +7185,6 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
                   "coords": [
                         22.056953,
                         -34.204964
-                  ]
-            },
-            {
-                  "name": "Madiba Beach (former Santos Beach)",
-                  "text": "Formerly known as Santos Beach, this coastal destination provides a sandy shoreline for bathing and seaside activities.",
-                  "category": "recreational",
-                  "coords": [
-                        22.137514,
-                        -34.177179
                   ]
             }
       ]
@@ -8928,15 +8568,6 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Johannesburg Art Gallery",
-                  "text": "In dem historischen Sandsteinbau befindet sich eine der größten Sammlungen zeitgenössischer und klassischer afrikanischer Kunst.",
-                  "category": "museum",
-                  "coords": [
-                        28.047047,
-                        -26.196951
-                  ]
-            },
-            {
                   "name": "Johannesburg South Africa Temple",
                   "text": "Der mormonische Tempel besticht durch seine markante Ziegelfassade und die gepflegten Gärten.",
                   "category": "religious",
@@ -8999,15 +8630,6 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
                   "coords": [
                         28.042529,
                         -26.188429
-                  ]
-            },
-            {
-                  "name": "Johannesburg Art Gallery",
-                  "text": "A történelmi homokkő épület Afrika egyik legnagyobb kortárs és klasszikus képzőművészeti gyűjteményének ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        28.047047,
-                        -26.196951
                   ]
             },
             {
@@ -9076,15 +8698,6 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Johannesburg Art Gallery",
-                  "text": "Această clădire istorică din gresie găzduiește una dintre cele mai mari colecții de artă africană clasică și contemporană.",
-                  "category": "museum",
-                  "coords": [
-                        28.047047,
-                        -26.196951
-                  ]
-            },
-            {
                   "name": "Johannesburg South Africa Temple",
                   "text": "Templul mormon impresionează prin fațada sa distinctivă din cărămidă și grădinile impecabil îngrijite.",
                   "category": "religious",
@@ -9147,15 +8760,6 @@ export const poiExtraSouthafricaHistoryV2: POI[] = [
                   "coords": [
                         28.042529,
                         -26.188429
-                  ]
-            },
-            {
-                  "name": "Johannesburg Art Gallery",
-                  "text": "Housed in a historic sandstone building, it contains one of the continent's largest collections of contemporary and classical art.",
-                  "category": "museum",
-                  "coords": [
-                        28.047047,
-                        -26.196951
                   ]
             },
             {

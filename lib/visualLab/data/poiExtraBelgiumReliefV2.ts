@@ -954,24 +954,6 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
     id: "belgium-brabant-plateau-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Deux tertes - Twee heuvels",
-                  "text": "Eine archäologische Stätte mit prähistorischen Grabhügeln im Sonienwald.",
-                  "category": "historical",
-                  "coords": [
-                        4.405732,
-                        50.78798
-                  ]
-            },
-            {
-                  "name": "Boitsfort-Etangs - Bosvoorde-Vijvers",
-                  "text": "Historische Teiche und eine archäologische Stätte am Rande des Sonienwaldes.",
-                  "category": "historical",
-                  "coords": [
-                        4.411131,
-                        50.790473
-                  ]
-            },
-            {
                   "name": "Waldreservat Ticton A",
                   "text": "Ein geschütztes Waldreservat, das Teil des wertvollen Ökosystems des Sonienwaldes ist.",
                   "category": "natural",
@@ -990,33 +972,6 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   ]
             },
             {
-                  "name": "Réserve forestière du Grippensdelle A - Bosreservaat Grippensdelle A",
-                  "text": "Ein Naturschutzgebiet im Sonienwald, das für seine alten Buchenbestände bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        4.426745,
-                        50.781593
-                  ]
-            },
-            {
-                  "name": "Château Fond'Roy - Kasteel Fond'Roy",
-                  "text": "Ein historisches Schloss im Brüsseler Stadtteil Uccle, umgeben von einer Grünanlage.",
-                  "category": "castle",
-                  "coords": [
-                        4.375178,
-                        50.779567
-                  ]
-            },
-            {
-                  "name": "Réserve forestière du Grippensdelle B - Bosreservaat Grippensdelle B",
-                  "text": "Ein ökologisch wertvolles Schutzgebiet innerhalb des weitläufigen Sonienwaldes.",
-                  "category": "natural",
-                  "coords": [
-                        4.431961,
-                        50.783589
-                  ]
-            },
-            {
                   "name": "Bosreservaat Joseph Zwaenepoel",
                   "text": "Ein bedeutendes Waldreservat, das die unberührte Natur des Sonienwaldes bewahrt.",
                   "category": "natural",
@@ -1027,24 +982,6 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             }
       ],
       "hu": [
-            {
-                  "name": "Deux tertes - Twee heuvels",
-                  "text": "Régészeti lelőhely őskori sírhalmokkal a Sonian-erdő területén.",
-                  "category": "historical",
-                  "coords": [
-                        4.405732,
-                        50.78798
-                  ]
-            },
-            {
-                  "name": "Boitsfort-Etangs - Bosvoorde-Vijvers",
-                  "text": "Történelmi tavak és régészeti lelőhely a Sonian-erdő szélén.",
-                  "category": "historical",
-                  "coords": [
-                        4.411131,
-                        50.790473
-                  ]
-            },
             {
                   "name": "Réserve forestière du Ticton A",
                   "text": "Védett erdőrezervátum, amely a Sonian-erdő értékes ökoszisztémájának része.",
@@ -1064,33 +1001,6 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   ]
             },
             {
-                  "name": "Réserve forestière du Grippensdelle A - Bosreservaat Grippensdelle A",
-                  "text": "A Sonian-erdő természetvédelmi területe, amely őshonos bükköseiről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        4.426745,
-                        50.781593
-                  ]
-            },
-            {
-                  "name": "Château Fond'Roy - Kasteel Fond'Roy",
-                  "text": "Történelmi kastély Brüsszel Uccle negyedében, zöld környezetben.",
-                  "category": "castle",
-                  "coords": [
-                        4.375178,
-                        50.779567
-                  ]
-            },
-            {
-                  "name": "Réserve forestière du Grippensdelle B - Bosreservaat Grippensdelle B",
-                  "text": "Ökológiailag értékes védett terület a kiterjedt Sonian-erdőn belül.",
-                  "category": "natural",
-                  "coords": [
-                        4.431961,
-                        50.783589
-                  ]
-            },
-            {
                   "name": "Bosreservaat Joseph Zwaenepoel",
                   "text": "Jelentős erdőrezervátum, amely a Sonian-erdő érintetlen természetét őrzi.",
                   "category": "natural",
@@ -1101,24 +1011,6 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             }
       ],
       "ro": [
-            {
-                  "name": "Deux tertes - Twee heuvels",
-                  "text": "Un sit arheologic cu tumuli preistorici situat în Pădurea Soniană.",
-                  "category": "historical",
-                  "coords": [
-                        4.405732,
-                        50.78798
-                  ]
-            },
-            {
-                  "name": "Boitsfort-Etangs - Bosvoorde-Vijvers",
-                  "text": "Iazuri istorice și un sit arheologic la marginea Pădurii Soniane.",
-                  "category": "historical",
-                  "coords": [
-                        4.411131,
-                        50.790473
-                  ]
-            },
             {
                   "name": "Réserve forestière du Ticton A",
                   "text": "O rezervație forestieră protejată, parte a ecosistemului valoros al Pădurii Soniane.",
@@ -1138,33 +1030,6 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   ]
             },
             {
-                  "name": "Réserve forestière du Grippensdelle A - Bosreservaat Grippensdelle A",
-                  "text": "O rezervație naturală în Pădurea Soniană, cunoscută pentru făgetele sale vechi.",
-                  "category": "natural",
-                  "coords": [
-                        4.426745,
-                        50.781593
-                  ]
-            },
-            {
-                  "name": "Château Fond'Roy - Kasteel Fond'Roy",
-                  "text": "Un castel istoric în cartierul Uccle din Bruxelles, înconjurat de un domeniu verde.",
-                  "category": "castle",
-                  "coords": [
-                        4.375178,
-                        50.779567
-                  ]
-            },
-            {
-                  "name": "Réserve forestière du Grippensdelle B - Bosreservaat Grippensdelle B",
-                  "text": "O zonă protejată de valoare ecologică în interiorul vastei Păduri Soniane.",
-                  "category": "natural",
-                  "coords": [
-                        4.431961,
-                        50.783589
-                  ]
-            },
-            {
                   "name": "Bosreservaat Joseph Zwaenepoel",
                   "text": "O rezervație forestieră importantă care păstrează natura virgină a Pădurii Soniane.",
                   "category": "natural",
@@ -1175,24 +1040,6 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             }
       ],
       "en": [
-            {
-                  "name": "Deux tertes - Twee heuvels",
-                  "text": "An archaeological site featuring prehistoric burial mounds in the Sonian Forest.",
-                  "category": "historical",
-                  "coords": [
-                        4.405732,
-                        50.78798
-                  ]
-            },
-            {
-                  "name": "Boitsfort-Etangs - Bosvoorde-Vijvers",
-                  "text": "Historic ponds and an archaeological site located at the edge of the Sonian Forest.",
-                  "category": "historical",
-                  "coords": [
-                        4.411131,
-                        50.790473
-                  ]
-            },
             {
                   "name": "Forest reserve Ticton A",
                   "text": "A protected forest reserve forming part of the Sonian Forest's valuable ecosystem.",
@@ -1209,33 +1056,6 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   "coords": [
                         4.4308,
                         50.726807
-                  ]
-            },
-            {
-                  "name": "Sonian Forest - Grippensdelle A",
-                  "text": "A nature reserve in the Sonian Forest known for its ancient beech stands.",
-                  "category": "natural",
-                  "coords": [
-                        4.426745,
-                        50.781593
-                  ]
-            },
-            {
-                  "name": "Château Fond'Roy - Kasteel Fond'Roy",
-                  "text": "A historic castle in the Uccle district of Brussels, surrounded by parkland.",
-                  "category": "castle",
-                  "coords": [
-                        4.375178,
-                        50.779567
-                  ]
-            },
-            {
-                  "name": "Sonian Forest - Grippensdelle B",
-                  "text": "An ecologically valuable protected area within the expansive Sonian Forest.",
-                  "category": "natural",
-                  "coords": [
-                        4.431961,
-                        50.783589
                   ]
             },
             {
@@ -2669,30 +2489,12 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   ]
             },
             {
-                  "name": "Fanges de Nazieufa",
-                  "text": "Ein Hochmoornaturschutzgebiet, das die einzigartigen Feuchtgebiete des Plateaus schützt.",
-                  "category": "natural",
-                  "coords": [
-                        5.718457,
-                        50.251187
-                  ]
-            },
-            {
                   "name": "Musée de la 83rd Infantry Division",
                   "text": "Ein Militärmuseum, das der 83. Infanteriedivision während des Zweiten Weltkriegs gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         5.811757,
                         50.237842
-                  ]
-            },
-            {
-                  "name": "Baraque de Fraiture",
-                  "text": "Der höchste Punkt in der Provinz Luxemburg, bekannt für sein Skigebiet.",
-                  "category": "landmark",
-                  "coords": [
-                        5.731713,
-                        50.248977
                   ]
             },
             {
@@ -2716,30 +2518,12 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   ]
             },
             {
-                  "name": "Fanges de Nazieufa",
-                  "text": "Tőzeglápos természetvédelmi terület, amely a fennsík egyedülálló vizes élőhelyeit védi.",
-                  "category": "natural",
-                  "coords": [
-                        5.718457,
-                        50.251187
-                  ]
-            },
-            {
                   "name": "Musée de la 83rd Infantry Division",
                   "text": "A második világháborús 83. gyaloghadosztálynak szentelt katonai múzeum.",
                   "category": "museum",
                   "coords": [
                         5.811757,
                         50.237842
-                  ]
-            },
-            {
-                  "name": "Baraque de Fraiture",
-                  "text": "Luxemburg tartomány legmagasabb pontja, amely síközpontjáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        5.731713,
-                        50.248977
                   ]
             },
             {
@@ -2763,30 +2547,12 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   ]
             },
             {
-                  "name": "Fanges de Nazieufa",
-                  "text": "O rezervație naturală de turbărie care protejează zonele umede unice ale platoului.",
-                  "category": "natural",
-                  "coords": [
-                        5.718457,
-                        50.251187
-                  ]
-            },
-            {
                   "name": "Musée de la 83rd Infantry Division",
                   "text": "Un muzeu militar dedicat Diviziei 83 Infanterie din timpul celui de-al Doilea Război Mondial.",
                   "category": "museum",
                   "coords": [
                         5.811757,
                         50.237842
-                  ]
-            },
-            {
-                  "name": "Baraque de Fraiture",
-                  "text": "Cel mai înalt punct din provincia Luxemburg, cunoscut pentru stațiunea sa de schi.",
-                  "category": "landmark",
-                  "coords": [
-                        5.731713,
-                        50.248977
                   ]
             },
             {
@@ -2810,30 +2576,12 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   ]
             },
             {
-                  "name": "Fanges de Nazieufa",
-                  "text": "A peat bog nature reserve protecting the plateau's unique wetlands.",
-                  "category": "natural",
-                  "coords": [
-                        5.718457,
-                        50.251187
-                  ]
-            },
-            {
                   "name": "Musée de la 83rd Infantry Division",
                   "text": "A military museum dedicated to the 83rd Infantry Division during World War II.",
                   "category": "museum",
                   "coords": [
                         5.811757,
                         50.237842
-                  ]
-            },
-            {
-                  "name": "Baraque de Fraiture",
-                  "text": "The highest point in the province of Luxembourg, known for its ski resort.",
-                  "category": "landmark",
-                  "coords": [
-                        5.731713,
-                        50.248977
                   ]
             },
             {
@@ -3481,266 +3229,10 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
 ,
   {
     id: "belgium-botrange-peak-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Archivothèque de la Haute Ardenne Centre de documentation",
-                  "text": "Ein Dokumentationszentrum und Museum in der Nähe des Botrange-Gipfels.",
-                  "category": "museum",
-                  "coords": [
-                        6.118976,
-                        50.472608
-                  ]
-            },
-            {
-                  "name": "Baltia-Hügel",
-                  "text": "Ein künstlicher Aussichtshügel, der den höchsten Punkt Belgiens auf 700 Meter ergänzt.",
-                  "category": "natural",
-                  "coords": [
-                        6.092609,
-                        50.501694
-                  ]
-            },
-            {
-                  "name": "Michelshütte",
-                  "text": "Ein historisches Rasthaus und Berggipfel im Hohen Venn.",
-                  "category": "landmark",
-                  "coords": [
-                        6.062437,
-                        50.518793
-                  ]
-            },
-            {
-                  "name": "Cascade du Bayehon",
-                  "text": "Ein Wasserfall in den Hohen Venn bei Botrange, die Cascade du Bayehon.",
-                  "category": "landmark",
-                  "coords": [
-                        6.086883,
-                        50.478288
-                  ]
-            },
-            {
-                  "name": "Monument Dehousse",
-                  "text": "Ein Denkmal auf dem Botrange-Gipfel, das einer lokalen Persönlichkeit gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        6.130296,
-                        50.491513
-                  ]
-            },
-            {
-                  "name": "Monument Didier Comès",
-                  "text": "Ein Denkmal zu Ehren des belgischen Comiczeichners Didier Comès.",
-                  "category": "historical",
-                  "coords": [
-                        6.131618,
-                        50.492904
-                  ]
-            },
-            {
-                  "name": "Cuvelier, Hilgers et Müller",
-                  "text": "Ein lokales Gedenkmonument auf dem Botrange-Gipfel.",
-                  "category": "historical",
-                  "coords": [
-                        6.063529,
-                        50.511192
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Archivothèque de la Haute Ardenne Centre de documentation",
-                  "text": "Dokumentációs központ és múzeum a Botrange-csúcs közelében.",
-                  "category": "museum",
-                  "coords": [
-                        6.118976,
-                        50.472608
-                  ]
-            },
-            {
-                  "name": "Butte Baltia",
-                  "text": "Mesterséges kilátódomb, amely 700 méterre egészíti ki Belgium legmagasabb pontját.",
-                  "category": "natural",
-                  "coords": [
-                        6.092609,
-                        50.501694
-                  ]
-            },
-            {
-                  "name": "Baraque Michel",
-                  "text": "Történelmi vendégfogadó és hegycsúcs a Hohes Venn területén.",
-                  "category": "landmark",
-                  "coords": [
-                        6.062437,
-                        50.518793
-                  ]
-            },
-            {
-                  "name": "Cascade du Bayehon",
-                  "text": "Egy vízesés a High Fens-ben Botrange közelében, a Cascade du Bayehon.",
-                  "category": "landmark",
-                  "coords": [
-                        6.086883,
-                        50.478288
-                  ]
-            },
-            {
-                  "name": "Monument Dehousse",
-                  "text": "Helyi személyiségnek szentelt emlékmű a Botrange-csúcson.",
-                  "category": "historical",
-                  "coords": [
-                        6.130296,
-                        50.491513
-                  ]
-            },
-            {
-                  "name": "Monument Didier Comès",
-                  "text": "Didier Comès belga képregényrajzoló tiszteletére emelt emlékmű.",
-                  "category": "historical",
-                  "coords": [
-                        6.131618,
-                        50.492904
-                  ]
-            },
-            {
-                  "name": "Cuvelier, Hilgers et Müller",
-                  "text": "Helyi emlékhely a Botrange-csúcs közelében.",
-                  "category": "historical",
-                  "coords": [
-                        6.063529,
-                        50.511192
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Archivothèque de la Haute Ardenne Centre de documentation",
-                  "text": "Un centru de documentare și muzeu situat lângă vârful Botrange.",
-                  "category": "museum",
-                  "coords": [
-                        6.118976,
-                        50.472608
-                  ]
-            },
-            {
-                  "name": "Butte Baltia",
-                  "text": "Un dâmb de observație artificial care ridică simbolic cel mai înalt punct al Belgiei la 700 de metri.",
-                  "category": "natural",
-                  "coords": [
-                        6.092609,
-                        50.501694
-                  ]
-            },
-            {
-                  "name": "Baraque Michel",
-                  "text": "Un han istoric și un vârf muntos situat în regiunea Hohes Venn.",
-                  "category": "landmark",
-                  "coords": [
-                        6.062437,
-                        50.518793
-                  ]
-            },
-            {
-                  "name": "Cascade du Bayehon",
-                  "text": "O cascadă în înaltele mlaștini (High Fens) lângă Botrange, Cascade du Bayehon.",
-                  "category": "landmark",
-                  "coords": [
-                        6.086883,
-                        50.478288
-                  ]
-            },
-            {
-                  "name": "Monument Dehousse",
-                  "text": "Un monument situat pe vârful Botrange, dedicat unei personalități locale.",
-                  "category": "historical",
-                  "coords": [
-                        6.130296,
-                        50.491513
-                  ]
-            },
-            {
-                  "name": "Monument Didier Comès",
-                  "text": "Un monument ridicat în onoarea autorului belgian de benzi desenate Didier Comès.",
-                  "category": "historical",
-                  "coords": [
-                        6.131618,
-                        50.492904
-                  ]
-            },
-            {
-                  "name": "Cuvelier, Hilgers et Müller",
-                  "text": "Un monument comemorativ local situat pe vârful Botrange.",
-                  "category": "historical",
-                  "coords": [
-                        6.063529,
-                        50.511192
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Archivothèque de la Haute Ardenne Centre de documentation",
-                  "text": "A documentation center and museum located near the Botrange Peak.",
-                  "category": "museum",
-                  "coords": [
-                        6.118976,
-                        50.472608
-                  ]
-            },
-            {
-                  "name": "Butte Baltia",
-                  "text": "An artificial viewing mound that raises Belgium's highest point to 700 meters.",
-                  "category": "natural",
-                  "coords": [
-                        6.092609,
-                        50.501694
-                  ]
-            },
-            {
-                  "name": "Baraque Michel",
-                  "text": "A historic inn and mountain peak located in the High Fens.",
-                  "category": "landmark",
-                  "coords": [
-                        6.062437,
-                        50.518793
-                  ]
-            },
-            {
-                  "name": "Cascade du Bayehon",
-                  "text": "A waterfall in the High Fens near Botrange, the Cascade du Bayehon.",
-                  "category": "landmark",
-                  "coords": [
-                        6.086883,
-                        50.478288
-                  ]
-            },
-            {
-                  "name": "Monument Dehousse",
-                  "text": "A monument on the Botrange Peak dedicated to a local figure.",
-                  "category": "historical",
-                  "coords": [
-                        6.130296,
-                        50.491513
-                  ]
-            },
-            {
-                  "name": "Monument Didier Comès",
-                  "text": "A monument honoring the Belgian comic book artist Didier Comès.",
-                  "category": "historical",
-                  "coords": [
-                        6.131618,
-                        50.492904
-                  ]
-            },
-            {
-                  "name": "Cuvelier, Hilgers et Müller",
-                  "text": "A local commemorative monument located on the Botrange Peak.",
-                  "category": "historical",
-                  "coords": [
-                        6.063529,
-                        50.511192
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "peak",
     parent: "BE",
@@ -3789,15 +3281,6 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
     id: "belgium-baraque-michel-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Michelshütte",
-                  "text": "Ein bekannter Gipfel und ein historisches Gasthaus im Hohen Venn in Belgien.",
-                  "category": "landmark",
-                  "coords": [
-                        6.062437,
-                        50.518793
-                  ]
-            },
-            {
                   "name": "Monument Parotte",
                   "text": "Ein Gedenkmonument in der Nähe von Baraque Michel im Hohen Venn.",
                   "category": "historical",
@@ -3805,27 +3288,9 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                         6.013352,
                         50.543473
                   ]
-            },
-            {
-                  "name": "Cuvelier, Hilgers et Müller",
-                  "text": "Historische Industriestätte auf dem Hochplateau Baraque Michel.",
-                  "category": "historical",
-                  "coords": [
-                        6.063529,
-                        50.511192
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Baraque Michel",
-                  "text": "Ismert hegycsúcs és történelmi fogadó a belgiumi Magas-Láp területén.",
-                  "category": "landmark",
-                  "coords": [
-                        6.062437,
-                        50.518793
-                  ]
-            },
             {
                   "name": "Monument Parotte",
                   "text": "Emlékmű a Magas-Láp területén, Baraque Michel közelében.",
@@ -3834,27 +3299,9 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                         6.013352,
                         50.543473
                   ]
-            },
-            {
-                  "name": "Cuvelier, Hilgers et Müller",
-                  "text": "Történelmi ipari helyszín a Baraque Michel-fennsíkon.",
-                  "category": "historical",
-                  "coords": [
-                        6.063529,
-                        50.511192
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Baraque Michel",
-                  "text": "Un vârf cunoscut și un han istoric în High Fens, Belgia.",
-                  "category": "landmark",
-                  "coords": [
-                        6.062437,
-                        50.518793
-                  ]
-            },
             {
                   "name": "Monument Parotte",
                   "text": "Un monument comemorativ situat lângă Baraque Michel în High Fens.",
@@ -3863,27 +3310,9 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                         6.013352,
                         50.543473
                   ]
-            },
-            {
-                  "name": "Cuvelier, Hilgers et Müller",
-                  "text": "Sit industrial istoric pe platoul Baraque Michel.",
-                  "category": "historical",
-                  "coords": [
-                        6.063529,
-                        50.511192
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Baraque Michel",
-                  "text": "A well-known peak and historic inn in the High Fens region of Belgium.",
-                  "category": "landmark",
-                  "coords": [
-                        6.062437,
-                        50.518793
-                  ]
-            },
             {
                   "name": "Monument Parotte",
                   "text": "A commemorative monument located near Baraque Michel in the High Fens.",
@@ -3891,15 +3320,6 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   "coords": [
                         6.013352,
                         50.543473
-                  ]
-            },
-            {
-                  "name": "Cuvelier, Hilgers et Müller",
-                  "text": "Historical industrial site on the Baraque Michel plateau.",
-                  "category": "historical",
-                  "coords": [
-                        6.063529,
-                        50.511192
                   ]
             }
       ]
@@ -3951,15 +3371,6 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
     id: "belgium-mont-rigi-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Baltia-Hügel",
-                  "text": "Ein Aussichtspunkt und Hügel, der den höchsten Punkt des Hohen Venns markiert.",
-                  "category": "natural",
-                  "coords": [
-                        6.092609,
-                        50.501694
-                  ]
-            },
-            {
                   "name": "Michelshütte",
                   "text": "Historisches Gasthaus und markanter Punkt im Hohen Venn.",
                   "category": "landmark",
@@ -3979,15 +3390,6 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             }
       ],
       "hu": [
-            {
-                  "name": "Butte Baltia",
-                  "text": "Kilátópont és domb, amely a Hohes Venn legmagasabb pontját jelzi.",
-                  "category": "natural",
-                  "coords": [
-                        6.092609,
-                        50.501694
-                  ]
-            },
             {
                   "name": "Baraque Michel",
                   "text": "Történelmi fogadó és hegycsúcs a Hohes Venn régióban.",
@@ -4009,15 +3411,6 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
       ],
       "ro": [
             {
-                  "name": "Butte Baltia",
-                  "text": "Un punct de observație care marchează cel mai înalt punct din Hautes Fagnes.",
-                  "category": "natural",
-                  "coords": [
-                        6.092609,
-                        50.501694
-                  ]
-            },
-            {
                   "name": "Baraque Michel",
                   "text": "Han istoric și vârf în regiunea Hautes Fagnes.",
                   "category": "landmark",
@@ -4037,15 +3430,6 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
             }
       ],
       "en": [
-            {
-                  "name": "Butte Baltia",
-                  "text": "A viewpoint and mound marking the highest point of the High Fens.",
-                  "category": "natural",
-                  "coords": [
-                        6.092609,
-                        50.501694
-                  ]
-            },
             {
                   "name": "Baraque Michel",
                   "text": "A historic inn and peak located in the High Fens region.",
@@ -4887,48 +4271,12 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
     id: "belgium-vallee-de-la-semois-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Parc Animalier de Bouillon",
-                  "text": "Dieser Tierpark im Semoistal beherbergt eine Vielzahl regionaler und exotischer Tierarten.",
-                  "category": "recreational",
-                  "coords": [
-                        5.076547,
-                        49.791293
-                  ]
-            },
-            {
-                  "name": "Burg Bouillon",
-                  "text": "Eine beeindruckende mittelalterliche Festung, die für ihre Verbindung zu Gottfried von Bouillon bekannt ist.",
-                  "category": "castle",
-                  "coords": [
-                        5.065088,
-                        49.792608
-                  ]
-            },
-            {
                   "name": "Château de Viaumont",
                   "text": "Ein historisches Schloss im Semoistal, das die Architektur der Region repräsentiert.",
                   "category": "castle",
                   "coords": [
                         5.148208,
                         49.798677
-                  ]
-            },
-            {
-                  "name": "La Collection",
-                  "text": "Ein Museum im Semoistal, das verschiedene lokale Sammlungen präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        5.068301,
-                        49.794621
-                  ]
-            },
-            {
-                  "name": "Ancienne station vicinale de Bouillon",
-                  "text": "Die ehemalige Vizinalstation von Bouillon ist ein Zeugnis der regionalen Verkehrsgeschichte.",
-                  "category": "landmark",
-                  "coords": [
-                        5.068045,
-                        49.791055
                   ]
             },
             {
@@ -4939,63 +4287,9 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                         5.138958,
                         49.788874
                   ]
-            },
-            {
-                  "name": "Arboretum de Bouillon",
-                  "text": "Ein wunderschönes Arboretum im Semoistal mit einer Vielfalt an Baumarten.",
-                  "category": "landmark",
-                  "coords": [
-                        5.056778,
-                        49.787314
-                  ]
-            },
-            {
-                  "name": "Point de vue de la Ramonette",
-                  "text": "Ein Aussichtspunkt, der einen spektakulären Blick auf die Stadt Bouillon und ihre Umgebung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        5.062864,
-                        49.789409
-                  ]
-            },
-            {
-                  "name": "Zone de baignade de Bouillon - pont de la Poulie",
-                  "text": "Ein natürlicher Flussschwimmbereich in der Semois bei Bouillon.",
-                  "category": "recreational",
-                  "coords": [
-                        5.0644,
-                        49.793635
-                  ]
-            },
-            {
-                  "name": "Zone de baignade de Bouillon - Pont de France",
-                  "text": "Ein öffentlicher Platz zum Schwimmen in der Semois in der Nähe der Brücke Pont de France.",
-                  "category": "recreational",
-                  "coords": [
-                        5.065588,
-                        49.789032
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Parc Animalier de Bouillon",
-                  "text": "Ez az állatpark a Semois-völgyben számos helyi és egzotikus állatfajnak ad otthont.",
-                  "category": "recreational",
-                  "coords": [
-                        5.076547,
-                        49.791293
-                  ]
-            },
-            {
-                  "name": "Château de Bouillon",
-                  "text": "Lenyűgöző középkori erődítmény, amely Bouillon Gottfriedhez fűződő kapcsolatáról ismert.",
-                  "category": "castle",
-                  "coords": [
-                        5.065088,
-                        49.792608
-                  ]
-            },
             {
                   "name": "Château de Viaumont",
                   "text": "Történelmi kastély a Semois-völgyben, amely a régió építészetét reprezentálja.",
@@ -5006,24 +4300,6 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   ]
             },
             {
-                  "name": "La Collection",
-                  "text": "Múzeum a Semois-völgyben, amely különféle helyi gyűjteményeket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        5.068301,
-                        49.794621
-                  ]
-            },
-            {
-                  "name": "Ancienne station vicinale de Bouillon",
-                  "text": "Bouillon egykori helyiérdekű vasútállomása a régió közlekedéstörténetének emléke.",
-                  "category": "landmark",
-                  "coords": [
-                        5.068045,
-                        49.791055
-                  ]
-            },
-            {
                   "name": "Roche de la Schevauchée",
                   "text": "Jellegzetes kilátópont, amely széles kilátást nyújt a Semois-völgy tájaira.",
                   "category": "natural",
@@ -5031,63 +4307,9 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                         5.138958,
                         49.788874
                   ]
-            },
-            {
-                  "name": "Arboretum de Bouillon",
-                  "text": "Gyönyörű arborétum a Semois-völgyben, sokféle fafajjal.",
-                  "category": "landmark",
-                  "coords": [
-                        5.056778,
-                        49.787314
-                  ]
-            },
-            {
-                  "name": "Point de vue de la Ramonette",
-                  "text": "Kilátópont, ahonnan látványos kilátás nyílik Bouillon városára és környékére.",
-                  "category": "natural",
-                  "coords": [
-                        5.062864,
-                        49.789409
-                  ]
-            },
-            {
-                  "name": "Zone de baignade de Bouillon - pont de la Poulie",
-                  "text": "Természetes folyami fürdőhely a Semois-folyóban Bouillonban.",
-                  "category": "recreational",
-                  "coords": [
-                        5.0644,
-                        49.793635
-                  ]
-            },
-            {
-                  "name": "Zone de baignade de Bouillon - Pont de France",
-                  "text": "Nyilvános fürdőhely a Semois-folyóban a Pont de France híd közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        5.065588,
-                        49.789032
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Parc Animalier de Bouillon",
-                  "text": "Această grădină zoologică din Valea Semois găzduiește o varietate de specii de animale regionale și exotice.",
-                  "category": "recreational",
-                  "coords": [
-                        5.076547,
-                        49.791293
-                  ]
-            },
-            {
-                  "name": "Château de Bouillon",
-                  "text": "O cetate medievală impresionantă, cunoscută pentru legătura sa cu Godefroy de Bouillon.",
-                  "category": "castle",
-                  "coords": [
-                        5.065088,
-                        49.792608
-                  ]
-            },
             {
                   "name": "Château de Viaumont",
                   "text": "Un castel istoric din Valea Semois, reprezentativ pentru arhitectura regiunii.",
@@ -5098,24 +4320,6 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   ]
             },
             {
-                  "name": "La Collection",
-                  "text": "Un muzeu din Valea Semois care prezintă diverse colecții locale.",
-                  "category": "museum",
-                  "coords": [
-                        5.068301,
-                        49.794621
-                  ]
-            },
-            {
-                  "name": "Ancienne station vicinale de Bouillon",
-                  "text": "Fosta stație vicinală din Bouillon este o mărturie a istoriei transportului regional.",
-                  "category": "landmark",
-                  "coords": [
-                        5.068045,
-                        49.791055
-                  ]
-            },
-            {
                   "name": "Roche de la Schevauchée",
                   "text": "Un punct de belvedere distinctiv care oferü o vedere panoramică asupra peisajului Văii Semois.",
                   "category": "natural",
@@ -5123,63 +4327,9 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                         5.138958,
                         49.788874
                   ]
-            },
-            {
-                  "name": "Arboretum de Bouillon",
-                  "text": "Un arboretum frumos în Valea Semois, cu o varietate de specii de arbori.",
-                  "category": "landmark",
-                  "coords": [
-                        5.056778,
-                        49.787314
-                  ]
-            },
-            {
-                  "name": "Point de vue de la Ramonette",
-                  "text": "Un punct de belvedere care oferă o priveliște spectaculoasă asupra orașului Bouillon și a împrejurimilor sale.",
-                  "category": "natural",
-                  "coords": [
-                        5.062864,
-                        49.789409
-                  ]
-            },
-            {
-                  "name": "Zone de baignade de Bouillon - pont de la Poulie",
-                  "text": "O zonă naturală de scăldat în râul Semois, la Bouillon.",
-                  "category": "recreational",
-                  "coords": [
-                        5.0644,
-                        49.793635
-                  ]
-            },
-            {
-                  "name": "Zone de baignade de Bouillon - Pont de France",
-                  "text": "Un loc public pentru înot în râul Semois, lângă podul Pont de France.",
-                  "category": "recreational",
-                  "coords": [
-                        5.065588,
-                        49.789032
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Parc Animalier de Bouillon",
-                  "text": "This zoo in the Semois Valley features a variety of regional and exotic animal species.",
-                  "category": "recreational",
-                  "coords": [
-                        5.076547,
-                        49.791293
-                  ]
-            },
-            {
-                  "name": "Bouillon Castle",
-                  "text": "An impressive medieval fortress known for its association with Godfrey of Bouillon.",
-                  "category": "castle",
-                  "coords": [
-                        5.065088,
-                        49.792608
-                  ]
-            },
             {
                   "name": "Château de Viaumont",
                   "text": "A historical castle in the Semois Valley representing the region's architecture.",
@@ -5190,66 +4340,12 @@ imageHint: "Dense green forests and rolling hills of the Ardennes",
                   ]
             },
             {
-                  "name": "La Collection",
-                  "text": "A museum in the Semois Valley presenting various local collections.",
-                  "category": "museum",
-                  "coords": [
-                        5.068301,
-                        49.794621
-                  ]
-            },
-            {
-                  "name": "Ancienne station vicinale de Bouillon",
-                  "text": "The former vicinal station of Bouillon is a testament to the regional transport history.",
-                  "category": "landmark",
-                  "coords": [
-                        5.068045,
-                        49.791055
-                  ]
-            },
-            {
                   "name": "Roche de la Schevauchée",
                   "text": "A prominent viewpoint offering panoramic views over the Semois Valley landscape.",
                   "category": "natural",
                   "coords": [
                         5.138958,
                         49.788874
-                  ]
-            },
-            {
-                  "name": "Arboretum de Bouillon",
-                  "text": "A beautiful arboretum in the Semois Valley featuring a variety of tree species.",
-                  "category": "landmark",
-                  "coords": [
-                        5.056778,
-                        49.787314
-                  ]
-            },
-            {
-                  "name": "Point de vue de la Ramonette",
-                  "text": "A viewpoint offering spectacular views of the town of Bouillon and its surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        5.062864,
-                        49.789409
-                  ]
-            },
-            {
-                  "name": "Zone de baignade de Bouillon - pont de la Poulie",
-                  "text": "A natural river swimming area in the Semois River at Bouillon.",
-                  "category": "recreational",
-                  "coords": [
-                        5.0644,
-                        49.793635
-                  ]
-            },
-            {
-                  "name": "Zone de baignade de Bouillon - Pont de France",
-                  "text": "A public spot for swimming in the Semois River near the Pont de France bridge.",
-                  "category": "recreational",
-                  "coords": [
-                        5.065588,
-                        49.789032
                   ]
             }
       ]

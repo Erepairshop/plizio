@@ -4008,16 +4008,6 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "source_hint": "wiki"
             },
             {
-                  "name": "Csergezán-Pál-Aussichtsturm",
-                  "text": "Ein markanter, segelförmiger Holzturm auf dem Gipfel des Berges Nagy-Kopasz, der ein 360-Grad-Panorama bietet.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        18.86506,
-                        47.551816
-                  ]
-            },
-            {
                   "name": "Széchenyi-Zsigmond-Denkmal",
                   "text": "Eine Statue zu Ehren des berühmten ungarischen Jägers und Schriftstellers Zsigmond Széchenyi im Stadtzentrum.",
                   "category": "civic",
@@ -4114,16 +4104,6 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "source_hint": "wiki"
             },
             {
-                  "name": "Csergezán Pál-kilátó",
-                  "text": "A Budai-hegység legmagasabb pontján, a Nagy-Kopaszon álló, különleges vitorla alakú fa kilátó, teljes körpanorámával.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        18.86506,
-                        47.551816
-                  ]
-            },
-            {
                   "name": "Széchenyi Zsigmond-szobor",
                   "text": "A híres magyar vadász és író emlékére állított szobor Budakeszi központjában, az erdőgazdaság közelében.",
                   "category": "civic",
@@ -4218,16 +4198,6 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
-            },
-            {
-                  "name": "Turnul de belvedere Csergezán Pál",
-                  "text": "Un turn de lemn în formă de velă pe vârful dealului Nagy-Kopasz, oferind o panoramă circulară asupra munților Buda.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        18.86506,
-                        47.551816
-                  ]
             },
             {
                   "name": "Statuia lui Széchenyi Zsigmond",
@@ -4905,17 +4875,6 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   ]
             },
             {
-                  "name": "Kalvarienberg",
-                  "text": "Eine historische religiöse Stätte auf einem Hügel, die einen ruhigen Ort für Besinnung und einen Blick auf die Umgebung bietet.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "source_hint": "wiki",
-                  "coords": [
-                        18.95116,
-                        47.462965
-                  ]
-            },
-            {
                   "name": "Aussichtsturm Anna-Berg",
                   "text": "Der moderne Aussichtsturm bietet ein prächtiges Panorama auf das Budaer Gebirge und die weite Umgebung von Törökbálint.",
                   "category": "recreational",
@@ -5134,17 +5093,6 @@ export const poiExtraHungaryCitiesV3: POI[] = [
                   "coords": [
                         18.914755,
                         47.43368
-                  ]
-            },
-            {
-                  "name": "Calvary Hill",
-                  "text": "A sacred site on a hill featuring stations of the cross, providing a quiet atmosphere and views of the town.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "source_hint": "wiki",
-                  "coords": [
-                        18.95116,
-                        47.462965
                   ]
             },
             {

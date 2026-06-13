@@ -6018,86 +6018,10 @@ export const poiExtraSaudiarabiaCitiesV2: POI[] = [
     }, image: "/poi-images/al-bahah-cities-v2.webp"},
   {
     id: "tarut-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Tarout Castle",
-                  "text": "Eine historische Burg auf der Insel Tarut im Persischen Golf.",
-                  "category": "castle",
-                  "coords": [
-                        50.066063,
-                        26.569258
-                  ]
-            },
-            {
-                  "name": "Al Khidr Mosque",
-                  "text": "Die Al-Khidr-Moschee in Tarut ist eine alte Moschee auf der Insel Tarut.",
-                  "category": "religious",
-                  "coords": [
-                        50.079157,
-                        26.5634
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Tarout Castle",
-                  "text": "Egy történelmi vár a Tarut szigeten a Perzsa-öbölben.",
-                  "category": "castle",
-                  "coords": [
-                        50.066063,
-                        26.569258
-                  ]
-            },
-            {
-                  "name": "Al Khidr Mosque",
-                  "text": "Az Al-Khidr mecset Tarutban egy ősi mecset Tarut szigetén.",
-                  "category": "religious",
-                  "coords": [
-                        50.079157,
-                        26.5634
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Tarout Castle",
-                  "text": "Un castel istoric pe insula Tarut, în Golful Persic.",
-                  "category": "castle",
-                  "coords": [
-                        50.066063,
-                        26.569258
-                  ]
-            },
-            {
-                  "name": "Al Khidr Mosque",
-                  "text": "Moscheea Al Khidr din Tarut este o moschee veche pe insula Tarut.",
-                  "category": "religious",
-                  "coords": [
-                        50.079157,
-                        26.5634
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Tarout Castle",
-                  "text": "A historic castle on Tarout Island in the Persian Gulf.",
-                  "category": "castle",
-                  "coords": [
-                        50.066063,
-                        26.569258
-                  ]
-            },
-            {
-                  "name": "Al Khidr Mosque",
-                  "text": "Al Khidr Mosque in Tarut is an ancient mosque on Tarut Island.",
-                  "category": "religious",
-                  "coords": [
-                        50.079157,
-                        26.5634
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "SA-04",

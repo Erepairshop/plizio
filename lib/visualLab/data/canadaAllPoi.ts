@@ -15458,48 +15458,12 @@ export const canadaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Oak Street Bridge",
-                  "text": "Die Oak Street Bridge verbindet Vancouver mit Richmond über den Fraser River.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.123967,
-                        49.198019
-                  ]
-            },
-            {
                   "name": "North Arm Bridge",
                   "text": "Die North Arm Bridge ist eine SkyTrain-Brücke, die auch als Canada Line Bridge bekannt ist.",
                   "category": "landmark",
                   "coords": [
                         -123.117896,
                         49.202441
-                  ]
-            },
-            {
-                  "name": "Dinsmore Bridge",
-                  "text": "Die Dinsmore Bridge ist eine kleine Brücke in Richmond.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.148531,
-                        49.178549
-                  ]
-            },
-            {
-                  "name": "Moray Channel Bridge",
-                  "text": "Die Moray Channel Bridge überquert den Moray Channel in Richmond.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.136751,
-                        49.191781
-                  ]
-            },
-            {
-                  "name": "Number Two Road Bridge",
-                  "text": "Die Number Two Road Bridge ist eine Brücke in Richmond auf der No. 2 Road.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.157059,
-                        49.175684
                   ]
             },
             {
@@ -15584,15 +15548,6 @@ export const canadaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Gateway Theatre",
-                  "text": "Das Gateway Theatre ist ein Theater in Richmond, das verschiedene Aufführungen zeigt.",
-                  "category": "cultural",
-                  "coords": [
-                        -123.147132,
-                        49.167336
-                  ]
-            },
-            {
                   "name": "McDonald Beach Park",
                   "text": "Der McDonald Beach Park ist ein Park in Richmond am Fraser River.",
                   "category": "park",
@@ -15611,39 +15566,12 @@ export const canadaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Minoru Park",
-                  "text": "Der Minoru Park ist ein großer Park in Richmond mit Sportplätzen und einem See.",
-                  "category": "park",
-                  "coords": [
-                        -123.144472,
-                        49.165696
-                  ]
-            },
-            {
                   "name": "Pacific Museum of Earth",
                   "text": "Das Pacific Museum of Earth an der UBC zeigt erdwissenschaftliche Exponate.",
                   "category": "museum",
                   "coords": [
                         -123.252342,
                         49.262451
-                  ]
-            },
-            {
-                  "name": "Richmond Olympic Experience",
-                  "text": "Das Richmond Olympic Experience ist ein Museum, das die Olympischen Winterspiele 2010 thematisiert.",
-                  "category": "museum",
-                  "coords": [
-                        -123.151333,
-                        49.174408
-                  ]
-            },
-            {
-                  "name": "Xinde Antique Gallery",
-                  "text": "Die Xinde Antique Gallery ist eine Galerie für Antiquitäten in Richmond.",
-                  "category": "museum",
-                  "coords": [
-                        -123.136162,
-                        49.169584
                   ]
             },
             {
@@ -15784,48 +15712,12 @@ export const canadaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Oak Street Bridge",
-                  "text": "Az Oak Street híd összeköti Vancouvert Richmonddal a Fraser folyón keresztül.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.123967,
-                        49.198019
-                  ]
-            },
-            {
                   "name": "North Arm Bridge",
                   "text": "A North Arm híd egy SkyTrain híd, amely Canada Line híd néven is ismert.",
                   "category": "landmark",
                   "coords": [
                         -123.117896,
                         49.202441
-                  ]
-            },
-            {
-                  "name": "Dinsmore Bridge",
-                  "text": "A Dinsmore híd egy kis híd Richmondban.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.148531,
-                        49.178549
-                  ]
-            },
-            {
-                  "name": "Moray Channel Bridge",
-                  "text": "A Moray Channel híd a Moray-csatornát íveli át Richmondban.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.136751,
-                        49.191781
-                  ]
-            },
-            {
-                  "name": "Number Two Road Bridge",
-                  "text": "A Number Two Road híd egy híd Richmondban a No. 2 Roadon.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.157059,
-                        49.175684
                   ]
             },
             {
@@ -15910,15 +15802,6 @@ export const canadaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Gateway Theatre",
-                  "text": "A Gateway Theatre egy színház Richmondban, amely különféle előadásokat kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        -123.147132,
-                        49.167336
-                  ]
-            },
-            {
                   "name": "McDonald Beach Park",
                   "text": "A McDonald Beach Park egy park Richmondban a Fraser folyó partján.",
                   "category": "park",
@@ -15937,39 +15820,12 @@ export const canadaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Minoru Park",
-                  "text": "A Minoru Park egy nagy park Richmondban sportpályákkal és egy tóval.",
-                  "category": "park",
-                  "coords": [
-                        -123.144472,
-                        49.165696
-                  ]
-            },
-            {
                   "name": "Pacific Museum of Earth",
                   "text": "A Pacific Museum of Earth az UBC-n földtudományi kiállításokat mutat be.",
                   "category": "museum",
                   "coords": [
                         -123.252342,
                         49.262451
-                  ]
-            },
-            {
-                  "name": "Richmond Olympic Experience",
-                  "text": "A Richmond Olympic Experience egy múzeum, amely a 2010-es téli olimpiát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -123.151333,
-                        49.174408
-                  ]
-            },
-            {
-                  "name": "Xinde Antique Gallery",
-                  "text": "A Xinde Antique Gallery egy antikvitásgaléria Richmondban.",
-                  "category": "museum",
-                  "coords": [
-                        -123.136162,
-                        49.169584
                   ]
             },
             {
@@ -16110,48 +15966,12 @@ export const canadaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Oak Street Bridge",
-                  "text": "Podul Oak Street leagă Vancouver de Richmond peste râul Fraser.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.123967,
-                        49.198019
-                  ]
-            },
-            {
                   "name": "North Arm Bridge",
                   "text": "Podul North Arm este un pod SkyTrain, cunoscut și sub numele de Canada Line Bridge.",
                   "category": "landmark",
                   "coords": [
                         -123.117896,
                         49.202441
-                  ]
-            },
-            {
-                  "name": "Dinsmore Bridge",
-                  "text": "Podul Dinsmore este un pod mic în Richmond.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.148531,
-                        49.178549
-                  ]
-            },
-            {
-                  "name": "Moray Channel Bridge",
-                  "text": "Podul Canalului Moray traversează Canalul Moray în Richmond.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.136751,
-                        49.191781
-                  ]
-            },
-            {
-                  "name": "Number Two Road Bridge",
-                  "text": "Podul Number Two Road este un pod în Richmond pe Drumul Nr. 2.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.157059,
-                        49.175684
                   ]
             },
             {
@@ -16236,15 +16056,6 @@ export const canadaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Gateway Theatre",
-                  "text": "Gateway Theatre este un teatru în Richmond care găzduiește diverse spectacole.",
-                  "category": "cultural",
-                  "coords": [
-                        -123.147132,
-                        49.167336
-                  ]
-            },
-            {
                   "name": "McDonald Beach Park",
                   "text": "Parcul McDonald Beach este un parc în Richmond, pe malul râului Fraser.",
                   "category": "park",
@@ -16263,39 +16074,12 @@ export const canadaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Minoru Park",
-                  "text": "Parcul Minoru este un parc mare în Richmond, cu terenuri de sport și un lac.",
-                  "category": "park",
-                  "coords": [
-                        -123.144472,
-                        49.165696
-                  ]
-            },
-            {
                   "name": "Pacific Museum of Earth",
                   "text": "Muzeul Pacific al Pământului de la UBC prezintă exponate de științe ale pământului.",
                   "category": "museum",
                   "coords": [
                         -123.252342,
                         49.262451
-                  ]
-            },
-            {
-                  "name": "Richmond Olympic Experience",
-                  "text": "Richmond Olympic Experience este un muzeu dedicat Jocurilor Olimpice de iarnă din 2010.",
-                  "category": "museum",
-                  "coords": [
-                        -123.151333,
-                        49.174408
-                  ]
-            },
-            {
-                  "name": "Xinde Antique Gallery",
-                  "text": "Xinde Antique Gallery este o galerie de antichități în Richmond.",
-                  "category": "museum",
-                  "coords": [
-                        -123.136162,
-                        49.169584
                   ]
             },
             {
@@ -16436,48 +16220,12 @@ export const canadaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Oak Street Bridge",
-                  "text": "The Oak Street Bridge connects Vancouver to Richmond across the Fraser River.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.123967,
-                        49.198019
-                  ]
-            },
-            {
                   "name": "North Arm Bridge",
                   "text": "The North Arm Bridge is a SkyTrain bridge, also known as the Canada Line Bridge.",
                   "category": "landmark",
                   "coords": [
                         -123.117896,
                         49.202441
-                  ]
-            },
-            {
-                  "name": "Dinsmore Bridge",
-                  "text": "The Dinsmore Bridge is a small bridge in Richmond.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.148531,
-                        49.178549
-                  ]
-            },
-            {
-                  "name": "Moray Channel Bridge",
-                  "text": "The Moray Channel Bridge spans the Moray Channel in Richmond.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.136751,
-                        49.191781
-                  ]
-            },
-            {
-                  "name": "Number Two Road Bridge",
-                  "text": "The Number Two Road Bridge is a bridge in Richmond on No. 2 Road.",
-                  "category": "landmark",
-                  "coords": [
-                        -123.157059,
-                        49.175684
                   ]
             },
             {
@@ -16562,15 +16310,6 @@ export const canadaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Gateway Theatre",
-                  "text": "Gateway Theatre is a theatre in Richmond hosting various performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -123.147132,
-                        49.167336
-                  ]
-            },
-            {
                   "name": "McDonald Beach Park",
                   "text": "McDonald Beach Park is a park in Richmond along the Fraser River.",
                   "category": "park",
@@ -16589,39 +16328,12 @@ export const canadaAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Minoru Park",
-                  "text": "Minoru Park is a large park in Richmond with sports fields and a lake.",
-                  "category": "park",
-                  "coords": [
-                        -123.144472,
-                        49.165696
-                  ]
-            },
-            {
                   "name": "Pacific Museum of Earth",
                   "text": "The Pacific Museum of Earth at UBC exhibits earth science specimens.",
                   "category": "museum",
                   "coords": [
                         -123.252342,
                         49.262451
-                  ]
-            },
-            {
-                  "name": "Richmond Olympic Experience",
-                  "text": "The Richmond Olympic Experience is a museum about the 2010 Winter Olympics.",
-                  "category": "museum",
-                  "coords": [
-                        -123.151333,
-                        49.174408
-                  ]
-            },
-            {
-                  "name": "Xinde Antique Gallery",
-                  "text": "Xinde Antique Gallery is an antique gallery in Richmond.",
-                  "category": "museum",
-                  "coords": [
-                        -123.136162,
-                        49.169584
                   ]
             },
             {

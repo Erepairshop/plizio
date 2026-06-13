@@ -1074,15 +1074,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
     id: "al-hidd-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "The Grove Beach",
-                  "text": "Ein Küsten-Strandresort mit Sandstränden und Freizeiteinrichtungen direkt am Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        50.670014,
-                        26.277593
-                  ]
-            },
-            {
                   "name": "Majid Al Hidd",
                   "text": "Eine lokale islamische Kultstätte, die sich durch ihr traditionelles architektonisches Layout im Küstenviertel auszeichnet.",
                   "category": "landmark",
@@ -1138,15 +1129,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "The Grove Beach",
-                  "text": "Tengerparti üdülőhely homokos partokkal és rekreációs létesítményekkel a víz mentén.",
-                  "category": "recreational",
-                  "coords": [
-                        50.670014,
-                        26.277593
-                  ]
-            },
             {
                   "name": "Majid Al Hidd",
                   "text": "Helyi iszlám istentiszteleti hely, amelyet a tengerparti negyedben található hagyományos építészeti elrendezése jellemez.",
@@ -1204,15 +1186,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "The Grove Beach",
-                  "text": "O stațiune balneară de coastă, cu plaje cu nisip și facilități de recreere de-a lungul mării.",
-                  "category": "recreational",
-                  "coords": [
-                        50.670014,
-                        26.277593
-                  ]
-            },
-            {
                   "name": "Majid Al Hidd",
                   "text": "Un lăcaș de cult islamic local, caracterizat de planul său arhitectural tradițional din cartierul de coastă.",
                   "category": "landmark",
@@ -1268,15 +1241,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "The Grove Beach",
-                  "text": "A coastal beach resort featuring sandy shores and recreational facilities along the sea.",
-                  "category": "recreational",
-                  "coords": [
-                        50.670014,
-                        26.277593
-                  ]
-            },
             {
                   "name": "Majid Al Hidd",
                   "text": "A local Islamic place of worship characterized by its traditional architectural layout in the coastal district.",
@@ -1559,15 +1523,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saar Archeological Site",
-                  "text": "Die Saar Archeological Site enthält historisch bedeutsame Ruinen in saar-park-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        50.481888,
-                        26.181022
-                  ]
-            },
-            {
                   "name": "Saar Burial Field",
                   "text": "Die Saar Burial Mounds sind eine alte archäologische Stätte in saar-park-life-v2.",
                   "category": "historical",
@@ -1585,15 +1540,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
                   "coords": [
                         50.489948,
                         26.184
-                  ]
-            },
-            {
-                  "name": "Saar Archeological Site",
-                  "text": "A Saar Archeological Site történelmi jelentőségű romokat rejt saar-park-life-v2 városában.",
-                  "category": "historical",
-                  "coords": [
-                        50.481888,
-                        26.181022
                   ]
             },
             {
@@ -1617,15 +1563,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saar Archeological Site",
-                  "text": "Saar Archeological Site conține ruine cu importanță istorică în saar-park-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        50.481888,
-                        26.181022
-                  ]
-            },
-            {
                   "name": "Saar Burial Field",
                   "text": "Saar Burial Mounds reprezintă un sit arheologic antic situat în saar-park-life-v2.",
                   "category": "historical",
@@ -1643,15 +1580,6 @@ export const poiExtraBahrainLifeV2: POI[] = [
                   "coords": [
                         50.489948,
                         26.184
-                  ]
-            },
-            {
-                  "name": "Saar Archeological Site",
-                  "text": "The Saar Archeological Site contains historically significant ruins in saar-park-life-v2.",
-                  "category": "historical",
-                  "coords": [
-                        50.481888,
-                        26.181022
                   ]
             },
             {

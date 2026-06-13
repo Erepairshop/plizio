@@ -1770,15 +1770,6 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kulob Republican Local Lore Museum",
-                  "text": "Ein Museum in Kulob, das die regionale Geschichte, Kultur und Naturkunde präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        69.774618,
-                        37.909806
-                  ]
-            },
-            {
                   "name": "Khona muzeii Saidali Valizoda",
                   "text": "Ein Gedenkmuseum in Kulob, das dem tadschikischen Dichter Sajidali Walisoda gewidmet ist.",
                   "category": "museum",
@@ -1850,15 +1841,6 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
                   "coords": [
                         69.77454,
                         37.911104
-                  ]
-            },
-            {
-                  "name": "Kulob Republican Local Lore Museum",
-                  "text": "Kulobi múzeum, amely a régió történelmét, kultúráját és természetrajzát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        69.774618,
-                        37.909806
                   ]
             },
             {
@@ -1936,15 +1918,6 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kulob Republican Local Lore Museum",
-                  "text": "Un muzeu în Kulob care prezintă istoria, cultura și istoria naturală a regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        69.774618,
-                        37.909806
-                  ]
-            },
-            {
                   "name": "Khona muzeii Saidali Valizoda",
                   "text": "Un muzeu memorial în Kulob dedicat poetului tadjic Sayidali Valizoda.",
                   "category": "museum",
@@ -2016,15 +1989,6 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
                   "coords": [
                         69.77454,
                         37.911104
-                  ]
-            },
-            {
-                  "name": "Kulob Republican Local Lore Museum",
-                  "text": "A museum in Kulob showcasing regional history, culture, and natural history.",
-                  "category": "museum",
-                  "coords": [
-                        69.774618,
-                        37.909806
                   ]
             },
             {
@@ -3078,33 +3042,6 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tsitadel",
-                  "text": "Die historische Zitadelle innerhalb der antiken Siedlungsanlage von Pandschakent.",
-                  "category": "landmark",
-                  "coords": [
-                        67.616727,
-                        39.487993
-                  ]
-            },
-            {
-                  "name": "monument «Firdausi»",
-                  "text": "Ein Denkmal in Pandschakent zu Ehren des persischen Dichters Firdavsi.",
-                  "category": "historical",
-                  "coords": [
-                        67.631258,
-                        39.494372
-                  ]
-            },
-            {
-                  "name": "Path to Archeological Site",
-                  "text": "Ein Aussichtspunkt, der einen Überblick über die archäologische Ausgrabungsstätte bietet.",
-                  "category": "natural",
-                  "coords": [
-                        67.617124,
-                        39.489273
-                  ]
-            },
-            {
                   "name": "Sogdian Rock",
                   "text": "Ein historisch bedeutsamer Ort, der mit der antiken Geschichte der Region Sogdien verbunden ist.",
                   "category": "natural",
@@ -3176,33 +3113,6 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
                   "coords": [
                         67.601032,
                         39.484476
-                  ]
-            },
-            {
-                  "name": "Tsitadel",
-                  "text": "Történelmi citadella az ősi Pandschakent településén belül.",
-                  "category": "landmark",
-                  "coords": [
-                        67.616727,
-                        39.487993
-                  ]
-            },
-            {
-                  "name": "monument «Firdausi»",
-                  "text": "Emlékmű Pandschakentben Firdavszí perzsa költő tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        67.631258,
-                        39.494372
-                  ]
-            },
-            {
-                  "name": "Path to Archeological Site",
-                  "text": "Kilátópont, ahonnan áttekinthető a régészeti lelőhely.",
-                  "category": "natural",
-                  "coords": [
-                        67.617124,
-                        39.489273
                   ]
             },
             {
@@ -3280,33 +3190,6 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tsitadel",
-                  "text": "Citadela istorică din cadrul vechiului sit de așezare din Pandschakent.",
-                  "category": "landmark",
-                  "coords": [
-                        67.616727,
-                        39.487993
-                  ]
-            },
-            {
-                  "name": "monument «Firdausi»",
-                  "text": "Un monument în Pandschakent în onoarea poetului persan Firdavsi.",
-                  "category": "historical",
-                  "coords": [
-                        67.631258,
-                        39.494372
-                  ]
-            },
-            {
-                  "name": "Path to Archeological Site",
-                  "text": "Un punct de observație care oferă o vedere de ansamblu asupra sitului arheologic.",
-                  "category": "natural",
-                  "coords": [
-                        67.617124,
-                        39.489273
-                  ]
-            },
-            {
                   "name": "Sogdian Rock",
                   "text": "Un loc cu semnificație istorică, legat de istoria antică a regiunii Sogdiana.",
                   "category": "natural",
@@ -3378,33 +3261,6 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
                   "coords": [
                         67.601032,
                         39.484476
-                  ]
-            },
-            {
-                  "name": "Citadel",
-                  "text": "The historic citadel within the ancient settlement site of Panjakent.",
-                  "category": "landmark",
-                  "coords": [
-                        67.616727,
-                        39.487993
-                  ]
-            },
-            {
-                  "name": "monument of “Firdavsi”",
-                  "text": "A monument in Panjakent honoring the Persian poet Firdavsi.",
-                  "category": "historical",
-                  "coords": [
-                        67.631258,
-                        39.494372
-                  ]
-            },
-            {
-                  "name": "Path to Archeological Site",
-                  "text": "A viewpoint offering an overview of the archaeological excavation site.",
-                  "category": "natural",
-                  "coords": [
-                        67.617124,
-                        39.489273
                   ]
             },
             {
@@ -4427,24 +4283,6 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ul. Gastello",
-                  "text": "Diese Straße in Buston ist dem sowjetischen Kriegshelden und Piloten Nikolai Gastello gewidmet.",
-                  "category": "landmark",
-                  "coords": [
-                        69.727283,
-                        40.215043
-                  ]
-            },
-            {
-                  "name": "Muzei B. Gafurova",
-                  "text": "Ein Museum zu Ehren von Bobodschon Gafurow, dem bedeutenden tadschikischen Historiker und Staatsmann.",
-                  "category": "museum",
-                  "coords": [
-                        69.737932,
-                        40.226487
-                  ]
-            },
-            {
                   "name": "Mechet'",
                   "text": "Eine lokale Moschee in Buston mit einem traditionellen Minarett für das tägliche Gebet der Gemeinde.",
                   "category": "landmark",
@@ -4552,24 +4390,6 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
                   "coords": [
                         69.725126,
                         40.214086
-                  ]
-            },
-            {
-                  "name": "Ul. Gastello",
-                  "text": "Ezt a bustoni utcát Nyikolaj Gasztello szovjet háborús hősnek és pilótának szentelték.",
-                  "category": "landmark",
-                  "coords": [
-                        69.727283,
-                        40.215043
-                  ]
-            },
-            {
-                  "name": "Muzei B. Gafurova",
-                  "text": "Bobodzson Gafurov, a neves tadzsik történész és államférfi tiszteletére alapított múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        69.737932,
-                        40.226487
                   ]
             },
             {
@@ -4683,24 +4503,6 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ul. Gastello",
-                  "text": "Această stradă din Buston este dedicată eroului de război și pilotului sovietic Nikolai Gastello.",
-                  "category": "landmark",
-                  "coords": [
-                        69.727283,
-                        40.215043
-                  ]
-            },
-            {
-                  "name": "Muzei B. Gafurova",
-                  "text": "Un muzeu în onoarea lui Bobojon Gafurov, proeminentul istoric și om de stat tadjic.",
-                  "category": "museum",
-                  "coords": [
-                        69.737932,
-                        40.226487
-                  ]
-            },
-            {
                   "name": "Mechet'",
                   "text": "O moschee locală în Buston, cu un minaret tradițional pentru rugăciunile zilnice ale comunității.",
                   "category": "landmark",
@@ -4808,24 +4610,6 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
                   "coords": [
                         69.725126,
                         40.214086
-                  ]
-            },
-            {
-                  "name": "Ul. Gastello",
-                  "text": "This street in Buston is dedicated to the Soviet war hero and pilot Nikolai Gastello.",
-                  "category": "landmark",
-                  "coords": [
-                        69.727283,
-                        40.215043
-                  ]
-            },
-            {
-                  "name": "Muzei B. Gafurova",
-                  "text": "A museum in honor of Bobojon Gafurov, the prominent Tajik historian and statesman.",
-                  "category": "museum",
-                  "coords": [
-                        69.737932,
-                        40.226487
                   ]
             },
             {
@@ -4999,15 +4783,6 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sukhoi most",
-                  "text": "Eine historische Trockensteinbrücke in Ghafurov, die nicht mehr über Wasser führt.",
-                  "category": "historical",
-                  "coords": [
-                        69.699776,
-                        40.227731
-                  ]
-            },
-            {
                   "name": "Ul. Gastello",
                   "text": "Eine Straße in Ghafurow, die nach dem Flieger Nikolai Gastello benannt ist.",
                   "category": "landmark",
@@ -5043,15 +4818,6 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
                   "coords": [
                         69.725126,
                         40.214086
-                  ]
-            },
-            {
-                  "name": "Sukhoi most",
-                  "text": "Egy történelmi száraz kőhíd Ghafurovban, amely már nem víz fölött ível át.",
-                  "category": "historical",
-                  "coords": [
-                        69.699776,
-                        40.227731
                   ]
             },
             {
@@ -5093,15 +4859,6 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sukhoi most",
-                  "text": "Un pod istoric din piatră uscată în Ghafurov, care nu mai traversează apă.",
-                  "category": "historical",
-                  "coords": [
-                        69.699776,
-                        40.227731
-                  ]
-            },
-            {
                   "name": "Ul. Gastello",
                   "text": "O stradă din Ghafurow numită după aviatorul Nikolai Gastello.",
                   "category": "landmark",
@@ -5137,15 +4894,6 @@ export const poiExtraTajikistanCitiesV2: POI[] = [
                   "coords": [
                         69.725126,
                         40.214086
-                  ]
-            },
-            {
-                  "name": "Sukhoi most",
-                  "text": "A historical dry stone bridge in Ghafurov, no longer spanning water.",
-                  "category": "historical",
-                  "coords": [
-                        69.699776,
-                        40.227731
                   ]
             },
             {

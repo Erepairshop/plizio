@@ -24,42 +24,6 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tatraspitze",
-                  "text": "Ein markanter Berggipfel im slowakischen Teil der Hohen Tatra.",
-                  "category": "landmark",
-                  "coords": [
-                        20.093512,
-                        49.173174
-                  ]
-            },
-            {
-                  "name": "Mengusovský Volovec",
-                  "text": "Ein Gipfel in der Hohen Tatra, der über Wanderwege von Morskie Oko aus erreichbar ist.",
-                  "category": "landmark",
-                  "coords": [
-                        20.067536,
-                        49.175943
-                  ]
-            },
-            {
-                  "name": "Kopki",
-                  "text": "Ein Berggipfel in der Hohen Tatra, bekannt für seine Aussicht über das Mengsdorfer Tal.",
-                  "category": "landmark",
-                  "coords": [
-                        20.083889,
-                        49.167778
-                  ]
-            },
-            {
-                  "name": "Gánok",
-                  "text": "Ein schroffer Gipfel in der Hohen Tatra, der bei erfahrenen Bergsteigern beliebt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        20.103992,
-                        49.174256
-                  ]
-            },
-            {
                   "name": "Östliche Mengsdorfer Spitze",
                   "text": "Einer der Gipfel der Mięguszowiecki-Gruppe in der Hohen Tatra an der polnisch-slowakischen Grenze.",
                   "category": "landmark",
@@ -95,42 +59,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         20.048246,
                         49.182374
-                  ]
-            },
-            {
-                  "name": "Tátra-csúcs",
-                  "text": "Jellegzetes hegycsúcs a Magas-Tátra szlovákiai részén.",
-                  "category": "landmark",
-                  "coords": [
-                        20.093512,
-                        49.173174
-                  ]
-            },
-            {
-                  "name": "Olga-csúcs",
-                  "text": "A Magas-Tátra egyik csúcsa, amely a Halas-tó (Morskie Oko) felőli túraútvonalakon érhető el.",
-                  "category": "landmark",
-                  "coords": [
-                        20.067536,
-                        49.175943
-                  ]
-            },
-            {
-                  "name": "Kopki",
-                  "text": "Hegycsúcs a Magas-Tátrában, amely a Menguszfalvi-völgy feletti kilátásáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        20.083889,
-                        49.167778
-                  ]
-            },
-            {
-                  "name": "Ganek",
-                  "text": "Szigligeti hegycsúcs a Magas-Tátrában, amely a tapasztalt hegymászók körében népszerű.",
-                  "category": "landmark",
-                  "coords": [
-                        20.103992,
-                        49.174256
                   ]
             },
             {
@@ -172,42 +100,6 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vysoká",
-                  "text": "Un vârf muntos distinct din partea slovacă a munților Tatra Mare.",
-                  "category": "landmark",
-                  "coords": [
-                        20.093512,
-                        49.173174
-                  ]
-            },
-            {
-                  "name": "Mengusovský Volovec",
-                  "text": "Un vârf din lanțul muntos Tatra Mare, accesibil prin trasee de drumeție de la Morskie Oko.",
-                  "category": "landmark",
-                  "coords": [
-                        20.067536,
-                        49.175943
-                  ]
-            },
-            {
-                  "name": "Kôpky",
-                  "text": "Un vârf muntos din Tatra Mare, cunoscut pentru vederile sale pitorești deasupra văii Mengusovská.",
-                  "category": "landmark",
-                  "coords": [
-                        20.083889,
-                        49.167778
-                  ]
-            },
-            {
-                  "name": "Gánok",
-                  "text": "Un vârf accidentat din Tatra Mare, popular în rândul alpiniștilor experimentați.",
-                  "category": "landmark",
-                  "coords": [
-                        20.103992,
-                        49.174256
-                  ]
-            },
-            {
                   "name": "Mięguszowiecki Szczyt Czarny / Východný Mengusovský štít",
                   "text": "Unul dintre vârfurile grupului Mięguszowiecki din Tatra Mare, la granița polono-slovacă.",
                   "category": "landmark",
@@ -243,42 +135,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         20.048246,
                         49.182374
-                  ]
-            },
-            {
-                  "name": "Vysoká",
-                  "text": "A distinct mountain peak in the Slovakian part of the High Tatras.",
-                  "category": "landmark",
-                  "coords": [
-                        20.093512,
-                        49.173174
-                  ]
-            },
-            {
-                  "name": "Mengusovský Volovec",
-                  "text": "A peak in the High Tatras mountain range, accessible via hiking trails from Morskie Oko.",
-                  "category": "landmark",
-                  "coords": [
-                        20.067536,
-                        49.175943
-                  ]
-            },
-            {
-                  "name": "Kôpky",
-                  "text": "A mountain peak in the High Tatras, known for its scenic views above the Mengusovská valley.",
-                  "category": "landmark",
-                  "coords": [
-                        20.083889,
-                        49.167778
-                  ]
-            },
-            {
-                  "name": "Gánok",
-                  "text": "A rugged peak in the High Tatras, popular among experienced mountaineers.",
-                  "category": "landmark",
-                  "coords": [
-                        20.103992,
-                        49.174256
                   ]
             },
             {
@@ -348,24 +204,6 @@ export const polandNatureV2: POI[] = [
     id: "poland-rysy-peak-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Fichtentalspitze",
-                  "text": "Ein Gipfel in der Hohen Tatra, der an der Grenze zwischen Polen und der Slowakei liegt.",
-                  "category": "landmark",
-                  "coords": [
-                        20.053681,
-                        49.187801
-                  ]
-            },
-            {
-                  "name": "Koprovaspitze",
-                  "text": "Ein prominenter Berggipfel in der slowakischen Tatra mit herrlicher Rundumsicht.",
-                  "category": "landmark",
-                  "coords": [
-                        20.048246,
-                        49.182374
-                  ]
-            },
-            {
                   "name": "Litvorový štít",
                   "text": "Ein Gipfel in der Hohen Tatra, der Teil der beeindruckenden Berglandschaft ist.",
                   "category": "landmark",
@@ -421,24 +259,6 @@ export const polandNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Csubrina",
-                  "text": "Hegycúcs a Magas-Tátrában, amely a lengyel-szlovák határon található.",
-                  "category": "landmark",
-                  "coords": [
-                        20.053681,
-                        49.187801
-                  ]
-            },
-            {
-                  "name": "Kapor-csúcs",
-                  "text": "Kiemelkedő hegycsúcs a szlovák Tátrában, csodálatos körpanorámával.",
-                  "category": "landmark",
-                  "coords": [
-                        20.048246,
-                        49.182374
-                  ]
-            },
             {
                   "name": "Litvorovy-csúcs",
                   "text": "Hegycúcs a Magas-Tátrában, amely a lenyűgöző hegyi táj része.",
@@ -496,24 +316,6 @@ export const polandNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Cubryna / Čubrina",
-                  "text": "Un vârf din Tatra Înaltă, situat la granița dintre Polonia și Slovacia.",
-                  "category": "landmark",
-                  "coords": [
-                        20.053681,
-                        49.187801
-                  ]
-            },
-            {
-                  "name": "Kôprovský štít",
-                  "text": "Un vârf montan proeminent din Tatra slovacă, cu o vedere panoramică superbă.",
-                  "category": "landmark",
-                  "coords": [
-                        20.048246,
-                        49.182374
-                  ]
-            },
-            {
                   "name": "Litvorový štít",
                   "text": "Un vârf din Tatra Înaltă, făcând parte din peisajul montan impresionant.",
                   "category": "landmark",
@@ -569,24 +371,6 @@ export const polandNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Cubryna / Čubrina",
-                  "text": "A peak in the High Tatras located on the border between Poland and Slovakia.",
-                  "category": "landmark",
-                  "coords": [
-                        20.053681,
-                        49.187801
-                  ]
-            },
-            {
-                  "name": "Kôprovský štít",
-                  "text": "A prominent mountain peak in the Slovak Tatras with a magnificent panoramic view.",
-                  "category": "landmark",
-                  "coords": [
-                        20.048246,
-                        49.182374
-                  ]
-            },
             {
                   "name": "Litvorový štít",
                   "text": "A peak in the High Tatras, forming part of the impressive mountain landscape.",
@@ -735,15 +519,6 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jagiełło-Eiche",
-                  "text": "Eine berühmte historische Eiche im Białowieża-Urwald, benannt nach König Jagiełło.",
-                  "category": "landmark",
-                  "coords": [
-                        23.8294,
-                        52.721995
-                  ]
-            },
-            {
                   "name": "Zrekonstuowany Peron \"Białowieża Pałac\"",
                   "text": "Ein rekonstruierter Bahnsteig der ehemaligen Haltestelle am Palast von Białowieża.",
                   "category": "landmark",
@@ -797,15 +572,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         23.847264,
                         52.703488
-                  ]
-            },
-            {
-                  "name": "Dąb Jagiełły",
-                  "text": "Híres történelmi tölgyfa a Białowieża-erdőben, Jagelló királyról elnevezve.",
-                  "category": "landmark",
-                  "coords": [
-                        23.8294,
-                        52.721995
                   ]
             },
             {
@@ -865,15 +631,6 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dąb Jagiełły",
-                  "text": "Un stejar istoric faimos din Pădurea Białowieża, numit după regele Jagiello.",
-                  "category": "landmark",
-                  "coords": [
-                        23.8294,
-                        52.721995
-                  ]
-            },
-            {
                   "name": "Zrekonstuowany Peron \"Białowieża Pałac\"",
                   "text": "Peronul reconstruit al fostei stații de cale ferată de la palatul din Białowieża.",
                   "category": "landmark",
@@ -927,15 +684,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         23.847264,
                         52.703488
-                  ]
-            },
-            {
-                  "name": "The King Jogaila Oak",
-                  "text": "A famous historic oak tree in the Białowieża Forest named after King Jagiello.",
-                  "category": "landmark",
-                  "coords": [
-                        23.8294,
-                        52.721995
                   ]
             },
             {
@@ -1446,33 +1194,6 @@ export const polandNatureV2: POI[] = [
     id: "poland-dunajec-gorge-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Pieninen-Burg",
-                  "text": "Ruinen einer Burg aus dem 13. Jahrhundert in den Pieninen.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Rotes Kloster",
-                  "text": "Ein historisches Kartäuserkloster im Durchbruchstal des Dunajec.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
-                  "name": "Pawilon Wejściowy w Szczawnicy",
-                  "text": "Ein Museum im Dunajec-Durchbruchstal, das Informationen für Besucher bereitstellt.",
-                  "category": "museum",
-                  "coords": [
-                        20.4563,
-                        49.418465
-                  ]
-            },
-            {
                   "name": "Drei Kronen",
                   "text": "Der höchste Gipfel der Pieninen mit Panoramablick auf das Dunajec-Tal.",
                   "category": "natural",
@@ -1516,54 +1237,9 @@ export const polandNatureV2: POI[] = [
                         20.476806,
                         49.418694
                   ]
-            },
-            {
-                  "name": "Ninja Park",
-                  "text": "Ein Abenteuerpark in der Nähe des Dunajec-Durchbruchs.",
-                  "category": "recreational",
-                  "coords": [
-                        20.415994,
-                        49.440811
-                  ]
-            },
-            {
-                  "name": "ABlandia",
-                  "text": "Ein familienfreundlicher Freizeitpark in der Nähe der malerischen Dunajec-Schlucht.",
-                  "category": "recreational",
-                  "coords": [
-                        20.414995,
-                        49.440683
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Zamek Pieniński",
-                  "text": "Egy 13. századi vár romjai a Pieninekben.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Vöröskolostor",
-                  "text": "Történelmi karthauzi kolostor a Dunajec-áttörésnél.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
-                  "name": "Pawilon Wejściowy w Szczawnicy",
-                  "text": "A látogatók számára információkat nyújtó múzeum a Dunajec-áttörésnél.",
-                  "category": "museum",
-                  "coords": [
-                        20.4563,
-                        49.418465
-                  ]
-            },
             {
                   "name": "Koronahegy",
                   "text": "A Pieninek legmagasabb csúcsa, ahonnan panorámás kilátás nyílik a Dunajec völgyére.",
@@ -1608,54 +1284,9 @@ export const polandNatureV2: POI[] = [
                         20.476806,
                         49.418694
                   ]
-            },
-            {
-                  "name": "Ninja Park",
-                  "text": "Kalandpark a Dunajec-áttörés közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        20.415994,
-                        49.440811
-                  ]
-            },
-            {
-                  "name": "ABlandia",
-                  "text": "Családbarát vidámpark a látványos Dunajec-áttörés közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        20.414995,
-                        49.440683
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Zamek Pieniński",
-                  "text": "Ruinele unui castel din secolul al XIII-lea situat în Munții Pieniny.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Červený kláštor",
-                  "text": "O mănăstire cartusiană istorică situată în Defileul Dunajec.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
-                  "name": "Pawilon Wejściowy w Szczawnicy",
-                  "text": "Un muzeu în Defileul Dunajec care oferă informații pentru vizitatori.",
-                  "category": "museum",
-                  "coords": [
-                        20.4563,
-                        49.418465
-                  ]
-            },
             {
                   "name": "Trzy Korony (Okrąglica)",
                   "text": "Cel mai înalt vârf din Munții Pieniny, oferind vederi panoramice asupra văii Dunajec.",
@@ -1700,54 +1331,9 @@ export const polandNatureV2: POI[] = [
                         20.476806,
                         49.418694
                   ]
-            },
-            {
-                  "name": "Ninja Park",
-                  "text": "Un parc de aventură situat în apropierea Cheilor Dunajecului.",
-                  "category": "recreational",
-                  "coords": [
-                        20.415994,
-                        49.440811
-                  ]
-            },
-            {
-                  "name": "ABlandia",
-                  "text": "Un parc de distracții pentru familii situat lângă pitorescul defileu al râului Dunajec.",
-                  "category": "recreational",
-                  "coords": [
-                        20.414995,
-                        49.440683
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Pieniny Castle",
-                  "text": "Ruins of a 13th-century castle located in the Pieniny Mountains.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Červený kláštor",
-                  "text": "A historic Carthusian monastery located in the Dunajec River Gorge.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
-                  "name": "Pawilon Wejściowy w Szczawnicy",
-                  "text": "A museum in the Dunajec River Gorge providing information for visitors.",
-                  "category": "museum",
-                  "coords": [
-                        20.4563,
-                        49.418465
-                  ]
-            },
             {
                   "name": "Three Crowns",
                   "text": "The highest peak of the Pieniny Mountains, offering panoramic views over the Dunajec valley.",
@@ -1791,24 +1377,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         20.476806,
                         49.418694
-                  ]
-            },
-            {
-                  "name": "Ninja Park",
-                  "text": "An adventure park located near the Dunajec River Gorge.",
-                  "category": "recreational",
-                  "coords": [
-                        20.415994,
-                        49.440811
-                  ]
-            },
-            {
-                  "name": "ABlandia",
-                  "text": "A family-friendly theme park located near the scenic Dunajec River Gorge.",
-                  "category": "recreational",
-                  "coords": [
-                        20.414995,
-                        49.440683
                   ]
             }
       ]
@@ -2112,15 +1680,6 @@ export const polandNatureV2: POI[] = [
     id: "poland-babia-gora-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Skansen im. Józefa Żaka",
-                  "text": "Ein Freilichtmuseum in Zawoja, das die traditionelle Bauweise der Region Babia Góra zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        19.514965,
-                        49.607117
-                  ]
-            },
-            {
                   "name": "Weiberberg",
                   "text": "Der höchste Gipfel der Beskiden an der Grenze zwischen Polen und der Slowakei.",
                   "category": "landmark",
@@ -2136,24 +1695,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         19.540206,
                         49.575128
-                  ]
-            },
-            {
-                  "name": "Sokolica",
-                  "text": "Ein markanter Felsgipfel im Nationalpark Babia Góra.",
-                  "category": "landmark",
-                  "coords": [
-                        19.563321,
-                        49.584573
-                  ]
-            },
-            {
-                  "name": "Kępa",
-                  "text": "Die Kępa ist ein Berggipfel in den Żywiecer Beskiden.",
-                  "category": "landmark",
-                  "coords": [
-                        19.556816,
-                        49.579968
                   ]
             },
             {
@@ -2186,15 +1727,6 @@ export const polandNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Skansen im. Józefa Żaka",
-                  "text": "Szabadtéri múzeum Zawojában, amely a Babia Góra régió hagyományos építészetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        19.514965,
-                        49.607117
-                  ]
-            },
-            {
                   "name": "Babia Góra / Babia hora",
                   "text": "A Beszkidek legmagasabb csúcsa a lengyel-szlovák határon.",
                   "category": "landmark",
@@ -2210,24 +1742,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         19.540206,
                         49.575128
-                  ]
-            },
-            {
-                  "name": "Sokolica",
-                  "text": "Jellegzetes sziklás csúcs a Babia Góra Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        19.563321,
-                        49.584573
-                  ]
-            },
-            {
-                  "name": "Kępa",
-                  "text": "A Kępa egy hegycsúcs a Żywieci-Beszkidekben.",
-                  "category": "landmark",
-                  "coords": [
-                        19.556816,
-                        49.579968
                   ]
             },
             {
@@ -2260,15 +1774,6 @@ export const polandNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Skansen im. Józefa Żaka",
-                  "text": "Un muzeu în aer liber din Zawoja care prezintă arhitectura tradițională a regiunii Babia Góra.",
-                  "category": "museum",
-                  "coords": [
-                        19.514965,
-                        49.607117
-                  ]
-            },
-            {
                   "name": "Babia Góra / Babia hora",
                   "text": "Cel mai înalt vârf din Beskizi, situat la granița dintre Polonia și Slovacia.",
                   "category": "landmark",
@@ -2284,24 +1789,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         19.540206,
                         49.575128
-                  ]
-            },
-            {
-                  "name": "Sokolica",
-                  "text": "Un vârf stâncos proeminent în Parcul Național Babia Góra.",
-                  "category": "landmark",
-                  "coords": [
-                        19.563321,
-                        49.584573
-                  ]
-            },
-            {
-                  "name": "Kępa",
-                  "text": "Kępa este un vârf montan în Beskizii Żywiecki.",
-                  "category": "landmark",
-                  "coords": [
-                        19.556816,
-                        49.579968
                   ]
             },
             {
@@ -2334,15 +1821,6 @@ export const polandNatureV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Skansen im. Józefa Żaka",
-                  "text": "An open-air museum in Zawoja showcasing the traditional architecture of the Babia Góra region.",
-                  "category": "museum",
-                  "coords": [
-                        19.514965,
-                        49.607117
-                  ]
-            },
-            {
                   "name": "Babia Góra / Babia hora",
                   "text": "The highest peak of the Beskids, located on the border between Poland and Slovakia.",
                   "category": "landmark",
@@ -2358,24 +1836,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         19.540206,
                         49.575128
-                  ]
-            },
-            {
-                  "name": "Sokolica",
-                  "text": "A prominent rocky peak in the Babia Góra National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        19.563321,
-                        49.584573
-                  ]
-            },
-            {
-                  "name": "Kępa",
-                  "text": "Kępa is a mountain peak in the Żywiec Beskids.",
-                  "category": "landmark",
-                  "coords": [
-                        19.556816,
-                        49.579968
                   ]
             },
             {
@@ -2454,30 +1914,12 @@ export const polandNatureV2: POI[] = [
     id: "poland-szczeliniec-wielki-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Łężyckie Skałki (Sawanna Afrykańska)",
-                  "text": "Einzigartige Felsformationen und Bergwiesen im Heuscheuergebirge.",
-                  "category": "natural",
-                  "coords": [
-                        16.333059,
-                        50.455839
-                  ]
-            },
-            {
                   "name": "Botanica - Ninja Water Park",
                   "text": "Botanica Ninja Wasserspielplatz, ein aufblasbarer Hindernisparcours auf dem See am Fuße des Szczeliniec Wielki.",
                   "category": "recreational",
                   "coords": [
                         16.370944,
                         50.502032
-                  ]
-            },
-            {
-                  "name": "Fort Karola",
-                  "text": "Überreste einer ehemaligen Befestigungsanlage in den Heuscheuergebirge.",
-                  "category": "historical",
-                  "coords": [
-                        16.347134,
-                        50.463762
                   ]
             },
             {
@@ -2508,15 +1950,6 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Eckstein",
-                  "text": "Der Narożnik ist ein Felsgipfel im Heuscheuergebirge (Góry Stołowe).",
-                  "category": "landmark",
-                  "coords": [
-                        16.347238,
-                        50.45984
-                  ]
-            },
-            {
                   "name": "Ochota Magdaleńska",
                   "text": "Ein Aussichtspunkt, der einen weiten Blick über die umliegenden Berge bietet.",
                   "category": "natural",
@@ -2528,30 +1961,12 @@ export const polandNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Łężyckie Skałki (Sawanna Afrykańska)",
-                  "text": "Egyedülálló sziklaalakzatok és hegyi rétek a Tábla-hegységben.",
-                  "category": "natural",
-                  "coords": [
-                        16.333059,
-                        50.455839
-                  ]
-            },
-            {
                   "name": "Botanica - Ninja Water Park",
                   "text": "Botanica Ninja Vízi Park, egy felfújható akadálypálya a Szczeliniec Wielki lábánál lévő tavon.",
                   "category": "recreational",
                   "coords": [
                         16.370944,
                         50.502032
-                  ]
-            },
-            {
-                  "name": "Fort Karola",
-                  "text": "Egy egykori erődítmény maradványai a Tábla-hegységben.",
-                  "category": "historical",
-                  "coords": [
-                        16.347134,
-                        50.463762
                   ]
             },
             {
@@ -2582,15 +1997,6 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Narożnik",
-                  "text": "A Narożnik egy sziklás csúcs a Góry Stołowe-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        16.347238,
-                        50.45984
-                  ]
-            },
-            {
                   "name": "Ochota Magdaleńska",
                   "text": "Kilátóhely, amely tágas kilátást nyújt a környező hegyekre.",
                   "category": "natural",
@@ -2602,30 +2008,12 @@ export const polandNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Łężyckie Skałki (Sawanna Afrykańska)",
-                  "text": "Formațiuni stâncoase unice și pajiști montane în Munții Stolowe.",
-                  "category": "natural",
-                  "coords": [
-                        16.333059,
-                        50.455839
-                  ]
-            },
-            {
                   "name": "Botanica - Ninja Water Park",
                   "text": "Botanica Ninja Water Park, un parc acvatic gonflabil cu obstacole pe lacul de la poalele vârfului Szczeliniec Wielki.",
                   "category": "recreational",
                   "coords": [
                         16.370944,
                         50.502032
-                  ]
-            },
-            {
-                  "name": "Fort Karola",
-                  "text": "Rămășițele unei foste fortificații în Munții Stolowe.",
-                  "category": "historical",
-                  "coords": [
-                        16.347134,
-                        50.463762
                   ]
             },
             {
@@ -2656,15 +2044,6 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Narożnik",
-                  "text": "Narożnik este un vârf stâncos în Munții Stołowe.",
-                  "category": "landmark",
-                  "coords": [
-                        16.347238,
-                        50.45984
-                  ]
-            },
-            {
                   "name": "Ochota Magdaleńska",
                   "text": "Un punct de observație care oferă o vedere largă asupra munților din jur.",
                   "category": "natural",
@@ -2676,30 +2055,12 @@ export const polandNatureV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Łężyckie Skałki (Sawanna Afrykańska)",
-                  "text": "Unique rock formations and mountain meadows in the Table Mountains.",
-                  "category": "natural",
-                  "coords": [
-                        16.333059,
-                        50.455839
-                  ]
-            },
-            {
                   "name": "Botanica - Ninja Water Park",
                   "text": "Botanica Ninja Water Park, an inflatable obstacle course on the lake at the foot of Szczeliniec Wielki.",
                   "category": "recreational",
                   "coords": [
                         16.370944,
                         50.502032
-                  ]
-            },
-            {
-                  "name": "Fort Karola",
-                  "text": "The remains of a former fortification in the Table Mountains.",
-                  "category": "historical",
-                  "coords": [
-                        16.347134,
-                        50.463762
                   ]
             },
             {
@@ -2727,15 +2088,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         16.321601,
                         50.472158
-                  ]
-            },
-            {
-                  "name": "Narożnik",
-                  "text": "Narożnik is a rocky peak in the Table Mountains (Góry Stołowe).",
-                  "category": "landmark",
-                  "coords": [
-                        16.347238,
-                        50.45984
                   ]
             },
             {
@@ -2805,66 +2157,12 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Silberkamm",
-                  "text": "Ein markanter Gipfel im tschechischen Teil des Riesengebirges mit weiten Ausblicken.",
-                  "category": "landmark",
-                  "coords": [
-                        15.689657,
-                        50.742154
-                  ]
-            },
-            {
-                  "name": "Brunnenberg",
-                  "text": "Mit 1555 Metern einer der höchsten Gipfel des Riesengebirges in der Tschechischen Republik.",
-                  "category": "landmark",
-                  "coords": [
-                        15.70586,
-                        50.727106
-                  ]
-            },
-            {
-                  "name": "Rosenberg",
-                  "text": "Ein Berg im Riesengebirge, der durch eine Seilbahn mit dem Gipfel der Schneekoppe verbunden ist.",
-                  "category": "landmark",
-                  "coords": [
-                        15.738944,
-                        50.720982
-                  ]
-            },
-            {
-                  "name": "Baum Berg",
-                  "text": "Ein bewaldeter Berg im Riesengebirge, der für seine Wanderwege bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        15.712052,
-                        50.707528
-                  ]
-            },
-            {
                   "name": "Löwen Berg",
                   "text": "Ein Gipfel im tschechischen Riesengebirge, der zur malerischen Berglandschaft gehört.",
                   "category": "landmark",
                   "coords": [
                         15.780842,
                         50.720391
-                  ]
-            },
-            {
-                  "name": "Schneekoppe",
-                  "text": "Der höchste Gipfel des Riesengebirges an der Grenze zwischen Tschechien und Polen.",
-                  "category": "landmark",
-                  "coords": [
-                        15.739607,
-                        50.736033
-                  ]
-            },
-            {
-                  "name": "Türkenhübel",
-                  "text": "Ein Gipfel im polnischen Teil des Riesengebirges, der Wanderern eine ruhige Natur bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        15.716052,
-                        50.764411
                   ]
             }
       ],
@@ -2879,66 +2177,12 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stříbrné návrší",
-                  "text": "Jellegzetes hegycsúcs az Óriás-hegység cseh oldalán, széles kilátással a környékre.",
-                  "category": "landmark",
-                  "coords": [
-                        15.689657,
-                        50.742154
-                  ]
-            },
-            {
-                  "name": "Studniční hora",
-                  "text": "Az Óriás-hegység egyik legmagasabb csúcsa Csehországban, magassága 1555 méter.",
-                  "category": "landmark",
-                  "coords": [
-                        15.70586,
-                        50.727106
-                  ]
-            },
-            {
-                  "name": "Růžová hora",
-                  "text": "Hegy az Óriás-hegységben, amelyet felvonó köt össze a Sněžka csúcsával.",
-                  "category": "landmark",
-                  "coords": [
-                        15.738944,
-                        50.720982
-                  ]
-            },
-            {
-                  "name": "Lesní hora",
-                  "text": "Erdős hegycsúcs az Óriás-hegységben, amely kedvelt túraútvonalairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        15.712052,
-                        50.707528
-                  ]
-            },
-            {
                   "name": "Jelení hora",
                   "text": "Hegycsúcs a cseh Óriás-hegységben, a festői hegyi táj része.",
                   "category": "landmark",
                   "coords": [
                         15.780842,
                         50.720391
-                  ]
-            },
-            {
-                  "name": "Śnieżka / Sněžka",
-                  "text": "Az Óriás-hegység legmagasabb csúcsa a cseh-lengyel határon.",
-                  "category": "landmark",
-                  "coords": [
-                        15.739607,
-                        50.736033
-                  ]
-            },
-            {
-                  "name": "Turek",
-                  "text": "Hegycsúcs az Óriás-hegység lengyel oldalán, nyugodt természeti környezetet kínál a túrázóknak.",
-                  "category": "landmark",
-                  "coords": [
-                        15.716052,
-                        50.764411
                   ]
             }
       ],
@@ -2953,66 +2197,12 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stříbrné návrší",
-                  "text": "Un vârf proeminent în partea cehă a Munților Uriași, oferind vederi panoramice vaste.",
-                  "category": "landmark",
-                  "coords": [
-                        15.689657,
-                        50.742154
-                  ]
-            },
-            {
-                  "name": "Studniční hora",
-                  "text": "Unul dintre cele mai înalte vârfuri din Munții Uriași în Republica Cehă, având 1555 metri.",
-                  "category": "landmark",
-                  "coords": [
-                        15.70586,
-                        50.727106
-                  ]
-            },
-            {
-                  "name": "Růžová hora",
-                  "text": "Un munte în Munții Uriași, conectat prin teleferic de vârful Sněžka.",
-                  "category": "landmark",
-                  "coords": [
-                        15.738944,
-                        50.720982
-                  ]
-            },
-            {
-                  "name": "Lesní hora",
-                  "text": "Un munte împădurit în Munții Uriași, cunoscut pentru traseele sale de drumeție.",
-                  "category": "landmark",
-                  "coords": [
-                        15.712052,
-                        50.707528
-                  ]
-            },
-            {
                   "name": "Jelení hora",
                   "text": "Un vârf în Munții Uriași din Cehia, făcând parte din peisajul montan pitoresc.",
                   "category": "landmark",
                   "coords": [
                         15.780842,
                         50.720391
-                  ]
-            },
-            {
-                  "name": "Śnieżka / Sněžka",
-                  "text": "Cel mai înalt vârf din Munții Uriași, situat la granița dintre Cehia și Polonia.",
-                  "category": "landmark",
-                  "coords": [
-                        15.739607,
-                        50.736033
-                  ]
-            },
-            {
-                  "name": "Turek",
-                  "text": "Un vârf în partea poloneză a Munților Uriași, oferind drumeților un mediu natural liniștit.",
-                  "category": "landmark",
-                  "coords": [
-                        15.716052,
-                        50.764411
                   ]
             }
       ],
@@ -3027,66 +2217,12 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stříbrné návrší",
-                  "text": "A prominent peak in the Czech part of the Giant Mountains, offering wide panoramic views.",
-                  "category": "landmark",
-                  "coords": [
-                        15.689657,
-                        50.742154
-                  ]
-            },
-            {
-                  "name": "Studniční hora",
-                  "text": "One of the highest peaks of the Giant Mountains in the Czech Republic, standing at 1,555 meters.",
-                  "category": "landmark",
-                  "coords": [
-                        15.70586,
-                        50.727106
-                  ]
-            },
-            {
-                  "name": "Růžová hora",
-                  "text": "A mountain in the Giant Mountains, connected to the summit of Sněžka by a cable car.",
-                  "category": "landmark",
-                  "coords": [
-                        15.738944,
-                        50.720982
-                  ]
-            },
-            {
-                  "name": "Lesní hora",
-                  "text": "A forested mountain in the Giant Mountains, known for its hiking trails.",
-                  "category": "landmark",
-                  "coords": [
-                        15.712052,
-                        50.707528
-                  ]
-            },
-            {
                   "name": "Jelení hora",
                   "text": "A peak in the Czech Giant Mountains, part of the scenic mountain landscape.",
                   "category": "landmark",
                   "coords": [
                         15.780842,
                         50.720391
-                  ]
-            },
-            {
-                  "name": "Śnieżka / Sněžka",
-                  "text": "The highest peak of the Giant Mountains, located on the border between the Czech Republic and Poland.",
-                  "category": "landmark",
-                  "coords": [
-                        15.739607,
-                        50.736033
-                  ]
-            },
-            {
-                  "name": "Turek",
-                  "text": "A peak in the Polish part of the Giant Mountains, offering hikers a peaceful natural environment.",
-                  "category": "landmark",
-                  "coords": [
-                        15.716052,
-                        50.764411
                   ]
             }
       ]
@@ -3453,24 +2589,6 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Roztoka",
-                  "text": "Ein Naturschutzgebiet im Kampinos-Wald, das die lokale Flora und Fauna schützt.",
-                  "category": "natural",
-                  "coords": [
-                        20.614984,
-                        52.303765
-                  ]
-            },
-            {
-                  "name": "Żurawiowe",
-                  "text": "Ein Schutzgebiet im Kampinos-Wald, das der Erhaltung natürlicher Lebensräume gewidmet ist.",
-                  "category": "natural",
-                  "coords": [
-                        20.576905,
-                        52.320096
-                  ]
-            },
-            {
                   "name": "Wilków",
                   "text": "Ein Naturschutzgebiet im Kampinos-Wald, das zum Zweck des Naturschutzes eingerichtet wurde.",
                   "category": "natural",
@@ -3497,24 +2615,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         20.579499,
                         52.323647
-                  ]
-            },
-            {
-                  "name": "Roztoka",
-                  "text": "Természetvédelmi terület a Kampinos-erdőben, amely a helyi növény- és állatvilágot védi.",
-                  "category": "natural",
-                  "coords": [
-                        20.614984,
-                        52.303765
-                  ]
-            },
-            {
-                  "name": "Żurawiowe",
-                  "text": "Védett terület a Kampinos-erdőben, amely a természetes élőhelyek megőrzését szolgálja.",
-                  "category": "natural",
-                  "coords": [
-                        20.576905,
-                        52.320096
                   ]
             },
             {
@@ -3547,24 +2647,6 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Roztoka",
-                  "text": "O rezervație naturală în pădurea Kampinos, care protejează flora și fauna locală.",
-                  "category": "natural",
-                  "coords": [
-                        20.614984,
-                        52.303765
-                  ]
-            },
-            {
-                  "name": "Żurawiowe",
-                  "text": "O zonă protejată din pădurea Kampinos, dedicată conservării habitatelor naturale.",
-                  "category": "natural",
-                  "coords": [
-                        20.576905,
-                        52.320096
-                  ]
-            },
-            {
                   "name": "Wilków",
                   "text": "O rezervație naturală în pădurea Kampinos înființată pentru conservarea mediului.",
                   "category": "natural",
@@ -3591,24 +2673,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         20.579499,
                         52.323647
-                  ]
-            },
-            {
-                  "name": "Roztoka",
-                  "text": "A nature reserve within the Kampinos Forest protecting local flora and fauna.",
-                  "category": "natural",
-                  "coords": [
-                        20.614984,
-                        52.303765
-                  ]
-            },
-            {
-                  "name": "Żurawiowe",
-                  "text": "A protected area in the Kampinos Forest dedicated to the preservation of natural habitats.",
-                  "category": "natural",
-                  "coords": [
-                        20.576905,
-                        52.320096
                   ]
             },
             {
@@ -3903,24 +2967,6 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Boroniówka",
-                  "text": "Eine historische Mühle und Sägewerk im Ojców-Tal, heute als Museum genutzt.",
-                  "category": "museum",
-                  "coords": [
-                        19.832501,
-                        50.222358
-                  ]
-            },
-            {
-                  "name": "Jaskinia Nietoperzowa",
-                  "text": "Eine Höhle im Ojców-Tal, die für ihre Fledermauspopulation bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        19.774532,
-                        50.19395
-                  ]
-            },
-            {
                   "name": "Jaskinia Łokietka",
                   "text": "Eine berühmte Höhle im Ojców-Tal, benannt nach einem legendären polnischen König.",
                   "category": "landmark",
@@ -3965,24 +3011,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         19.836401,
                         50.192155
-                  ]
-            },
-            {
-                  "name": "Boroniówka",
-                  "text": "Történelmi malom és fűrészüzem az Ojców-völgyben, ma múzeumként működik.",
-                  "category": "museum",
-                  "coords": [
-                        19.832501,
-                        50.222358
-                  ]
-            },
-            {
-                  "name": "Jaskinia Nietoperzowa",
-                  "text": "Barlang az Ojców-völgyben, amely denevérpopulációjáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        19.774532,
-                        50.19395
                   ]
             },
             {
@@ -4033,24 +3061,6 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Boroniówka",
-                  "text": "O moară și un gater istoric în Valea Ojców, utilizate astăzi ca muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        19.832501,
-                        50.222358
-                  ]
-            },
-            {
-                  "name": "Jaskinia Nietoperzowa",
-                  "text": "O peșteră în Valea Ojców, cunoscută pentru populația sa de lilieci.",
-                  "category": "landmark",
-                  "coords": [
-                        19.774532,
-                        50.19395
-                  ]
-            },
-            {
                   "name": "Jaskinia Łokietka",
                   "text": "O peșteră faimoasă în Valea Ojców, numită după un legendar rege polonez.",
                   "category": "landmark",
@@ -4095,24 +3105,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         19.836401,
                         50.192155
-                  ]
-            },
-            {
-                  "name": "Boroniówka",
-                  "text": "A historical mill and sawmill in Ojców Valley, now serving as a museum.",
-                  "category": "museum",
-                  "coords": [
-                        19.832501,
-                        50.222358
-                  ]
-            },
-            {
-                  "name": "Jaskinia Nietoperzowa",
-                  "text": "A cave in Ojców Valley known for its significant bat population.",
-                  "category": "landmark",
-                  "coords": [
-                        19.774532,
-                        50.19395
                   ]
             },
             {
@@ -4191,33 +3183,6 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rotes Kloster",
-                  "text": "Ein historisches Kloster am Dunajec, bekannt für seine rote Dacheindeckung.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
-                  "name": "Pawilon Wejściowy w Szczawnicy",
-                  "text": "Ein Informations- und Museumspavillon am Eingang zum Nationalpark in Szczawnica.",
-                  "category": "museum",
-                  "coords": [
-                        20.4563,
-                        49.418465
-                  ]
-            },
-            {
-                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
-                  "text": "Ein Museumspavillon am Startpunkt der Floßfahrten auf dem Dunajec.",
-                  "category": "museum",
-                  "coords": [
-                        20.367983,
-                        49.406449
-                  ]
-            },
-            {
                   "name": "Ninja Park",
                   "text": "Ninja-Hindernisparcours am Fuße des Gipfels Trzy Korony (Drei Kronen) in den Pieninen.",
                   "category": "recreational",
@@ -4243,15 +3208,6 @@ export const polandNatureV2: POI[] = [
                         20.414995,
                         49.440683
                   ]
-            },
-            {
-                  "name": "Teatr letni",
-                  "text": "Freilichtbühne (Sommer Theater) mit Bühne und Blick auf das Pieninen-Gebirge nahe Trzy Korony.",
-                  "category": "cultural",
-                  "coords": [
-                        20.430045,
-                        49.440701
-                  ]
             }
       ],
       "hu": [
@@ -4262,33 +3218,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         20.420283,
                         49.420109
-                  ]
-            },
-            {
-                  "name": "Vöröskolostor",
-                  "text": "Történelmi kolostor a Dunajec partján, vörös tetőzetéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
-                  "name": "Pawilon Wejściowy w Szczawnicy",
-                  "text": "Információs és múzeumi pavilon a nemzeti park bejáratánál Szczawnicában.",
-                  "category": "museum",
-                  "coords": [
-                        20.4563,
-                        49.418465
-                  ]
-            },
-            {
-                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
-                  "text": "Múzeumi pavilon a dunajeci tutajozás kiindulópontjánál.",
-                  "category": "museum",
-                  "coords": [
-                        20.367983,
-                        49.406449
                   ]
             },
             {
@@ -4317,15 +3246,6 @@ export const polandNatureV2: POI[] = [
                         20.414995,
                         49.440683
                   ]
-            },
-            {
-                  "name": "Teatr letni",
-                  "text": "Szabadtéri nyári színház színpaddal és kilátással a Pieninek-hegységre a Trzy Korony közelében.",
-                  "category": "cultural",
-                  "coords": [
-                        20.430045,
-                        49.440701
-                  ]
             }
       ],
       "ro": [
@@ -4336,33 +3256,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         20.420283,
                         49.420109
-                  ]
-            },
-            {
-                  "name": "Červený kláštor",
-                  "text": "O mănăstire istorică pe malul Dunajecului, cunoscută pentru acoperișul său roșu.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
-                  "name": "Pawilon Wejściowy w Szczawnicy",
-                  "text": "Un pavilion de informare și muzeu la intrarea în parcul național din Szczawnica.",
-                  "category": "museum",
-                  "coords": [
-                        20.4563,
-                        49.418465
-                  ]
-            },
-            {
-                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
-                  "text": "Un pavilion muzeal situat la punctul de plecare al plimbărilor cu pluta pe Dunajec.",
-                  "category": "museum",
-                  "coords": [
-                        20.367983,
-                        49.406449
                   ]
             },
             {
@@ -4391,15 +3284,6 @@ export const polandNatureV2: POI[] = [
                         20.414995,
                         49.440683
                   ]
-            },
-            {
-                  "name": "Teatr letni",
-                  "text": "Teatru de vară în aer liber cu o scenă și vedere spre munții Pieniny, lângă Trzy Korony.",
-                  "category": "cultural",
-                  "coords": [
-                        20.430045,
-                        49.440701
-                  ]
             }
       ],
       "en": [
@@ -4410,33 +3294,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         20.420283,
                         49.420109
-                  ]
-            },
-            {
-                  "name": "Červený kláštor",
-                  "text": "A historic monastery on the banks of the Dunajec, known for its red roofing.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
-                  "name": "Pawilon Wejściowy w Szczawnicy",
-                  "text": "An information and museum pavilion at the entrance to the national park in Szczawnica.",
-                  "category": "museum",
-                  "coords": [
-                        20.4563,
-                        49.418465
-                  ]
-            },
-            {
-                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
-                  "text": "A museum pavilion located at the starting point of the Dunajec river rafting.",
-                  "category": "museum",
-                  "coords": [
-                        20.367983,
-                        49.406449
                   ]
             },
             {
@@ -4464,15 +3321,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         20.414995,
                         49.440683
-                  ]
-            },
-            {
-                  "name": "Teatr letni",
-                  "text": "Open-air summer theatre with a stage overlooking the Pieniny mountain range near Trzy Korony.",
-                  "category": "cultural",
-                  "coords": [
-                        20.430045,
-                        49.440701
                   ]
             }
       ]
@@ -4522,122 +3370,10 @@ export const polandNatureV2: POI[] = [
     }, image: "/poi-images/poland-trzy-korony-nature-v2.webp"},
   {
     id: "poland-narew-river-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Reduta Koziołek z 1656r.",
-                  "text": "Eine historische Befestigungsanlage aus dem Jahr 1656 an der Narew.",
-                  "category": "castle",
-                  "coords": [
-                        22.8078,
-                        53.120821
-                  ]
-            },
-            {
-                  "name": "Zerwany Most w Kruszewie",
-                  "text": "Die Ruinen einer zerstörten Brücke über die Narew in Kruszewo.",
-                  "category": "historical",
-                  "coords": [
-                        22.811627,
-                        53.117347
-                  ]
-            },
-            {
-                  "name": "Wieża Kruszewo",
-                  "text": "Ein Aussichtsturm mit Blick auf das Narew-Tal.",
-                  "category": "natural",
-                  "coords": [
-                        22.822093,
-                        53.113202
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Reduta Koziołek z 1656r.",
-                  "text": "1656-ból származó történelmi erődítmény a Narew folyónál.",
-                  "category": "castle",
-                  "coords": [
-                        22.8078,
-                        53.120821
-                  ]
-            },
-            {
-                  "name": "Zerwany Most w Kruszewie",
-                  "text": "Egy lerombolt híd romjai a Narew folyón Kruszewónál.",
-                  "category": "historical",
-                  "coords": [
-                        22.811627,
-                        53.117347
-                  ]
-            },
-            {
-                  "name": "Wieża Kruszewo",
-                  "text": "Kilátótorony, ahonnan rálátás nyílik a Narew-völgyre.",
-                  "category": "natural",
-                  "coords": [
-                        22.822093,
-                        53.113202
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Reduta Koziołek z 1656r.",
-                  "text": "O fortificație istorică din 1656 situată pe râul Narew.",
-                  "category": "castle",
-                  "coords": [
-                        22.8078,
-                        53.120821
-                  ]
-            },
-            {
-                  "name": "Zerwany Most w Kruszewie",
-                  "text": "Ruinele unui pod distrus peste râul Narew în Kruszewo.",
-                  "category": "historical",
-                  "coords": [
-                        22.811627,
-                        53.117347
-                  ]
-            },
-            {
-                  "name": "Wieża Kruszewo",
-                  "text": "Un turn de observație cu vedere spre valea râului Narew.",
-                  "category": "natural",
-                  "coords": [
-                        22.822093,
-                        53.113202
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Reduta Koziołek z 1656r.",
-                  "text": "A historical fortification dating back to 1656 on the Narew River.",
-                  "category": "castle",
-                  "coords": [
-                        22.8078,
-                        53.120821
-                  ]
-            },
-            {
-                  "name": "Zerwany Most w Kruszewie",
-                  "text": "The ruins of a broken bridge over the Narew River in Kruszewo.",
-                  "category": "historical",
-                  "coords": [
-                        22.811627,
-                        53.117347
-                  ]
-            },
-            {
-                  "name": "Wieża Kruszewo",
-                  "text": "An observation tower providing views over the Narew valley.",
-                  "category": "natural",
-                  "coords": [
-                        22.822093,
-                        53.113202
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "PL",
     type: "river",
@@ -4686,69 +3422,6 @@ export const polandNatureV2: POI[] = [
     id: "poland-siklawa-waterfall-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Fichtentalspitze",
-                  "text": "Ein markanter Berggipfel in der Hohen Tatra an der Grenze zwischen Polen und der Slowakei.",
-                  "category": "landmark",
-                  "coords": [
-                        20.053681,
-                        49.187801
-                  ]
-            },
-            {
-                  "name": "Kościelec",
-                  "text": "Ein ikonischer, steiler Gipfel in der polnischen Hohen Tatra in der Nähe von Zakopane.",
-                  "category": "landmark",
-                  "coords": [
-                        20.014583,
-                        49.225179
-                  ]
-            },
-            {
-                  "name": "Koprovaspitze",
-                  "text": "Ein bekannter Aussichtsgipfel in der slowakischen Hohen Tatra.",
-                  "category": "landmark",
-                  "coords": [
-                        20.048246,
-                        49.182374
-                  ]
-            },
-            {
-                  "name": "Östliche Mengsdorfer Spitze",
-                  "text": "Einer der Gipfel des Mięguszowiecki-Massivs in der Hohen Tatra.",
-                  "category": "landmark",
-                  "coords": [
-                        20.067466,
-                        49.182824
-                  ]
-            },
-            {
-                  "name": "Valentinsberg",
-                  "text": "Ein Gipfel in der Hohen Tatra an der Grenze zwischen Polen und der Slowakei.",
-                  "category": "landmark",
-                  "coords": [
-                        20.006815,
-                        49.213435
-                  ]
-            },
-            {
-                  "name": "Randturm",
-                  "text": "Ein Berggipfel in der Hohen Tatra, gelegen am Hauptkamm.",
-                  "category": "landmark",
-                  "coords": [
-                        19.998553,
-                        49.223158
-                  ]
-            },
-            {
-                  "name": "Glatter Berg",
-                  "text": "Ein Berggipfel in der Hohen Tatra, der die Grenze zwischen zwei Ländern markiert.",
-                  "category": "landmark",
-                  "coords": [
-                        20.013413,
-                        49.206776
-                  ]
-            },
-            {
                   "name": "Mönch II",
                   "text": "Ein charakteristischer Gipfel in der Hohen Tatra, Teil des Mnich-Massivs.",
                   "category": "landmark",
@@ -4759,69 +3432,6 @@ export const polandNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Csubrina",
-                  "text": "Jellegzetes hegycsúcs a Magas-Tátrában, a lengyel-szlovák határon.",
-                  "category": "landmark",
-                  "coords": [
-                        20.053681,
-                        49.187801
-                  ]
-            },
-            {
-                  "name": "Kápolna-csúcs",
-                  "text": "Ikonikus, meredek csúcs a lengyel Magas-Tátrában, Zakopane közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        20.014583,
-                        49.225179
-                  ]
-            },
-            {
-                  "name": "Kapor-csúcs",
-                  "text": "Ismert kilátócsúcs a szlovák Magas-Tátrában.",
-                  "category": "landmark",
-                  "coords": [
-                        20.048246,
-                        49.182374
-                  ]
-            },
-            {
-                  "name": "Keleti-Menguszfalvi-csúcs",
-                  "text": "A Mięguszowiecki-masszívum egyik csúcsa a Magas-Tátrában.",
-                  "category": "landmark",
-                  "coords": [
-                        20.067466,
-                        49.182824
-                  ]
-            },
-            {
-                  "name": "Walentko-csúcs",
-                  "text": "Hegycsúcs a Magas-Tátrában, a lengyel-szlovák határon.",
-                  "category": "landmark",
-                  "coords": [
-                        20.006815,
-                        49.213435
-                  ]
-            },
-            {
-                  "name": "Szélső-torony",
-                  "text": "Hegycsúcs a Magas-Tátrában, a főgerincen található.",
-                  "category": "landmark",
-                  "coords": [
-                        19.998553,
-                        49.223158
-                  ]
-            },
-            {
-                  "name": "Sima-hegy",
-                  "text": "Hegycsúcs a Magas-Tátrában, amely két ország határát jelzi.",
-                  "category": "landmark",
-                  "coords": [
-                        20.013413,
-                        49.206776
-                  ]
-            },
             {
                   "name": "Barát II",
                   "text": "Jellegzetes csúcs a Magas-Tátrában, a Mnich-masszívum része.",
@@ -4834,69 +3444,6 @@ export const polandNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Cubryna / Čubrina",
-                  "text": "Un vârf montan proeminent în Tatra Înaltă, la granița dintre Polonia și Slovacia.",
-                  "category": "landmark",
-                  "coords": [
-                        20.053681,
-                        49.187801
-                  ]
-            },
-            {
-                  "name": "Kościelec",
-                  "text": "Un vârf iconic și abrupt în Tatra Înaltă poloneză, lângă Zakopane.",
-                  "category": "landmark",
-                  "coords": [
-                        20.014583,
-                        49.225179
-                  ]
-            },
-            {
-                  "name": "Kôprovský štít",
-                  "text": "Un vârf muntos cu panoramă cunoscut în Tatra Înaltă slovacă.",
-                  "category": "landmark",
-                  "coords": [
-                        20.048246,
-                        49.182374
-                  ]
-            },
-            {
-                  "name": "Mięguszowiecki Szczyt Czarny / Východný Mengusovský štít",
-                  "text": "Unul dintre vârfurile masivului Mięguszowiecki din Tatra Înaltă.",
-                  "category": "landmark",
-                  "coords": [
-                        20.067466,
-                        49.182824
-                  ]
-            },
-            {
-                  "name": "Valentková / Walentkowy Wierch",
-                  "text": "Un vârf în Tatra Înaltă situat la granița dintre Polonia și Slovacia.",
-                  "category": "landmark",
-                  "coords": [
-                        20.006815,
-                        49.213435
-                  ]
-            },
-            {
-                  "name": "Krajná Kopa / Skrajna Turnia",
-                  "text": "Un vârf montan în Tatra Înaltă, situat pe creasta principală.",
-                  "category": "landmark",
-                  "coords": [
-                        19.998553,
-                        49.223158
-                  ]
-            },
-            {
-                  "name": "Gładki Wierch / Hladký štít",
-                  "text": "Un vârf montan în Tatra Înaltă, care marchează granița dintre două țări.",
-                  "category": "landmark",
-                  "coords": [
-                        20.013413,
-                        49.206776
-                  ]
-            },
-            {
                   "name": "Druhý Mních / Zadni Mnich",
                   "text": "Un vârf caracteristic în Tatra Înaltă, parte a masivului Mnich.",
                   "category": "landmark",
@@ -4907,69 +3454,6 @@ export const polandNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Cubryna / Čubrina",
-                  "text": "A prominent mountain peak in the High Tatras on the Polish-Slovak border.",
-                  "category": "landmark",
-                  "coords": [
-                        20.053681,
-                        49.187801
-                  ]
-            },
-            {
-                  "name": "Kościelec",
-                  "text": "An iconic, steep peak in the Polish High Tatras near Zakopane.",
-                  "category": "landmark",
-                  "coords": [
-                        20.014583,
-                        49.225179
-                  ]
-            },
-            {
-                  "name": "Kôprovský štít",
-                  "text": "A well-known peak with panoramic views in the Slovak High Tatras.",
-                  "category": "landmark",
-                  "coords": [
-                        20.048246,
-                        49.182374
-                  ]
-            },
-            {
-                  "name": "Mięguszowiecki Szczyt Czarny / Východný Mengusovský štít",
-                  "text": "One of the peaks of the Mięguszowiecki massif in the High Tatras.",
-                  "category": "landmark",
-                  "coords": [
-                        20.067466,
-                        49.182824
-                  ]
-            },
-            {
-                  "name": "Valentková / Walentkowy Wierch",
-                  "text": "A mountain peak in the High Tatras on the border between Poland and Slovakia.",
-                  "category": "landmark",
-                  "coords": [
-                        20.006815,
-                        49.213435
-                  ]
-            },
-            {
-                  "name": "Krajná Kopa / Skrajna Turnia",
-                  "text": "A mountain peak in the High Tatras, located on the main ridge.",
-                  "category": "landmark",
-                  "coords": [
-                        19.998553,
-                        49.223158
-                  ]
-            },
-            {
-                  "name": "Gładki Wierch / Hladký štít",
-                  "text": "A mountain peak in the High Tatras marking the border between two countries.",
-                  "category": "landmark",
-                  "coords": [
-                        20.013413,
-                        49.206776
-                  ]
-            },
             {
                   "name": "Druhý Mních / Zadni Mnich",
                   "text": "A characteristic peak in the High Tatras, part of the Mnich massif.",
@@ -5028,15 +3512,6 @@ export const polandNatureV2: POI[] = [
     id: "poland-bear-cave-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Reservat Glatzer Schneeberg",
-                  "text": "Naturschutzgebiet zum Schutz der Artenvielfalt am Glatzer Schneeberg.",
-                  "category": "natural",
-                  "coords": [
-                        16.848928,
-                        50.209418
-                  ]
-            },
-            {
                   "name": "Rezerwat Jaskinia Niedźwiedzia",
                   "text": "Schutzgebiet rund um die berühmte Tropfsteinhöhle in Kletno.",
                   "category": "natural",
@@ -5089,27 +3564,9 @@ export const polandNatureV2: POI[] = [
                         16.842833,
                         50.234491
                   ]
-            },
-            {
-                  "name": "Ruiny wieży widokowej na Śnieżniku",
-                  "text": "Ruinen des historischen Aussichtsturms auf dem Gipfel des Glatzer Schneebergs.",
-                  "category": "historical",
-                  "coords": [
-                        16.846948,
-                        50.207756
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Rezerwat Śnieżnik Kłodzki",
-                  "text": "A Śnieżnik-hegység biológiai sokféleségét védő természetvédelmi terület.",
-                  "category": "natural",
-                  "coords": [
-                        16.848928,
-                        50.209418
-                  ]
-            },
             {
                   "name": "Rezerwat Jaskinia Niedźwiedzia",
                   "text": "A híres kletnói cseppkőbarlang körüli védett terület.",
@@ -5163,27 +3620,9 @@ export const polandNatureV2: POI[] = [
                         16.842833,
                         50.234491
                   ]
-            },
-            {
-                  "name": "Ruiny wieży widokowej na Śnieżniku",
-                  "text": "A Śnieżnik-csúcson lévő történelmi kilátótorony romjai.",
-                  "category": "historical",
-                  "coords": [
-                        16.846948,
-                        50.207756
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Rezerwat Śnieżnik Kłodzki",
-                  "text": "Rezervație naturală pentru protejarea biodiversității pe masivul Śnieżnik.",
-                  "category": "natural",
-                  "coords": [
-                        16.848928,
-                        50.209418
-                  ]
-            },
             {
                   "name": "Rezerwat Jaskinia Niedźwiedzia",
                   "text": "Zonă protejată în jurul faimoasei peșteri de stalactite din Kletno.",
@@ -5237,27 +3676,9 @@ export const polandNatureV2: POI[] = [
                         16.842833,
                         50.234491
                   ]
-            },
-            {
-                  "name": "Ruiny wieży widokowej na Śnieżniku",
-                  "text": "Ruinele turnului istoric de observație de pe vârful Śnieżnik.",
-                  "category": "historical",
-                  "coords": [
-                        16.846948,
-                        50.207756
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Rezerwat Śnieżnik Kłodzki",
-                  "text": "Nature reserve protecting the biodiversity of the Śnieżnik Massif.",
-                  "category": "natural",
-                  "coords": [
-                        16.848928,
-                        50.209418
-                  ]
-            },
             {
                   "name": "Rezerwat Jaskinia Niedźwiedzia",
                   "text": "Protected area surrounding the famous stalactite cave in Kletno.",
@@ -5310,15 +3731,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         16.842833,
                         50.234491
-                  ]
-            },
-            {
-                  "name": "Ruiny wieży widokowej na Śnieżniku",
-                  "text": "Ruins of the historical observation tower on the summit of Mount Śnieżnik.",
-                  "category": "historical",
-                  "coords": [
-                        16.846948,
-                        50.207756
                   ]
             }
       ]
@@ -7017,30 +5429,12 @@ export const polandNatureV2: POI[] = [
     id: "poland-five-lakes-valley-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Fichtentalspitze",
-                  "text": "Ein markanter Gipfel in der Hohen Tatra an der Grenze zwischen Polen und der Slowakei.",
-                  "category": "landmark",
-                  "coords": [
-                        20.053681,
-                        49.187801
-                  ]
-            },
-            {
                   "name": "Kościelec",
                   "text": "Ein ikonischer, pyramidenförmiger Berggipfel in der polnischen Hohen Tatra, der bei Bergsteigern sehr beliebt ist.",
                   "category": "landmark",
                   "coords": [
                         20.014583,
                         49.225179
-                  ]
-            },
-            {
-                  "name": "Koprovaspitze",
-                  "text": "Ein markanter Aussichtsgipfel in der slowakischen Hohen Tatra, der über dem Mengusovská-Tal thront.",
-                  "category": "landmark",
-                  "coords": [
-                        20.048246,
-                        49.182374
                   ]
             },
             {
@@ -7071,15 +5465,6 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mönch II",
-                  "text": "Ein markanter, spitzer Gipfel in der Hohen Tatra, der für seine anspruchsvollen Kletterrouten bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        20.050357,
-                        49.189522
-                  ]
-            },
-            {
                   "name": "Beskid / Beskyd",
                   "text": "Ein Grenzgipfel in der Hohen Tatra, der einen weiten Blick auf das Kasprowy Wierch-Massiv bietet.",
                   "category": "landmark",
@@ -7091,30 +5476,12 @@ export const polandNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Csubrina",
-                  "text": "A Magas-Tátra egyik markáns csúcsa a lengyel-szlovák határon.",
-                  "category": "landmark",
-                  "coords": [
-                        20.053681,
-                        49.187801
-                  ]
-            },
-            {
                   "name": "Kápolna-csúcs",
                   "text": "Ikonikus, piramis alakú hegycsúcs a lengyel Magas-Tátrában, amely népszerű a hegymászók körében.",
                   "category": "landmark",
                   "coords": [
                         20.014583,
                         49.225179
-                  ]
-            },
-            {
-                  "name": "Kapor-csúcs",
-                  "text": "A szlovák Magas-Tátra egyik népszerű kilátócsúcsa a Menguszfalvi-völgy felett.",
-                  "category": "landmark",
-                  "coords": [
-                        20.048246,
-                        49.182374
                   ]
             },
             {
@@ -7145,15 +5512,6 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Barát II",
-                  "text": "Jellegzetes, hegyes csúcs a Magas-Tátrában, amely nehéz sziklamászó útjairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        20.050357,
-                        49.189522
-                  ]
-            },
-            {
                   "name": "Beskid / Beskyd",
                   "text": "Határhegy a Magas-Tátrában, ahonnan tágas kilátás nyílik a Gáspár-csúcs tömbjére.",
                   "category": "landmark",
@@ -7165,30 +5523,12 @@ export const polandNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Cubryna / Čubrina",
-                  "text": "Un vârf proeminent din Munții Tatra Înaltă, situat la granița dintre Polonia și Slovacia.",
-                  "category": "landmark",
-                  "coords": [
-                        20.053681,
-                        49.187801
-                  ]
-            },
-            {
                   "name": "Kościelec",
                   "text": "Un vârf montan iconic, în formă de piramidă, din Tatra Înaltă poloneză, foarte popular printre alpiniști.",
                   "category": "landmark",
                   "coords": [
                         20.014583,
                         49.225179
-                  ]
-            },
-            {
-                  "name": "Kôprovský štít",
-                  "text": "Un vârf muntos din Tatra Înaltă slovacă, oferind panorame spectaculoase asupra văii Mengusovská.",
-                  "category": "landmark",
-                  "coords": [
-                        20.048246,
-                        49.182374
                   ]
             },
             {
@@ -7219,15 +5559,6 @@ export const polandNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Druhý Mních / Zadni Mnich",
-                  "text": "Un vârf ascuțit și distinctiv din Tatra Înaltă, cunoscut pentru traseele sale de cățărare dificile.",
-                  "category": "landmark",
-                  "coords": [
-                        20.050357,
-                        49.189522
-                  ]
-            },
-            {
                   "name": "Beskid / Beskyd",
                   "text": "Un vârf de frontieră din Tatra Înaltă, oferind vederi largi spre masivul Kasprowy Wierch.",
                   "category": "landmark",
@@ -7239,30 +5570,12 @@ export const polandNatureV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Cubryna / Čubrina",
-                  "text": "A prominent peak in the High Tatras, located on the border between Poland and Slovakia.",
-                  "category": "landmark",
-                  "coords": [
-                        20.053681,
-                        49.187801
-                  ]
-            },
-            {
                   "name": "Kościelec",
                   "text": "An iconic, pyramid-shaped mountain peak in the Polish High Tatras, very popular among climbers.",
                   "category": "landmark",
                   "coords": [
                         20.014583,
                         49.225179
-                  ]
-            },
-            {
-                  "name": "Kôprovský štít",
-                  "text": "A prominent peak in the Slovak High Tatras, offering spectacular views over the Mengusovská valley.",
-                  "category": "landmark",
-                  "coords": [
-                        20.048246,
-                        49.182374
                   ]
             },
             {
@@ -7290,15 +5603,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         20.013413,
                         49.206776
-                  ]
-            },
-            {
-                  "name": "Druhý Mních / Zadni Mnich",
-                  "text": "A distinctive, pointed peak in the High Tatras, known for its challenging climbing routes.",
-                  "category": "landmark",
-                  "coords": [
-                        20.050357,
-                        49.189522
                   ]
             },
             {
@@ -7359,42 +5663,6 @@ export const polandNatureV2: POI[] = [
     id: "poland-wolin-cliffs-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Wisentgehege",
-                  "text": "Ein Schaugehege im Nationalpark Wolin, in dem Wisente aus nächster Nähe beobachtet werden können.",
-                  "category": "recreational",
-                  "coords": [
-                        14.476379,
-                        53.933944
-                  ]
-            },
-            {
-                  "name": "Rezerwat Łuniewo",
-                  "text": "Ein Naturschutzgebiet bei Międzyzdroje, das seltene Pflanzenarten und Küstenlandschaften schützt.",
-                  "category": "natural",
-                  "coords": [
-                        14.533245,
-                        53.92557
-                  ]
-            },
-            {
-                  "name": "Amfiteatr",
-                  "text": "Ein Freilichttheater in Międzyzdroje für kulturelle Aufführungen an der Ostseeküste.",
-                  "category": "cultural",
-                  "coords": [
-                        14.447824,
-                        53.931745
-                  ]
-            },
-            {
-                  "name": "Park Linowy w Międzyzdrojach",
-                  "text": "Ein Kletterwald in Międzyzdroje, der verschiedene Parcours in den Bäumen bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        14.456683,
-                        53.92692
-                  ]
-            },
-            {
                   "name": "Gosan Berg",
                   "text": "Die höchste Erhebung der Steilküste im Nationalpark Wolin mit Panoramablick auf die Ostsee.",
                   "category": "landmark",
@@ -7429,81 +5697,9 @@ export const polandNatureV2: POI[] = [
                         14.534718,
                         53.952302
                   ]
-            },
-            {
-                  "name": "Kąpielisko Wschód",
-                  "text": "Öffentlicher Badebereich am östlichen Teil des Strandes bei den Kliffen von Wolin.",
-                  "category": "recreational",
-                  "coords": [
-                        14.451027,
-                        53.93526
-                  ]
-            },
-            {
-                  "name": "Kąpielisko Zachód",
-                  "text": "Öffentlicher Badebereich am westlichen Teil des Strandes bei den Kliffen von Wolin.",
-                  "category": "recreational",
-                  "coords": [
-                        14.437445,
-                        53.929471
-                  ]
-            },
-            {
-                  "name": "Oceanarium Międzyzdroje",
-                  "text": "Ein Aquarium in Międzyzdroje, das eine Vielzahl von Meereslebewesen und Fischen zeigt.",
-                  "category": "recreational",
-                  "coords": [
-                        14.44593,
-                        53.930309
-                  ]
-            },
-            {
-                  "name": "Aqua Resort aquapark",
-                  "text": "Freizeit-Wasserpark mit Rutschen und Becken in der Nähe der Kliffe von Wolin.",
-                  "category": "recreational",
-                  "coords": [
-                        14.446564,
-                        53.925669
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Zagroda Pokazowa Żubrów",
-                  "text": "Bemutatóhely a Wolin Nemzeti Parkban, ahol bölények figyelhetők meg közelről.",
-                  "category": "recreational",
-                  "coords": [
-                        14.476379,
-                        53.933944
-                  ]
-            },
-            {
-                  "name": "Rezerwat Łuniewo",
-                  "text": "Természetvédelmi terület Międzyzdroje közelében, amely ritka növényfajokat és parti tájakat véd.",
-                  "category": "natural",
-                  "coords": [
-                        14.533245,
-                        53.92557
-                  ]
-            },
-            {
-                  "name": "Amfiteatr",
-                  "text": "Szabadtéri színház Międzyzdrojéban, kulturális előadások számára a balti-tengeri parton.",
-                  "category": "cultural",
-                  "coords": [
-                        14.447824,
-                        53.931745
-                  ]
-            },
-            {
-                  "name": "Park Linowy w Międzyzdrojach",
-                  "text": "Kalandpark Międzyzdrojéban, amely különböző erdei kötélpályákat kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        14.456683,
-                        53.92692
-                  ]
-            },
             {
                   "name": "Gosań",
                   "text": "A Wolin Nemzeti Park meredek partfalának legmagasabb pontja, panorámás kilátással a Balti-tengerre.",
@@ -7539,81 +5735,9 @@ export const polandNatureV2: POI[] = [
                         14.534718,
                         53.952302
                   ]
-            },
-            {
-                  "name": "Kąpielisko Wschód",
-                  "text": "Nyilvános fürdőhely a wolini sziklák melletti strand keleti részén.",
-                  "category": "recreational",
-                  "coords": [
-                        14.451027,
-                        53.93526
-                  ]
-            },
-            {
-                  "name": "Kąpielisko Zachód",
-                  "text": "Nyilvános fürdőhely a wolini sziklák melletti strand nyugati részén.",
-                  "category": "recreational",
-                  "coords": [
-                        14.437445,
-                        53.929471
-                  ]
-            },
-            {
-                  "name": "Oceanarium Międzyzdroje",
-                  "text": "Akvárium Międzyzdrojében, amely különféle tengeri élőlényeket és halakat mutat be.",
-                  "category": "recreational",
-                  "coords": [
-                        14.44593,
-                        53.930309
-                  ]
-            },
-            {
-                  "name": "Aqua Resort aquapark",
-                  "text": "Szabadidős vízi park csúszdákkal és medencékkel a wolini sziklák közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        14.446564,
-                        53.925669
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Zagroda Pokazowa Żubrów",
-                  "text": "O rezervație de prezentare în Parcul Național Wolin, unde zimbrii pot fi observați de aproape.",
-                  "category": "recreational",
-                  "coords": [
-                        14.476379,
-                        53.933944
-                  ]
-            },
-            {
-                  "name": "Rezerwat Łuniewo",
-                  "text": "O rezervație naturală lângă Międzyzdroje care protejează specii rare de plante și peisaje de coastă.",
-                  "category": "natural",
-                  "coords": [
-                        14.533245,
-                        53.92557
-                  ]
-            },
-            {
-                  "name": "Amfiteatr",
-                  "text": "Un teatru în aer liber în Międzyzdroje pentru spectacole culturale pe coasta Mării Baltice.",
-                  "category": "cultural",
-                  "coords": [
-                        14.447824,
-                        53.931745
-                  ]
-            },
-            {
-                  "name": "Park Linowy w Międzyzdrojach",
-                  "text": "Un parc de aventură în Międzyzdroje care oferă diverse trasee prin copaci.",
-                  "category": "recreational",
-                  "coords": [
-                        14.456683,
-                        53.92692
-                  ]
-            },
             {
                   "name": "Gosań",
                   "text": "Cea mai înaltă cotă a coastei abrupte din Parcul Național Wolin, cu vedere panoramică la Marea Baltică.",
@@ -7649,81 +5773,9 @@ export const polandNatureV2: POI[] = [
                         14.534718,
                         53.952302
                   ]
-            },
-            {
-                  "name": "Kąpielisko Wschód",
-                  "text": "Zonă publică de scăldat situată pe partea de est a plajei de lângă stâncile Wolin.",
-                  "category": "recreational",
-                  "coords": [
-                        14.451027,
-                        53.93526
-                  ]
-            },
-            {
-                  "name": "Kąpielisko Zachód",
-                  "text": "Zonă publică de scăldat situată pe partea de vest a plajei de lângă stâncile Wolin.",
-                  "category": "recreational",
-                  "coords": [
-                        14.437445,
-                        53.929471
-                  ]
-            },
-            {
-                  "name": "Oceanarium Międzyzdroje",
-                  "text": "Un acvariu din Międzyzdroje care expune o varietate de creaturi marine și pești.",
-                  "category": "recreational",
-                  "coords": [
-                        14.44593,
-                        53.930309
-                  ]
-            },
-            {
-                  "name": "Aqua Resort aquapark",
-                  "text": "Parc acvatic de recreere cu tobogane și piscine lângă stâncile Wolin.",
-                  "category": "recreational",
-                  "coords": [
-                        14.446564,
-                        53.925669
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "European Bison Sanctuary",
-                  "text": "A demonstration enclosure in Wolin National Park where bison can be observed up close.",
-                  "category": "recreational",
-                  "coords": [
-                        14.476379,
-                        53.933944
-                  ]
-            },
-            {
-                  "name": "Łuniewo Nature Reserve",
-                  "text": "A nature reserve near Międzyzdroje protecting rare plant species and coastal landscapes.",
-                  "category": "natural",
-                  "coords": [
-                        14.533245,
-                        53.92557
-                  ]
-            },
-            {
-                  "name": "Amfiteatr",
-                  "text": "An open-air theatre in Międzyzdroje for cultural performances on the Baltic coast.",
-                  "category": "cultural",
-                  "coords": [
-                        14.447824,
-                        53.931745
-                  ]
-            },
-            {
-                  "name": "Park Linowy w Międzyzdrojach",
-                  "text": "A ropes park in Międzyzdroje offering various courses through the trees.",
-                  "category": "recreational",
-                  "coords": [
-                        14.456683,
-                        53.92692
-                  ]
-            },
             {
                   "name": "Gosań",
                   "text": "The highest elevation of the cliffs in Wolin National Park with a panoramic view of the Baltic Sea.",
@@ -7758,42 +5810,6 @@ export const polandNatureV2: POI[] = [
                   "coords": [
                         14.534718,
                         53.952302
-                  ]
-            },
-            {
-                  "name": "Kąpielisko Wschód",
-                  "text": "Public swimming area on the eastern part of the beach near the Wolin Cliffs.",
-                  "category": "recreational",
-                  "coords": [
-                        14.451027,
-                        53.93526
-                  ]
-            },
-            {
-                  "name": "Kąpielisko Zachód",
-                  "text": "Public swimming area on the western part of the beach near the Wolin Cliffs.",
-                  "category": "recreational",
-                  "coords": [
-                        14.437445,
-                        53.929471
-                  ]
-            },
-            {
-                  "name": "Oceanarium Międzyzdroje",
-                  "text": "An aquarium in Międzyzdroje showcasing a variety of marine life and fish.",
-                  "category": "recreational",
-                  "coords": [
-                        14.44593,
-                        53.930309
-                  ]
-            },
-            {
-                  "name": "Aqua Resort aquapark",
-                  "text": "Recreational water park with slides and pools near the Wolin Cliffs.",
-                  "category": "recreational",
-                  "coords": [
-                        14.446564,
-                        53.925669
                   ]
             }
       ]
@@ -7845,48 +5861,12 @@ export const polandNatureV2: POI[] = [
     id: "poland-roztocze-forest-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Ośrodek Edukacyjno-Muzealny Roztoczańskiego Parku Narodowego",
-                  "text": "Ein Bildungs- und Museumszentrum des Nationalparks Roztocze.",
-                  "category": "museum",
-                  "coords": [
-                        22.969811,
-                        50.606155
-                  ]
-            },
-            {
-                  "name": "Roztocze Środkowe",
-                  "text": "Ein Naturschutzgebiet im zentralen Teil der Roztocze-Region.",
-                  "category": "natural",
-                  "coords": [
-                        23.029867,
-                        50.600355
-                  ]
-            },
-            {
-                  "name": "Pałac Plenipotenta",
-                  "text": "Ein historisches Schlossgebäude im Nationalpark Roztocze.",
-                  "category": "castle",
-                  "coords": [
-                        22.966818,
-                        50.605859
-                  ]
-            },
-            {
                   "name": "Izba Leśna",
                   "text": "Izba Leśna ist ein Naturkundemuseum im Roztocze-Urwald.",
                   "category": "museum",
                   "coords": [
                         22.987959,
                         50.556814
-                  ]
-            },
-            {
-                  "name": "Browar w Zwierzyńcu",
-                  "text": "Eine historische Brauerei in Zwierzyniec, die heute ein Museum ist.",
-                  "category": "museum",
-                  "coords": [
-                        22.967959,
-                        50.607009
                   ]
             },
             {
@@ -7910,48 +5890,12 @@ export const polandNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Ośrodek Edukacyjno-Muzealny Roztoczańskiego Parku Narodowego",
-                  "text": "A Roztocze Nemzeti Park oktatási és múzeumi központja.",
-                  "category": "museum",
-                  "coords": [
-                        22.969811,
-                        50.606155
-                  ]
-            },
-            {
-                  "name": "Roztocze Środkowe",
-                  "text": "Természetvédelmi terület a Roztocze-régió középső részén.",
-                  "category": "natural",
-                  "coords": [
-                        23.029867,
-                        50.600355
-                  ]
-            },
-            {
-                  "name": "Pałac Plenipotenta",
-                  "text": "Történelmi kastélyépület a Roztocze Nemzeti Park területén.",
-                  "category": "castle",
-                  "coords": [
-                        22.966818,
-                        50.605859
-                  ]
-            },
-            {
                   "name": "Izba Leśna",
                   "text": "Az Izba Leśna természetrajzi múzeum a Roztocze-erdőségben.",
                   "category": "museum",
                   "coords": [
                         22.987959,
                         50.556814
-                  ]
-            },
-            {
-                  "name": "Browar w Zwierzyńcu",
-                  "text": "Történelmi sörfőzde Zwierzyniecben, amely ma múzeumként működik.",
-                  "category": "museum",
-                  "coords": [
-                        22.967959,
-                        50.607009
                   ]
             },
             {
@@ -7975,48 +5919,12 @@ export const polandNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ośrodek Edukacyjno-Muzealny Roztoczańskiego Parku Narodowego",
-                  "text": "Centrul educațional și muzeal al Parcului Național Roztocze.",
-                  "category": "museum",
-                  "coords": [
-                        22.969811,
-                        50.606155
-                  ]
-            },
-            {
-                  "name": "Roztocze Środkowe",
-                  "text": "O rezervație naturală în partea centrală a regiunii Roztocze.",
-                  "category": "natural",
-                  "coords": [
-                        23.029867,
-                        50.600355
-                  ]
-            },
-            {
-                  "name": "Pałac Plenipotenta",
-                  "text": "O clădire istorică de tip palat în Parcul Național Roztocze.",
-                  "category": "castle",
-                  "coords": [
-                        22.966818,
-                        50.605859
-                  ]
-            },
-            {
                   "name": "Izba Leśna",
                   "text": "Izba Leśna este un muzeu de științe naturale în pădurea Roztocze.",
                   "category": "museum",
                   "coords": [
                         22.987959,
                         50.556814
-                  ]
-            },
-            {
-                  "name": "Browar w Zwierzyńcu",
-                  "text": "O berărie istorică în Zwierzyniec, care astăzi funcționează ca muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        22.967959,
-                        50.607009
                   ]
             },
             {
@@ -8040,48 +5948,12 @@ export const polandNatureV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Ośrodek Edukacyjno-Muzealny Roztoczańskiego Parku Narodowego",
-                  "text": "The educational and museum center of the Roztocze National Park.",
-                  "category": "museum",
-                  "coords": [
-                        22.969811,
-                        50.606155
-                  ]
-            },
-            {
-                  "name": "Roztocze Środkowe",
-                  "text": "A nature reserve in the central part of the Roztocze region.",
-                  "category": "natural",
-                  "coords": [
-                        23.029867,
-                        50.600355
-                  ]
-            },
-            {
-                  "name": "Pałac Plenipotenta",
-                  "text": "A historic palace building in the Roztocze National Park area.",
-                  "category": "castle",
-                  "coords": [
-                        22.966818,
-                        50.605859
-                  ]
-            },
-            {
                   "name": "Izba Leśna",
                   "text": "Izba Leśna is a nature museum in the Roztocze Forest.",
                   "category": "museum",
                   "coords": [
                         22.987959,
                         50.556814
-                  ]
-            },
-            {
-                  "name": "Browar w Zwierzyńcu",
-                  "text": "A historic brewery in Zwierzyniec, now operating as a museum.",
-                  "category": "museum",
-                  "coords": [
-                        22.967959,
-                        50.607009
                   ]
             },
             {

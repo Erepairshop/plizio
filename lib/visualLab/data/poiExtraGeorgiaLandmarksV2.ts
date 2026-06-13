@@ -4803,15 +4803,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Batumi Cathedral of the Mother of God",
-                  "text": "This magnificent cathedral was built around 1900 in Neo-Gothic style, originally as a Catholic church.",
-                  "category": "landmark",
-                  "coords": [
-                        41.638612,
-                        41.646301
-                  ]
-            },
-            {
                   "name": "Church of Saint Hieromartyr Theodore of Adjara",
                   "text": "An Orthodox church in Batumi dedicated to the Saint Hieromartyr Theodore of Adjara.",
                   "category": "landmark",
@@ -5002,15 +4993,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "make",
-                  "text": "Ein moderner Kunstraum für Design und Kreativität, in dem zeitgenössische Objekte und lokale Kunstprojekte entstehen.",
-                  "category": "cultural",
-                  "coords": [
-                        41.633187,
-                        41.642501
-                  ]
-            },
-            {
                   "name": "არტ სტუდია",
                   "text": "Eine lokale Kunstgalerie in Batumi, die als Arbeitsraum für Maler dient und wechselnde Ausstellungen georgischer Kunst zeigt.",
                   "category": "cultural",
@@ -5026,15 +5008,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   "coords": [
                         41.624909,
                         41.625858
-                  ]
-            },
-            {
-                  "name": "მიტოვებული საბჭოთა საარტილერიო ბატარეა #431",
-                  "text": "Die verlassenen Betonstrukturen einer ehemaligen sowjetischen Küstenartilleriebatterie, die einst der Verteidigung von Batumi diente.",
-                  "category": "landmark",
-                  "coords": [
-                        41.642427,
-                        41.621768
                   ]
             },
             {
@@ -5175,15 +5148,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "make",
-                  "text": "Modern művészeti tér a dizájn és a kreativitás számára, ahol kortárs tárgyak és helyi művészeti projektek születnek.",
-                  "category": "cultural",
-                  "coords": [
-                        41.633187,
-                        41.642501
-                  ]
-            },
-            {
                   "name": "არტ სტუდია",
                   "text": "Helyi művészeti galéria Batumiban, amely festők munkahelyeként szolgál és grúz művészeti kiállításoknak ad otthont.",
                   "category": "cultural",
@@ -5199,15 +5163,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   "coords": [
                         41.624909,
                         41.625858
-                  ]
-            },
-            {
-                  "name": "მიტოვებული საბჭოთა საარტილერიო ბატარეა #431",
-                  "text": "Egy egykori szovjet partvédelmi tüzérségi üteg elhagyatott betonstruktúrái, amelyek egykor Batumi védelmét szolgálták.",
-                  "category": "landmark",
-                  "coords": [
-                        41.642427,
-                        41.621768
                   ]
             },
             {
@@ -5348,15 +5303,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "make",
-                  "text": "Un spațiu de artă modern pentru design și creativitate, unde sunt create obiecte contemporane și proiecte artistice locale.",
-                  "category": "cultural",
-                  "coords": [
-                        41.633187,
-                        41.642501
-                  ]
-            },
-            {
                   "name": "არტ სტუდია",
                   "text": "O galerie de artă locală din Batumi, care servește ca spațiu de lucru pentru pictori și găzduiește expoziții de artă georgiană.",
                   "category": "cultural",
@@ -5372,15 +5318,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   "coords": [
                         41.624909,
                         41.625858
-                  ]
-            },
-            {
-                  "name": "მიტოვებული საბჭოთა საარტილერიო ბატარეა #431",
-                  "text": "Structurile abandonate din beton ale unei foste baterii de artilerie de coastă sovietice, care a servit odinioară la apărarea orașului Batumi.",
-                  "category": "landmark",
-                  "coords": [
-                        41.642427,
-                        41.621768
                   ]
             },
             {
@@ -5521,39 +5458,12 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "make",
-                  "text": "A modern art space for design and creativity, where contemporary objects and local art projects are created.",
-                  "category": "cultural",
-                  "coords": [
-                        41.633187,
-                        41.642501
-                  ]
-            },
-            {
                   "name": "არტ სტუდია",
                   "text": "A local art gallery in Batumi that serves as a workspace for painters and hosts exhibitions of Georgian art.",
                   "category": "cultural",
                   "coords": [
                         41.63181,
                         41.638694
-                  ]
-            },
-            {
-                  "name": "Galaktion Tabidze",
-                  "text": "A monument honoring Galaktion Tabidze, one of the most prominent Georgian lyric poets of the 20th century.",
-                  "category": "historical",
-                  "coords": [
-                        41.624909,
-                        41.625858
-                  ]
-            },
-            {
-                  "name": "Abandoned Soviet Artillery Battery #431",
-                  "text": "The abandoned concrete structures of a former Soviet coastal artillery battery that once served to defend Batumi.",
-                  "category": "landmark",
-                  "coords": [
-                        41.642427,
-                        41.621768
                   ]
             },
             {
@@ -5608,24 +5518,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   "coords": [
                         41.631529,
                         41.65091
-                  ]
-            },
-            {
-                  "name": "Batumi Synagogue",
-                  "text": "Completed in 1904, the synagogue is architecturally similar to those in The Hague and Amsterdam.",
-                  "category": "religious",
-                  "coords": [
-                        41.634442,
-                        41.647359
-                  ]
-            },
-            {
-                  "name": "Archeological Museum",
-                  "text": "The museum presents valuable finds from the Colchis era and ancient Greek artifacts discovered in the Adjara region.",
-                  "category": "museum",
-                  "coords": [
-                        41.632142,
-                        41.643151
                   ]
             },
             {
@@ -6776,51 +6668,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   "coords": [
                         42.59497,
                         42.32692
-                  ]
-            },
-            {
-                  "name": "Sanatorium \"Metallurg\"",
-                  "text": "Opened in 1957, this sanatorium impresses with its palatial Stalinist architecture.",
-                  "category": "landmark",
-                  "coords": [
-                        42.59364,
-                        42.325415
-                  ]
-            },
-            {
-                  "name": "Sanatorium \"Tsentrosoyuz\"",
-                  "text": "A classic sanatorium building in Tskaltubo, recalling the heyday of Soviet wellness tourism.",
-                  "category": "landmark",
-                  "coords": [
-                        42.59214,
-                        42.322069
-                  ]
-            },
-            {
-                  "name": "Otia Ioseliani House-Museum",
-                  "text": "A museum dedicated to the life and work of the well-known Georgian writer Otia Ioseliani.",
-                  "category": "museum",
-                  "coords": [
-                        42.592205,
-                        42.320595
-                  ]
-            },
-            {
-                  "name": "Sanatorium \"Miner\"",
-                  "text": "A sanatorium built in 1951, designed by architects M. Melegi and G. Khimshiashvili.",
-                  "category": "landmark",
-                  "coords": [
-                        42.602694,
-                        42.328904
-                  ]
-            },
-            {
-                  "name": "Sanatorium \"Iveria\"",
-                  "text": "A massive spa complex built in 1961 for the sulfur and radon baths of Tskaltubo.",
-                  "category": "landmark",
-                  "coords": [
-                        42.604656,
-                        42.330035
                   ]
             },
             {
@@ -8612,39 +8459,12 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tetra Cave",
-                  "text": "A white limestone cave known for its speleotherapy potential for respiratory conditions.",
-                  "category": "natural",
-                  "coords": [
-                        42.617117,
-                        42.329776
-                  ]
-            },
-            {
                   "name": "Sataplia Nature Reserve",
                   "text": "A protected area preserving ancient Colchic forests and fossilized dinosaur tracks.",
                   "category": "natural",
                   "coords": [
                         42.669372,
                         42.318224
-                  ]
-            },
-            {
-                  "name": "Sanatorium \"Imereti\"",
-                  "text": "An impressive Soviet-era sanatorium building in the health resort of Tskaltubo.",
-                  "category": "landmark",
-                  "coords": [
-                        42.609884,
-                        42.326136
-                  ]
-            },
-            {
-                  "name": "Sanatorium \"Savane\"",
-                  "text": "This 1975 Brutalist-style resort building was designed by architects Intskirveli and Potshishvili.",
-                  "category": "landmark",
-                  "coords": [
-                        42.606857,
-                        42.324412
                   ]
             },
             {
@@ -11076,15 +10896,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Machakhela Weapons Forge Museum",
-                  "text": "Ein spezialisiertes Museum im Machakhela-Tal, das die traditionsreiche lokale Herstellung von Feuerwaffen zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        41.855216,
-                        41.490695
-                  ]
-            },
-            {
                   "name": "ზედა ჩხუტუნეთის მაჭახლის ისტორიულ-ეთნოგრაფიული მუზეუმი",
                   "text": "Ein völkerkundliches Museum in einem Bergdorf, das Einblicke in das historische Leben im Machakhela-Tal bietet.",
                   "category": "museum",
@@ -11201,15 +11012,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   "coords": [
                         41.780197,
                         41.591811
-                  ]
-            },
-            {
-                  "name": "Machakhela Weapons Forge Museum",
-                  "text": "A Macsahela-völgyben található múzeum, amely a lőfegyverek készítésének nagy múltú helyi hagyományait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        41.855216,
-                        41.490695
                   ]
             },
             {
@@ -11332,15 +11134,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Machakhela Weapons Forge Museum",
-                  "text": "Un muzeu specializat din valea Machakhela, care prezintă tradiția locală a fabricării armelor de foc.",
-                  "category": "museum",
-                  "coords": [
-                        41.855216,
-                        41.490695
-                  ]
-            },
-            {
                   "name": "ზედა ჩხუტუნეთის მაჭახლის ისტორიულ-ეთნოგრაფიული მუზეუმი",
                   "text": "Un muzeu etnografic într-un sat de munte, ce oferă perspective asupra vieții istorice din valea Machakhela.",
                   "category": "museum",
@@ -11460,15 +11253,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Machakhela Weapons Forge Museum",
-                  "text": "A specialized museum in the Machakhela valley showcasing the traditional local craft of firearm production.",
-                  "category": "museum",
-                  "coords": [
-                        41.855216,
-                        41.490695
-                  ]
-            },
-            {
                   "name": "ზედა ჩხუტუნეთის მაჭახლის ისტორიულ-ეთნოგრაფიული მუზეუმი",
                   "text": "An ethnographic museum in a mountain village offering insights into historical life in the Machakhela valley.",
                   "category": "museum",
@@ -11529,24 +11313,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   "coords": [
                         41.891284,
                         41.589152
-                  ]
-            },
-            {
-                  "name": "Machakhela National Park",
-                  "text": "A national park along the Turkish border protected for its dense rainforests and rare flora.",
-                  "category": "natural",
-                  "coords": [
-                        41.825876,
-                        41.487574
-                  ]
-            },
-            {
-                  "name": "Chkhutuneti Culture House",
-                  "text": "A cultural center in the mountain village of Chkhutuneti dedicated to preserving local traditions and dances.",
-                  "category": "cultural",
-                  "coords": [
-                        41.858418,
-                        41.487718
                   ]
             },
             {
@@ -11624,15 +11390,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
     id: "gveleti-waterfall-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Kasbek",
-                  "text": "Ein majestätischer, 5.054 Meter hoher erloschener Stratovulkan, der das Wahrzeichen des Zentralkaukasus ist.",
-                  "category": "natural",
-                  "coords": [
-                        44.518111,
-                        42.696941
-                  ]
-            },
-            {
                   "name": "საბერწე",
                   "text": "Ein beliebter Aussichtspunkt auf 3.000 Metern Höhe, der einen frontalen Blick auf den Kazbeg-Gletscher bietet.",
                   "category": "natural",
@@ -11648,15 +11405,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   "coords": [
                         44.58962,
                         42.664622
-                  ]
-            },
-            {
-                  "name": "Amazing view of the church",
-                  "text": "Ein Aussichtspunkt mit direktem Blick auf die berühmte Gergetier Dreifaltigkeitskirche vor der Kulisse der Berge.",
-                  "category": "natural",
-                  "coords": [
-                        44.611202,
-                        42.66487
                   ]
             },
             {
@@ -11687,15 +11435,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pansheti Mineral Spring",
-                  "text": "Ein kleines Becken mit sprudelndem, kohlensäurehaltigem Mineralwasser direkt am Fluss Tergi.",
-                  "category": "landmark",
-                  "coords": [
-                        44.629177,
-                        42.646023
-                  ]
-            },
-            {
                   "name": "არშის ციხე",
                   "text": "Eine uneinnehmbare mittelalterliche Festung, die spektakulär in eine senkrechte Felswand oberhalb von Arsha gebaut wurde.",
                   "category": "castle",
@@ -11720,15 +11459,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   "coords": [
                         44.642986,
                         42.660387
-                  ]
-            },
-            {
-                  "name": "Gergeti-Dreifaltigkeitskirche",
-                  "text": "Diese im frühen 14. Jahrhundert erbaute Kirche thront auf einem Bergrücken vor der Kulisse des Berges Kasbek.",
-                  "category": "landmark",
-                  "coords": [
-                        44.620476,
-                        42.662389
                   ]
             },
             {
@@ -11770,15 +11500,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Kazbek",
-                  "text": "Fenséges, 5054 méter magas kialudt rétegvulkán, amely a Középső-Kaukázus jelképe.",
-                  "category": "natural",
-                  "coords": [
-                        44.518111,
-                        42.696941
-                  ]
-            },
-            {
                   "name": "საბერწე",
                   "text": "Népszerű kilátópont 3000 méteres magasságban, ahonnan szemből látható a Kazbeg-gleccser.",
                   "category": "natural",
@@ -11794,15 +11515,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   "coords": [
                         44.58962,
                         42.664622
-                  ]
-            },
-            {
-                  "name": "Amazing view of the church",
-                  "text": "Kilátópont, ahonnan közvetlenül rálátni a híres Gergeti Szentháromság-templomra a hegyek hátterével.",
-                  "category": "natural",
-                  "coords": [
-                        44.611202,
-                        42.66487
                   ]
             },
             {
@@ -11833,15 +11545,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pansheti Mineral Spring",
-                  "text": "Egy kis medence pezsgő, szénsavas ásványvízzel közvetlenül a Tergi-folyó partján.",
-                  "category": "landmark",
-                  "coords": [
-                        44.629177,
-                        42.646023
-                  ]
-            },
-            {
                   "name": "არშის ციხე",
                   "text": "Egy bevehetetlen középkori erőd, amely látványosan épült be az Arsha feletti függőleges sziklafalba.",
                   "category": "castle",
@@ -11866,15 +11569,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   "coords": [
                         44.642986,
                         42.660387
-                  ]
-            },
-            {
-                  "name": "Gergeti Szentháromság templom",
-                  "text": "A 14. század elején épült templom egy hegygerincen áll, a Kazbek-csúcs drámai kulisszája előtt.",
-                  "category": "landmark",
-                  "coords": [
-                        44.620476,
-                        42.662389
                   ]
             },
             {
@@ -11916,15 +11610,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "mqinvarcveri - Kazbek",
-                  "text": "Un stratovulcan adormit majestuos, cu o înălțime de 5.054 metri, simbolul Caucazului Central.",
-                  "category": "natural",
-                  "coords": [
-                        44.518111,
-                        42.696941
-                  ]
-            },
-            {
                   "name": "საბერწე",
                   "text": "Un punct de observație popular la 3.000 de metri altitudine, oferind o vedere frontală asupra ghețarului Kazbeg.",
                   "category": "natural",
@@ -11940,15 +11625,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   "coords": [
                         44.58962,
                         42.664622
-                  ]
-            },
-            {
-                  "name": "Amazing view of the church",
-                  "text": "Un punct de observație cu vedere directă spre faimoasa biserică Gergeti, pe fundalul munților.",
-                  "category": "natural",
-                  "coords": [
-                        44.611202,
-                        42.66487
                   ]
             },
             {
@@ -11976,15 +11652,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   "coords": [
                         44.602523,
                         42.684952
-                  ]
-            },
-            {
-                  "name": "Pansheti Mineral Spring",
-                  "text": "Un mic bazin cu apă minerală carbogazoasă efervescentă chiar pe malul râului Tergi.",
-                  "category": "landmark",
-                  "coords": [
-                        44.629177,
-                        42.646023
                   ]
             },
             {
@@ -12062,42 +11729,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Kazbegi",
-                  "text": "A majestic 5,054-metre dormant stratovolcano that is the iconic landmark of the Central Caucasus.",
-                  "category": "natural",
-                  "coords": [
-                        44.518111,
-                        42.696941
-                  ]
-            },
-            {
-                  "name": "Sabertse",
-                  "text": "A popular viewpoint at 3,000 metres altitude, offering a frontal view of the Kazbeg glacier.",
-                  "category": "natural",
-                  "coords": [
-                        44.573586,
-                        42.65881
-                  ]
-            },
-            {
-                  "name": "Best view to Kazbeg",
-                  "text": "This location offers the famous panorama of the snow-capped Kazbeg peak above the green valley.",
-                  "category": "natural",
-                  "coords": [
-                        44.58962,
-                        42.664622
-                  ]
-            },
-            {
-                  "name": "Amazing view of the church",
-                  "text": "A viewpoint with a direct look at the famous Gergeti Trinity Church against the backdrop of the mountains.",
-                  "category": "natural",
-                  "coords": [
-                        44.611202,
-                        42.66487
-                  ]
-            },
-            {
                   "name": "view of church and mountains",
                   "text": "From here, you can capture the classic postcard view of the church on the hill and the high peaks.",
                   "category": "natural",
@@ -12125,24 +11756,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pansheti Mineral Spring",
-                  "text": "A small pool of bubbling, carbonated mineral water located right on the banks of the Tergi River.",
-                  "category": "landmark",
-                  "coords": [
-                        44.629177,
-                        42.646023
-                  ]
-            },
-            {
-                  "name": "Arsha fortress",
-                  "text": "An impregnable medieval fortress built spectacularly into a vertical cliff face above Arsha.",
-                  "category": "castle",
-                  "coords": [
-                        44.599299,
-                        42.631729
-                  ]
-            },
-            {
                   "name": "Village Futures Oldfamsheta",
                   "text": "The abandoned ruins of the old Pansheti village, reflecting the historical lifestyle in the High Caucasus.",
                   "category": "historical",
@@ -12158,15 +11771,6 @@ export const poiExtraGeorgiaLandmarksV2: POI[] = [
                   "coords": [
                         44.642986,
                         42.660387
-                  ]
-            },
-            {
-                  "name": "Gergeti Trinity Church",
-                  "text": "Built in the early 14th century, this iconic church sits on a mountain ridge under the backdrop of Mount Kazbek.",
-                  "category": "landmark",
-                  "coords": [
-                        44.620476,
-                        42.662389
                   ]
             },
             {

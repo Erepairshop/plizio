@@ -355,50 +355,10 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
   },
   {
     id: "sao-nicolau-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Buraco Azul",
-                  "text": "Das Buraco Azul auf São Nicolau ist ein tiefes, natürliches Felsenbecken an der Küste, das durch sein magisch leuchtendes, azurblaues Wasser besticht.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.303423,
-                        16.655843
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Buraco Azul",
-                  "text": "A São Nicolau-i Buraco Azul egy mély, természetes sziklamedence a part mentén, amely varázslatos, élénk azúrkék vizéről híres.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.303423,
-                        16.655843
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Buraco Azul",
-                  "text": "Buraco Azul de pe insula São Nicolau este un bazin stâncos natural, adânc, renumit pentru apele sale de un albastru azur strălucitor.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.303423,
-                        16.655843
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Buraco Azul",
-                  "text": "The Buraco Azul on São Nicolau is a deep, natural coastal rock pool renowned for its mesmerizing, glowing azure waters.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.303423,
-                        16.655843
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "island",
     parent: "CV-RB",
@@ -1449,30 +1409,12 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Farol da D. Amélia",
-                  "text": "Der Leuchtturm Farol da D. Amélia steht an der felsigen Küste von São Pedro und markiert die südwestliche Spitze von São Vicente.",
-                  "category": "landmark",
-                  "coords": [
-                        -25.085421,
-                        16.826586
-                  ]
-            },
-            {
                   "name": "Praia de São Pedro",
                   "text": "Die windige Praia de São Pedro nahe dem Monte Cara ist ein beliebter Küstenabschnitt für Windsurfer.",
                   "category": "recreational",
                   "coords": [
                         -25.066093,
                         16.826919
-                  ]
-            },
-            {
-                  "name": "Statue Cesária Évora;Cesária Évora",
-                  "text": "Diese Statue ist der berühmten kapverdischen Morna-Sängerin Cesária Évora gewidmet, die liebevoll \"die barfüßige Diva\" genannt wurde.",
-                  "category": "landmark",
-                  "coords": [
-                        -25.05519,
-                        16.838049
                   ]
             },
             {
@@ -1505,30 +1447,12 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Farol da D. Amélia",
-                  "text": "A Farol da D. Amélia világítótorony São Pedro sziklás partján áll, São Vicente délnyugati csücskét jelölve.",
-                  "category": "landmark",
-                  "coords": [
-                        -25.085421,
-                        16.826586
-                  ]
-            },
-            {
                   "name": "Praia de São Pedro",
                   "text": "A Monte Cara közelében található szeles Praia de São Pedro a szörfösök kedvelt partszakasza.",
                   "category": "recreational",
                   "coords": [
                         -25.066093,
                         16.826919
-                  ]
-            },
-            {
-                  "name": "Statue Cesária Évora;Cesária Évora",
-                  "text": "Ez a szobor a híres zöld-foki-szigeteki morna énekesnőnek, Cesária Évorának állít emléket, akit szeretettel \"mezítlábas dívának\" is neveztek.",
-                  "category": "landmark",
-                  "coords": [
-                        -25.05519,
-                        16.838049
                   ]
             },
             {
@@ -1561,30 +1485,12 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Farol da D. Amélia",
-                  "text": "Farul Farol da D. Amélia stă pe coasta stâncoasă a São Pedro, marcând extremitatea sud-vestică a insulei São Vicente.",
-                  "category": "landmark",
-                  "coords": [
-                        -25.085421,
-                        16.826586
-                  ]
-            },
-            {
                   "name": "Praia de São Pedro",
                   "text": "Vânturoasa Praia de São Pedro, lângă Monte Cara, este o porțiune de coastă populară pentru windsurfing.",
                   "category": "recreational",
                   "coords": [
                         -25.066093,
                         16.826919
-                  ]
-            },
-            {
-                  "name": "Statue Cesária Évora;Cesária Évora",
-                  "text": "Această statuie este dedicată celebrei cântărețe de morna din Capul Verde, Cesária Évora, cunoscută cu afecțiune ca \"diva desculță\".",
-                  "category": "landmark",
-                  "coords": [
-                        -25.05519,
-                        16.838049
                   ]
             },
             {
@@ -1617,30 +1523,12 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Farol da D. Amélia",
-                  "text": "The Farol da D. Amélia lighthouse stands on the rocky coast of São Pedro, marking the southwestern tip of São Vicente.",
-                  "category": "landmark",
-                  "coords": [
-                        -25.085421,
-                        16.826586
-                  ]
-            },
-            {
                   "name": "Praia de São Pedro",
                   "text": "The windy Praia de São Pedro near Monte Cara is a popular stretch of coastline for windsurfers.",
                   "category": "recreational",
                   "coords": [
                         -25.066093,
                         16.826919
-                  ]
-            },
-            {
-                  "name": "Statue Cesária Évora;Cesária Évora",
-                  "text": "This statue is dedicated to the famous Cape Verdean morna singer Cesária Évora, affectionately known as the \"barefoot diva\".",
-                  "category": "landmark",
-                  "coords": [
-                        -25.05519,
-                        16.838049
                   ]
             },
             {
@@ -2553,24 +2441,6 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Laundry",
-                  "text": "Ein historischer gemeinschaftlicher Waschplatz, der das traditionelle, tägliche Landleben der Bewohner in Tarrafal widerspiegelt.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.744409,
-                        15.264063
-                  ]
-            },
-            {
-                  "name": "Latrines",
-                  "text": "Erhaltene historische Latrinenanlagen der berüchtigten ehemaligen Strafkolonie Tarrafal.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.743339,
-                        15.263894
-                  ]
-            },
-            {
                   "name": "Farol da Ponta Preta",
                   "text": "Ein malerischer Küstenaussichtspunkt in der Nähe des Leuchtturms, der weite Ausblicke auf den Atlantischen Ozean bietet.",
                   "category": "natural",
@@ -2598,48 +2468,12 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tarrafal Letras",
-                  "text": "Ein großer, farbenfroher typografischer Schriftzug mit dem Namen der Stadt, beliebt für Touristenfotos.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.756195,
-                        15.279292
-                  ]
-            },
-            {
-                  "name": "Surf",
-                  "text": "Ein sandiger Küstenabschnitt, der für seine rollenden Atlantikwellen bekannt ist und sich ideal zum Surfen eignet.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.75868,
-                        15.272502
-                  ]
-            },
-            {
-                  "name": "King fisher",
-                  "text": "Eine entspannende sandige Bucht, die von der lokalen Fischerkultur geprägt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.757746,
-                        15.275385
-                  ]
-            },
-            {
                   "name": "Praia do Tarrafal",
                   "text": "Ein malerischer, halbmondförmiger Strand, gesäumt von Palmen und dunklem Vulkansand.",
                   "category": "recreational",
                   "coords": [
                         -23.752849,
                         15.28088
-                  ]
-            },
-            {
-                  "name": "Mar di Baxu",
-                  "text": "Ein geschützter sandiger Küstenbereich, der oft von lokalen Fischern genutzt wird, um ihren Tagesfang anzulanden.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.754777,
-                        15.279478
                   ]
             }
       ],
@@ -2651,24 +2485,6 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
                   "coords": [
                         -23.755065,
                         15.217878
-                  ]
-            },
-            {
-                  "name": "Laundry",
-                  "text": "Történelmi közös mosóterület, amely a tarrafali lakosok hagyományos, mindennapi vidéki életét tükrözi.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.744409,
-                        15.264063
-                  ]
-            },
-            {
-                  "name": "Latrines",
-                  "text": "A hírhedt egykori tarrafali büntetőtelep fennmaradt történelmi latrinalétesítményei.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.743339,
-                        15.263894
                   ]
             },
             {
@@ -2699,48 +2515,12 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tarrafal Letras",
-                  "text": "Nagy, színes tipográfiai felirat a város nevével, amely népszerű a turisták fotóin.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.756195,
-                        15.279292
-                  ]
-            },
-            {
-                  "name": "Surf",
-                  "text": "Homokos tengerparti szakasz, amely jól ismert az Atlanti-óceán hullámairól, így ideális a szörfözéshez.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.75868,
-                        15.272502
-                  ]
-            },
-            {
-                  "name": "King fisher",
-                  "text": "Pihentető homokos öböl a parton, amelyet a helyi halászati kultúra vesz körül.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.757746,
-                        15.275385
-                  ]
-            },
-            {
                   "name": "Praia do Tarrafal",
                   "text": "Festői, félhold alakú strand, amelyet pálmafák és sötét vulkáni homok szegélyeznek.",
                   "category": "recreational",
                   "coords": [
                         -23.752849,
                         15.28088
-                  ]
-            },
-            {
-                  "name": "Mar di Baxu",
-                  "text": "Védett homokos tengerparti terület, amelyet a helyi halászok gyakran használnak a napi zsákmány partra hozására.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.754777,
-                        15.279478
                   ]
             }
       ],
@@ -2752,24 +2532,6 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
                   "coords": [
                         -23.755065,
                         15.217878
-                  ]
-            },
-            {
-                  "name": "Laundry",
-                  "text": "O zonă comună de spălat istorică, care reflectă viața rurală tradițională și de zi cu zi a locuitorilor din Tarrafal.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.744409,
-                        15.264063
-                  ]
-            },
-            {
-                  "name": "Latrines",
-                  "text": "Latrine istorice conservate din cadrul fostei colonii penale de la Tarrafal.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.743339,
-                        15.263894
                   ]
             },
             {
@@ -2800,48 +2562,12 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tarrafal Letras",
-                  "text": "Un semn tipografic mare și colorat cu numele orașului, popular pentru fotografiile turiștilor.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.756195,
-                        15.279292
-                  ]
-            },
-            {
-                  "name": "Surf",
-                  "text": "O fâșie de coastă nisipoasă, binecunoscută pentru valurile sale atlantice, ideală pentru surfing.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.75868,
-                        15.272502
-                  ]
-            },
-            {
-                  "name": "King fisher",
-                  "text": "Un golf nisipos relaxant, înconjurat de cultura locală de pescuit.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.757746,
-                        15.275385
-                  ]
-            },
-            {
                   "name": "Praia do Tarrafal",
                   "text": "O plajă pitorească în formă de semilună, încadrată de palmieri și nisip vulcanic întunecat.",
                   "category": "recreational",
                   "coords": [
                         -23.752849,
                         15.28088
-                  ]
-            },
-            {
-                  "name": "Mar di Baxu",
-                  "text": "O zonă de coastă nisipoasă și adăpostită, folosită frecvent de pescarii locali pentru a aduce prada zilnică.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.754777,
-                        15.279478
                   ]
             }
       ],
@@ -2853,24 +2579,6 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
                   "coords": [
                         -23.755065,
                         15.217878
-                  ]
-            },
-            {
-                  "name": "Laundry",
-                  "text": "A historic communal washing area that reflects the traditional, daily rural life of residents in Tarrafal.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.744409,
-                        15.264063
-                  ]
-            },
-            {
-                  "name": "Latrines",
-                  "text": "Preserved historical latrine facilities at the notorious former Tarrafal penal colony.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.743339,
-                        15.263894
                   ]
             },
             {
@@ -2901,48 +2609,12 @@ export const poiExtraCapeverdeNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tarrafal Letras",
-                  "text": "A large, colorful typographic sign spelling out the city's name, popular for tourist photographs.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.756195,
-                        15.279292
-                  ]
-            },
-            {
-                  "name": "Surf",
-                  "text": "A sandy coastal stretch well known for its rolling Atlantic waves, ideal for surfing.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.75868,
-                        15.272502
-                  ]
-            },
-            {
-                  "name": "King fisher",
-                  "text": "A relaxing sandy cove area on the bay, surrounded by local fishing culture.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.757746,
-                        15.275385
-                  ]
-            },
-            {
                   "name": "Praia do Tarrafal",
                   "text": "A scenic crescent-shaped beach framed by palm trees and dark volcanic sand.",
                   "category": "recreational",
                   "coords": [
                         -23.752849,
                         15.28088
-                  ]
-            },
-            {
-                  "name": "Mar di Baxu",
-                  "text": "A sheltered sandy coastal area frequently used by local fishermen to bring in their daily catch.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.754777,
-                        15.279478
                   ]
             }
       ]

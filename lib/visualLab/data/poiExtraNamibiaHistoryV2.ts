@@ -2338,15 +2338,6 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
                         14.987959,
                         -17.511937
                   ]
-            },
-            {
-                  "name": "Outapi War Museum",
-                  "text": "Dieses Militärhistorische Museum bewahrt Artefakte und Geschichten aus den Konflikten der Region in der Nähe des Ombalantu Baobab.",
-                  "category": "museum",
-                  "coords": [
-                        14.97916,
-                        -17.504227
-                  ]
             }
       ],
       "hu": [
@@ -2357,15 +2348,6 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
                   "coords": [
                         14.987959,
                         -17.511937
-                  ]
-            },
-            {
-                  "name": "Outapi War Museum",
-                  "text": "Ez a hadtörténeti múzeum a régió konfliktusainak tárgyi emlékeit és történeteit őrzi az Ombalantu Baobab közelében.",
-                  "category": "museum",
-                  "coords": [
-                        14.97916,
-                        -17.504227
                   ]
             }
       ],
@@ -2378,15 +2360,6 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
                         14.987959,
                         -17.511937
                   ]
-            },
-            {
-                  "name": "Outapi War Museum",
-                  "text": "Acest muzeu de istorie militară păstrează artefacte și povești din conflictele regiunii lângă Ombalantu Baobab.",
-                  "category": "museum",
-                  "coords": [
-                        14.97916,
-                        -17.504227
-                  ]
             }
       ],
       "en": [
@@ -2397,15 +2370,6 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
                   "coords": [
                         14.987959,
                         -17.511937
-                  ]
-            },
-            {
-                  "name": "Outapi War Museum",
-                  "text": "This military history museum preserves artifacts and stories from the region's conflicts near the Ombalantu Baobab.",
-                  "category": "museum",
-                  "coords": [
-                        14.97916,
-                        -17.504227
                   ]
             }
       ]

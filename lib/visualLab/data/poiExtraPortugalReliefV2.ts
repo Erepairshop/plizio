@@ -238,15 +238,6 @@ export const portugalReliefV2: POI[] = [
                         -7.838854,
                         40.204037
                   ]
-            },
-            {
-                  "name": "Praia Fluvial de Agroal",
-                  "text": "Ein Flussstrand in der Serra do Açor, bekannt für sein erfrischendes Quellwasser.",
-                  "category": "recreational",
-                  "coords": [
-                        -7.884034,
-                        40.264656
-                  ]
             }
       ],
       "hu": [
@@ -320,15 +311,6 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -7.838854,
                         40.204037
-                  ]
-            },
-            {
-                  "name": "Praia Fluvial de Agroal",
-                  "text": "Folyóparti strand a Serra do Açor hegységben, amely frissítő forrásvizéről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        -7.884034,
-                        40.264656
                   ]
             }
       ],
@@ -404,15 +386,6 @@ export const portugalReliefV2: POI[] = [
                         -7.838854,
                         40.204037
                   ]
-            },
-            {
-                  "name": "Praia Fluvial de Agroal",
-                  "text": "O plajă fluvială în Serra do Açor, cunoscută pentru apa sa de izvor revigorantă.",
-                  "category": "recreational",
-                  "coords": [
-                        -7.884034,
-                        40.264656
-                  ]
             }
       ],
       "en": [
@@ -486,15 +459,6 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -7.838854,
                         40.204037
-                  ]
-            },
-            {
-                  "name": "Praia Fluvial de Agroal",
-                  "text": "A river beach in Serra do Açor, known for its refreshing spring waters.",
-                  "category": "recreational",
-                  "coords": [
-                        -7.884034,
-                        40.264656
                   ]
             }
       ]
@@ -1050,30 +1014,12 @@ export const portugalReliefV2: POI[] = [
     id: "portugal-serra-de-montejunto-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Paisagem Protegida da Serra de Montejunto",
-                  "text": "Eine geschützte Landschaft in der Bergkette Serra de Montejunto.",
-                  "category": "natural",
-                  "coords": [
-                        -9.055531,
-                        39.187458
-                  ]
-            },
-            {
                   "name": "Real Fábrica de Gelo da Serra de Montejunto",
                   "text": "Eine historische Stätte in der Serra de Montejunto mit einer alten königlichen Eisfabrik.",
                   "category": "historical",
                   "coords": [
                         -9.050637,
                         39.177782
-                  ]
-            },
-            {
-                  "name": "Castro de Pragança",
-                  "text": "Eine archäologische Ausgrabungsstätte in der Serra de Montejunto mit Überresten einer prähistorischen Siedlung.",
-                  "category": "historical",
-                  "coords": [
-                        -9.058899,
-                        39.198532
                   ]
             },
             {
@@ -1097,30 +1043,12 @@ export const portugalReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Paisagem Protegida da Serra de Montejunto",
-                  "text": "Védett tájvédelmi körzet a Serra de Montejunto hegységben.",
-                  "category": "natural",
-                  "coords": [
-                        -9.055531,
-                        39.187458
-                  ]
-            },
-            {
                   "name": "Real Fábrica de Gelo da Serra de Montejunto",
                   "text": "Történelmi helyszín a Serra de Montejunto hegységben, ahol egy régi királyi jéggyár található.",
                   "category": "historical",
                   "coords": [
                         -9.050637,
                         39.177782
-                  ]
-            },
-            {
-                  "name": "Castro de Pragança",
-                  "text": "Régészeti lelőhely a Serra de Montejunto hegységben, egy őskori település maradványaival.",
-                  "category": "historical",
-                  "coords": [
-                        -9.058899,
-                        39.198532
                   ]
             },
             {
@@ -1144,30 +1072,12 @@ export const portugalReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Paisagem Protegida da Serra de Montejunto",
-                  "text": "O zonă de peisaj protejat din lanțul muntos Serra de Montejunto.",
-                  "category": "natural",
-                  "coords": [
-                        -9.055531,
-                        39.187458
-                  ]
-            },
-            {
                   "name": "Real Fábrica de Gelo da Serra de Montejunto",
                   "text": "Un sit istoric din Serra de Montejunto, unde se află o veche fabrică regală de gheață.",
                   "category": "historical",
                   "coords": [
                         -9.050637,
                         39.177782
-                  ]
-            },
-            {
-                  "name": "Castro de Pragança",
-                  "text": "Un sit arheologic din Serra de Montejunto cu vestigii ale unei așezări preistorice.",
-                  "category": "historical",
-                  "coords": [
-                        -9.058899,
-                        39.198532
                   ]
             },
             {
@@ -1191,30 +1101,12 @@ export const portugalReliefV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Paisagem Protegida da Serra de Montejunto",
-                  "text": "A protected landscape area in the Serra de Montejunto mountain range.",
-                  "category": "natural",
-                  "coords": [
-                        -9.055531,
-                        39.187458
-                  ]
-            },
-            {
                   "name": "Real Fábrica de Gelo da Serra de Montejunto",
                   "text": "A historical site in Serra de Montejunto featuring an old royal ice factory.",
                   "category": "historical",
                   "coords": [
                         -9.050637,
                         39.177782
-                  ]
-            },
-            {
-                  "name": "Castro de Pragança",
-                  "text": "An archaeological site in Serra de Montejunto with remains of a prehistoric settlement.",
-                  "category": "historical",
-                  "coords": [
-                        -9.058899,
-                        39.198532
                   ]
             },
             {
@@ -1759,86 +1651,10 @@ export const portugalReliefV2: POI[] = [
   },
   {
     id: "portugal-serra-da-lapa-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Pelourinho da Lapa",
-                  "text": "Ein historischer Pranger in der Serra da Lapa, der als Symbol der lokalen Gerichtsbarkeit gilt.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.576613,
-                        40.870273
-                  ]
-            },
-            {
-                  "name": "Nossa Senhora da Lapa",
-                  "text": "Ein bedeutendes Heiligtum in der Serra da Lapa und einer der ältesten Wallfahrtsorte Portugals.",
-                  "category": "religious",
-                  "coords": [
-                        -7.575147,
-                        40.870167
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Pelourinho da Lapa",
-                  "text": "Történelmi szégyenoszlop a Serra da Lapa hegységben, a helyi igazságszolgáltatás egykori jelképe.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.576613,
-                        40.870273
-                  ]
-            },
-            {
-                  "name": "Nossa Senhora da Lapa",
-                  "text": "Jelentős szentély a Serra da Lapa hegységben, Portugália egyik legrégebbi zarándokhelye.",
-                  "category": "religious",
-                  "coords": [
-                        -7.575147,
-                        40.870167
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Pelourinho da Lapa",
-                  "text": "Un stâlp al infamiei istoric în Serra da Lapa, simbol al jurisdicției locale trecute.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.576613,
-                        40.870273
-                  ]
-            },
-            {
-                  "name": "Nossa Senhora da Lapa",
-                  "text": "Un sanctuar important în Serra da Lapa și unul dintre cele mai vechi locuri de pelerinaj din Portugalia.",
-                  "category": "religious",
-                  "coords": [
-                        -7.575147,
-                        40.870167
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Pelourinho da Lapa",
-                  "text": "A historic pillory in the Serra da Lapa, serving as a symbol of past local jurisdiction.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.576613,
-                        40.870273
-                  ]
-            },
-            {
-                  "name": "Nossa Senhora da Lapa",
-                  "text": "A significant sanctuary in the Serra da Lapa and one of Portugal's oldest pilgrimage sites.",
-                  "category": "religious",
-                  "coords": [
-                        -7.575147,
-                        40.870167
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "PT",
@@ -2886,15 +2702,6 @@ export const portugalReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Aquático de Fafe",
-                  "text": "Wasserpark in den Bergen der Serra de Fafe.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.182206,
-                        41.439141
-                  ]
-            },
-            {
                   "name": "Praia Fluvial de Docim",
                   "text": "Flussstrand am Ufer des Rio Docim in der Serra de Fafe.",
                   "category": "recreational",
@@ -2966,15 +2773,6 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.186083,
                         41.470855
-                  ]
-            },
-            {
-                  "name": "Parque Aquático de Fafe",
-                  "text": "Vízividámpark a Serra de Fafe hegyeiben.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.182206,
-                        41.439141
                   ]
             },
             {
@@ -3052,15 +2850,6 @@ export const portugalReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parque Aquático de Fafe",
-                  "text": "Parac acvatic în munții Serra de Fafe.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.182206,
-                        41.439141
-                  ]
-            },
-            {
                   "name": "Praia Fluvial de Docim",
                   "text": "Plajă fluvială pe malul râului Docim în Serra de Fafe.",
                   "category": "recreational",
@@ -3132,15 +2921,6 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.186083,
                         41.470855
-                  ]
-            },
-            {
-                  "name": "Parque Aquático de Fafe",
-                  "text": "Water park in the Serra de Fafe mountains.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.182206,
-                        41.439141
                   ]
             },
             {
@@ -4803,15 +4583,6 @@ export const portugalReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Villa Beatriz",
-                  "text": "Ein historisches Herrenhaus und Anwesen in der Region Serra do Maroi.",
-                  "category": "historical",
-                  "coords": [
-                        -8.279634,
-                        41.53218
-                  ]
-            },
-            {
                   "name": "Miradouro de Santa Marinha",
                   "text": "Ein Aussichtspunkt mit Blick über die Landschaft von Santa Marinha.",
                   "category": "natural",
@@ -4856,15 +4627,6 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.25265,
                         41.527654
-                  ]
-            },
-            {
-                  "name": "Villa Beatriz",
-                  "text": "Történelmi udvarház és birtok a Serra do Maroi régióban.",
-                  "category": "historical",
-                  "coords": [
-                        -8.279634,
-                        41.53218
                   ]
             },
             {
@@ -4915,15 +4677,6 @@ export const portugalReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Villa Beatriz",
-                  "text": "O vilă istorică și domeniu în regiunea Serra do Maroi.",
-                  "category": "historical",
-                  "coords": [
-                        -8.279634,
-                        41.53218
-                  ]
-            },
-            {
                   "name": "Miradouro de Santa Marinha",
                   "text": "Un punct de observație cu vedere asupra peisajului din Santa Marinha.",
                   "category": "natural",
@@ -4968,15 +4721,6 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.25265,
                         41.527654
-                  ]
-            },
-            {
-                  "name": "Villa Beatriz",
-                  "text": "A historic manor house and estate in the Serra do Maroi region.",
-                  "category": "historical",
-                  "coords": [
-                        -8.279634,
-                        41.53218
                   ]
             },
             {
@@ -5044,24 +4788,6 @@ export const portugalReliefV2: POI[] = [
                         -8.577473,
                         37.353694
                   ]
-            },
-            {
-                  "name": "Cascata do Barbelote",
-                  "text": "Wasserfall im nördlichen Teil der Serra de Monchique.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.613214,
-                        37.316234
-                  ]
-            },
-            {
-                  "name": "Cascata do Penedo do Buraco",
-                  "text": "Ein natürlicher Wasserfall im nördlichen Teil des Monchique-Gebirges.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.582544,
-                        37.323545
-                  ]
             }
       ],
       "hu": [
@@ -5072,24 +4798,6 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.577473,
                         37.353694
-                  ]
-            },
-            {
-                  "name": "Cascata do Barbelote",
-                  "text": "Vízesés a Serra de Monchique északi részén.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.613214,
-                        37.316234
-                  ]
-            },
-            {
-                  "name": "Cascata do Penedo do Buraco",
-                  "text": "Természetes vízesés a Monchique-hegység északi részén.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.582544,
-                        37.323545
                   ]
             }
       ],
@@ -5102,24 +4810,6 @@ export const portugalReliefV2: POI[] = [
                         -8.577473,
                         37.353694
                   ]
-            },
-            {
-                  "name": "Cascata do Barbelote",
-                  "text": "Cascadă în partea de nord a Serra de Monchique.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.613214,
-                        37.316234
-                  ]
-            },
-            {
-                  "name": "Cascata do Penedo do Buraco",
-                  "text": "O cascadă naturală situată în partea de nord a masivului Monchique.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.582544,
-                        37.323545
-                  ]
             }
       ],
       "en": [
@@ -5130,24 +4820,6 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.577473,
                         37.353694
-                  ]
-            },
-            {
-                  "name": "Cascata do Barbelote",
-                  "text": "Waterfall in the northern part of the Serra de Monchique.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.613214,
-                        37.316234
-                  ]
-            },
-            {
-                  "name": "Cascata do Penedo do Buraco",
-                  "text": "A natural waterfall situated in the northern part of the Monchique range.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.582544,
-                        37.323545
                   ]
             }
       ]
@@ -5694,15 +5366,6 @@ export const portugalReliefV2: POI[] = [
     id: "portugal-serra-da-gralheira-north-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Mamoa Serra da Arada",
-                  "text": "Ein prähistorisches Hügelgrab in der Serra da Arada, das Zeugnis von früher Besiedlung ablegt.",
-                  "category": "historical",
-                  "coords": [
-                        -8.129977,
-                        40.818817
-                  ]
-            },
-            {
                   "name": "Portal do Inferno e Garra",
                   "text": "Eine markante Schlucht und Felsformation in der Serra da Arada mit dramatischen Aussichten.",
                   "category": "landmark",
@@ -5758,15 +5421,6 @@ export const portugalReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Mamoa Serra da Arada",
-                  "text": "Prehisztorikus sírhalom a Serra da Arada hegységben, amely a korai benépesülés emléke.",
-                  "category": "historical",
-                  "coords": [
-                        -8.129977,
-                        40.818817
-                  ]
-            },
             {
                   "name": "Portal do Inferno e Garra",
                   "text": "Látványos szurdok és sziklaalakzat a Serra da Arada hegységben, drámai kilátással.",
@@ -5824,15 +5478,6 @@ export const portugalReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Mamoa Serra da Arada",
-                  "text": "Un mormânt tumular preistoric în Serra da Arada, care atestă locuirea timpurie a zonei.",
-                  "category": "historical",
-                  "coords": [
-                        -8.129977,
-                        40.818817
-                  ]
-            },
-            {
                   "name": "Portal do Inferno e Garra",
                   "text": "O formațiune stâncoasă și o trecătoare spectaculoasă în Serra da Arada, cu vederi dramatice.",
                   "category": "landmark",
@@ -5888,15 +5533,6 @@ export const portugalReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Mamoa Serra da Arada",
-                  "text": "A prehistoric burial mound in the Serra da Arada, providing evidence of early human settlement.",
-                  "category": "historical",
-                  "coords": [
-                        -8.129977,
-                        40.818817
-                  ]
-            },
             {
                   "name": "Portal do Inferno e Garra",
                   "text": "A striking mountain pass and rock formation in the Serra da Arada offering dramatic landscape views.",
@@ -6223,15 +5859,6 @@ export const portugalReliefV2: POI[] = [
                         -8.178583,
                         41.395389
                   ]
-            },
-            {
-                  "name": "Piscinas Municipais de Fafe",
-                  "text": "Ein öffentliches Schwimmbad in der Nähe der Serra de Fafe West für Freizeit und Sport.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.169218,
-                        41.448071
-                  ]
             }
       ],
       "hu": [
@@ -6296,15 +5923,6 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.178583,
                         41.395389
-                  ]
-            },
-            {
-                  "name": "Piscinas Municipais de Fafe",
-                  "text": "Nyilvános úszómedence Serra de Fafe West közelében, amely kikapcsolódást és sportolási lehetőséget kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.169218,
-                        41.448071
                   ]
             }
       ],
@@ -6371,15 +5989,6 @@ export const portugalReliefV2: POI[] = [
                         -8.178583,
                         41.395389
                   ]
-            },
-            {
-                  "name": "Piscinas Municipais de Fafe",
-                  "text": "O piscină publică situată lângă Serra de Fafe West, oferind facilități pentru recreere și sport.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.169218,
-                        41.448071
-                  ]
             }
       ],
       "en": [
@@ -6444,15 +6053,6 @@ export const portugalReliefV2: POI[] = [
                   "coords": [
                         -8.178583,
                         41.395389
-                  ]
-            },
-            {
-                  "name": "Piscinas Municipais de Fafe",
-                  "text": "A public swimming pool located near Serra de Fafe West, offering facilities for recreation and sports.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.169218,
-                        41.448071
                   ]
             }
       ]

@@ -2700,66 +2700,12 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Geschichtsmuseum",
-                  "text": "Das Historische Museum von Nachitschewan zeigt archäologische Funde von der Bronzezeit bis zur Neuzeit.",
-                  "category": "museum",
-                  "coords": [
-                        45.412639,
-                        39.211404
-                  ]
-            },
-            {
-                  "name": "Mustafa Kemal Atatürk",
-                  "text": "Dieses Denkmal ehrt Mustafa Kemal Atatürk, den Gründer der modernen Türkei, und betont die regionalen Bindungen.",
-                  "category": "historical",
-                  "coords": [
-                        45.407058,
-                        39.212645
-                  ]
-            },
-            {
                   "name": "Literaturmuseum von Nachitschewan",
                   "text": "Das Literaturmuseum präsentiert Manuskripte und Werke berühmter aserbaidschanischer Dichter und Schriftsteller aus der Region.",
                   "category": "museum",
                   "coords": [
                         45.405731,
                         39.213846
-                  ]
-            },
-            {
-                  "name": "Heidar-Alijew-Museum",
-                  "text": "Ein biografisches Museum, das dem Leben und politischen Wirken des ehemaligen aserbaidschanischen Präsidenten Heydar Aliyev gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        45.406715,
-                        39.215298
-                  ]
-            },
-            {
-                  "name": "Uşaq və Gənclik mərkəzi",
-                  "text": "Ein modernes Zentrum für die künstlerische Ausbildung und kulturelle Entwicklung der Jugend in Nachitschewan.",
-                  "category": "cultural",
-                  "coords": [
-                        45.411992,
-                        39.217343
-                  ]
-            },
-            {
-                  "name": "Teatr",
-                  "text": "Dieses regionale Theater ist ein wichtiger Ort für dramatische Aufführungen und kulturelle Veranstaltungen der Stadt.",
-                  "category": "cultural",
-                  "coords": [
-                        45.409787,
-                        39.215396
-                  ]
-            },
-            {
-                  "name": "Hüseyn Cavid məqbərəsi",
-                  "text": "Dieses Mausoleum im Stil der klassischen Nachitschewan-Architektur ist dem berühmten Dichter und Dramatiker Hüseyn Javid gewidmet.",
-                  "category": "cultural",
-                  "coords": [
-                        45.412394,
-                        39.214612
                   ]
             },
             {
@@ -2810,66 +2756,12 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tarix muzeyi",
-                  "text": "A Nahicseváni Történeti Múzeum a bronzkortól a modern korig mutat be régészeti leleteket.",
-                  "category": "museum",
-                  "coords": [
-                        45.412639,
-                        39.211404
-                  ]
-            },
-            {
-                  "name": "Mustafa Kemal Atatürk",
-                  "text": "Ez az emlékmű Mustafa Kemal Atatürk, a modern Törökország alapítója előtt tiszteleg, hangsúlyozva a regionális kötődéseket.",
-                  "category": "historical",
-                  "coords": [
-                        45.407058,
-                        39.212645
-                  ]
-            },
-            {
                   "name": "Naxçıvan Muxtar Respublikası Ədəbiyyat Muzeyi",
                   "text": "Az Irodalmi Múzeum a régió híres azerbajdzsáni költőinek és íróinak kéziratait és műveit mutatja be.",
                   "category": "museum",
                   "coords": [
                         45.405731,
                         39.213846
-                  ]
-            },
-            {
-                  "name": "Heydər Əliyev muzeyi",
-                  "text": "Életrajzi múzeum, amelyet Heydar Aliyev volt azerbajdzsáni elnök életének és politikai munkásságának szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        45.406715,
-                        39.215298
-                  ]
-            },
-            {
-                  "name": "Uşaq və Gənclik mərkəzi",
-                  "text": "Modern központ a nahicseváni ifjúság művészeti oktatására és kulturális fejlődésére.",
-                  "category": "cultural",
-                  "coords": [
-                        45.411992,
-                        39.217343
-                  ]
-            },
-            {
-                  "name": "Teatr",
-                  "text": "Ez a regionális színház a város drámai előadásainak és kulturális eseményeinek fontos helyszíne.",
-                  "category": "cultural",
-                  "coords": [
-                        45.409787,
-                        39.215396
-                  ]
-            },
-            {
-                  "name": "Hüseyn Cavid məqbərəsi",
-                  "text": "Ez a klasszikus nahicseváni építészeti stílusban épült mauzóleum Hüseyn Javid híres költőnek és drámaírónak állít emléket.",
-                  "category": "cultural",
-                  "coords": [
-                        45.412394,
-                        39.214612
                   ]
             },
             {
@@ -2920,66 +2812,12 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tarix muzeyi",
-                  "text": "Muzeul de Istorie din Nakhchivan expune descoperiri arheologice din epoca bronzului până în perioada modernă.",
-                  "category": "museum",
-                  "coords": [
-                        45.412639,
-                        39.211404
-                  ]
-            },
-            {
-                  "name": "Mustafa Kemal Atatürk",
-                  "text": "Acest monument îl onorează pe Mustafa Kemal Atatürk, fondatorul Turciei moderne, subliniind legăturile regionale.",
-                  "category": "historical",
-                  "coords": [
-                        45.407058,
-                        39.212645
-                  ]
-            },
-            {
                   "name": "Naxçıvan Muxtar Respublikası Ədəbiyyat Muzeyi",
                   "text": "Muzeul Literaturii prezintă manuscrise și opere ale poeților și scriitorilor azeri celebri din regiune.",
                   "category": "museum",
                   "coords": [
                         45.405731,
                         39.213846
-                  ]
-            },
-            {
-                  "name": "Heydər Əliyev muzeyi",
-                  "text": "Un muzeu biografic dedicat vieții și activității politice a fostului președinte azer Heydar Aliyev.",
-                  "category": "museum",
-                  "coords": [
-                        45.406715,
-                        39.215298
-                  ]
-            },
-            {
-                  "name": "Uşaq və Gənclik mərkəzi",
-                  "text": "Un centru modern pentru educația artistică și dezvoltarea culturală a tineretului din Nakhchivan.",
-                  "category": "cultural",
-                  "coords": [
-                        45.411992,
-                        39.217343
-                  ]
-            },
-            {
-                  "name": "Teatr",
-                  "text": "Acest teatru regional este un loc important pentru spectacole dramatice și evenimente culturale din oraș.",
-                  "category": "cultural",
-                  "coords": [
-                        45.409787,
-                        39.215396
-                  ]
-            },
-            {
-                  "name": "Hüseyn Cavid məqbərəsi",
-                  "text": "Acest mauzoleu în stilul arhitectural clasic din Nakhchivan este dedicat faimosului poet și dramaturg Hüseyn Javid.",
-                  "category": "cultural",
-                  "coords": [
-                        45.412394,
-                        39.214612
                   ]
             },
             {
@@ -3030,66 +2868,12 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tarix muzeyi",
-                  "text": "The Nakhchivan History Museum exhibits archaeological finds ranging from the Bronze Age to the modern era.",
-                  "category": "museum",
-                  "coords": [
-                        45.412639,
-                        39.211404
-                  ]
-            },
-            {
-                  "name": "Mustafa Kemal Atatürk",
-                  "text": "This monument honors Mustafa Kemal Atatürk, the founder of modern Turkey, highlighting regional ties.",
-                  "category": "historical",
-                  "coords": [
-                        45.407058,
-                        39.212645
-                  ]
-            },
-            {
                   "name": "The Literature Museum of Nakhchivan",
                   "text": "The Literature Museum showcases manuscripts and works of famous Azerbaijani poets and writers from the region.",
                   "category": "museum",
                   "coords": [
                         45.405731,
                         39.213846
-                  ]
-            },
-            {
-                  "name": "Heydər Əliyev muzeyi",
-                  "text": "A biographical museum dedicated to the life and political career of former Azerbaijani president Heydar Aliyev.",
-                  "category": "museum",
-                  "coords": [
-                        45.406715,
-                        39.215298
-                  ]
-            },
-            {
-                  "name": "Uşaq və Gənclik mərkəzi",
-                  "text": "A modern center for the artistic education and cultural development of youth in Nakhchivan.",
-                  "category": "cultural",
-                  "coords": [
-                        45.411992,
-                        39.217343
-                  ]
-            },
-            {
-                  "name": "Teatr",
-                  "text": "This regional theatre is a key venue for dramatic performances and cultural events in the city.",
-                  "category": "cultural",
-                  "coords": [
-                        45.409787,
-                        39.215396
-                  ]
-            },
-            {
-                  "name": "Hüseyn Javid mausoleum",
-                  "text": "This mausoleum, built in the classical Nakhchivan architectural style, is dedicated to the famous poet and playwright Hüseyn Javid.",
-                  "category": "cultural",
-                  "coords": [
-                        45.412394,
-                        39.214612
                   ]
             },
             {
@@ -3166,15 +2950,6 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "shaki-khans-palace-history-v2", "sights": {
       "de": [
             {
-                  "name": "Abdulxalq Hamamı",
-                  "text": "Ein historisches öffentliches Bad in Şəki, das die traditionelle osmanisch-aserbaidschanische Badekultur bewahrt.",
-                  "category": "landmark",
-                  "coords": [
-                        47.179158,
-                        41.209008
-                  ]
-            },
-            {
                   "name": "Lütfəli Abdullayevin Evi",
                   "text": "Das Gedenkhaus des berühmten aserbaidschanischen Schauspielers Lütfəli Abdullayev im historischen Zentrum von Şəki.",
                   "category": "landmark",
@@ -3190,15 +2965,6 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
                   "coords": [
                         47.16891,
                         41.218318
-                  ]
-            },
-            {
-                  "name": "Bayraq Meydanı Şəki",
-                  "text": "Ein öffentlicher Platz in Şəki mit einem monumentalen Fahnenmast, der weithin über der Stadt sichtbar ist.",
-                  "category": "landmark",
-                  "coords": [
-                        47.159106,
-                        41.210362
                   ]
             },
             {
@@ -3222,15 +2988,6 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Abdulxalq Hamamı",
-                  "text": "Történelmi közfürdő Sekiben, amely a hagyományos oszmán-azeri fürdőkultúrát őrzi.",
-                  "category": "landmark",
-                  "coords": [
-                        47.179158,
-                        41.209008
-                  ]
-            },
-            {
                   "name": "Lütfəli Abdullayevin Evi",
                   "text": "Lutfali Abdullayev híres azeri színész emlékháza Seki történelmi központjában.",
                   "category": "landmark",
@@ -3246,15 +3003,6 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
                   "coords": [
                         47.16891,
                         41.218318
-                  ]
-            },
-            {
-                  "name": "Bayraq Meydanı Şəki",
-                  "text": "Közösségi tér Sekiben egy monumentális zászlórúddal, amely a város felett messziről látható.",
-                  "category": "landmark",
-                  "coords": [
-                        47.159106,
-                        41.210362
                   ]
             },
             {
@@ -3278,15 +3026,6 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Abdulxalq Hamamı",
-                  "text": "O baie publică istorică în Sheki, care păstrează cultura tradițională a băilor otomano-azere.",
-                  "category": "landmark",
-                  "coords": [
-                        47.179158,
-                        41.209008
-                  ]
-            },
-            {
                   "name": "Lütfəli Abdullayevin Evi",
                   "text": "Casa memorială a celebrului actor azer Lutfali Abdullayev, situată în centrul istoric al orașului Sheki.",
                   "category": "landmark",
@@ -3302,15 +3041,6 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
                   "coords": [
                         47.16891,
                         41.218318
-                  ]
-            },
-            {
-                  "name": "Bayraq Meydanı Şəki",
-                  "text": "O piață publică în Sheki cu un catarg monumental, vizibil de la distanță deasupra orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        47.159106,
-                        41.210362
                   ]
             },
             {
@@ -3334,15 +3064,6 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Abdulxalq Hamamı",
-                  "text": "A historic public bath in Sheki, preserving traditional Ottoman-Azerbaijani bathing culture.",
-                  "category": "landmark",
-                  "coords": [
-                        47.179158,
-                        41.209008
-                  ]
-            },
-            {
                   "name": "Lütfəli Abdullayevin Evi",
                   "text": "The memorial house of the famous Azerbaijani actor Lutfali Abdullayev, located in the historic center of Sheki.",
                   "category": "landmark",
@@ -3358,15 +3079,6 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
                   "coords": [
                         47.16891,
                         41.218318
-                  ]
-            },
-            {
-                  "name": "Bayraq Meydanı Şəki",
-                  "text": "A public square in Sheki featuring a monumental flagpole visible from afar above the city.",
-                  "category": "landmark",
-                  "coords": [
-                        47.159106,
-                        41.210362
                   ]
             },
             {
@@ -9678,15 +9390,6 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     id: "noahs-mausoleum-history-v2", "sights": {
       "de": [
             {
-                  "name": "İlan Dağı Abidəsi",
-                  "text": "Ein Denkmal mit Blick auf den markanten Ilan Dagh (Schlangenberg), dessen gespaltener Gipfel eine lokale Legende darstellt.",
-                  "category": "historical",
-                  "coords": [
-                        45.43938,
-                        39.192282
-                  ]
-            },
-            {
                   "name": "Nuh Peyqəmbər Türbəsi",
                   "text": "Dieses religiöse Bauwerk gilt als Grabstätte des Propheten Noah und ist in der charakteristischen Ziegelarchitektur Nachitschewans errichtet.",
                   "category": "museum",
@@ -9702,15 +9405,6 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
                   "coords": [
                         45.408381,
                         39.201813
-                  ]
-            },
-            {
-                  "name": "Yusif Küseyir oğlu türbəsi",
-                  "text": "Ein Ziegelgrabmal aus dem 12. Jahrhundert, das für seine kunstvollen geometrischen Muster bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        45.414168,
-                        39.201801
                   ]
             },
             {
@@ -9743,15 +9437,6 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "İlan Dağı Abidəsi",
-                  "text": "Emlékmű, amely a jellegzetes Ilan Dagh-ra (Kígyó-hegy) néz, amelynek kettéhasadt csúcsa helyi legendát őriz.",
-                  "category": "historical",
-                  "coords": [
-                        45.43938,
-                        39.192282
-                  ]
-            },
-            {
                   "name": "Nuh Peyqəmbər Türbəsi",
                   "text": "Ez a vallási építmény Noé próféta nyughelyeként ismert, és Nahicseván jellegzetes téglaépítészeti stílusában készült.",
                   "category": "museum",
@@ -9767,15 +9452,6 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
                   "coords": [
                         45.408381,
                         39.201813
-                  ]
-            },
-            {
-                  "name": "Yusif Küseyir oğlu türbəsi",
-                  "text": "Egy 12. századi téglasírbolt, amely bonyolult geometrikus mintáiról nevezetes.",
-                  "category": "landmark",
-                  "coords": [
-                        45.414168,
-                        39.201801
                   ]
             },
             {
@@ -9808,15 +9484,6 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "İlan Dağı Abidəsi",
-                  "text": "Un monument cu vedere spre muntele distinctiv Ilan Dagh (Muntele Șarpelui), al cărui vârf despicat este subiectul unei legende locale.",
-                  "category": "historical",
-                  "coords": [
-                        45.43938,
-                        39.192282
-                  ]
-            },
-            {
                   "name": "Nuh Peyqəmbər Türbəsi",
                   "text": "Această structură religioasă este considerată mormântul profetului Noe, fiind construită în arhitectura caracteristică din cărămidă a Nakhchivanului.",
                   "category": "museum",
@@ -9832,15 +9499,6 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
                   "coords": [
                         45.408381,
                         39.201813
-                  ]
-            },
-            {
-                  "name": "Yusif Küseyir oğlu türbəsi",
-                  "text": "Un mormânt din cărămidă din secolul al XII-lea, renumit pentru modelele sale geometrice complexe.",
-                  "category": "landmark",
-                  "coords": [
-                        45.414168,
-                        39.201801
                   ]
             },
             {
@@ -9873,15 +9531,6 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "İlan Dağı Abidəsi",
-                  "text": "A monument overlooking the distinctive Ilan Dagh (Snake Mountain), whose split peak is the subject of a local legend.",
-                  "category": "historical",
-                  "coords": [
-                        45.43938,
-                        39.192282
-                  ]
-            },
-            {
                   "name": "Noah’s Mausoleum",
                   "text": "This religious structure is believed to be the tomb of the prophet Noah, built in the characteristic brick architecture of Nakhchivan.",
                   "category": "museum",
@@ -9897,15 +9546,6 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
                   "coords": [
                         45.408381,
                         39.201813
-                  ]
-            },
-            {
-                  "name": "Yusif Küseyir oğlu türbəsi",
-                  "text": "A 12th-century brick tomb renowned for its intricate geometric brickwork patterns.",
-                  "category": "landmark",
-                  "coords": [
-                        45.414168,
-                        39.201801
                   ]
             },
             {

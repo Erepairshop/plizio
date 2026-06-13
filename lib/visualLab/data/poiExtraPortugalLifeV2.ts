@@ -51,33 +51,6 @@ export const portugalLifeV2: POI[] = [
     id: "portugal-parque-natural-do-litoral-norte-life-v2", "sights": {
       "de": [
             {
-                  "name": "Farol de Esposende",
-                  "text": "Dieser Leuchtturm befindet sich an der Mündung des Flusses Cávado im Naturpark Litoral Norte.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.790614,
-                        41.542917
-                  ]
-            },
-            {
-                  "name": "Parque Natural do Litoral Norte",
-                  "text": "Ein Naturschutzgebiet an der portugiesischen Küste, das für seine Dünen und Wildtiere bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        -8.816263,
-                        41.53792
-                  ]
-            },
-            {
-                  "name": "Museu Municipal de Esposende",
-                  "text": "Das Stadtmuseum zeigt Ausstellungen zur lokalen Geschichte und Kultur von Esposende.",
-                  "category": "museum",
-                  "coords": [
-                        -8.780931,
-                        41.530679
-                  ]
-            },
-            {
                   "name": "Estuário do Cávado, Parque Natural do Litoral Norte",
                   "text": "Ein wichtiges Feuchtgebiet und Naturschutzgebiet an der Mündung des Flusses Cávado.",
                   "category": "natural",
@@ -93,15 +66,6 @@ export const portugalLifeV2: POI[] = [
                   "coords": [
                         -8.773193,
                         41.483422
-                  ]
-            },
-            {
-                  "name": "Praia Suave Mar (Norte)",
-                  "text": "Ein beliebter Sandstrand im Naturpark Litoral Norte bei Esposende.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.792024,
-                        41.548036
                   ]
             },
             {
@@ -130,45 +94,9 @@ export const portugalLifeV2: POI[] = [
                         -8.783842,
                         41.49548
                   ]
-            },
-            {
-                  "name": "Piscinas Foz do Cávado",
-                  "text": "Ein Schwimmbadkomplex an der Mündung des Flusses Cávado.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.783199,
-                        41.531324
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Farol de Esposende",
-                  "text": "Ez a világítótorony a Cávado-folyó torkolatánál található az Északi-parti Természetvédelmi Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.790614,
-                        41.542917
-                  ]
-            },
-            {
-                  "name": "Parque Natural do Litoral Norte",
-                  "text": "Természetvédelmi terület a portugál tengerparton, amely dűnéiről és élővilágáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        -8.816263,
-                        41.53792
-                  ]
-            },
-            {
-                  "name": "Museu Municipal de Esposende",
-                  "text": "A városi múzeum Esposende helyi történelmét és kultúráját bemutató kiállításoknak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        -8.780931,
-                        41.530679
-                  ]
-            },
             {
                   "name": "Estuário do Cávado, Parque Natural do Litoral Norte",
                   "text": "Fontos vizes élőhely és természetvédelmi terület a Cávado-folyó torkolatánál.",
@@ -185,15 +113,6 @@ export const portugalLifeV2: POI[] = [
                   "coords": [
                         -8.773193,
                         41.483422
-                  ]
-            },
-            {
-                  "name": "Praia Suave Mar (Norte)",
-                  "text": "Népszerű homokos tengerpart az Északi-parti Természetvédelmi Parkban, Esposende közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.792024,
-                        41.548036
                   ]
             },
             {
@@ -222,45 +141,9 @@ export const portugalLifeV2: POI[] = [
                         -8.783842,
                         41.49548
                   ]
-            },
-            {
-                  "name": "Piscinas Foz do Cávado",
-                  "text": "Úszómedence-komplexum a Cávado-folyó torkolatánál.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.783199,
-                        41.531324
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Farol de Esposende",
-                  "text": "Acest far este situat la gura de vărsare a râului Cávado, în Parcul Natural Litoral Norte.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.790614,
-                        41.542917
-                  ]
-            },
-            {
-                  "name": "Parque Natural do Litoral Norte",
-                  "text": "O rezervație naturală pe coasta portugheză, cunoscută pentru dunele și fauna sa sălbatică.",
-                  "category": "natural",
-                  "coords": [
-                        -8.816263,
-                        41.53792
-                  ]
-            },
-            {
-                  "name": "Museu Municipal de Esposende",
-                  "text": "Muzeul municipal găzduiește expoziții despre istoria și cultura locală din Esposende.",
-                  "category": "museum",
-                  "coords": [
-                        -8.780931,
-                        41.530679
-                  ]
-            },
             {
                   "name": "Estuário do Cávado, Parque Natural do Litoral Norte",
                   "text": "O zonă umedă importantă și rezervație naturală la gura de vărsare a râului Cávado.",
@@ -277,15 +160,6 @@ export const portugalLifeV2: POI[] = [
                   "coords": [
                         -8.773193,
                         41.483422
-                  ]
-            },
-            {
-                  "name": "Praia Suave Mar (Norte)",
-                  "text": "O plajă de nisip populară situată în Parcul Natural Litoral Norte, lângă Esposende.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.792024,
-                        41.548036
                   ]
             },
             {
@@ -314,45 +188,9 @@ export const portugalLifeV2: POI[] = [
                         -8.783842,
                         41.49548
                   ]
-            },
-            {
-                  "name": "Piscinas Foz do Cávado",
-                  "text": "Un complex de piscine situat la gura de vărsare a râului Cávado.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.783199,
-                        41.531324
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Farol de Esposende",
-                  "text": "This lighthouse is located at the mouth of the Cávado River in the Litoral Norte Natural Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.790614,
-                        41.542917
-                  ]
-            },
-            {
-                  "name": "Litoral Norte Nature Reserve",
-                  "text": "A nature reserve on the Portuguese coast known for its dunes and wildlife.",
-                  "category": "natural",
-                  "coords": [
-                        -8.816263,
-                        41.53792
-                  ]
-            },
-            {
-                  "name": "Museu Municipal de Esposende",
-                  "text": "The municipal museum houses exhibitions about the local history and culture of Esposende.",
-                  "category": "museum",
-                  "coords": [
-                        -8.780931,
-                        41.530679
-                  ]
-            },
             {
                   "name": "Estuário do Cávado, Parque Natural do Litoral Norte",
                   "text": "An important wetland and nature reserve at the mouth of the Cávado River.",
@@ -369,15 +207,6 @@ export const portugalLifeV2: POI[] = [
                   "coords": [
                         -8.773193,
                         41.483422
-                  ]
-            },
-            {
-                  "name": "Praia Suave Mar (Norte)",
-                  "text": "A popular sandy beach located in the Litoral Norte Natural Park near Esposende.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.792024,
-                        41.548036
                   ]
             },
             {
@@ -405,15 +234,6 @@ export const portugalLifeV2: POI[] = [
                   "coords": [
                         -8.783842,
                         41.49548
-                  ]
-            },
-            {
-                  "name": "Piscinas Foz do Cávado",
-                  "text": "A swimming pool complex located at the mouth of the Cávado River.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.783199,
-                        41.531324
                   ]
             }
       ]
@@ -996,51 +816,6 @@ export const portugalLifeV2: POI[] = [
     id: "portugal-reserva-natural-do-estuario-do-tejo-life-v2", "sights": {
       "de": [
             {
-                  "name": "Forte da Vinha",
-                  "text": "Eine historische Befestigungsanlage im Naturschutzgebiet Tejo-Mündung, Teil der Linien von Torres Vedras.",
-                  "category": "historical",
-                  "coords": [
-                        -9.052539,
-                        38.87041
-                  ]
-            },
-            {
-                  "name": "Museu do Ar - Pólo de Alverca",
-                  "text": "Ein Luftfahrtmuseum in Alverca, das die Geschichte der portugiesischen Luftfahrt zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -9.032345,
-                        38.890724
-                  ]
-            },
-            {
-                  "name": "Forte da Quintela Pequeno",
-                  "text": "Eine kleine historische Festungsanlage im Tejo-Mündungsgebiet zur Verteidigung der Region.",
-                  "category": "historical",
-                  "coords": [
-                        -9.053333,
-                        38.879518
-                  ]
-            },
-            {
-                  "name": "Forte da Quintela Grande",
-                  "text": "Eine bedeutende historische Festung im Naturschutzgebiet Tejo-Mündung mit militärischer Vergangenheit.",
-                  "category": "historical",
-                  "coords": [
-                        -9.05355,
-                        38.88112
-                  ]
-            },
-            {
-                  "name": "Forte da Casa",
-                  "text": "Eine historische Militäranlage aus dem 19. Jahrhundert, gelegen im Tejo-Mündungsgebiet.",
-                  "category": "historical",
-                  "coords": [
-                        -9.056599,
-                        38.874366
-                  ]
-            },
-            {
                   "name": "Forte Reentrante da Serra de Albueira",
                   "text": "Eine archäologische Ausgrabungsstätte einer historischen Festung in der Nähe des Tejo-Estuars.",
                   "category": "historical",
@@ -1069,51 +844,6 @@ export const portugalLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Forte da Vinha",
-                  "text": "Történelmi erődítmény a Tejo-torkolat természetvédelmi területén, a Torres Vedras-vonal része.",
-                  "category": "historical",
-                  "coords": [
-                        -9.052539,
-                        38.87041
-                  ]
-            },
-            {
-                  "name": "Museu do Ar - Pólo de Alverca",
-                  "text": "Repüléstörténeti múzeum Alvercában, amely a portugál repülés történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -9.032345,
-                        38.890724
-                  ]
-            },
-            {
-                  "name": "Forte da Quintela Pequeno",
-                  "text": "Kisebb történelmi erőd a Tejo-torkolat vidékén, amely a régió védelmét szolgálta.",
-                  "category": "historical",
-                  "coords": [
-                        -9.053333,
-                        38.879518
-                  ]
-            },
-            {
-                  "name": "Forte da Quintela Grande",
-                  "text": "Jelentős történelmi erőd a Tejo-torkolat természetvédelmi területén, katonai múlttal.",
-                  "category": "historical",
-                  "coords": [
-                        -9.05355,
-                        38.88112
-                  ]
-            },
-            {
-                  "name": "Forte da Casa",
-                  "text": "19. századi történelmi katonai létesítmény a Tejo-torkolat területén.",
-                  "category": "historical",
-                  "coords": [
-                        -9.056599,
-                        38.874366
-                  ]
-            },
             {
                   "name": "Forte Reentrante da Serra de Albueira",
                   "text": "Egy történelmi erőd régészeti lelőhelye a Tejo-torkolat közelében.",
@@ -1144,51 +874,6 @@ export const portugalLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Forte da Vinha",
-                  "text": "O fortificație istorică în Rezervația Naturală a Estuarului Tejo, parte din Liniile Torres Vedras.",
-                  "category": "historical",
-                  "coords": [
-                        -9.052539,
-                        38.87041
-                  ]
-            },
-            {
-                  "name": "Museu do Ar - Pólo de Alverca",
-                  "text": "Un muzeu al aviației din Alverca, ce prezintă istoria aeronauticii portugheze.",
-                  "category": "museum",
-                  "coords": [
-                        -9.032345,
-                        38.890724
-                  ]
-            },
-            {
-                  "name": "Forte da Quintela Pequeno",
-                  "text": "O mică fortificație istorică în zona estuarului Tejo, utilizată pentru apărarea regiunii.",
-                  "category": "historical",
-                  "coords": [
-                        -9.053333,
-                        38.879518
-                  ]
-            },
-            {
-                  "name": "Forte da Quintela Grande",
-                  "text": "O fortificație istorică importantă în Rezervația Naturală a Estuarului Tejo, cu un trecut militar.",
-                  "category": "historical",
-                  "coords": [
-                        -9.05355,
-                        38.88112
-                  ]
-            },
-            {
-                  "name": "Forte da Casa",
-                  "text": "O fortificație militară istorică din secolul al XIX-lea, situată în zona estuarului Tejo.",
-                  "category": "historical",
-                  "coords": [
-                        -9.056599,
-                        38.874366
-                  ]
-            },
-            {
                   "name": "Forte Reentrante da Serra de Albueira",
                   "text": "Un sit arheologic al unei fortificații istorice situat în apropierea estuarului Tejo.",
                   "category": "historical",
@@ -1217,51 +902,6 @@ export const portugalLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Forte da Vinha",
-                  "text": "A historic fortification in the Tejo Estuary Nature Reserve, part of the Lines of Torres Vedras.",
-                  "category": "historical",
-                  "coords": [
-                        -9.052539,
-                        38.87041
-                  ]
-            },
-            {
-                  "name": "Museu do Ar - Pólo de Alverca",
-                  "text": "An aviation museum in Alverca showcasing the history of Portuguese aeronautics.",
-                  "category": "museum",
-                  "coords": [
-                        -9.032345,
-                        38.890724
-                  ]
-            },
-            {
-                  "name": "Forte da Quintela Pequeno",
-                  "text": "A small historic fortification in the Tejo estuary area, used for the defense of the region.",
-                  "category": "historical",
-                  "coords": [
-                        -9.053333,
-                        38.879518
-                  ]
-            },
-            {
-                  "name": "Forte da Quintela Grande",
-                  "text": "A significant historic fort in the Tejo Estuary Nature Reserve with a military history.",
-                  "category": "historical",
-                  "coords": [
-                        -9.05355,
-                        38.88112
-                  ]
-            },
-            {
-                  "name": "Forte da Casa",
-                  "text": "A historic military fortification from the 19th century, located in the Tejo estuary area.",
-                  "category": "historical",
-                  "coords": [
-                        -9.056599,
-                        38.874366
-                  ]
-            },
             {
                   "name": "Forte Reentrante da Serra de Albueira",
                   "text": "An archaeological site of a historic fortification located near the Tejo estuary.",

@@ -582,24 +582,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lammoûdley",
-                  "text": "Der felsige Berg Lammoûdley ragt in die trockene Luft des Assamo-Schutzgebietes.",
-                  "category": "natural",
-                  "coords": [
-                        42.85,
-                        11.033333
-                  ]
-            },
-            {
-                  "name": "Golẖol",
-                  "text": "Der Berggipfel Golẖol fügt sich in die naturbelassene Hügellandschaft von Assamo ein.",
-                  "category": "natural",
-                  "coords": [
-                        42.831944,
-                        11.013611
-                  ]
-            },
-            {
                   "name": "Ḏassaïno",
                   "text": "Die Bergspitze Ḏassaïno formt das Relief im Naturschutzgebiet bei Assamo.",
                   "category": "natural",
@@ -626,24 +608,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
                   "coords": [
                         42.833333,
                         11.066667
-                  ]
-            },
-            {
-                  "name": "Lammoûdley",
-                  "text": "A Lammoûdley sziklás hegye az assamói rezervátum száraz levegőjébe emelkedik.",
-                  "category": "natural",
-                  "coords": [
-                        42.85,
-                        11.033333
-                  ]
-            },
-            {
-                  "name": "Golẖol",
-                  "text": "A Golẖol hegycsúcs szervesen illeszkedik Assamo érintetlen dombvidékéhez.",
-                  "category": "natural",
-                  "coords": [
-                        42.831944,
-                        11.013611
                   ]
             },
             {
@@ -676,24 +640,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lammoûdley",
-                  "text": "Muntele stâncos Lammoûdley se înalță în aerul uscat al rezervației din Assamo.",
-                  "category": "natural",
-                  "coords": [
-                        42.85,
-                        11.033333
-                  ]
-            },
-            {
-                  "name": "Golẖol",
-                  "text": "Vârful Golẖol face parte din peisajul deluros natural al zonei Assamo.",
-                  "category": "natural",
-                  "coords": [
-                        42.831944,
-                        11.013611
-                  ]
-            },
-            {
                   "name": "Ḏassaïno",
                   "text": "Vârful montan Ḏassaïno modelează relieful rezervației naturale din apropiere de Assamo.",
                   "category": "natural",
@@ -720,24 +666,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
                   "coords": [
                         42.833333,
                         11.066667
-                  ]
-            },
-            {
-                  "name": "Lammoûdley",
-                  "text": "The rocky mountain of Lammoûdley rises into the dry air of the Assamo sanctuary.",
-                  "category": "natural",
-                  "coords": [
-                        42.85,
-                        11.033333
-                  ]
-            },
-            {
-                  "name": "Golẖol",
-                  "text": "The Golẖol peak blends into the natural hilly landscape of the Assamo area.",
-                  "category": "natural",
-                  "coords": [
-                        42.831944,
-                        11.013611
                   ]
             },
             {
@@ -1819,24 +1747,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
                         42.647778,
                         11.878889
                   ]
-            },
-            {
-                  "name": "Ḏertim",
-                  "text": "Dieser felsige Gipfel überblickt die fruchtbaren Terrassen von Randa und bewacht das landwirtschaftliche Herz des Hochlandes.",
-                  "category": "natural",
-                  "coords": [
-                        42.648333,
-                        11.853056
-                  ]
-            },
-            {
-                  "name": "‘Ado Dâba",
-                  "text": "Dieser Gipfel, der die grüne Oase von Randa beschattet, unterstützt mit seiner höheren Lage ein kühleres, feuchteres lokales Klima.",
-                  "category": "natural",
-                  "coords": [
-                        42.633611,
-                        11.858333
-                  ]
             }
       ],
       "hu": [
@@ -1865,24 +1775,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
                   "coords": [
                         42.647778,
                         11.878889
-                  ]
-            },
-            {
-                  "name": "Ḏertim",
-                  "text": "A Randa termékeny teraszaira néző sziklás csúcs a hegyvidék mezőgazdasági szívét őrzi.",
-                  "category": "natural",
-                  "coords": [
-                        42.648333,
-                        11.853056
-                  ]
-            },
-            {
-                  "name": "‘Ado Dâba",
-                  "text": "A Randa zöld oázisát beárnyékoló csúcs magasabb fekvése hűvösebb, párásabb helyi klímát támogat.",
-                  "category": "natural",
-                  "coords": [
-                        42.633611,
-                        11.858333
                   ]
             }
       ],
@@ -1913,24 +1805,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
                         42.647778,
                         11.878889
                   ]
-            },
-            {
-                  "name": "Ḏertim",
-                  "text": "Dominând terasele fertile din Randa, acest vârf stâncos păzește inima agricolă a zonelor înalte.",
-                  "category": "natural",
-                  "coords": [
-                        42.648333,
-                        11.853056
-                  ]
-            },
-            {
-                  "name": "‘Ado Dâba",
-                  "text": "Umbrind oaza verde din Randa, elevația mai înaltă a acestui vârf susține un climat local mai răcoros și mai umed.",
-                  "category": "natural",
-                  "coords": [
-                        42.633611,
-                        11.858333
-                  ]
             }
       ],
       "en": [
@@ -1959,24 +1833,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
                   "coords": [
                         42.647778,
                         11.878889
-                  ]
-            },
-            {
-                  "name": "Ḏertim",
-                  "text": "Overlooking the fertile terraces of Randa, this rocky summit guards the agricultural heart of the highlands.",
-                  "category": "natural",
-                  "coords": [
-                        42.648333,
-                        11.853056
-                  ]
-            },
-            {
-                  "name": "‘Ado Dâba",
-                  "text": "Shadowing the green oasis of Randa, this peak's higher elevation supports a cooler, more humid local climate.",
-                  "category": "natural",
-                  "coords": [
-                        42.633611,
-                        11.858333
                   ]
             }
       ]
@@ -2333,15 +2189,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
                         42.910278,
                         11.509444
                   ]
-            },
-            {
-                  "name": "‘Ali Faḏên",
-                  "text": "‘Ali Faḏên ist eine natürliche felsige Erhebung inmitten der landwirtschaftlich genutzten Hochflächen von Arta.",
-                  "category": "natural",
-                  "coords": [
-                        42.844167,
-                        11.490556
-                  ]
             }
       ],
       "hu": [
@@ -2361,15 +2208,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
                   "coords": [
                         42.910278,
                         11.509444
-                  ]
-            },
-            {
-                  "name": "‘Ali Faḏên",
-                  "text": "Az ‘Ali Faḏên egy természetes sziklás magaslat az Arta környéki mezőgazdasági fennsíkok között.",
-                  "category": "natural",
-                  "coords": [
-                        42.844167,
-                        11.490556
                   ]
             }
       ],
@@ -2391,15 +2229,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
                         42.910278,
                         11.509444
                   ]
-            },
-            {
-                  "name": "‘Ali Faḏên",
-                  "text": "‘Ali Faḏên este o cotație stâncoasă naturală situată în mijlocul platourilor agricole din Arta.",
-                  "category": "natural",
-                  "coords": [
-                        42.844167,
-                        11.490556
-                  ]
             }
       ],
       "en": [
@@ -2419,15 +2248,6 @@ export const poiExtraDjiboutiLifeV2: POI[] = [
                   "coords": [
                         42.910278,
                         11.509444
-                  ]
-            },
-            {
-                  "name": "‘Ali Faḏên",
-                  "text": "‘Ali Faḏên is a natural rocky elevation amidst the agricultural highland farms of Arta.",
-                  "category": "natural",
-                  "coords": [
-                        42.844167,
-                        11.490556
                   ]
             }
       ]

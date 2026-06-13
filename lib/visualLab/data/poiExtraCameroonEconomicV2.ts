@@ -1789,50 +1789,10 @@ export const poiExtraCameroonEconomicV2: POI[] = [
   },
   {
     id: "kribi-gas-plant-economic-v2", "sights": {
-      "de": [
-            {
-                  "name": "Foyer social et culturel baleng",
-                  "text": "Dieses Kunstzentrum der Baleng-Gemeinde dient als kultureller Treffpunkt in der Nähe der örtlichen Gasanlagen.",
-                  "category": "cultural",
-                  "coords": [
-                        9.924373,
-                        2.960373
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Foyer social et culturel baleng",
-                  "text": "Ez a Baleng közösségi művészeti központ kulturális gyülekezőhelyként szolgál a helyi gázüzem közelében.",
-                  "category": "cultural",
-                  "coords": [
-                        9.924373,
-                        2.960373
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Foyer social et culturel baleng",
-                  "text": "Acest centru de arte comunitare Baleng servește ca spațiu de adunare culturală în apropierea instalațiilor locale de gaze.",
-                  "category": "cultural",
-                  "coords": [
-                        9.924373,
-                        2.960373
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Foyer social et culturel baleng",
-                  "text": "This Baleng community arts centre serves as a cultural gathering space near the local gas plant facilities.",
-                  "category": "cultural",
-                  "coords": [
-                        9.924373,
-                        2.960373
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "industry",
     parent: "CM-SU",

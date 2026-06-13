@@ -2001,15 +2001,6 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rw-cathedral-of-our-lady-of-wisdom-butare-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Eglise Ste. Therese",
-                  "text": "Die Eglise Ste. Therese ist eine charmante lokale Kirche in der Nähe von Butare, die als friedlicher Ort für religiöse Zusammenkünfte dient.",
-                  "category": "landmark",
-                  "coords": [
-                        29.74435,
-                        -2.592266
-                  ]
-            },
-            {
                   "name": "Théâtre Verdure",
                   "text": "Das Théâtre Verdure ist ein Freiluft-Amphitheater im Grünen von Butare, das verschiedene Open-Air-Aufführungen veranstaltet.",
                   "category": "cultural",
@@ -2017,27 +2008,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
                         29.740818,
                         -2.598104
                   ]
-            },
-            {
-                  "name": "Ethnographic Museum",
-                  "text": "Das Ethnografische Museum in Butare beherbergt eine umfangreiche Sammlung traditioneller ruandischer Artefakte und zeigt das vorkoloniale Leben und die Kultur.",
-                  "category": "museum",
-                  "coords": [
-                        29.745214,
-                        -2.588744
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Eglise Ste. Therese",
-                  "text": "A Ste. Therese templom egy bájos helyi templom Butare közelében, amely a vallási összejövetelek békés helyszíneként szolgál.",
-                  "category": "landmark",
-                  "coords": [
-                        29.74435,
-                        -2.592266
-                  ]
-            },
             {
                   "name": "Théâtre Verdure",
                   "text": "A Théâtre Verdure egy szabadtéri amfiteátrum Butare zöldövezetében, amely különféle szabadtéri előadásoknak ad otthont.",
@@ -2046,27 +2019,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
                         29.740818,
                         -2.598104
                   ]
-            },
-            {
-                  "name": "Ethnographic Museum",
-                  "text": "A butarei Néprajzi Múzeum a hagyományos ruandai műtárgyak kiterjedt gyűjteményének ad otthont, bemutatva a gyarmatosítás előtti életet és kultúrát.",
-                  "category": "museum",
-                  "coords": [
-                        29.745214,
-                        -2.588744
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Eglise Ste. Therese",
-                  "text": "Eglise Ste. Therese este o biserică locală fermecătoare de lângă Butare, servind drept loc liniștit pentru adunări religioase.",
-                  "category": "landmark",
-                  "coords": [
-                        29.74435,
-                        -2.592266
-                  ]
-            },
             {
                   "name": "Théâtre Verdure",
                   "text": "Théâtre Verdure este un amfiteatru în aer liber situat printre verdeața din Butare, găzduind diverse spectacole în aer liber.",
@@ -2075,27 +2030,9 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
                         29.740818,
                         -2.598104
                   ]
-            },
-            {
-                  "name": "Ethnographic Museum",
-                  "text": "Muzeul Etnografic din Butare găzduiește o colecție vastă de artefacte tradiționale rwandeze, prezentând viața și cultura precolonială.",
-                  "category": "museum",
-                  "coords": [
-                        29.745214,
-                        -2.588744
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Eglise Ste. Therese",
-                  "text": "Eglise Ste. Therese is a charming local church near Butare, serving as a peaceful place for religious gatherings.",
-                  "category": "landmark",
-                  "coords": [
-                        29.74435,
-                        -2.592266
-                  ]
-            },
             {
                   "name": "Théâtre Verdure",
                   "text": "Théâtre Verdure is an open-air amphitheatre set among the greenery of Butare, hosting various outdoor performances.",
@@ -2103,15 +2040,6 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
                   "coords": [
                         29.740818,
                         -2.598104
-                  ]
-            },
-            {
-                  "name": "Ethnographic Museum",
-                  "text": "The Ethnographic Museum in Butare houses an extensive collection of traditional Rwandan artifacts, showcasing pre-colonial life and culture.",
-                  "category": "museum",
-                  "coords": [
-                        29.745214,
-                        -2.588744
                   ]
             }
       ]
@@ -2238,15 +2166,6 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
     id: "rw-gisenyi-grand-mosque-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "African Art Gallery",
-                  "text": "Ein lebendiger lokaler Galerieraum, der eine Reihe zeitgenössischer und traditioneller Werke verschiedener afrikanischer Künstler ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        29.261591,
-                        -1.70306
-                  ]
-            },
-            {
                   "name": "Tourist office",
                   "text": "Die lokale Touristeninformation, die umfassende Führer, Karten und Details zur Erkundung der umliegenden Sehenswürdigkeiten bietet.",
                   "category": "landmark",
@@ -2257,15 +2176,6 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "African Art Gallery",
-                  "text": "Pezsgő helyi galéria, amely kortárs és hagyományos művek sorát állítja ki különböző afrikai művészektől.",
-                  "category": "museum",
-                  "coords": [
-                        29.261591,
-                        -1.70306
-                  ]
-            },
             {
                   "name": "Tourist office",
                   "text": "A helyi turisztikai információs iroda átfogó útmutatókat, térképeket és részleteket kínál a környező látnivalók felfedezéséhez.",
@@ -2278,15 +2188,6 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "African Art Gallery",
-                  "text": "O galerie locală vibrantă care expune o serie de lucrări contemporane și tradiționale ale diverșilor artiști africani.",
-                  "category": "museum",
-                  "coords": [
-                        29.261591,
-                        -1.70306
-                  ]
-            },
-            {
                   "name": "Tourist office",
                   "text": "Biroul local de informare turistică, care oferă ghiduri cuprinzătoare, hărți și detalji pentru explorarea atracțiilor din jur.",
                   "category": "landmark",
@@ -2297,15 +2198,6 @@ export const poiExtraRwandaLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "African Art Gallery",
-                  "text": "A vibrant local gallery space exhibiting an array of contemporary and traditional works from diverse African artists.",
-                  "category": "museum",
-                  "coords": [
-                        29.261591,
-                        -1.70306
-                  ]
-            },
             {
                   "name": "Tourist office",
                   "text": "The local tourist information office providing comprehensive guides, maps, and details for exploring the surrounding attractions.",

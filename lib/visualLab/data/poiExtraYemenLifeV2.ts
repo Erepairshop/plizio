@@ -2705,30 +2705,12 @@ export const poiExtraYemenLifeV2: POI[] = [
     id: "hadhramaut-date-groves-life-v2", "sights": {
       "de": [
             {
-                  "name": "Qaser Alkthiri Seiyun",
-                  "text": "Einer der weltweit größten Lehmziegelpaläste, der einst als prunkvoller Sitz der Kathiri-Sultane diente.",
-                  "category": "museum",
-                  "coords": [
-                        48.784706,
-                        15.94579
-                  ]
-            },
-            {
                   "name": "Hisn an Naqib",
                   "text": "Verfallene Festungsanlage, die über den üppigen Dattelpalmenhainen von Seiyun thront.",
                   "category": "historical",
                   "coords": [
                         48.833333,
                         15.95
-                  ]
-            },
-            {
-                  "name": "Hisn al Falas",
-                  "text": "Historische Ruinen einer Höhenburg mit weitem Blick über das Hadhramaut-Tal.",
-                  "category": "historical",
-                  "coords": [
-                        48.8,
-                        15.933333
                   ]
             },
             {
@@ -3040,30 +3022,12 @@ export const poiExtraYemenLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Qaser Alkthiri Seiyun",
-                  "text": "A világ egyik legnagyobb vályogtégla palotája, amely egykor a Kathiri szultánok fényűző székhelye volt.",
-                  "category": "museum",
-                  "coords": [
-                        48.784706,
-                        15.94579
-                  ]
-            },
-            {
                   "name": "Hisn an Naqib",
                   "text": "Egy romos erődítmény, amely Seiyun buja datolyapálma-ligetei fölött magasodik.",
                   "category": "historical",
                   "coords": [
                         48.833333,
                         15.95
-                  ]
-            },
-            {
-                  "name": "Hisn al Falas",
-                  "text": "Egy dombtetőre épült erőd történelmi romjai, kilátással a Hadhramaut-völgyre.",
-                  "category": "historical",
-                  "coords": [
-                        48.8,
-                        15.933333
                   ]
             },
             {
@@ -3375,30 +3339,12 @@ export const poiExtraYemenLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Qaser Alkthiri Seiyun",
-                  "text": "Unul dintre cele mai mari palate de chirpici din lume, fosta reședință fastuoasă a sultanilor Kathiri.",
-                  "category": "museum",
-                  "coords": [
-                        48.784706,
-                        15.94579
-                  ]
-            },
-            {
                   "name": "Hisn an Naqib",
                   "text": "Ruinele unei fortificații care domină livezile luxuriante de curmali din Seiyun.",
                   "category": "historical",
                   "coords": [
                         48.833333,
                         15.95
-                  ]
-            },
-            {
-                  "name": "Hisn al Falas",
-                  "text": "Ruinele istorice ale unei cetăți de deal, cu vedere spre valea Hadhramaut.",
-                  "category": "historical",
-                  "coords": [
-                        48.8,
-                        15.933333
                   ]
             },
             {
@@ -3710,30 +3656,12 @@ export const poiExtraYemenLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Qaser Alkthiri Seiyun",
-                  "text": "One of the world's largest mud-brick palaces, formerly the opulent seat of the Kathiri sultans.",
-                  "category": "museum",
-                  "coords": [
-                        48.784706,
-                        15.94579
-                  ]
-            },
-            {
                   "name": "Hisn an Naqib",
                   "text": "Ruined fortification overlooking the lush date palm groves of Seiyun.",
                   "category": "historical",
                   "coords": [
                         48.833333,
                         15.95
-                  ]
-            },
-            {
-                  "name": "Hisn al Falas",
-                  "text": "Historical ruins of a hilltop fort with wide views over the Hadhramaut valley.",
-                  "category": "historical",
-                  "coords": [
-                        48.8,
-                        15.933333
                   ]
             },
             {

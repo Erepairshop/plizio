@@ -350,50 +350,10 @@ export const poiExtraTurkeyNatureV2: POI[] = [
   },
   {
     id: "turkey-mount-erciyes-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Erciyes Dağı",
-                  "text": "Ein gewaltiger erloschener Vulkan und beliebtes Skigebiet in Zentralanatolien.",
-                  "category": "landmark",
-                  "coords": [
-                        35.448951,
-                        38.531954
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Erciyes Dağı",
-                  "text": "Hatalmas kialudt tűzhányó és népszerű síparadicsom Közép-Anatóliában.",
-                  "category": "landmark",
-                  "coords": [
-                        35.448951,
-                        38.531954
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Erciyes Dağı",
-                  "text": "Un vulcan stins masiv și o stațiune de schi populară în Anatolia Centrală.",
-                  "category": "landmark",
-                  "coords": [
-                        35.448951,
-                        38.531954
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Erciyes Dağı",
-                  "text": "A massive dormant volcano and popular ski resort in Central Anatolia.",
-                  "category": "landmark",
-                  "coords": [
-                        35.448951,
-                        38.531954
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "TR-38",

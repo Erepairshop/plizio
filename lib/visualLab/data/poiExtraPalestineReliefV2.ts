@@ -15,15 +15,6 @@ export const palestineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "nadi ammar",
-                  "text": "Ein lokaler Freizeit- und Sportclub, der soziale Aktivitäten und Unterhaltung in der Region Baal Hazor bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        35.242791,
-                        31.977919
-                  ]
-            },
-            {
                   "name": "Flagstones valley",
                   "text": "Ein Aussichtspunkt mit Blick auf eine Talsohle, die durch natürliche, flache Kalksteinplatten geprägt ist.",
                   "category": "natural",
@@ -95,15 +86,6 @@ export const palestineReliefV2: POI[] = [
                   "coords": [
                         35.244122,
                         31.985323
-                  ]
-            },
-            {
-                  "name": "nadi ammar",
-                  "text": "Helyi szabadidő- és sportklub, amely közösségi tevékenységeket és szórakozást kínál a Baal Hazor régióban.",
-                  "category": "landmark",
-                  "coords": [
-                        35.242791,
-                        31.977919
                   ]
             },
             {
@@ -181,15 +163,6 @@ export const palestineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "nadi ammar",
-                  "text": "Un club local de recreere și sport care oferă activități sociale și divertisment în regiunea Baal Hazor.",
-                  "category": "landmark",
-                  "coords": [
-                        35.242791,
-                        31.977919
-                  ]
-            },
-            {
                   "name": "Flagstones valley",
                   "text": "Un punct de observație cu vedere spre fundul unei văi caracterizat prin dale de calcar naturale și plate.",
                   "category": "natural",
@@ -261,15 +234,6 @@ export const palestineReliefV2: POI[] = [
                   "coords": [
                         35.244122,
                         31.985323
-                  ]
-            },
-            {
-                  "name": "nadi ammar",
-                  "text": "A local recreation and sports club providing social activities and entertainment in the Baal Hazor region.",
-                  "category": "landmark",
-                  "coords": [
-                        35.242791,
-                        31.977919
                   ]
             },
             {
@@ -1707,15 +1671,6 @@ export const palestineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ayaat Studio",
-                  "text": "Das Ayaat Studio ist ein Kunstzentrum am Berg Muntar.",
-                  "category": "cultural",
-                  "coords": [
-                        34.46938,
-                        31.500946
-                  ]
-            },
-            {
                   "name": "Ibn Othman Mosque",
                   "text": "Die Ibn Othman Mosque ist eine Kultstätte in der Gegend des Berges Muntar.",
                   "category": "religious",
@@ -1895,15 +1850,6 @@ export const palestineReliefV2: POI[] = [
                   "coords": [
                         34.479702,
                         31.512887
-                  ]
-            },
-            {
-                  "name": "Ayaat Studio",
-                  "text": "Az Ayaat Studio egy művészeti központ a Muntar-hegynél.",
-                  "category": "cultural",
-                  "coords": [
-                        34.46938,
-                        31.500946
                   ]
             },
             {
@@ -2089,15 +2035,6 @@ export const palestineReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ayaat Studio",
-                  "text": "Ayaat Studio este un centru de arte din zona Mount Muntar.",
-                  "category": "cultural",
-                  "coords": [
-                        34.46938,
-                        31.500946
-                  ]
-            },
-            {
                   "name": "Ibn Othman Mosque",
                   "text": "Ibn Othman Mosque este un lăcaș de cult din zona Mount Muntar.",
                   "category": "religious",
@@ -2277,15 +2214,6 @@ export const palestineReliefV2: POI[] = [
                   "coords": [
                         34.479702,
                         31.512887
-                  ]
-            },
-            {
-                  "name": "Ayaat Studio",
-                  "text": "The Ayaat Studio is an arts centre at Mount Muntar.",
-                  "category": "cultural",
-                  "coords": [
-                        34.46938,
-                        31.500946
                   ]
             },
             {

@@ -1093,15 +1093,6 @@ export const poiExtraGhanaHistoryV2: POI[] = [
                         -0.089015,
                         5.58536
                   ]
-            },
-            {
-                  "name": "Fort Augustaborg",
-                  "text": "Eine von Dänen erbaute Verteidigungsanlage, die 1787 entlang der Küste errichtet wurde.",
-                  "category": "fortress",
-                  "coords": [
-                        -0.10143,
-                        5.576812
-                  ]
             }
       ],
       "hu": [
@@ -1112,15 +1103,6 @@ export const poiExtraGhanaHistoryV2: POI[] = [
                   "coords": [
                         -0.089015,
                         5.58536
-                  ]
-            },
-            {
-                  "name": "Fort Augustaborg",
-                  "text": "A tengerpart mentén 1787-ben emelt dán építésű védelmi erődítmény.",
-                  "category": "fortress",
-                  "coords": [
-                        -0.10143,
-                        5.576812
                   ]
             }
       ],
@@ -1133,15 +1115,6 @@ export const poiExtraGhanaHistoryV2: POI[] = [
                         -0.089015,
                         5.58536
                   ]
-            },
-            {
-                  "name": "Fort Augustaborg",
-                  "text": "O fortificație defensivă construită de danezi și înființată în anul 1787 de-a lungul coastei.",
-                  "category": "fortress",
-                  "coords": [
-                        -0.10143,
-                        5.576812
-                  ]
             }
       ],
       "en": [
@@ -1152,15 +1125,6 @@ export const poiExtraGhanaHistoryV2: POI[] = [
                   "coords": [
                         -0.089015,
                         5.58536
-                  ]
-            },
-            {
-                  "name": "Fort Augustaborg",
-                  "text": "A Danish-built defensive fortification established in 1787 along the coastline.",
-                  "category": "fortress",
-                  "coords": [
-                        -0.10143,
-                        5.576812
                   ]
             }
       ]

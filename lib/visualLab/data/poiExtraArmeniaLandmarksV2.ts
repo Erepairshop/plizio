@@ -98,15 +98,6 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pik",
-                  "text": "Dieser Aussichtspunkt auf der Halbinsel bietet den perfekten Panoramablick auf das Kloster Sevanavank und den See.",
-                  "category": "natural",
-                  "coords": [
-                        44.965132,
-                        40.571886
-                  ]
-            },
-            {
                   "name": "Արջանոց",
                   "text": "Ein markanter Berg im Geghama-Hochland, der oft als Orientierungspunkt für Wanderer am See dient.",
                   "category": "natural",
@@ -214,15 +205,6 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
                   "coords": [
                         45.060692,
                         40.634053
-                  ]
-            },
-            {
-                  "name": "Pik",
-                  "text": "Ez a félszigeten található kilátópont tökéletes panorámát nyújt a Szevanavank-kolostorra és a tóra.",
-                  "category": "natural",
-                  "coords": [
-                        44.965132,
-                        40.571886
                   ]
             },
             {
@@ -336,15 +318,6 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pik",
-                  "text": "Acest punct de observație de pe peninsulă oferă o panoramă perfectă asupra mănăstirii Sevanavank și a lacului.",
-                  "category": "natural",
-                  "coords": [
-                        44.965132,
-                        40.571886
-                  ]
-            },
-            {
                   "name": "Արջանոց",
                   "text": "Un munte proeminent în podișul Geghama, care servește adesea ca punct de reper pentru drumeții de la lac.",
                   "category": "natural",
@@ -452,24 +425,6 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
                   "coords": [
                         45.060692,
                         40.634053
-                  ]
-            },
-            {
-                  "name": "Pik",
-                  "text": "This viewpoint on the peninsula offers the perfect panorama of Sevanavank Monastery and the lake.",
-                  "category": "natural",
-                  "coords": [
-                        44.965132,
-                        40.571886
-                  ]
-            },
-            {
-                  "name": "Arjanots",
-                  "text": "A prominent mountain in the Geghama highlands that often serves as a landmark for hikers by the lake.",
-                  "category": "natural",
-                  "coords": [
-                        44.942738,
-                        40.573105
                   ]
             },
             {
@@ -691,15 +646,6 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
                   "coords": [
                         44.294521,
                         40.162091
-                  ]
-            },
-            {
-                  "name": "Kirche St. Hripsime",
-                  "text": "UNESCO-Stätte aus dem 7. Jahrhundert und ein Meisterwerk der frühmittelalterlichen armenischen Kreuzkuppelarchitektur.",
-                  "category": "religious",
-                  "coords": [
-                        44.309561,
-                        40.166979
                   ]
             },
             {
@@ -1129,24 +1075,6 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
                   "coords": [
                         44.294521,
                         40.162091
-                  ]
-            },
-            {
-                  "name": "Saint Hripsime Church",
-                  "text": "A 7th-century UNESCO site and a masterpiece of early medieval Armenian cross-domed architecture.",
-                  "category": "religious",
-                  "coords": [
-                        44.309561,
-                        40.166979
-                  ]
-            },
-            {
-                  "name": "Shoghakat Church",
-                  "text": "A 17th-century UNESCO church built with characteristic reddish tufa stone.",
-                  "category": "religious",
-                  "coords": [
-                        44.304805,
-                        40.168063
                   ]
             },
             {

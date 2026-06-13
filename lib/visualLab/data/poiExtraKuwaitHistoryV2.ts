@@ -4971,15 +4971,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
     id: "al-hashemi-ii-monument-history-v2", "sights": {
       "de": [
             {
-                  "name": "Al Hashemi Marine Museum",
-                  "text": "Das Al Hashemi Marine Museum ist ein Museum, das sich der maritimen Geschichte widmet.",
-                  "category": "museum",
-                  "coords": [
-                        48.089345,
-                        29.301498
-                  ]
-            },
-            {
                   "name": "Messilah Beach",
                   "text": "Der Messilah Beach ist ein beliebter Strandabschnitt in dieser Stadt.",
                   "category": "recreational",
@@ -5008,15 +4999,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Al Hashemi Marine Museum",
-                  "text": "Az Al Hashemi Marine Museum a tengerészeti történelemnek szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        48.089345,
-                        29.301498
-                  ]
-            },
             {
                   "name": "Messilah Beach",
                   "text": "A Messilah Beach egy népszerű strand ebben a városban.",
@@ -5047,15 +5029,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Al Hashemi Marine Museum",
-                  "text": "Muzeul Maritim Al Hashemi este un muzeu dedicat istoriei maritime.",
-                  "category": "museum",
-                  "coords": [
-                        48.089345,
-                        29.301498
-                  ]
-            },
-            {
                   "name": "Messilah Beach",
                   "text": "Messilah Beach este o porțiune de plajă populară în acest oraș.",
                   "category": "recreational",
@@ -5084,15 +5057,6 @@ export const poiExtraKuwaitHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Al Hashemi Marine Museum",
-                  "text": "The Al Hashemi Marine Museum is a museum dedicated to maritime history.",
-                  "category": "museum",
-                  "coords": [
-                        48.089345,
-                        29.301498
-                  ]
-            },
             {
                   "name": "Messilah Beach",
                   "text": "Messilah Beach is a popular stretch of beach in this city.",

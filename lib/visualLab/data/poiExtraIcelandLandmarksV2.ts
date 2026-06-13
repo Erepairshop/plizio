@@ -382,24 +382,6 @@ imageHint: "Hofdi House Reykjavik summit",
                   ]
             },
             {
-                  "name": "Fornleifasvæði",
-                  "text": "Archäologische Ausgrabungsstätte im Bereich der Skálholt-Kathedrale mit mittelalterlichen Ruinen.",
-                  "category": "historical",
-                  "coords": [
-                        -20.524465,
-                        64.124951
-                  ]
-            },
-            {
-                  "name": "Mosfellskirkja",
-                  "text": "Kirche in der Nähe der Kathedrale von Skálholt.",
-                  "category": "religious",
-                  "coords": [
-                        -20.603757,
-                        64.126833
-                  ]
-            },
-            {
                   "name": "Laugarás Lagoon",
                   "text": "Die geothermische Lagune Laugarás bei Skálholt zum Baden.",
                   "category": "recreational",
@@ -417,24 +399,6 @@ imageHint: "Hofdi House Reykjavik summit",
                   "coords": [
                         -20.50724,
                         64.115166
-                  ]
-            },
-            {
-                  "name": "Fornleifasvæði",
-                  "text": "Régészeti feltárás Skálholt székesegyház területén, középkori romokkal.",
-                  "category": "historical",
-                  "coords": [
-                        -20.524465,
-                        64.124951
-                  ]
-            },
-            {
-                  "name": "Mosfellskirkja",
-                  "text": "Templom a Skálholti székesegyház közelében.",
-                  "category": "religious",
-                  "coords": [
-                        -20.603757,
-                        64.126833
                   ]
             },
             {
@@ -458,24 +422,6 @@ imageHint: "Hofdi House Reykjavik summit",
                   ]
             },
             {
-                  "name": "Fornleifasvæði",
-                  "text": "Sit arheologic în zona Catedralei Skálholt, cu ruine medievale.",
-                  "category": "historical",
-                  "coords": [
-                        -20.524465,
-                        64.124951
-                  ]
-            },
-            {
-                  "name": "Mosfellskirkja",
-                  "text": "Biserică lângă Catedrala din Skálholt.",
-                  "category": "religious",
-                  "coords": [
-                        -20.603757,
-                        64.126833
-                  ]
-            },
-            {
                   "name": "Laugarás Lagoon",
                   "text": "Laguna geotermală Laugarás lângă Skálholt pentru scăldat.",
                   "category": "recreational",
@@ -493,24 +439,6 @@ imageHint: "Hofdi House Reykjavik summit",
                   "coords": [
                         -20.50724,
                         64.115166
-                  ]
-            },
-            {
-                  "name": "Fornleifasvæði",
-                  "text": "Archaeological excavation site near Skálholt Cathedral with medieval ruins.",
-                  "category": "historical",
-                  "coords": [
-                        -20.524465,
-                        64.124951
-                  ]
-            },
-            {
-                  "name": "Mosfellskirkja",
-                  "text": "Church near Skálholt Cathedral.",
-                  "category": "religious",
-                  "coords": [
-                        -20.603757,
-                        64.126833
                   ]
             },
             {
@@ -953,50 +881,10 @@ imageHint: "Vik church red roof Iceland",
     image: "/poi-images/iceland-vikurkirkja-landmarks-v2.webp",
 },  {
     id: "iceland-glaumbaer-farm-museum-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Glaumbær",
-                  "text": "Glaumbær ist ein berühmtes Torfhaus-Museum, das das isländische Landleben vergangener Jahrhunderte zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -19.504641,
-                        65.611009
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Glaumbær",
-                  "text": "Glaumbær egy híres gyepház-múzeum, amely az izlandi vidéki életet mutatja be az elmúlt évszázadokból.",
-                  "category": "museum",
-                  "coords": [
-                        -19.504641,
-                        65.611009
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Glaumbær",
-                  "text": "Glaumbær este un faimos muzeu cu case din brazde de iarbă, ilustrând viața rurală islandeză.",
-                  "category": "museum",
-                  "coords": [
-                        -19.504641,
-                        65.611009
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Glaumbær",
-                  "text": "Glaumbær is a famous turf house museum showing Icelandic rural life from past centuries.",
-                  "category": "museum",
-                  "coords": [
-                        -19.504641,
-                        65.611009
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "IS",
     type: "museum",
@@ -1044,50 +932,10 @@ imageHint: "Glaumbaer turf farm museum Iceland",
     image: "/poi-images/iceland-glaumbaer-farm-museum-landmarks-v2.webp",
 },  {
     id: "iceland-laufas-turf-house-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Gamli bærinn Laufás",
-                  "text": "Ein Museum in Laufás, das in einem traditionellen isländischen Torfhaus untergebracht ist.",
-                  "category": "museum",
-                  "coords": [
-                        -18.071837,
-                        65.893745
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Gamli bærinn Laufás",
-                  "text": "Laufásban található múzeum, amely egy hagyományos izlandi tőzegházban kapott helyet.",
-                  "category": "museum",
-                  "coords": [
-                        -18.071837,
-                        65.893745
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Gamli bærinn Laufás",
-                  "text": "Un muzeu în Laufás, găzduit într-o casă tradițională islandeză din turbă.",
-                  "category": "museum",
-                  "coords": [
-                        -18.071837,
-                        65.893745
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Old Turfhouse Laufás",
-                  "text": "A museum in Laufás housed in a traditional Icelandic turf farmhouse.",
-                  "category": "museum",
-                  "coords": [
-                        -18.071837,
-                        65.893745
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "IS",
     type: "museum",
@@ -2147,48 +1995,12 @@ imageHint: "Settlement Center Borgarnes building",
     id: "iceland-skogar-museum-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Skógafoss",
-                  "text": "Einer der größten und bekanntesten Wasserfälle Islands mit einer Fallhöhe von 60 Metern.",
-                  "category": "natural",
-                  "coords": [
-                        -19.490809,
-                        63.552823
-                  ]
-            },
-            {
                   "name": "Skógasafn",
                   "text": "Ein Freilichtmuseum, das die traditionelle isländische Lebensweise und Kultur zeigt.",
                   "category": "museum",
                   "coords": [
                         -19.493033,
                         63.526178
-                  ]
-            },
-            {
-                  "name": "Skógafoss Viewpoint",
-                  "text": "Ein Aussichtspunkt, der einen spektakulären Blick auf den mächtigen Skógafoss-Wasserfall bietet.",
-                  "category": "natural",
-                  "coords": [
-                        -19.510593,
-                        63.531874
-                  ]
-            },
-            {
-                  "name": "Turf Houses",
-                  "text": "Traditionelle isländische Torfhäuser, die früher Schutz gegen das raue Klima boten.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.554303,
-                        63.524317
-                  ]
-            },
-            {
-                  "name": "Rútshellir",
-                  "text": "Ein Beispiel für die historische isländische Bauweise aus Torf und Stein.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.572741,
-                        63.522753
                   ]
             },
             {
@@ -2203,48 +2015,12 @@ imageHint: "Settlement Center Borgarnes building",
       ],
       "hu": [
             {
-                  "name": "Skógafoss",
-                  "text": "Izland egyik legnagyobb és legismertebb vízesése, amely 60 méter magasból zúdul alá.",
-                  "category": "natural",
-                  "coords": [
-                        -19.490809,
-                        63.552823
-                  ]
-            },
-            {
                   "name": "Skógasafn",
                   "text": "Szabadtéri néprajzi múzeum, amely a hagyományos izlandi életmódot mutatja be.",
                   "category": "museum",
                   "coords": [
                         -19.493033,
                         63.526178
-                  ]
-            },
-            {
-                  "name": "Skógafoss Viewpoint",
-                  "text": "Kilátópont, ahonnan látványos panoráma nyílik a hatalmas Skógafoss-vízesésre.",
-                  "category": "natural",
-                  "coords": [
-                        -19.510593,
-                        63.531874
-                  ]
-            },
-            {
-                  "name": "Turf Houses",
-                  "text": "Hagyományos izlandi gyepházak, amelyek egykor védelmet nyújtottak a zord éghajlat ellen.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.554303,
-                        63.524317
-                  ]
-            },
-            {
-                  "name": "Rútshellir",
-                  "text": "Példa a történelmi izlandi gyeptéglás és kőfalas építkezésre.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.572741,
-                        63.522753
                   ]
             },
             {
@@ -2259,48 +2035,12 @@ imageHint: "Settlement Center Borgarnes building",
       ],
       "ro": [
             {
-                  "name": "Skógafoss",
-                  "text": "Una dintre cele mai mari și cunoscute cascade din Islanda, cu o cădere de 60 de metri.",
-                  "category": "natural",
-                  "coords": [
-                        -19.490809,
-                        63.552823
-                  ]
-            },
-            {
                   "name": "Skógasafn",
                   "text": "Un muzeu în aer liber care prezintă modul de viață și cultura tradițională islandeză.",
                   "category": "museum",
                   "coords": [
                         -19.493033,
                         63.526178
-                  ]
-            },
-            {
-                  "name": "Skógafoss Viewpoint",
-                  "text": "Un punct de observație care oferă o vedere spectaculoasă asupra cascadei Skógafoss.",
-                  "category": "natural",
-                  "coords": [
-                        -19.510593,
-                        63.531874
-                  ]
-            },
-            {
-                  "name": "Turf Houses",
-                  "text": "Case tradiționale islandeze din turbă, care ofereau odinioară protecție împotriva climei aspre.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.554303,
-                        63.524317
-                  ]
-            },
-            {
-                  "name": "Rútshellir",
-                  "text": "Un exemplu de construcție istorică islandeză realizată din turbă și piatră.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.572741,
-                        63.522753
                   ]
             },
             {
@@ -2315,48 +2055,12 @@ imageHint: "Settlement Center Borgarnes building",
       ],
       "en": [
             {
-                  "name": "Skógafoss",
-                  "text": "One of Iceland's largest and most famous waterfalls, with a drop of 60 metres.",
-                  "category": "natural",
-                  "coords": [
-                        -19.490809,
-                        63.552823
-                  ]
-            },
-            {
                   "name": "Skógar Museum",
                   "text": "An open-air folk museum showcasing traditional Icelandic life and culture.",
                   "category": "museum",
                   "coords": [
                         -19.493033,
                         63.526178
-                  ]
-            },
-            {
-                  "name": "Skógafoss Viewpoint",
-                  "text": "A viewpoint offering a spectacular perspective of the mighty Skógafoss waterfall.",
-                  "category": "natural",
-                  "coords": [
-                        -19.510593,
-                        63.531874
-                  ]
-            },
-            {
-                  "name": "Turf Houses",
-                  "text": "Traditional Icelandic turf houses that once provided shelter against the harsh climate.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.554303,
-                        63.524317
-                  ]
-            },
-            {
-                  "name": "Turf house",
-                  "text": "An example of historic Icelandic architecture built with turf and stone.",
-                  "category": "landmark",
-                  "coords": [
-                        -19.572741,
-                        63.522753
                   ]
             },
             {

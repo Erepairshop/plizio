@@ -391,50 +391,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
   },
   {
     id: "zm-chibuluma-copper-mine-economic-v2", "sights": {
-      "de": [
-            {
-                  "name": "Kalalushi Coreshed",
-                  "text": "Der Kalalushi Coreshed dient als geologisches Museum und beherbergt eine umfangreiche Bibliothek zylindrischer Gesteinskernproben, die in der nahegelegenen Chibuluma-Kupfermine entnommen wurden.",
-                  "category": "museum",
-                  "coords": [
-                        28.086067,
-                        -12.846792
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Kalalushi Coreshed",
-                  "text": "A geológiai múzeumként működő Kalalushi Coreshed hengeres kőzetmagminták kiterjedt gyűjteményének ad otthont, amelyeket a közeli Chibuluma rézbányából bányásztak ki.",
-                  "category": "museum",
-                  "coords": [
-                        28.086067,
-                        -12.846792
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Kalalushi Coreshed",
-                  "text": "Servind ca muzeu geologic, Kalalushi Coreshed găzduiește o bibliotecă extinsă de eșantioane de carote cilindrice de rocă extrase din mina de cupru Chibuluma din apropiere.",
-                  "category": "museum",
-                  "coords": [
-                        28.086067,
-                        -12.846792
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Kalalushi Coreshed",
-                  "text": "Serving as a geological museum, the Kalalushi Coreshed houses an extensive library of cylindrical rock core samples extracted from the nearby Chibuluma copper mine.",
-                  "category": "museum",
-                  "coords": [
-                        28.086067,
-                        -12.846792
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "industry",
     parent: "ZM-08",
@@ -1015,86 +975,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
   },
   {
     id: "zm-kariba-north-bank-power-station-economic-v2", "sights": {
-      "de": [
-            {
-                  "name": "Savee Beach Resort",
-                  "text": "Dieses sandige Strandresort liegt am Ufer des Stausees in der Nähe des Kariba-Damms.",
-                  "category": "recreational",
-                  "coords": [
-                        28.698853,
-                        -16.538287
-                  ]
-            },
-            {
-                  "name": "Heliport lake Safari lodge",
-                  "text": "Dieser Aussichtspunkt befindet sich in einer Safari-Lodge mit weitem Blick über den Karibasee.",
-                  "category": "natural",
-                  "coords": [
-                        28.706313,
-                        -16.542081
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Savee Beach Resort",
-                  "text": "Ez a homokos tóparti üdülőhely a Kariba-gát közelében fekszik.",
-                  "category": "recreational",
-                  "coords": [
-                        28.698853,
-                        -16.538287
-                  ]
-            },
-            {
-                  "name": "Heliport lake Safari lodge",
-                  "text": "Ez a kilátó egy szafari lodge-ban található, ahonnan csodálatos kilátás nyílik a Kariba-tóra.",
-                  "category": "natural",
-                  "coords": [
-                        28.706313,
-                        -16.542081
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Savee Beach Resort",
-                  "text": "Această stațiune de plajă cu nisip este situată pe malul lacului, lângă barajul Kariba.",
-                  "category": "recreational",
-                  "coords": [
-                        28.698853,
-                        -16.538287
-                  ]
-            },
-            {
-                  "name": "Heliport lake Safari lodge",
-                  "text": "Acest punct de belvedere se află la o cabană de safari, oferind o panoramă largă asupra lacului Kariba.",
-                  "category": "natural",
-                  "coords": [
-                        28.706313,
-                        -16.542081
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Savee Beach Resort",
-                  "text": "This sandy lakeside beach resort is situated on the shores near the Kariba dam.",
-                  "category": "recreational",
-                  "coords": [
-                        28.698853,
-                        -16.538287
-                  ]
-            },
-            {
-                  "name": "Heliport lake Safari lodge",
-                  "text": "This viewpoint is located at a safari lodge offering sweeping vistas over Lake Kariba.",
-                  "category": "natural",
-                  "coords": [
-                        28.706313,
-                        -16.542081
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "industry",
     parent: "ZM-07",
@@ -1227,24 +1111,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Steam Loco",
-                  "text": "Eine Freilichtmuseumsausstellung mit einer sorgfältig restaurierten historischen Dampflokomotive, die die historische Eisenbahnära der Region widerspiegelt.",
-                  "category": "museum",
-                  "coords": [
-                        25.839878,
-                        -17.927367
-                  ]
-            },
-            {
-                  "name": "Chipala Cultural Experience",
-                  "text": "Ein immersives Kulturzentrum, in dem Besucher an traditionellen sambischen Tänzen, Handwerkskunst und authentischen lokalen Zeremonien teilnehmen können.",
-                  "category": "landmark",
-                  "coords": [
-                        25.839812,
-                        -17.928755
-                  ]
-            },
-            {
                   "name": "Gorge Swing & Zipline (Wild Horizons)",
                   "text": "Diese aufregende Doppelattraktion, betrieben von Wild Horizons, lässt Abenteuerlustige hoch über der atemberaubenden Sambesi-Schlucht schwingen und rutschen.",
                   "category": "landmark",
@@ -1261,15 +1127,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
                         25.859155,
                         -17.926972
                   ]
-            },
-            {
-                  "name": "Adventure zone",
-                  "text": "Ein konzentriertes Zentrum für adrenalingeladene Outdoor-Aktivitäten und Abenteuersportarten im rauen Gelände nahe der Wasserfälle.",
-                  "category": "landmark",
-                  "coords": [
-                        25.834473,
-                        -17.931905
-                  ]
             }
       ],
       "hu": [
@@ -1280,24 +1137,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
                   "coords": [
                         25.838315,
                         -17.928067
-                  ]
-            },
-            {
-                  "name": "Steam Loco",
-                  "text": "Szabadtéri múzeumi kiállítás, amely egy aprólékosan felújított régi gőzmozdonyt mutat be, amely a régió történelmi vasúti korszakát tükrözi.",
-                  "category": "museum",
-                  "coords": [
-                        25.839878,
-                        -17.927367
-                  ]
-            },
-            {
-                  "name": "Chipala Cultural Experience",
-                  "text": "Egy magával ragadó kulturális központ, ahol a látogatók részt vehetnek hagyományos zambiai táncokban, kézműveskedésben és autentikus helyi szertartásokon.",
-                  "category": "landmark",
-                  "coords": [
-                        25.839812,
-                        -17.928755
                   ]
             },
             {
@@ -1317,15 +1156,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
                         25.859155,
                         -17.926972
                   ]
-            },
-            {
-                  "name": "Adventure zone",
-                  "text": "Az adrenalinfűtött szabadtéri tevékenységek és kalandsportok koncentrált központja a vízesés közelében fekvő zord terepen.",
-                  "category": "landmark",
-                  "coords": [
-                        25.834473,
-                        -17.931905
-                  ]
             }
       ],
       "ro": [
@@ -1336,24 +1166,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
                   "coords": [
                         25.838315,
                         -17.928067
-                  ]
-            },
-            {
-                  "name": "Steam Loco",
-                  "text": "O expoziție de muzeu în aer liber care prezintă o locomotivă cu abur de epocă restaurată meticulos, care reflectă era feroviară istorică a regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        25.839878,
-                        -17.927367
-                  ]
-            },
-            {
-                  "name": "Chipala Cultural Experience",
-                  "text": "Un centru cultural captivant unde vizitatorii pot participa la dansuri tradiționale zambiene, meșteșuguri și ceremonii locale autentice.",
-                  "category": "landmark",
-                  "coords": [
-                        25.839812,
-                        -17.928755
                   ]
             },
             {
@@ -1373,15 +1185,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
                         25.859155,
                         -17.926972
                   ]
-            },
-            {
-                  "name": "Adventure zone",
-                  "text": "Un centru concentrat de activități în aer liber și sporturi de aventură pline de adrenalină, situat pe terenul accidentat din apropierea cascadei.",
-                  "category": "landmark",
-                  "coords": [
-                        25.834473,
-                        -17.931905
-                  ]
             }
       ],
       "en": [
@@ -1392,24 +1195,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
                   "coords": [
                         25.838315,
                         -17.928067
-                  ]
-            },
-            {
-                  "name": "Steam Loco",
-                  "text": "An open-air museum exhibit featuring a meticulously restored vintage steam locomotive that reflects the region's historic railway era.",
-                  "category": "museum",
-                  "coords": [
-                        25.839878,
-                        -17.927367
-                  ]
-            },
-            {
-                  "name": "Chipala Cultural Experience",
-                  "text": "An immersive cultural center where visitors can participate in traditional Zambian dances, crafts, and authentic local ceremonies.",
-                  "category": "landmark",
-                  "coords": [
-                        25.839812,
-                        -17.928755
                   ]
             },
             {
@@ -1428,15 +1213,6 @@ export const poiExtraZambiaEconomicV2: POI[] = [
                   "coords": [
                         25.859155,
                         -17.926972
-                  ]
-            },
-            {
-                  "name": "Adventure zone",
-                  "text": "A concentrated hub of adrenaline-fueled outdoor activities and adventure sports situated in the rugged terrain near the falls.",
-                  "category": "landmark",
-                  "coords": [
-                        25.834473,
-                        -17.931905
                   ]
             }
       ]
@@ -1561,50 +1337,10 @@ export const poiExtraZambiaEconomicV2: POI[] = [
   },
   {
     id: "zm-mpulungu-harbour-economic-v2", "sights": {
-      "de": [
-            {
-                  "name": "Niamkolo Church",
-                  "text": "Die Niamkolo-Kirche ist ein geschütztes Kulturerbe in der Nähe des Hafens von Mpulungu und gilt als eine der ältesten erhaltenen Steinkirchen in Sambia.",
-                  "category": "landmark",
-                  "coords": [
-                        31.116973,
-                        -8.757035
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Niamkolo Church",
-                  "text": "A Niamkolo-templom egy védett örökségi látványosság Mpulungu kikötője közelében, amely Zambia egyik legrégebbi fennmaradt kőtemploma.",
-                  "category": "landmark",
-                  "coords": [
-                        31.116973,
-                        -8.757035
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Niamkolo Church",
-                  "text": "Biserica Niamkolo este o atracție de patrimoniu protejată din apropierea portului Mpulungu, recunoscută drept una dintre cele mai vechi biserici din piatră din Zambia.",
-                  "category": "landmark",
-                  "coords": [
-                        31.116973,
-                        -8.757035
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Niamkolo Church",
-                  "text": "Niamkolo Church is a protected heritage attraction near Mpulungu Harbour, noted as one of the oldest surviving stone churches in Zambia.",
-                  "category": "landmark",
-                  "coords": [
-                        31.116973,
-                        -8.757035
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "port",
     parent: "ZM-05",

@@ -387,15 +387,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
     id: "lamu-old-town-history-v2", "sights": {
       "de": [
             {
-                  "name": "Maharia gallery",
-                  "text": "In den historischen Gassen von Lamu gelegen, zeigt diese Galerie traditionelles Suaheli-Kunsthandwerk.",
-                  "category": "cultural",
-                  "coords": [
-                        40.914743,
-                        -2.293644
-                  ]
-            },
-            {
                   "name": "German Post Office",
                   "text": "In einem Kolonialgebäude aus dem 19. Jahrhundert untergebracht, zeigt dieses Museum in Lamu die Geschichte des frühen Postwesens.",
                   "category": "museum",
@@ -412,27 +403,9 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                         40.902355,
                         -2.267421
                   ]
-            },
-            {
-                  "name": "Riyadha mosque",
-                  "text": "Diese im 19. Jahrhundert gegründete einflussreiche Moschee dient als wichtiges Zentrum für islamische Gelehrsamkeit in Lamu.",
-                  "category": "religious",
-                  "coords": [
-                        40.901159,
-                        -2.271046
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Maharia gallery",
-                  "text": "A Lamu történelmi sikátoraiban található galéria a hagyományos szuahéli kézműves termékeket mutatja be.",
-                  "category": "cultural",
-                  "coords": [
-                        40.914743,
-                        -2.293644
-                  ]
-            },
             {
                   "name": "German Post Office",
                   "text": "Egy 19. századi gyarmati épületben kapott helyet ez a lamui múzeum, amely a korai postai szolgáltatások történetét mutatja be.",
@@ -450,27 +423,9 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                         40.902355,
                         -2.267421
                   ]
-            },
-            {
-                  "name": "Riyadha mosque",
-                  "text": "A 19. században alapított befolyásos mecset az iszlám tudományosság egyik fő központjaként működik Lamuban.",
-                  "category": "religious",
-                  "coords": [
-                        40.901159,
-                        -2.271046
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Maharia gallery",
-                  "text": "Situată pe alee istorice din Lamu, această galerie prezintă arte și meșteșuguri tradiționale swahili.",
-                  "category": "cultural",
-                  "coords": [
-                        40.914743,
-                        -2.293644
-                  ]
-            },
             {
                   "name": "German Post Office",
                   "text": "Găzduit într-o clădire colonială din secolul al XIX-lea, acest muzeu din Lamu detaliază istoria primelor servicii poștale.",
@@ -488,27 +443,9 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                         40.902355,
                         -2.267421
                   ]
-            },
-            {
-                  "name": "Riyadha mosque",
-                  "text": "Fondată în secolul al XIX-lea, această moschee influentă servește ca un centru major pentru știința islamică din Lamu.",
-                  "category": "religious",
-                  "coords": [
-                        40.901159,
-                        -2.271046
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Maharia gallery",
-                  "text": "Located in the historic alleyways of Lamu, this gallery showcases traditional Swahili arts and crafts.",
-                  "category": "cultural",
-                  "coords": [
-                        40.914743,
-                        -2.293644
-                  ]
-            },
             {
                   "name": "German Post Office",
                   "text": "Housed in a 19th-century colonial building, this Lamu museum details the history of early postal services.",
@@ -525,15 +462,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                   "coords": [
                         40.902355,
                         -2.267421
-                  ]
-            },
-            {
-                  "name": "Riyadha mosque",
-                  "text": "Founded in the 19th century, this influential mosque serves as a major centre for Islamic scholarship in Lamu.",
-                  "category": "religious",
-                  "coords": [
-                        40.901159,
-                        -2.271046
                   ]
             }
       ]
@@ -641,15 +569,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                         40.129868,
                         -3.223665
                   ]
-            },
-            {
-                  "name": "Malindi Museum",
-                  "text": "Ein regionales Museum, das das kulturelle Erbe der Swahili und archäologische Unterwasserfunde der Küste ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        40.121589,
-                        -3.215992
-                  ]
             }
       ],
       "hu": [
@@ -705,15 +624,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                   "coords": [
                         40.129868,
                         -3.223665
-                  ]
-            },
-            {
-                  "name": "Malindi Museum",
-                  "text": "Regionális múzeum, amely a szuahéli kulturális örökséget és a part menti víz alatti régészeti felfedezéseket mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        40.121589,
-                        -3.215992
                   ]
             }
       ],
@@ -771,15 +681,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                         40.129868,
                         -3.223665
                   ]
-            },
-            {
-                  "name": "Malindi Museum",
-                  "text": "Un muzeu regional care expune moștenirea culturală Swahili și descoperiri arheologice subacvatice de pe coastă.",
-                  "category": "museum",
-                  "coords": [
-                        40.121589,
-                        -3.215992
-                  ]
             }
       ],
       "en": [
@@ -835,15 +736,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                   "coords": [
                         40.129868,
                         -3.223665
-                  ]
-            },
-            {
-                  "name": "Malindi Museum",
-                  "text": "A regional museum exhibiting Swahili cultural heritage and coastal underwater archaeological discoveries.",
-                  "category": "museum",
-                  "coords": [
-                        40.121589,
-                        -3.215992
                   ]
             }
       ]
@@ -1253,24 +1145,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kapenguria Museum",
-                  "text": "Das Museum ist in den Zellen untergebracht, in denen die „Kapenguria Six“ inhaftiert waren, und bewahrt wichtige Artefakte des kenianischen Unabhängigkeitskampfes.",
-                  "category": "landmark",
-                  "coords": [
-                        35.121147,
-                        1.239518
-                  ]
-            },
-            {
-                  "name": "Mtelo Restaurant and Cottages",
-                  "text": "Benannt nach dem nahegelegenen Berggipfel, bietet diese Einrichtung in Kapenguria müden Reisenden gemütliche Cottages und lokale Küche.",
-                  "category": "landmark",
-                  "coords": [
-                        35.117577,
-                        1.238807
-                  ]
-            },
-            {
                   "name": "Roponywo forest",
                   "text": "Dieses ruhige Stück einheimischen Waldes in der Nähe von Kapenguria bietet einen wichtigen Lebensraum für Vögel und schattige Wanderwege.",
                   "category": "landmark",
@@ -1306,24 +1180,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                   "coords": [
                         35.10243,
                         1.18412
-                  ]
-            },
-            {
-                  "name": "Kapenguria Museum",
-                  "text": "A „kapenguriai hatok” fogvatartási celláiban berendezett múzeum Kenya függetlenségi harcának fontos emlékeit őrzi.",
-                  "category": "landmark",
-                  "coords": [
-                        35.121147,
-                        1.239518
-                  ]
-            },
-            {
-                  "name": "Mtelo Restaurant and Cottages",
-                  "text": "A közeli hegycsúcsról elnevezett kapenguriai létesítmény hangulatos nyaralókkal és helyi ételekkel várja a fáradt utazókat.",
-                  "category": "landmark",
-                  "coords": [
-                        35.117577,
-                        1.238807
                   ]
             },
             {
@@ -1365,24 +1221,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kapenguria Museum",
-                  "text": "Găzduit în celulele în care au fost reținuți „Cei șase de la Kapenguria”, acest muzeu păstrează artefacte cruciale ale luptei Kenyei pentru independență.",
-                  "category": "landmark",
-                  "coords": [
-                        35.121147,
-                        1.239518
-                  ]
-            },
-            {
-                  "name": "Mtelo Restaurant and Cottages",
-                  "text": "Numită după vârful muntos din apropiere, această locație din Kapenguria oferă călătorilor obosiți căsuțe confortabile și mese locale.",
-                  "category": "landmark",
-                  "coords": [
-                        35.117577,
-                        1.238807
-                  ]
-            },
-            {
                   "name": "Roponywo forest",
                   "text": "Această bucată liniștită de pădure indigenă de lângă Kapenguria oferă un habitat important pentru păsări și cărări umbrite pentru plimbare.",
                   "category": "landmark",
@@ -1418,24 +1256,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                   "coords": [
                         35.10243,
                         1.18412
-                  ]
-            },
-            {
-                  "name": "Kapenguria Museum",
-                  "text": "Housed in the original cells where the \"Kapenguria Six\" were detained, this museum preserves crucial artifacts of Kenya's struggle for independence.",
-                  "category": "landmark",
-                  "coords": [
-                        35.121147,
-                        1.239518
-                  ]
-            },
-            {
-                  "name": "Mtelo Restaurant and Cottages",
-                  "text": "Named after the nearby mountain peak, this Kapenguria establishment offers weary travelers cozy cottages and local dining.",
-                  "category": "landmark",
-                  "coords": [
-                        35.117577,
-                        1.238807
                   ]
             },
             {
@@ -1563,15 +1383,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ngong Hill Forest Recreational Park",
-                  "text": "Dieser Erholungspark umfasst die bewaldeten Hänge der Ngong-Berge und bietet malerische Wanderwege.",
-                  "category": "natural",
-                  "coords": [
-                        36.641971,
-                        -1.374306
-                  ]
-            },
-            {
                   "name": "Karen Blixen Museum",
                   "text": "Dieses Museum in einem Kolonialbauernhaus am Fuße der Ngong-Berge bewahrt das ehemalige Wohnhaus der Autorin von „Jenseits von Afrika“.",
                   "category": "museum",
@@ -1643,15 +1454,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                   "coords": [
                         36.712118,
                         -1.359881
-                  ]
-            },
-            {
-                  "name": "Ngong Hill Forest Recreational Park",
-                  "text": "Ez a rekreációs park a Ngong-hegység erdős lejtőit foglalja magában, és festői túraútvonalakat kínál.",
-                  "category": "natural",
-                  "coords": [
-                        36.641971,
-                        -1.374306
                   ]
             },
             {
@@ -1729,15 +1531,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ngong Hill Forest Recreational Park",
-                  "text": "Acest parc de recreere cuprinde pantele împădurite ale Dealurilor Ngong, oferind trasee pitorești de drumeții.",
-                  "category": "natural",
-                  "coords": [
-                        36.641971,
-                        -1.374306
-                  ]
-            },
-            {
                   "name": "Karen Blixen Museum",
                   "text": "Amplasat într-o fermă din epoca colonială la poalele Dealurilor Ngong, acest muzeu păstrează fosta casă a autoarei cărții „Din Africa”.",
                   "category": "museum",
@@ -1809,15 +1602,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                   "coords": [
                         36.712118,
                         -1.359881
-                  ]
-            },
-            {
-                  "name": "Ngong Hill Forest Recreational Park",
-                  "text": "This recreational park encompasses the forested slopes of the Ngong Hills, offering scenic hiking paths.",
-                  "category": "natural",
-                  "coords": [
-                        36.641971,
-                        -1.374306
                   ]
             },
             {
@@ -3980,15 +3764,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                         40.074336,
                         1.742556
                   ]
-            },
-            {
-                  "name": "Amira garden",
-                  "text": "Der Amira-Garten bietet eine seltene, schattige grüne Oase inmitten des trockenen historischen Viertels rund um das Wajir Fort.",
-                  "category": "landmark",
-                  "coords": [
-                        40.051271,
-                        1.725115
-                  ]
             }
       ],
       "hu": [
@@ -3999,15 +3774,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                   "coords": [
                         40.074336,
                         1.742556
-                  ]
-            },
-            {
-                  "name": "Amira garden",
-                  "text": "Az Amira-kert egy ritka, árnyékos zöld oázist kínál a Wajir-erőd körüli száraz történelmi negyedben.",
-                  "category": "landmark",
-                  "coords": [
-                        40.051271,
-                        1.725115
                   ]
             }
       ],
@@ -4020,15 +3786,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                         40.074336,
                         1.742556
                   ]
-            },
-            {
-                  "name": "Amira garden",
-                  "text": "Grădina Amira oferă o rară oază verde umbrită în mijlocul cartierului istoric arid din jurul Fortului Wajir.",
-                  "category": "landmark",
-                  "coords": [
-                        40.051271,
-                        1.725115
-                  ]
             }
       ],
       "en": [
@@ -4039,15 +3796,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                   "coords": [
                         40.074336,
                         1.742556
-                  ]
-            },
-            {
-                  "name": "Amira garden",
-                  "text": "Amira garden offers a rare, shaded green oasis amid the arid historical district around Wajir Fort.",
-                  "category": "landmark",
-                  "coords": [
-                        40.051271,
-                        1.725115
                   ]
             }
       ]
@@ -4357,15 +4105,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                         36.738193,
                         -1.268155
                   ]
-            },
-            {
-                  "name": "School Hall",
-                  "text": "Dieser Bildungssaal beherbergt lokale Schulaufführungen und Gemeindetreffen in Fort Smith.",
-                  "category": "cultural",
-                  "coords": [
-                        36.665387,
-                        -1.261139
-                  ]
             }
       ],
       "hu": [
@@ -4385,15 +4124,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                   "coords": [
                         36.738193,
                         -1.268155
-                  ]
-            },
-            {
-                  "name": "School Hall",
-                  "text": "Ez az oktatási színházterem helyi iskolai előadásoknak és közösségi összejöveteleknek ad otthont Fort Smith-ben.",
-                  "category": "cultural",
-                  "coords": [
-                        36.665387,
-                        -1.261139
                   ]
             }
       ],
@@ -4415,15 +4145,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                         36.738193,
                         -1.268155
                   ]
-            },
-            {
-                  "name": "School Hall",
-                  "text": "Această sală de teatru educațională găzduiește spectacole școlare locale și adunări comunitare în Fort Smith.",
-                  "category": "cultural",
-                  "coords": [
-                        36.665387,
-                        -1.261139
-                  ]
             }
       ],
       "en": [
@@ -4443,15 +4164,6 @@ export const poiExtraKenyaHistoryV2: POI[] = [
                   "coords": [
                         36.738193,
                         -1.268155
-                  ]
-            },
-            {
-                  "name": "School Hall",
-                  "text": "This educational theater hall hosts local school performances and community gatherings in Fort Smith.",
-                  "category": "cultural",
-                  "coords": [
-                        36.665387,
-                        -1.261139
                   ]
             }
       ]

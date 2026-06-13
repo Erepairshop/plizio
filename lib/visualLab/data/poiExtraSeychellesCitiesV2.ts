@@ -48,39 +48,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "sc-anse-boileau-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Barbarons Beach",
-                  "text": "Der Barbarons Beach liegt in der wunderschönen Gegend von Anse Boileau auf den Seychellen und bietet eine atemberaubende tropische Meereslandschaft. Meist herrscht hier eine friedliche Atmosphäre, was ihn ideal für einen erholsamen Rückzugsort abseits der überfüllten Touristenzentren macht. Besucher können vergnügt am Ufer entlangwandern oder einen Nachmittag am warmen Wasser entspannen. Es ist ratsam, die lokalen Gezeiten zu überprüfen, bevor man hier einen Badeausflug plant.",
-                  "category": "recreational",
-                  "coords": [
-                        55.455279,
-                        -4.686756
-                  ]
-            },
-            {
                   "name": "Anse Louis Beach",
                   "text": "Der Anse Louis Beach präsentiert sich als faszinierende sandige Enklave in Anse Boileau und lädt Reisende in das Herz der Küstenschönheit der Seychellen ein. Dieses Ziel zeichnet sich durch ein entspanntes und leicht exklusives Flair aus, perfekt für einen beruhigenden Kurzurlaub. Ein Tag hier ermöglicht ungestörtes Sonnenbaden und erfrischendes Schwimmen in den verlockenden Wellen. Wer ein gutes Buch und ausreichend Sonnenschutz mitbringt, sichert sich einen wunderbaren, längeren Aufenthalt.",
                   "category": "recreational",
                   "coords": [
                         55.479492,
                         -4.718525
-                  ]
-            },
-            {
-                  "name": "New Savy",
-                  "text": "New Savy ist ein Sandstrand an der Ostküste von Mahé, in Anse Boileau.",
-                  "category": "natural",
-                  "coords": [
-                        55.478373,
-                        -4.676388
-                  ]
-            },
-            {
-                  "name": "National Biodiversity Centre",
-                  "text": "Das Nationale Biodiversitätszentrum in Anse Boileau auf Mahé ist eine Forschungseinrichtung zum Artenschutz.",
-                  "category": "landmark",
-                  "coords": [
-                        55.46429,
-                        -4.694249
                   ]
             },
             {
@@ -95,39 +68,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Barbarons Beach",
-                  "text": "A Seychelles-szigetek gyönyörű Anse Boileau régiójában található Barbarons Beach lenyűgöző trópusi tengeri tájat kínál. Általában békés hangulat uralkodik itt, ami csodálatossá teszi a zsúfolt turistaközpontoktól távol eső, pihentető elvonuláshoz. Az ide látogatók boldogan barangolhatnak a parton, vagy tölthetnek egy délutánt a meleg vizek partján heverészve. Érdemes tájékozódni a helyi árapály viszonyokról, mielőtt úszni indulnánk ide.",
-                  "category": "recreational",
-                  "coords": [
-                        55.455279,
-                        -4.686756
-                  ]
-            },
-            {
                   "name": "Anse Louis Beach",
                   "text": "Az Anse Louis Beach lenyűgöző homokos partszakaszként tűnik fel Anse Boileau-ban, és a Seychelles-szigetek partvidéki szépségének szívébe csábítja az utazókat. Ezt az úti célt nyugodt és kissé exkluzív hangulat jellemzi, amely tökéletes egy pihentető kiruccanáshoz. Az itt töltött nap zavartalan napozást és frissítő mártózást tesz lehetővé a hívogató hullámokban. Ha egy jó könyvvel és bőséges napvédelemmel érkezünk, garantált a csodálatos, elnyújtott tartózkodás.",
                   "category": "recreational",
                   "coords": [
                         55.479492,
                         -4.718525
-                  ]
-            },
-            {
-                  "name": "New Savy",
-                  "text": "A New Savy egy homokos strand Mahé keleti partján, Anse Boileau-ban.",
-                  "category": "natural",
-                  "coords": [
-                        55.478373,
-                        -4.676388
-                  ]
-            },
-            {
-                  "name": "National Biodiversity Centre",
-                  "text": "A Nemzeti Biodiverzitási Központ Anse Boileau-ban, Mahé szigetén, a fajvédelem kutatóintézete.",
-                  "category": "landmark",
-                  "coords": [
-                        55.46429,
-                        -4.694249
                   ]
             },
             {
@@ -142,39 +88,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Barbarons Beach",
-                  "text": "Aflată în frumoasa zonă Anse Boileau din Seychelles, plaja Barbarons oferă un peisaj marin tropical uluitor. Aici predomină, de obicei, o ambianță pașnică, fiind un loc minunat pentru o retragere odihnitoare, departe de centrele turistice aglomerate. Cei care vizitează se pot plimba cu bucurie pe țărm sau pot petrece o după-amiază lenevind lângă apele calde. Este recomandat să verificați condițiile locale de maree înainte de a planifica o excursie de înot aici.",
-                  "category": "recreational",
-                  "coords": [
-                        55.455279,
-                        -4.686756
-                  ]
-            },
-            {
                   "name": "Anse Louis Beach",
                   "text": "Anse Louis Beach apare ca o enclavă de nisip captivantă în Anse Boileau, invitând călătorii în inima frumuseții de coastă din Seychelles. Această destinație este caracterizată de o senzație relaxată și ușor exclusivistă, perfectă pentru o evadare calmă. Petrecerea unei zile aici permite băi de soare netulburate și scufundări răcoroase în valurile primitoare. Sosirea cu o carte bună și multă protecție solară vă asigură o ședere minunată și prelungită.",
                   "category": "recreational",
                   "coords": [
                         55.479492,
                         -4.718525
-                  ]
-            },
-            {
-                  "name": "New Savy",
-                  "text": "New Savy este o plajă nisipoasă pe coasta de est a insulei Mahé, în Anse Boileau.",
-                  "category": "natural",
-                  "coords": [
-                        55.478373,
-                        -4.676388
-                  ]
-            },
-            {
-                  "name": "National Biodiversity Centre",
-                  "text": "Centrul Național pentru Biodiversitate din Anse Boileau, insula Mahé, este un institut de cercetare pentru conservarea speciilor.",
-                  "category": "landmark",
-                  "coords": [
-                        55.46429,
-                        -4.694249
                   ]
             },
             {
@@ -189,39 +108,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Anse Barbarons",
-                  "text": "Resting in the beautiful Anse Boileau area of the Seychelles, Barbarons Beach provides a stunning tropical seascape. A peaceful ambiance typically prevails, making it wonderful for a restful retreat away from crowded tourist centers. Those visiting can happily wander along the shore or spend an afternoon lounging by the warm waters. It is wise to check the local tide conditions before planning a swimming excursion here.",
-                  "category": "recreational",
-                  "coords": [
-                        55.455279,
-                        -4.686756
-                  ]
-            },
-            {
                   "name": "Anse Louis Beach",
                   "text": "Anse Louis Beach emerges as a captivating sandy enclave within Anse Boileau, inviting travelers into the heart of Seychelles' coastal beauty. This destination is characterized by a relaxed and slightly exclusive feel, perfect for a calming getaway. Spending a day here allows for undisturbed sunbathing and refreshing dips in the inviting waves. Arriving with a good book and plenty of sun protection ensures a wonderful, prolonged stay.",
                   "category": "recreational",
                   "coords": [
                         55.479492,
                         -4.718525
-                  ]
-            },
-            {
-                  "name": "New Savy",
-                  "text": "New Savy is a sandy beach on the east coast of Mahé in Anse Boileau.",
-                  "category": "natural",
-                  "coords": [
-                        55.478373,
-                        -4.676388
-                  ]
-            },
-            {
-                  "name": "National Biodiversity Centre",
-                  "text": "The National Biodiversity Centre in Anse Boileau, Mahé, is a research facility for species conservation.",
-                  "category": "landmark",
-                  "coords": [
-                        55.46429,
-                        -4.694249
                   ]
             },
             {
@@ -285,57 +177,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "sc-beau-vallon-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Museum of Natural History",
-                  "text": "Das Naturhistorische Museum in Beau Vallon zeigt Exemplare der Flora und Fauna der Seychellen.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
-            {
-                  "name": "Kaz Zanana",
-                  "text": "Ein Museum in einem traditionellen kreolischen Haus nahe dem Hauptstrand von Beau Vallon.",
-                  "category": "museum",
-                  "coords": [
-                        55.449341,
-                        -4.622204
-                  ]
-            },
-            {
                   "name": "Beau Vallon",
                   "text": "Der breite Sandstrand von Beau Vallon, beliebt zum Schwimmen und für Sonnenuntergänge.",
                   "category": "recreational",
                   "coords": [
                         55.42709,
                         -4.611012
-                  ]
-            },
-            {
-                  "name": "Anse Marie Laure",
-                  "text": "Eine ruhige Bucht mit stillem Wasser, eingebettet zwischen Granitfelsen.",
-                  "category": "recreational",
-                  "coords": [
-                        55.415468,
-                        -4.61592
-                  ]
-            },
-            {
-                  "name": "Sunset Beach",
-                  "text": "Getreu seinem Namen ist der Sunset Beach in Beau Vallon ein erstklassiges Ziel für Küstenlandschaften auf den Seychellen. Die Atmosphäre wandelt sich von sonnenverwöhnter Entspannung am Tag zu romantischer und malerischer Stimmung am Abend. Man kann Stunden damit verbringen, im Ozean zu schwimmen oder sich im goldenen Sand auszuruhen, während man die Umgebung bewundert. Ein Besuch am späten Nachmittag ist natürlich die beste Wahl für spektakuläre Ausblicke in der Abenddämmerung.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432612,
-                        -4.584969
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "Eine natürliche Felsformation mit Aussicht über die Bucht von Beau Vallon.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
                   ]
             },
             {
@@ -355,54 +202,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.431535,
                         -4.608184
                   ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "Ein historischer Brunnen vor dem Nouvobanque-Gebäude in Beau Vallon.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
-            {
-                  "name": "Domus",
-                  "text": "Ein historisches Kolonialhaus, heute als Kulturzentrum genutzt.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "Die St. Paul's Cathedral ist eine bedeutende anglikanische Kirche in Beau Vallon.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Museum of Natural History",
-                  "text": "A Természettudományi Múzeum Beau Vallonban a Seychelle-szigetek növény- és állatvilágának példányait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
-            {
-                  "name": "Kaz Zanana",
-                  "text": "Múzeum egy hagyományos kreol házban, Beau Vallon fő strandja közelében.",
-                  "category": "museum",
-                  "coords": [
-                        55.449341,
-                        -4.622204
-                  ]
-            },
             {
                   "name": "Beau Vallon",
                   "text": "Beau Vallon széles homokos strandja, népszerű úszásra és naplementékhez.",
@@ -410,33 +212,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.42709,
                         -4.611012
-                  ]
-            },
-            {
-                  "name": "Anse Marie Laure",
-                  "text": "Csendes öböl nyugodt vízzel, gránitsziklák közé ágyazva.",
-                  "category": "recreational",
-                  "coords": [
-                        55.415468,
-                        -4.61592
-                  ]
-            },
-            {
-                  "name": "Sunset Beach",
-                  "text": "Nevéhez hűen a Beau Vallon-i Sunset Beach a Seychelles-szigetek tengerparti tájainak egyik első számú úti célja. A légkör a nappali napsütötte pihenésből romantikussá és festőivé válik, ahogy közeledik az este. Órákat tölthetünk az óceánban úszva vagy az aranyhomokon pihenve, miközben a környezetet csodáljuk. A késő délutáni látogatás természetesen a legjobb választás a látványos alkonyati kilátáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432612,
-                        -4.584969
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "Természetes sziklaformáció, kilátással a Beau Vallon-öbölre.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
                   ]
             },
             {
@@ -456,54 +231,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.431535,
                         -4.608184
                   ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "Történelmi szökőkút-emlékmű a Nouvobanque épülete előtt Beau Vallonban.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
-            {
-                  "name": "Domus",
-                  "text": "Történelmi gyarmati ház, ma kulturális központként működik.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "A St. Paul's Cathedral egy jelentős anglikán templom Beau Vallonban.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Museum of Natural History",
-                  "text": "Muzeul de Istorie Naturală din Beau Vallon expune specimene ale florei și faunei din Seychelles.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
-            {
-                  "name": "Kaz Zanana",
-                  "text": "Un muzeu într-o casă tradițională creolă lângă plaja principală din Beau Vallon.",
-                  "category": "museum",
-                  "coords": [
-                        55.449341,
-                        -4.622204
-                  ]
-            },
             {
                   "name": "Beau Vallon",
                   "text": "Plaja largă nisipoasă din Beau Vallon, populară pentru înot și apusuri.",
@@ -511,33 +241,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.42709,
                         -4.611012
-                  ]
-            },
-            {
-                  "name": "Anse Marie Laure",
-                  "text": "Un golf liniștit cu ape calme, încadrat de bolovani de granit.",
-                  "category": "recreational",
-                  "coords": [
-                        55.415468,
-                        -4.61592
-                  ]
-            },
-            {
-                  "name": "Sunset Beach",
-                  "text": "Fidel numelui său, Sunset Beach din Beau Vallon se remarcă ca o destinație de top pentru peisajul de coastă din Seychelles. Atmosfera trece de la o relaxare însorită în timpul zilei la un cadru romantic și pitoresc pe măsură ce se apropie seara. Puteți petrece ore întregi înotând în ocean sau odihnindu-vă pe nisipurile aurii, în timp ce admirați împrejurimile. O vizită spre sfârșitul după-amiezii este, firesc, cea mai bună alegere pentru vederi spectaculoase la amurg.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432612,
-                        -4.584969
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "O formațiune naturală de stâncă cu vedere asupra golfului Beau Vallon.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
                   ]
             },
             {
@@ -557,54 +260,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.431535,
                         -4.608184
                   ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "Un monument fântână istoric în fața clădirii Nouvobanque din Beau Vallon.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
-            {
-                  "name": "Domus",
-                  "text": "O casă colonială istorică, acum folosită ca spațiu cultural.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "St. Paul's Cathedral este o biserică anglicană notabilă situată în Beau Vallon.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Museum of Natural History",
-                  "text": "The Museum of Natural History in Beau Vallon displays specimens of Seychelles' flora and fauna.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
-            {
-                  "name": "Kaz Zanana",
-                  "text": "A museum in a traditional Creole house near the main beach of Beau Vallon.",
-                  "category": "museum",
-                  "coords": [
-                        55.449341,
-                        -4.622204
-                  ]
-            },
             {
                   "name": "Beau Vallon",
                   "text": "The wide sandy beach of Beau Vallon, popular for swimming and sunsets.",
@@ -612,33 +270,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.42709,
                         -4.611012
-                  ]
-            },
-            {
-                  "name": "Anse Marie Laure",
-                  "text": "A quiet cove with calm waters, nestled between granite boulders.",
-                  "category": "recreational",
-                  "coords": [
-                        55.415468,
-                        -4.61592
-                  ]
-            },
-            {
-                  "name": "Sunset Beach",
-                  "text": "True to its name, Sunset Beach in Beau Vallon stands as a premier destination for coastal scenery in the Seychelles. The atmosphere shifts from sun-drenched relaxation during the day to romantic and picturesque as the evening approaches. You can spend hours swimming in the ocean or resting on the golden sands while admiring the surroundings. Visiting late in the afternoon is naturally the best choice for spectacular twilight views.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432612,
-                        -4.584969
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "A natural rock formation offering views over Beau Vallon bay.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
                   ]
             },
             {
@@ -657,33 +288,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.431535,
                         -4.608184
-                  ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "A historical fountain monument in front of the Nouvobanque building.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
-            {
-                  "name": "La Domus",
-                  "text": "A historic colonial house now used as a cultural venue.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "St. Paul's Cathedral is a notable Anglican church located in Beau Vallon.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
                   ]
             }
       ]
@@ -738,15 +342,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "sc-anse-royale-cities-v2", "sights": {
       "de": [
             {
-                  "name": "La Grande Maison",
-                  "text": "Ein restauriertes Plantagenhausmuseum mit originaler Einrichtung.",
-                  "category": "museum",
-                  "coords": [
-                        55.523093,
-                        -4.719443
-                  ]
-            },
-            {
                   "name": "Anse Bougainville Beach",
                   "text": "Der Strand Anse Bougainville ziert die Küste von Anse Royale und präsentiert eine reizvolle Ecke der Küste der Seychellen. Er strahlt meist eine friedliche Atmosphäre aus und zieht all jene an, die das leise Rauschen der Palmen belebten Promenaden vorziehen. Genießen Sie einen Tag, der von sanftem Schwimmen, Strandspaziergängen und dem Finden eines gemütlichen Platzes im Sand geprägt ist. Badeschuhe sind sehr zu empfehlen, wenn man die felsigen Ränder der Bucht erkunden möchte.",
                   "category": "recreational",
@@ -765,39 +360,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Turtle Bay",
-                  "text": "Eine Bucht mit ruhigem Wasser, bekannt für Schildkrötenbeobachtungen.",
-                  "category": "recreational",
-                  "coords": [
-                        55.52231,
-                        -4.71334
-                  ]
-            },
-            {
                   "name": "Anse Royale Beach",
                   "text": "Bekannt für sein atemberaubend klares Wasser, ist der Anse Royale Beach ein beliebter Sandstreifen an der Küste der Seychellen. Die Atmosphäre ist lebhaft und dennoch familienfreundlich und eignet sich sowohl für aktive Schwimmer als auch für entspannte Sonnenanbeter. Es erwarten Sie hervorragende Bedingungen zum Waten im flachen Wasser oder für einen langen, malerischen Spaziergang am Meer. Wer früh kommt, sichert sich den besten Platz, bevor am Nachmittag mehr Besucher eintreffen.",
                   "category": "recreational",
                   "coords": [
                         55.518566,
                         -4.742049
-                  ]
-            },
-            {
-                  "name": "Anse Aux Courbes Beach",
-                  "text": "Versteckt an der Küste von Anse Royale ist der Strand Anse Aux Courbes eine ruhige Oase für Strandbesucher. Er bietet ein abgeschiedenes Ambiente, das sich wie in einer anderen Welt anfühlt, weit weg von den lebhafteren Küstenorten. Dieser Ort eignet sich hervorragend zum ruhigen Lesen, zum Beobachten der Küstennatur und für sanfte Bäder im Meer. Den eigenen Sonnenschutz und Erfrischungen mitzubringen, ist eine großartige Möglichkeit, die Zeit hier optimal zu nutzen.",
-                  "category": "recreational",
-                  "coords": [
-                        55.525413,
-                        -4.728145
-                  ]
-            },
-            {
-                  "name": "Montagne Brulée",
-                  "text": "Ein Gipfel in Anse Royale, der Ausblicke auf die umliegende Landschaft bietet.",
-                  "category": "natural",
-                  "coords": [
-                        55.505935,
-                        -4.714988
                   ]
             },
             {
@@ -830,15 +398,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "La Grande Maison",
-                  "text": "Felújított ültetvényház-múzeum korabeli berendezéssel.",
-                  "category": "museum",
-                  "coords": [
-                        55.523093,
-                        -4.719443
-                  ]
-            },
-            {
                   "name": "Anse Bougainville Beach",
                   "text": "Az Anse Bougainville strand Anse Royale partjait díszíti, bemutatva a Seychelles-szigetek partvonalának egy kedves szegletét. Általában békés hangulatot áraszt, vonzva azokat, akik a pálmák csendes susogását részesítik előnyben a zsúfolt sétányokkal szemben. Élvezze a kellemes úszással, parti gyűjtögetéssel és egy kényelmes homokos hely megtalálásával fémjelzett napot. Vízicipő viselete erősen ajánlott, ha az öböl sziklás széleit szeretné felfedezni.",
                   "category": "recreational",
@@ -857,39 +416,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Turtle Bay",
-                  "text": "Öböl nyugodt vízzel, teknősök megfigyeléséről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        55.52231,
-                        -4.71334
-                  ]
-            },
-            {
                   "name": "Anse Royale Beach",
                   "text": "A lenyűgözően tiszta vizéről híres Anse Royale Beach a Seychelles-szigetek partvidékének kedvelt homokos szakasza. A hangulat nyüzsgő, mégis családbarát, könnyedén kiszolgálja az energikus úszókat és a kényelmes napozókat is. Kiváló körülményekre számíthat a sekély vízben való gázoláshoz vagy egy hosszú, festői sétához az óceán mentén. A korai érkezés biztosítja a legjobb helyet, mielőtt a délutáni tömeg megérkezik.",
                   "category": "recreational",
                   "coords": [
                         55.518566,
                         -4.742049
-                  ]
-            },
-            {
-                  "name": "Anse Aux Courbes Beach",
-                  "text": "Az Anse Royale partján megbúvó Anse Aux Courbes Beach egy csendes menedék a strandolni vágyók számára. Elszigetelt hangulatot kínál, amely mérföldekre tűnik a nyüzsgőbb tengerparti üdülőhelyektől. Ez a helyszín ragyogóan alkalmas csendes olvasásra, a partvidéki természet megfigyelésére és a tengerben való gyengéd mártózásra. Saját árnyékoló és frissítők magunkkal hozatala nagyszerű módja annak, hogy maximalizáljuk az itt töltött időt.",
-                  "category": "recreational",
-                  "coords": [
-                        55.525413,
-                        -4.728145
-                  ]
-            },
-            {
-                  "name": "Montagne Brulée",
-                  "text": "Egy csúcs Anse Royale-ban, amely kilátást nyújt a környező tájra.",
-                  "category": "natural",
-                  "coords": [
-                        55.505935,
-                        -4.714988
                   ]
             },
             {
@@ -922,15 +454,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "La Grande Maison",
-                  "text": "Un muzeu într-o casă de plantație restaurată cu mobilier de epocă.",
-                  "category": "museum",
-                  "coords": [
-                        55.523093,
-                        -4.719443
-                  ]
-            },
-            {
                   "name": "Anse Bougainville Beach",
                   "text": "Plaja Anse Bougainville împodobește țărmurile din Anse Royale, prezentând un colț minunat al liniei de coastă din Seychelles. În general, menține o vibrație pașnică, atrăgându-i pe cei care preferă foșnetul liniștit al palmierilor în locul promenadelor aglomerate. Bucurați-vă de o zi caracterizată prin înot blând, plimbări pe plajă și găsirea unui loc confortabil pe nisip. Încălțămintea de apă este foarte recomandată dacă plănuiți să explorați marginile stâncoase ale golfului.",
                   "category": "recreational",
@@ -949,39 +472,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Turtle Bay",
-                  "text": "Un golf cu ape liniștite, cunoscut pentru observarea țestoaselor.",
-                  "category": "recreational",
-                  "coords": [
-                        55.52231,
-                        -4.71334
-                  ]
-            },
-            {
                   "name": "Anse Royale Beach",
                   "text": "Renumită pentru apele sale uluitor de limpezi, plaja Anse Royale este o întindere de nisip favorită pe coasta din Seychelles. Atmosfera este vibrantă, dar potrivită pentru familii, găzduind cu ușurință atât înotătorii energici, cât și pasionații de bronz relaxați. Așteptați-vă la condiții excelente pentru a vă plimba prin apele puțin adânci sau pentru a face o lungă plimbare pitorească de-a lungul oceanului. Vizitarea devreme vă asigură cel mai bun loc înainte de a sosi mulțimea de după-amiază.",
                   "category": "recreational",
                   "coords": [
                         55.518566,
                         -4.742049
-                  ]
-            },
-            {
-                  "name": "Anse Aux Courbes Beach",
-                  "text": "Ascunsă pe coasta Anse Royale, plaja Anse Aux Courbes este un refugiu liniștit pentru iubitorii de plajă. Oferă o ambianță retrasă, care pare a fi la o lume distanță de stațiunile de coastă mai aglomerate. Acest loc este genial pentru a citi în liniște, pentru a observa natura de coastă și pentru a vă bucura de scufundări ușoare în mare. Aducerea propriei umbrele și a băuturilor răcoritoare este o modalitate excelentă de a vă maximiza timpul aici.",
-                  "category": "recreational",
-                  "coords": [
-                        55.525413,
-                        -4.728145
-                  ]
-            },
-            {
-                  "name": "Montagne Brulée",
-                  "text": "Un vârf în Anse Royale care oferă priveliști asupra peisajului înconjurător.",
-                  "category": "natural",
-                  "coords": [
-                        55.505935,
-                        -4.714988
                   ]
             },
             {
@@ -1014,15 +510,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "La Grande Maison",
-                  "text": "A restored plantation house museum with period furniture.",
-                  "category": "museum",
-                  "coords": [
-                        55.523093,
-                        -4.719443
-                  ]
-            },
-            {
                   "name": "Anse Bougainville Beach",
                   "text": "Anse Bougainville Beach graces the shores of Anse Royale, presenting a lovely corner of the Seychelles coastline. It generally maintains a peaceful vibe, drawing those who prefer the quiet rustle of palms over crowded promenades. Enjoy a day characterized by gentle swimming, beachcombing, and finding a cozy spot on the sand. Water shoes are highly recommended if you plan to explore the rocky edges of the cove.",
                   "category": "recreational",
@@ -1041,39 +528,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Turtle Bay",
-                  "text": "A bay known for its calm waters and turtle sightings.",
-                  "category": "recreational",
-                  "coords": [
-                        55.52231,
-                        -4.71334
-                  ]
-            },
-            {
                   "name": "Anse Royale Beach",
                   "text": "Renowned for its stunningly clear waters, Anse Royale Beach is a favorite sandy stretch on the Seychelles coastline. The atmosphere is vibrant yet family-friendly, easily accommodating both energetic swimmers and laid-back sunbathers. Expect excellent conditions for wading in the shallows or taking a long, scenic walk along the ocean. Visiting early ensures the best spot before the afternoon crowds arrive.",
                   "category": "recreational",
                   "coords": [
                         55.518566,
                         -4.742049
-                  ]
-            },
-            {
-                  "name": "Anse Aux Courbes Beach",
-                  "text": "Tucked away on the coast of Anse Royale, Anse Aux Courbes Beach is a quiet haven for beachgoers. It offers a secluded ambiance that feels worlds away from the more bustling coastal resorts. This spot is brilliant for quiet reading, observing coastal nature, and enjoying gentle dips in the sea. Bringing your own shade and refreshments is a great way to maximize your time here.",
-                  "category": "recreational",
-                  "coords": [
-                        55.525413,
-                        -4.728145
-                  ]
-            },
-            {
-                  "name": "Montagne Brulée",
-                  "text": "A peak in Anse Royale offering views of the surrounding landscape.",
-                  "category": "natural",
-                  "coords": [
-                        55.505935,
-                        -4.714988
                   ]
             },
             {
@@ -1210,87 +670,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.452436,
                         -4.591894
                   ]
-            },
-            {
-                  "name": "Carana Public Beach",
-                  "text": "Der Carana Public Beach entfaltet sich anmutig in Anse Etoile und präsentiert eine äußerst malerische Küstenszene. Er pulsiert oft mit einer freundlichen, lokalen Energie und bietet dennoch viel Platz, um sich auszubreiten. Besucher kommen hierher, um ihren Tag mit Sonnenbaden im weichen Sand und Schwimmen im wunderschönen Wasser abzurunden. Es ist immer eine gute Idee, die Stärke der Wellen im Auge zu behalten, bevor man in die Brandung hinausgeht.",
-                  "category": "recreational",
-                  "coords": [
-                        55.453484,
-                        -4.566097
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "Ein kleiner Sandstrand an der Nordküste von Mahé bei Anse Étoile.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
-            {
-                  "name": "Glacis Beach",
-                  "text": "Der Glacis Beach bietet eine durch und durch entspannende Küstenumgebung und ist ein reizvoller Abschnitt von Anse Etoile. Seine ruhige Art ist eine perfekte Ergänzung für Paare und Einzelpersonen, die etwas Erholung am Meer suchen. Sie können Ihre Zeit ganz entspannt damit verbringen, an der Flutlinie entlang zu spazieren, zu schwimmen oder einfach die tropische Sonne zu genießen. Mit einer bequemen Strandmatte wird das Faulenzen am weichen Ufer noch angenehmer.",
-                  "category": "recreational",
-                  "coords": [
-                        55.433166,
-                        -4.571878
-                  ]
-            },
-            {
-                  "name": "Sunset Beach",
-                  "text": "Dieser in Anse Etoile gelegene Sunset Beach hält an seinem äußerst malerischen Sandstrand genau das, was sein Name verspricht. Die Stimmung geht fließend von einem hellen, aktiven Tagesziel in eine zutiefst ruhige abendliche Oase über. Es ist ein fantastischer Ort für ein lockeres Schwimmen, das Fotografieren der Landschaft oder zum Entspannen am Strand. Wer kurz vor dem späten Nachmittag eintrifft, sichert sich einen Platz in der ersten Reihe für das tägliche Lichtspiel.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432612,
-                        -4.584969
-                  ]
-            },
-            {
-                  "name": "Machabee Public Beach",
-                  "text": "Der Machabee Public Beach dient als ruhiges, unaufdringliches Küstenziel in Anse Etoile. Sein zurückhaltender Charakter zieht vor allem diejenigen an, die den stark frequentierten Touristengebieten entfliehen möchten. Ein Besuch hier wird am besten mit langsamen Spaziergängen am Wasser, leichtem Schwimmen und friedlicher Meditation verbracht. Aufgrund seines naturbelassenen Zustands ist es immer eine kluge Entscheidung, reichlich Wasser und ein paar grundlegende Dinge mitzunehmen.",
-                  "category": "recreational",
-                  "coords": [
-                        55.44757,
-                        -4.564431
-                  ]
-            },
-            {
-                  "name": "Tusculum Beach",
-                  "text": "Versteckt in Anse Etoile ist der Tusculum Beach ein äußerst angenehmer Abschnitt der Küste der Seychellen. Diese Gegend verströmt meist eine sanfte und einladende Stimmung, was sie zu einer großartigen Option für einen faulen Nachmittag. Genießen Sie Ihre Zeit beim Beobachten der Küstenumgebung, bei einem kühlen Bad oder fühlen Sie einfach den weichen Sand unter Ihren Füßen. Ein Besuch am Morgen garantiert in der Regel die angenehmsten Temperaturen und das ruhigste Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432861,
-                        -4.581445
-                  ]
-            },
-            {
-                  "name": "Teddy's Glass Bottom Boat",
-                  "text": "Teddy's Glass Bottom Boat ist eine interessante lokale Attraktion in Anse Etoile.",
-                  "category": "landmark",
-                  "coords": [
-                        55.431535,
-                        -4.608184
-                  ]
-            },
-            {
-                  "name": "La Bastille",
-                  "text": "La Bastille ist eine lokale Sehenswürdigkeit in Anse Etoile.",
-                  "category": "landmark",
-                  "coords": [
-                        55.458211,
-                        -4.610422
-                  ]
-            },
-            {
-                  "name": "Rock Pool",
-                  "text": "Ein natürlicher Gezeitenpool, geformt von Granitfelsen.",
-                  "category": "landmark",
-                  "coords": [
-                        55.443596,
-                        -4.564301
-                  ]
             }
       ],
       "hu": [
@@ -1301,87 +680,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.452436,
                         -4.591894
-                  ]
-            },
-            {
-                  "name": "Carana Public Beach",
-                  "text": "A Carana Public Beach kecsesen terül el Anse Etoile-ban, rendkívül festői tengerparti jelenetet tárva elénk. Gyakran lüktet a barátságos, helyi energiától, miközben továbbra is rengeteg helyet kínál a kikapcsolódáshoz. A látogatók azért jönnek, hogy a puha homokban való napozással és a gyönyörű vizekben való úszással tegyék teljessé napjukat. Mindig jó ötlet figyelemmel kísérni a hullámok erősségét, mielőtt kimerészkednénk a habokba.",
-                  "category": "recreational",
-                  "coords": [
-                        55.453484,
-                        -4.566097
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "Kis homokos strand Mahé északi partján, Anse Étoile közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
-            {
-                  "name": "Glacis Beach",
-                  "text": "A Glacis Beach teljesen pihentető tengerparti környezetet kínál Anse Etoile egy elragadó szakaszán. Nyugodt viselkedése tökéletes párok és egyének számára, akik az óceán partján keresnek kikapcsolódást. Könnyedén eltöltheti az időt a partvonal mentén sétálva, úszva, vagy egyszerűen csak a trópusi napsütést élvezve. Egy kényelmes strandmatrac magával hozatala még kellemesebbé teszi a puha parton való heverészést.",
-                  "category": "recreational",
-                  "coords": [
-                        55.433166,
-                        -4.571878
-                  ]
-            },
-            {
-                  "name": "Sunset Beach",
-                  "text": "Az Anse Etoile-ban található Sunset Beach pontosan azt nyújtja egy rendkívül festői homokos parton, amit a neve ígér. A hangulat zökkenőmentesen vált át a fényes, aktív nappali úti célból egy mélyen nyugodt esti menedékké. Fantasztikus helyszín laza úszáshoz, a táj fotózásához vagy a tengerparti pihenéshez. A késő délután előtti érkezés garantálja a legjobb helyet a napi fényjátékhoz.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432612,
-                        -4.584969
-                  ]
-            },
-            {
-                  "name": "Machabee Public Beach",
-                  "text": "A Machabee Public Beach csendes, szerény tengerparti úti célként szolgál Anse Etoile területén belül. Visszafogott karaktere erősen vonzza azokat, akik szeretnének elmenekülni a forgalmasabb turisztikai területekről. Az itteni látogatást a legérdemesebb a vízparti lassú sétákkal, könnyű úszással és békés elmélkedéssel tölteni. Természetes állapota miatt mindig bölcs döntés bőséges ivóvizet és néhány alapvető kelléket magunkkal vinni.",
-                  "category": "recreational",
-                  "coords": [
-                        55.44757,
-                        -4.564431
-                  ]
-            },
-            {
-                  "name": "Tusculum Beach",
-                  "text": "Az Anse Etoile-ban megbúvó Tusculum Beach a Seychelles-szigetek partvonalának rendkívül kellemes szakasza. Ez a terület általában lágy és hívogató hangulatot áraszt, így nagyszerű választás egy lusta délutánra. Élvezze az időt a tengerparti környezet megfigyelésével, egy hűsítő csobbanással, vagy egyszerűen csak érezze a puha homokot a lába alatt. A reggeli látogatás jellemzően a legkényelmesebb hőmérsékletet és a legnyugodtabb vizet biztosítja.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432861,
-                        -4.581445
-                  ]
-            },
-            {
-                  "name": "Teddy's Glass Bottom Boat",
-                  "text": "A Teddy's Glass Bottom Boat egy vonzó helyi látványosság Anse Etoile-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.431535,
-                        -4.608184
-                  ]
-            },
-            {
-                  "name": "La Bastille",
-                  "text": "A La Bastille egy helyi látványosság Anse Etoile-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.458211,
-                        -4.610422
-                  ]
-            },
-            {
-                  "name": "Rock Pool",
-                  "text": "Természetes dagálymedence, gránitsziklák által formálva.",
-                  "category": "landmark",
-                  "coords": [
-                        55.443596,
-                        -4.564301
                   ]
             }
       ],
@@ -1394,87 +692,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.452436,
                         -4.591894
                   ]
-            },
-            {
-                  "name": "Carana Public Beach",
-                  "text": "Plaja publică Carana se desfășoară cu grație în Anse Etoile, prezentând o scenă de coastă extrem de pitorească. Adesea pulsează de o energie locală, prietenoasă, oferind în același timp suficient spațiu pentru a vă întinde. Vizitatorii vin să-și echilibreze ziua cu băi de soare pe nisipul moale și înot în apele frumoase. Este întotdeauna o idee bună să fiți atenți la puterea valurilor înainte de a intra în apă.",
-                  "category": "recreational",
-                  "coords": [
-                        55.453484,
-                        -4.566097
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "O plajă mică nisipoasă pe coasta de nord a Mahé, lângă Anse Etoile.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
-            {
-                  "name": "Glacis Beach",
-                  "text": "Oferind un mediu de coastă pe deplin relaxant, plaja Glacis este un segment încântător din Anse Etoile. Atitudinea sa calmă este potrivită pentru cuplurile și persoanele care caută timp de odihnă lângă ocean. Vă puteți petrece cu ușurință timpul plimbându-vă de-a lungul liniei de coastă, înotând sau pur și simplu bucurându-vă de soarele tropical. Aducerea unui covoraș de plajă confortabil face ca statul pe țărmul moale să fie și mai plăcut.",
-                  "category": "recreational",
-                  "coords": [
-                        55.433166,
-                        -4.571878
-                  ]
-            },
-            {
-                  "name": "Sunset Beach",
-                  "text": "Situată în Anse Etoile, această plajă Sunset oferă de-a lungul țărmului său de nisip extrem de pitoresc exact ceea ce promite numele. Atmosfera trece lin de la o destinație de zi luminoasă și activă la un refugiu de seară profund liniștit. Este un loc fantastic pentru înot ocazional, pentru captarea de fotografii ale peisajului sau pentru relaxare pe plajă. Sosirea chiar înainte de sfârșitul după-amiezii vă garantează un loc în primul rând la spectacolul zilnic de lumini.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432612,
-                        -4.584969
-                  ]
-            },
-            {
-                  "name": "Machabee Public Beach",
-                  "text": "Plaja publică Machabee servește ca o destinație de coastă liniștită și discretă în Anse Etoile. Caracterul său subtil îi atrage puternic pe cei care doresc să evadeze din zonele turistice mai intens circulate. O vizită aici este cel mai bine petrecută bucurându-vă de plimbări lente pe malul apei, înot ușor și meditație pașnică. Datorită stării sale naturale, luarea unei cantități suficiente de apă și a unor provizii de bază este întotdeauna o alegere înțeleaptă.",
-                  "category": "recreational",
-                  "coords": [
-                        55.44757,
-                        -4.564431
-                  ]
-            },
-            {
-                  "name": "Tusculum Beach",
-                  "text": "Ascunsă în Anse Etoile, plaja Tusculum este o întindere extrem de plăcută a țărmului din Seychelles. Această zonă tinde să emane o stare de spirit blândă și primitoare, fiind o opțiune excelentă pentru o după-amiază leneșă. Bucurați-vă de timpul petrecut observând mediul de coastă, făcând o baie răcoroasă sau pur și simplu simțind nisipul moale sub picioare. O vizită de dimineață asigură de obicei cele mai confortabile temperaturi și cele mai calme ape.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432861,
-                        -4.581445
-                  ]
-            },
-            {
-                  "name": "Teddy's Glass Bottom Boat",
-                  "text": "Teddy's Glass Bottom Boat oferă o atracție locală interesantă în Anse Etoile.",
-                  "category": "landmark",
-                  "coords": [
-                        55.431535,
-                        -4.608184
-                  ]
-            },
-            {
-                  "name": "La Bastille",
-                  "text": "La Bastille este un punct de atracție local situat în Anse Etoile.",
-                  "category": "landmark",
-                  "coords": [
-                        55.458211,
-                        -4.610422
-                  ]
-            },
-            {
-                  "name": "Rock Pool",
-                  "text": "O piscină naturală de maree formată din bolovani de granit.",
-                  "category": "landmark",
-                  "coords": [
-                        55.443596,
-                        -4.564301
-                  ]
             }
       ],
       "en": [
@@ -1485,87 +702,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.452436,
                         -4.591894
-                  ]
-            },
-            {
-                  "name": "Carana Public Beach",
-                  "text": "Carana Public Beach unfolds gracefully in Anse Etoile, presenting a highly picturesque coastal scene. It often pulses with a friendly, local energy while still offering plenty of room to stretch out. Visitors come to balance their day with sunbathing on the soft sands and swimming in the beautiful waters. Keeping an eye on the wave strength is always a good idea before heading out into the surf.",
-                  "category": "recreational",
-                  "coords": [
-                        55.453484,
-                        -4.566097
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "A small sandy beach on the north coast of Mahé near Anse Etoile.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
-            {
-                  "name": "Glacis Beach",
-                  "text": "Offering a thoroughly relaxing coastal environment, Glacis Beach is a delightful segment of Anse Etoile. Its calm demeanor is a perfect match for couples and individuals looking for some downtime by the ocean. You can easily spend your time walking along the tideline, swimming, or simply soaking in the tropical sun. Bringing a comfortable beach mat makes lounging on the soft shore even more pleasant.",
-                  "category": "recreational",
-                  "coords": [
-                        55.433166,
-                        -4.571878
-                  ]
-            },
-            {
-                  "name": "Sunset Beach",
-                  "text": "Located in Anse Etoile, this Sunset Beach delivers exactly what its name promises along a highly picturesque sandy shore. The vibe transitions smoothly from a bright, active daytime destination to a deeply tranquil evening haven. It is a fantastic spot for casual swimming, capturing photographs of the scenery, or relaxing on the beach. Arriving just before late afternoon guarantees a front-row seat to the daily light show.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432612,
-                        -4.584969
-                  ]
-            },
-            {
-                  "name": "Machabee Public Beach",
-                  "text": "Machabee Public Beach serves as a quiet, unassuming coastal destination within Anse Etoile. Its understated character appeals strongly to those wishing to escape the more heavily trafficked tourist areas. A visit here is best spent enjoying slow walks along the water, light swimming, and peaceful meditation. Due to its natural state, taking along plenty of water and some basic supplies is always a wise choice.",
-                  "category": "recreational",
-                  "coords": [
-                        55.44757,
-                        -4.564431
-                  ]
-            },
-            {
-                  "name": "Tusculum Beach",
-                  "text": "Tucked away in Anse Etoile, Tusculum Beach is a highly pleasant stretch of the Seychelles shoreline. This area tends to exude a gentle and inviting mood, making it a great option for a lazy afternoon. Enjoy your time observing the coastal environment, going for a cool dip, or simply feeling the soft sand beneath your feet. A morning visit typically ensures the most comfortable temperatures and calmest waters.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432861,
-                        -4.581445
-                  ]
-            },
-            {
-                  "name": "Teddy's Glass Bottom Boat",
-                  "text": "Teddy's Glass Bottom Boat offers an engaging local attraction in Anse Etoile.",
-                  "category": "landmark",
-                  "coords": [
-                        55.431535,
-                        -4.608184
-                  ]
-            },
-            {
-                  "name": "La Bastille",
-                  "text": "La Bastille is a local point of interest located in Anse Etoile.",
-                  "category": "landmark",
-                  "coords": [
-                        55.458211,
-                        -4.610422
-                  ]
-            },
-            {
-                  "name": "Rock Pool",
-                  "text": "A natural tidal pool formed by granite rocks.",
-                  "category": "landmark",
-                  "coords": [
-                        55.443596,
-                        -4.564301
                   ]
             }
       ]
@@ -1926,15 +1062,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse Petit Cour",
-                  "text": "Ein kleiner abgeschiedener Strand an der Ostküste von Praslin.",
-                  "category": "recreational",
-                  "coords": [
-                        55.735044,
-                        -4.309108
-                  ]
-            },
-            {
                   "name": "Anse Gouvernment",
                   "text": "Ein Strand in Baie Sainte Anne, der sich zum Schwimmen und Entspannen eignet.",
                   "category": "recreational",
@@ -1950,60 +1077,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.761852,
                         -4.31989
-                  ]
-            },
-            {
-                  "name": "Parc national marin de Curieuse",
-                  "text": "Ein Meeresnationalpark, der für seine Riesenschildkröten und seine vielfältige Tierwelt bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        55.725173,
-                        -4.293463
-                  ]
-            },
-            {
-                  "name": "Vallée de Mai",
-                  "text": "Ein UNESCO-Weltnaturerbe, in dem die endemische Coco de Mer-Palme beheimatet ist.",
-                  "category": "landmark",
-                  "coords": [
-                        55.739875,
-                        -4.331831
-                  ]
-            },
-            {
-                  "name": "Giant Tortoise",
-                  "text": "Eine Attraktion in Baie Sainte Anne, bei der Besucher Riesenschildkröten sehen können.",
-                  "category": "landmark",
-                  "coords": [
-                        55.742086,
-                        -4.313501
-                  ]
-            },
-            {
-                  "name": "Berjaya Resort",
-                  "text": "Ein Resort in Baie Sainte Anne, das Unterkünfte am Strand bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        55.743906,
-                        -4.314133
-                  ]
-            },
-            {
-                  "name": "Joli coin pour observer les poissons. Petit passage depuis la route",
-                  "text": "Ein ausgewiesener Ort in Baie Sainte Anne zur Beobachtung der Meeresfauna.",
-                  "category": "landmark",
-                  "coords": [
-                        55.732101,
-                        -4.309002
-                  ]
-            },
-            {
-                  "name": "Barracuda Excursion",
-                  "text": "Ein Ausgangspunkt für Bootsausflüge und Touren in Baie Sainte Anne.",
-                  "category": "landmark",
-                  "coords": [
-                        55.745711,
-                        -4.31572
                   ]
             },
             {
@@ -2027,15 +1100,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse Petit Cour",
-                  "text": "Kis, félreeső strand Praslin keleti partján.",
-                  "category": "recreational",
-                  "coords": [
-                        55.735044,
-                        -4.309108
-                  ]
-            },
-            {
                   "name": "Anse Gouvernment",
                   "text": "Strand Baie Sainte Anne-ban, amely alkalmas úszásra és pihenésre.",
                   "category": "recreational",
@@ -2051,60 +1115,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.761852,
                         -4.31989
-                  ]
-            },
-            {
-                  "name": "Parc national marin de Curieuse",
-                  "text": "Tengeri nemzeti park, amely óriásteknőseiről és változatos élővilágáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        55.725173,
-                        -4.293463
-                  ]
-            },
-            {
-                  "name": "Vallée de Mai",
-                  "text": "Az UNESCO Világörökség része, amely az őshonos tengerikókusz pálmának ad otthont.",
-                  "category": "landmark",
-                  "coords": [
-                        55.739875,
-                        -4.331831
-                  ]
-            },
-            {
-                  "name": "Giant Tortoise",
-                  "text": "Látványosság Baie Sainte Anne-ban, ahol a látogatók óriásteknősöket láthatnak.",
-                  "category": "landmark",
-                  "coords": [
-                        55.742086,
-                        -4.313501
-                  ]
-            },
-            {
-                  "name": "Berjaya Resort",
-                  "text": "Üdülőhely Baie Sainte Anne-ban, amely tengerparti szállást kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        55.743906,
-                        -4.314133
-                  ]
-            },
-            {
-                  "name": "Joli coin pour observer les poissons. Petit passage depuis la route",
-                  "text": "Kijelölt hely Baie Sainte Anne-ban a tengeri élővilág megfigyelésére.",
-                  "category": "landmark",
-                  "coords": [
-                        55.732101,
-                        -4.309002
-                  ]
-            },
-            {
-                  "name": "Barracuda Excursion",
-                  "text": "Kiindulópont hajókirándulásokhoz és túrákhoz Baie Sainte Anne-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.745711,
-                        -4.31572
                   ]
             },
             {
@@ -2128,15 +1138,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse Petit Cour",
-                  "text": "O plajă mică retrasă pe coasta de est a Praslinului.",
-                  "category": "recreational",
-                  "coords": [
-                        55.735044,
-                        -4.309108
-                  ]
-            },
-            {
                   "name": "Anse Gouvernment",
                   "text": "O plajă în Baie Sainte Anne potrivită pentru înot și relaxare.",
                   "category": "recreational",
@@ -2152,60 +1153,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.761852,
                         -4.31989
-                  ]
-            },
-            {
-                  "name": "Parc national marin de Curieuse",
-                  "text": "Un parc național marin cunoscut pentru țestoasele sale uriașe și fauna diversă.",
-                  "category": "natural",
-                  "coords": [
-                        55.725173,
-                        -4.293463
-                  ]
-            },
-            {
-                  "name": "Vallée de Mai",
-                  "text": "Un sit al Patrimoniului Mondial UNESCO, unde crește palmierul endemic Coco de Mer.",
-                  "category": "landmark",
-                  "coords": [
-                        55.739875,
-                        -4.331831
-                  ]
-            },
-            {
-                  "name": "Giant Tortoise",
-                  "text": "O atracție în Baie Sainte Anne unde vizitatorii pot vedea țestoase uriașe.",
-                  "category": "landmark",
-                  "coords": [
-                        55.742086,
-                        -4.313501
-                  ]
-            },
-            {
-                  "name": "Berjaya Resort",
-                  "text": "O stațiune în Baie Sainte Anne care oferă cazare pe plajă.",
-                  "category": "recreational",
-                  "coords": [
-                        55.743906,
-                        -4.314133
-                  ]
-            },
-            {
-                  "name": "Joli coin pour observer les poissons. Petit passage depuis la route",
-                  "text": "Un loc desemnat în Baie Sainte Anne pentru observarea vieții marine.",
-                  "category": "landmark",
-                  "coords": [
-                        55.732101,
-                        -4.309002
-                  ]
-            },
-            {
-                  "name": "Barracuda Excursion",
-                  "text": "Un punct de plecare pentru excursii cu barca și tururi în Baie Sainte Anne.",
-                  "category": "landmark",
-                  "coords": [
-                        55.745711,
-                        -4.31572
                   ]
             },
             {
@@ -2229,15 +1176,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse Petit Cour",
-                  "text": "A small secluded beach on Praslin's east coast.",
-                  "category": "recreational",
-                  "coords": [
-                        55.735044,
-                        -4.309108
-                  ]
-            },
-            {
                   "name": "Anse Gouvernment",
                   "text": "A beach in Baie Sainte Anne suitable for swimming and relaxation.",
                   "category": "recreational",
@@ -2253,60 +1191,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.761852,
                         -4.31989
-                  ]
-            },
-            {
-                  "name": "Parc national marin de Curieuse",
-                  "text": "A marine national park known for its giant tortoises and diverse wildlife.",
-                  "category": "natural",
-                  "coords": [
-                        55.725173,
-                        -4.293463
-                  ]
-            },
-            {
-                  "name": "Vallée de Mai",
-                  "text": "A UNESCO World Heritage site home to the endemic Coco de Mer palm.",
-                  "category": "landmark",
-                  "coords": [
-                        55.739875,
-                        -4.331831
-                  ]
-            },
-            {
-                  "name": "Giant Tortoise",
-                  "text": "An attraction in Baie Sainte Anne where visitors can see giant tortoises.",
-                  "category": "landmark",
-                  "coords": [
-                        55.742086,
-                        -4.313501
-                  ]
-            },
-            {
-                  "name": "Berjaya Resort",
-                  "text": "A resort in Baie Sainte Anne offering beachfront accommodation.",
-                  "category": "recreational",
-                  "coords": [
-                        55.743906,
-                        -4.314133
-                  ]
-            },
-            {
-                  "name": "Snorkelling area",
-                  "text": "A designated spot in Baie Sainte Anne for observing marine life.",
-                  "category": "landmark",
-                  "coords": [
-                        55.732101,
-                        -4.309002
-                  ]
-            },
-            {
-                  "name": "Barracuda Excursion",
-                  "text": "A starting point for boat excursions and tours in Baie Sainte Anne.",
-                  "category": "landmark",
-                  "coords": [
-                        55.745711,
-                        -4.31572
                   ]
             },
             {
@@ -3048,15 +1932,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse des Anglais",
-                  "text": "Ein Strand, der historisch von englischen Schiffen genutzt wurde, heute ruhig.",
-                  "category": "recreational",
-                  "coords": [
-                        55.394161,
-                        -4.655049
-                  ]
-            },
-            {
                   "name": "Port Glaud Beach",
                   "text": "Der Port Glaud Beach rahmt den westlichen Rand von Mahé ein und stellt eine bekannte und von Natur aus markante Lage am Meer dar. Besucher treffen oft auf ein ruhiges, entspanntes Gemeinschaftsgefühl, welches das langsamere Lebenstempo der Insel unterstreicht. Das flache Wasser lädt meist zu einem erfrischenden Bad ein, während der Sand perfekt für ein ausgiebiges Sonnenbad ist. Wenn Sie Ihren Besuch auf den späten Nachmittag legen, werden Sie mit wunderschönen, farbenfrohen Sonnenuntergängen belohnt.",
                   "category": "recreational",
@@ -3084,39 +1959,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ros Lepa Trail",
-                  "text": "Der Ros Lepa Trail bietet einen landschaftlich reizvollen Aussichtspunkt in Port Glaud.",
-                  "category": "natural",
-                  "coords": [
-                        55.394403,
-                        -4.658372
-                  ]
-            },
-            {
-                  "name": "Morne Blanc viewing platform",
-                  "text": "Die Morne Blanc viewing platform bietet atemberaubende Ausblicke über Port Glaud.",
-                  "category": "natural",
-                  "coords": [
-                        55.432329,
-                        -4.657117
-                  ]
-            },
-            {
                   "name": "Aldabra tortoise enclosure",
                   "text": "Ein Gehege für riesige Aldabra-Schildkröten in einem Park in Port Glaud.",
                   "category": "landmark",
                   "coords": [
                         55.40454,
                         -4.658559
-                  ]
-            },
-            {
-                  "name": "SMAC ADVENTURES",
-                  "text": "Ein Abenteuerzentrum mit Schnorchel- und Bootsausflügen.",
-                  "category": "landmark",
-                  "coords": [
-                        55.399308,
-                        -4.655971
                   ]
             },
             {
@@ -3137,15 +1985,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.399195,
                         -4.653536
-                  ]
-            },
-            {
-                  "name": "Anse des Anglais",
-                  "text": "Strand, amelyet történelmileg angol hajók használtak, ma nyugodt hely.",
-                  "category": "recreational",
-                  "coords": [
-                        55.394161,
-                        -4.655049
                   ]
             },
             {
@@ -3176,39 +2015,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ros Lepa Trail",
-                  "text": "A Ros Lepa Trail egy festői kilátópontot kínál Port Glaudban.",
-                  "category": "natural",
-                  "coords": [
-                        55.394403,
-                        -4.658372
-                  ]
-            },
-            {
-                  "name": "Morne Blanc viewing platform",
-                  "text": "A Morne Blanc kilátó lenyűgöző panorámát nyújt Port Glaud területére.",
-                  "category": "natural",
-                  "coords": [
-                        55.432329,
-                        -4.657117
-                  ]
-            },
-            {
                   "name": "Aldabra tortoise enclosure",
                   "text": "Óriás aldabrai teknősök bekerített területe egy parkban Port Glaudban.",
                   "category": "landmark",
                   "coords": [
                         55.40454,
                         -4.658559
-                  ]
-            },
-            {
-                  "name": "SMAC ADVENTURES",
-                  "text": "Kalandközpont snorkelezési és hajókirándulási lehetőségekkel.",
-                  "category": "landmark",
-                  "coords": [
-                        55.399308,
-                        -4.655971
                   ]
             },
             {
@@ -3229,15 +2041,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.399195,
                         -4.653536
-                  ]
-            },
-            {
-                  "name": "Anse des Anglais",
-                  "text": "O plajă folosită istoric de nave engleze, acum un loc liniștit.",
-                  "category": "recreational",
-                  "coords": [
-                        55.394161,
-                        -4.655049
                   ]
             },
             {
@@ -3268,39 +2071,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ros Lepa Trail",
-                  "text": "Traseul Ros Lepa oferă un punct de belvedere pitoresc situat în Port Glaud.",
-                  "category": "natural",
-                  "coords": [
-                        55.394403,
-                        -4.658372
-                  ]
-            },
-            {
-                  "name": "Morne Blanc viewing platform",
-                  "text": "Platforma de vizionare Morne Blanc oferă vederi uimitoare asupra Port Glaud.",
-                  "category": "natural",
-                  "coords": [
-                        55.432329,
-                        -4.657117
-                  ]
-            },
-            {
                   "name": "Aldabra tortoise enclosure",
                   "text": "Un țarc cu țestoase gigantice Aldabra într-un parc din Port Glaud.",
                   "category": "landmark",
                   "coords": [
                         55.40454,
                         -4.658559
-                  ]
-            },
-            {
-                  "name": "SMAC ADVENTURES",
-                  "text": "Un centru de aventură care oferă excursii de snorkeling și cu barca.",
-                  "category": "landmark",
-                  "coords": [
-                        55.399308,
-                        -4.655971
                   ]
             },
             {
@@ -3321,15 +2097,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.399195,
                         -4.653536
-                  ]
-            },
-            {
-                  "name": "Anse des Anglais",
-                  "text": "A beach historically used by English ships, now a tranquil spot.",
-                  "category": "recreational",
-                  "coords": [
-                        55.394161,
-                        -4.655049
                   ]
             },
             {
@@ -3360,39 +2127,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ros Lepa Trail",
-                  "text": "Ros Lepa Trail offers a scenic viewpoint located in Port Glaud.",
-                  "category": "natural",
-                  "coords": [
-                        55.394403,
-                        -4.658372
-                  ]
-            },
-            {
-                  "name": "Morne Blanc viewing platform",
-                  "text": "The Morne Blanc viewing platform provides stunning views over Port Glaud.",
-                  "category": "natural",
-                  "coords": [
-                        55.432329,
-                        -4.657117
-                  ]
-            },
-            {
                   "name": "Aldabra tortoise enclosure",
                   "text": "An enclosure housing giant Aldabra tortoises in a park near Port Glaud.",
                   "category": "landmark",
                   "coords": [
                         55.40454,
                         -4.658559
-                  ]
-            },
-            {
-                  "name": "SMAC ADVENTURES",
-                  "text": "An adventure center offering snorkeling and boat trips.",
-                  "category": "landmark",
-                  "coords": [
-                        55.399308,
-                        -4.655971
                   ]
             },
             {
@@ -3465,15 +2205,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse Bougainville Beach",
-                  "text": "Der Strand Anse Bougainville verankert eine friedliche Ecke von Takamaka und ist ein wunderschöner sandiger Zufluchtsort an der Küste. Diese besondere Bucht verspricht eine gedämpfte und entspannende Atmosphäre, fernab der alltäglichen Hektik. Sie werden feststellen, dass sie perfekt dazu geeignet ist, ein Handtuch auszubreiten, zu lesen und gelegentlich in das sanfte Wasser zu steigen. Ein paar Riffschuhe mitzubringen ist ein kluger Schachzug, wenn man die interessanten Untiefen sicher erkunden möchte.",
-                  "category": "recreational",
-                  "coords": [
-                        55.519169,
-                        -4.760402
-                  ]
-            },
-            {
                   "name": "Anse Marie-Louise Beach",
                   "text": "Der Anse Marie-Louise Beach ruht anmutig an der Südküste von Mahé und zeigt den tiefen Charme der Region Takamaka. Der Strand bewahrt ein bemerkenswert ruhiges Profil, das von Reisenden, die unberührte Küstenlandschaften schätzen, sehr bevorzugt wird. Er bietet eine hervorragende Kulisse für ein ruhiges nachmittägliches Sonnenbad, malerische Spaziergänge und um der Dünung des Ozeans zu lauschen. Obwohl er sich wunderbar zum Waten eignet, sollte man immer die Meeresströmungen beobachten, bevor man sich zu einem tieferen Schwimmen hinauswagt.",
                   "category": "recreational",
@@ -3489,24 +2220,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.524083,
                         -4.775271
-                  ]
-            },
-            {
-                  "name": "Baie Lazare Beach",
-                  "text": "Diese große, halbmondförmige Bucht erstreckt sich malerisch an der Küste von Takamaka und ist nach dem Entdecker Lazare Picault benannt. Der weite Sandstrand lädt Reisende zu langen Spaziergängen am Meer und entspannten Sonnenbädern unter dem Himmel der Seychellen ein. Schwimmen ist hier eine wunderbare Möglichkeit, die tropische Atmosphäre zu genießen. Ein Besuch in den ruhigeren Morgenstunden sorgt für das entspannteste Erlebnis.",
-                  "category": "recreational",
-                  "coords": [
-                        55.484541,
-                        -4.762065
-                  ]
-            },
-            {
-                  "name": "Lazare Monument",
-                  "text": "Ein Denkmal in Takamaka zum Gedenken an die Ankunft von Lazare Picault.",
-                  "category": "historical",
-                  "coords": [
-                        55.486124,
-                        -4.764127
                   ]
             },
             {
@@ -3548,15 +2261,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse Bougainville Beach",
-                  "text": "A Takamaka egy békés szegletét horgonyzó Anse Bougainville Beach egy gyönyörű homokos menedék a partvonalon. Ez a különleges öböl csendes és pihentető légkört ígér, távol a mindennapi nyüzsgéstől. Tökéletesen alkalmasnak fogja találni egy törölköző leterítésére, olvasásra és a lágy vízbe való alkalmankénti belépésre. Egy pár zátonycipő magunkkal hozatala okos döntés, ha biztonságosan szeretnénk felfedezni az érdekes sekély vizeket.",
-                  "category": "recreational",
-                  "coords": [
-                        55.519169,
-                        -4.760402
-                  ]
-            },
-            {
                   "name": "Anse Marie-Louise Beach",
                   "text": "Az Anse Marie-Louise Beach kecsesen pihen Mahé déli partján, bemutatva a Takamaka régió mélyreható varázsát. A strand figyelemre méltóan csendes profilt tart fenn, amelyet az érintetlen tengerparti tájakat értékelő utazók nagyra tartanak. Kiváló helyszínt biztosít a csendes délutáni napozáshoz, a festői sétákhoz és az óceán hullámzásának hallgatásához. Bár gyönyörű a sekély vízben való gázoláshoz, mindig figyelje meg az óceáni áramlatokat, mielőtt mélyebb úszásra vállalkozna.",
                   "category": "recreational",
@@ -3572,24 +2276,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.524083,
                         -4.775271
-                  ]
-            },
-            {
-                  "name": "Baie Lazare Beach",
-                  "text": "A Takamaka partjainál elterülő nagy, félhold alakú öböl Lazare Picault felfedezőről kapta a nevét. A homokos part hosszú, óceánparti sétákra és pihentető napozásra csábítja az utazókat a Seychelle-szigetek ege alatt. Az itteni úszás nagyszerű módja a helyi trópusi hangulat megtapasztalásának. A kevésbé zsúfolt reggeli órákban érdemes ellátogatni ide a legbékésebb élmény érdekében.",
-                  "category": "recreational",
-                  "coords": [
-                        55.484541,
-                        -4.762065
-                  ]
-            },
-            {
-                  "name": "Lazare Monument",
-                  "text": "Emlékmű Takamakában, amely Lazare Picault érkezésének állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        55.486124,
-                        -4.764127
                   ]
             },
             {
@@ -3631,15 +2317,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse Bougainville Beach",
-                  "text": "Ancorând un colț pașnic din Takamaka, plaja Anse Bougainville este o frumoasă evadare de nisip pe coastă. Acest golf pitoresc promite o atmosferă liniștită și relaxantă, îndepărtată de agitația zilnică. Veți constata că este perfect adaptată pentru a întinde un prosop, a citi și, ocazional, a păși în apa blândă. Aducerea unor încălțări de recif este o mișcare inteligentă dacă doriți să explorați apele puțin adânci în siguranță.",
-                  "category": "recreational",
-                  "coords": [
-                        55.519169,
-                        -4.760402
-                  ]
-            },
-            {
                   "name": "Anse Marie-Louise Beach",
                   "text": "Plaja Anse Marie-Louise se odihnește cu grație pe coasta de sud a insulei Mahé, prezentând farmecul profund al regiunii Takamaka. Plaja își menține un profil remarcabil de liniștit, fiind foarte apreciată de călătorii care pun preț pe peisajele de coastă neatinse. Oferă un cadru superb pentru plajă într-o după-amiază liniștită, plimbări pitorești și ascultarea valurilor oceanului. Deși este frumoasă pentru bălăceală, observați întotdeauna curenții oceanici înainte de a vă aventura pentru o înotare adâncă.",
                   "category": "recreational",
@@ -3655,24 +2332,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.524083,
                         -4.775271
-                  ]
-            },
-            {
-                  "name": "Baie Lazare Beach",
-                  "text": "Întinzându-se grațios de-a lungul coastei din Takamaka, această plajă mare, în formă de semilună, poartă numele exploratorului Lazare Picault. Țărmul nisipos invită călătorii la lungi plimbări pe malul oceanului și la sesiuni relaxante de plajă sub cerul insulelor Seychelles. Înotul aici este o modalitate minunată de a te conecta cu atmosfera tropicală locală. O vizită în orele mai puțin aglomerate ale dimineții oferă cea mai liniștită experiență.",
-                  "category": "recreational",
-                  "coords": [
-                        55.484541,
-                        -4.762065
-                  ]
-            },
-            {
-                  "name": "Lazare Monument",
-                  "text": "Un monument în Takamaka care comemorează sosirea lui Lazare Picault.",
-                  "category": "historical",
-                  "coords": [
-                        55.486124,
-                        -4.764127
                   ]
             },
             {
@@ -3714,15 +2373,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse Bougainville Beach",
-                  "text": "Anchoring a peaceful corner of Takamaka, Anse Bougainville Beach is a beautiful sandy escape on the coastline. This particular bay promises a hushed and relaxing atmosphere, removed from the daily hustle. You will find it perfectly suited for laying out a towel, reading, and occasionally stepping into the gentle water. Bringing along some reef shoes is a smart move if you want to explore the interesting shallows safely.",
-                  "category": "recreational",
-                  "coords": [
-                        55.519169,
-                        -4.760402
-                  ]
-            },
-            {
                   "name": "Anse Marie-Louise Beach",
                   "text": "Anse Marie-Louise Beach rests gracefully on the southern coast of Mahé, showcasing the profound charm of the Takamaka region. The beach sustains a remarkably quiet profile, highly favored by travelers who value untouched coastal scenery. It provides a superb setting for quiet afternoon sunbathing, scenic strolls, and listening to the ocean swells. While beautiful for wading, always observe the ocean currents before venturing out for a deep swim.",
                   "category": "recreational",
@@ -3738,24 +2388,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.524083,
                         -4.775271
-                  ]
-            },
-            {
-                  "name": "Baie Lazare Beach",
-                  "text": "Stretching gracefully along the coast of Takamaka, this large, crescent-shaped bay is named after the explorer Lazare Picault. The sandy shoreline invites travelers for long oceanfront walks and relaxing sunbathing sessions under the Seychelles sky. Swimming here is a wonderful way to connect with the local tropical atmosphere. Visiting during the less crowded morning hours provides the most peaceful experience.",
-                  "category": "recreational",
-                  "coords": [
-                        55.484541,
-                        -4.762065
-                  ]
-            },
-            {
-                  "name": "Lazare Monument",
-                  "text": "A monument in Takamaka commemorating the arrival of Lazare Picault.",
-                  "category": "historical",
-                  "coords": [
-                        55.486124,
-                        -4.764127
                   ]
             },
             {
@@ -3873,39 +2505,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baie Lazare Beach",
-                  "text": "Entdecken Sie die zeitlose Schönheit des Baie Lazare Beach, der direkt in der malerischen Gegend von Baie Lazare liegt. Dieser Ort fängt den klassischen Charme der Seychellen ein und bietet eine hervorragende Umgebung für ein erfrischendes Bad oder zum Ausruhen am Ufer. Reisende genießen oft Barfußspaziergänge im Sand, um die Küstenatmosphäre auf sich wirken zu lassen. Ausreichend Trinkwasser mitzubringen ist eine kluge Idee für einen längeren Aufenthalt.",
-                  "category": "recreational",
-                  "coords": [
-                        55.484541,
-                        -4.762065
-                  ]
-            },
-            {
-                  "name": "Le Jardin du Roi",
-                  "text": "Ein historischer Gewürzgarten mit Vanille, Zimt und Muskatnuss.",
-                  "category": "landmark",
-                  "coords": [
-                        55.50364,
-                        -4.746363
-                  ]
-            },
-            {
                   "name": "Grotte de Lourdes",
                   "text": "Eine Grotte, die Unserer Lieben Frau von Lourdes gewidmet ist.",
                   "category": "landmark",
                   "coords": [
                         55.479966,
                         -4.741198
-                  ]
-            },
-            {
-                  "name": "Lazare Monument",
-                  "text": "Ein Steinmonument, das an die Inselgeschichte erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        55.486124,
-                        -4.764127
                   ]
             },
             {
@@ -3974,39 +2579,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baie Lazare Beach",
-                  "text": "Fedezze fel a Baie Lazare Beach időtlen szépségét, amely közvetlenül Baie Lazare festői területén fekszik. Ez a hely megragadja a Seychelle-szigetek klasszikus báját, és kiváló környezetet kínál egy frissítő csobbanáshoz vagy egyszerűen csak a parton való pihenéshez. Az utazók gyakran tesznek mezítlábas sétákat a homokban, hogy magukba szívják a part menti hangulatot. Hosszabb tartózkodás esetén érdemes bőséges ivóvizet hozni magunkkal.",
-                  "category": "recreational",
-                  "coords": [
-                        55.484541,
-                        -4.762065
-                  ]
-            },
-            {
-                  "name": "Le Jardin du Roi",
-                  "text": "Történelmi fűszerkert vaníliával, fahéjjal és szerecsendióval.",
-                  "category": "landmark",
-                  "coords": [
-                        55.50364,
-                        -4.746363
-                  ]
-            },
-            {
                   "name": "Grotte de Lourdes",
                   "text": "Egy barlang, amely a lourdes-i Szűz Máriának van szentelve.",
                   "category": "landmark",
                   "coords": [
                         55.479966,
                         -4.741198
-                  ]
-            },
-            {
-                  "name": "Lazare Monument",
-                  "text": "Egy kőemlékmű, amely a sziget történelmére emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        55.486124,
-                        -4.764127
                   ]
             },
             {
@@ -4075,39 +2653,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baie Lazare Beach",
-                  "text": "Descoperiți frumusețea atemporală a plajei Baie Lazare Beach, situată chiar în zona pitorească Baie Lazare. Acest loc surprinde farmecul clasic al insulelor Seychelles, oferind un mediu excelent pentru o baie răcoritoare sau pur și simplu pentru a vă odihni pe mal. Călătorii se bucură adesea de plimbări desculți pe nisip pentru a admira ambianța de coastă. Aducerea unei cantități suficiente de apă potabilă este o idee inteligentă pentru o ședere mai lungă.",
-                  "category": "recreational",
-                  "coords": [
-                        55.484541,
-                        -4.762065
-                  ]
-            },
-            {
-                  "name": "Le Jardin du Roi",
-                  "text": "O grădină istorică de mirodenii cu vanilie, scorțișoară și nucșoară.",
-                  "category": "landmark",
-                  "coords": [
-                        55.50364,
-                        -4.746363
-                  ]
-            },
-            {
                   "name": "Grotte de Lourdes",
                   "text": "O grotă dedicată Maicii Domnului de la Lourdes.",
                   "category": "landmark",
                   "coords": [
                         55.479966,
                         -4.741198
-                  ]
-            },
-            {
-                  "name": "Lazare Monument",
-                  "text": "Un monument de piatră care comemorează istoria insulei.",
-                  "category": "historical",
-                  "coords": [
-                        55.486124,
-                        -4.764127
                   ]
             },
             {
@@ -4176,39 +2727,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baie Lazare Beach",
-                  "text": "Discover the timeless beauty of Baie Lazare Beach, nestled directly within the scenic area of Baie Lazare. This spot captures the classic Seychelles charm, offering an excellent environment for taking a refreshing dip or simply resting by the shore. Travelers frequently enjoy barefoot walks along the sand to take in the coastal ambiance. Bringing along plenty of drinking water is a smart idea for a longer stay.",
-                  "category": "recreational",
-                  "coords": [
-                        55.484541,
-                        -4.762065
-                  ]
-            },
-            {
-                  "name": "Le Jardin du Roi",
-                  "text": "A historic spice garden featuring vanilla, cinnamon, and nutmeg.",
-                  "category": "landmark",
-                  "coords": [
-                        55.50364,
-                        -4.746363
-                  ]
-            },
-            {
                   "name": "Grotte de Lourdes",
                   "text": "A grotto shrine dedicated to Our Lady of Lourdes.",
                   "category": "landmark",
                   "coords": [
                         55.479966,
                         -4.741198
-                  ]
-            },
-            {
-                  "name": "Lazare Monument",
-                  "text": "A stone monument commemorating the island's history.",
-                  "category": "historical",
-                  "coords": [
-                        55.486124,
-                        -4.764127
                   ]
             },
             {
@@ -4335,7 +2859,88 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     },
   },
   {
-    id: "sc-au-cap-cities-v2", "sights": {"de": [{"name": "Domaine de Val des Pres (Craft Village)", "text": "Ein traditionelles Handwerkerdorf in Au Cap, das die lokale Kultur zeigt.", "category": "museum", "coords": [55.519202, -4.711008]}, {"name": "La Grande Maison", "text": "Ein historisches Kolonialhaus in Au Cap, das als Museum dient.", "category": "museum", "coords": [55.523093, -4.719443]}, {"name": "Turtle Bay", "text": "Ein flaches Küstengebiet in Au Cap, das oft von Schildkröten besucht wird.", "category": "recreational", "coords": [55.52231, -4.71334]}, {"name": "Anse Aux Courbes Beach", "text": "Bekannt für sein ruhiges Wasser, ist der Anse Aux Courbes Beach ein wunderschöner Sandstrand in der Region Au Cap. Die friedlichen Bedingungen des Ozeans eignen sich wunderbar zum Schwimmen und Waten in einer entspannten Umgebung. Sonnenbader und Spaziergänger gleichermaßen empfinden den weichen Sand unter der warmen Sonne der Seychellen als zutiefst erholsam. Wenn Sie Ihren Besuch für die frühen Morgenstunden planen, erleben Sie hier absolute Gelassenheit.", "category": "recreational", "coords": [55.525413, -4.728145]}, {"name": "Montagne Brulée", "text": "Ein Gipfel in der Gegend von Au Cap, der Wandermöglichkeiten und Ausblicke bietet.", "category": "natural", "coords": [55.505935, -4.714988]}], "hu": [{"name": "Domaine de Val des Pres (Craft Village)", "text": "Hagyományos kézműves falu Au Capban, amely bemutatja a helyi kultúrát.", "category": "museum", "coords": [55.519202, -4.711008]}, {"name": "La Grande Maison", "text": "Történelmi koloniális ház Au Capban, amely múzeumként működik.", "category": "museum", "coords": [55.523093, -4.719443]}, {"name": "Turtle Bay", "text": "Sekély tengerparti terület Au Capban, amelyet gyakran látogatnak teknősök.", "category": "recreational", "coords": [55.52231, -4.71334]}, {"name": "Anse Aux Courbes Beach", "text": "A csendes vizéről ismert Anse Aux Courbes Beach egy gyönyörű homokos partszakasz az Au Cap régióban. A nyugodt óceáni körülmények csodálatosan alkalmasak az úszásra és a sekély vízben való gázolásra egy békés környezetben. A napozók és a sétálók egyaránt rendkívül pihentetőnek fogják találni a puha homokot a meleg Seychelle-szigeteki nap alatt. Ha a korai órákra tervezi a látogatást, garantáltan megtapasztalhatja a hely teljes nyugalmát.", "category": "recreational", "coords": [55.525413, -4.728145]}, {"name": "Montagne Brulée", "text": "Túrázási lehetőséget és kilátást nyújtó csúcs Au Cap környékén.", "category": "natural", "coords": [55.505935, -4.714988]}], "ro": [{"name": "Domaine de Val des Pres (Craft Village)", "text": "Un sat tradițional de meșteșugari din Au Cap, care prezintă cultura locală.", "category": "museum", "coords": [55.519202, -4.711008]}, {"name": "La Grande Maison", "text": "O casă colonială istorică din Au Cap, care servește drept muzeu.", "category": "museum", "coords": [55.523093, -4.719443]}, {"name": "Turtle Bay", "text": "O zonă de coastă puțin adâncă în Au Cap, vizitată adesea de țestoase.", "category": "recreational", "coords": [55.52231, -4.71334]}, {"name": "Anse Aux Courbes Beach", "text": "Cunoscută pentru apele sale liniștite, Anse Aux Courbes Beach este o porțiune frumoasă de nisip în regiunea Au Cap. Condițiile calme ale oceanului sunt minunat de potrivite pentru înot și pentru a păși prin apă într-un mediu relaxant. Atât cei care fac plajă, cât și plimbăreții vor găsi nisipul moale profund relaxant sub soarele cald din Seychelles. Planificarea vizitei pentru primele ore ale dimineții vă asigură că îi veți experimenta serenitatea absolută.", "category": "recreational", "coords": [55.525413, -4.728145]}, {"name": "Montagne Brulée", "text": "Un vârf care oferă oportunități de drumeție și priveliști în zona Au Cap.", "category": "natural", "coords": [55.505935, -4.714988]}], "en": [{"name": "Domaine de Val des Pres (Craft Village)", "text": "A traditional craft village in Au Cap showcasing local culture.", "category": "museum", "coords": [55.519202, -4.711008]}, {"name": "La Grande Maison", "text": "A historical colonial house in Au Cap serving as a museum.", "category": "museum", "coords": [55.523093, -4.719443]}, {"name": "Turtle Bay", "text": "A shallow coastal area in Au Cap often visited by turtles.", "category": "recreational", "coords": [55.52231, -4.71334]}, {"name": "Anse Aux Courbes Beach", "text": "Known for its peaceful waters, Anse Aux Courbes Beach is a beautiful sandy stretch in the Au Cap region. The calm ocean conditions are wonderfully suited for swimming and wading in a tranquil environment. Sunbathers and walkers alike will find the soft sand deeply relaxing under the warm Seychelles sun. Planning your visit for the early hours ensures you experience its utmost serenity.", "category": "recreational", "coords": [55.525413, -4.728145]}, {"name": "Montagne Brulée", "text": "A peak providing hiking opportunities and views in the Au Cap area.", "category": "natural", "coords": [55.505935, -4.714988]}]},
+    id: "sc-au-cap-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Domaine de Val des Pres (Craft Village)",
+                  "text": "Ein traditionelles Handwerkerdorf in Au Cap, das die lokale Kultur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        55.519202,
+                        -4.711008
+                  ]
+            },
+            {
+                  "name": "Montagne Brulée",
+                  "text": "Ein Gipfel in der Gegend von Au Cap, der Wandermöglichkeiten und Ausblicke bietet.",
+                  "category": "natural",
+                  "coords": [
+                        55.505935,
+                        -4.714988
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Domaine de Val des Pres (Craft Village)",
+                  "text": "Hagyományos kézműves falu Au Capban, amely bemutatja a helyi kultúrát.",
+                  "category": "museum",
+                  "coords": [
+                        55.519202,
+                        -4.711008
+                  ]
+            },
+            {
+                  "name": "Montagne Brulée",
+                  "text": "Túrázási lehetőséget és kilátást nyújtó csúcs Au Cap környékén.",
+                  "category": "natural",
+                  "coords": [
+                        55.505935,
+                        -4.714988
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Domaine de Val des Pres (Craft Village)",
+                  "text": "Un sat tradițional de meșteșugari din Au Cap, care prezintă cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        55.519202,
+                        -4.711008
+                  ]
+            },
+            {
+                  "name": "Montagne Brulée",
+                  "text": "Un vârf care oferă oportunități de drumeție și priveliști în zona Au Cap.",
+                  "category": "natural",
+                  "coords": [
+                        55.505935,
+                        -4.714988
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Domaine de Val des Pres (Craft Village)",
+                  "text": "A traditional craft village in Au Cap showcasing local culture.",
+                  "category": "museum",
+                  "coords": [
+                        55.519202,
+                        -4.711008
+                  ]
+            },
+            {
+                  "name": "Montagne Brulée",
+                  "text": "A peak providing hiking opportunities and views in the Au Cap area.",
+                  "category": "natural",
+                  "coords": [
+                        55.505935,
+                        -4.714988
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SC-04",
     coords: [55.5100, -4.7100],
@@ -4530,111 +3135,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "sc-plaisance-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Museum of Natural History",
-                  "text": "Das Naturhistorische Museum in Plaisance zeigt Exemplare der Flora und Fauna der Seychellen.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
-            {
                   "name": "Victoria Botanical Gardens",
                   "text": "Botanischer Garten in Victoria mit Riesenschildkröten und endemischen Pflanzen.",
                   "category": "family",
                   "coords": [
                         55.453744,
                         -4.630286
-                  ]
-            },
-            {
-                  "name": "Kaz Zanana",
-                  "text": "Ein restauriertes Kreolenhaus, das Einblicke in die seychellische Geschichte bietet.",
-                  "category": "museum",
-                  "coords": [
-                        55.449341,
-                        -4.622204
-                  ]
-            },
-            {
-                  "name": "Anse Tec-Tec",
-                  "text": "Ein ruhiger Strand mit weißem Sand und klarem Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        55.481289,
-                        -4.644571
-                  ]
-            },
-            {
-                  "name": "Anse Bernitier",
-                  "text": "Ein langer Sandstrand, der sich gut zum Schwimmen eignet.",
-                  "category": "recreational",
-                  "coords": [
-                        55.48173,
-                        -4.641739
-                  ]
-            },
-            {
-                  "name": "Anse Bernik",
-                  "text": "Ein kleiner Strand mit Granitfelsen.",
-                  "category": "recreational",
-                  "coords": [
-                        55.478581,
-                        -4.639274
-                  ]
-            },
-            {
-                  "name": "Anse Bigorno",
-                  "text": "Eine sandige Bucht, umgeben von üppiger Vegetation.",
-                  "category": "recreational",
-                  "coords": [
-                        55.478807,
-                        -4.636865
-                  ]
-            },
-            {
-                  "name": "Morne Seychellois",
-                  "text": "Morne Seychellois ist ein Berggipfel in Plaisance, bekannt als die höchste Erhebung der Seychellen.",
-                  "category": "natural",
-                  "coords": [
-                        55.43891,
-                        -4.644827
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "Ein Naturpfad durch den Küstenwald.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
-                  ]
-            },
-            {
-                  "name": "Trois Freres viewpoint",
-                  "text": "Aussichtspunkt mit Panoramablick auf Victoria und die Küste.",
-                  "category": "natural",
-                  "coords": [
-                        55.447169,
-                        -4.63648
-                  ]
-            },
-            {
-                  "name": "Venn's Town",
-                  "text": "Ruinen einer Siedlung für befreite Sklaven aus dem 19. Jahrhundert.",
-                  "category": "historical",
-                  "coords": [
-                        55.444377,
-                        -4.654877
-                  ]
-            },
-            {
-                  "name": "Eden Island viewpoint",
-                  "text": "Aussichtspunkt mit Blick auf die künstliche Eden Island und den Jachthafen.",
-                  "category": "natural",
-                  "coords": [
-                        55.467105,
-                        -4.650248
                   ]
             },
             {
@@ -4647,66 +3153,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Trail junction",
-                  "text": "Ein Wanderweg-Kreuzungspunkt im Morne-Seychellois-Nationalpark.",
-                  "category": "landmark",
-                  "coords": [
-                        55.44408,
-                        -4.637409
-                  ]
-            },
-            {
-                  "name": "Summit of Morne Seychellois",
-                  "text": "Der höchste Punkt der Seychellen auf 905 Metern Höhe.",
-                  "category": "natural",
-                  "coords": [
-                        55.440234,
-                        -4.646499
-                  ]
-            },
-            {
-                  "name": "Turtles farm",
-                  "text": "Eine Farm, in der Riesenschildkröten gezüchtet und gepflegt werden.",
-                  "category": "landmark",
-                  "coords": [
-                        55.450181,
-                        -4.634472
-                  ]
-            },
-            {
-                  "name": "Fairview",
-                  "text": "Ein Aussichtspunkt mit weitem Blick über die Insel.",
-                  "category": "landmark",
-                  "coords": [
-                        55.465585,
-                        -4.659046
-                  ]
-            },
-            {
                   "name": "Library fountain",
                   "text": "Ein Zierbrunnen vor der Nationalbibliothek.",
                   "category": "historical",
                   "coords": [
                         55.454476,
                         -4.6265
-                  ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "Ein moderner Brunnen, der von der Nouvobanque in Auftrag gegeben wurde.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
-            {
-                  "name": "Liberty Statue",
-                  "text": "Eine Freiheitsstatue, die in Victoria an die Unabhängigkeit erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        55.45483,
-                        -4.62453
                   ]
             },
             {
@@ -4717,63 +3169,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.462931,
                         -4.625882
                   ]
-            },
-            {
-                  "name": "Panoramic View of North East Coast of Mahe",
-                  "text": "Ein Aussichtspunkt entlang der Straße mit weitem Blick auf die Nordostküste.",
-                  "category": "natural",
-                  "coords": [
-                        55.458526,
-                        -4.649156
-                  ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "Ein großer Schiffsanker, der als historisches Artefakt ausgestellt ist.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Mission Lodge",
-                  "text": "Eine Lichtung im Wald mit Panoramablick und Überresten einer Missionsschule.",
-                  "category": "natural",
-                  "coords": [
-                        55.445288,
-                        -4.655755
-                  ]
-            },
-            {
-                  "name": "Domus",
-                  "text": "Ein historisches Gebäude, einst Wohnhaus, heute Kulturzentrum.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "Die St. Paul's Cathedral ist ein bekanntes anglikanisches Gotteshaus in Plaisance.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Museum of Natural History",
-                  "text": "A Természettudományi Múzeum Plaisance-ban a Seychelle-szigetek növény- és állatvilágának példányait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Botanikus kert Victoria városában, óriásteknősökkel és bennszülött növényekkel.",
@@ -4781,96 +3179,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.453744,
                         -4.630286
-                  ]
-            },
-            {
-                  "name": "Kaz Zanana",
-                  "text": "Egy felújított kreol ház, amely betekintést nyújt a Seychelle-szigetek történelmébe.",
-                  "category": "museum",
-                  "coords": [
-                        55.449341,
-                        -4.622204
-                  ]
-            },
-            {
-                  "name": "Anse Tec-Tec",
-                  "text": "Egy csendes strand, fehér homokkal és tiszta vízzel.",
-                  "category": "recreational",
-                  "coords": [
-                        55.481289,
-                        -4.644571
-                  ]
-            },
-            {
-                  "name": "Anse Bernitier",
-                  "text": "Egy hosszú homokos strand, amely alkalmas úszásra.",
-                  "category": "recreational",
-                  "coords": [
-                        55.48173,
-                        -4.641739
-                  ]
-            },
-            {
-                  "name": "Anse Bernik",
-                  "text": "Egy kis strand gránitsziklákkal.",
-                  "category": "recreational",
-                  "coords": [
-                        55.478581,
-                        -4.639274
-                  ]
-            },
-            {
-                  "name": "Anse Bigorno",
-                  "text": "Egy homokos öböl, buja növényzettel körülvéve.",
-                  "category": "recreational",
-                  "coords": [
-                        55.478807,
-                        -4.636865
-                  ]
-            },
-            {
-                  "name": "Morne Seychellois",
-                  "text": "A Morne Seychellois egy hegycsúcs Plaisance-ban, amely a Seychelle-szigetek legmagasabb pontja.",
-                  "category": "natural",
-                  "coords": [
-                        55.43891,
-                        -4.644827
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "Egy természetjáró ösvény a part menti erdőben.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
-                  ]
-            },
-            {
-                  "name": "Trois Freres viewpoint",
-                  "text": "Kilátóhely, panorámás kilátással Victoria városára és a partra.",
-                  "category": "natural",
-                  "coords": [
-                        55.447169,
-                        -4.63648
-                  ]
-            },
-            {
-                  "name": "Venn's Town",
-                  "text": "Egy 19. századi, felszabadított rabszolgák számára létesített település romjai.",
-                  "category": "historical",
-                  "coords": [
-                        55.444377,
-                        -4.654877
-                  ]
-            },
-            {
-                  "name": "Eden Island viewpoint",
-                  "text": "Kilátó, amely a mesterséges Eden Islandre és a kikötőre nyújt kilátást.",
-                  "category": "natural",
-                  "coords": [
-                        55.467105,
-                        -4.650248
                   ]
             },
             {
@@ -4883,66 +3191,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Trail junction",
-                  "text": "Egy ösvénykereszteződés a Morne Seychellois Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.44408,
-                        -4.637409
-                  ]
-            },
-            {
-                  "name": "Summit of Morne Seychellois",
-                  "text": "A Seychelle-szigetek legmagasabb pontja, 905 méter tengerszint feletti magasságban.",
-                  "category": "natural",
-                  "coords": [
-                        55.440234,
-                        -4.646499
-                  ]
-            },
-            {
-                  "name": "Turtles farm",
-                  "text": "Egy farm, ahol óriásteknősöket tenyésztenek és gondoznak.",
-                  "category": "landmark",
-                  "coords": [
-                        55.450181,
-                        -4.634472
-                  ]
-            },
-            {
-                  "name": "Fairview",
-                  "text": "Egy kilátóhely, széles körpanorámával a szigetre.",
-                  "category": "landmark",
-                  "coords": [
-                        55.465585,
-                        -4.659046
-                  ]
-            },
-            {
                   "name": "Library fountain",
                   "text": "Egy díszkút a Nemzeti Könyvtár előtt.",
                   "category": "historical",
                   "coords": [
                         55.454476,
                         -4.6265
-                  ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "Egy modern szökőkút, amelyet a Nouvobanque bank rendelt meg.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
-            {
-                  "name": "Liberty Statue",
-                  "text": "Egy Szabadság-szobor, amely Victoria városában a függetlenségre emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        55.45483,
-                        -4.62453
                   ]
             },
             {
@@ -4953,63 +3207,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.462931,
                         -4.625882
                   ]
-            },
-            {
-                  "name": "Panoramic View of North East Coast of Mahe",
-                  "text": "Egy kilátóhely az út mentén, panorámás kilátással az északkeleti partra.",
-                  "category": "natural",
-                  "coords": [
-                        55.458526,
-                        -4.649156
-                  ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "Egy nagy hajóhorgony, amelyet történelmi műtárgyként állítottak ki.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Mission Lodge",
-                  "text": "Egy erdei tisztás panorámás kilátással és egy missziós iskola maradványaival.",
-                  "category": "natural",
-                  "coords": [
-                        55.445288,
-                        -4.655755
-                  ]
-            },
-            {
-                  "name": "Domus",
-                  "text": "Történelmi épület, egykor lakóház, ma kulturális központ.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "A Szent Pál-székesegyház egy jelentős anglikán istentiszteleti hely Plaisance-ban.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Museum of Natural History",
-                  "text": "Muzeul de Istorie Naturală din Plaisance expune specimene ale florei și faunei din Seychelles.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Grădina botanică din Victoria, cu țestoase gigant și plante endemice.",
@@ -5017,96 +3217,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.453744,
                         -4.630286
-                  ]
-            },
-            {
-                  "name": "Kaz Zanana",
-                  "text": "O casă creolă restaurată care oferă perspective asupra istoriei Seychelles.",
-                  "category": "museum",
-                  "coords": [
-                        55.449341,
-                        -4.622204
-                  ]
-            },
-            {
-                  "name": "Anse Tec-Tec",
-                  "text": "O plajă liniștită cu nisip alb și apă limpede.",
-                  "category": "recreational",
-                  "coords": [
-                        55.481289,
-                        -4.644571
-                  ]
-            },
-            {
-                  "name": "Anse Bernitier",
-                  "text": "O plajă lungă cu nisip, potrivită pentru înot.",
-                  "category": "recreational",
-                  "coords": [
-                        55.48173,
-                        -4.641739
-                  ]
-            },
-            {
-                  "name": "Anse Bernik",
-                  "text": "O plajă mică cu bolovani de granit.",
-                  "category": "recreational",
-                  "coords": [
-                        55.478581,
-                        -4.639274
-                  ]
-            },
-            {
-                  "name": "Anse Bigorno",
-                  "text": "Un golf nisipos înconjurat de vegetație luxuriantă.",
-                  "category": "recreational",
-                  "coords": [
-                        55.478807,
-                        -4.636865
-                  ]
-            },
-            {
-                  "name": "Morne Seychellois",
-                  "text": "Morne Seychellois este un vârf montan din Plaisance, recunoscut drept cel mai înalt punct din Seychelles.",
-                  "category": "natural",
-                  "coords": [
-                        55.43891,
-                        -4.644827
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "Un traseu natural prin pădurea de coastă.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
-                  ]
-            },
-            {
-                  "name": "Trois Freres viewpoint",
-                  "text": "Punct de belvedere cu vedere panoramică asupra Victoriei și coastei.",
-                  "category": "natural",
-                  "coords": [
-                        55.447169,
-                        -4.63648
-                  ]
-            },
-            {
-                  "name": "Venn's Town",
-                  "text": "Ruinele unei așezări din secolul al XIX-lea pentru sclavi eliberați.",
-                  "category": "historical",
-                  "coords": [
-                        55.444377,
-                        -4.654877
-                  ]
-            },
-            {
-                  "name": "Eden Island viewpoint",
-                  "text": "Punct de belvedere care domină insula Eden Island artificială și marina.",
-                  "category": "natural",
-                  "coords": [
-                        55.467105,
-                        -4.650248
                   ]
             },
             {
@@ -5119,66 +3229,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Trail junction",
-                  "text": "Un punct de intersecție a traseelor de drumeție din Parcul Național Morne Seychellois.",
-                  "category": "landmark",
-                  "coords": [
-                        55.44408,
-                        -4.637409
-                  ]
-            },
-            {
-                  "name": "Summit of Morne Seychellois",
-                  "text": "Cel mai înalt punct din Seychelles, la 905 metri altitudine.",
-                  "category": "natural",
-                  "coords": [
-                        55.440234,
-                        -4.646499
-                  ]
-            },
-            {
-                  "name": "Turtles farm",
-                  "text": "O fermă unde țestoasele gigant sunt crescute și îngrijite.",
-                  "category": "landmark",
-                  "coords": [
-                        55.450181,
-                        -4.634472
-                  ]
-            },
-            {
-                  "name": "Fairview",
-                  "text": "Un punct de belvedere cu o vedere panoramică largă asupra insulei.",
-                  "category": "landmark",
-                  "coords": [
-                        55.465585,
-                        -4.659046
-                  ]
-            },
-            {
                   "name": "Library fountain",
                   "text": "O fântână ornamentală în fața Bibliotecii Naționale.",
                   "category": "historical",
                   "coords": [
                         55.454476,
                         -4.6265
-                  ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "Un monument fântână modern comandat de Nouvobanque.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
-            {
-                  "name": "Liberty Statue",
-                  "text": "O statuie a Libertății care simbolizează independența, situată în Victoria.",
-                  "category": "historical",
-                  "coords": [
-                        55.45483,
-                        -4.62453
                   ]
             },
             {
@@ -5189,63 +3245,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.462931,
                         -4.625882
                   ]
-            },
-            {
-                  "name": "Panoramic View of North East Coast of Mahe",
-                  "text": "Un punct de belvedere de-a lungul drumului, cu vedere largă asupra coastei de nord-est.",
-                  "category": "natural",
-                  "coords": [
-                        55.458526,
-                        -4.649156
-                  ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "O ancoră mare de navă expusă ca artefact istoric.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Mission Lodge",
-                  "text": "O poiană cu vedere panoramică și rămășițele unei școli misionare.",
-                  "category": "natural",
-                  "coords": [
-                        55.445288,
-                        -4.655755
-                  ]
-            },
-            {
-                  "name": "Domus",
-                  "text": "O clădire istorică, odinioară reședință, acum centru cultural.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "Catedrala Sfântul Paul este un lăcaș de cult anglican notabil situat în Plaisance.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Museum of Natural History",
-                  "text": "The Museum of Natural History in Plaisance displays specimens of Seychelles' flora and fauna.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
             {
                   "name": "Victoria Botanical Gardens",
                   "text": "Botanical gardens in Victoria featuring giant tortoises and endemic plants.",
@@ -5253,96 +3255,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.453744,
                         -4.630286
-                  ]
-            },
-            {
-                  "name": "Kaz Zanana",
-                  "text": "A restored Creole house offering insights into Seychellois history.",
-                  "category": "museum",
-                  "coords": [
-                        55.449341,
-                        -4.622204
-                  ]
-            },
-            {
-                  "name": "Anse Tec-Tec",
-                  "text": "A quiet beach with white sand and clear water.",
-                  "category": "recreational",
-                  "coords": [
-                        55.481289,
-                        -4.644571
-                  ]
-            },
-            {
-                  "name": "Anse Bernitier",
-                  "text": "A long sandy beach popular for swimming.",
-                  "category": "recreational",
-                  "coords": [
-                        55.48173,
-                        -4.641739
-                  ]
-            },
-            {
-                  "name": "Anse Bernik",
-                  "text": "A small beach with granite boulders.",
-                  "category": "recreational",
-                  "coords": [
-                        55.478581,
-                        -4.639274
-                  ]
-            },
-            {
-                  "name": "Anse Bigorno",
-                  "text": "A sandy cove backed by lush vegetation.",
-                  "category": "recreational",
-                  "coords": [
-                        55.478807,
-                        -4.636865
-                  ]
-            },
-            {
-                  "name": "Morne Seychellois",
-                  "text": "Morne Seychellois is a mountain peak in Plaisance, known as the highest peak in Seychelles.",
-                  "category": "natural",
-                  "coords": [
-                        55.43891,
-                        -4.644827
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "A nature trail through coastal forest.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
-                  ]
-            },
-            {
-                  "name": "Trois Freres viewpoint",
-                  "text": "A viewpoint offering panoramic vistas of Victoria and the coast.",
-                  "category": "natural",
-                  "coords": [
-                        55.447169,
-                        -4.63648
-                  ]
-            },
-            {
-                  "name": "Venn's Town",
-                  "text": "Ruins of a 19th-century settlement for freed slaves.",
-                  "category": "historical",
-                  "coords": [
-                        55.444377,
-                        -4.654877
-                  ]
-            },
-            {
-                  "name": "Eden Island viewpoint",
-                  "text": "A viewpoint overlooking the artificial Eden Island marina and luxury homes.",
-                  "category": "natural",
-                  "coords": [
-                        55.467105,
-                        -4.650248
                   ]
             },
             {
@@ -5355,42 +3267,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Trail junction",
-                  "text": "A trail junction where multiple hiking paths meet in Morne Seychellois park.",
-                  "category": "landmark",
-                  "coords": [
-                        55.44408,
-                        -4.637409
-                  ]
-            },
-            {
-                  "name": "Summit of Morne Seychellois",
-                  "text": "The highest peak of Seychelles at 905 m elevation.",
-                  "category": "natural",
-                  "coords": [
-                        55.440234,
-                        -4.646499
-                  ]
-            },
-            {
-                  "name": "Turtles farm",
-                  "text": "A farm where giant tortoises are bred and cared for.",
-                  "category": "landmark",
-                  "coords": [
-                        55.450181,
-                        -4.634472
-                  ]
-            },
-            {
-                  "name": "Fairview",
-                  "text": "A scenic viewpoint offering wide-angle views of the island.",
-                  "category": "landmark",
-                  "coords": [
-                        55.465585,
-                        -4.659046
-                  ]
-            },
-            {
                   "name": "Library fountain",
                   "text": "An ornamental fountain located in front of the national library.",
                   "category": "historical",
@@ -5400,75 +3276,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "A modern fountain monument commissioned by Nouvobanque.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
-            {
-                  "name": "Liberty Statue",
-                  "text": "A liberty statue symbolizing freedom, located in Victoria.",
-                  "category": "historical",
-                  "coords": [
-                        55.45483,
-                        -4.62453
-                  ]
-            },
-            {
                   "name": "Cruise Pirs Victoria",
                   "text": "The main cruise ship dock in Victoria’s port.",
                   "category": "landmark",
                   "coords": [
                         55.462931,
                         -4.625882
-                  ]
-            },
-            {
-                  "name": "Panoramic View of North East Coast of Mahe",
-                  "text": "A roadside viewpoint offering sweeping views of the north-east coast.",
-                  "category": "natural",
-                  "coords": [
-                        55.458526,
-                        -4.649156
-                  ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "A large ship anchor displayed as a historic artifact.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Mission Lodge",
-                  "text": "A forest clearing with panoramic views and remnants of a missionary school.",
-                  "category": "natural",
-                  "coords": [
-                        55.445288,
-                        -4.655755
-                  ]
-            },
-            {
-                  "name": "La Domus",
-                  "text": "A historic building, once a residence, now a cultural center.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "St. Paul's Cathedral is a notable Anglican place of worship located in Plaisance.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
                   ]
             }
       ]
@@ -5571,24 +3384,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "sc-roche-caiman-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Museum of Natural History",
-                  "text": "Ein Museum in Roche Caiman, das die Flora und Fauna der Seychellen zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
-            {
-                  "name": "Victoria Botanical Gardens",
-                  "text": "Historische Gärten mit exotischen Pflanzen und Riesenschildkröten.",
-                  "category": "family",
-                  "coords": [
-                        55.453744,
-                        -4.630286
-                  ]
-            },
-            {
                   "name": "Anse Tec-Tec",
                   "text": "Ein Strand in Roche Caiman, der eine entspannte Inselatmosphäre bietet.",
                   "category": "recreational",
@@ -5625,84 +3420,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Morne Seychellois",
-                  "text": "Der höchste Punkt der Seychellen, gelegen in einem Nationalpark.",
-                  "category": "natural",
-                  "coords": [
-                        55.43891,
-                        -4.644827
-                  ]
-            },
-            {
-                  "name": "Trois Freres viewpoint",
-                  "text": "Ein Aussichtspunkt mit Panoramablick auf Victoria und die Küste.",
-                  "category": "natural",
-                  "coords": [
-                        55.447169,
-                        -4.63648
-                  ]
-            },
-            {
-                  "name": "Venn's Town",
-                  "text": "Historische Ruinen einer Missionsschule in Roche Caiman.",
-                  "category": "historical",
-                  "coords": [
-                        55.444377,
-                        -4.654877
-                  ]
-            },
-            {
-                  "name": "Grand anse mahe waterfall",
-                  "text": "Ein Aussichtspunkt mit Blick auf einen Wasserfall in der Gegend von Roche Caiman.",
-                  "category": "natural",
-                  "coords": [
-                        55.447163,
-                        -4.664001
-                  ]
-            },
-            {
                   "name": "Eden Island viewpoint",
                   "text": "Ein Aussichtspunkt, der einen klaren Blick auf Eden Island und den Ozean bietet.",
                   "category": "natural",
                   "coords": [
                         55.467105,
                         -4.650248
-                  ]
-            },
-            {
-                  "name": "Trailhead to Morne Seychellois",
-                  "text": "Ein Wanderweg-Startpunkt zur Besteigung des Morne Seychellois von Roche Caïman aus.",
-                  "category": "landmark",
-                  "coords": [
-                        55.449546,
-                        -4.643163
-                  ]
-            },
-            {
-                  "name": "Trail junction",
-                  "text": "Ein Knotenpunkt, an dem mehrere Wanderwege in Roche Caiman zusammentreffen.",
-                  "category": "landmark",
-                  "coords": [
-                        55.44408,
-                        -4.637409
-                  ]
-            },
-            {
-                  "name": "Summit of Morne Seychellois",
-                  "text": "Der höchste Gipfel von Mahé mit Blick über den Archipel.",
-                  "category": "natural",
-                  "coords": [
-                        55.440234,
-                        -4.646499
-                  ]
-            },
-            {
-                  "name": "Turtles farm",
-                  "text": "Eine Einrichtung in Roche Caiman, die sich der Aufzucht und dem Schutz von Schildkröten widmet.",
-                  "category": "landmark",
-                  "coords": [
-                        55.450181,
-                        -4.634472
                   ]
             },
             {
@@ -5715,51 +3438,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Library fountain",
-                  "text": "Ein Zierbrunnen an einer Bibliothek in Roche Caïman.",
-                  "category": "historical",
-                  "coords": [
-                        55.454476,
-                        -4.6265
-                  ]
-            },
-            {
-                  "name": "La Misère Exotics Garden Centre",
-                  "text": "Ein Gartencenter mit einer Vielzahl tropischer und exotischer Pflanzen.",
-                  "category": "landmark",
-                  "coords": [
-                        55.469903,
-                        -4.669144
-                  ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "Ein moderner Brunnen, der von der Nouvobanque in Roche Caïman errichtet wurde.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
-            {
-                  "name": "Liberty Statue",
-                  "text": "Eine Freiheitsstatue in Roche Caïman.",
-                  "category": "historical",
-                  "coords": [
-                        55.45483,
-                        -4.62453
-                  ]
-            },
-            {
-                  "name": "Cruise Pirs Victoria",
-                  "text": "Der Kreuzfahrtanleger in Roche Caïman (Victoria).",
-                  "category": "landmark",
-                  "coords": [
-                        55.462931,
-                        -4.625882
-                  ]
-            },
-            {
                   "name": "Panoramic View of North East Coast of Mahe",
                   "text": "Der Aussichtspunkt Panoramic View of North East Coast of Mahe ist ein beeindruckendes Naturhighlight in Roche Caiman auf den Seychellen. Wer hier steht, den erwarten atemberaubende Küstenpanoramen der nordöstlichen Strände der Insel.",
                   "category": "natural",
@@ -5767,54 +3445,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.458526,
                         -4.649156
                   ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "Ein maritimes Denkmal mit einem Anker in Roche Caiman.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Mission Lodge",
-                  "text": "Eine historische Stätte mit weitem Blick auf die Küste und die Berge.",
-                  "category": "natural",
-                  "coords": [
-                        55.445288,
-                        -4.655755
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "Die anglikanische St. Paul's Cathedral ist ein historisches Gotteshaus in Roche Caiman.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Museum of Natural History",
-                  "text": "Múzeum Roche Caimanban, amely a Seychelle-szigetek növény- és állatvilágát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
-            {
-                  "name": "Victoria Botanical Gardens",
-                  "text": "Történelmi kertek egzotikus növényekkel és óriásteknősökkel.",
-                  "category": "family",
-                  "coords": [
-                        55.453744,
-                        -4.630286
-                  ]
-            },
             {
                   "name": "Anse Tec-Tec",
                   "text": "Strand Roche Caimanban, amely pihentető szigeti hangulatot kínál.",
@@ -5852,84 +3485,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Morne Seychellois",
-                  "text": "A Seychelle-szigetek legmagasabb pontja, egy nemzeti park területén.",
-                  "category": "natural",
-                  "coords": [
-                        55.43891,
-                        -4.644827
-                  ]
-            },
-            {
-                  "name": "Trois Freres viewpoint",
-                  "text": "Kilátóhely, ahonnan panorámás kilátás nyílik Victoriára és a partvidékre.",
-                  "category": "natural",
-                  "coords": [
-                        55.447169,
-                        -4.63648
-                  ]
-            },
-            {
-                  "name": "Venn's Town",
-                  "text": "Egy missziós iskola történelmi romjai Roche Caimanban.",
-                  "category": "historical",
-                  "coords": [
-                        55.444377,
-                        -4.654877
-                  ]
-            },
-            {
-                  "name": "Grand anse mahe waterfall",
-                  "text": "Kilátóhely egy vízesésre Roche Caiman környékén.",
-                  "category": "natural",
-                  "coords": [
-                        55.447163,
-                        -4.664001
-                  ]
-            },
-            {
                   "name": "Eden Island viewpoint",
                   "text": "Kilátó, ahonnan tiszta rálátás nyílik az Éden-szigetre és az óceánra.",
                   "category": "natural",
                   "coords": [
                         55.467105,
                         -4.650248
-                  ]
-            },
-            {
-                  "name": "Trailhead to Morne Seychellois",
-                  "text": "Egy túraútvonal kiindulópontja a Morne Seychellois megmászásához Roche Caïman felől.",
-                  "category": "landmark",
-                  "coords": [
-                        55.449546,
-                        -4.643163
-                  ]
-            },
-            {
-                  "name": "Trail junction",
-                  "text": "Csomópont, ahol több túraútvonal találkozik Roche Caimanban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.44408,
-                        -4.637409
-                  ]
-            },
-            {
-                  "name": "Summit of Morne Seychellois",
-                  "text": "Mahé legmagasabb csúcsa, amely kilátást nyújt a szigetvilágra.",
-                  "category": "natural",
-                  "coords": [
-                        55.440234,
-                        -4.646499
-                  ]
-            },
-            {
-                  "name": "Turtles farm",
-                  "text": "Teknősök nevelésével és védelmével foglalkozó létesítmény Roche Caimanban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.450181,
-                        -4.634472
                   ]
             },
             {
@@ -5942,51 +3503,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Library fountain",
-                  "text": "Egy díszkút egy könyvtárnál Roche Caïmanben.",
-                  "category": "historical",
-                  "coords": [
-                        55.454476,
-                        -4.6265
-                  ]
-            },
-            {
-                  "name": "La Misère Exotics Garden Centre",
-                  "text": "Kertészeti központ, amely különféle trópusi és egzotikus növényeket mutat be.",
-                  "category": "landmark",
-                  "coords": [
-                        55.469903,
-                        -4.669144
-                  ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "Egy modern szökőkút, amelyet a Nouvobanque építtetett Roche Caïmanben.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
-            {
-                  "name": "Liberty Statue",
-                  "text": "Egy Szabadság-szobor Roche Caïmanben.",
-                  "category": "historical",
-                  "coords": [
-                        55.45483,
-                        -4.62453
-                  ]
-            },
-            {
-                  "name": "Cruise Pirs Victoria",
-                  "text": "A körutazási hajókikötő Roche Caïmanben (Victoria).",
-                  "category": "landmark",
-                  "coords": [
-                        55.462931,
-                        -4.625882
-                  ]
-            },
-            {
                   "name": "Panoramic View of North East Coast of Mahe",
                   "text": "A Panoramic View of North East Coast of Mahe egy lenyűgöző természeti kilátópont a Seychelle-szigeteki Roche Caimanban. Az itt álló megfigyelők lélegzetelállító tengerparti kilátásra számíthatnak a sziget északkeleti partvidékére.",
                   "category": "natural",
@@ -5994,54 +3510,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.458526,
                         -4.649156
                   ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "Tengerészeti emlékmű horgonnyal Roche Caimanban.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Mission Lodge",
-                  "text": "Történelmi helyszín, ahonnan pazar kilátás nyílik a partra és a hegyekre.",
-                  "category": "natural",
-                  "coords": [
-                        55.445288,
-                        -4.655755
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "A Szent Pál anglikán katedrális egy történelmi istentiszteleti hely Roche Caimanban.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Museum of Natural History",
-                  "text": "Un muzeu în Roche Caiman care expune flora și fauna din Seychelles.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
-            {
-                  "name": "Victoria Botanical Gardens",
-                  "text": "Grădini istorice cu plante exotice și țestoase uriașe.",
-                  "category": "family",
-                  "coords": [
-                        55.453744,
-                        -4.630286
-                  ]
-            },
             {
                   "name": "Anse Tec-Tec",
                   "text": "O plajă în Roche Caiman care oferă o atmosferă relaxată de insulă.",
@@ -6079,84 +3550,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Morne Seychellois",
-                  "text": "Cel mai înalt punct din Seychelles, situat într-un parc național.",
-                  "category": "natural",
-                  "coords": [
-                        55.43891,
-                        -4.644827
-                  ]
-            },
-            {
-                  "name": "Trois Freres viewpoint",
-                  "text": "Un punct de belvedere care oferă vederi panoramice asupra Victoriei și a coastei.",
-                  "category": "natural",
-                  "coords": [
-                        55.447169,
-                        -4.63648
-                  ]
-            },
-            {
-                  "name": "Venn's Town",
-                  "text": "Ruinele istorice ale unei școli misionare situate în Roche Caiman.",
-                  "category": "historical",
-                  "coords": [
-                        55.444377,
-                        -4.654877
-                  ]
-            },
-            {
-                  "name": "Grand anse mahe waterfall",
-                  "text": "Un punct de belvedere cu vedere la o cascadă în zona Roche Caiman.",
-                  "category": "natural",
-                  "coords": [
-                        55.447163,
-                        -4.664001
-                  ]
-            },
-            {
                   "name": "Eden Island viewpoint",
                   "text": "Un punct de belvedere care oferă o vedere clară asupra insulei Eden și a oceanului.",
                   "category": "natural",
                   "coords": [
                         55.467105,
                         -4.650248
-                  ]
-            },
-            {
-                  "name": "Trailhead to Morne Seychellois",
-                  "text": "Punct de pornire a traseului pentru ascensiunea Morne Seychellois dinspre Roche Caiman.",
-                  "category": "landmark",
-                  "coords": [
-                        55.449546,
-                        -4.643163
-                  ]
-            },
-            {
-                  "name": "Trail junction",
-                  "text": "O intersecție unde se întâlnesc mai multe poteci de drumeție în Roche Caiman.",
-                  "category": "landmark",
-                  "coords": [
-                        55.44408,
-                        -4.637409
-                  ]
-            },
-            {
-                  "name": "Summit of Morne Seychellois",
-                  "text": "Cel mai înalt vârf de pe Mahé, oferind priveliști asupra arhipelagului.",
-                  "category": "natural",
-                  "coords": [
-                        55.440234,
-                        -4.646499
-                  ]
-            },
-            {
-                  "name": "Turtles farm",
-                  "text": "O facilitate în Roche Caiman dedicată creșterii și protejării țestoaselor.",
-                  "category": "landmark",
-                  "coords": [
-                        55.450181,
-                        -4.634472
                   ]
             },
             {
@@ -6169,51 +3568,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Library fountain",
-                  "text": "O fântână ornamentală la o bibliotecă din Roche Caiman.",
-                  "category": "historical",
-                  "coords": [
-                        55.454476,
-                        -4.6265
-                  ]
-            },
-            {
-                  "name": "La Misère Exotics Garden Centre",
-                  "text": "Un centru de grădinărit care prezintă o varietate de plante tropicale și exotice.",
-                  "category": "landmark",
-                  "coords": [
-                        55.469903,
-                        -4.669144
-                  ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "Un monument fântână modern construit de Nouvobanque în Roche Caiman.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
-            {
-                  "name": "Liberty Statue",
-                  "text": "O statuie a Libertății în Roche Caiman.",
-                  "category": "historical",
-                  "coords": [
-                        55.45483,
-                        -4.62453
-                  ]
-            },
-            {
-                  "name": "Cruise Pirs Victoria",
-                  "text": "Dock-ul pentru nave de croazieră din Roche Caiman (Victoria).",
-                  "category": "landmark",
-                  "coords": [
-                        55.462931,
-                        -4.625882
-                  ]
-            },
-            {
                   "name": "Panoramic View of North East Coast of Mahe",
                   "text": "Panoramic View of North East Coast of Mahe este un punct de observație natural uimitor, situat în Roche Caiman, Seychelles. Observatorii care stau aici se pot aștepta la priveliști de coastă uluitoare ale țărmurilor de nord-est ale insulei.",
                   "category": "natural",
@@ -6221,54 +3575,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.458526,
                         -4.649156
                   ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "Un monument maritim cu o ancoră în Roche Caiman.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Mission Lodge",
-                  "text": "Un sit istoric care oferă vederi vaste asupra coastei și munților.",
-                  "category": "natural",
-                  "coords": [
-                        55.445288,
-                        -4.655755
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "Catedrala anglicană Sfântul Pavel este un lăcaș de cult istoric din Roche Caiman.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Museum of Natural History",
-                  "text": "A museum in Roche Caiman displaying Seychelles' flora and fauna.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
-            {
-                  "name": "Victoria Botanical Gardens",
-                  "text": "Historic gardens featuring exotic plants and giant tortoises.",
-                  "category": "family",
-                  "coords": [
-                        55.453744,
-                        -4.630286
-                  ]
-            },
             {
                   "name": "Anse Tec-Tec",
                   "text": "A beach in Roche Caiman offering a relaxed island atmosphere.",
@@ -6306,84 +3615,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Morne Seychellois",
-                  "text": "The highest point in the Seychelles, located within a national park.",
-                  "category": "natural",
-                  "coords": [
-                        55.43891,
-                        -4.644827
-                  ]
-            },
-            {
-                  "name": "Trois Freres viewpoint",
-                  "text": "A scenic viewpoint offering panoramic views of Victoria and the coast.",
-                  "category": "natural",
-                  "coords": [
-                        55.447169,
-                        -4.63648
-                  ]
-            },
-            {
-                  "name": "Venn's Town",
-                  "text": "Historic ruins of a mission school located in Roche Caiman.",
-                  "category": "historical",
-                  "coords": [
-                        55.444377,
-                        -4.654877
-                  ]
-            },
-            {
-                  "name": "Grand anse mahe waterfall",
-                  "text": "A viewpoint overlooking a waterfall in the Roche Caiman area.",
-                  "category": "natural",
-                  "coords": [
-                        55.447163,
-                        -4.664001
-                  ]
-            },
-            {
                   "name": "Eden Island viewpoint",
                   "text": "A viewpoint providing a clear view of Eden Island and the ocean.",
                   "category": "natural",
                   "coords": [
                         55.467105,
                         -4.650248
-                  ]
-            },
-            {
-                  "name": "Trailhead to Morne Seychellois",
-                  "text": "A trailhead for climbing Morne Seychellois from the Roche Caiman side.",
-                  "category": "landmark",
-                  "coords": [
-                        55.449546,
-                        -4.643163
-                  ]
-            },
-            {
-                  "name": "Trail junction",
-                  "text": "A junction where several hiking paths meet in Roche Caiman.",
-                  "category": "landmark",
-                  "coords": [
-                        55.44408,
-                        -4.637409
-                  ]
-            },
-            {
-                  "name": "Summit of Morne Seychellois",
-                  "text": "The highest peak of Mahé, offering views across the archipelago.",
-                  "category": "natural",
-                  "coords": [
-                        55.440234,
-                        -4.646499
-                  ]
-            },
-            {
-                  "name": "Turtles farm",
-                  "text": "A facility in Roche Caiman dedicated to raising and protecting turtles.",
-                  "category": "landmark",
-                  "coords": [
-                        55.450181,
-                        -4.634472
                   ]
             },
             {
@@ -6396,84 +3633,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Library fountain",
-                  "text": "A decorative fountain at a library in Roche Caiman.",
-                  "category": "historical",
-                  "coords": [
-                        55.454476,
-                        -4.6265
-                  ]
-            },
-            {
-                  "name": "La Misère Exotics Garden Centre",
-                  "text": "A garden centre featuring a variety of tropical and exotic plants.",
-                  "category": "landmark",
-                  "coords": [
-                        55.469903,
-                        -4.669144
-                  ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "A modern fountain monument built by Nouvobanque in Roche Caiman.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
-            {
-                  "name": "Liberty Statue",
-                  "text": "A liberty statue in Roche Caiman.",
-                  "category": "historical",
-                  "coords": [
-                        55.45483,
-                        -4.62453
-                  ]
-            },
-            {
-                  "name": "Cruise Pirs Victoria",
-                  "text": "The cruise ship dock in Roche Caiman (Victoria).",
-                  "category": "landmark",
-                  "coords": [
-                        55.462931,
-                        -4.625882
-                  ]
-            },
-            {
                   "name": "Panoramic View of North East Coast of Mahe",
                   "text": "The Panoramic View of North East Coast of Mahe is a stunning natural viewpoint located in Roche Caiman, Seychelles. Observers standing here can expect breathtaking coastal vistas of the island's northeastern shores.",
                   "category": "natural",
                   "coords": [
                         55.458526,
                         -4.649156
-                  ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "A maritime monument featuring an anchor in Roche Caiman.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Mission Lodge",
-                  "text": "A historic site offering expansive views of the coast and mountains.",
-                  "category": "natural",
-                  "coords": [
-                        55.445288,
-                        -4.655755
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "St. Paul's Cathedral is an Anglican place of worship located in Roche Caiman.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
                   ]
             }
       ]
@@ -6633,102 +3798,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Victoria Botanical Gardens",
-                  "text": "Botanischer Garten in Victoria, erreichbar von Mont Buxton aus.",
-                  "category": "family",
-                  "coords": [
-                        55.453744,
-                        -4.630286
-                  ]
-            },
-            {
-                  "name": "My Green mansion",
-                  "text": "Ein grün gestrichenes Herrenhaus, das an ein Schloss erinnert, umgeben von Gärten.",
-                  "category": "castle",
-                  "coords": [
-                        55.452436,
-                        -4.591894
-                  ]
-            },
-            {
                   "name": "Kaz Zanana",
                   "text": "Ein Museum in einer traditionellen Kreolenvilla in Mont Buxton.",
                   "category": "museum",
                   "coords": [
                         55.449341,
                         -4.622204
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "Ein beliebter Sandstrand mit ruhigem Wasser in Mont Buxton.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "Ein natürliches Gebiet mit dichter tropischer Vegetation in Mont Buxton.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
-                  ]
-            },
-            {
-                  "name": "Trois Freres viewpoint",
-                  "text": "Ein Aussichtspunkt mit Panoramablick über die Bucht von Mont Buxton.",
-                  "category": "natural",
-                  "coords": [
-                        55.447169,
-                        -4.63648
-                  ]
-            },
-            {
-                  "name": "Bazar Labrin",
-                  "text": "Ein lebhafter Markt mit lokalen Produkten in Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.430604,
-                        -4.611088
-                  ]
-            },
-            {
-                  "name": "Trail junction",
-                  "text": "Ein Wanderweg-Kreuzungspunkt im tropischen Wald von Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.44408,
-                        -4.637409
-                  ]
-            },
-            {
-                  "name": "Turtles farm",
-                  "text": "Eine Schildkrötenfarm mit Aldabra-Riesenschildkröten in Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.450181,
-                        -4.634472
-                  ]
-            },
-            {
-                  "name": "Library fountain",
-                  "text": "Ein dekorativer Springbrunnen vor der Bibliothek in Mont Buxton.",
-                  "category": "historical",
-                  "coords": [
-                        55.454476,
-                        -4.6265
-                  ]
-            },
-            {
-                  "name": "Teddy's Glass Bottom Boat",
-                  "text": "Ein Boot mit Glasboden für Ausflüge zu den Korallenriffen in Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.431535,
-                        -4.608184
                   ]
             },
             {
@@ -6741,30 +3816,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Bastille",
-                  "text": "Ein Aussichtspunkt mit Blick über den Hafen von Victoria in Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.458211,
-                        -4.610422
-                  ]
-            },
-            {
                   "name": "Liberty Statue",
                   "text": "Eine Statue zur Erinnerung an die Unabhängigkeit der Seychellen in Mont Buxton.",
                   "category": "historical",
                   "coords": [
                         55.45483,
                         -4.62453
-                  ]
-            },
-            {
-                  "name": "Cruise Pirs Victoria",
-                  "text": "Der Hauptanlegeplatz für Kreuzfahrtschiffe in Victoria, Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.462931,
-                        -4.625882
                   ]
             },
             {
@@ -6806,102 +3863,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Victoria Botanical Gardens",
-                  "text": "Botanikus kert Victoria városában, Mont Buxton felől megközelíthető.",
-                  "category": "family",
-                  "coords": [
-                        55.453744,
-                        -4.630286
-                  ]
-            },
-            {
-                  "name": "My Green mansion",
-                  "text": "Egy zöldre festett kúria, amely egy kastélyra emlékeztet, kertekkel körülvéve.",
-                  "category": "castle",
-                  "coords": [
-                        55.452436,
-                        -4.591894
-                  ]
-            },
-            {
                   "name": "Kaz Zanana",
                   "text": "Egy múzeum egy hagyományos kreol villában Mont Buxtonban.",
                   "category": "museum",
                   "coords": [
                         55.449341,
                         -4.622204
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "Egy népszerű homokos strand nyugodt vízzel Mont Buxtonban.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "Egy természetes terület sűrű trópusi növényzettel Mont Buxtonban.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
-                  ]
-            },
-            {
-                  "name": "Trois Freres viewpoint",
-                  "text": "Egy kilátóhely panorámás kilátással a Mont Buxton-i öbölre.",
-                  "category": "natural",
-                  "coords": [
-                        55.447169,
-                        -4.63648
-                  ]
-            },
-            {
-                  "name": "Bazar Labrin",
-                  "text": "Egy élénk piac helyi termékekkel Mont Buxtonban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.430604,
-                        -4.611088
-                  ]
-            },
-            {
-                  "name": "Trail junction",
-                  "text": "Egy túraútvonal-kereszteződés a trópusi erdőben Mont Buxtonban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.44408,
-                        -4.637409
-                  ]
-            },
-            {
-                  "name": "Turtles farm",
-                  "text": "Egy teknősfarm Aldabra-óriásteknősökkel Mont Buxtonban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.450181,
-                        -4.634472
-                  ]
-            },
-            {
-                  "name": "Library fountain",
-                  "text": "Egy díszes szökőkút a könyvtár előtt Mont Buxtonban.",
-                  "category": "historical",
-                  "coords": [
-                        55.454476,
-                        -4.6265
-                  ]
-            },
-            {
-                  "name": "Teddy's Glass Bottom Boat",
-                  "text": "Egy üvegfenekű hajó korallzátonyokhoz tett kirándulásokhoz Mont Buxtonban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.431535,
-                        -4.608184
                   ]
             },
             {
@@ -6914,30 +3881,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Bastille",
-                  "text": "Egy kilátóhely a Victoria kikötőre nyíló kilátással Mont Buxtonban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.458211,
-                        -4.610422
-                  ]
-            },
-            {
                   "name": "Liberty Statue",
                   "text": "Egy szobor a Seychelle-szigetek függetlenségének emlékére Mont Buxtonban.",
                   "category": "historical",
                   "coords": [
                         55.45483,
                         -4.62453
-                  ]
-            },
-            {
-                  "name": "Cruise Pirs Victoria",
-                  "text": "A Victoria-i körutazási hajók fő kikötőhelye Mont Buxtonban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.462931,
-                        -4.625882
                   ]
             },
             {
@@ -6979,102 +3928,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Victoria Botanical Gardens",
-                  "text": "Grădina botanică din Victoria, accesibilă din Mont Buxton.",
-                  "category": "family",
-                  "coords": [
-                        55.453744,
-                        -4.630286
-                  ]
-            },
-            {
-                  "name": "My Green mansion",
-                  "text": "Un conac vopsit în verde, care amintește de un castel, înconjurat de grădini.",
-                  "category": "castle",
-                  "coords": [
-                        55.452436,
-                        -4.591894
-                  ]
-            },
-            {
                   "name": "Kaz Zanana",
                   "text": "Un muzeu într-o vilă tradițională creolă din Mont Buxton.",
                   "category": "museum",
                   "coords": [
                         55.449341,
                         -4.622204
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "O plajă populară cu nisip fin și apă calmă în Mont Buxton.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "O zonă naturală cu vegetație tropicală densă în Mont Buxton.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
-                  ]
-            },
-            {
-                  "name": "Trois Freres viewpoint",
-                  "text": "Un punct de belvedere cu vedere panoramică asupra golfului Mont Buxton.",
-                  "category": "natural",
-                  "coords": [
-                        55.447169,
-                        -4.63648
-                  ]
-            },
-            {
-                  "name": "Bazar Labrin",
-                  "text": "O piață animată cu produse locale în Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.430604,
-                        -4.611088
-                  ]
-            },
-            {
-                  "name": "Trail junction",
-                  "text": "O intersecție de trasee de drumeție în pădurea tropicală din Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.44408,
-                        -4.637409
-                  ]
-            },
-            {
-                  "name": "Turtles farm",
-                  "text": "O fermă de țestoase cu țestoase gigant Aldabra în Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.450181,
-                        -4.634472
-                  ]
-            },
-            {
-                  "name": "Library fountain",
-                  "text": "O fântână decorativă în fața bibliotecii din Mont Buxton.",
-                  "category": "historical",
-                  "coords": [
-                        55.454476,
-                        -4.6265
-                  ]
-            },
-            {
-                  "name": "Teddy's Glass Bottom Boat",
-                  "text": "O ambarcațiune cu fundul de sticlă pentru excursii la recifele de corali din Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.431535,
-                        -4.608184
                   ]
             },
             {
@@ -7087,30 +3946,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Bastille",
-                  "text": "Un punct de belvedere cu vedere asupra portului Victoria din Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.458211,
-                        -4.610422
-                  ]
-            },
-            {
                   "name": "Liberty Statue",
                   "text": "O statuie care comemorează independența Seychelles în Mont Buxton.",
                   "category": "historical",
                   "coords": [
                         55.45483,
                         -4.62453
-                  ]
-            },
-            {
-                  "name": "Cruise Pirs Victoria",
-                  "text": "Principalul loc de acostare pentru navele de croazieră în Victoria, Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.462931,
-                        -4.625882
                   ]
             },
             {
@@ -7152,102 +3993,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Victoria Botanical Gardens",
-                  "text": "Botanical gardens in Victoria, accessible from Mont Buxton.",
-                  "category": "family",
-                  "coords": [
-                        55.453744,
-                        -4.630286
-                  ]
-            },
-            {
-                  "name": "My Green mansion",
-                  "text": "A green-painted mansion resembling a castle, surrounded by gardens.",
-                  "category": "castle",
-                  "coords": [
-                        55.452436,
-                        -4.591894
-                  ]
-            },
-            {
                   "name": "Kaz Zanana",
                   "text": "A museum housed in a traditional Creole villa in Mont Buxton.",
                   "category": "museum",
                   "coords": [
                         55.449341,
                         -4.622204
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "A popular sandy beach with calm waters in Mont Buxton.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "A natural area with dense tropical vegetation in Mont Buxton.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
-                  ]
-            },
-            {
-                  "name": "Trois Freres viewpoint",
-                  "text": "A viewpoint offering panoramic views over Mont Buxton bay.",
-                  "category": "natural",
-                  "coords": [
-                        55.447169,
-                        -4.63648
-                  ]
-            },
-            {
-                  "name": "Bazar Labrin",
-                  "text": "A bustling market with local produce in Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.430604,
-                        -4.611088
-                  ]
-            },
-            {
-                  "name": "Trail junction",
-                  "text": "A trail junction in the tropical forest of Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.44408,
-                        -4.637409
-                  ]
-            },
-            {
-                  "name": "Turtles farm",
-                  "text": "A turtle farm featuring Aldabra giant tortoises in Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.450181,
-                        -4.634472
-                  ]
-            },
-            {
-                  "name": "Library fountain",
-                  "text": "An ornamental fountain in front of the library in Mont Buxton.",
-                  "category": "historical",
-                  "coords": [
-                        55.454476,
-                        -4.6265
-                  ]
-            },
-            {
-                  "name": "Teddy's Glass Bottom Boat",
-                  "text": "A glass-bottom boat for tours over coral reefs in Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.431535,
-                        -4.608184
                   ]
             },
             {
@@ -7260,30 +4011,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Bastille",
-                  "text": "A lookout point with views over Victoria harbour in Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.458211,
-                        -4.610422
-                  ]
-            },
-            {
                   "name": "Liberty Statue",
                   "text": "A statue commemorating Seychelles' independence in Mont Buxton.",
                   "category": "historical",
                   "coords": [
                         55.45483,
                         -4.62453
-                  ]
-            },
-            {
-                  "name": "Cruise Pirs Victoria",
-                  "text": "The main docking area for cruise ships in Victoria, Mont Buxton.",
-                  "category": "landmark",
-                  "coords": [
-                        55.462931,
-                        -4.625882
                   ]
             },
             {
@@ -7365,60 +4098,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "sc-perseverance-i-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Museum of Natural History",
-                  "text": "Das Naturhistorische Museum in Perseverance I zeigt Exemplare der Flora und Fauna der Seychellen.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
-            {
-                  "name": "Victoria Botanical Gardens",
-                  "text": "Die Victoria Botanical Gardens dienen als malerischer Erholungspark in Perseverance I.",
-                  "category": "family",
-                  "coords": [
-                        55.453744,
-                        -4.630286
-                  ]
-            },
-            {
-                  "name": "My Green mansion",
-                  "text": "Ein markantes grün gestrichenes Herrenhaus in Perseverance I.",
-                  "category": "castle",
-                  "coords": [
-                        55.452436,
-                        -4.591894
-                  ]
-            },
-            {
-                  "name": "Kaz Zanana",
-                  "text": "Ein Museum in einer traditionellen Kreolenvilla in Perseverance I.",
-                  "category": "museum",
-                  "coords": [
-                        55.449341,
-                        -4.622204
-                  ]
-            },
-            {
-                  "name": "Library fountain",
-                  "text": "Ein dekorativer Springbrunnen vor der Bibliothek in Perseverance I.",
-                  "category": "historical",
-                  "coords": [
-                        55.454476,
-                        -4.6265
-                  ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "Ein skulpturaler Brunnen vor der Nouvobanque in Perseverance I.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
-            {
                   "name": "La Bastille",
                   "text": "Ein Aussichtspunkt mit Blick über den Hafen von Victoria in Perseverance I.",
                   "category": "landmark",
@@ -7426,108 +4105,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.458211,
                         -4.610422
                   ]
-            },
-            {
-                  "name": "Liberty Statue",
-                  "text": "Eine Statue zur Erinnerung an die Unabhängigkeit der Seychellen in Perseverance I.",
-                  "category": "historical",
-                  "coords": [
-                        55.45483,
-                        -4.62453
-                  ]
-            },
-            {
-                  "name": "Cruise Pirs Victoria",
-                  "text": "Der Hauptanlegeplatz für Kreuzfahrtschiffe in Victoria, Perseverance I.",
-                  "category": "landmark",
-                  "coords": [
-                        55.462931,
-                        -4.625882
-                  ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "Ein historischer Anker als Denkmal in Perseverance I.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Domus",
-                  "text": "Ein historisches Gebäude mit Kolonialarchitektur in Perseverance I.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "Anglikanische St.-Pauls-Kathedrale in Victoria (Seychellen), im Stadtteil Perseverance I.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Museum of Natural History",
-                  "text": "A Természettudományi Múzeum Perseverance I-ben a Seychelle-szigetek növény- és állatvilágának példányait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
-            {
-                  "name": "Victoria Botanical Gardens",
-                  "text": "A Victoria botanikus kert egy festői szabadidőpark Perseverance I területén.",
-                  "category": "family",
-                  "coords": [
-                        55.453744,
-                        -4.630286
-                  ]
-            },
-            {
-                  "name": "My Green mansion",
-                  "text": "Egy jellegzetes zöldre festett kastély Perseverance I-ben.",
-                  "category": "castle",
-                  "coords": [
-                        55.452436,
-                        -4.591894
-                  ]
-            },
-            {
-                  "name": "Kaz Zanana",
-                  "text": "Egy múzeum egy hagyományos kreol villában Perseverance I-ben.",
-                  "category": "museum",
-                  "coords": [
-                        55.449341,
-                        -4.622204
-                  ]
-            },
-            {
-                  "name": "Library fountain",
-                  "text": "Egy díszes szökőkút a könyvtár előtt Perseverance I-ben.",
-                  "category": "historical",
-                  "coords": [
-                        55.454476,
-                        -4.6265
-                  ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "Egy szoborszerű szökőkút a Nouvobanque előtt Perseverance I-ben.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
             {
                   "name": "La Bastille",
                   "text": "Egy kilátóhely a Victoria kikötőre nyíló kilátással Perseverance I-ben.",
@@ -7536,108 +4116,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.458211,
                         -4.610422
                   ]
-            },
-            {
-                  "name": "Liberty Statue",
-                  "text": "Egy szobor a Seychelle-szigetek függetlenségének emlékére Perseverance I-ben.",
-                  "category": "historical",
-                  "coords": [
-                        55.45483,
-                        -4.62453
-                  ]
-            },
-            {
-                  "name": "Cruise Pirs Victoria",
-                  "text": "A Victoria-i körutazási hajók fő kikötőhelye Perseverance I-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        55.462931,
-                        -4.625882
-                  ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "Egy történelmi horgony mint emlékmű Perseverance I-ben.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Domus",
-                  "text": "Egy történelmi épület gyarmati stílusú építészettel Perseverance I-ben.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "Szent Pál anglikán székesegyház a Seychelle-szigeteki Victoriában, a Perseverance I negyedben.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Museum of Natural History",
-                  "text": "Muzeul de Istorie Naturală din Perseverance I expune specimene ale florei și faunei din Seychelles.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
-            {
-                  "name": "Victoria Botanical Gardens",
-                  "text": "Grădinile Botanice Victoria servesc drept parc de recreere pitoresc în Perseverance I.",
-                  "category": "family",
-                  "coords": [
-                        55.453744,
-                        -4.630286
-                  ]
-            },
-            {
-                  "name": "My Green mansion",
-                  "text": "Un conac vopsit în verde, remarcabil în Perseverance I.",
-                  "category": "castle",
-                  "coords": [
-                        55.452436,
-                        -4.591894
-                  ]
-            },
-            {
-                  "name": "Kaz Zanana",
-                  "text": "Un muzeu într-o vilă tradițională creolă în Perseverance I.",
-                  "category": "museum",
-                  "coords": [
-                        55.449341,
-                        -4.622204
-                  ]
-            },
-            {
-                  "name": "Library fountain",
-                  "text": "O fântână decorativă în fața bibliotecii din Perseverance I.",
-                  "category": "historical",
-                  "coords": [
-                        55.454476,
-                        -4.6265
-                  ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "O fântână sculpturală în fața Nouvobanque din Perseverance I.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
             {
                   "name": "La Bastille",
                   "text": "Un punct de belvedere cu vedere asupra portului Victoria în Perseverance I.",
@@ -7646,108 +4127,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.458211,
                         -4.610422
                   ]
-            },
-            {
-                  "name": "Liberty Statue",
-                  "text": "O statuie care comemorează independența Seychelles în Perseverance I.",
-                  "category": "historical",
-                  "coords": [
-                        55.45483,
-                        -4.62453
-                  ]
-            },
-            {
-                  "name": "Cruise Pirs Victoria",
-                  "text": "Principalul loc de acostare pentru navele de croazieră în Victoria, Perseverance I.",
-                  "category": "landmark",
-                  "coords": [
-                        55.462931,
-                        -4.625882
-                  ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "O ancoră istorică ca monument în Perseverance I.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Domus",
-                  "text": "O clădire istorică cu arhitectură colonială în Perseverance I.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "Catedrala Anglicană Sf. Paul din Victoria, Seychelles, în districtul Perseverance I.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Museum of Natural History",
-                  "text": "The Museum of Natural History in Perseverance I displays specimens of Seychelles' flora and fauna.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
-            {
-                  "name": "Victoria Botanical Gardens",
-                  "text": "The Victoria Botanical Gardens serve as a scenic recreational theme park in Perseverance I.",
-                  "category": "family",
-                  "coords": [
-                        55.453744,
-                        -4.630286
-                  ]
-            },
-            {
-                  "name": "My Green mansion",
-                  "text": "A distinctive green-painted mansion in Perseverance I.",
-                  "category": "castle",
-                  "coords": [
-                        55.452436,
-                        -4.591894
-                  ]
-            },
-            {
-                  "name": "Kaz Zanana",
-                  "text": "A museum housed in a traditional Creole villa in Perseverance I.",
-                  "category": "museum",
-                  "coords": [
-                        55.449341,
-                        -4.622204
-                  ]
-            },
-            {
-                  "name": "Library fountain",
-                  "text": "An ornamental fountain in front of the library in Perseverance I.",
-                  "category": "historical",
-                  "coords": [
-                        55.454476,
-                        -4.6265
-                  ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "A sculptural fountain outside Nouvobanque in Perseverance I.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
             {
                   "name": "La Bastille",
                   "text": "A lookout point with views over Victoria harbour in Perseverance I.",
@@ -7755,51 +4137,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.458211,
                         -4.610422
-                  ]
-            },
-            {
-                  "name": "Liberty Statue",
-                  "text": "A statue commemorating Seychelles' independence in Perseverance I.",
-                  "category": "historical",
-                  "coords": [
-                        55.45483,
-                        -4.62453
-                  ]
-            },
-            {
-                  "name": "Cruise Pirs Victoria",
-                  "text": "The main docking area for cruise ships in Victoria, Perseverance I.",
-                  "category": "landmark",
-                  "coords": [
-                        55.462931,
-                        -4.625882
-                  ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "A historic anchor monument in Perseverance I.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "La Domus",
-                  "text": "A historical building with colonial architecture in Perseverance I.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "Anglican St. Paul's Cathedral in Victoria, Seychelles, located in the Perseverance I district.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
                   ]
             }
       ]
@@ -8040,24 +4377,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "sc-cote-dor-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Praslin Museum",
-                  "text": "Ein Museum zur Geschichte und Kultur von Praslin in Côte d'Or.",
-                  "category": "museum",
-                  "coords": [
-                        55.749401,
-                        -4.320591
-                  ]
-            },
-            {
-                  "name": "Grand'Anse Praslin Beach",
-                  "text": "Der Grand'Anse Praslin Beach ist ein äußerst malerisches Küsten-Highlight in Cote D Or. Besucher können sich darauf freuen, an einem breiten Sandstrand zu entspannen, während sie die Anblicke und Geräusche des Ozeans der Seychellen genießen. Er bietet eine wunderbare Balance aus Sonnenbadeplätzen, Bademöglichkeiten und weiten Ausblicken für einen schönen Spaziergang. Um die leuchtenden Küstenfarben optimal zu nutzen, wird ein Besuch am Morgen wärmstens empfohlen.",
-                  "category": "recreational",
-                  "coords": [
-                        55.701703,
-                        -4.320648
-                  ]
-            },
-            {
                   "name": "Anse Boudin",
                   "text": "Ein ruhiger Sandstrand mit flachem Wasser in Côte d'Or.",
                   "category": "recreational",
@@ -8073,24 +4392,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.735044,
                         -4.309108
-                  ]
-            },
-            {
-                  "name": "Anse Gouvernment",
-                  "text": "Ein feinsandiger Strand mit Palmen gesäumt in Côte d'Or.",
-                  "category": "recreational",
-                  "coords": [
-                        55.76288,
-                        -4.318555
-                  ]
-            },
-            {
-                  "name": "Private beach (not welcome here)",
-                  "text": "Dieser exklusive, private Strandbereich in Cote D Or ist streng für autorisierte Gäste reserviert und für die breite Öffentlichkeit nicht zugänglich. An der Küste der Seychellen eingebettet, bieten sein Sand und Wasser einen isolierten Rückzugsort für diejenigen, die Zutritt haben. Beobachter können vielleicht von weitem einen Blick auf seine ruhige Schönheit erhaschen, während sie die Umgebung erkunden. Besucher sollten die lokalen Grundstücksgrenzen respektieren und zum Schwimmen die vielen atemberaubenden öffentlichen Strände in der Nähe aufsuchen.",
-                  "category": "recreational",
-                  "coords": [
-                        55.761852,
-                        -4.31989
                   ]
             },
             {
@@ -8164,45 +4465,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.745088,
                         -4.340922
                   ]
-            },
-            {
-                  "name": "Snorkeling place",
-                  "text": "Ein natürlicher Schnorchelplatz mit reicher Unterwasserwelt in Côte d'Or.",
-                  "category": "natural",
-                  "coords": [
-                        55.750196,
-                        -4.303028
-                  ]
-            },
-            {
-                  "name": "Palm Beach hotel",
-                  "text": "Dieser Küstenabschnitt grenzt an das bekannte Palm Beach Hotel in Cote D Or und bietet eine resortähnliche Atmosphäre direkt am Meer. Die Umgebung zieht vor allem jene an, die einen komfortablen Ort zum Sonnenbaden oder für ein entspanntes Schwimmen nur wenige Schritte von ihrer Unterkunft entfernt suchen. Man kann bequem am Wasser entlang flanieren, um die lebhafte Landschaft der Seychellen zu genießen. Es ist ratsam, die lokalen Zugangsregeln zu prüfen, falls man nicht in der Anlage übernachtet.",
-                  "category": "landmark",
-                  "coords": [
-                        55.720087,
-                        -4.331988
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Praslin Museum",
-                  "text": "Egy múzeum Praslin történelméről és kultúrájáról Côte d'Orban.",
-                  "category": "museum",
-                  "coords": [
-                        55.749401,
-                        -4.320591
-                  ]
-            },
-            {
-                  "name": "Grand'Anse Praslin Beach",
-                  "text": "A Grand'Anse Praslin Beach egy rendkívül festői part menti látványosság Cote D Or területén. A látogatók egy széles, homokos partszakaszon kapcsolódhatnak ki, miközben élvezik a Seychelle-szigeteki óceán látványát és hangjait. Csodálatos egyensúlyt kínál a napozóhelyek, az úszási lehetőségek és a festői sétákhoz szükséges tágas kilátás között. A vibráló tengerparti színek kiélvezése érdekében kifejezetten ajánlott egy délelőtti látogatás.",
-                  "category": "recreational",
-                  "coords": [
-                        55.701703,
-                        -4.320648
-                  ]
-            },
             {
                   "name": "Anse Boudin",
                   "text": "Egy csendes homokos strand sekély vízzel Côte d'Orban.",
@@ -8219,24 +4484,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.735044,
                         -4.309108
-                  ]
-            },
-            {
-                  "name": "Anse Gouvernment",
-                  "text": "Egy finom homokos strand pálmafákkal szegélyezve Côte d'Orban.",
-                  "category": "recreational",
-                  "coords": [
-                        55.76288,
-                        -4.318555
-                  ]
-            },
-            {
-                  "name": "Private beach (not welcome here)",
-                  "text": "Ez az exkluzív, privát strandszakasz Cote D Or területén szigorúan csak a jogosult vendégek számára van fenntartva, a nagyközönség számára nem látogatható. A Seychelle-szigetek partján fekvő homok és víz elszigetelt menedéket nyújt azoknak, akik beléphetnek ide. A megfigyelők távolról talán elkaphatnak egy pillantást a csendes szépségére, miközben a környéket fedezik fel. A látogatóknak tiszteletben kell tartaniuk a helyi birtokhatárokat, és az úszáshoz a közeli, lenyűgöző nyilvános strandokat érdemes felkeresniük.",
-                  "category": "recreational",
-                  "coords": [
-                        55.761852,
-                        -4.31989
                   ]
             },
             {
@@ -8310,45 +4557,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.745088,
                         -4.340922
                   ]
-            },
-            {
-                  "name": "Snorkeling place",
-                  "text": "Egy természetes búvárkodási hely gazdag víz alatti élővilággal Côte d'Orban.",
-                  "category": "natural",
-                  "coords": [
-                        55.750196,
-                        -4.303028
-                  ]
-            },
-            {
-                  "name": "Palm Beach hotel",
-                  "text": "A Cote D Or területén található jól ismert Palm Beach hotelhez csatlakozó partszakasz üdülőszerű hangulatot biztosít a tengerparton. A környezet általában azokat vonzza, akik egy kényelmes helyet keresnek a napozáshoz vagy egy pihentető úszáshoz, csupán néhány lépésre a szállásuktól. Könnyedén sétálhatunk a vízparton, hogy megcsodáljuk a Seychelle-szigetek élénk táját. Érdemes tájékozódni a helyi belépési szabályokról, ha nem a szállodában tartózkodunk.",
-                  "category": "landmark",
-                  "coords": [
-                        55.720087,
-                        -4.331988
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Praslin Museum",
-                  "text": "Un muzeu despre istoria și cultura insulei Praslin în Côte d'Or.",
-                  "category": "museum",
-                  "coords": [
-                        55.749401,
-                        -4.320591
-                  ]
-            },
-            {
-                  "name": "Grand'Anse Praslin Beach",
-                  "text": "Grand'Anse Praslin Beach este o atracție de coastă extrem de pitorească în Cote D Or. Vizitatorii se pot relaxa pe un țărm larg, nisipos, bucurându-se în același timp de priveliștile și sunetele oceanului din Seychelles. Oferă un echilibru minunat între locurile de plajă, oportunitățile de înot și priveliștile ample pentru o plimbare pitorească. Pentru a profita la maximum de culorile vibrante ale coastei, o vizită dimineața este foarte recomandată.",
-                  "category": "recreational",
-                  "coords": [
-                        55.701703,
-                        -4.320648
-                  ]
-            },
             {
                   "name": "Anse Boudin",
                   "text": "O plajă liniștită cu nisip fin și apă puțin adâncă în Côte d'Or.",
@@ -8365,24 +4576,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.735044,
                         -4.309108
-                  ]
-            },
-            {
-                  "name": "Anse Gouvernment",
-                  "text": "O plajă cu nisip fin, mărginită de palmieri în Côte d'Or.",
-                  "category": "recreational",
-                  "coords": [
-                        55.76288,
-                        -4.318555
-                  ]
-            },
-            {
-                  "name": "Private beach (not welcome here)",
-                  "text": "Această zonă de plajă privată și exclusivistă din Cote D Or rămâne rezervată strict oaspeților autorizați, interzicând accesul publicului larg. Cuibărită pe coasta din Seychelles, nisipul și apele sale oferă un sanctuar izolat pentru cei cărora li se permite intrarea. Observatorii ar putea zări frumusețea sa liniștită de departe, în timp ce explorează zona înconjurătoare. Vizitatorii ar trebui să respecte granițele proprietăților locale și să caute numeroasele plaje publice uimitoare din apropiere pentru a înota.",
-                  "category": "recreational",
-                  "coords": [
-                        55.761852,
-                        -4.31989
                   ]
             },
             {
@@ -8456,45 +4649,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.745088,
                         -4.340922
                   ]
-            },
-            {
-                  "name": "Snorkeling place",
-                  "text": "Un loc natural de snorkeling cu viață marină bogată în Côte d'Or.",
-                  "category": "natural",
-                  "coords": [
-                        55.750196,
-                        -4.303028
-                  ]
-            },
-            {
-                  "name": "Palm Beach hotel",
-                  "text": "Alăturându-se renumitului hotel Palm Beach din Cote D Or, această secțiune de coastă oferă o atmosferă de stațiune la malul mării. Cadrul atrage de obicei pe cei care caută un loc confortabil pentru a face plajă sau pentru a se bucura de o baie relaxantă la doar câțiva pași de cazarea lor. Vă puteți plimba cu ușurință de-a lungul malului pentru a admira peisajul vibrant din Seychelles. Este recomandabil să verificați regulile locale de acces dacă nu sunteți cazat la proprietate.",
-                  "category": "landmark",
-                  "coords": [
-                        55.720087,
-                        -4.331988
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Praslin Museum",
-                  "text": "A museum of Praslin's history and culture in Côte d'Or.",
-                  "category": "museum",
-                  "coords": [
-                        55.749401,
-                        -4.320591
-                  ]
-            },
-            {
-                  "name": "Grand'Anse Praslin Beach",
-                  "text": "Grand'Anse Praslin Beach serves as a highly picturesque coastal highlight within Cote D Or. Visitors can look forward to unwinding on a broad sandy shoreline while enjoying the sights and sounds of the Seychelles ocean. It offers a wonderful balance of sunbathing spots, swimming opportunities, and expansive views for a scenic stroll. To make the most of the vibrant coastal colors, a morning visit is strongly recommended.",
-                  "category": "recreational",
-                  "coords": [
-                        55.701703,
-                        -4.320648
-                  ]
-            },
             {
                   "name": "Anse Boudin",
                   "text": "A quiet sandy beach with shallow waters in Côte d'Or.",
@@ -8511,24 +4668,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.735044,
                         -4.309108
-                  ]
-            },
-            {
-                  "name": "Anse Gouvernment",
-                  "text": "A fine-sand beach lined with palm trees in Côte d'Or.",
-                  "category": "recreational",
-                  "coords": [
-                        55.76288,
-                        -4.318555
-                  ]
-            },
-            {
-                  "name": "Private beach (not welcome here)",
-                  "text": "This exclusive private beach area in Cote D Or remains reserved strictly for authorized guests, prohibiting general public access. Nestled on the Seychelles coast, its sands and waters provide an isolated sanctuary for those permitted to enter. Observers might catch a glimpse of its quiet beauty from afar while exploring the surrounding area. Visitors should respect local property boundaries and seek out the many stunning public beaches nearby for swimming.",
-                  "category": "recreational",
-                  "coords": [
-                        55.761852,
-                        -4.31989
                   ]
             },
             {
@@ -8602,24 +4741,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.745088,
                         -4.340922
                   ]
-            },
-            {
-                  "name": "Snorkeling place",
-                  "text": "A natural snorkeling spot with rich marine life in Côte d'Or.",
-                  "category": "natural",
-                  "coords": [
-                        55.750196,
-                        -4.303028
-                  ]
-            },
-            {
-                  "name": "Palm Beach hotel",
-                  "text": "Adjoining the well-known Palm Beach hotel in Cote D Or, this coastal section provides a resort-like atmosphere by the sea. The setting typically appeals to those seeking a comfortable spot to sunbathe or enjoy a relaxing swim just steps from their accommodation. You can easily stroll along the waterfront to take in the vibrant Seychelles landscape. Checking the local access rules is advisable if you are not staying at the property.",
-                  "category": "landmark",
-                  "coords": [
-                        55.720087,
-                        -4.331988
-                  ]
             }
       ]
 },
@@ -8682,24 +4803,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Barbarons Beach",
-                  "text": "Der bei Küstenwanderern beliebte Anse Barbarons liegt wunderschön in der Region Grand Anse auf Mahé. Die lebhafte, tropische Atmosphäre macht ihn zu einer attraktiven Wahl sowohl für ein erfrischendes Bad als auch zum Ausspannen im Sand. Besucher laufen oft die Küste entlang, um die üppige Landschaft der Seychellen zu bewundern, die an das Wasser grenzt. Um der Mittagshitze zu entgehen, ist es eine kluge Entscheidung, sich früh am Tag dorthin auf den Weg zu machen.",
-                  "category": "recreational",
-                  "coords": [
-                        55.455279,
-                        -4.686756
-                  ]
-            },
-            {
-                  "name": "Venn's Town",
-                  "text": "Venn's Town bietet historische Ruinen in Grand Anse (Mahé).",
-                  "category": "historical",
-                  "coords": [
-                        55.444377,
-                        -4.654877
-                  ]
-            },
-            {
                   "name": "Grand anse mahe waterfall",
                   "text": "Ein Wasserfall am Strand von Grand Anse auf Mahé.",
                   "category": "natural",
@@ -8709,48 +4812,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Biodiversity Centre",
-                  "text": "Ein Forschungszentrum für die einheimischen Pflanzen der Seychellen in Grand Anse Mahé.",
-                  "category": "landmark",
-                  "coords": [
-                        55.46429,
-                        -4.694249
-                  ]
-            },
-            {
-                  "name": "Fairview",
-                  "text": "Fairview ist ein lokaler Anziehungspunkt in Grand Anse (Mahé).",
-                  "category": "landmark",
-                  "coords": [
-                        55.465585,
-                        -4.659046
-                  ]
-            },
-            {
                   "name": "La Misère Exotics Garden Centre",
                   "text": "Ein Gartencenter mit exotischen Pflanzen in Grand Anse Mahé.",
                   "category": "landmark",
                   "coords": [
                         55.469903,
                         -4.669144
-                  ]
-            },
-            {
-                  "name": "Teapot",
-                  "text": "Teapot ist eine lokale Attraktion in Grand Anse (Mahé).",
-                  "category": "landmark",
-                  "coords": [
-                        55.438314,
-                        -4.66313
-                  ]
-            },
-            {
-                  "name": "Mission Lodge",
-                  "text": "Mission Lodge bietet einen wunderschönen Panoramablick in Grand Anse (Mahé).",
-                  "category": "natural",
-                  "coords": [
-                        55.445288,
-                        -4.655755
                   ]
             }
       ],
@@ -8765,24 +4832,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Barbarons Beach",
-                  "text": "A part menti vándorok körében népszerű Anse Barbarons gyönyörűen helyezkedik el Mahé Grand Anse régiójában. Az élénk, trópusi hangulat vonzó választássá teszi mind a frissítő úszáshoz, mind a homokban való kikapcsolódáshoz. A látogatók gyakran gyalogosan követik a partvonalat, hogy megcsodálják a vizet szegélyező buja Seychelle-szigeteki tájat. A déli hőség elkerülése érdekében érdemes a nap korábbi szakaszában elindulni ide.",
-                  "category": "recreational",
-                  "coords": [
-                        55.455279,
-                        -4.686756
-                  ]
-            },
-            {
-                  "name": "Venn's Town",
-                  "text": "A Venn's Town történelmi romokat rejt Grand Anse (Mahé) területén.",
-                  "category": "historical",
-                  "coords": [
-                        55.444377,
-                        -4.654877
-                  ]
-            },
-            {
                   "name": "Grand anse mahe waterfall",
                   "text": "Egy vízesés a Grand Anse strandon Mahén.",
                   "category": "natural",
@@ -8792,48 +4841,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Biodiversity Centre",
-                  "text": "Egy kutatóközpont a Seychelle-szigetek őshonos növényei számára Grand Anse Mahén.",
-                  "category": "landmark",
-                  "coords": [
-                        55.46429,
-                        -4.694249
-                  ]
-            },
-            {
-                  "name": "Fairview",
-                  "text": "A Fairview egy helyi érdekeltségű pont Grand Anse (Mahé) területén.",
-                  "category": "landmark",
-                  "coords": [
-                        55.465585,
-                        -4.659046
-                  ]
-            },
-            {
                   "name": "La Misère Exotics Garden Centre",
                   "text": "Egy kertészeti központ egzotikus növényekkel Grand Anse Mahén.",
                   "category": "landmark",
                   "coords": [
                         55.469903,
                         -4.669144
-                  ]
-            },
-            {
-                  "name": "Teapot",
-                  "text": "A Teapot egy helyi látványosság Grand Anse (Mahé) területén.",
-                  "category": "landmark",
-                  "coords": [
-                        55.438314,
-                        -4.66313
-                  ]
-            },
-            {
-                  "name": "Mission Lodge",
-                  "text": "A Mission Lodge panorámás kilátást nyújt Grand Anse (Mahé) területén.",
-                  "category": "natural",
-                  "coords": [
-                        55.445288,
-                        -4.655755
                   ]
             }
       ],
@@ -8848,24 +4861,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Barbarons Beach",
-                  "text": "Populară printre exploratorii de coastă, Anse Barbarons este situată frumos în regiunea Grand Anse din Mahé. Atmosfera tropicală și plină de viață o face o alegere atractivă atât pentru înot revigorant, cât și pentru relaxare pe nisip. Vizitatorii urmăresc adesea linia de coastă pe jos pentru a aprecia peisajul luxuriant din Seychelles care mărginește apa. Pentru a evita căldura amiezii, este o alegere înțeleaptă să vă îndreptați spre ea în prima parte a zilei.",
-                  "category": "recreational",
-                  "coords": [
-                        55.455279,
-                        -4.686756
-                  ]
-            },
-            {
-                  "name": "Venn's Town",
-                  "text": "Venn's Town prezintă ruine istorice situate în Grand Anse (Mahé).",
-                  "category": "historical",
-                  "coords": [
-                        55.444377,
-                        -4.654877
-                  ]
-            },
-            {
                   "name": "Grand anse mahe waterfall",
                   "text": "O cascadă pe plaja Grand Anse din Mahé.",
                   "category": "natural",
@@ -8875,48 +4870,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Biodiversity Centre",
-                  "text": "Un centru de cercetare pentru plantele native din Seychelles în Grand Anse Mahé.",
-                  "category": "landmark",
-                  "coords": [
-                        55.46429,
-                        -4.694249
-                  ]
-            },
-            {
-                  "name": "Fairview",
-                  "text": "Fairview este un punct de interes local situat în Grand Anse (Mahé).",
-                  "category": "landmark",
-                  "coords": [
-                        55.465585,
-                        -4.659046
-                  ]
-            },
-            {
                   "name": "La Misère Exotics Garden Centre",
                   "text": "Un centru grădinărit cu plante exotice în Grand Anse Mahé.",
                   "category": "landmark",
                   "coords": [
                         55.469903,
                         -4.669144
-                  ]
-            },
-            {
-                  "name": "Teapot",
-                  "text": "Teapot este o atracție locală situată în Grand Anse (Mahé).",
-                  "category": "landmark",
-                  "coords": [
-                        55.438314,
-                        -4.66313
-                  ]
-            },
-            {
-                  "name": "Mission Lodge",
-                  "text": "Mission Lodge oferă un punct de belvedere panoramic în Grand Anse (Mahé).",
-                  "category": "natural",
-                  "coords": [
-                        55.445288,
-                        -4.655755
                   ]
             }
       ],
@@ -8931,24 +4890,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse Barbarons",
-                  "text": "Popular among coastal wanderers, Anse Barbarons sits beautifully within the Grand Anse region of Mahé. The lively, tropical atmosphere makes it an attractive choice for both refreshing swims and unwinding on the sand. Visitors often trace the coastline on foot to appreciate the lush Seychelles scenery that borders the water. To avoid the midday heat, heading there in the earlier part of the day is a wise choice.",
-                  "category": "recreational",
-                  "coords": [
-                        55.455279,
-                        -4.686756
-                  ]
-            },
-            {
-                  "name": "Venn's Town",
-                  "text": "Venn's Town features historical ruins located in Grand Anse (Mahé).",
-                  "category": "historical",
-                  "coords": [
-                        55.444377,
-                        -4.654877
-                  ]
-            },
-            {
                   "name": "Grand anse mahe waterfall",
                   "text": "A waterfall on Grand Anse beach in Mahé.",
                   "category": "natural",
@@ -8958,48 +4899,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "National Biodiversity Centre",
-                  "text": "A research centre for Seychelles' native plants in Grand Anse Mahé.",
-                  "category": "landmark",
-                  "coords": [
-                        55.46429,
-                        -4.694249
-                  ]
-            },
-            {
-                  "name": "Fairview",
-                  "text": "Fairview is a local point of interest located in Grand Anse (Mahé).",
-                  "category": "landmark",
-                  "coords": [
-                        55.465585,
-                        -4.659046
-                  ]
-            },
-            {
                   "name": "La Misère Exotics Garden Centre",
                   "text": "A garden centre with exotic plants in Grand Anse Mahé.",
                   "category": "landmark",
                   "coords": [
                         55.469903,
                         -4.669144
-                  ]
-            },
-            {
-                  "name": "Teapot",
-                  "text": "Teapot is a local attraction situated in Grand Anse (Mahé).",
-                  "category": "landmark",
-                  "coords": [
-                        55.438314,
-                        -4.66313
-                  ]
-            },
-            {
-                  "name": "Mission Lodge",
-                  "text": "Mission Lodge provides a panoramic viewpoint in Grand Anse (Mahé).",
-                  "category": "natural",
-                  "coords": [
-                        55.445288,
-                        -4.655755
                   ]
             }
       ]
@@ -9054,30 +4959,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "sc-barbarons-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Grand'Anse Mahé Beach",
-                  "text": "In der Gegend von Barbarons gelegen, besticht der Grand'Anse Mahé Beach durch seine atemberaubende Weite an Sandstränden. Dieser natürliche Spielplatz zieht jeden an, der in die Meereswellen eintauchen oder einfach nur beim Rauschen der Brandung sonnenbaden möchte. Spaziergänger werden die großzügige Länge der Küstenlinie zu schätzen wissen, die perfekt ist, um sich die Beine zu vertreten. Packen Sie ein paar leichte Snacks und Getränke ein, um einen unbeschwerten Nachmittag am Wasser in vollen Zügen zu genießen.",
-                  "category": "recreational",
-                  "coords": [
-                        55.447126,
-                        -4.678985
-                  ]
-            },
-            {
                   "name": "Barbarons Beach",
                   "text": "Anse Barbarons spiegelt den Geist seiner gleichnamigen Stadt wider und ist ein geschätztes Küstenziel in Barbarons. Die einladende Anlage bietet hervorragende Voraussetzungen, um einen Tag mit Schwimmen oder Sonnenbaden an den sonnigen Ufern zu verbringen. Der Strand hat einen beständigen Rhythmus sich brechender Wellen, was einen fantastischen Soundtrack für einen Spaziergang am Ufer liefert. Ein Paar Badeschuhe könnte nützlich sein, um etwas steinigere Abschnitte entlang der Küste zu erkunden.",
                   "category": "recreational",
                   "coords": [
                         55.455279,
                         -4.686756
-                  ]
-            },
-            {
-                  "name": "New Savy",
-                  "text": "New Savy ist ein Sandstrand an der Ostküste von Mahé, in Barbarons.",
-                  "category": "natural",
-                  "coords": [
-                        55.478373,
-                        -4.676388
                   ]
             },
             {
@@ -9088,27 +4975,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.46429,
                         -4.694249
                   ]
-            },
-            {
-                  "name": "La Misère Exotics Garden Centre",
-                  "text": "La Misère Exotics Garden Centre in Barbarons ist ein Gartencenter mit exotischen Pflanzen.",
-                  "category": "landmark",
-                  "coords": [
-                        55.469903,
-                        -4.669144
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Grand'Anse Mahé Beach",
-                  "text": "A Barbarons térségében található Grand'Anse Mahé Beach lenyűgöző kiterjedésű homokos partokkal büszkélkedhet. Ez a természetes játszótér mindenkit hívogat, aki szeretne megmártózni az óceán hullámaiban, vagy egyszerűen csak napozni a hullámverés hangjára. A sétálók értékelni fogják a partvonal bőséges hosszát, amely tökéletes egy kis lábnyújtóztatásra. Csomagoljon be néhány könnyű harapnivalót és italt, hogy teljes mértékben kiélvezhesse a gondtalan délutánt a víz mellett.",
-                  "category": "recreational",
-                  "coords": [
-                        55.447126,
-                        -4.678985
-                  ]
-            },
             {
                   "name": "Barbarons Beach",
                   "text": "A névadó városának szellemét tükröző Anse Barbarons nagyra becsült tengerparti úti cél Barbaronsban. Hívogató elrendezése kiváló lehetőségeket kínál egy úszással vagy a napos partokon való sütkérezéssel töltött naphoz. A strandon a megtörő hullámok egyenletes ritmusa fantasztikus háttérzenét biztosít egy part menti sétához. Egy pár vízicipő jól jöhet a part menti, kissé sziklásabb szakaszok felfedezéséhez.",
@@ -9119,15 +4988,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "New Savy",
-                  "text": "A New Savy egy homokos strand Mahé keleti partján, Barbaronsban.",
-                  "category": "natural",
-                  "coords": [
-                        55.478373,
-                        -4.676388
-                  ]
-            },
-            {
                   "name": "National Biodiversity Centre",
                   "text": "A Barbarons-i Nemzeti Biodiverzitási Központ a Seychelle-szigetek endemikus fajait bemutató kiállításoknak ad otthont.",
                   "category": "landmark",
@@ -9135,27 +4995,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.46429,
                         -4.694249
                   ]
-            },
-            {
-                  "name": "La Misère Exotics Garden Centre",
-                  "text": "A La Misère Exotics Garden Centre Barbaronsban egy egzotikus növényekre szakosodott kertészeti központ.",
-                  "category": "landmark",
-                  "coords": [
-                        55.469903,
-                        -4.669144
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Grand'Anse Mahé Beach",
-                  "text": "Situată în zona Barbarons, Grand'Anse Mahé Beach prezintă o întindere uimitoare de țărmuri nisipoase. Acest loc de joacă natural cheamă pe oricine dorește să se scufunde în valurile oceanului sau pur și simplu să facă plajă ascultând sunetul valurilor. Plimbăreții vor aprecia lungimea generoasă a țărmului, perfectă pentru a-și întinde picioarele. Împachetați câteva gustări ușoare și băuturi pentru a vă bucura din plin de o după-amiază lipsită de griji la malul apei.",
-                  "category": "recreational",
-                  "coords": [
-                        55.447126,
-                        -4.678985
-                  ]
-            },
             {
                   "name": "Barbarons Beach",
                   "text": "Îmbrățișând spiritul orașului său omonim, Anse Barbarons servește drept o destinație de coastă prețuită în Barbarons. Dispunerea sa primitoare oferă perspective excelente pentru petrecerea unei zile înotând sau bucurându-vă de țărmurile însorite. Plaja menține un ritm constant de valuri care se sparg, ceea ce oferă o coloană sonoră fantastică pentru o plimbare pe țărm. O pereche de încălțăminte de apă ar putea fi la îndemână pentru explorarea porțiunilor ușor mai stâncoase de-a lungul coastei.",
@@ -9166,15 +5008,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "New Savy",
-                  "text": "New Savy este o plajă nisipoasă pe coasta de est a insulei Mahé, în Barbarons.",
-                  "category": "natural",
-                  "coords": [
-                        55.478373,
-                        -4.676388
-                  ]
-            },
-            {
                   "name": "National Biodiversity Centre",
                   "text": "Centrul Național pentru Biodiversitate din Barbarons găzduiește expoziții despre speciile endemice din Seychelles.",
                   "category": "landmark",
@@ -9182,27 +5015,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.46429,
                         -4.694249
                   ]
-            },
-            {
-                  "name": "La Misère Exotics Garden Centre",
-                  "text": "La Misère Exotics Garden Centre din Barbarons este un centru de grădinărit specializat în plante exotice.",
-                  "category": "landmark",
-                  "coords": [
-                        55.469903,
-                        -4.669144
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Grand'Anse Mahé Beach",
-                  "text": "Located in the Barbarons area, Grand'Anse Mahé Beach features a stunning expanse of sandy shores. This natural playground calls to anyone wishing to dive into the ocean waves or simply sunbathe to the sound of the surf. Walkers will appreciate the generous length of the shoreline, perfect for stretching their legs. Pack some light snacks and drinks to fully enjoy a carefree afternoon by the water.",
-                  "category": "recreational",
-                  "coords": [
-                        55.447126,
-                        -4.678985
-                  ]
-            },
             {
                   "name": "Anse Barbarons",
                   "text": "Embracing the spirit of its namesake town, Anse Barbarons serves as a cherished coastal destination in Barbarons. Its inviting layout offers excellent prospects for spending a day swimming or basking on the sunny shores. The beach maintains a steady rhythm of crashing waves, which provides a fantastic soundtrack for a shoreline walk. A pair of water shoes might be handy for exploring slightly rockier patches along the coast.",
@@ -9213,30 +5028,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "New Savy",
-                  "text": "New Savy is a sandy beach on the east coast of Mahé in Barbarons.",
-                  "category": "natural",
-                  "coords": [
-                        55.478373,
-                        -4.676388
-                  ]
-            },
-            {
                   "name": "National Biodiversity Centre",
                   "text": "The National Biodiversity Centre in Barbarons houses exhibits on Seychelles' endemic species.",
                   "category": "landmark",
                   "coords": [
                         55.46429,
                         -4.694249
-                  ]
-            },
-            {
-                  "name": "La Misère Exotics Garden Centre",
-                  "text": "La Misère Exotics Garden Centre in Barbarons is a garden centre specializing in exotic plants.",
-                  "category": "landmark",
-                  "coords": [
-                        55.469903,
-                        -4.669144
                   ]
             }
       ]
@@ -9339,66 +5136,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "sc-foret-noire-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Port Glaud Beach",
-                  "text": "Der Port Glaud Beach fungiert als ruhiger Erholungsort am Küstenrand von Foret Noire. Eingerahmt von tropischen Aussichten ermöglicht dieser Ort den Besuchern, in das klare Ozeanwasser zu gleiten oder sich tief entspannt im Sand niederzulassen. Die friedliche Atmosphäre lädt sanft zu langsamen Spaziergängen am Wasser ein, um den malerischen Horizont zu betrachten. Wer am späten Nachmittag ankommt, hat fantastische Chancen, die wechselnden Farben des Himmels einzufangen.",
-                  "category": "recreational",
-                  "coords": [
-                        55.416156,
-                        -4.664148
-                  ]
-            },
-            {
-                  "name": "Morne Seychellois",
-                  "text": "Der Morne Seychellois ist der höchste Berggipfel der Seychellen und befindet sich in Foret Noire.",
-                  "category": "natural",
-                  "coords": [
-                        55.43891,
-                        -4.644827
-                  ]
-            },
-            {
-                  "name": "Sauzier Waterfall",
-                  "text": "Der Sauzier-Wasserfall ist eine 50 Meter hohe Kaskade im Morne-Seychellois-Nationalpark in Foret Noire.",
-                  "category": "landmark",
-                  "coords": [
-                        55.415,
-                        -4.657633
-                  ]
-            },
-            {
                   "name": "Morne Blanc viewing platform",
                   "text": "Die Aussichtsplattform Morne Blanc bietet weite Ausblicke über Foret Noire.",
                   "category": "natural",
                   "coords": [
                         55.432329,
                         -4.657117
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "Dans Gallas in Foret Noire ist eine Granitfelsformation im Wald.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
-                  ]
-            },
-            {
-                  "name": "Trois Freres viewpoint",
-                  "text": "Der Aussichtspunkt Trois Freres bietet malerische Ausblicke in Foret Noire.",
-                  "category": "natural",
-                  "coords": [
-                        55.447169,
-                        -4.63648
-                  ]
-            },
-            {
-                  "name": "Aldabra tortoise enclosure",
-                  "text": "Das Aldabra-Riesenschildkrötengehege in Foret Noire beherbergt diese ikonischen Reptilien.",
-                  "category": "landmark",
-                  "coords": [
-                        55.40454,
-                        -4.658559
                   ]
             },
             {
@@ -9411,48 +5154,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grand anse mahe waterfall",
-                  "text": "Der Grand-anse-Mahe-Wasserfall in Foret Noire stürzt über Felsen in einen natürlichen Pool.",
-                  "category": "natural",
-                  "coords": [
-                        55.447163,
-                        -4.664001
-                  ]
-            },
-            {
-                  "name": "Trailhead to Morne Seychellois",
-                  "text": "Der Ausgangspunkt zum Morne Seychellois markiert den Beginn einer Wanderung in Foret Noire.",
-                  "category": "landmark",
-                  "coords": [
-                        55.449546,
-                        -4.643163
-                  ]
-            },
-            {
-                  "name": "Trail junction",
-                  "text": "Diese Wegkreuzung ist eine Attraktion und ein Orientierungspunkt in Foret Noire.",
-                  "category": "landmark",
-                  "coords": [
-                        55.44408,
-                        -4.637409
-                  ]
-            },
-            {
                   "name": "Summit of Morne Seychellois",
                   "text": "Der Gipfel des Morne Seychellois bietet einen Panoramablick in Foret Noire.",
                   "category": "natural",
                   "coords": [
                         55.440234,
                         -4.646499
-                  ]
-            },
-            {
-                  "name": "Turtles farm",
-                  "text": "Die Schildkrötenfarm ist eine lokale Wildtierattraktion in Foret Noire.",
-                  "category": "landmark",
-                  "coords": [
-                        55.450181,
-                        -4.634472
                   ]
             },
             {
@@ -9476,66 +5183,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Port Glaud Beach",
-                  "text": "A Port Glaud Beach csendes rekreációs menedékként szolgál Foret Noire tengerparti peremén. A trópusi kilátással keretezett hely lehetővé teszi a látogatók számára, hogy becsússzanak a tiszta óceán vizébe, vagy mélyen ellazuljanak a homokon. A békés légkör finoman lassú sétákra ösztönöz a vízparton, hogy magunkba szívjuk a nyugodt horizont látványát. Egy késő délutáni érkezés fantasztikus módja annak, hogy elcsípjük az égbolt változó színeit.",
-                  "category": "recreational",
-                  "coords": [
-                        55.416156,
-                        -4.664148
-                  ]
-            },
-            {
-                  "name": "Morne Seychellois",
-                  "text": "A Morne Seychellois a Seychelle-szigetek legmagasabb hegycsúcsa Foret Noire-ban.",
-                  "category": "natural",
-                  "coords": [
-                        55.43891,
-                        -4.644827
-                  ]
-            },
-            {
-                  "name": "Sauzier Waterfall",
-                  "text": "A Sauzier-vízesés egy 50 méteres zuhatag a Morne Seychellois Nemzeti Parkban, Foret Noire-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.415,
-                        -4.657633
-                  ]
-            },
-            {
                   "name": "Morne Blanc viewing platform",
                   "text": "A Morne Blanc kilátó kiterjedt panorámát nyújt Foret Noire felett.",
                   "category": "natural",
                   "coords": [
                         55.432329,
                         -4.657117
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "A Dans Gallas Foret Noire-ban egy gránitszikla-képződmény az erdőben.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
-                  ]
-            },
-            {
-                  "name": "Trois Freres viewpoint",
-                  "text": "A Trois Freres kilátó festői tájakat kínál Foret Noire-ban.",
-                  "category": "natural",
-                  "coords": [
-                        55.447169,
-                        -4.63648
-                  ]
-            },
-            {
-                  "name": "Aldabra tortoise enclosure",
-                  "text": "A Foret Noire-i Aldabra teknős kifutóban ezek az ikonikus hüllők élnek.",
-                  "category": "landmark",
-                  "coords": [
-                        55.40454,
-                        -4.658559
                   ]
             },
             {
@@ -9548,48 +5201,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grand anse mahe waterfall",
-                  "text": "A Grand anse mahe vízesés Foret Noire-ban sziklákon keresztül zuhan egy természetes medencébe.",
-                  "category": "natural",
-                  "coords": [
-                        55.447163,
-                        -4.664001
-                  ]
-            },
-            {
-                  "name": "Trailhead to Morne Seychellois",
-                  "text": "A Morne Seychellois-i ösvény kezdete egy túra kiindulópontja Foret Noire-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.449546,
-                        -4.643163
-                  ]
-            },
-            {
-                  "name": "Trail junction",
-                  "text": "Ez az ösvénykereszteződés egy látványosság és tájékozódási pont Foret Noire-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.44408,
-                        -4.637409
-                  ]
-            },
-            {
                   "name": "Summit of Morne Seychellois",
                   "text": "A Morne Seychellois csúcsa panorámás kilátást nyújt Foret Noire-ban.",
                   "category": "natural",
                   "coords": [
                         55.440234,
                         -4.646499
-                  ]
-            },
-            {
-                  "name": "Turtles farm",
-                  "text": "A Teknősfarm egy helyi vadvilági látványosság Foret Noire-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.450181,
-                        -4.634472
                   ]
             },
             {
@@ -9613,66 +5230,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Port Glaud Beach",
-                  "text": "Plaja Port Glaud acționează ca un refugiu de agrement liniștit de-a lungul marginii de coastă a regiunii Foret Noire. Încadrat de priveliști tropicale, acest loc le permite vizitatorilor să alunece în apele limpezi ale oceanului sau să se relaxeze profund pe nisip. Atmosfera liniștită încurajează ușor plimbările lente pe malul apei pentru a admira orizontul senin. Sosirea târziu după-amiaza este o modalitate fantastică de a prinde culorile schimbătoare ale cerului.",
-                  "category": "recreational",
-                  "coords": [
-                        55.416156,
-                        -4.664148
-                  ]
-            },
-            {
-                  "name": "Morne Seychellois",
-                  "text": "Morne Seychellois este cel mai înalt vârf de munte din Seychelles, situat în Foret Noire.",
-                  "category": "natural",
-                  "coords": [
-                        55.43891,
-                        -4.644827
-                  ]
-            },
-            {
-                  "name": "Sauzier Waterfall",
-                  "text": "Cascada Sauzier este o cascadă de 50 de metri în Parcul Național Morne Seychellois din Foret Noire.",
-                  "category": "landmark",
-                  "coords": [
-                        55.415,
-                        -4.657633
-                  ]
-            },
-            {
                   "name": "Morne Blanc viewing platform",
                   "text": "Platforma de vizionare Morne Blanc oferă priveliști panoramice peste Foret Noire.",
                   "category": "natural",
                   "coords": [
                         55.432329,
                         -4.657117
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "Dans Gallas din Foret Noire este o formațiune de granit în pădure.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
-                  ]
-            },
-            {
-                  "name": "Trois Freres viewpoint",
-                  "text": "Punctul de belvedere Trois Freres oferă peisaje pitorești în Foret Noire.",
-                  "category": "natural",
-                  "coords": [
-                        55.447169,
-                        -4.63648
-                  ]
-            },
-            {
-                  "name": "Aldabra tortoise enclosure",
-                  "text": "Incinta pentru țestoasele Aldabra din Foret Noire adăpostește aceste reptile emblematice.",
-                  "category": "landmark",
-                  "coords": [
-                        55.40454,
-                        -4.658559
                   ]
             },
             {
@@ -9685,48 +5248,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grand anse mahe waterfall",
-                  "text": "Cascada Grand anse mahe din Foret Noire se prăbușește peste stânci într-un bazin natural.",
-                  "category": "natural",
-                  "coords": [
-                        55.447163,
-                        -4.664001
-                  ]
-            },
-            {
-                  "name": "Trailhead to Morne Seychellois",
-                  "text": "Capătul traseului către Morne Seychellois marchează începutul unei drumeții în Foret Noire.",
-                  "category": "landmark",
-                  "coords": [
-                        55.449546,
-                        -4.643163
-                  ]
-            },
-            {
-                  "name": "Trail junction",
-                  "text": "Această intersecție de trasee este o atracție în Foret Noire.",
-                  "category": "landmark",
-                  "coords": [
-                        55.44408,
-                        -4.637409
-                  ]
-            },
-            {
                   "name": "Summit of Morne Seychellois",
                   "text": "Vârful Morne Seychellois oferă vederi panoramice în Foret Noire.",
                   "category": "natural",
                   "coords": [
                         55.440234,
                         -4.646499
-                  ]
-            },
-            {
-                  "name": "Turtles farm",
-                  "text": "Ferma de țestoase este o atracție locală a faunei sălbatice situată în Foret Noire.",
-                  "category": "landmark",
-                  "coords": [
-                        55.450181,
-                        -4.634472
                   ]
             },
             {
@@ -9750,66 +5277,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Port Glaud Beach",
-                  "text": "Port Glaud Beach acts as a tranquil recreational retreat along the coastal edge of Foret Noire. Framed by tropical views, this spot allows visitors to slide into the clear ocean waters or relax deeply on the sand. The peaceful atmosphere gently encourages slow walks by the water's edge to take in the serene horizon. Arriving late in the afternoon is a fantastic way to catch the changing colors of the sky.",
-                  "category": "recreational",
-                  "coords": [
-                        55.416156,
-                        -4.664148
-                  ]
-            },
-            {
-                  "name": "Morne Seychellois",
-                  "text": "Morne Seychellois is the highest mountain peak in the Seychelles, located in Foret Noire.",
-                  "category": "natural",
-                  "coords": [
-                        55.43891,
-                        -4.644827
-                  ]
-            },
-            {
-                  "name": "Sauzier Waterfall",
-                  "text": "Sauzier Waterfall is a 50-meter cascade in Morne Seychellois National Park in Foret Noire.",
-                  "category": "landmark",
-                  "coords": [
-                        55.415,
-                        -4.657633
-                  ]
-            },
-            {
                   "name": "Morne Blanc viewing platform",
                   "text": "The Morne Blanc viewing platform offers sweeping vistas across Foret Noire.",
                   "category": "natural",
                   "coords": [
                         55.432329,
                         -4.657117
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "Dans Gallas in Foret Noire is a granite rock formation in the forest.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
-                  ]
-            },
-            {
-                  "name": "Trois Freres viewpoint",
-                  "text": "The Trois Freres viewpoint offers scenic landscapes in Foret Noire.",
-                  "category": "natural",
-                  "coords": [
-                        55.447169,
-                        -4.63648
-                  ]
-            },
-            {
-                  "name": "Aldabra tortoise enclosure",
-                  "text": "The Aldabra tortoise enclosure in Foret Noire houses these iconic reptiles.",
-                  "category": "landmark",
-                  "coords": [
-                        55.40454,
-                        -4.658559
                   ]
             },
             {
@@ -9822,48 +5295,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grand anse mahe waterfall",
-                  "text": "The Grand anse mahe waterfall in Foret Noire cascades over rocks into a natural pool.",
-                  "category": "natural",
-                  "coords": [
-                        55.447163,
-                        -4.664001
-                  ]
-            },
-            {
-                  "name": "Trailhead to Morne Seychellois",
-                  "text": "The Trailhead to Morne Seychellois marks the start of a hike in Foret Noire.",
-                  "category": "landmark",
-                  "coords": [
-                        55.449546,
-                        -4.643163
-                  ]
-            },
-            {
-                  "name": "Trail junction",
-                  "text": "This trail junction is a local attraction and navigational point in Foret Noire.",
-                  "category": "landmark",
-                  "coords": [
-                        55.44408,
-                        -4.637409
-                  ]
-            },
-            {
                   "name": "Summit of Morne Seychellois",
                   "text": "The Summit of Morne Seychellois offers panoramic views in Foret Noire.",
                   "category": "natural",
                   "coords": [
                         55.440234,
                         -4.646499
-                  ]
-            },
-            {
-                  "name": "Turtles farm",
-                  "text": "The Turtles farm is a local wildlife attraction located in Foret Noire.",
-                  "category": "landmark",
-                  "coords": [
-                        55.450181,
-                        -4.634472
                   ]
             },
             {
@@ -9936,57 +5373,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "sc-port-launay-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Anse Du Riz",
-                  "text": "Anse Du Riz in Port Launay ist ein Sandstrand an der Nordwestküste.",
-                  "category": "recreational",
-                  "coords": [
-                        55.37978,
-                        -4.640282
-                  ]
-            },
-            {
                   "name": "Anse des Anglais",
                   "text": "Anse des Anglais in Port Launay ist ein Strand mit ruhigem Wasser, ideal zum Schwimmen.",
                   "category": "recreational",
                   "coords": [
                         55.394161,
                         -4.655049
-                  ]
-            },
-            {
-                  "name": "Port Glaud Beach",
-                  "text": "Der Port Glaud Beach reicht anmutig in das Gebiet von Port Launay hinein und präsentiert ein unglaublich einladendes Stück Küste. Gäste finden die Umgebung ideal für einen Nachmittag mit entspanntem Sonnenbaden oder für ein erfrischendes Bad im Ozean. Wer die Küstenlinie zu Fuß erkundet, entdeckt oft kleine Details der reichen Meeresumwelt, die typisch für die Seychellen ist. Bringen Sie ein gutes Buch und einen Sonnenhut mit, um Ihren Besuch perfekt abzurunden.",
-                  "category": "recreational",
-                  "coords": [
-                        55.416156,
-                        -4.664148
-                  ]
-            },
-            {
-                  "name": "Anse Tousalo",
-                  "text": "Anse Tousalo ist ein ruhiger und malerischer Strand in Port Launay.",
-                  "category": "recreational",
-                  "coords": [
-                        55.403714,
-                        -4.66222
-                  ]
-            },
-            {
-                  "name": "Seychelles Youth Village",
-                  "text": "Das Seychelles Youth Village umfasst Ruinen des ehemaligen National Youth Service in Port Launay.",
-                  "category": "historical",
-                  "coords": [
-                        55.381743,
-                        -4.642448
-                  ]
-            },
-            {
-                  "name": "Sauzier Waterfall",
-                  "text": "Der Sauzier Waterfall ist eine atemberaubende Naturattraktion in Port Launay.",
-                  "category": "landmark",
-                  "coords": [
-                        55.415,
-                        -4.657633
                   ]
             },
             {
@@ -9999,15 +5391,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Aldabra tortoise enclosure",
-                  "text": "Das Aldabra-Riesenschildkrötengehege in Port Launay beherbergt ebenfalls diese Riesenschildkröten.",
-                  "category": "landmark",
-                  "coords": [
-                        55.40454,
-                        -4.658559
-                  ]
-            },
-            {
                   "name": "SMAC ADVENTURES",
                   "text": "SMAC ADVENTURES ist eine aufregende lokale Attraktion in Port Launay.",
                   "category": "landmark",
@@ -10015,27 +5398,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.399308,
                         -4.655971
                   ]
-            },
-            {
-                  "name": "Lans Dangle",
-                  "text": "Lans Angle in Port Launay ist ein Aussichtspunkt oder eine Felsformation mit diesem Namen.",
-                  "category": "landmark",
-                  "coords": [
-                        55.402427,
-                        -4.663353
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Anse Du Riz",
-                  "text": "A Port Launay-i Anse Du Riz egy homokos strand az északnyugati parton.",
-                  "category": "recreational",
-                  "coords": [
-                        55.37978,
-                        -4.640282
-                  ]
-            },
             {
                   "name": "Anse des Anglais",
                   "text": "A Port Launay-i Anse des Anglais egy csendes vizű strand, ideális úszáshoz.",
@@ -10043,42 +5408,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.394161,
                         -4.655049
-                  ]
-            },
-            {
-                  "name": "Port Glaud Beach",
-                  "text": "A Port Launay térségébe kecsesen benyúló Port Glaud Beach a partvonal egy hihetetlenül hívogató szeletét mutatja be. A vendégek ideálisnak találják majd a környezetet egy délutáni alkalmi napozáshoz vagy egy frissítő óceáni fürdőzéshez. A partvonal gyalogos felfedezése gyakran fedi fel a Seychelle-szigetekre jellemző gazdag tengeri környezet apró részleteit. Hozzon magával egy jó könyvet és egy kalapot, hogy tökéletesen kiegészítse látogatását.",
-                  "category": "recreational",
-                  "coords": [
-                        55.416156,
-                        -4.664148
-                  ]
-            },
-            {
-                  "name": "Anse Tousalo",
-                  "text": "Az Anse Tousalo egy csendes és festői strand Port Launay-ban.",
-                  "category": "recreational",
-                  "coords": [
-                        55.403714,
-                        -4.66222
-                  ]
-            },
-            {
-                  "name": "Seychelles Youth Village",
-                  "text": "A Seychelles Youth Village a korábbi Nemzeti Ifjúsági Szolgálat romjait őrzi Port Launay-ban.",
-                  "category": "historical",
-                  "coords": [
-                        55.381743,
-                        -4.642448
-                  ]
-            },
-            {
-                  "name": "Sauzier Waterfall",
-                  "text": "A Sauzier Waterfall egy lenyűgöző természeti látványosság Port Launay-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.415,
-                        -4.657633
                   ]
             },
             {
@@ -10091,15 +5420,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Aldabra tortoise enclosure",
-                  "text": "A Port Launay-i Aldabra teknős kifutó szintén ezeket az óriásteknősöket gondozza.",
-                  "category": "landmark",
-                  "coords": [
-                        55.40454,
-                        -4.658559
-                  ]
-            },
-            {
                   "name": "SMAC ADVENTURES",
                   "text": "A SMAC ADVENTURES egy izgalmas helyi látványosság Port Launay-ban.",
                   "category": "landmark",
@@ -10107,27 +5427,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.399308,
                         -4.655971
                   ]
-            },
-            {
-                  "name": "Lans Dangle",
-                  "text": "A Port Launay-i Lans Angle egy kilátópont vagy sziklaformáció ezen a néven.",
-                  "category": "landmark",
-                  "coords": [
-                        55.402427,
-                        -4.663353
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Anse Du Riz",
-                  "text": "Anse Du Riz din Port Launay este o plajă cu nisip pe coasta de nord-vest.",
-                  "category": "recreational",
-                  "coords": [
-                        55.37978,
-                        -4.640282
-                  ]
-            },
             {
                   "name": "Anse des Anglais",
                   "text": "Anse des Anglais din Port Launay este o plajă cu ape calme, potrivită pentru înot.",
@@ -10135,42 +5437,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.394161,
                         -4.655049
-                  ]
-            },
-            {
-                  "name": "Port Glaud Beach",
-                  "text": "Întinzându-se grațios în zona Port Launay, plaja Port Glaud prezintă o porțiune incredibil de primitoare a coastei. Oaspeții vor găsi decorul ideal pentru o după-amiază de plajă relaxată sau pentru a face o baie răcoritoare în ocean. Explorarea țărmului pe jos dezvăluie adesea mici detalii ale mediului marin bogat, tipic insulelor Seychelles. Aduceți o carte bună și o pălărie de soare pentru a vă completa perfect vizita.",
-                  "category": "recreational",
-                  "coords": [
-                        55.416156,
-                        -4.664148
-                  ]
-            },
-            {
-                  "name": "Anse Tousalo",
-                  "text": "Anse Tousalo este o plajă liniștită și pitorească situată în Port Launay.",
-                  "category": "recreational",
-                  "coords": [
-                        55.403714,
-                        -4.66222
-                  ]
-            },
-            {
-                  "name": "Seychelles Youth Village",
-                  "text": "Seychelles Youth Village prezintă ruinele fostului Serviciu Național pentru Tineret din Port Launay.",
-                  "category": "historical",
-                  "coords": [
-                        55.381743,
-                        -4.642448
-                  ]
-            },
-            {
-                  "name": "Sauzier Waterfall",
-                  "text": "Cascada Sauzier este o atracție naturală uimitoare situată în Port Launay.",
-                  "category": "landmark",
-                  "coords": [
-                        55.415,
-                        -4.657633
                   ]
             },
             {
@@ -10183,15 +5449,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Aldabra tortoise enclosure",
-                  "text": "Incinta pentru țestoasele Aldabra din Port Launay adăpostește, de asemenea, aceste țestoase uriașe.",
-                  "category": "landmark",
-                  "coords": [
-                        55.40454,
-                        -4.658559
-                  ]
-            },
-            {
                   "name": "SMAC ADVENTURES",
                   "text": "SMAC ADVENTURES este o atracție locală interesantă din Port Launay.",
                   "category": "landmark",
@@ -10199,27 +5456,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.399308,
                         -4.655971
                   ]
-            },
-            {
-                  "name": "Lans Dangle",
-                  "text": "Lans Angle din Port Launay este un punct de belvedere sau o formațiune stâncoasă cu acest nume.",
-                  "category": "landmark",
-                  "coords": [
-                        55.402427,
-                        -4.663353
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Anse Du Riz",
-                  "text": "Anse Du Riz in Port Launay is a sandy beach on the northwest coast.",
-                  "category": "recreational",
-                  "coords": [
-                        55.37978,
-                        -4.640282
-                  ]
-            },
             {
                   "name": "Anse des Anglais",
                   "text": "Anse des Anglais in Port Launay is a beach with calm waters, ideal for swimming.",
@@ -10227,42 +5466,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.394161,
                         -4.655049
-                  ]
-            },
-            {
-                  "name": "Port Glaud Beach",
-                  "text": "Stretching gracefully into the Port Launay area, Port Glaud Beach presents an incredibly inviting slice of the coastline. Guests will find the setting ideal for an afternoon of casual sunbathing or going for a refreshing ocean swim. Exploring the shoreline on foot often reveals small details of the rich marine environment typical of the Seychelles. Bring a good book and a sun hat to perfectly round out your visit.",
-                  "category": "recreational",
-                  "coords": [
-                        55.416156,
-                        -4.664148
-                  ]
-            },
-            {
-                  "name": "Anse Tousalo",
-                  "text": "Anse Tousalo is a quiet and scenic beach situated in Port Launay.",
-                  "category": "recreational",
-                  "coords": [
-                        55.403714,
-                        -4.66222
-                  ]
-            },
-            {
-                  "name": "Seychelles Youth Village",
-                  "text": "The Seychelles Youth Village features ruins of the former National Youth Service in Port Launay.",
-                  "category": "historical",
-                  "coords": [
-                        55.381743,
-                        -4.642448
-                  ]
-            },
-            {
-                  "name": "Sauzier Waterfall",
-                  "text": "Sauzier Waterfall is a stunning natural attraction located in Port Launay.",
-                  "category": "landmark",
-                  "coords": [
-                        55.415,
-                        -4.657633
                   ]
             },
             {
@@ -10275,30 +5478,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Aldabra tortoise enclosure",
-                  "text": "The Aldabra tortoise enclosure in Port Launay also houses these giant tortoises.",
-                  "category": "landmark",
-                  "coords": [
-                        55.40454,
-                        -4.658559
-                  ]
-            },
-            {
                   "name": "SMAC ADVENTURES",
                   "text": "SMAC ADVENTURES is an exciting local attraction located in Port Launay.",
                   "category": "landmark",
                   "coords": [
                         55.399308,
                         -4.655971
-                  ]
-            },
-            {
-                  "name": "Lans Angle",
-                  "text": "Lans Angle in Port Launay is a viewpoint or rock formation bearing this name.",
-                  "category": "landmark",
-                  "coords": [
-                        55.402427,
-                        -4.663353
                   ]
             }
       ]
@@ -10362,39 +5547,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse des Anglais",
-                  "text": "Anse des Anglais in Baie Ternay ist ein Strand mit ruhigem Wasser in der Bucht.",
-                  "category": "recreational",
-                  "coords": [
-                        55.394161,
-                        -4.655049
-                  ]
-            },
-            {
                   "name": "Seychelles Youth Village",
                   "text": "Das Seychelles Youth Village beherbergt die Ruinen des ehemaligen National Youth Service in Baie Ternay.",
                   "category": "historical",
                   "coords": [
                         55.381743,
                         -4.642448
-                  ]
-            },
-            {
-                  "name": "Ros Lepa Trail",
-                  "text": "Der Ros Lepa Trail in Baie Ternay ist ein Wanderweg durch den Küstenwald.",
-                  "category": "natural",
-                  "coords": [
-                        55.394403,
-                        -4.658372
-                  ]
-            },
-            {
-                  "name": "SMAC ADVENTURES",
-                  "text": "SMAC ADVENTURES in Baie Ternay bietet Kajak- und Schnorchelausflüge an.",
-                  "category": "landmark",
-                  "coords": [
-                        55.399308,
-                        -4.655971
                   ]
             }
       ],
@@ -10409,39 +5567,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse des Anglais",
-                  "text": "A Baie Ternay-i Anse des Anglais egy csendes vizű strand az öbölben.",
-                  "category": "recreational",
-                  "coords": [
-                        55.394161,
-                        -4.655049
-                  ]
-            },
-            {
                   "name": "Seychelles Youth Village",
                   "text": "A Seychelles Youth Village a korábbi Nemzeti Ifjúsági Szolgálat romjait rejti Baie Ternay-ben.",
                   "category": "historical",
                   "coords": [
                         55.381743,
                         -4.642448
-                  ]
-            },
-            {
-                  "name": "Ros Lepa Trail",
-                  "text": "A Baie Ternay-i Ros Lepa Trail egy túraútvonal a part menti erdőn keresztül.",
-                  "category": "natural",
-                  "coords": [
-                        55.394403,
-                        -4.658372
-                  ]
-            },
-            {
-                  "name": "SMAC ADVENTURES",
-                  "text": "A Baie Ternay-i SMAC ADVENTURES kajak- és sznorkelező túrákat kínál.",
-                  "category": "landmark",
-                  "coords": [
-                        55.399308,
-                        -4.655971
                   ]
             }
       ],
@@ -10456,39 +5587,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse des Anglais",
-                  "text": "Anse des Anglais din Baie Ternay este o plajă cu ape liniștite în golf.",
-                  "category": "recreational",
-                  "coords": [
-                        55.394161,
-                        -4.655049
-                  ]
-            },
-            {
                   "name": "Seychelles Youth Village",
                   "text": "Seychelles Youth Village adăpostește ruinele fostului Serviciu Național de Tineret în Baie Ternay.",
                   "category": "historical",
                   "coords": [
                         55.381743,
                         -4.642448
-                  ]
-            },
-            {
-                  "name": "Ros Lepa Trail",
-                  "text": "Traseul Ros Lepa din Baie Ternay este un drum de drumeție prin pădurea de coastă.",
-                  "category": "natural",
-                  "coords": [
-                        55.394403,
-                        -4.658372
-                  ]
-            },
-            {
-                  "name": "SMAC ADVENTURES",
-                  "text": "SMAC ADVENTURES din Baie Ternay oferă excursii cu caiacul și snorkeling.",
-                  "category": "landmark",
-                  "coords": [
-                        55.399308,
-                        -4.655971
                   ]
             }
       ],
@@ -10503,39 +5607,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse des Anglais",
-                  "text": "Anse des Anglais in Baie Ternay is a beach with calm water in the bay.",
-                  "category": "recreational",
-                  "coords": [
-                        55.394161,
-                        -4.655049
-                  ]
-            },
-            {
                   "name": "Seychelles Youth Village",
                   "text": "Seychelles Youth Village features the ruins of the former National Youth Service in Baie Ternay.",
                   "category": "historical",
                   "coords": [
                         55.381743,
                         -4.642448
-                  ]
-            },
-            {
-                  "name": "Ros Lepa Trail",
-                  "text": "The Ros Lepa Trail in Baie Ternay is a hiking trail through the coastal forest.",
-                  "category": "natural",
-                  "coords": [
-                        55.394403,
-                        -4.658372
-                  ]
-            },
-            {
-                  "name": "SMAC ADVENTURES",
-                  "text": "SMAC ADVENTURES in Baie Ternay offers kayaking and snorkeling tours.",
-                  "category": "landmark",
-                  "coords": [
-                        55.399308,
-                        -4.655971
                   ]
             }
       ]
@@ -10590,48 +5667,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "sc-danzil-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Beau Vallon",
-                  "text": "Beau Vallon in Danzil ist ein langer Sandstrand an der Nordwestküste von Mahé.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
-            {
                   "name": "Anse Marie Laure",
                   "text": "Anse Marie Laure in Danzil ist ein kleiner, abgelegener Strand.",
                   "category": "recreational",
                   "coords": [
                         55.415468,
                         -4.61592
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "Dans Gallas in Danzil ist eine natürliche Granitformation.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
-                  ]
-            },
-            {
-                  "name": "Bazar Labrin",
-                  "text": "Bazar Labrin in Danzil ist ein lokaler Markt mit frischen Produkten und Kunsthandwerk.",
-                  "category": "landmark",
-                  "coords": [
-                        55.430604,
-                        -4.611088
-                  ]
-            },
-            {
-                  "name": "Teddy's Glass Bottom Boat",
-                  "text": "Teddy's Glass Bottom Boat in Danzil bietet Bootstouren mit Glasboden zur Meeresbeobachtung.",
-                  "category": "landmark",
-                  "coords": [
-                        55.431535,
-                        -4.608184
                   ]
             },
             {
@@ -10655,48 +5696,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Beau Vallon",
-                  "text": "A Danzil-i Beau Vallon egy hosszú homokos strand Mahé északnyugati partján.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
-            {
                   "name": "Anse Marie Laure",
                   "text": "A Danzil-i Anse Marie Laure egy kicsi, félreeső strand.",
                   "category": "recreational",
                   "coords": [
                         55.415468,
                         -4.61592
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "A Danzil-i Dans Gallas egy természetes gránitképződmény.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
-                  ]
-            },
-            {
-                  "name": "Bazar Labrin",
-                  "text": "A Danzil-i Bazar Labrin egy helyi piac, ahol friss termékeket és kézműves árukat árulnak.",
-                  "category": "landmark",
-                  "coords": [
-                        55.430604,
-                        -4.611088
-                  ]
-            },
-            {
-                  "name": "Teddy's Glass Bottom Boat",
-                  "text": "A Danzil-i Teddy's Glass Bottom Boat üvegfenekű hajóval kínál túrákat a tengeri élővilág megfigyelésére.",
-                  "category": "landmark",
-                  "coords": [
-                        55.431535,
-                        -4.608184
                   ]
             },
             {
@@ -10720,48 +5725,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Beau Vallon",
-                  "text": "Beau Vallon din Danzil este o plajă lungă de nisip pe coasta de nord-vest a insulei Mahé.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
-            {
                   "name": "Anse Marie Laure",
                   "text": "Anse Marie Laure din Danzil este o plajă mică și retrasă.",
                   "category": "recreational",
                   "coords": [
                         55.415468,
                         -4.61592
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "Dans Gallas din Danzil este o formațiune naturală de granit.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
-                  ]
-            },
-            {
-                  "name": "Bazar Labrin",
-                  "text": "Bazar Labrin din Danzil este o piață locală cu produse proaspete și meșteșuguri.",
-                  "category": "landmark",
-                  "coords": [
-                        55.430604,
-                        -4.611088
-                  ]
-            },
-            {
-                  "name": "Teddy's Glass Bottom Boat",
-                  "text": "Teddy's Glass Bottom Boat din Danzil oferă tururi cu barca cu fund de sticlă pentru a observa viața marină.",
-                  "category": "landmark",
-                  "coords": [
-                        55.431535,
-                        -4.608184
                   ]
             },
             {
@@ -10785,48 +5754,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Beau Vallon",
-                  "text": "Beau Vallon in Danzil is a long sandy beach on the northwest coast of Mahé.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
-            {
                   "name": "Anse Marie Laure",
                   "text": "Anse Marie Laure in Danzil is a small, secluded beach.",
                   "category": "recreational",
                   "coords": [
                         55.415468,
                         -4.61592
-                  ]
-            },
-            {
-                  "name": "Dans Gallas",
-                  "text": "Dans Gallas in Danzil is a natural granite formation.",
-                  "category": "natural",
-                  "coords": [
-                        55.436541,
-                        -4.628951
-                  ]
-            },
-            {
-                  "name": "Bazar Labrin",
-                  "text": "Bazar Labrin in Danzil is a local market selling fresh produce and crafts.",
-                  "category": "landmark",
-                  "coords": [
-                        55.430604,
-                        -4.611088
-                  ]
-            },
-            {
-                  "name": "Teddy's Glass Bottom Boat",
-                  "text": "Teddy's Glass Bottom Boat in Danzil offers glass-bottom boat tours for viewing marine life.",
-                  "category": "landmark",
-                  "coords": [
-                        55.431535,
-                        -4.608184
                   ]
             },
             {
@@ -10993,302 +5926,10 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
   },
   {
     id: "sc-de-quincey-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "My Green mansion",
-                  "text": "My Green mansion in De Quincey ist ein großes grün gestrichenes Herrenhaus, heute eine Pension.",
-                  "category": "castle",
-                  "coords": [
-                        55.452436,
-                        -4.591894
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "Beau Vallon in De Quincey ist der berühmte Strand an der Nordwestküste.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
-            {
-                  "name": "Sunset Beach",
-                  "text": "Der Sunset Beach ziert den Rand von De Quincey und bietet ein reizvolles Fleckchen aus Sand und Meer. Der Strand ist ein schöner Ort, um auf dem Handtuch zu entspannen oder sich für ein beschwingtes Schwimmen ins Meer zu wagen. Viele Besucher haben Freude daran, hier an der Küste spazieren zu gehen, besonders wenn der Tag abkühlt. Seinem Namen treu bleibend, wird man für das Verweilen bis zum Abend mit spektakulären Ausblicken auf die untergehende Sonne belohnt.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432612,
-                        -4.584969
-                  ]
-            },
-            {
-                  "name": "Tusculum Beach",
-                  "text": "Versteckt in der Region De Quincey, bietet der Tusculum Beach einen angenehmen, sandigen Rückzugsort direkt am Meer. Es ist eine fantastische Umgebung, um die Sonne der Seychellen zu genießen oder ein ruhiges, revitalisierendes Bad im Wasser zu nehmen. Ruhige Spaziergänge hier ermöglichen es Ihnen, abzuschalten und die natürliche Küstenumgebung zu genießen. Ein leichtes Picknick einzupacken ist eine großartige Möglichkeit, um das Beste aus Ihrem Nachmittag am Meer zu machen.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432861,
-                        -4.581445
-                  ]
-            },
-            {
-                  "name": "Teddy's Glass Bottom Boat",
-                  "text": "Teddy's Glass Bottom Boat in De Quincey startet ebenfalls zu Touren mit Glasbodenbooten.",
-                  "category": "landmark",
-                  "coords": [
-                        55.431535,
-                        -4.608184
-                  ]
-            },
-            {
-                  "name": "La Bastille",
-                  "text": "La Bastille in De Quincey ist eine historische Festung mit Panoramablick auf Victoria.",
-                  "category": "landmark",
-                  "coords": [
-                        55.458211,
-                        -4.610422
-                  ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "Anchor in De Quincey ist ein großer Schiffsanker, der als historisches Denkmal ausgestellt ist.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Domus",
-                  "text": "La Domus in De Quincey ist ein Kolonialhaus, heute ein Museum oder Restaurant.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "My Green mansion",
-                  "text": "A De Quincey-i My Green mansion egy nagy, zöldre festett kúria, ma panzió.",
-                  "category": "castle",
-                  "coords": [
-                        55.452436,
-                        -4.591894
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "A De Quincey-i Beau Vallon a híres strand az északnyugati parton.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
-            {
-                  "name": "Sunset Beach",
-                  "text": "A Sunset Beach De Quincey szélét díszíti, kellemes kis szegletet kínálva homokból és tengerből. A strand kiváló helyszín a törölközőn való pihenéshez, vagy egy könnyed úszáshoz az óceánban. Sok látogató leli örömét a part menti sétákban ezen a helyen, különösen akkor, amikor a nap hűlni kezd. Nevéhez hűen, ha estig elidőzünk, látványos kilátás nyílik a lemenő napra, amiért érdemes itt maradni.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432612,
-                        -4.584969
-                  ]
-            },
-            {
-                  "name": "Tusculum Beach",
-                  "text": "A De Quincey régióban elrejtett Tusculum Beach kellemes homokos menedéket nyújt a tenger mellett. Fantasztikus környezet a Seychelle-szigetek napsütésének élvezetéhez, vagy egy nyugodt, revitalizáló csobbanáshoz a vízben. A csendes séták itt lehetővé teszik a kikapcsolódást és a természetes tengerparti környezet élvezetét. Egy könnyű piknik becsomagolása nagyszerű módja annak, hogy a legtöbbet hozza ki a tengerparti délutánból.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432861,
-                        -4.581445
-                  ]
-            },
-            {
-                  "name": "Teddy's Glass Bottom Boat",
-                  "text": "A De Quincey-i Teddy's Glass Bottom Boat is indít üvegfenekű hajó túrákat.",
-                  "category": "landmark",
-                  "coords": [
-                        55.431535,
-                        -4.608184
-                  ]
-            },
-            {
-                  "name": "La Bastille",
-                  "text": "A De Quincey-i La Bastille egy történelmi erőd, ahonnan panorámás kilátás nyílik Victoriára.",
-                  "category": "landmark",
-                  "coords": [
-                        55.458211,
-                        -4.610422
-                  ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "A De Quincey-i Anchor egy nagy hajóhorgony, amelyet történelmi emlékműként állítottak ki.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Domus",
-                  "text": "A De Quincey-i La Domus egy gyarmati kori ház, ma múzeum vagy étterem.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "My Green mansion",
-                  "text": "My Green mansion din De Quincey este un conac mare vopsit în verde, acum pensiune.",
-                  "category": "castle",
-                  "coords": [
-                        55.452436,
-                        -4.591894
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "Beau Vallon din De Quincey este renumita plajă de pe coasta de nord-vest.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
-            {
-                  "name": "Sunset Beach",
-                  "text": "Sunset Beach împodobește marginea zonei De Quincey, oferind un colț încântător de nisip și mare. Plaja este o locație excelentă pentru a vă relaxa pe prosop sau pentru a vă avânta într-o sesiune de înot în ocean. Mulți vizitatori se bucură de plimbări de-a lungul coastei aici, mai ales când ziua începe să se răcească. Fidelă numelui său, zăbovirea până seara vă răsplătește cu vederi spectaculoare ale soarelui la apus.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432612,
-                        -4.584969
-                  ]
-            },
-            {
-                  "name": "Tusculum Beach",
-                  "text": "Ascunsă în regiunea De Quincey, plaja Tusculum oferă un refugiu nisipos plăcut de-a lungul mării. Este un cadru fantastic pentru a îmbrățișa soarele din Seychelles sau pentru a face o baie calmă și revitalizantă în apă. Făcând plimbări liniștite aici vă permite să vă deconectați și să vă bucurați de mediul natural al țărmului. Împachetarea unui picnic ușor este o modalitate excelentă de a profita la maximum de după-amiaza petrecută la malul mării.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432861,
-                        -4.581445
-                  ]
-            },
-            {
-                  "name": "Teddy's Glass Bottom Boat",
-                  "text": "Teddy's Glass Bottom Boat din De Quincey organizează, de asemenea, tururi cu barca cu fund de sticlă.",
-                  "category": "landmark",
-                  "coords": [
-                        55.431535,
-                        -4.608184
-                  ]
-            },
-            {
-                  "name": "La Bastille",
-                  "text": "La Bastille din De Quincey este o fortăreață istorică cu vedere panoramică asupra orașului Victoria.",
-                  "category": "landmark",
-                  "coords": [
-                        55.458211,
-                        -4.610422
-                  ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "Anchor din De Quincey este o ancoră mare de navă expusă ca monument istoric.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Domus",
-                  "text": "La Domus din De Quincey este o casă colonială, acum muzeu sau restaurant.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "My Green mansion",
-                  "text": "My Green mansion in De Quincey is a large green-painted mansion, now a guesthouse.",
-                  "category": "castle",
-                  "coords": [
-                        55.452436,
-                        -4.591894
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "Beau Vallon in De Quincey is the famous beach on the northwest coast.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
-            {
-                  "name": "Sunset Beach",
-                  "text": "Sunset Beach graces the edge of De Quincey, offering a delightful pocket of sand and sea. The beach is a fine location for unwinding on your towel or venturing out for a buoyant swim in the ocean. Many visitors take pleasure in walking along the coast here, especially as the day begins to cool. True to its name, lingering until evening rewards you with spectacular views of the setting sun.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432612,
-                        -4.584969
-                  ]
-            },
-            {
-                  "name": "Tusculum Beach",
-                  "text": "Tucked away in the De Quincey region, Tusculum Beach provides a pleasant sandy retreat alongside the sea. It is a fantastic setting to embrace the Seychelles sun or to take a calm, revitalizing dip in the water. Taking quiet strolls here allows you to disconnect and enjoy the natural shoreline environment. Packing a light picnic is a great way to make the most of your seaside afternoon.",
-                  "category": "recreational",
-                  "coords": [
-                        55.432861,
-                        -4.581445
-                  ]
-            },
-            {
-                  "name": "Teddy's Glass Bottom Boat",
-                  "text": "Teddy's Glass Bottom Boat in De Quincey also operates glass-bottom boat tours.",
-                  "category": "landmark",
-                  "coords": [
-                        55.431535,
-                        -4.608184
-                  ]
-            },
-            {
-                  "name": "La Bastille",
-                  "text": "La Bastille in De Quincey is a historic fortification offering panoramic views of Victoria.",
-                  "category": "landmark",
-                  "coords": [
-                        55.458211,
-                        -4.610422
-                  ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "Anchor in De Quincey is a large ship anchor displayed as a historical monument.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "La Domus",
-                  "text": "La Domus in De Quincey is a colonial-era house, now a museum or restaurant.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "SC-03",
@@ -11340,24 +5981,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "sc-petit-paris-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Anse Tec-Tec",
-                  "text": "Anse Tec-Tec in Petit Paris ist ein Sandstrand im Stadtteil Petit Paris.",
-                  "category": "recreational",
-                  "coords": [
-                        55.481289,
-                        -4.644571
-                  ]
-            },
-            {
-                  "name": "Anse Bernitier",
-                  "text": "Anse Bernitier in Petit Paris ist ein Strand mit ruhigem Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        55.48173,
-                        -4.641739
-                  ]
-            },
-            {
                   "name": "New Savy",
                   "text": "Ein bewaldeter Hügelgipfel über Petit Paris.",
                   "category": "natural",
@@ -11365,36 +5988,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.478373,
                         -4.676388
                   ]
-            },
-            {
-                  "name": "La Misère Exotics Garden Centre",
-                  "text": "La Misère Exotics Garden Centre in Petit Paris ist ein Gartencenter mit exotischen Pflanzen.",
-                  "category": "landmark",
-                  "coords": [
-                        55.469903,
-                        -4.669144
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Anse Tec-Tec",
-                  "text": "A Petit Paris-i Anse Tec-Tec egy homokos strand a Petit Paris negyedben.",
-                  "category": "recreational",
-                  "coords": [
-                        55.481289,
-                        -4.644571
-                  ]
-            },
-            {
-                  "name": "Anse Bernitier",
-                  "text": "A Petit Paris-i Anse Bernitier egy csendes vizű strand.",
-                  "category": "recreational",
-                  "coords": [
-                        55.48173,
-                        -4.641739
-                  ]
-            },
             {
                   "name": "New Savy",
                   "text": "Egy erdős dombtető Petit Paris felett.",
@@ -11403,36 +5999,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.478373,
                         -4.676388
                   ]
-            },
-            {
-                  "name": "La Misère Exotics Garden Centre",
-                  "text": "A Petit Paris-i La Misère Exotics Garden Centre egy egzotikus növényeket árusító kertészeti központ.",
-                  "category": "landmark",
-                  "coords": [
-                        55.469903,
-                        -4.669144
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Anse Tec-Tec",
-                  "text": "Anse Tec-Tec din Petit Paris este o plajă cu nisip în cartierul Petit Paris.",
-                  "category": "recreational",
-                  "coords": [
-                        55.481289,
-                        -4.644571
-                  ]
-            },
-            {
-                  "name": "Anse Bernitier",
-                  "text": "Anse Bernitier din Petit Paris este o plajă cu ape calme.",
-                  "category": "recreational",
-                  "coords": [
-                        55.48173,
-                        -4.641739
-                  ]
-            },
             {
                   "name": "New Savy",
                   "text": "Un vârf de deal împădurit deasupra Petit Paris.",
@@ -11441,36 +6010,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.478373,
                         -4.676388
                   ]
-            },
-            {
-                  "name": "La Misère Exotics Garden Centre",
-                  "text": "La Misère Exotics Garden Centre din Petit Paris este un centru de grădinărit cu plante exotice.",
-                  "category": "landmark",
-                  "coords": [
-                        55.469903,
-                        -4.669144
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Anse Tec-Tec",
-                  "text": "Anse Tec-Tec in Petit Paris is a sandy beach in the Petit Paris district.",
-                  "category": "recreational",
-                  "coords": [
-                        55.481289,
-                        -4.644571
-                  ]
-            },
-            {
-                  "name": "Anse Bernitier",
-                  "text": "Anse Bernitier in Petit Paris is a beach with calm waters.",
-                  "category": "recreational",
-                  "coords": [
-                        55.48173,
-                        -4.641739
-                  ]
-            },
             {
                   "name": "New Savy",
                   "text": "A wooded hilltop above Petit Paris.",
@@ -11478,15 +6020,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.478373,
                         -4.676388
-                  ]
-            },
-            {
-                  "name": "La Misère Exotics Garden Centre",
-                  "text": "La Misère Exotics Garden Centre in Petit Paris is a garden centre with exotic plants.",
-                  "category": "landmark",
-                  "coords": [
-                        55.469903,
-                        -4.669144
                   ]
             }
       ]
@@ -11637,30 +6170,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "sc-turtle-bay-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Domaine de Val des Pres (Craft Village)",
-                  "text": "Domaine de Val des Pres (Craft Village) in Turtle Bay ist ein Handwerksdorf mit traditionellem Kunsthandwerk der Seychellen.",
-                  "category": "museum",
-                  "coords": [
-                        55.519202,
-                        -4.711008
-                  ]
-            },
-            {
                   "name": "La Grande Maison",
                   "text": "La Grande Maison in Turtle Bay ist ein restauriertes Kolonialhaus, das heute als Museum dient.",
                   "category": "museum",
                   "coords": [
                         55.523093,
                         -4.719443
-                  ]
-            },
-            {
-                  "name": "Unisey auditorium",
-                  "text": "Unisey-Auditorium in Turtle Bay (Seychellen), erbaut 1984.",
-                  "category": "cultural",
-                  "coords": [
-                        55.51495,
-                        -4.740569
                   ]
             },
             {
@@ -11673,15 +6188,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse Royale Beach",
-                  "text": "Der Anse Royale Beach, der an der lebhaften Küste von Turtle Bay ankert, ist bei Reisenden und Einheimischen gleichermaßen immens beliebt. Das leuchtende Wasser lockt Schwimmer an, während die großzügigen Sandflächen viel Platz für ausgiebiges Sonnenbaden bieten. Lange, malerische Spaziergänge entlang der Kurve der Bucht zeigen den dynamischen Geist der Küstenlinie. Da es hier recht belebt sein kann, bietet ein Besuch an einem Wochentag vielleicht ein etwas entspannteres Erlebnis.",
-                  "category": "recreational",
-                  "coords": [
-                        55.518566,
-                        -4.742049
-                  ]
-            },
-            {
                   "name": "Anse Aux Courbes Beach",
                   "text": "Der Anse Aux Courbes Beach sorgt für eine bemerkenswert entspannende Atmosphäre in Turtle Bay und besticht durch weichen Sand sowie eine sanfte Landschaft. Dieser Meeresabschnitt eignet sich hervorragend zum Waten und für friedliche Schwimmeinheiten unter dem warmen tropischen Himmel. Wer sich die Zeit nimmt, am Ufer entlang zu schlendern, kann sich wunderbar erholen und das Küstenflair in sich aufnehmen. Ausreichender Sonnenschutz ist der Schlüssel, um einen ganzen Tag am Wasser unbeschwert zu genießen.",
                   "category": "recreational",
@@ -11689,45 +6195,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.525413,
                         -4.728145
                   ]
-            },
-            {
-                  "name": "Montagne Brulée",
-                  "text": "Montagne Brulée ist ein markanter Berggipfel in Turtle Bay.",
-                  "category": "natural",
-                  "coords": [
-                        55.505935,
-                        -4.714988
-                  ]
-            },
-            {
-                  "name": "Kot Man - Ya Exotic Flower",
-                  "text": "Kot Man - Ya Exotic Flower in Turtle Bay ist ein Blumengarten mit exotischen Blüten.",
-                  "category": "landmark",
-                  "coords": [
-                        55.506533,
-                        -4.739646
-                  ]
-            },
-            {
-                  "name": "Royalbaybeachclub",
-                  "text": "Royalbaybeachclub in Turtle Bay ist ein Strandclub mit Restaurant und Wassersportmöglichkeiten.",
-                  "category": "landmark",
-                  "coords": [
-                        55.51793,
-                        -4.740506
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Domaine de Val des Pres (Craft Village)",
-                  "text": "A Turtle Bay-i Domaine de Val des Pres (Craft Village) egy kézműves falu, ahol hagyományos seychelle-i mesterségeket mutatnak be.",
-                  "category": "museum",
-                  "coords": [
-                        55.519202,
-                        -4.711008
-                  ]
-            },
             {
                   "name": "La Grande Maison",
                   "text": "A Turtle Bay-i La Grande Maison egy felújított gyarmati kúria, ma múzeum.",
@@ -11735,15 +6205,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.523093,
                         -4.719443
-                  ]
-            },
-            {
-                  "name": "Unisey auditorium",
-                  "text": "Unisey előadóterem Turtle Bay-ben (Seychelle-szigetek), 1984-ben épült.",
-                  "category": "cultural",
-                  "coords": [
-                        55.51495,
-                        -4.740569
                   ]
             },
             {
@@ -11756,15 +6217,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse Royale Beach",
-                  "text": "A Turtle Bay nyüzsgő partjának egyik fő horgonypontja, az Anse Royale Beach rendkívül népszerű mind az utazók, mind a helyiek körében. A vibráló vizek úszókat csalogatnak, míg a bőséges homokos foltok rengeteg helyet kínálnak az elkötelezett napozóknak. Az öböl íve mentén tett hosszú, festői séták megmutatják a partvonal dinamikus szellemét. Mivel a strand forgalmas lehet, egy hétköznapi látogatás némileg nyugodtabb élményt nyújthat.",
-                  "category": "recreational",
-                  "coords": [
-                        55.518566,
-                        -4.742049
-                  ]
-            },
-            {
                   "name": "Anse Aux Courbes Beach",
                   "text": "A Turtle Bay-ben figyelemre méltóan pihentető légkört teremtő Anse Aux Courbes Beach puha homokkal és lágy tájjal büszkélkedhet. Az óceán ezen szakasza gyönyörűen alkalmas a gázolásra és a békés úszásra a meleg trópusi égbolt alatt. Ha időt szánunk a part menti bolyongásra, az segít a látogatóknak igazán kikapcsolódni és befogadni a part menti hangulatot. A megfelelő fényvédelem biztosítása kulcsfontosságú ahhoz, hogy egy teljes napot tölthessünk el a víz mellett.",
                   "category": "recreational",
@@ -11772,45 +6224,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.525413,
                         -4.728145
                   ]
-            },
-            {
-                  "name": "Montagne Brulée",
-                  "text": "A Montagne Brulée egy kiemelkedő hegycsúcs Turtle Bay településen.",
-                  "category": "natural",
-                  "coords": [
-                        55.505935,
-                        -4.714988
-                  ]
-            },
-            {
-                  "name": "Kot Man - Ya Exotic Flower",
-                  "text": "A Turtle Bay-i Kot Man - Ya Exotic Flower egy egzotikus virágokkal teli kert és üvegház.",
-                  "category": "landmark",
-                  "coords": [
-                        55.506533,
-                        -4.739646
-                  ]
-            },
-            {
-                  "name": "Royalbaybeachclub",
-                  "text": "A Turtle Bay-i Royalbaybeachclub egy strandklub étteremmel és vízi sportokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        55.51793,
-                        -4.740506
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Domaine de Val des Pres (Craft Village)",
-                  "text": "Domaine de Val des Pres (Craft Village) din Turtle Bay este un sat meșteșugăresc care prezintă arte și meșteșuguri tradiționale din Seychelles.",
-                  "category": "museum",
-                  "coords": [
-                        55.519202,
-                        -4.711008
-                  ]
-            },
             {
                   "name": "La Grande Maison",
                   "text": "La Grande Maison din Turtle Bay este un conac colonial restaurat, acum muzeu.",
@@ -11818,15 +6234,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.523093,
                         -4.719443
-                  ]
-            },
-            {
-                  "name": "Unisey auditorium",
-                  "text": "Auditoriul Unisey din Turtle Bay (Seychelles), construit în 1984.",
-                  "category": "cultural",
-                  "coords": [
-                        55.51495,
-                        -4.740569
                   ]
             },
             {
@@ -11839,15 +6246,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse Royale Beach",
-                  "text": "Ancorând coasta plină de viață din Turtle Bay, Anse Royale Beach este extrem de populară atât printre călători, cât și printre localnici. Apele vibrante îi atrag pe înotători, în timp ce porțiunile generoase de nisip oferă mult spațiu pentru sesiuni dedicate de plajă. Plimbările lungi și pitorești de-a lungul curburii golfului prezintă spiritul dinamic al țărmului. Deoarece poate deveni aglomerat, o vizită într-o zi a săptămânii ar putea oferi o experiență ceva mai relaxată.",
-                  "category": "recreational",
-                  "coords": [
-                        55.518566,
-                        -4.742049
-                  ]
-            },
-            {
                   "name": "Anse Aux Courbes Beach",
                   "text": "Oferind o atmosferă remarcabil de relaxantă în Turtle Bay, Anse Aux Courbes Beach se mândrește cu nisip moale și un peisaj blând. Această porțiune de ocean este minunat de potrivită pentru a păși prin apă și pentru înot liniștit sub cerul tropical cald. Faptul că vă acordați timp pentru a rătăci de-a lungul țărmului îi ajută pe vizitatori să se relaxeze cu adevărat și să îmbrățișeze atmosfera de coastă. Asigurarea unei protecții solare adecvate este esențială pentru a vă bucura de o zi întreagă la malul apei.",
                   "category": "recreational",
@@ -11855,45 +6253,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.525413,
                         -4.728145
                   ]
-            },
-            {
-                  "name": "Montagne Brulée",
-                  "text": "Montagne Brulée este un vârf de munte proeminent situat în Turtle Bay.",
-                  "category": "natural",
-                  "coords": [
-                        55.505935,
-                        -4.714988
-                  ]
-            },
-            {
-                  "name": "Kot Man - Ya Exotic Flower",
-                  "text": "Kot Man - Ya Exotic Flower din Turtle Bay este o grădină de flori și o seră cu flori exotice.",
-                  "category": "landmark",
-                  "coords": [
-                        55.506533,
-                        -4.739646
-                  ]
-            },
-            {
-                  "name": "Royalbaybeachclub",
-                  "text": "Royalbaybeachclub din Turtle Bay este un club de plajă cu restaurant și facilități pentru sporturi nautice.",
-                  "category": "landmark",
-                  "coords": [
-                        55.51793,
-                        -4.740506
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Domaine de Val des Pres (Craft Village)",
-                  "text": "Domaine de Val des Pres (Craft Village) in Turtle Bay is a craft village showcasing traditional Seychellois arts and crafts.",
-                  "category": "museum",
-                  "coords": [
-                        55.519202,
-                        -4.711008
-                  ]
-            },
             {
                   "name": "La Grande Maison",
                   "text": "La Grande Maison in Turtle Bay is a restored colonial mansion turned museum.",
@@ -11901,15 +6263,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.523093,
                         -4.719443
-                  ]
-            },
-            {
-                  "name": "Unisey auditorium",
-                  "text": "Unisey auditorium in Turtle Bay (Seychelles), built in 1984.",
-                  "category": "cultural",
-                  "coords": [
-                        55.51495,
-                        -4.740569
                   ]
             },
             {
@@ -11922,48 +6275,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Anse Royale Beach",
-                  "text": "Anchoring the lively coast of Turtle Bay, Anse Royale Beach is immensely popular among both travelers and locals. The vibrant waters beckon swimmers, while the generous sandy patches offer plenty of room for dedicated sunbathing. Long, scenic walks along the curve of the bay showcase the dynamic spirit of the shoreline. Because it can get busy, visiting on a weekday might offer a slightly more relaxed experience.",
-                  "category": "recreational",
-                  "coords": [
-                        55.518566,
-                        -4.742049
-                  ]
-            },
-            {
                   "name": "Anse Aux Courbes Beach",
                   "text": "Delivering a remarkably relaxing atmosphere within Turtle Bay, Anse Aux Courbes Beach boasts soft sand and gentle scenery. This stretch of the ocean is beautifully suited for wading and peaceful swims beneath the warm tropical sky. Taking time to wander along the shoreline helps visitors truly unwind and embrace the coastal vibe. Ensuring you have adequate sun protection is key to enjoying a full day by the water.",
                   "category": "recreational",
                   "coords": [
                         55.525413,
                         -4.728145
-                  ]
-            },
-            {
-                  "name": "Montagne Brulée",
-                  "text": "Montagne Brulée is a prominent mountain peak located in Turtle Bay.",
-                  "category": "natural",
-                  "coords": [
-                        55.505935,
-                        -4.714988
-                  ]
-            },
-            {
-                  "name": "Kot Man - Ya Exotic Flower",
-                  "text": "Kot Man - Ya Exotic Flower in Turtle Bay is a flower garden and greenhouse with exotic blooms.",
-                  "category": "landmark",
-                  "coords": [
-                        55.506533,
-                        -4.739646
-                  ]
-            },
-            {
-                  "name": "Royalbaybeachclub",
-                  "text": "Royalbaybeachclub in Turtle Bay is a beach club with a restaurant and water sports facilities.",
-                  "category": "landmark",
-                  "coords": [
-                        55.51793,
-                        -4.740506
                   ]
             }
       ]
@@ -12018,48 +6335,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "sc-val-dendore-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Lazare Souvenir Museum Gallery",
-                  "text": "Lazare Souvenir Museum Gallery in Val Dendore ist ein Museum und eine Galerie, die lokale Souvenirs und Kunst verkauft.",
-                  "category": "museum",
-                  "coords": [
-                        55.480358,
-                        -4.750885
-                  ]
-            },
-            {
                   "name": "Anse Intendance",
                   "text": "Anse Intendance in Val Dendore ist ein atemberaubender Strand mit türkisfarbenem Wasser und weißem Sand.",
                   "category": "recreational",
                   "coords": [
                         55.498976,
                         -4.78503
-                  ]
-            },
-            {
-                  "name": "Petite Anse (Anse la Liberté)",
-                  "text": "Petite Anse (Liberty Cove) in Val Dendore ist ein kleiner, abgeschiedener Strand in der Nähe der Anse Intendance.",
-                  "category": "recreational",
-                  "coords": [
-                        55.464539,
-                        -4.754441
-                  ]
-            },
-            {
-                  "name": "Anse Gouvernement Beach",
-                  "text": "Der Anse Gouvernement Beach fügt sich fließend in die malerischen Konturen von Val D Endore ein und bleibt eine sehr beliebte Küstenenklave. Schwimmer und Sonnenanbeter werden auf natürliche Weise von seiner einladenden sandigen Anlage angezogen, um Stunden damit zu verbringen, die Wärme der Insel aufzusaugen. Der Rand des Wassers bietet einen schönen Weg für Gelegenheitsspaziergänger, die den Kopf frei bekommen möchten. Um sich den besten Platz im Sand zu sichern, empfiehlt es sich immer, vor dem Mittag einzutreffen.",
-                  "category": "recreational",
-                  "coords": [
-                        55.477907,
-                        -4.757034
-                  ]
-            },
-            {
-                  "name": "Petit Gouvernement",
-                  "text": "Petit Gouvernement in Val Dendore ist ein Aussichtspunkt oder eine kleine Bucht mit Panoramablick.",
-                  "category": "recreational",
-                  "coords": [
-                        55.470533,
-                        -4.761661
                   ]
             },
             {
@@ -12072,24 +6353,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Le Jardin du Roi",
-                  "text": "Ein formaler Garten mit Zierteichen und Statuen in Val Dendore.",
-                  "category": "landmark",
-                  "coords": [
-                        55.50364,
-                        -4.746363
-                  ]
-            },
-            {
-                  "name": "Grotte de Lourdes",
-                  "text": "Eine Nachbildung der Grotte von Lourdes, ein Marienschrein in Val Dendore.",
-                  "category": "landmark",
-                  "coords": [
-                        55.479966,
-                        -4.741198
-                  ]
-            },
-            {
                   "name": "Lazare Monument",
                   "text": "Ein historisches Denkmal mit einer Gedenktafel und einem steinernen Obelisken in Val Dendore.",
                   "category": "historical",
@@ -12097,63 +6360,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.486124,
                         -4.764127
                   ]
-            },
-            {
-                  "name": "Kot Man - Ya Exotic Flower",
-                  "text": "Eine riesige Metallblumenskulptur in Val Dendore.",
-                  "category": "landmark",
-                  "coords": [
-                        55.506533,
-                        -4.739646
-                  ]
-            },
-            {
-                  "name": "Rock pool",
-                  "text": "Ein natürlicher Felsenpool in den Granitfelsen von Val Dendore.",
-                  "category": "landmark",
-                  "coords": [
-                        55.492225,
-                        -4.781757
-                  ]
-            },
-            {
-                  "name": "Entrance to Hill",
-                  "text": "Der Steinbogen, der den Eingang zum Hügelpfad in Val Dendore markiert.",
-                  "category": "landmark",
-                  "coords": [
-                        55.475984,
-                        -4.751729
-                  ]
-            },
-            {
-                  "name": "Huge Turtle",
-                  "text": "Eine lebensgroße Bronzestatue einer Riesenschildkröte in Val Dendore.",
-                  "category": "landmark",
-                  "coords": [
-                        55.494675,
-                        -4.777868
-                  ]
-            },
-            {
-                  "name": "Michael Adams Art Studio",
-                  "text": "Das ehemalige Atelier und die Galerie des Künstlers Michael Adams in Val Dendore.",
-                  "category": "museum",
-                  "coords": [
-                        55.476267,
-                        -4.74579
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Lazare Souvenir Museum Gallery",
-                  "text": "A Val Dendore-i Lazare Souvenir Museum Gallery egy múzeum és galéria, ahol helyi ajándéktárgyakat és művészeti alkotásokat árulnak.",
-                  "category": "museum",
-                  "coords": [
-                        55.480358,
-                        -4.750885
-                  ]
-            },
             {
                   "name": "Anse Intendance",
                   "text": "A Val Dendore-i Anse Intendance egy lenyűgöző strand türkiz vízzel és fehér homokkal.",
@@ -12161,33 +6370,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.498976,
                         -4.78503
-                  ]
-            },
-            {
-                  "name": "Petite Anse (Anse la Liberté)",
-                  "text": "A Val Dendore-i Petite Anse (Liberty Cove) egy kisebb, félreeső strand az Anse Intendance közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        55.464539,
-                        -4.754441
-                  ]
-            },
-            {
-                  "name": "Anse Gouvernement Beach",
-                  "text": "A Val D Endore festői körvonalaiba illeszkedő Anse Gouvernement Beach továbbra is egy rendkívül kedvelt tengerparti enklávé. Az úszók és a napfény szerelmesei természetes módon vonzódnak hívogató homokos elrendezéséhez, hogy órákat töltsenek el a sziget melegének magukba szívásával. A vízpart gyönyörű ösvényt biztosít a lezser sétálóknak, akik szeretnék kitisztítani a fejüket. A legjobb homokos hely biztosítása érdekében mindig ajánlott dél előtt megérkezni.",
-                  "category": "recreational",
-                  "coords": [
-                        55.477907,
-                        -4.757034
-                  ]
-            },
-            {
-                  "name": "Petit Gouvernement",
-                  "text": "A Val Dendore-i Petit Gouvernement egy kilátópont vagy kis öböl panorámás kilátással.",
-                  "category": "recreational",
-                  "coords": [
-                        55.470533,
-                        -4.761661
                   ]
             },
             {
@@ -12200,24 +6382,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Le Jardin du Roi",
-                  "text": "Egy formális kert díszes tavakkal és szobrokkal Val Dendore-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.50364,
-                        -4.746363
-                  ]
-            },
-            {
-                  "name": "Grotte de Lourdes",
-                  "text": "A lourdes-i barlang másolata, Mária-kegyhely Val Dendore-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.479966,
-                        -4.741198
-                  ]
-            },
-            {
                   "name": "Lazare Monument",
                   "text": "Egy történelmi emlékmű emléktáblával és kő obeliszkkel Val Dendore-ban.",
                   "category": "historical",
@@ -12225,63 +6389,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.486124,
                         -4.764127
                   ]
-            },
-            {
-                  "name": "Kot Man - Ya Exotic Flower",
-                  "text": "Egy hatalmas fém virágszobor Val Dendore-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.506533,
-                        -4.739646
-                  ]
-            },
-            {
-                  "name": "Rock pool",
-                  "text": "Egy természetes sziklamedence Val Dendore gránitszikláiban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.492225,
-                        -4.781757
-                  ]
-            },
-            {
-                  "name": "Entrance to Hill",
-                  "text": "A kőíves bejárat a domb ösvényéhez Val Dendore-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.475984,
-                        -4.751729
-                  ]
-            },
-            {
-                  "name": "Huge Turtle",
-                  "text": "Egy életnagyságú bronz óriásteknős szobor Val Dendore-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.494675,
-                        -4.777868
-                  ]
-            },
-            {
-                  "name": "Michael Adams Art Studio",
-                  "text": "Michael Adams művész egykori műterme és galériája Val Dendore-ban.",
-                  "category": "museum",
-                  "coords": [
-                        55.476267,
-                        -4.74579
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Lazare Souvenir Museum Gallery",
-                  "text": "Lazare Souvenir Museum Gallery din Val Dendore este un muzeu și o galerie care vinde suveniruri locale și artă.",
-                  "category": "museum",
-                  "coords": [
-                        55.480358,
-                        -4.750885
-                  ]
-            },
             {
                   "name": "Anse Intendance",
                   "text": "Anse Intendance din Val Dendore este o plajă uimitoare cu apă turcoaz și nisip alb.",
@@ -12289,33 +6399,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.498976,
                         -4.78503
-                  ]
-            },
-            {
-                  "name": "Petite Anse (Anse la Liberté)",
-                  "text": "Petite Anse (Liberty Cove) din Val Dendore este o plajă mai mică și retrasă, lângă Anse Intendance.",
-                  "category": "recreational",
-                  "coords": [
-                        55.464539,
-                        -4.754441
-                  ]
-            },
-            {
-                  "name": "Anse Gouvernement Beach",
-                  "text": "Curgând în contururile pitorești ale Val D Endore, plaja Anse Gouvernement rămâne o enclavă de coastă foarte favorizată. Înotătorii și iubitorii de soare gravitează în mod natural către dispunerea sa nisipoasă și primitoare pentru a petrece ore întregi absorbind căldura insulei. Marginea apei oferă o potecă frumoasă pentru plimbăreții ocazionali care doresc să-și limpezească mintea. Pentru a vă asigura cel mai bun loc pe nisip, este întotdeauna recomandat să ajungeți înainte de prânz.",
-                  "category": "recreational",
-                  "coords": [
-                        55.477907,
-                        -4.757034
-                  ]
-            },
-            {
-                  "name": "Petit Gouvernement",
-                  "text": "Petit Gouvernement din Val Dendore este un punct de belvedere sau un mic golf cu vedere panoramică.",
-                  "category": "recreational",
-                  "coords": [
-                        55.470533,
-                        -4.761661
                   ]
             },
             {
@@ -12328,24 +6411,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Le Jardin du Roi",
-                  "text": "O grădină formală cu iazuri ornamentale și statui în Val Dendore.",
-                  "category": "landmark",
-                  "coords": [
-                        55.50364,
-                        -4.746363
-                  ]
-            },
-            {
-                  "name": "Grotte de Lourdes",
-                  "text": "O replică a Grotei de la Lourdes, un sanctuar marian în Val Dendore.",
-                  "category": "landmark",
-                  "coords": [
-                        55.479966,
-                        -4.741198
-                  ]
-            },
-            {
                   "name": "Lazare Monument",
                   "text": "Un monument istoric cu o placă comemorativă și un obelisc de piatră în Val Dendore.",
                   "category": "historical",
@@ -12353,63 +6418,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.486124,
                         -4.764127
                   ]
-            },
-            {
-                  "name": "Kot Man - Ya Exotic Flower",
-                  "text": "O sculptură metalică uriașă de floare exotică în Val Dendore.",
-                  "category": "landmark",
-                  "coords": [
-                        55.506533,
-                        -4.739646
-                  ]
-            },
-            {
-                  "name": "Rock pool",
-                  "text": "O piscină naturală în stâncile de granit din Val Dendore.",
-                  "category": "landmark",
-                  "coords": [
-                        55.492225,
-                        -4.781757
-                  ]
-            },
-            {
-                  "name": "Entrance to Hill",
-                  "text": "Arcul de piatră care marchează intrarea pe poteca dealului în Val Dendore.",
-                  "category": "landmark",
-                  "coords": [
-                        55.475984,
-                        -4.751729
-                  ]
-            },
-            {
-                  "name": "Huge Turtle",
-                  "text": "O statuie de bronz de mărime naturală a unei țestoase uriașe în Val Dendore.",
-                  "category": "landmark",
-                  "coords": [
-                        55.494675,
-                        -4.777868
-                  ]
-            },
-            {
-                  "name": "Michael Adams Art Studio",
-                  "text": "Fostul atelier și galeria artistului Michael Adams în Val Dendore.",
-                  "category": "museum",
-                  "coords": [
-                        55.476267,
-                        -4.74579
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Lazare Souvenir Museum Gallery",
-                  "text": "Lazare Souvenir Museum Gallery in Val Dendore is a museum and gallery selling local souvenirs and art.",
-                  "category": "museum",
-                  "coords": [
-                        55.480358,
-                        -4.750885
-                  ]
-            },
             {
                   "name": "Anse Intendance",
                   "text": "Anse Intendance in Val Dendore is a stunning beach with turquoise water and white sand.",
@@ -12417,33 +6428,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.498976,
                         -4.78503
-                  ]
-            },
-            {
-                  "name": "Petite Anse (Liberty Cove)",
-                  "text": "Petite Anse (Liberty Cove) in Val Dendore is a smaller, secluded beach near Anse Intendance.",
-                  "category": "recreational",
-                  "coords": [
-                        55.464539,
-                        -4.754441
-                  ]
-            },
-            {
-                  "name": "Anse Gouvernement Beach",
-                  "text": "Flowing into the scenic contours of Val D Endore, Anse Gouvernement Beach remains a highly favored coastal enclave. Swimmers and sun-seekers naturally gravitate to its inviting sandy layout to spend hours soaking up the island's warmth. The water's edge provides a beautiful path for casual walkers looking to clear their minds. To secure the best spot on the sand, it is always recommended to arrive before noon.",
-                  "category": "recreational",
-                  "coords": [
-                        55.477907,
-                        -4.757034
-                  ]
-            },
-            {
-                  "name": "Petit Gouvernement",
-                  "text": "Petit Gouvernement in Val Dendore is a scenic viewpoint or small cove with panoramic views.",
-                  "category": "recreational",
-                  "coords": [
-                        55.470533,
-                        -4.761661
                   ]
             },
             {
@@ -12456,75 +6440,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Le Jardin du Roi",
-                  "text": "A formal garden with ornamental ponds and statues in Val Dendore.",
-                  "category": "landmark",
-                  "coords": [
-                        55.50364,
-                        -4.746363
-                  ]
-            },
-            {
-                  "name": "Grotte de Lourdes",
-                  "text": "A replica of the Grotto of Lourdes, a Marian shrine in Val Dendore.",
-                  "category": "landmark",
-                  "coords": [
-                        55.479966,
-                        -4.741198
-                  ]
-            },
-            {
                   "name": "Lazare Monument",
                   "text": "A historical monument with a commemorative plaque and a stone obelisk in Val Dendore.",
                   "category": "historical",
                   "coords": [
                         55.486124,
                         -4.764127
-                  ]
-            },
-            {
-                  "name": "Kot Man - Ya Exotic Flower",
-                  "text": "A giant metal flower sculpture in Val Dendore.",
-                  "category": "landmark",
-                  "coords": [
-                        55.506533,
-                        -4.739646
-                  ]
-            },
-            {
-                  "name": "Rock pool",
-                  "text": "A natural rock pool in the granite boulders of Val Dendore.",
-                  "category": "landmark",
-                  "coords": [
-                        55.492225,
-                        -4.781757
-                  ]
-            },
-            {
-                  "name": "Entrance to Hill",
-                  "text": "A stone arch marking the entrance to the hill path in Val Dendore.",
-                  "category": "landmark",
-                  "coords": [
-                        55.475984,
-                        -4.751729
-                  ]
-            },
-            {
-                  "name": "Huge Turtle",
-                  "text": "A life-sized bronze statue of a giant turtle in Val Dendore.",
-                  "category": "landmark",
-                  "coords": [
-                        55.494675,
-                        -4.777868
-                  ]
-            },
-            {
-                  "name": "Michael Adams Art Studio",
-                  "text": "The former studio and gallery of artist Michael Adams in Val Dendore.",
-                  "category": "museum",
-                  "coords": [
-                        55.476267,
-                        -4.74579
                   ]
             }
       ]
@@ -12627,57 +6548,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "sc-sans-souci-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Museum of Natural History",
-                  "text": "Ein Museum in Sans Souci, das die lokale Naturgeschichte zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
-            {
-                  "name": "Victoria Botanical Gardens",
-                  "text": "Ein botanischer Garten mit endemischen Seychellen-Palmen und einem Gewürzgarten in Sans Souci.",
-                  "category": "family",
-                  "coords": [
-                        55.453744,
-                        -4.630286
-                  ]
-            },
-            {
-                  "name": "Kaz Zanana",
-                  "text": "Ein Museum, das die kreolische Kultur und Geschichte in Sans Souci präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        55.449341,
-                        -4.622204
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "Ein langer Sandstrand an der Nordwestküste von Mahé, beliebt zum Schwimmen und Schnorcheln.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
-            {
                   "name": "Morne Seychellois",
                   "text": "Morne Seychellois ist der höchste Berggipfel der Seychellen und befindet sich in Sans Souci.",
                   "category": "natural",
                   "coords": [
                         55.43891,
                         -4.644827
-                  ]
-            },
-            {
-                  "name": "Morne Blanc viewing platform",
-                  "text": "Eine Aussichtsplattform auf dem Morne Blanc mit Panoramablick auf die Westküste von Mahé.",
-                  "category": "natural",
-                  "coords": [
-                        55.432329,
-                        -4.657117
                   ]
             },
             {
@@ -12699,48 +6575,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Venn's Town",
-                  "text": "Eine historische Missionssiedlung für befreite Sklaven, heute Ruinen in den Hügeln von Sans Souci.",
-                  "category": "historical",
-                  "coords": [
-                        55.444377,
-                        -4.654877
-                  ]
-            },
-            {
-                  "name": "Bazar Labrin",
-                  "text": "Eine überdachte Markthalle mit lokalen Handwerksprodukten und Erzeugnissen in Sans Souci.",
-                  "category": "landmark",
-                  "coords": [
-                        55.430604,
-                        -4.611088
-                  ]
-            },
-            {
-                  "name": "Trailhead to Morne Seychellois",
-                  "text": "Der Startpunkt des Wanderwegs zum Gipfel des Morne Seychellois, des höchsten Berges der Seychellen.",
-                  "category": "landmark",
-                  "coords": [
-                        55.449546,
-                        -4.643163
-                  ]
-            },
-            {
                   "name": "Trail junction",
                   "text": "Die Kreuzung mehrerer Wanderwege im Morne Seychellois Nationalpark.",
                   "category": "landmark",
                   "coords": [
                         55.44408,
                         -4.637409
-                  ]
-            },
-            {
-                  "name": "Summit of Morne Seychellois",
-                  "text": "Der 905 Meter hohe Gipfel des Morne Seychellois, der höchste Punkt der Seychellen, mit Rundumaussicht.",
-                  "category": "natural",
-                  "coords": [
-                        55.440234,
-                        -4.646499
                   ]
             },
             {
@@ -12751,126 +6591,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.450181,
                         -4.634472
                   ]
-            },
-            {
-                  "name": "Library fountain",
-                  "text": "Ein historischer Brunnen im Hof der öffentlichen Bibliothek in Sans Souci.",
-                  "category": "historical",
-                  "coords": [
-                        55.454476,
-                        -4.6265
-                  ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "Ein Brunnendenkmal vor der Zentrale der Nouvobanque in Sans Souci.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
-            {
-                  "name": "Liberty Statue",
-                  "text": "Eine Bronzestatue einer Frau mit einer Fackel, die die Freiheit symbolisiert, in Sans Souci.",
-                  "category": "historical",
-                  "coords": [
-                        55.45483,
-                        -4.62453
-                  ]
-            },
-            {
-                  "name": "Cruise Pirs Victoria",
-                  "text": "Der Kreuzfahrtterminal in Victoria, Sans Souci, mit Anlegestellen für Ozeanriesen.",
-                  "category": "landmark",
-                  "coords": [
-                        55.462931,
-                        -4.625882
-                  ]
-            },
-            {
-                  "name": "Panoramic View of North East Coast of Mahe",
-                  "text": "Ein Aussichtspunkt mit einem weiten Blick auf die Nordostküste der Insel Mahé.",
-                  "category": "natural",
-                  "coords": [
-                        55.458526,
-                        -4.649156
-                  ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "Ein großer Schiffsanker, der als historisches Denkmal in Sans Souci ausgestellt ist.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Mission Lodge",
-                  "text": "Historische Missionsruinen im Wald, jetzt ein beliebter Picknick- und Aussichtspunkt in Sans Souci.",
-                  "category": "natural",
-                  "coords": [
-                        55.445288,
-                        -4.655755
-                  ]
-            },
-            {
-                  "name": "Domus",
-                  "text": "Ein kolonialzeitliches Haus mit Veranda und Garten in Sans Souci.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "Die St. Paul's Cathedral ist eine anglikanische Kirche in Sans Souci.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Museum of Natural History",
-                  "text": "Egy múzeum Sans Souciban, amely a helyi természetrajzot mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
-            {
-                  "name": "Victoria Botanical Gardens",
-                  "text": "Botanikus kert endemikus Seychelle-szigeteki pálmákkal és fűszerkerttel Sans Souci-ban.",
-                  "category": "family",
-                  "coords": [
-                        55.453744,
-                        -4.630286
-                  ]
-            },
-            {
-                  "name": "Kaz Zanana",
-                  "text": "Egy múzeum, amely a kreol kultúrát és történelmet mutatja be Sans Souci-ban.",
-                  "category": "museum",
-                  "coords": [
-                        55.449341,
-                        -4.622204
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "Egy hosszú homokos strand Mahé északnyugati partján, népszerű úszásra és búvárkodásra.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
             {
                   "name": "Morne Seychellois",
                   "text": "A Morne Seychellois a Seychelle-szigetek legmagasabb hegycsúcsa Sans Souci területén.",
@@ -12878,15 +6601,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.43891,
                         -4.644827
-                  ]
-            },
-            {
-                  "name": "Morne Blanc viewing platform",
-                  "text": "Egy kilátó a Morne Blanc-on, panorámás kilátással Mahé nyugati partjára.",
-                  "category": "natural",
-                  "coords": [
-                        55.432329,
-                        -4.657117
                   ]
             },
             {
@@ -12908,48 +6622,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Venn's Town",
-                  "text": "Egy történelmi missziós telep felszabadított rabszolgák számára, ma romok Sans Souci dombjai között.",
-                  "category": "historical",
-                  "coords": [
-                        55.444377,
-                        -4.654877
-                  ]
-            },
-            {
-                  "name": "Bazar Labrin",
-                  "text": "Egy fedett piactér helyi kézműves termékekkel és terményekkel Sans Souci-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        55.430604,
-                        -4.611088
-                  ]
-            },
-            {
-                  "name": "Trailhead to Morne Seychellois",
-                  "text": "A Morne Seychellois csúcsára vezető túraút kiindulópontja, a Seychelle-szigetek legmagasabb pontja.",
-                  "category": "landmark",
-                  "coords": [
-                        55.449546,
-                        -4.643163
-                  ]
-            },
-            {
                   "name": "Trail junction",
                   "text": "Több túraút kereszteződése a Morne Seychellois Nemzeti Parkban.",
                   "category": "landmark",
                   "coords": [
                         55.44408,
                         -4.637409
-                  ]
-            },
-            {
-                  "name": "Summit of Morne Seychellois",
-                  "text": "A Morne Seychellois 905 méteres csúcsa, a Seychelle-szigetek legmagasabb pontja, 360°-os kilátással.",
-                  "category": "natural",
-                  "coords": [
-                        55.440234,
-                        -4.646499
                   ]
             },
             {
@@ -12960,126 +6638,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.450181,
                         -4.634472
                   ]
-            },
-            {
-                  "name": "Library fountain",
-                  "text": "Egy történelmi szökőkút a nyilvános könyvtár udvarán Sans Souci-ban.",
-                  "category": "historical",
-                  "coords": [
-                        55.454476,
-                        -4.6265
-                  ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "Egy szökőkút emlékmű a Nouvobanque központja előtt Sans Souci-ban.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
-            {
-                  "name": "Liberty Statue",
-                  "text": "Egy bronzszobor, egy nő fáklyával, a szabadság szimbóluma Sans Souci-ban.",
-                  "category": "historical",
-                  "coords": [
-                        55.45483,
-                        -4.62453
-                  ]
-            },
-            {
-                  "name": "Cruise Pirs Victoria",
-                  "text": "A hajóterminál Victoria-ban, Sans Souci-ban, óceánjárók kikötésére.",
-                  "category": "landmark",
-                  "coords": [
-                        55.462931,
-                        -4.625882
-                  ]
-            },
-            {
-                  "name": "Panoramic View of North East Coast of Mahe",
-                  "text": "Egy kilátó, amely messzire látó kilátást nyújt Mahé északkeleti partvonalára.",
-                  "category": "natural",
-                  "coords": [
-                        55.458526,
-                        -4.649156
-                  ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "Egy nagy hajóhorgony, amely történelmi emlékműként van kiállítva Sans Souci-ban.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Mission Lodge",
-                  "text": "Történelmi misszió romok az erdőben, ma népszerű piknikező- és kilátóhely Sans Souci-ban.",
-                  "category": "natural",
-                  "coords": [
-                        55.445288,
-                        -4.655755
-                  ]
-            },
-            {
-                  "name": "Domus",
-                  "text": "Egy gyarmati kori ház verandával és kerttel Sans Souci-ban.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "A St. Paul's Cathedral egy anglikán templom Sans Souci városában.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Museum of Natural History",
-                  "text": "Un muzeu în Sans Souci care prezintă istoria naturală locală.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
-            {
-                  "name": "Victoria Botanical Gardens",
-                  "text": "O grădină botanică cu palmieri endemici din Seychelles și o grădină de condimente în Sans Souci.",
-                  "category": "family",
-                  "coords": [
-                        55.453744,
-                        -4.630286
-                  ]
-            },
-            {
-                  "name": "Kaz Zanana",
-                  "text": "Un muzeu care prezintă cultura și istoria creolă în Sans Souci.",
-                  "category": "museum",
-                  "coords": [
-                        55.449341,
-                        -4.622204
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "O plajă lungă de nisip pe coasta de nord-vest a insulei Mahé, populară pentru înot și snorkeling.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
             {
                   "name": "Morne Seychellois",
                   "text": "Morne Seychellois este cel mai înalt vârf montan din Seychelles, situat în Sans Souci.",
@@ -13087,15 +6648,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.43891,
                         -4.644827
-                  ]
-            },
-            {
-                  "name": "Morne Blanc viewing platform",
-                  "text": "O platformă de observație pe Morne Blanc cu vedere panoramică asupra coastei de vest a insulei Mahé.",
-                  "category": "natural",
-                  "coords": [
-                        55.432329,
-                        -4.657117
                   ]
             },
             {
@@ -13117,48 +6669,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Venn's Town",
-                  "text": "O așezare istorică misionară pentru sclavi eliberați, acum ruine în dealurile din Sans Souci.",
-                  "category": "historical",
-                  "coords": [
-                        55.444377,
-                        -4.654877
-                  ]
-            },
-            {
-                  "name": "Bazar Labrin",
-                  "text": "O hală de piață acoperită cu produse meșteșugărești locale și legume în Sans Souci.",
-                  "category": "landmark",
-                  "coords": [
-                        55.430604,
-                        -4.611088
-                  ]
-            },
-            {
-                  "name": "Trailhead to Morne Seychellois",
-                  "text": "Punctul de plecare al traseului de drumeție către vârful Morne Seychellois, cel mai înalt munte din Seychelles.",
-                  "category": "landmark",
-                  "coords": [
-                        55.449546,
-                        -4.643163
-                  ]
-            },
-            {
                   "name": "Trail junction",
                   "text": "Intersecția mai multor trasee de drumeție în Parcul Național Morne Seychellois.",
                   "category": "landmark",
                   "coords": [
                         55.44408,
                         -4.637409
-                  ]
-            },
-            {
-                  "name": "Summit of Morne Seychellois",
-                  "text": "Vârful de 905 metri al Morne Seychellois, cel mai înalt punct din Seychelles, cu vedere panoramică de 360°.",
-                  "category": "natural",
-                  "coords": [
-                        55.440234,
-                        -4.646499
                   ]
             },
             {
@@ -13169,126 +6685,9 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                         55.450181,
                         -4.634472
                   ]
-            },
-            {
-                  "name": "Library fountain",
-                  "text": "O fântână istorică în curtea bibliotecii publice din Sans Souci.",
-                  "category": "historical",
-                  "coords": [
-                        55.454476,
-                        -4.6265
-                  ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "Un monument cu fântână în fața sediului Nouvobanque în Sans Souci.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
-            {
-                  "name": "Liberty Statue",
-                  "text": "O statuie de bronz a unei femei care ține o torță, simbolizând libertatea, în Sans Souci.",
-                  "category": "historical",
-                  "coords": [
-                        55.45483,
-                        -4.62453
-                  ]
-            },
-            {
-                  "name": "Cruise Pirs Victoria",
-                  "text": "Terminalul de croazieră din Victoria, Sans Souci, cu pontoane pentru nave mari.",
-                  "category": "landmark",
-                  "coords": [
-                        55.462931,
-                        -4.625882
-                  ]
-            },
-            {
-                  "name": "Panoramic View of North East Coast of Mahe",
-                  "text": "Un punct de belvedere cu o panoramă largă asupra coastei de nord-est a insulei Mahé.",
-                  "category": "natural",
-                  "coords": [
-                        55.458526,
-                        -4.649156
-                  ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "O ancoră mare de navă expusă ca monument istoric în Sans Souci.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Mission Lodge",
-                  "text": "Ruine istorice ale unei misiuni în pădure, acum un loc popular de picnic și belvedere în Sans Souci.",
-                  "category": "natural",
-                  "coords": [
-                        55.445288,
-                        -4.655755
-                  ]
-            },
-            {
-                  "name": "Domus",
-                  "text": "O casă din perioada colonială cu verandă și grădină în Sans Souci.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "St. Paul's Cathedral este un lăcaș de cult anglican din Sans Souci.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Museum of Natural History",
-                  "text": "A museum in Sans Souci displaying local natural history.",
-                  "category": "museum",
-                  "coords": [
-                        55.453047,
-                        -4.622957
-                  ]
-            },
-            {
-                  "name": "Victoria Botanical Gardens",
-                  "text": "A botanical garden with endemic Seychelles palms and a spice garden in Sans Souci.",
-                  "category": "family",
-                  "coords": [
-                        55.453744,
-                        -4.630286
-                  ]
-            },
-            {
-                  "name": "Kaz Zanana",
-                  "text": "A museum showcasing Creole culture and history in Sans Souci.",
-                  "category": "museum",
-                  "coords": [
-                        55.449341,
-                        -4.622204
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "A long sandy beach on the northwest coast of Mahé, popular for swimming and snorkeling.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
-                  ]
-            },
             {
                   "name": "Morne Seychellois",
                   "text": "Morne Seychellois is the highest mountain peak in Seychelles, located in Sans Souci.",
@@ -13296,15 +6695,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   "coords": [
                         55.43891,
                         -4.644827
-                  ]
-            },
-            {
-                  "name": "Morne Blanc viewing platform",
-                  "text": "A viewing platform on Morne Blanc offering panoramic views of the west coast of Mahé.",
-                  "category": "natural",
-                  "coords": [
-                        55.432329,
-                        -4.657117
                   ]
             },
             {
@@ -13326,33 +6716,6 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Venn's Town",
-                  "text": "A historic mission settlement for freed slaves, now ruins in the Sans Souci hills.",
-                  "category": "historical",
-                  "coords": [
-                        55.444377,
-                        -4.654877
-                  ]
-            },
-            {
-                  "name": "Bazar Labrin",
-                  "text": "A covered market hall selling local crafts and produce in Sans Souci.",
-                  "category": "landmark",
-                  "coords": [
-                        55.430604,
-                        -4.611088
-                  ]
-            },
-            {
-                  "name": "Trailhead to Morne Seychellois",
-                  "text": "The trailhead to the summit of Morne Seychellois, the highest peak in the Seychelles.",
-                  "category": "landmark",
-                  "coords": [
-                        55.449546,
-                        -4.643163
-                  ]
-            },
-            {
                   "name": "Trail junction",
                   "text": "The junction of several hiking trails in the Morne Seychellois National Park.",
                   "category": "landmark",
@@ -13362,102 +6725,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Summit of Morne Seychellois",
-                  "text": "The 905-meter summit of Morne Seychellois, the highest point in the Seychelles, with 360° views.",
-                  "category": "natural",
-                  "coords": [
-                        55.440234,
-                        -4.646499
-                  ]
-            },
-            {
                   "name": "Turtles farm",
                   "text": "A conservation farm for giant tortoises in Sans Souci.",
                   "category": "landmark",
                   "coords": [
                         55.450181,
                         -4.634472
-                  ]
-            },
-            {
-                  "name": "Library fountain",
-                  "text": "A historic fountain in the courtyard of the public library in Sans Souci.",
-                  "category": "historical",
-                  "coords": [
-                        55.454476,
-                        -4.6265
-                  ]
-            },
-            {
-                  "name": "Nouvobanque fountain Monument",
-                  "text": "A fountain monument in front of the Nouvobanque headquarters in Sans Souci.",
-                  "category": "historical",
-                  "coords": [
-                        55.452445,
-                        -4.624018
-                  ]
-            },
-            {
-                  "name": "Liberty Statue",
-                  "text": "A bronze statue of a woman holding a torch, symbolizing freedom, in Sans Souci.",
-                  "category": "historical",
-                  "coords": [
-                        55.45483,
-                        -4.62453
-                  ]
-            },
-            {
-                  "name": "Cruise Pirs Victoria",
-                  "text": "The cruise ship terminal in Victoria, Sans Souci, with docking for ocean liners.",
-                  "category": "landmark",
-                  "coords": [
-                        55.462931,
-                        -4.625882
-                  ]
-            },
-            {
-                  "name": "Panoramic View of North East Coast of Mahe",
-                  "text": "A viewpoint offering a sweeping vista of the northeast coastline of Mahé island.",
-                  "category": "natural",
-                  "coords": [
-                        55.458526,
-                        -4.649156
-                  ]
-            },
-            {
-                  "name": "anchor",
-                  "text": "A large ship anchor displayed as a historical monument in Sans Souci.",
-                  "category": "historical",
-                  "coords": [
-                        55.457755,
-                        -4.620349
-                  ]
-            },
-            {
-                  "name": "Mission Lodge",
-                  "text": "Historic mission ruins in the forest, now a popular picnic and viewpoint in Sans Souci.",
-                  "category": "natural",
-                  "coords": [
-                        55.445288,
-                        -4.655755
-                  ]
-            },
-            {
-                  "name": "La Domus",
-                  "text": "A colonial-era house with a veranda and garden in Sans Souci.",
-                  "category": "historical",
-                  "coords": [
-                        55.451018,
-                        -4.619465
-                  ]
-            },
-            {
-                  "name": "St. Paul's Cathedral",
-                  "text": "St. Paul's Cathedral is an Anglican place of worship located in Sans Souci.",
-                  "category": "religious",
-                  "coords": [
-                        55.451963,
-                        -4.622652
                   ]
             }
       ]
@@ -13512,30 +6785,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
     id: "sc-vista-do-mar-cities-v2", "sights": {
       "de": [
             {
-                  "name": "My Green mansion",
-                  "text": "Ein grün gestrichenes Herrenhaus mit Türmchen und Turm, das an ein Schloss in Vista Do Mar erinnert.",
-                  "category": "castle",
-                  "coords": [
-                        55.452436,
-                        -4.591894
-                  ]
-            },
-            {
                   "name": "Carana Public Beach",
                   "text": "Dem weiten Ozean von Vista Do Mar zugewandt, bietet der Carana Public Beach eine herrliche und zugängliche Küstenoase. Das einladende Wasser ruft zu belebendem Schwimmen auf, während die Sandstrände reichlich Gelegenheit bieten, die Sonne zu tanken. Die Uferlinie bei einem langsamen Spaziergang zu erkunden, ist eine großartige Möglichkeit, sich mit der atemberaubenden natürlichen Umgebung zu verbinden. Ein Besuch in den frühen Morgenstunden garantiert meist ein deutlich ruhigeres Stranderlebnis.",
                   "category": "recreational",
                   "coords": [
                         55.453484,
                         -4.566097
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "Ein beliebter Sandstrand mit sanften Wellen und Sonnenuntergängen in Vista Do Mar.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
                   ]
             },
             {
@@ -13604,30 +6859,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "My Green mansion",
-                  "text": "Egy zöldre festett kastélyszerű kúria tornyokkal és toronnyal Vista Do Mar-ban.",
-                  "category": "castle",
-                  "coords": [
-                        55.452436,
-                        -4.591894
-                  ]
-            },
-            {
                   "name": "Carana Public Beach",
                   "text": "A Vista Do Mar-ból a hatalmas óceánra néző Carana Public Beach kedves és könnyen megközelíthető tengerparti menedéket nyújt. A hívogató vizek élénkítő úszásra hívnak, míg a homokos szakaszok bőséges lehetőséget adnak a napozásra. A partvonal lassú sétával történő felfedezése nagyszerű módja annak, hogy kapcsolatba kerüljön a lenyűgöző természeti környezettel. A kora reggeli órákban történő látogatás általában sokkal csendesebb strandolási élményt garantál.",
                   "category": "recreational",
                   "coords": [
                         55.453484,
                         -4.566097
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "Egy népszerű homokos strand enyhe hullámokkal és naplementékkel Vista Do Mar-ban.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
                   ]
             },
             {
@@ -13696,30 +6933,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "My Green mansion",
-                  "text": "Un conac vopsit în verde, cu turnulețe și turn, asemănător unui castel în Vista Do Mar.",
-                  "category": "castle",
-                  "coords": [
-                        55.452436,
-                        -4.591894
-                  ]
-            },
-            {
                   "name": "Carana Public Beach",
                   "text": "Înfruntând vastul ocean din Vista Do Mar, Carana Public Beach oferă un refugiu de coastă minunat și accesibil. Apele primitoare cheamă la înot revigorant, în timp ce porțiunile de nisip oferă oportunități ample de a face plajă. Explorarea țărmului într-o plimbare lentă este o modalitate excelentă de a interacționa cu mediul natural uimitor. Vizitarea în primele ore ale dimineții garantează de obicei o experiență pe plajă mult mai liniștită.",
                   "category": "recreational",
                   "coords": [
                         55.453484,
                         -4.566097
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "O plajă populară de nisip cu valuri line și apusuri în Vista Do Mar.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
                   ]
             },
             {
@@ -13788,30 +7007,12 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "My Green mansion",
-                  "text": "A green-painted mansion with turrets and a tower, resembling a castle in Vista Do Mar.",
-                  "category": "castle",
-                  "coords": [
-                        55.452436,
-                        -4.591894
-                  ]
-            },
-            {
                   "name": "Carana Public Beach",
                   "text": "Facing the vast ocean from Vista Do Mar, Carana Public Beach provides a lovely and accessible coastal haven. The inviting waters call for invigorating swims, whilst the sandy stretches give ample opportunity to soak up the sun. Exploring the shoreline on a slow stroll is a great way to engage with the stunning natural environment. Visiting during the early morning hours usually guarantees a much quieter beach experience.",
                   "category": "recreational",
                   "coords": [
                         55.453484,
                         -4.566097
-                  ]
-            },
-            {
-                  "name": "Beau Vallon",
-                  "text": "A popular sandy beach with gentle waves and sunsets in Vista Do Mar.",
-                  "category": "recreational",
-                  "coords": [
-                        55.42709,
-                        -4.611012
                   ]
             },
             {

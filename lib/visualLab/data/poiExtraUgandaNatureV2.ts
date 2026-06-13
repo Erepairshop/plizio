@@ -1652,122 +1652,10 @@ export const poiExtraUgandaNatureV2: POI[] = [
   },
   {
     id: "mount-moroto-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "ATEKER CULTURAL CENTRE MUSEUM",
-                  "text": "Dieses Museum in der Nähe des Mount Moroto bewahrt und präsentiert die reichen Traditionen und handgefertigten Artefakte des lokalen Ateker-Volkes.",
-                  "category": "museum",
-                  "coords": [
-                        34.655269,
-                        2.541825
-                  ]
-            },
-            {
-                  "name": "Nakiloro Elder's Place",
-                  "text": "Dieser traditionelle Versammlungsort in der Nähe des Mount Moroto ist von immenser kultureller Bedeutung für die Ältesten der Nakiloro-Gemeinde.",
-                  "category": "landmark",
-                  "coords": [
-                        34.658964,
-                        2.52496
-                  ]
-            },
-            {
-                  "name": "Karamoja Cultural Museum",
-                  "text": "Dieses Museum am Fuße des Mount Moroto zeigt anthropologische Exponate, die den pastoralen Lebensstil des Karamojong-Volkes detailliert beschreiben.",
-                  "category": "museum",
-                  "coords": [
-                        34.684424,
-                        2.521124
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "ATEKER CULTURAL CENTRE MUSEUM",
-                  "text": "Ez a Mount Moroto közelében található múzeum a helyi ateker nép gazdag hagyományait és kézműves műtárgyait őrzi és mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        34.655269,
-                        2.541825
-                  ]
-            },
-            {
-                  "name": "Nakiloro Elder's Place",
-                  "text": "Ez a Mount Moroto közelében található hagyományos gyülekezőhely hatalmas kulturális jelentőséggel bír a nakiloro közösség vénei számára.",
-                  "category": "landmark",
-                  "coords": [
-                        34.658964,
-                        2.52496
-                  ]
-            },
-            {
-                  "name": "Karamoja Cultural Museum",
-                  "text": "A Mount Moroto lábánál található múzeum antropológiai kiállításokon mutatja be a karamojong nép pásztorkodó életmódját.",
-                  "category": "museum",
-                  "coords": [
-                        34.684424,
-                        2.521124
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "ATEKER CULTURAL CENTRE MUSEUM",
-                  "text": "Acest muzeu din apropierea Muntelui Moroto păstrează și expune tradițiile și artefactele artizanale bogate ale poporului local Ateker.",
-                  "category": "museum",
-                  "coords": [
-                        34.655269,
-                        2.541825
-                  ]
-            },
-            {
-                  "name": "Nakiloro Elder's Place",
-                  "text": "Acest loc tradițional de adunare din apropierea Muntelui Moroto are o imensă semnificație culturală pentru bătrânii comunității Nakiloro.",
-                  "category": "landmark",
-                  "coords": [
-                        34.658964,
-                        2.52496
-                  ]
-            },
-            {
-                  "name": "Karamoja Cultural Museum",
-                  "text": "Situat la baza Muntelui Moroto, acest muzeu prezintă expoziții antropologice care detaliază stilul de viață pastoral al poporului Karamojong.",
-                  "category": "museum",
-                  "coords": [
-                        34.684424,
-                        2.521124
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "ATEKER CULTURAL CENTRE MUSEUM",
-                  "text": "This museum near Mount Moroto preserves and exhibits the rich traditions and handcrafted artifacts of the local Ateker people.",
-                  "category": "museum",
-                  "coords": [
-                        34.655269,
-                        2.541825
-                  ]
-            },
-            {
-                  "name": "Nakiloro Elder's Place",
-                  "text": "This traditional gathering site near Mount Moroto holds immense cultural significance for the respected elders of the Nakiloro community.",
-                  "category": "landmark",
-                  "coords": [
-                        34.658964,
-                        2.52496
-                  ]
-            },
-            {
-                  "name": "Karamoja Cultural Museum",
-                  "text": "Located at the base of Mount Moroto, this museum features anthropological exhibits detailing the pastoral lifestyle of the Karamojong people.",
-                  "category": "museum",
-                  "coords": [
-                        34.684424,
-                        2.521124
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "UG-501",
@@ -1981,15 +1869,6 @@ export const poiExtraUgandaNatureV2: POI[] = [
     id: "mount-muhavura-nature-v2", "sights": {
       "de": [
             {
-                  "name": "African Art",
-                  "text": "Die Galerie African Art stellt lokale kreative Werke in der Nähe der vulkanischen Region des Mount Muhavura aus.",
-                  "category": "museum",
-                  "coords": [
-                        29.692373,
-                        -1.282877
-                  ]
-            },
-            {
                   "name": "ngarama batwa cave",
                   "text": "Die Ngarama Batwa Höhle ist eine faszinierende unterirdische Attraktion in der Nähe des Mount Muhavura, die einst vom indigenen Batwa-Volk genutzt wurde.",
                   "category": "landmark",
@@ -2009,15 +1888,6 @@ export const poiExtraUgandaNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "African Art",
-                  "text": "Az African Art galéria helyi kreatív alkotásokat állít ki a Muhavura-hegy vulkanikus régiója közelében.",
-                  "category": "museum",
-                  "coords": [
-                        29.692373,
-                        -1.282877
-                  ]
-            },
             {
                   "name": "ngarama batwa cave",
                   "text": "A Ngarama Batwa barlang egy lenyűgöző földalatti látványosság a Muhavura-hegy közelében, amelyet egykor a bennszülött batwa nép használt.",
@@ -2039,15 +1909,6 @@ export const poiExtraUgandaNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "African Art",
-                  "text": "Galeria African Art expune lucrări creative locale în apropierea regiunii vulcanice a Muntelui Muhavura.",
-                  "category": "museum",
-                  "coords": [
-                        29.692373,
-                        -1.282877
-                  ]
-            },
-            {
                   "name": "ngarama batwa cave",
                   "text": "Peștera Ngarama Batwa este o atracție subterană fascinantă lângă Muntele Muhavura, folosită odinioară de populația indigenă Batwa.",
                   "category": "landmark",
@@ -2067,15 +1928,6 @@ export const poiExtraUgandaNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "African Art",
-                  "text": "The African Art gallery exhibits local creative works near the volcanic Mount Muhavura region.",
-                  "category": "museum",
-                  "coords": [
-                        29.692373,
-                        -1.282877
-                  ]
-            },
             {
                   "name": "ngarama batwa cave",
                   "text": "Ngarama Batwa cave is a fascinating subterranean attraction once used by the indigenous Batwa people near Mount Muhavura.",
@@ -2311,50 +2163,10 @@ export const poiExtraUgandaNatureV2: POI[] = [
   },
   {
     id: "gulu-lake-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Taks Centre",
-                  "text": "Das Taks Centre in Gulu ist ein einnehmendes kommunales Kunstzentrum in einem Gebäude aus der Kolonialzeit, in dem Ausstellungen und kulturelle Veranstaltungen stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        32.297626,
-                        2.782145
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Taks Centre",
-                  "text": "A gului Taks Centre egy vonzó közösségi művészeti központ egy gyarmati korszakból származó épületben, amely kiállításoknak és kulturális eseményeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        32.297626,
-                        2.782145
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Taks Centre",
-                  "text": "Centrul Taks din Gulu este un centru comunitar de artă atractiv, situat într-o clădire din epoca colonială, găzduind expoziții și evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        32.297626,
-                        2.782145
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Taks Centre",
-                  "text": "The Taks Centre in Gulu is an engaging community arts hub set within a colonial-era building, hosting exhibitions and cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        32.297626,
-                        2.782145
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "lake",
     parent: "UG-302",

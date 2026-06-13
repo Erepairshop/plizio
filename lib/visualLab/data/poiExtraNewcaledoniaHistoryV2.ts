@@ -904,194 +904,10 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-paita-pioneers-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Villa musée de Païta",
-                  "text": "Kolonialvilla, heute Museum mit Gegenständen der lokalen Geschichte in Païta Pioneers.",
-                  "category": "museum",
-                  "coords": [
-                        166.378156,
-                        -22.140787
-                  ]
-            },
-            {
-                  "name": "Centre culturel de Paita",
-                  "text": "Ein Kulturzentrum in der Siedlung Paita Pioneers, das lokale Veranstaltungen und Ausstellungen beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        166.366333,
-                        -22.129435
-                  ]
-            },
-            {
-                  "name": "Vestiges du Pont de Chemin de Fer (Karikouié gauche)",
-                  "text": "Die Überreste des linken Widerlagers der Karikouié-Eisenbahnbrücke.",
-                  "category": "historical",
-                  "coords": [
-                        166.378037,
-                        -22.110837
-                  ]
-            },
-            {
-                  "name": "Locomotive du Chemin de Fer",
-                  "text": "Eine erhaltene Dampflokomotive der historischen Eisenbahnlinie in Paita Pioneers.",
-                  "category": "landmark",
-                  "coords": [
-                        166.37601,
-                        -22.115446
-                  ]
-            },
-            {
-                  "name": "Église de Paita",
-                  "text": "Kirche von Paita im Pionierviertel Paita Pioneers.",
-                  "category": "religious",
-                  "coords": [
-                        166.370867,
-                        -22.129329
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Villa musée de Païta",
-                  "text": "Gyarmati villa, ma múzeum a helyi történelem tárgyaival Païta Pioneers-ben.",
-                  "category": "museum",
-                  "coords": [
-                        166.378156,
-                        -22.140787
-                  ]
-            },
-            {
-                  "name": "Centre culturel de Paita",
-                  "text": "Kulturális központ a Paita Pioneers településen, helyi rendezvényeknek és kiállításoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        166.366333,
-                        -22.129435
-                  ]
-            },
-            {
-                  "name": "Vestiges du Pont de Chemin de Fer (Karikouié gauche)",
-                  "text": "A Karikouié vasúti híd bal oldali hídfőjének maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        166.378037,
-                        -22.110837
-                  ]
-            },
-            {
-                  "name": "Locomotive du Chemin de Fer",
-                  "text": "Egy megőrzött gőzmozdony a Paita Pioneers történelmi vasútvonaláról.",
-                  "category": "landmark",
-                  "coords": [
-                        166.37601,
-                        -22.115446
-                  ]
-            },
-            {
-                  "name": "Église de Paita",
-                  "text": "Paita temploma a Paita Pioneers negyedben.",
-                  "category": "religious",
-                  "coords": [
-                        166.370867,
-                        -22.129329
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Villa musée de Païta",
-                  "text": "Vilă colonială, acum muzeu cu obiecte de istorie locală în Païta Pioneers.",
-                  "category": "museum",
-                  "coords": [
-                        166.378156,
-                        -22.140787
-                  ]
-            },
-            {
-                  "name": "Centre culturel de Paita",
-                  "text": "Un centru cultural în așezarea Paita Pioneers, care găzduiește evenimente și expoziții locale.",
-                  "category": "cultural",
-                  "coords": [
-                        166.366333,
-                        -22.129435
-                  ]
-            },
-            {
-                  "name": "Vestiges du Pont de Chemin de Fer (Karikouié gauche)",
-                  "text": "Vestigiile părții stângi a podului feroviar Karikouié.",
-                  "category": "historical",
-                  "coords": [
-                        166.378037,
-                        -22.110837
-                  ]
-            },
-            {
-                  "name": "Locomotive du Chemin de Fer",
-                  "text": "O locomotivă cu abur conservată de pe linia feroviară istorică din Paita Pioneers.",
-                  "category": "landmark",
-                  "coords": [
-                        166.37601,
-                        -22.115446
-                  ]
-            },
-            {
-                  "name": "Église de Paita",
-                  "text": "Biserica din Paita în cartierul Paita Pioneers.",
-                  "category": "religious",
-                  "coords": [
-                        166.370867,
-                        -22.129329
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Villa musée de Païta",
-                  "text": "Colonial villa, now a museum with local history artifacts in Païta Pioneers.",
-                  "category": "museum",
-                  "coords": [
-                        166.378156,
-                        -22.140787
-                  ]
-            },
-            {
-                  "name": "Centre culturel de Paita",
-                  "text": "A cultural centre in the Paita Pioneers settlement, hosting local events and exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        166.366333,
-                        -22.129435
-                  ]
-            },
-            {
-                  "name": "Vestiges du Pont de Chemin de Fer (Karikouié gauche)",
-                  "text": "Remnants of the left abutment of the Karikouié railway bridge.",
-                  "category": "historical",
-                  "coords": [
-                        166.378037,
-                        -22.110837
-                  ]
-            },
-            {
-                  "name": "Locomotive du Chemin de Fer",
-                  "text": "A preserved steam locomotive from the historic railway line in Paita Pioneers.",
-                  "category": "landmark",
-                  "coords": [
-                        166.37601,
-                        -22.115446
-                  ]
-            },
-            {
-                  "name": "Église de Paita",
-                  "text": "Church of Paita in the Paita Pioneers district.",
-                  "category": "religious",
-                  "coords": [
-                        166.370867,
-                        -22.129329
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "NC",
     type: "village",
@@ -1183,86 +999,10 @@ export const newcaledoniaHistoryV2: POI[] = [
   },
   {
     id: "newcaledonia-yate-old-village-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Réserve Spéciale Botanique du Barrage de Yaté",
-                  "text": "Ein botanisches Schutzgebiet rund um den Stausee des Yaté-Damms.",
-                  "category": "natural",
-                  "coords": [
-                        166.895365,
-                        -22.152152
-                  ]
-            },
-            {
-                  "name": "Vue sur la cascade",
-                  "text": "Vue sur la cascade ist ein Aussichtspunkt in Altes Dorf von Yaté.",
-                  "category": "natural",
-                  "coords": [
-                        166.902031,
-                        -22.139906
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Réserve Spéciale Botanique du Barrage de Yaté",
-                  "text": "Botanikai rezervátum a Yaté-gát tározója körül.",
-                  "category": "natural",
-                  "coords": [
-                        166.895365,
-                        -22.152152
-                  ]
-            },
-            {
-                  "name": "Vue sur la cascade",
-                  "text": "A Vue sur la cascade egy kilátó Altes Dorf von Yaté városában.",
-                  "category": "natural",
-                  "coords": [
-                        166.902031,
-                        -22.139906
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Réserve Spéciale Botanique du Barrage de Yaté",
-                  "text": "O rezervație botanică specială în jurul lacului de acumulare al barajului Yaté.",
-                  "category": "natural",
-                  "coords": [
-                        166.895365,
-                        -22.152152
-                  ]
-            },
-            {
-                  "name": "Vue sur la cascade",
-                  "text": "Vue sur la cascade este un punct de belvedere în Altes Dorf von Yaté.",
-                  "category": "natural",
-                  "coords": [
-                        166.902031,
-                        -22.139906
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Réserve Spéciale Botanique du Barrage de Yaté",
-                  "text": "A special botanical reserve surrounding the Yaté Dam reservoir.",
-                  "category": "natural",
-                  "coords": [
-                        166.895365,
-                        -22.152152
-                  ]
-            },
-            {
-                  "name": "Vue sur la cascade",
-                  "text": "Vue sur la cascade is a viewpoint located in Altes Dorf von Yaté.",
-                  "category": "natural",
-                  "coords": [
-                        166.902031,
-                        -22.139906
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "NC",
     type: "village",
@@ -1797,15 +1537,6 @@ export const newcaledoniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Point de Vue",
-                  "text": "Ein Aussichtspunkt mit Panoramablick über die Region Koumac.",
-                  "category": "natural",
-                  "coords": [
-                        164.286087,
-                        -20.550155
-                  ]
-            },
-            {
                   "name": "Eden Blue Caledonia",
                   "text": "Eine Sehenswürdigkeit in Koumac mit blauen Wasserelementen und Gärten.",
                   "category": "landmark",
@@ -1859,15 +1590,6 @@ export const newcaledoniaHistoryV2: POI[] = [
                   "coords": [
                         164.275508,
                         -20.577796
-                  ]
-            },
-            {
-                  "name": "Point de Vue",
-                  "text": "Egy kilátópont, panorámás kilátással Koumac vidékére.",
-                  "category": "natural",
-                  "coords": [
-                        164.286087,
-                        -20.550155
                   ]
             },
             {
@@ -1927,15 +1649,6 @@ export const newcaledoniaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Point de Vue",
-                  "text": "Un punct de vedere cu panoramă asupra regiunii Koumac.",
-                  "category": "natural",
-                  "coords": [
-                        164.286087,
-                        -20.550155
-                  ]
-            },
-            {
                   "name": "Eden Blue Caledonia",
                   "text": "Un reper în Koumac, cu elemente albastre de apă și grădini.",
                   "category": "landmark",
@@ -1989,15 +1702,6 @@ export const newcaledoniaHistoryV2: POI[] = [
                   "coords": [
                         164.275508,
                         -20.577796
-                  ]
-            },
-            {
-                  "name": "Point de Vue",
-                  "text": "A lookout point offering panoramic views of the Koumac region.",
-                  "category": "natural",
-                  "coords": [
-                        164.286087,
-                        -20.550155
                   ]
             },
             {

@@ -4633,15 +4633,6 @@ export const poiExtraDe4a: POI[] = [
                   ]
             },
             {
-                  "name": "Weser-Strandbad",
-                  "text": "Ein künstlich angelegter Sandstrand an der Weser in Bremerhaven mit Blick auf die vorbeifahrenden Schiffe.",
-                  "category": "recreational",
-                  "coords": [
-                        8.577096,
-                        53.537647
-                  ]
-            },
-            {
                   "name": "BAD 2",
                   "text": "Ein modernes Freizeit- und Hallenbad in Bremerhaven mit verschiedenen Schwimmbecken und Wellnessbereichen.",
                   "category": "family",
@@ -4934,15 +4925,6 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.575402,
                         53.531362
-                  ]
-            },
-            {
-                  "name": "Weser-Strandbad",
-                  "text": "Mesterséges homokos strand a Weser partján Bremerhavenben, kilátással az elhaladó hajókra.",
-                  "category": "recreational",
-                  "coords": [
-                        8.577096,
-                        53.537647
                   ]
             },
             {
@@ -5241,15 +5223,6 @@ export const poiExtraDe4a: POI[] = [
                   ]
             },
             {
-                  "name": "Weser-Strandbad",
-                  "text": "O plajă de nisip amenajată pe malul râului Weser în Bremerhaven, cu vedere la navele care trec.",
-                  "category": "recreational",
-                  "coords": [
-                        8.577096,
-                        53.537647
-                  ]
-            },
-            {
                   "name": "BAD 2",
                   "text": "O piscină modernă de agrement și acoperită din Bremerhaven, cu diverse bazine și zone de wellness.",
                   "category": "family",
@@ -5542,15 +5515,6 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.575402,
                         53.531362
-                  ]
-            },
-            {
-                  "name": "Weser-Strandbad",
-                  "text": "An artificial sandy beach on the Weser in Bremerhaven with views of the passing ships.",
-                  "category": "recreational",
-                  "coords": [
-                        8.577096,
-                        53.537647
                   ]
             },
             {
@@ -6030,16 +5994,6 @@ export const poiExtraDe4a: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Kunsthalle Bremen",
-                  "text": "Eines der bedeutendsten Kunstmuseen Deutschlands mit Werken vom 14. Jahrhundert bis zur zeitgenössischen Kunst.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        8.813528,
-                        53.072889
-                  ]
-            },
-            {
                   "name": "Theater am Goetheplatz",
                   "text": "Das Haupthaus des Bremer Theaters besticht durch seine klassizistische Architektur und ein vielfältiges Programm.",
                   "category": "museum",
@@ -6099,15 +6053,6 @@ export const poiExtraDe4a: POI[] = [
                   ]
             },
             {
-                  "name": "Schulmuseum Bremen",
-                  "text": "Museum zur Geschichte des Schulwesens in Bremen mit historischen Klassenzimmern und Lehrmitteln.",
-                  "category": "museum",
-                  "coords": [
-                        8.8603,
-                        53.066061
-                  ]
-            },
-            {
                   "name": "Paula-Modersohn-Becker-Museum",
                   "text": "Das weltweit erste Museum für eine Malerin, untergebracht in einem expressionistischen Gebäude in der Böttcherstraße.",
                   "category": "museum",
@@ -6132,15 +6077,6 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.809663,
                         53.07533
-                  ]
-            },
-            {
-                  "name": "Bremer Rundfunkmuseum",
-                  "text": "Museum zur Geschichte des Rundfunks mit einer umfangreichen Sammlung historischer Radiogeräte und Studiotechnik.",
-                  "category": "museum",
-                  "coords": [
-                        8.806268,
-                        53.088714
                   ]
             },
             {
@@ -6261,24 +6197,6 @@ export const poiExtraDe4a: POI[] = [
                   ]
             },
             {
-                  "name": "Bräutigam",
-                  "text": "Ein ehemaliger Pulverturm und Teil der historischen Verteidigungsanlagen Bremens.",
-                  "category": "historical",
-                  "coords": [
-                        8.789457,
-                        53.081554
-                  ]
-            },
-            {
-                  "name": "Ölmühle",
-                  "text": "Archäologische Überreste einer historischen Ölmühle, die Einblick in die frühe Industrie bieten.",
-                  "category": "historical",
-                  "coords": [
-                        8.786622,
-                        53.082836
-                  ]
-            },
-            {
                   "name": "Becks Brewery Tour",
                   "text": "Eine geführte Besichtigung der weltberühmten Brauerei mit Einblicken in die Bierherstellung.",
                   "category": "museum",
@@ -6288,39 +6206,12 @@ export const poiExtraDe4a: POI[] = [
                   ]
             },
             {
-                  "name": "Weserstrand",
-                  "text": "Ein künstlich angelegter Sandstrand am Ufer der Weser in Bremen.",
-                  "category": "recreational",
-                  "coords": [
-                        8.823641,
-                        53.067124
-                  ]
-            },
-            {
-                  "name": "Werderseestrand",
-                  "text": "Beliebter Badestrand am Werdersee für Entspannung und Wassersport.",
-                  "category": "recreational",
-                  "coords": [
-                        8.823366,
-                        53.059445
-                  ]
-            },
-            {
                   "name": "Tier- und Landschaftsprojekt Sportgarten",
                   "text": "Ein soziales Projekt, das Sportanlagen mit Tierhaltung und Naturerlebnissen verbindet.",
                   "category": "family",
                   "coords": [
                         8.848138,
                         53.061107
-                  ]
-            },
-            {
-                  "name": "Tiergehege",
-                  "text": "Ein kleines Tiergehege in Bremen, das einheimische Tierarten zeigt.",
-                  "category": "family",
-                  "coords": [
-                        8.826835,
-                        53.096427
                   ]
             },
             {
@@ -6339,15 +6230,6 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.83457,
                         53.067292
-                  ]
-            },
-            {
-                  "name": "Focke-Garten",
-                  "text": "Ein öffentlicher Park auf einer ehemaligen Festungsanlage mit Skulpturen und Blumenbeeten.",
-                  "category": "park",
-                  "coords": [
-                        8.790474,
-                        53.081521
                   ]
             },
             {
@@ -6430,15 +6312,6 @@ export const poiExtraDe4a: POI[] = [
                         8.831099,
                         53.109759
                   ]
-            },
-            {
-                  "name": "Freizeitklinik",
-                  "text": "Die Freizeitklinik in Bremen ist eine Anlage für Erholung und Freizeitgestaltung am Wasser.",
-                  "category": "family",
-                  "coords": [
-                        8.773048,
-                        53.086134
-                  ]
             }
       ],
       "hu": [
@@ -6512,15 +6385,6 @@ export const poiExtraDe4a: POI[] = [
                   ]
             },
             {
-                  "name": "Schulmuseum Bremen",
-                  "text": "Bréma oktatástörténeti múzeuma, korabeli tantermekkel és oktatási segédeszközökkel.",
-                  "category": "museum",
-                  "coords": [
-                        8.8603,
-                        53.066061
-                  ]
-            },
-            {
                   "name": "Paula-Modersohn-Becker-Museum",
                   "text": "A világ első festőnőnek szentelt múzeuma a Bréma Böttcherstraße egyik expresszionista épületében.",
                   "category": "museum",
@@ -6545,15 +6409,6 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.809663,
                         53.07533
-                  ]
-            },
-            {
-                  "name": "Bremer Rundfunkmuseum",
-                  "text": "Rádiómúzeum, amely a műsorszórás történetét, valamint történelmi rádiókészülékeket és stúdiótechnikát mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        8.806268,
-                        53.088714
                   ]
             },
             {
@@ -6674,24 +6529,6 @@ export const poiExtraDe4a: POI[] = [
                   ]
             },
             {
-                  "name": "Bräutigam",
-                  "text": "Egykori lőportorony, amely Bréma történelmi védműveinek része volt.",
-                  "category": "historical",
-                  "coords": [
-                        8.789457,
-                        53.081554
-                  ]
-            },
-            {
-                  "name": "Ölmühle",
-                  "text": "Egy történelmi olajmalom régészeti maradványai, amelyek bepillantást engednek a korai iparba.",
-                  "category": "historical",
-                  "coords": [
-                        8.786622,
-                        53.082836
-                  ]
-            },
-            {
                   "name": "Becks Brewery Tour",
                   "text": "Vezetett látogatás a világhírű sörfőzdében, bepillantással a sörfőzés folyamataiba.",
                   "category": "museum",
@@ -6701,39 +6538,12 @@ export const poiExtraDe4a: POI[] = [
                   ]
             },
             {
-                  "name": "Weserstrand",
-                  "text": "Mesterséges homokos strand a Weser-folyó partján Brémában.",
-                  "category": "recreational",
-                  "coords": [
-                        8.823641,
-                        53.067124
-                  ]
-            },
-            {
-                  "name": "Werderseestrand",
-                  "text": "Népszerű fürdőhely a Werdersee partján, ideális kikapcsolódásra.",
-                  "category": "recreational",
-                  "coords": [
-                        8.823366,
-                        53.059445
-                  ]
-            },
-            {
                   "name": "Tier- und Landschaftsprojekt Sportgarten",
                   "text": "Szociális projekt, amely sportpályákat, állattartást és természetközeli élményeket kínál.",
                   "category": "family",
                   "coords": [
                         8.848138,
                         53.061107
-                  ]
-            },
-            {
-                  "name": "Tiergehege",
-                  "text": "Kisméretű állatkifutó Brémában, amely hazai állatfajokat mutat be.",
-                  "category": "family",
-                  "coords": [
-                        8.826835,
-                        53.096427
                   ]
             },
             {
@@ -6752,15 +6562,6 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.83457,
                         53.067292
-                  ]
-            },
-            {
-                  "name": "Focke-Garten",
-                  "text": "Egykori erődítmény helyén kialakított közpark szobrokkal és virágágyásokkal.",
-                  "category": "park",
-                  "coords": [
-                        8.790474,
-                        53.081521
                   ]
             },
             {
@@ -6843,15 +6644,6 @@ export const poiExtraDe4a: POI[] = [
                         8.831099,
                         53.109759
                   ]
-            },
-            {
-                  "name": "Freizeitklinik",
-                  "text": "A brémai Freizeitklinik egy vízparti pihenő- és szabadidős létesítmény.",
-                  "category": "family",
-                  "coords": [
-                        8.773048,
-                        53.086134
-                  ]
             }
       ],
       "ro": [
@@ -6925,15 +6717,6 @@ export const poiExtraDe4a: POI[] = [
                   ]
             },
             {
-                  "name": "Schulmuseum Bremen",
-                  "text": "Muzeu dedicat istoriei educației din Bremen, prezentând săli de clasă istorice și materiale didactice.",
-                  "category": "museum",
-                  "coords": [
-                        8.8603,
-                        53.066061
-                  ]
-            },
-            {
                   "name": "Paula-Modersohn-Becker-Museum",
                   "text": "Primul muzeu din lume dedicat unei pictorițe, situat într-o clădire expresionistă pe strada Böttcher din Bremen.",
                   "category": "museum",
@@ -6958,15 +6741,6 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.809663,
                         53.07533
-                  ]
-            },
-            {
-                  "name": "Bremer Rundfunkmuseum",
-                  "text": "Muzeu dedicat istoriei radiodifuziunii, cu o colecție vastă de aparate radio istorice și tehnică de studio.",
-                  "category": "museum",
-                  "coords": [
-                        8.806268,
-                        53.088714
                   ]
             },
             {
@@ -7087,24 +6861,6 @@ export const poiExtraDe4a: POI[] = [
                   ]
             },
             {
-                  "name": "Bräutigam",
-                  "text": "Un fost turn de pulbere și parte a vechilor structuri de apărare ale orașului Bremen.",
-                  "category": "historical",
-                  "coords": [
-                        8.789457,
-                        53.081554
-                  ]
-            },
-            {
-                  "name": "Ölmühle",
-                  "text": "Vestigii arheologice ale unei mori de ulei istorice, oferind o privire asupra industriei timpurii.",
-                  "category": "historical",
-                  "coords": [
-                        8.786622,
-                        53.082836
-                  ]
-            },
-            {
                   "name": "Becks Brewery Tour",
                   "text": "Un tur ghidat al faimoasei fabrici de bere, oferind detalii despre procesul de producție.",
                   "category": "museum",
@@ -7114,39 +6870,12 @@ export const poiExtraDe4a: POI[] = [
                   ]
             },
             {
-                  "name": "Weserstrand",
-                  "text": "O plajă cu nisip amenajată pe malul râului Weser din Bremen.",
-                  "category": "recreational",
-                  "coords": [
-                        8.823641,
-                        53.067124
-                  ]
-            },
-            {
-                  "name": "Werderseestrand",
-                  "text": "O plajă populară pe malul lacului Werdersee, ideală pentru înot și relaxare.",
-                  "category": "recreational",
-                  "coords": [
-                        8.823366,
-                        53.059445
-                  ]
-            },
-            {
                   "name": "Tier- und Landschaftsprojekt Sportgarten",
                   "text": "Un proiect social care îmbină facilitățile sportive cu îngrijirea animalelor și natura.",
                   "category": "family",
                   "coords": [
                         8.848138,
                         53.061107
-                  ]
-            },
-            {
-                  "name": "Tiergehege",
-                  "text": "O mică incintă pentru animale din Bremen, care adăpostește specii locale.",
-                  "category": "family",
-                  "coords": [
-                        8.826835,
-                        53.096427
                   ]
             },
             {
@@ -7165,15 +6894,6 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.83457,
                         53.067292
-                  ]
-            },
-            {
-                  "name": "Focke-Garten",
-                  "text": "Un parc public situat pe o fostă fortificație, cu sculpturi și straturi de flori.",
-                  "category": "park",
-                  "coords": [
-                        8.790474,
-                        53.081521
                   ]
             },
             {
@@ -7256,28 +6976,9 @@ export const poiExtraDe4a: POI[] = [
                         8.831099,
                         53.109759
                   ]
-            },
-            {
-                  "name": "Freizeitklinik",
-                  "text": "Freizeitklinik din Bremen este o unitate pentru recreere și petrecere a timpului liber la apă.",
-                  "category": "family",
-                  "coords": [
-                        8.773048,
-                        53.086134
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Kunsthalle Bremen",
-                  "text": "One of Germany's most important art museums, housing masterpieces from the 14th century to contemporary works.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        8.813528,
-                        53.072889
-                  ]
-            },
             {
                   "name": "Theatre at Goetheplatz",
                   "text": "The main venue of the Bremen Theatre, featuring neoclassical architecture and a wide range of performances.",
@@ -7338,15 +7039,6 @@ export const poiExtraDe4a: POI[] = [
                   ]
             },
             {
-                  "name": "Schulmuseum Bremen",
-                  "text": "Museum dedicated to the history of schooling in Bremen, featuring historic classrooms and teaching aids.",
-                  "category": "museum",
-                  "coords": [
-                        8.8603,
-                        53.066061
-                  ]
-            },
-            {
                   "name": "Paula-Modersohn-Becker-Museum",
                   "text": "The world's first museum dedicated to a female painter, located in an Expressionist building on Böttcherstraße.",
                   "category": "museum",
@@ -7371,15 +7063,6 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.809663,
                         53.07533
-                  ]
-            },
-            {
-                  "name": "Bremer Rundfunkmuseum",
-                  "text": "Museum dedicated to the history of broadcasting with an extensive collection of historical radios and studio equipment.",
-                  "category": "museum",
-                  "coords": [
-                        8.806268,
-                        53.088714
                   ]
             },
             {
@@ -7500,24 +7183,6 @@ export const poiExtraDe4a: POI[] = [
                   ]
             },
             {
-                  "name": "Bräutigam",
-                  "text": "A former powder tower and part of Bremen's historic defensive structures.",
-                  "category": "historical",
-                  "coords": [
-                        8.789457,
-                        53.081554
-                  ]
-            },
-            {
-                  "name": "Ölmühle",
-                  "text": "Archaeological remains of a historic oil mill providing insight into early industry.",
-                  "category": "historical",
-                  "coords": [
-                        8.786622,
-                        53.082836
-                  ]
-            },
-            {
                   "name": "Becks Brewery Tour",
                   "text": "A guided tour of the world-famous brewery offering insights into the beer-making process.",
                   "category": "museum",
@@ -7527,39 +7192,12 @@ export const poiExtraDe4a: POI[] = [
                   ]
             },
             {
-                  "name": "Weserstrand",
-                  "text": "An artificial sandy beach located on the banks of the Weser River in Bremen.",
-                  "category": "recreational",
-                  "coords": [
-                        8.823641,
-                        53.067124
-                  ]
-            },
-            {
-                  "name": "Werderseestrand",
-                  "text": "A popular swimming beach on the shores of Werdersee lake in Bremen.",
-                  "category": "recreational",
-                  "coords": [
-                        8.823366,
-                        53.059445
-                  ]
-            },
-            {
                   "name": "Tier- und Landschaftsprojekt Sportgarten",
                   "text": "A community project combining sports facilities with animal care and nature experiences.",
                   "category": "family",
                   "coords": [
                         8.848138,
                         53.061107
-                  ]
-            },
-            {
-                  "name": "Tiergehege",
-                  "text": "A small animal enclosure in Bremen showcasing local species.",
-                  "category": "family",
-                  "coords": [
-                        8.826835,
-                        53.096427
                   ]
             },
             {
@@ -7578,15 +7216,6 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.83457,
                         53.067292
-                  ]
-            },
-            {
-                  "name": "Focke-Garten",
-                  "text": "A public park situated on a former fortification site with sculptures and flower beds.",
-                  "category": "park",
-                  "coords": [
-                        8.790474,
-                        53.081521
                   ]
             },
             {
@@ -7668,15 +7297,6 @@ export const poiExtraDe4a: POI[] = [
                   "coords": [
                         8.831099,
                         53.109759
-                  ]
-            },
-            {
-                  "name": "Freizeitklinik",
-                  "text": "The Freizeitklinik in Das Viertel Bremen is a facility for recreation and leisure by the water.",
-                  "category": "family",
-                  "coords": [
-                        8.773048,
-                        53.086134
                   ]
             }
       ]

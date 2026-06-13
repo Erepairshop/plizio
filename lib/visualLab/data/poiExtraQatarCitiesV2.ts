@@ -149,24 +149,6 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qa-al-rayyan-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Arabisches Museum für moderne Kunst",
-                  "text": "Mathaf: Arab Museum of Modern Art zeigt moderne arabische Kunst in einem ehemaligen Schulgebäude in Al Rayyan.",
-                  "category": "museum",
-                  "coords": [
-                        51.419884,
-                        25.310619
-                  ]
-            },
-            {
-                  "name": "Aspire Park",
-                  "text": "Großer Park mit der Aspire Dome-Sportanlage.",
-                  "category": "park",
-                  "coords": [
-                        51.435989,
-                        25.261663
-                  ]
-            },
-            {
                   "name": "Hin",
                   "text": "Wahrzeichenhügel in der Wüstenlandschaft von Al Rayyan.",
                   "category": "landmark",
@@ -177,24 +159,6 @@ export const poiExtraQatarCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Mathaf: Arab Museum of Modern Art",
-                  "text": "A Mathaf: Arab Modern Művészeti Múzeum modern arab művészetet mutat be egy egykori iskolaépületben Al Rayyanban.",
-                  "category": "museum",
-                  "coords": [
-                        51.419884,
-                        25.310619
-                  ]
-            },
-            {
-                  "name": "Aspire Park",
-                  "text": "Nagy park az Aspire Dome sportkomplexummal.",
-                  "category": "park",
-                  "coords": [
-                        51.435989,
-                        25.261663
-                  ]
-            },
             {
                   "name": "Hin",
                   "text": "Tájékozódási pont domb Al Rayyan sivatagi táján.",
@@ -207,24 +171,6 @@ export const poiExtraQatarCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Mathaf: Arab Museum of Modern Art",
-                  "text": "Mathaf: Muzeul Arab de Artă Modernă expune artă arabă modernă într-o fostă clădire de școală în Al Rayyan.",
-                  "category": "museum",
-                  "coords": [
-                        51.419884,
-                        25.310619
-                  ]
-            },
-            {
-                  "name": "Aspire Park",
-                  "text": "Parcul mare cu complexul sportiv Aspire Dome.",
-                  "category": "park",
-                  "coords": [
-                        51.435989,
-                        25.261663
-                  ]
-            },
-            {
                   "name": "Hin",
                   "text": "Deal emblematic în peisajul deșertic al Al Rayyan.",
                   "category": "landmark",
@@ -235,24 +181,6 @@ export const poiExtraQatarCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Mathaf: Arab Museum of Modern Art",
-                  "text": "Mathaf: Arab Museum of Modern Art displays modern Arab art in a former school building in Al Rayyan.",
-                  "category": "museum",
-                  "coords": [
-                        51.419884,
-                        25.310619
-                  ]
-            },
-            {
-                  "name": "Aspire Park",
-                  "text": "Large park home to the Aspire Dome sports complex.",
-                  "category": "park",
-                  "coords": [
-                        51.435989,
-                        25.261663
-                  ]
-            },
             {
                   "name": "Hin",
                   "text": "Landmark hill in the desert landscape of Al Rayyan.",
@@ -1289,50 +1217,10 @@ export const poiExtraQatarCitiesV2: POI[] = [
   },
   {
     id: "qa-umm-salal-mohammed-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Barzan Towers",
-                  "text": "Barzan Towers ist eine bekannte Attraktion in Umm Salal Mohammed.",
-                  "category": "landmark",
-                  "coords": [
-                        51.413188,
-                        25.418085
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Barzan Towers",
-                  "text": "A(z) Barzan Towers egy nevezetes látványosság Umm Salal Mohammed területén.",
-                  "category": "landmark",
-                  "coords": [
-                        51.413188,
-                        25.418085
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Barzan Towers",
-                  "text": "Barzan Towers este o atracție notabilă situată în Umm Salal Mohammed.",
-                  "category": "landmark",
-                  "coords": [
-                        51.413188,
-                        25.418085
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Barzan Towers",
-                  "text": "Barzan Towers is a notable attraction located in Umm Salal Mohammed.",
-                  "category": "landmark",
-                  "coords": [
-                        51.413188,
-                        25.418085
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "QA-US",
@@ -1913,50 +1801,10 @@ export const poiExtraQatarCitiesV2: POI[] = [
   },
   {
     id: "qa-al-wukair-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Ajub wakhair",
-                  "text": "Wahrzeichen in Al Wukair, möglicherweise ein altes Gebäude.",
-                  "category": "landmark",
-                  "coords": [
-                        51.541778,
-                        25.176373
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Ajub wakhair",
-                  "text": "Tájékozódási pont Al Wukairban, valószínűleg egy régi épület.",
-                  "category": "landmark",
-                  "coords": [
-                        51.541778,
-                        25.176373
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Ajub wakhair",
-                  "text": "Reper în Al Wukair, posibil o clădire veche.",
-                  "category": "landmark",
-                  "coords": [
-                        51.541778,
-                        25.176373
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ajub wakhair",
-                  "text": "Landmark in Al Wukair, possibly an old building.",
-                  "category": "landmark",
-                  "coords": [
-                        51.541778,
-                        25.176373
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "QA-WA",
@@ -2775,15 +2623,6 @@ export const poiExtraQatarCitiesV2: POI[] = [
     id: "qa-muaither-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Doha Zoo",
-                  "text": "Tierpark in Muaither mit verschiedenen Tierarten.",
-                  "category": "family",
-                  "coords": [
-                        51.435045,
-                        25.247316
-                  ]
-            },
-            {
                   "name": "Aspire Park",
                   "text": "Park in Muaither mit Grünflächen und Freizeitmöglichkeiten.",
                   "category": "park",
@@ -2791,27 +2630,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
                         51.435989,
                         25.261663
                   ]
-            },
-            {
-                  "name": "Hin",
-                  "text": "Wahrzeichenhügel in der Umgebung von Muaither.",
-                  "category": "landmark",
-                  "coords": [
-                        51.419778,
-                        25.281639
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Doha Zoo",
-                  "text": "Állatkert Muaitherben, sokféle állattal.",
-                  "category": "family",
-                  "coords": [
-                        51.435045,
-                        25.247316
-                  ]
-            },
             {
                   "name": "Aspire Park",
                   "text": "Park Muaitherben zöld területekkel és szabadidős lehetőségekkel.",
@@ -2820,27 +2641,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
                         51.435989,
                         25.261663
                   ]
-            },
-            {
-                  "name": "Hin",
-                  "text": "Tájékozódási pont domb Muaither környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        51.419778,
-                        25.281639
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Doha Zoo",
-                  "text": "Grădină zoologică în Muaither cu diverse specii de animale.",
-                  "category": "family",
-                  "coords": [
-                        51.435045,
-                        25.247316
-                  ]
-            },
             {
                   "name": "Aspire Park",
                   "text": "Parcul din Muaither cu spații verzi și facilități de recreere.",
@@ -2849,27 +2652,9 @@ export const poiExtraQatarCitiesV2: POI[] = [
                         51.435989,
                         25.261663
                   ]
-            },
-            {
-                  "name": "Hin",
-                  "text": "Deal emblematic în zona Muaither.",
-                  "category": "landmark",
-                  "coords": [
-                        51.419778,
-                        25.281639
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Doha Zoo",
-                  "text": "Zoo in Muaither featuring a variety of animal species.",
-                  "category": "family",
-                  "coords": [
-                        51.435045,
-                        25.247316
-                  ]
-            },
             {
                   "name": "Aspire Park",
                   "text": "Park in Muaither with green spaces and recreational facilities.",
@@ -2877,15 +2662,6 @@ export const poiExtraQatarCitiesV2: POI[] = [
                   "coords": [
                         51.435989,
                         25.261663
-                  ]
-            },
-            {
-                  "name": "Hin",
-                  "text": "Landmark hill in the Muaither area.",
-                  "category": "landmark",
-                  "coords": [
-                        51.419778,
-                        25.281639
                   ]
             }
       ]

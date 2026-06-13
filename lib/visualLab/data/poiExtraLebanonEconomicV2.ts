@@ -315,15 +315,6 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     id: "port-of-tripoli-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Löwenturm",
-                  "text": "Eine mamelukische Küstenfestung aus dem 14. bis 15. Jahrhundert, die den antiken Hafen von Tripolis bewacht.",
-                  "category": "castle",
-                  "coords": [
-                        35.830624,
-                        34.449886
-                  ]
-            },
-            {
                   "name": "Al Salam",
                   "text": "Eine islamische Moschee, die ein spirituelles Zentrum für die muslimische Gemeinschaft in der Nähe des Hafens von Tripolis bietet.",
                   "category": "landmark",
@@ -352,15 +343,6 @@ export const poiExtraLebanonEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Lion Tower",
-                  "text": "Egy 14-15. századi mameluk part menti erőd, amely Tripoli ősi kikötőjét védi.",
-                  "category": "castle",
-                  "coords": [
-                        35.830624,
-                        34.449886
-                  ]
-            },
             {
                   "name": "Al Salam",
                   "text": "A tripoli kikötő közelében lévő muszlim közösség szellemi központjaként szolgáló iszlám mecset.",
@@ -391,15 +373,6 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Lion Tower",
-                  "text": "O fortăreață de coastă mamelucă din secolele XIV-XV, care păzește portul antic din Tripoli.",
-                  "category": "castle",
-                  "coords": [
-                        35.830624,
-                        34.449886
-                  ]
-            },
-            {
                   "name": "Al Salam",
                   "text": "O moschee islamică care oferă un centru spiritual pentru comunitatea musulmană din apropierea portului Tripoli.",
                   "category": "landmark",
@@ -428,15 +401,6 @@ export const poiExtraLebanonEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Lion Tower",
-                  "text": "A 14th-to-15th-century Mamluk coastal fortress guarding the ancient port of Tripoli.",
-                  "category": "castle",
-                  "coords": [
-                        35.830624,
-                        34.449886
-                  ]
-            },
             {
                   "name": "Al Salam",
                   "text": "An Islamic mosque providing a spiritual center for the Muslim community near the Tripoli port.",
@@ -1074,15 +1038,6 @@ export const poiExtraLebanonEconomicV2: POI[] = [
     id: "zouk-power-plant-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Souk du Zouk",
-                  "text": "Ein charmanter historischer Marktplatz in Zouk Mikael mit traditioneller Architektur und Kunsthandwerkswerkstätten.",
-                  "category": "landmark",
-                  "coords": [
-                        35.625863,
-                        33.968297
-                  ]
-            },
-            {
                   "name": "Théâtre George V",
                   "text": "Ein modernes Theatergebäude, in dem verschiedene Bühnenstücke, Musikaufführungen und kulturelle Veranstaltungen stattfinden.",
                   "category": "cultural",
@@ -1183,15 +1138,6 @@ export const poiExtraLebanonEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Souk du Zouk",
-                  "text": "Zouk Mikael bájos történelmi piaca, amely hagyományos építészetéről és kézműves műhelyeiről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        35.625863,
-                        33.968297
-                  ]
-            },
             {
                   "name": "Théâtre George V",
                   "text": "Modern színházi helyszín, amely számos színdarabnak, zenei előadásnak és kulturális eseménynek ad otthont.",
@@ -1294,15 +1240,6 @@ export const poiExtraLebanonEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Souk du Zouk",
-                  "text": "O piață istorică fermecătoare în Zouk Mikael, caracterizată prin arhitectură tradițională și ateliere de meșteșugari.",
-                  "category": "landmark",
-                  "coords": [
-                        35.625863,
-                        33.968297
-                  ]
-            },
-            {
                   "name": "Théâtre George V",
                   "text": "O sală de teatru modernă care găzduiește o varietate de piese de teatru, spectacole muzicale și evenimente culturale.",
                   "category": "cultural",
@@ -1403,15 +1340,6 @@ export const poiExtraLebanonEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Souk du Zouk",
-                  "text": "A charming historical marketplace in Zouk Mikael featuring traditional architecture and artisan workshops.",
-                  "category": "landmark",
-                  "coords": [
-                        35.625863,
-                        33.968297
-                  ]
-            },
             {
                   "name": "Georges 5 theater",
                   "text": "A modern theater venue hosting a variety of stage plays, musical performances, and cultural events.",
@@ -3540,42 +3468,6 @@ export const poiExtraLebanonEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Koa",
-                  "text": "Ein moderner Beachclub an der Küste von Jounieh mit einem Meerwasserpool und direktem Zugang zum Mittelmeer.",
-                  "category": "recreational",
-                  "coords": [
-                        35.609674,
-                        33.975259
-                  ]
-            },
-            {
-                  "name": "Mocean",
-                  "text": "Ein lebhaftes Strandresort in Jounieh, das für seine Lounge direkt am Wasser und seine sommerlichen Abendveranstaltungen bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        35.610528,
-                        33.976308
-                  ]
-            },
-            {
-                  "name": "Samaya Beach Resort",
-                  "text": "Ein weitläufiger Luxuskomplex in Kaslik mit mehreren Pools und einem privaten Zugang zum Sandstrand.",
-                  "category": "recreational",
-                  "coords": [
-                        35.610255,
-                        33.977227
-                  ]
-            },
-            {
-                  "name": "Solemar",
-                  "text": "Ein Küstenresort, das einen weiten Blick auf das Mittelmeer und die Skyline von Jounieh bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        35.611868,
-                        33.978817
-                  ]
-            },
-            {
                   "name": "Chapelle Saint Éphrem",
                   "text": "Eine maronitische Kapelle in Jounieh, die als spirituelles Zentrum für die christliche Gemeinde des Viertels dient.",
                   "category": "landmark",
@@ -3602,42 +3494,6 @@ export const poiExtraLebanonEconomicV2: POI[] = [
                   "coords": [
                         35.619388,
                         33.981614
-                  ]
-            },
-            {
-                  "name": "Koa",
-                  "text": "Egy modern tengerparti klub Jounieh partjainál, sós vizes medencével és közvetlen kijárattal a Földközi-tengerhez.",
-                  "category": "recreational",
-                  "coords": [
-                        35.609674,
-                        33.975259
-                  ]
-            },
-            {
-                  "name": "Mocean",
-                  "text": "Egy élénk tengerparti üdülőhely Jouniehben, amely a vízparti társalgójáról és nyári esti rendezvényeiről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        35.610528,
-                        33.976308
-                  ]
-            },
-            {
-                  "name": "Samaya Beach Resort",
-                  "text": "Egy kiterjedt luxuskomplexum Kaslikban, több medencével és privát kijárattal a homokos tengerpartra.",
-                  "category": "recreational",
-                  "coords": [
-                        35.610255,
-                        33.977227
-                  ]
-            },
-            {
-                  "name": "Solemar",
-                  "text": "Egy parti üdülőhely, amely széles kilátást nyújt a Földközi-tengerre és Jounieh látképére.",
-                  "category": "recreational",
-                  "coords": [
-                        35.611868,
-                        33.978817
                   ]
             },
             {
@@ -3670,42 +3526,6 @@ export const poiExtraLebanonEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Koa",
-                  "text": "Un club de plajă modern pe coasta Jounieh, dotat cu o piscină cu apă sărată și acces direct la Marea Mediterană.",
-                  "category": "recreational",
-                  "coords": [
-                        35.609674,
-                        33.975259
-                  ]
-            },
-            {
-                  "name": "Mocean",
-                  "text": "O stațiune de plajă plină de viață în Jounieh, cunoscută pentru lounge-ul său de pe malul apei și evenimentele de seară din timpul verii.",
-                  "category": "recreational",
-                  "coords": [
-                        35.610528,
-                        33.976308
-                  ]
-            },
-            {
-                  "name": "Samaya Beach Resort",
-                  "text": "Un complex de lux întins în Kaslik, cu mai multe piscine și acces privat la plaja cu nisip.",
-                  "category": "recreational",
-                  "coords": [
-                        35.610255,
-                        33.977227
-                  ]
-            },
-            {
-                  "name": "Solemar",
-                  "text": "O stațiune de coastă care oferă o vedere panoramică asupra Marii Mediterane și a orizontului orașului Jounieh.",
-                  "category": "recreational",
-                  "coords": [
-                        35.611868,
-                        33.978817
-                  ]
-            },
-            {
                   "name": "Chapelle Saint Éphrem",
                   "text": "O chapelă maronită din Jounieh, care servește ca centru spiritual pentru comunitatea creștină din cartier.",
                   "category": "landmark",
@@ -3732,42 +3552,6 @@ export const poiExtraLebanonEconomicV2: POI[] = [
                   "coords": [
                         35.619388,
                         33.981614
-                  ]
-            },
-            {
-                  "name": "Koa",
-                  "text": "A modern beach club on the Jounieh coast featuring a saltwater pool and direct access to the Mediterranean.",
-                  "category": "recreational",
-                  "coords": [
-                        35.609674,
-                        33.975259
-                  ]
-            },
-            {
-                  "name": "Mocean",
-                  "text": "A vibrant beach resort in Jounieh known for its waterfront lounge and summer evening events.",
-                  "category": "recreational",
-                  "coords": [
-                        35.610528,
-                        33.976308
-                  ]
-            },
-            {
-                  "name": "Samaya Beach Resort",
-                  "text": "An extensive luxury complex in Kaslik featuring multiple pools and private access to the sandy shore.",
-                  "category": "recreational",
-                  "coords": [
-                        35.610255,
-                        33.977227
-                  ]
-            },
-            {
-                  "name": "Solemar",
-                  "text": "A coastal resort offering wide views of the Mediterranean and the Jounieh skyline.",
-                  "category": "recreational",
-                  "coords": [
-                        35.611868,
-                        33.978817
                   ]
             },
             {

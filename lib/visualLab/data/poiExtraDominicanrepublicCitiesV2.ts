@@ -833,15 +833,6 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
                         -71.051452,
                         19.515445
                   ]
-            },
-            {
-                  "name": "Reserva Forestal Río Cana",
-                  "text": "Waldschutzgebiet entlang des Río Cana in Mao.",
-                  "category": "natural",
-                  "coords": [
-                        -71.241824,
-                        19.571971
-                  ]
             }
       ],
       "hu": [
@@ -861,15 +852,6 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
                   "coords": [
                         -71.051452,
                         19.515445
-                  ]
-            },
-            {
-                  "name": "Reserva Forestal Río Cana",
-                  "text": "Erdőrezervátum a Río Cana mentén Maóban.",
-                  "category": "natural",
-                  "coords": [
-                        -71.241824,
-                        19.571971
                   ]
             }
       ],
@@ -891,15 +873,6 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
                         -71.051452,
                         19.515445
                   ]
-            },
-            {
-                  "name": "Reserva Forestal Río Cana",
-                  "text": "Rezervație forestieră de-a lungul râului Río Cana în Mao.",
-                  "category": "natural",
-                  "coords": [
-                        -71.241824,
-                        19.571971
-                  ]
             }
       ],
       "en": [
@@ -919,15 +892,6 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
                   "coords": [
                         -71.051452,
                         19.515445
-                  ]
-            },
-            {
-                  "name": "Reserva Forestal Río Cana",
-                  "text": "Forest reserve along the Río Cana in Mao.",
-                  "category": "natural",
-                  "coords": [
-                        -71.241824,
-                        19.571971
                   ]
             }
       ]

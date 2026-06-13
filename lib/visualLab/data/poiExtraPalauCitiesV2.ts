@@ -15,48 +15,12 @@ export const palauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Etpison Museum",
-                  "text": "Das Etpison Museum zeigt palauische Kunst, Fotografien und Artefakte in einem modernen Gebäude in Koror.",
-                  "category": "museum",
-                  "coords": [
-                        134.483163,
-                        7.345284
-                  ]
-            },
-            {
                   "name": "Palau International Coral Reef Centre",
                   "text": "Meeresforschungszentrum mit Aquarium und Korallenausstellungen in Koror.",
                   "category": "family",
                   "coords": [
                         134.466229,
                         7.33864
-                  ]
-            },
-            {
-                  "name": "Ngerunguikl",
-                  "text": "Ngerunguikl ist eine Kalksteininsel in der Rock Islands-Lagune von Palau.",
-                  "category": "natural",
-                  "coords": [
-                        134.498354,
-                        7.33885
-                  ]
-            },
-            {
-                  "name": "Tibedul",
-                  "text": "Tibedul ist eine bewachsene Kalksteininsel in den Rock Islands von Palau.",
-                  "category": "natural",
-                  "coords": [
-                        134.49762,
-                        7.344208
-                  ]
-            },
-            {
-                  "name": "Tuker",
-                  "text": "Tuker ist eine kleine unbewohnte Insel im Palau-Archipel.",
-                  "category": "natural",
-                  "coords": [
-                        134.490894,
-                        7.344742
                   ]
             },
             {
@@ -78,24 +42,6 @@ export const palauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Swimming pool ruins",
-                  "text": "Ruinen eines japanischen Schwimmbeckens aus der Besatzungszeit in Koror.",
-                  "category": "historical",
-                  "coords": [
-                        134.47991,
-                        7.352268
-                  ]
-            },
-            {
-                  "name": "Mother and Child Stone",
-                  "text": "Natürliche Felsformation, die einer Mutter mit Kind ähnelt, an der Küste von Koror.",
-                  "category": "landmark",
-                  "coords": [
-                        134.503484,
-                        7.338138
-                  ]
-            },
-            {
                   "name": "PillBox",
                   "text": "Japanischer Bunker aus dem Zweiten Weltkrieg mit Blick auf das Meer in Koror.",
                   "category": "historical",
@@ -112,24 +58,6 @@ export const palauCitiesV2: POI[] = [
                         134.468148,
                         7.343346
                   ]
-            },
-            {
-                  "name": "Nan'yō Shinto Shrine",
-                  "text": "Der Nan'yō Shinto-Schrein ist ein von den Japanern in den 1930er Jahren erbauter Shinto-Schrein, heute eine historische Stätte in Koror.",
-                  "category": "religious",
-                  "coords": [
-                        134.496873,
-                        7.339665
-                  ]
-            },
-            {
-                  "name": "Sacred Heart Church",
-                  "text": "Die Sacred Heart Church ist die wichtigste römisch-katholische Kirche in Koror mit modernem Design.",
-                  "category": "religious",
-                  "coords": [
-                        134.484952,
-                        7.345218
-                  ]
             }
       ],
       "hu": [
@@ -143,48 +71,12 @@ export const palauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Etpison Museum",
-                  "text": "Az Etpison Múzeum palaui művészetet, fényképeket és tárgyakat mutat be egy modern épületben Kororban.",
-                  "category": "museum",
-                  "coords": [
-                        134.483163,
-                        7.345284
-                  ]
-            },
-            {
                   "name": "Palau International Coral Reef Centre",
                   "text": "Tengerkutató központ akváriummal és korallkiállításokkal Kororban.",
                   "category": "family",
                   "coords": [
                         134.466229,
                         7.33864
-                  ]
-            },
-            {
-                  "name": "Ngerunguikl",
-                  "text": "A Ngerunguikl egy mészkő sziget a Palaui Rock Islands lagúnában.",
-                  "category": "natural",
-                  "coords": [
-                        134.498354,
-                        7.33885
-                  ]
-            },
-            {
-                  "name": "Tibedul",
-                  "text": "A Tibedul egy növényzettel borított mészkő sziget a Palaui Rock Islandsben.",
-                  "category": "natural",
-                  "coords": [
-                        134.49762,
-                        7.344208
-                  ]
-            },
-            {
-                  "name": "Tuker",
-                  "text": "A Tuker egy kis lakatlan sziget a Palau-szigetvilágban.",
-                  "category": "natural",
-                  "coords": [
-                        134.490894,
-                        7.344742
                   ]
             },
             {
@@ -206,24 +98,6 @@ export const palauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Swimming pool ruins",
-                  "text": "Japán kori úszómedence romjai Kororban.",
-                  "category": "historical",
-                  "coords": [
-                        134.47991,
-                        7.352268
-                  ]
-            },
-            {
-                  "name": "Mother and Child Stone",
-                  "text": "Természetes sziklaalakzat, amely egy anyát és gyermeket formáz, Koror partjainál.",
-                  "category": "landmark",
-                  "coords": [
-                        134.503484,
-                        7.338138
-                  ]
-            },
-            {
                   "name": "PillBox",
                   "text": "Japán második világháborús bunker, amely a tengerre néz Kororban.",
                   "category": "historical",
@@ -240,24 +114,6 @@ export const palauCitiesV2: POI[] = [
                         134.468148,
                         7.343346
                   ]
-            },
-            {
-                  "name": "Nan'yō Shinto Shrine",
-                  "text": "A Nan'yō sintó szentély egy 1930-as években japánok által épített sintó szentély, ma történelmi helyszín Kororban.",
-                  "category": "religious",
-                  "coords": [
-                        134.496873,
-                        7.339665
-                  ]
-            },
-            {
-                  "name": "Sacred Heart Church",
-                  "text": "A Sacred Heart Church a fő római katolikus templom Kororban, modern stílusban.",
-                  "category": "religious",
-                  "coords": [
-                        134.484952,
-                        7.345218
-                  ]
             }
       ],
       "ro": [
@@ -271,48 +127,12 @@ export const palauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Etpison Museum",
-                  "text": "Muzeul Etpison expune artă, fotografii și artefacte palauane într-o clădire modernă din Koror.",
-                  "category": "museum",
-                  "coords": [
-                        134.483163,
-                        7.345284
-                  ]
-            },
-            {
                   "name": "Palau International Coral Reef Centre",
                   "text": "Centru de cercetare marină cu acvariu și expoziții de corali în Koror.",
                   "category": "family",
                   "coords": [
                         134.466229,
                         7.33864
-                  ]
-            },
-            {
-                  "name": "Ngerunguikl",
-                  "text": "Ngerunguikl este o insulă de calcar în laguna Rock Islands din Palau.",
-                  "category": "natural",
-                  "coords": [
-                        134.498354,
-                        7.33885
-                  ]
-            },
-            {
-                  "name": "Tibedul",
-                  "text": "Tibedul este o insulă de calcar acoperită de vegetație în Rock Islands din Palau.",
-                  "category": "natural",
-                  "coords": [
-                        134.49762,
-                        7.344208
-                  ]
-            },
-            {
-                  "name": "Tuker",
-                  "text": "Tuker este o insuliță nelocuită în arhipelagul Palau.",
-                  "category": "natural",
-                  "coords": [
-                        134.490894,
-                        7.344742
                   ]
             },
             {
@@ -334,24 +154,6 @@ export const palauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Swimming pool ruins",
-                  "text": "Ruinele unui bazin de înot din perioada japoneză în Koror.",
-                  "category": "historical",
-                  "coords": [
-                        134.47991,
-                        7.352268
-                  ]
-            },
-            {
-                  "name": "Mother and Child Stone",
-                  "text": "Formațiune naturală de stâncă asemănătoare unei mame cu copil, pe coasta Kororului.",
-                  "category": "landmark",
-                  "coords": [
-                        134.503484,
-                        7.338138
-                  ]
-            },
-            {
                   "name": "PillBox",
                   "text": "Buncăr japonez din al Doilea Război Mondial cu vedere la mare în Koror.",
                   "category": "historical",
@@ -368,24 +170,6 @@ export const palauCitiesV2: POI[] = [
                         134.468148,
                         7.343346
                   ]
-            },
-            {
-                  "name": "Nan'yō Shinto Shrine",
-                  "text": "Sanctuarul șintoist Nan'yō este un altar șintoist construit de japonezi în anii 1930, acum un sit istoric în Koror.",
-                  "category": "religious",
-                  "coords": [
-                        134.496873,
-                        7.339665
-                  ]
-            },
-            {
-                  "name": "Sacred Heart Church",
-                  "text": "Biserica Sacred Heart este principala biserică romano-catolică din Koror, cu un design modern.",
-                  "category": "religious",
-                  "coords": [
-                        134.484952,
-                        7.345218
-                  ]
             }
       ],
       "en": [
@@ -399,48 +183,12 @@ export const palauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Etpison Museum",
-                  "text": "Etpison Museum showcases Palauan art, photographs, and artifacts in a modern building in Koror.",
-                  "category": "museum",
-                  "coords": [
-                        134.483163,
-                        7.345284
-                  ]
-            },
-            {
                   "name": "Palau International Coral Reef Centre",
                   "text": "Marine research centre with aquarium and coral exhibits in Koror.",
                   "category": "family",
                   "coords": [
                         134.466229,
                         7.33864
-                  ]
-            },
-            {
-                  "name": "Ngerunguikl",
-                  "text": "Ngerunguikl is a limestone island in the Rock Islands lagoon of Palau.",
-                  "category": "natural",
-                  "coords": [
-                        134.498354,
-                        7.33885
-                  ]
-            },
-            {
-                  "name": "Tibedul",
-                  "text": "Tibedul is a vegetated limestone islet in the Rock Islands of Palau.",
-                  "category": "natural",
-                  "coords": [
-                        134.49762,
-                        7.344208
-                  ]
-            },
-            {
-                  "name": "Tuker",
-                  "text": "Tuker is a small uninhabited islet in the Palau archipelago.",
-                  "category": "natural",
-                  "coords": [
-                        134.490894,
-                        7.344742
                   ]
             },
             {
@@ -462,24 +210,6 @@ export const palauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Swimming pool ruins",
-                  "text": "Ruins of a Japanese-era swimming pool in Koror.",
-                  "category": "historical",
-                  "coords": [
-                        134.47991,
-                        7.352268
-                  ]
-            },
-            {
-                  "name": "Mother and Child Stone",
-                  "text": "Natural rock formation resembling a mother and child, on the coast of Koror.",
-                  "category": "landmark",
-                  "coords": [
-                        134.503484,
-                        7.338138
-                  ]
-            },
-            {
                   "name": "PillBox",
                   "text": "Japanese WWII pillbox bunker overlooking the ocean in Koror.",
                   "category": "historical",
@@ -495,24 +225,6 @@ export const palauCitiesV2: POI[] = [
                   "coords": [
                         134.468148,
                         7.343346
-                  ]
-            },
-            {
-                  "name": "Nan'yō Shinto Shrine",
-                  "text": "Nan'yō Shinto Shrine is a Shinto shrine built by the Japanese in the 1930s, now a historical site in Koror.",
-                  "category": "religious",
-                  "coords": [
-                        134.496873,
-                        7.339665
-                  ]
-            },
-            {
-                  "name": "Sacred Heart Church",
-                  "text": "Sacred Heart Church is the main Roman Catholic church in Koror, with a modern design.",
-                  "category": "religious",
-                  "coords": [
-                        134.484952,
-                        7.345218
                   ]
             }
       ]
@@ -562,122 +274,10 @@ export const palauCitiesV2: POI[] = [
   },
   {
     id: "palau-ngerulmud-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Tochobei",
-                  "text": "Der Tochobei ist ein markanter Hügel nahe der Hauptstadt Ngerulmud in Palau.",
-                  "category": "natural",
-                  "coords": [
-                        134.628634,
-                        7.494979
-                  ]
-            },
-            {
-                  "name": "Meteu 'L Klechem",
-                  "text": "Prähistorische Steinplattform und Monolithen in Ngerulmud, denkmalgeschützt.",
-                  "category": "historical",
-                  "coords": [
-                        134.636194,
-                        7.49243
-                  ]
-            },
-            {
-                  "name": "Melekeok Bai",
-                  "text": "Traditionelles palauisches Versammlungshaus mit kunstvollen Holzschnitzereien in Ngerulmud.",
-                  "category": "landmark",
-                  "coords": [
-                        134.633317,
-                        7.494282
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Tochobei",
-                  "text": "A Tochobei egy kiemelkedő domb a főváros, Ngerulmud közelében Palau-szigetén.",
-                  "category": "natural",
-                  "coords": [
-                        134.628634,
-                        7.494979
-                  ]
-            },
-            {
-                  "name": "Meteu 'L Klechem",
-                  "text": "Őskori kőplatform és monolitok Ngerulmudban, műemlék.",
-                  "category": "historical",
-                  "coords": [
-                        134.636194,
-                        7.49243
-                  ]
-            },
-            {
-                  "name": "Melekeok Bai",
-                  "text": "Hagyományos palaui gyűlésház díszes faragványokkal Ngerulmudban.",
-                  "category": "landmark",
-                  "coords": [
-                        134.633317,
-                        7.494282
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Tochobei",
-                  "text": "Tochobei este un deal proeminent lângă capitala Ngerulmud din Palau.",
-                  "category": "natural",
-                  "coords": [
-                        134.628634,
-                        7.494979
-                  ]
-            },
-            {
-                  "name": "Meteu 'L Klechem",
-                  "text": "Platformă de piatră preistorică și monoliți în Ngerulmud, monument istoric.",
-                  "category": "historical",
-                  "coords": [
-                        134.636194,
-                        7.49243
-                  ]
-            },
-            {
-                  "name": "Melekeok Bai",
-                  "text": "Casă tradițională de adunări palauziană cu sculpturi ornamentale în Ngerulmud.",
-                  "category": "landmark",
-                  "coords": [
-                        134.633317,
-                        7.494282
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Tochobei",
-                  "text": "Tochobei is a prominent hill near the capital Ngerulmud in Palau.",
-                  "category": "natural",
-                  "coords": [
-                        134.628634,
-                        7.494979
-                  ]
-            },
-            {
-                  "name": "Meteu 'L Klechem",
-                  "text": "Prehistoric stone platform and monoliths in Ngerulmud, a listed heritage site.",
-                  "category": "historical",
-                  "coords": [
-                        134.636194,
-                        7.49243
-                  ]
-            },
-            {
-                  "name": "Melekeok Bai",
-                  "text": "Traditional Palauan meeting house with intricate woodcarvings in Ngerulmud.",
-                  "category": "landmark",
-                  "coords": [
-                        134.633317,
-                        7.494282
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "PW",
     type: "capital",
@@ -726,15 +326,6 @@ export const palauCitiesV2: POI[] = [
     id: "palau-airai-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Tibedul",
-                  "text": "Tibedul ist eine Kalksteininsel in Airai, Palau, bewachsen mit tropischer Vegetation.",
-                  "category": "natural",
-                  "coords": [
-                        134.49762,
-                        7.344208
-                  ]
-            },
-            {
                   "name": "Mount Tsunsu",
                   "text": "Der Mount Tsunsu ist mit 242 m die höchste Erhebung der Insel Babeldaob in Palau.",
                   "category": "natural",
@@ -760,27 +351,9 @@ export const palauCitiesV2: POI[] = [
                         134.522953,
                         7.365125
                   ]
-            },
-            {
-                  "name": "Mother and Child Stone",
-                  "text": "Natürliche Felsformation, die einer Mutter mit Kind ähnelt, im Bundesstaat Airai.",
-                  "category": "landmark",
-                  "coords": [
-                        134.503484,
-                        7.338138
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Tibedul",
-                  "text": "A Tibedul egy mészkő sziget Airaiban, Palau-szigetén, trópusi növényzettel borítva.",
-                  "category": "natural",
-                  "coords": [
-                        134.49762,
-                        7.344208
-                  ]
-            },
             {
                   "name": "Mount Tsunsu",
                   "text": "A Mount Tsunsu 242 méteres magasságával Babeldaob szigetének legmagasabb pontja Palau-szigetén.",
@@ -807,27 +380,9 @@ export const palauCitiesV2: POI[] = [
                         134.522953,
                         7.365125
                   ]
-            },
-            {
-                  "name": "Mother and Child Stone",
-                  "text": "Természetes sziklaalakzat, amely egy anyát és gyermeket formáz, Airai államban.",
-                  "category": "landmark",
-                  "coords": [
-                        134.503484,
-                        7.338138
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Tibedul",
-                  "text": "Tibedul este o insulă de calcar în Airai, Palau, acoperită de vegetație tropicală.",
-                  "category": "natural",
-                  "coords": [
-                        134.49762,
-                        7.344208
-                  ]
-            },
             {
                   "name": "Mount Tsunsu",
                   "text": "Muntele Tsunsu, cu 242 m, este cel mai înalt punct al insulei Babeldaob din Palau.",
@@ -854,27 +409,9 @@ export const palauCitiesV2: POI[] = [
                         134.522953,
                         7.365125
                   ]
-            },
-            {
-                  "name": "Mother and Child Stone",
-                  "text": "Formațiune naturală de stâncă asemănătoare unei mame cu copil, în statul Airai.",
-                  "category": "landmark",
-                  "coords": [
-                        134.503484,
-                        7.338138
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Tibedul",
-                  "text": "Tibedul is a limestone island in Airai, Palau, covered in tropical vegetation.",
-                  "category": "natural",
-                  "coords": [
-                        134.49762,
-                        7.344208
-                  ]
-            },
             {
                   "name": "Mount Tsunsu",
                   "text": "Mount Tsunsu, at 242 m, is the highest point on Babeldaob island in Palau.",
@@ -900,15 +437,6 @@ export const palauCitiesV2: POI[] = [
                   "coords": [
                         134.522953,
                         7.365125
-                  ]
-            },
-            {
-                  "name": "Mother and Child Stone",
-                  "text": "Natural rock formation resembling a mother and child, in Airai State.",
-                  "category": "landmark",
-                  "coords": [
-                        134.503484,
-                        7.338138
                   ]
             }
       ]
@@ -960,15 +488,6 @@ export const palauCitiesV2: POI[] = [
     id: "palau-meyuns-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Palau International Coral Reef Centre",
-                  "text": "Meeresforschungszentrum mit Aquarium und Korallenausstellungen in Meyuns.",
-                  "category": "family",
-                  "coords": [
-                        134.466229,
-                        7.33864
-                  ]
-            },
-            {
                   "name": "Rois Ketund",
                   "text": "Rois Ketund ist eine felsige Landspitze in Meyuns auf der Insel Koror.",
                   "category": "natural",
@@ -996,15 +515,6 @@ export const palauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Asahi Baseball Field",
-                  "text": "Das Asahi Baseball Field ist ein Baseballplatz in Meyuns, Teil des Asahi-Komplexes.",
-                  "category": "park",
-                  "coords": [
-                        134.47446,
-                        7.34079
-                  ]
-            },
-            {
                   "name": "Palau Mariculture Demonstration Center",
                   "text": "Demonstrationszentrum für Fischzucht und Meeresbiologie in Meyuns.",
                   "category": "landmark",
@@ -1012,54 +522,9 @@ export const palauCitiesV2: POI[] = [
                         134.450484,
                         7.328475
                   ]
-            },
-            {
-                  "name": "Belau Art Gallery",
-                  "text": "Kunstgalerie mit traditionellen und zeitgenössischen Werken aus Palau in Meyuns.",
-                  "category": "museum",
-                  "coords": [
-                        134.475056,
-                        7.342782
-                  ]
-            },
-            {
-                  "name": "Swimming pool ruins",
-                  "text": "Ruinen eines japanischen Schwimmbeckens aus der Besatzungszeit in Meyuns.",
-                  "category": "historical",
-                  "coords": [
-                        134.47991,
-                        7.352268
-                  ]
-            },
-            {
-                  "name": "PillBox",
-                  "text": "Japanischer Bunker aus dem Zweiten Weltkrieg mit Blick auf das Meer in Meyuns.",
-                  "category": "historical",
-                  "coords": [
-                        134.464431,
-                        7.335343
-                  ]
-            },
-            {
-                  "name": "Ngarachamayong Cultural Center",
-                  "text": "Kulturzentrum mit traditionellen Tänzen und Handwerksvorführungen in Meyuns.",
-                  "category": "cultural",
-                  "coords": [
-                        134.468148,
-                        7.343346
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Palau International Coral Reef Centre",
-                  "text": "Tengerkutató központ akváriummal és korallkiállításokkal Meyunsban.",
-                  "category": "family",
-                  "coords": [
-                        134.466229,
-                        7.33864
-                  ]
-            },
             {
                   "name": "Rois Ketund",
                   "text": "A Rois Ketund egy sziklás-fok Meyunsban, Koror szigetén.",
@@ -1088,15 +553,6 @@ export const palauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Asahi Baseball Field",
-                  "text": "Az Asahi Baseball Field egy baseballpálya Meyunsban, az Asahi komplexum része.",
-                  "category": "park",
-                  "coords": [
-                        134.47446,
-                        7.34079
-                  ]
-            },
-            {
                   "name": "Palau Mariculture Demonstration Center",
                   "text": "Halászati és tengerbiológiai bemutató központ Meyunsban.",
                   "category": "landmark",
@@ -1104,54 +560,9 @@ export const palauCitiesV2: POI[] = [
                         134.450484,
                         7.328475
                   ]
-            },
-            {
-                  "name": "Belau Art Gallery",
-                  "text": "Művészeti galéria, ahol palaui hagyományos és kortárs alkotások láthatók Meyunsban.",
-                  "category": "museum",
-                  "coords": [
-                        134.475056,
-                        7.342782
-                  ]
-            },
-            {
-                  "name": "Swimming pool ruins",
-                  "text": "Japán kori úszómedence romjai Meyunsban.",
-                  "category": "historical",
-                  "coords": [
-                        134.47991,
-                        7.352268
-                  ]
-            },
-            {
-                  "name": "PillBox",
-                  "text": "Japán második világháborús bunker, amely a tengerre néz Meyunsban.",
-                  "category": "historical",
-                  "coords": [
-                        134.464431,
-                        7.335343
-                  ]
-            },
-            {
-                  "name": "Ngarachamayong Cultural Center",
-                  "text": "Kulturális központ hagyományos táncokkal és kézműves bemutatókkal Meyunsban.",
-                  "category": "cultural",
-                  "coords": [
-                        134.468148,
-                        7.343346
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Palau International Coral Reef Centre",
-                  "text": "Centru de cercetare marină cu acvariu și expoziții de corali în Meyuns.",
-                  "category": "family",
-                  "coords": [
-                        134.466229,
-                        7.33864
-                  ]
-            },
             {
                   "name": "Rois Ketund",
                   "text": "Rois Ketund este un promontoriu stâncos în Meyuns, pe insula Koror.",
@@ -1180,15 +591,6 @@ export const palauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Asahi Baseball Field",
-                  "text": "Asahi Baseball Field este un teren de baseball în Meyuns, parte a complexului Asahi.",
-                  "category": "park",
-                  "coords": [
-                        134.47446,
-                        7.34079
-                  ]
-            },
-            {
                   "name": "Palau Mariculture Demonstration Center",
                   "text": "Centru demonstrativ de piscicultură și biologie marină în Meyuns.",
                   "category": "landmark",
@@ -1196,54 +598,9 @@ export const palauCitiesV2: POI[] = [
                         134.450484,
                         7.328475
                   ]
-            },
-            {
-                  "name": "Belau Art Gallery",
-                  "text": "Galerie de artă cu lucrări tradiționale și contemporane din Palau în Meyuns.",
-                  "category": "museum",
-                  "coords": [
-                        134.475056,
-                        7.342782
-                  ]
-            },
-            {
-                  "name": "Swimming pool ruins",
-                  "text": "Ruinele unui bazin de înot din perioada japoneză în Meyuns.",
-                  "category": "historical",
-                  "coords": [
-                        134.47991,
-                        7.352268
-                  ]
-            },
-            {
-                  "name": "PillBox",
-                  "text": "Buncăr japonez din al Doilea Război Mondial cu vedere la mare în Meyuns.",
-                  "category": "historical",
-                  "coords": [
-                        134.464431,
-                        7.335343
-                  ]
-            },
-            {
-                  "name": "Ngarachamayong Cultural Center",
-                  "text": "Centru cultural cu dansuri tradiționale și demonstrații de meșteșuguri în Meyuns.",
-                  "category": "cultural",
-                  "coords": [
-                        134.468148,
-                        7.343346
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Palau International Coral Reef Centre",
-                  "text": "Marine research centre with aquarium and coral exhibits in Meyuns.",
-                  "category": "family",
-                  "coords": [
-                        134.466229,
-                        7.33864
-                  ]
-            },
             {
                   "name": "Rois Ketund",
                   "text": "Rois Ketund is a rocky promontory in Meyuns on Koror island.",
@@ -1272,57 +629,12 @@ export const palauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Asahi Baseball Field",
-                  "text": "Asahi Baseball Field is a baseball field in Meyuns, part of the Asahi complex.",
-                  "category": "park",
-                  "coords": [
-                        134.47446,
-                        7.34079
-                  ]
-            },
-            {
                   "name": "Palau Mariculture Demonstration Center",
                   "text": "Mariculture demonstration centre with fish farming and marine biology exhibits in Meyuns.",
                   "category": "landmark",
                   "coords": [
                         134.450484,
                         7.328475
-                  ]
-            },
-            {
-                  "name": "Belau Art Gallery",
-                  "text": "Art gallery featuring traditional and contemporary Palauan works in Meyuns.",
-                  "category": "museum",
-                  "coords": [
-                        134.475056,
-                        7.342782
-                  ]
-            },
-            {
-                  "name": "Swimming pool ruins",
-                  "text": "Ruins of a Japanese-era swimming pool in Meyuns.",
-                  "category": "historical",
-                  "coords": [
-                        134.47991,
-                        7.352268
-                  ]
-            },
-            {
-                  "name": "PillBox",
-                  "text": "Japanese WWII pillbox bunker overlooking the ocean in Meyuns.",
-                  "category": "historical",
-                  "coords": [
-                        134.464431,
-                        7.335343
-                  ]
-            },
-            {
-                  "name": "Ngarachamayong Cultural Center",
-                  "text": "Cultural centre hosting traditional dance and craft demonstrations in Meyuns.",
-                  "category": "cultural",
-                  "coords": [
-                        134.468148,
-                        7.343346
                   ]
             }
       ]
@@ -1374,15 +686,6 @@ export const palauCitiesV2: POI[] = [
     id: "palau-melekeok-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Tochobei",
-                  "text": "Der Tochobei ist ein Hügel nahe der ehemaligen Hauptstadt Melekeok in Palau.",
-                  "category": "natural",
-                  "coords": [
-                        134.628634,
-                        7.494979
-                  ]
-            },
-            {
                   "name": "Meteu 'L Klechem",
                   "text": "Prähistorische Steinplattform und Monolithen in Melekeok, denkmalgeschützt.",
                   "category": "historical",
@@ -1402,15 +705,6 @@ export const palauCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Tochobei",
-                  "text": "A Tochobei egy domb a korábbi főváros, Melekeok közelében, Palau-szigetén.",
-                  "category": "natural",
-                  "coords": [
-                        134.628634,
-                        7.494979
-                  ]
-            },
             {
                   "name": "Meteu 'L Klechem",
                   "text": "Őskori kőplatform és monolitok Melekeokban, műemlék.",
@@ -1432,15 +726,6 @@ export const palauCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Tochobei",
-                  "text": "Tochobei este un deal lângă fosta capitală Melekeok din Palau.",
-                  "category": "natural",
-                  "coords": [
-                        134.628634,
-                        7.494979
-                  ]
-            },
-            {
                   "name": "Meteu 'L Klechem",
                   "text": "Platformă de piatră preistorică și monoliți în Melekeok, monument istoric.",
                   "category": "historical",
@@ -1460,15 +745,6 @@ export const palauCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Tochobei",
-                  "text": "Tochobei is a hill near the former capital Melekeok in Palau.",
-                  "category": "natural",
-                  "coords": [
-                        134.628634,
-                        7.494979
-                  ]
-            },
             {
                   "name": "Meteu 'L Klechem",
                   "text": "Prehistoric stone platform and monoliths in Melekeok, a listed heritage site.",

@@ -42,15 +42,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dragon Head",
-                  "text": "Ein beeindruckendes steinernes Drachenhaupt, das oft als dekoratives Element der asiatischen Architektur bewundert wird.",
-                  "category": "historical",
-                  "coords": [
-                        103.512958,
-                        10.609483
-                  ]
-            },
-            {
                   "name": "Fish",
                   "text": "Eine fischförmige Skulptur, die die Verbundenheit der Hafenstadt mit dem Meeresschutz und der Fischerei symbolisiert.",
                   "category": "historical",
@@ -75,15 +66,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
                   "coords": [
                         103.509123,
                         10.637803
-                  ]
-            },
-            {
-                  "name": "Two Golden Lions",
-                  "text": "Die beiden imposanten goldenen Löwenstatuen dominieren den wichtigsten Verkehrskreisel im Zentrum von Sihanoukville.",
-                  "category": "landmark",
-                  "coords": [
-                        103.523643,
-                        10.610638
                   ]
             },
             {
@@ -147,15 +129,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
                   "coords": [
                         103.497486,
                         10.614845
-                  ]
-            },
-            {
-                  "name": "Serendipity Beach",
-                  "text": "Ein felsiger Abschnitt der Küste, der in die feinsandige Bucht von Sokha Beach übergeht.",
-                  "category": "recreational",
-                  "coords": [
-                        103.523025,
-                        10.60582
                   ]
             },
             {
@@ -296,15 +269,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dragon Head",
-                  "text": "Egy lenyűgöző kőből faragott sárkányfej, amelyet gyakran csodálnak az ázsiai építészet díszítőelemeként.",
-                  "category": "historical",
-                  "coords": [
-                        103.512958,
-                        10.609483
-                  ]
-            },
-            {
                   "name": "Fish",
                   "text": "Egy hal formájú szobor, amely a kikötőváros tengeri halászathoz és óceánvédelemhez fűződő kapcsolatát szimbolizálja.",
                   "category": "historical",
@@ -329,15 +293,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
                   "coords": [
                         103.509123,
                         10.637803
-                  ]
-            },
-            {
-                  "name": "Two Golden Lions",
-                  "text": "A két impozáns arany oroszlánszobor Sihanoukville központjának legfontosabb körforgalmát uralja.",
-                  "category": "landmark",
-                  "coords": [
-                        103.523643,
-                        10.610638
                   ]
             },
             {
@@ -401,15 +356,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
                   "coords": [
                         103.497486,
                         10.614845
-                  ]
-            },
-            {
-                  "name": "Serendipity Beach",
-                  "text": "A tengerpart egy sziklás szakasza, amely a Sokha-part finom homokos öblébe olvad.",
-                  "category": "recreational",
-                  "coords": [
-                        103.523025,
-                        10.60582
                   ]
             },
             {
@@ -550,15 +496,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dragon Head",
-                  "text": "Un impresionant cap de dragon sculptat în piatră, adesea admirat ca element decorativ în arhitectura asiatică.",
-                  "category": "historical",
-                  "coords": [
-                        103.512958,
-                        10.609483
-                  ]
-            },
-            {
                   "name": "Fish",
                   "text": "O sculptură în formă de pește care simbolizează legătura orașului-port cu pescuitul și protecția marină.",
                   "category": "historical",
@@ -583,15 +520,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
                   "coords": [
                         103.509123,
                         10.637803
-                  ]
-            },
-            {
-                  "name": "Two Golden Lions",
-                  "text": "Cele două statui impunătoare de lei aurii domină cel mai important sens giratoriu din centrul Sihanoukville.",
-                  "category": "landmark",
-                  "coords": [
-                        103.523643,
-                        10.610638
                   ]
             },
             {
@@ -655,15 +583,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
                   "coords": [
                         103.497486,
                         10.614845
-                  ]
-            },
-            {
-                  "name": "Serendipity Beach",
-                  "text": "O secțiune stâncoasă a coastei care se prelungește în golful cu nisip fin al plajei Sokha.",
-                  "category": "recreational",
-                  "coords": [
-                        103.523025,
-                        10.60582
                   ]
             },
             {
@@ -804,15 +723,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dragon Head",
-                  "text": "An impressive stone dragon head often admired as a decorative element of Asian architecture.",
-                  "category": "historical",
-                  "coords": [
-                        103.512958,
-                        10.609483
-                  ]
-            },
-            {
                   "name": "Fish",
                   "text": "A fish-shaped sculpture symbolizing the port city's connection to marine fishing and ocean conservation.",
                   "category": "historical",
@@ -837,15 +747,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
                   "coords": [
                         103.509123,
                         10.637803
-                  ]
-            },
-            {
-                  "name": "Two Golden Lions",
-                  "text": "The two imposing golden lion statues dominate the most important traffic roundabout in the center of Sihanoukville.",
-                  "category": "landmark",
-                  "coords": [
-                        103.523643,
-                        10.610638
                   ]
             },
             {
@@ -909,15 +810,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
                   "coords": [
                         103.497486,
                         10.614845
-                  ]
-            },
-            {
-                  "name": "Serendipity Beach",
-                  "text": "A rocky section of the coastline that transitions into the fine-sandy bay of Sokha Beach.",
-                  "category": "recreational",
-                  "coords": [
-                        103.523025,
-                        10.60582
                   ]
             },
             {
@@ -4368,15 +4260,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ship",
-                  "text": "Dieses seit November 2018 in Koh Kong verankerte Schiff ist eine markante nautische Attraktion vor der Küste der Wirtschaftszone.",
-                  "category": "landmark",
-                  "coords": [
-                        102.979264,
-                        11.616028
-                  ]
-            },
-            {
                   "name": "Koh Kong Beach",
                   "text": "Der weitläufige Koh Kong Beach bietet einen flach abfallenden Sandstrand, an dem sich Einheimische am Rand der Hafenstadt entspannen.",
                   "category": "recreational",
@@ -4439,15 +4322,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
                   "coords": [
                         102.990315,
                         11.621184
-                  ]
-            },
-            {
-                  "name": "Ship",
-                  "text": "Ez a 2018 novembere óta Koh Kongban horgonyzó hajó egy feltűnő tengerészeti látványosság a gazdasági övezet partjainál.",
-                  "category": "landmark",
-                  "coords": [
-                        102.979264,
-                        11.616028
                   ]
             },
             {
@@ -4516,15 +4390,6 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ship",
-                  "text": "Această navă ancorată în Koh Kong din noiembrie 2018 este o atracție nautică proeminentă în largul coastei zonei economice.",
-                  "category": "landmark",
-                  "coords": [
-                        102.979264,
-                        11.616028
-                  ]
-            },
-            {
                   "name": "Koh Kong Beach",
                   "text": "Plaja întinsă Koh Kong Beach oferă un țărm de nisip cu o pantă lină, unde localnicii se pot relaxa la marginea orașului-port.",
                   "category": "recreational",
@@ -4590,30 +4455,12 @@ export const poiExtraCambodiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ship",
-                  "text": "Anchored in Koh Kong since November 2018, this ship is a striking nautical attraction off the coast of the economic zone.",
-                  "category": "landmark",
-                  "coords": [
-                        102.979264,
-                        11.616028
-                  ]
-            },
-            {
                   "name": "Koh Kong Beach",
                   "text": "The sprawling Koh Kong Beach offers a gently sloping sandy shore where locals go to relax on the edge of the port city.",
                   "category": "recreational",
                   "coords": [
                         102.972857,
                         11.581339
-                  ]
-            },
-            {
-                  "name": "Koh Kong Bridge",
-                  "text": "The Koh Kong Bridge spans the wide Kah Bpow River with a notable length of 1900 metres, connecting the city to the Thai border.",
-                  "category": "landmark",
-                  "coords": [
-                        102.970922,
-                        11.617584
                   ]
             },
             {

@@ -6,15 +6,6 @@ export const austriaCitiesV2: POI[] = [
     id: "austria-villach-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Ossiacher See",
-                  "text": "Ein malerischer See in Villach, der sich ideal zum Schwimmen und für Spaziergänge eignet.",
-                  "category": "natural",
-                  "coords": [
-                        13.95689,
-                        46.672487
-                  ]
-            },
-            {
                   "name": "Vassacher See",
                   "text": "Ein ruhiger See in Villach, der zur Entspannung am Wasser einlädt.",
                   "category": "natural",
@@ -57,24 +48,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.88884,
                         46.62326
-                  ]
-            },
-            {
-                  "name": "Faaker See",
-                  "text": "Ein bekannter See in Villach, der für sein klares Wasser und die schöne Umgebung geschätzt wird.",
-                  "category": "natural",
-                  "coords": [
-                        13.923377,
-                        46.576379
-                  ]
-            },
-            {
-                  "name": "Silbersee",
-                  "text": "Ein schöner See in Villach, der Erholung im Freien bietet.",
-                  "category": "natural",
-                  "coords": [
-                        13.906475,
-                        46.608837
                   ]
             },
             {
@@ -386,15 +359,6 @@ export const austriaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Ossiacher See",
-                  "text": "Egy festői tó Villachban, amely ideális úszáshoz és sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        13.95689,
-                        46.672487
-                  ]
-            },
-            {
                   "name": "Vassacher See",
                   "text": "Egy nyugodt tó Villachban, amely pihenésre hív a vízparton.",
                   "category": "natural",
@@ -437,24 +401,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.88884,
                         46.62326
-                  ]
-            },
-            {
-                  "name": "Faaker See",
-                  "text": "Villach egyik ismert tava, amelyet tiszta vizéért és szép környezetéért kedvelnek.",
-                  "category": "natural",
-                  "coords": [
-                        13.923377,
-                        46.576379
-                  ]
-            },
-            {
-                  "name": "Silbersee",
-                  "text": "Egy szép tó Villachban, amely szabadtéri kikapcsolódást kínál.",
-                  "category": "natural",
-                  "coords": [
-                        13.906475,
-                        46.608837
                   ]
             },
             {
@@ -766,15 +712,6 @@ export const austriaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ossiacher See",
-                  "text": "Un lac pitoresc în Villach, ideal pentru înot și plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        13.95689,
-                        46.672487
-                  ]
-            },
-            {
                   "name": "Vassacher See",
                   "text": "Un lac liniștit în Villach, care invită la relaxare pe malul apei.",
                   "category": "natural",
@@ -817,24 +754,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.88884,
                         46.62326
-                  ]
-            },
-            {
-                  "name": "Faaker See",
-                  "text": "Un lac cunoscut în Villach, apreciat pentru apa sa limpede și împrejurimile frumoase.",
-                  "category": "natural",
-                  "coords": [
-                        13.923377,
-                        46.576379
-                  ]
-            },
-            {
-                  "name": "Silbersee",
-                  "text": "Un lac frumos în Villach, care oferă recreere în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        13.906475,
-                        46.608837
                   ]
             },
             {
@@ -1146,15 +1065,6 @@ export const austriaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Lake Ossiach",
-                  "text": "A scenic lake in Villach, ideal for swimming and walking.",
-                  "category": "natural",
-                  "coords": [
-                        13.95689,
-                        46.672487
-                  ]
-            },
-            {
                   "name": "Vassacher See",
                   "text": "A quiet lake in Villach, perfect for relaxing by the water.",
                   "category": "natural",
@@ -1197,24 +1107,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.88884,
                         46.62326
-                  ]
-            },
-            {
-                  "name": "Lake Faak",
-                  "text": "A well-known lake in Villach, appreciated for its clear water and beautiful surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        13.923377,
-                        46.576379
-                  ]
-            },
-            {
-                  "name": "Silbersee",
-                  "text": "A beautiful lake in Villach, offering outdoor recreation.",
-                  "category": "natural",
-                  "coords": [
-                        13.906475,
-                        46.608837
                   ]
             },
             {
@@ -3939,57 +3831,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Möckle Weiher",
-                  "text": "Ein ruhiger Weiher in Dornbirn, der zu erholsamen Momenten in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        9.716245,
-                        47.443666
-                  ]
-            },
-            {
                   "name": "Staufensee",
                   "text": "Dieser malerische Stausee in Dornbirn ist ein beliebtes Ziel für Spaziergänge in der Natur.",
                   "category": "natural",
                   "coords": [
                         9.778517,
                         47.380243
-                  ]
-            },
-            {
-                  "name": "Alter Rhein",
-                  "text": "Ein schöner Seeabschnitt in Dornbirn, der eine idyllische Kulisse für Naturliebhaber bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.655836,
-                        47.403005
-                  ]
-            },
-            {
-                  "name": "Naturbad Bruggerloch",
-                  "text": "Ein Naturbadesee in Dornbirn, der Erfrischung und Entspannung in grüner Umgebung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.657915,
-                        47.453426
-                  ]
-            },
-            {
-                  "name": "Lehmlöcher",
-                  "text": "Diese Gewässer in Dornbirn bieten einen ruhigen Rückzugsort inmitten der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        9.674038,
-                        47.358909
-                  ]
-            },
-            {
-                  "name": "Stockenweiher",
-                  "text": "Ein friedlicher Weiher in Dornbirn, ideal für einen kurzen Ausflug und Naturbeobachtungen.",
-                  "category": "natural",
-                  "coords": [
-                        9.675548,
-                        47.357544
                   ]
             },
             {
@@ -4400,57 +4247,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Möckle Weiher",
-                  "text": "Nyugodt tavacska Dornbirnben, amely pihentető pillanatokra hív a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        9.716245,
-                        47.443666
-                  ]
-            },
-            {
                   "name": "Staufensee",
                   "text": "Ez a festői víztározó Dornbirnben kedvelt célpontja a természetjáró sétáknak.",
                   "category": "natural",
                   "coords": [
                         9.778517,
                         47.380243
-                  ]
-            },
-            {
-                  "name": "Alter Rhein",
-                  "text": "Szép tórészlet Dornbirnben, amely idilli környezetet kínál a természet kedvelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        9.655836,
-                        47.403005
-                  ]
-            },
-            {
-                  "name": "Naturbad Bruggerloch",
-                  "text": "Természetes fürdőtó Dornbirnben, amely felfrissülést és pihenést kínál zöld környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        9.657915,
-                        47.453426
-                  ]
-            },
-            {
-                  "name": "Lehmlöcher",
-                  "text": "Ezek a dornbirni vizek nyugodt menedéket nyújtanak a természet közepén.",
-                  "category": "natural",
-                  "coords": [
-                        9.674038,
-                        47.358909
-                  ]
-            },
-            {
-                  "name": "Stockenweiher",
-                  "text": "Békés tavacska Dornbirnben, ideális egy rövid kiránduláshoz és természetjáráshoz.",
-                  "category": "natural",
-                  "coords": [
-                        9.675548,
-                        47.357544
                   ]
             },
             {
@@ -4861,57 +4663,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Möckle Weiher",
-                  "text": "Un iaz liniștit în Dornbirn, care invită la momente de relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.716245,
-                        47.443666
-                  ]
-            },
-            {
                   "name": "Staufensee",
                   "text": "Acest lac de acumulare pitoresc din Dornbirn este o destinație populară pentru plimbări în natură.",
                   "category": "natural",
                   "coords": [
                         9.778517,
                         47.380243
-                  ]
-            },
-            {
-                  "name": "Alter Rhein",
-                  "text": "O secțiune frumoasă de lac în Dornbirn, care oferă un cadru idilic pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.655836,
-                        47.403005
-                  ]
-            },
-            {
-                  "name": "Naturbad Bruggerloch",
-                  "text": "Un lac de scăldat natural în Dornbirn, care oferă răcoare și relaxare într-un mediu verde.",
-                  "category": "natural",
-                  "coords": [
-                        9.657915,
-                        47.453426
-                  ]
-            },
-            {
-                  "name": "Lehmlöcher",
-                  "text": "Aceste ape din Dornbirn oferă un refugiu liniștit în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        9.674038,
-                        47.358909
-                  ]
-            },
-            {
-                  "name": "Stockenweiher",
-                  "text": "Un iaz liniștit în Dornbirn, ideal pentru o scurtă excursie și observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        9.675548,
-                        47.357544
                   ]
             },
             {
@@ -5322,57 +5079,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Möckle Weiher",
-                  "text": "A quiet pond in Dornbirn, inviting for relaxing moments in nature.",
-                  "category": "natural",
-                  "coords": [
-                        9.716245,
-                        47.443666
-                  ]
-            },
-            {
                   "name": "Staufensee",
                   "text": "This scenic reservoir in Dornbirn is a popular destination for walks in nature.",
                   "category": "natural",
                   "coords": [
                         9.778517,
                         47.380243
-                  ]
-            },
-            {
-                  "name": "Alter Rhein",
-                  "text": "A beautiful section of lake in Dornbirn, offering an idyllic setting for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        9.655836,
-                        47.403005
-                  ]
-            },
-            {
-                  "name": "Naturbad Bruggerloch",
-                  "text": "A natural swimming lake in Dornbirn, offering refreshment and relaxation in green surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        9.657915,
-                        47.453426
-                  ]
-            },
-            {
-                  "name": "Lehmlöcher",
-                  "text": "These waters in Dornbirn offer a quiet retreat in the midst of nature.",
-                  "category": "natural",
-                  "coords": [
-                        9.674038,
-                        47.358909
-                  ]
-            },
-            {
-                  "name": "Stockenweiher",
-                  "text": "A peaceful pond in Dornbirn, ideal for a short trip and nature watching.",
-                  "category": "natural",
-                  "coords": [
-                        9.675548,
-                        47.357544
                   ]
             },
             {
@@ -7053,30 +6765,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Petronillakapelle",
-                  "text": "Die Petronillakapelle ist ein denkmalgeschütztes Kirchengebäude in Feldkirch.",
-                  "category": "landmark",
-                  "coords": [
-                        9.615811,
-                        47.260365
-                  ]
-            },
-            {
                   "name": "Ardetzenberg",
                   "text": "Der Ardetzenberg ist ein Hausberg von Feldkirch und Standort eines Wildparks.",
                   "category": "natural",
                   "coords": [
                         9.602415,
                         47.251337
-                  ]
-            },
-            {
-                  "name": "Eschnerberg",
-                  "text": "Der Eschnerberg ist ein markanter Bergrücken im Rheintal an der Grenze zu Liechtenstein.",
-                  "category": "natural",
-                  "coords": [
-                        9.566231,
-                        47.240398
                   ]
             },
             {
@@ -7131,15 +6825,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.578031,
                         47.253596
-                  ]
-            },
-            {
-                  "name": "Sankt Michael",
-                  "text": "Die Kirche Sankt Michael ist ein Sakralbau im Stadtgebiet von Feldkirch.",
-                  "category": "religious",
-                  "coords": [
-                        9.572059,
-                        47.227254
                   ]
             },
             {
@@ -7242,30 +6927,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kapelle zu den Heiligen Martin und Magnus",
-                  "text": "Diese Kapelle in Feldkirch ist den Heiligen Martin und Magnus geweiht.",
-                  "category": "religious",
-                  "coords": [
-                        9.565259,
-                        47.24764
-                  ]
-            },
-            {
                   "name": "Klosterkirche",
                   "text": "Die Klosterkirche ist Teil einer Klosteranlage in Feldkirch.",
                   "category": "religious",
                   "coords": [
                         9.618822,
                         47.260609
-                  ]
-            },
-            {
-                  "name": "Kapelle Mariahilf",
-                  "text": "Die Kapelle Mariahilf ist ein bedeutendes religiöses Baudenkmal in Feldkirch.",
-                  "category": "landmark",
-                  "coords": [
-                        9.570649,
-                        47.235796
                   ]
             },
             {
@@ -7377,33 +7044,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baggerloch Nägele",
-                  "text": "Das Baggerloch Nägele in Feldkirch ist ein schönes Gewässer, das in eine natürliche Landschaft eingebettet ist.",
-                  "category": "natural",
-                  "coords": [
-                        9.586771,
-                        47.281344
-                  ]
-            },
-            {
-                  "name": "Baggerloch Wilhelm & Mayer",
-                  "text": "Das Baggerloch Wilhelm & Mayer in Feldkirch bietet eine friedliche Atmosphäre für Spaziergänge am Ufer.",
-                  "category": "natural",
-                  "coords": [
-                        9.582282,
-                        47.282395
-                  ]
-            },
-            {
-                  "name": "Baggerloch Hilti & Jehle",
-                  "text": "Das Baggerloch Hilti & Jehle in Feldkirch ist ein lokales Gewässer, das zum Verweilen in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        9.587596,
-                        47.27803
-                  ]
-            },
-            {
                   "name": "Baggersee Klostergatter",
                   "text": "Der Baggersee Klostergatter in Feldkirch ist ein ruhiger Ort, um die Aussicht auf das Wasser und die Umgebung zu genießen.",
                   "category": "natural",
@@ -7413,39 +7053,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Güfelsee",
-                  "text": "Der Güfelsee in Feldkirch ist ein kleines Gewässer, das eine entspannte Atmosphäre für Naturliebhaber bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.581103,
-                        47.290048
-                  ]
-            },
-            {
                   "name": "Alte Rüttenen",
                   "text": "Alte Rüttenen in Feldkirch ist ein naturnahes Gewässer, das sich gut für erholsame Spaziergänge eignet.",
                   "category": "natural",
                   "coords": [
                         9.579717,
                         47.274649
-                  ]
-            },
-            {
-                  "name": "Badesee",
-                  "text": "Der Badesee in Feldkirch ist ein beliebtes Ziel für alle, die eine Abkühlung und Erholung am Wasser suchen.",
-                  "category": "natural",
-                  "coords": [
-                        9.505363,
-                        47.218086
-                  ]
-            },
-            {
-                  "name": "Sägaweiher",
-                  "text": "Der Sägaweiher in Feldkirch bietet eine malerische Kulisse für eine kurze Auszeit im Grünen.",
-                  "category": "natural",
-                  "coords": [
-                        9.551793,
-                        47.192909
                   ]
             },
             {
@@ -7631,30 +7244,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Petronillakapelle",
-                  "text": "A Petronilla-kápolna egy műemléki védelem alatt álló templomépület Feldkirchben.",
-                  "category": "landmark",
-                  "coords": [
-                        9.615811,
-                        47.260365
-                  ]
-            },
-            {
                   "name": "Ardetzenberg",
                   "text": "Az Ardetzenberg Feldkirch egyik hegye, ahol egy vadaspark is található.",
                   "category": "natural",
                   "coords": [
                         9.602415,
                         47.251337
-                  ]
-            },
-            {
-                  "name": "Eschnerberg",
-                  "text": "Az Eschnerberg egy jellegzetes hegyhát a Rajna-völgyben, a liechtensteini határnál.",
-                  "category": "natural",
-                  "coords": [
-                        9.566231,
-                        47.240398
                   ]
             },
             {
@@ -7709,15 +7304,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.578031,
                         47.253596
-                  ]
-            },
-            {
-                  "name": "Sankt Michael",
-                  "text": "A Szent Mihály-templom egy egyházi épület Feldkirch városában.",
-                  "category": "religious",
-                  "coords": [
-                        9.572059,
-                        47.227254
                   ]
             },
             {
@@ -7820,30 +7406,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kapelle zu den Heiligen Martin und Magnus",
-                  "text": "Ez a feldkirchi kápolna Szent Márton és Magnus tiszteletére épült.",
-                  "category": "religious",
-                  "coords": [
-                        9.565259,
-                        47.24764
-                  ]
-            },
-            {
                   "name": "Klosterkirche",
                   "text": "A kolostortemplom egy feldkirchi kolostoregyüttes része.",
                   "category": "religious",
                   "coords": [
                         9.618822,
                         47.260609
-                  ]
-            },
-            {
-                  "name": "Kapelle Mariahilf",
-                  "text": "A Mariahilf-kápolna egy jelentős vallási műemlék Feldkirchben.",
-                  "category": "landmark",
-                  "coords": [
-                        9.570649,
-                        47.235796
                   ]
             },
             {
@@ -7955,33 +7523,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baggerloch Nägele",
-                  "text": "A feldkirchi Baggerloch Nägele egy szép vízfelület, amely természetes környezetben fekszik.",
-                  "category": "natural",
-                  "coords": [
-                        9.586771,
-                        47.281344
-                  ]
-            },
-            {
-                  "name": "Baggerloch Wilhelm & Mayer",
-                  "text": "A feldkirchi Baggerloch Wilhelm & Mayer békés hangulatot áraszt a vízparti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        9.582282,
-                        47.282395
-                  ]
-            },
-            {
-                  "name": "Baggerloch Hilti & Jehle",
-                  "text": "A feldkirchi Baggerloch Hilti & Jehle egy helyi vízfelület, amely természeti környezetbe hívogat.",
-                  "category": "natural",
-                  "coords": [
-                        9.587596,
-                        47.27803
-                  ]
-            },
-            {
                   "name": "Baggersee Klostergatter",
                   "text": "A feldkirchi Baggersee Klostergatter egy nyugodt hely a vízre és a környékre nyíló kilátás élvezetéhez.",
                   "category": "natural",
@@ -7991,39 +7532,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Güfelsee",
-                  "text": "A feldkirchi Güfelsee egy kis vízfelület, amely pihentető hangulatot kínál a természet kedvelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        9.581103,
-                        47.290048
-                  ]
-            },
-            {
                   "name": "Alte Rüttenen",
                   "text": "A feldkirchi Alte Rüttenen egy természetközeli vízfelület, amely kiválóan alkalmas pihentető sétákhoz.",
                   "category": "natural",
                   "coords": [
                         9.579717,
                         47.274649
-                  ]
-            },
-            {
-                  "name": "Badesee",
-                  "text": "A feldkirchi Badesee kedvelt célpont azok számára, akik felfrissülésre és kikapcsolódásra vágynak a víznél.",
-                  "category": "natural",
-                  "coords": [
-                        9.505363,
-                        47.218086
-                  ]
-            },
-            {
-                  "name": "Sägaweiher",
-                  "text": "A feldkirchi Sägaweiher festői környezetet biztosít egy rövid erdei kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        9.551793,
-                        47.192909
                   ]
             },
             {
@@ -8209,30 +7723,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Petronillakapelle",
-                  "text": "Capela Petronilla este un edificiu religios protejat ca monument istoric în Feldkirch.",
-                  "category": "landmark",
-                  "coords": [
-                        9.615811,
-                        47.260365
-                  ]
-            },
-            {
                   "name": "Ardetzenberg",
                   "text": "Ardetzenberg este un munte local din Feldkirch, unde se află și un parc de animale sălbatice.",
                   "category": "natural",
                   "coords": [
                         9.602415,
                         47.251337
-                  ]
-            },
-            {
-                  "name": "Eschnerberg",
-                  "text": "Eschnerberg este o creastă muntoasă proeminentă din Valea Rinului, la granița cu Liechtenstein.",
-                  "category": "natural",
-                  "coords": [
-                        9.566231,
-                        47.240398
                   ]
             },
             {
@@ -8287,15 +7783,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.578031,
                         47.253596
-                  ]
-            },
-            {
-                  "name": "Sankt Michael",
-                  "text": "Biserica Sfântul Mihail este un edificiu religios situat în zona orașului Feldkirch.",
-                  "category": "religious",
-                  "coords": [
-                        9.572059,
-                        47.227254
                   ]
             },
             {
@@ -8398,30 +7885,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kapelle zu den Heiligen Martin und Magnus",
-                  "text": "Această capelă din Feldkirch este dedicată Sfinților Martin și Magnus.",
-                  "category": "religious",
-                  "coords": [
-                        9.565259,
-                        47.24764
-                  ]
-            },
-            {
                   "name": "Klosterkirche",
                   "text": "Biserica mănăstirii face parte dintr-un complex monahal din Feldkirch.",
                   "category": "religious",
                   "coords": [
                         9.618822,
                         47.260609
-                  ]
-            },
-            {
-                  "name": "Kapelle Mariahilf",
-                  "text": "Capela Mariahilf este un monument istoric religios important din Feldkirch.",
-                  "category": "landmark",
-                  "coords": [
-                        9.570649,
-                        47.235796
                   ]
             },
             {
@@ -8533,33 +8002,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baggerloch Nägele",
-                  "text": "Baggerloch Nägele din Feldkirch este un luciu de apă frumos, integrat într-un peisaj natural.",
-                  "category": "natural",
-                  "coords": [
-                        9.586771,
-                        47.281344
-                  ]
-            },
-            {
-                  "name": "Baggerloch Wilhelm & Mayer",
-                  "text": "Baggerloch Wilhelm & Mayer din Feldkirch oferă o atmosferă liniștită pentru plimbări pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        9.582282,
-                        47.282395
-                  ]
-            },
-            {
-                  "name": "Baggerloch Hilti & Jehle",
-                  "text": "Baggerloch Hilti & Jehle din Feldkirch este un curs de apă local care invită la petrecerea timpului în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.587596,
-                        47.27803
-                  ]
-            },
-            {
                   "name": "Baggersee Klostergatter",
                   "text": "Baggersee Klostergatter din Feldkirch este un loc liniștit pentru a te bucura de vederea spre apă și de împrejurimi.",
                   "category": "natural",
@@ -8569,39 +8011,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Güfelsee",
-                  "text": "Güfelsee din Feldkirch este un lac mic, care oferă o atmosferă relaxantă pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.581103,
-                        47.290048
-                  ]
-            },
-            {
                   "name": "Alte Rüttenen",
                   "text": "Alte Rüttenen din Feldkirch este un curs de apă în mijlocul naturii, ideal pentru plimbări relaxante.",
                   "category": "natural",
                   "coords": [
                         9.579717,
                         47.274649
-                  ]
-            },
-            {
-                  "name": "Badesee",
-                  "text": "Badesee din Feldkirch este o destinație populară pentru cei care caută răcoare și relaxare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        9.505363,
-                        47.218086
-                  ]
-            },
-            {
-                  "name": "Sägaweiher",
-                  "text": "Sägaweiher din Feldkirch oferă un cadru pitoresc pentru o scurtă evadare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.551793,
-                        47.192909
                   ]
             },
             {
@@ -8787,30 +8202,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Petronillakapelle",
-                  "text": "St. Petronilla Chapel is a heritage-listed church building in Feldkirch.",
-                  "category": "landmark",
-                  "coords": [
-                        9.615811,
-                        47.260365
-                  ]
-            },
-            {
                   "name": "Ardetzenberg",
                   "text": "Ardetzenberg is a prominent hill in Feldkirch and the site of a wildlife park.",
                   "category": "natural",
                   "coords": [
                         9.602415,
                         47.251337
-                  ]
-            },
-            {
-                  "name": "Eschnerberg",
-                  "text": "Eschnerberg is a prominent mountain ridge in the Rhine Valley on the border with Liechtenstein.",
-                  "category": "natural",
-                  "coords": [
-                        9.566231,
-                        47.240398
                   ]
             },
             {
@@ -8865,15 +8262,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.578031,
                         47.253596
-                  ]
-            },
-            {
-                  "name": "Sankt Michael",
-                  "text": "St. Michael's Church is a religious building located within the city of Feldkirch.",
-                  "category": "religious",
-                  "coords": [
-                        9.572059,
-                        47.227254
                   ]
             },
             {
@@ -8976,30 +8364,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kapelle zu den Heiligen Martin und Magnus",
-                  "text": "This chapel in Feldkirch is dedicated to Saints Martin and Magnus.",
-                  "category": "religious",
-                  "coords": [
-                        9.565259,
-                        47.24764
-                  ]
-            },
-            {
                   "name": "Klosterkirche",
                   "text": "The monastery church is part of a convent or monastery complex in Feldkirch.",
                   "category": "religious",
                   "coords": [
                         9.618822,
                         47.260609
-                  ]
-            },
-            {
-                  "name": "Kapelle Mariahilf",
-                  "text": "The Mariahilf Chapel is a significant religious heritage site in Feldkirch.",
-                  "category": "landmark",
-                  "coords": [
-                        9.570649,
-                        47.235796
                   ]
             },
             {
@@ -9111,33 +8481,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baggerloch Nägele",
-                  "text": "The Baggerloch Nägele in Feldkirch is a beautiful body of water embedded in a natural landscape.",
-                  "category": "natural",
-                  "coords": [
-                        9.586771,
-                        47.281344
-                  ]
-            },
-            {
-                  "name": "Baggerloch Wilhelm & Mayer",
-                  "text": "The Baggerloch Wilhelm & Mayer in Feldkirch offers a peaceful atmosphere for walks along the shore.",
-                  "category": "natural",
-                  "coords": [
-                        9.582282,
-                        47.282395
-                  ]
-            },
-            {
-                  "name": "Baggerloch Hilti & Jehle",
-                  "text": "The Baggerloch Hilti & Jehle in Feldkirch is a local body of water that invites visitors to linger in nature.",
-                  "category": "natural",
-                  "coords": [
-                        9.587596,
-                        47.27803
-                  ]
-            },
-            {
                   "name": "Baggersee Klostergatter",
                   "text": "The Baggersee Klostergatter in Feldkirch is a quiet spot to enjoy the view of the water and the surroundings.",
                   "category": "natural",
@@ -9147,39 +8490,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Güfelsee",
-                  "text": "The Güfelsee in Feldkirch is a small body of water that offers a relaxing atmosphere for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        9.581103,
-                        47.290048
-                  ]
-            },
-            {
                   "name": "Alte Rüttenen",
                   "text": "Alte Rüttenen in Feldkirch is a natural body of water well-suited for relaxing strolls.",
                   "category": "natural",
                   "coords": [
                         9.579717,
                         47.274649
-                  ]
-            },
-            {
-                  "name": "Badesee",
-                  "text": "The swimming lake in Feldkirch is a popular destination for those seeking refreshment and relaxation by the water.",
-                  "category": "natural",
-                  "coords": [
-                        9.505363,
-                        47.218086
-                  ]
-            },
-            {
-                  "name": "Sägaweiher",
-                  "text": "The Sägaweiher in Feldkirch provides a picturesque backdrop for a short break in the countryside.",
-                  "category": "natural",
-                  "coords": [
-                        9.551793,
-                        47.192909
                   ]
             },
             {
@@ -10689,15 +10005,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hl. Anna",
-                  "text": "Säulenbildstock Hl. Anna, ein denkmalgeschützter Bildstock in Baden.",
-                  "category": "landmark",
-                  "coords": [
-                        16.215344,
-                        47.985678
-                  ]
-            },
-            {
                   "name": "Arthur Schnitzler Park",
                   "text": "Arthur Schnitzler Park in Baden, ein öffentlicher Park, benannt nach dem Schriftsteller Arthur Schnitzler.",
                   "category": "park",
@@ -10824,15 +10131,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Art & Fun Factory",
-                  "text": "Die Art & Fun Factory in Baden ist ein Kreativzentrum mit Workshops für Kinder und Erwachsene.",
-                  "category": "cultural",
-                  "coords": [
-                        16.263827,
-                        48.00726
-                  ]
-            },
-            {
                   "name": "Mautner von Markhof-Pavillon",
                   "text": "1908 erbauter Mautner von Markhof-Pavillon in Baden.",
                   "category": "landmark",
@@ -10911,15 +10209,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.22895,
                         48.011124
-                  ]
-            },
-            {
-                  "name": "Hochbehälter Kottingbrunn",
-                  "text": "Ein Wasserbecken in Baden bei Wien, das in eine ruhige Landschaft eingebettet ist.",
-                  "category": "natural",
-                  "coords": [
-                        16.20252,
-                        47.942063
                   ]
             },
             {
@@ -11267,15 +10556,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hl. Anna",
-                  "text": "Szent Anna-oszlopkápolna, egy műemlék szentélyoszlop Badenben.",
-                  "category": "landmark",
-                  "coords": [
-                        16.215344,
-                        47.985678
-                  ]
-            },
-            {
                   "name": "Arthur Schnitzler Park",
                   "text": "Arthur Schnitzler Park Badenben, egy közpark, amely Arthur Schnitzler íróról kapta a nevét.",
                   "category": "park",
@@ -11402,15 +10682,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Art & Fun Factory",
-                  "text": "A badeni Art & Fun Factory egy kreatív központ gyermek- és felnőtt workshopokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        16.263827,
-                        48.00726
-                  ]
-            },
-            {
                   "name": "Mautner von Markhof-Pavillon",
                   "text": "1908-ban épült Mautner von Markhof-pavilon Badenben.",
                   "category": "landmark",
@@ -11489,15 +10760,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.22895,
                         48.011124
-                  ]
-            },
-            {
-                  "name": "Hochbehälter Kottingbrunn",
-                  "text": "Egy víztározó Baden bei Wienben, amely nyugodt tájba ágyazódik.",
-                  "category": "natural",
-                  "coords": [
-                        16.20252,
-                        47.942063
                   ]
             },
             {
@@ -11845,15 +11107,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hl. Anna",
-                  "text": "Stâlp votiv Sf. Ana, un monument protejat în Baden.",
-                  "category": "landmark",
-                  "coords": [
-                        16.215344,
-                        47.985678
-                  ]
-            },
-            {
                   "name": "Arthur Schnitzler Park",
                   "text": "Parcul Arthur Schnitzler din Baden, un parc public numit după scriitorul Arthur Schnitzler.",
                   "category": "park",
@@ -11980,15 +11233,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Art & Fun Factory",
-                  "text": "Art & Fun Factory din Baden este un centru creativ cu ateliere pentru copii și adulți.",
-                  "category": "cultural",
-                  "coords": [
-                        16.263827,
-                        48.00726
-                  ]
-            },
-            {
                   "name": "Mautner von Markhof-Pavillon",
                   "text": "Pavilionul Mautner von Markhof, construit în 1908 în Baden.",
                   "category": "landmark",
@@ -12067,15 +11311,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.22895,
                         48.011124
-                  ]
-            },
-            {
-                  "name": "Hochbehälter Kottingbrunn",
-                  "text": "Un rezervor de apă în Baden bei Wien, situat într-un peisaj liniștit.",
-                  "category": "natural",
-                  "coords": [
-                        16.20252,
-                        47.942063
                   ]
             },
             {
@@ -12423,15 +11658,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hl. Anna",
-                  "text": "St. Anne wayside shrine, a protected column monument in Baden.",
-                  "category": "landmark",
-                  "coords": [
-                        16.215344,
-                        47.985678
-                  ]
-            },
-            {
                   "name": "Arthur Schnitzler Park",
                   "text": "Arthur Schnitzler Park in Baden, a public park named after writer Arthur Schnitzler.",
                   "category": "park",
@@ -12558,15 +11784,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Art & Fun Factory",
-                  "text": "Art & Fun Factory in Baden is a creative centre offering workshops for children and adults.",
-                  "category": "cultural",
-                  "coords": [
-                        16.263827,
-                        48.00726
-                  ]
-            },
-            {
                   "name": "Mautner von Markhof-Pavillon",
                   "text": "Mautner von Markhof Pavilion built in 1908 in Baden.",
                   "category": "landmark",
@@ -12645,15 +11862,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.22895,
                         48.011124
-                  ]
-            },
-            {
-                  "name": "Hochbehälter Kottingbrunn",
-                  "text": "A water reservoir in Baden bei Wien, set in a quiet landscape.",
-                  "category": "natural",
-                  "coords": [
-                        16.20252,
-                        47.942063
                   ]
             },
             {
@@ -13560,15 +12768,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Trabocher See",
-                  "text": "Ein idyllischer See bei Leoben, der ein beliebtes Ausflugsziel für Naturliebhaber ist.",
-                  "category": "natural",
-                  "coords": [
-                        14.990916,
-                        47.38957
-                  ]
-            },
-            {
                   "name": "Hochspeicher Häuselberg",
                   "text": "Ein künstlich angelegtes Gewässer in Leoben, das sich harmonisch in die Landschaft fügt.",
                   "category": "natural",
@@ -13910,15 +13109,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.071217,
                         47.360819
-                  ]
-            },
-            {
-                  "name": "Trabocher See",
-                  "text": "Idilli tó Leoben közelében, amely kedvelt kirándulóhely a természetbarátok számára.",
-                  "category": "natural",
-                  "coords": [
-                        14.990916,
-                        47.38957
                   ]
             },
             {
@@ -14266,15 +13456,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Trabocher See",
-                  "text": "Un lac idilic lângă Leoben, care este o destinație populară pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        14.990916,
-                        47.38957
-                  ]
-            },
-            {
                   "name": "Hochspeicher Häuselberg",
                   "text": "O apă artificială în Leoben, care se integrează armonios în peisaj.",
                   "category": "natural",
@@ -14616,15 +13797,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.071217,
                         47.360819
-                  ]
-            },
-            {
-                  "name": "Trabocher See",
-                  "text": "An idyllic lake near Leoben, which is a popular excursion destination for nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        14.990916,
-                        47.38957
                   ]
             },
             {
@@ -15918,15 +15090,6 @@ export const austriaCitiesV2: POI[] = [
     id: "austria-traun-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Waldbad Pasching",
-                  "text": "Ein öffentliches Freibad in der Nähe von Traun für sommerliche Erholung.",
-                  "category": "family",
-                  "coords": [
-                        14.226641,
-                        48.236056
-                  ]
-            },
-            {
                   "name": "Erlebnisbad Ansfelden",
                   "text": "Ein beliebtes Erlebnisbad in Ansfelden mit verschiedenen Wasserattraktionen.",
                   "category": "family",
@@ -15960,24 +15123,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.221014,
                         48.214365
-                  ]
-            },
-            {
-                  "name": "Heilig-Kreuz-Kirche Langholzfeld",
-                  "text": "Ein modernes Kirchengebäude im Stadtteil Langholzfeld in Traun.",
-                  "category": "religious",
-                  "coords": [
-                        14.240514,
-                        48.24364
-                  ]
-            },
-            {
-                  "name": "Kirche St. Martin",
-                  "text": "Eine dem heiligen Martin geweihte Kirche in der Stadt Traun.",
-                  "category": "religious",
-                  "coords": [
-                        14.262329,
-                        48.237415
                   ]
             },
             {
@@ -16071,39 +15216,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lasersport Pasching",
-                  "text": "Lasersport Pasching bei Traun bietet eine spannende und aktive Freizeitbeschäftigung für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        14.234007,
-                        48.245407
-                  ]
-            },
-            {
-                  "name": "Lollipark",
-                  "text": "Der Lollipark in Traun ist ein beliebter Indoor-Spielplatz, der Kindern viel Raum für Bewegung und Spaß bietet.",
-                  "category": "family",
-                  "coords": [
-                        14.235016,
-                        48.245611
-                  ]
-            },
-            {
                   "name": "Spielplatz Buchenweg",
                   "text": "Der Spielplatz am Buchenweg in Traun ist ein gemütlicher Ort für Kinder aus der Nachbarschaft zum Spielen.",
                   "category": "family",
                   "coords": [
                         14.206988,
                         48.212458
-                  ]
-            },
-            {
-                  "name": "Spielplatz Stelzhamerstraße",
-                  "text": "In der Stelzhamerstraße in Traun finden Kinder einen Spielplatz, der zum aktiven Zeitvertreib an der Luft einlädt.",
-                  "category": "family",
-                  "coords": [
-                        14.258155,
-                        48.204156
                   ]
             },
             {
@@ -16154,15 +15272,6 @@ export const austriaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Waldbad Pasching",
-                  "text": "Nyilvános szabadtéri strand Traun közelében a nyári kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        14.226641,
-                        48.236056
-                  ]
-            },
-            {
                   "name": "Erlebnisbad Ansfelden",
                   "text": "Népszerű élményfürdő Ansfeldenben, különféle vízi attrakciókkal.",
                   "category": "family",
@@ -16196,24 +15305,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.221014,
                         48.214365
-                  ]
-            },
-            {
-                  "name": "Heilig-Kreuz-Kirche Langholzfeld",
-                  "text": "Modern templomépület Traun Langholzfeld városrészében.",
-                  "category": "religious",
-                  "coords": [
-                        14.240514,
-                        48.24364
-                  ]
-            },
-            {
-                  "name": "Kirche St. Martin",
-                  "text": "Szent Mártonnak szentelt templom Traun városában.",
-                  "category": "religious",
-                  "coords": [
-                        14.262329,
-                        48.237415
                   ]
             },
             {
@@ -16307,39 +15398,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lasersport Pasching",
-                  "text": "A Traun melletti Lasersport Pasching izgalmas és aktív szabadidős tevékenységet kínál az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        14.234007,
-                        48.245407
-                  ]
-            },
-            {
-                  "name": "Lollipark",
-                  "text": "A trauni Lollipark egy népszerű fedett játszótér, amely bőséges helyet kínál a gyerekeknek a mozgáshoz és szórakozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        14.235016,
-                        48.245611
-                  ]
-            },
-            {
                   "name": "Spielplatz Buchenweg",
                   "text": "A trauni Buchenweg játszótér egy barátságos hely a környéken lakó gyermekek számára a játékhoz.",
                   "category": "family",
                   "coords": [
                         14.206988,
                         48.212458
-                  ]
-            },
-            {
-                  "name": "Spielplatz Stelzhamerstraße",
-                  "text": "A trauni Stelzhamerstraße mentén egy játszótér várja a gyerekeket, amely aktív szabadtéri időtöltésre hívogat.",
-                  "category": "family",
-                  "coords": [
-                        14.258155,
-                        48.204156
                   ]
             },
             {
@@ -16390,15 +15454,6 @@ export const austriaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Waldbad Pasching",
-                  "text": "Un ștrand public în apropiere de Traun pentru recreere pe timp de vară.",
-                  "category": "family",
-                  "coords": [
-                        14.226641,
-                        48.236056
-                  ]
-            },
-            {
                   "name": "Erlebnisbad Ansfelden",
                   "text": "Un parc acvatic popular în Ansfelden, cu diverse atracții acvatice.",
                   "category": "family",
@@ -16432,24 +15487,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.221014,
                         48.214365
-                  ]
-            },
-            {
-                  "name": "Heilig-Kreuz-Kirche Langholzfeld",
-                  "text": "O clădire bisericească modernă în districtul Langholzfeld din Traun.",
-                  "category": "religious",
-                  "coords": [
-                        14.240514,
-                        48.24364
-                  ]
-            },
-            {
-                  "name": "Kirche St. Martin",
-                  "text": "O biserică dedicată Sfântului Martin în orașul Traun.",
-                  "category": "religious",
-                  "coords": [
-                        14.262329,
-                        48.237415
                   ]
             },
             {
@@ -16543,39 +15580,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lasersport Pasching",
-                  "text": "Lasersport Pasching, lângă Traun, oferă o activitate de recreere interesantă și activă pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        14.234007,
-                        48.245407
-                  ]
-            },
-            {
-                  "name": "Lollipark",
-                  "text": "Lollipark din Traun este un loc de joacă interior popular, care oferă copiilor mult spațiu pentru mișcare și distracție.",
-                  "category": "family",
-                  "coords": [
-                        14.235016,
-                        48.245611
-                  ]
-            },
-            {
                   "name": "Spielplatz Buchenweg",
                   "text": "Locul de joacă de pe Buchenweg din Traun este un loc primitor pentru copiii din vecinătate.",
                   "category": "family",
                   "coords": [
                         14.206988,
                         48.212458
-                  ]
-            },
-            {
-                  "name": "Spielplatz Stelzhamerstraße",
-                  "text": "Pe Stelzhamerstraße din Traun, copiii găsesc un loc de joacă care invită la petrecerea activă a timpului în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        14.258155,
-                        48.204156
                   ]
             },
             {
@@ -16626,15 +15636,6 @@ export const austriaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Waldbad Pasching",
-                  "text": "A public outdoor pool near Traun for summer recreation.",
-                  "category": "family",
-                  "coords": [
-                        14.226641,
-                        48.236056
-                  ]
-            },
-            {
                   "name": "Erlebnisbad Ansfelden",
                   "text": "A popular water park in Ansfelden with various water attractions.",
                   "category": "family",
@@ -16668,24 +15669,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.221014,
                         48.214365
-                  ]
-            },
-            {
-                  "name": "Heilig-Kreuz-Kirche Langholzfeld",
-                  "text": "A modern church building in the Langholzfeld district of Traun.",
-                  "category": "religious",
-                  "coords": [
-                        14.240514,
-                        48.24364
-                  ]
-            },
-            {
-                  "name": "Kirche St. Martin",
-                  "text": "A church dedicated to Saint Martin in the city of Traun.",
-                  "category": "religious",
-                  "coords": [
-                        14.262329,
-                        48.237415
                   ]
             },
             {
@@ -16779,39 +15762,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lasersport Pasching",
-                  "text": "Lasersport Pasching near Traun offers an exciting and active leisure activity for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        14.234007,
-                        48.245407
-                  ]
-            },
-            {
-                  "name": "Lollipark",
-                  "text": "The Lollipark in Traun is a popular indoor playground that offers children plenty of space for movement and fun.",
-                  "category": "family",
-                  "coords": [
-                        14.235016,
-                        48.245611
-                  ]
-            },
-            {
                   "name": "Spielplatz Buchenweg",
                   "text": "The playground on Buchenweg in Traun is a cozy spot for neighborhood children to play.",
                   "category": "family",
                   "coords": [
                         14.206988,
                         48.212458
-                  ]
-            },
-            {
-                  "name": "Spielplatz Stelzhamerstraße",
-                  "text": "On Stelzhamerstraße in Traun, children can find a playground that invites them to spend time actively outdoors.",
-                  "category": "family",
-                  "coords": [
-                        14.258155,
-                        48.204156
                   ]
             },
             {
@@ -16908,15 +15864,6 @@ export const austriaCitiesV2: POI[] = [
     id: "austria-lustenau-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Festungsmuseum Heldsberg",
-                  "text": "Das Festungsmuseum Heldsberg befindet sich in einer ehemaligen Schweizer Grenzbefestigung.",
-                  "category": "museum",
-                  "coords": [
-                        9.643244,
-                        47.443262
-                  ]
-            },
-            {
                   "name": "Museum Rhein Schauen",
                   "text": "Das Museum Rhein Schauen dokumentiert die Geschichte der Rheinregulierung in Lustenau.",
                   "category": "museum",
@@ -16962,15 +15909,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kultur im Stellwerk",
-                  "text": "Das Kultur im Stellwerk ist ein Museum in einem ehemaligen Stellwerk in Lustenau.",
-                  "category": "museum",
-                  "coords": [
-                        9.629489,
-                        47.411613
-                  ]
-            },
-            {
                   "name": "Vogelbiotop Drossel",
                   "text": "Das Vogelbiotop Drossel ist ein geschützter Lebensraum für zahlreiche Vogelarten.",
                   "category": "natural",
@@ -16989,24 +15927,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Meldegg",
-                  "text": "Meldegg ist ein Aussichtspunkt, der Blicke über die Landschaft von Lustenau bietet.",
-                  "category": "natural",
-                  "coords": [
-                        9.628624,
-                        47.439556
-                  ]
-            },
-            {
-                  "name": "Knotenpunkt",
-                  "text": "Der Knotenpunkt ist ein Verkehrsknotenpunkt mit einer Skulptur in Lustenau.",
-                  "category": "landmark",
-                  "coords": [
-                        9.634403,
-                        47.430976
-                  ]
-            },
-            {
                   "name": "Pfarrkirche \"St. Peter und Paul\"",
                   "text": "Die Pfarrkirche St. Peter und Paul ist die römisch-katholische Hauptkirche von Lustenau.",
                   "category": "religious",
@@ -17022,24 +15942,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.639426,
                         47.404159
-                  ]
-            },
-            {
-                  "name": "Katholische Kirche Maria Geburt",
-                  "text": "Katholische Kirche Maria Geburt in Lustenau, eine katholische Kirche, Mariä Geburt geweiht.",
-                  "category": "religious",
-                  "coords": [
-                        9.633674,
-                        47.433291
-                  ]
-            },
-            {
-                  "name": "Katholische Kirche",
-                  "text": "Diese katholische Kirche dient der örtlichen Kirchengemeinde in Lustenau.",
-                  "category": "religious",
-                  "coords": [
-                        9.62712,
-                        47.412742
                   ]
             },
             {
@@ -17070,75 +15972,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Möckle Weiher",
-                  "text": "Ein ruhiger Weiher bei Lustenau, der zu entspannten Spaziergängen einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        9.716245,
-                        47.443666
-                  ]
-            },
-            {
                   "name": "Alter Rhein",
                   "text": "Dieses Gewässer in Lustenau bietet eine natürliche Kulisse für Erholungsuchende.",
                   "category": "natural",
                   "coords": [
                         9.655836,
                         47.403005
-                  ]
-            },
-            {
-                  "name": "Schleienloch",
-                  "text": "Ein naturnaher See in Lustenau, ideal für Beobachtungen der lokalen Flora und Fauna.",
-                  "category": "natural",
-                  "coords": [
-                        9.673412,
-                        47.495179
-                  ]
-            },
-            {
-                  "name": "Naturbad Bruggerloch",
-                  "text": "Ein Naturbadesee bei Lustenau für erfrischenden Badespaß in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        9.657915,
-                        47.453426
-                  ]
-            },
-            {
-                  "name": "Lehmlöcher",
-                  "text": "Diese Stillgewässer in Lustenau bieten eine friedliche Atmosphäre im Grünen.",
-                  "category": "natural",
-                  "coords": [
-                        9.674038,
-                        47.358909
-                  ]
-            },
-            {
-                  "name": "Stockenweiher",
-                  "text": "Ein kleiner Weiher in Lustenau, der sich gut für eine kurze Pause in der Natur eignet.",
-                  "category": "natural",
-                  "coords": [
-                        9.675548,
-                        47.357544
-                  ]
-            },
-            {
-                  "name": "Kalkofen",
-                  "text": "Der Kalkofen in Lustenau bietet eine ruhige Kulisse für Spaziergänge und Erholung.",
-                  "category": "natural",
-                  "coords": [
-                        9.608503,
-                        47.417034
-                  ]
-            },
-            {
-                  "name": "Bodensee",
-                  "text": "Der Bodensee bei Lustenau bietet eine beeindruckende Kulisse für Spaziergänge am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        9.30627,
-                        47.647787
                   ]
             },
             {
@@ -17158,27 +15997,9 @@ export const austriaCitiesV2: POI[] = [
                         9.665357,
                         47.443908
                   ]
-            },
-            {
-                  "name": "Badi Berneck",
-                  "text": "Badi Berneck in Lustenau bietet Wasserspaß und Erholung in einer familienfreundlichen Umgebung.",
-                  "category": "family",
-                  "coords": [
-                        9.619592,
-                        47.419045
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Festungsmuseum Heldsberg",
-                  "text": "A Heldsberg erődmúzeum egy egykori svájci határerődben található.",
-                  "category": "museum",
-                  "coords": [
-                        9.643244,
-                        47.443262
-                  ]
-            },
             {
                   "name": "Museum Rhein Schauen",
                   "text": "A Museum Rhein Schauen a Rajna szabályozásának történetét dokumentálja Lustenauban.",
@@ -17225,15 +16046,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kultur im Stellwerk",
-                  "text": "A Kultur im Stellwerk egy múzeum egy egykori jelzőberendezés épületében Lustenau-ban.",
-                  "category": "museum",
-                  "coords": [
-                        9.629489,
-                        47.411613
-                  ]
-            },
-            {
                   "name": "Vogelbiotop Drossel",
                   "text": "A Vogelbiotop Drossel számos madárfaj védett élőhelye.",
                   "category": "natural",
@@ -17252,24 +16064,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Meldegg",
-                  "text": "A Meldegg egy kilátópont, amely Lustenau tájaira nyújt kilátást.",
-                  "category": "natural",
-                  "coords": [
-                        9.628624,
-                        47.439556
-                  ]
-            },
-            {
-                  "name": "Knotenpunkt",
-                  "text": "A Knotenpunkt egy közlekedési csomópont szoborral Lustenau-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        9.634403,
-                        47.430976
-                  ]
-            },
-            {
                   "name": "Pfarrkirche \"St. Peter und Paul\"",
                   "text": "A Szent Péter és Pál plébániatemplom Lustenau fő római katolikus temploma.",
                   "category": "religious",
@@ -17285,24 +16079,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.639426,
                         47.404159
-                  ]
-            },
-            {
-                  "name": "Katholische Kirche Maria Geburt",
-                  "text": "Mária Születése katolikus templom Lustenau-ban, egy katolikus templom, amely Mária születésének van szentelve.",
-                  "category": "religious",
-                  "coords": [
-                        9.633674,
-                        47.433291
-                  ]
-            },
-            {
-                  "name": "Katholische Kirche",
-                  "text": "Ez a katolikus templom a helyi egyházközséget szolgálja Lustenauban.",
-                  "category": "religious",
-                  "coords": [
-                        9.62712,
-                        47.412742
                   ]
             },
             {
@@ -17333,75 +16109,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Möckle Weiher",
-                  "text": "Nyugodt tavacska Lustenau közelében, amely pihentető sétákra hív.",
-                  "category": "natural",
-                  "coords": [
-                        9.716245,
-                        47.443666
-                  ]
-            },
-            {
                   "name": "Alter Rhein",
                   "text": "Ez a lustenaui víz természetes környezetet kínál a pihenni vágyóknak.",
                   "category": "natural",
                   "coords": [
                         9.655836,
                         47.403005
-                  ]
-            },
-            {
-                  "name": "Schleienloch",
-                  "text": "Természetközeli tó Lustenauban, ideális a helyi növény- és állatvilág megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        9.673412,
-                        47.495179
-                  ]
-            },
-            {
-                  "name": "Naturbad Bruggerloch",
-                  "text": "Természetes fürdőtó Lustenau közelében a frissítő erdei fürdőzéshez.",
-                  "category": "natural",
-                  "coords": [
-                        9.657915,
-                        47.453426
-                  ]
-            },
-            {
-                  "name": "Lehmlöcher",
-                  "text": "Ezek az állóvizek Lustenauban békés hangulatot árasztanak a zöldben.",
-                  "category": "natural",
-                  "coords": [
-                        9.674038,
-                        47.358909
-                  ]
-            },
-            {
-                  "name": "Stockenweiher",
-                  "text": "Kicsi tavacska Lustenauban, amely alkalmas egy rövid pihenőre a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        9.675548,
-                        47.357544
-                  ]
-            },
-            {
-                  "name": "Kalkofen",
-                  "text": "A Lustenau településen található Kalkofen kellemes helyszínt biztosít a sétákhoz és a pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        9.608503,
-                        47.417034
-                  ]
-            },
-            {
-                  "name": "Bodensee",
-                  "text": "A Lustenau városánál fekvő Bódeni-tó népszerű helyszín a kikapcsolódáshoz és a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        9.30627,
-                        47.647787
                   ]
             },
             {
@@ -17421,27 +16134,9 @@ export const austriaCitiesV2: POI[] = [
                         9.665357,
                         47.443908
                   ]
-            },
-            {
-                  "name": "Badi Berneck",
-                  "text": "A Lustenau-ban található Badi Berneck vízi szórakozást és pihenést kínál családbarát környezetben.",
-                  "category": "family",
-                  "coords": [
-                        9.619592,
-                        47.419045
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Festungsmuseum Heldsberg",
-                  "text": "Muzeul cetății Heldsberg se află într-o fostă fortificație de frontieră elvețiană.",
-                  "category": "museum",
-                  "coords": [
-                        9.643244,
-                        47.443262
-                  ]
-            },
             {
                   "name": "Museum Rhein Schauen",
                   "text": "Muzeul Rhein Schauen documentează istoria regularizării Rinului în Lustenau.",
@@ -17488,15 +16183,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kultur im Stellwerk",
-                  "text": "Kultur im Stellwerk este un muzeu într-o fostă cabină de semnalizare în Lustenau.",
-                  "category": "museum",
-                  "coords": [
-                        9.629489,
-                        47.411613
-                  ]
-            },
-            {
                   "name": "Vogelbiotop Drossel",
                   "text": "Biotopul pentru păsări Drossel este un habitat protejat pentru numeroase specii de păsări.",
                   "category": "natural",
@@ -17515,24 +16201,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Meldegg",
-                  "text": "Meldegg este un punct de observație care oferă priveliști asupra peisajului din Lustenau.",
-                  "category": "natural",
-                  "coords": [
-                        9.628624,
-                        47.439556
-                  ]
-            },
-            {
-                  "name": "Knotenpunkt",
-                  "text": "Knotenpunkt este un nod de circulație cu o sculptură în Lustenau.",
-                  "category": "landmark",
-                  "coords": [
-                        9.634403,
-                        47.430976
-                  ]
-            },
-            {
                   "name": "Pfarrkirche \"St. Peter und Paul\"",
                   "text": "Biserica parohială Sf. Petru și Pavel este biserica romano-catolică principală din Lustenau.",
                   "category": "religious",
@@ -17548,24 +16216,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.639426,
                         47.404159
-                  ]
-            },
-            {
-                  "name": "Katholische Kirche Maria Geburt",
-                  "text": "Biserica catolică Maria Geburt din Lustenau, o biserică catolică dedicată Nașterii Maicii Domnului.",
-                  "category": "religious",
-                  "coords": [
-                        9.633674,
-                        47.433291
-                  ]
-            },
-            {
-                  "name": "Katholische Kirche",
-                  "text": "Această biserică catolică deservește comunitatea locală din Lustenau.",
-                  "category": "religious",
-                  "coords": [
-                        9.62712,
-                        47.412742
                   ]
             },
             {
@@ -17596,75 +16246,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Möckle Weiher",
-                  "text": "Un iaz liniștit lângă Lustenau, care invită la plimbări relaxante.",
-                  "category": "natural",
-                  "coords": [
-                        9.716245,
-                        47.443666
-                  ]
-            },
-            {
                   "name": "Alter Rhein",
                   "text": "Această apă din Lustenau oferă un cadru natural pentru cei care caută relaxare.",
                   "category": "natural",
                   "coords": [
                         9.655836,
                         47.403005
-                  ]
-            },
-            {
-                  "name": "Schleienloch",
-                  "text": "Un lac natural în Lustenau, ideal pentru observarea florei și faunei locale.",
-                  "category": "natural",
-                  "coords": [
-                        9.673412,
-                        47.495179
-                  ]
-            },
-            {
-                  "name": "Naturbad Bruggerloch",
-                  "text": "Un lac de scăldat natural lângă Lustenau pentru distracție răcoritoare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.657915,
-                        47.453426
-                  ]
-            },
-            {
-                  "name": "Lehmlöcher",
-                  "text": "Aceste ape stătătoare din Lustenau oferă o atmosferă liniștită în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.674038,
-                        47.358909
-                  ]
-            },
-            {
-                  "name": "Stockenweiher",
-                  "text": "Un iaz mic în Lustenau, potrivit pentru o scurtă pauză în natură.",
-                  "category": "natural",
-                  "coords": [
-                        9.675548,
-                        47.357544
-                  ]
-            },
-            {
-                  "name": "Kalkofen",
-                  "text": "Kalkofen din Lustenau oferă un cadru liniștit pentru plimbări și relaxare în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        9.608503,
-                        47.417034
-                  ]
-            },
-            {
-                  "name": "Bodensee",
-                  "text": "Lacul Constanța (Bodensee) de lângă Lustenau oferă un cadru natural superb pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        9.30627,
-                        47.647787
                   ]
             },
             {
@@ -17684,27 +16271,9 @@ export const austriaCitiesV2: POI[] = [
                         9.665357,
                         47.443908
                   ]
-            },
-            {
-                  "name": "Badi Berneck",
-                  "text": "Badi Berneck din Lustenau oferă distracție acvatică și relaxare într-un mediu adaptat familiilor.",
-                  "category": "family",
-                  "coords": [
-                        9.619592,
-                        47.419045
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Festungsmuseum Heldsberg",
-                  "text": "The Heldsberg Fortress Museum is located in a former Swiss border fortification.",
-                  "category": "museum",
-                  "coords": [
-                        9.643244,
-                        47.443262
-                  ]
-            },
             {
                   "name": "Museum Rhein Schauen",
                   "text": "The Museum Rhein Schauen documents the history of Rhine regulation in Lustenau.",
@@ -17751,15 +16320,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kultur im Stellwerk",
-                  "text": "Kultur im Stellwerk is a museum in a former signal box in Lustenau.",
-                  "category": "museum",
-                  "coords": [
-                        9.629489,
-                        47.411613
-                  ]
-            },
-            {
                   "name": "Vogelbiotop Drossel",
                   "text": "The Drossel bird biotope is a protected habitat for numerous bird species.",
                   "category": "natural",
@@ -17778,24 +16338,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Meldegg",
-                  "text": "Meldegg is a viewpoint offering looks over the landscape of Lustenau.",
-                  "category": "natural",
-                  "coords": [
-                        9.628624,
-                        47.439556
-                  ]
-            },
-            {
-                  "name": "Knotenpunkt",
-                  "text": "Knotenpunkt is a traffic junction with a sculpture in Lustenau.",
-                  "category": "landmark",
-                  "coords": [
-                        9.634403,
-                        47.430976
-                  ]
-            },
-            {
                   "name": "Pfarrkirche \"St. Peter und Paul\"",
                   "text": "The parish church of St. Peter and Paul is the main Roman Catholic church of Lustenau.",
                   "category": "religious",
@@ -17811,24 +16353,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.639426,
                         47.404159
-                  ]
-            },
-            {
-                  "name": "Katholische Kirche Maria Geburt",
-                  "text": "Katholische Kirche Maria Geburt in Lustenau, a Catholic church dedicated to the Birth of Mary.",
-                  "category": "religious",
-                  "coords": [
-                        9.633674,
-                        47.433291
-                  ]
-            },
-            {
-                  "name": "Katholische Kirche",
-                  "text": "This Catholic church serves the local congregation in Lustenau.",
-                  "category": "religious",
-                  "coords": [
-                        9.62712,
-                        47.412742
                   ]
             },
             {
@@ -17859,75 +16383,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Möckle Weiher",
-                  "text": "A quiet pond near Lustenau, inviting for relaxed walks.",
-                  "category": "natural",
-                  "coords": [
-                        9.716245,
-                        47.443666
-                  ]
-            },
-            {
                   "name": "Alter Rhein",
                   "text": "This body of water in Lustenau provides a natural setting for those seeking relaxation.",
                   "category": "natural",
                   "coords": [
                         9.655836,
                         47.403005
-                  ]
-            },
-            {
-                  "name": "Schleienloch",
-                  "text": "A natural lake in Lustenau, ideal for observing local flora and fauna.",
-                  "category": "natural",
-                  "coords": [
-                        9.673412,
-                        47.495179
-                  ]
-            },
-            {
-                  "name": "Naturbad Bruggerloch",
-                  "text": "A natural swimming lake near Lustenau for refreshing swimming fun in nature.",
-                  "category": "natural",
-                  "coords": [
-                        9.657915,
-                        47.453426
-                  ]
-            },
-            {
-                  "name": "Lehmlöcher",
-                  "text": "These standing waters in Lustenau offer a peaceful atmosphere in the greenery.",
-                  "category": "natural",
-                  "coords": [
-                        9.674038,
-                        47.358909
-                  ]
-            },
-            {
-                  "name": "Stockenweiher",
-                  "text": "A small pond in Lustenau, well-suited for a short break in nature.",
-                  "category": "natural",
-                  "coords": [
-                        9.675548,
-                        47.357544
-                  ]
-            },
-            {
-                  "name": "Kalkofen",
-                  "text": "Kalkofen in Lustenau offers a scenic setting for walking and relaxing in nature.",
-                  "category": "natural",
-                  "coords": [
-                        9.608503,
-                        47.417034
-                  ]
-            },
-            {
-                  "name": "Lake Constance",
-                  "text": "Lake Constance near Lustenau offers a scenic setting for walking and relaxing by the water.",
-                  "category": "natural",
-                  "coords": [
-                        9.30627,
-                        47.647787
                   ]
             },
             {
@@ -17946,15 +16407,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.665357,
                         47.443908
-                  ]
-            },
-            {
-                  "name": "Badi Berneck",
-                  "text": "Badi Berneck in Lustenau offers water fun and relaxation in a family-friendly environment.",
-                  "category": "family",
-                  "coords": [
-                        9.619592,
-                        47.419045
                   ]
             }
       ]
@@ -18798,15 +17250,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bürgerausee",
-                  "text": "Der Bürgerausee in Hallein ist ein beliebtes Naherholungsgebiet mit schönen Wegen und Liegeflächen am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        13.141576,
-                        47.622848
-                  ]
-            },
-            {
                   "name": "Wiestalstausee-Ausgleichsbecken",
                   "text": "Das Ausgleichsbecken des Wiestalstausees in Hallein ist ein ruhiges Gewässer in einer naturnahen Umgebung.",
                   "category": "natural",
@@ -19094,15 +17537,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.089942,
                         47.665563
-                  ]
-            },
-            {
-                  "name": "Bürgerausee",
-                  "text": "A halleini Bürgerausee kedvelt pihenőhely szép sétányokkal és vízparti pihenőhelyekkel.",
-                  "category": "natural",
-                  "coords": [
-                        13.141576,
-                        47.622848
                   ]
             },
             {
@@ -19396,15 +17830,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bürgerausee",
-                  "text": "Bürgerausee din Hallein este o zonă de recreere populară, cu alei frumoase și spații de relaxare pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        13.141576,
-                        47.622848
-                  ]
-            },
-            {
                   "name": "Wiestalstausee-Ausgleichsbecken",
                   "text": "Bazinul de compensare al lacului Wiestalstausee din Hallein este un curs de apă liniștit într-un cadru natural.",
                   "category": "natural",
@@ -19692,15 +18117,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         13.089942,
                         47.665563
-                  ]
-            },
-            {
-                  "name": "Bürgerausee",
-                  "text": "The Bürgerausee in Hallein is a popular recreation area with nice paths and lounging areas by the water.",
-                  "category": "natural",
-                  "coords": [
-                        13.141576,
-                        47.622848
                   ]
             },
             {
@@ -21462,15 +19878,6 @@ export const austriaCitiesV2: POI[] = [
     id: "austria-saalfelden-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Ritzensee",
-                  "text": "Dieser Badesee in Saalfelden bietet eine malerische Kulisse für Schwimmer.",
-                  "category": "family",
-                  "coords": [
-                        12.846982,
-                        47.41896
-                  ]
-            },
-            {
                   "name": "Schwimmbad Obsmarkt Saalfelden",
                   "text": "Dieses Erlebnisbad in Saalfelden verfügt über vielfältige Wasserattraktionen für Besucher.",
                   "category": "family",
@@ -21504,15 +19911,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         12.844119,
                         47.429357
-                  ]
-            },
-            {
-                  "name": "Schloss Dorfheim",
-                  "text": "Schloss Dorfheim ist ein ehemaliger Herrensitz in Saalfelden. Das historische Gebäude ist ein Beispiel für die ritterliche Architektur in der Region Salzburg.",
-                  "category": "castle",
-                  "coords": [
-                        12.835322,
-                        47.43134
                   ]
             },
             {
@@ -21617,15 +20015,6 @@ export const austriaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Ritzensee",
-                  "text": "Ez a saalfeldeni fürdőhely festői hátteret biztosít az úszók számára.",
-                  "category": "family",
-                  "coords": [
-                        12.846982,
-                        47.41896
-                  ]
-            },
-            {
                   "name": "Schwimmbad Obsmarkt Saalfelden",
                   "text": "Ez a saalfeldeni élményfürdő változatos vízi attrakciókkal várja a látogatókat.",
                   "category": "family",
@@ -21659,15 +20048,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         12.844119,
                         47.429357
-                  ]
-            },
-            {
-                  "name": "Schloss Dorfheim",
-                  "text": "A Dorfheim-kastély egy egykori nemesi kúria Saalfeldenben. A történelmi épület a salzburgi régió lovagi építészetének egyik példája.",
-                  "category": "castle",
-                  "coords": [
-                        12.835322,
-                        47.43134
                   ]
             },
             {
@@ -21772,15 +20152,6 @@ export const austriaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Ritzensee",
-                  "text": "Această zonă de înot din Saalfelden oferă un cadru pitoresc pentru înotători.",
-                  "category": "family",
-                  "coords": [
-                        12.846982,
-                        47.41896
-                  ]
-            },
-            {
                   "name": "Schwimmbad Obsmarkt Saalfelden",
                   "text": "Acest parc acvatic din Saalfelden dispune de diverse atracții acvatice pentru vizitatori.",
                   "category": "family",
@@ -21814,15 +20185,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         12.844119,
                         47.429357
-                  ]
-            },
-            {
-                  "name": "Schloss Dorfheim",
-                  "text": "Castelul Dorfheim este un fost conac boieresc situat în Saalfelden. Clădirea istorică este un exemplu de arhitectură nobiliară din regiunea Salzburg.",
-                  "category": "castle",
-                  "coords": [
-                        12.835322,
-                        47.43134
                   ]
             },
             {
@@ -21927,15 +20289,6 @@ export const austriaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Ritzensee",
-                  "text": "This swimming area in Saalfelden offers a picturesque backdrop for swimmers.",
-                  "category": "family",
-                  "coords": [
-                        12.846982,
-                        47.41896
-                  ]
-            },
-            {
                   "name": "Schwimmbad Obsmarkt Saalfelden",
                   "text": "This water park in Saalfelden features a variety of water attractions for visitors.",
                   "category": "family",
@@ -21969,15 +20322,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         12.844119,
                         47.429357
-                  ]
-            },
-            {
-                  "name": "Schloss Dorfheim",
-                  "text": "Schloss Dorfheim is a former manor house in Saalfelden. The historic building is an example of chivalric architecture in the Salzburg region.",
-                  "category": "castle",
-                  "coords": [
-                        12.835322,
-                        47.43134
                   ]
             },
             {
@@ -22551,15 +20895,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Erlebnisbad Ansfelden",
-                  "text": "Das Erlebnisbad Ansfelden ist ein Erlebnisbad mit Rutschen in Ansfelden.",
-                  "category": "family",
-                  "coords": [
-                        14.258619,
-                        48.209041
-                  ]
-            },
-            {
                   "name": "Europaschutzgebiet Traun-Donau-Auen",
                   "text": "Ein geschütztes Naturgebiet in den Auen zwischen Traun und Donau.",
                   "category": "natural",
@@ -22575,60 +20910,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.305073,
                         48.196649
-                  ]
-            },
-            {
-                  "name": "Autobahnkirche Haid",
-                  "text": "Eine bekannte Kirche direkt an der Autobahn für Reisende und Gläubige.",
-                  "category": "religious",
-                  "coords": [
-                        14.25269,
-                        48.204931
-                  ]
-            },
-            {
-                  "name": "Evangelische Pfarrkirche",
-                  "text": "Die evangelische Pfarrkirche der Gemeinde Ansfelden.",
-                  "category": "religious",
-                  "coords": [
-                        14.252683,
-                        48.202878
-                  ]
-            },
-            {
-                  "name": "Oedtersee",
-                  "text": "Ein beliebter Badesee in Ansfelden, der im Sommer Erfrischung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        14.221095,
-                        48.212734
-                  ]
-            },
-            {
-                  "name": "Kleiner Weikerlsee",
-                  "text": "Ein ruhiger See in Ansfelden, ideal für Spaziergänge am Ufer.",
-                  "category": "natural",
-                  "coords": [
-                        14.36122,
-                        48.263528
-                  ]
-            },
-            {
-                  "name": "Puckinger See",
-                  "text": "Ein schönes Erholungsgebiet in Ansfelden mit einem See zum Entspannen.",
-                  "category": "natural",
-                  "coords": [
-                        14.194933,
-                        48.195136
-                  ]
-            },
-            {
-                  "name": "Gablerpark-Spielplatz",
-                  "text": "Ein familienfreundlicher Spielplatz in Ansfelden, der zum Toben einlädt.",
-                  "category": "family",
-                  "coords": [
-                        14.270941,
-                        48.229982
                   ]
             },
             {
@@ -22661,15 +20942,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Erlebnisbad Ansfelden",
-                  "text": "Az Erlebnisbad Ansfelden egy élményfürdő csúszdákkal Ansfeldenben.",
-                  "category": "family",
-                  "coords": [
-                        14.258619,
-                        48.209041
-                  ]
-            },
-            {
                   "name": "Europaschutzgebiet Traun-Donau-Auen",
                   "text": "Védett természeti terület a Traun és a Duna közötti ártéren.",
                   "category": "natural",
@@ -22685,60 +20957,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.305073,
                         48.196649
-                  ]
-            },
-            {
-                  "name": "Autobahnkirche Haid",
-                  "text": "Ismert templom közvetlenül az autópálya mellett utazók és hívők számára.",
-                  "category": "religious",
-                  "coords": [
-                        14.25269,
-                        48.204931
-                  ]
-            },
-            {
-                  "name": "Evangelische Pfarrkirche",
-                  "text": "Ansfelden község evangélikus plébániatemploma.",
-                  "category": "religious",
-                  "coords": [
-                        14.252683,
-                        48.202878
-                  ]
-            },
-            {
-                  "name": "Oedtersee",
-                  "text": "Egy népszerű fürdőtó Ansfeldenben, amely nyáron felfrissülést nyújt.",
-                  "category": "natural",
-                  "coords": [
-                        14.221095,
-                        48.212734
-                  ]
-            },
-            {
-                  "name": "Kleiner Weikerlsee",
-                  "text": "Egy nyugodt tó Ansfeldenben, ideális vízparti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        14.36122,
-                        48.263528
-                  ]
-            },
-            {
-                  "name": "Puckinger See",
-                  "text": "Egy szép üdülőhely Ansfeldenben, tóval a pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        14.194933,
-                        48.195136
-                  ]
-            },
-            {
-                  "name": "Gablerpark-Spielplatz",
-                  "text": "Egy családbarát játszótér Ansfeldenben, amely játékra hív.",
-                  "category": "family",
-                  "coords": [
-                        14.270941,
-                        48.229982
                   ]
             },
             {
@@ -22771,15 +20989,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Erlebnisbad Ansfelden",
-                  "text": "Erlebnisbad Ansfelden este o piscină de aventură cu tobogane în Ansfelden.",
-                  "category": "family",
-                  "coords": [
-                        14.258619,
-                        48.209041
-                  ]
-            },
-            {
                   "name": "Europaschutzgebiet Traun-Donau-Auen",
                   "text": "O zonă naturală protejată în luncile dintre râurile Traun și Dunăre.",
                   "category": "natural",
@@ -22795,60 +21004,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.305073,
                         48.196649
-                  ]
-            },
-            {
-                  "name": "Autobahnkirche Haid",
-                  "text": "O biserică cunoscută situată direct pe autostradă pentru călători și credincioși.",
-                  "category": "religious",
-                  "coords": [
-                        14.25269,
-                        48.204931
-                  ]
-            },
-            {
-                  "name": "Evangelische Pfarrkirche",
-                  "text": "Biserica parohială evanghelică a comunei Ansfelden.",
-                  "category": "religious",
-                  "coords": [
-                        14.252683,
-                        48.202878
-                  ]
-            },
-            {
-                  "name": "Oedtersee",
-                  "text": "Un lac de scăldat popular în Ansfelden, care oferă răcoare pe timpul verii.",
-                  "category": "natural",
-                  "coords": [
-                        14.221095,
-                        48.212734
-                  ]
-            },
-            {
-                  "name": "Kleiner Weikerlsee",
-                  "text": "Un lac liniștit în Ansfelden, ideal pentru plimbări pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        14.36122,
-                        48.263528
-                  ]
-            },
-            {
-                  "name": "Puckinger See",
-                  "text": "O zonă frumoasă de recreere în Ansfelden, cu un lac pentru relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        14.194933,
-                        48.195136
-                  ]
-            },
-            {
-                  "name": "Gablerpark-Spielplatz",
-                  "text": "Un teren de joacă prietenos pentru familii în Ansfelden, care invită la joacă.",
-                  "category": "family",
-                  "coords": [
-                        14.270941,
-                        48.229982
                   ]
             },
             {
@@ -22881,15 +21036,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Erlebnisbad Ansfelden",
-                  "text": "Erlebnisbad Ansfelden is an adventure pool with slides in Ansfelden.",
-                  "category": "family",
-                  "coords": [
-                        14.258619,
-                        48.209041
-                  ]
-            },
-            {
                   "name": "Europaschutzgebiet Traun-Donau-Auen",
                   "text": "A protected nature area in the wetlands between the Traun and Danube rivers.",
                   "category": "natural",
@@ -22905,60 +21051,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.305073,
                         48.196649
-                  ]
-            },
-            {
-                  "name": "Autobahnkirche Haid",
-                  "text": "A well-known church located directly on the highway for travelers and believers.",
-                  "category": "religious",
-                  "coords": [
-                        14.25269,
-                        48.204931
-                  ]
-            },
-            {
-                  "name": "Evangelische Pfarrkirche",
-                  "text": "The Protestant parish church of the Ansfelden community.",
-                  "category": "religious",
-                  "coords": [
-                        14.252683,
-                        48.202878
-                  ]
-            },
-            {
-                  "name": "Oedtersee",
-                  "text": "A popular swimming lake in Ansfelden, offering refreshment in summer.",
-                  "category": "natural",
-                  "coords": [
-                        14.221095,
-                        48.212734
-                  ]
-            },
-            {
-                  "name": "Kleiner Weikerlsee",
-                  "text": "A quiet lake in Ansfelden, ideal for walks along the shore.",
-                  "category": "natural",
-                  "coords": [
-                        14.36122,
-                        48.263528
-                  ]
-            },
-            {
-                  "name": "Puckinger See",
-                  "text": "A beautiful recreation area in Ansfelden with a lake for relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        14.194933,
-                        48.195136
-                  ]
-            },
-            {
-                  "name": "Gablerpark-Spielplatz",
-                  "text": "A family-friendly playground in Ansfelden, inviting children to play.",
-                  "category": "family",
-                  "coords": [
-                        14.270941,
-                        48.229982
                   ]
             },
             {
@@ -23154,24 +21246,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sonderberg",
-                  "text": "Ein Berggipfel in der hügeligen Landschaft um Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.654437,
-                        47.347513
-                  ]
-            },
-            {
-                  "name": "Eichbühel",
-                  "text": "Eichbühel in Hohenems, ein bewaldeter Hügel (Eichenhügel).",
-                  "category": "natural",
-                  "coords": [
-                        9.664928,
-                        47.340575
-                  ]
-            },
-            {
                   "name": "Wieskopf",
                   "text": "Ein Berggipfel in der alpinen Umgebung von Hohenems.",
                   "category": "natural",
@@ -23235,15 +21309,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Söle",
-                  "text": "Die Soele ist ein natürlicher Teich in Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.664708,
-                        47.342443
-                  ]
-            },
-            {
                   "name": "Nepomukkapelle",
                   "text": "Eine historische Kapelle in Hohenems, die dem Heiligen Johannes Nepomuk gewidmet ist.",
                   "category": "religious",
@@ -23262,15 +21327,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pfarrkirche Altach",
-                  "text": "Die katholische Pfarrkirche der Gemeinde Altach bei Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.65191,
-                        47.354091
-                  ]
-            },
-            {
                   "name": "Kapelle hl. Sebastian und hl. Antonius",
                   "text": "Eine dem Heiligen Sebastian und Antonius gewidmete Kapelle in Hohenems.",
                   "category": "religious",
@@ -23280,30 +21336,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kapelle Oberer Berg",
-                  "text": "Eine kleine Kapelle in erhöhter Lage in Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.671665,
-                        47.340096
-                  ]
-            },
-            {
                   "name": "Pfarrkirche Herrenried",
                   "text": "Die moderne Pfarrkirche im Stadtteil Herrenried in Hohenems.",
                   "category": "religious",
                   "coords": [
                         9.676975,
                         47.366303
-                  ]
-            },
-            {
-                  "name": "Alter Rhein",
-                  "text": "Der Alte Rhein ist ein Altarm des Rheins in Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.655836,
-                        47.403005
                   ]
             },
             {
@@ -23325,15 +21363,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Löschteich",
-                  "text": "Der Löschteich ist ein Löschwasserteich in Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.680772,
-                        47.316005
-                  ]
-            },
-            {
                   "name": "Kinder-Erlebniswelt",
                   "text": "Die Kinder-Erlebniswelt in Hohenems bietet Abwechslung für Familien mit Kindern.",
                   "category": "family",
@@ -23349,15 +21378,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.676229,
                         47.371814
-                  ]
-            },
-            {
-                  "name": "Dorfplatz",
-                  "text": "Ein Spielplatz am Dorfplatz in Hohenems für die kleinsten Besucher.",
-                  "category": "family",
-                  "coords": [
-                        9.650201,
-                        47.353957
                   ]
             },
             {
@@ -23394,15 +21414,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.676851,
                         47.356063
-                  ]
-            },
-            {
-                  "name": "Schwimmbad in der Riebe",
-                  "text": "Dieses Wasserpark in Hohenems lädt mit seinen Anlagen zum Baden und Verweilen ein.",
-                  "category": "family",
-                  "coords": [
-                        9.654433,
-                        47.333162
                   ]
             }
       ],
@@ -23534,24 +21545,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sonderberg",
-                  "text": "Hegycsúcs Hohenems dombos vidékén.",
-                  "category": "natural",
-                  "coords": [
-                        9.654437,
-                        47.347513
-                  ]
-            },
-            {
-                  "name": "Eichbühel",
-                  "text": "Eichbühel Hohenemsben, egy erdős domb (tölgyes domb).",
-                  "category": "natural",
-                  "coords": [
-                        9.664928,
-                        47.340575
-                  ]
-            },
-            {
                   "name": "Wieskopf",
                   "text": "Hegycsúcs Hohenems alpesi környezetében.",
                   "category": "natural",
@@ -23615,15 +21608,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Söle",
-                  "text": "A Soele egy természetes tó Hohenemsben.",
-                  "category": "natural",
-                  "coords": [
-                        9.664708,
-                        47.342443
-                  ]
-            },
-            {
                   "name": "Nepomukkapelle",
                   "text": "Nepomuki Szent Jánosnak szentelt történelmi kápolna Hohenemsben.",
                   "category": "religious",
@@ -23642,15 +21626,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pfarrkirche Altach",
-                  "text": "Altach község katolikus plébániatemploma Hohenems közelében.",
-                  "category": "religious",
-                  "coords": [
-                        9.65191,
-                        47.354091
-                  ]
-            },
-            {
                   "name": "Kapelle hl. Sebastian und hl. Antonius",
                   "text": "Szent Sebestyénnek és Antalnak szentelt kápolna Hohenemsben.",
                   "category": "religious",
@@ -23660,30 +21635,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kapelle Oberer Berg",
-                  "text": "Kisméretű kápolna Hohenems egyik magaslati pontján.",
-                  "category": "religious",
-                  "coords": [
-                        9.671665,
-                        47.340096
-                  ]
-            },
-            {
                   "name": "Pfarrkirche Herrenried",
                   "text": "Modern plébániatemplom Hohenems Herrenried városrészében.",
                   "category": "religious",
                   "coords": [
                         9.676975,
                         47.366303
-                  ]
-            },
-            {
-                  "name": "Alter Rhein",
-                  "text": "Az Alte Rhein egy holtág a Rajnán Hohenemsben.",
-                  "category": "natural",
-                  "coords": [
-                        9.655836,
-                        47.403005
                   ]
             },
             {
@@ -23705,15 +21662,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Löschteich",
-                  "text": "A Löschteich egy oltóvíztározó Hohenemsben.",
-                  "category": "natural",
-                  "coords": [
-                        9.680772,
-                        47.316005
-                  ]
-            },
-            {
                   "name": "Kinder-Erlebniswelt",
                   "text": "A hohenemsi Kinder-Erlebniswelt kikapcsolódást nyújt a gyermekes családoknak.",
                   "category": "family",
@@ -23729,15 +21677,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.676229,
                         47.371814
-                  ]
-            },
-            {
-                  "name": "Dorfplatz",
-                  "text": "Egy játszótér a hohenemsi Dorfplatzon a legkisebb látogatók számára.",
-                  "category": "family",
-                  "coords": [
-                        9.650201,
-                        47.353957
                   ]
             },
             {
@@ -23774,15 +21713,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.676851,
                         47.356063
-                  ]
-            },
-            {
-                  "name": "Schwimmbad in der Riebe",
-                  "text": "Ez a hohenemsi vízi park fürdőzésre és pihenésre hívja a látogatókat.",
-                  "category": "family",
-                  "coords": [
-                        9.654433,
-                        47.333162
                   ]
             }
       ],
@@ -23914,24 +21844,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sonderberg",
-                  "text": "Un vârf montan în peisajul deluros din jurul localității Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.654437,
-                        47.347513
-                  ]
-            },
-            {
-                  "name": "Eichbühel",
-                  "text": "Eichbühel din Hohenems, un deal împădurit (dealul stejarilor).",
-                  "category": "natural",
-                  "coords": [
-                        9.664928,
-                        47.340575
-                  ]
-            },
-            {
                   "name": "Wieskopf",
                   "text": "Un vârf montan în împrejurimile alpine ale localității Hohenems.",
                   "category": "natural",
@@ -23995,15 +21907,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Söle",
-                  "text": "Soele este un iaz natural în Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.664708,
-                        47.342443
-                  ]
-            },
-            {
                   "name": "Nepomukkapelle",
                   "text": "O capelă istorică din Hohenems dedicată Sfântului Ioan Nepomuk.",
                   "category": "religious",
@@ -24022,15 +21925,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pfarrkirche Altach",
-                  "text": "Biserica parohială catolică a comunei Altach de lângă Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.65191,
-                        47.354091
-                  ]
-            },
-            {
                   "name": "Kapelle hl. Sebastian und hl. Antonius",
                   "text": "O capelă dedicată sfinților Sebastian și Anton în Hohenems.",
                   "category": "religious",
@@ -24040,30 +21934,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kapelle Oberer Berg",
-                  "text": "O mică capelă situată într-o zonă înaltă din Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.671665,
-                        47.340096
-                  ]
-            },
-            {
                   "name": "Pfarrkirche Herrenried",
                   "text": "Biserica parohială modernă din cartierul Herrenried în Hohenems.",
                   "category": "religious",
                   "coords": [
                         9.676975,
                         47.366303
-                  ]
-            },
-            {
-                  "name": "Alter Rhein",
-                  "text": "Alter Rhein este un braț mort al Rinului în Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.655836,
-                        47.403005
                   ]
             },
             {
@@ -24085,15 +21961,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Löschteich",
-                  "text": "Löschteich este un iaz pentru stingerea incendiilor în Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.680772,
-                        47.316005
-                  ]
-            },
-            {
                   "name": "Kinder-Erlebniswelt",
                   "text": "Kinder-Erlebniswelt din Hohenems oferă recreere pentru familiile cu copii.",
                   "category": "family",
@@ -24109,15 +21976,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.676229,
                         47.371814
-                  ]
-            },
-            {
-                  "name": "Dorfplatz",
-                  "text": "Un loc de joacă în Dorfplatz din Hohenems pentru cei mai mici vizitatori.",
-                  "category": "family",
-                  "coords": [
-                        9.650201,
-                        47.353957
                   ]
             },
             {
@@ -24154,15 +22012,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.676851,
                         47.356063
-                  ]
-            },
-            {
-                  "name": "Schwimmbad in der Riebe",
-                  "text": "Acest parc acvatic din Hohenems invită la scăldat și relaxare prin facilitățile sale.",
-                  "category": "family",
-                  "coords": [
-                        9.654433,
-                        47.333162
                   ]
             }
       ],
@@ -24294,24 +22143,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sonderberg",
-                  "text": "A mountain peak in the hilly landscape around Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.654437,
-                        47.347513
-                  ]
-            },
-            {
-                  "name": "Eichbühel",
-                  "text": "Eichbühel in Hohenems, a wooded hill (oak hill).",
-                  "category": "natural",
-                  "coords": [
-                        9.664928,
-                        47.340575
-                  ]
-            },
-            {
                   "name": "Wieskopf",
                   "text": "A mountain peak in the alpine surroundings of Hohenems.",
                   "category": "natural",
@@ -24375,15 +22206,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Soele",
-                  "text": "Soele is a natural pond in Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.664708,
-                        47.342443
-                  ]
-            },
-            {
                   "name": "Nepomukkapelle",
                   "text": "A historic chapel in Hohenems dedicated to Saint John of Nepomuk.",
                   "category": "religious",
@@ -24402,15 +22224,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pfarrkirche Altach",
-                  "text": "The Catholic parish church of the municipality of Altach near Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.65191,
-                        47.354091
-                  ]
-            },
-            {
                   "name": "Kapelle hl. Sebastian und hl. Antonius",
                   "text": "A chapel dedicated to Saints Sebastian and Anthony in Hohenems.",
                   "category": "religious",
@@ -24420,30 +22233,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kapelle Oberer Berg",
-                  "text": "A small chapel located on an elevated site in Hohenems.",
-                  "category": "religious",
-                  "coords": [
-                        9.671665,
-                        47.340096
-                  ]
-            },
-            {
                   "name": "Pfarrkirche Herrenried",
                   "text": "The modern parish church in the Herrenried district of Hohenems.",
                   "category": "religious",
                   "coords": [
                         9.676975,
                         47.366303
-                  ]
-            },
-            {
-                  "name": "Alter Rhein",
-                  "text": "Alter Rhein is an oxbow of the Rhine in Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.655836,
-                        47.403005
                   ]
             },
             {
@@ -24465,15 +22260,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Löschteich",
-                  "text": "Löschteich is a fire-fighting pond in Hohenems.",
-                  "category": "natural",
-                  "coords": [
-                        9.680772,
-                        47.316005
-                  ]
-            },
-            {
                   "name": "Kinder-Erlebniswelt",
                   "text": "The Kinder-Erlebniswelt in Hohenems offers recreation for families with children.",
                   "category": "family",
@@ -24489,15 +22275,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.676229,
                         47.371814
-                  ]
-            },
-            {
-                  "name": "Dorfplatz",
-                  "text": "A playground at the Dorfplatz in Hohenems for the youngest visitors.",
-                  "category": "family",
-                  "coords": [
-                        9.650201,
-                        47.353957
                   ]
             },
             {
@@ -24534,15 +22311,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         9.676851,
                         47.356063
-                  ]
-            },
-            {
-                  "name": "Schwimmbad in der Riebe",
-                  "text": "This water park in Hohenems invites visitors to swim and linger at its facilities.",
-                  "category": "family",
-                  "coords": [
-                        9.654433,
-                        47.333162
                   ]
             }
       ]
@@ -24594,15 +22362,6 @@ export const austriaCitiesV2: POI[] = [
     id: "austria-perchtoldsdorf-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Schloss Liechtenstein",
-                  "text": "Ein romantisches Schloss bei Perchtoldsdorf, das im 19. Jahrhundert wiederaufgebaut wurde.",
-                  "category": "castle",
-                  "coords": [
-                        16.271984,
-                        48.092011
-                  ]
-            },
-            {
                   "name": "Burg zu Perchtoldsdorf",
                   "text": "Eine mittelalterliche Burganlage im Zentrum von Perchtoldsdorf, bekannt für ihren Bergfried.",
                   "category": "castle",
@@ -24618,15 +22377,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.2552,
                         48.131121
-                  ]
-            },
-            {
-                  "name": "Schloss Hunyadi",
-                  "text": "Ein barockes Schloss in Perchtoldsdorf, das oft für kulturelle Veranstaltungen genutzt wird.",
-                  "category": "castle",
-                  "coords": [
-                        16.282378,
-                        48.098647
                   ]
             },
             {
@@ -24648,15 +22398,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Schlösschen an der Weide",
-                  "text": "Ein charmantes kleines Schlossgebäude in der Marktgemeinde Perchtoldsdorf.",
-                  "category": "castle",
-                  "coords": [
-                        16.283419,
-                        48.097039
-                  ]
-            },
-            {
                   "name": "Burg Liechtenstein",
                   "text": "Eine markante Burg am Rande des Wienerwaldes bei Perchtoldsdorf.",
                   "category": "castle",
@@ -24675,30 +22416,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rudolf-Steiner-Museum",
-                  "text": "Ein Museum in Perchtoldsdorf, das sich mit dem Werk von Rudolf Steiner befasst.",
-                  "category": "museum",
-                  "coords": [
-                        16.283358,
-                        48.107755
-                  ]
-            },
-            {
                   "name": "Archäologisches Museum",
                   "text": "Ein Museum in Perchtoldsdorf, das archäologische Funde der Region ausstellt.",
                   "category": "museum",
                   "coords": [
                         16.265151,
                         48.119807
-                  ]
-            },
-            {
-                  "name": "Natura 2000 Rauchkogel",
-                  "text": "Ein Naturschutzgebiet am Rauchkogel in Perchtoldsdorf, Teil des Natura 2000 Netzwerks.",
-                  "category": "natural",
-                  "coords": [
-                        16.272539,
-                        48.097713
                   ]
             },
             {
@@ -24927,15 +22650,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruine Rauchkogel",
-                  "text": "Ruine eines ehemaligen Lustschlosses auf dem Rauchkogel.",
-                  "category": "landmark",
-                  "coords": [
-                        16.272596,
-                        48.098625
-                  ]
-            },
-            {
                   "name": "Pfarrkirche Rodaun",
                   "text": "Katholische Pfarrkirche im Wiener Stadtteil Rodaun.",
                   "category": "religious",
@@ -24945,30 +22659,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pfarrkirche der heiligen Kunigunde",
-                  "text": "Römisch-katholische Kirche in der Umgebung von Perchtoldsdorf.",
-                  "category": "religious",
-                  "coords": [
-                        16.285801,
-                        48.107099
-                  ]
-            },
-            {
                   "name": "Spitalskirche",
                   "text": "Spitalskirche in Perchtoldsdorf, eine ehemalige Spitalskirche, heute für Konzerte genutzt.",
                   "category": "religious",
                   "coords": [
                         16.267674,
                         48.121721
-                  ]
-            },
-            {
-                  "name": "Franziskaner- und Wallfahrtskirche Maria Enzersdorf",
-                  "text": "Kloster- und Wallfahrtskirche in Maria Enzersdorf bei Perchtoldsdorf.",
-                  "category": "religious",
-                  "coords": [
-                        16.284802,
-                        48.101008
                   ]
             },
             {
@@ -25046,15 +22742,6 @@ export const austriaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Schloss Liechtenstein",
-                  "text": "Romantikus kastély Perchtoldsdorf közelében, amelyet a 19. században építettek újjá.",
-                  "category": "castle",
-                  "coords": [
-                        16.271984,
-                        48.092011
-                  ]
-            },
-            {
                   "name": "Burg zu Perchtoldsdorf",
                   "text": "Középkori vár Perchtoldsdorf központjában, amely az őrtornyáról ismert.",
                   "category": "castle",
@@ -25070,15 +22757,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.2552,
                         48.131121
-                  ]
-            },
-            {
-                  "name": "Schloss Hunyadi",
-                  "text": "Barokk kastély Perchtoldsdorfban, amely gyakran ad otthont kulturális eseményeknek.",
-                  "category": "castle",
-                  "coords": [
-                        16.282378,
-                        48.098647
                   ]
             },
             {
@@ -25100,15 +22778,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Schlösschen an der Weide",
-                  "text": "Bájos kis kastélyépület Perchtoldsdorf mezővárosában.",
-                  "category": "castle",
-                  "coords": [
-                        16.283419,
-                        48.097039
-                  ]
-            },
-            {
                   "name": "Burg Liechtenstein",
                   "text": "Jellegzetes vár a Bécsi-erdő szélén, Perchtoldsdorf közelében.",
                   "category": "castle",
@@ -25127,30 +22796,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rudolf-Steiner-Museum",
-                  "text": "Rudolf Steiner munkásságával foglalkozó múzeum Perchtoldsdorfban.",
-                  "category": "museum",
-                  "coords": [
-                        16.283358,
-                        48.107755
-                  ]
-            },
-            {
                   "name": "Archäologisches Museum",
                   "text": "A régió régészeti leleteit bemutató múzeum Perchtoldsdorfban.",
                   "category": "museum",
                   "coords": [
                         16.265151,
                         48.119807
-                  ]
-            },
-            {
-                  "name": "Natura 2000 Rauchkogel",
-                  "text": "Természetvédelmi terület a perchtoldsdorfi Rauchkogelen, a Natura 2000 hálózat része.",
-                  "category": "natural",
-                  "coords": [
-                        16.272539,
-                        48.097713
                   ]
             },
             {
@@ -25379,15 +23030,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruine Rauchkogel",
-                  "text": "Egykori kastély romjai a Rauchkogel hegyen.",
-                  "category": "landmark",
-                  "coords": [
-                        16.272596,
-                        48.098625
-                  ]
-            },
-            {
                   "name": "Pfarrkirche Rodaun",
                   "text": "Katolikus plébániatemplom Bécs Rodaun negyedében.",
                   "category": "religious",
@@ -25397,30 +23039,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pfarrkirche der heiligen Kunigunde",
-                  "text": "Római katolikus templom Perchtoldsdorf környékén.",
-                  "category": "religious",
-                  "coords": [
-                        16.285801,
-                        48.107099
-                  ]
-            },
-            {
                   "name": "Spitalskirche",
                   "text": "Spitalskirche Perchtoldsdorfban, egy egykori kórháztemplom, ma koncertekre használják.",
                   "category": "religious",
                   "coords": [
                         16.267674,
                         48.121721
-                  ]
-            },
-            {
-                  "name": "Franziskaner- und Wallfahrtskirche Maria Enzersdorf",
-                  "text": "Kolostor- és zarándoktemplom Maria Enzersdorfban, Perchtoldsdorf mellett.",
-                  "category": "religious",
-                  "coords": [
-                        16.284802,
-                        48.101008
                   ]
             },
             {
@@ -25498,15 +23122,6 @@ export const austriaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Schloss Liechtenstein",
-                  "text": "Un castel romantic lângă Perchtoldsdorf, reconstruit în secolul al XIX-lea.",
-                  "category": "castle",
-                  "coords": [
-                        16.271984,
-                        48.092011
-                  ]
-            },
-            {
                   "name": "Burg zu Perchtoldsdorf",
                   "text": "O cetate medievală în centrul orașului Perchtoldsdorf, cunoscută pentru turnul său.",
                   "category": "castle",
@@ -25522,15 +23137,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.2552,
                         48.131121
-                  ]
-            },
-            {
-                  "name": "Schloss Hunyadi",
-                  "text": "Un castel baroc în Perchtoldsdorf, utilizat frecvent pentru evenimente culturale.",
-                  "category": "castle",
-                  "coords": [
-                        16.282378,
-                        48.098647
                   ]
             },
             {
@@ -25552,15 +23158,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Schlösschen an der Weide",
-                  "text": "O clădire de castel mică și fermecătoare în Perchtoldsdorf.",
-                  "category": "castle",
-                  "coords": [
-                        16.283419,
-                        48.097039
-                  ]
-            },
-            {
                   "name": "Burg Liechtenstein",
                   "text": "O cetate proeminentă la marginea Pădurii Vieneze, lângă Perchtoldsdorf.",
                   "category": "castle",
@@ -25579,30 +23176,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rudolf-Steiner-Museum",
-                  "text": "Un muzeu în Perchtoldsdorf axat pe opera lui Rudolf Steiner.",
-                  "category": "museum",
-                  "coords": [
-                        16.283358,
-                        48.107755
-                  ]
-            },
-            {
                   "name": "Archäologisches Museum",
                   "text": "Un muzeu în Perchtoldsdorf care expune descoperiri arheologice din regiune.",
                   "category": "museum",
                   "coords": [
                         16.265151,
                         48.119807
-                  ]
-            },
-            {
-                  "name": "Natura 2000 Rauchkogel",
-                  "text": "O rezervație naturală pe Rauchkogel în Perchtoldsdorf, parte a rețelei Natura 2000.",
-                  "category": "natural",
-                  "coords": [
-                        16.272539,
-                        48.097713
                   ]
             },
             {
@@ -25831,15 +23410,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruine Rauchkogel",
-                  "text": "Ruinele unui fost castel de vânătoare pe Rauchkogel.",
-                  "category": "landmark",
-                  "coords": [
-                        16.272596,
-                        48.098625
-                  ]
-            },
-            {
                   "name": "Pfarrkirche Rodaun",
                   "text": "Biserică parohială catolică în districtul Rodaun din Viena.",
                   "category": "religious",
@@ -25849,30 +23419,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pfarrkirche der heiligen Kunigunde",
-                  "text": "Biserică romano-catolică în împrejurimile localității Perchtoldsdorf.",
-                  "category": "religious",
-                  "coords": [
-                        16.285801,
-                        48.107099
-                  ]
-            },
-            {
                   "name": "Spitalskirche",
                   "text": "Spitalskirche din Perchtoldsdorf, o fostă biserică de spital, acum folosită pentru concerte.",
                   "category": "religious",
                   "coords": [
                         16.267674,
                         48.121721
-                  ]
-            },
-            {
-                  "name": "Franziskaner- und Wallfahrtskirche Maria Enzersdorf",
-                  "text": "Mănăstire și biserică de pelerinaj în Maria Enzersdorf lângă Perchtoldsdorf.",
-                  "category": "religious",
-                  "coords": [
-                        16.284802,
-                        48.101008
                   ]
             },
             {
@@ -25950,15 +23502,6 @@ export const austriaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Schloss Liechtenstein",
-                  "text": "A romantic castle near Perchtoldsdorf that was rebuilt in the 19th century.",
-                  "category": "castle",
-                  "coords": [
-                        16.271984,
-                        48.092011
-                  ]
-            },
-            {
                   "name": "Burg zu Perchtoldsdorf",
                   "text": "A medieval castle in the center of Perchtoldsdorf, known for its prominent keep.",
                   "category": "castle",
@@ -25974,15 +23517,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.2552,
                         48.131121
-                  ]
-            },
-            {
-                  "name": "Schloss Hunyadi",
-                  "text": "A Baroque castle in Perchtoldsdorf often used as a venue for cultural events.",
-                  "category": "castle",
-                  "coords": [
-                        16.282378,
-                        48.098647
                   ]
             },
             {
@@ -26004,15 +23538,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Schlösschen an der Weide",
-                  "text": "A charming small castle building located in the town of Perchtoldsdorf.",
-                  "category": "castle",
-                  "coords": [
-                        16.283419,
-                        48.097039
-                  ]
-            },
-            {
                   "name": "Liechtenstein Castle",
                   "text": "A prominent castle situated on the edge of the Vienna Woods near Perchtoldsdorf.",
                   "category": "castle",
@@ -26031,30 +23556,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rudolf-Steiner-Museum",
-                  "text": "A museum in Perchtoldsdorf focused on the work of Rudolf Steiner.",
-                  "category": "museum",
-                  "coords": [
-                        16.283358,
-                        48.107755
-                  ]
-            },
-            {
                   "name": "Archäologisches Museum",
                   "text": "A museum in Perchtoldsdorf exhibiting archaeological finds from the region.",
                   "category": "museum",
                   "coords": [
                         16.265151,
                         48.119807
-                  ]
-            },
-            {
-                  "name": "Natura 2000 Rauchkogel",
-                  "text": "A nature reserve on the Rauchkogel in Perchtoldsdorf, part of the Natura 2000 network.",
-                  "category": "natural",
-                  "coords": [
-                        16.272539,
-                        48.097713
                   ]
             },
             {
@@ -26283,15 +23790,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruine Rauchkogel",
-                  "text": "Ruins of a former pleasure palace on the Rauchkogel hill.",
-                  "category": "landmark",
-                  "coords": [
-                        16.272596,
-                        48.098625
-                  ]
-            },
-            {
                   "name": "Pfarrkirche Rodaun",
                   "text": "Catholic parish church in the Rodaun district of Vienna.",
                   "category": "religious",
@@ -26301,30 +23799,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pfarrkirche der heiligen Kunigunde",
-                  "text": "Roman Catholic church in the vicinity of Perchtoldsdorf.",
-                  "category": "religious",
-                  "coords": [
-                        16.285801,
-                        48.107099
-                  ]
-            },
-            {
                   "name": "Spitalskirche",
                   "text": "Spitalskirche in Perchtoldsdorf, a former hospital church now used for concerts.",
                   "category": "religious",
                   "coords": [
                         16.267674,
                         48.121721
-                  ]
-            },
-            {
-                  "name": "Franziskaner- und Wallfahrtskirche Maria Enzersdorf",
-                  "text": "Monastery and pilgrimage church in Maria Enzersdorf near Perchtoldsdorf.",
-                  "category": "religious",
-                  "coords": [
-                        16.284802,
-                        48.101008
                   ]
             },
             {
@@ -26448,15 +23928,6 @@ export const austriaCitiesV2: POI[] = [
     id: "austria-ternitz-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Drudenteich",
-                  "text": "Der Drudenteich in Ternitz bietet eine ruhige Atmosphäre für Spaziergänge in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        16.097198,
-                        47.704552
-                  ]
-            },
-            {
                   "name": "Reservoir",
                   "text": "Das Reservoir in Ternitz bietet eine ruhige Kulisse für einen kurzen Spaziergang.",
                   "category": "natural",
@@ -26539,15 +24010,6 @@ export const austriaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Drudenteich",
-                  "text": "A Ternitz településen található Drudenteich kellemes helyszínt biztosít a sétákhoz és a pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        16.097198,
-                        47.704552
-                  ]
-            },
             {
                   "name": "Reservoir",
                   "text": "A Ternitz településen található Reservoir kellemes környezetet kínál a kikapcsolódáshoz.",
@@ -26632,15 +24094,6 @@ export const austriaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Drudenteich",
-                  "text": "Drudenteich din Ternitz oferă o atmosferă liniștită pentru plimbări în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        16.097198,
-                        47.704552
-                  ]
-            },
-            {
                   "name": "Reservoir",
                   "text": "Reservoir din Ternitz oferă un cadru liniștit pentru o scurtă plimbare în aer liber.",
                   "category": "natural",
@@ -26723,15 +24176,6 @@ export const austriaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Drudenteich",
-                  "text": "Drudenteich in Ternitz offers a peaceful atmosphere for scenic walks in nature.",
-                  "category": "natural",
-                  "coords": [
-                        16.097198,
-                        47.704552
-                  ]
-            },
             {
                   "name": "Reservoir",
                   "text": "The Reservoir in Ternitz offers a quiet setting for a short walk and relaxation.",
@@ -26943,15 +24387,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ossiacher See",
-                  "text": "Ein großer See in Feldkirchen in Kärnten, bekannt für seine Freizeitmöglichkeiten.",
-                  "category": "natural",
-                  "coords": [
-                        13.95689,
-                        46.672487
-                  ]
-            },
-            {
                   "name": "Sankt Urbaner See",
                   "text": "Ein idyllischer See in Feldkirchen in Kärnten, ideal zum Schwimmen und Wandern.",
                   "category": "natural",
@@ -27068,15 +24503,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.06086,
                         46.70781
-                  ]
-            },
-            {
-                  "name": "Ossiacher See",
-                  "text": "Egy nagy tó Feldkirchen in Kärntenben, amely szabadidős lehetőségeiről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        13.95689,
-                        46.672487
                   ]
             },
             {
@@ -27199,15 +24625,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ossiacher See",
-                  "text": "Un lac mare în Feldkirchen în Carintia, cunoscut pentru oportunitățile sale de agrement.",
-                  "category": "natural",
-                  "coords": [
-                        13.95689,
-                        46.672487
-                  ]
-            },
-            {
                   "name": "Sankt Urbaner See",
                   "text": "Un lac idilic în Feldkirchen în Carintia, ideal pentru înot și drumeții.",
                   "category": "natural",
@@ -27324,15 +24741,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.06086,
                         46.70781
-                  ]
-            },
-            {
-                  "name": "Lake Ossiach",
-                  "text": "A large lake in Feldkirchen in Carinthia, known for its recreational opportunities.",
-                  "category": "natural",
-                  "coords": [
-                        13.95689,
-                        46.672487
                   ]
             },
             {
@@ -31020,15 +28428,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Schloss Melans",
-                  "text": "Schloss Melans ist eine spätmittelalterliche Burganlage in Absam bei Hall in Tirol. Das Schloss ist von einer Mauer umgeben und ein markantes Beispiel für die regionale Baukunst.",
-                  "category": "castle",
-                  "coords": [
-                        11.508962,
-                        47.29841
-                  ]
-            },
-            {
                   "name": "Pfarrkirche St. Nikolaus",
                   "text": "Die Pfarrkirche St. Nikolaus in Hall in Tirol ist ein bedeutendes gotisches Gotteshaus im historischen Zentrum. Sie beherbergt wertvolle Kunstschätze und ist ein zentraler Ort des kirchlichen Lebens.",
                   "category": "religious",
@@ -31065,24 +28464,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pfarrkirche Eichat",
-                  "text": "Die Pfarrkirche Eichat ist eine Kirche im Ortsteil Eichat von Absam bei Hall in Tirol. Sie ist ein Beispiel für die moderne Kirchenarchitektur der Region und wird für Gottesdienste genutzt.",
-                  "category": "religious",
-                  "coords": [
-                        11.516247,
-                        47.29895
-                  ]
-            },
-            {
-                  "name": "Lorettokapelle",
-                  "text": "Die Lorettokapelle ist ein sakrales Gebäude in Hall In Tirol. Besucher können hier die religiöse Architektur und die ruhige Atmosphäre genießen.",
-                  "category": "religious",
-                  "coords": [
-                        11.479926,
-                        47.276545
-                  ]
-            },
-            {
                   "name": "Kolbenturm",
                   "text": "Der Kolbenturm ist ein markantes Bauwerk in Hall In Tirol. Er prägt das Stadtbild und erinnert an die historische Architektur des Ortes.",
                   "category": "tower",
@@ -31110,15 +28491,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gemeindemuseum Absam",
-                  "text": "Das Gemeindemuseum Absam in Hall In Tirol bietet interessante Einblicke in die lokale Geschichte und Kultur. Es ist ein empfehlenswertes Ziel für geschichtlich interessierte Besucher.",
-                  "category": "museum",
-                  "coords": [
-                        11.500882,
-                        47.295319
-                  ]
-            },
-            {
                   "name": "Stadtmuseum Hall",
                   "text": "Das Stadtmuseum Hall in Hall In Tirol bietet interessante Einblicke in die lokale Geschichte und Kultur. Es ist ein empfehlenswertes Ziel für geschichtlich interessierte Besucher.",
                   "category": "museum",
@@ -31128,30 +28500,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ansitz Granz",
-                  "text": "Der Ansitz Granz ist ein historischer Herrensitz in Hall In Tirol. Das Gebäude ist ein bedeutendes Zeugnis der lokalen Baugeschichte.",
-                  "category": "historical",
-                  "coords": [
-                        11.472514,
-                        47.29211
-                  ]
-            },
-            {
                   "name": "Stromboli",
                   "text": "Das Stromboli ist ein lebendiger Treffpunkt für Kunst und Kultur in Hall In Tirol. Es bietet ein vielfältiges Programm für kreative Besucher.",
                   "category": "cultural",
                   "coords": [
                         11.50577,
                         47.282736
-                  ]
-            },
-            {
-                  "name": "Nepomukkapelle",
-                  "text": "Die Nepomukkapelle ist ein sakrales Gebäude in Hall In Tirol. Besucher können hier die religiöse Architektur und die ruhige Atmosphäre genießen.",
-                  "category": "religious",
-                  "coords": [
-                        11.520901,
-                        47.306471
                   ]
             },
             {
@@ -31227,24 +28581,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lehnerkapelle",
-                  "text": "Die Lehnerkapelle ist ein sakrales Gebäude in Hall In Tirol. Besucher können hier die religiöse Architektur und die ruhige Atmosphäre genießen.",
-                  "category": "religious",
-                  "coords": [
-                        11.510545,
-                        47.294184
-                  ]
-            },
-            {
-                  "name": "Krippenverein Thaur",
-                  "text": "Ein Museum, das sich der Tradition der Weihnachtskrippen in Thaur widmet.",
-                  "category": "museum",
-                  "coords": [
-                        11.475613,
-                        47.294157
-                  ]
-            },
-            {
                   "name": "Theater im Sudhaus",
                   "text": "Das Theater im Sudhaus in Hall in Tirol nutzt die historische Brauereianlage als Bühne.",
                   "category": "cultural",
@@ -31271,15 +28607,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         11.529354,
                         47.288673
-                  ]
-            },
-            {
-                  "name": "Schloss Melans",
-                  "text": "A Melans-kastély egy késő középkori vár Absamban, Hall in Tirol közelében. A falakkal körülvett kastély a régió építészetének jellegzetes példája.",
-                  "category": "castle",
-                  "coords": [
-                        11.508962,
-                        47.29841
                   ]
             },
             {
@@ -31319,24 +28646,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pfarrkirche Eichat",
-                  "text": "Az eichati plébániatemplom az Absamhoz tartozó Eichat településrészen található, Hall in Tirol közelében. A régió modern templomépítészetének egyik példája, amelyet istentiszteletekre használnak.",
-                  "category": "religious",
-                  "coords": [
-                        11.516247,
-                        47.29895
-                  ]
-            },
-            {
-                  "name": "Lorettokapelle",
-                  "text": "A Lorettokapelle egy szakrális épület Hall In Tirol városában. A látogatók itt megcsodálhatják a vallási építészetet és a nyugodt légkört.",
-                  "category": "religious",
-                  "coords": [
-                        11.479926,
-                        47.276545
-                  ]
-            },
-            {
                   "name": "Kolbenturm",
                   "text": "A(z) Kolbenturm egy jellegzetes építmény Hall In Tirol városában. Meghatározza a városképet és a település történelmi építészetére emlékeztet.",
                   "category": "tower",
@@ -31364,15 +28673,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gemeindemuseum Absam",
-                  "text": "A(z) Hall In Tirol városában található Gemeindemuseum Absam érdekes betekintést nyújt a helyi történelembe és kultúrába. Történelem iránt érdeklődő látogatóknak ajánlott úticél.",
-                  "category": "museum",
-                  "coords": [
-                        11.500882,
-                        47.295319
-                  ]
-            },
-            {
                   "name": "Stadtmuseum Hall",
                   "text": "A(z) Hall In Tirol városában található Stadtmuseum Hall érdekes betekintést nyújt a helyi történelembe és kultúrába. Történelem iránt érdeklődő látogatóknak ajánlott úticél.",
                   "category": "museum",
@@ -31382,30 +28682,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ansitz Granz",
-                  "text": "A(z) Ansitz Granz egy történelmi nemesi kúria Hall In Tirol területén. Az épület a helyi építészettörténet jelentős emléke.",
-                  "category": "historical",
-                  "coords": [
-                        11.472514,
-                        47.29211
-                  ]
-            },
-            {
                   "name": "Stromboli",
                   "text": "A(z) Stromboli a művészet és a kultúra élénk találkozóhelye Hall In Tirol városában. Változatos programokat kínál a kreatív látogatók számára.",
                   "category": "cultural",
                   "coords": [
                         11.50577,
                         47.282736
-                  ]
-            },
-            {
-                  "name": "Nepomukkapelle",
-                  "text": "A Nepomukkapelle egy szakrális épület Hall In Tirol városában. A látogatók itt megcsodálhatják a vallási építészetet és a nyugodt légkört.",
-                  "category": "religious",
-                  "coords": [
-                        11.520901,
-                        47.306471
                   ]
             },
             {
@@ -31481,24 +28763,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lehnerkapelle",
-                  "text": "A Lehnerkapelle egy szakrális épület Hall In Tirol városában. A látogatók itt megcsodálhatják a vallási építészetet és a nyugodt légkört.",
-                  "category": "religious",
-                  "coords": [
-                        11.510545,
-                        47.294184
-                  ]
-            },
-            {
-                  "name": "Krippenverein Thaur",
-                  "text": "A thaúri betlehemi hagyományoknak szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        11.475613,
-                        47.294157
-                  ]
-            },
-            {
                   "name": "Theater im Sudhaus",
                   "text": "A Theater im Sudhaus Hall in Tirolban egy történelmi sörfőzdét használ színpadi térként.",
                   "category": "cultural",
@@ -31525,15 +28789,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         11.529354,
                         47.288673
-                  ]
-            },
-            {
-                  "name": "Schloss Melans",
-                  "text": "Castelul Melans este o fortăreață medievală târzie din Absam, lângă Hall in Tirol. Castelul este înconjurat de un zid și este un exemplu proeminent al arhitecturii regionale.",
-                  "category": "castle",
-                  "coords": [
-                        11.508962,
-                        47.29841
                   ]
             },
             {
@@ -31573,24 +28828,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pfarrkirche Eichat",
-                  "text": "Biserica parohială din Eichat este o biserică din cartierul Eichat al comunei Absam, lângă Hall in Tirol. Este un exemplu de arhitectură religioasă modernă din regiune și este utilizată pentru slujbe.",
-                  "category": "religious",
-                  "coords": [
-                        11.516247,
-                        47.29895
-                  ]
-            },
-            {
-                  "name": "Lorettokapelle",
-                  "text": "Lorettokapelle este un edificiu religios în Hall In Tirol. Vizitatorii pot admira aici arhitectura sacră și atmosfera liniștită.",
-                  "category": "religious",
-                  "coords": [
-                        11.479926,
-                        47.276545
-                  ]
-            },
-            {
                   "name": "Kolbenturm",
                   "text": "Kolbenturm este o structură distinctivă în Hall In Tirol. Aceasta definește peisajul urban și amintește de arhitectura istorică a locului.",
                   "category": "tower",
@@ -31618,15 +28855,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gemeindemuseum Absam",
-                  "text": "Gemeindemuseum Absam din Hall In Tirol oferă perspective interesante asupra istoriei și culturii locale. Este o destinație recomandată pentru vizitatorii interesați de istorie.",
-                  "category": "museum",
-                  "coords": [
-                        11.500882,
-                        47.295319
-                  ]
-            },
-            {
                   "name": "Stadtmuseum Hall",
                   "text": "Stadtmuseum Hall din Hall In Tirol oferă perspective interesante asupra istoriei și culturii locale. Este o destinație recomandată pentru vizitatorii interesați de istorie.",
                   "category": "museum",
@@ -31636,30 +28864,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ansitz Granz",
-                  "text": "Ansitz Granz este un conac istoric situat în Hall In Tirol. Clădirea este o mărturie importantă a istoriei arhitecturale locale.",
-                  "category": "historical",
-                  "coords": [
-                        11.472514,
-                        47.29211
-                  ]
-            },
-            {
                   "name": "Stromboli",
                   "text": "Stromboli este un punct de întâlnire vibrant pentru artă și cultură în Hall In Tirol. Acesta oferă un program diversificat pentru vizitatorii creativi.",
                   "category": "cultural",
                   "coords": [
                         11.50577,
                         47.282736
-                  ]
-            },
-            {
-                  "name": "Nepomukkapelle",
-                  "text": "Nepomukkapelle este un edificiu religios în Hall In Tirol. Vizitatorii pot admira aici arhitectura sacră și atmosfera liniștită.",
-                  "category": "religious",
-                  "coords": [
-                        11.520901,
-                        47.306471
                   ]
             },
             {
@@ -31735,24 +28945,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lehnerkapelle",
-                  "text": "Lehnerkapelle este un edificiu religios în Hall In Tirol. Vizitatorii pot admira aici arhitectura sacră și atmosfera liniștită.",
-                  "category": "religious",
-                  "coords": [
-                        11.510545,
-                        47.294184
-                  ]
-            },
-            {
-                  "name": "Krippenverein Thaur",
-                  "text": "Un muzeu dedicat tradiției ieslelor de Crăciun din Thaur.",
-                  "category": "museum",
-                  "coords": [
-                        11.475613,
-                        47.294157
-                  ]
-            },
-            {
                   "name": "Theater im Sudhaus",
                   "text": "Teatrul din Sudhaus din Hall in Tirol folosește fosta fabrică de bere ca spațiu scenic.",
                   "category": "cultural",
@@ -31779,15 +28971,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         11.529354,
                         47.288673
-                  ]
-            },
-            {
-                  "name": "Schloss Melans",
-                  "text": "Schloss Melans is a late medieval castle complex in Absam near Hall in Tirol. The castle is surrounded by a wall and is a prominent example of regional architecture.",
-                  "category": "castle",
-                  "coords": [
-                        11.508962,
-                        47.29841
                   ]
             },
             {
@@ -31827,24 +29010,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pfarrkirche Eichat",
-                  "text": "The Eichat Parish Church is a church in the Eichat district of Absam near Hall in Tirol. It is an example of modern church architecture in the region and is used for services.",
-                  "category": "religious",
-                  "coords": [
-                        11.516247,
-                        47.29895
-                  ]
-            },
-            {
-                  "name": "Lorettokapelle",
-                  "text": "The Lorettokapelle is a religious building in Hall In Tirol. Visitors can enjoy the sacred architecture and the peaceful atmosphere here.",
-                  "category": "religious",
-                  "coords": [
-                        11.479926,
-                        47.276545
-                  ]
-            },
-            {
                   "name": "Kolbenturm",
                   "text": "The Kolbenturm is a distinctive structure in Hall In Tirol. It shapes the cityscape and serves as a reminder of the area's historic architecture.",
                   "category": "tower",
@@ -31872,15 +29037,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gemeindemuseum Absam",
-                  "text": "The Gemeindemuseum Absam in Hall In Tirol offers interesting insights into local history and culture. It is a recommended destination for history buffs.",
-                  "category": "museum",
-                  "coords": [
-                        11.500882,
-                        47.295319
-                  ]
-            },
-            {
                   "name": "Stadtmuseum Hall",
                   "text": "The Stadtmuseum Hall in Hall In Tirol offers interesting insights into local history and culture. It is a recommended destination for history buffs.",
                   "category": "museum",
@@ -31890,30 +29046,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ansitz Granz",
-                  "text": "The Ansitz Granz is a historic manor house in Hall In Tirol. The building is an important testament to local architectural history.",
-                  "category": "historical",
-                  "coords": [
-                        11.472514,
-                        47.29211
-                  ]
-            },
-            {
                   "name": "Stromboli",
                   "text": "The Stromboli is a vibrant meeting place for art and culture in Hall In Tirol. It offers a diverse program for creative visitors.",
                   "category": "cultural",
                   "coords": [
                         11.50577,
                         47.282736
-                  ]
-            },
-            {
-                  "name": "Nepomukkapelle",
-                  "text": "The Nepomukkapelle is a religious building in Hall In Tirol. Visitors can enjoy the sacred architecture and the peaceful atmosphere here.",
-                  "category": "religious",
-                  "coords": [
-                        11.520901,
-                        47.306471
                   ]
             },
             {
@@ -31986,24 +29124,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         11.51345,
                         47.274862
-                  ]
-            },
-            {
-                  "name": "Lehnerkapelle",
-                  "text": "The Lehnerkapelle is a religious building in Hall In Tirol. Visitors can enjoy the sacred architecture and the peaceful atmosphere here.",
-                  "category": "religious",
-                  "coords": [
-                        11.510545,
-                        47.294184
-                  ]
-            },
-            {
-                  "name": "Krippenverein Thaur",
-                  "text": "A museum dedicated to the tradition of nativity scenes in Thaur.",
-                  "category": "museum",
-                  "coords": [
-                        11.475613,
-                        47.294157
                   ]
             },
             {
@@ -33370,15 +30490,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gradner Kapelle",
-                  "text": "Die Gradner Kapelle ist eine Kapelle im Ortsteil Gradner von Voitsberg.",
-                  "category": "religious",
-                  "coords": [
-                        15.114249,
-                        47.056334
-                  ]
-            },
-            {
                   "name": "Kirche Zum Heiligen Blut",
                   "text": "Die Kirche Zum Heiligen Blut ist ein bedeutendes religiöses Gebäude in Voitsberg.",
                   "category": "religious",
@@ -33403,15 +30514,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.156071,
                         47.054565
-                  ]
-            },
-            {
-                  "name": "Pibersteinersee",
-                  "text": "Der Pibersteinersee in Voitsberg ist ein beliebtes Ziel für Erholungsuchende und Naturliebhaber.",
-                  "category": "natural",
-                  "coords": [
-                        15.064625,
-                        47.055324
                   ]
             },
             {
@@ -33534,15 +30636,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gradner Kapelle",
-                  "text": "A Gradner-kápolna egy kápolna Voitsberg Gradner városrészében.",
-                  "category": "religious",
-                  "coords": [
-                        15.114249,
-                        47.056334
-                  ]
-            },
-            {
                   "name": "Kirche Zum Heiligen Blut",
                   "text": "A Kirche Zum Heiligen Blut egy jelentős vallási épület Voitsbergben.",
                   "category": "religious",
@@ -33567,15 +30660,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.156071,
                         47.054565
-                  ]
-            },
-            {
-                  "name": "Pibersteinersee",
-                  "text": "A Voitsberg településen fekvő Pibersteinersee népszerű helyszín a pihenni vágyók számára.",
-                  "category": "natural",
-                  "coords": [
-                        15.064625,
-                        47.055324
                   ]
             },
             {
@@ -33698,15 +30782,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gradner Kapelle",
-                  "text": "Capela Gradner este o capelă în cartierul Gradner din Voitsberg.",
-                  "category": "religious",
-                  "coords": [
-                        15.114249,
-                        47.056334
-                  ]
-            },
-            {
                   "name": "Kirche Zum Heiligen Blut",
                   "text": "Biserica Sângelui Sfânt este o clădire religioasă importantă din Voitsberg.",
                   "category": "religious",
@@ -33731,15 +30806,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.156071,
                         47.054565
-                  ]
-            },
-            {
-                  "name": "Pibersteinersee",
-                  "text": "Pibersteinersee din Voitsberg este o destinație populară pentru relaxare și iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        15.064625,
-                        47.055324
                   ]
             },
             {
@@ -33862,15 +30928,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gradner Kapelle",
-                  "text": "Gradner Kapelle is a chapel in the Gradner district of Voitsberg.",
-                  "category": "religious",
-                  "coords": [
-                        15.114249,
-                        47.056334
-                  ]
-            },
-            {
                   "name": "Kirche Zum Heiligen Blut",
                   "text": "The Church of the Holy Blood is a significant religious building in Voitsberg.",
                   "category": "religious",
@@ -33895,15 +30952,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.156071,
                         47.054565
-                  ]
-            },
-            {
-                  "name": "Pibersteinersee",
-                  "text": "Pibersteinersee in Voitsberg is a popular destination for relaxation and nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        15.064625,
-                        47.055324
                   ]
             },
             {
@@ -37492,15 +34540,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Schütte-Lihotzky-Siedlung",
-                  "text": "Ein schöner Spielplatz in Bruck an der Mur, ideal für Kinder zum Austoben.",
-                  "category": "family",
-                  "coords": [
-                        15.275954,
-                        47.430819
-                  ]
-            },
-            {
                   "name": "Spielplatz der Stadtgemeinde Bruck/Mur",
                   "text": "Ein schöner Spielplatz in Bruck an der Mur, der Kindern Raum zum Austoben und Spielen im Freien bietet.",
                   "category": "family",
@@ -37644,15 +34683,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.220895,
                         47.384235
-                  ]
-            },
-            {
-                  "name": "Spielplatz Schütte-Lihotzky-Siedlung",
-                  "text": "Egy szép játszótér Bruck an der Mur-ban, ideális a gyerekeknek a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        15.275954,
-                        47.430819
                   ]
             },
             {
@@ -37802,15 +34832,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spielplatz Schütte-Lihotzky-Siedlung",
-                  "text": "Un teren de joacă frumos în Bruck an der Mur, ideal pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        15.275954,
-                        47.430819
-                  ]
-            },
-            {
                   "name": "Spielplatz der Stadtgemeinde Bruck/Mur",
                   "text": "Un loc de joacă frumos în Bruck an der Mur, care oferă copiilor spațiu pentru mișcare și joacă în aer liber.",
                   "category": "family",
@@ -37954,15 +34975,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         15.220895,
                         47.384235
-                  ]
-            },
-            {
-                  "name": "Spielplatz Schütte-Lihotzky-Siedlung",
-                  "text": "A nice playground in Bruck an der Mur, ideal for children to play.",
-                  "category": "family",
-                  "coords": [
-                        15.275954,
-                        47.430819
                   ]
             },
             {
@@ -42154,15 +39166,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Feuchtbiotop Haasteich",
-                  "text": "Ein geschütztes Feuchtbiotop in Bad Vöslau, das wichtige Lebensräume für lokale Arten bietet.",
-                  "category": "natural",
-                  "coords": [
-                        16.227066,
-                        47.98669
-                  ]
-            },
-            {
                   "name": "Lausturm",
                   "text": "Ein historischer Wehrturm in Bad Vöslau, der an die mittelalterliche Vergangenheit erinnert.",
                   "category": "castle",
@@ -42387,15 +39390,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.230929,
                         47.950966
-                  ]
-            },
-            {
-                  "name": "Feuchtbiotop Haasteich",
-                  "text": "Védett vizes élőhely Bad Vöslauban, amely fontos élőhelyet biztosít a helyi fajoknak.",
-                  "category": "natural",
-                  "coords": [
-                        16.227066,
-                        47.98669
                   ]
             },
             {
@@ -42626,15 +39620,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Feuchtbiotop Haasteich",
-                  "text": "Un biotop umed protejat din Bad Vöslau, care oferă habitate importante pentru speciile locale.",
-                  "category": "natural",
-                  "coords": [
-                        16.227066,
-                        47.98669
-                  ]
-            },
-            {
                   "name": "Lausturm",
                   "text": "Un turn de apărare istoric din Bad Vöslau, care amintește de trecutul medieval.",
                   "category": "castle",
@@ -42859,15 +39844,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.230929,
                         47.950966
-                  ]
-            },
-            {
-                  "name": "Feuchtbiotop Haasteich",
-                  "text": "A protected wetland habitat in Bad Vöslau providing important habitats for local species.",
-                  "category": "natural",
-                  "coords": [
-                        16.227066,
-                        47.98669
                   ]
             },
             {
@@ -43117,129 +40093,12 @@ export const austriaCitiesV2: POI[] = [
     id: "austria-brunn-am-gebirge-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Grüner See",
-                  "text": "Der Grüne See in Brunn am Gebirge lädt zu entspannten Spaziergängen am Wasser in der Natur ein.",
-                  "category": "natural",
-                  "coords": [
-                        16.342382,
-                        48.154007
-                  ]
-            },
-            {
-                  "name": "Kahrteich",
-                  "text": "Der Kahrteich in Brunn am Gebirge ist ein ruhiges Gewässer, das zum Verweilen und Entspannen einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        16.314444,
-                        48.075677
-                  ]
-            },
-            {
-                  "name": "Karl Zechmeister-Teich",
-                  "text": "Der Karl Zechmeister-Teich in Brunn am Gebirge bietet eine natürliche Kulisse für kurze Ausflüge ins Grüne.",
-                  "category": "natural",
-                  "coords": [
-                        16.239508,
-                        48.124257
-                  ]
-            },
-            {
-                  "name": "Göpelteich",
-                  "text": "Der Göpelteich in Brunn am Gebirge ist ein idyllisches Ziel für Spaziergänger und Naturliebhaber.",
-                  "category": "natural",
-                  "coords": [
-                        16.371486,
-                        48.107375
-                  ]
-            },
-            {
-                  "name": "Seepark Kinderbecken",
-                  "text": "Das Seepark Kinderbecken in Brunn am Gebirge bietet eine sichere Umgebung für den Wasserspaß der Kleinen.",
-                  "category": "natural",
-                  "coords": [
-                        16.352729,
-                        48.112969
-                  ]
-            },
-            {
                   "name": "Hort Spielwiese",
                   "text": "Die Hort Spielwiese in Brunn am Gebirge bietet Kindern viel Platz für Bewegung und gemeinsames Spiel.",
                   "category": "family",
                   "coords": [
                         16.303013,
                         48.095151
-                  ]
-            },
-            {
-                  "name": "Spielplatz der Wohnhausanlage",
-                  "text": "Der Spielplatz der Wohnhausanlage in Brunn am Gebirge ist eine praktische Möglichkeit für das Spielen im Freien.",
-                  "category": "family",
-                  "coords": [
-                        16.268776,
-                        48.119807
-                  ]
-            },
-            {
-                  "name": "Südstadtzentrum",
-                  "text": "Das Südstadtzentrum in Brunn am Gebirge verfügt über einen Spielplatz, der Familien zum Verweilen einlädt.",
-                  "category": "family",
-                  "coords": [
-                        16.308711,
-                        48.094859
-                  ]
-            },
-            {
-                  "name": "Hyrtlpark",
-                  "text": "Der Spielplatz im Hyrtlpark in Brunn am Gebirge bietet Kindern Spielmöglichkeiten in einer gepflegten Parkanlage.",
-                  "category": "family",
-                  "coords": [
-                        16.304949,
-                        48.085161
-                  ]
-            },
-            {
-                  "name": "Klosterpark Spielplatz",
-                  "text": "Der Klosterpark Spielplatz in Brunn am Gebirge ist ein ruhiger Ort für Kinder zum Spielen und Entdecken.",
-                  "category": "family",
-                  "coords": [
-                        16.321296,
-                        48.084411
-                  ]
-            },
-            {
-                  "name": "Spielplatz - Verkehrsübungsplatz",
-                  "text": "Der Spielplatz mit Verkehrsübungsplatz in Brunn am Gebirge verbindet Spielspaß mit dem Erlernen von Verkehrsregeln.",
-                  "category": "family",
-                  "coords": [
-                        16.290205,
-                        48.09125
-                  ]
-            },
-            {
-                  "name": "Lercherlberg",
-                  "text": "Der Lercherlberg in Brunn am Gebirge bietet einen naturnahen Spielplatz für Familien und Kinder.",
-                  "category": "family",
-                  "coords": [
-                        16.27612,
-                        48.102633
-                  ]
-            },
-            {
-                  "name": "Spielplatz Jägerhausgasse",
-                  "text": "Der Spielplatz Jägerhausgasse in Brunn am Gebirge ist ein lokaler Treffpunkt für Kinder zum Spielen im Freien.",
-                  "category": "family",
-                  "coords": [
-                        16.264659,
-                        48.080568
-                  ]
-            },
-            {
-                  "name": "Paradieschen",
-                  "text": "Das Paradieschen in Brunn am Gebirge bietet eine freundliche Umgebung zum Spielen und Toben für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        16.295548,
-                        48.088853
                   ]
             },
             {
@@ -43252,57 +40111,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jumpin Warrior SCS",
-                  "text": "Jumpin Warrior SCS in Brunn am Gebirge bietet actionreiche Spielmöglichkeiten für Kinder und Jugendliche.",
-                  "category": "family",
-                  "coords": [
-                        16.319431,
-                        48.100345
-                  ]
-            },
-            {
-                  "name": "Pool",
-                  "text": "Ein Schwimmbecken in Brunn am Gebirge für sportliche Betätigung.",
-                  "category": "family",
-                  "coords": [
-                        16.280819,
-                        48.08626
-                  ]
-            },
-            {
-                  "name": "SCS Multiplex CityWave",
-                  "text": "Eine künstliche Surfanlage in Brunn am Gebirge für Wellenreiter.",
-                  "category": "family",
-                  "coords": [
-                        16.317831,
-                        48.103291
-                  ]
-            },
-            {
-                  "name": "Mehrzweckbecken",
-                  "text": "Ein vielseitiges Schwimmbecken in Brunn am Gebirge für verschiedene Aktivitäten.",
-                  "category": "family",
-                  "coords": [
-                        16.280172,
-                        48.132803
-                  ]
-            },
-            {
                   "name": "Freizeitzentrum Stadtbad Mödling",
                   "text": "Ein Erlebnisbad in Brunn am Gebirge mit verschiedenen Freizeitangeboten.",
                   "category": "family",
                   "coords": [
                         16.287914,
                         48.081397
-                  ]
-            },
-            {
-                  "name": "Freizeitzentrum Perchtoldsdorf",
-                  "text": "Ein Freizeitzentrum in Brunn am Gebirge mit Schwimmbecken und Sportbereichen.",
-                  "category": "family",
-                  "coords": [
-                        16.267314,
-                        48.12328
                   ]
             },
             {
@@ -43315,84 +40129,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Erika-Teich",
-                  "text": "Ein Naturbadeteich in Brunn am Gebirge, ideal für eine natürliche Abkühlung.",
-                  "category": "family",
-                  "coords": [
-                        16.318821,
-                        48.071808
-                  ]
-            },
-            {
-                  "name": "Schloss Liechtenstein",
-                  "text": "Ein romantisches Schloss aus dem 19. Jahrhundert am Rande des Wienerwaldes.",
-                  "category": "castle",
-                  "coords": [
-                        16.271984,
-                        48.092011
-                  ]
-            },
-            {
-                  "name": "Burg zu Perchtoldsdorf",
-                  "text": "Eine mächtige mittelalterliche Burganlage im Zentrum von Perchtoldsdorf.",
-                  "category": "castle",
-                  "coords": [
-                        16.26424,
-                        48.119757
-                  ]
-            },
-            {
-                  "name": "Schloss Hunyadi",
-                  "text": "Ein barockes Landschloss in Maria Enzersdorf, heute ein Veranstaltungsort.",
-                  "category": "castle",
-                  "coords": [
-                        16.282378,
-                        48.098647
-                  ]
-            },
-            {
-                  "name": "Burgruine Mödling",
-                  "text": "Die Ruine einer einst bedeutenden mittelalterlichen Hochburg über Mödling.",
-                  "category": "castle",
-                  "coords": [
-                        16.267361,
-                        48.079348
-                  ]
-            },
-            {
-                  "name": "Schaubergwerk Seegrotte Hinterbrühl",
-                  "text": "Ein ehemaliges Gipsbergwerk mit dem größten unterirdischen See Europas.",
-                  "category": "landmark",
-                  "coords": [
-                        16.257343,
-                        48.086125
-                  ]
-            },
-            {
                   "name": "Jennyberg",
                   "text": "Ein markanter Berg im Wienerwald bei Mödling mit Aussichtspunkten.",
                   "category": "natural",
                   "coords": [
                         16.27822,
                         48.075615
-                  ]
-            },
-            {
-                  "name": "Volkskundemuseum Mödling",
-                  "text": "Das Museum zeigt Exponate zur regionalen Volkskunde und Handwerk.",
-                  "category": "museum",
-                  "coords": [
-                        16.28584,
-                        48.086337
-                  ]
-            },
-            {
-                  "name": "Mödlinger Stadtverkehrsmuseum",
-                  "text": "Ein Museum, das sich der Geschichte des öffentlichen Verkehrs in der Region widmet.",
-                  "category": "museum",
-                  "coords": [
-                        16.296025,
-                        48.084149
                   ]
             },
             {
@@ -43423,84 +40165,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pfarrkirche der heiligen Kunigunde",
-                  "text": "Historische Pfarrkirche in Brunn am Gebirge, die als Ort der Andacht dient.",
-                  "category": "religious",
-                  "coords": [
-                        16.285801,
-                        48.107099
-                  ]
-            },
-            {
-                  "name": "Spitalskirche",
-                  "text": "Eine traditionelle Spitalskirche in Brunn am Gebirge für religiöse Zwecke.",
-                  "category": "religious",
-                  "coords": [
-                        16.267674,
-                        48.121721
-                  ]
-            },
-            {
-                  "name": "Südstadtkirche",
-                  "text": "Moderne Kirche in Brunn am Gebirge, die der örtlichen Gemeinde dient.",
-                  "category": "religious",
-                  "coords": [
-                        16.305562,
-                        48.095186
-                  ]
-            },
-            {
-                  "name": "Franziskaner- und Wallfahrtskirche Maria Enzersdorf",
-                  "text": "Bedeutende Wallfahrtskirche in Brunn am Gebirge mit franziskanischer Tradition.",
-                  "category": "religious",
-                  "coords": [
-                        16.284802,
-                        48.101008
-                  ]
-            },
-            {
-                  "name": "Prenningerkapelle",
-                  "text": "Kleine Kapelle in Brunn am Gebirge, die als Ort der Stille dient.",
-                  "category": "religious",
-                  "coords": [
-                        16.318386,
-                        48.08248
-                  ]
-            },
-            {
-                  "name": "Kirche Hochleiten",
-                  "text": "Kirche in Brunn am Gebirge, die für Gottesdienste genutzt wird.",
-                  "category": "religious",
-                  "coords": [
-                        16.255133,
-                        48.10049
-                  ]
-            },
-            {
-                  "name": "Herz-Jesu-Kirche",
-                  "text": "Sakralbau in Brunn am Gebirge, der dem Herzen Jesu gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        16.301864,
-                        48.088702
-                  ]
-            },
-            {
                   "name": "Efeugrat",
                   "text": "Markante Felsformation bei Brunn am Gebirge für Naturliebhaber.",
                   "category": "natural",
                   "coords": [
                         16.270639,
                         48.080646
-                  ]
-            },
-            {
-                  "name": "Hugo-Wolf-Museum",
-                  "text": "Gedenkstätte und Museum für den Komponisten Hugo Wolf in Brunn am Gebirge.",
-                  "category": "museum",
-                  "coords": [
-                        16.268047,
-                        48.116553
                   ]
             },
             {
@@ -43522,24 +40192,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rudolf-Steiner-Museum",
-                  "text": "Museum über das Leben und Werk von Rudolf Steiner in Brunn am Gebirge.",
-                  "category": "museum",
-                  "coords": [
-                        16.283358,
-                        48.107755
-                  ]
-            },
-            {
-                  "name": "Archäologisches Museum",
-                  "text": "Museum in Brunn am Gebirge mit Fundstücken aus der regionalen Geschichte.",
-                  "category": "museum",
-                  "coords": [
-                        16.265151,
-                        48.119807
-                  ]
-            },
-            {
                   "name": "Kunst im Raum",
                   "text": "Kunstgalerie in Brunn am Gebirge mit wechselnden Ausstellungen.",
                   "category": "museum",
@@ -43551,129 +40203,12 @@ export const austriaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Grüner See",
-                  "text": "A Brunn am Gebirge-ben található Grüner See kellemes vízparti sétákra hív a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        16.342382,
-                        48.154007
-                  ]
-            },
-            {
-                  "name": "Kahrteich",
-                  "text": "A Brunn am Gebirge-ben fekvő Kahrteich egy nyugodt állóvíz, amely pihenésre és kikapcsolódásra hív.",
-                  "category": "natural",
-                  "coords": [
-                        16.314444,
-                        48.075677
-                  ]
-            },
-            {
-                  "name": "Karl Zechmeister-Teich",
-                  "text": "A Brunn am Gebirge-ben található Karl Zechmeister-Teich természetes környezetet biztosít rövid kirándulásokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        16.239508,
-                        48.124257
-                  ]
-            },
-            {
-                  "name": "Göpelteich",
-                  "text": "A Brunn am Gebirge-ben fekvő Göpelteich idilli célpont a sétálók és a természetkedvelők számára.",
-                  "category": "natural",
-                  "coords": [
-                        16.371486,
-                        48.107375
-                  ]
-            },
-            {
-                  "name": "Seepark Kinderbecken",
-                  "text": "A Brunn am Gebirge-ben található Seepark gyermekmedence biztonságos környezetet nyújt a kicsik vízi szórakozásához.",
-                  "category": "natural",
-                  "coords": [
-                        16.352729,
-                        48.112969
-                  ]
-            },
-            {
                   "name": "Hort Spielwiese",
                   "text": "A Brunn am Gebirge-ben található Hort Spielwiese sok helyet biztosít a gyerekeknek a mozgáshoz és a közös játékhoz.",
                   "category": "family",
                   "coords": [
                         16.303013,
                         48.095151
-                  ]
-            },
-            {
-                  "name": "Spielplatz der Wohnhausanlage",
-                  "text": "A Brunn am Gebirge-i lakópark játszótere praktikus lehetőséget nyújt a szabadban való játékra.",
-                  "category": "family",
-                  "coords": [
-                        16.268776,
-                        48.119807
-                  ]
-            },
-            {
-                  "name": "Südstadtzentrum",
-                  "text": "A Brunn am Gebirge-i Südstadtzentrum játszótérrel is rendelkezik, amely kikapcsolódásra hívja a családokat.",
-                  "category": "family",
-                  "coords": [
-                        16.308711,
-                        48.094859
-                  ]
-            },
-            {
-                  "name": "Hyrtlpark",
-                  "text": "A Brunn am Gebirge-i Hyrtlpark játszótere játéklehetőséget kínál a gyerekeknek egy gondozott parkban.",
-                  "category": "family",
-                  "coords": [
-                        16.304949,
-                        48.085161
-                  ]
-            },
-            {
-                  "name": "Klosterpark Spielplatz",
-                  "text": "A Brunn am Gebirge-i Klosterpark játszótér nyugodt hely a gyerekeknek a játékhoz és a felfedezéshez.",
-                  "category": "family",
-                  "coords": [
-                        16.321296,
-                        48.084411
-                  ]
-            },
-            {
-                  "name": "Spielplatz - Verkehrsübungsplatz",
-                  "text": "A Brunn am Gebirge-i KRESZ-parkkal kombinált játszótér ötvözi a játékot a közlekedési szabályok elsajátításával.",
-                  "category": "family",
-                  "coords": [
-                        16.290205,
-                        48.09125
-                  ]
-            },
-            {
-                  "name": "Lercherlberg",
-                  "text": "A Brunn am Gebirge-ben található Lercherlberg természetközeli játszóteret kínál a családoknak és gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        16.27612,
-                        48.102633
-                  ]
-            },
-            {
-                  "name": "Spielplatz Jägerhausgasse",
-                  "text": "A Brunn am Gebirge-i Jägerhausgasse játszótér helyi találkozóhely a gyerekeknek a szabadban való játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        16.264659,
-                        48.080568
-                  ]
-            },
-            {
-                  "name": "Paradieschen",
-                  "text": "A Brunn am Gebirge-i Paradieschen barátságos környezetet biztosít a gyerekeknek a játékhoz és a hancúrozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        16.295548,
-                        48.088853
                   ]
             },
             {
@@ -43686,57 +40221,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jumpin Warrior SCS",
-                  "text": "A Brunn am Gebirge-i Jumpin Warrior SCS akciódús játéklehetőségeket kínál gyerekeknek és fiataloknak.",
-                  "category": "family",
-                  "coords": [
-                        16.319431,
-                        48.100345
-                  ]
-            },
-            {
-                  "name": "Pool",
-                  "text": "Úszómedence Brunn am Gebirgében a sportoláshoz.",
-                  "category": "family",
-                  "coords": [
-                        16.280819,
-                        48.08626
-                  ]
-            },
-            {
-                  "name": "SCS Multiplex CityWave",
-                  "text": "Mesterséges hullámlovagló pálya Brunn am Gebirgében szörfösöknek.",
-                  "category": "family",
-                  "coords": [
-                        16.317831,
-                        48.103291
-                  ]
-            },
-            {
-                  "name": "Mehrzweckbecken",
-                  "text": "Sokoldalú úszómedence Brunn am Gebirgében különféle tevékenységekhez.",
-                  "category": "family",
-                  "coords": [
-                        16.280172,
-                        48.132803
-                  ]
-            },
-            {
                   "name": "Freizeitzentrum Stadtbad Mödling",
                   "text": "Élményfürdő Brunn am Gebirgében különféle szabadidős lehetőségekkel.",
                   "category": "family",
                   "coords": [
                         16.287914,
                         48.081397
-                  ]
-            },
-            {
-                  "name": "Freizeitzentrum Perchtoldsdorf",
-                  "text": "Szabadidőközpont Brunn am Gebirgében úszómedencékkel és sportpályákkal.",
-                  "category": "family",
-                  "coords": [
-                        16.267314,
-                        48.12328
                   ]
             },
             {
@@ -43749,84 +40239,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Erika-Teich",
-                  "text": "Természetes fürdőtó Brunn am Gebirgében, ideális a természetes hűsöléshez.",
-                  "category": "family",
-                  "coords": [
-                        16.318821,
-                        48.071808
-                  ]
-            },
-            {
-                  "name": "Schloss Liechtenstein",
-                  "text": "19. századi romantikus kastély a Bécsi-erdő szélén.",
-                  "category": "castle",
-                  "coords": [
-                        16.271984,
-                        48.092011
-                  ]
-            },
-            {
-                  "name": "Burg zu Perchtoldsdorf",
-                  "text": "Hatalmas középkori vár Perchtoldsdorf központjában.",
-                  "category": "castle",
-                  "coords": [
-                        16.26424,
-                        48.119757
-                  ]
-            },
-            {
-                  "name": "Schloss Hunyadi",
-                  "text": "Barokk vidéki kastély Maria Enzersdorfban, ma rendezvényhelyszín.",
-                  "category": "castle",
-                  "coords": [
-                        16.282378,
-                        48.098647
-                  ]
-            },
-            {
-                  "name": "Burgruine Mödling",
-                  "text": "Egy egykor jelentős középkori vár romja Mödling felett.",
-                  "category": "castle",
-                  "coords": [
-                        16.267361,
-                        48.079348
-                  ]
-            },
-            {
-                  "name": "Schaubergwerk Seegrotte Hinterbrühl",
-                  "text": "Egykori gipszbánya Európa legnagyobb földalatti tavával.",
-                  "category": "landmark",
-                  "coords": [
-                        16.257343,
-                        48.086125
-                  ]
-            },
-            {
                   "name": "Jennyberg",
                   "text": "Jellegzetes hegy a Bécsi-erdőben Mödlingnél, kilátópontokkal.",
                   "category": "natural",
                   "coords": [
                         16.27822,
                         48.075615
-                  ]
-            },
-            {
-                  "name": "Volkskundemuseum Mödling",
-                  "text": "A múzeum a regionális néprajz és kézművesség emlékeit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        16.28584,
-                        48.086337
-                  ]
-            },
-            {
-                  "name": "Mödlinger Stadtverkehrsmuseum",
-                  "text": "A régió tömegközlekedésének történetével foglalkozó múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        16.296025,
-                        48.084149
                   ]
             },
             {
@@ -43857,84 +40275,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pfarrkirche der heiligen Kunigunde",
-                  "text": "Történelmi plébániatemplom Brunn am Gebirgében, amely istentiszteleti helyként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        16.285801,
-                        48.107099
-                  ]
-            },
-            {
-                  "name": "Spitalskirche",
-                  "text": "Hagyományos kórházi templom Brunn am Gebirgében vallási célokra.",
-                  "category": "religious",
-                  "coords": [
-                        16.267674,
-                        48.121721
-                  ]
-            },
-            {
-                  "name": "Südstadtkirche",
-                  "text": "Modern templom Brunn am Gebirgében, amely a helyi közösséget szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        16.305562,
-                        48.095186
-                  ]
-            },
-            {
-                  "name": "Franziskaner- und Wallfahrtskirche Maria Enzersdorf",
-                  "text": "Jelentős zarándoktemplom Brunn am Gebirgében ferences hagyományokkal.",
-                  "category": "religious",
-                  "coords": [
-                        16.284802,
-                        48.101008
-                  ]
-            },
-            {
-                  "name": "Prenningerkapelle",
-                  "text": "Kisméretű kápolna Brunn am Gebirgében, a nyugalom helyszíne.",
-                  "category": "religious",
-                  "coords": [
-                        16.318386,
-                        48.08248
-                  ]
-            },
-            {
-                  "name": "Kirche Hochleiten",
-                  "text": "Brunn am Gebirge temploma, amelyet istentiszteletekhez használnak.",
-                  "category": "religious",
-                  "coords": [
-                        16.255133,
-                        48.10049
-                  ]
-            },
-            {
-                  "name": "Herz-Jesu-Kirche",
-                  "text": "Jézus Szíve tiszteletére szentelt szakrális épület Brunn am Gebirgében.",
-                  "category": "religious",
-                  "coords": [
-                        16.301864,
-                        48.088702
-                  ]
-            },
-            {
                   "name": "Efeugrat",
                   "text": "Jellegzetes sziklaalakzat Brunn am Gebirge közelében a természet kedvelőinek.",
                   "category": "natural",
                   "coords": [
                         16.270639,
                         48.080646
-                  ]
-            },
-            {
-                  "name": "Hugo-Wolf-Museum",
-                  "text": "Emlékhely és múzeum Hugo Wolf zeneszerző tiszteletére Brunn am Gebirgében.",
-                  "category": "museum",
-                  "coords": [
-                        16.268047,
-                        48.116553
                   ]
             },
             {
@@ -43956,24 +40302,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rudolf-Steiner-Museum",
-                  "text": "Rudolf Steiner életét és munkásságát bemutató múzeum Brunn am Gebirgében.",
-                  "category": "museum",
-                  "coords": [
-                        16.283358,
-                        48.107755
-                  ]
-            },
-            {
-                  "name": "Archäologisches Museum",
-                  "text": "Múzeum Brunn am Gebirgében a régió történelmi leleteivel.",
-                  "category": "museum",
-                  "coords": [
-                        16.265151,
-                        48.119807
-                  ]
-            },
-            {
                   "name": "Kunst im Raum",
                   "text": "Művészeti galéria Brunn am Gebirgében változó kiállításokkal.",
                   "category": "museum",
@@ -43985,129 +40313,12 @@ export const austriaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Grüner See",
-                  "text": "Grüner See din Brunn am Gebirge invită la plimbări relaxante pe malul apei în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        16.342382,
-                        48.154007
-                  ]
-            },
-            {
-                  "name": "Kahrteich",
-                  "text": "Kahrteich din Brunn am Gebirge este un corp de apă liniștit, care invită la relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        16.314444,
-                        48.075677
-                  ]
-            },
-            {
-                  "name": "Karl Zechmeister-Teich",
-                  "text": "Karl Zechmeister-Teich din Brunn am Gebirge oferă un cadru natural pentru scurte excursii în natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.239508,
-                        48.124257
-                  ]
-            },
-            {
-                  "name": "Göpelteich",
-                  "text": "Göpelteich din Brunn am Gebirge este o destinație idilică pentru plimbări și iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        16.371486,
-                        48.107375
-                  ]
-            },
-            {
-                  "name": "Seepark Kinderbecken",
-                  "text": "Bazinul pentru copii Seepark din Brunn am Gebirge oferă un mediu sigur pentru distracția acvatică a celor mici.",
-                  "category": "natural",
-                  "coords": [
-                        16.352729,
-                        48.112969
-                  ]
-            },
-            {
                   "name": "Hort Spielwiese",
                   "text": "Pajiștea de joacă a centrului de zi din Brunn am Gebirge oferă copiilor mult spațiu pentru mișcare și joacă în grup.",
                   "category": "family",
                   "coords": [
                         16.303013,
                         48.095151
-                  ]
-            },
-            {
-                  "name": "Spielplatz der Wohnhausanlage",
-                  "text": "Locul de joacă al complexului rezidențial din Brunn am Gebirge este o opțiune practică pentru joaca în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        16.268776,
-                        48.119807
-                  ]
-            },
-            {
-                  "name": "Südstadtzentrum",
-                  "text": "Südstadtzentrum din Brunn am Gebirge dispune de un loc de joacă care invită familiile la relaxare.",
-                  "category": "family",
-                  "coords": [
-                        16.308711,
-                        48.094859
-                  ]
-            },
-            {
-                  "name": "Hyrtlpark",
-                  "text": "Locul de joacă din Hyrtlpark, Brunn am Gebirge, oferă copiilor facilități de joacă într-un parc îngrijit.",
-                  "category": "family",
-                  "coords": [
-                        16.304949,
-                        48.085161
-                  ]
-            },
-            {
-                  "name": "Klosterpark Spielplatz",
-                  "text": "Locul de joacă din Klosterpark, Brunn am Gebirge, este un loc liniștit pentru copii, pentru joacă și explorare.",
-                  "category": "family",
-                  "coords": [
-                        16.321296,
-                        48.084411
-                  ]
-            },
-            {
-                  "name": "Spielplatz - Verkehrsübungsplatz",
-                  "text": "Locul de joacă cu pistă pentru educație rutieră din Brunn am Gebirge îmbină distracția cu învățarea regulilor de circulație.",
-                  "category": "family",
-                  "coords": [
-                        16.290205,
-                        48.09125
-                  ]
-            },
-            {
-                  "name": "Lercherlberg",
-                  "text": "Lercherlberg din Brunn am Gebirge oferă un loc de joacă aproape de natură pentru familii și copii.",
-                  "category": "family",
-                  "coords": [
-                        16.27612,
-                        48.102633
-                  ]
-            },
-            {
-                  "name": "Spielplatz Jägerhausgasse",
-                  "text": "Locul de joacă Jägerhausgasse din Brunn am Gebirge este un punct de întâlnire local pentru copii pentru joacă în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        16.264659,
-                        48.080568
-                  ]
-            },
-            {
-                  "name": "Paradieschen",
-                  "text": "Paradieschen din Brunn am Gebirge oferă un mediu prietenos pentru copii, pentru joacă și mișcare.",
-                  "category": "family",
-                  "coords": [
-                        16.295548,
-                        48.088853
                   ]
             },
             {
@@ -44120,57 +40331,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jumpin Warrior SCS",
-                  "text": "Jumpin Warrior SCS din Brunn am Gebirge oferă facilități de joacă pline de acțiune pentru copii și tineri.",
-                  "category": "family",
-                  "coords": [
-                        16.319431,
-                        48.100345
-                  ]
-            },
-            {
-                  "name": "Pool",
-                  "text": "O piscină în Brunn am Gebirge pentru activități sportive.",
-                  "category": "family",
-                  "coords": [
-                        16.280819,
-                        48.08626
-                  ]
-            },
-            {
-                  "name": "SCS Multiplex CityWave",
-                  "text": "O instalație de surfing artificială în Brunn am Gebirge pentru surferi.",
-                  "category": "family",
-                  "coords": [
-                        16.317831,
-                        48.103291
-                  ]
-            },
-            {
-                  "name": "Mehrzweckbecken",
-                  "text": "O piscină versatilă în Brunn am Gebirge pentru diverse activități.",
-                  "category": "family",
-                  "coords": [
-                        16.280172,
-                        48.132803
-                  ]
-            },
-            {
                   "name": "Freizeitzentrum Stadtbad Mödling",
                   "text": "Un parc acvatic în Brunn am Gebirge cu diverse oferte de agrement.",
                   "category": "family",
                   "coords": [
                         16.287914,
                         48.081397
-                  ]
-            },
-            {
-                  "name": "Freizeitzentrum Perchtoldsdorf",
-                  "text": "Un centru de agrement în Brunn am Gebirge cu piscine și zone sportive.",
-                  "category": "family",
-                  "coords": [
-                        16.267314,
-                        48.12328
                   ]
             },
             {
@@ -44183,84 +40349,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Erika-Teich",
-                  "text": "Un iaz natural pentru scăldat în Brunn am Gebirge, ideal pentru o răcorire naturală.",
-                  "category": "family",
-                  "coords": [
-                        16.318821,
-                        48.071808
-                  ]
-            },
-            {
-                  "name": "Schloss Liechtenstein",
-                  "text": "Un castel romantic din secolul al XIX-lea la marginea pădurii vieneze.",
-                  "category": "castle",
-                  "coords": [
-                        16.271984,
-                        48.092011
-                  ]
-            },
-            {
-                  "name": "Burg zu Perchtoldsdorf",
-                  "text": "O puternică fortăreață medievală în centrul localității Perchtoldsdorf.",
-                  "category": "castle",
-                  "coords": [
-                        16.26424,
-                        48.119757
-                  ]
-            },
-            {
-                  "name": "Schloss Hunyadi",
-                  "text": "Un castel baroc în Maria Enzersdorf, astăzi loc de desfășurare a evenimentelor.",
-                  "category": "castle",
-                  "coords": [
-                        16.282378,
-                        48.098647
-                  ]
-            },
-            {
-                  "name": "Burgruine Mödling",
-                  "text": "Ruinele unei fortărețe medievale cândva importante deasupra orașului Mödling.",
-                  "category": "castle",
-                  "coords": [
-                        16.267361,
-                        48.079348
-                  ]
-            },
-            {
-                  "name": "Schaubergwerk Seegrotte Hinterbrühl",
-                  "text": "O fostă mină de gips care adăpostește cel mai mare lac subteran din Europa.",
-                  "category": "landmark",
-                  "coords": [
-                        16.257343,
-                        48.086125
-                  ]
-            },
-            {
                   "name": "Jennyberg",
                   "text": "Un munte distinctiv în pădurea vieneză de lângă Mödling, cu puncte de belvedere.",
                   "category": "natural",
                   "coords": [
                         16.27822,
                         48.075615
-                  ]
-            },
-            {
-                  "name": "Volkskundemuseum Mödling",
-                  "text": "Muzeul prezintă exponate despre folclorul regional și meșteșuguri.",
-                  "category": "museum",
-                  "coords": [
-                        16.28584,
-                        48.086337
-                  ]
-            },
-            {
-                  "name": "Mödlinger Stadtverkehrsmuseum",
-                  "text": "Un muzeu dedicat istoriei transportului public din regiune.",
-                  "category": "museum",
-                  "coords": [
-                        16.296025,
-                        48.084149
                   ]
             },
             {
@@ -44291,84 +40385,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pfarrkirche der heiligen Kunigunde",
-                  "text": "Biserică parohială istorică din Brunn am Gebirge, utilizată ca loc de cult.",
-                  "category": "religious",
-                  "coords": [
-                        16.285801,
-                        48.107099
-                  ]
-            },
-            {
-                  "name": "Spitalskirche",
-                  "text": "O biserică tradițională de spital în Brunn am Gebirge pentru scopuri religioase.",
-                  "category": "religious",
-                  "coords": [
-                        16.267674,
-                        48.121721
-                  ]
-            },
-            {
-                  "name": "Südstadtkirche",
-                  "text": "Biserică modernă din Brunn am Gebirge, care servește comunitatea locală.",
-                  "category": "religious",
-                  "coords": [
-                        16.305562,
-                        48.095186
-                  ]
-            },
-            {
-                  "name": "Franziskaner- und Wallfahrtskirche Maria Enzersdorf",
-                  "text": "Biserică importantă de pelerinaj din Brunn am Gebirge, cu tradiție franciscană.",
-                  "category": "religious",
-                  "coords": [
-                        16.284802,
-                        48.101008
-                  ]
-            },
-            {
-                  "name": "Prenningerkapelle",
-                  "text": "O mică capelă în Brunn am Gebirge, servind ca loc de liniște.",
-                  "category": "religious",
-                  "coords": [
-                        16.318386,
-                        48.08248
-                  ]
-            },
-            {
-                  "name": "Kirche Hochleiten",
-                  "text": "Biserică din Brunn am Gebirge, utilizată pentru slujbe religioase.",
-                  "category": "religious",
-                  "coords": [
-                        16.255133,
-                        48.10049
-                  ]
-            },
-            {
-                  "name": "Herz-Jesu-Kirche",
-                  "text": "Edificiu religios din Brunn am Gebirge, dedicat Inimii lui Isus.",
-                  "category": "religious",
-                  "coords": [
-                        16.301864,
-                        48.088702
-                  ]
-            },
-            {
                   "name": "Efeugrat",
                   "text": "Formațiune stâncoasă distinctivă lângă Brunn am Gebirge pentru iubitorii de natură.",
                   "category": "natural",
                   "coords": [
                         16.270639,
                         48.080646
-                  ]
-            },
-            {
-                  "name": "Hugo-Wolf-Museum",
-                  "text": "Casă memorială și muzeu dedicat compozitorului Hugo Wolf în Brunn am Gebirge.",
-                  "category": "museum",
-                  "coords": [
-                        16.268047,
-                        48.116553
                   ]
             },
             {
@@ -44390,24 +40412,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rudolf-Steiner-Museum",
-                  "text": "Muzeu despre viața și opera lui Rudolf Steiner în Brunn am Gebirge.",
-                  "category": "museum",
-                  "coords": [
-                        16.283358,
-                        48.107755
-                  ]
-            },
-            {
-                  "name": "Archäologisches Museum",
-                  "text": "Muzeu din Brunn am Gebirge cu descoperiri din istoria regională.",
-                  "category": "museum",
-                  "coords": [
-                        16.265151,
-                        48.119807
-                  ]
-            },
-            {
                   "name": "Kunst im Raum",
                   "text": "Galerie de artă din Brunn am Gebirge cu expoziții temporare.",
                   "category": "museum",
@@ -44419,129 +40423,12 @@ export const austriaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Grüner See",
-                  "text": "The Grüner See in Brunn am Gebirge invites for relaxing walks by the water in nature.",
-                  "category": "natural",
-                  "coords": [
-                        16.342382,
-                        48.154007
-                  ]
-            },
-            {
-                  "name": "Kahrteich",
-                  "text": "The Kahrteich in Brunn am Gebirge is a quiet body of water that invites for lingering and relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        16.314444,
-                        48.075677
-                  ]
-            },
-            {
-                  "name": "Karl Zechmeister-Teich",
-                  "text": "The Karl Zechmeister-Teich in Brunn am Gebirge provides a natural setting for short trips into the greenery.",
-                  "category": "natural",
-                  "coords": [
-                        16.239508,
-                        48.124257
-                  ]
-            },
-            {
-                  "name": "Göpelteich",
-                  "text": "The Göpelteich in Brunn am Gebirge is an idyllic destination for walkers and nature lovers.",
-                  "category": "natural",
-                  "coords": [
-                        16.371486,
-                        48.107375
-                  ]
-            },
-            {
-                  "name": "Seepark Kinderbecken",
-                  "text": "The Seepark children's pool in Brunn am Gebirge offers a safe environment for water fun for the little ones.",
-                  "category": "natural",
-                  "coords": [
-                        16.352729,
-                        48.112969
-                  ]
-            },
-            {
                   "name": "Hort Spielwiese",
                   "text": "The after-school playground in Brunn am Gebirge offers children plenty of space for movement and group play.",
                   "category": "family",
                   "coords": [
                         16.303013,
                         48.095151
-                  ]
-            },
-            {
-                  "name": "Spielplatz der Wohnhausanlage",
-                  "text": "The residential complex playground in Brunn am Gebirge is a convenient option for outdoor play.",
-                  "category": "family",
-                  "coords": [
-                        16.268776,
-                        48.119807
-                  ]
-            },
-            {
-                  "name": "Südstadtzentrum",
-                  "text": "The Südstadtzentrum in Brunn am Gebirge features a playground that invites families to linger.",
-                  "category": "family",
-                  "coords": [
-                        16.308711,
-                        48.094859
-                  ]
-            },
-            {
-                  "name": "Hyrtlpark",
-                  "text": "The playground in Hyrtlpark in Brunn am Gebirge offers children play opportunities in a well-maintained park.",
-                  "category": "family",
-                  "coords": [
-                        16.304949,
-                        48.085161
-                  ]
-            },
-            {
-                  "name": "Klosterpark Spielplatz",
-                  "text": "The Klosterpark playground in Brunn am Gebirge is a quiet place for children to play and discover.",
-                  "category": "family",
-                  "coords": [
-                        16.321296,
-                        48.084411
-                  ]
-            },
-            {
-                  "name": "Spielplatz - Verkehrsübungsplatz",
-                  "text": "The playground with a traffic training area in Brunn am Gebirge combines play with learning traffic rules.",
-                  "category": "family",
-                  "coords": [
-                        16.290205,
-                        48.09125
-                  ]
-            },
-            {
-                  "name": "Lercherlberg",
-                  "text": "The Lercherlberg in Brunn am Gebirge offers a nature-oriented playground for families and children.",
-                  "category": "family",
-                  "coords": [
-                        16.27612,
-                        48.102633
-                  ]
-            },
-            {
-                  "name": "Spielplatz Jägerhausgasse",
-                  "text": "The Jägerhausgasse playground in Brunn am Gebirge is a local meeting spot for children to play outdoors.",
-                  "category": "family",
-                  "coords": [
-                        16.264659,
-                        48.080568
-                  ]
-            },
-            {
-                  "name": "Paradieschen",
-                  "text": "The Paradieschen in Brunn am Gebirge offers a friendly environment for children to play and romp around.",
-                  "category": "family",
-                  "coords": [
-                        16.295548,
-                        48.088853
                   ]
             },
             {
@@ -44554,57 +40441,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jumpin Warrior SCS",
-                  "text": "Jumpin Warrior SCS in Brunn am Gebirge offers action-packed play opportunities for children and teenagers.",
-                  "category": "family",
-                  "coords": [
-                        16.319431,
-                        48.100345
-                  ]
-            },
-            {
-                  "name": "Pool",
-                  "text": "A swimming pool in Brunn am Gebirge for sporting activities.",
-                  "category": "family",
-                  "coords": [
-                        16.280819,
-                        48.08626
-                  ]
-            },
-            {
-                  "name": "SCS Multiplex CityWave",
-                  "text": "An artificial surfing facility in Brunn am Gebirge for surfers.",
-                  "category": "family",
-                  "coords": [
-                        16.317831,
-                        48.103291
-                  ]
-            },
-            {
-                  "name": "Mehrzweckbecken",
-                  "text": "A versatile swimming pool in Brunn am Gebirge for various activities.",
-                  "category": "family",
-                  "coords": [
-                        16.280172,
-                        48.132803
-                  ]
-            },
-            {
                   "name": "Freizeitzentrum Stadtbad Mödling",
                   "text": "A water park in Brunn am Gebirge with various leisure offerings.",
                   "category": "family",
                   "coords": [
                         16.287914,
                         48.081397
-                  ]
-            },
-            {
-                  "name": "Freizeitzentrum Perchtoldsdorf",
-                  "text": "A leisure center in Brunn am Gebirge with swimming pools and sports areas.",
-                  "category": "family",
-                  "coords": [
-                        16.267314,
-                        48.12328
                   ]
             },
             {
@@ -44617,84 +40459,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Erika-Teich",
-                  "text": "A natural swimming pond in Brunn am Gebirge, ideal for a natural cool-down.",
-                  "category": "family",
-                  "coords": [
-                        16.318821,
-                        48.071808
-                  ]
-            },
-            {
-                  "name": "Schloss Liechtenstein",
-                  "text": "A romantic 19th-century castle on the edge of the Vienna Woods.",
-                  "category": "castle",
-                  "coords": [
-                        16.271984,
-                        48.092011
-                  ]
-            },
-            {
-                  "name": "Burg zu Perchtoldsdorf",
-                  "text": "A mighty medieval castle complex in the center of Perchtoldsdorf.",
-                  "category": "castle",
-                  "coords": [
-                        16.26424,
-                        48.119757
-                  ]
-            },
-            {
-                  "name": "Schloss Hunyadi",
-                  "text": "A Baroque country castle in Maria Enzersdorf, now an event venue.",
-                  "category": "castle",
-                  "coords": [
-                        16.282378,
-                        48.098647
-                  ]
-            },
-            {
-                  "name": "Burgruine Mödling",
-                  "text": "The ruins of a once important medieval stronghold overlooking Mödling.",
-                  "category": "castle",
-                  "coords": [
-                        16.267361,
-                        48.079348
-                  ]
-            },
-            {
-                  "name": "Schaubergwerk Seegrotte Hinterbrühl",
-                  "text": "A former gypsum mine containing the largest underground lake in Europe.",
-                  "category": "landmark",
-                  "coords": [
-                        16.257343,
-                        48.086125
-                  ]
-            },
-            {
                   "name": "Jennyberg",
                   "text": "A prominent hill in the Vienna Woods near Mödling with viewpoints.",
                   "category": "natural",
                   "coords": [
                         16.27822,
                         48.075615
-                  ]
-            },
-            {
-                  "name": "Volkskundemuseum Mödling",
-                  "text": "The museum displays exhibits on regional folklore and crafts.",
-                  "category": "museum",
-                  "coords": [
-                        16.28584,
-                        48.086337
-                  ]
-            },
-            {
-                  "name": "Mödlinger Stadtverkehrsmuseum",
-                  "text": "A museum dedicated to the history of public transport in the region.",
-                  "category": "museum",
-                  "coords": [
-                        16.296025,
-                        48.084149
                   ]
             },
             {
@@ -44725,84 +40495,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pfarrkirche der heiligen Kunigunde",
-                  "text": "Historic parish church in Brunn am Gebirge, serving as a place of worship.",
-                  "category": "religious",
-                  "coords": [
-                        16.285801,
-                        48.107099
-                  ]
-            },
-            {
-                  "name": "Spitalskirche",
-                  "text": "A traditional hospital church in Brunn am Gebirge used for religious purposes.",
-                  "category": "religious",
-                  "coords": [
-                        16.267674,
-                        48.121721
-                  ]
-            },
-            {
-                  "name": "Südstadtkirche",
-                  "text": "Modern church in Brunn am Gebirge serving the local community.",
-                  "category": "religious",
-                  "coords": [
-                        16.305562,
-                        48.095186
-                  ]
-            },
-            {
-                  "name": "Franziskaner- und Wallfahrtskirche Maria Enzersdorf",
-                  "text": "Significant pilgrimage church in Brunn am Gebirge with Franciscan traditions.",
-                  "category": "religious",
-                  "coords": [
-                        16.284802,
-                        48.101008
-                  ]
-            },
-            {
-                  "name": "Prenningerkapelle",
-                  "text": "Small chapel in Brunn am Gebirge, serving as a place of quiet reflection.",
-                  "category": "religious",
-                  "coords": [
-                        16.318386,
-                        48.08248
-                  ]
-            },
-            {
-                  "name": "Kirche Hochleiten",
-                  "text": "Church in Brunn am Gebirge used for religious services.",
-                  "category": "religious",
-                  "coords": [
-                        16.255133,
-                        48.10049
-                  ]
-            },
-            {
-                  "name": "Herz-Jesu-Kirche",
-                  "text": "Sacred building in Brunn am Gebirge dedicated to the Sacred Heart of Jesus.",
-                  "category": "religious",
-                  "coords": [
-                        16.301864,
-                        48.088702
-                  ]
-            },
-            {
                   "name": "Efeugrat",
                   "text": "Distinctive cliff formation near Brunn am Gebirge for nature enthusiasts.",
                   "category": "natural",
                   "coords": [
                         16.270639,
                         48.080646
-                  ]
-            },
-            {
-                  "name": "Hugo-Wolf-Museum",
-                  "text": "Memorial and museum dedicated to the composer Hugo Wolf in Brunn am Gebirge.",
-                  "category": "museum",
-                  "coords": [
-                        16.268047,
-                        48.116553
                   ]
             },
             {
@@ -44821,24 +40519,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         16.287934,
                         48.086571
-                  ]
-            },
-            {
-                  "name": "Rudolf-Steiner-Museum",
-                  "text": "Museum about the life and work of Rudolf Steiner in Brunn am Gebirge.",
-                  "category": "museum",
-                  "coords": [
-                        16.283358,
-                        48.107755
-                  ]
-            },
-            {
-                  "name": "Archäologisches Museum",
-                  "text": "Museum in Brunn am Gebirge displaying findings from regional history.",
-                  "category": "museum",
-                  "coords": [
-                        16.265151,
-                        48.119807
                   ]
             },
             {
@@ -44926,15 +40606,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bergschlößl",
-                  "text": "Ein spätbarockes Schlösschen, das heute für Veranstaltungen genutzt wird.",
-                  "category": "castle",
-                  "coords": [
-                        14.285672,
-                        48.290874
-                  ]
-            },
-            {
                   "name": "Kinderbad Kudlichstraße",
                   "text": "Ein kleines Freibad in Leonding, besonders für Kinder geeignet.",
                   "category": "family",
@@ -44959,15 +40630,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.221572,
                         48.294493
-                  ]
-            },
-            {
-                  "name": "Botanischer Garten",
-                  "text": "Ein weitläufiger botanischer Garten mit einer großen Vielfalt an Pflanzen.",
-                  "category": "park",
-                  "coords": [
-                        14.276545,
-                        48.296213
                   ]
             },
             {
@@ -45088,15 +40750,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stupa Linz",
-                  "text": "Ein buddhistisches Denkmal für den Weltfrieden in Leonding.",
-                  "category": "religious",
-                  "coords": [
-                        14.267877,
-                        48.295271
-                  ]
-            },
-            {
                   "name": "Pfarre Heilige Dreifaltigkeit",
                   "text": "Eine katholische Pfarrkirche in der Gemeinde Leonding.",
                   "category": "religious",
@@ -45142,102 +40795,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kalvarienbergkirche St. Margarethen",
-                  "text": "Eine historische Kalvarienbergkirche in St. Margarethen bei Leonding.",
-                  "category": "religious",
-                  "coords": [
-                        14.259377,
-                        48.306467
-                  ]
-            },
-            {
-                  "name": "Kapuzinerkirche",
-                  "text": "Die Kapuzinerkirche in Leonding ist eine ehemalige Klosterkirche der Kapuziner.",
-                  "category": "religious",
-                  "coords": [
-                        14.281817,
-                        48.300339
-                  ]
-            },
-            {
                   "name": "Maria Heilbrunn Kapelle",
                   "text": "Die Maria Heilbrunn Kapelle in Leonding wurde 1665 erbaut.",
                   "category": "religious",
                   "coords": [
                         14.263304,
                         48.306171
-                  ]
-            },
-            {
-                  "name": "Donautalbrücke",
-                  "text": "Eine beeindruckende Brücke, die das Donautal bei Leonding überspannt.",
-                  "category": "landmark",
-                  "coords": [
-                        14.268266,
-                        48.305812
-                  ]
-            },
-            {
-                  "name": "Oedtersee",
-                  "text": "Der Oedtersee ist ein kleiner Badesee in Leonding, umgeben von Wiesen und Bäumen.",
-                  "category": "natural",
-                  "coords": [
-                        14.221095,
-                        48.212734
-                  ]
-            },
-            {
-                  "name": "Pleschinger See",
-                  "text": "Der Pleschinger See bei Leonding lädt zu erholsamen Stunden in der Natur ein.",
-                  "category": "natural",
-                  "coords": [
-                        14.332361,
-                        48.31934
-                  ]
-            },
-            {
-                  "name": "Gewässerschutzanlage",
-                  "text": "Eine Gewässerschutzanlage in Leonding, die als künstliches Becken angelegt ist.",
-                  "category": "natural",
-                  "coords": [
-                        14.310006,
-                        48.326455
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz - Kudlichstraße",
-                  "text": "Der Spielplatz an der Kudlichstraße in Leonding bietet Kletterturm, Rutsche und Sandkasten.",
-                  "category": "family",
-                  "coords": [
-                        14.28479,
-                        48.285077
-                  ]
-            },
-            {
-                  "name": "Fitnessparcour - Freinberg",
-                  "text": "Der Fitnessparcour am Freinberg in Leonding bietet sportliche Betätigung für Familien.",
-                  "category": "family",
-                  "coords": [
-                        14.265657,
-                        48.301586
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz - Wasserreservoir Freinberg",
-                  "text": "Der Spielplatz am Wasserreservoir Freinberg in Leonding liegt unter Bäumen und hat Wasser-Spielgeräte.",
-                  "category": "family",
-                  "coords": [
-                        14.264488,
-                        48.301897
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kaisereiche",
-                  "text": "Dieser Spielplatz in Leonding bietet Abwechslung und Spielmöglichkeiten für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        14.266569,
-                        48.302266
                   ]
             },
             {
@@ -45259,24 +40822,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Minigolf Freinberg",
-                  "text": "In Leonding bietet diese Minigolfanlage Freizeitspaß für Groß und Klein.",
-                  "category": "family",
-                  "coords": [
-                        14.271509,
-                        48.293962
-                  ]
-            },
-            {
-                  "name": "Kinder- und Jugendspielplatz - Margarethen",
-                  "text": "Ein freundlicher Spielplatz in Leonding, der Kindern Raum zum Austoben bietet.",
-                  "category": "family",
-                  "coords": [
-                        14.254449,
-                        48.307008
-                  ]
-            },
-            {
                   "name": "Spielplatz Rufling",
                   "text": "Dieser Spielplatz in Leonding ist mit verschiedenen Spielgeräten für Kinder ausgestattet.",
                   "category": "family",
@@ -45286,30 +40831,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kinderspielplatz - Bockgasse",
-                  "text": "Ein lokal gelegener Spielplatz in Leonding für die tägliche Freizeitgestaltung.",
-                  "category": "family",
-                  "coords": [
-                        14.279251,
-                        48.291329
-                  ]
-            },
-            {
                   "name": "Hummelhofbad",
                   "text": "Dieser Wasserpark in Leonding bietet vielfältige Becken und Spielbereiche für Badegäste.",
                   "category": "family",
                   "coords": [
                         14.291106,
                         48.276938
-                  ]
-            },
-            {
-                  "name": "Linzer Tiergarten",
-                  "text": "Der Zoo Linz in Leonding beheimatet zahlreiche Tierarten und ist ein beliebtes Ausflugsziel für Familien.",
-                  "category": "family",
-                  "coords": [
-                        14.26228,
-                        48.310468
                   ]
             },
             {
@@ -45360,15 +40887,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bergschlößl",
-                  "text": "Késő barokk kastélyka, amelyet ma rendezvényekre használnak.",
-                  "category": "castle",
-                  "coords": [
-                        14.285672,
-                        48.290874
-                  ]
-            },
-            {
                   "name": "Kinderbad Kudlichstraße",
                   "text": "Kisméretű szabadtéri strand Leondingban, kifejezetten gyermekeknek.",
                   "category": "family",
@@ -45393,15 +40911,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.221572,
                         48.294493
-                  ]
-            },
-            {
-                  "name": "Botanischer Garten",
-                  "text": "Kiterjedt botanikus kert növények hatalmas választékával.",
-                  "category": "park",
-                  "coords": [
-                        14.276545,
-                        48.296213
                   ]
             },
             {
@@ -45522,15 +41031,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stupa Linz",
-                  "text": "Buddhista emlékmű a világbékéért Leondingban.",
-                  "category": "religious",
-                  "coords": [
-                        14.267877,
-                        48.295271
-                  ]
-            },
-            {
                   "name": "Pfarre Heilige Dreifaltigkeit",
                   "text": "Katolikus plébániatemplom Leonding községben.",
                   "category": "religious",
@@ -45576,102 +41076,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kalvarienbergkirche St. Margarethen",
-                  "text": "Történelmi kálvária-templom a Leonding melletti St. Margarethenben.",
-                  "category": "religious",
-                  "coords": [
-                        14.259377,
-                        48.306467
-                  ]
-            },
-            {
-                  "name": "Kapuzinerkirche",
-                  "text": "A Leondingi Kapucinus-templom egy volt kapucinus kolostortemplom.",
-                  "category": "religious",
-                  "coords": [
-                        14.281817,
-                        48.300339
-                  ]
-            },
-            {
                   "name": "Maria Heilbrunn Kapelle",
                   "text": "A Maria Heilbrunn kápolna Leondingban 1665-ben épült.",
                   "category": "religious",
                   "coords": [
                         14.263304,
                         48.306171
-                  ]
-            },
-            {
-                  "name": "Donautalbrücke",
-                  "text": "Lenyűgöző híd, amely a Duna-völgyet íveli át Leondingnál.",
-                  "category": "landmark",
-                  "coords": [
-                        14.268266,
-                        48.305812
-                  ]
-            },
-            {
-                  "name": "Oedtersee",
-                  "text": "Az Oedtersee egy kis fürdőtó Leondingban, rétekkel és fákkal körülvéve.",
-                  "category": "natural",
-                  "coords": [
-                        14.221095,
-                        48.212734
-                  ]
-            },
-            {
-                  "name": "Pleschinger See",
-                  "text": "A Leonding melletti Pleschinger See pihentető órákra hív a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        14.332361,
-                        48.31934
-                  ]
-            },
-            {
-                  "name": "Gewässerschutzanlage",
-                  "text": "Egy leondingi vízvédelmi létesítmény, amely mesterséges medenceként van kialakítva.",
-                  "category": "natural",
-                  "coords": [
-                        14.310006,
-                        48.326455
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz - Kudlichstraße",
-                  "text": "A leondingi Kudlichstraße-i játszótéren mászótorony, csúszda és homokozó található.",
-                  "category": "family",
-                  "coords": [
-                        14.28479,
-                        48.285077
-                  ]
-            },
-            {
-                  "name": "Fitnessparcour - Freinberg",
-                  "text": "A leondingi Freinberg fitnesspályája sportolási lehetőséget kínál a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        14.265657,
-                        48.301586
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz - Wasserreservoir Freinberg",
-                  "text": "A leondingi Wasserreservoir Freinberg melletti játszótér fák alatt található, vízi játékokkal.",
-                  "category": "family",
-                  "coords": [
-                        14.264488,
-                        48.301897
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kaisereiche",
-                  "text": "Ez a Leonding városában található játszótér kikapcsolódást és játéklehetőséget nyújt a gyermekeknek.",
-                  "category": "family",
-                  "coords": [
-                        14.266569,
-                        48.302266
                   ]
             },
             {
@@ -45693,24 +41103,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Minigolf Freinberg",
-                  "text": "Leondingban ez a minigolfpálya szabadidős szórakozást kínál kicsiknek és nagyoknak.",
-                  "category": "family",
-                  "coords": [
-                        14.271509,
-                        48.293962
-                  ]
-            },
-            {
-                  "name": "Kinder- und Jugendspielplatz - Margarethen",
-                  "text": "Barátságos játszótér Leondingban, amely teret biztosít a gyerekeknek a mozgáshoz.",
-                  "category": "family",
-                  "coords": [
-                        14.254449,
-                        48.307008
-                  ]
-            },
-            {
                   "name": "Spielplatz Rufling",
                   "text": "Ez a leondingi játszótér különféle játékokkal van felszerelve a gyermekek számára.",
                   "category": "family",
@@ -45720,30 +41112,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kinderspielplatz - Bockgasse",
-                  "text": "Egy helyi játszótér Leondingban a mindennapi szabadidős tevékenységekhez.",
-                  "category": "family",
-                  "coords": [
-                        14.279251,
-                        48.291329
-                  ]
-            },
-            {
                   "name": "Hummelhofbad",
                   "text": "Ez a leondingi vízi park változatos medencékkel és játszóterekkel várja a fürdőzőket.",
                   "category": "family",
                   "coords": [
                         14.291106,
                         48.276938
-                  ]
-            },
-            {
-                  "name": "Linzer Tiergarten",
-                  "text": "A leondingi Zoo Linz számos állatfajnak ad otthont, és népszerű kirándulóhely a családok körében.",
-                  "category": "family",
-                  "coords": [
-                        14.26228,
-                        48.310468
                   ]
             },
             {
@@ -45794,15 +41168,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bergschlößl",
-                  "text": "Un mic castel în stil baroc târziu, utilizat astăzi pentru evenimente.",
-                  "category": "castle",
-                  "coords": [
-                        14.285672,
-                        48.290874
-                  ]
-            },
-            {
                   "name": "Kinderbad Kudlichstraße",
                   "text": "O mică piscină în aer liber în Leonding, potrivită în special pentru copii.",
                   "category": "family",
@@ -45827,15 +41192,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.221572,
                         48.294493
-                  ]
-            },
-            {
-                  "name": "Botanischer Garten",
-                  "text": "O grădină botanică vastă, cu o mare diversitate de specii de plante.",
-                  "category": "park",
-                  "coords": [
-                        14.276545,
-                        48.296213
                   ]
             },
             {
@@ -45956,15 +41312,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stupa Linz",
-                  "text": "Un monument budist pentru pacea mondială în Leonding.",
-                  "category": "religious",
-                  "coords": [
-                        14.267877,
-                        48.295271
-                  ]
-            },
-            {
                   "name": "Pfarre Heilige Dreifaltigkeit",
                   "text": "O biserică parohială catolică în localitatea Leonding.",
                   "category": "religious",
@@ -46010,102 +41357,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kalvarienbergkirche St. Margarethen",
-                  "text": "O biserică istorică de pe Calvar în St. Margarethen, lângă Leonding.",
-                  "category": "religious",
-                  "coords": [
-                        14.259377,
-                        48.306467
-                  ]
-            },
-            {
-                  "name": "Kapuzinerkirche",
-                  "text": "Biserica Capucinilor din Leonding este o fostă biserică de mănăstire capucină.",
-                  "category": "religious",
-                  "coords": [
-                        14.281817,
-                        48.300339
-                  ]
-            },
-            {
                   "name": "Maria Heilbrunn Kapelle",
                   "text": "Capela Maria Heilbrunn din Leonding a fost construită în 1665.",
                   "category": "religious",
                   "coords": [
                         14.263304,
                         48.306171
-                  ]
-            },
-            {
-                  "name": "Donautalbrücke",
-                  "text": "Un pod impresionant care traversează valea Dunării lângă Leonding.",
-                  "category": "landmark",
-                  "coords": [
-                        14.268266,
-                        48.305812
-                  ]
-            },
-            {
-                  "name": "Oedtersee",
-                  "text": "Oedtersee este un mic lac de înot în Leonding, înconjurat de pajiști și copaci.",
-                  "category": "natural",
-                  "coords": [
-                        14.221095,
-                        48.212734
-                  ]
-            },
-            {
-                  "name": "Pleschinger See",
-                  "text": "Pleschinger See de lângă Leonding invită la ore de relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        14.332361,
-                        48.31934
-                  ]
-            },
-            {
-                  "name": "Gewässerschutzanlage",
-                  "text": "O instalație de protecție a apei în Leonding, amenajată ca bazin artificial.",
-                  "category": "natural",
-                  "coords": [
-                        14.310006,
-                        48.326455
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz - Kudlichstraße",
-                  "text": "Locul de joacă de pe Kudlichstraße din Leonding oferă un turn de cățărare, tobogan și nisipar.",
-                  "category": "family",
-                  "coords": [
-                        14.28479,
-                        48.285077
-                  ]
-            },
-            {
-                  "name": "Fitnessparcour - Freinberg",
-                  "text": "Parcursul de fitness de pe Freinberg din Leonding oferă activități sportive pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        14.265657,
-                        48.301586
-                  ]
-            },
-            {
-                  "name": "Kinderspielplatz - Wasserreservoir Freinberg",
-                  "text": "Locul de joacă de la rezervorul de apă Freinberg din Leonding este sub copaci și are echipamente de apă.",
-                  "category": "family",
-                  "coords": [
-                        14.264488,
-                        48.301897
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kaisereiche",
-                  "text": "Acest loc de joacă din Leonding oferă varietate și posibilități de joacă pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        14.266569,
-                        48.302266
                   ]
             },
             {
@@ -46127,24 +41384,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Minigolf Freinberg",
-                  "text": "În Leonding, acest teren de minigolf oferă distracție în timpul liber pentru cei mici și mari.",
-                  "category": "family",
-                  "coords": [
-                        14.271509,
-                        48.293962
-                  ]
-            },
-            {
-                  "name": "Kinder- und Jugendspielplatz - Margarethen",
-                  "text": "Un loc de joacă primitor în Leonding, care oferă copiilor spațiu pentru mișcare.",
-                  "category": "family",
-                  "coords": [
-                        14.254449,
-                        48.307008
-                  ]
-            },
-            {
                   "name": "Spielplatz Rufling",
                   "text": "Acest loc de joacă din Leonding este dotat cu diverse echipamente de joacă pentru copii.",
                   "category": "family",
@@ -46154,30 +41393,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kinderspielplatz - Bockgasse",
-                  "text": "Un loc de joacă local în Leonding pentru activități zilnice de agrement.",
-                  "category": "family",
-                  "coords": [
-                        14.279251,
-                        48.291329
-                  ]
-            },
-            {
                   "name": "Hummelhofbad",
                   "text": "Acest parc acvatic din Leonding oferă bazine diverse și zone de joacă pentru vizitatori.",
                   "category": "family",
                   "coords": [
                         14.291106,
                         48.276938
-                  ]
-            },
-            {
-                  "name": "Linzer Tiergarten",
-                  "text": "Grădina Zoologică Linz din Leonding găzduiește numeroase specii de animale și este o destinație populară pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        14.26228,
-                        48.310468
                   ]
             },
             {
@@ -46228,15 +41449,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bergschlößl",
-                  "text": "A late Baroque small castle currently used as a venue for events.",
-                  "category": "castle",
-                  "coords": [
-                        14.285672,
-                        48.290874
-                  ]
-            },
-            {
                   "name": "Kinderbad Kudlichstraße",
                   "text": "A small outdoor pool in Leonding, especially suitable for children.",
                   "category": "family",
@@ -46261,15 +41473,6 @@ export const austriaCitiesV2: POI[] = [
                   "coords": [
                         14.221572,
                         48.294493
-                  ]
-            },
-            {
-                  "name": "Botanical Garden",
-                  "text": "An extensive botanical garden featuring a wide variety of plant species.",
-                  "category": "park",
-                  "coords": [
-                        14.276545,
-                        48.296213
                   ]
             },
             {
@@ -46390,15 +41593,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stupa Linz",
-                  "text": "A Buddhist monument for world peace located in Leonding.",
-                  "category": "religious",
-                  "coords": [
-                        14.267877,
-                        48.295271
-                  ]
-            },
-            {
                   "name": "Pfarre Heilige Dreifaltigkeit",
                   "text": "A Catholic parish church in the municipality of Leonding.",
                   "category": "religious",
@@ -46444,102 +41638,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kalvarienbergkirche St. Margarethen",
-                  "text": "A historic Calvary church in St. Margarethen near Leonding.",
-                  "category": "religious",
-                  "coords": [
-                        14.259377,
-                        48.306467
-                  ]
-            },
-            {
-                  "name": "Kapuzinerkirche",
-                  "text": "Kapuzinerkirche is a former Capuchin monastery church in Leonding.",
-                  "category": "religious",
-                  "coords": [
-                        14.281817,
-                        48.300339
-                  ]
-            },
-            {
                   "name": "Maria Heilbrunn Kapelle",
                   "text": "The Maria Heilbrunn Chapel in Leonding was built in 1665.",
                   "category": "religious",
                   "coords": [
                         14.263304,
                         48.306171
-                  ]
-            },
-            {
-                  "name": "Donautalbrücke",
-                  "text": "An impressive bridge spanning the Danube valley near Leonding.",
-                  "category": "landmark",
-                  "coords": [
-                        14.268266,
-                        48.305812
-                  ]
-            },
-            {
-                  "name": "Oedtersee",
-                  "text": "Oedtersee is a small swimming lake in Leonding, surrounded by meadows and trees.",
-                  "category": "natural",
-                  "coords": [
-                        14.221095,
-                        48.212734
-                  ]
-            },
-            {
-                  "name": "Pleschinger See",
-                  "text": "The Pleschinger See near Leonding invites visitors to relaxing hours in nature.",
-                  "category": "natural",
-                  "coords": [
-                        14.332361,
-                        48.31934
-                  ]
-            },
-            {
-                  "name": "Gewässerschutzanlage",
-                  "text": "A water protection facility in Leonding, designed as an artificial basin.",
-                  "category": "natural",
-                  "coords": [
-                        14.310006,
-                        48.326455
-                  ]
-            },
-            {
-                  "name": "Playground - Kudlichstraße",
-                  "text": "The playground on Kudlichstraße in Leonding offers a climbing tower, slide, and sandbox.",
-                  "category": "family",
-                  "coords": [
-                        14.28479,
-                        48.285077
-                  ]
-            },
-            {
-                  "name": "Fitnessparcour - Freinberg",
-                  "text": "The fitness trail at Freinberg in Leonding offers sporting activities for families.",
-                  "category": "family",
-                  "coords": [
-                        14.265657,
-                        48.301586
-                  ]
-            },
-            {
-                  "name": "Playground - Wasserreservoir Freinberg",
-                  "text": "The playground at the Freinberg water reservoir in Leonding is shaded by trees and features water play equipment.",
-                  "category": "family",
-                  "coords": [
-                        14.264488,
-                        48.301897
-                  ]
-            },
-            {
-                  "name": "Spielplatz Kaisereiche",
-                  "text": "This playground in Leonding offers variety and play opportunities for children.",
-                  "category": "family",
-                  "coords": [
-                        14.266569,
-                        48.302266
                   ]
             },
             {
@@ -46561,24 +41665,6 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Miniature golf Freinberg",
-                  "text": "In Leonding, this miniature golf course offers leisure fun for all ages.",
-                  "category": "family",
-                  "coords": [
-                        14.271509,
-                        48.293962
-                  ]
-            },
-            {
-                  "name": "Playground - Margarethen",
-                  "text": "A friendly playground in Leonding providing space for children to play and move around.",
-                  "category": "family",
-                  "coords": [
-                        14.254449,
-                        48.307008
-                  ]
-            },
-            {
                   "name": "Spielplatz Rufling",
                   "text": "This playground in Leonding is equipped with various play equipment for children.",
                   "category": "family",
@@ -46588,30 +41674,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Playground - Bockgasse",
-                  "text": "A local playground in Leonding for daily leisure activities.",
-                  "category": "family",
-                  "coords": [
-                        14.279251,
-                        48.291329
-                  ]
-            },
-            {
                   "name": "Hummelhofbad",
                   "text": "This water park in Leonding offers diverse pools and play areas for bathers.",
                   "category": "family",
                   "coords": [
                         14.291106,
                         48.276938
-                  ]
-            },
-            {
-                  "name": "Zoo Linz",
-                  "text": "The Zoo Linz in Leonding is home to numerous animal species and is a popular excursion destination for families.",
-                  "category": "family",
-                  "coords": [
-                        14.26228,
-                        48.310468
                   ]
             },
             {
@@ -46996,57 +42064,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Burg Taggenbrunn",
-                  "text": "Eine restaurierte Burgruine bei St. Veit an der Glan, die heute als Veranstaltungsort und Weingut dient.",
-                  "category": "castle",
-                  "coords": [
-                        14.390178,
-                        46.771578
-                  ]
-            },
-            {
-                  "name": "Schloss Taggenbrunn",
-                  "text": "Ein historisches Schlossgut in der Nähe der Burg Taggenbrunn in St. Veit an der Glan.",
-                  "category": "castle",
-                  "coords": [
-                        14.386471,
-                        46.769269
-                  ]
-            },
-            {
                   "name": "Schloss Dornhof",
                   "text": "Ein kleines Schloss in St. Veit an der Glan, das für seine historische Bausubstanz bekannt ist.",
                   "category": "castle",
                   "coords": [
                         14.330831,
                         46.774026
-                  ]
-            },
-            {
-                  "name": "Schloss Kölnhof",
-                  "text": "Ein herrschaftliches Schloss in St. Veit an der Glan mit architektonischen Merkmalen der Renaissance.",
-                  "category": "castle",
-                  "coords": [
-                        14.36227,
-                        46.773717
-                  ]
-            },
-            {
-                  "name": "Burgruine Freiberg",
-                  "text": "Die Überreste einer mittelalterlichen Befestigungsanlage in der Nähe von St. Veit an der Glan.",
-                  "category": "castle",
-                  "coords": [
-                        14.343213,
-                        46.787908
-                  ]
-            },
-            {
-                  "name": "Schloss Hunnenbrun",
-                  "text": "Ein historisches Renaissanceschloss in St. Veit an der Glan mit einer gepflegten Parkanlage.",
-                  "category": "castle",
-                  "coords": [
-                        14.372216,
-                        46.781357
                   ]
             },
             {
@@ -47104,30 +42127,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hl. Georg",
-                  "text": "Eine dem heiligen Georg geweihte Kapelle oder Kirche in St. Veit an der Glan.",
-                  "category": "religious",
-                  "coords": [
-                        14.342668,
-                        46.777927
-                  ]
-            },
-            {
                   "name": "Unserer Lieben Frau",
                   "text": "Eine traditionsreiche ehemalige Klosterkirche in St. Veit an der Glan.",
                   "category": "religious",
                   "coords": [
                         14.354622,
                         46.764694
-                  ]
-            },
-            {
-                  "name": "Längsee",
-                  "text": "Der Längsee bei Sankt Veit an der Glan lädt zu entspannten Spaziergängen und zum Verweilen in der Kärntner Natur ein.",
-                  "category": "natural",
-                  "coords": [
-                        14.425549,
-                        46.789501
                   ]
             }
       ],
@@ -47142,57 +42147,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Burg Taggenbrunn",
-                  "text": "Restaurált várrom St. Veit an der Glan közelében, amely ma rendezvényhelyszínként és borászatként működik.",
-                  "category": "castle",
-                  "coords": [
-                        14.390178,
-                        46.771578
-                  ]
-            },
-            {
-                  "name": "Schloss Taggenbrunn",
-                  "text": "Történelmi kastélybirtok a Taggenbrunn vár közelében, St. Veit an der Glanban.",
-                  "category": "castle",
-                  "coords": [
-                        14.386471,
-                        46.769269
-                  ]
-            },
-            {
                   "name": "Schloss Dornhof",
                   "text": "Kis kastély St. Veit an der Glanban, amely történelmi épületszerkezetéről ismert.",
                   "category": "castle",
                   "coords": [
                         14.330831,
                         46.774026
-                  ]
-            },
-            {
-                  "name": "Schloss Kölnhof",
-                  "text": "Úri kastély St. Veit an der Glanban, reneszánsz építészeti jegyekkel.",
-                  "category": "castle",
-                  "coords": [
-                        14.36227,
-                        46.773717
-                  ]
-            },
-            {
-                  "name": "Burgruine Freiberg",
-                  "text": "Középkori erődítmény maradványai St. Veit an der Glan közelében.",
-                  "category": "castle",
-                  "coords": [
-                        14.343213,
-                        46.787908
-                  ]
-            },
-            {
-                  "name": "Schloss Hunnenbrun",
-                  "text": "Történelmi reneszánsz kastély St. Veit an der Glanban, gondozott parkkal.",
-                  "category": "castle",
-                  "coords": [
-                        14.372216,
-                        46.781357
                   ]
             },
             {
@@ -47250,30 +42210,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hl. Georg",
-                  "text": "Szent Györgynek szentelt kápolna vagy templom St. Veit an der Glanban.",
-                  "category": "religious",
-                  "coords": [
-                        14.342668,
-                        46.777927
-                  ]
-            },
-            {
                   "name": "Unserer Lieben Frau",
                   "text": "Nagy múltú egykori kolostortemplom St. Veit an der Glanban.",
                   "category": "religious",
                   "coords": [
                         14.354622,
                         46.764694
-                  ]
-            },
-            {
-                  "name": "Längsee",
-                  "text": "A Sankt Veit an der Glan közelében fekvő Längsee kellemes sétákra és kikapcsolódásra hív a karintiai természetben.",
-                  "category": "natural",
-                  "coords": [
-                        14.425549,
-                        46.789501
                   ]
             }
       ],
@@ -47288,57 +42230,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Burg Taggenbrunn",
-                  "text": "O ruină de castel restaurată lângă St. Veit an der Glan, care astăzi servește ca loc de evenimente și podgorie.",
-                  "category": "castle",
-                  "coords": [
-                        14.390178,
-                        46.771578
-                  ]
-            },
-            {
-                  "name": "Schloss Taggenbrunn",
-                  "text": "O proprietate nobiliară istorică în apropierea castelului Taggenbrunn din St. Veit an der Glan.",
-                  "category": "castle",
-                  "coords": [
-                        14.386471,
-                        46.769269
-                  ]
-            },
-            {
                   "name": "Schloss Dornhof",
                   "text": "Un mic castel în St. Veit an der Glan, cunoscut pentru structura sa istorică.",
                   "category": "castle",
                   "coords": [
                         14.330831,
                         46.774026
-                  ]
-            },
-            {
-                  "name": "Schloss Kölnhof",
-                  "text": "Un castel impunător în St. Veit an der Glan, cu trăsături arhitecturale renascentiste.",
-                  "category": "castle",
-                  "coords": [
-                        14.36227,
-                        46.773717
-                  ]
-            },
-            {
-                  "name": "Burgruine Freiberg",
-                  "text": "Rămășițele unei fortificații medievale în apropiere de St. Veit an der Glan.",
-                  "category": "castle",
-                  "coords": [
-                        14.343213,
-                        46.787908
-                  ]
-            },
-            {
-                  "name": "Schloss Hunnenbrun",
-                  "text": "Un castel istoric în stil renascentist în St. Veit an der Glan, cu un parc bine întreținut.",
-                  "category": "castle",
-                  "coords": [
-                        14.372216,
-                        46.781357
                   ]
             },
             {
@@ -47396,30 +42293,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hl. Georg",
-                  "text": "O capelă sau biserică dedicată Sfântului Gheorghe în St. Veit an der Glan.",
-                  "category": "religious",
-                  "coords": [
-                        14.342668,
-                        46.777927
-                  ]
-            },
-            {
                   "name": "Unserer Lieben Frau",
                   "text": "O fostă biserică mănăstirească cu tradiție în St. Veit an der Glan.",
                   "category": "religious",
                   "coords": [
                         14.354622,
                         46.764694
-                  ]
-            },
-            {
-                  "name": "Längsee",
-                  "text": "Längsee de lângă Sankt Veit an der Glan invită la plimbări relaxante și la petrecerea timpului în natura din Carintia.",
-                  "category": "natural",
-                  "coords": [
-                        14.425549,
-                        46.789501
                   ]
             }
       ],
@@ -47434,57 +42313,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Burg Taggenbrunn",
-                  "text": "A restored castle ruin near St. Veit an der Glan, now used as an event venue and winery.",
-                  "category": "castle",
-                  "coords": [
-                        14.390178,
-                        46.771578
-                  ]
-            },
-            {
-                  "name": "Schloss Taggenbrunn",
-                  "text": "A historic castle estate near Taggenbrunn Castle in St. Veit an der Glan.",
-                  "category": "castle",
-                  "coords": [
-                        14.386471,
-                        46.769269
-                  ]
-            },
-            {
                   "name": "Schloss Dornhof",
                   "text": "A small castle in St. Veit an der Glan known for its historic architecture.",
                   "category": "castle",
                   "coords": [
                         14.330831,
                         46.774026
-                  ]
-            },
-            {
-                  "name": "Schloss Kölnhof",
-                  "text": "A stately castle in St. Veit an der Glan featuring Renaissance architectural elements.",
-                  "category": "castle",
-                  "coords": [
-                        14.36227,
-                        46.773717
-                  ]
-            },
-            {
-                  "name": "Burgruine Freiberg",
-                  "text": "The remains of a medieval fortification located near St. Veit an der Glan.",
-                  "category": "castle",
-                  "coords": [
-                        14.343213,
-                        46.787908
-                  ]
-            },
-            {
-                  "name": "Schloss Hunnenbrun",
-                  "text": "A historic Renaissance castle in St. Veit an der Glan featuring a well-kept park.",
-                  "category": "castle",
-                  "coords": [
-                        14.372216,
-                        46.781357
                   ]
             },
             {
@@ -47542,30 +42376,12 @@ export const austriaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hl. Georg",
-                  "text": "A chapel or church dedicated to St. George in St. Veit an der Glan.",
-                  "category": "religious",
-                  "coords": [
-                        14.342668,
-                        46.777927
-                  ]
-            },
-            {
                   "name": "Unserer Lieben Frau",
                   "text": "A history-rich former monastery church in St. Veit an der Glan.",
                   "category": "religious",
                   "coords": [
                         14.354622,
                         46.764694
-                  ]
-            },
-            {
-                  "name": "Längsee",
-                  "text": "The Längsee near Sankt Veit an der Glan invites for relaxing walks and enjoying the Carinthian scenery.",
-                  "category": "natural",
-                  "coords": [
-                        14.425549,
-                        46.789501
                   ]
             }
       ]

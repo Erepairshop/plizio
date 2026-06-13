@@ -130,15 +130,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Labyrinth",
-                  "text": "Ein Labyrinth aus Hecken in einem Park in Nickel Mines.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.985884,
-                        46.487223
-                  ]
-            },
-            {
                   "name": "Mont Rouleau",
                   "text": "Ein etwa 300 Meter hoher felsiger Hügel mit Aussicht auf das Sudbury-Becken und die Skyline der Stadt.",
                   "category": "natural",
@@ -184,15 +175,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grace Hartman Amphitheatre",
-                  "text": "Ein Amphitheater am Ufer des Ramsey Lake, das im Sommer Konzerte und Festivals veranstaltet.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.992076,
-                        46.47658
-                  ]
-            },
-            {
                   "name": "Nepahwin Beach",
                   "text": "Strand am Nepahwin-See mit flachem Wasser und Bootsverleih.",
                   "category": "recreational",
@@ -208,15 +190,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -80.99596,
                         46.471234
-                  ]
-            },
-            {
-                  "name": "Glad Tidings Church",
-                  "text": "Eine moderne Pfingstkirche mit einem großen Kreuz und einem geräumigen Auditorium für den Gottesdienst.",
-                  "category": "religious",
-                  "coords": [
-                        -81.008489,
-                        46.468497
                   ]
             },
             {
@@ -247,15 +220,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sudbury Theatre Centre",
-                  "text": "Ein professionelles Theater in der Innenstadt von Sudbury, das Schauspiele und Musicals in einem modernen Gebäude inszeniert.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.990005,
-                        46.48903
-                  ]
-            },
-            {
                   "name": "Tom Davies Square",
                   "text": "Ein öffentlicher Platz vor dem Rathaus von Sudbury mit einem Brunnen und Bronzeskulpturen.",
                   "category": "park",
@@ -274,15 +238,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Art Gallery of Sudbury",
-                  "text": "Eine Galerie, die Künstler aus Nordontario ausstellt und in einem historischen Wohnhaus in der Nähe des Bell Parks untergebracht ist.",
-                  "category": "museum",
-                  "coords": [
-                        -80.987523,
-                        46.482663
-                  ]
-            },
-            {
                   "name": "CPR Bay",
                   "text": "Eine Bucht am Ramsey Lake neben der CPR-Bahnlinie mit einem kleinen Steg und landschaftlich reizvoller Küste.",
                   "category": "landmark",
@@ -298,15 +253,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -80.952083,
                         46.496979
-                  ]
-            },
-            {
-                  "name": "Sudbury Water Tower",
-                  "text": "Wahrzeichen: historischer Wasserturm in der Innenstadt von Sudbury.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.982867,
-                        46.492164
                   ]
             },
             {
@@ -366,15 +312,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Labyrinth",
-                  "text": "Sövénylabirintus egy parkban a Nickel Mines területén.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.985884,
-                        46.487223
-                  ]
-            },
-            {
                   "name": "Mont Rouleau",
                   "text": "Egy körülbelül 300 méter magas sziklás domb, kilátással a Sudbury-medencére és a város látképére.",
                   "category": "natural",
@@ -420,15 +357,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grace Hartman Amphitheatre",
-                  "text": "Egy amfiteátrum a Ramsey-tó partján, amely nyári koncerteknek és fesztiváloknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.992076,
-                        46.47658
-                  ]
-            },
-            {
                   "name": "Nepahwin Beach",
                   "text": "Strand a Nepahwin-tónál, sekély vízzel és csónakkölcsönzéssel.",
                   "category": "recreational",
@@ -444,15 +372,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -80.99596,
                         46.471234
-                  ]
-            },
-            {
-                  "name": "Glad Tidings Church",
-                  "text": "Egy modern pünkösdi templom nagy kereszttel és tágas előadóteremmel a istentiszteletekhez.",
-                  "category": "religious",
-                  "coords": [
-                        -81.008489,
-                        46.468497
                   ]
             },
             {
@@ -483,15 +402,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sudbury Theatre Centre",
-                  "text": "Egy professzionális színház Sudbury belvárosában, amely színdarabokat és musicaleket mutat be egy modern épületben.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.990005,
-                        46.48903
-                  ]
-            },
-            {
                   "name": "Tom Davies Square",
                   "text": "Egy nyilvános tér a Sudbury-i városháza előtt, szökőkúttal és bronzszobrokkal.",
                   "category": "park",
@@ -510,15 +420,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Art Gallery of Sudbury",
-                  "text": "Egy galéria, amely Észak-Ontario művészeinek alkotásait mutatja be, egy történelmi lakóházban a Bell Park közelében.",
-                  "category": "museum",
-                  "coords": [
-                        -80.987523,
-                        46.482663
-                  ]
-            },
-            {
                   "name": "CPR Bay",
                   "text": "Egy öböl a Ramsey-tavon a CPR vasútvonal mellett, kis mólóval és festői partvonallal.",
                   "category": "landmark",
@@ -534,15 +435,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -80.952083,
                         46.496979
-                  ]
-            },
-            {
-                  "name": "Sudbury Water Tower",
-                  "text": "Nevezetesség: történelmi víztorony Sudbury belvárosában.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.982867,
-                        46.492164
                   ]
             },
             {
@@ -602,15 +494,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Labyrinth",
-                  "text": "Labirint din garduri vii într-un parc din Nickel Mines.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.985884,
-                        46.487223
-                  ]
-            },
-            {
                   "name": "Mont Rouleau",
                   "text": "Un deal stâncos de aproximativ 300 de metri înălțime, cu vedere asupra bazinului Sudbury și a orizontului orașului.",
                   "category": "natural",
@@ -656,15 +539,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grace Hartman Amphitheatre",
-                  "text": "Un amfiteatru pe malul lacului Ramsey care găzduiește concerte și festivaluri de vară.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.992076,
-                        46.47658
-                  ]
-            },
-            {
                   "name": "Nepahwin Beach",
                   "text": "Plajă pe lacul Nepahwin, cu apă puțin adâncă și închiriere de bărci.",
                   "category": "recreational",
@@ -680,15 +554,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -80.99596,
                         46.471234
-                  ]
-            },
-            {
-                  "name": "Glad Tidings Church",
-                  "text": "O biserică penticostală modernă, cu o cruce mare și un auditoriu spațios pentru slujbe.",
-                  "category": "religious",
-                  "coords": [
-                        -81.008489,
-                        46.468497
                   ]
             },
             {
@@ -719,15 +584,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sudbury Theatre Centre",
-                  "text": "Un teatru profesionist în centrul orașului Sudbury, care pune în scenă piese de teatru și musicaluri într-o clădire modernă.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.990005,
-                        46.48903
-                  ]
-            },
-            {
                   "name": "Tom Davies Square",
                   "text": "O piață publică în fața primăriei din Sudbury, cu o fântână și sculpturi din bronz.",
                   "category": "park",
@@ -746,15 +602,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Art Gallery of Sudbury",
-                  "text": "O galerie care expune artiști din nordul Ontario, găzduită într-o fostă locuință istorică lângă Bell Park.",
-                  "category": "museum",
-                  "coords": [
-                        -80.987523,
-                        46.482663
-                  ]
-            },
-            {
                   "name": "CPR Bay",
                   "text": "Un golf pe lacul Ramsey, adiacent liniei de cale ferată CPR, cu un mic debarcader și țărm pitoresc.",
                   "category": "landmark",
@@ -770,15 +617,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -80.952083,
                         46.496979
-                  ]
-            },
-            {
-                  "name": "Sudbury Water Tower",
-                  "text": "Reper: turn de apă istoric în centrul orașului Sudbury.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.982867,
-                        46.492164
                   ]
             },
             {
@@ -838,15 +676,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Labyrinth",
-                  "text": "A hedge maze in a park in Nickel Mines.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.985884,
-                        46.487223
-                  ]
-            },
-            {
                   "name": "Mont Rouleau",
                   "text": "A rocky hill about 300 metres high offering views of the Sudbury basin and the city skyline.",
                   "category": "natural",
@@ -892,15 +721,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grace Hartman Amphitheatre",
-                  "text": "An outdoor amphitheatre on the shores of Ramsey Lake, hosting summer concerts and festivals.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.992076,
-                        46.47658
-                  ]
-            },
-            {
                   "name": "Nepahwin Beach",
                   "text": "A beach on Nepahwin Lake with shallow water and boat rentals.",
                   "category": "recreational",
@@ -916,15 +736,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -80.99596,
                         46.471234
-                  ]
-            },
-            {
-                  "name": "Glad Tidings Church",
-                  "text": "A modern Pentecostal church with a large cross and a spacious auditorium for services.",
-                  "category": "religious",
-                  "coords": [
-                        -81.008489,
-                        46.468497
                   ]
             },
             {
@@ -955,15 +766,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sudbury Theatre Centre",
-                  "text": "A professional theatre in downtown Sudbury, producing plays and musicals in a modern building.",
-                  "category": "cultural",
-                  "coords": [
-                        -80.990005,
-                        46.48903
-                  ]
-            },
-            {
                   "name": "Tom Davies Square",
                   "text": "A public square in front of Sudbury City Hall, featuring a fountain and bronze sculptures.",
                   "category": "park",
@@ -982,15 +784,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Art Gallery of Sudbury",
-                  "text": "A gallery showcasing Northern Ontario artists, located in a historic former residence near Bell Park.",
-                  "category": "museum",
-                  "coords": [
-                        -80.987523,
-                        46.482663
-                  ]
-            },
-            {
                   "name": "CPR Bay",
                   "text": "A bay on Ramsey Lake adjacent to the CPR rail line, with a small dock and scenic shoreline.",
                   "category": "landmark",
@@ -1006,15 +799,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -80.952083,
                         46.496979
-                  ]
-            },
-            {
-                  "name": "Sudbury Water Tower",
-                  "text": "A landmark: a historic water tower in downtown Sudbury.",
-                  "category": "landmark",
-                  "coords": [
-                        -80.982867,
-                        46.492164
                   ]
             },
             {
@@ -2459,51 +2243,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "monument Price",
-                  "text": "Historisches Denkmal namens Price in Aluminum Smelter.",
-                  "category": "historical",
-                  "coords": [
-                        -71.048584,
-                        48.427952
-                  ]
-            },
-            {
-                  "name": "bang",
-                  "text": "Das Museum „Bang“ in Aluminum Smelter zeigt die Geschichte des Sprengstoffs und des Bergbaus in der Region.",
-                  "category": "museum",
-                  "coords": [
-                        -71.064388,
-                        48.427621
-                  ]
-            },
-            {
-                  "name": "Poste de Traite de Chicoutimi",
-                  "text": "Eine archäologische Stätte eines historischen Pelzhandelspostens in quebec-aluminum-smelter-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        -71.075615,
-                        48.428702
-                  ]
-            },
-            {
-                  "name": "parois d’escalade",
-                  "text": "Die Parois d’Escalade sind natürliche Felswände bei Aluminum Smelter, die zum Klettern genutzt werden.",
-                  "category": "natural",
-                  "coords": [
-                        -71.082992,
-                        48.438005
-                  ]
-            },
-            {
-                  "name": "Croix Sainte-Anne",
-                  "text": "Das Croix Sainte-Anne ist ein historisches Kreuzmonument auf einem Hügel mit Blick über Aluminum Smelter.",
-                  "category": "historical",
-                  "coords": [
-                        -71.082957,
-                        48.439389
-                  ]
-            },
-            {
                   "name": "Réserve naturelle du Boisé-Verdone",
                   "text": "Die Réserve naturelle du Boisé-Verdone ist ein geschütztes Waldgebiet bei Aluminum Smelter mit Wanderwegen und vielfältiger Tierwelt.",
                   "category": "natural",
@@ -2567,57 +2306,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pont de Sainte-Anne",
-                  "text": "Sankt-Anna-Brücke in Aluminum Smelter.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.067812,
-                        48.432857
-                  ]
-            },
-            {
-                  "name": "Église-du-Christ-Roi",
-                  "text": "Katholische Kirche, Christus dem König geweiht, in Aluminum Smelter.",
-                  "category": "religious",
-                  "coords": [
-                        -71.069322,
-                        48.425991
-                  ]
-            },
-            {
-                  "name": "Conservatoire de musique et d'art dramatique",
-                  "text": "Das Conservatoire de musique et d'art dramatique in Aluminum Smelter bietet Konzerte und Theateraufführungen an.",
-                  "category": "cultural",
-                  "coords": [
-                        -71.061425,
-                        48.426045
-                  ]
-            },
-            {
-                  "name": "Plage de la zone portuaire de Chicoutimi",
-                  "text": "Die Plage de la zone portuaire de Chicoutimi ist ein Sandstrand im Hafenbereich von Chicoutimi, in der Nähe von Aluminum Smelter.",
-                  "category": "recreational",
-                  "coords": [
-                        -71.064933,
-                        48.430538
-                  ]
-            },
-            {
                   "name": "Parc du Bassin",
                   "text": "Park mit einem Becken/Teich in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.075598,
                         48.425038
-                  ]
-            },
-            {
-                  "name": "Église Saint-Joachim",
-                  "text": "Katholische Kirche, dem heiligen Joachim geweiht, in Aluminum Smelter.",
-                  "category": "religious",
-                  "coords": [
-                        -71.070688,
-                        48.419164
                   ]
             },
             {
@@ -2639,24 +2333,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jardin des Vestiges",
-                  "text": "Der Jardin des Vestiges ist ein Garten mit archäologischen Überresten aus der Industriegeschichte von Aluminum Smelter.",
-                  "category": "historical",
-                  "coords": [
-                        -71.083496,
-                        48.422358
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Katholische Kirche, der heiligen Anna geweiht, in Aluminum Smelter.",
-                  "category": "religious",
-                  "coords": [
-                        -71.078585,
-                        48.440001
-                  ]
-            },
-            {
                   "name": "Parc de la Colline",
                   "text": "Park auf einem Hügel in Aluminum Smelter.",
                   "category": "park",
@@ -2666,30 +2342,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Église Sainte-Claire",
-                  "text": "Katholische Kirche, der heiligen Klara geweiht, in Aluminum Smelter.",
-                  "category": "religious",
-                  "coords": [
-                        -71.090628,
-                        48.446143
-                  ]
-            },
-            {
                   "name": "Parc Victor-Guimond",
                   "text": "Park benannt nach Victor Guimond in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.088538,
                         48.402269
-                  ]
-            },
-            {
-                  "name": "Parc Saint-Joachim",
-                  "text": "Park, dem heiligen Joachim geweiht, in Aluminum Smelter.",
-                  "category": "park",
-                  "coords": [
-                        -71.076885,
-                        48.416434
                   ]
             },
             {
@@ -2728,51 +2386,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -70.947524,
                         48.43422
-                  ]
-            },
-            {
-                  "name": "monument Price",
-                  "text": "Price nevű történelmi emlékmű az Aluminum Smelterben.",
-                  "category": "historical",
-                  "coords": [
-                        -71.048584,
-                        48.427952
-                  ]
-            },
-            {
-                  "name": "bang",
-                  "text": "A „Bang” múzeum Aluminum Smelterben a robbanóanyagok és a bányászat helyi történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -71.064388,
-                        48.427621
-                  ]
-            },
-            {
-                  "name": "Poste de Traite de Chicoutimi",
-                  "text": "Egy történelmi szőrmekereskedelem-állomás régészeti lelőhelye a quebec-aluminum-smelter-economic-v2-ben.",
-                  "category": "historical",
-                  "coords": [
-                        -71.075615,
-                        48.428702
-                  ]
-            },
-            {
-                  "name": "parois d’escalade",
-                  "text": "A Parois d’Escalade természetes sziklafalak Aluminum Smelter közelében, mászásra használva.",
-                  "category": "natural",
-                  "coords": [
-                        -71.082992,
-                        48.438005
-                  ]
-            },
-            {
-                  "name": "Croix Sainte-Anne",
-                  "text": "A Croix Sainte-Anne egy történelmi keresztenlék egy dombon, amely Aluminum Smelterre néz.",
-                  "category": "historical",
-                  "coords": [
-                        -71.082957,
-                        48.439389
                   ]
             },
             {
@@ -2839,57 +2452,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pont de Sainte-Anne",
-                  "text": "Szent Anna híd az Aluminum Smelterben.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.067812,
-                        48.432857
-                  ]
-            },
-            {
-                  "name": "Église-du-Christ-Roi",
-                  "text": "Krisztus Királynak szentelt katolikus templom az Aluminum Smelterben.",
-                  "category": "religious",
-                  "coords": [
-                        -71.069322,
-                        48.425991
-                  ]
-            },
-            {
-                  "name": "Conservatoire de musique et d'art dramatique",
-                  "text": "Az Aluminum Smelter-i Conservatoire de musique et d'art dramatique hangversenyeket és színházi előadásokat kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        -71.061425,
-                        48.426045
-                  ]
-            },
-            {
-                  "name": "Plage de la zone portuaire de Chicoutimi",
-                  "text": "A Plage de la zone portuaire de Chicoutimi egy homokos strand Chicoutimi kikötői övezetében, Aluminum Smelter közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -71.064933,
-                        48.430538
-                  ]
-            },
-            {
                   "name": "Parc du Bassin",
                   "text": "Medencével/tóval rendelkező park az Aluminum Smelterben.",
                   "category": "park",
                   "coords": [
                         -71.075598,
                         48.425038
-                  ]
-            },
-            {
-                  "name": "Église Saint-Joachim",
-                  "text": "Szent Joachimnak szentelt katolikus templom az Aluminum Smelterben.",
-                  "category": "religious",
-                  "coords": [
-                        -71.070688,
-                        48.419164
                   ]
             },
             {
@@ -2911,24 +2479,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jardin des Vestiges",
-                  "text": "A Jardin des Vestiges egy kert Aluminum Smelter ipari múltjának régészeti maradványaival.",
-                  "category": "historical",
-                  "coords": [
-                        -71.083496,
-                        48.422358
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Szent Annának szentelt katolikus templom az Aluminum Smelterben.",
-                  "category": "religious",
-                  "coords": [
-                        -71.078585,
-                        48.440001
-                  ]
-            },
-            {
                   "name": "Parc de la Colline",
                   "text": "Park egy dombon az Aluminum Smelterben.",
                   "category": "park",
@@ -2938,30 +2488,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Église Sainte-Claire",
-                  "text": "Szent Klárának szentelt katolikus templom az Aluminum Smelterben.",
-                  "category": "religious",
-                  "coords": [
-                        -71.090628,
-                        48.446143
-                  ]
-            },
-            {
                   "name": "Parc Victor-Guimond",
                   "text": "Victor Guimond nevű park az Aluminum Smelterben.",
                   "category": "park",
                   "coords": [
                         -71.088538,
                         48.402269
-                  ]
-            },
-            {
-                  "name": "Parc Saint-Joachim",
-                  "text": "Szent Joachimnak szentelt park az Aluminum Smelterben.",
-                  "category": "park",
-                  "coords": [
-                        -71.076885,
-                        48.416434
                   ]
             },
             {
@@ -3000,51 +2532,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -70.947524,
                         48.43422
-                  ]
-            },
-            {
-                  "name": "monument Price",
-                  "text": "Monumentul istoric numit Price din Aluminum Smelter.",
-                  "category": "historical",
-                  "coords": [
-                        -71.048584,
-                        48.427952
-                  ]
-            },
-            {
-                  "name": "bang",
-                  "text": "Muzeul „Bang” din Aluminum Smelter prezintă istoria explozivilor și mineritului în regiune.",
-                  "category": "museum",
-                  "coords": [
-                        -71.064388,
-                        48.427621
-                  ]
-            },
-            {
-                  "name": "Poste de Traite de Chicoutimi",
-                  "text": "Un sit arheologic al unui post de comerț cu blănuri istoric în quebec-aluminum-smelter-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        -71.075615,
-                        48.428702
-                  ]
-            },
-            {
-                  "name": "parois d’escalade",
-                  "text": "Parois d’Escalade sunt pereți naturali de stâncă lângă Aluminum Smelter, folosiți pentru alpinism.",
-                  "category": "natural",
-                  "coords": [
-                        -71.082992,
-                        48.438005
-                  ]
-            },
-            {
-                  "name": "Croix Sainte-Anne",
-                  "text": "Croix Sainte-Anne este un monument istoric de cruce pe un deal cu vedere spre Aluminum Smelter.",
-                  "category": "historical",
-                  "coords": [
-                        -71.082957,
-                        48.439389
                   ]
             },
             {
@@ -3111,57 +2598,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pont de Sainte-Anne",
-                  "text": "Podul Sfintei Ana din Aluminum Smelter.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.067812,
-                        48.432857
-                  ]
-            },
-            {
-                  "name": "Église-du-Christ-Roi",
-                  "text": "Biserica catolică dedicată lui Cristos Rege din Aluminum Smelter.",
-                  "category": "religious",
-                  "coords": [
-                        -71.069322,
-                        48.425991
-                  ]
-            },
-            {
-                  "name": "Conservatoire de musique et d'art dramatique",
-                  "text": "Conservatoire de musique et d'art dramatique din Aluminum Smelter oferă concerte și spectacole de teatru.",
-                  "category": "cultural",
-                  "coords": [
-                        -71.061425,
-                        48.426045
-                  ]
-            },
-            {
-                  "name": "Plage de la zone portuaire de Chicoutimi",
-                  "text": "Plage de la zone portuaire de Chicoutimi este o plajă nisipoasă în zona portuară a orașului Chicoutimi, lângă Aluminum Smelter.",
-                  "category": "recreational",
-                  "coords": [
-                        -71.064933,
-                        48.430538
-                  ]
-            },
-            {
                   "name": "Parc du Bassin",
                   "text": "Parcul cu un bazin/iaz în Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.075598,
                         48.425038
-                  ]
-            },
-            {
-                  "name": "Église Saint-Joachim",
-                  "text": "Biserica catolică dedicată Sfântului Ioachim din Aluminum Smelter.",
-                  "category": "religious",
-                  "coords": [
-                        -71.070688,
-                        48.419164
                   ]
             },
             {
@@ -3183,24 +2625,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jardin des Vestiges",
-                  "text": "Jardin des Vestiges este o grădină cu vestigii arheologice din trecutul industrial al Aluminum Smelter.",
-                  "category": "historical",
-                  "coords": [
-                        -71.083496,
-                        48.422358
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Biserica catolică dedicată Sfintei Ana din Aluminum Smelter.",
-                  "category": "religious",
-                  "coords": [
-                        -71.078585,
-                        48.440001
-                  ]
-            },
-            {
                   "name": "Parc de la Colline",
                   "text": "Parcul pe o colină din Aluminum Smelter.",
                   "category": "park",
@@ -3210,30 +2634,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Église Sainte-Claire",
-                  "text": "Biserica catolică dedicată Sfintei Clara din Aluminum Smelter.",
-                  "category": "religious",
-                  "coords": [
-                        -71.090628,
-                        48.446143
-                  ]
-            },
-            {
                   "name": "Parc Victor-Guimond",
                   "text": "Parcul numit Victor Guimond din Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.088538,
                         48.402269
-                  ]
-            },
-            {
-                  "name": "Parc Saint-Joachim",
-                  "text": "Parcul dedicat Sfântului Ioachim din Aluminum Smelter.",
-                  "category": "park",
-                  "coords": [
-                        -71.076885,
-                        48.416434
                   ]
             },
             {
@@ -3272,51 +2678,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -70.947524,
                         48.43422
-                  ]
-            },
-            {
-                  "name": "monument Price",
-                  "text": "Historical monument named Price in Aluminum Smelter.",
-                  "category": "historical",
-                  "coords": [
-                        -71.048584,
-                        48.427952
-                  ]
-            },
-            {
-                  "name": "bang",
-                  "text": "The “Bang” museum in Aluminum Smelter displays the history of explosives and mining in the region.",
-                  "category": "museum",
-                  "coords": [
-                        -71.064388,
-                        48.427621
-                  ]
-            },
-            {
-                  "name": "Poste de Traite de Chicoutimi",
-                  "text": "An archaeological site of a historic fur trading post in quebec-aluminum-smelter-economic-v2.",
-                  "category": "historical",
-                  "coords": [
-                        -71.075615,
-                        48.428702
-                  ]
-            },
-            {
-                  "name": "parois d’escalade",
-                  "text": "Parois d’Escalade are natural rock faces near Aluminum Smelter, used for climbing.",
-                  "category": "natural",
-                  "coords": [
-                        -71.082992,
-                        48.438005
-                  ]
-            },
-            {
-                  "name": "Croix Sainte-Anne",
-                  "text": "Croix Sainte-Anne is a historic cross monument on a hill overlooking Aluminum Smelter.",
-                  "category": "historical",
-                  "coords": [
-                        -71.082957,
-                        48.439389
                   ]
             },
             {
@@ -3383,57 +2744,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pont de Sainte-Anne",
-                  "text": "Saint Anne Bridge in Aluminum Smelter.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.067812,
-                        48.432857
-                  ]
-            },
-            {
-                  "name": "Église-du-Christ-Roi",
-                  "text": "Catholic church dedicated to Christ the King in Aluminum Smelter.",
-                  "category": "religious",
-                  "coords": [
-                        -71.069322,
-                        48.425991
-                  ]
-            },
-            {
-                  "name": "Conservatoire de musique et d'art dramatique",
-                  "text": "The Conservatoire de musique et d'art dramatique in Aluminum Smelter offers concerts and theatre performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -71.061425,
-                        48.426045
-                  ]
-            },
-            {
-                  "name": "Plage de la zone portuaire de Chicoutimi",
-                  "text": "Plage de la zone portuaire de Chicoutimi is a sandy beach in the port area of Chicoutimi, near Aluminum Smelter.",
-                  "category": "recreational",
-                  "coords": [
-                        -71.064933,
-                        48.430538
-                  ]
-            },
-            {
                   "name": "Parc du Bassin",
                   "text": "Park featuring a basin/pond in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.075598,
                         48.425038
-                  ]
-            },
-            {
-                  "name": "Église Saint-Joachim",
-                  "text": "Catholic church dedicated to Saint Joachim in Aluminum Smelter.",
-                  "category": "religious",
-                  "coords": [
-                        -71.070688,
-                        48.419164
                   ]
             },
             {
@@ -3455,24 +2771,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jardin des Vestiges",
-                  "text": "Jardin des Vestiges is a garden with archaeological remains from Aluminum Smelter's industrial past.",
-                  "category": "historical",
-                  "coords": [
-                        -71.083496,
-                        48.422358
-                  ]
-            },
-            {
-                  "name": "Église Sainte-Anne",
-                  "text": "Catholic church dedicated to Saint Anne in Aluminum Smelter.",
-                  "category": "religious",
-                  "coords": [
-                        -71.078585,
-                        48.440001
-                  ]
-            },
-            {
                   "name": "Parc de la Colline",
                   "text": "Park on a hill in Aluminum Smelter.",
                   "category": "park",
@@ -3482,30 +2780,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Église Sainte-Claire",
-                  "text": "Catholic church dedicated to Saint Clare in Aluminum Smelter.",
-                  "category": "religious",
-                  "coords": [
-                        -71.090628,
-                        48.446143
-                  ]
-            },
-            {
                   "name": "Parc Victor-Guimond",
                   "text": "Park named after Victor Guimond in Aluminum Smelter.",
                   "category": "park",
                   "coords": [
                         -71.088538,
                         48.402269
-                  ]
-            },
-            {
-                  "name": "Parc Saint-Joachim",
-                  "text": "Park dedicated to Saint Joachim in Aluminum Smelter.",
-                  "category": "park",
-                  "coords": [
-                        -71.076885,
-                        48.416434
                   ]
             },
             {
@@ -4115,33 +3395,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mission Island Marsh",
-                  "text": "Das Mission Island Marsh ist ein Feuchtgebiet auf Mission Island in Bay Port, Lebensraum für Wasservögel und Pflanzen.",
-                  "category": "natural",
-                  "coords": [
-                        -89.212057,
-                        48.374885
-                  ]
-            },
-            {
-                  "name": "Thunder Bay Museum",
-                  "text": "Thunder Bay Museum in Bay Port.",
-                  "category": "museum",
-                  "coords": [
-                        -89.244659,
-                        48.382709
-                  ]
-            },
-            {
-                  "name": "Centennial conservatory and botanical garden",
-                  "text": "Das Centennial conservatory and botanical garden ist ein historisches Gewächshaus mit tropischen Pflanzen und Themengärten, das zu Kanadas 100. Jahrestag erbaut wurde.",
-                  "category": "historical",
-                  "coords": [
-                        -89.261465,
-                        48.390462
-                  ]
-            },
-            {
                   "name": "The First Railroad Spike",
                   "text": "The First Railroad Spike ist ein Denkmal in Bay Port, das an den ersten in der Region eingeschlagenen Eisenbahnspike erinnert.",
                   "category": "landmark",
@@ -4202,24 +3455,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -89.224925,
                         48.43698
-                  ]
-            },
-            {
-                  "name": "Northwestern Ontario Aviation Heritage Centre",
-                  "text": "Das Northwestern Ontario Aviation Heritage Centre in Bay Port zeigt Flugzeuge und Artefakte aus der Luftfahrtgeschichte Nordwest-Ontarios.",
-                  "category": "museum",
-                  "coords": [
-                        -89.250446,
-                        48.384546
-                  ]
-            },
-            {
-                  "name": "Sand Trap",
-                  "text": "Sand Trap ist ein Sandbereich in Bay Port, der für Freizeitaktivitäten wie Volleyball und Sonnenbaden genutzt wird.",
-                  "category": "recreational",
-                  "coords": [
-                        -89.264759,
-                        48.398717
                   ]
             },
             {
@@ -4297,33 +3532,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mission Island Marsh",
-                  "text": "A Mission Island Marsh egy vizes élőhely a Mission Island-en Bay Portban, vízimadarak és növények élőhelye.",
-                  "category": "natural",
-                  "coords": [
-                        -89.212057,
-                        48.374885
-                  ]
-            },
-            {
-                  "name": "Thunder Bay Museum",
-                  "text": "Thunder Bay Múzeum Bay Portban.",
-                  "category": "museum",
-                  "coords": [
-                        -89.244659,
-                        48.382709
-                  ]
-            },
-            {
-                  "name": "Centennial conservatory and botanical garden",
-                  "text": "A Centennial conservatory and botanical garden egy történelmi üvegház trópusi növényekkel és tematikus kertekkel, Kanada százéves évfordulójára épült.",
-                  "category": "historical",
-                  "coords": [
-                        -89.261465,
-                        48.390462
-                  ]
-            },
-            {
                   "name": "The First Railroad Spike",
                   "text": "A The First Railroad Spike egy emlékmű Bay Portban, amely a régió első vasúti sínszegének beverésére emlékeztet.",
                   "category": "landmark",
@@ -4384,24 +3592,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -89.224925,
                         48.43698
-                  ]
-            },
-            {
-                  "name": "Northwestern Ontario Aviation Heritage Centre",
-                  "text": "A Northwestern Ontario Aviation Heritage Centre Bay Portban repülőgépeket és tárgyakat mutat be Északnyugat-Ontario repüléstörténetéből.",
-                  "category": "museum",
-                  "coords": [
-                        -89.250446,
-                        48.384546
-                  ]
-            },
-            {
-                  "name": "Sand Trap",
-                  "text": "A Sand Trap egy homokos terület Bay Portban, szabadidős tevékenységekre, például röplabdázásra és napozásra használják.",
-                  "category": "recreational",
-                  "coords": [
-                        -89.264759,
-                        48.398717
                   ]
             },
             {
@@ -4479,33 +3669,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mission Island Marsh",
-                  "text": "Mission Island Marsh este o zonă umedă pe Insula Mission din Bay Port, habitat pentru păsări de apă și plante acvatice.",
-                  "category": "natural",
-                  "coords": [
-                        -89.212057,
-                        48.374885
-                  ]
-            },
-            {
-                  "name": "Thunder Bay Museum",
-                  "text": "Muzeul Thunder Bay din Bay Port.",
-                  "category": "museum",
-                  "coords": [
-                        -89.244659,
-                        48.382709
-                  ]
-            },
-            {
-                  "name": "Centennial conservatory and botanical garden",
-                  "text": "Centennial conservatory and botanical garden este o seră istorică cu plante tropicale și grădini tematice, construită pentru centenarul Canadei.",
-                  "category": "historical",
-                  "coords": [
-                        -89.261465,
-                        48.390462
-                  ]
-            },
-            {
                   "name": "The First Railroad Spike",
                   "text": "The First Railroad Spike este un monument în Bay Port care comemorează primul șină de cale ferată bătută în regiune.",
                   "category": "landmark",
@@ -4566,24 +3729,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -89.224925,
                         48.43698
-                  ]
-            },
-            {
-                  "name": "Northwestern Ontario Aviation Heritage Centre",
-                  "text": "Centrul de Patrimoniu al Aviației din Nord-Vestul Ontario (Northwestern Ontario Aviation Heritage Centre) din Bay Port expune avioane și artefacte din istoria aviației din nord-vestul Ontario.",
-                  "category": "museum",
-                  "coords": [
-                        -89.250446,
-                        48.384546
-                  ]
-            },
-            {
-                  "name": "Sand Trap",
-                  "text": "Sand Trap este o zonă nisipoasă în Bay Port, folosită pentru activități recreative precum volei și plajă.",
-                  "category": "recreational",
-                  "coords": [
-                        -89.264759,
-                        48.398717
                   ]
             },
             {
@@ -4661,33 +3806,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mission Island Marsh",
-                  "text": "Mission Island Marsh is a wetland on Mission Island in Bay Port, home to waterfowl and aquatic plants.",
-                  "category": "natural",
-                  "coords": [
-                        -89.212057,
-                        48.374885
-                  ]
-            },
-            {
-                  "name": "Thunder Bay Museum",
-                  "text": "Thunder Bay Museum in Bay Port.",
-                  "category": "museum",
-                  "coords": [
-                        -89.244659,
-                        48.382709
-                  ]
-            },
-            {
-                  "name": "Centennial conservatory and botanical garden",
-                  "text": "Centennial conservatory and botanical garden is a historic greenhouse with tropical plants and themed gardens, built for Canada's centennial.",
-                  "category": "historical",
-                  "coords": [
-                        -89.261465,
-                        48.390462
-                  ]
-            },
-            {
                   "name": "The First Railroad Spike",
                   "text": "The First Railroad Spike is a monument in Bay Port commemorating the first railroad spike driven in the region.",
                   "category": "landmark",
@@ -4748,24 +3866,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -89.224925,
                         48.43698
-                  ]
-            },
-            {
-                  "name": "Northwestern Ontario Aviation Heritage Centre",
-                  "text": "Northwestern Ontario Aviation Heritage Centre in Bay Port displays aircraft and artifacts from northwestern Ontario's aviation history.",
-                  "category": "museum",
-                  "coords": [
-                        -89.250446,
-                        48.384546
-                  ]
-            },
-            {
-                  "name": "Sand Trap",
-                  "text": "Sand Trap is a sandy area in Bay Port used for recreational activities like volleyball and sunbathing.",
-                  "category": "recreational",
-                  "coords": [
-                        -89.264759,
-                        48.398717
                   ]
             },
             {
@@ -6140,24 +5240,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     id: "windsor-assembly-plant-economic-v2", "sights": {
       "de": [
             {
-                  "name": "First Congregational Living Museum",
-                  "text": "Ein Museum in einer historischen Kirchengebäude in windsor-assembly-plant-economic-v2.",
-                  "category": "museum",
-                  "coords": [
-                        -83.062678,
-                        42.35515
-                  ]
-            },
-            {
-                  "name": "Art Gallery of Windsor",
-                  "text": "Eine Kunstgalerie in windsor-assembly-plant-economic-v2, die eine bedeutende Sammlung kanadischer Kunst beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        -83.04448,
-                        42.318349
-                  ]
-            },
-            {
                   "name": "Michigan Science Center",
                   "text": "Ein interaktives Wissenschaftsmuseum mit Planetarium im ehemaligen Assembly Plant.",
                   "category": "museum",
@@ -6212,51 +5294,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Windsor City Hall",
-                  "text": "Das Rathaus von Windsor in windsor-assembly-plant-economic-v2, Sitz der Stadtverwaltung.",
-                  "category": "historical",
-                  "coords": [
-                        -83.034982,
-                        42.317045
-                  ]
-            },
-            {
-                  "name": "The Fillmore",
-                  "text": "Ein historisches Musiktheater in windsor-assembly-plant-economic-v2, bekannt für Konzerte.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.051768,
-                        42.337833
-                  ]
-            },
-            {
-                  "name": "City Theatre",
-                  "text": "2004 eröffnet, befindet sich dieses Veranstaltungszentrum im Assembly Plant Viertel von Detroit.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.052771,
-                        42.338916
-                  ]
-            },
-            {
-                  "name": "Century Theatre",
-                  "text": "Ein historisches Theater aus dem Jahr 1907 mit einer opulenten Innenausstattung im Assembly Plant.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.046264,
-                        42.337581
-                  ]
-            },
-            {
-                  "name": "Gem Theatre",
-                  "text": "Ein ehemaliges Kino aus den 1920er Jahren, heute ein Veranstaltungsort im Assembly Plant.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.04627,
-                        42.338526
-                  ]
-            },
-            {
                   "name": "St. Charles Borromeo Roman Catholic Church",
                   "text": "Eine römisch-katholische Kirche mit neugotischer Architektur im Assembly Plant.",
                   "category": "religious",
@@ -6275,75 +5312,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Basilica of Sainte Anne",
-                  "text": "Eine Basilika in windsor-assembly-plant-economic-v2, die zweitälteste katholische Gemeinde in den USA.",
-                  "category": "religious",
-                  "coords": [
-                        -83.076588,
-                        42.320546
-                  ]
-            },
-            {
-                  "name": "Spirit of Hope",
-                  "text": "Eine ehemalige Trinity Episcopal Church, heute als Spirit of Hope bekannt, im Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.073021,
-                        42.34137
-                  ]
-            },
-            {
                   "name": "Bonstelle Theater (Temple Beth El)",
                   "text": "Ein Theater, das ursprünglich als Synagoge (Temple Beth El) erbaut wurde, im Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.056516,
                         42.346283
-                  ]
-            },
-            {
-                  "name": "Cass Community United Methodist Church",
-                  "text": "Eine methodistische Kirche mit romanischen Bögen im Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.062702,
-                        42.348251
-                  ]
-            },
-            {
-                  "name": "Majestic Theatre",
-                  "text": "Ein historisches Theater aus dem Jahr 1914 mit viktorianischem Dekor im Assembly Plant.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.060111,
-                        42.351462
-                  ]
-            },
-            {
-                  "name": "First Presbyterian Church",
-                  "text": "Eine presbyterianische Kirche mit einem beeindruckenden Rosettenfenster im Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.05514,
-                        42.34414
-                  ]
-            },
-            {
-                  "name": "Central United Methodist Church",
-                  "text": "Eine methodistische Kirche im gotischen Stil mit einer großen Orgel im Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.050474,
-                        42.337429
-                  ]
-            },
-            {
-                  "name": "Isaac Agree Downtown Synagogue",
-                  "text": "Die einzige Synagoge im Stadtzentrum, ein historisches Gebäude im Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.050143,
-                        42.334422
                   ]
             },
             {
@@ -6365,42 +5339,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saints Peter & Paul Jesuit Church",
-                  "text": "Eine Jesuitenkirche aus dem 19. Jahrhundert im Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.038261,
-                        42.331972
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Hall",
-                  "text": "Ein ehemaliges schottisches Gesellschaftshaus, heute Konzertlocation im Assembly Plant.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.041597,
-                        42.33235
-                  ]
-            },
-            {
-                  "name": "Christ Church, Detroit",
-                  "text": "Eine episkopale Kirche mit einer markanten Kuppel im Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.034918,
-                        42.33244
-                  ]
-            },
-            {
-                  "name": "Saint John and Saint Luke United Church of Christ",
-                  "text": "Eine vereinte Kirche mit neugotischen Elementen im Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.038032,
-                        42.34329
-                  ]
-            },
-            {
                   "name": "The Cathedral Church of Saint Paul",
                   "text": "Die episkopale Kathedrale von Detroit mit einer großen Rosette im Assembly Plant.",
                   "category": "religious",
@@ -6416,15 +5354,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -83.068863,
                         42.36453
-                  ]
-            },
-            {
-                  "name": "WDET-FM (Detroit)",
-                  "text": "Der Sendemast des öffentlichen Radiosenders WDET im Assembly Plant.",
-                  "category": "tower",
-                  "coords": [
-                        -83.063089,
-                        42.351558
                   ]
             },
             {
@@ -6462,45 +5391,9 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                         -82.985551,
                         42.336255
                   ]
-            },
-            {
-                  "name": "Willistead Manor",
-                  "text": "Ein Herrenhaus im Tudor-Stil aus dem Jahr 1906 mit umfangreichem Grundstück im Assembly Plant.",
-                  "category": "landmark",
-                  "coords": [
-                        -83.010511,
-                        42.318227
-                  ]
-            },
-            {
-                  "name": "Ambassador International Bridge",
-                  "text": "1929 eröffnet, verbindet diese internationale Brücke Detroit mit Windsor und ist der meistbefahrene Grenzübergang Nordamerikas.",
-                  "category": "landmark",
-                  "coords": [
-                        -83.074381,
-                        42.312469
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "First Congregational Living Museum",
-                  "text": "Egy múzeum egy történelmi templomépületben windsor-assembly-plant-economic-v2-ben.",
-                  "category": "museum",
-                  "coords": [
-                        -83.062678,
-                        42.35515
-                  ]
-            },
-            {
-                  "name": "Art Gallery of Windsor",
-                  "text": "Egy művészeti galéria windsor-assembly-plant-economic-v2-ben, amely jelentős kanadai művészeti gyűjteménnyel rendelkezik.",
-                  "category": "museum",
-                  "coords": [
-                        -83.04448,
-                        42.318349
-                  ]
-            },
             {
                   "name": "Michigan Science Center",
                   "text": "Interaktív tudományos múzeum planetáriummal az egykori Assembly Plant területén.",
@@ -6556,51 +5449,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Windsor City Hall",
-                  "text": "Windsor városháza windsor-assembly-plant-economic-v2-ben, a városi önkormányzat székhelye.",
-                  "category": "historical",
-                  "coords": [
-                        -83.034982,
-                        42.317045
-                  ]
-            },
-            {
-                  "name": "The Fillmore",
-                  "text": "Egy történelmi zenei színház windsor-assembly-plant-economic-v2-ben, híres koncertekről.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.051768,
-                        42.337833
-                  ]
-            },
-            {
-                  "name": "City Theatre",
-                  "text": "2004-ben nyitották meg, ez az előadóművészeti helyszín Detroit Assembly Plant negyedében található.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.052771,
-                        42.338916
-                  ]
-            },
-            {
-                  "name": "Century Theatre",
-                  "text": "Egy 1907-ben épült történelmi színház gazdag belső térrel az Assembly Plant területén.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.046264,
-                        42.337581
-                  ]
-            },
-            {
-                  "name": "Gem Theatre",
-                  "text": "Egy 1920-as évekbeli mozi, ma rendezvényhelyszín az Assembly Plant területén.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.04627,
-                        42.338526
-                  ]
-            },
-            {
                   "name": "St. Charles Borromeo Roman Catholic Church",
                   "text": "Neogótikus építészetű római katolikus templom az Assembly Plant területén.",
                   "category": "religious",
@@ -6619,75 +5467,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Basilica of Sainte Anne",
-                  "text": "Egy bazilika windsor-assembly-plant-economic-v2-ben, a második legrégebbi katolikus plébánia az USA-ban.",
-                  "category": "religious",
-                  "coords": [
-                        -83.076588,
-                        42.320546
-                  ]
-            },
-            {
-                  "name": "Spirit of Hope",
-                  "text": "Egykori Trinity Episcopal Church, ma Spirit of Hope néven ismert, az Assembly Plant területén.",
-                  "category": "religious",
-                  "coords": [
-                        -83.073021,
-                        42.34137
-                  ]
-            },
-            {
                   "name": "Bonstelle Theater (Temple Beth El)",
                   "text": "Egy színház, amely eredetileg zsinagógaként (Temple Beth El) épült, az Assembly Plant területén.",
                   "category": "cultural",
                   "coords": [
                         -83.056516,
                         42.346283
-                  ]
-            },
-            {
-                  "name": "Cass Community United Methodist Church",
-                  "text": "Metodista templom román ívekkel az Assembly Plant területén.",
-                  "category": "religious",
-                  "coords": [
-                        -83.062702,
-                        42.348251
-                  ]
-            },
-            {
-                  "name": "Majestic Theatre",
-                  "text": "Egy 1914-ben épült történelmi színház viktoriánus díszítéssel az Assembly Plant területén.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.060111,
-                        42.351462
-                  ]
-            },
-            {
-                  "name": "First Presbyterian Church",
-                  "text": "Presbiteriánus templom lenyűgöző rózsaablakkal az Assembly Plant területén.",
-                  "category": "religious",
-                  "coords": [
-                        -83.05514,
-                        42.34414
-                  ]
-            },
-            {
-                  "name": "Central United Methodist Church",
-                  "text": "Gótikus stílusú metodista templom nagy orgonával az Assembly Plant területén.",
-                  "category": "religious",
-                  "coords": [
-                        -83.050474,
-                        42.337429
-                  ]
-            },
-            {
-                  "name": "Isaac Agree Downtown Synagogue",
-                  "text": "Az egyetlen zsinagóga a belvárosban, egy történelmi épület az Assembly Plant területén.",
-                  "category": "religious",
-                  "coords": [
-                        -83.050143,
-                        42.334422
                   ]
             },
             {
@@ -6709,42 +5494,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saints Peter & Paul Jesuit Church",
-                  "text": "Egy 19. századi jezsuita templom az Assembly Plant területén.",
-                  "category": "religious",
-                  "coords": [
-                        -83.038261,
-                        42.331972
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Hall",
-                  "text": "Egykori skót társasági ház, ma koncerthelyszín az Assembly Plant területén.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.041597,
-                        42.33235
-                  ]
-            },
-            {
-                  "name": "Christ Church, Detroit",
-                  "text": "Episzkopális templom jellegzetes kupolával az Assembly Plant területén.",
-                  "category": "religious",
-                  "coords": [
-                        -83.034918,
-                        42.33244
-                  ]
-            },
-            {
-                  "name": "Saint John and Saint Luke United Church of Christ",
-                  "text": "Egyesült templom neogótikus elemekkel az Assembly Plant területén.",
-                  "category": "religious",
-                  "coords": [
-                        -83.038032,
-                        42.34329
-                  ]
-            },
-            {
                   "name": "The Cathedral Church of Saint Paul",
                   "text": "Detroit episzkopális székesegyháza nagy rózsaablakkal az Assembly Plant területén.",
                   "category": "religious",
@@ -6760,15 +5509,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -83.068863,
                         42.36453
-                  ]
-            },
-            {
-                  "name": "WDET-FM (Detroit)",
-                  "text": "A WDET közszolgálati rádió adótornya az Assembly Plant területén.",
-                  "category": "tower",
-                  "coords": [
-                        -83.063089,
-                        42.351558
                   ]
             },
             {
@@ -6806,45 +5546,9 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                         -82.985551,
                         42.336255
                   ]
-            },
-            {
-                  "name": "Willistead Manor",
-                  "text": "Egy 1906-ban épült Tudor-stílusú kúria nagy birtokkal az Assembly Plant területén.",
-                  "category": "landmark",
-                  "coords": [
-                        -83.010511,
-                        42.318227
-                  ]
-            },
-            {
-                  "name": "Ambassador International Bridge",
-                  "text": "1929-ben nyitották meg, ez a nemzetközi híd összeköti Detroitot Windsorral, és a legforgalmasabb határátkelő Észak-Amerikában.",
-                  "category": "landmark",
-                  "coords": [
-                        -83.074381,
-                        42.312469
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "First Congregational Living Museum",
-                  "text": "Un muzeu într-o clădire istorică de biserică în windsor-assembly-plant-economic-v2.",
-                  "category": "museum",
-                  "coords": [
-                        -83.062678,
-                        42.35515
-                  ]
-            },
-            {
-                  "name": "Art Gallery of Windsor",
-                  "text": "O galerie de artă în windsor-assembly-plant-economic-v2, care găzduiește o colecție importantă de artă canadiană.",
-                  "category": "museum",
-                  "coords": [
-                        -83.04448,
-                        42.318349
-                  ]
-            },
             {
                   "name": "Michigan Science Center",
                   "text": "Un muzeu interactiv de știință cu planetariu în fosta Fabrică de Asamblare.",
@@ -6900,51 +5604,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Windsor City Hall",
-                  "text": "Primăria orașului Windsor în windsor-assembly-plant-economic-v2, sediul administrației locale.",
-                  "category": "historical",
-                  "coords": [
-                        -83.034982,
-                        42.317045
-                  ]
-            },
-            {
-                  "name": "The Fillmore",
-                  "text": "Un teatru muzical istoric în windsor-assembly-plant-economic-v2, cunoscut pentru concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.051768,
-                        42.337833
-                  ]
-            },
-            {
-                  "name": "City Theatre",
-                  "text": "Deschis în 2004, această sală de spectacole este situată în cartierul Assembly Plant din Detroit.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.052771,
-                        42.338916
-                  ]
-            },
-            {
-                  "name": "Century Theatre",
-                  "text": "Un teatru istoric din 1907 cu interioare opulente în Assembly Plant.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.046264,
-                        42.337581
-                  ]
-            },
-            {
-                  "name": "Gem Theatre",
-                  "text": "Un fost cinematograf din anii 1920, acum loc de evenimente în Assembly Plant.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.04627,
-                        42.338526
-                  ]
-            },
-            {
                   "name": "St. Charles Borromeo Roman Catholic Church",
                   "text": "O biserică romano-catolică cu arhitectură neogotică în Assembly Plant.",
                   "category": "religious",
@@ -6963,75 +5622,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Basilica of Sainte Anne",
-                  "text": "O bazilică în windsor-assembly-plant-economic-v2, a doua cea mai veche parohie catolică din SUA.",
-                  "category": "religious",
-                  "coords": [
-                        -83.076588,
-                        42.320546
-                  ]
-            },
-            {
-                  "name": "Spirit of Hope",
-                  "text": "Fosta biserică Trinity Episcopal, acum cunoscută ca Spirit of Hope, în Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.073021,
-                        42.34137
-                  ]
-            },
-            {
                   "name": "Bonstelle Theater (Temple Beth El)",
                   "text": "Un teatru construit inițial ca sinagogă (Temple Beth El) în Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.056516,
                         42.346283
-                  ]
-            },
-            {
-                  "name": "Cass Community United Methodist Church",
-                  "text": "O biserică metodistă cu arcade romanice în Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.062702,
-                        42.348251
-                  ]
-            },
-            {
-                  "name": "Majestic Theatre",
-                  "text": "Un teatru istoric din 1914 cu decorațiuni victoriene în Assembly Plant.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.060111,
-                        42.351462
-                  ]
-            },
-            {
-                  "name": "First Presbyterian Church",
-                  "text": "O biserică prezbiteriană cu o impresionantă rozetă în Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.05514,
-                        42.34414
-                  ]
-            },
-            {
-                  "name": "Central United Methodist Church",
-                  "text": "O biserică metodistă în stil gotic cu o orgă mare în Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.050474,
-                        42.337429
-                  ]
-            },
-            {
-                  "name": "Isaac Agree Downtown Synagogue",
-                  "text": "Singura sinagogă din centrul orașului, o clădire istorică în Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.050143,
-                        42.334422
                   ]
             },
             {
@@ -7053,42 +5649,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saints Peter & Paul Jesuit Church",
-                  "text": "O biserică iezuită din secolul al XIX-lea în Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.038261,
-                        42.331972
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Hall",
-                  "text": "Fostă casă de întâlnire scoțiană, acum sală de concerte în Assembly Plant.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.041597,
-                        42.33235
-                  ]
-            },
-            {
-                  "name": "Christ Church, Detroit",
-                  "text": "O biserică episcopală cu o cupolă distinctivă în Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.034918,
-                        42.33244
-                  ]
-            },
-            {
-                  "name": "Saint John and Saint Luke United Church of Christ",
-                  "text": "O biserică unită cu elemente neogotice în Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.038032,
-                        42.34329
-                  ]
-            },
-            {
                   "name": "The Cathedral Church of Saint Paul",
                   "text": "Catedrala Episcopală din Detroit cu o rozetă mare în Assembly Plant.",
                   "category": "religious",
@@ -7104,15 +5664,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -83.068863,
                         42.36453
-                  ]
-            },
-            {
-                  "name": "WDET-FM (Detroit)",
-                  "text": "Turnul de transmisie al postului de radio public WDET în Assembly Plant.",
-                  "category": "tower",
-                  "coords": [
-                        -83.063089,
-                        42.351558
                   ]
             },
             {
@@ -7150,45 +5701,9 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                         -82.985551,
                         42.336255
                   ]
-            },
-            {
-                  "name": "Willistead Manor",
-                  "text": "Un conac în stil Tudor din 1906 cu o proprietate vastă în Assembly Plant.",
-                  "category": "landmark",
-                  "coords": [
-                        -83.010511,
-                        42.318227
-                  ]
-            },
-            {
-                  "name": "Ambassador International Bridge",
-                  "text": "Deschis în 1929, acest pod internațional leagă Detroit de Windsor și este cea mai aglomerată trecere de frontieră din America de Nord.",
-                  "category": "landmark",
-                  "coords": [
-                        -83.074381,
-                        42.312469
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "First Congregational Living Museum",
-                  "text": "A museum housed in a historic church building in windsor-assembly-plant-economic-v2.",
-                  "category": "museum",
-                  "coords": [
-                        -83.062678,
-                        42.35515
-                  ]
-            },
-            {
-                  "name": "Art Gallery of Windsor",
-                  "text": "An art gallery in windsor-assembly-plant-economic-v2 housing a significant collection of Canadian art.",
-                  "category": "museum",
-                  "coords": [
-                        -83.04448,
-                        42.318349
-                  ]
-            },
             {
                   "name": "Michigan Science Center",
                   "text": "An interactive science museum with a planetarium in the former Assembly Plant.",
@@ -7244,51 +5759,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Windsor City Hall",
-                  "text": "Windsor City Hall in windsor-assembly-plant-economic-v2, seat of the municipal government.",
-                  "category": "historical",
-                  "coords": [
-                        -83.034982,
-                        42.317045
-                  ]
-            },
-            {
-                  "name": "The Fillmore",
-                  "text": "A historic music theatre in windsor-assembly-plant-economic-v2 known for concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.051768,
-                        42.337833
-                  ]
-            },
-            {
-                  "name": "City Theatre",
-                  "text": "Opened in 2004, this performing arts venue is located in the Assembly Plant district of Detroit.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.052771,
-                        42.338916
-                  ]
-            },
-            {
-                  "name": "Century Theatre",
-                  "text": "A historic 1907 theatre with opulent interiors in the Assembly Plant.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.046264,
-                        42.337581
-                  ]
-            },
-            {
-                  "name": "Gem Theatre",
-                  "text": "A former 1920s cinema, now a performance venue in the Assembly Plant.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.04627,
-                        42.338526
-                  ]
-            },
-            {
                   "name": "St. Charles Borromeo Roman Catholic Church",
                   "text": "A Roman Catholic church with Gothic Revival architecture in the Assembly Plant.",
                   "category": "religious",
@@ -7307,75 +5777,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Basilica of Sainte Anne",
-                  "text": "A basilica in windsor-assembly-plant-economic-v2, the second oldest Catholic parish in the US.",
-                  "category": "religious",
-                  "coords": [
-                        -83.076588,
-                        42.320546
-                  ]
-            },
-            {
-                  "name": "Spirit of Hope",
-                  "text": "A former Trinity Episcopal church, now known as Spirit of Hope, in the Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.073021,
-                        42.34137
-                  ]
-            },
-            {
                   "name": "Bonstelle Theater (Temple Beth El)",
                   "text": "A theatre originally built as a synagogue (Temple Beth El) in the Assembly Plant.",
                   "category": "cultural",
                   "coords": [
                         -83.056516,
                         42.346283
-                  ]
-            },
-            {
-                  "name": "Cass Community United Methodist Church",
-                  "text": "A Methodist church with Romanesque arches in the Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.062702,
-                        42.348251
-                  ]
-            },
-            {
-                  "name": "Majestic Theatre",
-                  "text": "A historic 1914 theatre with Victorian decor in the Assembly Plant.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.060111,
-                        42.351462
-                  ]
-            },
-            {
-                  "name": "First Presbyterian Church",
-                  "text": "A Presbyterian church with a stunning rose window in the Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.05514,
-                        42.34414
-                  ]
-            },
-            {
-                  "name": "Central United Methodist Church",
-                  "text": "A Methodist church in Gothic style with a large organ in the Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.050474,
-                        42.337429
-                  ]
-            },
-            {
-                  "name": "Isaac Agree Downtown Synagogue",
-                  "text": "The only downtown synagogue, a historic building in the Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.050143,
-                        42.334422
                   ]
             },
             {
@@ -7397,42 +5804,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Saints Peter & Paul Jesuit Church",
-                  "text": "A 19th-century Jesuit church in the Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.038261,
-                        42.331972
-                  ]
-            },
-            {
-                  "name": "Saint Andrew's Hall",
-                  "text": "A former Scottish society hall, now a concert venue in the Assembly Plant.",
-                  "category": "cultural",
-                  "coords": [
-                        -83.041597,
-                        42.33235
-                  ]
-            },
-            {
-                  "name": "Christ Church, Detroit",
-                  "text": "An Episcopal church with a distinctive dome in the Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.034918,
-                        42.33244
-                  ]
-            },
-            {
-                  "name": "Saint John and Saint Luke United Church of Christ",
-                  "text": "A united church with Gothic Revival elements in the Assembly Plant.",
-                  "category": "religious",
-                  "coords": [
-                        -83.038032,
-                        42.34329
-                  ]
-            },
-            {
                   "name": "The Cathedral Church of Saint Paul",
                   "text": "The Episcopal Cathedral of Detroit, featuring a large rose window, in Assembly Plant.",
                   "category": "religious",
@@ -7448,15 +5819,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -83.068863,
                         42.36453
-                  ]
-            },
-            {
-                  "name": "WDET-FM (Detroit)",
-                  "text": "The broadcast tower of public radio station WDET in Assembly Plant.",
-                  "category": "tower",
-                  "coords": [
-                        -83.063089,
-                        42.351558
                   ]
             },
             {
@@ -7493,24 +5855,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -82.985551,
                         42.336255
-                  ]
-            },
-            {
-                  "name": "Willistead Manor",
-                  "text": "A 1906 Tudor-style manor house with extensive grounds in Assembly Plant.",
-                  "category": "landmark",
-                  "coords": [
-                        -83.010511,
-                        42.318227
-                  ]
-            },
-            {
-                  "name": "Ambassador International Bridge",
-                  "text": "Opened in 1929, this international bridge connects Detroit to Windsor and is the busiest border crossing in North America.",
-                  "category": "landmark",
-                  "coords": [
-                        -83.074381,
-                        42.312469
                   ]
             }
       ]
@@ -8255,15 +6599,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Burnaby Art Gallery",
-                  "text": "Eine Kunstgalerie, untergebracht in einer 1911 erbauten Tudor-Villa (Ceperley Mansion) im Oil Refinery.",
-                  "category": "museum",
-                  "coords": [
-                        -122.971313,
-                        49.240937
-                  ]
-            },
-            {
                   "name": "Port Moody Station Museum;Port Moody Station",
                   "text": "Das Port Moody Station Museum ist ein Museum in Burnaby, das in einem ehemaligen Bahnhof der Canadian Pacific Railway untergebracht ist.",
                   "category": "museum",
@@ -8288,24 +6623,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -122.856765,
                         49.276549
-                  ]
-            },
-            {
-                  "name": "John Robson",
-                  "text": "Das John-Robson-Denkmal in Burnaby ehrt den ehemaligen Premierminister von British Columbia.",
-                  "category": "historical",
-                  "coords": [
-                        -122.910928,
-                        49.206616
-                  ]
-            },
-            {
-                  "name": "Holy Trinity Cathedral",
-                  "text": "Eine moderne anglikanische Kathedrale mit auffälligem Turm im Oil Refinery.",
-                  "category": "religious",
-                  "coords": [
-                        -122.90734,
-                        49.204681
                   ]
             },
             {
@@ -8342,15 +6659,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -122.813322,
                         49.219269
-                  ]
-            },
-            {
-                  "name": "Queensborough Bridge",
-                  "text": "Die Queensborough Bridge verbindet das Stadtviertel Queensborough mit New Westminster.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.946147,
-                        49.195453
                   ]
             },
             {
@@ -8435,15 +6743,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shadbolt Centre For the Arts",
-                  "text": "Das Shadbolt Centre for the Arts in Burnaby bietet Kurse und Aufführungen in Tanz, Musik und Theater.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.96951,
-                        49.240699
-                  ]
-            },
-            {
                   "name": "North Delta Centre for the Arts",
                   "text": "Das North Delta Centre for the Arts in Oil Refinery ist ein Gemeinschaftskunstzentrum in North Delta.",
                   "category": "cultural",
@@ -8468,42 +6767,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -122.860987,
                         49.238765
-                  ]
-            },
-            {
-                  "name": "Holy Eucharist Cathedral",
-                  "text": "Die Holy Eucharist Cathedral in Oil Refinery ist eine ukrainisch-katholische Kathedrale mit einer byzantinischen Kuppel.",
-                  "category": "religious",
-                  "coords": [
-                        -122.916004,
-                        49.210883
-                  ]
-            },
-            {
-                  "name": "Annacis Island Swing Bridge",
-                  "text": "Die Annacis Island Swing Bridge in Oil Refinery ist eine Stahldrehbrücke über den Annacis Channel.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.932242,
-                        49.186253
-                  ]
-            },
-            {
-                  "name": "Massey Theatre",
-                  "text": "Das Massey Theatre in Oil Refinery ist ein historisches Theater mit 1.200 Sitzplätzen für Konzerte und Shows.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.926966,
-                        49.215157
-                  ]
-            },
-            {
-                  "name": "Mary Hill",
-                  "text": "Der Mary Hill in Oil Refinery ist ein 144 Meter hoher Hügel mit Blick auf den Fraser River.",
-                  "category": "natural",
-                  "coords": [
-                        -122.785389,
-                        49.236708
                   ]
             },
             {
@@ -8541,15 +6804,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                         -122.842528,
                         49.16242
                   ]
-            },
-            {
-                  "name": "Archery Museum",
-                  "text": "Ein Museum im Oil Refinery, das Bogen, Pfeile und die Geschichte des Bogenschießens aus aller Welt zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -122.892588,
-                        49.228921
-                  ]
             }
       ],
       "hu": [
@@ -8560,15 +6814,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -122.911474,
                         49.201647
-                  ]
-            },
-            {
-                  "name": "Burnaby Art Gallery",
-                  "text": "Művészeti galéria egy 1911-ben épült Tudor-villában (Ceperley Mansion) az Oil Refinery területén.",
-                  "category": "museum",
-                  "coords": [
-                        -122.971313,
-                        49.240937
                   ]
             },
             {
@@ -8596,24 +6841,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -122.856765,
                         49.276549
-                  ]
-            },
-            {
-                  "name": "John Robson",
-                  "text": "A John Robson-emlékmű Burnabyban tiszteleg British Columbia egykori miniszterelnöke előtt.",
-                  "category": "historical",
-                  "coords": [
-                        -122.910928,
-                        49.206616
-                  ]
-            },
-            {
-                  "name": "Holy Trinity Cathedral",
-                  "text": "Modern anglikán székesegyház feltűnő toronnyal az Oil Refinery területén.",
-                  "category": "religious",
-                  "coords": [
-                        -122.90734,
-                        49.204681
                   ]
             },
             {
@@ -8650,15 +6877,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -122.813322,
                         49.219269
-                  ]
-            },
-            {
-                  "name": "Queensborough Bridge",
-                  "text": "A Queensborough híd összeköti Queensborough negyedet New Westminsterrel.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.946147,
-                        49.195453
                   ]
             },
             {
@@ -8743,15 +6961,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shadbolt Centre For the Arts",
-                  "text": "A Shadbolt Centre for the Arts Burnabyban tánc-, zene- és színházi kurzusokat és előadásokat kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.96951,
-                        49.240699
-                  ]
-            },
-            {
                   "name": "North Delta Centre for the Arts",
                   "text": "A North Delta Centre for the Arts Oil Refineryben egy közösségi művészeti központ North Deltában.",
                   "category": "cultural",
@@ -8776,42 +6985,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -122.860987,
                         49.238765
-                  ]
-            },
-            {
-                  "name": "Holy Eucharist Cathedral",
-                  "text": "A Holy Eucharist Cathedral Oil Refineryben egy ukrán katolikus székesegyház bizánci kupolával.",
-                  "category": "religious",
-                  "coords": [
-                        -122.916004,
-                        49.210883
-                  ]
-            },
-            {
-                  "name": "Annacis Island Swing Bridge",
-                  "text": "Az Annacis Island Swing Bridge Oil Refineryben egy acél forgóhíd az Annacis-csatorna felett.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.932242,
-                        49.186253
-                  ]
-            },
-            {
-                  "name": "Massey Theatre",
-                  "text": "A Massey Theatre Oil Refineryben egy történelmi színház 1200 ülőhellyel koncertek és előadások számára.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.926966,
-                        49.215157
-                  ]
-            },
-            {
-                  "name": "Mary Hill",
-                  "text": "A Mary Hill Oil Refineryben egy 144 méter magas domb, ahonnan kilátás nyílik a Fraser folyóra.",
-                  "category": "natural",
-                  "coords": [
-                        -122.785389,
-                        49.236708
                   ]
             },
             {
@@ -8849,15 +7022,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                         -122.842528,
                         49.16242
                   ]
-            },
-            {
-                  "name": "Archery Museum",
-                  "text": "Egy múzeum az Oil Refineryben, amely íjakat, nyilakat és a világ íjászatának történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -122.892588,
-                        49.228921
-                  ]
             }
       ],
       "ro": [
@@ -8868,15 +7032,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -122.911474,
                         49.201647
-                  ]
-            },
-            {
-                  "name": "Burnaby Art Gallery",
-                  "text": "O galerie de artă găzduită într-o vilă Tudor din 1911 (Ceperley Mansion) în Oil Refinery.",
-                  "category": "museum",
-                  "coords": [
-                        -122.971313,
-                        49.240937
                   ]
             },
             {
@@ -8904,24 +7059,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -122.856765,
                         49.276549
-                  ]
-            },
-            {
-                  "name": "John Robson",
-                  "text": "Monumentul John Robson din Burnaby îl onorează pe fostul premier al Columbiei Britanice.",
-                  "category": "historical",
-                  "coords": [
-                        -122.910928,
-                        49.206616
-                  ]
-            },
-            {
-                  "name": "Holy Trinity Cathedral",
-                  "text": "O catedrală anglicană modernă cu un turn remarcabil în Oil Refinery.",
-                  "category": "religious",
-                  "coords": [
-                        -122.90734,
-                        49.204681
                   ]
             },
             {
@@ -8958,15 +7095,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -122.813322,
                         49.219269
-                  ]
-            },
-            {
-                  "name": "Queensborough Bridge",
-                  "text": "Podul Queensborough leagă cartierul Queensborough de New Westminster.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.946147,
-                        49.195453
                   ]
             },
             {
@@ -9051,15 +7179,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shadbolt Centre For the Arts",
-                  "text": "Centrul pentru Arte Shadbolt din Burnaby oferă cursuri și spectacole de dans, muzică și teatru.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.96951,
-                        49.240699
-                  ]
-            },
-            {
                   "name": "North Delta Centre for the Arts",
                   "text": "North Delta Centre for the Arts din Oil Refinery este un centru de artă comunitar în North Delta.",
                   "category": "cultural",
@@ -9084,42 +7203,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -122.860987,
                         49.238765
-                  ]
-            },
-            {
-                  "name": "Holy Eucharist Cathedral",
-                  "text": "Catedrala Sfânta Euharistie din Oil Refinery este o catedrală greco-catolică ucraineană cu o cupolă bizantină.",
-                  "category": "religious",
-                  "coords": [
-                        -122.916004,
-                        49.210883
-                  ]
-            },
-            {
-                  "name": "Annacis Island Swing Bridge",
-                  "text": "Podul basculant Annacis Island din Oil Refinery este un pod de oțel peste canalul Annacis.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.932242,
-                        49.186253
-                  ]
-            },
-            {
-                  "name": "Massey Theatre",
-                  "text": "Teatrul Massey din Oil Refinery este un teatru istoric cu 1.200 de locuri pentru concerte și spectacole.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.926966,
-                        49.215157
-                  ]
-            },
-            {
-                  "name": "Mary Hill",
-                  "text": "Dealul Mary Hill din Oil Refinery este o colină de 144 de metri înălțime care oferă vederi asupra râului Fraser.",
-                  "category": "natural",
-                  "coords": [
-                        -122.785389,
-                        49.236708
                   ]
             },
             {
@@ -9157,15 +7240,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                         -122.842528,
                         49.16242
                   ]
-            },
-            {
-                  "name": "Archery Museum",
-                  "text": "Un muzeu în Oil Refinery care prezintă arcuri, săgeți și istoria tirului cu arcul din întreaga lume.",
-                  "category": "museum",
-                  "coords": [
-                        -122.892588,
-                        49.228921
-                  ]
             }
       ],
       "en": [
@@ -9176,15 +7250,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -122.911474,
                         49.201647
-                  ]
-            },
-            {
-                  "name": "Burnaby Art Gallery",
-                  "text": "An art gallery housed in the 1911 Tudor-style Ceperley Mansion in Oil Refinery.",
-                  "category": "museum",
-                  "coords": [
-                        -122.971313,
-                        49.240937
                   ]
             },
             {
@@ -9212,24 +7277,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -122.856765,
                         49.276549
-                  ]
-            },
-            {
-                  "name": "John Robson",
-                  "text": "The John Robson monument in Burnaby honors the former Premier of British Columbia.",
-                  "category": "historical",
-                  "coords": [
-                        -122.910928,
-                        49.206616
-                  ]
-            },
-            {
-                  "name": "Holy Trinity Cathedral",
-                  "text": "A modern Anglican cathedral with a striking tower in Oil Refinery.",
-                  "category": "religious",
-                  "coords": [
-                        -122.90734,
-                        49.204681
                   ]
             },
             {
@@ -9266,15 +7313,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -122.813322,
                         49.219269
-                  ]
-            },
-            {
-                  "name": "Queensborough Bridge",
-                  "text": "The Queensborough Bridge connects the Queensborough neighbourhood to New Westminster.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.946147,
-                        49.195453
                   ]
             },
             {
@@ -9359,15 +7397,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shadbolt Centre For the Arts",
-                  "text": "Shadbolt Centre for the Arts in Burnaby offers classes and performances in dance, music, and theatre.",
-                  "category": "cultural",
-                  "coords": [
-                        -122.96951,
-                        49.240699
-                  ]
-            },
-            {
                   "name": "North Delta Centre for the Arts",
                   "text": "North Delta Centre for the Arts in Oil Refinery is a community arts centre in North Delta.",
                   "category": "cultural",
@@ -9392,42 +7421,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -122.860987,
                         49.238765
-                  ]
-            },
-            {
-                  "name": "Holy Eucharist Cathedral",
-                  "text": "Holy Eucharist Cathedral in Oil Refinery is a Ukrainian Catholic cathedral with a Byzantine dome.",
-                  "category": "religious",
-                  "coords": [
-                        -122.916004,
-                        49.210883
-                  ]
-            },
-            {
-                  "name": "Annacis Island Swing Bridge",
-                  "text": "Annacis Island Swing Bridge in Oil Refinery is a steel swing bridge crossing the Annacis Channel.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.932242,
-                        49.186253
-                  ]
-            },
-            {
-                  "name": "Massey Theatre",
-                  "text": "Massey Theatre in Oil Refinery is a historic 1,200-seat theatre hosting concerts and shows.",
-                  "category": "landmark",
-                  "coords": [
-                        -122.926966,
-                        49.215157
-                  ]
-            },
-            {
-                  "name": "Mary Hill",
-                  "text": "Mary Hill in Oil Refinery is a 144-metre hill offering views of the Fraser River.",
-                  "category": "natural",
-                  "coords": [
-                        -122.785389,
-                        49.236708
                   ]
             },
             {
@@ -9464,15 +7457,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -122.842528,
                         49.16242
-                  ]
-            },
-            {
-                  "name": "Archery Museum",
-                  "text": "A museum in Oil Refinery displaying bows, arrows, and archery history from around the world.",
-                  "category": "museum",
-                  "coords": [
-                        -122.892588,
-                        49.228921
                   ]
             }
       ]
@@ -10109,15 +8093,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     id: "hamilton-port-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Art Gallery of Burlington",
-                  "text": "Eine Kunstgalerie in einem restaurierten Schulhaus aus dem 19. Jahrhundert im Hafen (Port).",
-                  "category": "museum",
-                  "coords": [
-                        -79.80103,
-                        43.320916
-                  ]
-            },
-            {
                   "name": "Burlington Canal Lift Bridge",
                   "text": "Eine vertikale Hubbrücke über den Burlington-Kanal, die Burlington mit Hamilton verbindet, in Port.",
                   "category": "landmark",
@@ -10142,15 +8117,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -79.766068,
                         43.217622
-                  ]
-            },
-            {
-                  "name": "Great War Memorial",
-                  "text": "Ein Denkmal zum Gedenken an den Ersten Weltkrieg in der Hamilton-Port-Region.",
-                  "category": "historical",
-                  "coords": [
-                        -79.798991,
-                        43.326072
                   ]
             },
             {
@@ -10208,24 +8174,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. John's Roman Catholic Church",
-                  "text": "Eine römisch-katholische Kirche, die dem heiligen Johannes geweiht ist, in der Hamilton-Port-Region.",
-                  "category": "religious",
-                  "coords": [
-                        -79.805212,
-                        43.331444
-                  ]
-            },
-            {
-                  "name": "Burlington Performing Arts Centre",
-                  "text": "Das Burlington Performing Arts Centre in Port ist ein Zentrum für darstellende Künste mit zwei Theatern und 700 Sitzplätzen.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.798669,
-                        43.324232
-                  ]
-            },
-            {
                   "name": "Holy Rosary Catholic Church",
                   "text": "Eine katholische Kirche, die dem Rosenkranz geweiht ist, in der Hamilton-Port-Region.",
                   "category": "religious",
@@ -10262,15 +8210,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Joseph Brant Museum",
-                  "text": "Ein Museum über das Leben des Mohawk-Führers Joseph Brant in der Hamilton-Port-Region.",
-                  "category": "museum",
-                  "coords": [
-                        -79.801596,
-                        43.318676
-                  ]
-            },
-            {
                   "name": "Hamilton Steam & Technology Museum",
                   "text": "Ein Museum für Dampftechnik und Industriegeschichte in der Hamilton-Port-Region.",
                   "category": "museum",
@@ -10295,24 +8234,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -79.827928,
                         43.367894
-                  ]
-            },
-            {
-                  "name": "Music/Drama Centre",
-                  "text": "Ein Zentrum für Musik- und Theateraufführungen in der Hamilton-Port-Region.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.790956,
-                        43.335598
-                  ]
-            },
-            {
-                  "name": "Drury Lane Theatrical Productions",
-                  "text": "Ein Theaterunternehmen, das Theaterproduktionen aufführt, in der Hamilton-Port-Region.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.790867,
-                        43.333625
                   ]
             },
             {
@@ -10406,15 +8327,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Splash Pad",
-                  "text": "Ein Wasserspielplatz für Kinder in der Hamilton-Port-Region.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.799489,
-                        43.320657
-                  ]
-            },
-            {
                   "name": "LaSalle Wading Pool",
                   "text": "Ein Planschbecken im LaSalle Park in der Hamilton-Port-Region.",
                   "category": "recreational",
@@ -10425,15 +8337,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Art Gallery of Burlington",
-                  "text": "Művészeti galéria egy felújított 19. századi iskolaépületben a Port területén.",
-                  "category": "museum",
-                  "coords": [
-                        -79.80103,
-                        43.320916
-                  ]
-            },
             {
                   "name": "Burlington Canal Lift Bridge",
                   "text": "Függőleges felvonóhíd a Burlington-csatorna felett, amely összeköti Burlington és Hamiltont a Port területén.",
@@ -10459,15 +8362,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -79.766068,
                         43.217622
-                  ]
-            },
-            {
-                  "name": "Great War Memorial",
-                  "text": "Egy emlékmű az első világháború hőseinek tiszteletére a Hamilton Port régióban.",
-                  "category": "historical",
-                  "coords": [
-                        -79.798991,
-                        43.326072
                   ]
             },
             {
@@ -10525,24 +8419,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. John's Roman Catholic Church",
-                  "text": "Egy római katolikus templom, amelyet Szent Jánosnak szenteltek, a Hamilton Port régióban.",
-                  "category": "religious",
-                  "coords": [
-                        -79.805212,
-                        43.331444
-                  ]
-            },
-            {
-                  "name": "Burlington Performing Arts Centre",
-                  "text": "A Burlington Performing Arts Centre Portban egy előadóművészeti központ két színházzal és 700 ülőhellyel.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.798669,
-                        43.324232
-                  ]
-            },
-            {
                   "name": "Holy Rosary Catholic Church",
                   "text": "Egy katolikus templom, amelyet a Rózsafüzérnek szenteltek, a Hamilton Port régióban.",
                   "category": "religious",
@@ -10579,15 +8455,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Joseph Brant Museum",
-                  "text": "Egy múzeum Joseph Brant mohawk vezető életéről a Hamilton Port régióban.",
-                  "category": "museum",
-                  "coords": [
-                        -79.801596,
-                        43.318676
-                  ]
-            },
-            {
                   "name": "Hamilton Steam & Technology Museum",
                   "text": "Egy gőztechnikai és ipartörténeti múzeum a Hamilton Port régióban.",
                   "category": "museum",
@@ -10612,24 +8479,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -79.827928,
                         43.367894
-                  ]
-            },
-            {
-                  "name": "Music/Drama Centre",
-                  "text": "Zenei és drámaelőadások központja a Hamilton Port régióban.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.790956,
-                        43.335598
-                  ]
-            },
-            {
-                  "name": "Drury Lane Theatrical Productions",
-                  "text": "Egy színházi társulat, amely színházi előadásokat készít, a Hamilton Port régióban.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.790867,
-                        43.333625
                   ]
             },
             {
@@ -10723,15 +8572,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Splash Pad",
-                  "text": "Egy vízi játszótér gyerekeknek a Hamilton Port régióban.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.799489,
-                        43.320657
-                  ]
-            },
-            {
                   "name": "LaSalle Wading Pool",
                   "text": "Egy gyermekmedence a LaSalle Parkban, a Hamilton Port régióban.",
                   "category": "recreational",
@@ -10742,15 +8582,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Art Gallery of Burlington",
-                  "text": "O galerie de artă într-o fostă școală restaurată din secolul al XIX-lea în Port.",
-                  "category": "museum",
-                  "coords": [
-                        -79.80103,
-                        43.320916
-                  ]
-            },
             {
                   "name": "Burlington Canal Lift Bridge",
                   "text": "Un pod vertical basculant peste Canalul Burlington, care leagă Burlington de Hamilton în Port.",
@@ -10776,15 +8607,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -79.766068,
                         43.217622
-                  ]
-            },
-            {
-                  "name": "Great War Memorial",
-                  "text": "Un monument comemorativ al Primului Război Mondial în regiunea Hamilton Port.",
-                  "category": "historical",
-                  "coords": [
-                        -79.798991,
-                        43.326072
                   ]
             },
             {
@@ -10842,24 +8664,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. John's Roman Catholic Church",
-                  "text": "O biserică romano-catolică dedicată Sfântului Ioan în regiunea Hamilton Port.",
-                  "category": "religious",
-                  "coords": [
-                        -79.805212,
-                        43.331444
-                  ]
-            },
-            {
-                  "name": "Burlington Performing Arts Centre",
-                  "text": "Centrul de Arte Spectacolului Burlington din Port este un centru de artă cu două teatre și 700 de locuri.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.798669,
-                        43.324232
-                  ]
-            },
-            {
                   "name": "Holy Rosary Catholic Church",
                   "text": "O biserică catolică dedicată Sfântului Rozariu în regiunea Hamilton Port.",
                   "category": "religious",
@@ -10896,15 +8700,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Joseph Brant Museum",
-                  "text": "Un muzeu despre viața liderului mohawk Joseph Brant în regiunea Hamilton Port.",
-                  "category": "museum",
-                  "coords": [
-                        -79.801596,
-                        43.318676
-                  ]
-            },
-            {
                   "name": "Hamilton Steam & Technology Museum",
                   "text": "Un muzeu al tehnologiei cu abur și istoriei industriale în regiunea Hamilton Port.",
                   "category": "museum",
@@ -10929,24 +8724,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -79.827928,
                         43.367894
-                  ]
-            },
-            {
-                  "name": "Music/Drama Centre",
-                  "text": "Un centru pentru spectacole de muzică și teatru în regiunea Hamilton Port.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.790956,
-                        43.335598
-                  ]
-            },
-            {
-                  "name": "Drury Lane Theatrical Productions",
-                  "text": "O companie de teatru care produce spectacole în regiunea Hamilton Port.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.790867,
-                        43.333625
                   ]
             },
             {
@@ -11040,15 +8817,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Splash Pad",
-                  "text": "Un loc de joacă cu apă pentru copii în regiunea Hamilton Port.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.799489,
-                        43.320657
-                  ]
-            },
-            {
                   "name": "LaSalle Wading Pool",
                   "text": "O piscină pentru copii în Parcul LaSalle din regiunea Hamilton Port.",
                   "category": "recreational",
@@ -11059,15 +8827,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Art Gallery of Burlington",
-                  "text": "An art gallery in a restored 19th-century schoolhouse in Port.",
-                  "category": "museum",
-                  "coords": [
-                        -79.80103,
-                        43.320916
-                  ]
-            },
             {
                   "name": "Burlington Canal Lift Bridge",
                   "text": "A vertical lift bridge over the Burlington Canal connecting Burlington to Hamilton in Port.",
@@ -11093,15 +8852,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -79.766068,
                         43.217622
-                  ]
-            },
-            {
-                  "name": "Great War Memorial",
-                  "text": "A monument commemorating the Great War in the Hamilton Port region.",
-                  "category": "historical",
-                  "coords": [
-                        -79.798991,
-                        43.326072
                   ]
             },
             {
@@ -11159,24 +8909,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. John's Roman Catholic Church",
-                  "text": "A Roman Catholic church dedicated to St. John in the Hamilton Port region.",
-                  "category": "religious",
-                  "coords": [
-                        -79.805212,
-                        43.331444
-                  ]
-            },
-            {
-                  "name": "Burlington Performing Arts Centre",
-                  "text": "Burlington Performing Arts Centre in Port is a performing arts centre with two theatres and 700 seats.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.798669,
-                        43.324232
-                  ]
-            },
-            {
                   "name": "Holy Rosary Catholic Church",
                   "text": "A Catholic church dedicated to the Holy Rosary in the Hamilton Port region.",
                   "category": "religious",
@@ -11213,15 +8945,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Joseph Brant Museum",
-                  "text": "A museum about the life of Mohawk leader Joseph Brant in the Hamilton Port region.",
-                  "category": "museum",
-                  "coords": [
-                        -79.801596,
-                        43.318676
-                  ]
-            },
-            {
                   "name": "Hamilton Steam & Technology Museum",
                   "text": "A museum of steam technology and industrial history in the Hamilton Port region.",
                   "category": "museum",
@@ -11246,24 +8969,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -79.827928,
                         43.367894
-                  ]
-            },
-            {
-                  "name": "Music/Drama Centre",
-                  "text": "A centre for music and drama performances in the Hamilton Port region.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.790956,
-                        43.335598
-                  ]
-            },
-            {
-                  "name": "Drury Lane Theatrical Productions",
-                  "text": "A theatre company producing theatrical productions in the Hamilton Port region.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.790867,
-                        43.333625
                   ]
             },
             {
@@ -11357,15 +9062,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Splash Pad",
-                  "text": "A water play area for children in the Hamilton Port region.",
-                  "category": "recreational",
-                  "coords": [
-                        -79.799489,
-                        43.320657
-                  ]
-            },
-            {
                   "name": "LaSalle Wading Pool",
                   "text": "A wading pool in LaSalle Park in the Hamilton Port region.",
                   "category": "recreational",
@@ -11414,15 +9110,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
     id: "sarnia-petrochemical-economic-v2", "sights": {
       "de": [
             {
-                  "name": "The Citedel Stage",
-                  "text": "The Citadel Stage in Petrochemical ist eine Open-Air-Bühne im Industrieviertel der Stadt.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.424941,
-                        42.980608
-                  ]
-            },
-            {
                   "name": "Young Thomas Edison statue",
                   "text": "Die Young Thomas Edison Statue in Petrochemical zeigt den Erfinder als jungen Jungen in Bronze.",
                   "category": "historical",
@@ -11432,57 +9119,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pine Grove Scenic Lookout",
-                  "text": "Pine Grove Scenic Lookout in Petrochemical bietet einen Panoramablick über einen Kiefernwald.",
-                  "category": "natural",
-                  "coords": [
-                        -82.424356,
-                        42.985577
-                  ]
-            },
-            {
-                  "name": "McMorran Place Theatre",
-                  "text": "Das McMorran Place Theatre in Petrochemical ist ein historisches Theater im Art-déco-Stil.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.425171,
-                        42.979005
-                  ]
-            },
-            {
-                  "name": "SC4 Tower",
-                  "text": "Der SC4 Tower in Petrochemical ist eine natürliche Felsformation, die wie ein Turm aussieht.",
-                  "category": "natural",
-                  "coords": [
-                        -82.426479,
-                        42.978698
-                  ]
-            },
-            {
                   "name": "Perch Creek Habitat Management Area",
                   "text": "Das Perch Creek Habitat Management Area in Petrochemical schützt Feuchtgebiete entlang des Perch Creek.",
                   "category": "natural",
                   "coords": [
                         -82.317941,
                         42.934956
-                  ]
-            },
-            {
-                  "name": "Stones 'N Bones Museum",
-                  "text": "Das Stones 'N Bones Museum in Petrochemical zeigt eine Sammlung von Gesteinen und Fossilien.",
-                  "category": "museum",
-                  "coords": [
-                        -82.406906,
-                        42.97426
-                  ]
-            },
-            {
-                  "name": "Imperial Theatre",
-                  "text": "Das Imperial Theatre in Petrochemical ist ein restauriertes Filmtheater, das heute Live-Aufführungen beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.406958,
-                        42.972502
                   ]
             },
             {
@@ -11567,24 +9209,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Huron Lightship",
-                  "text": "Der Huron-Lightship in Petrochemical ist ein denkmalgeschütztes Museumsschiff.",
-                  "category": "museum",
-                  "coords": [
-                        -82.426541,
-                        42.989551
-                  ]
-            },
-            {
-                  "name": "Pine Grove Park",
-                  "text": "Der Pine Grove Park in Petrochemical ist ein Park mit einem Strand und Picknickplätzen.",
-                  "category": "park",
-                  "coords": [
-                        -82.426596,
-                        42.98736
-                  ]
-            },
-            {
                   "name": "Michigan Road Preserve",
                   "text": "Das Michigan Road Preserve in Petrochemical ist ein Naturschutzgebiet entlang der Michigan Road.",
                   "category": "natural",
@@ -11612,75 +9236,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Port Huron Museum",
-                  "text": "Das Port Huron Museum in Petrochemical zeigt die maritime und industrielle Geschichte der Region.",
-                  "category": "museum",
-                  "coords": [
-                        -82.426511,
-                        42.972166
-                  ]
-            },
-            {
-                  "name": "Blue Water River Walk",
-                  "text": "Der Blue Water River Walk in Petrochemical ist ein 2,4 km langer Fußweg entlang des St. Clair River.",
-                  "category": "park",
-                  "coords": [
-                        -82.421525,
-                        42.966777
-                  ]
-            },
-            {
                   "name": "Lincoln Park",
                   "text": "Der Lincoln Park in Petrochemical ist ein Park mit einem Skatepark und Tennisplätzen.",
                   "category": "park",
                   "coords": [
                         -82.455047,
                         42.940375
-                  ]
-            },
-            {
-                  "name": "St. Benedict Catholic Church",
-                  "text": "Die St. Benedict Catholic Church in Petrochemical ist eine römisch-katholische Kirche mit Buntglasfenstern.",
-                  "category": "religious",
-                  "coords": [
-                        -82.371586,
-                        42.970185
-                  ]
-            },
-            {
-                  "name": "St. Joseph's Catholic Church",
-                  "text": "Die St. Joseph's Catholic Church in Petrochemical ist eine historische katholische Kirche mit einem hohen Turm.",
-                  "category": "religious",
-                  "coords": [
-                        -82.400432,
-                        42.964156
-                  ]
-            },
-            {
-                  "name": "Great Lakes Maritime Center",
-                  "text": "Das Great Lakes Maritime Center in Petrochemical informiert über die Schifffahrt auf den Großen Seen.",
-                  "category": "natural",
-                  "coords": [
-                        -82.419597,
-                        42.972087
-                  ]
-            },
-            {
-                  "name": "Kiefer Park",
-                  "text": "Der Kiefer Park in Petrochemical ist ein Park mit einem Wasserspielplatz und einem Spielplatz.",
-                  "category": "park",
-                  "coords": [
-                        -82.420308,
-                        42.980576
-                  ]
-            },
-            {
-                  "name": "Our Lady of Mercy Catholic Church",
-                  "text": "Die Our Lady of Mercy Catholic Church in Petrochemical ist eine römisch-katholische Kirche der Gemeinde.",
-                  "category": "religious",
-                  "coords": [
-                        -82.403215,
-                        42.979092
                   ]
             },
             {
@@ -11699,15 +9260,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -82.401866,
                         43.002657
-                  ]
-            },
-            {
-                  "name": "Norm Perry Park",
-                  "text": "Der Norm Perry Park in Petrochemical ist ein Park mit einem Fußballfeld und Wanderwegen.",
-                  "category": "park",
-                  "coords": [
-                        -82.39791,
-                        42.986515
                   ]
             },
             {
@@ -11749,15 +9301,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "The Citedel Stage",
-                  "text": "A The Citadel Stage Petrochemicalban egy szabadtéri színpad a város ipari negyedében.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.424941,
-                        42.980608
-                  ]
-            },
-            {
                   "name": "Young Thomas Edison statue",
                   "text": "A Young Thomas Edison szobor Petrochemicalban a feltalálót fiatal fiúként ábrázolja bronzban.",
                   "category": "historical",
@@ -11767,57 +9310,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pine Grove Scenic Lookout",
-                  "text": "A Pine Grove Scenic Lookout Petrochemicalban panorámakilátást nyújt egy fenyőerdőre.",
-                  "category": "natural",
-                  "coords": [
-                        -82.424356,
-                        42.985577
-                  ]
-            },
-            {
-                  "name": "McMorran Place Theatre",
-                  "text": "A McMorran Place Theatre Petrochemicalban egy historikus Art déco stílusú színház.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.425171,
-                        42.979005
-                  ]
-            },
-            {
-                  "name": "SC4 Tower",
-                  "text": "Az SC4 Tower Petrochemicalban egy természetes sziklaalakzat, amely toronyra hasonlít.",
-                  "category": "natural",
-                  "coords": [
-                        -82.426479,
-                        42.978698
-                  ]
-            },
-            {
                   "name": "Perch Creek Habitat Management Area",
                   "text": "A Perch Creek Habitat Management Area Petrochemicalban védett vizes élőhely a Perch Creek mentén.",
                   "category": "natural",
                   "coords": [
                         -82.317941,
                         42.934956
-                  ]
-            },
-            {
-                  "name": "Stones 'N Bones Museum",
-                  "text": "A Stones 'N Bones Múzeum Petrochemicalban kőzetekből és fosszíliákból álló gyűjteményt mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -82.406906,
-                        42.97426
-                  ]
-            },
-            {
-                  "name": "Imperial Theatre",
-                  "text": "Az Imperial Theatre Petrochemicalben egy felújított filmszínház, amely most élő előadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.406958,
-                        42.972502
                   ]
             },
             {
@@ -11902,24 +9400,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Huron Lightship",
-                  "text": "A Petrochemical-i Huron világítóhajó műemléki védettségű múzeumhajó.",
-                  "category": "museum",
-                  "coords": [
-                        -82.426541,
-                        42.989551
-                  ]
-            },
-            {
-                  "name": "Pine Grove Park",
-                  "text": "A Pine Grove Park Petrochemicalben egy park stranddal és piknikezőhelyekkel.",
-                  "category": "park",
-                  "coords": [
-                        -82.426596,
-                        42.98736
-                  ]
-            },
-            {
                   "name": "Michigan Road Preserve",
                   "text": "A Michigan Road Preserve Petrochemicalban egy természetvédelmi terület a Michigan Road mentén.",
                   "category": "natural",
@@ -11947,75 +9427,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Port Huron Museum",
-                  "text": "A Port Huron Múzeum Petrochemicalban a régió tengeri és ipari történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -82.426511,
-                        42.972166
-                  ]
-            },
-            {
-                  "name": "Blue Water River Walk",
-                  "text": "A Blue Water River Walk Petrochemicalben egy 2,4 km hosszú sétány a St. Clair folyó mentén.",
-                  "category": "park",
-                  "coords": [
-                        -82.421525,
-                        42.966777
-                  ]
-            },
-            {
                   "name": "Lincoln Park",
                   "text": "A Lincoln Park Petrochemicalben egy park gördeszkaparkkal és teniszpályákkal.",
                   "category": "park",
                   "coords": [
                         -82.455047,
                         42.940375
-                  ]
-            },
-            {
-                  "name": "St. Benedict Catholic Church",
-                  "text": "A St. Benedict Catholic Church Petrochemicalben egy római katolikus templom ólomüveg ablakokkal.",
-                  "category": "religious",
-                  "coords": [
-                        -82.371586,
-                        42.970185
-                  ]
-            },
-            {
-                  "name": "St. Joseph's Catholic Church",
-                  "text": "A St. Joseph's Catholic Church Petrochemicalben egy történelmi katolikus templom magas toronnyal.",
-                  "category": "religious",
-                  "coords": [
-                        -82.400432,
-                        42.964156
-                  ]
-            },
-            {
-                  "name": "Great Lakes Maritime Center",
-                  "text": "A Great Lakes Maritime Center Petrochemicalban a Nagy-tavak hajózásáról nyújt információkat.",
-                  "category": "natural",
-                  "coords": [
-                        -82.419597,
-                        42.972087
-                  ]
-            },
-            {
-                  "name": "Kiefer Park",
-                  "text": "A Kiefer Park Petrochemicalben egy park vízijátszótérrel és játszótérrel.",
-                  "category": "park",
-                  "coords": [
-                        -82.420308,
-                        42.980576
-                  ]
-            },
-            {
-                  "name": "Our Lady of Mercy Catholic Church",
-                  "text": "A Our Lady of Mercy Catholic Church Petrochemicalben egy római katolikus templom a közösség számára.",
-                  "category": "religious",
-                  "coords": [
-                        -82.403215,
-                        42.979092
                   ]
             },
             {
@@ -12034,15 +9451,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -82.401866,
                         43.002657
-                  ]
-            },
-            {
-                  "name": "Norm Perry Park",
-                  "text": "A Norm Perry Park Petrochemicalben egy park futballpályával és sétányokkal.",
-                  "category": "park",
-                  "coords": [
-                        -82.39791,
-                        42.986515
                   ]
             },
             {
@@ -12084,15 +9492,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "The Citedel Stage",
-                  "text": "The Citadel Stage din Petrochemical este o scenă în aer liber în cartierul industrial al orașului.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.424941,
-                        42.980608
-                  ]
-            },
-            {
                   "name": "Young Thomas Edison statue",
                   "text": "Statuia Young Thomas Edison din Petrochemical îl înfățișează pe inventator ca băiat tânăr, din bronz.",
                   "category": "historical",
@@ -12102,57 +9501,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pine Grove Scenic Lookout",
-                  "text": "Pine Grove Scenic Lookout din Petrochemical oferă o vedere panoramică asupra unei păduri de pini.",
-                  "category": "natural",
-                  "coords": [
-                        -82.424356,
-                        42.985577
-                  ]
-            },
-            {
-                  "name": "McMorran Place Theatre",
-                  "text": "Teatrul McMorran Place din Petrochemical este un teatru istoric în stil Art Deco.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.425171,
-                        42.979005
-                  ]
-            },
-            {
-                  "name": "SC4 Tower",
-                  "text": "Turnul SC4 din Petrochemical este o formațiune naturală de stâncă ce seamănă cu un turn.",
-                  "category": "natural",
-                  "coords": [
-                        -82.426479,
-                        42.978698
-                  ]
-            },
-            {
                   "name": "Perch Creek Habitat Management Area",
                   "text": "Zona de management a habitatului Perch Creek din Petrochemical protejează zonele umede de-a lungul pârâului Perch.",
                   "category": "natural",
                   "coords": [
                         -82.317941,
                         42.934956
-                  ]
-            },
-            {
-                  "name": "Stones 'N Bones Museum",
-                  "text": "Muzeul Stones 'N Bones din Petrochemical expune o colecție de roci și fosile.",
-                  "category": "museum",
-                  "coords": [
-                        -82.406906,
-                        42.97426
-                  ]
-            },
-            {
-                  "name": "Imperial Theatre",
-                  "text": "Teatrul Imperial din Petrochemical este un fost cinematograf restaurat care găzduiește spectacole live.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.406958,
-                        42.972502
                   ]
             },
             {
@@ -12237,24 +9591,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Huron Lightship",
-                  "text": "Nava far Huron din Petrochemical este un vapor muzeu protejat ca monument istoric.",
-                  "category": "museum",
-                  "coords": [
-                        -82.426541,
-                        42.989551
-                  ]
-            },
-            {
-                  "name": "Pine Grove Park",
-                  "text": "Parcul Pine Grove din Petrochemical este un parc cu plajă și zone de picnic.",
-                  "category": "park",
-                  "coords": [
-                        -82.426596,
-                        42.98736
-                  ]
-            },
-            {
                   "name": "Michigan Road Preserve",
                   "text": "Rezervația Michigan Road din Petrochemical este o arie protejată de-a lungul drumului Michigan.",
                   "category": "natural",
@@ -12282,75 +9618,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Port Huron Museum",
-                  "text": "Muzeul Port Huron din Petrochemical prezintă istoria maritimă și industrială a regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        -82.426511,
-                        42.972166
-                  ]
-            },
-            {
-                  "name": "Blue Water River Walk",
-                  "text": "Blue Water River Walk din Petrochemical este o promenadă de 2,4 km de-a lungul râului St. Clair.",
-                  "category": "park",
-                  "coords": [
-                        -82.421525,
-                        42.966777
-                  ]
-            },
-            {
                   "name": "Lincoln Park",
                   "text": "Parcul Lincoln din Petrochemical este un parc cu un skatepark și terenuri de tenis.",
                   "category": "park",
                   "coords": [
                         -82.455047,
                         42.940375
-                  ]
-            },
-            {
-                  "name": "St. Benedict Catholic Church",
-                  "text": "Biserica Catolică Sf. Benedict din Petrochemical este o biserică romano-catolică cu vitralii.",
-                  "category": "religious",
-                  "coords": [
-                        -82.371586,
-                        42.970185
-                  ]
-            },
-            {
-                  "name": "St. Joseph's Catholic Church",
-                  "text": "Biserica Catolică Sf. Iosif din Petrochemical este o biserică catolică istorică cu un turn înalt.",
-                  "category": "religious",
-                  "coords": [
-                        -82.400432,
-                        42.964156
-                  ]
-            },
-            {
-                  "name": "Great Lakes Maritime Center",
-                  "text": "Centrul Maritim al Marilor Lacuri din Petrochemical informează despre navigația pe Marile Lacuri.",
-                  "category": "natural",
-                  "coords": [
-                        -82.419597,
-                        42.972087
-                  ]
-            },
-            {
-                  "name": "Kiefer Park",
-                  "text": "Parcul Kiefer din Petrochemical este un parc cu un loc de joacă cu apă și un loc de joacă.",
-                  "category": "park",
-                  "coords": [
-                        -82.420308,
-                        42.980576
-                  ]
-            },
-            {
-                  "name": "Our Lady of Mercy Catholic Church",
-                  "text": "Biserica Catolică Maica Milostivirii din Petrochemical este o biserică romano-catolică a comunității.",
-                  "category": "religious",
-                  "coords": [
-                        -82.403215,
-                        42.979092
                   ]
             },
             {
@@ -12369,15 +9642,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -82.401866,
                         43.002657
-                  ]
-            },
-            {
-                  "name": "Norm Perry Park",
-                  "text": "Parcul Norm Perry din Petrochemical este un parc cu un teren de fotbal și trasee de mers pe jos.",
-                  "category": "park",
-                  "coords": [
-                        -82.39791,
-                        42.986515
                   ]
             },
             {
@@ -12419,15 +9683,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "The Citedel Stage",
-                  "text": "The Citadel Stage in Petrochemical is an open-air performance venue in the city’s industrial district.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.424941,
-                        42.980608
-                  ]
-            },
-            {
                   "name": "Young Thomas Edison statue",
                   "text": "The Young Thomas Edison statue in Petrochemical depicts the inventor as a young boy in bronze.",
                   "category": "historical",
@@ -12437,57 +9692,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pine Grove Scenic Lookout",
-                  "text": "Pine Grove Scenic Lookout in Petrochemical offers a panoramic view over a pine forest.",
-                  "category": "natural",
-                  "coords": [
-                        -82.424356,
-                        42.985577
-                  ]
-            },
-            {
-                  "name": "McMorran Place Theatre",
-                  "text": "McMorran Place Theatre in Petrochemical is a historic Art Deco-style theater.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.425171,
-                        42.979005
-                  ]
-            },
-            {
-                  "name": "SC4 Tower",
-                  "text": "SC4 Tower in Petrochemical is a natural rock formation resembling a tower.",
-                  "category": "natural",
-                  "coords": [
-                        -82.426479,
-                        42.978698
-                  ]
-            },
-            {
                   "name": "Perch Creek Habitat Management Area",
                   "text": "Perch Creek Habitat Management Area in Petrochemical protects wetlands along Perch Creek.",
                   "category": "natural",
                   "coords": [
                         -82.317941,
                         42.934956
-                  ]
-            },
-            {
-                  "name": "Stones 'N Bones Museum",
-                  "text": "Stones 'N Bones Museum in Petrochemical displays a collection of rocks and fossils.",
-                  "category": "museum",
-                  "coords": [
-                        -82.406906,
-                        42.97426
-                  ]
-            },
-            {
-                  "name": "Imperial Theatre",
-                  "text": "Imperial Theatre in Petrochemical is a restored movie palace hosting live performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -82.406958,
-                        42.972502
                   ]
             },
             {
@@ -12572,24 +9782,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Huron Lightship",
-                  "text": "Huron Lightship in Petrochemical is a heritage-listed museum ship.",
-                  "category": "museum",
-                  "coords": [
-                        -82.426541,
-                        42.989551
-                  ]
-            },
-            {
-                  "name": "Pine Grove Park",
-                  "text": "Pine Grove Park in Petrochemical is a park with a beach and picnic areas.",
-                  "category": "park",
-                  "coords": [
-                        -82.426596,
-                        42.98736
-                  ]
-            },
-            {
                   "name": "Michigan Road Preserve",
                   "text": "Michigan Road Preserve in Petrochemical is a nature preserve along Michigan Road.",
                   "category": "natural",
@@ -12617,75 +9809,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Port Huron Museum",
-                  "text": "Port Huron Museum in Petrochemical exhibits the maritime and industrial history of the region.",
-                  "category": "museum",
-                  "coords": [
-                        -82.426511,
-                        42.972166
-                  ]
-            },
-            {
-                  "name": "Blue Water River Walk",
-                  "text": "Blue Water River Walk in Petrochemical is a 1.5-mile pedestrian path along the St. Clair River.",
-                  "category": "park",
-                  "coords": [
-                        -82.421525,
-                        42.966777
-                  ]
-            },
-            {
                   "name": "Lincoln Park",
                   "text": "Lincoln Park in Petrochemical is a park with a skate park and tennis courts.",
                   "category": "park",
                   "coords": [
                         -82.455047,
                         42.940375
-                  ]
-            },
-            {
-                  "name": "St. Benedict Catholic Church",
-                  "text": "St. Benedict Catholic Church in Petrochemical is a Roman Catholic church with stained glass windows.",
-                  "category": "religious",
-                  "coords": [
-                        -82.371586,
-                        42.970185
-                  ]
-            },
-            {
-                  "name": "St. Joseph's Catholic Church",
-                  "text": "St. Joseph's Catholic Church in Petrochemical is a historic Catholic church with a tall spire.",
-                  "category": "religious",
-                  "coords": [
-                        -82.400432,
-                        42.964156
-                  ]
-            },
-            {
-                  "name": "Great Lakes Maritime Center",
-                  "text": "Great Lakes Maritime Center in Petrochemical provides information about shipping on the Great Lakes.",
-                  "category": "natural",
-                  "coords": [
-                        -82.419597,
-                        42.972087
-                  ]
-            },
-            {
-                  "name": "Kiefer Park",
-                  "text": "Kiefer Park in Petrochemical is a park with a splash pad and playground.",
-                  "category": "park",
-                  "coords": [
-                        -82.420308,
-                        42.980576
-                  ]
-            },
-            {
-                  "name": "Our Lady of Mercy Catholic Church",
-                  "text": "Our Lady of Mercy Catholic Church in Petrochemical is a Roman Catholic church serving the community.",
-                  "category": "religious",
-                  "coords": [
-                        -82.403215,
-                        42.979092
                   ]
             },
             {
@@ -12704,15 +9833,6 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   "coords": [
                         -82.401866,
                         43.002657
-                  ]
-            },
-            {
-                  "name": "Norm Perry Park",
-                  "text": "Norm Perry Park in Petrochemical is a park with a soccer field and walking trails.",
-                  "category": "park",
-                  "coords": [
-                        -82.39791,
-                        42.986515
                   ]
             },
             {
@@ -15851,57 +12971,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Julie Anne's Art Supplies and Gallery",
-                  "text": "Diese Galerie in der Wirtschaftszone Fraser Valley verkauft Künstlerbedarf und stellt Kunstwerke aus.",
-                  "category": "museum",
-                  "coords": [
-                        -121.957156,
-                        49.145016
-                  ]
-            },
-            {
                   "name": "Mount Thom Summit Viewpoint",
                   "text": "Dieser Aussichtspunkt in der Wirtschaftszone Fraser Valley befindet sich auf dem Gipfel des Mount Thom.",
                   "category": "natural",
                   "coords": [
                         -121.912728,
                         49.104028
-                  ]
-            },
-            {
-                  "name": "CFBCHS Chilliwack Military Museum",
-                  "text": "Dieses Museum in der Wirtschaftszone Fraser Valley zeigt Militärgeschichte und Artefakte.",
-                  "category": "museum",
-                  "coords": [
-                        -121.953929,
-                        49.171594
-                  ]
-            },
-            {
-                  "name": "Chilliwack Arts Centre",
-                  "text": "Das Chilliwack Arts Centre in Valley Agriculture Logistics ist ein Veranstaltungsort für darstellende Künste.",
-                  "category": "cultural",
-                  "coords": [
-                        -121.953635,
-                        49.174938
-                  ]
-            },
-            {
-                  "name": "Dicken's Sweets & British Museum",
-                  "text": "Dicken's Sweets & British Museum in Valley Agriculture Logistics zeigt britische Süßigkeiten und historische Gegenstände.",
-                  "category": "museum",
-                  "coords": [
-                        -121.953873,
-                        49.164819
-                  ]
-            },
-            {
-                  "name": "S. Leslie Brice",
-                  "text": "S. Leslie Brice in Valley Agriculture Logistics ist eine historische Gedenkstätte für den gleichnamigen Pionier.",
-                  "category": "historical",
-                  "coords": [
-                        -121.943792,
-                        49.155051
                   ]
             },
             {
@@ -16195,57 +13270,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Julie Anne's Art Supplies and Gallery",
-                  "text": "Ez a galéria a Fraser Valley gazdasági övezetben művészeti kellékeket árul és alkotásokat állít ki.",
-                  "category": "museum",
-                  "coords": [
-                        -121.957156,
-                        49.145016
-                  ]
-            },
-            {
                   "name": "Mount Thom Summit Viewpoint",
                   "text": "Ez a kilátó a Fraser Valley gazdasági övezetben a Mount Thom csúcsán található.",
                   "category": "natural",
                   "coords": [
                         -121.912728,
                         49.104028
-                  ]
-            },
-            {
-                  "name": "CFBCHS Chilliwack Military Museum",
-                  "text": "Ez a múzeum a Fraser Valley gazdasági övezetben katonai történelmet és tárgyakat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -121.953929,
-                        49.171594
-                  ]
-            },
-            {
-                  "name": "Chilliwack Arts Centre",
-                  "text": "A Chilliwack Arts Centre Valley Agriculture Logisticsban egy előadóművészeti helyszín.",
-                  "category": "cultural",
-                  "coords": [
-                        -121.953635,
-                        49.174938
-                  ]
-            },
-            {
-                  "name": "Dicken's Sweets & British Museum",
-                  "text": "A Dicken's Sweets & British Museum Valley Agriculture Logisticsban brit édességeket és történelmi tárgyakat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -121.953873,
-                        49.164819
-                  ]
-            },
-            {
-                  "name": "S. Leslie Brice",
-                  "text": "S. Leslie Brice Valley Agriculture Logisticsban egy történelmi emlékhely a névadó úttörő számára.",
-                  "category": "historical",
-                  "coords": [
-                        -121.943792,
-                        49.155051
                   ]
             },
             {
@@ -16539,57 +13569,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Julie Anne's Art Supplies and Gallery",
-                  "text": "Această galerie din zona economică Fraser Valley vinde provizii de artă și expune lucrări de artă.",
-                  "category": "museum",
-                  "coords": [
-                        -121.957156,
-                        49.145016
-                  ]
-            },
-            {
                   "name": "Mount Thom Summit Viewpoint",
                   "text": "Acest punct de belvedere din zona economică Fraser Valley este situat pe vârful Muntelui Thom.",
                   "category": "natural",
                   "coords": [
                         -121.912728,
                         49.104028
-                  ]
-            },
-            {
-                  "name": "CFBCHS Chilliwack Military Museum",
-                  "text": "Acest muzeu din zona economică Fraser Valley expune istorie militară și artefacte.",
-                  "category": "museum",
-                  "coords": [
-                        -121.953929,
-                        49.171594
-                  ]
-            },
-            {
-                  "name": "Chilliwack Arts Centre",
-                  "text": "Centrul de Arte Chilliwack din Valley Agriculture Logistics este un loc pentru artele spectacolului.",
-                  "category": "cultural",
-                  "coords": [
-                        -121.953635,
-                        49.174938
-                  ]
-            },
-            {
-                  "name": "Dicken's Sweets & British Museum",
-                  "text": "Muzeul Dicken's Sweets & British din Valley Agriculture Logistics expune dulciuri britanice și obiecte istorice.",
-                  "category": "museum",
-                  "coords": [
-                        -121.953873,
-                        49.164819
-                  ]
-            },
-            {
-                  "name": "S. Leslie Brice",
-                  "text": "S. Leslie Brice din Valley Agriculture Logistics este un loc istoric de comemorare a pionierului omonim.",
-                  "category": "historical",
-                  "coords": [
-                        -121.943792,
-                        49.155051
                   ]
             },
             {
@@ -16883,57 +13868,12 @@ export const poiExtraCanadaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Julie Anne's Art Supplies and Gallery",
-                  "text": "This gallery in the Fraser Valley economic zone sells art supplies and displays artworks.",
-                  "category": "museum",
-                  "coords": [
-                        -121.957156,
-                        49.145016
-                  ]
-            },
-            {
                   "name": "Mount Thom Summit Viewpoint",
                   "text": "This viewpoint in the Fraser Valley economic zone is located at the summit of Mount Thom.",
                   "category": "natural",
                   "coords": [
                         -121.912728,
                         49.104028
-                  ]
-            },
-            {
-                  "name": "CFBCHS Chilliwack Military Museum",
-                  "text": "This museum in the Fraser Valley economic zone displays military history and artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        -121.953929,
-                        49.171594
-                  ]
-            },
-            {
-                  "name": "Chilliwack Arts Centre",
-                  "text": "Chilliwack Arts Centre in Valley Agriculture Logistics is a performing arts venue.",
-                  "category": "cultural",
-                  "coords": [
-                        -121.953635,
-                        49.174938
-                  ]
-            },
-            {
-                  "name": "Dicken's Sweets & British Museum",
-                  "text": "Dicken's Sweets & British Museum in Valley Agriculture Logistics displays British sweets and historical items.",
-                  "category": "museum",
-                  "coords": [
-                        -121.953873,
-                        49.164819
-                  ]
-            },
-            {
-                  "name": "S. Leslie Brice",
-                  "text": "S. Leslie Brice in Valley Agriculture Logistics is a historic memorial site for the eponymous pioneer.",
-                  "category": "historical",
-                  "coords": [
-                        -121.943792,
-                        49.155051
                   ]
             },
             {

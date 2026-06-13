@@ -243,24 +243,6 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maharaja Ranjit Singh Panorama",
-                  "text": "Ein einzigartiges Museum mit einem 100 Meter langen Panoramagemälde, das die wichtigsten Schlachten des „Löwen von Punjab“ darstellt.",
-                  "category": "museum",
-                  "coords": [
-                        74.876424,
-                        31.640568
-                  ]
-            },
-            {
-                  "name": "Shri Durgiana Mandir",
-                  "text": "Dieser Hindutempel inmitten eines heiligen Sees wird wegen seiner kunstvoll geprägten Silbertüren oft als Silberner Tempel bezeichnet.",
-                  "category": "religious",
-                  "coords": [
-                        74.867414,
-                        31.627224
-                  ]
-            },
-            {
                   "name": "St Paul's church",
                   "text": "Eine historische anglikanische Kirche in Amritsar, die für ihre Architektur aus der Kolonialzeit und ihre rote Backsteinfassade bekannt ist.",
                   "category": "landmark",
@@ -404,24 +386,6 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
                   "coords": [
                         74.875388,
                         31.620682
-                  ]
-            },
-            {
-                  "name": "Maharaja Ranjit Singh Panorama",
-                  "text": "Különleges múzeum, amely egy 100 méter hosszú panorámaképen mutatja be a „Pandzsáb oroszlánjának” főbb csatáit.",
-                  "category": "museum",
-                  "coords": [
-                        74.876424,
-                        31.640568
-                  ]
-            },
-            {
-                  "name": "Shri Durgiana Mandir",
-                  "text": "Ez a szent tó közepén álló hindu templom a gyönyörűen dombornyomott ezüstkapui miatt kapta az Ezüsttemplom nevet.",
-                  "category": "religious",
-                  "coords": [
-                        74.867414,
-                        31.627224
                   ]
             },
             {
@@ -571,24 +535,6 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maharaja Ranjit Singh Panorama",
-                  "text": "Un muzeu unic care prezintă o pictură panoramică de 100 de metri lungime ce înfățișează bătăliile majore ale „Leului din Punjab”.",
-                  "category": "museum",
-                  "coords": [
-                        74.876424,
-                        31.640568
-                  ]
-            },
-            {
-                  "name": "Shri Durgiana Mandir",
-                  "text": "Acest templu hindu situat în mijlocul unui lac sacru este numit adesea Templul de Argint datorită ușilor sale din argint gofrate.",
-                  "category": "religious",
-                  "coords": [
-                        74.867414,
-                        31.627224
-                  ]
-            },
-            {
                   "name": "St Paul's church",
                   "text": "O biserică anglicană istorică din Amritsar, remarcabilă pentru arhitectura sa din epoca colonială și fațada din cărămidă roșie.",
                   "category": "landmark",
@@ -708,15 +654,6 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gobindgarh Fort",
-                  "text": "This 18th-century military fort once housed the royal treasury and the famous Koh-i-Noor diamond.",
-                  "category": "landmark",
-                  "coords": [
-                        74.860408,
-                        31.627112
-                  ]
-            },
-            {
                   "name": "Sadda Pind",
                   "text": "A lively heritage village that showcases traditional Punjabi culture through folk dances, crafts, and authentic cuisine.",
                   "category": "landmark",
@@ -732,24 +669,6 @@ export const poiExtraIndiaLandmarksV2: POI[] = [
                   "coords": [
                         74.875388,
                         31.620682
-                  ]
-            },
-            {
-                  "name": "Maharaja Ranjit Singh Panorama",
-                  "text": "A unique museum featuring a 100-meter long panoramic painting depicting the major battles of the 'Lion of Punjab'.",
-                  "category": "museum",
-                  "coords": [
-                        74.876424,
-                        31.640568
-                  ]
-            },
-            {
-                  "name": "Shri Durgiana Mandir",
-                  "text": "This Hindu temple set in a sacred lake is often called the Silver Temple due to its beautifully embossed silver doors.",
-                  "category": "religious",
-                  "coords": [
-                        74.867414,
-                        31.627224
                   ]
             },
             {

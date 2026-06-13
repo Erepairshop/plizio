@@ -829,15 +829,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
                         -11.784514,
                         8.835919
                   ]
-            },
-            {
-                  "name": "Physio House",
-                  "text": "Die verfallende Struktur des Physio House in der Region tane-ginger-farms-life-v2 steht als greifbare Erinnerung an die ältere architektonische Vergangenheit der Gegend.",
-                  "category": "historical",
-                  "coords": [
-                        -11.835435,
-                        8.757132
-                  ]
             }
       ],
       "hu": [
@@ -857,15 +848,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
                   "coords": [
                         -11.784514,
                         8.835919
-                  ]
-            },
-            {
-                  "name": "Physio House",
-                  "text": "A tane-ginger-farms-life-v2 régióban található Physio House omladozó szerkezete a terület régebbi építészeti múltjának fizikai mementójaként áll.",
-                  "category": "historical",
-                  "coords": [
-                        -11.835435,
-                        8.757132
                   ]
             }
       ],
@@ -887,15 +869,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
                         -11.784514,
                         8.835919
                   ]
-            },
-            {
-                  "name": "Physio House",
-                  "text": "Situată în regiunea tane-ginger-farms-life-v2, structura în descompunere a Casei Physio rămâne ca o amintire fizică a trecutului arhitectural mai vechi al zonei.",
-                  "category": "historical",
-                  "coords": [
-                        -11.835435,
-                        8.757132
-                  ]
             }
       ],
       "en": [
@@ -915,15 +888,6 @@ export const poiExtraSierraleoneLifeV2: POI[] = [
                   "coords": [
                         -11.784514,
                         8.835919
-                  ]
-            },
-            {
-                  "name": "Physio House",
-                  "text": "Located in the tane-ginger-farms-life-v2 region, the decaying structure of Physio House stands as a physical reminder of the area's older architectural past.",
-                  "category": "historical",
-                  "coords": [
-                        -11.835435,
-                        8.757132
                   ]
             }
       ]

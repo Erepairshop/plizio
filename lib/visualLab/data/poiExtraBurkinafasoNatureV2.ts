@@ -661,24 +661,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
                         -1.436124,
                         12.021967
                   ]
-            },
-            {
-                  "name": "NINTENGA",
-                  "text": "Ein Aussichtspunkt, der eine breite Perspektive über die natürliche Umgebung des Flusses Weißer Volta bietet.",
-                  "category": "natural",
-                  "coords": [
-                        -1.357226,
-                        12.059091
-                  ]
-            },
-            {
-                  "name": "Ancienne salle de cinéma",
-                  "text": "Ein verlassenes Kino, das als Relikt vergangener Unterhaltung in der Region um den Weißen Volta steht.",
-                  "category": "cultural",
-                  "coords": [
-                        -1.339075,
-                        12.064088
-                  ]
             }
       ],
       "hu": [
@@ -689,24 +671,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
                   "coords": [
                         -1.436124,
                         12.021967
-                  ]
-            },
-            {
-                  "name": "NINTENGA",
-                  "text": "Egy kilátópont, amely széles perspektívát nyújt a Fehér-Volta folyó természeti környezetére.",
-                  "category": "natural",
-                  "coords": [
-                        -1.357226,
-                        12.059091
-                  ]
-            },
-            {
-                  "name": "Ancienne salle de cinéma",
-                  "text": "Egy elhagyatott mozi, amely a múltbéli szórakozás emléke a Fehér-Volta régiójában.",
-                  "category": "cultural",
-                  "coords": [
-                        -1.339075,
-                        12.064088
                   ]
             }
       ],
@@ -719,24 +683,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
                         -1.436124,
                         12.021967
                   ]
-            },
-            {
-                  "name": "NINTENGA",
-                  "text": "Un punct de observație care oferă o perspectivă largă asupra împrejurimilor naturale ale râului Volta Albă.",
-                  "category": "natural",
-                  "coords": [
-                        -1.357226,
-                        12.059091
-                  ]
-            },
-            {
-                  "name": "Ancienne salle de cinéma",
-                  "text": "O sală de cinema abandonată, care stă ca o relicvă a divertismentului din trecut în regiunea Volta Albă.",
-                  "category": "cultural",
-                  "coords": [
-                        -1.339075,
-                        12.064088
-                  ]
             }
       ],
       "en": [
@@ -747,24 +693,6 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
                   "coords": [
                         -1.436124,
                         12.021967
-                  ]
-            },
-            {
-                  "name": "NINTENGA",
-                  "text": "A vantage point providing a wide perspective over the White Volta River's natural surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        -1.357226,
-                        12.059091
-                  ]
-            },
-            {
-                  "name": "Ancienne salle de cinéma",
-                  "text": "An abandoned cinema hall standing as a relic of past entertainment in the White Volta area.",
-                  "category": "cultural",
-                  "coords": [
-                        -1.339075,
-                        12.064088
                   ]
             }
       ]

@@ -2094,50 +2094,10 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
   },
   {
     id: "mosquee-de-tingrela-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Mosquée de Tengréla",
-                  "text": "Die denkmalgeschützte Attraktion zeigt traditionelle Lehmziegel-Bautechniken, die typisch für lokale Moscheen sind.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.41011,
-                        10.490339
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mosquée de Tengréla",
-                  "text": "A műemlékvédelem alatt álló látványosság a helyi mecsetekre jellemző hagyományos vályogépítési technikákat mutatja be.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.41011,
-                        10.490339
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Mosquée de Tengréla",
-                  "text": "Atracția, declarată monument de patrimoniu, prezintă tehnicile tradiționale de construcție din cărămidă de lut, tipice moscheilor locale.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.41011,
-                        10.490339
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mosquée de Tengréla",
-                  "text": "The heritage-listed attraction showcases traditional mud-brick construction techniques typical of local mosques.",
-                  "category": "landmark",
-                  "coords": [
-                        -6.41011,
-                        10.490339
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "landmark",
     parent: "CI-SV",
@@ -2214,15 +2174,6 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monument Eléphant",
-                  "text": "Dieses markante öffentliche Denkmal besteht aus einer großen Skulptur in Form eines Elefanten.",
-                  "category": "historical",
-                  "coords": [
-                        -5.022929,
-                        7.688529
-                  ]
-            },
-            {
                   "name": "Cathédrale Sainte-Thérèse de l'Enfant Jésus",
                   "text": "Diese katholische Kathedrale in Bouaké ist der Heiligen Therese vom Kinde Jesu gewidmet.",
                   "category": "religious",
@@ -2240,15 +2191,6 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
                   "coords": [
                         -5.026691,
                         7.685818
-                  ]
-            },
-            {
-                  "name": "Monument Eléphant",
-                  "text": "Ez a feltűnő köztéri emlékmű egy nagy, elefánt formájú szobrot ábrázol.",
-                  "category": "historical",
-                  "coords": [
-                        -5.022929,
-                        7.688529
                   ]
             },
             {
@@ -2272,15 +2214,6 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monument Eléphant",
-                  "text": "Acest monument public impresionant prezintă o sculptură mare în formă de elefant.",
-                  "category": "historical",
-                  "coords": [
-                        -5.022929,
-                        7.688529
-                  ]
-            },
-            {
                   "name": "Cathédrale Sainte-Thérèse de l'Enfant Jésus",
                   "text": "Această catedrală catolică din Bouaké este dedicată Sfintei Tereza a Pruncului Isus.",
                   "category": "religious",
@@ -2298,15 +2231,6 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
                   "coords": [
                         -5.026691,
                         7.685818
-                  ]
-            },
-            {
-                  "name": "Monument Eléphant",
-                  "text": "This striking public monument features a large sculpture in the shape of an elephant.",
-                  "category": "historical",
-                  "coords": [
-                        -5.022929,
-                        7.688529
                   ]
             },
             {
@@ -2919,50 +2843,10 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
   },
   {
     id: "palais-de-la-culture-landmarks-v2", "sights": {
-      "de": [
-            {
-                  "name": "Mairie de Treichville",
-                  "text": "Das städtische Verwaltungszentrum, das die lebhafte Gemeinde Treichville regiert.",
-                  "category": "historical",
-                  "coords": [
-                        -4.012889,
-                        5.310213
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mairie de Treichville",
-                  "text": "A nyüzsgő Treichville község ügyeit intéző önkormányzati közigazgatási központ.",
-                  "category": "historical",
-                  "coords": [
-                        -4.012889,
-                        5.310213
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Mairie de Treichville",
-                  "text": "Centrul administrativ municipal care guvernează comuna plină de viață Treichville.",
-                  "category": "historical",
-                  "coords": [
-                        -4.012889,
-                        5.310213
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mairie de Treichville",
-                  "text": "The municipal administrative center governing the bustling commune of Treichville.",
-                  "category": "historical",
-                  "coords": [
-                        -4.012889,
-                        5.310213
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "landmark",
     parent: "CI-AB",
@@ -3673,15 +3557,6 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
     id: "pont-charles-de-gaulle-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Palais de la Culture d'Abidjan",
-                  "text": "Dieser riesige Kulturpalast in der Nähe der Charles-de-Gaulle-Brücke ist Abidjans wichtigster Veranstaltungsort für große Theateraufführungen und Konzerte.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.012054,
-                        5.312329
-                  ]
-            },
-            {
                   "name": "Piscine d’État de Treichville",
                   "text": "Dieser staatlich geführte Schwimmbadkomplex im lebhaften Viertel Treichville bietet Erholung im Wasser nahe der Charles-de-Gaulle-Brücke.",
                   "category": "recreational",
@@ -3689,27 +3564,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
                         -4.000977,
                         5.308269
                   ]
-            },
-            {
-                  "name": "Pont Général-de-Gaulle",
-                  "text": "Diese wichtige Straßenbrücke spannt sich über die Ébrié-Lagune und verbindet die geschäftigen Bezirke Plateau und Treichville in Abidjan.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.01008,
-                        5.315848
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Palais de la Culture d'Abidjan",
-                  "text": "A Charles de Gaulle híd közelében található hatalmas kulturális palota Abidjan legfőbb helyszíne a nagy színházi előadásoknak és koncerteknek.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.012054,
-                        5.312329
-                  ]
-            },
             {
                   "name": "Piscine d’État de Treichville",
                   "text": "A nyüzsgő Treichville negyedben található, állami fenntartású uszodakomplexum vízi kikapcsolódást kínál a Charles de Gaulle híd közelében.",
@@ -3718,27 +3575,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
                         -4.000977,
                         5.308269
                   ]
-            },
-            {
-                  "name": "Pont Général-de-Gaulle",
-                  "text": "Az Ébrié-lagúnát átívelő fontos közúti híd köti össze Abidjan Plateau és Treichville nyüzsgő negyedeit.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.01008,
-                        5.315848
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Palais de la Culture d'Abidjan",
-                  "text": "Situat lângă podul Charles de Gaulle, acest palat cultural masiv este principalul loc din Abidjan pentru spectacole teatrale grandioase și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.012054,
-                        5.312329
-                  ]
-            },
             {
                   "name": "Piscine d’État de Treichville",
                   "text": "Situat în cartierul plin de viață Treichville, acest complex de piscine administrat de stat oferă recreere acvatică lângă podul Charles de Gaulle.",
@@ -3747,27 +3586,9 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
                         -4.000977,
                         5.308269
                   ]
-            },
-            {
-                  "name": "Pont Général-de-Gaulle",
-                  "text": "Trecând peste Laguna Ébrié, acest pod rutier vital leagă districtele aglomerate Plateau și Treichville din Abidjan.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.01008,
-                        5.315848
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Palais de la Culture d'Abidjan",
-                  "text": "Situated near the Charles de Gaulle Bridge, this massive cultural palace is Abidjan's premier venue for grand theatrical performances and concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        -4.012054,
-                        5.312329
-                  ]
-            },
             {
                   "name": "Piscine d’État de Treichville",
                   "text": "Located in the lively Treichville district, this state-run swimming pool complex provides aquatic recreation near the Charles de Gaulle Bridge.",
@@ -3775,15 +3596,6 @@ export const poiExtraIvorycoastLandmarksV2: POI[] = [
                   "coords": [
                         -4.000977,
                         5.308269
-                  ]
-            },
-            {
-                  "name": "Pont Général-de-Gaulle",
-                  "text": "Spanning the Ébrié Lagoon, this vital road bridge connects the bustling districts of Plateau and Treichville in Abidjan.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.01008,
-                        5.315848
                   ]
             }
       ]

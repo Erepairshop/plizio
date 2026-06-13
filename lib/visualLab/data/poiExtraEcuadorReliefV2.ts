@@ -1362,15 +1362,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pupotola",
-                  "text": "Eine archäologische Stätte in Imbabura mit Überresten alter Erdwälle oder Siedlungen.",
-                  "category": "historical",
-                  "coords": [
-                        -78.204754,
-                        0.320856
-                  ]
-            },
-            {
                   "name": "Galeria Pucara",
                   "text": "Ein Ausstellungsraum in der Nähe alter indigener Befestigungsanlagen in der Region Imbabura.",
                   "category": "landmark",
@@ -1386,15 +1377,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
                   "coords": [
                         -78.157377,
                         0.30284
-                  ]
-            },
-            {
-                  "name": "Antigua Fábrica Textil Imbabura",
-                  "text": "Diese ehemalige Textilfabrik aus dem 19. Jahrhundert beherbergt heute ein Museum für Industriegeschichte.",
-                  "category": "museum",
-                  "coords": [
-                        -78.212917,
-                        0.322034
                   ]
             },
             {
@@ -1571,15 +1553,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pupotola",
-                  "text": "Régészeti lelőhely Imbaburában, ősi földművek vagy települések maradványaival.",
-                  "category": "historical",
-                  "coords": [
-                        -78.204754,
-                        0.320856
-                  ]
-            },
-            {
                   "name": "Galeria Pucara",
                   "text": "Kiállítótér az Imbabura régió ősi őslakos erődítményeinek közelében.",
                   "category": "landmark",
@@ -1595,15 +1568,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
                   "coords": [
                         -78.157377,
                         0.30284
-                  ]
-            },
-            {
-                  "name": "Antigua Fábrica Textil Imbabura",
-                  "text": "Ez az egykori 19. századi textilgyár ma az ipari örökséget bemutató múzeumnak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        -78.212917,
-                        0.322034
                   ]
             },
             {
@@ -1780,15 +1744,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pupotola",
-                  "text": "Un sit arheologic în Imbabura care prezintă resturi de terasamente sau așezări antice.",
-                  "category": "historical",
-                  "coords": [
-                        -78.204754,
-                        0.320856
-                  ]
-            },
-            {
                   "name": "Galeria Pucara",
                   "text": "Un spațiu expozițional situat lângă vechile fortificații indigene din zona Imbabura.",
                   "category": "landmark",
@@ -1804,15 +1759,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
                   "coords": [
                         -78.157377,
                         0.30284
-                  ]
-            },
-            {
-                  "name": "Antigua Fábrica Textil Imbabura",
-                  "text": "Această fostă fabrică de textile din secolul al XIX-lea găzduiește astăzi un muzeu dedicat patrimoniului industrial.",
-                  "category": "museum",
-                  "coords": [
-                        -78.212917,
-                        0.322034
                   ]
             },
             {
@@ -1989,15 +1935,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pupotola",
-                  "text": "An archaeological site in Imbabura featuring remains of ancient earthworks or settlements.",
-                  "category": "historical",
-                  "coords": [
-                        -78.204754,
-                        0.320856
-                  ]
-            },
-            {
                   "name": "Gallery Pucara",
                   "text": "An exhibition space located near ancient indigenous fortifications in the Imbabura area.",
                   "category": "landmark",
@@ -2013,15 +1950,6 @@ export const poiExtraEcuadorReliefV2: POI[] = [
                   "coords": [
                         -78.157377,
                         0.30284
-                  ]
-            },
-            {
-                  "name": "Antigua Fábrica Textil Imbabura",
-                  "text": "This former 19th-century textile factory now houses a museum dedicated to industrial heritage.",
-                  "category": "museum",
-                  "coords": [
-                        -78.212917,
-                        0.322034
                   ]
             },
             {

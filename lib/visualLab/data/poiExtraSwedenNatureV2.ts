@@ -152,15 +152,6 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
                   ]
             },
             {
-                  "name": "Kebnekaise nordtoppen",
-                  "text": "Kebnekaise nordtoppen ist der nördliche Gipfel des höchsten Berges Schwedens, aufgrund der Gletscherschmelze etwas niedriger.",
-                  "category": "landmark",
-                  "coords": [
-                        18.528703,
-                        67.904879
-                  ]
-            },
-            {
                   "name": "Tolpagorni",
                   "text": "Tolpagorni ist ein felsiger Gipfel im Kebnekaise-Massiv mit Blick auf den Hauptgipfel.",
                   "category": "landmark",
@@ -187,15 +178,6 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
                   "coords": [
                         18.516903,
                         67.900781
-                  ]
-            },
-            {
-                  "name": "Kebnekaise nordtoppen",
-                  "text": "Kebnekaise nordtoppen a svéd legmagasabb hegy északi csúcsa, a gleccserolvadás miatt kissé alacsonyabb.",
-                  "category": "landmark",
-                  "coords": [
-                        18.528703,
-                        67.904879
                   ]
             },
             {
@@ -228,15 +210,6 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
                   ]
             },
             {
-                  "name": "Kebnekaise nordtoppen",
-                  "text": "Kebnekaise nordtoppen este vârful nordic al celui mai înalt munte al Suediei, ceva mai jos din cauza topirii ghețarului.",
-                  "category": "landmark",
-                  "coords": [
-                        18.528703,
-                        67.904879
-                  ]
-            },
-            {
                   "name": "Tolpagorni",
                   "text": "Tolpagorni este un vârf stâncos în masivul Kebnekaise, cu vedere către vârful principal.",
                   "category": "landmark",
@@ -263,15 +236,6 @@ imageHint: "Clear blue water of Lake Vättern with rocky shoreline near Visings�
                   "coords": [
                         18.516903,
                         67.900781
-                  ]
-            },
-            {
-                  "name": "Kebnekaise nordtoppen",
-                  "text": "Kebnekaise nordtoppen is the northern peak of Sweden's highest mountain, slightly lower due to glacial melting.",
-                  "category": "landmark",
-                  "coords": [
-                        18.528703,
-                        67.904879
                   ]
             },
             {
@@ -4196,24 +4160,6 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
     id: "sweden-tarfala-valley-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Kebnekaise sydtoppen",
-                  "text": "Der Südgipfel des Kebnekaise ist einer der höchsten Punkte Schwedens.",
-                  "category": "landmark",
-                  "coords": [
-                        18.516903,
-                        67.900781
-                  ]
-            },
-            {
-                  "name": "Kebnekaise nordtoppen",
-                  "text": "Der Nordgipfel des Kebnekaise ist eine markante Erhebung im schwedischen Lappland.",
-                  "category": "landmark",
-                  "coords": [
-                        18.528703,
-                        67.904879
-                  ]
-            },
-            {
                   "name": "Kekkonentoppen",
                   "text": "Ein Berggipfel im Kebnekaise-Massiv, benannt nach dem finnischen Präsidenten Urho Kekkonen.",
                   "category": "landmark",
@@ -4221,36 +4167,9 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
                         18.638413,
                         67.908174
                   ]
-            },
-            {
-                  "name": "Kaskasatjåkka",
-                  "text": "Ein hoher Berggipfel in der Nähe des Kebnekaise-Massivs in Nordschweden.",
-                  "category": "landmark",
-                  "coords": [
-                        18.583329,
-                        67.94222
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Kebnekaise sydtoppen",
-                  "text": "A Kebnekaise déli csúcsa Svédország egyik legmagasabb pontja.",
-                  "category": "landmark",
-                  "coords": [
-                        18.516903,
-                        67.900781
-                  ]
-            },
-            {
-                  "name": "Kebnekaise nordtoppen",
-                  "text": "A Kebnekaise északi csúcsa egy jelentős hegycsúcs a svéd Lappföldön.",
-                  "category": "landmark",
-                  "coords": [
-                        18.528703,
-                        67.904879
-                  ]
-            },
             {
                   "name": "Kekkonentoppen",
                   "text": "A Kebnekaise-masszívum egyik csúcsa, amelyet Urho Kekkonen finn elnökről neveztek el.",
@@ -4259,36 +4178,9 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
                         18.638413,
                         67.908174
                   ]
-            },
-            {
-                  "name": "Kaskasatjåkka",
-                  "text": "Magas hegycsúcs a Kebnekaise-masszívum közelében, Észak-Svédországban.",
-                  "category": "landmark",
-                  "coords": [
-                        18.583329,
-                        67.94222
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Kebnekaise sydtoppen",
-                  "text": "Vârful sudic al muntelui Kebnekaise este unul dintre cele mai înalte puncte din Suedia.",
-                  "category": "landmark",
-                  "coords": [
-                        18.516903,
-                        67.900781
-                  ]
-            },
-            {
-                  "name": "Kebnekaise nordtoppen",
-                  "text": "Vârful nordic al muntelui Kebnekaise este o culme montană importantă din Laponia suedeză.",
-                  "category": "landmark",
-                  "coords": [
-                        18.528703,
-                        67.904879
-                  ]
-            },
             {
                   "name": "Kekkonentoppen",
                   "text": "Un vârf muntos din masivul Kebnekaise, numit după președintele finlandez Urho Kekkonen.",
@@ -4297,36 +4189,9 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
                         18.638413,
                         67.908174
                   ]
-            },
-            {
-                  "name": "Kaskasatjåkka",
-                  "text": "Un vârf muntos înalt situat în apropierea masivului Kebnekaise din nordul Suediei.",
-                  "category": "landmark",
-                  "coords": [
-                        18.583329,
-                        67.94222
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Kebnekaise sydtoppen",
-                  "text": "The south peak of Kebnekaise is one of the highest points in Sweden.",
-                  "category": "landmark",
-                  "coords": [
-                        18.516903,
-                        67.900781
-                  ]
-            },
-            {
-                  "name": "Kebnekaise nordtoppen",
-                  "text": "The north peak of Kebnekaise is a prominent mountain peak in Swedish Lapland.",
-                  "category": "landmark",
-                  "coords": [
-                        18.528703,
-                        67.904879
-                  ]
-            },
             {
                   "name": "Kekkonentoppen",
                   "text": "A mountain peak in the Kebnekaise massif, named after the Finnish President Urho Kekkonen.",
@@ -4334,15 +4199,6 @@ imageHint: "Dramatic granite cliffs of the High Coast overlooking the sea",
                   "coords": [
                         18.638413,
                         67.908174
-                  ]
-            },
-            {
-                  "name": "Kaskasatjåkka",
-                  "text": "A high mountain peak located near the Kebnekaise massif in northern Sweden.",
-                  "category": "landmark",
-                  "coords": [
-                        18.583329,
-                        67.94222
                   ]
             }
       ]

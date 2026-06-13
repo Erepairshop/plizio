@@ -258,24 +258,6 @@ imageHint: "Rolling hills of the Pennines landscape in England",
                         -3.669125,
                         57.070389
                   ]
-            },
-            {
-                  "name": "Beinn Mheadhoin",
-                  "text": "Ein markanter Gipfel in den Cairngorms, bekannt für seine großen Granitfelsen.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.611476,
-                        57.095934
-                  ]
-            },
-            {
-                  "name": "Derry Cairngorm",
-                  "text": "Ein Berg mit weiter Aussicht im Cairngorms-Nationalpark.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.622917,
-                        57.062718
-                  ]
             }
       ],
       "hu": [
@@ -286,24 +268,6 @@ imageHint: "Rolling hills of the Pennines landscape in England",
                   "coords": [
                         -3.669125,
                         57.070389
-                  ]
-            },
-            {
-                  "name": "Beinn Mheadhoin",
-                  "text": "A Cairngorms-hegység egyik csúcsa, amely hatalmas gránit sziklaformációiról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.611476,
-                        57.095934
-                  ]
-            },
-            {
-                  "name": "Derry Cairngorm",
-                  "text": "Hegicsúcs a Cairngorms Nemzeti Parkban, szép kilátással.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.622917,
-                        57.062718
                   ]
             }
       ],
@@ -316,24 +280,6 @@ imageHint: "Rolling hills of the Pennines landscape in England",
                         -3.669125,
                         57.070389
                   ]
-            },
-            {
-                  "name": "Beinn Mheadhoin",
-                  "text": "Un vârf proeminent din Cairngorms, cunoscut pentru formațiunile sale mari de granit.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.611476,
-                        57.095934
-                  ]
-            },
-            {
-                  "name": "Derry Cairngorm",
-                  "text": "Un vârf montan cu vederi panoramice în Parcul Național Cairngorms.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.622917,
-                        57.062718
-                  ]
             }
       ],
       "en": [
@@ -344,24 +290,6 @@ imageHint: "Rolling hills of the Pennines landscape in England",
                   "coords": [
                         -3.669125,
                         57.070389
-                  ]
-            },
-            {
-                  "name": "Beinn Mheadhoin",
-                  "text": "A prominent peak in the Cairngorms known for its large granite tors.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.611476,
-                        57.095934
-                  ]
-            },
-            {
-                  "name": "Derry Cairngorm",
-                  "text": "A mountain peak offering scenic views in the Cairngorms National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.622917,
-                        57.062718
                   ]
             }
       ]
@@ -506,15 +434,6 @@ imageHint: "Brecon Beacons rolling green mountains in Wales",
     id: "uk-dartmoor-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Kraps Ring",
-                  "text": "Eine archäologische Ausgrabungsstätte im Dartmoor-Nationalpark in England.",
-                  "category": "historical",
-                  "coords": [
-                        -3.916353,
-                        50.587236
-                  ]
-            },
-            {
                   "name": "Loughtor Man",
                   "text": "Eine antike Fundstätte im Dartmoor, die Zeugnis von früher Besiedlung ablegt.",
                   "category": "historical",
@@ -542,15 +461,6 @@ imageHint: "Brecon Beacons rolling green mountains in Wales",
                   ]
             },
             {
-                  "name": "Cairn",
-                  "text": "Ein prähistorischer Steinhaufen, der als Grabmal oder Markierung im Dartmoor dient.",
-                  "category": "historical",
-                  "coords": [
-                        -3.882709,
-                        50.570863
-                  ]
-            },
-            {
                   "name": "Outer Huccaby Ring",
                   "text": "Eine antike Kreisgrabenanlage im Dartmoor-Nationalpark.",
                   "category": "historical",
@@ -570,15 +480,6 @@ imageHint: "Brecon Beacons rolling green mountains in Wales",
             }
       ],
       "hu": [
-            {
-                  "name": "Kraps Ring",
-                  "text": "Régészeti lelőhely az angliai Dartmoor nemzeti park területén.",
-                  "category": "historical",
-                  "coords": [
-                        -3.916353,
-                        50.587236
-                  ]
-            },
             {
                   "name": "Loughtor Man",
                   "text": "Dartmoor területén található ősi lelőhely, amely a korai benépesülés nyomait őrzi.",
@@ -607,15 +508,6 @@ imageHint: "Brecon Beacons rolling green mountains in Wales",
                   ]
             },
             {
-                  "name": "Cairn",
-                  "text": "Prehisztorikus kőhalom Dartmoorban, amely sírként vagy jelzőként szolgált.",
-                  "category": "historical",
-                  "coords": [
-                        -3.882709,
-                        50.570863
-                  ]
-            },
-            {
                   "name": "Outer Huccaby Ring",
                   "text": "Ősi kör alakú sáncmű Dartmoor nemzeti parkjában.",
                   "category": "historical",
@@ -635,15 +527,6 @@ imageHint: "Brecon Beacons rolling green mountains in Wales",
             }
       ],
       "ro": [
-            {
-                  "name": "Kraps Ring",
-                  "text": "Un sit arheologic situat în Parcul Național Dartmoor din Anglia.",
-                  "category": "historical",
-                  "coords": [
-                        -3.916353,
-                        50.587236
-                  ]
-            },
             {
                   "name": "Loughtor Man",
                   "text": "Un sit antic din Dartmoor care atestă locuirea timpurie a zonei.",
@@ -672,15 +555,6 @@ imageHint: "Brecon Beacons rolling green mountains in Wales",
                   ]
             },
             {
-                  "name": "Cairn",
-                  "text": "Un tumul de piatră preistoric din Dartmoor, servind drept monument funerar sau reper.",
-                  "category": "historical",
-                  "coords": [
-                        -3.882709,
-                        50.570863
-                  ]
-            },
-            {
                   "name": "Outer Huccaby Ring",
                   "text": "O veche structură circulară situată în Parcul Național Dartmoor.",
                   "category": "historical",
@@ -700,15 +574,6 @@ imageHint: "Brecon Beacons rolling green mountains in Wales",
             }
       ],
       "en": [
-            {
-                  "name": "Kraps Ring",
-                  "text": "An archaeological site located within the Dartmoor National Park in England.",
-                  "category": "historical",
-                  "coords": [
-                        -3.916353,
-                        50.587236
-                  ]
-            },
             {
                   "name": "Loughtor Man",
                   "text": "An ancient archaeological site in Dartmoor providing evidence of early human settlement.",
@@ -734,15 +599,6 @@ imageHint: "Brecon Beacons rolling green mountains in Wales",
                   "coords": [
                         -3.959388,
                         50.541298
-                  ]
-            },
-            {
-                  "name": "Cairn",
-                  "text": "A prehistoric mound of stones in Dartmoor used as a burial monument or marker.",
-                  "category": "historical",
-                  "coords": [
-                        -3.882709,
-                        50.570863
                   ]
             },
             {
@@ -950,302 +806,10 @@ imageHint: "Rolling green hills of the Cotswolds",
     image: "/poi-images/uk-cotswolds-relief-v2.webp",
 },  {
     id: "uk-lake-district-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Copt Howe Artwork Carvings",
-                  "text": "Prähistorische Felsritzungen in der Landschaft des Lake District.",
-                  "category": "historical",
-                  "coords": [
-                        -3.05924,
-                        54.443253
-                  ]
-            },
-            {
-                  "name": "Langdale Axe Stone Quarry",
-                  "text": "Ein bedeutender neolithischer Steinbruch für die Axtproduktion im Lake District.",
-                  "category": "historical",
-                  "coords": [
-                        -3.120369,
-                        54.45591
-                  ]
-            },
-            {
-                  "name": "Axe Workings",
-                  "text": "Archäologische Überreste der neolithischen Steinbeilindustrie in Langdale.",
-                  "category": "historical",
-                  "coords": [
-                        -3.109131,
-                        54.456719
-                  ]
-            },
-            {
-                  "name": "Cup mark artworks",
-                  "text": "Alte Schalensteine und Felskunst im Lake District Nationalpark.",
-                  "category": "historical",
-                  "coords": [
-                        -3.101849,
-                        54.440909
-                  ]
-            },
-            {
-                  "name": "Martcrag Moor Axe Factory",
-                  "text": "Prähistorische Steinbeil-Fabrik auf dem Martcrag Moor am Langdale Pike.",
-                  "category": "historical",
-                  "coords": [
-                        -3.131904,
-                        54.464883
-                  ]
-            },
-            {
-                  "name": "Stone Age Quarry",
-                  "text": "Eine prähistorische Steinbruchstätte im Lake District.",
-                  "category": "historical",
-                  "coords": [
-                        -3.095533,
-                        54.44986
-                  ]
-            },
-            {
-                  "name": "Calf Crag",
-                  "text": "Ein markanter Hügel und Aussichtspunkt im Lake District in Cumbria.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.079473,
-                        54.484221
-                  ]
-            },
-            {
-                  "name": "Steel Fell",
-                  "text": "Ein Berg im englischen Lake District, der auch als Dead Pike bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.052159,
-                        54.491158
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Copt Howe Artwork Carvings",
-                  "text": "Őskori sziklavésetek a Lake District táján.",
-                  "category": "historical",
-                  "coords": [
-                        -3.05924,
-                        54.443253
-                  ]
-            },
-            {
-                  "name": "Langdale Axe Stone Quarry",
-                  "text": "Jelentős neolitikus kőbalta-készítő lelőhely a Lake Districtben.",
-                  "category": "historical",
-                  "coords": [
-                        -3.120369,
-                        54.45591
-                  ]
-            },
-            {
-                  "name": "Axe Workings",
-                  "text": "A langdale-i neolitikus kőbalta-ipar régészeti maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        -3.109131,
-                        54.456719
-                  ]
-            },
-            {
-                  "name": "Cup mark artworks",
-                  "text": "Ősi csésze alakú mélyedések és sziklaművészet a Lake District Nemzeti Parkban.",
-                  "category": "historical",
-                  "coords": [
-                        -3.101849,
-                        54.440909
-                  ]
-            },
-            {
-                  "name": "Martcrag Moor Axe Factory",
-                  "text": "Őskori kőbalta-gyár a Martcrag Moor-on, a Langdale Pike közelében.",
-                  "category": "historical",
-                  "coords": [
-                        -3.131904,
-                        54.464883
-                  ]
-            },
-            {
-                  "name": "Stone Age Quarry",
-                  "text": "Egy praehisztorikus kőbánya a Lake District területén.",
-                  "category": "historical",
-                  "coords": [
-                        -3.095533,
-                        54.44986
-                  ]
-            },
-            {
-                  "name": "Calf Crag",
-                  "text": "Egy jellegzetes domb és kilátópont a cumbriai Lake District területén.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.079473,
-                        54.484221
-                  ]
-            },
-            {
-                  "name": "Steel Fell",
-                  "text": "Egy hegy az angol Lake Districtben, más néven Dead Pike.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.052159,
-                        54.491158
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Copt Howe Artwork Carvings",
-                  "text": "Gravuri rupestre preistorice în peisajul din Lake District.",
-                  "category": "historical",
-                  "coords": [
-                        -3.05924,
-                        54.443253
-                  ]
-            },
-            {
-                  "name": "Langdale Axe Stone Quarry",
-                  "text": "O carieră neolitică importantă pentru producția de topoare în Lake District.",
-                  "category": "historical",
-                  "coords": [
-                        -3.120369,
-                        54.45591
-                  ]
-            },
-            {
-                  "name": "Axe Workings",
-                  "text": "Rămășițe arheologice ale industriei neolitice a topoarelor de piatră din Langdale.",
-                  "category": "historical",
-                  "coords": [
-                        -3.109131,
-                        54.456719
-                  ]
-            },
-            {
-                  "name": "Cup mark artworks",
-                  "text": "Vechile semne cupulare și arta rupestră în Parcul Național Lake District.",
-                  "category": "historical",
-                  "coords": [
-                        -3.101849,
-                        54.440909
-                  ]
-            },
-            {
-                  "name": "Martcrag Moor Axe Factory",
-                  "text": "Fabrică preistorică de topoare de piatră pe Martcrag Moor, lângă Langdale Pike.",
-                  "category": "historical",
-                  "coords": [
-                        -3.131904,
-                        54.464883
-                  ]
-            },
-            {
-                  "name": "Stone Age Quarry",
-                  "text": "Un sit preistoric de carieră de piatră în Lake District.",
-                  "category": "historical",
-                  "coords": [
-                        -3.095533,
-                        54.44986
-                  ]
-            },
-            {
-                  "name": "Calf Crag",
-                  "text": "Un deal proeminent și punct de belvedere în Lake District din Cumbria.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.079473,
-                        54.484221
-                  ]
-            },
-            {
-                  "name": "Steel Fell",
-                  "text": "Un munte în districtul lacurilor din Anglia, cunoscut și sub numele de Dead Pike.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.052159,
-                        54.491158
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Copt Howe Artwork Carvings",
-                  "text": "Prehistoric rock carvings in the Lake District landscape.",
-                  "category": "historical",
-                  "coords": [
-                        -3.05924,
-                        54.443253
-                  ]
-            },
-            {
-                  "name": "Langdale Axe Stone Quarry",
-                  "text": "An important Neolithic stone axe production site in the Lake District.",
-                  "category": "historical",
-                  "coords": [
-                        -3.120369,
-                        54.45591
-                  ]
-            },
-            {
-                  "name": "Axe Workings",
-                  "text": "Archaeological remains of the Neolithic stone axe industry in Langdale.",
-                  "category": "historical",
-                  "coords": [
-                        -3.109131,
-                        54.456719
-                  ]
-            },
-            {
-                  "name": "Cup mark artworks",
-                  "text": "Ancient cup marks and rock art in the Lake District National Park.",
-                  "category": "historical",
-                  "coords": [
-                        -3.101849,
-                        54.440909
-                  ]
-            },
-            {
-                  "name": "Martcrag Moor Axe Factory",
-                  "text": "Prehistoric stone axe factory on Martcrag Moor near Langdale Pike.",
-                  "category": "historical",
-                  "coords": [
-                        -3.131904,
-                        54.464883
-                  ]
-            },
-            {
-                  "name": "Stone Age Quarry",
-                  "text": "A prehistoric quarry site showing evidence of early human activity in the Lake District.",
-                  "category": "historical",
-                  "coords": [
-                        -3.095533,
-                        54.44986
-                  ]
-            },
-            {
-                  "name": "Calf Crag",
-                  "text": "A prominent hill and fell offering views in the Lake District of Cumbria.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.079473,
-                        54.484221
-                  ]
-            },
-            {
-                  "name": "Steel Fell",
-                  "text": "A fell in the English Lake District, also known as Dead Pike.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.052159,
-                        54.491158
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "GB",
     type: "mountain",

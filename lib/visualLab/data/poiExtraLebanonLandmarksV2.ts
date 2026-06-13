@@ -1174,15 +1174,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mar Bichay Hermitage",
-                  "text": "Eine abgelegene Einsiedelei, die in die Kalksteinfelsen von Qadisha gehauen wurde.",
-                  "category": "landmark",
-                  "coords": [
-                        35.945425,
-                        34.283695
-                  ]
-            },
-            {
                   "name": "Our Lady of Hawqa Sanctuary",
                   "text": "Ein historisches Höhlenheiligtum und Pilgerort in der Hawqa-Region des Tales.",
                   "category": "landmark",
@@ -1207,15 +1198,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
                   "coords": [
                         35.952446,
                         34.256105
-                  ]
-            },
-            {
-                  "name": "Antoniuskloster Quzhaya",
-                  "text": "Ein berühmtes maronitisches Kloster, in dem die erste Druckerpresse des Nahen Ostens stand.",
-                  "category": "landmark",
-                  "coords": [
-                        35.946792,
-                        34.282915
                   ]
             },
             {
@@ -1284,15 +1266,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mar Bichay Hermitage",
-                  "text": "Magányos remetelak és kolostor a Qadisha-völgy mészkőszikláiba vájva.",
-                  "category": "landmark",
-                  "coords": [
-                        35.945425,
-                        34.283695
-                  ]
-            },
-            {
                   "name": "Our Lady of Hawqa Sanctuary",
                   "text": "Történelmi barlangszentély és zarándokhely a völgy Hawqa régiójában.",
                   "category": "landmark",
@@ -1317,15 +1290,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
                   "coords": [
                         35.952446,
                         34.256105
-                  ]
-            },
-            {
-                  "name": "Monastery of St Anthony of Qozhaya",
-                  "text": "Híres maronita kolostor, amely a Közel-Kelet első nyomdájának adott otthont.",
-                  "category": "landmark",
-                  "coords": [
-                        35.946792,
-                        34.282915
                   ]
             },
             {
@@ -1394,15 +1358,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mar Bichay Hermitage",
-                  "text": "Un schit izolat și mănăstire săpată în stâncile calcaroase din Qadisha.",
-                  "category": "landmark",
-                  "coords": [
-                        35.945425,
-                        34.283695
-                  ]
-            },
-            {
                   "name": "Our Lady of Hawqa Sanctuary",
                   "text": "Un sanctuar istoric în peșteră și loc de pelerinaj situat în regiunea Hawqa a văii.",
                   "category": "landmark",
@@ -1427,15 +1382,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
                   "coords": [
                         35.952446,
                         34.256105
-                  ]
-            },
-            {
-                  "name": "Monastery of St Anthony of Qozhaya",
-                  "text": "Mănăstire maronită faimoasă pentru că a adăpostit prima presă tipografică din Orientul Mijlociu.",
-                  "category": "landmark",
-                  "coords": [
-                        35.946792,
-                        34.282915
                   ]
             },
             {
@@ -1504,15 +1450,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mar Bichay Hermitage",
-                  "text": "A secluded hermitage and monastery carved into the limestone cliffs of Qadisha.",
-                  "category": "landmark",
-                  "coords": [
-                        35.945425,
-                        34.283695
-                  ]
-            },
-            {
                   "name": "Our Lady of Hawqa Sanctuary",
                   "text": "A historic cave sanctuary and pilgrimage site located in the Hawqa region of the valley.",
                   "category": "landmark",
@@ -1537,15 +1474,6 @@ export const poiExtraLebanonLandmarksV2: POI[] = [
                   "coords": [
                         35.952446,
                         34.256105
-                  ]
-            },
-            {
-                  "name": "Monastery of St Anthony of Qozhaya",
-                  "text": "A famous Maronite monastery known for housing the Middle East's first printing press.",
-                  "category": "landmark",
-                  "coords": [
-                        35.946792,
-                        34.282915
                   ]
             },
             {

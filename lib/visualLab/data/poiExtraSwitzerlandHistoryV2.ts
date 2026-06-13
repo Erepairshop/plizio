@@ -1266,24 +1266,6 @@ export const switzerlandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "JURASSICA Museum",
-                  "text": "Ein Naturkundemuseum in Porrentruy mit Fokus auf Fossilien der Jurazeit.",
-                  "category": "museum",
-                  "coords": [
-                        7.07786,
-                        47.414208
-                  ]
-            },
-            {
-                  "name": "Dolmen de la Pierre Percée",
-                  "text": "Eine prähistorische Megalithanlage in der Nähe von Porrentruy.",
-                  "category": "historical",
-                  "coords": [
-                        7.118823,
-                        47.406095
-                  ]
-            },
-            {
                   "name": "Château de Porrentruy",
                   "text": "Eine imposante mittelalterliche Burganlage, die hoch über der Stadt Porrentruy thront.",
                   "category": "castle",
@@ -1299,24 +1281,6 @@ export const switzerlandHistoryV2: POI[] = [
                   "coords": [
                         7.07406,
                         47.418249
-                  ]
-            },
-            {
-                  "name": "Réserve naturelle du Banné",
-                  "text": "Ein geschütztes Naturgebiet bei Porrentruy, das zur Erhaltung der lokalen Artenvielfalt dient.",
-                  "category": "natural",
-                  "coords": [
-                        7.074896,
-                        47.403549
-                  ]
-            },
-            {
-                  "name": "Étang Corbat",
-                  "text": "Ein ruhiges Naturschutzgebiet rund um einen malerischen Weiher bei Porrentruy.",
-                  "category": "natural",
-                  "coords": [
-                        7.062818,
-                        47.409374
                   ]
             },
             {
@@ -1349,24 +1313,6 @@ export const switzerlandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "JURASSICA Museum",
-                  "text": "Természettudományi múzeum Porrentruy-ban, középpontban a jura kori fosszíliákkal.",
-                  "category": "museum",
-                  "coords": [
-                        7.07786,
-                        47.414208
-                  ]
-            },
-            {
-                  "name": "Dolmen de la Pierre Percée",
-                  "text": "Prehisztorikus megalitikus emlék Porrentruy közelében.",
-                  "category": "historical",
-                  "coords": [
-                        7.118823,
-                        47.406095
-                  ]
-            },
-            {
                   "name": "Château de Porrentruy",
                   "text": "Impozáns középkori várkomplexum, amely Porrentruy városa fölé magasodik.",
                   "category": "castle",
@@ -1382,24 +1328,6 @@ export const switzerlandHistoryV2: POI[] = [
                   "coords": [
                         7.07406,
                         47.418249
-                  ]
-            },
-            {
-                  "name": "Réserve naturelle du Banné",
-                  "text": "Védett természeti terület Porrentruy közelében a helyi élővilág megőrzésére.",
-                  "category": "natural",
-                  "coords": [
-                        7.074896,
-                        47.403549
-                  ]
-            },
-            {
-                  "name": "Étang Corbat",
-                  "text": "Nyugodt természetvédelmi terület egy festői tó körül Porrentruy közelében.",
-                  "category": "natural",
-                  "coords": [
-                        7.062818,
-                        47.409374
                   ]
             },
             {
@@ -1432,24 +1360,6 @@ export const switzerlandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "JURASSICA Museum",
-                  "text": "Un muzeu de istorie naturală din Porrentruy, axat pe fosile din perioada Jurasică.",
-                  "category": "museum",
-                  "coords": [
-                        7.07786,
-                        47.414208
-                  ]
-            },
-            {
-                  "name": "Dolmen de la Pierre Percée",
-                  "text": "Un monument megalitic preistoric situat lângă Porrentruy.",
-                  "category": "historical",
-                  "coords": [
-                        7.118823,
-                        47.406095
-                  ]
-            },
-            {
                   "name": "Château de Porrentruy",
                   "text": "Un complex fortificat medieval impunător care domină orașul Porrentruy.",
                   "category": "castle",
@@ -1465,24 +1375,6 @@ export const switzerlandHistoryV2: POI[] = [
                   "coords": [
                         7.07406,
                         47.418249
-                  ]
-            },
-            {
-                  "name": "Réserve naturelle du Banné",
-                  "text": "O arie naturală protejată lângă Porrentruy pentru conservarea biodiversității locale.",
-                  "category": "natural",
-                  "coords": [
-                        7.074896,
-                        47.403549
-                  ]
-            },
-            {
-                  "name": "Étang Corbat",
-                  "text": "O rezervație naturală liniștită în jurul unui iaz pitoresc lângă Porrentruy.",
-                  "category": "natural",
-                  "coords": [
-                        7.062818,
-                        47.409374
                   ]
             },
             {
@@ -1515,24 +1407,6 @@ export const switzerlandHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "JURASSICA Museum",
-                  "text": "A natural history museum in Porrentruy focusing on Jurassic fossils.",
-                  "category": "museum",
-                  "coords": [
-                        7.07786,
-                        47.414208
-                  ]
-            },
-            {
-                  "name": "Dolmen de la Pierre Percée",
-                  "text": "A prehistoric megalithic monument located near Porrentruy.",
-                  "category": "historical",
-                  "coords": [
-                        7.118823,
-                        47.406095
-                  ]
-            },
-            {
                   "name": "Château de Porrentruy",
                   "text": "An imposing medieval castle complex overlooking the town of Porrentruy.",
                   "category": "castle",
@@ -1548,24 +1422,6 @@ export const switzerlandHistoryV2: POI[] = [
                   "coords": [
                         7.07406,
                         47.418249
-                  ]
-            },
-            {
-                  "name": "Réserve naturelle du Banné",
-                  "text": "A protected nature reserve near Porrentruy dedicated to local biodiversity.",
-                  "category": "natural",
-                  "coords": [
-                        7.074896,
-                        47.403549
-                  ]
-            },
-            {
-                  "name": "Étang Corbat",
-                  "text": "A peaceful nature reserve surrounding a scenic pond near Porrentruy.",
-                  "category": "natural",
-                  "coords": [
-                        7.062818,
-                        47.409374
                   ]
             },
             {

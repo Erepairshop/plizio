@@ -2256,15 +2256,6 @@ export const poiExtraBhutanLifeV2: POI[] = [
     id: "haa-valley-yak-pastures-life-v2", "sights": {
       "de": [
             {
-                  "name": "Haa Wangchuk LoDzong",
-                  "text": "Eine historische Festung im Haa-Tal, die ursprünglich zur Verteidigung der Region errichtet wurde.",
-                  "category": "castle",
-                  "coords": [
-                        89.292538,
-                        27.371065
-                  ]
-            },
-            {
                   "name": "Recreational Park",
                   "text": "Ein Freizeitgelände im Haa-Tal, das Raum für Erholung inmitten der hochgelegenen Yak-Weiden bietet.",
                   "category": "recreational",
@@ -2347,15 +2338,6 @@ export const poiExtraBhutanLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Haa Wangchuk LoDzong",
-                  "text": "A Haa-völgy történelmi erődítménye, amelyet eredetileg a régió védelmére építettek.",
-                  "category": "castle",
-                  "coords": [
-                        89.292538,
-                        27.371065
-                  ]
-            },
             {
                   "name": "Recreational Park",
                   "text": "Szabadidős park a Haa-völgyben, amely pihenési lehetőséget nyújt a magashegyi jaklegelők között.",
@@ -2440,15 +2422,6 @@ export const poiExtraBhutanLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Haa Wangchuk LoDzong",
-                  "text": "O fortăreață istorică în Valea Haa, construită inițial pentru apărarea regiunii.",
-                  "category": "castle",
-                  "coords": [
-                        89.292538,
-                        27.371065
-                  ]
-            },
-            {
                   "name": "Recreational Park",
                   "text": "O zonă de agrement în Valea Haa, oferind spațiu pentru relaxare în mijlocul pășunilor de iaci de mare altitudine.",
                   "category": "recreational",
@@ -2531,15 +2504,6 @@ export const poiExtraBhutanLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Haa Wangchuk LoDzong",
-                  "text": "A historic fortress in the Haa Valley, originally built to defend the region.",
-                  "category": "castle",
-                  "coords": [
-                        89.292538,
-                        27.371065
-                  ]
-            },
             {
                   "name": "Recreational Park",
                   "text": "An outdoor leisure area in the Haa Valley offering space for relaxation amidst the high-altitude yak pastures.",

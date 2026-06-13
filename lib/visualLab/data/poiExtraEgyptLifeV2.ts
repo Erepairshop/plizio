@@ -423,33 +423,6 @@ export const poiExtraEgyptLifeV2: POI[] = [
                         25.552915,
                         29.190165
                   ]
-            },
-            {
-                  "name": "House of Siwa",
-                  "text": "Dieses Museum zeigt die einzigartige traditionelle Kultur, Kleidung und das Erbe der Wüstenoase.",
-                  "category": "museum",
-                  "coords": [
-                        25.518037,
-                        29.203772
-                  ]
-            },
-            {
-                  "name": "Fort of Shali",
-                  "text": "Die historischen Ruinen dieser zentralen Oasenfestung wurden aus dem traditionellen Salz- und Lehmziegelmaterial der Region erbaut.",
-                  "category": "landmark",
-                  "coords": [
-                        25.517929,
-                        29.20119
-                  ]
-            },
-            {
-                  "name": "Temple of Amun",
-                  "text": "Diese antike Tempelruine in der Oase ist berühmt dafür, das legendäre Orakel von Amun beherbergt zu haben.",
-                  "category": "landmark",
-                  "coords": [
-                        25.543428,
-                        29.205163
-                  ]
             }
       ],
       "hu": [
@@ -460,33 +433,6 @@ export const poiExtraEgyptLifeV2: POI[] = [
                   "coords": [
                         25.552915,
                         29.190165
-                  ]
-            },
-            {
-                  "name": "House of Siwa",
-                  "text": "Ez a múzeum a sivatagi oázis egyedi hagyományos kultúráját, ruházatát és örökségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        25.518037,
-                        29.203772
-                  ]
-            },
-            {
-                  "name": "Fort of Shali",
-                  "text": "Ennek a központi oáziserődnek a történelmi romjai a régió hagyományos só- és vályogtégla anyagából épültek.",
-                  "category": "landmark",
-                  "coords": [
-                        25.517929,
-                        29.20119
-                  ]
-            },
-            {
-                  "name": "Temple of Amun",
-                  "text": "Ez az ősi oázisbeli templomrom arról híres, hogy a legendás Ámon-jósdának adott otthont.",
-                  "category": "landmark",
-                  "coords": [
-                        25.543428,
-                        29.205163
                   ]
             }
       ],
@@ -499,33 +445,6 @@ export const poiExtraEgyptLifeV2: POI[] = [
                         25.552915,
                         29.190165
                   ]
-            },
-            {
-                  "name": "House of Siwa",
-                  "text": "Acest muzeu expune cultura tradițională unică, îmbrăcămintea și moștenirea oazei din deșert.",
-                  "category": "museum",
-                  "coords": [
-                        25.518037,
-                        29.203772
-                  ]
-            },
-            {
-                  "name": "Fort of Shali",
-                  "text": "Ruinele istorice ale acestei fortărețe centrale din oază sunt construite din materialul tradițional de sare și cărămidă din lut al regiunii.",
-                  "category": "landmark",
-                  "coords": [
-                        25.517929,
-                        29.20119
-                  ]
-            },
-            {
-                  "name": "Temple of Amun",
-                  "text": "Aceste ruine ale templului antic din oază sunt faimoase pentru găzduirea legendarului Oracol al lui Amon.",
-                  "category": "landmark",
-                  "coords": [
-                        25.543428,
-                        29.205163
-                  ]
             }
       ],
       "en": [
@@ -536,33 +455,6 @@ export const poiExtraEgyptLifeV2: POI[] = [
                   "coords": [
                         25.552915,
                         29.190165
-                  ]
-            },
-            {
-                  "name": "House of Siwa",
-                  "text": "This museum showcases the unique traditional culture, clothing, and heritage of the desert oasis.",
-                  "category": "museum",
-                  "coords": [
-                        25.518037,
-                        29.203772
-                  ]
-            },
-            {
-                  "name": "Fort of Shali",
-                  "text": "The historic ruins of this central oasis fortress are built from the region's traditional salt and mud-brick material.",
-                  "category": "landmark",
-                  "coords": [
-                        25.517929,
-                        29.20119
-                  ]
-            },
-            {
-                  "name": "Temple of Amun",
-                  "text": "This ancient temple ruin in the oasis is famously known for having hosted the legendary Oracle of Amun.",
-                  "category": "landmark",
-                  "coords": [
-                        25.543428,
-                        29.205163
                   ]
             }
       ]
@@ -2293,42 +2185,6 @@ export const poiExtraEgyptLifeV2: POI[] = [
     id: "rosseta-fruit-agriculture-life-v2", "sights": {
       "de": [
             {
-                  "name": "Amasyali House",
-                  "text": "Diese gut erhaltene historische Residenz aus der osmanischen Zeit in Rosetta ist für ihre kunstvollen Holzarbeiten bekannt.",
-                  "category": "landmark",
-                  "coords": [
-                        30.419678,
-                        31.403641
-                  ]
-            },
-            {
-                  "name": "Rosetta-Museum",
-                  "text": "Das Rashid-Nationalmuseum ist in einem traditionellen osmanischen Herrenhaus aus dem 18. Jahrhundert untergebracht und stellt lokale Artefakte aus.",
-                  "category": "museum",
-                  "coords": [
-                        30.422121,
-                        31.404892
-                  ]
-            },
-            {
-                  "name": "Wafya Al-Samet Mosque",
-                  "text": "Diese historische islamische Kultstätte aus Backstein befindet sich in der Stadt Rosetta.",
-                  "category": "religious",
-                  "coords": [
-                        30.421038,
-                        31.400131
-                  ]
-            },
-            {
-                  "name": "Al-Mahaly Mosque",
-                  "text": "Die Al-Mahaly-Moschee in Rosetta zeichnet sich durch ihre markanten Holzsäulen und ihr historisches islamisches Design aus.",
-                  "category": "religious",
-                  "coords": [
-                        30.421044,
-                        31.404167
-                  ]
-            },
-            {
                   "name": "Fort Julien",
                   "text": "In dieser mamelukischen Festung aus dem 15. Jahrhundert wurde 1799 der berühmte Stein von Rosette entdeckt.",
                   "category": "castle",
@@ -2339,42 +2195,6 @@ export const poiExtraEgyptLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Amasyali House",
-                  "text": "Ez a jó állapotban fennmaradt oszmán kori történelmi rezidencia Rosettában a díszes fafaragásairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        30.419678,
-                        31.403641
-                  ]
-            },
-            {
-                  "name": "Rashid National Museum",
-                  "text": "A Rashid Nemzeti Múzeum egy hagyományos 18. századi oszmán kúriában kapott helyet, amely helyi leleteket mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        30.422121,
-                        31.404892
-                  ]
-            },
-            {
-                  "name": "Wafya Al-Samet Mosque",
-                  "text": "Ez a történelmi, téglából épült iszlám istentiszteleti hely Rosetta városában található.",
-                  "category": "religious",
-                  "coords": [
-                        30.421038,
-                        31.400131
-                  ]
-            },
-            {
-                  "name": "Al-Mahaly Mosque",
-                  "text": "A rosettai Al-Mahaly mecsetet jellegzetes faoszlopai és történelmi iszlám dizájnja jellemzi.",
-                  "category": "religious",
-                  "coords": [
-                        30.421044,
-                        31.404167
-                  ]
-            },
             {
                   "name": "Fort Julien",
                   "text": "Ebben a 15. századi mameluk erődben fedezték fel 1799-ben a híres rosette-i követ.",
@@ -2387,42 +2207,6 @@ export const poiExtraEgyptLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Amasyali House",
-                  "text": "Această reședință istorică bine conservată din epoca otomană din Rosetta este cunoscută pentru lemnăria sa ornamentată.",
-                  "category": "landmark",
-                  "coords": [
-                        30.419678,
-                        31.403641
-                  ]
-            },
-            {
-                  "name": "Rashid National Museum",
-                  "text": "Muzeul Național Rashid este găzduit într-un conac tradițional otoman din secolul al XVIII-lea și expune artefacte locale.",
-                  "category": "museum",
-                  "coords": [
-                        30.422121,
-                        31.404892
-                  ]
-            },
-            {
-                  "name": "Wafya Al-Samet Mosque",
-                  "text": "Acest lăcaș de cult islamic istoric din cărămidă este situat în orașul Rosetta.",
-                  "category": "religious",
-                  "coords": [
-                        30.421038,
-                        31.400131
-                  ]
-            },
-            {
-                  "name": "Al-Mahaly Mosque",
-                  "text": "Moscheea Al-Mahaly din Rosetta se caracterizează prin coloanele sale de lemn proeminente și designul islamic istoric.",
-                  "category": "religious",
-                  "coords": [
-                        30.421044,
-                        31.404167
-                  ]
-            },
-            {
                   "name": "Fort Julien",
                   "text": "În această fortificație mamelucă din secolul al XV-lea a fost descoperită celebra Piatră din Rosetta în 1799.",
                   "category": "castle",
@@ -2433,42 +2217,6 @@ export const poiExtraEgyptLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Amasyali House",
-                  "text": "This well-preserved historical Ottoman-era residence in Rosetta is known for its ornate woodwork.",
-                  "category": "landmark",
-                  "coords": [
-                        30.419678,
-                        31.403641
-                  ]
-            },
-            {
-                  "name": "Rashid National Museum",
-                  "text": "The Rashid National Museum is housed in a traditional 18th-century Ottoman mansion displaying local artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        30.422121,
-                        31.404892
-                  ]
-            },
-            {
-                  "name": "Wafya Al-Samet Mosque",
-                  "text": "This historic brick Islamic place of worship is situated in the city of Rosetta.",
-                  "category": "religious",
-                  "coords": [
-                        30.421038,
-                        31.400131
-                  ]
-            },
-            {
-                  "name": "Al-Mahaly Mosque",
-                  "text": "The Al-Mahaly Mosque in Rosetta is characterized by its prominent wooden columns and historic Islamic design.",
-                  "category": "religious",
-                  "coords": [
-                        30.421044,
-                        31.404167
-                  ]
-            },
             {
                   "name": "Fort Julien",
                   "text": "The famous Rosetta Stone was discovered at this 15th-century Mamluk fortification in 1799.",
@@ -2623,30 +2371,12 @@ export const poiExtraEgyptLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Egiptian Obelisk",
-                  "text": "Dieser steinerne ägyptische Obelisk ragt als historisches Monument in der Landschaft nahe Sohag empor.",
-                  "category": "landmark",
-                  "coords": [
-                        31.706461,
-                        26.560053
-                  ]
-            },
-            {
                   "name": "White Monastery",
                   "text": "Das Weiße Kloster ist eine koptisch-orthodoxe Anlage, die für ihre massiven Mauern aus weißem Kalkstein bekannt ist.",
                   "category": "religious",
                   "coords": [
                         31.645735,
                         26.534551
-                  ]
-            },
-            {
-                  "name": "Merritt Temple of Amun",
-                  "text": "Der Merritt-Tempel des Amun ist eine archäologische Ausgrabungsstätte, die den Kult des altägyptischen Gottes Amun dokumentiert.",
-                  "category": "historical",
-                  "coords": [
-                        31.746353,
-                        26.565173
                   ]
             }
       ],
@@ -2688,30 +2418,12 @@ export const poiExtraEgyptLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Egiptian Obelisk",
-                  "text": "Ez a kőből faragott egyiptomi obeliszk történelmi emlékműként magasodik Szóhág közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        31.706461,
-                        26.560053
-                  ]
-            },
-            {
                   "name": "White Monastery",
                   "text": "A Fehér Kolostor egy kopt ortodox épületegyüttes, amely fehér mészkőből épült masszív falairól híres.",
                   "category": "religious",
                   "coords": [
                         31.645735,
                         26.534551
-                  ]
-            },
-            {
-                  "name": "Merritt Temple of Amun",
-                  "text": "Az Amonnak szentelt Merritt-templom az ókori egyiptomi isten kultuszának régészeti emléke.",
-                  "category": "historical",
-                  "coords": [
-                        31.746353,
-                        26.565173
                   ]
             }
       ],
@@ -2753,30 +2465,12 @@ export const poiExtraEgyptLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Egiptian Obelisk",
-                  "text": "Acest obelisc egiptean din piatră se înalță ca un monument istoric distinctiv în peisajul din apropiere de Sohag.",
-                  "category": "landmark",
-                  "coords": [
-                        31.706461,
-                        26.560053
-                  ]
-            },
-            {
                   "name": "White Monastery",
                   "text": "Mănăstirea Albă este un lăcaș copt ortodox renumit pentru zidurile sale masive construite din calcar alb.",
                   "category": "religious",
                   "coords": [
                         31.645735,
                         26.534551
-                  ]
-            },
-            {
-                  "name": "Merritt Temple of Amun",
-                  "text": "Templul lui Amon de la Merritt este un sit arheologic care reflectă cultul vechiului zeu egiptean Amon.",
-                  "category": "historical",
-                  "coords": [
-                        31.746353,
-                        26.565173
                   ]
             }
       ],
@@ -2818,30 +2512,12 @@ export const poiExtraEgyptLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Egiptian Obelisk",
-                  "text": "This stone Egyptian obelisk stands as a prominent historical monument in the landscape near Sohag.",
-                  "category": "landmark",
-                  "coords": [
-                        31.706461,
-                        26.560053
-                  ]
-            },
-            {
                   "name": "White Monastery",
                   "text": "The White Monastery is a Coptic Orthodox complex renowned for its massive walls built from white limestone.",
                   "category": "religious",
                   "coords": [
                         31.645735,
                         26.534551
-                  ]
-            },
-            {
-                  "name": "Merritt Temple of Amun",
-                  "text": "The Merritt Temple of Amun is an archaeological site reflecting the ancient worship of the Egyptian god Amun.",
-                  "category": "historical",
-                  "coords": [
-                        31.746353,
-                        26.565173
                   ]
             }
       ]

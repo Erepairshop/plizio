@@ -661,86 +661,10 @@ export const poiExtraLesothoCitiesV2: POI[] = [
   },
   {
     id: "morija-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Morija Museum & Archives",
-                  "text": "Ein Museum in Morija, Lesotho, das die größte Sammlung von Basotho-Artefakten und Missionsarchiven beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        27.508848,
-                        -29.626312
-                  ]
-            },
-            {
-                  "name": "Dinosaur Footprints",
-                  "text": "Fossilisierte Dinosaurierabdrücke auf einer Sandsteinplatte in Morija.",
-                  "category": "historical",
-                  "coords": [
-                        27.513085,
-                        -29.638767
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Morija Museum & Archives",
-                  "text": "Egy múzeum Morijában, Lesothóban, amely a legnagyobb Basotho műtárgy- és missziós archívumgyűjteményt őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        27.508848,
-                        -29.626312
-                  ]
-            },
-            {
-                  "name": "Dinosaur Footprints",
-                  "text": "Megkövesedett dinoszaurusz lábnyomok egy homokkőlapon Morijában.",
-                  "category": "historical",
-                  "coords": [
-                        27.513085,
-                        -29.638767
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Morija Museum & Archives",
-                  "text": "Un muzeu în Morija, Lesotho, care găzduiește cea mai mare colecție de artefacte basotho și arhive misionare.",
-                  "category": "museum",
-                  "coords": [
-                        27.508848,
-                        -29.626312
-                  ]
-            },
-            {
-                  "name": "Dinosaur Footprints",
-                  "text": "Urme fosilizate de dinozaur pe o placă de gresie la Morija.",
-                  "category": "historical",
-                  "coords": [
-                        27.513085,
-                        -29.638767
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Morija Museum & Archives",
-                  "text": "A museum in Morija, Lesotho, housing the largest collection of Basotho artifacts and missionary archives.",
-                  "category": "museum",
-                  "coords": [
-                        27.508848,
-                        -29.626312
-                  ]
-            },
-            {
-                  "name": "Dinosaur Footprints",
-                  "text": "Fossilized dinosaur footprints on a sandstone slab at Morija.",
-                  "category": "historical",
-                  "coords": [
-                        27.513085,
-                        -29.638767
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "LS-A",
@@ -1788,24 +1712,6 @@ export const poiExtraLesothoCitiesV2: POI[] = [
                         27.661425,
                         -29.345331
                   ]
-            },
-            {
-                  "name": "Qiloane",
-                  "text": "Auffälliger kegelförmiger Hügel nahe Thaba-Bosiu, eine natürliche Sehenswürdigkeit in Lesotho.",
-                  "category": "natural",
-                  "coords": [
-                        27.686176,
-                        -29.348195
-                  ]
-            },
-            {
-                  "name": "Thaba-Bosiu",
-                  "text": "Ein Sandsteinplateau in der Nähe von Maseru, Begräbnisstätte von König Moshoeshoe I.",
-                  "category": "natural",
-                  "coords": [
-                        27.671202,
-                        -29.354293
-                  ]
             }
       ],
       "hu": [
@@ -1816,24 +1722,6 @@ export const poiExtraLesothoCitiesV2: POI[] = [
                   "coords": [
                         27.661425,
                         -29.345331
-                  ]
-            },
-            {
-                  "name": "Qiloane",
-                  "text": "Feltűnő kúp alakú domb Thaba-Bosiu közelében, természeti látványosság Lesothóban.",
-                  "category": "natural",
-                  "coords": [
-                        27.686176,
-                        -29.348195
-                  ]
-            },
-            {
-                  "name": "Thaba-Bosiu",
-                  "text": "Egy homokkő-fennsík Maseru közelében, I. Moshoeshoe király temetkezési helye.",
-                  "category": "natural",
-                  "coords": [
-                        27.671202,
-                        -29.354293
                   ]
             }
       ],
@@ -1846,24 +1734,6 @@ export const poiExtraLesothoCitiesV2: POI[] = [
                         27.661425,
                         -29.345331
                   ]
-            },
-            {
-                  "name": "Qiloane",
-                  "text": "Deal conic distinct lângă Thaba-Bosiu, un reper natural în Lesotho.",
-                  "category": "natural",
-                  "coords": [
-                        27.686176,
-                        -29.348195
-                  ]
-            },
-            {
-                  "name": "Thaba-Bosiu",
-                  "text": "Un platou de gresie lângă Maseru, locul de înmormântare al regelui Moshoeshoe I.",
-                  "category": "natural",
-                  "coords": [
-                        27.671202,
-                        -29.354293
-                  ]
             }
       ],
       "en": [
@@ -1874,24 +1744,6 @@ export const poiExtraLesothoCitiesV2: POI[] = [
                   "coords": [
                         27.661425,
                         -29.345331
-                  ]
-            },
-            {
-                  "name": "Qiloane",
-                  "text": "Distinctive conical hill near Thaba-Bosiu, a natural landmark in Lesotho.",
-                  "category": "natural",
-                  "coords": [
-                        27.686176,
-                        -29.348195
-                  ]
-            },
-            {
-                  "name": "Thaba-Bosiu",
-                  "text": "A sandstone plateau near Maseru, burial site of King Moshoeshoe I.",
-                  "category": "natural",
-                  "coords": [
-                        27.671202,
-                        -29.354293
                   ]
             }
       ]

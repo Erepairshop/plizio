@@ -1236,50 +1236,10 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     }, image: "/poi-images/qala-beni-hammad-history-v2.webp"},
   {
     id: "mzab-valley-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Cathedral of Ghardaïa",
-                  "text": "Eine ehemalige katholische Kathedrale, die als bemerkenswertes Gotteshaus im M'zab-Tal dient.",
-                  "category": "religious",
-                  "coords": [
-                        3.670655,
-                        32.48829
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cathedral of Ghardaïa",
-                  "text": "Egykori katolikus katedrális, amely jelentős istentiszteleti helyként szolgált a M'zab-völgyben.",
-                  "category": "religious",
-                  "coords": [
-                        3.670655,
-                        32.48829
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Cathedral of Ghardaïa",
-                  "text": "O fostă catedrală catolică care servește ca un lăcaș de cult remarcabil în Valea M'zab.",
-                  "category": "religious",
-                  "coords": [
-                        3.670655,
-                        32.48829
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cathedral of Ghardaïa",
-                  "text": "A former Catholic cathedral serving as a notable place of worship in the M'zab Valley.",
-                  "category": "religious",
-                  "coords": [
-                        3.670655,
-                        32.48829
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "DZ-47",
@@ -3513,33 +3473,6 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
     id: "bida-ruins-history-v2", "sights": {
       "de": [
             {
-                  "name": "Théâtre en plein air moudjahid Mechedou Salah",
-                  "text": "Ein Freilicht-Amphitheater, das dem Moudjahid Mechedou Salah gewidmet ist und für kulturelle Veranstaltungen genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        3.897961,
-                        36.376016
-                  ]
-            },
-            {
-                  "name": "Théâtre régional Amar-Laskri",
-                  "text": "Der regionale Veranstaltungsort für darstellende Künste, der nach Amar Laskri benannt wurde.",
-                  "category": "cultural",
-                  "coords": [
-                        3.901017,
-                        36.375832
-                  ]
-            },
-            {
-                  "name": "AB aqua park",
-                  "text": "Ein Freizeit-Wasserpark mit großen Schwimmbädern und aufregenden Wasserrutschen.",
-                  "category": "recreational",
-                  "coords": [
-                        3.877059,
-                        36.383717
-                  ]
-            },
-            {
                   "name": "Memorial Des Martyrs BOUIRA 1954 A 1962",
                   "text": "Ein historisches Denkmal zum Gedenken an die gefallenen Helden des Algerienkriegs von 1954 bis 1962.",
                   "category": "historical",
@@ -3547,63 +3480,9 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
                         3.892212,
                         36.37356
                   ]
-            },
-            {
-                  "name": "Musee el moujahid",
-                  "text": "Ein historisches Museum, das dem algerischen Unabhängigkeitskampf und den Mudschaheddin gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        3.882886,
-                        36.379254
-                  ]
-            },
-            {
-                  "name": "Theatre municipal",
-                  "text": "Das städtische Theater der Region, in dem regelmäßig Theaterstücke und Gemeinschaftsaufführungen stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        3.900687,
-                        36.380726
-                  ]
-            },
-            {
-                  "name": "Bordj Hamza",
-                  "text": "Die alten Steinruinen der historischen Festung Bordj Hamza.",
-                  "category": "historical",
-                  "coords": [
-                        3.892968,
-                        36.369452
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Théâtre en plein air moudjahid Mechedou Salah",
-                  "text": "Egy szabadtéri amfiteátrum, amelyet Moudjahid Mechedou Salah-nak szenteltek, és kulturális rendezvényeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        3.897961,
-                        36.376016
-                  ]
-            },
-            {
-                  "name": "Théâtre régional Amar-Laskri",
-                  "text": "Az Amar Laskriról elnevezett regionális előadó-művészeti központ.",
-                  "category": "cultural",
-                  "coords": [
-                        3.901017,
-                        36.375832
-                  ]
-            },
-            {
-                  "name": "AB aqua park",
-                  "text": "Egy szabadidős vízipark, amely úszómedencékkel és izgalmas vízi csúszdákkal várja a látogatókat.",
-                  "category": "recreational",
-                  "coords": [
-                        3.877059,
-                        36.383717
-                  ]
-            },
             {
                   "name": "Memorial Des Martyrs BOUIRA 1954 A 1962",
                   "text": "Történelmi emlékmű, amely az 1954-1962 közötti algériai háború elesett hőseinek állít emléket.",
@@ -3612,63 +3491,9 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
                         3.892212,
                         36.37356
                   ]
-            },
-            {
-                  "name": "Musee el moujahid",
-                  "text": "Történelmi múzeum, amely az algériai függetlenségi harcnak és a mudzsaheddeknek állít emléket.",
-                  "category": "museum",
-                  "coords": [
-                        3.882886,
-                        36.379254
-                  ]
-            },
-            {
-                  "name": "Theatre municipal",
-                  "text": "A helyi önkormányzati színház, amely színdaraboknak és közösségi előadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        3.900687,
-                        36.380726
-                  ]
-            },
-            {
-                  "name": "Bordj Hamza",
-                  "text": "A történelmi Bordj Hamza erőd ősi kőromjai.",
-                  "category": "historical",
-                  "coords": [
-                        3.892968,
-                        36.369452
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Théâtre en plein air moudjahid Mechedou Salah",
-                  "text": "Un amfiteatru în aer liber dedicat lui Moudjahid Mechedou Salah, folosit pentru evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        3.897961,
-                        36.376016
-                  ]
-            },
-            {
-                  "name": "Théâtre régional Amar-Laskri",
-                  "text": "Locul regional pentru artele spectacolului, numit după Amar Laskri.",
-                  "category": "cultural",
-                  "coords": [
-                        3.901017,
-                        36.375832
-                  ]
-            },
-            {
-                  "name": "AB aqua park",
-                  "text": "Un parc acvatic de agrement cu piscine mari și tobogane cu apă.",
-                  "category": "recreational",
-                  "coords": [
-                        3.877059,
-                        36.383717
-                  ]
-            },
             {
                   "name": "Memorial Des Martyrs BOUIRA 1954 A 1962",
                   "text": "Un monument istoric care comemorează eroii căzuți în Războiul din Algeria între 1954 și 1962.",
@@ -3677,63 +3502,9 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
                         3.892212,
                         36.37356
                   ]
-            },
-            {
-                  "name": "Musee el moujahid",
-                  "text": "Un muzeu istoric dedicat luptei algeriene pentru independență și mujahedinilor.",
-                  "category": "museum",
-                  "coords": [
-                        3.882886,
-                        36.379254
-                  ]
-            },
-            {
-                  "name": "Theatre municipal",
-                  "text": "Teatrul municipal local, care găzduiește piese de teatru și spectacole comunitare.",
-                  "category": "cultural",
-                  "coords": [
-                        3.900687,
-                        36.380726
-                  ]
-            },
-            {
-                  "name": "Bordj Hamza",
-                  "text": "Vechile ruine de piatră ale fortăreței istorice Bordj Hamza.",
-                  "category": "historical",
-                  "coords": [
-                        3.892968,
-                        36.369452
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Théâtre en plein air moudjahid Mechedou Salah",
-                  "text": "An open-air amphitheatre dedicated to Moudjahid Mechedou Salah, used for cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        3.897961,
-                        36.376016
-                  ]
-            },
-            {
-                  "name": "Théâtre régional Amar-Laskri",
-                  "text": "The regional performing arts venue named after Amar Laskri.",
-                  "category": "cultural",
-                  "coords": [
-                        3.901017,
-                        36.375832
-                  ]
-            },
-            {
-                  "name": "AB aqua park",
-                  "text": "A recreational water park featuring swimming pools and water slides.",
-                  "category": "recreational",
-                  "coords": [
-                        3.877059,
-                        36.383717
-                  ]
-            },
             {
                   "name": "Memorial Des Martyrs BOUIRA 1954 A 1962",
                   "text": "A historical monument commemorating the fallen heroes of the 1954-1962 Algerian War.",
@@ -3741,33 +3512,6 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
                   "coords": [
                         3.892212,
                         36.37356
-                  ]
-            },
-            {
-                  "name": "Musee el moujahid",
-                  "text": "A historical museum dedicated to the Algerian struggle for independence and the Moudjahideen.",
-                  "category": "museum",
-                  "coords": [
-                        3.882886,
-                        36.379254
-                  ]
-            },
-            {
-                  "name": "Theatre municipal",
-                  "text": "A local municipal theatre hosting plays and community performances.",
-                  "category": "cultural",
-                  "coords": [
-                        3.900687,
-                        36.380726
-                  ]
-            },
-            {
-                  "name": "Bordj Hamza",
-                  "text": "The ancient stone ruins of the historical Bordj Hamza fortress.",
-                  "category": "historical",
-                  "coords": [
-                        3.892968,
-                        36.369452
                   ]
             }
       ]
@@ -4954,24 +4698,6 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khaled",
-                  "text": "Das Theater Khaled in Ouargla bietet eine Bühne für regionale arabische Aufführungen in der Oasenstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        5.335262,
-                        31.946793
-                  ]
-            },
-            {
-                  "name": "Das große Haus",
-                  "text": "„The Big House“ in Ouargla ist ein festungsartiges Anwesen, das die typische wuchtige Architektur der algerischen Wüstenstädte widerspiegelt.",
-                  "category": "castle",
-                  "coords": [
-                        5.326422,
-                        31.936047
-                  ]
-            },
-            {
                   "name": "Insurance",
                   "text": "Der Aussichtspunkt „Insurance“ in Ouargla bietet einen weiten Blick über die flachen Dächer der Oasenstadt und die angrenzende Sahara.",
                   "category": "natural",
@@ -4981,39 +4707,12 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "CENTRE CULTUREL HADJAJ",
-                  "text": "Das Centre Culturel Hadjaj ist ein kultureller Treffpunkt in Ouargla, in dem lokale Kunstausstellungen und Bildungsprogramme stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        5.333665,
-                        31.944202
-                  ]
-            },
-            {
-                  "name": "Musée El Moudjahid",
-                  "text": "Das Musée El Moudjahid in Ouargla dokumentiert die Rolle der südlichen Sahara-Region während des algerischen Befreiungskrieges.",
-                  "category": "museum",
-                  "coords": [
-                        5.33002,
-                        31.959181
-                  ]
-            },
-            {
                   "name": "Bordj Chandez",
                   "text": "Bordj Chandez ist ein koloniales Fort in Ouargla, das mit seinen dicken Lehmziegelmauern ehemals der Überwachung der Wüstenrouten diente.",
                   "category": "castle",
                   "coords": [
                         5.327445,
                         31.956932
-                  ]
-            },
-            {
-                  "name": "Maison de la Culture",
-                  "text": "Die Maison de la Culture in Ouargla ist ein modernes Veranstaltungszentrum für traditionelle Musik und Festivitäten der Oase.",
-                  "category": "cultural",
-                  "coords": [
-                        5.328323,
-                        31.958676
                   ]
             },
             {
@@ -5060,15 +4759,6 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
                         5.312402,
                         31.965143
                   ]
-            },
-            {
-                  "name": "Rondpint ELHADJRA",
-                  "text": "Der Kreisverkehr ELHADJRA ist ein markanter Verkehrsknotenpunkt, der die von Palmen gesäumten Straßen Ouarglas miteinander verbindet.",
-                  "category": "landmark",
-                  "coords": [
-                        5.324895,
-                        31.961797
-                  ]
             }
       ],
       "hu": [
@@ -5091,24 +4781,6 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khaled",
-                  "text": "Az ouarglai Khaled színház regionális arab nyelvű előadásoknak ad otthont az oázisvárosban.",
-                  "category": "cultural",
-                  "coords": [
-                        5.335262,
-                        31.946793
-                  ]
-            },
-            {
-                  "name": "The Big House",
-                  "text": "A „The Big House” egy erődszerű épület Ouarglában, amely az algériai sivatagi városok jellegzetes, masszív építészetét képviseli.",
-                  "category": "castle",
-                  "coords": [
-                        5.326422,
-                        31.936047
-                  ]
-            },
-            {
                   "name": "Insurance",
                   "text": "Az „Insurance” kilátópont Ouarglában széles panorámát nyújt az oázisváros lapos tetőire és a környező Szaharára.",
                   "category": "natural",
@@ -5118,39 +4790,12 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "CENTRE CULTUREL HADJAJ",
-                  "text": "A Centre Culturel Hadjaj egy ouarglai kulturális központ, amely helyi művészeti kiállításoknak és oktatási programoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        5.333665,
-                        31.944202
-                  ]
-            },
-            {
-                  "name": "Musée El Moudjahid",
-                  "text": "Az ouarglai Musée El Moudjahid a déli szaharai régió szerepét dokumentálja az algériai felszabadító háború során.",
-                  "category": "museum",
-                  "coords": [
-                        5.33002,
-                        31.959181
-                  ]
-            },
-            {
                   "name": "Bordj Chandez",
                   "text": "A Bordj Chandez egy ouarglai gyarmati erődítmény, amelynek vastag vályogfalai egykor a sivatagi útvonalak ellenőrzését szolgálták.",
                   "category": "castle",
                   "coords": [
                         5.327445,
                         31.956932
-                  ]
-            },
-            {
-                  "name": "Maison de la Culture",
-                  "text": "Az ouarglai Maison de la Culture egy modern rendezvényközpont az oázis hagyományos zenei előadásai és fesztiváljai számára.",
-                  "category": "cultural",
-                  "coords": [
-                        5.328323,
-                        31.958676
                   ]
             },
             {
@@ -5197,15 +4842,6 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
                         5.312402,
                         31.965143
                   ]
-            },
-            {
-                  "name": "Rondpint ELHADJRA",
-                  "text": "Az ELHADJRA körforgalom egy jelentős közlekedési csomópont, amely Ouargla pálmafákkal szegélyezett utcáit köti össze.",
-                  "category": "landmark",
-                  "coords": [
-                        5.324895,
-                        31.961797
-                  ]
             }
       ],
       "ro": [
@@ -5228,24 +4864,6 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khaled",
-                  "text": "Teatrul Khaled din Ouargla oferă o scenă pentru spectacole regionale arabe în inima orașului-oază.",
-                  "category": "cultural",
-                  "coords": [
-                        5.335262,
-                        31.946793
-                  ]
-            },
-            {
-                  "name": "The Big House",
-                  "text": "„The Big House” din Ouargla este o clădire fortificată care reflectă arhitectura masivă tipică a orașelor deșertice algeriene.",
-                  "category": "castle",
-                  "coords": [
-                        5.326422,
-                        31.936047
-                  ]
-            },
-            {
                   "name": "Insurance",
                   "text": "Punctul de belvedere „Insurance” din Ouargla oferă o priveliște amplă asupra acoperișurilor plate ale oazei și a Saharei înconjurătoare.",
                   "category": "natural",
@@ -5255,39 +4873,12 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "CENTRE CULTUREL HADJAJ",
-                  "text": "Centre Culturel Hadjaj este un spațiu cultural din Ouargla care găzduiește expoziții de artă locală și programe educaționale.",
-                  "category": "cultural",
-                  "coords": [
-                        5.333665,
-                        31.944202
-                  ]
-            },
-            {
-                  "name": "Musée El Moudjahid",
-                  "text": "Muzeul El Moudjahid din Ouargla documentează rolul regiunii sudice sahariene în timpul Războiului de Eliberare Algerian.",
-                  "category": "museum",
-                  "coords": [
-                        5.33002,
-                        31.959181
-                  ]
-            },
-            {
                   "name": "Bordj Chandez",
                   "text": "Bordj Chandez este un fort colonial din Ouargla ale cărui ziduri groase de chirpici serveau odinioară la paza rutelor deșertice.",
                   "category": "castle",
                   "coords": [
                         5.327445,
                         31.956932
-                  ]
-            },
-            {
-                  "name": "Maison de la Culture",
-                  "text": "Maison de la Culture din Ouargla este un centru de evenimente modern pentru muzica tradițională și festivalurile oazei.",
-                  "category": "cultural",
-                  "coords": [
-                        5.328323,
-                        31.958676
                   ]
             },
             {
@@ -5334,15 +4925,6 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
                         5.312402,
                         31.965143
                   ]
-            },
-            {
-                  "name": "Rondpint ELHADJRA",
-                  "text": "Sensul giratoriu ELHADJRA este un nod rutier distinctiv care conectează străzile mărginite de palmieri din Ouargla.",
-                  "category": "landmark",
-                  "coords": [
-                        5.324895,
-                        31.961797
-                  ]
             }
       ],
       "en": [
@@ -5365,24 +4947,6 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Khaled",
-                  "text": "The Khaled theatre in Ouargla provides a stage for regional Arabic performances within the oasis city.",
-                  "category": "cultural",
-                  "coords": [
-                        5.335262,
-                        31.946793
-                  ]
-            },
-            {
-                  "name": "The Big House",
-                  "text": "\"The Big House\" in Ouargla is a fortress-like estate reflecting the massive architecture typical of Algerian desert cities.",
-                  "category": "castle",
-                  "coords": [
-                        5.326422,
-                        31.936047
-                  ]
-            },
-            {
                   "name": "Insurance",
                   "text": "The \"Insurance\" viewpoint in Ouargla offers a sweeping look over the flat roofs of the oasis city and the adjacent Sahara.",
                   "category": "natural",
@@ -5392,39 +4956,12 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "CENTRE CULTUREL HADJAJ",
-                  "text": "The Centre Culturel Hadjaj is a cultural gathering place in Ouargla hosting local art exhibitions and educational programs.",
-                  "category": "cultural",
-                  "coords": [
-                        5.333665,
-                        31.944202
-                  ]
-            },
-            {
-                  "name": "Musée El Moudjahid",
-                  "text": "The Musée El Moudjahid in Ouargla documents the role of the southern Saharan region during the Algerian War of Independence.",
-                  "category": "museum",
-                  "coords": [
-                        5.33002,
-                        31.959181
-                  ]
-            },
-            {
                   "name": "Bordj Chandez",
                   "text": "Bordj Chandez is a colonial fort in Ouargla whose thick adobe walls once served to monitor the Saharan trade routes.",
                   "category": "castle",
                   "coords": [
                         5.327445,
                         31.956932
-                  ]
-            },
-            {
-                  "name": "Maison de la Culture",
-                  "text": "The Maison de la Culture in Ouargla is a modern venue for traditional music and festivals of the oasis.",
-                  "category": "cultural",
-                  "coords": [
-                        5.328323,
-                        31.958676
                   ]
             },
             {
@@ -5470,15 +5007,6 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
                   "coords": [
                         5.312402,
                         31.965143
-                  ]
-            },
-            {
-                  "name": "Rondpint ELHADJRA",
-                  "text": "The ELHADJRA roundabout is a distinctive traffic hub connecting the palm-lined streets of Ouargla.",
-                  "category": "landmark",
-                  "coords": [
-                        5.324895,
-                        31.961797
                   ]
             }
       ]

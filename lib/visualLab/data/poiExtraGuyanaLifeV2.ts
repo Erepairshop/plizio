@@ -1539,24 +1539,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
     id: "enmore-sugar-fields-life-v2", "sights": {
       "de": [
             {
-                  "name": "Linden drive",
-                  "text": "Der Linden Drive ist eine von Bäumen gesäumte Route, die durch die ruhigen, ehemaligen Zuckerrohrgebiete von Enmore führt.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.005943,
-                        6.776297
-                  ]
-            },
-            {
-                  "name": "Golden Heart Day and Night Care Centre",
-                  "text": "Das Golden Heart Day and Night Care Centre dient als wichtige Betreuungseinrichtung, die Kunst- und Gemeinschaftsaktivitäten anbietet.",
-                  "category": "cultural",
-                  "coords": [
-                        -57.999148,
-                        6.763985
-                  ]
-            },
-            {
                   "name": "Start",
                   "text": "Dieser Start-Aussichtspunkt markiert den Beginn eines lokalen Wanderwegs durch die weiten Zuckerrohrfelder von Enmore.",
                   "category": "natural",
@@ -1729,24 +1711,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
             }
       ],
       "hu": [
-            {
-                  "name": "Linden drive",
-                  "text": "A Linden Drive egy fákkal szegélyezett útvonal, amely Enmore csendes, egykori cukornádtermelő területein vezet keresztül.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.005943,
-                        6.776297
-                  ]
-            },
-            {
-                  "name": "Golden Heart Day and Night Care Centre",
-                  "text": "A Golden Heart Nappali és Éjszakai Gondozó Központ fontos intézmény, amely művészeti és közösségi tevékenységeket is kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        -57.999148,
-                        6.763985
-                  ]
-            },
             {
                   "name": "Start",
                   "text": "Ez a kezdő kilátópont jelzi a helyi túraútvonal kezdetét, amely Enmore tágas cukornádföldjein halad át.",
@@ -1921,24 +1885,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
       ],
       "ro": [
             {
-                  "name": "Linden drive",
-                  "text": "Linden Drive este un traseu mărginit de copaci care traversează fostele zone liniștite ale plantațiilor de trestie de zahăr din Enmore.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.005943,
-                        6.776297
-                  ]
-            },
-            {
-                  "name": "Golden Heart Day and Night Care Centre",
-                  "text": "Centrul de îngrijire de zi și de noapte Golden Heart funcționează ca o unitate importantă ce oferă activități artistice și comunitare.",
-                  "category": "cultural",
-                  "coords": [
-                        -57.999148,
-                        6.763985
-                  ]
-            },
-            {
                   "name": "Start",
                   "text": "Acest punct de belvedere de start marchează începutul unui traseu local de drumeție prin vastele câmpuri de trestie de zahăr din Enmore.",
                   "category": "natural",
@@ -2111,24 +2057,6 @@ export const poiExtraGuyanaLifeV2: POI[] = [ {
             }
       ],
       "en": [
-            {
-                  "name": "Linden drive",
-                  "text": "Linden drive is a tree-lined route winding through the quiet, former sugarcane-producing areas of Enmore.",
-                  "category": "landmark",
-                  "coords": [
-                        -58.005943,
-                        6.776297
-                  ]
-            },
-            {
-                  "name": "Golden Heart Day and Night Care Centre",
-                  "text": "The Golden Heart Day and Night Care Centre serves as a vital care facility offering art and community activities.",
-                  "category": "cultural",
-                  "coords": [
-                        -57.999148,
-                        6.763985
-                  ]
-            },
             {
                   "name": "Start",
                   "text": "This start viewpoint marks the beginning of a local walking trail traversing the expansive sugarcane fields of Enmore.",

@@ -6,24 +6,6 @@ export const slovakiaNatureV2: POI[] = [
     id: "slovakia-low-tatras-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Múzeum Lanovky",
-                  "text": "Ein Museum an der Station Berg Chopok, das die Technikgeschichte der wegweisenden Seilbahnsysteme der Region dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        19.597423,
-                        48.932571
-                  ]
-            },
-            {
-                  "name": "Konské",
-                  "text": "Ein Berggipfel in der Niederen Tatra, der anspruchsvolle Wanderwege und weite Ausblicke auf die umliegenden Gebirgskämme bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        19.605839,
-                        48.941429
-                  ]
-            },
-            {
                   "name": "Jaskyňa mŕtvych netopierov",
                   "text": "Eine bedeutende Hochgebirgshöhle in der Niederen Tatra, benannt nach den alten Fledermausüberresten, die in ihren Gängen gefunden wurden.",
                   "category": "landmark",
@@ -31,72 +13,9 @@ export const slovakiaNatureV2: POI[] = [
                         19.639081,
                         48.925156
                   ]
-            },
-            {
-                  "name": "Krúpova hoľa",
-                  "text": "Ein hoher Berggipfel im zentralen Teil der Niederen Tatra, gelegen an einer beliebten Gratwanderroute.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630716,
-                        48.93904
-                  ]
-            },
-            {
-                  "name": "Ludárova hoľa",
-                  "text": "Ein grasbewachsener Alpengipfel in der Niederen Tatra, bekannt für seine malerische Aussicht und seine abgelegene Lage.",
-                  "category": "landmark",
-                  "coords": [
-                        19.646252,
-                        48.952534
-                  ]
-            },
-            {
-                  "name": "Štiavnica",
-                  "text": "Ein markanter Gipfel in der Niederen Tatra nahe dem Berg Ďumbier mit schroffem Gelände und alpinem Panorama.",
-                  "category": "landmark",
-                  "coords": [
-                        19.653826,
-                        48.936639
-                  ]
-            },
-            {
-                  "name": "Besná",
-                  "text": "Ein alpiner Berggipfel in der Gebirgskette der Niederen Tatra mit Blick auf die umliegenden Täler.",
-                  "category": "landmark",
-                  "coords": [
-                        19.675266,
-                        48.918188
-                  ]
-            },
-            {
-                  "name": "Prašivá",
-                  "text": "Ein bedeutender Gipfel am westlichen Ende des Hauptkamms der Niederen Tatra, beliebt bei Bergwanderern.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630854,
-                        48.955983
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Múzeum Lanovky",
-                  "text": "A Chopok-hegyi állomáson található múzeum, amely a régió úttörő felvonórendszereinek technikai történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        19.597423,
-                        48.932571
-                  ]
-            },
-            {
-                  "name": "Konské",
-                  "text": "Az Alacsony-Tátra egyik hegycsúcsa, amely kihívást jelentő túraútvonalakat és tágas kilátást kínál a környező gerincekre.",
-                  "category": "landmark",
-                  "coords": [
-                        19.605839,
-                        48.941429
-                  ]
-            },
             {
                   "name": "Jaskyňa mŕtvych netopierov",
                   "text": "Jelentős magashegyi barlang az Alacsony-Tátrában, amely a járataiban talált ősi denevérmaradványokról kapta a nevét.",
@@ -105,72 +24,9 @@ export const slovakiaNatureV2: POI[] = [
                         19.639081,
                         48.925156
                   ]
-            },
-            {
-                  "name": "Krúpova hoľa",
-                  "text": "Magas hegycsúcs az Alacsony-Tátra központi részén, egy népszerű gerinctúra útvonal mentén.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630716,
-                        48.93904
-                  ]
-            },
-            {
-                  "name": "Ludárova hoľa",
-                  "text": "Füves alpesi csúcs az Alacsony-Tátrában, amely festői kilátásáról és távoli fekvéséről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        19.646252,
-                        48.952534
-                  ]
-            },
-            {
-                  "name": "Štiavnica",
-                  "text": "Az Alacsony-Tátra egyik kiemelkedő csúcsa a Gyömbér közelében, sziklás tereppel és alpesi panorámával.",
-                  "category": "landmark",
-                  "coords": [
-                        19.653826,
-                        48.936639
-                  ]
-            },
-            {
-                  "name": "Besná",
-                  "text": "Alpesi hegycsúcs az Alacsony-Tátra hegységben, kilátással a környező völgyekre.",
-                  "category": "landmark",
-                  "coords": [
-                        19.675266,
-                        48.918188
-                  ]
-            },
-            {
-                  "name": "Prašivá",
-                  "text": "Az Alacsony-Tátra főgerincének nyugati végén található jelentős csúcs, a túrázók kedvelt célpontja.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630854,
-                        48.955983
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Múzeum Lanovky",
-                  "text": "Un muzeu la stația de pe muntele Chopok care documentează istoria tehnică a sistemelor de telecabină de pionierat din regiune.",
-                  "category": "museum",
-                  "coords": [
-                        19.597423,
-                        48.932571
-                  ]
-            },
-            {
-                  "name": "Konské",
-                  "text": "Un vârf montan din Tatra Joasă care oferă trasee provocatoare și vederi extinse asupra crestelor înconjurătoare.",
-                  "category": "landmark",
-                  "coords": [
-                        19.605839,
-                        48.941429
-                  ]
-            },
             {
                   "name": "Jaskyňa mŕtvych netopierov",
                   "text": "O peșteră semnificativă la mare altitudine din Tatra Joasă, numită după resturile străvechi de lilieci găsite în pasajele sale.",
@@ -179,72 +35,9 @@ export const slovakiaNatureV2: POI[] = [
                         19.639081,
                         48.925156
                   ]
-            },
-            {
-                  "name": "Krúpova hoľa",
-                  "text": "Un vârf montan înalt din partea centrală a Munților Tatra Joasă, situat pe o rută populară de drumeție pe creastă.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630716,
-                        48.93904
-                  ]
-            },
-            {
-                  "name": "Ludárova hoľa",
-                  "text": "Un vârf alpin înierbat din Tatra Joasă, cunoscut pentru priveliștile sale pitorești și locația izolată.",
-                  "category": "landmark",
-                  "coords": [
-                        19.646252,
-                        48.952534
-                  ]
-            },
-            {
-                  "name": "Štiavnica",
-                  "text": "Un vârf proeminent din Tatra Joasă lângă muntele Ďumbier, cu teren accidentat și vederi alpine panoramice.",
-                  "category": "landmark",
-                  "coords": [
-                        19.653826,
-                        48.936639
-                  ]
-            },
-            {
-                  "name": "Besná",
-                  "text": "Un vârf de munte alpin din lanțul muntos Tatra Joasă, oferind vedere peste văile din jur.",
-                  "category": "landmark",
-                  "coords": [
-                        19.675266,
-                        48.918188
-                  ]
-            },
-            {
-                  "name": "Prašivá",
-                  "text": "Un vârf important la capătul vestic al crestei principale din Tatra Joasă, popular printre excursioniștii montani.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630854,
-                        48.955983
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Múzeum Lanovky",
-                  "text": "A museum at Mount Chopok station documenting the technical history of the region's pioneering cable car systems.",
-                  "category": "museum",
-                  "coords": [
-                        19.597423,
-                        48.932571
-                  ]
-            },
-            {
-                  "name": "Konské",
-                  "text": "A mountain peak in the Low Tatras offering challenging trails and expansive views of the surrounding ridges.",
-                  "category": "landmark",
-                  "coords": [
-                        19.605839,
-                        48.941429
-                  ]
-            },
             {
                   "name": "Jaskyňa mŕtvych netopierov",
                   "text": "A significant high-altitude cave in the Low Tatras, named for the ancient bat remains found within its passages.",
@@ -252,51 +45,6 @@ export const slovakiaNatureV2: POI[] = [
                   "coords": [
                         19.639081,
                         48.925156
-                  ]
-            },
-            {
-                  "name": "Krúpova hoľa",
-                  "text": "A high mountain peak in the central part of the Low Tatras, situated along a popular ridge hiking route.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630716,
-                        48.93904
-                  ]
-            },
-            {
-                  "name": "Ludárova hoľa",
-                  "text": "A grassy alpine peak in the Low Tatras, known for its scenic views and remote location.",
-                  "category": "landmark",
-                  "coords": [
-                        19.646252,
-                        48.952534
-                  ]
-            },
-            {
-                  "name": "Štiavnica",
-                  "text": "A prominent peak in the Low Tatras near Mount Ďumbier, featuring rugged terrain and panoramic alpine vistas.",
-                  "category": "landmark",
-                  "coords": [
-                        19.653826,
-                        48.936639
-                  ]
-            },
-            {
-                  "name": "Besná",
-                  "text": "An alpine mountain peak in the Low Tatras mountain range, offering views over the surrounding valleys.",
-                  "category": "landmark",
-                  "coords": [
-                        19.675266,
-                        48.918188
-                  ]
-            },
-            {
-                  "name": "Prašivá",
-                  "text": "A significant peak at the western end of the Low Tatras main ridge, popular among mountain hikers.",
-                  "category": "landmark",
-                  "coords": [
-                        19.630854,
-                        48.955983
                   ]
             }
       ]
@@ -358,75 +106,12 @@ imageHint: "Dumbier peak in Low Tatras during summer",
                   ]
             },
             {
-                  "name": "Múzeum Juraja Jánošíka",
-                  "text": "Ein Museum in Terchová, das dem slowakischen Volkshelden Juraj Jánošík gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        19.029952,
-                        49.25751
-                  ]
-            },
-            {
-                  "name": "Amfiteáter Nad Bôrami",
-                  "text": "Ein Freilicht-Amphitheater in Terchová, in dem kulturelle Veranstaltungen stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        19.045399,
-                        49.254319
-                  ]
-            },
-            {
-                  "name": "Juraj Jánošík",
-                  "text": "Ein monumentales Denkmal zu Ehren des legendären Räuberhauptmanns Juraj Jánošík.",
-                  "category": "historical",
-                  "coords": [
-                        19.037779,
-                        49.254221
-                  ]
-            },
-            {
-                  "name": "Dolné Diery",
-                  "text": "Ein beeindruckender Wanderweg durch Felsschluchten und Wasserfälle in der Kleinen Fatra.",
-                  "category": "landmark",
-                  "coords": [
-                        19.073384,
-                        49.247828
-                  ]
-            },
-            {
-                  "name": "Horné Diery",
-                  "text": "Ein spektakulärer Teil der Jánošíkove diery Schluchten mit Leitern und Stegen.",
-                  "category": "landmark",
-                  "coords": [
-                        19.081291,
-                        49.240855
-                  ]
-            },
-            {
-                  "name": "Kraviarske",
-                  "text": "Ein Berggipfel in der Kleinen Fatra mit Aussicht auf das Vrátna-Tal.",
-                  "category": "landmark",
-                  "coords": [
-                        19.016589,
-                        49.209509
-                  ]
-            },
-            {
                   "name": "Baraniarky",
                   "text": "Ein Gipfel in der Kleinen Fatra, bekannt für seine steilen Hänge und das Panorama.",
                   "category": "landmark",
                   "coords": [
                         19.011151,
                         49.223243
-                  ]
-            },
-            {
-                  "name": "Terchovec",
-                  "text": "Ein Schwimm- und Wellnessbereich in der Region Malá Fatra, ideal zur Entspannung nach Wanderungen.",
-                  "category": "recreational",
-                  "coords": [
-                        19.039773,
-                        49.255432
                   ]
             }
       ],
@@ -441,75 +126,12 @@ imageHint: "Dumbier peak in Low Tatras during summer",
                   ]
             },
             {
-                  "name": "Múzeum Juraja Jánošíka",
-                  "text": "Juraj Jánošík szlovák népi hősnek szentelt múzeum Terhelyben (Terchová).",
-                  "category": "museum",
-                  "coords": [
-                        19.029952,
-                        49.25751
-                  ]
-            },
-            {
-                  "name": "Amfiteáter Nad Bôrami",
-                  "text": "Szabadtéri amfiteátrum Terhelyben, amely kulturális rendezvényeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        19.045399,
-                        49.254319
-                  ]
-            },
-            {
-                  "name": "Juraj Jánošík",
-                  "text": "Monumentális emlékmű a legendás rablóvezér, Juraj Jánošík tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        19.037779,
-                        49.254221
-                  ]
-            },
-            {
-                  "name": "Diery-szurdok",
-                  "text": "Lenyűgöző túraútvonal szurdokokon és vízeséseken keresztül a Kis-Fátrában.",
-                  "category": "landmark",
-                  "coords": [
-                        19.073384,
-                        49.247828
-                  ]
-            },
-            {
-                  "name": "Horné Diery",
-                  "text": "A Jánošík-szurdokok látványos szakasza létrákkal és pallókkal.",
-                  "category": "landmark",
-                  "coords": [
-                        19.081291,
-                        49.240855
-                  ]
-            },
-            {
-                  "name": "Kraviarske",
-                  "text": "Hegycsúcs a Kis-Fátrában, kilátással a Vrátna-völgyre.",
-                  "category": "landmark",
-                  "coords": [
-                        19.016589,
-                        49.209509
-                  ]
-            },
-            {
                   "name": "Baraniarky",
                   "text": "Hegycsúcs a Kis-Fátrában, amely meredek lejtőiről és panorámájáról ismert.",
                   "category": "landmark",
                   "coords": [
                         19.011151,
                         49.223243
-                  ]
-            },
-            {
-                  "name": "Terchovec",
-                  "text": "Úszó- és wellness-részleg a Kis-Fátra régióban, amely ideális a túrázás utáni pihenésre.",
-                  "category": "recreational",
-                  "coords": [
-                        19.039773,
-                        49.255432
                   ]
             }
       ],
@@ -524,75 +146,12 @@ imageHint: "Dumbier peak in Low Tatras during summer",
                   ]
             },
             {
-                  "name": "Múzeum Juraja Jánošíka",
-                  "text": "Un muzeu în Terchová dedicat eroului popular slovac Juraj Jánošík.",
-                  "category": "museum",
-                  "coords": [
-                        19.029952,
-                        49.25751
-                  ]
-            },
-            {
-                  "name": "Amfiteáter Nad Bôrami",
-                  "text": "Un amfiteatru în aer liber în Terchová, care găzduiește evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        19.045399,
-                        49.254319
-                  ]
-            },
-            {
-                  "name": "Juraj Jánošík",
-                  "text": "Un monument monumental ridicat în onoarea legendarului haiduc Juraj Jánošík.",
-                  "category": "historical",
-                  "coords": [
-                        19.037779,
-                        49.254221
-                  ]
-            },
-            {
-                  "name": "Dolné Diery",
-                  "text": "Un traseu de drumeție impresionant prin chei și cascade în Malá Fatra.",
-                  "category": "landmark",
-                  "coords": [
-                        19.073384,
-                        49.247828
-                  ]
-            },
-            {
-                  "name": "Horné Diery",
-                  "text": "O secțiune spectaculoasă a cheilor Jánošíkove diery, cu scări și pasarele.",
-                  "category": "landmark",
-                  "coords": [
-                        19.081291,
-                        49.240855
-                  ]
-            },
-            {
-                  "name": "Kraviarske",
-                  "text": "Un vârf montan în Malá Fatra cu vedere spre Valea Vrátna.",
-                  "category": "landmark",
-                  "coords": [
-                        19.016589,
-                        49.209509
-                  ]
-            },
-            {
                   "name": "Baraniarky",
                   "text": "Un vârf în Malá Fatra, cunoscut pentru pantele sale abrupte și panoramă.",
                   "category": "landmark",
                   "coords": [
                         19.011151,
                         49.223243
-                  ]
-            },
-            {
-                  "name": "Terchovec",
-                  "text": "O zonă de înot și wellness în regiunea Malá Fatra, ideală pentru relaxare după drumeții.",
-                  "category": "recreational",
-                  "coords": [
-                        19.039773,
-                        49.255432
                   ]
             }
       ],
@@ -607,75 +166,12 @@ imageHint: "Dumbier peak in Low Tatras during summer",
                   ]
             },
             {
-                  "name": "Múzeum Juraja Jánošíka",
-                  "text": "A museum in Terchová dedicated to the Slovak folk hero Juraj Jánošík.",
-                  "category": "museum",
-                  "coords": [
-                        19.029952,
-                        49.25751
-                  ]
-            },
-            {
-                  "name": "Amfiteáter Nad Bôrami",
-                  "text": "An open-air amphitheater in Terchová that hosts cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        19.045399,
-                        49.254319
-                  ]
-            },
-            {
-                  "name": "Juraj Jánošík",
-                  "text": "A monumental monument built in honor of the legendary outlaw Juraj Jánošík.",
-                  "category": "historical",
-                  "coords": [
-                        19.037779,
-                        49.254221
-                  ]
-            },
-            {
-                  "name": "Dolné Diery",
-                  "text": "An impressive hiking trail through gorges and waterfalls in Malá Fatra.",
-                  "category": "landmark",
-                  "coords": [
-                        19.073384,
-                        49.247828
-                  ]
-            },
-            {
-                  "name": "Horné Diery",
-                  "text": "A spectacular section of the Jánošíkove diery gorges with ladders and footbridges.",
-                  "category": "landmark",
-                  "coords": [
-                        19.081291,
-                        49.240855
-                  ]
-            },
-            {
-                  "name": "Kraviarske",
-                  "text": "A mountain peak in Malá Fatra with views of the Vrátna Valley.",
-                  "category": "landmark",
-                  "coords": [
-                        19.016589,
-                        49.209509
-                  ]
-            },
-            {
                   "name": "Baraniarky",
                   "text": "A peak in Malá Fatra known for its steep slopes and panorama.",
                   "category": "landmark",
                   "coords": [
                         19.011151,
                         49.223243
-                  ]
-            },
-            {
-                  "name": "Terchovec",
-                  "text": "A swimming and wellness area in the Malá Fatra region, ideal for relaxation after hiking.",
-                  "category": "recreational",
-                  "coords": [
-                        19.039773,
-                        49.255432
                   ]
             }
       ]
@@ -1071,69 +567,6 @@ imageHint: "Meadows of Velka Fatra mountains",
     id: "slovakia-pieniny-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Pieninen-Burg",
-                  "text": "Eine Ruine aus dem 13. Jahrhundert in den Pieninen, die einst als Zufluchtsort für die ungarische Königsfamilie diente.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Rotes Kloster",
-                  "text": "Ein ehemaliges Kartäuserkloster aus dem 14. Jahrhundert, das heute als Museum und touristisches Zentrum dient.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
-                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
-                  "text": "Das Besucherzentrum und der Startpunkt für die berühmten Floßfahrten auf dem Dunajec.",
-                  "category": "museum",
-                  "coords": [
-                        20.367983,
-                        49.406449
-                  ]
-            },
-            {
-                  "name": "Drei Kronen",
-                  "text": "Der bekannteste Aussichtsgipfel in den Pieninen mit einem spektakulären Blick auf den Dunajec-Durchbruch.",
-                  "category": "natural",
-                  "coords": [
-                        20.414188,
-                        49.413823
-                  ]
-            },
-            {
-                  "name": "Sokolica",
-                  "text": "Ein markanter Gipfel in den Pieninen, bekannt für seine jahrhundertealte, ikonische Kiefer auf dem Gipfel.",
-                  "category": "landmark",
-                  "coords": [
-                        20.440375,
-                        49.417651
-                  ]
-            },
-            {
-                  "name": "Klosterberg",
-                  "text": "Ein bewaldeter Berg in den Pieninen in der Nähe des Roten Klosters, der schöne Wanderwege bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        20.422794,
-                        49.400837
-                  ]
-            },
-            {
-                  "name": "Holica",
-                  "text": "Ein Berg in den Pieninen, der von Sromowce Wyżne aus gut erreichbar ist und Panoramablicke bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        20.446001,
-                        49.408426
-                  ]
-            },
-            {
                   "name": "Macelowa Góra",
                   "text": "Ein Berg im Pieninen-Nationalpark, der für seine interessante Flora und Felsformationen bekannt ist.",
                   "category": "landmark",
@@ -1144,69 +577,6 @@ imageHint: "Meadows of Velka Fatra mountains",
             }
       ],
       "hu": [
-            {
-                  "name": "Zamek Pieniński",
-                  "text": "13. századi várrom a Pieninekben, amely egykor a magyar királyi család menedékhelyéül szolgált.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Vöröskolostor",
-                  "text": "Egykori karthauzi kolostor a 14. századból, amely ma múzeumként és turisztikai központként működik.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
-                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
-                  "text": "Látogatóközpont és a híres dunajeci tutajozás kiindulópontja.",
-                  "category": "museum",
-                  "coords": [
-                        20.367983,
-                        49.406449
-                  ]
-            },
-            {
-                  "name": "Koronahegy",
-                  "text": "A Pieninek legismertebb kilátóhelye, ahonnan látványos kilátás nyílik a Dunajec-áttörésre.",
-                  "category": "natural",
-                  "coords": [
-                        20.414188,
-                        49.413823
-                  ]
-            },
-            {
-                  "name": "Sokolica",
-                  "text": "Jellegzetes csúcs a Pieninekben, amely a csúcsán lévő évszázados, ikonikus erdeifenyőről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        20.440375,
-                        49.417651
-                  ]
-            },
-            {
-                  "name": "Kláštorná hora",
-                  "text": "Erdős hegy a Pieninekben a Vörös Kolostor közelében, amely szép túraútvonalakat kínál.",
-                  "category": "landmark",
-                  "coords": [
-                        20.422794,
-                        49.400837
-                  ]
-            },
-            {
-                  "name": "Holica",
-                  "text": "Hegy a Pieninekben, amely Sromowce Wyżne felől könnyen megközelíthető és panorámás kilátást nyújt.",
-                  "category": "landmark",
-                  "coords": [
-                        20.446001,
-                        49.408426
-                  ]
-            },
             {
                   "name": "Macelowa Góra",
                   "text": "Hegy a Pienini Nemzeti Parkban, amely érdekes flórájáról és sziklaalakzatairól ismert.",
@@ -1219,69 +589,6 @@ imageHint: "Meadows of Velka Fatra mountains",
       ],
       "ro": [
             {
-                  "name": "Zamek Pieniński",
-                  "text": "O ruină din secolul al XIII-lea în munții Pieniny, care a servit cândva drept refugiu pentru familia regală maghiară.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Červený kláštor",
-                  "text": "O fostă mănăstire cartusiană din secolul al XIV-lea, care servește astăzi drept muzeu și centru turistic.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
-                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
-                  "text": "Centrul de vizitare și punctul de plecare pentru celebrele plimbări cu pluta pe Dunajec.",
-                  "category": "museum",
-                  "coords": [
-                        20.367983,
-                        49.406449
-                  ]
-            },
-            {
-                  "name": "Trzy Korony (Okrąglica)",
-                  "text": "Cel mai faimos vârf de belvedere din munții Pieniny, oferind o vedere spectaculoasă asupra defileului Dunajec.",
-                  "category": "natural",
-                  "coords": [
-                        20.414188,
-                        49.413823
-                  ]
-            },
-            {
-                  "name": "Sokolica",
-                  "text": "Un vârf distinctiv în Pieniny, cunoscut pentru pinul său iconic vechi de secole aflat pe culme.",
-                  "category": "landmark",
-                  "coords": [
-                        20.440375,
-                        49.417651
-                  ]
-            },
-            {
-                  "name": "Kláštorná hora",
-                  "text": "Un munte împădurit în Pieniny, lângă Mănăstirea Roșie, oferind trasee frumoase de drumeție.",
-                  "category": "landmark",
-                  "coords": [
-                        20.422794,
-                        49.400837
-                  ]
-            },
-            {
-                  "name": "Holica",
-                  "text": "Un munte în Pieniny, ușor accesibil din Sromowce Wyżne, oferind vederi panoramice.",
-                  "category": "landmark",
-                  "coords": [
-                        20.446001,
-                        49.408426
-                  ]
-            },
-            {
                   "name": "Macelowa Góra",
                   "text": "Un munte în Parcul Național Pieniny, cunoscut pentru flora sa interesantă și formațiunile stâncoase.",
                   "category": "landmark",
@@ -1292,69 +599,6 @@ imageHint: "Meadows of Velka Fatra mountains",
             }
       ],
       "en": [
-            {
-                  "name": "Pieniny Castle",
-                  "text": "A 13th-century castle ruin in the Pieniny Mountains, once serving as a refuge for the Hungarian royal family.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Červený kláštor",
-                  "text": "A former Carthusian monastery from the 14th century, now serving as a museum and tourist center.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
-                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
-                  "text": "The visitor center and starting point for the famous rafting trips on the Dunajec River.",
-                  "category": "museum",
-                  "coords": [
-                        20.367983,
-                        49.406449
-                  ]
-            },
-            {
-                  "name": "Three Crowns",
-                  "text": "The most famous viewpoint peak in the Pieniny Mountains, offering a spectacular view of the Dunajec Gorge.",
-                  "category": "natural",
-                  "coords": [
-                        20.414188,
-                        49.413823
-                  ]
-            },
-            {
-                  "name": "Sokolica",
-                  "text": "A distinctive peak in the Pieniny Mountains, famous for its centuries-old iconic pine tree at the summit.",
-                  "category": "landmark",
-                  "coords": [
-                        20.440375,
-                        49.417651
-                  ]
-            },
-            {
-                  "name": "Kláštorná hora",
-                  "text": "A forested mountain in the Pieniny range near Červený kláštor, offering nice hiking trails.",
-                  "category": "landmark",
-                  "coords": [
-                        20.422794,
-                        49.400837
-                  ]
-            },
-            {
-                  "name": "Holica",
-                  "text": "A mountain in the Pieniny range, easily accessible from Sromowce Wyżne, offering panoramic views.",
-                  "category": "landmark",
-                  "coords": [
-                        20.446001,
-                        49.408426
-                  ]
-            },
             {
                   "name": "Macelowa Góra",
                   "text": "A mountain in the Pieniny National Park, known for its interesting flora and rock formations.",
@@ -1414,42 +658,6 @@ imageHint: "Rafting on Dunajec river in Pieniny",
     id: "slovakia-muranska-planina-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Muráň",
-                  "text": "Ruinen einer hochgelegenen gotischen Burg auf einem Kalksteinfelsen.",
-                  "category": "castle",
-                  "coords": [
-                        20.058571,
-                        48.758657
-                  ]
-            },
-            {
-                  "name": "Rodinný park OBROVISKO",
-                  "text": "Ein Familienpark mit Tierausstellungen in der Muránska planina.",
-                  "category": "recreational",
-                  "coords": [
-                        20.072357,
-                        48.75463
-                  ]
-            },
-            {
-                  "name": "Sokoliarstvo Lukáš",
-                  "text": "Eine Falknerei auf der Hochebene Muránska planina.",
-                  "category": "recreational",
-                  "coords": [
-                        20.071259,
-                        48.756163
-                  ]
-            },
-            {
-                  "name": "Múzeum Muráň",
-                  "text": "Ein Heimatmuseum, das die Geschichte der Region Muráň dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        20.047603,
-                        48.739832
-                  ]
-            },
-            {
                   "name": "Wesselényiho jaskyňa",
                   "text": "Die Wesselényi-Höhle ist eine Kalksteinhöhle mit Tropfsteinen auf dem Muránska planina-Plateau.",
                   "category": "landmark",
@@ -1466,54 +674,9 @@ imageHint: "Rafting on Dunajec river in Pieniny",
                         20.023388,
                         48.786429
                   ]
-            },
-            {
-                  "name": "Pavelková",
-                  "text": "Pavelková ist ein Kalksteingipfel auf der Hochebene Muránska planina.",
-                  "category": "landmark",
-                  "coords": [
-                        20.001473,
-                        48.757907
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Murányvár",
-                  "text": "Magasan fekvő gótikus várrom egy mészkősziklán.",
-                  "category": "castle",
-                  "coords": [
-                        20.058571,
-                        48.758657
-                  ]
-            },
-            {
-                  "name": "Rodinný park OBROVISKO",
-                  "text": "Családi park és állatbemutató a Murányi-fennsíkon.",
-                  "category": "recreational",
-                  "coords": [
-                        20.072357,
-                        48.75463
-                  ]
-            },
-            {
-                  "name": "Sokoliarstvo Lukáš",
-                  "text": "Egy solymászat a Murányi-fennsíkon.",
-                  "category": "recreational",
-                  "coords": [
-                        20.071259,
-                        48.756163
-                  ]
-            },
-            {
-                  "name": "Múzeum Muráň",
-                  "text": "Helytörténeti múzeum, amely a Murányi régió múltját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.047603,
-                        48.739832
-                  ]
-            },
             {
                   "name": "Wesselényi-barlang",
                   "text": "A Wesselényi-barlang egy mészkőbarlang cseppkövekkel a Murányi-fennsíkon.",
@@ -1531,54 +694,9 @@ imageHint: "Rafting on Dunajec river in Pieniny",
                         20.023388,
                         48.786429
                   ]
-            },
-            {
-                  "name": "Pavelková",
-                  "text": "A Pavelková egy mészkőcsúcs a Muránska planina fennsíkon.",
-                  "category": "landmark",
-                  "coords": [
-                        20.001473,
-                        48.757907
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Muráň",
-                  "text": "Ruinele unui castel gotic situat la mare altitudine pe o stâncă de calcar.",
-                  "category": "castle",
-                  "coords": [
-                        20.058571,
-                        48.758657
-                  ]
-            },
-            {
-                  "name": "Rodinný park OBROVISKO",
-                  "text": "Un parc de familie și expoziție de animale în Muránska planina.",
-                  "category": "recreational",
-                  "coords": [
-                        20.072357,
-                        48.75463
-                  ]
-            },
-            {
-                  "name": "Sokoliarstvo Lukáš",
-                  "text": "Un centru de șoimerie pe platoul Muránska planina.",
-                  "category": "recreational",
-                  "coords": [
-                        20.071259,
-                        48.756163
-                  ]
-            },
-            {
-                  "name": "Múzeum Muráň",
-                  "text": "Un muzeu local care documentează istoria regiunii Muráň.",
-                  "category": "museum",
-                  "coords": [
-                        20.047603,
-                        48.739832
-                  ]
-            },
             {
                   "name": "Wesselényiho jaskyňa",
                   "text": "Peștera Wesselényi este o peșteră de calcar cu stalactite pe platoul Muranska Planina.",
@@ -1596,54 +714,9 @@ imageHint: "Rafting on Dunajec river in Pieniny",
                         20.023388,
                         48.786429
                   ]
-            },
-            {
-                  "name": "Pavelková",
-                  "text": "Pavelková este un vârf de calcar pe platoul Muránska planina.",
-                  "category": "landmark",
-                  "coords": [
-                        20.001473,
-                        48.757907
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Muráň",
-                  "text": "Ruins of a high-altitude Gothic castle on a limestone cliff.",
-                  "category": "castle",
-                  "coords": [
-                        20.058571,
-                        48.758657
-                  ]
-            },
-            {
-                  "name": "Rodinný park OBROVISKO",
-                  "text": "A family park and animal exhibition in Muránska planina.",
-                  "category": "recreational",
-                  "coords": [
-                        20.072357,
-                        48.75463
-                  ]
-            },
-            {
-                  "name": "Sokoliarstvo Lukáš",
-                  "text": "A falconry center on the Muránska planina plateau.",
-                  "category": "recreational",
-                  "coords": [
-                        20.071259,
-                        48.756163
-                  ]
-            },
-            {
-                  "name": "Múzeum Muráň",
-                  "text": "A local museum documenting the history of the Muráň region.",
-                  "category": "museum",
-                  "coords": [
-                        20.047603,
-                        48.739832
-                  ]
-            },
             {
                   "name": "Wesselényi's cave",
                   "text": "Wesselényi's cave is a limestone cave with stalactites on the Muránska planina plateau.",
@@ -1660,15 +733,6 @@ imageHint: "Rafting on Dunajec river in Pieniny",
                   "coords": [
                         20.023388,
                         48.786429
-                  ]
-            },
-            {
-                  "name": "Pavelková",
-                  "text": "Pavelková is a limestone peak on the Muránska planina plateau.",
-                  "category": "landmark",
-                  "coords": [
-                        20.001473,
-                        48.757907
                   ]
             }
       ]
@@ -2043,24 +1107,6 @@ imageHint: "Orava reservoir with Slanica island",
     id: "slovakia-liptovska-mara-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Archeologické múzeum v prírode NKP Liptovská Mara-Havránok",
-                  "text": "Ein archäologisches Freilichtmuseum, das keltische Siedlungsreste am Stausee Liptovská Mara zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        19.482228,
-                        49.105326
-                  ]
-            },
-            {
-                  "name": "Bešeňová",
-                  "text": "Ein bekannter Thermal- und Wasserpark in der Nähe von Liptovská Mara.",
-                  "category": "recreational",
-                  "coords": [
-                        19.446442,
-                        49.100465
-                  ]
-            },
-            {
                   "name": "Hrádok",
                   "text": "Eine archäologische Fundstätte mit Überresten historischer Siedlungen bei Liptovská Mara.",
                   "category": "historical",
@@ -2070,39 +1116,12 @@ imageHint: "Orava reservoir with Slanica island",
                   ]
             },
             {
-                  "name": "Zvieratkovo",
-                  "text": "Ein kleiner Streichelzoo in der Region Liptov, ideal für Familien mit Kindern.",
-                  "category": "recreational",
-                  "coords": [
-                        19.446952,
-                        49.102166
-                  ]
-            },
-            {
-                  "name": "Úložisko",
-                  "text": "Ein Gipfel, der einen weiten Panoramablick über den Stausee Liptovská Mara bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        19.470996,
-                        49.104396
-                  ]
-            },
-            {
                   "name": "Kaštieľ rodiny Kubíni",
                   "text": "Ein historisches Herrenhaus der Familie Kubíni in der Nähe des Liptauer Stausees.",
                   "category": "historical",
                   "coords": [
                         19.474861,
                         49.093652
-                  ]
-            },
-            {
-                  "name": "Travertínová veža v Bešeňovej",
-                  "text": "Eine seltene natürliche Kalksteinformation in der Nähe des Dorfes Bešeňová.",
-                  "category": "landmark",
-                  "coords": [
-                        19.434555,
-                        49.107144
                   ]
             },
             {
@@ -2117,24 +1136,6 @@ imageHint: "Orava reservoir with Slanica island",
       ],
       "hu": [
             {
-                  "name": "Archeologické múzeum v prírode NKP Liptovská Mara-Havránok",
-                  "text": "Régészeti skanzen a Szentmáriai-víztározónál, amely kelta településmaradványokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        19.482228,
-                        49.105326
-                  ]
-            },
-            {
-                  "name": "Bešeňová",
-                  "text": "Népszerű termálfürdő és aquapark a Szentmáriai-víztározó közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        19.446442,
-                        49.100465
-                  ]
-            },
-            {
                   "name": "Hrádok",
                   "text": "Régészeti lelőhely történelmi települések maradványaival a Szentmáriai-víztározónál.",
                   "category": "historical",
@@ -2144,39 +1145,12 @@ imageHint: "Orava reservoir with Slanica island",
                   ]
             },
             {
-                  "name": "Zvieratkovo",
-                  "text": "Kisméretű állatsimogató a Liptó régióban, amely ideális kisgyermekes családoknak.",
-                  "category": "recreational",
-                  "coords": [
-                        19.446952,
-                        49.102166
-                  ]
-            },
-            {
-                  "name": "Úložisko",
-                  "text": "Hegycsúcs, ahonnan széles panoráma nyílik a Szentmáriai-víztározóra.",
-                  "category": "landmark",
-                  "coords": [
-                        19.470996,
-                        49.104396
-                  ]
-            },
-            {
                   "name": "Kaštieľ rodiny Kubíni",
                   "text": "A Kubínyi család történelmi kúriája a Szentmáriai-víztározó közelében.",
                   "category": "historical",
                   "coords": [
                         19.474861,
                         49.093652
-                  ]
-            },
-            {
-                  "name": "Travertínová veža v Bešeňovej",
-                  "text": "Ritka természetes mészkőképződmény Bešeňová falu közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        19.434555,
-                        49.107144
                   ]
             },
             {
@@ -2191,24 +1165,6 @@ imageHint: "Orava reservoir with Slanica island",
       ],
       "ro": [
             {
-                  "name": "Archeologické múzeum v prírode NKP Liptovská Mara-Havránok",
-                  "text": "Un muzeu arheologic în aer liber care prezintă vestigii celtice lângă lacul Liptovská Mara.",
-                  "category": "museum",
-                  "coords": [
-                        19.482228,
-                        49.105326
-                  ]
-            },
-            {
-                  "name": "Bešeňová",
-                  "text": "Un parc acvatic și termal renumit situat lângă Liptovská Mara.",
-                  "category": "recreational",
-                  "coords": [
-                        19.446442,
-                        49.100465
-                  ]
-            },
-            {
                   "name": "Hrádok",
                   "text": "Un sit arheologic cu vestigii ale unor așezări istorice lângă Liptovská Mara.",
                   "category": "historical",
@@ -2218,39 +1174,12 @@ imageHint: "Orava reservoir with Slanica island",
                   ]
             },
             {
-                  "name": "Zvieratkovo",
-                  "text": "O mică grădină zoologică în regiunea Liptov, ideală pentru familiile cu copii.",
-                  "category": "recreational",
-                  "coords": [
-                        19.446952,
-                        49.102166
-                  ]
-            },
-            {
-                  "name": "Úložisko",
-                  "text": "Un vârf ce oferă o vedere panoramică largă asupra lacului de acumulare Liptovská Mara.",
-                  "category": "landmark",
-                  "coords": [
-                        19.470996,
-                        49.104396
-                  ]
-            },
-            {
                   "name": "Kaštieľ rodiny Kubíni",
                   "text": "Un conac istoric al familiei Kubíni, situat în apropierea lacului Liptovská Mara.",
                   "category": "historical",
                   "coords": [
                         19.474861,
                         49.093652
-                  ]
-            },
-            {
-                  "name": "Travertínová veža v Bešeňovej",
-                  "text": "O formațiune naturală rară de calcar situată lângă satul Bešeňová.",
-                  "category": "landmark",
-                  "coords": [
-                        19.434555,
-                        49.107144
                   ]
             },
             {
@@ -2265,24 +1194,6 @@ imageHint: "Orava reservoir with Slanica island",
       ],
       "en": [
             {
-                  "name": "Archeologické múzeum v prírode NKP Liptovská Mara-Havránok",
-                  "text": "An archaeological open-air museum displaying Celtic settlement remains near Liptovská Mara.",
-                  "category": "museum",
-                  "coords": [
-                        19.482228,
-                        49.105326
-                  ]
-            },
-            {
-                  "name": "Bešeňová",
-                  "text": "A well-known thermal and water park located near Liptovská Mara.",
-                  "category": "recreational",
-                  "coords": [
-                        19.446442,
-                        49.100465
-                  ]
-            },
-            {
                   "name": "Hrádok",
                   "text": "An archaeological site with remains of historical settlements near Liptovská Mara.",
                   "category": "historical",
@@ -2292,39 +1203,12 @@ imageHint: "Orava reservoir with Slanica island",
                   ]
             },
             {
-                  "name": "Zvieratkovo",
-                  "text": "A small contact zoo in the Liptov region, ideal for families with children.",
-                  "category": "recreational",
-                  "coords": [
-                        19.446952,
-                        49.102166
-                  ]
-            },
-            {
-                  "name": "Úložisko",
-                  "text": "A peak offering a wide panoramic view over the Liptovská Mara reservoir.",
-                  "category": "landmark",
-                  "coords": [
-                        19.470996,
-                        49.104396
-                  ]
-            },
-            {
                   "name": "Kaštieľ rodiny Kubíni",
                   "text": "A historical manor house of the Kubíni family located near the Liptov reservoir.",
                   "category": "historical",
                   "coords": [
                         19.474861,
                         49.093652
-                  ]
-            },
-            {
-                  "name": "Travertínová veža v Bešeňovej",
-                  "text": "A rare natural limestone formation located near the village of Bešeňová.",
-                  "category": "landmark",
-                  "coords": [
-                        19.434555,
-                        49.107144
                   ]
             },
             {
@@ -3175,15 +2059,6 @@ imageHint: "Underground river Styx in Domica cave",
     id: "slovakia-janosikove-diery-nature-v2", "sights": {
       "de": [
             {
-                  "name": "minizoo",
-                  "text": "Ein kleiner Streichelzoo in der Nähe der Jánošíkove-diery-Schluchten.",
-                  "category": "recreational",
-                  "coords": [
-                        19.013434,
-                        49.25309
-                  ]
-            },
-            {
                   "name": "Múzeum Juraja Jánošíka",
                   "text": "Ein Museum, das dem Leben des legendären slowakischen Räubers Juraj Jánošík gewidmet ist.",
                   "category": "museum",
@@ -3199,15 +2074,6 @@ imageHint: "Underground river Styx in Domica cave",
                   "coords": [
                         19.045399,
                         49.254319
-                  ]
-            },
-            {
-                  "name": "Bačíkovo",
-                  "text": "Ein kleiner Tierpark in der Nähe des Dorfes Terchová.",
-                  "category": "recreational",
-                  "coords": [
-                        19.106492,
-                        49.262389
                   ]
             },
             {
@@ -3229,24 +2095,6 @@ imageHint: "Underground river Styx in Domica cave",
                   ]
             },
             {
-                  "name": "Veľký Rozsutec",
-                  "text": "Der markanteste Berggipfel der Kleinen Fatra in der Slowakei.",
-                  "category": "landmark",
-                  "coords": [
-                        19.098536,
-                        49.231516
-                  ]
-            },
-            {
-                  "name": "Malý Rozsutec",
-                  "text": "Ein felsiger Berggipfel in der Kleinen Fatra, benachbart zum Großen Rozsutec.",
-                  "category": "landmark",
-                  "coords": [
-                        19.10165,
-                        49.246435
-                  ]
-            },
-            {
                   "name": "Terchovec",
                   "text": "Ein Schwimmbad und Entspannungszentrum in der Region Terchová.",
                   "category": "recreational",
@@ -3257,15 +2105,6 @@ imageHint: "Underground river Styx in Domica cave",
             }
       ],
       "hu": [
-            {
-                  "name": "minizoo",
-                  "text": "Kisméretű állatkert a Jánošíkove diery szurdokok közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        19.013434,
-                        49.25309
-                  ]
-            },
             {
                   "name": "Múzeum Juraja Jánošíka",
                   "text": "A legendás szlovák betyár, Juraj Jánošík életét bemutató múzeum.",
@@ -3282,15 +2121,6 @@ imageHint: "Underground river Styx in Domica cave",
                   "coords": [
                         19.045399,
                         49.254319
-                  ]
-            },
-            {
-                  "name": "Bačíkovo",
-                  "text": "Kisméretű állatkert Terhely falu közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        19.106492,
-                        49.262389
                   ]
             },
             {
@@ -3312,24 +2142,6 @@ imageHint: "Underground river Styx in Domica cave",
                   ]
             },
             {
-                  "name": "Nagy-Rozsutec",
-                  "text": "A szlovákiai Kis-Fátra legjellegzetesebb hegycsúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        19.098536,
-                        49.231516
-                  ]
-            },
-            {
-                  "name": "Kis-Rozsutec",
-                  "text": "Sziklás hegycsúcs a Kis-Fátrában, a Nagy-Rozsutec szomszédságában.",
-                  "category": "landmark",
-                  "coords": [
-                        19.10165,
-                        49.246435
-                  ]
-            },
-            {
                   "name": "Terchovec",
                   "text": "Úszómedence és relaxációs központ Terhely (Terchová) környékén.",
                   "category": "recreational",
@@ -3340,15 +2152,6 @@ imageHint: "Underground river Styx in Domica cave",
             }
       ],
       "ro": [
-            {
-                  "name": "minizoo",
-                  "text": "O mică grădină zoologică situată lângă cheile Jánošíkove diery.",
-                  "category": "recreational",
-                  "coords": [
-                        19.013434,
-                        49.25309
-                  ]
-            },
             {
                   "name": "Múzeum Juraja Jánošíka",
                   "text": "Un muzeu dedicat vieții legendarului haiduc slovac Juraj Jánošík.",
@@ -3365,15 +2168,6 @@ imageHint: "Underground river Styx in Domica cave",
                   "coords": [
                         19.045399,
                         49.254319
-                  ]
-            },
-            {
-                  "name": "Bačíkovo",
-                  "text": "Un mic parc zoologic situat în apropierea satului Terchová.",
-                  "category": "recreational",
-                  "coords": [
-                        19.106492,
-                        49.262389
                   ]
             },
             {
@@ -3395,24 +2189,6 @@ imageHint: "Underground river Styx in Domica cave",
                   ]
             },
             {
-                  "name": "Veľký Rozsutec",
-                  "text": "Cel mai distinctiv vârf muntos din Malá Fatra, Slovacia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.098536,
-                        49.231516
-                  ]
-            },
-            {
-                  "name": "Malý Rozsutec",
-                  "text": "Un vârf stâncos în Malá Fatra, vecin cu Velký Rozsutec.",
-                  "category": "landmark",
-                  "coords": [
-                        19.10165,
-                        49.246435
-                  ]
-            },
-            {
                   "name": "Terchovec",
                   "text": "O piscină și un centru de relaxare situat în regiunea Terchová.",
                   "category": "recreational",
@@ -3423,15 +2199,6 @@ imageHint: "Underground river Styx in Domica cave",
             }
       ],
       "en": [
-            {
-                  "name": "minizoo",
-                  "text": "A small petting zoo located near the Jánošíkove diery gorges.",
-                  "category": "recreational",
-                  "coords": [
-                        19.013434,
-                        49.25309
-                  ]
-            },
             {
                   "name": "Múzeum Juraja Jánošíka",
                   "text": "A museum dedicated to the life of the legendary Slovak outlaw Juraj Jánošík.",
@@ -3451,15 +2218,6 @@ imageHint: "Underground river Styx in Domica cave",
                   ]
             },
             {
-                  "name": "Bačíkovo",
-                  "text": "A small animal park located near the village of Terchová.",
-                  "category": "recreational",
-                  "coords": [
-                        19.106492,
-                        49.262389
-                  ]
-            },
-            {
                   "name": "Jánošíkov dom",
                   "text": "A museum located in the traditional birthplace of the folk hero Juraj Jánošík.",
                   "category": "museum",
@@ -3475,24 +2233,6 @@ imageHint: "Underground river Styx in Domica cave",
                   "coords": [
                         19.037779,
                         49.254221
-                  ]
-            },
-            {
-                  "name": "Veľký Rozsutec",
-                  "text": "The most distinctive mountain peak in the Malá Fatra, Slovakia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.098536,
-                        49.231516
-                  ]
-            },
-            {
-                  "name": "Malý Rozsutec",
-                  "text": "A rocky mountain peak in the Malá Fatra, neighboring Velký Rozsutec.",
-                  "category": "landmark",
-                  "coords": [
-                        19.10165,
-                        49.246435
                   ]
             },
             {
@@ -3564,15 +2304,6 @@ imageHint: "Underground river Styx in Domica cave",
                   ]
             },
             {
-                  "name": "Keltská osada Púchovskej kultúry",
-                  "text": "Rekonstruierte Überreste einer keltischen Siedlung der Púchov-Kultur.",
-                  "category": "historical",
-                  "coords": [
-                        19.531741,
-                        49.168027
-                  ]
-            },
-            {
                   "name": "Lomné",
                   "text": "Ein bewaldeter Berggipfel in den Choč-Bergen über dem Prosiecka-Tal.",
                   "category": "landmark",
@@ -3597,24 +2328,6 @@ imageHint: "Underground river Styx in Domica cave",
                   "coords": [
                         19.513435,
                         49.175016
-                  ]
-            },
-            {
-                  "name": "Hrádková",
-                  "text": "Ein Gipfel in der nordslowakischen Gebirgslandschaft der Chočské vrchy.",
-                  "category": "landmark",
-                  "coords": [
-                        19.52961,
-                        49.180492
-                  ]
-            },
-            {
-                  "name": "Čierna hora",
-                  "text": "Ein Berg im Choč-Gebirge, bekannt für seine natürliche Umgebung.",
-                  "category": "landmark",
-                  "coords": [
-                        19.531938,
-                        49.188672
                   ]
             },
             {
@@ -3656,15 +2369,6 @@ imageHint: "Underground river Styx in Domica cave",
                   ]
             },
             {
-                  "name": "Keltská osada Púchovskej kultúry",
-                  "text": "A puchói kultúra kelta településének rekonstruált maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        19.531741,
-                        49.168027
-                  ]
-            },
-            {
                   "name": "Lomné",
                   "text": "Erdős hegycsúcs a Kócs-hegységben, a Prosiecka-völgy felett.",
                   "category": "landmark",
@@ -3689,24 +2393,6 @@ imageHint: "Underground river Styx in Domica cave",
                   "coords": [
                         19.513435,
                         49.175016
-                  ]
-            },
-            {
-                  "name": "Hrádková",
-                  "text": "Hegycsúcs az észak-szlovákiai Kócs-hegység vonulatai között.",
-                  "category": "landmark",
-                  "coords": [
-                        19.52961,
-                        49.180492
-                  ]
-            },
-            {
-                  "name": "Čierna hora",
-                  "text": "Hegycsúcs a Kócs-hegységben, amely természeti környezetéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        19.531938,
-                        49.188672
                   ]
             },
             {
@@ -3748,15 +2434,6 @@ imageHint: "Underground river Styx in Domica cave",
                   ]
             },
             {
-                  "name": "Keltská osada Púchovskej kultúry",
-                  "text": "Rămășițele reconstruite ale unei așezări celtice aparținând culturii Púchov.",
-                  "category": "historical",
-                  "coords": [
-                        19.531741,
-                        49.168027
-                  ]
-            },
-            {
                   "name": "Lomné",
                   "text": "Un vârf montan împădurit din Munții Choč, situat deasupra văii Prosiecka.",
                   "category": "landmark",
@@ -3781,24 +2458,6 @@ imageHint: "Underground river Styx in Domica cave",
                   "coords": [
                         19.513435,
                         49.175016
-                  ]
-            },
-            {
-                  "name": "Hrádková",
-                  "text": "Un vârf muntos situat în lanțul muntos Choč din nordul Slovaciei.",
-                  "category": "landmark",
-                  "coords": [
-                        19.52961,
-                        49.180492
-                  ]
-            },
-            {
-                  "name": "Čierna hora",
-                  "text": "Un vârf din Munții Choč, cunoscut pentru peisajele sale naturale.",
-                  "category": "landmark",
-                  "coords": [
-                        19.531938,
-                        49.188672
                   ]
             },
             {
@@ -3840,15 +2499,6 @@ imageHint: "Underground river Styx in Domica cave",
                   ]
             },
             {
-                  "name": "Keltská osada Púchovskej kultúry",
-                  "text": "Reconstructed remains of a Celtic settlement from the Púchov culture.",
-                  "category": "historical",
-                  "coords": [
-                        19.531741,
-                        49.168027
-                  ]
-            },
-            {
                   "name": "Lomné",
                   "text": "A forested mountain peak in the Choč Mountains above the Prosiecka valley.",
                   "category": "landmark",
@@ -3873,24 +2523,6 @@ imageHint: "Underground river Styx in Domica cave",
                   "coords": [
                         19.513435,
                         49.175016
-                  ]
-            },
-            {
-                  "name": "Hrádková",
-                  "text": "A mountain peak located in the Choč Mountains of northern Slovakia.",
-                  "category": "landmark",
-                  "coords": [
-                        19.52961,
-                        49.180492
-                  ]
-            },
-            {
-                  "name": "Čierna hora",
-                  "text": "A peak in the Choč Mountains known for its natural surroundings.",
-                  "category": "landmark",
-                  "coords": [
-                        19.531938,
-                        49.188672
                   ]
             },
             {
@@ -4182,15 +2814,6 @@ imageHint: "Narrow road through Maninska tiesnava gorge",
                   ]
             },
             {
-                  "name": "Prosečné",
-                  "text": "Ein markanter Gipfel im Choč-Gebirge oberhalb der Kvačianska-Dolina.",
-                  "category": "landmark",
-                  "coords": [
-                        19.513435,
-                        49.175016
-                  ]
-            },
-            {
                   "name": "Hrádková",
                   "text": "Ein Gipfel im Choč-Gebirge in der Nähe der Kvačianska-Dolina.",
                   "category": "landmark",
@@ -4253,15 +2876,6 @@ imageHint: "Narrow road through Maninska tiesnava gorge",
                   "coords": [
                         19.531741,
                         49.168027
-                  ]
-            },
-            {
-                  "name": "Prosečné",
-                  "text": "Jellegzetes csúcs a Choč-hegységben, a Kvačianska-völgy felett.",
-                  "category": "landmark",
-                  "coords": [
-                        19.513435,
-                        49.175016
                   ]
             },
             {
@@ -4330,15 +2944,6 @@ imageHint: "Narrow road through Maninska tiesnava gorge",
                   ]
             },
             {
-                  "name": "Prosečné",
-                  "text": "Un vârf proeminent în munții Choč, situat deasupra văii Kvačianska.",
-                  "category": "landmark",
-                  "coords": [
-                        19.513435,
-                        49.175016
-                  ]
-            },
-            {
                   "name": "Hrádková",
                   "text": "Un vârf în munții Choč, situat în apropierea văii Kvačianska.",
                   "category": "landmark",
@@ -4401,15 +3006,6 @@ imageHint: "Narrow road through Maninska tiesnava gorge",
                   "coords": [
                         19.531741,
                         49.168027
-                  ]
-            },
-            {
-                  "name": "Prosečné",
-                  "text": "A prominent peak in the Choč Mountains overlooking the Kvačianska Valley.",
-                  "category": "landmark",
-                  "coords": [
-                        19.513435,
-                        49.175016
                   ]
             },
             {

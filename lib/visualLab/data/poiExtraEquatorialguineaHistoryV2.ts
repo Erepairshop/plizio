@@ -571,50 +571,10 @@ export const poiExtraEquatorialguineaHistoryV2: POI[] = [
   },
   {
     id: "elobey-chico-ruins-history-v2", "sights": {
-      "de": [
-            {
-                  "name": "Football",
-                  "text": "Football ist ein Sportdenkmal in der Nähe der Ruinen von Elobey Chico.",
-                  "category": "historical",
-                  "coords": [
-                        9.585047,
-                        1.006632
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Football",
-                  "text": "A Football egy sport témájú emlékmű Elobey Chico romjai közelében.",
-                  "category": "historical",
-                  "coords": [
-                        9.585047,
-                        1.006632
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Football",
-                  "text": "Football este un monument cu tematică sportivă situat lângă ruinele din Elobey Chico.",
-                  "category": "historical",
-                  "coords": [
-                        9.585047,
-                        1.006632
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Football",
-                  "text": "Football is a sports-themed monument located near the ruins of Elobey Chico.",
-                  "category": "historical",
-                  "coords": [
-                        9.585047,
-                        1.006632
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "historical",
     parent: "GQ-LI",

@@ -283,15 +283,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "1 Novembre 1954",
-                  "text": "Das Denkmal des 1. November 1954 erinnert an den historischen Beginn des algerischen Unabhängigkeitskrieges.",
-                  "category": "historical",
-                  "coords": [
-                        8.325797,
-                        36.765746
-                  ]
-            },
-            {
                   "name": "Nationalpark Al-Qala",
                   "text": "Der El Kala-Nationalpark ist ein riesiges Biosphärenreservat, das einzigartige marine Ökosysteme, Wälder und Feuchtgebietsseen umfasst.",
                   "category": "natural",
@@ -309,15 +300,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                   "coords": [
                         8.377572,
                         36.779338
-                  ]
-            },
-            {
-                  "name": "1 Novembre 1954",
-                  "text": "Az 1954. november 1-jei emlékmű az algériai függetlenségi háború történelmi kezdetének állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        8.325797,
-                        36.765746
                   ]
             },
             {
@@ -341,15 +323,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "1 Novembre 1954",
-                  "text": "Monumentul 1 Noiembrie 1954 comemorează începutul istoric al Războiului de Independență al Algeriei.",
-                  "category": "historical",
-                  "coords": [
-                        8.325797,
-                        36.765746
-                  ]
-            },
-            {
                   "name": "Parc National d'El Kala",
                   "text": "Parcul Național El Kala este o rezervație masivă a biosferei care protejează ecosisteme marine unice, păduri și lacuri cu zone umede.",
                   "category": "natural",
@@ -367,15 +340,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                   "coords": [
                         8.377572,
                         36.779338
-                  ]
-            },
-            {
-                  "name": "1 Novembre 1954",
-                  "text": "The 1 Novembre 1954 monument commemorates the historic beginning of the Algerian War of Independence.",
-                  "category": "historical",
-                  "coords": [
-                        8.325797,
-                        36.765746
                   ]
             },
             {
@@ -453,24 +417,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parc de loisirs familial de Blida",
-                  "text": "Ein Erholungspark für Familien, der mit Spielplätzen und Freiflächen für Freizeitaktivitäten ausgestattet ist.",
-                  "category": "recreational",
-                  "coords": [
-                        2.802648,
-                        36.468183
-                  ]
-            },
-            {
-                  "name": "Théâtre Mohamed El Touri",
-                  "text": "Ein historisches Theater, das nach dem berühmten algerischen Schauspieler benannt ist und lokale dramatische Aufführungen beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        2.828154,
-                        36.469728
-                  ]
-            },
-            {
                   "name": "Parc National de Chréa",
                   "text": "Ein weitläufiges gebirgiges Naturschutzgebiet, das für seine Zedernwälder und Wintersportmöglichkeiten bekannt ist.",
                   "category": "natural",
@@ -515,24 +461,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                   "coords": [
                         2.761726,
                         36.400368
-                  ]
-            },
-            {
-                  "name": "Parc de loisirs familial de Blida",
-                  "text": "Egy családi szabadidőpark játszóterekkel és szabadidős tevékenységekre alkalmas nyitott terekkel.",
-                  "category": "recreational",
-                  "coords": [
-                        2.802648,
-                        36.468183
-                  ]
-            },
-            {
-                  "name": "Théâtre Mohamed El Touri",
-                  "text": "A híres algériai színészről elnevezett történelmi színház, amely helyi drámai előadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        2.828154,
-                        36.469728
                   ]
             },
             {
@@ -583,24 +511,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parc de loisirs familial de Blida",
-                  "text": "Un parc de agrement pentru familii dotat cu locuri de joacă și spații deschise pentru activități de timp liber.",
-                  "category": "recreational",
-                  "coords": [
-                        2.802648,
-                        36.468183
-                  ]
-            },
-            {
-                  "name": "Théâtre Mohamed El Touri",
-                  "text": "Un teatru istoric care poartă numele celebrului actor algerian, care găzduiește spectacole dramatice locale.",
-                  "category": "cultural",
-                  "coords": [
-                        2.828154,
-                        36.469728
-                  ]
-            },
-            {
                   "name": "Parc National de Chréa",
                   "text": "O rezervație naturală montană întinsă, renumită pentru pădurile sale de cedru și oportunitățile de schi de iarnă.",
                   "category": "natural",
@@ -645,24 +555,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                   "coords": [
                         2.761726,
                         36.400368
-                  ]
-            },
-            {
-                  "name": "Parc de loisirs familial de Blida",
-                  "text": "A recreational family park equipped with playgrounds and open spaces for leisure activities.",
-                  "category": "recreational",
-                  "coords": [
-                        2.802648,
-                        36.468183
-                  ]
-            },
-            {
-                  "name": "Théâtre Mohamed El Touri",
-                  "text": "A historic theater venue named after the famous Algerian actor, hosting local dramatic performances.",
-                  "category": "cultural",
-                  "coords": [
-                        2.828154,
-                        36.469728
                   ]
             },
             {
@@ -990,33 +882,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     id: "oued-souf-agriculture-life-v2", "sights": {
       "de": [
             {
-                  "name": "Marché El oued",
-                  "text": "Der geschäftige Markt von El Oued wird von charakteristischen Kuppeldächern geprägt und bietet lokale Datteln sowie saharische Gewürze an.",
-                  "category": "landmark",
-                  "coords": [
-                        6.865175,
-                        33.362483
-                  ]
-            },
-            {
-                  "name": "Makam Echahid",
-                  "text": "Das Makam Echahid in El Oued ist ein Denkmal, das an die Gefallenen des algerischen Unabhängigkeitskrieges in der Souf-Region erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        6.863158,
-                        33.361084
-                  ]
-            },
-            {
-                  "name": "Sami meuble",
-                  "text": "Dieser Aussichtspunkt in El Oued überblickt das \"Meer der Sanddünen\" und die traditionelle Kuppelarchitektur der Stadt.",
-                  "category": "natural",
-                  "coords": [
-                        6.873007,
-                        33.359639
-                  ]
-            },
-            {
                   "name": "Tournage du Souf",
                   "text": "Der Aussichtspunkt Torner in der Sahara-Oase El Oued bietet einen weiten Blick über die endlos wirkende, sandige Souf-Region.",
                   "category": "natural",
@@ -1042,45 +907,9 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                         6.894917,
                         33.286276
                   ]
-            },
-            {
-                  "name": "Maison de la Culture (Ancienne)",
-                  "text": "Das alte Kulturhaus in El Oued ist ein architektonisches Zeugnis mit traditionellen Kuppeln, das ehemals saharische Kunstausstellungen beherbergte.",
-                  "category": "cultural",
-                  "coords": [
-                        6.865085,
-                        33.359868
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Marché El oued",
-                  "text": "Az El Oued-i nyüzsgő piacot jellegzetes kupolás tetők borítják, ahol helyi datolyát és szaharai fűszereket árulnak.",
-                  "category": "landmark",
-                  "coords": [
-                        6.865175,
-                        33.362483
-                  ]
-            },
-            {
-                  "name": "Makam Echahid",
-                  "text": "Az El Oued-i Makam Echahid egy emlékmű, amely a Souf régióban az algériai függetlenségi háború során elesetteknek állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        6.863158,
-                        33.361084
-                  ]
-            },
-            {
-                  "name": "Sami meuble",
-                  "text": "Ez az El Oued-i kilátópont a \"homokdűnék tengerére\" és a város hagyományos kupolás építészetére néz.",
-                  "category": "natural",
-                  "coords": [
-                        6.873007,
-                        33.359639
-                  ]
-            },
             {
                   "name": "Tournage du Souf",
                   "text": "A Torner kilátó az El Oued-i szaharai oázisban széles panorámát kínál a végtelennek tűnő homokos Souf régióra.",
@@ -1107,45 +936,9 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                         6.894917,
                         33.286276
                   ]
-            },
-            {
-                  "name": "Maison de la Culture (Ancienne)",
-                  "text": "Az egykori El Oued-i kulturális központ hagyományos kupolás épülete korábban szaharai művészeti kiállításoknak adott otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        6.865085,
-                        33.359868
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Marché El oued",
-                  "text": "Piața aglomerată din El Oued se remarcă prin acoperișurile sale boltite și oferă curmale locale și condimente sahariene.",
-                  "category": "landmark",
-                  "coords": [
-                        6.865175,
-                        33.362483
-                  ]
-            },
-            {
-                  "name": "Makam Echahid",
-                  "text": "Makam Echahid din El Oued este un monument ridicat în memoria celor căzuți în Războiul de Independență algerian din regiunea Souf.",
-                  "category": "historical",
-                  "coords": [
-                        6.863158,
-                        33.361084
-                  ]
-            },
-            {
-                  "name": "Sami meuble",
-                  "text": "Acest punct de belvedere din El Oued domină „Marea de Dune” și arhitectura tradițională cu cupole a orașului.",
-                  "category": "natural",
-                  "coords": [
-                        6.873007,
-                        33.359639
-                  ]
-            },
             {
                   "name": "Tournage du Souf",
                   "text": "Punctul de belvedere Torner din oaza sahariană El Oued oferă o perspectivă largă asupra întinsei regiuni nisipoase Souf.",
@@ -1172,54 +965,9 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                         6.894917,
                         33.286276
                   ]
-            },
-            {
-                  "name": "Maison de la Culture (Ancienne)",
-                  "text": "Vechea Casă de Cultură din El Oued este o clădire cu cupole tradiționale care a găzduit anterior expoziții de artă sahariană.",
-                  "category": "cultural",
-                  "coords": [
-                        6.865085,
-                        33.359868
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Marché El oued",
-                  "text": "The bustling market of El Oued is characterized by its domed roofs, offering local dates and Saharan spices to shoppers.",
-                  "category": "landmark",
-                  "coords": [
-                        6.865175,
-                        33.362483
-                  ]
-            },
-            {
-                  "name": "Makam Echahid",
-                  "text": "The Makam Echahid in El Oued is a monument commemorating the fallen of the Algerian War of Independence from the Souf region.",
-                  "category": "historical",
-                  "coords": [
-                        6.863158,
-                        33.361084
-                  ]
-            },
-            {
-                  "name": "Sami meuble",
-                  "text": "This viewpoint in El Oued looks out over the \"Sea of Sand Dunes\" and the traditional domed architecture of the city.",
-                  "category": "natural",
-                  "coords": [
-                        6.873007,
-                        33.359639
-                  ]
-            },
-            {
-                  "name": "Torner",
-                  "text": "The Torner viewpoint in the Saharan oasis of El Oued provides a sweeping view across the expansive sandy Souf region.",
-                  "category": "natural",
-                  "coords": [
-                        6.850163,
-                        33.365185
-                  ]
-            },
             {
                   "name": "Ahmed Atili corse de voiyej",
                   "text": "This urban viewpoint in El Oued allows visitors to observe the daily bustle of the \"City of a Thousand Domes\".",
@@ -1236,15 +984,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                   "coords": [
                         6.894917,
                         33.286276
-                  ]
-            },
-            {
-                  "name": "Maison de la Culture (Ancienne)",
-                  "text": "The old House of Culture in El Oued is a traditional domed structure that formerly hosted Saharan art exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        6.865085,
-                        33.359868
                   ]
             }
       ]
@@ -1681,15 +1420,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chambre de l'artisanat",
-                  "text": "Die Handwerkskammer in Sétif fungiert als Museum, in dem traditionelle algerische Handwerkskunst und lokales Kunsthandwerk ausgestellt sind.",
-                  "category": "museum",
-                  "coords": [
-                        5.405398,
-                        36.181102
-                  ]
-            },
-            {
                   "name": "Centre Culturel Islamique",
                   "text": "Das Islamische Kulturzentrum in Sétif ist eine Bildungs- und Kultureinrichtung, die sich der Förderung islamischer Kunst und Theologie widmet.",
                   "category": "cultural",
@@ -1714,15 +1444,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                   "coords": [
                         5.372677,
                         36.176999
-                  ]
-            },
-            {
-                  "name": "CV.ilot 47- 1 Musée du Moudjahid",
-                  "text": "Das Musée du Moudjahid in Sétif bewahrt historische Dokumente und Waffen auf, die an den algerischen Unabhängigkeitskrieg erinnern.",
-                  "category": "museum",
-                  "coords": [
-                        5.405223,
-                        36.187168
                   ]
             },
             {
@@ -1755,15 +1476,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chambre de l'artisanat",
-                  "text": "A Sétif-i Kézműves Kamara múzeumként is funkcionál, ahol a hagyományos algériai kézműves mesterségeket mutatják be.",
-                  "category": "museum",
-                  "coords": [
-                        5.405398,
-                        36.181102
-                  ]
-            },
-            {
                   "name": "Centre Culturel Islamique",
                   "text": "A Sétif-i Iszlám Kulturális Központ az iszlám művészet és teológia tanulmányozására és megőrzésére szolgáló intézmény.",
                   "category": "cultural",
@@ -1788,15 +1500,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                   "coords": [
                         5.372677,
                         36.176999
-                  ]
-            },
-            {
-                  "name": "CV.ilot 47- 1 Musée du Moudjahid",
-                  "text": "A Sétif-i Mudzsahed Múzeum történelmi dokumentumokat és fegyvereket őriz, amelyek az algériai függetlenségi háborúra emlékeztetnek.",
-                  "category": "museum",
-                  "coords": [
-                        5.405223,
-                        36.187168
                   ]
             },
             {
@@ -1829,15 +1532,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chambre de l'artisanat",
-                  "text": "Camera de Artizanat din Sétif funcționează ca un muzeu care expune meșteșugurile tradiționale algeriene și arta locală.",
-                  "category": "museum",
-                  "coords": [
-                        5.405398,
-                        36.181102
-                  ]
-            },
-            {
                   "name": "Centre Culturel Islamique",
                   "text": "Centrul Cultural Islamic din Sétif este o instituție educațională dedicată promovării artei și teologiei islamice.",
                   "category": "cultural",
@@ -1862,15 +1556,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                   "coords": [
                         5.372677,
                         36.176999
-                  ]
-            },
-            {
-                  "name": "CV.ilot 47- 1 Musée du Moudjahid",
-                  "text": "Muzeul Moudjahidului din Sétif conservă documente istorice și arme care amintesc de Războiul de Independență al Algeriei.",
-                  "category": "museum",
-                  "coords": [
-                        5.405223,
-                        36.187168
                   ]
             },
             {
@@ -1903,15 +1588,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chambre de l'artisanat",
-                  "text": "The Chamber of Crafts in Sétif functions as a museum displaying traditional Algerian craftsmanship and local artisanal work.",
-                  "category": "museum",
-                  "coords": [
-                        5.405398,
-                        36.181102
-                  ]
-            },
-            {
                   "name": "Centre Culturel Islamique",
                   "text": "The Islamic Cultural Centre in Sétif is an educational institution dedicated to the promotion of Islamic art and theology.",
                   "category": "cultural",
@@ -1936,15 +1612,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
                   "coords": [
                         5.372677,
                         36.176999
-                  ]
-            },
-            {
-                  "name": "CV.ilot 47- 1 Musée du Moudjahid",
-                  "text": "The Moudjahid Museum in Sétif preserves historical documents and weapons commemorating the Algerian War of Independence.",
-                  "category": "museum",
-                  "coords": [
-                        5.405223,
-                        36.187168
                   ]
             },
             {
@@ -3980,15 +3647,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
     id: "souk-ahras-agriculture-life-v2", "sights": {
       "de": [
             {
-                  "name": "Musée du Moudjahid",
-                  "text": "Dieses Museum in Souk Ahras widmet sich der Geschichte und den Kämpfern (Mudschaheddin) des algerischen Unabhängigkeitskrieges.",
-                  "category": "museum",
-                  "coords": [
-                        7.967845,
-                        36.287215
-                  ]
-            },
-            {
                   "name": "Monument aux martyrs ALN",
                   "text": "Dieses Denkmal ehrt die gefallenen Märtyrer der Nationalen Befreiungsarmee (ALN) während des algerischen Unabhängigkeitskampfes.",
                   "category": "historical",
@@ -4008,15 +3666,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Musée du Moudjahid",
-                  "text": "Ez a Souk Ahras-i múzeum az algériai függetlenségi háború történetének és harcosainak (mudzsahedin) állít emléket.",
-                  "category": "museum",
-                  "coords": [
-                        7.967845,
-                        36.287215
-                  ]
-            },
             {
                   "name": "Monument aux martyrs ALN",
                   "text": "Ez az emlékmű a Nemzeti Felszabadítási Hadsereg (ALN) algériai függetlenségi harcban elesett mártírjai előtt tiszteleg.",
@@ -4038,15 +3687,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Musée du Moudjahid",
-                  "text": "Acest muzeu din Souk Ahras este dedicat istoriei și luptătorilor (Moudjahidine) din Războiul de Independență al Algeriei.",
-                  "category": "museum",
-                  "coords": [
-                        7.967845,
-                        36.287215
-                  ]
-            },
-            {
                   "name": "Monument aux martyrs ALN",
                   "text": "Acest monument onorează martirii căzuți ai Armatei de Eliberare Națională (ALN) în timpul luptei pentru independența Algeriei.",
                   "category": "historical",
@@ -4066,15 +3706,6 @@ export const poiExtraAlgeriaLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Musée du Moudjahid",
-                  "text": "This museum in Souk Ahras is dedicated to the history and fighters (Moudjahidine) of the Algerian War of Independence.",
-                  "category": "museum",
-                  "coords": [
-                        7.967845,
-                        36.287215
-                  ]
-            },
             {
                   "name": "Monument aux martyrs ALN",
                   "text": "This monument honors the fallen martyrs of the National Liberation Army (ALN) during the Algerian struggle for independence.",

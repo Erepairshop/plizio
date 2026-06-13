@@ -1096,15 +1096,6 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
                         31.13209,
                         -25.935536
                   ]
-            },
-            {
-                  "name": "Bulembu Museum",
-                  "text": "Das Bulembu Museum ist in einer ehemaligen Bergbaustadt untergebracht und dokumentiert Aufstieg und Fall der lokalen Asbestindustrie sowie deren Auswirkungen auf die Gemeinde.",
-                  "category": "museum",
-                  "coords": [
-                        31.127493,
-                        -25.953737
-                  ]
             }
       ],
       "hu": [
@@ -1115,15 +1106,6 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
                   "coords": [
                         31.13209,
                         -25.935536
-                  ]
-            },
-            {
-                  "name": "Bulembu Museum",
-                  "text": "Az egykori bányászvárosban helyet kapó Bulembu Múzeum a helyi azbesztipar felemelkedését és bukását, valamint a közösségre gyakorolt hatását mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        31.127493,
-                        -25.953737
                   ]
             }
       ],
@@ -1136,15 +1118,6 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
                         31.13209,
                         -25.935536
                   ]
-            },
-            {
-                  "name": "Bulembu Museum",
-                  "text": "Găzduit într-un fost oraș minier, Muzeul Bulembu prezintă cronicile ascensiunii și declinului industriei locale de azbest și impactul acesteia asupra comunității.",
-                  "category": "museum",
-                  "coords": [
-                        31.127493,
-                        -25.953737
-                  ]
             }
       ],
       "en": [
@@ -1155,15 +1128,6 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
                   "coords": [
                         31.13209,
                         -25.935536
-                  ]
-            },
-            {
-                  "name": "Bulembu Museum",
-                  "text": "Housed in a former mining town, the Bulembu Museum chronicles the rise and fall of the local asbestos industry and its impact on the community.",
-                  "category": "museum",
-                  "coords": [
-                        31.127493,
-                        -25.953737
                   ]
             }
       ]
@@ -1256,50 +1220,10 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
   },
   {
     id: "tjaneni-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "IYSIS",
-                  "text": "IYSIS, ein Naturschutzgebiet mit Wanderwegen in Tjaneni.",
-                  "category": "natural",
-                  "coords": [
-                        31.73162,
-                        -26.069822
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "IYSIS",
-                  "text": "IYSIS, egy természetvédelmi terület túraútvonalakkal Tjaneni-ben.",
-                  "category": "natural",
-                  "coords": [
-                        31.73162,
-                        -26.069822
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "IYSIS",
-                  "text": "IYSIS, o rezervație naturală cu trasee de drumeție în Tjaneni.",
-                  "category": "natural",
-                  "coords": [
-                        31.73162,
-                        -26.069822
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "IYSIS",
-                  "text": "IYSIS, a nature reserve with hiking trails in Tjaneni.",
-                  "category": "natural",
-                  "coords": [
-                        31.73162,
-                        -26.069822
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "SZ-LU",
@@ -2152,15 +2076,6 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mt Emlembe hiking trail",
-                  "text": "Wanderweg zum Gipfel des Mount Emlembe, dem höchsten Berg Es-swatini nahe Havelock.",
-                  "category": "landmark",
-                  "coords": [
-                        31.13209,
-                        -25.935536
-                  ]
-            },
-            {
                   "name": "Old mine tunnel",
                   "text": "Der Old mine tunnel ist ein historisches Bergwerk in Havelock.",
                   "category": "landmark",
@@ -2178,15 +2093,6 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
                   "coords": [
                         31.127493,
                         -25.953737
-                  ]
-            },
-            {
-                  "name": "Mt Emlembe hiking trail",
-                  "text": "Túraútvonal az Emlembe-hegy csúcsára, Szváziföld legmagasabb pontjára, Havelock közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        31.13209,
-                        -25.935536
                   ]
             },
             {
@@ -2210,15 +2116,6 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mt Emlembe hiking trail",
-                  "text": "Traseu de drumeție până în vârful Muntelui Emlembe, cel mai înalt punct din Eswatini, lângă Havelock.",
-                  "category": "landmark",
-                  "coords": [
-                        31.13209,
-                        -25.935536
-                  ]
-            },
-            {
                   "name": "Old mine tunnel",
                   "text": "Old mine tunnel este o mină istorică în Havelock.",
                   "category": "landmark",
@@ -2236,15 +2133,6 @@ export const poiExtraSwazilandCitiesV2: POI[] = [
                   "coords": [
                         31.127493,
                         -25.953737
-                  ]
-            },
-            {
-                  "name": "Mt Emlembe hiking trail",
-                  "text": "Hiking trail to the summit of Mount Emlembe, the highest peak in Eswatini near Havelock.",
-                  "category": "landmark",
-                  "coords": [
-                        31.13209,
-                        -25.935536
                   ]
             },
             {

@@ -825,15 +825,6 @@ export const norwayLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tråstad skanse",
-                  "text": "Eine historische Schanze, die zur Verteidigungsanlage von Kongsvinger gehört.",
-                  "category": "fortress",
-                  "coords": [
-                        12.023089,
-                        60.193192
-                  ]
-            },
-            {
                   "name": "Aamodtgården",
                   "text": "Ein historisches Gebäude und Museum in der Nähe der Festung Kongsvinger.",
                   "category": "museum",
@@ -887,15 +878,6 @@ export const norwayLandmarksV2: POI[] = [
                   "coords": [
                         12.011818,
                         60.199422
-                  ]
-            },
-            {
-                  "name": "Tråstad skanse",
-                  "text": "Kongsvinger védelmi rendszeréhez tartozó történelmi sánc.",
-                  "category": "fortress",
-                  "coords": [
-                        12.023089,
-                        60.193192
                   ]
             },
             {
@@ -955,15 +937,6 @@ export const norwayLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tråstad skanse",
-                  "text": "O fortificație istorică ce face parte din sistemul de apărare al Kongsvinger.",
-                  "category": "fortress",
-                  "coords": [
-                        12.023089,
-                        60.193192
-                  ]
-            },
-            {
                   "name": "Aamodtgården",
                   "text": "O clădire istorică și un muzeu situat lângă fortăreața Kongsvinger.",
                   "category": "museum",
@@ -1017,15 +990,6 @@ export const norwayLandmarksV2: POI[] = [
                   "coords": [
                         12.011818,
                         60.199422
-                  ]
-            },
-            {
-                  "name": "Tråstad skanse",
-                  "text": "A historic entrenchment belonging to the Kongsvinger defense system.",
-                  "category": "fortress",
-                  "coords": [
-                        12.023089,
-                        60.193192
                   ]
             },
             {
@@ -1239,30 +1203,12 @@ export const norwayLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Meridiankugel",
-                  "text": "Ein berühmtes Denkmal am Nordkap, das die Erde darstellt und ein beliebtes Fotomotiv ist.",
-                  "category": "historical",
-                  "coords": [
-                        25.783071,
-                        71.17101
-                  ]
-            },
-            {
                   "name": "Stor-Kappa",
                   "text": "Ein Aussichtspunkt in der Nähe des Nordkaps mit weitem Blick über das Eismeer.",
                   "category": "natural",
                   "coords": [
                         25.797778,
                         71.164444
-                  ]
-            },
-            {
-                  "name": "Kings View",
-                  "text": "Ein malerischer Aussichtspunkt in der Umgebung des Nordkaps.",
-                  "category": "natural",
-                  "coords": [
-                        25.785393,
-                        71.170941
                   ]
             }
       ],
@@ -1295,30 +1241,12 @@ export const norwayLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Földgömb",
-                  "text": "Híres emlékmű az Északi-foknál, amely a földgömböt ábrázolja és népszerű fotóhelyszín.",
-                  "category": "historical",
-                  "coords": [
-                        25.783071,
-                        71.17101
-                  ]
-            },
-            {
                   "name": "Stor-Kappa",
                   "text": "Kilátópont az Északi-fok közelében, tágas kilátással a Jeges-tengerre.",
                   "category": "natural",
                   "coords": [
                         25.797778,
                         71.164444
-                  ]
-            },
-            {
-                  "name": "Kings View",
-                  "text": "Festői kilátóhely az Északi-fok környékén.",
-                  "category": "natural",
-                  "coords": [
-                        25.785393,
-                        71.170941
                   ]
             }
       ],
@@ -1351,30 +1279,12 @@ export const norwayLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Globe",
-                  "text": "Un monument faimos la Capul Nord care reprezintă globul pământesc, fiind un loc popular pentru fotografii.",
-                  "category": "historical",
-                  "coords": [
-                        25.783071,
-                        71.17101
-                  ]
-            },
-            {
                   "name": "Stor-Kappa",
                   "text": "Un punct de observație lângă Capul Nord, oferind vederi largi asupra Oceanului Arctic.",
                   "category": "natural",
                   "coords": [
                         25.797778,
                         71.164444
-                  ]
-            },
-            {
-                  "name": "Kings View",
-                  "text": "Un punct panoramic pitoresc în împrejurimile Capului Nord.",
-                  "category": "natural",
-                  "coords": [
-                        25.785393,
-                        71.170941
                   ]
             }
       ],
@@ -1407,30 +1317,12 @@ export const norwayLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Globe",
-                  "text": "A famous monument at the North Cape representing the globe, serving as a popular photo spot.",
-                  "category": "historical",
-                  "coords": [
-                        25.783071,
-                        71.17101
-                  ]
-            },
-            {
                   "name": "Stor-Kappa",
                   "text": "A viewpoint near the North Cape offering expansive views over the Arctic Ocean.",
                   "category": "natural",
                   "coords": [
                         25.797778,
                         71.164444
-                  ]
-            },
-            {
-                  "name": "Kings View",
-                  "text": "A scenic viewpoint located in the surroundings of the North Cape.",
-                  "category": "natural",
-                  "coords": [
-                        25.785393,
-                        71.170941
                   ]
             }
       ]

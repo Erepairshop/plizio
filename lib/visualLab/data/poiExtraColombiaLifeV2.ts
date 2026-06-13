@@ -5043,39 +5043,12 @@ export const poiExtraColombiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Humedal Tibanica",
-                  "text": "Dieses 28 Hektar große Feuchtgebiet an der Grenze zwischen Bogotá und Soacha ist ein wichtiges Schutzgebiet für endemische und wandernde Vogelarten.",
-                  "category": "natural",
-                  "coords": [
-                        -74.204729,
-                        4.603111
-                  ]
-            },
-            {
-                  "name": "Parque Tibanica",
-                  "text": "Dieses grüne Naherholungsgebiet grenzt an das Ökosystem des Feuchtgebiets Tibanica und bietet Naturpfade und Tierbeobachtungen.",
-                  "category": "park",
-                  "coords": [
-                        -74.196932,
-                        4.582392
-                  ]
-            },
-            {
                   "name": "Mundo Aventura",
                   "text": "Einer der beliebtesten Vergnügungsparks Bogotás, der rasante mechanische Fahrgeschäfte, einen Streichelzoo und einen Extremsportbereich bietet.",
                   "category": "recreational",
                   "coords": [
                         -74.135086,
                         4.622394
-                  ]
-            },
-            {
-                  "name": "Museo Arqueológico",
-                  "text": "Eine Institution, die präkolumbianische Keramik und indigene Artefakte aus der Region bewahrt und ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        -74.217512,
-                        4.581919
                   ]
             },
             {
@@ -5324,39 +5297,12 @@ export const poiExtraColombiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Humedal Tibanica",
-                  "text": "A Bogotá és Soacha határán fekvő 28 hektáros vizesélőhely a bennszülött és vonuló madárfajok létfontosságú menedéke.",
-                  "category": "natural",
-                  "coords": [
-                        -74.204729,
-                        4.603111
-                  ]
-            },
-            {
-                  "name": "Parque Tibanica",
-                  "text": "Ez a zöld rekreációs terület a Tibanica vizesélőhely ökoszisztémájával határos, tanösvényeket és vadon élő állatok megfigyelését kínálva.",
-                  "category": "park",
-                  "coords": [
-                        -74.196932,
-                        4.582392
-                  ]
-            },
-            {
                   "name": "Mundo Aventura",
                   "text": "Bogotá egyik legnépszerűbb vidámparkja, amely izgalmas mechanikus túrákkal, állatsimogatóval és extrém sportzónával várja a látogatókat.",
                   "category": "recreational",
                   "coords": [
                         -74.135086,
                         4.622394
-                  ]
-            },
-            {
-                  "name": "Museo Arqueológico",
-                  "text": "A régióból feltárt kolumbusz előtti kerámiákat és bennszülött leleteket őrző és bemutató intézmény.",
-                  "category": "museum",
-                  "coords": [
-                        -74.217512,
-                        4.581919
                   ]
             },
             {
@@ -5605,39 +5551,12 @@ export const poiExtraColombiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Humedal Tibanica",
-                  "text": "Aflat la granița dintre Bogotá și Soacha, această zonă umedă de 28 de hectare este un sanctuar vital pentru speciile de păsări endemice și migratoare.",
-                  "category": "natural",
-                  "coords": [
-                        -74.204729,
-                        4.603111
-                  ]
-            },
-            {
-                  "name": "Parque Tibanica",
-                  "text": "Acest spațiu verde de recreere se învecinează cu ecosistemul zonelor umede Tibanica, oferind trasee în natură și observarea faunei sălbatice.",
-                  "category": "park",
-                  "coords": [
-                        -74.196932,
-                        4.582392
-                  ]
-            },
-            {
                   "name": "Mundo Aventura",
                   "text": "Unul dintre cele mai populare parcuri de distracții din Bogotá, cu atracții mecanice palpitante, o grădină zoologică cu animale blânde și o zonă de sporturi extreme.",
                   "category": "recreational",
                   "coords": [
                         -74.135086,
                         4.622394
-                  ]
-            },
-            {
-                  "name": "Museo Arqueológico",
-                  "text": "O instituție care conservă și expune ceramică precolumbiană și artefacte indigene recuperate din regiune.",
-                  "category": "museum",
-                  "coords": [
-                        -74.217512,
-                        4.581919
                   ]
             },
             {
@@ -5886,39 +5805,12 @@ export const poiExtraColombiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Humedal Tibanica",
-                  "text": "Straddling the border of Bogotá and Soacha, this 28-hectare wetland is a vital sanctuary for endemic and migratory bird species.",
-                  "category": "natural",
-                  "coords": [
-                        -74.204729,
-                        4.603111
-                  ]
-            },
-            {
-                  "name": "Parque Tibanica",
-                  "text": "This green recreational space borders the Tibanica wetland ecosystem, offering nature trails and wildlife observation.",
-                  "category": "park",
-                  "coords": [
-                        -74.196932,
-                        4.582392
-                  ]
-            },
-            {
                   "name": "Mundo Aventura",
                   "text": "One of Bogotá's most popular amusement parks, featuring thrilling mechanical rides, a petting zoo, and an extreme sports area.",
                   "category": "recreational",
                   "coords": [
                         -74.135086,
                         4.622394
-                  ]
-            },
-            {
-                  "name": "Museo Arqueológico",
-                  "text": "An institution preserving and displaying pre-Columbian ceramics and indigenous artifacts recovered from the region.",
-                  "category": "museum",
-                  "coords": [
-                        -74.217512,
-                        4.581919
                   ]
             },
             {
@@ -12487,15 +12379,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Varón del Sol",
-                  "text": "Ausgrabungen an dieser antiken Stätte nahe der zoologico-santacruz-life-v2 bringen historische Artefakte der Region ans Licht.",
-                  "category": "historical",
-                  "coords": [
-                        -74.216461,
-                        4.553129
-                  ]
-            },
-            {
                   "name": "Piedras del Infinito",
                   "text": "Dieses Ausgrabungsgebiet bei der zoologico-santacruz-life-v2 ist bekannt für seine markanten antiken Gesteinsformationen.",
                   "category": "historical",
@@ -12819,15 +12702,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
                   "coords": [
                         -74.28259,
                         4.57546
-                  ]
-            },
-            {
-                  "name": "Varón del Sol",
-                  "text": "A zoologico-santacruz-life-v2 közelében lévő ősi lelőhelyen végzett ásatások a régió történelmi tárgyait tárják fel.",
-                  "category": "historical",
-                  "coords": [
-                        -74.216461,
-                        4.553129
                   ]
             },
             {
@@ -13157,15 +13031,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Varón del Sol",
-                  "text": "Săpăturile de la acest sit antic de lângă zoologico-santacruz-life-v2 scot la iveală artefacte istorice din regiune.",
-                  "category": "historical",
-                  "coords": [
-                        -74.216461,
-                        4.553129
-                  ]
-            },
-            {
                   "name": "Piedras del Infinito",
                   "text": "Această zonă de excavații de lângă zoologico-santacruz-life-v2 este cunoscută pentru formațiunile sale stâncoase antice distincte.",
                   "category": "historical",
@@ -13489,15 +13354,6 @@ export const poiExtraColombiaLifeV2: POI[] = [
                   "coords": [
                         -74.28259,
                         4.57546
-                  ]
-            },
-            {
-                  "name": "Varón del Sol",
-                  "text": "Excavations at this ancient site near the zoologico-santacruz-life-v2 reveal historical artifacts of the region.",
-                  "category": "historical",
-                  "coords": [
-                        -74.216461,
-                        4.553129
                   ]
             },
             {

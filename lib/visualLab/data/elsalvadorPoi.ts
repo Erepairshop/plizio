@@ -1034,7 +1034,520 @@ export const elsalvadorCities: POI[] = [
     historyYear: 1530,
     historyPeriod: "Colonial", image: "/poi-images/sv-sanmiguel.webp"},
   { 
-    id: "sv-santatecla", "sights": {"de": [{"name": "Casa-Museo Hermanas Chacón", "text": "Ein Museum in Santa Tecla, das im ehemaligen Wohnhaus der Schwestern Chacón untergebracht ist.", "category": "museum", "coords": [-89.300501, 13.672733]}, {"name": "Finca San Luís", "text": "Ein Naturreservat in Santa Tecla, das lokale Flora und Fauna schützt.", "category": "natural", "coords": [-89.306718, 13.674798]}, {"name": "Museo Tecleño", "text": "Ein Museum, das der Geschichte und Kultur von Santa Tecla gewidmet ist.", "category": "museum", "coords": [-89.283734, 13.673567]}, {"name": "Plaza de la Cultura", "text": "Inmitten von Santa Tecla fungiert die Plaza de la Cultura als pulsierender Theaterraum und kultureller Veranstaltungsort. Obwohl es sich hier nicht um einen Strand handelt, bietet dieser zentrale Treffpunkt ein reichhaltiges Erlebnis für Einheimische und Besucher. Wer in El Salvador nach Kunst und Unterhaltung sucht, sollte am besten abends vorbeischauen, um das vielfältige Programm zu erleben.", "category": "cultural", "coords": [-89.286653, 13.675468]}, {"name": "Concha Acústica", "text": "Eine Freilichtbühne in Santa Tecla für Konzerte und kulturelle Aufführungen.", "category": "cultural", "coords": [-89.266044, 13.683104]}, {"name": "Teatro", "text": "Ein Theatergebäude in Santa Tecla für lokale Aufführungen.", "category": "cultural", "coords": [-89.263648, 13.683745]}, {"name": "Teatro Teacher Mendez", "text": "Ein nach Teacher Mendez benanntes Theater in Santa Tecla.", "category": "cultural", "coords": [-89.28725, 13.679039]}, {"name": "Anfiteatro El Cafetalón", "text": "Ein Amphitheater im El Cafetalón Park in Santa Tecla für öffentliche Veranstaltungen.", "category": "cultural", "coords": [-89.283059, 13.677163]}, {"name": "Parque Acuático Adolfo Salume", "text": "Ein Wasserpark in Santa Tecla mit verschiedenen Freizeit- und Schwimmbecken.", "category": "family", "coords": [-89.280673, 13.674743]}, {"name": "Acceso Desprendimiento de las Colinas 2001", "text": "Ein Aussichtspunkt in Santa Tecla, der an das Erdrutschereignis von 2001 erinnert.", "category": "natural", "coords": [-89.29324, 13.654955]}, {"name": "Deslave de las Colinas 2001", "text": "Eine Gedenkstätte und Aussichtspunkt am Ort des Erdrutschs von 2001 in Santa Tecla.", "category": "natural", "coords": [-89.28695, 13.665837]}, {"name": "Orden de Malta", "text": "Ein Denkmal zu Ehren des Malteserordens in Santa Tecla.", "category": "historical", "coords": [-89.259179, 13.663]}, {"name": "Monumento a Daniel Hernández", "text": "Ein Denkmal für Daniel Hernández, eine bedeutende Persönlichkeit in Santa Tecla.", "category": "historical", "coords": [-89.28848, 13.673424]}, {"name": "Monumento al Centenario de Fundación", "text": "Ein Monument zum 100-jährigen Bestehen der Stadtgründung von Santa Tecla.", "category": "historical", "coords": [-89.285211, 13.673606]}, {"name": "Mansión de la Familia Guirola", "text": "Ein historisches Herrenhaus der einflussreichen Familie Guirola in Santa Tecla.", "category": "historical", "coords": [-89.287601, 13.664049]}, {"name": "Iglesia El Carmen", "text": "Eine bedeutende neugotische Kirche in Santa Tecla.", "category": "religious", "coords": [-89.288198, 13.675793]}], "hu": [{"name": "Casa-Museo Hermanas Chacón", "text": "Santa Tecla múzeuma, amely a Chacón nővérek egykori házában található.", "category": "museum", "coords": [-89.300501, 13.672733]}, {"name": "Finca San Luís", "text": "Természetvédelmi terület Santa Tecla városában, amely a helyi élővilágot óvja.", "category": "natural", "coords": [-89.306718, 13.674798]}, {"name": "Museo Tecleño", "text": "Santa Tecla történelmének és kultúrájának szentelt helyi múzeum.", "category": "museum", "coords": [-89.283734, 13.673567]}, {"name": "Plaza de la Cultura", "text": "Santa Tecla szívében a Plaza de la Cultura élénk színházi térként és kulturális rendezvényhelyszínként szolgál. Bár ez nem egy tengerpart, ez a központi találkozóhely gazdag élményt nyújt a helyiek és a látogatók számára egyaránt. Aki művészetet és szórakozást keres El Salvadorban, annak érdemes az esti órákban idelátogatnia, hogy megtapasztalja a sokszínű programokat.", "category": "cultural", "coords": [-89.286653, 13.675468]}, {"name": "Concha Acústica", "text": "Szabadtéri színpad Santa Tecla városában koncertek és előadások számára.", "category": "cultural", "coords": [-89.266044, 13.683104]}, {"name": "Teatro", "text": "Színházépület Santa Tecla városában helyi előadások számára.", "category": "cultural", "coords": [-89.263648, 13.683745]}, {"name": "Teatro Teacher Mendez", "text": "Teacher Mendez nevét viselő színház Santa Tecla városában.", "category": "cultural", "coords": [-89.28725, 13.679039]}, {"name": "Anfiteatro El Cafetalón", "text": "Amfiteátrum a Santa Tecla-i El Cafetalón parkban közösségi eseményekhez.", "category": "cultural", "coords": [-89.283059, 13.677163]}, {"name": "Parque Acuático Adolfo Salume", "text": "Vízi park Santa Tecla városában különféle medencékkel és kikapcsolódási lehetőségekkel.", "category": "family", "coords": [-89.280673, 13.674743]}, {"name": "Acceso Desprendimiento de las Colinas 2001", "text": "Kilátópont Santa Tecla városában, amely a 2001-es földcsuszamlás helyszínére tekint.", "category": "natural", "coords": [-89.29324, 13.654955]}, {"name": "Deslave de las Colinas 2001", "text": "Emlékhely és kilátópont a 2001-es Santa Tecla-i földcsuszamlás helyszínén.", "category": "natural", "coords": [-89.28695, 13.665837]}, {"name": "Orden de Malta", "text": "A Máltai Lovagrend tiszteletére emelt emlékmű Santa Tecla városában.", "category": "historical", "coords": [-89.259179, 13.663]}, {"name": "Monumento a Daniel Hernández", "text": "Daniel Hernández tiszteletére emelt emlékmű Santa Tecla városában.", "category": "historical", "coords": [-89.28848, 13.673424]}, {"name": "Monumento al Centenario de Fundación", "text": "Santa Tecla alapításának centenáriuma alkalmából emelt emlékmű.", "category": "historical", "coords": [-89.285211, 13.673606]}, {"name": "Mansión de la Familia Guirola", "text": "A befolyásos Guirola család történelmi kúriája Santa Tecla városában.", "category": "historical", "coords": [-89.287601, 13.664049]}, {"name": "Iglesia El Carmen", "text": "Jelentős neogótikus templom Santa Tecla városában.", "category": "religious", "coords": [-89.288198, 13.675793]}], "ro": [{"name": "Casa-Museo Hermanas Chacón", "text": "Un muzeu în Santa Tecla situat în fosta reședință a surorilor Chacón.", "category": "museum", "coords": [-89.300501, 13.672733]}, {"name": "Finca San Luís", "text": "O rezervație naturală în Santa Tecla care protejează flora și fauna locală.", "category": "natural", "coords": [-89.306718, 13.674798]}, {"name": "Museo Tecleño", "text": "Un muzeu dedicat istoriei și culturii orașului Santa Tecla.", "category": "museum", "coords": [-89.283734, 13.673567]}, {"name": "Plaza de la Cultura", "text": "În mijlocul orașului Santa Tecla, Plaza de la Cultura funcționează ca un spațiu teatral vibrant și un loc pentru evenimente culturale. Deși nu este o plajă, acest punct de întâlnire central oferă o experiență bogată atât pentru localnici, cât și pentru vizitatori. Cei care caută artă și divertisment în El Salvador ar trebui să treacă pe aici în timpul serii pentru a experimenta programul divers.", "category": "cultural", "coords": [-89.286653, 13.675468]}, {"name": "Concha Acústica", "text": "O scenă în aer liber în Santa Tecla pentru concerte și spectacole culturale.", "category": "cultural", "coords": [-89.266044, 13.683104]}, {"name": "Teatro", "text": "O clădire de teatru în Santa Tecla destinată spectacolelor locale.", "category": "cultural", "coords": [-89.263648, 13.683745]}, {"name": "Teatro Teacher Mendez", "text": "Un teatru în Santa Tecla care poartă numele lui Teacher Mendez.", "category": "cultural", "coords": [-89.28725, 13.679039]}, {"name": "Anfiteatro El Cafetalón", "text": "Un amfiteatru în parcul El Cafetalón din Santa Tecla pentru evenimente publice.", "category": "cultural", "coords": [-89.283059, 13.677163]}, {"name": "Parque Acuático Adolfo Salume", "text": "Un parc acvatic în Santa Tecla cu diverse piscine și facilități de recreere.", "category": "family", "coords": [-89.280673, 13.674743]}, {"name": "Acceso Desprendimiento de las Colinas 2001", "text": "Un punct de belvedere în Santa Tecla care amintește de alunecarea de teren din 2001.", "category": "natural", "coords": [-89.29324, 13.654955]}, {"name": "Deslave de las Colinas 2001", "text": "Un loc memorial și punct de belvedere la locul alunecării de teren din 2001 în Santa Tecla.", "category": "natural", "coords": [-89.28695, 13.665837]}, {"name": "Orden de Malta", "text": "Un monument dedicat Ordinului de Malta în Santa Tecla.", "category": "historical", "coords": [-89.259179, 13.663]}, {"name": "Monumento a Daniel Hernández", "text": "Un monument în cinstea lui Daniel Hernández în Santa Tecla.", "category": "historical", "coords": [-89.28848, 13.673424]}, {"name": "Monumento al Centenario de Fundación", "text": "Un monument ce marchează centenarul fondării orașului Santa Tecla.", "category": "historical", "coords": [-89.285211, 13.673606]}, {"name": "Mansión de la Familia Guirola", "text": "Un conac istoric aparținând influentei familii Guirola din Santa Tecla.", "category": "historical", "coords": [-89.287601, 13.664049]}, {"name": "Iglesia El Carmen", "text": "O importantă biserică neogotică în Santa Tecla.", "category": "religious", "coords": [-89.288198, 13.675793]}], "en": [{"name": "Casa-Museo Hermanas Chacón", "text": "A museum in Santa Tecla housed in the former residence of the Chacón sisters.", "category": "museum", "coords": [-89.300501, 13.672733]}, {"name": "Finca San Luís", "text": "A nature reserve in Santa Tecla protecting local flora and fauna.", "category": "natural", "coords": [-89.306718, 13.674798]}, {"name": "Museo Tecleño", "text": "A museum dedicated to the history and culture of Santa Tecla.", "category": "museum", "coords": [-89.283734, 13.673567]}, {"name": "Plaza de la Cultura", "text": "Located in the middle of Santa Tecla, the Plaza de la Cultura functions as a vibrant theater space and cultural venue. Although it isn't a beach, this central meeting point offers a rich experience for locals and visitors alike. Anyone looking for art and entertainment in El Salvador should ideally stop by in the evening to experience the diverse programming.", "category": "cultural", "coords": [-89.286653, 13.675468]}, {"name": "Concha Acústica", "text": "An open-air stage in Santa Tecla for concerts and cultural performances.", "category": "cultural", "coords": [-89.266044, 13.683104]}, {"name": "Teatro", "text": "A theatre building in Santa Tecla used for local performances.", "category": "cultural", "coords": [-89.263648, 13.683745]}, {"name": "Teatro Teacher Mendez", "text": "A theatre in Santa Tecla named after Teacher Mendez.", "category": "cultural", "coords": [-89.28725, 13.679039]}, {"name": "Anfiteatro El Cafetalón", "text": "An amphitheatre in El Cafetalón park in Santa Tecla for public events.", "category": "cultural", "coords": [-89.283059, 13.677163]}, {"name": "Parque Acuático Adolfo Salume", "text": "A water park in Santa Tecla featuring various pools and recreation facilities.", "category": "family", "coords": [-89.280673, 13.674743]}, {"name": "Acceso Desprendimiento de las Colinas 2001", "text": "A viewpoint in Santa Tecla looking over the site of the 2001 landslide.", "category": "natural", "coords": [-89.29324, 13.654955]}, {"name": "Deslave de las Colinas 2001", "text": "A memorial site and viewpoint at the location of the 2001 landslide in Santa Tecla.", "category": "natural", "coords": [-89.28695, 13.665837]}, {"name": "Orden de Malta", "text": "A monument dedicated to the Order of Malta in Santa Tecla.", "category": "historical", "coords": [-89.259179, 13.663]}, {"name": "Monumento a Daniel Hernández", "text": "A monument dedicated to Daniel Hernández in Santa Tecla.", "category": "historical", "coords": [-89.28848, 13.673424]}, {"name": "Monumento al Centenario de Fundación", "text": "A monument commemorating the centenary of the founding of Santa Tecla.", "category": "historical", "coords": [-89.285211, 13.673606]}, {"name": "Mansión de la Familia Guirola", "text": "A historic manor house belonging to the influential Guirola family in Santa Tecla.", "category": "historical", "coords": [-89.287601, 13.664049]}, {"name": "Iglesia El Carmen", "text": "A significant neo-Gothic church located in Santa Tecla.", "category": "religious", "coords": [-89.288198, 13.675793]}]}, 
+    id: "sv-santatecla", "sights": {
+      "de": [
+            {
+                  "name": "Casa-Museo Hermanas Chacón",
+                  "text": "Ein Museum in Santa Tecla, das im ehemaligen Wohnhaus der Schwestern Chacón untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -89.300501,
+                        13.672733
+                  ]
+            },
+            {
+                  "name": "Finca San Luís",
+                  "text": "Ein Naturreservat in Santa Tecla, das lokale Flora und Fauna schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -89.306718,
+                        13.674798
+                  ]
+            },
+            {
+                  "name": "Museo Tecleño",
+                  "text": "Ein Museum, das der Geschichte und Kultur von Santa Tecla gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -89.283734,
+                        13.673567
+                  ]
+            },
+            {
+                  "name": "Plaza de la Cultura",
+                  "text": "Inmitten von Santa Tecla fungiert die Plaza de la Cultura als pulsierender Theaterraum und kultureller Veranstaltungsort. Obwohl es sich hier nicht um einen Strand handelt, bietet dieser zentrale Treffpunkt ein reichhaltiges Erlebnis für Einheimische und Besucher. Wer in El Salvador nach Kunst und Unterhaltung sucht, sollte am besten abends vorbeischauen, um das vielfältige Programm zu erleben.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.286653,
+                        13.675468
+                  ]
+            },
+            {
+                  "name": "Teatro Teacher Mendez",
+                  "text": "Ein nach Teacher Mendez benanntes Theater in Santa Tecla.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.28725,
+                        13.679039
+                  ]
+            },
+            {
+                  "name": "Anfiteatro El Cafetalón",
+                  "text": "Ein Amphitheater im El Cafetalón Park in Santa Tecla für öffentliche Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.283059,
+                        13.677163
+                  ]
+            },
+            {
+                  "name": "Parque Acuático Adolfo Salume",
+                  "text": "Ein Wasserpark in Santa Tecla mit verschiedenen Freizeit- und Schwimmbecken.",
+                  "category": "family",
+                  "coords": [
+                        -89.280673,
+                        13.674743
+                  ]
+            },
+            {
+                  "name": "Acceso Desprendimiento de las Colinas 2001",
+                  "text": "Ein Aussichtspunkt in Santa Tecla, der an das Erdrutschereignis von 2001 erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        -89.29324,
+                        13.654955
+                  ]
+            },
+            {
+                  "name": "Deslave de las Colinas 2001",
+                  "text": "Eine Gedenkstätte und Aussichtspunkt am Ort des Erdrutschs von 2001 in Santa Tecla.",
+                  "category": "natural",
+                  "coords": [
+                        -89.28695,
+                        13.665837
+                  ]
+            },
+            {
+                  "name": "Orden de Malta",
+                  "text": "Ein Denkmal zu Ehren des Malteserordens in Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.259179,
+                        13.663
+                  ]
+            },
+            {
+                  "name": "Monumento a Daniel Hernández",
+                  "text": "Ein Denkmal für Daniel Hernández, eine bedeutende Persönlichkeit in Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.28848,
+                        13.673424
+                  ]
+            },
+            {
+                  "name": "Monumento al Centenario de Fundación",
+                  "text": "Ein Monument zum 100-jährigen Bestehen der Stadtgründung von Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.285211,
+                        13.673606
+                  ]
+            },
+            {
+                  "name": "Mansión de la Familia Guirola",
+                  "text": "Ein historisches Herrenhaus der einflussreichen Familie Guirola in Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.287601,
+                        13.664049
+                  ]
+            },
+            {
+                  "name": "Iglesia El Carmen",
+                  "text": "Eine bedeutende neugotische Kirche in Santa Tecla.",
+                  "category": "religious",
+                  "coords": [
+                        -89.288198,
+                        13.675793
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa-Museo Hermanas Chacón",
+                  "text": "Santa Tecla múzeuma, amely a Chacón nővérek egykori házában található.",
+                  "category": "museum",
+                  "coords": [
+                        -89.300501,
+                        13.672733
+                  ]
+            },
+            {
+                  "name": "Finca San Luís",
+                  "text": "Természetvédelmi terület Santa Tecla városában, amely a helyi élővilágot óvja.",
+                  "category": "natural",
+                  "coords": [
+                        -89.306718,
+                        13.674798
+                  ]
+            },
+            {
+                  "name": "Museo Tecleño",
+                  "text": "Santa Tecla történelmének és kultúrájának szentelt helyi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -89.283734,
+                        13.673567
+                  ]
+            },
+            {
+                  "name": "Plaza de la Cultura",
+                  "text": "Santa Tecla szívében a Plaza de la Cultura élénk színházi térként és kulturális rendezvényhelyszínként szolgál. Bár ez nem egy tengerpart, ez a központi találkozóhely gazdag élményt nyújt a helyiek és a látogatók számára egyaránt. Aki művészetet és szórakozást keres El Salvadorban, annak érdemes az esti órákban idelátogatnia, hogy megtapasztalja a sokszínű programokat.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.286653,
+                        13.675468
+                  ]
+            },
+            {
+                  "name": "Teatro Teacher Mendez",
+                  "text": "Teacher Mendez nevét viselő színház Santa Tecla városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.28725,
+                        13.679039
+                  ]
+            },
+            {
+                  "name": "Anfiteatro El Cafetalón",
+                  "text": "Amfiteátrum a Santa Tecla-i El Cafetalón parkban közösségi eseményekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.283059,
+                        13.677163
+                  ]
+            },
+            {
+                  "name": "Parque Acuático Adolfo Salume",
+                  "text": "Vízi park Santa Tecla városában különféle medencékkel és kikapcsolódási lehetőségekkel.",
+                  "category": "family",
+                  "coords": [
+                        -89.280673,
+                        13.674743
+                  ]
+            },
+            {
+                  "name": "Acceso Desprendimiento de las Colinas 2001",
+                  "text": "Kilátópont Santa Tecla városában, amely a 2001-es földcsuszamlás helyszínére tekint.",
+                  "category": "natural",
+                  "coords": [
+                        -89.29324,
+                        13.654955
+                  ]
+            },
+            {
+                  "name": "Deslave de las Colinas 2001",
+                  "text": "Emlékhely és kilátópont a 2001-es Santa Tecla-i földcsuszamlás helyszínén.",
+                  "category": "natural",
+                  "coords": [
+                        -89.28695,
+                        13.665837
+                  ]
+            },
+            {
+                  "name": "Orden de Malta",
+                  "text": "A Máltai Lovagrend tiszteletére emelt emlékmű Santa Tecla városában.",
+                  "category": "historical",
+                  "coords": [
+                        -89.259179,
+                        13.663
+                  ]
+            },
+            {
+                  "name": "Monumento a Daniel Hernández",
+                  "text": "Daniel Hernández tiszteletére emelt emlékmű Santa Tecla városában.",
+                  "category": "historical",
+                  "coords": [
+                        -89.28848,
+                        13.673424
+                  ]
+            },
+            {
+                  "name": "Monumento al Centenario de Fundación",
+                  "text": "Santa Tecla alapításának centenáriuma alkalmából emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -89.285211,
+                        13.673606
+                  ]
+            },
+            {
+                  "name": "Mansión de la Familia Guirola",
+                  "text": "A befolyásos Guirola család történelmi kúriája Santa Tecla városában.",
+                  "category": "historical",
+                  "coords": [
+                        -89.287601,
+                        13.664049
+                  ]
+            },
+            {
+                  "name": "Iglesia El Carmen",
+                  "text": "Jelentős neogótikus templom Santa Tecla városában.",
+                  "category": "religious",
+                  "coords": [
+                        -89.288198,
+                        13.675793
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa-Museo Hermanas Chacón",
+                  "text": "Un muzeu în Santa Tecla situat în fosta reședință a surorilor Chacón.",
+                  "category": "museum",
+                  "coords": [
+                        -89.300501,
+                        13.672733
+                  ]
+            },
+            {
+                  "name": "Finca San Luís",
+                  "text": "O rezervație naturală în Santa Tecla care protejează flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        -89.306718,
+                        13.674798
+                  ]
+            },
+            {
+                  "name": "Museo Tecleño",
+                  "text": "Un muzeu dedicat istoriei și culturii orașului Santa Tecla.",
+                  "category": "museum",
+                  "coords": [
+                        -89.283734,
+                        13.673567
+                  ]
+            },
+            {
+                  "name": "Plaza de la Cultura",
+                  "text": "În mijlocul orașului Santa Tecla, Plaza de la Cultura funcționează ca un spațiu teatral vibrant și un loc pentru evenimente culturale. Deși nu este o plajă, acest punct de întâlnire central oferă o experiență bogată atât pentru localnici, cât și pentru vizitatori. Cei care caută artă și divertisment în El Salvador ar trebui să treacă pe aici în timpul serii pentru a experimenta programul divers.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.286653,
+                        13.675468
+                  ]
+            },
+            {
+                  "name": "Teatro Teacher Mendez",
+                  "text": "Un teatru în Santa Tecla care poartă numele lui Teacher Mendez.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.28725,
+                        13.679039
+                  ]
+            },
+            {
+                  "name": "Anfiteatro El Cafetalón",
+                  "text": "Un amfiteatru în parcul El Cafetalón din Santa Tecla pentru evenimente publice.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.283059,
+                        13.677163
+                  ]
+            },
+            {
+                  "name": "Parque Acuático Adolfo Salume",
+                  "text": "Un parc acvatic în Santa Tecla cu diverse piscine și facilități de recreere.",
+                  "category": "family",
+                  "coords": [
+                        -89.280673,
+                        13.674743
+                  ]
+            },
+            {
+                  "name": "Acceso Desprendimiento de las Colinas 2001",
+                  "text": "Un punct de belvedere în Santa Tecla care amintește de alunecarea de teren din 2001.",
+                  "category": "natural",
+                  "coords": [
+                        -89.29324,
+                        13.654955
+                  ]
+            },
+            {
+                  "name": "Deslave de las Colinas 2001",
+                  "text": "Un loc memorial și punct de belvedere la locul alunecării de teren din 2001 în Santa Tecla.",
+                  "category": "natural",
+                  "coords": [
+                        -89.28695,
+                        13.665837
+                  ]
+            },
+            {
+                  "name": "Orden de Malta",
+                  "text": "Un monument dedicat Ordinului de Malta în Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.259179,
+                        13.663
+                  ]
+            },
+            {
+                  "name": "Monumento a Daniel Hernández",
+                  "text": "Un monument în cinstea lui Daniel Hernández în Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.28848,
+                        13.673424
+                  ]
+            },
+            {
+                  "name": "Monumento al Centenario de Fundación",
+                  "text": "Un monument ce marchează centenarul fondării orașului Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.285211,
+                        13.673606
+                  ]
+            },
+            {
+                  "name": "Mansión de la Familia Guirola",
+                  "text": "Un conac istoric aparținând influentei familii Guirola din Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.287601,
+                        13.664049
+                  ]
+            },
+            {
+                  "name": "Iglesia El Carmen",
+                  "text": "O importantă biserică neogotică în Santa Tecla.",
+                  "category": "religious",
+                  "coords": [
+                        -89.288198,
+                        13.675793
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa-Museo Hermanas Chacón",
+                  "text": "A museum in Santa Tecla housed in the former residence of the Chacón sisters.",
+                  "category": "museum",
+                  "coords": [
+                        -89.300501,
+                        13.672733
+                  ]
+            },
+            {
+                  "name": "Finca San Luís",
+                  "text": "A nature reserve in Santa Tecla protecting local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -89.306718,
+                        13.674798
+                  ]
+            },
+            {
+                  "name": "Museo Tecleño",
+                  "text": "A museum dedicated to the history and culture of Santa Tecla.",
+                  "category": "museum",
+                  "coords": [
+                        -89.283734,
+                        13.673567
+                  ]
+            },
+            {
+                  "name": "Plaza de la Cultura",
+                  "text": "Located in the middle of Santa Tecla, the Plaza de la Cultura functions as a vibrant theater space and cultural venue. Although it isn't a beach, this central meeting point offers a rich experience for locals and visitors alike. Anyone looking for art and entertainment in El Salvador should ideally stop by in the evening to experience the diverse programming.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.286653,
+                        13.675468
+                  ]
+            },
+            {
+                  "name": "Teatro Teacher Mendez",
+                  "text": "A theatre in Santa Tecla named after Teacher Mendez.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.28725,
+                        13.679039
+                  ]
+            },
+            {
+                  "name": "Anfiteatro El Cafetalón",
+                  "text": "An amphitheatre in El Cafetalón park in Santa Tecla for public events.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.283059,
+                        13.677163
+                  ]
+            },
+            {
+                  "name": "Parque Acuático Adolfo Salume",
+                  "text": "A water park in Santa Tecla featuring various pools and recreation facilities.",
+                  "category": "family",
+                  "coords": [
+                        -89.280673,
+                        13.674743
+                  ]
+            },
+            {
+                  "name": "Acceso Desprendimiento de las Colinas 2001",
+                  "text": "A viewpoint in Santa Tecla looking over the site of the 2001 landslide.",
+                  "category": "natural",
+                  "coords": [
+                        -89.29324,
+                        13.654955
+                  ]
+            },
+            {
+                  "name": "Deslave de las Colinas 2001",
+                  "text": "A memorial site and viewpoint at the location of the 2001 landslide in Santa Tecla.",
+                  "category": "natural",
+                  "coords": [
+                        -89.28695,
+                        13.665837
+                  ]
+            },
+            {
+                  "name": "Orden de Malta",
+                  "text": "A monument dedicated to the Order of Malta in Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.259179,
+                        13.663
+                  ]
+            },
+            {
+                  "name": "Monumento a Daniel Hernández",
+                  "text": "A monument dedicated to Daniel Hernández in Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.28848,
+                        13.673424
+                  ]
+            },
+            {
+                  "name": "Monumento al Centenario de Fundación",
+                  "text": "A monument commemorating the centenary of the founding of Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.285211,
+                        13.673606
+                  ]
+            },
+            {
+                  "name": "Mansión de la Familia Guirola",
+                  "text": "A historic manor house belonging to the influential Guirola family in Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.287601,
+                        13.664049
+                  ]
+            },
+            {
+                  "name": "Iglesia El Carmen",
+                  "text": "A significant neo-Gothic church located in Santa Tecla.",
+                  "category": "religious",
+                  "coords": [
+                        -89.288198,
+                        13.675793
+                  ]
+            }
+      ]
+}, 
     type: "city", 
     parent: "SV", 
     coords: [-89.2833, 13.6667], 

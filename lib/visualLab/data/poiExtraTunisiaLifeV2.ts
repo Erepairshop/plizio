@@ -465,24 +465,6 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     id: "douz-camel-habitat-life-v2", "sights": {
       "de": [
             {
-                  "name": "Maison de culture",
-                  "text": "Die Maison de culture ist ein wichtiges lokales Theater in der Wüstenstadt Douz.",
-                  "category": "cultural",
-                  "coords": [
-                        9.020069,
-                        33.45242
-                  ]
-            },
-            {
-                  "name": "Musée du Sahara de Douz",
-                  "text": "Das Musée du Sahara de Douz ist ein Museum, das sich der Bewahrung der Nomadentraditionen und des Kamel-Lebensraum-Erbes der Region widmet.",
-                  "category": "museum",
-                  "coords": [
-                        9.018325,
-                        33.451911
-                  ]
-            },
-            {
                   "name": "Sahara Douz",
                   "text": "Sahara Douz ist ein bekanntes Hotel, das Wüstenunterkünfte in der von Kamelen besiedelten Oase Douz anbietet.",
                   "category": "landmark",
@@ -502,24 +484,6 @@ export const poiExtraTunisiaLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Maison de culture",
-                  "text": "A Maison de culture egy jelentős közösségi színház, amely a sivatagi Douz városát szolgálja ki.",
-                  "category": "cultural",
-                  "coords": [
-                        9.020069,
-                        33.45242
-                  ]
-            },
-            {
-                  "name": "Musée du Sahara de Douz",
-                  "text": "A Musée du Sahara de Douz egy múzeum, amely a régió nomád hagyományainak és tevés élőhelyeinek örökségét őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        9.018325,
-                        33.451911
-                  ]
-            },
             {
                   "name": "Sahara Douz",
                   "text": "A Sahara Douz egy jól ismert szálloda, amely sivatagi szállást kínál Douz tevés oázisában.",
@@ -541,24 +505,6 @@ export const poiExtraTunisiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Maison de culture",
-                  "text": "Maison de culture este un teatru comunitar important care deservește orașul deșertic Douz.",
-                  "category": "cultural",
-                  "coords": [
-                        9.020069,
-                        33.45242
-                  ]
-            },
-            {
-                  "name": "Musée du Sahara de Douz",
-                  "text": "Musée du Sahara de Douz este un muzeu dedicat conservării tradițiilor nomade și a patrimoniului habitatului cămilelor din regiune.",
-                  "category": "museum",
-                  "coords": [
-                        9.018325,
-                        33.451911
-                  ]
-            },
-            {
                   "name": "Sahara Douz",
                   "text": "Sahara Douz este un hotel bine-cunoscut care oferă cazare în deșert în oaza cu habitate pentru cămile din Douz.",
                   "category": "landmark",
@@ -578,24 +524,6 @@ export const poiExtraTunisiaLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Maison de culture",
-                  "text": "The Maison de culture is a prominent community theatre serving the desert town of Douz.",
-                  "category": "cultural",
-                  "coords": [
-                        9.020069,
-                        33.45242
-                  ]
-            },
-            {
-                  "name": "Musée du Sahara de Douz",
-                  "text": "The Musée du Sahara de Douz is a museum dedicated to preserving the nomadic traditions and camel-habitat heritage of the region.",
-                  "category": "museum",
-                  "coords": [
-                        9.018325,
-                        33.451911
-                  ]
-            },
             {
                   "name": "Sahara Douz",
                   "text": "Sahara Douz is a well-known hotel providing desert lodging in the camel-habitat oasis of Douz.",
@@ -3174,42 +3102,6 @@ export const poiExtraTunisiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dschabal al-Hammamat",
-                  "text": "Jabal Al Hammamat ist eine markante hügelige Erhebung, die einen weiten Panoramablick über den beliebten tunesischen Küstenferienort bietet.",
-                  "category": "natural",
-                  "coords": [
-                        10.63059,
-                        36.41495
-                  ]
-            },
-            {
-                  "name": "Statue d'un Soldat Martyr",
-                  "text": "Ein Gedenkmonument, das einem gefallenen Soldaten gewidmet ist und als lokales Mahnmal in Hammamet dient.",
-                  "category": "historical",
-                  "coords": [
-                        10.630382,
-                        36.405092
-                  ]
-            },
-            {
-                  "name": "Golf von al-Hammamat",
-                  "text": "Ein breiter mediterraner Golf, der die Küstengeografie der Region Hammamet prägt.",
-                  "category": "landmark",
-                  "coords": [
-                        10.610935,
-                        36.395783
-                  ]
-            },
-            {
-                  "name": "Club nautique hammamet C.N.H",
-                  "text": "Ein nautischer Küstenclub, der wasserbezogene Freizeitaktivitäten an den Ufern von Hammamet anbietet.",
-                  "category": "recreational",
-                  "coords": [
-                        10.611369,
-                        36.397481
-                  ]
-            },
-            {
                   "name": "Hôtel Sindbad",
                   "text": "Ein Küstenhotel, das mediterrane Unterkünfte in der Nähe der lebhaften Strände von Hammamet bietet.",
                   "category": "landmark",
@@ -3225,15 +3117,6 @@ export const poiExtraTunisiaLifeV2: POI[] = [
                   "coords": [
                         10.594593,
                         36.40428
-                  ]
-            },
-            {
-                  "name": "Salle Des Fêtes Boussetta",
-                  "text": "Ein spezieller Veranstaltungs- und Festsaal im Stadtgebiet von Hammamet.",
-                  "category": "cultural",
-                  "coords": [
-                        10.628224,
-                        36.409116
                   ]
             },
             {
@@ -3289,15 +3172,6 @@ export const poiExtraTunisiaLifeV2: POI[] = [
                         10.613166,
                         36.393981
                   ]
-            },
-            {
-                  "name": "Théatre Plein Air de Hammamet",
-                  "text": "Ein Freilufttheater, das speziell für kulturelle Aufführungen und Konzerte im Freien in Hammamet entworfen wurde.",
-                  "category": "cultural",
-                  "coords": [
-                        10.613499,
-                        36.392631
-                  ]
             }
       ],
       "hu": [
@@ -3320,42 +3194,6 @@ export const poiExtraTunisiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jabal Al Hammamat",
-                  "text": "A Jabal Al Hammamat egy kiemelkedő dombos magaslat, amely széles panorámás kilátást nyújt a népszerű tunéziai tengerparti üdülővárosra.",
-                  "category": "natural",
-                  "coords": [
-                        10.63059,
-                        36.41495
-                  ]
-            },
-            {
-                  "name": "Statue d'un Soldat Martyr",
-                  "text": "Egy mártír katonának szentelt emlékmű, amely helyi emlékhelyként szolgál Hammametben.",
-                  "category": "historical",
-                  "coords": [
-                        10.630382,
-                        36.405092
-                  ]
-            },
-            {
-                  "name": "Gulf of Al Hammamat",
-                  "text": "Egy széles mediterrán öböl, amely meghatározza a hammameti régió tengerparti földrajzát.",
-                  "category": "landmark",
-                  "coords": [
-                        10.610935,
-                        36.395783
-                  ]
-            },
-            {
-                  "name": "Club nautique hammamet C.N.H",
-                  "text": "Egy tengerparti hajósklub, amely vízi szabadidős tevékenységeket kínál Hammamet partjainál.",
-                  "category": "recreational",
-                  "coords": [
-                        10.611369,
-                        36.397481
-                  ]
-            },
-            {
                   "name": "Hôtel Sindbad",
                   "text": "Egy tengerparti szálloda, amely mediterrán szállást kínál Hammamet nyüzsgő strandjai közelében.",
                   "category": "landmark",
@@ -3371,15 +3209,6 @@ export const poiExtraTunisiaLifeV2: POI[] = [
                   "coords": [
                         10.594593,
                         36.40428
-                  ]
-            },
-            {
-                  "name": "Salle Des Fêtes Boussetta",
-                  "text": "Egy dedikált rendezvény- és ünnepi terem Hammamet városi területén.",
-                  "category": "cultural",
-                  "coords": [
-                        10.628224,
-                        36.409116
                   ]
             },
             {
@@ -3435,15 +3264,6 @@ export const poiExtraTunisiaLifeV2: POI[] = [
                         10.613166,
                         36.393981
                   ]
-            },
-            {
-                  "name": "Théatre Plein Air de Hammamet",
-                  "text": "Egy szabadtéri színház, amelyet kifejezetten szabadtéri kulturális előadásokra és koncertekre terveztek Hammametben.",
-                  "category": "cultural",
-                  "coords": [
-                        10.613499,
-                        36.392631
-                  ]
             }
       ],
       "ro": [
@@ -3466,42 +3286,6 @@ export const poiExtraTunisiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jabal Al Hammamat",
-                  "text": "Jabal Al Hammamat este o cotație deluroasă proeminentă care oferă vederi panoramice ample asupra popularei stațiuni de coastă tunisiene.",
-                  "category": "natural",
-                  "coords": [
-                        10.63059,
-                        36.41495
-                  ]
-            },
-            {
-                  "name": "Statue d'un Soldat Martyr",
-                  "text": "Un monument comemorativ dedicat unui soldat martir, servind drept memorial local în Hammamet.",
-                  "category": "historical",
-                  "coords": [
-                        10.630382,
-                        36.405092
-                  ]
-            },
-            {
-                  "name": "Gulf of Al Hammamat",
-                  "text": "Un golf mediteranean larg care conturează geografia de coastă a regiunii Hammamet.",
-                  "category": "landmark",
-                  "coords": [
-                        10.610935,
-                        36.395783
-                  ]
-            },
-            {
-                  "name": "Club nautique hammamet C.N.H",
-                  "text": "Un club nautic de coastă care oferă activități de agrement acvatic de-a lungul țărmurilor din Hammamet.",
-                  "category": "recreational",
-                  "coords": [
-                        10.611369,
-                        36.397481
-                  ]
-            },
-            {
                   "name": "Hôtel Sindbad",
                   "text": "Un hotel de coastă care oferă cazare mediteraneană lângă plajele vibrante din Hammamet.",
                   "category": "landmark",
@@ -3517,15 +3301,6 @@ export const poiExtraTunisiaLifeV2: POI[] = [
                   "coords": [
                         10.594593,
                         36.40428
-                  ]
-            },
-            {
-                  "name": "Salle Des Fêtes Boussetta",
-                  "text": "O sală dedicată evenimentelor și sărbătorilor, situată în zona urbană a orașului Hammamet.",
-                  "category": "cultural",
-                  "coords": [
-                        10.628224,
-                        36.409116
                   ]
             },
             {
@@ -3581,15 +3356,6 @@ export const poiExtraTunisiaLifeV2: POI[] = [
                         10.613166,
                         36.393981
                   ]
-            },
-            {
-                  "name": "Théatre Plein Air de Hammamet",
-                  "text": "Un teatru în aer liber conceput special pentru spectacole culturale și concerte în aer liber în Hammamet.",
-                  "category": "cultural",
-                  "coords": [
-                        10.613499,
-                        36.392631
-                  ]
             }
       ],
       "en": [
@@ -3612,42 +3378,6 @@ export const poiExtraTunisiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jabal Al Hammamat",
-                  "text": "Jabal Al Hammamat is a prominent hilly elevation offering sweeping panoramic views over the popular Tunisian coastal resort town.",
-                  "category": "natural",
-                  "coords": [
-                        10.63059,
-                        36.41495
-                  ]
-            },
-            {
-                  "name": "Statue d'un Soldat Martyr",
-                  "text": "A commemorative monument dedicated to a martyred soldier, standing as a local memorial in Hammamet.",
-                  "category": "historical",
-                  "coords": [
-                        10.630382,
-                        36.405092
-                  ]
-            },
-            {
-                  "name": "Gulf of Al Hammamat",
-                  "text": "A broad Mediterranean gulf shaping the coastal geography of the Hammamet region.",
-                  "category": "landmark",
-                  "coords": [
-                        10.610935,
-                        36.395783
-                  ]
-            },
-            {
-                  "name": "Club nautique hammamet C.N.H",
-                  "text": "A coastal nautical club providing water-based leisure activities along the shores of Hammamet.",
-                  "category": "recreational",
-                  "coords": [
-                        10.611369,
-                        36.397481
-                  ]
-            },
-            {
                   "name": "Hôtel Sindbad",
                   "text": "A coastal hotel offering Mediterranean accommodation near the vibrant beaches of Hammamet.",
                   "category": "landmark",
@@ -3663,15 +3393,6 @@ export const poiExtraTunisiaLifeV2: POI[] = [
                   "coords": [
                         10.594593,
                         36.40428
-                  ]
-            },
-            {
-                  "name": "Salle Des Fêtes Boussetta",
-                  "text": "A dedicated event and celebration hall situated within the urban area of Hammamet.",
-                  "category": "cultural",
-                  "coords": [
-                        10.628224,
-                        36.409116
                   ]
             },
             {
@@ -3726,15 +3447,6 @@ export const poiExtraTunisiaLifeV2: POI[] = [
                   "coords": [
                         10.613166,
                         36.393981
-                  ]
-            },
-            {
-                  "name": "Théatre Plein Air de Hammamet",
-                  "text": "An open-air theater designed specifically for outdoor cultural performances and concerts in Hammamet.",
-                  "category": "cultural",
-                  "coords": [
-                        10.613499,
-                        36.392631
                   ]
             }
       ]

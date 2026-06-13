@@ -305,50 +305,10 @@ export const poiExtraSierraleoneEconomicV2: POI[] = [
   },
   {
     id: "koidu-mine-economic-v2", "sights": {
-      "de": [
-            {
-                  "name": "Resettlement",
-                  "text": "Der Aussichtspunkt Resettlement bietet eine klare Perspektive auf die umgesiedelten Gemeinden in der Nähe der aktiven Koidu-Diamantenmine.",
-                  "category": "natural",
-                  "coords": [
-                        -10.957197,
-                        8.6294
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Resettlement",
-                  "text": "A Resettlement kilátó tiszta rálátást nyújt az aktív Koidu gyémántbánya közelében lévő, áttelepített közösségekre.",
-                  "category": "natural",
-                  "coords": [
-                        -10.957197,
-                        8.6294
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Resettlement",
-                  "text": "Punctul de belvedere Resettlement oferă o perspectivă clară asupra comunităților relocate în apropierea minei active de diamante Koidu.",
-                  "category": "natural",
-                  "coords": [
-                        -10.957197,
-                        8.6294
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Resettlement",
-                  "text": "The Resettlement viewpoint offers a clear perspective over the relocated communities near the active Koidu diamond mine.",
-                  "category": "natural",
-                  "coords": [
-                        -10.957197,
-                        8.6294
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "industry",
     parent: "SL-E",

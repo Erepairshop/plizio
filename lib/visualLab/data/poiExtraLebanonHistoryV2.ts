@@ -24,15 +24,6 @@ export const poiExtraLebanonHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Venustempel",
-                  "text": "Ein kleiner, runder römischer Tempel in der Nähe des archäologischen Komplexes von Baalbek.",
-                  "category": "historical",
-                  "coords": [
-                        36.206204,
-                        34.006039
-                  ]
-            },
-            {
                   "name": "St. Georges Church",
                   "text": "Eine christliche Kirche in der historischen Stadt Baalbek, unweit der antiken Ruinen.",
                   "category": "landmark",
@@ -68,15 +59,6 @@ export const poiExtraLebanonHistoryV2: POI[] = [
                   "coords": [
                         36.205225,
                         34.007214
-                  ]
-            },
-            {
-                  "name": "Temple of Venus",
-                  "text": "Egy kis kör alakú római templom a baalbeki régészeti együttes közelében.",
-                  "category": "historical",
-                  "coords": [
-                        36.206204,
-                        34.006039
                   ]
             },
             {
@@ -118,15 +100,6 @@ export const poiExtraLebanonHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Temple of Venus",
-                  "text": "Unul dintre cele mai bine conservate temple romane din lume, dedicat zeului vinului.",
-                  "category": "historical",
-                  "coords": [
-                        36.206204,
-                        34.006039
-                  ]
-            },
-            {
                   "name": "St. Georges Church",
                   "text": "O biserică creștină situată în orașul istoric Baalbek, aproape de ruinele antice.",
                   "category": "landmark",
@@ -162,15 +135,6 @@ export const poiExtraLebanonHistoryV2: POI[] = [
                   "coords": [
                         36.205225,
                         34.007214
-                  ]
-            },
-            {
-                  "name": "Temple of Venus",
-                  "text": "A small, circular Roman temple located near the main Baalbek archaeological complex.",
-                  "category": "historical",
-                  "coords": [
-                        36.206204,
-                        34.006039
                   ]
             },
             {
@@ -1456,15 +1420,6 @@ export const poiExtraLebanonHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Boghos Snabian House Museum",
-                  "text": "Ein Kulturmuseum in einem traditionellen Haus, das dem Leben und Werk des armenischen Schriftstellers Boghos Snabian gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        35.930886,
-                        33.729033
-                  ]
-            },
-            {
                   "name": "Zekweh",
                   "text": "Eine archäologische Stätte in der Nähe des Anti-Libanon-Gebirges mit Resten antiker landwirtschaftlicher Siedlungen und Steinbauten.",
                   "category": "historical",
@@ -1480,15 +1435,6 @@ export const poiExtraLebanonHistoryV2: POI[] = [
                   "coords": [
                         35.87661,
                         33.691325
-                  ]
-            },
-            {
-                  "name": "Monument Musa Dagh",
-                  "text": "Ein ergreifendes Denkmal und eine Gedenkstätte für den armenischen Widerstand bei der Verteidigung des Musa Dagh im Jahr 1915.",
-                  "category": "historical",
-                  "coords": [
-                        35.932452,
-                        33.724398
                   ]
             },
             {
@@ -1656,15 +1602,6 @@ export const poiExtraLebanonHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Boghos Snabian House Museum",
-                  "text": "Hagyományos házban kialakított kulturális múzeum, amelyet Boghos Snabian örmény író életének és irodalmi munkásságának szenteltek.",
-                  "category": "museum",
-                  "coords": [
-                        35.930886,
-                        33.729033
-                  ]
-            },
-            {
                   "name": "Zekweh",
                   "text": "Régészeti lelőhely az Anti-Libanon-hegység közelében, ősi mezőgazdasági települések és kőépítmények maradványaival.",
                   "category": "historical",
@@ -1680,15 +1617,6 @@ export const poiExtraLebanonHistoryV2: POI[] = [
                   "coords": [
                         35.87661,
                         33.691325
-                  ]
-            },
-            {
-                  "name": "Monument Musa Dagh",
-                  "text": "Megható emlékmű és emlékhely, amelyet az 1915-ös Musa Dagh-i védelem örmény ellenállásának szenteltek.",
-                  "category": "historical",
-                  "coords": [
-                        35.932452,
-                        33.724398
                   ]
             },
             {
@@ -1856,15 +1784,6 @@ export const poiExtraLebanonHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Boghos Snabian House Museum",
-                  "text": "Un muzeu cultural găzduit într-o casă tradițională, dedicat vieții și operelor literare ale scriitorului armean Boghos Snabian.",
-                  "category": "museum",
-                  "coords": [
-                        35.930886,
-                        33.729033
-                  ]
-            },
-            {
                   "name": "Zekweh",
                   "text": "Un sit arheologic lângă munții Anti-Liban, cu rămășițe ale unor așezări agricole antice și structuri din piatră.",
                   "category": "historical",
@@ -1880,15 +1799,6 @@ export const poiExtraLebanonHistoryV2: POI[] = [
                   "coords": [
                         35.87661,
                         33.691325
-                  ]
-            },
-            {
-                  "name": "Monument Musa Dagh",
-                  "text": "Un monument și memorial emoționant dedicat rezistenței armene din timpul apărării Musa Dagh din 1915.",
-                  "category": "historical",
-                  "coords": [
-                        35.932452,
-                        33.724398
                   ]
             },
             {
@@ -2056,15 +1966,6 @@ export const poiExtraLebanonHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Boghos Snabian House Museum",
-                  "text": "A cultural museum housed in a traditional home, dedicated to the life and literary works of Armenian writer Boghos Snabian.",
-                  "category": "museum",
-                  "coords": [
-                        35.930886,
-                        33.729033
-                  ]
-            },
-            {
                   "name": "Zekweh",
                   "text": "An archaeological site near the Anti-Lebanon mountains featuring remains of ancient agricultural settlements and stone structures.",
                   "category": "historical",
@@ -2080,15 +1981,6 @@ export const poiExtraLebanonHistoryV2: POI[] = [
                   "coords": [
                         35.87661,
                         33.691325
-                  ]
-            },
-            {
-                  "name": "Musa Dagh Monument",
-                  "text": "A poignant monument and memorial dedicated to the Armenian resistance of the 1915 Musa Dagh defense.",
-                  "category": "historical",
-                  "coords": [
-                        35.932452,
-                        33.724398
                   ]
             },
             {
@@ -7747,15 +7639,6 @@ export const poiExtraLebanonHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gibran Museum",
-                  "text": "Ein Museum für den Dichter Khalil Gibran in einem ehemaligen Felsenkloster.",
-                  "category": "museum",
-                  "coords": [
-                        36.019114,
-                        34.249855
-                  ]
-            },
-            {
                   "name": "Gibran Khalil Gibran House",
                   "text": "Das Geburtshaus des berühmten libanesisch-amerikanischen Schriftstellers Khalil Gibran.",
                   "category": "religious",
@@ -7854,15 +7737,6 @@ export const poiExtraLebanonHistoryV2: POI[] = [
                   "coords": [
                         35.98717,
                         34.25199
-                  ]
-            },
-            {
-                  "name": "Gibran Museum",
-                  "text": "Kahlil Gibran költő múzeuma egy egykori sziklakolostor épületében.",
-                  "category": "museum",
-                  "coords": [
-                        36.019114,
-                        34.249855
                   ]
             },
             {
@@ -7967,15 +7841,6 @@ export const poiExtraLebanonHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gibran Museum",
-                  "text": "Muzeu dedicat poetului Kahlil Gibran, găzduit într-o fostă mănăstire săpată în stâncă.",
-                  "category": "museum",
-                  "coords": [
-                        36.019114,
-                        34.249855
-                  ]
-            },
-            {
                   "name": "Gibran Khalil Gibran House",
                   "text": "Casa natală a faimosului scriitor libanezo-american Kahlil Gibran.",
                   "category": "religious",
@@ -8074,15 +7939,6 @@ export const poiExtraLebanonHistoryV2: POI[] = [
                   "coords": [
                         35.98717,
                         34.25199
-                  ]
-            },
-            {
-                  "name": "Gibran Museum",
-                  "text": "A museum dedicated to the poet Kahlil Gibran, housed in an ancient rock-cut monastery.",
-                  "category": "museum",
-                  "coords": [
-                        36.019114,
-                        34.249855
                   ]
             },
             {

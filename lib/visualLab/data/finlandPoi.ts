@@ -238,15 +238,6 @@ export const finlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Lilla Teatern",
-                  "text": "Lilla Teatern ist ein Theater in Helsinki. Es ist ein bekanntes schwedischsprachiges Theater in der Stadt.",
-                  "category": "cultural",
-                  "coords": [
-                        24.937776,
-                        60.167691
-                  ]
-            },
-            {
                   "name": "Savoy-teatteri",
                   "text": "Savoy Theatre ist ein Theater in Helsinki. Es dient als prominenter Veranstaltungsort für Konzerte und kulturelle Veranstaltungen.",
                   "category": "cultural",
@@ -742,42 +733,6 @@ export const finlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Leo's Tripla",
-                  "text": "Leo's Tripla ist ein Freizeitpark in Helsinki. Er bietet Spiel und Spaß für Kinder und Familien.",
-                  "category": "family",
-                  "coords": [
-                        24.930733,
-                        60.198151
-                  ]
-            },
-            {
-                  "name": "Sea Life Helsinki",
-                  "text": "Sea Life Helsinki ist ein Aquarium in Helsinki. Es beherbergt zahlreiche Meeresbewohner in verschiedenen Becken.",
-                  "category": "family",
-                  "coords": [
-                        24.938963,
-                        60.189105
-                  ]
-            },
-            {
-                  "name": "Iso allas",
-                  "text": "Iso allas ist ein Schwimmbad in Helsinki. Es bietet Möglichkeiten zum Schwimmen und für Wassersport.",
-                  "category": "family",
-                  "coords": [
-                        24.930874,
-                        60.188642
-                  ]
-            },
-            {
-                  "name": "Sinebrychoffinpuiston kahluu-/uima-allas",
-                  "text": "Sinebrychoffinpuiston kahluu-/uima-allas ist ein Schwimmbad in Helsinki. Es ist ein beliebter Treffpunkt für Familien im Sommer.",
-                  "category": "family",
-                  "coords": [
-                        24.933816,
-                        60.161231
-                  ]
-            },
-            {
                   "name": "Uunisaaren uimaranta",
                   "text": "Uunisaaren uimaranta ist ein Badebereich in Helsinki. Er bietet eine schöne Umgebung für einen Tag am Wasser.",
                   "category": "family",
@@ -793,15 +748,6 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         24.986113,
                         60.174587
-                  ]
-            },
-            {
-                  "name": "Rooftop Pool & Terrace",
-                  "text": "Rooftop Pool & Terrace ist ein Schwimmbad in Helsinki. Es kombiniert Badespaß mit einem Ausblick über die Stadt.",
-                  "category": "family",
-                  "coords": [
-                        24.922236,
-                        60.159655
                   ]
             },
             {
@@ -993,15 +939,6 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         24.948973,
                         60.165005
-                  ]
-            },
-            {
-                  "name": "Lilla Teatern",
-                  "text": "A Lilla Teatern egy színház Helsinki városában. Ez egy jól ismert svéd nyelvű színház a városban.",
-                  "category": "cultural",
-                  "coords": [
-                        24.937776,
-                        60.167691
                   ]
             },
             {
@@ -1500,42 +1437,6 @@ export const finlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Leo's Tripla",
-                  "text": "A Leo's Tripla egy vidámpark Helsinkiben. Játékot és szórakozást kínál gyerekeknek és családoknak.",
-                  "category": "family",
-                  "coords": [
-                        24.930733,
-                        60.198151
-                  ]
-            },
-            {
-                  "name": "Sea Life Helsinki",
-                  "text": "A Sea Life Helsinki egy akvárium Helsinkiben. Számos tengeri élőlénynek ad otthont különböző medencékben.",
-                  "category": "family",
-                  "coords": [
-                        24.938963,
-                        60.189105
-                  ]
-            },
-            {
-                  "name": "Iso allas",
-                  "text": "Az Iso allas egy úszómedence Helsinkiben. Úszási és vízi sportolási lehetőségeket biztosít.",
-                  "category": "family",
-                  "coords": [
-                        24.930874,
-                        60.188642
-                  ]
-            },
-            {
-                  "name": "Sinebrychoffinpuiston kahluu-/uima-allas",
-                  "text": "A Sinebrychoffinpuiston kahluu-/uima-allas egy úszómedence Helsinkiben. Kedvelt találkozóhely családoknak nyáron.",
-                  "category": "family",
-                  "coords": [
-                        24.933816,
-                        60.161231
-                  ]
-            },
-            {
                   "name": "Uunisaaren uimaranta",
                   "text": "Az Uunisaaren uimaranta egy strand Helsinkiben. Szép környezetet biztosít egy vízparti naphoz.",
                   "category": "family",
@@ -1551,15 +1452,6 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         24.986113,
                         60.174587
-                  ]
-            },
-            {
-                  "name": "Rooftop Pool & Terrace",
-                  "text": "A Rooftop Pool & Terrace egy úszómedence Helsinkiben. A fürdőzést a városra nyíló kilátással ötvözi.",
-                  "category": "family",
-                  "coords": [
-                        24.922236,
-                        60.159655
                   ]
             },
             {
@@ -1751,15 +1643,6 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         24.948973,
                         60.165005
-                  ]
-            },
-            {
-                  "name": "Lilla Teatern",
-                  "text": "Lilla Teatern este un teatru situat în Helsinki. Este un cunoscut teatru în limba suedeză din oraș.",
-                  "category": "cultural",
-                  "coords": [
-                        24.937776,
-                        60.167691
                   ]
             },
             {
@@ -2258,42 +2141,6 @@ export const finlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Leo's Tripla",
-                  "text": "Leo's Tripla este un parc de distracții în Helsinki. Oferă jocuri și distracție pentru copii și familii.",
-                  "category": "family",
-                  "coords": [
-                        24.930733,
-                        60.198151
-                  ]
-            },
-            {
-                  "name": "Sea Life Helsinki",
-                  "text": "Sea Life Helsinki este un acvariu în Helsinki. Găzduiește numeroase viețuitoare marine în diverse bazine.",
-                  "category": "family",
-                  "coords": [
-                        24.938963,
-                        60.189105
-                  ]
-            },
-            {
-                  "name": "Iso allas",
-                  "text": "Iso allas este o piscină în Helsinki. Oferă oportunități pentru înot și sporturi nautice.",
-                  "category": "family",
-                  "coords": [
-                        24.930874,
-                        60.188642
-                  ]
-            },
-            {
-                  "name": "Sinebrychoffinpuiston kahluu-/uima-allas",
-                  "text": "Sinebrychoffinpuiston kahluu-/uima-allas este o piscină în Helsinki. Este un loc de întâlnire popular pentru familii în timpul verii.",
-                  "category": "family",
-                  "coords": [
-                        24.933816,
-                        60.161231
-                  ]
-            },
-            {
                   "name": "Uunisaaren uimaranta",
                   "text": "Uunisaaren uimaranta este o zonă de înot în Helsinki. Oferă un cadru frumos pentru o zi la apă.",
                   "category": "family",
@@ -2309,15 +2156,6 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         24.986113,
                         60.174587
-                  ]
-            },
-            {
-                  "name": "Rooftop Pool & Terrace",
-                  "text": "Rooftop Pool & Terrace este o piscină în Helsinki. Combină distracția la scăldat cu o vedere asupra orașului.",
-                  "category": "family",
-                  "coords": [
-                        24.922236,
-                        60.159655
                   ]
             },
             {
@@ -2365,15 +2203,6 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         24.954071,
                         60.176442
-                  ]
-            },
-            {
-                  "name": "Natural History Museum",
-                  "text": "Natural History Museum is a museum located in Helsinki. It features extensive biological and geological collections.",
-                  "category": "museum",
-                  "coords": [
-                        24.931224,
-                        60.171445
                   ]
             },
             {
@@ -2509,15 +2338,6 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         24.948973,
                         60.165005
-                  ]
-            },
-            {
-                  "name": "Lilla Teatern",
-                  "text": "Lilla Teatern is a theatre located in Helsinki. It is a well-known Swedish-language theatre in the city.",
-                  "category": "cultural",
-                  "coords": [
-                        24.937776,
-                        60.167691
                   ]
             },
             {
@@ -3016,42 +2836,6 @@ export const finlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Leo's Tripla",
-                  "text": "Leo's Tripla is a theme park in Helsinki. It offers play and fun for children and families.",
-                  "category": "family",
-                  "coords": [
-                        24.930733,
-                        60.198151
-                  ]
-            },
-            {
-                  "name": "Sea Life Helsinki",
-                  "text": "Sea Life Helsinki is an aquarium in Helsinki. It houses numerous marine creatures in various tanks.",
-                  "category": "family",
-                  "coords": [
-                        24.938963,
-                        60.189105
-                  ]
-            },
-            {
-                  "name": "Iso allas",
-                  "text": "Iso allas is a swimming pool in Helsinki. It offers opportunities for swimming and water sports.",
-                  "category": "family",
-                  "coords": [
-                        24.930874,
-                        60.188642
-                  ]
-            },
-            {
-                  "name": "Sinebrychoffinpuiston kahluu-/uima-allas",
-                  "text": "Sinebrychoffinpuiston kahluu-/uima-allas is a swimming pool in Helsinki. It is a popular meeting spot for families in summer.",
-                  "category": "family",
-                  "coords": [
-                        24.933816,
-                        60.161231
-                  ]
-            },
-            {
                   "name": "Uunisaaren uimaranta",
                   "text": "Uunisaaren uimaranta is a swimming area in Helsinki. It provides a beautiful setting for a day by the water.",
                   "category": "family",
@@ -3067,15 +2851,6 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         24.986113,
                         60.174587
-                  ]
-            },
-            {
-                  "name": "Rooftop Pool & Terrace",
-                  "text": "Rooftop Pool & Terrace is a swimming pool in Helsinki. It combines swimming fun with a view over the city.",
-                  "category": "family",
-                  "coords": [
-                        24.922236,
-                        60.159655
                   ]
             },
             {
@@ -3153,24 +2928,6 @@ export const finlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Holiday Club Tampereen Kehräämö",
-                  "text": "Ein entspannender Wellness- und Poolbereich in Tampere, der ideal für einen Familienausflug ist.",
-                  "category": "family",
-                  "coords": [
-                        23.774028,
-                        61.511417
-                  ]
-            },
-            {
-                  "name": "Massunlasten uimapaikka",
-                  "text": "Ein öffentlicher Badeplatz in Tampere, der Familien einen Ort zum Abkühlen und Schwimmen bietet.",
-                  "category": "family",
-                  "coords": [
-                        23.765524,
-                        61.508584
-                  ]
-            },
-            {
                   "name": "Särkänniemi",
                   "text": "Ein berühmter Freizeitpark in Tampere mit Fahrgeschäften und Attraktionen für alle Altersgruppen.",
                   "category": "family",
@@ -3189,48 +2946,12 @@ export const finlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Mältinrannan talviuintipaikka",
-                  "text": "Ein spezieller Winterbadeplatz in Tampere für Familien, die das Schwimmen im kalten Wasser mögen.",
-                  "category": "family",
-                  "coords": [
-                        23.756155,
-                        61.504329
-                  ]
-            },
-            {
-                  "name": "Siilinkarin Majakka",
-                  "text": "Dieser kleine Leuchtturm steht auf einem Felsen im Näsijärvi-See vor der Küste von Tampere.",
-                  "category": "landmark",
-                  "coords": [
-                        23.753917,
-                        61.517569
-                  ]
-            },
-            {
                   "name": "Nootti. Museum of Finnish-Russian Relations",
                   "text": "Das Museum beleuchtet die Geschichte der finnisch-russischen Beziehungen und befindet sich in historischen Räumlichkeiten.",
                   "category": "museum",
                   "coords": [
                         23.751802,
                         61.495686
-                  ]
-            },
-            {
-                  "name": "Mediamuseo Rupriikki",
-                  "text": "Das Mediamuseo Rupriikki widmet sich der Geschichte der Kommunikation, des Journalismus und der digitalen Medien.",
-                  "category": "museum",
-                  "coords": [
-                        23.760416,
-                        61.503021
-                  ]
-            },
-            {
-                  "name": "Spy Museum",
-                  "text": "Einzigartiges Museum in Tampere, das sich auf die Geschichte und Techniken der internationalen Spionage konzentriert.",
-                  "category": "museum",
-                  "coords": [
-                        23.761019,
-                        61.501099
                   ]
             },
             {
@@ -3263,24 +2984,6 @@ export const finlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Holiday Club Tampereen Kehräämö",
-                  "text": "Pihentető fürdő- és medencerészleg Tamperében, amely ideális egy családi kiránduláshoz.",
-                  "category": "family",
-                  "coords": [
-                        23.774028,
-                        61.511417
-                  ]
-            },
-            {
-                  "name": "Massunlasten uimapaikka",
-                  "text": "Nyilvános úszóhely Tamperében, amely lehetőséget biztosít a családoknak a hűsölésre és úszásra.",
-                  "category": "family",
-                  "coords": [
-                        23.765524,
-                        61.508584
-                  ]
-            },
-            {
                   "name": "Särkänniemi",
                   "text": "Híres vidámpark Tamperében játékokkal és látnivalókkal minden korosztály számára.",
                   "category": "family",
@@ -3299,48 +3002,12 @@ export const finlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Mältinrannan talviuintipaikka",
-                  "text": "Különleges téli úszóhely Tamperében a hideg vízi úszást kedvelő családok számára.",
-                  "category": "family",
-                  "coords": [
-                        23.756155,
-                        61.504329
-                  ]
-            },
-            {
-                  "name": "Siilinkarin Majakka",
-                  "text": "Ez a kis világítótorony a Näsijärvi-tó egyik szikláján áll Tampere partjainál.",
-                  "category": "landmark",
-                  "coords": [
-                        23.753917,
-                        61.517569
-                  ]
-            },
-            {
                   "name": "Nootti. Museum of Finnish-Russian Relations",
                   "text": "A múzeum a finn–orosz kapcsolatok történetét mutatja be egy történelmi épületben.",
                   "category": "museum",
                   "coords": [
                         23.751802,
                         61.495686
-                  ]
-            },
-            {
-                  "name": "Mediamuseo Rupriikki",
-                  "text": "A Rupriikki Médiamúzeum a kommunikáció, az újságírás és a digitális média történetével foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        23.760416,
-                        61.503021
-                  ]
-            },
-            {
-                  "name": "Spy Museum",
-                  "text": "Egyedülálló múzeum Tampere városában, amely a nemzetközi kémkedés történetére és technikáira összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        23.761019,
-                        61.501099
                   ]
             },
             {
@@ -3373,24 +3040,6 @@ export const finlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Holiday Club Tampereen Kehräämö",
-                  "text": "O zonă relaxantă de spa și piscină în Tampere, ideală pentru o ieșire în familie.",
-                  "category": "family",
-                  "coords": [
-                        23.774028,
-                        61.511417
-                  ]
-            },
-            {
-                  "name": "Massunlasten uimapaikka",
-                  "text": "Un loc public de înot în Tampere, oferind familiilor un loc pentru a se răcori și a înota.",
-                  "category": "family",
-                  "coords": [
-                        23.765524,
-                        61.508584
-                  ]
-            },
-            {
                   "name": "Särkänniemi",
                   "text": "Un parc tematic renumit în Tampere, cu atracții și activități pentru toate vârstele.",
                   "category": "family",
@@ -3409,48 +3058,12 @@ export const finlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Mältinrannan talviuintipaikka",
-                  "text": "Un loc special de înot pe timp de iarnă în Tampere pentru familiile cărora le place înotul în apă rece.",
-                  "category": "family",
-                  "coords": [
-                        23.756155,
-                        61.504329
-                  ]
-            },
-            {
-                  "name": "Siilinkarin Majakka",
-                  "text": "Acest far mic este situat pe o stâncă în lacul Näsijärvi, în largul coastei orașului Tampere.",
-                  "category": "landmark",
-                  "coords": [
-                        23.753917,
-                        61.517569
-                  ]
-            },
-            {
                   "name": "Nootti. Museum of Finnish-Russian Relations",
                   "text": "Muzeul evidențiază istoria relațiilor finno-ruse și este situat în spații istorice.",
                   "category": "museum",
                   "coords": [
                         23.751802,
                         61.495686
-                  ]
-            },
-            {
-                  "name": "Mediamuseo Rupriikki",
-                  "text": "Muzeul Media Rupriikki este dedicat istoriei comunicării, jurnalismului și mediilor digitale.",
-                  "category": "museum",
-                  "coords": [
-                        23.760416,
-                        61.503021
-                  ]
-            },
-            {
-                  "name": "Spy Museum",
-                  "text": "Un muzeu unic în Tampere, concentrat pe istoria și tehnicile spionajului internațional.",
-                  "category": "museum",
-                  "coords": [
-                        23.761019,
-                        61.501099
                   ]
             },
             {
@@ -3483,24 +3096,6 @@ export const finlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Pool area and day spa at Tampereen Kehräämö",
-                  "text": "A relaxing spa and pool area in Tampere, ideal for a family outing.",
-                  "category": "family",
-                  "coords": [
-                        23.774028,
-                        61.511417
-                  ]
-            },
-            {
-                  "name": "Massunlasten uimapaikka",
-                  "text": "A public swimming spot in Tampere, providing families with a place to cool off and swim.",
-                  "category": "family",
-                  "coords": [
-                        23.765524,
-                        61.508584
-                  ]
-            },
-            {
                   "name": "Särkänniemi",
                   "text": "A famous theme park in Tampere with rides and attractions for all age groups.",
                   "category": "family",
@@ -3519,48 +3114,12 @@ export const finlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Mältinrannan talviuintipaikka",
-                  "text": "A special winter swimming spot in Tampere for families who enjoy cold water swimming.",
-                  "category": "family",
-                  "coords": [
-                        23.756155,
-                        61.504329
-                  ]
-            },
-            {
-                  "name": "Siilinkarin Majakka",
-                  "text": "This small lighthouse stands on a rock in Lake Näsijärvi, off the coast of Tampere.",
-                  "category": "landmark",
-                  "coords": [
-                        23.753917,
-                        61.517569
-                  ]
-            },
-            {
                   "name": "Nootti. Museum of Finnish-Russian Relations",
                   "text": "The museum highlights the history of Finnish-Russian relations and is located in historic premises.",
                   "category": "museum",
                   "coords": [
                         23.751802,
                         61.495686
-                  ]
-            },
-            {
-                  "name": "Mediamuseo Rupriikki",
-                  "text": "The Rupriikki Media Museum is dedicated to the history of communication, journalism, and digital media.",
-                  "category": "museum",
-                  "coords": [
-                        23.760416,
-                        61.503021
-                  ]
-            },
-            {
-                  "name": "Spy Museum",
-                  "text": "A unique museum in Tampere focusing on the history and techniques of international espionage.",
-                  "category": "museum",
-                  "coords": [
-                        23.761019,
-                        61.501099
                   ]
             },
             {
@@ -4103,15 +3662,6 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         22.389866,
                         60.453663
-                  ]
-            },
-            {
-                  "name": "Haunisten allas",
-                  "text": "Haunisten allas ist ein See in Turku, der Besucher mit seiner ruhigen Atmosphäre und Landschaft anzieht.",
-                  "category": "natural",
-                  "coords": [
-                        22.207218,
-                        60.502749
                   ]
             },
             {
@@ -4774,15 +4324,6 @@ export const finlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Haunisten allas",
-                  "text": "A Haunisten allas egy tó Turku városában, amely nyugodt légkörével és tájaival várja a látogatókat.",
-                  "category": "natural",
-                  "coords": [
-                        22.207218,
-                        60.502749
-                  ]
-            },
-            {
                   "name": "Caribian minigolf",
                   "text": "A Caribian minigolf Turkuban szórakoztató minigolf-élményt kínál az egész családnak.",
                   "category": "family",
@@ -5439,15 +4980,6 @@ export const finlandRegions: POI[] = [
                   "coords": [
                         22.389866,
                         60.453663
-                  ]
-            },
-            {
-                  "name": "Haunisten allas",
-                  "text": "Haunisten allas este un lac în Turku, care atrage vizitatorii cu atmosfera sa liniștită și peisajele sale.",
-                  "category": "natural",
-                  "coords": [
-                        22.207218,
-                        60.502749
                   ]
             },
             {
@@ -6110,15 +5642,6 @@ export const finlandRegions: POI[] = [
                   ]
             },
             {
-                  "name": "Haunisten allas",
-                  "text": "Haunisten allas is a lake in Turku, attracting visitors with its calm atmosphere and scenery.",
-                  "category": "natural",
-                  "coords": [
-                        22.207218,
-                        60.502749
-                  ]
-            },
-            {
                   "name": "Caribian minigolf",
                   "text": "Caribian minigolf in Turku offers a fun miniature golf experience for the whole family.",
                   "category": "family",
@@ -6346,15 +5869,6 @@ export const finlandRegions: POI[] = [
     id: "reg-lapland-fi", "sights": {
       "de": [
             {
-                  "name": "Arktikumin ranta",
-                  "text": "Arktikumin ranta ist ein Strand in der Region Lappland.",
-                  "category": "recreational",
-                  "coords": [
-                        25.729014,
-                        66.50948
-                  ]
-            },
-            {
                   "name": "Ylikylän uimaranta",
                   "text": "Ein Strand in Ylikylä in der Region Lappland.",
                   "category": "recreational",
@@ -6365,15 +5879,6 @@ export const finlandRegions: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Arktikumin ranta",
-                  "text": "Az Arktikumin ranta egy strand Lappföld régióban.",
-                  "category": "recreational",
-                  "coords": [
-                        25.729014,
-                        66.50948
-                  ]
-            },
             {
                   "name": "Ylikylän uimaranta",
                   "text": "Strand Ylikylä településen, Lappföld régióban.",
@@ -6386,15 +5891,6 @@ export const finlandRegions: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Arktikumin ranta",
-                  "text": "Arktikumin ranta este o plajă în regiunea Laponia.",
-                  "category": "recreational",
-                  "coords": [
-                        25.729014,
-                        66.50948
-                  ]
-            },
-            {
                   "name": "Ylikylän uimaranta",
                   "text": "O plajă în Ylikylä în regiunea Laponia.",
                   "category": "recreational",
@@ -6405,15 +5901,6 @@ export const finlandRegions: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Arktikumin ranta",
-                  "text": "Arktikumin ranta is a beach in the Lapland region.",
-                  "category": "recreational",
-                  "coords": [
-                        25.729014,
-                        66.50948
-                  ]
-            },
             {
                   "name": "Ylikylän uimaranta",
                   "text": "A beach in Ylikylä in the Lapland region.",
@@ -7028,60 +6515,6 @@ export const finlandCulture: POI[] = [
                         28.89415,
                         61.863236
                   ]
-            },
-            {
-                  "name": "Kulttuurikellari",
-                  "text": "Ein lokales Theater und Kulturzentrum in Savonlinna für verschiedene Aufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        28.888995,
-                        61.867405
-                  ]
-            },
-            {
-                  "name": "Pikku-Kakkosen uimaranta",
-                  "text": "Ein familienfreundlicher Sandstrand in Savonlinna, der zum Schwimmen und Entspannen einlädt.",
-                  "category": "recreational",
-                  "coords": [
-                        28.891687,
-                        61.864289
-                  ]
-            },
-            {
-                  "name": "Sireenisaari",
-                  "text": "Ein Naturschutzgebiet auf einer Insel in Savonlinna, das die lokale Flora und Fauna schützt.",
-                  "category": "natural",
-                  "coords": [
-                        28.882499,
-                        61.876777
-                  ]
-            },
-            {
-                  "name": "Savonlinnasali - Savonlinnan teatteri",
-                  "text": "Ein bekannter Veranstaltungsort in Savonlinna für Theateraufführungen und Konzerte.",
-                  "category": "cultural",
-                  "coords": [
-                        28.889142,
-                        61.870476
-                  ]
-            },
-            {
-                  "name": "Kesäteatteri",
-                  "text": "Ein Freilichttheater in Savonlinna, das während der Sommermonate Aufführungen anbietet.",
-                  "category": "cultural",
-                  "coords": [
-                        28.895375,
-                        61.871881
-                  ]
-            },
-            {
-                  "name": "Savonlinnan uimahalli",
-                  "text": "Das Savonlinnan uimahalli ist eine öffentliche Schwimmhalle in Savonlinna.",
-                  "category": "recreational",
-                  "coords": [
-                        28.879587,
-                        61.864424
-                  ]
             }
       ],
       "hu": [
@@ -7110,60 +6543,6 @@ export const finlandCulture: POI[] = [
                   "coords": [
                         28.89415,
                         61.863236
-                  ]
-            },
-            {
-                  "name": "Kulttuurikellari",
-                  "text": "Savonlinna helyi színháza és kulturális központja, amely különféle előadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        28.888995,
-                        61.867405
-                  ]
-            },
-            {
-                  "name": "Pikku-Kakkosen uimaranta",
-                  "text": "Családbarát homokos strand Savonlinnában, amely úszásra és pihenésre hívogat.",
-                  "category": "recreational",
-                  "coords": [
-                        28.891687,
-                        61.864289
-                  ]
-            },
-            {
-                  "name": "Sireenisaari",
-                  "text": "Természetvédelmi terület egy savonlinnai szigeten, amely a helyi növény- és állatvilágot védi.",
-                  "category": "natural",
-                  "coords": [
-                        28.882499,
-                        61.876777
-                  ]
-            },
-            {
-                  "name": "Savonlinnasali - Savonlinnan teatteri",
-                  "text": "Savonlinna ismert kulturális helyszíne, amely színházi előadásoknak és koncerteknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        28.889142,
-                        61.870476
-                  ]
-            },
-            {
-                  "name": "Kesäteatteri",
-                  "text": "Szabadtéri színház Savonlinnában, amely a nyári hónapokban tart előadásokat.",
-                  "category": "cultural",
-                  "coords": [
-                        28.895375,
-                        61.871881
-                  ]
-            },
-            {
-                  "name": "Savonlinnan uimahalli",
-                  "text": "A Savonlinnan uimahalli egy nyilvános uszoda Savonlinnában.",
-                  "category": "recreational",
-                  "coords": [
-                        28.879587,
-                        61.864424
                   ]
             }
       ],
@@ -7194,60 +6573,6 @@ export const finlandCulture: POI[] = [
                         28.89415,
                         61.863236
                   ]
-            },
-            {
-                  "name": "Kulttuurikellari",
-                  "text": "Un teatru local și centru cultural din Savonlinna pentru diverse spectacole.",
-                  "category": "cultural",
-                  "coords": [
-                        28.888995,
-                        61.867405
-                  ]
-            },
-            {
-                  "name": "Pikku-Kakkosen uimaranta",
-                  "text": "O plajă cu nisip potrivită pentru familii în Savonlinna, ideală pentru înot și relaxare.",
-                  "category": "recreational",
-                  "coords": [
-                        28.891687,
-                        61.864289
-                  ]
-            },
-            {
-                  "name": "Sireenisaari",
-                  "text": "O rezervație naturală pe o insulă din Savonlinna, care protejează flora și fauna locală.",
-                  "category": "natural",
-                  "coords": [
-                        28.882499,
-                        61.876777
-                  ]
-            },
-            {
-                  "name": "Savonlinnasali - Savonlinnan teatteri",
-                  "text": "O locație culturală cunoscută din Savonlinna pentru spectacole de teatru și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        28.889142,
-                        61.870476
-                  ]
-            },
-            {
-                  "name": "Kesäteatteri",
-                  "text": "Un teatru în aer liber din Savonlinna care oferă spectacole în timpul lunilor de vară.",
-                  "category": "cultural",
-                  "coords": [
-                        28.895375,
-                        61.871881
-                  ]
-            },
-            {
-                  "name": "Savonlinnan uimahalli",
-                  "text": "Savonlinnan uimahalli este o piscină publică situată în Savonlinna.",
-                  "category": "recreational",
-                  "coords": [
-                        28.879587,
-                        61.864424
-                  ]
             }
       ],
       "en": [
@@ -7276,60 +6601,6 @@ export const finlandCulture: POI[] = [
                   "coords": [
                         28.89415,
                         61.863236
-                  ]
-            },
-            {
-                  "name": "Kulttuurikellari",
-                  "text": "A local theatre and cultural centre in Savonlinna hosting various performances.",
-                  "category": "cultural",
-                  "coords": [
-                        28.888995,
-                        61.867405
-                  ]
-            },
-            {
-                  "name": "Pikku-Kakkosen uimaranta",
-                  "text": "A family-friendly sandy beach in Savonlinna, ideal for swimming and relaxation.",
-                  "category": "recreational",
-                  "coords": [
-                        28.891687,
-                        61.864289
-                  ]
-            },
-            {
-                  "name": "Sireenisaari",
-                  "text": "A nature reserve on an island in Savonlinna protecting local flora and fauna.",
-                  "category": "natural",
-                  "coords": [
-                        28.882499,
-                        61.876777
-                  ]
-            },
-            {
-                  "name": "Savonlinnasali - Savonlinnan teatteri",
-                  "text": "A well-known venue in Savonlinna for theatre performances and concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        28.889142,
-                        61.870476
-                  ]
-            },
-            {
-                  "name": "Summer Theatre",
-                  "text": "An open-air theatre in Savonlinna offering performances during the summer months.",
-                  "category": "cultural",
-                  "coords": [
-                        28.895375,
-                        61.871881
-                  ]
-            },
-            {
-                  "name": "Savonlinnan uimahalli",
-                  "text": "Savonlinnan uimahalli is a public swimming pool located in Savonlinna.",
-                  "category": "recreational",
-                  "coords": [
-                        28.879587,
-                        61.864424
                   ]
             }
       ]
@@ -12510,15 +11781,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Teivaan sataman koiraranta",
-                  "text": "Ein spezieller Hundestrand im Hafen von Teivaa.",
-                  "category": "recreational",
-                  "coords": [
-                        25.635812,
-                        60.990444
-                  ]
-            },
-            {
                   "name": "Pääsali",
                   "text": "Ein großes Auditorium in Lahti, das für Theater und Großveranstaltungen genutzt wird.",
                   "category": "cultural",
@@ -12534,33 +11796,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.652351,
                         60.983632
-                  ]
-            },
-            {
-                  "name": "Koiraranta",
-                  "text": "Ein öffentlicher Strandabschnitt, an dem Hunde schwimmen dürfen.",
-                  "category": "recreational",
-                  "coords": [
-                        25.609832,
-                        60.991485
-                  ]
-            },
-            {
-                  "name": "Ank­ku­rin Ran­ta­puis­ton ui­ma­ran­ta",
-                  "text": "Ein beliebter Badestrand im Küstenpark Ankkuri.",
-                  "category": "recreational",
-                  "coords": [
-                        25.647226,
-                        61.001082
-                  ]
-            },
-            {
-                  "name": "Mytäjäisten uimaranta",
-                  "text": "Ein kleiner und friedlicher Badestrand in der Stadt Lahti.",
-                  "category": "recreational",
-                  "coords": [
-                        25.63645,
-                        60.978517
                   ]
             },
             {
@@ -12732,24 +11967,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.793079,
                         60.971183
-                  ]
-            },
-            {
-                  "name": "Vesijärvi",
-                  "text": "Der Vesijärvi ist ein bedeutender See in Lahti, bekannt für seine weiten Wasserflächen.",
-                  "category": "natural",
-                  "coords": [
-                        25.486819,
-                        61.08416
-                  ]
-            },
-            {
-                  "name": "Iso Tiilijärvi",
-                  "text": "Der Iso Tiilijärvi ist ein See in Lahti, der ideale Bedingungen für einen Naturaufenthalt bietet.",
-                  "category": "natural",
-                  "coords": [
-                        25.50963,
-                        61.003496
                   ]
             },
             {
@@ -12980,15 +12197,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Teivaan sataman koiraranta",
-                  "text": "Kifejezetten kutyák számára kialakított strandterület a Teivaa-kikötőben.",
-                  "category": "recreational",
-                  "coords": [
-                        25.635812,
-                        60.990444
-                  ]
-            },
-            {
                   "name": "Pääsali",
                   "text": "Egy jelentős auditorium Lahtiban, amelyet színházi és nagy rendezvényekre használnak.",
                   "category": "cultural",
@@ -13004,33 +12212,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.652351,
                         60.983632
-                  ]
-            },
-            {
-                  "name": "Koiraranta",
-                  "text": "Nyilvános strandterület, ahol a kutyák is úszhatnak.",
-                  "category": "recreational",
-                  "coords": [
-                        25.609832,
-                        60.991485
-                  ]
-            },
-            {
-                  "name": "Ank­ku­rin Ran­ta­puis­ton ui­ma­ran­ta",
-                  "text": "Népszerű fürdőstrand az Ankkuri parti parkban.",
-                  "category": "recreational",
-                  "coords": [
-                        25.647226,
-                        61.001082
-                  ]
-            },
-            {
-                  "name": "Mytäjäisten uimaranta",
-                  "text": "Kicsi és békés fürdőstrand Lahti városában.",
-                  "category": "recreational",
-                  "coords": [
-                        25.63645,
-                        60.978517
                   ]
             },
             {
@@ -13202,24 +12383,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.793079,
                         60.971183
-                  ]
-            },
-            {
-                  "name": "Vesijärvi",
-                  "text": "A Vesijärvi egy jelentős tó Lahtiban, amely tágas vízfelületeiről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        25.486819,
-                        61.08416
-                  ]
-            },
-            {
-                  "name": "Iso Tiilijärvi",
-                  "text": "Az Iso Tiilijärvi egy tó Lahti területén, amely kiváló feltételeket kínál a természetjáráshoz.",
-                  "category": "natural",
-                  "coords": [
-                        25.50963,
-                        61.003496
                   ]
             },
             {
@@ -13450,15 +12613,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Teivaan sataman koiraranta",
-                  "text": "O zonă de plajă dedicată câinilor, situată în portul Teivaa.",
-                  "category": "recreational",
-                  "coords": [
-                        25.635812,
-                        60.990444
-                  ]
-            },
-            {
                   "name": "Pääsali",
                   "text": "Un auditorium major din Lahti, utilizat pentru teatru și evenimente mari.",
                   "category": "cultural",
@@ -13474,33 +12628,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.652351,
                         60.983632
-                  ]
-            },
-            {
-                  "name": "Koiraranta",
-                  "text": "O zonă de plajă publică unde câinii au voie să înoate.",
-                  "category": "recreational",
-                  "coords": [
-                        25.609832,
-                        60.991485
-                  ]
-            },
-            {
-                  "name": "Ank­ku­rin Ran­ta­puis­ton ui­ma­ran­ta",
-                  "text": "O plajă populară pentru înot situată în parcul de coastă Ankkuri.",
-                  "category": "recreational",
-                  "coords": [
-                        25.647226,
-                        61.001082
-                  ]
-            },
-            {
-                  "name": "Mytäjäisten uimaranta",
-                  "text": "O plajă de înot mică și liniștită din orașul Lahti.",
-                  "category": "recreational",
-                  "coords": [
-                        25.63645,
-                        60.978517
                   ]
             },
             {
@@ -13672,24 +12799,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.793079,
                         60.971183
-                  ]
-            },
-            {
-                  "name": "Vesijärvi",
-                  "text": "Vesijärvi este un lac important din Lahti, cunoscut pentru suprafețele sale vaste de apă.",
-                  "category": "natural",
-                  "coords": [
-                        25.486819,
-                        61.08416
-                  ]
-            },
-            {
-                  "name": "Iso Tiilijärvi",
-                  "text": "Iso Tiilijärvi este un lac din Lahti, oferind condiții ideale pentru o ieșire în natură.",
-                  "category": "natural",
-                  "coords": [
-                        25.50963,
-                        61.003496
                   ]
             },
             {
@@ -13920,15 +13029,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Teivaan sataman koiraranta",
-                  "text": "A dedicated beach area for dogs located in the Teivaa harbor.",
-                  "category": "recreational",
-                  "coords": [
-                        25.635812,
-                        60.990444
-                  ]
-            },
-            {
                   "name": "Main Hall",
                   "text": "A major auditorium in Lahti used for theatre and large events.",
                   "category": "cultural",
@@ -13944,33 +13044,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.652351,
                         60.983632
-                  ]
-            },
-            {
-                  "name": "Koiraranta",
-                  "text": "A public beach area where dogs are permitted to swim.",
-                  "category": "recreational",
-                  "coords": [
-                        25.609832,
-                        60.991485
-                  ]
-            },
-            {
-                  "name": "Ank­ku­rin Ran­ta­puis­ton ui­ma­ran­ta",
-                  "text": "A popular swimming beach located within the Ankkuri coastal park.",
-                  "category": "recreational",
-                  "coords": [
-                        25.647226,
-                        61.001082
-                  ]
-            },
-            {
-                  "name": "Mytäjäisten uimaranta",
-                  "text": "A small and peaceful swimming beach in the city of Lahti.",
-                  "category": "recreational",
-                  "coords": [
-                        25.63645,
-                        60.978517
                   ]
             },
             {
@@ -14142,24 +13215,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.793079,
                         60.971183
-                  ]
-            },
-            {
-                  "name": "Vesijärvi",
-                  "text": "Vesijärvi is a major lake in Lahti, known for its vast water areas.",
-                  "category": "natural",
-                  "coords": [
-                        25.486819,
-                        61.08416
-                  ]
-            },
-            {
-                  "name": "Iso Tiilijärvi",
-                  "text": "Iso Tiilijärvi is a lake in Lahti, offering ideal conditions for a nature outing.",
-                  "category": "natural",
-                  "coords": [
-                        25.50963,
-                        61.003496
                   ]
             },
             {
@@ -14390,75 +13445,12 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Ylistönrinteen lehdon luonnonsuojelualue",
-                  "text": "Ylistönrinteen lehdon luonnonsuojelualue ist ein Naturschutzgebiet in Jyväskylä.",
-                  "category": "natural",
-                  "coords": [
-                        25.740742,
-                        62.227853
-                  ]
-            },
-            {
-                  "name": "Alvar Aalto -museo",
-                  "text": "Das Alvar Aalto Museum ist ein bekanntes Museum in Jyväskylä, das der Arbeit des berühmten Architekten gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        25.730995,
-                        62.233424
-                  ]
-            },
-            {
-                  "name": "Jyväskylän Kaupunginteatteri",
-                  "text": "Jyväskylän Kaupunginteatteri ist ein lokales Theater in Jyväskylä.",
-                  "category": "cultural",
-                  "coords": [
-                        25.747448,
-                        62.240094
-                  ]
-            },
-            {
-                  "name": "Pitkäruohon luonnonsuojelualue",
-                  "text": "Pitkäruohon luonnonsuojelualue ist ein Naturschutzgebiet in Jyväskylä.",
-                  "category": "natural",
-                  "coords": [
-                        25.789721,
-                        62.231914
-                  ]
-            },
-            {
-                  "name": "Toivolan Vanha Piha",
-                  "text": "Toivolan Vanha Piha ist ein bekannter historischer Innenhof und ein Museum in Jyväskylä.",
-                  "category": "museum",
-                  "coords": [
-                        25.744721,
-                        62.237716
-                  ]
-            },
-            {
                   "name": "Haukanniemen luonnonsuojelualue",
                   "text": "Haukanniemen luonnonsuojelualue ist ein Naturschutzgebiet in Jyväskylä.",
                   "category": "natural",
                   "coords": [
                         25.710252,
                         62.259065
-                  ]
-            },
-            {
-                  "name": "AaltoAlvari",
-                  "text": "AaltoAlvari ist ein Wasserpark in Jyväskylä.",
-                  "category": "family",
-                  "coords": [
-                        25.728224,
-                        62.236189
-                  ]
-            },
-            {
-                  "name": "Teatteri Vakiopaine",
-                  "text": "Teatteri Vakiopaine ist ein Theater in Jyväskylä.",
-                  "category": "cultural",
-                  "coords": [
-                        25.740047,
-                        62.238679
                   ]
             },
             {
@@ -14489,33 +13481,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lutakon uimaranta",
-                  "text": "Lutakon uimaranta ist ein Strand in Jyväskylä.",
-                  "category": "recreational",
-                  "coords": [
-                        25.764578,
-                        62.238501
-                  ]
-            },
-            {
-                  "name": "Halssilan uimaranta",
-                  "text": "Halssilan uimaranta ist ein Strand in Jyväskylä.",
-                  "category": "recreational",
-                  "coords": [
-                        25.791756,
-                        62.239552
-                  ]
-            },
-            {
-                  "name": "Latoteatteri Kulissi",
-                  "text": "Latoteatteri Kulissi ist ein Theater in Jyväskylä.",
-                  "category": "cultural",
-                  "coords": [
-                        25.772303,
-                        62.230629
-                  ]
-            },
-            {
                   "name": "Rautpohja",
                   "text": "Rautpohja ist eine lokale Bucht in Jyväskylä.",
                   "category": "landmark",
@@ -14531,24 +13496,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.747783,
                         62.253693
-                  ]
-            },
-            {
-                  "name": "Lounaispuisto",
-                  "text": "Lounaispuisto ist ein Park in Jyväskylä.",
-                  "category": "park",
-                  "coords": [
-                        25.738069,
-                        62.236853
-                  ]
-            },
-            {
-                  "name": "Taavettilan riihi",
-                  "text": "Taavettilan riihi ist eine bekannte historische Sehenswürdigkeit in Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.733835,
-                        62.235758
                   ]
             },
             {
@@ -14579,15 +13526,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kirjailijatalo",
-                  "text": "Kirjailijatalo ist eine lokale Sehenswürdigkeit in Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.735398,
-                        62.236105
-                  ]
-            },
-            {
                   "name": "Eerolanpuron kosteikko",
                   "text": "Eerolanpuron kosteikko ist ein Aussichtspunkt in Jyväskylä.",
                   "category": "natural",
@@ -14606,57 +13544,12 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Survon kartano",
-                  "text": "Survon kartano ist eine lokale Sehenswürdigkeit in Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.771277,
-                        62.230233
-                  ]
-            },
-            {
-                  "name": "Matti Nykäsen muistomerkki",
-                  "text": "Matti Nykänen’s memorial ist ein Denkmal in Jyväskylä.",
-                  "category": "historical",
-                  "coords": [
-                        25.721529,
-                        62.234405
-                  ]
-            },
-            {
-                  "name": "Yliopiston kappeli",
-                  "text": "Yliopiston kappeli ist eine Andachtsstätte in Jyväskylä.",
-                  "category": "religious",
-                  "coords": [
-                        25.733094,
-                        62.237501
-                  ]
-            },
-            {
                   "name": "Jyväskylän vapaaseurakunta",
                   "text": "Jyväskylän vapaaseurakunta ist eine bekannte Freikirche in Jyväskylä.",
                   "category": "religious",
                   "coords": [
                         25.780126,
                         62.258955
-                  ]
-            },
-            {
-                  "name": "Jyväskylän reformoitu baptistiseurakunta",
-                  "text": "Jyväskylän reformoitu baptistiseurakunta ist eine bekannte reformierte Baptistenkirche in Jyväskylä.",
-                  "category": "religious",
-                  "coords": [
-                        25.771893,
-                        62.225106
-                  ]
-            },
-            {
-                  "name": "Jyväskylän Cityseurakunta",
-                  "text": "Jyväskylän Cityseurakunta ist eine bekannte Andachtsstätte in Jyväskylä.",
-                  "category": "religious",
-                  "coords": [
-                        25.738283,
-                        62.238411
                   ]
             },
             {
@@ -14678,15 +13571,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kuokkalan kirkko",
-                  "text": "Kuokkalan kirkko ist ein markantes Kirchengebäude in Jyväskylä.",
-                  "category": "religious",
-                  "coords": [
-                        25.771662,
-                        62.226967
-                  ]
-            },
-            {
                   "name": "Jyväskylän helluntaiseurakunta",
                   "text": "Jyväskylän helluntaiseurakunta ist eine bekannte Pfingstgemeinde in Jyväskylä.",
                   "category": "religious",
@@ -14696,39 +13580,12 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Ylistön silta",
-                  "text": "Ylistön silta ist eine bekannte Brücke in Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.737005,
-                        62.229843
-                  ]
-            },
-            {
-                  "name": "Kuokkalan silta",
-                  "text": "Kuokkalan silta ist eine wichtige Brücke in Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.763838,
-                        62.234344
-                  ]
-            },
-            {
                   "name": "Kristuksen ylösnousemuksen kirkko",
                   "text": "Kristuksen ylösnousemuksen kirkko ist eine Andachtsstätte in Jyväskylä.",
                   "category": "religious",
                   "coords": [
                         25.746528,
                         62.252243
-                  ]
-            },
-            {
-                  "name": "Vr2 961",
-                  "text": "Vr2 961 ist eine historische Lokomotive in Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.751753,
-                        62.240111
                   ]
             },
             {
@@ -14955,15 +13812,6 @@ export const finlandCities: POI[] = [
                         25.69934,
                         62.259813
                   ]
-            },
-            {
-                  "name": "Sataman Viilu - Sauna",
-                  "text": "Eine moderne Sauna- und Badeanlage in Jyväskylä, die ein besonderes Familienerlebnis bietet.",
-                  "category": "family",
-                  "coords": [
-                        25.760009,
-                        62.235066
-                  ]
             }
       ],
       "hu": [
@@ -15031,75 +13879,12 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Ylistönrinteen lehdon luonnonsuojelualue",
-                  "text": "A Ylistönrinteen lehdon luonnonsuojelualue egy természetvédelmi terület Jyväskylä városában.",
-                  "category": "natural",
-                  "coords": [
-                        25.740742,
-                        62.227853
-                  ]
-            },
-            {
-                  "name": "Alvar Aalto -museo",
-                  "text": "Az Alvar Aalto Museum egy jól ismert, a híres építész munkásságát bemutató múzeum Jyväskyläban.",
-                  "category": "museum",
-                  "coords": [
-                        25.730995,
-                        62.233424
-                  ]
-            },
-            {
-                  "name": "Jyväskylän Kaupunginteatteri",
-                  "text": "A Jyväskylän Kaupunginteatteri egy helyi színház Jyväskyläban.",
-                  "category": "cultural",
-                  "coords": [
-                        25.747448,
-                        62.240094
-                  ]
-            },
-            {
-                  "name": "Pitkäruohon luonnonsuojelualue",
-                  "text": "A Pitkäruohon luonnonsuojelualue egy természetvédelmi terület Jyväskyläban.",
-                  "category": "natural",
-                  "coords": [
-                        25.789721,
-                        62.231914
-                  ]
-            },
-            {
-                  "name": "Toivolan Vanha Piha",
-                  "text": "A Toivolan Vanha Piha egy nevezetes történelmi udvar és múzeum Jyväskyläban.",
-                  "category": "museum",
-                  "coords": [
-                        25.744721,
-                        62.237716
-                  ]
-            },
-            {
                   "name": "Haukanniemen luonnonsuojelualue",
                   "text": "A Haukanniemen luonnonsuojelualue egy természetvédelmi terület Jyväskyläban.",
                   "category": "natural",
                   "coords": [
                         25.710252,
                         62.259065
-                  ]
-            },
-            {
-                  "name": "AaltoAlvari",
-                  "text": "Az AaltoAlvari egy vízipark Jyväskylä városában.",
-                  "category": "family",
-                  "coords": [
-                        25.728224,
-                        62.236189
-                  ]
-            },
-            {
-                  "name": "Teatteri Vakiopaine",
-                  "text": "A Teatteri Vakiopaine egy színház Jyväskyläban.",
-                  "category": "cultural",
-                  "coords": [
-                        25.740047,
-                        62.238679
                   ]
             },
             {
@@ -15130,33 +13915,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lutakon uimaranta",
-                  "text": "A Lutakon uimaranta egy strand Jyväskylä városában.",
-                  "category": "recreational",
-                  "coords": [
-                        25.764578,
-                        62.238501
-                  ]
-            },
-            {
-                  "name": "Halssilan uimaranta",
-                  "text": "A Halssilan uimaranta egy strand Jyväskyläban.",
-                  "category": "recreational",
-                  "coords": [
-                        25.791756,
-                        62.239552
-                  ]
-            },
-            {
-                  "name": "Latoteatteri Kulissi",
-                  "text": "A Latoteatteri Kulissi egy színház Jyväskyläban.",
-                  "category": "cultural",
-                  "coords": [
-                        25.772303,
-                        62.230629
-                  ]
-            },
-            {
                   "name": "Rautpohja",
                   "text": "A Rautpohja egy helyi öböl Jyväskylä városában.",
                   "category": "landmark",
@@ -15172,24 +13930,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.747783,
                         62.253693
-                  ]
-            },
-            {
-                  "name": "Lounaispuisto",
-                  "text": "A Lounaispuisto egy park Jyväskyläban.",
-                  "category": "park",
-                  "coords": [
-                        25.738069,
-                        62.236853
-                  ]
-            },
-            {
-                  "name": "Taavettilan riihi",
-                  "text": "A Taavettilan riihi egy figyelemre méltó történelmi látványosság Jyväskyläban.",
-                  "category": "landmark",
-                  "coords": [
-                        25.733835,
-                        62.235758
                   ]
             },
             {
@@ -15220,15 +13960,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kirjailijatalo",
-                  "text": "A Kirjailijatalo egy helyi látványosság Jyväskylä városában.",
-                  "category": "landmark",
-                  "coords": [
-                        25.735398,
-                        62.236105
-                  ]
-            },
-            {
                   "name": "Eerolanpuron kosteikko",
                   "text": "Az Eerolanpuron kosteikko egy kilátóhely Jyväskyläban.",
                   "category": "natural",
@@ -15247,57 +13978,12 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Survon kartano",
-                  "text": "A Survon kartano egy helyi látványosság Jyväskyläban.",
-                  "category": "landmark",
-                  "coords": [
-                        25.771277,
-                        62.230233
-                  ]
-            },
-            {
-                  "name": "Matti Nykäsen muistomerkki",
-                  "text": "A Matti Nykänen’s memorial egy emlékmű Jyväskyläban.",
-                  "category": "historical",
-                  "coords": [
-                        25.721529,
-                        62.234405
-                  ]
-            },
-            {
-                  "name": "Yliopiston kappeli",
-                  "text": "A Yliopiston kappeli egy istentiszteleti hely Jyväskyläban.",
-                  "category": "religious",
-                  "coords": [
-                        25.733094,
-                        62.237501
-                  ]
-            },
-            {
                   "name": "Jyväskylän vapaaseurakunta",
                   "text": "A Jyväskylän vapaaseurakunta egy jelentős szabadegyházi közösség Jyväskyläban.",
                   "category": "religious",
                   "coords": [
                         25.780126,
                         62.258955
-                  ]
-            },
-            {
-                  "name": "Jyväskylän reformoitu baptistiseurakunta",
-                  "text": "A Jyväskylän reformoitu baptistiseurakunta egy elismert református baptista gyülekezet Jyväskyläban.",
-                  "category": "religious",
-                  "coords": [
-                        25.771893,
-                        62.225106
-                  ]
-            },
-            {
-                  "name": "Jyväskylän Cityseurakunta",
-                  "text": "A Jyväskylän Cityseurakunta egy kiemelkedő istentiszteleti hely Jyväskyläban.",
-                  "category": "religious",
-                  "coords": [
-                        25.738283,
-                        62.238411
                   ]
             },
             {
@@ -15319,15 +14005,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kuokkalan kirkko",
-                  "text": "A Kuokkalan kirkko egy kiemelkedő templomépület Jyväskyläban.",
-                  "category": "religious",
-                  "coords": [
-                        25.771662,
-                        62.226967
-                  ]
-            },
-            {
                   "name": "Jyväskylän helluntaiseurakunta",
                   "text": "A Jyväskylän helluntaiseurakunta egy kiemelkedő pünkösdi gyülekezet Jyväskyläban.",
                   "category": "religious",
@@ -15337,39 +14014,12 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Ylistön silta",
-                  "text": "Az Ylistön silta egy nevezetes híd Jyväskyläban.",
-                  "category": "landmark",
-                  "coords": [
-                        25.737005,
-                        62.229843
-                  ]
-            },
-            {
-                  "name": "Kuokkalan silta",
-                  "text": "A Kuokkalan silta egy fontos híd Jyväskyläban.",
-                  "category": "landmark",
-                  "coords": [
-                        25.763838,
-                        62.234344
-                  ]
-            },
-            {
                   "name": "Kristuksen ylösnousemuksen kirkko",
                   "text": "A Kristuksen ylösnousemuksen kirkko egy istentiszteleti hely Jyväskyläban.",
                   "category": "religious",
                   "coords": [
                         25.746528,
                         62.252243
-                  ]
-            },
-            {
-                  "name": "Vr2 961",
-                  "text": "A Vr2 961 egy történelmi mozdony Jyväskylä városában.",
-                  "category": "landmark",
-                  "coords": [
-                        25.751753,
-                        62.240111
                   ]
             },
             {
@@ -15596,15 +14246,6 @@ export const finlandCities: POI[] = [
                         25.69934,
                         62.259813
                   ]
-            },
-            {
-                  "name": "Sataman Viilu - Sauna",
-                  "text": "Modern szauna- és fürdőkomplexum Jyväskylä városában, amely különleges családi élményt nyújt.",
-                  "category": "family",
-                  "coords": [
-                        25.760009,
-                        62.235066
-                  ]
             }
       ],
       "ro": [
@@ -15672,75 +14313,12 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Ylistönrinteen lehdon luonnonsuojelualue",
-                  "text": "Ylistönrinteen lehdon luonnonsuojelualue este o rezervație naturală din Jyväskylä.",
-                  "category": "natural",
-                  "coords": [
-                        25.740742,
-                        62.227853
-                  ]
-            },
-            {
-                  "name": "Alvar Aalto -museo",
-                  "text": "Muzeul Alvar Aalto este un muzeu renumit din Jyväskylä, dedicat operei faimosului arhitect.",
-                  "category": "museum",
-                  "coords": [
-                        25.730995,
-                        62.233424
-                  ]
-            },
-            {
-                  "name": "Jyväskylän Kaupunginteatteri",
-                  "text": "Jyväskylän Kaupunginteatteri este un teatru local din Jyväskylä.",
-                  "category": "cultural",
-                  "coords": [
-                        25.747448,
-                        62.240094
-                  ]
-            },
-            {
-                  "name": "Pitkäruohon luonnonsuojelualue",
-                  "text": "Pitkäruohon luonnonsuojelualue este o rezervație naturală din Jyväskylä.",
-                  "category": "natural",
-                  "coords": [
-                        25.789721,
-                        62.231914
-                  ]
-            },
-            {
-                  "name": "Toivolan Vanha Piha",
-                  "text": "Toivolan Vanha Piha este o curte istorică și un muzeu notabil din Jyväskylä.",
-                  "category": "museum",
-                  "coords": [
-                        25.744721,
-                        62.237716
-                  ]
-            },
-            {
                   "name": "Haukanniemen luonnonsuojelualue",
                   "text": "Haukanniemen luonnonsuojelualue este o rezervație naturală situată în Jyväskylä.",
                   "category": "natural",
                   "coords": [
                         25.710252,
                         62.259065
-                  ]
-            },
-            {
-                  "name": "AaltoAlvari",
-                  "text": "AaltoAlvari este un parc acvatic din Jyväskylä.",
-                  "category": "family",
-                  "coords": [
-                        25.728224,
-                        62.236189
-                  ]
-            },
-            {
-                  "name": "Teatteri Vakiopaine",
-                  "text": "Teatteri Vakiopaine este un teatru situat în Jyväskylä.",
-                  "category": "cultural",
-                  "coords": [
-                        25.740047,
-                        62.238679
                   ]
             },
             {
@@ -15771,33 +14349,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lutakon uimaranta",
-                  "text": "Lutakon uimaranta este o plajă din Jyväskylä.",
-                  "category": "recreational",
-                  "coords": [
-                        25.764578,
-                        62.238501
-                  ]
-            },
-            {
-                  "name": "Halssilan uimaranta",
-                  "text": "Halssilan uimaranta este o plajă din Jyväskylä.",
-                  "category": "recreational",
-                  "coords": [
-                        25.791756,
-                        62.239552
-                  ]
-            },
-            {
-                  "name": "Latoteatteri Kulissi",
-                  "text": "Latoteatteri Kulissi este un teatru din Jyväskylä.",
-                  "category": "cultural",
-                  "coords": [
-                        25.772303,
-                        62.230629
-                  ]
-            },
-            {
                   "name": "Rautpohja",
                   "text": "Rautpohja este un golf local situat în Jyväskylä.",
                   "category": "landmark",
@@ -15813,24 +14364,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.747783,
                         62.253693
-                  ]
-            },
-            {
-                  "name": "Lounaispuisto",
-                  "text": "Lounaispuisto este un parc situat în Jyväskylä.",
-                  "category": "park",
-                  "coords": [
-                        25.738069,
-                        62.236853
-                  ]
-            },
-            {
-                  "name": "Taavettilan riihi",
-                  "text": "Taavettilan riihi este o atracție istorică notabilă din Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.733835,
-                        62.235758
                   ]
             },
             {
@@ -15861,15 +14394,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kirjailijatalo",
-                  "text": "Kirjailijatalo este o atracție locală situată în Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.735398,
-                        62.236105
-                  ]
-            },
-            {
                   "name": "Eerolanpuron kosteikko",
                   "text": "Eerolanpuron kosteikko este un punct de belvedere în Jyväskylä.",
                   "category": "natural",
@@ -15888,57 +14412,12 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Survon kartano",
-                  "text": "Survon kartano este o atracție locală în Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.771277,
-                        62.230233
-                  ]
-            },
-            {
-                  "name": "Matti Nykäsen muistomerkki",
-                  "text": "Matti Nykänen’s memorial este un monument din Jyväskylä.",
-                  "category": "historical",
-                  "coords": [
-                        25.721529,
-                        62.234405
-                  ]
-            },
-            {
-                  "name": "Yliopiston kappeli",
-                  "text": "Yliopiston kappeli este un lăcaș de cult situat în Jyväskylä.",
-                  "category": "religious",
-                  "coords": [
-                        25.733094,
-                        62.237501
-                  ]
-            },
-            {
                   "name": "Jyväskylän vapaaseurakunta",
                   "text": "Jyväskylän vapaaseurakunta este o biserică liberă notabilă din Jyväskylä.",
                   "category": "religious",
                   "coords": [
                         25.780126,
                         62.258955
-                  ]
-            },
-            {
-                  "name": "Jyväskylän reformoitu baptistiseurakunta",
-                  "text": "Jyväskylän reformoitu baptistiseurakunta este o biserică baptistă reformată recunoscută din Jyväskylä.",
-                  "category": "religious",
-                  "coords": [
-                        25.771893,
-                        62.225106
-                  ]
-            },
-            {
-                  "name": "Jyväskylän Cityseurakunta",
-                  "text": "Jyväskylän Cityseurakunta este un lăcaș de cult proeminent din Jyväskylä.",
-                  "category": "religious",
-                  "coords": [
-                        25.738283,
-                        62.238411
                   ]
             },
             {
@@ -15960,15 +14439,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kuokkalan kirkko",
-                  "text": "Kuokkalan kirkko este o clădire bisericească proeminentă situată în Jyväskylä.",
-                  "category": "religious",
-                  "coords": [
-                        25.771662,
-                        62.226967
-                  ]
-            },
-            {
                   "name": "Jyväskylän helluntaiseurakunta",
                   "text": "Jyväskylän helluntaiseurakunta este o biserică penticostală proeminentă din Jyväskylä.",
                   "category": "religious",
@@ -15978,39 +14448,12 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Ylistön silta",
-                  "text": "Ylistön silta este un pod notabil din Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.737005,
-                        62.229843
-                  ]
-            },
-            {
-                  "name": "Kuokkalan silta",
-                  "text": "Kuokkalan silta este un pod important din Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.763838,
-                        62.234344
-                  ]
-            },
-            {
                   "name": "Kristuksen ylösnousemuksen kirkko",
                   "text": "Kristuksen ylösnousemuksen kirkko este un lăcaș de cult din Jyväskylä.",
                   "category": "religious",
                   "coords": [
                         25.746528,
                         62.252243
-                  ]
-            },
-            {
-                  "name": "Vr2 961",
-                  "text": "Vr2 961 este o locomotivă istorică din Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.751753,
-                        62.240111
                   ]
             },
             {
@@ -16237,15 +14680,6 @@ export const finlandCities: POI[] = [
                         25.69934,
                         62.259813
                   ]
-            },
-            {
-                  "name": "Sataman Viilu - Sauna",
-                  "text": "O saună modernă și o facilitate de baie în Jyväskylä, oferind o experiență specială în familie.",
-                  "category": "family",
-                  "coords": [
-                        25.760009,
-                        62.235066
-                  ]
             }
       ],
       "en": [
@@ -16313,75 +14747,12 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Ylistönrinteen lehdon luonnonsuojelualue",
-                  "text": "Ylistönrinteen lehdon luonnonsuojelualue is a nature reserve located in Jyväskylä.",
-                  "category": "natural",
-                  "coords": [
-                        25.740742,
-                        62.227853
-                  ]
-            },
-            {
-                  "name": "Alvar Aalto Museum",
-                  "text": "The Alvar Aalto Museum is a well-known museum in Jyväskylä dedicated to the famous architect's work.",
-                  "category": "museum",
-                  "coords": [
-                        25.730995,
-                        62.233424
-                  ]
-            },
-            {
-                  "name": "Jyväskylän Kaupunginteatteri",
-                  "text": "Jyväskylän Kaupunginteatteri is a local theatre in Jyväskylä.",
-                  "category": "cultural",
-                  "coords": [
-                        25.747448,
-                        62.240094
-                  ]
-            },
-            {
-                  "name": "Pitkäruohon luonnonsuojelualue",
-                  "text": "Pitkäruohon luonnonsuojelualue is a nature reserve located in Jyväskylä.",
-                  "category": "natural",
-                  "coords": [
-                        25.789721,
-                        62.231914
-                  ]
-            },
-            {
-                  "name": "Toivolan Vanha Piha",
-                  "text": "Toivolan Vanha Piha is a notable historical courtyard and museum in Jyväskylä.",
-                  "category": "museum",
-                  "coords": [
-                        25.744721,
-                        62.237716
-                  ]
-            },
-            {
                   "name": "Haukanniemen luonnonsuojelualue",
                   "text": "Haukanniemen luonnonsuojelualue is a nature reserve situated in Jyväskylä.",
                   "category": "natural",
                   "coords": [
                         25.710252,
                         62.259065
-                  ]
-            },
-            {
-                  "name": "AaltoAlvari",
-                  "text": "AaltoAlvari is a water park facility located in Jyväskylä.",
-                  "category": "family",
-                  "coords": [
-                        25.728224,
-                        62.236189
-                  ]
-            },
-            {
-                  "name": "Teatteri Vakiopaine",
-                  "text": "Teatteri Vakiopaine is a theatre located in Jyväskylä.",
-                  "category": "cultural",
-                  "coords": [
-                        25.740047,
-                        62.238679
                   ]
             },
             {
@@ -16412,33 +14783,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Lutakon uimaranta",
-                  "text": "Lutakon uimaranta is a beach located in Jyväskylä.",
-                  "category": "recreational",
-                  "coords": [
-                        25.764578,
-                        62.238501
-                  ]
-            },
-            {
-                  "name": "Halssilan uimaranta",
-                  "text": "Halssilan uimaranta is a beach located in Jyväskylä.",
-                  "category": "recreational",
-                  "coords": [
-                        25.791756,
-                        62.239552
-                  ]
-            },
-            {
-                  "name": "Latoteatteri Kulissi",
-                  "text": "Latoteatteri Kulissi is a theatre venue in Jyväskylä.",
-                  "category": "cultural",
-                  "coords": [
-                        25.772303,
-                        62.230629
-                  ]
-            },
-            {
                   "name": "Rautpohja",
                   "text": "Rautpohja is a local bay situated in Jyväskylä.",
                   "category": "landmark",
@@ -16454,24 +14798,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.747783,
                         62.253693
-                  ]
-            },
-            {
-                  "name": "Lounaispuisto",
-                  "text": "Lounaispuisto is a park situated in Jyväskylä.",
-                  "category": "park",
-                  "coords": [
-                        25.738069,
-                        62.236853
-                  ]
-            },
-            {
-                  "name": "Taavettilan riihi",
-                  "text": "Taavettilan riihi is a notable historical attraction in Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.733835,
-                        62.235758
                   ]
             },
             {
@@ -16502,15 +14828,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kirjailijatalo",
-                  "text": "Kirjailijatalo is a local attraction situated in Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.735398,
-                        62.236105
-                  ]
-            },
-            {
                   "name": "Eerolanpuron kosteikko",
                   "text": "Eerolanpuron kosteikko is a viewpoint located in Jyväskylä.",
                   "category": "natural",
@@ -16529,57 +14846,12 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Survon kartano",
-                  "text": "Survon kartano is a local attraction in Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.771277,
-                        62.230233
-                  ]
-            },
-            {
-                  "name": "Matti Nykänen’s memorial",
-                  "text": "Matti Nykänen’s memorial is a monument situated in Jyväskylä.",
-                  "category": "historical",
-                  "coords": [
-                        25.721529,
-                        62.234405
-                  ]
-            },
-            {
-                  "name": "Yliopiston kappeli",
-                  "text": "Yliopiston kappeli is a place of worship situated in Jyväskylä.",
-                  "category": "religious",
-                  "coords": [
-                        25.733094,
-                        62.237501
-                  ]
-            },
-            {
                   "name": "Jyväskylän vapaaseurakunta",
                   "text": "Jyväskylän vapaaseurakunta is a notable free church in Jyväskylä.",
                   "category": "religious",
                   "coords": [
                         25.780126,
                         62.258955
-                  ]
-            },
-            {
-                  "name": "Jyväskylän reformoitu baptistiseurakunta",
-                  "text": "Jyväskylän reformoitu baptistiseurakunta is a recognized reformed baptist church in Jyväskylä.",
-                  "category": "religious",
-                  "coords": [
-                        25.771893,
-                        62.225106
-                  ]
-            },
-            {
-                  "name": "Jyväskylän Cityseurakunta",
-                  "text": "Jyväskylän Cityseurakunta is a prominent place of worship in Jyväskylä.",
-                  "category": "religious",
-                  "coords": [
-                        25.738283,
-                        62.238411
                   ]
             },
             {
@@ -16601,15 +14873,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kuokkalan kirkko",
-                  "text": "Kuokkalan kirkko is a prominent church building located in Jyväskylä.",
-                  "category": "religious",
-                  "coords": [
-                        25.771662,
-                        62.226967
-                  ]
-            },
-            {
                   "name": "Jyväskylän helluntaiseurakunta",
                   "text": "Jyväskylän helluntaiseurakunta is a prominent Pentecostal church in Jyväskylä.",
                   "category": "religious",
@@ -16619,39 +14882,12 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Ylistön silta",
-                  "text": "Ylistön silta is a notable bridge in Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.737005,
-                        62.229843
-                  ]
-            },
-            {
-                  "name": "Kuokkalan silta",
-                  "text": "Kuokkalan silta is an important bridge connecting parts of Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.763838,
-                        62.234344
-                  ]
-            },
-            {
                   "name": "Kristuksen ylösnousemuksen kirkko",
                   "text": "Kristuksen ylösnousemuksen kirkko is a place of worship in Jyväskylä.",
                   "category": "religious",
                   "coords": [
                         25.746528,
                         62.252243
-                  ]
-            },
-            {
-                  "name": "Vr2 961",
-                  "text": "Vr2 961 is a historical locomotive preserved in Jyväskylä.",
-                  "category": "landmark",
-                  "coords": [
-                        25.751753,
-                        62.240111
                   ]
             },
             {
@@ -16878,15 +15114,6 @@ export const finlandCities: POI[] = [
                         25.69934,
                         62.259813
                   ]
-            },
-            {
-                  "name": "Sataman Viilu - Sauna",
-                  "text": "A modern sauna and bathing facility in Jyväskylä, offering a special family experience.",
-                  "category": "family",
-                  "coords": [
-                        25.760009,
-                        62.235066
-                  ]
             }
       ]
 },
@@ -17017,24 +15244,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Väinölänniemen uimaranta",
-                  "text": "Ein beliebter Badestrand in der Nähe des Stadtzentrums von Kuopio.",
-                  "category": "recreational",
-                  "coords": [
-                        27.698922,
-                        62.884775
-                  ]
-            },
-            {
-                  "name": "Peräniemen uimaranta",
-                  "text": "Ein öffentlicher Strand in Kuopio für Freizeitaktivitäten am Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        27.700328,
-                        62.881188
-                  ]
-            },
-            {
                   "name": "Kuopion Automuseo",
                   "text": "Ein Museum in Kuopio, das eine Sammlung historischer Fahrzeuge zeigt.",
                   "category": "museum",
@@ -17068,42 +15277,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         27.685187,
                         62.890298
-                  ]
-            },
-            {
-                  "name": "Keiliniemen uimaranta",
-                  "text": "Ein lokaler Uferbereich in Kuopio, der zum Baden geeignet ist.",
-                  "category": "recreational",
-                  "coords": [
-                        27.697477,
-                        62.881972
-                  ]
-            },
-            {
-                  "name": "Honkalahden uimaranta",
-                  "text": "Ein kleiner Strand in Kuopio für ruhige Momente am See.",
-                  "category": "recreational",
-                  "coords": [
-                        27.726629,
-                        62.900779
-                  ]
-            },
-            {
-                  "name": "Särkilahden uimaranta",
-                  "text": "Ein öffentlicher Badeplatz am See in der Region Kuopio.",
-                  "category": "recreational",
-                  "coords": [
-                        27.64336,
-                        62.871413
-                  ]
-            },
-            {
-                  "name": "Harjulanrannan veneranta",
-                  "text": "Ein Bootssteg und Strandbereich für Wassersportler in Kuopio.",
-                  "category": "recreational",
-                  "coords": [
-                        27.631525,
-                        62.898797
                   ]
             },
             {
@@ -17332,15 +15505,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Sammakkolammen uimaranta",
-                  "text": "Ein öffentlicher Badeplatz am Sammakkolampi-See in Kuopio.",
-                  "category": "landmark",
-                  "coords": [
-                        27.643376,
-                        62.902807
-                  ]
-            },
-            {
                   "name": "Iso-Valkeinen",
                   "text": "Iso-Valkeinen ist ein ruhiger See in Kuopio, ideal für entspannte Spaziergänge in der Natur.",
                   "category": "natural",
@@ -17550,24 +15714,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Väinölänniemen uimaranta",
-                  "text": "Népszerű strand Kuopio városközpontjának közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        27.698922,
-                        62.884775
-                  ]
-            },
-            {
-                  "name": "Peräniemen uimaranta",
-                  "text": "Nyilvános strand Kuopióban vízparti szabadidős tevékenységekhez.",
-                  "category": "recreational",
-                  "coords": [
-                        27.700328,
-                        62.881188
-                  ]
-            },
-            {
                   "name": "Kuopion Automuseo",
                   "text": "Kuopiói múzeum, amely történelmi járművek gyűjteményét mutatja be.",
                   "category": "museum",
@@ -17601,42 +15747,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         27.685187,
                         62.890298
-                  ]
-            },
-            {
-                  "name": "Keiliniemen uimaranta",
-                  "text": "Kuopiói vízparti terület, amely alkalmas fürdőzésre.",
-                  "category": "recreational",
-                  "coords": [
-                        27.697477,
-                        62.881972
-                  ]
-            },
-            {
-                  "name": "Honkalahden uimaranta",
-                  "text": "Kisebb strand Kuopióban a tóparti nyugalom kedvelőinek.",
-                  "category": "recreational",
-                  "coords": [
-                        27.726629,
-                        62.900779
-                  ]
-            },
-            {
-                  "name": "Särkilahden uimaranta",
-                  "text": "Nyilvános tóparti fürdőhely Kuopio régiójában.",
-                  "category": "recreational",
-                  "coords": [
-                        27.64336,
-                        62.871413
-                  ]
-            },
-            {
-                  "name": "Harjulanrannan veneranta",
-                  "text": "Csónakkikötő és strandterület vízi sportok kedvelőinek Kuopióban.",
-                  "category": "recreational",
-                  "coords": [
-                        27.631525,
-                        62.898797
                   ]
             },
             {
@@ -17865,15 +15975,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Sammakkolammen uimaranta",
-                  "text": "Nyilvános fürdőhely a kuopiói Sammakkolampi-tónál.",
-                  "category": "landmark",
-                  "coords": [
-                        27.643376,
-                        62.902807
-                  ]
-            },
-            {
                   "name": "Iso-Valkeinen",
                   "text": "Az Iso-Valkeinen egy nyugodt tó Kuopio területén, ideális a pihentető természetjáráshoz.",
                   "category": "natural",
@@ -18083,24 +16184,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Väinölänniemen uimaranta",
-                  "text": "O plajă populară situată aproape de centrul orașului Kuopio.",
-                  "category": "recreational",
-                  "coords": [
-                        27.698922,
-                        62.884775
-                  ]
-            },
-            {
-                  "name": "Peräniemen uimaranta",
-                  "text": "O plajă publică din Kuopio pentru activități de recreere pe malul apei.",
-                  "category": "recreational",
-                  "coords": [
-                        27.700328,
-                        62.881188
-                  ]
-            },
-            {
                   "name": "Kuopion Automuseo",
                   "text": "Un muzeu din Kuopio care expune o colecție de vehicule istorice.",
                   "category": "museum",
@@ -18134,42 +16217,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         27.685187,
                         62.890298
-                  ]
-            },
-            {
-                  "name": "Keiliniemen uimaranta",
-                  "text": "O zonă de coastă locală din Kuopio, potrivită pentru scăldat.",
-                  "category": "recreational",
-                  "coords": [
-                        27.697477,
-                        62.881972
-                  ]
-            },
-            {
-                  "name": "Honkalahden uimaranta",
-                  "text": "O plajă mică din Kuopio pentru momente de liniște pe malul lacului.",
-                  "category": "recreational",
-                  "coords": [
-                        27.726629,
-                        62.900779
-                  ]
-            },
-            {
-                  "name": "Särkilahden uimaranta",
-                  "text": "Un loc public de scăldat pe malul lacului în regiunea Kuopio.",
-                  "category": "recreational",
-                  "coords": [
-                        27.64336,
-                        62.871413
-                  ]
-            },
-            {
-                  "name": "Harjulanrannan veneranta",
-                  "text": "Un debarcader și o zonă de plajă pentru pasionații de sporturi nautice în Kuopio.",
-                  "category": "recreational",
-                  "coords": [
-                        27.631525,
-                        62.898797
                   ]
             },
             {
@@ -18398,15 +16445,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Sammakkolammen uimaranta",
-                  "text": "Un loc public de scăldat la lacul Sammakkolampi din Kuopio.",
-                  "category": "landmark",
-                  "coords": [
-                        27.643376,
-                        62.902807
-                  ]
-            },
-            {
                   "name": "Iso-Valkeinen",
                   "text": "Iso-Valkeinen este un lac liniștit în Kuopio, ideal pentru plimbări relaxante în natură.",
                   "category": "natural",
@@ -18616,24 +16654,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Väinölänniemen uimaranta",
-                  "text": "A popular swimming beach located near the city center of Kuopio.",
-                  "category": "recreational",
-                  "coords": [
-                        27.698922,
-                        62.884775
-                  ]
-            },
-            {
-                  "name": "Peräniemen uimaranta",
-                  "text": "A public beach in Kuopio for lakeside recreational activities.",
-                  "category": "recreational",
-                  "coords": [
-                        27.700328,
-                        62.881188
-                  ]
-            },
-            {
                   "name": "Kuopion Automuseo",
                   "text": "A museum in Kuopio showcasing a collection of historical vehicles.",
                   "category": "museum",
@@ -18667,42 +16687,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         27.685187,
                         62.890298
-                  ]
-            },
-            {
-                  "name": "Keiliniemen uimaranta",
-                  "text": "A local waterfront area in Kuopio suitable for bathing.",
-                  "category": "recreational",
-                  "coords": [
-                        27.697477,
-                        62.881972
-                  ]
-            },
-            {
-                  "name": "Honkalahden uimaranta",
-                  "text": "A small beach in Kuopio for quiet moments by the lake.",
-                  "category": "recreational",
-                  "coords": [
-                        27.726629,
-                        62.900779
-                  ]
-            },
-            {
-                  "name": "Särkilahden uimaranta",
-                  "text": "A public lakeside bathing spot in the Kuopio region.",
-                  "category": "recreational",
-                  "coords": [
-                        27.64336,
-                        62.871413
-                  ]
-            },
-            {
-                  "name": "Harjulanrannan veneranta",
-                  "text": "A boat jetty and beach area for water sports enthusiasts in Kuopio.",
-                  "category": "recreational",
-                  "coords": [
-                        27.631525,
-                        62.898797
                   ]
             },
             {
@@ -18931,15 +16915,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Sammakkolammen uimaranta",
-                  "text": "A public bathing spot by the Sammakkolampi lake in Kuopio.",
-                  "category": "landmark",
-                  "coords": [
-                        27.643376,
-                        62.902807
-                  ]
-            },
-            {
                   "name": "Iso-Valkeinen",
                   "text": "Iso-Valkeinen is a peaceful lake in Kuopio, ideal for relaxing walks in nature.",
                   "category": "natural",
@@ -19122,15 +17097,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Saimaa",
-                  "text": "Der Saimaa ist ein riesiges Seensystem in Joensuu, ideal für vielfältige Wasseraktivitäten.",
-                  "category": "natural",
-                  "coords": [
-                        28.622639,
-                        61.837622
-                  ]
-            },
-            {
                   "name": "Kuntokeidas",
                   "text": "Kuntokeidas in Joensuu bietet Minigolf und andere Freizeitaktivitäten für die ganze Familie.",
                   "category": "family",
@@ -19293,15 +17259,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vehkalahden uimaranta",
-                  "text": "Der Strand Vehkalahti in Joensuu ist ein beliebter Ort zum Schwimmen und für sommerliche Freizeitaktivitäten. Er bietet gute Einrichtungen für Familien und Erholungssuchende am See.",
-                  "category": "recreational",
-                  "coords": [
-                        29.765411,
-                        62.579988
-                  ]
-            },
-            {
                   "name": "Näyttämö",
                   "text": "Näyttämö ist ein kultureller Veranstaltungsort in Joensuu, der sich auf darstellende Künste konzentriert. Hier finden regelmäßig Theateraufführungen und kreative Projekte statt.",
                   "category": "cultural",
@@ -19317,24 +17274,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         29.764744,
                         62.605635
-                  ]
-            },
-            {
-                  "name": "Linnunlahden uimaranta",
-                  "text": "Der Strand Linnunlahti befindet sich in der Nähe des Campingplatzes von Joensuu am Seeufer. Er ist ein geschätzter Ort für Outdoor-Aktivitäten und entspanntes Baden im Sommer.",
-                  "category": "recreational",
-                  "coords": [
-                        29.738602,
-                        62.594715
-                  ]
-            },
-            {
-                  "name": "Ilosaaren uimaranta",
-                  "text": "Der Strand Ilosaari liegt auf einer kleinen Insel im Stadtzentrum von Joensuu. Er ist leicht erreichbar und bietet eine schöne Umgebung für eine schnelle Abkühlung.",
-                  "category": "recreational",
-                  "coords": [
-                        29.770286,
-                        62.598907
                   ]
             },
             {
@@ -19481,15 +17420,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         29.812014,
                         62.665163
-                  ]
-            },
-            {
-                  "name": "Saimaa",
-                  "text": "A Saimaa egy hatalmas tórendszer Joensuu környékén, ideális a különféle vízi tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        28.622639,
-                        61.837622
                   ]
             },
             {
@@ -19655,15 +17585,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vehkalahden uimaranta",
-                  "text": "A joensuui Vehkalahti strand népszerű hely az úszáshoz és a nyári szabadidős tevékenységekhez. Jó felszereltséggel várja a családokat és a tóparti pihenésre vágyókat.",
-                  "category": "recreational",
-                  "coords": [
-                        29.765411,
-                        62.579988
-                  ]
-            },
-            {
                   "name": "Näyttämö",
                   "text": "A Näyttämö egy joensuui kulturális helyszín, amely az előadóművészetekre összpontosít. Rendszeresen ad otthont színházi előadásoknak és kreatív projekteknek.",
                   "category": "cultural",
@@ -19679,24 +17600,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         29.764744,
                         62.605635
-                  ]
-            },
-            {
-                  "name": "Linnunlahden uimaranta",
-                  "text": "A Linnunlahti strand a joensuui kemping közelében, a tóparton található. Kedvelt hely a szabadtéri tevékenységekhez és a pihentető nyári fürdőzéshez.",
-                  "category": "recreational",
-                  "coords": [
-                        29.738602,
-                        62.594715
-                  ]
-            },
-            {
-                  "name": "Ilosaaren uimaranta",
-                  "text": "Az Ilosaari strand egy kis szigeten található Joensuu városközpontjában. Könnyen megközelíthető, és szép környezetet biztosít egy gyors felfrissüléshez.",
-                  "category": "recreational",
-                  "coords": [
-                        29.770286,
-                        62.598907
                   ]
             },
             {
@@ -19843,15 +17746,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         29.812014,
                         62.665163
-                  ]
-            },
-            {
-                  "name": "Saimaa",
-                  "text": "Saimaa este un sistem vast de lacuri din Joensuu, ideal pentru diverse activități acvatice.",
-                  "category": "natural",
-                  "coords": [
-                        28.622639,
-                        61.837622
                   ]
             },
             {
@@ -20017,15 +17911,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vehkalahden uimaranta",
-                  "text": "Plaja Vehkalahti din Joensuu este un loc popular pentru înot și activități recreative de vară. Aceasta oferă facilități bune pentru familii și pentru cei care caută relaxare la lac.",
-                  "category": "recreational",
-                  "coords": [
-                        29.765411,
-                        62.579988
-                  ]
-            },
-            {
                   "name": "Näyttämö",
                   "text": "Näyttämö este o locație culturală din Joensuu, care se concentrează pe artele spectacolului. Aici au loc în mod regulat spectacole de teatru și proiecte creative.",
                   "category": "cultural",
@@ -20041,24 +17926,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         29.764744,
                         62.605635
-                  ]
-            },
-            {
-                  "name": "Linnunlahden uimaranta",
-                  "text": "Plaja Linnunlahti se află în apropierea campingului din Joensuu, pe malul lacului. Este un loc apreciat pentru activități în aer liber și pentru scăldatul relaxant de vară.",
-                  "category": "recreational",
-                  "coords": [
-                        29.738602,
-                        62.594715
-                  ]
-            },
-            {
-                  "name": "Ilosaaren uimaranta",
-                  "text": "Plaja Ilosaari este situată pe o mică insulă în centrul orașului Joensuu. Este ușor accesibilă și oferă un cadru plăcut pentru o răcorire rapidă.",
-                  "category": "recreational",
-                  "coords": [
-                        29.770286,
-                        62.598907
                   ]
             },
             {
@@ -20205,15 +18072,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         29.812014,
                         62.665163
-                  ]
-            },
-            {
-                  "name": "Saimaa",
-                  "text": "Saimaa is a vast lake system in Joensuu, ideal for various water activities.",
-                  "category": "natural",
-                  "coords": [
-                        28.622639,
-                        61.837622
                   ]
             },
             {
@@ -20379,15 +18237,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Vehkalahden uimaranta",
-                  "text": "Vehkalahti beach in Joensuu is a popular spot for swimming and summer leisure activities. It offers good facilities for families and those seeking relaxation by the lake.",
-                  "category": "recreational",
-                  "coords": [
-                        29.765411,
-                        62.579988
-                  ]
-            },
-            {
                   "name": "Näyttämö",
                   "text": "Näyttämö is a cultural venue in Joensuu that focuses on performing arts. It regularly hosts theatrical performances and various creative projects.",
                   "category": "cultural",
@@ -20403,24 +18252,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         29.764744,
                         62.605635
-                  ]
-            },
-            {
-                  "name": "Linnunlahden uimaranta",
-                  "text": "Linnunlahti beach is located near the Joensuu camping site on the lakeshore. It is a valued spot for outdoor activities and relaxed summer swimming.",
-                  "category": "recreational",
-                  "coords": [
-                        29.738602,
-                        62.594715
-                  ]
-            },
-            {
-                  "name": "Ilosaaren uimaranta",
-                  "text": "Ilosaari beach is situated on a small island in the city center of Joensuu. It is easily accessible and provides a nice environment for a quick cool-down.",
-                  "category": "recreational",
-                  "coords": [
-                        29.770286,
-                        62.598907
                   ]
             },
             {
@@ -20669,15 +18500,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Koirien uimaranta",
-                  "text": "Koirien uimaranta ist ein lokaler Strand in Vaasa.",
-                  "category": "recreational",
-                  "coords": [
-                        21.577617,
-                        63.075465
-                  ]
-            },
-            {
                   "name": "Pikku Aasin Nukketeatteri",
                   "text": "Pikku Aasin Nukketeatteri ist ein lokales Theater in der Stadt Vaasa.",
                   "category": "cultural",
@@ -20702,42 +18524,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         21.606476,
                         63.094576
-                  ]
-            },
-            {
-                  "name": "Hietasaaren uimaranta",
-                  "text": "Der Strand Hietasaari ist ein Küstengebiet zur Erholung in Vaasa.",
-                  "category": "recreational",
-                  "coords": [
-                        21.594182,
-                        63.094168
-                  ]
-            },
-            {
-                  "name": "Mansikkasaaren uimaranta",
-                  "text": "Mansikkasaaren uimaranta ist ein öffentlicher Strand in Vaasa.",
-                  "category": "recreational",
-                  "coords": [
-                        21.584154,
-                        63.104619
-                  ]
-            },
-            {
-                  "name": "Isolahden uimaranta",
-                  "text": "Isolahden uimaranta ist ein öffentlicher Strand in der Stadt Vaasa.",
-                  "category": "recreational",
-                  "coords": [
-                        21.601487,
-                        63.120202
-                  ]
-            },
-            {
-                  "name": "Viikingan uimaranta",
-                  "text": "Viikingan uimaranta ist ein Sandstrand in Vaasa.",
-                  "category": "recreational",
-                  "coords": [
-                        21.595432,
-                        63.116256
                   ]
             },
             {
@@ -21130,15 +18916,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Koirien uimaranta",
-                  "text": "A Koirien uimaranta egy helyi strand Vaasában.",
-                  "category": "recreational",
-                  "coords": [
-                        21.577617,
-                        63.075465
-                  ]
-            },
-            {
                   "name": "Pikku Aasin Nukketeatteri",
                   "text": "A Pikku Aasin Nukketeatteri egy helyi színház Vaasa városában.",
                   "category": "cultural",
@@ -21163,42 +18940,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         21.606476,
                         63.094576
-                  ]
-            },
-            {
-                  "name": "Hietasaaren uimaranta",
-                  "text": "A Hietasaari strand egy tengerparti pihenőhely Vaasa városában.",
-                  "category": "recreational",
-                  "coords": [
-                        21.594182,
-                        63.094168
-                  ]
-            },
-            {
-                  "name": "Mansikkasaaren uimaranta",
-                  "text": "A Mansikkasaaren uimaranta egy nyilvános strand Vaasa városában.",
-                  "category": "recreational",
-                  "coords": [
-                        21.584154,
-                        63.104619
-                  ]
-            },
-            {
-                  "name": "Isolahden uimaranta",
-                  "text": "Az Isolahden uimaranta egy nyilvános strand Vaasa városában.",
-                  "category": "recreational",
-                  "coords": [
-                        21.601487,
-                        63.120202
-                  ]
-            },
-            {
-                  "name": "Viikingan uimaranta",
-                  "text": "A Viikingan uimaranta egy homokos strand Vaasa városában.",
-                  "category": "recreational",
-                  "coords": [
-                        21.595432,
-                        63.116256
                   ]
             },
             {
@@ -21591,15 +19332,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Koirien uimaranta",
-                  "text": "Koirien uimaranta este o plajă locală din Vaasa.",
-                  "category": "recreational",
-                  "coords": [
-                        21.577617,
-                        63.075465
-                  ]
-            },
-            {
                   "name": "Pikku Aasin Nukketeatteri",
                   "text": "Pikku Aasin Nukketeatteri este un teatru local situat în orașul Vaasa.",
                   "category": "cultural",
@@ -21624,42 +19356,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         21.606476,
                         63.094576
-                  ]
-            },
-            {
-                  "name": "Hietasaaren uimaranta",
-                  "text": "Plaja Hietasaari este o zonă de coastă pentru relaxare în Vaasa.",
-                  "category": "recreational",
-                  "coords": [
-                        21.594182,
-                        63.094168
-                  ]
-            },
-            {
-                  "name": "Mansikkasaaren uimaranta",
-                  "text": "Mansikkasaaren uimaranta este o plajă publică situată în Vaasa.",
-                  "category": "recreational",
-                  "coords": [
-                        21.584154,
-                        63.104619
-                  ]
-            },
-            {
-                  "name": "Isolahden uimaranta",
-                  "text": "Isolahden uimaranta este o plajă publică aflată în orașul Vaasa.",
-                  "category": "recreational",
-                  "coords": [
-                        21.601487,
-                        63.120202
-                  ]
-            },
-            {
-                  "name": "Viikingan uimaranta",
-                  "text": "Viikingan uimaranta este o zonă de plajă cu nisip în Vaasa.",
-                  "category": "recreational",
-                  "coords": [
-                        21.595432,
-                        63.116256
                   ]
             },
             {
@@ -22052,15 +19748,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Koirien uimaranta",
-                  "text": "Koirien uimaranta is a local beach in Vaasa.",
-                  "category": "recreational",
-                  "coords": [
-                        21.577617,
-                        63.075465
-                  ]
-            },
-            {
                   "name": "Pikku Aasin Nukketeatteri",
                   "text": "Pikku Aasin Nukketeatteri is a local theatre located in the city of Vaasa.",
                   "category": "cultural",
@@ -22094,33 +19781,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         21.594182,
                         63.094168
-                  ]
-            },
-            {
-                  "name": "Mansikkasaaren uimaranta",
-                  "text": "Mansikkasaaren uimaranta is a public beach situated in Vaasa.",
-                  "category": "recreational",
-                  "coords": [
-                        21.584154,
-                        63.104619
-                  ]
-            },
-            {
-                  "name": "Isolahden uimaranta",
-                  "text": "Isolahden uimaranta is a public beach located in the city of Vaasa.",
-                  "category": "recreational",
-                  "coords": [
-                        21.601487,
-                        63.120202
-                  ]
-            },
-            {
-                  "name": "Viikingan uimaranta",
-                  "text": "Viikingan uimaranta is a sandy beach area in Vaasa.",
-                  "category": "recreational",
-                  "coords": [
-                        21.595432,
-                        63.116256
                   ]
             },
             {
@@ -23265,7 +20925,700 @@ export const finlandCities: POI[] = [
     },
   },
   {
-    id: "city-lappeenranta", "sights": {"de": [{"name": "Mattilan uimaranta", "text": "Mattilan uimaranta ist ein Strand in Lappeenranta.", "category": "recreational", "coords": [28.156958, 61.029521]}, {"name": "Ratsuväkimuseo", "text": "Dieses Museum in der Festung von Lappeenranta widmet sich der Geschichte der finnischen Kavallerie.", "category": "museum", "coords": [28.183446, 61.064183]}, {"name": "Etelä-Karjalan museo", "text": "Ein Museum in der Festung von Lappeenranta, das die Geschichte und Kultur Südkareliens präsentiert.", "category": "museum", "coords": [28.183399, 61.067416]}, {"name": "Hiekkalinna", "text": "Eine jährliche Attraktion in Lappeenranta mit beeindruckenden Sandskulpturen.", "category": "family", "coords": [28.184284, 61.068699]}, {"name": "Lappeenrannan kaupunginteatteri", "text": "Das Stadttheater von Lappeenranta bietet vielfältige Aufführungen in einem modernen Gebäude.", "category": "cultural", "coords": [28.193758, 61.057143]}, {"name": "Wolkoffin talomuseo", "text": "Ein historisches Hausmuseum, das das Leben einer Kaufmannsfamilie in Lappeenranta zeigt.", "category": "museum", "coords": [28.185196, 61.060336]}, {"name": "Kivikautinen asuinpaikka", "text": "Eine archäologische Stätte in Lappeenranta, die auf eine steinzeitliche Besiedlung hinweist.", "category": "historical", "coords": [28.134208, 61.055671]}, {"name": "Korkkitehtaan uimaranta", "text": "Ein lokaler Badestrand am Saimaa-See in Lappeenranta.", "category": "recreational", "coords": [28.165268, 61.056076]}, {"name": "Tyysterniemen uimaranta", "text": "Ein ruhiger Badestrand auf der Halbinsel Tyysterniemi in Lappeenranta.", "category": "recreational", "coords": [28.149745, 61.070394]}, {"name": "Linnoituksen kesäteatteri", "text": "Ein Freilichttheater in der historischen Festung von Lappeenranta.", "category": "cultural", "coords": [28.182196, 61.063787]}, {"name": "Pikisaaren uimaranta", "text": "Ein Strand auf der Insel Pikisaari in der Nähe des Stadtzentrums von Lappeenranta.", "category": "recreational", "coords": [28.174388, 61.074759]}, {"name": "Myllysaaren uimaranta", "text": "Ein zentral gelegener Erholungsbereich mit Badestrand und Sportmöglichkeiten in Lappeenranta.", "category": "recreational", "coords": [28.199064, 61.066336]}, {"name": "Talvi- ja jatkosodassa kaatuneiden ratsuväen miesten muistokivi", "text": "Ein Denkmal in Lappeenranta für die im Zweiten Weltkrieg gefallenen Kavalleristen.", "category": "historical", "coords": [28.174942, 61.060152]}, {"name": "Lappeenranta", "text": "Dieser natürliche Aussichtspunkt trägt den Namen der Stadt Lappeenranta und bietet einen herrlichen Weitblick. Von hier aus lässt sich das städtische Panorama Finnlands besonders gut überblicken.", "category": "natural", "coords": [28.202478, 61.077112]}, {"name": "Galleria Itä", "text": "Eine Kunstgalerie in Lappeenranta, die zeitgenössische Werke präsentiert.", "category": "museum", "coords": [28.198249, 61.060102]}, {"name": "Lappeenranta Photo-Frame", "text": "Ein beliebter Ort für Fotos mit einem großen Rahmen, der die Stadtlandschaft einfasst.", "category": "landmark", "coords": [28.184879, 61.063997]}, {"name": "Näkötornin rauniot", "text": "Die Überreste eines ehemaligen Aussichtsturms in Lappeenranta.", "category": "historical", "coords": [28.181214, 61.06045]}, {"name": "Linnoitusniemen paviljonki", "text": "Ein Pavillon an der Spitze der Festungshalbinsel mit Blick auf den See.", "category": "natural", "coords": [28.187466, 61.06925]}, {"name": "Lappeen Marian kirkko", "text": "Eine historische Holzkirche in Lappeenranta, bekannt für ihre Architektur.", "category": "religious", "coords": [28.1884, 61.058408]}, {"name": "Lappeenrannan vapaaseurakunta", "text": "Das Kirchengebäude der Freikirchgemeinde in Lappeenranta.", "category": "religious", "coords": [28.192645, 61.060319]}, {"name": "Lappeenrannan helluntaiseurakunta", "text": "Ein moderner Ort der Anbetung für die Pfingstgemeinde in Lappeenranta.", "category": "religious", "coords": [28.198471, 61.056987]}, {"name": "Charioteer Mk VII Model B tank", "text": "Ein historischer Panzer, der als Denkmal in Lappeenranta ausgestellt ist.", "category": "landmark", "coords": [28.171578, 61.057377]}], "hu": [{"name": "Mattilan uimaranta", "text": "Mattilan uimaranta egy strand Lappeenranta városában.", "category": "recreational", "coords": [28.156958, 61.029521]}, {"name": "Ratsuväkimuseo", "text": "A lappeenrantai erődben található múzeum a finn lovasság történetét mutatja be.", "category": "museum", "coords": [28.183446, 61.064183]}, {"name": "Etelä-Karjalan museo", "text": "A lappeenrantai erődben található múzeum Dél-Karélia történelmét és kultúráját mutatja be.", "category": "museum", "coords": [28.183399, 61.067416]}, {"name": "Hiekkalinna", "text": "Évente megrendezett látványosság Lappeenrantában, lenyűgöző homokszobrokkal.", "category": "family", "coords": [28.184284, 61.068699]}, {"name": "Lappeenrannan kaupunginteatteri", "text": "Lappeenranta városi színháza változatos előadásokat kínál egy modern épületben.", "category": "cultural", "coords": [28.193758, 61.057143]}, {"name": "Wolkoffin talomuseo", "text": "Történelmi házmúzeum, amely egy kereskedőcsalád életét mutatja be Lappeenrantában.", "category": "museum", "coords": [28.185196, 61.060336]}, {"name": "Kivikautinen asuinpaikka", "text": "Régészeti lelőhely Lappeenrantában, amely egy kőkorszaki település nyomait őrzi.", "category": "historical", "coords": [28.134208, 61.055671]}, {"name": "Korkkitehtaan uimaranta", "text": "Helyi strand a Saimaa-tó partján, Lappeenrantában.", "category": "recreational", "coords": [28.165268, 61.056076]}, {"name": "Tyysterniemen uimaranta", "text": "Csendes strand a lappeenrantai Tyysterniemi-félszigeten.", "category": "recreational", "coords": [28.149745, 61.070394]}, {"name": "Linnoituksen kesäteatteri", "text": "Szabadtéri színház Lappeenranta történelmi erődjében.", "category": "cultural", "coords": [28.182196, 61.063787]}, {"name": "Pikisaaren uimaranta", "text": "Strand a Pikisaari-szigeten, Lappeenranta városközpontjának közelében.", "category": "recreational", "coords": [28.174388, 61.074759]}, {"name": "Myllysaaren uimaranta", "text": "Központi üdülőhely stranddal és sportolási lehetőségekkel Lappeenrantában.", "category": "recreational", "coords": [28.199064, 61.066336]}, {"name": "Talvi- ja jatkosodassa kaatuneiden ratsuväen miesten muistokivi", "text": "Lappeenrantai emlékmű a második világháborúban elesett lovas katonák tiszteletére.", "category": "historical", "coords": [28.174942, 61.060152]}, {"name": "Lappeenranta", "text": "Ez a természetes kilátópont Lappeenranta városának nevét viseli, és csodálatos panorámát nyújt. Innen különösen jól áttekinthető a finn település és annak környezete.", "category": "natural", "coords": [28.202478, 61.077112]}, {"name": "Galleria Itä", "text": "Kortárs művészeti alkotásokat bemutató galéria Lappeenrantában.", "category": "museum", "coords": [28.198249, 61.060102]}, {"name": "Lappeenranta Photo-Frame", "text": "Népszerű fotózási helyszín egy nagy kerettel, amely a városképet keretezi.", "category": "landmark", "coords": [28.184879, 61.063997]}, {"name": "Näkötornin rauniot", "text": "Egy egykori kilátótorony maradványai Lappeenrantában.", "category": "historical", "coords": [28.181214, 61.06045]}, {"name": "Linnoitusniemen paviljonki", "text": "Pavilon az erődfélsziget csúcsán, kilátással a tóra.", "category": "natural", "coords": [28.187466, 61.06925]}, {"name": "Lappeen Marian kirkko", "text": "Történelmi fatemplom Lappeenrantában, amely építészetéről nevezetes.", "category": "religious", "coords": [28.1884, 61.058408]}, {"name": "Lappeenrannan vapaaseurakunta", "text": "A szabadegyház gyülekezeti épülete Lappeenrantában.", "category": "religious", "coords": [28.192645, 61.060319]}, {"name": "Lappeenrannan helluntaiseurakunta", "text": "Modern imaház a pünkösdi gyülekezet számára Lappeenrantában.", "category": "religious", "coords": [28.198471, 61.056987]}, {"name": "Charioteer Mk VII Model B tank", "text": "Lappeenrantában emlékműként kiállított történelmi harckocsi.", "category": "landmark", "coords": [28.171578, 61.057377]}], "ro": [{"name": "Mattilan uimaranta", "text": "Mattilan uimaranta este o plajă situată în Lappeenranta.", "category": "recreational", "coords": [28.156958, 61.029521]}, {"name": "Ratsuväkimuseo", "text": "Situat în cetatea Lappeenranta, acest muzeu este dedicat istoriei cavaleriei finlandeze.", "category": "museum", "coords": [28.183446, 61.064183]}, {"name": "Etelä-Karjalan museo", "text": "Un muzeu aflat în cetatea Lappeenranta, care prezintă istoria și cultura Kareliei de Sud.", "category": "museum", "coords": [28.183399, 61.067416]}, {"name": "Hiekkalinna", "text": "O atracție anuală în Lappeenranta, cu sculpturi impresionante din nisip.", "category": "family", "coords": [28.184284, 61.068699]}, {"name": "Lappeenrannan kaupunginteatteri", "text": "Teatrul orășenesc din Lappeenranta oferă diverse spectacole într-o clădire modernă.", "category": "cultural", "coords": [28.193758, 61.057143]}, {"name": "Wolkoffin talomuseo", "text": "O casă memorială istorică ce prezintă viața unei familii de negustori din Lappeenranta.", "category": "museum", "coords": [28.185196, 61.060336]}, {"name": "Kivikautinen asuinpaikka", "text": "Un sit arheologic din Lappeenranta care indică o așezare din epoca pietrei.", "category": "historical", "coords": [28.134208, 61.055671]}, {"name": "Korkkitehtaan uimaranta", "text": "O plajă locală pe malul lacului Saimaa în Lappeenranta.", "category": "recreational", "coords": [28.165268, 61.056076]}, {"name": "Tyysterniemen uimaranta", "text": "O plajă liniștită situată pe peninsula Tyysterniemi din Lappeenranta.", "category": "recreational", "coords": [28.149745, 61.070394]}, {"name": "Linnoituksen kesäteatteri", "text": "Un teatru de vară în aer liber situat în cetatea istorică din Lappeenranta.", "category": "cultural", "coords": [28.182196, 61.063787]}, {"name": "Pikisaaren uimaranta", "text": "O plajă pe insula Pikisaari, în apropiere de centrul orașului Lappeenranta.", "category": "recreational", "coords": [28.174388, 61.074759]}, {"name": "Myllysaaren uimaranta", "text": "O zonă de recreere centrală cu plajă și facilități sportive în Lappeenranta.", "category": "recreational", "coords": [28.199064, 61.066336]}, {"name": "Talvi- ja jatkosodassa kaatuneiden ratsuväen miesten muistokivi", "text": "Un monument în Lappeenranta dedicat cavaleristilor căzuți în timpul celui de-al Doilea Război Mondial.", "category": "historical", "coords": [28.174942, 61.060152]}, {"name": "Lappeenranta", "text": "Acest punct de belvedere natural poartă numele orașului Lappeenranta și oferă o priveliște impresionantă. De aici, vizitatorii pot admira o panoramă excelentă a așezării finlandeze.", "category": "natural", "coords": [28.202478, 61.077112]}, {"name": "Galleria Itä", "text": "O galerie de artă din Lappeenranta care prezintă lucrări contemporane.", "category": "museum", "coords": [28.198249, 61.060102]}, {"name": "Lappeenranta Photo-Frame", "text": "Un loc popular pentru fotografii, cu o ramă mare care încadrează peisajul urban.", "category": "landmark", "coords": [28.184879, 61.063997]}, {"name": "Näkötornin rauniot", "text": "Vestigiile unui fost turn de observare din Lappeenranta.", "category": "historical", "coords": [28.181214, 61.06045]}, {"name": "Linnoitusniemen paviljonki", "text": "Un pavilion situat în vârful peninsulei cetății, cu vedere spre lac.", "category": "natural", "coords": [28.187466, 61.06925]}, {"name": "Lappeen Marian kirkko", "text": "O biserică istorică din lemn în Lappeenranta, cunoscută pentru arhitectura sa.", "category": "religious", "coords": [28.1884, 61.058408]}, {"name": "Lappeenrannan vapaaseurakunta", "text": "Clădirea bisericii libere din Lappeenranta.", "category": "religious", "coords": [28.192645, 61.060319]}, {"name": "Lappeenrannan helluntaiseurakunta", "text": "Un lăcaș de cult modern pentru comunitatea penticostală din Lappeenranta.", "category": "religious", "coords": [28.198471, 61.056987]}, {"name": "Charioteer Mk VII Model B tank", "text": "Un tanc istoric expus ca monument în Lappeenranta.", "category": "landmark", "coords": [28.171578, 61.057377]}], "en": [{"name": "Mattilan uimaranta", "text": "Mattilan uimaranta is a beach in Lappeenranta.", "category": "recreational", "coords": [28.156958, 61.029521]}, {"name": "Cavalry Museum", "text": "Located in the Lappeenranta Fortress, this museum is dedicated to the history of the Finnish cavalry.", "category": "museum", "coords": [28.183446, 61.064183]}, {"name": "Museum of South Karelia", "text": "A museum in the Lappeenranta Fortress showcasing the history and culture of South Karelia.", "category": "museum", "coords": [28.183399, 61.067416]}, {"name": "Sandcastle", "text": "An annual attraction in Lappeenranta featuring impressive sand sculptures.", "category": "family", "coords": [28.184284, 61.068699]}, {"name": "Lappeenrannan kaupunginteatteri", "text": "The city theatre of Lappeenranta offers a variety of performances in a modern building.", "category": "cultural", "coords": [28.193758, 61.057143]}, {"name": "Wolkoffin talomuseo", "text": "A historic house museum showcasing the life of a merchant family in Lappeenranta.", "category": "museum", "coords": [28.185196, 61.060336]}, {"name": "Kivikautinen asuinpaikka", "text": "An archaeological site in Lappeenranta indicating a Stone Age settlement.", "category": "historical", "coords": [28.134208, 61.055671]}, {"name": "Cork factory beach", "text": "A local swimming beach on the shores of Lake Saimaa in Lappeenranta.", "category": "recreational", "coords": [28.165268, 61.056076]}, {"name": "Tyysterniemi beach", "text": "A quiet swimming beach located on the Tyysterniemi peninsula in Lappeenranta.", "category": "recreational", "coords": [28.149745, 61.070394]}, {"name": "Fortress summer theater", "text": "An open-air summer theatre located within the historic Lappeenranta Fortress.", "category": "cultural", "coords": [28.182196, 61.063787]}, {"name": "Pikisaari beach", "text": "A beach on Pikisaari island, close to the city center of Lappeenranta.", "category": "recreational", "coords": [28.174388, 61.074759]}, {"name": "Myllysaari beach", "text": "A centrally located recreation area with a beach and sports facilities in Lappeenranta.", "category": "recreational", "coords": [28.199064, 61.066336]}, {"name": "Talvi- ja jatkosodassa kaatuneiden ratsuväen miesten muistokivi", "text": "A memorial stone in Lappeenranta honoring cavalrymen fallen during World War II.", "category": "historical", "coords": [28.174942, 61.060152]}, {"name": "Lappeenranta", "text": "This natural viewpoint shares the name of the city of Lappeenranta and offers a magnificent wide view. From this spot, visitors can perfectly take in the panorama of the Finnish city.", "category": "natural", "coords": [28.202478, 61.077112]}, {"name": "Galleria Itä", "text": "An art gallery in Lappeenranta showcasing contemporary works.", "category": "museum", "coords": [28.198249, 61.060102]}, {"name": "Lappeenranta Photo-Frame", "text": "A popular photo spot featuring a large frame that captures the cityscape.", "category": "landmark", "coords": [28.184879, 61.063997]}, {"name": "Näkötornin rauniot", "text": "The remains of a former observation tower in Lappeenranta.", "category": "historical", "coords": [28.181214, 61.06045]}, {"name": "Linnoitusniemi pavillion", "text": "A pavilion at the tip of the fortress peninsula with views over the lake.", "category": "natural", "coords": [28.187466, 61.06925]}, {"name": "St. Mary's Church of Lappee", "text": "A historic wooden church in Lappeenranta, known for its architecture.", "category": "religious", "coords": [28.1884, 61.058408]}, {"name": "Lappeenranta Free Church", "text": "The church building of the Free Church congregation in Lappeenranta.", "category": "religious", "coords": [28.192645, 61.060319]}, {"name": "Lappeenrannan helluntaiseurakunta", "text": "A modern place of worship for the Pentecostal community in Lappeenranta.", "category": "religious", "coords": [28.198471, 61.056987]}, {"name": "Charioteer Mk VII Model B tank", "text": "A historic tank displayed as a monument in Lappeenranta.", "category": "landmark", "coords": [28.171578, 61.057377]}]},
+    id: "city-lappeenranta", "sights": {
+      "de": [
+            {
+                  "name": "Mattilan uimaranta",
+                  "text": "Mattilan uimaranta ist ein Strand in Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.156958,
+                        61.029521
+                  ]
+            },
+            {
+                  "name": "Ratsuväkimuseo",
+                  "text": "Dieses Museum in der Festung von Lappeenranta widmet sich der Geschichte der finnischen Kavallerie.",
+                  "category": "museum",
+                  "coords": [
+                        28.183446,
+                        61.064183
+                  ]
+            },
+            {
+                  "name": "Etelä-Karjalan museo",
+                  "text": "Ein Museum in der Festung von Lappeenranta, das die Geschichte und Kultur Südkareliens präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        28.183399,
+                        61.067416
+                  ]
+            },
+            {
+                  "name": "Hiekkalinna",
+                  "text": "Eine jährliche Attraktion in Lappeenranta mit beeindruckenden Sandskulpturen.",
+                  "category": "family",
+                  "coords": [
+                        28.184284,
+                        61.068699
+                  ]
+            },
+            {
+                  "name": "Lappeenrannan kaupunginteatteri",
+                  "text": "Das Stadttheater von Lappeenranta bietet vielfältige Aufführungen in einem modernen Gebäude.",
+                  "category": "cultural",
+                  "coords": [
+                        28.193758,
+                        61.057143
+                  ]
+            },
+            {
+                  "name": "Wolkoffin talomuseo",
+                  "text": "Ein historisches Hausmuseum, das das Leben einer Kaufmannsfamilie in Lappeenranta zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        28.185196,
+                        61.060336
+                  ]
+            },
+            {
+                  "name": "Kivikautinen asuinpaikka",
+                  "text": "Eine archäologische Stätte in Lappeenranta, die auf eine steinzeitliche Besiedlung hinweist.",
+                  "category": "historical",
+                  "coords": [
+                        28.134208,
+                        61.055671
+                  ]
+            },
+            {
+                  "name": "Linnoituksen kesäteatteri",
+                  "text": "Ein Freilichttheater in der historischen Festung von Lappeenranta.",
+                  "category": "cultural",
+                  "coords": [
+                        28.182196,
+                        61.063787
+                  ]
+            },
+            {
+                  "name": "Talvi- ja jatkosodassa kaatuneiden ratsuväen miesten muistokivi",
+                  "text": "Ein Denkmal in Lappeenranta für die im Zweiten Weltkrieg gefallenen Kavalleristen.",
+                  "category": "historical",
+                  "coords": [
+                        28.174942,
+                        61.060152
+                  ]
+            },
+            {
+                  "name": "Lappeenranta",
+                  "text": "Dieser natürliche Aussichtspunkt trägt den Namen der Stadt Lappeenranta und bietet einen herrlichen Weitblick. Von hier aus lässt sich das städtische Panorama Finnlands besonders gut überblicken.",
+                  "category": "natural",
+                  "coords": [
+                        28.202478,
+                        61.077112
+                  ]
+            },
+            {
+                  "name": "Galleria Itä",
+                  "text": "Eine Kunstgalerie in Lappeenranta, die zeitgenössische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        28.198249,
+                        61.060102
+                  ]
+            },
+            {
+                  "name": "Lappeenranta Photo-Frame",
+                  "text": "Ein beliebter Ort für Fotos mit einem großen Rahmen, der die Stadtlandschaft einfasst.",
+                  "category": "landmark",
+                  "coords": [
+                        28.184879,
+                        61.063997
+                  ]
+            },
+            {
+                  "name": "Näkötornin rauniot",
+                  "text": "Die Überreste eines ehemaligen Aussichtsturms in Lappeenranta.",
+                  "category": "historical",
+                  "coords": [
+                        28.181214,
+                        61.06045
+                  ]
+            },
+            {
+                  "name": "Linnoitusniemen paviljonki",
+                  "text": "Ein Pavillon an der Spitze der Festungshalbinsel mit Blick auf den See.",
+                  "category": "natural",
+                  "coords": [
+                        28.187466,
+                        61.06925
+                  ]
+            },
+            {
+                  "name": "Lappeen Marian kirkko",
+                  "text": "Eine historische Holzkirche in Lappeenranta, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        28.1884,
+                        61.058408
+                  ]
+            },
+            {
+                  "name": "Lappeenrannan vapaaseurakunta",
+                  "text": "Das Kirchengebäude der Freikirchgemeinde in Lappeenranta.",
+                  "category": "religious",
+                  "coords": [
+                        28.192645,
+                        61.060319
+                  ]
+            },
+            {
+                  "name": "Lappeenrannan helluntaiseurakunta",
+                  "text": "Ein moderner Ort der Anbetung für die Pfingstgemeinde in Lappeenranta.",
+                  "category": "religious",
+                  "coords": [
+                        28.198471,
+                        61.056987
+                  ]
+            },
+            {
+                  "name": "Charioteer Mk VII Model B tank",
+                  "text": "Ein historischer Panzer, der als Denkmal in Lappeenranta ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.171578,
+                        61.057377
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mattilan uimaranta",
+                  "text": "Mattilan uimaranta egy strand Lappeenranta városában.",
+                  "category": "recreational",
+                  "coords": [
+                        28.156958,
+                        61.029521
+                  ]
+            },
+            {
+                  "name": "Ratsuväkimuseo",
+                  "text": "A lappeenrantai erődben található múzeum a finn lovasság történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        28.183446,
+                        61.064183
+                  ]
+            },
+            {
+                  "name": "Etelä-Karjalan museo",
+                  "text": "A lappeenrantai erődben található múzeum Dél-Karélia történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        28.183399,
+                        61.067416
+                  ]
+            },
+            {
+                  "name": "Hiekkalinna",
+                  "text": "Évente megrendezett látványosság Lappeenrantában, lenyűgöző homokszobrokkal.",
+                  "category": "family",
+                  "coords": [
+                        28.184284,
+                        61.068699
+                  ]
+            },
+            {
+                  "name": "Lappeenrannan kaupunginteatteri",
+                  "text": "Lappeenranta városi színháza változatos előadásokat kínál egy modern épületben.",
+                  "category": "cultural",
+                  "coords": [
+                        28.193758,
+                        61.057143
+                  ]
+            },
+            {
+                  "name": "Wolkoffin talomuseo",
+                  "text": "Történelmi házmúzeum, amely egy kereskedőcsalád életét mutatja be Lappeenrantában.",
+                  "category": "museum",
+                  "coords": [
+                        28.185196,
+                        61.060336
+                  ]
+            },
+            {
+                  "name": "Kivikautinen asuinpaikka",
+                  "text": "Régészeti lelőhely Lappeenrantában, amely egy kőkorszaki település nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        28.134208,
+                        61.055671
+                  ]
+            },
+            {
+                  "name": "Linnoituksen kesäteatteri",
+                  "text": "Szabadtéri színház Lappeenranta történelmi erődjében.",
+                  "category": "cultural",
+                  "coords": [
+                        28.182196,
+                        61.063787
+                  ]
+            },
+            {
+                  "name": "Talvi- ja jatkosodassa kaatuneiden ratsuväen miesten muistokivi",
+                  "text": "Lappeenrantai emlékmű a második világháborúban elesett lovas katonák tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        28.174942,
+                        61.060152
+                  ]
+            },
+            {
+                  "name": "Lappeenranta",
+                  "text": "Ez a természetes kilátópont Lappeenranta városának nevét viseli, és csodálatos panorámát nyújt. Innen különösen jól áttekinthető a finn település és annak környezete.",
+                  "category": "natural",
+                  "coords": [
+                        28.202478,
+                        61.077112
+                  ]
+            },
+            {
+                  "name": "Galleria Itä",
+                  "text": "Kortárs művészeti alkotásokat bemutató galéria Lappeenrantában.",
+                  "category": "museum",
+                  "coords": [
+                        28.198249,
+                        61.060102
+                  ]
+            },
+            {
+                  "name": "Lappeenranta Photo-Frame",
+                  "text": "Népszerű fotózási helyszín egy nagy kerettel, amely a városképet keretezi.",
+                  "category": "landmark",
+                  "coords": [
+                        28.184879,
+                        61.063997
+                  ]
+            },
+            {
+                  "name": "Näkötornin rauniot",
+                  "text": "Egy egykori kilátótorony maradványai Lappeenrantában.",
+                  "category": "historical",
+                  "coords": [
+                        28.181214,
+                        61.06045
+                  ]
+            },
+            {
+                  "name": "Linnoitusniemen paviljonki",
+                  "text": "Pavilon az erődfélsziget csúcsán, kilátással a tóra.",
+                  "category": "natural",
+                  "coords": [
+                        28.187466,
+                        61.06925
+                  ]
+            },
+            {
+                  "name": "Lappeen Marian kirkko",
+                  "text": "Történelmi fatemplom Lappeenrantában, amely építészetéről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        28.1884,
+                        61.058408
+                  ]
+            },
+            {
+                  "name": "Lappeenrannan vapaaseurakunta",
+                  "text": "A szabadegyház gyülekezeti épülete Lappeenrantában.",
+                  "category": "religious",
+                  "coords": [
+                        28.192645,
+                        61.060319
+                  ]
+            },
+            {
+                  "name": "Lappeenrannan helluntaiseurakunta",
+                  "text": "Modern imaház a pünkösdi gyülekezet számára Lappeenrantában.",
+                  "category": "religious",
+                  "coords": [
+                        28.198471,
+                        61.056987
+                  ]
+            },
+            {
+                  "name": "Charioteer Mk VII Model B tank",
+                  "text": "Lappeenrantában emlékműként kiállított történelmi harckocsi.",
+                  "category": "landmark",
+                  "coords": [
+                        28.171578,
+                        61.057377
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mattilan uimaranta",
+                  "text": "Mattilan uimaranta este o plajă situată în Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.156958,
+                        61.029521
+                  ]
+            },
+            {
+                  "name": "Ratsuväkimuseo",
+                  "text": "Situat în cetatea Lappeenranta, acest muzeu este dedicat istoriei cavaleriei finlandeze.",
+                  "category": "museum",
+                  "coords": [
+                        28.183446,
+                        61.064183
+                  ]
+            },
+            {
+                  "name": "Etelä-Karjalan museo",
+                  "text": "Un muzeu aflat în cetatea Lappeenranta, care prezintă istoria și cultura Kareliei de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        28.183399,
+                        61.067416
+                  ]
+            },
+            {
+                  "name": "Hiekkalinna",
+                  "text": "O atracție anuală în Lappeenranta, cu sculpturi impresionante din nisip.",
+                  "category": "family",
+                  "coords": [
+                        28.184284,
+                        61.068699
+                  ]
+            },
+            {
+                  "name": "Lappeenrannan kaupunginteatteri",
+                  "text": "Teatrul orășenesc din Lappeenranta oferă diverse spectacole într-o clădire modernă.",
+                  "category": "cultural",
+                  "coords": [
+                        28.193758,
+                        61.057143
+                  ]
+            },
+            {
+                  "name": "Wolkoffin talomuseo",
+                  "text": "O casă memorială istorică ce prezintă viața unei familii de negustori din Lappeenranta.",
+                  "category": "museum",
+                  "coords": [
+                        28.185196,
+                        61.060336
+                  ]
+            },
+            {
+                  "name": "Kivikautinen asuinpaikka",
+                  "text": "Un sit arheologic din Lappeenranta care indică o așezare din epoca pietrei.",
+                  "category": "historical",
+                  "coords": [
+                        28.134208,
+                        61.055671
+                  ]
+            },
+            {
+                  "name": "Linnoituksen kesäteatteri",
+                  "text": "Un teatru de vară în aer liber situat în cetatea istorică din Lappeenranta.",
+                  "category": "cultural",
+                  "coords": [
+                        28.182196,
+                        61.063787
+                  ]
+            },
+            {
+                  "name": "Talvi- ja jatkosodassa kaatuneiden ratsuväen miesten muistokivi",
+                  "text": "Un monument în Lappeenranta dedicat cavaleristilor căzuți în timpul celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        28.174942,
+                        61.060152
+                  ]
+            },
+            {
+                  "name": "Lappeenranta",
+                  "text": "Acest punct de belvedere natural poartă numele orașului Lappeenranta și oferă o priveliște impresionantă. De aici, vizitatorii pot admira o panoramă excelentă a așezării finlandeze.",
+                  "category": "natural",
+                  "coords": [
+                        28.202478,
+                        61.077112
+                  ]
+            },
+            {
+                  "name": "Galleria Itä",
+                  "text": "O galerie de artă din Lappeenranta care prezintă lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        28.198249,
+                        61.060102
+                  ]
+            },
+            {
+                  "name": "Lappeenranta Photo-Frame",
+                  "text": "Un loc popular pentru fotografii, cu o ramă mare care încadrează peisajul urban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.184879,
+                        61.063997
+                  ]
+            },
+            {
+                  "name": "Näkötornin rauniot",
+                  "text": "Vestigiile unui fost turn de observare din Lappeenranta.",
+                  "category": "historical",
+                  "coords": [
+                        28.181214,
+                        61.06045
+                  ]
+            },
+            {
+                  "name": "Linnoitusniemen paviljonki",
+                  "text": "Un pavilion situat în vârful peninsulei cetății, cu vedere spre lac.",
+                  "category": "natural",
+                  "coords": [
+                        28.187466,
+                        61.06925
+                  ]
+            },
+            {
+                  "name": "Lappeen Marian kirkko",
+                  "text": "O biserică istorică din lemn în Lappeenranta, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        28.1884,
+                        61.058408
+                  ]
+            },
+            {
+                  "name": "Lappeenrannan vapaaseurakunta",
+                  "text": "Clădirea bisericii libere din Lappeenranta.",
+                  "category": "religious",
+                  "coords": [
+                        28.192645,
+                        61.060319
+                  ]
+            },
+            {
+                  "name": "Lappeenrannan helluntaiseurakunta",
+                  "text": "Un lăcaș de cult modern pentru comunitatea penticostală din Lappeenranta.",
+                  "category": "religious",
+                  "coords": [
+                        28.198471,
+                        61.056987
+                  ]
+            },
+            {
+                  "name": "Charioteer Mk VII Model B tank",
+                  "text": "Un tanc istoric expus ca monument în Lappeenranta.",
+                  "category": "landmark",
+                  "coords": [
+                        28.171578,
+                        61.057377
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mattilan uimaranta",
+                  "text": "Mattilan uimaranta is a beach in Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.156958,
+                        61.029521
+                  ]
+            },
+            {
+                  "name": "Cavalry Museum",
+                  "text": "Located in the Lappeenranta Fortress, this museum is dedicated to the history of the Finnish cavalry.",
+                  "category": "museum",
+                  "coords": [
+                        28.183446,
+                        61.064183
+                  ]
+            },
+            {
+                  "name": "Museum of South Karelia",
+                  "text": "A museum in the Lappeenranta Fortress showcasing the history and culture of South Karelia.",
+                  "category": "museum",
+                  "coords": [
+                        28.183399,
+                        61.067416
+                  ]
+            },
+            {
+                  "name": "Sandcastle",
+                  "text": "An annual attraction in Lappeenranta featuring impressive sand sculptures.",
+                  "category": "family",
+                  "coords": [
+                        28.184284,
+                        61.068699
+                  ]
+            },
+            {
+                  "name": "Lappeenrannan kaupunginteatteri",
+                  "text": "The city theatre of Lappeenranta offers a variety of performances in a modern building.",
+                  "category": "cultural",
+                  "coords": [
+                        28.193758,
+                        61.057143
+                  ]
+            },
+            {
+                  "name": "Wolkoffin talomuseo",
+                  "text": "A historic house museum showcasing the life of a merchant family in Lappeenranta.",
+                  "category": "museum",
+                  "coords": [
+                        28.185196,
+                        61.060336
+                  ]
+            },
+            {
+                  "name": "Kivikautinen asuinpaikka",
+                  "text": "An archaeological site in Lappeenranta indicating a Stone Age settlement.",
+                  "category": "historical",
+                  "coords": [
+                        28.134208,
+                        61.055671
+                  ]
+            },
+            {
+                  "name": "Cork factory beach",
+                  "text": "A local swimming beach on the shores of Lake Saimaa in Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.165268,
+                        61.056076
+                  ]
+            },
+            {
+                  "name": "Tyysterniemi beach",
+                  "text": "A quiet swimming beach located on the Tyysterniemi peninsula in Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.149745,
+                        61.070394
+                  ]
+            },
+            {
+                  "name": "Fortress summer theater",
+                  "text": "An open-air summer theatre located within the historic Lappeenranta Fortress.",
+                  "category": "cultural",
+                  "coords": [
+                        28.182196,
+                        61.063787
+                  ]
+            },
+            {
+                  "name": "Pikisaari beach",
+                  "text": "A beach on Pikisaari island, close to the city center of Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.174388,
+                        61.074759
+                  ]
+            },
+            {
+                  "name": "Myllysaari beach",
+                  "text": "A centrally located recreation area with a beach and sports facilities in Lappeenranta.",
+                  "category": "recreational",
+                  "coords": [
+                        28.199064,
+                        61.066336
+                  ]
+            },
+            {
+                  "name": "Talvi- ja jatkosodassa kaatuneiden ratsuväen miesten muistokivi",
+                  "text": "A memorial stone in Lappeenranta honoring cavalrymen fallen during World War II.",
+                  "category": "historical",
+                  "coords": [
+                        28.174942,
+                        61.060152
+                  ]
+            },
+            {
+                  "name": "Lappeenranta",
+                  "text": "This natural viewpoint shares the name of the city of Lappeenranta and offers a magnificent wide view. From this spot, visitors can perfectly take in the panorama of the Finnish city.",
+                  "category": "natural",
+                  "coords": [
+                        28.202478,
+                        61.077112
+                  ]
+            },
+            {
+                  "name": "Galleria Itä",
+                  "text": "An art gallery in Lappeenranta showcasing contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        28.198249,
+                        61.060102
+                  ]
+            },
+            {
+                  "name": "Lappeenranta Photo-Frame",
+                  "text": "A popular photo spot featuring a large frame that captures the cityscape.",
+                  "category": "landmark",
+                  "coords": [
+                        28.184879,
+                        61.063997
+                  ]
+            },
+            {
+                  "name": "Näkötornin rauniot",
+                  "text": "The remains of a former observation tower in Lappeenranta.",
+                  "category": "historical",
+                  "coords": [
+                        28.181214,
+                        61.06045
+                  ]
+            },
+            {
+                  "name": "Linnoitusniemi pavillion",
+                  "text": "A pavilion at the tip of the fortress peninsula with views over the lake.",
+                  "category": "natural",
+                  "coords": [
+                        28.187466,
+                        61.06925
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church of Lappee",
+                  "text": "A historic wooden church in Lappeenranta, known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        28.1884,
+                        61.058408
+                  ]
+            },
+            {
+                  "name": "Lappeenranta Free Church",
+                  "text": "The church building of the Free Church congregation in Lappeenranta.",
+                  "category": "religious",
+                  "coords": [
+                        28.192645,
+                        61.060319
+                  ]
+            },
+            {
+                  "name": "Lappeenrannan helluntaiseurakunta",
+                  "text": "A modern place of worship for the Pentecostal community in Lappeenranta.",
+                  "category": "religious",
+                  "coords": [
+                        28.198471,
+                        61.056987
+                  ]
+            },
+            {
+                  "name": "Charioteer Mk VII Model B tank",
+                  "text": "A historic tank displayed as a monument in Lappeenranta.",
+                  "category": "landmark",
+                  "coords": [
+                        28.171578,
+                        61.057377
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     coords: [28.1887, 61.0583],
@@ -24427,15 +22780,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hirttiönniemi",
-                  "text": "Ein natürliches Strandgebiet in Rovaniemi, beliebt für Freizeitaktivitäten am Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        25.709248,
-                        66.479672
-                  ]
-            },
-            {
                   "name": "Roiske",
                   "text": "Ein Wassersportzentrum in Rovaniemi, das verschiedene Aktivitäten auf den lokalen Flüssen anbietet.",
                   "category": "family",
@@ -24723,15 +23067,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.720957,
                         66.497124
-                  ]
-            },
-            {
-                  "name": "Hirttiönniemi",
-                  "text": "Természetes strandövezet Rovaniemiben, népszerű vízparti kikapcsolódási hely.",
-                  "category": "recreational",
-                  "coords": [
-                        25.709248,
-                        66.479672
                   ]
             },
             {
@@ -25025,15 +23360,6 @@ export const finlandCities: POI[] = [
                   ]
             },
             {
-                  "name": "Hirttiönniemi",
-                  "text": "O zonă naturală de plajă în Rovaniemi, populară pentru activități recreative pe malul apei.",
-                  "category": "recreational",
-                  "coords": [
-                        25.709248,
-                        66.479672
-                  ]
-            },
-            {
                   "name": "Roiske",
                   "text": "Un centru de activități nautice în Rovaniemi, care oferă diverse distracții pe râurile locale.",
                   "category": "family",
@@ -25321,15 +23647,6 @@ export const finlandCities: POI[] = [
                   "coords": [
                         25.720957,
                         66.497124
-                  ]
-            },
-            {
-                  "name": "Hirttiönniemi",
-                  "text": "A natural beach area in Rovaniemi, popular for lakeside recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        25.709248,
-                        66.479672
                   ]
             },
             {
@@ -25867,33 +24184,6 @@ export const finlandCultureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Olafsburg",
-                  "text": "Eine gut erhaltene mittelalterliche Burg in Savonlinna, Finnland.",
-                  "category": "castle",
-                  "coords": [
-                        28.900969,
-                        61.86389
-                  ]
-            },
-            {
-                  "name": "Riihisaaren museo",
-                  "text": "Regionalmuseum zur Geschichte der Region Savonlinna.",
-                  "category": "museum",
-                  "coords": [
-                        28.895231,
-                        61.863529
-                  ]
-            },
-            {
-                  "name": "Riihisaaren museolaivat",
-                  "text": "Museumsausstellung mit historischen Dampfschiffen in Savonlinna.",
-                  "category": "museum",
-                  "coords": [
-                        28.89415,
-                        61.863236
-                  ]
-            },
-            {
                   "name": "Kulttuurikellari",
                   "text": "Ein lokales Kulturzentrum und Veranstaltungsort in Savonlinna.",
                   "category": "cultural",
@@ -25956,33 +24246,6 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         28.857256,
                         61.86273
-                  ]
-            },
-            {
-                  "name": "Olavinlinna",
-                  "text": "Jól konzervált középkori vár a finnországi Savonlinnában.",
-                  "category": "castle",
-                  "coords": [
-                        28.900969,
-                        61.86389
-                  ]
-            },
-            {
-                  "name": "Riihisaaren museo",
-                  "text": "Savonlinna régiójának történelmét bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        28.895231,
-                        61.863529
-                  ]
-            },
-            {
-                  "name": "Riihisaaren museolaivat",
-                  "text": "Történelmi gőzhajókat bemutató múzeumi kiállítás Savonlinnában.",
-                  "category": "museum",
-                  "coords": [
-                        28.89415,
-                        61.863236
                   ]
             },
             {
@@ -26051,33 +24314,6 @@ export const finlandCultureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Olavinlinna",
-                  "text": "Un castel medieval bine conservat din Savonlinna, Finlanda.",
-                  "category": "castle",
-                  "coords": [
-                        28.900969,
-                        61.86389
-                  ]
-            },
-            {
-                  "name": "Riihisaaren museo",
-                  "text": "Muzeul regional dedicat istoriei zonei Savonlinna.",
-                  "category": "museum",
-                  "coords": [
-                        28.895231,
-                        61.863529
-                  ]
-            },
-            {
-                  "name": "Riihisaaren museolaivat",
-                  "text": "Expoziție muzeală cu vapoare cu aburi istorice în Savonlinna.",
-                  "category": "museum",
-                  "coords": [
-                        28.89415,
-                        61.863236
-                  ]
-            },
-            {
                   "name": "Kulttuurikellari",
                   "text": "Un centru cultural local și loc de desfășurare a evenimentelor în Savonlinna.",
                   "category": "cultural",
@@ -26140,33 +24376,6 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         28.857256,
                         61.86273
-                  ]
-            },
-            {
-                  "name": "Olavinlinna",
-                  "text": "A well-preserved medieval castle in Savonlinna, Finland.",
-                  "category": "castle",
-                  "coords": [
-                        28.900969,
-                        61.86389
-                  ]
-            },
-            {
-                  "name": "Savonlinna Provincial Museum",
-                  "text": "Regional museum dedicated to the history of the Savonlinna area.",
-                  "category": "museum",
-                  "coords": [
-                        28.895231,
-                        61.863529
-                  ]
-            },
-            {
-                  "name": "Savonlinnan Provincial Museum - historic steamboats",
-                  "text": "Museum exhibit featuring historic steamboats in Savonlinna.",
-                  "category": "museum",
-                  "coords": [
-                        28.89415,
-                        61.863236
                   ]
             },
             {
@@ -28896,57 +27105,12 @@ export const finlandCultureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Leuchtturm Gustavsvärn",
-                  "text": "Ein historischer Leuchtturm auf einer befestigten Insel, die die Hafeneinfahrt von Hanko bewacht.",
-                  "category": "landmark",
-                  "coords": [
-                        22.943574,
-                        59.800949
-                  ]
-            },
-            {
-                  "name": "Meijerfeldtsklippan",
-                  "text": "Historische Befestigungsanlagen auf den Felsen von Hanko aus der Zeit der Küstenverteidigung.",
-                  "category": "fortress",
-                  "coords": [
-                        22.943006,
-                        59.815248
-                  ]
-            },
-            {
-                  "name": "Gustav Adolf Rauniolinnoitus, Hangon linnoitus",
-                  "text": "Überreste einer historischen Festung, die ein wichtiges Denkmal der Militärgeschichte von Hanko ist.",
-                  "category": "castle",
-                  "coords": [
-                        22.969177,
-                        59.808305
-                  ]
-            },
-            {
                   "name": "Hangon museo",
                   "text": "Ein Museum, das die maritime Geschichte und die Entwicklung der Stadt Hanko dokumentiert.",
                   "category": "museum",
                   "coords": [
                         22.95601,
                         59.827654
-                  ]
-            },
-            {
-                  "name": "Puistovuoren hiidenkirnu",
-                  "text": "Eine eiszeitliche Gletschermühle im Naturpark Puistovuori bei Hanko.",
-                  "category": "natural",
-                  "coords": [
-                        22.981176,
-                        59.820257
-                  ]
-            },
-            {
-                  "name": "Bellevue",
-                  "text": "Ein malerischer Sandstrand, der für seine historischen Villen und die ruhige Lage bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        22.989009,
-                        59.826868
                   ]
             }
       ],
@@ -28961,57 +27125,12 @@ export const finlandCultureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Gustavsvärnin majakka",
-                  "text": "Történelmi világítótorony egy erődített szigeten, amely Hanko kikötőjének bejáratát őrzi.",
-                  "category": "landmark",
-                  "coords": [
-                        22.943574,
-                        59.800949
-                  ]
-            },
-            {
-                  "name": "Meijerfeldtsklippan",
-                  "text": "Történelmi erődítmények Hanko szikláin a partmenti védelem idejéből.",
-                  "category": "fortress",
-                  "coords": [
-                        22.943006,
-                        59.815248
-                  ]
-            },
-            {
-                  "name": "Gustav Adolf Rauniolinnoitus, Hangon linnoitus",
-                  "text": "Egy történelmi erőd maradványai, amely Hanko hadtörténetének fontos emléke.",
-                  "category": "castle",
-                  "coords": [
-                        22.969177,
-                        59.808305
-                  ]
-            },
-            {
                   "name": "Hangon museo",
                   "text": "Múzeum, amely Hanko városának tengerészeti történelmét és fejlődését dokumentálja.",
                   "category": "museum",
                   "coords": [
                         22.95601,
                         59.827654
-                  ]
-            },
-            {
-                  "name": "Puistovuoren hiidenkirnu",
-                  "text": "Jégkorszaki gleccsermalom a Hanko melletti Puistovuori natúrparkban.",
-                  "category": "natural",
-                  "coords": [
-                        22.981176,
-                        59.820257
-                  ]
-            },
-            {
-                  "name": "Bellevue",
-                  "text": "Festői homokos strand, amely történelmi villáiról és nyugodt fekvéséről ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        22.989009,
-                        59.826868
                   ]
             }
       ],
@@ -29026,57 +27145,12 @@ export const finlandCultureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Gustavsvärnin majakka",
-                  "text": "Un far istoric situat pe o insulă fortificată care păzește intrarea în portul Hanko.",
-                  "category": "landmark",
-                  "coords": [
-                        22.943574,
-                        59.800949
-                  ]
-            },
-            {
-                  "name": "Meijerfeldtsklippan",
-                  "text": "Fortificații istorice pe stâncile din Hanko, datând din perioada apărării de coastă.",
-                  "category": "fortress",
-                  "coords": [
-                        22.943006,
-                        59.815248
-                  ]
-            },
-            {
-                  "name": "Gustav Adolf Rauniolinnoitus, Hangon linnoitus",
-                  "text": "Ruinele unei fortărețe istorice, fiind un monument important al istoriei militare din Hanko.",
-                  "category": "castle",
-                  "coords": [
-                        22.969177,
-                        59.808305
-                  ]
-            },
-            {
                   "name": "Hangon museo",
                   "text": "Un muzeu care documentează istoria maritimă și dezvoltarea orașului Hanko.",
                   "category": "museum",
                   "coords": [
                         22.95601,
                         59.827654
-                  ]
-            },
-            {
-                  "name": "Puistovuoren hiidenkirnu",
-                  "text": "O marmită de gigant formată în era glaciară în parcul natural Puistovuori de lângă Hanko.",
-                  "category": "natural",
-                  "coords": [
-                        22.981176,
-                        59.820257
-                  ]
-            },
-            {
-                  "name": "Bellevue",
-                  "text": "O plajă pitorească de nisip, cunoscută pentru vilele sale istorice și locația liniștită.",
-                  "category": "recreational",
-                  "coords": [
-                        22.989009,
-                        59.826868
                   ]
             }
       ],
@@ -29091,57 +27165,12 @@ export const finlandCultureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Gustavsvärn Lighthouse",
-                  "text": "A historic lighthouse on a fortified island guarding the entrance to Hanko's port.",
-                  "category": "landmark",
-                  "coords": [
-                        22.943574,
-                        59.800949
-                  ]
-            },
-            {
-                  "name": "Meijerfeldtsklippan",
-                  "text": "Historic fortifications on the rocks of Hanko dating from the period of coastal defense.",
-                  "category": "fortress",
-                  "coords": [
-                        22.943006,
-                        59.815248
-                  ]
-            },
-            {
-                  "name": "Gustav Adolf Rauniolinnoitus, Hangon linnoitus",
-                  "text": "The ruins of a historic fortress, being an important monument of Hanko's military history.",
-                  "category": "castle",
-                  "coords": [
-                        22.969177,
-                        59.808305
-                  ]
-            },
-            {
                   "name": "Hangon museo",
                   "text": "A museum documenting the maritime history and the development of the city of Hanko.",
                   "category": "museum",
                   "coords": [
                         22.95601,
                         59.827654
-                  ]
-            },
-            {
-                  "name": "Puistovuoren hiidenkirnu",
-                  "text": "A glacial 'giant's kettle' pothole formed during the Ice Age in the Puistovuori nature park.",
-                  "category": "natural",
-                  "coords": [
-                        22.981176,
-                        59.820257
-                  ]
-            },
-            {
-                  "name": "Bellevue",
-                  "text": "A scenic sandy beach known for its historic villas and quiet location.",
-                  "category": "recreational",
-                  "coords": [
-                        22.989009,
-                        59.826868
                   ]
             }
       ]
@@ -30092,15 +28121,6 @@ export const finlandCultureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Lehtimäen taikametsä",
-                  "text": "Ein kleineres Naturschutzgebiet mit einer besonderen Waldatmosphäre.",
-                  "category": "natural",
-                  "coords": [
-                        24.507156,
-                        60.318602
-                  ]
-            },
-            {
                   "name": "Mäkelän luonnonsuojelualue",
                   "text": "Ein ausgewiesenes Schutzgebiet zur Bewahrung der Biodiversität.",
                   "category": "natural",
@@ -30181,15 +28201,6 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         24.541425,
                         60.3193
-                  ]
-            },
-            {
-                  "name": "Lehtimäen taikametsä",
-                  "text": "Kisebb természetvédelmi terület különleges erdei hangulattal.",
-                  "category": "natural",
-                  "coords": [
-                        24.507156,
-                        60.318602
                   ]
             },
             {
@@ -30276,15 +28287,6 @@ export const finlandCultureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Lehtimäen taikametsä",
-                  "text": "O mică rezervație naturală cu o atmosferă forestieră deosebită.",
-                  "category": "natural",
-                  "coords": [
-                        24.507156,
-                        60.318602
-                  ]
-            },
-            {
                   "name": "Mäkelän luonnonsuojelualue",
                   "text": "O arie protejată desemnată pentru conservarea biodiversității.",
                   "category": "natural",
@@ -30365,15 +28367,6 @@ export const finlandCultureExtended: POI[] = [
                   "coords": [
                         24.541425,
                         60.3193
-                  ]
-            },
-            {
-                  "name": "Lehtimäen taikametsä",
-                  "text": "A small nature reserve with a unique forest atmosphere.",
-                  "category": "natural",
-                  "coords": [
-                        24.507156,
-                        60.318602
                   ]
             },
             {
@@ -33789,15 +31782,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Kuparivuoren_uimaranta",
-                  "text": "Ein beliebter Badestrand in Naantali, der schöne Ausblicke auf das Archipel bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        22.016293,
-                        60.464511
-                  ]
-            },
-            {
                   "name": "Emma Teatteri",
                   "text": "Ein Freilichttheater in Naantali, das sich auf der Insel Kailo im Muminwelt-Areal befindet.",
                   "category": "cultural",
@@ -33977,15 +31961,6 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         22.004413,
                         60.472859
-                  ]
-            },
-            {
-                  "name": "Kuparivuoren_uimaranta",
-                  "text": "Népszerű strand Naantaliban, amely szép kilátást nyújt a szigetvilágra.",
-                  "category": "recreational",
-                  "coords": [
-                        22.016293,
-                        60.464511
                   ]
             },
             {
@@ -34171,15 +32146,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Kuparivuoren_uimaranta",
-                  "text": "O plajă populară în Naantali, care oferă vederi frumoase către arhipelag.",
-                  "category": "recreational",
-                  "coords": [
-                        22.016293,
-                        60.464511
-                  ]
-            },
-            {
                   "name": "Emma Teatteri",
                   "text": "Un teatru în aer liber din Naantali, situat pe insula Kailo în zona Moomin World.",
                   "category": "cultural",
@@ -34359,15 +32325,6 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         22.004413,
                         60.472859
-                  ]
-            },
-            {
-                  "name": "Kuparivuoren_uimaranta",
-                  "text": "A popular swimming beach in Naantali offering scenic views of the archipelago.",
-                  "category": "recreational",
-                  "coords": [
-                        22.016293,
-                        60.464511
                   ]
             },
             {
@@ -34598,15 +32555,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Bergströmin uimaranta",
-                  "text": "Der Strand Bergström ist ein lokaler Badeort in der Küstenstadt Rauma. Er bietet eine schöne Gelegenheit für eine Erfrischung in der Ostsee während der Sommermonate.",
-                  "category": "recreational",
-                  "coords": [
-                        21.530572,
-                        61.11417
-                  ]
-            },
-            {
                   "name": "Rauman teatteri",
                   "text": "Das Stadttheater von Rauma ist ein wichtiges Kulturzentrum, das ein breites Spektrum an Aufführungen bietet. Es bereichert das kulturelle Leben der UNESCO-Welterbestadt mit modernem Drama.",
                   "category": "cultural",
@@ -34640,15 +32588,6 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         21.552198,
                         61.130662
-                  ]
-            },
-            {
-                  "name": "Saharanta",
-                  "text": "Saharanta ist ein Strandbereich in Rauma, der zur Erholung am Meer einlädt. Er ist ein beliebter Treffpunkt für Naturfreunde und Badegäste an warmen Sommertagen.",
-                  "category": "recreational",
-                  "coords": [
-                        21.472123,
-                        61.142874
                   ]
             },
             {
@@ -34825,15 +32764,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Bergströmin uimaranta",
-                  "text": "A Bergström strand egy helyi fürdőzőhely Rauma tengerparti városában. Szép lehetőséget nyújt egy frissítő csobbanásra a Balti-tengerben a nyári hónapok alatt.",
-                  "category": "recreational",
-                  "coords": [
-                        21.530572,
-                        61.11417
-                  ]
-            },
-            {
                   "name": "Rauman teatteri",
                   "text": "Rauma városi színháza fontos kulturális központ, amely előadások széles skáláját kínálja. Modern drámákkal gazdagítja az UNESCO világörökségi város kulturális életét.",
                   "category": "cultural",
@@ -34867,15 +32797,6 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         21.552198,
                         61.130662
-                  ]
-            },
-            {
-                  "name": "Saharanta",
-                  "text": "Saharanta egy tengerparti rész Raumában, amely pihenésre hív a tenger mellett. Népszerű találkozóhely a természetbarátok és a fürdőzők számára a meleg nyári napokon.",
-                  "category": "recreational",
-                  "coords": [
-                        21.472123,
-                        61.142874
                   ]
             },
             {
@@ -35052,15 +32973,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Bergströmin uimaranta",
-                  "text": "Plaja Bergström este un loc local de scăldat în orașul de coastă Rauma. Aceasta oferă o ocazie frumoasă pentru o răcorire în Marea Baltică în timpul lunilor de vară.",
-                  "category": "recreational",
-                  "coords": [
-                        21.530572,
-                        61.11417
-                  ]
-            },
-            {
                   "name": "Rauman teatteri",
                   "text": "Teatrul Municipal din Rauma este un centru cultural important care oferă o gamă largă de spectacole. Acesta îmbogățește viața culturală a orașului aflat în patrimoniul UNESCO.",
                   "category": "cultural",
@@ -35094,15 +33006,6 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         21.552198,
                         61.130662
-                  ]
-            },
-            {
-                  "name": "Saharanta",
-                  "text": "Saharanta este o zonă de plajă din Rauma care invită la relaxare lângă mare. Este un loc popular de întâlnire pentru iubitorii de natură și înotători în zilele calde de vară.",
-                  "category": "recreational",
-                  "coords": [
-                        21.472123,
-                        61.142874
                   ]
             },
             {
@@ -35279,15 +33182,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Bergströmin uimaranta",
-                  "text": "Bergström beach is a local swimming spot in the coastal city of Rauma. It offers a nice opportunity for a refreshing dip in the Baltic Sea during the summer months.",
-                  "category": "recreational",
-                  "coords": [
-                        21.530572,
-                        61.11417
-                  ]
-            },
-            {
                   "name": "Rauma City Theatre",
                   "text": "Rauma City Theatre is an important cultural center offering a wide range of performances. It enriches the cultural life of the UNESCO World Heritage city with modern drama.",
                   "category": "cultural",
@@ -35321,15 +33215,6 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         21.552198,
                         61.130662
-                  ]
-            },
-            {
-                  "name": "Saharanta",
-                  "text": "Saharanta is a beach area in Rauma that invites relaxation by the sea. It is a popular meeting spot for nature lovers and swimmers on warm summer days.",
-                  "category": "recreational",
-                  "coords": [
-                        21.472123,
-                        61.142874
                   ]
             },
             {
@@ -36351,15 +34236,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Rehtijärvi",
-                  "text": "Rehtijärvi ist ein See in Forssa, der eine ruhige Umgebung für Spaziergänge und Naturbeobachtungen bietet.",
-                  "category": "natural",
-                  "coords": [
-                        23.491474,
-                        60.84169
-                  ]
-            },
-            {
                   "name": "Forssan Minigolf Puttaamo",
                   "text": "Forssan Minigolf Puttaamo bietet ein unterhaltsames Minigolf-Erlebnis für Familien in Forssa.",
                   "category": "family",
@@ -36431,15 +34307,6 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         23.629478,
                         60.814099
-                  ]
-            },
-            {
-                  "name": "Rehtijärvi",
-                  "text": "A Rehtijärvi egy tó Forssa területén, amely nyugodt környezetet biztosít sétákhoz és természetjáráshoz.",
-                  "category": "natural",
-                  "coords": [
-                        23.491474,
-                        60.84169
                   ]
             },
             {
@@ -36517,15 +34384,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Rehtijärvi",
-                  "text": "Rehtijärvi este un lac în Forssa, oferind un mediu liniștit pentru plimbări și observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        23.491474,
-                        60.84169
-                  ]
-            },
-            {
                   "name": "Forssan Minigolf Puttaamo",
                   "text": "Forssan Minigolf Puttaamo oferă o experiență distractivă de minigolf pentru familii în Forssa.",
                   "category": "family",
@@ -36597,15 +34455,6 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         23.629478,
                         60.814099
-                  ]
-            },
-            {
-                  "name": "Rehtijärvi",
-                  "text": "Rehtijärvi is a lake in Forssa, offering a peaceful setting for walks and nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        23.491474,
-                        60.84169
                   ]
             },
             {
@@ -36862,15 +34711,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Vanajavesi",
-                  "text": "Ein bedeutender See in Valkeakoski, der sich ideal für Wassersport und Erholung eignet.",
-                  "category": "natural",
-                  "coords": [
-                        24.154309,
-                        61.128166
-                  ]
-            },
-            {
                   "name": "Mallasvesi",
                   "text": "Ein großer See in Valkeakoski, der für seine malerische Landschaft und Angelmöglichkeiten geschätzt wird.",
                   "category": "natural",
@@ -37068,15 +34908,6 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         23.997716,
                         61.321447
-                  ]
-            },
-            {
-                  "name": "Vanajavesi",
-                  "text": "Valkeakoski egyik jelentős tava, amely ideális vízi sportokhoz és kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        24.154309,
-                        61.128166
                   ]
             },
             {
@@ -37280,15 +35111,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Vanajavesi",
-                  "text": "Un lac important din Valkeakoski, ideal pentru sporturi nautice și recreere.",
-                  "category": "natural",
-                  "coords": [
-                        24.154309,
-                        61.128166
-                  ]
-            },
-            {
                   "name": "Mallasvesi",
                   "text": "Un lac mare în Valkeakoski, apreciat pentru peisajul său pitoresc și posibilitățile de pescuit.",
                   "category": "natural",
@@ -37489,15 +35311,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Vanajavesi",
-                  "text": "A significant lake in Valkeakoski, ideal for water sports and recreation.",
-                  "category": "natural",
-                  "coords": [
-                        24.154309,
-                        61.128166
-                  ]
-            },
-            {
                   "name": "Mallasvesi",
                   "text": "A large lake in Valkeakoski appreciated for its scenic landscape and fishing possibilities.",
                   "category": "natural",
@@ -37617,69 +35430,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Heinolan kaupunginmuseo",
-                  "text": "Das Stadtmuseum von Heinola zeigt Ausstellungen zur lokalen Geschichte und Kultur.",
-                  "category": "museum",
-                  "coords": [
-                        26.033035,
-                        61.201544
-                  ]
-            },
-            {
-                  "name": "Heinolan taidemuseo",
-                  "text": "Ein Kunstmuseum in Heinola, das wechselnde Ausstellungen Bildender Kunst präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        26.029069,
-                        61.202347
-                  ]
-            },
-            {
-                  "name": "Lääninkivalteri Aschanin talo",
-                  "text": "Ein historisches Holzhaus aus dem späten 18. Jahrhundert, das das Leben eines Polizeichefs dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        26.026605,
-                        61.203227
-                  ]
-            },
-            {
-                  "name": "Käkisalmi-museo",
-                  "text": "Ein Museum in Heinola, das sich dem kulturellen Erbe der Region Käkisalmi widmet.",
-                  "category": "museum",
-                  "coords": [
-                        26.032027,
-                        61.202009
-                  ]
-            },
-            {
-                  "name": "Kaivannon uimaranta",
-                  "text": "Ein öffentlicher Badestrand in Heinola am Kaivanto-Kanal.",
-                  "category": "recreational",
-                  "coords": [
-                        26.01754,
-                        61.213753
-                  ]
-            },
-            {
-                  "name": "Jyrängön uimaranta",
-                  "text": "Ein beliebter Badestrand im Stadtteil Jyränkö in Heinola.",
-                  "category": "recreational",
-                  "coords": [
-                        26.038813,
-                        61.191632
-                  ]
-            },
-            {
-                  "name": "Tähtiniemen uimaranta",
-                  "text": "Ein Strand im Viertel Tähtiniemi, ideal für eine Erfrischung im Wasser in Heinola.",
-                  "category": "recreational",
-                  "coords": [
-                        26.008478,
-                        61.201285
-                  ]
-            },
-            {
                   "name": "Luonnonsuojelualue",
                   "text": "Ein geschütztes Naturgebiet in Heinola zur Erhaltung der lokalen Biodiversität.",
                   "category": "natural",
@@ -37689,75 +35439,12 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Tsaarinpoppeli",
-                  "text": "Eine riesige Lorbeer-Pappel in Heinola, die als der größte Baum Finnlands gilt.",
-                  "category": "landmark",
-                  "coords": [
-                        26.030994,
-                        61.200789
-                  ]
-            },
-            {
-                  "name": "Siltasaari",
-                  "text": "Eine Parkinsel in Heinola, die Erholung und Freizeitaktivitäten im Grünen bietet.",
-                  "category": "park",
-                  "coords": [
-                        26.031978,
-                        61.198061
-                  ]
-            },
-            {
-                  "name": "Maaherranpuisto",
-                  "text": "Ein zentraler Stadtpark in Heinola, der zum Spazierengehen einlädt.",
-                  "category": "park",
-                  "coords": [
-                        26.02793,
-                        61.203228
-                  ]
-            },
-            {
-                  "name": "Valliherra",
-                  "text": "Ein Denkmal in Heinola, das ein wichtiges lokales Wahrzeichen darstellt.",
-                  "category": "historical",
-                  "coords": [
-                        26.003491,
-                        61.197933
-                  ]
-            },
-            {
-                  "name": "Kylpylän uimaranta",
-                  "text": "Ein Kurstrand in Heinola, der Teil des historischen Badegebiets ist.",
-                  "category": "recreational",
-                  "coords": [
-                        26.024858,
-                        61.202343
-                  ]
-            },
-            {
                   "name": "Heinolan helluntaiseurakunta",
                   "text": "Das Gemeindehaus der Pfingstbewegung in Heinola.",
                   "category": "religious",
                   "coords": [
                         26.043302,
                         61.206788
-                  ]
-            },
-            {
-                  "name": "Heinolan kirkko",
-                  "text": "Die evangelisch-lutherische Hauptkirche der Stadt Heinola.",
-                  "category": "religious",
-                  "coords": [
-                        26.036768,
-                        61.201762
-                  ]
-            },
-            {
-                  "name": "Tähtiniemen silta",
-                  "text": "Eine markante Schrägseilbrücke in Heinola, die den See Ruotsalainen überspannt.",
-                  "category": "landmark",
-                  "coords": [
-                        26.008651,
-                        61.213688
                   ]
             },
             {
@@ -37943,69 +35630,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Heinolan kaupunginmuseo",
-                  "text": "Heinola városi múzeuma a helyi történelem és kultúra emlékeit őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        26.033035,
-                        61.201544
-                  ]
-            },
-            {
-                  "name": "Heinolan taidemuseo",
-                  "text": "Heinola művészeti múzeuma időszaki képzőművészeti kiállításoknak ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        26.029069,
-                        61.202347
-                  ]
-            },
-            {
-                  "name": "Lääninkivalteri Aschanin talo",
-                  "text": "Egy 18. századi műemlék faépület, amely Aschan rendőrfőnök egykori otthonát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        26.026605,
-                        61.203227
-                  ]
-            },
-            {
-                  "name": "Käkisalmi-museo",
-                  "text": "Heinola múzeuma, amely a Käkisalmi régió kulturális örökségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        26.032027,
-                        61.202009
-                  ]
-            },
-            {
-                  "name": "Kaivannon uimaranta",
-                  "text": "Heinola egyik nyilvános strandja a Kaivanto-csatorna mentén.",
-                  "category": "recreational",
-                  "coords": [
-                        26.01754,
-                        61.213753
-                  ]
-            },
-            {
-                  "name": "Jyrängön uimaranta",
-                  "text": "Népszerű strand Heinola Jyränkö negyedében.",
-                  "category": "recreational",
-                  "coords": [
-                        26.038813,
-                        61.191632
-                  ]
-            },
-            {
-                  "name": "Tähtiniemen uimaranta",
-                  "text": "Tähtiniemi városrész strandja, mely kiváló fürdőzési lehetőséget kínál Heinolában.",
-                  "category": "recreational",
-                  "coords": [
-                        26.008478,
-                        61.201285
-                  ]
-            },
-            {
                   "name": "Luonnonsuojelualue",
                   "text": "Védett természeti terület Heinolában a helyi élővilág megőrzésére.",
                   "category": "natural",
@@ -38015,75 +35639,12 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Tsaarinpoppeli",
-                  "text": "Heinola hatalmas cári nyárfája, melyet Finnország legnagyobb fájának tartanak.",
-                  "category": "landmark",
-                  "coords": [
-                        26.030994,
-                        61.200789
-                  ]
-            },
-            {
-                  "name": "Siltasaari",
-                  "text": "Szigetpark Heinolában, amely kikapcsolódást és zöld környezetet kínál.",
-                  "category": "park",
-                  "coords": [
-                        26.031978,
-                        61.198061
-                  ]
-            },
-            {
-                  "name": "Maaherranpuisto",
-                  "text": "Heinola központi városi parkja, amely kellemes sétákra hívogat.",
-                  "category": "park",
-                  "coords": [
-                        26.02793,
-                        61.203228
-                  ]
-            },
-            {
-                  "name": "Valliherra",
-                  "text": "Heinola egyik fontos helyi emlékműve és nevezetessége.",
-                  "category": "historical",
-                  "coords": [
-                        26.003491,
-                        61.197933
-                  ]
-            },
-            {
-                  "name": "Kylpylän uimaranta",
-                  "text": "Heinola fürdőhelye, amely a történelmi üdülőövezet része.",
-                  "category": "recreational",
-                  "coords": [
-                        26.024858,
-                        61.202343
-                  ]
-            },
-            {
                   "name": "Heinolan helluntaiseurakunta",
                   "text": "A pünkösdi gyülekezet vallási központja Heinola városában.",
                   "category": "religious",
                   "coords": [
                         26.043302,
                         61.206788
-                  ]
-            },
-            {
-                  "name": "Heinolan kirkko",
-                  "text": "Heinola városának központi evangélikus temploma.",
-                  "category": "religious",
-                  "coords": [
-                        26.036768,
-                        61.201762
-                  ]
-            },
-            {
-                  "name": "Tähtiniemen silta",
-                  "text": "Heinola látványos ferdekábeles hídja, amely a Ruotsalainen-tó felett ível át.",
-                  "category": "landmark",
-                  "coords": [
-                        26.008651,
-                        61.213688
                   ]
             },
             {
@@ -38269,69 +35830,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Heinolan kaupunginmuseo",
-                  "text": "Muzeul orașului Heinola prezintă expoziții despre istoria și cultura locală.",
-                  "category": "museum",
-                  "coords": [
-                        26.033035,
-                        61.201544
-                  ]
-            },
-            {
-                  "name": "Heinolan taidemuseo",
-                  "text": "Un muzeu de artă din Heinola care găzduiește expoziții temporare de artă vizuală.",
-                  "category": "museum",
-                  "coords": [
-                        26.029069,
-                        61.202347
-                  ]
-            },
-            {
-                  "name": "Lääninkivalteri Aschanin talo",
-                  "text": "O casă istorică din lemn de la sfârșitul secolului al XVIII-lea, ce ilustrează viața unui șef de poliție.",
-                  "category": "museum",
-                  "coords": [
-                        26.026605,
-                        61.203227
-                  ]
-            },
-            {
-                  "name": "Käkisalmi-museo",
-                  "text": "Un muzeu din Heinola dedicat moștenirii culturale a regiunii Käkisalmi.",
-                  "category": "museum",
-                  "coords": [
-                        26.032027,
-                        61.202009
-                  ]
-            },
-            {
-                  "name": "Kaivannon uimaranta",
-                  "text": "O plajă publică din Heinola, situată pe malul canalului Kaivanto.",
-                  "category": "recreational",
-                  "coords": [
-                        26.01754,
-                        61.213753
-                  ]
-            },
-            {
-                  "name": "Jyrängön uimaranta",
-                  "text": "O plajă populară situată în cartierul Jyränkö din Heinola.",
-                  "category": "recreational",
-                  "coords": [
-                        26.038813,
-                        61.191632
-                  ]
-            },
-            {
-                  "name": "Tähtiniemen uimaranta",
-                  "text": "O plajă în cartierul Tähtiniemi, ideală pentru o baie revigorantă în Heinola.",
-                  "category": "recreational",
-                  "coords": [
-                        26.008478,
-                        61.201285
-                  ]
-            },
-            {
                   "name": "Luonnonsuojelualue",
                   "text": "O zonă naturală protejată din Heinola pentru conservarea biodiversității locale.",
                   "category": "natural",
@@ -38341,75 +35839,12 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Tsaarinpoppeli",
-                  "text": "Un plop uriaș din Heinola, considerat cel mai mare arbore din Finlanda.",
-                  "category": "landmark",
-                  "coords": [
-                        26.030994,
-                        61.200789
-                  ]
-            },
-            {
-                  "name": "Siltasaari",
-                  "text": "O insulă-parc din Heinola care oferă relaxare și activități recreative în natură.",
-                  "category": "park",
-                  "coords": [
-                        26.031978,
-                        61.198061
-                  ]
-            },
-            {
-                  "name": "Maaherranpuisto",
-                  "text": "Un parc urban central din Heinola, ideal pentru plimbări relaxante.",
-                  "category": "park",
-                  "coords": [
-                        26.02793,
-                        61.203228
-                  ]
-            },
-            {
-                  "name": "Valliherra",
-                  "text": "Un monument din Heinola care reprezintă un punct de reper local important.",
-                  "category": "historical",
-                  "coords": [
-                        26.003491,
-                        61.197933
-                  ]
-            },
-            {
-                  "name": "Kylpylän uimaranta",
-                  "text": "O stațiune de plajă din Heinola, parte a zonei balneare istorice.",
-                  "category": "recreational",
-                  "coords": [
-                        26.024858,
-                        61.202343
-                  ]
-            },
-            {
                   "name": "Heinolan helluntaiseurakunta",
                   "text": "Casa de cult a mișcării penticostale din Heinola.",
                   "category": "religious",
                   "coords": [
                         26.043302,
                         61.206788
-                  ]
-            },
-            {
-                  "name": "Heinolan kirkko",
-                  "text": "Biserica principală evanghelică-luterană din orașul Heinola.",
-                  "category": "religious",
-                  "coords": [
-                        26.036768,
-                        61.201762
-                  ]
-            },
-            {
-                  "name": "Tähtiniemen silta",
-                  "text": "Un pod hobanat impunător din Heinola care traversează lacul Ruotsalainen.",
-                  "category": "landmark",
-                  "coords": [
-                        26.008651,
-                        61.213688
                   ]
             },
             {
@@ -38595,69 +36030,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Heinolan kaupunginmuseo",
-                  "text": "The Heinola City Museum features exhibitions on local history and culture.",
-                  "category": "museum",
-                  "coords": [
-                        26.033035,
-                        61.201544
-                  ]
-            },
-            {
-                  "name": "Heinolan taidemuseo",
-                  "text": "An art museum in Heinola presenting rotating exhibitions of fine arts.",
-                  "category": "museum",
-                  "coords": [
-                        26.029069,
-                        61.202347
-                  ]
-            },
-            {
-                  "name": "Lääninkivalteri Aschanin talo",
-                  "text": "A historic late 18th-century wooden house documenting the life of a police chief.",
-                  "category": "museum",
-                  "coords": [
-                        26.026605,
-                        61.203227
-                  ]
-            },
-            {
-                  "name": "Käkisalmi-museo",
-                  "text": "A museum in Heinola dedicated to the cultural heritage of the Käkisalmi region.",
-                  "category": "museum",
-                  "coords": [
-                        26.032027,
-                        61.202009
-                  ]
-            },
-            {
-                  "name": "Kaivannon uimaranta",
-                  "text": "A public swimming beach in Heinola located by the Kaivanto canal.",
-                  "category": "recreational",
-                  "coords": [
-                        26.01754,
-                        61.213753
-                  ]
-            },
-            {
-                  "name": "Jyrängön uimaranta",
-                  "text": "A popular swimming beach in the Jyränkö district of Heinola.",
-                  "category": "recreational",
-                  "coords": [
-                        26.038813,
-                        61.191632
-                  ]
-            },
-            {
-                  "name": "Tähtiniemen uimaranta",
-                  "text": "A beach in the Tähtiniemi area, perfect for a refreshing swim in Heinola.",
-                  "category": "recreational",
-                  "coords": [
-                        26.008478,
-                        61.201285
-                  ]
-            },
-            {
                   "name": "Luonnonsuojelualue",
                   "text": "A protected nature area in Heinola for the preservation of local biodiversity.",
                   "category": "natural",
@@ -38667,75 +36039,12 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Tsaarinpoppeli",
-                  "text": "A massive Tsar's Poplar in Heinola, considered the largest tree in Finland.",
-                  "category": "landmark",
-                  "coords": [
-                        26.030994,
-                        61.200789
-                  ]
-            },
-            {
-                  "name": "Siltasaari",
-                  "text": "A park island in Heinola offering relaxation and leisure activities in a green setting.",
-                  "category": "park",
-                  "coords": [
-                        26.031978,
-                        61.198061
-                  ]
-            },
-            {
-                  "name": "Maaherranpuisto",
-                  "text": "A central city park in Heinola inviting visitors for pleasant walks.",
-                  "category": "park",
-                  "coords": [
-                        26.02793,
-                        61.203228
-                  ]
-            },
-            {
-                  "name": "Valliherra",
-                  "text": "A monument in Heinola serving as a significant local landmark.",
-                  "category": "historical",
-                  "coords": [
-                        26.003491,
-                        61.197933
-                  ]
-            },
-            {
-                  "name": "Kylpylän uimaranta",
-                  "text": "A beach resort in Heinola that is part of the historic spa area.",
-                  "category": "recreational",
-                  "coords": [
-                        26.024858,
-                        61.202343
-                  ]
-            },
-            {
                   "name": "Heinolan helluntaiseurakunta",
                   "text": "The religious center of the Pentecostal movement in Heinola.",
                   "category": "religious",
                   "coords": [
                         26.043302,
                         61.206788
-                  ]
-            },
-            {
-                  "name": "Heinolan kirkko",
-                  "text": "The main evangelical Lutheran church of the city of Heinola.",
-                  "category": "religious",
-                  "coords": [
-                        26.036768,
-                        61.201762
-                  ]
-            },
-            {
-                  "name": "Tähtiniemen silta",
-                  "text": "A striking cable-stayed bridge in Heinola spanning Lake Ruotsalainen.",
-                  "category": "landmark",
-                  "coords": [
-                        26.008651,
-                        61.213688
                   ]
             },
             {
@@ -39011,15 +36320,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Pankalammen uimaranta",
-                  "text": "Ein beliebter öffentlicher Badestrand am See Pankalampi in Mikkeli.",
-                  "category": "recreational",
-                  "coords": [
-                        27.252519,
-                        61.688785
-                  ]
-            },
-            {
                   "name": "Urpolanjokilaakson luonnonsuojelualue",
                   "text": "Ein geschütztes Naturgebiet im Flusstal des Urpolanjoki in Mikkeli.",
                   "category": "natural",
@@ -39035,15 +36335,6 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         27.269418,
                         61.690585
-                  ]
-            },
-            {
-                  "name": "Suojalampi",
-                  "text": "Ein kleinerer Badestrand am See Suojalampi in Mikkeli.",
-                  "category": "recreational",
-                  "coords": [
-                        27.295102,
-                        61.707358
                   ]
             },
             {
@@ -39254,15 +36545,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Saimaa",
-                  "text": "Teil des großen Saimaa-Seensystems in Mikkeli, ideal für Wassersport und Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        28.622639,
-                        61.837622
-                  ]
-            },
-            {
                   "name": "Paloinlampi",
                   "text": "Ein kleiner, friedlicher See in Mikkeli, fernab vom Trubel.",
                   "category": "natural",
@@ -39445,15 +36727,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Pankalammen uimaranta",
-                  "text": "Népszerű nyilvános strand a mikkeli Pankalampi-tónál.",
-                  "category": "recreational",
-                  "coords": [
-                        27.252519,
-                        61.688785
-                  ]
-            },
-            {
                   "name": "Urpolanjokilaakson luonnonsuojelualue",
                   "text": "Védett természeti terület az Urpolanjoki folyó völgyében, Mikkeliben.",
                   "category": "natural",
@@ -39469,15 +36742,6 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         27.269418,
                         61.690585
-                  ]
-            },
-            {
-                  "name": "Suojalampi",
-                  "text": "Kisebb fürdőhely a mikkeli Suojalampi-tónál.",
-                  "category": "recreational",
-                  "coords": [
-                        27.295102,
-                        61.707358
                   ]
             },
             {
@@ -39688,15 +36952,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Saimaa",
-                  "text": "A nagy Saimaa-tórendszer része Mikkeli városában, ideális vízi sportokhoz és természetjáráshoz.",
-                  "category": "natural",
-                  "coords": [
-                        28.622639,
-                        61.837622
-                  ]
-            },
-            {
                   "name": "Paloinlampi",
                   "text": "Kicsi, békés tó Mikkeli területén, távol a város zajától.",
                   "category": "natural",
@@ -39879,15 +37134,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Pankalammen uimaranta",
-                  "text": "O plajă publică populară pe malul lacului Pankalampi din Mikkeli.",
-                  "category": "recreational",
-                  "coords": [
-                        27.252519,
-                        61.688785
-                  ]
-            },
-            {
                   "name": "Urpolanjokilaakson luonnonsuojelualue",
                   "text": "O zonă naturală protejată în valea râului Urpolanjoki din Mikkeli.",
                   "category": "natural",
@@ -39903,15 +37149,6 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         27.269418,
                         61.690585
-                  ]
-            },
-            {
-                  "name": "Suojalampi",
-                  "text": "O plajă mai mică pentru înot la lacul Suojalampi din Mikkeli.",
-                  "category": "recreational",
-                  "coords": [
-                        27.295102,
-                        61.707358
                   ]
             },
             {
@@ -40122,15 +37359,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Saimaa",
-                  "text": "Parte a marelui sistem de lacuri Saimaa din Mikkeli, ideal pentru sporturi nautice și experiențe în natură.",
-                  "category": "natural",
-                  "coords": [
-                        28.622639,
-                        61.837622
-                  ]
-            },
-            {
                   "name": "Paloinlampi",
                   "text": "Un lac mic și liniștit în Mikkeli, departe de agitație.",
                   "category": "natural",
@@ -40313,15 +37541,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "Pankalammen uimaranta",
-                  "text": "A popular public swimming beach at Lake Pankalampi in Mikkeli.",
-                  "category": "recreational",
-                  "coords": [
-                        27.252519,
-                        61.688785
-                  ]
-            },
-            {
                   "name": "Urpolanjokilaakson luonnonsuojelualue",
                   "text": "A protected nature reserve in the Urpolanjoki river valley in Mikkeli.",
                   "category": "natural",
@@ -40337,15 +37556,6 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         27.269418,
                         61.690585
-                  ]
-            },
-            {
-                  "name": "Suojalampi",
-                  "text": "A smaller swimming beach at Lake Suojalampi in Mikkeli.",
-                  "category": "recreational",
-                  "coords": [
-                        27.295102,
-                        61.707358
                   ]
             },
             {
@@ -40553,15 +37763,6 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         27.26119,
                         61.756221
-                  ]
-            },
-            {
-                  "name": "Saimaa",
-                  "text": "Part of the large Saimaa lake system in Mikkeli, ideal for water sports and nature experiences.",
-                  "category": "natural",
-                  "coords": [
-                        28.622639,
-                        61.837622
                   ]
             },
             {
@@ -43088,51 +40289,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "S/S Hyöky",
-                  "text": "Ein Museumsschiff in Hamina, das früher als Feuerschiff diente.",
-                  "category": "museum",
-                  "coords": [
-                        27.181094,
-                        60.561453
-                  ]
-            },
-            {
-                  "name": "Haminan kaupunginmuseo",
-                  "text": "Das Stadtmuseum von Hamina zeigt Exponate zur Geschichte der Festungsstadt.",
-                  "category": "museum",
-                  "coords": [
-                        27.199359,
-                        60.569321
-                  ]
-            },
-            {
-                  "name": "Hist. linnake",
-                  "text": "Historische Festungsanlagen, die Teil des Verteidigungssystems von Hamina sind.",
-                  "category": "historical",
-                  "coords": [
-                        27.177679,
-                        60.563244
-                  ]
-            },
-            {
-                  "name": "Kiilinmäki",
-                  "text": "Eine archäologische Fundstätte in Hamina mit Spuren früherer Besiedlung.",
-                  "category": "historical",
-                  "coords": [
-                        27.161661,
-                        60.58685
-                  ]
-            },
-            {
-                  "name": "Haminan kauppiaantalomuseo",
-                  "text": "Ein Museum im Haus eines ehemaligen Kaufmanns, das das bürgerliche Leben in Hamina zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        27.19879,
-                        60.568112
-                  ]
-            },
-            {
                   "name": "Vehkalahtisali",
                   "text": "Ein lokaler Veranstaltungsort und Theatersaal in Hamina.",
                   "category": "cultural",
@@ -43150,51 +40306,6 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         27.206191,
                         60.567375
-                  ]
-            },
-            {
-                  "name": "S/S Hyöky",
-                  "text": "Múzeumhajó Haminában, amely korábban világítóhajóként szolgált.",
-                  "category": "museum",
-                  "coords": [
-                        27.181094,
-                        60.561453
-                  ]
-            },
-            {
-                  "name": "Haminan kaupunginmuseo",
-                  "text": "Hamina városi múzeuma a festői erődváros történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        27.199359,
-                        60.569321
-                  ]
-            },
-            {
-                  "name": "Hist. linnake",
-                  "text": "Történelmi erődítmények, amelyek Hamina védelmi rendszerének részei.",
-                  "category": "historical",
-                  "coords": [
-                        27.177679,
-                        60.563244
-                  ]
-            },
-            {
-                  "name": "Kiilinmäki",
-                  "text": "Régészeti lelőhely Haminában, korábbi települések nyomaival.",
-                  "category": "historical",
-                  "coords": [
-                        27.161661,
-                        60.58685
-                  ]
-            },
-            {
-                  "name": "Haminan kauppiaantalomuseo",
-                  "text": "Egy egykori kereskedőházban kialakított múzeum, amely a polgári életet mutatja be Haminában.",
-                  "category": "museum",
-                  "coords": [
-                        27.19879,
-                        60.568112
                   ]
             },
             {
@@ -43218,51 +40329,6 @@ export const finlandNatureExtended: POI[] = [
                   ]
             },
             {
-                  "name": "S/S Hyöky",
-                  "text": "O navă-muzeu în Hamina, care a servit anterior ca navă-far.",
-                  "category": "museum",
-                  "coords": [
-                        27.181094,
-                        60.561453
-                  ]
-            },
-            {
-                  "name": "Haminan kaupunginmuseo",
-                  "text": "Muzeul orașului Hamina prezintă exponate despre istoria orașului-fortăreață.",
-                  "category": "museum",
-                  "coords": [
-                        27.199359,
-                        60.569321
-                  ]
-            },
-            {
-                  "name": "Hist. linnake",
-                  "text": "Fortificații istorice care fac parte din sistemul de apărare al orașului Hamina.",
-                  "category": "historical",
-                  "coords": [
-                        27.177679,
-                        60.563244
-                  ]
-            },
-            {
-                  "name": "Kiilinmäki",
-                  "text": "Un sit arheologic în Hamina cu urme ale unor așezări timpurii.",
-                  "category": "historical",
-                  "coords": [
-                        27.161661,
-                        60.58685
-                  ]
-            },
-            {
-                  "name": "Haminan kauppiaantalomuseo",
-                  "text": "Un muzeu situat în casa unui fost negustor, prezentând viața burgheză din Hamina.",
-                  "category": "museum",
-                  "coords": [
-                        27.19879,
-                        60.568112
-                  ]
-            },
-            {
                   "name": "Vehkalahtisali",
                   "text": "O sală locală de evenimente și teatru situată în Hamina.",
                   "category": "cultural",
@@ -43280,51 +40346,6 @@ export const finlandNatureExtended: POI[] = [
                   "coords": [
                         27.206191,
                         60.567375
-                  ]
-            },
-            {
-                  "name": "S/S Hyöky",
-                  "text": "A museum ship in Hamina that previously served as a lightvessel.",
-                  "category": "museum",
-                  "coords": [
-                        27.181094,
-                        60.561453
-                  ]
-            },
-            {
-                  "name": "Haminan kaupunginmuseo",
-                  "text": "The Hamina City Museum displays exhibits on the history of the fortress town.",
-                  "category": "museum",
-                  "coords": [
-                        27.199359,
-                        60.569321
-                  ]
-            },
-            {
-                  "name": "Hist. linnake",
-                  "text": "Historical fortifications that are part of the Hamina defense system.",
-                  "category": "historical",
-                  "coords": [
-                        27.177679,
-                        60.563244
-                  ]
-            },
-            {
-                  "name": "Kiilinmäki",
-                  "text": "An archaeological site in Hamina featuring traces of early settlement.",
-                  "category": "historical",
-                  "coords": [
-                        27.161661,
-                        60.58685
-                  ]
-            },
-            {
-                  "name": "Haminan kauppiaantalomuseo",
-                  "text": "A museum located in a former merchant's house, showing middle-class life in Hamina.",
-                  "category": "museum",
-                  "coords": [
-                        27.19879,
-                        60.568112
                   ]
             },
             {

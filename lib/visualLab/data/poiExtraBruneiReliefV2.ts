@@ -721,15 +721,6 @@ export const poiExtraBruneiReliefV2: POI[] = [
     id: "pantai-jerudong-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Pantai Jerudong",
-                  "text": "Jerudong Beach ist ein Sandstrand, der einen malerischen Blick auf die brechenden Meereswellen bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        114.839104,
-                        4.955859
-                  ]
-            },
-            {
                   "name": "Pasar Jerudong",
                   "text": "Der Jerudong Market ist ein belebter Handelsplatz, an dem Händler täglich frische Meeresfrüchte und landwirtschaftliche Produkte verkaufen.",
                   "category": "cultural",
@@ -740,15 +731,6 @@ export const poiExtraBruneiReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Pantai Jerudong",
-                  "text": "A Jerudong Beach egy homokos tengerparti szakasz, amely festői kilátást nyújt a megtörő tengeri hullámokra.",
-                  "category": "recreational",
-                  "coords": [
-                        114.839104,
-                        4.955859
-                  ]
-            },
             {
                   "name": "Pasar Jerudong",
                   "text": "A Jerudong Piac egy nyüzsgő kereskedelmi központ, ahol az árusok naponta friss tenger gyümölcseit és mezőgazdasági termékeket árulnak.",
@@ -761,15 +743,6 @@ export const poiExtraBruneiReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Pantai Jerudong",
-                  "text": "Jerudong Beach este o porțiune de coastă cu nisip ce oferă vederi pitorești asupra valurilor spumoase ale oceanului.",
-                  "category": "recreational",
-                  "coords": [
-                        114.839104,
-                        4.955859
-                  ]
-            },
-            {
                   "name": "Pasar Jerudong",
                   "text": "Piața Jerudong este un loc comercial plin de viață, unde vânzătorii oferă zilnic fructe de mare proaspete și produse agricole.",
                   "category": "cultural",
@@ -780,15 +753,6 @@ export const poiExtraBruneiReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Jerudong Beach",
-                  "text": "Jerudong Beach is a stretch of sandy coastline offering scenic views of the crashing ocean waves.",
-                  "category": "recreational",
-                  "coords": [
-                        114.839104,
-                        4.955859
-                  ]
-            },
             {
                   "name": "Jerudong Market",
                   "text": "Jerudong Market is a bustling commercial spot where vendors sell fresh daily seafood and agricultural produce.",
@@ -1157,15 +1121,6 @@ export const poiExtraBruneiReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Hassanal Bolkiah",
-                  "text": "Die Masjid Hassanal Bolkiah ist eine imposante islamische Moschee, die für ihr elegantes architektonisches Design und ihre geräumigen Gebetshallen bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        115.030041,
-                        4.96676
-                  ]
-            },
-            {
                   "name": "Masjid Kampong Sungai Besar",
                   "text": "Die Moschee von Kampong Sungai Besar ist ein wichtiger religiöser Treffpunkt für die Bewohner des örtlichen Flussdorfes.",
                   "category": "landmark",
@@ -1183,15 +1138,6 @@ export const poiExtraBruneiReliefV2: POI[] = [
                   "coords": [
                         115.024113,
                         4.933641
-                  ]
-            },
-            {
-                  "name": "Masjid Hassanal Bolkiah",
-                  "text": "A Masjid Hassanal Bolkiah egy impozáns iszlám mecset, amely elegáns építészeti kialakításáról és tágas imatermeiről híres.",
-                  "category": "religious",
-                  "coords": [
-                        115.030041,
-                        4.96676
                   ]
             },
             {
@@ -1215,15 +1161,6 @@ export const poiExtraBruneiReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Hassanal Bolkiah",
-                  "text": "Masjid Hassanal Bolkiah este o moschee islamică impunătoare, renumită pentru designul său arhitectural elegant și sălile de rugăciune spațioase.",
-                  "category": "religious",
-                  "coords": [
-                        115.030041,
-                        4.96676
-                  ]
-            },
-            {
                   "name": "Masjid Kampong Sungai Besar",
                   "text": "Moscheea Kampong Sungai Besar este un punct important de adunare religioasă pentru locuitorii satului riveran local.",
                   "category": "landmark",
@@ -1241,15 +1178,6 @@ export const poiExtraBruneiReliefV2: POI[] = [
                   "coords": [
                         115.024113,
                         4.933641
-                  ]
-            },
-            {
-                  "name": "Masjid Hassanal Bolkiah",
-                  "text": "Masjid Hassanal Bolkiah is an imposing Islamic mosque renowned for its elegant architectural design and spacious prayer halls.",
-                  "category": "religious",
-                  "coords": [
-                        115.030041,
-                        4.96676
                   ]
             },
             {

@@ -1527,15 +1527,6 @@ export const italyNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Corno Grande - Vetta Orientale",
-                  "text": "Der östliche Gipfel des Corno Grande, des höchsten Punktes im Gran Sasso.",
-                  "category": "landmark",
-                  "coords": [
-                        13.57061,
-                        42.471704
-                  ]
-            },
-            {
                   "name": "Monte Portella",
                   "text": "Ein Berggipfel im Gran Sasso-Massiv, der oft als Wanderziel genutzt wird.",
                   "category": "landmark",
@@ -1563,30 +1554,12 @@ export const italyNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte Aquila",
-                  "text": "Ein Berggipfel im Gran Sasso, der sich in der Nähe des Corno Grande befindet.",
-                  "category": "landmark",
-                  "coords": [
-                        13.56855,
-                        42.456385
-                  ]
-            },
-            {
                   "name": "Vetta Settentrionale d'Intermesoli",
                   "text": "Der nördliche Gipfel des Pizzo d'Intermesoli im Gran Sasso-Massiv.",
                   "category": "landmark",
                   "coords": [
                         13.523354,
                         42.481946
-                  ]
-            },
-            {
-                  "name": "Corno Grande - Vetta Occidentale",
-                  "text": "Der westliche Gipfel des Corno Grande, der höchste Punkt des Apennin.",
-                  "category": "landmark",
-                  "coords": [
-                        13.565502,
-                        42.469299
                   ]
             }
       ],
@@ -1598,15 +1571,6 @@ export const italyNatureV2: POI[] = [
                   "coords": [
                         13.524703,
                         42.450872
-                  ]
-            },
-            {
-                  "name": "Corno Grande - Vetta Orientale",
-                  "text": "A Corno Grande keleti csúcsa, a Gran Sasso legmagasabb hegyének része.",
-                  "category": "landmark",
-                  "coords": [
-                        13.57061,
-                        42.471704
                   ]
             },
             {
@@ -1637,30 +1601,12 @@ export const italyNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte Aquila",
-                  "text": "A Gran Sasso egyik hegycsúcsa a Corno Grande közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        13.56855,
-                        42.456385
-                  ]
-            },
-            {
                   "name": "Vetta Settentrionale d'Intermesoli",
                   "text": "A Pizzo d'Intermesoli északi csúcsa a Gran Sasso-hegységben.",
                   "category": "landmark",
                   "coords": [
                         13.523354,
                         42.481946
-                  ]
-            },
-            {
-                  "name": "Corno Grande - Vetta Occidentale",
-                  "text": "A Corno Grande nyugati csúcsa, az Appenninek legmagasabb pontja.",
-                  "category": "landmark",
-                  "coords": [
-                        13.565502,
-                        42.469299
                   ]
             }
       ],
@@ -1672,15 +1618,6 @@ export const italyNatureV2: POI[] = [
                   "coords": [
                         13.524703,
                         42.450872
-                  ]
-            },
-            {
-                  "name": "Corno Grande - Vetta Orientale",
-                  "text": "Vârful estic al muntelui Corno Grande, cel mai înalt punct din Gran Sasso.",
-                  "category": "landmark",
-                  "coords": [
-                        13.57061,
-                        42.471704
                   ]
             },
             {
@@ -1711,30 +1648,12 @@ export const italyNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte Aquila",
-                  "text": "Un vârf muntos din Gran Sasso situat în proximitatea muntelui Corno Grande.",
-                  "category": "landmark",
-                  "coords": [
-                        13.56855,
-                        42.456385
-                  ]
-            },
-            {
                   "name": "Vetta Settentrionale d'Intermesoli",
                   "text": "Vârful nordic al muntelui Pizzo d'Intermesoli din masivul Gran Sasso.",
                   "category": "landmark",
                   "coords": [
                         13.523354,
                         42.481946
-                  ]
-            },
-            {
-                  "name": "Corno Grande - Vetta Occidentale",
-                  "text": "Vârful vestic al muntelui Corno Grande, cel mai înalt punct din Apenini.",
-                  "category": "landmark",
-                  "coords": [
-                        13.565502,
-                        42.469299
                   ]
             }
       ],
@@ -1746,15 +1665,6 @@ export const italyNatureV2: POI[] = [
                   "coords": [
                         13.524703,
                         42.450872
-                  ]
-            },
-            {
-                  "name": "Corno Grande - Vetta Orientale",
-                  "text": "The eastern peak of Corno Grande, part of the highest mountain in the Gran Sasso.",
-                  "category": "landmark",
-                  "coords": [
-                        13.57061,
-                        42.471704
                   ]
             },
             {
@@ -1785,30 +1695,12 @@ export const italyNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monte Aquila",
-                  "text": "A mountain peak in the Gran Sasso, located near the Corno Grande.",
-                  "category": "landmark",
-                  "coords": [
-                        13.56855,
-                        42.456385
-                  ]
-            },
-            {
                   "name": "Vetta Settentrionale d'Intermesoli",
                   "text": "The northern peak of Pizzo d'Intermesoli in the Gran Sasso massif.",
                   "category": "landmark",
                   "coords": [
                         13.523354,
                         42.481946
-                  ]
-            },
-            {
-                  "name": "Corno Grande - Vetta Occidentale",
-                  "text": "The western peak of Corno Grande, the highest point of the Apennines.",
-                  "category": "landmark",
-                  "coords": [
-                        13.565502,
-                        42.469299
                   ]
             }
       ]
@@ -1860,24 +1752,6 @@ export const italyNatureV2: POI[] = [
     id: "italy-fiume-po-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Monumento ai Caduti di Boccasette",
-                  "text": "Ein Denkmal für die Gefallenen in der Nähe des Po.",
-                  "category": "historical",
-                  "coords": [
-                        12.420636,
-                        45.002574
-                  ]
-            },
-            {
-                  "name": "45° Parallelo",
-                  "text": "Denkmal, das den 45. Breitengrad in der Po-Ebene markiert.",
-                  "category": "landmark",
-                  "coords": [
-                        12.42358,
-                        45.00002
-                  ]
-            },
-            {
                   "name": "chiesa della Beata Vergine del Rosario",
                   "text": "Kirche der seligen Jungfrau vom Rosenkranz am Po-Fluss.",
                   "category": "religious",
@@ -1888,24 +1762,6 @@ export const italyNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Monumento ai Caduti di Boccasette",
-                  "text": "A háborús hősök emlékműve a Pó folyó közelében.",
-                  "category": "historical",
-                  "coords": [
-                        12.420636,
-                        45.002574
-                  ]
-            },
-            {
-                  "name": "45° Parallelo",
-                  "text": "A 45. szélességi fokot jelző emlékmű a Pó-síkságon.",
-                  "category": "landmark",
-                  "coords": [
-                        12.42358,
-                        45.00002
-                  ]
-            },
             {
                   "name": "chiesa della Beata Vergine del Rosario",
                   "text": "A Rózsafüzér Királynője temploma a Pó folyónál.",
@@ -1918,24 +1774,6 @@ export const italyNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Monumento ai Caduti di Boccasette",
-                  "text": "Un monument dedicat eroilor căzuți, situat lângă râul Po.",
-                  "category": "historical",
-                  "coords": [
-                        12.420636,
-                        45.002574
-                  ]
-            },
-            {
-                  "name": "45° Parallelo",
-                  "text": "Monument care marchează paralela 45° nordică pe câmpia râului Po.",
-                  "category": "landmark",
-                  "coords": [
-                        12.42358,
-                        45.00002
-                  ]
-            },
-            {
                   "name": "chiesa della Beata Vergine del Rosario",
                   "text": "Biserica Sfintei Fecioare a Rozariului pe râul Po.",
                   "category": "religious",
@@ -1946,24 +1784,6 @@ export const italyNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Monumento ai Caduti di Boccasette",
-                  "text": "A monument to the fallen heroes located near the Po River.",
-                  "category": "historical",
-                  "coords": [
-                        12.420636,
-                        45.002574
-                  ]
-            },
-            {
-                  "name": "45° Parallelo",
-                  "text": "Monument marking the 45th parallel north on the Po River plain.",
-                  "category": "landmark",
-                  "coords": [
-                        12.42358,
-                        45.00002
-                  ]
-            },
             {
                   "name": "chiesa della Beata Vergine del Rosario",
                   "text": "Church of the Blessed Virgin of the Rosary on the Po River.",

@@ -15,15 +15,6 @@ export const austriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruine Kaja",
-                  "text": "Die Ruinen einer mittelalterlichen Höhenburg im Nationalpark Thayatal.",
-                  "category": "castle",
-                  "coords": [
-                        15.888264,
-                        48.826634
-                  ]
-            },
-            {
                   "name": "Guckkastenmuseum",
                   "text": "Ein Museum in Hardegg, das historische Guckkästen und optische Geräte zeigt.",
                   "category": "museum",
@@ -51,30 +42,12 @@ export const austriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruine Neuhäusl",
-                  "text": "Die Ruinen einer mittelalterlichen Burganlage bei Lukov mit schöner Aussicht.",
-                  "category": "historical",
-                  "coords": [
-                        15.906216,
-                        48.837267
-                  ]
-            },
-            {
                   "name": "Hardegger Warte",
                   "text": "Ein Aussichtspunkt mit Panoramablick über die Stadt Hardegg und ihre Burg.",
                   "category": "natural",
                   "coords": [
                         15.860989,
                         48.857428
-                  ]
-            },
-            {
-                  "name": "Überstieg",
-                  "text": "Ein Aussichtspunkt mit schöner Aussicht in der Nähe der Burg Hardegg.",
-                  "category": "natural",
-                  "coords": [
-                        15.892108,
-                        48.843482
                   ]
             }
       ],
@@ -86,15 +59,6 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         15.856877,
                         48.853735
-                  ]
-            },
-            {
-                  "name": "Ruine Kaja",
-                  "text": "Egy középkori hegyi vár romjai a Thayatal Nemzeti Parkban.",
-                  "category": "castle",
-                  "coords": [
-                        15.888264,
-                        48.826634
                   ]
             },
             {
@@ -125,30 +89,12 @@ export const austriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nový Hrádek",
-                  "text": "Egy középkori várkomplexum romjai Lukov közelében, szép kilátással.",
-                  "category": "historical",
-                  "coords": [
-                        15.906216,
-                        48.837267
-                  ]
-            },
-            {
                   "name": "Hardegger Warte",
                   "text": "Kilátópont, amely panorámás kilátást nyújt Hardegg városára és várára.",
                   "category": "natural",
                   "coords": [
                         15.860989,
                         48.857428
-                  ]
-            },
-            {
-                  "name": "Überstieg",
-                  "text": "Kilátópont szép kilátással a hardeggi vár közelében.",
-                  "category": "natural",
-                  "coords": [
-                        15.892108,
-                        48.843482
                   ]
             }
       ],
@@ -160,15 +106,6 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         15.856877,
                         48.853735
-                  ]
-            },
-            {
-                  "name": "Ruine Kaja",
-                  "text": "Ruinele unui castel medieval situat pe deal în Parcul Național Thayatal.",
-                  "category": "castle",
-                  "coords": [
-                        15.888264,
-                        48.826634
                   ]
             },
             {
@@ -199,30 +136,12 @@ export const austriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nový Hrádek",
-                  "text": "Ruinele unui complex de castel medieval lângă Lukov, oferind vederi pitorești.",
-                  "category": "historical",
-                  "coords": [
-                        15.906216,
-                        48.837267
-                  ]
-            },
-            {
                   "name": "Hardegger Warte",
                   "text": "Un punct de belvedere care oferă o panoramă asupra orașului Hardegg și a castelului său.",
                   "category": "natural",
                   "coords": [
                         15.860989,
                         48.857428
-                  ]
-            },
-            {
-                  "name": "Überstieg",
-                  "text": "Un punct de belvedere pitoresc situat în apropierea Castelului Hardegg.",
-                  "category": "natural",
-                  "coords": [
-                        15.892108,
-                        48.843482
                   ]
             }
       ],
@@ -234,15 +153,6 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         15.856877,
                         48.853735
-                  ]
-            },
-            {
-                  "name": "Ruine Kaja",
-                  "text": "The ruins of a medieval hilltop castle located within the Thayatal National Park.",
-                  "category": "castle",
-                  "coords": [
-                        15.888264,
-                        48.826634
                   ]
             },
             {
@@ -273,30 +183,12 @@ export const austriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nový Hrádek",
-                  "text": "The ruins of a medieval castle complex near Lukov, offering scenic views.",
-                  "category": "historical",
-                  "coords": [
-                        15.906216,
-                        48.837267
-                  ]
-            },
-            {
                   "name": "Hardegg vista",
                   "text": "A viewpoint offering a panoramic outlook over the town of Hardegg and its castle.",
                   "category": "natural",
                   "coords": [
                         15.860989,
                         48.857428
-                  ]
-            },
-            {
-                  "name": "Überstieg",
-                  "text": "A scenic viewpoint located in the vicinity of Hardegg Castle.",
-                  "category": "natural",
-                  "coords": [
-                        15.892108,
-                        48.843482
                   ]
             }
       ]
@@ -1761,39 +1653,12 @@ export const austriaHistoryV2: POI[] = [
     id: "austria-burg-griesstein-history-v2", "sights": {
       "de": [
             {
-                  "name": "Herrengrotte",
-                  "text": "Ein natürlicher Höhleneingang in der Nähe der Burgruine Griesstein.",
-                  "category": "landmark",
-                  "coords": [
-                        15.710686,
-                        47.809183
-                  ]
-            },
-            {
                   "name": "Kain-Zajitschek-Bankerl",
                   "text": "Ein malerischer Rastplatz und Aussichtspunkt mit Blick auf die umliegende Berglandschaft.",
                   "category": "natural",
                   "coords": [
                         15.694904,
                         47.763299
-                  ]
-            },
-            {
-                  "name": "Wasserrad",
-                  "text": "Ein traditionelles Wasserrad, das die historische industrielle Tätigkeit der Region widerspiegelt.",
-                  "category": "landmark",
-                  "coords": [
-                        15.70766,
-                        47.813869
-                  ]
-            },
-            {
-                  "name": "Besucherterrasse",
-                  "text": "Eine Besucherterrasse, die eine erhöhte Perspektive auf die historische Stätte und die Umgebung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        15.708792,
-                        47.813812
                   ]
             },
             {
@@ -1826,39 +1691,12 @@ export const austriaHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Herrengrotte",
-                  "text": "Természetes barlangbejárat a Griesstein várrom közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        15.710686,
-                        47.809183
-                  ]
-            },
-            {
                   "name": "Kain-Zajitschek-Bankerl",
                   "text": "Festői pihenőhely és kilátópont, amely kilátást nyújt a környező hegyvidéki tájra.",
                   "category": "natural",
                   "coords": [
                         15.694904,
                         47.763299
-                  ]
-            },
-            {
-                  "name": "Wasserrad",
-                  "text": "Hagyományos vízikerék, amely a környék történelmi ipari tevékenységét tükrözi.",
-                  "category": "landmark",
-                  "coords": [
-                        15.70766,
-                        47.813869
-                  ]
-            },
-            {
-                  "name": "Besucherterrasse",
-                  "text": "Látogatói terasz, amely emelt perspektívát kínál a történelmi helyszínre és a környékre.",
-                  "category": "natural",
-                  "coords": [
-                        15.708792,
-                        47.813812
                   ]
             },
             {
@@ -1891,39 +1729,12 @@ export const austriaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Herrengrotte",
-                  "text": "O intrare naturală într-o peșteră situată în apropierea ruinelor castelului Griesstein.",
-                  "category": "landmark",
-                  "coords": [
-                        15.710686,
-                        47.809183
-                  ]
-            },
-            {
                   "name": "Kain-Zajitschek-Bankerl",
                   "text": "O zonă de odihnă și punct de observare pitoresc care oferă panorame asupra peisajului montan din jur.",
                   "category": "natural",
                   "coords": [
                         15.694904,
                         47.763299
-                  ]
-            },
-            {
-                  "name": "Wasserrad",
-                  "text": "O roată de apă tradițională care reflectă activitatea industrială istorică a zonei.",
-                  "category": "landmark",
-                  "coords": [
-                        15.70766,
-                        47.813869
-                  ]
-            },
-            {
-                  "name": "Besucherterrasse",
-                  "text": "O terasă pentru vizitatori care oferă o perspectivă elevată asupra sitului istoric și a împrejurimilor.",
-                  "category": "natural",
-                  "coords": [
-                        15.708792,
-                        47.813812
                   ]
             },
             {
@@ -1956,39 +1767,12 @@ export const austriaHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Herrengrotte",
-                  "text": "A natural cave entrance located in the vicinity of the Griesstein castle ruins.",
-                  "category": "landmark",
-                  "coords": [
-                        15.710686,
-                        47.809183
-                  ]
-            },
-            {
                   "name": "Kain-Zajitschek-Bankerl",
                   "text": "A scenic rest area and viewpoint offering vistas of the surrounding mountain landscape.",
                   "category": "natural",
                   "coords": [
                         15.694904,
                         47.763299
-                  ]
-            },
-            {
-                  "name": "Wasserrad",
-                  "text": "A traditional water wheel reflecting the historical industrial activity of the area.",
-                  "category": "landmark",
-                  "coords": [
-                        15.70766,
-                        47.813869
-                  ]
-            },
-            {
-                  "name": "Besucherterrasse",
-                  "text": "A visitor terrace providing an elevated perspective of the historical site and surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        15.708792,
-                        47.813812
                   ]
             },
             {
@@ -4929,15 +4713,6 @@ export const austriaHistoryV2: POI[] = [
     id: "austria-burg-neudegg-history-v2", "sights": {
       "de": [
             {
-                  "name": "Schloss Mühlbach",
-                  "text": "Ein stattliches Barockschloss in Niederösterreich mit einer weitläufigen Parkanlage.",
-                  "category": "castle",
-                  "coords": [
-                        15.790342,
-                        48.518369
-                  ]
-            },
-            {
                   "name": "Leeberg",
                   "text": "Ein historischer Grabhügel in Niederösterreich, der als archäologisches Denkmal gilt.",
                   "category": "historical",
@@ -4993,15 +4768,6 @@ export const austriaHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Schloss Mühlbach",
-                  "text": "Impozáns barokk kastély Alsó-Ausztriában, kiterjedt parkkal.",
-                  "category": "castle",
-                  "coords": [
-                        15.790342,
-                        48.518369
-                  ]
-            },
             {
                   "name": "Leeberg",
                   "text": "Történelmi halomsír Alsó-Ausztriában, amely régészeti műemléknek számít.",
@@ -5059,15 +4825,6 @@ export const austriaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Schloss Mühlbach",
-                  "text": "Un castel baroc impunător din Austria Inferioară, cu un parc vast.",
-                  "category": "castle",
-                  "coords": [
-                        15.790342,
-                        48.518369
-                  ]
-            },
-            {
                   "name": "Leeberg",
                   "text": "Un tumul istoric din Austria Inferioară, considerat monument arheologic.",
                   "category": "historical",
@@ -5123,15 +4880,6 @@ export const austriaHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Schloss Mühlbach",
-                  "text": "A stately Baroque castle in Lower Austria with an extensive park.",
-                  "category": "castle",
-                  "coords": [
-                        15.790342,
-                        48.518369
-                  ]
-            },
             {
                   "name": "Leeberg",
                   "text": "A historical burial mound in Lower Austria, considered an archaeological monument.",
@@ -5269,15 +5017,6 @@ export const austriaHistoryV2: POI[] = [
                         15.471794,
                         48.306359
                   ]
-            },
-            {
-                  "name": "Waldbad",
-                  "text": "Ein Wasserpark im Wald in der Nähe der Burgruine Gansbach.",
-                  "category": "recreational",
-                  "coords": [
-                        15.425094,
-                        48.297226
-                  ]
             }
       ],
       "hu": [
@@ -5315,15 +5054,6 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         15.471794,
                         48.306359
-                  ]
-            },
-            {
-                  "name": "Waldbad",
-                  "text": "Erdei vízi park a gansbachi várrom közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        15.425094,
-                        48.297226
                   ]
             }
       ],
@@ -5363,15 +5093,6 @@ export const austriaHistoryV2: POI[] = [
                         15.471794,
                         48.306359
                   ]
-            },
-            {
-                  "name": "Waldbad",
-                  "text": "Un parc acvatic în pădure, situat lângă ruinele castelului Gansbach.",
-                  "category": "recreational",
-                  "coords": [
-                        15.425094,
-                        48.297226
-                  ]
             }
       ],
       "en": [
@@ -5409,15 +5130,6 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         15.471794,
                         48.306359
-                  ]
-            },
-            {
-                  "name": "Waldbad",
-                  "text": "A water park located in the forest near the Gansbach castle ruins.",
-                  "category": "recreational",
-                  "coords": [
-                        15.425094,
-                        48.297226
                   ]
             }
       ]
@@ -6513,15 +6225,6 @@ export const austriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruine Buchenstein",
-                  "text": "Die Überreste einer mittelalterlichen Burganlage in der Nähe der Ruine Kollmitz.",
-                  "category": "castle",
-                  "coords": [
-                        15.455816,
-                        48.855532
-                  ]
-            },
-            {
                   "name": "Schloss Karlstein",
                   "text": "Ein historisches Schloss in Niederösterreich, das hoch über der Thaya thront.",
                   "category": "castle",
@@ -6584,15 +6287,6 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         15.404167,
                         48.883374
-                  ]
-            },
-            {
-                  "name": "Ruine Buchenstein",
-                  "text": "Egy középkori vár maradványai a Kollmitz-várrom közelében.",
-                  "category": "castle",
-                  "coords": [
-                        15.455816,
-                        48.855532
                   ]
             },
             {
@@ -6661,15 +6355,6 @@ export const austriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruine Buchenstein",
-                  "text": "Rămășițele unei cetăți medievale în apropierea ruinelor castelului Kollmitz.",
-                  "category": "castle",
-                  "coords": [
-                        15.455816,
-                        48.855532
-                  ]
-            },
-            {
                   "name": "Schloss Karlstein",
                   "text": "Un castel istoric din Austria Inferioară, situat pe o stâncă deasupra râului Thaya.",
                   "category": "castle",
@@ -6732,15 +6417,6 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         15.404167,
                         48.883374
-                  ]
-            },
-            {
-                  "name": "Ruine Buchenstein",
-                  "text": "The remains of a medieval castle complex near the Kollmitz castle ruins.",
-                  "category": "castle",
-                  "coords": [
-                        15.455816,
-                        48.855532
                   ]
             },
             {
@@ -7017,15 +6693,6 @@ export const austriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kain-Zajitschek-Bankerl",
-                  "text": "Ein Rastplatz mit schöner Aussicht bei der Ruine Scharfstein.",
-                  "category": "natural",
-                  "coords": [
-                        15.694904,
-                        47.763299
-                  ]
-            },
-            {
                   "name": "Wasserrad",
                   "text": "Historisches Wasserrad nahe der Burgruine Scharfstein.",
                   "category": "landmark",
@@ -7088,15 +6755,6 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         15.665337,
                         47.814733
-                  ]
-            },
-            {
-                  "name": "Kain-Zajitschek-Bankerl",
-                  "text": "Pihenőhely szép kilátással a Scharfstein romok közelében.",
-                  "category": "natural",
-                  "coords": [
-                        15.694904,
-                        47.763299
                   ]
             },
             {
@@ -7165,15 +6823,6 @@ export const austriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kain-Zajitschek-Bankerl",
-                  "text": "Un loc de odihnă cu o vedere frumoasă lângă ruinele Scharfstein.",
-                  "category": "natural",
-                  "coords": [
-                        15.694904,
-                        47.763299
-                  ]
-            },
-            {
                   "name": "Wasserrad",
                   "text": "Roata de apă istorică lângă ruinele castelului Scharfstein.",
                   "category": "landmark",
@@ -7236,15 +6885,6 @@ export const austriaHistoryV2: POI[] = [
                   "coords": [
                         15.665337,
                         47.814733
-                  ]
-            },
-            {
-                  "name": "Kain-Zajitschek-Bankerl",
-                  "text": "A rest spot with a scenic view near the Scharfstein ruins.",
-                  "category": "natural",
-                  "coords": [
-                        15.694904,
-                        47.763299
                   ]
             },
             {
@@ -7656,39 +7296,12 @@ export const austriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Keltendorf Schwarzenbach",
-                  "text": "Ein rekonstruiertes Keltendorf in Schwarzenbach, das Einblicke in das Leben der Eisenzeit bietet.",
-                  "category": "museum",
-                  "coords": [
-                        16.362167,
-                        47.635692
-                  ]
-            },
-            {
-                  "name": "Pessenlehner Mühle",
-                  "text": "Ein lokales Museum in einer historischen Mühle in Schwarzenbach.",
-                  "category": "museum",
-                  "coords": [
-                        16.347815,
-                        47.637579
-                  ]
-            },
-            {
                   "name": "Naturpark-Badesee Kobersdorf",
                   "text": "Ein Naturbadesee in Kobersdorf, der Erholung im Grünen bietet.",
                   "category": "recreational",
                   "coords": [
                         16.364687,
                         47.596125
-                  ]
-            },
-            {
-                  "name": "Streichelzoo",
-                  "text": "Ein kleiner Streichelzoo in Schwarzenbach, ideal für Familien mit Kindern.",
-                  "category": "recreational",
-                  "coords": [
-                        16.362916,
-                        47.637578
                   ]
             }
       ],
@@ -7703,39 +7316,12 @@ export const austriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Keltendorf Schwarzenbach",
-                  "text": "Egy rekonstruált kelta falu Schwarzenbachban, amely bemutatja a vaskori életmódot.",
-                  "category": "museum",
-                  "coords": [
-                        16.362167,
-                        47.635692
-                  ]
-            },
-            {
-                  "name": "Pessenlehner Mühle",
-                  "text": "Helyi múzeum egy történelmi malom épületében Schwarzenbachban.",
-                  "category": "museum",
-                  "coords": [
-                        16.347815,
-                        47.637579
-                  ]
-            },
-            {
                   "name": "Naturpark-Badesee Kobersdorf",
                   "text": "Természetes fürdőtó Kobersdorfban, amely kikapcsolódást kínál a természetben.",
                   "category": "recreational",
                   "coords": [
                         16.364687,
                         47.596125
-                  ]
-            },
-            {
-                  "name": "Streichelzoo",
-                  "text": "Egy kis állatsimogató Schwarzenbachban, amely ideális kisgyermekes családoknak.",
-                  "category": "recreational",
-                  "coords": [
-                        16.362916,
-                        47.637578
                   ]
             }
       ],
@@ -7750,39 +7336,12 @@ export const austriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Keltendorf Schwarzenbach",
-                  "text": "Un sat celtic reconstituit în Schwarzenbach, care oferă informații despre viața din epoca fierului.",
-                  "category": "museum",
-                  "coords": [
-                        16.362167,
-                        47.635692
-                  ]
-            },
-            {
-                  "name": "Pessenlehner Mühle",
-                  "text": "Un muzeu local situat într-o moară istorică din Schwarzenbach.",
-                  "category": "museum",
-                  "coords": [
-                        16.347815,
-                        47.637579
-                  ]
-            },
-            {
                   "name": "Naturpark-Badesee Kobersdorf",
                   "text": "Un lac natural pentru scăldat în Kobersdorf, oferind relaxare în natură.",
                   "category": "recreational",
                   "coords": [
                         16.364687,
                         47.596125
-                  ]
-            },
-            {
-                  "name": "Streichelzoo",
-                  "text": "O mică grădină zoologică cu animale de mângâiat în Schwarzenbach, ideală pentru familii.",
-                  "category": "recreational",
-                  "coords": [
-                        16.362916,
-                        47.637578
                   ]
             }
       ],
@@ -7797,39 +7356,12 @@ export const austriaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Keltendorf Schwarzenbach",
-                  "text": "A reconstructed Celtic village in Schwarzenbach showcasing Iron Age life and history.",
-                  "category": "museum",
-                  "coords": [
-                        16.362167,
-                        47.635692
-                  ]
-            },
-            {
-                  "name": "Pessenlehner Mühle",
-                  "text": "A local museum housed in a historic mill in Schwarzenbach.",
-                  "category": "museum",
-                  "coords": [
-                        16.347815,
-                        47.637579
-                  ]
-            },
-            {
                   "name": "Naturpark-Badesee Kobersdorf",
                   "text": "A natural swimming lake in Kobersdorf providing recreation in a nature park setting.",
                   "category": "recreational",
                   "coords": [
                         16.364687,
                         47.596125
-                  ]
-            },
-            {
-                  "name": "Streichelzoo",
-                  "text": "A small petting zoo in Schwarzenbach, popular for families and children.",
-                  "category": "recreational",
-                  "coords": [
-                        16.362916,
-                        47.637578
                   ]
             }
       ]

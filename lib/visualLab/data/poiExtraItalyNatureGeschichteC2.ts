@@ -31,15 +31,6 @@ export const poiExtraItalyNatureGeschichteC2: POI[] = [
                         14.991551,
                         37.741351
                   ]
-            },
-            {
-                  "name": "Colata lavica 2019",
-                  "text": "Eine Formation aus erstarrter Lava, die bei einem der jüngsten Ausbrüche entstand.",
-                  "category": "landmark",
-                  "coords": [
-                        14.997871,
-                        37.737939
-                  ]
             }
       ],
       "hu": [
@@ -68,15 +59,6 @@ export const poiExtraItalyNatureGeschichteC2: POI[] = [
                   "coords": [
                         14.991551,
                         37.741351
-                  ]
-            },
-            {
-                  "name": "Colata lavica 2019",
-                  "text": "Egyik legutóbbi kitörés során keletkezett megkövesedett lávaformáció.",
-                  "category": "landmark",
-                  "coords": [
-                        14.997871,
-                        37.737939
                   ]
             }
       ],
@@ -107,15 +89,6 @@ export const poiExtraItalyNatureGeschichteC2: POI[] = [
                         14.991551,
                         37.741351
                   ]
-            },
-            {
-                  "name": "Colata lavica 2019",
-                  "text": "O formațiune de lavă solidificată creată în timpul unei erupții recente.",
-                  "category": "landmark",
-                  "coords": [
-                        14.997871,
-                        37.737939
-                  ]
             }
       ],
       "en": [
@@ -144,15 +117,6 @@ export const poiExtraItalyNatureGeschichteC2: POI[] = [
                   "coords": [
                         14.991551,
                         37.741351
-                  ]
-            },
-            {
-                  "name": "Lava stream 2019",
-                  "text": "A solidified lava formation created during a recent eruption.",
-                  "category": "landmark",
-                  "coords": [
-                        14.997871,
-                        37.737939
                   ]
             }
       ]

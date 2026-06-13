@@ -411,30 +411,12 @@ export const nauruEconomicV2: POI[] = [
     id: "nauru-denig-settlement-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Naoero Museum",
-                  "text": "Museum in Denigomodu zur Kultur und Geschichte Naurus.",
-                  "category": "museum",
-                  "coords": [
-                        166.914786,
-                        -0.545113
-                  ]
-            },
-            {
                   "name": "Command Ridge",
                   "text": "Der höchste Punkt von Nauru in Denigomodu, einst ein militärischer Aussichtspunkt.",
                   "category": "natural",
                   "coords": [
                         166.916919,
                         -0.530468
-                  ]
-            },
-            {
-                  "name": "Church of Christ the King",
-                  "text": "Die römisch-katholische Pfarrkirche für die Siedlung Denig auf Nauru.",
-                  "category": "landmark",
-                  "coords": [
-                        166.931583,
-                        -0.505813
                   ]
             },
             {
@@ -454,81 +436,9 @@ export const nauruEconomicV2: POI[] = [
                         166.909334,
                         -0.531736
                   ]
-            },
-            {
-                  "name": "Broken Down Cantilever Cranes",
-                  "text": "Rostende Überreste eines zerbrochenen Kantelkrans in Denig Settlement.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909328,
-                        -0.536405
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Japanisches Artilleriegeschütz aus dem Zweiten Weltkrieg in Denig Settlement nahe der Küste.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Prison",
-                  "text": "Überreste eines japanischen Gefangenenlagers in Denig Settlement.",
-                  "category": "landmark",
-                  "coords": [
-                        166.918033,
-                        -0.53624
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Aussichtspunkt mit Blick auf die Lagune von Denig Settlement aus.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
-                  ]
-            },
-            {
-                  "name": "Gun",
-                  "text": "Natürliche Felsformation namens 'Gun' in Denig Settlement.",
-                  "category": "natural",
-                  "coords": [
-                        166.921971,
-                        -0.548699
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Natürliche Bunkerformation nahe der Siedlung Denig.",
-                  "category": "natural",
-                  "coords": [
-                        166.925349,
-                        -0.51205
-                  ]
-            },
-            {
-                  "name": "Japanese WWII guns and bunker",
-                  "text": "Japanische Geschütze und Bunker aus dem Zweiten Weltkrieg in Denig Settlement.",
-                  "category": "landmark",
-                  "coords": [
-                        166.92438,
-                        -0.543957
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Naoero Museum",
-                  "text": "Múzeum Denigomoduban, amely Nauru kultúrájával és történelmével foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        166.914786,
-                        -0.545113
-                  ]
-            },
             {
                   "name": "Command Ridge",
                   "text": "Nauru legmagasabb pontja Denigomoduban, egykor katonai megfigyelőhely.",
@@ -536,15 +446,6 @@ export const nauruEconomicV2: POI[] = [
                   "coords": [
                         166.916919,
                         -0.530468
-                  ]
-            },
-            {
-                  "name": "Church of Christ the King",
-                  "text": "A Denig település római katolikus plébániatemploma Naurun.",
-                  "category": "landmark",
-                  "coords": [
-                        166.931583,
-                        -0.505813
                   ]
             },
             {
@@ -564,81 +465,9 @@ export const nauruEconomicV2: POI[] = [
                         166.909334,
                         -0.531736
                   ]
-            },
-            {
-                  "name": "Broken Down Cantilever Cranes",
-                  "text": "Egy eltört konzolos daru rozsdás maradványai Denig Settlementben.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909328,
-                        -0.536405
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Japán második világháborús tüzérségi löveg Denig Settlementben, a part közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Prison",
-                  "text": "Egy japán fogolytábor maradványai Denig Settlementben.",
-                  "category": "landmark",
-                  "coords": [
-                        166.918033,
-                        -0.53624
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Kilátóhely a lagúnára Denig Settlementből.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
-                  ]
-            },
-            {
-                  "name": "Gun",
-                  "text": "Természetes sziklaalakzat 'Gun' néven Denig Settlementben.",
-                  "category": "natural",
-                  "coords": [
-                        166.921971,
-                        -0.548699
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Természetes bunkerformáció Denig Settlement közelében.",
-                  "category": "natural",
-                  "coords": [
-                        166.925349,
-                        -0.51205
-                  ]
-            },
-            {
-                  "name": "Japanese WWII guns and bunker",
-                  "text": "Japán második világháborús ágyúk és bunker Denig Settlementben.",
-                  "category": "landmark",
-                  "coords": [
-                        166.92438,
-                        -0.543957
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Naoero Museum",
-                  "text": "Muzeu în Denigomodu dedicat culturii și istoriei insulei Nauru.",
-                  "category": "museum",
-                  "coords": [
-                        166.914786,
-                        -0.545113
-                  ]
-            },
             {
                   "name": "Command Ridge",
                   "text": "Cel mai înalt punct din Nauru, situat în Denigomodu, fost punct de observare militar.",
@@ -646,15 +475,6 @@ export const nauruEconomicV2: POI[] = [
                   "coords": [
                         166.916919,
                         -0.530468
-                  ]
-            },
-            {
-                  "name": "Church of Christ the King",
-                  "text": "Biserica parohială romano-catolică pentru așezarea Denig din Nauru.",
-                  "category": "landmark",
-                  "coords": [
-                        166.931583,
-                        -0.505813
                   ]
             },
             {
@@ -674,81 +494,9 @@ export const nauruEconomicV2: POI[] = [
                         166.909334,
                         -0.531736
                   ]
-            },
-            {
-                  "name": "Broken Down Cantilever Cranes",
-                  "text": "Vestigii ruginite ale unei macarale cantilever stricate în Denig Settlement.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909328,
-                        -0.536405
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Tun de artilerie japonez din al Doilea Război Mondial poziționat în Denig Settlement, lângă coastă.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Prison",
-                  "text": "Vestigii ale unei închisori japoneze în Denig Settlement.",
-                  "category": "landmark",
-                  "coords": [
-                        166.918033,
-                        -0.53624
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Punct de belvedere cu vedere asupra lagunei din Denig Settlement.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
-                  ]
-            },
-            {
-                  "name": "Gun",
-                  "text": "Formațiune naturală de stâncă numită 'Gun' în Denig Settlement.",
-                  "category": "natural",
-                  "coords": [
-                        166.921971,
-                        -0.548699
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Formațiune naturală de buncăr lângă Denig Settlement.",
-                  "category": "natural",
-                  "coords": [
-                        166.925349,
-                        -0.51205
-                  ]
-            },
-            {
-                  "name": "Japanese WWII guns and bunker",
-                  "text": "Tunuri și buncăr japoneze din al Doilea Război Mondial în Denig Settlement.",
-                  "category": "landmark",
-                  "coords": [
-                        166.92438,
-                        -0.543957
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Naoero Museum",
-                  "text": "Museum in Denigomodu showcasing the culture and history of Nauru.",
-                  "category": "museum",
-                  "coords": [
-                        166.914786,
-                        -0.545113
-                  ]
-            },
             {
                   "name": "Command Ridge",
                   "text": "The highest point of Nauru in Denigomodu, once a military observation point.",
@@ -756,15 +504,6 @@ export const nauruEconomicV2: POI[] = [
                   "coords": [
                         166.916919,
                         -0.530468
-                  ]
-            },
-            {
-                  "name": "Church of Christ the King",
-                  "text": "The Roman Catholic parish church for Denig Settlement community in Nauru.",
-                  "category": "landmark",
-                  "coords": [
-                        166.931583,
-                        -0.505813
                   ]
             },
             {
@@ -783,69 +522,6 @@ export const nauruEconomicV2: POI[] = [
                   "coords": [
                         166.909334,
                         -0.531736
-                  ]
-            },
-            {
-                  "name": "Broken Down Cantilever Cranes",
-                  "text": "Rusting remains of a broken cantilever crane in Denig Settlement.",
-                  "category": "landmark",
-                  "coords": [
-                        166.909328,
-                        -0.536405
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Gun",
-                  "text": "Japanese WWII artillery gun positioned in Denig Settlement near the coast.",
-                  "category": "landmark",
-                  "coords": [
-                        166.916396,
-                        -0.533437
-                  ]
-            },
-            {
-                  "name": "Japanese WWII Prison",
-                  "text": "Remains of a Japanese prison camp in Denig Settlement.",
-                  "category": "landmark",
-                  "coords": [
-                        166.918033,
-                        -0.53624
-                  ]
-            },
-            {
-                  "name": "Lagoon viewpoint",
-                  "text": "Viewpoint overlooking the lagoon from Denig Settlement.",
-                  "category": "natural",
-                  "coords": [
-                        166.923022,
-                        -0.534968
-                  ]
-            },
-            {
-                  "name": "Gun",
-                  "text": "Natural rock formation named 'Gun' in Denig Settlement.",
-                  "category": "natural",
-                  "coords": [
-                        166.921971,
-                        -0.548699
-                  ]
-            },
-            {
-                  "name": "Bunker",
-                  "text": "Natural bunker formation near Denig Settlement.",
-                  "category": "natural",
-                  "coords": [
-                        166.925349,
-                        -0.51205
-                  ]
-            },
-            {
-                  "name": "Japanese WWII guns and bunker",
-                  "text": "Japanese WWII guns and bunker in Denig Settlement.",
-                  "category": "landmark",
-                  "coords": [
-                        166.92438,
-                        -0.543957
                   ]
             }
       ]

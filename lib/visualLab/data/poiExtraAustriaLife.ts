@@ -896,42 +896,6 @@ export const poiExtraAustriaLife: POI[] = [
     id: "kid-landmark-wasserspiele-krimml-extra", "sights": {
       "de": [
             {
-                  "name": "WasserWunderWelt Krimml",
-                  "text": "Ein interaktives Besucherzentrum und Wasser-Themenpark bei den Krimmler Wasserfällen.",
-                  "category": "recreational",
-                  "coords": [
-                        12.169139,
-                        47.214304
-                  ]
-            },
-            {
-                  "name": "Schwimmbad Krimml",
-                  "text": "Ein Freibad in Krimml, das Erholung in der Gebirgslandschaft bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        12.176363,
-                        47.221017
-                  ]
-            },
-            {
-                  "name": "Krimmler Wasserfälle",
-                  "text": "Die höchsten Wasserfälle Österreichs im Nationalpark Hohe Tauern.",
-                  "category": "landmark",
-                  "coords": [
-                        12.170224,
-                        47.208376
-                  ]
-            },
-            {
-                  "name": "Plattenkogel",
-                  "text": "Der Plattenkogel ist ein Gipfel in den Hohen Tauern nahe den Krimmler Wasserfällen.",
-                  "category": "landmark",
-                  "coords": [
-                        12.135277,
-                        47.224859
-                  ]
-            },
-            {
                   "name": "Wildkarspitze",
                   "text": "Die Wildkarspitze ist ein Gipfel in den Krimmler Wasserwelten mit einem wilden Kar.",
                   "category": "landmark",
@@ -957,54 +921,9 @@ export const poiExtraAustriaLife: POI[] = [
                         12.207437,
                         47.184819
                   ]
-            },
-            {
-                  "name": "Achkogel",
-                  "text": "Ein markanter Berggipfel in den österreichischen Alpen bei Krimml.",
-                  "category": "landmark",
-                  "coords": [
-                        12.209925,
-                        47.212259
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "WasserWunderWelt Krimml",
-                  "text": "Interaktív látogatóközpont és vizes élménypark a Krimml-vízesésnél.",
-                  "category": "recreational",
-                  "coords": [
-                        12.169139,
-                        47.214304
-                  ]
-            },
-            {
-                  "name": "Schwimmbad Krimml",
-                  "text": "Krimmli szabadtéri strand, amely kikapcsolódást kínál a hegyi környezetben.",
-                  "category": "recreational",
-                  "coords": [
-                        12.176363,
-                        47.221017
-                  ]
-            },
-            {
-                  "name": "Krimmler Wasserfälle",
-                  "text": "Ausztria legmagasabb vízesése a Magas-Tauern Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        12.170224,
-                        47.208376
-                  ]
-            },
-            {
-                  "name": "Plattenkogel",
-                  "text": "A Plattenkogel egy csúcs a Hohe Tauernben, a Krimmli-vízesések közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        12.135277,
-                        47.224859
-                  ]
-            },
             {
                   "name": "Wildkarspitze",
                   "text": "A Wildkarspitze egy csúcs a Krimmli Vízi Világokban, vad kárral.",
@@ -1031,54 +950,9 @@ export const poiExtraAustriaLife: POI[] = [
                         12.207437,
                         47.184819
                   ]
-            },
-            {
-                  "name": "Achkogel",
-                  "text": "Jellegzetes hegycsúcs az osztrák Alpokban, Krimml közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        12.209925,
-                        47.212259
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "WasserWunderWelt Krimml",
-                  "text": "Un centru interactiv pentru vizitatori și parc tematic acvatic lângă Cascada Krimml.",
-                  "category": "recreational",
-                  "coords": [
-                        12.169139,
-                        47.214304
-                  ]
-            },
-            {
-                  "name": "Schwimmbad Krimml",
-                  "text": "O piscină în aer liber din Krimml, care oferă relaxare în peisajul montan.",
-                  "category": "recreational",
-                  "coords": [
-                        12.176363,
-                        47.221017
-                  ]
-            },
-            {
-                  "name": "Krimmler Wasserfälle",
-                  "text": "Cele mai înalte cascade din Austria, situate în Parcul Național Hohe Tauern.",
-                  "category": "landmark",
-                  "coords": [
-                        12.170224,
-                        47.208376
-                  ]
-            },
-            {
-                  "name": "Plattenkogel",
-                  "text": "Plattenkogel este un vârf în Hohe Tauern, lângă Cascadele Krimml.",
-                  "category": "landmark",
-                  "coords": [
-                        12.135277,
-                        47.224859
-                  ]
-            },
             {
                   "name": "Wildkarspitze",
                   "text": "Vârful Wildkarspitze este un pisc în Lumea Apelor Krimml, cu un circ glaciar sălbatic.",
@@ -1105,54 +979,9 @@ export const poiExtraAustriaLife: POI[] = [
                         12.207437,
                         47.184819
                   ]
-            },
-            {
-                  "name": "Achkogel",
-                  "text": "Un vârf muntos proeminent din Alpii Austrieci, lângă Krimml.",
-                  "category": "landmark",
-                  "coords": [
-                        12.209925,
-                        47.212259
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "WasserWunderWelt Krimml",
-                  "text": "An interactive visitor center and water theme park at the Krimml Waterfalls.",
-                  "category": "recreational",
-                  "coords": [
-                        12.169139,
-                        47.214304
-                  ]
-            },
-            {
-                  "name": "Schwimmbad Krimml",
-                  "text": "An outdoor swimming pool in Krimml offering relaxation in the mountain scenery.",
-                  "category": "recreational",
-                  "coords": [
-                        12.176363,
-                        47.221017
-                  ]
-            },
-            {
-                  "name": "Krimml Waterfalls",
-                  "text": "The highest waterfalls in Austria, located in the High Tauern National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        12.170224,
-                        47.208376
-                  ]
-            },
-            {
-                  "name": "Plattenkogel",
-                  "text": "Plattenkogel is a peak in the Hohe Tauern near the Krimml Waterfalls.",
-                  "category": "landmark",
-                  "coords": [
-                        12.135277,
-                        47.224859
-                  ]
-            },
             {
                   "name": "Wildkarspitze",
                   "text": "Wildkarspitze is a peak in the Krimml Water Worlds featuring a wild cirque.",
@@ -1178,15 +1007,6 @@ export const poiExtraAustriaLife: POI[] = [
                   "coords": [
                         12.207437,
                         47.184819
-                  ]
-            },
-            {
-                  "name": "Achkogel",
-                  "text": "A prominent mountain peak in the Austrian Alps near Krimml.",
-                  "category": "landmark",
-                  "coords": [
-                        12.209925,
-                        47.212259
                   ]
             }
       ]

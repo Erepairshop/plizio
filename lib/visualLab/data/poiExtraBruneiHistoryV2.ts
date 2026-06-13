@@ -220,15 +220,6 @@ export const poiExtraBruneiHistoryV2: POI[] = [
     id: "jame-asr-hassanil-bolkiah-history-v2", "sights": {
       "de": [
             {
-                  "name": "Footbridge Across Canal",
-                  "text": "Diese Fußgängerbrücke überspannt den Kanal und bietet Fußgängern einen sicheren Übergang und Blick auf das fließende Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        114.927937,
-                        4.905119
-                  ]
-            },
-            {
                   "name": "Jame'Asr Hassanil Bolkiah Mosque",
                   "text": "Die Jame'Asr Hassanil Bolkiah Moschee ist ein massives islamisches Gotteshaus, das für seine markanten goldenen Hauptkuppeln berühmt ist.",
                   "category": "religious",
@@ -293,15 +284,6 @@ export const poiExtraBruneiHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Footbridge Across Canal",
-                  "text": "Ez a gyalogoshíd a csatornán ível át, biztonságos átkelést és kilátást nyújtva a gyalogosoknak a folyó vízre.",
-                  "category": "natural",
-                  "coords": [
-                        114.927937,
-                        4.905119
-                  ]
-            },
             {
                   "name": "Jame'Asr Hassanil Bolkiah Mosque",
                   "text": "A Jame'Asr Hassanil Bolkiah mecset egy hatalmas iszlám istentiszteleti hely, amely híres jellegzetes arany főgyöngyeiről.",
@@ -368,15 +350,6 @@ export const poiExtraBruneiHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Footbridge Across Canal",
-                  "text": "Această pasarelă pietonală se întinde peste canal, oferind pietonilor o trecere sigură și vederi asupra apei curgătoare.",
-                  "category": "natural",
-                  "coords": [
-                        114.927937,
-                        4.905119
-                  ]
-            },
-            {
                   "name": "Jame'Asr Hassanil Bolkiah Mosque",
                   "text": "Moscheea Jame'Asr Hassanil Bolkiah este un lăcaș de cult islamic masiv, renumit pentru cupolele sale principale aurii distinctive.",
                   "category": "religious",
@@ -441,15 +414,6 @@ export const poiExtraBruneiHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Footbridge Across Canal",
-                  "text": "This pedestrian footbridge spans the canal, providing a safe crossing and views of the flowing water below.",
-                  "category": "natural",
-                  "coords": [
-                        114.927937,
-                        4.905119
-                  ]
-            },
             {
                   "name": "Jame'Asr Hassanil Bolkiah Mosque",
                   "text": "The Jame'Asr Hassanil Bolkiah Mosque is a massive Islamic place of worship famous for its striking golden main domes.",

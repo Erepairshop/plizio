@@ -1475,15 +1475,6 @@ export const poiExtraParaguayNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arts",
-                  "text": "Diese Kunstgalerie in der Nähe des Paraná-Flusses stellt zeitgenössische Werke regionaler Künstler aus.",
-                  "category": "museum",
-                  "coords": [
-                        -54.609234,
-                        -25.543373
-                  ]
-            },
-            {
                   "name": "Auditorio Municipal Mauro Cespedes",
                   "text": "Dieses große städtische Auditorium dient als wichtigster Veranstaltungsort für darstellende Künste in der Region am Paraná.",
                   "category": "cultural",
@@ -1825,15 +1816,6 @@ export const poiExtraParaguayNatureV2: POI[] = [
                   "coords": [
                         -54.558819,
                         -25.541038
-                  ]
-            },
-            {
-                  "name": "Arts",
-                  "text": "Ez a Paraná-folyó közelében található művészeti galéria regionális művészek kortárs alkotásait állítja ki.",
-                  "category": "museum",
-                  "coords": [
-                        -54.609234,
-                        -25.543373
                   ]
             },
             {
@@ -2181,15 +2163,6 @@ export const poiExtraParaguayNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arts",
-                  "text": "Această galerie de artă de lângă râul Paraná expune lucrări contemporane ale artiștilor regionali.",
-                  "category": "museum",
-                  "coords": [
-                        -54.609234,
-                        -25.543373
-                  ]
-            },
-            {
                   "name": "Auditorio Municipal Mauro Cespedes",
                   "text": "Acest mare auditoriu municipal servește ca locație principală pentru artele spectacolului în regiunea Paraná.",
                   "category": "cultural",
@@ -2531,15 +2504,6 @@ export const poiExtraParaguayNatureV2: POI[] = [
                   "coords": [
                         -54.558819,
                         -25.541038
-                  ]
-            },
-            {
-                  "name": "Arts",
-                  "text": "This art gallery near the Paraná River exhibits contemporary works by regional artists.",
-                  "category": "museum",
-                  "coords": [
-                        -54.609234,
-                        -25.543373
                   ]
             },
             {

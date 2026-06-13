@@ -780,24 +780,6 @@ export const polandReliefV2: POI[] = [
     id: "poland-pieniny-mountains-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Pieninen-Burg",
-                  "text": "Die Ruinen einer mittelalterlichen Burg in den Pieninen, die einst als Zufluchtsort diente.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Rotes Kloster",
-                  "text": "Ein ehemaliges Kartäuserkloster aus dem 14. Jahrhundert, das heute ein Museum beherbergt.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
                   "name": "Muzeum Uzdrowiska Szczawnica",
                   "text": "Ein Museum in Szczawnica, das die Geschichte des lokalen Kurwesens und Heilbads dokumentiert.",
                   "category": "museum",
@@ -816,33 +798,6 @@ export const polandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ninja Park",
-                  "text": "Ein aktiver Erlebnispark in den Pieninen mit Hindernisparcours und Herausforderungen für Kinder.",
-                  "category": "recreational",
-                  "coords": [
-                        20.415994,
-                        49.440811
-                  ]
-            },
-            {
-                  "name": "Wystawa Przyrodnicza PPN",
-                  "text": "Eine Naturausstellung, die sich auf die Flora und Fauna des Nationalparks Pieninen konzentriert.",
-                  "category": "museum",
-                  "coords": [
-                        20.419414,
-                        49.440268
-                  ]
-            },
-            {
-                  "name": "ABlandia",
-                  "text": "Ein Freizeitpark im Pieninen-Gebirge, der verschiedene Outdoor-Aktivitäten für Familien bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        20.414995,
-                        49.440683
-                  ]
-            },
-            {
                   "name": "Teatr letni",
                   "text": "Ein Sommertheater im Pieninen-Gebirge, das kulturelle Veranstaltungen im Freien präsentiert.",
                   "category": "cultural",
@@ -853,24 +808,6 @@ export const polandReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Zamek Pieniński",
-                  "text": "Egy középkori vár romjai a Pieninekben, amely egykor menedékhelyként szolgált.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Vöröskolostor",
-                  "text": "Egy 14. századi egykori karthauzi kolostor, amelyben ma múzeum működik.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
             {
                   "name": "Muzeum Uzdrowiska Szczawnica",
                   "text": "Szczawnicai múzeum, amely a helyi fürdőkultúra és gyógyfürdő történetét dokumentálja.",
@@ -890,33 +827,6 @@ export const polandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ninja Park",
-                  "text": "Aktív élménypark a Pieninekben akadálypályákkal és kihívásokkal gyerekeknek.",
-                  "category": "recreational",
-                  "coords": [
-                        20.415994,
-                        49.440811
-                  ]
-            },
-            {
-                  "name": "Wystawa Przyrodnicza PPN",
-                  "text": "A Pieniny Nemzeti Park élővilágát és természeti értékeit bemutató kiállítás.",
-                  "category": "museum",
-                  "coords": [
-                        20.419414,
-                        49.440268
-                  ]
-            },
-            {
-                  "name": "ABlandia",
-                  "text": "Szabadtéri kalandpark a Pieniny-hegységben, amely különféle családi kikapcsolódást kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        20.414995,
-                        49.440683
-                  ]
-            },
-            {
                   "name": "Teatr letni",
                   "text": "Szabadtéri nyári színház a Pieniny-hegységben, amely kulturális előadásoknak ad otthont.",
                   "category": "cultural",
@@ -927,24 +837,6 @@ export const polandReliefV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Zamek Pieniński",
-                  "text": "Ruinele unui castel medieval din munții Pieniny, care a servit cândva drept loc de refugiu.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Červený kláštor",
-                  "text": "O fostă mănăstire cartusiană din secolul al XIV-lea, care astăzi găzduiește un muzeu.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
             {
                   "name": "Muzeum Uzdrowiska Szczawnica",
                   "text": "Un muzeu în Szczawnica care documentează istoria stațiunii balneare și a băilor locale.",
@@ -964,33 +856,6 @@ export const polandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ninja Park",
-                  "text": "Un parc de aventură în munții Pieniny, cu trasee cu obstacole și provocări pentru copii.",
-                  "category": "recreational",
-                  "coords": [
-                        20.415994,
-                        49.440811
-                  ]
-            },
-            {
-                  "name": "Wystawa Przyrodnicza PPN",
-                  "text": "O expoziție naturală dedicată florei și faunei din Parcul Național Pieniny.",
-                  "category": "museum",
-                  "coords": [
-                        20.419414,
-                        49.440268
-                  ]
-            },
-            {
-                  "name": "ABlandia",
-                  "text": "Un parc de distracții în Munții Pieniny, oferind diverse activități în aer liber pentru familii.",
-                  "category": "recreational",
-                  "coords": [
-                        20.414995,
-                        49.440683
-                  ]
-            },
-            {
                   "name": "Teatr letni",
                   "text": "Un teatru de vară în Munții Pieniny, care găzduiește spectacole culturale în aer liber.",
                   "category": "cultural",
@@ -1001,24 +866,6 @@ export const polandReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Pieniny Castle",
-                  "text": "The ruins of a medieval castle in the Pieniny Mountains, which once served as a place of refuge.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Červený kláštor",
-                  "text": "A former 14th-century Carthusian monastery that today houses a museum.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
             {
                   "name": "Muzeum Uzdrowiska Szczawnica",
                   "text": "A museum in Szczawnica documenting the history of the local spa and health resort.",
@@ -1035,33 +882,6 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         20.4563,
                         49.418465
-                  ]
-            },
-            {
-                  "name": "Ninja Park",
-                  "text": "An active adventure park in the Pieniny Mountains with obstacle courses and challenges for children.",
-                  "category": "recreational",
-                  "coords": [
-                        20.415994,
-                        49.440811
-                  ]
-            },
-            {
-                  "name": "Wystawa Przyrodnicza PPN",
-                  "text": "A nature exhibition focusing on the flora and fauna of the Pieniny National Park.",
-                  "category": "museum",
-                  "coords": [
-                        20.419414,
-                        49.440268
-                  ]
-            },
-            {
-                  "name": "ABlandia",
-                  "text": "A theme park in the Pieniny Mountains offering various outdoor activities for families.",
-                  "category": "recreational",
-                  "coords": [
-                        20.414995,
-                        49.440683
                   ]
             },
             {
@@ -1122,48 +942,12 @@ export const polandReliefV2: POI[] = [
     id: "poland-holy-cross-mountains-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Muzeum Przyrodnicze Świętokrzyskiego Parku Narodowego",
-                  "text": "Ein Naturkundemuseum, das die Flora und Fauna des Nationalparks Heiligkreuz präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        21.052412,
-                        50.859386
-                  ]
-            },
-            {
                   "name": "Centrum \"Osada średniowieczna\"",
                   "text": "Ein Freilichtmuseum, das eine mittelalterliche Siedlung im Heiligkreuzgebirge rekonstruiert.",
                   "category": "museum",
                   "coords": [
                         21.020757,
                         50.863161
-                  ]
-            },
-            {
-                  "name": "Park Rozrywki w Hucie",
-                  "text": "Ein Familienfreizeitpark im Herzen des Heiligkreuzgebirges.",
-                  "category": "recreational",
-                  "coords": [
-                        21.022434,
-                        50.863774
-                  ]
-            },
-            {
-                  "name": "Blessenberg",
-                  "text": "Ein markanter Gipfel im Heiligkreuzgebirge, bekannt für seine religiöse Bedeutung.",
-                  "category": "landmark",
-                  "coords": [
-                        21.047537,
-                        50.860392
-                  ]
-            },
-            {
-                  "name": "Heiligkreuz",
-                  "text": "Bedeutende Reliquien des Heiligen Kreuzes, die in der Abtei auf dem Berg aufbewahrt werden.",
-                  "category": "landmark",
-                  "coords": [
-                        21.053384,
-                        50.859267
                   ]
             },
             {
@@ -1178,48 +962,12 @@ export const polandReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Muzeum Przyrodnicze Świętokrzyskiego Parku Narodowego",
-                  "text": "Természettudományi múzeum, amely a Szentkereszt Nemzeti Park élővilágát mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        21.052412,
-                        50.859386
-                  ]
-            },
-            {
                   "name": "Centrum \"Osada średniowieczna\"",
                   "text": "Szabadtéri múzeum, amely egy középkori települést mutat be a Szentkereszt-hegységben.",
                   "category": "museum",
                   "coords": [
                         21.020757,
                         50.863161
-                  ]
-            },
-            {
-                  "name": "Park Rozrywki w Hucie",
-                  "text": "Családi szabadidőpark a Szentkereszt-hegység szívében.",
-                  "category": "recreational",
-                  "coords": [
-                        21.022434,
-                        50.863774
-                  ]
-            },
-            {
-                  "name": "Łysa Góra",
-                  "text": "A Szentkereszt-hegység egyik nevezetes csúcsa, amely vallási jelentőségéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        21.047537,
-                        50.860392
-                  ]
-            },
-            {
-                  "name": "Świętokrzyskie Relikwie Drzewa Krzyża Świętego w Kaplicy Oleśnickich",
-                  "text": "A Szent Kereszt jelentős ereklyéi, amelyeket a hegyi apátságban őriznek.",
-                  "category": "landmark",
-                  "coords": [
-                        21.053384,
-                        50.859267
                   ]
             },
             {
@@ -1234,48 +982,12 @@ export const polandReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Muzeum Przyrodnicze Świętokrzyskiego Parku Narodowego",
-                  "text": "Un muzeu de istorie naturală care prezintă flora și fauna Parcului Național Munții Sfânta Cruce.",
-                  "category": "museum",
-                  "coords": [
-                        21.052412,
-                        50.859386
-                  ]
-            },
-            {
                   "name": "Centrum \"Osada średniowieczna\"",
                   "text": "Un muzeu în aer liber care reconstruiește o așezare medievală în Munții Sfânta Cruce.",
                   "category": "museum",
                   "coords": [
                         21.020757,
                         50.863161
-                  ]
-            },
-            {
-                  "name": "Park Rozrywki w Hucie",
-                  "text": "Un parc de distracții pentru familii situat în inima Munților Sfânta Cruce.",
-                  "category": "recreational",
-                  "coords": [
-                        21.022434,
-                        50.863774
-                  ]
-            },
-            {
-                  "name": "Łysa Góra",
-                  "text": "Un vârf proeminent din Munții Sfânta Cruce, cunoscut pentru importanța sa religioasă.",
-                  "category": "landmark",
-                  "coords": [
-                        21.047537,
-                        50.860392
-                  ]
-            },
-            {
-                  "name": "Świętokrzyskie Relikwie Drzewa Krzyża Świętego w Kaplicy Oleśnickich",
-                  "text": "Relicve importante ale Sfintei Cruci, păstrate în abația de pe munte.",
-                  "category": "landmark",
-                  "coords": [
-                        21.053384,
-                        50.859267
                   ]
             },
             {
@@ -1290,48 +1002,12 @@ export const polandReliefV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Muzeum Przyrodnicze Świętokrzyskiego Parku Narodowego",
-                  "text": "A natural history museum showcasing the flora and fauna of the Holy Cross National Park.",
-                  "category": "museum",
-                  "coords": [
-                        21.052412,
-                        50.859386
-                  ]
-            },
-            {
                   "name": "Centrum \"Osada średniowieczna\"",
                   "text": "An open-air museum reconstructing a medieval settlement in the Holy Cross Mountains.",
                   "category": "museum",
                   "coords": [
                         21.020757,
                         50.863161
-                  ]
-            },
-            {
-                  "name": "Park Rozrywki w Hucie",
-                  "text": "A family amusement park in the heart of the Holy Cross Mountains.",
-                  "category": "recreational",
-                  "coords": [
-                        21.022434,
-                        50.863774
-                  ]
-            },
-            {
-                  "name": "The Holy Cross",
-                  "text": "A prominent peak in the Holy Cross Mountains, known for its religious significance.",
-                  "category": "landmark",
-                  "coords": [
-                        21.047537,
-                        50.860392
-                  ]
-            },
-            {
-                  "name": "The Holy Cross Wood Relic",
-                  "text": "Significant relics of the Holy Cross kept in the abbey on the mountain.",
-                  "category": "landmark",
-                  "coords": [
-                        21.053384,
-                        50.859267
                   ]
             },
             {
@@ -1680,15 +1356,6 @@ export const polandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Małe Skrzyczne",
-                  "text": "Ein Gipfel in den Schlesischen Beskiden, der Teil des Skrzyczne-Massivs ist.",
-                  "category": "landmark",
-                  "coords": [
-                        19.012547,
-                        49.676639
-                  ]
-            },
-            {
                   "name": "Kościelec",
                   "text": "Der Kościelec ist ein Gipfel in den Schlesischen Beskiden.",
                   "category": "landmark",
@@ -1751,15 +1418,6 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         19.016389,
                         49.628637
-                  ]
-            },
-            {
-                  "name": "Małe Skrzyczne",
-                  "text": "A Sziléziai-Beszkidek egyik csúcsa, a Skrzyczne-masszívum része.",
-                  "category": "landmark",
-                  "coords": [
-                        19.012547,
-                        49.676639
                   ]
             },
             {
@@ -1828,15 +1486,6 @@ export const polandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Małe Skrzyczne",
-                  "text": "Un vârf în Beskizii Silezieni, făcând parte din masivul Skrzyczne.",
-                  "category": "landmark",
-                  "coords": [
-                        19.012547,
-                        49.676639
-                  ]
-            },
-            {
                   "name": "Kościelec",
                   "text": "Kościelec este un vârf în Beskizii Silezieni.",
                   "category": "landmark",
@@ -1899,15 +1548,6 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         19.016389,
                         49.628637
-                  ]
-            },
-            {
-                  "name": "Małe Skrzyczne",
-                  "text": "A peak in the Silesian Beskids, part of the Skrzyczne massif.",
-                  "category": "landmark",
-                  "coords": [
-                        19.012547,
-                        49.676639
                   ]
             },
             {
@@ -2049,24 +1689,6 @@ export const polandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kościelec",
-                  "text": "Berggipfel mit Wandermöglichkeiten in den Schlesischen Beskiden.",
-                  "category": "landmark",
-                  "coords": [
-                        19.020657,
-                        49.653074
-                  ]
-            },
-            {
-                  "name": "Malinowska Skała",
-                  "text": "Berggipfel bekannt für seine markanten Felsformationen.",
-                  "category": "landmark",
-                  "coords": [
-                        19.00122,
-                        49.655877
-                  ]
-            },
-            {
                   "name": "Skalite",
                   "text": "Malerischer Berggipfel in der Nähe von Szczyrk.",
                   "category": "landmark",
@@ -2120,24 +1742,6 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         19.012547,
                         49.676639
-                  ]
-            },
-            {
-                  "name": "Kościelec",
-                  "text": "Túrázási lehetőségeket kínáló hegycsúcs a Sziléziai-Beszkidekben.",
-                  "category": "landmark",
-                  "coords": [
-                        19.020657,
-                        49.653074
-                  ]
-            },
-            {
-                  "name": "Malinowska Skała",
-                  "text": "Jellegzetes sziklaalakzatairól ismert hegycsúcs.",
-                  "category": "landmark",
-                  "coords": [
-                        19.00122,
-                        49.655877
                   ]
             },
             {
@@ -2197,24 +1801,6 @@ export const polandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kościelec",
-                  "text": "Vârf muntos ce oferă oportunități de drumeție în Beskizii Silezieni.",
-                  "category": "landmark",
-                  "coords": [
-                        19.020657,
-                        49.653074
-                  ]
-            },
-            {
-                  "name": "Malinowska Skała",
-                  "text": "Vârf muntos faimos pentru formațiunile sale stâncoase distinctive.",
-                  "category": "landmark",
-                  "coords": [
-                        19.00122,
-                        49.655877
-                  ]
-            },
-            {
                   "name": "Skalite",
                   "text": "Vârf muntos pitoresc situat în vecinătatea localității Szczyrk.",
                   "category": "landmark",
@@ -2268,24 +1854,6 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         19.012547,
                         49.676639
-                  ]
-            },
-            {
-                  "name": "Kościelec",
-                  "text": "Mountain peak providing hiking opportunities in the Silesian Beskids.",
-                  "category": "landmark",
-                  "coords": [
-                        19.020657,
-                        49.653074
-                  ]
-            },
-            {
-                  "name": "Malinowska Skała",
-                  "text": "Mountain summit famous for its distinctive rock formations.",
-                  "category": "landmark",
-                  "coords": [
-                        19.00122,
-                        49.655877
                   ]
             },
             {
@@ -2346,57 +1914,12 @@ export const polandReliefV2: POI[] = [
     id: "poland-jura-upland-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Jaskinia Ciemna",
-                  "text": "Eine bedeutende archäologische Höhle mit paläolithischen Funden.",
-                  "category": "historical",
-                  "coords": [
-                        19.83175,
-                        50.196843
-                  ]
-            },
-            {
-                  "name": "Ekspozycja Przyrodnicza",
-                  "text": "Naturkundliche Ausstellung über die Flora und Fauna des Ojców-Nationalparks.",
-                  "category": "museum",
-                  "coords": [
-                        19.829362,
-                        50.209963
-                  ]
-            },
-            {
-                  "name": "Grodzisko na górze Okopy",
-                  "text": "Die Burgwallanlage auf dem Berg Okopy ist eine frühmittelalterliche Siedlung im Krakau-Tschenstochauer Jura.",
-                  "category": "historical",
-                  "coords": [
-                        19.836401,
-                        50.192155
-                  ]
-            },
-            {
-                  "name": "Boroniówka",
-                  "text": "Ein Mühlenmuseum mit einer historischen Wasser- und Sägemühle.",
-                  "category": "museum",
-                  "coords": [
-                        19.832501,
-                        50.222358
-                  ]
-            },
-            {
                   "name": "Jaskinia Nietoperzowa",
                   "text": "Die Jaskinia Nietoperzowa ist eine Kalksteinhöhle im Krakau-Tschenstochauer Jura.",
                   "category": "landmark",
                   "coords": [
                         19.774532,
                         50.19395
-                  ]
-            },
-            {
-                  "name": "Jaskinia Łokietka",
-                  "text": "Eine berühmte Höhle, in der sich König Władysław I. versteckt haben soll.",
-                  "category": "landmark",
-                  "coords": [
-                        19.818897,
-                        50.201633
                   ]
             },
             {
@@ -2411,57 +1934,12 @@ export const polandReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Jaskinia Ciemna",
-                  "text": "Jelentős régészeti barlang paleolit leletekkel.",
-                  "category": "historical",
-                  "coords": [
-                        19.83175,
-                        50.196843
-                  ]
-            },
-            {
-                  "name": "Ekspozycja Przyrodnicza",
-                  "text": "Természettudományi kiállítás az Ojcówi Nemzeti Park élővilágáról.",
-                  "category": "museum",
-                  "coords": [
-                        19.829362,
-                        50.209963
-                  ]
-            },
-            {
-                  "name": "Grodzisko na górze Okopy",
-                  "text": "Az Okopy-hegyi földvár egy kora középkori település a Krakkó-Częstochowai-fennsíkon.",
-                  "category": "historical",
-                  "coords": [
-                        19.836401,
-                        50.192155
-                  ]
-            },
-            {
-                  "name": "Boroniówka",
-                  "text": "Malommúzeum történelmi vízimalommal és fűrészmalommal.",
-                  "category": "museum",
-                  "coords": [
-                        19.832501,
-                        50.222358
-                  ]
-            },
-            {
                   "name": "Jaskinia Nietoperzowa",
                   "text": "A Jaskinia Nietoperzowa egy mészkőbarlang a Krakkó–Częstochowai-fennsíkon.",
                   "category": "landmark",
                   "coords": [
                         19.774532,
                         50.19395
-                  ]
-            },
-            {
-                  "name": "Jaskinia Łokietka",
-                  "text": "Híres barlang, ahol a hagyomány szerint I. Ulászló király rejtőzködött.",
-                  "category": "landmark",
-                  "coords": [
-                        19.818897,
-                        50.201633
                   ]
             },
             {
@@ -2476,57 +1954,12 @@ export const polandReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Jaskinia Ciemna",
-                  "text": "O peșteră arheologică importantă cu descoperiri paleolitice.",
-                  "category": "historical",
-                  "coords": [
-                        19.83175,
-                        50.196843
-                  ]
-            },
-            {
-                  "name": "Ekspozycja Przyrodnicza",
-                  "text": "Expoziție de istorie naturală despre flora și fauna Parcului Național Ojców.",
-                  "category": "museum",
-                  "coords": [
-                        19.829362,
-                        50.209963
-                  ]
-            },
-            {
-                  "name": "Grodzisko na górze Okopy",
-                  "text": "Fortificația de pe dealul Okopy este o așezare medievală timpurie în Podișul Jura Cracovia-Częstochowa.",
-                  "category": "historical",
-                  "coords": [
-                        19.836401,
-                        50.192155
-                  ]
-            },
-            {
-                  "name": "Boroniówka",
-                  "text": "Un muzeu al morăritului cu o moară de apă și un gater istoric.",
-                  "category": "museum",
-                  "coords": [
-                        19.832501,
-                        50.222358
-                  ]
-            },
-            {
                   "name": "Jaskinia Nietoperzowa",
                   "text": "Jaskinia Nietoperzowa este o peșteră de calcar în Podișul Cracovia-Częstochowa.",
                   "category": "landmark",
                   "coords": [
                         19.774532,
                         50.19395
-                  ]
-            },
-            {
-                  "name": "Jaskinia Łokietka",
-                  "text": "O peșteră celebră unde se spune că s-ar fi ascuns regele Władysław I.",
-                  "category": "landmark",
-                  "coords": [
-                        19.818897,
-                        50.201633
                   ]
             },
             {
@@ -2541,57 +1974,12 @@ export const polandReliefV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Jaskinia Ciemna",
-                  "text": "A significant archaeological cave with Paleolithic findings.",
-                  "category": "historical",
-                  "coords": [
-                        19.83175,
-                        50.196843
-                  ]
-            },
-            {
-                  "name": "Ekspozycja Przyrodnicza",
-                  "text": "Natural history exhibition on the flora and fauna of the Ojców National Park.",
-                  "category": "museum",
-                  "coords": [
-                        19.829362,
-                        50.209963
-                  ]
-            },
-            {
-                  "name": "Grodzisko na górze Okopy",
-                  "text": "The stronghold on Mount Okopy is an early medieval settlement in the Kraków-Częstochowa Upland.",
-                  "category": "historical",
-                  "coords": [
-                        19.836401,
-                        50.192155
-                  ]
-            },
-            {
-                  "name": "Boroniówka",
-                  "text": "A milling museum featuring a historic watermill and sawmill.",
-                  "category": "museum",
-                  "coords": [
-                        19.832501,
-                        50.222358
-                  ]
-            },
-            {
                   "name": "Jaskinia Nietoperzowa",
                   "text": "Jaskinia Nietoperzowa is a limestone cave in the Kraków-Częstochowa Upland.",
                   "category": "landmark",
                   "coords": [
                         19.774532,
                         50.19395
-                  ]
-            },
-            {
-                  "name": "Jaskinia Łokietka",
-                  "text": "A famous cave where King Władysław I is said to have hidden.",
-                  "category": "landmark",
-                  "coords": [
-                        19.818897,
-                        50.201633
                   ]
             },
             {
@@ -6193,15 +5581,6 @@ export const polandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centrum \"Osada średniowieczna\"",
-                  "text": "Ein Zentrum mit der Rekonstruktion einer mittelalterlichen Siedlung.",
-                  "category": "museum",
-                  "coords": [
-                        21.020757,
-                        50.863161
-                  ]
-            },
-            {
                   "name": "Park Dziedzictwa Gór Świętokrzyskich „Łysa Góra”",
                   "text": "Themenpark zur Geschichte und den Legenden des Heiligkreuzgebirges.",
                   "category": "museum",
@@ -6264,15 +5643,6 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         21.080276,
                         50.860372
-                  ]
-            },
-            {
-                  "name": "Centrum \"Osada średniowieczna\"",
-                  "text": "Középkori település rekonstrukcióját bemutató központ.",
-                  "category": "museum",
-                  "coords": [
-                        21.020757,
-                        50.863161
                   ]
             },
             {
@@ -6341,15 +5711,6 @@ export const polandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centrum \"Osada średniowieczna\"",
-                  "text": "Un centru care cuprinde reconstrucția unei așezări medievale.",
-                  "category": "museum",
-                  "coords": [
-                        21.020757,
-                        50.863161
-                  ]
-            },
-            {
                   "name": "Park Dziedzictwa Gór Świętokrzyskich „Łysa Góra”",
                   "text": "Parc tematic dedicat istoriei și legendelor Munților Świętokrzyskie.",
                   "category": "museum",
@@ -6412,15 +5773,6 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         21.080276,
                         50.860372
-                  ]
-            },
-            {
-                  "name": "Centrum \"Osada średniowieczna\"",
-                  "text": "A center featuring a reconstruction of a medieval settlement.",
-                  "category": "museum",
-                  "coords": [
-                        21.020757,
-                        50.863161
                   ]
             },
             {
@@ -7199,302 +6551,10 @@ export const polandReliefV2: POI[] = [
   },
   {
     id: "poland-pieniny-high-plateau-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Pieninen-Burg",
-                  "text": "Die Ruinen einer mittelalterlichen Burg in den Pieninen, gelegen am Berg Zamkowa Góra.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Rotes Kloster",
-                  "text": "Ein ehemaliges Kartäuserkloster aus dem 14. Jahrhundert in der Nähe des Dunajec-Durchbruchs.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
-                  "name": "Muzeum Uzdrowiska Szczawnica",
-                  "text": "Ein Museum in Szczawnica, das die Geschichte des lokalen Kurwesens dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        20.488383,
-                        49.429434
-                  ]
-            },
-            {
-                  "name": "Pawilon Wejściowy w Szczawnicy",
-                  "text": "Ein Ausstellungsgebäude in Szczawnica, das Informationen über die Region bietet.",
-                  "category": "museum",
-                  "coords": [
-                        20.4563,
-                        49.418465
-                  ]
-            },
-            {
-                  "name": "Ninja Park",
-                  "text": "Ein Abenteuer- und Freizeitpark in den Pieninen, der sportliche Aktivitäten bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        20.415994,
-                        49.440811
-                  ]
-            },
-            {
-                  "name": "Wystawa Przyrodnicza PPN",
-                  "text": "Eine naturkundliche Ausstellung über die Flora und Fauna des Pieninen-Nationalparks.",
-                  "category": "museum",
-                  "coords": [
-                        20.419414,
-                        49.440268
-                  ]
-            },
-            {
-                  "name": "ABlandia",
-                  "text": "Ein Familien-Freizeitpark in der Region Pieninen mit verschiedenen Attraktionen.",
-                  "category": "recreational",
-                  "coords": [
-                        20.414995,
-                        49.440683
-                  ]
-            },
-            {
-                  "name": "Teatr letni",
-                  "text": "Ein Freilichttheater in Szczawnica, das während der Sommermonate Aufführungen zeigt.",
-                  "category": "cultural",
-                  "coords": [
-                        20.430045,
-                        49.440701
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Zamek Pieniński",
-                  "text": "Egy középkori vár romjai a Pieninekben, a Zamkowa Góra hegyen.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Vöröskolostor",
-                  "text": "14. századi egykori kartúzi kolostor a Dunajec-áttörés közelében.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
-                  "name": "Muzeum Uzdrowiska Szczawnica",
-                  "text": "Szczawnica múzeuma, amely a helyi fürdőkultúra történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        20.488383,
-                        49.429434
-                  ]
-            },
-            {
-                  "name": "Pawilon Wejściowy w Szczawnicy",
-                  "text": "Kiállítóépület Szczawnicában, amely tájékoztatást nyújt a régióról.",
-                  "category": "museum",
-                  "coords": [
-                        20.4563,
-                        49.418465
-                  ]
-            },
-            {
-                  "name": "Ninja Park",
-                  "text": "Kaland- és szabadidőpark a Pieninekben, amely sportos kikapcsolódást kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        20.415994,
-                        49.440811
-                  ]
-            },
-            {
-                  "name": "Wystawa Przyrodnicza PPN",
-                  "text": "Természettudományi kiállítás a Pienineki Nemzeti Park növény- és állatvilágáról.",
-                  "category": "museum",
-                  "coords": [
-                        20.419414,
-                        49.440268
-                  ]
-            },
-            {
-                  "name": "ABlandia",
-                  "text": "Családi élménypark a Pieninek régióban, különféle attrakciókkal.",
-                  "category": "recreational",
-                  "coords": [
-                        20.414995,
-                        49.440683
-                  ]
-            },
-            {
-                  "name": "Teatr letni",
-                  "text": "Szabadtéri színház Szczawnicában, amely a nyári hónapokban tart előadásokat.",
-                  "category": "cultural",
-                  "coords": [
-                        20.430045,
-                        49.440701
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Zamek Pieniński",
-                  "text": "Ruinele unui castel medieval în Munții Pieniny, situate pe muntele Zamkowa Góra.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Červený kláštor",
-                  "text": "O fostă mănăstire cartusiană din secolul al XIV-lea, situată lângă cheile Dunajecului.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
-                  "name": "Muzeum Uzdrowiska Szczawnica",
-                  "text": "Un muzeu din Szczawnica care documentează istoria stațiunii balneare locale.",
-                  "category": "museum",
-                  "coords": [
-                        20.488383,
-                        49.429434
-                  ]
-            },
-            {
-                  "name": "Pawilon Wejściowy w Szczawnicy",
-                  "text": "Un pavilion expozițional în Szczawnica care oferă informații despre regiune.",
-                  "category": "museum",
-                  "coords": [
-                        20.4563,
-                        49.418465
-                  ]
-            },
-            {
-                  "name": "Ninja Park",
-                  "text": "Un parc de aventură și recreere în Munții Pieniny, oferind activități sportive.",
-                  "category": "recreational",
-                  "coords": [
-                        20.415994,
-                        49.440811
-                  ]
-            },
-            {
-                  "name": "Wystawa Przyrodnicza PPN",
-                  "text": "O expoziție naturală despre flora și fauna Parcului Național Pieniny.",
-                  "category": "museum",
-                  "coords": [
-                        20.419414,
-                        49.440268
-                  ]
-            },
-            {
-                  "name": "ABlandia",
-                  "text": "Un parc de distracții pentru familii în regiunea Pieniny, cu diverse atracții.",
-                  "category": "recreational",
-                  "coords": [
-                        20.414995,
-                        49.440683
-                  ]
-            },
-            {
-                  "name": "Teatr letni",
-                  "text": "Un teatru de vară în Szczawnica, care găzduiește spectacole în lunile de vară.",
-                  "category": "cultural",
-                  "coords": [
-                        20.430045,
-                        49.440701
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Pieniny Castle",
-                  "text": "The ruins of a medieval castle in the Pieniny Mountains, located on Zamkowa Góra mountain.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
-                  "name": "Červený kláštor",
-                  "text": "A 14th-century former Carthusian monastery located near the Dunajec Gorge.",
-                  "category": "religious",
-                  "coords": [
-                        20.417235,
-                        49.398667
-                  ]
-            },
-            {
-                  "name": "Muzeum Uzdrowiska Szczawnica",
-                  "text": "A museum in Szczawnica documenting the history of the local spa resort.",
-                  "category": "museum",
-                  "coords": [
-                        20.488383,
-                        49.429434
-                  ]
-            },
-            {
-                  "name": "Pawilon Wejściowy w Szczawnicy",
-                  "text": "An exhibition pavilion in Szczawnica providing information about the region.",
-                  "category": "museum",
-                  "coords": [
-                        20.4563,
-                        49.418465
-                  ]
-            },
-            {
-                  "name": "Ninja Park",
-                  "text": "An adventure and recreation park in the Pieniny Mountains offering sporting activities.",
-                  "category": "recreational",
-                  "coords": [
-                        20.415994,
-                        49.440811
-                  ]
-            },
-            {
-                  "name": "Wystawa Przyrodnicza PPN",
-                  "text": "A nature exhibition about the flora and fauna of the Pieniny National Park.",
-                  "category": "museum",
-                  "coords": [
-                        20.419414,
-                        49.440268
-                  ]
-            },
-            {
-                  "name": "ABlandia",
-                  "text": "A family amusement park in the Pieniny region with various attractions.",
-                  "category": "recreational",
-                  "coords": [
-                        20.414995,
-                        49.440683
-                  ]
-            },
-            {
-                  "name": "Teatr letni",
-                  "text": "A summer theatre in Szczawnica that hosts performances during the summer months.",
-                  "category": "cultural",
-                  "coords": [
-                        20.430045,
-                        49.440701
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "landmark",
     parent: "PL",
@@ -7543,42 +6603,6 @@ export const polandReliefV2: POI[] = [
     id: "poland-silesian-lowland-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Zamek Piastów Śląskich",
-                  "text": "Eine prachtvolle Renaissance-Residenz, die oft als Schlesischer Wawel bezeichnet wird.",
-                  "category": "castle",
-                  "coords": [
-                        17.466653,
-                        50.863811
-                  ]
-            },
-            {
-                  "name": "Pałacyk Löbecka",
-                  "text": "Ein historisches Schlossgebäude in der Region Brzeg.",
-                  "category": "castle",
-                  "coords": [
-                        17.465652,
-                        50.861204
-                  ]
-            },
-            {
-                  "name": "Kościół Świętych Apostołów Piotra i Pawła",
-                  "text": "Die gotischen Ruinen einer ehemaligen Franziskanerkirche aus dem 13. Jahrhundert.",
-                  "category": "historical",
-                  "coords": [
-                        17.472747,
-                        50.862645
-                  ]
-            },
-            {
-                  "name": "Komin tartaku braci Storch",
-                  "text": "Ein Industriedenkmal mit dem Schornstein des ehemaligen Sägewerks der Gebrüder Storch.",
-                  "category": "landmark",
-                  "coords": [
-                        17.456575,
-                        50.870928
-                  ]
-            },
-            {
                   "name": "Bohaterom Poległym za Ojczyznę",
                   "text": "Ein Denkmal für die Helden, die für ihr Vaterland gefallen sind.",
                   "category": "historical",
@@ -7586,54 +6610,9 @@ export const polandReliefV2: POI[] = [
                         17.486981,
                         50.858096
                   ]
-            },
-            {
-                  "name": "Brama Odrzańska",
-                  "text": "Ein Renaissance-Stadttor, das ursprünglich Teil der Brzeger Stadtbefestigung war.",
-                  "category": "fortress",
-                  "coords": [
-                        17.466586,
-                        50.865007
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Zamek Piastów Śląskich",
-                  "text": "Pompás reneszánsz rezidencia, amelyet gyakran sziléziai Wawelnek neveznek.",
-                  "category": "castle",
-                  "coords": [
-                        17.466653,
-                        50.863811
-                  ]
-            },
-            {
-                  "name": "Pałacyk Löbecka",
-                  "text": "Történelmi palotaépület Brzeg régiójában.",
-                  "category": "castle",
-                  "coords": [
-                        17.465652,
-                        50.861204
-                  ]
-            },
-            {
-                  "name": "Kościół Świętych Apostołów Piotra i Pawła",
-                  "text": "Egy egykori ferences templom 13. századi gótikus romjai.",
-                  "category": "historical",
-                  "coords": [
-                        17.472747,
-                        50.862645
-                  ]
-            },
-            {
-                  "name": "Komin tartaku braci Storch",
-                  "text": "Ipari örökségi helyszín a Storch testvérek egykori fűrészüzemének kéményével.",
-                  "category": "landmark",
-                  "coords": [
-                        17.456575,
-                        50.870928
-                  ]
-            },
             {
                   "name": "Bohaterom Poległym za Ojczyznę",
                   "text": "A hazáért elhunyt hősöknek szentelt emlékmű.",
@@ -7642,54 +6621,9 @@ export const polandReliefV2: POI[] = [
                         17.486981,
                         50.858096
                   ]
-            },
-            {
-                  "name": "Brama Odrzańska",
-                  "text": "Reneszánsz városkapu, amely eredetileg a brzeg-i erődítmények része volt.",
-                  "category": "fortress",
-                  "coords": [
-                        17.466586,
-                        50.865007
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Zamek Piastów Śląskich",
-                  "text": "O reședință renascentistă magnifică, numită adesea Wawel-ul silezian.",
-                  "category": "castle",
-                  "coords": [
-                        17.466653,
-                        50.863811
-                  ]
-            },
-            {
-                  "name": "Pałacyk Löbecka",
-                  "text": "O clădire istorică de palat situată în regiunea Brzeg.",
-                  "category": "castle",
-                  "coords": [
-                        17.465652,
-                        50.861204
-                  ]
-            },
-            {
-                  "name": "Kościół Świętych Apostołów Piotra i Pawła",
-                  "text": "Ruinele gotice ale unei foste biserici franciscane datând din secolul al XIII-lea.",
-                  "category": "historical",
-                  "coords": [
-                        17.472747,
-                        50.862645
-                  ]
-            },
-            {
-                  "name": "Komin tartaku braci Storch",
-                  "text": "Un sit de patrimoniu industrial care prezintă coșul fostei fabrici de cherestea a fraților Storch.",
-                  "category": "landmark",
-                  "coords": [
-                        17.456575,
-                        50.870928
-                  ]
-            },
             {
                   "name": "Bohaterom Poległym za Ojczyznę",
                   "text": "Un monument dedicat eroilor care au murit pentru patria lor.",
@@ -7698,54 +6632,9 @@ export const polandReliefV2: POI[] = [
                         17.486981,
                         50.858096
                   ]
-            },
-            {
-                  "name": "Brama Odrzańska",
-                  "text": "O poartă de oraș renascentistă care a făcut parte inițial din fortificațiile orașului Brzeg.",
-                  "category": "fortress",
-                  "coords": [
-                        17.466586,
-                        50.865007
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Brzeg Silesian Piasts' Castle",
-                  "text": "A magnificent Renaissance residence often called the Silesian Wawel.",
-                  "category": "castle",
-                  "coords": [
-                        17.466653,
-                        50.863811
-                  ]
-            },
-            {
-                  "name": "Pałacyk Löbecka",
-                  "text": "A historic palace building situated in the Brzeg region.",
-                  "category": "castle",
-                  "coords": [
-                        17.465652,
-                        50.861204
-                  ]
-            },
-            {
-                  "name": "Former Saint Peter and Paul Church",
-                  "text": "The Gothic ruins of a former Franciscan church dating back to the 13th century.",
-                  "category": "historical",
-                  "coords": [
-                        17.472747,
-                        50.862645
-                  ]
-            },
-            {
-                  "name": "Komin tartaku braci Storch",
-                  "text": "An industrial heritage site featuring the chimney of the Storch brothers' former sawmill.",
-                  "category": "landmark",
-                  "coords": [
-                        17.456575,
-                        50.870928
-                  ]
-            },
             {
                   "name": "Bohaterom Poległym za Ojczyznę",
                   "text": "A monument dedicated to the heroes who died for their country.",
@@ -7753,15 +6642,6 @@ export const polandReliefV2: POI[] = [
                   "coords": [
                         17.486981,
                         50.858096
-                  ]
-            },
-            {
-                  "name": "Brama Odrzańska",
-                  "text": "A Renaissance city gate that was originally part of the Brzeg fortifications.",
-                  "category": "fortress",
-                  "coords": [
-                        17.466586,
-                        50.865007
                   ]
             }
       ]

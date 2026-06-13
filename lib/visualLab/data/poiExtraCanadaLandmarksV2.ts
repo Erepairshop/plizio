@@ -6956,15 +6956,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
                         -75.663802,
                         45.507082
                   ]
-            },
-            {
-                  "name": "Parc des Grands-Jardins",
-                  "text": "Parc des Grands-Jardins ist ein Park mit großen formalen Gärten.",
-                  "category": "park",
-                  "coords": [
-                        -75.751023,
-                        45.506672
-                  ]
             }
       ],
       "hu": [
@@ -7290,15 +7281,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
                   "coords": [
                         -75.663802,
                         45.507082
-                  ]
-            },
-            {
-                  "name": "Parc des Grands-Jardins",
-                  "text": "Parc des Grands-Jardins egy park nagy formális kertekkel.",
-                  "category": "park",
-                  "coords": [
-                        -75.751023,
-                        45.506672
                   ]
             }
       ],
@@ -7626,15 +7608,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
                         -75.663802,
                         45.507082
                   ]
-            },
-            {
-                  "name": "Parc des Grands-Jardins",
-                  "text": "Parcul des Grands-Jardins este un parc cu grădini formale mari.",
-                  "category": "park",
-                  "coords": [
-                        -75.751023,
-                        45.506672
-                  ]
             }
       ],
       "en": [
@@ -7960,15 +7933,6 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
                   "coords": [
                         -75.663802,
                         45.507082
-                  ]
-            },
-            {
-                  "name": "Parc des Grands-Jardins",
-                  "text": "Parc des Grands-Jardins is a park with large formal gardens.",
-                  "category": "park",
-                  "coords": [
-                        -75.751023,
-                        45.506672
                   ]
             }
       ]

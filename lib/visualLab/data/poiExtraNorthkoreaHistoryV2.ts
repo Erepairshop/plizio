@@ -2977,15 +2977,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
     id: "northkorea-sungyang-seowon-history-v2", "sights": {
       "de": [
             {
-                  "name": "Namdaemun",
-                  "text": "Namdaemun in Kaesong ist ein historisches Steintor mit einem Holzpavillon, das einst als südlicher Eingang zur ummauerten Stadt diente.",
-                  "category": "historical",
-                  "coords": [
-                        126.55646,
-                        37.971914
-                  ]
-            },
-            {
                   "name": "Sungyang Seowon",
                   "text": "Sungyang Seowon ist eine alte konfuzianische Akademie in Kaesong, die sich durch traditionelle Holzarchitektur auszeichnet, die wissenschaftlichen Bestrebungen gewidmet ist.",
                   "category": "historical",
@@ -3005,15 +2996,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Namdaemun",
-                  "text": "A keszongi Namdemun egy történelmi kőkapu fapavilonnal, amely egykor a fallal körülvett város déli bejárataként szolgált.",
-                  "category": "historical",
-                  "coords": [
-                        126.55646,
-                        37.971914
-                  ]
-            },
             {
                   "name": "Sungyang Seowon",
                   "text": "A Szungjang Szovon egy ősi konfuciánus akadémia Keszongban, amely a tudományos törekvéseknek szentelt hagyományos faépítészettel büszkélkedhet.",
@@ -3035,15 +3017,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Namdaemun",
-                  "text": "Namdaemun din Kaesong este o poartă istorică din piatră, cu un pavilion din lemn, care servea cândva drept intrare sudică în orașul fortificat.",
-                  "category": "historical",
-                  "coords": [
-                        126.55646,
-                        37.971914
-                  ]
-            },
-            {
                   "name": "Sungyang Seowon",
                   "text": "Sungyang Seowon este o veche academie confuciană din Kaesong, având o arhitectură tradițională din lemn dedicată activităților academice.",
                   "category": "historical",
@@ -3063,15 +3036,6 @@ export const poiExtraNorthkoreaHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Namdaemun",
-                  "text": "Namdaemun in Kaesong is a historic stone gate with a wooden pavilion that once served as the southern entrance to the walled city.",
-                  "category": "historical",
-                  "coords": [
-                        126.55646,
-                        37.971914
-                  ]
-            },
             {
                   "name": "Sungyang Seowon",
                   "text": "Sungyang Seowon is an ancient Confucian academy in Kaesong, featuring traditional wooden architecture dedicated to scholarly pursuits.",

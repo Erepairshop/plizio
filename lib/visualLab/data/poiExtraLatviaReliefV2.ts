@@ -384,15 +384,6 @@ export const latviaReliefV2: POI[] = [
     id: "latvia-zilaiskalns-ridge-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Lapurgu senkapi",
-                  "text": "Eine antike Begräbnisstätte auf dem Zilaiskalns-Rücken, die die frühe Geschichte der Region widerspiegelt.",
-                  "category": "historical",
-                  "coords": [
-                        25.065342,
-                        57.618047
-                  ]
-            },
-            {
                   "name": "Lapurgu pilskalns",
                   "text": "Eine historische Burgwallanlage auf dem Zilaiskalns-Rücken, die in der Antike zur Verteidigung diente.",
                   "category": "historical",
@@ -430,15 +421,6 @@ export const latviaReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Lapurgu senkapi",
-                  "text": "A Zilaiskalns-gerincen található ősi temetkezési hely, amely a régió korai történelmét tükrözi.",
-                  "category": "historical",
-                  "coords": [
-                        25.065342,
-                        57.618047
-                  ]
-            },
             {
                   "name": "Lapurgu pilskalns",
                   "text": "Történelmi várhely a Zilaiskalns-gerincen, amely az ókorban védelmi célokat szolgált.",
@@ -478,15 +460,6 @@ export const latviaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Lapurgu senkapi",
-                  "text": "Un sit funerar antic situat pe creasta Zilaiskalns, reflectând istoria timpurie a regiunii.",
-                  "category": "historical",
-                  "coords": [
-                        25.065342,
-                        57.618047
-                  ]
-            },
-            {
                   "name": "Lapurgu pilskalns",
                   "text": "Un sit istoric de cetate pe creasta Zilaiskalns, folosit pentru apărare în antichitate.",
                   "category": "historical",
@@ -524,15 +497,6 @@ export const latviaReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Lapurgu senkapi",
-                  "text": "An ancient burial site located on the Zilaiskalns Ridge, reflecting the region's early history.",
-                  "category": "historical",
-                  "coords": [
-                        25.065342,
-                        57.618047
-                  ]
-            },
             {
                   "name": "Lapurgu pilskalns",
                   "text": "A historical hillfort site on the Zilaiskalns Ridge, used for defense in ancient times.",
@@ -906,15 +870,6 @@ export const latviaReliefV2: POI[] = [
     id: "latvia-galdnieki-hill-relief-v2", "sights": {
       "de": [
             {
-                  "name": "dabas liegums „Blažģa ezers”",
-                  "text": "Ein Naturschutzgebiet in Lettland, das zum Schutz des Ökosystems des Blažģis-Sees eingerichtet wurde.",
-                  "category": "natural",
-                  "coords": [
-                        21.710023,
-                        56.549818
-                  ]
-            },
-            {
                   "name": "Rīgas Zoodārza filiāle „Cīruļi”",
                   "text": "Eine Außenstelle des Rigaer Zoos mit Tiergehegen in natürlicher Umgebung.",
                   "category": "recreational",
@@ -925,15 +880,6 @@ export const latviaReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "dabas liegums „Blažģa ezers”",
-                  "text": "Lettországi természetvédelmi terület, amelyet a Blažģis-tó ökoszisztémájának védelmére hoztak létre.",
-                  "category": "natural",
-                  "coords": [
-                        21.710023,
-                        56.549818
-                  ]
-            },
             {
                   "name": "Rīgas Zoodārza filiāle „Cīruļi”",
                   "text": "A Rigai Állatkert kihelyezett részlege, amely természetes környezetben mutatja be az állatokat.",
@@ -946,15 +892,6 @@ export const latviaReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "dabas liegums „Blažģa ezers”",
-                  "text": "O rezervație naturală din Letonia, creată pentru a proteja ecosistemul lacului Blažģis.",
-                  "category": "natural",
-                  "coords": [
-                        21.710023,
-                        56.549818
-                  ]
-            },
-            {
                   "name": "Rīgas Zoodārza filiāle „Cīruļi”",
                   "text": "O filială a Grădinii Zoologice din Riga, care prezintă animale într-un cadru natural.",
                   "category": "recreational",
@@ -965,15 +902,6 @@ export const latviaReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "dabas liegums „Blažģa ezers”",
-                  "text": "A nature reserve in Latvia established to protect the ecosystem of Lake Blažģis.",
-                  "category": "natural",
-                  "coords": [
-                        21.710023,
-                        56.549818
-                  ]
-            },
             {
                   "name": "Rīgas Zoodārza filiāle „Cīruļi”",
                   "text": "A branch of the Riga Zoo offering animal exhibits in a natural setting.",
@@ -2596,15 +2524,6 @@ export const latviaReliefV2: POI[] = [
                         21.710023,
                         56.549818
                   ]
-            },
-            {
-                  "name": "Rīgas Zoodārza filiāle „Cīruļi”",
-                  "text": "Ein Außenstandort des Rigaer Zoos, der einheimische Tiere in einer natürlichen Umgebung zeigt.",
-                  "category": "recreational",
-                  "coords": [
-                        21.610995,
-                        56.570857
-                  ]
             }
       ],
       "hu": [
@@ -2615,15 +2534,6 @@ export const latviaReliefV2: POI[] = [
                   "coords": [
                         21.710023,
                         56.549818
-                  ]
-            },
-            {
-                  "name": "Rīgas Zoodārza filiāle „Cīruļi”",
-                  "text": "A Rigai Állatkert kihelyezett részlege, ahol őshonos állatokat mutatnak be természetes környezetben.",
-                  "category": "recreational",
-                  "coords": [
-                        21.610995,
-                        56.570857
                   ]
             }
       ],
@@ -2636,15 +2546,6 @@ export const latviaReliefV2: POI[] = [
                         21.710023,
                         56.549818
                   ]
-            },
-            {
-                  "name": "Rīgas Zoodārza filiāle „Cīruļi”",
-                  "text": "O filială a Grădinii Zoologice din Riga, care prezintă animale native într-un mediu natural.",
-                  "category": "recreational",
-                  "coords": [
-                        21.610995,
-                        56.570857
-                  ]
             }
       ],
       "en": [
@@ -2655,15 +2556,6 @@ export const latviaReliefV2: POI[] = [
                   "coords": [
                         21.710023,
                         56.549818
-                  ]
-            },
-            {
-                  "name": "Rīgas Zoodārza filiāle „Cīruļi”",
-                  "text": "A branch of the Riga Zoo showcasing native animals in a natural environment.",
-                  "category": "recreational",
-                  "coords": [
-                        21.610995,
-                        56.570857
                   ]
             }
       ]

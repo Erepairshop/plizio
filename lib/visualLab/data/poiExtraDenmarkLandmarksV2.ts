@@ -240,15 +240,6 @@ export const denmarkLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Odderhøj",
-                  "text": "Ein prähistorischer Grabhügel in der Umgebung von Mariager.",
-                  "category": "historical",
-                  "coords": [
-                        10.045258,
-                        56.644935
-                  ]
-            },
-            {
                   "name": "Hohøj",
                   "text": "Dänemarks größter Grabhügel aus der Bronzezeit mit beeindruckendem Ausblick.",
                   "category": "historical",
@@ -311,15 +302,6 @@ export const denmarkLandmarksV2: POI[] = [
                   "coords": [
                         9.979503,
                         56.654088
-                  ]
-            },
-            {
-                  "name": "Odderhøj",
-                  "text": "Történelem előtti sírhalom Mariager környékén.",
-                  "category": "historical",
-                  "coords": [
-                        10.045258,
-                        56.644935
                   ]
             },
             {
@@ -388,15 +370,6 @@ export const denmarkLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Odderhøj",
-                  "text": "Un tumul funerar preistoric situat în împrejurimile localității Mariager.",
-                  "category": "historical",
-                  "coords": [
-                        10.045258,
-                        56.644935
-                  ]
-            },
-            {
                   "name": "Hohøj",
                   "text": "Cel mai mare tumul funerar din epoca bronzului din Danemarca, oferind o vedere impresionantă.",
                   "category": "historical",
@@ -459,15 +432,6 @@ export const denmarkLandmarksV2: POI[] = [
                   "coords": [
                         9.979503,
                         56.654088
-                  ]
-            },
-            {
-                  "name": "Odderhøj",
-                  "text": "A prehistoric burial mound located in the surroundings of Mariager.",
-                  "category": "historical",
-                  "coords": [
-                        10.045258,
-                        56.644935
                   ]
             },
             {

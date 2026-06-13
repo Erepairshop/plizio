@@ -3223,24 +3223,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
                         35.697024,
                         -7.779707
                   ]
-            },
-            {
-                  "name": "Gangilonga Rock",
-                  "text": "Dieser massive Felsbrocken, was in der Hehe-Sprache „sprechender Stein“ bedeutet, ist der Ort, an dem Häuptling Mkwawa historisch sein Volk versammelte, um eine Strategie gegen die deutschen Kolonialtruppen zu entwickeln.",
-                  "category": "landmark",
-                  "coords": [
-                        35.712419,
-                        -7.769723
-                  ]
-            },
-            {
-                  "name": "Mkwawa Magic Site",
-                  "text": "Ein lokales Wildtiergehege in der Gegend von Iringa, das traditionelle Stammeslegenden um Mkwawa in seine Tierausstellungen einwebt.",
-                  "category": "recreational",
-                  "coords": [
-                        35.687511,
-                        -7.750651
-                  ]
             }
       ],
       "hu": [
@@ -3260,24 +3242,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
                   "coords": [
                         35.697024,
                         -7.779707
-                  ]
-            },
-            {
-                  "name": "Gangilonga Rock",
-                  "text": "Ez a hatalmas szikla, amelynek neve a Hehe nyelvben „beszélő követ” jelent, történelmileg az a hely, ahol Mkwawa törzsfőnök összegyűjtötte népét, hogy a német gyarmati erők elleni stratégiát kidolgozzák.",
-                  "category": "landmark",
-                  "coords": [
-                        35.712419,
-                        -7.769723
-                  ]
-            },
-            {
-                  "name": "Mkwawa Magic Site",
-                  "text": "Egy helyi vadvédelmi terület Iringa térségében, amely a hagyományos Mkwawa törzsi mondavilágot szövi bele az állatbemutatóiba.",
-                  "category": "recreational",
-                  "coords": [
-                        35.687511,
-                        -7.750651
                   ]
             }
       ],
@@ -3299,24 +3263,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
                         35.697024,
                         -7.779707
                   ]
-            },
-            {
-                  "name": "Gangilonga Rock",
-                  "text": "Însemnând „piatra vorbitoare” în limba Hehe, acest bolovan masiv este locul în care șeful Mkwawa și-a adunat din punct de vedere istoric poporul pentru a elabora strategii împotriva forțelor coloniale germane.",
-                  "category": "landmark",
-                  "coords": [
-                        35.712419,
-                        -7.769723
-                  ]
-            },
-            {
-                  "name": "Mkwawa Magic Site",
-                  "text": "O incintă locală cu animale sălbatice din zona Iringa care împletește tradițiile tribale Mkwawa cu expozițiile sale de animale.",
-                  "category": "recreational",
-                  "coords": [
-                        35.687511,
-                        -7.750651
-                  ]
             }
       ],
       "en": [
@@ -3336,24 +3282,6 @@ export const poiExtraTanzaniaLandmarksV2: POI[] = [
                   "coords": [
                         35.697024,
                         -7.779707
-                  ]
-            },
-            {
-                  "name": "Gangilonga Rock",
-                  "text": "Meaning \"talking stone\" in the Hehe language, this massive boulder is where Chief Mkwawa historically gathered his people to strategize against German colonial forces.",
-                  "category": "landmark",
-                  "coords": [
-                        35.712419,
-                        -7.769723
-                  ]
-            },
-            {
-                  "name": "Mkwawa Magic Site",
-                  "text": "A local wildlife enclosure in the Iringa area that weaves traditional Mkwawa tribal lore into its animal exhibits.",
-                  "category": "recreational",
-                  "coords": [
-                        35.687511,
-                        -7.750651
                   ]
             }
       ]

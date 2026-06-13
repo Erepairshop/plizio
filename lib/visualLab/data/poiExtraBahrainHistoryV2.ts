@@ -958,15 +958,6 @@ export const poiExtraBahrainHistoryV2: POI[] = [
     id: "dilmun-burial-mounds-history-v2", "sights": {
       "de": [
             {
-                  "name": "Burial mound",
-                  "text": "Eine antike kreisförmige Grabstruktur der Dilmun-Zivilisation, die in der Wüstenlandschaft verteilt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        50.515008,
-                        26.157578
-                  ]
-            },
-            {
                   "name": "Royal Mound 15",
                   "text": "Ein markantes prähistorisches Grab der Dilmun-Könige im archäologischen Feld von A'ali.",
                   "category": "historical",
@@ -991,15 +982,6 @@ export const poiExtraBahrainHistoryV2: POI[] = [
                   "coords": [
                         50.511396,
                         26.148171
-                  ]
-            },
-            {
-                  "name": "Royal Mound 2",
-                  "text": "Eine große, bedeutende antike Grabstätte im königlichen Bereich der Nekropole von A'ali.",
-                  "category": "historical",
-                  "coords": [
-                        50.514917,
-                        26.159921
                   ]
             },
             {
@@ -1041,15 +1023,6 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Burial mound",
-                  "text": "A Dilmun-civilizációból származó ősi kör alakú sírhely a sivatagi tájon.",
-                  "category": "landmark",
-                  "coords": [
-                        50.515008,
-                        26.157578
-                  ]
-            },
-            {
                   "name": "Royal Mound 15",
                   "text": "A Dilmun-királyi családhoz tartozó kiemelkedő őskori sír az A'ali régészeti lelőhelyen.",
                   "category": "historical",
@@ -1074,15 +1047,6 @@ export const poiExtraBahrainHistoryV2: POI[] = [
                   "coords": [
                         50.511396,
                         26.148171
-                  ]
-            },
-            {
-                  "name": "Royal Mound 2",
-                  "text": "Nagy, jelentős ókori temetkezési hely az A'ali nekropolisz királyi részén.",
-                  "category": "historical",
-                  "coords": [
-                        50.514917,
-                        26.159921
                   ]
             },
             {
@@ -1124,15 +1088,6 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Burial mound",
-                  "text": "O structură funerară circulară antică din civilizația Dilmun, răspândită în peisajul deșertic.",
-                  "category": "landmark",
-                  "coords": [
-                        50.515008,
-                        26.157578
-                  ]
-            },
-            {
                   "name": "Royal Mound 15",
                   "text": "Un mormânt preistoric proeminent aparținând regalității Dilmun din situl arheologic A'ali.",
                   "category": "historical",
@@ -1157,15 +1112,6 @@ export const poiExtraBahrainHistoryV2: POI[] = [
                   "coords": [
                         50.511396,
                         26.148171
-                  ]
-            },
-            {
-                  "name": "Royal Mound 2",
-                  "text": "Un sit funerar antic mare și semnificativ în secțiunea regală a necropolei A'ali.",
-                  "category": "historical",
-                  "coords": [
-                        50.514917,
-                        26.159921
                   ]
             },
             {
@@ -1207,15 +1153,6 @@ export const poiExtraBahrainHistoryV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Burial mound",
-                  "text": "An ancient circular grave structure from the Dilmun civilization scattered across the desert landscape.",
-                  "category": "landmark",
-                  "coords": [
-                        50.515008,
-                        26.157578
-                  ]
-            },
-            {
                   "name": "Royal Mound 15",
                   "text": "A prominent prehistoric tomb belonging to the Dilmun royalty in the A'ali archaeological field.",
                   "category": "historical",
@@ -1240,15 +1177,6 @@ export const poiExtraBahrainHistoryV2: POI[] = [
                   "coords": [
                         50.511396,
                         26.148171
-                  ]
-            },
-            {
-                  "name": "Royal Mound 2",
-                  "text": "A large, significant ancient burial site within the royal section of the A'ali necropolis.",
-                  "category": "historical",
-                  "coords": [
-                        50.514917,
-                        26.159921
                   ]
             },
             {

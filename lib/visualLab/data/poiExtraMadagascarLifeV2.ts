@@ -714,50 +714,10 @@ export const poiExtraMadagascarLifeV2: POI[] = [
   },
   {
     id: "maroantsetra-vanille-farm-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Old Lighthouse",
-                  "text": "Die zerfallenden Steinreste eines alten maritimen Leuchtfeuers stehen ruhig in der Nähe von Maroantsetra und bieten einen Einblick in die koloniale Vergangenheit.",
-                  "category": "historical",
-                  "coords": [
-                        49.737436,
-                        -15.440574
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Old Lighthouse",
-                  "text": "Egy régi tengeri világítótorony omladozó kőmaradványai állnak csendben Maroantsetra közelében, bepillantást engedve a gyarmati múltba.",
-                  "category": "historical",
-                  "coords": [
-                        49.737436,
-                        -15.440574
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Old Lighthouse",
-                  "text": "Rămășițele de piatră fărâmițate ale unui vechi far maritim stau liniștite lângă Maroantsetra, oferind o privire în trecutul său colonial.",
-                  "category": "historical",
-                  "coords": [
-                        49.737436,
-                        -15.440574
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Old Lighthouse",
-                  "text": "The crumbling stone remains of an old maritime beacon stand quietly near Maroantsetra, offering a glimpse into its colonial past.",
-                  "category": "historical",
-                  "coords": [
-                        49.737436,
-                        -15.440574
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "agriculture",
     parent: "MG-A",

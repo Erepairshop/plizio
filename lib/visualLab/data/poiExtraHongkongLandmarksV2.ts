@@ -15,15 +15,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tian Tan Buddha Statue",
-                  "text": "Diese monumentale, 1993 fertiggestellte Bronzestatue zeigt den Amoghasiddhi-Buddha, der auf einem Lotusthron ruht.",
-                  "category": "landmark",
-                  "coords": [
-                        113.905012,
-                        22.253959
-                  ]
-            },
-            {
                   "name": "Po Lin Monastery Hua Yan Pagoda",
                   "text": "Diese traditionelle, mehrstöckige Pagode steht als kunstvolles Denkmal auf dem Gelände des Po-Lin-Klosters.",
                   "category": "historical",
@@ -59,15 +50,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         113.906306,
                         22.25486
-                  ]
-            },
-            {
-                  "name": "Tian Tan Buddha Statue",
-                  "text": "Az 1993-ban elkészült monumentális bronzszobor az Amóghasziddhi Buddhát ábrázolja egy lótusztrónon pihenve.",
-                  "category": "landmark",
-                  "coords": [
-                        113.905012,
-                        22.253959
                   ]
             },
             {
@@ -109,15 +91,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tian Tan Buddha Statue",
-                  "text": "Finalizată în 1993, această statuie monumentală din bronz îl înfățișează pe Buddha Amoghasiddhi odihnindu-se pe un tron de lotus.",
-                  "category": "landmark",
-                  "coords": [
-                        113.905012,
-                        22.253959
-                  ]
-            },
-            {
                   "name": "Po Lin Monastery Hua Yan Pagoda",
                   "text": "Această pagodă tradițională cu mai multe etaje se înalță ca un monument ornamentat pe domeniul Mănăstirii Po Lin.",
                   "category": "historical",
@@ -153,15 +126,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         113.906306,
                         22.25486
-                  ]
-            },
-            {
-                  "name": "Tian Tan Buddha Statue",
-                  "text": "Completed in 1993, this monumental bronze statue depicts Amoghasiddhi Buddha resting on a lotus throne.",
-                  "category": "landmark",
-                  "coords": [
-                        113.905012,
-                        22.253959
                   ]
             },
             {
@@ -1851,15 +1815,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ting Kau Beach",
-                  "text": "Ein beliebter Sandstrand direkt unter der weitläufigen Infrastruktur der Ting Kau Bridge.",
-                  "category": "recreational",
-                  "coords": [
-                        114.079963,
-                        22.369048
-                  ]
-            },
-            {
                   "name": "Ting Kau Bridge",
                   "text": "Eine große Schrägseilbrücke über den Rambler Channel, die am 6. Mai 1998 fertiggestellt und eröffnet wurde.",
                   "category": "landmark",
@@ -1869,30 +1824,12 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lido Beach",
-                  "text": "Ein Sandstrand an der Küste mit Bademöglichkeiten und Blick auf die lokalen Brücken.",
-                  "category": "recreational",
-                  "coords": [
-                        114.07624,
-                        22.36779
-                  ]
-            },
-            {
                   "name": "Casam Beach",
                   "text": "Ein kleiner, malerischer Sandstrand an der Küste in der Nähe von Ting Kau.",
                   "category": "recreational",
                   "coords": [
                         114.074642,
                         22.367522
-                  ]
-            },
-            {
-                  "name": "Gemini Beaches",
-                  "text": "Ein Paar sandiger Küstenstrände, die den Einheimischen als Naherholungsgebiet am Meer dienen.",
-                  "category": "recreational",
-                  "coords": [
-                        114.069256,
-                        22.363948
                   ]
             },
             {
@@ -1943,15 +1880,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ting Kau Beach",
-                  "text": "Egy népszerű homokos strand közvetlenül a kiterjedt Ting Kau híd infrastruktúrája alatt.",
-                  "category": "recreational",
-                  "coords": [
-                        114.079963,
-                        22.369048
-                  ]
-            },
-            {
                   "name": "Ting Kau Bridge",
                   "text": "A Rambler-csatornán átívelő jelentős ferdekábeles híd, amelyet 1998. május 6-án fejeztek be és adtak át.",
                   "category": "landmark",
@@ -1961,30 +1889,12 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lido Beach",
-                  "text": "Egy homokos tengerparti úti cél fürdőzési lehetőséggel és kilátással a helyi hidakra.",
-                  "category": "recreational",
-                  "coords": [
-                        114.07624,
-                        22.36779
-                  ]
-            },
-            {
                   "name": "Casam Beach",
                   "text": "Egy kicsi, festői homokos strand a tengerpart mentén, Ting Kau közelében.",
                   "category": "recreational",
                   "coords": [
                         114.074642,
                         22.367522
-                  ]
-            },
-            {
-                  "name": "Gemini Beaches",
-                  "text": "Két homokos tengerparti strand, amelyek tengerparti rekreációs területet kínálnak a helyieknek.",
-                  "category": "recreational",
-                  "coords": [
-                        114.069256,
-                        22.363948
                   ]
             },
             {
@@ -2035,15 +1945,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ting Kau Beach",
-                  "text": "O plajă cu nisip populară situată chiar sub infrastructura vastă a Podului Ting Kau.",
-                  "category": "recreational",
-                  "coords": [
-                        114.079963,
-                        22.369048
-                  ]
-            },
-            {
                   "name": "Ting Kau Bridge",
                   "text": "Un pod hobanat major care traversează canalul Rambler, finalizat și inaugurat pe 6 mai 1998.",
                   "category": "landmark",
@@ -2053,30 +1954,12 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lido Beach",
-                  "text": "O destinație cu plajă de nisip de-a lungul coastei, oferind facilități de înot și vedere la podurile locale.",
-                  "category": "recreational",
-                  "coords": [
-                        114.07624,
-                        22.36779
-                  ]
-            },
-            {
                   "name": "Casam Beach",
                   "text": "O mică plajă pitorească de nisip situată de-a lungul coastei, lângă Ting Kau.",
                   "category": "recreational",
                   "coords": [
                         114.074642,
                         22.367522
-                  ]
-            },
-            {
-                  "name": "Gemini Beaches",
-                  "text": "O pereche de plaje nisipoase de coastă ce oferă zone de recreere la malul mării pentru localnici.",
-                  "category": "recreational",
-                  "coords": [
-                        114.069256,
-                        22.363948
                   ]
             },
             {
@@ -2127,15 +2010,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ting Kau Beach",
-                  "text": "A popular sandy beach situated just below the sprawling Ting Kau Bridge infrastructure.",
-                  "category": "recreational",
-                  "coords": [
-                        114.079963,
-                        22.369048
-                  ]
-            },
-            {
                   "name": "Ting Kau Bridge",
                   "text": "A major cable-stayed bridge spanning the Rambler Channel, completed and opened on May 6, 1998.",
                   "category": "landmark",
@@ -2145,30 +2019,12 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lido Beach",
-                  "text": "A sandy beach destination along the coast offering swimming facilities and views of the local bridges.",
-                  "category": "recreational",
-                  "coords": [
-                        114.07624,
-                        22.36779
-                  ]
-            },
-            {
                   "name": "Casam Beach",
                   "text": "A small, scenic sandy beach positioned along the coastline near Ting Kau.",
                   "category": "recreational",
                   "coords": [
                         114.074642,
                         22.367522
-                  ]
-            },
-            {
-                  "name": "Gemini Beaches",
-                  "text": "A pair of sandy coastal beaches offering recreational seaside areas for locals.",
-                  "category": "recreational",
-                  "coords": [
-                        114.069256,
-                        22.363948
                   ]
             },
             {
@@ -2256,15 +2112,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "South Tsing Yi SSSI",
-                  "text": "Ein geschütztes Naturschutzgebiet an der Südspitze der Insel Tsing Yi, das als Ort von besonderem wissenschaftlichem Interesse anerkannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        114.101528,
-                        22.337176
-                  ]
-            },
-            {
                   "name": "Stonecutters Bridge",
                   "text": "Eine monumentale Hoch-Schrägseilbrücke über den Rambler Channel, die am 20. Dezember 2009 eröffnet wurde.",
                   "category": "landmark",
@@ -2282,15 +2129,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.122304,
                         22.323192
-                  ]
-            },
-            {
-                  "name": "South Tsing Yi SSSI",
-                  "text": "A Tsing Yi sziget déli végén található védett természetvédelmi terület, amely különleges tudományos jelentőségű helyszínként elismert.",
-                  "category": "natural",
-                  "coords": [
-                        114.101528,
-                        22.337176
                   ]
             },
             {
@@ -2314,15 +2152,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "South Tsing Yi SSSI",
-                  "text": "O rezervație naturală protejată la capătul sudic al insulei Tsing Yi, recunoscută ca Sit de Interes Științific Special.",
-                  "category": "natural",
-                  "coords": [
-                        114.101528,
-                        22.337176
-                  ]
-            },
-            {
                   "name": "Stonecutters Bridge",
                   "text": "Un pod hobanat monumental la mare înălțime, care traversează canalul Rambler, deschis la 20 decembrie 2009.",
                   "category": "landmark",
@@ -2340,15 +2169,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.122304,
                         22.323192
-                  ]
-            },
-            {
-                  "name": "South Tsing Yi SSSI",
-                  "text": "A protected nature reserve at the southern end of Tsing Yi island, recognized as a Site of Special Scientific Interest.",
-                  "category": "natural",
-                  "coords": [
-                        114.101528,
-                        22.337176
                   ]
             },
             {
@@ -2544,30 +2364,12 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tao Heung Museum of Food Culture",
-                  "text": "Das Museum präsentiert die Geschichte der menschlichen kulinarischen Evolution und die lokale Gastronomiekultur.",
-                  "category": "museum",
-                  "coords": [
-                        114.196226,
-                        22.395973
-                  ]
-            },
-            {
                   "name": "Lutheran Theological Seminary",
                   "text": "Diese lutherische theologische Einrichtung liegt an einem bewaldeten Hang und bietet eine ruhige Umgebung für religiöse Studien.",
                   "category": "religious",
                   "coords": [
                         114.179839,
                         22.385062
-                  ]
-            },
-            {
-                  "name": "Kwei Tei Street Garden",
-                  "text": "Dieser Garten bietet eine grüne, landschaftlich gestaltete Erholungsoase inmitten der städtischen Umgebung.",
-                  "category": "park",
-                  "coords": [
-                        114.190885,
-                        22.399891
                   ]
             },
             {
@@ -2636,30 +2438,12 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tao Heung Museum of Food Culture",
-                  "text": "A múzeum az emberi kulináris evolúció történelmét és a helyi vendéglátás kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        114.196226,
-                        22.395973
-                  ]
-            },
-            {
                   "name": "Lutheran Theological Seminary",
                   "text": "A domboldalon elhelyezkedő evangélikus teológiai intézmény nyugodt környezetet biztosít a vallási tanulmányokhoz.",
                   "category": "religious",
                   "coords": [
                         114.179839,
                         22.385062
-                  ]
-            },
-            {
-                  "name": "Kwei Tei Street Garden",
-                  "text": "Ez a kert egy zöld, parkosított pihenőövezetet kínál a városi környezet sűrűjében.",
-                  "category": "park",
-                  "coords": [
-                        114.190885,
-                        22.399891
                   ]
             },
             {
@@ -2728,30 +2512,12 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tao Heung Museum of Food Culture",
-                  "text": "Acest muzeu prezintă istoria evoluției culinare umane și cultura gastronomică locală.",
-                  "category": "museum",
-                  "coords": [
-                        114.196226,
-                        22.395973
-                  ]
-            },
-            {
                   "name": "Lutheran Theological Seminary",
                   "text": "Situată pe un deal, această instituție teologică luterană oferă un mediu senin pentru studiul religios.",
                   "category": "religious",
                   "coords": [
                         114.179839,
                         22.385062
-                  ]
-            },
-            {
-                  "name": "Kwei Tei Street Garden",
-                  "text": "Această grădină oferă un spațiu verde amenajat pentru relaxare publică în mijlocul peisajului urban.",
-                  "category": "park",
-                  "coords": [
-                        114.190885,
-                        22.399891
                   ]
             },
             {
@@ -2820,30 +2586,12 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tao Heung Museum of Food Culture",
-                  "text": "The Tao Heung Foods of Mankind Museum showcases the history of human culinary evolution and local catering culture.",
-                  "category": "museum",
-                  "coords": [
-                        114.196226,
-                        22.395973
-                  ]
-            },
-            {
                   "name": "Lutheran Theological Seminary",
                   "text": "Set on a hillside, this Lutheran theological institution provides a serene environment for religious study.",
                   "category": "religious",
                   "coords": [
                         114.179839,
                         22.385062
-                  ]
-            },
-            {
-                  "name": "Kwei Tei Street Garden",
-                  "text": "Kwei Tei Street Garden offers a landscaped green space for public relaxation amidst the urban surroundings.",
-                  "category": "park",
-                  "coords": [
-                        114.190885,
-                        22.399891
                   ]
             },
             {
@@ -2967,15 +2715,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Po Kong Village Road Park",
-                  "text": "Dieser weitläufige öffentliche Park verfügt über einen erhöhten Radweg und Bildungseinrichtungen für erneuerbare Energien.",
-                  "category": "park",
-                  "coords": [
-                        114.204368,
-                        22.344215
-                  ]
-            },
-            {
                   "name": "Bun Ha Tung",
                   "text": "Ein traditionelles lokales Gotteshaus, eingebettet in die städtische Landschaft von Kowloon.",
                   "category": "religious",
@@ -3056,15 +2795,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.210477,
                         22.339038
-                  ]
-            },
-            {
-                  "name": "Po Kong Village Road Park",
-                  "text": "Ez a kiterjedt nyilvános park magasított kerékpárpályával és a megújuló energiákat bemutató oktatási létesítményekkel rendelkezik.",
-                  "category": "park",
-                  "coords": [
-                        114.204368,
-                        22.344215
                   ]
             },
             {
@@ -3151,15 +2881,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Po Kong Village Road Park",
-                  "text": "Acest parc public extins are o pistă de biciclete suspendată și facilități educaționale privind energia regenerabilă.",
-                  "category": "park",
-                  "coords": [
-                        114.204368,
-                        22.344215
-                  ]
-            },
-            {
                   "name": "Bun Ha Tung",
                   "text": "Un lăcaș de cult tradițional local cuibărit în peisajul urban din Kowloon.",
                   "category": "religious",
@@ -3240,15 +2961,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.210477,
                         22.339038
-                  ]
-            },
-            {
-                  "name": "Po Kong Village Road Park",
-                  "text": "This extensive public park features an elevated cycling track and renewable energy educational facilities.",
-                  "category": "park",
-                  "coords": [
-                        114.204368,
-                        22.344215
                   ]
             },
             {
@@ -3588,24 +3300,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Yuk Kwai Shan",
-                  "text": "Der auch als Mount Johnston bekannte, zerklüftete Gipfel erhebt sich steil über die Südküste der Insel Ap Lei Chau.",
-                  "category": "natural",
-                  "coords": [
-                        114.156753,
-                        22.238052
-                  ]
-            },
-            {
-                  "name": "Sham Wan",
-                  "text": "Die tiefe natürliche Bucht beherbergt den Aberdeen Marina Club und zahlreiche vor Anker liegende Luxusyachten.",
-                  "category": "landmark",
-                  "coords": [
-                        114.162176,
-                        22.244244
-                  ]
-            },
-            {
                   "name": "Wind Tower",
                   "text": "Der markant geformte Turm ahmt ein traditionelles Fischerbootsegel nach und leuchtet je nach lokaler Windgeschwindigkeit auf.",
                   "category": "landmark",
@@ -3630,24 +3324,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.154721,
                         22.247178
-                  ]
-            },
-            {
-                  "name": "Hung Shing Temple, Ap Lei Chau",
-                  "text": "Der traditionelle chinesische Tempel, der zum Schutz der örtlichen Fischer erbaut wurde, weist aufwendige Dachkeramik auf und ist direkt auf das Meer ausgerichtet.",
-                  "category": "religious",
-                  "coords": [
-                        114.155977,
-                        22.244809
-                  ]
-            },
-            {
-                  "name": "Ap Lei Chau Service Reservoir Playground",
-                  "text": "Der Freizeitspielplatz ist auf einem abgedeckten Wasserspeicher am Hang errichtet.",
-                  "category": "park",
-                  "coords": [
-                        114.155877,
-                        22.239966
                   ]
             },
             {
@@ -3770,24 +3446,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Yuk Kwai Shan",
-                  "text": "A Mount Johnston néven is ismert zord hegycsúcs meredeken emelkedik Ap Lei Chau szigetének déli partja fölé.",
-                  "category": "natural",
-                  "coords": [
-                        114.156753,
-                        22.238052
-                  ]
-            },
-            {
-                  "name": "Sham Wan",
-                  "text": "A mély természetes öböl ad otthont az Aberdeen Marina Clubnak és számos horgonyzó luxusjachtnak.",
-                  "category": "landmark",
-                  "coords": [
-                        114.162176,
-                        22.244244
-                  ]
-            },
-            {
                   "name": "Wind Tower",
                   "text": "A jellegzetes formájú torony egy hagyományos halászhajó vitorláját utánozza, és a helyi szélsebességnek megfelelően világít.",
                   "category": "landmark",
@@ -3812,24 +3470,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.154721,
                         22.247178
-                  ]
-            },
-            {
-                  "name": "Hung Shing Temple, Ap Lei Chau",
-                  "text": "A helyi halászok védelmére épült hagyományos kínai templom bonyolult tetőkerámiával rendelkezik, és közvetlenül a tengerre néz.",
-                  "category": "religious",
-                  "coords": [
-                        114.155977,
-                        22.244809
-                  ]
-            },
-            {
-                  "name": "Ap Lei Chau Service Reservoir Playground",
-                  "text": "A szabadidős játszótér egy fedett hegyoldali víztározó tetején épült.",
-                  "category": "park",
-                  "coords": [
-                        114.155877,
-                        22.239966
                   ]
             },
             {
@@ -3952,24 +3592,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Yuk Kwai Shan",
-                  "text": "Cunoscut și sub numele de Muntele Johnston, vârful accidentat se înalță abrupt deasupra coastei de sud a insulei Ap Lei Chau.",
-                  "category": "natural",
-                  "coords": [
-                        114.156753,
-                        22.238052
-                  ]
-            },
-            {
-                  "name": "Sham Wan",
-                  "text": "Golful natural adânc găzduiește Aberdeen Marina Club și numeroase iahturi de lux ancorate.",
-                  "category": "landmark",
-                  "coords": [
-                        114.162176,
-                        22.244244
-                  ]
-            },
-            {
                   "name": "Wind Tower",
                   "text": "Turnul cu o formă distinctă imită vela unei bărci de pescuit tradiționale și se luminează în funcție de viteza vântului local.",
                   "category": "landmark",
@@ -3994,24 +3616,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.154721,
                         22.247178
-                  ]
-            },
-            {
-                  "name": "Hung Shing Temple, Ap Lei Chau",
-                  "text": "Templul tradițional chinezesc, construit pentru a proteja pescarii locali, are ceramici complicate pe acoperiș și este orientat direct spre mare.",
-                  "category": "religious",
-                  "coords": [
-                        114.155977,
-                        22.244809
-                  ]
-            },
-            {
-                  "name": "Ap Lei Chau Service Reservoir Playground",
-                  "text": "Locul de joacă recreativ este construit deasupra unui rezervor de apă acoperit aflat pe versantul dealului.",
-                  "category": "park",
-                  "coords": [
-                        114.155877,
-                        22.239966
                   ]
             },
             {
@@ -4134,24 +3738,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Yuk Kwai Shan",
-                  "text": "Also known as Mount Johnston, the rugged peak rises steeply over the southern coast of Ap Lei Chau island.",
-                  "category": "natural",
-                  "coords": [
-                        114.156753,
-                        22.238052
-                  ]
-            },
-            {
-                  "name": "Sham Wan",
-                  "text": "The deep natural bay is home to the Aberdeen Marina Club and numerous moored luxury yachts.",
-                  "category": "landmark",
-                  "coords": [
-                        114.162176,
-                        22.244244
-                  ]
-            },
-            {
                   "name": "Wind Tower",
                   "text": "The distinctively shaped tower mimics a traditional fishing boat sail and illuminates according to the local wind speed.",
                   "category": "landmark",
@@ -4176,24 +3762,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.154721,
                         22.247178
-                  ]
-            },
-            {
-                  "name": "Hung Shing Temple, Ap Lei Chau",
-                  "text": "The traditional Chinese temple, built to protect local fishermen, features intricate roof ceramics and faces directly towards the sea.",
-                  "category": "religious",
-                  "coords": [
-                        114.155977,
-                        22.244809
-                  ]
-            },
-            {
-                  "name": "Ap Lei Chau Service Reservoir Playground",
-                  "text": "The recreational playground is built atop a covered hillside water service reservoir.",
-                  "category": "park",
-                  "coords": [
-                        114.155877,
-                        22.239966
                   ]
             },
             {
@@ -6069,15 +5637,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shek Lung Kung Viewing Point",
-                  "text": "Ein hoch gelegener Aussichtspunkt auf Shek Lung Kung, der einen weiten Blick über das umliegende Gelände bietet.",
-                  "category": "natural",
-                  "coords": [
-                        114.083311,
-                        22.378559
-                  ]
-            },
-            {
                   "name": "Hoi On Road Playground",
                   "text": "Ein öffentlicher Park im Freien an der Hoi On Road mit zugänglichen Spielgeräten für die Nachbarschaft.",
                   "category": "park",
@@ -6087,57 +5646,12 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cheung Wan Street Rest Garden",
-                  "text": "Ein kleiner städtischer Ruhegarten in der Cheung Wan Street, der grüne Sitzgelegenheiten zur lokalen Entspannung bietet.",
-                  "category": "park",
-                  "coords": [
-                        114.109015,
-                        22.351908
-                  ]
-            },
-            {
-                  "name": "Chung Mei Road Temporary Playground",
-                  "text": "Diese temporäre Parkanlage an der Chung Mei Road bietet Platz für Erholung im Freien und Spielbereiche für Familien.",
-                  "category": "park",
-                  "coords": [
-                        114.108081,
-                        22.35047
-                  ]
-            },
-            {
-                  "name": "Tsing Tak Tong Tat-more Temple",
-                  "text": "Eine traditionelle Kultstätte, die dem buddhistischen Mönch Bodhidharma gewidmet ist, der vor Ort als Tat-more bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        114.106481,
-                        22.351582
-                  ]
-            },
-            {
                   "name": "Tai Wong Ha Playground",
                   "text": "Ein mit Freizeiteinrichtungen ausgestatteter Nachbarschaftspark im Bereich des Dorfes Tai Wong Ha.",
                   "category": "park",
                   "coords": [
                         114.101998,
                         22.353853
-                  ]
-            },
-            {
-                  "name": "St. Thomas The Apostle Catholic Church",
-                  "text": "Diese moderne katholische Kirche ist eine Kultstätte zu Ehren des Apostels Thomas.",
-                  "category": "religious",
-                  "coords": [
-                        114.104181,
-                        22.354601
-                  ]
-            },
-            {
-                  "name": "Tsing Yi Park",
-                  "text": "Dieser weitläufige Stadtpark verfügt über einen ruhigen Ziersee und wunderschöne Pfirsichblütenbäume.",
-                  "category": "park",
-                  "coords": [
-                        114.105349,
-                        22.356043
                   ]
             },
             {
@@ -6192,33 +5706,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.112119,
                         22.367001
-                  ]
-            },
-            {
-                  "name": "Tsing Yi Northeast Park",
-                  "text": "Dieser bemerkenswerte Park in Hongkong bietet der Gemeinde moderne Erholungs- und Sporteinrichtungen.",
-                  "category": "park",
-                  "coords": [
-                        114.098691,
-                        22.362199
-                  ]
-            },
-            {
-                  "name": "Tsing Yi Road West Park",
-                  "text": "Dieser lokale Park in Hongkong bietet einen landschaftlich gestalteten Außenbereich für die Naherholung der Gemeinde.",
-                  "category": "park",
-                  "coords": [
-                        114.099145,
-                        22.352694
-                  ]
-            },
-            {
-                  "name": "Liu To Road Playground",
-                  "text": "Dieser lokale Park in Hongkong verfügt über einen speziellen Spielplatz für Kinder und Familien.",
-                  "category": "park",
-                  "coords": [
-                        114.097141,
-                        22.355735
                   ]
             },
             {
@@ -6305,15 +5792,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shek Lung Kung Viewing Point",
-                  "text": "A Shek Lung Kung egyik magaslati kilátópontja, amely kiterjedt panorámát nyújt a környező terepre.",
-                  "category": "natural",
-                  "coords": [
-                        114.083311,
-                        22.378559
-                  ]
-            },
-            {
                   "name": "Hoi On Road Playground",
                   "text": "A Hoi On Road mentén található szabadtéri nyilvános park, amely hozzáférhető játszótéri eszközöket kínál a környékbelieknek.",
                   "category": "park",
@@ -6323,57 +5801,12 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cheung Wan Street Rest Garden",
-                  "text": "Egy kis városi pihenőkert a Cheung Wan Streeten, amely zöldövezeti ülőhelyeket kínál a helyi kikapcsolódáshoz.",
-                  "category": "park",
-                  "coords": [
-                        114.109015,
-                        22.351908
-                  ]
-            },
-            {
-                  "name": "Chung Mei Road Temporary Playground",
-                  "text": "Ez a Chung Mei Roadon található ideiglenes park szabadtéri rekreációs teret és játszótereket biztosít a családok számára.",
-                  "category": "park",
-                  "coords": [
-                        114.108081,
-                        22.35047
-                  ]
-            },
-            {
-                  "name": "Tsing Tak Tong Tat-more Temple",
-                  "text": "A Bodhidharma buddhista szerzetesnek szentelt hagyományos istentiszteleti hely, akit a helyiek Tat-more néven ismernek.",
-                  "category": "religious",
-                  "coords": [
-                        114.106481,
-                        22.351582
-                  ]
-            },
-            {
                   "name": "Tai Wong Ha Playground",
                   "text": "Szabadidős létesítményekkel felszerelt környékbeli park a Tai Wong Ha faluban.",
                   "category": "park",
                   "coords": [
                         114.101998,
                         22.353853
-                  ]
-            },
-            {
-                  "name": "St. Thomas The Apostle Catholic Church",
-                  "text": "Ez a modern katolikus templom egy szentelt istentiszteleti hely, amely Szent Tamás apostolt tiszteli.",
-                  "category": "religious",
-                  "coords": [
-                        114.104181,
-                        22.354601
-                  ]
-            },
-            {
-                  "name": "Tsing Yi Park",
-                  "text": "Ez a kiterjedt városi park egy nyugodt dísztóval és gyönyörű őszibarackfákkal rendelkezik.",
-                  "category": "park",
-                  "coords": [
-                        114.105349,
-                        22.356043
                   ]
             },
             {
@@ -6428,33 +5861,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.112119,
                         22.367001
-                  ]
-            },
-            {
-                  "name": "Tsing Yi Northeast Park",
-                  "text": "Ez a nevezetes hongkongi park modern rekreációs és sportlétesítményeket kínál a közösség számára.",
-                  "category": "park",
-                  "coords": [
-                        114.098691,
-                        22.362199
-                  ]
-            },
-            {
-                  "name": "Tsing Yi Road West Park",
-                  "text": "Ez a helyi hongkongi park parkosított szabadtéri területet kínál a közösségi kikapcsolódáshoz.",
-                  "category": "park",
-                  "coords": [
-                        114.099145,
-                        22.352694
-                  ]
-            },
-            {
-                  "name": "Liu To Road Playground",
-                  "text": "Ez a helyi hongkongi park egy dedikált játszótérrel rendelkezik a gyermekek és a családok számára.",
-                  "category": "park",
-                  "coords": [
-                        114.097141,
-                        22.355735
                   ]
             },
             {
@@ -6541,15 +5947,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shek Lung Kung Viewing Point",
-                  "text": "Un punct de belvedere la mare altitudine pe Shek Lung Kung, care oferă priveliști vaste asupra terenului înconjurător.",
-                  "category": "natural",
-                  "coords": [
-                        114.083311,
-                        22.378559
-                  ]
-            },
-            {
                   "name": "Hoi On Road Playground",
                   "text": "Un parc public în aer liber situat de-a lungul străzii Hoi On, având echipamente de joacă accesibile pentru cartier.",
                   "category": "park",
@@ -6559,57 +5956,12 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cheung Wan Street Rest Garden",
-                  "text": "O mică grădină urbană de odihnă pe strada Cheung Wan, care oferă zone verzi cu bănci pentru relaxare locală.",
-                  "category": "park",
-                  "coords": [
-                        114.109015,
-                        22.351908
-                  ]
-            },
-            {
-                  "name": "Chung Mei Road Temporary Playground",
-                  "text": "Această facilitate de parc temporară de pe Chung Mei Road oferă spațiu de recreere în aer liber și zone de joacă pentru familii.",
-                  "category": "park",
-                  "coords": [
-                        114.108081,
-                        22.35047
-                  ]
-            },
-            {
-                  "name": "Tsing Tak Tong Tat-more Temple",
-                  "text": "Un loc tradițional de cult dedicat călugărului budist Bodhidharma, cunoscut local sub numele de Tat-more.",
-                  "category": "religious",
-                  "coords": [
-                        114.106481,
-                        22.351582
-                  ]
-            },
-            {
                   "name": "Tai Wong Ha Playground",
                   "text": "Un parc de cartier dotat cu facilități de recreere, situat în zona satului Tai Wong Ha.",
                   "category": "park",
                   "coords": [
                         114.101998,
                         22.353853
-                  ]
-            },
-            {
-                  "name": "St. Thomas The Apostle Catholic Church",
-                  "text": "Această biserică catolică modernă este un loc de cult dedicat Sfântului Apostol Toma.",
-                  "category": "religious",
-                  "coords": [
-                        114.104181,
-                        22.354601
-                  ]
-            },
-            {
-                  "name": "Tsing Yi Park",
-                  "text": "Acest parc urban extins are un lac ornamental liniștit și piersici frumoși înfloriți.",
-                  "category": "park",
-                  "coords": [
-                        114.105349,
-                        22.356043
                   ]
             },
             {
@@ -6664,33 +6016,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.112119,
                         22.367001
-                  ]
-            },
-            {
-                  "name": "Tsing Yi Northeast Park",
-                  "text": "Acest parc notabil din Hong Kong oferă facilități moderne de recreere și sport pentru comunitate.",
-                  "category": "park",
-                  "coords": [
-                        114.098691,
-                        22.362199
-                  ]
-            },
-            {
-                  "name": "Tsing Yi Road West Park",
-                  "text": "Acest parc local din Hong Kong oferă o zonă în aer liber amenajată pentru recreerea comunității.",
-                  "category": "park",
-                  "coords": [
-                        114.099145,
-                        22.352694
-                  ]
-            },
-            {
-                  "name": "Liu To Road Playground",
-                  "text": "Acest parc local din Hong Kong are o zonă de joacă dedicată copiilor și familiilor.",
-                  "category": "park",
-                  "coords": [
-                        114.097141,
-                        22.355735
                   ]
             },
             {
@@ -6777,15 +6102,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shek Lung Kung Viewing Point",
-                  "text": "A high-altitude viewing point on Shek Lung Kung that provides expansive vistas over the surrounding terrain.",
-                  "category": "natural",
-                  "coords": [
-                        114.083311,
-                        22.378559
-                  ]
-            },
-            {
                   "name": "Hoi On Road Playground",
                   "text": "An outdoor public park located along Hoi On Road, featuring accessible play equipment for the neighborhood.",
                   "category": "park",
@@ -6795,57 +6111,12 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cheung Wan Street Rest Garden",
-                  "text": "A small urban rest garden on Cheung Wan Street that offers green seating areas for local relaxation.",
-                  "category": "park",
-                  "coords": [
-                        114.109015,
-                        22.351908
-                  ]
-            },
-            {
-                  "name": "Chung Mei Road Temporary Playground",
-                  "text": "This temporary park facility on Chung Mei Road provides outdoor recreation space and play areas for families.",
-                  "category": "park",
-                  "coords": [
-                        114.108081,
-                        22.35047
-                  ]
-            },
-            {
-                  "name": "Tsing Tak Tong Tat-more Temple",
-                  "text": "A traditional place of worship dedicated to the Buddhist monk Bodhidharma, known locally as Tat-more.",
-                  "category": "religious",
-                  "coords": [
-                        114.106481,
-                        22.351582
-                  ]
-            },
-            {
                   "name": "Tai Wong Ha Playground",
                   "text": "A neighborhood park equipped with recreational amenities, situated in the Tai Wong Ha village area.",
                   "category": "park",
                   "coords": [
                         114.101998,
                         22.353853
-                  ]
-            },
-            {
-                  "name": "St. Thomas The Apostle Catholic Church",
-                  "text": "This modern Catholic church is a dedicated place of worship honoring St. Thomas the Apostle.",
-                  "category": "religious",
-                  "coords": [
-                        114.104181,
-                        22.354601
-                  ]
-            },
-            {
-                  "name": "Tsing Yi Park",
-                  "text": "This expansive urban park features a serene ornamental lake and beautiful peach blossom trees.",
-                  "category": "park",
-                  "coords": [
-                        114.105349,
-                        22.356043
                   ]
             },
             {
@@ -6900,33 +6171,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.112119,
                         22.367001
-                  ]
-            },
-            {
-                  "name": "Tsing Yi Northeast Park",
-                  "text": "This notable park in Hong Kong provides modern recreational and sports facilities for the community.",
-                  "category": "park",
-                  "coords": [
-                        114.098691,
-                        22.362199
-                  ]
-            },
-            {
-                  "name": "Tsing Yi Road West Park",
-                  "text": "This local park in Hong Kong offers a landscaped outdoor area for community recreation.",
-                  "category": "park",
-                  "coords": [
-                        114.099145,
-                        22.352694
-                  ]
-            },
-            {
-                  "name": "Liu To Road Playground",
-                  "text": "This local park in Hong Kong features a dedicated playground area for children and families.",
-                  "category": "park",
-                  "coords": [
-                        114.097141,
-                        22.355735
                   ]
             },
             {
@@ -7266,39 +6510,12 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Heavenly Book Wall",
-                  "text": "Die Heavenly Book Wall ist eine kulturelle Attraktion unter freiem Himmel in Tung Chung.",
-                  "category": "landmark",
-                  "coords": [
-                        113.959922,
-                        22.280728
-                  ]
-            },
-            {
-                  "name": "Pok To Yan",
-                  "text": "Pok To Yan ist ein markanter Berggipfel, der anspruchsvolle Wanderungen bietet und die Gegend um Tung Chung überblickt.",
-                  "category": "natural",
-                  "coords": [
-                        113.956861,
-                        22.281937
-                  ]
-            },
-            {
                   "name": "Tat Tung Road Garden",
                   "text": "Der Tat Tung Road Garden ist ein angelegter Stadtpark, der einen grünen Rückzugsort entlang der Tat Tung Road bietet.",
                   "category": "park",
                   "coords": [
                         113.938422,
                         22.290743
-                  ]
-            },
-            {
-                  "name": "Man Tung Road Park",
-                  "text": "Der Man Tung Road Park ist ein städtisches Erholungsgebiet mit Sportanlagen und Grünflächen in Tung Chung.",
-                  "category": "park",
-                  "coords": [
-                        113.941117,
-                        22.291859
                   ]
             },
             {
@@ -7340,39 +6557,12 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Heavenly Book Wall",
-                  "text": "A Heavenly Book Wall egy szabadtéri kulturális látványosság Tung Chung területén.",
-                  "category": "landmark",
-                  "coords": [
-                        113.959922,
-                        22.280728
-                  ]
-            },
-            {
-                  "name": "Pok To Yan",
-                  "text": "A Pok To Yan egy jelentős hegycsúcs, amely kihívást jelentő túrákat kínál, kilátással a Tung Chung területére.",
-                  "category": "natural",
-                  "coords": [
-                        113.956861,
-                        22.281937
-                  ]
-            },
-            {
                   "name": "Tat Tung Road Garden",
                   "text": "A Tat Tung Road Garden egy parkosított városi kert, amely zöld menedéket nyújt a Tat Tung Road mentén.",
                   "category": "park",
                   "coords": [
                         113.938422,
                         22.290743
-                  ]
-            },
-            {
-                  "name": "Man Tung Road Park",
-                  "text": "A Man Tung Road Park egy városi rekreációs terület, amely sportolási lehetőségeket és zöldterületeket kínál Tung Chungban.",
-                  "category": "park",
-                  "coords": [
-                        113.941117,
-                        22.291859
                   ]
             },
             {
@@ -7414,39 +6604,12 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Heavenly Book Wall",
-                  "text": "Heavenly Book Wall este o atracție culturală în aer liber din Tung Chung.",
-                  "category": "landmark",
-                  "coords": [
-                        113.959922,
-                        22.280728
-                  ]
-            },
-            {
-                  "name": "Pok To Yan",
-                  "text": "Pok To Yan este un vârf montan notabil ce oferă trasee de drumeție provocatoare, cu vedere spre zona Tung Chung.",
-                  "category": "natural",
-                  "coords": [
-                        113.956861,
-                        22.281937
-                  ]
-            },
-            {
                   "name": "Tat Tung Road Garden",
                   "text": "Tat Tung Road Garden este un parc urban amenajat ce oferă un refugiu verde de-a lungul străzii Tat Tung.",
                   "category": "park",
                   "coords": [
                         113.938422,
                         22.290743
-                  ]
-            },
-            {
-                  "name": "Man Tung Road Park",
-                  "text": "Man Tung Road Park este o zonă de recreere urbană dotată cu facilități sportive și spații verzi în Tung Chung.",
-                  "category": "park",
-                  "coords": [
-                        113.941117,
-                        22.291859
                   ]
             },
             {
@@ -7488,39 +6651,12 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Heavenly Book Wall",
-                  "text": "The Heavenly Book Wall is an outdoor cultural attraction featuring prominent displays in Tung Chung.",
-                  "category": "landmark",
-                  "coords": [
-                        113.959922,
-                        22.280728
-                  ]
-            },
-            {
-                  "name": "Pok To Yan",
-                  "text": "Pok To Yan is a notable mountain peak offering challenging hikes and overlooking the Tung Chung area.",
-                  "category": "natural",
-                  "coords": [
-                        113.956861,
-                        22.281937
-                  ]
-            },
-            {
                   "name": "Tat Tung Road Garden",
                   "text": "Tat Tung Road Garden is a landscaped urban park providing a green retreat along Tat Tung Road.",
                   "category": "park",
                   "coords": [
                         113.938422,
                         22.290743
-                  ]
-            },
-            {
-                  "name": "Man Tung Road Park",
-                  "text": "Man Tung Road Park is an urban recreation area featuring sports facilities and green spaces in Tung Chung.",
-                  "category": "park",
-                  "coords": [
-                        113.941117,
-                        22.291859
                   ]
             },
             {
@@ -7860,15 +6996,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Leo Lee Arts Centre",
-                  "text": "Ein kultureller Veranstaltungsort, der Raum für kreative Kunstausstellungen und Live-Aufführungen in der Nähe des Parks bietet.",
-                  "category": "cultural",
-                  "coords": [
-                        114.167388,
-                        22.241888
-                  ]
-            },
-            {
                   "name": "Whiskers Theatre",
                   "text": "Ein Freilufttheater, das für regelmäßige Tiershows und familienfreundliche Aufführungen bekannt ist.",
                   "category": "cultural",
@@ -7931,15 +7058,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.16812,
                         22.236144
-                  ]
-            },
-            {
-                  "name": "Leo Lee Arts Centre",
-                  "text": "Egy kulturális helyszín, amely kreatív művészeti kiállításoknak és élő előadásoknak ad teret a park közelében.",
-                  "category": "cultural",
-                  "coords": [
-                        114.167388,
-                        22.241888
                   ]
             },
             {
@@ -8008,15 +7126,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Leo Lee Arts Centre",
-                  "text": "O locație culturală care oferă spațiu pentru expoziții de artă creativă și spectacole live în vecinătatea parcului.",
-                  "category": "cultural",
-                  "coords": [
-                        114.167388,
-                        22.241888
-                  ]
-            },
-            {
                   "name": "Whiskers Theatre",
                   "text": "Un teatru de divertisment în aer liber cunoscut pentru găzduirea de spectacole regulate cu animale și reprezentații pentru familii.",
                   "category": "cultural",
@@ -8079,15 +7188,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.16812,
                         22.236144
-                  ]
-            },
-            {
-                  "name": "Leo Lee Arts Centre",
-                  "text": "A cultural venue providing space for creative arts exhibitions and live performances within the park's vicinity.",
-                  "category": "cultural",
-                  "coords": [
-                        114.167388,
-                        22.241888
                   ]
             },
             {
@@ -8157,24 +7257,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gallery Jeeum",
-                  "text": "Eine Kunstgalerie in der Region um das Hong Kong Disneyland.",
-                  "category": "museum",
-                  "coords": [
-                        114.017106,
-                        22.308366
-                  ]
-            },
-            {
-                  "name": "Siena Park Viewpoint",
-                  "text": "Ein Aussichtspunkt im Siena Park mit Blick auf das Gebiet um Disneyland.",
-                  "category": "natural",
-                  "coords": [
-                        114.012027,
-                        22.304626
-                  ]
-            },
-            {
                   "name": "Butterfly Garden",
                   "text": "Ein landschaftlich gestalteter Schmetterlingsgarten in der Nähe des Disneylands.",
                   "category": "landmark",
@@ -8199,15 +7281,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.029074,
                         22.32204
-                  ]
-            },
-            {
-                  "name": "Sam Pak Wan Beach",
-                  "text": "Ein Sandstrand in der Bucht von Sam Pak Wan.",
-                  "category": "recreational",
-                  "coords": [
-                        114.018254,
-                        22.310636
                   ]
             },
             {
@@ -8276,24 +7349,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gallery Jeeum",
-                  "text": "Egy művészeti galéria a hongkongi Disneyland környékén.",
-                  "category": "museum",
-                  "coords": [
-                        114.017106,
-                        22.308366
-                  ]
-            },
-            {
-                  "name": "Siena Park Viewpoint",
-                  "text": "Egy kilátó a Siena Parkban, ahonnan kilátás nyílik a Disneyland környékére.",
-                  "category": "natural",
-                  "coords": [
-                        114.012027,
-                        22.304626
-                  ]
-            },
-            {
                   "name": "Butterfly Garden",
                   "text": "Egy parkosított pillangókert a Disneyland közelében.",
                   "category": "landmark",
@@ -8318,15 +7373,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.029074,
                         22.32204
-                  ]
-            },
-            {
-                  "name": "Sam Pak Wan Beach",
-                  "text": "Egy homokos strand a Sam Pak Wan öbölben.",
-                  "category": "recreational",
-                  "coords": [
-                        114.018254,
-                        22.310636
                   ]
             },
             {
@@ -8395,24 +7441,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gallery Jeeum",
-                  "text": "O galerie de artă în regiunea din jurul Hong Kong Disneyland.",
-                  "category": "museum",
-                  "coords": [
-                        114.017106,
-                        22.308366
-                  ]
-            },
-            {
-                  "name": "Siena Park Viewpoint",
-                  "text": "Un punct de belvedere în Parcul Siena, cu vedere la zona din jurul Disneyland.",
-                  "category": "natural",
-                  "coords": [
-                        114.012027,
-                        22.304626
-                  ]
-            },
-            {
                   "name": "Butterfly Garden",
                   "text": "O grădină peisagistică de fluturi în apropiere de Disneyland.",
                   "category": "landmark",
@@ -8437,15 +7465,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.029074,
                         22.32204
-                  ]
-            },
-            {
-                  "name": "Sam Pak Wan Beach",
-                  "text": "O plajă cu nisip în golful Sam Pak Wan.",
-                  "category": "recreational",
-                  "coords": [
-                        114.018254,
-                        22.310636
                   ]
             },
             {
@@ -8514,24 +7533,6 @@ export const hongkongLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gallery Jeeum",
-                  "text": "An art gallery in the region around Hong Kong Disneyland.",
-                  "category": "museum",
-                  "coords": [
-                        114.017106,
-                        22.308366
-                  ]
-            },
-            {
-                  "name": "Siena Park Viewpoint",
-                  "text": "A viewpoint in Siena Park overlooking the area around Disneyland.",
-                  "category": "natural",
-                  "coords": [
-                        114.012027,
-                        22.304626
-                  ]
-            },
-            {
                   "name": "Butterfly Garden",
                   "text": "A landscaped butterfly garden near Disneyland.",
                   "category": "landmark",
@@ -8556,15 +7557,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         114.029074,
                         22.32204
-                  ]
-            },
-            {
-                  "name": "Sam Pak Wan Beach",
-                  "text": "A sandy beach in the bay of Sam Pak Wan.",
-                  "category": "recreational",
-                  "coords": [
-                        114.018254,
-                        22.310636
                   ]
             },
             {
@@ -9516,30 +8508,12 @@ export const hongkongLandmarksV2: POI[] = [
     id: "hongkong-tai-o-heritage-hotel-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Cheung Shan",
-                  "text": "Der Gipfel des Cheung Shan bietet Wanderern einen weiten Panoramablick über die Küste von Tai O.",
-                  "category": "natural",
-                  "coords": [
-                        113.880338,
-                        22.260106
-                  ]
-            },
-            {
                   "name": "Tai O Bridge",
                   "text": "Die Tai O Bridge bietet einen klassischen Aussichtspunkt mit direktem Blick auf die ikonischen Pfahlbauten und Wasserstraßen der Gegend.",
                   "category": "natural",
                   "coords": [
                         113.862126,
                         22.253911
-                  ]
-            },
-            {
-                  "name": "Ling Yan Monastery",
-                  "text": "Das Ling Yan Kloster ist eine ruhige Kultstätte, versteckt im üppigen Grün rund um Tai O.",
-                  "category": "religious",
-                  "coords": [
-                        113.877116,
-                        22.24756
                   ]
             },
             {
@@ -9567,15 +8541,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         113.854361,
                         22.258073
-                  ]
-            },
-            {
-                  "name": "Yeung Hau Temple",
-                  "text": "Dieser historische Tempel in Tai O wurde zu Ehren eines treuen Generals der Song-Dynastie erbaut und verfügt über aufwendig verzierte Dachfirste.",
-                  "category": "religious",
-                  "coords": [
-                        113.862716,
-                        22.259115
                   ]
             },
             {
@@ -9635,30 +8600,12 @@ export const hongkongLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Cheung Shan",
-                  "text": "A Cheung Shan csúcsa széles panorámát kínál a túrázóknak a Tai O tengerpartra.",
-                  "category": "natural",
-                  "coords": [
-                        113.880338,
-                        22.260106
-                  ]
-            },
-            {
                   "name": "Tai O Bridge",
                   "text": "A Tai O híd klasszikus kilátópontot nyújt, amely közvetlenül a környék ikonikus cölöpházaira és vízi útjaira néz.",
                   "category": "natural",
                   "coords": [
                         113.862126,
                         22.253911
-                  ]
-            },
-            {
-                  "name": "Ling Yan Monastery",
-                  "text": "A Ling Yan kolostor egy nyugodt istentiszteleti hely, amely a Tai O-t körülvevő buja növényzetben bújik meg.",
-                  "category": "religious",
-                  "coords": [
-                        113.877116,
-                        22.24756
                   ]
             },
             {
@@ -9686,15 +8633,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         113.854361,
                         22.258073
-                  ]
-            },
-            {
-                  "name": "Yeung Hau Temple",
-                  "text": "Ezt a történelmi Tai O-i templomot a Szung-dinasztia egyik hűséges tábornokának tiszteletére építették, és bonyolultan díszített tetőgerincekkel büszkélkedhet.",
-                  "category": "religious",
-                  "coords": [
-                        113.862716,
-                        22.259115
                   ]
             },
             {
@@ -9754,30 +8692,12 @@ export const hongkongLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Cheung Shan",
-                  "text": "Vârful Cheung Shan oferă drumeților vederi panoramice extinse asupra coastei Tai O.",
-                  "category": "natural",
-                  "coords": [
-                        113.880338,
-                        22.260106
-                  ]
-            },
-            {
                   "name": "Tai O Bridge",
                   "text": "Podul Tai O oferă un punct de belvedere clasic, cu vedere directă la casele pe piloni emblematice și la căile navigabile ale zonei.",
                   "category": "natural",
                   "coords": [
                         113.862126,
                         22.253911
-                  ]
-            },
-            {
-                  "name": "Ling Yan Monastery",
-                  "text": "Mănăstirea Ling Yan este un lăcaș de cult liniștit ascuns în verdeața luxuriantă din jurul orașului Tai O.",
-                  "category": "religious",
-                  "coords": [
-                        113.877116,
-                        22.24756
                   ]
             },
             {
@@ -9805,15 +8725,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         113.854361,
                         22.258073
-                  ]
-            },
-            {
-                  "name": "Yeung Hau Temple",
-                  "text": "Construit în onoarea unui general loial din dinastia Song, acest templu istoric din Tai O prezintă creste de acoperiș decorate complex.",
-                  "category": "religious",
-                  "coords": [
-                        113.862716,
-                        22.259115
                   ]
             },
             {
@@ -9873,30 +8784,12 @@ export const hongkongLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Cheung Shan",
-                  "text": "The peak of Cheung Shan offers hikers sweeping panoramic views over the Tai O coastline.",
-                  "category": "natural",
-                  "coords": [
-                        113.880338,
-                        22.260106
-                  ]
-            },
-            {
                   "name": "Tai O Bridge",
                   "text": "The Tai O Bridge provides a classic viewpoint directly overlooking the area's iconic stilt houses and waterways.",
                   "category": "natural",
                   "coords": [
                         113.862126,
                         22.253911
-                  ]
-            },
-            {
-                  "name": "Ling Yan Monastery",
-                  "text": "Ling Yan Monastery is a serene place of worship tucked away in the lush greenery surrounding Tai O.",
-                  "category": "religious",
-                  "coords": [
-                        113.877116,
-                        22.24756
                   ]
             },
             {
@@ -9924,15 +8817,6 @@ export const hongkongLandmarksV2: POI[] = [
                   "coords": [
                         113.854361,
                         22.258073
-                  ]
-            },
-            {
-                  "name": "Yeung Hau Temple",
-                  "text": "Built to honor a loyal Song dynasty general, this historic temple in Tai O features intricately decorated roof ridges.",
-                  "category": "religious",
-                  "coords": [
-                        113.862716,
-                        22.259115
                   ]
             },
             {

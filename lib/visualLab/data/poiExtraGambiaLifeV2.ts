@@ -484,15 +484,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
                         -16.67507,
                         13.445335
                   ]
-            },
-            {
-                  "name": "Alliance Française de Banjul",
-                  "text": "Dieses Kunstzentrum fördert den kulturellen Austausch durch Sprachkurse und Kunstausstellungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -16.678294,
-                        13.448299
-                  ]
             }
       ],
       "hu": [
@@ -503,15 +494,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
                   "coords": [
                         -16.67507,
                         13.445335
-                  ]
-            },
-            {
-                  "name": "Alliance Française de Banjul",
-                  "text": "Ez a művészeti központ kulturális cserét hirdet nyelvtanfolyamokon és művészeti kiállításokon keresztül.",
-                  "category": "cultural",
-                  "coords": [
-                        -16.678294,
-                        13.448299
                   ]
             }
       ],
@@ -524,15 +506,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
                         -16.67507,
                         13.445335
                   ]
-            },
-            {
-                  "name": "Alliance Française de Banjul",
-                  "text": "Acest centru de arte promovează schimbul cultural prin cursuri de limbă și expoziții artistice.",
-                  "category": "cultural",
-                  "coords": [
-                        -16.678294,
-                        13.448299
-                  ]
             }
       ],
       "en": [
@@ -543,15 +516,6 @@ export const poiExtraGambiaLifeV2: POI[] = [
                   "coords": [
                         -16.67507,
                         13.445335
-                  ]
-            },
-            {
-                  "name": "Alliance Française de Banjul",
-                  "text": "This arts centre promotes cultural exchange through language classes and artistic exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        -16.678294,
-                        13.448299
                   ]
             }
       ]

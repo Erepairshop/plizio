@@ -8688,15 +8688,6 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Godeok-Topyeong Bridge",
-                  "text": "Moderne Schrägseilbrücke über den Han, deren Fertigstellung für Anfang 2025 geplant ist.",
-                  "category": "landmark",
-                  "coords": [
-                        127.148031,
-                        37.572205
-                  ]
-            },
-            {
                   "name": "Suraksan",
                   "text": "Granitberg im Norden Seouls, der für seine Wanderwege und markanten Felsformationen bekannt ist.",
                   "category": "natural",
@@ -8820,15 +8811,6 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   "coords": [
                         127.094607,
                         37.606414
-                  ]
-            },
-            {
-                  "name": "Midang Gallery",
-                  "text": "Kleiner lokaler Kunstraum, der sich der Förderung zeitgenössischer Malerei und Fotografie widmet.",
-                  "category": "cultural",
-                  "coords": [
-                        127.130497,
-                        37.597078
                   ]
             },
             {
@@ -9032,15 +9014,6 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Godeok-Topyeong Bridge",
-                  "text": "Modern ferdekábeles híd a Han-folyón, melynek átadását 2025 elejére tervezik.",
-                  "category": "landmark",
-                  "coords": [
-                        127.148031,
-                        37.572205
-                  ]
-            },
-            {
                   "name": "Suraksan",
                   "text": "Szöul északi részén található gránithegy, amely túraútvonalairól és sziklaalakzatairól ismert.",
                   "category": "natural",
@@ -9164,15 +9137,6 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   "coords": [
                         127.094607,
                         37.606414
-                  ]
-            },
-            {
-                  "name": "Midang Gallery",
-                  "text": "Kis helyi művészeti tér, amely a kortárs festészet és fotográfia népszerűsítésének szentelt.",
-                  "category": "cultural",
-                  "coords": [
-                        127.130497,
-                        37.597078
                   ]
             },
             {
@@ -9376,15 +9340,6 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Godeok-Topyeong Bridge",
-                  "text": "Pod modern suspendat peste fluviul Han, programat pentru finalizare la începutul anului 2025.",
-                  "category": "landmark",
-                  "coords": [
-                        127.148031,
-                        37.572205
-                  ]
-            },
-            {
                   "name": "Suraksan",
                   "text": "Munte de granit în nordul Seulului, cunoscut pentru traseele sale de drumeție și formațiunile stâncoase.",
                   "category": "natural",
@@ -9508,15 +9463,6 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   "coords": [
                         127.094607,
                         37.606414
-                  ]
-            },
-            {
-                  "name": "Midang Gallery",
-                  "text": "Mic spațiu de artă local, dedicat promovării picturii și fotografiei contemporane.",
-                  "category": "cultural",
-                  "coords": [
-                        127.130497,
-                        37.597078
                   ]
             },
             {
@@ -9720,15 +9666,6 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Godeok-Topyeong Bridge",
-                  "text": "Modern cable-stayed bridge over the Han River, scheduled for completion in early 2025.",
-                  "category": "landmark",
-                  "coords": [
-                        127.148031,
-                        37.572205
-                  ]
-            },
-            {
                   "name": "Suraksan",
                   "text": "Granite mountain in northern Seoul known for its hiking trails and striking rocky peaks.",
                   "category": "natural",
@@ -9852,15 +9789,6 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   "coords": [
                         127.094607,
                         37.606414
-                  ]
-            },
-            {
-                  "name": "Midang Gallery",
-                  "text": "Small local art space dedicated to promoting contemporary painting and photography.",
-                  "category": "cultural",
-                  "coords": [
-                        127.130497,
-                        37.597078
                   ]
             },
             {
@@ -11829,57 +11757,12 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ungcheon Beach Park",
-                  "text": "Der Ungcheon Beach Park ist ein Erholungsgebiet am Strand, das Sandstrände und Grünflächen verbindet.",
-                  "category": "park",
-                  "coords": [
-                        127.668159,
-                        34.747136
-                  ]
-            },
-            {
-                  "name": "Seonso",
-                  "text": "Seonso ist eine archäologische Stätte an der Küste, an der historische Schiffbauaktivitäten untersucht werden.",
-                  "category": "historical",
-                  "coords": [
-                        127.662869,
-                        34.755044
-                  ]
-            },
-            {
-                  "name": "Yeosu Culture Hall",
-                  "text": "Die Yeosu Culture Hall ist ein Zentrum für darstellende und bildende Künste für die lokale Gemeinschaft.",
-                  "category": "cultural",
-                  "coords": [
-                        127.663326,
-                        34.759914
-                  ]
-            },
-            {
-                  "name": "Geobukseon Park",
-                  "text": "Der Geobukseon Park ist ein Erholungsgebiet, dessen Landschaftsgestaltung historische maritime Themen aufgreift.",
-                  "category": "park",
-                  "coords": [
-                        127.666999,
-                        34.761192
-                  ]
-            },
-            {
                   "name": "Ansan Neighborhood Park",
                   "text": "Der Ansan Neighborhood Park bietet Spazierwege und Grünflächen in einem städtischen Wohngebiet.",
                   "category": "park",
                   "coords": [
                         127.6585,
                         34.759327
-                  ]
-            },
-            {
-                  "name": "The Site of an Ancient Seokchang Castle",
-                  "text": "The Site of an Ancient Seokchang Castle umfasst die freigelegten archäologischen Überreste einer historischen steinernen Befestigungsanlage.",
-                  "category": "castle",
-                  "coords": [
-                        127.660655,
-                        34.783148
                   ]
             },
             {
@@ -12065,57 +11948,12 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ungcheon Beach Park",
-                  "text": "Az Ungcheon Beach Park egy tengerparti rekreációs terület, amely ötvözi a homokos partokat és a zöldövezeteket.",
-                  "category": "park",
-                  "coords": [
-                        127.668159,
-                        34.747136
-                  ]
-            },
-            {
-                  "name": "Seonso",
-                  "text": "A Seonso egy tengerparti régészeti lelőhely, amely a történelmi hajóépítési tevékenységeket vizsgálja.",
-                  "category": "historical",
-                  "coords": [
-                        127.662869,
-                        34.755044
-                  ]
-            },
-            {
-                  "name": "Yeosu Culture Hall",
-                  "text": "A Yeosu Culture Hall az előadó- és képzőművészetek központja a helyi közösség számára.",
-                  "category": "cultural",
-                  "coords": [
-                        127.663326,
-                        34.759914
-                  ]
-            },
-            {
-                  "name": "Geobukseon Park",
-                  "text": "A Geobukseon Park egy rekreációs terület, amelynek tájépítészete történelmi tengeri témákat idéz.",
-                  "category": "park",
-                  "coords": [
-                        127.666999,
-                        34.761192
-                  ]
-            },
-            {
                   "name": "Ansan Neighborhood Park",
                   "text": "Az Ansan Neighborhood Park sétányokat és zöldterületeket kínál egy városi lakónegyedben.",
                   "category": "park",
                   "coords": [
                         127.6585,
                         34.759327
-                  ]
-            },
-            {
-                  "name": "The Site of an Ancient Seokchang Castle",
-                  "text": "Az ősi Seokchang kastély lelőhelye egy történelmi kőerőd feltárt régészeti maradványait foglalja magában.",
-                  "category": "castle",
-                  "coords": [
-                        127.660655,
-                        34.783148
                   ]
             },
             {
@@ -12301,57 +12139,12 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ungcheon Beach Park",
-                  "text": "Ungcheon Beach Park este o zonă de agrement pe plajă care îmbină țărmurile nisipoase cu spațiile verzi.",
-                  "category": "park",
-                  "coords": [
-                        127.668159,
-                        34.747136
-                  ]
-            },
-            {
-                  "name": "Seonso",
-                  "text": "Seonso este un sit arheologic de coastă care explorează activitățile istorice de construcție a navelor.",
-                  "category": "historical",
-                  "coords": [
-                        127.662869,
-                        34.755044
-                  ]
-            },
-            {
-                  "name": "Yeosu Culture Hall",
-                  "text": "Yeosu Culture Hall este un centru pentru artele spectacolului și vizuale pentru comunitatea locală.",
-                  "category": "cultural",
-                  "coords": [
-                        127.663326,
-                        34.759914
-                  ]
-            },
-            {
-                  "name": "Geobukseon Park",
-                  "text": "Parcul Geobukseon este o zonă de agrement a cărei arhitectură peisagistică încorporează teme maritime istorice.",
-                  "category": "park",
-                  "coords": [
-                        127.666999,
-                        34.761192
-                  ]
-            },
-            {
                   "name": "Ansan Neighborhood Park",
                   "text": "Ansan Neighborhood Park oferă alei și spații verzi în cadrul unei zone rezidențiale urbane.",
                   "category": "park",
                   "coords": [
                         127.6585,
                         34.759327
-                  ]
-            },
-            {
-                  "name": "The Site of an Ancient Seokchang Castle",
-                  "text": "Situl antic al castelului Seokchang prezintă vestigiile arheologice expuse ale unei fortificații istorice din piatră.",
-                  "category": "castle",
-                  "coords": [
-                        127.660655,
-                        34.783148
                   ]
             },
             {
@@ -12537,57 +12330,12 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ungcheon Beach Park",
-                  "text": "Ungcheon Beach Park is a seaside recreational area blending sandy shores and green spaces.",
-                  "category": "park",
-                  "coords": [
-                        127.668159,
-                        34.747136
-                  ]
-            },
-            {
-                  "name": "Seonso",
-                  "text": "Seonso is a coastal archaeological site exploring historical shipbuilding activities.",
-                  "category": "historical",
-                  "coords": [
-                        127.662869,
-                        34.755044
-                  ]
-            },
-            {
-                  "name": "Yeosu Culture Hall",
-                  "text": "Yeosu Culture Hall is a performing and visual arts center for the local community.",
-                  "category": "cultural",
-                  "coords": [
-                        127.663326,
-                        34.759914
-                  ]
-            },
-            {
-                  "name": "Geobukseon Park",
-                  "text": "Geobukseon Park is a recreational area featuring landscaping that incorporates historical maritime themes.",
-                  "category": "park",
-                  "coords": [
-                        127.666999,
-                        34.761192
-                  ]
-            },
-            {
                   "name": "Ansan Neighborhood Park",
                   "text": "Ansan Neighborhood Park provides walking paths and green spaces within an urban residential area.",
                   "category": "park",
                   "coords": [
                         127.6585,
                         34.759327
-                  ]
-            },
-            {
-                  "name": "The Site of an Ancient Seokchang Castle",
-                  "text": "The Site of an Ancient Seokchang Castle encompasses the exposed archaeological remains of a historic stone fortification.",
-                  "category": "castle",
-                  "coords": [
-                        127.660655,
-                        34.783148
                   ]
             },
             {
@@ -12981,33 +12729,6 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jeon Hyeok Lim Art Gallery",
-                  "text": "Die Jeon Hyeok Lim Art Gallery ist ein Ausstellungsraum, der die lebendigen, vom Meer inspirierten Gemälde des lokalen Künstlers Jeon Hyeok Lim zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        128.415516,
-                        34.827055
-                  ]
-            },
-            {
-                  "name": "Tongyeong Buddhism Exhibition Hall",
-                  "text": "Die Tongyeong Buddhism Exhibition Hall ist ein kulturelles Museum, das historische buddhistische Artefakte und religiöse Kunstwerke präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        128.427106,
-                        34.846395
-                  ]
-            },
-            {
-                  "name": "Tongyeongsi Local History Museum",
-                  "text": "Das Tongyeongsi Local History Museum dokumentiert das reiche maritime und kulturelle Erbe der Region durch vielfältige Exponate.",
-                  "category": "museum",
-                  "coords": [
-                        128.423302,
-                        34.846205
-                  ]
-            },
-            {
                   "name": "Haegang Ceramic Art School",
                   "text": "Die Haegang Ceramic Art School ist eine kreative Einrichtung, die sich der Lehre und Ausstellung traditioneller koreanischer Töpferwaren widmet.",
                   "category": "museum",
@@ -13041,24 +12762,6 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   "coords": [
                         128.498355,
                         34.868112
-                  ]
-            },
-            {
-                  "name": "Dongbang Gallery",
-                  "text": "Die Dongbang Gallery ist ein lokales kulturelles Zentrum in Tongyeong, das Ausstellungen visueller Kunst und kreative Gemeinschaftsveranstaltungen bietet.",
-                  "category": "cultural",
-                  "coords": [
-                        128.422783,
-                        34.84366
-                  ]
-            },
-            {
-                  "name": "Tongyeong Concert Hall",
-                  "text": "Die Tongyeong Concert Hall ist ein herausragender akustischer Veranstaltungsort, der für die Ausrichtung klassischer Musikaufführungen und internationaler Festivals bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        128.440108,
-                        34.825948
                   ]
             },
             {
@@ -13298,33 +13001,6 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jeon Hyeok Lim Art Gallery",
-                  "text": "A Jeon Hyeok Lim Művészeti Galéria egy kiállítótér, amely Jeon Hyeok Lim helyi művész élénk, tenger ihlette festményeit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        128.415516,
-                        34.827055
-                  ]
-            },
-            {
-                  "name": "Tongyeong Buddhism Exhibition Hall",
-                  "text": "A Tongyeong Buddhizmus Kiállítóterem egy kulturális múzeum, amely történelmi buddhista tárgyakat és vallási művészeti alkotásokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        128.427106,
-                        34.846395
-                  ]
-            },
-            {
-                  "name": "Tongyeongsi Local History Museum",
-                  "text": "A Tongyeongsi Helytörténeti Múzeum változatos kiállításokon keresztül dokumentálja a régió gazdag tengerészeti és kulturális örökségét.",
-                  "category": "museum",
-                  "coords": [
-                        128.423302,
-                        34.846205
-                  ]
-            },
-            {
                   "name": "Haegang Ceramic Art School",
                   "text": "A Haegang Kerámiaművészeti Iskola egy kreatív intézmény, amely a hagyományos koreai kerámia tanításának és bemutatásának szenteli magát.",
                   "category": "museum",
@@ -13358,24 +13034,6 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   "coords": [
                         128.498355,
                         34.868112
-                  ]
-            },
-            {
-                  "name": "Dongbang Gallery",
-                  "text": "A Dongbang Galéria egy helyi kulturális központ Tongyeongban, amely képzőművészeti kiállításokat és kreatív közösségi eseményeket kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        128.422783,
-                        34.84366
-                  ]
-            },
-            {
-                  "name": "Tongyeong Concert Hall",
-                  "text": "A Tongyeong Koncertterem egy kiemelkedő akusztikai helyszín, amely a klasszikus zenei előadások és nemzetközi fesztiválok befogadásáról híres.",
-                  "category": "cultural",
-                  "coords": [
-                        128.440108,
-                        34.825948
                   ]
             },
             {
@@ -13615,33 +13273,6 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jeon Hyeok Lim Art Gallery",
-                  "text": "Galeria de Artă Jeon Hyeok Lim este un spațiu expozițional care expune picturile vibrante, inspirate de mare, ale artistului local Jeon Hyeok Lim.",
-                  "category": "museum",
-                  "coords": [
-                        128.415516,
-                        34.827055
-                  ]
-            },
-            {
-                  "name": "Tongyeong Buddhism Exhibition Hall",
-                  "text": "Sala de Expoziții Budistă Tongyeong este un muzeu cultural care prezintă artefacte budiste istorice și opere de artă religioasă.",
-                  "category": "museum",
-                  "coords": [
-                        128.427106,
-                        34.846395
-                  ]
-            },
-            {
-                  "name": "Tongyeongsi Local History Museum",
-                  "text": "Muzeul de Istorie Locală Tongyeongsi documentează bogatul patrimoniu maritim și cultural al regiunii prin diverse exponate.",
-                  "category": "museum",
-                  "coords": [
-                        128.423302,
-                        34.846205
-                  ]
-            },
-            {
                   "name": "Haegang Ceramic Art School",
                   "text": "Școala de Artă Ceramică Haegang este o instituție creativă dedicată predării și expunerii ceramicii tradiționale coreene.",
                   "category": "museum",
@@ -13675,24 +13306,6 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   "coords": [
                         128.498355,
                         34.868112
-                  ]
-            },
-            {
-                  "name": "Dongbang Gallery",
-                  "text": "Galeria Dongbang este un centru cultural local din Tongyeong, care prezintă expoziții de arte vizuale și evenimente comunitare creative.",
-                  "category": "cultural",
-                  "coords": [
-                        128.422783,
-                        34.84366
-                  ]
-            },
-            {
-                  "name": "Tongyeong Concert Hall",
-                  "text": "Sala de Concerte Tongyeong este o locație acustică proeminentă, renumită pentru găzduirea spectacolelor de muzică clasică și a festivalurilor internaționale.",
-                  "category": "cultural",
-                  "coords": [
-                        128.440108,
-                        34.825948
                   ]
             },
             {
@@ -13932,33 +13545,6 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jeon Hyeok Lim Art Gallery",
-                  "text": "Jeon Hyeok Lim Art Gallery is an exhibition space displaying the vibrant, sea-inspired paintings of local artist Jeon Hyeok Lim.",
-                  "category": "museum",
-                  "coords": [
-                        128.415516,
-                        34.827055
-                  ]
-            },
-            {
-                  "name": "Tongyeong Buddhism Exhibition Hall",
-                  "text": "Tongyeong Buddhism Exhibition Hall is a cultural museum showcasing historic Buddhist artifacts and religious artworks.",
-                  "category": "museum",
-                  "coords": [
-                        128.427106,
-                        34.846395
-                  ]
-            },
-            {
-                  "name": "Tongyeongsi Local History Museum",
-                  "text": "Tongyeongsi Local History Museum documents the region's rich maritime and cultural heritage through diverse exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        128.423302,
-                        34.846205
-                  ]
-            },
-            {
                   "name": "Haegang Ceramic Art School",
                   "text": "Haegang Ceramic Art School is a creative institution dedicated to the teaching and display of traditional Korean pottery.",
                   "category": "museum",
@@ -13992,24 +13578,6 @@ export const poiExtraSouthkoreaHistoryV2: POI[] = [
                   "coords": [
                         128.498355,
                         34.868112
-                  ]
-            },
-            {
-                  "name": "Dongbang Gallery",
-                  "text": "Dongbang Gallery is a local cultural hub in Tongyeong featuring visual art exhibitions and creative community events.",
-                  "category": "cultural",
-                  "coords": [
-                        128.422783,
-                        34.84366
-                  ]
-            },
-            {
-                  "name": "Tongyeong Concert Hall",
-                  "text": "Tongyeong Concert Hall is a prominent acoustic venue renowned for hosting classical music performances and international festivals.",
-                  "category": "cultural",
-                  "coords": [
-                        128.440108,
-                        34.825948
                   ]
             },
             {

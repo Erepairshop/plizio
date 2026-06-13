@@ -6,15 +6,6 @@ export const poiExtraComorosNatureV2: POI[] = [
     id: "mount-karthala-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Baobab",
-                  "text": "Ein massiver, uralter Affenbrotbaum, der als natürliches Wahrzeichen an den Hängen des Mount Karthala steht.",
-                  "category": "landmark",
-                  "coords": [
-                        43.434127,
-                        -11.718391
-                  ]
-            },
-            {
                   "name": "Foyer ACET",
                   "text": "Ein lokales Kunstzentrum am Mount Karthala, das künstlerische Traditionen und Gemeindeveranstaltungen fördert.",
                   "category": "cultural",
@@ -43,15 +34,6 @@ export const poiExtraComorosNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Baobab",
-                  "text": "Egy hatalmas, ősi majomkenyérfa, amely természetes nevezetességként áll a Karthala-hegy lejtőin.",
-                  "category": "landmark",
-                  "coords": [
-                        43.434127,
-                        -11.718391
-                  ]
-            },
             {
                   "name": "Foyer ACET",
                   "text": "A Karthala-hegy melletti helyi művészeti központ, amely a művészeti hagyományokat és közösségi eseményeket támogatja.",
@@ -82,15 +64,6 @@ export const poiExtraComorosNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Baobab",
-                  "text": "Un baobab masiv și străvechi, care stă ca un punct de reper natural pe versanții Muntelui Karthala.",
-                  "category": "landmark",
-                  "coords": [
-                        43.434127,
-                        -11.718391
-                  ]
-            },
-            {
                   "name": "Foyer ACET",
                   "text": "Un centru de arte local lângă Muntele Karthala, care promovează tradițiile artistice și evenimentele comunității.",
                   "category": "cultural",
@@ -119,15 +92,6 @@ export const poiExtraComorosNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Baobab",
-                  "text": "A massive, ancient baobab tree standing as a prominent natural landmark on the slopes of Mount Karthala.",
-                  "category": "landmark",
-                  "coords": [
-                        43.434127,
-                        -11.718391
-                  ]
-            },
             {
                   "name": "Foyer ACET",
                   "text": "A local arts centre near Mount Karthala fostering artistic traditions and community events.",

@@ -3508,24 +3508,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Plaswijckpark",
-                  "text": "Das Plaswijckpark in Rotterdam kombiniert Spielplätze, einen Tierpark und Gärten. Es ist ein vielseitiger Freizeitpark, der ideal für einen Tag mit Kindern ist.",
-                  "category": "family",
-                  "coords": [
-                        4.483165,
-                        51.956294
-                  ]
-            },
-            {
-                  "name": "De Bokkesprong",
-                  "text": "De Bokkesprong in Rotterdam bietet Kindern Raum, um Tiere zu beobachten und über sie zu lernen. Ein kinderfreundlicher Zoo in städtischer Umgebung.",
-                  "category": "family",
-                  "coords": [
-                        4.428174,
-                        51.915613
-                  ]
-            },
-            {
                   "name": "Kinderboerderij De Kraal",
                   "text": "Die Kinderboerderij De Kraal in Rotterdam ist ein Bauernhof, auf dem Familien Tiere in einer entspannten Atmosphäre treffen können. Ein beliebtes Ziel im Grünen.",
                   "category": "family",
@@ -4308,24 +4290,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.447495,
                         51.926703
-                  ]
-            },
-            {
-                  "name": "Plaswijckpark",
-                  "text": "A rotterdami Plaswijckpark játszótereket, állatparkot és kerteket ötvöz. Ez egy sokoldalú szabadidőpark, amely ideális egy gyerekekkel töltött naphoz.",
-                  "category": "family",
-                  "coords": [
-                        4.483165,
-                        51.956294
-                  ]
-            },
-            {
-                  "name": "De Bokkesprong",
-                  "text": "A rotterdami De Bokkesprong teret biztosít a gyerekeknek az állatok megfigyeléséhez és megismeréséhez. Gyerekbarát állatkert városi környezetben.",
-                  "category": "family",
-                  "coords": [
-                        4.428174,
-                        51.915613
                   ]
             },
             {
@@ -5114,24 +5078,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Plaswijckpark",
-                  "text": "Plaswijckpark din Rotterdam combină locuri de joacă, un parc cu animale și grădini. Este un parc de agrement versatil, ideal pentru o zi cu copiii.",
-                  "category": "family",
-                  "coords": [
-                        4.483165,
-                        51.956294
-                  ]
-            },
-            {
-                  "name": "De Bokkesprong",
-                  "text": "De Bokkesprong din Rotterdam oferă copiilor spațiu pentru a observa și a învăța despre animale. O grădină zoologică prietenoasă pentru copii într-un cadru urban.",
-                  "category": "family",
-                  "coords": [
-                        4.428174,
-                        51.915613
-                  ]
-            },
-            {
                   "name": "Kinderboerderij De Kraal",
                   "text": "Kinderboerderij De Kraal din Rotterdam este o fermă unde familiile pot întâlni animalele într-o atmosferă relaxată. O destinație populară în aer liber.",
                   "category": "family",
@@ -5914,24 +5860,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.447495,
                         51.926703
-                  ]
-            },
-            {
-                  "name": "Plaswijckpark",
-                  "text": "Plaswijckpark in Rotterdam combines playgrounds, an animal park, and gardens. It is a versatile leisure park ideal for a day with children.",
-                  "category": "family",
-                  "coords": [
-                        4.483165,
-                        51.956294
-                  ]
-            },
-            {
-                  "name": "De Bokkesprong",
-                  "text": "De Bokkesprong in Rotterdam provides space for children to observe and learn about animals. A child-friendly zoo in an urban setting.",
-                  "category": "family",
-                  "coords": [
-                        4.428174,
-                        51.915613
                   ]
             },
             {
@@ -16322,15 +16250,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Oosterplas",
-                  "text": "Oosterplas ist ein See in Haarlem, der eine ruhige Umgebung für Besucher bietet.",
-                  "category": "natural",
-                  "coords": [
-                        4.603977,
-                        52.417075
-                  ]
-            },
-            {
                   "name": "'t Wed",
                   "text": "'t Wed ist ein See in Haarlem, der oft zum Schwimmen und Entspannen genutzt wird.",
                   "category": "natural",
@@ -17050,15 +16969,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.681996,
                         52.416082
-                  ]
-            },
-            {
-                  "name": "Oosterplas",
-                  "text": "Az Oosterplas egy tó Haarlemben, amely nyugodt környezetet biztosít a látogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        4.603977,
-                        52.417075
                   ]
             },
             {
@@ -17784,15 +17694,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Oosterplas",
-                  "text": "Oosterplas este un lac în Haarlem, oferind un mediu liniștit pentru vizitatori.",
-                  "category": "natural",
-                  "coords": [
-                        4.603977,
-                        52.417075
-                  ]
-            },
-            {
                   "name": "'t Wed",
                   "text": "Un lac lângă Haarlem, adesea folosit pentru înot și relaxare.",
                   "category": "natural",
@@ -18515,15 +18416,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Oosterplas",
-                  "text": "Oosterplas is a lake in Haarlem, offering a quiet environment for visitors.",
-                  "category": "natural",
-                  "coords": [
-                        4.603977,
-                        52.417075
-                  ]
-            },
-            {
                   "name": "'t Wed",
                   "text": "A lake near Haarlem, often used for swimming and relaxation.",
                   "category": "natural",
@@ -18847,15 +18739,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Endegeest",
-                  "text": "Ein historisches Schloss in Oegstgeest bei Leiden, das für seine markante Architektur bekannt ist.",
-                  "category": "castle",
-                  "coords": [
-                        4.463135,
-                        52.17262
-                  ]
-            },
-            {
                   "name": "Naturalis Biodiversity Centre",
                   "text": "Das niederländische Nationalmuseum für Biodiversität und Naturgeschichte in Leiden.",
                   "category": "museum",
@@ -18901,15 +18784,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Corpus",
-                  "text": "Ein interaktives Museum in Leiden, das eine Reise durch den menschlichen Körper ermöglicht.",
-                  "category": "museum",
-                  "coords": [
-                        4.453483,
-                        52.170487
-                  ]
-            },
-            {
                   "name": "Pilgrim Museum",
                   "text": "Ein Museum in Leiden, das die Geschichte der amerikanischen Pilgerväter beleuchtet.",
                   "category": "museum",
@@ -18943,15 +18817,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.492426,
                         52.158986
-                  ]
-            },
-            {
-                  "name": "Oud Poelgeest",
-                  "text": "Ein historisches Schlossgut bei Leiden, das einst Wohnsitz von Herman Boerhaave war.",
-                  "category": "castle",
-                  "coords": [
-                        4.484833,
-                        52.179635
                   ]
             },
             {
@@ -19036,24 +18901,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Rehobothkerk",
-                  "text": "Ein Gotteshaus in der Region Leiden.",
-                  "category": "religious",
-                  "coords": [
-                        4.470135,
-                        52.183546
-                  ]
-            },
-            {
-                  "name": "Pauluskerk",
-                  "text": "Ein lokales Kirchengebäude in der Nähe von Leiden.",
-                  "category": "religious",
-                  "coords": [
-                        4.471943,
-                        52.175191
-                  ]
-            },
-            {
                   "name": "Hoofdstraatkerk",
                   "text": "Ein traditionelles Gotteshaus in der Gegend von Leiden.",
                   "category": "religious",
@@ -19114,15 +18961,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.525077,
                         52.170791
-                  ]
-            },
-            {
-                  "name": "'t Poeltje",
-                  "text": "Eine kleine Poldermühle in der Gegend von Leiden.",
-                  "category": "landmark",
-                  "coords": [
-                        4.493985,
-                        52.182021
                   ]
             },
             {
@@ -19288,39 +19126,12 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kinderboerderij",
-                  "text": "Dieser Zoo in Leiden bietet Besuchern die Möglichkeit, verschiedene Tierarten zu beobachten. Ein interessantes Ziel für Familien mit neugierigen Kindern.",
-                  "category": "family",
-                  "coords": [
-                        4.50835,
-                        52.178356
-                  ]
-            },
-            {
                   "name": "De Does",
                   "text": "De Does in Leiden ist ein Schwimmbad mit Angeboten für sportliche Schwimmer und Familien. Es ist ein beliebter Ort für Freizeitaktivitäten im Wasser.",
                   "category": "family",
                   "coords": [
                         4.530292,
                         52.151282
-                  ]
-            },
-            {
-                  "name": "Hertenkamp",
-                  "text": "Hertenkamp in Leiden ist ein Wildpark, in dem Hirsche in einer parkähnlichen Umgebung leben. Ein ruhiges Ausflugsziel für Familien.",
-                  "category": "family",
-                  "coords": [
-                        4.48182,
-                        52.174949
-                  ]
-            },
-            {
-                  "name": "Kagerplassen 't Joppe Westoever",
-                  "text": "Kagerplassen 't Joppe Westoever in Leiden ist ein Badebereich am Seeufer. Es ist ein schöner Ort für Familien zum Schwimmen und für ein Picknick in der Natur.",
-                  "category": "family",
-                  "coords": [
-                        4.50839,
-                        52.194326
                   ]
             },
             {
@@ -19359,15 +19170,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.462035,
                         52.149127
-                  ]
-            },
-            {
-                  "name": "Endegeest",
-                  "text": "Történelmi kastély Leiden közelében, Oegstgeestben, amely jellegzetes építészetéről ismert.",
-                  "category": "castle",
-                  "coords": [
-                        4.463135,
-                        52.17262
                   ]
             },
             {
@@ -19416,15 +19218,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Corpus",
-                  "text": "Interaktív múzeum Leidenben, amely utazást tesz lehetővé az emberi testen keresztül.",
-                  "category": "museum",
-                  "coords": [
-                        4.453483,
-                        52.170487
-                  ]
-            },
-            {
                   "name": "Pilgrim Museum",
                   "text": "Leideni múzeum, amely az amerikai zarándokok történetét világítja meg.",
                   "category": "museum",
@@ -19458,15 +19251,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.492426,
                         52.158986
-                  ]
-            },
-            {
-                  "name": "Oud Poelgeest",
-                  "text": "Történelmi kastély Leiden közelében, amely egykor Herman Boerhaave otthona volt.",
-                  "category": "castle",
-                  "coords": [
-                        4.484833,
-                        52.179635
                   ]
             },
             {
@@ -19551,24 +19335,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Rehobothkerk",
-                  "text": "Egy templom Leiden környékén.",
-                  "category": "religious",
-                  "coords": [
-                        4.470135,
-                        52.183546
-                  ]
-            },
-            {
-                  "name": "Pauluskerk",
-                  "text": "Egy helyi templomépület Leiden közelében.",
-                  "category": "religious",
-                  "coords": [
-                        4.471943,
-                        52.175191
-                  ]
-            },
-            {
                   "name": "Hoofdstraatkerk",
                   "text": "Hagyományos templom Leiden környékén.",
                   "category": "religious",
@@ -19629,15 +19395,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.525077,
                         52.170791
-                  ]
-            },
-            {
-                  "name": "'t Poeltje",
-                  "text": "Egy kis poldermalom Leiden környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        4.493985,
-                        52.182021
                   ]
             },
             {
@@ -19803,39 +19560,12 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kinderboerderij",
-                  "text": "Ez a leideni állatkert különféle állatfajok megfigyelésére ad lehetőséget. Érdekes úti cél a kíváncsi gyerekekkel érkező családoknak.",
-                  "category": "family",
-                  "coords": [
-                        4.50835,
-                        52.178356
-                  ]
-            },
-            {
                   "name": "De Does",
                   "text": "A leideni De Does úszási lehetőséget kínál sportolóknak és családoknak egyaránt. Népszerű hely a szabadidős vízi tevékenységekhez.",
                   "category": "family",
                   "coords": [
                         4.530292,
                         52.151282
-                  ]
-            },
-            {
-                  "name": "Hertenkamp",
-                  "text": "A leideni Hertenkamp egy vadaspark, ahol szarvasok élnek parkosított környezetben. Nyugodt úti cél a családok számára.",
-                  "category": "family",
-                  "coords": [
-                        4.48182,
-                        52.174949
-                  ]
-            },
-            {
-                  "name": "Kagerplassen 't Joppe Westoever",
-                  "text": "A leideni Kagerplassen 't Joppe Westoever egy tóparti fürdőhely. Kellemes hely a családoknak az úszáshoz és a természetben való piknikezéshez.",
-                  "category": "family",
-                  "coords": [
-                        4.50839,
-                        52.194326
                   ]
             },
             {
@@ -19874,15 +19604,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.462035,
                         52.149127
-                  ]
-            },
-            {
-                  "name": "Endegeest",
-                  "text": "Un castel istoric în Oegstgeest, lângă Leiden, cunoscut pentru arhitectura sa distinctivă.",
-                  "category": "castle",
-                  "coords": [
-                        4.463135,
-                        52.17262
                   ]
             },
             {
@@ -19931,15 +19652,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Corpus",
-                  "text": "Un muzeu interactiv din Leiden care permite o călătorie prin corpul uman.",
-                  "category": "museum",
-                  "coords": [
-                        4.453483,
-                        52.170487
-                  ]
-            },
-            {
                   "name": "Pilgrim Museum",
                   "text": "Un muzeu din Leiden care ilustrează istoria pelerinilor americani.",
                   "category": "museum",
@@ -19973,15 +19685,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.492426,
                         52.158986
-                  ]
-            },
-            {
-                  "name": "Oud Poelgeest",
-                  "text": "Un castel și domeniu istoric lângă Leiden, fosta reședință a lui Herman Boerhaave.",
-                  "category": "castle",
-                  "coords": [
-                        4.484833,
-                        52.179635
                   ]
             },
             {
@@ -20066,24 +19769,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Rehobothkerk",
-                  "text": "Un lăcaș de cult situat în regiunea Leiden.",
-                  "category": "religious",
-                  "coords": [
-                        4.470135,
-                        52.183546
-                  ]
-            },
-            {
-                  "name": "Pauluskerk",
-                  "text": "O clădire de biserică locală în vecinătatea orașului Leiden.",
-                  "category": "religious",
-                  "coords": [
-                        4.471943,
-                        52.175191
-                  ]
-            },
-            {
                   "name": "Hoofdstraatkerk",
                   "text": "Un lăcaș de cult tradițional situat în zona Leiden.",
                   "category": "religious",
@@ -20144,15 +19829,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.525077,
                         52.170791
-                  ]
-            },
-            {
-                  "name": "'t Poeltje",
-                  "text": "O mică moară de polder situată în zona Leiden.",
-                  "category": "landmark",
-                  "coords": [
-                        4.493985,
-                        52.182021
                   ]
             },
             {
@@ -20318,39 +19994,12 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kinderboerderij",
-                  "text": "Această grădină zoologică din Leiden oferă vizitatorilor ocazia de a observa diverse specii. O destinație interesantă pentru familiile cu copii curioși.",
-                  "category": "family",
-                  "coords": [
-                        4.50835,
-                        52.178356
-                  ]
-            },
-            {
                   "name": "De Does",
                   "text": "De Does din Leiden este o piscină cu oferte pentru înotători sportivi și familii. Este un loc popular pentru activități de agrement în apă.",
                   "category": "family",
                   "coords": [
                         4.530292,
                         52.151282
-                  ]
-            },
-            {
-                  "name": "Hertenkamp",
-                  "text": "Hertenkamp din Leiden este un parc de căprioare unde acestea trăiesc într-un mediu amenajat. O destinație liniștită pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        4.48182,
-                        52.174949
-                  ]
-            },
-            {
-                  "name": "Kagerplassen 't Joppe Westoever",
-                  "text": "Kagerplassen 't Joppe Westoever din Leiden este o zonă de scăldat pe malul lacului. Este un loc frumos pentru familii pentru înot și un picnic în natură.",
-                  "category": "family",
-                  "coords": [
-                        4.50839,
-                        52.194326
                   ]
             },
             {
@@ -20389,15 +20038,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.462035,
                         52.149127
-                  ]
-            },
-            {
-                  "name": "Endegeest",
-                  "text": "A historic castle in Oegstgeest near Leiden, known for its striking architecture.",
-                  "category": "castle",
-                  "coords": [
-                        4.463135,
-                        52.17262
                   ]
             },
             {
@@ -20446,15 +20086,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Corpus",
-                  "text": "An interactive museum in Leiden that enables a journey through the human body.",
-                  "category": "museum",
-                  "coords": [
-                        4.453483,
-                        52.170487
-                  ]
-            },
-            {
                   "name": "Pilgrim Museum",
                   "text": "A museum in Leiden highlighting the history of the American Pilgrims.",
                   "category": "museum",
@@ -20488,15 +20119,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.492426,
                         52.158986
-                  ]
-            },
-            {
-                  "name": "Oud Poelgeest",
-                  "text": "A historic estate and castle located near Leiden, once home to Herman Boerhaave.",
-                  "category": "castle",
-                  "coords": [
-                        4.484833,
-                        52.179635
                   ]
             },
             {
@@ -20581,24 +20203,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Rehobothkerk",
-                  "text": "A place of worship located in the Leiden region.",
-                  "category": "religious",
-                  "coords": [
-                        4.470135,
-                        52.183546
-                  ]
-            },
-            {
-                  "name": "Pauluskerk",
-                  "text": "A local church building in the vicinity of Leiden.",
-                  "category": "religious",
-                  "coords": [
-                        4.471943,
-                        52.175191
-                  ]
-            },
-            {
                   "name": "Hoofdstraatkerk",
                   "text": "A traditional place of worship located in the Leiden area.",
                   "category": "religious",
@@ -20659,15 +20263,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.525077,
                         52.170791
-                  ]
-            },
-            {
-                  "name": "'t Poeltje",
-                  "text": "A small polder mill situated in the Leiden area.",
-                  "category": "landmark",
-                  "coords": [
-                        4.493985,
-                        52.182021
                   ]
             },
             {
@@ -20833,39 +20428,12 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Kinderboerderij",
-                  "text": "This zoo in Leiden offers visitors the chance to observe various animal species. An interesting destination for families with curious children.",
-                  "category": "family",
-                  "coords": [
-                        4.50835,
-                        52.178356
-                  ]
-            },
-            {
                   "name": "De Does",
                   "text": "De Does in Leiden is a swimming pool with options for both lap swimmers and families. It is a popular spot for leisure water activities.",
                   "category": "family",
                   "coords": [
                         4.530292,
                         52.151282
-                  ]
-            },
-            {
-                  "name": "Hertenkamp",
-                  "text": "Hertenkamp in Leiden is a deer park where deer live in a park-like setting. A peaceful destination for families.",
-                  "category": "family",
-                  "coords": [
-                        4.48182,
-                        52.174949
-                  ]
-            },
-            {
-                  "name": "Kagerplassen 't Joppe Westoever",
-                  "text": "Kagerplassen 't Joppe Westoever in Leiden is a lakeside bathing area. It is a nice spot for families for swimming and a picnic in nature.",
-                  "category": "family",
-                  "coords": [
-                        4.50839,
-                        52.194326
                   ]
             },
             {
@@ -23303,15 +22871,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "De Maasplassen Naaktstrand",
-                  "text": "De Maasplassen Naaktstrand ist ein Strandort in Maastricht. Er bietet ausgewiesene Bereiche für Erholung am Wasser.",
-                  "category": "family",
-                  "coords": [
-                        5.698294,
-                        50.818207
-                  ]
-            },
-            {
                   "name": "Kinderboerderij Limmel",
                   "text": "Kinderboerderij Limmel ist ein Zoo in Maastricht. Er bietet Stadtkindern die Möglichkeit, mit Tieren in Kontakt zu kommen.",
                   "category": "family",
@@ -23797,15 +23356,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         5.685843,
                         50.851893
-                  ]
-            },
-            {
-                  "name": "De Maasplassen Naaktstrand",
-                  "text": "A De Maasplassen Naaktstrand egy strand Maastrichtban. Kijelölt területeket kínál a vízparti kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        5.698294,
-                        50.818207
                   ]
             },
             {
@@ -24297,15 +23847,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "De Maasplassen Naaktstrand",
-                  "text": "De Maasplassen Naaktstrand este o stațiune de pe plajă în Maastricht. Oferă zone desemnate pentru recreere lângă apă.",
-                  "category": "family",
-                  "coords": [
-                        5.698294,
-                        50.818207
-                  ]
-            },
-            {
                   "name": "Kinderboerderij Limmel",
                   "text": "Kinderboerderij Limmel este o grădină zoologică din Maastricht. Oferă copiilor din oraș șansa de a intra în contact cu animalele.",
                   "category": "family",
@@ -24794,15 +24335,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "De Maasplassen Naaktstrand",
-                  "text": "De Maasplassen Naaktstrand is a beach resort in Maastricht. It offers designated areas for recreation by the water.",
-                  "category": "family",
-                  "coords": [
-                        5.698294,
-                        50.818207
-                  ]
-            },
-            {
                   "name": "Kinderboerderij Limmel",
                   "text": "Kinderboerderij Limmel is a zoo in Maastricht. It offers city children the chance to come into contact with animals.",
                   "category": "family",
@@ -25179,15 +24711,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Waalenburg",
-                  "text": "Ein weitläufiges Naturschutzgebiet im Herzen der Insel Texel.",
-                  "category": "natural",
-                  "coords": [
-                        4.80833,
-                        53.084784
-                  ]
-            },
-            {
                   "name": "Fort Lunette",
                   "text": "Ein historisches Verteidigungsbauwerk auf der Insel Texel.",
                   "category": "fortress",
@@ -25215,39 +24738,12 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Museum Waelstee",
-                  "text": "Ein Museum für Landwirtschaft und Kulturgeschichte auf Texel.",
-                  "category": "museum",
-                  "coords": [
-                        4.82144,
-                        53.072466
-                  ]
-            },
-            {
-                  "name": "Calluna",
-                  "text": "Ein Wasserpark und Schwimmkomplex auf der Insel Texel.",
-                  "category": "recreational",
-                  "coords": [
-                        4.769166,
-                        53.090474
-                  ]
-            },
-            {
                   "name": "De Bonte Belevenis",
                   "text": "Ein Erlebnispark mit Handwerksaktivitäten auf Texel.",
                   "category": "recreational",
                   "coords": [
                         4.739703,
                         53.031247
-                  ]
-            },
-            {
-                  "name": "EcoMare",
-                  "text": "Ein Naturmuseum und eine Auffangstation für Seehunde auf Texel.",
-                  "category": "recreational",
-                  "coords": [
-                        4.74505,
-                        53.077685
                   ]
             },
             {
@@ -25289,15 +24785,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Waalenburg",
-                  "text": "Egy kiterjedt természetvédelmi terület Texel szigetének szívében.",
-                  "category": "natural",
-                  "coords": [
-                        4.80833,
-                        53.084784
-                  ]
-            },
-            {
                   "name": "Fort Lunette",
                   "text": "Történelmi védmű Texel szigetén.",
                   "category": "fortress",
@@ -25325,39 +24812,12 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Museum Waelstee",
-                  "text": "Mezőgazdasági és kultúrtörténeti múzeum Texel szigetén.",
-                  "category": "museum",
-                  "coords": [
-                        4.82144,
-                        53.072466
-                  ]
-            },
-            {
-                  "name": "Calluna",
-                  "text": "Aquapark és fürdőkomplexum Texel szigetén.",
-                  "category": "recreational",
-                  "coords": [
-                        4.769166,
-                        53.090474
-                  ]
-            },
-            {
                   "name": "De Bonte Belevenis",
                   "text": "Kézműves foglalkozásokat kínáló élménypark Texelen.",
                   "category": "recreational",
                   "coords": [
                         4.739703,
                         53.031247
-                  ]
-            },
-            {
-                  "name": "EcoMare",
-                  "text": "Természettudományi múzeum és fókamenhely Texel szigetén.",
-                  "category": "recreational",
-                  "coords": [
-                        4.74505,
-                        53.077685
                   ]
             },
             {
@@ -25399,15 +24859,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Waalenburg",
-                  "text": "O rezervație naturală vastă în inima insulei Texel.",
-                  "category": "natural",
-                  "coords": [
-                        4.80833,
-                        53.084784
-                  ]
-            },
-            {
                   "name": "Fort Lunette",
                   "text": "O structură defensivă istorică pe insula Texel.",
                   "category": "fortress",
@@ -25435,39 +24886,12 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Museum Waelstee",
-                  "text": "Un muzeu de agricultură și istorie culturală pe insula Texel.",
-                  "category": "museum",
-                  "coords": [
-                        4.82144,
-                        53.072466
-                  ]
-            },
-            {
-                  "name": "Calluna",
-                  "text": "Un parc acvatic și complex de înot pe insula Texel.",
-                  "category": "recreational",
-                  "coords": [
-                        4.769166,
-                        53.090474
-                  ]
-            },
-            {
                   "name": "De Bonte Belevenis",
                   "text": "Un parc de distracții cu activități meșteșugărești pe Texel.",
                   "category": "recreational",
                   "coords": [
                         4.739703,
                         53.031247
-                  ]
-            },
-            {
-                  "name": "EcoMare",
-                  "text": "Un muzeu al naturii și un sanctuar pentru foci pe insula Texel.",
-                  "category": "recreational",
-                  "coords": [
-                        4.74505,
-                        53.077685
                   ]
             },
             {
@@ -25509,15 +24933,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Waalenburg",
-                  "text": "A vast nature reserve in the heart of the island of Texel.",
-                  "category": "natural",
-                  "coords": [
-                        4.80833,
-                        53.084784
-                  ]
-            },
-            {
                   "name": "Fort Lunette",
                   "text": "A historical defensive structure on the island of Texel.",
                   "category": "fortress",
@@ -25545,39 +24960,12 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Museum Waelstee",
-                  "text": "A museum of agriculture and cultural history on the island of Texel.",
-                  "category": "museum",
-                  "coords": [
-                        4.82144,
-                        53.072466
-                  ]
-            },
-            {
-                  "name": "Calluna",
-                  "text": "A water park and swimming complex on the island of Texel.",
-                  "category": "recreational",
-                  "coords": [
-                        4.769166,
-                        53.090474
-                  ]
-            },
-            {
                   "name": "De Bonte Belevenis",
                   "text": "A theme park featuring craft activities on the island of Texel.",
                   "category": "recreational",
                   "coords": [
                         4.739703,
                         53.031247
-                  ]
-            },
-            {
-                  "name": "EcoMare",
-                  "text": "A nature museum and seal sanctuary on the island of Texel.",
-                  "category": "recreational",
-                  "coords": [
-                        4.74505,
-                        53.077685
                   ]
             },
             {
@@ -25661,15 +25049,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "De Hoge Veluwe",
-                  "text": "Ein weitläufiger Nationalpark in den Niederlanden mit Wäldern, Heide und Dünen.",
-                  "category": "natural",
-                  "coords": [
-                        5.832574,
-                        52.083081
-                  ]
-            },
-            {
                   "name": "Kröller-Müller Museum",
                   "text": "Ein bedeutendes Kunstmuseum mit einer großen Van-Gogh-Sammlung und einem Skulpturengarten.",
                   "category": "museum",
@@ -25685,24 +25064,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         5.83283,
                         52.121525
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij",
-                  "text": "Ein Streichelzoo im Nationalpark, in dem Besucher Hoftiere aus der Nähe erleben können.",
-                  "category": "recreational",
-                  "coords": [
-                        5.769225,
-                        52.086018
-                  ]
-            },
-            {
-                  "name": "Otterlose Buurtbos-noord",
-                  "text": "Ein ruhiges Naturschutzgebiet in der Region Hoge Veluwe.",
-                  "category": "natural",
-                  "coords": [
-                        5.770162,
-                        52.090134
                   ]
             },
             {
@@ -25735,15 +25096,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "De Hoge Veluwe",
-                  "text": "Kiterjedt holland nemzeti park erdőkkel, pusztákkal és dűnékkel.",
-                  "category": "natural",
-                  "coords": [
-                        5.832574,
-                        52.083081
-                  ]
-            },
-            {
                   "name": "Kröller-Müller Museum",
                   "text": "Jelentős művészeti múzeum nagy Van Gogh-gyűjteménnyel és szoborparkkal.",
                   "category": "museum",
@@ -25759,24 +25111,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         5.83283,
                         52.121525
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij",
-                  "text": "Állatsimogató a nemzeti parkban, ahol a látogatók közelről láthatnak háztáji állatokat.",
-                  "category": "recreational",
-                  "coords": [
-                        5.769225,
-                        52.086018
-                  ]
-            },
-            {
-                  "name": "Otterlose Buurtbos-noord",
-                  "text": "Nyugodt természetvédelmi terület a Hoge Veluwe régióban.",
-                  "category": "natural",
-                  "coords": [
-                        5.770162,
-                        52.090134
                   ]
             },
             {
@@ -25809,15 +25143,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "De Hoge Veluwe",
-                  "text": "Un vast parc național din Țările de Jos, cu păduri, lande și dune.",
-                  "category": "natural",
-                  "coords": [
-                        5.832574,
-                        52.083081
-                  ]
-            },
-            {
                   "name": "Kröller-Müller Museum",
                   "text": "Un important muzeu de artă cu o mare colecție Van Gogh și o grădină de sculpturi.",
                   "category": "museum",
@@ -25833,24 +25158,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         5.83283,
                         52.121525
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij",
-                  "text": "O grădină zoologică cu animale domestice în parcul național, unde vizitatorii pot interacționa cu acestea.",
-                  "category": "recreational",
-                  "coords": [
-                        5.769225,
-                        52.086018
-                  ]
-            },
-            {
-                  "name": "Otterlose Buurtbos-noord",
-                  "text": "O rezervație naturală liniștită în regiunea Hoge Veluwe.",
-                  "category": "natural",
-                  "coords": [
-                        5.770162,
-                        52.090134
                   ]
             },
             {
@@ -25883,15 +25190,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "De Hoge Veluwe",
-                  "text": "A vast national park in the Netherlands featuring forests, heathlands, and dunes.",
-                  "category": "natural",
-                  "coords": [
-                        5.832574,
-                        52.083081
-                  ]
-            },
-            {
                   "name": "Kröller-Müller Museum",
                   "text": "A major art museum with a large Van Gogh collection and a sculpture garden.",
                   "category": "museum",
@@ -25907,24 +25205,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         5.83283,
                         52.121525
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij",
-                  "text": "A petting zoo in the national park where visitors can experience farm animals up close.",
-                  "category": "recreational",
-                  "coords": [
-                        5.769225,
-                        52.086018
-                  ]
-            },
-            {
-                  "name": "Otterlose Buurtbos-noord",
-                  "text": "A peaceful nature reserve in the Hoge Veluwe region.",
-                  "category": "natural",
-                  "coords": [
-                        5.770162,
-                        52.090134
                   ]
             },
             {
@@ -37363,15 +36643,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Meer der Stilte",
-                  "text": "Das Meer der Stilte ist ein See in Dordrecht, der zur Entspannung in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        4.628873,
-                        51.870761
-                  ]
-            },
-            {
                   "name": "Speeltuin West",
                   "text": "Dieser Spielplatz in Dordrecht bietet Kindern Raum zum Spielen und für Aktivitäten.",
                   "category": "family",
@@ -37866,15 +37137,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.575005,
                         51.803281
-                  ]
-            },
-            {
-                  "name": "Meer der Stilte",
-                  "text": "A Meer der Stilte egy tó Dordrecht területén, amely kikapcsolódást kínál a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        4.628873,
-                        51.870761
                   ]
             },
             {
@@ -38375,15 +37637,6 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Meer der Stilte",
-                  "text": "Meer der Stilte este un lac din Dordrecht care invită la relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        4.628873,
-                        51.870761
-                  ]
-            },
-            {
                   "name": "Speeltuin West",
                   "text": "Acest loc de joacă din Dordrecht oferă spațiu pentru joacă și activități copiilor.",
                   "category": "family",
@@ -38878,15 +38131,6 @@ export const netherlandsCities: POI[] = [
                   "coords": [
                         4.575005,
                         51.803281
-                  ]
-            },
-            {
-                  "name": "Meer der Stilte",
-                  "text": "Meer der Stilte is a lake in Dordrecht that invites relaxation in nature.",
-                  "category": "natural",
-                  "coords": [
-                        4.628873,
-                        51.870761
                   ]
             },
             {
@@ -39474,30 +38718,12 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Het Die",
-                  "text": "Het Die ist ein lokaler See in Alkmaar, ideal für Spaziergänge in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        4.721562,
-                        52.573742
-                  ]
-            },
-            {
                   "name": "Zomerdel Geestmerambacht",
                   "text": "Zomerdel Geestmerambacht ist ein See bei Alkmaar, der sich für Erholung im Freien eignet.",
                   "category": "natural",
                   "coords": [
                         4.767461,
                         52.685163
-                  ]
-            },
-            {
-                  "name": "Alkmaardermeer",
-                  "text": "Das Alkmaardermeer ist ein bedeutender See bei Alkmaar, ideal für Wassersport und Naturgenuss.",
-                  "category": "natural",
-                  "coords": [
-                        4.758562,
-                        52.549912
                   ]
             },
             {
@@ -40025,30 +39251,12 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Het Die",
-                  "text": "A Het Die egy helyi tó Alkmaarban, amely ideális természeti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        4.721562,
-                        52.573742
-                  ]
-            },
-            {
                   "name": "Zomerdel Geestmerambacht",
                   "text": "A Zomerdel Geestmerambacht egy Alkmaar közeli tó, amely kiváló szabadtéri kikapcsolódáshoz.",
                   "category": "natural",
                   "coords": [
                         4.767461,
                         52.685163
-                  ]
-            },
-            {
-                  "name": "Alkmaardermeer",
-                  "text": "Az Alkmaardermeer egy jelentős tó Alkmaar közelében, amely ideális vízi sportokhoz és a természethez.",
-                  "category": "natural",
-                  "coords": [
-                        4.758562,
-                        52.549912
                   ]
             },
             {
@@ -40576,30 +39784,12 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Het Die",
-                  "text": "Het Die este un lac local din Alkmaar, ideal pentru plimbări în natură.",
-                  "category": "natural",
-                  "coords": [
-                        4.721562,
-                        52.573742
-                  ]
-            },
-            {
                   "name": "Zomerdel Geestmerambacht",
                   "text": "Zomerdel Geestmerambacht este un lac de lângă Alkmaar, potrivit pentru relaxare în aer liber.",
                   "category": "natural",
                   "coords": [
                         4.767461,
                         52.685163
-                  ]
-            },
-            {
-                  "name": "Alkmaardermeer",
-                  "text": "Alkmaardermeer este un lac important de lângă Alkmaar, ideal pentru sporturi nautice și natură.",
-                  "category": "natural",
-                  "coords": [
-                        4.758562,
-                        52.549912
                   ]
             },
             {
@@ -41127,30 +40317,12 @@ export const netherlandsCities: POI[] = [
                   ]
             },
             {
-                  "name": "Het Die",
-                  "text": "Het Die is a local lake in Alkmaar, ideal for walks in nature.",
-                  "category": "natural",
-                  "coords": [
-                        4.721562,
-                        52.573742
-                  ]
-            },
-            {
                   "name": "Zomerdel Geestmerambacht",
                   "text": "Zomerdel Geestmerambacht is a lake near Alkmaar suitable for outdoor recreation.",
                   "category": "natural",
                   "coords": [
                         4.767461,
                         52.685163
-                  ]
-            },
-            {
-                  "name": "Alkmaardermeer",
-                  "text": "Alkmaardermeer is a major lake near Alkmaar, ideal for water activities and nature.",
-                  "category": "natural",
-                  "coords": [
-                        4.758562,
-                        52.549912
                   ]
             },
             {

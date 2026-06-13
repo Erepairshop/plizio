@@ -6,15 +6,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "muscat-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Snow Oman",
-                  "text": "Snow Oman ist ein Indoor-Schneepark, der winterliche Attraktionen in Maskat bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        58.407074,
-                        23.573154
-                  ]
-            },
-            {
                   "name": "Oman Natural History Museum",
                   "text": "Das Oman Natural History Museum beherbergt Ausstellungen zur lokalen Flora, Fauna und Geologie.",
                   "category": "museum",
@@ -277,15 +268,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Snow Oman",
-                  "text": "A Snow Oman egy fedett hópark, amely téli témájú látványosságokat kínál Maszkatban.",
-                  "category": "recreational",
-                  "coords": [
-                        58.407074,
-                        23.573154
-                  ]
-            },
             {
                   "name": "Oman Natural History Museum",
                   "text": "Az Ománi Természettudományi Múzeum a helyi flórát, faunát és geológiát bemutató kiállításoknak ad otthont.",
@@ -550,15 +532,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Snow Oman",
-                  "text": "Snow Oman este un parc de zăpadă acoperit care oferă atracții cu tematică de iarnă în Muscat.",
-                  "category": "recreational",
-                  "coords": [
-                        58.407074,
-                        23.573154
-                  ]
-            },
-            {
                   "name": "Oman Natural History Museum",
                   "text": "Muzeul de Istorie Naturală din Oman găzduiește expoziții despre flora, fauna și geologia locală.",
                   "category": "museum",
@@ -821,15 +794,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Snow Oman",
-                  "text": "Snow Oman is an indoor snow park providing winter-themed attractions in Muscat.",
-                  "category": "recreational",
-                  "coords": [
-                        58.407074,
-                        23.573154
-                  ]
-            },
             {
                   "name": "Oman Natural History Museum",
                   "text": "The Oman Natural History Museum houses exhibits on the local flora, fauna, and geology.",
@@ -5415,48 +5379,12 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "muttrah-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Al Alam Palace",
-                  "text": "Prunkvoller Palast des Sultans von Oman mit blau-goldener Fassade in Muttrah.",
-                  "category": "castle",
-                  "coords": [
-                        58.594838,
-                        23.616292
-                  ]
-            },
-            {
-                  "name": "Fort Al-Mirani",
-                  "text": "Das Fort Al-Mirani ist eine bedeutende portugiesische Festung aus dem 16. Jahrhundert am Hafen von Matrah.",
-                  "category": "fortress",
-                  "coords": [
-                        58.593243,
-                        23.617276
-                  ]
-            },
-            {
                   "name": "National Museum in Matrah",
                   "text": "Das National Museum in Matrah ist eine wichtige Einrichtung, die das kulturelle Erbe des Landes präsentiert.",
                   "category": "museum",
                   "coords": [
                         58.593626,
                         23.611616
-                  ]
-            },
-            {
-                  "name": "Bait Al Baranda Museum",
-                  "text": "Das Bait Al Baranda Museum ist ein historisches Museum in Matrah, das in einem traditionellen Haus untergebracht ist.",
-                  "category": "museum",
-                  "coords": [
-                        58.560691,
-                        23.62292
-                  ]
-            },
-            {
-                  "name": "Sultan's Armed Forces Museum",
-                  "text": "Das Sultan's Armed Forces Museum ist ein Museum in Matrah, das die Militärgeschichte des Landes dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        58.546182,
-                        23.609481
                   ]
             },
             {
@@ -5469,66 +5397,12 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muscat Gate Museum",
-                  "text": "Das Muscat Gate Museum in Muttrah.",
-                  "category": "museum",
-                  "coords": [
-                        58.585857,
-                        23.618676
-                  ]
-            },
-            {
-                  "name": "Place & People Museum",
-                  "text": "Das Place & People Museum in Muttrah.",
-                  "category": "museum",
-                  "coords": [
-                        58.568252,
-                        23.620344
-                  ]
-            },
-            {
-                  "name": "Mutrah Fort",
-                  "text": "Die Festung Mutrah mit Blick auf den Hafen.",
-                  "category": "fortress",
-                  "coords": [
-                        58.567103,
-                        23.620487
-                  ]
-            },
-            {
                   "name": "Oman French Museum",
                   "text": "Das Omanisch-Französische Museum in Muttrah.",
                   "category": "museum",
                   "coords": [
                         58.591768,
                         23.614918
-                  ]
-            },
-            {
-                  "name": "Harbour Gate",
-                  "text": "Das historische Hafentor am Hafen von Muttrah.",
-                  "category": "historical",
-                  "coords": [
-                        58.548167,
-                        23.621291
-                  ]
-            },
-            {
-                  "name": "Paisley",
-                  "text": "Das Paisley-Museum in Muttrah widmet sich dem Paisleymuster.",
-                  "category": "museum",
-                  "coords": [
-                        58.563775,
-                        23.620521
-                  ]
-            },
-            {
-                  "name": "Omani Heritage Gallery",
-                  "text": "Die Omani Heritage Gallery in Muttrah präsentiert das omanische Kulturerbe.",
-                  "category": "museum",
-                  "coords": [
-                        58.565329,
-                        23.620335
                   ]
             },
             {
@@ -5539,36 +5413,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
                         58.563831,
                         23.619322
                   ]
-            },
-            {
-                  "name": "Shiva temple",
-                  "text": "Hinduistischer Tempel aus dem 19. Jahrhundert im alten Souk von Muttrah.",
-                  "category": "religious",
-                  "coords": [
-                        58.58816,
-                        23.60979
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Al Alam Palace",
-                  "text": "Az ománi szultán pompás palotája kék-arany homlokzattal Muttrahban.",
-                  "category": "castle",
-                  "coords": [
-                        58.594838,
-                        23.616292
-                  ]
-            },
-            {
-                  "name": "Fort Al-Mirani",
-                  "text": "A Fort Al-Mirani egy 16. századi portugál erőd, amely Matrah kikötőjére néz.",
-                  "category": "fortress",
-                  "coords": [
-                        58.593243,
-                        23.617276
-                  ]
-            },
             {
                   "name": "Matrah városában található National Museum",
                   "text": "A Matrah városában található National Museum az ország kulturális örökségét bemutató jelentős intézmény.",
@@ -5576,24 +5423,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   "coords": [
                         58.593626,
                         23.611616
-                  ]
-            },
-            {
-                  "name": "Bait Al Baranda Museum",
-                  "text": "A Bait Al Baranda Museum egy hagyományos házban működő történelmi múzeum Matrah városában.",
-                  "category": "museum",
-                  "coords": [
-                        58.560691,
-                        23.62292
-                  ]
-            },
-            {
-                  "name": "Sultan's Armed Forces Museum",
-                  "text": "A Sultan's Armed Forces Museum a nemzet hadtörténetét bemutató múzeum Matrah városában.",
-                  "category": "museum",
-                  "coords": [
-                        58.546182,
-                        23.609481
                   ]
             },
             {
@@ -5606,66 +5435,12 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muscat Gate Museum",
-                  "text": "A Muszcat Kapu Múzeum Muttrahban.",
-                  "category": "museum",
-                  "coords": [
-                        58.585857,
-                        23.618676
-                  ]
-            },
-            {
-                  "name": "Place & People Museum",
-                  "text": "A Place & People Múzeum Muttrahban.",
-                  "category": "museum",
-                  "coords": [
-                        58.568252,
-                        23.620344
-                  ]
-            },
-            {
-                  "name": "Mutrah Fort",
-                  "text": "A Mutrah erőd, amely a kikötőre néz.",
-                  "category": "fortress",
-                  "coords": [
-                        58.567103,
-                        23.620487
-                  ]
-            },
-            {
                   "name": "Oman French Museum",
                   "text": "Az Omán-Francia Múzeum Muttrahban.",
                   "category": "museum",
                   "coords": [
                         58.591768,
                         23.614918
-                  ]
-            },
-            {
-                  "name": "Harbour Gate",
-                  "text": "A történelmi kikötőkapu Muttrah kikötőjében.",
-                  "category": "historical",
-                  "coords": [
-                        58.548167,
-                        23.621291
-                  ]
-            },
-            {
-                  "name": "Paisley",
-                  "text": "A Paisley Múzeum Muttrahban a paisley mintázatot mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        58.563775,
-                        23.620521
-                  ]
-            },
-            {
-                  "name": "Omani Heritage Gallery",
-                  "text": "Az Ománi Örökség Galéria Muttrahban Omán kulturális örökségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        58.565329,
-                        23.620335
                   ]
             },
             {
@@ -5676,36 +5451,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
                         58.563831,
                         23.619322
                   ]
-            },
-            {
-                  "name": "Shiva temple",
-                  "text": "19. századi hindu templom Muttrah óvárosának piacán.",
-                  "category": "religious",
-                  "coords": [
-                        58.58816,
-                        23.60979
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Al Alam Palace",
-                  "text": "Palatul ceremonial al sultanului Omanului, cu fațadă albastră și aurie în Muttrah.",
-                  "category": "castle",
-                  "coords": [
-                        58.594838,
-                        23.616292
-                  ]
-            },
-            {
-                  "name": "Fort Al-Mirani",
-                  "text": "Fort Al-Mirani este un fort portughez din secolul al XVI-lea care domină portul din Matrah.",
-                  "category": "fortress",
-                  "coords": [
-                        58.593243,
-                        23.617276
-                  ]
-            },
             {
                   "name": "National Museum din Matrah",
                   "text": "National Museum din Matrah este o instituție importantă care expune moștenirea culturală a țării.",
@@ -5713,24 +5461,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   "coords": [
                         58.593626,
                         23.611616
-                  ]
-            },
-            {
-                  "name": "Bait Al Baranda Museum",
-                  "text": "Bait Al Baranda Museum este un muzeu istoric găzduit într-o casă tradițională din Matrah.",
-                  "category": "museum",
-                  "coords": [
-                        58.560691,
-                        23.62292
-                  ]
-            },
-            {
-                  "name": "Sultan's Armed Forces Museum",
-                  "text": "Sultan's Armed Forces Museum este un muzeu din Matrah care documentează istoria militară a țării.",
-                  "category": "museum",
-                  "coords": [
-                        58.546182,
-                        23.609481
                   ]
             },
             {
@@ -5743,66 +5473,12 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muscat Gate Museum",
-                  "text": "Muzeul Porții Muscat în Muttrah.",
-                  "category": "museum",
-                  "coords": [
-                        58.585857,
-                        23.618676
-                  ]
-            },
-            {
-                  "name": "Place & People Museum",
-                  "text": "Muzeul Place & People în Muttrah.",
-                  "category": "museum",
-                  "coords": [
-                        58.568252,
-                        23.620344
-                  ]
-            },
-            {
-                  "name": "Mutrah Fort",
-                  "text": "Fortăreața Mutrah care domină portul.",
-                  "category": "fortress",
-                  "coords": [
-                        58.567103,
-                        23.620487
-                  ]
-            },
-            {
                   "name": "Oman French Museum",
                   "text": "Muzeul Oman-Franța în Muttrah.",
                   "category": "museum",
                   "coords": [
                         58.591768,
                         23.614918
-                  ]
-            },
-            {
-                  "name": "Harbour Gate",
-                  "text": "Poarta istorică a portului din Muttrah.",
-                  "category": "historical",
-                  "coords": [
-                        58.548167,
-                        23.621291
-                  ]
-            },
-            {
-                  "name": "Paisley",
-                  "text": "Muzeul Paisley din Muttrah este dedicat modelului paisley.",
-                  "category": "museum",
-                  "coords": [
-                        58.563775,
-                        23.620521
-                  ]
-            },
-            {
-                  "name": "Omani Heritage Gallery",
-                  "text": "Galerii de patrimoniu omanez din Muttrah expun moștenirea culturală a Omanului.",
-                  "category": "museum",
-                  "coords": [
-                        58.565329,
-                        23.620335
                   ]
             },
             {
@@ -5813,63 +5489,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
                         58.563831,
                         23.619322
                   ]
-            },
-            {
-                  "name": "Shiva temple",
-                  "text": "Templu hindus din secolul al XIX-lea în vechiul souk din Muttrah.",
-                  "category": "religious",
-                  "coords": [
-                        58.58816,
-                        23.60979
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Al Alam Palace",
-                  "text": "Ceremonial palace of the Sultan of Oman with a blue and gold facade in Muttrah.",
-                  "category": "castle",
-                  "coords": [
-                        58.594838,
-                        23.616292
-                  ]
-            },
-            {
-                  "name": "Fort Al-Mirani",
-                  "text": "Fort Al-Mirani is a prominent 16th-century Portuguese fort overlooking the harbor in Matrah.",
-                  "category": "fortress",
-                  "coords": [
-                        58.593243,
-                        23.617276
-                  ]
-            },
-            {
-                  "name": "National Museum",
-                  "text": "The National Museum in Matrah is a prominent institution showcasing the cultural heritage of the country.",
-                  "category": "museum",
-                  "coords": [
-                        58.593626,
-                        23.611616
-                  ]
-            },
-            {
-                  "name": "Bait Al Baranda Museum",
-                  "text": "Bait Al Baranda Museum is a historic museum housed in a traditional heritage building in Matrah.",
-                  "category": "museum",
-                  "coords": [
-                        58.560691,
-                        23.62292
-                  ]
-            },
-            {
-                  "name": "Sultan's Armed Forces Museum",
-                  "text": "Sultan's Armed Forces Museum is an institution in Matrah that documents the military history of the nation.",
-                  "category": "museum",
-                  "coords": [
-                        58.546182,
-                        23.609481
-                  ]
-            },
             {
                   "name": "Bait Al Zubair",
                   "text": "Bait Al Zubair museum in Muttrah.",
@@ -5877,33 +5499,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   "coords": [
                         58.58961,
                         23.614394
-                  ]
-            },
-            {
-                  "name": "Muscat Gate Museum",
-                  "text": "Muscat Gate Museum in Muttrah.",
-                  "category": "museum",
-                  "coords": [
-                        58.585857,
-                        23.618676
-                  ]
-            },
-            {
-                  "name": "Place & People Museum",
-                  "text": "Place & People Museum in Muttrah.",
-                  "category": "museum",
-                  "coords": [
-                        58.568252,
-                        23.620344
-                  ]
-            },
-            {
-                  "name": "Mutrah Fort",
-                  "text": "Mutrah Fort overlooking the harbor.",
-                  "category": "fortress",
-                  "coords": [
-                        58.567103,
-                        23.620487
                   ]
             },
             {
@@ -5916,48 +5511,12 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Harbour Gate",
-                  "text": "The historic Harbour Gate at Muttrah's port.",
-                  "category": "historical",
-                  "coords": [
-                        58.548167,
-                        23.621291
-                  ]
-            },
-            {
-                  "name": "Paisley",
-                  "text": "The Paisley Museum in Muttrah is dedicated to the paisley pattern.",
-                  "category": "museum",
-                  "coords": [
-                        58.563775,
-                        23.620521
-                  ]
-            },
-            {
-                  "name": "Omani Heritage Gallery",
-                  "text": "The Omani Heritage Gallery in Muttrah showcases Omani cultural heritage.",
-                  "category": "museum",
-                  "coords": [
-                        58.565329,
-                        23.620335
-                  ]
-            },
-            {
                   "name": "Mutrah Souq",
                   "text": "The traditional Mutrah Souq with its narrow alleys.",
                   "category": "landmark",
                   "coords": [
                         58.563831,
                         23.619322
-                  ]
-            },
-            {
-                  "name": "Shiva temple",
-                  "text": "19th-century Hindu temple in the old souk of Muttrah.",
-                  "category": "religious",
-                  "coords": [
-                        58.58816,
-                        23.60979
                   ]
             }
       ]
@@ -6039,15 +5598,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
                         58.407274,
                         23.563699
                   ]
-            },
-            {
-                  "name": "Große Sultan-Qabus-Moschee",
-                  "text": "Eine der größten Moscheen der Welt mit einer 50-m-Kuppel und dem zweitgrößten handgewebten Teppich.",
-                  "category": "religious",
-                  "coords": [
-                        58.388518,
-                        23.583787
-                  ]
             }
       ],
       "hu": [
@@ -6085,15 +5635,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   "coords": [
                         58.407274,
                         23.563699
-                  ]
-            },
-            {
-                  "name": "Sultan Qaboos Grand Mosque",
-                  "text": "A világ egyik legnagyobb mecsete 50 méteres kupolával és a második legnagyobb kézzel szőtt szőnyeggel.",
-                  "category": "religious",
-                  "coords": [
-                        58.388518,
-                        23.583787
                   ]
             }
       ],
@@ -6133,15 +5674,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
                         58.407274,
                         23.563699
                   ]
-            },
-            {
-                  "name": "Sultan Qaboos Grand Mosque",
-                  "text": "Una dintre cele mai mari moschei din lume, cu o cupolă de 50 m și al doilea cel mai mare covor țesut manual.",
-                  "category": "religious",
-                  "coords": [
-                        58.388518,
-                        23.583787
-                  ]
             }
       ],
       "en": [
@@ -6152,15 +5684,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   "coords": [
                         58.407074,
                         23.573154
-                  ]
-            },
-            {
-                  "name": "Al Khuwair Natural Reserve",
-                  "text": "Al Khuwair Natural Reserve in Bawshar protects coastal landscapes.",
-                  "category": "natural",
-                  "coords": [
-                        58.417957,
-                        23.586948
                   ]
             },
             {
@@ -6179,15 +5702,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   "coords": [
                         58.407274,
                         23.563699
-                  ]
-            },
-            {
-                  "name": "Sultan Qaboos Grand Mosque",
-                  "text": "One of the world's largest mosques, with a 50-meter dome and the second-largest hand-woven carpet.",
-                  "category": "religious",
-                  "coords": [
-                        58.388518,
-                        23.583787
                   ]
             }
       ]
@@ -7226,24 +6740,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "taqah-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Taqah Fort",
-                  "text": "Die Festung Taqah in Taqah, eine Küstenfestung.",
-                  "category": "fortress",
-                  "coords": [
-                        54.395346,
-                        17.038985
-                  ]
-            },
-            {
-                  "name": "Taqah Castle",
-                  "text": "Die Burg Taqah in Taqah, ein weiteres historisches Bauwerk.",
-                  "category": "castle",
-                  "coords": [
-                        54.394971,
-                        17.040221
-                  ]
-            },
-            {
                   "name": "Khawr Taqah Reserve",
                   "text": "Das Naturschutzgebiet Khawr Taqah in Taqah, ein Mangroven-Feuchtgebiet.",
                   "category": "natural",
@@ -7263,24 +6759,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Taqah Fort",
-                  "text": "A Taqah erőd Taqahban, egy tengerparti erőd.",
-                  "category": "fortress",
-                  "coords": [
-                        54.395346,
-                        17.038985
-                  ]
-            },
-            {
-                  "name": "Taqah Castle",
-                  "text": "A Taqah vár Taqahban, egy másik történelmi épület.",
-                  "category": "castle",
-                  "coords": [
-                        54.394971,
-                        17.040221
-                  ]
-            },
             {
                   "name": "Khawr Taqah Reserve",
                   "text": "A Khawr Taqah Természetvédelmi Terület Taqahban, egy mangrove mocsár.",
@@ -7302,24 +6780,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Taqah Fort",
-                  "text": "Fortăreața Taqah din Taqah, o fortificație de coastă.",
-                  "category": "fortress",
-                  "coords": [
-                        54.395346,
-                        17.038985
-                  ]
-            },
-            {
-                  "name": "Taqah Castle",
-                  "text": "Castelul Taqah din Taqah, o altă clădire istorică.",
-                  "category": "castle",
-                  "coords": [
-                        54.394971,
-                        17.040221
-                  ]
-            },
-            {
                   "name": "Rezervația Khawr Taqah",
                   "text": "Rezervația naturală Khawr Taqah din Taqah, o zonă umedă de mangrove.",
                   "category": "natural",
@@ -7339,24 +6799,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Taqah Fort",
-                  "text": "Taqah Fort in Taqah, a coastal fortress.",
-                  "category": "fortress",
-                  "coords": [
-                        54.395346,
-                        17.038985
-                  ]
-            },
-            {
-                  "name": "Taqah Castle",
-                  "text": "Taqah Castle in Taqah, another historic building.",
-                  "category": "castle",
-                  "coords": [
-                        54.394971,
-                        17.040221
-                  ]
-            },
             {
                   "name": "Khawr Taqah Reserve",
                   "text": "Khawr Taqah Reserve in Taqah, a mangrove wetland.",
@@ -7420,15 +6862,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
     id: "mirbat-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Mirbat Fort",
-                  "text": "Die Festung Mirbat in Mirbat, eine historische Burg.",
-                  "category": "castle",
-                  "coords": [
-                        54.695659,
-                        16.992016
-                  ]
-            },
-            {
                   "name": "Tower Zohair",
                   "text": "Der Turm Zohair in Mirbat, ein Wachturm.",
                   "category": "castle",
@@ -7445,36 +6878,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
                         54.689388,
                         16.995552
                   ]
-            },
-            {
-                  "name": "Bin Ali",
-                  "text": "Bin Ali in Mirbat, vermutlich ein historisches Grabmal.",
-                  "category": "landmark",
-                  "coords": [
-                        54.690658,
-                        17.002411
-                  ]
-            },
-            {
-                  "name": "Canons of Mirbat Castle",
-                  "text": "Die historischen Kanonen der Mirbat-Festung in Mirbat.",
-                  "category": "landmark",
-                  "coords": [
-                        54.691399,
-                        16.992494
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Mirbat Fort",
-                  "text": "A Mirbat erőd Mirbatban, egy történelmi vár.",
-                  "category": "castle",
-                  "coords": [
-                        54.695659,
-                        16.992016
-                  ]
-            },
             {
                   "name": "Tower Zohair",
                   "text": "A Zohair torony Mirbatban, egy őrtorony.",
@@ -7492,36 +6898,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
                         54.689388,
                         16.995552
                   ]
-            },
-            {
-                  "name": "Bin Ali",
-                  "text": "Bin Ali Mirbatban, valószínűleg egy történelmi síremlék.",
-                  "category": "landmark",
-                  "coords": [
-                        54.690658,
-                        17.002411
-                  ]
-            },
-            {
-                  "name": "Canons of Mirbat Castle",
-                  "text": "A Mirbat erőd történelmi ágyúi Mirbatban.",
-                  "category": "landmark",
-                  "coords": [
-                        54.691399,
-                        16.992494
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Mirbat Fort",
-                  "text": "Fortăreața Mirbat din Mirbat, un castel istoric.",
-                  "category": "castle",
-                  "coords": [
-                        54.695659,
-                        16.992016
-                  ]
-            },
             {
                   "name": "Tower Zohair",
                   "text": "Turnul Zohair din Mirbat, un turn de pază.",
@@ -7539,36 +6918,9 @@ export const poiExtraOmanCitiesV2: POI[] = [
                         54.689388,
                         16.995552
                   ]
-            },
-            {
-                  "name": "Bin Ali",
-                  "text": "Bin Ali din Mirbat, probabil un monument funerar istoric.",
-                  "category": "landmark",
-                  "coords": [
-                        54.690658,
-                        17.002411
-                  ]
-            },
-            {
-                  "name": "Canons of Mirbat Castle",
-                  "text": "Tunurile istorice ale cetății Mirbat din Mirbat.",
-                  "category": "landmark",
-                  "coords": [
-                        54.691399,
-                        16.992494
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Mirbat Fort",
-                  "text": "Mirbat Fort in Mirbat, a historic castle.",
-                  "category": "castle",
-                  "coords": [
-                        54.695659,
-                        16.992016
-                  ]
-            },
             {
                   "name": "Tower Zohair",
                   "text": "Tower Zohair in Mirbat, a watchtower.",
@@ -7585,24 +6937,6 @@ export const poiExtraOmanCitiesV2: POI[] = [
                   "coords": [
                         54.689388,
                         16.995552
-                  ]
-            },
-            {
-                  "name": "Bin Ali",
-                  "text": "Bin Ali in Mirbat, believed to be a historic tomb.",
-                  "category": "landmark",
-                  "coords": [
-                        54.690658,
-                        17.002411
-                  ]
-            },
-            {
-                  "name": "Canons of Mirbat Castle",
-                  "text": "The historic canons of Mirbat Castle in Mirbat.",
-                  "category": "landmark",
-                  "coords": [
-                        54.691399,
-                        16.992494
                   ]
             }
       ]

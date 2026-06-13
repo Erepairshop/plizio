@@ -11453,15 +11453,6 @@ export const poiExtraPeruLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Iglesia de La Merced",
-                  "text": "Die Kolonialkirche in Trujillo ist für ihre barocke Architektur und ihre mercedarische Geschichte bekannt.",
-                  "category": "religious",
-                  "coords": [
-                        -79.026843,
-                        -8.111222
-                  ]
-            },
-            {
                   "name": "Bellas Artes",
                   "text": "Diese Galerie für Schöne Künste präsentiert Ausstellungen visueller Kunst in Trujillo.",
                   "category": "museum",
@@ -11480,33 +11471,6 @@ export const poiExtraPeruLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Arqueologico",
-                  "text": "Das archäologische Museum stellt zahlreiche Artefakte der präkolumbischen Moche- und Chimú-Kulturen aus.",
-                  "category": "museum",
-                  "coords": [
-                        -79.024283,
-                        -8.110887
-                  ]
-            },
-            {
-                  "name": "Museo de Zoología Juan Ormea Rodríguez",
-                  "text": "Das zoologische Museum präsentiert eine umfangreiche Sammlung präparierter Tierarten der peruanischen Fauna.",
-                  "category": "museum",
-                  "coords": [
-                        -79.030592,
-                        -8.111442
-                  ]
-            },
-            {
-                  "name": "Catedralicio",
-                  "text": "Das religiöse Museum neben der Kathedrale von Trujillo beherbergt sakrale Kunst aus der Kolonialzeit.",
-                  "category": "museum",
-                  "coords": [
-                        -79.028271,
-                        -8.111034
-                  ]
-            },
-            {
                   "name": "Casa Urquiaga",
                   "text": "Das gut erhaltene koloniale Herrenhaus stellt antike Möbel und präkolumbischen Goldschmuck aus.",
                   "category": "museum",
@@ -11516,57 +11480,12 @@ export const poiExtraPeruLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Juguete",
-                  "text": "Das Spielzeugmuseum zeigt eine nostalgische Sammlung historischer Spielsachen aus verschiedenen Epochen.",
-                  "category": "museum",
-                  "coords": [
-                        -79.026705,
-                        -8.108286
-                  ]
-            },
-            {
-                  "name": "Museo de Arte Contemporaneo Urm Max Lois",
-                  "text": "Das Museum widmet sich der Präsentation zeitgenössischer Kunstausstellungen in Trujillo.",
-                  "category": "museum",
-                  "coords": [
-                        -79.012766,
-                        -8.102468
-                  ]
-            },
-            {
-                  "name": "Estatua de Friedrich Engels",
-                  "text": "Dieses Denkmal in Trujillo ist dem Philosophen und Gesellschaftstheoretiker Friedrich Engels gewidmet.",
-                  "category": "historical",
-                  "coords": [
-                        -79.008079,
-                        -8.10547
-                  ]
-            },
-            {
                   "name": "Huaca Takainamo",
                   "text": "Die archäologische Stätte Takainamo umfasst Adobe-Ruinen der Chimú-Kultur in der Nähe von Trujillo.",
                   "category": "historical",
                   "coords": [
                         -79.045456,
                         -8.079677
-                  ]
-            },
-            {
-                  "name": "Huaca Parana",
-                  "text": "Dieser alte präkolumbische Adobe-Hügel, auch Huaca genannt, hat sich im städtischen Gebiet von Trujillo erhalten.",
-                  "category": "historical",
-                  "coords": [
-                        -79.026499,
-                        -8.118605
-                  ]
-            },
-            {
-                  "name": "Liga de Artesanos",
-                  "text": "Das Kunstzentrum widmet sich der Förderung traditionellen Handwerks und lokaler Kunsthandwerker in Trujillo.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.025565,
-                        -8.107658
                   ]
             },
             {
@@ -11770,15 +11689,6 @@ export const poiExtraPeruLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Iglesia de La Merced",
-                  "text": "A trujillói gyarmati kori templom barokk építészetéről és mercedárius történelméről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        -79.026843,
-                        -8.111222
-                  ]
-            },
-            {
                   "name": "Bellas Artes",
                   "text": "Ez a Szépművészeti Galéria vizuális művészeti kiállításokat mutat be Trujillóban.",
                   "category": "museum",
@@ -11797,33 +11707,6 @@ export const poiExtraPeruLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Arqueologico",
-                  "text": "A régészeti múzeum a prekolumbiánus Moche és Chimú kultúrák számos műtárgyát állítja ki.",
-                  "category": "museum",
-                  "coords": [
-                        -79.024283,
-                        -8.110887
-                  ]
-            },
-            {
-                  "name": "Museo de Zoología Juan Ormea Rodríguez",
-                  "text": "A zoológiai múzeum a perui fauna preparált állatfajainak kiterjedt gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -79.030592,
-                        -8.111442
-                  ]
-            },
-            {
-                  "name": "Catedralicio",
-                  "text": "A trujillói katedrális melletti vallási múzeum gyarmati kori szakrális művészetet őriz.",
-                  "category": "museum",
-                  "coords": [
-                        -79.028271,
-                        -8.111034
-                  ]
-            },
-            {
                   "name": "Casa Urquiaga",
                   "text": "A jól megőrzött gyarmati kúria antik bútorokat és prekolumbiánus aranydíszeket mutat be.",
                   "category": "museum",
@@ -11833,57 +11716,12 @@ export const poiExtraPeruLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Juguete",
-                  "text": "A játékmúzeum különböző korszakokból származó vintage játékok nosztalgikus gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -79.026705,
-                        -8.108286
-                  ]
-            },
-            {
-                  "name": "Museo de Arte Contemporaneo Urm Max Lois",
-                  "text": "A múzeum a kortárs művészeti kiállítások bemutatásának szenteli magát Trujillóban.",
-                  "category": "museum",
-                  "coords": [
-                        -79.012766,
-                        -8.102468
-                  ]
-            },
-            {
-                  "name": "Estatua de Friedrich Engels",
-                  "text": "Ez a trujillói emlékmű Friedrich Engels filozófusnak és társadalomteoretikusnak állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        -79.008079,
-                        -8.10547
-                  ]
-            },
-            {
                   "name": "Huaca Takainamo",
                   "text": "A Takainamo régészeti lelőhely a Chimú kultúra vályogtégla romjait foglalja magába Trujillo közelében.",
                   "category": "historical",
                   "coords": [
                         -79.045456,
                         -8.079677
-                  ]
-            },
-            {
-                  "name": "Huaca Parana",
-                  "text": "Ez az ősi prekolumbiánus vályoghalom, azaz huaca a trujillói városi területen maradt fenn.",
-                  "category": "historical",
-                  "coords": [
-                        -79.026499,
-                        -8.118605
-                  ]
-            },
-            {
-                  "name": "Liga de Artesanos",
-                  "text": "A művészeti központ a hagyományos kézművesség és a helyi kézművesek támogatásának szenteli magát Trujillóban.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.025565,
-                        -8.107658
                   ]
             },
             {
@@ -12087,15 +11925,6 @@ export const poiExtraPeruLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Iglesia de La Merced",
-                  "text": "Această biserică colonială din Trujillo este remarcabilă pentru arhitectura sa barocă și istoria mercedariană.",
-                  "category": "religious",
-                  "coords": [
-                        -79.026843,
-                        -8.111222
-                  ]
-            },
-            {
                   "name": "Bellas Artes",
                   "text": "Această galerie de arte frumoase prezintă expoziții de artă vizuală în Trujillo.",
                   "category": "museum",
@@ -12114,33 +11943,6 @@ export const poiExtraPeruLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Arqueologico",
-                  "text": "Muzeul arheologic expune numeroase artefacte aparținând culturilor precolumbiene Moche și Chimú.",
-                  "category": "museum",
-                  "coords": [
-                        -79.024283,
-                        -8.110887
-                  ]
-            },
-            {
-                  "name": "Museo de Zoología Juan Ormea Rodríguez",
-                  "text": "Muzeul de zoologie prezintă o colecție vastă de specimene conservate ale faunei peruviene.",
-                  "category": "museum",
-                  "coords": [
-                        -79.030592,
-                        -8.111442
-                  ]
-            },
-            {
-                  "name": "Catedralicio",
-                  "text": "Muzeul religios adiacent Catedralei din Trujillo adăpostește artă sacră din perioada colonială.",
-                  "category": "museum",
-                  "coords": [
-                        -79.028271,
-                        -8.111034
-                  ]
-            },
-            {
                   "name": "Casa Urquiaga",
                   "text": "Acest conac colonial bine conservat expune mobilier antic și ornamente din aur precolumbiene.",
                   "category": "museum",
@@ -12150,57 +11952,12 @@ export const poiExtraPeruLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Juguete",
-                  "text": "Muzeul jucăriilor expune o colecție nostalgică de jucării de epocă din diferite perioade istorice.",
-                  "category": "museum",
-                  "coords": [
-                        -79.026705,
-                        -8.108286
-                  ]
-            },
-            {
-                  "name": "Museo de Arte Contemporaneo Urm Max Lois",
-                  "text": "Muzeul este dedicat prezentării expozițiilor de artă contemporană în Trujillo.",
-                  "category": "museum",
-                  "coords": [
-                        -79.012766,
-                        -8.102468
-                  ]
-            },
-            {
-                  "name": "Estatua de Friedrich Engels",
-                  "text": "Acest monument din Trujillo este dedicat filozofului și teoreticianului social Friedrich Engels.",
-                  "category": "historical",
-                  "coords": [
-                        -79.008079,
-                        -8.10547
-                  ]
-            },
-            {
                   "name": "Huaca Takainamo",
                   "text": "Situl arheologic Takainamo cuprinde ruine din chirpici ale culturii Chimú în vecinătatea orașului Trujillo.",
                   "category": "historical",
                   "coords": [
                         -79.045456,
                         -8.079677
-                  ]
-            },
-            {
-                  "name": "Huaca Parana",
-                  "text": "Această veche movilă din chirpici precolumbiană, sau huaca, este conservată în zona urbană din Trujillo.",
-                  "category": "historical",
-                  "coords": [
-                        -79.026499,
-                        -8.118605
-                  ]
-            },
-            {
-                  "name": "Liga de Artesanos",
-                  "text": "Acest centru de arte este dedicat promovării meșteșugurilor tradiționale și artizanilor locali din Trujillo.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.025565,
-                        -8.107658
                   ]
             },
             {
@@ -12404,15 +12161,6 @@ export const poiExtraPeruLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Iglesia de La Merced",
-                  "text": "This colonial-era church in Trujillo is known for its Baroque architecture and its history with the Mercedarian order.",
-                  "category": "religious",
-                  "coords": [
-                        -79.026843,
-                        -8.111222
-                  ]
-            },
-            {
                   "name": "Bellas Artes",
                   "text": "This fine arts gallery showcases visual arts exhibitions and local creative works in Trujillo.",
                   "category": "museum",
@@ -12431,33 +12179,6 @@ export const poiExtraPeruLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Arqueologico",
-                  "text": "The archaeological museum exhibits a wealth of artifacts from the Pre-Columbian Moche and Chimú cultures.",
-                  "category": "museum",
-                  "coords": [
-                        -79.024283,
-                        -8.110887
-                  ]
-            },
-            {
-                  "name": "Museo de Zoología Juan Ormea Rodríguez",
-                  "text": "The zoological museum features an extensive collection of preserved specimens showcasing regional Peruvian fauna.",
-                  "category": "museum",
-                  "coords": [
-                        -79.030592,
-                        -8.111442
-                  ]
-            },
-            {
-                  "name": "Catedralicio",
-                  "text": "The religious museum adjacent to Trujillo's Cathedral houses a collection of sacred colonial art.",
-                  "category": "museum",
-                  "coords": [
-                        -79.028271,
-                        -8.111034
-                  ]
-            },
-            {
                   "name": "Casa Urquiaga",
                   "text": "This well-preserved colonial mansion showcases antique furniture and a collection of pre-Columbian gold ornaments.",
                   "category": "museum",
@@ -12467,57 +12188,12 @@ export const poiExtraPeruLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo de Juguete",
-                  "text": "The toy museum displays a nostalgic and diverse collection of vintage toys from various historical eras.",
-                  "category": "museum",
-                  "coords": [
-                        -79.026705,
-                        -8.108286
-                  ]
-            },
-            {
-                  "name": "Museo de Arte Contemporaneo Urm Max Lois",
-                  "text": "The museum is dedicated to presenting contemporary art exhibitions and modern works in Trujillo.",
-                  "category": "museum",
-                  "coords": [
-                        -79.012766,
-                        -8.102468
-                  ]
-            },
-            {
-                  "name": "Estatua de Friedrich Engels",
-                  "text": "This monument in Trujillo is dedicated to the philosopher and social theorist Friedrich Engels.",
-                  "category": "historical",
-                  "coords": [
-                        -79.008079,
-                        -8.10547
-                  ]
-            },
-            {
                   "name": "Huaca Takainamo",
                   "text": "The Takainamo archaeological site features ancient adobe ruins from the Chimú culture near Trujillo.",
                   "category": "historical",
                   "coords": [
                         -79.045456,
                         -8.079677
-                  ]
-            },
-            {
-                  "name": "Huaca Parana",
-                  "text": "This ancient pre-Columbian adobe mound, or huaca, is preserved within the urban area of Trujillo.",
-                  "category": "historical",
-                  "coords": [
-                        -79.026499,
-                        -8.118605
-                  ]
-            },
-            {
-                  "name": "Liga de Artesanos",
-                  "text": "The arts centre is dedicated to promoting traditional crafts and supporting local artisans in Trujillo.",
-                  "category": "cultural",
-                  "coords": [
-                        -79.025565,
-                        -8.107658
                   ]
             },
             {

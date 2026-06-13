@@ -1860,24 +1860,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
     id: "kulhudhuffushi-regional-port-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Artificial Beach",
-                  "text": "Artificial Beach ist ein künstlich angelegter Sandstrand in kulhudhuffushi-regional-port-economic-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.069223,
-                        6.613305
-                  ]
-            },
-            {
-                  "name": "Dhekunu kulhi",
-                  "text": "Dhekunu kulhi ist ein geschütztes Naturschutzgebiet in kulhudhuffushi-regional-port-economic-v2.",
-                  "category": "natural",
-                  "coords": [
-                        73.070217,
-                        6.614075
-                  ]
-            },
-            {
                   "name": "Masjidhul Hasanaath Mosque",
                   "text": "Die Masjidhul Hasanaath Mosque ist eine islamische Gebetsstätte in kulhudhuffushi-regional-port-economic-v2.",
                   "category": "landmark",
@@ -1924,24 +1906,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Artificial Beach",
-                  "text": "Az Artificial Beach egy mesterséges homokos part kulhudhuffushi-regional-port-economic-v2 területén.",
-                  "category": "recreational",
-                  "coords": [
-                        73.069223,
-                        6.613305
-                  ]
-            },
-            {
-                  "name": "Dhekunu kulhi",
-                  "text": "A Dhekunu kulhi egy védett természetvédelmi terület kulhudhuffushi-regional-port-economic-v2 régiójában.",
-                  "category": "natural",
-                  "coords": [
-                        73.070217,
-                        6.614075
-                  ]
-            },
             {
                   "name": "Masjidhul Hasanaath Mosque",
                   "text": "A Masjidhul Hasanaath Mosque egy iszlám vallási helyszín kulhudhuffushi-regional-port-economic-v2 területén.",
@@ -1990,24 +1954,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Artificial Beach",
-                  "text": "Artificial Beach este o zonă de nisip artificială din kulhudhuffushi-regional-port-economic-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.069223,
-                        6.613305
-                  ]
-            },
-            {
-                  "name": "Dhekunu kulhi",
-                  "text": "Dhekunu kulhi este o rezervație naturală protejată, situată în kulhudhuffushi-regional-port-economic-v2.",
-                  "category": "natural",
-                  "coords": [
-                        73.070217,
-                        6.614075
-                  ]
-            },
-            {
                   "name": "Masjidhul Hasanaath Mosque",
                   "text": "Moscheea Masjidhul Hasanaath este un loc de cult islamic din kulhudhuffushi-regional-port-economic-v2.",
                   "category": "landmark",
@@ -2054,24 +2000,6 @@ export const poiExtraMaldivesEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Artificial Beach",
-                  "text": "Artificial Beach is a man-made stretch of sand in kulhudhuffushi-regional-port-economic-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.069223,
-                        6.613305
-                  ]
-            },
-            {
-                  "name": "Dhekunu kulhi",
-                  "text": "Dhekunu kulhi is a protected nature reserve situated in kulhudhuffushi-regional-port-economic-v2.",
-                  "category": "natural",
-                  "coords": [
-                        73.070217,
-                        6.614075
-                  ]
-            },
             {
                   "name": "Masjidhul Hasanaath Mosque",
                   "text": "Masjidhul Hasanaath Mosque is a religious site for Islamic worship in kulhudhuffushi-regional-port-economic-v2.",

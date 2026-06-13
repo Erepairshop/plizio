@@ -352,24 +352,6 @@ export const germanyReliefV2: POI[] = [
     id: "germany-feldberg-schwarzwald-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Haus der Natur",
-                  "text": "Ein Informationszentrum im Schwarzwald, das über die ökologische Bedeutung des Feldbergs aufklärt.",
-                  "category": "museum",
-                  "coords": [
-                        8.034883,
-                        47.860202
-                  ]
-            },
-            {
-                  "name": "Schinkenmuseum",
-                  "text": "Ein kleines Museum auf dem Feldberg, das sich der Herstellung des berühmten Schwarzwälder Schinkens widmet.",
-                  "category": "museum",
-                  "coords": [
-                        8.022145,
-                        47.864476
-                  ]
-            },
-            {
                   "name": "Baldenweger Buck",
                   "text": "Ein 1460 Meter hoher Berggipfel im Schwarzwald, der Teil des Feldberg-Massivs ist.",
                   "category": "landmark",
@@ -379,30 +361,12 @@ export const germanyReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stübenwasen",
-                  "text": "Der dritthöchste Berg im Schwarzwald, bekannt für seine weiten Aussichten und Wanderwege.",
-                  "category": "landmark",
-                  "coords": [
-                        7.971566,
-                        47.867402
-                  ]
-            },
-            {
                   "name": "Toter Mann",
                   "text": "Ein markanter Gipfel im Schwarzwald, der sich zwischen dem Feldberg und dem Schauinsland befindet.",
                   "category": "landmark",
                   "coords": [
                         7.990247,
                         47.892138
-                  ]
-            },
-            {
-                  "name": "Grafenmatt",
-                  "text": "Ein Berggipfel im Schwarzwald, der ein beliebtes Ziel für Wanderer und Wintersportler ist.",
-                  "category": "landmark",
-                  "coords": [
-                        8.020433,
-                        47.847871
                   ]
             },
             {
@@ -417,24 +381,6 @@ export const germanyReliefV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Haus der Natur",
-                  "text": "Információs központ a Fekete-erdőben, amely a Feldberg ökológiai jelentőségét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        8.034883,
-                        47.860202
-                  ]
-            },
-            {
-                  "name": "Schinkenmuseum",
-                  "text": "Egy kis múzeum a Feldbergen, amely a híres fekete-erdei sonka készítésének szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        8.022145,
-                        47.864476
-                  ]
-            },
-            {
                   "name": "Baldenweger Buck",
                   "text": "A Fekete-erdő 1460 méter magas hegycsúcsa, amely a Feldberg-masszívum része.",
                   "category": "landmark",
@@ -444,30 +390,12 @@ export const germanyReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stübenwasen",
-                  "text": "A Fekete-erdő harmadik legmagasabb hegye, amely tágas kilátásairól és túraútvonalairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        7.971566,
-                        47.867402
-                  ]
-            },
-            {
                   "name": "Toter Mann",
                   "text": "A Fekete-erdő egyik jellegzetes csúcsa, amely a Feldberg és a Schauinsland között helyezkedik el.",
                   "category": "landmark",
                   "coords": [
                         7.990247,
                         47.892138
-                  ]
-            },
-            {
-                  "name": "Grafenmatt",
-                  "text": "Hegycsúcs a Fekete-erdőben, amely a túrázók és a téli sportok kedvelőinek népszerű célpontja.",
-                  "category": "landmark",
-                  "coords": [
-                        8.020433,
-                        47.847871
                   ]
             },
             {
@@ -482,24 +410,6 @@ export const germanyReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Haus der Natur",
-                  "text": "Un centru de informare din Pădurea Neagră care oferă detalii despre importanța ecologică a masivului Feldberg.",
-                  "category": "museum",
-                  "coords": [
-                        8.034883,
-                        47.860202
-                  ]
-            },
-            {
-                  "name": "Schinkenmuseum",
-                  "text": "Un mic muzeu pe Feldberg dedicat producției faimoasei șunci din Pădurea Neagră.",
-                  "category": "museum",
-                  "coords": [
-                        8.022145,
-                        47.864476
-                  ]
-            },
-            {
                   "name": "Baldenweger Buck",
                   "text": "Un vârf montan de 1460 de metri din Pădurea Neagră, parte a masivului Feldberg.",
                   "category": "landmark",
@@ -509,30 +419,12 @@ export const germanyReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stübenwasen",
-                  "text": "Al treilea munte ca înălțime din Pădurea Neagră, cunoscut pentru panoramele sale și traseele de drumeție.",
-                  "category": "landmark",
-                  "coords": [
-                        7.971566,
-                        47.867402
-                  ]
-            },
-            {
                   "name": "Toter Mann",
                   "text": "Un vârf proeminent din Pădurea Neagră, situat între Feldberg și Schauinsland.",
                   "category": "landmark",
                   "coords": [
                         7.990247,
                         47.892138
-                  ]
-            },
-            {
-                  "name": "Grafenmatt",
-                  "text": "Un vârf montan din Pădurea Neagră, fiind o destinație populară pentru drumeții și sporturi de iarnă.",
-                  "category": "landmark",
-                  "coords": [
-                        8.020433,
-                        47.847871
                   ]
             },
             {
@@ -547,24 +439,6 @@ export const germanyReliefV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Haus der Natur",
-                  "text": "An information center in the Black Forest that educates visitors about the ecological importance of Feldberg.",
-                  "category": "museum",
-                  "coords": [
-                        8.034883,
-                        47.860202
-                  ]
-            },
-            {
-                  "name": "Schinkenmuseum",
-                  "text": "A small museum on the Feldberg dedicated to the production of the famous Black Forest ham.",
-                  "category": "museum",
-                  "coords": [
-                        8.022145,
-                        47.864476
-                  ]
-            },
-            {
                   "name": "Baldenweger Buck",
                   "text": "A 1460-meter-high mountain peak in the Black Forest, part of the Feldberg massif.",
                   "category": "landmark",
@@ -574,30 +448,12 @@ export const germanyReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stübenwasen",
-                  "text": "The third highest mountain in the Black Forest, known for its expansive views and hiking trails.",
-                  "category": "landmark",
-                  "coords": [
-                        7.971566,
-                        47.867402
-                  ]
-            },
-            {
                   "name": "Toter Mann",
                   "text": "A prominent peak in the Black Forest located between the Feldberg and the Schauinsland.",
                   "category": "landmark",
                   "coords": [
                         7.990247,
                         47.892138
-                  ]
-            },
-            {
-                  "name": "Grafenmatt",
-                  "text": "A mountain peak in the Black Forest that is a popular destination for hikers and winter sports enthusiasts.",
-                  "category": "landmark",
-                  "coords": [
-                        8.020433,
-                        47.847871
                   ]
             },
             {

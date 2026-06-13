@@ -714,50 +714,10 @@ export const poiExtraChadLifeV2: POI[] = [
   },
   {
     id: "mayo-kebbi-peanuts-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Centre Culturel de La Valee du Logone",
-                  "text": "Dieses Kulturzentrum widmet sich der Erhaltung und Präsentation des einzigartigen Erbes und der traditionellen Künste der im Logone-Flusstal lebenden Gemeinden.",
-                  "category": "cultural",
-                  "coords": [
-                        15.224346,
-                        10.331858
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Centre Culturel de La Valee du Logone",
-                  "text": "Ez a kulturális központ a Logone folyó völgyében élő közösségek egyedülálló örökségének és hagyományos művészetének megőrzésére és bemutatására szolgál.",
-                  "category": "cultural",
-                  "coords": [
-                        15.224346,
-                        10.331858
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Centre Culturel de La Valee du Logone",
-                  "text": "Acest centru cultural este dedicat păstrării și prezentării moștenirii unice și a artelor tradiționale ale comunităților care trăiesc în valea râului Logone.",
-                  "category": "cultural",
-                  "coords": [
-                        15.224346,
-                        10.331858
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Centre Culturel de La Valee du Logone",
-                  "text": "This cultural center is dedicated to preserving and showcasing the unique heritage and traditional arts of the communities living in the Logone River valley.",
-                  "category": "cultural",
-                  "coords": [
-                        15.224346,
-                        10.331858
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "agriculture",
     parent: "TD-ME",

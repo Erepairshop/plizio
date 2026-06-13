@@ -274,302 +274,10 @@ export const northmacedoniaLifeV2: POI[] = [
   },
   {
     id: "northmacedonia-pelister-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Stiv",
-                  "text": "Ein Berggipfel im Pelister-Nationalpark, der für seine Wanderwege bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        21.19937,
-                        41.013292
-                  ]
-            },
-            {
-                  "name": "Ilinden",
-                  "text": "Ein Gipfel im Pelister-Nationalpark mit Panoramablick auf die Berge.",
-                  "category": "landmark",
-                  "coords": [
-                        21.191696,
-                        41.005421
-                  ]
-            },
-            {
-                  "name": "Pelister",
-                  "text": "Der höchste Gipfel des Baba-Gebirges, gelegen im Pelister-Nationalpark.",
-                  "category": "landmark",
-                  "coords": [
-                        21.183191,
-                        41.002662
-                  ]
-            },
-            {
-                  "name": "Vidikovets",
-                  "text": "Ein markierter Aussichtspunkt mit schöner Aussicht im Pelister-Nationalpark.",
-                  "category": "natural",
-                  "coords": [
-                        21.205916,
-                        41.024694
-                  ]
-            },
-            {
-                  "name": "Jorgov Kamen",
-                  "text": "Ein markanter Aussichtspunkt im Pelister-Nationalpark mit weitem Blick auf die Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        21.222828,
-                        41.02141
-                  ]
-            },
-            {
-                  "name": "Crveni Steni (Red Rocks)",
-                  "text": "Ein Aussichtspunkt im Pelister-Nationalpark, der für seine roten Felsformationen bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        21.219523,
-                        41.010206
-                  ]
-            },
-            {
-                  "name": "Dihovo river pool",
-                  "text": "Ein Schwimmbecken am Fluss im Nationalpark Pelister, ideal für ein erfrischendes Bad.",
-                  "category": "recreational",
-                  "coords": [
-                        21.255515,
-                        41.021581
-                  ]
-            },
-            {
-                  "name": "Basen Dihovo",
-                  "text": "Ein Schwimmbad in der natürlichen Umgebung des Pelister Nationalparks.",
-                  "category": "recreational",
-                  "coords": [
-                        21.257966,
-                        41.025937
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Stiv",
-                  "text": "Hegycsúcs a Peliszter Nemzeti Parkban, amely túraútvonalairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        21.19937,
-                        41.013292
-                  ]
-            },
-            {
-                  "name": "Ilinden",
-                  "text": "Hegycsúcs a Peliszter Nemzeti Parkban, ahonnan panorámás kilátás nyílik a hegyekre.",
-                  "category": "landmark",
-                  "coords": [
-                        21.191696,
-                        41.005421
-                  ]
-            },
-            {
-                  "name": "Pelister",
-                  "text": "A Baba-hegység legmagasabb csúcsa a Peliszter Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        21.183191,
-                        41.002662
-                  ]
-            },
-            {
-                  "name": "Vidikovets",
-                  "text": "Kijelölt kilátóhely szép panorámával a Peliszter Nemzeti Parkban.",
-                  "category": "natural",
-                  "coords": [
-                        21.205916,
-                        41.024694
-                  ]
-            },
-            {
-                  "name": "Jorgov Kamen",
-                  "text": "Jelentős kilátópont a Peliszter Nemzeti Parkban, széles kilátással a környékre.",
-                  "category": "natural",
-                  "coords": [
-                        21.222828,
-                        41.02141
-                  ]
-            },
-            {
-                  "name": "Crveni Steni (Red Rocks)",
-                  "text": "Vörös sziklaformációiról ismert kilátóhely a Peliszter Nemzeti Parkban.",
-                  "category": "natural",
-                  "coords": [
-                        21.219523,
-                        41.010206
-                  ]
-            },
-            {
-                  "name": "Dihovo river pool",
-                  "text": "Folyóparti úszómedence a Pelister Nemzeti Parkban, ideális egy frissítő fürdőhöz.",
-                  "category": "recreational",
-                  "coords": [
-                        21.255515,
-                        41.021581
-                  ]
-            },
-            {
-                  "name": "Basen Dihovo",
-                  "text": "Úszómedence a Pelister Nemzeti Park természetes környezetében.",
-                  "category": "recreational",
-                  "coords": [
-                        21.257966,
-                        41.025937
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Stiv",
-                  "text": "Un vârf de munte din Parcul Național Pelister, cunoscut pentru traseele sale de drumeție.",
-                  "category": "landmark",
-                  "coords": [
-                        21.19937,
-                        41.013292
-                  ]
-            },
-            {
-                  "name": "Ilinden",
-                  "text": "Un vârf din Parcul Național Pelister care oferă vederi panoramice asupra munților.",
-                  "category": "landmark",
-                  "coords": [
-                        21.191696,
-                        41.005421
-                  ]
-            },
-            {
-                  "name": "Pelister",
-                  "text": "Cel mai înalt vârf din masivul Baba, situat în Parcul Național Pelister.",
-                  "category": "landmark",
-                  "coords": [
-                        21.183191,
-                        41.002662
-                  ]
-            },
-            {
-                  "name": "Vidikovets",
-                  "text": "Un punct de belvedere desemnat care oferă panorame pitorești în Parcul Național Pelister.",
-                  "category": "natural",
-                  "coords": [
-                        21.205916,
-                        41.024694
-                  ]
-            },
-            {
-                  "name": "Jorgov Kamen",
-                  "text": "Un punct de belvedere notabil din Parcul Național Pelister, oferind vederi largi asupra împrejurimilor.",
-                  "category": "natural",
-                  "coords": [
-                        21.222828,
-                        41.02141
-                  ]
-            },
-            {
-                  "name": "Crveni Steni (Red Rocks)",
-                  "text": "Un punct de belvedere cunoscut pentru formațiunile sale stâncoase roșii din Parcul Național Pelister.",
-                  "category": "natural",
-                  "coords": [
-                        21.219523,
-                        41.010206
-                  ]
-            },
-            {
-                  "name": "Dihovo river pool",
-                  "text": "O piscină la râu în Parcul Național Pelister, ideală pentru o baie revigorantă.",
-                  "category": "recreational",
-                  "coords": [
-                        21.255515,
-                        41.021581
-                  ]
-            },
-            {
-                  "name": "Basen Dihovo",
-                  "text": "O piscină situată în cadrul natural al Parcului Național Pelister.",
-                  "category": "recreational",
-                  "coords": [
-                        21.257966,
-                        41.025937
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Stiv",
-                  "text": "A mountain peak in the Pelister National Park known for its hiking trails.",
-                  "category": "landmark",
-                  "coords": [
-                        21.19937,
-                        41.013292
-                  ]
-            },
-            {
-                  "name": "Ilinden",
-                  "text": "A peak within the Pelister National Park offering panoramic mountain views.",
-                  "category": "landmark",
-                  "coords": [
-                        21.191696,
-                        41.005421
-                  ]
-            },
-            {
-                  "name": "Pelister",
-                  "text": "The highest peak of the Baba Mountain range, located in Pelister National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        21.183191,
-                        41.002662
-                  ]
-            },
-            {
-                  "name": "Vidikovec (Viewpoint)",
-                  "text": "A designated viewpoint providing scenic vistas within the Pelister National Park.",
-                  "category": "natural",
-                  "coords": [
-                        21.205916,
-                        41.024694
-                  ]
-            },
-            {
-                  "name": "Jorgov Kamen",
-                  "text": "A notable viewpoint in the Pelister National Park offering wide views of the surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        21.222828,
-                        41.02141
-                  ]
-            },
-            {
-                  "name": "Crveni Steni (Red Rocks)",
-                  "text": "A viewpoint known for its red rock formations in the Pelister National Park.",
-                  "category": "natural",
-                  "coords": [
-                        21.219523,
-                        41.010206
-                  ]
-            },
-            {
-                  "name": "Dihovo river pool",
-                  "text": "A river swimming pool in the Pelister National Park, ideal for a refreshing dip.",
-                  "category": "recreational",
-                  "coords": [
-                        21.255515,
-                        41.021581
-                  ]
-            },
-            {
-                  "name": "Basen Dihovo",
-                  "text": "A swimming pool located within the natural environment of the Pelister National Park.",
-                  "category": "recreational",
-                  "coords": [
-                        21.257966,
-                        41.025937
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "park",
     parent: "MK",
@@ -1248,24 +956,6 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Memorijalen tsentar Kodzhadzhik",
-                  "text": "Das Kodzhadzhik-Gedenkzentrum erinnert an den Ilinden-Aufstand von 1903 im Reservat Crn Drin.",
-                  "category": "museum",
-                  "coords": [
-                        20.600977,
-                        41.448223
-                  ]
-            },
-            {
-                  "name": "Sveti Grad",
-                  "text": "Sveti Grad ist eine mittelalterliche Festungsruine auf einem Hügel im Reservat Crn Drin.",
-                  "category": "castle",
-                  "coords": [
-                        20.593339,
-                        41.448229
-                  ]
-            },
-            {
                   "name": "Nov Lokovski Manastir",
                   "text": "Das neue Kloster von Lokov ist ein modernes orthodoxes Kloster im Gebiet Crn Drin.",
                   "category": "landmark",
@@ -1310,24 +1000,6 @@ export const northmacedoniaLifeV2: POI[] = [
                   "coords": [
                         20.587564,
                         41.393524
-                  ]
-            },
-            {
-                  "name": "Memorijalen tsentar Kodzhadzhik",
-                  "text": "A Kodzhadzhik Emlékközpont az 1903-as Ilinden-felkelésre emlékezik a Crn Drin rezervátumban.",
-                  "category": "museum",
-                  "coords": [
-                        20.600977,
-                        41.448223
-                  ]
-            },
-            {
-                  "name": "Sveti Grad",
-                  "text": "A Sveti Grad egy középkori várrom a Crn Drin rezervátum egyik dombján.",
-                  "category": "castle",
-                  "coords": [
-                        20.593339,
-                        41.448229
                   ]
             },
             {
@@ -1378,24 +1050,6 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Memorijalen tsentar Kodzhadzhik",
-                  "text": "Centrul Memorial Kodzhadzhic comemorează Răscoala de la Ilinden din 1903 în rezervația Crn Drin.",
-                  "category": "museum",
-                  "coords": [
-                        20.600977,
-                        41.448223
-                  ]
-            },
-            {
-                  "name": "Sveti Grad",
-                  "text": "Sveti Grad este o ruină de cetate medievală pe un deal în rezervația Crn Drin.",
-                  "category": "castle",
-                  "coords": [
-                        20.593339,
-                        41.448229
-                  ]
-            },
-            {
                   "name": "Nov Lokovski Manastir",
                   "text": "Noua Mănăstire Lokov este o mănăstire ortodoxă modernă în zona Crn Drin.",
                   "category": "landmark",
@@ -1440,24 +1094,6 @@ export const northmacedoniaLifeV2: POI[] = [
                   "coords": [
                         20.587564,
                         41.393524
-                  ]
-            },
-            {
-                  "name": "Kodzhadzhik Memorial center",
-                  "text": "Kodzhadzhik Memorial Center commemorates the 1903 Ilinden Uprising in the Crn Drin reserve.",
-                  "category": "museum",
-                  "coords": [
-                        20.600977,
-                        41.448223
-                  ]
-            },
-            {
-                  "name": "Sveti Grad",
-                  "text": "Sveti Grad is a medieval fortress ruin on a hill in the Crn Drin reserve.",
-                  "category": "castle",
-                  "coords": [
-                        20.593339,
-                        41.448229
                   ]
             },
             {
@@ -1651,266 +1287,10 @@ export const northmacedoniaLifeV2: POI[] = [
   },
   {
     id: "northmacedonia-blato-wetland-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Spomen-kukja na Tatarchevi",
-                  "text": "Das historische Wohnhaus der Familie Tatarchev, heute ein Gedenkmuseum.",
-                  "category": "museum",
-                  "coords": [
-                        21.013812,
-                        41.088372
-                  ]
-            },
-            {
-                  "name": "Resenski saraj",
-                  "text": "Ein imposantes neoklassizistisches Gebäude in Resen, das heute als Kulturzentrum dient.",
-                  "category": "landmark",
-                  "coords": [
-                        21.015935,
-                        41.088155
-                  ]
-            },
-            {
-                  "name": "Dobrovski Manastir",
-                  "text": "Eine religiöse und kulturelle Stätte in der Nähe des Blato-Feuchtgebiets.",
-                  "category": "landmark",
-                  "coords": [
-                        21.030485,
-                        41.08301
-                  ]
-            },
-            {
-                  "name": "Sv. Gjorgji",
-                  "text": "Orthodoxe Kirche des Heiligen Georg am Blato-Feuchtgebiet nahe Resen.",
-                  "category": "religious",
-                  "coords": [
-                        21.00884,
-                        41.089676
-                  ]
-            },
-            {
-                  "name": "Khadzhimuratova dzhamija",
-                  "text": "Ein historisches islamisches Gotteshaus in der Stadt Resen.",
-                  "category": "religious",
-                  "coords": [
-                        21.01124,
-                        41.092764
-                  ]
-            },
-            {
-                  "name": "Khadzhiramadanova dzhamija",
-                  "text": "Eine traditionelle Moschee in Resen, die Teil des kulturellen Erbes ist.",
-                  "category": "religious",
-                  "coords": [
-                        21.011495,
-                        41.090142
-                  ]
-            },
-            {
-                  "name": "Sv. Kiril i Metodij",
-                  "text": "Eine orthodoxe Kirche in der Nähe des Prespa-Sees, die den Heiligen Kyrill und Method gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        21.009363,
-                        41.091707
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Spomen-kukja na Tatarchevi",
-                  "text": "A Tatarchev család történelmi lakóháza, ma emlékmúzeum.",
-                  "category": "museum",
-                  "coords": [
-                        21.013812,
-                        41.088372
-                  ]
-            },
-            {
-                  "name": "Resenski saraj",
-                  "text": "Impozáns neoklasszicista épület Resenben, amely ma kulturális központként működik.",
-                  "category": "landmark",
-                  "coords": [
-                        21.015935,
-                        41.088155
-                  ]
-            },
-            {
-                  "name": "Dobrovski Manastir",
-                  "text": "Vallási és kulturális helyszín a Blato-mocsár közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        21.030485,
-                        41.08301
-                  ]
-            },
-            {
-                  "name": "Sv. Gjorgji",
-                  "text": "Szent György ortodox templom a Blato-mocsárnál Resen mellett.",
-                  "category": "religious",
-                  "coords": [
-                        21.00884,
-                        41.089676
-                  ]
-            },
-            {
-                  "name": "Khadzhimuratova dzhamija",
-                  "text": "Történelmi iszlám imaház Resen városában.",
-                  "category": "religious",
-                  "coords": [
-                        21.01124,
-                        41.092764
-                  ]
-            },
-            {
-                  "name": "Khadzhiramadanova dzhamija",
-                  "text": "Hagyományos mecset Resenben, amely a kulturális örökség része.",
-                  "category": "religious",
-                  "coords": [
-                        21.011495,
-                        41.090142
-                  ]
-            },
-            {
-                  "name": "Sv. Kiril i Metodij",
-                  "text": "A Preszpa-tó közelében található ortodox templom, amelyet Szent Cirillnek és Metódnak szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        21.009363,
-                        41.091707
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Spomen-kukja na Tatarchevi",
-                  "text": "Casa istorică a familiei Tatarchev, astăzi muzeu memorial.",
-                  "category": "museum",
-                  "coords": [
-                        21.013812,
-                        41.088372
-                  ]
-            },
-            {
-                  "name": "Resenski saraj",
-                  "text": "O clădire neoclasică impunătoare în Resen, care servește astăzi drept centru cultural.",
-                  "category": "landmark",
-                  "coords": [
-                        21.015935,
-                        41.088155
-                  ]
-            },
-            {
-                  "name": "Dobrovski Manastir",
-                  "text": "Un sit religios și cultural situat în apropierea zonei umede Blato.",
-                  "category": "landmark",
-                  "coords": [
-                        21.030485,
-                        41.08301
-                  ]
-            },
-            {
-                  "name": "Sv. Gjorgji",
-                  "text": "Biserica ortodoxă Sfântul Gheorghe lângă zona umedă Blato, lângă Resen.",
-                  "category": "religious",
-                  "coords": [
-                        21.00884,
-                        41.089676
-                  ]
-            },
-            {
-                  "name": "Khadzhimuratova dzhamija",
-                  "text": "Un lăcaș de cult islamic istoric din orașul Resen.",
-                  "category": "religious",
-                  "coords": [
-                        21.01124,
-                        41.092764
-                  ]
-            },
-            {
-                  "name": "Khadzhiramadanova dzhamija",
-                  "text": "O moschee tradițională din Resen, parte a moștenirii culturale.",
-                  "category": "religious",
-                  "coords": [
-                        21.011495,
-                        41.090142
-                  ]
-            },
-            {
-                  "name": "Sv. Kiril i Metodij",
-                  "text": "O biserică ortodoxă situată în apropierea lacului Prespa, dedicată Sfinților Chiril și Metodiu.",
-                  "category": "religious",
-                  "coords": [
-                        21.009363,
-                        41.091707
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Tatarchev House",
-                  "text": "The historical residence of the Tatarchev family, now a memorial museum.",
-                  "category": "museum",
-                  "coords": [
-                        21.013812,
-                        41.088372
-                  ]
-            },
-            {
-                  "name": "Saraj Resen",
-                  "text": "An imposing neoclassical building in Resen, now serving as a cultural centre.",
-                  "category": "landmark",
-                  "coords": [
-                        21.015935,
-                        41.088155
-                  ]
-            },
-            {
-                  "name": "Monastery of Dobrovo",
-                  "text": "A religious and cultural site located near the Blato wetland.",
-                  "category": "landmark",
-                  "coords": [
-                        21.030485,
-                        41.08301
-                  ]
-            },
-            {
-                  "name": "St. George",
-                  "text": "Orthodox Church of St. George near the Blato Wetland near Resen.",
-                  "category": "religious",
-                  "coords": [
-                        21.00884,
-                        41.089676
-                  ]
-            },
-            {
-                  "name": "Hadji Murat Mosque",
-                  "text": "A historical Islamic place of worship in the town of Resen.",
-                  "category": "religious",
-                  "coords": [
-                        21.01124,
-                        41.092764
-                  ]
-            },
-            {
-                  "name": "Hadji Ramadan Mosque",
-                  "text": "A traditional mosque in Resen, part of the cultural heritage.",
-                  "category": "religious",
-                  "coords": [
-                        21.011495,
-                        41.090142
-                  ]
-            },
-            {
-                  "name": "Saints Cyril and Methodius",
-                  "text": "An Orthodox church located near Lake Prespa, dedicated to Saints Cyril and Methodius.",
-                  "category": "religious",
-                  "coords": [
-                        21.009363,
-                        41.091707
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "wildlife",
     parent: "MK",
@@ -2002,50 +1382,10 @@ export const northmacedoniaLifeV2: POI[] = [
   },
   {
     id: "northmacedonia-skopska-crna-gora-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Manastir Sv. Bogoroditsa",
-                  "text": "Ein Kloster in der Region Skopska Crna Gora, das der Heiligen Gottesmutter gewidmet ist.",
-                  "category": "landmark",
-                  "coords": [
-                        21.428267,
-                        42.125572
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Manastir Sv. Bogoroditsa",
-                  "text": "A Szent Szűzanya tiszteletére szentelt kolostor a Szkopszka Crna Gora régióban.",
-                  "category": "landmark",
-                  "coords": [
-                        21.428267,
-                        42.125572
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Manastir Sv. Bogoroditsa",
-                  "text": "O mănăstire în regiunea Skopska Crna Gora, dedicată Sfintei Maici a Domnului.",
-                  "category": "landmark",
-                  "coords": [
-                        21.428267,
-                        42.125572
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "St. Holy Mother of God Monastery",
-                  "text": "A monastery in the Skopska Crna Gora region dedicated to the St. Holy Mother of God.",
-                  "category": "landmark",
-                  "coords": [
-                        21.428267,
-                        42.125572
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "MK",
@@ -2722,50 +2062,10 @@ export const northmacedoniaLifeV2: POI[] = [
   },
   {
     id: "northmacedonia-treska-river-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Peshtera Vrelo",
-                  "text": "Eine der tiefsten Unterwasserhöhlen der Welt im Matka-Canyon.",
-                  "category": "landmark",
-                  "coords": [
-                        21.292269,
-                        41.93016
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Peshtera Vrelo",
-                  "text": "A világ egyik legmélyebb víz alatti barlangja a Matka-kanyonban.",
-                  "category": "landmark",
-                  "coords": [
-                        21.292269,
-                        41.93016
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Peshtera Vrelo",
-                  "text": "Una dintre cele mai adânci peșteri subacvatice din lume, în canionul Matka.",
-                  "category": "landmark",
-                  "coords": [
-                        21.292269,
-                        41.93016
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Vrelo Cave",
-                  "text": "One of the deepest underwater caves in the world, located in Matka Canyon.",
-                  "category": "landmark",
-                  "coords": [
-                        21.292269,
-                        41.93016
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "river",
     parent: "MK",
@@ -3084,24 +2384,6 @@ export const northmacedoniaLifeV2: POI[] = [
     id: "northmacedonia-dojran-wetland-life-v2", "sights": {
       "de": [
             {
-                  "name": "Muzej na Dojran",
-                  "text": "Ein lokales Museum, das die Natur- und Kulturgeschichte der Dojran-Region präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        22.722073,
-                        41.187034
-                  ]
-            },
-            {
-                  "name": "STAGE BEACH",
-                  "text": "Ein beliebter Strandabschnitt am Dojran-See, der Möglichkeiten zur Erholung bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        22.716742,
-                        41.194896
-                  ]
-            },
-            {
                   "name": "Kale Tepe",
                   "text": "Ein markanter Gipfel in der Dojran-Region, der einen weiten Blick auf das Feuchtgebiet bietet.",
                   "category": "landmark",
@@ -3129,15 +2411,6 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Romantique Pool & Bar",
-                  "text": "Ein Schwimmbad und Barbereich in der Nähe des Dojran-Feuchtgebiets.",
-                  "category": "recreational",
-                  "coords": [
-                        22.723201,
-                        41.185247
-                  ]
-            },
-            {
                   "name": "Bazen Istatov",
                   "text": "Ein Schwimmbad am Rande des Dojran-Feuchtgebiets.",
                   "category": "recreational",
@@ -3148,24 +2421,6 @@ export const northmacedoniaLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Muzej na Dojran",
-                  "text": "Helyi múzeum, amely a Dojrani-régió természetrajzát és kultúrtörténetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        22.722073,
-                        41.187034
-                  ]
-            },
-            {
-                  "name": "STAGE BEACH",
-                  "text": "Népszerű strand szakasz a Dojrani-tónál, amely kikapcsolódási lehetőséget kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        22.716742,
-                        41.194896
-                  ]
-            },
             {
                   "name": "Kale Tepe",
                   "text": "Jellegzetes csúcs a Dojrani-régióban, amely széles kilátást nyújt a vizes élőhelyre.",
@@ -3194,15 +2449,6 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Romantique Pool & Bar",
-                  "text": "Úszómedence és bár a Dojran-mocsárvidék közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        22.723201,
-                        41.185247
-                  ]
-            },
-            {
                   "name": "Bazen Istatov",
                   "text": "Úszómedence a Dojran-mocsárvidék szélén.",
                   "category": "recreational",
@@ -3213,24 +2459,6 @@ export const northmacedoniaLifeV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Muzej na Dojran",
-                  "text": "Un muzeu local care prezintă istoria naturală și culturală a regiunii Dojran.",
-                  "category": "museum",
-                  "coords": [
-                        22.722073,
-                        41.187034
-                  ]
-            },
-            {
-                  "name": "STAGE BEACH",
-                  "text": "O secțiune de plajă populară la Lacul Dojran, oferind facilități pentru recreere.",
-                  "category": "recreational",
-                  "coords": [
-                        22.716742,
-                        41.194896
-                  ]
-            },
             {
                   "name": "Kale Tepe",
                   "text": "Un vârf proeminent în regiunea Dojran, oferind o vedere panoramică asupra zonelor umede.",
@@ -3259,15 +2487,6 @@ export const northmacedoniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Romantique Pool & Bar",
-                  "text": "O piscină și o zonă de bar situată lângă zona umedă Dojran.",
-                  "category": "recreational",
-                  "coords": [
-                        22.723201,
-                        41.185247
-                  ]
-            },
-            {
                   "name": "Bazen Istatov",
                   "text": "O piscină situată la marginea zonei umede Dojran.",
                   "category": "recreational",
@@ -3278,24 +2497,6 @@ export const northmacedoniaLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Dojran Museum",
-                  "text": "A local museum presenting the natural and cultural history of the Dojran region.",
-                  "category": "museum",
-                  "coords": [
-                        22.722073,
-                        41.187034
-                  ]
-            },
-            {
-                  "name": "STAGE BEACH",
-                  "text": "A popular beach area at Lake Dojran offering opportunities for recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        22.716742,
-                        41.194896
-                  ]
-            },
             {
                   "name": "Kale Tepe",
                   "text": "A prominent peak in the Dojran region offering expansive views of the wetland.",
@@ -3321,15 +2522,6 @@ export const northmacedoniaLifeV2: POI[] = [
                   "coords": [
                         22.710967,
                         41.205172
-                  ]
-            },
-            {
-                  "name": "Romantique Pool & Bar",
-                  "text": "A swimming pool and bar area located near the Dojran Wetland.",
-                  "category": "recreational",
-                  "coords": [
-                        22.723201,
-                        41.185247
                   ]
             },
             {

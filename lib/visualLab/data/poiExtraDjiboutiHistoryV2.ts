@@ -156,39 +156,12 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Garrôni ‘Ale",
-                  "text": "Garrôni ‘Ale ist ein felsiger Hügel, der strategische Aussichtspunkte nahe der historischen russischen Siedlung Sagallou bietet.",
-                  "category": "natural",
-                  "coords": [
-                        42.701111,
-                        11.696944
-                  ]
-            },
-            {
-                  "name": "Hankatta",
-                  "text": "Hankatta ist ein karger Gipfel, der sich über die trockenen Küstenebenen rund um das ehemalige Sagallou-Fort erhebt.",
-                  "category": "natural",
-                  "coords": [
-                        42.729167,
-                        11.711667
-                  ]
-            },
-            {
                   "name": "Gâli Kôma",
                   "text": "Gâli Kôma ist ein markanter Berggipfel, der landeinwärts der historischen Küstenruinen von Sagallou liegt.",
                   "category": "natural",
                   "coords": [
                         42.684722,
                         11.659444
-                  ]
-            },
-            {
-                  "name": "‘Asa Kôma",
-                  "text": "‘Asa Kôma ist ein rötlicher vulkanischer Gipfel, der die historischen Landschaften der Sagallou-Region überragt.",
-                  "category": "natural",
-                  "coords": [
-                        42.709722,
-                        11.685278
                   ]
             },
             {
@@ -221,39 +194,12 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Garrôni ‘Ale",
-                  "text": "A Garrôni ‘Ale egy sziklás domb, amely stratégiai kilátópontokat kínál a történelmi orosz település, Sagallou közelében.",
-                  "category": "natural",
-                  "coords": [
-                        42.701111,
-                        11.696944
-                  ]
-            },
-            {
-                  "name": "Hankatta",
-                  "text": "A Hankatta egy kopár hegycsúcs, amely az egykori sagalloui erőd körüli száraz tengerparti síkságok fölé magasodik.",
-                  "category": "natural",
-                  "coords": [
-                        42.729167,
-                        11.711667
-                  ]
-            },
-            {
                   "name": "Gâli Kôma",
                   "text": "A Gâli Kôma egy jellegzetes hegycsúcs, amely a történelmi tengerparti Sagallou romjaitól a szárazföld belsejében található.",
                   "category": "natural",
                   "coords": [
                         42.684722,
                         11.659444
-                  ]
-            },
-            {
-                  "name": "‘Asa Kôma",
-                  "text": "Az ‘Asa Kôma egy vöröses vulkáni hegycsúcs, amely a Sagallou régió történelmi tájai fölé tornyosul.",
-                  "category": "natural",
-                  "coords": [
-                        42.709722,
-                        11.685278
                   ]
             },
             {
@@ -286,39 +232,12 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Garrôni ‘Ale",
-                  "text": "Garrôni ‘Ale este un deal stâncos care oferă puncte de observație strategice lângă așezarea istorică rusă Sagallou.",
-                  "category": "natural",
-                  "coords": [
-                        42.701111,
-                        11.696944
-                  ]
-            },
-            {
-                  "name": "Hankatta",
-                  "text": "Hankatta este un vârf arid care se înalță deasupra câmpiilor de coastă uscate din jurul fostului fort Sagallou.",
-                  "category": "natural",
-                  "coords": [
-                        42.729167,
-                        11.711667
-                  ]
-            },
-            {
                   "name": "Gâli Kôma",
                   "text": "Gâli Kôma este un vârf montan distinct situat în interiorul continentului, departe de ruinele de coastă istorice ale Sagallou.",
                   "category": "natural",
                   "coords": [
                         42.684722,
                         11.659444
-                  ]
-            },
-            {
-                  "name": "‘Asa Kôma",
-                  "text": "‘Asa Kôma este un vârf vulcanic roșiatic care se înalță peste peisajele istorice din regiunea Sagallou.",
-                  "category": "natural",
-                  "coords": [
-                        42.709722,
-                        11.685278
                   ]
             },
             {
@@ -351,39 +270,12 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Garrôni ‘Ale",
-                  "text": "Garrôni ‘Ale is a rocky hill providing strategic vantage points near the historical Russian settlement of Sagallou.",
-                  "category": "natural",
-                  "coords": [
-                        42.701111,
-                        11.696944
-                  ]
-            },
-            {
-                  "name": "Hankatta",
-                  "text": "Hankatta is a barren peak rising above the arid coastal plains around the former Sagallou fort.",
-                  "category": "natural",
-                  "coords": [
-                        42.729167,
-                        11.711667
-                  ]
-            },
-            {
                   "name": "Gâli Kôma",
                   "text": "Gâli Kôma is a distinct mountain summit located inland from the historic coastal ruins of Sagallou.",
                   "category": "natural",
                   "coords": [
                         42.684722,
                         11.659444
-                  ]
-            },
-            {
-                  "name": "‘Asa Kôma",
-                  "text": "‘Asa Kôma is a reddish volcanic peak towering over the historic landscapes of the Sagallou region.",
-                  "category": "natural",
-                  "coords": [
-                        42.709722,
-                        11.685278
                   ]
             },
             {
@@ -1828,15 +1720,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gaourir",
-                  "text": "Der Gipfel des Gaourir erhebt sich dramatisch aus der schroffen Landschaft nahe der Guedi-Höhle.",
-                  "category": "natural",
-                  "coords": [
-                        42.821667,
-                        11.483056
-                  ]
-            },
-            {
                   "name": "Midgân",
                   "text": "Midgân ist ein markanter Gipfel in der historisch reichen Bergregion der Guedi-Höhle.",
                   "category": "natural",
@@ -1906,33 +1789,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
                   "coords": [
                         42.825223,
                         11.488035
-                  ]
-            },
-            {
-                  "name": "Drago de la 13è Demi-Brigade de la Légion Étrangère",
-                  "text": "Dieses historische Militärdenkmal markiert die Präsenz der 13. Halbbrigade der französischen Fremdenlegion nahe der Guedi-Höhle.",
-                  "category": "landmark",
-                  "coords": [
-                        42.823346,
-                        11.494637
-                  ]
-            },
-            {
-                  "name": "LEGIO",
-                  "text": "LEGIO ist eine Gedenkstätte, die an den historischen Einsatz der Fremdenlegion in der Region der Guedi-Höhle erinnert.",
-                  "category": "landmark",
-                  "coords": [
-                        42.825691,
-                        11.492395
-                  ]
-            },
-            {
-                  "name": "UNITE MIDNIMO",
-                  "text": "UNITE MIDNIMO ist ein kulturelles Denkmal, das Einheit symbolisiert und sich innerhalb der historischen Grenzen des Gebietes der Guedi-Höhle befindet.",
-                  "category": "landmark",
-                  "coords": [
-                        42.826976,
-                        11.480719
                   ]
             }
       ],
@@ -2037,15 +1893,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gaourir",
-                  "text": "A Gaourir csúcsa drámaian emelkedik ki a zord tájból a Guedi-barlang közelében.",
-                  "category": "natural",
-                  "coords": [
-                        42.821667,
-                        11.483056
-                  ]
-            },
-            {
                   "name": "Midgân",
                   "text": "A Midgân egy kiemelkedő csúcs, amely a Guedi-barlang történelmileg gazdag hegyvidéki régiójában található.",
                   "category": "natural",
@@ -2115,33 +1962,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
                   "coords": [
                         42.825223,
                         11.488035
-                  ]
-            },
-            {
-                  "name": "Drago de la 13è Demi-Brigade de la Légion Étrangère",
-                  "text": "Ez a történelmi katonai emlékmű a francia Idegenlégió 13. fél-dandárjának jelenlétét jelzi a Guedi-barlang közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        42.823346,
-                        11.494637
-                  ]
-            },
-            {
-                  "name": "LEGIO",
-                  "text": "A LEGIO egy emlékhely, amely az Idegenlégió történelmi állomásozásához kapcsolódik a Guedi-barlang régiójában.",
-                  "category": "landmark",
-                  "coords": [
-                        42.825691,
-                        11.492395
-                  ]
-            },
-            {
-                  "name": "UNITE MIDNIMO",
-                  "text": "A UNITE MIDNIMO egy egységet szimbolizáló kulturális emlékmű, amely a Guedi-barlang történelmi határain belül található.",
-                  "category": "landmark",
-                  "coords": [
-                        42.826976,
-                        11.480719
                   ]
             }
       ],
@@ -2246,15 +2066,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gaourir",
-                  "text": "Vârful Gaourir se ridică spectaculos din peisajul accidentat din apropierea peșterii Guedi.",
-                  "category": "natural",
-                  "coords": [
-                        42.821667,
-                        11.483056
-                  ]
-            },
-            {
                   "name": "Midgân",
                   "text": "Midgân este un vârf proeminent situat în regiunea muntoasă bogată istoric a peșterii Guedi.",
                   "category": "natural",
@@ -2324,33 +2135,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
                   "coords": [
                         42.825223,
                         11.488035
-                  ]
-            },
-            {
-                  "name": "Drago de la 13è Demi-Brigade de la Légion Étrangère",
-                  "text": "Acest monument militar istoric marchează prezența celei de-a 13-a Demi-Brigăzi a Legiunii Străine Franceze lângă peștera Guedi.",
-                  "category": "landmark",
-                  "coords": [
-                        42.823346,
-                        11.494637
-                  ]
-            },
-            {
-                  "name": "LEGIO",
-                  "text": "LEGIO este o atracție comemorativă legată de desfășurarea istorică a Legiunii Străine în regiunea peșterii Guedi.",
-                  "category": "landmark",
-                  "coords": [
-                        42.825691,
-                        11.492395
-                  ]
-            },
-            {
-                  "name": "UNITE MIDNIMO",
-                  "text": "UNITE MIDNIMO este un monument cultural care simbolizează unitatea, situat în limitele istorice ale zonei peșterii Guedi.",
-                  "category": "landmark",
-                  "coords": [
-                        42.826976,
-                        11.480719
                   ]
             }
       ],
@@ -2455,15 +2239,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gaourir",
-                  "text": "The peak of Gaourir rises dramatically from the rugged landscape near the Guedi cave.",
-                  "category": "natural",
-                  "coords": [
-                        42.821667,
-                        11.483056
-                  ]
-            },
-            {
                   "name": "Midgân",
                   "text": "Midgân is a prominent summit situated in the historically rich mountainous region of the Guedi cave.",
                   "category": "natural",
@@ -2533,33 +2308,6 @@ export const poiExtraDjiboutiHistoryV2: POI[] = [
                   "coords": [
                         42.825223,
                         11.488035
-                  ]
-            },
-            {
-                  "name": "Drago de la 13è Demi-Brigade de la Légion Étrangère",
-                  "text": "This historic military monument marks the presence of the 13th Demi-Brigade of the French Foreign Legion near the Guedi cave.",
-                  "category": "landmark",
-                  "coords": [
-                        42.823346,
-                        11.494637
-                  ]
-            },
-            {
-                  "name": "LEGIO",
-                  "text": "LEGIO is a commemorative attraction related to the Foreign Legion's historic deployment in the Guedi cave region.",
-                  "category": "landmark",
-                  "coords": [
-                        42.825691,
-                        11.492395
-                  ]
-            },
-            {
-                  "name": "UNITE MIDNIMO",
-                  "text": "UNITE MIDNIMO is a cultural monument symbolizing unity, located within the historic bounds of the Guedi cave area.",
-                  "category": "landmark",
-                  "coords": [
-                        42.826976,
-                        11.480719
                   ]
             }
       ]

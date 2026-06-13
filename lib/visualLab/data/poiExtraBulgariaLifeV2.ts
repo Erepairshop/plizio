@@ -186,24 +186,6 @@ export const bulgariaLifeV2: POI[] = [
     id: "bulgaria-vitosha-nature-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Torfeno branishche",
-                  "text": "Ein Naturschutzgebiet am Witoscha-Gebirge, berühmt für seine ausgedehnten Torfmoore und subalpine Flora.",
-                  "category": "natural",
-                  "coords": [
-                        23.267477,
-                        42.582811
-                  ]
-            },
-            {
-                  "name": "Zlatnite mostove",
-                  "text": "Eine berühmte Attraktion im Naturpark Witoscha, bekannt für ihren beeindruckenden „Steinernen Fluss“ aus großen Felsbrocken.",
-                  "category": "landmark",
-                  "coords": [
-                        23.239174,
-                        42.609729
-                  ]
-            },
-            {
                   "name": "Ostritsa",
                   "text": "Ein malerischer Aussichtspunkt im Naturpark Witoscha mit Panoramablick auf die umliegenden Berge.",
                   "category": "natural",
@@ -223,24 +205,6 @@ export const bulgariaLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Torfeno branishche",
-                  "text": "Természetvédelmi terület a Vitosa-hegyen, amely kiterjedt tőzeglápjairól és szubalpin flórájáról híres.",
-                  "category": "natural",
-                  "coords": [
-                        23.267477,
-                        42.582811
-                  ]
-            },
-            {
-                  "name": "Zlatnite mostove",
-                  "text": "A Vitosa Natúrpark híres látványossága, amely a hatalmas sziklákból álló „kőfolyójáról” ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        23.239174,
-                        42.609729
-                  ]
-            },
             {
                   "name": "Ostritsa",
                   "text": "Festői kilátópont a Vitosa Natúrparkban, ahonnan panorámás kilátás nyílik a környező hegyekre.",
@@ -262,24 +226,6 @@ export const bulgariaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Torfeno branishche",
-                  "text": "O rezervație naturală pe muntele Vitoșa, faimoasă pentru mlaștinile sale de turbă și flora subalpină.",
-                  "category": "natural",
-                  "coords": [
-                        23.267477,
-                        42.582811
-                  ]
-            },
-            {
-                  "name": "Zlatnite mostove",
-                  "text": "O atracție faimoasă în Parcul Natural Vitoșa, cunoscută pentru impresionantul său „râu de piatră” format din bolovani mari.",
-                  "category": "landmark",
-                  "coords": [
-                        23.239174,
-                        42.609729
-                  ]
-            },
-            {
                   "name": "Ostritsa",
                   "text": "Un punct de belvedere pitoresc în Parcul Natural Vitoșa, oferind vederi panoramice asupra munților din jur.",
                   "category": "natural",
@@ -299,24 +245,6 @@ export const bulgariaLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Torfeno Branishte Reserve",
-                  "text": "A nature reserve on Vitosha Mountain, famous for its extensive peat bogs and subalpine flora.",
-                  "category": "natural",
-                  "coords": [
-                        23.267477,
-                        42.582811
-                  ]
-            },
-            {
-                  "name": "Golden Bridges",
-                  "text": "A famous attraction in Vitosha Nature Park, known for its impressive \"stone river\" of large boulders.",
-                  "category": "landmark",
-                  "coords": [
-                        23.239174,
-                        42.609729
-                  ]
-            },
             {
                   "name": "Ostritsa",
                   "text": "A scenic viewpoint in Vitosha Nature Park offering panoramic views of the surrounding mountains.",
@@ -789,60 +717,6 @@ export const bulgariaLifeV2: POI[] = [
     id: "bulgaria-rosen-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Muzei na rozata",
-                  "text": "Ein Museum in Kasanlak, das der Geschichte der Ölrose gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        25.388312,
-                        42.623197
-                  ]
-            },
-            {
-                  "name": "Thrakergrab von Kasanlak",
-                  "text": "Ein UNESCO-Weltkulturerbe mit antiken thrakischen Wandmalereien.",
-                  "category": "historical",
-                  "coords": [
-                        25.399166,
-                        42.625736
-                  ]
-            },
-            {
-                  "name": "Istoricheski Muzei Iskra Kazanl'k",
-                  "text": "Historisches Museum Iskra im Rosenpark.",
-                  "category": "museum",
-                  "coords": [
-                        25.39503,
-                        42.621263
-                  ]
-            },
-            {
-                  "name": "Literaturno-khudozhovestven musei Chudomir",
-                  "text": "Ein Museum in Kasanlak, das dem Werk des Dichters und Malers Tschudomir gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        25.398221,
-                        42.620149
-                  ]
-            },
-            {
-                  "name": "Tiulbeto",
-                  "text": "Ein bewaldeter Stadtpark in Kasanlak, in dem sich das thrakische Grabmal befindet.",
-                  "category": "park",
-                  "coords": [
-                        25.403321,
-                        42.631726
-                  ]
-            },
-            {
-                  "name": "Evro monument",
-                  "text": "Ein Denkmal in Kasanlak, das der europäischen Gemeinschaft gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        25.393366,
-                        42.619776
-                  ]
-            },
-            {
                   "name": "Akvapark Waterland",
                   "text": "Ein Wasserpark zur Erholung in der Nähe des Rosenparks in Kasanlak.",
                   "category": "recreational",
@@ -853,60 +727,6 @@ export const bulgariaLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Muzei na rozata",
-                  "text": "Kazanlak múzeuma, amely az olajrózsa termesztésének történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        25.388312,
-                        42.623197
-                  ]
-            },
-            {
-                  "name": "Trakiiska grobnitsa",
-                  "text": "UNESCO világörökségi helyszín ókori trák falfestményekkel.",
-                  "category": "historical",
-                  "coords": [
-                        25.399166,
-                        42.625736
-                  ]
-            },
-            {
-                  "name": "Istoricheski Muzei Iskra Kazanl'k",
-                  "text": "Iskra Történeti Múzeum a Rózsaparkban.",
-                  "category": "museum",
-                  "coords": [
-                        25.39503,
-                        42.621263
-                  ]
-            },
-            {
-                  "name": "Literaturno-khudozhovestven musei Chudomir",
-                  "text": "Cudomir költő és festő munkásságának szentelt múzeum Kazanlakban.",
-                  "category": "museum",
-                  "coords": [
-                        25.398221,
-                        42.620149
-                  ]
-            },
-            {
-                  "name": "Tiulbeto",
-                  "text": "Erdős városi park Kazanlakban, ahol a trák síremlék is található.",
-                  "category": "park",
-                  "coords": [
-                        25.403321,
-                        42.631726
-                  ]
-            },
-            {
-                  "name": "Evro monument",
-                  "text": "Az európai közösségnek szentelt emlékmű Kazanlakban.",
-                  "category": "historical",
-                  "coords": [
-                        25.393366,
-                        42.619776
-                  ]
-            },
             {
                   "name": "Akvapark Waterland",
                   "text": "Szabadidős vízi park a kazanlaki Rózsák parkja közelében.",
@@ -919,60 +739,6 @@ export const bulgariaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Muzei na rozata",
-                  "text": "Un muzeu din Kazanlak dedicat istoriei trandafirului de ulei.",
-                  "category": "museum",
-                  "coords": [
-                        25.388312,
-                        42.623197
-                  ]
-            },
-            {
-                  "name": "Trakiiska grobnitsa",
-                  "text": "Un sit inclus în patrimoniul UNESCO, faimos pentru picturile murale trace antice.",
-                  "category": "historical",
-                  "coords": [
-                        25.399166,
-                        42.625736
-                  ]
-            },
-            {
-                  "name": "Istoricheski Muzei Iskra Kazanl'k",
-                  "text": "Muzeul Istoric Iskra din Parcul Rozelor.",
-                  "category": "museum",
-                  "coords": [
-                        25.39503,
-                        42.621263
-                  ]
-            },
-            {
-                  "name": "Literaturno-khudozhovestven musei Chudomir",
-                  "text": "Un muzeu în Kazanlak dedicat operei poetului și pictorului Ciudomir.",
-                  "category": "museum",
-                  "coords": [
-                        25.398221,
-                        42.620149
-                  ]
-            },
-            {
-                  "name": "Tiulbeto",
-                  "text": "Un parc urban împădurit în Kazanlak, unde se află mormântul trac.",
-                  "category": "park",
-                  "coords": [
-                        25.403321,
-                        42.631726
-                  ]
-            },
-            {
-                  "name": "Evro monument",
-                  "text": "Un monument în Kazanlak dedicat comunității europene.",
-                  "category": "historical",
-                  "coords": [
-                        25.393366,
-                        42.619776
-                  ]
-            },
-            {
                   "name": "Akvapark Waterland",
                   "text": "Un parc acvatic recreativ situat lângă Parcul Rozelor din Kazanlak.",
                   "category": "recreational",
@@ -983,60 +749,6 @@ export const bulgariaLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Rose Museum",
-                  "text": "A museum in Kazanlak dedicated to the history of the oil-bearing rose.",
-                  "category": "museum",
-                  "coords": [
-                        25.388312,
-                        42.623197
-                  ]
-            },
-            {
-                  "name": "Thracian Tomb of Kazanlak",
-                  "text": "A UNESCO World Heritage site famous for its ancient Thracian frescoes.",
-                  "category": "historical",
-                  "coords": [
-                        25.399166,
-                        42.625736
-                  ]
-            },
-            {
-                  "name": "Iskra Historical Museum",
-                  "text": "Iskra Historical Museum in Rosen Park.",
-                  "category": "museum",
-                  "coords": [
-                        25.39503,
-                        42.621263
-                  ]
-            },
-            {
-                  "name": "Chudomir Art and Literature Museum",
-                  "text": "A museum in Kazanlak dedicated to the work of writer and painter Chudomir.",
-                  "category": "museum",
-                  "coords": [
-                        25.398221,
-                        42.620149
-                  ]
-            },
-            {
-                  "name": "Tyulbeto",
-                  "text": "A forested urban park in Kazanlak, home to the Thracian tomb.",
-                  "category": "park",
-                  "coords": [
-                        25.403321,
-                        42.631726
-                  ]
-            },
-            {
-                  "name": "Euro Monument",
-                  "text": "A monument in Kazanlak dedicated to the European community.",
-                  "category": "historical",
-                  "coords": [
-                        25.393366,
-                        42.619776
-                  ]
-            },
             {
                   "name": "Akvapark Waterland",
                   "text": "A recreational water park located near the Rose Park in Kazanlak.",
@@ -1383,15 +1095,6 @@ export const bulgariaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rezervat Kamchiia",
-                  "text": "Ein Naturschutzgebiet an der bulgarischen Schwarzmeerküste, bekannt für seine dichten Wälder.",
-                  "category": "natural",
-                  "coords": [
-                        27.867258,
-                        43.009306
-                  ]
-            },
-            {
                   "name": "Kamchiia",
                   "text": "Ein weitläufiger Sandstrand an der Mündung des Flusses Kamtschiya ins Schwarze Meer.",
                   "category": "recreational",
@@ -1417,15 +1120,6 @@ export const bulgariaLifeV2: POI[] = [
                         27.885681,
                         43.022272
                   ]
-            },
-            {
-                  "name": "Khepilend",
-                  "text": "Erholungskomplex Khepilend im Naturschutzgebiet Kamtschija.",
-                  "category": "recreational",
-                  "coords": [
-                        27.83986,
-                        43.026727
-                  ]
             }
       ],
       "hu": [
@@ -1445,15 +1139,6 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         27.886918,
                         43.02698
-                  ]
-            },
-            {
-                  "name": "Rezervat Kamchiia",
-                  "text": "Természetvédelmi terület a bolgár tengerparton, amely sűrű ártéri erdőiről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        27.867258,
-                        43.009306
                   ]
             },
             {
@@ -1482,15 +1167,6 @@ export const bulgariaLifeV2: POI[] = [
                         27.885681,
                         43.022272
                   ]
-            },
-            {
-                  "name": "Khepilend",
-                  "text": "Khepilend pihenőkomplexum a Kamchiya-rezervátumban.",
-                  "category": "recreational",
-                  "coords": [
-                        27.83986,
-                        43.026727
-                  ]
             }
       ],
       "ro": [
@@ -1510,15 +1186,6 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         27.886918,
                         43.02698
-                  ]
-            },
-            {
-                  "name": "Rezervat Kamchiia",
-                  "text": "O rezervație naturală la malul mării din Bulgaria, cunoscută pentru pădurile sale dense.",
-                  "category": "natural",
-                  "coords": [
-                        27.867258,
-                        43.009306
                   ]
             },
             {
@@ -1547,15 +1214,6 @@ export const bulgariaLifeV2: POI[] = [
                         27.885681,
                         43.022272
                   ]
-            },
-            {
-                  "name": "Khepilend",
-                  "text": "Complex de agrement Khepilend în Rezervația Kamchia.",
-                  "category": "recreational",
-                  "coords": [
-                        27.83986,
-                        43.026727
-                  ]
             }
       ],
       "en": [
@@ -1575,15 +1233,6 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         27.886918,
                         43.02698
-                  ]
-            },
-            {
-                  "name": "Kamchia Reserve",
-                  "text": "A nature reserve on the Bulgarian coast known for its dense riverine forests.",
-                  "category": "natural",
-                  "coords": [
-                        27.867258,
-                        43.009306
                   ]
             },
             {
@@ -1611,15 +1260,6 @@ export const bulgariaLifeV2: POI[] = [
                   "coords": [
                         27.885681,
                         43.022272
-                  ]
-            },
-            {
-                  "name": "Khepilend",
-                  "text": "Khepilend recreational complex in Kamchia Reserve.",
-                  "category": "recreational",
-                  "coords": [
-                        27.83986,
-                        43.026727
                   ]
             }
       ]

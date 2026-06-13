@@ -679,50 +679,10 @@ export const lesothoReliefV2: POI[] = [
   },
   {
     id: "lesotho-bushmans-pass-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Nazareth",
-                  "text": "Dieser Aussichtspunkt in dem hoch gelegenen Dorf Nazareth bietet einen weiten Blick über den Bushmans Pass in Lesotho.",
-                  "category": "natural",
-                  "coords": [
-                        27.839264,
-                        -29.416227
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Nazareth",
-                  "text": "Ez a magasan fekvő Názáret faluban található kilátó pazar panorámát nyújt a lesothói Bushmans-hágóra.",
-                  "category": "natural",
-                  "coords": [
-                        27.839264,
-                        -29.416227
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Nazareth",
-                  "text": "Acest punct de belvedere din satul de mare altitudine Nazareth oferă o vedere panoramică asupra pasului Bushmans din Lesotho.",
-                  "category": "natural",
-                  "coords": [
-                        27.839264,
-                        -29.416227
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Nazareth",
-                  "text": "Located in the high-altitude village of Nazareth, this viewpoint offers panoramic sweeping sights over Lesotho's Bushmans Pass.",
-                  "category": "natural",
-                  "coords": [
-                        27.839264,
-                        -29.416227
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LS",
     type: "valley",

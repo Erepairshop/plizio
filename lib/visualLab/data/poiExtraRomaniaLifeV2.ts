@@ -42,24 +42,6 @@ export const romaniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Peretele 3M",
-                  "text": "Eine bekannte Felsformation im Măcin-Gebirge, die oft als Ziel für Bergsport dient.",
-                  "category": "landmark",
-                  "coords": [
-                        28.261386,
-                        45.201627
-                  ]
-            },
-            {
-                  "name": "La Insecte",
-                  "text": "Ein Naturstandort im Măcin-Gebirge, der für seine biologische Vielfalt bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        28.268858,
-                        45.190002
-                  ]
-            },
-            {
                   "name": "Piscina Relax",
                   "text": "Die Piscina Relax im Nationalpark Măcin-Gebirge bietet Badegästen eine ruhige Atmosphäre inmitten der Natur.",
                   "category": "recreational",
@@ -104,24 +86,6 @@ export const romaniaLifeV2: POI[] = [
                   "coords": [
                         28.233785,
                         45.189563
-                  ]
-            },
-            {
-                  "name": "Peretele 3M",
-                  "text": "Ismert sziklaalakzat a Măcin-hegységben, amely gyakori célpontja a hegyi sportoknak.",
-                  "category": "landmark",
-                  "coords": [
-                        28.261386,
-                        45.201627
-                  ]
-            },
-            {
-                  "name": "La Insecte",
-                  "text": "Természeti helyszín a Măcin-hegységben, amely biológiai sokféleségéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        28.268858,
-                        45.190002
                   ]
             },
             {
@@ -172,24 +136,6 @@ export const romaniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Peretele 3M",
-                  "text": "O formațiune stâncoasă cunoscută din Munții Măcin, adesea o destinație pentru sporturi montane.",
-                  "category": "landmark",
-                  "coords": [
-                        28.261386,
-                        45.201627
-                  ]
-            },
-            {
-                  "name": "La Insecte",
-                  "text": "Un sit natural din Munții Măcin, cunoscut pentru biodiversitatea sa.",
-                  "category": "landmark",
-                  "coords": [
-                        28.268858,
-                        45.190002
-                  ]
-            },
-            {
                   "name": "Piscina Relax",
                   "text": "Piscina Relax din Parcul Național Munții Măcin oferă vizitatorilor o atmosferă liniștită în mijlocul naturii.",
                   "category": "recreational",
@@ -234,24 +180,6 @@ export const romaniaLifeV2: POI[] = [
                   "coords": [
                         28.233785,
                         45.189563
-                  ]
-            },
-            {
-                  "name": "Peretele 3M",
-                  "text": "A known rock formation in the Măcin Mountains, often a destination for mountain sports.",
-                  "category": "landmark",
-                  "coords": [
-                        28.261386,
-                        45.201627
-                  ]
-            },
-            {
-                  "name": "La Insecte",
-                  "text": "A natural site in the Măcin Mountains known for its biological diversity.",
-                  "category": "landmark",
-                  "coords": [
-                        28.268858,
-                        45.190002
                   ]
             },
             {
@@ -411,30 +339,12 @@ export const romaniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ciomatul Mare",
-                  "text": "Der höchste Gipfel des Ciomatu-Massivs in den Ostkarpaten.",
-                  "category": "landmark",
-                  "coords": [
-                        25.888832,
-                        46.136557
-                  ]
-            },
-            {
                   "name": "Tinovul Mohoș",
                   "text": "Ein einzigartiges Hochmoor in einem Vulkankrater in Siebenbürgen.",
                   "category": "landmark",
                   "coords": [
                         25.904176,
                         46.133695
-                  ]
-            },
-            {
-                  "name": "Piatra Șoimilor",
-                  "text": "Ruinen und eine Felsformation mit Panoramablick im Mohos-Schutzgebiet.",
-                  "category": "historical",
-                  "coords": [
-                        25.847804,
-                        46.1131
                   ]
             },
             {
@@ -454,15 +364,6 @@ export const romaniaLifeV2: POI[] = [
                         25.928479,
                         46.118218
                   ]
-            },
-            {
-                  "name": "Ștrand mezotermal",
-                  "text": "Ein mesothermales Freibad im Naturschutzgebiet Tinovul Mohoș.",
-                  "category": "recreational",
-                  "coords": [
-                        25.859854,
-                        46.145819
-                  ]
             }
       ],
       "hu": [
@@ -476,30 +377,12 @@ export const romaniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nagy Csomád",
-                  "text": "A Csomád-hegység legmagasabb csúcsa a Keleti-Kárpátokban.",
-                  "category": "landmark",
-                  "coords": [
-                        25.888832,
-                        46.136557
-                  ]
-            },
-            {
                   "name": "Mohos-tőzegláp",
                   "text": "Különleges magasláp egy egykori vulkáni kráterben, Erdélyben.",
                   "category": "landmark",
                   "coords": [
                         25.904176,
                         46.133695
-                  ]
-            },
-            {
-                  "name": "Alsó-Sólyomkő",
-                  "text": "Romok és sziklaalakzat kilátással a Mohos természetvédelmi területen.",
-                  "category": "historical",
-                  "coords": [
-                        25.847804,
-                        46.1131
                   ]
             },
             {
@@ -519,15 +402,6 @@ export const romaniaLifeV2: POI[] = [
                         25.928479,
                         46.118218
                   ]
-            },
-            {
-                  "name": "Mezotermál fürdő (=? Ilona fürdő /=? régi Rezső fürdő)",
-                  "text": "Mezotermális strand a Mohos-tőzegláp természetvédelmi területen.",
-                  "category": "recreational",
-                  "coords": [
-                        25.859854,
-                        46.145819
-                  ]
             }
       ],
       "ro": [
@@ -541,30 +415,12 @@ export const romaniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ciomatul Mare",
-                  "text": "Cel mai înalt vârf al masivului Ciomatu din Carpații Orientali.",
-                  "category": "landmark",
-                  "coords": [
-                        25.888832,
-                        46.136557
-                  ]
-            },
-            {
                   "name": "Tinovul Mohoș",
                   "text": "O mlaștină de turbă unică situată într-un crater vulcanic din Transilvania.",
                   "category": "landmark",
                   "coords": [
                         25.904176,
                         46.133695
-                  ]
-            },
-            {
-                  "name": "Piatra Șoimilor",
-                  "text": "Ruine și o formațiune stâncoasă cu vedere panoramică în rezervația Mohoș.",
-                  "category": "historical",
-                  "coords": [
-                        25.847804,
-                        46.1131
                   ]
             },
             {
@@ -584,15 +440,6 @@ export const romaniaLifeV2: POI[] = [
                         25.928479,
                         46.118218
                   ]
-            },
-            {
-                  "name": "Ștrand mezotermal",
-                  "text": "Un ștrand mezotermal situat în Rezervația Naturală Tinovul Mohoș.",
-                  "category": "recreational",
-                  "coords": [
-                        25.859854,
-                        46.145819
-                  ]
             }
       ],
       "en": [
@@ -606,30 +453,12 @@ export const romaniaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ciomatul Mare",
-                  "text": "The highest peak of the Ciomatu massif in the Eastern Carpathians.",
-                  "category": "landmark",
-                  "coords": [
-                        25.888832,
-                        46.136557
-                  ]
-            },
-            {
                   "name": "Tinovul Mohoș",
                   "text": "A unique peat bog located within a volcanic crater in Transylvania.",
                   "category": "landmark",
                   "coords": [
                         25.904176,
                         46.133695
-                  ]
-            },
-            {
-                  "name": "Piatra Șoimilor",
-                  "text": "Ruins and a rock formation offering panoramic views in the Mohoș reserve.",
-                  "category": "historical",
-                  "coords": [
-                        25.847804,
-                        46.1131
                   ]
             },
             {
@@ -648,15 +477,6 @@ export const romaniaLifeV2: POI[] = [
                   "coords": [
                         25.928479,
                         46.118218
-                  ]
-            },
-            {
-                  "name": "Ștrand mezotermal",
-                  "text": "A mesothermal public bath located in the Tinovul Mohoș Nature Reserve.",
-                  "category": "recreational",
-                  "coords": [
-                        25.859854,
-                        46.145819
                   ]
             }
       ]

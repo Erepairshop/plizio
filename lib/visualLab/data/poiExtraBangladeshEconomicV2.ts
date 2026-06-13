@@ -3309,24 +3309,6 @@ export const bangladeshEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hajiganj Fort",
-                  "text": "Eine Verteidigungsfestung aus der Mogulzeit am Ufer des Shitalakshya-Flusses aus dem 17. Jahrhundert.",
-                  "category": "fortress",
-                  "coords": [
-                        90.512814,
-                        23.633427
-                  ]
-            },
-            {
-                  "name": "Bandar Central Shaheed Minar",
-                  "text": "Ein Denkmal zu Ehren der Märtyrer der Sprachbewegung von 1952 in Bandar.",
-                  "category": "historical",
-                  "coords": [
-                        90.512827,
-                        23.614164
-                  ]
-            },
-            {
                   "name": "Ali city mosque",
                   "text": "Eine moderne Moschee im Ali-City-Wohngebiet, die als lokales Gebetszentrum dient.",
                   "category": "religious",
@@ -3569,24 +3551,6 @@ export const bangladeshEconomicV2: POI[] = [
                   "coords": [
                         90.50184,
                         23.615677
-                  ]
-            },
-            {
-                  "name": "Hajiganj Fort",
-                  "text": "17. századi, mogul korszakból származó védelmi erőd a Shitalakshya-folyó partján.",
-                  "category": "fortress",
-                  "coords": [
-                        90.512814,
-                        23.633427
-                  ]
-            },
-            {
-                  "name": "Bandar Central Shaheed Minar",
-                  "text": "Emlékmű az 1952-es nyelvmozgalom mártírjainak tiszteletére Bandarban.",
-                  "category": "historical",
-                  "coords": [
-                        90.512827,
-                        23.614164
                   ]
             },
             {
@@ -3835,24 +3799,6 @@ export const bangladeshEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hajiganj Fort",
-                  "text": "O fortăreață defensivă din epoca mogulă pe malul râului Shitalakshya, datând din secolul al XVII-lea.",
-                  "category": "fortress",
-                  "coords": [
-                        90.512814,
-                        23.633427
-                  ]
-            },
-            {
-                  "name": "Bandar Central Shaheed Minar",
-                  "text": "Un monument onorând martirii Mișcării pentru Limbă din 1952 din Bandar.",
-                  "category": "historical",
-                  "coords": [
-                        90.512827,
-                        23.614164
-                  ]
-            },
-            {
                   "name": "Ali city mosque",
                   "text": "O moschee modernă în zona rezidențială Ali City, servind ca centru local de rugăciune.",
                   "category": "religious",
@@ -4095,24 +4041,6 @@ export const bangladeshEconomicV2: POI[] = [
                   "coords": [
                         90.50184,
                         23.615677
-                  ]
-            },
-            {
-                  "name": "Hajiganj Fort",
-                  "text": "A 17th-century Mughal-era defensive fort situated on the banks of the Shitalakshya River.",
-                  "category": "fortress",
-                  "coords": [
-                        90.512814,
-                        23.633427
-                  ]
-            },
-            {
-                  "name": "Bandar Central Shaheed Minar",
-                  "text": "A monument honoring the martyrs of the 1952 Language Movement in Bandar.",
-                  "category": "historical",
-                  "coords": [
-                        90.512827,
-                        23.614164
                   ]
             },
             {
@@ -10860,15 +10788,6 @@ export const bangladeshEconomicV2: POI[] = [
     id: "bangladesh-ghorashal-power-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Narsingdi Govt. College Shadid Minar",
-                  "text": "Ein Denkmal auf dem College-Gelände, das den Märtyrern der Sprachbewegung gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        90.723357,
-                        23.933498
-                  ]
-            },
-            {
                   "name": "এমরান সাহেবের মাজার",
                   "text": "Ein heiliger Schrein und das Grabmal der lokalen Persönlichkeit Emran Shaheb.",
                   "category": "religious",
@@ -11185,15 +11104,6 @@ export const bangladeshEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Narsingdi Govt. College Shadid Minar",
-                  "text": "A főiskola területén álló emlékmű, amelyet a nyelvmozgalom mártírjainak szenteltek.",
-                  "category": "historical",
-                  "coords": [
-                        90.723357,
-                        23.933498
-                  ]
-            },
             {
                   "name": "এমরান সাহেবের মাজার",
                   "text": "A helyi tekintély, Emran Shaheb szentélye és sírhelye.",
@@ -11512,15 +11422,6 @@ export const bangladeshEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Narsingdi Govt. College Shadid Minar",
-                  "text": "Un monument situat în incinta colegiului, dedicat martirilor mișcării pentru limbă.",
-                  "category": "historical",
-                  "coords": [
-                        90.723357,
-                        23.933498
-                  ]
-            },
-            {
                   "name": "এমরান সাহেবের মাজার",
                   "text": "Un altar sacru și mormântul figurii locale Emran Shaheb.",
                   "category": "religious",
@@ -11837,15 +11738,6 @@ export const bangladeshEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Narsingdi Govt. College Shadid Minar",
-                  "text": "A memorial on the college campus dedicated to the martyrs of the Language Movement.",
-                  "category": "historical",
-                  "coords": [
-                        90.723357,
-                        23.933498
-                  ]
-            },
             {
                   "name": "এমরান সাহেবের মাজার",
                   "text": "A sacred shrine and the tomb of the local figure Emran Shaheb.",

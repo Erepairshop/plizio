@@ -6,75 +6,12 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-nukualofa-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Royal Palace",
-                  "text": "Die offizielle Residenz des Königs von Tonga, ein markantes Holzgebäude in Nukuʻalofa.",
-                  "category": "castle",
-                  "coords": [
-                        -175.200605,
-                        -21.131395
-                  ]
-            },
-            {
-                  "name": "Tongan National Centre",
-                  "text": "Ein Museum in Nukuʻalofa, das die tongaische Kultur und Geschichte zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -175.218005,
-                        -21.155674
-                  ]
-            },
-            {
-                  "name": "The Thong Tree",
-                  "text": "Großer Banyanbaum, 'The Thong Tree', in Nukuʻalofa auf Tongatapu.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.204168,
-                        -21.133279
-                  ]
-            },
-            {
-                  "name": "Huge trees",
-                  "text": "Gruppe riesiger Banyanbäume in Nukuʻalofa, ein Naturwahrzeichen.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.196362,
-                        -21.134639
-                  ]
-            },
-            {
-                  "name": "Deep Blue Diving",
-                  "text": "Ein Tauchzentrum für Unterwassererlebnisse in Nukuʻalofa.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.184367,
-                        -21.139097
-                  ]
-            },
-            {
-                  "name": "George Art Portraits",
-                  "text": "Ein Kunstzentrum in Nukuʻalofa, das sich auf Porträtarbeiten spezialisiert hat.",
-                  "category": "cultural",
-                  "coords": [
-                        -175.216884,
-                        -21.154389
-                  ]
-            },
-            {
                   "name": "Siasi 'o Tonga",
                   "text": "Die Freikirche von Tonga (Siasi 'o Tonga) in Nukuʻalofa.",
                   "category": "religious",
                   "coords": [
                         -175.201098,
                         -21.138752
-                  ]
-            },
-            {
-                  "name": "Kathedrale zur Unbefleckten Empfängnis",
-                  "text": "Die römisch-katholische Kathedrale von Tonga in Nukuʻalofa, Sitz des Bischofs.",
-                  "category": "religious",
-                  "coords": [
-                        -175.181745,
-                        -21.140823
                   ]
             },
             {
@@ -89,75 +26,12 @@ export const tongaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Royal Palace",
-                  "text": "Tonga királyának hivatalos rezidenciája, egy jellegzetes faépület Nukuʻalofában.",
-                  "category": "castle",
-                  "coords": [
-                        -175.200605,
-                        -21.131395
-                  ]
-            },
-            {
-                  "name": "Tongan National Centre",
-                  "text": "Nukuʻalofa múzeuma, amely a tongai kultúrát és történelmet mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -175.218005,
-                        -21.155674
-                  ]
-            },
-            {
-                  "name": "The Thong Tree",
-                  "text": "Hatalmas banyánfa, a 'Thong Tree', Nukuʻalofában, Tongatapu szigetén.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.204168,
-                        -21.133279
-                  ]
-            },
-            {
-                  "name": "Huge trees",
-                  "text": "Óriás banyánfák csoportja Nukuʻalofában, természeti nevezetesség.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.196362,
-                        -21.134639
-                  ]
-            },
-            {
-                  "name": "Deep Blue Diving",
-                  "text": "Búvárközpont víz alatti élményekhez Nukuʻalofában.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.184367,
-                        -21.139097
-                  ]
-            },
-            {
-                  "name": "George Art Portraits",
-                  "text": "Nukuʻalofa művészeti központja, amely portrékra specializálódott.",
-                  "category": "cultural",
-                  "coords": [
-                        -175.216884,
-                        -21.154389
-                  ]
-            },
-            {
                   "name": "Siasi 'o Tonga",
                   "text": "A Tongai Szabad Egyház (Siasi 'o Tonga) Nukuʻalofában.",
                   "category": "religious",
                   "coords": [
                         -175.201098,
                         -21.138752
-                  ]
-            },
-            {
-                  "name": "Malia Tupu Imakulata Cathedral",
-                  "text": "Tonga római katolikus székesegyháza Nukuʻalofában, a püspök székhelye.",
-                  "category": "religious",
-                  "coords": [
-                        -175.181745,
-                        -21.140823
                   ]
             },
             {
@@ -172,75 +46,12 @@ export const tongaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Royal Palace",
-                  "text": "Reședința oficială a regelui Tonga, o clădire de lemn distinctivă din Nukuʻalofa.",
-                  "category": "castle",
-                  "coords": [
-                        -175.200605,
-                        -21.131395
-                  ]
-            },
-            {
-                  "name": "Tongan National Centre",
-                  "text": "Un muzeu din Nukuʻalofa care prezintă cultura și istoria tongană.",
-                  "category": "museum",
-                  "coords": [
-                        -175.218005,
-                        -21.155674
-                  ]
-            },
-            {
-                  "name": "The Thong Tree",
-                  "text": "Copac banyan uriaș, 'The Thong Tree', în Nukuʻalofa, pe insula Tongatapu.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.204168,
-                        -21.133279
-                  ]
-            },
-            {
-                  "name": "Huge trees",
-                  "text": "Grup de copaci banyan uriași în Nukuʻalofa, un reper natural.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.196362,
-                        -21.134639
-                  ]
-            },
-            {
-                  "name": "Deep Blue Diving",
-                  "text": "Un centru de scufundări pentru experiențe subacvatice în Nukuʻalofa.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.184367,
-                        -21.139097
-                  ]
-            },
-            {
-                  "name": "George Art Portraits",
-                  "text": "Un centru de artă din Nukuʻalofa specializat în portrete.",
-                  "category": "cultural",
-                  "coords": [
-                        -175.216884,
-                        -21.154389
-                  ]
-            },
-            {
                   "name": "Siasi 'o Tonga",
                   "text": "Biserica Liberă a Tongăi (Siasi 'o Tonga) în Nukuʻalofa.",
                   "category": "religious",
                   "coords": [
                         -175.201098,
                         -21.138752
-                  ]
-            },
-            {
-                  "name": "Malia Tupu Imakulata Cathedral",
-                  "text": "Catedrala romano-catolică a Tongăi în Nukuʻalofa, sediul episcopului.",
-                  "category": "religious",
-                  "coords": [
-                        -175.181745,
-                        -21.140823
                   ]
             },
             {
@@ -255,75 +66,12 @@ export const tongaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Royal Palace",
-                  "text": "The official residence of the King of Tonga, a distinctive wooden building in Nukuʻalofa.",
-                  "category": "castle",
-                  "coords": [
-                        -175.200605,
-                        -21.131395
-                  ]
-            },
-            {
-                  "name": "Tongan National Centre",
-                  "text": "A museum in Nukuʻalofa showcasing Tongan culture and history.",
-                  "category": "museum",
-                  "coords": [
-                        -175.218005,
-                        -21.155674
-                  ]
-            },
-            {
-                  "name": "The Thong Tree",
-                  "text": "A giant banyan tree, 'The Thong Tree', in Nukuʻalofa on Tongatapu.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.204168,
-                        -21.133279
-                  ]
-            },
-            {
-                  "name": "Huge trees",
-                  "text": "A group of enormous banyan trees in Nukuʻalofa, a natural landmark.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.196362,
-                        -21.134639
-                  ]
-            },
-            {
-                  "name": "Deep Blue Diving",
-                  "text": "A diving center for underwater experiences in Nukuʻalofa.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.184367,
-                        -21.139097
-                  ]
-            },
-            {
-                  "name": "George Art Portraits",
-                  "text": "An arts center in Nukuʻalofa specializing in portrait works.",
-                  "category": "cultural",
-                  "coords": [
-                        -175.216884,
-                        -21.154389
-                  ]
-            },
-            {
                   "name": "Siasi 'o Tonga",
                   "text": "The Free Church of Tonga (Siasi 'o Tonga) in Nukuʻalofa.",
                   "category": "religious",
                   "coords": [
                         -175.201098,
                         -21.138752
-                  ]
-            },
-            {
-                  "name": "Cathedral of the Immaculate Conception of Mary",
-                  "text": "The Roman Catholic cathedral of Tonga in Nukuʻalofa, seat of the bishop.",
-                  "category": "religious",
-                  "coords": [
-                        -175.181745,
-                        -21.140823
                   ]
             },
             {
@@ -438,48 +186,12 @@ export const tongaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Thong Tree",
-                  "text": "Großer Banyanbaum 'The Thong Tree' in Haveluloto, Tongatapu.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.204168,
-                        -21.133279
-                  ]
-            },
-            {
-                  "name": "Huge trees",
-                  "text": "Gruppe riesiger Bäume in Haveluloto, markantes Naturdenkmal.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.196362,
-                        -21.134639
-                  ]
-            },
-            {
                   "name": "George Art Portraits",
                   "text": "Kunstgalerie George Art Portraits in Haveluloto mit tongaischen Porträts.",
                   "category": "cultural",
                   "coords": [
                         -175.216884,
                         -21.154389
-                  ]
-            },
-            {
-                  "name": "Siasi 'o Tonga",
-                  "text": "Eine Gemeinde der Freikirche von Tonga in Haveluloto.",
-                  "category": "religious",
-                  "coords": [
-                        -175.201098,
-                        -21.138752
-                  ]
-            },
-            {
-                  "name": "Basilica of St. Anthony of Padua",
-                  "text": "Die dem heiligen Antonius geweihte Basilika in Haveluloto.",
-                  "category": "religious",
-                  "coords": [
-                        -175.201857,
-                        -21.136834
                   ]
             }
       ],
@@ -494,48 +206,12 @@ export const tongaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Thong Tree",
-                  "text": "Hatalmas banyánfa, a 'Thong Tree', Havelulotóban, Tongatapu szigetén.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.204168,
-                        -21.133279
-                  ]
-            },
-            {
-                  "name": "Huge trees",
-                  "text": "Óriás fák csoportja Havelulotóban, jellegzetes természeti emlék.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.196362,
-                        -21.134639
-                  ]
-            },
-            {
                   "name": "George Art Portraits",
                   "text": "George Art Portraits galéria Havelulotóban, tongai portrékkal.",
                   "category": "cultural",
                   "coords": [
                         -175.216884,
                         -21.154389
-                  ]
-            },
-            {
-                  "name": "Siasi 'o Tonga",
-                  "text": "A Tongai Szabad Egyház egy gyülekezete Havelulotóban.",
-                  "category": "religious",
-                  "coords": [
-                        -175.201098,
-                        -21.138752
-                  ]
-            },
-            {
-                  "name": "Basilica of St. Anthony of Padua",
-                  "text": "A Szent Antal-bazilika Havelulotóban.",
-                  "category": "religious",
-                  "coords": [
-                        -175.201857,
-                        -21.136834
                   ]
             }
       ],
@@ -550,48 +226,12 @@ export const tongaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Thong Tree",
-                  "text": "Copac banyan uriaș 'The Thong Tree' în Haveluloto, pe insula Tongatapu.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.204168,
-                        -21.133279
-                  ]
-            },
-            {
-                  "name": "Huge trees",
-                  "text": "Grup de copaci uriași în Haveluloto, un monument natural distinctiv.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.196362,
-                        -21.134639
-                  ]
-            },
-            {
                   "name": "George Art Portraits",
                   "text": "Galerie de artă George Art Portraits în Haveluloto, cu portrete tongane.",
                   "category": "cultural",
                   "coords": [
                         -175.216884,
                         -21.154389
-                  ]
-            },
-            {
-                  "name": "Siasi 'o Tonga",
-                  "text": "O congregație a Bisericii Libere a Tongăi în Haveluloto.",
-                  "category": "religious",
-                  "coords": [
-                        -175.201098,
-                        -21.138752
-                  ]
-            },
-            {
-                  "name": "Basilica of St. Anthony of Padua",
-                  "text": "Basilica Sfântului Anton în Haveluloto.",
-                  "category": "religious",
-                  "coords": [
-                        -175.201857,
-                        -21.136834
                   ]
             }
       ],
@@ -606,48 +246,12 @@ export const tongaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "The Thong Tree",
-                  "text": "A giant banyan tree 'The Thong Tree' in Haveluloto on Tongatapu.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.204168,
-                        -21.133279
-                  ]
-            },
-            {
-                  "name": "Huge trees",
-                  "text": "A group of huge trees in Haveluloto, a striking natural monument.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.196362,
-                        -21.134639
-                  ]
-            },
-            {
                   "name": "George Art Portraits",
                   "text": "George Art Portraits gallery in Haveluloto featuring Tongan portraits.",
                   "category": "cultural",
                   "coords": [
                         -175.216884,
                         -21.154389
-                  ]
-            },
-            {
-                  "name": "Siasi 'o Tonga",
-                  "text": "A congregation of the Free Church of Tonga in Haveluloto.",
-                  "category": "religious",
-                  "coords": [
-                        -175.201098,
-                        -21.138752
-                  ]
-            },
-            {
-                  "name": "Basilica of St. Anthony of Padua",
-                  "text": "The Basilica of St. Anthony in Haveluloto.",
-                  "category": "religious",
-                  "coords": [
-                        -175.201857,
-                        -21.136834
                   ]
             }
       ]
@@ -697,50 +301,10 @@ export const tongaCitiesV2: POI[] = [
   },
   {
     id: "tonga-vaini-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Tuku'aho Museum",
-                  "text": "Ein Museum in Vaini, das Exponate zur lokalen Kultur und Geschichte zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -175.16117,
-                        -21.223533
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Tuku'aho Museum",
-                  "text": "Múzeum Vainiben, amely a helyi kultúrával és történelemmel kapcsolatos tárgyakat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        -175.16117,
-                        -21.223533
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Tuku'aho Museum",
-                  "text": "Un muzeu din Vaini care prezintă exponate legate de cultura și istoria locală.",
-                  "category": "museum",
-                  "coords": [
-                        -175.16117,
-                        -21.223533
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Tuku'aho Museum",
-                  "text": "A museum in Vaini displaying exhibits related to local culture and history.",
-                  "category": "museum",
-                  "coords": [
-                        -175.16117,
-                        -21.223533
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "TO",
     type: "village",
@@ -834,15 +398,6 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-tatakamotonga-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Captain Cook's Landing Place",
-                  "text": "Landungsstelle von Captain Cook in Tatakamotonga, historischer Ort.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.130006,
-                        -21.191948
-                  ]
-            },
-            {
                   "name": "Capt. Cook's Landing Place",
                   "text": "Historische Landungsstelle von Captain Cook in Tatakamotonga.",
                   "category": "historical",
@@ -862,15 +417,6 @@ export const tongaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Captain Cook's Landing Place",
-                  "text": "Cook kapitány partraszállási helye Tatakamotongában, történelmi hely.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.130006,
-                        -21.191948
-                  ]
-            },
             {
                   "name": "Capt. Cook's Landing Place",
                   "text": "Cook kapitány történelmi partraszállási helye Tatakamotongában.",
@@ -892,15 +438,6 @@ export const tongaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Captain Cook's Landing Place",
-                  "text": "Locul de debarcare al căpitanului Cook în Tatakamotonga, loc istoric.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.130006,
-                        -21.191948
-                  ]
-            },
-            {
                   "name": "Capt. Cook's Landing Place",
                   "text": "Loc istoric de debarcare al căpitanului Cook în Tatakamotonga.",
                   "category": "historical",
@@ -920,15 +457,6 @@ export const tongaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Captain Cook's Landing Place",
-                  "text": "Captain Cook's landing place in Tatakamotonga, a historic site.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.130006,
-                        -21.191948
-                  ]
-            },
             {
                   "name": "Capt. Cook's Landing Place",
                   "text": "Historic landing place of Captain Cook in Tatakamotonga.",
@@ -1086,15 +614,6 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-haateiho-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Tongan National Centre",
-                  "text": "Tongaisches Nationalzentrum in Haʻateiho mit kulturellen Ausstellungen.",
-                  "category": "museum",
-                  "coords": [
-                        -175.218005,
-                        -21.155674
-                  ]
-            },
-            {
                   "name": "King's Residence",
                   "text": "Königliche Residenz in Haʻateiho, traditioneller tongaischer Palast.",
                   "category": "landmark",
@@ -1102,27 +621,9 @@ export const tongaCitiesV2: POI[] = [
                         -175.241659,
                         -21.158619
                   ]
-            },
-            {
-                  "name": "George Art Portraits",
-                  "text": "Kunstgalerie George Art Portraits in Haʻateiho mit tongaischen Werken.",
-                  "category": "cultural",
-                  "coords": [
-                        -175.216884,
-                        -21.154389
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Tongan National Centre",
-                  "text": "Tongai Nemzeti Központ Haʻateihóban, kulturális kiállításokkal.",
-                  "category": "museum",
-                  "coords": [
-                        -175.218005,
-                        -21.155674
-                  ]
-            },
             {
                   "name": "King's Residence",
                   "text": "Királyi rezidencia Haʻateihóban, hagyományos tongai palota.",
@@ -1131,27 +632,9 @@ export const tongaCitiesV2: POI[] = [
                         -175.241659,
                         -21.158619
                   ]
-            },
-            {
-                  "name": "George Art Portraits",
-                  "text": "George Art Portraits galéria Haʻateihóban, tongai művekkel.",
-                  "category": "cultural",
-                  "coords": [
-                        -175.216884,
-                        -21.154389
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Tongan National Centre",
-                  "text": "Centrul Național Tongan în Haʻateiho, cu expoziții culturale.",
-                  "category": "museum",
-                  "coords": [
-                        -175.218005,
-                        -21.155674
-                  ]
-            },
             {
                   "name": "King's Residence",
                   "text": "Reședința regală în Haʻateiho, palat tradițional tongan.",
@@ -1160,27 +643,9 @@ export const tongaCitiesV2: POI[] = [
                         -175.241659,
                         -21.158619
                   ]
-            },
-            {
-                  "name": "George Art Portraits",
-                  "text": "Galerie de artă George Art Portraits în Haʻateiho, cu lucrări tongane.",
-                  "category": "cultural",
-                  "coords": [
-                        -175.216884,
-                        -21.154389
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Tongan National Centre",
-                  "text": "The Tongan National Centre in Haʻateiho with cultural exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        -175.218005,
-                        -21.155674
-                  ]
-            },
             {
                   "name": "King's Residence",
                   "text": "The King's residence in Haʻateiho, a traditional Tongan palace.",
@@ -1188,15 +653,6 @@ export const tongaCitiesV2: POI[] = [
                   "coords": [
                         -175.241659,
                         -21.158619
-                  ]
-            },
-            {
-                  "name": "George Art Portraits",
-                  "text": "George Art Portraits gallery in Haʻateiho showcasing Tongan art.",
-                  "category": "cultural",
-                  "coords": [
-                        -175.216884,
-                        -21.154389
                   ]
             }
       ]
@@ -1894,86 +1350,10 @@ export const tongaCitiesV2: POI[] = [
   },
   {
     id: "tonga-holonga-tongatapu-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Captain Cook's Landing Place",
-                  "text": "Ein historischer Ort in Holonga, an dem Captain Cook gelandet sein soll.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.130006,
-                        -21.191948
-                  ]
-            },
-            {
-                  "name": "Capt. Cook's Landing Place",
-                  "text": "Ein Denkmal in Holonga zur Erinnerung an die Landung von Captain Cook.",
-                  "category": "historical",
-                  "coords": [
-                        -175.12476,
-                        -21.185963
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Captain Cook's Landing Place",
-                  "text": "Történelmi helyszín Holongában, ahol a hagyomány szerint Cook kapitány partot ért.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.130006,
-                        -21.191948
-                  ]
-            },
-            {
-                  "name": "Capt. Cook's Landing Place",
-                  "text": "Emlékmű Holongában, amely Cook kapitány partraszállására emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        -175.12476,
-                        -21.185963
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Captain Cook's Landing Place",
-                  "text": "Un loc istoric în Holonga, unde se spune că ar fi debarcat căpitanul Cook.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.130006,
-                        -21.191948
-                  ]
-            },
-            {
-                  "name": "Capt. Cook's Landing Place",
-                  "text": "Un monument în Holonga care comemorează debarcarea căpitanului Cook.",
-                  "category": "historical",
-                  "coords": [
-                        -175.12476,
-                        -21.185963
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Captain Cook's Landing Place",
-                  "text": "A historic site in Holonga marking the spot where Captain Cook is said to have landed.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.130006,
-                        -21.191948
-                  ]
-            },
-            {
-                  "name": "Capt. Cook's Landing Place",
-                  "text": "A monument in Holonga commemorating the landing of Captain Cook.",
-                  "category": "historical",
-                  "coords": [
-                        -175.12476,
-                        -21.185963
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "TO",
     type: "village",
@@ -2020,122 +1400,10 @@ export const tongaCitiesV2: POI[] = [
   },
   {
     id: "tonga-malapo-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Captain Cook's Landing Place",
-                  "text": "Die Stelle in Malapo, an der Kapitän James Cook im Jahr 1777 landete.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.130006,
-                        -21.191948
-                  ]
-            },
-            {
-                  "name": "Capt. Cook's Landing Place",
-                  "text": "Ein Denkmal in Malapo zur Erinnerung an die Landung von Kapitän Cook.",
-                  "category": "historical",
-                  "coords": [
-                        -175.12476,
-                        -21.185963
-                  ]
-            },
-            {
-                  "name": "Terraced Tombs",
-                  "text": "Alte terrassierte Gräber (Langis) der tongaischen Könige in der Nähe von Malapo.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.116419,
-                        -21.17488
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Captain Cook's Landing Place",
-                  "text": "A hely Malapóban, ahol James Cook kapitány 1777-ben partra szállt.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.130006,
-                        -21.191948
-                  ]
-            },
-            {
-                  "name": "Capt. Cook's Landing Place",
-                  "text": "Emlékmű Malapóban Cook kapitány partraszállásának emlékére.",
-                  "category": "historical",
-                  "coords": [
-                        -175.12476,
-                        -21.185963
-                  ]
-            },
-            {
-                  "name": "Terraced Tombs",
-                  "text": "A tongai királyok ősi teraszos sírjai (Langik) Malapo közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.116419,
-                        -21.17488
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Captain Cook's Landing Place",
-                  "text": "Locul din Malapo unde căpitanul James Cook a debarcat în anul 1777.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.130006,
-                        -21.191948
-                  ]
-            },
-            {
-                  "name": "Capt. Cook's Landing Place",
-                  "text": "Un monument în Malapo care comemorează debarcarea căpitanului Cook.",
-                  "category": "historical",
-                  "coords": [
-                        -175.12476,
-                        -21.185963
-                  ]
-            },
-            {
-                  "name": "Terraced Tombs",
-                  "text": "Vechile morminte terasate (Langis) ale regilor tongani lângă Malapo.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.116419,
-                        -21.17488
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Captain Cook's Landing Place",
-                  "text": "The spot in Malapo where Captain James Cook landed in 1777.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.130006,
-                        -21.191948
-                  ]
-            },
-            {
-                  "name": "Capt. Cook's Landing Place",
-                  "text": "A monument in Malapo commemorating the landing of Captain Cook.",
-                  "category": "historical",
-                  "coords": [
-                        -175.12476,
-                        -21.185963
-                  ]
-            },
-            {
-                  "name": "Terraced Tombs",
-                  "text": "Ancient terraced tombs (Langis) of Tongan royalty near Malapo.",
-                  "category": "landmark",
-                  "coords": [
-                        -175.116419,
-                        -21.17488
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "TO",
     type: "village",
@@ -2184,15 +1452,6 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-pelehake-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Makatolo-'A-Maui",
-                  "text": "Historische Steinstruktur Makatolo-ʻA-Maui in Pelehake, Tongatapu.",
-                  "category": "historical",
-                  "coords": [
-                        -175.104656,
-                        -21.204565
-                  ]
-            },
-            {
                   "name": "Captain Cook's Landing Place",
                   "text": "Landungsstelle von Captain Cook in Pelehake, geschichtsträchtiger Ort.",
                   "category": "landmark",
@@ -2200,27 +1459,9 @@ export const tongaCitiesV2: POI[] = [
                         -175.130006,
                         -21.191948
                   ]
-            },
-            {
-                  "name": "Capt. Cook's Landing Place",
-                  "text": "Historische Landungsstelle von Captain Cook in Pelehake, Tongatapu.",
-                  "category": "historical",
-                  "coords": [
-                        -175.12476,
-                        -21.185963
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Makatolo-'A-Maui",
-                  "text": "Makatolo-ʻA-Maui történelmi kőszerkezet Pelehake-ben, Tongatapu szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        -175.104656,
-                        -21.204565
-                  ]
-            },
             {
                   "name": "Captain Cook's Landing Place",
                   "text": "Cook kapitány partraszállási helye Pelehake-ben, történelmi helyszín.",
@@ -2229,27 +1470,9 @@ export const tongaCitiesV2: POI[] = [
                         -175.130006,
                         -21.191948
                   ]
-            },
-            {
-                  "name": "Capt. Cook's Landing Place",
-                  "text": "Cook kapitány történelmi partraszállási helye Pelehake-ben, Tongatapu szigetén.",
-                  "category": "historical",
-                  "coords": [
-                        -175.12476,
-                        -21.185963
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Makatolo-'A-Maui",
-                  "text": "Structură istorică de piatră Makatolo-ʻA-Maui în Pelehake, pe insula Tongatapu.",
-                  "category": "historical",
-                  "coords": [
-                        -175.104656,
-                        -21.204565
-                  ]
-            },
             {
                   "name": "Captain Cook's Landing Place",
                   "text": "Locul de debarcare al căpitanului Cook în Pelehake, loc încărcat de istorie.",
@@ -2258,27 +1481,9 @@ export const tongaCitiesV2: POI[] = [
                         -175.130006,
                         -21.191948
                   ]
-            },
-            {
-                  "name": "Capt. Cook's Landing Place",
-                  "text": "Loc istoric de debarcare al căpitanului Cook în Pelehake, insula Tongatapu.",
-                  "category": "historical",
-                  "coords": [
-                        -175.12476,
-                        -21.185963
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Makatolo-'A-Maui",
-                  "text": "Historic stone structure Makatolo-ʻA-Maui in Pelehake on Tongatapu.",
-                  "category": "historical",
-                  "coords": [
-                        -175.104656,
-                        -21.204565
-                  ]
-            },
             {
                   "name": "Captain Cook's Landing Place",
                   "text": "Captain Cook's landing place in Pelehake, a historic site.",
@@ -2286,15 +1491,6 @@ export const tongaCitiesV2: POI[] = [
                   "coords": [
                         -175.130006,
                         -21.191948
-                  ]
-            },
-            {
-                  "name": "Capt. Cook's Landing Place",
-                  "text": "Historic landing place of Captain Cook in Pelehake, Tongatapu.",
-                  "category": "historical",
-                  "coords": [
-                        -175.12476,
-                        -21.185963
                   ]
             }
       ]
@@ -3271,50 +2467,10 @@ export const tongaCitiesV2: POI[] = [
   },
   {
     id: "tonga-masilamea-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Pupu'a puhi",
-                  "text": "Ein Aussichtspunkt in Masilamea mit weitem Blick über die Küste.",
-                  "category": "natural",
-                  "coords": [
-                        -175.308473,
-                        -21.174115
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Pupu'a puhi",
-                  "text": "Kilátópont Masilameában, tágas kilátással a tengerpartra.",
-                  "category": "natural",
-                  "coords": [
-                        -175.308473,
-                        -21.174115
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Pupu'a puhi",
-                  "text": "Un punct de belvedere în Masilamea, cu o vedere largă asupra coastei.",
-                  "category": "natural",
-                  "coords": [
-                        -175.308473,
-                        -21.174115
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Pupu'a puhi",
-                  "text": "A viewpoint in Masilamea offering wide views over the coastline.",
-                  "category": "natural",
-                  "coords": [
-                        -175.308473,
-                        -21.174115
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "TO",
     type: "village",
@@ -3676,50 +2832,10 @@ export const tongaCitiesV2: POI[] = [
   },
   {
     id: "tonga-tuanuku-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Mt. Talau Lookout",
-                  "text": "Der Mt. Talau Aussichtspunkt auf einem Vulkankrater bietet einen Panoramablick über den Vava'u-Archipel.",
-                  "category": "natural",
-                  "coords": [
-                        -173.999303,
-                        -18.647853
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mt. Talau Lookout",
-                  "text": "A Mt. Talau kilátó egy vulkáni kráteren, panorámás kilátással a Vava'u-szigetvilágra.",
-                  "category": "natural",
-                  "coords": [
-                        -173.999303,
-                        -18.647853
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Mt. Talau Lookout",
-                  "text": "Punctul de belvedere Mt. Talau pe un crater vulcanic oferă o vedere panoramică asupra arhipelagului Vava'u.",
-                  "category": "natural",
-                  "coords": [
-                        -173.999303,
-                        -18.647853
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mt. Talau Lookout",
-                  "text": "Mt. Talau Lookout on a volcanic crater offers panoramic views of the Vava'u archipelago.",
-                  "category": "natural",
-                  "coords": [
-                        -173.999303,
-                        -18.647853
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "TO",
     type: "village",
@@ -3777,15 +2893,6 @@ export const tongaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mt. Talau Lookout",
-                  "text": "Ein Aussichtspunkt am Mt. Talau in Taoa mit Panoramablick über die Bucht.",
-                  "category": "natural",
-                  "coords": [
-                        -173.999303,
-                        -18.647853
-                  ]
-            },
-            {
                   "name": "Beluga Diving",
                   "text": "Ein Anbieter für Taucherlebnisse und Wassersport in Taoa.",
                   "category": "landmark",
@@ -3803,15 +2910,6 @@ export const tongaCitiesV2: POI[] = [
                   "coords": [
                         -173.983019,
                         -18.652379
-                  ]
-            },
-            {
-                  "name": "Mt. Talau Lookout",
-                  "text": "Kilátópont a Mt. Talau hegyen Taoában, panorámás kilátással az öbölre.",
-                  "category": "natural",
-                  "coords": [
-                        -173.999303,
-                        -18.647853
                   ]
             },
             {
@@ -3835,15 +2933,6 @@ export const tongaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mt. Talau Lookout",
-                  "text": "Un punct de belvedere pe muntele Talau din Taoa, cu vedere panoramică asupra golfului.",
-                  "category": "natural",
-                  "coords": [
-                        -173.999303,
-                        -18.647853
-                  ]
-            },
-            {
                   "name": "Beluga Diving",
                   "text": "Un furnizor de experiențe de scufundări și sporturi nautice în Taoa.",
                   "category": "landmark",
@@ -3861,15 +2950,6 @@ export const tongaCitiesV2: POI[] = [
                   "coords": [
                         -173.983019,
                         -18.652379
-                  ]
-            },
-            {
-                  "name": "Mt. Talau Lookout",
-                  "text": "A lookout on Mt. Talau in Taoa providing panoramic views over the bay.",
-                  "category": "natural",
-                  "coords": [
-                        -173.999303,
-                        -18.647853
                   ]
             },
             {
@@ -3930,15 +3010,6 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-vaimalo-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Denkmal zur Erinnerung der Übergabe Tongas an Gott durch König George Tupou I",
-                  "text": "Ein historischer Ort in Vaimalo, an dem König Tupou I. sein Reich Gott weihte.",
-                  "category": "historical",
-                  "coords": [
-                        -173.983019,
-                        -18.652379
-                  ]
-            },
-            {
                   "name": "Mt. Talau Lookout",
                   "text": "Ein Aussichtspunkt auf dem Berg Talau mit Panoramablick über Vaimalo und die Bucht.",
                   "category": "natural",
@@ -3949,15 +3020,6 @@ export const tongaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Place where King Tupou I committed his kingdom under God's protection",
-                  "text": "Történelmi hely Vaimalóban, ahol I. Tupou király Isten oltalmába ajánlotta országát.",
-                  "category": "historical",
-                  "coords": [
-                        -173.983019,
-                        -18.652379
-                  ]
-            },
             {
                   "name": "Mt. Talau Lookout",
                   "text": "Kilátópont a Talau-hegyen, panorámás kilátással Vaimalóra és az öbölre.",
@@ -3970,15 +3032,6 @@ export const tongaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Place where King Tupou I committed his kingdom under God's protection",
-                  "text": "Un loc istoric în Vaimalo unde regele Tupou I și-a încredințat regatul sub protecția lui Dumnezeu.",
-                  "category": "historical",
-                  "coords": [
-                        -173.983019,
-                        -18.652379
-                  ]
-            },
-            {
                   "name": "Mt. Talau Lookout",
                   "text": "Un punct de belvedere pe muntele Talau, cu vedere panoramică asupra Vaimalo și a golfului.",
                   "category": "natural",
@@ -3989,15 +3042,6 @@ export const tongaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Place where King Tupou I committed his kingdom under God's protection",
-                  "text": "A historical site in Vaimalo where King Tupou I committed his kingdom under God's protection.",
-                  "category": "historical",
-                  "coords": [
-                        -173.983019,
-                        -18.652379
-                  ]
-            },
             {
                   "name": "Mt. Talau Lookout",
                   "text": "A lookout point on Mt. Talau offering panoramic views over Vaimalo and the bay.",
@@ -4461,15 +3505,6 @@ export const tongaCitiesV2: POI[] = [
     id: "tonga-vaipoa-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Hehea 'Atatuka",
-                  "text": "Ein beliebter Bade- und Picknickplatz an der Küste von Vaipoa mit natürlichen Felsbecken.",
-                  "category": "recreational",
-                  "coords": [
-                        -173.75804,
-                        -15.956614
-                  ]
-            },
-            {
                   "name": "Faka'ahotaha",
                   "text": "Ein Gemeindepark mit Sportplätzen in Vaipoa.",
                   "category": "recreational",
@@ -4507,15 +3542,6 @@ export const tongaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Hehea 'Atatuka",
-                  "text": "Népszerű fürdő- és piknikezőhely Vaipoa partján természetes sziklamedencékkel.",
-                  "category": "recreational",
-                  "coords": [
-                        -173.75804,
-                        -15.956614
-                  ]
-            },
             {
                   "name": "Faka'ahotaha",
                   "text": "Egy közösségi park sportpályákkal Vaipoában.",
@@ -4555,15 +3581,6 @@ export const tongaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Hehea 'Atatuka",
-                  "text": "Un loc popular de scăldat și picnic pe coasta Vaipoa, cu bazine naturale de stâncă.",
-                  "category": "recreational",
-                  "coords": [
-                        -173.75804,
-                        -15.956614
-                  ]
-            },
-            {
                   "name": "Faka'ahotaha",
                   "text": "Un parc comunitar cu terenuri de sport în Vaipoa.",
                   "category": "recreational",
@@ -4601,15 +3618,6 @@ export const tongaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Hehea 'Atatuka",
-                  "text": "A popular swimming and picnic spot on the coast of Vaipoa with natural rock pools.",
-                  "category": "recreational",
-                  "coords": [
-                        -173.75804,
-                        -15.956614
-                  ]
-            },
             {
                   "name": "Faka'ahotaha",
                   "text": "A community park with sports facilities in Vaipoa.",
@@ -4702,24 +3710,6 @@ export const tongaCitiesV2: POI[] = [
                         -173.75804,
                         -15.956614
                   ]
-            },
-            {
-                  "name": "Faka'ahotaha",
-                  "text": "Ein abgelegener Naturstrand in Falehau mit kristallklarem Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        -173.766168,
-                        -15.964871
-                  ]
-            },
-            {
-                  "name": "Makamotu",
-                  "text": "Ein lokaler Anziehungspunkt in Falehau, der Besuchern die Natur der Insel näherbringt.",
-                  "category": "landmark",
-                  "coords": [
-                        -173.763497,
-                        -15.946499
-                  ]
             }
       ],
       "hu": [
@@ -4730,24 +3720,6 @@ export const tongaCitiesV2: POI[] = [
                   "coords": [
                         -173.75804,
                         -15.956614
-                  ]
-            },
-            {
-                  "name": "Faka'ahotaha",
-                  "text": "Elszigetelt természetes strand Falehauban, kristálytiszta vízzel.",
-                  "category": "recreational",
-                  "coords": [
-                        -173.766168,
-                        -15.964871
-                  ]
-            },
-            {
-                  "name": "Makamotu",
-                  "text": "Helyi látnivaló Falehauban, amely közelebb hozza a látogatókat a sziget természetéhez.",
-                  "category": "landmark",
-                  "coords": [
-                        -173.763497,
-                        -15.946499
                   ]
             }
       ],
@@ -4760,24 +3732,6 @@ export const tongaCitiesV2: POI[] = [
                         -173.75804,
                         -15.956614
                   ]
-            },
-            {
-                  "name": "Faka'ahotaha",
-                  "text": "O plajă naturală izolată în Falehau, cu apă cristalină.",
-                  "category": "recreational",
-                  "coords": [
-                        -173.766168,
-                        -15.964871
-                  ]
-            },
-            {
-                  "name": "Makamotu",
-                  "text": "Un punct de atracție local în Falehau, care apropie vizitatorii de natura insulei.",
-                  "category": "landmark",
-                  "coords": [
-                        -173.763497,
-                        -15.946499
-                  ]
             }
       ],
       "en": [
@@ -4788,24 +3742,6 @@ export const tongaCitiesV2: POI[] = [
                   "coords": [
                         -173.75804,
                         -15.956614
-                  ]
-            },
-            {
-                  "name": "Faka'ahotaha",
-                  "text": "A secluded natural beach in Falehau with crystal clear water.",
-                  "category": "recreational",
-                  "coords": [
-                        -173.766168,
-                        -15.964871
-                  ]
-            },
-            {
-                  "name": "Makamotu",
-                  "text": "A local attraction in Falehau that brings visitors closer to the island's nature.",
-                  "category": "landmark",
-                  "coords": [
-                        -173.763497,
-                        -15.946499
                   ]
             }
       ]

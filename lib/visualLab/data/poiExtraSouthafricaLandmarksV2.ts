@@ -4923,39 +4923,12 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Heemkring Archive",
-                  "text": "Dieses lokale Museum und Archiv in Paarl bewahrt sorgfältig genealogische Dokumente und alte Fotografien auf, die das Pioniererbe der Region detailliert beschreiben.",
-                  "category": "museum",
-                  "coords": [
-                        18.962397,
-                        -33.740539
-                  ]
-            },
-            {
-                  "name": "Paarl View Point",
-                  "text": "Ein erhöhter Aussichtspunkt auf den Granitfelsen, der einen weiten Panoramablick über die Stadt Paarl und ihre weitläufigen Weinberge bietet.",
-                  "category": "natural",
-                  "coords": [
-                        18.948612,
-                        -33.741121
-                  ]
-            },
-            {
                   "name": "Wiesenhof Adventure Park",
                   "text": "Ein familienfreundlicher Wasserpark in der Nähe des Taalmonuments mit aufregenden Rutschen, Schwimmbädern und umfangreichen Outdoor-Abenteueraktivitäten.",
                   "category": "recreational",
                   "coords": [
                         18.876807,
                         -33.836999
-                  ]
-            },
-            {
-                  "name": "Paarl Museum",
-                  "text": "Dieses Museum ist in einem eleganten historischen kapholländischen Gebäude untergebracht und chronologisiert umfassend die kulturelle, sprachliche und soziale Geschichte des Paarl-Tals.",
-                  "category": "museum",
-                  "coords": [
-                        18.964234,
-                        -33.732386
                   ]
             },
             {
@@ -5087,39 +5060,12 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Heemkring Archive",
-                  "text": "Ez a paarl-i helyi múzeum és levéltár gondosan őrzi a genealógiai dokumentumokat és régi fényképeket, amelyek részletezik a régió úttörő örökségét.",
-                  "category": "museum",
-                  "coords": [
-                        18.962397,
-                        -33.740539
-                  ]
-            },
-            {
-                  "name": "Paarl View Point",
-                  "text": "A gránitsziklákon található magasított, festői kilátó, amely lenyűgöző, panorámás kilátást nyújt Paarl városára és az elterülő szőlőültetvényekre.",
-                  "category": "natural",
-                  "coords": [
-                        18.948612,
-                        -33.741121
-                  ]
-            },
-            {
                   "name": "Wiesenhof Adventure Park",
                   "text": "Családbarát vízipark a Taalmonument közelében, izgalmas csúszdákkal, úszómedencékkel és kiterjedt szabadtéri kalandtevékenységekkel.",
                   "category": "recreational",
                   "coords": [
                         18.876807,
                         -33.836999
-                  ]
-            },
-            {
-                  "name": "Paarl Museum",
-                  "text": "Egy elegáns, történelmi fokföldi holland épületben helyet kapó múzeum átfogóan krónikázza a Paarl-völgy kulturális, nyelvi és társadalmi történetét.",
-                  "category": "museum",
-                  "coords": [
-                        18.964234,
-                        -33.732386
                   ]
             },
             {
@@ -5251,39 +5197,12 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Heemkring Archive",
-                  "text": "Acest muzeu și arhivă locală din Paarl păstrează cu meticulozitate documente genealogice și fotografii vechi care detaliază moștenirea de pionierat a regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        18.962397,
-                        -33.740539
-                  ]
-            },
-            {
-                  "name": "Paarl View Point",
-                  "text": "Un punct de belvedere pitoresc elevat, situat pe aflorimentele de granit, care oferă priveliști panoramice ample asupra orașului Paarl și a podgoriilor sale extinse.",
-                  "category": "natural",
-                  "coords": [
-                        18.948612,
-                        -33.741121
-                  ]
-            },
-            {
                   "name": "Wiesenhof Adventure Park",
                   "text": "Un parc acvatic pentru familii lângă Taalmonument, cu tobogane palpitante, piscine și activități extinse de aventură în aer liber.",
                   "category": "recreational",
                   "coords": [
                         18.876807,
                         -33.836999
-                  ]
-            },
-            {
-                  "name": "Paarl Museum",
-                  "text": "Găzduit într-o clădire istorică elegantă, cu arhitectură olandeză de la Cap, acest muzeu prezintă o cronică cuprinzătoare a istoriei culturale, lingvistice și sociale a văii Paarl.",
-                  "category": "museum",
-                  "coords": [
-                        18.964234,
-                        -33.732386
                   ]
             },
             {
@@ -5415,39 +5334,12 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Heemkring Archive",
-                  "text": "This local museum and archive in Paarl meticulously preserves genealogical documents and old photographs detailing the region's pioneering heritage.",
-                  "category": "museum",
-                  "coords": [
-                        18.962397,
-                        -33.740539
-                  ]
-            },
-            {
-                  "name": "Paarl View Point",
-                  "text": "An elevated scenic viewpoint situated on the granite outcrops that provides sweeping, panoramic vistas over the town of Paarl and its sprawling vineyards.",
-                  "category": "natural",
-                  "coords": [
-                        18.948612,
-                        -33.741121
-                  ]
-            },
-            {
                   "name": "Wiesenhof Adventure Park",
                   "text": "A family-friendly water park near the Taalmonument featuring thrilling slides, swimming pools, and extensive outdoor adventure activities.",
                   "category": "recreational",
                   "coords": [
                         18.876807,
                         -33.836999
-                  ]
-            },
-            {
-                  "name": "Paarl Museum",
-                  "text": "Housed in an elegant historic Cape Dutch building, this museum comprehensively chronicles the cultural, linguistic, and social history of the Paarl valley.",
-                  "category": "museum",
-                  "coords": [
-                        18.964234,
-                        -33.732386
                   ]
             },
             {
@@ -5586,15 +5478,6 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "juma-masjid-mosque-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Old House Museum",
-                  "text": "Das Old House Museum befindet sich in einem historischen Gebäude, das das Leben der frühen europäischen Siedler in Durban dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        31.017508,
-                        -29.863065
-                  ]
-            },
-            {
                   "name": "Botanise Tuine",
                   "text": "Botanise Tuine ist ein grünes Monumentgelände im botanischen Viertel, das eine Vielzahl einheimischer afrikanischer Pflanzen präsentiert.",
                   "category": "historical",
@@ -5722,15 +5605,6 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Old House Museum",
-                  "text": "Az Old House Museum egy történelmi épületben található, amely a korai európai telepesek durbani életét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        31.017508,
-                        -29.863065
-                  ]
-            },
             {
                   "name": "Botanise Tuine",
                   "text": "A Botanise Tuine egy zöld műemléki terület a botanikai negyedben, amely a dél-afrikai őshonos növények széles választékát mutatja be.",
@@ -5860,15 +5734,6 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Old House Museum",
-                  "text": "Old House Museum este găzduit într-o clădire istorică care documentează viața primilor coloniști europeni din Durban.",
-                  "category": "museum",
-                  "coords": [
-                        31.017508,
-                        -29.863065
-                  ]
-            },
-            {
                   "name": "Botanise Tuine",
                   "text": "Botanise Tuine este o zonă monumentală verde din cartierul botanic, prezentând o varietate de plante autohtone africane.",
                   "category": "historical",
@@ -5996,15 +5861,6 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Old House Museum",
-                  "text": "The Old House Museum is housed in a historic building documenting the lives of early European settlers in Durban.",
-                  "category": "museum",
-                  "coords": [
-                        31.017508,
-                        -29.863065
-                  ]
-            },
             {
                   "name": "Botanise Tuine",
                   "text": "Botanise Tuine is a green monumental area in the botanical district showcasing a variety of indigenous African flora.",
@@ -8094,15 +7950,6 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
     id: "nelson-mandela-bay-stadium-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Telescope",
-                  "text": "Ein öffentliches Fernrohr in Nelson Mandela Bay, das vergrößerte Ausblicke auf den geschäftigen Küstenhafen bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        25.579588,
-                        -33.954173
-                  ]
-            },
-            {
                   "name": "Kwaford Primary School",
                   "text": "Die strukturellen Überreste einer ehemaligen Grundschule in der städtischen Landschaft der Nelson Mandela Bay.",
                   "category": "historical",
@@ -8140,15 +7987,6 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Telescope",
-                  "text": "Egy nyilvános távcső a Nelson Mandela-öbölben, amely nagyított kilátást nyújt a forgalmas tengerparti kikötőre.",
-                  "category": "landmark",
-                  "coords": [
-                        25.579588,
-                        -33.954173
-                  ]
-            },
             {
                   "name": "Kwaford Primary School",
                   "text": "Egykori általános iskola szerkezeti maradványai a Nelson Mandela-öböl városi tájában.",
@@ -8188,15 +8026,6 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Telescope",
-                  "text": "Un telescop public în Nelson Mandela Bay care oferă vederi mărite ale portului de coastă aglomerat.",
-                  "category": "landmark",
-                  "coords": [
-                        25.579588,
-                        -33.954173
-                  ]
-            },
-            {
                   "name": "Kwaford Primary School",
                   "text": "Rămășițele structurale ale unei foste școli primare situate în peisajul urban al Nelson Mandela Bay.",
                   "category": "historical",
@@ -8234,15 +8063,6 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Telescope",
-                  "text": "A public viewing instrument in Nelson Mandela Bay offering magnified sights of the busy coastal harbor.",
-                  "category": "landmark",
-                  "coords": [
-                        25.579588,
-                        -33.954173
-                  ]
-            },
             {
                   "name": "Kwaford Primary School",
                   "text": "The structural remnants of a former primary school located within the urban landscape of Nelson Mandela Bay.",
@@ -11522,24 +11342,6 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Horse Memorial",
-                  "text": "Das Horse Memorial in Port Elizabeth ist ein eindrucksvolles Denkmal für die Tausenden von Pferden, die während des Zweiten Burenkrieges gelitten haben und gestorben sind.",
-                  "category": "historical",
-                  "coords": [
-                        25.608852,
-                        -33.962153
-                  ]
-            },
-            {
-                  "name": "Mannville Open Air Theatre",
-                  "text": "Das Mannville Open Air Theatre ist ein stimmungsvoller Freiluft-Aufführungsort in Port Elizabeth, der traditionell für Shakespeare-Stücke unter dem Sternenhimmel bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        25.605728,
-                        -33.966928
-                  ]
-            },
-            {
                   "name": "Prester John",
                   "text": "Das Prester-John-Denkmal in Port Elizabeth ist ein großes Steinkreuz zur Erinnerung an den legendären christlichen König und die frühen portugiesischen Seefahrer, die sein mythisches Reich suchten.",
                   "category": "historical",
@@ -11612,48 +11414,12 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Prince Alfred's Guard Memorial",
-                  "text": "Das Prince Alfred's Guard Memorial in Port Elizabeth ist ein kompliziertes viktorianisches Bauwerk, das an die historischen Feldzüge eines lokalen freiwilligen Militärregiments erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        25.60621,
-                        -33.963908
-                  ]
-            },
-            {
-                  "name": "Saint George's Park",
-                  "text": "Der Saint George's Park in Port Elizabeth ist die älteste öffentliche Grünfläche der Stadt und beherbergt den berühmten, zweitältesten Cricketplatz Südafrikas.",
-                  "category": "park",
-                  "coords": [
-                        25.607223,
-                        -33.96586
-                  ]
-            },
-            {
                   "name": "South African Airforce Museum",
                   "text": "Das South African Airforce Museum in Port Elizabeth bietet eine beeindruckende Sammlung alter Militärflugzeuge und Luftfahrtartefakte, die in einer aktiven Flughafenzone untergebracht sind.",
                   "category": "museum",
                   "coords": [
                         25.617891,
                         -33.98958
-                  ]
-            },
-            {
-                  "name": "E.P.S.A. & C. Arts Hall",
-                  "text": "Die E.P.S.A. & C. Arts Hall in Port Elizabeth dient als lebendiges Kulturzentrum und veranstaltet Ausstellungen und Workshops zur Förderung der lokalen Gemeinschaft der bildenden Künste.",
-                  "category": "cultural",
-                  "coords": [
-                        25.611091,
-                        -33.965072
-                  ]
-            },
-            {
-                  "name": "Pearson Conservatory",
-                  "text": "Das Pearson Conservatory in Port Elizabeth ist ein kunstvolles viktorianisches Gewächshaus im St George's Park, das ursprünglich für den Anbau exotischer Pflanzen gebaut wurde.",
-                  "category": "landmark",
-                  "coords": [
-                        25.606065,
-                        -33.965462
                   ]
             },
             {
@@ -11731,24 +11497,6 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Horse Memorial",
-                  "text": "A Port Elizabeth-i Horse Memorial egy lenyűgöző emlékmű, amelyet a második búr háborúban szenvedett és elpusztult több ezer ló tiszteletére emeltek.",
-                  "category": "historical",
-                  "coords": [
-                        25.608852,
-                        -33.962153
-                  ]
-            },
-            {
-                  "name": "Mannville Open Air Theatre",
-                  "text": "A Mannville Open Air Theatre egy hangulatos szabadtéri előadótér Port Elizabeth-ben, amely hagyományosan a csillagos ég alatti Shakespeare-darabjairól híres.",
-                  "category": "cultural",
-                  "coords": [
-                        25.605728,
-                        -33.966928
-                  ]
-            },
-            {
                   "name": "Prester John",
                   "text": "A Port Elizabeth-i János pap emlékmű egy nagy kőkereszt, amely a legendás keresztény királynak és a mitikus birodalmát kutató korai portugál tengerészeknek állít emléket.",
                   "category": "historical",
@@ -11821,48 +11569,12 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Prince Alfred's Guard Memorial",
-                  "text": "A Port Elizabeth-i Prince Alfred's Guard emlékmű egy bonyolult viktoriánus építmény, amely egy helyi önkéntes katonai ezred történelmi hadjáratainak állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        25.60621,
-                        -33.963908
-                  ]
-            },
-            {
-                  "name": "Saint George's Park",
-                  "text": "A Port Elizabeth-i Szent György Park a város legrégebbi nyilvános zöldövezete, és híres arról, hogy itt található Dél-Afrika második legrégebbi krikettpályája.",
-                  "category": "park",
-                  "coords": [
-                        25.607223,
-                        -33.96586
-                  ]
-            },
-            {
                   "name": "South African Airforce Museum",
                   "text": "A Port Elizabeth-i Dél-Afrikai Légierő Múzeum lenyűgöző régi katonai repülőgép- és repülési műtárgy-gyűjteménnyel rendelkezik, amely egy működő repülőtéri zónában kapott helyet.",
                   "category": "museum",
                   "coords": [
                         25.617891,
                         -33.98958
-                  ]
-            },
-            {
-                  "name": "E.P.S.A. & C. Arts Hall",
-                  "text": "A Port Elizabeth-i E.P.S.A. & C. Arts Hall pezsgő kulturális központként szolgál, amely kiállításoknak és workshopoknak ad otthont a helyi vizuális művészeti közösség népszerűsítésére.",
-                  "category": "cultural",
-                  "coords": [
-                        25.611091,
-                        -33.965072
-                  ]
-            },
-            {
-                  "name": "Pearson Conservatory",
-                  "text": "A Port Elizabeth-i Pearson Konzervatórium egy díszes viktoriánus üvegház a Szent György Parkban, amelyet eredetileg egzotikus növények termesztésére építettek.",
-                  "category": "landmark",
-                  "coords": [
-                        25.606065,
-                        -33.965462
                   ]
             },
             {
@@ -11940,24 +11652,6 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Horse Memorial",
-                  "text": "Monumentul Cailor din Port Elizabeth este o operă comemorativă impresionantă, dedicată miilor de cai care au suferit și au murit în timpul celui de-al Doilea Război al Burilor.",
-                  "category": "historical",
-                  "coords": [
-                        25.608852,
-                        -33.962153
-                  ]
-            },
-            {
-                  "name": "Mannville Open Air Theatre",
-                  "text": "Teatrul în aer liber Mannville este un spațiu de spectacol atmosferic din Port Elizabeth, renumit tradițional pentru găzduirea pieselor shakespeariene sub cerul liber.",
-                  "category": "cultural",
-                  "coords": [
-                        25.605728,
-                        -33.966928
-                  ]
-            },
-            {
                   "name": "Prester John",
                   "text": "Monumentul Preotului Ioan din Port Elizabeth este o cruce mare de piatră care comemorează legendarul rege creștin și primii navigatori portughezi care i-au căutat imperiul mitic.",
                   "category": "historical",
@@ -12030,48 +11724,12 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Prince Alfred's Guard Memorial",
-                  "text": "Monumentul Gărzii Prințului Alfred din Port Elizabeth este o structură victoriană complexă care comemorează campaniile istorice ale unui regiment militar local de voluntari.",
-                  "category": "historical",
-                  "coords": [
-                        25.60621,
-                        -33.963908
-                  ]
-            },
-            {
-                  "name": "Saint George's Park",
-                  "text": "Parcul Sfântul Gheorghe din Port Elizabeth este cel mai vechi spațiu verde public al orașului și găzduiește celebrul al doilea cel mai vechi teren de crichet din Africa de Sud.",
-                  "category": "park",
-                  "coords": [
-                        25.607223,
-                        -33.96586
-                  ]
-            },
-            {
                   "name": "South African Airforce Museum",
                   "text": "Muzeul Forțelor Aeriene Sud-Africane din Port Elizabeth prezintă o colecție impresionantă de avioane militare de epocă și artefacte de aviație găzduite într-o zonă de aeroport funcțional.",
                   "category": "museum",
                   "coords": [
                         25.617891,
                         -33.98958
-                  ]
-            },
-            {
-                  "name": "E.P.S.A. & C. Arts Hall",
-                  "text": "Sala de Arte E.P.S.A. & C. din Port Elizabeth servește ca un centru cultural vibrant, găzduind expoziții și ateliere care promovează comunitatea locală de arte vizuale.",
-                  "category": "cultural",
-                  "coords": [
-                        25.611091,
-                        -33.965072
-                  ]
-            },
-            {
-                  "name": "Pearson Conservatory",
-                  "text": "Sera Pearson din Port Elizabeth este o seră victoriană ornamentată situată în Parcul Sf. Gheorghe, construită inițial pentru a cultiva plante exotice.",
-                  "category": "landmark",
-                  "coords": [
-                        25.606065,
-                        -33.965462
                   ]
             },
             {
@@ -12149,24 +11807,6 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Horse Memorial",
-                  "text": "The Horse Memorial in Port Elizabeth is a striking monument dedicated to the thousands of horses that suffered and died during the Second Boer War.",
-                  "category": "historical",
-                  "coords": [
-                        25.608852,
-                        -33.962153
-                  ]
-            },
-            {
-                  "name": "Mannville Open Air Theatre",
-                  "text": "Mannville Open Air Theatre is an atmospheric outdoor performance space in Port Elizabeth, traditionally famous for hosting Shakespearean plays under the stars.",
-                  "category": "cultural",
-                  "coords": [
-                        25.605728,
-                        -33.966928
-                  ]
-            },
-            {
                   "name": "Prester John",
                   "text": "The Prester John monument in Port Elizabeth is a large stone cross commemorating the legendary Christian king and the early Portuguese navigators who sought his mythical empire.",
                   "category": "historical",
@@ -12239,48 +11879,12 @@ export const poiExtraSouthafricaLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Prince Alfred's Guard Memorial",
-                  "text": "The Prince Alfred's Guard Memorial in Port Elizabeth is an intricate Victorian structure commemorating a local volunteer military regiment's historical campaigns.",
-                  "category": "historical",
-                  "coords": [
-                        25.60621,
-                        -33.963908
-                  ]
-            },
-            {
-                  "name": "Saint George's Park",
-                  "text": "Saint George's Park in Port Elizabeth is the city's oldest public green space and is famously home to the second oldest cricket ground in South Africa.",
-                  "category": "park",
-                  "coords": [
-                        25.607223,
-                        -33.96586
-                  ]
-            },
-            {
                   "name": "South African Airforce Museum",
                   "text": "The South African Airforce Museum in Port Elizabeth features an impressive collection of vintage military aircraft and aviation artifacts housed within a working airport zone.",
                   "category": "museum",
                   "coords": [
                         25.617891,
                         -33.98958
-                  ]
-            },
-            {
-                  "name": "E.P.S.A. & C. Arts Hall",
-                  "text": "The E.P.S.A. & C. Arts Hall in Port Elizabeth serves as a vibrant cultural center, hosting exhibitions and workshops that promote the local visual arts community.",
-                  "category": "cultural",
-                  "coords": [
-                        25.611091,
-                        -33.965072
-                  ]
-            },
-            {
-                  "name": "Pearson Conservatory",
-                  "text": "The Pearson Conservatory in Port Elizabeth is an ornate Victorian glasshouse located in St George's Park, originally built to cultivate exotic plants.",
-                  "category": "landmark",
-                  "coords": [
-                        25.606065,
-                        -33.965462
                   ]
             },
             {

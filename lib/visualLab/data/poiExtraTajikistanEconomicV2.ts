@@ -260,24 +260,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzei goroda i biblioteka",
-                  "text": "Das Stadtmuseum und die Bibliothek von Tursunsoda mit Ausstellungen zur lokalen Geschichte.",
-                  "category": "museum",
-                  "coords": [
-                        68.228383,
-                        38.513682
-                  ]
-            },
-            {
-                  "name": "Dom veterana truda i voiny T. Isomitdin",
-                  "text": "Ein Gedenkhaus für einen hochdekorierten Veteranen der Arbeit und des Krieges.",
-                  "category": "landmark",
-                  "coords": [
-                        68.235284,
-                        38.510875
-                  ]
-            },
-            {
                   "name": "Tsentral'nyi park",
                   "text": "Ein zentraler Freizeitpark in Tursunsoda mit Grünflächen für die städtische Erholung.",
                   "category": "recreational",
@@ -394,24 +376,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
                   "coords": [
                         68.21782,
                         38.517902
-                  ]
-            },
-            {
-                  "name": "Muzei goroda i biblioteka",
-                  "text": "Tursunszoda városi múzeuma és könyvtára helytörténeti kiállításokkal.",
-                  "category": "museum",
-                  "coords": [
-                        68.228383,
-                        38.513682
-                  ]
-            },
-            {
-                  "name": "Dom veterana truda i voiny T. Isomitdin",
-                  "text": "Emlékház egy elismert munka- és háborús veterán tiszteletére.",
-                  "category": "landmark",
-                  "coords": [
-                        68.235284,
-                        38.510875
                   ]
             },
             {
@@ -534,24 +498,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Muzei goroda i biblioteka",
-                  "text": "Muzeul și biblioteca orașului Tursunzoda, găzduind expoziții de istorie locală.",
-                  "category": "museum",
-                  "coords": [
-                        68.228383,
-                        38.513682
-                  ]
-            },
-            {
-                  "name": "Dom veterana truda i voiny T. Isomitdin",
-                  "text": "O casă memorială dedicată unui veteran al muncii și al războiului.",
-                  "category": "landmark",
-                  "coords": [
-                        68.235284,
-                        38.510875
-                  ]
-            },
-            {
                   "name": "Tsentral'nyi park",
                   "text": "Un parc central de agrement în Tursunzoda, oferind spații verzi pentru relaxare urbană.",
                   "category": "recreational",
@@ -668,33 +614,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
                   "coords": [
                         68.21782,
                         38.517902
-                  ]
-            },
-            {
-                  "name": "Muzei goroda i biblioteka",
-                  "text": "The city museum and library of Tursunzoda, featuring local history exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        68.228383,
-                        38.513682
-                  ]
-            },
-            {
-                  "name": "Dom veterana truda i voiny T. Isomitdin",
-                  "text": "A memorial house dedicated to a decorated veteran of labor and war.",
-                  "category": "landmark",
-                  "coords": [
-                        68.235284,
-                        38.510875
-                  ]
-            },
-            {
-                  "name": "Central Park",
-                  "text": "A central leisure park in Tursunzoda providing green spaces for urban recreation.",
-                  "category": "recreational",
-                  "coords": [
-                        68.231114,
-                        38.511781
                   ]
             },
             {
@@ -1182,15 +1101,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "yovon-chemical-plant-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Tagoimurodi Kh.",
-                  "text": "Ein Ehrenmal in Jowon, das an eine bedeutende lokale Persönlichkeit der Region erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        69.043489,
-                        38.317801
-                  ]
-            },
-            {
                   "name": "Bozori markazii nokh'iiai Iovon",
                   "text": "Der belebte zentrale Marktplatz von Jowon, auf dem regionales Kunsthandwerk und frische Lebensmittel gehandelt werden.",
                   "category": "cultural",
@@ -1201,15 +1111,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Tagoimurodi Kh.",
-                  "text": "Jovon egyik emlékműve, amely a régió egyik jelentős helyi személyiségének állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        69.043489,
-                        38.317801
-                  ]
-            },
             {
                   "name": "Bozori markazii nokh'iiai Iovon",
                   "text": "Jovon nyüzsgő központi piaca, ahol regionális kézműves termékeket és friss élelmiszereket árusítanak.",
@@ -1222,15 +1123,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Tagoimurodi Kh.",
-                  "text": "Un monument în Iovon, dedicat unei personalități locale importante din regiune.",
-                  "category": "historical",
-                  "coords": [
-                        69.043489,
-                        38.317801
-                  ]
-            },
-            {
                   "name": "Bozori markazii nokh'iiai Iovon",
                   "text": "Piața centrală plină de viață din Iovon, unde se vând produse artizanale regionale și alimente proaspete.",
                   "category": "cultural",
@@ -1241,15 +1133,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Tagoimurodi Kh.",
-                  "text": "A commemorative monument in Yovon dedicated to a significant local figure of the region.",
-                  "category": "historical",
-                  "coords": [
-                        69.043489,
-                        38.317801
-                  ]
-            },
             {
                   "name": "Bozori markazii nokh'iiai Iovon",
                   "text": "The bustling central marketplace of Yovon, where regional handicrafts and fresh produce are traded.",
@@ -3463,78 +3346,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
     id: "vakhsh-fertilizer-plant-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Korona",
-                  "text": "Ein kronenförmiges Monument im Stadtzentrum, das die nationale Souveränität symbolisiert.",
-                  "category": "historical",
-                  "coords": [
-                        68.758382,
-                        37.844878
-                  ]
-            },
-            {
-                  "name": "Traktor",
-                  "text": "Dieses Denkmal zeigt einen Oldtimer-Traktor und erinnert an die landwirtschaftliche Entwicklung der Region Wachsch.",
-                  "category": "historical",
-                  "coords": [
-                        68.757063,
-                        37.845151
-                  ]
-            },
-            {
-                  "name": "Flagshtok",
-                  "text": "Ein imposanter Flaggenmast im Stadtzentrum, an dem die tadschikische Nationalflagge weht.",
-                  "category": "landmark",
-                  "coords": [
-                        68.776842,
-                        37.838523
-                  ]
-            },
-            {
-                  "name": "Gerb",
-                  "text": "Eine Skulptur, die das Staatswappen Tadschikistans darstellt und den öffentlichen Platz schmückt.",
-                  "category": "historical",
-                  "coords": [
-                        68.77939,
-                        37.837704
-                  ]
-            },
-            {
-                  "name": "Park imeni Rudaki",
-                  "text": "Ein nach dem Dichter Rudaki benannter Park mit schattigen Alleen und Erholungsflächen.",
-                  "category": "recreational",
-                  "coords": [
-                        68.772414,
-                        37.840492
-                  ]
-            },
-            {
-                  "name": "Teppa muzei Bibikhur",
-                  "text": "Dieses Museum für moderne Geschichte wurde auf einem archäologischen Hügel (Teppa) errichtet.",
-                  "category": "museum",
-                  "coords": [
-                        68.775598,
-                        37.837709
-                  ]
-            },
-            {
-                  "name": "Bobodzhon Gafurov",
-                  "text": "Eine Statue zu Ehren des berühmten tadschikischen Historikers und Staatsmannes Bobojon Ghafurov.",
-                  "category": "historical",
-                  "coords": [
-                        68.783692,
-                        37.832575
-                  ]
-            },
-            {
-                  "name": "History museum of Khatlon",
-                  "text": "Regionalmuseum, das archäologische Funde und ethnografische Exponate der Provinz Chatlon zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        68.779847,
-                        37.840741
-                  ]
-            },
-            {
                   "name": "Akvapark Sarband",
                   "text": "Ein Wasserpark mit Rutschen und Pools in der Nähe des Sarband-Staudamms am Fluss Wachsch.",
                   "category": "recreational",
@@ -3698,78 +3509,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Korona",
-                  "text": "Egy korona alakú emlékmű a városközpontban, amely a nemzeti szuverenitást jelképezi.",
-                  "category": "historical",
-                  "coords": [
-                        68.758382,
-                        37.844878
-                  ]
-            },
-            {
-                  "name": "Traktor",
-                  "text": "Ez az emlékmű egy veterán traktort ábrázol, emléket állítva a vakhshi régió mezőgazdasági fejlődésének.",
-                  "category": "historical",
-                  "coords": [
-                        68.757063,
-                        37.845151
-                  ]
-            },
-            {
-                  "name": "Flagshtok",
-                  "text": "Egy impozáns zászlórúd a városközpontban, amelyen a tadzsik nemzeti lobogó látható.",
-                  "category": "landmark",
-                  "coords": [
-                        68.776842,
-                        37.838523
-                  ]
-            },
-            {
-                  "name": "Gerb",
-                  "text": "Tádzsikisztán állami címerét ábrázoló szobor, amely a nyilvános teret díszíti.",
-                  "category": "historical",
-                  "coords": [
-                        68.77939,
-                        37.837704
-                  ]
-            },
-            {
-                  "name": "Park imeni Rudaki",
-                  "text": "A Rudaki költőről elnevezett park árnyas sétányokkal és pihenőhelyekkel várja a látogatókat.",
-                  "category": "recreational",
-                  "coords": [
-                        68.772414,
-                        37.840492
-                  ]
-            },
-            {
-                  "name": "Teppa muzei Bibikhur",
-                  "text": "Ez a modern történelmi múzeum egy régészeti dombra (Teppa) épült.",
-                  "category": "museum",
-                  "coords": [
-                        68.775598,
-                        37.837709
-                  ]
-            },
-            {
-                  "name": "Bobodzhon Gafurov",
-                  "text": "Szobor a híres tadzsik történész és államférfi, Bobojon Ghafurov tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        68.783692,
-                        37.832575
-                  ]
-            },
-            {
-                  "name": "History museum of Khatlon",
-                  "text": "Regionális múzeum, amely Khatlon tartomány régészeti leleteit és néprajzi tárgyait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        68.779847,
-                        37.840741
-                  ]
-            },
             {
                   "name": "Akvapark Sarband",
                   "text": "Vízi vidámpark csúszdákkal és medencékkel a Vakhsh-folyó Sarband-gátja közelében.",
@@ -3935,78 +3674,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Korona",
-                  "text": "Un monument în formă de coroană situat în centrul orașului, simbolizând suveranitatea națională.",
-                  "category": "historical",
-                  "coords": [
-                        68.758382,
-                        37.844878
-                  ]
-            },
-            {
-                  "name": "Traktor",
-                  "text": "Acest monument prezintă un tractor de epocă, amintind de dezvoltarea agricolă a regiunii Vakhsh.",
-                  "category": "historical",
-                  "coords": [
-                        68.757063,
-                        37.845151
-                  ]
-            },
-            {
-                  "name": "Flagshtok",
-                  "text": "Un catarg impunător în centrul orașului, unde flutură steagul național al Tadjikistanului.",
-                  "category": "landmark",
-                  "coords": [
-                        68.776842,
-                        37.838523
-                  ]
-            },
-            {
-                  "name": "Gerb",
-                  "text": "O sculptură care reprezintă emblema de stat a Tadjikistanului, decorând piața publică.",
-                  "category": "historical",
-                  "coords": [
-                        68.77939,
-                        37.837704
-                  ]
-            },
-            {
-                  "name": "Park imeni Rudaki",
-                  "text": "Un parc numit după poetul Rudaki, oferind alei umbrite și spații de recreere.",
-                  "category": "recreational",
-                  "coords": [
-                        68.772414,
-                        37.840492
-                  ]
-            },
-            {
-                  "name": "Teppa muzei Bibikhur",
-                  "text": "Acest muzeu de istorie modernă este construit pe un dâmb arheologic (Teppa).",
-                  "category": "museum",
-                  "coords": [
-                        68.775598,
-                        37.837709
-                  ]
-            },
-            {
-                  "name": "Bobodzhon Gafurov",
-                  "text": "O statuie în cinstea celebrului istoric și om de stat tadjic Bobojon Ghafurov.",
-                  "category": "historical",
-                  "coords": [
-                        68.783692,
-                        37.832575
-                  ]
-            },
-            {
-                  "name": "History museum of Khatlon",
-                  "text": "Muzeu regional care prezintă descoperiri arheologice și exponate etnografice din provincia Khatlon.",
-                  "category": "museum",
-                  "coords": [
-                        68.779847,
-                        37.840741
-                  ]
-            },
-            {
                   "name": "Akvapark Sarband",
                   "text": "Un parc acvatic cu tobogane și piscine situat lângă barajul Sarband de pe râul Vakhsh.",
                   "category": "recreational",
@@ -4170,78 +3837,6 @@ export const poiExtraTajikistanEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Korona",
-                  "text": "A crown-shaped monument in the city center symbolizing national sovereignty.",
-                  "category": "historical",
-                  "coords": [
-                        68.758382,
-                        37.844878
-                  ]
-            },
-            {
-                  "name": "Traktor",
-                  "text": "This monument features a vintage tractor, commemorating the agricultural development of the Vakhsh region.",
-                  "category": "historical",
-                  "coords": [
-                        68.757063,
-                        37.845151
-                  ]
-            },
-            {
-                  "name": "Flagshtok",
-                  "text": "A soaring flagpole in the city center flying the national flag of Tajikistan.",
-                  "category": "landmark",
-                  "coords": [
-                        68.776842,
-                        37.838523
-                  ]
-            },
-            {
-                  "name": "Gerb",
-                  "text": "A sculpture depicting the national emblem of Tajikistan, decorating the public square.",
-                  "category": "historical",
-                  "coords": [
-                        68.77939,
-                        37.837704
-                  ]
-            },
-            {
-                  "name": "Park imeni Rudaki",
-                  "text": "A public park named after the poet Rudaki featuring shaded walkways and recreational areas.",
-                  "category": "recreational",
-                  "coords": [
-                        68.772414,
-                        37.840492
-                  ]
-            },
-            {
-                  "name": "Teppa (modern history museum)",
-                  "text": "This modern history museum is built atop a prominent archaeological mound known as a Teppa.",
-                  "category": "museum",
-                  "coords": [
-                        68.775598,
-                        37.837709
-                  ]
-            },
-            {
-                  "name": "Bobojon Ghafurov statue",
-                  "text": "A statue honoring the famous Tajik historian and statesman Bobojon Ghafurov.",
-                  "category": "historical",
-                  "coords": [
-                        68.783692,
-                        37.832575
-                  ]
-            },
-            {
-                  "name": "History museum of Khatlon",
-                  "text": "Regional museum showcasing archaeological finds and ethnographic exhibits from the Khatlon province.",
-                  "category": "museum",
-                  "coords": [
-                        68.779847,
-                        37.840741
-                  ]
-            },
             {
                   "name": "Sarband Aquapark",
                   "text": "A water park with slides and pools located near the Sarband dam on the Vakhsh River.",

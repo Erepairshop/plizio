@@ -327,86 +327,10 @@ export const poiExtraUgandaCitiesV2: POI[] = [
   },
   {
     id: "mbarara-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "EAST AFRICAN REVIVAL MUSEUM",
-                  "text": "Dieses Museum in Mbarara dokumentiert die Geschichte der East African Revival Bewegung.",
-                  "category": "museum",
-                  "coords": [
-                        30.631722,
-                        -0.612416
-                  ]
-            },
-            {
-                  "name": "Ankole Kingdom Palace",
-                  "text": "Ankole Königreichspalast in Mbarara, eine historische königliche Residenz.",
-                  "category": "castle",
-                  "coords": [
-                        30.641183,
-                        -0.610655
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "EAST AFRICAN REVIVAL MUSEUM",
-                  "text": "Ez a mbararai múzeum az East African Revival mozgalom történetét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        30.631722,
-                        -0.612416
-                  ]
-            },
-            {
-                  "name": "Ankole Kingdom Palace",
-                  "text": "Ankole Királyi Palota Mbarara városában, egy történelmi királyi rezidencia.",
-                  "category": "castle",
-                  "coords": [
-                        30.641183,
-                        -0.610655
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "EAST AFRICAN REVIVAL MUSEUM",
-                  "text": "Acest muzeu din Mbarara documentează istoria mișcării East African Revival.",
-                  "category": "museum",
-                  "coords": [
-                        30.631722,
-                        -0.612416
-                  ]
-            },
-            {
-                  "name": "Ankole Kingdom Palace",
-                  "text": "Palatul Regatului Ankole din Mbarara, o reședință regală istorică.",
-                  "category": "castle",
-                  "coords": [
-                        30.641183,
-                        -0.610655
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "EAST AFRICAN REVIVAL MUSEUM",
-                  "text": "This museum in Mbarara documents the history of the East African Revival movement.",
-                  "category": "museum",
-                  "coords": [
-                        30.631722,
-                        -0.612416
-                  ]
-            },
-            {
-                  "name": "Ankole Kingdom Palace",
-                  "text": "Ankole Kingdom Palace in Mbarara, a historic royal residence.",
-                  "category": "castle",
-                  "coords": [
-                        30.641183,
-                        -0.610655
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "UG-410",
@@ -2360,15 +2284,6 @@ export const poiExtraUgandaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Uganda Martyrs' Shrine",
-                  "text": "Uganda-Märtyrer-Schrein in Kira, Ort des Martyriums der ugandischen christlichen Konvertiten.",
-                  "category": "historical",
-                  "coords": [
-                        32.652456,
-                        0.387275
-                  ]
-            },
-            {
                   "name": "Uganda Matyr's Well",
                   "text": "Eine historische Wasserstelle in Kira, die mit den ugandischen Märtyrern verbunden ist.",
                   "category": "landmark",
@@ -2395,15 +2310,6 @@ export const poiExtraUgandaCitiesV2: POI[] = [
                   "coords": [
                         32.6665,
                         0.395693
-                  ]
-            },
-            {
-                  "name": "Uganda Martyrs' Shrine",
-                  "text": "Ugandai Vértanúk Szentélye Kira városában, az ugandai keresztény vértanúk kivégzésének helye.",
-                  "category": "historical",
-                  "coords": [
-                        32.652456,
-                        0.387275
                   ]
             },
             {
@@ -2436,15 +2342,6 @@ export const poiExtraUgandaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Uganda Martyrs' Shrine",
-                  "text": "Altarul Martirilor Ugandei din Kira, locul martiriului convertiților creștini ugandezi.",
-                  "category": "historical",
-                  "coords": [
-                        32.652456,
-                        0.387275
-                  ]
-            },
-            {
                   "name": "Uganda Matyr's Well",
                   "text": "O fântână istorică în Kira, legată de martirii ugandezi.",
                   "category": "landmark",
@@ -2471,15 +2368,6 @@ export const poiExtraUgandaCitiesV2: POI[] = [
                   "coords": [
                         32.6665,
                         0.395693
-                  ]
-            },
-            {
-                  "name": "Uganda Martyrs' Shrine",
-                  "text": "Uganda Martyrs' Shrine in Kira, site of the martyrdom of Uganda's Christian converts.",
-                  "category": "historical",
-                  "coords": [
-                        32.652456,
-                        0.387275
                   ]
             },
             {
@@ -2694,66 +2582,12 @@ export const poiExtraUgandaCitiesV2: POI[] = [
     id: "rubaga-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Royal Theatre",
-                  "text": "Royal Theatre in Rubaga, ein historisches Theater für kulturelle Aufführungen des Buganda-Königreichs.",
-                  "category": "cultural",
-                  "coords": [
-                        32.570299,
-                        0.314792
-                  ]
-            },
-            {
-                  "name": "Playwright play house",
-                  "text": "Playwright Play House in Rubaga, ein kultureller Veranstaltungsort für ugandisches Theater.",
-                  "category": "cultural",
-                  "coords": [
-                        32.555947,
-                        0.315522
-                  ]
-            },
-            {
-                  "name": "Königliche Gräber der Buganda zu Kasubi",
-                  "text": "Kasubi-Königsgräber in Rubaga, Begräbnisstätte der Buganda-Könige (UNESCO-Weltkulturerbe).",
-                  "category": "museum",
-                  "coords": [
-                        32.555088,
-                        0.328265
-                  ]
-            },
-            {
                   "name": "Buganda Kingdom museum",
                   "text": "Buganda-Königreich-Museum in Rubaga, das Artefakte des Buganda-Königreichs ausstellt.",
                   "category": "museum",
                   "coords": [
                         32.565517,
                         0.30234
-                  ]
-            },
-            {
-                  "name": "Busses to Kigali",
-                  "text": "Busse nach Kigali, der Busbahnhof in Rubaga für Routen in die ruandische Hauptstadt.",
-                  "category": "landmark",
-                  "coords": [
-                        32.566554,
-                        0.31408
-                  ]
-            },
-            {
-                  "name": "Katwe market",
-                  "text": "Katwe-Markt in Rubaga, ein lebhafter lokaler Markt für frische Produkte und Kunsthandwerk.",
-                  "category": "landmark",
-                  "coords": [
-                        32.575054,
-                        0.301565
-                  ]
-            },
-            {
-                  "name": "Uganda National Mosque",
-                  "text": "Uganda Nationalmoschee in Rubaga (Gaddafi-Moschee), die größte Moschee Ugandas mit einem hohen Minarett.",
-                  "category": "landmark",
-                  "coords": [
-                        32.568564,
-                        0.3156
                   ]
             },
             {
@@ -2764,72 +2598,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
                         32.558253,
                         0.309759
                   ]
-            },
-            {
-                  "name": "Prison under Idi Amin",
-                  "text": "Ein Ort von historischem Interesse und eine Attraktion in Rubaga.",
-                  "category": "landmark",
-                  "coords": [
-                        32.564481,
-                        0.300056
-                  ]
-            },
-            {
-                  "name": "Namirembe Cathedral",
-                  "text": "Eine bekannte Kathedrale und eine wichtige Andachtsstätte in Rubaga.",
-                  "category": "religious",
-                  "coords": [
-                        32.559445,
-                        0.314887
-                  ]
-            },
-            {
-                  "name": "Miracle Center Cathedral",
-                  "text": "Miracle Center Cathedral in Rubaga (Kampala) ist eine große Pfingstkirche.",
-                  "category": "religious",
-                  "coords": [
-                        32.560722,
-                        0.302761
-                  ]
-            },
-            {
-                  "name": "Rubaga Cathedral",
-                  "text": "Rubaga Cathedral in Rubaga (Kampala) ist die katholische Hauptkathedrale auf dem Rubaga-Hügel.",
-                  "category": "religious",
-                  "coords": [
-                        32.552084,
-                        0.302504
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Royal Theatre",
-                  "text": "Royal Theatre Rubagában, egy történelmi színház a Buganda királyság kulturális előadásainak.",
-                  "category": "cultural",
-                  "coords": [
-                        32.570299,
-                        0.314792
-                  ]
-            },
-            {
-                  "name": "Playwright play house",
-                  "text": "Playwright Play House Rubagában, egy kulturális helyszín ugandai színházi előadásokhoz.",
-                  "category": "cultural",
-                  "coords": [
-                        32.555947,
-                        0.315522
-                  ]
-            },
-            {
-                  "name": "Kasubi Royal Tombs",
-                  "text": "Kasubi Királyi Sírkamrák Rubagában, a Buganda királyok temetkezési helye (UNESCO világörökség).",
-                  "category": "museum",
-                  "coords": [
-                        32.555088,
-                        0.328265
-                  ]
-            },
             {
                   "name": "Buganda Kingdom museum",
                   "text": "Buganda Királyság Múzeum Rubagában, a Buganda királyság tárgyainak kiállításával.",
@@ -2840,33 +2611,6 @@ export const poiExtraUgandaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Busses to Kigali",
-                  "text": "Buszok Kigaliba, a rubagai buszpályaudvar a ruandai fővárosba induló járatokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        32.566554,
-                        0.31408
-                  ]
-            },
-            {
-                  "name": "Katwe market",
-                  "text": "Katwe piac Rubagában, egy nyüzsgő helyi piac friss termékekkel és kézműves termékekkel.",
-                  "category": "landmark",
-                  "coords": [
-                        32.575054,
-                        0.301565
-                  ]
-            },
-            {
-                  "name": "Uganda National Mosque",
-                  "text": "Ugandai Nemzeti Mecset Rubagában (Gaddafi-mecset), Uganda legnagyobb mecsetje magas minarettel.",
-                  "category": "landmark",
-                  "coords": [
-                        32.568564,
-                        0.3156
-                  ]
-            },
-            {
                   "name": "Parliament of the Kingdom of Bugunda",
                   "text": "Buganda Királyság Parlamentje Rubagában, a Buganda törvényhozó testület székhelye.",
                   "category": "landmark",
@@ -2874,72 +2618,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
                         32.558253,
                         0.309759
                   ]
-            },
-            {
-                  "name": "Prison under Idi Amin",
-                  "text": "Egy történelmi érdekességű hely és látványosság Rubagában.",
-                  "category": "landmark",
-                  "coords": [
-                        32.564481,
-                        0.300056
-                  ]
-            },
-            {
-                  "name": "Namirembe Cathedral",
-                  "text": "Egy jól ismert katedrális és fontos istentiszteleti hely Rubagában.",
-                  "category": "religious",
-                  "coords": [
-                        32.559445,
-                        0.314887
-                  ]
-            },
-            {
-                  "name": "Miracle Center Cathedral",
-                  "text": "A Miracle Center Cathedral Rubagában (Kampala) egy nagy pünkösdi templom.",
-                  "category": "religious",
-                  "coords": [
-                        32.560722,
-                        0.302761
-                  ]
-            },
-            {
-                  "name": "Rubaga Cathedral",
-                  "text": "A Rubaga Cathedral Rubagában (Kampala) a katolikus főszékesegyház a Rubaga-dombon.",
-                  "category": "religious",
-                  "coords": [
-                        32.552084,
-                        0.302504
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Royal Theatre",
-                  "text": "Teatrul Regal din Rubaga, un teatru istoric pentru spectacole culturale ale regatului Buganda.",
-                  "category": "cultural",
-                  "coords": [
-                        32.570299,
-                        0.314792
-                  ]
-            },
-            {
-                  "name": "Playwright play house",
-                  "text": "Playwright Play House din Rubaga, un loc cultural pentru piese de teatru ugandeze.",
-                  "category": "cultural",
-                  "coords": [
-                        32.555947,
-                        0.315522
-                  ]
-            },
-            {
-                  "name": "Kasubi Royal Tombs",
-                  "text": "Mormintele Regale Kasubi din Rubaga, locul de înmormântare al regilor Buganda (patrimoniu UNESCO).",
-                  "category": "museum",
-                  "coords": [
-                        32.555088,
-                        0.328265
-                  ]
-            },
             {
                   "name": "Buganda Kingdom museum",
                   "text": "Muzeul Regatului Buganda din Rubaga, care expune artefacte ale regatului Buganda.",
@@ -2950,33 +2631,6 @@ export const poiExtraUgandaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Busses to Kigali",
-                  "text": "Autobuze spre Kigali, terminalul de autobuze din Rubaga pentru rute către capitala Rwandei.",
-                  "category": "landmark",
-                  "coords": [
-                        32.566554,
-                        0.31408
-                  ]
-            },
-            {
-                  "name": "Katwe market",
-                  "text": "Piața Katwe din Rubaga, o piață locală animată cu produse proaspete și meșteșuguri.",
-                  "category": "landmark",
-                  "coords": [
-                        32.575054,
-                        0.301565
-                  ]
-            },
-            {
-                  "name": "Uganda National Mosque",
-                  "text": "Moscheea Națională a Ugandei din Rubaga (Moscheea Gaddafi), cea mai mare moschee din Uganda cu un minaret înalt.",
-                  "category": "landmark",
-                  "coords": [
-                        32.568564,
-                        0.3156
-                  ]
-            },
-            {
                   "name": "Parliament of the Kingdom of Bugunda",
                   "text": "Parlamentul Regatului Buganda din Rubaga, sediul legislativului Buganda.",
                   "category": "landmark",
@@ -2984,72 +2638,9 @@ export const poiExtraUgandaCitiesV2: POI[] = [
                         32.558253,
                         0.309759
                   ]
-            },
-            {
-                  "name": "Prison under Idi Amin",
-                  "text": "Un sit de interes istoric și o atracție în Rubaga.",
-                  "category": "landmark",
-                  "coords": [
-                        32.564481,
-                        0.300056
-                  ]
-            },
-            {
-                  "name": "Namirembe Cathedral",
-                  "text": "O catedrală binecunoscută care servește drept lăcaș de cult major în Rubaga.",
-                  "category": "religious",
-                  "coords": [
-                        32.559445,
-                        0.314887
-                  ]
-            },
-            {
-                  "name": "Miracle Center Cathedral",
-                  "text": "Miracle Center Cathedral din Rubaga (Kampala) este o mare biserică penticostală.",
-                  "category": "religious",
-                  "coords": [
-                        32.560722,
-                        0.302761
-                  ]
-            },
-            {
-                  "name": "Rubaga Cathedral",
-                  "text": "Rubaga Cathedral din Rubaga (Kampala) este catedrala catolică principală pe dealul Rubaga.",
-                  "category": "religious",
-                  "coords": [
-                        32.552084,
-                        0.302504
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Royal Theatre",
-                  "text": "Royal Theatre in Rubaga, a historic theatre for Buganda kingdom cultural performances.",
-                  "category": "cultural",
-                  "coords": [
-                        32.570299,
-                        0.314792
-                  ]
-            },
-            {
-                  "name": "Playwright play house",
-                  "text": "Playwright Play House in Rubaga, a cultural venue for Ugandan theatre.",
-                  "category": "cultural",
-                  "coords": [
-                        32.555947,
-                        0.315522
-                  ]
-            },
-            {
-                  "name": "Kasubi Royal Tombs",
-                  "text": "Kasubi Royal Tombs in Rubaga, burial site of Buganda kings (UNESCO World Heritage).",
-                  "category": "museum",
-                  "coords": [
-                        32.555088,
-                        0.328265
-                  ]
-            },
             {
                   "name": "Buganda Kingdom museum",
                   "text": "Buganda Kingdom Museum in Rubaga, displaying artifacts of the Buganda kingdom.",
@@ -3060,75 +2651,12 @@ export const poiExtraUgandaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Busses to Kigali",
-                  "text": "Buses to Kigali, the bus terminal in Rubaga for routes to Rwanda's capital.",
-                  "category": "landmark",
-                  "coords": [
-                        32.566554,
-                        0.31408
-                  ]
-            },
-            {
-                  "name": "Katwe market",
-                  "text": "Katwe Market in Rubaga, a bustling local market for fresh produce and crafts.",
-                  "category": "landmark",
-                  "coords": [
-                        32.575054,
-                        0.301565
-                  ]
-            },
-            {
-                  "name": "Uganda National Mosque",
-                  "text": "Uganda National Mosque in Rubaga (Gaddafi Mosque), the largest mosque in Uganda with a tall minaret.",
-                  "category": "landmark",
-                  "coords": [
-                        32.568564,
-                        0.3156
-                  ]
-            },
-            {
                   "name": "Parliament of the Kingdom of Bugunda",
                   "text": "Parliament of the Kingdom of Buganda in Rubaga, seat of Buganda's legislative body.",
                   "category": "landmark",
                   "coords": [
                         32.558253,
                         0.309759
-                  ]
-            },
-            {
-                  "name": "Prison under Idi Amin",
-                  "text": "A site of historical interest and attraction in Rubaga.",
-                  "category": "landmark",
-                  "coords": [
-                        32.564481,
-                        0.300056
-                  ]
-            },
-            {
-                  "name": "Namirembe Cathedral",
-                  "text": "A well-known cathedral serving as a major place of worship in Rubaga.",
-                  "category": "religious",
-                  "coords": [
-                        32.559445,
-                        0.314887
-                  ]
-            },
-            {
-                  "name": "Miracle Center Cathedral",
-                  "text": "Miracle Center Cathedral in Rubaga (Kampala) is a large Pentecostal church.",
-                  "category": "religious",
-                  "coords": [
-                        32.560722,
-                        0.302761
-                  ]
-            },
-            {
-                  "name": "Rubaga Cathedral",
-                  "text": "Rubaga Cathedral in Rubaga (Kampala) is the main Catholic cathedral on Rubaga Hill.",
-                  "category": "religious",
-                  "coords": [
-                        32.552084,
-                        0.302504
                   ]
             }
       ]
@@ -3174,50 +2702,10 @@ export const poiExtraUgandaCitiesV2: POI[] = [
   },
   {
     id: "kawempe-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Mutesa Hill",
-                  "text": "Das Denkmal auf dem Mutesa Hill steht auf einer Anhöhe und überblickt kawempe-cities-v2.",
-                  "category": "historical",
-                  "coords": [
-                        32.548486,
-                        0.368619
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Mutesa Hill",
-                  "text": "A Mutesa Hill emlékműve egy magaslaton áll, és kawempe-cities-v2 felé magasodik.",
-                  "category": "historical",
-                  "coords": [
-                        32.548486,
-                        0.368619
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Mutesa Hill",
-                  "text": "Monumentul Mutesa Hill este așezat pe o colină ce domină regiunea kawempe-cities-v2.",
-                  "category": "historical",
-                  "coords": [
-                        32.548486,
-                        0.368619
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Mutesa Hill",
-                  "text": "The Mutesa Hill monument stands on elevated ground overlooking the bustling kawempe-cities-v2.",
-                  "category": "historical",
-                  "coords": [
-                        32.548486,
-                        0.368619
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "UG-102",
@@ -3280,24 +2768,6 @@ export const poiExtraUgandaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Afriart on 7th",
-                  "text": "Afriart on 7th in Nakawa ist eine herausragende Galerie für zeitgenössische Kunst in Uganda. Das Museum legt seinen Schwerpunkt darauf, ausdrucksstarke afrikanische Kunstwerke einem breiten Publikum zugänglich zu machen.",
-                  "category": "museum",
-                  "coords": [
-                        32.609159,
-                        0.313506
-                  ]
-            },
-            {
-                  "name": "Kololo Hill",
-                  "text": "Kololo Hill in Nakawa (Kampala) ist ein Hügel mit Blick über die Stadt.",
-                  "category": "natural",
-                  "coords": [
-                        32.593011,
-                        0.334011
-                  ]
-            },
-            {
                   "name": "Lugogo Show Grounds",
                   "text": "Lugogo Show Grounds in Nakawa, ein Veranstaltungsort für Landwirtschaftsausstellungen und kulturelle Events.",
                   "category": "cultural",
@@ -3333,24 +2803,6 @@ export const poiExtraUgandaCitiesV2: POI[] = [
                   "coords": [
                         32.605012,
                         0.346895
-                  ]
-            },
-            {
-                  "name": "Afriart on 7th",
-                  "text": "A nakawai Afriart on 7th egy kiemelkedő kortárs művészeti galéria Ugandában. A múzeum fő célja, hogy kifejező afrikai művészeti alkotásokat mutasson be a nagyközönség számára.",
-                  "category": "museum",
-                  "coords": [
-                        32.609159,
-                        0.313506
-                  ]
-            },
-            {
-                  "name": "Kololo Hill",
-                  "text": "A Kololo Hill Nakawában (Kampala) egy domb, ahonnan kilátás nyílik a városra.",
-                  "category": "natural",
-                  "coords": [
-                        32.593011,
-                        0.334011
                   ]
             },
             {
@@ -3392,24 +2844,6 @@ export const poiExtraUgandaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Afriart on 7th",
-                  "text": "Afriart on 7th din Nakawa este o galerie de artă contemporană remarcabilă din Uganda. Acest muzeu se concentrează pe prezentarea și promovarea lucrărilor de artă africană expresivă.",
-                  "category": "museum",
-                  "coords": [
-                        32.609159,
-                        0.313506
-                  ]
-            },
-            {
-                  "name": "Kololo Hill",
-                  "text": "Kololo Hill din Nakawa (Kampala) este un deal cu vedere asupra orașului.",
-                  "category": "natural",
-                  "coords": [
-                        32.593011,
-                        0.334011
-                  ]
-            },
-            {
                   "name": "Lugogo Show Grounds",
                   "text": "Lugogo Show Grounds din Nakawa, un loc pentru expoziții agricole și evenimente culturale.",
                   "category": "cultural",
@@ -3445,24 +2879,6 @@ export const poiExtraUgandaCitiesV2: POI[] = [
                   "coords": [
                         32.605012,
                         0.346895
-                  ]
-            },
-            {
-                  "name": "Afriart on 7th",
-                  "text": "Afriart on 7th in Nakawa is an outstanding contemporary art gallery in Uganda. This museum focuses heavily on showcasing expressive African artwork to a wider audience.",
-                  "category": "museum",
-                  "coords": [
-                        32.609159,
-                        0.313506
-                  ]
-            },
-            {
-                  "name": "Kololo Hill",
-                  "text": "Kololo Hill in Nakawa (Kampala) is a hill with views over the city.",
-                  "category": "natural",
-                  "coords": [
-                        32.593011,
-                        0.334011
                   ]
             },
             {

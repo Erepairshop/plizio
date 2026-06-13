@@ -917,24 +917,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "ph-quezon-city-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Presidential Car Museum",
-                  "text": "Das Presidential Car Museum ist ein bedeutendes Museum in Quezon City, das historische Fahrzeuge ehemaliger philippinischer Präsidenten ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        121.051205,
-                        14.650295
-                  ]
-            },
-            {
-                  "name": "Quezon City Experience",
-                  "text": "Das Quezon City Experience ist ein interaktives Museum zur Geschichte Quezon Citys.",
-                  "category": "museum",
-                  "coords": [
-                        121.05106,
-                        14.651552
-                  ]
-            },
-            {
                   "name": "Quezon City Memorial Shrine Museum",
                   "text": "Das Quezon City Memorial Shrine Museum befindet sich am Sockel des Quezon Memorial Shrine.",
                   "category": "museum",
@@ -962,15 +944,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "INC Museum and Gallery",
-                  "text": "Ein Museum, das der Iglesia ni Cristo Kirche gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        121.048835,
-                        14.66289
-                  ]
-            },
-            {
                   "name": "Amphitheater",
                   "text": "Ein Open-Air-Amphitheater für Aufführungen in Quezon City.",
                   "category": "cultural",
@@ -995,60 +968,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.045609,
                         14.683179
-                  ]
-            },
-            {
-                  "name": "Ninoy Aquino Parks & Wildlife Center",
-                  "text": "Das Ninoy Aquino Parks & Wildlife Center ist ein zoologischer und botanischer Garten in Quezon City.",
-                  "category": "park",
-                  "coords": [
-                        121.043849,
-                        14.650614
-                  ]
-            },
-            {
-                  "name": "Fishing village",
-                  "text": "Ein rekonstruiertes Fischerdorf in Quezon City.",
-                  "category": "landmark",
-                  "coords": [
-                        121.042111,
-                        14.650503
-                  ]
-            },
-            {
-                  "name": "Elixer Multi-Purpose Cooperation",
-                  "text": "Ein Mehrzweck-Genossenschaftsgebäude in Quezon City.",
-                  "category": "landmark",
-                  "coords": [
-                        121.033478,
-                        14.660667
-                  ]
-            },
-            {
-                  "name": "SM City North EDSA",
-                  "text": "Ein großes Einkaufszentrum an der EDSA in Quezon City.",
-                  "category": "landmark",
-                  "coords": [
-                        121.029787,
-                        14.656531
-                  ]
-            },
-            {
-                  "name": "Peace Monument",
-                  "text": "Ein Friedensdenkmal im Hauptpark von Quezon City.",
-                  "category": "historical",
-                  "coords": [
-                        121.047407,
-                        14.651886
-                  ]
-            },
-            {
-                  "name": "FYM Monument",
-                  "text": "Ein bronzenes Denkmal zum Gedenken an FYM in Quezon City.",
-                  "category": "historical",
-                  "coords": [
-                        121.063501,
-                        14.662841
                   ]
             },
             {
@@ -1081,24 +1000,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Presidential Car Museum",
-                  "text": "A Presidential Car Museum egy jelentős múzeum Quezon Cityben, amely a korábbi fülöp-szigeteki elnökök történelmi járműveit mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        121.051205,
-                        14.650295
-                  ]
-            },
-            {
-                  "name": "Quezon City Experience",
-                  "text": "A Quezon City Experience egy interaktív múzeum Quezon City történetéről.",
-                  "category": "museum",
-                  "coords": [
-                        121.05106,
-                        14.651552
-                  ]
-            },
-            {
                   "name": "Quezon City Memorial Shrine Museum",
                   "text": "A Quezon City Memorial Shrine Museum a Quezon Memorial Shrine talapzatánál található.",
                   "category": "museum",
@@ -1126,15 +1027,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "INC Museum and Gallery",
-                  "text": "Az Iglesia ni Cristo egyháznak szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        121.048835,
-                        14.66289
-                  ]
-            },
-            {
                   "name": "Amphitheater",
                   "text": "Szabadtéri amfiteátrum előadások számára Quezon Cityben.",
                   "category": "cultural",
@@ -1159,60 +1051,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.045609,
                         14.683179
-                  ]
-            },
-            {
-                  "name": "Ninoy Aquino Parks & Wildlife Center",
-                  "text": "A Ninoy Aquino Parks & Wildlife Center egy zoológiai és botanikus kert Quezon Cityben.",
-                  "category": "park",
-                  "coords": [
-                        121.043849,
-                        14.650614
-                  ]
-            },
-            {
-                  "name": "Fishing village",
-                  "text": "Egy rekonstruált halászfalu Quezon Cityben.",
-                  "category": "landmark",
-                  "coords": [
-                        121.042111,
-                        14.650503
-                  ]
-            },
-            {
-                  "name": "Elixer Multi-Purpose Cooperation",
-                  "text": "Többcélú szövetkezeti épület Quezon Cityben.",
-                  "category": "landmark",
-                  "coords": [
-                        121.033478,
-                        14.660667
-                  ]
-            },
-            {
-                  "name": "SM City North EDSA",
-                  "text": "Nagy bevásárlóközpont az EDSA-n Quezon Cityben.",
-                  "category": "landmark",
-                  "coords": [
-                        121.029787,
-                        14.656531
-                  ]
-            },
-            {
-                  "name": "Peace Monument",
-                  "text": "Béke emlékmű Quezon City fő parkjában.",
-                  "category": "historical",
-                  "coords": [
-                        121.047407,
-                        14.651886
-                  ]
-            },
-            {
-                  "name": "FYM Monument",
-                  "text": "Bronz emlékmű az FYM emlékére Quezon Cityben.",
-                  "category": "historical",
-                  "coords": [
-                        121.063501,
-                        14.662841
                   ]
             },
             {
@@ -1245,24 +1083,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Presidential Car Museum",
-                  "text": "Presidential Car Museum este un muzeu notabil din Quezon City care expune vehicule istorice folosite de foștii președinți filipinezi.",
-                  "category": "museum",
-                  "coords": [
-                        121.051205,
-                        14.650295
-                  ]
-            },
-            {
-                  "name": "Quezon City Experience",
-                  "text": "Quezon City Experience este un muzeu interactiv despre istoria orașului Quezon City.",
-                  "category": "museum",
-                  "coords": [
-                        121.05106,
-                        14.651552
-                  ]
-            },
-            {
                   "name": "Quezon City Memorial Shrine Museum",
                   "text": "Quezon City Memorial Shrine Museum se află la baza Quezon Memorial Shrine.",
                   "category": "museum",
@@ -1290,15 +1110,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "INC Museum and Gallery",
-                  "text": "Un muzeu dedicat bisericii Iglesia ni Cristo.",
-                  "category": "museum",
-                  "coords": [
-                        121.048835,
-                        14.66289
-                  ]
-            },
-            {
                   "name": "Amphitheater",
                   "text": "Un amfiteatru în aer liber pentru spectacole în Quezon City.",
                   "category": "cultural",
@@ -1323,60 +1134,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.045609,
                         14.683179
-                  ]
-            },
-            {
-                  "name": "Ninoy Aquino Parks & Wildlife Center",
-                  "text": "Ninoy Aquino Parks & Wildlife Center este o grădină zoologică și botanică situată în Quezon City.",
-                  "category": "park",
-                  "coords": [
-                        121.043849,
-                        14.650614
-                  ]
-            },
-            {
-                  "name": "Fishing village",
-                  "text": "Un sat pescăresc reconstruit în Quezon City.",
-                  "category": "landmark",
-                  "coords": [
-                        121.042111,
-                        14.650503
-                  ]
-            },
-            {
-                  "name": "Elixer Multi-Purpose Cooperation",
-                  "text": "O clădire cooperatistă multifuncțională în Quezon City.",
-                  "category": "landmark",
-                  "coords": [
-                        121.033478,
-                        14.660667
-                  ]
-            },
-            {
-                  "name": "SM City North EDSA",
-                  "text": "Un mare centru comercial pe EDSA în Quezon City.",
-                  "category": "landmark",
-                  "coords": [
-                        121.029787,
-                        14.656531
-                  ]
-            },
-            {
-                  "name": "Peace Monument",
-                  "text": "Un monument al păcii în parcul principal din Quezon City.",
-                  "category": "historical",
-                  "coords": [
-                        121.047407,
-                        14.651886
-                  ]
-            },
-            {
-                  "name": "FYM Monument",
-                  "text": "Un monument de bronz în memoria FYM în Quezon City.",
-                  "category": "historical",
-                  "coords": [
-                        121.063501,
-                        14.662841
                   ]
             },
             {
@@ -1409,24 +1166,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Presidential Car Museum",
-                  "text": "The Presidential Car Museum is a notable museum in Quezon City displaying historic vehicles used by former Philippine presidents.",
-                  "category": "museum",
-                  "coords": [
-                        121.051205,
-                        14.650295
-                  ]
-            },
-            {
-                  "name": "Quezon City Experience",
-                  "text": "Quezon City Experience is an interactive museum about Quezon City’s history.",
-                  "category": "museum",
-                  "coords": [
-                        121.05106,
-                        14.651552
-                  ]
-            },
-            {
                   "name": "Quezon City Memorial Shrine Museum",
                   "text": "Quezon City Memorial Shrine Museum is located at the base of the Quezon Memorial Shrine.",
                   "category": "museum",
@@ -1454,15 +1193,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "INC Museum and Gallery",
-                  "text": "A museum dedicated to the Iglesia ni Cristo church.",
-                  "category": "museum",
-                  "coords": [
-                        121.048835,
-                        14.66289
-                  ]
-            },
-            {
                   "name": "Amphitheater",
                   "text": "An outdoor amphitheater for performances in Quezon City.",
                   "category": "cultural",
@@ -1487,60 +1217,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.045609,
                         14.683179
-                  ]
-            },
-            {
-                  "name": "Ninoy Aquino Parks & Wildlife Center",
-                  "text": "The Ninoy Aquino Parks & Wildlife Center is a zoological and botanical garden located in Quezon City.",
-                  "category": "park",
-                  "coords": [
-                        121.043849,
-                        14.650614
-                  ]
-            },
-            {
-                  "name": "Fishing village",
-                  "text": "A reconstructed fishing village in Quezon City.",
-                  "category": "landmark",
-                  "coords": [
-                        121.042111,
-                        14.650503
-                  ]
-            },
-            {
-                  "name": "Elixer Multi-Purpose Cooperation",
-                  "text": "A multi-purpose cooperative building in Quezon City.",
-                  "category": "landmark",
-                  "coords": [
-                        121.033478,
-                        14.660667
-                  ]
-            },
-            {
-                  "name": "SM City North Edsa",
-                  "text": "A large shopping mall on EDSA in Quezon City.",
-                  "category": "landmark",
-                  "coords": [
-                        121.029787,
-                        14.656531
-                  ]
-            },
-            {
-                  "name": "Peace Monument",
-                  "text": "A peace monument in Quezon City's main park.",
-                  "category": "historical",
-                  "coords": [
-                        121.047407,
-                        14.651886
-                  ]
-            },
-            {
-                  "name": "FYM Monument",
-                  "text": "A bronze monument commemorating FYM in Quezon City.",
-                  "category": "historical",
-                  "coords": [
-                        121.063501,
-                        14.662841
                   ]
             },
             {
@@ -1725,15 +1401,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jose R. Gullas Halad Museum",
-                  "text": "Ein Museum zu Ehren von Jose R. Gullas in Cebu City.",
-                  "category": "museum",
-                  "coords": [
-                        123.912306,
-                        10.305893
-                  ]
-            },
-            {
                   "name": "Formerly Cinerama",
                   "text": "Ein ehemaliges Kino, das heute als Kulturstätte in Cebu City genutzt wird.",
                   "category": "cultural",
@@ -1797,39 +1464,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sunset Garden",
-                  "text": "Ein Garten mit Blick auf den Sonnenuntergang über Cebu City.",
-                  "category": "cultural",
-                  "coords": [
-                        123.897754,
-                        10.323366
-                  ]
-            },
-            {
                   "name": "Beverly View",
                   "text": "Ein Wohngebiet am Hang mit Panoramablick auf Cebu City.",
                   "category": "natural",
                   "coords": [
                         123.888547,
                         10.338481
-                  ]
-            },
-            {
-                  "name": "Cebu Zoo",
-                  "text": "Ein Zoo in Cebu City mit verschiedenen Tieren.",
-                  "category": "landmark",
-                  "coords": [
-                        123.885038,
-                        10.337494
-                  ]
-            },
-            {
-                  "name": "Guadalupe Cave",
-                  "text": "Eine Kalksteinhöhle in Cebu City.",
-                  "category": "landmark",
-                  "coords": [
-                        123.882777,
-                        10.33354
                   ]
             },
             {
@@ -1907,15 +1547,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jose R. Gullas Halad Museum",
-                  "text": "Jose R. Gullasnak szentelt múzeum Cebu Cityben.",
-                  "category": "museum",
-                  "coords": [
-                        123.912306,
-                        10.305893
-                  ]
-            },
-            {
                   "name": "Formerly Cinerama",
                   "text": "Egykori mozi, amely ma kulturális helyszínként szolgál Cebu Cityben.",
                   "category": "cultural",
@@ -1979,39 +1610,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sunset Garden",
-                  "text": "Kert, ahonnan a naplementét lehet látni Cebu City felett.",
-                  "category": "cultural",
-                  "coords": [
-                        123.897754,
-                        10.323366
-                  ]
-            },
-            {
                   "name": "Beverly View",
                   "text": "Lakónegyed egy domboldalon, panorámás kilátással Cebu Cityre.",
                   "category": "natural",
                   "coords": [
                         123.888547,
                         10.338481
-                  ]
-            },
-            {
-                  "name": "Cebu Zoo",
-                  "text": "Állatkert Cebu Cityben, különféle állatokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        123.885038,
-                        10.337494
-                  ]
-            },
-            {
-                  "name": "Guadalupe Cave",
-                  "text": "Mészkőbarlang Cebu Cityben.",
-                  "category": "landmark",
-                  "coords": [
-                        123.882777,
-                        10.33354
                   ]
             },
             {
@@ -2089,15 +1693,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jose R. Gullas Halad Museum",
-                  "text": "Un muzeu în cinstea lui Jose R. Gullas în Cebu City.",
-                  "category": "museum",
-                  "coords": [
-                        123.912306,
-                        10.305893
-                  ]
-            },
-            {
                   "name": "Formerly Cinerama",
                   "text": "Un fost cinematograf folosit acum ca spațiu cultural în Cebu City.",
                   "category": "cultural",
@@ -2161,39 +1756,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sunset Garden",
-                  "text": "O grădină cu vedere la apusul soarelui peste Cebu City.",
-                  "category": "cultural",
-                  "coords": [
-                        123.897754,
-                        10.323366
-                  ]
-            },
-            {
                   "name": "Beverly View",
                   "text": "O zonă rezidențială pe un deal cu priveliști panoramice asupra Cebu City.",
                   "category": "natural",
                   "coords": [
                         123.888547,
                         10.338481
-                  ]
-            },
-            {
-                  "name": "Cebu Zoo",
-                  "text": "O grădină zoologică în Cebu City care adăpostește diverse animale.",
-                  "category": "landmark",
-                  "coords": [
-                        123.885038,
-                        10.337494
-                  ]
-            },
-            {
-                  "name": "Guadalupe Cave",
-                  "text": "O peșteră de calcar în Cebu City.",
-                  "category": "landmark",
-                  "coords": [
-                        123.882777,
-                        10.33354
                   ]
             },
             {
@@ -2271,15 +1839,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Jose R. Gullas Halad Museum",
-                  "text": "A museum honoring Jose R. Gullas in Cebu City.",
-                  "category": "museum",
-                  "coords": [
-                        123.912306,
-                        10.305893
-                  ]
-            },
-            {
                   "name": "Formerly Cinerama",
                   "text": "A former cinema now used as a cultural venue in Cebu City.",
                   "category": "cultural",
@@ -2343,39 +1902,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sunset Garden",
-                  "text": "A garden with a view of the sunset over Cebu City.",
-                  "category": "cultural",
-                  "coords": [
-                        123.897754,
-                        10.323366
-                  ]
-            },
-            {
                   "name": "Beverly View",
                   "text": "A residential area on a hillside with panoramic views of Cebu City.",
                   "category": "natural",
                   "coords": [
                         123.888547,
                         10.338481
-                  ]
-            },
-            {
-                  "name": "Cebu Zoo",
-                  "text": "A zoo in Cebu City housing various animals.",
-                  "category": "landmark",
-                  "coords": [
-                        123.885038,
-                        10.337494
-                  ]
-            },
-            {
-                  "name": "Guadalupe Cave",
-                  "text": "A limestone cave in Cebu City.",
-                  "category": "landmark",
-                  "coords": [
-                        123.882777,
-                        10.33354
                   ]
             },
             {
@@ -2982,24 +2514,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "ph-pasig-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Meralco Theater",
-                  "text": "Das 1969 eröffnete Meralco Theater in Pasig.",
-                  "category": "cultural",
-                  "coords": [
-                        121.0641,
-                        14.590112
-                  ]
-            },
-            {
-                  "name": "Meralco Museum",
-                  "text": "Ein Museum in Pasig, das die Geschichte der Manila Electric Company (Meralco) zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        121.065995,
-                        14.589443
-                  ]
-            },
-            {
                   "name": "Active Fun",
                   "text": "Ein Familienunterhaltungszentrum in Pasig mit Indoor-Spielbereichen.",
                   "category": "family",
@@ -3009,30 +2523,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nationalista Party Museum",
-                  "text": "Ein Museum in Pasig, das der Geschichte der Nacionalista-Partei gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        121.045386,
-                        14.588229
-                  ]
-            },
-            {
                   "name": "Tanghalang Pasigueño",
                   "text": "Ein Kulturzentrum in Pasig mit einem Theater für Aufführungen.",
                   "category": "cultural",
                   "coords": [
                         121.082801,
                         14.558988
-                  ]
-            },
-            {
-                  "name": "Kaban ng Hiyas",
-                  "text": "Ein Museum in Pasig, das als ‚Schatzkammer‘ bekannt ist und kulturelle Artefakte zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        121.03396,
-                        14.578106
                   ]
             },
             {
@@ -3063,51 +2559,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "EDSA Shrine",
-                  "text": "EDSA Shrine ist eine katholische Gedenkstätte an der EDSA in Pasig, die an die People Power Revolution erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        121.058769,
-                        14.592467
-                  ]
-            },
-            {
-                  "name": "Track 30th",
-                  "text": "Track 30th in Pasig ist eine lineare Grünanlage und Joggingstrecke entlang des Pasig-Flusses.",
-                  "category": "park",
-                  "coords": [
-                        121.050912,
-                        14.552153
-                  ]
-            },
-            {
-                  "name": "People Power Monument",
-                  "text": "Das People Power Monument in Pasig erinnert an die People Power Revolution von 1986.",
-                  "category": "historical",
-                  "coords": [
-                        121.060029,
-                        14.600024
-                  ]
-            },
-            {
-                  "name": "Historic Fort Bonifacio Tunnel Entrance (Closed)",
-                  "text": "Der geschlossene Eingang eines historischen Tunnels in Fort Bonifacio, Pasig.",
-                  "category": "historical",
-                  "coords": [
-                        121.058552,
-                        14.550872
-                  ]
-            },
-            {
-                  "name": "Historic Fort Bonifacio Tunnel Outlet (27th Ave)",
-                  "text": "Der Ausgang des historischen Fort Bonifacio Tunnels an der 27th Avenue in Pasig.",
-                  "category": "historical",
-                  "coords": [
-                        121.059591,
-                        14.550695
-                  ]
-            },
-            {
                   "name": "Makati City Boundary Marker",
                   "text": "Ein Grenzmarkierungsstein zwischen Makati und Pasig.",
                   "category": "natural",
@@ -3126,30 +2577,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sky Projection",
-                  "text": "Ein Licht- und Projektionskunstwerk im Freien in Pasig.",
-                  "category": "landmark",
-                  "coords": [
-                        121.048496,
-                        14.553696
-                  ]
-            },
-            {
                   "name": "Kapitolyo Art Space",
                   "text": "Ein Kunstmuseum im Kapitolyo-Viertel von Pasig mit wechselnden Ausstellungen.",
                   "category": "museum",
                   "coords": [
                         121.060488,
                         14.571977
-                  ]
-            },
-            {
-                  "name": "400 busilak st. Barangay barangka drive",
-                  "text": "Ein markantes Gebäude an der 400 Busilak Street, Barangay Barangka Drive in Pasig.",
-                  "category": "landmark",
-                  "coords": [
-                        121.039973,
-                        14.574187
                   ]
             },
             {
@@ -3171,48 +2604,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santuario de San Jose",
-                  "text": "Santuario de San Jose ist eine historische katholische Kirche in Pasig.",
-                  "category": "religious",
-                  "coords": [
-                        121.052963,
-                        14.60016
-                  ]
-            },
-            {
                   "name": "Pasig City Museum",
                   "text": "Pasig City Museum ist im alten Rathaus von Pasig untergebracht.",
                   "category": "landmark",
                   "coords": [
                         121.076284,
                         14.560995
-                  ]
-            },
-            {
-                  "name": "Nuestra Señora de Gracia Parish Church",
-                  "text": "Nuestra Señora de Gracia Parish Church ist eine alte katholische Kirche in Pasig.",
-                  "category": "religious",
-                  "coords": [
-                        121.043249,
-                        14.566169
-                  ]
-            },
-            {
-                  "name": "Estrella-Pantaleon Bridge",
-                  "text": "Die Estrella-Pantaleon-Brücke verbindet in Pasig das Stadtgebiet.",
-                  "category": "landmark",
-                  "coords": [
-                        121.03766,
-                        14.566831
-                  ]
-            },
-            {
-                  "name": "Saint Michael Center for Spiritual Liberation and Exorcism",
-                  "text": "Saint Michael Center for Spiritual Liberation and Exorcism ist ein katholisches Exorzismus-Zentrum in Pasig.",
-                  "category": "religious",
-                  "coords": [
-                        121.044745,
-                        14.565781
                   ]
             },
             {
@@ -3227,24 +2624,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Meralco Theater",
-                  "text": "A pasigi Meralco Színház, 1969-ben nyílt meg.",
-                  "category": "cultural",
-                  "coords": [
-                        121.0641,
-                        14.590112
-                  ]
-            },
-            {
-                  "name": "Meralco Museum",
-                  "text": "Múzeum Pasigban, amely a Manila Electric Company (Meralco) történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        121.065995,
-                        14.589443
-                  ]
-            },
-            {
                   "name": "Active Fun",
                   "text": "Családi szórakoztató központ Pasigban, fedett játszóterekkel.",
                   "category": "family",
@@ -3254,30 +2633,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nationalista Party Museum",
-                  "text": "Múzeum Pasigban, amely a Nacionalista Párt történetének szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        121.045386,
-                        14.588229
-                  ]
-            },
-            {
                   "name": "Tanghalang Pasigueño",
                   "text": "Kulturális központ Pasigban, egy előadásokra szolgáló színházzal.",
                   "category": "cultural",
                   "coords": [
                         121.082801,
                         14.558988
-                  ]
-            },
-            {
-                  "name": "Kaban ng Hiyas",
-                  "text": "Múzeum Pasigban, amely 'Kincseskamra' néven ismert és kulturális tárgyakat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        121.03396,
-                        14.578106
                   ]
             },
             {
@@ -3308,51 +2669,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "EDSA Shrine",
-                  "text": "EDSA Shrine egy katolikus emlékhely az EDSA-n Pasigban, amely a People Power forradalomra emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        121.058769,
-                        14.592467
-                  ]
-            },
-            {
-                  "name": "Track 30th",
-                  "text": "A Track 30th Pasigban egy lineáris park és futópálya a Pasig folyó mentén.",
-                  "category": "park",
-                  "coords": [
-                        121.050912,
-                        14.552153
-                  ]
-            },
-            {
-                  "name": "People Power Monument",
-                  "text": "A People Power Monument Pasigban az 1986-os People Power forradalomra emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        121.060029,
-                        14.600024
-                  ]
-            },
-            {
-                  "name": "Historic Fort Bonifacio Tunnel Entrance (Closed)",
-                  "text": "A Fort Bonifacio történelmi alagútjának lezárt bejárata Pasigban.",
-                  "category": "historical",
-                  "coords": [
-                        121.058552,
-                        14.550872
-                  ]
-            },
-            {
-                  "name": "Historic Fort Bonifacio Tunnel Outlet (27th Ave)",
-                  "text": "A Fort Bonifacio történelmi alagútjának kijárata a 27th Avenue-n, Pasigban.",
-                  "category": "historical",
-                  "coords": [
-                        121.059591,
-                        14.550695
-                  ]
-            },
-            {
                   "name": "Makati City Boundary Marker",
                   "text": "Határjelző kő Makati és Pasig között.",
                   "category": "natural",
@@ -3371,30 +2687,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sky Projection",
-                  "text": "Kültéri fény- és vetítési műalkotás Pasigban.",
-                  "category": "landmark",
-                  "coords": [
-                        121.048496,
-                        14.553696
-                  ]
-            },
-            {
                   "name": "Kapitolyo Art Space",
                   "text": "Művészeti múzeum Pasig Kapitolyo negyedében, időszakos kiállításokkal.",
                   "category": "museum",
                   "coords": [
                         121.060488,
                         14.571977
-                  ]
-            },
-            {
-                  "name": "400 busilak st. Barangay barangka drive",
-                  "text": "Egy jellegzetes épület a 400 Busilak utcában, Barangay Barangka Drive, Pasig.",
-                  "category": "landmark",
-                  "coords": [
-                        121.039973,
-                        14.574187
                   ]
             },
             {
@@ -3416,48 +2714,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santuario de San Jose",
-                  "text": "Santuario de San Jose egy történelmi katolikus templom Pasigban.",
-                  "category": "religious",
-                  "coords": [
-                        121.052963,
-                        14.60016
-                  ]
-            },
-            {
                   "name": "Pasig City Museum",
                   "text": "Pasig City Museum a régi pasigi városházában kapott helyet.",
                   "category": "landmark",
                   "coords": [
                         121.076284,
                         14.560995
-                  ]
-            },
-            {
-                  "name": "Nuestra Señora de Gracia Parish Church",
-                  "text": "Nuestra Señora de Gracia Parish Church egy régi katolikus templom Pasigban.",
-                  "category": "religious",
-                  "coords": [
-                        121.043249,
-                        14.566169
-                  ]
-            },
-            {
-                  "name": "Estrella-Pantaleon Bridge",
-                  "text": "Az Estrella-Pantaleon híd Pasig városát köti össze.",
-                  "category": "landmark",
-                  "coords": [
-                        121.03766,
-                        14.566831
-                  ]
-            },
-            {
-                  "name": "Saint Michael Center for Spiritual Liberation and Exorcism",
-                  "text": "Saint Michael Center for Spiritual Liberation and Exorcism egy katolikus ördögűző központ Pasigban.",
-                  "category": "religious",
-                  "coords": [
-                        121.044745,
-                        14.565781
                   ]
             },
             {
@@ -3472,24 +2734,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Meralco Theater",
-                  "text": "Teatrul Meralco din Pasig, inaugurat în 1969.",
-                  "category": "cultural",
-                  "coords": [
-                        121.0641,
-                        14.590112
-                  ]
-            },
-            {
-                  "name": "Meralco Museum",
-                  "text": "Un muzeu în Pasig care prezintă istoria companiei Manila Electric (Meralco).",
-                  "category": "museum",
-                  "coords": [
-                        121.065995,
-                        14.589443
-                  ]
-            },
-            {
                   "name": "Active Fun",
                   "text": "Un centru de divertisment familial în Pasig, cu zone de joacă interioare.",
                   "category": "family",
@@ -3499,30 +2743,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nationalista Party Museum",
-                  "text": "Un muzeu în Pasig dedicat istoriei Partidului Nacionalista.",
-                  "category": "museum",
-                  "coords": [
-                        121.045386,
-                        14.588229
-                  ]
-            },
-            {
                   "name": "Tanghalang Pasigueño",
                   "text": "Un centru cultural în Pasig, cu un teatru pentru spectacole.",
                   "category": "cultural",
                   "coords": [
                         121.082801,
                         14.558988
-                  ]
-            },
-            {
-                  "name": "Kaban ng Hiyas",
-                  "text": "Un muzeu în Pasig cunoscut drept 'Camera de Tezaur', care expune artefacte culturale.",
-                  "category": "museum",
-                  "coords": [
-                        121.03396,
-                        14.578106
                   ]
             },
             {
@@ -3553,51 +2779,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "EDSA Shrine",
-                  "text": "EDSA Shrine este un sanctuar catolic pe bulevardul EDSA din Pasig, care comemorează Revoluția People Power.",
-                  "category": "historical",
-                  "coords": [
-                        121.058769,
-                        14.592467
-                  ]
-            },
-            {
-                  "name": "Track 30th",
-                  "text": "Track 30th din Pasig este un parc liniar și pistă de alergare de-a lungul râului Pasig.",
-                  "category": "park",
-                  "coords": [
-                        121.050912,
-                        14.552153
-                  ]
-            },
-            {
-                  "name": "People Power Monument",
-                  "text": "Monumentul People Power din Pasig comemorează Revoluția People Power din 1986.",
-                  "category": "historical",
-                  "coords": [
-                        121.060029,
-                        14.600024
-                  ]
-            },
-            {
-                  "name": "Historic Fort Bonifacio Tunnel Entrance (Closed)",
-                  "text": "Intrarea închisă a unui tunel istoric din Fort Bonifacio, Pasig.",
-                  "category": "historical",
-                  "coords": [
-                        121.058552,
-                        14.550872
-                  ]
-            },
-            {
-                  "name": "Historic Fort Bonifacio Tunnel Outlet (27th Ave)",
-                  "text": "Ieșirea tunelului istoric Fort Bonifacio pe 27th Avenue, Pasig.",
-                  "category": "historical",
-                  "coords": [
-                        121.059591,
-                        14.550695
-                  ]
-            },
-            {
                   "name": "Makati City Boundary Marker",
                   "text": "Un marcator de frontieră între Makati și Pasig.",
                   "category": "natural",
@@ -3616,30 +2797,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sky Projection",
-                  "text": "O operă de artă cu proiecții luminoase în aer liber în Pasig.",
-                  "category": "landmark",
-                  "coords": [
-                        121.048496,
-                        14.553696
-                  ]
-            },
-            {
                   "name": "Kapitolyo Art Space",
                   "text": "Un muzeu de artă în cartierul Kapitolyo din Pasig, cu expoziții temporare.",
                   "category": "museum",
                   "coords": [
                         121.060488,
                         14.571977
-                  ]
-            },
-            {
-                  "name": "400 busilak st. Barangay barangka drive",
-                  "text": "O clădire emblematică pe strada 400 Busilak, Barangay Barangka Drive, Pasig.",
-                  "category": "landmark",
-                  "coords": [
-                        121.039973,
-                        14.574187
                   ]
             },
             {
@@ -3661,48 +2824,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santuario de San Jose",
-                  "text": "Santuario de San Jose este o biserică catolică istorică în Pasig.",
-                  "category": "religious",
-                  "coords": [
-                        121.052963,
-                        14.60016
-                  ]
-            },
-            {
                   "name": "Pasig City Museum",
                   "text": "Pasig City Museum este găzduit în vechea primărie a orașului Pasig.",
                   "category": "landmark",
                   "coords": [
                         121.076284,
                         14.560995
-                  ]
-            },
-            {
-                  "name": "Nuestra Señora de Gracia Parish Church",
-                  "text": "Nuestra Señora de Gracia Parish Church este o veche biserică catolică în Pasig.",
-                  "category": "religious",
-                  "coords": [
-                        121.043249,
-                        14.566169
-                  ]
-            },
-            {
-                  "name": "Estrella-Pantaleon Bridge",
-                  "text": "Podul Estrella-Pantaleon conectează zone ale orașului Pasig.",
-                  "category": "landmark",
-                  "coords": [
-                        121.03766,
-                        14.566831
-                  ]
-            },
-            {
-                  "name": "Saint Michael Center for Spiritual Liberation and Exorcism",
-                  "text": "Saint Michael Center for Spiritual Liberation and Exorcism este un centru catolic de exorcism în Pasig.",
-                  "category": "religious",
-                  "coords": [
-                        121.044745,
-                        14.565781
                   ]
             },
             {
@@ -3717,24 +2844,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Meralco Theater",
-                  "text": "Meralco Theater in Pasig, opened in 1969.",
-                  "category": "cultural",
-                  "coords": [
-                        121.0641,
-                        14.590112
-                  ]
-            },
-            {
-                  "name": "Meralco Museum",
-                  "text": "A museum in Pasig showcasing the history of the Manila Electric Company (Meralco).",
-                  "category": "museum",
-                  "coords": [
-                        121.065995,
-                        14.589443
-                  ]
-            },
-            {
                   "name": "Active Fun",
                   "text": "A family entertainment center in Pasig with indoor play areas.",
                   "category": "family",
@@ -3744,30 +2853,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nationalista Party Museum",
-                  "text": "A museum in Pasig dedicated to the history of the Nacionalista Party.",
-                  "category": "museum",
-                  "coords": [
-                        121.045386,
-                        14.588229
-                  ]
-            },
-            {
                   "name": "Tanghalang Pasigueño",
                   "text": "A cultural venue in Pasig featuring a theater for performances.",
                   "category": "cultural",
                   "coords": [
                         121.082801,
                         14.558988
-                  ]
-            },
-            {
-                  "name": "Kaban ng Hiyas",
-                  "text": "A museum in Pasig known as the 'Treasure Chamber', displaying cultural artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        121.03396,
-                        14.578106
                   ]
             },
             {
@@ -3798,51 +2889,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "EDSA Shrine",
-                  "text": "EDSA Shrine is a Catholic shrine on EDSA in Pasig commemorating the People Power Revolution.",
-                  "category": "historical",
-                  "coords": [
-                        121.058769,
-                        14.592467
-                  ]
-            },
-            {
-                  "name": "Track 30th",
-                  "text": "Track 30th in Pasig, a linear park and jogging path along the Pasig River.",
-                  "category": "park",
-                  "coords": [
-                        121.050912,
-                        14.552153
-                  ]
-            },
-            {
-                  "name": "People Power Monument",
-                  "text": "The People Power Monument in Pasig commemorates the 1986 People Power Revolution.",
-                  "category": "historical",
-                  "coords": [
-                        121.060029,
-                        14.600024
-                  ]
-            },
-            {
-                  "name": "Historic Fort Bonifacio Tunnel Entrance (Closed)",
-                  "text": "The closed entrance of a historic tunnel in Fort Bonifacio, Pasig.",
-                  "category": "historical",
-                  "coords": [
-                        121.058552,
-                        14.550872
-                  ]
-            },
-            {
-                  "name": "Historic Fort Bonifacio Tunnel Outlet (27th Ave)",
-                  "text": "The outlet of the historic Fort Bonifacio Tunnel on 27th Avenue in Pasig.",
-                  "category": "historical",
-                  "coords": [
-                        121.059591,
-                        14.550695
-                  ]
-            },
-            {
                   "name": "Makati City Boundary Marker",
                   "text": "A boundary marker between Makati and Pasig.",
                   "category": "natural",
@@ -3861,30 +2907,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sky Projection",
-                  "text": "An outdoor light and projection art installation in Pasig.",
-                  "category": "landmark",
-                  "coords": [
-                        121.048496,
-                        14.553696
-                  ]
-            },
-            {
                   "name": "Kapitolyo Art Space",
                   "text": "An art museum in the Kapitolyo district of Pasig with rotating exhibitions.",
                   "category": "museum",
                   "coords": [
                         121.060488,
                         14.571977
-                  ]
-            },
-            {
-                  "name": "400 busilak st. Barangay barangka drive",
-                  "text": "A notable building at 400 Busilak Street, Barangay Barangka Drive in Pasig.",
-                  "category": "landmark",
-                  "coords": [
-                        121.039973,
-                        14.574187
                   ]
             },
             {
@@ -3906,48 +2934,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santuario de San Jose",
-                  "text": "Santuario de San Jose is a historic Catholic church in Pasig.",
-                  "category": "religious",
-                  "coords": [
-                        121.052963,
-                        14.60016
-                  ]
-            },
-            {
                   "name": "Pasig City Museum",
                   "text": "Pasig City Museum is housed in the old Pasig City Hall.",
                   "category": "landmark",
                   "coords": [
                         121.076284,
                         14.560995
-                  ]
-            },
-            {
-                  "name": "Nuestra Señora de Gracia Parish Church",
-                  "text": "Nuestra Señora de Gracia Parish Church is an old Catholic church in Pasig.",
-                  "category": "religious",
-                  "coords": [
-                        121.043249,
-                        14.566169
-                  ]
-            },
-            {
-                  "name": "Estrella-Pantaleon Bridge",
-                  "text": "The Estrella-Pantaleon Bridge connects parts of Pasig city.",
-                  "category": "landmark",
-                  "coords": [
-                        121.03766,
-                        14.566831
-                  ]
-            },
-            {
-                  "name": "Saint Michael Center for Spiritual Liberation and Exorcism",
-                  "text": "Saint Michael Center for Spiritual Liberation and Exorcism is a Catholic exorcism center in Pasig.",
-                  "category": "religious",
-                  "coords": [
-                        121.044745,
-                        14.565781
                   ]
             },
             {
@@ -4007,15 +2999,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "ph-taguig-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Philippine Army Museum",
-                  "text": "Ein Museum in Taguig, das die Geschichte der philippinischen Armee zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        121.045159,
-                        14.533242
-                  ]
-            },
-            {
                   "name": "Villa Monica",
                   "text": "Ein familienfreundlicher Resort-Komplex in Taguig mit Pool und Veranstaltungsräumen.",
                   "category": "family",
@@ -4034,30 +3017,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "New Visitor Center",
-                  "text": "Ein neues Besucherzentrum in Taguig mit Ausstellungen zur lokalen Geschichte.",
-                  "category": "museum",
-                  "coords": [
-                        121.050607,
-                        14.539647
-                  ]
-            },
-            {
                   "name": "Plaza Quezon",
                   "text": "Inmitten des städtischen Gefüges von Taguig bietet dieser Park eine willkommene grüne Oase. Eine entspannte, familienfreundliche Stimmung macht die Anlage zu einem beliebten Rückzugsort. Man kann hier entspannte Spaziergänge auf den Wegen unternehmen oder sich im Schatten der Bäume erholen. Für einen ruhigen Aufenthalt eignen sich die frühen Morgenstunden am besten.",
                   "category": "park",
                   "coords": [
                         121.074556,
                         14.527091
-                  ]
-            },
-            {
-                  "name": "BGC",
-                  "text": "Bonifacio Global City, ein modernes Geschäfts- und Wohnviertel in Taguig.",
-                  "category": "landmark",
-                  "coords": [
-                        121.045997,
-                        14.545398
                   ]
             },
             {
@@ -4081,15 +3046,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Philippine Army Museum",
-                  "text": "Múzeum Taguigban, amely a Fülöp-szigeteki hadsereg történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        121.045159,
-                        14.533242
-                  ]
-            },
-            {
                   "name": "Villa Monica",
                   "text": "Családbarát üdülőkomplexum Taguigban, medencével és rendezvénytermekkel.",
                   "category": "family",
@@ -4108,30 +3064,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "New Visitor Center",
-                  "text": "Új látogatóközpont Taguigban, a helyi történelem kiállításaival.",
-                  "category": "museum",
-                  "coords": [
-                        121.050607,
-                        14.539647
-                  ]
-            },
-            {
                   "name": "Plaza Quezon",
                   "text": "Taguig városi szövetének közepén ez a park egy szívesen látott zöld oázist kínál. A nyugodt, családbarát hangulat népszerű menedékhellyé teszi a területet. Itt pihentető sétákat tehetünk az ösvényeken, vagy kikapcsolódhatunk a fák árnyékában. Egy csendes tartózkodáshoz a kora reggeli órák a legmegfelelőbbek.",
                   "category": "park",
                   "coords": [
                         121.074556,
                         14.527091
-                  ]
-            },
-            {
-                  "name": "BGC",
-                  "text": "Bonifacio Global City, modern üzleti és lakónegyed Taguigban.",
-                  "category": "landmark",
-                  "coords": [
-                        121.045997,
-                        14.545398
                   ]
             },
             {
@@ -4155,15 +3093,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Philippine Army Museum",
-                  "text": "Un muzeu în Taguig care prezintă istoria Armatei Filipineze.",
-                  "category": "museum",
-                  "coords": [
-                        121.045159,
-                        14.533242
-                  ]
-            },
-            {
                   "name": "Villa Monica",
                   "text": "Un complex de tip resort familial în Taguig, cu piscină și săli de evenimente.",
                   "category": "family",
@@ -4182,30 +3111,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "New Visitor Center",
-                  "text": "Un nou centru de vizitare în Taguig, cu exponate despre istoria locală.",
-                  "category": "museum",
-                  "coords": [
-                        121.050607,
-                        14.539647
-                  ]
-            },
-            {
                   "name": "Plaza Quezon",
                   "text": "În mijlocul peisajului urban din Taguig, acest parc oferă o oază verde binevenită. O atmosferă relaxată, prietenoasă cu familiile, face ca zona să fie un refugiu popular. Vă puteți bucura de plimbări relaxante pe alei sau vă puteți odihni la umbra copacilor. Pentru o ședere liniștită, orele dimineții devreme sunt cele mai potrivite.",
                   "category": "park",
                   "coords": [
                         121.074556,
                         14.527091
-                  ]
-            },
-            {
-                  "name": "BGC",
-                  "text": "Bonifacio Global City, un cartier modern de afaceri și rezidențial în Taguig.",
-                  "category": "landmark",
-                  "coords": [
-                        121.045997,
-                        14.545398
                   ]
             },
             {
@@ -4229,15 +3140,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Philippine Army Museum",
-                  "text": "A museum in Taguig showcasing the history of the Philippine Army.",
-                  "category": "museum",
-                  "coords": [
-                        121.045159,
-                        14.533242
-                  ]
-            },
-            {
                   "name": "Villa Monica",
                   "text": "A family-friendly resort complex in Taguig with a pool and event spaces.",
                   "category": "family",
@@ -4256,30 +3158,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "New Visitor Center",
-                  "text": "A new visitor center in Taguig with exhibits on local history.",
-                  "category": "museum",
-                  "coords": [
-                        121.050607,
-                        14.539647
-                  ]
-            },
-            {
                   "name": "Plaza Quezon",
                   "text": "Amidst the urban landscape of Taguig, this park offers a welcome green oasis. A relaxed, family-friendly atmosphere makes the grounds a popular retreat. Guests can enjoy soothing walks along the pathways or take a break in the shade of the trees. For a quiet stay, the early morning hours are the most suitable time to visit.",
                   "category": "park",
                   "coords": [
                         121.074556,
                         14.527091
-                  ]
-            },
-            {
-                  "name": "BGC",
-                  "text": "Bonifacio Global City, a modern business and residential district in Taguig.",
-                  "category": "landmark",
-                  "coords": [
-                        121.045997,
-                        14.545398
                   ]
             },
             {
@@ -6242,15 +5126,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                         120.969633,
                         14.691415
                   ]
-            },
-            {
-                  "name": "Polyman Manufacturing Corporation",
-                  "text": "Ein Fabrikgebäude in Valenzuela, Sitz der Polyman Manufacturing Corporation.",
-                  "category": "landmark",
-                  "coords": [
-                        120.95856,
-                        14.687906
-                  ]
             }
       ],
       "hu": [
@@ -6261,15 +5136,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.969633,
                         14.691415
-                  ]
-            },
-            {
-                  "name": "Polyman Manufacturing Corporation",
-                  "text": "Gyárépület Valenzuelában, a Polyman Manufacturing Corporation székhelye.",
-                  "category": "landmark",
-                  "coords": [
-                        120.95856,
-                        14.687906
                   ]
             }
       ],
@@ -6282,15 +5148,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                         120.969633,
                         14.691415
                   ]
-            },
-            {
-                  "name": "Polyman Manufacturing Corporation",
-                  "text": "O clădire de fabrică în Valenzuela, sediul Polyman Manufacturing Corporation.",
-                  "category": "landmark",
-                  "coords": [
-                        120.95856,
-                        14.687906
-                  ]
             }
       ],
       "en": [
@@ -6301,15 +5158,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.969633,
                         14.691415
-                  ]
-            },
-            {
-                  "name": "Polyman Manufacturing Corporation",
-                  "text": "A factory building in Valenzuela, the headquarters of Polyman Manufacturing Corporation.",
-                  "category": "landmark",
-                  "coords": [
-                        120.95856,
-                        14.687906
                   ]
             }
       ]
@@ -6360,30 +5208,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "ph-bacoor-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Battle of Zapote River",
-                  "text": "Das Battle of Zapote River Monument erinnert an ein historisches Ereignis in Bacoor.",
-                  "category": "historical",
-                  "coords": [
-                        120.966555,
-                        14.464045
-                  ]
-            },
-            {
                   "name": "Plaza de Padre Mariano A. Gomez",
                   "text": "Als zentraler Anlaufpunkt in Bacoor ist dieser öffentliche Park ein Stück gelebte Gemeinschaft. Eine freundliche, von lokalen Begegnungen geprägte Atmosphäre zeichnet diesen Ort aus. Spaziergänger können die befestigten Wege erkunden und sich auf den Sitzgelegenheiten ausruhen. Ein Besuch am späten Nachmittag ist ideal, um die kühleren Temperaturen zu nutzen.",
                   "category": "park",
                   "coords": [
                         120.940155,
                         14.459591
-                  ]
-            },
-            {
-                  "name": "Battle of Binakayan Monument",
-                  "text": "Ein Denkmal in Bacoor zur Erinnerung an die Schlacht von Binakayan während der philippinischen Revolution.",
-                  "category": "historical",
-                  "coords": [
-                        120.922379,
-                        14.458943
                   ]
             },
             {
@@ -6416,30 +5246,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Battle of Zapote River",
-                  "text": "A Battle of Zapote River emlékmű egy történelmi csatának állít emléket Bacoorban.",
-                  "category": "historical",
-                  "coords": [
-                        120.966555,
-                        14.464045
-                  ]
-            },
-            {
                   "name": "Plaza de Padre Mariano A. Gomez",
                   "text": "Bacoor központi találkozóhelyeként ez a nyilvános park az élő közösség egy darabkája. Barátságos, helyi találkozások jellemezte atmoszféra teszi különlegessé ezt a helyet. A sétálók felfedezhetik a burkolt ösvényeket, és megpihenhetnek az ülőhelyeken. Egy késő délutáni látogatás ideális a hűvösebb hőmérséklet kihasználásához.",
                   "category": "park",
                   "coords": [
                         120.940155,
                         14.459591
-                  ]
-            },
-            {
-                  "name": "Battle of Binakayan Monument",
-                  "text": "Emlékmű Bacoorban a binakayani csata emlékére a filippínó forradalom idején.",
-                  "category": "historical",
-                  "coords": [
-                        120.922379,
-                        14.458943
                   ]
             },
             {
@@ -6472,30 +5284,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Battle of Zapote River",
-                  "text": "Monumentul Bătăliei de pe râul Zapote amintește de un eveniment istoric în Bacoor.",
-                  "category": "historical",
-                  "coords": [
-                        120.966555,
-                        14.464045
-                  ]
-            },
-            {
                   "name": "Plaza de Padre Mariano A. Gomez",
                   "text": "Ca punct central de întâlnire în Bacoor, acest parc public este un loc viu al comunității. O atmosferă prietenoasă, modelată de întâlnirile locale, caracterizează acest spațiu. Pietonii pot explora aleile pavate și se pot odihni pe băncile disponibile. O vizită la sfârșitul după-amiezii este ideală pentru a profita de temperaturile mai răcoroase.",
                   "category": "park",
                   "coords": [
                         120.940155,
                         14.459591
-                  ]
-            },
-            {
-                  "name": "Battle of Binakayan Monument",
-                  "text": "Un monument în Bacoor care comemorează Bătălia de la Binakayan din timpul Revoluției Filipineze.",
-                  "category": "historical",
-                  "coords": [
-                        120.922379,
-                        14.458943
                   ]
             },
             {
@@ -6528,30 +5322,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Battle of Zapote River",
-                  "text": "The Battle of Zapote River Monument commemorates a historical event in Bacoor.",
-                  "category": "historical",
-                  "coords": [
-                        120.966555,
-                        14.464045
-                  ]
-            },
-            {
                   "name": "Plaza de Padre Mariano A. Gomez",
                   "text": "Serving as a central hub in Bacoor, this public park represents a living piece of the community. A friendly atmosphere, characterized by local encounters, defines this particular location. Walkers can explore the paved pathways and rest on the available seating areas. A late afternoon visit is ideal to take advantage of the cooler temperatures.",
                   "category": "park",
                   "coords": [
                         120.940155,
                         14.459591
-                  ]
-            },
-            {
-                  "name": "Battle of Binakayan Monument",
-                  "text": "A monument in Bacoor commemorating the Battle of Binakayan during the Philippine Revolution.",
-                  "category": "historical",
-                  "coords": [
-                        120.922379,
-                        14.458943
                   ]
             },
             {
@@ -7870,30 +6646,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "ph-las-pinas-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Battle of Zapote River",
-                  "text": "Das Denkmal für die Schlacht am Zapote-Fluss in Las Piñas erinnert an bedeutende historische Konflikte, die sich an der Brücke abspielten.",
-                  "category": "historical",
-                  "coords": [
-                        120.966555,
-                        14.464045
-                  ]
-            },
-            {
                   "name": "Trade Master Resources Corp",
                   "text": "Firmenhauptquartier eines Handelsunternehmens in Las Piñas.",
                   "category": "landmark",
                   "coords": [
                         120.991361,
                         14.448512
-                  ]
-            },
-            {
-                  "name": "De Leonida’s resort",
-                  "text": "Privater Ferienort mit Swimmingpools und Cottages in Las Piñas.",
-                  "category": "landmark",
-                  "coords": [
-                        120.961216,
-                        14.452471
                   ]
             },
             {
@@ -7926,30 +6684,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Battle of Zapote River",
-                  "text": "A Las Piñas-i Zapote folyói csata emlékműve a hídnál történt jelentős történelmi konfliktusoknak állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        120.966555,
-                        14.464045
-                  ]
-            },
-            {
                   "name": "Trade Master Resources Corp",
                   "text": "Egy kereskedelmi vállalat székhelye Las Piñasban.",
                   "category": "landmark",
                   "coords": [
                         120.991361,
                         14.448512
-                  ]
-            },
-            {
-                  "name": "De Leonida’s resort",
-                  "text": "Magántulajdonú üdülőhely medencékkel és nyaralókkal Las Piñasban.",
-                  "category": "landmark",
-                  "coords": [
-                        120.961216,
-                        14.452471
                   ]
             },
             {
@@ -7982,30 +6722,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Battle of Zapote River",
-                  "text": "Monumentul Bătăliei de la râul Zapote din Las Piñas comemorează conflictele istorice semnificative care au avut loc la pod.",
-                  "category": "historical",
-                  "coords": [
-                        120.966555,
-                        14.464045
-                  ]
-            },
-            {
                   "name": "Trade Master Resources Corp",
                   "text": "Sediu corporativ al unei companii de comerț din Las Piñas.",
                   "category": "landmark",
                   "coords": [
                         120.991361,
                         14.448512
-                  ]
-            },
-            {
-                  "name": "De Leonida’s resort",
-                  "text": "Stațiune privată cu piscine și cabane în Las Piñas.",
-                  "category": "landmark",
-                  "coords": [
-                        120.961216,
-                        14.452471
                   ]
             },
             {
@@ -8038,30 +6760,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Battle of Zapote River",
-                  "text": "The Battle of Zapote River monument in Las Piñas commemorates significant historical conflicts that occurred at the bridge.",
-                  "category": "historical",
-                  "coords": [
-                        120.966555,
-                        14.464045
-                  ]
-            },
-            {
                   "name": "Trade Master Resources Corp",
                   "text": "Corporate headquarters of a trading company in Las Piñas.",
                   "category": "landmark",
                   "coords": [
                         120.991361,
                         14.448512
-                  ]
-            },
-            {
-                  "name": "De Leonida’s resort",
-                  "text": "Private resort with swimming pools and cottages in Las Piñas.",
-                  "category": "landmark",
-                  "coords": [
-                        120.961216,
-                        14.452471
                   ]
             },
             {
@@ -8166,75 +6870,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samsung Performing Arts Theatre",
-                  "text": "Modernes Theater für darstellende Künste im Geschäftsviertel von Makati.",
-                  "category": "cultural",
-                  "coords": [
-                        121.018776,
-                        14.572325
-                  ]
-            },
-            {
-                  "name": "Co Tec Tai Medical Museum",
-                  "text": "Medizinmuseum mit Fokus auf traditionelle chinesische Heilkunde in Makati.",
-                  "category": "museum",
-                  "coords": [
-                        120.999611,
-                        14.543955
-                  ]
-            },
-            {
-                  "name": "Cu-Unjiemg Heritage House",
-                  "text": "Befestigtes Herrenhaus aus der Kolonialzeit in Makati.",
-                  "category": "fortress",
-                  "coords": [
-                        121.031283,
-                        14.56928
-                  ]
-            },
-            {
-                  "name": "Old House of Pedro Roxas Spanish Military Field Hospital Site",
-                  "text": "Altes Haus von Pedro Roxas, spanisches Militärfeldlazarett in Makati, erbaut 1898.",
-                  "category": "fortress",
-                  "coords": [
-                        121.024261,
-                        14.574774
-                  ]
-            },
-            {
-                  "name": "Kaban ng Hiyas",
-                  "text": "Museum mit dem Namen „Schatulle der Juwelen“ in Makati.",
-                  "category": "museum",
-                  "coords": [
-                        121.03396,
-                        14.578106
-                  ]
-            },
-            {
-                  "name": "Circuit Makati Open Air Concert Pavillion",
-                  "text": "Open-Air-Konzertpavillon im Circuit-Distrikt von Makati.",
-                  "category": "cultural",
-                  "coords": [
-                        121.019453,
-                        14.577167
-                  ]
-            },
-            {
                   "name": "Altro Mondo Creative Space",
                   "text": "Kreativraum und Galerie für zeitgenössische Kunst in Makati.",
                   "category": "museum",
                   "coords": [
                         121.011869,
                         14.564303
-                  ]
-            },
-            {
-                  "name": "Sun Life Amphitheater",
-                  "text": "Amphitheater, gesponsert von Sun Life, in Makati.",
-                  "category": "cultural",
-                  "coords": [
-                        121.048902,
-                        14.548066
                   ]
             },
             {
@@ -8262,15 +6903,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.01788,
                         14.55382
-                  ]
-            },
-            {
-                  "name": "Track 30th",
-                  "text": "Track 30th in Makati ist ein Erholungspark entlang der Hauptstraße der Stadt.",
-                  "category": "park",
-                  "coords": [
-                        121.050912,
-                        14.552153
                   ]
             },
             {
@@ -8319,15 +6951,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Makati City Boundary Marker",
-                  "text": "Steinerner Grenzmarkstein der Stadt Makati.",
-                  "category": "natural",
-                  "coords": [
-                        121.045467,
-                        14.5675
-                  ]
-            },
-            {
                   "name": "LRT Buendia Station",
                   "text": "LRT-Station Buendia in Makati – Teil der Elevated-Line 1.",
                   "category": "natural",
@@ -8352,15 +6975,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.028264,
                         14.565477
-                  ]
-            },
-            {
-                  "name": "400 busilak st. Barangay barangka drive",
-                  "text": "Adresse 400 Busilak Street im Barangay Barangka, Makati.",
-                  "category": "landmark",
-                  "coords": [
-                        121.039973,
-                        14.574187
                   ]
             },
             {
@@ -8400,24 +7014,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Opera Haus",
-                  "text": "Opernhaus mit klassizistischer Architektur in Makati.",
-                  "category": "cultural",
-                  "coords": [
-                        121.001676,
-                        14.556867
-                  ]
-            },
-            {
-                  "name": "Nuestra Señora de Gracia Parish Church",
-                  "text": "Nuestra Señora de Gracia Parish Church ist eine katholische Kirche in Makati.",
-                  "category": "religious",
-                  "coords": [
-                        121.043249,
-                        14.566169
-                  ]
-            },
-            {
                   "name": "St. Andrew The Apostle Parish Church",
                   "text": "St. Andrew The Apostle Parish Church ist eine katholische Pfarrkirche in Makati.",
                   "category": "religious",
@@ -8433,24 +7029,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.03137,
                         14.565913
-                  ]
-            },
-            {
-                  "name": "Estrella-Pantaleon Bridge",
-                  "text": "Die 2021 eröffnete Estrella-Pantaleon-Brücke über den Pasig, verbindet Makati und Mandaluyong.",
-                  "category": "landmark",
-                  "coords": [
-                        121.03766,
-                        14.566831
-                  ]
-            },
-            {
-                  "name": "Saint Michael Center for Spiritual Liberation and Exorcism",
-                  "text": "Saint Michael Center for Spiritual Liberation and Exorcism ist ein Exorzismus-Zentrum in Makati.",
-                  "category": "religious",
-                  "coords": [
-                        121.044745,
-                        14.565781
                   ]
             }
       ],
@@ -8483,75 +7061,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samsung Performing Arts Theatre",
-                  "text": "Modern előadóművészeti színház Makati üzleti negyedében.",
-                  "category": "cultural",
-                  "coords": [
-                        121.018776,
-                        14.572325
-                  ]
-            },
-            {
-                  "name": "Co Tec Tai Medical Museum",
-                  "text": "Orvostudományi múzeum a hagyományos kínai gyógyászatról Makatiban.",
-                  "category": "museum",
-                  "coords": [
-                        120.999611,
-                        14.543955
-                  ]
-            },
-            {
-                  "name": "Cu-Unjiemg Heritage House",
-                  "text": "Megerősített kúria a gyarmati korból Makatiban.",
-                  "category": "fortress",
-                  "coords": [
-                        121.031283,
-                        14.56928
-                  ]
-            },
-            {
-                  "name": "Old House of Pedro Roxas Spanish Military Field Hospital Site",
-                  "text": "Pedro Roxas régi háza, spanyol katonai tábori kórház Makati-ban, épült 1898-ban.",
-                  "category": "fortress",
-                  "coords": [
-                        121.024261,
-                        14.574774
-                  ]
-            },
-            {
-                  "name": "Kaban ng Hiyas",
-                  "text": "„Ékszerek ládája” nevű múzeum Makatiban.",
-                  "category": "museum",
-                  "coords": [
-                        121.03396,
-                        14.578106
-                  ]
-            },
-            {
-                  "name": "Circuit Makati Open Air Concert Pavillion",
-                  "text": "Szabadtéri koncertpavilon Makati Circuit negyedében.",
-                  "category": "cultural",
-                  "coords": [
-                        121.019453,
-                        14.577167
-                  ]
-            },
-            {
                   "name": "Altro Mondo Creative Space",
                   "text": "Kreatív tér és galéria kortárs művészet számára Makatiban.",
                   "category": "museum",
                   "coords": [
                         121.011869,
                         14.564303
-                  ]
-            },
-            {
-                  "name": "Sun Life Amphitheater",
-                  "text": "A Sun Life által szponzorált amfiteátrum Makatiban.",
-                  "category": "cultural",
-                  "coords": [
-                        121.048902,
-                        14.548066
                   ]
             },
             {
@@ -8579,15 +7094,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.01788,
                         14.55382
-                  ]
-            },
-            {
-                  "name": "Track 30th",
-                  "text": "A Track 30th Makatiban egy rekreációs park a város főútja mentén.",
-                  "category": "park",
-                  "coords": [
-                        121.050912,
-                        14.552153
                   ]
             },
             {
@@ -8636,15 +7142,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Makati City Boundary Marker",
-                  "text": "Makati város határát jelző kőoszlop.",
-                  "category": "natural",
-                  "coords": [
-                        121.045467,
-                        14.5675
-                  ]
-            },
-            {
                   "name": "LRT Buendia Station",
                   "text": "LRT Buendia megálló Makatiban – az emelt szintű 1-es vonal része.",
                   "category": "natural",
@@ -8669,15 +7166,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.028264,
                         14.565477
-                  ]
-            },
-            {
-                  "name": "400 busilak st. Barangay barangka drive",
-                  "text": "400 Busilak utcai cím a Barangay Barangka negyedben, Makatiban.",
-                  "category": "landmark",
-                  "coords": [
-                        121.039973,
-                        14.574187
                   ]
             },
             {
@@ -8717,24 +7205,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Opera Haus",
-                  "text": "Operaház klasszicista építészettel Makatiban.",
-                  "category": "cultural",
-                  "coords": [
-                        121.001676,
-                        14.556867
-                  ]
-            },
-            {
-                  "name": "Nuestra Señora de Gracia Parish Church",
-                  "text": "Nuestra Señora de Gracia Parish Church egy katolikus templom Makatiban.",
-                  "category": "religious",
-                  "coords": [
-                        121.043249,
-                        14.566169
-                  ]
-            },
-            {
                   "name": "St. Andrew The Apostle Parish Church",
                   "text": "St. Andrew The Apostle Parish Church egy katolikus plébániatemplom Makatiban.",
                   "category": "religious",
@@ -8750,24 +7220,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.03137,
                         14.565913
-                  ]
-            },
-            {
-                  "name": "Estrella-Pantaleon Bridge",
-                  "text": "Az Estrella-Pantaleon híd a Pasig folyón, összeköti Makatit és Mandaluyongot, 2021-ben nyílt meg.",
-                  "category": "landmark",
-                  "coords": [
-                        121.03766,
-                        14.566831
-                  ]
-            },
-            {
-                  "name": "Saint Michael Center for Spiritual Liberation and Exorcism",
-                  "text": "Saint Michael Center for Spiritual Liberation and Exorcism egy ördögűző központ Makatiban.",
-                  "category": "religious",
-                  "coords": [
-                        121.044745,
-                        14.565781
                   ]
             }
       ],
@@ -8800,75 +7252,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samsung Performing Arts Theatre",
-                  "text": "Teatru modern pentru artele spectacolului în districtul de afaceri Makati.",
-                  "category": "cultural",
-                  "coords": [
-                        121.018776,
-                        14.572325
-                  ]
-            },
-            {
-                  "name": "Co Tec Tai Medical Museum",
-                  "text": "Muzeu medical dedicat medicinei tradiționale chinezești în Makati.",
-                  "category": "museum",
-                  "coords": [
-                        120.999611,
-                        14.543955
-                  ]
-            },
-            {
-                  "name": "Cu-Unjiemg Heritage House",
-                  "text": "Conac fortificat din perioada colonială în Makati.",
-                  "category": "fortress",
-                  "coords": [
-                        121.031283,
-                        14.56928
-                  ]
-            },
-            {
-                  "name": "Old House of Pedro Roxas Spanish Military Field Hospital Site",
-                  "text": "Vechea casă a lui Pedro Roxas, spital militar spaniol de campanie în Makati, construită în 1898.",
-                  "category": "fortress",
-                  "coords": [
-                        121.024261,
-                        14.574774
-                  ]
-            },
-            {
-                  "name": "Kaban ng Hiyas",
-                  "text": "Muzeu numit „Cufărul cu bijuterii” în Makati.",
-                  "category": "museum",
-                  "coords": [
-                        121.03396,
-                        14.578106
-                  ]
-            },
-            {
-                  "name": "Circuit Makati Open Air Concert Pavillion",
-                  "text": "Pavilion de concerte în aer liber în districtul Circuit din Makati.",
-                  "category": "cultural",
-                  "coords": [
-                        121.019453,
-                        14.577167
-                  ]
-            },
-            {
                   "name": "Altro Mondo Creative Space",
                   "text": "Spațiu creativ și galerie de artă contemporană în Makati.",
                   "category": "museum",
                   "coords": [
                         121.011869,
                         14.564303
-                  ]
-            },
-            {
-                  "name": "Sun Life Amphitheater",
-                  "text": "Amfiteatru sponsorizat de Sun Life în Makati.",
-                  "category": "cultural",
-                  "coords": [
-                        121.048902,
-                        14.548066
                   ]
             },
             {
@@ -8896,15 +7285,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.01788,
                         14.55382
-                  ]
-            },
-            {
-                  "name": "Track 30th",
-                  "text": "Track 30th din Makati este un parc de agrement de-a lungul bulevardului principal al orașului.",
-                  "category": "park",
-                  "coords": [
-                        121.050912,
-                        14.552153
                   ]
             },
             {
@@ -8953,15 +7333,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Makati City Boundary Marker",
-                  "text": "Stâlp de piatră ce marchează limita orașului Makati.",
-                  "category": "natural",
-                  "coords": [
-                        121.045467,
-                        14.5675
-                  ]
-            },
-            {
                   "name": "LRT Buendia Station",
                   "text": "Stația LRT Buendia din Makati – parte a liniei 1 elevate.",
                   "category": "natural",
@@ -8986,15 +7357,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.028264,
                         14.565477
-                  ]
-            },
-            {
-                  "name": "400 busilak st. Barangay barangka drive",
-                  "text": "Adresă la 400 Busilak Street în Barangay Barangka, Makati.",
-                  "category": "landmark",
-                  "coords": [
-                        121.039973,
-                        14.574187
                   ]
             },
             {
@@ -9034,24 +7396,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Opera Haus",
-                  "text": "Operă cu arhitectură neoclasică în Makati.",
-                  "category": "cultural",
-                  "coords": [
-                        121.001676,
-                        14.556867
-                  ]
-            },
-            {
-                  "name": "Nuestra Señora de Gracia Parish Church",
-                  "text": "Nuestra Señora de Gracia Parish Church este o biserică catolică în Makati.",
-                  "category": "religious",
-                  "coords": [
-                        121.043249,
-                        14.566169
-                  ]
-            },
-            {
                   "name": "St. Andrew The Apostle Parish Church",
                   "text": "St. Andrew The Apostle Parish Church este o biserică parohială catolică în Makati.",
                   "category": "religious",
@@ -9067,24 +7411,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.03137,
                         14.565913
-                  ]
-            },
-            {
-                  "name": "Estrella-Pantaleon Bridge",
-                  "text": "Podul Estrella-Pantaleon peste râul Pasig, care leagă Makati de Mandaluyong, deschis în 2021.",
-                  "category": "landmark",
-                  "coords": [
-                        121.03766,
-                        14.566831
-                  ]
-            },
-            {
-                  "name": "Saint Michael Center for Spiritual Liberation and Exorcism",
-                  "text": "Saint Michael Center for Spiritual Liberation and Exorcism este un centru de exorcism în Makati.",
-                  "category": "religious",
-                  "coords": [
-                        121.044745,
-                        14.565781
                   ]
             }
       ],
@@ -9117,75 +7443,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Samsung Performing Arts Theatre",
-                  "text": "Modern performing arts theatre in Makati's business district.",
-                  "category": "cultural",
-                  "coords": [
-                        121.018776,
-                        14.572325
-                  ]
-            },
-            {
-                  "name": "Co Tec Tai Medical Museum",
-                  "text": "Medical museum focused on traditional Chinese medicine in Makati.",
-                  "category": "museum",
-                  "coords": [
-                        120.999611,
-                        14.543955
-                  ]
-            },
-            {
-                  "name": "Cu-Unjiemg Heritage House",
-                  "text": "Fortified colonial-era heritage house in Makati.",
-                  "category": "fortress",
-                  "coords": [
-                        121.031283,
-                        14.56928
-                  ]
-            },
-            {
-                  "name": "Old House of Pedro Roxas Spanish Military Field Hospital Site",
-                  "text": "Old House of Pedro Roxas, Spanish military field hospital site in Makati, built in 1898.",
-                  "category": "fortress",
-                  "coords": [
-                        121.024261,
-                        14.574774
-                  ]
-            },
-            {
-                  "name": "Kaban ng Hiyas",
-                  "text": "Museum called 'Chest of Jewels' in Makati.",
-                  "category": "museum",
-                  "coords": [
-                        121.03396,
-                        14.578106
-                  ]
-            },
-            {
-                  "name": "Circuit Makati Open Air Concert Pavillion",
-                  "text": "Open-air concert pavilion in Makati's Circuit district.",
-                  "category": "cultural",
-                  "coords": [
-                        121.019453,
-                        14.577167
-                  ]
-            },
-            {
                   "name": "Altro Mondo Creative Space",
                   "text": "Creative space and contemporary art gallery in Makati.",
                   "category": "museum",
                   "coords": [
                         121.011869,
                         14.564303
-                  ]
-            },
-            {
-                  "name": "Sun Life Amphitheater",
-                  "text": "Amphitheatre sponsored by Sun Life in Makati.",
-                  "category": "cultural",
-                  "coords": [
-                        121.048902,
-                        14.548066
                   ]
             },
             {
@@ -9213,15 +7476,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.01788,
                         14.55382
-                  ]
-            },
-            {
-                  "name": "Track 30th",
-                  "text": "Track 30th in Makati, a recreational park along the city's main thoroughfare.",
-                  "category": "park",
-                  "coords": [
-                        121.050912,
-                        14.552153
                   ]
             },
             {
@@ -9270,15 +7524,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Makati City Boundary Marker",
-                  "text": "Stone boundary marker of Makati City.",
-                  "category": "natural",
-                  "coords": [
-                        121.045467,
-                        14.5675
-                  ]
-            },
-            {
                   "name": "LRT Buendia Station",
                   "text": "LRT Buendia station in Makati – part of the elevated Line 1.",
                   "category": "natural",
@@ -9303,15 +7548,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.028264,
                         14.565477
-                  ]
-            },
-            {
-                  "name": "400 busilak st. Barangay barangka drive",
-                  "text": "Address at 400 Busilak Street in Barangay Barangka, Makati.",
-                  "category": "landmark",
-                  "coords": [
-                        121.039973,
-                        14.574187
                   ]
             },
             {
@@ -9351,24 +7587,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Opera Haus",
-                  "text": "Opera house with neoclassical architecture in Makati.",
-                  "category": "cultural",
-                  "coords": [
-                        121.001676,
-                        14.556867
-                  ]
-            },
-            {
-                  "name": "Nuestra Señora de Gracia Parish Church",
-                  "text": "Nuestra Señora de Gracia Parish Church is a Catholic church in Makati.",
-                  "category": "religious",
-                  "coords": [
-                        121.043249,
-                        14.566169
-                  ]
-            },
-            {
                   "name": "St. Andrew The Apostle Parish Church",
                   "text": "St. Andrew The Apostle Parish Church is a Catholic parish church in Makati.",
                   "category": "religious",
@@ -9384,24 +7602,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.03137,
                         14.565913
-                  ]
-            },
-            {
-                  "name": "Estrella-Pantaleon Bridge",
-                  "text": "Estrella-Pantaleon Bridge over the Pasig River, connecting Makati and Mandaluyong, opened in 2021.",
-                  "category": "landmark",
-                  "coords": [
-                        121.03766,
-                        14.566831
-                  ]
-            },
-            {
-                  "name": "Saint Michael Center for Spiritual Liberation and Exorcism",
-                  "text": "Saint Michael Center for Spiritual Liberation and Exorcism is an exorcism center in Makati.",
-                  "category": "religious",
-                  "coords": [
-                        121.044745,
-                        14.565781
                   ]
             }
       ]
@@ -9451,33 +7651,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
   {
     id: "ph-bacolod-cities-v2", "sights": {
       "de": [
-            {
-                  "name": "Dizon-Ramos Museum",
-                  "text": "Dizon-Ramos Museum ist ein Museum in Bacolod. Es zeigt Sammlungen, die die lokale Geschichte und den Lebensstil repräsentieren.",
-                  "category": "museum",
-                  "coords": [
-                        122.951677,
-                        10.670995
-                  ]
-            },
-            {
-                  "name": "The Negros Museum",
-                  "text": "The Negros Museum ist ein Museum in Bacolod. Es zeigt die Geschichte und Kultur der lokalen Provinz.",
-                  "category": "museum",
-                  "coords": [
-                        122.950321,
-                        10.67516
-                  ]
-            },
-            {
-                  "name": "Museo de La Salle",
-                  "text": "Museum auf dem Campus der De La Salle University in Bacolod.",
-                  "category": "museum",
-                  "coords": [
-                        122.96177,
-                        10.678904
-                  ]
-            },
             {
                   "name": "SMX  Convention Center",
                   "text": "Kongresszentrum im SM City Bacolod-Einkaufszentrum.",
@@ -9533,15 +7706,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Capitol Park and Lagoon",
-                  "text": "Capitol Park and Lagoon ist ein Park in Bacolod. Es ist ein bekannter Provinzpark mit einer zentralen Lagune.",
-                  "category": "park",
-                  "coords": [
-                        122.952129,
-                        10.676
-                  ]
-            },
-            {
                   "name": "House of Frida",
                   "text": "Wohnhaus mit historischem Bezug zu Frida in Bacolod.",
                   "category": "landmark",
@@ -9588,33 +7752,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Dizon-Ramos Museum",
-                  "text": "A Dizon-Ramos Museum egy múzeum Bacolod városában. A helyi történelmet és életmódot bemutató gyűjteményekkel rendelkezik.",
-                  "category": "museum",
-                  "coords": [
-                        122.951677,
-                        10.670995
-                  ]
-            },
-            {
-                  "name": "The Negros Museum",
-                  "text": "A The Negros Museum egy múzeum Bacolod városában. A helyi tartomány történelmét és kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        122.950321,
-                        10.67516
-                  ]
-            },
-            {
-                  "name": "Museo de La Salle",
-                  "text": "Múzeum a De La Salle Egyetem campusán Bacolodban.",
-                  "category": "museum",
-                  "coords": [
-                        122.96177,
-                        10.678904
-                  ]
-            },
             {
                   "name": "SMX  Convention Center",
                   "text": "Kongresszusi központ az SM City Bacolod bevásárlóközpontban.",
@@ -9670,15 +7807,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Capitol Park and Lagoon",
-                  "text": "A Capitol Park and Lagoon egy park Bacolod városában. Ez egy jól ismert tartományi park, amelynek közepén egy lagúna található.",
-                  "category": "park",
-                  "coords": [
-                        122.952129,
-                        10.676
-                  ]
-            },
-            {
                   "name": "House of Frida",
                   "text": "Történelmi lakóház Frida emlékére Bacolodban.",
                   "category": "landmark",
@@ -9725,33 +7853,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Dizon-Ramos Museum",
-                  "text": "Dizon-Ramos Museum este un muzeu situat în Bacolod. Acesta prezintă colecții care reprezintă istoria și stilul de viață local.",
-                  "category": "museum",
-                  "coords": [
-                        122.951677,
-                        10.670995
-                  ]
-            },
-            {
-                  "name": "The Negros Museum",
-                  "text": "The Negros Museum este un muzeu situat în Bacolod. Acesta prezintă istoria și cultura provinciei locale.",
-                  "category": "museum",
-                  "coords": [
-                        122.950321,
-                        10.67516
-                  ]
-            },
-            {
-                  "name": "Museo de La Salle",
-                  "text": "Muzeu pe campusul Universității De La Salle din Bacolod.",
-                  "category": "museum",
-                  "coords": [
-                        122.96177,
-                        10.678904
-                  ]
-            },
             {
                   "name": "SMX  Convention Center",
                   "text": "Centru de convenții în mall-ul SM City Bacolod.",
@@ -9807,15 +7908,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Capitol Park and Lagoon",
-                  "text": "Capitol Park and Lagoon este un parc situat în Bacolod. Este un parc provincial bine-cunoscut care are o lagună centrală.",
-                  "category": "park",
-                  "coords": [
-                        122.952129,
-                        10.676
-                  ]
-            },
-            {
                   "name": "House of Frida",
                   "text": "Casă cu semnificație istorică legată de Frida în Bacolod.",
                   "category": "landmark",
@@ -9862,33 +7954,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Dizon-Ramos Museum",
-                  "text": "Dizon-Ramos Museum is a museum located in Bacolod. It features collections representing the local history and lifestyle.",
-                  "category": "museum",
-                  "coords": [
-                        122.951677,
-                        10.670995
-                  ]
-            },
-            {
-                  "name": "The Negros Museum",
-                  "text": "The Negros Museum is a museum located in Bacolod. It showcases the history and culture of the local province.",
-                  "category": "museum",
-                  "coords": [
-                        122.950321,
-                        10.67516
-                  ]
-            },
-            {
-                  "name": "Museo de La Salle",
-                  "text": "Museum on the campus of De La Salle University in Bacolod.",
-                  "category": "museum",
-                  "coords": [
-                        122.96177,
-                        10.678904
-                  ]
-            },
             {
                   "name": "SMX  Convention Center",
                   "text": "Convention centre at SM City Bacolod mall.",
@@ -9941,15 +8006,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         122.947153,
                         10.670345
-                  ]
-            },
-            {
-                  "name": "Capitol Park and Lagoon",
-                  "text": "Capitol Park and Lagoon is a park located in Bacolod. It is a well-known provincial park featuring a central lagoon.",
-                  "category": "park",
-                  "coords": [
-                        122.952129,
-                        10.676
                   ]
             },
             {
@@ -11806,15 +9862,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thrive",
-                  "text": "Thrive ist ein Museum für nachhaltiges Leben und ökologische Innovationen.",
-                  "category": "museum",
-                  "coords": [
-                        122.548824,
-                        10.706853
-                  ]
-            },
-            {
                   "name": "Adoro Art Gallery and Museum",
                   "text": "Die Adoro Art Gallery and Museum zeigt wechselnde Ausstellungen zeitgenössischer Kunst.",
                   "category": "museum",
@@ -11860,30 +9907,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Quirino – Lopez Bridge",
-                  "text": "Die 2000 eröffnete Quirino-Lopez-Brücke über den Iloilo-Fluss in Iloilo City.",
-                  "category": "landmark",
-                  "coords": [
-                        122.570348,
-                        10.701901
-                  ]
-            },
-            {
                   "name": "Nuestra Señora de la Paz y Buen Viaje",
                   "text": "Our Lady of Peace and Good Voyage, bekannt als La Paz Church, ist eine religiöse Stätte in Iloilo City.",
                   "category": "religious",
                   "coords": [
                         122.571593,
                         10.712587
-                  ]
-            },
-            {
-                  "name": "Iloilo Bridge",
-                  "text": "Die Iloilo Bridge ist ein wichtiges Bauwerk, das den Fluss in Iloilo City überquert.",
-                  "category": "landmark",
-                  "coords": [
-                        122.553717,
-                        10.701658
                   ]
             },
             {
@@ -12024,15 +10053,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thrive",
-                  "text": "A Thrive egy fenntartható életmódot és ökológiai innovációkat bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        122.548824,
-                        10.706853
-                  ]
-            },
-            {
                   "name": "Adoro Art Gallery and Museum",
                   "text": "Az Adoro Art Gallery and Museum kortárs művészeti kiállításokat mutat be.",
                   "category": "museum",
@@ -12078,30 +10098,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Quirino – Lopez Bridge",
-                  "text": "A Quirino-Lopez híd az Iloilo folyón Iloilo Cityben, 2000-ben nyílt meg.",
-                  "category": "landmark",
-                  "coords": [
-                        122.570348,
-                        10.701901
-                  ]
-            },
-            {
                   "name": "Nuestra Señora de la Paz y Buen Viaje",
                   "text": "Az Our Lady of Peace and Good Voyage, ismert nevén La Paz-templom, egy vallási helyszín Iloilo Cityben.",
                   "category": "religious",
                   "coords": [
                         122.571593,
                         10.712587
-                  ]
-            },
-            {
-                  "name": "Iloilo Bridge",
-                  "text": "Az Iloilo Bridge egy fontos híd, amely a folyón ível át Iloilo Cityben.",
-                  "category": "landmark",
-                  "coords": [
-                        122.553717,
-                        10.701658
                   ]
             },
             {
@@ -12242,15 +10244,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thrive",
-                  "text": "Thrive este un muzeu al vieții sustenabile și al inovațiilor ecologice.",
-                  "category": "museum",
-                  "coords": [
-                        122.548824,
-                        10.706853
-                  ]
-            },
-            {
                   "name": "Adoro Art Gallery and Museum",
                   "text": "Galeria și Muzeul de Artă Adoro prezintă expoziții temporare de artă contemporană.",
                   "category": "museum",
@@ -12296,30 +10289,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Quirino – Lopez Bridge",
-                  "text": "Podul Quirino-Lopez peste râul Iloilo din Iloilo City, deschis în 2000.",
-                  "category": "landmark",
-                  "coords": [
-                        122.570348,
-                        10.701901
-                  ]
-            },
-            {
                   "name": "Nuestra Señora de la Paz y Buen Viaje",
                   "text": "Our Lady of Peace and Good Voyage, cunoscută ca Biserica La Paz, este un sit religios din Iloilo City.",
                   "category": "religious",
                   "coords": [
                         122.571593,
                         10.712587
-                  ]
-            },
-            {
-                  "name": "Iloilo Bridge",
-                  "text": "Iloilo Bridge este o structură cheie de infrastructură care traversează râul în Iloilo City.",
-                  "category": "landmark",
-                  "coords": [
-                        122.553717,
-                        10.701658
                   ]
             },
             {
@@ -12460,15 +10435,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thrive",
-                  "text": "Thrive is a museum focused on sustainable living and ecological innovations.",
-                  "category": "museum",
-                  "coords": [
-                        122.548824,
-                        10.706853
-                  ]
-            },
-            {
                   "name": "Adoro Art Gallery and Museum",
                   "text": "Adoro Art Gallery and Museum features rotating exhibitions of contemporary art.",
                   "category": "museum",
@@ -12514,30 +10480,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Quirino – Lopez Bridge",
-                  "text": "Quirino-Lopez Bridge over the Iloilo River in Iloilo City, opened in 2000.",
-                  "category": "landmark",
-                  "coords": [
-                        122.570348,
-                        10.701901
-                  ]
-            },
-            {
                   "name": "Our Lady of Peace and Good Voyage",
                   "text": "Our Lady of Peace and Good Voyage, known as La Paz Church, is a religious site in Iloilo City.",
                   "category": "religious",
                   "coords": [
                         122.571593,
                         10.712587
-                  ]
-            },
-            {
-                  "name": "Iloilo Bridge",
-                  "text": "Iloilo Bridge is a key infrastructure structure crossing the river in Iloilo City.",
-                  "category": "landmark",
-                  "coords": [
-                        122.553717,
-                        10.701658
                   ]
             },
             {
@@ -12624,15 +10572,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Washington SyCip Park",
-                  "text": "Eine ruhige städtische Oase mit Pavillons, Koiteichen und einheimischen tropischen Pflanzen.",
-                  "category": "park",
-                  "coords": [
-                        121.017881,
-                        14.553831
-                  ]
-            },
-            {
                   "name": "Martyrs' Memorial United Methodist Church",
                   "text": "Diese methodistische Kirche ist ein markantes Gotteshaus für die örtliche Gemeinde.",
                   "category": "religious",
@@ -12648,15 +10587,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.993879,
                         14.545245
-                  ]
-            },
-            {
-                  "name": "León Gallery International",
-                  "text": "Diese Kunstgalerie präsentiert zeitgenössische und historische philippinische Kunstwerke.",
-                  "category": "museum",
-                  "coords": [
-                        121.01889,
-                        14.553326
                   ]
             },
             {
@@ -12702,15 +10632,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.980823,
                         14.531211
-                  ]
-            },
-            {
-                  "name": "Silverlens",
-                  "text": "Ein führendes Zentrum für zeitgenössische Kunst, das südostasiatische Fotografie und bildende Kunst zeigt.",
-                  "category": "cultural",
-                  "coords": [
-                        121.019636,
-                        14.539454
                   ]
             },
             {
@@ -12887,15 +10808,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Washington SyCip Park",
-                  "text": "Békés városi oázis, ahol pavilonok, koi-tavak és őshonos trópusi növények találhatók.",
-                  "category": "park",
-                  "coords": [
-                        121.017881,
-                        14.553831
-                  ]
-            },
-            {
                   "name": "Martyrs' Memorial United Methodist Church",
                   "text": "Ez a metodista templom a helyi közösség fontos istentiszteleti helye.",
                   "category": "religious",
@@ -12911,15 +10823,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.993879,
                         14.545245
-                  ]
-            },
-            {
-                  "name": "León Gallery International",
-                  "text": "Ez a művészeti galéria kortárs és történelmi fülöp-szigeteki alkotásokat mutat be.",
-                  "category": "museum",
-                  "coords": [
-                        121.01889,
-                        14.553326
                   ]
             },
             {
@@ -12965,15 +10868,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.980823,
                         14.531211
-                  ]
-            },
-            {
-                  "name": "Silverlens",
-                  "text": "Vezető kortárs művészeti központ, amely délkelet-ázsiai fotográfiát és képzőművészetet mutat be.",
-                  "category": "cultural",
-                  "coords": [
-                        121.019636,
-                        14.539454
                   ]
             },
             {
@@ -13150,15 +11044,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Washington SyCip Park",
-                  "text": "O oază urbană liniștită, cu foișoare, iazuri cu pești koi și plante tropicale indigene.",
-                  "category": "park",
-                  "coords": [
-                        121.017881,
-                        14.553831
-                  ]
-            },
-            {
                   "name": "Martyrs' Memorial United Methodist Church",
                   "text": "Această biserică metodistă este un lăcaș de cult proeminent pentru comunitatea locală.",
                   "category": "religious",
@@ -13174,15 +11059,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.993879,
                         14.545245
-                  ]
-            },
-            {
-                  "name": "León Gallery International",
-                  "text": "Această galerie de artă expune opere de artă filipineze contemporane și istorice.",
-                  "category": "museum",
-                  "coords": [
-                        121.01889,
-                        14.553326
                   ]
             },
             {
@@ -13228,15 +11104,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.980823,
                         14.531211
-                  ]
-            },
-            {
-                  "name": "Silverlens",
-                  "text": "Un centru de artă contemporană de top care prezintă fotografie și arte vizuale din Asia de Sud-Est.",
-                  "category": "cultural",
-                  "coords": [
-                        121.019636,
-                        14.539454
                   ]
             },
             {
@@ -13413,15 +11280,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Washington SyCip Park",
-                  "text": "A serene urban oasis featuring gazebos, koi ponds, and indigenous tropical plants.",
-                  "category": "park",
-                  "coords": [
-                        121.017881,
-                        14.553831
-                  ]
-            },
-            {
                   "name": "Martyrs' Memorial United Methodist Church",
                   "text": "This Methodist church is a prominent place of worship serving the local community.",
                   "category": "religious",
@@ -13437,15 +11295,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.993879,
                         14.545245
-                  ]
-            },
-            {
-                  "name": "León Gallery International",
-                  "text": "This art gallery showcases contemporary and historical Philippine artworks.",
-                  "category": "museum",
-                  "coords": [
-                        121.01889,
-                        14.553326
                   ]
             },
             {
@@ -13491,15 +11340,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.980823,
                         14.531211
-                  ]
-            },
-            {
-                  "name": "Silverlens",
-                  "text": "A leading contemporary arts center showcasing Southeast Asian photography and visual arts.",
-                  "category": "cultural",
-                  "coords": [
-                        121.019636,
-                        14.539454
                   ]
             },
             {
@@ -13712,15 +11552,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Andres Bonifacio Monument",
-                  "text": "Andres Bonifacio Monument ist ein Denkmal in Caloocan. Es ehrt den berühmten philippinischen Revolutionär Andres Bonifacio.",
-                  "category": "historical",
-                  "coords": [
-                        120.983984,
-                        14.657136
-                  ]
-            },
-            {
                   "name": "Manila Chemical Center Inc",
                   "text": "Manilq Chemical Center Inc ist ein bedeutendes Chemieunternehmen in Caloocan.",
                   "category": "landmark",
@@ -13736,15 +11567,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.980779,
                         14.645157
-                  ]
-            },
-            {
-                  "name": "National Shrine of Our Lady of Lourdes",
-                  "text": "National Shrine of Our Lady of Lourdes ist ein Gotteshaus in Caloocan. Es ist ein bedeutendes katholisches Heiligtum in der Stadt.",
-                  "category": "religious",
-                  "coords": [
-                        120.997009,
-                        14.630179
                   ]
             },
             {
@@ -13777,15 +11599,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Andres Bonifacio Monument",
-                  "text": "Az Andres Bonifacio Monument egy emlékmű Caloocan városában. A híres fülöp-szigeteki forradalmár, Andres Bonifacio előtt tiszteleg.",
-                  "category": "historical",
-                  "coords": [
-                        120.983984,
-                        14.657136
-                  ]
-            },
-            {
                   "name": "Manila Chemical Center Inc",
                   "text": "A Manilq Chemical Center Inc egy jelentős vegyipari vállalat Caloocanban.",
                   "category": "landmark",
@@ -13801,15 +11614,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.980779,
                         14.645157
-                  ]
-            },
-            {
-                  "name": "National Shrine of Our Lady of Lourdes",
-                  "text": "A National Shrine of Our Lady of Lourdes egy istentiszteleti hely Caloocan városában. Ez egy jelentős katolikus kegyhely a városban.",
-                  "category": "religious",
-                  "coords": [
-                        120.997009,
-                        14.630179
                   ]
             },
             {
@@ -13842,15 +11646,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Andres Bonifacio Monument",
-                  "text": "Andres Bonifacio Monument este un monument situat în Caloocan. Îl onorează pe celebrul revoluționar filipinez Andres Bonifacio.",
-                  "category": "historical",
-                  "coords": [
-                        120.983984,
-                        14.657136
-                  ]
-            },
-            {
                   "name": "Manila Chemical Center Inc",
                   "text": "Manilq Chemical Center Inc este o importantă companie chimică din Caloocan.",
                   "category": "landmark",
@@ -13866,15 +11661,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.980779,
                         14.645157
-                  ]
-            },
-            {
-                  "name": "National Shrine of Our Lady of Lourdes",
-                  "text": "National Shrine of Our Lady of Lourdes este un lăcaș de cult situat în Caloocan. Este un altar catolic semnificativ din oraș.",
-                  "category": "religious",
-                  "coords": [
-                        120.997009,
-                        14.630179
                   ]
             },
             {
@@ -13907,15 +11693,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Andres Bonifacio Monument",
-                  "text": "Andres Bonifacio Monument is a monument located in Caloocan. It honors the famous Philippine revolutionary Andres Bonifacio.",
-                  "category": "historical",
-                  "coords": [
-                        120.983984,
-                        14.657136
-                  ]
-            },
-            {
                   "name": "Manilq Chemical Center Inc",
                   "text": "Manilq Chemical Center Inc is a major chemical company in Caloocan.",
                   "category": "landmark",
@@ -13931,15 +11708,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.980779,
                         14.645157
-                  ]
-            },
-            {
-                  "name": "National Shrine of Our Lady of Lourdes",
-                  "text": "National Shrine of Our Lady of Lourdes is a place of worship located in Caloocan. It is a significant Catholic shrine in the city.",
-                  "category": "religious",
-                  "coords": [
-                        120.997009,
-                        14.630179
                   ]
             },
             {
@@ -14356,24 +12124,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                         123.962813,
                         10.330499
                   ]
-            },
-            {
-                  "name": "Mandaue Presidencia",
-                  "text": "Das Mandaue Presidencia, erbaut 1937, ist ein historisches Gebäude in Lapu Lapu City.",
-                  "category": "historical",
-                  "coords": [
-                        123.943164,
-                        10.327427
-                  ]
-            },
-            {
-                  "name": "National Shrine of Saint Joseph",
-                  "text": "National Shrine of Saint Joseph (Mandaue Church) ist eine katholische Kirche in Lapu Lapu City.",
-                  "category": "religious",
-                  "coords": [
-                        123.942163,
-                        10.32742
-                  ]
             }
       ],
       "hu": [
@@ -14429,24 +12179,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         123.962813,
                         10.330499
-                  ]
-            },
-            {
-                  "name": "Mandaue Presidencia",
-                  "text": "Az 1937-ben épült Mandaue Presidencia egy történelmi épület Lapu Lapu Cityben.",
-                  "category": "historical",
-                  "coords": [
-                        123.943164,
-                        10.327427
-                  ]
-            },
-            {
-                  "name": "National Shrine of Saint Joseph",
-                  "text": "National Shrine of Saint Joseph (Mandaue Church) egy katolikus templom Lapu Lapu Cityben.",
-                  "category": "religious",
-                  "coords": [
-                        123.942163,
-                        10.32742
                   ]
             }
       ],
@@ -14504,24 +12236,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                         123.962813,
                         10.330499
                   ]
-            },
-            {
-                  "name": "Mandaue Presidencia",
-                  "text": "Mandaue Presidencia, construit în 1937, este o clădire istorică în Lapu Lapu City.",
-                  "category": "historical",
-                  "coords": [
-                        123.943164,
-                        10.327427
-                  ]
-            },
-            {
-                  "name": "National Shrine of Saint Joseph",
-                  "text": "National Shrine of Saint Joseph (Mandaue Church) este o biserică catolică în Lapu Lapu City.",
-                  "category": "religious",
-                  "coords": [
-                        123.942163,
-                        10.32742
-                  ]
             }
       ],
       "en": [
@@ -14577,24 +12291,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         123.962813,
                         10.330499
-                  ]
-            },
-            {
-                  "name": "Mandaue Presidencia",
-                  "text": "Mandaue Presidencia, built in 1937, is a historic building in Lapu Lapu City.",
-                  "category": "historical",
-                  "coords": [
-                        123.943164,
-                        10.327427
-                  ]
-            },
-            {
-                  "name": "National Shrine of Saint Joseph",
-                  "text": "National Shrine of Saint Joseph (Mandaue Church) is a Catholic church in Lapu Lapu City.",
-                  "category": "religious",
-                  "coords": [
-                        123.942163,
-                        10.32742
                   ]
             }
       ]
@@ -14806,24 +12502,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "ph-mandaluyong-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Museo ng Makati",
-                  "text": "Das Museo ng Makati in Mandaluyong ist ein Zweigmuseum des Makati-Museums mit wechselnden Ausstellungen.",
-                  "category": "museum",
-                  "coords": [
-                        121.032877,
-                        14.567348
-                  ]
-            },
-            {
-                  "name": "Music Museum",
-                  "text": "Das Music Museum ist ein Museum, das Musikinstrumente und Aufführungsgeschichte zeigt.",
-                  "category": "cultural",
-                  "coords": [
-                        121.05109,
-                        14.602505
-                  ]
-            },
-            {
                   "name": "Samsung Performing Arts Theatre",
                   "text": "Das Samsung Performing Arts Theatre ist ein moderner Veranstaltungsort für Konzerte und Theater.",
                   "category": "cultural",
@@ -14905,15 +12583,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo ni Apolinario Mabini – PUP",
-                  "text": "Museo ni Apolinario Mabini – PUP ist dem philippinischen Nationalhelden Apolinario Mabini gewidmet.",
-                  "category": "museum",
-                  "coords": [
-                        121.011223,
-                        14.597902
-                  ]
-            },
-            {
                   "name": "Museo Sansó",
                   "text": "Museo Sansó zeigt Werke des philippinischen Künstlers Juvenal Sansó.",
                   "category": "museum",
@@ -14929,33 +12598,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.031708,
                         14.605227
-                  ]
-            },
-            {
-                  "name": "Salcedo Park",
-                  "text": "Salcedo Park ist ein öffentlicher Park in Mandaluyong.",
-                  "category": "park",
-                  "coords": [
-                        121.023096,
-                        14.560076
-                  ]
-            },
-            {
-                  "name": "Taguig People's Park",
-                  "text": "Der Taguig People's Park ist eine öffentliche Grünanlage mit Spielplätzen und Spazierwegen.",
-                  "category": "park",
-                  "coords": [
-                        121.055637,
-                        14.565278
-                  ]
-            },
-            {
-                  "name": "EDSA Shrine",
-                  "text": "Der EDSA Shrine ist ein berühmtes Denkmal in Mandaluyong, das an die People Power Revolution erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        121.058769,
-                        14.592467
                   ]
             },
             {
@@ -14977,66 +12619,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ronac Art Center",
-                  "text": "Das Ronac Art Center beherbergt mehrere Galerien und Ateliers für bildende Kunst.",
-                  "category": "cultural",
-                  "coords": [
-                        121.040239,
-                        14.607173
-                  ]
-            },
-            {
-                  "name": "Pineapple Lab",
-                  "text": "Pineapple Lab ist ein kreativer Raum für Kunstausstellungen und Workshops in Mandaluyong.",
-                  "category": "museum",
-                  "coords": [
-                        121.034529,
-                        14.565221
-                  ]
-            },
-            {
-                  "name": "Makati City Boundary Marker",
-                  "text": "Der Makati City Boundary Marker markiert die Grenze zwischen Makati und Mandaluyong.",
-                  "category": "natural",
-                  "coords": [
-                        121.045467,
-                        14.5675
-                  ]
-            },
-            {
-                  "name": "Trump building",
-                  "text": "Das Trump Building ist ein markantes Hochhaus in Mandaluyong, benannt nach Donald Trump.",
-                  "category": "landmark",
-                  "coords": [
-                        121.028264,
-                        14.565477
-                  ]
-            },
-            {
                   "name": "400 busilak st. Barangay barangka drive",
                   "text": "400 busilak st. Barangay barangka drive ist eine Sehenswürdigkeit in Mandaluyong.",
                   "category": "landmark",
                   "coords": [
                         121.039973,
                         14.574187
-                  ]
-            },
-            {
-                  "name": "Dr. Jose P. Rizal Monument",
-                  "text": "Bronzestatue von José Rizal auf dem Hauptplatz von Mandaluyong.",
-                  "category": "historical",
-                  "coords": [
-                        121.026014,
-                        14.569423
-                  ]
-            },
-            {
-                  "name": "Sultan Kudarat Monument",
-                  "text": "Denkmal für Sultan Kudarat, einen muslimischen Herrscher, an einem Kreisverkehr in Mandaluyong.",
-                  "category": "landmark",
-                  "coords": [
-                        121.025909,
-                        14.55802
                   ]
             },
             {
@@ -15049,15 +12637,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santuario de San Jose",
-                  "text": "Santuario de San Jose ist eine katholische Kirche in Mandaluyong.",
-                  "category": "religious",
-                  "coords": [
-                        121.052963,
-                        14.60016
-                  ]
-            },
-            {
                   "name": "Santuario del Santo Cristo",
                   "text": "Das Santuario del Santo Cristo ist eine Kirche in Mandaluyong, die für die Unterbringung des verehrten Bildnisses des Santo Cristo bekannt ist.",
                   "category": "religious",
@@ -15067,39 +12646,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nuestra Señora de Gracia Parish Church",
-                  "text": "Die Nuestra Señora de Gracia Parish Church ist eine Kultstätte in Mandaluyong, die für ihre Renaissance-Barock-Architektur bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        121.043249,
-                        14.566169
-                  ]
-            },
-            {
-                  "name": "St. Andrew The Apostle Parish Church",
-                  "text": "Die St. Andrew The Apostle Parish Church ist eine moderne Kultstätte in Mandaluyong, bekannt für ihre markante zeltartige Struktur.",
-                  "category": "religious",
-                  "coords": [
-                        121.023719,
-                        14.566057
-                  ]
-            },
-            {
                   "name": "Ocean Sky Chan Monastery",
                   "text": "Das Ocean Sky Chan-Kloster in Mandaluyong ist ein chinesisch-buddhistischer Tempel mit einer großen Guanyin-Statue.",
                   "category": "religious",
                   "coords": [
                         121.038182,
                         14.597968
-                  ]
-            },
-            {
-                  "name": "Saints Peter and Paul Parish Church",
-                  "text": "Saints Peter and Paul Parish Church ist eine katholische Kirche in Mandaluyong.",
-                  "category": "religious",
-                  "coords": [
-                        121.03137,
-                        14.565913
                   ]
             },
             {
@@ -15131,24 +12683,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Museo ng Makati",
-                  "text": "A Museo ng Makati Mandaluyongban a Makati Múzeum fiókmúzeuma változó kiállításokkal.",
-                  "category": "museum",
-                  "coords": [
-                        121.032877,
-                        14.567348
-                  ]
-            },
-            {
-                  "name": "Music Museum",
-                  "text": "A Music Museum egy zenei múzeum, amely hangszereket és előadás-történetet mutat be.",
-                  "category": "cultural",
-                  "coords": [
-                        121.05109,
-                        14.602505
-                  ]
-            },
             {
                   "name": "Samsung Performing Arts Theatre",
                   "text": "A Samsung Előadó-művészeti Színház modern koncert- és színházi helyszín.",
@@ -15231,15 +12765,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo ni Apolinario Mabini – PUP",
-                  "text": "A Museo ni Apolinario Mabini – PUP a Fülöp-szigeteki nemzeti hősnek, Apolinario Mabininek állít emléket.",
-                  "category": "museum",
-                  "coords": [
-                        121.011223,
-                        14.597902
-                  ]
-            },
-            {
                   "name": "Museo Sansó",
                   "text": "A Museo Sansó Juvenal Sansó filippínó művész alkotásait mutatja be.",
                   "category": "museum",
@@ -15255,33 +12780,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.031708,
                         14.605227
-                  ]
-            },
-            {
-                  "name": "Salcedo Park",
-                  "text": "Salcedo Park egy közpark Mandaluyongban.",
-                  "category": "park",
-                  "coords": [
-                        121.023096,
-                        14.560076
-                  ]
-            },
-            {
-                  "name": "Taguig People's Park",
-                  "text": "A Taguig Népi Park egy nyilvános zöldterület játszóterekkel és sétányokkal.",
-                  "category": "park",
-                  "coords": [
-                        121.055637,
-                        14.565278
-                  ]
-            },
-            {
-                  "name": "EDSA Shrine",
-                  "text": "Az EDSA Shrine egy híres emlékmű Mandaluyongban, amely a People Power forradalomnak állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        121.058769,
-                        14.592467
                   ]
             },
             {
@@ -15303,66 +12801,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ronac Art Center",
-                  "text": "A Ronac Művészeti Központ több galériának és képzőművészeti műteremnek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        121.040239,
-                        14.607173
-                  ]
-            },
-            {
-                  "name": "Pineapple Lab",
-                  "text": "A Pineapple Lab egy kreatív tér művészeti kiállítások és workshopok számára Mandaluyongban.",
-                  "category": "museum",
-                  "coords": [
-                        121.034529,
-                        14.565221
-                  ]
-            },
-            {
-                  "name": "Makati City Boundary Marker",
-                  "text": "A Makati City Határjelző Makati és Mandaluyong határát jelöli.",
-                  "category": "natural",
-                  "coords": [
-                        121.045467,
-                        14.5675
-                  ]
-            },
-            {
-                  "name": "Trump building",
-                  "text": "A Trump épület egy jellegzetes toronyház Mandaluyongban, Donald Trump nevét viseli.",
-                  "category": "landmark",
-                  "coords": [
-                        121.028264,
-                        14.565477
-                  ]
-            },
-            {
                   "name": "400 busilak st. Barangay barangka drive",
                   "text": "A 400 busilak st. Barangay barangka drive egy látványosság Mandaluyongban.",
                   "category": "landmark",
                   "coords": [
                         121.039973,
                         14.574187
-                  ]
-            },
-            {
-                  "name": "Dr. Jose P. Rizal Monument",
-                  "text": "José Rizal bronzszobra Mandaluyong főterén.",
-                  "category": "historical",
-                  "coords": [
-                        121.026014,
-                        14.569423
-                  ]
-            },
-            {
-                  "name": "Sultan Kudarat Monument",
-                  "text": "Szultán Kudarat emlékműve, egy muszlim uralkodóé, Mandaluyong egyik körforgalmában.",
-                  "category": "landmark",
-                  "coords": [
-                        121.025909,
-                        14.55802
                   ]
             },
             {
@@ -15375,15 +12819,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santuario de San Jose",
-                  "text": "Santuario de San Jose egy katolikus templom Mandaluyongban.",
-                  "category": "religious",
-                  "coords": [
-                        121.052963,
-                        14.60016
-                  ]
-            },
-            {
                   "name": "Santuario del Santo Cristo",
                   "text": "A Santuario del Santo Cristo egy templom Mandaluyongban, amely a Santo Cristo tisztelt képének ad otthont.",
                   "category": "religious",
@@ -15393,39 +12828,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nuestra Señora de Gracia Parish Church",
-                  "text": "A Nuestra Señora de Gracia plébániatemplom egy istentiszteleti hely Mandaluyongban, amely reneszánsz-barokk építészetéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        121.043249,
-                        14.566169
-                  ]
-            },
-            {
-                  "name": "St. Andrew The Apostle Parish Church",
-                  "text": "A Szent András apostol plébániatemplom egy modern istentiszteleti hely Mandaluyongban, amely jellegzetes sátorszerű szerkezetéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        121.023719,
-                        14.566057
-                  ]
-            },
-            {
                   "name": "Ocean Sky Chan Monastery",
                   "text": "Az Ocean Sky Chan-kolostor Mandaluyongban egy kínai buddhista templom egy nagy Guanyin-szoborral.",
                   "category": "religious",
                   "coords": [
                         121.038182,
                         14.597968
-                  ]
-            },
-            {
-                  "name": "Saints Peter and Paul Parish Church",
-                  "text": "Saints Peter and Paul Parish Church egy katolikus templom Mandaluyongban.",
-                  "category": "religious",
-                  "coords": [
-                        121.03137,
-                        14.565913
                   ]
             },
             {
@@ -15457,24 +12865,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Museo ng Makati",
-                  "text": "Museo ng Makati din Mandaluyong este o filială a Muzeului Makati, cu expoziții temporare.",
-                  "category": "museum",
-                  "coords": [
-                        121.032877,
-                        14.567348
-                  ]
-            },
-            {
-                  "name": "Music Museum",
-                  "text": "Muzeul Muzicii este un muzeu care prezintă instrumente muzicale și istoria spectacolelor.",
-                  "category": "cultural",
-                  "coords": [
-                        121.05109,
-                        14.602505
-                  ]
-            },
             {
                   "name": "Samsung Performing Arts Theatre",
                   "text": "Teatrul de Arte Spectacolului Samsung este un loc modern pentru concerte și teatru.",
@@ -15557,15 +12947,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo ni Apolinario Mabini – PUP",
-                  "text": "Muzeul Apolinario Mabini – PUP este dedicat eroului național filipinez Apolinario Mabini.",
-                  "category": "museum",
-                  "coords": [
-                        121.011223,
-                        14.597902
-                  ]
-            },
-            {
                   "name": "Museo Sansó",
                   "text": "Muzeul Sansó prezintă operele artistului filipinez Juvenal Sansó.",
                   "category": "museum",
@@ -15581,33 +12962,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.031708,
                         14.605227
-                  ]
-            },
-            {
-                  "name": "Salcedo Park",
-                  "text": "Salcedo Park este un parc public în Mandaluyong.",
-                  "category": "park",
-                  "coords": [
-                        121.023096,
-                        14.560076
-                  ]
-            },
-            {
-                  "name": "Taguig People's Park",
-                  "text": "Parcul Popular Taguig este un spațiu verde public cu locuri de joacă și alei.",
-                  "category": "park",
-                  "coords": [
-                        121.055637,
-                        14.565278
-                  ]
-            },
-            {
-                  "name": "EDSA Shrine",
-                  "text": "EDSA Shrine este un monument faimos din Mandaluyong care comemorează Revoluția Puterii Poporului.",
-                  "category": "historical",
-                  "coords": [
-                        121.058769,
-                        14.592467
                   ]
             },
             {
@@ -15629,66 +12983,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ronac Art Center",
-                  "text": "Centrul de Artă Ronac găzduiește mai multe galerii și ateliere de artă plastică.",
-                  "category": "cultural",
-                  "coords": [
-                        121.040239,
-                        14.607173
-                  ]
-            },
-            {
-                  "name": "Pineapple Lab",
-                  "text": "Pineapple Lab este un spațiu creativ pentru expoziții de artă și ateliere în Mandaluyong.",
-                  "category": "museum",
-                  "coords": [
-                        121.034529,
-                        14.565221
-                  ]
-            },
-            {
-                  "name": "Makati City Boundary Marker",
-                  "text": "Marcajul de Hotar al orașului Makati marchează granița dintre Makati și Mandaluyong.",
-                  "category": "natural",
-                  "coords": [
-                        121.045467,
-                        14.5675
-                  ]
-            },
-            {
-                  "name": "Trump building",
-                  "text": "Clădirea Trump este un turn impunător din Mandaluyong, numit după Donald Trump.",
-                  "category": "landmark",
-                  "coords": [
-                        121.028264,
-                        14.565477
-                  ]
-            },
-            {
                   "name": "400 busilak st. Barangay barangka drive",
                   "text": "400 busilak st. Barangay barangka drive este o atracție situată în Mandaluyong.",
                   "category": "landmark",
                   "coords": [
                         121.039973,
                         14.574187
-                  ]
-            },
-            {
-                  "name": "Dr. Jose P. Rizal Monument",
-                  "text": "Statuia de bronz a lui José Rizal în piața principală din Mandaluyong.",
-                  "category": "historical",
-                  "coords": [
-                        121.026014,
-                        14.569423
-                  ]
-            },
-            {
-                  "name": "Sultan Kudarat Monument",
-                  "text": "Monumentul sultanului Kudarat, un conducător musulman, într-un sens giratoriu din Mandaluyong.",
-                  "category": "landmark",
-                  "coords": [
-                        121.025909,
-                        14.55802
                   ]
             },
             {
@@ -15701,15 +13001,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santuario de San Jose",
-                  "text": "Santuario de San Jose este o biserică catolică în Mandaluyong.",
-                  "category": "religious",
-                  "coords": [
-                        121.052963,
-                        14.60016
-                  ]
-            },
-            {
                   "name": "Santuario del Santo Cristo",
                   "text": "Santuario del Santo Cristo este o biserică din Mandaluyong, cunoscută pentru adăpostirea imaginii venerate a lui Santo Cristo.",
                   "category": "religious",
@@ -15719,39 +13010,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nuestra Señora de Gracia Parish Church",
-                  "text": "Biserica Parohială Nuestra Señora de Gracia este un lăcaș de cult din Mandaluyong, cunoscut pentru arhitectura sa renascentist-barocă.",
-                  "category": "religious",
-                  "coords": [
-                        121.043249,
-                        14.566169
-                  ]
-            },
-            {
-                  "name": "St. Andrew The Apostle Parish Church",
-                  "text": "Biserica Parohială Sfântul Apostol Andrei este un lăcaș de cult modern din Mandaluyong, recunoscut pentru structura sa distinctivă asemănătoare unui cort.",
-                  "category": "religious",
-                  "coords": [
-                        121.023719,
-                        14.566057
-                  ]
-            },
-            {
                   "name": "Ocean Sky Chan Monastery",
                   "text": "Mănăstirea Ocean Sky Chan din Mandaluyong este un templu budist chinezesc cu o statuie mare a zeiței Guanyin.",
                   "category": "religious",
                   "coords": [
                         121.038182,
                         14.597968
-                  ]
-            },
-            {
-                  "name": "Saints Peter and Paul Parish Church",
-                  "text": "Saints Peter and Paul Parish Church este o biserică catolică în Mandaluyong.",
-                  "category": "religious",
-                  "coords": [
-                        121.03137,
-                        14.565913
                   ]
             },
             {
@@ -15783,24 +13047,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Museo ng Makati",
-                  "text": "Museo ng Makati in Mandaluyong, a satellite museum of the Makati Museum with rotating exhibits.",
-                  "category": "museum",
-                  "coords": [
-                        121.032877,
-                        14.567348
-                  ]
-            },
-            {
-                  "name": "Music Museum",
-                  "text": "Music Museum is a museum showcasing musical instruments and performance history.",
-                  "category": "cultural",
-                  "coords": [
-                        121.05109,
-                        14.602505
-                  ]
-            },
             {
                   "name": "Samsung Performing Arts Theatre",
                   "text": "Samsung Performing Arts Theatre is a modern venue for concerts and theater.",
@@ -15883,15 +13129,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo ni Apolinario Mabini – PUP",
-                  "text": "Museo ni Apolinario Mabini – PUP is dedicated to Philippine national hero Apolinario Mabini.",
-                  "category": "museum",
-                  "coords": [
-                        121.011223,
-                        14.597902
-                  ]
-            },
-            {
                   "name": "Museo Sansó",
                   "text": "Museo Sansó showcases works of Filipino artist Juvenal Sansó.",
                   "category": "museum",
@@ -15907,33 +13144,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         121.031708,
                         14.605227
-                  ]
-            },
-            {
-                  "name": "Salcedo Park",
-                  "text": "Salcedo Park is a public park in Mandaluyong.",
-                  "category": "park",
-                  "coords": [
-                        121.023096,
-                        14.560076
-                  ]
-            },
-            {
-                  "name": "Taguig People's Park",
-                  "text": "Taguig People's Park is a public green space with playgrounds and walkways.",
-                  "category": "park",
-                  "coords": [
-                        121.055637,
-                        14.565278
-                  ]
-            },
-            {
-                  "name": "EDSA Shrine",
-                  "text": "EDSA Shrine is a famous monument in Mandaluyong that commemorates the People Power Revolution.",
-                  "category": "historical",
-                  "coords": [
-                        121.058769,
-                        14.592467
                   ]
             },
             {
@@ -15955,66 +13165,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ronac Art Center",
-                  "text": "Ronac Art Center houses multiple galleries and studios for visual arts.",
-                  "category": "cultural",
-                  "coords": [
-                        121.040239,
-                        14.607173
-                  ]
-            },
-            {
-                  "name": "Pineapple Lab",
-                  "text": "Pineapple Lab is a creative space for art exhibitions and workshops in Mandaluyong.",
-                  "category": "museum",
-                  "coords": [
-                        121.034529,
-                        14.565221
-                  ]
-            },
-            {
-                  "name": "Makati City Boundary Marker",
-                  "text": "Makati City Boundary Marker marks the border between Makati and Mandaluyong.",
-                  "category": "natural",
-                  "coords": [
-                        121.045467,
-                        14.5675
-                  ]
-            },
-            {
-                  "name": "Trump building",
-                  "text": "Trump Building is a prominent high-rise in Mandaluyong named after Donald Trump.",
-                  "category": "landmark",
-                  "coords": [
-                        121.028264,
-                        14.565477
-                  ]
-            },
-            {
                   "name": "400 busilak st. Barangay barangka drive",
                   "text": "400 busilak st. Barangay barangka drive is a specific attraction found in Mandaluyong.",
                   "category": "landmark",
                   "coords": [
                         121.039973,
                         14.574187
-                  ]
-            },
-            {
-                  "name": "Dr. Jose P. Rizal Monument",
-                  "text": "Bronze statue of Dr. José Rizal at Mandaluyong's main plaza.",
-                  "category": "historical",
-                  "coords": [
-                        121.026014,
-                        14.569423
-                  ]
-            },
-            {
-                  "name": "Sultan Kudarat Monument",
-                  "text": "Monument to Sultan Kudarat, a Muslim ruler, at a roundabout in Mandaluyong.",
-                  "category": "landmark",
-                  "coords": [
-                        121.025909,
-                        14.55802
                   ]
             },
             {
@@ -16027,15 +13183,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Santuario de San Jose",
-                  "text": "Santuario de San Jose is a Catholic church in Mandaluyong.",
-                  "category": "religious",
-                  "coords": [
-                        121.052963,
-                        14.60016
-                  ]
-            },
-            {
                   "name": "Santuario del Santo Cristo",
                   "text": "Santuario del Santo Cristo is a church in Mandaluyong, known for housing the revered image of Santo Cristo.",
                   "category": "religious",
@@ -16045,39 +13192,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nuestra Señora de Gracia Parish Church",
-                  "text": "Nuestra Señora de Gracia Parish Church is a place of worship in Mandaluyong known for its Renaissance-Baroque architecture.",
-                  "category": "religious",
-                  "coords": [
-                        121.043249,
-                        14.566169
-                  ]
-            },
-            {
-                  "name": "St. Andrew The Apostle Parish Church",
-                  "text": "St. Andrew The Apostle Parish Church is a modern place of worship in Mandaluyong, recognized for its distinctive tent-like structure.",
-                  "category": "religious",
-                  "coords": [
-                        121.023719,
-                        14.566057
-                  ]
-            },
-            {
                   "name": "Ocean Sky Chan Monastery",
                   "text": "Ocean Sky Chan Monastery in Mandaluyong, a Chinese Buddhist temple with a large statue of Guanyin.",
                   "category": "religious",
                   "coords": [
                         121.038182,
                         14.597968
-                  ]
-            },
-            {
-                  "name": "Saints Peter and Paul Parish Church",
-                  "text": "Saints Peter and Paul Parish Church is a Catholic church in Mandaluyong.",
-                  "category": "religious",
-                  "coords": [
-                        121.03137,
-                        14.565913
                   ]
             },
             {
@@ -16180,15 +13300,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                         120.941066,
                         14.680288
                   ]
-            },
-            {
-                  "name": "Caloocan Cathedral",
-                  "text": "Caloocan Cathedral ist eine römisch-katholische Kathedrale in Malabon.",
-                  "category": "religious",
-                  "coords": [
-                        120.972828,
-                        14.651682
-                  ]
             }
       ],
       "hu": [
@@ -16217,15 +13328,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.941066,
                         14.680288
-                  ]
-            },
-            {
-                  "name": "Caloocan Cathedral",
-                  "text": "Caloocan Cathedral egy római katolikus székesegyház Malabonban.",
-                  "category": "religious",
-                  "coords": [
-                        120.972828,
-                        14.651682
                   ]
             }
       ],
@@ -16256,15 +13358,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                         120.941066,
                         14.680288
                   ]
-            },
-            {
-                  "name": "Caloocan Cathedral",
-                  "text": "Caloocan Cathedral este o catedrală romano-catolică în Malabon.",
-                  "category": "religious",
-                  "coords": [
-                        120.972828,
-                        14.651682
-                  ]
             }
       ],
       "en": [
@@ -16293,15 +13386,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.941066,
                         14.680288
-                  ]
-            },
-            {
-                  "name": "Caloocan Cathedral",
-                  "text": "Caloocan Cathedral is a Roman Catholic cathedral in Malabon.",
-                  "category": "religious",
-                  "coords": [
-                        120.972828,
-                        14.651682
                   ]
             }
       ]
@@ -16352,33 +13436,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "ph-mandaue-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Opon Lighthouse",
-                  "text": "Opon-Leuchtturm in Mandaue, eröffnet im August 1998.",
-                  "category": "landmark",
-                  "coords": [
-                        123.947962,
-                        10.313517
-                  ]
-            },
-            {
-                  "name": "LCT Star II",
-                  "text": "Ehemaliges Landungsboot, jetzt als Touristenattraktion in Mandaue.",
-                  "category": "landmark",
-                  "coords": [
-                        123.930991,
-                        10.312964
-                  ]
-            },
-            {
-                  "name": "Chabad of cebu",
-                  "text": "Jüdisches Gemeindezentrum und Synagoge, das der jüdischen Gemeinde in Cebu dient.",
-                  "category": "landmark",
-                  "coords": [
-                        123.912048,
-                        10.323362
-                  ]
-            },
-            {
                   "name": "capex",
                   "text": "Geschäftsgebäude als Wahrzeichen im Geschäftsviertel von Mandaue.",
                   "category": "landmark",
@@ -16407,33 +13464,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Opon Lighthouse",
-                  "text": "Opon világítótorony Mandaue-ben, 1998 augusztusában nyílt meg.",
-                  "category": "landmark",
-                  "coords": [
-                        123.947962,
-                        10.313517
-                  ]
-            },
-            {
-                  "name": "LCT Star II",
-                  "text": "Egykori partraszálló hajó, ma turisztikai látványosság Mandaue-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        123.930991,
-                        10.312964
-                  ]
-            },
-            {
-                  "name": "Chabad of cebu",
-                  "text": "Zsidó közösségi központ és zsinagóga, amely a cebui zsidó közösséget szolgálja.",
-                  "category": "landmark",
-                  "coords": [
-                        123.912048,
-                        10.323362
-                  ]
-            },
             {
                   "name": "capex",
                   "text": "Üzleti épület, nevezetesség Mandaue üzleti negyedében.",
@@ -16464,33 +13494,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Opon Lighthouse",
-                  "text": "Farul Opon din Mandaue, deschis în august 1998.",
-                  "category": "landmark",
-                  "coords": [
-                        123.947962,
-                        10.313517
-                  ]
-            },
-            {
-                  "name": "LCT Star II",
-                  "text": "Fostă navă de debarcare, acum atracție turistică în Mandaue.",
-                  "category": "landmark",
-                  "coords": [
-                        123.930991,
-                        10.312964
-                  ]
-            },
-            {
-                  "name": "Chabad of cebu",
-                  "text": "Centru comunitar evreiesc și sinagogă, care deservește comunitatea evreiască din Cebu.",
-                  "category": "landmark",
-                  "coords": [
-                        123.912048,
-                        10.323362
-                  ]
-            },
-            {
                   "name": "capex",
                   "text": "Clădire comercială, un reper în cartierul de afaceri din Mandaue.",
                   "category": "landmark",
@@ -16519,33 +13522,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Opon Lighthouse",
-                  "text": "Opon Lighthouse in Mandaue, opened in August 1998.",
-                  "category": "landmark",
-                  "coords": [
-                        123.947962,
-                        10.313517
-                  ]
-            },
-            {
-                  "name": "LCT Star II",
-                  "text": "A former landing craft tank now used as a tourist landmark in Mandaue.",
-                  "category": "landmark",
-                  "coords": [
-                        123.930991,
-                        10.312964
-                  ]
-            },
-            {
-                  "name": "Chabad of cebu",
-                  "text": "Jewish community center and synagogue serving the Jewish community of Cebu.",
-                  "category": "landmark",
-                  "coords": [
-                        123.912048,
-                        10.323362
-                  ]
-            },
             {
                   "name": "capex",
                   "text": "A commercial building landmark in Mandaue's business district.",
@@ -16621,15 +13597,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     id: "ph-baguio-cities-v2", "sights": {
       "de": [
             {
-                  "name": "General Emilio Aguinaldo Museum",
-                  "text": "Das General Emilio Aguinaldo Museum in Baguio widmet sich der Erhaltung von Erinnerungsstücken des ersten philippinischen Präsidenten.",
-                  "category": "museum",
-                  "coords": [
-                        120.600904,
-                        16.412177
-                  ]
-            },
-            {
                   "name": "Baguio Botanical Garden",
                   "text": "Terrassierter botanischer Garten mit einheimischen und exotischen Pflanzen in den pinienbewaldeten Hügeln von Baguio.",
                   "category": "family",
@@ -16675,30 +13642,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Kordilyera",
-                  "text": "Museum über die indigenen Kulturen und die Geschichte der Cordillera-Region.",
-                  "category": "museum",
-                  "coords": [
-                        120.597777,
-                        16.40576
-                  ]
-            },
-            {
                   "name": "Arko Ni Apo Art Gallery",
                   "text": "Galerie für religiöse und zeitgenössische Kunst lokaler Künstler.",
                   "category": "museum",
                   "coords": [
                         120.576219,
                         16.429809
-                  ]
-            },
-            {
-                  "name": "Baguio Museum",
-                  "text": "Museum mit historischen und kulturellen Artefakten von Baguio von der Vorkolonialzeit bis zur Moderne.",
-                  "category": "museum",
-                  "coords": [
-                        120.598431,
-                        16.407022
                   ]
             },
             {
@@ -16720,15 +13669,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mount Mirador",
-                  "text": "Mount Mirador ist ein Berg mit Aussicht auf Baguio.",
-                  "category": "natural",
-                  "coords": [
-                        120.580451,
-                        16.409349
-                  ]
-            },
-            {
                   "name": "Colors of Stobosa",
                   "text": "Colors of Stobosa ist ein Aussichtspunkt in Baguio, der ein farbenfrohes Gemeinschaftskunstwerk über mehrere Häuser am Hang zeigt.",
                   "category": "natural",
@@ -16744,15 +13684,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.598529,
                         16.412732
-                  ]
-            },
-            {
-                  "name": "Session Road",
-                  "text": "Die Session Road ist eine Hauptattraktion in Baguio und fungiert als Hauptverkehrsader und Handelszentrum der Stadt.",
-                  "category": "landmark",
-                  "coords": [
-                        120.597193,
-                        16.412535
                   ]
             },
             {
@@ -16837,15 +13768,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Narda's Arts and Crafts",
-                  "text": "Geschäft mit handgewebten Igorot-Stoffen, Silberwaren und indigenem Kunsthandwerk.",
-                  "category": "cultural",
-                  "coords": [
-                        120.601648,
-                        16.406035
-                  ]
-            },
-            {
                   "name": "Cathedral of the Resurrection",
                   "text": "Die wichtigste katholische Kathedrale von Baguio, bekannt für ihre moderne Architektur und ihr Rosettenfenster.",
                   "category": "landmark",
@@ -16873,15 +13795,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baguio City Hall",
-                  "text": "Baguio City Hall wurde im Mai 1950 fertiggestellt.",
-                  "category": "landmark",
-                  "coords": [
-                        120.591347,
-                        16.41381
-                  ]
-            },
-            {
                   "name": "Burnham Park",
                   "text": "Der Burnham Park ist ein bekannter historischer Park in Baguio, der für seinen zentralen künstlichen See bekannt ist.",
                   "category": "landmark",
@@ -16892,15 +13805,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "General Emilio Aguinaldo Museum",
-                  "text": "A baguiói General Emilio Aguinaldo Múzeum az első fülöp-szigeteki elnök emléktárgyainak megőrzésére szolgál.",
-                  "category": "museum",
-                  "coords": [
-                        120.600904,
-                        16.412177
-                  ]
-            },
             {
                   "name": "Baguio Botanical Garden",
                   "text": "Teraszos botanikus kert őshonos és egzotikus növényekkel Baguio fenyves dombjain.",
@@ -16947,30 +13851,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Kordilyera",
-                  "text": "Múzeum a Cordillera régió őslakos kultúráiról és történelméről.",
-                  "category": "museum",
-                  "coords": [
-                        120.597777,
-                        16.40576
-                  ]
-            },
-            {
                   "name": "Arko Ni Apo Art Gallery",
                   "text": "Galéria helyi művészek vallási és kortárs művészetének.",
                   "category": "museum",
                   "coords": [
                         120.576219,
                         16.429809
-                  ]
-            },
-            {
-                  "name": "Baguio Museum",
-                  "text": "Múzeum Baguio történelmi és kulturális tárgyaival a gyarmatosítás előtti időktől a modern korig.",
-                  "category": "museum",
-                  "coords": [
-                        120.598431,
-                        16.407022
                   ]
             },
             {
@@ -16992,15 +13878,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mount Mirador",
-                  "text": "Mount Mirador egy hegy, ahonnan kilátás nyílik Baguiora.",
-                  "category": "natural",
-                  "coords": [
-                        120.580451,
-                        16.409349
-                  ]
-            },
-            {
                   "name": "Colors of Stobosa",
                   "text": "A Colors of Stobosa egy kilátópont Baguióban, amely egy hegyoldali házakra festett hatalmas közösségi műalkotást mutat be.",
                   "category": "natural",
@@ -17016,15 +13893,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.598529,
                         16.412732
-                  ]
-            },
-            {
-                  "name": "Session Road",
-                  "text": "A Session Road Baguio egyik fő látványossága, amely a város fő útvonalaként és kereskedelmi központjaként működik.",
-                  "category": "landmark",
-                  "coords": [
-                        120.597193,
-                        16.412535
                   ]
             },
             {
@@ -17109,15 +13977,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Narda's Arts and Crafts",
-                  "text": "Üzlet, ahol kézzel szőtt igorot szöveteket, ezüst tárgyakat és őslakos kézműves termékeket árulnak.",
-                  "category": "cultural",
-                  "coords": [
-                        120.601648,
-                        16.406035
-                  ]
-            },
-            {
                   "name": "Cathedral of the Resurrection",
                   "text": "Baguio fő katolikus székesegyháza, híres modern építészetéről és rózsaablakáról.",
                   "category": "landmark",
@@ -17145,15 +14004,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baguio City Hall",
-                  "text": "A Baguio City Hall építése 1950 májusában fejeződött be.",
-                  "category": "landmark",
-                  "coords": [
-                        120.591347,
-                        16.41381
-                  ]
-            },
-            {
                   "name": "Burnham Park",
                   "text": "A Burnham Park egy híres örökségvédelmi park Baguio városában, amely központi mesterséges taváról ismert.",
                   "category": "landmark",
@@ -17164,15 +14014,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "General Emilio Aguinaldo Museum",
-                  "text": "Muzeul General Emilio Aguinaldo din Baguio este dedicat conservării suvenirurilor primului președinte filipinez.",
-                  "category": "museum",
-                  "coords": [
-                        120.600904,
-                        16.412177
-                  ]
-            },
             {
                   "name": "Baguio Botanical Garden",
                   "text": "Grădină botanică terasată cu plante native și exotice în dealurile acoperite de pini din Baguio.",
@@ -17219,30 +14060,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Kordilyera",
-                  "text": "Muzeu despre culturile indigene și istoria regiunii Cordillera.",
-                  "category": "museum",
-                  "coords": [
-                        120.597777,
-                        16.40576
-                  ]
-            },
-            {
                   "name": "Arko Ni Apo Art Gallery",
                   "text": "Galerie de artă religioasă și contemporană a artiștilor locali.",
                   "category": "museum",
                   "coords": [
                         120.576219,
                         16.429809
-                  ]
-            },
-            {
-                  "name": "Baguio Museum",
-                  "text": "Muzeu cu artefacte istorice și culturale din Baguio, din perioada precolonială până în modern.",
-                  "category": "museum",
-                  "coords": [
-                        120.598431,
-                        16.407022
                   ]
             },
             {
@@ -17264,15 +14087,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mount Mirador",
-                  "text": "Mount Mirador este un munte cu vedere asupra orașului Baguio.",
-                  "category": "natural",
-                  "coords": [
-                        120.580451,
-                        16.409349
-                  ]
-            },
-            {
                   "name": "Colors of Stobosa",
                   "text": "Colors of Stobosa este un punct de belvedere vibrant din Baguio, care prezintă o lucrare de artă comunitară masivă pictată pe casele de pe deal.",
                   "category": "natural",
@@ -17288,15 +14102,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.598529,
                         16.412732
-                  ]
-            },
-            {
-                  "name": "Session Road",
-                  "text": "Session Road este o atracție majoră în Baguio, funcționând ca arteră principală și centru comercial al orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        120.597193,
-                        16.412535
                   ]
             },
             {
@@ -17381,15 +14186,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Narda's Arts and Crafts",
-                  "text": "Magazin care vinde țesături igorot lucrate manual, argintărie și meșteșuguri indigene.",
-                  "category": "cultural",
-                  "coords": [
-                        120.601648,
-                        16.406035
-                  ]
-            },
-            {
                   "name": "Cathedral of the Resurrection",
                   "text": "Catedrala catolică principală a orașului Baguio, cunoscută pentru arhitectura modernistă și rozeta sa.",
                   "category": "landmark",
@@ -17417,15 +14213,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baguio City Hall",
-                  "text": "Baguio City Hall a fost finalizat în mai 1950.",
-                  "category": "landmark",
-                  "coords": [
-                        120.591347,
-                        16.41381
-                  ]
-            },
-            {
                   "name": "Burnham Park",
                   "text": "Burnham Park este un parc de patrimoniu renumit din Baguio, cunoscut pentru lacul său central artificial.",
                   "category": "landmark",
@@ -17436,15 +14223,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "General Emilio Aguinaldo Museum",
-                  "text": "The General Emilio Aguinaldo Museum in Baguio is dedicated to preserving memorabilia of the first Philippine president.",
-                  "category": "museum",
-                  "coords": [
-                        120.600904,
-                        16.412177
-                  ]
-            },
             {
                   "name": "Baguio Botanical Garden",
                   "text": "Terraced botanical garden with native and exotic plants in Baguio's pine-covered hills.",
@@ -17491,30 +14269,12 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Kordilyera",
-                  "text": "Exhibits on the indigenous cultures and history of the Cordillera mountain region.",
-                  "category": "museum",
-                  "coords": [
-                        120.597777,
-                        16.40576
-                  ]
-            },
-            {
                   "name": "Arko Ni Apo Art Gallery",
                   "text": "Gallery displaying religious and contemporary art by local artists.",
                   "category": "museum",
                   "coords": [
                         120.576219,
                         16.429809
-                  ]
-            },
-            {
-                  "name": "Baguio Museum",
-                  "text": "Houses historical and cultural artifacts of Baguio City from pre-colonial to modern times.",
-                  "category": "museum",
-                  "coords": [
-                        120.598431,
-                        16.407022
                   ]
             },
             {
@@ -17536,15 +14296,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mount Mirador",
-                  "text": "Mount Mirador is a mountain with a view of Baguio.",
-                  "category": "natural",
-                  "coords": [
-                        120.580451,
-                        16.409349
-                  ]
-            },
-            {
                   "name": "Colors of Stobosa",
                   "text": "Colors of Stobosa is a vibrant viewpoint in Baguio featuring a massive community artwork painted across hillside houses.",
                   "category": "natural",
@@ -17560,15 +14311,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.598529,
                         16.412732
-                  ]
-            },
-            {
-                  "name": "Session Road",
-                  "text": "Session Road is a major attraction in Baguio, functioning as the city's main thoroughfare and commercial center.",
-                  "category": "landmark",
-                  "coords": [
-                        120.597193,
-                        16.412535
                   ]
             },
             {
@@ -17653,15 +14395,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Narda's Arts and Crafts",
-                  "text": "A shop selling handmade Igorot weaves, silverware, and indigenous crafts.",
-                  "category": "cultural",
-                  "coords": [
-                        120.601648,
-                        16.406035
-                  ]
-            },
-            {
                   "name": "Cathedral of the Resurrection",
                   "text": "The main Catholic cathedral of Baguio, known for its modernist architecture and rose window.",
                   "category": "landmark",
@@ -17686,15 +14419,6 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
                   "coords": [
                         120.600763,
                         16.409088
-                  ]
-            },
-            {
-                  "name": "Baguio City Hall",
-                  "text": "Baguio City Hall was completed in May 1950.",
-                  "category": "landmark",
-                  "coords": [
-                        120.591347,
-                        16.41381
                   ]
             },
             {

@@ -528,24 +528,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     id: "sumela-monastery-history-v2", "sights": {
       "de": [
             {
-                  "name": "Kloster Sumela",
-                  "text": "Ein spektakulär an einer Felswand gelegenes griechisch-orthodoxes Kloster aus dem 4. Jahrhundert.",
-                  "category": "religious",
-                  "coords": [
-                        39.658374,
-                        40.6901
-                  ]
-            },
-            {
-                  "name": "Altındere Vadisi Millî Parkı",
-                  "text": "Ein Nationalpark in den Pontischen Alpen, der das Sümela-Kloster und dichte Nadelwälder umfasst.",
-                  "category": "natural",
-                  "coords": [
-                        39.653247,
-                        40.701775
-                  ]
-            },
-            {
                   "name": "Aya Varvara Kilisesi",
                   "text": "Eine kleine Kapelle am Pfad zum Sümela-Kloster, die für ihre Fresken bekannt ist.",
                   "category": "religious",
@@ -556,24 +538,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Sümela Manastırı",
-                  "text": "Sziklafalba épített, látványos görögkatolikus kolostor, amely a 4. századból származik.",
-                  "category": "religious",
-                  "coords": [
-                        39.658374,
-                        40.6901
-                  ]
-            },
-            {
-                  "name": "Altındere Vadisi Millî Parkı",
-                  "text": "A Pontuszi-hegységben található nemzeti park, amely magában foglalja a Sümela-kolostort és a sűrű fenyőerdőket.",
-                  "category": "natural",
-                  "coords": [
-                        39.653247,
-                        40.701775
-                  ]
-            },
             {
                   "name": "Aya Varvara Kilisesi",
                   "text": "Kicsi kápolna a Sümela-kolostorhoz vezető úton, amely freskóiról ismert.",
@@ -586,24 +550,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Sümela Manastırı",
-                  "text": "O mănăstire ortodoxă greacă din secolul al IV-lea, situată spectaculos pe o stâncă.",
-                  "category": "religious",
-                  "coords": [
-                        39.658374,
-                        40.6901
-                  ]
-            },
-            {
-                  "name": "Altındere Vadisi Millî Parkı",
-                  "text": "Un parc național în Alpii Pontici, care cuprinde mănăstirea Sümela și păduri dese de conifere.",
-                  "category": "natural",
-                  "coords": [
-                        39.653247,
-                        40.701775
-                  ]
-            },
-            {
                   "name": "Aya Varvara Kilisesi",
                   "text": "O mică capelă pe poteca spre mănăstirea Sümela, cunoscută pentru frescele sale.",
                   "category": "religious",
@@ -614,24 +560,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Sümela Monastery",
-                  "text": "A spectacular 4th-century Greek Orthodox monastery built into a cliff face.",
-                  "category": "religious",
-                  "coords": [
-                        39.658374,
-                        40.6901
-                  ]
-            },
-            {
-                  "name": "Altındere Valley National Park",
-                  "text": "A national park in the Pontic Mountains, encompassing the Sümela Monastery and dense coniferous forests.",
-                  "category": "natural",
-                  "coords": [
-                        39.653247,
-                        40.701775
-                  ]
-            },
             {
                   "name": "Aya Varvara Kilisesi",
                   "text": "A small chapel on the path to Sümela Monastery, known for its frescoes.",
@@ -2022,24 +1950,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     id: "aspendos-history-v2", "sights": {
       "de": [
             {
-                  "name": "Theater",
-                  "text": "Ein außergewöhnlich gut erhaltenes antikes römisches Theater in Aspendos.",
-                  "category": "cultural",
-                  "coords": [
-                        31.172229,
-                        36.938971
-                  ]
-            },
-            {
-                  "name": "Aspendos",
-                  "text": "Eine bedeutende griechisch-römische archäologische Stätte, bekannt für ihre monumentalen Ruinen.",
-                  "category": "historical",
-                  "coords": [
-                        31.169658,
-                        36.94036
-                  ]
-            },
-            {
                   "name": "Gloria Aspendos Arena",
                   "text": "Ein modernes Theater und Veranstaltungsort in der Nähe der antiken Stadt Aspendos.",
                   "category": "cultural",
@@ -2047,54 +1957,9 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
                         31.166902,
                         36.932174
                   ]
-            },
-            {
-                  "name": "Cistern",
-                  "text": "Die Überreste einer antiken Wasserzisterne in der archäologischen Stätte von Aspendos.",
-                  "category": "historical",
-                  "coords": [
-                        31.169273,
-                        36.94326
-                  ]
-            },
-            {
-                  "name": "Akropolis",
-                  "text": "Die hochgelegene Akropolis der antiken Stadt Aspendos.",
-                  "category": "landmark",
-                  "coords": [
-                        31.170577,
-                        36.941283
-                  ]
-            },
-            {
-                  "name": "Aquaeduct",
-                  "text": "Beeindruckende Ruinen des römischen Aquädukts, das die Stadt Aspendos versorgte.",
-                  "category": "historical",
-                  "coords": [
-                        31.167529,
-                        36.94832
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Aspendos Amfi Tiyatrosu",
-                  "text": "Rendkívül jó állapotban fennmaradt ókori római színház Aspendosban.",
-                  "category": "cultural",
-                  "coords": [
-                        31.172229,
-                        36.938971
-                  ]
-            },
-            {
-                  "name": "Aspendos",
-                  "text": "Jelentős görög-római régészeti lelőhely, amely monumentális romjairól ismert.",
-                  "category": "historical",
-                  "coords": [
-                        31.169658,
-                        36.94036
-                  ]
-            },
             {
                   "name": "Gloria Aspendos Arena",
                   "text": "Modern színház és rendezvényhelyszín az ókori Aspendos közelében.",
@@ -2103,54 +1968,9 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
                         31.166902,
                         36.932174
                   ]
-            },
-            {
-                  "name": "Cistern",
-                  "text": "Egy ókori víztározó maradványai Aspendos régészeti lelőhelyén.",
-                  "category": "historical",
-                  "coords": [
-                        31.169273,
-                        36.94326
-                  ]
-            },
-            {
-                  "name": "Akropolis",
-                  "text": "Az ókori Aspendos városának magasan fekvő akropolisza.",
-                  "category": "landmark",
-                  "coords": [
-                        31.170577,
-                        36.941283
-                  ]
-            },
-            {
-                  "name": "Su kemeri",
-                  "text": "Az Aspendost vízzel ellátó római vízvezeték lenyűgöző romjai.",
-                  "category": "historical",
-                  "coords": [
-                        31.167529,
-                        36.94832
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Aspendos Amfi Tiyatrosu",
-                  "text": "Un teatru roman antic excepțional de bine conservat în Aspendos.",
-                  "category": "cultural",
-                  "coords": [
-                        31.172229,
-                        36.938971
-                  ]
-            },
-            {
-                  "name": "Aspendos",
-                  "text": "Un sit arheologic greco-roman important, cunoscut pentru ruinele sale monumentale.",
-                  "category": "historical",
-                  "coords": [
-                        31.169658,
-                        36.94036
-                  ]
-            },
             {
                   "name": "Gloria Aspendos Arena",
                   "text": "Un teatru modern și un loc de spectacole situat lângă orașul antic Aspendos.",
@@ -2159,54 +1979,9 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
                         31.166902,
                         36.932174
                   ]
-            },
-            {
-                  "name": "Cistern",
-                  "text": "Rămășițele unei cisterne de apă antice în situl arheologic din Aspendos.",
-                  "category": "historical",
-                  "coords": [
-                        31.169273,
-                        36.94326
-                  ]
-            },
-            {
-                  "name": "Akropolis",
-                  "text": "Acropola situată pe înălțimi a orașului antic Aspendos.",
-                  "category": "landmark",
-                  "coords": [
-                        31.170577,
-                        36.941283
-                  ]
-            },
-            {
-                  "name": "Su kemeri",
-                  "text": "Ruine impresionante ale apeductului roman care alimenta orașul Aspendos.",
-                  "category": "historical",
-                  "coords": [
-                        31.167529,
-                        36.94832
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Theatre",
-                  "text": "An exceptionally well-preserved ancient Roman theatre in Aspendos.",
-                  "category": "cultural",
-                  "coords": [
-                        31.172229,
-                        36.938971
-                  ]
-            },
-            {
-                  "name": "Aspendos",
-                  "text": "A significant Greco-Roman archaeological site known for its monumental ruins.",
-                  "category": "historical",
-                  "coords": [
-                        31.169658,
-                        36.94036
-                  ]
-            },
             {
                   "name": "Gloria Aspendos Arena",
                   "text": "A modern theatre and performance venue located near the ancient city of Aspendos.",
@@ -2214,33 +1989,6 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
                   "coords": [
                         31.166902,
                         36.932174
-                  ]
-            },
-            {
-                  "name": "Cistern",
-                  "text": "The remains of an ancient water cistern within the archaeological site of Aspendos.",
-                  "category": "historical",
-                  "coords": [
-                        31.169273,
-                        36.94326
-                  ]
-            },
-            {
-                  "name": "Akropolis",
-                  "text": "The elevated acropolis of the ancient city of Aspendos.",
-                  "category": "landmark",
-                  "coords": [
-                        31.170577,
-                        36.941283
-                  ]
-            },
-            {
-                  "name": "Aqueduct",
-                  "text": "Impressive ruins of the Roman aqueduct that supplied the city of Aspendos.",
-                  "category": "historical",
-                  "coords": [
-                        31.167529,
-                        36.94832
                   ]
             }
       ]

@@ -99,24 +99,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
     id: "rades-stade-olympique-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "I ❤ HAMMAM LIF",
-                  "text": "Das I ❤ HAMMAM LIF Denkmal ist ein beliebtes Fotomotiv und Wahrzeichen in der Nähe von Radès.",
-                  "category": "historical",
-                  "coords": [
-                        10.323478,
-                        36.732677
-                  ]
-            },
-            {
-                  "name": "Église De Maxula-Rades",
-                  "text": "Die Église De Maxula-Rades ist ein ehemaliges christliches Gotteshaus aus der Kolonialzeit in Radès.",
-                  "category": "religious",
-                  "coords": [
-                        10.275551,
-                        36.768027
-                  ]
-            },
-            {
                   "name": "Théâtre Municipal d'Ezzahra",
                   "text": "Das Théâtre Municipal d'Ezzahra ist ein lokales Theater, das kulturelle Veranstaltungen in der Nähe von Radès bietet.",
                   "category": "cultural",
@@ -127,24 +109,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "I ❤ HAMMAM LIF",
-                  "text": "Az I ❤ HAMMAM LIF emlékmű egy népszerű fotós helyszín és tájékozódási pont Radès közelében.",
-                  "category": "historical",
-                  "coords": [
-                        10.323478,
-                        36.732677
-                  ]
-            },
-            {
-                  "name": "Église De Maxula-Rades",
-                  "text": "Az Église De Maxula-Rades egy gyarmati korszakból származó egykori keresztény templom Radèsben.",
-                  "category": "religious",
-                  "coords": [
-                        10.275551,
-                        36.768027
-                  ]
-            },
             {
                   "name": "Théâtre Municipal d'Ezzahra",
                   "text": "A Théâtre Municipal d'Ezzahra egy helyi színház, amely kulturális eseményeknek ad otthont Radès közelében.",
@@ -157,24 +121,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "I ❤ HAMMAM LIF",
-                  "text": "Monumentul I ❤ HAMMAM LIF este un punct de reper și un loc popular pentru fotografii lângă Radès.",
-                  "category": "historical",
-                  "coords": [
-                        10.323478,
-                        36.732677
-                  ]
-            },
-            {
-                  "name": "Église De Maxula-Rades",
-                  "text": "Église De Maxula-Rades este o fostă biserică creștină din epoca colonială, situată în Radès.",
-                  "category": "religious",
-                  "coords": [
-                        10.275551,
-                        36.768027
-                  ]
-            },
-            {
                   "name": "Théâtre Municipal d'Ezzahra",
                   "text": "Théâtre Municipal d'Ezzahra este un teatru local care oferă evenimente culturale în apropiere de Radès.",
                   "category": "cultural",
@@ -185,24 +131,6 @@ export const poiExtraTunisiaLandmarksV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "I ❤ HAMMAM LIF",
-                  "text": "The I ❤ HAMMAM LIF monument is a popular photo spot and local landmark near Radès.",
-                  "category": "historical",
-                  "coords": [
-                        10.323478,
-                        36.732677
-                  ]
-            },
-            {
-                  "name": "Église De Maxula-Rades",
-                  "text": "The Église De Maxula-Rades is a colonial-era former Christian church located in Radès.",
-                  "category": "religious",
-                  "coords": [
-                        10.275551,
-                        36.768027
-                  ]
-            },
             {
                   "name": "Théâtre Municipal d'Ezzahra",
                   "text": "The Théâtre Municipal d'Ezzahra is a local theatre hosting cultural events near Radès.",

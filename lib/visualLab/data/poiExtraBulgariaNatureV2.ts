@@ -465,39 +465,12 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "amphitheater Kamchia",
-                  "text": "Ein Freilichttheater für kulturelle Aufführungen am Fluss Kamtschia.",
-                  "category": "cultural",
-                  "coords": [
-                        27.886918,
-                        43.02698
-                  ]
-            },
-            {
                   "name": "Rezervat Kamchiia",
                   "text": "Ein UNESCO-Biosphärenreservat, das den Auwald am Fluss schützt.",
                   "category": "natural",
                   "coords": [
                         27.867258,
                         43.009306
-                  ]
-            },
-            {
-                  "name": "Kamchiia",
-                  "text": "Ein breiter Sandstrand an der Mündung des Flusses Kamtschia.",
-                  "category": "recreational",
-                  "coords": [
-                        27.888441,
-                        43.031993
-                  ]
-            },
-            {
-                  "name": "Liastovitsa biala klub",
-                  "text": "Club „Weiße Schwalbe” am Fluss Kamtschija.",
-                  "category": "landmark",
-                  "coords": [
-                        27.885681,
-                        43.022272
                   ]
             },
             {
@@ -521,39 +494,12 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "amphitheater Kamchia",
-                  "text": "Szabadtéri színház kulturális előadásokhoz a Kamcsija-folyónál.",
-                  "category": "cultural",
-                  "coords": [
-                        27.886918,
-                        43.02698
-                  ]
-            },
-            {
                   "name": "Rezervat Kamchiia",
                   "text": "UNESCO bioszféra-rezervátum, amely a folyómenti erdőket védi.",
                   "category": "natural",
                   "coords": [
                         27.867258,
                         43.009306
-                  ]
-            },
-            {
-                  "name": "Kamchiia",
-                  "text": "Széles homokos tengerpart a Kamcsija-folyó torkolatánál.",
-                  "category": "recreational",
-                  "coords": [
-                        27.888441,
-                        43.031993
-                  ]
-            },
-            {
-                  "name": "Liastovitsa biala klub",
-                  "text": "„Fehér fecske” klub a Kamchiya folyó mentén.",
-                  "category": "landmark",
-                  "coords": [
-                        27.885681,
-                        43.022272
                   ]
             },
             {
@@ -577,39 +523,12 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "amphitheater Kamchia",
-                  "text": "Un teatru în aer liber pentru spectacole culturale lângă râul Kamchia.",
-                  "category": "cultural",
-                  "coords": [
-                        27.886918,
-                        43.02698
-                  ]
-            },
-            {
                   "name": "Rezervat Kamchiia",
                   "text": "O rezervație a biosferei UNESCO care protejează pădurea inundabilă a râului.",
                   "category": "natural",
                   "coords": [
                         27.867258,
                         43.009306
-                  ]
-            },
-            {
-                  "name": "Kamchiia",
-                  "text": "O plajă largă de nisip situată la gura de vărsare a râului Kamchia.",
-                  "category": "recreational",
-                  "coords": [
-                        27.888441,
-                        43.031993
-                  ]
-            },
-            {
-                  "name": "Liastovitsa biala klub",
-                  "text": "Clubul „Rândunica Albă” pe râul Kamchia.",
-                  "category": "landmark",
-                  "coords": [
-                        27.885681,
-                        43.022272
                   ]
             },
             {
@@ -633,39 +552,12 @@ export const bulgariaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "amphitheater Kamchia",
-                  "text": "An open-air theatre for cultural performances near the Kamchia River.",
-                  "category": "cultural",
-                  "coords": [
-                        27.886918,
-                        43.02698
-                  ]
-            },
-            {
                   "name": "Kamchia Reserve",
                   "text": "A UNESCO biosphere reserve protecting the alluvial forest of the river.",
                   "category": "natural",
                   "coords": [
                         27.867258,
                         43.009306
-                  ]
-            },
-            {
-                  "name": "Kamchia",
-                  "text": "A wide sandy beach located at the mouth of the Kamchia River.",
-                  "category": "recreational",
-                  "coords": [
-                        27.888441,
-                        43.031993
-                  ]
-            },
-            {
-                  "name": "club lastovica byala",
-                  "text": "White Swallow club along the Kamchia River.",
-                  "category": "landmark",
-                  "coords": [
-                        27.885681,
-                        43.022272
                   ]
             },
             {
@@ -1039,194 +931,10 @@ export const bulgariaNatureV2: POI[] = [
   },
   {
     id: "bulgaria-vitosha-peak-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Rezervat Bistrishko branishche",
-                  "text": "Biosphärenreservat im Witoscha-Gebirge, das zum Schutz ursprünglicher Fichtenwälder eingerichtet wurde.",
-                  "category": "natural",
-                  "coords": [
-                        23.309017,
-                        42.562728
-                  ]
-            },
-            {
-                  "name": "Torfeno branishche",
-                  "text": "Streng geschütztes Naturschutzgebiet im Witoscha-Gebirge zur Erhaltung von Hochmooren.",
-                  "category": "natural",
-                  "coords": [
-                        23.267477,
-                        42.582811
-                  ]
-            },
-            {
-                  "name": "Malak Resen",
-                  "text": "Hoher Gipfel im Witoscha-Gebirge mit Panoramablick über die Region.",
-                  "category": "landmark",
-                  "coords": [
-                        23.28869,
-                        42.572735
-                  ]
-            },
-            {
-                  "name": "TT16A",
-                  "text": "Einer der höchsten Gipfel im Witoscha-Massiv, beliebt zum Wandern.",
-                  "category": "landmark",
-                  "coords": [
-                        23.290052,
-                        42.564861
-                  ]
-            },
-            {
-                  "name": "Schwarzer Gipfel",
-                  "text": "Der höchste Punkt des Witoscha-Gebirges mit einer Höhe von 2.290 Metern über dem Meeresspiegel.",
-                  "category": "landmark",
-                  "coords": [
-                        23.279341,
-                        42.563093
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Rezervat Bistrishko branishche",
-                  "text": "Bioszféra-rezervátum a Vitosa-hegységben, amelyet az őshonos fenyőerdők védelmére hoztak létre.",
-                  "category": "natural",
-                  "coords": [
-                        23.309017,
-                        42.562728
-                  ]
-            },
-            {
-                  "name": "Torfeno branishche",
-                  "text": "Szigorúan védett természetvédelmi terület a Vitosa-hegységben, amely a magashegyi tőzeglápokat őrzi.",
-                  "category": "natural",
-                  "coords": [
-                        23.267477,
-                        42.582811
-                  ]
-            },
-            {
-                  "name": "Mal'k Rezen",
-                  "text": "Magas csúcs a Vitosa-hegységben, ahonnan panorámás kilátás nyílik a régióra.",
-                  "category": "landmark",
-                  "coords": [
-                        23.28869,
-                        42.572735
-                  ]
-            },
-            {
-                  "name": "TT16A",
-                  "text": "A Vitosa-masszívum egyik legmagasabb csúcsa, népszerű a túrázók körében.",
-                  "category": "landmark",
-                  "coords": [
-                        23.290052,
-                        42.564861
-                  ]
-            },
-            {
-                  "name": "Cherni vr'kh",
-                  "text": "A Vitosa-hegység legmagasabb pontja, 2290 méteres tengerszint feletti magassággal.",
-                  "category": "landmark",
-                  "coords": [
-                        23.279341,
-                        42.563093
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Rezervat Bistrishko branishche",
-                  "text": "Rezervație a biosferei în Munții Vitoșa, înființată pentru a proteja pădurile primare de molid.",
-                  "category": "natural",
-                  "coords": [
-                        23.309017,
-                        42.562728
-                  ]
-            },
-            {
-                  "name": "Torfeno branishche",
-                  "text": "Rezervație naturală strict protejată în Munții Vitoșa, care conservă turbăriile de altitudine.",
-                  "category": "natural",
-                  "coords": [
-                        23.267477,
-                        42.582811
-                  ]
-            },
-            {
-                  "name": "Mal'k Rezen",
-                  "text": "Vârf înalt în lanțul muntos Vitoșa, oferind vederi panoramice asupra regiunii.",
-                  "category": "landmark",
-                  "coords": [
-                        23.28869,
-                        42.572735
-                  ]
-            },
-            {
-                  "name": "TT16A",
-                  "text": "Unul dintre cele mai înalte vârfuri din masivul Vitoșa, popular pentru drumeții.",
-                  "category": "landmark",
-                  "coords": [
-                        23.290052,
-                        42.564861
-                  ]
-            },
-            {
-                  "name": "Cherni vr'kh",
-                  "text": "Cel mai înalt punct al Muntelui Vitoșa, situat la 2.290 de metri deasupra nivelului mării.",
-                  "category": "landmark",
-                  "coords": [
-                        23.279341,
-                        42.563093
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Bistrishko Branishte Reserve",
-                  "text": "Biosphere reserve on Vitosha Mountain, established to protect primary spruce forests.",
-                  "category": "natural",
-                  "coords": [
-                        23.309017,
-                        42.562728
-                  ]
-            },
-            {
-                  "name": "Torfeno Branishte Reserve",
-                  "text": "Strictly protected nature reserve on Vitosha Mountain, preserving high-altitude peat bogs.",
-                  "category": "natural",
-                  "coords": [
-                        23.267477,
-                        42.582811
-                  ]
-            },
-            {
-                  "name": "Malak Resen",
-                  "text": "High peak in the Vitosha mountain range, offering panoramic views of the region.",
-                  "category": "landmark",
-                  "coords": [
-                        23.28869,
-                        42.572735
-                  ]
-            },
-            {
-                  "name": "Golyam Rezen",
-                  "text": "One of the highest peaks in the Vitosha massif, popular for hiking.",
-                  "category": "landmark",
-                  "coords": [
-                        23.290052,
-                        42.564861
-                  ]
-            },
-            {
-                  "name": "Cherni vrah",
-                  "text": "The highest point of Vitosha Mountain, standing at 2,290 meters above sea level.",
-                  "category": "landmark",
-                  "coords": [
-                        23.279341,
-                        42.563093
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "peak",
     parent: "BG",

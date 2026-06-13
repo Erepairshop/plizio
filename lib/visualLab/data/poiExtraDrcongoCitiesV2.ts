@@ -229,86 +229,10 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
      image: "/poi-images/cd-matadi-cities-v2.webp"},
   {
     id: "cd-boma-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Ehemalige Residenz des Generalgouverneurs",
-                  "text": "Kolonialzeitliche Residenz des Generalgouverneurs in Boma, einstige Hauptstadt Belgisch-Kongos.",
-                  "category": "museum",
-                  "coords": [
-                        13.056713,
-                        -5.854733
-                  ]
-            },
-            {
-                  "name": "Premier Camp Militaire",
-                  "text": "Erstes Militärlager des Kongo-Freistaats in Boma.",
-                  "category": "historical",
-                  "coords": [
-                        13.051517,
-                        -5.85856
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Résidence du Premier Gouverneur Général du Congo",
-                  "text": "Gyarmati kori főkormányzói rezidencia Boma városában, a Belga Kongó egykori fővárosában.",
-                  "category": "museum",
-                  "coords": [
-                        13.056713,
-                        -5.854733
-                  ]
-            },
-            {
-                  "name": "Premier Camp Militaire",
-                  "text": "A Kongói Szabadállam első katonai tábora Boma városában.",
-                  "category": "historical",
-                  "coords": [
-                        13.051517,
-                        -5.85856
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Résidence du Premier Gouverneur Général du Congo",
-                  "text": "Reședință colonială a guvernatorului general în Boma, fostă capitală a Congo-ului belgian.",
-                  "category": "museum",
-                  "coords": [
-                        13.056713,
-                        -5.854733
-                  ]
-            },
-            {
-                  "name": "Premier Camp Militaire",
-                  "text": "Prima tabără militară a Statului Liber Congo din Boma.",
-                  "category": "historical",
-                  "coords": [
-                        13.051517,
-                        -5.85856
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Former residence of the Governor-General",
-                  "text": "Colonial-era residence of the governor-general in Boma, once capital of the Belgian Congo.",
-                  "category": "museum",
-                  "coords": [
-                        13.056713,
-                        -5.854733
-                  ]
-            },
-            {
-                  "name": "Premier Camp Militaire",
-                  "text": "First military camp of the Congo Free State in Boma.",
-                  "category": "historical",
-                  "coords": [
-                        13.051517,
-                        -5.85856
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "CD-BC",
@@ -1779,57 +1703,12 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Galerie GTB",
-                  "text": "Galerie GTB in Butembo mit lokalen Künstlern.",
-                  "category": "museum",
-                  "coords": [
-                        29.293239,
-                        0.136175
-                  ]
-            },
-            {
                   "name": "Metronpez Fondationperuz",
                   "text": "Museum der Metronpez-Stiftung in Butembo.",
                   "category": "museum",
                   "coords": [
                         29.291207,
                         0.13693
-                  ]
-            },
-            {
-                  "name": "Galerie jolie reve",
-                  "text": "Galerie Jolie Rêve in Butembo.",
-                  "category": "museum",
-                  "coords": [
-                        29.292267,
-                        0.137575
-                  ]
-            },
-            {
-                  "name": "Galerie Annuarite",
-                  "text": "Galerie Annuarite in Butembo.",
-                  "category": "museum",
-                  "coords": [
-                        29.291284,
-                        0.134281
-                  ]
-            },
-            {
-                  "name": "Galerie Thengerwako",
-                  "text": "Galerie Thengerwako in Butembo.",
-                  "category": "museum",
-                  "coords": [
-                        29.293882,
-                        0.140596
-                  ]
-            },
-            {
-                  "name": "Galerie Katembo Ngesera",
-                  "text": "Galerie Katembo Ngesera in Butembo.",
-                  "category": "museum",
-                  "coords": [
-                        29.290177,
-                        0.136424
                   ]
             }
       ],
@@ -1853,57 +1732,12 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Galerie GTB",
-                  "text": "GTB művészeti galéria Butemboban, helyi művészekkel.",
-                  "category": "museum",
-                  "coords": [
-                        29.293239,
-                        0.136175
-                  ]
-            },
-            {
                   "name": "Metronpez Fondationperuz",
                   "text": "Metronpez Alapítvány múzeuma Butemboban.",
                   "category": "museum",
                   "coords": [
                         29.291207,
                         0.13693
-                  ]
-            },
-            {
-                  "name": "Galerie jolie reve",
-                  "text": "Jolie Rêve művészeti galéria Butemboban.",
-                  "category": "museum",
-                  "coords": [
-                        29.292267,
-                        0.137575
-                  ]
-            },
-            {
-                  "name": "Galerie Annuarite",
-                  "text": "Annuarite galéria Butemboban.",
-                  "category": "museum",
-                  "coords": [
-                        29.291284,
-                        0.134281
-                  ]
-            },
-            {
-                  "name": "Galerie Thengerwako",
-                  "text": "Thengerwako galéria Butemboban.",
-                  "category": "museum",
-                  "coords": [
-                        29.293882,
-                        0.140596
-                  ]
-            },
-            {
-                  "name": "Galerie Katembo Ngesera",
-                  "text": "Katembo Ngesera galéria Butemboban.",
-                  "category": "museum",
-                  "coords": [
-                        29.290177,
-                        0.136424
                   ]
             }
       ],
@@ -1927,57 +1761,12 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Galerie GTB",
-                  "text": "Galerie GTB din Butembo cu artiști locali.",
-                  "category": "museum",
-                  "coords": [
-                        29.293239,
-                        0.136175
-                  ]
-            },
-            {
                   "name": "Metronpez Fondationperuz",
                   "text": "Muzeul Fundației Metronpez din Butembo.",
                   "category": "museum",
                   "coords": [
                         29.291207,
                         0.13693
-                  ]
-            },
-            {
-                  "name": "Galerie jolie reve",
-                  "text": "Galerie Jolie Rêve din Butembo.",
-                  "category": "museum",
-                  "coords": [
-                        29.292267,
-                        0.137575
-                  ]
-            },
-            {
-                  "name": "Galerie Annuarite",
-                  "text": "Galerie Annuarite din Butembo.",
-                  "category": "museum",
-                  "coords": [
-                        29.291284,
-                        0.134281
-                  ]
-            },
-            {
-                  "name": "Galerie Thengerwako",
-                  "text": "Galerie Thengerwako din Butembo.",
-                  "category": "museum",
-                  "coords": [
-                        29.293882,
-                        0.140596
-                  ]
-            },
-            {
-                  "name": "Galerie Katembo Ngesera",
-                  "text": "Galerie Katembo Ngesera din Butembo.",
-                  "category": "museum",
-                  "coords": [
-                        29.290177,
-                        0.136424
                   ]
             }
       ],
@@ -2001,57 +1790,12 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Galerie GTB",
-                  "text": "GTB art gallery in Butembo featuring local artists.",
-                  "category": "museum",
-                  "coords": [
-                        29.293239,
-                        0.136175
-                  ]
-            },
-            {
                   "name": "Metronpez Fondationperuz",
                   "text": "Metronpez Foundation museum in Butembo.",
                   "category": "museum",
                   "coords": [
                         29.291207,
                         0.13693
-                  ]
-            },
-            {
-                  "name": "Galerie jolie reve",
-                  "text": "Jolie Rêve art gallery in Butembo.",
-                  "category": "museum",
-                  "coords": [
-                        29.292267,
-                        0.137575
-                  ]
-            },
-            {
-                  "name": "Galerie Annuarite",
-                  "text": "Annuarite art gallery in Butembo.",
-                  "category": "museum",
-                  "coords": [
-                        29.291284,
-                        0.134281
-                  ]
-            },
-            {
-                  "name": "Galerie Thengerwako",
-                  "text": "Thengerwako art gallery in Butembo.",
-                  "category": "museum",
-                  "coords": [
-                        29.293882,
-                        0.140596
-                  ]
-            },
-            {
-                  "name": "Galerie Katembo Ngesera",
-                  "text": "Katembo Ngesera art gallery in Butembo.",
-                  "category": "museum",
-                  "coords": [
-                        29.290177,
-                        0.136424
                   ]
             }
       ]

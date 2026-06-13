@@ -96,15 +96,6 @@ export const portugalLandmarksV2: POI[] = [
     id: "portugal-palacio-monserrate-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Museu de História Natural",
-                  "text": "Ein Naturkundemuseum in Sintra, das eine bedeutende paläontologische Sammlung beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        -9.389974,
-                        38.798171
-                  ]
-            },
-            {
                   "name": "Anta de Adrenunes",
                   "text": "Ein megalithisches Grabmonument in der Nähe von Sintra, das auf einem Hügel liegt.",
                   "category": "historical",
@@ -129,24 +120,6 @@ export const portugalLandmarksV2: POI[] = [
                   "coords": [
                         -9.436534,
                         38.798921
-                  ]
-            },
-            {
-                  "name": "Parque Natural de Sintra-Cascais",
-                  "text": "Ein Schutzgebiet an der portugiesischen Küste, das für seine Klippen und Wälder bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        -9.432583,
-                        38.805011
-                  ]
-            },
-            {
-                  "name": "Nationalpalast Pena",
-                  "text": "Ein farbenfrohes Schloss der Romantik in Sintra, das zum UNESCO-Welterbe gehört.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390493,
-                        38.787583
                   ]
             },
             {
@@ -179,15 +152,6 @@ export const portugalLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Museu de História Natural",
-                  "text": "Természettudományi múzeum Sintrában, amely jelentős őslénytani gyűjteménnyel rendelkezik.",
-                  "category": "museum",
-                  "coords": [
-                        -9.389974,
-                        38.798171
-                  ]
-            },
-            {
                   "name": "Anta de Adrenunes",
                   "text": "Megalitikus síremlék Sintra közelében, amely egy dombtetőn helyezkedik el.",
                   "category": "historical",
@@ -212,24 +176,6 @@ export const portugalLandmarksV2: POI[] = [
                   "coords": [
                         -9.436534,
                         38.798921
-                  ]
-            },
-            {
-                  "name": "Parque Natural de Sintra-Cascais",
-                  "text": "Védett terület a portugál tengerparton, amely szikláiról és erdőiről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        -9.432583,
-                        38.805011
-                  ]
-            },
-            {
-                  "name": "Palácio da Pena",
-                  "text": "Színpompás romantikus kastély Sintrában, amely az UNESCO Világörökség része.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390493,
-                        38.787583
                   ]
             },
             {
@@ -262,15 +208,6 @@ export const portugalLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Museu de História Natural",
-                  "text": "Un muzeu de istorie naturală din Sintra, care găzduiește o colecție paleontologică importantă.",
-                  "category": "museum",
-                  "coords": [
-                        -9.389974,
-                        38.798171
-                  ]
-            },
-            {
                   "name": "Anta de Adrenunes",
                   "text": "Un monument funerar megalitic lângă Sintra, situat pe vârful unui deal.",
                   "category": "historical",
@@ -295,24 +232,6 @@ export const portugalLandmarksV2: POI[] = [
                   "coords": [
                         -9.436534,
                         38.798921
-                  ]
-            },
-            {
-                  "name": "Parque Natural de Sintra-Cascais",
-                  "text": "O zonă protejată pe coasta portugheză, cunoscută pentru stâncile și pădurile sale.",
-                  "category": "natural",
-                  "coords": [
-                        -9.432583,
-                        38.805011
-                  ]
-            },
-            {
-                  "name": "Palácio da Pena",
-                  "text": "Un castel romantic colorat în Sintra, care face parte din Patrimoniul Mondial UNESCO.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390493,
-                        38.787583
                   ]
             },
             {
@@ -345,15 +264,6 @@ export const portugalLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Museu de História Natural",
-                  "text": "A natural history museum in Sintra, housing a significant paleontological collection.",
-                  "category": "museum",
-                  "coords": [
-                        -9.389974,
-                        38.798171
-                  ]
-            },
-            {
                   "name": "Anta de Adrenunes",
                   "text": "A megalithic funerary monument near Sintra, situated on a hilltop.",
                   "category": "historical",
@@ -378,24 +288,6 @@ export const portugalLandmarksV2: POI[] = [
                   "coords": [
                         -9.436534,
                         38.798921
-                  ]
-            },
-            {
-                  "name": "Sintra-Cascais Nature Park",
-                  "text": "A protected area on the Portuguese coast, known for its cliffs and forests.",
-                  "category": "natural",
-                  "coords": [
-                        -9.432583,
-                        38.805011
-                  ]
-            },
-            {
-                  "name": "Pena National Palace",
-                  "text": "A colorful Romanticist palace in Sintra, which is part of the UNESCO World Heritage.",
-                  "category": "castle",
-                  "coords": [
-                        -9.390493,
-                        38.787583
                   ]
             },
             {
@@ -483,57 +375,12 @@ export const portugalLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro Jordão",
-                  "text": "Ein wunderschönes Theater aus dem frühen 20. Jahrhundert im historischen Zentrum von Guimarães.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.294938,
-                        41.438852
-                  ]
-            },
-            {
                   "name": "Castelo de Guimarães",
                   "text": "Gut erhaltene mittelalterliche Burg und Symbol der Staatsgründung Portugals.",
                   "category": "castle",
                   "coords": [
                         -8.290401,
                         41.447906
-                  ]
-            },
-            {
-                  "name": "Centro de Artes e Ofícios dos Fornos da Cruz de Pedra",
-                  "text": "Museum, das dem traditionellen Kunsthandwerk in Guimarães gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -8.302221,
-                        41.438725
-                  ]
-            },
-            {
-                  "name": "Teatro Oficina",
-                  "text": "Intimes Theater im Bereich der Burg von Guimarães, genutzt für zeitgenössische Stücke.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.291873,
-                        41.435095
-                  ]
-            },
-            {
-                  "name": "Convento e Igreja de São Francisco",
-                  "text": "Ein historisches Franziskanerkloster und eine Kirche in Guimarães.",
-                  "category": "religious",
-                  "coords": [
-                        -8.292346,
-                        41.440606
-                  ]
-            },
-            {
-                  "name": "Parque Aquático Scorpio",
-                  "text": "Ein saisonaler Wasserpark im Freien mit Pools und Rutschen in Guimarães.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.31954,
-                        41.431152
                   ]
             },
             {
@@ -557,57 +404,12 @@ export const portugalLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro Jordão",
-                  "text": "Egy gyönyörű, korai 20. századi színház Guimarães történelmi központjában.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.294938,
-                        41.438852
-                  ]
-            },
-            {
                   "name": "Castelo de Guimarães",
                   "text": "Jó állapotban fennmaradt középkori vár, Portugália alapításának szimbóluma.",
                   "category": "castle",
                   "coords": [
                         -8.290401,
                         41.447906
-                  ]
-            },
-            {
-                  "name": "Centro de Artes e Ofícios dos Fornos da Cruz de Pedra",
-                  "text": "Guimarães hagyományos művészetének és mesterségeinek szentelt múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -8.302221,
-                        41.438725
-                  ]
-            },
-            {
-                  "name": "Teatro Oficina",
-                  "text": "Intim színház a Guimarães-i vár környékén, kortárs darabok számára.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.291873,
-                        41.435095
-                  ]
-            },
-            {
-                  "name": "Convento e Igreja de São Francisco",
-                  "text": "Történelmi ferences kolostor és templom Guimarãesben.",
-                  "category": "religious",
-                  "coords": [
-                        -8.292346,
-                        41.440606
-                  ]
-            },
-            {
-                  "name": "Parque Aquático Scorpio",
-                  "text": "Szezonális szabadtéri vízipark medencékkel és csúszdákkal Guimarãesben.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.31954,
-                        41.431152
                   ]
             },
             {
@@ -631,57 +433,12 @@ export const portugalLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro Jordão",
-                  "text": "Un teatru frumos de la începutul secolului XX în centrul istoric al Guimarãesului.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.294938,
-                        41.438852
-                  ]
-            },
-            {
                   "name": "Castelo de Guimarães",
                   "text": "Castel medieval bine conservat și simbol al fondării Portugaliei.",
                   "category": "castle",
                   "coords": [
                         -8.290401,
                         41.447906
-                  ]
-            },
-            {
-                  "name": "Centro de Artes e Ofícios dos Fornos da Cruz de Pedra",
-                  "text": "Muzeu dedicat artelor și meșteșugurilor tradiționale din Guimarães.",
-                  "category": "museum",
-                  "coords": [
-                        -8.302221,
-                        41.438725
-                  ]
-            },
-            {
-                  "name": "Teatro Oficina",
-                  "text": "Teatru intim în zona castelului Guimarães, folosit pentru piese contemporane.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.291873,
-                        41.435095
-                  ]
-            },
-            {
-                  "name": "Convento e Igreja de São Francisco",
-                  "text": "O mănăstire și biserică franciscană istorică în Guimarães.",
-                  "category": "religious",
-                  "coords": [
-                        -8.292346,
-                        41.440606
-                  ]
-            },
-            {
-                  "name": "Parque Aquático Scorpio",
-                  "text": "Un parc acvatic sezonier în aer liber, cu piscine și tobogane în Guimarães.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.31954,
-                        41.431152
                   ]
             },
             {
@@ -705,57 +462,12 @@ export const portugalLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro Jordão",
-                  "text": "A beautiful early 20th-century theatre in the historic centre of Guimarães.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.294938,
-                        41.438852
-                  ]
-            },
-            {
                   "name": "Castelo de Guimarães",
                   "text": "A well-preserved medieval castle and symbol of Portugal's foundation.",
                   "category": "castle",
                   "coords": [
                         -8.290401,
                         41.447906
-                  ]
-            },
-            {
-                  "name": "Centro de Artes e Ofícios dos Fornos da Cruz de Pedra",
-                  "text": "A museum dedicated to traditional arts and crafts in Guimarães.",
-                  "category": "museum",
-                  "coords": [
-                        -8.302221,
-                        41.438725
-                  ]
-            },
-            {
-                  "name": "Teatro Oficina",
-                  "text": "Intimate theater in the Guimarães castle area, used for contemporary plays.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.291873,
-                        41.435095
-                  ]
-            },
-            {
-                  "name": "Convento e Igreja de São Francisco",
-                  "text": "A historic Franciscan monastery and church in Guimarães.",
-                  "category": "religious",
-                  "coords": [
-                        -8.292346,
-                        41.440606
-                  ]
-            },
-            {
-                  "name": "Parque Aquático Scorpio",
-                  "text": "A seasonal outdoor water park with pools and slides in Guimarães.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.31954,
-                        41.431152
                   ]
             },
             {

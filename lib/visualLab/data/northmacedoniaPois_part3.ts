@@ -230,15 +230,6 @@ export const mkPoisPart3: POI[] = [
     id: "MK-032-kumanovo-city-square", "sights": {
       "de": [
             {
-                  "name": "Zena",
-                  "text": "Ein Denkmal auf dem Stadtplatz von Kumanovo, das die Frauen ehrt.",
-                  "category": "historical",
-                  "coords": [
-                        21.72005,
-                        42.135519
-                  ]
-            },
-            {
                   "name": "Tatar Sinan Beg dzhamija",
                   "text": "Eine historische Moschee aus dem 16. Jahrhundert am Stadtplatz von Kumanovo.",
                   "category": "religious",
@@ -246,36 +237,9 @@ export const mkPoisPart3: POI[] = [
                         21.714727,
                         42.137461
                   ]
-            },
-            {
-                  "name": "Bazen FZTs",
-                  "text": "Ein Schwimmbad in Kumanovo für Freizeit und Training.",
-                  "category": "recreational",
-                  "coords": [
-                        21.742363,
-                        42.121252
-                  ]
-            },
-            {
-                  "name": "Gradski bazen",
-                  "text": "Das städtische Schwimmbad von Kumanovo für öffentliche Nutzung.",
-                  "category": "recreational",
-                  "coords": [
-                        21.726818,
-                        42.131642
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Zena",
-                  "text": "A nők előtt tisztelgő emlékmű Kumanovó főterén.",
-                  "category": "historical",
-                  "coords": [
-                        21.72005,
-                        42.135519
-                  ]
-            },
             {
                   "name": "Tatar Sinan Beg dzhamija",
                   "text": "Egy 16. századi történelmi mecset Kumanovó főterén.",
@@ -284,36 +248,9 @@ export const mkPoisPart3: POI[] = [
                         21.714727,
                         42.137461
                   ]
-            },
-            {
-                  "name": "Bazen FZTs",
-                  "text": "Úszómedence Kumanovóban szabadidős és edzési célokra.",
-                  "category": "recreational",
-                  "coords": [
-                        21.742363,
-                        42.121252
-                  ]
-            },
-            {
-                  "name": "Gradski bazen",
-                  "text": "Kumanovo városi úszómedencéje nyilvános használatra.",
-                  "category": "recreational",
-                  "coords": [
-                        21.726818,
-                        42.131642
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Zena",
-                  "text": "Un monument situat în piața centrală din Kumanovo, dedicat femeilor.",
-                  "category": "historical",
-                  "coords": [
-                        21.72005,
-                        42.135519
-                  ]
-            },
             {
                   "name": "Tatar Sinan Beg dzhamija",
                   "text": "O moschee istorică din secolul al XVI-lea, situată în piața orașului Kumanovo.",
@@ -322,36 +259,9 @@ export const mkPoisPart3: POI[] = [
                         21.714727,
                         42.137461
                   ]
-            },
-            {
-                  "name": "Bazen FZTs",
-                  "text": "O piscină în Kumanovo pentru agrement și antrenament.",
-                  "category": "recreational",
-                  "coords": [
-                        21.742363,
-                        42.121252
-                  ]
-            },
-            {
-                  "name": "Gradski bazen",
-                  "text": "Piscina municipală din Kumanovo pentru uz public.",
-                  "category": "recreational",
-                  "coords": [
-                        21.726818,
-                        42.131642
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Zena",
-                  "text": "A monument on the Kumanovo City Square, honoring women.",
-                  "category": "historical",
-                  "coords": [
-                        21.72005,
-                        42.135519
-                  ]
-            },
             {
                   "name": "Tatar Sinan Pasha Mosque",
                   "text": "A historic 16th-century mosque located at the Kumanovo City Square.",
@@ -359,24 +269,6 @@ export const mkPoisPart3: POI[] = [
                   "coords": [
                         21.714727,
                         42.137461
-                  ]
-            },
-            {
-                  "name": "Bazen FZTs",
-                  "text": "A swimming pool in Kumanovo used for leisure and training.",
-                  "category": "recreational",
-                  "coords": [
-                        21.742363,
-                        42.121252
-                  ]
-            },
-            {
-                  "name": "Gradski bazen",
-                  "text": "The municipal swimming pool of Kumanovo for public use.",
-                  "category": "recreational",
-                  "coords": [
-                        21.726818,
-                        42.131642
                   ]
             }
       ]
@@ -1381,15 +1273,6 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Asanoets",
-                  "text": "Asanoec ist eine natürliche Quelle und wichtige Wasserquelle in Makedonski Brod.",
-                  "category": "landmark",
-                  "coords": [
-                        21.236065,
-                        41.542394
-                  ]
-            },
-            {
                   "name": "Sv. Nikola",
                   "text": "St. Nikolaus ist eine orthodoxe Kirche in Makedonski Brod aus dem 19. Jahrhundert.",
                   "category": "religious",
@@ -1417,15 +1300,6 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Sv. Georgij",
-                  "text": "St. Georg ist eine Kirche in Makedonski Brod nahe der Ruinen der Festung Devič.",
-                  "category": "religious",
-                  "coords": [
-                        21.224048,
-                        41.550787
-                  ]
-            },
-            {
                   "name": "Sv. Ilija",
                   "text": "St. Eliyah ist eine Kirche in Slansko, die im August ihren Schutzpatron feiert.",
                   "category": "religious",
@@ -1443,15 +1317,6 @@ export const mkPoisPart3: POI[] = [
                   "coords": [
                         21.219729,
                         41.509911
-                  ]
-            },
-            {
-                  "name": "Asanoets",
-                  "text": "Az Asanoec egy természetes forrás és létfontosságú vízforrás Makedonski Brodban.",
-                  "category": "landmark",
-                  "coords": [
-                        21.236065,
-                        41.542394
                   ]
             },
             {
@@ -1482,15 +1347,6 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Sv. Georgij",
-                  "text": "A Szent György-templom a Devič-erőd romjainak közelében található Makedonski Brodban.",
-                  "category": "religious",
-                  "coords": [
-                        21.224048,
-                        41.550787
-                  ]
-            },
-            {
                   "name": "Sv. Ilija",
                   "text": "A szlanszkói Szent Illés-templom augusztusban ünnepli védőszentjét.",
                   "category": "religious",
@@ -1508,15 +1364,6 @@ export const mkPoisPart3: POI[] = [
                   "coords": [
                         21.219729,
                         41.509911
-                  ]
-            },
-            {
-                  "name": "Asanoets",
-                  "text": "Asanoec este un izvor natural și o sursă de apă vitală din Makedonski Brod.",
-                  "category": "landmark",
-                  "coords": [
-                        21.236065,
-                        41.542394
                   ]
             },
             {
@@ -1547,15 +1394,6 @@ export const mkPoisPart3: POI[] = [
                   ]
             },
             {
-                  "name": "Sv. Georgij",
-                  "text": "Sfântul Gheorghe este o biserică din Makedonski Brod situată lângă ruinele cetății Devič.",
-                  "category": "religious",
-                  "coords": [
-                        21.224048,
-                        41.550787
-                  ]
-            },
-            {
                   "name": "Sv. Ilija",
                   "text": "Sfântul Ilie este o biserică din Slansko care își sărbătorește hramul în august.",
                   "category": "religious",
@@ -1573,15 +1411,6 @@ export const mkPoisPart3: POI[] = [
                   "coords": [
                         21.219729,
                         41.509911
-                  ]
-            },
-            {
-                  "name": "Asanoec",
-                  "text": "Asanoec is a natural spring and vital water source in Makedonski Brod.",
-                  "category": "landmark",
-                  "coords": [
-                        21.236065,
-                        41.542394
                   ]
             },
             {
@@ -1609,15 +1438,6 @@ export const mkPoisPart3: POI[] = [
                   "coords": [
                         21.214143,
                         41.513676
-                  ]
-            },
-            {
-                  "name": "St. George",
-                  "text": "St. George is a church in Makedonski Brod near the Devič fortress ruins.",
-                  "category": "religious",
-                  "coords": [
-                        21.224048,
-                        41.550787
                   ]
             },
             {

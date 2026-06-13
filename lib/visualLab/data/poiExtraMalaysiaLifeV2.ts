@@ -3897,24 +3897,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
     id: "sunway-lagoon-theme-park-life-v2", "sights": {
       "de": [
             {
-                  "name": "Menara MBPJ",
-                  "text": "Dieser markante Wolkenkratzer beherbergt die Hauptverwaltungsbüros des Stadtrats von Petaling Jaya.",
-                  "category": "historical",
-                  "coords": [
-                        101.645023,
-                        3.099205
-                  ]
-            },
-            {
-                  "name": "Majlis Bandaraya Subang Jaya",
-                  "text": "In diesem Rathaus befindet sich die Kommunalverwaltung der Stadtgemeinde Subang Jaya.",
-                  "category": "historical",
-                  "coords": [
-                        101.582372,
-                        3.05155
-                  ]
-            },
-            {
                   "name": "Masjid Tengku Kelana Jaya Petra",
                   "text": "Diese bedeutende Moschee in Kelana Jaya ist ein wichtiger Ort für das Freitagsgebet.",
                   "category": "religious",
@@ -3960,24 +3942,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Jamek Sultan Abdul Aziz",
-                  "text": "Diese große Jamek-Moschee ist an ihren traditionellen Kuppeln und schlanken Minaretten zu erkennen.",
-                  "category": "religious",
-                  "coords": [
-                        101.65053,
-                        3.090715
-                  ]
-            },
-            {
-                  "name": "Masjid Tun Abdul Aziz",
-                  "text": "Diese Moschee zeichnet sich durch ein modernes Design aus, das sich harmonisch in das Stadtbild einfügt.",
-                  "category": "religious",
-                  "coords": [
-                        101.634066,
-                        3.112323
-                  ]
-            },
-            {
                   "name": "Masjid Nurul Ehsan",
                   "text": "Diese Dorfmoshcee ist ein zentraler Treffpunkt für die muslimischen Bewohner von Kampung Medan.",
                   "category": "religious",
@@ -4011,51 +3975,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
                   "coords": [
                         101.585695,
                         3.080403
-                  ]
-            },
-            {
-                  "name": "Masjid An-Nur",
-                  "text": "Diese gepflegte Nachbarschaftsmoschee befindet sich im ruhigen Wohngebiet USJ 4.",
-                  "category": "religious",
-                  "coords": [
-                        101.576583,
-                        3.057303
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Mukminun",
-                  "text": "Diese lokale Moschee fördert mit ihren spirituellen Programmen den Zusammenhalt der Gemeinde.",
-                  "category": "religious",
-                  "coords": [
-                        101.585515,
-                        3.060042
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "Die gut besuchte Moschee liegt verkehrsgünstig an der Hauptstraße Jalan USJ 9/1.",
-                  "category": "religious",
-                  "coords": [
-                        101.587555,
-                        3.045192
-                  ]
-            },
-            {
-                  "name": "Masjid Baitul Mahabbah",
-                  "text": "Diese Moschee wird häufig von den Mitarbeitern der nahegelegenen Automobilfabrik Proton genutzt.",
-                  "category": "religious",
-                  "coords": [
-                        101.568771,
-                        3.020989
-                  ]
-            },
-            {
-                  "name": "Masjid Nurul Iman",
-                  "text": "Die traditionell gestaltete Moschee bedient die Gläubigen in der Siedlung Kampung Tengah B.",
-                  "category": "religious",
-                  "coords": [
-                        101.58889,
-                        3.014667
                   ]
             },
             {
@@ -4146,15 +4065,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
                   "coords": [
                         101.605535,
                         3.068372
-                  ]
-            },
-            {
-                  "name": "Stage",
-                  "text": "Auf dieser Bühne finden verschiedene Theatervorführungen und öffentliche Unterhaltungsveranstaltungen statt.",
-                  "category": "cultural",
-                  "coords": [
-                        101.592064,
-                        3.045247
                   ]
             },
             {
@@ -4250,24 +4160,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Menara MBPJ",
-                  "text": "Ez a feltűnő felhőkarcoló ad otthont Petaling Jaya városi tanácsának közigazgatási irodáinak.",
-                  "category": "historical",
-                  "coords": [
-                        101.645023,
-                        3.099205
-                  ]
-            },
-            {
-                  "name": "Majlis Bandaraya Subang Jaya",
-                  "text": "Ebben a városházában működik Subang Jaya önkormányzatának helyi közigazgatása.",
-                  "category": "historical",
-                  "coords": [
-                        101.582372,
-                        3.05155
-                  ]
-            },
-            {
                   "name": "Masjid Tengku Kelana Jaya Petra",
                   "text": "Ez a jelentős Kelana Jaya-i mecset a pénteki imák fontos helyszíne.",
                   "category": "religious",
@@ -4313,24 +4205,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Jamek Sultan Abdul Aziz",
-                  "text": "Ezt a nagy Jamek-mecsetet hagyományos kupoláiról és karcsú minaretjeiről lehet felismerni.",
-                  "category": "religious",
-                  "coords": [
-                        101.65053,
-                        3.090715
-                  ]
-            },
-            {
-                  "name": "Masjid Tun Abdul Aziz",
-                  "text": "Ezt a mecsetet modern dizájn jellemzi, amely harmonikusan illeszkedik a városképbe.",
-                  "category": "religious",
-                  "coords": [
-                        101.634066,
-                        3.112323
-                  ]
-            },
-            {
                   "name": "Masjid Nurul Ehsan",
                   "text": "Ez a falusi mecset Kampung Medan muszlim lakóinak központi találkozóhelye.",
                   "category": "religious",
@@ -4364,51 +4238,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
                   "coords": [
                         101.585695,
                         3.080403
-                  ]
-            },
-            {
-                  "name": "Masjid An-Nur",
-                  "text": "Ez a gondozott környékbeli mecset az USJ 4 csendes lakóövezetében található.",
-                  "category": "religious",
-                  "coords": [
-                        101.576583,
-                        3.057303
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Mukminun",
-                  "text": "Ez a helyi mecset spirituális programjaival erősíti a közösség összetartását.",
-                  "category": "religious",
-                  "coords": [
-                        101.585515,
-                        3.060042
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "A forgalmas mecset kényelmes helyen, a Jalan USJ 9/1 főút mentén található.",
-                  "category": "religious",
-                  "coords": [
-                        101.587555,
-                        3.045192
-                  ]
-            },
-            {
-                  "name": "Masjid Baitul Mahabbah",
-                  "text": "Ezt a mecsetet gyakran látogatják a közeli Proton autógyár dolgozói.",
-                  "category": "religious",
-                  "coords": [
-                        101.568771,
-                        3.020989
-                  ]
-            },
-            {
-                  "name": "Masjid Nurul Iman",
-                  "text": "A hagyományos kialakítású mecset a Kampung Tengah B település hívőit szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        101.58889,
-                        3.014667
                   ]
             },
             {
@@ -4499,15 +4328,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
                   "coords": [
                         101.605535,
                         3.068372
-                  ]
-            },
-            {
-                  "name": "Stage",
-                  "text": "Ez az előadószínpad különféle színházi produkcióknak és nyilvános szórakoztató eseményeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        101.592064,
-                        3.045247
                   ]
             },
             {
@@ -4603,24 +4423,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Menara MBPJ",
-                  "text": "Acest zgârie-nori proeminent găzduiește birourile administrative ale consiliului municipal din Petaling Jaya.",
-                  "category": "historical",
-                  "coords": [
-                        101.645023,
-                        3.099205
-                  ]
-            },
-            {
-                  "name": "Majlis Bandaraya Subang Jaya",
-                  "text": "Această primărie găzduiește administrația publică locală a municipalității Subang Jaya.",
-                  "category": "historical",
-                  "coords": [
-                        101.582372,
-                        3.05155
-                  ]
-            },
-            {
                   "name": "Masjid Tengku Kelana Jaya Petra",
                   "text": "Această moschee notabilă din Kelana Jaya este un loc important pentru rugăciunile de vineri.",
                   "category": "religious",
@@ -4666,24 +4468,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Jamek Sultan Abdul Aziz",
-                  "text": "Această mare moschee Jamek este recunoscută după cupolele sale tradiționale și minaretele zvelte.",
-                  "category": "religious",
-                  "coords": [
-                        101.65053,
-                        3.090715
-                  ]
-            },
-            {
-                  "name": "Masjid Tun Abdul Aziz",
-                  "text": "Această moschee are un design modern care se integrează perfect în peisajul urban.",
-                  "category": "religious",
-                  "coords": [
-                        101.634066,
-                        3.112323
-                  ]
-            },
-            {
                   "name": "Masjid Nurul Ehsan",
                   "text": "Această moschee a satului este un loc de întâlnire central pentru locuitorii musulmani din Kampung Medan.",
                   "category": "religious",
@@ -4717,51 +4501,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
                   "coords": [
                         101.585695,
                         3.080403
-                  ]
-            },
-            {
-                  "name": "Masjid An-Nur",
-                  "text": "Această moschee de cartier bine întreținută este situată în zona rezidențială liniștită USJ 4.",
-                  "category": "religious",
-                  "coords": [
-                        101.576583,
-                        3.057303
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Mukminun",
-                  "text": "Această moschee locală promovează coeziunea comunității prin programele sale spirituale.",
-                  "category": "religious",
-                  "coords": [
-                        101.585515,
-                        3.060042
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Falah",
-                  "text": "Moscheea frecventată este situată convenabil de-a lungul drumului principal Jalan USJ 9/1.",
-                  "category": "religious",
-                  "coords": [
-                        101.587555,
-                        3.045192
-                  ]
-            },
-            {
-                  "name": "Masjid Baitul Mahabbah",
-                  "text": "Această moschee este vizitată frecvent de angajații fabricii de automobile Proton din apropiere.",
-                  "category": "religious",
-                  "coords": [
-                        101.568771,
-                        3.020989
-                  ]
-            },
-            {
-                  "name": "Masjid Nurul Iman",
-                  "text": "Moscheea cu design tradițional deservește credincioșii din așezarea Kampung Tengah B.",
-                  "category": "religious",
-                  "coords": [
-                        101.58889,
-                        3.014667
                   ]
             },
             {
@@ -4852,15 +4591,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
                   "coords": [
                         101.605535,
                         3.068372
-                  ]
-            },
-            {
-                  "name": "Stage",
-                  "text": "Această scenă de spectacole găzduiește diverse acte teatrale și evenimente de divertisment public.",
-                  "category": "cultural",
-                  "coords": [
-                        101.592064,
-                        3.045247
                   ]
             },
             {
@@ -4956,24 +4686,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Menara MBPJ",
-                  "text": "This prominent skyscraper houses the main administrative offices of the Petaling Jaya City Council.",
-                  "category": "historical",
-                  "coords": [
-                        101.645023,
-                        3.099205
-                  ]
-            },
-            {
-                  "name": "Subang Jaya City Council",
-                  "text": "This townhall building serves as the local government headquarters for the Subang Jaya municipality.",
-                  "category": "historical",
-                  "coords": [
-                        101.582372,
-                        3.05155
-                  ]
-            },
-            {
                   "name": "Masjid Tengku Kelana Jaya Petra",
                   "text": "This notable mosque in Kelana Jaya is a significant venue for Friday congregational prayers.",
                   "category": "religious",
@@ -5019,24 +4731,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Masjid Jamek Sultan Abdul Aziz",
-                  "text": "This large Jamek mosque is easily recognized by its traditional domes and slender minarets.",
-                  "category": "religious",
-                  "coords": [
-                        101.65053,
-                        3.090715
-                  ]
-            },
-            {
-                  "name": "Tun Abdul Aziz Mosque",
-                  "text": "This mosque features a modern architectural design that blends harmoniously into the cityscape.",
-                  "category": "religious",
-                  "coords": [
-                        101.634066,
-                        3.112323
-                  ]
-            },
-            {
                   "name": "Masjid Nurul Ehsan",
                   "text": "This village mosque serves as a central gathering point for the Muslim residents of Kampung Medan.",
                   "category": "religious",
@@ -5070,51 +4764,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
                   "coords": [
                         101.585695,
                         3.080403
-                  ]
-            },
-            {
-                  "name": "Masjid An-Nur",
-                  "text": "This well-maintained neighborhood mosque is located within the quiet USJ 4 residential area.",
-                  "category": "religious",
-                  "coords": [
-                        101.576583,
-                        3.057303
-                  ]
-            },
-            {
-                  "name": "Masjid Al-Mukminun",
-                  "text": "This local mosque fosters community togetherness through its regular spiritual programs.",
-                  "category": "religious",
-                  "coords": [
-                        101.585515,
-                        3.060042
-                  ]
-            },
-            {
-                  "name": "Al-Falah Mosque",
-                  "text": "This well-attended mosque is conveniently situated along the main Jalan USJ 9/1 road.",
-                  "category": "religious",
-                  "coords": [
-                        101.587555,
-                        3.045192
-                  ]
-            },
-            {
-                  "name": "Masjid Baitul Mahabbah",
-                  "text": "This mosque is frequently used by employees working at the nearby Proton automotive manufacturing plant.",
-                  "category": "religious",
-                  "coords": [
-                        101.568771,
-                        3.020989
-                  ]
-            },
-            {
-                  "name": "Masjid Nurul Iman",
-                  "text": "This traditionally designed mosque serves the worshipers residing in the Kampung Tengah B settlement.",
-                  "category": "religious",
-                  "coords": [
-                        101.58889,
-                        3.014667
                   ]
             },
             {
@@ -5205,15 +4854,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
                   "coords": [
                         101.605535,
                         3.068372
-                  ]
-            },
-            {
-                  "name": "Stage",
-                  "text": "This performance stage hosts various theatrical acts and public entertainment events.",
-                  "category": "cultural",
-                  "coords": [
-                        101.592064,
-                        3.045247
                   ]
             },
             {
@@ -17376,15 +17016,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "PJ Live Arts",
-                  "text": "PJ Live Arts ist ein lebendiges Gemeinschaftstheater in Petaling Jaya, das für seine familienfreundlichen Comedy-Shows und lokalen Theaterstücke bekannt ist.",
-                  "category": "cultural",
-                  "coords": [
-                        101.635177,
-                        3.117851
-                  ]
-            },
-            {
                   "name": "Heartana Culture Hub",
                   "text": "Der Heartana Culture Hub fungiert als gemeinschaftlicher Kunstraum für lokale Schöpfer, um ihre visuellen Kunstwerke auszustellen und aufzuführen.",
                   "category": "cultural",
@@ -17699,15 +17330,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
                   "coords": [
                         101.622723,
                         3.15229
-                  ]
-            },
-            {
-                  "name": "PJ Live Arts",
-                  "text": "A PJ Live Arts egy élénk közösségi színház Petaling Jayában, amely családbarát vígjátékműsorairól és helyi színdarabjairól ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        101.635177,
-                        3.117851
                   ]
             },
             {
@@ -18028,15 +17650,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "PJ Live Arts",
-                  "text": "PJ Live Arts este un teatru comunitar vibrant situat în Petaling Jaya, binecunoscut pentru spectacolele sale de comedie și piesele locale potrivite familiilor.",
-                  "category": "cultural",
-                  "coords": [
-                        101.635177,
-                        3.117851
-                  ]
-            },
-            {
                   "name": "Heartana Culture Hub",
                   "text": "Heartana Culture Hub funcționează ca un spațiu artistic colaborativ unde creatorii locali își pot expune lucrările de artă vizuală și pot interpreta.",
                   "category": "cultural",
@@ -18351,15 +17964,6 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
                   "coords": [
                         101.622723,
                         3.15229
-                  ]
-            },
-            {
-                  "name": "PJ Live Arts",
-                  "text": "PJ Live Arts is a vibrant community theatre situated in Petaling Jaya, well-known for its family-friendly comedy shows and local plays.",
-                  "category": "cultural",
-                  "coords": [
-                        101.635177,
-                        3.117851
                   ]
             },
             {

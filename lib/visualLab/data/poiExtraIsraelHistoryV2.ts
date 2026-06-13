@@ -7884,51 +7884,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beit Rishonim",
-                  "text": "Museum in einem historischen Gebäude, das die Geschichte der ersten Siedler von Herzliya dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        34.84066,
-                        32.168715
-                  ]
-            },
-            {
-                  "name": "Hertzeliya Arts Museum",
-                  "text": "Museum für zeitgenössische Kunst, das wechselnde Ausstellungen israelischer und internationaler Künstler zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        34.844275,
-                        32.161956
-                  ]
-            },
-            {
-                  "name": "Soldiers Memorial",
-                  "text": "Gedenkstätte mit einer Ehrenmauer für die gefallenen Soldaten der Stadt Herzliya.",
-                  "category": "historical",
-                  "coords": [
-                        34.851602,
-                        32.167773
-                  ]
-            },
-            {
-                  "name": "Airforce House",
-                  "text": "Kulturzentrum und Theater, das der Geschichte der israelischen Luftwaffe gewidmet ist.",
-                  "category": "cultural",
-                  "coords": [
-                        34.827729,
-                        32.169598
-                  ]
-            },
-            {
-                  "name": "AmphiPark",
-                  "text": "Großes Freiluft-Amphitheater in Raanana, in dem regelmäßig Konzerte internationaler Künstler stattfinden.",
-                  "category": "cultural",
-                  "coords": [
-                        34.845975,
-                        32.190028
-                  ]
-            },
-            {
                   "name": "Apollonia National park",
                   "text": "Nationalpark an der Küste mit den gut erhaltenen Ruinen einer mittelalterlichen Kreuzritterstadt.",
                   "category": "park",
@@ -7965,39 +7920,12 @@ export const poiExtraIsraelHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Herzl Monument",
-                  "text": "Bronzestatue von Theodor Herzl auf einem hohen Sockel am Eingang zum Industriegebiet der Stadt.",
-                  "category": "historical",
-                  "coords": [
-                        34.811605,
-                        32.159565
-                  ]
-            },
-            {
-                  "name": "Raanana Lehi Children",
-                  "text": "Ein Denkmal in Raanana, das den Kindern der jüdischen Untergrundorganisation Lehi gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        34.862005,
-                        32.177172
-                  ]
-            },
-            {
                   "name": "Old well",
                   "text": "Die steinernen Überreste eines antiken Brunnens in den Küstenruinen von Apollonia-Arsuf.",
                   "category": "historical",
                   "coords": [
                         34.809319,
                         32.194545
-                  ]
-            },
-            {
-                  "name": "Raanana Pumptrack",
-                  "text": "Eine spezielle Asphaltstrecke in Raanana für Radfahrer und Skater zum Üben von rhythmischem Fahren.",
-                  "category": "landmark",
-                  "coords": [
-                        34.851065,
-                        32.186244
                   ]
             },
             {
@@ -8016,24 +7944,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
                   "coords": [
                         34.826284,
                         32.231676
-                  ]
-            },
-            {
-                  "name": "Bird Ringing Center",
-                  "text": "Eine Forschungsstation im Raanana-Park, in der Zugvögel für wissenschaftliche Studien beringt werden.",
-                  "category": "landmark",
-                  "coords": [
-                        34.823583,
-                        32.171522
-                  ]
-            },
-            {
-                  "name": "Raanana Lake",
-                  "text": "Ein künstlich angelegter See im Stadtpark, auf dem Besucher Schwanen-Tretboote mieten können.",
-                  "category": "landmark",
-                  "coords": [
-                        34.847587,
-                        32.188375
                   ]
             },
             {
@@ -8210,51 +8120,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beit Rishonim",
-                  "text": "Történelmi épületben található múzeum, amely Herzliya első telepeseinek történetét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        34.84066,
-                        32.168715
-                  ]
-            },
-            {
-                  "name": "Hertzeliya Arts Museum",
-                  "text": "Kortárs művészeti múzeum, amely izraeli és nemzetközi művészek időszaki kiállításait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        34.844275,
-                        32.161956
-                  ]
-            },
-            {
-                  "name": "Soldiers Memorial",
-                  "text": "Emlékhely Herzliya város elesett katonáinak tiszteletére emelt emléktáblával.",
-                  "category": "historical",
-                  "coords": [
-                        34.851602,
-                        32.167773
-                  ]
-            },
-            {
-                  "name": "Airforce House",
-                  "text": "Kulturális központ és színház, amelyet az Izraeli Légierő történetének szenteltek.",
-                  "category": "cultural",
-                  "coords": [
-                        34.827729,
-                        32.169598
-                  ]
-            },
-            {
-                  "name": "AmphiPark",
-                  "text": "Nagy szabadtéri amfiteátrum Raananában, ahol rendszeresen fellépnek nemzetközi előadók.",
-                  "category": "cultural",
-                  "coords": [
-                        34.845975,
-                        32.190028
-                  ]
-            },
-            {
                   "name": "Apollonia National park",
                   "text": "Tengerparti nemzeti park egy középkori keresztes lovagváros jól megőrzött romjaival.",
                   "category": "park",
@@ -8291,39 +8156,12 @@ export const poiExtraIsraelHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Herzl Monument",
-                  "text": "Theodor Herzl bronzszobra magas talapzaton a város ipari negyedének bejáratánál.",
-                  "category": "historical",
-                  "coords": [
-                        34.811605,
-                        32.159565
-                  ]
-            },
-            {
-                  "name": "Raanana Lehi Children",
-                  "text": "Raananai emlékmű, amelyet a Lehi földalatti mozgalom gyermekeinek tiszteletére emeltek.",
-                  "category": "historical",
-                  "coords": [
-                        34.862005,
-                        32.177172
-                  ]
-            },
-            {
                   "name": "Old well",
                   "text": "Egy ősi kút kőmaradványai Apollonia-Arsuf tengerparti romjai között.",
                   "category": "historical",
                   "coords": [
                         34.809319,
                         32.194545
-                  ]
-            },
-            {
-                  "name": "Raanana Pumptrack",
-                  "text": "Speciális aszfaltpálya Raananában kerékpárosok és görkorcsolyázók számára a ritmikus haladás gyakorlására.",
-                  "category": "landmark",
-                  "coords": [
-                        34.851065,
-                        32.186244
                   ]
             },
             {
@@ -8342,24 +8180,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
                   "coords": [
                         34.826284,
                         32.231676
-                  ]
-            },
-            {
-                  "name": "Bird Ringing Center",
-                  "text": "Kutatóállomás a Raanana parkban, ahol vándormadarakat gyűrűznek tudományos vizsgálatok céljából.",
-                  "category": "landmark",
-                  "coords": [
-                        34.823583,
-                        32.171522
-                  ]
-            },
-            {
-                  "name": "Raanana Lake",
-                  "text": "Egy mesterséges tó a városi parkban, ahol a látogatók hattyú alakú vízibicikliket bérelhetnek.",
-                  "category": "landmark",
-                  "coords": [
-                        34.847587,
-                        32.188375
                   ]
             },
             {
@@ -8536,51 +8356,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beit Rishonim",
-                  "text": "Muzeu situat într-o clădire istorică, care documentează istoria primilor coloniști din Herzliya.",
-                  "category": "museum",
-                  "coords": [
-                        34.84066,
-                        32.168715
-                  ]
-            },
-            {
-                  "name": "Hertzeliya Arts Museum",
-                  "text": "Muzeu de artă contemporană care prezintă expoziții temporare ale artiștilor israelieni și internaționali.",
-                  "category": "museum",
-                  "coords": [
-                        34.844275,
-                        32.161956
-                  ]
-            },
-            {
-                  "name": "Soldiers Memorial",
-                  "text": "Sit comemorativ cu un zid de onoare pentru soldații căzuți din orașul Herzliya.",
-                  "category": "historical",
-                  "coords": [
-                        34.851602,
-                        32.167773
-                  ]
-            },
-            {
-                  "name": "Airforce House",
-                  "text": "Centru cultural și teatru dedicat istoriei Forțelor Aeriene Israeliene.",
-                  "category": "cultural",
-                  "coords": [
-                        34.827729,
-                        32.169598
-                  ]
-            },
-            {
-                  "name": "AmphiPark",
-                  "text": "Amfiteatru mare în aer liber în Raanana, unde au loc regulat concerte ale artiștilor internaționali.",
-                  "category": "cultural",
-                  "coords": [
-                        34.845975,
-                        32.190028
-                  ]
-            },
-            {
                   "name": "Apollonia National park",
                   "text": "Parc național pe coastă cu ruinele bine conservate ale unui oraș cruciat medieval.",
                   "category": "park",
@@ -8617,39 +8392,12 @@ export const poiExtraIsraelHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Herzl Monument",
-                  "text": "Statuia de bronz a lui Theodor Herzl pe un soclu înalt, la intrarea în zona industrială a orașului.",
-                  "category": "historical",
-                  "coords": [
-                        34.811605,
-                        32.159565
-                  ]
-            },
-            {
-                  "name": "Raanana Lehi Children",
-                  "text": "Un monument în Raanana dedicat copiilor mișcării clandestine Lehi.",
-                  "category": "historical",
-                  "coords": [
-                        34.862005,
-                        32.177172
-                  ]
-            },
-            {
                   "name": "Old well",
                   "text": "Rămășițele de piatră ale unei fântâni antice situate în ruinele de coastă din Apollonia-Arsuf.",
                   "category": "historical",
                   "coords": [
                         34.809319,
                         32.194545
-                  ]
-            },
-            {
-                  "name": "Raanana Pumptrack",
-                  "text": "O pistă specializată de asfalt în Raanana pentru bicicliști și skateri, destinată antrenamentelor ritmice.",
-                  "category": "landmark",
-                  "coords": [
-                        34.851065,
-                        32.186244
                   ]
             },
             {
@@ -8668,24 +8416,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
                   "coords": [
                         34.826284,
                         32.231676
-                  ]
-            },
-            {
-                  "name": "Bird Ringing Center",
-                  "text": "O stație de cercetare în Parcul Raanana, unde păsările migratoare sunt inelate pentru studii științifice.",
-                  "category": "landmark",
-                  "coords": [
-                        34.823583,
-                        32.171522
-                  ]
-            },
-            {
-                  "name": "Raanana Lake",
-                  "text": "Un lac artificial pitoresc în parcul municipal, unde vizitatorii pot închiria hidrobiciclete în formă de lebădă.",
-                  "category": "landmark",
-                  "coords": [
-                        34.847587,
-                        32.188375
                   ]
             },
             {
@@ -8862,51 +8592,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beit Rishonim",
-                  "text": "Museum located in a historic building documenting the history of Herzliya's first settlers.",
-                  "category": "museum",
-                  "coords": [
-                        34.84066,
-                        32.168715
-                  ]
-            },
-            {
-                  "name": "Hertzeliya Arts Museum",
-                  "text": "Contemporary art museum showcasing rotating exhibitions of Israeli and international artists.",
-                  "category": "museum",
-                  "coords": [
-                        34.844275,
-                        32.161956
-                  ]
-            },
-            {
-                  "name": "Soldiers Memorial",
-                  "text": "Commemorative site featuring a memorial wall for the fallen soldiers of the city of Herzliya.",
-                  "category": "historical",
-                  "coords": [
-                        34.851602,
-                        32.167773
-                  ]
-            },
-            {
-                  "name": "Airforce House",
-                  "text": "Cultural center and theater dedicated to the history of the Israeli Air Force.",
-                  "category": "cultural",
-                  "coords": [
-                        34.827729,
-                        32.169598
-                  ]
-            },
-            {
-                  "name": "AmphiPark",
-                  "text": "Large open-air amphitheater in Raanana that regularly hosts concerts by international artists.",
-                  "category": "cultural",
-                  "coords": [
-                        34.845975,
-                        32.190028
-                  ]
-            },
-            {
                   "name": "Apollonia National park",
                   "text": "Coastal national park featuring the well-preserved ruins of a medieval Crusader city.",
                   "category": "park",
@@ -8943,39 +8628,12 @@ export const poiExtraIsraelHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Herzl Monument",
-                  "text": "Bronze statue of Theodor Herzl on a tall pedestal at the entrance to the city's industrial zone.",
-                  "category": "historical",
-                  "coords": [
-                        34.811605,
-                        32.159565
-                  ]
-            },
-            {
-                  "name": "Raanana Lehi Children",
-                  "text": "A monument in Raanana dedicated to the children of the Lehi underground paramilitary movement.",
-                  "category": "historical",
-                  "coords": [
-                        34.862005,
-                        32.177172
-                  ]
-            },
-            {
                   "name": "Old well",
                   "text": "The stone remains of an ancient water well located within the coastal ruins of Apollonia-Arsuf.",
                   "category": "historical",
                   "coords": [
                         34.809319,
                         32.194545
-                  ]
-            },
-            {
-                  "name": "Raanana Pumptrack",
-                  "text": "A specialized asphalt track in Raanana for cyclists and skaters to practice rhythmic riding.",
-                  "category": "landmark",
-                  "coords": [
-                        34.851065,
-                        32.186244
                   ]
             },
             {
@@ -8994,24 +8652,6 @@ export const poiExtraIsraelHistoryV2: POI[] = [
                   "coords": [
                         34.826284,
                         32.231676
-                  ]
-            },
-            {
-                  "name": "Bird Ringing Center",
-                  "text": "A research station in Raanana Park where migratory birds are tagged for scientific study.",
-                  "category": "landmark",
-                  "coords": [
-                        34.823583,
-                        32.171522
-                  ]
-            },
-            {
-                  "name": "Raanana Lake",
-                  "text": "A scenic man-made lake in the municipal park where visitors can rent swan-shaped pedal boats.",
-                  "category": "landmark",
-                  "coords": [
-                        34.847587,
-                        32.188375
                   ]
             },
             {

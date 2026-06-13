@@ -519,15 +519,6 @@ export const poiExtraQatarLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Khor Archeological Ruins",
-                  "text": "Eine Ausgrabungsstätte mit Fundamenten antiker Behausungen an der Küste von Al Khor.",
-                  "category": "historical",
-                  "coords": [
-                        51.50035,
-                        25.689605
-                  ]
-            },
-            {
                   "name": "Aviary zoo [Al Khor park]",
                   "text": "Eine große begehbare Voliere im Al Khor Park mit einer Vielfalt an exotischen Vogelarten.",
                   "category": "recreational",
@@ -572,15 +563,6 @@ export const poiExtraQatarLifeV2: POI[] = [
                   "coords": [
                         51.424899,
                         25.648302
-                  ]
-            },
-            {
-                  "name": "Al Khor Archeological Ruins",
-                  "text": "Régészeti lelőhely ősi lakóházak alapjaival Al Khor tengerpartján.",
-                  "category": "historical",
-                  "coords": [
-                        51.50035,
-                        25.689605
                   ]
             },
             {
@@ -631,15 +613,6 @@ export const poiExtraQatarLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Al Khor Archeological Ruins",
-                  "text": "Un sit arheologic cu fundații ale unor locuințe antice pe coasta orașului Al Khor.",
-                  "category": "historical",
-                  "coords": [
-                        51.50035,
-                        25.689605
-                  ]
-            },
-            {
                   "name": "Aviary zoo [Al Khor park]",
                   "text": "O volieră mare în Parcul Al Khor, care adăpostește o varietate de specii de păsări exotice.",
                   "category": "recreational",
@@ -684,15 +657,6 @@ export const poiExtraQatarLifeV2: POI[] = [
                   "coords": [
                         51.424899,
                         25.648302
-                  ]
-            },
-            {
-                  "name": "Al Khor Archeological Ruins",
-                  "text": "An archaeological site featuring foundations of ancient dwellings on the Al Khor coast.",
-                  "category": "historical",
-                  "coords": [
-                        51.50035,
-                        25.689605
                   ]
             },
             {

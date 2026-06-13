@@ -71,15 +71,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Eforie Aqua Park",
-                  "text": "Ein Wasserpark in Agigea, der Wasserspaß für Familien bietet.",
-                  "category": "family",
-                  "coords": [
-                        28.638507,
-                        44.061888
-                  ]
-            },
-            {
                   "name": "Pool",
                   "text": "Schwimmbad nahe der Schwarzmeerküste in Agigea.",
                   "category": "family",
@@ -148,15 +139,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.611419,
                         44.095088
-                  ]
-            },
-            {
-                  "name": "Eforie Aqua Park",
-                  "text": "Vízi park Agigeában, amely vízi szórakozást kínál a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        28.638507,
-                        44.061888
                   ]
             },
             {
@@ -231,15 +213,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Eforie Aqua Park",
-                  "text": "Un parc acvatic în Agigea care oferă distracție acvatică pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        28.638507,
-                        44.061888
-                  ]
-            },
-            {
                   "name": "Pool",
                   "text": "Piscină lângă coasta Mării Negre în Agigea.",
                   "category": "family",
@@ -308,15 +281,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.611419,
                         44.095088
-                  ]
-            },
-            {
-                  "name": "Eforie Aqua Park",
-                  "text": "A water park in Agigea providing aquatic fun for families.",
-                  "category": "family",
-                  "coords": [
-                        28.638507,
-                        44.061888
                   ]
             },
             {
@@ -734,15 +698,6 @@ export const poiExtraRoV1: POI[] = [
                         27.328959,
                         44.607278
                   ]
-            },
-            {
-                  "name": "Lacul Iezer - Gheorghe Lazăr",
-                  "text": "Lacul Iezer ist ein bedeutender See in Amara, bekannt für seine weite Wasserfläche und ruhige Lage.",
-                  "category": "natural",
-                  "coords": [
-                        27.422003,
-                        44.606362
-                  ]
             }
       ],
       "hu": [
@@ -774,15 +729,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.328959,
                         44.607278
-                  ]
-            },
-            {
-                  "name": "Lacul Iezer - Gheorghe Lazăr",
-                  "text": "A Lacul Iezer egy jelentős tó Amara területén, amely tágas vízfelületéről és nyugodt fekvéséről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        27.422003,
-                        44.606362
                   ]
             }
       ],
@@ -816,15 +762,6 @@ export const poiExtraRoV1: POI[] = [
                         27.328959,
                         44.607278
                   ]
-            },
-            {
-                  "name": "Lacul Iezer - Gheorghe Lazăr",
-                  "text": "Lacul Iezer este un lac important din Amara, cunoscut pentru suprafața sa vastă de apă și locația liniștită.",
-                  "category": "natural",
-                  "coords": [
-                        27.422003,
-                        44.606362
-                  ]
             }
       ],
       "en": [
@@ -856,15 +793,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.328959,
                         44.607278
-                  ]
-            },
-            {
-                  "name": "Lacul Iezer - Gheorghe Lazăr",
-                  "text": "Lacul Iezer is a significant lake in Amara, known for its vast water surface and quiet location.",
-                  "category": "natural",
-                  "coords": [
-                        27.422003,
-                        44.606362
                   ]
             }
       ]
@@ -1887,15 +1815,6 @@ export const poiExtraRoV1: POI[] = [
                         24.238486,
                         44.985704
                   ]
-            },
-            {
-                  "name": "Acumularea Govora",
-                  "text": "Acumularea Govora ist ein Stausee bei Babeni, ideal zum Beobachten der lokalen Flora und Fauna.",
-                  "category": "natural",
-                  "coords": [
-                        24.320049,
-                        45.031554
-                  ]
             }
       ],
       "hu": [
@@ -1906,15 +1825,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.238486,
                         44.985704
-                  ]
-            },
-            {
-                  "name": "Acumularea Govora",
-                  "text": "Az Acumularea Govora egy víztározó Babeni közelében, amely ideális a helyi növény- és állatvilág megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        24.320049,
-                        45.031554
                   ]
             }
       ],
@@ -1927,15 +1837,6 @@ export const poiExtraRoV1: POI[] = [
                         24.238486,
                         44.985704
                   ]
-            },
-            {
-                  "name": "Acumularea Govora",
-                  "text": "Acumularea Govora este un lac de acumulare de lângă Băbeni, ideal pentru observarea florei și faunei locale.",
-                  "category": "natural",
-                  "coords": [
-                        24.320049,
-                        45.031554
-                  ]
             }
       ],
       "en": [
@@ -1946,15 +1847,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.238486,
                         44.985704
-                  ]
-            },
-            {
-                  "name": "Acumularea Govora",
-                  "text": "Acumularea Govora is a reservoir near Babeni, ideal for observing the local flora and fauna.",
-                  "category": "natural",
-                  "coords": [
-                        24.320049,
-                        45.031554
                   ]
             }
       ]
@@ -2510,30 +2402,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Rezervor apă",
-                  "text": "Dieses Wasserreservoir in Baciu bietet einen friedlichen Blick auf die lokale Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        23.574861,
-                        46.758546
-                  ]
-            },
-            {
                   "name": "Lac de acumulare Hidroelectrica Florești",
                   "text": "Dieser Stausee in Baciu ist Teil der lokalen Landschaft und eignet sich für kurze Spaziergänge.",
                   "category": "natural",
                   "coords": [
                         23.466598,
                         46.751596
-                  ]
-            },
-            {
-                  "name": "Lacul Chios",
-                  "text": "Chios-See, ein kleiner Natursee in der Gemeinde Baciu.",
-                  "category": "natural",
-                  "coords": [
-                        23.576887,
-                        46.768203
                   ]
             },
             {
@@ -2640,30 +2514,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Rezervor apă",
-                  "text": "Ez a kisbácsi víztározó békés kilátást nyújt a helyi tájra.",
-                  "category": "natural",
-                  "coords": [
-                        23.574861,
-                        46.758546
-                  ]
-            },
-            {
                   "name": "Lac de acumulare Hidroelectrica Florești",
                   "text": "Ez a kisbácsi víztározó a helyi táj része, amely alkalmas rövid sétákra.",
                   "category": "natural",
                   "coords": [
                         23.466598,
                         46.751596
-                  ]
-            },
-            {
-                  "name": "Lacul Chios",
-                  "text": "Chios-tó, egy kis természetes tó Baciu községben.",
-                  "category": "natural",
-                  "coords": [
-                        23.576887,
-                        46.768203
                   ]
             },
             {
@@ -2770,30 +2626,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Rezervor apă",
-                  "text": "Acest rezervor de apă din Baciu oferă o priveliște liniștită asupra peisajului local.",
-                  "category": "natural",
-                  "coords": [
-                        23.574861,
-                        46.758546
-                  ]
-            },
-            {
                   "name": "Lac de acumulare Hidroelectrica Florești",
                   "text": "Acest lac de acumulare din Baciu face parte din peisajul local, fiind potrivit pentru scurte plimbări.",
                   "category": "natural",
                   "coords": [
                         23.466598,
                         46.751596
-                  ]
-            },
-            {
-                  "name": "Lacul Chios",
-                  "text": "Lacul Chios, un mic lac natural în comuna Baciu.",
-                  "category": "natural",
-                  "coords": [
-                        23.576887,
-                        46.768203
                   ]
             },
             {
@@ -2900,30 +2738,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Rezervor apă",
-                  "text": "This reservoir in Baciu offers a peaceful view of the local landscape.",
-                  "category": "natural",
-                  "coords": [
-                        23.574861,
-                        46.758546
-                  ]
-            },
-            {
                   "name": "Lac de acumulare Hidroelectrica Florești",
                   "text": "This reservoir in Baciu is part of the local scenery, suitable for short walks.",
                   "category": "natural",
                   "coords": [
                         23.466598,
                         46.751596
-                  ]
-            },
-            {
-                  "name": "Chios Lake",
-                  "text": "Chios Lake, a small natural lake in the Baciu commune.",
-                  "category": "natural",
-                  "coords": [
-                        23.576887,
-                        46.768203
                   ]
             },
             {
@@ -3687,15 +3507,6 @@ export const poiExtraRoV1: POI[] = [
                         26.098762,
                         46.908499
                   ]
-            },
-            {
-                  "name": "Acumularea Pângărați",
-                  "text": "Acumularea Pângărați ist ein malerischer See bei Bicaz, der sich gut für Spaziergänge am Ufer eignet.",
-                  "category": "natural",
-                  "coords": [
-                        26.204746,
-                        46.924391
-                  ]
             }
       ],
       "hu": [
@@ -3737,15 +3548,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.098762,
                         46.908499
-                  ]
-            },
-            {
-                  "name": "Acumularea Pângărați",
-                  "text": "Az Acumularea Pângărați egy festői tó Bicaz közelében, amely kiválóan alkalmas a vízparti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.204746,
-                        46.924391
                   ]
             }
       ],
@@ -3789,15 +3591,6 @@ export const poiExtraRoV1: POI[] = [
                         26.098762,
                         46.908499
                   ]
-            },
-            {
-                  "name": "Acumularea Pângărați",
-                  "text": "Acumularea Pângărați este un lac pitoresc de lângă Bicaz, potrivit pentru plimbări pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        26.204746,
-                        46.924391
-                  ]
             }
       ],
       "en": [
@@ -3839,15 +3632,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.098762,
                         46.908499
-                  ]
-            },
-            {
-                  "name": "Acumularea Pângărați",
-                  "text": "Acumularea Pângărați is a scenic lake near Bicaz, well-suited for walks along the shore.",
-                  "category": "natural",
-                  "coords": [
-                        26.204746,
-                        46.924391
                   ]
             }
       ]
@@ -5053,15 +4837,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Piatra Fetei",
-                  "text": "Lacul Piatra Fetei ist ein See bei Braila, ideal für entspannte Stunden in der freien Natur.",
-                  "category": "natural",
-                  "coords": [
-                        28.060813,
-                        45.260784
-                  ]
-            },
-            {
                   "name": "Lacul Arupu",
                   "text": "Arupu-See bei Brăila, ein kleiner See in den Brăila-Feuchtgebieten.",
                   "category": "natural",
@@ -5162,15 +4937,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.911805,
                         45.220248
-                  ]
-            },
-            {
-                  "name": "Lacul Piatra Fetei",
-                  "text": "A Lacul Piatra Fetei egy tó Brăila közelében, amely ideális a természetben való pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        28.060813,
-                        45.260784
                   ]
             },
             {
@@ -5277,15 +5043,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Piatra Fetei",
-                  "text": "Lacul Piatra Fetei este un lac de lângă Brăila, ideal pentru ore de relaxare în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        28.060813,
-                        45.260784
-                  ]
-            },
-            {
                   "name": "Lacul Arupu",
                   "text": "Lacul Arupu lângă Brăila, un mic lac în zonele umede ale Brăilei.",
                   "category": "natural",
@@ -5389,15 +5146,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Piatra Fetei",
-                  "text": "Lacul Piatra Fetei is a lake near Braila, ideal for relaxing hours in the great outdoors.",
-                  "category": "natural",
-                  "coords": [
-                        28.060813,
-                        45.260784
-                  ]
-            },
-            {
                   "name": "Lacul Arupu",
                   "text": "Lake Arupu near Brăila, a small lake in the Brăila wetlands.",
                   "category": "natural",
@@ -5497,24 +5245,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Iazul Aladdin",
-                  "text": "Aladdin Teich in Brănești, ein künstlicher Angelsee mit Schilfgürtel.",
-                  "category": "natural",
-                  "coords": [
-                        26.320608,
-                        44.507968
-                  ]
-            },
-            {
-                  "name": "Balta Pescuit Șindrilița",
-                  "text": "Šindrilița Angelteich in Brănești, ein beliebter Karpfenangelplatz.",
-                  "category": "natural",
-                  "coords": [
-                        26.294144,
-                        44.513819
-                  ]
-            },
-            {
                   "name": "Lacul Cernica",
                   "text": "Cernica-See in Brănești, ein natürlicher See zum Angeln und Bootfahren.",
                   "category": "natural",
@@ -5552,24 +5282,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.318661,
                         44.486895
-                  ]
-            },
-            {
-                  "name": "Iazul Aladdin",
-                  "text": "Aladdin-tó Brăneștiben, egy mesterséges horgásztó nádassal övezve.",
-                  "category": "natural",
-                  "coords": [
-                        26.320608,
-                        44.507968
-                  ]
-            },
-            {
-                  "name": "Balta Pescuit Șindrilița",
-                  "text": "Šindrilița horgásztó Brăneștiben, népszerű pontyhalászati hely.",
-                  "category": "natural",
-                  "coords": [
-                        26.294144,
-                        44.513819
                   ]
             },
             {
@@ -5613,24 +5325,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Iazul Aladdin",
-                  "text": "Iazul Aladdin din Brănești, un lac artificial de pescuit înconjurat de stuf.",
-                  "category": "natural",
-                  "coords": [
-                        26.320608,
-                        44.507968
-                  ]
-            },
-            {
-                  "name": "Balta Pescuit Șindrilița",
-                  "text": "Balta Pescuit Șindrilița din Brănești, un loc popular pentru pescuitul crapului.",
-                  "category": "natural",
-                  "coords": [
-                        26.294144,
-                        44.513819
-                  ]
-            },
-            {
                   "name": "Lacul Cernica",
                   "text": "Lacul Cernica din Brănești, un lac natural folosit pentru pescuit și plimbări cu barca.",
                   "category": "natural",
@@ -5671,24 +5365,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Iazul Aladdin",
-                  "text": "Aladdin pond in Brănești, a man-made fishing lake surrounded by reeds.",
-                  "category": "natural",
-                  "coords": [
-                        26.320608,
-                        44.507968
-                  ]
-            },
-            {
-                  "name": "Balta Pescuit Șindrilița",
-                  "text": "Šindrilița fishing pond in Brănești, a popular carp fishing spot.",
-                  "category": "natural",
-                  "coords": [
-                        26.294144,
-                        44.513819
-                  ]
-            },
-            {
                   "name": "Lacul Cernica",
                   "text": "Lake Cernica in Brănești, a natural lake used for fishing and boating.",
                   "category": "natural",
@@ -5712,26 +5388,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.58803,
                         45.64101
-                  ]
-            },
-            {
-                  "name": "Piața Sfatului",
-                  "text": "Der zentrale Marktplatz mit dem alten Rathaus, umgeben von historischen Gebäuden mit bunten Fassaden.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        25.589,
-                        45.642
-                  ]
-            },
-            {
-                  "name": "Strada Sforii",
-                  "text": "Eine der schmalsten Gassen Europas, ursprünglich als Zugangsweg für Feuerwehrleute gedacht.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        25.588474,
-                        45.639644
                   ]
             },
             {
@@ -5772,26 +5428,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.5861,
                         45.6395
-                  ]
-            },
-            {
-                  "name": "Weberbastei",
-                  "text": "Ein perfekt erhaltener Teil der Stadtbefestigung, der heute ein interessantes Museum über die Geschichte der Zünfte und Wehranlagen beherbergt.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        25.589,
-                        45.637
-                  ]
-            },
-            {
-                  "name": "Schwarzer Turm",
-                  "text": "Einer der vier äußeren Wachtürme der Festung, der einen fantastischen Panoramablick auf die Schwarze Kirche und die Altstadt bietet.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        25.5857,
-                        45.6413
                   ]
             },
             {
@@ -5872,24 +5508,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.6317,
                         45.6129
-                  ]
-            },
-            {
-                  "name": "Balta Cristian",
-                  "text": "Cristian Teich in Brașov, ein kleiner See mit bewaldeten Ufern zum Spazieren.",
-                  "category": "natural",
-                  "coords": [
-                        25.513429,
-                        45.631086
-                  ]
-            },
-            {
-                  "name": "Lacul Noua",
-                  "text": "Der Noua-See ist ein beliebter See in Brasov, der eine schöne Kulisse für Outdoor-Aktivitäten bietet.",
-                  "category": "natural",
-                  "coords": [
-                        25.639842,
-                        45.613724
                   ]
             },
             {
@@ -5999,33 +5617,6 @@ export const poiExtraRoV1: POI[] = [
                         25.603142,
                         45.680542
                   ]
-            },
-            {
-                  "name": "Brasovia Citadel",
-                  "text": "Die Ruinen der mittelalterlichen Festung Brașovia auf dem Berg Tâmpa in Brașov.",
-                  "category": "historical",
-                  "coords": [
-                        25.592225,
-                        45.633048
-                  ]
-            },
-            {
-                  "name": "Cetatuia de pe Straja",
-                  "text": "Cetățuia de pe Strajă ist eine Festung auf einem Hügel oberhalb der Altstadt von Brașov.",
-                  "category": "fortress",
-                  "coords": [
-                        25.59186,
-                        45.649309
-                  ]
-            },
-            {
-                  "name": "Teatrul Sica Alexandrescu",
-                  "text": "Ein bedeutendes Theater in Brașov, benannt nach Sică Alexandrescu.",
-                  "category": "cultural",
-                  "coords": [
-                        25.598603,
-                        45.645795
-                  ]
             }
       ],
       "hu": [
@@ -6037,26 +5628,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.58803,
                         45.64101
-                  ]
-            },
-            {
-                  "name": "Piața Sfatului",
-                  "text": "A Tanács tér Brassó szíve a régi városházával és hangulatos, színes polgárházaival.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        25.589,
-                        45.642
-                  ]
-            },
-            {
-                  "name": "Strada Sforii",
-                  "text": "Európa egyik legszűkebb utcája, amely egykor tűzoltóközlekedésre szolgált a városfalak között.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        25.588474,
-                        45.639644
                   ]
             },
             {
@@ -6100,26 +5671,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Takácsok bástyája",
-                  "text": "Brassó legépszerűbb bástyája, amely ma a várfalakat és a város középkori makettjét bemutató múzeumnak ad otthont.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        25.589,
-                        45.637
-                  ]
-            },
-            {
-                  "name": "Fekete torony",
-                  "text": "A városfalon kívüli négy őrtorony egyike, ahonnan páratlan kilátás nyílik a Fekete-templomra és a történelmi belvárosra.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        25.5857,
-                        45.6413
-                  ]
-            },
-            {
                   "name": "Bolgárszegi kapu",
                   "text": "Klasszicista stílusú városkapu, amely a bolgárszegi (Șchei) román negyed és a várfalakkal övezett belváros között biztosított átjárást.",
                   "category": "historical",
@@ -6160,16 +5711,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Graft-bástya",
-                  "text": "A Graft-patak felett átívelő védelmi építmény, amely egykor a Fehér toronyhoz vezető feljárót is védte.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        25.58736,
-                        45.64255
-                  ]
-            },
-            {
                   "name": "Mureșianu-ház",
                   "text": "A neves Mureșianu családnak emléket állító múzeum, amely a város kulturális fejlődésének fontos dokumentumait őrzi.",
                   "category": "museum",
@@ -6197,24 +5738,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.6317,
                         45.6129
-                  ]
-            },
-            {
-                  "name": "Balta Cristian",
-                  "text": "Cristian-tó Brassóban, egy kis tó erdős partokkal sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        25.513429,
-                        45.631086
-                  ]
-            },
-            {
-                  "name": "Lacul Noua",
-                  "text": "A Noua-tó egy népszerű tó Brassóban, amely szép környezetet kínál a szabadtéri tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        25.639842,
-                        45.613724
                   ]
             },
             {
@@ -6324,33 +5847,6 @@ export const poiExtraRoV1: POI[] = [
                         25.603142,
                         45.680542
                   ]
-            },
-            {
-                  "name": "Brasovia Citadel",
-                  "text": "Brassovia várának középkori romjai a Cenk-hegyen, Brassóban.",
-                  "category": "historical",
-                  "coords": [
-                        25.592225,
-                        45.633048
-                  ]
-            },
-            {
-                  "name": "Cetatuia de pe Straja",
-                  "text": "A Cetățuia de pe Strajă egy erőd a dombon, Brașov óvárosa fölött.",
-                  "category": "fortress",
-                  "coords": [
-                        25.59186,
-                        45.649309
-                  ]
-            },
-            {
-                  "name": "Teatrul Sica Alexandrescu",
-                  "text": "Brassó egyik legfontosabb színháza, amely neves rendezője nevét viseli.",
-                  "category": "cultural",
-                  "coords": [
-                        25.598603,
-                        45.645795
-                  ]
             }
       ],
       "ro": [
@@ -6362,26 +5858,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.58803,
                         45.64101
-                  ]
-            },
-            {
-                  "name": "Piața Sfatului",
-                  "text": "Inima istorică a Brașovului, dominată de Casa Sfatului și înconjurată de clădiri de patrimoniu.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        25.589,
-                        45.642
-                  ]
-            },
-            {
-                  "name": "Strada Sforii",
-                  "text": "Cea mai îngustă stradă din România și una dintre cele mai înguste din Europa, o atracție turistică unică.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        25.588474,
-                        45.639644
                   ]
             },
             {
@@ -6425,26 +5901,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Bastionul Țesătorilor",
-                  "text": "Cel mai bine conservat bastion din Brașov, găzduind în prezent o expoziție muzeală dedicată fortificațiilor cetății.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        25.589,
-                        45.637
-                  ]
-            },
-            {
-                  "name": "Turnul Negru",
-                  "text": "Unul dintre cele patru turnuri de observație ale cetății, oferind o panoramă spectaculoasă asupra Bisericii Negre.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        25.5857,
-                        45.6413
-                  ]
-            },
-            {
                   "name": "Poarta Șchei",
                   "text": "Construită în stil clasicist pentru a fluidiza traficul între oraș și cartierul Șchei, înlocuind vechea poartă medievală.",
                   "category": "historical",
@@ -6465,16 +5921,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeul de Artă Brașov",
-                  "text": "Deține o colecție impresionantă de pictură și sculptură românească, incluzând lucrări ale marilor maeștri naționali.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        25.593531,
-                        45.644989
-                  ]
-            },
-            {
                   "name": "Muzeul de Etnografie",
                   "text": "Dedicat valorificării patrimoniului cultural al comunităților din sud-estul Transilvaniei prin costume și obiecte populare.",
                   "category": "museum",
@@ -6482,16 +5928,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.593439,
                         45.645072
-                  ]
-            },
-            {
-                  "name": "Bastionul Graft",
-                  "text": "Construit peste canalul Graft, făcea legătura între cetate și Turnul Alb, servind astăzi ca spațiu expozițional medieval.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        25.58736,
-                        45.64255
                   ]
             },
             {
@@ -6522,24 +5958,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.6317,
                         45.6129
-                  ]
-            },
-            {
-                  "name": "Balta Cristian",
-                  "text": "Balta Cristian din Brașov, un mic lac cu maluri împădurite pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        25.513429,
-                        45.631086
-                  ]
-            },
-            {
-                  "name": "Lacul Noua",
-                  "text": "Lacul Noua este un lac popular din Brașov, oferind un cadru frumos pentru activități în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        25.639842,
-                        45.613724
                   ]
             },
             {
@@ -6649,33 +6067,6 @@ export const poiExtraRoV1: POI[] = [
                         25.603142,
                         45.680542
                   ]
-            },
-            {
-                  "name": "Brasovia Citadel",
-                  "text": "Ruinele cetății medievale Brassovia, situate pe muntele Tâmpa din Brașov.",
-                  "category": "historical",
-                  "coords": [
-                        25.592225,
-                        45.633048
-                  ]
-            },
-            {
-                  "name": "Cetatuia de pe Straja",
-                  "text": "Cetățuia de pe Strajă este o fortăreață pe un deal deasupra centrului vechi al Brașovului.",
-                  "category": "fortress",
-                  "coords": [
-                        25.59186,
-                        45.649309
-                  ]
-            },
-            {
-                  "name": "Teatrul Sica Alexandrescu",
-                  "text": "Un teatru important din Brașov, numit în onoarea lui Sică Alexandrescu.",
-                  "category": "cultural",
-                  "coords": [
-                        25.598603,
-                        45.645795
-                  ]
             }
       ],
       "en": [
@@ -6687,26 +6078,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.58803,
                         45.64101
-                  ]
-            },
-            {
-                  "name": "Piața Sfatului",
-                  "text": "The central Council Square is the hub of the old town, surrounded by medieval houses and cafes.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        25.589,
-                        45.642
-                  ]
-            },
-            {
-                  "name": "Strada Sforii",
-                  "text": "One of the narrowest streets in Europe, originally used as a passage for firefighters.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        25.588474,
-                        45.639644
                   ]
             },
             {
@@ -6750,26 +6121,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Weavers' Bastion",
-                  "text": "The best-preserved bastion of the city, now housing a museum featuring a scale model of medieval Brașov.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        25.589,
-                        45.637
-                  ]
-            },
-            {
-                  "name": "Black Tower",
-                  "text": "One of the four original watchtowers outside the fortress walls, offering great views of the Black Church and Old Town.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        25.5857,
-                        45.6413
-                  ]
-            },
-            {
                   "name": "Șchei Gate",
                   "text": "A neoclassical city gate built in the 19th century to improve access between the historic center and the Șchei district.",
                   "category": "historical",
@@ -6790,16 +6141,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Brașov Art Museum",
-                  "text": "Showcasing a significant collection of Romanian paintings and sculptures from the 18th century to the modern era.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        25.593531,
-                        45.644989
-                  ]
-            },
-            {
                   "name": "Ethnographic Museum",
                   "text": "A museum dedicated to the folk traditions, traditional costumes, and crafts of the southeastern Transylvania region.",
                   "category": "museum",
@@ -6807,16 +6148,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.593439,
                         45.645072
-                  ]
-            },
-            {
-                  "name": "Graft Bastion",
-                  "text": "Built over the Graft stream, this defensive structure once protected the access path leading up to the White Tower.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        25.58736,
-                        45.64255
                   ]
             },
             {
@@ -6847,24 +6178,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.6317,
                         45.6129
-                  ]
-            },
-            {
-                  "name": "Balta Cristian",
-                  "text": "Cristian pond in Brașov, a small lake with wooded banks for walking.",
-                  "category": "natural",
-                  "coords": [
-                        25.513429,
-                        45.631086
-                  ]
-            },
-            {
-                  "name": "Lacul Noua",
-                  "text": "Lacul Noua is a popular lake in Brasov, offering a beautiful setting for outdoor activities.",
-                  "category": "natural",
-                  "coords": [
-                        25.639842,
-                        45.613724
                   ]
             },
             {
@@ -6974,33 +6287,6 @@ export const poiExtraRoV1: POI[] = [
                         25.603142,
                         45.680542
                   ]
-            },
-            {
-                  "name": "Brasovia Citadel",
-                  "text": "The ruins of the medieval Brasovia Citadel, located on Mount Tâmpa in Brașov.",
-                  "category": "historical",
-                  "coords": [
-                        25.592225,
-                        45.633048
-                  ]
-            },
-            {
-                  "name": "Cetatuia de pe Straja",
-                  "text": "Cetățuia de pe Strajă is a fortress on a hill overlooking the old town of Brașov.",
-                  "category": "fortress",
-                  "coords": [
-                        25.59186,
-                        45.649309
-                  ]
-            },
-            {
-                  "name": "Teatrul Sica Alexandrescu",
-                  "text": "A prominent theater in Brașov named after director Sică Alexandrescu.",
-                  "category": "cultural",
-                  "coords": [
-                        25.598603,
-                        45.645795
-                  ]
             }
       ]
 }
@@ -7017,33 +6303,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.668725,
                         45.180211
-                  ]
-            },
-            {
-                  "name": "Lacul Peștelui - Deșeuri Petroliere",
-                  "text": "Lacul Peștelui ist ein lokales Gewässer in Breaza De Jos, das Teil der umliegenden Landschaft ist.",
-                  "category": "natural",
-                  "coords": [
-                        25.756138,
-                        45.13576
-                  ]
-            },
-            {
-                  "name": "Lacul Curiacul",
-                  "text": "Curiacul-See in Breaza de Jos, ein kleiner natürlicher See in einem bewaldeten Tal.",
-                  "category": "natural",
-                  "coords": [
-                        25.7257,
-                        45.130038
-                  ]
-            },
-            {
-                  "name": "Piscină adulți",
-                  "text": "Erwachsenenbecken in Breaza de Jos, ein rechteckiges Außenschwimmbecken.",
-                  "category": "family",
-                  "coords": [
-                        25.694334,
-                        45.145737
                   ]
             },
             {
@@ -7068,33 +6327,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Peștelui - Deșeuri Petroliere",
-                  "text": "A Lacul Peștelui egy helyi vízfelület Breaza De Jos területén, amely a környező táj része.",
-                  "category": "natural",
-                  "coords": [
-                        25.756138,
-                        45.13576
-                  ]
-            },
-            {
-                  "name": "Lacul Curiacul",
-                  "text": "Curiacul-tó Breaza de Josban, egy kis természetes tó erdős völgyben.",
-                  "category": "natural",
-                  "coords": [
-                        25.7257,
-                        45.130038
-                  ]
-            },
-            {
-                  "name": "Piscină adulți",
-                  "text": "Felnőtt medence Breaza de Josban, egy téglalap alakú kültéri úszómedence.",
-                  "category": "family",
-                  "coords": [
-                        25.694334,
-                        45.145737
-                  ]
-            },
-            {
                   "name": "G-Club",
                   "text": "Egy úszómedence Breaza de Jos-ban, amely alkalmas családok számára.",
                   "category": "family",
@@ -7113,33 +6345,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.668725,
                         45.180211
-                  ]
-            },
-            {
-                  "name": "Lacul Peștelui - Deșeuri Petroliere",
-                  "text": "Lacul Peștelui este un luciu de apă local din Breaza de Jos, care face parte din peisajul înconjurător.",
-                  "category": "natural",
-                  "coords": [
-                        25.756138,
-                        45.13576
-                  ]
-            },
-            {
-                  "name": "Lacul Curiacul",
-                  "text": "Lacul Curiacul din Breaza de Jos, un mic lac natural într-o vale împădurită.",
-                  "category": "natural",
-                  "coords": [
-                        25.7257,
-                        45.130038
-                  ]
-            },
-            {
-                  "name": "Piscină adulți",
-                  "text": "Piscina pentru adulți din Breaza de Jos, o piscină exterioară dreptunghiulară.",
-                  "category": "family",
-                  "coords": [
-                        25.694334,
-                        45.145737
                   ]
             },
             {
@@ -7164,33 +6369,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Peștelui - Deșeuri Petroliere",
-                  "text": "Lacul Peștelui is a local body of water in Breaza De Jos that is part of the surrounding landscape.",
-                  "category": "natural",
-                  "coords": [
-                        25.756138,
-                        45.13576
-                  ]
-            },
-            {
-                  "name": "Lacul Curiacul",
-                  "text": "Lake Curiacul in Breaza de Jos, a small natural lake in a forested valley.",
-                  "category": "natural",
-                  "coords": [
-                        25.7257,
-                        45.130038
-                  ]
-            },
-            {
-                  "name": "Piscină adulți",
-                  "text": "Adults' pool in Breaza de Jos, a rectangular outdoor swimming pool.",
-                  "category": "family",
-                  "coords": [
-                        25.694334,
-                        45.145737
-                  ]
-            },
-            {
                   "name": "G-Club",
                   "text": "A swimming pool in Breaza de Jos suitable for families.",
                   "category": "family",
@@ -7207,16 +6385,6 @@ export const poiExtraRoV1: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Herrenhaus Toma Cantacuzino",
-                  "text": "Ein historisches Baudenkmal, das die architektonische Eleganz vergangener Jahrhunderte widerspiegelt und einst eine bedeutende Adelsresidenz war.",
-                  "category": "historical",
-                  "confidence": "medium",
-                  "coords": [
-                        25.66693,
-                        45.180976
-                  ]
-            },
-            {
                   "name": "Landschaftspark Breaza",
                   "text": "Ein weitläufiger Park, der für seine saubere, ozonreiche Luft bekannt ist und Erholungswege für Kurgäste bietet.",
                   "category": "natural",
@@ -7224,24 +6392,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.6605,
                         45.181739
-                  ]
-            },
-            {
-                  "name": "Loc Joacă Copii",
-                  "text": "Dieser Loc Joacă Copii in Breaza de Sus bietet Kindern einen sicheren Platz zum Spielen.",
-                  "category": "family",
-                  "coords": [
-                        25.668368,
-                        45.180473
-                  ]
-            },
-            {
-                  "name": "G-Club",
-                  "text": "Der G-Club in Breaza De Sus bietet ein Schwimmbad in einer ruhigen Umgebung.",
-                  "category": "family",
-                  "coords": [
-                        25.673112,
-                        45.171637
                   ]
             }
       ],
@@ -7265,37 +6415,9 @@ export const poiExtraRoV1: POI[] = [
                         25.6605,
                         45.181739
                   ]
-            },
-            {
-                  "name": "Loc Joacă Copii",
-                  "text": "Ez a Breaza de Sus-i Loc Joacă Copii biztonságos helyet nyújt a gyermekeknek a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        25.668368,
-                        45.180473
-                  ]
-            },
-            {
-                  "name": "G-Club",
-                  "text": "A felsőbereznai G-Club úszómedencét kínál nyugodt környezetben.",
-                  "category": "family",
-                  "coords": [
-                        25.673112,
-                        45.171637
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Conacul Toma Cantacuzino",
-                  "text": "Monument istoric reprezentativ pentru arhitectura nobiliară, amintind de trecutul boieresc al zonei și de eleganța stilului de viață de altădată.",
-                  "category": "historical",
-                  "confidence": "medium",
-                  "coords": [
-                        25.66693,
-                        45.180976
-                  ]
-            },
             {
                   "name": "Parcul Municipal Breaza",
                   "text": "O zonă verde vastă, renumită pentru calitatea aerului puternic ozonat, ideală pentru plimbări relaxante în stațiune.",
@@ -7305,37 +6427,9 @@ export const poiExtraRoV1: POI[] = [
                         25.6605,
                         45.181739
                   ]
-            },
-            {
-                  "name": "Loc Joacă Copii",
-                  "text": "Acest Loc Joacă Copii din Breaza de Sus oferă copiilor un spațiu sigur pentru joacă.",
-                  "category": "family",
-                  "coords": [
-                        25.668368,
-                        45.180473
-                  ]
-            },
-            {
-                  "name": "G-Club",
-                  "text": "G-Club din Breaza de Sus oferă o piscină într-un cadru liniștit.",
-                  "category": "family",
-                  "coords": [
-                        25.673112,
-                        45.171637
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Toma Cantacuzino Manor",
-                  "text": "A representative historical monument reflecting the architectural elegance of past centuries and the noble heritage of the Prahova region.",
-                  "category": "historical",
-                  "confidence": "medium",
-                  "coords": [
-                        25.66693,
-                        45.180976
-                  ]
-            },
             {
                   "name": "Breaza Municipal Park",
                   "text": "A spacious public park famous for its clean, ozone-rich air, offering scenic walking paths for visitors and locals.",
@@ -7344,24 +6438,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.6605,
                         45.181739
-                  ]
-            },
-            {
-                  "name": "Loc Joacă Copii",
-                  "text": "This Loc Joacă Copii in Breaza De Sus provides a safe space for children to play.",
-                  "category": "family",
-                  "coords": [
-                        25.668368,
-                        45.180473
-                  ]
-            },
-            {
-                  "name": "G-Club",
-                  "text": "G-Club in Breaza De Sus offers a swimming pool in a quiet setting.",
-                  "category": "family",
-                  "coords": [
-                        25.673112,
-                        45.171637
                   ]
             }
       ]
@@ -7696,36 +6772,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Arcul de Triumf",
-                  "text": "Ein Denkmal zu Ehren des Sieges im Ersten Weltkrieg, das dem Pariser Arc de Triomphe nachempfunden ist.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        26.078361,
-                        44.467278
-                  ]
-            },
-            {
-                  "name": "Stavropoleos-Kloster",
-                  "text": "Ein orthodoxes Juwel aus dem 18. Jahrhundert, bekannt für seinen Brâncovenesc-Stil und kunstvolle Steinmetzarbeiten.",
-                  "category": "monastic",
-                  "confidence": "high",
-                  "coords": [
-                        26.098789,
-                        44.431742
-                  ]
-            },
-            {
-                  "name": "Herăstrău-Park",
-                  "text": "Der größte Park in Bukarest, rund um einen See gelegen, mit Möglichkeiten zum Bootfahren und Entspannen.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        26.08169,
-                        44.47921
-                  ]
-            },
-            {
                   "name": "Altstadt (Lipscani)",
                   "text": "Das historische Viertel der Stadt, voller Cafés, Restaurants und Ruinen des mittelalterlichen Fürstenhofs.",
                   "category": "historical",
@@ -7733,16 +6779,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.100386,
                         44.431942
-                  ]
-            },
-            {
-                  "name": "CEC-Palast",
-                  "text": "Ein eklektischer Palast an der Calea Victoriei, eines der schönsten Gebäude mit Glas- und Metallkuppel.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        26.0965,
-                        44.432
                   ]
             },
             {
@@ -7783,16 +6819,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.10205,
                         44.429556
-                  ]
-            },
-            {
-                  "name": "Nationalmuseum Cotroceni",
-                  "text": "Dieser ehemalige königliche Palast dient heute als Sitz des Präsidenten und beherbergt ein Museum für Kunst und Geschichte.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        26.062502,
-                        44.434217
                   ]
             },
             {
@@ -7915,24 +6941,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina Lido",
-                  "text": "Lido Schwimmbad in Bukarest, ein olympiagroßes Außenbecken im Stadtzentrum.",
-                  "category": "recreational",
-                  "coords": [
-                        26.098644,
-                        44.441286
-                  ]
-            },
-            {
-                  "name": "Bazin Olimpic",
-                  "text": "Olympia-Schwimmbecken in Bukarest, ein 50-Meter-Hallenbecken.",
-                  "category": "recreational",
-                  "coords": [
-                        26.146701,
-                        44.435432
-                  ]
-            },
-            {
                   "name": "Ștrandul Văcărești - Ștrandul Copiilor",
                   "text": "Văcărești Kinderbecken in Bukarest, ein großer Außenpoolkomplex mit Rutschen.",
                   "category": "recreational",
@@ -7949,15 +6957,6 @@ export const poiExtraRoV1: POI[] = [
                         26.109078,
                         44.401337
                   ]
-            },
-            {
-                  "name": "Bazin de Înot Dante Aligheri",
-                  "text": "Dante-Alighieri-Schwimmbecken in Bukarest, ein mittelgroßes Hallenbecken.",
-                  "category": "recreational",
-                  "coords": [
-                        26.159568,
-                        44.417735
-                  ]
             }
       ],
       "hu": [
@@ -7969,16 +6968,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.0875,
                         44.4275
-                  ]
-            },
-            {
-                  "name": "Román Athéneum",
-                  "text": "Bukarest koncertterme, amely lenyűgöző neoklasszicista stílusáról és freskókkal díszített belső teréről ismert.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        26.0973,
-                        44.4413
                   ]
             },
             {
@@ -8002,26 +6991,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Stavropoleos kolostor",
-                  "text": "Kisméretű ortodox kolostor a belvárosban, a brâncovenesc stílus és a kőfaragások kivételes példája.",
-                  "category": "monastic",
-                  "confidence": "high",
-                  "coords": [
-                        26.098789,
-                        44.431742
-                  ]
-            },
-            {
-                  "name": "Herăstrău park",
-                  "text": "Bukarest legnagyobb parkja, amely egy tó körül terül el, csónakázási és kikapcsolódási lehetőségekkel.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        26.08169,
-                        44.47921
-                  ]
-            },
-            {
                   "name": "Óváros (Lipscani)",
                   "text": "A város történelmi negyede, tele kávézókkal, éttermekkel és a középkori fejedelmi udvar maradványaival.",
                   "category": "historical",
@@ -8029,16 +6998,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.100386,
                         44.431942
-                  ]
-            },
-            {
-                  "name": "CEC-palota",
-                  "text": "Eklektikus stílusú palota a Calea Victoriei-n, üveg- és fémkupolájával a város egyik legszebb épülete.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        26.0965,
-                        44.432
                   ]
             },
             {
@@ -8069,26 +7028,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.097225,
                         44.431531
-                  ]
-            },
-            {
-                  "name": "Manuc fogadója",
-                  "text": "Az 1808-ban épült Hanul lui Manuc Bukarest legrégebbi működő szállodaépülete, amely híres hangulatos, faerkélyes belső udvaráról.",
-                  "category": "hotel",
-                  "confidence": "high",
-                  "coords": [
-                        26.10205,
-                        44.429556
-                  ]
-            },
-            {
-                  "name": "Cotroceni Nemzeti Múzeum",
-                  "text": "Az egykori királyi palota ma a román elnöki hivatal székhelye, belső terei pedig gazdag művészeti gyűjteményt mutatnak be.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        26.062502,
-                        44.434217
                   ]
             },
             {
@@ -8211,24 +7150,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina Lido",
-                  "text": "Lido medence Bukarestben, egy olimpiai méretű kültéri medence a belvárosban.",
-                  "category": "recreational",
-                  "coords": [
-                        26.098644,
-                        44.441286
-                  ]
-            },
-            {
-                  "name": "Bazin Olimpic",
-                  "text": "Olimpiai medence Bukarestben, egy 50 méteres fedett úszómedence.",
-                  "category": "recreational",
-                  "coords": [
-                        26.146701,
-                        44.435432
-                  ]
-            },
-            {
                   "name": "Ștrandul Văcărești - Ștrandul Copiilor",
                   "text": "Văcărești gyermekmedence Bukarestben, egy nagy kültéri medencekomplexum csúszdákkal.",
                   "category": "recreational",
@@ -8245,15 +7166,6 @@ export const poiExtraRoV1: POI[] = [
                         26.109078,
                         44.401337
                   ]
-            },
-            {
-                  "name": "Bazin de Înot Dante Aligheri",
-                  "text": "Dante Alighieri úszómedence Bukarestben, egy közepes méretű fedett medence.",
-                  "category": "recreational",
-                  "coords": [
-                        26.159568,
-                        44.417735
-                  ]
             }
       ],
       "ro": [
@@ -8265,46 +7177,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.0875,
                         44.4275
-                  ]
-            },
-            {
-                  "name": "Ateneul Român",
-                  "text": "Edificiu simbol al culturii române, sediul Filarmonicii George Enescu, construit în stil neoclasic cu elemente eclectice.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        26.0973,
-                        44.4413
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Satului „Dimitrie Gusti”",
-                  "text": "Muzeu etnografic în aer liber care reunește case tradiționale din toate regiunile istorice ale României.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        26.077914,
-                        44.471581
-                  ]
-            },
-            {
-                  "name": "Arcul de Triumf",
-                  "text": "Monument construit pentru a celebra victoria României în Primul Război Mondial, situat în partea de nord a capitalei.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        26.078361,
-                        44.467278
-                  ]
-            },
-            {
-                  "name": "Mănăstirea Stavropoleos",
-                  "text": "O mănăstire ortodoxă veche din Centrul Vechi, celebră pentru arhitectura stil Brâncovenesc și curtea sa interioară.",
-                  "category": "monastic",
-                  "confidence": "high",
-                  "coords": [
-                        26.098789,
-                        44.431742
                   ]
             },
             {
@@ -8328,26 +7200,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Palatul CEC",
-                  "text": "Clădire monumentală de pe Calea Victoriei, finalizată în 1900, remarcabilă prin cupola sa de sticlă și metal.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        26.0965,
-                        44.432
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Artă al României",
-                  "text": "Găzduit în fostul Palat Regal, muzeul deține colecții impresionante de artă românească, medievală și europeană.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        26.09598,
-                        44.43978
-                  ]
-            },
-            {
                   "name": "Parcul Cișmigiu",
                   "text": "Cea mai veche grădină publică din București, realizată în stil englezesc, cu un lac pitoresc și alei umbroase.",
                   "category": "natural",
@@ -8368,16 +7220,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Hanul lui Manuc",
-                  "text": "Construit în 1808, este cel mai vechi hotel din București încă în funcțiune, păstrând o curte interioară tradițională superbă.",
-                  "category": "hotel",
-                  "confidence": "high",
-                  "coords": [
-                        26.10205,
-                        44.429556
-                  ]
-            },
-            {
                   "name": "Palatul Cotroceni",
                   "text": "Reședință oficială a Președintelui României, complexul include un muzeu național ce prezintă apartamentele regale și istoria locului.",
                   "category": "historical",
@@ -8385,16 +7227,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.062502,
                         44.434217
-                  ]
-            },
-            {
-                  "name": "Muzeul Național de Istorie Naturală Grigore Antipa",
-                  "text": "Unul dintre cele mai iubite muzee, celebru pentru colecția de fluturi, dioramele realiste și scheletul uriaș de Deinotherium.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        26.0846,
-                        44.4531
                   ]
             },
             {
@@ -8415,26 +7247,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.097951,
                         44.424563
-                  ]
-            },
-            {
-                  "name": "Pasajul Macca-Vilacrosse",
-                  "text": "Un pasaj acoperit cu sticlă galbenă în formă de potcoavă, faimos pentru cafenelele sale cu aer boem și arhitectura franceză.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        26.098603,
-                        44.433131
-                  ]
-            },
-            {
-                  "name": "Muzeul Național al Țăranului Român",
-                  "text": "Deținător al titlului de Muzeul European al Anului, expune o colecție vastă de obiecte tradiționale, costume și icoane.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        26.083678,
-                        44.454383
                   ]
             },
             {
@@ -8507,24 +7319,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina Lido",
-                  "text": "Piscina Lido din București, o piscină exterioară de dimensiuni olimpice în centrul orașului.",
-                  "category": "recreational",
-                  "coords": [
-                        26.098644,
-                        44.441286
-                  ]
-            },
-            {
-                  "name": "Bazin Olimpic",
-                  "text": "Bazinul Olimpic din București, o piscină acoperită de 50 de metri.",
-                  "category": "recreational",
-                  "coords": [
-                        26.146701,
-                        44.435432
-                  ]
-            },
-            {
                   "name": "Ștrandul Văcărești - Ștrandul Copiilor",
                   "text": "Ștrandul Văcărești - Ștrandul Copiilor din București, un complex mare de piscine exterioare cu tobogane.",
                   "category": "recreational",
@@ -8540,15 +7334,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.109078,
                         44.401337
-                  ]
-            },
-            {
-                  "name": "Bazin de Înot Dante Aligheri",
-                  "text": "Bazinul de Înot Dante Alighieri din București, o piscină acoperită de dimensiuni medii.",
-                  "category": "recreational",
-                  "coords": [
-                        26.159568,
-                        44.417735
                   ]
             }
       ],
@@ -8584,36 +7369,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Arcul de Triumf",
-                  "text": "A triumphal arch commemorating Romania's victory in WWI, modeled after the famous arch in Paris.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        26.078361,
-                        44.467278
-                  ]
-            },
-            {
-                  "name": "Stavropoleos Monastery",
-                  "text": "Small 18th-century Orthodox monastery known for its Brâncovenesc style architecture and intricate stone carvings.",
-                  "category": "monastic",
-                  "confidence": "high",
-                  "coords": [
-                        26.098789,
-                        44.431742
-                  ]
-            },
-            {
-                  "name": "Herăstrău Park",
-                  "text": "Large park surrounding a lake, offering boat rides, restaurants, and many recreational spaces in North Bucharest.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        26.08169,
-                        44.47921
-                  ]
-            },
-            {
                   "name": "Old Town (Lipscani)",
                   "text": "The lively historic heart of the city with cobbled streets, restored buildings, cafes, and a vibrant nightlife.",
                   "category": "historical",
@@ -8621,16 +7376,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.100386,
                         44.431942
-                  ]
-            },
-            {
-                  "name": "CEC Palace",
-                  "text": "A stunning building with a majestic dome, built in neoclassical style at the end of the 19th century on Calea Victoriei.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        26.0965,
-                        44.432
                   ]
             },
             {
@@ -8674,16 +7419,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Cotroceni National Museum",
-                  "text": "The former royal palace is now the seat of the Presidency and hosts a museum showcasing historical royal apartments.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        26.062502,
-                        44.434217
-                  ]
-            },
-            {
                   "name": "Grigore Antipa National Museum of Natural History",
                   "text": "A world-class museum featuring extensive collections of wildlife specimens, dioramas, and interactive scientific displays.",
                   "category": "museum",
@@ -8711,16 +7446,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.097951,
                         44.424563
-                  ]
-            },
-            {
-                  "name": "Macca-Vilacrosse Passage",
-                  "text": "A fork-shaped, yellow glass-covered arcade built in the late 19th century, famous for its cozy cafes and shisha lounges.",
-                  "category": "recreational",
-                  "confidence": "high",
-                  "coords": [
-                        26.098603,
-                        44.433131
                   ]
             },
             {
@@ -8803,24 +7528,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina Lido",
-                  "text": "Lido pool in Bucharest, an Olympic-sized outdoor pool in the city center.",
-                  "category": "recreational",
-                  "coords": [
-                        26.098644,
-                        44.441286
-                  ]
-            },
-            {
-                  "name": "Bazin Olimpic",
-                  "text": "Olympic pool in Bucharest, a 50-meter indoor swimming pool.",
-                  "category": "recreational",
-                  "coords": [
-                        26.146701,
-                        44.435432
-                  ]
-            },
-            {
                   "name": "Ștrandul Văcărești - Ștrandul Copiilor",
                   "text": "Văcărești children's pool in Bucharest, a large outdoor pool complex with slides.",
                   "category": "recreational",
@@ -8836,15 +7543,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.109078,
                         44.401337
-                  ]
-            },
-            {
-                  "name": "Bazin de Înot Dante Aligheri",
-                  "text": "Dante Alighieri swimming pool in Bucharest, a medium-sized indoor pool.",
-                  "category": "recreational",
-                  "coords": [
-                        26.159568,
-                        44.417735
                   ]
             }
       ]
@@ -11435,75 +10133,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Morii",
-                  "text": "Lacul Morii ist ein großer Stausee bei Chiajna, ideal für weite Spaziergänge und zum Genießen der Aussicht.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "Drumul-Taberei-See in Chiajna, ein kleiner See in einem Wohngebiet.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lacul Chitila",
-                  "text": "Lacul Chitila ist ein ruhig gelegener See in Chiajna, der sich gut für entspannte Stunden im Freien eignet.",
-                  "category": "natural",
-                  "coords": [
-                        26.00146,
-                        44.51089
-                  ]
-            },
-            {
-                  "name": "Lacul Străulești",
-                  "text": "Lacul Străulești ist ein markanter See in Chiajna, ideal zum Spazierengehen am Ufer.",
-                  "category": "natural",
-                  "coords": [
-                        26.011649,
-                        44.502876
-                  ]
-            },
-            {
                   "name": "Bazin decantare",
                   "text": "Ein Absetzbecken in Chiajna, das Teil der lokalen Wasserinfrastruktur und Landschaft ist.",
                   "category": "natural",
                   "coords": [
                         26.001661,
                         44.444654
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "Cotroceni Wasserbecken in Chiajna, ein Betonspeicher für Bewässerung.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "Lacul Grivița ist ein See in Chiajna, der eine schöne Kulisse für Spaziergänge in der Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Herăstrău-See",
-                  "text": "Der Lacul Herăstrău bei Chiajna ist ein beliebtes Ziel für Bootsfahrten und Freizeitaktivitäten.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
                   ]
             },
             {
@@ -11525,30 +10160,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Divertiland",
-                  "text": "Diese familienfreundliche Attraktion in Chiajna bietet verschiedene Aktivitäten für alle Altersgruppen.",
-                  "category": "family",
-                  "coords": [
-                        25.945052,
-                        44.432173
-                  ]
-            },
-            {
                   "name": "Aqua Garden",
                   "text": "Diese familienfreundliche Attraktion in Chiajna bietet verschiedene Aktivitäten für alle Altersgruppen.",
                   "category": "family",
                   "coords": [
                         25.985831,
                         44.443498
-                  ]
-            },
-            {
-                  "name": "Crazy Pool",
-                  "text": "Diese Schwimmeinrichtung in Chiajna bietet Platz zum Schwimmen und zur Erholung.",
-                  "category": "family",
-                  "coords": [
-                        25.987581,
-                        44.431493
                   ]
             }
       ],
@@ -11584,75 +10201,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Morii",
-                  "text": "A Lacul Morii egy nagy víztározó Chiajna közelében, amely ideális hosszú sétákhoz és a kilátás élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "Drumul Taberei-tó Chiajnában, egy kis tó lakóövezetben.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lacul Chitila",
-                  "text": "A Lacul Chitila egy nyugodt fekvésű tó Chiajna területén, amely kiválóan alkalmas a szabadtéri pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        26.00146,
-                        44.51089
-                  ]
-            },
-            {
-                  "name": "Lacul Străulești",
-                  "text": "A Lacul Străulești egy jelentős tó Chiajna területén, amely ideális a part menti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.011649,
-                        44.502876
-                  ]
-            },
-            {
                   "name": "Bazin decantare",
                   "text": "Egy ülepítő medence Chiajna területén, amely a helyi vízügyi infrastruktúra és a táj része.",
                   "category": "natural",
                   "coords": [
                         26.001661,
                         44.444654
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "Cotroceni vízmedence Chiajnában, beton víztározó öntözésre.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "A Lacul Grivița egy tó Chiajna területén, amely szép hátteret biztosít a természetbeli sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "A Chiajna közeli Lacul Herăstrău népszerű úti cél csónakázáshoz és szabadidős tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
                   ]
             },
             {
@@ -11674,30 +10228,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Divertiland",
-                  "text": "Ez a családbarát látványosság Chiajna városában különféle tevékenységeket kínál minden korosztály számára.",
-                  "category": "family",
-                  "coords": [
-                        25.945052,
-                        44.432173
-                  ]
-            },
-            {
                   "name": "Aqua Garden",
                   "text": "Ez a családbarát látványosság Chiajna városában különféle tevékenységeket kínál minden korosztály számára.",
                   "category": "family",
                   "coords": [
                         25.985831,
                         44.443498
-                  ]
-            },
-            {
-                  "name": "Crazy Pool",
-                  "text": "Ez a Chiajna városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
-                  "category": "family",
-                  "coords": [
-                        25.987581,
-                        44.431493
                   ]
             }
       ],
@@ -11733,75 +10269,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Morii",
-                  "text": "Lacul Morii este un lac de acumulare mare de lângă Chiajna, ideal pentru plimbări lungi și pentru a admira priveliștea.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "Lacul Drumul Taberei din Chiajna, un mic lac într-o zonă rezidențială.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lacul Chitila",
-                  "text": "Lacul Chitila este un lac liniștit din Chiajna, potrivit pentru ore de relaxare în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        26.00146,
-                        44.51089
-                  ]
-            },
-            {
-                  "name": "Lacul Străulești",
-                  "text": "Lacul Străulești este un lac proeminent din Chiajna, ideal pentru plimbări pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        26.011649,
-                        44.502876
-                  ]
-            },
-            {
                   "name": "Bazin decantare",
                   "text": "Un bazin de decantare din Chiajna, care face parte din infrastructura de apă și din peisajul local.",
                   "category": "natural",
                   "coords": [
                         26.001661,
                         44.444654
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "Bazinul de apă Cotroceni din Chiajna, un rezervor de beton pentru irigații.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "Lacul Grivița este un lac din Chiajna care oferă un cadru frumos pentru plimbări în natură.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "Lacul Herăstrău de lângă Chiajna este o destinație populară pentru plimbări cu barca și activități recreative.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
                   ]
             },
             {
@@ -11823,30 +10296,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Divertiland",
-                  "text": "Această atracție de familie din Chiajna oferă diverse activități pentru toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        25.945052,
-                        44.432173
-                  ]
-            },
-            {
                   "name": "Aqua Garden",
                   "text": "Această atracție de familie din Chiajna oferă diverse activități pentru toate vârstele.",
                   "category": "family",
                   "coords": [
                         25.985831,
                         44.443498
-                  ]
-            },
-            {
-                  "name": "Crazy Pool",
-                  "text": "Această unitate de înot din Chiajna oferă un loc pentru înot și recreere.",
-                  "category": "family",
-                  "coords": [
-                        25.987581,
-                        44.431493
                   ]
             }
       ],
@@ -11882,75 +10337,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Morii",
-                  "text": "Lacul Morii is a large reservoir near Chiajna, ideal for long walks and enjoying the view.",
-                  "category": "natural",
-                  "coords": [
-                        26.02768,
-                        44.454233
-                  ]
-            },
-            {
-                  "name": "Lacul Drumul Taberei",
-                  "text": "Lake Drumul Taberei in Chiajna, a small lake in a residential area.",
-                  "category": "natural",
-                  "coords": [
-                        26.031161,
-                        44.420762
-                  ]
-            },
-            {
-                  "name": "Lacul Chitila",
-                  "text": "Lacul Chitila is a quietly located lake in Chiajna, well-suited for relaxing hours outdoors.",
-                  "category": "natural",
-                  "coords": [
-                        26.00146,
-                        44.51089
-                  ]
-            },
-            {
-                  "name": "Lacul Străulești",
-                  "text": "Lacul Străulești is a prominent lake in Chiajna, ideal for walking along the shore.",
-                  "category": "natural",
-                  "coords": [
-                        26.011649,
-                        44.502876
-                  ]
-            },
-            {
                   "name": "Bazin decantare",
                   "text": "A settling basin in Chiajna that forms part of the local water infrastructure and landscape.",
                   "category": "natural",
                   "coords": [
                         26.001661,
                         44.444654
-                  ]
-            },
-            {
-                  "name": "Bazin apa Cotroceni",
-                  "text": "Cotroceni water basin in Chiajna, a concrete reservoir for irrigation.",
-                  "category": "natural",
-                  "coords": [
-                        26.057237,
-                        44.435057
-                  ]
-            },
-            {
-                  "name": "Lacul Grivița",
-                  "text": "Lacul Grivița is a lake in Chiajna that offers a nice backdrop for walks in nature.",
-                  "category": "natural",
-                  "coords": [
-                        26.042831,
-                        44.499222
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "Lacul Herăstrău near Chiajna is a popular destination for boat rides and recreational activities.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
                   ]
             },
             {
@@ -11972,30 +10364,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Divertiland",
-                  "text": "This family-friendly attraction in Chiajna offers various activities for all ages.",
-                  "category": "family",
-                  "coords": [
-                        25.945052,
-                        44.432173
-                  ]
-            },
-            {
                   "name": "Aqua Garden",
                   "text": "This family-friendly attraction in Chiajna offers various activities for all ages.",
                   "category": "family",
                   "coords": [
                         25.985831,
                         44.443498
-                  ]
-            },
-            {
-                  "name": "Crazy Pool",
-                  "text": "This swimming facility in Chiajna offers a place for swimming and recreation.",
-                  "category": "family",
-                  "coords": [
-                        25.987581,
-                        44.431493
                   ]
             }
       ]
@@ -12520,24 +10894,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Siutghiol",
-                  "text": "Ein großer Süßwassersee in Constanta, der schöne Ausblicke und eine friedliche Umgebung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        28.596603,
-                        44.248557
-                  ]
-            },
-            {
-                  "name": "Lacul Tăbăcăriei",
-                  "text": "Ein beliebter See in Constanta, umgeben von Parkanlagen, ideal für einen entspannten Spaziergang.",
-                  "category": "natural",
-                  "coords": [
-                        28.63672,
-                        44.209922
-                  ]
-            },
-            {
                   "name": "Phantasya",
                   "text": "Ein moderner Spielplatz in Constanta, der Kindern einen sicheren und lustigen Ort zum Spielen bietet.",
                   "category": "family",
@@ -12580,15 +10936,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.632214,
                         44.168533
-                  ]
-            },
-            {
-                  "name": "Luna Parc",
-                  "text": "Luna Park in Constanța, ein Vergnügungspark am Meer mit Riesenrad.",
-                  "category": "family",
-                  "coords": [
-                        28.632692,
-                        44.217836
                   ]
             },
             {
@@ -12712,24 +11059,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Siutghiol",
-                  "text": "Egy nagy édesvizű tó Konstancában, amely szép kilátást és nyugodt környezetet kínál.",
-                  "category": "natural",
-                  "coords": [
-                        28.596603,
-                        44.248557
-                  ]
-            },
-            {
-                  "name": "Lacul Tăbăcăriei",
-                  "text": "Népszerű tó Konstancában, parkokkal körülvéve, amely tökéletes egy pihentető sétához.",
-                  "category": "natural",
-                  "coords": [
-                        28.63672,
-                        44.209922
-                  ]
-            },
-            {
                   "name": "Phantasya",
                   "text": "Modern játszótér Konstancában, amely vidám és biztonságos helyet kínál a gyerekeknek a játékhoz.",
                   "category": "family",
@@ -12772,15 +11101,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.632214,
                         44.168533
-                  ]
-            },
-            {
-                  "name": "Luna Parc",
-                  "text": "Luna Park Konstancában, egy tengerparti vidámpark óriáskerékkel.",
-                  "category": "family",
-                  "coords": [
-                        28.632692,
-                        44.217836
                   ]
             },
             {
@@ -12904,24 +11224,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Siutghiol",
-                  "text": "Un lac mare de apă dulce în Constanța, oferind priveliști frumoase și un mediu liniștit.",
-                  "category": "natural",
-                  "coords": [
-                        28.596603,
-                        44.248557
-                  ]
-            },
-            {
-                  "name": "Lacul Tăbăcăriei",
-                  "text": "Un lac popular în Constanța, înconjurat de zone de parc, perfect pentru o plimbare relaxantă.",
-                  "category": "natural",
-                  "coords": [
-                        28.63672,
-                        44.209922
-                  ]
-            },
-            {
                   "name": "Phantasya",
                   "text": "Un loc de joacă modern în Constanța, oferind un spațiu distractiv și sigur pentru copii.",
                   "category": "family",
@@ -12964,15 +11266,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.632214,
                         44.168533
-                  ]
-            },
-            {
-                  "name": "Luna Parc",
-                  "text": "Luna Parc din Constanța, un parc de distracții pe malul mării cu roată ferris.",
-                  "category": "family",
-                  "coords": [
-                        28.632692,
-                        44.217836
                   ]
             },
             {
@@ -13096,24 +11389,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lake Siutghiol",
-                  "text": "A large freshwater lake in Constanta, offering beautiful views and a peaceful environment.",
-                  "category": "natural",
-                  "coords": [
-                        28.596603,
-                        44.248557
-                  ]
-            },
-            {
-                  "name": "Tăbăcăriei Lake",
-                  "text": "A popular lake in Constanta surrounded by park areas, perfect for a relaxing stroll.",
-                  "category": "natural",
-                  "coords": [
-                        28.63672,
-                        44.209922
-                  ]
-            },
-            {
                   "name": "Phantasya",
                   "text": "A modern playground in Constanta providing a fun and safe space for children to play.",
                   "category": "family",
@@ -13156,15 +11431,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.632214,
                         44.168533
-                  ]
-            },
-            {
-                  "name": "Luna Parc",
-                  "text": "Luna Park in Constanța, a seaside amusement park with a Ferris wheel.",
-                  "category": "family",
-                  "coords": [
-                        28.632692,
-                        44.217836
                   ]
             },
             {
@@ -14129,24 +12395,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Agigea",
-                  "text": "Der Agigea-See ist ein See bei Cumpana, der eine friedliche Umgebung für Naturspaziergänge bietet.",
-                  "category": "natural",
-                  "coords": [
-                        28.631828,
-                        44.096413
-                  ]
-            },
-            {
-                  "name": "Techirghiol-See",
-                  "text": "Techirghiol-See bei Cumpăna, ein hypersaliner See bekannt für Heilschlamm.",
-                  "category": "natural",
-                  "coords": [
-                        28.619056,
-                        44.037371
-                  ]
-            },
-            {
                   "name": "Memorialul Eroilor",
                   "text": "Ein Denkmal für lokale Helden in der Gemeinde Cumpăna.",
                   "category": "historical",
@@ -14165,24 +12413,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.616623,
                         44.100725
-                  ]
-            },
-            {
-                  "name": "Lacul Agigea",
-                  "text": "Az Agigea-tó egy tó Cumpăna közelében, amely nyugodt környezetet biztosít a természetjáráshoz.",
-                  "category": "natural",
-                  "coords": [
-                        28.631828,
-                        44.096413
-                  ]
-            },
-            {
-                  "name": "Lacul Techirghiol",
-                  "text": "Techirghiol-tó Cumpăna közelében, egy hipersós tó gyógyiszapjáról híres.",
-                  "category": "natural",
-                  "coords": [
-                        28.619056,
-                        44.037371
                   ]
             },
             {
@@ -14207,24 +12437,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Agigea",
-                  "text": "Lacul Agigea este un lac de lângă Cumpăna, oferind un mediu liniștit pentru plimbări în natură.",
-                  "category": "natural",
-                  "coords": [
-                        28.631828,
-                        44.096413
-                  ]
-            },
-            {
-                  "name": "Lacul Techirghiol",
-                  "text": "Lacul Techirghiol lângă Cumpăna, un lac hipersalin cunoscut pentru nămolul terapeutic.",
-                  "category": "natural",
-                  "coords": [
-                        28.619056,
-                        44.037371
-                  ]
-            },
-            {
                   "name": "Memorialul Eroilor",
                   "text": "Un monument dedicat eroilor locali din comuna Cumpăna.",
                   "category": "historical",
@@ -14243,24 +12455,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.616623,
                         44.100725
-                  ]
-            },
-            {
-                  "name": "Lacul Agigea",
-                  "text": "Lacul Agigea is a lake near Cumpana, offering a peaceful environment for nature walks.",
-                  "category": "natural",
-                  "coords": [
-                        28.631828,
-                        44.096413
-                  ]
-            },
-            {
-                  "name": "Lake Techirghiol",
-                  "text": "Lake Techirghiol near Cumpăna, a hypersaline lake known for therapeutic mud.",
-                  "category": "natural",
-                  "coords": [
-                        28.619056,
-                        44.037371
                   ]
             },
             {
@@ -14601,66 +12795,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Acumularea Aroneanu",
-                  "text": "Aroneanu-Speicher in Dancu, Teil des Dancu-Seensystems bei Iași.",
-                  "category": "natural",
-                  "coords": [
-                        27.594207,
-                        47.201347
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric I",
-                  "text": "Lacul Ciric I ist ein See bei Dancu, der eine friedliche Umgebung für Freizeitaktivitäten bietet.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
-                  "name": "Lacul Veneția",
-                  "text": "Lacul Veneția ist ein malerischer See bei Dancu, der sich gut für ruhige Momente am Wasser eignet.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
                   "name": "Lacul Chirița",
                   "text": "Lacul Chirița ist ein See bei Dancu, bekannt für seine weite Wasserfläche und ruhige Lage.",
                   "category": "natural",
                   "coords": [
                         27.64925,
                         47.172277
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "Doi Peri ist ein lokaler See bei Dancu, der zum Entspannen in der freien Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "Ciric II See in Dancu, einer der Ciric-Seen zur Erholung.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
-                  ]
-            },
-            {
-                  "name": "Tiki Village",
-                  "text": "Dieses Resort in Dancu bietet einen Ort für Entspannung und wasserbezogene Aktivitäten.",
-                  "category": "family",
-                  "coords": [
-                        27.615374,
-                        47.165891
                   ]
             }
       ],
@@ -14684,66 +12824,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Aroneanu gyűjtő",
-                  "text": "Aroneanu-víztározó Dancuban, a Iași melletti Dancu-tórendszer része.",
-                  "category": "natural",
-                  "coords": [
-                        27.594207,
-                        47.201347
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric I",
-                  "text": "A Lacul Ciric I egy tó Dancu közelében, amely békés környezetet biztosít a szabadidős tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
-                  "name": "Lacul Veneția",
-                  "text": "A Lacul Veneția egy festői tó Dancu közelében, amely kiválóan alkalmas a vízparti csendes percekhez.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
                   "name": "Lacul Chirița",
                   "text": "A Lacul Chirița egy tó Dancu közelében, amely tágas vízfelületéről és nyugodt fekvéséről ismert.",
                   "category": "natural",
                   "coords": [
                         27.64925,
                         47.172277
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "A Doi Peri egy helyi tó Dancu közelében, amely a természetben való pihenésre hívogat.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "Ciric II tó Dancuban, a Ciric-tavak egyike pihenésre.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
-                  ]
-            },
-            {
-                  "name": "Tiki Village",
-                  "text": "Ez a Dancu városában található üdülőhely kikapcsolódást és vízi tevékenységeket kínál.",
-                  "category": "family",
-                  "coords": [
-                        27.615374,
-                        47.165891
                   ]
             }
       ],
@@ -14767,66 +12853,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Acumularea Aroneanu",
-                  "text": "Acumularea Aroneanu din Dancu, parte a sistemului de lacuri Dancu lângă Iași.",
-                  "category": "natural",
-                  "coords": [
-                        27.594207,
-                        47.201347
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric I",
-                  "text": "Lacul Ciric I este un lac de lângă Dancu, care oferă un mediu liniștit pentru activități de recreere.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
-                  "name": "Lacul Veneția",
-                  "text": "Lacul Veneția este un lac pitoresc de lângă Dancu, potrivit pentru momente de liniște pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
                   "name": "Lacul Chirița",
                   "text": "Lacul Chirița este un lac de lângă Dancu, cunoscut pentru suprafața sa vastă de apă și locația liniștită.",
                   "category": "natural",
                   "coords": [
                         27.64925,
                         47.172277
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "Doi Peri este un lac local de lângă Dancu, care invită la relaxare în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "Lacul Ciric II din Dancu, unul dintre lacurile Ciric folosit pentru recreere.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
-                  ]
-            },
-            {
-                  "name": "Tiki Village",
-                  "text": "Această stațiune din Dancu oferă un loc pentru relaxare și activități acvatice.",
-                  "category": "family",
-                  "coords": [
-                        27.615374,
-                        47.165891
                   ]
             }
       ],
@@ -14850,66 +12882,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Acumularea Aroneanu",
-                  "text": "Aroneanu reservoir in Dancu, part of the Dancu lake system near Iași.",
-                  "category": "natural",
-                  "coords": [
-                        27.594207,
-                        47.201347
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric I",
-                  "text": "Lacul Ciric I is a lake near Dancu providing a peaceful environment for recreational activities.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
-                  "name": "Lacul Veneția",
-                  "text": "Lacul Veneția is a scenic lake near Dancu, well-suited for quiet moments by the water.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
                   "name": "Lacul Chirița",
                   "text": "Lacul Chirița is a lake near Dancu known for its vast water surface and quiet location.",
                   "category": "natural",
                   "coords": [
                         27.64925,
                         47.172277
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "Doi Peri is a local lake near Dancu that invites visitors to relax in the great outdoors.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "Ciric II lake in Dancu, one of the Ciric lakes used for recreation.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
-                  ]
-            },
-            {
-                  "name": "Tiki Village",
-                  "text": "This resort in Dancu offers a place for relaxation and water-related activities.",
-                  "category": "family",
-                  "coords": [
-                        27.615374,
-                        47.165891
                   ]
             }
       ]
@@ -14937,15 +12915,6 @@ export const poiExtraRoV1: POI[] = [
                         26.365118,
                         46.328576
                   ]
-            },
-            {
-                  "name": "Lacul Tarnita",
-                  "text": "Ein malerischer See in der Region Darmanesti, ideal zum Bewundern der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        26.511614,
-                        46.431821
-                  ]
             }
       ],
       "hu": [
@@ -14966,15 +12935,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.365118,
                         46.328576
-                  ]
-            },
-            {
-                  "name": "Lacul Tarnita",
-                  "text": "Festői tó Darmanesti környékén, amely ideális a természet megcsodálására.",
-                  "category": "natural",
-                  "coords": [
-                        26.511614,
-                        46.431821
                   ]
             }
       ],
@@ -14997,15 +12957,6 @@ export const poiExtraRoV1: POI[] = [
                         26.365118,
                         46.328576
                   ]
-            },
-            {
-                  "name": "Lacul Tarnita",
-                  "text": "Un lac pitoresc în regiunea Dărmănești, ideal pentru admirarea naturii și plimbări liniștite.",
-                  "category": "natural",
-                  "coords": [
-                        26.511614,
-                        46.431821
-                  ]
             }
       ],
       "en": [
@@ -15026,15 +12977,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.365118,
                         46.328576
-                  ]
-            },
-            {
-                  "name": "Lacul Tarnita",
-                  "text": "A scenic lake in the Darmanesti region, ideal for admiring nature and quiet walks.",
-                  "category": "natural",
-                  "coords": [
-                        26.511614,
-                        46.431821
                   ]
             }
       ]
@@ -15286,33 +13228,6 @@ export const poiExtraRoV1: POI[] = [
                         26.171638,
                         44.444143
                   ]
-            },
-            {
-                  "name": "Biserica Ortodoxă „Sfântul Eftimie - Fundenii Doamnei”",
-                  "text": "Eine rumänisch-orthodoxe Kirche, bekannt für ihre Architektur.",
-                  "category": "religious",
-                  "coords": [
-                        26.16355,
-                        44.456786
-                  ]
-            },
-            {
-                  "name": "Bazin Olimpic",
-                  "text": "Olympia-Schwimmbecken in Dobroești, ein 50-Meter-Freibad für Wettkämpfe.",
-                  "category": "recreational",
-                  "coords": [
-                        26.146701,
-                        44.435432
-                  ]
-            },
-            {
-                  "name": "Bazin de înot",
-                  "text": "Freibad in Dobroești, umgeben von Grünflächen und Liegewiesen.",
-                  "category": "recreational",
-                  "coords": [
-                        26.134851,
-                        44.454321
-                  ]
             }
       ],
       "hu": [
@@ -15379,33 +13294,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.171638,
                         44.444143
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă „Sfântul Eftimie - Fundenii Doamnei”",
-                  "text": "Építészetéről ismert román ortodox templom.",
-                  "category": "religious",
-                  "coords": [
-                        26.16355,
-                        44.456786
-                  ]
-            },
-            {
-                  "name": "Bazin Olimpic",
-                  "text": "Olimpiai méretű úszómedence Dobroeștiban, 50 méteres versenymedencével.",
-                  "category": "recreational",
-                  "coords": [
-                        26.146701,
-                        44.435432
-                  ]
-            },
-            {
-                  "name": "Bazin de înot",
-                  "text": "Szabadtéri medence Dobroeștiban, zöld területtel és napozóréttel körülvéve.",
-                  "category": "recreational",
-                  "coords": [
-                        26.134851,
-                        44.454321
                   ]
             }
       ],
@@ -15474,33 +13362,6 @@ export const poiExtraRoV1: POI[] = [
                         26.171638,
                         44.444143
                   ]
-            },
-            {
-                  "name": "Biserica Ortodoxă „Sfântul Eftimie - Fundenii Doamnei”",
-                  "text": "O biserică ortodoxă română cunoscută pentru arhitectura sa.",
-                  "category": "religious",
-                  "coords": [
-                        26.16355,
-                        44.456786
-                  ]
-            },
-            {
-                  "name": "Bazin Olimpic",
-                  "text": "Bazin Olimpic din Dobroești, cu un bazin de 50 de metri pentru competiții.",
-                  "category": "recreational",
-                  "coords": [
-                        26.146701,
-                        44.435432
-                  ]
-            },
-            {
-                  "name": "Bazin de înot",
-                  "text": "Bazin de înot în aer liber în Dobroești, înconjurat de spații verzi și zone de șezut.",
-                  "category": "recreational",
-                  "coords": [
-                        26.134851,
-                        44.454321
-                  ]
             }
       ],
       "en": [
@@ -15567,33 +13428,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.171638,
                         44.444143
-                  ]
-            },
-            {
-                  "name": "Biserica Ortodoxă „Sfântul Eftimie - Fundenii Doamnei”",
-                  "text": "A Romanian Orthodox church known for its architecture.",
-                  "category": "religious",
-                  "coords": [
-                        26.16355,
-                        44.456786
-                  ]
-            },
-            {
-                  "name": "Bazin Olimpic",
-                  "text": "Olympic pool in Dobroești, a 50-meter outdoor competition pool.",
-                  "category": "recreational",
-                  "coords": [
-                        26.146701,
-                        44.435432
-                  ]
-            },
-            {
-                  "name": "Bazin de înot",
-                  "text": "Outdoor swimming pool in Dobroești, surrounded by green spaces and sunbathing areas.",
-                  "category": "recreational",
-                  "coords": [
-                        26.134851,
-                        44.454321
                   ]
             }
       ]
@@ -15961,15 +13795,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Grădina Zoologică",
-                  "text": "Ein örtlicher Zoo in Dudu, der verschiedene Tierarten für Besucher beherbergt.",
-                  "category": "recreational",
-                  "coords": [
-                        25.973421,
-                        44.463904
-                  ]
-            },
-            {
                   "name": "Situl arheologic de la Dudu",
                   "text": "Archäologische Ausgrabungsstätte im Dorf Dudu.",
                   "category": "historical",
@@ -16022,24 +13847,6 @@ export const poiExtraRoV1: POI[] = [
                         25.985959,
                         44.443562
                   ]
-            },
-            {
-                  "name": "Ștrand Gulești",
-                  "text": "Ein Freibad in Dudu, das während der Badesaison Erholung und Abkühlung bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        26.030045,
-                        44.468604
-                  ]
-            },
-            {
-                  "name": "Crazy Pool",
-                  "text": "Eine Freizeitanlage in Dudu mit einem Schwimmbecken für Spiel und Spaß im Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        25.987581,
-                        44.431493
-                  ]
             }
       ],
       "hu": [
@@ -16051,15 +13858,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.025278,
                         44.455556
-                  ]
-            },
-            {
-                  "name": "Grădina Zoologică",
-                  "text": "Egy helyi állatkert Duduban, ahol különféle állatfajokat láthatnak a látogatók.",
-                  "category": "recreational",
-                  "coords": [
-                        25.973421,
-                        44.463904
                   ]
             },
             {
@@ -16115,24 +13913,6 @@ export const poiExtraRoV1: POI[] = [
                         25.985959,
                         44.443562
                   ]
-            },
-            {
-                  "name": "Ștrand Gulești",
-                  "text": "Dudu település strandja, amely a fürdőszezonban nyújt kikapcsolódást és hűsölést.",
-                  "category": "recreational",
-                  "coords": [
-                        26.030045,
-                        44.468604
-                  ]
-            },
-            {
-                  "name": "Crazy Pool",
-                  "text": "Szabadidős létesítmény Duduban, úszómedencével a vízi szórakozáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        25.987581,
-                        44.431493
-                  ]
             }
       ],
       "ro": [
@@ -16144,15 +13924,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.025278,
                         44.455556
-                  ]
-            },
-            {
-                  "name": "Grădina Zoologică",
-                  "text": "O grădină zoologică locală în Dudu, care găzduiește diverse specii de animale.",
-                  "category": "recreational",
-                  "coords": [
-                        25.973421,
-                        44.463904
                   ]
             },
             {
@@ -16208,24 +13979,6 @@ export const poiExtraRoV1: POI[] = [
                         25.985959,
                         44.443562
                   ]
-            },
-            {
-                  "name": "Ștrand Gulești",
-                  "text": "Un ștrand în Dudu care oferă recreere și răcorire în timpul sezonului de scăldat.",
-                  "category": "recreational",
-                  "coords": [
-                        26.030045,
-                        44.468604
-                  ]
-            },
-            {
-                  "name": "Crazy Pool",
-                  "text": "O facilitate de agrement în Dudu cu o piscină pentru distracție în apă.",
-                  "category": "recreational",
-                  "coords": [
-                        25.987581,
-                        44.431493
-                  ]
             }
       ],
       "en": [
@@ -16237,15 +13990,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.025278,
                         44.455556
-                  ]
-            },
-            {
-                  "name": "Grădina Zoologică",
-                  "text": "A local zoo in Dudu featuring various species of animals for visitors to observe.",
-                  "category": "recreational",
-                  "coords": [
-                        25.973421,
-                        44.463904
                   ]
             },
             {
@@ -16300,24 +14044,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.985959,
                         44.443562
-                  ]
-            },
-            {
-                  "name": "Ștrand Gulești",
-                  "text": "An outdoor swimming pool in Dudu offering recreation and cooling off during the bathing season.",
-                  "category": "recreational",
-                  "coords": [
-                        26.030045,
-                        44.468604
-                  ]
-            },
-            {
-                  "name": "Crazy Pool",
-                  "text": "A leisure facility in Dudu featuring a swimming pool for water fun.",
-                  "category": "recreational",
-                  "coords": [
-                        25.987581,
-                        44.431493
                   ]
             }
       ]
@@ -16694,66 +14420,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Belona",
-                  "text": "Der Belona-See ist ein Küstensee in Eforie, der eine angenehme Kulisse für Spaziergänge am Meer bietet.",
-                  "category": "natural",
-                  "coords": [
-                        28.638222,
-                        44.059771
-                  ]
-            },
-            {
-                  "name": "Lacul Agigea",
-                  "text": "Der Agigea-See in Eforie ist ein ruhiger See, der sich zur Beobachtung der lokalen Natur eignet.",
-                  "category": "natural",
-                  "coords": [
-                        28.631828,
-                        44.096413
-                  ]
-            },
-            {
-                  "name": "Acumularea Valea Gospodăriei",
-                  "text": "Dieser Stausee in Eforie bietet Besuchern eine ruhige Landschaft zum Erkunden.",
-                  "category": "natural",
-                  "coords": [
-                        28.579318,
-                        44.016141
-                  ]
-            },
-            {
-                  "name": "Acumularea Movilița",
-                  "text": "Die Acumularea Movilița ist ein See bei Eforie, der einen friedlichen Ort für einen kurzen Spaziergang bietet.",
-                  "category": "natural",
-                  "coords": [
-                        28.560572,
-                        44.01168
-                  ]
-            },
-            {
                   "name": "Techirghiol-See",
                   "text": "Techirghiol-See bei Eforie, bekannt für seinen salzhaltigen Heilschlamm.",
                   "category": "natural",
                   "coords": [
                         28.619056,
                         44.037371
-                  ]
-            },
-            {
-                  "name": "Plaja Tuzla",
-                  "text": "Plaja Tuzla, ein Sandstrand südlich von Eforie.",
-                  "category": "recreational",
-                  "coords": [
-                        28.662239,
-                        44.000389
-                  ]
-            },
-            {
-                  "name": "Plaja Eforie",
-                  "text": "Plaja Eforie, der Hauptstrand des Badeorts mit flachem Einstieg.",
-                  "category": "recreational",
-                  "coords": [
-                        28.647992,
-                        44.045073
                   ]
             },
             {
@@ -16800,15 +14472,6 @@ export const poiExtraRoV1: POI[] = [
                         28.661881,
                         44.021309
                   ]
-            },
-            {
-                  "name": "Citadel",
-                  "text": "Ein Strandresort in Eforie, das Unterkünfte und direkten Zugang zu den Stränden des Schwarzen Meeres bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        28.643395,
-                        44.051062
-                  ]
             }
       ],
       "hu": [
@@ -16853,66 +14516,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Belona",
-                  "text": "A Belona-tó egy parti tó Eforie területén, amely kellemes környezetet biztosít a tengerparti sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        28.638222,
-                        44.059771
-                  ]
-            },
-            {
-                  "name": "Lacul Agigea",
-                  "text": "Az Eforie területén található Agigea-tó egy nyugodt tó, amely alkalmas a helyi természet megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        28.631828,
-                        44.096413
-                  ]
-            },
-            {
-                  "name": "Acumularea Valea Gospodăriei",
-                  "text": "Ez az Eforie területén található víztározó nyugodt tájat kínál a látogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        28.579318,
-                        44.016141
-                  ]
-            },
-            {
-                  "name": "Acumularea Movilița",
-                  "text": "A Movilița-víztározó egy tó Eforie közelében, amely békés helyet biztosít egy rövid sétához.",
-                  "category": "natural",
-                  "coords": [
-                        28.560572,
-                        44.01168
-                  ]
-            },
-            {
                   "name": "Lacul Techirghiol",
                   "text": "Techirghiol-tó Eforie közelében, gyógyiszapjáról híres.",
                   "category": "natural",
                   "coords": [
                         28.619056,
                         44.037371
-                  ]
-            },
-            {
-                  "name": "Plaja Tuzla",
-                  "text": "Plaja Tuzla, homokos strand Eforie-tól délre.",
-                  "category": "recreational",
-                  "coords": [
-                        28.662239,
-                        44.000389
-                  ]
-            },
-            {
-                  "name": "Plaja Eforie",
-                  "text": "Eforie strand, a fürdőhely fő strandja sekély bejárattal.",
-                  "category": "recreational",
-                  "coords": [
-                        28.647992,
-                        44.045073
                   ]
             },
             {
@@ -16959,15 +14568,6 @@ export const poiExtraRoV1: POI[] = [
                         28.661881,
                         44.021309
                   ]
-            },
-            {
-                  "name": "Citadel",
-                  "text": "Eforie-i tengerparti üdülőhely, amely szállást és közvetlen hozzáférést biztosít a fekete-tengeri strandokhoz.",
-                  "category": "recreational",
-                  "coords": [
-                        28.643395,
-                        44.051062
-                  ]
             }
       ],
       "ro": [
@@ -17012,66 +14612,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Belona",
-                  "text": "Lacul Belona este un lac de coastă din Eforie, oferind un cadru plăcut pentru plimbări la malul mării.",
-                  "category": "natural",
-                  "coords": [
-                        28.638222,
-                        44.059771
-                  ]
-            },
-            {
-                  "name": "Lacul Agigea",
-                  "text": "Lacul Agigea din Eforie este un lac liniștit, potrivit pentru observarea naturii locale.",
-                  "category": "natural",
-                  "coords": [
-                        28.631828,
-                        44.096413
-                  ]
-            },
-            {
-                  "name": "Acumularea Valea Gospodăriei",
-                  "text": "Această acumulare din Eforie oferă un peisaj liniștit pe care vizitatorii îl pot explora.",
-                  "category": "natural",
-                  "coords": [
-                        28.579318,
-                        44.016141
-                  ]
-            },
-            {
-                  "name": "Acumularea Movilița",
-                  "text": "Acumularea Movilița este un lac de lângă Eforie, oferind un loc liniștit pentru o scurtă plimbare.",
-                  "category": "natural",
-                  "coords": [
-                        28.560572,
-                        44.01168
-                  ]
-            },
-            {
                   "name": "Lacul Techirghiol",
                   "text": "Lacul Techirghiol lângă Eforie, renumit pentru nămolul sărat terapeutic.",
                   "category": "natural",
                   "coords": [
                         28.619056,
                         44.037371
-                  ]
-            },
-            {
-                  "name": "Plaja Tuzla",
-                  "text": "Plaja Tuzla, o plajă cu nisip la sud de Eforie.",
-                  "category": "recreational",
-                  "coords": [
-                        28.662239,
-                        44.000389
-                  ]
-            },
-            {
-                  "name": "Plaja Eforie",
-                  "text": "Plaja Eforie, plaja principală a stațiunii, cu intrare lină în apă.",
-                  "category": "recreational",
-                  "coords": [
-                        28.647992,
-                        44.045073
                   ]
             },
             {
@@ -17118,15 +14664,6 @@ export const poiExtraRoV1: POI[] = [
                         28.661881,
                         44.021309
                   ]
-            },
-            {
-                  "name": "Citadel",
-                  "text": "Un complex de plajă în Eforie care oferă cazare și acces direct la plajele Mării Negre.",
-                  "category": "recreational",
-                  "coords": [
-                        28.643395,
-                        44.051062
-                  ]
             }
       ],
       "en": [
@@ -17171,66 +14708,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Belona",
-                  "text": "Lacul Belona is a coastal lake in Eforie, providing a pleasant setting for seaside walks.",
-                  "category": "natural",
-                  "coords": [
-                        28.638222,
-                        44.059771
-                  ]
-            },
-            {
-                  "name": "Lacul Agigea",
-                  "text": "Lacul Agigea in Eforie is a calm lake suitable for observing the local nature.",
-                  "category": "natural",
-                  "coords": [
-                        28.631828,
-                        44.096413
-                  ]
-            },
-            {
-                  "name": "Acumularea Valea Gospodăriei",
-                  "text": "This reservoir in Eforie offers a quiet landscape for visitors to explore.",
-                  "category": "natural",
-                  "coords": [
-                        28.579318,
-                        44.016141
-                  ]
-            },
-            {
-                  "name": "Acumularea Movilița",
-                  "text": "Acumularea Movilița is a lake near Eforie, providing a peaceful spot for a short walk.",
-                  "category": "natural",
-                  "coords": [
-                        28.560572,
-                        44.01168
-                  ]
-            },
-            {
                   "name": "Lake Techirghiol",
                   "text": "Lake Techirghiol near Eforie, famous for its saline therapeutic mud.",
                   "category": "natural",
                   "coords": [
                         28.619056,
                         44.037371
-                  ]
-            },
-            {
-                  "name": "Plaja Tuzla",
-                  "text": "Tuzla Beach, a sandy beach south of Eforie.",
-                  "category": "recreational",
-                  "coords": [
-                        28.662239,
-                        44.000389
-                  ]
-            },
-            {
-                  "name": "Plaja Eforie",
-                  "text": "Eforie Beach, the main beach of the resort with a gentle slope into the water.",
-                  "category": "recreational",
-                  "coords": [
-                        28.647992,
-                        44.045073
                   ]
             },
             {
@@ -17276,15 +14759,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.661881,
                         44.021309
-                  ]
-            },
-            {
-                  "name": "Citadel",
-                  "text": "A beach resort in Eforie offering accommodation and direct access to the Black Sea beaches.",
-                  "category": "recreational",
-                  "coords": [
-                        28.643395,
-                        44.051062
                   ]
             }
       ]
@@ -18269,84 +15743,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Băneasa",
-                  "text": "Der Băneasa-See ist ein großer See im Gebiet Fundeni, der einen malerischen Ort für Spaziergänge bietet.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Der IOR-See ist ein beliebter See in der Nähe von Fundeni, der schöne Parkansichten bietet.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
                   "name": "Lacul Pantelimon",
                   "text": "Pantelimon-See in Fundeni, ein beliebter Angelsee.",
                   "category": "natural",
                   "coords": [
                         26.209104,
                         44.441318
-                  ]
-            },
-            {
-                  "name": "Herăstrău-See",
-                  "text": "Der Herăstrău-See ist ein bedeutender See bei Fundeni, bekannt für seine ausgedehnten Spazierwege.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "Lacul Cernica",
-                  "text": "Der Cernica-See ist ein friedlicher See in Fundeni, der eine ruhige Flucht in die Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        26.25824,
-                        44.424348
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "Pipera-Teich in Fundeni, ein ruhiger Ort zum Entspannen.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "Tineretului-See in Fundeni, umgeben von Parkanlagen.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Plumbuita-See in Fundeni, mit schilfbewachsenen Ufern.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lebedelor-See",
-                  "text": "Der Schwanensee in Fundeni ist ein anmutiges Gewässer, ideal um die Aussicht zu genießen.",
-                  "category": "natural",
-                  "coords": [
-                        26.088734,
-                        44.439013
                   ]
             },
             {
@@ -18431,42 +15833,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Parcul Motodrom",
-                  "text": "Ein öffentlicher Park in Fundeni, der Raum für Erholung im Freien bietet.",
-                  "category": "park",
-                  "coords": [
-                        26.147455,
-                        44.467963
-                  ]
-            },
-            {
-                  "name": "Red Pole",
-                  "text": "Roter Pfahl in Fundeni, eine auffällig rot bemalte Säule.",
-                  "category": "landmark",
-                  "coords": [
-                        26.18098,
-                        44.453605
-                  ]
-            },
-            {
-                  "name": "Turnul de Arta",
-                  "text": "Turnul de Arta in Fundeni, ein Aussichtsturm mit Kunstausstellungen.",
-                  "category": "landmark",
-                  "coords": [
-                        26.167057,
-                        44.44154
-                  ]
-            },
-            {
-                  "name": "Biserica Marcuta",
-                  "text": "Eine historische orthodoxe Kirche in Fundeni, die für ihre Architektur bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        26.171638,
-                        44.444143
-                  ]
-            },
-            {
                   "name": "Biserica Ortodoxa ,,Sfantul Eftimie - Fundenii Doamnei\"",
                   "text": "Die Fundenii-Doamnei-Kirche in Fundeni ist eine bedeutende historische Kultstätte.",
                   "category": "religious",
@@ -18508,84 +15874,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Băneasa",
-                  "text": "A Băneasa-tó egy nagy tó Fundeni környékén, amely festői helyszínt biztosít a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Az IOR-tó egy népszerű tó Fundeni közelében, amely szép parki kilátást nyújt.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
                   "name": "Lacul Pantelimon",
                   "text": "Pantelimon-tó Fundeniben, népszerű horgásztó.",
                   "category": "natural",
                   "coords": [
                         26.209104,
                         44.441318
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "A Herăstrău-tó egy jelentős tó Fundeni közelében, amely kiterjedt sétaútjairól ismert.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "Lacul Cernica",
-                  "text": "A Cernica-tó egy békés tó Fundeni területén, amely csendes menekülést kínál a természetbe.",
-                  "category": "natural",
-                  "coords": [
-                        26.25824,
-                        44.424348
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "Pipera-tó Fundeniben, csendes pihenőhely.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "Tineretului-tó Fundeniben, parkkal körülvéve.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Plumbuita-tó Fundeniben, nádas parttal.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lacul Lebedelor",
-                  "text": "A Hattyú-tó Fundeni területén egy kecses állóvíz, amely ideális a kilátás élvezéséhez.",
-                  "category": "natural",
-                  "coords": [
-                        26.088734,
-                        44.439013
                   ]
             },
             {
@@ -18670,42 +15964,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Parcul Motodrom",
-                  "text": "Nyilvános park Fundeniben, amely pihenési lehetőséget nyújt a szabadban.",
-                  "category": "park",
-                  "coords": [
-                        26.147455,
-                        44.467963
-                  ]
-            },
-            {
-                  "name": "Red Pole",
-                  "text": "Piros rúd Fundeniben, egy feltűnő pirosra festett oszlop.",
-                  "category": "landmark",
-                  "coords": [
-                        26.18098,
-                        44.453605
-                  ]
-            },
-            {
-                  "name": "Turnul de Arta",
-                  "text": "Art-torony Fundeniben, kilátótorony művészeti kiállításokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        26.167057,
-                        44.44154
-                  ]
-            },
-            {
-                  "name": "Biserica Marcuta",
-                  "text": "Történelmi ortodox templom Fundeniben, amely építészetéről nevezetes.",
-                  "category": "religious",
-                  "coords": [
-                        26.171638,
-                        44.444143
-                  ]
-            },
-            {
                   "name": "Biserica Ortodoxa ,,Sfantul Eftimie - Fundenii Doamnei\"",
                   "text": "A Fundenii Doamnei ortodox templom Fundeniben egy jelentős történelmi emlékhely.",
                   "category": "religious",
@@ -18747,84 +16005,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Băneasa",
-                  "text": "Lacul Băneasa este un lac mare din zona Fundeni, oferind un loc pitoresc pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Lacul IOR este un lac popular din vecinătatea Fundeni, oferind vederi frumoase spre parc.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
                   "name": "Lacul Pantelimon",
                   "text": "Lacul Pantelimon din Fundeni, un lac popular pentru pescuit.",
                   "category": "natural",
                   "coords": [
                         26.209104,
                         44.441318
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "Lacul Herăstrău este un lac major de lângă Fundeni, cunoscut pentru traseele sale extinse de plimbare.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "Lacul Cernica",
-                  "text": "Lacul Cernica este un lac liniștit din Fundeni, oferind o evadare liniștită în natură.",
-                  "category": "natural",
-                  "coords": [
-                        26.25824,
-                        44.424348
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "Balta Pipera din Fundeni, un loc liniștit pentru relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "Lacul Tineretului din Fundeni, înconjurat de parcuri.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Lacul Plumbuita din Fundeni, cu maluri stufoase.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Lacul Lebedelor",
-                  "text": "Lacul Lebedelor din Fundeni este o întindere de apă grațioasă, ideală pentru a te bucura de priveliște.",
-                  "category": "natural",
-                  "coords": [
-                        26.088734,
-                        44.439013
                   ]
             },
             {
@@ -18909,42 +16095,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Parcul Motodrom",
-                  "text": "Un parc public în Fundeni, oferind spațiu pentru recreere în aer liber.",
-                  "category": "park",
-                  "coords": [
-                        26.147455,
-                        44.467963
-                  ]
-            },
-            {
-                  "name": "Red Pole",
-                  "text": "Stâlpul Roșu din Fundeni, un stâlp vopsit în roșu.",
-                  "category": "landmark",
-                  "coords": [
-                        26.18098,
-                        44.453605
-                  ]
-            },
-            {
-                  "name": "Turnul de Arta",
-                  "text": "Turnul de Artă din Fundeni, un turn de observație cu expoziții de artă.",
-                  "category": "landmark",
-                  "coords": [
-                        26.167057,
-                        44.44154
-                  ]
-            },
-            {
-                  "name": "Biserica Marcuta",
-                  "text": "O biserică ortodoxă istorică în Fundeni, cunoscută pentru arhitectura sa.",
-                  "category": "religious",
-                  "coords": [
-                        26.171638,
-                        44.444143
-                  ]
-            },
-            {
                   "name": "Biserica Ortodoxa ,,Sfantul Eftimie - Fundenii Doamnei\"",
                   "text": "Biserica Fundenii Doamnei din Fundeni este un lăcaș de cult istoric important.",
                   "category": "religious",
@@ -18986,84 +16136,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lake Băneasa",
-                  "text": "Lake Băneasa is a large lake in the Fundeni area, providing a scenic spot for walks.",
-                  "category": "natural",
-                  "coords": [
-                        26.126792,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul IOR",
-                  "text": "Lacul IOR is a popular lake in the Fundeni vicinity, offering beautiful park views.",
-                  "category": "natural",
-                  "coords": [
-                        26.155788,
-                        44.423381
-                  ]
-            },
-            {
                   "name": "Lacul Pantelimon",
                   "text": "Pantelimon Lake in Fundeni, a popular fishing lake.",
                   "category": "natural",
                   "coords": [
                         26.209104,
                         44.441318
-                  ]
-            },
-            {
-                  "name": "Lacul Herăstrău",
-                  "text": "Lacul Herăstrău is a major lake near Fundeni, known for its extensive walking paths.",
-                  "category": "natural",
-                  "coords": [
-                        26.082021,
-                        44.480881
-                  ]
-            },
-            {
-                  "name": "Lacul Cernica",
-                  "text": "Lacul Cernica is a peaceful lake in Fundeni, offering a quiet escape into nature.",
-                  "category": "natural",
-                  "coords": [
-                        26.25824,
-                        44.424348
-                  ]
-            },
-            {
-                  "name": "Balta Pipera",
-                  "text": "Pipera Pond in Fundeni, a quiet spot for relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        26.123002,
-                        44.494553
-                  ]
-            },
-            {
-                  "name": "Lacul Tineretului",
-                  "text": "Tineretului Lake in Fundeni, surrounded by parkland.",
-                  "category": "natural",
-                  "coords": [
-                        26.105651,
-                        44.406062
-                  ]
-            },
-            {
-                  "name": "Lacul Plumbuita",
-                  "text": "Plumbuita Lake in Fundeni, with reed-covered banks.",
-                  "category": "natural",
-                  "coords": [
-                        26.131876,
-                        44.471172
-                  ]
-            },
-            {
-                  "name": "Swan Lake",
-                  "text": "Swan Lake in Fundeni is a graceful body of water, ideal for enjoying the view.",
-                  "category": "natural",
-                  "coords": [
-                        26.088734,
-                        44.439013
                   ]
             },
             {
@@ -19145,42 +16223,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.134851,
                         44.454321
-                  ]
-            },
-            {
-                  "name": "Parcul Motodrom",
-                  "text": "A public park in Fundeni providing space for outdoor recreation.",
-                  "category": "park",
-                  "coords": [
-                        26.147455,
-                        44.467963
-                  ]
-            },
-            {
-                  "name": "Red Pole",
-                  "text": "Red Pole in Fundeni, a striking red-painted post.",
-                  "category": "landmark",
-                  "coords": [
-                        26.18098,
-                        44.453605
-                  ]
-            },
-            {
-                  "name": "Turnul de Arta",
-                  "text": "Art Tower in Fundeni, an observation tower with art exhibitions.",
-                  "category": "landmark",
-                  "coords": [
-                        26.167057,
-                        44.44154
-                  ]
-            },
-            {
-                  "name": "Biserica Marcuta",
-                  "text": "A historic Orthodox church in Fundeni known for its architecture.",
-                  "category": "religious",
-                  "coords": [
-                        26.171638,
-                        44.444143
                   ]
             },
             {
@@ -20228,15 +17270,6 @@ export const poiExtraRoV1: POI[] = [
                         24.905026,
                         44.79907
                   ]
-            },
-            {
-                  "name": "Lac parcul Ștrand",
-                  "text": "Strandpark-See in Geamăna, ein See in einem Park.",
-                  "category": "natural",
-                  "coords": [
-                        24.886404,
-                        44.856904
-                  ]
             }
       ],
       "hu": [
@@ -20265,15 +17298,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.905026,
                         44.79907
-                  ]
-            },
-            {
-                  "name": "Lac parcul Ștrand",
-                  "text": "Strandpark-tó Geamănaban, egy parkban található tó.",
-                  "category": "natural",
-                  "coords": [
-                        24.886404,
-                        44.856904
                   ]
             }
       ],
@@ -20304,15 +17328,6 @@ export const poiExtraRoV1: POI[] = [
                         24.905026,
                         44.79907
                   ]
-            },
-            {
-                  "name": "Lac parcul Ștrand",
-                  "text": "Lacul din parcul Ștrand din Geamăna, un lac într-un parc.",
-                  "category": "natural",
-                  "coords": [
-                        24.886404,
-                        44.856904
-                  ]
             }
       ],
       "en": [
@@ -20341,15 +17356,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.905026,
                         44.79907
-                  ]
-            },
-            {
-                  "name": "Lac parcul Ștrand",
-                  "text": "Lake in Ștrand Park in Geamăna, a lake within a park.",
-                  "category": "natural",
-                  "coords": [
-                        24.886404,
-                        44.856904
                   ]
             }
       ]
@@ -20387,15 +17393,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.27425,
                         45.913657
-                  ]
-            },
-            {
-                  "name": "La Băltuțe",
-                  "text": "Ein kleiner See in der Gegend von Geoagiu, der den Besuchern eine ruhige Umgebung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        23.209167,
-                        45.851394
                   ]
             },
             {
@@ -20440,15 +17437,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "La Băltuțe",
-                  "text": "Kisebb tó Gyógyfalu környékén, amely nyugodt környezetet biztosít a látogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        23.209167,
-                        45.851394
-                  ]
-            },
-            {
                   "name": "Băile Daco-Romane",
                   "text": "Dák-római fürdők Geoagiu-ban, termálforrásokkal.",
                   "category": "family",
@@ -20490,15 +17478,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "La Băltuțe",
-                  "text": "Un lac mic în zona Geoagiu, oferind un mediu calm pentru vizitatori.",
-                  "category": "natural",
-                  "coords": [
-                        23.209167,
-                        45.851394
-                  ]
-            },
-            {
                   "name": "Băile Daco-Romane",
                   "text": "Băile Daco-Romane din Geoagiu, izvoare termale cu băi istorice.",
                   "category": "family",
@@ -20537,15 +17516,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         23.27425,
                         45.913657
-                  ]
-            },
-            {
-                  "name": "La Băltuțe",
-                  "text": "A small lake in the Geoagiu area, offering a calm environment for visitors.",
-                  "category": "natural",
-                  "coords": [
-                        23.209167,
-                        45.851394
                   ]
             },
             {
@@ -20814,15 +17784,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Grădina Zoologică Pădurea Verde Timișoara",
-                  "text": "Diese familienfreundliche Attraktion in Ghiroda bietet verschiedene Aktivitäten für alle Altersgruppen.",
-                  "category": "family",
-                  "coords": [
-                        21.26778,
-                        45.781066
-                  ]
-            },
-            {
                   "name": "Amazonia",
                   "text": "Diese familienfreundliche Attraktion in Ghiroda bietet verschiedene Aktivitäten für alle Altersgruppen.",
                   "category": "family",
@@ -20871,15 +17832,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         21.280469,
                         45.763733
-                  ]
-            },
-            {
-                  "name": "Grădina Zoologică Pădurea Verde Timișoara",
-                  "text": "Ez a családbarát látványosság Ghiroda városában különféle tevékenységeket kínál minden korosztály számára.",
-                  "category": "family",
-                  "coords": [
-                        21.26778,
-                        45.781066
                   ]
             },
             {
@@ -20934,15 +17886,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Grădina Zoologică Pădurea Verde Timișoara",
-                  "text": "Această atracție de familie din Ghiroda oferă diverse activități pentru toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        21.26778,
-                        45.781066
-                  ]
-            },
-            {
                   "name": "Amazonia",
                   "text": "Această atracție de familie din Ghiroda oferă diverse activități pentru toate vârstele.",
                   "category": "family",
@@ -20991,15 +17934,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         21.280469,
                         45.763733
-                  ]
-            },
-            {
-                  "name": "Pădurea Verde Zoological Garden Timișoara",
-                  "text": "This family-friendly attraction in Ghiroda offers various activities for all ages.",
-                  "category": "family",
-                  "coords": [
-                        21.26778,
-                        45.781066
                   ]
             },
             {
@@ -22157,15 +19091,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Palisadă Teutonică",
-                  "text": "Archäologische Überreste einer teutonischen Palisade in Hărman.",
-                  "category": "historical",
-                  "coords": [
-                        25.657123,
-                        45.72316
-                  ]
-            },
-            {
                   "name": "Muzeul Etnografic Vatra Hărmanului",
                   "text": "Ein ethnografisches Museum in Hărman, das lokale Traditionen präsentiert.",
                   "category": "museum",
@@ -22229,15 +19154,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.666479,
                         45.717762
-                  ]
-            },
-            {
-                  "name": "Palisadă Teutonică",
-                  "text": "Teuton paliszád régészeti maradványai Szászhermányban.",
-                  "category": "historical",
-                  "coords": [
-                        25.657123,
-                        45.72316
                   ]
             },
             {
@@ -22307,15 +19223,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Palisadă Teutonică",
-                  "text": "Rămășițe arheologice ale unei palisade teutone în Hărman.",
-                  "category": "historical",
-                  "coords": [
-                        25.657123,
-                        45.72316
-                  ]
-            },
-            {
                   "name": "Muzeul Etnografic Vatra Hărmanului",
                   "text": "Un muzeu etnografic ce prezintă tradițiile locale din Hărman.",
                   "category": "museum",
@@ -22379,15 +19286,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.666479,
                         45.717762
-                  ]
-            },
-            {
-                  "name": "Palisadă Teutonică",
-                  "text": "Archaeological remains of a Teutonic palisade in Hărman.",
-                  "category": "historical",
-                  "coords": [
-                        25.657123,
-                        45.72316
                   ]
             },
             {
@@ -23050,16 +19948,6 @@ export const poiExtraRoV1: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Kulturpalast",
-                  "text": "Der zwischen 1906 und 1925 im neugotischen Stil errichtete Palast beherbergt heute vier Museen und ist das Wahrzeichen von Iași.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        27.58695,
-                        47.15739
-                  ]
-            },
-            {
                   "name": "Metropolitankathedrale",
                   "text": "Die größte orthodoxe Kathedrale Rumäniens beherbergt die Reliquien der Heiligen Parascheva und ist ein bedeutender Wallfahrtsort.",
                   "category": "religious",
@@ -23077,16 +19965,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.5847,
                         47.1597
-                  ]
-            },
-            {
-                  "name": "Copou-Park",
-                  "text": "Der älteste öffentliche Park der Stadt beherbergt die berühmte Linde von Eminescu und den Löwenobelisken in grüner Umgebung.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        27.56716,
-                        47.178678
                   ]
             },
             {
@@ -23150,16 +20028,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Dosoftei-Haus",
-                  "text": "Ein markantes Steingebäude aus dem 17. Jahrhundert, das heute ein Museum für alte rumänische Literatur beherbergt.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        27.586888,
-                        47.159031
-                  ]
-            },
-            {
                   "name": "Bojdeuca von Ion Creangă",
                   "text": "Das erste Literaturmuseum Rumäniens, ein bescheidenes traditionelles Haus, in dem der berühmte Erzähler Ion Creangă lebte.",
                   "category": "museum",
@@ -23200,15 +20068,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Oscar SPA",
-                  "text": "Diese Schwimmeinrichtung in Iasi bietet Platz zum Schwimmen und zur Erholung.",
-                  "category": "family",
-                  "coords": [
-                        27.579615,
-                        47.171004
-                  ]
-            },
-            {
                   "name": "Tiki Village",
                   "text": "Dieses Resort in Iasi bietet einen Ort für Entspannung und wasserbezogene Aktivitäten.",
                   "category": "family",
@@ -23216,37 +20075,9 @@ export const poiExtraRoV1: POI[] = [
                         27.615374,
                         47.165891
                   ]
-            },
-            {
-                  "name": "LaPlaya Pool",
-                  "text": "Diese Schwimmeinrichtung in Iasi bietet Platz zum Schwimmen und zur Erholung.",
-                  "category": "family",
-                  "coords": [
-                        27.609667,
-                        47.136265
-                  ]
-            },
-            {
-                  "name": "Brizo",
-                  "text": "Dieses Resort in Iasi bietet einen Ort für Entspannung und wasserbezogene Aktivitäten.",
-                  "category": "family",
-                  "coords": [
-                        27.597545,
-                        47.194716
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Kultúrpalota",
-                  "text": "Az 1906 és 1925 között neogótikus stílusban épült monumentális palota négy múzeumnak ad otthont, és a város jelképe.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        27.58695,
-                        47.15739
-                  ]
-            },
             {
                   "name": "Mitropolita-székesegyház",
                   "text": "Románia legnagyobb ortodox székesegyháza, amely Szent Paraskevi ereklyéit őrzi, és jelentős vallási zarándokhely.",
@@ -23265,16 +20096,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.5847,
                         47.1597
-                  ]
-            },
-            {
-                  "name": "Copou-park",
-                  "text": "A város legrégebbi nyilvános parkja, itt található Eminescu hársfája és az Oroszlános obeliszk a nyugodt zöldövezetben.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        27.56716,
-                        47.178678
                   ]
             },
             {
@@ -23338,16 +20159,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Dosoftei-ház",
-                  "text": "Jellegzetes 17. századi kőépület, amely ma a régi román irodalom múzeumának ad otthont a fejedelmi templom szomszédságában.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        27.586888,
-                        47.159031
-                  ]
-            },
-            {
                   "name": "Ion Creangă bojdeucája",
                   "text": "Románia első irodalmi emlékmúzeuma, egy szerény népi lakóház, ahol a híres mesemondó, Ion Creangă élt és alkotott.",
                   "category": "museum",
@@ -23388,15 +20199,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Oscar SPA",
-                  "text": "Ez a Iasi városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
-                  "category": "family",
-                  "coords": [
-                        27.579615,
-                        47.171004
-                  ]
-            },
-            {
                   "name": "Tiki Village",
                   "text": "Ez a Iasi városában található üdülőhely kikapcsolódást és vízi tevékenységeket kínál.",
                   "category": "family",
@@ -23404,37 +20206,9 @@ export const poiExtraRoV1: POI[] = [
                         27.615374,
                         47.165891
                   ]
-            },
-            {
-                  "name": "LaPlaya Pool",
-                  "text": "Ez a Iasi városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
-                  "category": "family",
-                  "coords": [
-                        27.609667,
-                        47.136265
-                  ]
-            },
-            {
-                  "name": "Brizo",
-                  "text": "Ez a Iasi városában található üdülőhely kikapcsolódást és vízi tevékenységeket kínál.",
-                  "category": "family",
-                  "coords": [
-                        27.597545,
-                        47.194716
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Palatul Culturii",
-                  "text": "Construit în stil neogotic între 1906 și 1925, edificiul găzduiește patru muzee și este simbolul arhitectural al orașului.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        27.58695,
-                        47.15739
-                  ]
-            },
             {
                   "name": "Catedrala Mitropolitană",
                   "text": "Cea mai mare catedrală ortodoxă din România, adăpostește moaștele Sfintei Parascheva și este un loc major de pelerinaj.",
@@ -23453,26 +20227,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.5847,
                         47.1597
-                  ]
-            },
-            {
-                  "name": "Parcul Copou",
-                  "text": "Cel mai vechi parc public din Iași, găzduiește Teiul lui Eminescu și Obeliscul cu Lei într-un cadru natural relaxant.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        27.56716,
-                        47.178678
-                  ]
-            },
-            {
-                  "name": "Teatrul Național Vasile Alecsandri",
-                  "text": "Cel mai vechi teatru național din țară, funcționează într-o clădire superbă proiectată de arhitecții vienezi Fellner & Helmer.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        27.584846,
-                        47.163221
                   ]
             },
             {
@@ -23526,16 +20280,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Dosoftei",
-                  "text": "Clădire din piatră din secolul al XVII-lea, care găzduiește secția de literatură veche a Muzeului Literaturii Române.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        27.586888,
-                        47.159031
-                  ]
-            },
-            {
                   "name": "Bojdeuca lui Ion Creangă",
                   "text": "Primul muzeu memorial literar din România, o casă tradițională modestă unde a trăit și a scris marele povestitor Ion Creangă.",
                   "category": "museum",
@@ -23566,25 +20310,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Mănăstirea Galata",
-                  "text": "Ctitorie a lui Petru Șchiopul din secolul al XVI-lea, situată pe un deal și înconjurată de ziduri groase, având aspect de cetate.",
-                  "category": "monastic",
-                  "confidence": "high",
-                  "coords": [
-                        27.569075,
-                        47.146196
-                  ]
-            },
-            {
-                  "name": "Oscar SPA",
-                  "text": "Această unitate de înot din Iasi oferă un loc pentru înot și recreere.",
-                  "category": "family",
-                  "coords": [
-                        27.579615,
-                        47.171004
-                  ]
-            },
-            {
                   "name": "Tiki Village",
                   "text": "Această stațiune din Iasi oferă un loc pentru relaxare și activități acvatice.",
                   "category": "family",
@@ -23592,37 +20317,9 @@ export const poiExtraRoV1: POI[] = [
                         27.615374,
                         47.165891
                   ]
-            },
-            {
-                  "name": "LaPlaya Pool",
-                  "text": "Această unitate de înot din Iasi oferă un loc pentru înot și recreere.",
-                  "category": "family",
-                  "coords": [
-                        27.609667,
-                        47.136265
-                  ]
-            },
-            {
-                  "name": "Brizo",
-                  "text": "Această stațiune din Iasi oferă un loc pentru relaxare și activități acvatice.",
-                  "category": "family",
-                  "coords": [
-                        27.597545,
-                        47.194716
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Palace of Culture",
-                  "text": "Built in Neo-Gothic style between 1906-1925, it houses four museums and is the primary architectural symbol of the city.",
-                  "category": "civic",
-                  "confidence": "high",
-                  "coords": [
-                        27.58695,
-                        47.15739
-                  ]
-            },
             {
                   "name": "Metropolitan Cathedral",
                   "text": "The largest Orthodox cathedral in Romania, it houses the relics of Saint Parascheva and is a major religious pilgrimage site.",
@@ -23641,16 +20338,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.5847,
                         47.1597
-                  ]
-            },
-            {
-                  "name": "Copou Park",
-                  "text": "The oldest public park in the city, featuring Eminescu's Linden Tree and the Obelisk of Lions in a serene natural setting.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        27.56716,
-                        47.178678
                   ]
             },
             {
@@ -23714,16 +20401,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Dosoftei House",
-                  "text": "A distinctive 17th-century stone building that now houses the old literature department of the Romanian Literature Museum.",
-                  "category": "historical",
-                  "confidence": "high",
-                  "coords": [
-                        27.586888,
-                        47.159031
-                  ]
-            },
-            {
                   "name": "Ion Creangă's Hut (Bojdeuca)",
                   "text": "The first literary memorial museum in Romania, a modest traditional house where the great storyteller Ion Creangă lived.",
                   "category": "museum",
@@ -23764,39 +20441,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Oscar SPA",
-                  "text": "This swimming facility in Iasi offers a place for swimming and recreation.",
-                  "category": "family",
-                  "coords": [
-                        27.579615,
-                        47.171004
-                  ]
-            },
-            {
                   "name": "Tiki Village",
                   "text": "This resort in Iasi offers a place for relaxation and water-related activities.",
                   "category": "family",
                   "coords": [
                         27.615374,
                         47.165891
-                  ]
-            },
-            {
-                  "name": "LaPlaya Pool",
-                  "text": "This swimming facility in Iasi offers a place for swimming and recreation.",
-                  "category": "family",
-                  "coords": [
-                        27.609667,
-                        47.136265
-                  ]
-            },
-            {
-                  "name": "Brizo",
-                  "text": "This resort in Iasi offers a place for relaxation and water-related activities.",
-                  "category": "family",
-                  "coords": [
-                        27.597545,
-                        47.194716
                   ]
             }
       ]
@@ -24021,15 +20671,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Fortul Nr. 14 Broscărei",
-                  "text": "Ein historisches Fort aus dem 19. Jahrhundert, das Teil des Verteidigungssystems um die Hauptstadt war.",
-                  "category": "fortress",
-                  "coords": [
-                        26.065754,
-                        44.347059
-                  ]
-            },
-            {
                   "name": "Biserica „Sfinții Împărați Constantin și Elena”",
                   "text": "Eine lokale orthodoxe Kirche, die den Heiligen Konstantin und Helena gewidmet ist.",
                   "category": "religious",
@@ -24057,15 +20698,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.086469,
                         44.340287
-                  ]
-            },
-            {
-                  "name": "Fortul Nr. 14 Broscărei",
-                  "text": "Történelmi, 19. századi erőd, amely a fővárost körülvevő védelmi rendszer részét képezte.",
-                  "category": "fortress",
-                  "coords": [
-                        26.065754,
-                        44.347059
                   ]
             },
             {
@@ -24099,15 +20731,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Fortul Nr. 14 Broscărei",
-                  "text": "Un fort istoric din secolul al XIX-lea, care făcea parte din sistemul de apărare din jurul capitalei.",
-                  "category": "fortress",
-                  "coords": [
-                        26.065754,
-                        44.347059
-                  ]
-            },
-            {
                   "name": "Biserica „Sfinții Împărați Constantin și Elena”",
                   "text": "O biserică ortodoxă locală dedicată Sfinților Împărați Constantin și Elena.",
                   "category": "religious",
@@ -24135,15 +20758,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.086469,
                         44.340287
-                  ]
-            },
-            {
-                  "name": "Fortul Nr. 14 Broscărei",
-                  "text": "A historic 19th-century fort that formed part of the defense system surrounding the capital.",
-                  "category": "fortress",
-                  "coords": [
-                        26.065754,
-                        44.347059
                   ]
             },
             {
@@ -24379,15 +20993,6 @@ export const poiExtraRoV1: POI[] = [
                         28.596603,
                         44.248557
                   ]
-            },
-            {
-                  "name": "Mini Zoo",
-                  "text": "Mini-Zoo in Lumina, ein kleiner Zoo mit heimischen Tieren.",
-                  "category": "family",
-                  "coords": [
-                        28.582728,
-                        44.250771
-                  ]
             }
       ],
       "hu": [
@@ -24408,15 +21013,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.596603,
                         44.248557
-                  ]
-            },
-            {
-                  "name": "Mini Zoo",
-                  "text": "Mini állatkert Lumina-ban, kis állatkert háziállatokkal.",
-                  "category": "family",
-                  "coords": [
-                        28.582728,
-                        44.250771
                   ]
             }
       ],
@@ -24439,15 +21035,6 @@ export const poiExtraRoV1: POI[] = [
                         28.596603,
                         44.248557
                   ]
-            },
-            {
-                  "name": "Mini Zoo",
-                  "text": "Mini Zoo în Lumina, o grădină zoologică mică cu animale domestice.",
-                  "category": "family",
-                  "coords": [
-                        28.582728,
-                        44.250771
-                  ]
             }
       ],
       "en": [
@@ -24468,15 +21055,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.596603,
                         44.248557
-                  ]
-            },
-            {
-                  "name": "Mini Zoo",
-                  "text": "Mini Zoo in Lumina, a small zoo with domestic animals.",
-                  "category": "family",
-                  "coords": [
-                        28.582728,
-                        44.250771
                   ]
             }
       ]
@@ -25074,69 +21652,6 @@ export const poiExtraRoV1: POI[] = [
                         27.455676,
                         47.17035
                   ]
-            },
-            {
-                  "name": "Acumularea Aroneanu",
-                  "text": "Aroneanu-Stausee in Miroslava, ein Stausee für Bewässerung.",
-                  "category": "natural",
-                  "coords": [
-                        27.594207,
-                        47.201347
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric I",
-                  "text": "Ciric I-See in Miroslava, der erste eines Seensystems.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
-                  "name": "Lacul Veneția",
-                  "text": "Ein Gewässer in Miroslava für ruhige Naturerlebnisse.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "Doi Peri in Miroslava, ein Ort mit zwei Birnbäumen.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
-            },
-            {
-                  "name": "Lacul Ciurbești",
-                  "text": "Lacul Ciurbești ist ein natürlicher See in der Nähe des Dorfes Ciurbești, der von Anglern geschätzt wird.",
-                  "category": "natural",
-                  "coords": [
-                        27.539463,
-                        47.081451
-                  ]
-            },
-            {
-                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
-                  "text": "Der See im Anastasie-Fătu-Botanischen Garten in Miroslava ist von Wasserpflanzen und einem Spazierweg umgeben.",
-                  "category": "natural",
-                  "coords": [
-                        27.548701,
-                        47.185717
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "Lacul Ciric II ist ein kleiner See im Ciric-Komplex nahe Miroslava, ein beliebtes Ausflugsziel.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
-                  ]
             }
       ],
       "hu": [
@@ -25148,69 +21663,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.455676,
                         47.17035
-                  ]
-            },
-            {
-                  "name": "Aroneanu gyűjtő",
-                  "text": "Aroneanu-tározó Miroslavában, öntözésre használt víztározó.",
-                  "category": "natural",
-                  "coords": [
-                        27.594207,
-                        47.201347
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric I",
-                  "text": "Ciric I tó Miroslavában, egy tórendszer első tava.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
-                  "name": "Lacul Veneția",
-                  "text": "Vízparti helyszín Miroslava környékén a természet nyugalmáért.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "Doi Peri Miroslavában, egy hely két körtefával.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
-            },
-            {
-                  "name": "Lacul Ciurbești",
-                  "text": "A Ciurbești-tó egy természetes tó Ciurbești falu közelében, horgászok által kedvelt hely.",
-                  "category": "natural",
-                  "coords": [
-                        27.539463,
-                        47.081451
-                  ]
-            },
-            {
-                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
-                  "text": "Az Anastasie Fătu Botanikus Kert tavában vízinövények és sétány található Miroslaván.",
-                  "category": "natural",
-                  "coords": [
-                        27.548701,
-                        47.185717
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "A Ciric II-tó egy kicsi tó a Ciric komplexumban Miroslava közelében, népszerű kirándulóhely.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
                   ]
             }
       ],
@@ -25224,69 +21676,6 @@ export const poiExtraRoV1: POI[] = [
                         27.455676,
                         47.17035
                   ]
-            },
-            {
-                  "name": "Acumularea Aroneanu",
-                  "text": "Acumularea Aroneanu din Miroslava, un lac de acumulare pentru irigații.",
-                  "category": "natural",
-                  "coords": [
-                        27.594207,
-                        47.201347
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric I",
-                  "text": "Lacul Ciric I din Miroslava, primul dintr-un sistem de lacuri.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
-                  "name": "Lacul Veneția",
-                  "text": "Un ochi de apă în Miroslava pentru experiențe liniștite în natură.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "Doi Peri în Miroslava, un loc cu doi peri.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
-            },
-            {
-                  "name": "Lacul Ciurbești",
-                  "text": "Lacul Ciurbești este un lac natural din apropierea satului Ciurbești, frecventat de pescari.",
-                  "category": "natural",
-                  "coords": [
-                        27.539463,
-                        47.081451
-                  ]
-            },
-            {
-                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
-                  "text": "Lacul din Grădina Botanică Anastasie Fătu din Miroslava este înconjurat de plante acvatice și o alee.",
-                  "category": "natural",
-                  "coords": [
-                        27.548701,
-                        47.185717
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "Lacul Ciric II este un lac mic din complexul Ciric lângă Miroslava, loc de ieșire frecventat.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
-                  ]
             }
       ],
       "en": [
@@ -25298,69 +21687,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.455676,
                         47.17035
-                  ]
-            },
-            {
-                  "name": "Acumularea Aroneanu",
-                  "text": "Aroneanu Reservoir in Miroslava, a reservoir for irrigation.",
-                  "category": "natural",
-                  "coords": [
-                        27.594207,
-                        47.201347
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric I",
-                  "text": "Ciric I Lake in Miroslava, the first of a lake system.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
-                  "name": "Lacul Veneția",
-                  "text": "A body of water in Miroslava for quiet nature experiences.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "Doi Peri in Miroslava, a spot with two pear trees.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
-            },
-            {
-                  "name": "Lacul Ciurbești",
-                  "text": "Lacul Ciurbești is a natural lake near Ciurbești village, popular among anglers.",
-                  "category": "natural",
-                  "coords": [
-                        27.539463,
-                        47.081451
-                  ]
-            },
-            {
-                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
-                  "text": "The lake in the Anastasie Fătu Botanical Garden in Miroslava features aquatic plants and a walking path.",
-                  "category": "natural",
-                  "coords": [
-                        27.548701,
-                        47.185717
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "Ciric II is a small lake in the Ciric complex near Miroslava, popular for weekend outings.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
                   ]
             }
       ]
@@ -25727,15 +22053,6 @@ export const poiExtraRoV1: POI[] = [
                         21.323274,
                         45.720155
                   ]
-            },
-            {
-                  "name": "Balta Sacoșu Turcesc - Balta 1",
-                  "text": "Balta Sacoșu Turcesc - Balta 1 in Mosnita Veche ist ein ruhiges Gewässer, das sich ideal für erholsame Spaziergänge in der Natur eignet.",
-                  "category": "natural",
-                  "coords": [
-                        21.395546,
-                        45.680009
-                  ]
             }
       ],
       "hu": [
@@ -25747,15 +22064,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         21.323274,
                         45.720155
-                  ]
-            },
-            {
-                  "name": "Balta Sacoșu Turcesc - Balta 1",
-                  "text": "A Mosnita Veche településen található Balta Sacoșu Turcesc - Balta 1 egy nyugodt vízpart, amely ideális a természetben való kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        21.395546,
-                        45.680009
                   ]
             }
       ],
@@ -25769,15 +22077,6 @@ export const poiExtraRoV1: POI[] = [
                         21.323274,
                         45.720155
                   ]
-            },
-            {
-                  "name": "Balta Sacoșu Turcesc - Balta 1",
-                  "text": "Balta Sacoșu Turcesc - Balta 1 din Mosnita Veche este un ochi de apă liniștit, ideal pentru plimbări relaxante în natură.",
-                  "category": "natural",
-                  "coords": [
-                        21.395546,
-                        45.680009
-                  ]
             }
       ],
       "en": [
@@ -25789,15 +22088,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         21.323274,
                         45.720155
-                  ]
-            },
-            {
-                  "name": "Balta Sacoșu Turcesc - Balta 1",
-                  "text": "Balta Sacoșu Turcesc - Balta 1 in Mosnita Veche is a quiet body of water, ideal for relaxing walks in nature.",
-                  "category": "natural",
-                  "coords": [
-                        21.395546,
-                        45.680009
                   ]
             }
       ]
@@ -26894,24 +23184,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Mini Zoo",
-                  "text": "Diese familienfreundliche Attraktion in Palazu Mare bietet verschiedene Aktivitäten für alle Altersgruppen.",
-                  "category": "family",
-                  "coords": [
-                        28.582728,
-                        44.250771
-                  ]
-            },
-            {
-                  "name": "Școala de înot Gheorghe Oancea",
-                  "text": "Diese Schwimmeinrichtung in Palazu Mare bietet Platz zum Schwimmen und zur Erholung.",
-                  "category": "family",
-                  "coords": [
-                        28.635863,
-                        44.203219
-                  ]
-            },
-            {
                   "name": "Aqua Magic",
                   "text": "Diese familienfreundliche Attraktion in Palazu Mare bietet verschiedene Aktivitäten für alle Altersgruppen.",
                   "category": "family",
@@ -26966,24 +23238,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.632692,
                         44.217836
-                  ]
-            },
-            {
-                  "name": "Mini Zoo",
-                  "text": "Ez a családbarát látványosság Palazu Mare városában különféle tevékenységeket kínál minden korosztály számára.",
-                  "category": "family",
-                  "coords": [
-                        28.582728,
-                        44.250771
-                  ]
-            },
-            {
-                  "name": "Școala de înot Gheorghe Oancea",
-                  "text": "Ez a Palazu Mare városában található úszólétesítmény lehetőséget nyújt az úszásra és a kikapcsolódásra.",
-                  "category": "family",
-                  "coords": [
-                        28.635863,
-                        44.203219
                   ]
             },
             {
@@ -27044,24 +23298,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Mini Zoo",
-                  "text": "Această atracție de familie din Palazu Mare oferă diverse activități pentru toate vârstele.",
-                  "category": "family",
-                  "coords": [
-                        28.582728,
-                        44.250771
-                  ]
-            },
-            {
-                  "name": "Școala de înot Gheorghe Oancea",
-                  "text": "Această unitate de înot din Palazu Mare oferă un loc pentru înot și recreere.",
-                  "category": "family",
-                  "coords": [
-                        28.635863,
-                        44.203219
-                  ]
-            },
-            {
                   "name": "Aqua Magic",
                   "text": "Această atracție de familie din Palazu Mare oferă diverse activități pentru toate vârstele.",
                   "category": "family",
@@ -27116,24 +23352,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         28.632692,
                         44.217836
-                  ]
-            },
-            {
-                  "name": "Mini Zoo",
-                  "text": "This family-friendly attraction in Palazu Mare offers various activities for all ages.",
-                  "category": "family",
-                  "coords": [
-                        28.582728,
-                        44.250771
-                  ]
-            },
-            {
-                  "name": "Școala de înot Gheorghe Oancea",
-                  "text": "This swimming facility in Palazu Mare offers a place for swimming and recreation.",
-                  "category": "family",
-                  "coords": [
-                        28.635863,
-                        44.203219
                   ]
             },
             {
@@ -27540,16 +23758,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Kunstmuseum",
-                  "text": "Präsentiert moderne rumänische Malerei und Bildhauerei in einem monumentalen Gebäude aus dem frühen 20. Jahrhundert.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        26.368091,
-                        46.932922
-                  ]
-            },
-            {
                   "name": "Holzsynagoge",
                   "text": "Ein einzigartiges religiöses Gebäude aus dem 18. Jahrhundert, bekannt für seine Architektur und Verbindung zu Baal Schem Tow.",
                   "category": "religious",
@@ -27587,33 +23795,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.360617,
                         46.92733
-                  ]
-            },
-            {
-                  "name": "Rezervor apă",
-                  "text": "Ein lokales Wasserreservoir in Piatra Neamt mit Blick auf die umliegende Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        26.358061,
-                        46.944409
-                  ]
-            },
-            {
-                  "name": "Acumularea Bâtca Doamnei",
-                  "text": "Ein malerischer See bei Piatra Neamt, beliebt zum Wandern und Bewundern der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        26.323562,
-                        46.934176
-                  ]
-            },
-            {
-                  "name": "Ștrandul Tineretului Piatra-Neamț",
-                  "text": "Dieses Schwimmbad in Piatra Neamt bietet Becken zur Erfrischung im Sommer.",
-                  "category": "family",
-                  "coords": [
-                        26.350382,
-                        46.929147
                   ]
             },
             {
@@ -27718,33 +23899,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Rezervor apă",
-                  "text": "Helyi víztározó Karácsonkőn, amely kilátást nyújt a környező dombos vidékre.",
-                  "category": "natural",
-                  "coords": [
-                        26.358061,
-                        46.944409
-                  ]
-            },
-            {
-                  "name": "Acumularea Bâtca Doamnei",
-                  "text": "Festői tó Karácsonkő közelében, amely népszerű sétákhoz és a táj megcsodálásához.",
-                  "category": "natural",
-                  "coords": [
-                        26.323562,
-                        46.934176
-                  ]
-            },
-            {
-                  "name": "Ștrandul Tineretului Piatra-Neamț",
-                  "text": "Ez a karácsonkői úszómedence medencéket kínál a nyári felfrissüléshez.",
-                  "category": "family",
-                  "coords": [
-                        26.350382,
-                        46.929147
-                  ]
-            },
-            {
                   "name": "VIP San Gym",
                   "text": "A karácsonkői VIP San Gym úszómedencét kínál a kikapcsolódáshoz.",
                   "category": "family",
@@ -27766,16 +23920,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Muzeul de Artă Eneolitică Cucuteni",
-                  "text": "Găzduiește cea mai importantă colecție de artefacte ale culturii Cucuteni, faimoasă pentru ceramica pictată unică.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        26.368473,
-                        46.933555
-                  ]
-            },
-            {
                   "name": "Telegondola Piatra Neamț",
                   "text": "Un sistem de transport pe cablu care leagă gara de vârful muntelui Cozla, oferind o panoramă completă asupra orașului.",
                   "category": "recreational",
@@ -27793,16 +23937,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.36946,
                         46.92798
-                  ]
-            },
-            {
-                  "name": "Muzeul de Artă",
-                  "text": "Expoziții de pictură și sculptură românească modernă, găzduite într-o clădire monumentală de la începutul secolului XX.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        26.368091,
-                        46.932922
                   ]
             },
             {
@@ -27846,33 +23980,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Rezervor apă",
-                  "text": "Un rezervor de apă local în Piatra Neamț, oferind priveliști spre zona deluroasă din jur.",
-                  "category": "natural",
-                  "coords": [
-                        26.358061,
-                        46.944409
-                  ]
-            },
-            {
-                  "name": "Acumularea Bâtca Doamnei",
-                  "text": "Un lac pitoresc lângă Piatra Neamț, popular pentru plimbări și admirarea peisajului montan.",
-                  "category": "natural",
-                  "coords": [
-                        26.323562,
-                        46.934176
-                  ]
-            },
-            {
-                  "name": "Ștrandul Tineretului Piatra-Neamț",
-                  "text": "Acest ștrand din Piatra Neamț oferă bazine pentru răcorire pe timp de vară.",
-                  "category": "family",
-                  "coords": [
-                        26.350382,
-                        46.929147
-                  ]
-            },
-            {
                   "name": "VIP San Gym",
                   "text": "VIP San Gym din Piatra Neamț oferă o piscină pentru recreere.",
                   "category": "family",
@@ -27891,16 +23998,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.374884,
                         46.926642
-                  ]
-            },
-            {
-                  "name": "Cucuteni Neolithic Art Museum",
-                  "text": "Houses the most important collection of Cucuteni-Trypillia artifacts, famous for their unique painted pottery.",
-                  "category": "cultural",
-                  "confidence": "high",
-                  "coords": [
-                        26.368473,
-                        46.933555
                   ]
             },
             {
@@ -27924,16 +24021,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Art Museum",
-                  "text": "Features exhibitions of modern Romanian painting and sculpture, housed in a monumental early 20th-century building.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        26.368091,
-                        46.932922
-                  ]
-            },
-            {
                   "name": "Wooden Synagogue",
                   "text": "A unique 18th-century religious building, famous for its architecture and connection to Baal Shem Tov.",
                   "category": "religious",
@@ -27954,16 +24041,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Natural Sciences Museum",
-                  "text": "Features impressive collections of fossil fish from the Carpathians, serving as an important educational site.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        26.373828,
-                        46.934562
-                  ]
-            },
-            {
                   "name": "Piatra Neamț Railway Station",
                   "text": "An imposing historical building from the late 19th century, representing a monument of railway architecture.",
                   "category": "station",
@@ -27971,33 +24048,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.360617,
                         46.92733
-                  ]
-            },
-            {
-                  "name": "Rezervor apă",
-                  "text": "A local water reservoir in Piatra Neamt, offering views of the surrounding hilly area.",
-                  "category": "natural",
-                  "coords": [
-                        26.358061,
-                        46.944409
-                  ]
-            },
-            {
-                  "name": "Acumularea Bâtca Doamnei",
-                  "text": "A scenic lake near Piatra Neamt, popular for walking and admiring the mountain scenery.",
-                  "category": "natural",
-                  "coords": [
-                        26.323562,
-                        46.934176
-                  ]
-            },
-            {
-                  "name": "Ștrandul Tineretului Piatra-Neamț",
-                  "text": "This swimming pool in Piatra Neamt offers pools for summer refreshment.",
-                  "category": "family",
-                  "coords": [
-                        26.350382,
-                        46.929147
                   ]
             },
             {
@@ -28845,16 +24895,6 @@ export const poiExtraRoV1: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Bauernburg Rosenau",
-                  "text": "Die imposante mittelalterliche Festung aus dem 14. Jahrhundert bietet ein spektakuläres Panorama über das Burzenland.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        25.468889,
-                        45.590556
-                  ]
-            },
-            {
                   "name": "Dino Parc Rosenau",
                   "text": "Ein Themenpark mit lebensgroßen Dinosauriern in der Nähe der Festung, der ein beliebtes Ziel für Familien mit Kindern ist.",
                   "category": "recreational",
@@ -28862,16 +24902,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.474148,
                         45.591341
-                  ]
-            },
-            {
-                  "name": "Valea Cetății Höhle",
-                  "text": "Eine mit moderner Technik ausgestattete Höhle, die für ihre hervorragende Akustik und die Konzerte im Inneren bekannt ist.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        25.496529,
-                        45.582382
                   ]
             },
             {
@@ -28989,16 +25019,6 @@ export const poiExtraRoV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Cetatea Râșnov",
-                  "text": "Impunătoarea cetate medievală din secolul al XIV-lea oferă o panoramă spectaculoasă asupra Depresiunii Brașovului.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        25.468889,
-                        45.590556
-                  ]
-            },
-            {
                   "name": "Dino Parc Râșnov",
                   "text": "Un parc tematic cu dinozauri în mărime naturală, situat în apropierea cetății, fiind o destinație populară pentru familii.",
                   "category": "recreational",
@@ -29006,16 +25026,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.474148,
                         45.591341
-                  ]
-            },
-            {
-                  "name": "Peștera Valea Cetății",
-                  "text": "Peșteră amenajată cu tehnologii moderne, cunoscută pentru acustica deosebită și concertele organizate în interior.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        25.496529,
-                        45.582382
                   ]
             },
             {
@@ -29061,16 +25071,6 @@ export const poiExtraRoV1: POI[] = [
       ],
       "en": [
             {
-                  "name": "Râșnov Fortress",
-                  "text": "The imposing 14th-century medieval fortress offers a spectacular panorama over the Brașov Depression and the mountains.",
-                  "category": "fortress",
-                  "confidence": "high",
-                  "coords": [
-                        25.468889,
-                        45.590556
-                  ]
-            },
-            {
                   "name": "Dino Parc Râșnov",
                   "text": "A theme park with life-size dinosaurs, located near the fortress, being a popular destination for families with children.",
                   "category": "recreational",
@@ -29078,16 +25078,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.474148,
                         45.591341
-                  ]
-            },
-            {
-                  "name": "Valea Cetății Cave",
-                  "text": "A cave equipped with modern technologies, known for its outstanding acoustics and the concerts organized inside.",
-                  "category": "natural",
-                  "confidence": "high",
-                  "coords": [
-                        25.496529,
-                        45.582382
                   ]
             },
             {
@@ -29447,42 +25437,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Grădina Zoologică",
-                  "text": "Der Zoo in Roșu beherbergt exotische Tiere wie Affen und Papageien und hat einen Streichelzoo.",
-                  "category": "family",
-                  "coords": [
-                        25.973421,
-                        44.463904
-                  ]
-            },
-            {
-                  "name": "Magic Place Aqua Park",
-                  "text": "Magic Place Aqua Park ist eine Indoor-Wasserrutsche und Wellenbadanlage in Roșu.",
-                  "category": "family",
-                  "coords": [
-                        26.041173,
-                        44.447504
-                  ]
-            },
-            {
-                  "name": "Ștrandul Drumul Taberei",
-                  "text": "Das Ștrandul Drumul Taberei in Rosu bietet Becken für das Schwimmen im Freien.",
-                  "category": "family",
-                  "coords": [
-                        26.030533,
-                        44.419391
-                  ]
-            },
-            {
-                  "name": "Aqua Garden",
-                  "text": "Aqua Garden in Roșu bietet Außenbecken und Liegewiesen.",
-                  "category": "family",
-                  "coords": [
-                        25.985831,
-                        44.443498
-                  ]
-            },
-            {
                   "name": "Ștrand Gulești",
                   "text": "Der Ștrand Gulești in Roșu ist ein öffentliches Freibad mit mehreren Becken und einem Kinderbereich.",
                   "category": "family",
@@ -29520,42 +25474,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.015867,
                         44.455434
-                  ]
-            },
-            {
-                  "name": "Grădina Zoologică",
-                  "text": "A roșui állatkertben egzotikus állatok, például majmok és papagájok, valamint simogató is van.",
-                  "category": "family",
-                  "coords": [
-                        25.973421,
-                        44.463904
-                  ]
-            },
-            {
-                  "name": "Magic Place Aqua Park",
-                  "text": "A Magic Place Aqua Park egy fedett vízicsúszdás és hullámmedencés vízipark Roșuban.",
-                  "category": "family",
-                  "coords": [
-                        26.041173,
-                        44.447504
-                  ]
-            },
-            {
-                  "name": "Ștrandul Drumul Taberei",
-                  "text": "A veresvári Ștrandul Drumul Taberei szabadtéri medencéket kínál az úszáshoz.",
-                  "category": "family",
-                  "coords": [
-                        26.030533,
-                        44.419391
-                  ]
-            },
-            {
-                  "name": "Aqua Garden",
-                  "text": "Az Aqua Garden Roșuban kültéri medencékkel és napozóterületekkel várja a vendégeket.",
-                  "category": "family",
-                  "coords": [
-                        25.985831,
-                        44.443498
                   ]
             },
             {
@@ -29599,42 +25517,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Grădina Zoologică",
-                  "text": "Grădina Zoologică din Roșu adăpostește animale exotice precum maimuțe și papagali, având și o zonă de contact.",
-                  "category": "family",
-                  "coords": [
-                        25.973421,
-                        44.463904
-                  ]
-            },
-            {
-                  "name": "Magic Place Aqua Park",
-                  "text": "Magic Place Aqua Park este un parc acvatic interior cu tobogane și piscine cu valuri în Roșu.",
-                  "category": "family",
-                  "coords": [
-                        26.041173,
-                        44.447504
-                  ]
-            },
-            {
-                  "name": "Ștrandul Drumul Taberei",
-                  "text": "Ștrandul Drumul Taberei din Roșu oferă bazine pentru înot în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        26.030533,
-                        44.419391
-                  ]
-            },
-            {
-                  "name": "Aqua Garden",
-                  "text": "Aqua Garden din Roșu oferă piscine exterioare și zone de plajă pentru bronzat.",
-                  "category": "family",
-                  "coords": [
-                        25.985831,
-                        44.443498
-                  ]
-            },
-            {
                   "name": "Ștrand Gulești",
                   "text": "Ștrand Gulești din Roșu este o piscină publică cu mai multe bazine și o secțiune pentru copii.",
                   "category": "family",
@@ -29672,42 +25554,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.015867,
                         44.455434
-                  ]
-            },
-            {
-                  "name": "Grădina Zoologică",
-                  "text": "The zoo in Roșu houses exotic animals like monkeys and parrots, with a petting area.",
-                  "category": "family",
-                  "coords": [
-                        25.973421,
-                        44.463904
-                  ]
-            },
-            {
-                  "name": "Magic Place Aqua Park",
-                  "text": "Magic Place Aqua Park is an indoor water park with slides and wave pools in Roșu.",
-                  "category": "family",
-                  "coords": [
-                        26.041173,
-                        44.447504
-                  ]
-            },
-            {
-                  "name": "Ștrandul Drumul Taberei",
-                  "text": "Ștrandul Drumul Taberei in Rosu offers outdoor pools for swimming.",
-                  "category": "family",
-                  "coords": [
-                        26.030533,
-                        44.419391
-                  ]
-            },
-            {
-                  "name": "Aqua Garden",
-                  "text": "Aqua Garden in Roșu features outdoor pools and sunbathing areas.",
-                  "category": "family",
-                  "coords": [
-                        25.985831,
-                        44.443498
                   ]
             },
             {
@@ -31143,15 +26989,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Rezervația Mlaștinile Hărman",
-                  "text": "Ein Naturschutzgebiet, das ein seltenes eutrophes Moorökosystem schützt.",
-                  "category": "natural",
-                  "coords": [
-                        25.666479,
-                        45.717762
-                  ]
-            },
-            {
                   "name": "Palisadă Teutonică",
                   "text": "Archäologische Überreste einer mittelalterlichen Befestigungsanlage des Deutschen Ordens.",
                   "category": "historical",
@@ -31197,15 +27034,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.658,
                         45.725
-                  ]
-            },
-            {
-                  "name": "Rezervația Mlaștinile Hărman",
-                  "text": "Ritka eutróf mocsári ökoszisztémát védő természetvédelmi terület.",
-                  "category": "natural",
-                  "coords": [
-                        25.666479,
-                        45.717762
                   ]
             },
             {
@@ -31257,15 +27085,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Rezervația Mlaștinile Hărman",
-                  "text": "O rezervație naturală ce protejează un ecosistem rar de mlaștini eutrofe.",
-                  "category": "natural",
-                  "coords": [
-                        25.666479,
-                        45.717762
-                  ]
-            },
-            {
                   "name": "Palisadă Teutonică",
                   "text": "Vestigii arheologice ale unei fortificații medievale a Cavalerilor Teutoni.",
                   "category": "historical",
@@ -31311,15 +27130,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.658,
                         45.725
-                  ]
-            },
-            {
-                  "name": "Rezervația Mlaștinile Hărman",
-                  "text": "A nature reserve protecting a rare eutrophic marsh ecosystem.",
-                  "category": "natural",
-                  "coords": [
-                        25.666479,
-                        45.717762
                   ]
             },
             {
@@ -32650,15 +28460,6 @@ export const poiExtraRoV1: POI[] = [
     "sights": {
       "de": [
             {
-                  "name": "Iaz Lipoveni",
-                  "text": "Iaz Lipoveni in Sfântu Ilie ist ein Fischteich, der von lokalen Anglern genutzt wird.",
-                  "category": "natural",
-                  "coords": [
-                        26.232188,
-                        47.704964
-                  ]
-            },
-            {
                   "name": "Planetariul",
                   "text": "Ein Planetarium in Suceava, das astronomische Präsentationen anbietet.",
                   "category": "museum",
@@ -32696,15 +28497,6 @@ export const poiExtraRoV1: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Iaz Lipoveni",
-                  "text": "A Sfântu Ilie-i Iaz Lipoveni egy horgásztó, a helyi horgászok kedvelt helye.",
-                  "category": "natural",
-                  "coords": [
-                        26.232188,
-                        47.704964
-                  ]
-            },
             {
                   "name": "Planetariul",
                   "text": "Planetárium Szucsávában, amely csillagászati előadásokat kínál.",
@@ -32744,15 +28536,6 @@ export const poiExtraRoV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Iaz Lipoveni",
-                  "text": "Iaz Lipoveni din Sfântu Ilie este un iaz de pește frecventat de pescarii locali.",
-                  "category": "natural",
-                  "coords": [
-                        26.232188,
-                        47.704964
-                  ]
-            },
-            {
                   "name": "Planetariul",
                   "text": "Un planetariu din Suceava care oferă prezentări astronomice.",
                   "category": "museum",
@@ -32790,15 +28573,6 @@ export const poiExtraRoV1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Iaz Lipoveni",
-                  "text": "Iaz Lipoveni in Sfântu Ilie is a fish pond popular among local anglers.",
-                  "category": "natural",
-                  "coords": [
-                        26.232188,
-                        47.704964
-                  ]
-            },
             {
                   "name": "Planetarium",
                   "text": "A planetarium in Suceava offering astronomical presentations.",
@@ -33072,24 +28846,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Dumbrava Zoo",
-                  "text": "Ein schöner See im Bereich des Sibiu Zoo, der den Besuchern eine ruhige Umgebung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        24.121923,
-                        45.760879
-                  ]
-            },
-            {
-                  "name": "Lacul Grădina Zoologică",
-                  "text": "Ein ruhiger See in der Nähe des Zoos in Sibiu, ideal für einen friedlichen Spaziergang.",
-                  "category": "natural",
-                  "coords": [
-                        24.125927,
-                        45.762838
-                  ]
-            },
-            {
                   "name": "Alma playground",
                   "text": "Ein gut ausgestatteter Spielplatz in Sibiu, der Kindern eine unterhaltsame Umgebung bietet.",
                   "category": "family",
@@ -33105,15 +28861,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.148067,
                         45.775229
-                  ]
-            },
-            {
-                  "name": "Parc de Joacă Valea Aurie",
-                  "text": "Ein moderner Spielplatz in Sibiu, perfekt für die Freizeitgestaltung der Familie.",
-                  "category": "family",
-                  "coords": [
-                        24.129403,
-                        45.76779
                   ]
             },
             {
@@ -33162,30 +28909,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Loc de joacă Movilă",
-                  "text": "Ein Nachbarschaftsspielplatz in Sibiu, der Kindern einen sicheren Raum im Freien bietet.",
-                  "category": "family",
-                  "coords": [
-                        24.118154,
-                        45.771874
-                  ]
-            },
-            {
                   "name": "Ștrandul Aqua Fun",
                   "text": "Der Ștrandul Aqua Fun in Sibiu ist ein öffentlicher Wasserpark mit Rutschen, Becken und einem Kinderbereich.",
                   "category": "family",
                   "coords": [
                         24.134899,
                         45.791515
-                  ]
-            },
-            {
-                  "name": "Grădina Zoologică Sibiu",
-                  "text": "Der Zoo von Sibiu bietet Familien die Möglichkeit, verschiedene Tiere zu sehen.",
-                  "category": "family",
-                  "coords": [
-                        24.123293,
-                        45.762374
                   ]
             },
             {
@@ -33429,24 +29158,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Dumbrava Zoo",
-                  "text": "Szép tó a nagyszebeni állatkert területén, amely nyugodt környezetet biztosít a látogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        24.121923,
-                        45.760879
-                  ]
-            },
-            {
-                  "name": "Lacul Grădina Zoologică",
-                  "text": "Békés tó a nagyszebeni állatkert közelében, amely ideális egy nyugodt természetbeli sétához.",
-                  "category": "natural",
-                  "coords": [
-                        24.125927,
-                        45.762838
-                  ]
-            },
-            {
                   "name": "Alma playground",
                   "text": "Jól felszerelt játszótér Nagyszebenben, amely szórakoztató környezetet biztosít a gyerekeknek.",
                   "category": "family",
@@ -33462,15 +29173,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.148067,
                         45.775229
-                  ]
-            },
-            {
-                  "name": "Parc de Joacă Valea Aurie",
-                  "text": "Modern játszótér Nagyszeben Valea Aurie negyedében, amely tökéletes a családi szabadidőhöz.",
-                  "category": "family",
-                  "coords": [
-                        24.129403,
-                        45.76779
                   ]
             },
             {
@@ -33519,30 +29221,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Loc de joacă Movilă",
-                  "text": "Környékbeli játszótér Nagyszebenben, amely biztonságos szabadtéri helyet kínál a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        24.118154,
-                        45.771874
-                  ]
-            },
-            {
                   "name": "Ștrandul Aqua Fun",
                   "text": "A szebeni Ștrandul Aqua Fun egy nyilvános vízipark csúszdákkal, medencékkel és gyermekrésszel.",
                   "category": "family",
                   "coords": [
                         24.134899,
                         45.791515
-                  ]
-            },
-            {
-                  "name": "Grădina Zoologică Sibiu",
-                  "text": "A nagyszebeni állatkert lehetőséget nyújt a családoknak különféle állatok megtekintésére.",
-                  "category": "family",
-                  "coords": [
-                        24.123293,
-                        45.762374
                   ]
             },
             {
@@ -33786,24 +29470,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Dumbrava Zoo",
-                  "text": "Un lac frumos situat în zona Grădinii Zoologice Sibiu, oferind un cadru calm pentru vizitatori.",
-                  "category": "natural",
-                  "coords": [
-                        24.121923,
-                        45.760879
-                  ]
-            },
-            {
-                  "name": "Lacul Grădina Zoologică",
-                  "text": "Un lac liniștit situat lângă grădina zoologică din Sibiu, ideal pentru o plimbare pașnică.",
-                  "category": "natural",
-                  "coords": [
-                        24.125927,
-                        45.762838
-                  ]
-            },
-            {
                   "name": "Alma playground",
                   "text": "Un loc de joacă bine echipat în Sibiu, oferind un mediu distractiv pentru copii.",
                   "category": "family",
@@ -33819,15 +29485,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.148067,
                         45.775229
-                  ]
-            },
-            {
-                  "name": "Parc de Joacă Valea Aurie",
-                  "text": "Un loc de joacă modern în cartierul Valea Aurie din Sibiu, perfect pentru timpul liber în familie.",
-                  "category": "family",
-                  "coords": [
-                        24.129403,
-                        45.76779
                   ]
             },
             {
@@ -33876,30 +29533,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Loc de joacă Movilă",
-                  "text": "Un loc de joacă de cartier în Sibiu, oferind un spațiu sigur în aer liber pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        24.118154,
-                        45.771874
-                  ]
-            },
-            {
                   "name": "Ștrandul Aqua Fun",
                   "text": "Ștrandul Aqua Fun din Sibiu este un parc acvatic public cu tobogane, piscine și o zonă pentru copii.",
                   "category": "family",
                   "coords": [
                         24.134899,
                         45.791515
-                  ]
-            },
-            {
-                  "name": "Grădina Zoologică Sibiu",
-                  "text": "Grădina Zoologică din Sibiu oferă familiilor posibilitatea de a vedea diverse animale.",
-                  "category": "family",
-                  "coords": [
-                        24.123293,
-                        45.762374
                   ]
             },
             {
@@ -34143,24 +29782,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Dumbrava Zoo",
-                  "text": "A beautiful lake located within the Sibiu Zoo area, offering a calm setting for visitors.",
-                  "category": "natural",
-                  "coords": [
-                        24.121923,
-                        45.760879
-                  ]
-            },
-            {
-                  "name": "Lacul Grădina Zoologică",
-                  "text": "A serene lake situated near the zoo in Sibiu, ideal for a peaceful stroll in nature.",
-                  "category": "natural",
-                  "coords": [
-                        24.125927,
-                        45.762838
-                  ]
-            },
-            {
                   "name": "Alma playground",
                   "text": "A well-equipped playground in Sibiu, providing a fun environment for children to play.",
                   "category": "family",
@@ -34176,15 +29797,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.148067,
                         45.775229
-                  ]
-            },
-            {
-                  "name": "Parc de Joacă Valea Aurie",
-                  "text": "A modern playground in the Valea Aurie district of Sibiu, perfect for family leisure time.",
-                  "category": "family",
-                  "coords": [
-                        24.129403,
-                        45.76779
                   ]
             },
             {
@@ -34233,30 +29845,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Loc de joacă Movilă",
-                  "text": "A neighborhood playground in Sibiu, offering a safe outdoor space for children.",
-                  "category": "family",
-                  "coords": [
-                        24.118154,
-                        45.771874
-                  ]
-            },
-            {
                   "name": "Ștrandul Aqua Fun",
                   "text": "Ștrandul Aqua Fun in Sibiu is a public water park with slides, pools, and a children's area.",
                   "category": "family",
                   "coords": [
                         24.134899,
                         45.791515
-                  ]
-            },
-            {
-                  "name": "Sibiu Zoological Garden",
-                  "text": "Sibiu Zoo offers families the chance to see various animals.",
-                  "category": "family",
-                  "coords": [
-                        24.123293,
-                        45.762374
                   ]
             },
             {
@@ -35333,16 +30927,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Liviu Rebreanu Gedenkhaus",
-                  "text": "Das ehemalige Wohnhaus des berühmten Schriftstellers in Valea Mare, wo er bedeutende literarische Werke schuf.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        24.904079,
-                        44.887083
-                  ]
-            },
-            {
                   "name": "Weinbaugebiet Valea Mare",
                   "text": "Ein bekanntes Weinanbaugebiet in der Nähe von Pitești, berühmt für seine hochwertigen Reben und Weinforschung.",
                   "category": "natural",
@@ -35350,24 +30934,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.901537,
                         44.88219
-                  ]
-            },
-            {
-                  "name": "Lacul Turcești",
-                  "text": "Ein ruhiger See bei Stefanesti, ideal für einen entspannten Spaziergang in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        24.860872,
-                        44.839229
-                  ]
-            },
-            {
-                  "name": "Lac parcul Ștrand",
-                  "text": "Ein Seegebiet im Strandpark in Stefanesti, das Besuchern einen malerischen Ort bietet.",
-                  "category": "natural",
-                  "coords": [
-                        24.886404,
-                        44.856904
                   ]
             }
       ],
@@ -35393,16 +30959,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Liviu Rebreanu Emlékház",
-                  "text": "A híres román író egykori lakóháza Valea Mare-ban, ahol számos jelentős irodalmi művét írta a nyugodt környezetben.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        24.904079,
-                        44.887083
-                  ]
-            },
-            {
                   "name": "Valea Mare borvidék",
                   "text": "Pitești melletti neves szőlőtermő vidék, amely kiváló minőségű borairól és kutatóállomásáról ismert Romániában.",
                   "category": "natural",
@@ -35410,24 +30966,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.901537,
                         44.88219
-                  ]
-            },
-            {
-                  "name": "Lacul Turcești",
-                  "text": "Nyugodt tó Stefanesti közelében, amely alkalmas egy pihentető természetbeli sétára.",
-                  "category": "natural",
-                  "coords": [
-                        24.860872,
-                        44.839229
-                  ]
-            },
-            {
-                  "name": "Lac parcul Ștrand",
-                  "text": "Tó a stefanesti Strand parkban, amely festői helyszínt kínál a látogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        24.886404,
-                        44.856904
                   ]
             }
       ],
@@ -35453,16 +30991,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Memorială Liviu Rebreanu",
-                  "text": "Fosta reședință a celebrului romancier din cartierul Valea Mare, unde acesta a scris o parte din marile sale opere.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        24.904079,
-                        44.887083
-                  ]
-            },
-            {
                   "name": "Stațiunea de Cercetare Viticolă Valea Mare",
                   "text": "Zonă viticolă de renume mondial situată pe dealurile Ștefăneștiului, cunoscută pentru producția de vinuri fine.",
                   "category": "natural",
@@ -35470,24 +30998,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.901537,
                         44.88219
-                  ]
-            },
-            {
-                  "name": "Lacul Turcești",
-                  "text": "Un lac liniștit situat lângă Ștefănești, potrivit pentru o plimbare relaxantă în natură.",
-                  "category": "natural",
-                  "coords": [
-                        24.860872,
-                        44.839229
-                  ]
-            },
-            {
-                  "name": "Lac parcul Ștrand",
-                  "text": "O zonă de lac în parcul Ștrand din Ștefănești, oferind un loc pitoresc pentru vizitatori.",
-                  "category": "natural",
-                  "coords": [
-                        24.886404,
-                        44.856904
                   ]
             }
       ],
@@ -35513,16 +31023,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Liviu Rebreanu Memorial House",
-                  "text": "The former residence of the famous novelist in Valea Mare, where he composed some of his literary masterpieces.",
-                  "category": "museum",
-                  "confidence": "high",
-                  "coords": [
-                        24.904079,
-                        44.887083
-                  ]
-            },
-            {
                   "name": "Valea Mare Vineyards",
                   "text": "A prestigious wine-growing region near Pitești, famous for its high-quality grapes and viticultural research station.",
                   "category": "natural",
@@ -35530,24 +31030,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.901537,
                         44.88219
-                  ]
-            },
-            {
-                  "name": "Lacul Turcești",
-                  "text": "A peaceful lake located near Stefanesti, suitable for a relaxing stroll in nature.",
-                  "category": "natural",
-                  "coords": [
-                        24.860872,
-                        44.839229
-                  ]
-            },
-            {
-                  "name": "Lac parcul Ștrand",
-                  "text": "A lake area within the Strand Park in Stefanesti, offering a scenic spot for visitors.",
-                  "category": "natural",
-                  "coords": [
-                        24.886404,
-                        44.856904
                   ]
             }
       ]
@@ -35889,15 +31371,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "STRAND ITCANI",
-                  "text": "Diese Schwimmeinrichtung in Suceava bietet Außenbecken für die Sommererholung.",
-                  "category": "family",
-                  "coords": [
-                        26.20284,
-                        47.651669
-                  ]
-            },
-            {
                   "name": "Casa de Cultura",
                   "text": "Ein Kulturhaus in Suceava, das als Veranstaltungsort für Theateraufführungen und Konzerte dient.",
                   "category": "cultural",
@@ -36063,15 +31536,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         26.246506,
                         47.649551
-                  ]
-            },
-            {
-                  "name": "STRAND ITCANI",
-                  "text": "Ez a szucsávai úszólétesítmény szabadtéri medencéket kínál a nyári kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        26.20284,
-                        47.651669
                   ]
             },
             {
@@ -36243,15 +31707,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "STRAND ITCANI",
-                  "text": "Această facilitate de înot din Suceava oferă bazine în aer liber pentru recreere pe timp de vară.",
-                  "category": "family",
-                  "coords": [
-                        26.20284,
-                        47.651669
-                  ]
-            },
-            {
                   "name": "Casa de Cultura",
                   "text": "O casă de cultură în Suceava care servește drept loc pentru spectacole de teatru și concerte.",
                   "category": "cultural",
@@ -36420,15 +31875,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "STRAND ITCANI",
-                  "text": "This swimming facility in Suceava offers outdoor pools for summer recreation.",
-                  "category": "family",
-                  "coords": [
-                        26.20284,
-                        47.651669
-                  ]
-            },
-            {
                   "name": "Casa de Cultura",
                   "text": "A culture house in Suceava serving as a venue for theatrical performances and concerts.",
                   "category": "cultural",
@@ -36491,24 +31937,6 @@ export const poiExtraRoV1: POI[] = [
                         24.183594,
                         45.673497
                   ]
-            },
-            {
-                  "name": "Livada Tocile",
-                  "text": "Ein ruhiges Seegebiet in Talmaciu, ideal zum Genießen der lokalen Naturlandschaft.",
-                  "category": "natural",
-                  "coords": [
-                        24.196122,
-                        45.714474
-                  ]
-            },
-            {
-                  "name": "Acumularea Racoviță",
-                  "text": "Ein bedeutender Stausee bei Talmaciu, der malerische Ausblicke und Ruhe bietet.",
-                  "category": "natural",
-                  "coords": [
-                        24.341068,
-                        45.705023
-                  ]
             }
       ],
       "hu": [
@@ -36540,24 +31968,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.183594,
                         45.673497
-                  ]
-            },
-            {
-                  "name": "Livada Tocile",
-                  "text": "Csendes tóvidék Nagytalmácson, amely tökéletes a helyi természeti táj élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        24.196122,
-                        45.714474
-                  ]
-            },
-            {
-                  "name": "Acumularea Racoviță",
-                  "text": "Jelentős víztározó Nagytalmács közelében, amely festői kilátást és nyugodt légkört kínál.",
-                  "category": "natural",
-                  "coords": [
-                        24.341068,
-                        45.705023
                   ]
             }
       ],
@@ -36591,24 +32001,6 @@ export const poiExtraRoV1: POI[] = [
                         24.183594,
                         45.673497
                   ]
-            },
-            {
-                  "name": "Livada Tocile",
-                  "text": "O zonă de lac liniștită în Tălmaciu, perfectă pentru a te bucura de peisajul natural local.",
-                  "category": "natural",
-                  "coords": [
-                        24.196122,
-                        45.714474
-                  ]
-            },
-            {
-                  "name": "Acumularea Racoviță",
-                  "text": "Un rezervor important lângă Tălmaciu, oferind priveliști pitorești și o atmosferă calmă.",
-                  "category": "natural",
-                  "coords": [
-                        24.341068,
-                        45.705023
-                  ]
             }
       ],
       "en": [
@@ -36640,24 +32032,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.183594,
                         45.673497
-                  ]
-            },
-            {
-                  "name": "Livada Tocile",
-                  "text": "A quiet lake area in Talmaciu, perfect for enjoying the local natural landscape.",
-                  "category": "natural",
-                  "coords": [
-                        24.196122,
-                        45.714474
-                  ]
-            },
-            {
-                  "name": "Acumularea Racoviță",
-                  "text": "A significant reservoir near Talmaciu, offering scenic views and a calm atmosphere.",
-                  "category": "natural",
-                  "coords": [
-                        24.341068,
-                        45.705023
                   ]
             }
       ]
@@ -37952,33 +33326,6 @@ export const poiExtraRoV1: POI[] = [
                         27.67295,
                         47.135639
                   ]
-            },
-            {
-                  "name": "Lacul Veneția",
-                  "text": "Ein nach Venedig benannter See bei Tomești.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
-                  "name": "Lacul Chirița",
-                  "text": "Der Chirița-See, ein kleiner See in der Nähe von Tomești.",
-                  "category": "natural",
-                  "coords": [
-                        27.64925,
-                        47.172277
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "„Doi Peri” (zwei Birnbäume), ein nach zwei Birnbäumen benanntes Naturgebiet bei Tomești.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
             }
       ],
       "hu": [
@@ -38000,33 +33347,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.67295,
                         47.135639
-                  ]
-            },
-            {
-                  "name": "Lacul Veneția",
-                  "text": "A Tomești melletti, Velencéről elnevezett tó.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
-                  "name": "Lacul Chirița",
-                  "text": "A Chirița-tó, egy kisebb tó Tomești közelében.",
-                  "category": "natural",
-                  "coords": [
-                        27.64925,
-                        47.172277
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "„Doi Peri” (két körtefa), egy két körtefáról elnevezett természeti terület Tomești mellett.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
                   ]
             }
       ],
@@ -38050,33 +33370,6 @@ export const poiExtraRoV1: POI[] = [
                         27.67295,
                         47.135639
                   ]
-            },
-            {
-                  "name": "Lacul Veneția",
-                  "text": "Un lac numit după Veneția, lângă Tomești.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
-                  "name": "Lacul Chirița",
-                  "text": "Lacul Chirița, un lac mic în apropiere de Tomești.",
-                  "category": "natural",
-                  "coords": [
-                        27.64925,
-                        47.172277
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "„Doi Peri”, o zonă naturală numită după doi peri, lângă Tomești.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
             }
       ],
       "en": [
@@ -38098,33 +33391,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.67295,
                         47.135639
-                  ]
-            },
-            {
-                  "name": "Lacul Veneția",
-                  "text": "A lake named after Venice near Tomești.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
-                  "name": "Lacul Chirița",
-                  "text": "Lacul Chirița, a small lake near Tomești.",
-                  "category": "natural",
-                  "coords": [
-                        27.64925,
-                        47.172277
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "„Doi Peri” (Two Pear Trees), a natural area named after two pear trees near Tomești.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
                   ]
             }
       ]
@@ -38883,15 +34149,6 @@ export const poiExtraRoV1: POI[] = [
                         24.427,
                         46.481
                   ]
-            },
-            {
-                  "name": "Hanul Pescarilor Garofița",
-                  "text": "Ein ruhiges Seegebiet bei Ungheni, das eine entspannende Umgebung für Spaziergänge bietet.",
-                  "category": "natural",
-                  "coords": [
-                        24.524108,
-                        46.540347
-                  ]
             }
       ],
       "hu": [
@@ -38913,15 +34170,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.427,
                         46.481
-                  ]
-            },
-            {
-                  "name": "Hanul Pescarilor Garofița",
-                  "text": "Békés tóvidék Nyárádtő közelében, amely pihentető környezetet biztosít a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        24.524108,
-                        46.540347
                   ]
             }
       ],
@@ -38945,15 +34193,6 @@ export const poiExtraRoV1: POI[] = [
                         24.427,
                         46.481
                   ]
-            },
-            {
-                  "name": "Hanul Pescarilor Garofița",
-                  "text": "O zonă de lac liniștită lângă Ungheni, oferind un mediu relaxant pentru plimbări în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        24.524108,
-                        46.540347
-                  ]
             }
       ],
       "en": [
@@ -38976,15 +34215,6 @@ export const poiExtraRoV1: POI[] = [
                         24.427,
                         46.481
                   ]
-            },
-            {
-                  "name": "Hanul Pescarilor Garofița",
-                  "text": "A serene lake area near Ungheni, providing a relaxing environment for outdoor walks.",
-                  "category": "natural",
-                  "coords": [
-                        24.524108,
-                        46.540347
-                  ]
             }
       ]
 }
@@ -38993,15 +34223,6 @@ export const poiExtraRoV1: POI[] = [
   "tier": 5,
     "sights": {
       "de": [
-            {
-                  "name": "Lacul Verde",
-                  "text": "Der Lacul Verde in Uricani bietet eine malerische Kulisse für Naturliebhaber und Wanderer.",
-                  "category": "natural",
-                  "coords": [
-                        23.205003,
-                        45.368921
-                  ]
-            },
             {
                   "name": "Casa de Cultură",
                   "text": "Das Kulturhaus in Uricani, zentraler Veranstaltungsort der Stadt.",
@@ -39014,15 +34235,6 @@ export const poiExtraRoV1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Lacul Verde",
-                  "text": "Az uricani Lacul Verde festői környezetet biztosít a természetkedvelők és a túrázók számára.",
-                  "category": "natural",
-                  "coords": [
-                        23.205003,
-                        45.368921
-                  ]
-            },
-            {
                   "name": "Casa de Cultură",
                   "text": "Az Uricani-i Kultúrház, a város központi rendezvényhelyszíne.",
                   "category": "cultural",
@@ -39034,15 +34246,6 @@ export const poiExtraRoV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Lacul Verde",
-                  "text": "Lacul Verde din Uricani oferă un cadru pitoresc pentru iubitorii de natură și drumeți.",
-                  "category": "natural",
-                  "coords": [
-                        23.205003,
-                        45.368921
-                  ]
-            },
-            {
                   "name": "Casa de Cultură",
                   "text": "Casa de Cultură din Uricani, locul central de evenimente al orașului.",
                   "category": "cultural",
@@ -39053,15 +34256,6 @@ export const poiExtraRoV1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Lacul Verde",
-                  "text": "Lacul Verde in Uricani offers a picturesque setting for nature lovers and hikers.",
-                  "category": "natural",
-                  "coords": [
-                        23.205003,
-                        45.368921
-                  ]
-            },
             {
                   "name": "Casa de Cultură",
                   "text": "The Cultural House in Uricani, the town's main venue for events.",
@@ -39099,66 +34293,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Ciric I",
-                  "text": "Lacul Ciric I, der erste von mehreren Ciric-Seen in Valea Adâncă.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
-                  "name": "Lacul Veneția",
-                  "text": "Ein Gewässer in Valea Adanca in schöner Lage.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
-                  "name": "Lacul Chirița",
-                  "text": "Der Chirița-See in Valea Adâncă, ein kleiner See in der Region.",
-                  "category": "natural",
-                  "coords": [
-                        27.64925,
-                        47.172277
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "„Doi Peri” in Valea Adâncă, ein nach zwei Birnbäumen benanntes Naturgebiet.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
-            },
-            {
                   "name": "Lacul Ciurbești",
                   "text": "Der Ciurbești-See in Valea Adâncă, ein ruhiger See in der Natur.",
                   "category": "natural",
                   "coords": [
                         27.539463,
                         47.081451
-                  ]
-            },
-            {
-                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
-                  "text": "Ein Seeabschnitt der Botanischen Gärten bei Valea Adanca.",
-                  "category": "natural",
-                  "coords": [
-                        27.548701,
-                        47.185717
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "Lacul Ciric II, der zweite Ciric-See in Valea Adâncă.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
                   ]
             },
             {
@@ -39202,66 +34342,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Ciric I",
-                  "text": "Ciric I-tó, az első a több Ciric-tó közül Valea Adâncă-ban.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
-                  "name": "Lacul Veneția",
-                  "text": "Vízparti helyszín Valea Adanca területén, szép környezetben.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
-                  "name": "Lacul Chirița",
-                  "text": "A Chirița-tó Valea Adâncă-ban, egy kisebb tó a környéken.",
-                  "category": "natural",
-                  "coords": [
-                        27.64925,
-                        47.172277
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "„Doi Peri” Valea Adâncă-ban, egy két körtefáról elnevezett természeti terület.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
-            },
-            {
                   "name": "Lacul Ciurbești",
                   "text": "A Ciurbești-tó Valea Adâncă-ban, egy csendes tó a természetben.",
                   "category": "natural",
                   "coords": [
                         27.539463,
                         47.081451
-                  ]
-            },
-            {
-                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
-                  "text": "A botanikus kert tavi szakasza Valea Adanca közelében.",
-                  "category": "natural",
-                  "coords": [
-                        27.548701,
-                        47.185717
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "Ciric II-tó, a második Ciric-tó Valea Adâncă-ban.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
                   ]
             },
             {
@@ -39305,66 +34391,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Ciric I",
-                  "text": "Lacul Ciric I, primul dintre mai multe lacuri Ciric din Valea Adâncă.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
-                  "name": "Lacul Veneția",
-                  "text": "Un ochi de apă în Valea Adâncă într-o locație frumoasă.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
-                  "name": "Lacul Chirița",
-                  "text": "Lacul Chirița din Valea Adâncă, un lac mic în regiune.",
-                  "category": "natural",
-                  "coords": [
-                        27.64925,
-                        47.172277
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "„Doi Peri” din Valea Adâncă, o zonă naturală numită după doi peri.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
-            },
-            {
                   "name": "Lacul Ciurbești",
                   "text": "Lacul Ciurbești din Valea Adâncă, un lac liniștit în natură.",
                   "category": "natural",
                   "coords": [
                         27.539463,
                         47.081451
-                  ]
-            },
-            {
-                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
-                  "text": "O secțiune de lac a Grădinii Botanice lângă Valea Adâncă.",
-                  "category": "natural",
-                  "coords": [
-                        27.548701,
-                        47.185717
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "Lacul Ciric II, al doilea lac Ciric din Valea Adâncă.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
                   ]
             },
             {
@@ -39408,66 +34440,12 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Ciric I",
-                  "text": "Lacul Ciric I, the first of several Ciric lakes in Valea Adâncă.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
-                  "name": "Lacul Veneția",
-                  "text": "A body of water in Valea Adanca in a beautiful location.",
-                  "category": "natural",
-                  "coords": [
-                        27.614289,
-                        47.169879
-                  ]
-            },
-            {
-                  "name": "Lacul Chirița",
-                  "text": "Lacul Chirița in Valea Adâncă, a small lake in the area.",
-                  "category": "natural",
-                  "coords": [
-                        27.64925,
-                        47.172277
-                  ]
-            },
-            {
-                  "name": "Doi Peri",
-                  "text": "„Doi Peri” in Valea Adâncă, a natural area named after two pear trees.",
-                  "category": "natural",
-                  "coords": [
-                        27.607414,
-                        47.129279
-                  ]
-            },
-            {
                   "name": "Lacul Ciurbești",
                   "text": "Lacul Ciurbești in Valea Adâncă, a peaceful lake in nature.",
                   "category": "natural",
                   "coords": [
                         27.539463,
                         47.081451
-                  ]
-            },
-            {
-                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
-                  "text": "A lake section of the Botanical Garden near Valea Adanca.",
-                  "category": "natural",
-                  "coords": [
-                        27.548701,
-                        47.185717
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "Lacul Ciric II, the second Ciric lake in Valea Adâncă.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
                   ]
             },
             {
@@ -39872,51 +34850,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Acumularea Aroneanu",
-                  "text": "Acumularea Aroneanu in Valea Lupului ist ein weitläufiges Gewässer, das eine schöne Aussicht für Besucher bietet.",
-                  "category": "natural",
-                  "coords": [
-                        27.594207,
-                        47.201347
-                  ]
-            },
-            {
-                  "name": "Acumularea Dorobanț",
-                  "text": "Acumularea Dorobanț in Valea Lupului bietet eine ruhige Umgebung für Ausflüge in die Natur.",
-                  "category": "natural",
-                  "coords": [
-                        27.588105,
-                        47.222835
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric I",
-                  "text": "Der Lacul Ciric I in Valea Lupului ist ein beliebtes Ziel für Spaziergänge und Freizeitaktivitäten im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
-                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
-                  "text": "Der See im Botanischen Garten Anastasie Fătu bietet eine idyllische Atmosphäre inmitten einer grünen Oase.",
-                  "category": "natural",
-                  "coords": [
-                        27.548701,
-                        47.185717
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "Der Lacul Ciric II in Valea Lupului ist ein friedliches Gewässer, das sich gut für erholsame Stunden eignet.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
-                  ]
-            },
-            {
                   "name": "Ana Fun Land",
                   "text": "Ana Fun Land in Valea Lupului ist ein bunter Spielplatz, auf dem Kinder sicher spielen und toben können.",
                   "category": "family",
@@ -39991,51 +34924,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         27.47471,
                         47.228385
-                  ]
-            },
-            {
-                  "name": "Aroneanu gyűjtő",
-                  "text": "A Valea Lupului-i Acumularea Aroneanu egy kiterjedt vízfelület, amely szép kilátást nyújt a látogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        27.594207,
-                        47.201347
-                  ]
-            },
-            {
-                  "name": "Acumularea Dorobanț",
-                  "text": "A Valea Lupului-i Acumularea Dorobanț nyugodt környezetet biztosít a természetközeli kirándulásokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        27.588105,
-                        47.222835
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric I",
-                  "text": "A Valea Lupului-i Lacul Ciric I kedvelt célpont a sétákhoz és a szabadtéri szabadidős tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
-                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
-                  "text": "Az Anastasie Fătu Botanikus Kert tava idilli hangulatot áraszt egy zöld oázis közepén.",
-                  "category": "natural",
-                  "coords": [
-                        27.548701,
-                        47.185717
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "A Valea Lupului-i Lacul Ciric II egy békés vízfelület, amely kiválóan alkalmas a pihentető órákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
                   ]
             },
             {
@@ -40116,51 +35004,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Acumularea Aroneanu",
-                  "text": "Acumularea Aroneanu din Valea Lupului este o suprafață de apă întinsă care oferă o priveliște frumoasă vizitatorilor.",
-                  "category": "natural",
-                  "coords": [
-                        27.594207,
-                        47.201347
-                  ]
-            },
-            {
-                  "name": "Acumularea Dorobanț",
-                  "text": "Acumularea Dorobanț din Valea Lupului oferă un mediu liniștit pentru excursii în natură.",
-                  "category": "natural",
-                  "coords": [
-                        27.588105,
-                        47.222835
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric I",
-                  "text": "Lacul Ciric I din Valea Lupului este o destinație populară pentru plimbări și activități recreative în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
-                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
-                  "text": "Lacul Grădinii Botanice Anastasie Fătu oferă o atmosferă idilică în mijlocul unei oaze verzi.",
-                  "category": "natural",
-                  "coords": [
-                        27.548701,
-                        47.185717
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "Lacul Ciric II din Valea Lupului este o apă pașnică, potrivită pentru ore de relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
-                  ]
-            },
-            {
                   "name": "Ana Fun Land",
                   "text": "Ana Fun Land din Valea Lupului este un loc de joacă colorat unde copiii se pot juca și zburda în siguranță.",
                   "category": "family",
@@ -40238,51 +35081,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Acumularea Aroneanu",
-                  "text": "Acumularea Aroneanu in Valea Lupului is an extensive body of water offering a beautiful view to visitors.",
-                  "category": "natural",
-                  "coords": [
-                        27.594207,
-                        47.201347
-                  ]
-            },
-            {
-                  "name": "Acumularea Dorobanț",
-                  "text": "Acumularea Dorobanț in Valea Lupului offers a calm environment for nature trips.",
-                  "category": "natural",
-                  "coords": [
-                        27.588105,
-                        47.222835
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric I",
-                  "text": "Lacul Ciric I in Valea Lupului is a popular destination for walks and outdoor recreational activities.",
-                  "category": "natural",
-                  "coords": [
-                        27.60063,
-                        47.187965
-                  ]
-            },
-            {
-                  "name": "Lacul Grădinii Botanice Anastasie Fătu",
-                  "text": "The lake of the Anastasie Fătu Botanical Garden offers an idyllic atmosphere in the middle of a green oasis.",
-                  "category": "natural",
-                  "coords": [
-                        27.548701,
-                        47.185717
-                  ]
-            },
-            {
-                  "name": "Lacul Ciric II",
-                  "text": "Lacul Ciric II in Valea Lupului is a peaceful body of water, well-suited for relaxing hours.",
-                  "category": "natural",
-                  "coords": [
-                        27.605615,
-                        47.179802
-                  ]
-            },
-            {
                   "name": "Ana Fun Land",
                   "text": "Ana Fun Land in Valea Lupului is a colorful playground where children can safely play and romp around.",
                   "category": "family",
@@ -40336,15 +35134,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Turcești",
-                  "text": "Der Turcești-See in Valea Mare-Podgoria, ein See in der Weinbauregion.",
-                  "category": "natural",
-                  "coords": [
-                        24.860872,
-                        44.839229
-                  ]
-            },
-            {
                   "name": "Lac parcul Ștrand",
                   "text": "Der See im Ștrand-Park in Valea Mare-Podgoria, ein beliebtes Badegewässer.",
                   "category": "natural",
@@ -40381,15 +35170,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.904079,
                         44.887083
-                  ]
-            },
-            {
-                  "name": "Lacul Turcești",
-                  "text": "A Turcești-tó Valea Mare-Podgoria-ban, egy tó a borvidéken.",
-                  "category": "natural",
-                  "coords": [
-                        24.860872,
-                        44.839229
                   ]
             },
             {
@@ -40432,15 +35212,6 @@ export const poiExtraRoV1: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Turcești",
-                  "text": "Lacul Turcești din Valea Mare-Podgoria, un lac în regiunea viticolă.",
-                  "category": "natural",
-                  "coords": [
-                        24.860872,
-                        44.839229
-                  ]
-            },
-            {
                   "name": "Lac parcul Ștrand",
                   "text": "Lacul din Parcul Ștrand din Valea Mare-Podgoria, un lac popular pentru înot.",
                   "category": "natural",
@@ -40477,15 +35248,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         24.904079,
                         44.887083
-                  ]
-            },
-            {
-                  "name": "Lacul Turcești",
-                  "text": "Lacul Turcești in Valea Mare-Podgoria, a lake in the wine-growing region.",
-                  "category": "natural",
-                  "coords": [
-                        24.860872,
-                        44.839229
                   ]
             },
             {
@@ -42301,15 +37063,6 @@ export const poiExtraRoV1: POI[] = [
                         25.893525,
                         47.80612
                   ]
-            },
-            {
-                  "name": "Lacul Balțig",
-                  "text": "Der Balțig-See in Volovăț, ein kleiner See in der Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        25.941654,
-                        47.844755
-                  ]
             }
       ],
       "hu": [
@@ -42320,15 +37073,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.893525,
                         47.80612
-                  ]
-            },
-            {
-                  "name": "Lacul Balțig",
-                  "text": "A Balțig-tó Volovăț-ban, egy kisebb tó a környéken.",
-                  "category": "natural",
-                  "coords": [
-                        25.941654,
-                        47.844755
                   ]
             }
       ],
@@ -42341,15 +37085,6 @@ export const poiExtraRoV1: POI[] = [
                         25.893525,
                         47.80612
                   ]
-            },
-            {
-                  "name": "Lacul Balțig",
-                  "text": "Lacul Balțig din Volovăț, un lac mic în zonă.",
-                  "category": "natural",
-                  "coords": [
-                        25.941654,
-                        47.844755
-                  ]
             }
       ],
       "en": [
@@ -42360,15 +37095,6 @@ export const poiExtraRoV1: POI[] = [
                   "coords": [
                         25.893525,
                         47.80612
-                  ]
-            },
-            {
-                  "name": "Lacul Balțig",
-                  "text": "Lacul Balțig in Volovăț, a small lake in the area.",
-                  "category": "natural",
-                  "coords": [
-                        25.941654,
-                        47.844755
                   ]
             }
       ]

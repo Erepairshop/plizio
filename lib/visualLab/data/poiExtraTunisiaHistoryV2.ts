@@ -786,15 +786,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Djebbel Kharroub",
-                  "text": "Die Ruinen auf dem Hügel Djebbel Kharroub überblicken das umliegende historische Gelände.",
-                  "category": "historical",
-                  "coords": [
-                        9.263854,
-                        36.472949
-                  ]
-            },
-            {
                   "name": "Aïn Tmalla-at-Tmalla",
                   "text": "Diese historischen Ruinen sind Teil der archäologischen Landschaft von Dougga und zeugen von der antiken Siedlungsgeschichte der Region.",
                   "category": "historical",
@@ -965,15 +956,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
                   "coords": [
                         9.218424,
                         36.426223
-                  ]
-            },
-            {
-                  "name": "Djebbel Kharroub",
-                  "text": "A Djebbel Kharroub hegy tetején lévő romok a környező történelmi terepre néznek.",
-                  "category": "historical",
-                  "coords": [
-                        9.263854,
-                        36.472949
                   ]
             },
             {
@@ -1150,15 +1132,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Djebbel Kharroub",
-                  "text": "Ruinele de pe vârful dealului Djebbel Kharroub domină terenul istoric înconjurător.",
-                  "category": "historical",
-                  "coords": [
-                        9.263854,
-                        36.472949
-                  ]
-            },
-            {
                   "name": "Aïn Tmalla-at-Tmalla",
                   "text": "Aceste ruine istorice fac parte din peisajul arheologic din Dougga și stau mărturie a istoriei așezărilor antice din regiune.",
                   "category": "historical",
@@ -1329,15 +1302,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
                   "coords": [
                         9.218424,
                         36.426223
-                  ]
-            },
-            {
-                  "name": "Djebbel Kharroub",
-                  "text": "The ruins atop the Djebbel Kharroub hill overlook the surrounding historical terrain.",
-                  "category": "historical",
-                  "coords": [
-                        9.263854,
-                        36.472949
                   ]
             },
             {
@@ -1854,15 +1818,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Théâtre",
-                  "text": "Die Ruinen dieses römischen Theaters in Sbeitla boten einst Platz für zahlreiche Zuschauer.",
-                  "category": "historical",
-                  "coords": [
-                        9.122422,
-                        35.239593
-                  ]
-            },
-            {
                   "name": "Petites thermes",
                   "text": "Diese kleinen Thermenanlagen in Sbeitla boten intimere Bademöglichkeiten in der antiken Stadt.",
                   "category": "historical",
@@ -1896,15 +1851,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
                   "coords": [
                         9.121493,
                         35.239617
-                  ]
-            },
-            {
-                  "name": "Arc Tétrarchie",
-                  "text": "Dieser römische Triumphbogen in Sbeitla wurde zur Zeit der Tetrarchie als prunkvolles Monument errichtet.",
-                  "category": "historical",
-                  "coords": [
-                        9.123544,
-                        35.235638
                   ]
             },
             {
@@ -1964,15 +1910,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Théâtre",
-                  "text": "A sbeitlai római színház romjai egykor számos néző befogadására voltak alkalmasak.",
-                  "category": "historical",
-                  "coords": [
-                        9.122422,
-                        35.239593
-                  ]
-            },
-            {
                   "name": "Petites thermes",
                   "text": "Sbeitla ezen kisebb fürdőkomplexuma intimebb fürdőzési lehetőségeket kínált az ókori városban.",
                   "category": "historical",
@@ -2006,15 +1943,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
                   "coords": [
                         9.121493,
                         35.239617
-                  ]
-            },
-            {
-                  "name": "Arc Tétrarchie",
-                  "text": "Ezt a sbeitlai római diadalívet a tetrarchia idején emelték pompás emlékműként.",
-                  "category": "historical",
-                  "coords": [
-                        9.123544,
-                        35.235638
                   ]
             },
             {
@@ -2074,15 +2002,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Théâtre",
-                  "text": "Ruinele acestui teatru roman din Sbeitla găzduiau odinioară numeroși spectatori.",
-                  "category": "historical",
-                  "coords": [
-                        9.122422,
-                        35.239593
-                  ]
-            },
-            {
                   "name": "Petites thermes",
                   "text": "Aceste mici băi din Sbeitla ofereau facilități de îmbăiere mai restrânse în orașul antic.",
                   "category": "historical",
@@ -2116,15 +2035,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
                   "coords": [
                         9.121493,
                         35.239617
-                  ]
-            },
-            {
-                  "name": "Arc Tétrarchie",
-                  "text": "Acest arc de triumf roman din Sbeitla a fost ridicat ca monument grandios în timpul tetrarhiei.",
-                  "category": "historical",
-                  "coords": [
-                        9.123544,
-                        35.235638
                   ]
             },
             {
@@ -2184,15 +2094,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Theatre",
-                  "text": "The ruins of this Roman theatre in Sbeitla once accommodated numerous spectators for public performances.",
-                  "category": "historical",
-                  "coords": [
-                        9.122422,
-                        35.239593
-                  ]
-            },
-            {
                   "name": "Small baths",
                   "text": "This smaller bath complex in Sbeitla provided more intimate bathing facilities in the ancient city.",
                   "category": "historical",
@@ -2226,15 +2127,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
                   "coords": [
                         9.121493,
                         35.239617
-                  ]
-            },
-            {
-                  "name": "Arch of the Tetrarchy",
-                  "text": "This Roman triumphal arch in Sbeitla was erected as a grand monument during the time of the Tetrarchy.",
-                  "category": "historical",
-                  "coords": [
-                        9.123544,
-                        35.235638
                   ]
             },
             {
@@ -3240,15 +3132,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
     id: "maktaris-archaeological-history-v2", "sights": {
       "de": [
             {
-                  "name": "Zama Minor",
-                  "text": "Zama Minor liegt in der archäologischen Region Maktaris und ist eine antike nordafrikanische Siedlung aus der karthagischen und römischen Epoche.",
-                  "category": "historical",
-                  "coords": [
-                        9.205708,
-                        35.860508
-                  ]
-            },
-            {
                   "name": "Amphithéatre Mactaris",
                   "text": "Die Steinfundamente und elliptischen Sitzreihen dieses römischen Amphitheaters in Mactaris waren einst Schauplatz von Gladiatorenkämpfen.",
                   "category": "historical",
@@ -3331,15 +3214,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Zama Minor",
-                  "text": "A Maktaris régészeti régióban található Zama Minor egy ókori észak-afrikai település, amely a karthágói és római korszakból maradt fenn.",
-                  "category": "historical",
-                  "coords": [
-                        9.205708,
-                        35.860508
-                  ]
-            },
             {
                   "name": "Amphithéatre Mactaris",
                   "text": "Ennek a maktarisi római amfiteátrumnak a kőalapjai és elliptikus üléssorai egykor gladiátorjátékoknak és nagy látványosságoknak adtak otthont.",
@@ -3424,15 +3298,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Zama Minor",
-                  "text": "Situată în regiunea arheologică Maktaris, Zama Minor este o veche așezare nord-africană din epocile cartagineză și romană.",
-                  "category": "historical",
-                  "coords": [
-                        9.205708,
-                        35.860508
-                  ]
-            },
-            {
                   "name": "Amphithéatre Mactaris",
                   "text": "Fundațiile de piatră și treptele eliptice de scaune ale acestui amfiteatru roman din Mactaris au găzduit cândva jocuri de gladiatori.",
                   "category": "historical",
@@ -3515,15 +3380,6 @@ export const poiExtraTunisiaHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Zama Minor",
-                  "text": "Set within the Maktaris archaeological region, Zama Minor is an ancient North African settlement that flourished during the Carthaginian and Roman eras.",
-                  "category": "historical",
-                  "coords": [
-                        9.205708,
-                        35.860508
-                  ]
-            },
             {
                   "name": "Amphitheatre of Mactaris",
                   "text": "The stone foundations and seating tiers of this Roman amphitheatre in Mactaris once hosted gladiatorial games and large civic spectacles.",

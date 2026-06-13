@@ -145,15 +145,6 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruin of the Hotel de Chasse",
-                  "text": "Ruine des ehemaligen Jagdhotels Hotel de Chasse in Sarh.",
-                  "category": "landmark",
-                  "coords": [
-                        18.391382,
-                        9.151719
-                  ]
-            },
-            {
                   "name": "Crafts Center",
                   "text": "Handwerkszentrum mit Werkstätten lokaler Kunsthandwerker im Zentrum von Sarh.",
                   "category": "landmark",
@@ -169,15 +160,6 @@ export const poiExtraChadCitiesV2: POI[] = [
                   "coords": [
                         18.387879,
                         9.1395
-                  ]
-            },
-            {
-                  "name": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH",
-                  "text": "Hauptsitz der Hilfsorganisation CAHPH für Menschen mit Behinderungen in Sarh.",
-                  "category": "landmark",
-                  "coords": [
-                        18.381469,
-                        9.152994
                   ]
             },
             {
@@ -210,15 +192,6 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruin of the Hotel de Chasse",
-                  "text": "A Hotel de Chasse egykori vadászhotel romjai Sarhban.",
-                  "category": "landmark",
-                  "coords": [
-                        18.391382,
-                        9.151719
-                  ]
-            },
-            {
                   "name": "Crafts Center",
                   "text": "Kézműves központ, helyi mesterek műhelyeivel Sarh központjában.",
                   "category": "landmark",
@@ -234,15 +207,6 @@ export const poiExtraChadCitiesV2: POI[] = [
                   "coords": [
                         18.387879,
                         9.1395
-                  ]
-            },
-            {
-                  "name": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH",
-                  "text": "A CAHPH fogyatékkal élőket segítő szervezet sarhi központja.",
-                  "category": "landmark",
-                  "coords": [
-                        18.381469,
-                        9.152994
                   ]
             },
             {
@@ -275,15 +239,6 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruin of the Hotel de Chasse",
-                  "text": "Ruinele fostului hotel de vânătoare Hotel de Chasse în Sarh.",
-                  "category": "landmark",
-                  "coords": [
-                        18.391382,
-                        9.151719
-                  ]
-            },
-            {
                   "name": "Crafts Center",
                   "text": "Centru de meșteșuguri cu ateliere ale artizanilor locali, în centrul orașului Sarh.",
                   "category": "landmark",
@@ -299,15 +254,6 @@ export const poiExtraChadCitiesV2: POI[] = [
                   "coords": [
                         18.387879,
                         9.1395
-                  ]
-            },
-            {
-                  "name": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH",
-                  "text": "Sediu al organizației umanitare CAHPH pentru persoane cu handicap, în Sarh.",
-                  "category": "landmark",
-                  "coords": [
-                        18.381469,
-                        9.152994
                   ]
             },
             {
@@ -340,15 +286,6 @@ export const poiExtraChadCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruin of the Hotel de Chasse",
-                  "text": "Ruins of the former Hotel de Chasse hunting lodge in Sarh.",
-                  "category": "landmark",
-                  "coords": [
-                        18.391382,
-                        9.151719
-                  ]
-            },
-            {
                   "name": "Crafts Center",
                   "text": "Crafts center with workshops of local artisans in central Sarh.",
                   "category": "landmark",
@@ -364,15 +301,6 @@ export const poiExtraChadCitiesV2: POI[] = [
                   "coords": [
                         18.387879,
                         9.1395
-                  ]
-            },
-            {
-                  "name": "Cadre d’Action Humaniste pour les Personnes Handicapées CAHPH",
-                  "text": "Headquarters of the CAHPH humanitarian organization for disabled persons in Sarh.",
-                  "category": "landmark",
-                  "coords": [
-                        18.381469,
-                        9.152994
                   ]
             },
             {
@@ -1263,15 +1191,6 @@ export const poiExtraChadCitiesV2: POI[] = [
     id: "faya-largeau-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Rond point",
-                  "text": "Zentraler Kreisverkehr in Largeau, Verkehrsknotenpunkt der Stadt.",
-                  "category": "historical",
-                  "coords": [
-                        19.104372,
-                        17.930595
-                  ]
-            },
-            {
                   "name": "Stade municipal Hussein Habre",
                   "text": "Stadion, benannt nach dem ehemaligen Präsidenten Hussein Habré, in Largeau.",
                   "category": "landmark",
@@ -1279,27 +1198,9 @@ export const poiExtraChadCitiesV2: POI[] = [
                         19.095935,
                         17.918578
                   ]
-            },
-            {
-                  "name": "Rond point Chifini",
-                  "text": "Rond-point Chifini, ein Kreisverkehr an einer wichtigen Kreuzung in Largeau.",
-                  "category": "historical",
-                  "coords": [
-                        19.107216,
-                        17.932889
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Rond point",
-                  "text": "Központi körforgalom Largeau-ban, a város forgalmi csomópontja.",
-                  "category": "historical",
-                  "coords": [
-                        19.104372,
-                        17.930595
-                  ]
-            },
             {
                   "name": "Stade municipal Hussein Habre",
                   "text": "Stadion Largeau-ban, mely Hussein Habré volt elnök nevét viseli.",
@@ -1308,27 +1209,9 @@ export const poiExtraChadCitiesV2: POI[] = [
                         19.095935,
                         17.918578
                   ]
-            },
-            {
-                  "name": "Rond point Chifini",
-                  "text": "A Chifini körforgalom, egy fontos kereszteződés Largeau-ban.",
-                  "category": "historical",
-                  "coords": [
-                        19.107216,
-                        17.932889
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Rond point",
-                  "text": "Sens giratoriu central în Largeau, nod rutier al orașului.",
-                  "category": "historical",
-                  "coords": [
-                        19.104372,
-                        17.930595
-                  ]
-            },
             {
                   "name": "Stade municipal Hussein Habre",
                   "text": "Stadion numit după fostul președinte Hussein Habré, în Largeau.",
@@ -1337,27 +1220,9 @@ export const poiExtraChadCitiesV2: POI[] = [
                         19.095935,
                         17.918578
                   ]
-            },
-            {
-                  "name": "Rond point Chifini",
-                  "text": "Rond-point Chifini, un sens giratoriu la o intersectie importantă din Largeau.",
-                  "category": "historical",
-                  "coords": [
-                        19.107216,
-                        17.932889
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Rond point",
-                  "text": "Central roundabout in Largeau, the city's traffic hub.",
-                  "category": "historical",
-                  "coords": [
-                        19.104372,
-                        17.930595
-                  ]
-            },
             {
                   "name": "Stade municipal Hussein Habre",
                   "text": "Stadium named after former president Hussein Habré in Largeau.",
@@ -1365,15 +1230,6 @@ export const poiExtraChadCitiesV2: POI[] = [
                   "coords": [
                         19.095935,
                         17.918578
-                  ]
-            },
-            {
-                  "name": "Rond point Chifini",
-                  "text": "Chifini roundabout at a major intersection in Largeau.",
-                  "category": "historical",
-                  "coords": [
-                        19.107216,
-                        17.932889
                   ]
             }
       ]

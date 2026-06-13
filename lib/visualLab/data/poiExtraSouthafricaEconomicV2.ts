@@ -159,15 +159,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     id: "port-of-richards-bay-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Richards Bay",
-                  "text": "Diese ausgedehnte Küstenbucht liegt an einer tiefen natürlichen Lagune und wird stark als einer der wichtigsten Industriehäfen des Landes genutzt.",
-                  "category": "landmark",
-                  "coords": [
-                        32.058333,
-                        -28.801111
-                  ]
-            },
-            {
                   "name": "Richards Bay Game Reserve",
                   "text": "Dieses Naturschutzgebiet umfasst Küstendünen und Mündungsökosysteme und schützt die dynamische Umgebung in der Nähe des Tiefwasserhafens.",
                   "category": "natural",
@@ -187,15 +178,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Richards Bay",
-                  "text": "A mély természetes lagúnán fekvő tágas tengerparti öböl az ország egyik elsődleges ipari kikötőjeként erősen kihasznált.",
-                  "category": "landmark",
-                  "coords": [
-                        32.058333,
-                        -28.801111
-                  ]
-            },
             {
                   "name": "Richards Bay Game Reserve",
                   "text": "A tengerparti dűnéket és torkolati ökoszisztémákat magában foglaló természetvédelmi terület a mélyvízi kikötő melletti dinamikus környezetet védi.",
@@ -217,15 +199,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Richards Bay",
-                  "text": "Situat pe o lagună naturală adâncă, acest golf extins de coastă este intens utilizat ca unul dintre principalele porturi industriale ale țării.",
-                  "category": "landmark",
-                  "coords": [
-                        32.058333,
-                        -28.801111
-                  ]
-            },
-            {
                   "name": "Richards Bay Game Reserve",
                   "text": "Cuprinzând dune de coastă și ecosisteme estuare, această rezervație naturală protejează mediul dinamic adiacent portului de ape adânci.",
                   "category": "natural",
@@ -245,15 +218,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Richards Bay",
-                  "text": "Situated on a deep natural lagoon, this expansive coastal bay is heavily utilized as one of the country's primary industrial ports.",
-                  "category": "landmark",
-                  "coords": [
-                        32.058333,
-                        -28.801111
-                  ]
-            },
             {
                   "name": "Richards Bay Game Reserve",
                   "text": "Encompassing coastal dunes and estuarine ecosystems, this nature reserve protects the dynamic environment adjacent to the deep-water port.",
@@ -1752,24 +1716,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kimmerling Plaque",
-                  "text": "Die Kimmerling Plaque ist ein historisches Denkmal, das an frühe Pioniere der südafrikanischen Luftfahrtgeschichte erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        27.926066,
-                        -32.995026
-                  ]
-            },
-            {
-                  "name": "Gately House Museum",
-                  "text": "Das Gately House Museum ist ein historisches Haus, das authentische Möbel und den Lebensstil der viktorianischen Ära zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        27.901398,
-                        -33.018898
-                  ]
-            },
-            {
                   "name": "Bat's Cave",
                   "text": "Bat's Cave ist eine natürliche Meereshöhle an der Küste, deren Eingang bei Ebbe zu Fuß erreichbar ist.",
                   "category": "natural",
@@ -1785,15 +1731,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                   "coords": [
                         27.960521,
                         -32.964236
-                  ]
-            },
-            {
-                  "name": "KuGompo City Hall",
-                  "text": "Die KuGompo City Hall ist das städtische Rathaus, das als Zentrum für lokale Verwaltung und öffentliche Veranstaltungen dient.",
-                  "category": "historical",
-                  "coords": [
-                        27.904442,
-                        -33.014641
                   ]
             },
             {
@@ -1831,33 +1768,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                         27.897575,
                         -32.995548
                   ]
-            },
-            {
-                  "name": "The Arts Theatre",
-                  "text": "The Arts Theatre ist ein intimes lokales Theater, das sich intimen Gemeinschaftsaufführungen und darstellenden Künsten widmet.",
-                  "category": "cultural",
-                  "coords": [
-                        27.903166,
-                        -33.008253
-                  ]
-            },
-            {
-                  "name": "Miriam Makeba Centre for the Performing Arts",
-                  "text": "Das Miriam Makeba Centre for the Performing Arts ist ein Kulturzentrum, das zu Ehren der berühmten südafrikanischen Sängerin benannt wurde.",
-                  "category": "cultural",
-                  "coords": [
-                        27.904038,
-                        -33.021618
-                  ]
-            },
-            {
-                  "name": "East London Aquarium",
-                  "text": "Das East London Aquarium an der Küste präsentiert regionales Meeresleben und ist bekannt für seine Pinguinkolonie.",
-                  "category": "recreational",
-                  "coords": [
-                        27.920917,
-                        -33.016807
-                  ]
             }
       ],
       "hu": [
@@ -1868,24 +1778,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                   "coords": [
                         27.949061,
                         -32.995865
-                  ]
-            },
-            {
-                  "name": "Kimmerling Plaque",
-                  "text": "A Kimmerling Plaque egy történelmi emlékmű, amely a dél-afrikai repüléstörténet korai úttörőinek állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        27.926066,
-                        -32.995026
-                  ]
-            },
-            {
-                  "name": "Gately House Museum",
-                  "text": "A Gately House Museum egy történelmi ház, amely autentikus bútorokat és a viktoriánus kor életmódját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        27.901398,
-                        -33.018898
                   ]
             },
             {
@@ -1904,15 +1796,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                   "coords": [
                         27.960521,
                         -32.964236
-                  ]
-            },
-            {
-                  "name": "KuGompo City Hall",
-                  "text": "A KuGompo City Hall a helyi közigazgatás és a nyilvános rendezvények központjaként szolgáló városháza.",
-                  "category": "historical",
-                  "coords": [
-                        27.904442,
-                        -33.014641
                   ]
             },
             {
@@ -1950,33 +1833,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                         27.897575,
                         -32.995548
                   ]
-            },
-            {
-                  "name": "The Arts Theatre",
-                  "text": "A The Arts Theatre egy meghitt helyi színház, amely közösségi előadásoknak és az előadó-művészetnek szenteli magát.",
-                  "category": "cultural",
-                  "coords": [
-                        27.903166,
-                        -33.008253
-                  ]
-            },
-            {
-                  "name": "Miriam Makeba Centre for the Performing Arts",
-                  "text": "A Miriam Makeba Centre for the Performing Arts egy kulturális központ, amelyet a híres dél-afrikai énekesnőről neveztek el.",
-                  "category": "cultural",
-                  "coords": [
-                        27.904038,
-                        -33.021618
-                  ]
-            },
-            {
-                  "name": "East London Aquarium",
-                  "text": "A tengerparti East London Aquarium a helyi tengeri élővilágot mutatja be, és híres pingvinkolóniájáról.",
-                  "category": "recreational",
-                  "coords": [
-                        27.920917,
-                        -33.016807
-                  ]
             }
       ],
       "ro": [
@@ -1987,24 +1843,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                   "coords": [
                         27.949061,
                         -32.995865
-                  ]
-            },
-            {
-                  "name": "Kimmerling Plaque",
-                  "text": "Placa Kimmerling este un monument istoric care comemorează pionierii timpurii ai aviației sud-africane.",
-                  "category": "historical",
-                  "coords": [
-                        27.926066,
-                        -32.995026
-                  ]
-            },
-            {
-                  "name": "Gately House Museum",
-                  "text": "Muzeul Gately House este o casă istorică ce expune mobilier autentic și stilul de viață din epoca victoriană.",
-                  "category": "museum",
-                  "coords": [
-                        27.901398,
-                        -33.018898
                   ]
             },
             {
@@ -2023,15 +1861,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                   "coords": [
                         27.960521,
                         -32.964236
-                  ]
-            },
-            {
-                  "name": "KuGompo City Hall",
-                  "text": "Primăria KuGompo este centrul administrației locale și locul de desfășurare a evenimentelor publice din oraș.",
-                  "category": "historical",
-                  "coords": [
-                        27.904442,
-                        -33.014641
                   ]
             },
             {
@@ -2069,33 +1898,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                         27.897575,
                         -32.995548
                   ]
-            },
-            {
-                  "name": "The Arts Theatre",
-                  "text": "The Arts Theatre este un teatru local intim dedicat spectacolelor comunitare și artelor spectacolului.",
-                  "category": "cultural",
-                  "coords": [
-                        27.903166,
-                        -33.008253
-                  ]
-            },
-            {
-                  "name": "Miriam Makeba Centre for the Performing Arts",
-                  "text": "Miriam Makeba Centre for the Performing Arts este un centru cultural numit în onoarea renumitei cântărețe sud-africane.",
-                  "category": "cultural",
-                  "coords": [
-                        27.904038,
-                        -33.021618
-                  ]
-            },
-            {
-                  "name": "East London Aquarium",
-                  "text": "Acvariul de coastă East London prezintă viața marină regională și este cunoscut pentru colonia sa de pinguini.",
-                  "category": "recreational",
-                  "coords": [
-                        27.920917,
-                        -33.016807
-                  ]
             }
       ],
       "en": [
@@ -2106,24 +1908,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                   "coords": [
                         27.949061,
                         -32.995865
-                  ]
-            },
-            {
-                  "name": "Kimmerling Plaque",
-                  "text": "The Kimmerling Plaque is a historical monument commemorating early pioneers of South African aviation history.",
-                  "category": "historical",
-                  "coords": [
-                        27.926066,
-                        -32.995026
-                  ]
-            },
-            {
-                  "name": "Gately House Museum",
-                  "text": "The Gately House Museum is a historic house museum showcasing authentic furniture and the Victorian-era lifestyle.",
-                  "category": "museum",
-                  "coords": [
-                        27.901398,
-                        -33.018898
                   ]
             },
             {
@@ -2142,15 +1926,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                   "coords": [
                         27.960521,
                         -32.964236
-                  ]
-            },
-            {
-                  "name": "KuGompo City Hall",
-                  "text": "The KuGompo City Hall is the municipal town hall serving as the center for local administration and public events.",
-                  "category": "historical",
-                  "coords": [
-                        27.904442,
-                        -33.014641
                   ]
             },
             {
@@ -2187,33 +1962,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                   "coords": [
                         27.897575,
                         -32.995548
-                  ]
-            },
-            {
-                  "name": "The Arts Theatre",
-                  "text": "The Arts Theatre is an intimate local venue dedicated to community stage performances and performing arts.",
-                  "category": "cultural",
-                  "coords": [
-                        27.903166,
-                        -33.008253
-                  ]
-            },
-            {
-                  "name": "Miriam Makeba Centre for the Performing Arts",
-                  "text": "The Miriam Makeba Centre for the Performing Arts is a cultural center named in honor of the renowned South African singer.",
-                  "category": "cultural",
-                  "coords": [
-                        27.904038,
-                        -33.021618
-                  ]
-            },
-            {
-                  "name": "East London Aquarium",
-                  "text": "The coastal East London Aquarium exhibits regional marine life and is known for its resident penguin colony.",
-                  "category": "recreational",
-                  "coords": [
-                        27.920917,
-                        -33.016807
                   ]
             }
       ]
@@ -2634,15 +2382,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     id: "palabora-copper-mine-economic-v2", "sights": {
       "de": [
             {
-                  "name": "House",
-                  "text": "Diese historische Wohnattraktion bietet einen Einblick in den Lebensstil der frühen Bergbausiedlung nahe der Palabora-Kupfermine.",
-                  "category": "landmark",
-                  "coords": [
-                        31.132856,
-                        -23.942795
-                  ]
-            },
-            {
                   "name": "Cleveland Nature Reserve",
                   "text": "Dieses lokale Naturschutzgebiet schützt die natürliche Buschveld-Umgebung, die den ausgedehnten Palabora-Bergbaukomplex umgibt.",
                   "category": "natural",
@@ -2653,15 +2392,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "House",
-                  "text": "Ez a történelmi lakóház egy bepillantást enged a korai bányászati ​​települések életmódjába a Palabora rézbánya közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        31.132856,
-                        -23.942795
-                  ]
-            },
             {
                   "name": "Cleveland Nature Reserve",
                   "text": "Ez a helyi természetvédelmi terület megvédi a hatalmas Palabora bányakomplexumot körülvevő természetes bushveld környezetet.",
@@ -2674,15 +2404,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "House",
-                  "text": "Această atracție rezidențială istorică oferă o perspectivă asupra stilului de viață al așezărilor miniere timpurii din apropierea minei de cupru Palabora.",
-                  "category": "landmark",
-                  "coords": [
-                        31.132856,
-                        -23.942795
-                  ]
-            },
-            {
                   "name": "Cleveland Nature Reserve",
                   "text": "Această rezervație naturală locală protejează mediul natural de tufișuri care înconjoară complexul minier extins Palabora.",
                   "category": "natural",
@@ -2693,15 +2414,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "House",
-                  "text": "This historic residential attraction provides a glimpse into the early mining settlement lifestyle near the Palabora copper mine.",
-                  "category": "landmark",
-                  "coords": [
-                        31.132856,
-                        -23.942795
-                  ]
-            },
             {
                   "name": "Cleveland Nature Reserve",
                   "text": "This local nature reserve protects the natural bushveld environment surrounding the extensive Palabora mining complex.",
@@ -3336,30 +3048,12 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Uitenhage Old Railway Station Museum",
-                  "text": "Das Uitenhage Old Railway Station Museum ist ein historischer Bahnhof, der historische Lokomotiven und das Eisenbahnerbe der Region bewahrt.",
-                  "category": "museum",
-                  "coords": [
-                        25.398991,
-                        -33.770303
-                  ]
-            },
-            {
                   "name": "Heritage chimney",
                   "text": "Der Heritage Chimney ist ein erhaltener industrieller Schornstein, der als Denkmal für die Fertigungsgeschichte der Gegend steht.",
                   "category": "historical",
                   "coords": [
                         25.48413,
                         -33.804605
-                  ]
-            },
-            {
-                  "name": "Barkley Theatre",
-                  "text": "Das Barkley Theatre ist eine historische Kultureinrichtung, die Aufführungen für die lokale Gemeinde präsentiert.",
-                  "category": "cultural",
-                  "coords": [
-                        25.401286,
-                        -33.759223
                   ]
             },
             {
@@ -3392,30 +3086,12 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Uitenhage Old Railway Station Museum",
-                  "text": "A Uitenhage Old Railway Station Museum egy történelmi vasútállomás, amely a régió vasúti örökségét és történelmi mozdonyait őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        25.398991,
-                        -33.770303
-                  ]
-            },
-            {
                   "name": "Heritage chimney",
                   "text": "A Heritage Chimney egy fennmaradt ipari kémény, amely a környék gyártási múltjának emlékműveként áll.",
                   "category": "historical",
                   "coords": [
                         25.48413,
                         -33.804605
-                  ]
-            },
-            {
-                  "name": "Barkley Theatre",
-                  "text": "A Barkley Theatre egy történelmi kulturális intézmény, amely a helyi közösség számára kínál előadásokat.",
-                  "category": "cultural",
-                  "coords": [
-                        25.401286,
-                        -33.759223
                   ]
             },
             {
@@ -3448,30 +3124,12 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Uitenhage Old Railway Station Museum",
-                  "text": "Muzeul Uitenhage Old Railway Station este o gară istorică ce conservă locomotive de epocă și patrimoniul feroviar al regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        25.398991,
-                        -33.770303
-                  ]
-            },
-            {
                   "name": "Heritage chimney",
                   "text": "Heritage Chimney este un coș de fum industrial conservat, servind ca monument al trecutului manufacturier al zonei.",
                   "category": "historical",
                   "coords": [
                         25.48413,
                         -33.804605
-                  ]
-            },
-            {
-                  "name": "Barkley Theatre",
-                  "text": "Barkley Theatre este un centru cultural istoric ce prezintă spectacole pentru comunitatea locală.",
-                  "category": "cultural",
-                  "coords": [
-                        25.401286,
-                        -33.759223
                   ]
             },
             {
@@ -3504,30 +3162,12 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Uitenhage Old Railway Station Museum",
-                  "text": "The Uitenhage Old Railway Station Museum is a historic station building preserving vintage locomotives and the region's railway heritage.",
-                  "category": "museum",
-                  "coords": [
-                        25.398991,
-                        -33.770303
-                  ]
-            },
-            {
                   "name": "Heritage chimney",
                   "text": "The Heritage chimney is a preserved industrial smokestack standing as a monument to the area's manufacturing past.",
                   "category": "historical",
                   "coords": [
                         25.48413,
                         -33.804605
-                  ]
-            },
-            {
-                  "name": "Barkley Theatre",
-                  "text": "The Barkley Theatre is a historic cultural venue presenting performances for the local community.",
-                  "category": "cultural",
-                  "coords": [
-                        25.401286,
-                        -33.759223
                   ]
             },
             {
@@ -4569,15 +4209,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dutch Reformed Church",
-                  "text": "Die historische Niederländisch-reformierte Kirche in Rustenburg ist bekannt als die Gemeinde, die der ehemalige südafrikanische Präsident Paul Kruger regelmäßig besuchte.",
-                  "category": "religious",
-                  "coords": [
-                        27.245577,
-                        -25.671703
-                  ]
-            },
-            {
                   "name": "Lily Park",
                   "text": "Der Wasserpark Lily Park bietet eine erfrischende Freizeitoase mit Planschbecken und familienfreundlichen Wasserrutschen im Freien.",
                   "category": "recreational",
@@ -4604,15 +4235,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                   "coords": [
                         27.230106,
                         -25.705175
-                  ]
-            },
-            {
-                  "name": "Dutch Reformed Church",
-                  "text": "A történelmi rustenburgi holland református templom arról híres, hogy egykor Paul Kruger, a korábbi dél-afrikai elnök is rendszeresen látogatta az istentiszteleteit.",
-                  "category": "religious",
-                  "coords": [
-                        27.245577,
-                        -25.671703
                   ]
             },
             {
@@ -4645,15 +4267,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dutch Reformed Church",
-                  "text": "Biserica istorică Reformată Olandeză din Rustenburg este renumită pentru faptul că a fost congregația la care participa regulat fostul președinte sud-african Paul Kruger.",
-                  "category": "religious",
-                  "coords": [
-                        27.245577,
-                        -25.671703
-                  ]
-            },
-            {
                   "name": "Lily Park",
                   "text": "Lily Park oferă o evadare recreativă răcoritoare, cu piscine în aer liber și tobogane de apă pentru întreaga familie.",
                   "category": "recreational",
@@ -4680,15 +4293,6 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
                   "coords": [
                         27.230106,
                         -25.705175
-                  ]
-            },
-            {
-                  "name": "Dutch Reformed Church",
-                  "text": "The historic Dutch Reformed Church in Rustenburg is famous for being the congregation where Paul Kruger, the former South African president, regularly attended services.",
-                  "category": "religious",
-                  "coords": [
-                        27.245577,
-                        -25.671703
                   ]
             },
             {

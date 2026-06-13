@@ -222,15 +222,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Markermeer",
-                  "text": "Markermeer, ein großer Süßwassersee, der an Almere grenzt und Teil des IJsselmeer-Systems ist.",
-                  "category": "natural",
-                  "coords": [
-                        5.241534,
-                        52.546044
-                  ]
-            },
-            {
                   "name": "Weerwater",
                   "text": "Weerwater, ein künstlicher See im Zentrum von Almere, der für Freizeitaktivitäten genutzt wird.",
                   "category": "natural",
@@ -246,15 +237,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.226447,
                         52.316508
-                  ]
-            },
-            {
-                  "name": "IJmeer",
-                  "text": "IJmeer, ein See zwischen Almere und Amsterdam, Teil des Markermeers.",
-                  "category": "natural",
-                  "coords": [
-                        5.05984,
-                        52.379786
                   ]
             },
             {
@@ -566,15 +548,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Markermeer",
-                  "text": "Markermeer, egy nagy édesvizű tó, amely Almere határában található, az IJsselmeer rendszer része.",
-                  "category": "natural",
-                  "coords": [
-                        5.241534,
-                        52.546044
-                  ]
-            },
-            {
                   "name": "Weerwater",
                   "text": "Weerwater, egy mesterséges tó Almere központjában, szabadidős tevékenységekre használják.",
                   "category": "natural",
@@ -590,15 +563,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.226447,
                         52.316508
-                  ]
-            },
-            {
-                  "name": "IJmeer",
-                  "text": "IJmeer, egy tó Almere és Amszterdam között, a Markermeer része.",
-                  "category": "natural",
-                  "coords": [
-                        5.05984,
-                        52.379786
                   ]
             },
             {
@@ -910,15 +874,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Markermeer",
-                  "text": "Markermeer, un lac mare de apă dulce care mărginește Almere, parte a sistemului IJsselmeer.",
-                  "category": "natural",
-                  "coords": [
-                        5.241534,
-                        52.546044
-                  ]
-            },
-            {
                   "name": "Weerwater",
                   "text": "Weerwater, un lac artificial în centrul orașului Almere, folosit pentru activități recreative.",
                   "category": "natural",
@@ -934,15 +889,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.226447,
                         52.316508
-                  ]
-            },
-            {
-                  "name": "IJmeer",
-                  "text": "IJmeer, un lac între Almere și Amsterdam, parte a Markermeer.",
-                  "category": "natural",
-                  "coords": [
-                        5.05984,
-                        52.379786
                   ]
             },
             {
@@ -1254,15 +1200,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Markermeer",
-                  "text": "Markermeer, a large freshwater lake bordering Almere, part of the IJsselmeer system.",
-                  "category": "natural",
-                  "coords": [
-                        5.241534,
-                        52.546044
-                  ]
-            },
-            {
                   "name": "Weerwater",
                   "text": "Weerwater, an artificial lake in central Almere, used for recreation.",
                   "category": "natural",
@@ -1278,15 +1215,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.226447,
                         52.316508
-                  ]
-            },
-            {
-                  "name": "IJmeer",
-                  "text": "IJmeer, a lake between Almere and Amsterdam, part of the Markermeer.",
-                  "category": "natural",
-                  "coords": [
-                        5.05984,
-                        52.379786
                   ]
             },
             {
@@ -5244,15 +5172,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kuifeend",
-                  "text": "Ein künstlicher See mit Vogelbeobachtungshütten, beliebt zum Vogelbeobachten in Zaanstad.",
-                  "category": "recreational",
-                  "coords": [
-                        4.838526,
-                        52.464245
-                  ]
-            },
-            {
                   "name": "MonetAtelier",
                   "text": "Das MonetAtelier in Zaanstad ist dem Wirken von Claude Monet in der Region gewidmet.",
                   "category": "museum",
@@ -5277,42 +5196,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.819093,
                         52.422412
-                  ]
-            },
-            {
-                  "name": "Aalscholverstrand",
-                  "text": "Ein Sandstrand an einem See, benannt nach dem Kormoran, zum Sonnenbaden und Schwimmen in Zaanstad.",
-                  "category": "recreational",
-                  "coords": [
-                        4.833724,
-                        52.461356
-                  ]
-            },
-            {
-                  "name": "Watersnip",
-                  "text": "Ein Feuchtgebiet-Naturschutzgebiet mit Schilf und Wanderwegen in Zaanstad.",
-                  "category": "recreational",
-                  "coords": [
-                        4.833849,
-                        52.463461
-                  ]
-            },
-            {
-                  "name": "Fuut",
-                  "text": "Ein See mit schwimmenden Nestern für Haubentaucher, ideal zum Vogelbeobachten in Zaanstad.",
-                  "category": "recreational",
-                  "coords": [
-                        4.83126,
-                        52.462705
-                  ]
-            },
-            {
-                  "name": "Smient",
-                  "text": "Eine Graswiese mit Gräben, ein Rastplatz für Pfeifenten in Zaanstad.",
-                  "category": "recreational",
-                  "coords": [
-                        4.831596,
-                        52.461558
                   ]
             },
             {
@@ -5579,15 +5462,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kuifeend",
-                  "text": "Mesterséges tó madármegfigyelő kunyhókkal, népszerű madármegfigyelésre Zaanstadban.",
-                  "category": "recreational",
-                  "coords": [
-                        4.838526,
-                        52.464245
-                  ]
-            },
-            {
                   "name": "MonetAtelier",
                   "text": "A zaanstadi MonetAtelier Claude Monet régióbeli munkásságának van szentelve.",
                   "category": "museum",
@@ -5612,42 +5486,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.819093,
                         52.422412
-                  ]
-            },
-            {
-                  "name": "Aalscholverstrand",
-                  "text": "Homokos strand egy tavon, a kormoránról elnevezve, napozásra és úszásra Zaanstadban.",
-                  "category": "recreational",
-                  "coords": [
-                        4.833724,
-                        52.461356
-                  ]
-            },
-            {
-                  "name": "Watersnip",
-                  "text": "Nedves területű természetvédelmi terület nádassal és sétányokkal Zaanstadban.",
-                  "category": "recreational",
-                  "coords": [
-                        4.833849,
-                        52.463461
-                  ]
-            },
-            {
-                  "name": "Fuut",
-                  "text": "Tó úszó fészkekkel a búbos vöcskök számára, ideális madármegfigyelésre Zaanstadban.",
-                  "category": "recreational",
-                  "coords": [
-                        4.83126,
-                        52.462705
-                  ]
-            },
-            {
-                  "name": "Smient",
-                  "text": "Füves rét csatornákkal, a nyílfarkú récék pihenőhelye Zaanstadban.",
-                  "category": "recreational",
-                  "coords": [
-                        4.831596,
-                        52.461558
                   ]
             },
             {
@@ -5914,15 +5752,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kuifeend",
-                  "text": "Un lac artificial cu colibe de observație a păsărilor, popular pentru observarea păsărilor în Zaanstad.",
-                  "category": "recreational",
-                  "coords": [
-                        4.838526,
-                        52.464245
-                  ]
-            },
-            {
                   "name": "MonetAtelier",
                   "text": "MonetAtelier din Zaanstad este dedicat activității lui Claude Monet în regiune.",
                   "category": "museum",
@@ -5947,42 +5776,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.819093,
                         52.422412
-                  ]
-            },
-            {
-                  "name": "Aalscholverstrand",
-                  "text": "O plajă nisipoasă pe un lac, numită după cormoran, pentru plajă și înot în Zaanstad.",
-                  "category": "recreational",
-                  "coords": [
-                        4.833724,
-                        52.461356
-                  ]
-            },
-            {
-                  "name": "Watersnip",
-                  "text": "O rezervație naturală umedă cu stuf și trasee de plimbare în Zaanstad.",
-                  "category": "recreational",
-                  "coords": [
-                        4.833849,
-                        52.463461
-                  ]
-            },
-            {
-                  "name": "Fuut",
-                  "text": "Un lac cu cuiburi plutitoare pentru lișițe, ideal pentru observarea păsărilor în Zaanstad.",
-                  "category": "recreational",
-                  "coords": [
-                        4.83126,
-                        52.462705
-                  ]
-            },
-            {
-                  "name": "Smient",
-                  "text": "O pajiște cu șanțuri, o zonă de odihnă pentru rațele fluierătoare în Zaanstad.",
-                  "category": "recreational",
-                  "coords": [
-                        4.831596,
-                        52.461558
                   ]
             },
             {
@@ -6249,15 +6042,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kuifeend",
-                  "text": "An artificial lake with bird observation huts, popular for birdwatching in Zaanstad.",
-                  "category": "recreational",
-                  "coords": [
-                        4.838526,
-                        52.464245
-                  ]
-            },
-            {
                   "name": "MonetAtelier",
                   "text": "The MonetAtelier in Zaanstad is dedicated to Claude Monet's work in the region.",
                   "category": "museum",
@@ -6282,42 +6066,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.819093,
                         52.422412
-                  ]
-            },
-            {
-                  "name": "Aalscholverstrand",
-                  "text": "A sandy beach on a lake, named after the cormorant, for sunbathing and swimming in Zaanstad.",
-                  "category": "recreational",
-                  "coords": [
-                        4.833724,
-                        52.461356
-                  ]
-            },
-            {
-                  "name": "Watersnip",
-                  "text": "A wetland nature reserve with reed beds and walking trails in Zaanstad.",
-                  "category": "recreational",
-                  "coords": [
-                        4.833849,
-                        52.463461
-                  ]
-            },
-            {
-                  "name": "Fuut",
-                  "text": "A lake with floating nests for grebes, ideal for birdwatching in Zaanstad.",
-                  "category": "recreational",
-                  "coords": [
-                        4.83126,
-                        52.462705
-                  ]
-            },
-            {
-                  "name": "Smient",
-                  "text": "A grassland meadow with ditches, a resting area for wigeons in Zaanstad.",
-                  "category": "recreational",
-                  "coords": [
-                        4.831596,
-                        52.461558
                   ]
             },
             {
@@ -6648,39 +6396,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Meerwijkplas",
-                  "text": "Ein künstlicher See zum Schwimmen und Segeln in Hoofddorp.",
-                  "category": "natural",
-                  "coords": [
-                        4.664268,
-                        52.349201
-                  ]
-            },
-            {
-                  "name": "Molenplas",
-                  "text": "Der Molenplas in Hoofddorp bietet eine malerische Kulisse am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        4.655242,
-                        52.34506
-                  ]
-            },
-            {
                   "name": "Koddespoel",
                   "text": "Der Koddespoel in Hoofddorp ist ein ruhiges Gewässer inmitten der Natur.",
                   "category": "natural",
                   "coords": [
                         4.72347,
                         52.252849
-                  ]
-            },
-            {
-                  "name": "Verdonken plas",
-                  "text": "Ein versunkener See, entstanden durch Torfabbau, heute ein Naturschutzgebiet in Hoofddorp.",
-                  "category": "natural",
-                  "coords": [
-                        4.669293,
-                        52.374134
                   ]
             },
             {
@@ -6920,39 +6641,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Meerwijkplas",
-                  "text": "Mesterséges tó úszásra és vitorlázásra Hoofddorpban.",
-                  "category": "natural",
-                  "coords": [
-                        4.664268,
-                        52.349201
-                  ]
-            },
-            {
-                  "name": "Molenplas",
-                  "text": "A hoofddorpi Molenplas festői környezetet kínál a vízparton.",
-                  "category": "natural",
-                  "coords": [
-                        4.655242,
-                        52.34506
-                  ]
-            },
-            {
                   "name": "Koddespoel",
                   "text": "A hoofddorpi Koddespoel egy nyugodt vízfelület a természet lágyán.",
                   "category": "natural",
                   "coords": [
                         4.72347,
                         52.252849
-                  ]
-            },
-            {
-                  "name": "Verdonken plas",
-                  "text": "Egy elsüllyedt tó, amely tőzegkitermelés során keletkezett, ma természetvédelmi terület Hoofddorpban.",
-                  "category": "natural",
-                  "coords": [
-                        4.669293,
-                        52.374134
                   ]
             },
             {
@@ -7192,39 +6886,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Meerwijkplas",
-                  "text": "Un lac artificial pentru înot și navigație în Hoofddorp.",
-                  "category": "natural",
-                  "coords": [
-                        4.664268,
-                        52.349201
-                  ]
-            },
-            {
-                  "name": "Molenplas",
-                  "text": "Molenplas din Hoofddorp oferă un cadru pitoresc pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        4.655242,
-                        52.34506
-                  ]
-            },
-            {
                   "name": "Koddespoel",
                   "text": "Koddespoel din Hoofddorp este o apă liniștită în mijlocul naturii.",
                   "category": "natural",
                   "coords": [
                         4.72347,
                         52.252849
-                  ]
-            },
-            {
-                  "name": "Verdonken plas",
-                  "text": "Un lac scufundat, format prin excavarea turbei, acum o rezervație naturală în Hoofddorp.",
-                  "category": "natural",
-                  "coords": [
-                        4.669293,
-                        52.374134
                   ]
             },
             {
@@ -7464,39 +7131,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Meerwijkplas",
-                  "text": "A man-made lake for swimming and sailing in Hoofddorp.",
-                  "category": "natural",
-                  "coords": [
-                        4.664268,
-                        52.349201
-                  ]
-            },
-            {
-                  "name": "Molenplas",
-                  "text": "Molenplas in Hoofddorp offers a scenic setting by the water.",
-                  "category": "natural",
-                  "coords": [
-                        4.655242,
-                        52.34506
-                  ]
-            },
-            {
                   "name": "Koddespoel",
                   "text": "Koddespoel in Hoofddorp is a peaceful body of water surrounded by nature.",
                   "category": "natural",
                   "coords": [
                         4.72347,
                         52.252849
-                  ]
-            },
-            {
-                  "name": "Verdonken plas",
-                  "text": "A sunken lake formed by peat digging, now a nature reserve in Hoofddorp.",
-                  "category": "natural",
-                  "coords": [
-                        4.669293,
-                        52.374134
                   ]
             },
             {
@@ -14924,24 +14564,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Markermeer",
-                  "text": "Das Markermeer bei Purmerend ist ein bedeutendes Binnengewässer mit weiter Sicht.",
-                  "category": "natural",
-                  "coords": [
-                        5.241534,
-                        52.546044
-                  ]
-            },
-            {
-                  "name": "Gouwzee",
-                  "text": "Das Gouwzee bei Purmerend ist ein ruhiges Wassergebiet, ideal zum Entspannen.",
-                  "category": "natural",
-                  "coords": [
-                        5.067879,
-                        52.469121
-                  ]
-            },
-            {
                   "name": "Go!Gaming",
                   "text": "Go!Gaming in Purmerend bietet spannende Videospiel-Erlebnisse für die ganze Familie.",
                   "category": "family",
@@ -15067,24 +14689,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.946182,
                         52.499232
-                  ]
-            },
-            {
-                  "name": "Markermeer",
-                  "text": "A Purmerend melletti Markermeer egy jelentős beltenger tágas kilátással.",
-                  "category": "natural",
-                  "coords": [
-                        5.241534,
-                        52.546044
-                  ]
-            },
-            {
-                  "name": "Gouwzee",
-                  "text": "A Purmerend melletti Gouwzee egy nyugodt vízfelület, ideális a kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        5.067879,
-                        52.469121
                   ]
             },
             {
@@ -15216,24 +14820,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Markermeer",
-                  "text": "Markermeer de lângă Purmerend este o întindere de apă importantă, cu vederi largi.",
-                  "category": "natural",
-                  "coords": [
-                        5.241534,
-                        52.546044
-                  ]
-            },
-            {
-                  "name": "Gouwzee",
-                  "text": "Gouwzee de lângă Purmerend este o zonă cu apă liniștită, ideală pentru relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        5.067879,
-                        52.469121
-                  ]
-            },
-            {
                   "name": "Go!Gaming",
                   "text": "Go!Gaming din Purmerend oferă experiențe captivante de jocuri video pentru întreaga familie.",
                   "category": "family",
@@ -15359,24 +14945,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.946182,
                         52.499232
-                  ]
-            },
-            {
-                  "name": "Markermeer",
-                  "text": "Markermeer near Purmerend is a significant inland sea with wide views.",
-                  "category": "natural",
-                  "coords": [
-                        5.241534,
-                        52.546044
-                  ]
-            },
-            {
-                  "name": "Gouwzee",
-                  "text": "Gouwzee near Purmerend is a calm water area, ideal for relaxing.",
-                  "category": "natural",
-                  "coords": [
-                        5.067879,
-                        52.469121
                   ]
             },
             {
@@ -16202,15 +15770,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mevlana moskee",
-                  "text": "Eine große Moschee und ein Gemeindezentrum für die lokale muslimische Bevölkerung.",
-                  "category": "religious",
-                  "coords": [
-                        4.441664,
-                        51.921245
-                  ]
-            },
-            {
                   "name": "Nederlandse Protestanten Bond",
                   "text": "Ein historisches Hallenkirchengebäude der protestantischen Gemeinde.",
                   "category": "religious",
@@ -16415,15 +15974,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.403647,
                         51.911282
-                  ]
-            },
-            {
-                  "name": "Diergaarde Blijdorp",
-                  "text": "Ein großer und beliebter Zoo mit vielfältigen Tierarten und botanischen Gärten.",
-                  "category": "family",
-                  "coords": [
-                        4.447495,
-                        51.926703
                   ]
             },
             {
@@ -16632,15 +16182,6 @@ export const netherlandsCitiesV2: POI[] = [
                         4.428174,
                         51.915616
                   ]
-            },
-            {
-                  "name": "Dierenweide Het Hof",
-                  "text": "Dierenweide Het Hof ist ein kleines Tiergehege und Streichelzoo in Schiedam.",
-                  "category": "recreational",
-                  "coords": [
-                        4.346616,
-                        51.910992
-                  ]
             }
       ],
       "hu": [
@@ -16723,15 +16264,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.404976,
                         51.917875
-                  ]
-            },
-            {
-                  "name": "Mevlana moskee",
-                  "text": "Nagy mecset és közösségi központ a helyi muszlim lakosság számára.",
-                  "category": "religious",
-                  "coords": [
-                        4.441664,
-                        51.921245
                   ]
             },
             {
@@ -16942,15 +16474,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Diergaarde Blijdorp",
-                  "text": "Nagy és népszerű állatkert változatos állatfajokkal és botanikus kertekkel.",
-                  "category": "family",
-                  "coords": [
-                        4.447495,
-                        51.926703
-                  ]
-            },
-            {
                   "name": "Dorpskerk",
                   "text": "Hagyományos templomépület, amely istentiszteleti helyként szolgál.",
                   "category": "religious",
@@ -17156,15 +16679,6 @@ export const netherlandsCitiesV2: POI[] = [
                         4.428174,
                         51.915616
                   ]
-            },
-            {
-                  "name": "Dierenweide Het Hof",
-                  "text": "A Dierenweide Het Hof egy kis állatkifutó és állatsimogató Schiedamban.",
-                  "category": "recreational",
-                  "coords": [
-                        4.346616,
-                        51.910992
-                  ]
             }
       ],
       "ro": [
@@ -17247,15 +16761,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.404976,
                         51.917875
-                  ]
-            },
-            {
-                  "name": "Mevlana moskee",
-                  "text": "O moschee mare și un centru comunitar pentru populația musulmană locală.",
-                  "category": "religious",
-                  "coords": [
-                        4.441664,
-                        51.921245
                   ]
             },
             {
@@ -17466,15 +16971,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Diergaarde Blijdorp",
-                  "text": "O grădină zoologică mare și populară, cu diverse specii de animale și grădini botanice.",
-                  "category": "family",
-                  "coords": [
-                        4.447495,
-                        51.926703
-                  ]
-            },
-            {
                   "name": "Dorpskerk",
                   "text": "O clădire de biserică tradițională care servește ca lăcaș de cult.",
                   "category": "religious",
@@ -17680,15 +17176,6 @@ export const netherlandsCitiesV2: POI[] = [
                         4.428174,
                         51.915616
                   ]
-            },
-            {
-                  "name": "Dierenweide Het Hof",
-                  "text": "Dierenweide Het Hof este o mică incintă pentru animale și o grădină zoologică cu animale domestice din Schiedam.",
-                  "category": "recreational",
-                  "coords": [
-                        4.346616,
-                        51.910992
-                  ]
             }
       ],
       "en": [
@@ -17771,15 +17258,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.404976,
                         51.917875
-                  ]
-            },
-            {
-                  "name": "Mevlana moskee",
-                  "text": "A large mosque and community center for the local Muslim population.",
-                  "category": "religious",
-                  "coords": [
-                        4.441664,
-                        51.921245
                   ]
             },
             {
@@ -17990,15 +17468,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Rotterdam Zoo",
-                  "text": "A large and popular zoo featuring diverse animals and botanical gardens.",
-                  "category": "family",
-                  "coords": [
-                        4.447495,
-                        51.926703
-                  ]
-            },
-            {
                   "name": "Dorpskerk",
                   "text": "A traditional church building serving as a place of worship.",
                   "category": "religious",
@@ -18203,15 +17672,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.428174,
                         51.915616
-                  ]
-            },
-            {
-                  "name": "Dierenweide Het Hof",
-                  "text": "Dierenweide Het Hof is a small animal enclosure and petting zoo in Schiedam.",
-                  "category": "recreational",
-                  "coords": [
-                        4.346616,
-                        51.910992
                   ]
             }
       ]
@@ -18431,15 +17891,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bataviastrand",
-                  "text": "Ein Sandstrand am IJsselmeer mit einem Yachthafen und einem Strandcafé.",
-                  "category": "recreational",
-                  "coords": [
-                        5.424323,
-                        52.525525
-                  ]
-            },
-            {
                   "name": "kinderboerderij \"De Knotwilg\"",
                   "text": "Ein Kinderbauernhof, benannt nach den Kopfweiden, mit Ziegen, Schafen und einem Spielbereich.",
                   "category": "family",
@@ -18645,15 +18096,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.438692,
                         52.468517
-                  ]
-            },
-            {
-                  "name": "Bataviastrand",
-                  "text": "Egy homokos strand az IJsselmeer partján, kikötővel és strandbüfével.",
-                  "category": "recreational",
-                  "coords": [
-                        5.424323,
-                        52.525525
                   ]
             },
             {
@@ -18865,15 +18307,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bataviastrand",
-                  "text": "O plajă nisipoasă pe malul IJsselmeer, cu o marina și o cafenea pe plajă.",
-                  "category": "recreational",
-                  "coords": [
-                        5.424323,
-                        52.525525
-                  ]
-            },
-            {
                   "name": "kinderboerderij \"De Knotwilg\"",
                   "text": "O fermă pentru copii, numită după sălcii tăiate, cu capre, oi și o zonă de joacă.",
                   "category": "family",
@@ -19079,15 +18512,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.438692,
                         52.468517
-                  ]
-            },
-            {
-                  "name": "Bataviastrand",
-                  "text": "A sandy beach on the IJsselmeer, with a marina and a beachside café.",
-                  "category": "recreational",
-                  "coords": [
-                        5.424323,
-                        52.525525
                   ]
             },
             {
@@ -20762,24 +20186,6 @@ export const netherlandsCitiesV2: POI[] = [
     id: "netherlands-vlaardingen-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Zwembad Groenoord",
-                  "text": "Das Zwembad Groenoord in Vlaardingen bietet ein Außen- und Innenbecken im Stadtteil Groenoord.",
-                  "category": "family",
-                  "coords": [
-                        4.377788,
-                        51.928152
-                  ]
-            },
-            {
-                  "name": "Zwembad Zuid",
-                  "text": "Das Zwembad Zuid in Vlaardingen ist ein Freibad im südlichen Teil der Stadt.",
-                  "category": "family",
-                  "coords": [
-                        4.395532,
-                        51.905963
-                  ]
-            },
-            {
                   "name": "Kinderboerderij 't Hoefblad",
                   "text": "Der Kinderbauernhof 't Hoefblad in Vlaardingen hat Ziegen, Schafe und einen Spielplatz.",
                   "category": "family",
@@ -20808,24 +20214,6 @@ export const netherlandsCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Zwembad Groenoord",
-                  "text": "A vlaardingeni Zwembad Groenoord egy kültéri és beltéri medencével rendelkező uszoda a Groenoord negyedben.",
-                  "category": "family",
-                  "coords": [
-                        4.377788,
-                        51.928152
-                  ]
-            },
-            {
-                  "name": "Zwembad Zuid",
-                  "text": "A vlaardingeni Zwembad Zuid egy szabadtéri medence a város déli részén.",
-                  "category": "family",
-                  "coords": [
-                        4.395532,
-                        51.905963
-                  ]
-            },
             {
                   "name": "Kinderboerderij 't Hoefblad",
                   "text": "A vlaardingeni 't Hoefblad gyermekfarmon kecskék, birkák és játszótér található.",
@@ -20856,24 +20244,6 @@ export const netherlandsCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Zwembad Groenoord",
-                  "text": "Zwembad Groenoord din Vlaardingen are un bazin exterior și unul interior în cartierul Groenoord.",
-                  "category": "family",
-                  "coords": [
-                        4.377788,
-                        51.928152
-                  ]
-            },
-            {
-                  "name": "Zwembad Zuid",
-                  "text": "Zwembad Zuid din Vlaardingen este o piscină în aer liber în partea de sud a orașului.",
-                  "category": "family",
-                  "coords": [
-                        4.395532,
-                        51.905963
-                  ]
-            },
-            {
                   "name": "Kinderboerderij 't Hoefblad",
                   "text": "Ferma pentru copii 't Hoefblad din Vlaardingen are capre, oi și un loc de joacă.",
                   "category": "family",
@@ -20902,24 +20272,6 @@ export const netherlandsCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Zwembad Groenoord",
-                  "text": "Zwembad Groenoord in Vlaardingen has an outdoor and indoor pool in the Groenoord district.",
-                  "category": "family",
-                  "coords": [
-                        4.377788,
-                        51.928152
-                  ]
-            },
-            {
-                  "name": "Zwembad Zuid",
-                  "text": "Zwembad Zuid in Vlaardingen is an outdoor swimming pool in the south of the city.",
-                  "category": "family",
-                  "coords": [
-                        4.395532,
-                        51.905963
-                  ]
-            },
             {
                   "name": "Kinderboerderij 't Hoefblad",
                   "text": "Children's farm 't Hoefblad in Vlaardingen has goats, sheep, and a playground.",
@@ -23451,57 +22803,12 @@ export const netherlandsCitiesV2: POI[] = [
     id: "netherlands-capelle-aan-den-ijssel-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Meer der Stilte",
-                  "text": "Der Meer der Stilte in Capelle aan den IJssel ist ein friedvolles Gewässer zur Erholung.",
-                  "category": "natural",
-                  "coords": [
-                        4.628873,
-                        51.870761
-                  ]
-            },
-            {
                   "name": "Zevenhuizerplas",
                   "text": "Der Zevenhuizerplas bei Capelle aan den IJssel bietet eine schöne Kulisse für Spaziergänge.",
                   "category": "natural",
                   "coords": [
                         4.56847,
                         51.980928
-                  ]
-            },
-            {
-                  "name": "Kralingse Plas",
-                  "text": "Die Kralingse Plas bei Capelle aan den IJssel ist ein bekanntes Naherholungsgebiet am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        4.514601,
-                        51.934698
-                  ]
-            },
-            {
-                  "name": "Bergsche Achterplas",
-                  "text": "Die Bergsche Achterplas bietet eine ruhige Atmosphäre in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        4.483131,
-                        51.952089
-                  ]
-            },
-            {
-                  "name": "Bergsche Voorplas",
-                  "text": "Die Bergsche Voorplas in Capelle aan den IJssel ist ein Badesee mit Sandstrand und Surfspot.",
-                  "category": "natural",
-                  "coords": [
-                        4.496238,
-                        51.951458
-                  ]
-            },
-            {
-                  "name": "Rottemeren",
-                  "text": "Die Rottemeren bei Capelle aan den IJssel sind ein weitläufiges Seengebiet mit schöner Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        4.552797,
-                        52.01083
                   ]
             },
             {
@@ -23597,57 +22904,12 @@ export const netherlandsCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Meer der Stilte",
-                  "text": "A Capelle aan den IJssel-i Meer der Stilte egy békés tó a kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        4.628873,
-                        51.870761
-                  ]
-            },
-            {
                   "name": "Zevenhuizerplas",
                   "text": "A Capelle aan den IJssel melletti Zevenhuizerplas szép környezetet biztosít a sétákhoz.",
                   "category": "natural",
                   "coords": [
                         4.56847,
                         51.980928
-                  ]
-            },
-            {
-                  "name": "Kralingse Plas",
-                  "text": "A Capelle aan den IJssel melletti Kralingse Plas egy ismert vízparti üdülőhely.",
-                  "category": "natural",
-                  "coords": [
-                        4.514601,
-                        51.934698
-                  ]
-            },
-            {
-                  "name": "Bergsche Achterplas",
-                  "text": "A Bergsche Achterplas nyugodt hangulatot kínál a természetben.",
-                  "category": "natural",
-                  "coords": [
-                        4.483131,
-                        51.952089
-                  ]
-            },
-            {
-                  "name": "Bergsche Voorplas",
-                  "text": "A Capelle aan den IJssel-i Bergsche Voorplas egy fürdőtó homokos parttal és szörfhelyszínnel.",
-                  "category": "natural",
-                  "coords": [
-                        4.496238,
-                        51.951458
-                  ]
-            },
-            {
-                  "name": "Rottemeren",
-                  "text": "A Capelle aan den IJssel melletti Rottemeren egy tágas tóvidék szép tájjal.",
-                  "category": "natural",
-                  "coords": [
-                        4.552797,
-                        52.01083
                   ]
             },
             {
@@ -23743,57 +23005,12 @@ export const netherlandsCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Meer der Stilte",
-                  "text": "Meer der Stilte din Capelle aan den IJssel este o apă liniștită pentru recreere.",
-                  "category": "natural",
-                  "coords": [
-                        4.628873,
-                        51.870761
-                  ]
-            },
-            {
                   "name": "Zevenhuizerplas",
                   "text": "Zevenhuizerplas de lângă Capelle aan den IJssel oferă un cadru frumos pentru plimbări.",
                   "category": "natural",
                   "coords": [
                         4.56847,
                         51.980928
-                  ]
-            },
-            {
-                  "name": "Kralingse Plas",
-                  "text": "Kralingse Plas de lângă Capelle aan den IJssel este o zonă de recreere populară lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        4.514601,
-                        51.934698
-                  ]
-            },
-            {
-                  "name": "Bergsche Achterplas",
-                  "text": "Bergsche Achterplas oferă o atmosferă liniștită în mijlocul naturii.",
-                  "category": "natural",
-                  "coords": [
-                        4.483131,
-                        51.952089
-                  ]
-            },
-            {
-                  "name": "Bergsche Voorplas",
-                  "text": "Bergsche Voorplas din Capelle aan den IJssel este un lac de scăldat cu plajă nisipoasă și loc de surfing.",
-                  "category": "natural",
-                  "coords": [
-                        4.496238,
-                        51.951458
-                  ]
-            },
-            {
-                  "name": "Rottemeren",
-                  "text": "Rottemeren de lângă Capelle aan den IJssel este o zonă vastă de lacuri cu un peisaj frumos.",
-                  "category": "natural",
-                  "coords": [
-                        4.552797,
-                        52.01083
                   ]
             },
             {
@@ -23889,57 +23106,12 @@ export const netherlandsCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Meer der Stilte",
-                  "text": "Meer der Stilte in Capelle aan den IJssel is a peaceful body of water for relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        4.628873,
-                        51.870761
-                  ]
-            },
-            {
                   "name": "Zevenhuizerplas",
                   "text": "Zevenhuizerplas near Capelle aan den IJssel offers a beautiful setting for walks.",
                   "category": "natural",
                   "coords": [
                         4.56847,
                         51.980928
-                  ]
-            },
-            {
-                  "name": "Kralingse Plas",
-                  "text": "Kralingse Plas near Capelle aan den IJssel is a well-known recreational area by the water.",
-                  "category": "natural",
-                  "coords": [
-                        4.514601,
-                        51.934698
-                  ]
-            },
-            {
-                  "name": "Bergsche Achterplas",
-                  "text": "Bergsche Achterplas offers a calm atmosphere in a natural setting.",
-                  "category": "natural",
-                  "coords": [
-                        4.483131,
-                        51.952089
-                  ]
-            },
-            {
-                  "name": "Bergsche Voorplas",
-                  "text": "Bergsche Voorplas in Capelle aan den IJssel is a swimming lake with a sandy beach and surf spot.",
-                  "category": "natural",
-                  "coords": [
-                        4.496238,
-                        51.951458
-                  ]
-            },
-            {
-                  "name": "Rottemeren",
-                  "text": "Rottemeren near Capelle aan den IJssel is an extensive lake area with beautiful scenery.",
-                  "category": "natural",
-                  "coords": [
-                        4.552797,
-                        52.01083
                   ]
             },
             {
@@ -25332,15 +24504,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grote of Laurentiuskerk",
-                  "text": "Eine historische Kirche in Rijnsburg, die auf den Resten einer alten Abtei steht.",
-                  "category": "religious",
-                  "coords": [
-                        4.443406,
-                        52.189487
-                  ]
-            },
-            {
                   "name": "Nieuwe Kerk",
                   "text": "Ein markantes Kirchengebäude und lokales Wahrzeichen im Zentrum von Katwijk.",
                   "category": "religious",
@@ -25383,78 +24546,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.425141,
                         52.193796
-                  ]
-            },
-            {
-                  "name": "De Tonneduiker",
-                  "text": "Ein ruhiger See bei Katwijk, ideal für eine Pause im Grünen.",
-                  "category": "natural",
-                  "coords": [
-                        4.526747,
-                        52.192592
-                  ]
-            },
-            {
-                  "name": "'t Joppe",
-                  "text": "Ein schöner See in der Nähe von Katwijk, der zu Spaziergängen am Wasser einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        4.516645,
-                        52.192654
-                  ]
-            },
-            {
-                  "name": "Warckerleede",
-                  "text": "Ein Gewässer bei Katwijk, das eine entspannte Atmosphäre bietet.",
-                  "category": "natural",
-                  "coords": [
-                        4.529204,
-                        52.205691
-                  ]
-            },
-            {
-                  "name": "Spriet",
-                  "text": "Spriet in Katwijk ist ein Dünengebiet mit seltener Vegetation und Wanderdünen.",
-                  "category": "natural",
-                  "coords": [
-                        4.520251,
-                        52.201015
-                  ]
-            },
-            {
-                  "name": "Laeck",
-                  "text": "Ein lokaler See bei Katwijk, ideal für Naturfreunde.",
-                  "category": "natural",
-                  "coords": [
-                        4.532883,
-                        52.202339
-                  ]
-            },
-            {
-                  "name": "Klinkenbergerplas",
-                  "text": "Ein beliebter See bei Katwijk für Erholung und Freizeit am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        4.48881,
-                        52.196716
-                  ]
-            },
-            {
-                  "name": "Valkenburgse Meer",
-                  "text": "Ein großer See bei Katwijk, der viel Platz für Aktivitäten im Freien bietet.",
-                  "category": "natural",
-                  "coords": [
-                        4.436222,
-                        52.161299
-                  ]
-            },
-            {
-                  "name": "De Bak",
-                  "text": "Ein kleinerer See in Katwijk für eine kurze Auszeit am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        4.514705,
-                        52.187168
                   ]
             },
             {
@@ -25640,15 +24731,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grote of Laurentiuskerk",
-                  "text": "Rijnsburg történelmi temploma, amely egy régi apátság maradványaira épült.",
-                  "category": "religious",
-                  "coords": [
-                        4.443406,
-                        52.189487
-                  ]
-            },
-            {
                   "name": "Nieuwe Kerk",
                   "text": "Jellegzetes templomépület és helyi nevezetesség Katwijk központjában.",
                   "category": "religious",
@@ -25691,78 +24773,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.425141,
                         52.193796
-                  ]
-            },
-            {
-                  "name": "De Tonneduiker",
-                  "text": "Nyugodt tó Katwijk közelében, amely ideális egy zöldövezeti pihenőhöz.",
-                  "category": "natural",
-                  "coords": [
-                        4.526747,
-                        52.192592
-                  ]
-            },
-            {
-                  "name": "'t Joppe",
-                  "text": "Szép tó Katwijk környékén, amely vízparti sétákra hív.",
-                  "category": "natural",
-                  "coords": [
-                        4.516645,
-                        52.192654
-                  ]
-            },
-            {
-                  "name": "Warckerleede",
-                  "text": "Katwijk közeli vízfelület, amely pihentető légkört kínál.",
-                  "category": "natural",
-                  "coords": [
-                        4.529204,
-                        52.205691
-                  ]
-            },
-            {
-                  "name": "Spriet",
-                  "text": "A katwijki Spriet egy dűne terület ritka növényzettel és vándorló dűnékkel.",
-                  "category": "natural",
-                  "coords": [
-                        4.520251,
-                        52.201015
-                  ]
-            },
-            {
-                  "name": "Laeck",
-                  "text": "Helyi tó Katwijk közelében, ideális a természet kedvelőinek.",
-                  "category": "natural",
-                  "coords": [
-                        4.532883,
-                        52.202339
-                  ]
-            },
-            {
-                  "name": "Klinkenbergerplas",
-                  "text": "Népszerű tó Katwijk környékén a vízparti kikapcsolódáshoz és szabadidőhöz.",
-                  "category": "natural",
-                  "coords": [
-                        4.48881,
-                        52.196716
-                  ]
-            },
-            {
-                  "name": "Valkenburgse Meer",
-                  "text": "Nagy tó Katwijk közelében, amely tágas helyet biztosít a szabadtéri tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        4.436222,
-                        52.161299
-                  ]
-            },
-            {
-                  "name": "De Bak",
-                  "text": "Kisebb tó Katwijkban egy rövid vízparti kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        4.514705,
-                        52.187168
                   ]
             },
             {
@@ -25948,15 +24958,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grote of Laurentiuskerk",
-                  "text": "O biserică istorică din Rijnsburg, construită pe resturile unei vechi abații.",
-                  "category": "religious",
-                  "coords": [
-                        4.443406,
-                        52.189487
-                  ]
-            },
-            {
                   "name": "Nieuwe Kerk",
                   "text": "O clădire religioasă proeminentă și un reper local în centrul orașului Katwijk.",
                   "category": "religious",
@@ -25999,78 +25000,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.425141,
                         52.193796
-                  ]
-            },
-            {
-                  "name": "De Tonneduiker",
-                  "text": "Un lac liniștit lângă Katwijk, ideal pentru o pauză în natură.",
-                  "category": "natural",
-                  "coords": [
-                        4.526747,
-                        52.192592
-                  ]
-            },
-            {
-                  "name": "'t Joppe",
-                  "text": "Un lac frumos lângă Katwijk, care invită la plimbări pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        4.516645,
-                        52.192654
-                  ]
-            },
-            {
-                  "name": "Warckerleede",
-                  "text": "Un ochi de apă lângă Katwijk, care oferă o atmosferă relaxantă.",
-                  "category": "natural",
-                  "coords": [
-                        4.529204,
-                        52.205691
-                  ]
-            },
-            {
-                  "name": "Spriet",
-                  "text": "Spriet din Katwijk este o zonă de dune cu vegetație rară și dune mobile.",
-                  "category": "natural",
-                  "coords": [
-                        4.520251,
-                        52.201015
-                  ]
-            },
-            {
-                  "name": "Laeck",
-                  "text": "Un lac local lângă Katwijk, ideal pentru iubitorii de natură.",
-                  "category": "natural",
-                  "coords": [
-                        4.532883,
-                        52.202339
-                  ]
-            },
-            {
-                  "name": "Klinkenbergerplas",
-                  "text": "Un lac popular lângă Katwijk pentru recreere și petrecerea timpului liber pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        4.48881,
-                        52.196716
-                  ]
-            },
-            {
-                  "name": "Valkenburgse Meer",
-                  "text": "Un lac mare lângă Katwijk, care oferă mult spațiu pentru activități în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        4.436222,
-                        52.161299
-                  ]
-            },
-            {
-                  "name": "De Bak",
-                  "text": "Un lac mai mic în Katwijk pentru o scurtă pauză pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        4.514705,
-                        52.187168
                   ]
             },
             {
@@ -26256,15 +25185,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Grote of Laurentiuskerk",
-                  "text": "A historic church in Rijnsburg built on the remains of an ancient abbey.",
-                  "category": "religious",
-                  "coords": [
-                        4.443406,
-                        52.189487
-                  ]
-            },
-            {
                   "name": "Nieuwe Kerk",
                   "text": "A prominent church building and local landmark in the center of Katwijk.",
                   "category": "religious",
@@ -26307,78 +25227,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.425141,
                         52.193796
-                  ]
-            },
-            {
-                  "name": "De Tonneduiker",
-                  "text": "A peaceful lake near Katwijk, ideal for a break in the greenery.",
-                  "category": "natural",
-                  "coords": [
-                        4.526747,
-                        52.192592
-                  ]
-            },
-            {
-                  "name": "'t Joppe",
-                  "text": "A lovely lake near Katwijk, perfect for walks along the water.",
-                  "category": "natural",
-                  "coords": [
-                        4.516645,
-                        52.192654
-                  ]
-            },
-            {
-                  "name": "Warckerleede",
-                  "text": "A body of water near Katwijk offering a relaxed atmosphere.",
-                  "category": "natural",
-                  "coords": [
-                        4.529204,
-                        52.205691
-                  ]
-            },
-            {
-                  "name": "Spriet",
-                  "text": "Spriet in Katwijk is a dune area with rare vegetation and shifting dunes.",
-                  "category": "natural",
-                  "coords": [
-                        4.520251,
-                        52.201015
-                  ]
-            },
-            {
-                  "name": "Laeck",
-                  "text": "A local lake near Katwijk, ideal for nature enthusiasts.",
-                  "category": "natural",
-                  "coords": [
-                        4.532883,
-                        52.202339
-                  ]
-            },
-            {
-                  "name": "Klinkenbergerplas",
-                  "text": "A popular lake near Katwijk for recreation and leisure by the water.",
-                  "category": "natural",
-                  "coords": [
-                        4.48881,
-                        52.196716
-                  ]
-            },
-            {
-                  "name": "Valkenburgse Meer",
-                  "text": "A large lake near Katwijk offering plenty of space for outdoor activities.",
-                  "category": "natural",
-                  "coords": [
-                        4.436222,
-                        52.161299
-                  ]
-            },
-            {
-                  "name": "De Bak",
-                  "text": "A smaller lake in Katwijk for a short break by the water.",
-                  "category": "natural",
-                  "coords": [
-                        4.514705,
-                        52.187168
                   ]
             },
             {
@@ -26536,15 +25384,6 @@ export const netherlandsCitiesV2: POI[] = [
                         5.227712,
                         52.086284
                   ]
-            },
-            {
-                  "name": "Kinderboerderij \"Dier en Wij\"",
-                  "text": "Der Kinderbauernhof 'Dier en Wij' in Zeist hat Ziegen, Schafe und einen Gemüsegarten zum Mitmachen.",
-                  "category": "recreational",
-                  "coords": [
-                        5.240451,
-                        52.054392
-                  ]
             }
       ],
       "hu": [
@@ -26627,15 +25466,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.227712,
                         52.086284
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij \"Dier en Wij\"",
-                  "text": "A zeisti 'Dier en Wij' gyermekfarm kecskékkel, birkákkal és közösségi zöldségeskerttel várja a látogatókat.",
-                  "category": "recreational",
-                  "coords": [
-                        5.240451,
-                        52.054392
                   ]
             }
       ],
@@ -26720,15 +25550,6 @@ export const netherlandsCitiesV2: POI[] = [
                         5.227712,
                         52.086284
                   ]
-            },
-            {
-                  "name": "Kinderboerderij \"Dier en Wij\"",
-                  "text": "Ferma pentru copii 'Dier en Wij' din Zeist are capre, oi și o grădină de legume participativă.",
-                  "category": "recreational",
-                  "coords": [
-                        5.240451,
-                        52.054392
-                  ]
             }
       ],
       "en": [
@@ -26811,15 +25632,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.227712,
                         52.086284
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij \"Dier en Wij\"",
-                  "text": "Children's farm 'Dier en Wij' in Zeist has goats, sheep, and a community vegetable garden.",
-                  "category": "recreational",
-                  "coords": [
-                        5.240451,
-                        52.054392
                   ]
             }
       ]
@@ -27078,15 +25890,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kinderboerderij 't Eiterse hofje",
-                  "text": "Dieser Streichelzoo in Nieuwegein bietet eine freundliche Umgebung für Kinder, um Tiere zu besuchen.",
-                  "category": "family",
-                  "coords": [
-                        5.03158,
-                        52.025926
-                  ]
-            },
-            {
                   "name": "Strand Down Under",
                   "text": "Dieser Strandbereich in Nieuwegein ist ein beliebter Ort zum Schwimmen und Entspannen am Wasser.",
                   "category": "family",
@@ -27302,15 +26105,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.092604,
                         52.005245
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij 't Eiterse hofje",
-                  "text": "Ez a Nieuwegein területén található állatsimogató barátságos környezetet kínál a gyerekeknek az állatok látogatásához.",
-                  "category": "family",
-                  "coords": [
-                        5.03158,
-                        52.025926
                   ]
             },
             {
@@ -27532,15 +26326,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kinderboerderij 't Eiterse hofje",
-                  "text": "Această fermă de animale din Nieuwegein oferă un mediu prietenos pentru copii pentru a vizita animalele.",
-                  "category": "family",
-                  "coords": [
-                        5.03158,
-                        52.025926
-                  ]
-            },
-            {
                   "name": "Strand Down Under",
                   "text": "Această zonă de plajă din Nieuwegein este un loc popular pentru înot și relaxare lângă apă.",
                   "category": "family",
@@ -27756,15 +26541,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.092604,
                         52.005245
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij 't Eiterse hofje",
-                  "text": "This petting farm in Nieuwegein offers a friendly environment for children to visit animals.",
-                  "category": "family",
-                  "coords": [
-                        5.03158,
-                        52.025926
                   ]
             },
             {
@@ -37879,15 +36655,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Beeklust",
-                  "text": "Beeklust ist ein Bach-Tal-Naturschutzgebiet mit Spazierwegen in Wierden.",
-                  "category": "natural",
-                  "coords": [
-                        6.638909,
-                        52.346756
-                  ]
-            },
-            {
                   "name": "Leemslagenplas",
                   "text": "Ein See in Wierden, der sich zum Wandern und für die schöne Aussicht eignet.",
                   "category": "natural",
@@ -37931,15 +36698,6 @@ export const netherlandsCitiesV2: POI[] = [
                         6.592722,
                         52.380436
                   ]
-            },
-            {
-                  "name": "Hertenpark",
-                  "text": "Der Hertenpark ist ein Wildpark und Zoobereich in Wierden.",
-                  "category": "recreational",
-                  "coords": [
-                        6.642827,
-                        52.358387
-                  ]
             }
       ],
       "hu": [
@@ -37950,15 +36708,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.572516,
                         52.344795
-                  ]
-            },
-            {
-                  "name": "Beeklust",
-                  "text": "A Beeklust egy patakvölgyi természetvédelmi terület sétányokkal Wierdenben.",
-                  "category": "natural",
-                  "coords": [
-                        6.638909,
-                        52.346756
                   ]
             },
             {
@@ -38005,15 +36754,6 @@ export const netherlandsCitiesV2: POI[] = [
                         6.592722,
                         52.380436
                   ]
-            },
-            {
-                  "name": "Hertenpark",
-                  "text": "A Hertenpark egy szarvaspark és állatkerti terület Wierdenben.",
-                  "category": "recreational",
-                  "coords": [
-                        6.642827,
-                        52.358387
-                  ]
             }
       ],
       "ro": [
@@ -38024,15 +36764,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.572516,
                         52.344795
-                  ]
-            },
-            {
-                  "name": "Beeklust",
-                  "text": "Beeklust este o rezervație naturală de vale de pârâu cu poteci de mers în Wierden.",
-                  "category": "natural",
-                  "coords": [
-                        6.638909,
-                        52.346756
                   ]
             },
             {
@@ -38079,15 +36810,6 @@ export const netherlandsCitiesV2: POI[] = [
                         6.592722,
                         52.380436
                   ]
-            },
-            {
-                  "name": "Hertenpark",
-                  "text": "Hertenpark este un parc de căprioare și o zonă zoologică situată în Wierden.",
-                  "category": "recreational",
-                  "coords": [
-                        6.642827,
-                        52.358387
-                  ]
             }
       ],
       "en": [
@@ -38098,15 +36820,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.572516,
                         52.344795
-                  ]
-            },
-            {
-                  "name": "Beeklust",
-                  "text": "Beeklust is a stream valley nature reserve with walking paths in Wierden.",
-                  "category": "natural",
-                  "coords": [
-                        6.638909,
-                        52.346756
                   ]
             },
             {
@@ -38152,15 +36865,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         6.592722,
                         52.380436
-                  ]
-            },
-            {
-                  "name": "Hertenpark",
-                  "text": "Hertenpark is a deer park and zoo area located in Wierden.",
-                  "category": "recreational",
-                  "coords": [
-                        6.642827,
-                        52.358387
                   ]
             }
       ]
@@ -38257,15 +36961,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dierenweide Geindijk",
-                  "text": "Dierenweide Geindijk ist ein Zoo in Ijsselstein. Er bietet Familien die Möglichkeit, Tiere aus der Nähe zu erleben.",
-                  "category": "family",
-                  "coords": [
-                        5.074855,
-                        52.007433
-                  ]
-            },
-            {
                   "name": "Kinderboerderij 't Eiterse hofje",
                   "text": "Kinderboerderij 't Eiterse hofje ist ein Zoo in Ijsselstein. Dieser Streichelzoo ist ideal für Kindern und Familien.",
                   "category": "family",
@@ -38319,15 +37014,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.037825,
                         52.01282
-                  ]
-            },
-            {
-                  "name": "Dierenweide Geindijk",
-                  "text": "A Dierenweide Geindijk egy állatkert Ijsselsteinben. Lehetőséget nyújt a családoknak az állatok közeli megfigyelésére.",
-                  "category": "family",
-                  "coords": [
-                        5.074855,
-                        52.007433
                   ]
             },
             {
@@ -38387,15 +37073,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dierenweide Geindijk",
-                  "text": "Dierenweide Geindijk este o grădină zoologică din Ijsselstein. Oferă familiilor șansa de a vedea animalele de aproape.",
-                  "category": "family",
-                  "coords": [
-                        5.074855,
-                        52.007433
-                  ]
-            },
-            {
                   "name": "Kinderboerderij 't Eiterse hofje",
                   "text": "Kinderboerderij 't Eiterse hofje este o grădină zoologică din Ijsselstein. Această fermă de animale este ideală pentru copii și familii.",
                   "category": "family",
@@ -38449,15 +37126,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.037825,
                         52.01282
-                  ]
-            },
-            {
-                  "name": "Dierenweide Geindijk",
-                  "text": "Dierenweide Geindijk is a zoo in Ijsselstein. It offers families a chance to see animals up close.",
-                  "category": "family",
-                  "coords": [
-                        5.074855,
-                        52.007433
                   ]
             },
             {
@@ -41038,15 +39706,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Donckse Bos",
-                  "text": "Donckse Bos ist ein bewaldeter Park in Ridderkerk.",
-                  "category": "park",
-                  "coords": [
-                        4.594057,
-                        51.886268
-                  ]
-            },
-            {
                   "name": "Nederwaard Molen No.8",
                   "text": "Eine historische Windmühle, Teil des Kinderdijk-Gebiets bei Ridderkerk.",
                   "category": "landmark",
@@ -41098,15 +39757,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.60179,
                         51.866937
-                  ]
-            },
-            {
-                  "name": "Maalkom Lorregat",
-                  "text": "Ein ruhiger See in Ridderkerk, ideal für eine kleine Pause im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        4.575005,
-                        51.803281
                   ]
             },
             {
@@ -41256,15 +39906,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Donckse Bos",
-                  "text": "A Donckse Bos egy erdős park Ridderkerkben.",
-                  "category": "park",
-                  "coords": [
-                        4.594057,
-                        51.886268
-                  ]
-            },
-            {
                   "name": "Nederwaard Molen No.8",
                   "text": "Történelmi szélmalom, a Kinderdijk terület része Ridderkerk közelében.",
                   "category": "landmark",
@@ -41316,15 +39957,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.60179,
                         51.866937
-                  ]
-            },
-            {
-                  "name": "Maalkom Lorregat",
-                  "text": "Nyugodt tó Ridderkerkben, amely ideális egy kis szabadtéri pihenőhöz.",
-                  "category": "natural",
-                  "coords": [
-                        4.575005,
-                        51.803281
                   ]
             },
             {
@@ -41474,15 +40106,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Donckse Bos",
-                  "text": "Donckse Bos este un parc împădurit în Ridderkerk.",
-                  "category": "park",
-                  "coords": [
-                        4.594057,
-                        51.886268
-                  ]
-            },
-            {
                   "name": "Nederwaard Molen No.8",
                   "text": "O moară de vânt istorică, parte a zonei Kinderdijk de lângă Ridderkerk.",
                   "category": "landmark",
@@ -41534,15 +40157,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.60179,
                         51.866937
-                  ]
-            },
-            {
-                  "name": "Maalkom Lorregat",
-                  "text": "Un lac liniștit în Ridderkerk, ideal pentru o mică pauză în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        4.575005,
-                        51.803281
                   ]
             },
             {
@@ -41692,15 +40306,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Donckse Bos",
-                  "text": "Donckse Bos is a wooded park in Ridderkerk.",
-                  "category": "park",
-                  "coords": [
-                        4.594057,
-                        51.886268
-                  ]
-            },
-            {
                   "name": "Nederwaard Molen No.8",
                   "text": "A historic windmill part of the Kinderdijk area near Ridderkerk.",
                   "category": "landmark",
@@ -41752,15 +40357,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.60179,
                         51.866937
-                  ]
-            },
-            {
-                  "name": "Maalkom Lorregat",
-                  "text": "A peaceful lake in Ridderkerk, ideal for a small outdoor break.",
-                  "category": "natural",
-                  "coords": [
-                        4.575005,
-                        51.803281
                   ]
             },
             {
@@ -44260,24 +42856,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dierenweide",
-                  "text": "Ein örtlicher Tierpark in Krimpen Aan Den Ijssel, der eine familienfreundliche Umgebung zur Beobachtung verschiedener Tierarten bietet.",
-                  "category": "family",
-                  "coords": [
-                        4.56706,
-                        51.914741
-                  ]
-            },
-            {
-                  "name": "Zwemplas Woude",
-                  "text": "Ein malerischer Badebereich in Krimpen Aan Den Ijssel, der einen natürlichen Ort für Erholung am Wasser bietet.",
-                  "category": "family",
-                  "coords": [
-                        4.614247,
-                        51.881055
-                  ]
-            },
-            {
                   "name": "Streekmuseum Krimpenerwaard",
                   "text": "Ein Heimatmuseum in Krimpen aan den IJssel, das in einem historischen Bauernhaus untergebracht ist.",
                   "category": "museum",
@@ -44367,24 +42945,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.593504,
                         51.940839
-                  ]
-            },
-            {
-                  "name": "Dierenweide",
-                  "text": "Helyi állatpark Krimpen Aan Den Ijssel településen, amely családbarát környezetet kínál különféle fajok megfigyeléséhez.",
-                  "category": "family",
-                  "coords": [
-                        4.56706,
-                        51.914741
-                  ]
-            },
-            {
-                  "name": "Zwemplas Woude",
-                  "text": "Festői fürdőhely Krimpen Aan Den Ijssel településen, amely természetes helyszínt biztosít a vízi kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        4.614247,
-                        51.881055
                   ]
             },
             {
@@ -44480,24 +43040,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dierenweide",
-                  "text": "Un parc de animale local din Krimpen Aan Den Ijssel, care oferă un mediu prietenos pentru familii pentru a observa diverse specii.",
-                  "category": "family",
-                  "coords": [
-                        4.56706,
-                        51.914741
-                  ]
-            },
-            {
-                  "name": "Zwemplas Woude",
-                  "text": "O zonă de înot pitorească din Krimpen Aan Den Ijssel, care oferă un loc natural pentru recreere pe apă.",
-                  "category": "family",
-                  "coords": [
-                        4.614247,
-                        51.881055
-                  ]
-            },
-            {
                   "name": "Streekmuseum Krimpenerwaard",
                   "text": "Un muzeu de istorie locală în Krimpen aan den IJssel, situat într-o fermă istorică.",
                   "category": "museum",
@@ -44587,24 +43129,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.593504,
                         51.940839
-                  ]
-            },
-            {
-                  "name": "Dierenweide",
-                  "text": "A local animal park in Krimpen Aan Den Ijssel offering a family-friendly environment to observe various species.",
-                  "category": "family",
-                  "coords": [
-                        4.56706,
-                        51.914741
-                  ]
-            },
-            {
-                  "name": "Zwemplas Woude",
-                  "text": "A scenic swimming area in Krimpen Aan Den Ijssel providing a natural spot for water-based recreation.",
-                  "category": "family",
-                  "coords": [
-                        4.614247,
-                        51.881055
                   ]
             },
             {
@@ -45007,39 +43531,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dodde",
-                  "text": "Ein lokaler See in Heemskerk, der eine ruhige Kulisse für Spaziergänge bietet.",
-                  "category": "natural",
-                  "coords": [
-                        4.742476,
-                        52.554376
-                  ]
-            },
-            {
-                  "name": "Westbroekplas",
-                  "text": "Ein See in Heemskerk, der sich gut für Freizeitaktivitäten am Wasser eignet.",
-                  "category": "natural",
-                  "coords": [
-                        4.670707,
-                        52.426026
-                  ]
-            },
-            {
                   "name": "Limmergat",
                   "text": "Ein Gewässer in Heemskerk, das zur Beobachtung der lokalen Flora und Fauna einlädt.",
                   "category": "natural",
                   "coords": [
                         4.737737,
                         52.542016
-                  ]
-            },
-            {
-                  "name": "Alkmaardermeer",
-                  "text": "Ein großer See bei Heemskerk, der für seine schöne Landschaft und Erholungsmöglichkeiten bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        4.758562,
-                        52.549912
                   ]
             },
             {
@@ -45369,39 +43866,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dodde",
-                  "text": "Helyi tó Heemskerkben, amely nyugodt hátteret biztosít a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        4.742476,
-                        52.554376
-                  ]
-            },
-            {
-                  "name": "Westbroekplas",
-                  "text": "Egy tó Heemskerk területén, amely kiválóan alkalmas vízparti szabadidős tevékenységekre.",
-                  "category": "natural",
-                  "coords": [
-                        4.670707,
-                        52.426026
-                  ]
-            },
-            {
                   "name": "Limmergat",
                   "text": "Egy vízfelület Heemskerkben, amely a helyi növény- és állatvilág megfigyelésére hívogat.",
                   "category": "natural",
                   "coords": [
                         4.737737,
                         52.542016
-                  ]
-            },
-            {
-                  "name": "Alkmaardermeer",
-                  "text": "Nagy tó Heemskerk közelében, amely szép tájáról és kikapcsolódási lehetőségeiről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        4.758562,
-                        52.549912
                   ]
             },
             {
@@ -45731,39 +44201,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dodde",
-                  "text": "Un lac local în Heemskerk, care oferă un cadru liniștit pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        4.742476,
-                        52.554376
-                  ]
-            },
-            {
-                  "name": "Westbroekplas",
-                  "text": "Un lac în Heemskerk, potrivit pentru activități de recreere pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        4.670707,
-                        52.426026
-                  ]
-            },
-            {
                   "name": "Limmergat",
                   "text": "O întindere de apă în Heemskerk, care invită la observarea florei și faunei locale.",
                   "category": "natural",
                   "coords": [
                         4.737737,
                         52.542016
-                  ]
-            },
-            {
-                  "name": "Alkmaardermeer",
-                  "text": "Un lac mare lângă Heemskerk, cunoscut pentru peisajul frumos și posibilitățile de recreere.",
-                  "category": "natural",
-                  "coords": [
-                        4.758562,
-                        52.549912
                   ]
             },
             {
@@ -46093,39 +44536,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dodde",
-                  "text": "A local lake in Heemskerk providing a quiet backdrop for walks.",
-                  "category": "natural",
-                  "coords": [
-                        4.742476,
-                        52.554376
-                  ]
-            },
-            {
-                  "name": "Westbroekplas",
-                  "text": "A lake in Heemskerk well-suited for recreational activities by the water.",
-                  "category": "natural",
-                  "coords": [
-                        4.670707,
-                        52.426026
-                  ]
-            },
-            {
                   "name": "Limmergat",
                   "text": "A body of water in Heemskerk inviting observation of local flora and fauna.",
                   "category": "natural",
                   "coords": [
                         4.737737,
                         52.542016
-                  ]
-            },
-            {
-                  "name": "Alkmaardermeer",
-                  "text": "A large lake near Heemskerk known for its beautiful scenery and recreation possibilities.",
-                  "category": "natural",
-                  "coords": [
-                        4.758562,
-                        52.549912
                   ]
             },
             {
@@ -46339,15 +44755,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kinderboerderij De Wilgenhof",
-                  "text": "Dieser Kinderbauernhof in Berkel En Rodenrijs bietet eine freundliche Umgebung, um verschiedene Tiere zu sehen. Er ist ein beliebtes Ziel für Familien mit Kindern.",
-                  "category": "family",
-                  "coords": [
-                        4.478501,
-                        51.953263
-                  ]
-            },
-            {
                   "name": "De Buurvrouw",
                   "text": "Die De Buurvrouw ist ein kultureller Ort in Berkel en Rodenrijs für Veranstaltungen und Ausstellungen.",
                   "category": "cultural",
@@ -46437,15 +44844,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.483165,
                         51.956294
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij De Wilgenhof",
-                  "text": "Ez a Berkel En Rodenrijs-i állatsimogató barátságos környezetet kínál a háztáji állatok megtekintéséhez. Népszerű úti cél kisgyermekes családok számára.",
-                  "category": "family",
-                  "coords": [
-                        4.478501,
-                        51.953263
                   ]
             },
             {
@@ -46541,15 +44939,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kinderboerderij De Wilgenhof",
-                  "text": "Această fermă pentru copii din Berkel En Rodenrijs oferă un mediu prietenos pentru a vedea diverse animale. Este o destinație populară pentru familiile cu copii.",
-                  "category": "family",
-                  "coords": [
-                        4.478501,
-                        51.953263
-                  ]
-            },
-            {
                   "name": "De Buurvrouw",
                   "text": "De Buurvrouw este un loc cultural în Berkel en Rodenrijs care găzduiește evenimente și expoziții.",
                   "category": "cultural",
@@ -46639,15 +45028,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.483165,
                         51.956294
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij De Wilgenhof",
-                  "text": "This children's farm in Berkel En Rodenrijs offers a friendly environment to see various animals. It is a popular destination for families with kids.",
-                  "category": "family",
-                  "coords": [
-                        4.478501,
-                        51.953263
                   ]
             },
             {
@@ -46895,15 +45275,6 @@ export const netherlandsCitiesV2: POI[] = [
                         4.483282,
                         52.221468
                   ]
-            },
-            {
-                  "name": "Kinderboerderij De Kloosterhof",
-                  "text": "Dieser Streichelzoo in Sassenheim ist ein schönes Ziel für Familien, um Tiere zu treffen und zu erleben.",
-                  "category": "family",
-                  "coords": [
-                        4.496188,
-                        52.199093
-                  ]
             }
       ],
       "hu": [
@@ -47040,15 +45411,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.483282,
                         52.221468
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij De Kloosterhof",
-                  "text": "Ez a Sassenheim városában található állatsimogató kedves úti cél a családok számára az állatokkal való találkozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        4.496188,
-                        52.199093
                   ]
             }
       ],
@@ -47187,15 +45549,6 @@ export const netherlandsCitiesV2: POI[] = [
                         4.483282,
                         52.221468
                   ]
-            },
-            {
-                  "name": "Kinderboerderij De Kloosterhof",
-                  "text": "Această fermă de animale din Sassenheim este o destinație minunată pentru familiile care doresc să vadă și să interacționeze cu animalele.",
-                  "category": "family",
-                  "coords": [
-                        4.496188,
-                        52.199093
-                  ]
             }
       ],
       "en": [
@@ -47332,15 +45685,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.483282,
                         52.221468
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij De Kloosterhof",
-                  "text": "This petting zoo in Sassenheim is a lovely destination for families to meet and interact with animals.",
-                  "category": "family",
-                  "coords": [
-                        4.496188,
-                        52.199093
                   ]
             }
       ]
@@ -48112,15 +46456,6 @@ export const netherlandsCitiesV2: POI[] = [
     id: "netherlands-drunen-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Zwembad Olympia",
-                  "text": "Dieser Badebereich in Drunen bietet eine angenehme Umgebung zum Schwimmen und für die Erholung im Wasser.",
-                  "category": "family",
-                  "coords": [
-                        5.095052,
-                        51.683366
-                  ]
-            },
-            {
                   "name": "Kasteel d'Oultremont",
                   "text": "Ein historisches Schloss in Drunen, bekannt für seine Architektur.",
                   "category": "castle",
@@ -48176,15 +46511,6 @@ export const netherlandsCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Zwembad Olympia",
-                  "text": "Ez a Drunen területén található fürdőhely kellemes környezetet biztosít az úszáshoz és a vízi kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        5.095052,
-                        51.683366
-                  ]
-            },
             {
                   "name": "Kasteel d'Oultremont",
                   "text": "Történelmi kastély Drunenben, amely építészetéről ismert.",
@@ -48242,15 +46568,6 @@ export const netherlandsCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Zwembad Olympia",
-                  "text": "Această zonă de înot din Drunen oferă un mediu plăcut pentru înot și recreere acvatică.",
-                  "category": "family",
-                  "coords": [
-                        5.095052,
-                        51.683366
-                  ]
-            },
-            {
                   "name": "Kasteel d'Oultremont",
                   "text": "Un castel istoric din Drunen, cunoscut pentru arhitectura sa.",
                   "category": "castle",
@@ -48306,15 +46623,6 @@ export const netherlandsCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Zwembad Olympia",
-                  "text": "This swimming area in Drunen provides a pleasant environment for swimming and water recreation.",
-                  "category": "family",
-                  "coords": [
-                        5.095052,
-                        51.683366
-                  ]
-            },
             {
                   "name": "Kasteel d'Oultremont",
                   "text": "A historic castle in Drunen, known for its architecture.",
@@ -52198,159 +50506,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Surfplas",
-                  "text": "Ein aktiver See bei Waddinxveen, ideal für Freizeitaktivitäten am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        4.752081,
-                        52.049361
-                  ]
-            },
-            {
-                  "name": "Westergouweplas",
-                  "text": "Die Westergouweplas ist ein Badesee in Waddinxveen, umgeben von Grünflächen.",
-                  "category": "natural",
-                  "coords": [
-                        4.68601,
-                        52.001644
-                  ]
-            },
-            {
-                  "name": "Sloene",
-                  "text": "Ein lokales Gewässer bei Waddinxveen für eine ruhige Auszeit.",
-                  "category": "natural",
-                  "coords": [
-                        4.742409,
-                        52.05242
-                  ]
-            },
-            {
-                  "name": "Klein Vogelenzang",
-                  "text": "Ein malerischer kleiner See in Waddinxveen, ideal für Naturbeobachtungen.",
-                  "category": "natural",
-                  "coords": [
-                        4.753334,
-                        52.03832
-                  ]
-            },
-            {
-                  "name": "Kleine Elfhoeven",
-                  "text": "Ein ruhiger See bei Waddinxveen, der zur Entspannung einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        4.74156,
-                        52.028544
-                  ]
-            },
-            {
-                  "name": "Nieuwenbroek",
-                  "text": "Ein Gewässer in Waddinxveen, das eine schöne Kulisse für Spaziergänge bietet.",
-                  "category": "natural",
-                  "coords": [
-                        4.759962,
-                        52.029873
-                  ]
-            },
-            {
-                  "name": "Groot Vogelenzang",
-                  "text": "Ein weitläufiger See in Waddinxveen für Naturerlebnisse am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        4.751572,
-                        52.033984
-                  ]
-            },
-            {
-                  "name": "Elfhoeven",
-                  "text": "Ein bekannter See bei Waddinxveen, ideal für Erholung im Grünen.",
-                  "category": "natural",
-                  "coords": [
-                        4.729436,
-                        52.030456
-                  ]
-            },
-            {
-                  "name": "'t Weegje",
-                  "text": "Ein idyllischer See bei Waddinxveen für ruhige Momente in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        4.668326,
-                        52.015827
-                  ]
-            },
-            {
-                  "name": "'s-Gravenbroek",
-                  "text": "'s-Gravenbroek ist ein Naturgebiet in Waddinxveen, ein Feuchtgebiet mit Röhricht und Wasserflächen.",
-                  "category": "natural",
-                  "coords": [
-                        4.734098,
-                        52.037681
-                  ]
-            },
-            {
-                  "name": "Vrijhoef",
-                  "text": "Ein ruhiges Gewässer bei Waddinxveen, ideal für eine Pause.",
-                  "category": "natural",
-                  "coords": [
-                        4.749209,
-                        52.025854
-                  ]
-            },
-            {
-                  "name": "Roggebroek",
-                  "text": "Ein See in Waddinxveen, der eine natürliche Umgebung für Erholung bietet.",
-                  "category": "natural",
-                  "coords": [
-                        4.767006,
-                        52.025374
-                  ]
-            },
-            {
-                  "name": "'s-Gravenkoop",
-                  "text": "Ein lokaler See bei Waddinxveen für entspannte Stunden am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        4.764831,
-                        52.039442
-                  ]
-            },
-            {
-                  "name": "Kalverbroek",
-                  "text": "Ein ruhiger See in Waddinxveen für Momente der Stille in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        4.758858,
-                        52.022789
-                  ]
-            },
-            {
-                  "name": "Ravensberg",
-                  "text": "Ein Gewässer bei Waddinxveen, ideal für einen kurzen Ausflug ins Grüne.",
-                  "category": "natural",
-                  "coords": [
-                        4.74321,
-                        52.043657
-                  ]
-            },
-            {
-                  "name": "Rottemeren",
-                  "text": "Ein beliebtes Seengebiet bei Waddinxveen für vielfältige Freizeitaktivitäten.",
-                  "category": "natural",
-                  "coords": [
-                        4.552797,
-                        52.01083
-                  ]
-            },
-            {
-                  "name": "You Jump Gouda",
-                  "text": "Ein moderner Trampolinpark in Waddinxveen für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        4.678772,
-                        52.027018
-                  ]
-            },
-            {
                   "name": "Minimasters Playground",
                   "text": "Ein lokaler Spielplatz in Waddinxveen, der Kindern Raum zum Spielen im Freien bietet.",
                   "category": "family",
@@ -52375,15 +50530,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.645736,
                         52.042749
-                  ]
-            },
-            {
-                  "name": "Speeltuin Eikelaan",
-                  "text": "Ein kleiner Spielplatz in Waddinxveen, der zum Klettern und Spielen einlädt.",
-                  "category": "family",
-                  "coords": [
-                        4.687879,
-                        52.028844
                   ]
             },
             {
@@ -52423,30 +50569,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Groenhovenbad",
-                  "text": "Das Groenhovenbad in Waddinxveen ist ein Wasserpark mit verschiedenen Becken für Wasserspaß. Familien können hier einen aktiven Tag im Wasser genießen.",
-                  "category": "family",
-                  "coords": [
-                        4.689282,
-                        52.023897
-                  ]
-            },
-            {
                   "name": "Luilakterrein",
                   "text": "Das Luilakterrein in Waddinxveen ist ein Freizeitpark, der Unterhaltung für verschiedene Altersgruppen bietet. Es ist ein schöner Ort für einen Familienausflug im Freien.",
                   "category": "family",
                   "coords": [
                         4.630096,
                         52.07611
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij De Goudse Hofsteden",
-                  "text": "Die Kinderboerderij De Goudse Hofsteden in Waddinxveen bietet eine naturnahe Umgebung mit Bauernhoftieren. Ein toller Ort für Familien, um Zeit im Freien zu verbringen.",
-                  "category": "family",
-                  "coords": [
-                        4.696649,
-                        52.032513
                   ]
             },
             {
@@ -52587,159 +50715,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Surfplas",
-                  "text": "Aktív tó Waddinxveen közelében, amely ideális vízparti szabadidős tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        4.752081,
-                        52.049361
-                  ]
-            },
-            {
-                  "name": "Westergouweplas",
-                  "text": "A Westergouweplas egy fürdőtó Waddinxveenben, zöldterületekkel körülvéve.",
-                  "category": "natural",
-                  "coords": [
-                        4.68601,
-                        52.001644
-                  ]
-            },
-            {
-                  "name": "Sloene",
-                  "text": "Helyi vízfelület Waddinxveen közelében egy nyugodt kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        4.742409,
-                        52.05242
-                  ]
-            },
-            {
-                  "name": "Klein Vogelenzang",
-                  "text": "Festői kis tó Waddinxveenben, amely ideális a természet megfigyeléséhez.",
-                  "category": "natural",
-                  "coords": [
-                        4.753334,
-                        52.03832
-                  ]
-            },
-            {
-                  "name": "Kleine Elfhoeven",
-                  "text": "Nyugodt tó Waddinxveen közelében, amely kikapcsolódásra hív.",
-                  "category": "natural",
-                  "coords": [
-                        4.74156,
-                        52.028544
-                  ]
-            },
-            {
-                  "name": "Nieuwenbroek",
-                  "text": "Vízfelület Waddinxveenben, amely szép környezetet biztosít a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        4.759962,
-                        52.029873
-                  ]
-            },
-            {
-                  "name": "Groot Vogelenzang",
-                  "text": "Tágas tó Waddinxveenben a vízparti természetélményekhez.",
-                  "category": "natural",
-                  "coords": [
-                        4.751572,
-                        52.033984
-                  ]
-            },
-            {
-                  "name": "Elfhoeven",
-                  "text": "Ismert tó Waddinxveen közelében, ideális a zöldövezeti kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        4.729436,
-                        52.030456
-                  ]
-            },
-            {
-                  "name": "'t Weegje",
-                  "text": "Idilli tó Waddinxveen közelében a természetbeni nyugodt pillanatokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        4.668326,
-                        52.015827
-                  ]
-            },
-            {
-                  "name": "'s-Gravenbroek",
-                  "text": "A 's-Gravenbroek egy természeti terület Waddinxveenben, nádasokkal és vízfelületekkel.",
-                  "category": "natural",
-                  "coords": [
-                        4.734098,
-                        52.037681
-                  ]
-            },
-            {
-                  "name": "Vrijhoef",
-                  "text": "Nyugodt vízfelület Waddinxveen közelében, ideális egy pihenőhöz.",
-                  "category": "natural",
-                  "coords": [
-                        4.749209,
-                        52.025854
-                  ]
-            },
-            {
-                  "name": "Roggebroek",
-                  "text": "Tó Waddinxveenben, amely természetes környezetet kínál a kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        4.767006,
-                        52.025374
-                  ]
-            },
-            {
-                  "name": "'s-Gravenkoop",
-                  "text": "Helyi tó Waddinxveen közelében a vízparti pihentető órákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        4.764831,
-                        52.039442
-                  ]
-            },
-            {
-                  "name": "Kalverbroek",
-                  "text": "Nyugodt tó Waddinxveenben a természetbeni csendes pillanatokhoz.",
-                  "category": "natural",
-                  "coords": [
-                        4.758858,
-                        52.022789
-                  ]
-            },
-            {
-                  "name": "Ravensberg",
-                  "text": "Waddinxveen közeli vízfelület, ideális egy rövid természetbeni kiránduláshoz.",
-                  "category": "natural",
-                  "coords": [
-                        4.74321,
-                        52.043657
-                  ]
-            },
-            {
-                  "name": "Rottemeren",
-                  "text": "Népszerű tóvidék Waddinxveen közelében a változatos szabadidős tevékenységekhez.",
-                  "category": "natural",
-                  "coords": [
-                        4.552797,
-                        52.01083
-                  ]
-            },
-            {
-                  "name": "You Jump Gouda",
-                  "text": "Modern trambulinpark Waddinxveenben az egész család számára.",
-                  "category": "family",
-                  "coords": [
-                        4.678772,
-                        52.027018
-                  ]
-            },
-            {
                   "name": "Minimasters Playground",
                   "text": "Helyi játszótér Waddinxveenben, amely szabadtéri játéklehetőséget kínál a gyerekeknek.",
                   "category": "family",
@@ -52764,15 +50739,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.645736,
                         52.042749
-                  ]
-            },
-            {
-                  "name": "Speeltuin Eikelaan",
-                  "text": "Kisebb játszótér Waddinxveenben, amely mászásra és játékra hívogatja a kicsiket.",
-                  "category": "family",
-                  "coords": [
-                        4.687879,
-                        52.028844
                   ]
             },
             {
@@ -52812,30 +50778,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Groenhovenbad",
-                  "text": "A waddinxveeni Groenhovenbad egy vízipark, amely különféle medencékkel várja a kikapcsolódni vágyókat. A családok aktív napot tölthetnek itt a vízben.",
-                  "category": "family",
-                  "coords": [
-                        4.689282,
-                        52.023897
-                  ]
-            },
-            {
                   "name": "Luilakterrein",
                   "text": "A waddinxveeni Luilakterrein egy vidámpark, amely szórakozást kínál a különböző korosztályok számára. Kellemes helyszín egy szabadtéri családi programhoz.",
                   "category": "family",
                   "coords": [
                         4.630096,
                         52.07611
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij De Goudse Hofsteden",
-                  "text": "A waddinxveeni Kinderboerderij De Goudse Hofsteden természetközeli környezetet kínál háztáji állatokkal. Remek hely a családoknak a szabadban töltött időhöz.",
-                  "category": "family",
-                  "coords": [
-                        4.696649,
-                        52.032513
                   ]
             },
             {
@@ -52976,159 +50924,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Surfplas",
-                  "text": "Un lac activ lângă Waddinxveen, ideal pentru activități de agrement pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        4.752081,
-                        52.049361
-                  ]
-            },
-            {
-                  "name": "Westergouweplas",
-                  "text": "Westergouweplas este un lac de înot în Waddinxveen, înconjurat de spații verzi.",
-                  "category": "natural",
-                  "coords": [
-                        4.68601,
-                        52.001644
-                  ]
-            },
-            {
-                  "name": "Sloene",
-                  "text": "Un ochi de apă local lângă Waddinxveen pentru o pauză liniștită.",
-                  "category": "natural",
-                  "coords": [
-                        4.742409,
-                        52.05242
-                  ]
-            },
-            {
-                  "name": "Klein Vogelenzang",
-                  "text": "Un mic lac pitoresc în Waddinxveen, ideal pentru observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        4.753334,
-                        52.03832
-                  ]
-            },
-            {
-                  "name": "Kleine Elfhoeven",
-                  "text": "Un lac liniștit lângă Waddinxveen, care invită la relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        4.74156,
-                        52.028544
-                  ]
-            },
-            {
-                  "name": "Nieuwenbroek",
-                  "text": "Un ochi de apă în Waddinxveen, care oferă un cadru frumos pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        4.759962,
-                        52.029873
-                  ]
-            },
-            {
-                  "name": "Groot Vogelenzang",
-                  "text": "Un lac întins în Waddinxveen pentru experiențe în natură pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        4.751572,
-                        52.033984
-                  ]
-            },
-            {
-                  "name": "Elfhoeven",
-                  "text": "Un lac cunoscut lângă Waddinxveen, ideal pentru recreere în natură.",
-                  "category": "natural",
-                  "coords": [
-                        4.729436,
-                        52.030456
-                  ]
-            },
-            {
-                  "name": "'t Weegje",
-                  "text": "Un lac idilic lângă Waddinxveen pentru momente de liniște în natură.",
-                  "category": "natural",
-                  "coords": [
-                        4.668326,
-                        52.015827
-                  ]
-            },
-            {
-                  "name": "'s-Gravenbroek",
-                  "text": "'s-Gravenbroek este o zonă naturală în Waddinxveen, o zonă umedă cu stuf și luciu de apă.",
-                  "category": "natural",
-                  "coords": [
-                        4.734098,
-                        52.037681
-                  ]
-            },
-            {
-                  "name": "Vrijhoef",
-                  "text": "Un ochi de apă liniștit lângă Waddinxveen, ideal pentru o pauză.",
-                  "category": "natural",
-                  "coords": [
-                        4.749209,
-                        52.025854
-                  ]
-            },
-            {
-                  "name": "Roggebroek",
-                  "text": "Un lac în Waddinxveen, care oferă un mediu natural pentru recreere.",
-                  "category": "natural",
-                  "coords": [
-                        4.767006,
-                        52.025374
-                  ]
-            },
-            {
-                  "name": "'s-Gravenkoop",
-                  "text": "Un lac local lângă Waddinxveen pentru ore relaxante pe malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        4.764831,
-                        52.039442
-                  ]
-            },
-            {
-                  "name": "Kalverbroek",
-                  "text": "Un lac liniștit în Waddinxveen pentru momente de liniște în natură.",
-                  "category": "natural",
-                  "coords": [
-                        4.758858,
-                        52.022789
-                  ]
-            },
-            {
-                  "name": "Ravensberg",
-                  "text": "Un ochi de apă lângă Waddinxveen, ideal pentru o scurtă excursie în natură.",
-                  "category": "natural",
-                  "coords": [
-                        4.74321,
-                        52.043657
-                  ]
-            },
-            {
-                  "name": "Rottemeren",
-                  "text": "O zonă de lacuri populară lângă Waddinxveen pentru diverse activități de agrement.",
-                  "category": "natural",
-                  "coords": [
-                        4.552797,
-                        52.01083
-                  ]
-            },
-            {
-                  "name": "You Jump Gouda",
-                  "text": "Un parc de trambuline modern în Waddinxveen pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        4.678772,
-                        52.027018
-                  ]
-            },
-            {
                   "name": "Minimasters Playground",
                   "text": "Un loc de joacă local în Waddinxveen care oferă spațiu pentru copii să se joace în aer liber.",
                   "category": "family",
@@ -53153,15 +50948,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.645736,
                         52.042749
-                  ]
-            },
-            {
-                  "name": "Speeltuin Eikelaan",
-                  "text": "Un mic loc de joacă în Waddinxveen care invită copiii la cățărat și joacă.",
-                  "category": "family",
-                  "coords": [
-                        4.687879,
-                        52.028844
                   ]
             },
             {
@@ -53201,30 +50987,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Groenhovenbad",
-                  "text": "Groenhovenbad din Waddinxveen este un parc acvatic cu diverse bazine pentru distracție. Familiile se pot bucura aici de o zi activă în apă.",
-                  "category": "family",
-                  "coords": [
-                        4.689282,
-                        52.023897
-                  ]
-            },
-            {
                   "name": "Luilakterrein",
                   "text": "Luilakterrein din Waddinxveen este un parc tematic ce oferă divertisment pentru diverse grupe de vârstă. Este un loc plăcut pentru o ieșire în familie în aer liber.",
                   "category": "family",
                   "coords": [
                         4.630096,
                         52.07611
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij De Goudse Hofsteden",
-                  "text": "Kinderboerderij De Goudse Hofsteden din Waddinxveen oferă un mediu natural cu animale de fermă. Un loc minunat pentru familii de a petrece timpul în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        4.696649,
-                        52.032513
                   ]
             },
             {
@@ -53365,159 +51133,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Surfplas",
-                  "text": "An active lake near Waddinxveen, ideal for recreational activities by the water.",
-                  "category": "natural",
-                  "coords": [
-                        4.752081,
-                        52.049361
-                  ]
-            },
-            {
-                  "name": "Westergouweplas",
-                  "text": "Westergouweplas is a swimming lake in Waddinxveen surrounded by green areas.",
-                  "category": "natural",
-                  "coords": [
-                        4.68601,
-                        52.001644
-                  ]
-            },
-            {
-                  "name": "Sloene",
-                  "text": "A local body of water near Waddinxveen for a quiet break.",
-                  "category": "natural",
-                  "coords": [
-                        4.742409,
-                        52.05242
-                  ]
-            },
-            {
-                  "name": "Klein Vogelenzang",
-                  "text": "A picturesque small lake in Waddinxveen, ideal for nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        4.753334,
-                        52.03832
-                  ]
-            },
-            {
-                  "name": "Kleine Elfhoeven",
-                  "text": "A peaceful lake near Waddinxveen that invites relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        4.74156,
-                        52.028544
-                  ]
-            },
-            {
-                  "name": "Nieuwenbroek",
-                  "text": "A body of water in Waddinxveen providing a nice backdrop for walks.",
-                  "category": "natural",
-                  "coords": [
-                        4.759962,
-                        52.029873
-                  ]
-            },
-            {
-                  "name": "Groot Vogelenzang",
-                  "text": "A spacious lake in Waddinxveen for nature experiences by the water.",
-                  "category": "natural",
-                  "coords": [
-                        4.751572,
-                        52.033984
-                  ]
-            },
-            {
-                  "name": "Elfhoeven",
-                  "text": "A well-known lake near Waddinxveen, ideal for recreation in the countryside.",
-                  "category": "natural",
-                  "coords": [
-                        4.729436,
-                        52.030456
-                  ]
-            },
-            {
-                  "name": "'t Weegje",
-                  "text": "An idyllic lake near Waddinxveen for quiet moments in nature.",
-                  "category": "natural",
-                  "coords": [
-                        4.668326,
-                        52.015827
-                  ]
-            },
-            {
-                  "name": "'s-Gravenbroek",
-                  "text": "'s-Gravenbroek is a natural area in Waddinxveen, a wetland with reeds and water bodies.",
-                  "category": "natural",
-                  "coords": [
-                        4.734098,
-                        52.037681
-                  ]
-            },
-            {
-                  "name": "Vrijhoef",
-                  "text": "A peaceful body of water near Waddinxveen, ideal for a break.",
-                  "category": "natural",
-                  "coords": [
-                        4.749209,
-                        52.025854
-                  ]
-            },
-            {
-                  "name": "Roggebroek",
-                  "text": "A lake in Waddinxveen offering a natural environment for recreation.",
-                  "category": "natural",
-                  "coords": [
-                        4.767006,
-                        52.025374
-                  ]
-            },
-            {
-                  "name": "'s-Gravenkoop",
-                  "text": "A local lake near Waddinxveen for relaxed hours by the water.",
-                  "category": "natural",
-                  "coords": [
-                        4.764831,
-                        52.039442
-                  ]
-            },
-            {
-                  "name": "Kalverbroek",
-                  "text": "A peaceful lake in Waddinxveen for quiet moments in nature.",
-                  "category": "natural",
-                  "coords": [
-                        4.758858,
-                        52.022789
-                  ]
-            },
-            {
-                  "name": "Ravensberg",
-                  "text": "A body of water near Waddinxveen, ideal for a short trip into the greenery.",
-                  "category": "natural",
-                  "coords": [
-                        4.74321,
-                        52.043657
-                  ]
-            },
-            {
-                  "name": "Rottemeren",
-                  "text": "A popular lake area near Waddinxveen for a variety of leisure activities.",
-                  "category": "natural",
-                  "coords": [
-                        4.552797,
-                        52.01083
-                  ]
-            },
-            {
-                  "name": "You Jump Gouda",
-                  "text": "A modern trampoline park in Waddinxveen for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        4.678772,
-                        52.027018
-                  ]
-            },
-            {
                   "name": "Minimasters Playground",
                   "text": "A local playground in Waddinxveen offering space for children to play outdoors.",
                   "category": "family",
@@ -53542,15 +51157,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.645736,
                         52.042749
-                  ]
-            },
-            {
-                  "name": "Speeltuin Eikelaan",
-                  "text": "A small playground in Waddinxveen that invites children to climb and play.",
-                  "category": "family",
-                  "coords": [
-                        4.687879,
-                        52.028844
                   ]
             },
             {
@@ -53590,30 +51196,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Groenhovenbad",
-                  "text": "Groenhovenbad in Waddinxveen is a water park featuring various pools for aquatic fun. Families can enjoy an active day in the water here.",
-                  "category": "family",
-                  "coords": [
-                        4.689282,
-                        52.023897
-                  ]
-            },
-            {
                   "name": "Luilakterrein",
                   "text": "Luilakterrein in Waddinxveen is a theme park offering entertainment for various age groups. It is a nice spot for an outdoor family excursion.",
                   "category": "family",
                   "coords": [
                         4.630096,
                         52.07611
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij De Goudse Hofsteden",
-                  "text": "Kinderboerderij De Goudse Hofsteden in Waddinxveen provides a natural setting with farm animals. A great place for families to spend time outdoors.",
-                  "category": "family",
-                  "coords": [
-                        4.696649,
-                        52.032513
                   ]
             },
             {
@@ -53674,48 +51262,12 @@ export const netherlandsCitiesV2: POI[] = [
     id: "netherlands-oegstgeest-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Japanmuseum SieboldHuis",
-                  "text": "Ein Museum in Oegstgeest, das der japanischen Kultur und Naturgeschichte gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        4.48453,
-                        52.159653
-                  ]
-            },
-            {
                   "name": "Endegeest",
                   "text": "Ein historisches Schloss in Oegstgeest, bekannt für seine Architektur.",
                   "category": "castle",
                   "coords": [
                         4.463135,
                         52.17262
-                  ]
-            },
-            {
-                  "name": "Naturalis Biodiversity Centre",
-                  "text": "Ein Naturkundemuseum in Oegstgeest mit einer großen Fossiliensammlung.",
-                  "category": "museum",
-                  "coords": [
-                        4.472888,
-                        52.164915
-                  ]
-            },
-            {
-                  "name": "Rijksmuseum Boerhaave",
-                  "text": "Das niederländische Nationalmuseum für die Geschichte der Naturwissenschaften und Medizin.",
-                  "category": "museum",
-                  "coords": [
-                        4.488904,
-                        52.161534
-                  ]
-            },
-            {
-                  "name": "De Grachtwacht",
-                  "text": "Ein kleines Museum, das sich dem Schutz und der Erforschung der Grachten widmet.",
-                  "category": "museum",
-                  "coords": [
-                        4.490028,
-                        52.162506
                   ]
             },
             {
@@ -53728,57 +51280,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "De Lakenhal",
-                  "text": "Das städtische Museum für Kunst und Geschichte in Leiden bei Oegstgeest.",
-                  "category": "museum",
-                  "coords": [
-                        4.487553,
-                        52.162986
-                  ]
-            },
-            {
-                  "name": "Wereldmuseum Leiden",
-                  "text": "Ein ethnologisches Museum mit bedeutenden Sammlungen aus aller Welt.",
-                  "category": "museum",
-                  "coords": [
-                        4.482444,
-                        52.163314
-                  ]
-            },
-            {
                   "name": "Oud Poelgeest",
                   "text": "Schloss Oud Poelgeest, erbaut 1650 in Oegstgeest.",
                   "category": "castle",
                   "coords": [
                         4.484833,
                         52.179635
-                  ]
-            },
-            {
-                  "name": "Morspoort",
-                  "text": "Ein monumentales ehemaliges Stadttor in Leiden bei Oegstgeest.",
-                  "category": "fortress",
-                  "coords": [
-                        4.48214,
-                        52.162042
-                  ]
-            },
-            {
-                  "name": "Stadsgehoorzaal",
-                  "text": "Ein bedeutendes Konzerthaus mit hervorragender Akustik in Leiden.",
-                  "category": "cultural",
-                  "coords": [
-                        4.489101,
-                        52.159682
-                  ]
-            },
-            {
-                  "name": "Scheltema",
-                  "text": "Ein Kulturzentrum in einer ehemaligen Fabrik in Leiden bei Oegstgeest.",
-                  "category": "cultural",
-                  "coords": [
-                        4.488852,
-                        52.163074
                   ]
             },
             {
@@ -53827,15 +51334,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hartebrugkerk",
-                  "text": "Eine auffällige katholische Kirche in der Innenstadt von Leiden.",
-                  "category": "religious",
-                  "coords": [
-                        4.490727,
-                        52.160614
-                  ]
-            },
-            {
                   "name": "Oudenhofmolen",
                   "text": "Eine Windmühle in Oegstgeest, ursprünglich eine Getreidemühle.",
                   "category": "landmark",
@@ -53872,66 +51370,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stadsmolen",
-                  "text": "Eine Windmühle in Oegstgeest, genannt „Stadsmolen“.",
-                  "category": "landmark",
-                  "coords": [
-                        4.497909,
-                        52.172461
-                  ]
-            },
-            {
                   "name": "Hoop Doet Leven",
                   "text": "Eine Windmühle in Oegstgeest, genannt „Hoop Doet Leven“.",
                   "category": "landmark",
                   "coords": [
                         4.47953,
                         52.210903
-                  ]
-            },
-            {
-                  "name": "De Herder",
-                  "text": "De Herder, eine Mühle von 1856 in Oegstgeest.",
-                  "category": "landmark",
-                  "coords": [
-                        4.489151,
-                        52.17352
-                  ]
-            },
-            {
-                  "name": "De Valk",
-                  "text": "De Valk ist eine historische Windmühle in Oegstgeest, ein Wahrzeichen der Region.",
-                  "category": "landmark",
-                  "coords": [
-                        4.486407,
-                        52.164517
-                  ]
-            },
-            {
-                  "name": "Maredijkmolen",
-                  "text": "Maredijkmolen, eine Mühle von 1908 in Oegstgeest.",
-                  "category": "landmark",
-                  "coords": [
-                        4.487164,
-                        52.172888
-                  ]
-            },
-            {
-                  "name": "Rembrandtbrug",
-                  "text": "Eine Brücke in Oegstgeest, benannt nach dem Maler Rembrandt.",
-                  "category": "landmark",
-                  "coords": [
-                        4.482165,
-                        52.161093
-                  ]
-            },
-            {
-                  "name": "Bostelbrug",
-                  "text": "Eine Brücke in Oegstgeest, die die Oude Rijn überquert.",
-                  "category": "landmark",
-                  "coords": [
-                        4.485335,
-                        52.161004
                   ]
             },
             {
@@ -54169,15 +51613,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vlietland",
-                  "text": "Ein bekanntes Erholungsgebiet mit See in Oegstgeest, ideal für Wassersport und Wandern.",
-                  "category": "natural",
-                  "coords": [
-                        4.451809,
-                        52.112646
-                  ]
-            },
-            {
                   "name": "Klinkenbergerplas",
                   "text": "Ein See in Oegstgeest, der beliebte Wanderwege und Naturerlebnisse bietet.",
                   "category": "natural",
@@ -54277,24 +51712,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zwembad De Zijl",
-                  "text": "Dieser Badebereich in Oegstgeest bietet eine angenehme Umgebung zum Schwimmen und für die Erholung im Wasser.",
-                  "category": "family",
-                  "coords": [
-                        4.514635,
-                        52.166834
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij Coebel",
-                  "text": "Dieser Streichelzoo in Oegstgeest ist ein schönes Ziel für Familien, um Tiere zu treffen und zu erleben.",
-                  "category": "family",
-                  "coords": [
-                        4.471071,
-                        52.151056
-                  ]
-            },
-            {
                   "name": "Kinderboerderij De Kloosterhof",
                   "text": "Dieser Streichelzoo in Oegstgeest ist ein schönes Ziel für Familien, um Tiere zu treffen und zu erleben.",
                   "category": "family",
@@ -54310,15 +51727,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.50835,
                         52.178356
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij Westerweide",
-                  "text": "Dieser Streichelzoo in Oegstgeest ist ein schönes Ziel für Familien, um Tiere zu treffen und zu erleben.",
-                  "category": "family",
-                  "coords": [
-                        4.434863,
-                        52.191213
                   ]
             },
             {
@@ -54338,27 +51746,9 @@ export const netherlandsCitiesV2: POI[] = [
                         4.50839,
                         52.194326
                   ]
-            },
-            {
-                  "name": "Zoeterwoudsesingel",
-                  "text": "Dieser Badebereich in Oegstgeest bietet eine angenehme Umgebung zum Schwimmen und für die Erholung im Wasser.",
-                  "category": "family",
-                  "coords": [
-                        4.500618,
-                        52.153712
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Japanmuseum SieboldHuis",
-                  "text": "Japán kultúrájával és természetrajzával foglalkozó múzeum Oegstgeestben.",
-                  "category": "museum",
-                  "coords": [
-                        4.48453,
-                        52.159653
-                  ]
-            },
             {
                   "name": "Endegeest",
                   "text": "Történelmi kastély Oegstgeestben, amely építészetéről nevezetes.",
@@ -54366,33 +51756,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.463135,
                         52.17262
-                  ]
-            },
-            {
-                  "name": "Naturalis Biodiversity Centre",
-                  "text": "Természettudományi múzeum Oegstgeestben, nagy fosszília-gyűjteménnyel.",
-                  "category": "museum",
-                  "coords": [
-                        4.472888,
-                        52.164915
-                  ]
-            },
-            {
-                  "name": "Rijksmuseum Boerhaave",
-                  "text": "Hollandia tudomány- és orvostörténeti nemzeti múzeuma.",
-                  "category": "museum",
-                  "coords": [
-                        4.488904,
-                        52.161534
-                  ]
-            },
-            {
-                  "name": "De Grachtwacht",
-                  "text": "Kisméretű múzeum, amely a csatornák védelmével és kutatásával foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        4.490028,
-                        52.162506
                   ]
             },
             {
@@ -54405,57 +51768,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "De Lakenhal",
-                  "text": "Leiden városi művészeti és történelmi múzeuma Oegstgeest közelében.",
-                  "category": "museum",
-                  "coords": [
-                        4.487553,
-                        52.162986
-                  ]
-            },
-            {
-                  "name": "Wereldmuseum Leiden",
-                  "text": "Néprajzi múzeum jelentős világkörüli gyűjteményekkel.",
-                  "category": "museum",
-                  "coords": [
-                        4.482444,
-                        52.163314
-                  ]
-            },
-            {
                   "name": "Oud Poelgeest",
                   "text": "Oud Poelgeest kastély, 1650-ben épült Oegstgeestben.",
                   "category": "castle",
                   "coords": [
                         4.484833,
                         52.179635
-                  ]
-            },
-            {
-                  "name": "Morspoort",
-                  "text": "Monumentális egykori városkapu Leidenben, Oegstgeest közelében.",
-                  "category": "fortress",
-                  "coords": [
-                        4.48214,
-                        52.162042
-                  ]
-            },
-            {
-                  "name": "Stadsgehoorzaal",
-                  "text": "Jelentős hangversenyterem kiváló akusztikával Leidenben.",
-                  "category": "cultural",
-                  "coords": [
-                        4.489101,
-                        52.159682
-                  ]
-            },
-            {
-                  "name": "Scheltema",
-                  "text": "Kulturális központ egy egykori gyár épületében Leidenben.",
-                  "category": "cultural",
-                  "coords": [
-                        4.488852,
-                        52.163074
                   ]
             },
             {
@@ -54504,15 +51822,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hartebrugkerk",
-                  "text": "Feltűnő katolikus templom Leiden belvárosában.",
-                  "category": "religious",
-                  "coords": [
-                        4.490727,
-                        52.160614
-                  ]
-            },
-            {
                   "name": "Oudenhofmolen",
                   "text": "Szélmalom Oegstgeestben, eredetileg gabonamalom.",
                   "category": "landmark",
@@ -54549,66 +51858,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stadsmolen",
-                  "text": "Szélmalom Oegstgeestben, „Stadsmolen” néven.",
-                  "category": "landmark",
-                  "coords": [
-                        4.497909,
-                        52.172461
-                  ]
-            },
-            {
                   "name": "Hoop Doet Leven",
                   "text": "Szélmalom Oegstgeestben, „Hoop Doet Leven” néven.",
                   "category": "landmark",
                   "coords": [
                         4.47953,
                         52.210903
-                  ]
-            },
-            {
-                  "name": "De Herder",
-                  "text": "De Herder, 1856-ban épült malom Oegstgeestben.",
-                  "category": "landmark",
-                  "coords": [
-                        4.489151,
-                        52.17352
-                  ]
-            },
-            {
-                  "name": "De Valk",
-                  "text": "A De Valk egy történelmi szélmalom Oegstgeestben, a vidék jelképe.",
-                  "category": "landmark",
-                  "coords": [
-                        4.486407,
-                        52.164517
-                  ]
-            },
-            {
-                  "name": "Maredijkmolen",
-                  "text": "Maredijkmolen, 1908-ban épült malom Oegstgeestben.",
-                  "category": "landmark",
-                  "coords": [
-                        4.487164,
-                        52.172888
-                  ]
-            },
-            {
-                  "name": "Rembrandtbrug",
-                  "text": "Híd Oegstgeestben, Rembrandt festőről elnevezve.",
-                  "category": "landmark",
-                  "coords": [
-                        4.482165,
-                        52.161093
-                  ]
-            },
-            {
-                  "name": "Bostelbrug",
-                  "text": "Híd Oegstgeestben, amely az Oude Rijn folyón ível át.",
-                  "category": "landmark",
-                  "coords": [
-                        4.485335,
-                        52.161004
                   ]
             },
             {
@@ -54846,15 +52101,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vlietland",
-                  "text": "Ismert üdülőövezet tóval Oegstgeestben, amely ideális vízi sportokhoz és túrázáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        4.451809,
-                        52.112646
-                  ]
-            },
-            {
                   "name": "Klinkenbergerplas",
                   "text": "Tó Oegstgeest területén, amely népszerű túraútvonalakat és természeti élményeket kínál.",
                   "category": "natural",
@@ -54954,24 +52200,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zwembad De Zijl",
-                  "text": "Ez a Oegstgeest területén található fürdőhely kellemes környezetet biztosít az úszáshoz und a vízi kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        4.514635,
-                        52.166834
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij Coebel",
-                  "text": "Ez a Oegstgeest városában található állatsimogató kedves úti cél a családok számára az állatokkal való találkozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        4.471071,
-                        52.151056
-                  ]
-            },
-            {
                   "name": "Kinderboerderij De Kloosterhof",
                   "text": "Ez a Oegstgeest városában található állatsimogató kedves úti cél a családok számára az állatokkal való találkozáshoz.",
                   "category": "family",
@@ -54987,15 +52215,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.50835,
                         52.178356
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij Westerweide",
-                  "text": "Ez a Oegstgeest városában található állatsimogató kedves úti cél a családok számára az állatokkal való találkozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        4.434863,
-                        52.191213
                   ]
             },
             {
@@ -55015,27 +52234,9 @@ export const netherlandsCitiesV2: POI[] = [
                         4.50839,
                         52.194326
                   ]
-            },
-            {
-                  "name": "Zoeterwoudsesingel",
-                  "text": "Ez a Oegstgeest területén található fürdőhely kellemes környezetet biztosít az úszáshoz és a vízi kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        4.500618,
-                        52.153712
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Japanmuseum SieboldHuis",
-                  "text": "Un muzeu din Oegstgeest dedicat culturii și istoriei naturale a Japoniei.",
-                  "category": "museum",
-                  "coords": [
-                        4.48453,
-                        52.159653
-                  ]
-            },
             {
                   "name": "Endegeest",
                   "text": "Un castel istoric în Oegstgeest, cunoscut pentru arhitectura sa.",
@@ -55043,33 +52244,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.463135,
                         52.17262
-                  ]
-            },
-            {
-                  "name": "Naturalis Biodiversity Centre",
-                  "text": "Un muzeu de istorie naturală în Oegstgeest, cu o colecție mare de fosile.",
-                  "category": "museum",
-                  "coords": [
-                        4.472888,
-                        52.164915
-                  ]
-            },
-            {
-                  "name": "Rijksmuseum Boerhaave",
-                  "text": "Muzeul național al Olandei pentru istoria științei și a medicinei.",
-                  "category": "museum",
-                  "coords": [
-                        4.488904,
-                        52.161534
-                  ]
-            },
-            {
-                  "name": "De Grachtwacht",
-                  "text": "Un mic muzeu dedicat protejării și cercetării canalelor.",
-                  "category": "museum",
-                  "coords": [
-                        4.490028,
-                        52.162506
                   ]
             },
             {
@@ -55082,57 +52256,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "De Lakenhal",
-                  "text": "Muzeul municipal de artă și istorie din Leiden, lângă Oegstgeest.",
-                  "category": "museum",
-                  "coords": [
-                        4.487553,
-                        52.162986
-                  ]
-            },
-            {
-                  "name": "Wereldmuseum Leiden",
-                  "text": "Un muzeu etnologic cu colecții importante din întreaga lume.",
-                  "category": "museum",
-                  "coords": [
-                        4.482444,
-                        52.163314
-                  ]
-            },
-            {
                   "name": "Oud Poelgeest",
                   "text": "Castelul Oud Poelgeest, construit în 1650 în Oegstgeest.",
                   "category": "castle",
                   "coords": [
                         4.484833,
                         52.179635
-                  ]
-            },
-            {
-                  "name": "Morspoort",
-                  "text": "O fostă poartă monumentală a orașului în Leiden, lângă Oegstgeest.",
-                  "category": "fortress",
-                  "coords": [
-                        4.48214,
-                        52.162042
-                  ]
-            },
-            {
-                  "name": "Stadsgehoorzaal",
-                  "text": "O sală de concerte importantă cu o acustică excelentă în Leiden.",
-                  "category": "cultural",
-                  "coords": [
-                        4.489101,
-                        52.159682
-                  ]
-            },
-            {
-                  "name": "Scheltema",
-                  "text": "Un centru cultural găzduit într-o fostă fabrică din Leiden.",
-                  "category": "cultural",
-                  "coords": [
-                        4.488852,
-                        52.163074
                   ]
             },
             {
@@ -55181,15 +52310,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hartebrugkerk",
-                  "text": "O biserică catolică impresionantă în centrul orașului Leiden.",
-                  "category": "religious",
-                  "coords": [
-                        4.490727,
-                        52.160614
-                  ]
-            },
-            {
                   "name": "Oudenhofmolen",
                   "text": "O moară de vânt în Oegstgeest, inițial o moară de cereale.",
                   "category": "landmark",
@@ -55226,66 +52346,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stadsmolen",
-                  "text": "O moară de vânt în Oegstgeest, numită „Stadsmolen”.",
-                  "category": "landmark",
-                  "coords": [
-                        4.497909,
-                        52.172461
-                  ]
-            },
-            {
                   "name": "Hoop Doet Leven",
                   "text": "O moară de vânt în Oegstgeest, numită „Hoop Doet Leven”.",
                   "category": "landmark",
                   "coords": [
                         4.47953,
                         52.210903
-                  ]
-            },
-            {
-                  "name": "De Herder",
-                  "text": "Moara De Herder, construită în 1856 în Oegstgeest.",
-                  "category": "landmark",
-                  "coords": [
-                        4.489151,
-                        52.17352
-                  ]
-            },
-            {
-                  "name": "De Valk",
-                  "text": "De Valk este o moară de vânt istorică în Oegstgeest, un simbol al regiunii.",
-                  "category": "landmark",
-                  "coords": [
-                        4.486407,
-                        52.164517
-                  ]
-            },
-            {
-                  "name": "Maredijkmolen",
-                  "text": "Moara Maredijkmolen, construită în 1908 în Oegstgeest.",
-                  "category": "landmark",
-                  "coords": [
-                        4.487164,
-                        52.172888
-                  ]
-            },
-            {
-                  "name": "Rembrandtbrug",
-                  "text": "Un pod în Oegstgeest, numit după pictorul Rembrandt.",
-                  "category": "landmark",
-                  "coords": [
-                        4.482165,
-                        52.161093
-                  ]
-            },
-            {
-                  "name": "Bostelbrug",
-                  "text": "Un pod în Oegstgeest care traversează Oude Rijn.",
-                  "category": "landmark",
-                  "coords": [
-                        4.485335,
-                        52.161004
                   ]
             },
             {
@@ -55523,15 +52589,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vlietland",
-                  "text": "O zonă de recreere cunoscută cu lac în Oegstgeest, ideală pentru sporturi nautice și drumeții.",
-                  "category": "natural",
-                  "coords": [
-                        4.451809,
-                        52.112646
-                  ]
-            },
-            {
                   "name": "Klinkenbergerplas",
                   "text": "Un lac în Oegstgeest, care oferă trasee de drumeție populare și experiențe în natură.",
                   "category": "natural",
@@ -55631,24 +52688,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zwembad De Zijl",
-                  "text": "Această zonă de înot din Oegstgeest oferă un mediu plăcut pentru înot și recreere acvatică.",
-                  "category": "family",
-                  "coords": [
-                        4.514635,
-                        52.166834
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij Coebel",
-                  "text": "Această fermă de animale din Oegstgeest este o destinație minunată pentru familiile care doresc să vadă și să interacționeze cu animalele.",
-                  "category": "family",
-                  "coords": [
-                        4.471071,
-                        52.151056
-                  ]
-            },
-            {
                   "name": "Kinderboerderij De Kloosterhof",
                   "text": "Această fermă de animale din Oegstgeest este o destinație minunată pentru familiile care doresc să vadă și să interacționeze cu animalele.",
                   "category": "family",
@@ -55664,15 +52703,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.50835,
                         52.178356
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij Westerweide",
-                  "text": "Această fermă de animale din Oegstgeest este o destinație minunată pentru familiile care doresc să vadă și să interacționeze cu animalele.",
-                  "category": "family",
-                  "coords": [
-                        4.434863,
-                        52.191213
                   ]
             },
             {
@@ -55692,27 +52722,9 @@ export const netherlandsCitiesV2: POI[] = [
                         4.50839,
                         52.194326
                   ]
-            },
-            {
-                  "name": "Zoeterwoudsesingel",
-                  "text": "Această zonă de înot din Oegstgeest oferă un mediu plăcut pentru înot și recreere acvatică.",
-                  "category": "family",
-                  "coords": [
-                        4.500618,
-                        52.153712
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Japanmuseum SieboldHuis",
-                  "text": "A museum in Oegstgeest dedicated to Japanese culture and natural history.",
-                  "category": "museum",
-                  "coords": [
-                        4.48453,
-                        52.159653
-                  ]
-            },
             {
                   "name": "Endegeest",
                   "text": "A historic castle in Oegstgeest, known for its architecture.",
@@ -55720,33 +52732,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.463135,
                         52.17262
-                  ]
-            },
-            {
-                  "name": "Naturalis Biodiversity Centre",
-                  "text": "A natural history museum in Oegstgeest, with a large fossil collection.",
-                  "category": "museum",
-                  "coords": [
-                        4.472888,
-                        52.164915
-                  ]
-            },
-            {
-                  "name": "Rijksmuseum Boerhaave",
-                  "text": "The Dutch national museum for the history of science and medicine.",
-                  "category": "museum",
-                  "coords": [
-                        4.488904,
-                        52.161534
-                  ]
-            },
-            {
-                  "name": "De Grachtwacht",
-                  "text": "A small museum dedicated to the protection and study of the canals.",
-                  "category": "museum",
-                  "coords": [
-                        4.490028,
-                        52.162506
                   ]
             },
             {
@@ -55759,57 +52744,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "De Lakenhal",
-                  "text": "The municipal museum of art and history in Leiden, near Oegstgeest.",
-                  "category": "museum",
-                  "coords": [
-                        4.487553,
-                        52.162986
-                  ]
-            },
-            {
-                  "name": "Wereldmuseum Leiden",
-                  "text": "An ethnological museum with significant collections from all over the world.",
-                  "category": "museum",
-                  "coords": [
-                        4.482444,
-                        52.163314
-                  ]
-            },
-            {
                   "name": "Oud Poelgeest",
                   "text": "Oud Poelgeest castle, built in 1650 in Oegstgeest.",
                   "category": "castle",
                   "coords": [
                         4.484833,
                         52.179635
-                  ]
-            },
-            {
-                  "name": "Morspoort",
-                  "text": "A monumental former city gate in Leiden, near Oegstgeest.",
-                  "category": "fortress",
-                  "coords": [
-                        4.48214,
-                        52.162042
-                  ]
-            },
-            {
-                  "name": "City Concert Hall Leiden",
-                  "text": "A major concert hall in Leiden known for its excellent acoustics.",
-                  "category": "cultural",
-                  "coords": [
-                        4.489101,
-                        52.159682
-                  ]
-            },
-            {
-                  "name": "Scheltema",
-                  "text": "A cultural centre housed in a former factory in Leiden.",
-                  "category": "cultural",
-                  "coords": [
-                        4.488852,
-                        52.163074
                   ]
             },
             {
@@ -55858,15 +52798,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hartebrugkerk",
-                  "text": "A striking Catholic church located in the city centre of Leiden.",
-                  "category": "religious",
-                  "coords": [
-                        4.490727,
-                        52.160614
-                  ]
-            },
-            {
                   "name": "Oudenhofmolen",
                   "text": "A windmill in Oegstgeest, originally a corn mill.",
                   "category": "landmark",
@@ -55903,66 +52834,12 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stadsmolen",
-                  "text": "A windmill in Oegstgeest, called 'Stadsmolen'.",
-                  "category": "landmark",
-                  "coords": [
-                        4.497909,
-                        52.172461
-                  ]
-            },
-            {
                   "name": "Hoop Doet Leven",
                   "text": "A windmill in Oegstgeest, named 'Hoop Doet Leven'.",
                   "category": "landmark",
                   "coords": [
                         4.47953,
                         52.210903
-                  ]
-            },
-            {
-                  "name": "De Herder",
-                  "text": "De Herder, a mill built in 1856 in Oegstgeest.",
-                  "category": "landmark",
-                  "coords": [
-                        4.489151,
-                        52.17352
-                  ]
-            },
-            {
-                  "name": "De Valk",
-                  "text": "De Valk is a historic windmill in Oegstgeest, a landmark of the area.",
-                  "category": "landmark",
-                  "coords": [
-                        4.486407,
-                        52.164517
-                  ]
-            },
-            {
-                  "name": "Maredijkmolen",
-                  "text": "Maredijkmolen, a mill built in 1908 in Oegstgeest.",
-                  "category": "landmark",
-                  "coords": [
-                        4.487164,
-                        52.172888
-                  ]
-            },
-            {
-                  "name": "Rembrandtbrug",
-                  "text": "A bridge in Oegstgeest, named after painter Rembrandt.",
-                  "category": "landmark",
-                  "coords": [
-                        4.482165,
-                        52.161093
-                  ]
-            },
-            {
-                  "name": "Bostelbrug",
-                  "text": "A bridge in Oegstgeest crossing the Oude Rijn.",
-                  "category": "landmark",
-                  "coords": [
-                        4.485335,
-                        52.161004
                   ]
             },
             {
@@ -56200,15 +53077,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Vlietland",
-                  "text": "A well-known recreation area with a lake in Oegstgeest, ideal for water sports and hiking.",
-                  "category": "natural",
-                  "coords": [
-                        4.451809,
-                        52.112646
-                  ]
-            },
-            {
                   "name": "Klinkenbergerplas",
                   "text": "A lake in Oegstgeest offering popular hiking trails and nature experiences.",
                   "category": "natural",
@@ -56308,24 +53176,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Zwembad De Zijl",
-                  "text": "This swimming area in Oegstgeest provides a pleasant environment for swimming and water recreation.",
-                  "category": "family",
-                  "coords": [
-                        4.514635,
-                        52.166834
-                  ]
-            },
-            {
-                  "name": "Kinderboerderij Coebel",
-                  "text": "This petting zoo in Oegstgeest is a lovely destination for families to meet and interact with animals.",
-                  "category": "family",
-                  "coords": [
-                        4.471071,
-                        52.151056
-                  ]
-            },
-            {
                   "name": "Kinderboerderij De Kloosterhof",
                   "text": "This petting zoo in Oegstgeest is a lovely destination for families to meet and interact with animals.",
                   "category": "family",
@@ -56344,15 +53194,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kinderboerderij Westerweide",
-                  "text": "This petting zoo in Oegstgeest is a lovely destination for families to meet and interact with animals.",
-                  "category": "family",
-                  "coords": [
-                        4.434863,
-                        52.191213
-                  ]
-            },
-            {
                   "name": "Hertenkamp",
                   "text": "This deer park in Oegstgeest offers a quiet environment for a family walk and animal observation.",
                   "category": "family",
@@ -56368,15 +53209,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.50839,
                         52.194326
-                  ]
-            },
-            {
-                  "name": "Zoeterwoudsesingel",
-                  "text": "This swimming area in Oegstgeest provides a pleasant environment for swimming and water recreation.",
-                  "category": "family",
-                  "coords": [
-                        4.500618,
-                        52.153712
                   ]
             }
       ]
@@ -56462,24 +53294,6 @@ export const netherlandsCitiesV2: POI[] = [
                         5.604727,
                         51.889435
                   ]
-            },
-            {
-                  "name": "Grebbeplas",
-                  "text": "Die Grebbeplas bei Druten ist ein See, der Gelegenheiten für Erholung in der Natur bietet.",
-                  "category": "natural",
-                  "coords": [
-                        5.585953,
-                        51.953921
-                  ]
-            },
-            {
-                  "name": "Lingemeer 1",
-                  "text": "Das Lingemeer 1 bei Druten ist ein künstlicher See, der eine friedliche Umgebung am Wasser bietet.",
-                  "category": "natural",
-                  "coords": [
-                        5.487182,
-                        51.922993
-                  ]
             }
       ],
       "hu": [
@@ -56517,24 +53331,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.604727,
                         51.889435
-                  ]
-            },
-            {
-                  "name": "Grebbeplas",
-                  "text": "A Druten melletti Grebbeplas egy tó, amely lehetőséget nyújt a természetben való pihenésre.",
-                  "category": "natural",
-                  "coords": [
-                        5.585953,
-                        51.953921
-                  ]
-            },
-            {
-                  "name": "Lingemeer 1",
-                  "text": "A Druten melletti Lingemeer 1 egy mesterséges tó, amely békés környezetet kínál a vízparton.",
-                  "category": "natural",
-                  "coords": [
-                        5.487182,
-                        51.922993
                   ]
             }
       ],
@@ -56574,24 +53370,6 @@ export const netherlandsCitiesV2: POI[] = [
                         5.604727,
                         51.889435
                   ]
-            },
-            {
-                  "name": "Grebbeplas",
-                  "text": "Grebbeplas de lângă Druten este un lac ce oferă oportunități de relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        5.585953,
-                        51.953921
-                  ]
-            },
-            {
-                  "name": "Lingemeer 1",
-                  "text": "Lingemeer 1 de lângă Druten este un lac artificial care oferă un mediu pașnic lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        5.487182,
-                        51.922993
-                  ]
             }
       ],
       "en": [
@@ -56629,24 +53407,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         5.604727,
                         51.889435
-                  ]
-            },
-            {
-                  "name": "Grebbeplas",
-                  "text": "Grebbeplas near Druten is a lake providing opportunities for relaxation in nature.",
-                  "category": "natural",
-                  "coords": [
-                        5.585953,
-                        51.953921
-                  ]
-            },
-            {
-                  "name": "Lingemeer 1",
-                  "text": "Lingemeer 1 near Druten is a man-made lake offering a peaceful waterside environment.",
-                  "category": "natural",
-                  "coords": [
-                        5.487182,
-                        51.922993
                   ]
             }
       ]
@@ -57760,15 +54520,6 @@ export const netherlandsCitiesV2: POI[] = [
     id: "netherlands-heilo-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Uitgeestermeer",
-                  "text": "Ein großer See bei Heiloo, ideal für Wassersport und Erholung in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        4.733535,
-                        52.532729
-                  ]
-            },
-            {
                   "name": "Het Die",
                   "text": "Ein ruhiges Gewässer in Heiloo, das zu entspannten Spaziergängen einlädt.",
                   "category": "natural",
@@ -57796,15 +54547,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Limmergat",
-                  "text": "Ein lokaler See bei Heiloo, der zum Verweilen und Beobachten der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        4.737737,
-                        52.542016
-                  ]
-            },
-            {
                   "name": "Alkmaardermeer",
                   "text": "Ein bekannter See bei Heiloo, beliebt für seine schöne Landschaft und Freizeitaktivitäten.",
                   "category": "natural",
@@ -57823,24 +54565,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Speeltuin De Hoef",
-                  "text": "Ein gepflegter Spielplatz in Heiloo, der Spaß im Freien für Familien bietet.",
-                  "category": "family",
-                  "coords": [
-                        4.719681,
-                        52.626624
-                  ]
-            },
-            {
-                  "name": "De Kabouterhoek",
-                  "text": "Ein lokaler Spielbereich in Heiloo mit Geräten für junge Kinder.",
-                  "category": "family",
-                  "coords": [
-                        4.731421,
-                        52.625502
-                  ]
-            },
-            {
                   "name": "Het Baafje",
                   "text": "Het Baafje in Heiloo ist ein Freibad, das an warmen Tagen zur Abkühlung und Erholung einlädt. Es bietet Badespaß für Kinder und Erwachsene.",
                   "category": "family",
@@ -57856,15 +54580,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.688588,
                         52.608668
-                  ]
-            },
-            {
-                  "name": "Zwemles op Maat",
-                  "text": "Zwemles op Maat in Heiloo ist eine Schwimmeinrichtung, die auf den Unterricht spezialisiert ist. Familien finden hier Möglichkeiten zur Wassergewöhnung und zum Lernen.",
-                  "category": "family",
-                  "coords": [
-                        4.749927,
-                        52.62881
                   ]
             },
             {
@@ -57915,15 +54630,6 @@ export const netherlandsCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Uitgeestermeer",
-                  "text": "Nagy kiterjedésű tó Heiloo közelében, amely ideális vízi sportokhoz és pihenéshez.",
-                  "category": "natural",
-                  "coords": [
-                        4.733535,
-                        52.532729
-                  ]
-            },
-            {
                   "name": "Het Die",
                   "text": "Csendes vízfelület Heiloonál, amely pihentető sétákra hívogat.",
                   "category": "natural",
@@ -57951,15 +54657,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Limmergat",
-                  "text": "Helyi tó Heiloo közelében, amely pihenésre és természetfigyelésre csábít.",
-                  "category": "natural",
-                  "coords": [
-                        4.737737,
-                        52.542016
-                  ]
-            },
-            {
                   "name": "Alkmaardermeer",
                   "text": "Ismert tó Heiloo mellett, amely népszerű szép tája és szabadidős lehetőségei miatt.",
                   "category": "natural",
@@ -57978,24 +54675,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Speeltuin De Hoef",
-                  "text": "Gondozott játszótér Heiloonál, amely szabadtéri szórakozást kínál a családoknak.",
-                  "category": "family",
-                  "coords": [
-                        4.719681,
-                        52.626624
-                  ]
-            },
-            {
-                  "name": "De Kabouterhoek",
-                  "text": "Helyi játszóterület Heiloonál, játékokkal kisgyermekek számára.",
-                  "category": "family",
-                  "coords": [
-                        4.731421,
-                        52.625502
-                  ]
-            },
-            {
                   "name": "Het Baafje",
                   "text": "A heilooi Het Baafje egy szabadtéri úszómedence, amely hűsölésre és kikapcsolódásra hív a meleg napokon. Úszási élményt nyújt gyerekeknek és felnőtteknek egyaránt.",
                   "category": "family",
@@ -58011,15 +54690,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.688588,
                         52.608668
-                  ]
-            },
-            {
-                  "name": "Zwemles op Maat",
-                  "text": "A heilooi Zwemles op Maat egy úszásoktatásra szakosodott létesítmény. A családok itt lehetőséget találnak a vízhez szoktatásra és a tanulásra.",
-                  "category": "family",
-                  "coords": [
-                        4.749927,
-                        52.62881
                   ]
             },
             {
@@ -58070,15 +54740,6 @@ export const netherlandsCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Uitgeestermeer",
-                  "text": "Un lac mare lângă Heiloo, ideal pentru sporturi nautice și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        4.733535,
-                        52.532729
-                  ]
-            },
-            {
                   "name": "Het Die",
                   "text": "O apă liniștită în Heiloo, care invită la plimbări relaxante.",
                   "category": "natural",
@@ -58106,15 +54767,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Limmergat",
-                  "text": "Un lac local lângă Heiloo care vă invită să petreceți timp admirând natura.",
-                  "category": "natural",
-                  "coords": [
-                        4.737737,
-                        52.542016
-                  ]
-            },
-            {
                   "name": "Alkmaardermeer",
                   "text": "Un lac cunoscut lângă Heiloo, popular pentru peisajul său frumos și activitățile de recreere.",
                   "category": "natural",
@@ -58133,24 +54785,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Speeltuin De Hoef",
-                  "text": "Un loc de joacă bine întreținut în Heiloo, oferind distracție în aer liber pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        4.719681,
-                        52.626624
-                  ]
-            },
-            {
-                  "name": "De Kabouterhoek",
-                  "text": "O zonă de joacă locală în Heiloo cu echipamente pentru copii mici.",
-                  "category": "family",
-                  "coords": [
-                        4.731421,
-                        52.625502
-                  ]
-            },
-            {
                   "name": "Het Baafje",
                   "text": "Het Baafje din Heiloo este o piscină în aer liber care invită la răcorire și recreere în zilele calde. Oferă distracție la înot pentru copii și adulți.",
                   "category": "family",
@@ -58166,15 +54800,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.688588,
                         52.608668
-                  ]
-            },
-            {
-                  "name": "Zwemles op Maat",
-                  "text": "Zwemles op Maat din Heiloo este o facilitate de înot specializată în lecții. Familiile găsesc aici oportunități pentru acomodarea cu apa și învățare.",
-                  "category": "family",
-                  "coords": [
-                        4.749927,
-                        52.62881
                   ]
             },
             {
@@ -58225,15 +54850,6 @@ export const netherlandsCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Uitgeestermeer",
-                  "text": "A large lake near Heiloo, ideal for water sports and recreation in nature.",
-                  "category": "natural",
-                  "coords": [
-                        4.733535,
-                        52.532729
-                  ]
-            },
-            {
                   "name": "Het Die",
                   "text": "A quiet body of water in Heiloo that invites relaxing walks.",
                   "category": "natural",
@@ -58261,15 +54877,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Limmergat",
-                  "text": "A local lake near Heiloo that invites you to linger and observe nature.",
-                  "category": "natural",
-                  "coords": [
-                        4.737737,
-                        52.542016
-                  ]
-            },
-            {
                   "name": "Alkmaardermeer",
                   "text": "A well-known lake near Heiloo, popular for its beautiful scenery and leisure activities.",
                   "category": "natural",
@@ -58288,24 +54895,6 @@ export const netherlandsCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Speeltuin De Hoef",
-                  "text": "A well-maintained playground in Heiloo offering outdoor fun for families.",
-                  "category": "family",
-                  "coords": [
-                        4.719681,
-                        52.626624
-                  ]
-            },
-            {
-                  "name": "De Kabouterhoek",
-                  "text": "A local play area in Heiloo with equipment for young children.",
-                  "category": "family",
-                  "coords": [
-                        4.731421,
-                        52.625502
-                  ]
-            },
-            {
                   "name": "Het Baafje",
                   "text": "Het Baafje in Heiloo is an outdoor swimming pool inviting for cooling off and recreation on warm days. It offers swimming fun for both kids and adults.",
                   "category": "family",
@@ -58321,15 +54910,6 @@ export const netherlandsCitiesV2: POI[] = [
                   "coords": [
                         4.688588,
                         52.608668
-                  ]
-            },
-            {
-                  "name": "Zwemles op Maat",
-                  "text": "Zwemles op Maat in Heiloo is a swimming facility specializing in lessons. Families find opportunities here for water familiarization and learning.",
-                  "category": "family",
-                  "coords": [
-                        4.749927,
-                        52.62881
                   ]
             },
             {

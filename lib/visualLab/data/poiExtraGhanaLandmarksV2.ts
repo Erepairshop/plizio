@@ -3561,24 +3561,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
                         -1.736867,
                         4.959058
                   ]
-            },
-            {
-                  "name": "Enam Ase",
-                  "text": "Ein lokaler monumentaler Marker im Stadionbezirk Essipong.",
-                  "category": "historical",
-                  "coords": [
-                        -1.709899,
-                        4.934163
-                  ]
-            },
-            {
-                  "name": "Fort Orange",
-                  "text": "Ein historischer Küstenleuchtturm, der den Seeverkehr in der Nähe von Essipong lenkt.",
-                  "category": "landmark",
-                  "coords": [
-                        -1.707371,
-                        4.935588
-                  ]
             }
       ],
       "hu": [
@@ -3598,24 +3580,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
                   "coords": [
                         -1.736867,
                         4.959058
-                  ]
-            },
-            {
-                  "name": "Enam Ase",
-                  "text": "Egy helyi monumentális jelzőkő az Essipong stadion körzetében.",
-                  "category": "historical",
-                  "coords": [
-                        -1.709899,
-                        4.934163
-                  ]
-            },
-            {
-                  "name": "Fort Orange",
-                  "text": "Egy történelmi tengerparti világítótorony, amely a tengeri forgalmat irányítja Essipong közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -1.707371,
-                        4.935588
                   ]
             }
       ],
@@ -3637,24 +3601,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
                         -1.736867,
                         4.959058
                   ]
-            },
-            {
-                  "name": "Enam Ase",
-                  "text": "Un marcaj monumental local situat în districtul stadionului Essipong.",
-                  "category": "historical",
-                  "coords": [
-                        -1.709899,
-                        4.934163
-                  ]
-            },
-            {
-                  "name": "Fort Orange",
-                  "text": "O structură istorică de far de coastă construită pentru a ghida traficul maritim lângă Essipong.",
-                  "category": "landmark",
-                  "coords": [
-                        -1.707371,
-                        4.935588
-                  ]
             }
       ],
       "en": [
@@ -3674,24 +3620,6 @@ export const poiExtraGhanaLandmarksV2: POI[] = [
                   "coords": [
                         -1.736867,
                         4.959058
-                  ]
-            },
-            {
-                  "name": "Enam Ase",
-                  "text": "A local monumental marker situated within the Essipong stadium district.",
-                  "category": "historical",
-                  "coords": [
-                        -1.709899,
-                        4.934163
-                  ]
-            },
-            {
-                  "name": "Fort Orange",
-                  "text": "A historic coastal lighthouse structure built to guide maritime traffic near Essipong.",
-                  "category": "landmark",
-                  "coords": [
-                        -1.707371,
-                        4.935588
                   ]
             }
       ]

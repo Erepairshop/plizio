@@ -69,15 +69,6 @@ imageHint: "Dukla Pass World War II memorial and tank museum",
                   ]
             },
             {
-                  "name": "Hrádok",
-                  "text": "Eine archäologische Fundstelle einer historischen Siedlung bei Havránok.",
-                  "category": "historical",
-                  "coords": [
-                        19.446023,
-                        49.090981
-                  ]
-            },
-            {
                   "name": "Zvieratkovo",
                   "text": "Ein kleiner Streichelzoo und Freizeitpark für Familien in Havránok.",
                   "category": "recreational",
@@ -96,30 +87,12 @@ imageHint: "Dukla Pass World War II memorial and tank museum",
                   ]
             },
             {
-                  "name": "Kaštieľ rodiny Kubíni",
-                  "text": "Ein historisches Herrenhaus der Familie Kubínyi im Dorf Vyšný Kubín.",
-                  "category": "historical",
-                  "coords": [
-                        19.474861,
-                        49.093652
-                  ]
-            },
-            {
                   "name": "Travertínová veža v Bešeňovej",
                   "text": "Eine markante natürliche Travertinformation in der Nähe von Bešeňová.",
                   "category": "landmark",
                   "coords": [
                         19.434555,
                         49.107144
-                  ]
-            },
-            {
-                  "name": "Pláž Trnovec",
-                  "text": "Ein Strandresort am Liptauer Stausee in der Nähe der archäologischen Fundstätte Havránok.",
-                  "category": "recreational",
-                  "coords": [
-                        19.545698,
-                        49.109071
                   ]
             }
       ],
@@ -143,15 +116,6 @@ imageHint: "Dukla Pass World War II memorial and tank museum",
                   ]
             },
             {
-                  "name": "Hrádok",
-                  "text": "Történelmi település régészeti lelőhelye Havránok közelében.",
-                  "category": "historical",
-                  "coords": [
-                        19.446023,
-                        49.090981
-                  ]
-            },
-            {
                   "name": "Zvieratkovo",
                   "text": "Kisméretű állatsimogató és szabadidőpark családok számára Havránokban.",
                   "category": "recreational",
@@ -170,30 +134,12 @@ imageHint: "Dukla Pass World War II memorial and tank museum",
                   ]
             },
             {
-                  "name": "Kaštieľ rodiny Kubíni",
-                  "text": "A Kubínyi család történelmi kúriája Felsőkubin faluban.",
-                  "category": "historical",
-                  "coords": [
-                        19.474861,
-                        49.093652
-                  ]
-            },
-            {
                   "name": "Travertínová veža v Bešeňovej",
                   "text": "Jellegzetes természetes travertin képződmény Bešeňová közelében.",
                   "category": "landmark",
                   "coords": [
                         19.434555,
                         49.107144
-                  ]
-            },
-            {
-                  "name": "Pláž Trnovec",
-                  "text": "Strand és üdülőhely a Szentmáriai-víztározó partján, Havránok közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        19.545698,
-                        49.109071
                   ]
             }
       ],
@@ -217,15 +163,6 @@ imageHint: "Dukla Pass World War II memorial and tank museum",
                   ]
             },
             {
-                  "name": "Hrádok",
-                  "text": "Un sit arheologic al unei așezări istorice lângă Havránok.",
-                  "category": "historical",
-                  "coords": [
-                        19.446023,
-                        49.090981
-                  ]
-            },
-            {
                   "name": "Zvieratkovo",
                   "text": "O mică grădină zoologică și parc de agrement pentru familii în Havránok.",
                   "category": "recreational",
@@ -244,30 +181,12 @@ imageHint: "Dukla Pass World War II memorial and tank museum",
                   ]
             },
             {
-                  "name": "Kaštieľ rodiny Kubíni",
-                  "text": "Un conac istoric al familiei Kubínyi din satul Vyšný Kubín.",
-                  "category": "historical",
-                  "coords": [
-                        19.474861,
-                        49.093652
-                  ]
-            },
-            {
                   "name": "Travertínová veža v Bešeňovej",
                   "text": "O formațiune naturală de travertin situată lângă Bešeňová.",
                   "category": "landmark",
                   "coords": [
                         19.434555,
                         49.107144
-                  ]
-            },
-            {
-                  "name": "Pláž Trnovec",
-                  "text": "O stațiune de plajă pe malul lacului de acumulare Liptovská Mara, în apropiere de Havránok.",
-                  "category": "recreational",
-                  "coords": [
-                        19.545698,
-                        49.109071
                   ]
             }
       ],
@@ -291,15 +210,6 @@ imageHint: "Dukla Pass World War II memorial and tank museum",
                   ]
             },
             {
-                  "name": "Hrádok",
-                  "text": "An archaeological site of a historical settlement near Havránok.",
-                  "category": "historical",
-                  "coords": [
-                        19.446023,
-                        49.090981
-                  ]
-            },
-            {
                   "name": "Zvieratkovo",
                   "text": "A small petting zoo and leisure park for families in Havránok.",
                   "category": "recreational",
@@ -318,30 +228,12 @@ imageHint: "Dukla Pass World War II memorial and tank museum",
                   ]
             },
             {
-                  "name": "Kaštieľ rodiny Kubíni",
-                  "text": "A historical manor house of the Kubínyi family in the village of Vyšný Kubín.",
-                  "category": "historical",
-                  "coords": [
-                        19.474861,
-                        49.093652
-                  ]
-            },
-            {
                   "name": "Travertínová veža v Bešeňovej",
                   "text": "A distinctive natural travertine formation located near Bešeňová.",
                   "category": "landmark",
                   "coords": [
                         19.434555,
                         49.107144
-                  ]
-            },
-            {
-                  "name": "Pláž Trnovec",
-                  "text": "A beach resort on the shores of the Liptovská Mara reservoir near Havránok.",
-                  "category": "recreational",
-                  "coords": [
-                        19.545698,
-                        49.109071
                   ]
             }
       ]
@@ -636,42 +528,6 @@ imageHint: "Svaty Anton manor house Slovakia",
                   ]
             },
             {
-                  "name": "Obranný val, Hradisko na Beňadickej skale",
-                  "text": "Überreste einer historischen Befestigungsanlage auf dem Felsen von Beňadik.",
-                  "category": "historical",
-                  "coords": [
-                        18.557434,
-                        48.337411
-                  ]
-            },
-            {
-                  "name": "Obranný val, Hradisko Krivín v Rybníku",
-                  "text": "Eine historische Wallanlage in der Region Rybník bei Hronský Beňadik.",
-                  "category": "historical",
-                  "coords": [
-                        18.575082,
-                        48.334149
-                  ]
-            },
-            {
-                  "name": "Bývalý amfiteáter pod Krivínom",
-                  "text": "Standort eines ehemaligen Freilichttheaters unterhalb des Krivín-Hügels.",
-                  "category": "cultural",
-                  "coords": [
-                        18.550731,
-                        48.324347
-                  ]
-            },
-            {
-                  "name": "Hradisko Krivín v Rybníku",
-                  "text": "Ein prähistorischer Burgwall auf einem Hügel oberhalb von Hronský Beňadik.",
-                  "category": "historical",
-                  "coords": [
-                        18.558786,
-                        48.326229
-                  ]
-            },
-            {
                   "name": "Val obrov, orovnický úsek",
                   "text": "Teil des historischen „Riesenwalls“ im Abschnitt nahe Orovnica.",
                   "category": "historical",
@@ -707,42 +563,6 @@ imageHint: "Svaty Anton manor house Slovakia",
                   "coords": [
                         18.579412,
                         48.341063
-                  ]
-            },
-            {
-                  "name": "Obranný val, Hradisko na Beňadickej skale",
-                  "text": "Történelmi erődítmény maradványai a Beňadiki-sziklán.",
-                  "category": "historical",
-                  "coords": [
-                        18.557434,
-                        48.337411
-                  ]
-            },
-            {
-                  "name": "Obranný val, Hradisko Krivín v Rybníku",
-                  "text": "Történelmi sáncrendszer a Rybník (Garamszőllős) környékén.",
-                  "category": "historical",
-                  "coords": [
-                        18.575082,
-                        48.334149
-                  ]
-            },
-            {
-                  "name": "Bývalý amfiteáter pod Krivínom",
-                  "text": "Egykori szabadtéri színpad helyszíne a Krivín-hegy alatt.",
-                  "category": "cultural",
-                  "coords": [
-                        18.550731,
-                        48.324347
-                  ]
-            },
-            {
-                  "name": "Hradisko Krivín v Rybníku",
-                  "text": "Őskori földvár a Hronský Beňadik feletti dombon.",
-                  "category": "historical",
-                  "coords": [
-                        18.558786,
-                        48.326229
                   ]
             },
             {
@@ -784,42 +604,6 @@ imageHint: "Svaty Anton manor house Slovakia",
                   ]
             },
             {
-                  "name": "Obranný val, Hradisko na Beňadickej skale",
-                  "text": "Rămășițele unei fortificații istorice pe stânca Beňadik.",
-                  "category": "historical",
-                  "coords": [
-                        18.557434,
-                        48.337411
-                  ]
-            },
-            {
-                  "name": "Obranný val, Hradisko Krivín v Rybníku",
-                  "text": "Un sistem de fortificații istorice în regiunea Rybník, lângă Hronský Beňadik.",
-                  "category": "historical",
-                  "coords": [
-                        18.575082,
-                        48.334149
-                  ]
-            },
-            {
-                  "name": "Bývalý amfiteáter pod Krivínom",
-                  "text": "Locul unui fost amfiteatru în aer liber de sub dealul Krivín.",
-                  "category": "cultural",
-                  "coords": [
-                        18.550731,
-                        48.324347
-                  ]
-            },
-            {
-                  "name": "Hradisko Krivín v Rybníku",
-                  "text": "O cetate preistorică pe un deal deasupra satului Hronský Beňadik.",
-                  "category": "historical",
-                  "coords": [
-                        18.558786,
-                        48.326229
-                  ]
-            },
-            {
                   "name": "Val obrov, orovnický úsek",
                   "text": "O secțiune a istoricelui „Val al Uriașilor” din zona de lângă Orovnica.",
                   "category": "historical",
@@ -855,42 +639,6 @@ imageHint: "Svaty Anton manor house Slovakia",
                   "coords": [
                         18.579412,
                         48.341063
-                  ]
-            },
-            {
-                  "name": "Obranný val, Hradisko na Beňadickej skale",
-                  "text": "Remains of a historic fortification on the Beňadik rock.",
-                  "category": "historical",
-                  "coords": [
-                        18.557434,
-                        48.337411
-                  ]
-            },
-            {
-                  "name": "Obranný val, Hradisko Krivín v Rybníku",
-                  "text": "A historic rampart system in the Rybník region near Hronský Beňadik.",
-                  "category": "historical",
-                  "coords": [
-                        18.575082,
-                        48.334149
-                  ]
-            },
-            {
-                  "name": "Bývalý amfiteáter pod Krivínom",
-                  "text": "Site of a former open-air theatre below the Krivín hill.",
-                  "category": "cultural",
-                  "coords": [
-                        18.550731,
-                        48.324347
-                  ]
-            },
-            {
-                  "name": "Hradisko Krivín v Rybníku",
-                  "text": "A prehistoric hillfort on a hill above Hronský Beňadik.",
-                  "category": "historical",
-                  "coords": [
-                        18.558786,
-                        48.326229
                   ]
             },
             {
@@ -1095,66 +843,12 @@ imageHint: "Bratislava castle and Danube aerial history",
     id: "slovakia-cerveny-klastor-history-v2", "sights": {
       "de": [
             {
-                  "name": "Pieninen-Burg",
-                  "text": "Die Ruinen einer mittelalterlichen Burg hoch über dem Dunajec in den Pieninen.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
                   "name": "Rotes Kloster",
                   "text": "Ein ehemaliges Kartäuserkloster in Červený Kláštor, das heute als Museum dient.",
                   "category": "religious",
                   "coords": [
                         20.417235,
                         49.398667
-                  ]
-            },
-            {
-                  "name": "Pawilon Wejściowy w Szczawnicy",
-                  "text": "Ein Ausstellungsgebäude am Eingang zum Nationalpark in Szczawnica.",
-                  "category": "museum",
-                  "coords": [
-                        20.4563,
-                        49.418465
-                  ]
-            },
-            {
-                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
-                  "text": "Ein Informationspavillon und Museum am Startpunkt der Floßfahrten auf dem Dunajec.",
-                  "category": "museum",
-                  "coords": [
-                        20.367983,
-                        49.406449
-                  ]
-            },
-            {
-                  "name": "Drei Kronen",
-                  "text": "Der bekannteste Aussichtsgipfel des Pieninen-Gebirges mit markanter Felsformation.",
-                  "category": "natural",
-                  "coords": [
-                        20.414188,
-                        49.413823
-                  ]
-            },
-            {
-                  "name": "Sokolica",
-                  "text": "Ein berühmter Berggipfel in den Pieninen, bekannt für seine Panoramaaussicht und die alte Kiefer.",
-                  "category": "landmark",
-                  "coords": [
-                        20.440375,
-                        49.417651
-                  ]
-            },
-            {
-                  "name": "Klosterberg",
-                  "text": "Ein bewaldeter Berg in der Nähe des Klosters Červený Kláštor.",
-                  "category": "landmark",
-                  "coords": [
-                        20.422794,
-                        49.400837
                   ]
             },
             {
@@ -1169,66 +863,12 @@ imageHint: "Bratislava castle and Danube aerial history",
       ],
       "hu": [
             {
-                  "name": "Zamek Pieniński",
-                  "text": "Középkori vár romjai a Dunajec felett, a Pieninek-hegységben.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
                   "name": "Vöröskolostor",
                   "text": "Egykori karthauzi kolostor Červený Kláštorban, amely ma múzeumként működik.",
                   "category": "religious",
                   "coords": [
                         20.417235,
                         49.398667
-                  ]
-            },
-            {
-                  "name": "Pawilon Wejściowy w Szczawnicy",
-                  "text": "Kiállítóhely és fogadóépület a nemzeti park bejáratánál, Szczawnicában.",
-                  "category": "museum",
-                  "coords": [
-                        20.4563,
-                        49.418465
-                  ]
-            },
-            {
-                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
-                  "text": "Információs pavilon és múzeum a dunajeci tutajozás kezdőpontjánál.",
-                  "category": "museum",
-                  "coords": [
-                        20.367983,
-                        49.406449
-                  ]
-            },
-            {
-                  "name": "Koronahegy",
-                  "text": "A Pieninek-hegység legismertebb kilátópontja, jellegzetes sziklaformációval.",
-                  "category": "natural",
-                  "coords": [
-                        20.414188,
-                        49.413823
-                  ]
-            },
-            {
-                  "name": "Sokolica",
-                  "text": "Híres hegycsúcs a Pieninekben, amely panorámás kilátásáról és öreg erdeifenyőjéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        20.440375,
-                        49.417651
-                  ]
-            },
-            {
-                  "name": "Kláštorná hora",
-                  "text": "Erdős hegy a Červený Kláštor kolostor közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        20.422794,
-                        49.400837
                   ]
             },
             {
@@ -1243,66 +883,12 @@ imageHint: "Bratislava castle and Danube aerial history",
       ],
       "ro": [
             {
-                  "name": "Zamek Pieniński",
-                  "text": "Ruinele unui castel medieval situat deasupra Dunajecului în munții Pieniny.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
                   "name": "Červený kláštor",
                   "text": "O fostă mănăstire cartusiană din Červený Kláštor, care astăzi servește ca muzeu.",
                   "category": "religious",
                   "coords": [
                         20.417235,
                         49.398667
-                  ]
-            },
-            {
-                  "name": "Pawilon Wejściowy w Szczawnicy",
-                  "text": "O clădire de expoziție la intrarea în parcul național din Szczawnica.",
-                  "category": "museum",
-                  "coords": [
-                        20.4563,
-                        49.418465
-                  ]
-            },
-            {
-                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
-                  "text": "Un pavilion de informare și muzeu la punctul de plecare al plutaritului pe Dunajec.",
-                  "category": "museum",
-                  "coords": [
-                        20.367983,
-                        49.406449
-                  ]
-            },
-            {
-                  "name": "Trzy Korony (Okrąglica)",
-                  "text": "Cel mai cunoscut vârf panoramic din munții Pieniny, cu o formațiune stâncoasă distinctivă.",
-                  "category": "natural",
-                  "coords": [
-                        20.414188,
-                        49.413823
-                  ]
-            },
-            {
-                  "name": "Sokolica",
-                  "text": "Un vârf montan celebru în Pieniny, cunoscut pentru vederea panoramică și pinul secular.",
-                  "category": "landmark",
-                  "coords": [
-                        20.440375,
-                        49.417651
-                  ]
-            },
-            {
-                  "name": "Kláštorná hora",
-                  "text": "Un munte împădurit situat în apropierea mănăstirii Červený Kláštor.",
-                  "category": "landmark",
-                  "coords": [
-                        20.422794,
-                        49.400837
                   ]
             },
             {
@@ -1317,66 +903,12 @@ imageHint: "Bratislava castle and Danube aerial history",
       ],
       "en": [
             {
-                  "name": "Pieniny Castle",
-                  "text": "The ruins of a medieval castle situated high above the Dunajec river in the Pieniny mountains.",
-                  "category": "castle",
-                  "coords": [
-                        20.420283,
-                        49.420109
-                  ]
-            },
-            {
                   "name": "Červený kláštor",
                   "text": "A former Carthusian monastery in Červený Kláštor, which now serves as a museum.",
                   "category": "religious",
                   "coords": [
                         20.417235,
                         49.398667
-                  ]
-            },
-            {
-                  "name": "Pawilon Wejściowy w Szczawnicy",
-                  "text": "An exhibition building at the entrance to the national park in Szczawnica.",
-                  "category": "museum",
-                  "coords": [
-                        20.4563,
-                        49.418465
-                  ]
-            },
-            {
-                  "name": "Pawilon wejściowy w Sromowcach Wyżnych - Kątach",
-                  "text": "An informational pavilion and museum at the starting point of the Dunajec river rafting.",
-                  "category": "museum",
-                  "coords": [
-                        20.367983,
-                        49.406449
-                  ]
-            },
-            {
-                  "name": "Three Crowns",
-                  "text": "The most famous viewpoint peak of the Pieniny mountains with a distinctive rock formation.",
-                  "category": "natural",
-                  "coords": [
-                        20.414188,
-                        49.413823
-                  ]
-            },
-            {
-                  "name": "Sokolica",
-                  "text": "A famous mountain peak in the Pieniny, known for its panoramic views and ancient pine tree.",
-                  "category": "landmark",
-                  "coords": [
-                        20.440375,
-                        49.417651
-                  ]
-            },
-            {
-                  "name": "Kláštorná hora",
-                  "text": "A forested mountain located near the Červený Kláštor monastery.",
-                  "category": "landmark",
-                  "coords": [
-                        20.422794,
-                        49.400837
                   ]
             },
             {
@@ -2299,33 +1831,6 @@ imageHint: "Tematin castle ruins Slovakia aerial",
                         20.047603,
                         48.739832
                   ]
-            },
-            {
-                  "name": "Wesselényiho jaskyňa",
-                  "text": "Die Wesselényi-Höhle ist ein natürlicher Eingang zu einem Höhlensystem in der Nähe der historischen Burg Muráň.",
-                  "category": "landmark",
-                  "coords": [
-                        20.064219,
-                        48.764006
-                  ]
-            },
-            {
-                  "name": "Veľký Cigán",
-                  "text": "Veľký Cigán ist ein markanter Berggipfel in der Region Muránska Planina, der malerische Wanderrouten bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        20.023388,
-                        48.786429
-                  ]
-            },
-            {
-                  "name": "Pavelková",
-                  "text": "Pavelková ist ein Gipfel im Slowakischen Erzgebirge, der für seine natürliche Schönheit und Panoramaaussichten bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        20.001473,
-                        48.757907
-                  ]
             }
       ],
       "hu": [
@@ -2363,33 +1868,6 @@ imageHint: "Tematin castle ruins Slovakia aerial",
                   "coords": [
                         20.047603,
                         48.739832
-                  ]
-            },
-            {
-                  "name": "Wesselényi-barlang",
-                  "text": "A Wesselényi-barlang egy barlangrendszer természetes bejárata a történelmi Murány vára közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        20.064219,
-                        48.764006
-                  ]
-            },
-            {
-                  "name": "Veľký Cigán",
-                  "text": "A Veľký Cigán a Murányi-fennsík egyik kiemelkedő hegycsúcsa, amely festői túraútvonalakat kínál.",
-                  "category": "landmark",
-                  "coords": [
-                        20.023388,
-                        48.786429
-                  ]
-            },
-            {
-                  "name": "Pavelková",
-                  "text": "A Pavelková a Szepes-Gömöri-karszt egyik csúcsa, amely természeti szépségéről és panorámás kilátásáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        20.001473,
-                        48.757907
                   ]
             }
       ],
@@ -2429,33 +1907,6 @@ imageHint: "Tematin castle ruins Slovakia aerial",
                         20.047603,
                         48.739832
                   ]
-            },
-            {
-                  "name": "Wesselényiho jaskyňa",
-                  "text": "Peștera lui Wesselényi este o intrare naturală într-un sistem de peșteri situat lângă istoricul castel Muráň.",
-                  "category": "landmark",
-                  "coords": [
-                        20.064219,
-                        48.764006
-                  ]
-            },
-            {
-                  "name": "Veľký Cigán",
-                  "text": "Veľký Cigán este un vârf montan proeminent din regiunea Muránska Planina, oferind trasee pitorești de drumeție.",
-                  "category": "landmark",
-                  "coords": [
-                        20.023388,
-                        48.786429
-                  ]
-            },
-            {
-                  "name": "Pavelková",
-                  "text": "Pavelková este un vârf din Carstul Spiš-Gemer, cunoscut pentru frumusețea sa naturală și vederile panoramice.",
-                  "category": "landmark",
-                  "coords": [
-                        20.001473,
-                        48.757907
-                  ]
             }
       ],
       "en": [
@@ -2493,33 +1944,6 @@ imageHint: "Tematin castle ruins Slovakia aerial",
                   "coords": [
                         20.047603,
                         48.739832
-                  ]
-            },
-            {
-                  "name": "Wesselényi's cave",
-                  "text": "Wesselényi's Cave is a natural entrance to a cavern system located near the historic Muráň Castle.",
-                  "category": "landmark",
-                  "coords": [
-                        20.064219,
-                        48.764006
-                  ]
-            },
-            {
-                  "name": "Veľký Cigán",
-                  "text": "Veľký Cigán is a prominent mountain peak in the Muránska Planina region offering scenic hiking routes.",
-                  "category": "landmark",
-                  "coords": [
-                        20.023388,
-                        48.786429
-                  ]
-            },
-            {
-                  "name": "Pavelková",
-                  "text": "Pavelková is a peak in the Spiš-Gemer Karst known for its natural beauty and panoramic views.",
-                  "category": "landmark",
-                  "coords": [
-                        20.001473,
-                        48.757907
                   ]
             }
       ]
@@ -4334,15 +3758,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                         20.235985,
                         48.630868
                   ]
-            },
-            {
-                  "name": "Mini farma Hrádok",
-                  "text": "Ein kleiner Bauernhof mit Haustieren am Fuße der Burg Jelšava.",
-                  "category": "recreational",
-                  "coords": [
-                        20.302109,
-                        48.649605
-                  ]
             }
       ],
       "hu": [
@@ -4398,15 +3813,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   "coords": [
                         20.235985,
                         48.630868
-                  ]
-            },
-            {
-                  "name": "Mini farma Hrádok",
-                  "text": "Kis farm háziállatokkal a Jelšava-vár lábánál.",
-                  "category": "recreational",
-                  "coords": [
-                        20.302109,
-                        48.649605
                   ]
             }
       ],
@@ -4464,15 +3870,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                         20.235985,
                         48.630868
                   ]
-            },
-            {
-                  "name": "Mini farma Hrádok",
-                  "text": "O mini-fermă cu animale domestice la poalele Castelului Jelšava.",
-                  "category": "recreational",
-                  "coords": [
-                        20.302109,
-                        48.649605
-                  ]
             }
       ],
       "en": [
@@ -4528,15 +3925,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   "coords": [
                         20.235985,
                         48.630868
-                  ]
-            },
-            {
-                  "name": "Mini farma Hrádok",
-                  "text": "A small farm with domestic animals at the base of Jelšava Castle.",
-                  "category": "recreational",
-                  "coords": [
-                        20.302109,
-                        48.649605
                   ]
             }
       ]
@@ -5146,15 +4534,6 @@ imageHint: "Mirbach Palace Bratislava facade",
     id: "slovakia-cachtice-manor-history-v2", "sights": {
       "de": [
             {
-                  "name": "Burg Schächtitz",
-                  "text": "Eine Burgruine in der Slowakei, bekannt als ehemaliger Wohnsitz von Elisabeth Báthory.",
-                  "category": "castle",
-                  "coords": [
-                        17.761266,
-                        48.725
-                  ]
-            },
-            {
                   "name": "Trenčianske múzeum - expozícia Čachtice",
                   "text": "Ein Museum in Čachtice, das Exponate zur Geschichte der Burg und der Region zeigt.",
                   "category": "museum",
@@ -5170,24 +4549,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   "coords": [
                         17.736931,
                         48.701868
-                  ]
-            },
-            {
-                  "name": "Čachtická jaskyňa",
-                  "text": "Der Eingang zu einer bedeutenden Höhle in der Nähe der Burg Čachtice.",
-                  "category": "landmark",
-                  "coords": [
-                        17.786991,
-                        48.742591
-                  ]
-            },
-            {
-                  "name": "Skalka",
-                  "text": "Ein Gipfel in der hügeligen Landschaft der Westslowakei bei Čachtice.",
-                  "category": "landmark",
-                  "coords": [
-                        17.796578,
-                        48.736387
                   ]
             },
             {
@@ -5220,15 +4581,6 @@ imageHint: "Mirbach Palace Bratislava facade",
       ],
       "hu": [
             {
-                  "name": "Čachtický hrad",
-                  "text": "Szlovákiai várrom, amely Báthory Erzsébet egykori lakhelyeként ismert.",
-                  "category": "castle",
-                  "coords": [
-                        17.761266,
-                        48.725
-                  ]
-            },
-            {
                   "name": "Trenčianske múzeum - expozícia Čachtice",
                   "text": "Csejtei múzeum, amely a vár és a régió történelmét bemutató tárlatokat kínál.",
                   "category": "museum",
@@ -5244,24 +4596,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   "coords": [
                         17.736931,
                         48.701868
-                  ]
-            },
-            {
-                  "name": "Čachtická jaskyňa",
-                  "text": "Egy jelentős barlang bejárata a csejtei vár közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        17.786991,
-                        48.742591
-                  ]
-            },
-            {
-                  "name": "Skalka",
-                  "text": "Egy hegycsúcs Nyugat-Szlovákia dombos vidékén, Csejte közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        17.796578,
-                        48.736387
                   ]
             },
             {
@@ -5294,15 +4628,6 @@ imageHint: "Mirbach Palace Bratislava facade",
       ],
       "ro": [
             {
-                  "name": "Čachtický hrad",
-                  "text": "O ruină de castel din Slovacia, cunoscută ca fosta reședință a Elisabetei Báthory.",
-                  "category": "castle",
-                  "coords": [
-                        17.761266,
-                        48.725
-                  ]
-            },
-            {
                   "name": "Trenčianske múzeum - expozícia Čachtice",
                   "text": "Un muzeu din Čachtice care prezintă exponate despre istoria castelului și a regiunii.",
                   "category": "museum",
@@ -5318,24 +4643,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   "coords": [
                         17.736931,
                         48.701868
-                  ]
-            },
-            {
-                  "name": "Čachtická jaskyňa",
-                  "text": "Intrarea într-o peșteră importantă situată în apropierea castelului Čachtice.",
-                  "category": "landmark",
-                  "coords": [
-                        17.786991,
-                        48.742591
-                  ]
-            },
-            {
-                  "name": "Skalka",
-                  "text": "Un vârf în peisajul deluros al Slovaciei de Vest, lângă Čachtice.",
-                  "category": "landmark",
-                  "coords": [
-                        17.796578,
-                        48.736387
                   ]
             },
             {
@@ -5368,15 +4675,6 @@ imageHint: "Mirbach Palace Bratislava facade",
       ],
       "en": [
             {
-                  "name": "Čachtický hrad",
-                  "text": "A castle ruin in Slovakia, known as the former residence of Elizabeth Báthory.",
-                  "category": "castle",
-                  "coords": [
-                        17.761266,
-                        48.725
-                  ]
-            },
-            {
                   "name": "Trenčianske múzeum - expozícia Čachtice",
                   "text": "A museum in Čachtice featuring exhibits on the history of the castle and the region.",
                   "category": "museum",
@@ -5392,24 +4690,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   "coords": [
                         17.736931,
                         48.701868
-                  ]
-            },
-            {
-                  "name": "Čachtická jaskyňa",
-                  "text": "The entrance to a significant cave located near the Čachtice castle.",
-                  "category": "landmark",
-                  "coords": [
-                        17.786991,
-                        48.742591
-                  ]
-            },
-            {
-                  "name": "Skalka",
-                  "text": "A peak in the hilly landscape of Western Slovakia near Čachtice.",
-                  "category": "landmark",
-                  "coords": [
-                        17.796578,
-                        48.736387
                   ]
             },
             {
@@ -5830,15 +5110,6 @@ imageHint: "Mirbach Palace Bratislava facade",
     id: "slovakia-vlkolinec-archaeology-history-v2", "sights": {
       "de": [
             {
-                  "name": "Tarzánia Hrabovo",
-                  "text": "Ein Kletter- und Seilpark in Hrabovo bei Ružomberok, ideal für Familienabenteuer.",
-                  "category": "family",
-                  "coords": [
-                        19.273415,
-                        49.070875
-                  ]
-            },
-            {
                   "name": "Mini farma Sidorovo",
                   "text": "Ein kleiner Zoo am Berg Sidorovo, der heimische Bauernhoftiere präsentiert.",
                   "category": "family",
@@ -5965,33 +5236,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   ]
             },
             {
-                  "name": "2.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Geschützter UNESCO-Aussichtspunkt Nr. 2 mit Blick auf Vlkolínecs Holzhäuser.",
-                  "category": "natural",
-                  "coords": [
-                        19.278181,
-                        49.034094
-                  ]
-            },
-            {
-                  "name": "6.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Geschützter UNESCO-Aussichtspunkt Nr. 6 mit Blick auf das Tal.",
-                  "category": "natural",
-                  "coords": [
-                        19.266554,
-                        49.036794
-                  ]
-            },
-            {
-                  "name": "7.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Geschützter UNESCO-Aussichtspunkt Nr. 7 mit Blick auf die umliegenden Hügel.",
-                  "category": "natural",
-                  "coords": [
-                        19.268566,
-                        49.031365
-                  ]
-            },
-            {
                   "name": "5.chránený výhľad Unesco - Vlkolínec",
                   "text": "Geschützter UNESCO-Aussichtspunkt Nr. 5 mit Panoramablick auf Vlkolínec.",
                   "category": "natural",
@@ -6019,39 +5263,12 @@ imageHint: "Mirbach Palace Bratislava facade",
                   ]
             },
             {
-                  "name": "na Vlkolínec",
-                  "text": "Ein Wiesenweg, der zum UNESCO-Dorf Vlkolínec führt.",
-                  "category": "natural",
-                  "coords": [
-                        19.276331,
-                        49.035584
-                  ]
-            },
-            {
                   "name": "Galéria ľudového umenia",
                   "text": "Eine Galerie für Volkskunst mit traditionellen Handarbeiten im UNESCO-Dorf.",
                   "category": "museum",
                   "coords": [
                         19.279572,
                         49.039095
-                  ]
-            },
-            {
-                  "name": "na Vtáčnik",
-                  "text": "Ein Wanderweg auf den Gipfel Vtáčnik mit Ausblick auf die Niedere Tatra.",
-                  "category": "natural",
-                  "coords": [
-                        19.249488,
-                        49.034906
-                  ]
-            },
-            {
-                  "name": "Na Skalách",
-                  "text": "Ein felsiger Bergrücken mit einer Sitzbank und Ausblick auf Vlkolínec.",
-                  "category": "natural",
-                  "coords": [
-                        19.306771,
-                        49.059368
                   ]
             },
             {
@@ -6073,15 +5290,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   ]
             },
             {
-                  "name": "Vlčia skala",
-                  "text": "Ein felsiger Aussichtspunkt namens Wolfsfelsen oberhalb von Vlkolinec.",
-                  "category": "landmark",
-                  "coords": [
-                        19.274359,
-                        49.029516
-                  ]
-            },
-            {
                   "name": "Ružomberok – Bahnhof Zündholzfabrik (Zápalkáreň)",
                   "text": "Der ehemalige Bahnhof der Zündholzfabrik in Ružomberok, nahe Vlkolinec.",
                   "category": "landmark",
@@ -6092,15 +5300,6 @@ imageHint: "Mirbach Palace Bratislava facade",
             }
       ],
       "hu": [
-            {
-                  "name": "Tarzánia Hrabovo",
-                  "text": "Kötélpálya és kalandpark Rózsahegy Hrabovo részén, ideális családi kikapcsolódáshoz.",
-                  "category": "family",
-                  "coords": [
-                        19.273415,
-                        49.070875
-                  ]
-            },
             {
                   "name": "Mini farma Sidorovo",
                   "text": "Kis állatkert a Sidorovo-hegyen, amely hazai háziállatokat mutat be.",
@@ -6228,33 +5427,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   ]
             },
             {
-                  "name": "2.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Védett UNESCO kilátópont #2, Vlkolínec faházaira néző kilátással.",
-                  "category": "natural",
-                  "coords": [
-                        19.278181,
-                        49.034094
-                  ]
-            },
-            {
-                  "name": "6.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Védett UNESCO kilátópont #6, a völgyre néző kilátással.",
-                  "category": "natural",
-                  "coords": [
-                        19.266554,
-                        49.036794
-                  ]
-            },
-            {
-                  "name": "7.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Védett UNESCO kilátópont #7, a környező dombokra néző kilátással.",
-                  "category": "natural",
-                  "coords": [
-                        19.268566,
-                        49.031365
-                  ]
-            },
-            {
                   "name": "5.chránený výhľad Unesco - Vlkolínec",
                   "text": "Védett UNESCO kilátópont #5, panorámakilátással Vlkolínecre.",
                   "category": "natural",
@@ -6282,39 +5454,12 @@ imageHint: "Mirbach Palace Bratislava facade",
                   ]
             },
             {
-                  "name": "na Vlkolínec",
-                  "text": "Egy réti ösvény, amely az UNESCO falu Vlkolínecbe vezet.",
-                  "category": "natural",
-                  "coords": [
-                        19.276331,
-                        49.035584
-                  ]
-            },
-            {
                   "name": "Galéria ľudového umenia",
                   "text": "Népiparművészeti galéria hagyományos kézműves termékekkel az UNESCO faluban.",
                   "category": "museum",
                   "coords": [
                         19.279572,
                         49.039095
-                  ]
-            },
-            {
-                  "name": "na Vtáčnik",
-                  "text": "Túraút a Vtáčnik csúcsára, kilátással az Alacsony-Tátrára.",
-                  "category": "natural",
-                  "coords": [
-                        19.249488,
-                        49.034906
-                  ]
-            },
-            {
-                  "name": "Na Skalách",
-                  "text": "Sziklás gerinc padokkal és kilátással Vlkolínecre.",
-                  "category": "natural",
-                  "coords": [
-                        19.306771,
-                        49.059368
                   ]
             },
             {
@@ -6336,15 +5481,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   ]
             },
             {
-                  "name": "Vlčia skala",
-                  "text": "Egy sziklás kilátó, a Farkas-szikla, Vlkolinec felett.",
-                  "category": "landmark",
-                  "coords": [
-                        19.274359,
-                        49.029516
-                  ]
-            },
-            {
                   "name": "Ružomberok - Gyufagyár állomás (Zápalkáreň)",
                   "text": "A ružomberoki gyufagyár egykori állomása, Vlkolinec közelében.",
                   "category": "landmark",
@@ -6355,15 +5491,6 @@ imageHint: "Mirbach Palace Bratislava facade",
             }
       ],
       "ro": [
-            {
-                  "name": "Tarzánia Hrabovo",
-                  "text": "Un parc de aventură cu frânghii în Hrabovo, lângă Ružomberok, ideal pentru familii.",
-                  "category": "family",
-                  "coords": [
-                        19.273415,
-                        49.070875
-                  ]
-            },
             {
                   "name": "Mini farma Sidorovo",
                   "text": "O mică grădină zoologică pe muntele Sidorovo, care prezintă animale domestice locale.",
@@ -6491,33 +5618,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   ]
             },
             {
-                  "name": "2.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Punct de belvedere protejat UNESCO nr. 2, cu vedere asupra caselor de lemn din Vlkolínec.",
-                  "category": "natural",
-                  "coords": [
-                        19.278181,
-                        49.034094
-                  ]
-            },
-            {
-                  "name": "6.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Punct de belvedere protejat UNESCO nr. 6, cu vedere asupra văii.",
-                  "category": "natural",
-                  "coords": [
-                        19.266554,
-                        49.036794
-                  ]
-            },
-            {
-                  "name": "7.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Punct de belvedere protejat UNESCO nr. 7, cu vedere asupra dealurilor înconjurătoare.",
-                  "category": "natural",
-                  "coords": [
-                        19.268566,
-                        49.031365
-                  ]
-            },
-            {
                   "name": "5.chránený výhľad Unesco - Vlkolínec",
                   "text": "Punct de belvedere protejat UNESCO nr. 5, cu vedere panoramică asupra Vlkolínec.",
                   "category": "natural",
@@ -6545,39 +5645,12 @@ imageHint: "Mirbach Palace Bratislava facade",
                   ]
             },
             {
-                  "name": "na Vlkolínec",
-                  "text": "Un drum de câmp care duce la satul UNESCO Vlkolínec.",
-                  "category": "natural",
-                  "coords": [
-                        19.276331,
-                        49.035584
-                  ]
-            },
-            {
                   "name": "Galéria ľudového umenia",
                   "text": "O galerie de artă populară cu meșteșuguri tradiționale în satul UNESCO.",
                   "category": "museum",
                   "coords": [
                         19.279572,
                         49.039095
-                  ]
-            },
-            {
-                  "name": "na Vtáčnik",
-                  "text": "Un traseu de drumeție spre vârful Vtáčnik cu vedere asupra Munților Tatra Mică.",
-                  "category": "natural",
-                  "coords": [
-                        19.249488,
-                        49.034906
-                  ]
-            },
-            {
-                  "name": "Na Skalách",
-                  "text": "O creastă stâncoasă cu o bancă și vedere spre Vlkolínec.",
-                  "category": "natural",
-                  "coords": [
-                        19.306771,
-                        49.059368
                   ]
             },
             {
@@ -6599,15 +5672,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   ]
             },
             {
-                  "name": "Vlčia skala",
-                  "text": "Un punct de belvedere stâncos numit Stânca Lupului deasupra Vlkolinec.",
-                  "category": "landmark",
-                  "coords": [
-                        19.274359,
-                        49.029516
-                  ]
-            },
-            {
                   "name": "Ružomberok - Stanica Zápalkáreň",
                   "text": "Fosta gară a fabricii de chibrituri din Ružomberok, lângă Vlkolinec.",
                   "category": "landmark",
@@ -6618,15 +5682,6 @@ imageHint: "Mirbach Palace Bratislava facade",
             }
       ],
       "en": [
-            {
-                  "name": "Tarzánia Hrabovo",
-                  "text": "A rope climbing park in Hrabovo near Ružomberok, ideal for family adventures.",
-                  "category": "family",
-                  "coords": [
-                        19.273415,
-                        49.070875
-                  ]
-            },
             {
                   "name": "Mini farma Sidorovo",
                   "text": "A small zoo on Sidorovo mountain showcasing domestic farm animals.",
@@ -6754,33 +5809,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   ]
             },
             {
-                  "name": "2.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Protected UNESCO viewpoint #2 with views over Vlkolínec's wooden houses.",
-                  "category": "natural",
-                  "coords": [
-                        19.278181,
-                        49.034094
-                  ]
-            },
-            {
-                  "name": "6.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Protected UNESCO viewpoint #6 with valley views.",
-                  "category": "natural",
-                  "coords": [
-                        19.266554,
-                        49.036794
-                  ]
-            },
-            {
-                  "name": "7.chránený výhľad Unesco - Vlkolínec",
-                  "text": "Protected UNESCO viewpoint #7 offering views of the surrounding hills.",
-                  "category": "natural",
-                  "coords": [
-                        19.268566,
-                        49.031365
-                  ]
-            },
-            {
                   "name": "5.chránený výhľad Unesco - Vlkolínec",
                   "text": "Protected UNESCO viewpoint #5 with panoramic view over Vlkolínec.",
                   "category": "natural",
@@ -6808,39 +5836,12 @@ imageHint: "Mirbach Palace Bratislava facade",
                   ]
             },
             {
-                  "name": "na Vlkolínec",
-                  "text": "A meadow path leading into the UNESCO village of Vlkolínec.",
-                  "category": "natural",
-                  "coords": [
-                        19.276331,
-                        49.035584
-                  ]
-            },
-            {
                   "name": "Galéria ľudového umenia",
                   "text": "A folk art gallery with traditional crafts in the UNESCO village.",
                   "category": "museum",
                   "coords": [
                         19.279572,
                         49.039095
-                  ]
-            },
-            {
-                  "name": "na Vtáčnik",
-                  "text": "A hiking trail to the Vtáčnik peak with views of the Low Tatras.",
-                  "category": "natural",
-                  "coords": [
-                        19.249488,
-                        49.034906
-                  ]
-            },
-            {
-                  "name": "Na Skalách",
-                  "text": "A rocky ridge with a bench overlooking Vlkolínec.",
-                  "category": "natural",
-                  "coords": [
-                        19.306771,
-                        49.059368
                   ]
             },
             {
@@ -6859,15 +5860,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   "coords": [
                         19.265257,
                         49.052918
-                  ]
-            },
-            {
-                  "name": "Vlčia skala",
-                  "text": "A rocky viewpoint called Wolf Rock above Vlkolinec.",
-                  "category": "landmark",
-                  "coords": [
-                        19.274359,
-                        49.029516
                   ]
             },
             {
@@ -7288,24 +6280,6 @@ imageHint: "Mirbach Palace Bratislava facade",
     id: "slovakia-hronsky-benadik-monastery-history-v2", "sights": {
       "de": [
             {
-                  "name": "Kláštor Hronský Beňadik",
-                  "text": "Das Kloster Hronský Beňadik ist ein Benediktinerkloster aus dem 11. Jahrhundert auf einem Hügel über dem Fluss Hron.",
-                  "category": "religious",
-                  "coords": [
-                        18.557955,
-                        48.344667
-                  ]
-            },
-            {
-                  "name": "Obranný val, Hradisko na Lipníkoch",
-                  "text": "Archäologische Überreste eines ehemaligen Burgwalls auf dem Lipník-Hügel.",
-                  "category": "historical",
-                  "coords": [
-                        18.579412,
-                        48.341063
-                  ]
-            },
-            {
                   "name": "Obranný val, Hradisko na Beňadickej skale",
                   "text": "Überreste einer alten Verteidigungsanlage auf dem Beňadik-Felsen.",
                   "category": "historical",
@@ -7342,15 +6316,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   ]
             },
             {
-                  "name": "Hláska Luchtov",
-                  "text": "Ein mittelalterlicher Wachturm namens Luchtov in der Nähe des Klosters.",
-                  "category": "historical",
-                  "coords": [
-                        18.594119,
-                        48.356739
-                  ]
-            },
-            {
                   "name": "Beňadická vartovka",
                   "text": "Ein historischer Wachturm, der das Kloster Hronský Beňadik bewachte.",
                   "category": "historical",
@@ -7361,24 +6326,6 @@ imageHint: "Mirbach Palace Bratislava facade",
             }
       ],
       "hu": [
-            {
-                  "name": "Garamszentbenedeki apátság",
-                  "text": "A Hronský Beňadik-i kolostor egy 11. századi bencés kolostor a Hron folyó fölé magasodó dombon.",
-                  "category": "religious",
-                  "coords": [
-                        18.557955,
-                        48.344667
-                  ]
-            },
-            {
-                  "name": "Obranný val, Hradisko na Lipníkoch",
-                  "text": "Egy egykori földvár régészeti maradványai a Lipník-dombon.",
-                  "category": "historical",
-                  "coords": [
-                        18.579412,
-                        48.341063
-                  ]
-            },
             {
                   "name": "Obranný val, Hradisko na Beňadickej skale",
                   "text": "Ősi védművek maradványai a Beňadik-sziklán.",
@@ -7416,15 +6363,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   ]
             },
             {
-                  "name": "Hláska Luchtov",
-                  "text": "Egy Luchtov nevű középkori őrtorony a kolostor közelében.",
-                  "category": "historical",
-                  "coords": [
-                        18.594119,
-                        48.356739
-                  ]
-            },
-            {
                   "name": "Beňadická vartovka",
                   "text": "Egy történelmi őrtorony, amely a Hronský Beňadik-i kolostort őrizte.",
                   "category": "historical",
@@ -7435,24 +6373,6 @@ imageHint: "Mirbach Palace Bratislava facade",
             }
       ],
       "ro": [
-            {
-                  "name": "Kláštor Hronský Beňadik",
-                  "text": "Mănăstirea Hronský Beňadik este o mănăstire benedictină din secolul al XI-lea, pe un deal deasupra râului Hron.",
-                  "category": "religious",
-                  "coords": [
-                        18.557955,
-                        48.344667
-                  ]
-            },
-            {
-                  "name": "Obranný val, Hradisko na Lipníkoch",
-                  "text": "Rămășițele arheologice ale unui fost fort pe dealul Lipník.",
-                  "category": "historical",
-                  "coords": [
-                        18.579412,
-                        48.341063
-                  ]
-            },
             {
                   "name": "Obranný val, Hradisko na Beňadickej skale",
                   "text": "Vestigiile unei vechi fortificații pe stânca Beňadik.",
@@ -7490,15 +6410,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   ]
             },
             {
-                  "name": "Hláska Luchtov",
-                  "text": "Un turn de veghe medieval numit Luchtov lângă mănăstire.",
-                  "category": "historical",
-                  "coords": [
-                        18.594119,
-                        48.356739
-                  ]
-            },
-            {
                   "name": "Beňadická vartovka",
                   "text": "Un turn de veghe istoric care păzea mănăstirea Hronský Beňadik.",
                   "category": "historical",
@@ -7509,24 +6420,6 @@ imageHint: "Mirbach Palace Bratislava facade",
             }
       ],
       "en": [
-            {
-                  "name": "Hronský Beňadik monastery",
-                  "text": "Hronský Beňadik is an 11th-century Benedictine monastery on a hill above the Hron River.",
-                  "category": "religious",
-                  "coords": [
-                        18.557955,
-                        48.344667
-                  ]
-            },
-            {
-                  "name": "Obranný val, Hradisko na Lipníkoch",
-                  "text": "Archaeological remains of a former hillfort on the Lipník hill.",
-                  "category": "historical",
-                  "coords": [
-                        18.579412,
-                        48.341063
-                  ]
-            },
             {
                   "name": "Obranný val, Hradisko na Beňadickej skale",
                   "text": "Remains of an ancient defense structure on the Beňadik rock.",
@@ -7561,15 +6454,6 @@ imageHint: "Mirbach Palace Bratislava facade",
                   "coords": [
                         18.558786,
                         48.326229
-                  ]
-            },
-            {
-                  "name": "Hláska Luchtov",
-                  "text": "A medieval watchtower called Luchtov near the monastery.",
-                  "category": "historical",
-                  "coords": [
-                        18.594119,
-                        48.356739
                   ]
             },
             {

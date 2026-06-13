@@ -978,15 +978,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
     id: "frenchpolynesia-vaitape-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Marae Nonohaura",
-                  "text": "Restaurierte Marae mit geschnitzten Steinfiguren in Vaitape auf Bora Bora.",
-                  "category": "historical",
-                  "coords": [
-                        -151.729278,
-                        -16.493582
-                  ]
-            },
-            {
                   "name": "Marae Marotetini",
                   "text": "Marae Marotetini ist eine antike archäologische Stätte in der Stadt Vaitape.",
                   "category": "historical",
@@ -1047,15 +1038,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   "coords": [
                         -151.733269,
                         -16.501612
-                  ]
-            },
-            {
-                  "name": "Mataihua",
-                  "text": "Höchster Gipfel Bora Boras mit Lagunenaussicht.",
-                  "category": "natural",
-                  "coords": [
-                        -151.731259,
-                        -16.487016
                   ]
             },
             {
@@ -1142,15 +1124,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Marae Nonohaura",
-                  "text": "Helyreállított marae faragott kőfigurákkal Vaitape-ban, Bora Borán.",
-                  "category": "historical",
-                  "coords": [
-                        -151.729278,
-                        -16.493582
-                  ]
-            },
-            {
                   "name": "Marae Marotetini",
                   "text": "A Marae Marotetini egy ősi régészeti lelőhely Vaitape városában.",
                   "category": "historical",
@@ -1211,15 +1184,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   "coords": [
                         -151.733269,
                         -16.501612
-                  ]
-            },
-            {
-                  "name": "Mataihua",
-                  "text": "Bora Bora legmagasabb csúcsa, lagúnára nyíló kilátással.",
-                  "category": "natural",
-                  "coords": [
-                        -151.731259,
-                        -16.487016
                   ]
             },
             {
@@ -1306,15 +1270,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Marae Nonohaura",
-                  "text": "Un marae restaurat cu statui de piatră cioplite în Vaitape, Bora Bora.",
-                  "category": "historical",
-                  "coords": [
-                        -151.729278,
-                        -16.493582
-                  ]
-            },
-            {
                   "name": "Marae Marotetini",
                   "text": "Marae Marotetini este un vechi sit arheologic situat în orașul Vaitape.",
                   "category": "historical",
@@ -1375,15 +1330,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   "coords": [
                         -151.733269,
                         -16.501612
-                  ]
-            },
-            {
-                  "name": "Mataihua",
-                  "text": "Cel mai înalt vârf din Bora Bora, cu vedere spre lagună.",
-                  "category": "natural",
-                  "coords": [
-                        -151.731259,
-                        -16.487016
                   ]
             },
             {
@@ -1470,15 +1416,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Marae Nonohaura",
-                  "text": "A restored marae with carved stone figures in Vaitape, Bora Bora.",
-                  "category": "historical",
-                  "coords": [
-                        -151.729278,
-                        -16.493582
-                  ]
-            },
-            {
                   "name": "Marae Marotetini",
                   "text": "Marae Marotetini is an ancient archaeological site situated in the city of Vaitape.",
                   "category": "historical",
@@ -1539,15 +1476,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   "coords": [
                         -151.733269,
                         -16.501612
-                  ]
-            },
-            {
-                  "name": "Mataihua",
-                  "text": "Highest peak on Bora Bora overlooking the lagoon.",
-                  "category": "natural",
-                  "coords": [
-                        -151.731259,
-                        -16.487016
                   ]
             },
             {
@@ -2229,42 +2157,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
     id: "frenchpolynesia-atuona-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Centre Jacques Brel",
-                  "text": "Museum im ehemaligen Wohnhaus des Sängers Jacques Brel in Atuona.",
-                  "category": "museum",
-                  "coords": [
-                        -139.040599,
-                        -9.804628
-                  ]
-            },
-            {
-                  "name": "Pétroglyphes de Tehueto",
-                  "text": "Die Pétroglyphes de Tehueto sind eine archäologische Stätte mit antiken Felszeichnungen in Atuona.",
-                  "category": "historical",
-                  "coords": [
-                        -139.027127,
-                        -9.782908
-                  ]
-            },
-            {
-                  "name": "Me'ae et Tohua de Tehueto",
-                  "text": "Zeremonialplatz mit Steinplattformen und Petroglyphen nahe Atuona.",
-                  "category": "historical",
-                  "coords": [
-                        -139.02786,
-                        -9.781935
-                  ]
-            },
-            {
-                  "name": "Maison du Jouir",
-                  "text": "Rekonstruiertes Wohnhaus des Malers Paul Gauguin in Atuona, heute Museum.",
-                  "category": "museum",
-                  "coords": [
-                        -139.040817,
-                        -9.803721
-                  ]
-            },
-            {
                   "name": "Tikis souriant suivre les indications",
                   "text": "Lächelnde Tiki-Skulptur entlang eines Wanderwegs nahe Atuona.",
                   "category": "landmark",
@@ -2272,54 +2164,9 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                         -139.00972,
                         -9.791613
                   ]
-            },
-            {
-                  "name": "Église de l'Immaculée-Conception",
-                  "text": "Katholische Kirche aus weißem Stein im Zentrum von Atuona.",
-                  "category": "religious",
-                  "coords": [
-                        -139.041857,
-                        -9.802125
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Centre Jacques Brel",
-                  "text": "Múzeum Jacques Brel énekes egykori otthonában Atuonán.",
-                  "category": "museum",
-                  "coords": [
-                        -139.040599,
-                        -9.804628
-                  ]
-            },
-            {
-                  "name": "Pétroglyphes de Tehueto",
-                  "text": "A Pétroglyphes de Tehueto egy ősi sziklarajzokat bemutató régészeti lelőhely Atuona városában.",
-                  "category": "historical",
-                  "coords": [
-                        -139.027127,
-                        -9.782908
-                  ]
-            },
-            {
-                  "name": "Me'ae et Tohua de Tehueto",
-                  "text": "Szertartásos hely kőplatformokkal és sziklarajzokkal Atuona közelében.",
-                  "category": "historical",
-                  "coords": [
-                        -139.02786,
-                        -9.781935
-                  ]
-            },
-            {
-                  "name": "Maison du Jouir",
-                  "text": "Paul Gauguin festő rekonstruált háza Atuonán, ma múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -139.040817,
-                        -9.803721
-                  ]
-            },
             {
                   "name": "Tikis souriant suivre les indications",
                   "text": "Mosolygó tiki szobor egy túraút mentén Atuona közelében.",
@@ -2328,54 +2175,9 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                         -139.00972,
                         -9.791613
                   ]
-            },
-            {
-                  "name": "Église de l'Immaculée-Conception",
-                  "text": "Fehér kőből épült katolikus templom Atuona központjában.",
-                  "category": "religious",
-                  "coords": [
-                        -139.041857,
-                        -9.802125
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Centre Jacques Brel",
-                  "text": "Muzeu în fosta casă a cântărețului Jacques Brel din Atuona.",
-                  "category": "museum",
-                  "coords": [
-                        -139.040599,
-                        -9.804628
-                  ]
-            },
-            {
-                  "name": "Pétroglyphes de Tehueto",
-                  "text": "Pétroglyphes de Tehueto este un sit arheologic cu sculpturi în piatră antice situat în Atuona.",
-                  "category": "historical",
-                  "coords": [
-                        -139.027127,
-                        -9.782908
-                  ]
-            },
-            {
-                  "name": "Me'ae et Tohua de Tehueto",
-                  "text": "Loc ceremonial cu platforme de piatră și petroglife lângă Atuona.",
-                  "category": "historical",
-                  "coords": [
-                        -139.02786,
-                        -9.781935
-                  ]
-            },
-            {
-                  "name": "Maison du Jouir",
-                  "text": "Casa reconstruită a pictorului Paul Gauguin din Atuona, acum muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        -139.040817,
-                        -9.803721
-                  ]
-            },
             {
                   "name": "Tikis souriant suivre les indications",
                   "text": "O statuie tiki zâmbitoare de-a lungul unui traseu de drumeție lângă Atuona.",
@@ -2384,54 +2186,9 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                         -139.00972,
                         -9.791613
                   ]
-            },
-            {
-                  "name": "Église de l'Immaculée-Conception",
-                  "text": "Biserică catolică din piatră albă în centrul orașului Atuona.",
-                  "category": "religious",
-                  "coords": [
-                        -139.041857,
-                        -9.802125
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Centre Jacques Brel",
-                  "text": "A museum in the former home of singer Jacques Brel in Atuona.",
-                  "category": "museum",
-                  "coords": [
-                        -139.040599,
-                        -9.804628
-                  ]
-            },
-            {
-                  "name": "Pétroglyphes de Tehueto",
-                  "text": "Pétroglyphes de Tehueto is an archaeological site featuring ancient rock carvings in Atuona.",
-                  "category": "historical",
-                  "coords": [
-                        -139.027127,
-                        -9.782908
-                  ]
-            },
-            {
-                  "name": "Me'ae et Tohua de Tehueto",
-                  "text": "A ceremonial site with stone platforms and petroglyphs near Atuona.",
-                  "category": "historical",
-                  "coords": [
-                        -139.02786,
-                        -9.781935
-                  ]
-            },
-            {
-                  "name": "Maison du Jouir",
-                  "text": "The reconstructed home of painter Paul Gauguin in Atuona, now a museum.",
-                  "category": "museum",
-                  "coords": [
-                        -139.040817,
-                        -9.803721
-                  ]
-            },
             {
                   "name": "Tikis souriant suivre les indications",
                   "text": "A smiling tiki statue along a hiking trail near Atuona.",
@@ -2439,15 +2196,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   "coords": [
                         -139.00972,
                         -9.791613
-                  ]
-            },
-            {
-                  "name": "Église de l'Immaculée-Conception",
-                  "text": "White stone Catholic church in the center of Atuona.",
-                  "category": "religious",
-                  "coords": [
-                        -139.041857,
-                        -9.802125
                   ]
             }
       ]
@@ -5784,15 +5532,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Belle vue sur le lagon",
-                  "text": "Belle vue sur le lagon, ein Aussichtspunkt an der Straße oberhalb von Parea mit ungehindertem Lagunenblick.",
-                  "category": "natural",
-                  "coords": [
-                        -150.960178,
-                        -16.788275
-                  ]
-            },
-            {
                   "name": "La Maison du Paréo",
                   "text": "La Maison du Paréo, eine Boutique in Parea, die handbemalte Pareos und tahitianische Kleidung verkauft.",
                   "category": "landmark",
@@ -5810,15 +5549,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   "coords": [
                         -150.981055,
                         -16.818097
-                  ]
-            },
-            {
-                  "name": "Belle vue sur le lagon",
-                  "text": "Belle vue sur le lagon, egy kilátó a Parea feletti úton, zavartalan lagúnakilátással.",
-                  "category": "natural",
-                  "coords": [
-                        -150.960178,
-                        -16.788275
                   ]
             },
             {
@@ -5842,15 +5572,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Belle vue sur le lagon",
-                  "text": "Belle vue sur le lagon, un punct de belvedere pe drumul deasupra Parea, cu vedere neîntreruptă la lagună.",
-                  "category": "natural",
-                  "coords": [
-                        -150.960178,
-                        -16.788275
-                  ]
-            },
-            {
                   "name": "La Maison du Paréo",
                   "text": "La Maison du Paréo, o boutique în Parea specializată în pareo pictate manual și îmbrăcăminte tahitiană.",
                   "category": "landmark",
@@ -5868,15 +5589,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   "coords": [
                         -150.981055,
                         -16.818097
-                  ]
-            },
-            {
-                  "name": "Belle vue sur le lagon",
-                  "text": "Belle vue sur le lagon, a scenic overlook on the road above Parea with uninterrupted lagoon views.",
-                  "category": "natural",
-                  "coords": [
-                        -150.960178,
-                        -16.788275
                   ]
             },
             {
@@ -5946,24 +5658,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Marae Fare-3",
-                  "text": "Marae Fare-3 ist eine traditionelle archäologische Stätte in Fitii.",
-                  "category": "historical",
-                  "coords": [
-                        -151.034993,
-                        -16.712528
-                  ]
-            },
-            {
-                  "name": "Plage de l'Hotel",
-                  "text": "Verankert in der lokalen Gemeinde Fitii, bietet dieser spezielle Plage de l'Hotel einen ruhigen Rückzugsort am Ozean. Er besticht durch ein wahrhaft entspanntes Ambiente, das perfekt zu lässigem Sonnenbaden und sicherem Schwimmen passt. Das Erkunden der Uferlinie zu Fuß vermittelt den Besuchern einen Eindruck von authentischer Inseltranquillität. Ein Besuch unter der Woche ist oft die beste Strategie, um die volle, ungestörte Ruhe zu genießen.",
-                  "category": "recreational",
-                  "coords": [
-                        -151.03891,
-                        -16.710694
-                  ]
-            },
-            {
                   "name": "Bellevue 50m",
                   "text": "Bellevue 50m, ein niedriger Hügelaussichtspunkt in Fitii mit kurzem Weg zu Seen- und Bergpanoramen.",
                   "category": "natural",
@@ -5973,39 +5667,12 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Super U",
-                  "text": "Super U Fitii, der wichtigste Supermarkt des Dorfes mit lokalen Produkten und Snacks.",
-                  "category": "landmark",
-                  "coords": [
-                        -151.033847,
-                        -16.71403
-                  ]
-            },
-            {
-                  "name": "anguilles sacrées aux yeux bleus",
-                  "text": "Die heiligen blauäugigen Aale sind eine einzigartige Naturattraktion in Fitii.",
-                  "category": "landmark",
-                  "coords": [
-                        -150.994698,
-                        -16.731475
-                  ]
-            },
-            {
                   "name": "Belvédère de Maroe",
                   "text": "Belvédère de Maroe, ein Aussichtspunkt an der Maroe-Bucht auf Huahine mit Blick auf die Lagune und Korallenriffe.",
                   "category": "natural",
                   "coords": [
                         -151.003207,
                         -16.739861
-                  ]
-            },
-            {
-                  "name": "Anguilles sacrées",
-                  "text": "Die heiligen Aale sind eine beliebte lokale Attraktion in Fitii.",
-                  "category": "landmark",
-                  "coords": [
-                        -150.995878,
-                        -16.731228
                   ]
             }
       ],
@@ -6020,24 +5687,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Marae Fare-3",
-                  "text": "A Marae Fare-3 egy hagyományos régészeti lelőhely Fitii városában.",
-                  "category": "historical",
-                  "coords": [
-                        -151.034993,
-                        -16.712528
-                  ]
-            },
-            {
-                  "name": "Plage de l'Hotel",
-                  "text": "A Fitii helyi közösségében gyökerező, konkrét Plage de l'Hotel egy csendes menedéket kínál az óceán mellett. Őszintén nyugodt légkör jellemzi, amely tökéletesen illik a laza napozáshoz és a biztonságos úszáshoz. A partvonal gyalogos felfedezése megismerteti a látogatókat az autentikus szigeti nyugalommal. A hét közbeni látogatás gyakran a legjobb stratégia a teljes, zavartalan csend kiélvezésére.",
-                  "category": "recreational",
-                  "coords": [
-                        -151.03891,
-                        -16.710694
-                  ]
-            },
-            {
                   "name": "Bellevue 50m",
                   "text": "Bellevue 50m, egy alacsony dombtetői kilátó Fitii-ben, rövid ösvénnyel a lagúna és hegyek kilátásához.",
                   "category": "natural",
@@ -6047,39 +5696,12 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Super U",
-                  "text": "Super U Fitii, a falu fő élelmiszerboltja, amely helyi termékeket és harapnivalókat árul.",
-                  "category": "landmark",
-                  "coords": [
-                        -151.033847,
-                        -16.71403
-                  ]
-            },
-            {
-                  "name": "anguilles sacrées aux yeux bleus",
-                  "text": "A szent kék szemű angolnák egyedülálló természeti látványosságot jelentenek Fitii városában.",
-                  "category": "landmark",
-                  "coords": [
-                        -150.994698,
-                        -16.731475
-                  ]
-            },
-            {
                   "name": "Belvédère de Maroe",
                   "text": "Belvédère de Maroe, egy kilátó a Maroe-öbölnél Huahine szigetén, a lagúna és korallzátonyok látképével.",
                   "category": "natural",
                   "coords": [
                         -151.003207,
                         -16.739861
-                  ]
-            },
-            {
-                  "name": "Anguilles sacrées",
-                  "text": "A szent angolnák népszerű helyi látványosságok Fitii városában.",
-                  "category": "landmark",
-                  "coords": [
-                        -150.995878,
-                        -16.731228
                   ]
             }
       ],
@@ -6094,24 +5716,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Marae Fare-3",
-                  "text": "Marae Fare-3 este un sit arheologic tradițional din Fitii.",
-                  "category": "historical",
-                  "coords": [
-                        -151.034993,
-                        -16.712528
-                  ]
-            },
-            {
-                  "name": "Plage de l'Hotel",
-                  "text": "Înrădăcinată în comunitatea locală din Fitii, această Plage de l'Hotel specifică oferă o retragere liniștită lângă ocean. Prezintă o ambianță cu adevărat calmă, perfect potrivită pentru lenevitul la soare și înotul în siguranță. Explorarea țărmului pe jos oferă vizitatorilor un gust al autenticei liniști insulare. Vizitarea la mijlocul săptămânii este adesea cea mai bună strategie pentru a vă bucura de liniștea sa completă, neîntreruptă.",
-                  "category": "recreational",
-                  "coords": [
-                        -151.03891,
-                        -16.710694
-                  ]
-            },
-            {
                   "name": "Bellevue 50m",
                   "text": "Bellevue 50m, un punct de belvedere pe un deal jos în Fitii, cu o potecă scurtă către vederi ale lagunei și munților.",
                   "category": "natural",
@@ -6121,39 +5725,12 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Super U",
-                  "text": "Super U Fitii, principalul supermarket din sat, care vinde produse locale și gustări.",
-                  "category": "landmark",
-                  "coords": [
-                        -151.033847,
-                        -16.71403
-                  ]
-            },
-            {
-                  "name": "anguilles sacrées aux yeux bleus",
-                  "text": "Anghilele sacre cu ochi albaștri reprezintă o atracție naturală unică în Fitii.",
-                  "category": "landmark",
-                  "coords": [
-                        -150.994698,
-                        -16.731475
-                  ]
-            },
-            {
                   "name": "Belvédère de Maroe",
                   "text": "Belvédère de Maroe, un punct de belvedere pe golful Maroe din Huahine, cu vedere la lagună și recife de corali.",
                   "category": "natural",
                   "coords": [
                         -151.003207,
                         -16.739861
-                  ]
-            },
-            {
-                  "name": "Anguilles sacrées",
-                  "text": "Anghilele sacre sunt o atracție locală populară în Fitii.",
-                  "category": "landmark",
-                  "coords": [
-                        -150.995878,
-                        -16.731228
                   ]
             }
       ],
@@ -6168,24 +5745,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Marae Fare-3",
-                  "text": "Marae Fare-3 is a traditional archaeological site in Fitii.",
-                  "category": "historical",
-                  "coords": [
-                        -151.034993,
-                        -16.712528
-                  ]
-            },
-            {
-                  "name": "Plage de l'Hotel",
-                  "text": "Rooted in the local community of Fitii, this specific Plage de l'Hotel offers a quiet retreat by the ocean. It features a genuinely calm ambiance perfectly matched for casual sun-lounging and safe swimming. Exploring the shoreline on foot gives visitors a taste of authentic island tranquility. Visiting mid-week is often the best strategy to enjoy its full, uninterrupted quietude.",
-                  "category": "recreational",
-                  "coords": [
-                        -151.03891,
-                        -16.710694
-                  ]
-            },
-            {
                   "name": "Bellevue 50m",
                   "text": "Bellevue 50m, a low hilltop lookout in Fitii with a short path to views of the lagoon and mountains.",
                   "category": "natural",
@@ -6195,39 +5754,12 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Super U",
-                  "text": "Super U Fitii, the main grocery store in the village, selling local produce and snacks.",
-                  "category": "landmark",
-                  "coords": [
-                        -151.033847,
-                        -16.71403
-                  ]
-            },
-            {
-                  "name": "anguilles sacrées aux yeux bleus",
-                  "text": "The sacred blue-eyed eels are a unique natural attraction in Fitii.",
-                  "category": "landmark",
-                  "coords": [
-                        -150.994698,
-                        -16.731475
-                  ]
-            },
-            {
                   "name": "Belvédère de Maroe",
                   "text": "Belvédère de Maroe, a lookout on Huahine's Maroe Bay offering vistas of the lagoon and coral reefs.",
                   "category": "natural",
                   "coords": [
                         -151.003207,
                         -16.739861
-                  ]
-            },
-            {
-                  "name": "Anguilles sacrées",
-                  "text": "The sacred eels are a popular local attraction in Fitii.",
-                  "category": "landmark",
-                  "coords": [
-                        -150.995878,
-                        -16.731228
                   ]
             }
       ]
@@ -6360,15 +5892,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mont Otemanu",
-                  "text": "Mont Otemanu, der höchste Gipfel Bora Boras, ein erloschener Vulkan.",
-                  "category": "natural",
-                  "coords": [
-                        -151.733269,
-                        -16.501612
-                  ]
-            },
-            {
                   "name": "Mataihua",
                   "text": "Mataihua-Gipfel, vom Dorf Anau aus sichtbar.",
                   "category": "natural",
@@ -6431,15 +5954,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   "coords": [
                         -151.694934,
                         -16.486002
-                  ]
-            },
-            {
-                  "name": "Mont Otemanu",
-                  "text": "Mont Otemanu, Bora Bora legmagasabb csúcsa, egy kialudt vulkán.",
-                  "category": "natural",
-                  "coords": [
-                        -151.733269,
-                        -16.501612
                   ]
             },
             {
@@ -6508,15 +6022,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mont Otemanu",
-                  "text": "Mont Otemanu, cel mai înalt vârf din Bora Bora, un vulcan stins.",
-                  "category": "natural",
-                  "coords": [
-                        -151.733269,
-                        -16.501612
-                  ]
-            },
-            {
                   "name": "Mataihua",
                   "text": "Vârful Mataihua, văzut din satul Anau.",
                   "category": "natural",
@@ -6579,15 +6084,6 @@ export const frenchpolynesiaCitiesV2: POI[] = [
                   "coords": [
                         -151.694934,
                         -16.486002
-                  ]
-            },
-            {
-                  "name": "Mont Otemanu",
-                  "text": "Mont Otemanu, the highest peak on Bora Bora, an extinct volcano.",
-                  "category": "natural",
-                  "coords": [
-                        -151.733269,
-                        -16.501612
                   ]
             },
             {

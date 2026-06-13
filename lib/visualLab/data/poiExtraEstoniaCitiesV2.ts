@@ -1590,15 +1590,6 @@ export const estoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kunda supelrand",
-                  "text": "Ein beliebter Strand an der estnischen Küste in Kunda.",
-                  "category": "recreational",
-                  "coords": [
-                        26.536635,
-                        59.520579
-                  ]
-            },
-            {
                   "name": "Kunda hüdroelektrijaam",
                   "text": "Ein historisches Wasserkraftwerk in Kunda, das als technisches Denkmal gilt.",
                   "category": "landmark",
@@ -1682,15 +1673,6 @@ export const estoniaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kunda supelrand",
-                  "text": "Népszerű strand az észt tengerparton, Kunda városában.",
-                  "category": "recreational",
-                  "coords": [
-                        26.536635,
-                        59.520579
-                  ]
-            },
-            {
                   "name": "Kunda hüdroelektrijaam",
                   "text": "Történelmi vízerőmű Kundában, amely technikai műemléknek számít.",
                   "category": "landmark",
@@ -1771,15 +1753,6 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         26.55665,
                         59.5179
-                  ]
-            },
-            {
-                  "name": "Kunda supelrand",
-                  "text": "O plajă populară pe coasta estonă, situată în orașul Kunda.",
-                  "category": "recreational",
-                  "coords": [
-                        26.536635,
-                        59.520579
                   ]
             },
             {

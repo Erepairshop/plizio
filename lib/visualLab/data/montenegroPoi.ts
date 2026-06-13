@@ -94,69 +94,6 @@ export const montenegroAllPoi: POI[] = [
     id: "me-sveti-stefan", "sights": {
       "de": [
             {
-                  "name": "FKK Crvena glavica",
-                  "text": "Ein malerischer FKK-Strand in der Nähe von Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.896433,
-                        42.246054
-                  ]
-            },
-            {
-                  "name": "Pržno",
-                  "text": "Ein beliebter Strand im Dorf Pržno in der Nähe von Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.892491,
-                        42.268696
-                  ]
-            },
-            {
-                  "name": "Laguna beach",
-                  "text": "Ein Küstenstrand in der Region Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.850115,
-                        42.26932
-                  ]
-            },
-            {
-                  "name": "Sveti Stefan",
-                  "text": "Der ikonische Strandbereich rund um die Halbinsel Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.894699,
-                        42.255383
-                  ]
-            },
-            {
-                  "name": "Drobni pijesak",
-                  "text": "Ein abgelegener Strand in der Nähe von Sveti Stefan, bekannt für sein klares Wasser und feinen Sand.",
-                  "category": "recreational",
-                  "coords": [
-                        18.902366,
-                        42.234524
-                  ]
-            },
-            {
-                  "name": "Kamenovo",
-                  "text": "Ein schöner Strand mit türkisblauem Wasser zwischen Budva und Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.886945,
-                        42.275283
-                  ]
-            },
-            {
-                  "name": "Kraljichina plazha",
-                  "text": "Ein renommierter Strand in einer kleinen Bucht in der Nähe von Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.89242,
-                        42.26337
-                  ]
-            },
-            {
                   "name": "Aqua Park Mediteran",
                   "text": "Ein Wasserpark mit Rutschen und Pools in der Region Sveti Stefan.",
                   "category": "recreational",
@@ -164,126 +101,9 @@ export const montenegroAllPoi: POI[] = [
                         18.864324,
                         42.283247
                   ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Ein Strandresort in Sveti Stefan, das exklusiven Zugang zur Küste bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "Ein Schwimmbad in der Ferienregion Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Ein Pool-Club in Sveti Stefan mit Blick auf das Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Ein Schwimmbecken in der Küstenstadt Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Plaža Miločer",
-                  "text": "Ein renommiertes Strandresort bei Sveti Stefan, eingebettet in eine malerische Bucht.",
-                  "category": "recreational",
-                  "coords": [
-                        18.893254,
-                        42.260645
-                  ]
-            },
-            {
-                  "name": "Plaža Hawaii (5A)",
-                  "text": "Ein Strandresort in der Nähe von Sveti Stefan, bekannt für seine Urlaubsatmosphäre.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846258,
-                        42.270918
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "FKK Crvena glavica",
-                  "text": "Festői nudista strand Sveti Stefan közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.896433,
-                        42.246054
-                  ]
-            },
-            {
-                  "name": "Pržno",
-                  "text": "Népszerű strand Pržno faluban, Sveti Stefan közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.892491,
-                        42.268696
-                  ]
-            },
-            {
-                  "name": "Laguna beach",
-                  "text": "Tengerparti strand Sveti Stefan környékén.",
-                  "category": "recreational",
-                  "coords": [
-                        18.850115,
-                        42.26932
-                  ]
-            },
-            {
-                  "name": "Sveti Stefan",
-                  "text": "A Sveti Stefan-félszigetet körülvevő ikonikus strand.",
-                  "category": "recreational",
-                  "coords": [
-                        18.894699,
-                        42.255383
-                  ]
-            },
-            {
-                  "name": "Drobni pijesak",
-                  "text": "Eldugott strand Sveti Stefan közelében, amely tiszta vizéről és finom homokjáról ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        18.902366,
-                        42.234524
-                  ]
-            },
-            {
-                  "name": "Kamenovo",
-                  "text": "Gyönyörű strand türkizkék vízzel Budva és Sveti Stefan között.",
-                  "category": "recreational",
-                  "coords": [
-                        18.886945,
-                        42.275283
-                  ]
-            },
-            {
-                  "name": "Kraljichina plazha",
-                  "text": "Előkelő strand egy kis öbölben, Sveti Stefan közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        18.89242,
-                        42.26337
-                  ]
-            },
             {
                   "name": "Aqua Park Mediteran",
                   "text": "Csúszdákat és medencéket kínáló aquapark Sveti Stefan környékén.",
@@ -292,126 +112,9 @@ export const montenegroAllPoi: POI[] = [
                         18.864324,
                         42.283247
                   ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "Tengerparti üdülőhely Sveti Stefanban, amely exkluzív tengerparti kapcsolatot kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "Úszómedence Sveti Stefan üdülőhelyén.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Medenceklub Sveti Stefanban, kilátással a tengerre.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "Úszómedence Sveti Stefan tengerparti városában.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Plaža Miločer",
-                  "text": "Neves tengerparti üdülőhely Sveti Stefan közelében, egy festői öbölben.",
-                  "category": "recreational",
-                  "coords": [
-                        18.893254,
-                        42.260645
-                  ]
-            },
-            {
-                  "name": "Plaža Hawaii (5A)",
-                  "text": "Tengerparti üdülőhely Sveti Stefan közelében, amely nyaralóhelyi hangulatáról ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846258,
-                        42.270918
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "FKK Crvena glavica",
-                  "text": "O plajă pitorească de nudiști situată lângă Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.896433,
-                        42.246054
-                  ]
-            },
-            {
-                  "name": "Pržno",
-                  "text": "O plajă populară din satul Pržno, lângă Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.892491,
-                        42.268696
-                  ]
-            },
-            {
-                  "name": "Laguna beach",
-                  "text": "O zonă de plajă de coastă situată în regiunea Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.850115,
-                        42.26932
-                  ]
-            },
-            {
-                  "name": "Sveti Stefan",
-                  "text": "Zona de plajă emblematică ce înconjoară peninsula Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.894699,
-                        42.255383
-                  ]
-            },
-            {
-                  "name": "Drobni pijesak",
-                  "text": "O plajă retrasă, cunoscută pentru apa limpede și nisipul fin de lângă Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.902366,
-                        42.234524
-                  ]
-            },
-            {
-                  "name": "Kamenovo",
-                  "text": "O plajă frumoasă cu apă turcoaz situată între Budva și Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.886945,
-                        42.275283
-                  ]
-            },
-            {
-                  "name": "Plaja reginei",
-                  "text": "O plajă prestigioasă situată într-un mic golf lângă Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.89242,
-                        42.26337
-                  ]
-            },
             {
                   "name": "Aqua Park Mediteran",
                   "text": "Un parc acvatic cu tobogane și piscine situat în zona Sveti Stefan.",
@@ -420,126 +123,9 @@ export const montenegroAllPoi: POI[] = [
                         18.864324,
                         42.283247
                   ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "O stațiune de plajă în Sveti Stefan, oferind acces exclusiv la țărm.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "O piscină situată în stațiunea Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "Un club cu piscină în Sveti Stefan, cu vedere la mare.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "O piscină în orașul de coastă Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Plaža Miločer",
-                  "text": "O stațiune de plajă renumită lângă Sveti Stefan, situată într-un golf pitoresc.",
-                  "category": "recreational",
-                  "coords": [
-                        18.893254,
-                        42.260645
-                  ]
-            },
-            {
-                  "name": "Plaža Hawaii (5A)",
-                  "text": "O stațiune de plajă lângă Sveti Stefan, cunoscută pentru atmosfera sa de vacanță.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846258,
-                        42.270918
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "FKK Crvena glavica",
-                  "text": "A scenic nudist beach located near Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.896433,
-                        42.246054
-                  ]
-            },
-            {
-                  "name": "Pržno",
-                  "text": "A popular beach in the village of Pržno near Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.892491,
-                        42.268696
-                  ]
-            },
-            {
-                  "name": "Laguna beach",
-                  "text": "A coastal beach area located in the Sveti Stefan region.",
-                  "category": "recreational",
-                  "coords": [
-                        18.850115,
-                        42.26932
-                  ]
-            },
-            {
-                  "name": "Sveti Stefan",
-                  "text": "The iconic beach area surrounding the Sveti Stefan peninsula.",
-                  "category": "recreational",
-                  "coords": [
-                        18.894699,
-                        42.255383
-                  ]
-            },
-            {
-                  "name": "Drobni pijesak",
-                  "text": "A secluded beach known for its clear water and fine sand near Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.902366,
-                        42.234524
-                  ]
-            },
-            {
-                  "name": "Kamenovo",
-                  "text": "A beautiful beach with turquoise water located between Budva and Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.886945,
-                        42.275283
-                  ]
-            },
-            {
-                  "name": "Queen's beach",
-                  "text": "A prestigious beach located in a small cove near Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.89242,
-                        42.26337
-                  ]
-            },
             {
                   "name": "Aqua Park Mediteran",
                   "text": "A water park offering slides and pools located in the Sveti Stefan area.",
@@ -547,60 +133,6 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         18.864324,
                         42.283247
-                  ]
-            },
-            {
-                  "name": "Beach House",
-                  "text": "A beach resort in Sveti Stefan, offering exclusive access to the coastline.",
-                  "category": "recreational",
-                  "coords": [
-                        18.862935,
-                        42.282784
-                  ]
-            },
-            {
-                  "name": "Hotels pool",
-                  "text": "A swimming pool located in the Sveti Stefan resort area.",
-                  "category": "recreational",
-                  "coords": [
-                        18.88288,
-                        42.279017
-                  ]
-            },
-            {
-                  "name": "Dudley Infnity Pool Club",
-                  "text": "A pool club in Sveti Stefan, offering views of the sea.",
-                  "category": "recreational",
-                  "coords": [
-                        18.859237,
-                        42.28009
-                  ]
-            },
-            {
-                  "name": "pizana",
-                  "text": "A swimming pool in the coastal town of Sveti Stefan.",
-                  "category": "recreational",
-                  "coords": [
-                        18.839957,
-                        42.279157
-                  ]
-            },
-            {
-                  "name": "Plaža Miločer",
-                  "text": "A renowned beach resort near Sveti Stefan, nestled in a picturesque bay.",
-                  "category": "recreational",
-                  "coords": [
-                        18.893254,
-                        42.260645
-                  ]
-            },
-            {
-                  "name": "Plaža Hawaii (5A)",
-                  "text": "A beach resort near Sveti Stefan, known for its holiday atmosphere.",
-                  "category": "recreational",
-                  "coords": [
-                        18.846258,
-                        42.270918
                   ]
             }
       ]
@@ -772,302 +304,10 @@ export const montenegroAllPoi: POI[] = [
   },
   {
     id: "me-black-lake", "sights": {
-      "de": [
-            {
-                  "name": "Ledena pećina",
-                  "text": "Eine bekannte Eishöhle im Durmitor-Nationalpark, bekannt für ihre permanenten Eisformationen.",
-                  "category": "landmark",
-                  "coords": [
-                        19.049651,
-                        43.139613
-                  ]
-            },
-            {
-                  "name": "Crvena Greda",
-                  "text": "Ein Gipfel im Durmitor-Massiv, der einen weiten Blick über den Crno-Jezero-See bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        19.052339,
-                        43.160982
-                  ]
-            },
-            {
-                  "name": "Mali Štuoc",
-                  "text": "Ein Berggipfel in der Nähe des Crno Jezero im Durmitor-Gebirge in Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.077036,
-                        43.17895
-                  ]
-            },
-            {
-                  "name": "Savin kuk",
-                  "text": "Ein markanter Berg im Durmitor-Nationalpark und ein beliebtes Ziel für Wanderer und Skifahrer.",
-                  "category": "landmark",
-                  "coords": [
-                        19.080852,
-                        43.122699
-                  ]
-            },
-            {
-                  "name": "Javorovača",
-                  "text": "Ein kleiner Berg bei Žabljak, der oft für Skiaktivitäten genutzt wird.",
-                  "category": "landmark",
-                  "coords": [
-                        19.127755,
-                        43.145882
-                  ]
-            },
-            {
-                  "name": "Runjevača",
-                  "text": "Ein Berggipfel im Durmitor-Massiv oberhalb des Schwarzen Sees.",
-                  "category": "landmark",
-                  "coords": [
-                        19.138333,
-                        43.140934
-                  ]
-            },
-            {
-                  "name": "Jelovačka pećina",
-                  "text": "Ein Höhleneingang in der zerklüfteten Karstlandschaft des Durmitor-Gebirges.",
-                  "category": "landmark",
-                  "coords": [
-                        19.052968,
-                        43.153465
-                  ]
-            },
-            {
-                  "name": "Veliki Međed (Sjeverni vrh)",
-                  "text": "Einer der markantesten Gipfel des Durmitor-Gebirges direkt über dem Crno-Jezero-See.",
-                  "category": "landmark",
-                  "coords": [
-                        19.068319,
-                        43.127956
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Ledena pećina",
-                  "text": "Népszerű jégbarlang a Durmitor Nemzeti Parkban, állandó jégalakzatairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        19.049651,
-                        43.139613
-                  ]
-            },
-            {
-                  "name": "Crvena Greda",
-                  "text": "A Durmitor-masszívum egyik csúcsa, amely tágas kilátást nyújt a Fekete-tóra.",
-                  "category": "landmark",
-                  "coords": [
-                        19.052339,
-                        43.160982
-                  ]
-            },
-            {
-                  "name": "Mali Štuoc",
-                  "text": "Hegycsúcs a Fekete-tó közelében, a montenegrói Durmitor-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        19.077036,
-                        43.17895
-                  ]
-            },
-            {
-                  "name": "Savin kuk",
-                  "text": "Jellegzetes hegy a Durmitor Nemzeti Parkban, népszerű a túrázók és síelők körében.",
-                  "category": "landmark",
-                  "coords": [
-                        19.080852,
-                        43.122699
-                  ]
-            },
-            {
-                  "name": "Javorovača",
-                  "text": "Kisebb hegy Žabljak mellett, amelyet gyakran használnak síelésre.",
-                  "category": "landmark",
-                  "coords": [
-                        19.127755,
-                        43.145882
-                  ]
-            },
-            {
-                  "name": "Runjevača",
-                  "text": "Hegycsúcs a Durmitor-masszívumban, a Fekete-tó felett.",
-                  "category": "landmark",
-                  "coords": [
-                        19.138333,
-                        43.140934
-                  ]
-            },
-            {
-                  "name": "Jelovačka pećina",
-                  "text": "Barlangbejárat a Durmitor-hegység sziklás karsztvidékén.",
-                  "category": "landmark",
-                  "coords": [
-                        19.052968,
-                        43.153465
-                  ]
-            },
-            {
-                  "name": "Veliki Međed (Sjeverni vrh)",
-                  "text": "A Durmitor-hegység egyik leglátványosabb csúcsa közvetlenül a Fekete-tó felett.",
-                  "category": "landmark",
-                  "coords": [
-                        19.068319,
-                        43.127956
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Ledena pećina",
-                  "text": "O peșteră de gheață celebră în Parcul Național Durmitor, cunoscută pentru formațiunile de gheață permanente.",
-                  "category": "landmark",
-                  "coords": [
-                        19.049651,
-                        43.139613
-                  ]
-            },
-            {
-                  "name": "Crvena Greda",
-                  "text": "Un vârf în masivul Durmitor, oferind o panoramă vastă asupra lacului Crno Jezero.",
-                  "category": "landmark",
-                  "coords": [
-                        19.052339,
-                        43.160982
-                  ]
-            },
-            {
-                  "name": "Mali Štuoc",
-                  "text": "Un vârf muntos lângă Lacul Negru în Munții Durmitor din Muntenegru.",
-                  "category": "landmark",
-                  "coords": [
-                        19.077036,
-                        43.17895
-                  ]
-            },
-            {
-                  "name": "Savin kuk",
-                  "text": "Un munte proeminent în Parcul Național Durmitor, destinație populară pentru drumeții și schi.",
-                  "category": "landmark",
-                  "coords": [
-                        19.080852,
-                        43.122699
-                  ]
-            },
-            {
-                  "name": "Javorovača",
-                  "text": "Un munte mic lângă Žabljak, utilizat adesea pentru activități de schi.",
-                  "category": "landmark",
-                  "coords": [
-                        19.127755,
-                        43.145882
-                  ]
-            },
-            {
-                  "name": "Runjevača",
-                  "text": "Un vârf montan în masivul Durmitor, deasupra Lacului Negru.",
-                  "category": "landmark",
-                  "coords": [
-                        19.138333,
-                        43.140934
-                  ]
-            },
-            {
-                  "name": "Jelovačka pećina",
-                  "text": "O intrare în peșteră în peisajul carstic accidentat al Munților Durmitor.",
-                  "category": "landmark",
-                  "coords": [
-                        19.052968,
-                        43.153465
-                  ]
-            },
-            {
-                  "name": "Veliki Međed (Sjeverni vrh)",
-                  "text": "Unul dintre cele mai distinctive vârfuri din Durmitor, situat direct deasupra lacului Crno Jezero.",
-                  "category": "landmark",
-                  "coords": [
-                        19.068319,
-                        43.127956
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ice cave",
-                  "text": "A famous ice cave in Durmitor National Park, known for its permanent ice formations.",
-                  "category": "landmark",
-                  "coords": [
-                        19.049651,
-                        43.139613
-                  ]
-            },
-            {
-                  "name": "Crvena Greda",
-                  "text": "A peak in the Durmitor massif offering expansive views over the Black Lake.",
-                  "category": "landmark",
-                  "coords": [
-                        19.052339,
-                        43.160982
-                  ]
-            },
-            {
-                  "name": "Mali Štuoc",
-                  "text": "A mountain peak near the Black Lake in the Durmitor range of Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.077036,
-                        43.17895
-                  ]
-            },
-            {
-                  "name": "Savin kuk",
-                  "text": "A prominent mountain in Durmitor National Park, popular for hiking and skiing.",
-                  "category": "landmark",
-                  "coords": [
-                        19.080852,
-                        43.122699
-                  ]
-            },
-            {
-                  "name": "Javorovača",
-                  "text": "A smaller mountain near Žabljak, often used for skiing activities.",
-                  "category": "landmark",
-                  "coords": [
-                        19.127755,
-                        43.145882
-                  ]
-            },
-            {
-                  "name": "Runjevača",
-                  "text": "A mountain peak in the Durmitor massif overlooking the Black Lake.",
-                  "category": "landmark",
-                  "coords": [
-                        19.138333,
-                        43.140934
-                  ]
-            },
-            {
-                  "name": "Jelovačka pećina",
-                  "text": "A cave entrance located in the rugged karst landscape of the Durmitor Mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        19.052968,
-                        43.153465
-                  ]
-            },
-            {
-                  "name": "Veliki Međed (Sjeverni vrh)",
-                  "text": "One of the most distinctive peaks of Durmitor, situated directly above the Black Lake.",
-                  "category": "landmark",
-                  "coords": [
-                        19.068319,
-                        43.127956
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     name: { de: "Schwarzer See", hu: "Fekete-tó", ro: "Lacul Negru", en: "Black Lake" },
     type: "lake",
@@ -1550,15 +790,6 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Ehemaliges Regierungsgebäude, das heute das Nationalmuseum von Montenegro beherbergt.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
                   "name": "Muzej Kralja Nikole",
                   "text": "Ehemalige Residenz des montenegrinischen Königs in Cetinje, heute ein Museum.",
                   "category": "museum",
@@ -1574,15 +805,6 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         18.923008,
                         42.387819
-                  ]
-            },
-            {
-                  "name": "Königliches Theater Zetski Dom",
-                  "text": "Historisches Theater in Cetinje, das älteste Staatstheater Montenegros.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
                   ]
             },
             {
@@ -1606,15 +828,6 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Egykori kormányzati épület, amely ma Montenegró Nemzeti Múzeumának ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
                   "name": "Muzej Kralja Nikole",
                   "text": "A montenegrói király egykori rezidenciája Cetinjében, ma múzeum.",
                   "category": "museum",
@@ -1630,15 +843,6 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         18.923008,
                         42.387819
-                  ]
-            },
-            {
-                  "name": "Kraljevsko Pozorište Zetski Dom",
-                  "text": "Történelmi színház Cetinjében, Montenegró legrégebbi állami színháza.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
                   ]
             },
             {
@@ -1662,15 +866,6 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Vladin dom - Narodni muzej Crne Gore",
-                  "text": "Fosta clădire a guvernului, care găzduiește astăzi Muzeul Național al Muntenegrului.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
                   "name": "Muzej Kralja Nikole",
                   "text": "Fosta reședință a regelui muntenegrean din Cetinje, astăzi muzeu.",
                   "category": "museum",
@@ -1686,15 +881,6 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         18.923008,
                         42.387819
-                  ]
-            },
-            {
-                  "name": "Kraljevsko Pozorište Zetski Dom",
-                  "text": "Teatru istoric din Cetinje, cel mai vechi teatru de stat din Muntenegru.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
                   ]
             },
             {
@@ -1718,15 +904,6 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Government House - National Museum of Montenegro",
-                  "text": "Former government building that now houses the National Museum of Montenegro.",
-                  "category": "museum",
-                  "coords": [
-                        18.922877,
-                        42.38926
-                  ]
-            },
-            {
                   "name": "Museum of King Nikola I Petrović",
                   "text": "Former residence of the Montenegrin king in Cetinje, now a museum.",
                   "category": "museum",
@@ -1742,15 +919,6 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         18.923008,
                         42.387819
-                  ]
-            },
-            {
-                  "name": "Royal Theatre Zetski Dom",
-                  "text": "Historical theatre in Cetinje, Montenegro's oldest state theatre.",
-                  "category": "cultural",
-                  "coords": [
-                        18.926905,
-                        42.388632
                   ]
             },
             {
@@ -3517,15 +2685,6 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Castana",
-                  "text": "Ein Strandresort in Perast, das Schwimm- und Erholungsmöglichkeiten am Wasser bietet.",
-                  "category": "family",
-                  "coords": [
-                        18.657522,
-                        42.487306
-                  ]
-            },
-            {
                   "name": "Palača Smekja",
                   "text": "Einer der größten und bedeutendsten Paläste in der Altstadt von Perast.",
                   "category": "castle",
@@ -3541,15 +2700,6 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         18.700232,
                         42.485274
-                  ]
-            },
-            {
-                  "name": "Bajova kula",
-                  "text": "Ein beliebter Kiesstrand in der Nähe von Perast an der Bucht von Kotor.",
-                  "category": "recreational",
-                  "coords": [
-                        18.734673,
-                        42.483709
                   ]
             },
             {
@@ -3600,15 +2750,6 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Castana",
-                  "text": "Egy tengerparti üdülőhely Perast városában, amely úszási és kikapcsolódási lehetőségeket kínál a vízparton.",
-                  "category": "family",
-                  "coords": [
-                        18.657522,
-                        42.487306
-                  ]
-            },
-            {
                   "name": "Palača Smekja",
                   "text": "Perast óvárosának egyik legnagyobb és legjelentősebb palotája.",
                   "category": "castle",
@@ -3624,15 +2765,6 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         18.700232,
                         42.485274
-                  ]
-            },
-            {
-                  "name": "Bajova kula",
-                  "text": "Népszerű kavicsos strand Perast közelében, a Kotori-öbölben.",
-                  "category": "recreational",
-                  "coords": [
-                        18.734673,
-                        42.483709
                   ]
             },
             {
@@ -3683,15 +2815,6 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Castana",
-                  "text": "O stațiune la plajă din Perast care oferă oportunități de înot și relaxare la malul apei.",
-                  "category": "family",
-                  "coords": [
-                        18.657522,
-                        42.487306
-                  ]
-            },
-            {
                   "name": "Palača Smekja",
                   "text": "Unul dintre cele mai mari și mai importante palate din orașul vechi Perast.",
                   "category": "castle",
@@ -3707,15 +2830,6 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         18.700232,
                         42.485274
-                  ]
-            },
-            {
-                  "name": "Bajova kula",
-                  "text": "O plajă populară cu pietriș lângă Perast, în Golful Kotor.",
-                  "category": "recreational",
-                  "coords": [
-                        18.734673,
-                        42.483709
                   ]
             },
             {
@@ -3766,15 +2880,6 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Castana",
-                  "text": "A beach resort in Perast offering swimming and relaxation opportunities by the water.",
-                  "category": "family",
-                  "coords": [
-                        18.657522,
-                        42.487306
-                  ]
-            },
-            {
                   "name": "Smekja Palace",
                   "text": "One of the largest and most significant palaces in the old town of Perast.",
                   "category": "castle",
@@ -3790,15 +2895,6 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         18.700232,
                         42.485274
-                  ]
-            },
-            {
-                  "name": "Bajova kula",
-                  "text": "A popular pebble beach located near Perast on the Bay of Kotor.",
-                  "category": "recreational",
-                  "coords": [
-                        18.734673,
-                        42.483709
                   ]
             },
             {
@@ -4613,15 +3709,6 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Štirovnik",
-                  "text": "Der höchste Gipfel des Lovćen-Gebirges in Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        18.818435,
-                        42.399166
-                  ]
-            },
-            {
                   "name": "Golo brdo",
                   "text": "Ein markanter Berggipfel im Nationalpark Lovćen.",
                   "category": "landmark",
@@ -4631,39 +3718,12 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Babljak",
-                  "text": "Ein Berggipfel im Nationalpark Lovćen mit herrlicher Aussicht.",
-                  "category": "landmark",
-                  "coords": [
-                        18.820133,
-                        42.387945
-                  ]
-            },
-            {
-                  "name": "Golubinja pećina",
-                  "text": "Ein Höhleneingang im Gebiet des Nationalparks Lovćen.",
-                  "category": "landmark",
-                  "coords": [
-                        18.799506,
-                        42.421846
-                  ]
-            },
-            {
                   "name": "Miloševa pećina",
                   "text": "Ein natürlicher Höhleneingang im Lovćen-Gebirge.",
                   "category": "landmark",
                   "coords": [
                         18.847964,
                         42.398869
-                  ]
-            },
-            {
-                  "name": "Jančine",
-                  "text": "Ein Gipfel im Lovćen-Massiv, bekannt für seine raue Landschaft.",
-                  "category": "landmark",
-                  "coords": [
-                        18.799431,
-                        42.400166
                   ]
             }
       ],
@@ -4687,15 +3747,6 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Štirovnik",
-                  "text": "A montenegrói Lovćen-hegység legmagasabb csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        18.818435,
-                        42.399166
-                  ]
-            },
-            {
                   "name": "Golo brdo",
                   "text": "Egy jellegzetes hegycsúcs a Lovćen Nemzeti Parkban.",
                   "category": "landmark",
@@ -4705,39 +3756,12 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Babljak",
-                  "text": "Kilátást nyújtó hegycsúcs a Lovćen Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        18.820133,
-                        42.387945
-                  ]
-            },
-            {
-                  "name": "Golubinja pećina",
-                  "text": "Barlangbejárat a Lovćen Nemzeti Park területén.",
-                  "category": "landmark",
-                  "coords": [
-                        18.799506,
-                        42.421846
-                  ]
-            },
-            {
                   "name": "Miloševa pećina",
                   "text": "Természetes barlangbejárat a Lovćen-hegységben.",
                   "category": "landmark",
                   "coords": [
                         18.847964,
                         42.398869
-                  ]
-            },
-            {
-                  "name": "Jančine",
-                  "text": "A Lovćen-masszívum egyik csúcsa, amely vadregényes tájáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        18.799431,
-                        42.400166
                   ]
             }
       ],
@@ -4761,15 +3785,6 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Štirovnik",
-                  "text": "Cel mai înalt vârf al masivului Lovćen din Muntenegru.",
-                  "category": "landmark",
-                  "coords": [
-                        18.818435,
-                        42.399166
-                  ]
-            },
-            {
                   "name": "Golo brdo",
                   "text": "Un vârf montan proeminent situat în Parcul Național Lovćen.",
                   "category": "landmark",
@@ -4779,39 +3794,12 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Babljak",
-                  "text": "Un vârf montan care oferă vederi panoramice în Parcul Național Lovćen.",
-                  "category": "landmark",
-                  "coords": [
-                        18.820133,
-                        42.387945
-                  ]
-            },
-            {
-                  "name": "Golubinja pećina",
-                  "text": "O intrare în peșteră situată în zona Parcului Național Lovćen.",
-                  "category": "landmark",
-                  "coords": [
-                        18.799506,
-                        42.421846
-                  ]
-            },
-            {
                   "name": "Miloševa pećina",
                   "text": "O intrare naturală în peșteră situată în munții Lovćen.",
                   "category": "landmark",
                   "coords": [
                         18.847964,
                         42.398869
-                  ]
-            },
-            {
-                  "name": "Jančine",
-                  "text": "Un vârf din masivul Lovćen, cunoscut pentru peisajul său accidentat.",
-                  "category": "landmark",
-                  "coords": [
-                        18.799431,
-                        42.400166
                   ]
             }
       ],
@@ -4835,15 +3823,6 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Štirovnik",
-                  "text": "The highest peak of the Lovćen mountain range in Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        18.818435,
-                        42.399166
-                  ]
-            },
-            {
                   "name": "Golo brdo",
                   "text": "A prominent mountain peak located within Lovćen National Park.",
                   "category": "landmark",
@@ -4853,39 +3832,12 @@ export const montenegroAllPoi: POI[] = [
                   ]
             },
             {
-                  "name": "Babljak",
-                  "text": "A mountain peak offering scenic views in Lovćen National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        18.820133,
-                        42.387945
-                  ]
-            },
-            {
-                  "name": "Golubinja pećina",
-                  "text": "A cave entrance located in the Lovćen National Park area.",
-                  "category": "landmark",
-                  "coords": [
-                        18.799506,
-                        42.421846
-                  ]
-            },
-            {
                   "name": "Miloševa pećina",
                   "text": "A natural cave entrance situated in the Lovćen mountains.",
                   "category": "landmark",
                   "coords": [
                         18.847964,
                         42.398869
-                  ]
-            },
-            {
-                  "name": "Jančine",
-                  "text": "A peak in the Lovćen massif known for its rugged landscape.",
-                  "category": "landmark",
-                  "coords": [
-                        18.799431,
-                        42.400166
                   ]
             }
       ]
@@ -4934,50 +3886,10 @@ export const montenegroAllPoi: POI[] = [
   // ME-019: Šavnik
   {
     id: "me-019-city", "sights": {
-      "de": [
-            {
-                  "name": "Biovski manastir",
-                  "text": "Ein abgelegenes orthodoxes Kloster in der malerischen Region Šavnik in Montenegro.",
-                  "category": "religious",
-                  "coords": [
-                        19.100415,
-                        42.940285
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Biovski manastir",
-                  "text": "Egy eldugott ortodox kolostor Montenegró festői Šavnik régiójában.",
-                  "category": "religious",
-                  "coords": [
-                        19.100415,
-                        42.940285
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Biovski manastir",
-                  "text": "O mănăstire ortodoxă retrasă în regiunea pitorească Šavnik din Muntenegru.",
-                  "category": "religious",
-                  "coords": [
-                        19.100415,
-                        42.940285
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Biovski manastir",
-                  "text": "A secluded Orthodox monastery in the scenic Šavnik region of Montenegro.",
-                  "category": "religious",
-                  "coords": [
-                        19.100415,
-                        42.940285
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     name: { de: "Šavnik", hu: "Šavnik", ro: "Šavnik", en: "Šavnik" },
     type: "city",
@@ -5374,33 +4286,6 @@ export const montenegroAllPoi: POI[] = [
     id: "me-020-bjelasica", "sights": {
       "de": [
             {
-                  "name": "Nationalpark Biogradska Gora",
-                  "text": "Einer der letzten Urwälder Europas mit einem zentralen Gletschersee in Montenegro.",
-                  "category": "natural",
-                  "coords": [
-                        19.63949,
-                        42.882191
-                  ]
-            },
-            {
-                  "name": "Zekova glava",
-                  "text": "Einer der höchsten Gipfel des Bjelasica-Gebirges in Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.67806,
-                        42.850673
-                  ]
-            },
-            {
-                  "name": "Troglava",
-                  "text": "Ein markanter Berggipfel im Bjelasica-Gebirge, beliebt zum Skifahren und Wandern.",
-                  "category": "landmark",
-                  "coords": [
-                        19.659278,
-                        42.849164
-                  ]
-            },
-            {
                   "name": "Žuber",
                   "text": "Ein malerischer Berggipfel innerhalb des montenegrinischen Bjelasica-Massivs.",
                   "category": "landmark",
@@ -5417,63 +4302,9 @@ export const montenegroAllPoi: POI[] = [
                         19.695311,
                         42.877417
                   ]
-            },
-            {
-                  "name": "Čevačka glava",
-                  "text": "Ein Berggipfel mit Blick über die zerklüftete Landschaft von Bjelasica.",
-                  "category": "landmark",
-                  "coords": [
-                        19.675929,
-                        42.839868
-                  ]
-            },
-            {
-                  "name": "Ogorela glava",
-                  "text": "Einer der vielen malerischen Gipfel des Bjelasica-Gebirges in Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.623752,
-                        42.864545
-                  ]
-            },
-            {
-                  "name": "Lastra",
-                  "text": "Ein Berggipfel in der Region Bjelasica, charakteristisch für das lokale Gelände.",
-                  "category": "landmark",
-                  "coords": [
-                        19.647472,
-                        42.882819
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Nacionalni park Biogradska gora",
-                  "text": "Európa egyik utolsó őserdője, közepén egy gleccsertóval Montenegróban.",
-                  "category": "natural",
-                  "coords": [
-                        19.63949,
-                        42.882191
-                  ]
-            },
-            {
-                  "name": "Zekova glava",
-                  "text": "Montenegró Bjelasica-hegységének egyik legmagasabb csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        19.67806,
-                        42.850673
-                  ]
-            },
-            {
-                  "name": "Troglava",
-                  "text": "Jelentős hegycsúcs a Bjelasica-hegységben, népszerű síelésre és túrázásra.",
-                  "category": "landmark",
-                  "coords": [
-                        19.659278,
-                        42.849164
-                  ]
-            },
             {
                   "name": "Žuber",
                   "text": "Festői hegycsúcs a montenegrói Bjelasica-masszívumban.",
@@ -5491,63 +4322,9 @@ export const montenegroAllPoi: POI[] = [
                         19.695311,
                         42.877417
                   ]
-            },
-            {
-                  "name": "Čevačka glava",
-                  "text": "Hegycsúcs, ahonnan kilátás nyílik a Bjelasica vadregényes tájára.",
-                  "category": "landmark",
-                  "coords": [
-                        19.675929,
-                        42.839868
-                  ]
-            },
-            {
-                  "name": "Ogorela glava",
-                  "text": "A montenegrói Bjelasica-hegység számos festői csúcsának egyike.",
-                  "category": "landmark",
-                  "coords": [
-                        19.623752,
-                        42.864545
-                  ]
-            },
-            {
-                  "name": "Lastra",
-                  "text": "Hegycsúcs a Bjelasica régióban, amely jellemző a helyi terepviszonyokra.",
-                  "category": "landmark",
-                  "coords": [
-                        19.647472,
-                        42.882819
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Nacionalni park Biogradska gora",
-                  "text": "Una dintre ultimele păduri virgine din Europa, cu un lac glaciar central în Muntenegru.",
-                  "category": "natural",
-                  "coords": [
-                        19.63949,
-                        42.882191
-                  ]
-            },
-            {
-                  "name": "Zekova glava",
-                  "text": "Unul dintre cele mai înalte vârfuri ale lanțului muntos Bjelasica din Muntenegru.",
-                  "category": "landmark",
-                  "coords": [
-                        19.67806,
-                        42.850673
-                  ]
-            },
-            {
-                  "name": "Troglava",
-                  "text": "Un vârf muntos proeminent din masivul Bjelasica, popular pentru schi și drumeții.",
-                  "category": "landmark",
-                  "coords": [
-                        19.659278,
-                        42.849164
-                  ]
-            },
             {
                   "name": "Žuber",
                   "text": "Un vârf muntos pitoresc situat în masivul montenegrean Bjelasica.",
@@ -5565,63 +4342,9 @@ export const montenegroAllPoi: POI[] = [
                         19.695311,
                         42.877417
                   ]
-            },
-            {
-                  "name": "Čevačka glava",
-                  "text": "Un vârf muntos care oferă vederi asupra peisajului accidentat al Bjelasicăi.",
-                  "category": "landmark",
-                  "coords": [
-                        19.675929,
-                        42.839868
-                  ]
-            },
-            {
-                  "name": "Ogorela glava",
-                  "text": "Unul dintre numeroasele vârfuri pitorești din lanțul muntos Bjelasica din Muntenegru.",
-                  "category": "landmark",
-                  "coords": [
-                        19.623752,
-                        42.864545
-                  ]
-            },
-            {
-                  "name": "Lastra",
-                  "text": "Un vârf muntos din regiunea Bjelasica, caracteristic reliefului local.",
-                  "category": "landmark",
-                  "coords": [
-                        19.647472,
-                        42.882819
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Biogradska Gora National Park",
-                  "text": "One of Europe's last primeval forests, featuring a central glacial lake in Montenegro.",
-                  "category": "natural",
-                  "coords": [
-                        19.63949,
-                        42.882191
-                  ]
-            },
-            {
-                  "name": "Zekova glava",
-                  "text": "One of the highest peaks of the Bjelasica mountain range in Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.67806,
-                        42.850673
-                  ]
-            },
-            {
-                  "name": "Troglava",
-                  "text": "A prominent mountain peak in the Bjelasica range, popular for skiing and hiking.",
-                  "category": "landmark",
-                  "coords": [
-                        19.659278,
-                        42.849164
-                  ]
-            },
             {
                   "name": "Žuber",
                   "text": "A scenic mountain peak located within the Montenegrin Bjelasica massif.",
@@ -5638,33 +4361,6 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         19.695311,
                         42.877417
-                  ]
-            },
-            {
-                  "name": "Čevačka glava",
-                  "text": "A mountain summit offering views over the rugged landscape of Bjelasica.",
-                  "category": "landmark",
-                  "coords": [
-                        19.675929,
-                        42.839868
-                  ]
-            },
-            {
-                  "name": "Ogorela glava",
-                  "text": "One of the many scenic peaks found in the Bjelasica mountain range in Montenegro.",
-                  "category": "landmark",
-                  "coords": [
-                        19.623752,
-                        42.864545
-                  ]
-            },
-            {
-                  "name": "Lastra",
-                  "text": "A mountain peak in the Bjelasica region, characteristic of the local terrain.",
-                  "category": "landmark",
-                  "coords": [
-                        19.647472,
-                        42.882819
                   ]
             }
       ]

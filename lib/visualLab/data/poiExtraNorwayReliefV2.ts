@@ -67,15 +67,6 @@ export const norwayReliefV2: POI[] = [
                         7.737574,
                         62.474729
                   ]
-            },
-            {
-                  "name": "Bruraskaret",
-                  "text": "Der Gebirgspass Bruraskaret nahe der Trollveggen-Klippe.",
-                  "category": "natural",
-                  "coords": [
-                        7.721816,
-                        62.482373
-                  ]
             }
       ],
       "hu": [
@@ -95,15 +86,6 @@ export const norwayReliefV2: POI[] = [
                   "coords": [
                         7.737574,
                         62.474729
-                  ]
-            },
-            {
-                  "name": "Bruraskaret",
-                  "text": "A Bruraskaret hegyi hágó a Trollveggen sziklafal közelében.",
-                  "category": "natural",
-                  "coords": [
-                        7.721816,
-                        62.482373
                   ]
             }
       ],
@@ -125,15 +107,6 @@ export const norwayReliefV2: POI[] = [
                         7.737574,
                         62.474729
                   ]
-            },
-            {
-                  "name": "Bruraskaret",
-                  "text": "Pasul montan Bruraskaret lângă stânca Trollveggen.",
-                  "category": "natural",
-                  "coords": [
-                        7.721816,
-                        62.482373
-                  ]
             }
       ],
       "en": [
@@ -153,15 +126,6 @@ export const norwayReliefV2: POI[] = [
                   "coords": [
                         7.737574,
                         62.474729
-                  ]
-            },
-            {
-                  "name": "Bruraskaret",
-                  "text": "Bruraskaret mountain pass near Trollveggen cliff.",
-                  "category": "natural",
-                  "coords": [
-                        7.721816,
-                        62.482373
                   ]
             }
       ]
@@ -1581,15 +1545,6 @@ export const norwayReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stabbeskaret",
-                  "text": "Ein spektakulärer Aussichtspunkt oberhalb der Trollveggen-Steilwand.",
-                  "category": "natural",
-                  "coords": [
-                        7.737574,
-                        62.474729
-                  ]
-            },
-            {
                   "name": "Trollstigen og Stigfossen",
                   "text": "Ein Aussichtspunkt mit Blick auf die berühmte Straße und den Wasserfall Stigfossen.",
                   "category": "natural",
@@ -1616,15 +1571,6 @@ export const norwayReliefV2: POI[] = [
                   "coords": [
                         7.666897,
                         62.454669
-                  ]
-            },
-            {
-                  "name": "Stabbeskaret",
-                  "text": "Látványos kilátópont a Trollveggen sziklafal felett.",
-                  "category": "natural",
-                  "coords": [
-                        7.737574,
-                        62.474729
                   ]
             },
             {
@@ -1657,15 +1603,6 @@ export const norwayReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Stabbeskaret",
-                  "text": "Un punct de observație spectaculos deasupra peretelui vertical Trollveggen.",
-                  "category": "natural",
-                  "coords": [
-                        7.737574,
-                        62.474729
-                  ]
-            },
-            {
                   "name": "Trollstigen og Stigfossen",
                   "text": "Un punct de observație cu vedere spre drumul faimos și cascada Stigfossen.",
                   "category": "natural",
@@ -1692,15 +1629,6 @@ export const norwayReliefV2: POI[] = [
                   "coords": [
                         7.666897,
                         62.454669
-                  ]
-            },
-            {
-                  "name": "Stabbeskaret",
-                  "text": "A spectacular viewpoint above the Trollveggen cliff face.",
-                  "category": "natural",
-                  "coords": [
-                        7.737574,
-                        62.474729
                   ]
             },
             {

@@ -4528,15 +4528,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Culturel International de Hammamet",
-                  "text": "Das Internationale Kulturzentrum von Hammamet ist in der Festung der Altstadt untergebracht und beherbergt das Internationale Festival von Hammamet.",
-                  "category": "cultural",
-                  "coords": [
-                        10.594646,
-                        36.404219
-                  ]
-            },
-            {
                   "name": "Statue d'un Soldat Martyr",
                   "text": "Marmorstatue eines gefallenen Soldaten auf dem Hauptplatz von Hammamet.",
                   "category": "historical",
@@ -4608,15 +4599,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   "coords": [
                         10.610935,
                         36.395783
-                  ]
-            },
-            {
-                  "name": "Centre Culturel International de Hammamet",
-                  "text": "A Hammameti Nemzetközi Kulturális Központ az óváros erődjében található, és itt rendezik a Hammameti Nemzetközi Fesztivált.",
-                  "category": "cultural",
-                  "coords": [
-                        10.594646,
-                        36.404219
                   ]
             },
             {
@@ -4694,15 +4676,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centre Culturel International de Hammamet",
-                  "text": "Centrul Cultural Internațional din Hammamet este găzduit în fortăreața medinei și găzduiește Festivalul Internațional de la Hammamet.",
-                  "category": "cultural",
-                  "coords": [
-                        10.594646,
-                        36.404219
-                  ]
-            },
-            {
                   "name": "Statue d'un Soldat Martyr",
                   "text": "Statuie de marmură a unui soldat martir în piața principală din Hammamet.",
                   "category": "historical",
@@ -4777,15 +4750,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "International Culture Center of Hammamet",
-                  "text": "The International Culture Center of Hammamet is housed in the old medina fortress and hosts the International Festival of Hammamet.",
-                  "category": "cultural",
-                  "coords": [
-                        10.594646,
-                        36.404219
-                  ]
-            },
-            {
                   "name": "Statue d'un Soldat Martyr",
                   "text": "Marble statue of a martyr soldier on the main square of Hammamet.",
                   "category": "historical",
@@ -4856,15 +4820,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                         11.113926,
                         33.502051
                   ]
-            },
-            {
-                  "name": "Leuchtturm Zarzis",
-                  "text": "Weißer Leuchtturm an der Küste von Zarzis, Wegweiser für Schiffe.",
-                  "category": "landmark",
-                  "coords": [
-                        11.119708,
-                        33.49714
-                  ]
             }
       ],
       "hu": [
@@ -4875,15 +4830,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   "coords": [
                         11.113926,
                         33.502051
-                  ]
-            },
-            {
-                  "name": "Leuchtturm Zarzis",
-                  "text": "Fehér világítótorony Zarzis partjainál, hajók irányjelzője.",
-                  "category": "landmark",
-                  "coords": [
-                        11.119708,
-                        33.49714
                   ]
             }
       ],
@@ -4896,15 +4842,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                         11.113926,
                         33.502051
                   ]
-            },
-            {
-                  "name": "Leuchtturm Zarzis",
-                  "text": "Far alb pe coasta Zarzisului, reper pentru nave.",
-                  "category": "landmark",
-                  "coords": [
-                        11.119708,
-                        33.49714
-                  ]
             }
       ],
       "en": [
@@ -4915,15 +4852,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   "coords": [
                         11.113926,
                         33.502051
-                  ]
-            },
-            {
-                  "name": "Leuchtturm Zarzis",
-                  "text": "White lighthouse on the coast of Zarzis, guiding ships.",
-                  "category": "landmark",
-                  "coords": [
-                        11.119708,
-                        33.49714
                   ]
             }
       ]
@@ -5086,33 +5014,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sbeïtla",
-                  "text": "Sbeïtla ist eine renommierte archäologische Attraktion mit weitläufigen antiken Ruinen.",
-                  "category": "landmark",
-                  "coords": [
-                        9.120342,
-                        35.240338
-                  ]
-            },
-            {
-                  "name": "Amphithéâtre",
-                  "text": "Das Amphitheater in Sbeitla zeigt die Ruinen eines antiken Veranstaltungsortes.",
-                  "category": "historical",
-                  "coords": [
-                        9.114584,
-                        35.243636
-                  ]
-            },
-            {
-                  "name": "Pont Aqueduc",
-                  "text": "Antike Aquäduktbrücke in Sbeitla, ein Denkmal.",
-                  "category": "historical",
-                  "coords": [
-                        9.117636,
-                        35.245227
-                  ]
-            },
-            {
                   "name": "Théâtre",
                   "text": "Das Theater besteht aus antiken architektonischen Ruinen in Sbeitla.",
                   "category": "historical",
@@ -5158,15 +5059,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thermes",
-                  "text": "Die Thermen sind die archäologischen Überreste antiker öffentlicher Badeanlagen in Sbeitla.",
-                  "category": "historical",
-                  "coords": [
-                        9.121166,
-                        35.241413
-                  ]
-            },
-            {
                   "name": "Église des martyrs",
                   "text": "Frühchristliche Basilika mit drei Schiffen und Baptisterium in den Ruinen von Sbeitla.",
                   "category": "historical",
@@ -5184,33 +5076,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   "coords": [
                         9.118776,
                         35.239973
-                  ]
-            },
-            {
-                  "name": "Sbeïtla",
-                  "text": "Sbeïtla egy híres régészeti látványosság, amely kiterjedt ősi romokat mutat be.",
-                  "category": "landmark",
-                  "coords": [
-                        9.120342,
-                        35.240338
-                  ]
-            },
-            {
-                  "name": "Amphithéâtre",
-                  "text": "A sbeitlai amfiteátrum egy ókori előadóhely romjait mutatja be.",
-                  "category": "historical",
-                  "coords": [
-                        9.114584,
-                        35.243636
-                  ]
-            },
-            {
-                  "name": "Pont Aqueduc",
-                  "text": "Ősi vízvezeték-híd Sbeitlában, műemlék.",
-                  "category": "historical",
-                  "coords": [
-                        9.117636,
-                        35.245227
                   ]
             },
             {
@@ -5259,15 +5124,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thermes",
-                  "text": "A Fürdők az ókori nyilvános fürdőhelyiségek régészeti maradványai Sbeitlában.",
-                  "category": "historical",
-                  "coords": [
-                        9.121166,
-                        35.241413
-                  ]
-            },
-            {
                   "name": "Église des martyrs",
                   "text": "Kora keresztény bazilika három hajóval és keresztelőkápolnával Sbeitla romjai között.",
                   "category": "historical",
@@ -5285,33 +5141,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   "coords": [
                         9.118776,
                         35.239973
-                  ]
-            },
-            {
-                  "name": "Sbeïtla",
-                  "text": "Sbeïtla este o atracție arheologică renumită, cu ruine antice extinse.",
-                  "category": "landmark",
-                  "coords": [
-                        9.120342,
-                        35.240338
-                  ]
-            },
-            {
-                  "name": "Amphithéâtre",
-                  "text": "Amfiteatrul din Sbeitla prezintă ruinele unui vechi loc de spectacol.",
-                  "category": "historical",
-                  "coords": [
-                        9.114584,
-                        35.243636
-                  ]
-            },
-            {
-                  "name": "Pont Aqueduc",
-                  "text": "Podul antic al apeductului din Sbeitla, sit protejat.",
-                  "category": "historical",
-                  "coords": [
-                        9.117636,
-                        35.245227
                   ]
             },
             {
@@ -5360,15 +5189,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Thermes",
-                  "text": "Băile sunt rămășițele arheologice ale vechilor facilități de baie publică din Sbeitla.",
-                  "category": "historical",
-                  "coords": [
-                        9.121166,
-                        35.241413
-                  ]
-            },
-            {
                   "name": "Église des martyrs",
                   "text": "Basilică paleocreștină cu trei nave și baptisteriu în ruinele Sbeitlei.",
                   "category": "historical",
@@ -5386,33 +5206,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   "coords": [
                         9.118776,
                         35.239973
-                  ]
-            },
-            {
-                  "name": "Sbeïtla",
-                  "text": "Sbeïtla is a renowned archaeological attraction featuring extensive ancient ruins.",
-                  "category": "landmark",
-                  "coords": [
-                        9.120342,
-                        35.240338
-                  ]
-            },
-            {
-                  "name": "Amphitheatre",
-                  "text": "The Amphitheatre in Sbeitla features the ruins of an ancient performance venue.",
-                  "category": "historical",
-                  "coords": [
-                        9.114584,
-                        35.243636
-                  ]
-            },
-            {
-                  "name": "Aqueduct bridge",
-                  "text": "Ancient aqueduct bridge in Sbeitla, a heritage site.",
-                  "category": "historical",
-                  "coords": [
-                        9.117636,
-                        35.245227
                   ]
             },
             {
@@ -5458,15 +5251,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   "coords": [
                         9.116253,
                         35.243097
-                  ]
-            },
-            {
-                  "name": "Baths",
-                  "text": "The Baths are the archaeological remains of ancient public bathing facilities in Sbeitla.",
-                  "category": "historical",
-                  "coords": [
-                        9.121166,
-                        35.241413
                   ]
             },
             {
@@ -5893,15 +5677,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     id: "la-goulette-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Ḥalq al-Wādī",
-                  "text": "Kanalmündung, die den Tunissee mit dem Mittelmeer verbindet – historische Einfahrt von La Goulette.",
-                  "category": "landmark",
-                  "coords": [
-                        10.308768,
-                        36.80656
-                  ]
-            },
-            {
                   "name": "Le Kram Beach",
                   "text": "Sandstrand im Vorort Le Kram von Tunis mit Promenade.",
                   "category": "recreational",
@@ -5917,15 +5692,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   "coords": [
                         10.295893,
                         36.817931
-                  ]
-            },
-            {
-                  "name": "Le Kram - Exhibition and International Trade Center of Tunis",
-                  "text": "Modernes Ausstellungs- und Messezentrum am Hafen von Le Kram.",
-                  "category": "cultural",
-                  "coords": [
-                        10.301343,
-                        36.839382
                   ]
             },
             {
@@ -5967,15 +5733,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Le Kram - Exhibition and International Trade Center of Tunis",
-                  "text": "Modern kiállítási és vásárközpont Le Kram kikötőjénél.",
-                  "category": "cultural",
-                  "coords": [
-                        10.301343,
-                        36.839382
-                  ]
-            },
-            {
                   "name": "Église Saint-Augustin-et-Saint-Fidèle",
                   "text": "A Szent Ágoston és Szent Fidelisz-templom egy 19. századi katolikus templom La Goulette-ben, mór és gótikus stílusok keverékével.",
                   "category": "religious",
@@ -6014,15 +5771,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Le Kram - Exhibition and International Trade Center of Tunis",
-                  "text": "Centru modern de expoziții și târguri lângă portul Le Kram.",
-                  "category": "cultural",
-                  "coords": [
-                        10.301343,
-                        36.839382
-                  ]
-            },
-            {
                   "name": "Église Saint-Augustin-et-Saint-Fidèle",
                   "text": "Biserica Sf. Augustin și Sf. Fidelis este o biserică catolică din secolul al XIX-lea în La Goulette, cu un amestec de stiluri maure și gotice.",
                   "category": "religious",
@@ -6033,15 +5781,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Ḥalq al-Wādī",
-                  "text": "Canal mouth connecting Lake Tunis to the Mediterranean – the historic entrance of La Goulette.",
-                  "category": "landmark",
-                  "coords": [
-                        10.308768,
-                        36.80656
-                  ]
-            },
             {
                   "name": "Le Kram Beach",
                   "text": "Sandy beach in the Le Kram suburb of Tunis with a promenade.",
@@ -6058,15 +5797,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   "coords": [
                         10.295893,
                         36.817931
-                  ]
-            },
-            {
-                  "name": "Le Kram - Exhibition and International Trade Center of Tunis",
-                  "text": "Modern exhibition and trade center near the port of Le Kram.",
-                  "category": "cultural",
-                  "coords": [
-                        10.301343,
-                        36.839382
                   ]
             },
             {
@@ -6598,15 +6328,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     id: "el-djem-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Dar El Jem",
-                  "text": "Ein Museum in El Djem mit Exponaten zur lokalen römischen Geschichte und Mosaiken.",
-                  "category": "museum",
-                  "coords": [
-                        10.705421,
-                        35.298418
-                  ]
-            },
-            {
                   "name": "Musée et Monuments du Quartier Sud de Thysdrus",
                   "text": "Ein archäologisches Areal, das die Ruinen von Wohnvierteln der antiken Stadt Thysdrus bewahrt.",
                   "category": "historical",
@@ -6614,54 +6335,9 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                         10.704947,
                         35.290213
                   ]
-            },
-            {
-                  "name": "Archeological Park",
-                  "text": "Ein ausgewiesener Park mit bedeutenden Ruinen aus der Römerzeit in El Djem.",
-                  "category": "historical",
-                  "coords": [
-                        10.700217,
-                        35.29678
-                  ]
-            },
-            {
-                  "name": "Roman Hippodrome of El Jem",
-                  "text": "Die Überreste eines antiken römischen Stadions für Wagenrennen in El Djem.",
-                  "category": "historical",
-                  "coords": [
-                        10.693711,
-                        35.302014
-                  ]
-            },
-            {
-                  "name": "Baths of Thysdrus",
-                  "text": "Die ausgegrabenen Ruinen eines römischen öffentlichen Thermenkomplexes im antiken Thysdrus.",
-                  "category": "historical",
-                  "coords": [
-                        10.698759,
-                        35.291426
-                  ]
-            },
-            {
-                  "name": "Inb Khaldoun Culture House",
-                  "text": "Ein kommunales Kunstzentrum in El Djem, das lokale kulturelle und künstlerische Aktivitäten fördert.",
-                  "category": "cultural",
-                  "coords": [
-                        10.708029,
-                        35.301779
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Dar El Jem",
-                  "text": "Múzeum El Djemben, amely a helyi római kori történelmet és mozaikokat mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        10.705421,
-                        35.298418
-                  ]
-            },
             {
                   "name": "Musée et Monuments du Quartier Sud de Thysdrus",
                   "text": "Régészeti terület, amely az ókori Thysdrus városának lakónegyedeit őrzi.",
@@ -6670,54 +6346,9 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                         10.704947,
                         35.290213
                   ]
-            },
-            {
-                  "name": "Archeological Park",
-                  "text": "Kijelölt parkterület, amely jelentős római kori romokat tartalmaz El Djemben.",
-                  "category": "historical",
-                  "coords": [
-                        10.700217,
-                        35.29678
-                  ]
-            },
-            {
-                  "name": "Roman Hippodrome of El Jem",
-                  "text": "Egy ókori római stadion maradványai El Djemben, amelyet kocsiversenyekre használtak.",
-                  "category": "historical",
-                  "coords": [
-                        10.693711,
-                        35.302014
-                  ]
-            },
-            {
-                  "name": "Baths of Thysdrus",
-                  "text": "Egy római nyilvános fürdőkomplexum feltárt romjai az ókori Thysdrusban.",
-                  "category": "historical",
-                  "coords": [
-                        10.698759,
-                        35.291426
-                  ]
-            },
-            {
-                  "name": "Inb Khaldoun Culture House",
-                  "text": "Közösségi művészeti központ El Djemben, amely a helyi kulturális és művészeti tevékenységeket népszerűsíti.",
-                  "category": "cultural",
-                  "coords": [
-                        10.708029,
-                        35.301779
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Dar El Jem",
-                  "text": "Un muzeu din El Djem care prezintă exponate despre istoria romană locală și mozaicuri.",
-                  "category": "museum",
-                  "coords": [
-                        10.705421,
-                        35.298418
-                  ]
-            },
             {
                   "name": "Musée et Monuments du Quartier Sud de Thysdrus",
                   "text": "O zonă arheologică ce păstrează ruinele cartierelor rezidențiale din orașul antic Thysdrus.",
@@ -6726,54 +6357,9 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                         10.704947,
                         35.290213
                   ]
-            },
-            {
-                  "name": "Archeological Park",
-                  "text": "O zonă de parc desemnată care conține ruine semnificative din perioada romană în El Djem.",
-                  "category": "historical",
-                  "coords": [
-                        10.700217,
-                        35.29678
-                  ]
-            },
-            {
-                  "name": "Roman Hippodrome of El Jem",
-                  "text": "Rămășițele unui stadion roman antic folosit pentru curse de care în El Djem.",
-                  "category": "historical",
-                  "coords": [
-                        10.693711,
-                        35.302014
-                  ]
-            },
-            {
-                  "name": "Baths of Thysdrus",
-                  "text": "Ruinele excavate ale unui complex de băi publice romane din anticul Thysdrus.",
-                  "category": "historical",
-                  "coords": [
-                        10.698759,
-                        35.291426
-                  ]
-            },
-            {
-                  "name": "Inb Khaldoun Culture House",
-                  "text": "Un centru de artă comunitar din El Djem care promovează activitățile culturale și artistice locale.",
-                  "category": "cultural",
-                  "coords": [
-                        10.708029,
-                        35.301779
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Dar El Jem",
-                  "text": "A museum in El Djem featuring exhibits on local Roman history and mosaics.",
-                  "category": "museum",
-                  "coords": [
-                        10.705421,
-                        35.298418
-                  ]
-            },
             {
                   "name": "Museum and Monuments of the South Quarters of Thysdrus",
                   "text": "An archaeological area preserving the ruins of residential quarters from the ancient city of Thysdrus.",
@@ -6781,42 +6367,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   "coords": [
                         10.704947,
                         35.290213
-                  ]
-            },
-            {
-                  "name": "Archeological Park",
-                  "text": "A designated park area containing significant ruins from the Roman period in El Djem.",
-                  "category": "historical",
-                  "coords": [
-                        10.700217,
-                        35.29678
-                  ]
-            },
-            {
-                  "name": "Roman Hippodrome of El Jem",
-                  "text": "The remains of an ancient Roman stadium used for chariot racing in El Djem.",
-                  "category": "historical",
-                  "coords": [
-                        10.693711,
-                        35.302014
-                  ]
-            },
-            {
-                  "name": "Baths of Thysdrus",
-                  "text": "The excavated ruins of a Roman public bathing complex in ancient Thysdrus.",
-                  "category": "historical",
-                  "coords": [
-                        10.698759,
-                        35.291426
-                  ]
-            },
-            {
-                  "name": "Inb Khaldoun Culture House",
-                  "text": "A community arts centre in El Djem that promotes local cultural and artistic activities.",
-                  "category": "cultural",
-                  "coords": [
-                        10.708029,
-                        35.301779
                   ]
             }
       ]
@@ -7055,15 +6605,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                         9.793658,
                         37.155298
                   ]
-            },
-            {
-                  "name": "Salle Couverte de Menzel-Bourguiba",
-                  "text": "Sporthalle in Menzel-Bourguiba, genutzt für Basketball und Konzerte.",
-                  "category": "cultural",
-                  "coords": [
-                        9.803619,
-                        37.151958
-                  ]
             }
       ],
       "hu": [
@@ -7074,15 +6615,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   "coords": [
                         9.793658,
                         37.155298
-                  ]
-            },
-            {
-                  "name": "Salle Couverte de Menzel-Bourguiba",
-                  "text": "Sportcsarnok Menzel-Bourguibában, kosárlabda- és koncerthelyszín.",
-                  "category": "cultural",
-                  "coords": [
-                        9.803619,
-                        37.151958
                   ]
             }
       ],
@@ -7095,15 +6627,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                         9.793658,
                         37.155298
                   ]
-            },
-            {
-                  "name": "Salle Couverte de Menzel-Bourguiba",
-                  "text": "Sală sportivă în Menzel-Bourguiba, folosită pentru baschet și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        9.803619,
-                        37.151958
-                  ]
             }
       ],
       "en": [
@@ -7114,15 +6637,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   "coords": [
                         9.793658,
                         37.155298
-                  ]
-            },
-            {
-                  "name": "Salle Couverte de Menzel-Bourguiba",
-                  "text": "Indoor sports hall in Menzel-Bourguiba, used for basketball and concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        9.803619,
-                        37.151958
                   ]
             }
       ]
@@ -7588,15 +7102,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mactaris",
-                  "text": "Eine weitläufige römische und numidische Ausgrabungsstätte in Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.20754,
-                        35.85413
-                  ]
-            },
-            {
                   "name": "Musée de Maktaris",
                   "text": "Ein Museum, das Artefakte der Ausgrabungsstätte Mactaris ausstellt.",
                   "category": "museum",
@@ -7606,57 +7111,12 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monument punique",
-                  "text": "Ein punisches Grabmonument in der antiken Stadt Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.202908,
-                        35.851657
-                  ]
-            },
-            {
-                  "name": "Basilique d'Hildeguns",
-                  "text": "Ruinen einer byzantinischen Basilika, die dem Heiligen Hildeguns geweiht ist, in Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.208084,
-                        35.853022
-                  ]
-            },
-            {
                   "name": "Basilique à péristyle",
                   "text": "Archäologische Überreste einer Peristyl-Basilika in Makthar.",
                   "category": "historical",
                   "coords": [
                         9.206195,
                         35.852537
-                  ]
-            },
-            {
-                  "name": "Thermes du Capitole",
-                  "text": "Römische Badeanlage mit Mosaikböden und Kaltwasserbecken auf dem Kapitolshügel von Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.205756,
-                        35.853799
-                  ]
-            },
-            {
-                  "name": "Grand Thermes",
-                  "text": "Große römische Thermenanlage mit Frigidarium in Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.208519,
-                        35.851837
-                  ]
-            },
-            {
-                  "name": "Temple d'Hathor Miskar",
-                  "text": "Überreste eines antiken Tempels einer punisch-römischen Gottheit in Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.209082,
-                        35.854594
                   ]
             }
       ],
@@ -7671,15 +7131,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mactaris",
-                  "text": "Kiterjedt római és numidiai régészeti lelőhely Maktharban.",
-                  "category": "historical",
-                  "coords": [
-                        9.20754,
-                        35.85413
-                  ]
-            },
-            {
                   "name": "Musée de Maktaris",
                   "text": "A Mactaris régészeti lelőhely leleteit bemutató múzeum.",
                   "category": "museum",
@@ -7689,57 +7140,12 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monument punique",
-                  "text": "Egy pun temetkezési emlékmű az ókori Maktharban.",
-                  "category": "historical",
-                  "coords": [
-                        9.202908,
-                        35.851657
-                  ]
-            },
-            {
-                  "name": "Basilique d'Hildeguns",
-                  "text": "Egy Szent Hildegunnak szentelt bizánci bazilika romjai Maktharban.",
-                  "category": "historical",
-                  "coords": [
-                        9.208084,
-                        35.853022
-                  ]
-            },
-            {
                   "name": "Basilique à péristyle",
                   "text": "Egy oszlopcsarnokos bazilika régészeti maradványai Maktharban.",
                   "category": "historical",
                   "coords": [
                         9.206195,
                         35.852537
-                  ]
-            },
-            {
-                  "name": "Thermes du Capitole",
-                  "text": "Római fürdőkomplexum mozaikpadlóval és hidegvizes medencével Makthar Capitolium-dombján.",
-                  "category": "historical",
-                  "coords": [
-                        9.205756,
-                        35.853799
-                  ]
-            },
-            {
-                  "name": "Grand Thermes",
-                  "text": "Nagy római termálfürdő frigidáriummal Maktharban.",
-                  "category": "historical",
-                  "coords": [
-                        9.208519,
-                        35.851837
-                  ]
-            },
-            {
-                  "name": "Temple d'Hathor Miskar",
-                  "text": "Egy pun-római istenségnek szentelt ókori templom maradványai Maktharban.",
-                  "category": "historical",
-                  "coords": [
-                        9.209082,
-                        35.854594
                   ]
             }
       ],
@@ -7754,15 +7160,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mactaris",
-                  "text": "Un sit arheologic extins roman și numidian în Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.20754,
-                        35.85413
-                  ]
-            },
-            {
                   "name": "Musée de Maktaris",
                   "text": "Un muzeu care expune artefacte din situl arheologic Mactaris.",
                   "category": "museum",
@@ -7772,57 +7169,12 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monument punique",
-                  "text": "Un monument funerar punic în orașul antic Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.202908,
-                        35.851657
-                  ]
-            },
-            {
-                  "name": "Basilique d'Hildeguns",
-                  "text": "Ruinele unei bazilici bizantine dedicate Sfântului Hildeguns în Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.208084,
-                        35.853022
-                  ]
-            },
-            {
                   "name": "Basilique à péristyle",
                   "text": "Resturi arheologice ale unei basilici cu peristil în Makthar.",
                   "category": "historical",
                   "coords": [
                         9.206195,
                         35.852537
-                  ]
-            },
-            {
-                  "name": "Thermes du Capitole",
-                  "text": "Complex de băi romane cu podele de mozaic și bazin cu apă rece pe dealul Capitoliului din Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.205756,
-                        35.853799
-                  ]
-            },
-            {
-                  "name": "Grand Thermes",
-                  "text": "Mari terme romane cu frigidarium în Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.208519,
-                        35.851837
-                  ]
-            },
-            {
-                  "name": "Temple d'Hathor Miskar",
-                  "text": "Rămășițele unui templu antic dedicat unei zeități punico-romane în Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.209082,
-                        35.854594
                   ]
             }
       ],
@@ -7837,15 +7189,6 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mactaris",
-                  "text": "An extensive Roman and Numidian archaeological site in Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.20754,
-                        35.85413
-                  ]
-            },
-            {
                   "name": "Musée de Maktaris",
                   "text": "A museum showcasing artifacts from the Mactaris archaeological site.",
                   "category": "museum",
@@ -7855,57 +7198,12 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monument punique",
-                  "text": "A Punic funerary monument in the ancient city of Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.202908,
-                        35.851657
-                  ]
-            },
-            {
-                  "name": "Basilique of Hildeguns",
-                  "text": "Ruins of a Byzantine basilica dedicated to Saint Hildeguns in Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.208084,
-                        35.853022
-                  ]
-            },
-            {
                   "name": "Basilique à péristyle",
                   "text": "Archaeological remains of a peristyle basilica in Makthar.",
                   "category": "historical",
                   "coords": [
                         9.206195,
                         35.852537
-                  ]
-            },
-            {
-                  "name": "Capitol Baths",
-                  "text": "Roman bath complex with mosaic floors and a cold pool on the Capitol hill of Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.205756,
-                        35.853799
-                  ]
-            },
-            {
-                  "name": "Large Baths",
-                  "text": "Large Roman thermae with a frigidarium in Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.208519,
-                        35.851837
-                  ]
-            },
-            {
-                  "name": "Temple of Hathor Miskar",
-                  "text": "Remains of an ancient temple dedicated to a Punic-Roman deity in Makthar.",
-                  "category": "historical",
-                  "coords": [
-                        9.209082,
-                        35.854594
                   ]
             }
       ]
@@ -7946,50 +7244,10 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
   },
   {
     id: "medjez-el-bab-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "pont historique de Mourad II bey",
-                  "text": "Eine historische Steinbrücke über den Fluss Medjerda, erbaut während der osmanischen Zeit in Medjez el-Bab.",
-                  "category": "historical",
-                  "coords": [
-                        9.606282,
-                        36.64896
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "pont historique de Mourad II bey",
-                  "text": "Történelmi kőhíd a Medjerda-folyón, amely az oszmán korszakban épült Medjez el-Babban.",
-                  "category": "historical",
-                  "coords": [
-                        9.606282,
-                        36.64896
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "pont historique de Mourad II bey",
-                  "text": "Un pod istoric de piatră peste râul Medjerda, construit în epoca otomană în Medjez el-Bab.",
-                  "category": "historical",
-                  "coords": [
-                        9.606282,
-                        36.64896
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "pont historique de Mourad II bey",
-                  "text": "A historic stone bridge across the Medjerda River, built during the Ottoman era in Medjez el-Bab.",
-                  "category": "historical",
-                  "coords": [
-                        9.606282,
-                        36.64896
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "TN-31",

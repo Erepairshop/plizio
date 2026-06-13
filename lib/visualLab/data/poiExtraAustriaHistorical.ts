@@ -25,33 +25,6 @@ export const poiExtraAustriaHistorical: POI[] = [
                   ]
             },
             {
-                  "name": "Schloss Luberegg",
-                  "text": "Schloss Luberegg bei Schallaburg, denkmalgeschütztes Schloss.",
-                  "category": "castle",
-                  "coords": [
-                        15.314048,
-                        48.232638
-                  ]
-            },
-            {
-                  "name": "Schloss Rothenhof",
-                  "text": "Schloss Rothenhof ist ein Schloss in der Nähe von Schloss Schallaburg in Niederösterreich.",
-                  "category": "castle",
-                  "coords": [
-                        15.33141,
-                        48.242699
-                  ]
-            },
-            {
-                  "name": "Wachaulabor",
-                  "text": "Ein interaktives Museum im Bereich der Schallaburg, das sich mit der Region Wachau befasst.",
-                  "category": "museum",
-                  "coords": [
-                        15.333346,
-                        48.228653
-                  ]
-            },
-            {
                   "name": "Schallaburg",
                   "text": "Schloss Schallaburg ist ein Renaissance-Schloss, das ein Museum für Kulturgeschichte beherbergt.",
                   "category": "museum",
@@ -96,33 +69,6 @@ export const poiExtraAustriaHistorical: POI[] = [
                   "coords": [
                         15.387726,
                         48.213769
-                  ]
-            },
-            {
-                  "name": "Schloss Luberegg",
-                  "text": "Luberegg kastélya Schallaburg mellett, műemlék kastély.",
-                  "category": "castle",
-                  "coords": [
-                        15.314048,
-                        48.232638
-                  ]
-            },
-            {
-                  "name": "Schloss Rothenhof",
-                  "text": "A Rothenhof-kastély egy kastély a Schallaburg közelében, Alsó-Ausztriában.",
-                  "category": "castle",
-                  "coords": [
-                        15.33141,
-                        48.242699
-                  ]
-            },
-            {
-                  "name": "Wachaulabor",
-                  "text": "Interaktív múzeum a Schallaburg területén, amely a Wachau régióval foglalkozik.",
-                  "category": "museum",
-                  "coords": [
-                        15.333346,
-                        48.228653
                   ]
             },
             {
@@ -173,33 +119,6 @@ export const poiExtraAustriaHistorical: POI[] = [
                   ]
             },
             {
-                  "name": "Schloss Luberegg",
-                  "text": "Castelul Luberegg lângă Schallaburg, castel monument istoric.",
-                  "category": "castle",
-                  "coords": [
-                        15.314048,
-                        48.232638
-                  ]
-            },
-            {
-                  "name": "Schloss Rothenhof",
-                  "text": "Castelul Rothenhof este un castel lângă Castelul Schallaburg din Austria Inferioară.",
-                  "category": "castle",
-                  "coords": [
-                        15.33141,
-                        48.242699
-                  ]
-            },
-            {
-                  "name": "Wachaulabor",
-                  "text": "Un muzeu interactiv în incinta Schallaburg, dedicat regiunii Wachau.",
-                  "category": "museum",
-                  "coords": [
-                        15.333346,
-                        48.228653
-                  ]
-            },
-            {
                   "name": "Schallaburg",
                   "text": "Castelul Schallaburg este un castel renascentist care găzduiește un muzeu de istorie culturală.",
                   "category": "museum",
@@ -244,33 +163,6 @@ export const poiExtraAustriaHistorical: POI[] = [
                   "coords": [
                         15.387726,
                         48.213769
-                  ]
-            },
-            {
-                  "name": "Schloss Luberegg",
-                  "text": "Luberegg Castle near Schallaburg, a listed castle.",
-                  "category": "castle",
-                  "coords": [
-                        15.314048,
-                        48.232638
-                  ]
-            },
-            {
-                  "name": "Schloss Rothenhof",
-                  "text": "Schloss Rothenhof is a castle near Schallaburg Castle in Lower Austria.",
-                  "category": "castle",
-                  "coords": [
-                        15.33141,
-                        48.242699
-                  ]
-            },
-            {
-                  "name": "Wachaulabor",
-                  "text": "An interactive museum area at Schallaburg focused on the Wachau region.",
-                  "category": "museum",
-                  "coords": [
-                        15.333346,
-                        48.228653
                   ]
             },
             {
@@ -655,15 +547,6 @@ export const poiExtraAustriaHistorical: POI[] = [
     id: "monastery-stift-admont-extra", "sights": {
       "de": [
             {
-                  "name": "Stiftsbibliothek Admont",
-                  "text": "Die prachtvolle Bibliothek des Stiftes Admont ist der größte klösterliche Büchersaal der Welt.",
-                  "category": "museum",
-                  "coords": [
-                        14.463393,
-                        47.574487
-                  ]
-            },
-            {
                   "name": "Schloss Röthelstein",
                   "text": "Ein spätrenaissanceschloss bei Admont, das heute als Hotel und Jugendherberge dient.",
                   "category": "castle",
@@ -682,39 +565,12 @@ export const poiExtraAustriaHistorical: POI[] = [
                   ]
             },
             {
-                  "name": "Dörfelstein",
-                  "text": "Ein Berggipfel in den Ennstaler Alpen in der Nähe von Admont.",
-                  "category": "landmark",
-                  "coords": [
-                        14.478498,
-                        47.603687
-                  ]
-            },
-            {
                   "name": "Leichenberg",
                   "text": "Ein Gipfel in der bergigen Landschaft rund um das Stift Admont.",
                   "category": "landmark",
                   "coords": [
                         14.427173,
                         47.591159
-                  ]
-            },
-            {
-                  "name": "Hahnstein",
-                  "text": "Der Hahnstein ist eine große Felsformation nahe der Admont Abbey in der Steiermark.",
-                  "category": "landmark",
-                  "coords": [
-                        14.4879,
-                        47.547981
-                  ]
-            },
-            {
-                  "name": "Lärchkogel",
-                  "text": "Ein Gipfel in den österreichischen Alpen nahe der Gemeinde Admont.",
-                  "category": "landmark",
-                  "coords": [
-                        14.50487,
-                        47.560005
                   ]
             },
             {
@@ -725,36 +581,9 @@ export const poiExtraAustriaHistorical: POI[] = [
                         14.45857,
                         47.578527
                   ]
-            },
-            {
-                  "name": "Naturbad Admont",
-                  "text": "Ein Naturbad mit Außenbecken in Admont.",
-                  "category": "recreational",
-                  "coords": [
-                        14.468067,
-                        47.575617
-                  ]
-            },
-            {
-                  "name": "Freibad Weng im Gesäuse",
-                  "text": "Ein Freibad und eine Freizeitanlage in Weng im Gesäuse.",
-                  "category": "recreational",
-                  "coords": [
-                        14.503123,
-                        47.598986
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Stiftsbibliothek Admont",
-                  "text": "Az admonti apátság pompás könyvtára a világ legnagyobb kolostori könyvterme.",
-                  "category": "museum",
-                  "coords": [
-                        14.463393,
-                        47.574487
-                  ]
-            },
             {
                   "name": "Schloss Röthelstein",
                   "text": "Egy késő reneszánsz kastély Admont közelében, amely ma szállodaként és ifjúsági szállóként üzemel.",
@@ -774,39 +603,12 @@ export const poiExtraAustriaHistorical: POI[] = [
                   ]
             },
             {
-                  "name": "Dörfelstein",
-                  "text": "Hegycsúcs az Ennstali-Alpokban, Admont közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        14.478498,
-                        47.603687
-                  ]
-            },
-            {
                   "name": "Leichenberg",
                   "text": "Hegycsúcs az admonti apátság körüli hegyvidéki tájon.",
                   "category": "landmark",
                   "coords": [
                         14.427173,
                         47.591159
-                  ]
-            },
-            {
-                  "name": "Hahnstein",
-                  "text": "A Hahnstein egy nagy sziklaformáció az Admonti Apátság közelében, Stájerországban.",
-                  "category": "landmark",
-                  "coords": [
-                        14.4879,
-                        47.547981
-                  ]
-            },
-            {
-                  "name": "Lärchkogel",
-                  "text": "Hegycsúcs az osztrák Alpokban, Admont község közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        14.50487,
-                        47.560005
                   ]
             },
             {
@@ -817,36 +619,9 @@ export const poiExtraAustriaHistorical: POI[] = [
                         14.45857,
                         47.578527
                   ]
-            },
-            {
-                  "name": "Naturbad Admont",
-                  "text": "Természetes fürdőhely szabadtéri medencékkel Admontban.",
-                  "category": "recreational",
-                  "coords": [
-                        14.468067,
-                        47.575617
-                  ]
-            },
-            {
-                  "name": "Freibad Weng im Gesäuse",
-                  "text": "Szabadtéri úszómedence és szabadidős létesítmény Weng im Gesäuse-ben.",
-                  "category": "recreational",
-                  "coords": [
-                        14.503123,
-                        47.598986
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Stiftsbibliothek Admont",
-                  "text": "Splendida bibliotecă a abației Admont este cea mai mare sală de lectură monahală din lume.",
-                  "category": "museum",
-                  "coords": [
-                        14.463393,
-                        47.574487
-                  ]
-            },
             {
                   "name": "Schloss Röthelstein",
                   "text": "Un castel în stil Renaștere târzie lângă Admont, care astăzi servește drept hotel și pensiune pentru tineret.",
@@ -866,39 +641,12 @@ export const poiExtraAustriaHistorical: POI[] = [
                   ]
             },
             {
-                  "name": "Dörfelstein",
-                  "text": "Un vârf montan în Alpii Ennstal, situat în apropiere de Admont.",
-                  "category": "landmark",
-                  "coords": [
-                        14.478498,
-                        47.603687
-                  ]
-            },
-            {
                   "name": "Leichenberg",
                   "text": "Un vârf în peisajul montan din jurul abației Admont.",
                   "category": "landmark",
                   "coords": [
                         14.427173,
                         47.591159
-                  ]
-            },
-            {
-                  "name": "Hahnstein",
-                  "text": "Hahnstein este o formațiune stâncoasă mare lângă Abația Admont din Stiria.",
-                  "category": "landmark",
-                  "coords": [
-                        14.4879,
-                        47.547981
-                  ]
-            },
-            {
-                  "name": "Lärchkogel",
-                  "text": "Un vârf în Alpii Austrieci, situat lângă localitatea Admont.",
-                  "category": "landmark",
-                  "coords": [
-                        14.50487,
-                        47.560005
                   ]
             },
             {
@@ -909,36 +657,9 @@ export const poiExtraAustriaHistorical: POI[] = [
                         14.45857,
                         47.578527
                   ]
-            },
-            {
-                  "name": "Naturbad Admont",
-                  "text": "O unitate naturală de înot care oferă piscine în aer liber în Admont.",
-                  "category": "recreational",
-                  "coords": [
-                        14.468067,
-                        47.575617
-                  ]
-            },
-            {
-                  "name": "Freibad Weng im Gesäuse",
-                  "text": "O piscină în aer liber și o unitate de agrement în Weng im Gesäuse.",
-                  "category": "recreational",
-                  "coords": [
-                        14.503123,
-                        47.598986
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Stiftsbibliothek Admont",
-                  "text": "The magnificent library of Admont Abbey is the largest monastic book hall in the world.",
-                  "category": "museum",
-                  "coords": [
-                        14.463393,
-                        47.574487
-                  ]
-            },
             {
                   "name": "Schloss Röthelstein",
                   "text": "A late Renaissance castle near Admont, now serving as a hotel and youth hostel.",
@@ -958,15 +679,6 @@ export const poiExtraAustriaHistorical: POI[] = [
                   ]
             },
             {
-                  "name": "Dörfelstein",
-                  "text": "A mountain peak in the Ennstal Alps located near Admont.",
-                  "category": "landmark",
-                  "coords": [
-                        14.478498,
-                        47.603687
-                  ]
-            },
-            {
                   "name": "Leichenberg",
                   "text": "A peak in the mountainous landscape surrounding Admont Abbey.",
                   "category": "landmark",
@@ -976,48 +688,12 @@ export const poiExtraAustriaHistorical: POI[] = [
                   ]
             },
             {
-                  "name": "Hahnstein",
-                  "text": "Hahnstein is a large rock formation near Admont Abbey in Styria.",
-                  "category": "landmark",
-                  "coords": [
-                        14.4879,
-                        47.547981
-                  ]
-            },
-            {
-                  "name": "Lärchkogel",
-                  "text": "A peak in the Austrian Alps located near the municipality of Admont.",
-                  "category": "landmark",
-                  "coords": [
-                        14.50487,
-                        47.560005
-                  ]
-            },
-            {
                   "name": "Hallenbad Admont",
                   "text": "A public indoor swimming pool located in the town of Admont.",
                   "category": "recreational",
                   "coords": [
                         14.45857,
                         47.578527
-                  ]
-            },
-            {
-                  "name": "Naturbad Admont",
-                  "text": "A natural swimming facility offering outdoor pools in Admont.",
-                  "category": "recreational",
-                  "coords": [
-                        14.468067,
-                        47.575617
-                  ]
-            },
-            {
-                  "name": "Freibad Weng im Gesäuse",
-                  "text": "An outdoor swimming pool and leisure facility in Weng im Gesäuse.",
-                  "category": "recreational",
-                  "coords": [
-                        14.503123,
-                        47.598986
                   ]
             }
       ]
@@ -1861,15 +1537,6 @@ export const poiExtraAustriaHistorical: POI[] = [
     id: "historical-keltendorf-schwarzenbach-extra", "sights": {
       "de": [
             {
-                  "name": "Ruine Schwarzenbach",
-                  "text": "Die Ruinen einer mittelalterlichen Burganlage in Niederösterreich.",
-                  "category": "castle",
-                  "coords": [
-                        16.339644,
-                        47.639696
-                  ]
-            },
-            {
                   "name": "Keltendorf Schwarzenbach",
                   "text": "Ein archäologisches Freilichtmuseum, das das Leben in einer keltischen Siedlung zeigt.",
                   "category": "museum",
@@ -1888,15 +1555,6 @@ export const poiExtraAustriaHistorical: POI[] = [
                   ]
             },
             {
-                  "name": "Naturpark-Badesee Kobersdorf",
-                  "text": "Ein Naturbadesee in einem Landschaftsschutzgebiet nahe Schwarzenbach.",
-                  "category": "recreational",
-                  "coords": [
-                        16.364687,
-                        47.596125
-                  ]
-            },
-            {
                   "name": "Streichelzoo",
                   "text": "Ein kleiner Streichelzoo für Kinder in der Region Schwarzenbach.",
                   "category": "recreational",
@@ -1907,15 +1565,6 @@ export const poiExtraAustriaHistorical: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Ruine Schwarzenbach",
-                  "text": "Egy középkori vár romjai Alsó-Ausztriában.",
-                  "category": "castle",
-                  "coords": [
-                        16.339644,
-                        47.639696
-                  ]
-            },
             {
                   "name": "Keltendorf Schwarzenbach",
                   "text": "Régészeti szabadtéri múzeum, amely egy kelta település életét mutatja be.",
@@ -1935,15 +1584,6 @@ export const poiExtraAustriaHistorical: POI[] = [
                   ]
             },
             {
-                  "name": "Naturpark-Badesee Kobersdorf",
-                  "text": "Természetes fürdőtó egy tájvédelmi körzetben Schwarzenbach közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        16.364687,
-                        47.596125
-                  ]
-            },
-            {
                   "name": "Streichelzoo",
                   "text": "Kisméretű állatsimogató gyerekeknek Schwarzenbach régiójában.",
                   "category": "recreational",
@@ -1954,15 +1594,6 @@ export const poiExtraAustriaHistorical: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Ruine Schwarzenbach",
-                  "text": "Ruinele unei fortificații medievale situate în Austria Inferioară.",
-                  "category": "castle",
-                  "coords": [
-                        16.339644,
-                        47.639696
-                  ]
-            },
             {
                   "name": "Keltendorf Schwarzenbach",
                   "text": "Un muzeu arheologic în aer liber care prezintă viața dintr-o așezare celtică.",
@@ -1982,15 +1613,6 @@ export const poiExtraAustriaHistorical: POI[] = [
                   ]
             },
             {
-                  "name": "Naturpark-Badesee Kobersdorf",
-                  "text": "Un lac natural pentru scăldat într-o zonă protejată lângă Schwarzenbach.",
-                  "category": "recreational",
-                  "coords": [
-                        16.364687,
-                        47.596125
-                  ]
-            },
-            {
                   "name": "Streichelzoo",
                   "text": "O mică grădină zoologică cu animale blânde pentru copii în regiunea Schwarzenbach.",
                   "category": "recreational",
@@ -2001,15 +1623,6 @@ export const poiExtraAustriaHistorical: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Ruine Schwarzenbach",
-                  "text": "The ruins of a medieval castle fortification in Lower Austria.",
-                  "category": "castle",
-                  "coords": [
-                        16.339644,
-                        47.639696
-                  ]
-            },
             {
                   "name": "Keltendorf Schwarzenbach",
                   "text": "An archaeological open-air museum showcasing life in a Celtic settlement.",
@@ -2026,15 +1639,6 @@ export const poiExtraAustriaHistorical: POI[] = [
                   "coords": [
                         16.347815,
                         47.637579
-                  ]
-            },
-            {
-                  "name": "Naturpark-Badesee Kobersdorf",
-                  "text": "A natural bathing lake in a protected area near Schwarzenbach.",
-                  "category": "recreational",
-                  "coords": [
-                        16.364687,
-                        47.596125
                   ]
             },
             {

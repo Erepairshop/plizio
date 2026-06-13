@@ -159,194 +159,10 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
   },
   {
     id: "kw-al-ahmadi-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Kuwait Little Theatre (KLT)",
-                  "text": "Eine Amateurtheatergruppe, die in einem eigenen Veranstaltungsort in Al Ahmadi auftritt.",
-                  "category": "cultural",
-                  "coords": [
-                        48.060345,
-                        29.090054
-                  ]
-            },
-            {
-                  "name": "South Subahiya Theme Park",
-                  "text": "Ein Familienvergnügungspark mit Fahrgeschäften und Wasserspielen in South Subahiya.",
-                  "category": "family",
-                  "coords": [
-                        48.101613,
-                        29.08902
-                  ]
-            },
-            {
-                  "name": "Ahmadi Zoo",
-                  "text": "Ein kleiner Zoo in Al Ahmadi mit arabischen Wildtieren wie Oryx und Gazellen.",
-                  "category": "family",
-                  "coords": [
-                        48.069409,
-                        29.08802
-                  ]
-            },
-            {
-                  "name": "KOC Tent for Events & Exhibitions",
-                  "text": "Ein großes Zelt, das von der Kuwait Oil Company für Ausstellungen und kulturelle Veranstaltungen genutzt wird.",
-                  "category": "cultural",
-                  "coords": [
-                        48.067805,
-                        29.090833
-                  ]
-            },
-            {
-                  "name": "Our Lady of Arabia Church",
-                  "text": "Katholische Kirche in Al Ahmadi mit moderner Architektur, die der Expat-Gemeinde dient.",
-                  "category": "religious",
-                  "coords": [
-                        48.067521,
-                        29.092203
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Kuwait Little Theatre (KLT)",
-                  "text": "Egy amatőr színházi csoport, amely saját helyszínen lép fel Al Ahmadiban.",
-                  "category": "cultural",
-                  "coords": [
-                        48.060345,
-                        29.090054
-                  ]
-            },
-            {
-                  "name": "South Subahiya Theme Park",
-                  "text": "Egy családi szórakoztató park játékokkal és vízi elemekkel Dél-Subahiyában.",
-                  "category": "family",
-                  "coords": [
-                        48.101613,
-                        29.08902
-                  ]
-            },
-            {
-                  "name": "Ahmadi Zoo",
-                  "text": "Egy kis állatkert Al Ahmadiban arab vadállatokkal, például oryxokkal és gazellákkal.",
-                  "category": "family",
-                  "coords": [
-                        48.069409,
-                        29.08802
-                  ]
-            },
-            {
-                  "name": "KOC Tent for Events & Exhibitions",
-                  "text": "Egy nagy sátor, amelyet a Kuwait Oil Company használ kiállításokra és kulturális eseményekre.",
-                  "category": "cultural",
-                  "coords": [
-                        48.067805,
-                        29.090833
-                  ]
-            },
-            {
-                  "name": "Our Lady of Arabia Church",
-                  "text": "Katolikus templom Al Ahmadiban, modern építészettel, az expat közösség számára.",
-                  "category": "religious",
-                  "coords": [
-                        48.067521,
-                        29.092203
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Kuwait Little Theatre (KLT)",
-                  "text": "Un grup de teatru amator care evoluează într-un loc dedicat în Al Ahmadi.",
-                  "category": "cultural",
-                  "coords": [
-                        48.060345,
-                        29.090054
-                  ]
-            },
-            {
-                  "name": "South Subahiya Theme Park",
-                  "text": "Un parc de distracții pentru familie cu curse și elemente de apă în South Subahiya.",
-                  "category": "family",
-                  "coords": [
-                        48.101613,
-                        29.08902
-                  ]
-            },
-            {
-                  "name": "Ahmadi Zoo",
-                  "text": "O grădină zoologică mică în Al Ahmadi cu animale sălbatice arabe precum oryx și gazele.",
-                  "category": "family",
-                  "coords": [
-                        48.069409,
-                        29.08802
-                  ]
-            },
-            {
-                  "name": "KOC Tent for Events & Exhibitions",
-                  "text": "Un cort mare folosit de Kuwait Oil Company pentru expoziții și evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        48.067805,
-                        29.090833
-                  ]
-            },
-            {
-                  "name": "Our Lady of Arabia Church",
-                  "text": "Biserică catolică în Al Ahmadi, cu arhitectură modernă, deservind comunitatea de expatriați.",
-                  "category": "religious",
-                  "coords": [
-                        48.067521,
-                        29.092203
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Kuwait Little Theatre (KLT)",
-                  "text": "An amateur theatre group performing in a dedicated venue in Al Ahmadi.",
-                  "category": "cultural",
-                  "coords": [
-                        48.060345,
-                        29.090054
-                  ]
-            },
-            {
-                  "name": "South Subahiya Theme Park",
-                  "text": "A family amusement park with rides and water features in South Subahiya.",
-                  "category": "family",
-                  "coords": [
-                        48.101613,
-                        29.08902
-                  ]
-            },
-            {
-                  "name": "Ahmadi Zoo",
-                  "text": "A small zoo in Al Ahmadi featuring Arabian wildlife such as oryx and gazelles.",
-                  "category": "family",
-                  "coords": [
-                        48.069409,
-                        29.08802
-                  ]
-            },
-            {
-                  "name": "KOC Tent for Events & Exhibitions",
-                  "text": "A large tent venue used by Kuwait Oil Company for exhibitions and cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        48.067805,
-                        29.090833
-                  ]
-            },
-            {
-                  "name": "Our Lady of Arabia Church",
-                  "text": "Catholic church in Al Ahmadi with modern architecture, serving the expatriate community.",
-                  "category": "religious",
-                  "coords": [
-                        48.067521,
-                        29.092203
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "KW-AH",
@@ -403,15 +219,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Selayel Jahra Resort",
-                  "text": "Ein Wüstenresort nahe Al Jahra mit Chalets und einem Swimmingpool.",
-                  "category": "family",
-                  "coords": [
-                        47.649635,
-                        29.362917
-                  ]
-            },
-            {
                   "name": "Messilah Fun Land",
                   "text": "Ein Vergnügungspark in Al Jahra mit Fahrgeschäften und einem Kinderspielplatz.",
                   "category": "family",
@@ -429,15 +236,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   "coords": [
                         47.679785,
                         29.348101
-                  ]
-            },
-            {
-                  "name": "Selayel Jahra Resort",
-                  "text": "Egy sivatagi üdülőhely Al Jahra közelében, nyaralókkal és úszómedencével.",
-                  "category": "family",
-                  "coords": [
-                        47.649635,
-                        29.362917
                   ]
             },
             {
@@ -461,15 +259,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Selayel Jahra Resort",
-                  "text": "O stațiune deșertică lângă Al Jahra, cu căsuțe și o piscină.",
-                  "category": "family",
-                  "coords": [
-                        47.649635,
-                        29.362917
-                  ]
-            },
-            {
                   "name": "Messilah Fun Land",
                   "text": "Un parc de distracții în Al Jahra, cu curse și un loc de joacă pentru copii.",
                   "category": "family",
@@ -479,35 +268,7 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             }
       ],
-      "en": [
-            {
-                  "name": "Red Fort",
-                  "text": "Red brick fortress in Al Jahra, built in the 19th century as a defensive outpost.",
-                  "category": "fortress",
-                  "coords": [
-                        47.679785,
-                        29.348101
-                  ]
-            },
-            {
-                  "name": "Selayel Jahra Resort",
-                  "text": "A desert resort near Al Jahra with chalets and a swimming pool.",
-                  "category": "family",
-                  "coords": [
-                        47.649635,
-                        29.362917
-                  ]
-            },
-            {
-                  "name": "Marah Land",
-                  "text": "An amusement park in Al Jahra with rides and a playground for children.",
-                  "category": "family",
-                  "coords": [
-                        47.650513,
-                        29.360613
-                  ]
-            }
-      ]
+      "en": []
 },
     type: "city",
     parent: "KW-JA",
@@ -555,33 +316,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     id: "kw-hawally-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Bait-Alothman-Museum",
-                  "text": "Das Bait-Alothman-Museum ist eine kulturelle Einrichtung in Hawally. Es beherbergt Ausstellungen über das traditionelle kuwaitische Leben und seine Geschichte.",
-                  "category": "museum",
-                  "coords": [
-                        48.014,
-                        29.341038
-                  ]
-            },
-            {
-                  "name": "Hawally Park",
-                  "text": "Der Hawally Park ist ein beliebter Freizeitpark in der Stadt Hawally. Er bietet verschiedene Fahrgeschäfte und Attraktionen für die Unterhaltung der ganzen Familie.",
-                  "category": "family",
-                  "coords": [
-                        48.021916,
-                        29.340197
-                  ]
-            },
-            {
-                  "name": "Tariq-Rajab-Museum",
-                  "text": "Das Tariq-Rajab-Museum ist ein angesehenes Museum in Hawally. Es zeigt eine umfangreiche Sammlung islamischer Kunst und Artefakte.",
-                  "category": "museum",
-                  "coords": [
-                        48.047192,
-                        29.316956
-                  ]
-            },
-            {
                   "name": "Sheikh Abdullah Al-Salem Cultural Centre",
                   "text": "Das Sheikh Abdullah Al-Salem Cultural Centre ist ein großer Museumskomplex in Hawally. Er bietet umfangreiche Ausstellungen zu Wissenschaft, Naturgeschichte und Raumfahrt.",
                   "category": "museum",
@@ -598,15 +332,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                         47.996941,
                         29.330871
                   ]
-            },
-            {
-                  "name": "Silsan Boat tour - 1KD (20 min)",
-                  "text": "Die Silsan Boat Tour ist eine günstige Attraktion in Hawally. Sie bietet Besuchern eine kurze und malerische 20-minütige Fahrt auf dem Wasser.",
-                  "category": "landmark",
-                  "coords": [
-                        48.055402,
-                        29.341941
-                  ]
             }
       ],
       "hu": [
@@ -617,15 +342,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   "coords": [
                         48.014,
                         29.341038
-                  ]
-            },
-            {
-                  "name": "Hawally Park",
-                  "text": "A Hawally Park egy népszerű vidámpark Hawally városában. Különféle túrákat és látványosságokat kínál a családi szórakozáshoz.",
-                  "category": "family",
-                  "coords": [
-                        48.021916,
-                        29.340197
                   ]
             },
             {
@@ -653,15 +369,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   "coords": [
                         47.996941,
                         29.330871
-                  ]
-            },
-            {
-                  "name": "Silsan Boat tour - 1KD (20 min)",
-                  "text": "A Silsan hajótúra egy megfizethető látványosság Hawallyban. Rövid és festői 20 perces utazást kínál a látogatóknak a vízen.",
-                  "category": "landmark",
-                  "coords": [
-                        48.055402,
-                        29.341941
                   ]
             }
       ],
@@ -710,45 +417,9 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                         47.996941,
                         29.330871
                   ]
-            },
-            {
-                  "name": "Silsan Boat tour - 1KD (20 min)",
-                  "text": "Turul cu barca Silsan este o atracție accesibilă situată în Hawally. Oferă vizitatorilor o plimbare scurtă și pitorească de 20 de minute pe apă.",
-                  "category": "landmark",
-                  "coords": [
-                        48.055402,
-                        29.341941
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "bait alothman museum",
-                  "text": "Bait Alothman Museum is a cultural institution located in Hawally. It houses exhibits on traditional Kuwaiti life and history.",
-                  "category": "museum",
-                  "coords": [
-                        48.014,
-                        29.341038
-                  ]
-            },
-            {
-                  "name": "Hawally Park",
-                  "text": "Hawally Park is a popular theme park situated in the city of Hawally. It features various rides and attractions for family entertainment.",
-                  "category": "family",
-                  "coords": [
-                        48.021916,
-                        29.340197
-                  ]
-            },
-            {
-                  "name": "Tariq Rajab Museum",
-                  "text": "The Tariq Rajab Museum is an esteemed museum located in Hawally. It displays a vast collection of Islamic art and artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        48.047192,
-                        29.316956
-                  ]
-            },
             {
                   "name": "Sheikh Abdullah Al-Salem Cultural Centre",
                   "text": "The Sheikh Abdullah Al-Salem Cultural Centre is a major museum complex in Hawally. It features extensive exhibits on science, natural history, and space.",
@@ -765,15 +436,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   "coords": [
                         47.996941,
                         29.330871
-                  ]
-            },
-            {
-                  "name": "Silsan Boat tour - 1KD (20 min)",
-                  "text": "The Silsan Boat Tour is an affordable attraction situated in Hawally. It offers visitors a brief and scenic 20-minute ride on the water.",
-                  "category": "landmark",
-                  "coords": [
-                        48.055402,
-                        29.341941
                   ]
             }
       ]
@@ -822,50 +484,10 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
   },
   {
     id: "kw-farwaniya-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Kuwait Zoo",
-                  "text": "Zoo in Farwaniya mit heimischen arabischen Tieren wie Oryxantilopen und Gazellen.",
-                  "category": "family",
-                  "coords": [
-                        47.961089,
-                        29.300369
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Kuwait Zoo",
-                  "text": "Állatkert Farwaniyában, arab vadon élő állatokkal, mint oryx és gazella.",
-                  "category": "family",
-                  "coords": [
-                        47.961089,
-                        29.300369
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Kuwait Zoo",
-                  "text": "Grădină zoologică în Farwaniya, cu animale arabe precum oryx și gazele.",
-                  "category": "family",
-                  "coords": [
-                        47.961089,
-                        29.300369
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Kuwait Zoo",
-                  "text": "Zoo in Farwaniya, home to Arabian wildlife like oryx and gazelles.",
-                  "category": "family",
-                  "coords": [
-                        47.961089,
-                        29.300369
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "KW-FA",
@@ -912,15 +534,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
   {
     id: "kw-mubarak-al-kabeer-cities-v2", "sights": {
       "de": [
-            {
-                  "name": "ArtStudioKWT",
-                  "text": "Ein dynamisches Kunstzentrum in Mubarak Al-Kabeer, das Ausstellungen und Workshops für lokale Talente veranstaltet.",
-                  "category": "cultural",
-                  "coords": [
-                        48.098272,
-                        29.225191
-                  ]
-            },
             {
                   "name": "parents house",
                   "text": "Ein markantes Wohnhaus in Mubarak Al-Kabeer, das mit seinen Türmen und Zinnen an eine moderne Burg erinnert.",
@@ -1005,15 +618,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "ArtStudioKWT",
-                  "text": "Dinamikus művészeti központ Mubarak Al-Kabeerben, amely kiállításokat és workshopokat szervez a helyi tehetségeknek.",
-                  "category": "cultural",
-                  "coords": [
-                        48.098272,
-                        29.225191
-                  ]
-            },
-            {
                   "name": "parents house",
                   "text": "Jellegzetes lakóház Mubarak Al-Kabeerben, amely tornyaival és bástyáival egy modern várra emlékeztet.",
                   "category": "castle",
@@ -1097,15 +701,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "ArtStudioKWT",
-                  "text": "Un centru de artă din Mubarak Al-Kabeer care găzduiește expoziții și ateliere pentru talentele locale.",
-                  "category": "cultural",
-                  "coords": [
-                        48.098272,
-                        29.225191
-                  ]
-            },
-            {
                   "name": "parents house",
                   "text": "O casă rezidențială distinctivă din Mubarak Al-Kabeer, care seamănă cu un castel modern prin turnurile și crenelurile sale.",
                   "category": "castle",
@@ -1188,15 +783,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "ArtStudioKWT",
-                  "text": "A dynamic arts centre in Mubarak Al-Kabeer that hosts exhibitions and workshops for local talents.",
-                  "category": "cultural",
-                  "coords": [
-                        48.098272,
-                        29.225191
-                  ]
-            },
             {
                   "name": "parents house",
                   "text": "A distinctive residential house in Mubarak Al-Kabeer that resembles a modern castle with its towers and battlements.",
@@ -1335,33 +921,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kuwait Sea Club",
-                  "text": "Der Kuwait Sea Club ist ein Küstenstrandziel in Salmiya. Er bietet Wassersportaktivitäten und Entspannung am Meer.",
-                  "category": "recreational",
-                  "coords": [
-                        48.097917,
-                        29.346062
-                  ]
-            },
-            {
-                  "name": "View of Kuwait City",
-                  "text": "Der Blick auf Kuwait-Stadt ist ein malerischer Aussichtspunkt in Salmiya. Er bietet ein hervorragendes Panorama der modernen Skyline der Stadt.",
-                  "category": "natural",
-                  "coords": [
-                        48.097015,
-                        29.352043
-                  ]
-            },
-            {
-                  "name": "Silsan Boat tour - 1KD (20 min)",
-                  "text": "Die Silsan Boat Tour ist eine preisgünstige Attraktion in Salmiya. Besucher können eine 20-minütige malerische Bootsfahrt auf dem Wasser genießen.",
-                  "category": "landmark",
-                  "coords": [
-                        48.055402,
-                        29.341941
-                  ]
-            },
-            {
                   "name": "Zain-al-Abidin-Moschee",
                   "text": "Die Zain-al-Abidin-Moschee ist ein bemerkenswertes Gotteshaus in Salmiya. Sie dient als wichtige religiöse Stätte für die lokale muslimische Gemeinde.",
                   "category": "religious",
@@ -1391,24 +950,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "View of Kuwait City",
-                  "text": "A Kuvaitvárosra nyíló kilátás egy festői kilátó Szalmijában. Kiváló panorámát nyújt a város modern sziluettjére.",
-                  "category": "natural",
-                  "coords": [
-                        48.097015,
-                        29.352043
-                  ]
-            },
-            {
-                  "name": "Silsan Boat tour - 1KD (20 min)",
-                  "text": "A Silsan hajótúra egy pénztárcabarát látványosság Szalmijában. A látogatók egy 20 perces festői hajókirándulást élvezhetnek a vízen.",
-                  "category": "landmark",
-                  "coords": [
-                        48.055402,
-                        29.341941
-                  ]
-            },
-            {
                   "name": "Imam Zayn Al-Aabideen mecset",
                   "text": "Az Imam Zayn Al-Aabideen mecset egy figyelemre méltó istentiszteleti hely Szalmijában. Fontos vallási helyszínként szolgál a helyi muszlim közösség számára.",
                   "category": "religious",
@@ -1429,33 +970,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kuwait Sea Club",
-                  "text": "Kuwait Sea Club este o destinație de plajă pe coastă situată în Salmiya. Oferă activități acvatice de agrement și relaxare la malul mării.",
-                  "category": "recreational",
-                  "coords": [
-                        48.097917,
-                        29.346062
-                  ]
-            },
-            {
-                  "name": "View of Kuwait City",
-                  "text": "Vederea asupra Kuweitului este un punct de belvedere pitoresc situat în Salmiya. Oferă o panoramă excelentă a orizontului modern al orașului.",
-                  "category": "natural",
-                  "coords": [
-                        48.097015,
-                        29.352043
-                  ]
-            },
-            {
-                  "name": "Silsan Boat tour - 1KD (20 min)",
-                  "text": "Turul cu barca Silsan este o atracție prietenoasă cu bugetul, care operează în Salmiya. Vizitatorii se pot bucura de o croazieră pitorească de 20 de minute pe apă.",
-                  "category": "landmark",
-                  "coords": [
-                        48.055402,
-                        29.341941
-                  ]
-            },
-            {
                   "name": "Moscheea Imam Zayn Al-Aabideen",
                   "text": "Moscheea Imam Zayn Al-Aabideen este un lăcaș de cult notabil situat în Salmiya. Acesta servește ca un sit religios important pentru comunitatea musulmană locală.",
                   "category": "religious",
@@ -1473,33 +987,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   "coords": [
                         48.089464,
                         29.349557
-                  ]
-            },
-            {
-                  "name": "Kuwait Sea Club",
-                  "text": "The Kuwait Sea Club is a coastal beach destination situated in Salmiya. It provides recreational water activities and relaxation by the sea.",
-                  "category": "recreational",
-                  "coords": [
-                        48.097917,
-                        29.346062
-                  ]
-            },
-            {
-                  "name": "View of Kuwait City",
-                  "text": "The View of Kuwait City is a scenic viewpoint located in Salmiya. It offers an excellent panorama of the city's modern skyline.",
-                  "category": "natural",
-                  "coords": [
-                        48.097015,
-                        29.352043
-                  ]
-            },
-            {
-                  "name": "Silsan Boat tour - 1KD (20 min)",
-                  "text": "The Silsan Boat Tour is a budget-friendly attraction operating in Salmiya. Visitors can enjoy a 20-minute scenic cruise on the water.",
-                  "category": "landmark",
-                  "coords": [
-                        48.055402,
-                        29.341941
                   ]
             },
             {
@@ -2076,50 +1563,10 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
   },
   {
     id: "kw-mangaf-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Ajial Theater",
-                  "text": "Ein Theater in Mangaf, das Theaterstücke und Konzerte für die lokale Gemeinschaft veranstaltet.",
-                  "category": "cultural",
-                  "coords": [
-                        48.136356,
-                        29.082783
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Ajial Theater",
-                  "text": "Egy színház Mangafban, amely színdarabokat és koncerteket rendez a helyi közösség számára.",
-                  "category": "cultural",
-                  "coords": [
-                        48.136356,
-                        29.082783
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Ajial Theater",
-                  "text": "Un teatru în Mangaf care găzduiește piese de teatru și concerte pentru comunitatea locală.",
-                  "category": "cultural",
-                  "coords": [
-                        48.136356,
-                        29.082783
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Ajial Theater",
-                  "text": "A theater in Mangaf hosting plays and concerts for the local community.",
-                  "category": "cultural",
-                  "coords": [
-                        48.136356,
-                        29.082783
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "KW-AH",
@@ -2254,122 +1701,10 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
   },
   {
     id: "kw-rumaithiya-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Al Hashemi Marine Museum",
-                  "text": "Museum an Bord der Al-Hashemi II, einer großen hölzernen Dau, die in Rumaithiya vor Anker liegt und die maritime Geschichte zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        48.089345,
-                        29.301498
-                  ]
-            },
-            {
-                  "name": "Tariq Rajab Museum",
-                  "text": "Ein Museum in Rumaithiya mit einer Sammlung islamischer Kunst, Kalligrafie und Musikinstrumenten.",
-                  "category": "museum",
-                  "coords": [
-                        48.047192,
-                        29.316956
-                  ]
-            },
-            {
-                  "name": "Imam Zayn Al-Aabideen Mosque",
-                  "text": "Große Moschee in Rumaithiya mit einer zentralen Kuppel und zwei Minaretten.",
-                  "category": "religious",
-                  "coords": [
-                        48.079834,
-                        29.326301
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Al Hashemi Marine Museum",
-                  "text": "Múzeum a Al-Hashemi II fedélzetén, egy nagy fából készült dhow-n, amely Rumaithiyában horgonyoz, bemutatva a tengeri történelmet.",
-                  "category": "museum",
-                  "coords": [
-                        48.089345,
-                        29.301498
-                  ]
-            },
-            {
-                  "name": "Tariq Rajab Museum",
-                  "text": "Egy múzeum Rumaithiyában, iszlám művészeti, kalligráfiai és hangszergyűjteménnyel.",
-                  "category": "museum",
-                  "coords": [
-                        48.047192,
-                        29.316956
-                  ]
-            },
-            {
-                  "name": "Imam Zayn Al-Aabideen Mosque",
-                  "text": "Nagy mecset Rumaithiyában, központi kupolával és két minarettel.",
-                  "category": "religious",
-                  "coords": [
-                        48.079834,
-                        29.326301
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Al Hashemi Marine Museum",
-                  "text": "Muzeu la bordul Al-Hashemi II, un mare dhow de lemn ancorat în Rumaithiya, prezentând istoria maritimă.",
-                  "category": "museum",
-                  "coords": [
-                        48.089345,
-                        29.301498
-                  ]
-            },
-            {
-                  "name": "Tariq Rajab Museum",
-                  "text": "Un muzeu în Rumaithiya care adăpostește o colecție de artă islamică, caligrafie și instrumente muzicale.",
-                  "category": "museum",
-                  "coords": [
-                        48.047192,
-                        29.316956
-                  ]
-            },
-            {
-                  "name": "Imam Zayn Al-Aabideen Mosque",
-                  "text": "Moschee mare în Rumaithiya, cu o cupolă centrală și două minarete.",
-                  "category": "religious",
-                  "coords": [
-                        48.079834,
-                        29.326301
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Al Hashemi Marine Museum",
-                  "text": "Museum aboard the Al-Hashemi II, a large wooden dhow moored in Rumaithiya, showcasing maritime history.",
-                  "category": "museum",
-                  "coords": [
-                        48.089345,
-                        29.301498
-                  ]
-            },
-            {
-                  "name": "Tariq Rajab Museum",
-                  "text": "A museum in Rumaithiya housing a collection of Islamic art, calligraphy, and musical instruments.",
-                  "category": "museum",
-                  "coords": [
-                        48.047192,
-                        29.316956
-                  ]
-            },
-            {
-                  "name": "Imam Zayn Al-Aabideen Mosque",
-                  "text": "Large mosque in Rumaithiya with a central dome and twin minarets.",
-                  "category": "religious",
-                  "coords": [
-                        48.079834,
-                        29.326301
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "KW-HA",
@@ -2549,15 +1884,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                         48.047192,
                         29.316956
                   ]
-            },
-            {
-                  "name": "Sheikh Abdullah Al Salem Cultural Centre",
-                  "text": "Das Sheikh Abdullah Al-Salem Cultural Centre in Jabriya umfasst sechs Museen, darunter ein Naturkundemuseum und ein Wissenschaftsmuseum.",
-                  "category": "museum",
-                  "coords": [
-                        48.040623,
-                        29.343501
-                  ]
             }
       ],
       "hu": [
@@ -2568,15 +1894,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   "coords": [
                         48.047192,
                         29.316956
-                  ]
-            },
-            {
-                  "name": "Sheikh Abdullah Al Salem Cultural Centre",
-                  "text": "A jabriai Sheikh Abdullah Al-Salem Kulturközpont hat hat múzeumot, köztük természetrajzi és tudományos múzeumot.",
-                  "category": "museum",
-                  "coords": [
-                        48.040623,
-                        29.343501
                   ]
             }
       ],
@@ -2589,15 +1906,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                         48.047192,
                         29.316956
                   ]
-            },
-            {
-                  "name": "Sheikh Abdullah Al Salem Cultural Centre",
-                  "text": "Centrul Cultural Sheikh Abdullah Al-Salem din Jabriya cuprinde șase muzee, inclusiv un muzeu de istorie naturală și unul științific.",
-                  "category": "museum",
-                  "coords": [
-                        48.040623,
-                        29.343501
-                  ]
             }
       ],
       "en": [
@@ -2608,15 +1916,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   "coords": [
                         48.047192,
                         29.316956
-                  ]
-            },
-            {
-                  "name": "Sheikh Abdullah Al-Salem Cultural Centre",
-                  "text": "The Sheikh Abdullah Al-Salem Cultural Centre in Jabriya features six museums, including a natural history and a science museum.",
-                  "category": "museum",
-                  "coords": [
-                        48.040623,
-                        29.343501
                   ]
             }
       ]
@@ -2674,15 +1973,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                         48.089345,
                         29.301498
                   ]
-            },
-            {
-                  "name": "Messilah Beach",
-                  "text": "Der Messilah Beach in der Stadt Salwa vereint großstädtischen Komfort mit erholsamem Strandvergnügen am Arabischen Golf. Hier herrscht meist ein munteres Treiben, das zu erfrischenden Schwimmrunden und sonnigen Stunden im feinen Sand einlädt. Besonders am Wochenende sollte man frühzeitig eintreffen, um einen entspannten Tag am Wasser zu verbringen.",
-                  "category": "recreational",
-                  "coords": [
-                        48.089079,
-                        29.277677
-                  ]
             }
       ],
       "hu": [
@@ -2693,15 +1983,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   "coords": [
                         48.089345,
                         29.301498
-                  ]
-            },
-            {
-                  "name": "Messilah Beach",
-                  "text": "A Szalva városában elterülő Messilah Beach a nagyvárosi kényelmet ötvözi a pihentető tengerparti élménnyel az Arab-öböl partján. Az itt uralkodó jókedvű nyüzsgés frissítő úszásra és napfényes tengerparti órákra hívogat. Különösen hétvégén érdemes korán érkezni egy gondtalan vízparti naphoz.",
-                  "category": "recreational",
-                  "coords": [
-                        48.089079,
-                        29.277677
                   ]
             }
       ],
@@ -2714,15 +1995,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                         48.089345,
                         29.301498
                   ]
-            },
-            {
-                  "name": "Messilah Beach",
-                  "text": "Messilah Beach din orașul Salwa îmbină confortul metropolitan cu distracția relaxantă la plajă, pe malul Golfului Arab. O atmosferă veselă domină adesea peisajul, invitând vizitatorii la înot și la ore lungi de plajă. O sosire matinală, mai ales în weekend, este ideală pentru a asigura o zi fără griji la mare.",
-                  "category": "recreational",
-                  "coords": [
-                        48.089079,
-                        29.277677
-                  ]
             }
       ],
       "en": [
@@ -2733,15 +2005,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   "coords": [
                         48.089345,
                         29.301498
-                  ]
-            },
-            {
-                  "name": "Messilah Beach",
-                  "text": "Messilah Beach in the city of Salwa pairs metropolitan comfort with relaxing beach fun by the Arabian Gulf. A cheerful buzz usually fills the air, inviting guests for refreshing swims and sunny hours on the fine sand. Arriving early, especially on weekends, is a great strategy for a stress-free day by the water.",
-                  "category": "recreational",
-                  "coords": [
-                        48.089079,
-                        29.277677
                   ]
             }
       ]
@@ -2790,50 +2053,10 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
   },
   {
     id: "kw-bayan-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Tareq Rajab Museum",
-                  "text": "Das Tariq Rajab Museum in Bayan beherbergt eine bedeutende Sammlung islamischer Kunst und Artefakte.",
-                  "category": "museum",
-                  "coords": [
-                        48.047192,
-                        29.316956
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Tareq Rajab Museum",
-                  "text": "A bajani Tariq Rajab Museum iszlám művészetet és műtárgyakat bemutató jelentős gyűjteménynek ad otthont.",
-                  "category": "museum",
-                  "coords": [
-                        48.047192,
-                        29.316956
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Tareq Rajab Museum",
-                  "text": "Tariq Rajab Museum din Bayan găzduiește o colecție importantă de artă și artefacte islamice.",
-                  "category": "museum",
-                  "coords": [
-                        48.047192,
-                        29.316956
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Tariq Rajab Museum",
-                  "text": "Tariq Rajab Museum in Bayan houses a prominent collection of Islamic art and artifacts.",
-                  "category": "museum",
-                  "coords": [
-                        48.047192,
-                        29.316956
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "KW-HA",
@@ -2888,15 +2111,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                         47.909715,
                         29.301031
                   ]
-            },
-            {
-                  "name": "Shathur Salon",
-                  "text": "Salon shathar in Ardhiya ist ein Naturgebiet mit einer Mischung aus Wüstenflora und grünen Flächen.",
-                  "category": "natural",
-                  "coords": [
-                        47.923399,
-                        29.271286
-                  ]
             }
       ],
       "hu": [
@@ -2907,15 +2121,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   "coords": [
                         47.909715,
                         29.301031
-                  ]
-            },
-            {
-                  "name": "Shathur Salon",
-                  "text": "Az ardhiyai Salon shathar egy természeti terület, ahol sivatagi növényzet és zöldfelületek váltakoznak.",
-                  "category": "natural",
-                  "coords": [
-                        47.923399,
-                        29.271286
                   ]
             }
       ],
@@ -2928,15 +2133,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                         47.909715,
                         29.301031
                   ]
-            },
-            {
-                  "name": "Shathur Salon",
-                  "text": "Salon shathar din Ardhiya este o zonă naturală cu un amestec de floră deșertică și spații verzi.",
-                  "category": "natural",
-                  "coords": [
-                        47.923399,
-                        29.271286
-                  ]
             }
       ],
       "en": [
@@ -2947,15 +2143,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
                   "coords": [
                         47.909715,
                         29.301031
-                  ]
-            },
-            {
-                  "name": "Salon shathar",
-                  "text": "Salon shathar in Ardhiya is a natural area with a mix of desert flora and green spaces.",
-                  "category": "natural",
-                  "coords": [
-                        47.923399,
-                        29.271286
                   ]
             }
       ]
@@ -3004,50 +2191,10 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
   },
   {
     id: "kw-mahboula-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Flow House Kuwait",
-                  "text": "Flow House Kuwait in Mahboula bietet eine Indoor-Wellenbad-Anlage für Surfbegeisterte.",
-                  "category": "family",
-                  "coords": [
-                        48.132096,
-                        29.132614
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Flow House Kuwait",
-                  "text": "A mahboulai Flow House Kuwait beltéri hullámmedencével várja a szörfösöket.",
-                  "category": "family",
-                  "coords": [
-                        48.132096,
-                        29.132614
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Flow House Kuwait",
-                  "text": "Flow House Kuwait din Mahboula oferă o piscină interioară cu valuri pentru pasionații de surf.",
-                  "category": "family",
-                  "coords": [
-                        48.132096,
-                        29.132614
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Flow House Kuwait",
-                  "text": "Flow House Kuwait in Mahboula is an indoor wave pool facility for surfing enthusiasts.",
-                  "category": "family",
-                  "coords": [
-                        48.132096,
-                        29.132614
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "KW-AH",
@@ -3777,15 +2924,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     id: "kw-al-qusour-cities-v2", "sights": {
       "de": [
             {
-                  "name": "parents house",
-                  "text": "Das als Elternhaus bekannte Gebäude in Al Qusour ist ein privates Wohnhaus im Burgstil.",
-                  "category": "castle",
-                  "coords": [
-                        48.086694,
-                        29.209506
-                  ]
-            },
-            {
                   "name": "ArtStudioKWT",
                   "text": "ArtStudioKWT in Al Qusour ist ein Kulturstudio mit Workshops und Ausstellungen.",
                   "category": "cultural",
@@ -3796,15 +2934,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "parents house",
-                  "text": "Az Al Qusour-i „parents house” egy magánlakás, amelyet kastélyszerűen építettek.",
-                  "category": "castle",
-                  "coords": [
-                        48.086694,
-                        29.209506
-                  ]
-            },
             {
                   "name": "ArtStudioKWT",
                   "text": "Az Al Qusour-i ArtStudioKWT egy kulturális stúdió, amely műhelyeket és kiállításokat kínál.",
@@ -3817,15 +2946,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "parents house",
-                  "text": "„Parents house” din Al Qusour este o casă privată construită în stil de castel.",
-                  "category": "castle",
-                  "coords": [
-                        48.086694,
-                        29.209506
-                  ]
-            },
-            {
                   "name": "ArtStudioKWT",
                   "text": "ArtStudioKWT din Al Qusour este un studio cultural ce oferă ateliere și expoziții.",
                   "category": "cultural",
@@ -3836,15 +2956,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "parents house",
-                  "text": "The 'parents house' in Al Qusour is a private residence built in a castle-like style.",
-                  "category": "castle",
-                  "coords": [
-                        48.086694,
-                        29.209506
-                  ]
-            },
             {
                   "name": "ArtStudioKWT",
                   "text": "ArtStudioKWT in Al Qusour is a cultural studio offering workshops and exhibitions.",
@@ -3900,86 +3011,10 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
   },
   {
     id: "kw-al-qurain-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "parents house",
-                  "text": "Das als Elternhaus bekannte Gebäude in Al Qurain ist ein privates Wohnhaus im Burgstil.",
-                  "category": "castle",
-                  "coords": [
-                        48.086694,
-                        29.209506
-                  ]
-            },
-            {
-                  "name": "ArtStudioKWT",
-                  "text": "ArtStudioKWT ist ein Kunstzentrum für die kreative Gemeinschaft in Al-Qurain.",
-                  "category": "cultural",
-                  "coords": [
-                        48.098272,
-                        29.225191
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "parents house",
-                  "text": "Az Al Qurain-i „parents house” egy magánlakás, kastélyszerű kivitelben.",
-                  "category": "castle",
-                  "coords": [
-                        48.086694,
-                        29.209506
-                  ]
-            },
-            {
-                  "name": "ArtStudioKWT",
-                  "text": "Az ArtStudioKWT egy művészeti központ az Al-Qurain-i kreatív közösség számára.",
-                  "category": "cultural",
-                  "coords": [
-                        48.098272,
-                        29.225191
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "parents house",
-                  "text": "„Parents house” din Al Qurain este o casă privată cu aspect de castel.",
-                  "category": "castle",
-                  "coords": [
-                        48.086694,
-                        29.209506
-                  ]
-            },
-            {
-                  "name": "ArtStudioKWT",
-                  "text": "ArtStudioKWT este un centru de arte pentru comunitatea creativă din Al-Qurain.",
-                  "category": "cultural",
-                  "coords": [
-                        48.098272,
-                        29.225191
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "parents house",
-                  "text": "The 'parents house' in Al Qurain is a private home designed like a castle.",
-                  "category": "castle",
-                  "coords": [
-                        48.086694,
-                        29.209506
-                  ]
-            },
-            {
-                  "name": "ArtStudioKWT",
-                  "text": "ArtStudioKWT is an arts centre serving the creative community in Al-Qurain.",
-                  "category": "cultural",
-                  "coords": [
-                        48.098272,
-                        29.225191
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "KW-MU",
@@ -5139,122 +4174,10 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
   },
   {
     id: "kw-shuwaikh-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Kuwait Opera House",
-                  "text": "Das Kuwait Opera House in Shuwaikh ist ein modernes Opernhaus mit markanter Architektur.",
-                  "category": "cultural",
-                  "coords": [
-                        47.95479,
-                        29.359162
-                  ]
-            },
-            {
-                  "name": "Akkaz",
-                  "text": "Akkaz in Shuwaikh ist eine historische Stätte auf der gleichnamigen Insel mit Überresten aus der Bronzezeit.",
-                  "category": "historical",
-                  "coords": [
-                        47.914617,
-                        29.36008
-                  ]
-            },
-            {
-                  "name": "Historical, Vintage & Classic Car Museum",
-                  "text": "Das Historical, Vintage & Classic Car Museum in Shuwaikh zeigt eine umfangreiche Sammlung klassischer Automobile.",
-                  "category": "museum",
-                  "coords": [
-                        47.943186,
-                        29.338335
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Kuwait Opera House",
-                  "text": "A shuwaikhi Kuwait Opera House egy modern operaház, jellegzetes építészeti stílussal.",
-                  "category": "cultural",
-                  "coords": [
-                        47.95479,
-                        29.359162
-                  ]
-            },
-            {
-                  "name": "Akkaz",
-                  "text": "A shuwaikhi Akkaz egy történelmi lelőhely a névadó szigeten, bronzkori romokkal.",
-                  "category": "historical",
-                  "coords": [
-                        47.914617,
-                        29.36008
-                  ]
-            },
-            {
-                  "name": "Historical, Vintage & Classic Car Museum",
-                  "text": "A suvajhi Historical, Vintage & Classic Car Museum klasszikus autók széles gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        47.943186,
-                        29.338335
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Kuwait Opera House",
-                  "text": "Kuwait Opera House din Shuwaikh este o casă de operă modernă, cu o arhitectură distinctivă.",
-                  "category": "cultural",
-                  "coords": [
-                        47.95479,
-                        29.359162
-                  ]
-            },
-            {
-                  "name": "Akkaz",
-                  "text": "Akkaz din Shuwaikh este un sit istoric pe insula omonimă, cu rămășițe din Epoca Bronzului.",
-                  "category": "historical",
-                  "coords": [
-                        47.914617,
-                        29.36008
-                  ]
-            },
-            {
-                  "name": "Historical, Vintage & Classic Car Museum",
-                  "text": "Historical, Vintage & Classic Car Museum din Shuwaikh expune o colecție vastă de automobile clasice.",
-                  "category": "museum",
-                  "coords": [
-                        47.943186,
-                        29.338335
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Kuwait Opera House",
-                  "text": "The Kuwait Opera House in Shuwaikh is a modern opera house with distinctive architecture.",
-                  "category": "cultural",
-                  "coords": [
-                        47.95479,
-                        29.359162
-                  ]
-            },
-            {
-                  "name": "Akkaz",
-                  "text": "Akkaz in Shuwaikh is a historical site on the island of Akkaz, featuring Bronze Age remains.",
-                  "category": "historical",
-                  "coords": [
-                        47.914617,
-                        29.36008
-                  ]
-            },
-            {
-                  "name": "Historical, Vintage & Classic Car Museum",
-                  "text": "The Historical, Vintage & Classic Car Museum in Shuwaikh showcases a wide collection of classic automobiles.",
-                  "category": "museum",
-                  "coords": [
-                        47.943186,
-                        29.338335
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "KW-KU",
@@ -5300,50 +4223,10 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
   },
   {
     id: "kw-al-adan-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "ArtStudioKWT",
-                  "text": "ArtStudioKWT in Al Adan ist ein Kulturstudio, das Kunstkurse und Ausstellungen anbietet.",
-                  "category": "cultural",
-                  "coords": [
-                        48.098272,
-                        29.225191
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "ArtStudioKWT",
-                  "text": "Az Al Adan-i ArtStudioKWT egy kulturális stúdió, művészeti órákkal és kiállításokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        48.098272,
-                        29.225191
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "ArtStudioKWT",
-                  "text": "ArtStudioKWT din Al Adan este un studio cultural ce oferă cursuri de artă și expoziții.",
-                  "category": "cultural",
-                  "coords": [
-                        48.098272,
-                        29.225191
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "ArtStudioKWT",
-                  "text": "ArtStudioKWT in Al Adan is a cultural art studio providing art classes and exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        48.098272,
-                        29.225191
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "KW-MU",
@@ -5391,15 +4274,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
     id: "kw-surra-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Hawally Park",
-                  "text": "Der Hawally Park in Surra ist ein Familienpark mit Spielplätzen und Grünflächen.",
-                  "category": "family",
-                  "coords": [
-                        48.021916,
-                        29.340197
-                  ]
-            },
-            {
                   "name": "Abdullah Al-Jaber School Theater",
                   "text": "Das Abdullah Al-Jaber School Theater in Surra ist eine Schulbühne für Schüler- und Gemeindeaufführungen.",
                   "category": "cultural",
@@ -5410,15 +4284,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Hawally Park",
-                  "text": "A surrai Hawally Park egy családi park játszóterekkel és zöldterületekkel.",
-                  "category": "family",
-                  "coords": [
-                        48.021916,
-                        29.340197
-                  ]
-            },
             {
                   "name": "Abdullah Al-Jaber School Theater",
                   "text": "A surrai Abdullah Al-Jaber School Theater egy iskolai színház diák- és közösségi előadások számára.",
@@ -5431,15 +4296,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Hawally Park",
-                  "text": "Parcul Hawally din Surra este un parc familial cu locuri de joacă și spații verzi.",
-                  "category": "family",
-                  "coords": [
-                        48.021916,
-                        29.340197
-                  ]
-            },
-            {
                   "name": "Abdullah Al-Jaber School Theater",
                   "text": "Teatrul Școlii Abdullah Al-Jaber din Surra este o scenă școlară pentru spectacole ale elevilor și comunității.",
                   "category": "cultural",
@@ -5450,15 +4306,6 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Hawally Park",
-                  "text": "Hawally Park in Surra is a family park with playgrounds and green areas.",
-                  "category": "family",
-                  "coords": [
-                        48.021916,
-                        29.340197
-                  ]
-            },
             {
                   "name": "Abdullah Al-Jaber School Theater",
                   "text": "The Abdullah Al-Jaber School Theater in Surra is a school venue for student and community performances.",
@@ -5514,50 +4361,10 @@ export const poiExtraKuwaitCitiesV2: POI[] = [
   },
   {
     id: "kw-qurtuba-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Abdullah Al-Jaber School Theater",
-                  "text": "Das Abdullah Al-Jaber School Theater in Qurtuba ist eine Schulbühne für kulturelle Veranstaltungen.",
-                  "category": "cultural",
-                  "coords": [
-                        47.996941,
-                        29.330871
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Abdullah Al-Jaber School Theater",
-                  "text": "A qurtubai Abdullah Al-Jaber School Theater egy iskolai színház kulturális eseményekre.",
-                  "category": "cultural",
-                  "coords": [
-                        47.996941,
-                        29.330871
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Abdullah Al-Jaber School Theater",
-                  "text": "Teatrul Școlii Abdullah Al-Jaber din Qurtuba este un teatru școlar pentru evenimente culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        47.996941,
-                        29.330871
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Abdullah Al-Jaber School Theater",
-                  "text": "The Abdullah Al-Jaber School Theater in Qurtuba is a school theater for cultural events.",
-                  "category": "cultural",
-                  "coords": [
-                        47.996941,
-                        29.330871
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "KW-KU",

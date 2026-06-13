@@ -236,39 +236,12 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Complexul Etno-Cultural Văleni",
-                  "text": "Ein ethnokulturelles Museum im Dorf Văleni nahe dem Unteren Pruth.",
-                  "category": "museum",
-                  "coords": [
-                        28.17267,
-                        45.624074
-                  ]
-            },
-            {
-                  "name": "Casa Albă",
-                  "text": "Eine lokale Sehenswürdigkeit im Naturschutzgebiet Unterer Pruth.",
-                  "category": "landmark",
-                  "coords": [
-                        28.1323,
-                        45.621467
-                  ]
-            },
-            {
                   "name": "Belvedere spre Lacul Beleu",
                   "text": "Ein Aussichtspunkt mit Blick auf den Beleu-See im Naturschutzgebiet Unterer Pruth.",
                   "category": "natural",
                   "coords": [
                         28.164445,
                         45.593766
-                  ]
-            },
-            {
-                  "name": "Turnul Lebedelor",
-                  "text": "Ein Aussichtsturm im Naturschutzgebiet Unterer Pruth zur Vogelbeobachtung.",
-                  "category": "natural",
-                  "coords": [
-                        28.120569,
-                        45.605833
                   ]
             }
       ],
@@ -283,39 +256,12 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Complexul Etno-Cultural Văleni",
-                  "text": "Etnokulturális múzeum Văleni faluban, az Alsó-Prut közelében.",
-                  "category": "museum",
-                  "coords": [
-                        28.17267,
-                        45.624074
-                  ]
-            },
-            {
-                  "name": "Casa Albă",
-                  "text": "Helyi látványosság az Alsó-Prut természetvédelmi területen.",
-                  "category": "landmark",
-                  "coords": [
-                        28.1323,
-                        45.621467
-                  ]
-            },
-            {
                   "name": "Belvedere spre Lacul Beleu",
                   "text": "Kilátópont az Alsó-Prut rezervátumban található Beleu-tóra.",
                   "category": "natural",
                   "coords": [
                         28.164445,
                         45.593766
-                  ]
-            },
-            {
-                  "name": "Turnul Lebedelor",
-                  "text": "Kilátótorony az Alsó-Prut természetvédelmi területen madármegfigyeléshez.",
-                  "category": "natural",
-                  "coords": [
-                        28.120569,
-                        45.605833
                   ]
             }
       ],
@@ -330,39 +276,12 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Complexul Etno-Cultural Văleni",
-                  "text": "Un complex muzeal etno-cultural situat în satul Văleni, lângă Prutul de Jos.",
-                  "category": "museum",
-                  "coords": [
-                        28.17267,
-                        45.624074
-                  ]
-            },
-            {
-                  "name": "Casa Albă",
-                  "text": "O atracție locală situată în cadrul rezervației Prutul de Jos.",
-                  "category": "landmark",
-                  "coords": [
-                        28.1323,
-                        45.621467
-                  ]
-            },
-            {
                   "name": "Belvedere spre Lacul Beleu",
                   "text": "Un punct de observație cu vedere spre lacul Beleu din rezervația Prutul de Jos.",
                   "category": "natural",
                   "coords": [
                         28.164445,
                         45.593766
-                  ]
-            },
-            {
-                  "name": "Turnul Lebedelor",
-                  "text": "Un turn de observație în rezervația Prutul de Jos pentru monitorizarea păsărilor.",
-                  "category": "natural",
-                  "coords": [
-                        28.120569,
-                        45.605833
                   ]
             }
       ],
@@ -377,39 +296,12 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Complexul Etno-Cultural Văleni",
-                  "text": "An ethno-cultural museum complex located in Văleni village, near the Lower Prut.",
-                  "category": "museum",
-                  "coords": [
-                        28.17267,
-                        45.624074
-                  ]
-            },
-            {
-                  "name": "White House",
-                  "text": "A local attraction located within the Lower Prut nature reserve.",
-                  "category": "landmark",
-                  "coords": [
-                        28.1323,
-                        45.621467
-                  ]
-            },
-            {
                   "name": "Belvedere spre Lacul Beleu",
                   "text": "A viewpoint offering vistas of Lake Beleu in the Lower Prut reserve.",
                   "category": "natural",
                   "coords": [
                         28.164445,
                         45.593766
-                  ]
-            },
-            {
-                  "name": "Swan Tower",
-                  "text": "An observation tower in the Lower Prut reserve for bird watching.",
-                  "category": "natural",
-                  "coords": [
-                        28.120569,
-                        45.605833
                   ]
             }
       ]
@@ -488,24 +380,6 @@ export const moldovaLifeV2: POI[] = [
                         29.138352,
                         47.386337
                   ]
-            },
-            {
-                  "name": "Fortificație (Linia Stalin)",
-                  "text": "Überreste von Militärbunkern der historischen Stalin-Linie, die sich im Gebiet des Iagorlîc-Reservats befinden.",
-                  "category": "landmark",
-                  "coords": [
-                        29.116806,
-                        47.395405
-                  ]
-            },
-            {
-                  "name": "Cimitirul vechi",
-                  "text": "Ein alter Friedhof innerhalb des Naturschutzgebiets, der die lokale Geschichte der umliegenden Region widerspiegelt.",
-                  "category": "landmark",
-                  "coords": [
-                        29.110419,
-                        47.386037
-                  ]
             }
       ],
       "hu": [
@@ -534,24 +408,6 @@ export const moldovaLifeV2: POI[] = [
                   "coords": [
                         29.138352,
                         47.386337
-                  ]
-            },
-            {
-                  "name": "Fortificație (Linia Stalin)",
-                  "text": "A történelmi Sztálin-vonal katonai bunkereinek maradványai a Jargolik-rezervátum területén.",
-                  "category": "landmark",
-                  "coords": [
-                        29.116806,
-                        47.395405
-                  ]
-            },
-            {
-                  "name": "Cimitirul vechi",
-                  "text": "Régi temető a természetvédelmi területen belül, amely a környező régió helyi történelmét tükrözi.",
-                  "category": "landmark",
-                  "coords": [
-                        29.110419,
-                        47.386037
                   ]
             }
       ],
@@ -582,24 +438,6 @@ export const moldovaLifeV2: POI[] = [
                         29.138352,
                         47.386337
                   ]
-            },
-            {
-                  "name": "Fortificație (Linia Stalin)",
-                  "text": "Rămășițe ale buncărelor militare din istorica Linie Stalin, situate în zona rezervației Iagorlîc.",
-                  "category": "landmark",
-                  "coords": [
-                        29.116806,
-                        47.395405
-                  ]
-            },
-            {
-                  "name": "Cimitirul vechi",
-                  "text": "Un cimitir vechi în cadrul rezervației naturale, reflectând istoria locală a regiunii înconjurătoare.",
-                  "category": "landmark",
-                  "coords": [
-                        29.110419,
-                        47.386037
-                  ]
             }
       ],
       "en": [
@@ -628,24 +466,6 @@ export const moldovaLifeV2: POI[] = [
                   "coords": [
                         29.138352,
                         47.386337
-                  ]
-            },
-            {
-                  "name": "Fortificație (Linia Stalin)",
-                  "text": "Remnants of military bunkers from the historic Stalin Line, located within the Iagorlîc reserve area.",
-                  "category": "landmark",
-                  "coords": [
-                        29.116806,
-                        47.395405
-                  ]
-            },
-            {
-                  "name": "Cimitirul vechi",
-                  "text": "An old cemetery within the nature reserve, reflecting the local history of the surrounding region.",
-                  "category": "landmark",
-                  "coords": [
-                        29.110419,
-                        47.386037
                   ]
             }
       ]
@@ -1004,15 +824,6 @@ export const moldovaLifeV2: POI[] = [
     id: "moldova-tipova-reserve-life-v2", "sights": {
       "de": [
             {
-                  "name": "Cetățuia getică",
-                  "text": "Eine archäologische Ausgrabungsstätte einer antiken getischen Festung im Tipova-Reservat.",
-                  "category": "historical",
-                  "coords": [
-                        28.960455,
-                        47.618573
-                  ]
-            },
-            {
                   "name": "Kloster Țipova",
                   "text": "Eines der größten Felsenklöster Osteuropas, malerisch am Ufer des Dnister gelegen.",
                   "category": "landmark",
@@ -1020,72 +831,9 @@ export const moldovaLifeV2: POI[] = [
                         28.98484,
                         47.603093
                   ]
-            },
-            {
-                  "name": "Biserica rupestra Tipova",
-                  "text": "Diese historische Höhlenkirche ist Teil des beeindruckenden Klosterkomplexes von Tipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.989692,
-                        47.601786
-                  ]
-            },
-            {
-                  "name": "Cascada Moara Veche",
-                  "text": "Ein schöner Wasserfall im Naturreservat Tipova, benannt nach einer alten Mühle.",
-                  "category": "landmark",
-                  "coords": [
-                        28.959241,
-                        47.619767
-                  ]
-            },
-            {
-                  "name": "Cascada Mare",
-                  "text": "Der 'Große Wasserfall' ist eine der natürlichen Hauptattraktionen im Tipova-Reservat.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "Ein markanter Doppelwasserfall, der durch die zerklüftete Landschaft von Tipova stürzt.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
-                  "name": "Cascada Orașul Păsărilor",
-                  "text": "Ein malerischer Wasserfall in Tipova, dessen Name 'Vogelstadt' bedeutet.",
-                  "category": "landmark",
-                  "coords": [
-                        28.961889,
-                        47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "Ein saisonaler Wasserfall in der Region Tipova, der nur zu bestimmten Zeiten Wasser führt.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Cetățuia getică",
-                  "text": "Egy antik géta erődítmény régészeti lelőhelye a Tipova tájvédelmi körzetben.",
-                  "category": "historical",
-                  "coords": [
-                        28.960455,
-                        47.618573
-                  ]
-            },
             {
                   "name": "Manastirea Țipova",
                   "text": "Kelet-Európa egyik legnagyobb sziklakolostora, amely festői környezetben, a Dnyeszter partján fekszik.",
@@ -1094,72 +842,9 @@ export const moldovaLifeV2: POI[] = [
                         28.98484,
                         47.603093
                   ]
-            },
-            {
-                  "name": "Biserica rupestra Tipova",
-                  "text": "Ez a történelmi sziklatemplom a lenyűgöző tipovai kolostoregyüttes része.",
-                  "category": "landmark",
-                  "coords": [
-                        28.989692,
-                        47.601786
-                  ]
-            },
-            {
-                  "name": "Cascada Moara Veche",
-                  "text": "Egy szép vízesés a Tipova természetvédelmi területen, amelyet egy régi malomról neveztek el.",
-                  "category": "landmark",
-                  "coords": [
-                        28.959241,
-                        47.619767
-                  ]
-            },
-            {
-                  "name": "Cascada Mare",
-                  "text": "A „Nagy-vízesés” a Tipova tájvédelmi körzet egyik fő természeti látványossága.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "Jellegzetes kettős vízesés, amely a Tipova vidékének sziklás tájain zúdul le.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
-                  "name": "Cascada Orașul Păsărilor",
-                  "text": "Festői vízesés Tipovában, amelynek neve „Madárvárost” jelent.",
-                  "category": "landmark",
-                  "coords": [
-                        28.961889,
-                        47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "Időszakos vízesés a Tipova régióban, amely csak bizonyos időszakokban látható.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Cetățuia getică",
-                  "text": "Un sit arheologic al unei cetăți getice antice din Rezervația Peisajistică Țipova.",
-                  "category": "historical",
-                  "coords": [
-                        28.960455,
-                        47.618573
-                  ]
-            },
             {
                   "name": "Manastirea Țipova",
                   "text": "Una dintre cele mai mari mănăstiri rupestre din Europa de Est, situată pitoresc pe malul Nistrului.",
@@ -1168,72 +853,9 @@ export const moldovaLifeV2: POI[] = [
                         28.98484,
                         47.603093
                   ]
-            },
-            {
-                  "name": "Biserica rupestra Tipova",
-                  "text": "Această biserică rupestră istorică face parte din impresionantul complex monahal de la Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.989692,
-                        47.601786
-                  ]
-            },
-            {
-                  "name": "Cascada Moara Veche",
-                  "text": "O cascadă frumoasă în rezervația naturală Țipova, numită după o moară veche.",
-                  "category": "landmark",
-                  "coords": [
-                        28.959241,
-                        47.619767
-                  ]
-            },
-            {
-                  "name": "Cascada Mare",
-                  "text": "„Cascada Mare” este una dintre principalele atracții naturale din rezervația Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "O cascadă dublă spectaculoasă care curge prin peisajul accidentat de la Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
-                  "name": "Cascada Orașul Păsărilor",
-                  "text": "O cascadă pitorească în Țipova, al cărei nume s-ar traduce prin „Orașul Păsărilor”.",
-                  "category": "landmark",
-                  "coords": [
-                        28.961889,
-                        47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "O cascadă sezonieră din regiunea Țipova, care are debit doar în anumite perioade.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Cetățuia getică",
-                  "text": "An archaeological site of an ancient Getic fortress in the Tipova Landscape Reserve.",
-                  "category": "historical",
-                  "coords": [
-                        28.960455,
-                        47.618573
-                  ]
-            },
             {
                   "name": "Țipova Monastery",
                   "text": "One of the largest cave monasteries in Eastern Europe, picturesquely located on the banks of the Dniester.",
@@ -1241,60 +863,6 @@ export const moldovaLifeV2: POI[] = [
                   "coords": [
                         28.98484,
                         47.603093
-                  ]
-            },
-            {
-                  "name": "Biserica rupestra Tipova",
-                  "text": "This historic cave church is part of the impressive Tipova monastery complex.",
-                  "category": "landmark",
-                  "coords": [
-                        28.989692,
-                        47.601786
-                  ]
-            },
-            {
-                  "name": "Cascada Moara Veche",
-                  "text": "A beautiful waterfall in the Tipova nature reserve, named after an old mill.",
-                  "category": "landmark",
-                  "coords": [
-                        28.959241,
-                        47.619767
-                  ]
-            },
-            {
-                  "name": "Cascada Mare",
-                  "text": "The 'Great Waterfall' is one of the main natural attractions in the Tipova reserve.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "A striking double waterfall cascading through the rugged landscape of Tipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
-                  "name": "Cascada Orașul Păsărilor",
-                  "text": "A scenic waterfall in Tipova whose name translates to 'Bird City'.",
-                  "category": "landmark",
-                  "coords": [
-                        28.961889,
-                        47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "A seasonal waterfall in the Tipova region that only flows during certain times.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
                   ]
             }
       ]
@@ -1442,15 +1010,6 @@ export const moldovaLifeV2: POI[] = [
     id: "moldova-beleu-lake-life-v2", "sights": {
       "de": [
             {
-                  "name": "Rezervația științifică „Prutul de Jos“",
-                  "text": "Ein wissenschaftliches Naturschutzgebiet, das die Feuchtgebiete um den Beleu-See schützt.",
-                  "category": "natural",
-                  "coords": [
-                        28.13135,
-                        45.600825
-                  ]
-            },
-            {
                   "name": "Complexul Etno-Cultural Văleni",
                   "text": "Museum, das traditionelles moldauisches Handwerk und ländliches Leben zeigt.",
                   "category": "museum",
@@ -1469,15 +1028,6 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Belvedere spre Lacul Beleu",
-                  "text": "Belvedere (Aussichtspunkt) mit Blick auf den Lacul Beleu, ein Naturausblick.",
-                  "category": "natural",
-                  "coords": [
-                        28.164445,
-                        45.593766
-                  ]
-            },
-            {
                   "name": "Belvedere panoramică spre Văleni",
                   "text": "Aussichtspunkt, der ein weites Panorama auf die Region Văleni bietet.",
                   "category": "natural",
@@ -1485,27 +1035,9 @@ export const moldovaLifeV2: POI[] = [
                         28.182798,
                         45.635876
                   ]
-            },
-            {
-                  "name": "Turnul Lebedelor",
-                  "text": "Swan Tower ist eine natürliche Felsformation oder Hügel nahe dem Beleu-See.",
-                  "category": "natural",
-                  "coords": [
-                        28.120569,
-                        45.605833
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Rezervația științifică „Prutul de Jos“",
-                  "text": "Tudományos természetvédelmi terület, amely a Beleu-tó környéki vizes élőhelyeket védi.",
-                  "category": "natural",
-                  "coords": [
-                        28.13135,
-                        45.600825
-                  ]
-            },
             {
                   "name": "Complexul Etno-Cultural Văleni",
                   "text": "A moldovai kézművességet és a falusi életet bemutató múzeum.",
@@ -1525,15 +1057,6 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Belvedere spre Lacul Beleu",
-                  "text": "Belvedere (kilátó) a Beleu-tóra, természeti látványosság.",
-                  "category": "natural",
-                  "coords": [
-                        28.164445,
-                        45.593766
-                  ]
-            },
-            {
                   "name": "Belvedere panoramică spre Văleni",
                   "text": "Kilátópont, amely széles panorámát nyújt a Văleni régióra.",
                   "category": "natural",
@@ -1541,27 +1064,9 @@ export const moldovaLifeV2: POI[] = [
                         28.182798,
                         45.635876
                   ]
-            },
-            {
-                  "name": "Turnul Lebedelor",
-                  "text": "A Swan Tower természetes sziklaalakzat vagy domb a Beleu-tó közelében.",
-                  "category": "natural",
-                  "coords": [
-                        28.120569,
-                        45.605833
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Rezervația științifică „Prutul de Jos“",
-                  "text": "O rezervație științifică ce protejează zonele umede din jurul Lacului Beleu.",
-                  "category": "natural",
-                  "coords": [
-                        28.13135,
-                        45.600825
-                  ]
-            },
             {
                   "name": "Complexul Etno-Cultural Văleni",
                   "text": "Complex muzeal ce prezintă meșteșugurile tradiționale și viața rurală din Moldova.",
@@ -1581,15 +1086,6 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Belvedere spre Lacul Beleu",
-                  "text": "Belvedere spre Lacul Beleu, un punct de belvedere natural.",
-                  "category": "natural",
-                  "coords": [
-                        28.164445,
-                        45.593766
-                  ]
-            },
-            {
                   "name": "Belvedere panoramică spre Văleni",
                   "text": "Punct de observație care oferă o panoramă largă asupra regiunii Văleni.",
                   "category": "natural",
@@ -1597,27 +1093,9 @@ export const moldovaLifeV2: POI[] = [
                         28.182798,
                         45.635876
                   ]
-            },
-            {
-                  "name": "Turnul Lebedelor",
-                  "text": "Swan Tower este o formațiune naturală de stâncă sau deal lângă Lacul Beleu.",
-                  "category": "natural",
-                  "coords": [
-                        28.120569,
-                        45.605833
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Scientific Reserve \"Lower Pruth\"",
-                  "text": "A scientific reserve protecting the wetlands around Lake Beleu.",
-                  "category": "natural",
-                  "coords": [
-                        28.13135,
-                        45.600825
-                  ]
-            },
             {
                   "name": "Complexul Etno-Cultural Văleni",
                   "text": "Museum showcasing traditional Moldovan crafts and rural life.",
@@ -1637,30 +1115,12 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Belvedere spre Lacul Beleu",
-                  "text": "Belvedere viewpoint overlooking Lacul Beleu, a natural scenic spot.",
-                  "category": "natural",
-                  "coords": [
-                        28.164445,
-                        45.593766
-                  ]
-            },
-            {
                   "name": "Belvedere panoramică spre Văleni",
                   "text": "Viewpoint providing a wide panorama of the Văleni region.",
                   "category": "natural",
                   "coords": [
                         28.182798,
                         45.635876
-                  ]
-            },
-            {
-                  "name": "Swan Tower",
-                  "text": "Swan Tower is a natural rock formation or hill near Beleu Lake.",
-                  "category": "natural",
-                  "coords": [
-                        28.120569,
-                        45.605833
                   ]
             }
       ]
@@ -1779,30 +1239,12 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Recifele de la Burlănești",
-                  "text": "Antike Korallenriffe, die einzigartige geologische Formationen im Schutzgebiet bieten.",
-                  "category": "landmark",
-                  "coords": [
-                        27.121313,
-                        48.139326
-                  ]
-            },
-            {
                   "name": "Mină",
                   "text": "Ein lokales Minengelände im Landschaftsschutzgebiet Fetești.",
                   "category": "landmark",
                   "coords": [
                         27.159373,
                         48.155349
-                  ]
-            },
-            {
-                  "name": "Șanț de apărare",
-                  "text": "Eine Verteidigungsgrabenstruktur im Landschaftsschutzgebiet Fetești.",
-                  "category": "landmark",
-                  "coords": [
-                        27.105653,
-                        48.202143
                   ]
             }
       ],
@@ -1826,30 +1268,12 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Recifele de la Burlănești",
-                  "text": "Ősi korallzátonyok, amelyek egyedülálló geológiai formációkat kínálnak a körzetben.",
-                  "category": "landmark",
-                  "coords": [
-                        27.121313,
-                        48.139326
-                  ]
-            },
-            {
                   "name": "Mină",
                   "text": "Egy helyi bányahelyszín a Fetesti Tájvédelmi Körzetben.",
                   "category": "landmark",
                   "coords": [
                         27.159373,
                         48.155349
-                  ]
-            },
-            {
-                  "name": "Șanț de apărare",
-                  "text": "Egy védelmi sánc szerkezet a Fetesti Tájvédelmi Körzet területén.",
-                  "category": "landmark",
-                  "coords": [
-                        27.105653,
-                        48.202143
                   ]
             }
       ],
@@ -1873,30 +1297,12 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Recifele de la Burlănești",
-                  "text": "Recifuri coraliere vechi ce oferă formațiuni geologice unice în zona rezervației.",
-                  "category": "landmark",
-                  "coords": [
-                        27.121313,
-                        48.139326
-                  ]
-            },
-            {
                   "name": "Mină",
                   "text": "O locație minieră locală situată în Rezervația Peisajistică Fetești.",
                   "category": "landmark",
                   "coords": [
                         27.159373,
                         48.155349
-                  ]
-            },
-            {
-                  "name": "Șanț de apărare",
-                  "text": "O structură de șanț de apărare aflată în Rezervația Peisajistică Fetești.",
-                  "category": "landmark",
-                  "coords": [
-                        27.105653,
-                        48.202143
                   ]
             }
       ],
@@ -1920,30 +1326,12 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Recifele de la Burlănești",
-                  "text": "Ancient coral reefs offering unique geological formations in the reserve area.",
-                  "category": "landmark",
-                  "coords": [
-                        27.121313,
-                        48.139326
-                  ]
-            },
-            {
                   "name": "Mină",
                   "text": "A local mine site located within the Fetești Landscape Reserve.",
                   "category": "landmark",
                   "coords": [
                         27.159373,
                         48.155349
-                  ]
-            },
-            {
-                  "name": "Șanț de apărare",
-                  "text": "A defensive trench structure found within the Fetești Landscape Reserve.",
-                  "category": "landmark",
-                  "coords": [
-                        27.105653,
-                        48.202143
                   ]
             }
       ]
@@ -2006,15 +1394,6 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cariera Fetești",
-                  "text": "Ein ehemaliger Steinbruch bei Fetești, der heute eine beeindruckende geologische Sehenswürdigkeit ist.",
-                  "category": "landmark",
-                  "coords": [
-                        27.124529,
-                        48.158825
-                  ]
-            },
-            {
                   "name": "Colțul Dragonului",
                   "text": "Eine markante Felsformation im Naturschutzgebiet, die an einen Drachenzahn erinnert.",
                   "category": "landmark",
@@ -2042,15 +1421,6 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Recifele de la Fetești",
-                  "text": "Fossile Riffbildungen bei Fetești, die von einem urzeitlichen Meer zeugen.",
-                  "category": "landmark",
-                  "coords": [
-                        27.112723,
-                        48.167539
-                  ]
-            },
-            {
                   "name": "Recifele de la Burlănești",
                   "text": "Geologische Riffstrukturen bei Burlănești, die Teil des Landschaftsreservats sind.",
                   "category": "landmark",
@@ -2068,15 +1438,6 @@ export const moldovaLifeV2: POI[] = [
                   "coords": [
                         27.15373,
                         48.139509
-                  ]
-            },
-            {
-                  "name": "Cariera Fetești",
-                  "text": "Egykori kőfejtő Fetești mellett, amely ma lenyűgöző földtani látnivaló.",
-                  "category": "landmark",
-                  "coords": [
-                        27.124529,
-                        48.158825
                   ]
             },
             {
@@ -2107,15 +1468,6 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Recifele de la Fetești",
-                  "text": "Fosszilis zátonyképződmények Fetești mellett, amelyek egy ősi tengerről tanúskodnak.",
-                  "category": "landmark",
-                  "coords": [
-                        27.112723,
-                        48.167539
-                  ]
-            },
-            {
                   "name": "Recifele de la Burlănești",
                   "text": "Földtani zátonyok Burlănești mellett, amelyek a tájvédelmi körzet részét képezik.",
                   "category": "landmark",
@@ -2133,15 +1485,6 @@ export const moldovaLifeV2: POI[] = [
                   "coords": [
                         27.15373,
                         48.139509
-                  ]
-            },
-            {
-                  "name": "Cariera Fetești",
-                  "text": "O fostă carieră lângă Fetești, care astăzi reprezintă o atracție geologică impresionantă.",
-                  "category": "landmark",
-                  "coords": [
-                        27.124529,
-                        48.158825
                   ]
             },
             {
@@ -2172,15 +1515,6 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Recifele de la Fetești",
-                  "text": "Formațiuni de recife fosile lângă Fetești, care atestă existența unei mări preistorice.",
-                  "category": "landmark",
-                  "coords": [
-                        27.112723,
-                        48.167539
-                  ]
-            },
-            {
                   "name": "Recifele de la Burlănești",
                   "text": "Structuri geologice de recife lângă Burlănești, parte a rezervației peisajistice.",
                   "category": "landmark",
@@ -2198,15 +1532,6 @@ export const moldovaLifeV2: POI[] = [
                   "coords": [
                         27.15373,
                         48.139509
-                  ]
-            },
-            {
-                  "name": "Cariera Fetești",
-                  "text": "A former quarry near Fetești that is now an impressive geological attraction.",
-                  "category": "landmark",
-                  "coords": [
-                        27.124529,
-                        48.158825
                   ]
             },
             {
@@ -2234,15 +1559,6 @@ export const moldovaLifeV2: POI[] = [
                   "coords": [
                         27.166549,
                         48.137284
-                  ]
-            },
-            {
-                  "name": "Recifele de la Fetești",
-                  "text": "Fossil reef formations near Fetești that bear witness to a prehistoric sea.",
-                  "category": "landmark",
-                  "coords": [
-                        27.112723,
-                        48.167539
                   ]
             },
             {
@@ -2313,15 +1629,6 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Punct al Arcului Geodezic Struve",
-                  "text": "Ein Punkt des Struve-Bogens in Moldau, der zum UNESCO-Welterbe gehört.",
-                  "category": "historical",
-                  "coords": [
-                        27.876446,
-                        48.318763
-                  ]
-            },
-            {
                   "name": "Mănăstirea Rudi",
                   "text": "Ein historisches orthodoxes Kloster in der Republik Moldau, bekannt für seine moldauische Architektur.",
                   "category": "landmark",
@@ -2384,15 +1691,6 @@ export const moldovaLifeV2: POI[] = [
                   "coords": [
                         27.904416,
                         48.350295
-                  ]
-            },
-            {
-                  "name": "Punct al Arcului Geodezic Struve",
-                  "text": "A Struve földmérő ív egyik pontja Moldovában, amely az UNESCO Világörökség része.",
-                  "category": "historical",
-                  "coords": [
-                        27.876446,
-                        48.318763
                   ]
             },
             {
@@ -2461,15 +1759,6 @@ export const moldovaLifeV2: POI[] = [
                   ]
             },
             {
-                  "name": "Punct al Arcului Geodezic Struve",
-                  "text": "Un punct al Arcului Geodezic Struve din Moldova, inclus în patrimoniul mondial UNESCO.",
-                  "category": "historical",
-                  "coords": [
-                        27.876446,
-                        48.318763
-                  ]
-            },
-            {
                   "name": "Mănăstirea Rudi",
                   "text": "O mănăstire ortodoxă istorică din Republica Moldova, remarcabilă pentru arhitectura sa moldovenească.",
                   "category": "landmark",
@@ -2532,15 +1821,6 @@ export const moldovaLifeV2: POI[] = [
                   "coords": [
                         27.904416,
                         48.350295
-                  ]
-            },
-            {
-                  "name": "Struve Geodetic Arc Point",
-                  "text": "A point of the Struve Geodetic Arc in Moldova, part of the UNESCO World Heritage list.",
-                  "category": "historical",
-                  "coords": [
-                        27.876446,
-                        48.318763
                   ]
             },
             {
@@ -2785,302 +2065,10 @@ export const moldovaLifeV2: POI[] = [
   },
   {
     id: "moldova-tipova-waterfalls-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Cetățuia getică",
-                  "text": "Antike Ruinen einer getischen Befestigung in der Region Țipova.",
-                  "category": "historical",
-                  "coords": [
-                        28.960455,
-                        47.618573
-                  ]
-            },
-            {
-                  "name": "Kloster Țipova",
-                  "text": "Ein historischer Höhlenklosterkomplex am Ufer des Dnjestr.",
-                  "category": "landmark",
-                  "coords": [
-                        28.98484,
-                        47.603093
-                  ]
-            },
-            {
-                  "name": "Biserica rupestra Tipova",
-                  "text": "Eine alte Felsenkirche, die Teil des Klosterkomplexes von Țipova ist.",
-                  "category": "landmark",
-                  "coords": [
-                        28.989692,
-                        47.601786
-                  ]
-            },
-            {
-                  "name": "Cascada Moara Veche",
-                  "text": "Ein malerischer Wasserfall in der Naturlandschaft von Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.959241,
-                        47.619767
-                  ]
-            },
-            {
-                  "name": "Cascada Mare",
-                  "text": "Der größte Wasserfall im Naturschutzgebiet von Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "Ein bemerkenswerter Doppelwasserfall in der Schlucht des Flusses Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
-                  "name": "Cascada Orașul Păsărilor",
-                  "text": "Ein malerischer Wasserfall in der Region Țipova, bekannt für seine natürliche Schönheit.",
-                  "category": "landmark",
-                  "coords": [
-                        28.961889,
-                        47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "Ein saisonaler Wasserfall in Țipova, der im Sommer oft austrocknet.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Cetățuia getică",
-                  "text": "Géta erődítmény ókori romjai a Țipova területén.",
-                  "category": "historical",
-                  "coords": [
-                        28.960455,
-                        47.618573
-                  ]
-            },
-            {
-                  "name": "Manastirea Țipova",
-                  "text": "Történelmi sziklakolostor-együttes a Dnyeszter partján.",
-                  "category": "landmark",
-                  "coords": [
-                        28.98484,
-                        47.603093
-                  ]
-            },
-            {
-                  "name": "Biserica rupestra Tipova",
-                  "text": "Ősi sziklatemplom, amely a Țipova kolostoregyüttes részét képezi.",
-                  "category": "landmark",
-                  "coords": [
-                        28.989692,
-                        47.601786
-                  ]
-            },
-            {
-                  "name": "Cascada Moara Veche",
-                  "text": "Festői vízesés Țipova természeti környezetében.",
-                  "category": "landmark",
-                  "coords": [
-                        28.959241,
-                        47.619767
-                  ]
-            },
-            {
-                  "name": "Cascada Mare",
-                  "text": "A legnagyobb vízesés a Țipova természetvédelmi területen.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "Jelentős kettős vízesés a Țipova-folyó szurdokában.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
-                  "name": "Cascada Orașul Păsărilor",
-                  "text": "Festői vízesés Țipova környékén, amely természeti szépségéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        28.961889,
-                        47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "Időszakos vízesés Țipovában, amely nyáron gyakran kiszárad.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Cetățuia getică",
-                  "text": "Ruine antice ale unei fortificații getice situate în zona Țipova.",
-                  "category": "historical",
-                  "coords": [
-                        28.960455,
-                        47.618573
-                  ]
-            },
-            {
-                  "name": "Manastirea Țipova",
-                  "text": "Un complex istoric de mănăstiri rupestre situat pe malul Nistrului.",
-                  "category": "landmark",
-                  "coords": [
-                        28.98484,
-                        47.603093
-                  ]
-            },
-            {
-                  "name": "Biserica rupestra Tipova",
-                  "text": "O biserică veche săpată în stâncă, făcând parte din complexul mănăstiresc Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.989692,
-                        47.601786
-                  ]
-            },
-            {
-                  "name": "Cascada Moara Veche",
-                  "text": "O cascadă pitorească situată în peisajul natural de la Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.959241,
-                        47.619767
-                  ]
-            },
-            {
-                  "name": "Cascada Mare",
-                  "text": "Cea mai mare cascadă din zona rezervației naturale Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "O cascadă dublă remarcabilă aflată de-a lungul defileului râului Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
-                  "name": "Cascada Orașul Păsărilor",
-                  "text": "O cascadă pitorească din zona Țipova, cunoscută pentru frumusețea sa naturală.",
-                  "category": "landmark",
-                  "coords": [
-                        28.961889,
-                        47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "O cascadă sezonieră din Țipova care adesea seacă pe timpul verii.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Cetățuia getică",
-                  "text": "Ancient ruins of a Getic fortification located in the Țipova area.",
-                  "category": "historical",
-                  "coords": [
-                        28.960455,
-                        47.618573
-                  ]
-            },
-            {
-                  "name": "Țipova Monastery",
-                  "text": "A historic cave monastery complex situated on the banks of the Dniester.",
-                  "category": "landmark",
-                  "coords": [
-                        28.98484,
-                        47.603093
-                  ]
-            },
-            {
-                  "name": "Biserica rupestra Tipova",
-                  "text": "An ancient rock-cut church forming part of the Țipova monastery complex.",
-                  "category": "landmark",
-                  "coords": [
-                        28.989692,
-                        47.601786
-                  ]
-            },
-            {
-                  "name": "Cascada Moara Veche",
-                  "text": "A picturesque waterfall located in the natural landscape of Țipova.",
-                  "category": "landmark",
-                  "coords": [
-                        28.959241,
-                        47.619767
-                  ]
-            },
-            {
-                  "name": "Cascada Mare",
-                  "text": "The largest waterfall in the Țipova nature reserve area.",
-                  "category": "landmark",
-                  "coords": [
-                        28.962464,
-                        47.618799
-                  ]
-            },
-            {
-                  "name": "Cascada dublă",
-                  "text": "A notable double waterfall found along the Țipova river gorge.",
-                  "category": "landmark",
-                  "coords": [
-                        28.964074,
-                        47.614066
-                  ]
-            },
-            {
-                  "name": "Cascada Orașul Păsărilor",
-                  "text": "A scenic waterfall within the Țipova area, known for its natural beauty.",
-                  "category": "landmark",
-                  "coords": [
-                        28.961889,
-                        47.612461
-                  ]
-            },
-            {
-                  "name": "Cascada secată",
-                  "text": "A seasonal waterfall in Țipova that often dries up during the summer.",
-                  "category": "landmark",
-                  "coords": [
-                        28.974862,
-                        47.60714
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "MD",
     type: "wildlife",

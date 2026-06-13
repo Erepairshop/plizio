@@ -264,33 +264,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento aos Aviadores Italianos",
-                  "text": "Denkmal für italienische Flieger in Bolama, Guinea-Bissau.",
-                  "category": "historical",
-                  "coords": [
-                        -15.47227,
-                        11.57931
-                  ]
-            },
-            {
-                  "name": "Banco Nacional Ultramarino / Hotel de Turismo",
-                  "text": "Historisches Gebäude mit der Banco Nacional Ultramarino und einem Hotel in Bolama.",
-                  "category": "historical",
-                  "coords": [
-                        -15.475754,
-                        11.577269
-                  ]
-            },
-            {
-                  "name": "Casa da família Nunes Correia",
-                  "text": "Ein Kolonialfamilienhaus in Bolama, der ehemaligen Hauptstadt Portugiesisch-Guineas.",
-                  "category": "historical",
-                  "coords": [
-                        -15.475408,
-                        11.578779
-                  ]
-            },
-            {
                   "name": "Casa Pinto",
                   "text": "Ein historisches Kolonialhaus in Bolama, einst Hauptstadt Portugiesisch-Guineas.",
                   "category": "historical",
@@ -300,39 +273,12 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruinas de casa comercial",
-                  "text": "Ruinen eines kolonialen Geschäftsgebäudes in Bolama, einst ein Handelszentrum.",
-                  "category": "historical",
-                  "coords": [
-                        -15.473838,
-                        11.578295
-                  ]
-            },
-            {
-                  "name": "Ruinas de pavilhão hospitalar - Internamento",
-                  "text": "Ruinen eines kolonialen Krankenhauspavillons für stationäre Patienten in Bolama.",
-                  "category": "historical",
-                  "coords": [
-                        -15.477307,
-                        11.576246
-                  ]
-            },
-            {
                   "name": "Campo de aviação",
                   "text": "Campo de aviação sind die Überreste eines alten Flugfeldes in Bolama.",
                   "category": "historical",
                   "coords": [
                         -15.478815,
                         11.586367
-                  ]
-            },
-            {
-                  "name": "Casa da Guarda e Prisão",
-                  "text": "Das ehemalige Wachhaus und Gefängnisgebäude in Bolama, Teil der kolonialen Verwaltung.",
-                  "category": "historical",
-                  "coords": [
-                        -15.474041,
-                        11.576683
                   ]
             }
       ],
@@ -347,33 +293,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento aos Aviadores Italianos",
-                  "text": "Olasz repülők emlékműve Bolamában, Bissau-Guineában.",
-                  "category": "historical",
-                  "coords": [
-                        -15.47227,
-                        11.57931
-                  ]
-            },
-            {
-                  "name": "Banco Nacional Ultramarino / Hotel de Turismo",
-                  "text": "Történelmi épület, amely a Banco Nacional Ultramarino-nak és egy szállodának ad otthont Bolamában.",
-                  "category": "historical",
-                  "coords": [
-                        -15.475754,
-                        11.577269
-                  ]
-            },
-            {
-                  "name": "Casa da família Nunes Correia",
-                  "text": "Gyarmati kori családi ház Bolamában, Portugál Guinea egykori fővárosában.",
-                  "category": "historical",
-                  "coords": [
-                        -15.475408,
-                        11.578779
-                  ]
-            },
-            {
                   "name": "Casa Pinto",
                   "text": "Egy történelmi gyarmati ház Bolamában, egykor Portugál Guinea fővárosa.",
                   "category": "historical",
@@ -383,39 +302,12 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruinas de casa comercial",
-                  "text": "Egy gyarmati kereskedelmi épület romjai Bolamában, egykor kereskedelmi központ.",
-                  "category": "historical",
-                  "coords": [
-                        -15.473838,
-                        11.578295
-                  ]
-            },
-            {
-                  "name": "Ruinas de pavilhão hospitalar - Internamento",
-                  "text": "Egy gyarmati kórházi pavilon romjai fekvőbetegek számára Bolamában.",
-                  "category": "historical",
-                  "coords": [
-                        -15.477307,
-                        11.576246
-                  ]
-            },
-            {
                   "name": "Campo de aviação",
                   "text": "A Campo de aviação egy régi repülőtér maradványai Bolamában.",
                   "category": "historical",
                   "coords": [
                         -15.478815,
                         11.586367
-                  ]
-            },
-            {
-                  "name": "Casa da Guarda e Prisão",
-                  "text": "Az egykori őrház és börtön épülete Bolamában, a gyarmati közigazgatás része.",
-                  "category": "historical",
-                  "coords": [
-                        -15.474041,
-                        11.576683
                   ]
             }
       ],
@@ -430,33 +322,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento aos Aviadores Italianos",
-                  "text": "Monumentul aviatorilor italieni din Bolama, Guineea-Bissau.",
-                  "category": "historical",
-                  "coords": [
-                        -15.47227,
-                        11.57931
-                  ]
-            },
-            {
-                  "name": "Banco Nacional Ultramarino / Hotel de Turismo",
-                  "text": "Clădire istorică care adăpostește Banco Nacional Ultramarino și un hotel în Bolama.",
-                  "category": "historical",
-                  "coords": [
-                        -15.475754,
-                        11.577269
-                  ]
-            },
-            {
-                  "name": "Casa da família Nunes Correia",
-                  "text": "O casă de familie din epoca colonială în Bolama, fosta capitală a Guineei Portugheze.",
-                  "category": "historical",
-                  "coords": [
-                        -15.475408,
-                        11.578779
-                  ]
-            },
-            {
                   "name": "Casa Pinto",
                   "text": "O casă colonială istorică în Bolama, odată capitala Guineei Portugheze.",
                   "category": "historical",
@@ -466,39 +331,12 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruinas de casa comercial",
-                  "text": "Ruinele unei clădiri comerciale coloniale în Bolama, odată centru comercial.",
-                  "category": "historical",
-                  "coords": [
-                        -15.473838,
-                        11.578295
-                  ]
-            },
-            {
-                  "name": "Ruinas de pavilhão hospitalar - Internamento",
-                  "text": "Ruinele unui pavilion spitalicesc colonial pentru pacienți internați în Bolama.",
-                  "category": "historical",
-                  "coords": [
-                        -15.477307,
-                        11.576246
-                  ]
-            },
-            {
                   "name": "Campo de aviação",
                   "text": "Campo de aviação reprezintă rămășițele unui vechi aerodrom din Bolama.",
                   "category": "historical",
                   "coords": [
                         -15.478815,
                         11.586367
-                  ]
-            },
-            {
-                  "name": "Casa da Guarda e Prisão",
-                  "text": "Fosta clădire de pază și închisoare din Bolama, parte a administrației coloniale.",
-                  "category": "historical",
-                  "coords": [
-                        -15.474041,
-                        11.576683
                   ]
             }
       ],
@@ -513,33 +351,6 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Monumento aos Aviadores Italianos",
-                  "text": "Monument to Italian aviators in Bolama, Guinea-Bissau.",
-                  "category": "historical",
-                  "coords": [
-                        -15.47227,
-                        11.57931
-                  ]
-            },
-            {
-                  "name": "Banco Nacional Ultramarino / Hotel de Turismo",
-                  "text": "Historic building housing the Banco Nacional Ultramarino and a hotel in Bolama.",
-                  "category": "historical",
-                  "coords": [
-                        -15.475754,
-                        11.577269
-                  ]
-            },
-            {
-                  "name": "Casa da família Nunes Correia",
-                  "text": "A colonial-era family home in Bolama, former capital of Portuguese Guinea.",
-                  "category": "historical",
-                  "coords": [
-                        -15.475408,
-                        11.578779
-                  ]
-            },
-            {
                   "name": "Casa Pinto",
                   "text": "A historic colonial house in Bolama, once the capital of Portuguese Guinea.",
                   "category": "historical",
@@ -549,39 +360,12 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ruinas de casa comercial",
-                  "text": "Ruins of a colonial commercial building in Bolama, once a trading centre.",
-                  "category": "historical",
-                  "coords": [
-                        -15.473838,
-                        11.578295
-                  ]
-            },
-            {
-                  "name": "Ruinas de pavilhão hospitalar - Internamento",
-                  "text": "Ruins of a colonial hospital pavilion for inpatients in Bolama.",
-                  "category": "historical",
-                  "coords": [
-                        -15.477307,
-                        11.576246
-                  ]
-            },
-            {
                   "name": "Campo de aviação",
                   "text": "Campo de aviação are the remains of an old airfield in Bolama.",
                   "category": "historical",
                   "coords": [
                         -15.478815,
                         11.586367
-                  ]
-            },
-            {
-                  "name": "Casa da Guarda e Prisão",
-                  "text": "The former guardhouse and prison building in Bolama, part of the colonial administration.",
-                  "category": "historical",
-                  "coords": [
-                        -15.474041,
-                        11.576683
                   ]
             }
       ]

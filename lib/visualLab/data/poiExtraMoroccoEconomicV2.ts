@@ -440,30 +440,12 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bab Shaaba",
-                  "text": "Ein markantes historisches Tor, das den architektonischen Eingang zu einem lebhaften Viertel markiert.",
-                  "category": "historical",
-                  "coords": [
-                        -9.239828,
-                        32.299824
-                  ]
-            },
-            {
                   "name": "Bab Agrou ( Porte de Agrou)",
                   "text": "Ein geschichtsträchtiges architektonisches Monument, das als Tor von Agrou bekannt ist.",
                   "category": "historical",
                   "coords": [
                         -9.23817,
                         32.298588
-                  ]
-            },
-            {
-                  "name": "Tajine",
-                  "text": "Eine kulturelle Attraktion in der für ihre Töpferei bekannten Stadt, die dem ikonischen marokkanischen Schmorgefäß gewidmet ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.233904,
-                        32.294873
                   ]
             },
             {
@@ -514,30 +496,12 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bab Shaaba",
-                  "text": "Egy feltűnő történelmi kapu, amely egy élénk negyed építészeti bejáratát jelzi.",
-                  "category": "historical",
-                  "coords": [
-                        -9.239828,
-                        32.299824
-                  ]
-            },
-            {
                   "name": "Bab Agrou ( Porte de Agrou)",
                   "text": "Egy történelmi jelentőségű építészeti műemlék, amely Agrou kapuja néven ismert.",
                   "category": "historical",
                   "coords": [
                         -9.23817,
                         32.298588
-                  ]
-            },
-            {
-                  "name": "Tajine",
-                  "text": "Kulturális látványosság a fazekasságáról ismert városban, amelyet az ikonikus marokkói főzőedénynek szenteltek.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.233904,
-                        32.294873
                   ]
             },
             {
@@ -588,30 +552,12 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bab Shaaba",
-                  "text": "O poartă istorică impresionantă care marchează intrarea arhitecturală într-un cartier plin de viață.",
-                  "category": "historical",
-                  "coords": [
-                        -9.239828,
-                        32.299824
-                  ]
-            },
-            {
                   "name": "Bab Agrou ( Porte de Agrou)",
                   "text": "Un monument arhitectural încărcat de istorie, cunoscut sub numele de Poarta Agrou.",
                   "category": "historical",
                   "coords": [
                         -9.23817,
                         32.298588
-                  ]
-            },
-            {
-                  "name": "Tajine",
-                  "text": "O atracție culturală în orașul cunoscut pentru ceramica sa, dedicată iconicului vas de gătit marocan.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.233904,
-                        32.294873
                   ]
             },
             {
@@ -662,33 +608,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bab Shaaba",
-                  "text": "A striking historical gate marking the architectural entrance to a lively district.",
-                  "category": "historical",
-                  "coords": [
-                        -9.239828,
-                        32.299824
-                  ]
-            },
-            {
-                  "name": "Bab Agro (Gate of Agrou)",
-                  "text": "A storied architectural monument known as the Gate of Agrou.",
-                  "category": "historical",
-                  "coords": [
-                        -9.23817,
-                        32.298588
-                  ]
-            },
-            {
-                  "name": "Tajine",
-                  "text": "A cultural attraction in the city known for its pottery, dedicated to the iconic Moroccan clay cooking pot.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.233904,
-                        32.294873
-                  ]
-            },
-            {
                   "name": "Plage de Safi",
                   "text": "A sandy coastal beach on the Atlantic Ocean, popular with locals for relaxation.",
                   "category": "recreational",
@@ -704,15 +623,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
                   "coords": [
                         -9.241606,
                         32.298499
-                  ]
-            },
-            {
-                  "name": "Arts City",
-                  "text": "A creative gallery space showcasing contemporary and traditional local artworks.",
-                  "category": "museum",
-                  "coords": [
-                        -9.237123,
-                        32.296695
                   ]
             }
       ]
@@ -1982,15 +1892,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     id: "ma-stellantis-kenitra-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Waves Aquapark Hotel",
-                  "text": "Das Waves Aquapark Hotel verbindet komfortable Gästezimmer mit den spritzigen Pools und Wasserrutschen eines Freizeitparks.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.554135,
-                        34.274707
-                  ]
-            },
-            {
                   "name": "Thamusida - Ville portuaire antique",
                   "text": "Thamusida ist eine archäologische Stätte, die die weitläufigen Ruinen einer antiken römischen Hafenstadt am Fluss Oued Sebou zeigt.",
                   "category": "historical",
@@ -1998,27 +1899,9 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
                         -6.490001,
                         34.334943
                   ]
-            },
-            {
-                  "name": "Cultural Center Kenitra",
-                  "text": "Das Cultural Center Kenitra ist ein städtisches Gebäude, das als Knotenpunkt für lokale Theateraufführungen und Kunstausstellungen dient.",
-                  "category": "cultural",
-                  "coords": [
-                        -6.580805,
-                        34.262206
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Waves Aquapark Hotel",
-                  "text": "A Waves Aquapark Hotel kényelmes vendégszobákat ötvöz egy vidámpark hullámmedencéivel és vízi csúszdáival.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.554135,
-                        34.274707
-                  ]
-            },
             {
                   "name": "Thamusida - Ville portuaire antique",
                   "text": "Thamusida egy régészeti lelőhely, amely egy ősi római kikötőváros kiterjedt romjait őrzi az Oued Sebou folyó partján.",
@@ -2027,27 +1910,9 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
                         -6.490001,
                         34.334943
                   ]
-            },
-            {
-                  "name": "Cultural Center Kenitra",
-                  "text": "A Cultural Center Kenitra egy városi intézmény, amely helyi színházi előadások és művészeti kiállítások központjaként működik.",
-                  "category": "cultural",
-                  "coords": [
-                        -6.580805,
-                        34.262206
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Waves Aquapark Hotel",
-                  "text": "Waves Aquapark Hotel combină camerele confortabile cu piscinele și toboganele acvatice ale unui parc de distracții.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.554135,
-                        34.274707
-                  ]
-            },
             {
                   "name": "Thamusida - Ville portuaire antique",
                   "text": "Thamusida este un sit arheologic ce conține ruinele extinse ale unui vechi oraș-port roman de pe malurile râului Oued Sebou.",
@@ -2056,27 +1921,9 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
                         -6.490001,
                         34.334943
                   ]
-            },
-            {
-                  "name": "Cultural Center Kenitra",
-                  "text": "Centrul Cultural Kenitra este o clădire civică ce servește drept punct de întâlnire pentru spectacole de teatru și expoziții locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -6.580805,
-                        34.262206
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Waves Aquapark Hotel",
-                  "text": "The Waves Aquapark Hotel combines comfortable guest accommodations with the pools and recreational slides of a water park.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.554135,
-                        34.274707
-                  ]
-            },
             {
                   "name": "Thamusida - Ville portuaire antique",
                   "text": "Thamusida is an archaeological site preserving the expansive ruins of an ancient Roman port city situated along the Oued Sebou river.",
@@ -2084,15 +1931,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
                   "coords": [
                         -6.490001,
                         34.334943
-                  ]
-            },
-            {
-                  "name": "Cultural Center Kenitra",
-                  "text": "The Cultural Center Kenitra serves as a civic arts building hosting local community performances and creative exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        -6.580805,
-                        34.262206
                   ]
             }
       ]
@@ -3310,15 +3148,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
     id: "ma-lafargeholcim-settat-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Horse of Settat",
-                  "text": "Das Denkmal Horse of Settat ist eine markante Reiterstatue, die stolz das traditionelle Pferdezuchterbe der Chaouia-Region symbolisiert.",
-                  "category": "historical",
-                  "coords": [
-                        -7.619818,
-                        33.002301
-                  ]
-            },
-            {
                   "name": "Picine Municipale",
                   "text": "Die Picine Municipale in Settat ist ein großes städtisches Freibad, das an heißen Tagen eine erfrischende Freizeitmöglichkeit bietet.",
                   "category": "recreational",
@@ -3329,15 +3158,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Horse of Settat",
-                  "text": "A Horse of Settat emlékmű egy feltűnő lovasszobor, amely büszkén szimbolizálja a Chaouia régió hagyományos lótenyésztési örökségét.",
-                  "category": "historical",
-                  "coords": [
-                        -7.619818,
-                        33.002301
-                  ]
-            },
             {
                   "name": "Picine Municipale",
                   "text": "A settati Picine Municipale egy nagy városi szabadtéri medence, amely frissítő kikapcsolódási lehetőséget kínál a forró napokon.",
@@ -3350,15 +3170,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Horse of Settat",
-                  "text": "Monumentul Calului din Settat este o statuie ecvestră marcantă care simbolizează cu mândrie tradiția creșterii cailor din regiunea Chaouia.",
-                  "category": "historical",
-                  "coords": [
-                        -7.619818,
-                        33.002301
-                  ]
-            },
-            {
                   "name": "Picine Municipale",
                   "text": "Picine Municipale din Settat este un parc acvatic public în aer liber, oferind o oază de răcoare în zilele toride.",
                   "category": "recreational",
@@ -3369,15 +3180,6 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Horse of Settat",
-                  "text": "The Horse of Settat monument is a striking equestrian statue proudly symbolizing the traditional horse-breeding heritage of the Chaouia region.",
-                  "category": "historical",
-                  "coords": [
-                        -7.619818,
-                        33.002301
-                  ]
-            },
             {
                   "name": "Picine Municipale",
                   "text": "The Picine Municipale in Settat is a large public outdoor swimming pool complex that offers a refreshing retreat on hot days.",
@@ -3475,39 +3277,12 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Little London",
-                  "text": "Dieses Kunstzentrum in Mohammedia bietet vielfältige kulturelle Veranstaltungen und Ausstellungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -7.395514,
-                        33.70334
-                  ]
-            },
-            {
-                  "name": "Plage de Mannesmann",
-                  "text": "Dieser Strandbereich in Mohammedia ist ein idealer Ort für Spaziergänge entlang der Atlantikküste.",
-                  "category": "recreational",
-                  "coords": [
-                        -7.371235,
-                        33.708882
-                  ]
-            },
-            {
                   "name": "Plage Mannesmann",
                   "text": "Dieser feinsandige Strand in Mohammedia zieht zahlreiche Sonnenbader an.",
                   "category": "recreational",
                   "coords": [
                         -7.367976,
                         33.710779
-                  ]
-            },
-            {
-                  "name": "Théâtre Municipale",
-                  "text": "In diesem städtischen Theater in Mohammedia finden regelmäßig lokale Aufführungen statt.",
-                  "category": "cultural",
-                  "coords": [
-                        -7.3893,
-                        33.685572
                   ]
             }
       ],
@@ -3549,39 +3324,12 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Little London",
-                  "text": "Ez a mohammediai művészeti központ különféle kulturális rendezvényeket és kiállításokat kínál.",
-                  "category": "cultural",
-                  "coords": [
-                        -7.395514,
-                        33.70334
-                  ]
-            },
-            {
-                  "name": "Plage de Mannesmann",
-                  "text": "Ez a mohammediai strandrész ideális helyszín az Atlanti-óceán partján tett sétákhoz.",
-                  "category": "recreational",
-                  "coords": [
-                        -7.371235,
-                        33.708882
-                  ]
-            },
-            {
                   "name": "Plage Mannesmann",
                   "text": "Ez a finom homokos strand Mohammediában számos napozni vágyót vonz.",
                   "category": "recreational",
                   "coords": [
                         -7.367976,
                         33.710779
-                  ]
-            },
-            {
-                  "name": "Théâtre Municipale",
-                  "text": "Ebben a mohammediai városi színházban rendszeresen tartanak helyi előadásokat.",
-                  "category": "cultural",
-                  "coords": [
-                        -7.3893,
-                        33.685572
                   ]
             }
       ],
@@ -3623,39 +3371,12 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Little London",
-                  "text": "Acest centru de artă din Mohammedia oferă diverse evenimente culturale și expoziții.",
-                  "category": "cultural",
-                  "coords": [
-                        -7.395514,
-                        33.70334
-                  ]
-            },
-            {
-                  "name": "Plage de Mannesmann",
-                  "text": "Această zonă de plajă din Mohammedia este un loc ideal pentru plimbări de-a lungul coastei atlantice.",
-                  "category": "recreational",
-                  "coords": [
-                        -7.371235,
-                        33.708882
-                  ]
-            },
-            {
                   "name": "Plage Mannesmann",
                   "text": "Această plajă cu nisip fin din Mohammedia atrage numeroși iubitori de soare.",
                   "category": "recreational",
                   "coords": [
                         -7.367976,
                         33.710779
-                  ]
-            },
-            {
-                  "name": "Théâtre Municipale",
-                  "text": "În acest teatru municipal din Mohammedia au loc regulat spectacole locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -7.3893,
-                        33.685572
                   ]
             }
       ],
@@ -3697,39 +3418,12 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Little London",
-                  "text": "This arts centre in Mohammedia offers a variety of cultural events and exhibitions.",
-                  "category": "cultural",
-                  "coords": [
-                        -7.395514,
-                        33.70334
-                  ]
-            },
-            {
-                  "name": "Plage de Mannesmann",
-                  "text": "This beach area in Mohammedia is an ideal spot for walks along the Atlantic coast.",
-                  "category": "recreational",
-                  "coords": [
-                        -7.371235,
-                        33.708882
-                  ]
-            },
-            {
                   "name": "Plage Mannesmann",
                   "text": "This fine-sand beach in Mohammedia attracts numerous sunbathers.",
                   "category": "recreational",
                   "coords": [
                         -7.367976,
                         33.710779
-                  ]
-            },
-            {
-                  "name": "Théâtre Municipale",
-                  "text": "This municipal theatre in Mohammedia regularly hosts local performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -7.3893,
-                        33.685572
                   ]
             }
       ]

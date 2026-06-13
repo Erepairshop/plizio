@@ -241,15 +241,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Borgarleikhúsið",
-                  "text": "Das Stadttheater von Reykjavík ist eine der wichtigsten kulturellen Spielstätten der isländischen Hauptstadt.",
-                  "category": "cultural",
-                  "coords": [
-                        -21.896395,
-                        64.12901
-                  ]
-            },
-            {
                   "name": "Þjóðleikhúsið",
                   "text": "1950 eröffnet, entworfen von Guðjón Samúelsson – das Nationaltheater Islands.",
                   "category": "cultural",
@@ -400,15 +391,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   "coords": [
                         -21.888339,
                         64.144515
-                  ]
-            },
-            {
-                  "name": "Fossvogskirkja",
-                  "text": "Eine Kirche in Reykjavík, die sich in der Nähe des Fossvogur-Tals befindet.",
-                  "category": "religious",
-                  "coords": [
-                        -21.908873,
-                        64.125392
                   ]
             },
             {
@@ -730,15 +712,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Borgarleikhúsið",
-                  "text": "Reykjavík városi színháza az izlandi főváros egyik legfontosabb kulturális helyszíne.",
-                  "category": "cultural",
-                  "coords": [
-                        -21.896395,
-                        64.12901
-                  ]
-            },
-            {
                   "name": "Þjóðleikhúsið",
                   "text": "1950-ben nyitották meg, Guðjón Samúelsson tervezte – Izland Nemzeti Színháza.",
                   "category": "cultural",
@@ -889,15 +862,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   "coords": [
                         -21.888339,
                         64.144515
-                  ]
-            },
-            {
-                  "name": "Fossvogskirkja",
-                  "text": "Reykjavíki templom, amely a Fossvogur-völgy közelében található.",
-                  "category": "religious",
-                  "coords": [
-                        -21.908873,
-                        64.125392
                   ]
             },
             {
@@ -1219,15 +1183,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Borgarleikhúsið",
-                  "text": "Teatrul municipal din Reykjavík este una dintre cele mai importante locații culturale din capitala islandeză.",
-                  "category": "cultural",
-                  "coords": [
-                        -21.896395,
-                        64.12901
-                  ]
-            },
-            {
                   "name": "Þjóðleikhúsið",
                   "text": "Deschis în 1950, proiectat de Guðjón Samúelsson – Teatrul Național al Islandei.",
                   "category": "cultural",
@@ -1378,15 +1333,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   "coords": [
                         -21.888339,
                         64.144515
-                  ]
-            },
-            {
-                  "name": "Fossvogskirkja",
-                  "text": "O biserică din Reykjavík situată în apropierea văii Fossvogur.",
-                  "category": "religious",
-                  "coords": [
-                        -21.908873,
-                        64.125392
                   ]
             },
             {
@@ -1708,15 +1654,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Borgarleikhúsið",
-                  "text": "The city theatre of Reykjavík is one of the most important cultural venues in the Icelandic capital.",
-                  "category": "cultural",
-                  "coords": [
-                        -21.896395,
-                        64.12901
-                  ]
-            },
-            {
                   "name": "National Theatre of Iceland",
                   "text": "Opened in 1950, designed by architect Guðjón Samúelsson – the National Theatre of Iceland.",
                   "category": "cultural",
@@ -1870,15 +1807,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Fossvogskirkja",
-                  "text": "A church in Reykjavík located near the Fossvogur valley.",
-                  "category": "religious",
-                  "coords": [
-                        -21.908873,
-                        64.125392
-                  ]
-            },
-            {
                   "name": "Rauðarárvík",
                   "text": "Bay in Reykjavik's coastline.",
                   "category": "landmark",
@@ -2019,15 +1947,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Hönnunarsafn Íslands",
-                  "text": "Designmuseum in Kópavogur.",
-                  "category": "museum",
-                  "coords": [
-                        -21.920556,
-                        64.08905
-                  ]
-            },
-            {
                   "name": "Borgarleikhúsið",
                   "text": "Ein bedeutendes Theater in der Region Kópavogur für darstellende Künste.",
                   "category": "cultural",
@@ -2073,30 +1992,12 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Hofsstaðir",
-                  "text": "Eine archäologische Stätte in Kópavogur mit Überresten aus der Wikingerzeit.",
-                  "category": "historical",
-                  "coords": [
-                        -21.914971,
-                        64.087878
-                  ]
-            },
-            {
                   "name": "Álfhóll",
                   "text": "Ein kleiner Hügel und Naturschutzgebiet in Kópavogur, verbunden mit isländischen Elfensagen.",
                   "category": "natural",
                   "coords": [
                         -21.870234,
                         64.11118
-                  ]
-            },
-            {
-                  "name": "Gálgahraun",
-                  "text": "Ein weitläufiges Lavafeld und Naturschutzgebiet in der Nähe von Kópavogur.",
-                  "category": "natural",
-                  "coords": [
-                        -21.964706,
-                        64.095334
                   ]
             },
             {
@@ -2118,15 +2019,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Bessastaðanes",
-                  "text": "Halbinsel mit malerischen Küstenwanderwegen und Vogelwelt.",
-                  "category": "natural",
-                  "coords": [
-                        -21.978092,
-                        64.108267
-                  ]
-            },
-            {
                   "name": "Öskjuhlíð",
                   "text": "Ein bewaldeter Hügel in Kópavogur, Standort des berühmten Perlan-Gebäudes.",
                   "category": "natural",
@@ -2142,15 +2034,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   "coords": [
                         -21.946435,
                         64.116465
-                  ]
-            },
-            {
-                  "name": "Klambratún",
-                  "text": "Ein öffentlicher Park in Kópavogur, der für Freizeitaktivitäten und Kunst im Freien genutzt wird.",
-                  "category": "park",
-                  "coords": [
-                        -21.913372,
-                        64.137085
                   ]
             },
             {
@@ -2424,15 +2307,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Ásgarðslaug",
-                  "text": "Ein öffentliches Schwimmbad in Kopavogur, das Platz zum Schwimmen und zur Erholung bietet.",
-                  "category": "family",
-                  "coords": [
-                        -21.929288,
-                        64.088177
-                  ]
-            },
-            {
                   "name": "Breiðholtsskólalaug",
                   "text": "Ein öffentliches Schwimmbad in Kopavogur, das Platz zum Schwimmen und zur Erholung bietet.",
                   "category": "family",
@@ -2450,15 +2324,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   "coords": [
                         -21.909306,
                         64.111693
-                  ]
-            },
-            {
-                  "name": "Hönnunarsafn Íslands",
-                  "text": "Designmúzeum Kópavogurban.",
-                  "category": "museum",
-                  "coords": [
-                        -21.920556,
-                        64.08905
                   ]
             },
             {
@@ -2507,30 +2372,12 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Hofsstaðir",
-                  "text": "Régészeti lelőhely Kópavogurban viking kori maradványokkal.",
-                  "category": "historical",
-                  "coords": [
-                        -21.914971,
-                        64.087878
-                  ]
-            },
-            {
                   "name": "Álfhóll",
                   "text": "Kisebb domb és természetvédelmi terület Kópavogurban, amely az izlandi tündérmesékhez kötődik.",
                   "category": "natural",
                   "coords": [
                         -21.870234,
                         64.11118
-                  ]
-            },
-            {
-                  "name": "Gálgahraun",
-                  "text": "Kiterjedt lávamező és természetvédelmi terület Kópavogur közelében.",
-                  "category": "natural",
-                  "coords": [
-                        -21.964706,
-                        64.095334
                   ]
             },
             {
@@ -2552,15 +2399,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Bessastaðanes",
-                  "text": "Bessastaðanes-félsziget, festői tengerparti sétányokkal és madárvilággal.",
-                  "category": "natural",
-                  "coords": [
-                        -21.978092,
-                        64.108267
-                  ]
-            },
-            {
                   "name": "Öskjuhlíð",
                   "text": "Erdős domb Kópavogurban, ahol a híres Perlan épület található.",
                   "category": "natural",
@@ -2576,15 +2414,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   "coords": [
                         -21.946435,
                         64.116465
-                  ]
-            },
-            {
-                  "name": "Klambratún",
-                  "text": "Nyilvános park Kópavogurban, amelyet szabadidős tevékenységekre és szabadtéri művészetre használnak.",
-                  "category": "park",
-                  "coords": [
-                        -21.913372,
-                        64.137085
                   ]
             },
             {
@@ -2858,15 +2687,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Ásgarðslaug",
-                  "text": "Nyilvános úszómedence Kopavogur területén, amely lehetőséget nyújt az úszásra és a kikapcsolódásra.",
-                  "category": "family",
-                  "coords": [
-                        -21.929288,
-                        64.088177
-                  ]
-            },
-            {
                   "name": "Breiðholtsskólalaug",
                   "text": "Nyilvános úszómedence Kopavogur területén, amely lehetőséget nyújt az úszásra és a kikapcsolódásra.",
                   "category": "family",
@@ -2884,15 +2704,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   "coords": [
                         -21.909306,
                         64.111693
-                  ]
-            },
-            {
-                  "name": "Hönnunarsafn Íslands",
-                  "text": "Muzeu de design în Kópavogur.",
-                  "category": "museum",
-                  "coords": [
-                        -21.920556,
-                        64.08905
                   ]
             },
             {
@@ -2941,30 +2752,12 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Hofsstaðir",
-                  "text": "Un sit arheologic în Kópavogur cu vestigii din epoca vikingă.",
-                  "category": "historical",
-                  "coords": [
-                        -21.914971,
-                        64.087878
-                  ]
-            },
-            {
                   "name": "Álfhóll",
                   "text": "O mică colină și rezervație naturală în Kópavogur, legată de legendele islandeze cu elfi.",
                   "category": "natural",
                   "coords": [
                         -21.870234,
                         64.11118
-                  ]
-            },
-            {
-                  "name": "Gálgahraun",
-                  "text": "Un câmp de lavă extins și rezervație naturală lângă Kópavogur.",
-                  "category": "natural",
-                  "coords": [
-                        -21.964706,
-                        64.095334
                   ]
             },
             {
@@ -2986,15 +2779,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Bessastaðanes",
-                  "text": "Peninsula Bessastaðanes, cu trasee de coastă pitorești și păsări.",
-                  "category": "natural",
-                  "coords": [
-                        -21.978092,
-                        64.108267
-                  ]
-            },
-            {
                   "name": "Öskjuhlíð",
                   "text": "O colină împădurită în Kópavogur, locul unde se află celebra clădire Perlan.",
                   "category": "natural",
@@ -3010,15 +2794,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   "coords": [
                         -21.946435,
                         64.116465
-                  ]
-            },
-            {
-                  "name": "Klambratún",
-                  "text": "Un parc public în Kópavogur utilizat pentru activități recreative și artă în aer liber.",
-                  "category": "park",
-                  "coords": [
-                        -21.913372,
-                        64.137085
                   ]
             },
             {
@@ -3292,15 +3067,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Ásgarðslaug",
-                  "text": "O piscină publică în Kopavogur care oferă spațiu pentru înot și recreere.",
-                  "category": "family",
-                  "coords": [
-                        -21.929288,
-                        64.088177
-                  ]
-            },
-            {
                   "name": "Breiðholtsskólalaug",
                   "text": "O piscină publică în Kopavogur care oferă spațiu pentru înot și recreere.",
                   "category": "family",
@@ -3318,15 +3084,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   "coords": [
                         -21.909306,
                         64.111693
-                  ]
-            },
-            {
-                  "name": "Museum Of Design And Applied Art",
-                  "text": "Design museum in Kópavogur.",
-                  "category": "museum",
-                  "coords": [
-                        -21.920556,
-                        64.08905
                   ]
             },
             {
@@ -3375,30 +3132,12 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Hofsstaðir",
-                  "text": "An archaeological site in Kópavogur featuring Viking Age remains.",
-                  "category": "historical",
-                  "coords": [
-                        -21.914971,
-                        64.087878
-                  ]
-            },
-            {
                   "name": "Álfhóll",
                   "text": "A small hill and nature reserve in Kópavogur associated with Icelandic elf folklore.",
                   "category": "natural",
                   "coords": [
                         -21.870234,
                         64.11118
-                  ]
-            },
-            {
-                  "name": "Gálgahraun",
-                  "text": "An extensive lava field and nature reserve near Kópavogur.",
-                  "category": "natural",
-                  "coords": [
-                        -21.964706,
-                        64.095334
                   ]
             },
             {
@@ -3420,15 +3159,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Bessastaðanes",
-                  "text": "Peninsula with scenic coastal walks and birdlife.",
-                  "category": "natural",
-                  "coords": [
-                        -21.978092,
-                        64.108267
-                  ]
-            },
-            {
                   "name": "Öskjuhlíð",
                   "text": "A forested hill in Kópavogur, home to the famous Perlan building.",
                   "category": "natural",
@@ -3444,15 +3174,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   "coords": [
                         -21.946435,
                         64.116465
-                  ]
-            },
-            {
-                  "name": "Klambratún Public Park",
-                  "text": "A public park in Kópavogur used for recreation and outdoor art.",
-                  "category": "park",
-                  "coords": [
-                        -21.913372,
-                        64.137085
                   ]
             },
             {
@@ -3726,15 +3447,6 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   ]
             },
             {
-                  "name": "Ásgarðslaug",
-                  "text": "A public swimming pool in Kopavogur offering space for swimming and recreation.",
-                  "category": "family",
-                  "coords": [
-                        -21.929288,
-                        64.088177
-                  ]
-            },
-            {
                   "name": "Breiðholtsskólalaug",
                   "text": "A public swimming pool in Kopavogur offering space for swimming and recreation.",
                   "category": "family",
@@ -3811,30 +3523,12 @@ imageHint: "Kopavogur city view with modern church",
                   ]
             },
             {
-                  "name": "Hönnunarsafn Íslands",
-                  "text": "Ein Museum, das sich auf isländisches Design und angewandte Kunst vom 20. Jahrhundert bis zur Gegenwart konzentriert.",
-                  "category": "museum",
-                  "coords": [
-                        -21.920556,
-                        64.08905
-                  ]
-            },
-            {
                   "name": "Byggðasafn Hafnarfjarðar",
                   "text": "Das örtliche Heimatmuseum von Hafnarfjörður, das die Geschichte und Kultur der Stadt zeigt.",
                   "category": "museum",
                   "coords": [
                         -21.959471,
                         64.070136
-                  ]
-            },
-            {
-                  "name": "Hofsstaðir",
-                  "text": "Eine archäologische Stätte mit den Überresten eines historischen Gehöfts aus der Wikingerzeit.",
-                  "category": "historical",
-                  "coords": [
-                        -21.914971,
-                        64.087878
                   ]
             },
             {
@@ -3872,15 +3566,6 @@ imageHint: "Kopavogur city view with modern church",
                         -21.930628,
                         64.061879
                   ]
-            },
-            {
-                  "name": "Garðahraun - neðra",
-                  "text": "Ein Naturschutzgebiet mit einer markanten Lavalandschaft und lokaler Vegetation.",
-                  "category": "natural",
-                  "coords": [
-                        -21.956848,
-                        64.088667
-                  ]
             }
       ],
       "hu": [
@@ -3903,30 +3588,12 @@ imageHint: "Kopavogur city view with modern church",
                   ]
             },
             {
-                  "name": "Hönnunarsafn Íslands",
-                  "text": "Izlandi designt és alkalmazott művészetet bemutató múzeum a 20. századtól napjainkig.",
-                  "category": "museum",
-                  "coords": [
-                        -21.920556,
-                        64.08905
-                  ]
-            },
-            {
                   "name": "Byggðasafn Hafnarfjarðar",
                   "text": "Hafnarfjörður helytörténeti múzeuma, amely a város történelmét és kultúráját mutatja be.",
                   "category": "museum",
                   "coords": [
                         -21.959471,
                         64.070136
-                  ]
-            },
-            {
-                  "name": "Hofsstaðir",
-                  "text": "Régészeti lelőhely egy történelmi viking kori gazdaság maradványaival.",
-                  "category": "historical",
-                  "coords": [
-                        -21.914971,
-                        64.087878
                   ]
             },
             {
@@ -3964,15 +3631,6 @@ imageHint: "Kopavogur city view with modern church",
                         -21.930628,
                         64.061879
                   ]
-            },
-            {
-                  "name": "Garðahraun - neðra",
-                  "text": "Természetvédelmi terület jellegzetes lávavidékkel és helyi vegetációval.",
-                  "category": "natural",
-                  "coords": [
-                        -21.956848,
-                        64.088667
-                  ]
             }
       ],
       "ro": [
@@ -3995,30 +3653,12 @@ imageHint: "Kopavogur city view with modern church",
                   ]
             },
             {
-                  "name": "Hönnunarsafn Íslands",
-                  "text": "Un muzeu axat pe designul și artele aplicate islandeze din secolul al XX-lea până în prezent.",
-                  "category": "museum",
-                  "coords": [
-                        -21.920556,
-                        64.08905
-                  ]
-            },
-            {
                   "name": "Byggðasafn Hafnarfjarðar",
                   "text": "Muzeul local de patrimoniu din Hafnarfjörður, care prezintă istoria și cultura orașului.",
                   "category": "museum",
                   "coords": [
                         -21.959471,
                         64.070136
-                  ]
-            },
-            {
-                  "name": "Hofsstaðir",
-                  "text": "Un sit arheologic care prezintă rămășițele unei ferme istorice din epoca vikingilor.",
-                  "category": "historical",
-                  "coords": [
-                        -21.914971,
-                        64.087878
                   ]
             },
             {
@@ -4056,15 +3696,6 @@ imageHint: "Kopavogur city view with modern church",
                         -21.930628,
                         64.061879
                   ]
-            },
-            {
-                  "name": "Garðahraun - neðra",
-                  "text": "O rezervație naturală cu un peisaj de lavă distinctiv și vegetație locală.",
-                  "category": "natural",
-                  "coords": [
-                        -21.956848,
-                        64.088667
-                  ]
             }
       ],
       "en": [
@@ -4087,30 +3718,12 @@ imageHint: "Kopavogur city view with modern church",
                   ]
             },
             {
-                  "name": "Museum Of Design And Applied Art",
-                  "text": "A museum focused on Icelandic design and applied arts from the 20th century to the present.",
-                  "category": "museum",
-                  "coords": [
-                        -21.920556,
-                        64.08905
-                  ]
-            },
-            {
                   "name": "Byggðasafn Hafnarfjarðar",
                   "text": "The local heritage museum of Hafnarfjörður, showcasing the town's history and culture.",
                   "category": "museum",
                   "coords": [
                         -21.959471,
                         64.070136
-                  ]
-            },
-            {
-                  "name": "Hofsstaðir",
-                  "text": "An archaeological site featuring the remains of a historic Viking Age farmstead.",
-                  "category": "historical",
-                  "coords": [
-                        -21.914971,
-                        64.087878
                   ]
             },
             {
@@ -4147,15 +3760,6 @@ imageHint: "Kopavogur city view with modern church",
                   "coords": [
                         -21.930628,
                         64.061879
-                  ]
-            },
-            {
-                  "name": "Garðahraun - neðra",
-                  "text": "A nature reserve featuring a distinctive lava landscape and local vegetation.",
-                  "category": "natural",
-                  "coords": [
-                        -21.956848,
-                        64.088667
                   ]
             }
       ]
@@ -5326,15 +4930,6 @@ imageHint: "Keflavik harbor and rocky coastline",
     id: "iceland-gardabaer-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Náttúrufræðistofa Kópavogs",
-                  "text": "Ein Naturkundemuseum in Kópavogur, das die lokale Fauna zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -21.909306,
-                        64.111693
-                  ]
-            },
-            {
                   "name": "Hönnunarsafn Íslands",
                   "text": "Designmuseum in Garðabær.",
                   "category": "museum",
@@ -5344,57 +4939,12 @@ imageHint: "Keflavik harbor and rocky coastline",
                   ]
             },
             {
-                  "name": "Borgir",
-                  "text": "Ein Naturschutzgebiet und Hügel mit historischer Bedeutung in Garðabær.",
-                  "category": "natural",
-                  "coords": [
-                        -21.91304,
-                        64.112296
-                  ]
-            },
-            {
-                  "name": "Leikhúsið",
-                  "text": "Haupttheater in Garðabær, das Theaterstücke und Konzerte veranstaltet.",
-                  "category": "cultural",
-                  "coords": [
-                        -21.871931,
-                        64.097152
-                  ]
-            },
-            {
-                  "name": "Byggðasafn Hafnarfjarðar",
-                  "text": "Um die Geschichte von Hafnarfjörður zu bewahren, bietet das Byggðasafn Hafnarfjarðar detaillierte Einblicke in das regionale Erbe. Museumsbesucher können in den Räumlichkeiten nahe Garðabær historische Exponate betrachten, welche die Vergangenheit der Gegend lebendig machen.",
-                  "category": "museum",
-                  "coords": [
-                        -21.959471,
-                        64.070136
-                  ]
-            },
-            {
-                  "name": "Þjóðminjasafn Íslands - varðveisla",
-                  "text": "Ein Standort des Nationalmuseums für die Erhaltung isländischer Kulturgüter.",
-                  "category": "museum",
-                  "coords": [
-                        -21.932393,
-                        64.114692
-                  ]
-            },
-            {
                   "name": "Hofsstaðir",
                   "text": "Eine archäologische Fundstelle eines Wikinger-Langhauses in Garðabær.",
                   "category": "historical",
                   "coords": [
                         -21.914971,
                         64.087878
-                  ]
-            },
-            {
-                  "name": "Setbergsrústin",
-                  "text": "Die Ruinen eines alten Gehöfts in der Region Garðabær.",
-                  "category": "historical",
-                  "coords": [
-                        -21.928581,
-                        64.067187
                   ]
             },
             {
@@ -5425,15 +4975,6 @@ imageHint: "Keflavik harbor and rocky coastline",
                   ]
             },
             {
-                  "name": "Stekkjarhraun",
-                  "text": "Ein raues Lavagebiet, das Teil der Naturlandschaft von Garðabær ist.",
-                  "category": "natural",
-                  "coords": [
-                        -21.930557,
-                        64.061734
-                  ]
-            },
-            {
                   "name": "Vífilsstaðahraun",
                   "text": "Ein durch vulkanische Aktivität geformtes Naturschutzgebiet.",
                   "category": "natural",
@@ -5449,15 +4990,6 @@ imageHint: "Keflavik harbor and rocky coastline",
                   "coords": [
                         -21.866162,
                         64.07406
-                  ]
-            },
-            {
-                  "name": "Hádegishólar",
-                  "text": "Hádegishólar-Hügel mit Panoramablick über die Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        -21.868228,
-                        64.094178
                   ]
             },
             {
@@ -5497,15 +5029,6 @@ imageHint: "Keflavik harbor and rocky coastline",
                   ]
             },
             {
-                  "name": "Rútstún",
-                  "text": "Öffentlicher Park Rútstún in Garðabær.",
-                  "category": "park",
-                  "coords": [
-                        -21.916816,
-                        64.109794
-                  ]
-            },
-            {
                   "name": "Hamarinn",
                   "text": "Ein felsiger Hügel mit Wanderwegen und Aussicht über die Stadt.",
                   "category": "natural",
@@ -5515,30 +5038,12 @@ imageHint: "Keflavik harbor and rocky coastline",
                   ]
             },
             {
-                  "name": "Leikskólalundur",
-                  "text": "Ein Spielplatz und Picknickbereich in einem kleinen Wäldchen.",
-                  "category": "landmark",
-                  "coords": [
-                        -21.884813,
-                        64.107093
-                  ]
-            },
-            {
                   "name": "Álfaborg",
                   "text": "Ein markanter Lavafelsen, der angeblich von Elfen bewohnt wird.",
                   "category": "landmark",
                   "coords": [
                         -21.940722,
                         64.078614
-                  ]
-            },
-            {
-                  "name": "Lindakirkja",
-                  "text": "Lindakirkja-Kirche in Garðabær.",
-                  "category": "religious",
-                  "coords": [
-                        -21.863846,
-                        64.094495
                   ]
             },
             {
@@ -5558,27 +5063,9 @@ imageHint: "Keflavik harbor and rocky coastline",
                         -21.96087,
                         64.075566
                   ]
-            },
-            {
-                  "name": "Digraneskirkja",
-                  "text": "Die Digraneskirkja wurde 1994 erbaut.",
-                  "category": "religious",
-                  "coords": [
-                        -21.886374,
-                        64.107817
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Náttúrufræðistofa Kópavogs",
-                  "text": "Természettudományi múzeum Kópavogurban, a helyi élővilág bemutatásával.",
-                  "category": "museum",
-                  "coords": [
-                        -21.909306,
-                        64.111693
-                  ]
-            },
             {
                   "name": "Hönnunarsafn Íslands",
                   "text": "Designmúzeum Garðabærben.",
@@ -5589,57 +5076,12 @@ imageHint: "Keflavik harbor and rocky coastline",
                   ]
             },
             {
-                  "name": "Borgir",
-                  "text": "Természetvédelmi terület és történelmi jelentőségű domb Garðabærben.",
-                  "category": "natural",
-                  "coords": [
-                        -21.91304,
-                        64.112296
-                  ]
-            },
-            {
-                  "name": "Leikhúsið",
-                  "text": "Leikhúsið, a garðabæri színház, amely színdaraboknak és koncerteknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -21.871931,
-                        64.097152
-                  ]
-            },
-            {
-                  "name": "Byggðasafn Hafnarfjarðar",
-                  "text": "A Byggðasafn Hafnarfjarðar részletes betekintést nyújt a regionális örökségbe, hogy megőrizze Hafnarfjörður történetét. A múzeumlátogatók a Garðabær közelében lévő termekben olyan történelmi kiállítási tárgyakat tekinthetnek meg, amelyek életre keltik a környék múltját.",
-                  "category": "museum",
-                  "coords": [
-                        -21.959471,
-                        64.070136
-                  ]
-            },
-            {
-                  "name": "Þjóðminjasafn Íslands - varðveisla",
-                  "text": "A Nemzeti Múzeum izlandi kulturális javakat őrző központja.",
-                  "category": "museum",
-                  "coords": [
-                        -21.932393,
-                        64.114692
-                  ]
-            },
-            {
                   "name": "Hofsstaðir",
                   "text": "Viking kori hosszúház régészeti lelőhelye Garðabærben.",
                   "category": "historical",
                   "coords": [
                         -21.914971,
                         64.087878
-                  ]
-            },
-            {
-                  "name": "Setbergsrústin",
-                  "text": "Egy régi tanya romjai Garðabær környékén.",
-                  "category": "historical",
-                  "coords": [
-                        -21.928581,
-                        64.067187
                   ]
             },
             {
@@ -5670,15 +5112,6 @@ imageHint: "Keflavik harbor and rocky coastline",
                   ]
             },
             {
-                  "name": "Stekkjarhraun",
-                  "text": "Garðabær természeti tájának részét képező vad lávaterület.",
-                  "category": "natural",
-                  "coords": [
-                        -21.930557,
-                        64.061734
-                  ]
-            },
-            {
                   "name": "Vífilsstaðahraun",
                   "text": "Vulkanikus tevékenység által formált természetvédelmi terület.",
                   "category": "natural",
@@ -5694,15 +5127,6 @@ imageHint: "Keflavik harbor and rocky coastline",
                   "coords": [
                         -21.866162,
                         64.07406
-                  ]
-            },
-            {
-                  "name": "Hádegishólar",
-                  "text": "Hádegishólar-dombok, panorámás kilátással a környékre.",
-                  "category": "natural",
-                  "coords": [
-                        -21.868228,
-                        64.094178
                   ]
             },
             {
@@ -5742,15 +5166,6 @@ imageHint: "Keflavik harbor and rocky coastline",
                   ]
             },
             {
-                  "name": "Rútstún",
-                  "text": "Rútstún közpark Garðabærben.",
-                  "category": "park",
-                  "coords": [
-                        -21.916816,
-                        64.109794
-                  ]
-            },
-            {
                   "name": "Hamarinn",
                   "text": "Sziklás domb túraösvényekkel és kilátással a városra.",
                   "category": "natural",
@@ -5760,30 +5175,12 @@ imageHint: "Keflavik harbor and rocky coastline",
                   ]
             },
             {
-                  "name": "Leikskólalundur",
-                  "text": "Játszótér és piknikezőhely egy kis ligetben.",
-                  "category": "landmark",
-                  "coords": [
-                        -21.884813,
-                        64.107093
-                  ]
-            },
-            {
                   "name": "Álfaborg",
                   "text": "Egy jellegzetes lávakő, amely állítólag tündérek otthona.",
                   "category": "landmark",
                   "coords": [
                         -21.940722,
                         64.078614
-                  ]
-            },
-            {
-                  "name": "Lindakirkja",
-                  "text": "Lindakirkja templom Garðabærben.",
-                  "category": "religious",
-                  "coords": [
-                        -21.863846,
-                        64.094495
                   ]
             },
             {
@@ -5803,27 +5200,9 @@ imageHint: "Keflavik harbor and rocky coastline",
                         -21.96087,
                         64.075566
                   ]
-            },
-            {
-                  "name": "Digraneskirkja",
-                  "text": "A Digraneskirkja 1994-ben épült.",
-                  "category": "religious",
-                  "coords": [
-                        -21.886374,
-                        64.107817
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Náttúrufræðistofa Kópavogs",
-                  "text": "Un muzeu de istorie naturală în Kópavogur, care prezintă fauna locală.",
-                  "category": "museum",
-                  "coords": [
-                        -21.909306,
-                        64.111693
-                  ]
-            },
             {
                   "name": "Hönnunarsafn Íslands",
                   "text": "Muzeu de design în Garðabær.",
@@ -5834,57 +5213,12 @@ imageHint: "Keflavik harbor and rocky coastline",
                   ]
             },
             {
-                  "name": "Borgir",
-                  "text": "O rezervație naturală și un deal cu semnificație istorică în Garðabær.",
-                  "category": "natural",
-                  "coords": [
-                        -21.91304,
-                        64.112296
-                  ]
-            },
-            {
-                  "name": "Leikhúsið",
-                  "text": "Teatrul principal din Garðabær, care găzduiește piese de teatru și concerte.",
-                  "category": "cultural",
-                  "coords": [
-                        -21.871931,
-                        64.097152
-                  ]
-            },
-            {
-                  "name": "Byggðasafn Hafnarfjarðar",
-                  "text": "Pentru a păstra istoria orașului Hafnarfjörður, Byggðasafn Hafnarfjarðar oferă o perspectivă detaliată asupra moștenirii regionale. Vizitatorii muzeului pot admira expoziții istorice în sălile din apropiere de Garðabær, care dau viață trecutului zonei.",
-                  "category": "museum",
-                  "coords": [
-                        -21.959471,
-                        64.070136
-                  ]
-            },
-            {
-                  "name": "Þjóðminjasafn Íslands - varðveisla",
-                  "text": "O locație a Muzeului Național pentru conservarea patrimoniului islandez.",
-                  "category": "museum",
-                  "coords": [
-                        -21.932393,
-                        64.114692
-                  ]
-            },
-            {
                   "name": "Hofsstaðir",
                   "text": "Un sit arheologic ce cuprinde o casă lungă din epoca vikingă în Garðabær.",
                   "category": "historical",
                   "coords": [
                         -21.914971,
                         64.087878
-                  ]
-            },
-            {
-                  "name": "Setbergsrústin",
-                  "text": "Ruinele unei vechi ferme în regiunea Garðabær.",
-                  "category": "historical",
-                  "coords": [
-                        -21.928581,
-                        64.067187
                   ]
             },
             {
@@ -5915,15 +5249,6 @@ imageHint: "Keflavik harbor and rocky coastline",
                   ]
             },
             {
-                  "name": "Stekkjarhraun",
-                  "text": "O zonă de lavă aspră, parte a peisajului natural din Garðabær.",
-                  "category": "natural",
-                  "coords": [
-                        -21.930557,
-                        64.061734
-                  ]
-            },
-            {
                   "name": "Vífilsstaðahraun",
                   "text": "O rezervație naturală formată prin activitate vulcanică.",
                   "category": "natural",
@@ -5939,15 +5264,6 @@ imageHint: "Keflavik harbor and rocky coastline",
                   "coords": [
                         -21.866162,
                         64.07406
-                  ]
-            },
-            {
-                  "name": "Hádegishólar",
-                  "text": "Dealurile Hádegishólar, cu vedere panoramică asupra zonei.",
-                  "category": "natural",
-                  "coords": [
-                        -21.868228,
-                        64.094178
                   ]
             },
             {
@@ -5987,15 +5303,6 @@ imageHint: "Keflavik harbor and rocky coastline",
                   ]
             },
             {
-                  "name": "Rútstún",
-                  "text": "Parcul public Rútstún în Garðabær.",
-                  "category": "park",
-                  "coords": [
-                        -21.916816,
-                        64.109794
-                  ]
-            },
-            {
                   "name": "Hamarinn",
                   "text": "Un deal stâncos cu trasee de drumeție și vedere asupra orașului.",
                   "category": "natural",
@@ -6005,30 +5312,12 @@ imageHint: "Keflavik harbor and rocky coastline",
                   ]
             },
             {
-                  "name": "Leikskólalundur",
-                  "text": "Un loc de joacă și zonă de picnic într-o pădurice.",
-                  "category": "landmark",
-                  "coords": [
-                        -21.884813,
-                        64.107093
-                  ]
-            },
-            {
                   "name": "Álfaborg",
                   "text": "O stâncă distinctivă de lavă, despre care se spune că este casa elfilor.",
                   "category": "landmark",
                   "coords": [
                         -21.940722,
                         64.078614
-                  ]
-            },
-            {
-                  "name": "Lindakirkja",
-                  "text": "Biserica Lindakirkja în Garðabær.",
-                  "category": "religious",
-                  "coords": [
-                        -21.863846,
-                        64.094495
                   ]
             },
             {
@@ -6048,27 +5337,9 @@ imageHint: "Keflavik harbor and rocky coastline",
                         -21.96087,
                         64.075566
                   ]
-            },
-            {
-                  "name": "Digraneskirkja",
-                  "text": "Biserica Digraneskirkja a fost construită în 1994.",
-                  "category": "religious",
-                  "coords": [
-                        -21.886374,
-                        64.107817
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Náttúrufræðistofa Kópavogs",
-                  "text": "A natural history museum in Kópavogur showcasing local wildlife.",
-                  "category": "museum",
-                  "coords": [
-                        -21.909306,
-                        64.111693
-                  ]
-            },
             {
                   "name": "Museum Of Design And Applied Art",
                   "text": "Design museum in Garðabær.",
@@ -6079,57 +5350,12 @@ imageHint: "Keflavik harbor and rocky coastline",
                   ]
             },
             {
-                  "name": "Borgir",
-                  "text": "A nature reserve and hill with historical significance in Garðabær.",
-                  "category": "natural",
-                  "coords": [
-                        -21.91304,
-                        64.112296
-                  ]
-            },
-            {
-                  "name": "Leikhúsið",
-                  "text": "The main theatre in Garðabær, hosting plays and concerts.",
-                  "category": "cultural",
-                  "coords": [
-                        -21.871931,
-                        64.097152
-                  ]
-            },
-            {
-                  "name": "Byggðasafn Hafnarfjarðar",
-                  "text": "Preserving the history of Hafnarfjörður, the Byggðasafn Hafnarfjarðar offers detailed insights into the regional heritage. Museum visitors can view historical exhibits in the premises near Garðabær that bring the area's past to life.",
-                  "category": "museum",
-                  "coords": [
-                        -21.959471,
-                        64.070136
-                  ]
-            },
-            {
-                  "name": "Þjóðminjasafn Íslands - varðveisla",
-                  "text": "A National Museum site dedicated to the preservation of Icelandic heritage.",
-                  "category": "museum",
-                  "coords": [
-                        -21.932393,
-                        64.114692
-                  ]
-            },
-            {
                   "name": "Hofsstaðir",
                   "text": "An archaeological site of a Viking-age longhouse in Garðabær.",
                   "category": "historical",
                   "coords": [
                         -21.914971,
                         64.087878
-                  ]
-            },
-            {
-                  "name": "Setbergsrústin",
-                  "text": "The ruins of an ancient farmstead in the Garðabær area.",
-                  "category": "historical",
-                  "coords": [
-                        -21.928581,
-                        64.067187
                   ]
             },
             {
@@ -6160,15 +5386,6 @@ imageHint: "Keflavik harbor and rocky coastline",
                   ]
             },
             {
-                  "name": "Stekkjarhraun",
-                  "text": "A rugged lava area that is part of the natural landscape of Garðabær.",
-                  "category": "natural",
-                  "coords": [
-                        -21.930557,
-                        64.061734
-                  ]
-            },
-            {
                   "name": "Vífilsstaðahraun",
                   "text": "A nature reserve shaped by volcanic activity near Vífilsstaðir.",
                   "category": "natural",
@@ -6184,15 +5401,6 @@ imageHint: "Keflavik harbor and rocky coastline",
                   "coords": [
                         -21.866162,
                         64.07406
-                  ]
-            },
-            {
-                  "name": "Hádegishólar",
-                  "text": "Hádegishólar hills offering panoramic views of the area.",
-                  "category": "natural",
-                  "coords": [
-                        -21.868228,
-                        64.094178
                   ]
             },
             {
@@ -6232,15 +5440,6 @@ imageHint: "Keflavik harbor and rocky coastline",
                   ]
             },
             {
-                  "name": "Rútstún",
-                  "text": "Rútstún public park in Garðabær.",
-                  "category": "park",
-                  "coords": [
-                        -21.916816,
-                        64.109794
-                  ]
-            },
-            {
                   "name": "Hamarinn",
                   "text": "A rocky hill with hiking trails and views over the town.",
                   "category": "natural",
@@ -6250,30 +5449,12 @@ imageHint: "Keflavik harbor and rocky coastline",
                   ]
             },
             {
-                  "name": "Leikskólalundur",
-                  "text": "A playground and picnic area set in a small grove of trees.",
-                  "category": "landmark",
-                  "coords": [
-                        -21.884813,
-                        64.107093
-                  ]
-            },
-            {
                   "name": "Álfaborg",
                   "text": "A distinctive lava rock said to be home to elves.",
                   "category": "landmark",
                   "coords": [
                         -21.940722,
                         64.078614
-                  ]
-            },
-            {
-                  "name": "Lindakirkja",
-                  "text": "Lindakirkja church in Garðabær.",
-                  "category": "religious",
-                  "coords": [
-                        -21.863846,
-                        64.094495
                   ]
             },
             {
@@ -6292,15 +5473,6 @@ imageHint: "Keflavik harbor and rocky coastline",
                   "coords": [
                         -21.96087,
                         64.075566
-                  ]
-            },
-            {
-                  "name": "Digraneskirkja",
-                  "text": "Digraneskirkja was built in 1994.",
-                  "category": "religious",
-                  "coords": [
-                        -21.886374,
-                        64.107817
                   ]
             }
       ]

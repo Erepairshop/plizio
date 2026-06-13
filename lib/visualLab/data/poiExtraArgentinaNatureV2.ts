@@ -5972,15 +5972,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
     id: "ar-bosque-andino-patagonico-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Tobogán Gigante",
-                  "text": "Eine Riesenrutsche inmitten der andinen patagonischen Waldlandschaft.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.322873,
-                        -41.133149
-                  ]
-            },
-            {
                   "name": "Cerro Blanco",
                   "text": "Ein markanter Berggipfel namens Cerro Blanco, der sich über den andinen patagonischen Wald erhebt.",
                   "category": "natural",
@@ -6035,33 +6026,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo del Chocolate",
-                  "text": "Ein Museum, das die Geschichte und Herstellung von patagonischer Schokolade zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -71.323384,
-                        -41.132113
-                  ]
-            },
-            {
-                  "name": "Mirador Nahuel Huapi",
-                  "text": "Ein malerischer Aussichtspunkt mit weitem Blick über den riesigen Nahuel-Huapi-See.",
-                  "category": "natural",
-                  "coords": [
-                        -71.33105,
-                        -41.131672
-                  ]
-            },
-            {
-                  "name": "Mirador Cerro Viejo",
-                  "text": "Ein erhöhter Aussichtspunkt an den Hängen des Cerro Viejo.",
-                  "category": "natural",
-                  "coords": [
-                        -71.323967,
-                        -41.13315
-                  ]
-            },
-            {
                   "name": "Mirador K1",
                   "text": "Eine ausgewiesene Aussichtsplattform inmitten des andinen Waldes.",
                   "category": "natural",
@@ -6107,15 +6071,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reserva Natural Urbana Alto Jardin Botanico",
-                  "text": "Ein städtisches botanisches Gartenreservat, das einheimische andine Pflanzenarten zeigt.",
-                  "category": "natural",
-                  "coords": [
-                        -71.32114,
-                        -41.150535
-                  ]
-            },
-            {
                   "name": "Casa de Otto Mailing",
                   "text": "Ein Museum im historischen Bergwohnsitz des Bergsteigerpioniers Otto Meiling.",
                   "category": "museum",
@@ -6153,15 +6108,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Tobogán Gigante",
-                  "text": "Nagyszabású óriáscsúszda-látványosság az andoki patagóniai erdei tájon.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.322873,
-                        -41.133149
-                  ]
-            },
             {
                   "name": "Cerro Blanco",
                   "text": "Egy figyelemre méltó hegycsúcs, a Cerro Blanco, amely az andoki patagóniai erdő fölé magasodik.",
@@ -6217,33 +6163,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo del Chocolate",
-                  "text": "A patagóniai csokoládé történetét és készítését bemutató múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -71.323384,
-                        -41.132113
-                  ]
-            },
-            {
-                  "name": "Mirador Nahuel Huapi",
-                  "text": "Festői kilátó, amely panorámát nyújt a hatalmas Nahuel Huapi-tóra.",
-                  "category": "natural",
-                  "coords": [
-                        -71.33105,
-                        -41.131672
-                  ]
-            },
-            {
-                  "name": "Mirador Cerro Viejo",
-                  "text": "Egy magasan fekvő kilátó a Cerro Viejo lejtőin.",
-                  "category": "natural",
-                  "coords": [
-                        -71.323967,
-                        -41.13315
-                  ]
-            },
-            {
                   "name": "Mirador K1",
                   "text": "Egy kijelölt kilátóterasz az andoki erdővel övezve.",
                   "category": "natural",
@@ -6289,15 +6208,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reserva Natural Urbana Alto Jardin Botanico",
-                  "text": "Őshonos magaslati andoki növényfajokat bemutató városi botanikus kert rezervátum.",
-                  "category": "natural",
-                  "coords": [
-                        -71.32114,
-                        -41.150535
-                  ]
-            },
-            {
                   "name": "Casa de Otto Mailing",
                   "text": "Otto Meiling hegymászó úttörő történelmi hegyi rezidenciájában berendezett múzeum.",
                   "category": "museum",
@@ -6335,15 +6245,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Tobogán Gigante",
-                  "text": "Un tobogan uriaș situat în peisajul forestier andin patagonian.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.322873,
-                        -41.133149
-                  ]
-            },
             {
                   "name": "Cerro Blanco",
                   "text": "Un vârf de munte notabil numit Cerro Blanco, care se ridică deasupra pădurii andine patagoniene.",
@@ -6399,33 +6300,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo del Chocolate",
-                  "text": "Un muzeu care prezintă istoria și producția de ciocolată patagoniană.",
-                  "category": "museum",
-                  "coords": [
-                        -71.323384,
-                        -41.132113
-                  ]
-            },
-            {
-                  "name": "Mirador Nahuel Huapi",
-                  "text": "Un punct de belvedere pitoresc care oferă vederi ample asupra vastului lac Nahuel Huapi.",
-                  "category": "natural",
-                  "coords": [
-                        -71.33105,
-                        -41.131672
-                  ]
-            },
-            {
-                  "name": "Mirador Cerro Viejo",
-                  "text": "Un punct de observație înalt situat pe pantele dealului Cerro Viejo.",
-                  "category": "natural",
-                  "coords": [
-                        -71.323967,
-                        -41.13315
-                  ]
-            },
-            {
                   "name": "Mirador K1",
                   "text": "O platformă de vizionare desemnată, înconjurată de pădurea andină.",
                   "category": "natural",
@@ -6471,15 +6345,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Reserva Natural Urbana Alto Jardin Botanico",
-                  "text": "O rezervație botanică urbană care evidențiază specii de plante andine autohtone de mare altitudine.",
-                  "category": "natural",
-                  "coords": [
-                        -71.32114,
-                        -41.150535
-                  ]
-            },
-            {
                   "name": "Casa de Otto Mailing",
                   "text": "Un muzeu găzduit în reședința istorică de munte a pionierului alpinist Otto Meiling.",
                   "category": "museum",
@@ -6517,15 +6382,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Tobogán Gigante",
-                  "text": "A large-scale giant slide attraction set within the Andean Patagonian forest landscape.",
-                  "category": "landmark",
-                  "coords": [
-                        -71.322873,
-                        -41.133149
-                  ]
-            },
             {
                   "name": "Cerro Blanco",
                   "text": "A notable mountain peak called Cerro Blanco rising above the Andean Patagonian forest.",
@@ -6581,33 +6437,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo del Chocolate",
-                  "text": "A museum showcasing the history and production of Patagonian chocolate.",
-                  "category": "museum",
-                  "coords": [
-                        -71.323384,
-                        -41.132113
-                  ]
-            },
-            {
-                  "name": "Mirador Nahuel Huapi",
-                  "text": "A scenic viewpoint offering sweeping vistas over the vast Lake Nahuel Huapi.",
-                  "category": "natural",
-                  "coords": [
-                        -71.33105,
-                        -41.131672
-                  ]
-            },
-            {
-                  "name": "Mirador Cerro Viejo",
-                  "text": "An elevated lookout point situated on the slopes of Cerro Viejo.",
-                  "category": "natural",
-                  "coords": [
-                        -71.323967,
-                        -41.13315
-                  ]
-            },
-            {
                   "name": "Mirador K1",
                   "text": "A designated viewing platform surrounded by the Andean forest.",
                   "category": "natural",
@@ -6650,15 +6479,6 @@ export const poiExtraArgentinaNatureV2: POI[] = [
                   "coords": [
                         -71.295777,
                         -41.173961
-                  ]
-            },
-            {
-                  "name": "Reserva Natural Urbana Alto Jardin Botanico",
-                  "text": "An urban botanical garden reserve highlighting native high-altitude Andean plant species.",
-                  "category": "natural",
-                  "coords": [
-                        -71.32114,
-                        -41.150535
                   ]
             },
             {

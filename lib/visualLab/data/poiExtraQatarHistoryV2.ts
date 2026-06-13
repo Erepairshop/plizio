@@ -958,24 +958,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
     id: "qatar-jazirat-bin-ghannam-history-v2", "sights": {
       "de": [
             {
-                  "name": "Al Khor Mseum",
-                  "text": "In einer ehemaligen Polizeistation untergebracht, zeigt dieses Museum die maritime Geschichte von Al Khor.",
-                  "category": "museum",
-                  "coords": [
-                        51.512945,
-                        25.686758
-                  ]
-            },
-            {
-                  "name": "Al Sultan Beach",
-                  "text": "Ein ruhiger Küstenabschnitt in der Nähe des Hafens, ideal zum Entspannen am Persischen Golf.",
-                  "category": "recreational",
-                  "coords": [
-                        51.519912,
-                        25.684969
-                  ]
-            },
-            {
                   "name": "Fish Market Mosque",
                   "text": "Eine kleine Moschee direkt am Fischmarkt, die Fischern und Besuchern offensteht.",
                   "category": "landmark",
@@ -986,24 +968,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Al Khor museum",
-                  "text": "Egy egykori rendőrőrsön elhelyezett múzeum, amely Al Khor tengerészeti múltját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        51.512945,
-                        25.686758
-                  ]
-            },
-            {
-                  "name": "Al Sultan Beach",
-                  "text": "Nyugodt tengerparti szakasz a kikötő közelében, ideális a Perzsa-öböl partján való pihenéshez.",
-                  "category": "recreational",
-                  "coords": [
-                        51.519912,
-                        25.684969
-                  ]
-            },
             {
                   "name": "Fish Market Mosque",
                   "text": "Egy kis mecset közvetlenül a halpiac mellett, amely a halászok és látogatók előtt is nyitva áll.",
@@ -1016,24 +980,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Al Khor museum",
-                  "text": "Găzduit într-o fostă secție de poliție, acest muzeu prezintă istoria maritimă a orașului Al Khor.",
-                  "category": "museum",
-                  "coords": [
-                        51.512945,
-                        25.686758
-                  ]
-            },
-            {
-                  "name": "Al Sultan Beach",
-                  "text": "O porțiune liniștită de coastă lângă port, ideală pentru relaxare la malul Golfului Persic.",
-                  "category": "recreational",
-                  "coords": [
-                        51.519912,
-                        25.684969
-                  ]
-            },
-            {
                   "name": "Fish Market Mosque",
                   "text": "O mică moschee situată chiar lângă piața de pește, deschisă pescarilor și vizitatorilor.",
                   "category": "landmark",
@@ -1044,24 +990,6 @@ export const poiExtraQatarHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Al Khor museum",
-                  "text": "Housed in a former police station, this museum showcases Al Khor’s maritime history.",
-                  "category": "museum",
-                  "coords": [
-                        51.512945,
-                        25.686758
-                  ]
-            },
-            {
-                  "name": "Al Sultan Beach",
-                  "text": "A serene coastal stretch near the harbor, ideal for relaxing by the Arabian Gulf.",
-                  "category": "recreational",
-                  "coords": [
-                        51.519912,
-                        25.684969
-                  ]
-            },
             {
                   "name": "Fish Market Mosque",
                   "text": "A small mosque located right by the fish market, open to fishermen and visitors.",

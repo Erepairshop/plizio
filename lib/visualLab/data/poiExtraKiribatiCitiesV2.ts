@@ -609,24 +609,6 @@ export const kiribatiCitiesV2: POI[] = [
     id: "kiribati-temwaiku-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Te Umwanibong",
-                  "text": "Nationalmuseum Kiribatis in Temwaiku, das die Inselkultur präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        173.120726,
-                        1.365728
-                  ]
-            },
-            {
-                  "name": "Main port",
-                  "text": "Der Hafen von Temwaiku auf dem Tarawa-Atoll, ein Knotenpunkt für Inselfähren.",
-                  "category": "natural",
-                  "coords": [
-                        173.118736,
-                        1.365386
-                  ]
-            },
-            {
                   "name": "Bill house",
                   "text": "Ein großes traditionelles Haus mit Strohdach in Temwaiku, das für Gemeinschaftsveranstaltungen genutzt wird.",
                   "category": "natural",
@@ -634,36 +616,9 @@ export const kiribatiCitiesV2: POI[] = [
                         173.158837,
                         1.36154
                   ]
-            },
-            {
-                  "name": "Maneaban te kukurei",
-                  "text": "Ein traditionelles Versammlungshaus in Temwaiku mit einem Fundament aus Korallenstein.",
-                  "category": "natural",
-                  "coords": [
-                        173.123479,
-                        1.366558
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Te Umwanibong",
-                  "text": "Kiribati Nemzeti Múzeuma Temwaikuban, amely a sziget kultúráját mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        173.120726,
-                        1.365728
-                  ]
-            },
-            {
-                  "name": "Main port",
-                  "text": "Temwaiku kikötője a Tarawa-atollon, a szigetközi hajók csomópontja.",
-                  "category": "natural",
-                  "coords": [
-                        173.118736,
-                        1.365386
-                  ]
-            },
             {
                   "name": "Bill house",
                   "text": "Egy nagy hagyományos nádfedeles ház Temwaikuban, közösségi eseményekhez.",
@@ -672,36 +627,9 @@ export const kiribatiCitiesV2: POI[] = [
                         173.158837,
                         1.36154
                   ]
-            },
-            {
-                  "name": "Maneaban te kukurei",
-                  "text": "Egy hagyományos gyülekezőház Temwaikuban korallkő alappal.",
-                  "category": "natural",
-                  "coords": [
-                        173.123479,
-                        1.366558
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Te Umwanibong",
-                  "text": "Muzeul Național al Kiribati în Temwaiku, prezentând cultura insulei.",
-                  "category": "museum",
-                  "coords": [
-                        173.120726,
-                        1.365728
-                  ]
-            },
-            {
-                  "name": "Main port",
-                  "text": "Portul Temwaiku pe Atolul Tarawa, un hub pentru ambarcațiunile inter-insulare.",
-                  "category": "natural",
-                  "coords": [
-                        173.118736,
-                        1.365386
-                  ]
-            },
             {
                   "name": "Bill house",
                   "text": "O casă mare tradițională cu acoperiș de paie în Temwaiku, folosită pentru evenimente comunitare.",
@@ -710,36 +638,9 @@ export const kiribatiCitiesV2: POI[] = [
                         173.158837,
                         1.36154
                   ]
-            },
-            {
-                  "name": "Maneaban te kukurei",
-                  "text": "O casă tradițională de întrunire în Temwaiku cu fundație de piatră corală.",
-                  "category": "natural",
-                  "coords": [
-                        173.123479,
-                        1.366558
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Kiribati National Museum and Cultural Centre",
-                  "text": "Kiribati National Museum in Temwaiku, presenting the island's culture.",
-                  "category": "museum",
-                  "coords": [
-                        173.120726,
-                        1.365728
-                  ]
-            },
-            {
-                  "name": "Main port",
-                  "text": "The port of Temwaiku on Tarawa Atoll, a hub for inter-island boats.",
-                  "category": "natural",
-                  "coords": [
-                        173.118736,
-                        1.365386
-                  ]
-            },
             {
                   "name": "Bill house",
                   "text": "A large traditional thatched house in Temwaiku used for community events.",
@@ -747,15 +648,6 @@ export const kiribatiCitiesV2: POI[] = [
                   "coords": [
                         173.158837,
                         1.36154
-                  ]
-            },
-            {
-                  "name": "Maneaban te kukurei",
-                  "text": "A traditional meeting house in Temwaiku with a coral stone foundation.",
-                  "category": "natural",
-                  "coords": [
-                        173.123479,
-                        1.366558
                   ]
             }
       ]

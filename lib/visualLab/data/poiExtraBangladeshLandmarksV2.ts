@@ -5450,15 +5450,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shaheed Minar",
-                  "text": "Diese Gedenkstätte dient der Gemeinschaft als Ort für Zeremonien am Internationalen Tag der Muttersprache.",
-                  "category": "historical",
-                  "coords": [
-                        89.708578,
-                        24.463226
-                  ]
-            },
-            {
                   "name": "Baroshimul Masjid",
                   "text": "Eine schlichte, weiß getünchte Moschee, die seit Generationen das religiöse Leben im Dorf Baroshimul prägt.",
                   "category": "religious",
@@ -5782,15 +5773,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
                   "coords": [
                         89.702363,
                         24.452553
-                  ]
-            },
-            {
-                  "name": "Shaheed Minar",
-                  "text": "Ez az emlékhely a közösség számára fontos helyszín az Anyanyelv Nemzetközi Napján tartott ünnepségekhez.",
-                  "category": "historical",
-                  "coords": [
-                        89.708578,
-                        24.463226
                   ]
             },
             {
@@ -6120,15 +6102,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shaheed Minar",
-                  "text": "Acest loc memorial servește comunității ca punct de adunare pentru ceremoniile de Ziua Internațională a Limbii Materne.",
-                  "category": "historical",
-                  "coords": [
-                        89.708578,
-                        24.463226
-                  ]
-            },
-            {
                   "name": "Baroshimul Masjid",
                   "text": "O moschee simplă, tencuită în alb, care deservește viața religioasă a satului Baroshimul de generații.",
                   "category": "religious",
@@ -6443,24 +6416,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
                   "coords": [
                         89.817336,
                         24.416483
-                  ]
-            },
-            {
-                  "name": "Shahid Minar",
-                  "text": "A local Shahid Minar monument with characteristic curved pillars, dedicated to the language heroes.",
-                  "category": "historical",
-                  "coords": [
-                        89.702363,
-                        24.452553
-                  ]
-            },
-            {
-                  "name": "Shaheed Minar",
-                  "text": "This memorial site serves as a community gathering point for ceremonies on International Mother Language Day.",
-                  "category": "historical",
-                  "coords": [
-                        89.708578,
-                        24.463226
                   ]
             },
             {
@@ -15275,15 +15230,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
     id: "bd-lalon-shah-shrine-landmarks-v2", "sights": {
       "de": [
             {
-                  "name": "Kushtia Municipality Museum",
-                  "text": "Dieses Museum zeigt archäologische Funde und Dokumente zur lokalen Geschichte der Stadt Kushtia.",
-                  "category": "museum",
-                  "coords": [
-                        89.122328,
-                        23.911288
-                  ]
-            },
-            {
                   "name": "Thakur Lodge",
                   "text": "Dieses historische Gebäude in Kushtia hat Verbindungen zur Familie Tagore und zeigt koloniale Architektur.",
                   "category": "museum",
@@ -15308,15 +15254,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
                   "coords": [
                         89.220085,
                         23.919822
-                  ]
-            },
-            {
-                  "name": "Shahid Minar Kushtia",
-                  "text": "Ein zentrales Denkmal in Kushtia, das an die Helden der bengalischen Sprachbewegung von 1952 erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        89.118738,
-                        23.901879
                   ]
             },
             {
@@ -15592,15 +15529,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Kushtia Municipality Museum",
-                  "text": "Ez a múzeum régészeti leleteket és dokumentumokat mutat be Kustia városának helyi történelméről.",
-                  "category": "museum",
-                  "coords": [
-                        89.122328,
-                        23.911288
-                  ]
-            },
-            {
                   "name": "Thakur Lodge",
                   "text": "Ez a kustiai történelmi épület kapcsolatban áll a Tagore családdal, és a gyarmati építészetet tükrözi.",
                   "category": "museum",
@@ -15625,15 +15553,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
                   "coords": [
                         89.220085,
                         23.919822
-                  ]
-            },
-            {
-                  "name": "Shahid Minar Kushtia",
-                  "text": "Központi emlékmű Kustiában, amely az 1952-es bengáli nyelvmozgalom hőseire emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        89.118738,
-                        23.901879
                   ]
             },
             {
@@ -15909,15 +15828,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Kushtia Municipality Museum",
-                  "text": "Acest muzeu prezintă descoperiri arheologice și documente privind istoria locală a orașului Kushtia.",
-                  "category": "museum",
-                  "coords": [
-                        89.122328,
-                        23.911288
-                  ]
-            },
-            {
                   "name": "Thakur Lodge",
                   "text": "Această clădire istorică din Kushtia are legături cu familia Tagore și prezintă arhitectură colonială.",
                   "category": "museum",
@@ -15942,15 +15852,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
                   "coords": [
                         89.220085,
                         23.919822
-                  ]
-            },
-            {
-                  "name": "Shahid Minar Kushtia",
-                  "text": "Un monument central în Kushtia, care comemorează eroii mișcării pentru limba bengaleză din 1952.",
-                  "category": "historical",
-                  "coords": [
-                        89.118738,
-                        23.901879
                   ]
             },
             {
@@ -16226,15 +16127,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Kushtia Municipality Museum",
-                  "text": "This museum displays archaeological finds and documents relating to the local history of Kushtia municipality.",
-                  "category": "museum",
-                  "coords": [
-                        89.122328,
-                        23.911288
-                  ]
-            },
-            {
                   "name": "Thakur Lodge",
                   "text": "This historic building in Kushtia has links to the Tagore family and showcases colonial architecture.",
                   "category": "museum",
@@ -16259,15 +16151,6 @@ export const poiExtraBangladeshLandmarksV2: POI[] = [
                   "coords": [
                         89.220085,
                         23.919822
-                  ]
-            },
-            {
-                  "name": "Shahid Minar Kushtia",
-                  "text": "A central monument in Kushtia commemorating the heroes of the 1952 Bengali Language Movement.",
-                  "category": "historical",
-                  "coords": [
-                        89.118738,
-                        23.901879
                   ]
             },
             {

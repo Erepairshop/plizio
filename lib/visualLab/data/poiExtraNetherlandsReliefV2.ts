@@ -915,33 +915,6 @@ export const netherlandsReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Landgoed Rhederoord",
-                  "text": "Ein historisches Landgut am Rande des Nationalparks Veluwezoom mit einer markanten Parkanlage.",
-                  "category": "natural",
-                  "coords": [
-                        6.052944,
-                        52.021046
-                  ]
-            },
-            {
-                  "name": "Landgoed Rhederhof",
-                  "text": "Ein denkmalgeschütztes Landgut in der Region Veluwezoom mit historischen Gebäuden und Gärten.",
-                  "category": "natural",
-                  "coords": [
-                        6.018136,
-                        52.010231
-                  ]
-            },
-            {
-                  "name": "De Valkenberg",
-                  "text": "Ein Naturgebiet innerhalb des Veluwezoom, bekannt für seine hügelige Heidelandschaft.",
-                  "category": "natural",
-                  "coords": [
-                        6.041286,
-                        52.016053
-                  ]
-            },
-            {
                   "name": "Landgoed Avegoor",
                   "text": "Ein historisches Landgut im Veluwezoom, das heute als Hotel und Konferenzzentrum genutzt wird.",
                   "category": "natural",
@@ -957,15 +930,6 @@ export const netherlandsReliefV2: POI[] = [
                   "coords": [
                         6.067974,
                         52.034887
-                  ]
-            },
-            {
-                  "name": "Kasteel Middachten",
-                  "text": "Ein prächtiges barockes Schlossgut mit bedeutenden Gartenanlagen in der Region Veluwezoom.",
-                  "category": "castle",
-                  "coords": [
-                        6.069729,
-                        52.019029
                   ]
             },
             {
@@ -998,33 +962,6 @@ export const netherlandsReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Landgoed Rhederoord",
-                  "text": "Történelmi udvarház a Veluwezoom Nemzeti Park szélén, jellegzetes parkkal.",
-                  "category": "natural",
-                  "coords": [
-                        6.052944,
-                        52.021046
-                  ]
-            },
-            {
-                  "name": "Landgoed Rhederhof",
-                  "text": "Műemléki védettségű birtok a Veluwezoom régióban, történelmi épületekkel és kertekkel.",
-                  "category": "natural",
-                  "coords": [
-                        6.018136,
-                        52.010231
-                  ]
-            },
-            {
-                  "name": "De Valkenberg",
-                  "text": "Természeti terület a Veluwezoom-on belül, amely dombos fenyérvidékéről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        6.041286,
-                        52.016053
-                  ]
-            },
-            {
                   "name": "Landgoed Avegoor",
                   "text": "Történelmi birtok a Veluwezoom-ban, amely ma szállodaként és konferenciaközpontként működik.",
                   "category": "natural",
@@ -1040,15 +977,6 @@ export const netherlandsReliefV2: POI[] = [
                   "coords": [
                         6.067974,
                         52.034887
-                  ]
-            },
-            {
-                  "name": "Kasteel Middachten",
-                  "text": "Pompás barokk kastély jelentős kertekkel a Veluwezoom régióban.",
-                  "category": "castle",
-                  "coords": [
-                        6.069729,
-                        52.019029
                   ]
             },
             {
@@ -1081,33 +1009,6 @@ export const netherlandsReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Landgoed Rhederoord",
-                  "text": "O moșie istorică la marginea Parcului Național Veluwezoom, cu un parc remarcabil.",
-                  "category": "natural",
-                  "coords": [
-                        6.052944,
-                        52.021046
-                  ]
-            },
-            {
-                  "name": "Landgoed Rhederhof",
-                  "text": "O moșie protejată din regiunea Veluwezoom, cu clădiri istorice și grădini.",
-                  "category": "natural",
-                  "coords": [
-                        6.018136,
-                        52.010231
-                  ]
-            },
-            {
-                  "name": "De Valkenberg",
-                  "text": "O zonă naturală din cadrul Veluwezoom, cunoscută pentru peisajul său deluros de landă.",
-                  "category": "natural",
-                  "coords": [
-                        6.041286,
-                        52.016053
-                  ]
-            },
-            {
                   "name": "Landgoed Avegoor",
                   "text": "O moșie istorică din Veluwezoom, utilizată astăzi ca hotel și centru de conferințe.",
                   "category": "natural",
@@ -1123,15 +1024,6 @@ export const netherlandsReliefV2: POI[] = [
                   "coords": [
                         6.067974,
                         52.034887
-                  ]
-            },
-            {
-                  "name": "Kasteel Middachten",
-                  "text": "O somptuoasă moșie cu castel baroc și grădini importante în regiunea Veluwezoom.",
-                  "category": "castle",
-                  "coords": [
-                        6.069729,
-                        52.019029
                   ]
             },
             {
@@ -1164,33 +1056,6 @@ export const netherlandsReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Landgoed Rhederoord",
-                  "text": "A historic estate on the edge of Veluwezoom National Park featuring a notable parkland.",
-                  "category": "natural",
-                  "coords": [
-                        6.052944,
-                        52.021046
-                  ]
-            },
-            {
-                  "name": "Landgoed Rhederhof",
-                  "text": "A heritage-listed estate in the Veluwezoom region featuring historic buildings and gardens.",
-                  "category": "natural",
-                  "coords": [
-                        6.018136,
-                        52.010231
-                  ]
-            },
-            {
-                  "name": "De Valkenberg",
-                  "text": "A natural area within the Veluwezoom known for its hilly heathland.",
-                  "category": "natural",
-                  "coords": [
-                        6.041286,
-                        52.016053
-                  ]
-            },
-            {
                   "name": "Landgoed Avegoor",
                   "text": "A historic estate in the Veluwezoom, currently used as a hotel and conference center.",
                   "category": "natural",
@@ -1206,15 +1071,6 @@ export const netherlandsReliefV2: POI[] = [
                   "coords": [
                         6.067974,
                         52.034887
-                  ]
-            },
-            {
-                  "name": "Kasteel Middachten",
-                  "text": "A magnificent Baroque castle estate with significant gardens in the Veluwezoom region.",
-                  "category": "castle",
-                  "coords": [
-                        6.069729,
-                        52.019029
                   ]
             },
             {
@@ -1410,15 +1266,6 @@ export const netherlandsReliefV2: POI[] = [
     id: "netherlands-rozenheuvel-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Veluwezoom",
-                  "text": "Der älteste Nationalpark der Niederlande, geprägt von Wäldern, Heideflächen und Sanddünen.",
-                  "category": "natural",
-                  "coords": [
-                        6.010254,
-                        52.051776
-                  ]
-            },
-            {
                   "name": "Landgoed Rhederoord",
                   "text": "Ein historisches Landgut in der Nähe von Rozenheuvel, bekannt für sein Herrenhaus und den Park.",
                   "category": "natural",
@@ -1446,30 +1293,12 @@ export const netherlandsReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Landgoed Avegoor",
-                  "text": "Ein historisches Landgut mit einem markanten Gebäude, das heute als Hotel und Konferenzzentrum dient.",
-                  "category": "natural",
-                  "coords": [
-                        6.083589,
-                        52.029349
-                  ]
-            },
-            {
                   "name": "Hof te Dieren",
                   "text": "Ein ehemaliges Jagdschloss und Landgut der Oranier, heute ein bedeutendes Naturgebiet.",
                   "category": "natural",
                   "coords": [
                         6.074409,
                         52.04963
-                  ]
-            },
-            {
-                  "name": "Middachten",
-                  "text": "Eines der besterhaltenen barocken Landgüter der Niederlande mit beeindruckenden Gärten.",
-                  "category": "natural",
-                  "coords": [
-                        6.067974,
-                        52.034887
                   ]
             },
             {
@@ -1483,15 +1312,6 @@ export const netherlandsReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Veluwezoom",
-                  "text": "Hollandia legrégebbi nemzeti parkja, amelyet erdők, puszták és homokdűnék jellemeznek.",
-                  "category": "natural",
-                  "coords": [
-                        6.010254,
-                        52.051776
-                  ]
-            },
             {
                   "name": "Landgoed Rhederoord",
                   "text": "Történelmi birtok Rozenheuvel közelében, amely kúriájáról és parkjáról ismert.",
@@ -1520,30 +1340,12 @@ export const netherlandsReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Landgoed Avegoor",
-                  "text": "Történelmi birtok jellegzetes épülettel, amely ma szállodaként és konferenciaközpontként működik.",
-                  "category": "natural",
-                  "coords": [
-                        6.083589,
-                        52.029349
-                  ]
-            },
-            {
                   "name": "Hof te Dieren",
                   "text": "Az Orániai-ház egykori vadászkastélya és birtoka, ma jelentős természeti terület.",
                   "category": "natural",
                   "coords": [
                         6.074409,
                         52.04963
-                  ]
-            },
-            {
-                  "name": "Middachten",
-                  "text": "Hollandia egyik legjobb állapotban megőrzött barokk birtoka lenyűgöző kertekkel.",
-                  "category": "natural",
-                  "coords": [
-                        6.067974,
-                        52.034887
                   ]
             },
             {
@@ -1557,15 +1359,6 @@ export const netherlandsReliefV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Veluwezoom",
-                  "text": "Cel mai vechi parc național din Țările de Jos, caracterizat prin păduri, pajiști și dune de nisip.",
-                  "category": "natural",
-                  "coords": [
-                        6.010254,
-                        52.051776
-                  ]
-            },
             {
                   "name": "Landgoed Rhederoord",
                   "text": "O moșie istorică lângă Rozenheuvel, cunoscută pentru conacul și parcul său.",
@@ -1594,30 +1387,12 @@ export const netherlandsReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Landgoed Avegoor",
-                  "text": "O moșie istorică cu o clădire distinctivă care servește astăzi drept hotel și centru de conferințe.",
-                  "category": "natural",
-                  "coords": [
-                        6.083589,
-                        52.029349
-                  ]
-            },
-            {
                   "name": "Hof te Dieren",
                   "text": "Un fost castel de vânătoare și moșie a Casei de Orania, astăzi o zonă naturală importantă.",
                   "category": "natural",
                   "coords": [
                         6.074409,
                         52.04963
-                  ]
-            },
-            {
-                  "name": "Middachten",
-                  "text": "Una dintre cele mai bine conservate moșii baroce din Țările de Jos, cu grădini impresionante.",
-                  "category": "natural",
-                  "coords": [
-                        6.067974,
-                        52.034887
                   ]
             },
             {
@@ -1631,15 +1406,6 @@ export const netherlandsReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Veluwezoom",
-                  "text": "The oldest national park in the Netherlands, characterized by forests, heathlands, and sand dunes.",
-                  "category": "natural",
-                  "coords": [
-                        6.010254,
-                        52.051776
-                  ]
-            },
             {
                   "name": "Landgoed Rhederoord",
                   "text": "A historic estate near Rozenheuvel, known for its manor house and parkland.",
@@ -1668,30 +1434,12 @@ export const netherlandsReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Landgoed Avegoor",
-                  "text": "A historic estate with a striking building that now serves as a hotel and conference center.",
-                  "category": "natural",
-                  "coords": [
-                        6.083589,
-                        52.029349
-                  ]
-            },
-            {
                   "name": "Hof te Dieren",
                   "text": "A former hunting lodge and estate of the House of Orange, now an important natural area.",
                   "category": "natural",
                   "coords": [
                         6.074409,
                         52.04963
-                  ]
-            },
-            {
-                  "name": "Middachten",
-                  "text": "One of the best-preserved baroque estates in the Netherlands with impressive gardens.",
-                  "category": "natural",
-                  "coords": [
-                        6.067974,
-                        52.034887
                   ]
             },
             {
@@ -1977,57 +1725,12 @@ export const netherlandsReliefV2: POI[] = [
     id: "netherlands-schiermonnikoog-dune-top-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Schelpenmuseum Paal 14",
-                  "text": "Ein kleines Museum auf Schiermonnikoog, das eine vielfältige Sammlung von Muscheln und Meeresfunden präsentiert.",
-                  "category": "museum",
-                  "coords": [
-                        6.152157,
-                        53.478866
-                  ]
-            },
-            {
                   "name": "Bunkermuseum Schlei",
                   "text": "Dieses Museum befindet sich in einem ehemaligen Bunker und dokumentiert die lokale Geschichte während des Zweiten Weltkriegs.",
                   "category": "museum",
                   "coords": [
                         6.185761,
                         53.496895
-                  ]
-            },
-            {
-                  "name": "Duinen Schiermonnikoog",
-                  "text": "Ein Naturschutzgebiet, das die charakteristischen Dünenlandschaften und die Flora der Insel Schiermonnikoog schützt.",
-                  "category": "natural",
-                  "coords": [
-                        6.173828,
-                        53.487556
-                  ]
-            },
-            {
-                  "name": "Noordertoren",
-                  "text": "Ein markanter roter Leuchtturm, der ein bekanntes Wahrzeichen auf der Insel Schiermonnikoog ist.",
-                  "category": "landmark",
-                  "coords": [
-                        6.146531,
-                        53.486836
-                  ]
-            },
-            {
-                  "name": "Zuidertoren",
-                  "text": "Ein ehemaliger weißer Leuchtturm auf Schiermonnikoog, der heute als historisches Denkmal dient.",
-                  "category": "landmark",
-                  "coords": [
-                        6.158618,
-                        53.481475
-                  ]
-            },
-            {
-                  "name": "RariteitenKabinet Gribus",
-                  "text": "Ein Kuriositätenkabinett und Museum, das ungewöhnliche Objekte und Raritäten aus verschiedenen Epochen ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        6.155468,
-                        53.486285
                   ]
             },
             {
@@ -2038,27 +1741,9 @@ export const netherlandsReliefV2: POI[] = [
                         6.196973,
                         53.500545
                   ]
-            },
-            {
-                  "name": "Dier- en speelweide 'Witte Winde'",
-                  "text": "Ein kleiner Streichelzoo und Spielbereich, der besonders für Familien mit Kindern geeignet ist.",
-                  "category": "recreational",
-                  "coords": [
-                        6.166555,
-                        53.479425
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Schelpenmuseum Paal 14",
-                  "text": "Egy kis múzeum Schiermonnikoog szigetén, amely kagylók és tengeri leletek változatos gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        6.152157,
-                        53.478866
-                  ]
-            },
             {
                   "name": "Bunkermuseum Schlei",
                   "text": "Ez a múzeum egy egykori bunkerben található, és a második világháború helyi eseményeit dokumentálja.",
@@ -2069,42 +1754,6 @@ export const netherlandsReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Duinen Schiermonnikoog",
-                  "text": "Természetvédelmi terület, amely Schiermonnikoog szigetének jellegzetes dűnéit és növényvilágát őrzi.",
-                  "category": "natural",
-                  "coords": [
-                        6.173828,
-                        53.487556
-                  ]
-            },
-            {
-                  "name": "Noordertoren",
-                  "text": "Egy jellegzetes vörös világítótorony, amely Schiermonnikoog szigetének egyik legismertebb jelképe.",
-                  "category": "landmark",
-                  "coords": [
-                        6.146531,
-                        53.486836
-                  ]
-            },
-            {
-                  "name": "Zuidertoren",
-                  "text": "Egy egykori fehér világítótorony Schiermonnikoog szigetén, amely ma történelmi műemlék.",
-                  "category": "landmark",
-                  "coords": [
-                        6.158618,
-                        53.481475
-                  ]
-            },
-            {
-                  "name": "RariteitenKabinet Gribus",
-                  "text": "Egy különlegességeket bemutató múzeum, amely szokatlan tárgyakat és ritkaságokat tár a látogatók elé.",
-                  "category": "museum",
-                  "coords": [
-                        6.155468,
-                        53.486285
-                  ]
-            },
-            {
                   "name": "Noorderstrand",
                   "text": "Tágas homokos tengerpart Schiermonnikoog északi részén, amely ideális sétákhoz és a természet megfigyeléséhez.",
                   "category": "recreational",
@@ -2112,27 +1761,9 @@ export const netherlandsReliefV2: POI[] = [
                         6.196973,
                         53.500545
                   ]
-            },
-            {
-                  "name": "Dier- en speelweide 'Witte Winde'",
-                  "text": "Egy kis állatsimogató és játszótér, amely különösen gyermekes családok számára ajánlott.",
-                  "category": "recreational",
-                  "coords": [
-                        6.166555,
-                        53.479425
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Schelpenmuseum Paal 14",
-                  "text": "Un mic muzeu pe insula Schiermonnikoog, care prezintă o colecție diversă de scoici și obiecte marine.",
-                  "category": "museum",
-                  "coords": [
-                        6.152157,
-                        53.478866
-                  ]
-            },
             {
                   "name": "Bunkermuseum Schlei",
                   "text": "Acest muzeu este situat într-un fost buncăr și documentează istoria locală din timpul celui de-al Doilea Război Mondial.",
@@ -2143,42 +1774,6 @@ export const netherlandsReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Duinen Schiermonnikoog",
-                  "text": "O rezervație naturală care protejează peisajele dunelor și flora caracteristică insulei Schiermonnikoog.",
-                  "category": "natural",
-                  "coords": [
-                        6.173828,
-                        53.487556
-                  ]
-            },
-            {
-                  "name": "Noordertoren",
-                  "text": "Un far roșu distinctiv, care reprezintă un reper cunoscut pe insula Schiermonnikoog.",
-                  "category": "landmark",
-                  "coords": [
-                        6.146531,
-                        53.486836
-                  ]
-            },
-            {
-                  "name": "Zuidertoren",
-                  "text": "Un fost far alb pe insula Schiermonnikoog, care astăzi servește ca monument istoric.",
-                  "category": "landmark",
-                  "coords": [
-                        6.158618,
-                        53.481475
-                  ]
-            },
-            {
-                  "name": "RariteitenKabinet Gribus",
-                  "text": "Un cabinet de curiozități și muzeu care expune obiecte neobișnuite și rarități din diverse epoci.",
-                  "category": "museum",
-                  "coords": [
-                        6.155468,
-                        53.486285
-                  ]
-            },
-            {
                   "name": "Noorderstrand",
                   "text": "O plajă de nisip întinsă în nordul insulei Schiermonnikoog, ideală pentru plimbări și observarea naturii.",
                   "category": "recreational",
@@ -2186,27 +1781,9 @@ export const netherlandsReliefV2: POI[] = [
                         6.196973,
                         53.500545
                   ]
-            },
-            {
-                  "name": "Dier- en speelweide 'Witte Winde'",
-                  "text": "O mică grădină zoologică cu animale blânde și o zonă de joacă, ideală pentru familiile cu copii.",
-                  "category": "recreational",
-                  "coords": [
-                        6.166555,
-                        53.479425
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Schelpenmuseum Paal 14",
-                  "text": "A small museum on Schiermonnikoog showcasing a diverse collection of shells and marine findings.",
-                  "category": "museum",
-                  "coords": [
-                        6.152157,
-                        53.478866
-                  ]
-            },
             {
                   "name": "Bunkermuseum Schlei",
                   "text": "This museum is located in a former bunker and documents local history during World War II.",
@@ -2217,57 +1794,12 @@ export const netherlandsReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Duinen Schiermonnikoog",
-                  "text": "A nature reserve protecting the characteristic dune landscapes and flora of Schiermonnikoog island.",
-                  "category": "natural",
-                  "coords": [
-                        6.173828,
-                        53.487556
-                  ]
-            },
-            {
-                  "name": "Noordertoren",
-                  "text": "A distinctive red lighthouse that serves as a well-known landmark on Schiermonnikoog island.",
-                  "category": "landmark",
-                  "coords": [
-                        6.146531,
-                        53.486836
-                  ]
-            },
-            {
-                  "name": "Zuidertoren",
-                  "text": "A former white lighthouse on Schiermonnikoog that now serves as a historical monument.",
-                  "category": "landmark",
-                  "coords": [
-                        6.158618,
-                        53.481475
-                  ]
-            },
-            {
-                  "name": "RariteitenKabinet Gribus",
-                  "text": "A cabinet of curiosities and museum exhibiting unusual objects and rarities from various eras.",
-                  "category": "museum",
-                  "coords": [
-                        6.155468,
-                        53.486285
-                  ]
-            },
-            {
                   "name": "Noorderstrand",
                   "text": "A wide sandy beach in the north of Schiermonnikoog, ideal for walks and nature observation.",
                   "category": "recreational",
                   "coords": [
                         6.196973,
                         53.500545
-                  ]
-            },
-            {
-                  "name": "Dier- en speelweide 'Witte Winde'",
-                  "text": "A small petting zoo and play area, particularly suitable for families with children.",
-                  "category": "recreational",
-                  "coords": [
-                        6.166555,
-                        53.479425
                   ]
             }
       ]
@@ -2337,15 +1869,6 @@ export const netherlandsReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maritiem- en Juttersmuseum Flora",
-                  "text": "Ein Museum auf Texel, das Strandgut und die maritime Geschichte der Insel ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        4.771176,
-                        53.072968
-                  ]
-            },
-            {
                   "name": "Fischer’s Weid",
                   "text": "Ein ruhiges Naturschutzgebiet auf Texel, das ein wichtiger Rückzugsort für Vögel ist.",
                   "category": "natural",
@@ -2408,15 +1931,6 @@ export const netherlandsReliefV2: POI[] = [
                   "coords": [
                         4.769166,
                         53.090474
-                  ]
-            },
-            {
-                  "name": "Maritiem- en Juttersmuseum Flora",
-                  "text": "Texeli múzeum, amely a partmenti leleteket és a sziget tengerészeti történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        4.771176,
-                        53.072968
                   ]
             },
             {
@@ -2485,15 +1999,6 @@ export const netherlandsReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Maritiem- en Juttersmuseum Flora",
-                  "text": "Un muzeu de pe Texel care expune obiecte găsite pe plajă și istoria maritimă a insulei.",
-                  "category": "museum",
-                  "coords": [
-                        4.771176,
-                        53.072968
-                  ]
-            },
-            {
                   "name": "Fischer’s Weid",
                   "text": "O rezervație naturală liniștită pe Texel, care este un refugiu important pentru păsări.",
                   "category": "natural",
@@ -2556,15 +2061,6 @@ export const netherlandsReliefV2: POI[] = [
                   "coords": [
                         4.769166,
                         53.090474
-                  ]
-            },
-            {
-                  "name": "Maritiem- en Juttersmuseum Flora",
-                  "text": "A museum on Texel exhibiting beachcombing finds and the island's maritime history.",
-                  "category": "museum",
-                  "coords": [
-                        4.771176,
-                        53.072968
                   ]
             },
             {

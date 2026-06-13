@@ -6,15 +6,6 @@ export const spainNatureV2: POI[] = [
     id: "spain-mulhacen-nature-v2", "sights": {
       "de": [
             {
-                  "name": "La Alcazaba",
-                  "text": "Ein markanter Gipfel in der Sierra Nevada, bekannt für seine beeindruckenden Nordwände.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.301158,
-                        37.067866
-                  ]
-            },
-            {
                   "name": "Pico de Mulhacén",
                   "text": "Der höchste Berg der Iberischen Halbinsel und des spanischen Festlands.",
                   "category": "landmark",
@@ -25,15 +16,6 @@ export const spainNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "La Alcazaba",
-                  "text": "A Sierra Nevada egyik jellegzetes csúcsa, amely lenyűgöző északi falairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.301158,
-                        37.067866
-                  ]
-            },
             {
                   "name": "Pico de Mulhacén",
                   "text": "Az Ibériai-félsziget és a spanyol szárazföld legmagasabb hegycsúcsa.",
@@ -46,15 +28,6 @@ export const spainNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "La Alcazaba",
-                  "text": "Un vârf proeminent din Sierra Nevada, cunoscut pentru versanții săi nordici spectaculoși.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.301158,
-                        37.067866
-                  ]
-            },
-            {
                   "name": "Pico de Mulhacén",
                   "text": "Cel mai înalt munte din Peninsula Iberică și din Spania continentală.",
                   "category": "landmark",
@@ -65,15 +38,6 @@ export const spainNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "La Alcazaba",
-                  "text": "A prominent peak in the Sierra Nevada, known for its impressive north faces.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.301158,
-                        37.067866
-                  ]
-            },
             {
                   "name": "Pico de Mulhacén",
                   "text": "The highest mountain on the Iberian Peninsula and mainland Spain.",
@@ -134,39 +98,12 @@ export const spainNatureV2: POI[] = [
     id: "spain-picos-de-europa-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Parque Nacional de Picos de Europa",
-                  "text": "Spaniens erster Nationalpark mit markanten Kalksteingipfel.",
-                  "category": "natural",
-                  "coords": [
-                        -4.881106,
-                        43.196134
-                  ]
-            },
-            {
                   "name": "Pico Tesorero",
                   "text": "Berggipfel im Picos de Europa, an dem die Grenzen von Kantabrien, Asturien und León zusammentreffen.",
                   "category": "landmark",
                   "coords": [
                         -4.841022,
                         43.180779
-                  ]
-            },
-            {
-                  "name": "Picu Urriellu",
-                  "text": "Bekannter Kalksteingipfel, auch als Naranjo de Bulnes bekannt.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.817702,
-                        43.200834
-                  ]
-            },
-            {
-                  "name": "Peña Vieja",
-                  "text": "Der höchste Berggipfel, der vollständig in der Region Kantabrien liegt.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.810097,
-                        43.174037
                   ]
             },
             {
@@ -208,39 +145,12 @@ export const spainNatureV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Parque Nacional de Picos de Europa",
-                  "text": "Spanyolország első nemzeti parkja látványos mészkőcsúcsokkal.",
-                  "category": "natural",
-                  "coords": [
-                        -4.881106,
-                        43.196134
-                  ]
-            },
-            {
                   "name": "Pico Tesorero",
                   "text": "Hegycsúcs, ahol Kantábria, Asztúria és León határai találkoznak.",
                   "category": "landmark",
                   "coords": [
                         -4.841022,
                         43.180779
-                  ]
-            },
-            {
-                  "name": "Picu Urriellu",
-                  "text": "Híres mészkőcsúcs, más néven Naranjo de Bulnes.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.817702,
-                        43.200834
-                  ]
-            },
-            {
-                  "name": "Peña Vieja",
-                  "text": "A legmagasabb hegycsúcs teljes egészében Kantábria régióban.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.810097,
-                        43.174037
                   ]
             },
             {
@@ -282,39 +192,12 @@ export const spainNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Parque Nacional de Picos de Europa",
-                  "text": "Primul parc național al Spaniei, caracterizat prin vârfuri dramatice de calcar.",
-                  "category": "natural",
-                  "coords": [
-                        -4.881106,
-                        43.196134
-                  ]
-            },
-            {
                   "name": "Pico Tesorero",
                   "text": "Vârf muntos unde se întâlnesc granițele regiunilor Cantabria, Asturia și León.",
                   "category": "landmark",
                   "coords": [
                         -4.841022,
                         43.180779
-                  ]
-            },
-            {
-                  "name": "Picu Urriellu",
-                  "text": "Un faimos vârf de calcar, cunoscut și sub numele de Naranjo de Bulnes.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.817702,
-                        43.200834
-                  ]
-            },
-            {
-                  "name": "Peña Vieja",
-                  "text": "Cel mai înalt vârf muntos situat în întregime în regiunea Cantabria.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.810097,
-                        43.174037
                   ]
             },
             {
@@ -356,39 +239,12 @@ export const spainNatureV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Picos de Europa National Park",
-                  "text": "Spain's first national park, featuring dramatic limestone peaks.",
-                  "category": "natural",
-                  "coords": [
-                        -4.881106,
-                        43.196134
-                  ]
-            },
-            {
                   "name": "Pico Tesorero",
                   "text": "Peak in the Picos de Europa where the borders of Cantabria, Asturias, and León meet.",
                   "category": "landmark",
                   "coords": [
                         -4.841022,
                         43.180779
-                  ]
-            },
-            {
-                  "name": "Picu Urriellu",
-                  "text": "Famous limestone peak, also known as Naranjo de Bulnes.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.817702,
-                        43.200834
-                  ]
-            },
-            {
-                  "name": "Peña Vieja",
-                  "text": "The highest mountain peak entirely within the Cantabria region.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.810097,
-                        43.174037
                   ]
             },
             {
@@ -1874,33 +1730,6 @@ export const spainNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tuca de Tempestats / Tuca Gran de Llosás",
-                  "text": "Ein hoher Gipfel im Maladeta-Massiv in den zentralen Pyrenäen.",
-                  "category": "landmark",
-                  "coords": [
-                        0.662767,
-                        42.626113
-                  ]
-            },
-            {
-                  "name": "Tuca d'el Cabo de Barrancs",
-                  "text": "Spitzer Gipfel im Posets-Maladeta-Massiv nahe dem Aneto.",
-                  "category": "landmark",
-                  "coords": [
-                        0.665924,
-                        42.624453
-                  ]
-            },
-            {
-                  "name": "Tuc de Molières",
-                  "text": "Ein Gebirgsgipfel an der Grenze zwischen Spanien und Frankreich in den Pyrenäen.",
-                  "category": "landmark",
-                  "coords": [
-                        0.698565,
-                        42.629471
-                  ]
-            },
-            {
                   "name": "Tuca de Corones",
                   "text": "Dreitausender im Pyrenäen-Hauptkamm nahe dem Aneto-Gletscher.",
                   "category": "landmark",
@@ -1916,15 +1745,6 @@ export const spainNatureV2: POI[] = [
                   "coords": [
                         0.640276,
                         42.646432
-                  ]
-            },
-            {
-                  "name": "Tuca d'el Cap de la Vall",
-                  "text": "Gipfel mit Aussicht auf den zentralen Pyrenäenkamm und das Maladeta-Massiv.",
-                  "category": "landmark",
-                  "coords": [
-                        0.670552,
-                        42.61852
                   ]
             },
             {
@@ -1948,33 +1768,6 @@ export const spainNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tuca de Tempestats / Tuca Gran de Llosás",
-                  "text": "Magas hegycsúcs a központi Pireneusok Maladeta-masszívumában.",
-                  "category": "landmark",
-                  "coords": [
-                        0.662767,
-                        42.626113
-                  ]
-            },
-            {
-                  "name": "Tuca d'el Cabo de Barrancs",
-                  "text": "Hegyes csúcs a Posets-Maladeta-hegységben az Aneto közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        0.665924,
-                        42.624453
-                  ]
-            },
-            {
-                  "name": "Tuc de Molières",
-                  "text": "Hegycsúcs a spanyol-francia határon, a Pireneusokban.",
-                  "category": "landmark",
-                  "coords": [
-                        0.698565,
-                        42.629471
-                  ]
-            },
-            {
                   "name": "Tuca de Corones",
                   "text": "Háromezres a Pireneusok főgerincén az Aneto-gleccser közelében.",
                   "category": "landmark",
@@ -1990,15 +1783,6 @@ export const spainNatureV2: POI[] = [
                   "coords": [
                         0.640276,
                         42.646432
-                  ]
-            },
-            {
-                  "name": "Tuca d'el Cap de la Vall",
-                  "text": "Csúcs kilátással a központi Pireneusok gerincére és a Maladeta-hegységre.",
-                  "category": "landmark",
-                  "coords": [
-                        0.670552,
-                        42.61852
                   ]
             },
             {
@@ -2022,33 +1806,6 @@ export const spainNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tuca de Tempestats / Tuca Gran de Llosás",
-                  "text": "Un vârf înalt din masivul Maladeta în Pirineii Centrali.",
-                  "category": "landmark",
-                  "coords": [
-                        0.662767,
-                        42.626113
-                  ]
-            },
-            {
-                  "name": "Tuca d'el Cabo de Barrancs",
-                  "text": "Vârf ascuțit în masivul Posets-Maladeta lângă Aneto.",
-                  "category": "landmark",
-                  "coords": [
-                        0.665924,
-                        42.624453
-                  ]
-            },
-            {
-                  "name": "Tuc de Molières",
-                  "text": "Un vârf muntos situat la granița dintre Spania și Franța în Pirinei.",
-                  "category": "landmark",
-                  "coords": [
-                        0.698565,
-                        42.629471
-                  ]
-            },
-            {
                   "name": "Tuca de Corones",
                   "text": "Vârf de peste 3000 m pe creasta principală a Pirineilor lângă ghețarul Aneto.",
                   "category": "landmark",
@@ -2064,15 +1821,6 @@ export const spainNatureV2: POI[] = [
                   "coords": [
                         0.640276,
                         42.646432
-                  ]
-            },
-            {
-                  "name": "Tuca d'el Cap de la Vall",
-                  "text": "Vârf cu vedere spre creasta centrală a Pirineilor și masivul Maladeta.",
-                  "category": "landmark",
-                  "coords": [
-                        0.670552,
-                        42.61852
                   ]
             },
             {
@@ -2096,33 +1844,6 @@ export const spainNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tuca de Tempestats / Tuca Gran de Llosás",
-                  "text": "A high peak in the Maladeta massif in the Central Pyrenees.",
-                  "category": "landmark",
-                  "coords": [
-                        0.662767,
-                        42.626113
-                  ]
-            },
-            {
-                  "name": "Tuca d'el Cabo de Barrancs",
-                  "text": "Sharp peak in the Posets-Maladeta massif near Aneto.",
-                  "category": "landmark",
-                  "coords": [
-                        0.665924,
-                        42.624453
-                  ]
-            },
-            {
-                  "name": "Tuc de Molières",
-                  "text": "A mountain peak on the border between Spain and France in the Pyrenees.",
-                  "category": "landmark",
-                  "coords": [
-                        0.698565,
-                        42.629471
-                  ]
-            },
-            {
                   "name": "Tuca de Corones",
                   "text": "3000-metre peak on the main Pyrenean ridge near the Aneto glacier.",
                   "category": "landmark",
@@ -2138,15 +1859,6 @@ export const spainNatureV2: POI[] = [
                   "coords": [
                         0.640276,
                         42.646432
-                  ]
-            },
-            {
-                  "name": "Tuca d'el Cap de la Vall",
-                  "text": "Peak with views of the central Pyrenean ridge and the Maladeta massif.",
-                  "category": "landmark",
-                  "coords": [
-                        0.670552,
-                        42.61852
                   ]
             },
             {
@@ -2225,51 +1937,6 @@ export const spainNatureV2: POI[] = [
                         -3.92178,
                         40.858439
                   ]
-            },
-            {
-                  "name": "Reserva natural de anfibios",
-                  "text": "Ein spezielles Naturschutzgebiet in der Sierra de Guadarrama zum Schutz lokaler Amphibienarten.",
-                  "category": "natural",
-                  "coords": [
-                        -3.957693,
-                        40.826211
-                  ]
-            },
-            {
-                  "name": "Cabeza Mediana",
-                  "text": "Ein Berggipfel in der Sierra de Guadarrama, der beliebte Wanderwege und Panoramablicke bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.90705,
-                        40.844791
-                  ]
-            },
-            {
-                  "name": "Peñalara",
-                  "text": "Peñalara ist der höchste Berggipfel in der Sierra de Guadarrama.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.956067,
-                        40.850037
-                  ]
-            },
-            {
-                  "name": "Risco de los Claveles",
-                  "text": "Granitfelsen in der Sierra de Guadarrama mit Kletterrouten.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.952329,
-                        40.855121
-                  ]
-            },
-            {
-                  "name": "Risco de los Pájaros",
-                  "text": "Risco de los Pájaros ist ein malerischer Gipfel im Gebirge der Sierra de Guadarrama.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.950735,
-                        40.859842
-                  ]
             }
       ],
       "hu": [
@@ -2289,51 +1956,6 @@ export const spainNatureV2: POI[] = [
                   "coords": [
                         -3.92178,
                         40.858439
-                  ]
-            },
-            {
-                  "name": "Reserva natural de anfibios",
-                  "text": "Különleges természetvédelmi terület a Sierra de Guadarramában a helyi kétéltűfajok védelmére.",
-                  "category": "natural",
-                  "coords": [
-                        -3.957693,
-                        40.826211
-                  ]
-            },
-            {
-                  "name": "Cabeza Mediana",
-                  "text": "Hegycsúcs a Sierra de Guadarramában, amely népszerű túraútvonalakat és panorámás kilátást kínál.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.90705,
-                        40.844791
-                  ]
-            },
-            {
-                  "name": "Peñalara",
-                  "text": "A Peñalara a Sierra de Guadarrama hegység legmagasabb csúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.956067,
-                        40.850037
-                  ]
-            },
-            {
-                  "name": "Risco de los Claveles",
-                  "text": "Gránitszikla a Sierra de Guadarramában mászóutakkal.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.952329,
-                        40.855121
-                  ]
-            },
-            {
-                  "name": "Risco de los Pájaros",
-                  "text": "A Risco de los Pájaros egy festői hegycsúcs a Sierra de Guadarrama-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.950735,
-                        40.859842
                   ]
             }
       ],
@@ -2355,51 +1977,6 @@ export const spainNatureV2: POI[] = [
                         -3.92178,
                         40.858439
                   ]
-            },
-            {
-                  "name": "Reserva natural de anfibios",
-                  "text": "O rezervație naturală specială în Sierra de Guadarrama pentru protejarea speciilor locale de amfibieni.",
-                  "category": "natural",
-                  "coords": [
-                        -3.957693,
-                        40.826211
-                  ]
-            },
-            {
-                  "name": "Cabeza Mediana",
-                  "text": "Un vârf montan din Sierra de Guadarrama, oferind trasee de drumeție populare și vederi panoramice.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.90705,
-                        40.844791
-                  ]
-            },
-            {
-                  "name": "Peñalara",
-                  "text": "Peñalara este cel mai înalt vârf muntos din lanțul Sierra de Guadarrama.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.956067,
-                        40.850037
-                  ]
-            },
-            {
-                  "name": "Risco de los Claveles",
-                  "text": "Stâncă de granit în Sierra de Guadarrama cu trasee de cățărare.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.952329,
-                        40.855121
-                  ]
-            },
-            {
-                  "name": "Risco de los Pájaros",
-                  "text": "Risco de los Pájaros este un vârf pitoresc situat în munții Sierra de Guadarrama.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.950735,
-                        40.859842
-                  ]
             }
       ],
       "en": [
@@ -2419,51 +1996,6 @@ export const spainNatureV2: POI[] = [
                   "coords": [
                         -3.92178,
                         40.858439
-                  ]
-            },
-            {
-                  "name": "Reserva natural de anfibios",
-                  "text": "A special nature reserve in the Sierra de Guadarrama for the protection of local amphibian species.",
-                  "category": "natural",
-                  "coords": [
-                        -3.957693,
-                        40.826211
-                  ]
-            },
-            {
-                  "name": "Cabeza Mediana",
-                  "text": "A mountain peak in the Sierra de Guadarrama offering popular hiking trails and panoramic views.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.90705,
-                        40.844791
-                  ]
-            },
-            {
-                  "name": "Peñalara",
-                  "text": "Peñalara is the highest mountain peak in the Sierra de Guadarrama range.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.956067,
-                        40.850037
-                  ]
-            },
-            {
-                  "name": "Risco de los Claveles",
-                  "text": "Granite rock formation in the Sierra de Guadarrama with climbing routes.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.952329,
-                        40.855121
-                  ]
-            },
-            {
-                  "name": "Risco de los Pájaros",
-                  "text": "Risco de los Pájaros is a scenic peak located in the Sierra de Guadarrama mountains.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.950735,
-                        40.859842
                   ]
             }
       ]
@@ -2825,15 +2357,6 @@ export const spainNatureV2: POI[] = [
     id: "spain-islas-atlanticas-nature-v2", "sights": {
       "de": [
             {
-                  "name": "O Farol do Peito",
-                  "text": "Ein Leuchtturm im Nationalpark Islas Atlánticas de Galicia.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.903153,
-                        42.243208
-                  ]
-            },
-            {
                   "name": "O Farol de Sías",
                   "text": "Ein Navigationsleuchtturm im Nationalpark Islas Atlánticas de Galicia.",
                   "category": "landmark",
@@ -2898,15 +2421,6 @@ export const spainNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "O Farol do Peito",
-                  "text": "Világítótorony a Galíciai Atlanti-szigetek Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.903153,
-                        42.243208
-                  ]
-            },
             {
                   "name": "O Farol de Sías",
                   "text": "Hajózási világítótorony a Galíciai Atlanti-szigetek Nemzeti Parkban.",
@@ -2973,15 +2487,6 @@ export const spainNatureV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "O Farol do Peito",
-                  "text": "Un far situat în Parcul Național Insulele Atlantice ale Galiciei.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.903153,
-                        42.243208
-                  ]
-            },
-            {
                   "name": "O Farol de Sías",
                   "text": "Un far de navigație situat în Parcul Național Insulele Atlantice ale Galiciei.",
                   "category": "landmark",
@@ -3046,15 +2551,6 @@ export const spainNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "O Farol do Peito",
-                  "text": "A lighthouse located within the Atlantic Islands of Galicia National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.903153,
-                        42.243208
-                  ]
-            },
             {
                   "name": "O Farol de Sías",
                   "text": "A navigational lighthouse situated in the Atlantic Islands of Galicia National Park.",
@@ -4021,15 +3517,6 @@ export const spainNatureV2: POI[] = [
     id: "spain-montserrat-nature-v2", "sights": {
       "de": [
             {
-                  "name": "Museu de Montserrat",
-                  "text": "Ein bedeutendes Kunstmuseum mit Werken von Caravaggio, Picasso und Dalí.",
-                  "category": "museum",
-                  "coords": [
-                        1.836196,
-                        41.592938
-                  ]
-            },
-            {
                   "name": "Parc Natural de la Muntanya de Montserrat",
                   "text": "Ein geschützter Gebirgspark, der für seine einzigartigen Felsformationen bekannt ist.",
                   "category": "natural",
@@ -4057,24 +3544,6 @@ export const spainNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palau prioral de Monistrol",
-                  "text": "Ein historisches Palastgebäude, das heute als Museum dient.",
-                  "category": "museum",
-                  "coords": [
-                        1.84563,
-                        41.610586
-                  ]
-            },
-            {
-                  "name": "Museu del Cremallera",
-                  "text": "Ein Museum, das die Geschichte der örtlichen Zahnradbahn dokumentiert.",
-                  "category": "museum",
-                  "coords": [
-                        1.84397,
-                        41.615298
-                  ]
-            },
-            {
                   "name": "Ermita de Santa Anna",
                   "text": "Einsiedelei auf dem Montserrat-Berg, der heiligen Anna gewidmet, mit Aussicht.",
                   "category": "historical",
@@ -4094,15 +3563,6 @@ export const spainNatureV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Museu de Montserrat",
-                  "text": "Jelentős művészeti múzeum, ahol Caravaggio, Picasso és Dalí művei is láthatók.",
-                  "category": "museum",
-                  "coords": [
-                        1.836196,
-                        41.592938
-                  ]
-            },
             {
                   "name": "Parc Natural de la Muntanya de Montserrat",
                   "text": "Védett hegyi park, amely egyedülálló sziklaalakzatairól ismert.",
@@ -4131,24 +3591,6 @@ export const spainNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palau prioral de Monistrol",
-                  "text": "Történelmi palotaépület, amely ma múzeumként működik.",
-                  "category": "museum",
-                  "coords": [
-                        1.84563,
-                        41.610586
-                  ]
-            },
-            {
-                  "name": "Museu del Cremallera",
-                  "text": "A helyi fogaskerekű vasút történetét dokumentáló múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        1.84397,
-                        41.615298
-                  ]
-            },
-            {
                   "name": "Ermita de Santa Anna",
                   "text": "Remetelak a Montserrat-hegyen, Szent Annának szentelve, kilátással.",
                   "category": "historical",
@@ -4168,15 +3610,6 @@ export const spainNatureV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Museu de Montserrat",
-                  "text": "Un muzeu de artă important care expune lucrări de Caravaggio, Picasso și Dalí.",
-                  "category": "museum",
-                  "coords": [
-                        1.836196,
-                        41.592938
-                  ]
-            },
             {
                   "name": "Parc Natural de la Muntanya de Montserrat",
                   "text": "Un parc montan protejat, cunoscut pentru formațiunile sale stâncoase unice.",
@@ -4205,24 +3638,6 @@ export const spainNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Palau prioral de Monistrol",
-                  "text": "O clădire istorică de palat care servește astăzi ca muzeu.",
-                  "category": "museum",
-                  "coords": [
-                        1.84563,
-                        41.610586
-                  ]
-            },
-            {
-                  "name": "Museu del Cremallera",
-                  "text": "Un muzeu care documentează istoria căii ferate locale cu cremalieră.",
-                  "category": "museum",
-                  "coords": [
-                        1.84397,
-                        41.615298
-                  ]
-            },
-            {
                   "name": "Ermita de Santa Anna",
                   "text": "Schit pe muntele Montserrat, dedicat Sfintei Ana, cu vedere panoramică.",
                   "category": "historical",
@@ -4242,15 +3657,6 @@ export const spainNatureV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Museum of Montserrat",
-                  "text": "A major art museum featuring works by Caravaggio, Picasso, and Dalí.",
-                  "category": "museum",
-                  "coords": [
-                        1.836196,
-                        41.592938
-                  ]
-            },
             {
                   "name": "Parc Natural de la Muntanya de Montserrat",
                   "text": "A protected mountain park known for its unique rock formations.",
@@ -4276,24 +3682,6 @@ export const spainNatureV2: POI[] = [
                   "coords": [
                         1.82785,
                         41.570632
-                  ]
-            },
-            {
-                  "name": "Palau prioral de Monistrol",
-                  "text": "A historical palace building that now serves as a museum.",
-                  "category": "museum",
-                  "coords": [
-                        1.84563,
-                        41.610586
-                  ]
-            },
-            {
-                  "name": "Museu del Cremallera",
-                  "text": "A museum documenting the history of the local rack railway.",
-                  "category": "museum",
-                  "coords": [
-                        1.84397,
-                        41.615298
                   ]
             },
             {
@@ -4861,69 +4249,6 @@ export const spainNatureV2: POI[] = [
                         0.938999,
                         42.569485
                   ]
-            },
-            {
-                  "name": "Pic de la Tallada Llarga",
-                  "text": "Ein Gipfel im Nationalpark Aigüestortes, der Wanderern Panoramablicke über die Pyrenäen bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        0.9088,
-                        42.607825
-                  ]
-            },
-            {
-                  "name": "Tuc Blanc",
-                  "text": "Ein Berggipfel im Nationalpark Aigüestortes i Estany de Sant Maurici in den Pyrenäen.",
-                  "category": "landmark",
-                  "coords": [
-                        0.930525,
-                        42.591016
-                  ]
-            },
-            {
-                  "name": "Gran Tuc de Colomèrs",
-                  "text": "Ein markanter Berggipfel im Nationalpark Aigüestortes in den spanischen Pyrenäen.",
-                  "category": "landmark",
-                  "coords": [
-                        0.937814,
-                        42.589392
-                  ]
-            },
-            {
-                  "name": "Cap de la Pala Alta d’Estany Llong",
-                  "text": "Ein Gipfel im Nationalpark Aigüestortes, der einen weiten Blick über die Berglandschaft bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        0.94182,
-                        42.581843
-                  ]
-            },
-            {
-                  "name": "Tossal Esbonllat",
-                  "text": "Ein Berggipfel in der Region des Nationalparks Aigüestortes i Estany de Sant Maurici.",
-                  "category": "landmark",
-                  "coords": [
-                        0.946392,
-                        42.57985
-                  ]
-            },
-            {
-                  "name": "Tuc del Bergús",
-                  "text": "Ein Pyrenäengipfel im Nationalpark Aigüestortes i Estany de Sant Maurici.",
-                  "category": "landmark",
-                  "coords": [
-                        0.952815,
-                        42.594228
-                  ]
-            },
-            {
-                  "name": "Tuc de Ratera",
-                  "text": "Ein Berggipfel im Nationalpark Aigüestortes, bekannt für seine alpine Umgebung.",
-                  "category": "landmark",
-                  "coords": [
-                        0.953401,
-                        42.60135
-                  ]
             }
       ],
       "hu": [
@@ -4934,69 +4259,6 @@ export const spainNatureV2: POI[] = [
                   "coords": [
                         0.938999,
                         42.569485
-                  ]
-            },
-            {
-                  "name": "Pic de la Tallada Llarga",
-                  "text": "Az Aigüestortes Nemzeti Park egyik csúcsa, amely panorámás kilátást nyújt a túrázóknak a Pireneusokra.",
-                  "category": "landmark",
-                  "coords": [
-                        0.9088,
-                        42.607825
-                  ]
-            },
-            {
-                  "name": "Tuc Blanc",
-                  "text": "Egy hegycsúcs az Aigüestortes i Estany de Sant Maurici Nemzeti Parkban a Pireneusokban.",
-                  "category": "landmark",
-                  "coords": [
-                        0.930525,
-                        42.591016
-                  ]
-            },
-            {
-                  "name": "Gran Tuc de Colomèrs",
-                  "text": "Egy jellegzetes hegycsúcs az Aigüestortes Nemzeti Parkban, a spanyol Pireneusokban.",
-                  "category": "landmark",
-                  "coords": [
-                        0.937814,
-                        42.589392
-                  ]
-            },
-            {
-                  "name": "Cap de la Pala Alta d’Estany Llong",
-                  "text": "Az Aigüestortes Nemzeti Park egyik csúcsa, amely széles kilátást nyújt a hegyi tájra.",
-                  "category": "landmark",
-                  "coords": [
-                        0.94182,
-                        42.581843
-                  ]
-            },
-            {
-                  "name": "Tossal Esbonllat",
-                  "text": "Egy hegycsúcs az Aigüestortes i Estany de Sant Maurici Nemzeti Park területén.",
-                  "category": "landmark",
-                  "coords": [
-                        0.946392,
-                        42.57985
-                  ]
-            },
-            {
-                  "name": "Tuc del Bergús",
-                  "text": "Egy pireneusi hegycsúcs az Aigüestortes i Estany de Sant Maurici Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        0.952815,
-                        42.594228
-                  ]
-            },
-            {
-                  "name": "Tuc de Ratera",
-                  "text": "Egy hegycsúcs az Aigüestortes Nemzeti Parkban, amely alpesi környezetéről ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        0.953401,
-                        42.60135
                   ]
             }
       ],
@@ -5009,69 +4271,6 @@ export const spainNatureV2: POI[] = [
                         0.938999,
                         42.569485
                   ]
-            },
-            {
-                  "name": "Pic de la Tallada Llarga",
-                  "text": "Un vârf din Parcul Național Aigüestortes, care oferă drumeților vederi panoramice asupra Pirineilor.",
-                  "category": "landmark",
-                  "coords": [
-                        0.9088,
-                        42.607825
-                  ]
-            },
-            {
-                  "name": "Tuc Blanc",
-                  "text": "Un vârf montan în Parcul Național Aigüestortes din Pirinei.",
-                  "category": "landmark",
-                  "coords": [
-                        0.930525,
-                        42.591016
-                  ]
-            },
-            {
-                  "name": "Gran Tuc de Colomèrs",
-                  "text": "Un vârf montan proeminent în Parcul Național Aigüestortes din Pirineii spanioli.",
-                  "category": "landmark",
-                  "coords": [
-                        0.937814,
-                        42.589392
-                  ]
-            },
-            {
-                  "name": "Cap de la Pala Alta d’Estany Llong",
-                  "text": "Un vârf în Parcul Național Aigüestortes, oferind o vedere panoramică asupra peisajului montan.",
-                  "category": "landmark",
-                  "coords": [
-                        0.94182,
-                        42.581843
-                  ]
-            },
-            {
-                  "name": "Tossal Esbonllat",
-                  "text": "Un vârf de munte situat în regiunea Parcului Național Aigüestortes.",
-                  "category": "landmark",
-                  "coords": [
-                        0.946392,
-                        42.57985
-                  ]
-            },
-            {
-                  "name": "Tuc del Bergús",
-                  "text": "Un vârf din Pirinei situat în Parcul Național Aigüestortes.",
-                  "category": "landmark",
-                  "coords": [
-                        0.952815,
-                        42.594228
-                  ]
-            },
-            {
-                  "name": "Tuc de Ratera",
-                  "text": "Un vârf montan în Parcul Național Aigüestortes, cunoscut pentru mediul său alpin.",
-                  "category": "landmark",
-                  "coords": [
-                        0.953401,
-                        42.60135
-                  ]
             }
       ],
       "en": [
@@ -5082,69 +4281,6 @@ export const spainNatureV2: POI[] = [
                   "coords": [
                         0.938999,
                         42.569485
-                  ]
-            },
-            {
-                  "name": "Pic de la Tallada Llarga",
-                  "text": "A peak in the Aigüestortes National Park, offering hikers panoramic views over the Pyrenees.",
-                  "category": "landmark",
-                  "coords": [
-                        0.9088,
-                        42.607825
-                  ]
-            },
-            {
-                  "name": "Tuc Blanc",
-                  "text": "A mountain peak located in the Aigüestortes National Park in the Pyrenees.",
-                  "category": "landmark",
-                  "coords": [
-                        0.930525,
-                        42.591016
-                  ]
-            },
-            {
-                  "name": "Gran Tuc de Colomèrs",
-                  "text": "A prominent mountain peak in the Aigüestortes National Park in the Spanish Pyrenees.",
-                  "category": "landmark",
-                  "coords": [
-                        0.937814,
-                        42.589392
-                  ]
-            },
-            {
-                  "name": "Cap de la Pala Alta d’Estany Llong",
-                  "text": "A peak in the Aigüestortes National Park, offering views over the mountainous landscape.",
-                  "category": "landmark",
-                  "coords": [
-                        0.94182,
-                        42.581843
-                  ]
-            },
-            {
-                  "name": "Tossal Esbonllat",
-                  "text": "A mountain peak located in the Aigüestortes National Park region.",
-                  "category": "landmark",
-                  "coords": [
-                        0.946392,
-                        42.57985
-                  ]
-            },
-            {
-                  "name": "Tuc del Bergús",
-                  "text": "A Pyrenean peak located in the Aigüestortes National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        0.952815,
-                        42.594228
-                  ]
-            },
-            {
-                  "name": "Tuc de Ratera",
-                  "text": "A mountain peak in the Aigüestortes National Park, known for its alpine environment.",
-                  "category": "landmark",
-                  "coords": [
-                        0.953401,
-                        42.60135
                   ]
             }
       ]
@@ -5297,24 +4433,6 @@ export const spainNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo del Puro Palmero",
-                  "text": "Das Museo del Puro Palmero beleuchtet die traditionsreiche Handwerkskunst der Zigarren- und Tabakherstellung auf La Palma.",
-                  "category": "museum",
-                  "coords": [
-                        -17.78734,
-                        28.667423
-                  ]
-            },
-            {
-                  "name": "Ermita Nuestra Señora de la Concepción",
-                  "text": "Die Ermita Nuestra Señora de la Concepción ist eine malerische religiöse Einsiedelei inmitten der landschaftlichen Idylle von La Palma.",
-                  "category": "religious",
-                  "coords": [
-                        -17.779338,
-                        28.67459
-                  ]
-            },
-            {
                   "name": "Ermita de la Virgen del Pino",
                   "text": "Die Ermita de la Virgen del Pino ist ein verehrter Schrein, der sich in der Nähe einer berühmten, alten Kiefer in El Paso befindet.",
                   "category": "religious",
@@ -5369,15 +4487,6 @@ export const spainNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mirador de la Concepción",
-                  "text": "Der Mirador de la Concepción bietet von einem hohen vulkanischen Aussichtspunkt atemberaubende Ausblicke auf Santa Cruz de La Palma.",
-                  "category": "natural",
-                  "coords": [
-                        -17.778319,
-                        28.673572
-                  ]
-            },
-            {
                   "name": "Parque Antonio Gómez Felipe",
                   "text": "Der Parque Antonio Gómez Felipe ist ein botanischer Park, der für seine einzigartige vulkanische Landschaftsgestaltung und endemische Flora bekannt ist.",
                   "category": "park",
@@ -5402,15 +4511,6 @@ export const spainNatureV2: POI[] = [
                   "coords": [
                         -17.94679,
                         28.650916
-                  ]
-            },
-            {
-                  "name": "Maroparque",
-                  "text": "Der Maroparque ist ein Zoo zur Rettung exotischer Tiere, der an den steilen Hängen einer grünen Schlucht auf La Palma erbaut wurde.",
-                  "category": "recreational",
-                  "coords": [
-                        -17.778308,
-                        28.682127
                   ]
             },
             {
@@ -5623,24 +4723,6 @@ export const spainNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo del Puro Palmero",
-                  "text": "A Museo del Puro Palmero a sziget nagy múltra visszatekintő kézműves dohány- és szivarkészítési hagyományait emeli ki.",
-                  "category": "museum",
-                  "coords": [
-                        -17.78734,
-                        28.667423
-                  ]
-            },
-            {
-                  "name": "Ermita Nuestra Señora de la Concepción",
-                  "text": "Az Ermita Nuestra Señora de la Concepción egy festői kis vallási remetelak La Palma lenyűgöző tájain.",
-                  "category": "religious",
-                  "coords": [
-                        -17.779338,
-                        28.67459
-                  ]
-            },
-            {
                   "name": "Ermita de la Virgen del Pino",
                   "text": "Az Ermita de la Virgen del Pino egy tisztelt szentély, amely egy híres, ősi fenyőfa közelében található El Paso településen.",
                   "category": "religious",
@@ -5695,15 +4777,6 @@ export const spainNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mirador de la Concepción",
-                  "text": "A Mirador de la Concepción lenyűgöző panorámát nyújt egy vulkanikus magaslati pontról, ahonnan Santa Cruz de La Palma városára lehet rálátni.",
-                  "category": "natural",
-                  "coords": [
-                        -17.778319,
-                        28.673572
-                  ]
-            },
-            {
                   "name": "Parque Antonio Gómez Felipe",
                   "text": "A Parque Antonio Gómez Felipe egy botanikus park, amely egyedi vulkanikus tájképéről és endemikus növényvilágáról ismert.",
                   "category": "park",
@@ -5728,15 +4801,6 @@ export const spainNatureV2: POI[] = [
                   "coords": [
                         -17.94679,
                         28.650916
-                  ]
-            },
-            {
-                  "name": "Maroparque",
-                  "text": "A Maroparque egy egzotikus állatmentő központ és állatkert, amely egy buja szurdok meredek lejtőire épült La Palmán.",
-                  "category": "recreational",
-                  "coords": [
-                        -17.778308,
-                        28.682127
                   ]
             },
             {
@@ -5949,24 +5013,6 @@ export const spainNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo del Puro Palmero",
-                  "text": "Museo del Puro Palmero evidențiază tradiția îndelungată a insulei în producția artizanală de trabucuri și tutun.",
-                  "category": "museum",
-                  "coords": [
-                        -17.78734,
-                        28.667423
-                  ]
-            },
-            {
-                  "name": "Ermita Nuestra Señora de la Concepción",
-                  "text": "Ermita Nuestra Señora de la Concepción este un schit religios pitoresc cuibărit în peisajele pitorești din La Palma.",
-                  "category": "religious",
-                  "coords": [
-                        -17.779338,
-                        28.67459
-                  ]
-            },
-            {
                   "name": "Ermita de la Virgen del Pino",
                   "text": "Ermita de la Virgen del Pino este un altar venerat situat lângă un faimos și antic pin din El Paso.",
                   "category": "religious",
@@ -6021,15 +5067,6 @@ export const spainNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mirador de la Concepción",
-                  "text": "Mirador de la Concepción oferă vederi panoramice uimitoare dintr-un punct de observație vulcanic înalt cu vedere la Santa Cruz de La Palma.",
-                  "category": "natural",
-                  "coords": [
-                        -17.778319,
-                        28.673572
-                  ]
-            },
-            {
                   "name": "Parque Antonio Gómez Felipe",
                   "text": "Parcul Antonio Gómez Felipe este un parc botanic cunoscut pentru peisagistica sa vulcanică unică și flora endemică.",
                   "category": "park",
@@ -6054,15 +5091,6 @@ export const spainNatureV2: POI[] = [
                   "coords": [
                         -17.94679,
                         28.650916
-                  ]
-            },
-            {
-                  "name": "Maroparque",
-                  "text": "Maroparque este o grădină zoologică pentru salvarea animalelor exotice construită pe pantele abrupte ale unei râpe luxuriante din La Palma.",
-                  "category": "recreational",
-                  "coords": [
-                        -17.778308,
-                        28.682127
                   ]
             },
             {
@@ -6275,24 +5303,6 @@ export const spainNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo del Puro Palmero",
-                  "text": "The Museo del Puro Palmero highlights the island's long-standing tradition of handcrafted tobacco and cigar making.",
-                  "category": "museum",
-                  "coords": [
-                        -17.78734,
-                        28.667423
-                  ]
-            },
-            {
-                  "name": "Ermita Nuestra Señora de la Concepción",
-                  "text": "The Ermita Nuestra Señora de la Concepción is a quaint religious hermitage nestled in the scenic landscapes of La Palma.",
-                  "category": "religious",
-                  "coords": [
-                        -17.779338,
-                        28.67459
-                  ]
-            },
-            {
                   "name": "Ermita de la Virgen del Pino",
                   "text": "The Ermita de la Virgen del Pino is a revered shrine situated near a famous, ancient pine tree in El Paso.",
                   "category": "religious",
@@ -6347,15 +5357,6 @@ export const spainNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mirador de la Concepción",
-                  "text": "The Mirador de la Concepción provides stunning scenic vistas from a high volcanic vantage point overlooking Santa Cruz de La Palma.",
-                  "category": "natural",
-                  "coords": [
-                        -17.778319,
-                        28.673572
-                  ]
-            },
-            {
                   "name": "Parque Antonio Gómez Felipe",
                   "text": "Parque Antonio Gómez Felipe is a botanical park known for its unique volcanic landscaping and endemic flora.",
                   "category": "park",
@@ -6380,15 +5381,6 @@ export const spainNatureV2: POI[] = [
                   "coords": [
                         -17.94679,
                         28.650916
-                  ]
-            },
-            {
-                  "name": "Maroparque",
-                  "text": "Maroparque is an exotic animal rescue center and zoo built on the steep slopes of a lush ravine in La Palma.",
-                  "category": "recreational",
-                  "coords": [
-                        -17.778308,
-                        28.682127
                   ]
             },
             {

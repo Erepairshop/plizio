@@ -465,15 +465,6 @@ imageHint: "Ucka mountain Vojak tower view",
     id: "croatia-papuk-life-v2", "sights": {
       "de": [
             {
-                  "name": "Partizansko groblje Kovačica",
-                  "text": "Ein Gedenkfriedhof für Partisanen im Naturpark Papuk.",
-                  "category": "historical",
-                  "coords": [
-                        17.652566,
-                        45.521765
-                  ]
-            },
-            {
                   "name": "Partizanska bolnica Gudnoga",
                   "text": "Die Ruinen eines ehemaligen Partisanenhospitals im Naturpark Papuk.",
                   "category": "historical",
@@ -484,15 +475,6 @@ imageHint: "Ucka mountain Vojak tower view",
             }
       ],
       "hu": [
-            {
-                  "name": "Partizansko groblje Kovačica",
-                  "text": "Partizán emlékhely és temető a Papuk Természetvédelmi Parkban.",
-                  "category": "historical",
-                  "coords": [
-                        17.652566,
-                        45.521765
-                  ]
-            },
             {
                   "name": "Partizanska bolnica Gudnoga",
                   "text": "Egy egykori partizánkórház romjai a Papuk Természetvédelmi Parkban.",
@@ -505,15 +487,6 @@ imageHint: "Ucka mountain Vojak tower view",
       ],
       "ro": [
             {
-                  "name": "Partizansko groblje Kovačica",
-                  "text": "Un cimitir memorial al partizanilor în Parcul Natural Papuk.",
-                  "category": "historical",
-                  "coords": [
-                        17.652566,
-                        45.521765
-                  ]
-            },
-            {
                   "name": "Partizanska bolnica Gudnoga",
                   "text": "Ruinele unui fost spital de partizani în Parcul Natural Papuk.",
                   "category": "historical",
@@ -524,15 +497,6 @@ imageHint: "Ucka mountain Vojak tower view",
             }
       ],
       "en": [
-            {
-                  "name": "Partizansko groblje Kovačica",
-                  "text": "A memorial cemetery for partisans in the Papuk Nature Park.",
-                  "category": "historical",
-                  "coords": [
-                        17.652566,
-                        45.521765
-                  ]
-            },
             {
                   "name": "Partizanska bolnica Gudnoga",
                   "text": "Ruins of a former partisan hospital in the Papuk Nature Park.",
@@ -601,15 +565,6 @@ imageHint: "Papuk nature park forest waterfall",
                   ]
             },
             {
-                  "name": "Dvorac Oršić",
-                  "text": "Ein spätbarockes Schloss in Gornja Bistra im Naturpark Medvednica.",
-                  "category": "castle",
-                  "coords": [
-                        15.904515,
-                        45.916802
-                  ]
-            },
-            {
                   "name": "Sljeme",
                   "text": "Der höchste Gipfel des Medvednica-Gebirges und ein beliebtes Ausflugsziel.",
                   "category": "landmark",
@@ -634,15 +589,6 @@ imageHint: "Papuk nature park forest waterfall",
                   "coords": [
                         15.965264,
                         45.87736
-                  ]
-            },
-            {
-                  "name": "Panjevina",
-                  "text": "Ein Aussichtspunkt im Naturpark Medvednica mit Blick auf die Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        15.921063,
-                        45.916524
                   ]
             },
             {
@@ -675,15 +621,6 @@ imageHint: "Papuk nature park forest waterfall",
                   ]
             },
             {
-                  "name": "Dvorac Oršić",
-                  "text": "Késő barokk kastély Gornja Bistra településen, a Medvednica Natúrparkban.",
-                  "category": "castle",
-                  "coords": [
-                        15.904515,
-                        45.916802
-                  ]
-            },
-            {
                   "name": "Sljeme",
                   "text": "A Medvednica-hegység legmagasabb csúcsa és népszerű kirándulóhely.",
                   "category": "landmark",
@@ -708,15 +645,6 @@ imageHint: "Papuk nature park forest waterfall",
                   "coords": [
                         15.965264,
                         45.87736
-                  ]
-            },
-            {
-                  "name": "Panjevina",
-                  "text": "Kilátópont a Medvednica Natúrparkban, ahonnan rálátás nyílik a környező tájra.",
-                  "category": "natural",
-                  "coords": [
-                        15.921063,
-                        45.916524
                   ]
             },
             {
@@ -749,15 +677,6 @@ imageHint: "Papuk nature park forest waterfall",
                   ]
             },
             {
-                  "name": "Dvorac Oršić",
-                  "text": "Un castel în stil baroc târziu situat în Gornja Bistra, în Parcul Natural Medvednica.",
-                  "category": "castle",
-                  "coords": [
-                        15.904515,
-                        45.916802
-                  ]
-            },
-            {
                   "name": "Sljeme",
                   "text": "Cel mai înalt vârf al masivului Medvednica și o destinație populară de excursie.",
                   "category": "landmark",
@@ -782,15 +701,6 @@ imageHint: "Papuk nature park forest waterfall",
                   "coords": [
                         15.965264,
                         45.87736
-                  ]
-            },
-            {
-                  "name": "Panjevina",
-                  "text": "Un punct de belvedere în Parcul Natural Medvednica cu vedere asupra împrejurimilor.",
-                  "category": "natural",
-                  "coords": [
-                        15.921063,
-                        45.916524
                   ]
             },
             {
@@ -823,15 +733,6 @@ imageHint: "Papuk nature park forest waterfall",
                   ]
             },
             {
-                  "name": "Dvorac Oršić",
-                  "text": "A late Baroque castle located in Gornja Bistra within the Medvednica Nature Park.",
-                  "category": "castle",
-                  "coords": [
-                        15.904515,
-                        45.916802
-                  ]
-            },
-            {
                   "name": "Sljeme",
                   "text": "The highest peak of the Medvednica mountain range and a popular excursion spot.",
                   "category": "landmark",
@@ -856,15 +757,6 @@ imageHint: "Papuk nature park forest waterfall",
                   "coords": [
                         15.965264,
                         45.87736
-                  ]
-            },
-            {
-                  "name": "Panjevina",
-                  "text": "A viewpoint in the Medvednica Nature Park offering views of the surrounding landscape.",
-                  "category": "natural",
-                  "coords": [
-                        15.921063,
-                        45.916524
                   ]
             },
             {
@@ -969,24 +861,6 @@ imageHint: "Medvednica mountain Zagreb view",
                         15.510956,
                         45.77954
                   ]
-            },
-            {
-                  "name": "Novi grad Žumberački",
-                  "text": "Die Ruinen einer mittelalterlichen Burgfestung im Žumberak-Gebirge.",
-                  "category": "historical",
-                  "coords": [
-                        15.442444,
-                        45.747394
-                  ]
-            },
-            {
-                  "name": "crkva svetog Nikole biskupa",
-                  "text": "Eine historisch bedeutende griechisch-katholische Kirche im Naturpark.",
-                  "category": "religious",
-                  "coords": [
-                        15.441349,
-                        45.749565
-                  ]
             }
       ],
       "hu": [
@@ -1024,24 +898,6 @@ imageHint: "Medvednica mountain Zagreb view",
                   "coords": [
                         15.510956,
                         45.77954
-                  ]
-            },
-            {
-                  "name": "Novi grad Žumberački",
-                  "text": "Középkori várkastély romjai a Žumberak-hegységben.",
-                  "category": "historical",
-                  "coords": [
-                        15.442444,
-                        45.747394
-                  ]
-            },
-            {
-                  "name": "crkva svetog Nikole biskupa",
-                  "text": "Történelmileg jelentős görögkatolikus templom a natúrparkban.",
-                  "category": "religious",
-                  "coords": [
-                        15.441349,
-                        45.749565
                   ]
             }
       ],
@@ -1081,24 +937,6 @@ imageHint: "Medvednica mountain Zagreb view",
                         15.510956,
                         45.77954
                   ]
-            },
-            {
-                  "name": "Novi grad Žumberački",
-                  "text": "Ruinele unei cetăți medievale situată în munții Žumberak.",
-                  "category": "historical",
-                  "coords": [
-                        15.442444,
-                        45.747394
-                  ]
-            },
-            {
-                  "name": "crkva svetog Nikole biskupa",
-                  "text": "O biserică greco-catolică de importanță istorică din parcul natural.",
-                  "category": "religious",
-                  "coords": [
-                        15.441349,
-                        45.749565
-                  ]
             }
       ],
       "en": [
@@ -1136,24 +974,6 @@ imageHint: "Medvednica mountain Zagreb view",
                   "coords": [
                         15.510956,
                         45.77954
-                  ]
-            },
-            {
-                  "name": "Novi grad Žumberački",
-                  "text": "The ruins of a medieval castle fortress in the Žumberak mountains.",
-                  "category": "historical",
-                  "coords": [
-                        15.442444,
-                        45.747394
-                  ]
-            },
-            {
-                  "name": "crkva svetog Nikole biskupa",
-                  "text": "A historically significant Greek Catholic church within the nature park.",
-                  "category": "religious",
-                  "coords": [
-                        15.441349,
-                        45.749565
                   ]
             }
       ]

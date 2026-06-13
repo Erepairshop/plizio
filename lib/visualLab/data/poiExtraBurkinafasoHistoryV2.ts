@@ -770,15 +770,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
     id: "dori-old-mosque-history-v2", "sights": {
       "de": [
             {
-                  "name": "Rond-point Arba DIALLO",
-                  "text": "Ein bekannter Kreisverkehr in Dori, benannt nach dem berühmten burkinischen Politiker Arba Diallo.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.035278,
-                        14.032703
-                  ]
-            },
-            {
                   "name": "Place de la nation de Dori",
                   "text": "Der zentrale öffentliche Platz, der als Haupttreffpunkt für bürgerliche Veranstaltungen in Dori dient.",
                   "category": "landmark",
@@ -789,15 +780,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Rond-point Arba DIALLO",
-                  "text": "Egy kiemelkedő körforgalom Doriban, amelyet a híres burkinabè politikus, Arba Diallo tiszteletére neveztek el.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.035278,
-                        14.032703
-                  ]
-            },
             {
                   "name": "Place de la nation de Dori",
                   "text": "Dori központi köztere, amely a városi rendezvények elsődleges találkozóhelyeként szolgál.",
@@ -810,15 +792,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Rond-point Arba DIALLO",
-                  "text": "Un sens giratoriu proeminent din Dori, denumit în onoarea renumitului politician burkinez Arba Diallo.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.035278,
-                        14.032703
-                  ]
-            },
-            {
                   "name": "Place de la nation de Dori",
                   "text": "Piața publică centrală care servește ca principal loc de adunare pentru evenimentele civice din Dori.",
                   "category": "landmark",
@@ -829,15 +802,6 @@ export const poiExtraBurkinafasoHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Rond-point Arba DIALLO",
-                  "text": "A prominent traffic circle named in honor of the renowned Burkinabè politician, Arba Diallo, in Dori.",
-                  "category": "landmark",
-                  "coords": [
-                        -0.035278,
-                        14.032703
-                  ]
-            },
             {
                   "name": "Place de la nation de Dori",
                   "text": "The central public square serving as a primary gathering place for civic events in Dori.",

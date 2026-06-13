@@ -165,122 +165,10 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     }, image: "/poi-images/nzerekore-cities-v2.webp"},
   {
     id: "kankan-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Maison des Jeunes de Kankan",
-                  "text": "Jugendkulturzentrum mit Workshops und Aufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.302626,
-                        10.371534
-                  ]
-            },
-            {
-                  "name": "La statue du militaire",
-                  "text": "Bronzestatue eines Kolonialsoldaten im Stadtzentrum.",
-                  "category": "historical",
-                  "coords": [
-                        -9.309568,
-                        10.371927
-                  ]
-            },
-            {
-                  "name": "Elhadj Fila Camara",
-                  "text": "Mausoleum zu Ehren des muslimischen Gelehrten Elhadj Fila Camara aus dem 19. Jahrhundert.",
-                  "category": "historical",
-                  "coords": [
-                        -9.306293,
-                        10.370601
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Maison des Jeunes de Kankan",
-                  "text": "Ifjúsági kulturális központ workshopokkal és előadásokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.302626,
-                        10.371534
-                  ]
-            },
-            {
-                  "name": "La statue du militaire",
-                  "text": "Bronzszobor egy gyarmati kori katonáról a városközpontban.",
-                  "category": "historical",
-                  "coords": [
-                        -9.309568,
-                        10.371927
-                  ]
-            },
-            {
-                  "name": "Elhadj Fila Camara",
-                  "text": "Mauzóleum a 19. századi muszlim tudós Elhadj Fila Camara tiszteletére.",
-                  "category": "historical",
-                  "coords": [
-                        -9.306293,
-                        10.370601
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Maison des Jeunes de Kankan",
-                  "text": "Centru cultural pentru tineret cu ateliere și spectacole.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.302626,
-                        10.371534
-                  ]
-            },
-            {
-                  "name": "La statue du militaire",
-                  "text": "Statuie de bronz a unui soldat din epoca colonială în centrul orașului.",
-                  "category": "historical",
-                  "coords": [
-                        -9.309568,
-                        10.371927
-                  ]
-            },
-            {
-                  "name": "Elhadj Fila Camara",
-                  "text": "Mausoleu dedicat savantului musulman Elhadj Fila Camara din secolul al XIX-lea.",
-                  "category": "historical",
-                  "coords": [
-                        -9.306293,
-                        10.370601
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Maison des Jeunes de Kankan",
-                  "text": "Cultural center for youth offering workshops and performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -9.302626,
-                        10.371534
-                  ]
-            },
-            {
-                  "name": "La statue du militaire",
-                  "text": "Bronze statue of a colonial-era soldier in the city center.",
-                  "category": "historical",
-                  "coords": [
-                        -9.309568,
-                        10.371927
-                  ]
-            },
-            {
-                  "name": "Elhadj Fila Camara",
-                  "text": "Mausoleum dedicated to the 19th-century Muslim scholar Elhadj Fila Camara.",
-                  "category": "historical",
-                  "coords": [
-                        -9.306293,
-                        10.370601
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "GN-K",
@@ -368,50 +256,10 @@ export const poiExtraGuineaCitiesV2: POI[] = [
     }, image: "/poi-images/kindia-cities-v2.webp"},
   {
     id: "labe-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Petit Musée du Fouta",
-                  "text": "Kleines Museum mit Ausstellungen zur Fulani-Kultur und Artefakten aus dem Fouta Djallon.",
-                  "category": "museum",
-                  "coords": [
-                        -12.306539,
-                        11.313182
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Petit Musée du Fouta",
-                  "text": "Kis múzeum a fulani kultúra és a Fouta Djallon tárgyainak bemutatásával.",
-                  "category": "museum",
-                  "coords": [
-                        -12.306539,
-                        11.313182
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Petit Musée du Fouta",
-                  "text": "Mic muzeu cu exponate ale culturii fulani și artefacte din Fouta Djallon.",
-                  "category": "museum",
-                  "coords": [
-                        -12.306539,
-                        11.313182
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Petit Musée du Fouta",
-                  "text": "Small museum showcasing Fulani culture and artifacts from Fouta Djallon.",
-                  "category": "museum",
-                  "coords": [
-                        -12.306539,
-                        11.313182
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "city",
     parent: "GN-L",

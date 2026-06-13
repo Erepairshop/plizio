@@ -6,75 +6,12 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-castries-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Vigie Lighthouse",
-                  "text": "Der Vigie-Leuchtturm in Castries markiert die nördliche Einfahrt zum Hafen von Castries.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.00122,
-                        14.022348
-                  ]
-            },
-            {
-                  "name": "Vigie Beach",
-                  "text": "Im Herzen von Castries gelegen, lockt Vigie Beach mit weichem Sand und typisch karibischem Charme. Als beliebtes Ziel unter Einheimischen wie Besuchern eignet sich der Strand perfekt zum Schwimmen und für sonnige Ruhestunden. Die belebte, aber unaufdringliche Atmosphäre lässt den karibischen Alltag hautnah miterleben. Ein kurzer Spaziergang am Morgen verspricht hier den besten Start in den Tag.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Das herrliche Küstengebiet der Choc Beach in Castries bietet feine Sandstrände vor einer malerischen Kulisse. Dieser Abschnitt ist ideal für alle, die das warme Meerwasser beim Schwimmen genießen und gemütlich am Strand relaxen wollen. Ein entspanntes Urlaubsgefühl prägt den Rhythmus an diesem wunderschönen Küstenstreifen. Suchen Sie sich rechtzeitig ein schattiges Plätzchen unter den Bäumen, um die tropische Sonne vollends auszukosten.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "The Morne Museum",
-                  "text": "Das Morne Museum auf dem Morne Fortune in Castries dokumentiert die Geschichte St. Lucias.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "Das Folk Research Center in Castries fungiert als Museum, das sich dem kulturellen Erbe von St. Lucia widmet.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "Gelegen in Castries, bietet der malerische Yellow Sands Beach eine wunderbare Kulisse an der Küste von Saint Lucia. Besucher können hier entspannte Stunden beim Schwimmen und Sonnenbaden genießen. Es empfiehlt sich, frühzeitig anzureisen, um die ruhige Atmosphäre am Morgen voll auszukosten.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
-            {
                   "name": "Derek Walcott Square",
                   "text": "Zentraler Platz in Castries, benannt nach dem Nobelpreisträger Derek Walcott.",
                   "category": "park",
                   "coords": [
                         -60.990813,
                         14.008855
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "Dieser Aussichtspunkt in Castries bietet einen malerischen Blick auf die umliegende Landschaft.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
                   ]
             },
             {
@@ -94,81 +31,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.987762,
                         14.007401
                   ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "Wahrzeichen mit dem Schriftzug ‚Saint Lucia‘ im Stadtzentrum von Castries.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Historischer Park in Castries mit einem zentralen Musikpavillon und alten Bäumen.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Vigie Lighthouse",
-                  "text": "A Vigie világítótorony Castries-ban a Castries-i kikötő északi bejáratát jelzi.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.00122,
-                        14.022348
-                  ]
-            },
-            {
-                  "name": "Vigie Beach",
-                  "text": "A Castries szívében fekvő Vigie Beach puha homokkal és jellegzetes karibi bájjal csábít. A helyiek és a látogatók körében egyaránt népszerű úti célként a strand tökéletes az úszáshoz és a napsütéses pihenéshez. A nyüzsgő, de mégsem tolakodó légkör lehetővé teszi, hogy testközelből éljük át a karibi mindennapokat. Egy rövid reggeli séta itt garantálja a nap legjobb kezdetét.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "A castries-i Choc Beach csodálatos tengerparti vidéke finom homokos partokat kínál festői háttérrel. Ez a szakasz ideális mindazok számára, akik élvezni szeretnék a meleg tengervizet úszás közben, vagy kényelmesen pihennének a parton. Egy laza nyaralási érzés határozza meg a ritmust ezen a gyönyörű partszakaszon. Keressen időben egy árnyékos helyet a fák alatt, hogy maximálisan kiélvezhesse a trópusi napsütést.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "The Morne Museum",
-                  "text": "A Morne Museum a Morne Fortune dombon Castries-ban Szent Lucia történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "A castriesi Néprajzi Kutatóközpont a Saint Lucia-i kulturális örökségnek szentelt múzeumként működik.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "A festői Yellow Sands Beach Castries városában található, csodálatos tengerparti környezetet biztosítva Saint Lucia szigetén. A látogatók pihentető órákat tölthetnek el itt úszással és napozással. Érdemes korán érkezni, hogy teljes mértékben kiélvezhessük a reggeli nyugodt légkört.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
             {
                   "name": "Derek Walcott Square",
                   "text": "Castries központi tere, amely Derek Walcott Nobel-díjas költőről kapta a nevét.",
@@ -176,15 +41,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.990813,
                         14.008855
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "Ez a castriesi kilátó festői panorámát nyújt a környező tájra.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
                   ]
             },
             {
@@ -204,81 +60,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.987762,
                         14.007401
                   ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "A 'Saint Lucia' feliratot viselő nevezetesség Castries központjában.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Történelmi park Castriesben, központi zenepavilonnal és öreg fákkal.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Vigie Lighthouse",
-                  "text": "Farul Vigie din Castries marchează intrarea de nord în portul Castries.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.00122,
-                        14.022348
-                  ]
-            },
-            {
-                  "name": "Vigie Beach",
-                  "text": "Situată în inima orașului Castries, Vigie Beach atrage cu nisipul fin și farmecul tipic caraibian. Fiind o destinație populară printre localnici și vizitatori, plaja este perfectă pentru înot și ore însorite de odihnă. Atmosfera animată, dar neintruzivă, îți permite să experimentezi de aproape viața de zi cu zi din Caraibe. O scurtă plimbare de dimineață promite aici cel mai bun început de zi.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Superba zonă de coastă Choc Beach din Castries oferă plaje cu nisip fin, pe un fundal pitoresc. Această porțiune este ideală pentru oricine dorește să se bucure de apa caldă a mării înotând și să se relaxeze confortabil pe plajă. Un sentiment relaxat de vacanță dă ritmul pe această fâșie frumoasă de coastă. Găsiți din timp un loc umbrit sub copaci pentru a savura pe deplin soarele tropical.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "The Morne Museum",
-                  "text": "Muzeul Morne de pe dealul Morne Fortune din Castries documentează istoria Sfintei Lucia.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "Centrul de Cercetare Folclorică din Castries acționează ca un muzeu dedicat patrimoniului cultural din Sfânta Lucia.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "Situată în Castries, pitoreasca plajă Yellow Sands oferă un cadru minunat pe coasta din Sfânta Lucia. Vizitatorii se pot bucura aici de ore relaxante de înot și plajă. Este recomandat să ajungeți devreme pentru a profita din plin de atmosfera liniștită a dimineții.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
             {
                   "name": "Derek Walcott Square",
                   "text": "Piață centrală din Castries, numită după poetul laureat Nobel Derek Walcott.",
@@ -286,15 +70,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.990813,
                         14.008855
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "Acest punct de belvedere din Castries oferă panorame pitorești ale peisajului înconjurător.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
                   ]
             },
             {
@@ -314,81 +89,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.987762,
                         14.007401
                   ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "Reper cu inscripția 'Saint Lucia' în centrul orașului Castries.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Parcul istoric din Castries, cu un chioșc de muzică și arbori bătrâni.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Vigie Lighthouse",
-                  "text": "The Vigie Lighthouse in Castries marks the northern entrance to Castries harbour.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.00122,
-                        14.022348
-                  ]
-            },
-            {
-                  "name": "Vigie Beach",
-                  "text": "Located in the heart of Castries, Vigie Beach entices with soft sand and typical Caribbean charm. As a popular destination among both locals and visitors, the beach is perfect for swimming and sunny hours of rest. The lively yet unobtrusive atmosphere lets you experience everyday Caribbean life up close. A short morning walk here promises the best start to your day.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "The magnificent coastal area of Choc Beach in Castries offers fine sandy beaches against a picturesque backdrop. This section is ideal for anyone who wants to enjoy the warm seawater while swimming and comfortably relax on the shore. A laid-back holiday feeling sets the rhythm on this beautiful stretch of coast. Look for a shaded spot under the trees early on to fully enjoy the tropical sun.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "The Morne Museum",
-                  "text": "The Morne Museum on Morne Fortune in Castries documents the history of Saint Lucia.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "The Folk Research Center in Castries acts as a museum dedicated to Saint Lucian cultural heritage.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "Located in Castries, the picturesque Yellow Sands Beach offers a wonderful coastal setting in Saint Lucia. Visitors can enjoy relaxing hours swimming and sunbathing along the shore. Arriving early in the morning is recommended to fully appreciate the peaceful atmosphere.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
             {
                   "name": "Derek Walcott Square",
                   "text": "Central square in Castries named after Nobel laureate poet Derek Walcott.",
@@ -396,15 +99,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.990813,
                         14.008855
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "This viewpoint in Castries offers scenic overviews of the surrounding landscape.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
                   ]
             },
             {
@@ -423,24 +117,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.987762,
                         14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "Landmark sign reading 'Saint Lucia' in Castries city center.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Historic park in Castries with a central bandstand and mature trees.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
                   ]
             }
       ]
@@ -501,24 +177,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mankote Beach",
-                  "text": "Dieses weitläufige Küstenerholungsgebiet in Vieux Fort zieht Naturliebhaber und Strandbesucher gleichermaßen an. Mankote Beach eignet sich hervorragend für ausgedehnte Spaziergänge entlang der Küste von Saint Lucia. Besonders in den wärmeren Monaten ist dies ein idealer Ort für einen Tagesausflug.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.935588,
-                        13.74477
-                  ]
-            },
-            {
-                  "name": "Maria Islands Nature Reserve",
-                  "text": "Naturschutzgebiet auf zwei Inseln vor Vieux Fort, Heimat der St.-Lucia-Klettechse.",
-                  "category": "natural",
-                  "coords": [
-                        -60.931429,
-                        13.72605
-                  ]
-            },
-            {
                   "name": "Independence Square Monument",
                   "text": "Denkmal auf dem Independence Square in Vieux Fort, das an die Unabhängigkeit erinnert.",
                   "category": "historical",
@@ -536,24 +194,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.941672,
                         13.711128
-                  ]
-            },
-            {
-                  "name": "Mankote Beach",
-                  "text": "Ez a kiterjedt tengerparti rekreációs terület Vieux Fort városában egyaránt vonzza a természetkedvelőket és a strandolókat. A Mankote Beach kiválóan alkalmas hosszú sétákra Saint Lucia partjai mentén. Különösen a melegebb hónapokban ideális helyszín egy egynapos kiránduláshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.935588,
-                        13.74477
-                  ]
-            },
-            {
-                  "name": "Maria Islands Nature Reserve",
-                  "text": "Természetvédelmi terület két szigeten Vieux Fort mellett, a Saint Lucia-i gyík élőhelye.",
-                  "category": "natural",
-                  "coords": [
-                        -60.931429,
-                        13.72605
                   ]
             },
             {
@@ -577,24 +217,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mankote Beach",
-                  "text": "Această zonă extinsă de recreere de coastă din Vieux Fort atrage deopotrivă iubitorii de natură și pasionații de plajă. Plaja Mankote este excelentă pentru plimbări lungi de-a lungul litoralului din Sfânta Lucia. Mai ales în lunile mai calde, acesta este un loc ideal pentru o excursie de o zi.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.935588,
-                        13.74477
-                  ]
-            },
-            {
-                  "name": "Maria Islands Nature Reserve",
-                  "text": "Rezervație naturală pe două insulițe lângă Vieux Fort, sanctuar al șopârlei din Sf. Lucia.",
-                  "category": "natural",
-                  "coords": [
-                        -60.931429,
-                        13.72605
-                  ]
-            },
-            {
                   "name": "Independence Square Monument",
                   "text": "Monument pe Piața Independenței din Vieux Fort, care comemorează independența Sf. Lucia.",
                   "category": "historical",
@@ -612,24 +234,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.941672,
                         13.711128
-                  ]
-            },
-            {
-                  "name": "Mankote Beach",
-                  "text": "This expansive coastal recreation area in Vieux Fort attracts nature lovers and beachgoers alike. Mankote Beach is excellent for long walks along the shoreline of Saint Lucia. During the warmer months especially, it serves as an ideal spot for a day trip.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.935588,
-                        13.74477
-                  ]
-            },
-            {
-                  "name": "Maria Islands Nature Reserve",
-                  "text": "Nature reserve on two islets off Vieux Fort, sanctuary for the St. Lucia whiptail lizard.",
-                  "category": "natural",
-                  "coords": [
-                        -60.931429,
-                        13.72605
                   ]
             },
             {
@@ -762,24 +366,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Toraille Atv Park and Trail",
-                  "text": "ATV-Park mit Trails durch Regenwaldhügel nahe Soufriere.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.036921,
-                        13.853591
-                  ]
-            },
-            {
-                  "name": "On pitons",
-                  "text": "Dieser Aussichtspunkt bietet Blicke auf die Pitons in Soufrière.",
-                  "category": "natural",
-                  "coords": [
-                        -61.050601,
-                        13.865525
-                  ]
-            },
-            {
                   "name": "Big Nature",
                   "text": "Naturgebiet in Soufriere mit Wanderwegen und Flussbecken.",
                   "category": "natural",
@@ -896,24 +482,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -61.05586,
                         13.858217
-                  ]
-            },
-            {
-                  "name": "Toraille Atv Park and Trail",
-                  "text": "ATV-park ösvényekkel a Soufriere melletti esőerdős dombokon.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.036921,
-                        13.853591
-                  ]
-            },
-            {
-                  "name": "On pitons",
-                  "text": "Ez a kilátópont a Soufrière-ben található Pitonokra nyújt rálátást.",
-                  "category": "natural",
-                  "coords": [
-                        -61.050601,
-                        13.865525
                   ]
             },
             {
@@ -1036,24 +604,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Toraille Atv Park and Trail",
-                  "text": "Parcul ATV cu trasee prin dealurile de pădure tropicală lângă Soufriere.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.036921,
-                        13.853591
-                  ]
-            },
-            {
-                  "name": "On pitons",
-                  "text": "Acest punct de observație oferă vedere spre vârfurile Pitons din Soufrière.",
-                  "category": "natural",
-                  "coords": [
-                        -61.050601,
-                        13.865525
-                  ]
-            },
-            {
                   "name": "Big Nature",
                   "text": "Zonă naturală în Soufriere, cu trasee de drumeție și bazine fluviale.",
                   "category": "natural",
@@ -1173,24 +723,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Toraille Atv Park and Trail",
-                  "text": "ATV park with trails through rainforest hills near Soufriere.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.036921,
-                        13.853591
-                  ]
-            },
-            {
-                  "name": "On pitons",
-                  "text": "This viewpoint provides a look at the Pitons in Soufrière.",
-                  "category": "natural",
-                  "coords": [
-                        -61.050601,
-                        13.865525
-                  ]
-            },
-            {
                   "name": "Big Nature",
                   "text": "Nature area in Soufriere with hiking trails and river pools.",
                   "category": "natural",
@@ -1282,518 +814,10 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-gros-islet-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Splash Island Water Park",
-                  "text": "Wasserpark mit Rutschen und Becken in Gros Islet.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
-                  "name": "Anse du Cap",
-                  "text": "Abgeschiedene Bucht mit ruhigem Wasser nahe Gros Islet.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.947548,
-                        14.103692
-                  ]
-            },
-            {
-                  "name": "Anse Bécune Beach",
-                  "text": "Ruhige Momente am Wasser verspricht der Anse Bécune Beach im malerischen Gros Islet. Diese kleine Bucht ist ein großartiger Ort für ausgedehntes Sonnenbaden und erfrischende Runden im Meer. Idealerweise besucht man den Strand an sonnigen Wochentagen, um die entspannte Atmosphäre voll zu genießen.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.951072,
-                        14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "Bekannt für seine lebhafte Atmosphäre, zieht dieser beliebte Strand in Gros Islet viele Besucher an, die das karibische Flair erleben möchten. Reduit Beach bietet hervorragende Bedingungen für einen klassischen Strandtag voller Badespaß und sonniger Spaziergänge. Da es hier schnell voll werden kann, lohnt sich eine Ankunft am frühen Vormittag.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
-                  ]
-            },
-            {
-                  "name": "Francois Beach",
-                  "text": "Wer eine entspannte Zeit an der Küste von Gros Islet sucht, findet am Francois Beach den passenden Ort dafür. Gäste schätzen die Gelegenheit, im weichen Sand zu verweilen und die Füße ins klare Wasser gleiten zu lassen. Ein Besuch in der goldenen Abendstunde sorgt für ein besonders schönes Lichterspiel am Horizont.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.966285,
-                        14.066045
-                  ]
-            },
-            {
-                  "name": "smugglers cove beach",
-                  "text": "Der verborgene Charme des Smugglers Cove Beach in Gros Islet macht ihn zu einem lohnenden Ausflugsziel auf Saint Lucia. In dieser reizvollen Bucht lassen sich hervorragend ruhige Badestunden und ausgiebige Sonnenbäder genießen. Für einen perfekten Strandtag sollten Getränke und kleine Snacks unbedingt im Gepäck sein.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.950188,
-                        14.100529
-                  ]
-            },
-            {
-                  "name": "Trouya Beach",
-                  "text": "Als kleiner Küstenabschnitt in Gros Islet bietet der Trouya Beach eine gemütliche Umgebung für warme Nachmittage. Es ist ein fabelhafter Ort, um die Seele baumeln zu lassen, im Ozean zu schwimmen oder einfach die salzige Brise zu spüren. Der Strand ist meist unaufgeregt und ideal für all jene, die eine kleine Auszeit vom Alltag suchen.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.973019,
-                        14.065401
-                  ]
-            },
-            {
-                  "name": "Pigeon Island National Landmark",
-                  "text": "Festung auf Pigeon Island, ehemaliger britischer Marinestützpunkt, heute Nationaldenkmal.",
-                  "category": "fortress",
-                  "coords": [
-                        -60.964627,
-                        14.092578
-                  ]
-            },
-            {
-                  "name": "Pigeon Island Beach",
-                  "text": "An der Nordwestküste von Saint Lucia gelegen, verbindet der Strandabschnitt des Pigeon Island Beach Natur und Strandvergnügen in Gros Islet. Hier können Besucher das Karibische Meer bei einem erfrischenden Bad erkunden oder im Sand neue Energie tanken. Ein Abstecher am Vormittag sichert oft den schönsten Platz am Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.960125,
-                        14.091033
-                  ]
-            },
-            {
-                  "name": "Cas en bas",
-                  "text": "Erholungsgebiet mit Strand und Wassersportmöglichkeiten nahe Gros Islet.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
-                  "name": "Pigeon Is. interpretation Center",
-                  "text": "Besucherzentrum auf Pigeon Island mit Ausstellungen zur Militärgeschichte.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.962275,
-                        14.093925
-                  ]
-            },
-            {
-                  "name": "US Signaling Station",
-                  "text": "Historische US-Signalstation aus dem Zweiten Weltkrieg auf Pigeon Island.",
-                  "category": "historical",
-                  "coords": [
-                        -60.966241,
-                        14.091273
-                  ]
-            },
-            {
-                  "name": "WWII Old U.S. Military Pillars",
-                  "text": "Überreste von Betonpfeilern einer US-Militäranlage aus dem Zweiten Weltkrieg.",
-                  "category": "historical",
-                  "coords": [
-                        -60.956265,
-                        14.067805
-                  ]
-            },
-            {
-                  "name": "Aquaholics Kite surfing School",
-                  "text": "Kitesurfschule am Strand von Gros Islet.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.926738,
-                        14.091094
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Splash Island Water Park",
-                  "text": "Vízicsúszdás park medencékkel Gros Isletben.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
-                  "name": "Anse du Cap",
-                  "text": "Félreeső öböl nyugodt vízzel Gros Islet közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.947548,
-                        14.103692
-                  ]
-            },
-            {
-                  "name": "Anse Bécune Beach",
-                  "text": "Csendes pillanatokat ígér a vízparton az Anse Bécune Beach a festői Gros Isletben. Ez a kis öböl nagyszerű helyszín a hosszas napozáshoz és egy frissítő úszáshoz a tengerben. Ideális esetben napsütéses hétköznapokon érdemes felkeresni a strandot, hogy teljes mértékben kiélvezzük a laza hangulatot.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.951072,
-                        14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "A pezsgő hangulatáról ismert, népszerű Gros Islet-i strand sok látogatót vonz, akik szeretnék átélni a karibi életérzést. A Reduit Beach kiváló feltételeket kínál egy klasszikus strandolós naphoz, tele fürdőzéssel és napos sétákkal. Mivel hamar megtelhet, érdemes kora délelőtt érkezni.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
-                  ]
-            },
-            {
-                  "name": "Francois Beach",
-                  "text": "Aki pihentető időtöltésre vágyik Gros Islet partjainál, a Francois Beach-en megtalálja a megfelelő helyet hozzá. A vendégek értékelik a lehetőséget, hogy a puha homokon időzhetnek, és lábukat a tiszta vízbe lógathatják. Az aranyórában tett látogatás különösen szép fényjátékot biztosít a horizonton.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.966285,
-                        14.066045
-                  ]
-            },
-            {
-                  "name": "smugglers cove beach",
-                  "text": "A Gros Islet-ben található Smugglers Cove Beach rejtett varázsa érdemes úti céllá teszi Saint Lucia szigetén. Ebben a bájos öbölben kiválóan lehet élvezni a csendes fürdőzést és a kiadós napozást. Egy tökéletes strandolós naphoz a frissítőknek és a rágcsálnivalóknak mindenképpen a csomagban kell lenniük.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.950188,
-                        14.100529
-                  ]
-            },
-            {
-                  "name": "Trouya Beach",
-                  "text": "A Gros Islet kis tengerparti szakaszaként a Trouya Beach hangulatos környezetet biztosít a meleg délutánokhoz. Mesés hely a kikapcsolódásra, az óceánban való úszásra vagy egyszerűen csak a sós szellő megérintésére. A strand többnyire nyugodt, és ideális mindazok számára, akik egy kis szünetet keresnek a mindennapi életből.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.973019,
-                        14.065401
-                  ]
-            },
-            {
-                  "name": "Pigeon Island National Landmark",
-                  "text": "Erőd a Pigeon-szigeten, egykori brit haditengerészeti bázis, ma nemzeti emlékhely.",
-                  "category": "fortress",
-                  "coords": [
-                        -60.964627,
-                        14.092578
-                  ]
-            },
-            {
-                  "name": "Pigeon Island Beach",
-                  "text": "A Saint Lucia északnyugati partján fekvő Pigeon Island Beach partszakasza ötvözi a természetet és a tengerparti szórakozást Gros Isletben. Itt a látogatók egy frissítő fürdőzéssel fedezhetik fel a Karib-tengert, vagy feltöltődhetnek a homokban. Egy délelőtti kitérő gyakran biztosítja a legszebb helyet a vízparton.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.960125,
-                        14.091033
-                  ]
-            },
-            {
-                  "name": "Cas en bas",
-                  "text": "Pihenőövezet stranddal és vizi sportlehetőségekkel Gros Islet közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
-                  "name": "Pigeon Is. interpretation Center",
-                  "text": "Látogatóközpont a Pigeon-szigeten, katonai történeti kiállításokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.962275,
-                        14.093925
-                  ]
-            },
-            {
-                  "name": "US Signaling Station",
-                  "text": "Történelmi második világháborús amerikai jelzőállomás a Pigeon-szigeten.",
-                  "category": "historical",
-                  "coords": [
-                        -60.966241,
-                        14.091273
-                  ]
-            },
-            {
-                  "name": "WWII Old U.S. Military Pillars",
-                  "text": "Egy második világháborús amerikai katonai létesítmény betonoszlopainak maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        -60.956265,
-                        14.067805
-                  ]
-            },
-            {
-                  "name": "Aquaholics Kite surfing School",
-                  "text": "Kitesurf iskola Gros Islet strandján.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.926738,
-                        14.091094
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Splash Island Water Park",
-                  "text": "Parc acvatic cu tobogane și piscine în Gros Islet.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
-                  "name": "Anse du Cap",
-                  "text": "Golf izolat cu ape liniștite lângă Gros Islet.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.947548,
-                        14.103692
-                  ]
-            },
-            {
-                  "name": "Anse Bécune Beach",
-                  "text": "Plaja Anse Bécune din pitorescul Gros Islet promite momente liniștite la malul apei. Acest mic golf este o locație excelentă pentru plajă prelungită și înot revigorant în mare. Ideal ar fi să vizitați plaja în zilele însorite de cursul săptămânii pentru a vă bucura pe deplin de atmosfera relaxată.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.951072,
-                        14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "Cunoscută pentru atmosfera sa plină de viață, această plajă populară din Gros Islet atrage mulți vizitatori care doresc să experimenteze flerul caraibian. Plaja Reduit oferă condiții excelente pentru o zi clasică de plajă, plină de distracție în apă și plimbări însorite. Deoarece se poate aglomera rapid, sosirea la mijlocul dimineții este o idee bună.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
-                  ]
-            },
-            {
-                  "name": "Francois Beach",
-                  "text": "Cei care caută un timp relaxant pe coasta din Gros Islet vor găsi locul potrivit la plaja Francois. Oaspeții apreciază oportunitatea de a sta pe nisipul fin și de a-și scufunda picioarele în apa limpede. O vizită în ora de aur oferă un joc de lumini deosebit de frumos la orizont.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.966285,
-                        14.066045
-                  ]
-            },
-            {
-                  "name": "smugglers cove beach",
-                  "text": "Farmecul ascuns al plajei Smugglers Cove din Gros Islet o transformă într-o destinație plină de satisfacții în Sfânta Lucia. În acest golf fermecător, vă puteți bucura cu adevărat de ore liniștite de înot și plajă extinsă. Pentru o zi perfectă la plajă, băuturile și gustările mici ar trebui să fie cu siguranță în rucsac.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.950188,
-                        14.100529
-                  ]
-            },
-            {
-                  "name": "Trouya Beach",
-                  "text": "Ca o mică secțiune de coastă în Gros Islet, plaja Trouya oferă un cadru confortabil pentru după-amiezi calde. Este un loc fabulos pentru a vă relaxa mintea, a înota în ocean sau pur și simplu a simți briza sărată. Plaja este de obicei nepretențioasă și ideală pentru toți cei care caută o scurtă pauză de la viața de zi cu zi.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.973019,
-                        14.065401
-                  ]
-            },
-            {
-                  "name": "Pigeon Island National Landmark",
-                  "text": "Fortăreață pe Insula Pigeon, fostă bază navală britanică, acum reper național.",
-                  "category": "fortress",
-                  "coords": [
-                        -60.964627,
-                        14.092578
-                  ]
-            },
-            {
-                  "name": "Pigeon Island Beach",
-                  "text": "Situată pe coasta de nord-vest a Sfintei Lucia, secțiunea plajei Pigeon Island combină natura și plăcerea de a sta la plajă în Gros Islet. Aici vizitatorii pot explora Marea Caraibelor cu o baie răcoritoare sau se pot reîncărca pe nisip. O excursie dimineața devreme asigură adesea cel mai bun loc lângă apă.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.960125,
-                        14.091033
-                  ]
-            },
-            {
-                  "name": "Cas en bas",
-                  "text": "Zonă de agrement cu plajă și sporturi nautice lângă Gros Islet.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
-                  "name": "Pigeon Is. interpretation Center",
-                  "text": "Centru de interpretare pe Insula Pigeon, cu exponate despre istoria militară.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.962275,
-                        14.093925
-                  ]
-            },
-            {
-                  "name": "US Signaling Station",
-                  "text": "Stație istorică de semnalizare a armatei americane din WWII pe Insula Pigeon.",
-                  "category": "historical",
-                  "coords": [
-                        -60.966241,
-                        14.091273
-                  ]
-            },
-            {
-                  "name": "WWII Old U.S. Military Pillars",
-                  "text": "Urme ale unor stâlpi de beton ai unei instalații militare americane din WWII.",
-                  "category": "historical",
-                  "coords": [
-                        -60.956265,
-                        14.067805
-                  ]
-            },
-            {
-                  "name": "Aquaholics Kite surfing School",
-                  "text": "Școală de kitesurfing pe plaja din Gros Islet.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.926738,
-                        14.091094
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Splash Island Water Park",
-                  "text": "Water park with slides and pools in Gros Islet.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
-                  "name": "Anse du Cap",
-                  "text": "Secluded cove with calm waters near Gros Islet.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.947548,
-                        14.103692
-                  ]
-            },
-            {
-                  "name": "Anse Bécune Beach",
-                  "text": "Quiet moments by the water are promised at Anse Bécune Beach in picturesque Gros Islet. This small cove is a great location for extensive sunbathing and taking a refreshing dip in the sea. Ideally, visiting the beach on sunny weekdays allows you to fully enjoy the relaxed vibe.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.951072,
-                        14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "Known for its lively atmosphere, this popular beach in Gros Islet attracts many visitors looking to experience the Caribbean flair. Reduit Beach offers excellent conditions for a classic beach day full of swimming fun and sunny walks. Since it can get crowded quickly, a mid-morning arrival is well worth it.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
-                  ]
-            },
-            {
-                  "name": "Francois Beach",
-                  "text": "Those seeking a relaxing time on the coast of Gros Islet will find the right place at Francois Beach. Guests appreciate the opportunity to linger on the soft sand and dip their feet into the clear water. Visiting during the golden hour provides a particularly beautiful play of light on the horizon.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.966285,
-                        14.066045
-                  ]
-            },
-            {
-                  "name": "smugglers cove beach",
-                  "text": "The hidden charm of Smugglers Cove Beach in Gros Islet makes it a rewarding destination in Saint Lucia. In this delightful bay, one can truly enjoy quiet swimming hours and extensive sunbathing. For a perfect beach day, drinks and light snacks should definitely be included in your bag.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.950188,
-                        14.100529
-                  ]
-            },
-            {
-                  "name": "Trouya Beach",
-                  "text": "As a small coastal section in Gros Islet, Trouya Beach offers a cozy setting for warm afternoons. It is a fabulous spot to unwind your mind, swim in the ocean, or simply feel the salty breeze. The beach is mostly unhurried and ideal for anyone looking for a brief break from everyday life.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.973019,
-                        14.065401
-                  ]
-            },
-            {
-                  "name": "Pigeon Island National Landmark",
-                  "text": "Fortress on Pigeon Island, a former British naval base, now a national landmark.",
-                  "category": "fortress",
-                  "coords": [
-                        -60.964627,
-                        14.092578
-                  ]
-            },
-            {
-                  "name": "Pigeon Island Beach",
-                  "text": "Located on the northwest coast of Saint Lucia, the beach section of Pigeon Island Beach combines nature and beach pleasure in Gros Islet. Here, visitors can explore the Caribbean Sea with a refreshing dip or recharge their energy on the sand. A morning trip often secures the finest spot by the water.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.960125,
-                        14.091033
-                  ]
-            },
-            {
-                  "name": "Cas en bas",
-                  "text": "Recreational area with beach and water sports near Gros Islet.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
-                  "name": "Pigeon Is. interpretation Center",
-                  "text": "Interpretation center on Pigeon Island with exhibits on military history.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.962275,
-                        14.093925
-                  ]
-            },
-            {
-                  "name": "US Signaling Station",
-                  "text": "Historic WWII US Army signaling station on Pigeon Island.",
-                  "category": "historical",
-                  "coords": [
-                        -60.966241,
-                        14.091273
-                  ]
-            },
-            {
-                  "name": "WWII Old U.S. Military Pillars",
-                  "text": "Remains of concrete pillars from a WWII US military installation.",
-                  "category": "historical",
-                  "coords": [
-                        -60.956265,
-                        14.067805
-                  ]
-            },
-            {
-                  "name": "Aquaholics Kite surfing School",
-                  "text": "Kitesurfing school on the beach at Gros Islet.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.926738,
-                        14.091094
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LC",
     type: "town",
@@ -1842,24 +866,6 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-micoud-cities-v2", "sights": {
       "de": [
             {
-                  "name": "L'Anse Mabouya (Fond Bay Beach)",
-                  "text": "Abseits der touristischen Hotspots bietet L'Anse Mabouya, auch als Fond Bay Beach bekannt, ein authentisches Küstenerlebnis in Micoud. Vorwiegend von Einheimischen frequentiert, lädt der naturnahe Strand zu ausgedehnten Spaziergängen ein. Festes Schuhwerk ist für die Erkundung der umliegenden Naturabschnitte durchaus ratsam.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.892259,
-                        13.833654
-                  ]
-            },
-            {
-                  "name": "Fond Bay Gardens",
-                  "text": "Gärten mit tropischen Pflanzen und einem Teich in Micoud.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.899276,
-                        13.832575
-                  ]
-            },
-            {
                   "name": "Oldest Baobab Tree",
                   "text": "Uralter Baobab-Baum in Micoud, über 800 Jahre alt.",
                   "category": "landmark",
@@ -1870,24 +876,6 @@ export const saintluciaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "L'Anse Mabouya (Fond Bay Beach)",
-                  "text": "A turisztikai központoktól távol a L'Anse Mabouya, más néven Fond Bay Beach, autentikus tengerparti élményt kínál Micoud-ban. A főként helyiek által látogatott természetes strand hosszú sétákra csábít. Erős cipő mindenképpen ajánlott a környező természeti területek felfedezéséhez.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.892259,
-                        13.833654
-                  ]
-            },
-            {
-                  "name": "Fond Bay Gardens",
-                  "text": "Trópusi növényekkel és tóval rendelkező kertek Micoudban.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.899276,
-                        13.832575
-                  ]
-            },
             {
                   "name": "Oldest Baobab Tree",
                   "text": "Ősi baobabfa Micoudban, több mint 800 éves.",
@@ -1900,24 +888,6 @@ export const saintluciaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "L'Anse Mabouya (Fond Bay Beach)",
-                  "text": "Departe de punctele turistice aglomerate, L'Anse Mabouya, cunoscută și sub numele de plaja Fond Bay, oferă o experiență de coastă autentică în Micoud. Frecventată în principal de localnici, plaja naturală invită la plimbări lungi. Încălțămintea rezistentă este cu siguranță recomandabilă pentru a explora zonele naturale din jur.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.892259,
-                        13.833654
-                  ]
-            },
-            {
-                  "name": "Fond Bay Gardens",
-                  "text": "Grădini cu plante tropicale și un iaz în Micoud.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.899276,
-                        13.832575
-                  ]
-            },
-            {
                   "name": "Oldest Baobab Tree",
                   "text": "Bătrân copac baobab în Micoud, de peste 800 de ani.",
                   "category": "landmark",
@@ -1928,24 +898,6 @@ export const saintluciaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "L'Anse Mabouya (Fond Bay Beach)",
-                  "text": "Away from the tourist hotspots, L'Anse Mabouya, also known as Fond Bay Beach, offers an authentic coastal experience in Micoud. Frequented primarily by locals, the natural beach invites visitors for long, peaceful walks. Sturdy footwear is highly advisable for exploring the surrounding natural areas.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.892259,
-                        13.833654
-                  ]
-            },
-            {
-                  "name": "Fond Bay Gardens",
-                  "text": "Gardens with tropical plants and a pond in Micoud.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.899276,
-                        13.832575
-                  ]
-            },
             {
                   "name": "Oldest Baobab Tree",
                   "text": "Ancient baobab tree in Micoud, over 800 years old.",
@@ -2094,24 +1046,6 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-anse-la-raye-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Anse Cochon Beach",
-                  "text": "Das beliebte Sandziel Anse Cochon Beach in Anse La Raye präsentiert sich als malerischer Zufluchtsort an der Küste von Saint Lucia. Schwimmer und Sonnenanbeter finden hier ideale Voraussetzungen für erholsame Stunden am Meer. Besonders in der Trockenzeit lohnt sich ein Besuch für ungetrübtes Strandvergnügen.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.056863,
-                        13.926545
-                  ]
-            },
-            {
-                  "name": "Roseau Beach",
-                  "text": "Mit seiner idyllischen Atmosphäre ist der Roseau Beach in Anse La Raye ein wunderbarer Ort, um das Meeresrauschen zu genießen. Die weitläufige Strandkulisse lädt zu langen Küstenspaziergängen und ruhigen Momenten am Wasser ein. Am späten Nachmittag weht hier oft eine besonders angenehme, kühlende Brise.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.034509,
-                        13.958362
-                  ]
-            },
-            {
                   "name": "Tolonge Beach",
                   "text": "Der entspannende Küstenbereich des Tolonge Beach bietet Besuchern in Anse La Raye eine ruhige Alternative zu belebteren Buchten. Einfach mal im Sand abschalten, lesen oder die Füße ins karibische Wasser halten, gehört hier zum Tagesprogramm. Für den optimalen Komfort empfiehlt es sich, Strandmatten und ausreichend Trinkwasser mitzubringen.",
                   "category": "recreational",
@@ -2130,30 +1064,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Horizon",
-                  "text": "Aussichtspunkt mit Blick auf die Bucht von Anse La Raye.",
-                  "category": "natural",
-                  "coords": [
-                        -61.045695,
-                        13.916994
-                  ]
-            },
-            {
                   "name": "The Melting Pot",
                   "text": "Museum in Anse La Raye, das die kulturelle Verschmelzung St. Lucias zeigt.",
                   "category": "museum",
                   "coords": [
                         -61.043986,
                         13.937796
-                  ]
-            },
-            {
-                  "name": "St. Lucia Bamboo Rafting",
-                  "text": "Bambusfloßfahrten auf dem Fluss von Anse La Raye.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.026548,
-                        13.955839
                   ]
             },
             {
@@ -2177,24 +1093,6 @@ export const saintluciaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Anse Cochon Beach",
-                  "text": "Az Anse La Raye-ben található népszerű homokos úti cél, az Anse Cochon Beach festői menedékként jelenik meg Saint Lucia partjainál. Az úszók és a napozni vágyók ideális feltételeket találnak itt a pihentető tengerparti órákhoz. Különösen a száraz évszakban érdemes ellátogatni a zavartalan strandolás élményéért.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.056863,
-                        13.926545
-                  ]
-            },
-            {
-                  "name": "Roseau Beach",
-                  "text": "Idillikus hangulatával az Anse La Raye-i Roseau Beach csodálatos hely a tenger zúgásának élvezetére. A tágas tengerparti táj hosszú sétákra és csendes pillanatokra hív a vízparton. Késő délután gyakran különösen kellemes, hűsítő szellő fúj itt.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.034509,
-                        13.958362
-                  ]
-            },
-            {
                   "name": "Tolonge Beach",
                   "text": "A Tolonge Beach pihentető tengerparti része egy csendes alternatívát kínál a látogatóknak Anse La Raye forgalmasabb öbleihez képest. Egyszerűen csak kikapcsolódni a homokban, olvasni, vagy lábunkat a karibi vízbe lógatni – ez mind a napi program része itt. Az optimális kényelem érdekében ajánlott strandmatracot és elegendő ivóvizet hozni.",
                   "category": "recreational",
@@ -2213,30 +1111,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Horizon",
-                  "text": "Kilátópont az Anse La Raye-i öbölre.",
-                  "category": "natural",
-                  "coords": [
-                        -61.045695,
-                        13.916994
-                  ]
-            },
-            {
                   "name": "The Melting Pot",
                   "text": "Múzeum Anse La Raye-ben, amely bemutatja Saint Lucia kulturális olvasztótégelyét.",
                   "category": "museum",
                   "coords": [
                         -61.043986,
                         13.937796
-                  ]
-            },
-            {
-                  "name": "St. Lucia Bamboo Rafting",
-                  "text": "Bambusz tutajozás az Anse La Raye-i folyón.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.026548,
-                        13.955839
                   ]
             },
             {
@@ -2260,24 +1140,6 @@ export const saintluciaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Anse Cochon Beach",
-                  "text": "Destinația populară cu nisip, plaja Anse Cochon din Anse La Raye, se prezintă ca un refugiu pitoresc pe coasta din Sfânta Lucia. Înotătorii și iubitorii de soare vor găsi aici condiții ideale pentru ore de relaxare la mare. Mai ales în sezonul uscat, o vizită merită din plin pentru o plăcere neumbrită pe plajă.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.056863,
-                        13.926545
-                  ]
-            },
-            {
-                  "name": "Roseau Beach",
-                  "text": "Cu atmosfera sa idilică, plaja Roseau din Anse La Raye este un loc minunat pentru a te bucura de sunetul mării. Peisajul extins al plajei invită la lungi plimbări de coastă și la momente liniștite pe malul apei. La sfârșitul după-amiezii, aici suflă adesea o briză deosebit de plăcută și răcoroasă.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.034509,
-                        13.958362
-                  ]
-            },
-            {
                   "name": "Tolonge Beach",
                   "text": "Zona de coastă relaxantă a plajei Tolonge oferă vizitatorilor din Anse La Raye o alternativă liniștită la golfurile mai aglomerate. Pur și simplu a te deconecta pe nisip, a citi sau a-ți ține picioarele în apele caraibiene face parte din programul zilnic de aici. Pentru un confort optim, este recomandat să aduceți rogojini de plajă și suficientă apă de băut.",
                   "category": "recreational",
@@ -2296,30 +1158,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Horizon",
-                  "text": "Punct de belvedere cu vedere asupra golfului Anse La Raye.",
-                  "category": "natural",
-                  "coords": [
-                        -61.045695,
-                        13.916994
-                  ]
-            },
-            {
                   "name": "The Melting Pot",
                   "text": "Muzeu în Anse La Raye care ilustrează fuziunea culturală a Sf. Lucia.",
                   "category": "museum",
                   "coords": [
                         -61.043986,
                         13.937796
-                  ]
-            },
-            {
-                  "name": "St. Lucia Bamboo Rafting",
-                  "text": "Plutire pe plute de bambus pe râul Anse La Raye.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.026548,
-                        13.955839
                   ]
             },
             {
@@ -2343,24 +1187,6 @@ export const saintluciaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Anse Cochon Beach",
-                  "text": "The popular sandy destination of Anse Cochon Beach in Anse La Raye presents itself as a picturesque refuge on the coast of Saint Lucia. Swimmers and sun worshippers will find ideal conditions here for relaxing hours by the sea. A visit during the dry season is particularly worthwhile for unclouded beach enjoyment.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.056863,
-                        13.926545
-                  ]
-            },
-            {
-                  "name": "Roseau Beach",
-                  "text": "With its idyllic atmosphere, Roseau Beach in Anse La Raye is a wonderful place to enjoy the sound of the ocean. The extensive beach scenery invites visitors for long coastal walks and quiet moments by the water. In the late afternoon, a particularly pleasant, cooling breeze often blows here.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.034509,
-                        13.958362
-                  ]
-            },
-            {
                   "name": "Tolonge Beach",
                   "text": "The relaxing coastal area of Tolonge Beach offers visitors in Anse La Raye a quiet alternative to busier bays. Simply switching off on the sand, reading, or dipping your feet in the Caribbean water is part of the daily routine here. For optimal comfort, bringing beach mats and plenty of drinking water is recommended.",
                   "category": "recreational",
@@ -2379,30 +1205,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Horizon",
-                  "text": "Scenic viewpoint overlooking Anse La Raye bay.",
-                  "category": "natural",
-                  "coords": [
-                        -61.045695,
-                        13.916994
-                  ]
-            },
-            {
                   "name": "The Melting Pot",
                   "text": "Museum in Anse La Raye showcasing St. Lucia's cultural fusion.",
                   "category": "museum",
                   "coords": [
                         -61.043986,
                         13.937796
-                  ]
-            },
-            {
-                  "name": "St. Lucia Bamboo Rafting",
-                  "text": "Bamboo rafting on the Anse La Raye river.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.026548,
-                        13.955839
                   ]
             },
             {
@@ -2490,15 +1298,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "River Doree Beach",
-                  "text": "Wo Fluss und Meer aufeinandertreffen, formt der River Doree Beach in Choiseul eine einzigartige Kulisse. Diese ruhige Stelle auf Saint Lucia wird vor allem für besinnliche Spaziergänge entlang der Wasserlinie geschätzt. Es ist ein wunderbarer Spot, um die Natur zu beobachten und den warmen Nachmittag ausklingen zu lassen.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.037447,
-                        13.759551
-                  ]
-            },
-            {
                   "name": "Sable Wiche Sha Beach, Choiseul",
                   "text": "Der Sable Wiche Sha Beach gilt als lokaler Geheimtipp unter den Küstenstreifen in Choiseul. Besucher können hier in einer bodenständigen Atmosphäre das entspannte Inselgefühl von Saint Lucia erleben. Am besten nimmt man sich ein gutes Buch mit und genießt das Meeresrauschen abseits der touristischen Pfade.",
                   "category": "recreational",
@@ -2524,24 +1323,6 @@ export const saintluciaCitiesV2: POI[] = [
                         -61.057984,
                         13.787175
                   ]
-            },
-            {
-                  "name": "Caribbean Imprints",
-                  "text": "Kulturzentrum und Kunstgalerie in Choiseul mit lokalen Handarbeiten.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.043612,
-                        13.777246
-                  ]
-            },
-            {
-                  "name": "Balenbouche Estate",
-                  "text": "Historisches Plantagenanwesen mit Herrenhaus und Gärten in Choiseul.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.027023,
-                        13.756616
-                  ]
             }
       ],
       "hu": [
@@ -2561,15 +1342,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -61.050682,
                         13.775387
-                  ]
-            },
-            {
-                  "name": "River Doree Beach",
-                  "text": "Ahol a folyó és a tenger találkozik, a Choiseulban található River Doree Beach egyedülálló környezetet alkot. Saint Lucia szigetének ezt a csendes helyét különösen a vízvonal menti elmélkedő séták miatt értékelik. Csodálatos hely a természet megfigyelésére és a meleg délután lezárására.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.037447,
-                        13.759551
                   ]
             },
             {
@@ -2598,24 +1370,6 @@ export const saintluciaCitiesV2: POI[] = [
                         -61.057984,
                         13.787175
                   ]
-            },
-            {
-                  "name": "Caribbean Imprints",
-                  "text": "Kulturális központ és művészeti galéria Choiseulban, helyi kézműves termékekkel.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.043612,
-                        13.777246
-                  ]
-            },
-            {
-                  "name": "Balenbouche Estate",
-                  "text": "Történelmi ültetvénybirtok kúriával és kertekkel Choiseulban.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.027023,
-                        13.756616
-                  ]
             }
       ],
       "ro": [
@@ -2635,15 +1389,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -61.050682,
                         13.775387
-                  ]
-            },
-            {
-                  "name": "River Doree Beach",
-                  "text": "Acolo unde râul se întâlnește cu marea, plaja River Doree din Choiseul formează un fundal unic. Acest loc liniștit din Sfânta Lucia este apreciat în primul rând pentru plimbările contemplative de-a lungul liniei apei. Este un loc minunat pentru a observa natura și a lăsa după-amiaza caldă să se încheie.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.037447,
-                        13.759551
                   ]
             },
             {
@@ -2672,24 +1417,6 @@ export const saintluciaCitiesV2: POI[] = [
                         -61.057984,
                         13.787175
                   ]
-            },
-            {
-                  "name": "Caribbean Imprints",
-                  "text": "Centru cultural și galerie de artă în Choiseul, cu meșteșuguri locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.043612,
-                        13.777246
-                  ]
-            },
-            {
-                  "name": "Balenbouche Estate",
-                  "text": "Moșie istorică de plantație cu conac și grădini în Choiseul.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.027023,
-                        13.756616
-                  ]
             }
       ],
       "en": [
@@ -2709,15 +1436,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -61.050682,
                         13.775387
-                  ]
-            },
-            {
-                  "name": "River Doree Beach",
-                  "text": "Where the river meets the sea, River Doree Beach in Choiseul forms a truly unique backdrop. This quiet spot on Saint Lucia is primarily appreciated for contemplative walks along the water's edge. It is a wonderful location to observe nature and let the warm afternoon gently wind down.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.037447,
-                        13.759551
                   ]
             },
             {
@@ -2745,24 +1463,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -61.057984,
                         13.787175
-                  ]
-            },
-            {
-                  "name": "Caribbean Imprints",
-                  "text": "Cultural center and art gallery in Choiseul featuring local crafts.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.043612,
-                        13.777246
-                  ]
-            },
-            {
-                  "name": "Balenbouche Estate",
-                  "text": "Historic plantation estate with a great house and gardens in Choiseul.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.027023,
-                        13.756616
                   ]
             }
       ]
@@ -2947,194 +1647,10 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-ciceron-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "The Morne Museum",
-                  "text": "Museum auf dem Morne Hügel in Ciceron zur Geschichte St. Lucias.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "In Ciceron gelegen, entpuppt sich der Yellow Sands Beach als idyllischer Rückzugsort für einen sonnigen Ausflug. Die feinen Strandabschnitte bieten ideale Gegebenheiten für Strandliebhaber und entspannte Nachmittage am Meer. Um die friedliche Stimmung am Morgen einzufangen, lohnt sich ein zeitiges Aufstehen.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
-            {
-                  "name": "Mount Bellevue",
-                  "text": "Hügelkuppe mit Panoramablick nahe Ciceron.",
-                  "category": "natural",
-                  "coords": [
-                        -61.014144,
-                        13.971109
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Park in Ciceron; benannt nach dem Nobelpreisträger Derek Walcott.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Historischer Park in Ciceron mit einem Denkmal und tropischen Gärten.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "The Morne Museum",
-                  "text": "Múzeum a Morne dombon Ciceronban, Saint Lucia történelméről.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "A Ciceronban található Yellow Sands Beach idillikus menedékhelynek bizonyul egy napos kiránduláshoz. A finom partszakaszok ideális körülményeket biztosítanak a strandok szerelmeseinek és a tengerparti pihentető délutánoknak. A békés reggeli hangulat megörökítéséhez érdemes korán kelni.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
-            {
-                  "name": "Mount Bellevue",
-                  "text": "Domb teteje panorámás kilátással Ciceron közelében.",
-                  "category": "natural",
-                  "coords": [
-                        -61.014144,
-                        13.971109
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Park Ciceronban; a Nobel-díjas Derek Walcottról elnevezve.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Történelmi park Ciceronban, emlékművel és trópusi kertekkel.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "The Morne Museum",
-                  "text": "Muzeu pe dealul Morne din Ciceron, despre istoria Sf. Lucia.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "Situată în Ciceron, plaja Yellow Sands se dovedește a fi un refugiu idilic pentru o excursie însorită. Secțiunile de plajă fină oferă condiții ideale pentru iubitorii de plajă și după-amiezi relaxante la mare. Pentru a surprinde atmosfera pașnică de dimineață, trezitul devreme merită efortul.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
-            {
-                  "name": "Mount Bellevue",
-                  "text": "Vârf de deal cu vedere panoramică lângă Ciceron.",
-                  "category": "natural",
-                  "coords": [
-                        -61.014144,
-                        13.971109
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Parc în Ciceron; numit după laureatul Nobel Derek Walcott.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Parcul istoric din Ciceron, cu un monument și grădini tropicale.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "The Morne Museum",
-                  "text": "Museum on Morne Hill in Ciceron focusing on St. Lucian history.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "Located in Ciceron, Yellow Sands Beach turns out to be an idyllic retreat for a sunny excursion. The fine beach sections offer ideal conditions for beach lovers and relaxing afternoons by the sea. Waking up early is definitely worthwhile to capture the peaceful morning mood.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
-            {
-                  "name": "Mount Bellevue",
-                  "text": "Hilltop viewpoint near Ciceron with panoramic views.",
-                  "category": "natural",
-                  "coords": [
-                        -61.014144,
-                        13.971109
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Park in Ciceron; named after Nobel laureate Derek Walcott.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Historic park in Ciceron with a monument and tropical gardens.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LC",
     type: "village",
@@ -3228,39 +1744,12 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-cap-estate-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Splash Island Water Park",
-                  "text": "Wasserpark mit Becken und Rutschen in Cap Estate.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
                   "name": "Anse du Cap",
                   "text": "Sandbucht mit ruhigem Wasser in Cap Estate.",
                   "category": "recreational",
                   "coords": [
                         -60.947548,
                         14.103692
-                  ]
-            },
-            {
-                  "name": "Anse Bécune Beach",
-                  "text": "Der weitläufige Strandabschnitt des Anse Bécune Beach prägt die Küstenlandschaft von Cap Estate im Norden der Insel. Hier finden Besucher eine hervorragende Kulisse für Sonnenbäder und ausgedehnte Schwimmeinheiten im blauen Ozean. Ein windgeschütztes Plätzchen ist ideal, um die karibische Sonne in vollen Zügen zu genießen.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.951072,
-                        14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "Als populäres Ausflugsziel begeistert der Reduit Beach in Cap Estate Strandurlauber mit seinem lebhaften Charme. Ob ein aktiver Tag im Wasser oder ein geselliges Beisammensein am Ufer, dieser Küstenstreifen bietet für jeden Geschmack das Richtige. An den Wochenenden empfiehlt es sich, früh anzukommen, um sich einen guten Liegeplatz zu sichern.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
                   ]
             },
             {
@@ -3282,96 +1771,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pigeon Island National Landmark",
-                  "text": "Eine historische Festung auf einer felsigen Insel, die durch einen Damm mit Cap Estate verbunden ist.",
-                  "category": "fortress",
-                  "coords": [
-                        -60.964627,
-                        14.092578
-                  ]
-            },
-            {
-                  "name": "Pigeon Island Beach",
-                  "text": "Als Teil der historischen Inselregion zieht der Pigeon Island Beach in Cap Estate Natur- und Badefans in seinen Bann. Besucher spazieren hier gerne am Wasser entlang, bevor sie sich eine Abkühlung in den sanften Wellen gönnen. Ein Besuch lässt sich hervorragend mit der Erkundung des nahegelegenen Nationalparks verbinden.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.960125,
-                        14.091033
-                  ]
-            },
-            {
-                  "name": "Cas en bas",
-                  "text": "Ein Erholungsgebiet an der Küste nahe Cap Estate, beliebt zum Schwimmen.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
-                  "name": "$5 Beach",
-                  "text": "In der malerischen Umgebung von Cap Estate gelegen, bietet der $5 Beach einen angenehmen Rückzugsort an der Küste von St. Lucia. Besucher erwartet eine entspannte Atmosphäre, die zu Spaziergängen und Sonnenbädern am Ufer einlädt. Besonders an sonnigen Nachmittagen ist dies ein wunderbarer Ort zum Abschalten.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.921624,
-                        14.08362
-                  ]
-            },
-            {
-                  "name": "Tousalee Beach",
-                  "text": "Der Tousalee Beach ist ein einladender Küstenstreifen in Cap Estate auf St. Lucia. Seine natürliche Umgebung schafft eine ruhige Kulisse, in der Gäste einfach die Seele baumeln lassen können. Ein Besuch am frühen Morgen empfiehlt sich, um den friedlichen Blick auf das Meer voll auszukosten.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.9196,
-                        14.079342
-                  ]
-            },
-            {
-                  "name": "Secret Beach",
-                  "text": "Versteckt in Cap Estate ist der Secret Beach ein echter Geheimtipp für Ruhesuchende auf St. Lucia. Dieser abgelegene Ort eignet sich ideal zum ungestörten Schwimmen, privaten Sonnenbaden und um dem Alltag zu entfliehen. Es ist ratsam, alles Nötige für diesen ruhigen Rückzugsort selbst mitzubringen.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.919419,
-                        14.092068
-                  ]
-            },
-            {
-                  "name": "Pigeon Is. interpretation Center",
-                  "text": "Ein Interpretationszentrum auf Pigeon Island, das die Geschichte und Ökologie der Insel erklärt.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.962275,
-                        14.093925
-                  ]
-            },
-            {
-                  "name": "US Signaling Station",
-                  "text": "Eine ehemalige US-Militärsignalstation aus dem Zweiten Weltkrieg an der Küste.",
-                  "category": "historical",
-                  "coords": [
-                        -60.966241,
-                        14.091273
-                  ]
-            },
-            {
-                  "name": "Aquaholics Kite surfing School",
-                  "text": "Eine Kitesurf-Schule, die Kurse am Strand von Cap Estate anbietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.926738,
-                        14.091094
-                  ]
-            },
-            {
-                  "name": "Gorgona forest",
-                  "text": "Der Gorgona-Wald bietet landschaftliche Aussichtspunkte in Cap Estate.",
-                  "category": "natural",
-                  "coords": [
-                        -60.919969,
-                        14.091096
-                  ]
-            },
-            {
                   "name": "Cactus forest",
                   "text": "Ein natürliches Gebiet mit dichtem Kakteenbewuchs nahe Cap Estate.",
                   "category": "natural",
@@ -3383,39 +1782,12 @@ export const saintluciaCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Splash Island Water Park",
-                  "text": "Vízipark medencékkel és csúszdákkal Cap Estate-ban.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
                   "name": "Anse du Cap",
                   "text": "Homokos öböl nyugodt vízzel Cap Estate-ban.",
                   "category": "recreational",
                   "coords": [
                         -60.947548,
                         14.103692
-                  ]
-            },
-            {
-                  "name": "Anse Bécune Beach",
-                  "text": "Az Anse Bécune Beach tágas partszakasza jellemzi Cap Estate part menti táját a sziget északi részén. Itt a látogatók kiváló hátteret találnak a napozáshoz és a kék óceánban való hosszabb úszásokhoz. Egy szélvédett hely ideális arra, hogy teljes mértékben kiélvezze a karibi napsütést.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.951072,
-                        14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "Népszerű kirándulóhelyként a Cap Estate-i Reduit Beach nyüzsgő varázsával örvendezteti meg a strandolókat. Legyen szó egy aktív napról a vízben vagy egy baráti összejövetelről a parton, ez a partszakasz minden ízlésnek kínál valamit. Hétvégén érdemes korán érkezni, hogy jó napozóhelyet biztosítsunk magunknak.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
                   ]
             },
             {
@@ -3437,96 +1809,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pigeon Island National Landmark",
-                  "text": "Egy történelmi erőd egy sziklás szigeten, amelyet egy töltésút köt össze Cap Estate-tel.",
-                  "category": "fortress",
-                  "coords": [
-                        -60.964627,
-                        14.092578
-                  ]
-            },
-            {
-                  "name": "Pigeon Island Beach",
-                  "text": "A történelmi szigeti régió részeként a Cap Estate-i Pigeon Island Beach elbűvöli a természet és a fürdőzés szerelmeseit. A látogatók szívesen sétálnak itt a víz mentén, mielőtt lehűtenék magukat a lágy hullámokban. A látogatás kiválóan összekapcsolható a közeli nemzeti park felfedezésével.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.960125,
-                        14.091033
-                  ]
-            },
-            {
-                  "name": "Cas en bas",
-                  "text": "Egy tengerparti rekreációs terület Cap Estate közelében, népszerű fürdőzésre.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
-                  "name": "$5 Beach",
-                  "text": "A Cap Estate festői vidékén található $5 Beach kellemes tengerparti menedéket kínál Saint Lucián. A látogatók nyugodt légkörben élvezhetik a napozást vagy a parti sétákat. Érdemes egy csendes délutánon érkezni, hogy zavartalanul élvezhessük a karibi napsütést.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.921624,
-                        14.08362
-                  ]
-            },
-            {
-                  "name": "Tousalee Beach",
-                  "text": "A Tousalee Beach egy hívogató partszakasz Cap Estate területén, Saint Lucia szigetén. Természetes környezete békés atmoszférát teremt, ahol a vendégek egyszerűen csak hallgathatják a hullámokat. A kora reggeli látogatás különösen ajánlott a zavartalan óceáni kilátás miatt.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.9196,
-                        14.079342
-                  ]
-            },
-            {
-                  "name": "Secret Beach",
-                  "text": "A Cap Estate területén elrejtett Secret Beach egy igazi kincs a nyugalmat keresők számára Saint Lucián. Ez az eldugott partszakasz ideális a csendes úszáshoz és a tömegek elkerüléséhez. Érdemes minden szükséges dolgot magunkkal hozni, mielőtt felkeressük ezt a békés menedéket.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.919419,
-                        14.092068
-                  ]
-            },
-            {
-                  "name": "Pigeon Is. interpretation Center",
-                  "text": "Egy interpretációs központ a Pigeon Islandon, amely a sziget történetét és ökológiáját mutatja be.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.962275,
-                        14.093925
-                  ]
-            },
-            {
-                  "name": "US Signaling Station",
-                  "text": "Egy korábbi amerikai katonai jelzőállomás a második világháborúból a parton.",
-                  "category": "historical",
-                  "coords": [
-                        -60.966241,
-                        14.091273
-                  ]
-            },
-            {
-                  "name": "Aquaholics Kite surfing School",
-                  "text": "Egy sárkányrepülő iskola, amely órákat kínál a Cap Estate-i strandon.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.926738,
-                        14.091094
-                  ]
-            },
-            {
-                  "name": "Gorgona forest",
-                  "text": "A Gorgona-erdő festői kilátókat kínál Cap Estate-ben.",
-                  "category": "natural",
-                  "coords": [
-                        -60.919969,
-                        14.091096
-                  ]
-            },
-            {
                   "name": "Cactus forest",
                   "text": "Egy természetes terület sűrű kaktusznövéssel Cap Estate közelében.",
                   "category": "natural",
@@ -3538,39 +1820,12 @@ export const saintluciaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Splash Island Water Park",
-                  "text": "Paracvatic cu piscine și tobogane în Cap Estate.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
                   "name": "Anse du Cap",
                   "text": "Golf nisipos cu ape liniștite în Cap Estate.",
                   "category": "recreational",
                   "coords": [
                         -60.947548,
                         14.103692
-                  ]
-            },
-            {
-                  "name": "Anse Bécune Beach",
-                  "text": "Secțiunea întinsă a plajei Anse Bécune modelează peisajul de coastă din Cap Estate în nordul insulei. Aici vizitatorii vor găsi un fundal excelent pentru plajă și sesiuni prelungite de înot în oceanul albastru. Un loc ferit de vânt este ideal pentru a te bucura din plin de soarele din Caraibe.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.951072,
-                        14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "Fiind o destinație populară de excursie, plaja Reduit din Cap Estate încântă turiștii cu farmecul său plin de viață. Fie că este vorba de o zi activă în apă sau de o adunare sociabilă pe țărm, această fâșie de coastă oferă ceva pentru toate gusturile. La sfârșit de săptămână, este recomandat să ajungeți devreme pentru a vă asigura un loc bun.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
                   ]
             },
             {
@@ -3592,96 +1847,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pigeon Island National Landmark",
-                  "text": "O fortăreață istorică pe o insuliță stâncoasă legată de Cap Estate printr-un dig.",
-                  "category": "fortress",
-                  "coords": [
-                        -60.964627,
-                        14.092578
-                  ]
-            },
-            {
-                  "name": "Pigeon Island Beach",
-                  "text": "Ca parte a regiunii insulei istorice, plaja Pigeon Island din Cap Estate captivează iubitorii de natură și plajă. Vizitatorilor le place să se plimbe de-a lungul apei aici înainte de a se răcori în valurile blânde. O vizită poate fi combinată excelent cu explorarea parcului național din apropiere.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.960125,
-                        14.091033
-                  ]
-            },
-            {
-                  "name": "Cas en bas",
-                  "text": "O zonă de agrement pe coastă lângă Cap Estate, populară pentru înot.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
-                  "name": "$5 Beach",
-                  "text": "Situată în zona pitorească din Cap Estate, plaja $5 Beach oferă o evadare de coastă plăcută în Sfânta Lucia. Vizitatorii se pot bucura de o atmosferă relaxată, ideală pentru plajă sau plimbări pe malul apei. Este un loc minunat pentru a vă bucura de soarele din Caraibe într-o după-amiază liniștită.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.921624,
-                        14.08362
-                  ]
-            },
-            {
-                  "name": "Tousalee Beach",
-                  "text": "Tousalee Beach este o întindere de coastă primitoare situată în Cap Estate, Sfânta Lucia. Cadrul natural creează un mediu liniștit unde oaspeții se pot relaxa ascultând valurile. O vizită dimineața devreme este recomandată pentru a admira priveliștile senine ale oceanului.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.9196,
-                        14.079342
-                  ]
-            },
-            {
-                  "name": "Secret Beach",
-                  "text": "Ascunsă în Cap Estate, Secret Beach este o bijuterie pentru cei care caută liniște în Sfânta Lucia. Acest loc retras este ideal pentru înot în liniște, plajă privată și evadarea din mulțime. Asigurați-vă că luați cu dumneavoastră toate cele necesare înainte de a porni spre această oază.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.919419,
-                        14.092068
-                  ]
-            },
-            {
-                  "name": "Pigeon Is. interpretation Center",
-                  "text": "Un centru de interpretare pe Pigeon Island care detaliază istoria și ecologia sitului.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.962275,
-                        14.093925
-                  ]
-            },
-            {
-                  "name": "US Signaling Station",
-                  "text": "O fostă stație de semnalizare militară americană din cel de-al Doilea Război Mondial pe coastă.",
-                  "category": "historical",
-                  "coords": [
-                        -60.966241,
-                        14.091273
-                  ]
-            },
-            {
-                  "name": "Aquaholics Kite surfing School",
-                  "text": "O școală de kite surfing care oferă lecții pe plaja din Cap Estate.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.926738,
-                        14.091094
-                  ]
-            },
-            {
-                  "name": "Gorgona forest",
-                  "text": "Pădurea Gorgona oferă puncte de observație peisagistice în Cap Estate.",
-                  "category": "natural",
-                  "coords": [
-                        -60.919969,
-                        14.091096
-                  ]
-            },
-            {
                   "name": "Cactus forest",
                   "text": "O zonă naturală cu o creștere densă de cactuși lângă Cap Estate.",
                   "category": "natural",
@@ -3693,39 +1858,12 @@ export const saintluciaCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Splash Island Water Park",
-                  "text": "Water park with pools and slides in Cap Estate.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
                   "name": "Anse du Cap",
                   "text": "Sandy cove with calm waters in Cap Estate.",
                   "category": "recreational",
                   "coords": [
                         -60.947548,
                         14.103692
-                  ]
-            },
-            {
-                  "name": "Anse Bécune Beach",
-                  "text": "The expansive beach section of Anse Bécune Beach shapes the coastal landscape of Cap Estate in the north of the island. Here, visitors will find an excellent backdrop for sunbathing and extended swimming sessions in the blue ocean. Finding a wind-protected spot is ideal for fully enjoying the Caribbean sun.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.951072,
-                        14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "As a popular excursion destination, Reduit Beach in Cap Estate thrills beach holidaymakers with its lively charm. Whether it is an active day in the water or a sociable gathering on the shore, this stretch of coastline offers something for every taste. On weekends, arriving early to secure a good spot is highly recommended.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
                   ]
             },
             {
@@ -3744,96 +1882,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.950188,
                         14.100529
-                  ]
-            },
-            {
-                  "name": "Pigeon Island National Landmark",
-                  "text": "A historic fortress on a rocky islet connected to Cap Estate by a causeway.",
-                  "category": "fortress",
-                  "coords": [
-                        -60.964627,
-                        14.092578
-                  ]
-            },
-            {
-                  "name": "Pigeon Island Beach",
-                  "text": "As part of the historic island region, Pigeon Island Beach in Cap Estate captivates nature and beach fans alike. Visitors enjoy strolling along the water here before treating themselves to a cooldown in the gentle waves. A visit can be excellently combined with exploring the nearby national park.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.960125,
-                        14.091033
-                  ]
-            },
-            {
-                  "name": "Cas en bas",
-                  "text": "A coastal recreational area near Cap Estate, popular for swimming.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
-                  "name": "$5 Beach",
-                  "text": "Located in the picturesque area of Cap Estate, $5 Beach offers a pleasant coastal getaway in Saint Lucia. Visitors can enjoy a relaxed atmosphere perfect for sunbathing or leisurely walks along the shore. It is a wonderful spot to soak up the Caribbean sun during a tranquil afternoon.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.921624,
-                        14.08362
-                  ]
-            },
-            {
-                  "name": "Tousalee Beach",
-                  "text": "Tousalee Beach is an inviting stretch of coastline situated in Cap Estate, Saint Lucia. The natural setting creates a calm environment where guests can simply sit back and listen to the waves. An early morning visit is highly recommended to appreciate the serene ocean views.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.9196,
-                        14.079342
-                  ]
-            },
-            {
-                  "name": "Secret Beach",
-                  "text": "Tucked away in Cap Estate, Secret Beach is a hidden gem for those seeking tranquility in Saint Lucia. This secluded spot is ideal for quiet swimming, private sunbathing, and escaping the usual crowds. Make sure to pack all your essentials before heading out to this tranquil retreat.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.919419,
-                        14.092068
-                  ]
-            },
-            {
-                  "name": "Pigeon Is. interpretation Center",
-                  "text": "An interpretation center on Pigeon Island detailing its history and ecology.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.962275,
-                        14.093925
-                  ]
-            },
-            {
-                  "name": "US Signaling Station",
-                  "text": "A former US military signaling station from World War II on the coast.",
-                  "category": "historical",
-                  "coords": [
-                        -60.966241,
-                        14.091273
-                  ]
-            },
-            {
-                  "name": "Aquaholics Kite surfing School",
-                  "text": "A kite surfing school offering lessons on the beach at Cap Estate.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.926738,
-                        14.091094
-                  ]
-            },
-            {
-                  "name": "Gorgona forest",
-                  "text": "Gorgona forest provides scenic viewpoints in Cap Estate.",
-                  "category": "natural",
-                  "coords": [
-                        -60.919969,
-                        14.091096
                   ]
             },
             {
@@ -3903,48 +1951,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cas en bas",
-                  "text": "Ein Erholungsgebiet an der Küste nahe Monchy, beliebt zum Schwimmen.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
-                  "name": "$5 Beach",
-                  "text": "Der Monchy-Abschnitt des $5 Beach zeichnet sich als bemerkenswert ruhiger Streifen der Küste von St. Lucia aus. Wer einen friedlichen Nachmittag zum Lesen oder für ein kurzes Bad im Meer sucht, ist hier genau richtig. Ein Besuch an einem Wochentag verspricht einen besonders ungestörten Aufenthalt.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.921624,
-                        14.08362
-                  ]
-            },
-            {
                   "name": "Tousalee Beach",
                   "text": "Der Tousalee Beach in Monchy bewahrt seine natürliche Schönheit und ist ein herrlich unberührter Zufluchtsort. Die naturbelassene Umgebung lädt Naturliebhaber dazu ein, ohne Ablenkungen zu baden und echte karibische Entspannung zu erleben. Ein Besuch zum Sonnenuntergang krönt jeden Urlaubstag auf der Insel.",
                   "category": "recreational",
                   "coords": [
                         -60.9196,
                         14.079342
-                  ]
-            },
-            {
-                  "name": "Aquaholics Kite surfing School",
-                  "text": "Eine Kitesurf-Schule am Strand von Monchy.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.926738,
-                        14.091094
-                  ]
-            },
-            {
-                  "name": "Gorgona forest",
-                  "text": "Ein bewaldetes Gebiet nahe Monchy, möglicherweise mit Wanderwegen.",
-                  "category": "natural",
-                  "coords": [
-                        -60.919969,
-                        14.091096
                   ]
             },
             {
@@ -3968,48 +1980,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cas en bas",
-                  "text": "Egy tengerparti rekreációs terület Monchy közelében, népszerű fürdőzésre.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
-                  "name": "$5 Beach",
-                  "text": "A $5 Beach Monchyhoz tartozó szakasza különösen csendes része a Saint Lucia-i partvidéknek. Azok a látogatók, akik egy békés délutáni olvasásra vagy lábáztatásra vágynak, tökéletesnek fogják találni. Hétköznapi látogatás esetén még pihentetőbb élményben lehet részünk.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.921624,
-                        14.08362
-                  ]
-            },
-            {
                   "name": "Tousalee Beach",
                   "text": "Természeti szépségét megőrizve a monchy-i Tousalee Beach egy érintetlen tengerparti menedék. A természetes környezet hívogatja a látogatókat a fürdőzésre és a zavartalan karibi pihenésre. Naplemente idején tett látogatás felejthetetlen lezárása lehet a szigeti kalandoknak.",
                   "category": "recreational",
                   "coords": [
                         -60.9196,
                         14.079342
-                  ]
-            },
-            {
-                  "name": "Aquaholics Kite surfing School",
-                  "text": "Egy sárkányrepülő iskola a Monchy-i strandon.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.926738,
-                        14.091094
-                  ]
-            },
-            {
-                  "name": "Gorgona forest",
-                  "text": "Egy erdős terület Monchy közelében, esetleg túraútvonalakkal.",
-                  "category": "natural",
-                  "coords": [
-                        -60.919969,
-                        14.091096
                   ]
             },
             {
@@ -4033,48 +2009,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cas en bas",
-                  "text": "O zonă de agrement pe coastă lângă Monchy, populară pentru înot.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
-                  "name": "$5 Beach",
-                  "text": "Secțiunea Monchy a plajei $5 Beach se remarcă drept o porțiune de coastă remarcabil de liniștită din Sfânta Lucia. Vizitatorii care caută o după-amiază pașnică pentru lectură sau o baie scurtă vor găsi locul potrivit. O vizită în timpul săptămânii garantează o ședere și mai relaxantă.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.921624,
-                        14.08362
-                  ]
-            },
-            {
                   "name": "Tousalee Beach",
                   "text": "Păstrându-și frumusețea naturală, Tousalee Beach din Monchy rămâne un refugiu de coastă neatins. Mediul natural invită iubitorii de natură să se bucure de înot și de o relaxare caraibiană autentică, fără distrageri. O vizită la apus oferă un final cu adevărat memorabil pentru o zi de explorare.",
                   "category": "recreational",
                   "coords": [
                         -60.9196,
                         14.079342
-                  ]
-            },
-            {
-                  "name": "Aquaholics Kite surfing School",
-                  "text": "O școală de kite surfing pe plaja din Monchy.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.926738,
-                        14.091094
-                  ]
-            },
-            {
-                  "name": "Gorgona forest",
-                  "text": "O zonă împădurită lângă Monchy, posibil cu trasee de drumeție.",
-                  "category": "natural",
-                  "coords": [
-                        -60.919969,
-                        14.091096
                   ]
             },
             {
@@ -4098,48 +2038,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cas en bas",
-                  "text": "A recreational coastal area near Monchy, popular for swimming.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
-                  "name": "$5 Beach",
-                  "text": "The Monchy section of $5 Beach stands out as a remarkably quiet stretch of the Saint Lucian coast. Visitors looking for a peaceful afternoon of reading or wading in the water will find it perfectly suited to their needs. Arriving on a weekday guarantees an even more serene and relaxing stay.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.921624,
-                        14.08362
-                  ]
-            },
-            {
                   "name": "Tousalee Beach",
                   "text": "Preserving its natural beauty, Tousalee Beach in Monchy remains an unspoiled coastal haven. The unmanicured environment invites nature lovers to enjoy swimming and authentic Caribbean relaxation without distractions. A sunset visit provides a truly memorable end to a day of island exploration.",
                   "category": "recreational",
                   "coords": [
                         -60.9196,
                         14.079342
-                  ]
-            },
-            {
-                  "name": "Aquaholics Kite surfing School",
-                  "text": "A kite surfing school on the beach at Monchy.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.926738,
-                        14.091094
-                  ]
-            },
-            {
-                  "name": "Gorgona forest",
-                  "text": "A forested area near Monchy, possibly with hiking trails.",
-                  "category": "natural",
-                  "coords": [
-                        -60.919969,
-                        14.091096
                   ]
             },
             {
@@ -4252,15 +2156,6 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.93112,
                         13.805676
                   ]
-            },
-            {
-                  "name": "Oldest Baobab Tree",
-                  "text": "Ein uralter Baobab-Baum in Desruisseaux, der als ältester der Insel gilt.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.914843,
-                        13.809232
-                  ]
             }
       ],
       "hu": [
@@ -4271,15 +2166,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.93112,
                         13.805676
-                  ]
-            },
-            {
-                  "name": "Oldest Baobab Tree",
-                  "text": "Egy ősi baobabfa Desruisseaux-ban, amelyet a sziget legrégebbijének tartanak.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.914843,
-                        13.809232
                   ]
             }
       ],
@@ -4292,15 +2178,6 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.93112,
                         13.805676
                   ]
-            },
-            {
-                  "name": "Oldest Baobab Tree",
-                  "text": "Un baobab antic în Desruisseaux, considerat cel mai vechi de pe insulă.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.914843,
-                        13.809232
-                  ]
             }
       ],
       "en": [
@@ -4311,15 +2188,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.93112,
                         13.805676
-                  ]
-            },
-            {
-                  "name": "Oldest Baobab Tree",
-                  "text": "An ancient baobab tree in Desruisseaux, believed to be the oldest on the island.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.914843,
-                        13.809232
                   ]
             }
       ]
@@ -4416,15 +2284,6 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-ti-rocher-micoud-cities-v2", "sights": {
       "de": [
             {
-                  "name": "L'Anse Mabouya (Fond Bay Beach)",
-                  "text": "Das in Ti Rocher (Micoud) gelegene L'Anse Mabouya, auch bekannt als Fond Bay Beach, ist ein faszinierender Strandabschnitt auf St. Lucia. Er bietet großartige Bedingungen für alle, die gerne am Wasser spazieren gehen oder sich in den Fluten erfrischen möchten. Besonders an sonnigen Vormittagen lässt sich hier das lokale Inselleben herrlich genießen.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.892259,
-                        13.833654
-                  ]
-            },
-            {
                   "name": "Sessene Descartes House",
                   "text": "Ein Museum im ehemaligen Haus von Sessene Descartes in Ti Rocher Micoud.",
                   "category": "museum",
@@ -4432,27 +2291,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.907702,
                         13.849501
                   ]
-            },
-            {
-                  "name": "Fond Bay Gardens",
-                  "text": "Botanische Gärten mit einer Vielzahl tropischer Pflanzen in Ti Rocher Micoud.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.899276,
-                        13.832575
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "L'Anse Mabouya (Fond Bay Beach)",
-                  "text": "A Ti Rocher Micoud területén fekvő L'Anse Mabouya, más néven Fond Bay Beach, Saint Lucia egyik varázslatos helyszíne. Kiváló környezetet biztosít azok számára, akik a homokban sétálnának, vagy a tengerben hűsölnének. Remek választás egy napfényes délelőtt eltöltésére, miközben átadjuk magunkat a part ritmusának.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.892259,
-                        13.833654
-                  ]
-            },
             {
                   "name": "Sessene Descartes House",
                   "text": "Egy múzeum Sessene Descartes egykori otthonában Ti Rocher Micoud-ban.",
@@ -4461,27 +2302,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.907702,
                         13.849501
                   ]
-            },
-            {
-                  "name": "Fond Bay Gardens",
-                  "text": "Botanikus kertek trópusi növények sokaságával Ti Rocher Micoud-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.899276,
-                        13.832575
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "L'Anse Mabouya (Fond Bay Beach)",
-                  "text": "Situată în Ti Rocher Micoud, L'Anse Mabouya, cunoscută și sub numele de Fond Bay Beach, este un loc captivant din Sfânta Lucia. Oferă un cadru excelent pentru cei care doresc să se plimbe pe nisip sau să se răcorească în mare. Este un loc minunat pentru a petrece o dimineață însorită în ritmurile de coastă locale.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.892259,
-                        13.833654
-                  ]
-            },
             {
                   "name": "Sessene Descartes House",
                   "text": "Un muzeu în fosta casă a lui Sessene Descartes din Ti Rocher Micoud.",
@@ -4490,27 +2313,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.907702,
                         13.849501
                   ]
-            },
-            {
-                  "name": "Fond Bay Gardens",
-                  "text": "Grădini botanice cu o varietate de plante tropicale în Ti Rocher Micoud.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.899276,
-                        13.832575
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "L'Anse Mabouya (Fond Bay Beach)",
-                  "text": "Situated in Ti Rocher Micoud, L'Anse Mabouya, also known as Fond Bay Beach, is a captivating spot on Saint Lucia. It offers an excellent setting for those wishing to stroll along the sand or cool off in the sea. It's a great place to spend a sunny morning enjoying the local coastal rhythms.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.892259,
-                        13.833654
-                  ]
-            },
             {
                   "name": "Sessene Descartes House",
                   "text": "A museum in the former home of Sessene Descartes in Ti Rocher Micoud.",
@@ -4518,15 +2323,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.907702,
                         13.849501
-                  ]
-            },
-            {
-                  "name": "Fond Bay Gardens",
-                  "text": "Botanical gardens with a variety of tropical plants in Ti Rocher Micoud.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.899276,
-                        13.832575
                   ]
             }
       ]
@@ -4576,86 +2372,10 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-ti-rocher-castries-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "View point",
-                  "text": "Ein Aussichtspunkt mit Blick auf die Hügel und die Küste bei Ti Rocher Castries.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Ein Zoo mit einheimischen Wildtieren und forstwirtschaftlichen Ausstellungen in Ti Rocher Castries.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "View point",
-                  "text": "Egy festői kilátó, ahonnan a dombokra és a partvidékre lehet látni Ti Rocher Castries közelében.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Egy állatkert helyi vadon élő állatokkal és erdészeti kiállításokkal Ti Rocher Castries-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "View point",
-                  "text": "Un punct de belvedere cu vedere spre dealuri și coastă lângă Ti Rocher Castries.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "O grădină zoologică cu animale sălbatice locale și exponate forestiere în Ti Rocher Castries.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "View point",
-                  "text": "A scenic viewpoint overlooking the hills and coastline near Ti Rocher Castries.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "A zoo featuring local wildlife and forestry exhibits in Ti Rocher Castries.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LC",
     type: "village",
@@ -4747,230 +2467,10 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-marisule-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "Der Vigie Beach in Marisule ist ein bekannter Sandstrand, der berühmt dafür ist, parallel zur örtlichen Landebahn zu verlaufen. Besucher können hier ein Bad im warmen Wasser mit dem einzigartigen Anblick landender Kleinflugzeuge verbinden. Aufgrund seiner Beliebtheit lohnt es sich, etwas früher am Tag zu kommen, um den besten Platz zu ergattern.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Der Choc Beach in Marisule bietet eine malerische tropische Kulisse, die wie geschaffen für einen erholsamen Tag ist. Mit seinen schönen Aussichten auf die Küste eignet er sich hervorragend für ausgiebige Sonnenbäder und entspanntes Schwimmen. Ein Aufenthalt unter der karibischen Sonne ist hier stets ein wundervolles Urlaubserlebnis.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "Francois Beach",
-                  "text": "Der in der Gegend von Marisule gelegene Francois Beach ist ein einladender Abschnitt der lucianischen Küste. Seine bescheidene, lockere Atmosphäre macht ihn zu einem schönen Ziel für ruhige Spaziergänge am Wasser oder einfache Entspannung am Strand. An klaren Tagen eröffnen sich von hier aus wunderbare Perspektiven auf die Umgebung.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.966285,
-                        14.066045
-                  ]
-            },
-            {
-                  "name": "Trouya Beach",
-                  "text": "Der Trouya Beach gilt als äußerst entspannendes Reiseziel inmitten von Marisule. Gäste erwartet ein ruhiges Umfeld, das sich perfekt zum Abschalten, Sonnenbaden und für einen erfrischenden Sprung in den Ozean eignet. Einfach nur dazusitzen und die Meeresluft einzuatmen, wirkt hier unglaublich regenerierend.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.973019,
-                        14.065401
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "Der Marisule Beach ist ideal zur Erholung und bietet ein klassisches Küstenerlebnis auf St. Lucia. Die Uferlinie lädt Besucher dazu ein, sich im Sand auszuruhen oder im einladenden Wasser leichte Schwimmzüge zu machen. Am besten genießt man die Atmosphäre in gemächlichem Tempo am späten Nachmittag.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Ein Zoo mit einheimischen Wildtierausstellungen in Marisule.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "A helyi repülőtér kifutópályájával párhuzamosan futó Vigie Beach egy jól ismert, homokos strand Marisule közelében. A látogatók a meleg vízben való fürdőzést a kisrepülőgépek érkezésének egyedi látványával ötvözhetik. Népszerűsége miatt érdemes a nap korábbi szakaszában érkezni, hogy jó helyet találjunk.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "A marisule-i Choc Beach festői trópusi környezetet kínál, amely tökéletes egy pihentető nap eltöltéséhez. Látványos tengerparti kilátásával fantasztikus helyszín a kényelmes napozáshoz és a kellemes fürdőzéshez. Egy Saint Lucia-i nyaralás során mindig jó ötlet itt lazítani a sziget napsütésében.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "Francois Beach",
-                  "text": "A Marisule környékén megbújó Francois Beach egy hívogató partszakasz Saint Lucia partvidékén. Szerény, könnyed atmoszféra teszi ideálissá csendes vízparti sétákhoz vagy egyszerű tengerparti pihenéshez. Egy derült napon tett látogatás gyönyörű partmenti kilátást nyújt a környező tájra.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.966285,
-                        14.066045
-                  ]
-            },
-            {
-                  "name": "Trouya Beach",
-                  "text": "A Trouya Beach egy rendkívül pihentető úti cél, amely Marisule területén bújik meg. A vendégeket egy derűs környezet várja, amely tökéletes a lazításra, napozásra és egy frissítő óceáni csobbanásra. Csak megállni egy pillanatra, és beszívni a sós tengeri levegőt hihetetlenül feltöltő élmény.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.973019,
-                        14.065401
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "A kikapcsolódásra ideális Marisule Beach klasszikus Saint Lucia-i parti élményt nyújt. A partszakasz homokos pihenésre és könnyed fürdőzésre invitálja a hívogató vízben a látogatókat. A leginkább egy kényelmes, késő délutáni órában érdemes kiélvezni a hangulatát.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Egy állatkert helyi vadon élő állatokkal Marisule-ban.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "Faimoasă pentru faptul că se întinde paralel cu pista aeroportului local, Vigie Beach din Marisule este o întindere de nisip bine-cunoscută. Vizitatorii pot combina înotul în apele calde cu experiența unică de a privi sosirea avioanelor mici. Datorită popularității sale, o sosire mai devreme vă asigură cel mai bun loc pe plajă.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Choc Beach din Marisule oferă un cadru tropical pitoresc, perfect pentru o zi de relaxare. Cu priveliștile sale pitorești de coastă, este o locație fantastică pentru plajă și înot relaxant. O pauză sub soarele insulei de aici este întotdeauna o idee excelentă într-o vacanță în Sfânta Lucia.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "Francois Beach",
-                  "text": "Aflată în zona Marisule, Francois Beach oferă o porțiune primitoare a coastei din Sfânta Lucia. Atmosfera modestă și relaxată o face potrivită pentru plimbări liniștite de-a lungul apei sau pentru o simplă pauză pe plajă. O vizită într-o zi senină oferă perspective frumoase de coastă asupra zonei înconjurătoare.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.966285,
-                        14.066045
-                  ]
-            },
-            {
-                  "name": "Trouya Beach",
-                  "text": "Trouya Beach este renumită ca o destinație extrem de relaxantă, ascunsă în Marisule. Oaspeții se pot aștepta la un mediu senin, perfect pentru relaxare, plajă și o baie răcoritoare în ocean. Un moment petrecut aici doar pentru a respira aerul mării este incredibil de revigorant.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.973019,
-                        14.065401
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "Ideală pentru recreere, Marisule Beach oferă o experiență clasică pe coasta din Sfânta Lucia. Malul invită vizitatorii să se odihnească pe nisip sau să se bucure de un înot ușor în apele primitoare. Cel mai bine este să o savurați într-un ritm relaxat, la sfârșitul după-amiezii.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "O grădină zoologică cu exponate de animale sălbatice locale în Marisule.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "Famous for running parallel to the local airport runway, Vigie Beach in Marisule is a well-known sandy expanse. Visitors can combine swimming in the warm waters with the unique experience of watching small planes arrive. Because of its popularity, going slightly earlier in the day ensures you find a prime spot.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Choc Beach in Marisule offers a picturesque tropical setting perfect for a restorative day out. With its scenic coastal views, it is a fantastic location for leisurely sunbathing and gentle swimming. Relaxing under the island sun here is always a good idea during a Saint Lucian holiday.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "Francois Beach",
-                  "text": "Resting in the Marisule area, Francois Beach provides a welcoming stretch of Saint Lucian shoreline. The modest, easygoing atmosphere makes it suitable for quiet walks along the water or simple beachside relaxation. Visiting on a clear day yields beautiful coastal perspectives of the surrounding area.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.966285,
-                        14.066045
-                  ]
-            },
-            {
-                  "name": "Trouya Beach",
-                  "text": "Trouya Beach is renowned as a highly relaxing destination tucked within Marisule. Guests can expect a serene environment perfect for unwinding, sunbathing, and enjoying a refreshing dip in the ocean. Taking a moment here just to breathe in the sea air is incredibly rejuvenating.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.973019,
-                        14.065401
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "Ideal for recreation, Marisule Beach delivers a classic Saint Lucian coastal experience. The shoreline invites visitors to rest on the sand or engage in light swimming in the inviting waters. It is best enjoyed at a leisurely pace during the late afternoon.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "A zoo with local wildlife exhibits in Marisule.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LC",
     type: "village",
@@ -5064,33 +2564,6 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-union-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Vigie Beach",
-                  "text": "Dieser bis nach Union reichende Abschnitt des Vigie Beach ist ein beliebter und überaus entspannter Sandstrand. Er zieht all jene an, die eine ungezwungene Umgebung zum Sonnenbaden und zum Genießen des Ozeans suchen. Wer sich einen ruhigen Platz für sein Handtuch sucht, wird mit einem herrlichen Tag am Meer belohnt.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Die zu Union gehörende Seite des Choc Beach bewahrt eine äußerst entspannte Atmosphäre entlang ihrer schönen Küstenlinie. Besucher können ausgedehnte Strandspaziergänge unternehmen und ihre Füße im erfrischenden Wasser kühlen. Es ist ein fabelhaftes Ausflugsziel, um nach einem ereignisreichen Vormittag auf St. Lucia zur Ruhe zu kommen.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "Der Marisule Beach in Union bietet einen wunderbar ruhigen Zugang zum Meer und eignet sich hervorragend für unaufgeregte Erholung. Die friedliche Umgebung lässt viel Raum für ungestörtes Sonnenbaden und leichtes Treibenlassen in den Wellen. Ein Besuch lässt sich am besten mit einem guten Buch und ausreichend Sonnenschutz kombinieren.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
                   "name": "Forestry Zoo",
                   "text": "Ein Zoo mit einheimischen Wildtierausstellungen in Union.",
                   "category": "landmark",
@@ -5101,33 +2574,6 @@ export const saintluciaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "A Union felé nyúló Vigie Beach továbbra is egy kedvelt, nyugodt homokos partszakasz. Kellemes atmoszférája vonzza azokat, akik napozni és élvezni szeretnék az óceánt. Ha találunk egy csendes helyet a törülközőnknek, garantált a csodálatos tengerparti nap.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "A Choc Beach Unionhoz tartozó szakasza megőrzi a pihentető hangulatot a gyönyörű partvonal mentén. A látogatók kényelmes sétákat tehetnek, és belemeríthetik lábukat a frissítő vízbe. Nagyszerű úti cél a kikapcsolódásra egy Saint Luciát felfedező mozgalmas délelőtt után.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "A Marisule Beach nyugodt tengeri hozzáférést biztosít Union területén, ami kiváló helyszín egy visszafogott pihenéshez. A békés környezet zavartalan napozást és a hullámokban való kellemes ringatózást tesz lehetővé. A látogatást érdemes egy jó könyvvel és bőséges napvédelemmel kiegészíteni.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
             {
                   "name": "Forestry Zoo",
                   "text": "Egy állatkert helyi vadon élő állatokkal Unionban.",
@@ -5140,33 +2586,6 @@ export const saintluciaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Vigie Beach",
-                  "text": "Extinzându-se spre Union, acest segment din Vigie Beach rămâne o coastă de nisip îndrăgită și relaxată. Continuă să-i atragă pe cei care își doresc un mediu liniștit pentru plajă și pentru a se bucura de ocean. Găsirea unui loc ferit pentru a vă întinde prosopul garantează o zi minunată la mare.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Partea dinspre Union a plajei Choc Beach păstrează o atmosferă foarte relaxată de-a lungul coastei sale frumoase. Vizitatorii pot face plimbări plăcute pe țărm și se pot răcori în apă. Este o destinație minunată pentru a vă relaxa după o dimineață aglomerată explorând Sfânta Lucia.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "Oferind un punct de acces calm la mare în Union, Marisule Beach este un loc excelent pentru o recreere discretă. Cadrul pașnic permite plaja netulburată și o baie blândă în valuri. O vizită aici se potrivește cel mai bine cu o carte bună și o protecție solară adecvată.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
                   "name": "Forestry Zoo",
                   "text": "O grădină zoologică cu exponate de animale sălbatice locale în Union.",
                   "category": "landmark",
@@ -5177,33 +2596,6 @@ export const saintluciaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "Extending towards Union, this segment of Vigie Beach remains a beloved and relaxed sandy shore. It continues to attract those who want a laid-back environment for sunbathing and enjoying the ocean. Finding a quiet spot to lay out a towel makes for a truly wonderful seaside day.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "The Union side of Choc Beach retains a highly relaxed vibe along its beautiful coastline. Visitors can expect to take leisurely shoreline walks and dip their toes into the refreshing water. It's a marvelous destination to wind down after a busy morning exploring Saint Lucia.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "Providing a calm access point to the sea in Union, Marisule Beach is an excellent spot for low-key recreation. The peaceful setting allows for undisturbed sunbathing and gentle floating in the waves. A visit here is best paired with a good book and plenty of sun protection.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
             {
                   "name": "Forestry Zoo",
                   "text": "A zoo with local wildlife exhibits in Union.",
@@ -5350,50 +2742,10 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-monier-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Old Dauphin",
-                  "text": "Historische Ruinen der ehemaligen Siedlung Dauphin bei Monier.",
-                  "category": "historical",
-                  "coords": [
-                        -60.896774,
-                        14.039128
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Old Dauphin",
-                  "text": "A Dauphin egykori településének történelmi romjai Monier közelében.",
-                  "category": "historical",
-                  "coords": [
-                        -60.896774,
-                        14.039128
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Old Dauphin",
-                  "text": "Ruine istorice ale fostei așezări Dauphin lângă Monier.",
-                  "category": "historical",
-                  "coords": [
-                        -60.896774,
-                        14.039128
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Old Dauphin",
-                  "text": "Historical ruins of the former settlement of Dauphin near Monier.",
-                  "category": "historical",
-                  "coords": [
-                        -60.896774,
-                        14.039128
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LC",
     type: "village",
@@ -5523,15 +2875,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Caribbean Imprints",
-                  "text": "Ein Kulturzentrum, das karibische Kunst und Drucke in Piaye zeigt.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.043612,
-                        13.777246
-                  ]
-            },
-            {
                   "name": "Morne Le Blanc Heritage Site",
                   "text": "Ein Naturerbestätte auf dem Hügel Morne Le Blanc mit Panoramablick.",
                   "category": "natural",
@@ -5585,15 +2928,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -61.000524,
                         13.751768
-                  ]
-            },
-            {
-                  "name": "Caribbean Imprints",
-                  "text": "Egy kulturális központ, amely karibi művészetet és nyomatokat mutat be Piaye-ban.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.043612,
-                        13.777246
                   ]
             },
             {
@@ -5653,15 +2987,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Caribbean Imprints",
-                  "text": "Un centru cultural care prezintă artă și imprimeuri caraibiene în Piaye.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.043612,
-                        13.777246
-                  ]
-            },
-            {
                   "name": "Morne Le Blanc Heritage Site",
                   "text": "Un sit natural de patrimoniu pe dealul Morne Le Blanc, cu vederi panoramice.",
                   "category": "natural",
@@ -5715,15 +3040,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -61.000524,
                         13.751768
-                  ]
-            },
-            {
-                  "name": "Caribbean Imprints",
-                  "text": "A cultural center showcasing Caribbean art and prints in Piaye.",
-                  "category": "cultural",
-                  "coords": [
-                        -61.043612,
-                        13.777246
                   ]
             },
             {
@@ -5836,86 +3152,10 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-praslin-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Grand pa's old house",
-                  "text": "Ein gut erhaltenes altes Haus in Praslin, das koloniale Architektur widerspiegelt.",
-                  "category": "historical",
-                  "coords": [
-                        -60.901863,
-                        13.867622
-                  ]
-            },
-            {
-                  "name": "Madame de Ricoud ruins",
-                  "text": "Die Ruinen von Madame de Ricoud bieten einen Blick in die Vergangenheit von Praslin.",
-                  "category": "historical",
-                  "coords": [
-                        -60.903374,
-                        13.869467
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Grand pa's old house",
-                  "text": "Egy jól megőrzött régi ház Praslinban, amely a gyarmati építészetet tükrözi.",
-                  "category": "historical",
-                  "coords": [
-                        -60.901863,
-                        13.867622
-                  ]
-            },
-            {
-                  "name": "Madame de Ricoud ruins",
-                  "text": "A Madame de Ricoud romok bepillantást engednek Praslin múltjába.",
-                  "category": "historical",
-                  "coords": [
-                        -60.903374,
-                        13.869467
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Grand pa's old house",
-                  "text": "O casă veche bine păstrată în Praslin, care reflectă arhitectura colonială.",
-                  "category": "historical",
-                  "coords": [
-                        -60.901863,
-                        13.867622
-                  ]
-            },
-            {
-                  "name": "Madame de Ricoud ruins",
-                  "text": "Ruinele Madame de Ricoud oferă o privire în trecutul localității Praslin.",
-                  "category": "historical",
-                  "coords": [
-                        -60.903374,
-                        13.869467
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Grand pa's old house",
-                  "text": "A well-preserved old house in Praslin, reflecting colonial architecture.",
-                  "category": "historical",
-                  "coords": [
-                        -60.901863,
-                        13.867622
-                  ]
-            },
-            {
-                  "name": "Madame de Ricoud ruins",
-                  "text": "The Madame de Ricoud ruins offer a glimpse into the past in Praslin.",
-                  "category": "historical",
-                  "coords": [
-                        -60.903374,
-                        13.869467
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LC",
     type: "village",
@@ -5964,15 +3204,6 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-mon-repos-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Sessene Descartes House",
-                  "text": "Ein Museum im ehemaligen Haus von Sessene Descartes in Mon Repos.",
-                  "category": "museum",
-                  "coords": [
-                        -60.907702,
-                        13.849501
-                  ]
-            },
-            {
                   "name": "Grand pa's old house",
                   "text": "Grand pa's old house umfasst historische Ruinen in Mon Repos.",
                   "category": "historical",
@@ -5992,15 +3223,6 @@ export const saintluciaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Sessene Descartes House",
-                  "text": "Egy múzeum Sessene Descartes egykori otthonában Mon Repos-ban.",
-                  "category": "museum",
-                  "coords": [
-                        -60.907702,
-                        13.849501
-                  ]
-            },
             {
                   "name": "Grand pa's old house",
                   "text": "A Grand pa's old house történelmi romokat rejt Mon Repos területén.",
@@ -6022,15 +3244,6 @@ export const saintluciaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Sessene Descartes House",
-                  "text": "Un muzeu în fosta casă a lui Sessene Descartes din Mon Repos.",
-                  "category": "museum",
-                  "coords": [
-                        -60.907702,
-                        13.849501
-                  ]
-            },
-            {
                   "name": "Grand pa's old house",
                   "text": "Grand pa's old house prezintă ruine istorice situate în Mon Repos.",
                   "category": "historical",
@@ -6050,15 +3263,6 @@ export const saintluciaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Sessene Descartes House",
-                  "text": "A museum in the former home of Sessene Descartes in Mon Repos.",
-                  "category": "museum",
-                  "coords": [
-                        -60.907702,
-                        13.849501
-                  ]
-            },
             {
                   "name": "Grand pa's old house",
                   "text": "Grand pa's old house features historic ruins located in Mon Repos.",
@@ -6142,24 +3346,6 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.889287,
                         13.904515
                   ]
-            },
-            {
-                  "name": "Grand pa's old house",
-                  "text": "Diese Ruinen in Patience zeugen vom alten Grand pa's Haus.",
-                  "category": "historical",
-                  "coords": [
-                        -60.901863,
-                        13.867622
-                  ]
-            },
-            {
-                  "name": "Madame de Ricoud ruins",
-                  "text": "Ruinen des Plantagenhauses von Madame de Ricoud in Patience.",
-                  "category": "historical",
-                  "coords": [
-                        -60.903374,
-                        13.869467
-                  ]
             }
       ],
       "hu": [
@@ -6179,24 +3365,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.889287,
                         13.904515
-                  ]
-            },
-            {
-                  "name": "Grand pa's old house",
-                  "text": "Ezek a Patience-beli romok a régi Grand pa's ház maradványai.",
-                  "category": "historical",
-                  "coords": [
-                        -60.901863,
-                        13.867622
-                  ]
-            },
-            {
-                  "name": "Madame de Ricoud ruins",
-                  "text": "Madame de Ricoud ültetvényházának romjai Patience-ben.",
-                  "category": "historical",
-                  "coords": [
-                        -60.903374,
-                        13.869467
                   ]
             }
       ],
@@ -6218,24 +3386,6 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.889287,
                         13.904515
                   ]
-            },
-            {
-                  "name": "Grand pa's old house",
-                  "text": "Aceste ruine din Patience sunt resturile vechii case a bunicului.",
-                  "category": "historical",
-                  "coords": [
-                        -60.901863,
-                        13.867622
-                  ]
-            },
-            {
-                  "name": "Madame de Ricoud ruins",
-                  "text": "Ruinele casei plantației a doamnei de Ricoud în Patience.",
-                  "category": "historical",
-                  "coords": [
-                        -60.903374,
-                        13.869467
-                  ]
             }
       ],
       "en": [
@@ -6255,24 +3405,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.889287,
                         13.904515
-                  ]
-            },
-            {
-                  "name": "Grand pa's old house",
-                  "text": "These ruins in Patience are the remnants of Grand pa's old house.",
-                  "category": "historical",
-                  "coords": [
-                        -60.901863,
-                        13.867622
-                  ]
-            },
-            {
-                  "name": "Madame de Ricoud ruins",
-                  "text": "Ruins of the plantation house of Madame de Ricoud in Patience.",
-                  "category": "historical",
-                  "coords": [
-                        -60.903374,
-                        13.869467
                   ]
             }
       ]
@@ -6648,75 +3780,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Marigot Beach",
-                  "text": "Vor allem für seine außergewöhnliche Lage in Roseau bekannt, ist der Marigot Beach ein herausragendes Küstenziel. Schwimmer und Sonnenanbeter schätzen die vorteilhafte Küstengeografie, die das Gewässer schützt. Es ist ratsam, eine Kamera griffbereit zu haben, um die spektakulären Anblicke dieses beliebten Ortes festzuhalten.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.02537,
-                        13.966359
-                  ]
-            },
-            {
-                  "name": "Tolonge Beach",
-                  "text": "Der Tolonge Beach bei Roseau präsentiert sich als ein zutiefst ruhiger Abschnitt der Küste von St. Lucia. Wer den lebhaften Touristengebieten entfliehen möchte, findet hier einen friedlichen Rückzugsort für ungestörtes Schwimmen und Besinnlichkeit. Wenn Sie mit leichtem Gepäck reisen, können Sie ganz in den unaufgeregten Charme dieses erholsamen Ortes eintauchen.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.044721,
-                        13.944407
-                  ]
-            },
-            {
-                  "name": "Mount Bellevue",
-                  "text": "Ein Berggipfel bei Roseau mit malerischer Aussicht.",
-                  "category": "natural",
-                  "coords": [
-                        -61.014144,
-                        13.971109
-                  ]
-            },
-            {
-                  "name": "Viewing Point",
-                  "text": "Ein Aussichtspunkt mit Blick auf die umliegende Landschaft bei Roseau.",
-                  "category": "natural",
-                  "coords": [
-                        -61.043808,
-                        13.942563
-                  ]
-            },
-            {
-                  "name": "The Melting Pot",
-                  "text": "Ein Museum in Roseau, das den kulturellen Schmelztiegel von St. Lucia zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -61.043986,
-                        13.937796
-                  ]
-            },
-            {
                   "name": "St. Lucia Bamboo Rafting",
                   "text": "Bambusfloß-Erlebnis auf den Flüssen bei Roseau.",
                   "category": "landmark",
                   "coords": [
                         -61.026548,
                         13.955839
-                  ]
-            },
-            {
-                  "name": "MARIGOT VIEW",
-                  "text": "Ein Aussichtspunkt mit Panoramablick über die Marigot Bay von Roseau aus.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.020008,
-                        13.962796
-                  ]
-            },
-            {
-                  "name": "Old Police Station",
-                  "text": "Ein historisches Polizeigebäude in Roseau aus der Kolonialzeit.",
-                  "category": "historical",
-                  "coords": [
-                        -61.043255,
-                        13.940073
                   ]
             }
       ],
@@ -6731,75 +3800,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Marigot Beach",
-                  "text": "A Roseau területén elhelyezkedő Marigot Beach kivételes fekvésének köszönhetően kiemelkedő tengerparti célpont. Az úszók és a napozók értékelni fogják a kellemes part menti földrajzot, amely megvédi a vizeket. Érdemes kéznél tartani a fényképezőgépet, hogy megörökítsük e kedvelt környezet látványos szépségeit.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.02537,
-                        13.966359
-                  ]
-            },
-            {
-                  "name": "Tolonge Beach",
-                  "text": "A Roseau közelében fekvő Tolonge Beach a Saint Lucia-i partvidék egy mélyen nyugodt szakaszát képviseli. A nyüzsgő turistazónákból menekülők egy békés menedéket találhatnak itt a csendes úszáshoz és az elmélyüléshez. Ha kevés csomaggal érkezünk, teljesen beleolvadhatunk e pihentető hely visszafogott varázsába.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.044721,
-                        13.944407
-                  ]
-            },
-            {
-                  "name": "Mount Bellevue",
-                  "text": "Egy hegycsúcs Roseau közelében, festői kilátással.",
-                  "category": "natural",
-                  "coords": [
-                        -61.014144,
-                        13.971109
-                  ]
-            },
-            {
-                  "name": "Viewing Point",
-                  "text": "Egy kilátó, ahonnan a környező tájra lehet látni Roseau közelében.",
-                  "category": "natural",
-                  "coords": [
-                        -61.043808,
-                        13.942563
-                  ]
-            },
-            {
-                  "name": "The Melting Pot",
-                  "text": "Egy múzeum Roseau-ban, amely Szent Lucia kulturális olvasztótégelyét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -61.043986,
-                        13.937796
-                  ]
-            },
-            {
                   "name": "St. Lucia Bamboo Rafting",
                   "text": "Bambusz tutajozás a Roseau-i folyókon.",
                   "category": "landmark",
                   "coords": [
                         -61.026548,
                         13.955839
-                  ]
-            },
-            {
-                  "name": "MARIGOT VIEW",
-                  "text": "Egy kilátó, ahonnan panorámás kilátás nyílik a Marigot-öbölre Roseau-ból.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.020008,
-                        13.962796
-                  ]
-            },
-            {
-                  "name": "Old Police Station",
-                  "text": "Egy történelmi rendőrőrs épület Roseau-ban a gyarmati korból.",
-                  "category": "historical",
-                  "coords": [
-                        -61.043255,
-                        13.940073
                   ]
             }
       ],
@@ -6814,75 +3820,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Marigot Beach",
-                  "text": "Renumită în primul rând pentru locația sa excepțională din Roseau, Marigot Beach este o destinație de coastă deosebită. Înotătorii și iubitorii de soare vor aprecia geografia plăcută a coastei care protejează apele. Este recomandat să aveți un aparat foto la îndemână pentru a surprinde priveliștile spectaculoase ale acestui loc iubit.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.02537,
-                        13.966359
-                  ]
-            },
-            {
-                  "name": "Tolonge Beach",
-                  "text": "Aflată lângă Roseau, Tolonge Beach reprezintă o secțiune profund liniștită a coastei din Sfânta Lucia. Cei care scapă de zonele turistice pline de viață vor descoperi un refugiu pașnic pentru înot liniștit și introspecție. Călătorind cu bagaje ușoare vă permite să vă integrați complet în farmecul discret al acestei locații odihnitoare.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.044721,
-                        13.944407
-                  ]
-            },
-            {
-                  "name": "Mount Bellevue",
-                  "text": "Un vârf de munte lângă Roseau cu vederi pitorești.",
-                  "category": "natural",
-                  "coords": [
-                        -61.014144,
-                        13.971109
-                  ]
-            },
-            {
-                  "name": "Viewing Point",
-                  "text": "Un punct de belvedere cu vedere spre peisajul înconjurător lângă Roseau.",
-                  "category": "natural",
-                  "coords": [
-                        -61.043808,
-                        13.942563
-                  ]
-            },
-            {
-                  "name": "The Melting Pot",
-                  "text": "Un muzeu în Roseau care prezintă creuzetul cultural al Sfintei Lucia.",
-                  "category": "museum",
-                  "coords": [
-                        -61.043986,
-                        13.937796
-                  ]
-            },
-            {
                   "name": "St. Lucia Bamboo Rafting",
                   "text": "Experiență de rafting pe bambus pe râurile lângă Roseau.",
                   "category": "landmark",
                   "coords": [
                         -61.026548,
                         13.955839
-                  ]
-            },
-            {
-                  "name": "MARIGOT VIEW",
-                  "text": "Un punct de belvedere cu vederi panoramice asupra golfului Marigot din Roseau.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.020008,
-                        13.962796
-                  ]
-            },
-            {
-                  "name": "Old Police Station",
-                  "text": "O clădire istorică de secție de poliție în Roseau din perioada colonială.",
-                  "category": "historical",
-                  "coords": [
-                        -61.043255,
-                        13.940073
                   ]
             }
       ],
@@ -6897,75 +3840,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Marigot Beach",
-                  "text": "Renowned primarily for its exceptional location in Roseau, Marigot Beach is a standout coastal destination. Swimmers and sunbathers will appreciate the pleasant coastal geography that protects the waters. Keeping a camera handy is recommended to capture the spectacular sights of this beloved setting.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.02537,
-                        13.966359
-                  ]
-            },
-            {
-                  "name": "Tolonge Beach",
-                  "text": "Found near Roseau, Tolonge Beach represents a profoundly tranquil section of the Saint Lucian coast. Those escaping the lively tourist areas will discover a peaceful haven for quiet swims and introspection. Traveling light allows you to fully blend into the low-key charm of this restful location.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.044721,
-                        13.944407
-                  ]
-            },
-            {
-                  "name": "Mount Bellevue",
-                  "text": "A mountain peak near Roseau offering scenic views.",
-                  "category": "natural",
-                  "coords": [
-                        -61.014144,
-                        13.971109
-                  ]
-            },
-            {
-                  "name": "Viewing Point",
-                  "text": "A viewpoint overlooking the surrounding landscape near Roseau.",
-                  "category": "natural",
-                  "coords": [
-                        -61.043808,
-                        13.942563
-                  ]
-            },
-            {
-                  "name": "The Melting Pot",
-                  "text": "A museum in Roseau showcasing the cultural melting pot of St. Lucia.",
-                  "category": "museum",
-                  "coords": [
-                        -61.043986,
-                        13.937796
-                  ]
-            },
-            {
                   "name": "St. Lucia Bamboo Rafting",
                   "text": "Bamboo rafting experience on the rivers near Roseau.",
                   "category": "landmark",
                   "coords": [
                         -61.026548,
                         13.955839
-                  ]
-            },
-            {
-                  "name": "MARIGOT VIEW",
-                  "text": "A viewpoint offering panoramic views over Marigot Bay from Roseau.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.020008,
-                        13.962796
-                  ]
-            },
-            {
-                  "name": "Old Police Station",
-                  "text": "A historic police station building in Roseau from the colonial period.",
-                  "category": "historical",
-                  "coords": [
-                        -61.043255,
-                        13.940073
                   ]
             }
       ]
@@ -7017,15 +3897,6 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-marigot-bay-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Roseau Beach",
-                  "text": "Dieser wunderschöne Sandstreifen des Roseau Beach bereichert den ohnehin berühmten Charme der Marigot Bay. Die Lage verspricht herrliche Bedingungen zum Schwimmen und reichlich Platz, um sich in der karibischen Sonne zu wärmen. Ein ausgiebiger Nachmittagsbesuch stellt sicher, dass man die Küstenatmosphäre in vollen Zügen genießen kann.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.034509,
-                        13.958362
-                  ]
-            },
-            {
                   "name": "Marigot Beach",
                   "text": "Der Marigot Beach liegt direkt in der Marigot Bay und dient als unglaublich entspannender Rückzugsort an der Küste. Besucher werden von ruhigem Wasser begrüßt, das zu ausgedehnten Schwimmrunden und friedlichen Sonnenbädern am Ufer einlädt. Eine Ankunft kurz vor dem späten Nachmittag bietet eine wohltuende Mischung aus warmer Sonne und sanfter Brise.",
                   "category": "recreational",
@@ -7044,15 +3915,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. Lucia Bamboo Rafting",
-                  "text": "Bambusfloßfahrt auf den Gewässern der Marigot Bay.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.026548,
-                        13.955839
-                  ]
-            },
-            {
                   "name": "MARIGOT VIEW",
                   "text": "Ein malerischer Aussichtspunkt direkt über der Marigot Bay.",
                   "category": "landmark",
@@ -7063,15 +3925,6 @@ export const saintluciaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Roseau Beach",
-                  "text": "A Roseau Beach ezen csodálatos homokos szakasza tovább fokozza Marigot Bay már amúgy is híres vonzerejét. A helyszín csodálatos úszási feltételeket és bőséges teret ígér a karibi napsütés élvezetéhez. Egy kényelmes délutáni látogatás biztosítja, hogy a tengerparti hangulatot a legjobb formájában élhessük át.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.034509,
-                        13.958362
-                  ]
-            },
             {
                   "name": "Marigot Beach",
                   "text": "Közvetlenül a Marigot Bay területén elterülő Marigot Beach egy hihetetlenül pihentető tengerparti menedékként szolgál. A látogatókat nyugodt víz fogadja, amely ráérős úszásra és békés parti napozásra invitál. Ha kicsivel a késő délután előtt érkezünk, élvezhetjük a meleg napsütés és a lágy szellők megnyugtató keverékét.",
@@ -7091,15 +3944,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. Lucia Bamboo Rafting",
-                  "text": "Bambusz tutajozás a Marigot-öböl vizein.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.026548,
-                        13.955839
-                  ]
-            },
-            {
                   "name": "MARIGOT VIEW",
                   "text": "Egy festői kilátó közvetlenül a Marigot-öbölre néz.",
                   "category": "landmark",
@@ -7110,15 +3954,6 @@ export const saintluciaCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Roseau Beach",
-                  "text": "Această întindere superbă de nisip din Roseau Beach sporește atracția deja faimoasă a golfului Marigot Bay. Locația promite condiții minunate de înot și spațiu amplu pentru a vă bucura de soarele din Caraibe. O vizită relaxantă după-amiaza vă asigură că veți savura atmosfera de coastă la cote maxime.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.034509,
-                        13.958362
-                  ]
-            },
             {
                   "name": "Marigot Beach",
                   "text": "Aflată chiar în Marigot Bay, Marigot Beach funcționează ca un refugiu de coastă incredibil de relaxant. Vizitatorii sunt întâmpinați de ape calme care invită la înot lejer și sesiuni pașnice de plajă pe mal. O sosire chiar înainte de sfârșitul după-amiezii oferă un amestec liniștitor de soare cald și brize blânde.",
@@ -7138,15 +3973,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "St. Lucia Bamboo Rafting",
-                  "text": "Plută de bambus pe apele golfului Marigot.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.026548,
-                        13.955839
-                  ]
-            },
-            {
                   "name": "MARIGOT VIEW",
                   "text": "Un punct de belvedere pitoresc cu vedere directă asupra golfului Marigot.",
                   "category": "landmark",
@@ -7157,15 +3983,6 @@ export const saintluciaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Roseau Beach",
-                  "text": "This gorgeous sandy stretch of Roseau Beach enhances the already famous appeal of Marigot Bay. The location promises wonderful swimming conditions and ample space to bask in the Caribbean sunshine. A leisurely afternoon visit ensures you can savor the coastal atmosphere at its absolute best.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.034509,
-                        13.958362
-                  ]
-            },
             {
                   "name": "Marigot Beach",
                   "text": "Resting right within Marigot Bay, Marigot Beach functions as an incredibly relaxing coastal retreat. Visitors are welcomed by calm waters that invite leisurely swims and peaceful sunbathing sessions on the shore. Arriving just before the late afternoon offers a soothing blend of warm sun and gentle breezes.",
@@ -7182,15 +3999,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -61.014144,
                         13.971109
-                  ]
-            },
-            {
-                  "name": "St. Lucia Bamboo Rafting",
-                  "text": "Bamboo rafting on the waters of Marigot Bay.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.026548,
-                        13.955839
                   ]
             },
             {
@@ -7249,194 +4057,10 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-la-croix-maingot-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "The Morne Museum",
-                  "text": "Ein Museum auf dem Morne-Hügel in La Croix Maingot, das sich auf Lokalgeschichte konzentriert.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Marigot Beach",
-                  "text": "Dieser in La Croix Maingot gelegene Abschnitt des Marigot Beach bietet einen angenehmen Ausflugsort entlang der Küste von St. Lucia. Die Umgebung fördert ganz natürlich ruhige Strandspaziergänge, sonnenüberflutete Entspannung und einen Sprung in das angrenzende Wasser. Es ist ein hervorragendes Ziel für einen entspannten Morgen, um den Tag auf der Insel zu beginnen.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.02537,
-                        13.966359
-                  ]
-            },
-            {
-                  "name": "Mount Bellevue",
-                  "text": "Mount Bellevue ist ein markanter Berggipfel in La Croix Maingot auf der Insel St. Lucia.",
-                  "category": "natural",
-                  "coords": [
-                        -61.014144,
-                        13.971109
-                  ]
-            },
-            {
-                  "name": "MARIGOT VIEW",
-                  "text": "Ein Aussichtspunkt von La Croix Maingot mit Blick auf die Marigot Bay.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.020008,
-                        13.962796
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Ein historischer Park mit Befestigungen und Ruinen in La Croix Maingot.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "The Morne Museum",
-                  "text": "Egy múzeum a Morne-dombon La Croix Maingot-ban, amely a helyi történelemre összpontosít.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Marigot Beach",
-                  "text": "A La Croix Maingot területén található Marigot Beach kellemes kikapcsolódást nyújt a Saint Lucia-i partvidéken. A környezet természetes módon ösztönöz a csendes tengerparti sétákra, a napsütéses pihenésre és a közeli vizekben való mártózásra. Remek úti cél egy könnyed reggelhez, amellyel jól indulhat a nap a szigeten.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.02537,
-                        13.966359
-                  ]
-            },
-            {
-                  "name": "Mount Bellevue",
-                  "text": "A Mount Bellevue egy jelentős hegycsúcs a Saint Lucia-i La Croix Maingot területén.",
-                  "category": "natural",
-                  "coords": [
-                        -61.014144,
-                        13.971109
-                  ]
-            },
-            {
-                  "name": "MARIGOT VIEW",
-                  "text": "Egy kilátó La Croix Maingot-ból, ahonnan a Marigot-öbölre lehet látni.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.020008,
-                        13.962796
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Egy történelmi park erődítményekkel és romokkal La Croix Maingot-ban.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "The Morne Museum",
-                  "text": "Un muzeu pe dealul Morne din La Croix Maingot, concentrat pe istoria locală.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Marigot Beach",
-                  "text": "Situată în La Croix Maingot, această secțiune din Marigot Beach oferă o evadare plăcută de-a lungul coastei din Sfânta Lucia. Mediul încurajează natural plimbările liniștite pe plajă, relaxarea la soare și o baie în apele din apropiere. Este o destinație excelentă pentru o dimineață relaxantă, ideală pentru a începe ziua pe insulă.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.02537,
-                        13.966359
-                  ]
-            },
-            {
-                  "name": "Mount Bellevue",
-                  "text": "Mount Bellevue este un vârf montan notabil situat în La Croix Maingot din Sfânta Lucia.",
-                  "category": "natural",
-                  "coords": [
-                        -61.014144,
-                        13.971109
-                  ]
-            },
-            {
-                  "name": "MARIGOT VIEW",
-                  "text": "Un punct de belvedere din La Croix Maingot cu vedere spre golful Marigot.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.020008,
-                        13.962796
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Un parc istoric cu fortificații și ruine în La Croix Maingot.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "The Morne Museum",
-                  "text": "A museum on the Morne hill in La Croix Maingot, focusing on local history.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Marigot Beach",
-                  "text": "Situated in La Croix Maingot, this stretch of Marigot Beach provides a pleasant getaway along the Saint Lucian coast. The environment naturally encourages quiet beach walks, sun-drenched relaxation, and dipping in the nearby waters. It makes a fine destination for an easy-going morning to kickstart your day on the island.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.02537,
-                        13.966359
-                  ]
-            },
-            {
-                  "name": "Mount Bellevue",
-                  "text": "Mount Bellevue is a notable mountain peak located in La Croix Maingot, Saint Lucia.",
-                  "category": "natural",
-                  "coords": [
-                        -61.014144,
-                        13.971109
-                  ]
-            },
-            {
-                  "name": "MARIGOT VIEW",
-                  "text": "A viewpoint from La Croix Maingot overlooking Marigot Bay.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.020008,
-                        13.962796
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "A historical park with fortifications and ruins in La Croix Maingot.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LC",
     type: "village",
@@ -7492,78 +4116,6 @@ export const saintluciaCitiesV2: POI[] = [
                         -61.00122,
                         14.022348
                   ]
-            },
-            {
-                  "name": "Vigie Beach",
-                  "text": "Der am Rande von Vigie gelegene Vigie Beach ist ein bekannter Strandabschnitt auf St. Lucia, der zu erholsamen Stunden am Wasser einlädt. Die einladende Atmosphäre bietet beste Voraussetzungen zum Schwimmen, Sonnenbaden oder für entspannte Spaziergänge entlang der Küste. Es erwartet Sie ein lebendiges, aber dennoch unbeschwertes Inselgefühl. Für einen besonders ruhigen Start in den Tag lohnt sich ein Besuch am frühen Morgen.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "Das Folk Research Center in Vigie ist ein Museum der saint-lucianischen Volkskultur mit traditionellem Handwerk und Musik.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "Als beliebtes Ziel an der Küste von Vigie lockt der Yellow Sands Beach zahlreiche Besucher an. Dieser charmante Küstenstreifen lädt dazu ein, im Meer zu schwimmen, sich in der Sonne zu entspannen und die erfrischende Meeresbrise zu genießen. Er versprüht ein lebhaftes, lokales Flair für einen klassischen karibischen Strandtag. Wer den späten Nachmittag für einen Besuch wählt, kann hier besonders angenehme Stunden verbringen.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Der Derek-Walcott-Platz in Vigie ist ein baumbestandener Park zu Ehren des Literaturnobelpreisträgers Derek Walcott.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "Das Sir-John-Compton-Denkmal in Vigie erinnert an den ersten Premierminister von St. Lucia.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "Das Derick-Walcott-Gebäude in Vigie ist ein historisches Gebäude, benannt nach dem Dichter Derek Walcott.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "Der Saint-Lucia-Aussichtspunkt in Vigie bietet einen Panoramablick auf die Nordküste der Insel.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Der Provost Park in Vigie ist eine historische Grünanlage mit schattigen Bäumen und Bänken.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
             }
       ],
       "hu": [
@@ -7574,78 +4126,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -61.00122,
                         14.022348
-                  ]
-            },
-            {
-                  "name": "Vigie Beach",
-                  "text": "A Saint Lucia szigetén, Vigie városában található Vigie Beach egy jól ismert tengerparti szakasz, amely tökéletes egy vízparti nap eltöltésére. A barátságos légkör ideális feltételeket biztosít az úszáshoz, a napozáshoz vagy egy pihentető tengerparti sétához. A látogatók egy nyüzsgő, mégis nyugodt karibi célpontot fedezhetnek fel itt. A kora reggeli órákban tett látogatás különösen békés élményt nyújt.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "A Vigie-i Népi Kutatóközpont a szentlúciai népi kultúra múzeuma, hagyományos kézművességgel és zenével.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "A Yellow Sands Beach egy népszerű tengerparti célpont Vigie közösségében. Ez a bájos homokos partszakasz úszásra, napozásra és a frissítő tengeri szellő élvezetére csábítja a vendégeket. Élénk, helyi hangulata különösen vonzó azok számára, akik egy klasszikus karibi strandolásra vágynak. Egy késő délutáni látogatás kellemes és élvezetes időtöltést ígér.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "A Derek Walcott tér Vigie-ben egy fás park, amely Derek Walcott költő előtt tiszteleg.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "A Sir John Compton-emlékmű Vigie-ben Saint Lucia első miniszterelnökére emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "A Derick Walcott épület Vigie-ben egy történelmi épület, amely Derek Walcott költőről kapta a nevét.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "A Saint Lucia kilátópont Vigie-ben panorámás kilátást nyújt a sziget északi partvidékére.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "A Provost Park Vigie-ben egy történelmi zöldterület árnyas fákkal és padokkal.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
                   ]
             }
       ],
@@ -7658,78 +4138,6 @@ export const saintluciaCitiesV2: POI[] = [
                         -61.00122,
                         14.022348
                   ]
-            },
-            {
-                  "name": "Vigie Beach",
-                  "text": "Situată în Vigie, Sfânta Lucia, plaja Vigie este o întindere de coastă bine cunoscută, perfectă pentru o zi petrecută la malul apei. Atmosfera primitoare creează mediul ideal pentru înot, plajă sau plimbări relaxante de-a lungul țărmului. Vizitatorii descoperă adesea aici o destinație vibrantă, dar în același timp relaxantă. O vizită la primele ore ale dimineții oferă cea mai liniștită experiență.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "Centrul de Cercetare Folklorică din Vigie este un muzeu al culturii populare din Saint Lucia, cu meșteșuguri și muzică tradițională.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "Plaja Yellow Sands este o destinație de coastă populară situată în comunitatea Vigie. Această porțiune fermecătoare de nisip invită oaspeții să înoate, să se relaxeze la soare și să se bucure de briza răcoroasă a mării. Oferă o atmosferă locală plină de viață, atrăgându-i pe cei care caută o zi clasică la plajă în Caraibe. Planificarea vizitei pentru sfârșitul după-amiezii asigură o ședere confortabilă și plăcută.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Piața Derek Walcott din Vigie este un parc cu copaci în cinstea poetului laureat Nobel Derek Walcott.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "Monumentul Sir John Compton din Vigie comemorează primul prim-ministru al Sfintei Lucie.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "Clădirea Derick Walcott din Vigie este o clădire istorică numită după poetul Derek Walcott.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "Punctul de belvedere Saint Lucia din Vigie oferă o priveliște panoramică asupra coastei de nord a insulei.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Parcul Provost din Vigie este un spațiu verde istoric, cu copaci umbroși și bănci.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
             }
       ],
       "en": [
@@ -7740,78 +4148,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -61.00122,
                         14.022348
-                  ]
-            },
-            {
-                  "name": "Vigie Beach",
-                  "text": "Located in Vigie, Saint Lucia, Vigie Beach is a well-known coastal stretch perfect for a day by the water. The welcoming atmosphere makes it an ideal spot for enjoying the Caribbean sun, swimming, or taking a relaxed coastal stroll. Visitors often find it to be a vibrant yet laid-back destination. A visit during the early morning hours provides the most peaceful experience.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "The Folk Research Center in Vigie is a museum of Saint Lucian folk culture, featuring traditional crafts and music.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "Yellow Sands Beach is a popular coastal destination nestled in the community of Vigie. This charming stretch of sand invites guests to swim, relax under the sun, and enjoy the refreshing sea breeze. It offers a lively local vibe that appeals to those seeking a classic Caribbean beach day. Planning your visit for the late afternoon allows for a comfortable and enjoyable stay.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Derek Walcott Square in Vigie is a tree-lined park honoring Nobel laureate poet Derek Walcott.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "The Sir John Compton Monument in Vigie commemorates the first Prime Minister of Saint Lucia.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "The Derick Walcott Building in Vigie is a historic building named after poet Derek Walcott.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "The Saint Lucia viewpoint in Vigie offers a panoramic view of the island's northern coast.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Provost Park in Vigie is a historic green space with shady trees and benches.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
                   ]
             }
       ]
@@ -7953,51 +4289,6 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-entrepot-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Vigie Beach",
-                  "text": "In der Nähe von Entrepot gelegen, bietet dieser schöne Sandstrand von Vigie Beach einen herrlichen Rückzugsort an der Küste von St. Lucia. Die Umgebung eignet sich wunderbar für ein erfrischendes Bad, einen gemütlichen Spaziergang am Ufer oder einfach zum Entspannen im Sand. Die Kulisse sorgt ganz natürlich für eine friedliche Stimmung während eines entspannten Ausflugs. Wenn man die nötigsten Dinge einpackt und die pralle Mittagssonne meidet, steht einem gelungenen Tag nichts im Wege.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Als bekannter Küstenstreifen in der Nähe von Entrepot ist der Choc Beach ein einladendes Ziel auf St. Lucia. Besucher dürfen sich auf herrliche Gelegenheiten zum Schwimmen, zum Genießen der karibischen Sonne und zum Spazierengehen am Wasser freuen. Die allgemeine Stimmung ist entspannt und verbindet die natürliche Schönheit der Küste mit einem gemächlichen Tempo. Um das ruhige Wasser am besten auszukosten, empfiehlt sich ein Besuch in den Vormittagsstunden.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "The Morne Museum",
-                  "text": "Das Morne Museum in Entrepot auf dem Morne-Hügel dokumentiert die Militärgeschichte des Zweiten Weltkriegs auf St. Lucia.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "Das Folk Research Center in Entrepot ist ein Museum der saint-lucianischen Volkskultur mit traditionellem Handwerk und Musik.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Der Derek-Walcott-Platz in Entrepot ist ein baumbestandener Park zu Ehren des Literaturnobelpreisträgers Derek Walcott.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
                   "name": "View point",
                   "text": "Der Aussichtspunkt in Entrepot bietet einen weiten Blick über das Tal und das Karibische Meer.",
                   "category": "natural",
@@ -8005,99 +4296,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.978443,
                         14.008816
                   ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "Das Sir-John-Compton-Denkmal in Entrepot erinnert an den ersten Premierminister von St. Lucia.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Der Forstzoologische Garten in Entrepot beherbergt einheimische Arten wie den St. Lucia-Papagei.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "Das Derick-Walcott-Gebäude in Entrepot ist ein historisches Gebäude, benannt nach dem Dichter Derek Walcott.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "Der Saint-Lucia-Aussichtspunkt in Entrepot bietet einen Panoramablick auf die Nordküste der Insel.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Der Provost Park in Entrepot ist eine historische Grünanlage mit schattigen Bäumen und Bänken.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "Az Entrepot közelében található Vigie Beach gyönyörű homokos szakasza csodálatos menedéket nyújt Saint Lucia partjainál. A környezet kiválóan alkalmas egy frissítő úszásra, egy kényelmes sétára a partvonalon, vagy egyszerűen csak a homokban való pihenésre. A helyszín természetes módon teremt nyugodt hangulatot egy laza kiránduláshoz. Érdemes alapvető felszereléssel érkezni, és elkerülni a legforróbb napszakot a tökéletes élmény érdekében.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Az Entrepot közelében lévő ismert tengerparti szakaszként a Choc Beach egy hívogató úti cél Saint Lucián. A látogatókat kellemes lehetőségek várják az úszásra, a karibi napsütés élvezetére és a vízparti sétákra. Az általános hangulat laza, amely ötvözi a partvidék természetes szépségét egy nyugodt tempóval. A békés vizek leginkább a délelőtti órákban élvezhetők a legjobban.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "The Morne Museum",
-                  "text": "Az Entrepot-i Morne Múzeum a Morne-dombon Saint Lucia második világháborús katonai történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "Az Entrepot-i Népi Kutatóközpont a szentlúciai népi kultúra múzeuma, hagyományos kézművességgel és zenével.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "A Derek Walcott tér Entrepot-ban egy fás park, amely Derek Walcott költő előtt tiszteleg.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
             {
                   "name": "View point",
                   "text": "Az Entrepot-i kilátópont széles kilátást nyújt a völgyre és a Karib-tengerre.",
@@ -8106,99 +4307,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.978443,
                         14.008816
                   ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "A Sir John Compton-emlékmű Entrepot-ban Saint Lucia első miniszterelnökére emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Az Entrepot-i Erdészeti Állatkert őshonos fajokat, például a Saint Lucia-i papagájt mutatja be.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "A Derick Walcott épület Entrepot-ban egy történelmi épület, amely Derek Walcott költőről kapta a nevét.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "A Saint Lucia kilátópont Entrepot-ban panorámás kilátást nyújt a sziget északi partvidékére.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "A Provost Park Entrepot-ban egy történelmi zöldterület árnyas fákkal és padokkal.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "Situată în apropiere de Entrepot, această frumoasă întindere de nisip a plajei Vigie oferă o evadare minunată pe coasta Sfintei Lucia. Mediul este excelent pentru o baie răcoritoare, o plimbare liniștită de-a lungul țărmului sau pur și simplu pentru relaxare pe nisip. Cadrul natural creează o atmosferă pașnică, perfectă pentru o ieșire relaxantă. Luând cu sine cele necesare și sosind când soarele nu este prea puternic, veți avea parte de o zi excelentă.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Cunoscută ca o porțiune de coastă familiară lângă Entrepot, plaja Choc este o destinație primitoare din Sfânta Lucia. Vizitatorii se pot bucura de oportunități plăcute pentru înot, de razele soarelui din Caraibe și de plimbări pe malul apei. Sentimentul general este de relaxare, îmbinând frumusețea naturală a coastei cu un ritm lent. Pentru a profita la maximum de apele liniștite, diminețile sunt adesea cel mai bun moment pentru o vizită.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "The Morne Museum",
-                  "text": "Muzeul Morne din Entrepot, situat pe dealul Morne, documentează istoria militară a celui de-al Doilea Război Mondial în Saint Lucia.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "Centrul de Cercetare Folklorică din Entrepot este un muzeu al culturii populare din Saint Lucia, cu meșteșuguri și muzică tradițională.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Piața Derek Walcott din Entrepot este un parc cu copaci în cinstea poetului laureat Nobel Derek Walcott.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
             {
                   "name": "View point",
                   "text": "Punctul de belvedere din Entrepot oferă o priveliște largă asupra văii și a Mării Caraibelor.",
@@ -8207,99 +4318,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.978443,
                         14.008816
                   ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "Monumentul Sir John Compton din Entrepot comemorează primul prim-ministru al Sfintei Lucie.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Grădina Zoologică Forestieră din Entrepot adăpostește specii native, cum ar fi papagalul din Saint Lucia.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "Clădirea Derick Walcott din Entrepot este o clădire istorică numită după poetul Derek Walcott.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "Punctul de belvedere Saint Lucia din Entrepot oferă o priveliște panoramică asupra coastei de nord a insulei.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Parcul Provost din Entrepot este un spațiu verde istoric, cu copaci umbroși și bănci.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "Situated near Entrepot, this beautiful sandy stretch of Vigie Beach provides a lovely escape on the coast of Saint Lucia. The environment is wonderfully suited for a refreshing swim, a leisurely walk along the shoreline, or simply unwinding on the sand. The setting naturally fosters a tranquil mood for a relaxed outing. Bringing essentials and arriving when the sun is not too harsh makes for a great day out.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Known as a familiar coastal stretch near Entrepot, Choc Beach is a welcoming destination in Saint Lucia. Visitors can look forward to pleasant opportunities for swimming, enjoying the Caribbean sunshine, and walking by the water's edge. The overall feeling is laid-back, blending natural coastal beauty with a relaxed tempo. To make the most of the tranquil waters, mornings are often the best time to stop by.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "The Morne Museum",
-                  "text": "The Morne Museum in Entrepot sits on Morne Hill and details Saint Lucia's World War II military history.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "The Folk Research Center in Entrepot is a museum of Saint Lucian folk culture, featuring traditional crafts and music.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Derek Walcott Square in Entrepot is a tree-lined park honoring Nobel laureate poet Derek Walcott.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
             {
                   "name": "View point",
                   "text": "The viewpoint in Entrepot offers a wide view over the valley and the Caribbean Sea.",
@@ -8307,51 +4328,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.978443,
                         14.008816
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "The Sir John Compton Monument in Entrepot commemorates the first Prime Minister of Saint Lucia.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "The Forestry Zoo in Entrepot houses native species such as the Saint Lucia parrot.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "The Derick Walcott Building in Entrepot is a historic building named after poet Derek Walcott.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "The Saint Lucia viewpoint in Entrepot offers a panoramic view of the island's northern coast.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Provost Park in Entrepot is a historic green space with shady trees and benches.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
                   ]
             }
       ]
@@ -8448,42 +4424,6 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-chase-gardens-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Vigie Lighthouse",
-                  "text": "Der Vigie-Leuchtturm in Chase Gardens ist ein historischer Leuchtturm aus dem 19. Jahrhundert an der Nordspitze der Vigie-Halbinsel.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.00122,
-                        14.022348
-                  ]
-            },
-            {
-                  "name": "Vigie Beach",
-                  "text": "Bequem in der Nähe des Flughafens in Chase Gardens gelegen, zeichnet sich der Vigie Beach durch einen bekannten weißen Sandstreifen aus. Dieser hübsche Küstenort eignet sich hervorragend für ein schnelles Bad, zum Entspannen am weichen Ufer oder für einen malerischen Strandspaziergang. Trotz der verkehrsgünstigen Lage bewahrt der Strand eine entspannende und einladende Atmosphäre. Ein paar Stunden hier zu verbringen ist eine ausgezeichnete Möglichkeit, den Nachmittag gemütlich ausklingen zu lassen.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Der Choc Beach ist ein hübscher, lokaler Sandstrand in der Gegend von Chase Gardens. Er bietet eine unkomplizierte Umgebung, die sich perfekt zum Schwimmen, für den Genuss des Meerblicks oder zum Entspannen an den Wellen eignet. Die authentische, gemeinschaftliche Atmosphäre verleiht dem Strand einen gemütlichen, einladenden Charme. Wer mit einem guten Buch und einem Handtuch anreist, wird hier eine erholsame Zeit am Meer verbringen.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "The Morne Museum",
-                  "text": "Das Morne Museum in Chase Gardens auf dem Morne-Hügel dokumentiert die Militärgeschichte des Zweiten Weltkriegs auf St. Lucia.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
                   "name": "Folk Research Center",
                   "text": "Das Folk Research Center in Chase Gardens ist ein Museum der saint-lucianischen Volkskultur mit traditionellem Handwerk und Musik.",
                   "category": "museum",
@@ -8491,117 +4431,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.984748,
                         14.0145
                   ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "Der Yellow Sands Beach in Chase Gardens zeichnet sich durch seine malerische Küstenlage aus und ist eine Freude für jeden Strandliebhaber. Besucher sind herzlich eingeladen, in das verlockende Wasser einzutauchen, die strahlende Sonne zu genießen oder einen ruhigen Spaziergang zu unternehmen. Es ist ein reizvoller Ort, der von einer ruhigen, entspannten karibischen Energie geprägt ist. Ein Besuch an einem sonnigen Morgen bietet die beeindruckendsten Ausblicke auf das Wasser.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Derek Walcott Square ist ein bekannter öffentlicher Park in Chase Gardens, der nach dem Nobelpreisträger benannt ist.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "Ein malerischer Aussichtspunkt mit Blick auf Chase Gardens.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "Das Sir-John-Compton-Denkmal in Chase Gardens erinnert an den ersten Premierminister von St. Lucia.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Der Forstzoologische Garten in Chase Gardens beherbergt einheimische Arten wie den St. Lucia-Papagei.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "Das Derick Walcott Building dient als Wahrzeichen in Chase Gardens.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "Saint Lucia ist eine bemerkenswerte Attraktion in Chase Gardens.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Im Provost Park befinden sich alte Ruinen in Chase Gardens.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Vigie Lighthouse",
-                  "text": "A Chase Gardens-i Vigie világítótorony egy 19. századi történelmi világítótorony a Vigie-félsziget északi csücskénél.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.00122,
-                        14.022348
-                  ]
-            },
-            {
-                  "name": "Vigie Beach",
-                  "text": "A Chase Gardens repülőterének közelében fekvő Vigie Beach jól ismert, finom fehér homokos partszakasszal büszkélkedhet. Ez a szép tengerparti hely nagyszerű egy gyors úszáshoz, a puha parton való lazításhoz vagy egy festői tengerparti sétához. A közlekedési csomópont közelsége ellenére is pihentető és hívogató légkört biztosít a látogatók számára. Néhány óra eltöltése itt kiváló módja annak, hogy kellemesen zárjunk egy délutánt.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "A Choc Beach egy kedves, helyi homokos partszakasz a Chase Gardens térségében. Kellemes környezetet kínál, amely tökéletes úszásra, a tengeri kilátás megcsodálására vagy a hullámok melletti heverészésre. Az autentikus közösségi légkör otthonos, barátságos bájt kölcsönöz neki. Egy jó könyvvel és egy törölközővel érkezve garantált a pihentető időtöltés a tengerparton.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "The Morne Museum",
-                  "text": "A Chase Gardens-i Morne Múzeum a Morne-dombon Saint Lucia második világháborús katonai történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
             {
                   "name": "Folk Research Center",
                   "text": "A Chase Gardens-i Népi Kutatóközpont a szentlúciai népi kultúra múzeuma, hagyományos kézművességgel és zenével.",
@@ -8610,117 +4442,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.984748,
                         14.0145
                   ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "A festői tengerparti környezettel jellemezhető Chase Gardens-i Yellow Sands Beach igazi öröm a strandolni vágyók számára. A látogatókat arra csábítja, hogy megmártózzanak a hívogató vízben, élvezzék a ragyogó napsütés melegét, vagy tegyenek egy békés sétát. Ez egy vonzó hely, amelyet a nyugodt, laza karibi energia jellemez. Egy napos reggelen tett látogatás nyújtja a leglenyűgözőbb kilátást a vízre.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "A Derek Walcott Square egy ismert közpark Chase Gardens területén, amelyet a Nobel-díjas íróról neveztek el.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "Egy festői kilátó, amely panorámát kínál Chase Gardens területére.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "A Sir John Compton-emlékmű Chase Gardensban Saint Lucia első miniszterelnökére emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "A Chase Gardens-i Erdészeti Állatkert őshonos fajokat, például a Saint Lucia-i papagájt mutatja be.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "A Derick Walcott Building egy tájékozódási pont Chase Gardens városában.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "A Saint Lucia egy figyelemre méltó látványosság Chase Gardens városában.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "A Provost Park ősi romokkal rendelkezik Chase Gardens területén.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Vigie Lighthouse",
-                  "text": "Farul Vigie din Chase Gardens este un far istoric din secolul al XIX-lea, la capătul nordic al peninsulei Vigie.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.00122,
-                        14.022348
-                  ]
-            },
-            {
-                  "name": "Vigie Beach",
-                  "text": "Situată convenabil în apropierea aeroportului din Chase Gardens, plaja Vigie se mândrește cu o fâșie bine cunoscută de nisip alb. Acest loc minunat de coastă este excelent pentru o baie rapidă, pentru relaxare pe țărmul moale sau pentru o plimbare pitorească pe malul mării. În ciuda apropierii sale de tranzit, își păstrează o atmosferă relaxantă și primitoare pentru vizitatori. Petrecerea câtorva ore aici este o modalitate excelentă de a încheia o după-amiază deosebită.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Plaja Choc servește drept un țărm local cu nisip încântător în zona Chase Gardens. Oferă un mediu relaxant, perfect adaptat pentru înot, pentru a admira priveliștea mării sau pentru a lenevi ascultând valurile. Atmosfera autentică a comunității de aici îi conferă un farmec intim și primitor. Sosirea cu o carte bună și un prosop garantează un timp odihnitor la malul mării.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "The Morne Museum",
-                  "text": "Muzeul Morne din Chase Gardens, situat pe dealul Morne, documentează istoria militară a celui de-al Doilea Război Mondial în Saint Lucia.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
             {
                   "name": "Folk Research Center",
                   "text": "Centrul de Cercetare Folklorică din Chase Gardens este un muzeu al culturii populare din Saint Lucia, cu meșteșuguri și muzică tradițională.",
@@ -8729,117 +4453,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.984748,
                         14.0145
                   ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "Caracterizată de peisajul său pitoresc de coastă, plaja Yellow Sands din Chase Gardens este o încântare pentru iubitorii de mare. Vizitatorii sunt invitați să se scufunde în apele atractive, să se bucure de soarele vibrant sau să facă o plimbare liniștită. Este un loc atrăgător, definit de o energie caraibiană calmă și relaxantă. Vizitarea într-o dimineață însorită oferă cele mai uimitoare priveliști asupra apei.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Derek Walcott Square este un parc public proeminent în Chase Gardens, numit după laureatul premiului Nobel.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "Un punct de belvedere pitoresc care oferă panorame asupra Chase Gardens.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "Monumentul Sir John Compton din Chase Gardens comemorează primul prim-ministru al Sfintei Lucie.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Grădina Zoologică Forestieră din Chase Gardens adăpostește specii native, cum ar fi papagalul din Saint Lucia.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "Clădirea Derick Walcott servește ca un punct de reper în Chase Gardens.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "Saint Lucia este o atracție notabilă situată în Chase Gardens.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Provost Park prezintă ruine antice situate în Chase Gardens.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Vigie Lighthouse",
-                  "text": "Vigie Lighthouse in Chase Gardens is a historic 19th-century lighthouse at the northern tip of the Vigie Peninsula.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.00122,
-                        14.022348
-                  ]
-            },
-            {
-                  "name": "Vigie Beach",
-                  "text": "Conveniently situated near the airport in Chase Gardens, Vigie Beach boasts a well-known stretch of white sand. This lovely coastal spot is great for a quick swim, unwinding on the soft shore, or taking a scenic seaside stroll. Despite its proximity to transit, it maintains a relaxing and inviting vibe for visitors. Spending a few hours here is an excellent way to cap off an afternoon before moving on.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Choc Beach serves as a lovely local sandy shore in the Chase Gardens area. It offers an easygoing environment perfectly suited for swimming, taking in the sea views, or lounging by the waves. The authentic community atmosphere here gives it a cozy, welcoming charm. Arriving with a good book and a towel guarantees a restful time by the sea.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "The Morne Museum",
-                  "text": "The Morne Museum in Chase Gardens sits on Morne Hill and details Saint Lucia's World War II military history.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
             {
                   "name": "Folk Research Center",
                   "text": "The Folk Research Center in Chase Gardens is a museum of Saint Lucian folk culture, featuring traditional crafts and music.",
@@ -8847,78 +4463,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.984748,
                         14.0145
-                  ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "Characterized by its picturesque coastal setting, Yellow Sands Beach in Chase Gardens is a delight for beachgoers. Visitors are welcomed to dip into the inviting waters, soak up the vibrant sun, or enjoy a peaceful walk. It is an appealing spot characterized by a calm, laid-back Caribbean energy. Visiting on a sunny morning provides the most striking views of the water.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Derek Walcott Square is a prominent public park in Chase Gardens named after the Nobel laureate.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "A scenic viewpoint offering panoramas of Chase Gardens.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "The Sir John Compton Monument in Chase Gardens commemorates the first Prime Minister of Saint Lucia.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "The Forestry Zoo in Chase Gardens houses native species such as the Saint Lucia parrot.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "The Derick Walcott Building serves as a landmark monument in Chase Gardens.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "Saint Lucia is a notable point of interest situated in Chase Gardens.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Provost Park features ancient ruins located within Chase Gardens.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
                   ]
             }
       ]
@@ -8970,93 +4514,12 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-la-clery-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Vigie Lighthouse",
-                  "text": "Der Vigie-Leuchtturm in La Clery ist ein historischer Leuchtturm aus dem 19. Jahrhundert an der Nordspitze der Vigie-Halbinsel.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.00122,
-                        14.022348
-                  ]
-            },
-            {
                   "name": "Vigie Beach",
                   "text": "Als beliebtes Sandziel in der Nähe von La Clery bietet der Vigie Beach ein klassisches Insel-Stranderlebnis. Er ist ein bevorzugter Ort für erfrischende Badegänge, gemütliches Sonnenbaden und ausgedehnte Spaziergänge am Meer. Die Stimmung ist überwiegend fröhlich und entspannt, ganz im Zeichen des lokalen Insel-Lebensgefühls. Ein Ausflug am späten Nachmittag verspricht angenehme Temperaturen und ein wunderschönes Licht über der Küste.",
                   "category": "recreational",
                   "coords": [
                         -60.988251,
                         14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Der in der Nähe von La Clery gelegene Choc Beach ist ein schöner Küstenstreifen, der Einheimische und Besucher gleichermaßen anzieht. Er schafft eine wunderbare Umgebung, um im Meer zu schwimmen, die tropische Sonne zu genießen und lange Spaziergänge im Sand zu unternehmen. Die Umgebung ist von Natur aus friedlich und verspricht einen erholsamen Tag an den Wellen. Einfache Vorbereitungen wie das Mitbringen von ausreichend Wasser garantieren einen angenehmen Aufenthalt.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "The Morne Museum",
-                  "text": "Das Morne Museum in La Clery auf dem Morne-Hügel dokumentiert die Militärgeschichte des Zweiten Weltkriegs auf St. Lucia.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "Das Folk Research Center in La Clery ist ein Museum der saint-lucianischen Volkskultur mit traditionellem Handwerk und Musik.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "Eingebettet in La Clery präsentiert sich der Yellow Sands Beach als wunderschöne Küste für eine klassische karibische Auszeit. Das sanft plätschernde Wasser eignet sich hervorragend zum Schwimmen, während das Ufer zu erholsamen Sonnenbädern und nachdenklichen Spaziergängen einlädt. Man darf sich auf eine heitere und freundliche Stimmung freuen, ideal für alle, die dem Trubel entfliehen möchten. Wer sich frühzeitig ein Plätzchen sucht, sichert sich den besten Blick auf den Horizont.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Der Derek-Walcott-Platz in La Clery ist ein baumbestandener Park zu Ehren des Literaturnobelpreisträgers Derek Walcott.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "Der Aussichtspunkt in La Clery bietet einen weiten Blick über das Tal und das Karibische Meer.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "Das Sir-John-Compton-Denkmal in La Clery erinnert an den ersten Premierminister von St. Lucia.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "Das Derick-Walcott-Gebäude in La Clery ist ein historisches Gebäude, benannt nach dem Dichter Derek Walcott.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
                   ]
             },
             {
@@ -9067,27 +4530,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.996447,
                         14.014745
                   ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Der Provost Park in La Clery ist eine historische Grünanlage mit schattigen Bäumen und Bänken.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Vigie Lighthouse",
-                  "text": "A La Clery-i Vigie világítótorony egy 19. századi történelmi világítótorony a Vigie-félsziget északi csücskénél.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.00122,
-                        14.022348
-                  ]
-            },
             {
                   "name": "Vigie Beach",
                   "text": "A La Clery közelében fekvő, népszerű homokos Vigie Beach igazi szigeti strandélményt nyújt. Kedvelt hely a frissítő úszásokhoz, a kényelmes napozáshoz és a hosszas tengerparti sétákhoz. A légkör általában vidám és nyugodt, tükrözve a helyi szigeti életmódot. Egy késő délutáni kirándulás kellemes hőmérsékletet és gyönyörű fényeket kínál a part felett.",
@@ -9098,78 +4543,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Choc Beach",
-                  "text": "A La Clery közelében fekvő Choc Beach egy gyönyörű partszakasz, amely vonzza a helyieket és a látogatókat egyaránt. Csodálatos környezetet teremt a tengerben való úszáshoz, a trópusi napfény élvezetéhez és a hosszú homokos sétákhoz. A környezet természetesen békés, és egy fiatalító napot ígér a hullámok mellett. Az egyszerű előkészületek, mint például a bőséges ivóvíz, biztosítják a kényelmes tartózkodást.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "The Morne Museum",
-                  "text": "A La Clery-i Morne Múzeum a Morne-dombon Saint Lucia második világháborús katonai történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "A La Clery-i Népi Kutatóközpont a szentlúciai népi kultúra múzeuma, hagyományos kézművességgel és zenével.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "A La Cleryben megbúvó Yellow Sands Beach gyönyörű partvidéket kínál egy klasszikus karibi kikapcsolódáshoz. A lágyan hullámzó víz nagyszerű úszáshoz, míg a part pihentető napozásra és elmélyült sétákra invitál. Békés és barátságos hangulatra számíthat, amely tökéletes azok számára, akik el akarnak menekülni a tömeg elől. A korai érkezés biztosítja a legjobb kilátást a horizontra.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "A Derek Walcott tér La Clery-ben egy fás park, amely Derek Walcott költő előtt tiszteleg.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "A La Clery-i kilátópont széles kilátást nyújt a völgyre és a Karib-tengerre.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "A Sir John Compton-emlékmű La Clery-ben Saint Lucia első miniszterelnökére emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "A Derick Walcott épület La Clery-ben egy történelmi épület, amely Derek Walcott költőről kapta a nevét.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
                   "name": "Saint Lucia",
                   "text": "A Saint Lucia kilátópont La Clery-ben panorámás kilátást nyújt a sziget északi partvidékére.",
                   "category": "landmark",
@@ -9177,27 +4550,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.996447,
                         14.014745
                   ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "A Provost Park La Clery-ben egy történelmi zöldterület árnyas fákkal és padokkal.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Vigie Lighthouse",
-                  "text": "Farul Vigie din La Clery este un far istoric din secolul al XIX-lea, la capătul nordic al peninsulei Vigie.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.00122,
-                        14.022348
-                  ]
-            },
             {
                   "name": "Vigie Beach",
                   "text": "O destinație de nisip populară lângă La Clery, plaja Vigie oferă o experiență chintesențială de plajă pe insulă. Este un loc preferat pentru înoturi revigorante, plajă confortabilă și plimbări prelungite pe malul mării. Atmosfera este în general veselă și relaxată, reflectând stilul de viață local al insulei. O excursie târziu după-amiaza oferă temperaturi plăcute și o lumină frumoasă deasupra coastei.",
@@ -9208,78 +4563,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Choc Beach",
-                  "text": "Situată în apropiere de La Clery, plaja Choc este o întindere frumoasă de coastă care atrage deopotrivă localnici și vizitatori. Creează un mediu minunat pentru a înota în mare, a absorbi soarele tropical și a te bucura de plimbări lungi pe nisip. Cadrul este în mod natural pașnic, promițând o zi de întinerire pe malul valurilor. Pregătirile simple, cum ar fi aducerea apei din abundență, vor asigura o ședere confortabilă.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "The Morne Museum",
-                  "text": "Muzeul Morne din La Clery, situat pe dealul Morne, documentează istoria militară a celui de-al Doilea Război Mondial în Saint Lucia.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "Centrul de Cercetare Folklorică din La Clery este un muzeu al culturii populare din Saint Lucia, cu meșteșuguri și muzică tradițională.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "Ascunsă în La Clery, plaja Yellow Sands prezintă un țărm frumos pentru o evadare clasică în Caraibe. Apele care se lovesc ușor sunt excelente pentru înot, în timp ce țărmul invită la plajă odihnitoare și plimbări atente. Vă puteți aștepta la o atmosferă senină și prietenoasă, perfectă pentru cei care doresc să scape de aglomerație. Alegerea unui loc din timp asigură o vedere premium asupra orizontului.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Piața Derek Walcott din La Clery este un parc cu copaci în cinstea poetului laureat Nobel Derek Walcott.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "Punctul de belvedere din La Clery oferă o priveliște largă asupra văii și a Mării Caraibelor.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "Monumentul Sir John Compton din La Clery comemorează primul prim-ministru al Sfintei Lucie.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "Clădirea Derick Walcott din La Clery este o clădire istorică numită după poetul Derek Walcott.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
                   "name": "Saint Lucia",
                   "text": "Punctul de belvedere Saint Lucia din La Clery oferă o priveliște panoramică asupra coastei de nord a insulei.",
                   "category": "landmark",
@@ -9287,27 +4570,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.996447,
                         14.014745
                   ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Parcul Provost din La Clery este un spațiu verde istoric, cu copaci umbroși și bănci.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Vigie Lighthouse",
-                  "text": "Vigie Lighthouse in La Clery is a historic 19th-century lighthouse at the northern tip of the Vigie Peninsula.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.00122,
-                        14.022348
-                  ]
-            },
             {
                   "name": "Vigie Beach",
                   "text": "A popular sandy destination near La Clery, Vigie Beach provides a quintessential island beach experience. It is a favored spot for refreshing swims, comfortable sunbathing, and lingering seaside strolls. The atmosphere is generally cheerful and relaxed, reflecting the local island lifestyle. A late afternoon trip offers pleasant temperatures and beautiful lighting over the coast.",
@@ -9318,93 +4583,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Choc Beach",
-                  "text": "Located near La Clery, Choc Beach is a beautiful coastal stretch that draws locals and visitors alike. It creates a wonderful environment for swimming in the sea, soaking up the tropical sun, and enjoying long walks on the sand. The setting is naturally peaceful, promising a rejuvenating day out by the waves. Simple preparations like bringing plenty of water will ensure a comfortable stay.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "The Morne Museum",
-                  "text": "The Morne Museum in La Clery sits on Morne Hill and details Saint Lucia's World War II military history.",
-                  "category": "museum",
-                  "coords": [
-                        -60.996541,
-                        13.999785
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "The Folk Research Center in La Clery is a museum of Saint Lucian folk culture, featuring traditional crafts and music.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Yellow Sands Beach",
-                  "text": "Nestled in La Clery, Yellow Sands Beach presents a beautiful shoreline for a classic Caribbean escape. The gently lapping waters are great for swimming, while the shore invites restful sunbathing and thoughtful walks. You can expect a serene and friendly vibe, perfect for those wanting to escape the crowds. Setting up a spot early ensures a premium view of the horizon.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.009579,
-                        14.009262
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Derek Walcott Square in La Clery is a tree-lined park honoring Nobel laureate poet Derek Walcott.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "The viewpoint in La Clery offers a wide view over the valley and the Caribbean Sea.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "The Sir John Compton Monument in La Clery commemorates the first Prime Minister of Saint Lucia.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "The Derick Walcott Building in La Clery is a historic building named after poet Derek Walcott.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
                   "name": "Saint Lucia",
                   "text": "The Saint Lucia viewpoint in La Clery offers a panoramic view of the island's northern coast.",
                   "category": "landmark",
                   "coords": [
                         -60.996447,
                         14.014745
-                  ]
-            },
-            {
-                  "name": "Provost Park",
-                  "text": "Provost Park in La Clery is a historic green space with shady trees and benches.",
-                  "category": "historical",
-                  "coords": [
-                        -60.997903,
-                        14.000203
                   ]
             }
       ]
@@ -9454,410 +4638,10 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-vide-bouteille-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Vigie Lighthouse",
-                  "text": "Der Vigie Lighthouse ist ein historisches maritimes Leuchtfeuer in Vide Bouteille.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.00122,
-                        14.022348
-                  ]
-            },
-            {
-                  "name": "Vigie Beach",
-                  "text": "In Vide Bouteille, ganz in der Nähe des örtlichen Flughafens gelegen, wartet der Vigie Beach mit einer bekannten, weißen Sandfläche auf. Dieser Strandabschnitt ist ein einladender Ort für ein erfrischendes Bad, zum Entspannen unter dem karibischen Himmel oder für ausgiebige Strandspaziergänge. Obwohl er gut erreichbar ist, hat er sich eine beruhigende Atmosphäre bewahrt, die Erholungssuchende anspricht. Ein Besuch am mittleren Vormittag bietet meist die beste Mischung aus Sonne und angenehmem Schatten.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Als wunderschöner Ort am Meer in Vide Bouteille ist der Choc Beach ein herrliches Ziel für einen entspannten Tagesausflug. Die sanften Wellen sind ideal für ein gemütliches Bad, während das Ufer zum Sonnenbaden und zu ruhigen Spaziergängen einlädt. Man findet hier eine stille, unaufgeregte Atmosphäre vor, die den Charme der Insel richtig zur Geltung bringt. Es ist immer ratsam, ein paar Snacks mitzubringen und sich auf ein paar friedliche Stunden einzurichten.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "Das Folk Research Center in Vide Bouteille ist ein Museum der saint-lucianischen Volkskultur mit traditionellem Handwerk und Musik.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "Von der Natur zur Erholung geschaffen, ist der Marisule Beach in Vide Bouteille ein wunderbares Küstengebiet. Das Wasser lädt Besucher zum Schwimmen und Waten ein, während sich die Küstenabschnitte perfekt zum Sonnenbaden oder für Erkundungen zu Fuß eignen. Die ruhige und leicht abgelegene Stimmung bietet eine hervorragende Fluchtmöglichkeit vor den belebteren Orten. Ein Besuch während der goldenen Stunde offenbart unvergessliche Ausblicke.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Der Derek Walcott Square ist ein öffentlicher Park in Vide Bouteille, benannt nach dem berühmten Nobelpreisträger.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "Dieser Aussichtspunkt bietet einen Panoramablick auf die Umgebung von Vide Bouteille.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "Das Sir-John-Compton-Denkmal in Vide Bouteille erinnert an den ersten Premierminister von St. Lucia.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Der Forstzoologische Garten in Vide Bouteille beherbergt einheimische Arten wie den St. Lucia-Papagei.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "Das Derick-Walcott-Gebäude in Vide Bouteille ist ein historisches Gebäude, benannt nach dem Dichter Derek Walcott.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "Diese lokale Attraktion in Vide Bouteille hebt Aspekte von St. Lucia hervor.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Vigie Lighthouse",
-                  "text": "A Vigie Lighthouse egy történelmi tengerészeti világítótorony Vide Bouteille-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.00122,
-                        14.022348
-                  ]
-            },
-            {
-                  "name": "Vigie Beach",
-                  "text": "A Vide Bouteille-ben, a helyi repülőtér közelében található Vigie Beach jól ismert, széles fehér homokos szakasszal rendelkezik. Ez a partszakasz hívogató helyszín egy frissítő úszáshoz, a karibi égbolt alatti pihenéshez, vagy a partvidék gyalogos felfedezéséhez. Bár könnyen megközelíthető, megőrzi azt a nyugodt légkört, amely vonzó a pihenni vágyók számára. A délelőtt közepére tervezett látogatás általában a napsütés és az árnyék legjobb egyensúlyát kínálja.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "A Vide Bouteille-i gyönyörű tengerparti fekvésű Choc Beach remek úti cél egy pihentető nap eltöltésére. A szelíd hullámok ideálisak egy kényelmes úszáshoz, míg a partvonal napozásra és nyugodt sétákra hívogat. Csendes, ráérős légkört talál itt, amely lehetővé teszi, hogy igazán értékelje a sziget varázsát. Mindig bölcs dolog némi harapnivalót hozni, és berendezkedni egy pár békés órára.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "A Vide Bouteille-i Népi Kutatóközpont a szentlúciai népi kultúra múzeuma, hagyományos kézművességgel és zenével.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "A természet által kikapcsolódásra teremtett Marisule Beach Vide Bouteille-ben egy csodálatos part menti terület. A víz úszásra és lubickolásra invitálja a látogatókat, míg a tengerparti szakaszok tökéletesek a napfény befogadására vagy gyalogos felfedezésre. Nyugodt és némileg elszigetelt hangulata kiváló menedéket nyújt a forgalmasabb helyek elől. Az aranyórában tett látogatás valóban emlékezetes kilátást nyújt.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "A Derek Walcott Square egy nyilvános park Vide Bouteille-ben, amelyet a híres Nobel-díjasról neveztek el.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "Ez a kilátó panorámás kilátást nyújt a környező Vide Bouteille területére.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "A Sir John Compton-emlékmű Vide Bouteille-ben Saint Lucia első miniszterelnökére emlékeztet.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "A Vide Bouteille-i Erdészeti Állatkert őshonos fajokat, például a Saint Lucia-i papagájt mutatja be.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "A Derick Walcott épület Vide Bouteille-ben egy történelmi épület, amely Derek Walcott költőről kapta a nevét.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "Ez a helyi látványosság Vide Bouteille-ben Saint Lucia jellegzetességeit emeli ki.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Vigie Lighthouse",
-                  "text": "Farul Vigie este un reper maritim istoric situat în Vide Bouteille.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.00122,
-                        14.022348
-                  ]
-            },
-            {
-                  "name": "Vigie Beach",
-                  "text": "Situată în Vide Bouteille, aproape de aeroportul local, plaja Vigie se mândrește cu o întindere de nisip alb bine cunoscută. Acest țărm este o locație primitoare pentru a face o baie revigorantă, pentru a vă relaxa sub cerul Caraibelor sau pentru a vă bucura de peisajul de coastă pe jos. Deși accesibilă, își păstrează o atmosferă calmantă care atrage persoanele aflate în căutarea relaxării. Planificarea unei vizite la mijlocul dimineții oferă de obicei cel mai bun echilibru între soare și umbră.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Servind ca un loc frumos la malul mării în Vide Bouteille, plaja Choc este o destinație minunată pentru o zi relaxantă. Valurile blânde sunt ideale pentru o baie liniștită, în timp ce țărmul cheamă la plajă și plimbări pașnice. Veți găsi o atmosferă tăcută, fără grabă, care vă permite să apreciați cu adevărat farmecul insulei. Este întotdeauna o decizie bună să aduceți câteva gustări și să vă așezați pentru câteva ore liniștite.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "Centrul de Cercetare Folklorică din Vide Bouteille este un muzeu al culturii populare din Saint Lucia, cu meșteșuguri și muzică tradițională.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "Creată de natură pentru recreere, plaja Marisule din Vide Bouteille este o zonă de coastă minunată. Apele invită vizitatorii să înoate, în timp ce zonele de coastă sunt perfecte pentru a prinde puțin soare sau pentru a fi explorate pe jos. Sentimentul său senin și oarecum retras oferă o evadare excelentă din locurile mai aglomerate. Vizitarea în timpul orei de aur prezintă priveliști cu adevărat memorabile.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Piața Derek Walcott este un parc public din Vide Bouteille, numit după celebrul laureat al premiului Nobel.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "Acest punct de belvedere oferă o vedere panoramică asupra zonei înconjurătoare din Vide Bouteille.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "Monumentul Sir John Compton din Vide Bouteille comemorează primul prim-ministru al Sfintei Lucie.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Grădina Zoologică Forestieră din Vide Bouteille adăpostește specii native, cum ar fi papagalul din Saint Lucia.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "Clădirea Derick Walcott din Vide Bouteille este o clădire istorică numită după poetul Derek Walcott.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "Această atracție locală din Vide Bouteille evidențiază aspecte ale insulei Sfânta Lucia.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Vigie Lighthouse",
-                  "text": "Vigie Lighthouse is a historic maritime beacon located in Vide Bouteille.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.00122,
-                        14.022348
-                  ]
-            },
-            {
-                  "name": "Vigie Beach",
-                  "text": "Situated in Vide Bouteille close to the local airport, Vigie Beach features a well-known expanse of white sand. This shoreline is an inviting location for taking a refreshing swim, relaxing under the Caribbean sky, or enjoying the coastal scenery on foot. Though accessible, it retains a calming atmosphere that appeals to relaxation seekers. Planning a visit around mid-morning usually offers the best balance of sun and shade.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Serving as a beautiful seaside spot in Vide Bouteille, Choc Beach is a lovely destination for a relaxing day out. The gentle waves are ideal for a leisurely swim, while the shoreline calls for sunbathing and tranquil walks. You will find a quiet, unhurried atmosphere that lets you truly appreciate the island's charm. It is always wise to bring some snacks and settle in for a couple of peaceful hours.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "The Folk Research Center in Vide Bouteille is a museum of Saint Lucian folk culture, featuring traditional crafts and music.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "Designed by nature for recreation, Marisule Beach in Vide Bouteille is a wonderful coastal area. The waters invite visitors to swim and wade, while the coastal stretches are perfect for catching some sun or exploring on foot. Its serene and somewhat secluded feel provides an excellent escape from busier spots. Visiting during the golden hour presents truly memorable views.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Derek Walcott Square is a public park in Vide Bouteille, named after the famous Nobel Laureate.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "This view point offers panoramic sights of the surrounding Vide Bouteille area.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "The Sir John Compton Monument in Vide Bouteille commemorates the first Prime Minister of Saint Lucia.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "The Forestry Zoo in Vide Bouteille houses native species such as the Saint Lucia parrot.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "The Derick Walcott Building in Vide Bouteille is a historic building named after poet Derek Walcott.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "This local attraction in Vide Bouteille highlights aspects of Saint Lucia.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LC",
     type: "city",
@@ -9906,15 +4690,6 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-bissee-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Vigie Beach",
-                  "text": "Bekannt für seinen markanten weißen Sand, ist der in Bissee gelegene Abschnitt des Vigie Beach ein klassisches Highlight der Karibik. Dieser Strand ist fantastisch, um im Ozean zu baden, sich am weichen Ufer auszuruhen oder an der Wasserlinie entlang zu spazieren. Eine behagliche und unprätentiöse Stimmung macht ihn zu einem einladenden Ort für Familien und Alleinreisende gleichermaßen. Wer am Morgen ankommt, sichert sich einen frischen, sonnendurchfluteten Start in den Tag.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
                   "name": "Choc Beach",
                   "text": "Ideal für begeisterte Strandbesucher präsentiert sich der Choc Beach als wunderschöner Küstenabschnitt in Bissee. Das einladende Wasser ist perfekt für ein erfrischendes Bad, und die sandigen Flächen regen zu stundenlangem Sonnenbaden oder sanften Spaziergängen an. Er strahlt eine freundliche, lokale Energie aus, die die Besucher ganz natürlich entspannen lässt. Wer ein leichtes Picknick einpackt, kann seinen Nachmittag hier wunderbar aufwerten.",
                   "category": "recreational",
@@ -9922,54 +4697,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.975235,
                         14.033723
                   ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "Das Folk Research Center in Bissee ist ein Museum der saint-lucianischen Volkskultur mit traditionellem Handwerk und Musik.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "Der Marisule Beach bietet ein entspannendes und authentisch lokales Stranderlebnis in Bissee. Es ist eine herrliche Umgebung für ein ruhiges Schwimmen, um die Wärme der Sonne zu genießen oder an den sanften Wellen entlangzuschlendern. Der abgelegene Charme der Gegend macht sie zu einem idealen Rückzugsort für alle, die sich nach Ruhe sehnen. Mit bequemem Schuhwerk lässt sich der sandige Randbereich wunderbar erkunden.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "Ein lokaler Aussichtspunkt mit weitem Blick über Bissee.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Der Forstzoologische Garten in Bissee beherbergt einheimische Arten wie den St. Lucia-Papagei.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "A feltűnő fehér homokjáról ismert Vigie Beach Bissee-i szakasza egy klasszikus karibi látványosság. Ez a strand fantasztikus az óceánban való megmártózáshoz, a puha parton való pihenéshez vagy a vízparti sétákhoz. A kényelmes és szerény hangulat egyaránt hívogatóvá teszi a családok és az egyedül utazók számára. A reggeli érkezés friss, napsütötte indulást garantál a napnak.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
             {
                   "name": "Choc Beach",
                   "text": "A lelkes strandolók számára ideális Choc Beach gyönyörű partszakaszt kínál Bisseeben. A hívogató víz tökéletes egy frissítő úszáshoz, a homokos szakaszok pedig hosszú órákig tartó napozásra vagy könnyed sétákra ösztönöznek. Barátságos, helyi energiát sugároz, amely természetes módon nyugtatja meg a látogatókat. Egy könnyű piknik csomagolása nagyszerű módja annak, hogy feldobja az itteni délutánt.",
@@ -9978,54 +4708,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.975235,
                         14.033723
                   ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "A Bissee-i Népi Kutatóközpont a szentlúciai népi kultúra múzeuma, hagyományos kézművességgel és zenével.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "A Marisule Beach pihentető és hitelesen helyi tengerparti élményt nyújt Bisseeben. Bűbájos környezet egy csendes úszáshoz, a nap melegének magába szívásához vagy a hullámok melletti sétáláshoz. A terület eldugott varázsa ideális menedékké teszi azok számára, akik békére vágynak. Kényelmes lábbeli viselése kellemes felfedezést tesz lehetővé a közeli homokos peremeken.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "Egy helyi kilátó, amely tágas kilátást nyújt Bissee területére.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "A Bissee-i Erdészeti Állatkert őshonos fajokat, például a Saint Lucia-i papagájt mutatja be.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "Cunoscută pentru nisipurile sale albe uimitoare, secțiunea Bissee a plajei Vigie este un punct de atracție clasic din Caraibe. Această plajă este fantastică pentru o baie în ocean, pentru a vă odihni pe țărmul moale sau pentru a vă plimba de-a lungul apei. O dispoziție confortabilă și nepretențioasă îl face un loc primitor pentru familii și călătorii solitari deopotrivă. Sosirea dimineața garantează un început proaspăt și însorit al zilei.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
             {
                   "name": "Choc Beach",
                   "text": "Ideală pentru iubitorii pasionați de plajă, plaja Choc prezintă o întindere frumoasă de coastă în Bissee. Apele primitoare sunt perfecte pentru o baie revigorantă, iar zonele nisipoase încurajează ore lungi de plajă sau plimbări ușoare. Radiază o energie prietenoasă, locală, care îi face pe vizitatori să se simtă în mod natural relaxați. Împachetarea unui picnic ușor este o modalitate excelentă de a vă ridica moralul într-o după-amiază aici.",
@@ -10034,54 +4719,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.975235,
                         14.033723
                   ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "Centrul de Cercetare Folklorică din Bissee este un muzeu al culturii populare din Saint Lucia, cu meșteșuguri și muzică tradițională.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "Plaja Marisule oferă o experiență de coastă relaxantă și autentic locală în Bissee. Este un mediu minunat pentru o baie liniștită, pentru a vă bucura de căldura soarelui sau pentru a vă plimba pe lângă valurile mării. Farmecul retras al zonei o face o retragere ideală pentru cei care doresc liniște. Aducerea de încălțăminte confortabilă permite o explorare plăcută a marginilor nisipoase din apropiere.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "Un punct de belvedere local care oferă vederi ample asupra Bissee.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Grădina Zoologică Forestieră din Bissee adăpostește specii native, cum ar fi papagalul din Saint Lucia.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "Known for its striking white sands, the Bissee section of Vigie Beach is a classic Caribbean highlight. This beach is fantastic for taking a dip in the ocean, resting on the soft shoreline, or walking along the water's edge. A comfortable and unpretentious mood makes it a welcoming spot for families and solo travelers alike. Arriving in the morning guarantees a fresh, sunlit start to your day.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
             {
                   "name": "Choc Beach",
                   "text": "Ideal for avid beachgoers, Choc Beach presents a beautiful stretch of coastline in Bissee. The welcoming waters are perfect for a refreshing swim, and the sandy stretches encourage long hours of sunbathing or gentle walks. It radiates a friendly, local energy that naturally puts visitors at ease. Packing a light picnic is a great way to elevate your afternoon here.",
@@ -10089,42 +4729,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.975235,
                         14.033723
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "The Folk Research Center in Bissee is a museum of Saint Lucian folk culture, featuring traditional crafts and music.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "Marisule Beach offers a relaxing and authentically local shoreline experience in Bissee. It is a lovely environment for a quiet swim, soaking up the warmth of the sun, or ambling by the lapping waves. The secluded charm of the area makes it an ideal retreat for those craving peace. Bringing comfortable footwear allows for pleasant exploration of the nearby sandy fringes.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
-                  "name": "View point",
-                  "text": "A local viewpoint offering expansive views over Bissee.",
-                  "category": "natural",
-                  "coords": [
-                        -60.978443,
-                        14.008816
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "The Forestry Zoo in Bissee houses native species such as the Saint Lucia parrot.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
                   ]
             }
       ]
@@ -10221,78 +4825,6 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-beausejour-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Splash Island Water Park",
-                  "text": "Der Splash Island Waterpark in Beausejour bietet Wasserrutschen, Pools und Spielbereiche für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
-                  "name": "Anse du Cap",
-                  "text": "Anse du Cap in Beausejour ist ein feiner Sandstrand an der Nordküste, ideal zum Schwimmen und Sonnenbaden.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.947548,
-                        14.103692
-                  ]
-            },
-            {
-                  "name": "Anse Bécune Beach",
-                  "text": "Versteckt in Beausejour ist der Anse Bécune Beach ein traumhaft malerischer Küstenabschnitt. Besucher können sich auf friedliche Badegänge, gemütliches Faulenzen in der Sonne und unvergessliche Strandspaziergänge freuen. Die Atmosphäre ist ruhig und ein wenig verborgen, was ein schönes Gefühl von Privatsphäre vermittelt. Es ist eine hervorragende Wahl für einen ruhigen Nachmittagsausflug abseits der touristischen Hauptzentren.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.951072,
-                        14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "Der Reduit Beach ist ein sehr beliebtes Küstenziel in Beausejour, das vor allem für seine hervorragenden Bedingungen zum Sonnenbaden bekannt ist. Das klare Wasser bietet tolle Schwimmmöglichkeiten, während der weitläufige Sandstrand sowohl zur Entspannung als auch zu aktiven Spaziergängen einlädt. Mit einer lebhaften und fröhlichen Atmosphäre zieht er oft eine dynamische Mischung von Besuchern an. Um sich den besten Platz im Sand zu sichern, empfiehlt es sich, früh am Tag einzutreffen.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
-                  ]
-            },
-            {
-                  "name": "Donkey Beach",
-                  "text": "Eingebettet an der Küste von Beausejour bietet der Donkey Beach einen einmalig friedlichen Rückzugsort am Meer. Der Küstenstreifen eignet sich hervorragend für ein ruhiges Bad, zum ungestörten Sonnenbaden oder für einen langsamen Spaziergang am Wasser. Er versprüht einen fast unberührten, rustikalen Charme, der besonders Naturliebhaber anspricht. Da es hier kaum Einrichtungen gibt, sollten Besucher ihre eigenen Vorräte für einen bequemen Aufenthalt mitbringen.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.918619,
-                        14.095611
-                  ]
-            },
-            {
-                  "name": "smugglers cove beach",
-                  "text": "Versteckt in der Landschaft von Beausejour ist der Smugglers Cove Beach ein herrlich abgelegener Sandstrand. Diese verborgene Bucht ist perfekt für ein ausgiebiges Bad, um in privater Atmosphäre die Sonnenstrahlen einzufangen und die stille Bucht zu Fuß zu erkunden. Die Stimmung fühlt sich exklusiv und gelassen an, weit entfernt vom Trubel des Alltags. Wer mit der grundlegenden Strandausrüstung anreist, garantiert sich einen ungestörten, erholsamen Tag.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.950188,
-                        14.100529
-                  ]
-            },
-            {
-                  "name": "Pigeon Island National Landmark",
-                  "text": "Das Pigeon Island National Landmark in Beausejour ist eine historische Festung aus dem 18. Jahrhundert auf einer kleinen Insel, verbunden durch eine Landbrücke.",
-                  "category": "fortress",
-                  "coords": [
-                        -60.964627,
-                        14.092578
-                  ]
-            },
-            {
-                  "name": "Pigeon Island Beach",
-                  "text": "Der Pigeon Island Beach bietet einen unglaublich malerischen Rückzugsort direkt in Beausejour. Die einladende Küstenumgebung eignet sich hervorragend zum Schwimmen in den klaren Gewässern, zum Sonnenbaden im weichen Sand und für wunderschöne Landschaftsspaziergänge. Er verbindet historisches Ambiente mit einer entspannten Strandatmosphäre und zieht eine bunte Mischung aus Naturliebhabern an. Ein ganzer Nachmittag hier ist die perfekte Möglichkeit, den einzigartigen Charme der Insel zu würdigen.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.960125,
-                        14.091033
-                  ]
-            },
-            {
                   "name": "Cas en bas",
                   "text": "Cas en bas in Beausejour ist ein breiter, palmengesäumter Sandstrand mit ruhigem Wasser, beliebt bei Einheimischen.",
                   "category": "recreational",
@@ -10311,48 +4843,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tousalee Beach",
-                  "text": "Der Tousalee Beach bietet eine überaus entspannende Meeresumgebung in Beausejour. Das sanfte Wasser und der weiche Küstenrand machen ihn zu einem herrlichen Ort zum Schwimmen, zum Genießen der warmen Sonne oder für friedliche Spaziergänge auf der Suche nach Muscheln. Seine ruhige und unauffällige Atmosphäre schafft die besten Voraussetzungen für echten Stressabbau. Ein Handtuch und eine gute Lektüre im Gepäck sind das Rezept für einen perfekten Nachmittag.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.9196,
-                        14.079342
-                  ]
-            },
-            {
                   "name": "Secret Beach",
                   "text": "Ganz seinem faszinierenden Namen entsprechend, bietet der Secret Beach einen versteckten, sandigen Rückzugsort in Beausejour. Dieser verborgene Küstenstreifen ermöglicht es den Besuchern, in relativer Privatsphäre zu schwimmen, ungestört ein Sonnenbad zu nehmen oder die unberührten Ränder der Küste zu erkunden. Die intime und heitere Atmosphäre ist eine willkommene Abwechslung zu den üblichen Inselresorts. Wer sich die Mühe macht, diesen Ort zu finden, wird mit tiefgreifender Küstenruhe belohnt.",
                   "category": "recreational",
                   "coords": [
                         -60.919419,
                         14.092068
-                  ]
-            },
-            {
-                  "name": "Pigeon Is. interpretation Center",
-                  "text": "Das Pigeon Island Interpretation Center in Beausejour bietet Ausstellungen zur Geschichte der Insel und ihrer Festung.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.962275,
-                        14.093925
-                  ]
-            },
-            {
-                  "name": "US Signaling Station",
-                  "text": "Reste einer US-Militärfernmeldezentrale aus dem Zweiten Weltkrieg auf einem Hügel nahe Beausejour mit Blick auf die Küste.",
-                  "category": "historical",
-                  "coords": [
-                        -60.966241,
-                        14.091273
-                  ]
-            },
-            {
-                  "name": "WWII Old U.S. Military Pillars",
-                  "text": "Die WWII Old U.S. Military Pillars stehen als historische Ruinen in Beausejour.",
-                  "category": "historical",
-                  "coords": [
-                        -60.956265,
-                        14.067805
                   ]
             },
             {
@@ -10372,90 +4868,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.919969,
                         14.091096
                   ]
-            },
-            {
-                  "name": "Cactus forest",
-                  "text": "Trockengebiet mit einheimischen Kakteenarten nahe Beausejour.",
-                  "category": "natural",
-                  "coords": [
-                        -60.918712,
-                        14.096891
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Splash Island Water Park",
-                  "text": "A Beausejour-i Splash Island vízipark csúszdákkal, medencékkel és játszóterekkel várja a családokat.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
-                  "name": "Anse du Cap",
-                  "text": "A Beausejour-i Anse du Cap egy finom homokos strand az északi parton, úszásra és napozásra alkalmas.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.947548,
-                        14.103692
-                  ]
-            },
-            {
-                  "name": "Anse Bécune Beach",
-                  "text": "A Beausejourban elrejtett Anse Bécune Beach egy lenyűgözően festői tengerparti szakasz. A látogatókat békés úszások, kényelmes napozás és emlékezetes tengerparti séták várják. A légkör csendes és kissé rejtett, kellemes privát szférát biztosítva. Kiváló választás egy csendes délutáni kiruccanáshoz, távol a főbb turisztikai központoktól.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.951072,
-                        14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "A Reduit Beach egy igen kedvelt tengerparti célpont Beausejourban, amely kifejezetten kiváló napozási feltételeiről ismert. A tiszta víz nagyszerű úszást tesz lehetővé, míg a kiterjedt homokos part pihenésre és aktív sétákra egyaránt hívogat. Élénk és pezsgő hangulatával gyakran vonzza a látogatók energikus keverékét. A legjobb homokos hely biztosítása érdekében mindig ajánlott korán a nap folyamán érkezni.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
-                  ]
-            },
-            {
-                  "name": "Donkey Beach",
-                  "text": "A Beausejour partjainál megbúvó Donkey Beach egyedülállóan békés tengerparti menedéket nyújt. A partvonal kiválóan alkalmas egy csendes csobbanásra, nyugalomban történő napozásra, vagy egy lassú sétára a víz mentén. Szinte érintetlen, rusztikus bájjal rendelkezik, amely a természet szerelmeseit vonzza. Mivel a kényelmi szolgáltatások ritkák, a látogatóknak érdemes saját felszerelést hozniuk a kényelmes tartózkodáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.918619,
-                        14.095611
-                  ]
-            },
-            {
-                  "name": "smugglers cove beach",
-                  "text": "A Beausejour tájába simuló Smugglers Cove Beach egy elragadóan félreeső homokos szakasz. Ez a rejtett öböl tökéletes egy elmélyült úszáshoz, a napsugarak privát élvezetéhez és a csendes öböl gyalogos felfedezéséhez. A légkör exkluzívnak és derűsnek érződik, messze a mindennapi élet nyüzsgésétől. Ha alapvető strandfelszereléssel érkezik, garantált a zavartalan, pihentető nap.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.950188,
-                        14.100529
-                  ]
-            },
-            {
-                  "name": "Pigeon Island National Landmark",
-                  "text": "A Beausejour-i Pigeon Island Nemzeti Emlékhely egy 18. századi erőd egy kis szigeten, amelyet földnyelv köt össze a parttal.",
-                  "category": "fortress",
-                  "coords": [
-                        -60.964627,
-                        14.092578
-                  ]
-            },
-            {
-                  "name": "Pigeon Island Beach",
-                  "text": "A Pigeon Island Beach hihetetlenül festői menedéket nyújt közvetlenül Beausejourban. A hívogató tengerparti környezet kiválóan alkalmas a tiszta vízben való úszásra, a puha homokon való napozásra és a gyönyörű festői sétákra. Ötvözi a történelmi hangulatot a nyugodt tengerparti atmoszférával, így a természetkedvelők sokszínű táborát vonzza. Egy teljes délután eltöltése itt a tökéletes módja annak, hogy értékeljük a sziget egyedi varázsát.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.960125,
-                        14.091033
-                  ]
-            },
             {
                   "name": "Cas en bas",
                   "text": "A Beausejour-i Cas en bas egy széles, pálmafákkal szegélyezett homokos strand csendes vízzel, népszerű a helyiek körében.",
@@ -10475,48 +4890,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tousalee Beach",
-                  "text": "A Tousalee Beach egy rendkívül pihentető tengerparti környezetet biztosít Beausejourban. A szelíd víz és a puha partvidék kellemessé teszi az úszást, a meleg napsütés befogadását vagy a békés tengerparti sétákat. Nyugodt és visszafogott légköre megteremti a valódi feszültségoldás alapjait. Egy törölköző és egy jó olvasmány a tökéletes délután receptje.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.9196,
-                        14.079342
-                  ]
-            },
-            {
                   "name": "Secret Beach",
                   "text": "Az érdekes nevéhez hűen a Secret Beach egy rejtett homokos menedéket kínál Beausejourban. Ez az eldugott partszakasz lehetővé teszi a látogatók számára, hogy viszonylagos magányban ússzanak, élvezzék a csendes napozást, vagy felfedezzék a part érintetlen széleit. A meghitt és nyugodt légkör örvendetes környezetváltozás a szokásos szigeti üdülőhelyekhez képest. A hely felkutatására szánt időt a mély tengerparti béke jutalmazza.",
                   "category": "recreational",
                   "coords": [
                         -60.919419,
                         14.092068
-                  ]
-            },
-            {
-                  "name": "Pigeon Is. interpretation Center",
-                  "text": "A Beausejour-i Pigeon Island Történeti Központ kiállításokat mutat be a sziget és erődje történetéről.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.962275,
-                        14.093925
-                  ]
-            },
-            {
-                  "name": "US Signaling Station",
-                  "text": "Egy második világháborús amerikai katonai jelzőállomás romjai egy dombon Beausejour közelében, kilátással a tengerpartra.",
-                  "category": "historical",
-                  "coords": [
-                        -60.966241,
-                        14.091273
-                  ]
-            },
-            {
-                  "name": "WWII Old U.S. Military Pillars",
-                  "text": "A WWII Old U.S. Military Pillars második világháborús történelmi romok Beausejour városában.",
-                  "category": "historical",
-                  "coords": [
-                        -60.956265,
-                        14.067805
                   ]
             },
             {
@@ -10536,90 +4915,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.919969,
                         14.091096
                   ]
-            },
-            {
-                  "name": "Cactus forest",
-                  "text": "Száraz terület őshonos kaktuszfajokkal Beausejour közelében.",
-                  "category": "natural",
-                  "coords": [
-                        -60.918712,
-                        14.096891
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Splash Island Water Park",
-                  "text": "Parcul acvatic Splash Island din Beausejour oferă tobogane, piscine și zone de joacă pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
-                  "name": "Anse du Cap",
-                  "text": "Plaja Anse du Cap din Beausejour este o plajă cu nisip fin pe coasta de nord, ideală pentru înot și plajă.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.947548,
-                        14.103692
-                  ]
-            },
-            {
-                  "name": "Anse Bécune Beach",
-                  "text": "Ascunsă în Beausejour, plaja Anse Bécune este o întindere de coastă superb de pitorească. Vizitatorii se pot bucura de înot pașnic, leneveală confortabilă la soare și plimbări memorabile la malul mării. Atmosfera este liniștită și oarecum ascunsă, oferind un sentiment minunat de intimitate. Este o alegere excelentă pentru o evadare liniștită după-amiaza, departe de principalele centre turistice.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.951072,
-                        14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "Plaja Reduit este o destinație de coastă foarte apreciată situată în Beausejour, cunoscută în special pentru condițiile sale excelente de a face plajă. Apele clare oferă condiții excelente de înot, în timp ce nisipurile expansive invită atât la relaxare, cât și la plimbări active. Cu o atmosferă vibrantă și plină de viață, atrage adesea un amestec energic de vizitatori. Pentru a vă asigura cel mai bun loc pe nisip, este întotdeauna recomandat să sosiți devreme în timpul zilei.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
-                  ]
-            },
-            {
-                  "name": "Donkey Beach",
-                  "text": "Cuibărită pe coasta Beausejour, plaja Donkey oferă o retragere pe litoral de o liniște unică. Țărmul este bine adaptat pentru o baie tăcută, plajă în liniște sau o plimbare lentă de-a lungul apei. Poartă un farmec aproape neatins, rustic, care atrage iubitorii de natură. Deoarece dotările sunt rare, vizitatorii ar trebui să își aducă propriile provizii pentru o vizită confortabilă.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.918619,
-                        14.095611
-                  ]
-            },
-            {
-                  "name": "smugglers cove beach",
-                  "text": "Ascunsă în peisajul din Beausejour, plaja Smugglers Cove este o întindere de nisip încântător de izolată. Acest golf ascuns este perfect pentru o înotare captivantă, pentru a prinde razele soarelui în privat și pentru a explora golful liniștit pe jos. Atmosfera se simte exclusivistă și senină, departe de agitația vieții de zi cu zi. Sosirea echipat cu echipament de plajă de bază garantează o zi neîntreruptă și relaxantă.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.950188,
-                        14.100529
-                  ]
-            },
-            {
-                  "name": "Pigeon Island National Landmark",
-                  "text": "Monumentul Național Insula Pigeon din Beausejour este o fortăreață istorică din secolul al XVIII-lea pe o insulă mică, legată de țărm printr-un istm.",
-                  "category": "fortress",
-                  "coords": [
-                        -60.964627,
-                        14.092578
-                  ]
-            },
-            {
-                  "name": "Pigeon Island Beach",
-                  "text": "Plaja Pigeon Island oferă o retragere incredibil de pitorească chiar în Beausejour. Mediul primitor de coastă este excelent pentru înotul în apele limpezi, plajă pe nisipurile moi și plimbări pitorești. Îmbină ambianța istorică cu o atmosferă relaxată de plajă, atrăgând o mulțime diversă de iubitori de natură. Petrecerea unei după-amieze întregi aici este modalitatea perfectă de a aprecia farmecul unic al insulei.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.960125,
-                        14.091033
-                  ]
-            },
             {
                   "name": "Cas en bas",
                   "text": "Cas en bas din Beausejour este o plajă largă cu nisip, mărginită de palmieri, cu ape liniștite, populară printre localnici.",
@@ -10639,48 +4937,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tousalee Beach",
-                  "text": "Plaja Tousalee oferă un mediu la malul mării extrem de relaxant, situat în Beausejour. Apele blânde și marginea moale a coastei o fac minunată pentru înot, pentru a absorbi soarele cald sau pentru a vă bucura de plimbări pașnice în căutarea scoicilor. Atmosfera sa liniștită și discretă pregătește terenul pentru o eliberare autentică de stres. Aducerea unui prosop și a unei lecturi bune reprezintă rețeta pentru o după-amiază perfectă.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.9196,
-                        14.079342
-                  ]
-            },
-            {
                   "name": "Secret Beach",
                   "text": "Fiind la înălțimea numelui său intrigant, plaja Secret oferă o retragere de nisip ascunsă în Beausejour. Acest țărm retras permite vizitatorilor să înoate într-o relativă intimitate, să se bucure de plajă în liniște sau să exploreze marginile nealterate ale coastei. Ambianta intimă și senină este o schimbare binevenită de ritm față de stațiunile insulare standard. Faptul că vă faceți timp pentru a localiza acest loc vă recompensează cu o pace de coastă profundă.",
                   "category": "recreational",
                   "coords": [
                         -60.919419,
                         14.092068
-                  ]
-            },
-            {
-                  "name": "Pigeon Is. interpretation Center",
-                  "text": "Centrul de Interpretare al Insulei Pigeon din Beausejour oferă expoziții despre istoria insulei și a fortăreței sale.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.962275,
-                        14.093925
-                  ]
-            },
-            {
-                  "name": "US Signaling Station",
-                  "text": "Ruinele unei foste stații de semnalizare militară americană din al Doilea Război Mondial, pe un deal lângă Beausejour, cu vedere la coastă.",
-                  "category": "historical",
-                  "coords": [
-                        -60.966241,
-                        14.091273
-                  ]
-            },
-            {
-                  "name": "WWII Old U.S. Military Pillars",
-                  "text": "Vechii stâlpi militari americani din Al Doilea Război Mondial sunt ruine istorice în Beausejour.",
-                  "category": "historical",
-                  "coords": [
-                        -60.956265,
-                        14.067805
                   ]
             },
             {
@@ -10700,90 +4962,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.919969,
                         14.091096
                   ]
-            },
-            {
-                  "name": "Cactus forest",
-                  "text": "Zonă aridă cu specii native de cactuși lângă Beausejour.",
-                  "category": "natural",
-                  "coords": [
-                        -60.918712,
-                        14.096891
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Splash Island Water Park",
-                  "text": "Splash Island Water Park in Beausejour features water slides, pools, and play areas for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
-                  "name": "Anse du Cap",
-                  "text": "Anse du Cap in Beausejour is a fine-sand beach on the north coast, perfect for swimming and sunbathing.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.947548,
-                        14.103692
-                  ]
-            },
-            {
-                  "name": "Anse Bécune Beach",
-                  "text": "Tucked away in Beausejour, Anse Bécune Beach is a gorgeously scenic stretch of coastline. Visitors can look forward to peaceful swims, comfortable lounging under the sun, and memorable seaside strolls. The atmosphere is quiet and somewhat hidden, offering a lovely sense of privacy. It is an excellent choice for a quiet afternoon getaway away from the main tourist hubs.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.951072,
-                        14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "Reduit Beach is a highly favored coastal destination located in Beausejour, known specifically for its excellent sunbathing conditions. The clear waters provide great swimming, while the expansive sands invite both relaxation and active walks. With a vibrant and lively atmosphere, it often attracts an energetic mix of visitors. To secure the best spot on the sand, it is always recommended to arrive early in the day.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
-                  ]
-            },
-            {
-                  "name": "Donkey Beach",
-                  "text": "Nestled on the coast of Beausejour, Donkey Beach provides a uniquely peaceful seaside retreat. The shoreline is well-suited for a quiet dip, sunbathing in tranquility, or taking a slow walk along the water. It carries an almost untouched, rustic charm that appeals to nature lovers. Since amenities are scarce, visitors should bring their own supplies for a comfortable visit.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.918619,
-                        14.095611
-                  ]
-            },
-            {
-                  "name": "smugglers cove beach",
-                  "text": "Tucked into the landscape of Beausejour, Smugglers Cove Beach is a delightfully secluded stretch of sand. This hidden bay is perfect for an immersive swim, catching the sun's rays in private, and exploring the quiet cove on foot. The atmosphere feels exclusive and serene, far removed from the bustle of everyday life. Arriving equipped with basic beach gear guarantees an uninterrupted, relaxing day.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.950188,
-                        14.100529
-                  ]
-            },
-            {
-                  "name": "Pigeon Island National Landmark",
-                  "text": "Pigeon Island National Landmark in Beausejour is an 18th-century fortress on a small island connected by a causeway.",
-                  "category": "fortress",
-                  "coords": [
-                        -60.964627,
-                        14.092578
-                  ]
-            },
-            {
-                  "name": "Pigeon Island Beach",
-                  "text": "Pigeon Island Beach provides an incredibly picturesque retreat right in Beausejour. The inviting coastal environment is excellent for swimming in the clear waters, sunbathing on the soft sands, and taking lovely scenic walks. It blends historical ambiance with a relaxed beach atmosphere, attracting a diverse crowd of nature lovers. Spending a full afternoon here is the perfect way to appreciate the island's unique charm.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.960125,
-                        14.091033
-                  ]
-            },
             {
                   "name": "Cas en bas",
                   "text": "Cas en bas in Beausejour is a wide, palm-fringed sandy beach with calm waters, popular with locals.",
@@ -10803,48 +4984,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tousalee Beach",
-                  "text": "Tousalee Beach provides a highly relaxing seaside environment situated within Beausejour. The gentle waters and soft coastal edge make it lovely for swimming, taking in the warm sun, or enjoying peaceful beachcomb walks. Its tranquil and low-key atmosphere sets the stage for genuine stress relief. Bringing along a towel and a good read is the recipe for a perfect afternoon.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.9196,
-                        14.079342
-                  ]
-            },
-            {
                   "name": "Secret Beach",
                   "text": "Living up to its intriguing name, Secret Beach offers a hidden sandy retreat in Beausejour. This tucked-away shoreline allows visitors to swim in relative privacy, enjoy quiet sunbathing, or explore the unspoiled edges of the coast. The intimate and serene ambiance is a welcome change of pace from standard island resorts. Taking the time to locate this spot rewards you with profound coastal peace.",
                   "category": "recreational",
                   "coords": [
                         -60.919419,
                         14.092068
-                  ]
-            },
-            {
-                  "name": "Pigeon Is. interpretation Center",
-                  "text": "The Pigeon Island Interpretation Center in Beausejour presents exhibits on the history of the island and its fortress.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.962275,
-                        14.093925
-                  ]
-            },
-            {
-                  "name": "US Signaling Station",
-                  "text": "Ruins of a US military signaling station from World War II on a hill near Beausejour, overlooking the coast.",
-                  "category": "historical",
-                  "coords": [
-                        -60.966241,
-                        14.091273
-                  ]
-            },
-            {
-                  "name": "WWII Old U.S. Military Pillars",
-                  "text": "The WWII Old U.S. Military Pillars stand as historic ruins in Beausejour.",
-                  "category": "historical",
-                  "coords": [
-                        -60.956265,
-                        14.067805
                   ]
             },
             {
@@ -10863,15 +5008,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.919969,
                         14.091096
-                  ]
-            },
-            {
-                  "name": "Cactus forest",
-                  "text": "Arid area with native cactus species near Beausejour.",
-                  "category": "natural",
-                  "coords": [
-                        -60.918712,
-                        14.096891
                   ]
             }
       ]
@@ -10968,87 +5104,6 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-rodney-heights-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Splash Island Water Park",
-                  "text": "Familienfreundlicher Wasserpark mit Rutschen und Becken in Rodney Heights.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
-                  "name": "Anse Bécune Beach",
-                  "text": "Der in Rodney Heights gelegene Anse Bécune Beach ist ein wunderschönes Stück der Küstenlinie von St. Lucia. Gäste können problemlos in den Ozean eintauchen, sich im sonnengewärmten Sand zurücklehnen oder einen sanften Spaziergang unternehmen, um die Aussicht auf die Küste zu bewundern. Es herrscht eine ausgewogene Atmosphäre, die friedliche Natur mit dem alltäglichen lokalen Leben verbindet. Ein kurzer Besuch hier ist eine wunderbare Ergänzung zu jeder Reiseplanung in dieser Gegend.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.951072,
-                        14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "Reduit Beach in Rodney Heights bietet einen wunderschönen Küstenabschnitt in St. Lucia. Besucher können sich auf einen entspannten Tag beim Sonnenbaden und auf erfrischendes Schwimmen am Sandstrand freuen. Die einladende karibische Atmosphäre macht ihn zu einem großartigen Ort für friedliche Spaziergänge am Wasser. Es empfiehlt sich, früh am Morgen einzutreffen, um den besten Platz zu finden.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
-                  ]
-            },
-            {
-                  "name": "Francois Beach",
-                  "text": "Francois Beach ist ein friedliches Küstenziel in Rodney Heights, St. Lucia. Dieser idyllische Ort eignet sich perfekt für ein ruhiges Bad oder einfach zum Entspannen im Sand unter der karibischen Sonne. Ein sanfter Spaziergang entlang der Küste offenbart die natürliche Schönheit der Gegend. Für ein wirklich entspannendes Erlebnis genießt man den Strand am besten in den warmen Sommermonaten.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.966285,
-                        14.066045
-                  ]
-            },
-            {
-                  "name": "Trouya Beach",
-                  "text": "Versteckt in Rodney Heights bietet Trouya Beach eine malerische Kulisse an der Küste von St. Lucia. Die ruhige Umgebung lädt Gäste zu einem erfrischenden Bad oder zum friedlichen Verweilen am Meer ein. Ein Spaziergang am Wasser entlang ist eine wunderbare Möglichkeit, sich mit der Natur zu verbinden. Ein Besuch am späten Nachmittag bietet eine angenehme und beruhigende Atmosphäre.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.973019,
-                        14.065401
-                  ]
-            },
-            {
-                  "name": "Pigeon Island Beach",
-                  "text": "Entlang der malerischen Küste von Rodney Heights gelegen, ist Pigeon Island Beach ein charmantes Stück St. Lucia. Reisende können ihren Tag damit verbringen, im klaren karibischen Wasser zu schwimmen oder auf dem weichen Sand an ihrer Bräune zu arbeiten. Die entspannte Atmosphäre der Gegend bildet die perfekte Kulisse für gemütliche Spaziergänge. Für einen komfortablen Besuch ist es eine gute Idee, etwas Wasser und Sonnencreme mitzubringen.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.960125,
-                        14.091033
-                  ]
-            },
-            {
-                  "name": "Cas en bas",
-                  "text": "Erholungsstrand mit Schwimm- und Picknickmöglichkeiten in Rodney Heights.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
-                  "name": "$5 Beach",
-                  "text": "Dieser einladende Strand in Rodney Heights, der einfach als $5 Beach bekannt ist, trägt zur vielfältigen Küstenschönheit von St. Lucia bei. Die sandige Weite bietet eine großartige Gelegenheit, sich zu sonnen und die sanften Meereswellen zu genießen. Er ist ein hervorragender Ort, um die authentische Küstenatmosphäre der Insel zu erleben. Wer in den frühen Stunden anreist, kann sich leichter einen ruhigen Platz sichern.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.921624,
-                        14.08362
-                  ]
-            },
-            {
-                  "name": "Tousalee Beach",
-                  "text": "Tousalee Beach bietet einen ruhigen Zufluchtsort an den sonnenverwöhnten Ufern von Rodney Heights in St. Lucia. Besucher kommen normalerweise hierher, um die Sonne zu genießen, zu schwimmen oder einfach dem beruhigenden Rauschen der karibischen Wellen zu lauschen. Die natürliche Umgebung macht ihn ideal für lange, besinnliche Spaziergänge. Während der Trockenzeit ist er ein fantastischer Ort für den Tag.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.9196,
-                        14.079342
-                  ]
-            },
-            {
                   "name": "WWII Old U.S. Military Pillars",
                   "text": "Überreste von Betonsäulen der US-Küstenverteidigung aus dem Zweiten Weltkrieg in Rodney Heights.",
                   "category": "historical",
@@ -11059,87 +5114,6 @@ export const saintluciaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Splash Island Water Park",
-                  "text": "Családbarát vízi park csúszdákkal és medencékkel Rodney Heightsban.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
-                  "name": "Anse Bécune Beach",
-                  "text": "A Rodney Heights területén található Anse Bécune Beach Saint Lucia partvidékének egy gyönyörű darabja. A vendégek könnyedén megmártózhatnak az óceánban, hátradőlhetnek a nap melegítette homokban, vagy tehetnek egy könnyed sétát, hogy megcsodálják a parti kilátást. Kiegyensúlyozott légkört kínál, amely a békés természetet a mindennapi helyi élettel ötvözi. Egy gyors látogatás ezen a helyen csodálatos kiegészítője lehet a környékbeli utazási terveknek.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.951072,
-                        14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "A Rodney Heights területén található Reduit Beach gyönyörű partszakaszt kínál Saint Lucia szigetén. A látogatók pihentető napozásra és frissítő úszásra számíthatnak a homokos part mentén. A hívogató karibi hangulat nagyszerű helyszínné teszi a békés vízparti sétákhoz. Érdemes kora reggel érkezni, hogy a legjobb helyet biztosítsuk magunknak.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
-                  ]
-            },
-            {
-                  "name": "Francois Beach",
-                  "text": "A Francois Beach egy békés tengerparti úti cél, amely Rodney Heights területén, Saint Lucia szigetén fekszik. Ez az idilli hely tökéletes egy csendes úszáshoz, vagy egyszerűen csak a homokban való pihenéshez a karibi napsütésben. A part menti kellemes séta feltárja a környék természeti szépségét. A leginkább a meleg nyári hónapokban érdemes felkeresni egy igazán pihentető élményért.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.966285,
-                        14.066045
-                  ]
-            },
-            {
-                  "name": "Trouya Beach",
-                  "text": "A Rodney Heights területén megbúvó Trouya Beach festői környezetet nyújt Saint Lucia partjainál. A nyugodt környezet egy frissítő csobbanásra vagy békés tengerparti pihenésre csábítja a vendégeket. A vízparti séta csodálatos lehetőséget kínál a természettel való kapcsolódásra. A késő délutáni látogatás kellemes és nyugodt légkört biztosít.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.973019,
-                        14.065401
-                  ]
-            },
-            {
-                  "name": "Pigeon Island Beach",
-                  "text": "A Rodney Heights festői partvonala mentén található Pigeon Island Beach Saint Lucia egyik bájos szeglete. Az utazók a napjukat a tiszta karibi vizben való úszással vagy a puha homokban való napozással tölthetik el. A környék laza hangulata tökéletes hátteret biztosít a kényelmes sétákhoz. Egy kényelmes látogatáshoz érdemes némi vizet és naptejet magunkkal vinni.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.960125,
-                        14.091033
-                  ]
-            },
-            {
-                  "name": "Cas en bas",
-                  "text": "Szabadidős strand úszási és piknikezési lehetőségekkel Rodney Heightsban.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
-                  "name": "$5 Beach",
-                  "text": "Az egyszerűen $5 Beach néven ismert, hívogató part Rodney Heights területén tovább színesíti Saint Lucia tengerparti szépségét. A homokos kiterjedés nagyszerű lehetőséget nyújt a napozásra és a lágy óceáni hullámok élvezetére. Kiváló helyszín a sziget autentikus tengerparti hangulatának megtapasztalására. A kora reggeli érkezés segíthet egy csendes hely megtalálásában.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.921624,
-                        14.08362
-                  ]
-            },
-            {
-                  "name": "Tousalee Beach",
-                  "text": "A Tousalee Beach nyugodt menedéket kínál Rodney Heights napsütötte partjainál Saint Lucia szigetén. A látogatók általában azért jönnek ide, hogy élvezzék a napsütést, ússzanak, vagy egyszerűen csak hallgassák a karibi hullámok nyugtató hangját. A természetes környezet nagyon alkalmassá teszi hosszú, elmélyült sétákra. A száraz évszakban fantasztikus nappali úti cél marad.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.9196,
-                        14.079342
-                  ]
-            },
             {
                   "name": "WWII Old U.S. Military Pillars",
                   "text": "Második világháborús amerikai tengerparti védelmi betonoszlopok maradványai Rodney Heightsban.",
@@ -11152,87 +5126,6 @@ export const saintluciaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Splash Island Water Park",
-                  "text": "Parac acvatic pentru familii cu tobogane și piscine în Rodney Heights.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
-                  "name": "Anse Bécune Beach",
-                  "text": "Situată în Rodney Heights, plaja Anse Bécune este o bucată frumoasă din coasta Sfintei Lucia. Oaspeții pot face cu ușurință o baie în ocean, se pot lăsa pe spate pe nisipul încălzit de soare sau pot face o plimbare ușoară pentru a admira priveliștile coastei. Prezintă o atmosferă echilibrată, amestecând natura pașnică cu viața locală de zi cu zi. O vizită rapidă aici este un plus minunat la orice itinerariu de călătorie în zonă.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.951072,
-                        14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "Situată în Rodney Heights, Reduit Beach oferă o întindere de coastă frumoasă în Sfânta Lucia. Vizitatorii se pot aștepta la o zi relaxantă de plajă și la înot răcoritor de-a lungul țărmului nisipos. Atmosfera caraibiană primitoare face ca acesta să fie un loc minunat pentru plimbări liniștite pe malul apei. Sosirea devreme dimineața este recomandată pentru a găsi cel mai bun loc.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
-                  ]
-            },
-            {
-                  "name": "Francois Beach",
-                  "text": "Francois Beach este o destinație de coastă liniștită, situată în Rodney Heights, Sfânta Lucia. Acest loc idilic este perfect pentru a vă bucura de o înotare liniștită sau pur și simplu pentru a vă relaxa pe nisip sub soarele Caraibelor. O plimbare ușoară de-a lungul țărmului dezvăluie frumusețea naturală a zonei. Este cel mai bine de vizitat în lunile calde de vară pentru o experiență cu adevărat relaxantă.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.966285,
-                        14.066045
-                  ]
-            },
-            {
-                  "name": "Trouya Beach",
-                  "text": "Ascunsă în Rodney Heights, Trouya Beach prezintă un cadru pitoresc pe coasta din Sfânta Lucia. Mediul liniștit invită oaspeții să facă o baie răcoritoare sau să se relaxeze liniștiți la malul mării. O plimbare pe marginea apei oferă o modalitate minunată de a vă conecta cu natura. Vizitarea în timpul după-amiezii târzii oferă o atmosferă plăcută și calmă.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.973019,
-                        14.065401
-                  ]
-            },
-            {
-                  "name": "Pigeon Island Beach",
-                  "text": "Situată de-a lungul coastei pitorești din Rodney Heights, Pigeon Island Beach este o porțiune fermecătoare din Sfânta Lucia. Călătorii își pot petrece ziua înotând în apele limpezi ale Caraibelor sau obținând un bronz perfect pe nisipul moale. Atmosfera relaxată a zonei stabilește un cadru perfect pentru plimbări pe îndelete. Aducerea de apă și cremă de protecție solară este o idee bună pentru o vizită confortabilă.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.960125,
-                        14.091033
-                  ]
-            },
-            {
-                  "name": "Cas en bas",
-                  "text": "Zonă de agrement pe plajă, cu facilități de înot și picnic în Rodney Heights.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
-                  "name": "$5 Beach",
-                  "text": "Cunoscută pur și simplu ca $5 Beach, această plajă primitoare din Rodney Heights adaugă la frumusețea diversă a coastei din Sfânta Lucia. Întinderea de nisip oferă o oportunitate excelentă pentru a face plajă și a vă bucura de valurile blânde ale oceanului. Este o locație excelentă pentru a experimenta atmosfera autentică a mării pe insulă. Sosirea la primele ore poate ajuta la asigurarea unui loc liniștit.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.921624,
-                        14.08362
-                  ]
-            },
-            {
-                  "name": "Tousalee Beach",
-                  "text": "Tousalee Beach oferă o evadare senină pe țărmurile însorite din Rodney Heights în Sfânta Lucia. Vizitatorii vin de obicei aici pentru a se bucura de soare, pentru a înota sau pur și simplu pentru a aprecia sunetul liniștitor al valurilor caraibiene. Cadrul natural îl face foarte potrivit pentru plimbări lungi și contemplative. Rămâne un loc fantastic pe timpul zilei în timpul sezonului uscat.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.9196,
-                        14.079342
-                  ]
-            },
-            {
                   "name": "WWII Old U.S. Military Pillars",
                   "text": "Rămășițe ale unor stâlpi de beton americani din al Doilea Război Mondial, parte a apărării de coastă în Rodney Heights.",
                   "category": "historical",
@@ -11243,87 +5136,6 @@ export const saintluciaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Splash Island Water Park",
-                  "text": "Family-friendly water park with slides and pools in Rodney Heights.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
-                  "name": "Anse Bécune Beach",
-                  "text": "Located within Rodney Heights, Anse Bécune Beach is a beautiful piece of the Saint Lucian shoreline. Guests can easily dip into the ocean, lay back on the sun-warmed sand, or take a gentle stroll to admire the coastal views. It presents a balanced atmosphere, mingling peaceful nature with everyday local life. A quick visit here is a wonderful addition to any travel itinerary in the area.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.951072,
-                        14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "Situated in Rodney Heights, Reduit Beach offers a beautiful coastal stretch in Saint Lucia. Visitors can look forward to a relaxing day of sunbathing and refreshing swims along the sandy shore. The inviting Caribbean atmosphere makes it a great spot for peaceful walks by the water. Arriving early in the morning is recommended to secure the best spot.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
-                  ]
-            },
-            {
-                  "name": "Francois Beach",
-                  "text": "Francois Beach is a peaceful coastal destination nestled in Rodney Heights, Saint Lucia. This idyllic spot is perfect for enjoying a quiet swim or simply unwinding on the sand under the Caribbean sun. A gentle stroll along the shoreline reveals the natural beauty of the area. It is best enjoyed during the warm summer months for a truly relaxing experience.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.966285,
-                        14.066045
-                  ]
-            },
-            {
-                  "name": "Trouya Beach",
-                  "text": "Tucked away in Rodney Heights, Trouya Beach presents a picturesque setting on the coast of Saint Lucia. The tranquil environment invites guests to take a refreshing dip or lounge peacefully by the sea. Taking a walk along the water's edge provides a wonderful way to connect with nature. Visiting during the late afternoon offers a pleasant and calm atmosphere.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.973019,
-                        14.065401
-                  ]
-            },
-            {
-                  "name": "Pigeon Island Beach",
-                  "text": "Located along the scenic coast of Rodney Heights, Pigeon Island Beach is a charming slice of Saint Lucia. Travelers can spend their day swimming in the clear Caribbean waters or working on their tan on the soft sand. The relaxed vibe of the area sets the perfect scene for leisurely walks. Bringing some water and sunscreen is a good idea for a comfortable visit.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.960125,
-                        14.091033
-                  ]
-            },
-            {
-                  "name": "Cas en bas",
-                  "text": "Recreational beach area in Rodney Heights with swimming and picnic facilities.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
-                  "name": "$5 Beach",
-                  "text": "Known simply as $5 Beach, this inviting shore in Rodney Heights adds to the diverse coastal beauty of Saint Lucia. The sandy expanse provides a great opportunity for sunbathing and enjoying the gentle ocean waves. It is an excellent location for experiencing the authentic seaside atmosphere of the island. Arriving during the early hours can help ensure a quiet spot.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.921624,
-                        14.08362
-                  ]
-            },
-            {
-                  "name": "Tousalee Beach",
-                  "text": "Tousalee Beach offers a serene getaway on the sun-drenched shores of Rodney Heights in Saint Lucia. Visitors typically come here to soak up the sun, swim, or simply appreciate the soothing sound of the Caribbean waves. The natural setting makes it highly suitable for long, contemplative walks. It remains a fantastic daytime spot during the dry season.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.9196,
-                        14.079342
-                  ]
-            },
             {
                   "name": "WWII Old U.S. Military Pillars",
                   "text": "Remains of WWII US military concrete pillars, part of a coastal defense battery in Rodney Heights.",
@@ -11380,122 +5192,10 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-mon-repos-east-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Sessene Descartes House",
-                  "text": "Restauriertes Kolonialhaus, heute Museum mit historischen Möbeln in Mon Repos East.",
-                  "category": "museum",
-                  "coords": [
-                        -60.907702,
-                        13.849501
-                  ]
-            },
-            {
-                  "name": "Grand pa's old house",
-                  "text": "Grand pa's old house ist eine interessante Ruine in Mon Repos East.",
-                  "category": "historical",
-                  "coords": [
-                        -60.901863,
-                        13.867622
-                  ]
-            },
-            {
-                  "name": "Madame de Ricoud ruins",
-                  "text": "Die Ruinen von Madame de Ricoud sind Überreste vergangener Bauwerke in Mon Repos East.",
-                  "category": "historical",
-                  "coords": [
-                        -60.903374,
-                        13.869467
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Sessene Descartes House",
-                  "text": "Helyreállított gyarmati kori ház, ma múzeum korabeli bútorokkal Mon Repos Eastben.",
-                  "category": "museum",
-                  "coords": [
-                        -60.907702,
-                        13.849501
-                  ]
-            },
-            {
-                  "name": "Grand pa's old house",
-                  "text": "A Grand pa's old house egy érdekes romos épület Mon Repos East városában.",
-                  "category": "historical",
-                  "coords": [
-                        -60.901863,
-                        13.867622
-                  ]
-            },
-            {
-                  "name": "Madame de Ricoud ruins",
-                  "text": "A Madame de Ricoud romok a múlt építményeinek maradványai Mon Repos East területén.",
-                  "category": "historical",
-                  "coords": [
-                        -60.903374,
-                        13.869467
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Sessene Descartes House",
-                  "text": "Casă colonială restaurată, acum muzeu cu mobilier de epocă în Mon Repos East.",
-                  "category": "museum",
-                  "coords": [
-                        -60.907702,
-                        13.849501
-                  ]
-            },
-            {
-                  "name": "Grand pa's old house",
-                  "text": "Casa veche a bunicului este o ruină interesantă din Mon Repos East.",
-                  "category": "historical",
-                  "coords": [
-                        -60.901863,
-                        13.867622
-                  ]
-            },
-            {
-                  "name": "Madame de Ricoud ruins",
-                  "text": "Ruinele Madame de Ricoud sunt rămășițele unor structuri din trecut în Mon Repos East.",
-                  "category": "historical",
-                  "coords": [
-                        -60.903374,
-                        13.869467
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Sessene Descartes House",
-                  "text": "Restored colonial-era house turned museum with period furnishings in Mon Repos East.",
-                  "category": "museum",
-                  "coords": [
-                        -60.907702,
-                        13.849501
-                  ]
-            },
-            {
-                  "name": "Grand pa's old house",
-                  "text": "Grand pa's old house is an interesting ruined structure located in Mon Repos East.",
-                  "category": "historical",
-                  "coords": [
-                        -60.901863,
-                        13.867622
-                  ]
-            },
-            {
-                  "name": "Madame de Ricoud ruins",
-                  "text": "The Madame de Ricoud ruins are remnants of past structures in Mon Repos East.",
-                  "category": "historical",
-                  "coords": [
-                        -60.903374,
-                        13.869467
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LC",
     type: "village",
@@ -11542,50 +5242,10 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-balata-east-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Forstzoo am Fuße eines bewaldeten Bergrückens in Balata East mit heimischen und exotischen Tieren.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Erdei állatkert egy erdős hegy lábánál Balata Eastben, helyi és egzotikus állatokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Grădină zoologică forestieră la poalele unui deal împădurit în Balata East, cu animale locale și exotice.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Forestry zoo at the base of a forested ridge in Balata East, featuring local and exotic animals.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LC",
     type: "village",
@@ -11632,194 +5292,10 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-union-west-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "Vigie Beach wird als beliebter Strand in Union West sehr geschätzt und verfügt über eine ausgedehnte Sandküste auf St. Lucia. Er zieht sowohl Einheimische als auch Besucher an, die in seinen ruhigen Gewässern schwimmen oder auf dem warmen Sand entspannen möchten. Die lebhafte, aber überschaubare Atmosphäre bietet eine ideale Kulisse für Strandspaziergänge. Wer sich morgens dorthin begibt, hat oft das angenehmste Erlebnis.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Gelegen in Union West, präsentiert Choc Beach eine klassische Küstenkulisse von St. Lucia. Dieser einladende Sandstrand ist perfekt für alle, die ein wenig schwimmen oder ungezwungen sonnenbaden möchten. Ein angenehmer Spaziergang am Wasser lässt den Stress des Tages leicht verfliegen. Ein Besuch am späten Vormittag bietet ausreichend Zeit, um die Sonne zu genießen.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "Forschungszentrum für Volkskultur in Union West, das Traditionen und Handwerk bewahrt.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "Marisule Beach ist ein herrlicher Rückzugsort am Meer im Gebiet Union West auf St. Lucia. Seine ruhigen Ufer locken diejenigen an, die gerne in tropischen Gewässern schwimmen oder sich friedlich am Ozean ausruhen. Es ist ein wunderbarer Ort für einen langsamen, nachdenklichen Spaziergang entlang der Küste. Wochentage sind im Allgemeinen ruhiger, was sie ideal für ein privateres Erlebnis macht.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Forstzoo entlang der Hauptstraße nahe Union West mit schattigen Gehegen.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "A Union West egyik népszerű strandjaként nagyra értékelt Vigie Beach kiterjedt homokos partvonallal rendelkezik Saint Lucia partjainál. Mind a helyieket, mind a látogatókat vonzza, akik a nyugodt vízben szeretnének úszni vagy a meleg homokban pihenni. Az élénk, mégis kezelhető légkör ideális hátteret biztosít a tengerparti sétákhoz. A reggeli órákban történő látogatás ígéri gyakran a legkellemesebb élményt.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Az Union West területén található Choc Beach egy klasszikus Saint Lucia-i partvidéki környezetet mutat be. Ez a hívogató homoksáv tökéletes mindazok számára, akik egy kis úszásra vagy alkalmi napozásra vágynak. Egy kellemes séta a víz mentén könnyedén elfeledteti a nap fáradalmait. A késő délelőtti látogatás bőséges időt hagy a napsütés élvezetére.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "Néprajzi kutatóközpont Union Westben, amely hagyományokat és kézművességet őriz.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "A Marisule Beach egy kedves tengerparti menedék, amely Saint Lucia Union West régiójában található. Csendes partjai azokat vonzzák, akik szeretnek trópusi vizekben úszni vagy békésen pihenni az óceán mellett. Csodálatos helyszín egy lassú, elmélkedő sétához a partvonal mentén. A hétköznapok általában csendesebbek, így ideálisak egy intimebb élményhez.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Erdei állatkert a Union West melletti főút mentén, árnyékos kifutókkal.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "Foarte apreciată ca o plajă populară în Union West, Vigie Beach prezintă un țărm nisipos întins pe coasta Sfintei Lucia. Atrage atât localnici, cât și vizitatori dornici să înoate în apele sale calme sau să se relaxeze pe nisipul cald. Atmosfera animată, dar gestionabilă, oferă un fundal ideal pentru plimbări pe litoral. Vizita dimineața promite adesea cea mai plăcută experiență.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Poziționată în Union West, Choc Beach prezintă un decor de coastă clasic din Sfânta Lucia. Această întindere primitoare de nisip este perfectă pentru toți cei care doresc să înoate sau să facă plajă ocazional. O plimbare plăcută de-a lungul apei va face ca stresul zilei să dispară cu ușurință. O vizită la mijlocul dimineții permite mult timp pentru a vă bucura de soare.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "Centru de cercetare folclorică în Union West, care păstrează tradițiile și meșteșugurile locale.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "Marisule Beach este un refugiu minunat pe litoral, situat în zona Union West din Sfânta Lucia. Țărmurile sale calme îi atrag pe cei cărora le place să înoate în apele tropicale sau să se odihnească liniștiți lângă ocean. Este o locație minunată pentru o plimbare lentă și reflexivă de-a lungul coastei. Zilele lucrătoare sunt în general mai liniștite, ceea ce le face ideale pentru o experiență mai privată.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Grădină zoologică forestieră de-a lungul drumului principal lângă Union West, cu incinte umbrite.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "Widely appreciated as a popular beach in Union West, Vigie Beach features an expansive sandy shoreline on Saint Lucia's coast. It draws both locals and visitors eager to swim in its calm waters or relax on the warm sand. The lively yet manageable atmosphere provides an ideal backdrop for seaside walks. Heading there in the morning often promises the most pleasant experience.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
-                  "name": "Choc Beach",
-                  "text": "Positioned in Union West, Choc Beach presents a classic Saint Lucian coastal setting. This inviting stretch of sand is perfect for anyone looking to engage in some swimming or casual sunbathing. A pleasant stroll along the water will easily melt away the stress of the day. A mid-morning visit allows for ample time to enjoy the sun.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.975235,
-                        14.033723
-                  ]
-            },
-            {
-                  "name": "Folk Research Center",
-                  "text": "Folk Research Center in Union West, preserving and documenting St. Lucian folk traditions and crafts.",
-                  "category": "museum",
-                  "coords": [
-                        -60.984748,
-                        14.0145
-                  ]
-            },
-            {
-                  "name": "Marisule Beach",
-                  "text": "Marisule Beach is a lovely seaside retreat located in the Union West area of Saint Lucia. Its calm shores beckon those who enjoy swimming in tropical waters or resting peacefully by the ocean. It is a wonderful location for a slow, reflective walk along the shoreline. Weekdays are generally quieter, making them ideal for a more private experience.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.972336,
-                        14.047411
-                  ]
-            },
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Forestry zoo along the main road near Union West, with shaded enclosures.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LC",
     type: "village",
@@ -11910,7 +5386,88 @@ export const saintluciaCitiesV2: POI[] = [
     image: "/poi-images/saintlucia-marisule-beach-cities-v2.webp",
   },
   {
-    id: "saintlucia-choc-commercial-cities-v2", "sights": {"de": [{"name": "Vigie Beach", "text": "Berühmt für ihren Verlauf entlang des örtlichen Flughafens in Choc Commercial, ist Vigie Beach eine markante Sandküste in St. Lucia. Strandbesucher können das Beobachten von Flugzeugen mühelos mit hervorragenden Schwimm- und Sonnenbademöglichkeiten verbinden. Der weitläufige Sand macht ihn sehr attraktiv für lange, barfüßige Spaziergänge. Ein Handtuch und einige Snacks mitzubringen, garantiert einen großartigen Tag im Freien.", "category": "recreational", "coords": [-60.988251, 14.024862]}, {"name": "Choc Beach", "text": "Choc Beach dient als wunderschönes Küstenziel in Choc Commercial und unterstreicht den tropischen Reiz von St. Lucia. Sein ruhiges Wasser lädt Besucher zum Schwimmen ein, während der Sandstrand perfekt ist, um ein paar Sonnenstrahlen einzufangen. Die landschaftliche Schönheit schafft eine inspirierende Kulisse für einen Spaziergang in der Abenddämmerung. Es ist ein hervorragender Ort, der das ganze Jahr über für Entspannung an der Küste besucht werden kann.", "category": "recreational", "coords": [-60.975235, 14.033723]}, {"name": "Francois Beach", "text": "Francois Beach stellt einen reizvollen Sandstrand direkt im Gebiet von Choc Commercial dar. Reisende nach St. Lucia werden diesen Ort hervorragend für ein gemütliches Schwimmen oder einen Lesenachmittag in der Sonne finden. Ein Spaziergang an den sanft plätschernden Wellen ist hier ungemein friedlich. Wer mit einem guten Buch und einem Sonnenhut anreist, sorgt für einen perfekten Besuch.", "category": "recreational", "coords": [-60.966285, 14.066045]}, {"name": "Trouya Beach", "text": "Trouya Beach ist bekannt für seine ruhige Strandumgebung, eingebettet in Choc Commercial. Es ist ein kleines Stück vom Paradies auf St. Lucia, das Besucher mit ungestörtem Schwimmen und entspanntem Sonnenbaden belohnt. Die ruhige Atmosphäre macht ihn sehr empfehlenswert für einen einsamen Strandspaziergang. Wer einen Besuch am frühen Morgen plant, kann sich absoluter Stille sicher sein.", "category": "recreational", "coords": [-60.973019, 14.065401]}, {"name": "Marisule Beach", "text": "Versteckt in Choc Commercial ist Marisule Beach ein idyllischer Sandstrand an der spektakulären Küste von St. Lucia. Die ruhige Umgebung wirkt wie ein Magnet auf alle, die ohne Menschenmassen schwimmen oder bequem faulenzen möchten. Wenn man die Küste zu Fuß erkundet, bekommt man ein gutes Gefühl für die karibische Brise. Es ist ein herrlicher Zufluchtsort an einem sonnigen Nachmittag.", "category": "recreational", "coords": [-60.972336, 14.047411]}], "hu": [{"name": "Vigie Beach", "text": "A Choc Commercial helyi repülőtere mentén húzódó, híres Vigie Beach egy jellegzetes homokos partvidék Saint Lucia szigetén. A strandolók könnyedén összekapcsolhatják a repülők megfigyelését a kiváló úszási és napozási lehetőségekkel. A kiterjedt homok nagyon vonzóvá teszi a hosszú, mezítlábas sétákhoz. Egy törölköző és némi harapnivaló magunkkal vitele garantálja a remek szabadtéri napot.", "category": "recreational", "coords": [-60.988251, 14.024862]}, {"name": "Choc Beach", "text": "A Choc Commercial gyönyörű tengerparti célpontjaként szolgáló Choc Beach kiemeli Saint Lucia trópusi vonzerejét. Nyugodt vizei úszásra csábítják a látogatókat, míg a homokos part tökéletes a napsugarak befogadására. A festői szépség inspiráló környezetet teremt egy alkonyati sétához. Kiváló helyszín, amelyet egész évben érdemes felkeresni a tengerparti kikapcsolódásért.", "category": "recreational", "coords": [-60.975235, 14.033723]}, {"name": "Francois Beach", "text": "A Francois Beach egy elragadó homokos menedéket képvisel közvetlenül Choc Commercial területén. A Saint Lucia szigetére utazók ezt a helyet kiválónak találják egy kényelmes úszáshoz vagy egy délutáni napsütéses olvasáshoz. A lágyan nyaldosó hullámok melletti séta itt mérhetetlenül békés. Egy jó könyvvel és egy szalmakalappal érkezve tökéletes látogatásban lehet részünk.", "category": "recreational", "coords": [-60.966285, 14.066045]}, {"name": "Trouya Beach", "text": "A Trouya Beach a Choc Commercial területén megbúvó csendes tengerparti környezetéről ismert. Ez Saint Lucia paradicsomának egy kis szelete, amely zavartalan úszással és pihentető napozással jutalmazza a látogatókat. A nyugodt hangulat miatt kifejezetten ajánlott egy magányos tengerparti sétához. A kora reggeli látogatás megtervezése abszolút nyugalmat biztosít.", "category": "recreational", "coords": [-60.973019, 14.065401]}, {"name": "Marisule Beach", "text": "A Choc Commercial területén megbúvó Marisule Beach egy festői homoksáv Saint Lucia látványos partján. A nyugodt környezet mágnesként vonzza azokat, akik tömeg nélkül szeretnének úszni vagy kényelmesen heverészni. A partvonal gyalogos felfedezése remek lehetőséget ad a karibi szellő élvezetére. Pompás menedékhely egy napsütéses délutánon.", "category": "recreational", "coords": [-60.972336, 14.047411]}], "ro": [{"name": "Vigie Beach", "text": "Faimoasă pentru că se întinde de-a lungul aeroportului local din Choc Commercial, Vigie Beach este o coastă nisipoasă distinctivă din Sfânta Lucia. Iubitorii de plajă pot echilibra fără efort observarea avioanelor cu oportunități excelente de înot și de a face plajă. Nisipul extins o face foarte atractivă pentru plimbări lungi, desculț. Aducerea unui prosop și a câtorva gustări garantează o zi grozavă în aer liber.", "category": "recreational", "coords": [-60.988251, 14.024862]}, {"name": "Choc Beach", "text": "Servind ca o destinație frumoasă pe litoral în Choc Commercial, Choc Beach evidențiază alura tropicală a Sfintei Lucia. Apele sale liniștite invită vizitatorii la o baie, în timp ce țărmul nisipos este perfect pentru a prinde câteva raze de soare. Frumusețea peisajului creează un cadru de inspirație pentru o plimbare la amurg. Este un loc genial de vizitat pe tot parcursul anului pentru relaxare pe coastă.", "category": "recreational", "coords": [-60.975235, 14.033723]}, {"name": "Francois Beach", "text": "Francois Beach reprezintă o evadare nisipoasă încântătoare chiar în zona Choc Commercial. Persoanele care călătoresc în Sfânta Lucia vor găsi acest loc excelent pentru o baie pe îndelete sau pentru o după-amiază de lectură la soare. O plimbare pe lângă valurile care se sparg ușor aici este extraordinar de pașnică. Sosirea cu o carte bună și o pălărie de soare asigură o vizită perfectă.", "category": "recreational", "coords": [-60.966285, 14.066045]}, {"name": "Trouya Beach", "text": "Trouya Beach este cunoscută pentru mediul său liniștit de plajă, cuibărit în Choc Commercial. Este o mică felie din paradisul din Sfânta Lucia care răsplătește vizitatorii cu înot netulburat și plajă relaxantă. Ambianta calmă o face foarte recomandată pentru o plimbare solitară pe plajă. Planificarea unei vizite la primele ore ale dimineții asigură o liniște absolută.", "category": "recreational", "coords": [-60.973019, 14.065401]}, {"name": "Marisule Beach", "text": "Ascunsă în Choc Commercial, Marisule Beach este o întindere pitorească de nisip pe coasta spectaculoasă a Sfintei Lucia. Mediul senin acționează ca un magnet pentru cei care doresc să înoate fără aglomerație sau să se relaxeze confortabil. Explorarea țărmului pe jos oferă o bună apreciere pentru briza caraibiană. Este o evadare splendidă într-o după-amiază însorită.", "category": "recreational", "coords": [-60.972336, 14.047411]}], "en": [{"name": "Vigie Beach", "text": "Famous for running alongside the local airport in Choc Commercial, Vigie Beach is a distinctive sandy coastline in Saint Lucia. Beachgoers can effortlessly balance airplane spotting with excellent swimming and sunbathing opportunities. The expansive sand makes it highly attractive for long, barefoot walks. Bringing along a towel and some snacks guarantees a great day out.", "category": "recreational", "coords": [-60.988251, 14.024862]}, {"name": "Choc Beach", "text": "Serving as a beautiful seaside destination in Choc Commercial, Choc Beach highlights the tropical allure of Saint Lucia. Its tranquil waters invite visitors for a swim, while the sandy shore is perfect for catching some rays. The scenic beauty creates an inspiring setting for a twilight walk. It is a brilliant spot to visit year-round for coastal relaxation.", "category": "recreational", "coords": [-60.975235, 14.033723]}, {"name": "Francois Beach", "text": "Francois Beach represents a delightful sandy getaway right in the area of Choc Commercial. People traveling to Saint Lucia will find this spot excellent for a leisurely swim or an afternoon of reading in the sun. Walking by the gently lapping waves here is immensely peaceful. Arriving with a good book and a sun hat makes for a perfect visit.", "category": "recreational", "coords": [-60.966285, 14.066045]}, {"name": "Trouya Beach", "text": "Trouya Beach is known for its quiet beach environment nestled within Choc Commercial. It is a small slice of Saint Lucian paradise that rewards visitors with undisturbed swimming and relaxing sunbathing. The calm ambiance makes it highly recommended for a solitary beach walk. Planning a visit during the early morning ensures absolute tranquility.", "category": "recreational", "coords": [-60.973019, 14.065401]}, {"name": "Marisule Beach", "text": "Tucked in Choc Commercial, Marisule Beach is a quaint stretch of sand on Saint Lucia's spectacular coast. The serene environment acts as a magnet for those wanting to swim without the crowds or lounge comfortably. Exploring the shoreline on foot gives a fine appreciation for the Caribbean breeze. It is a splendid getaway on a sunny afternoon.", "category": "recreational", "coords": [-60.972336, 14.047411]}]},
+    id: "saintlucia-choc-commercial-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trouya Beach",
+                  "text": "Trouya Beach ist bekannt für seine ruhige Strandumgebung, eingebettet in Choc Commercial. Es ist ein kleines Stück vom Paradies auf St. Lucia, das Besucher mit ungestörtem Schwimmen und entspanntem Sonnenbaden belohnt. Die ruhige Atmosphäre macht ihn sehr empfehlenswert für einen einsamen Strandspaziergang. Wer einen Besuch am frühen Morgen plant, kann sich absoluter Stille sicher sein.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Versteckt in Choc Commercial ist Marisule Beach ein idyllischer Sandstrand an der spektakulären Küste von St. Lucia. Die ruhige Umgebung wirkt wie ein Magnet auf alle, die ohne Menschenmassen schwimmen oder bequem faulenzen möchten. Wenn man die Küste zu Fuß erkundet, bekommt man ein gutes Gefühl für die karibische Brise. Es ist ein herrlicher Zufluchtsort an einem sonnigen Nachmittag.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trouya Beach",
+                  "text": "A Trouya Beach a Choc Commercial területén megbúvó csendes tengerparti környezetéről ismert. Ez Saint Lucia paradicsomának egy kis szelete, amely zavartalan úszással és pihentető napozással jutalmazza a látogatókat. A nyugodt hangulat miatt kifejezetten ajánlott egy magányos tengerparti sétához. A kora reggeli látogatás megtervezése abszolút nyugalmat biztosít.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "A Choc Commercial területén megbúvó Marisule Beach egy festői homoksáv Saint Lucia látványos partján. A nyugodt környezet mágnesként vonzza azokat, akik tömeg nélkül szeretnének úszni vagy kényelmesen heverészni. A partvonal gyalogos felfedezése remek lehetőséget ad a karibi szellő élvezetére. Pompás menedékhely egy napsütéses délutánon.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trouya Beach",
+                  "text": "Trouya Beach este cunoscută pentru mediul său liniștit de plajă, cuibărit în Choc Commercial. Este o mică felie din paradisul din Sfânta Lucia care răsplătește vizitatorii cu înot netulburat și plajă relaxantă. Ambianta calmă o face foarte recomandată pentru o plimbare solitară pe plajă. Planificarea unei vizite la primele ore ale dimineții asigură o liniște absolută.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Ascunsă în Choc Commercial, Marisule Beach este o întindere pitorească de nisip pe coasta spectaculoasă a Sfintei Lucia. Mediul senin acționează ca un magnet pentru cei care doresc să înoate fără aglomerație sau să se relaxeze confortabil. Explorarea țărmului pe jos oferă o bună apreciere pentru briza caraibiană. Este o evadare splendidă într-o după-amiază însorită.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trouya Beach",
+                  "text": "Trouya Beach is known for its quiet beach environment nestled within Choc Commercial. It is a small slice of Saint Lucian paradise that rewards visitors with undisturbed swimming and relaxing sunbathing. The calm ambiance makes it highly recommended for a solitary beach walk. Planning a visit during the early morning ensures absolute tranquility.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.973019,
+                        14.065401
+                  ]
+            },
+            {
+                  "name": "Marisule Beach",
+                  "text": "Tucked in Choc Commercial, Marisule Beach is a quaint stretch of sand on Saint Lucia's spectacular coast. The serene environment acts as a magnet for those wanting to swim without the crowds or lounge comfortably. Exploring the shoreline on foot gives a fine appreciation for the Caribbean breeze. It is a splendid getaway on a sunny afternoon.",
+                  "category": "recreational",
+                  "coords": [
+                        -60.972336,
+                        14.047411
+                  ]
+            }
+      ]
+},
     parent: "LC",
     type: "city",
     name: { de: "Choc Commercial", hu: "Choc Commercial", ro: "Choc Commercial", en: "Choc Commercial" },
@@ -12010,24 +5567,6 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.981244,
                         13.736239
                   ]
-            },
-            {
-                  "name": "Mankote Beach",
-                  "text": "Mankote Beach befindet sich im Bezirk Augier South und ist ein verstecktes Juwel an der tropischen Küste von St. Lucia. Er empfängt Gäste mit Möglichkeiten für erfrischendes Schwimmen und ruhige Momente auf dem warmen Boden. Die rhythmischen Klänge der Brandung machen Strandspaziergänge hier besonders entspannend. Es bleibt ein schönes und abgeschiedenes Reiseziel, das man am besten früh am Tag besucht.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.935588,
-                        13.74477
-                  ]
-            },
-            {
-                  "name": "Independence Square Monument",
-                  "text": "Steinobelisk auf dem Unabhängigkeitsplatz in Augier South, der an die Unabhängigkeit St. Lucias erinnert.",
-                  "category": "historical",
-                  "coords": [
-                        -60.953327,
-                        13.729686
-                  ]
             }
       ],
       "hu": [
@@ -12038,24 +5577,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.981244,
                         13.736239
-                  ]
-            },
-            {
-                  "name": "Mankote Beach",
-                  "text": "Az Augier South kerületben található Mankote Beach egy rejtett gyöngyszem Saint Lucia trópusi partján. Frissítő úszási lehetőségekkel és a meleg földön fekvő csendes pillanatokkal várja a vendégeket. A hullámverés ritmikus hangjai különösen pihentetővé teszik az itteni tengerparti sétákat. Továbbra is egy gyönyörű és eldugott célpont, amelyet érdemes korán a nap folyamán felkeresni.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.935588,
-                        13.74477
-                  ]
-            },
-            {
-                  "name": "Independence Square Monument",
-                  "text": "Kő obeliszk a függetlenségi téren Augier Southban, St. Lucia függetlenségére emlékeztetve.",
-                  "category": "historical",
-                  "coords": [
-                        -60.953327,
-                        13.729686
                   ]
             }
       ],
@@ -12068,24 +5589,6 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.981244,
                         13.736239
                   ]
-            },
-            {
-                  "name": "Mankote Beach",
-                  "text": "Găsită în districtul Augier South, Mankote Beach este o bijuterie ascunsă de-a lungul țărmului tropical din Sfânta Lucia. Își întâmpină oaspeții cu oportunități de înot răcoritor și momente de liniște pe pământul cald. Sunetele ritmice ale valurilor fac ca plimbările pe litoral să fie deosebit de relaxante aici. Rămâne o destinație frumoasă și retrasă, ideală de vizitat devreme în timpul zilei.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.935588,
-                        13.74477
-                  ]
-            },
-            {
-                  "name": "Independence Square Monument",
-                  "text": "Obelisc de piatră în Piața Independenței din Augier South, care comemorează independența Sfintei Lucia.",
-                  "category": "historical",
-                  "coords": [
-                        -60.953327,
-                        13.729686
-                  ]
             }
       ],
       "en": [
@@ -12096,24 +5599,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.981244,
                         13.736239
-                  ]
-            },
-            {
-                  "name": "Mankote Beach",
-                  "text": "Found in the district of Augier South, Mankote Beach is a hidden gem along Saint Lucia's tropical shore. It welcomes guests with opportunities for refreshing swims and quite moments lying on the warm earth. The rhythmic sounds of the surf make seaside strolls especially relaxing here. It remains a beautiful and secluded destination to visit early in the day.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.935588,
-                        13.74477
-                  ]
-            },
-            {
-                  "name": "Independence Square Monument",
-                  "text": "Stone obelisk on Independence Square in Augier South, commemorating St. Lucia's independence.",
-                  "category": "historical",
-                  "coords": [
-                        -60.953327,
-                        13.729686
                   ]
             }
       ]
@@ -12210,60 +5695,6 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-soufriere-hills-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Soufrière Beach",
-                  "text": "Eingerahmt von den majestätischen Soufrière Hills ist Soufrière Beach ein äußerst malerisches Küstenziel auf St. Lucia. Besucher bewundern normalerweise die Landschaft, während sie im tiefblauen karibischen Meer schwimmen oder die Sonne genießen. Der dramatische Hintergrund sorgt dafür, dass jeder Spaziergang am Wasser atemberaubend ist. Die Ausblicke auf den Sonnenuntergang sind hier wirklich spektakulär und sollten nicht verpasst werden.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.062251,
-                        13.857694
-                  ]
-            },
-            {
-                  "name": "Malgretoute Beach",
-                  "text": "Im Schatten der Soufrière Hills ruht Malgretoute Beach, eine malerische, sandige Oase auf St. Lucia. Wer sich hierher wagt, kann in das einladende Wasser eintauchen oder ein sonniges Plätzchen im Sand finden, um sich vollkommen zu entspannen. Diesen ruhigen Küstenstreifen zu Fuß zu erkunden, ist ein absolutes Vergnügen. Die eigene Schnorchelausrüstung mitzubringen, kann dem Aufenthalt einen Hauch von Abenteuer verleihen.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.063415,
-                        13.842697
-                  ]
-            },
-            {
-                  "name": "Diamond Botanical Garden",
-                  "text": "Botanischer Garten mit Diamantwasserfall in Soufriere Hills.",
-                  "category": "park",
-                  "coords": [
-                        -61.049196,
-                        13.852832
-                  ]
-            },
-            {
-                  "name": "Sulphur Springs",
-                  "text": "Sulphur Springs ist berühmt als der weltweit einzige Drive-in-Vulkan in den Soufrière Hills.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.04647,
-                        13.838658
-                  ]
-            },
-            {
-                  "name": "Soufriere",
-                  "text": "Der Vulkan Soufriere mit sprudelnden Schlammtümpeln und Schwefelquellen in den Soufriere Hills.",
-                  "category": "natural",
-                  "coords": [
-                        -61.061215,
-                        13.84841
-                  ]
-            },
-            {
-                  "name": "Soufriere Coconut Factory",
-                  "text": "Die Soufriere Coconut Factory bietet historische Ruinen in den Soufrière Hills.",
-                  "category": "historical",
-                  "coords": [
-                        -61.05586,
-                        13.858217
-                  ]
-            },
-            {
                   "name": "Toraille Atv Park and Trail",
                   "text": "Geländewagen- und Trails-Park in Soufriere Hills mit geführten Offroad-Touren.",
                   "category": "landmark",
@@ -12280,99 +5711,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -61.050601,
                         13.865525
                   ]
-            },
-            {
-                  "name": "Big Nature",
-                  "text": "Big Nature bietet weitreichende malerische Ausblicke über die Soufrière Hills.",
-                  "category": "natural",
-                  "coords": [
-                        -61.048865,
-                        13.834851
-                  ]
-            },
-            {
-                  "name": "Project Chocolate",
-                  "text": "Farm-to-Bar-Schokoladenerlebnis mit Kakaoplantagenbesichtigung in Soufriere Hills.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.047526,
-                        13.833759
-                  ]
-            },
-            {
-                  "name": "UNESCO World Heritage",
-                  "text": "Die UNESCO World Heritage Plaque dient als Aussichtspunkt in den Soufrière Hills.",
-                  "category": "natural",
-                  "coords": [
-                        -61.06011,
-                        13.845803
-                  ]
-            },
-            {
-                  "name": "Morne Coubaril Historical Adventure Park",
-                  "text": "Historischer Abenteuerpark mit restauriertem Plantagendorf und Seilrutsche in Soufriere Hills.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.056706,
-                        13.847204
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Soufrière Beach",
-                  "text": "A fenséges Soufrière Hills által közrefogott Soufrière Beach egy rendkívül festői tengerparti célpont Saint Lucia szigetén. A látogatók általában a tájban gyönyörködnek, miközben a mélykék karibi tengerben úsznak vagy a napon sütkéreznek. A drámai háttér gondoskodik arról, hogy minden vízparti séta lélegzetelállító legyen. A naplemente látványa itt igazán látványos és kihagyhatatlan.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.062251,
-                        13.857694
-                  ]
-            },
-            {
-                  "name": "Malgretoute Beach",
-                  "text": "A Soufrière Hills árnyékában pihenő Malgretoute Beach egy festői, homokos menedék Saint Lucia szigetén. Az ide merészkedők megmártózhatnak a hívogató vízben, vagy találhatnak egy napos foltot a homokban a teljes kikapcsolódáshoz. E nyugodt part menti sáv gyalogos felfedezése igazi gyönyörűség. A saját búvárfelszerelés magunkkal hozatala egy csipetnyi kalandot adhat a tartózkodáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.063415,
-                        13.842697
-                  ]
-            },
-            {
-                  "name": "Diamond Botanical Garden",
-                  "text": "Botanikus kert a Diamant-vízeséssel Soufriere Hillsben.",
-                  "category": "park",
-                  "coords": [
-                        -61.049196,
-                        13.852832
-                  ]
-            },
-            {
-                  "name": "Sulphur Springs",
-                  "text": "A Sulphur Springs arról híres, hogy ez a világ egyetlen autós vulkánja a Soufrière Hills térségében.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.04647,
-                        13.838658
-                  ]
-            },
-            {
-                  "name": "Soufriere",
-                  "text": "A Soufriere vulkán bugyogó iszapmedencékkel és kénforrásokkal a Soufriere Hillsben.",
-                  "category": "natural",
-                  "coords": [
-                        -61.061215,
-                        13.84841
-                  ]
-            },
-            {
-                  "name": "Soufriere Coconut Factory",
-                  "text": "A Soufriere Coconut Factory történelmi romokat mutat be a Soufrière Hills térségében.",
-                  "category": "historical",
-                  "coords": [
-                        -61.05586,
-                        13.858217
-                  ]
-            },
             {
                   "name": "Toraille Atv Park and Trail",
                   "text": "ATV park és ösvények Soufriere Hillsben, vezetett tereptúrákkal.",
@@ -12390,99 +5731,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -61.050601,
                         13.865525
                   ]
-            },
-            {
-                  "name": "Big Nature",
-                  "text": "A Big Nature kiterjedt, festői kilátást nyújt a Soufrière Hills területére.",
-                  "category": "natural",
-                  "coords": [
-                        -61.048865,
-                        13.834851
-                  ]
-            },
-            {
-                  "name": "Project Chocolate",
-                  "text": "Farm-to-bar csokoládé élmény kakaóültetvény-látogatással Soufriere Hillsben.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.047526,
-                        13.833759
-                  ]
-            },
-            {
-                  "name": "UNESCO World Heritage",
-                  "text": "Az UNESCO világörökségi emléktábla kilátóként szolgál a Soufrière Hills térségében.",
-                  "category": "natural",
-                  "coords": [
-                        -61.06011,
-                        13.845803
-                  ]
-            },
-            {
-                  "name": "Morne Coubaril Historical Adventure Park",
-                  "text": "Történelmi kalandpark helyreállított ültetvényfalvakkal és zip-line pályával Soufriere Hillsben.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.056706,
-                        13.847204
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Soufrière Beach",
-                  "text": "Încadrată de maiestuoasele Soufrière Hills, Soufrière Beach este o destinație de coastă extrem de pitorească în Sfânta Lucia. Vizitatorii se minunează de obicei de peisaj în timp ce înoată în marea Caraibilor de un albastru intens sau se bucură de soare. Fundalul dramatic asigură că orice plimbare pe malul apei este uluitoare. Priveliștile la apus de aici sunt cu adevărat spectaculoase și nu trebuie ratate.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.062251,
-                        13.857694
-                  ]
-            },
-            {
-                  "name": "Malgretoute Beach",
-                  "text": "Odihnindu-se în umbra dealurilor Soufrière Hills, Malgretoute Beach este un refugiu nisipos și pitoresc din Sfânta Lucia. Cei care se aventurează aici se pot scufunda în apele primitoare sau pot găsi o zonă însorită pe nisip pentru a se relaxa complet. Explorarea pe jos a acestei fâșii de coastă senine este o încântare absolută. Aducerea propriului echipament de snorkeling poate adăuga o notă de aventură șederii dumneavoastră.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.063415,
-                        13.842697
-                  ]
-            },
-            {
-                  "name": "Diamond Botanical Garden",
-                  "text": "Grădină botanică cu Cascadele Diamond în Soufriere Hills.",
-                  "category": "park",
-                  "coords": [
-                        -61.049196,
-                        13.852832
-                  ]
-            },
-            {
-                  "name": "Sulphur Springs",
-                  "text": "Sulphur Springs este faimos ca fiind singurul vulcan cu acces auto din lume, în Soufrière Hills.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.04647,
-                        13.838658
-                  ]
-            },
-            {
-                  "name": "Soufriere",
-                  "text": "Vulcanul Soufriere cu bălți de noroi clocotitoare și izvoare sulfuroase în Soufriere Hills.",
-                  "category": "natural",
-                  "coords": [
-                        -61.061215,
-                        13.84841
-                  ]
-            },
-            {
-                  "name": "Soufriere Coconut Factory",
-                  "text": "Soufriere Coconut Factory prezintă ruine istorice în Soufrière Hills.",
-                  "category": "historical",
-                  "coords": [
-                        -61.05586,
-                        13.858217
-                  ]
-            },
             {
                   "name": "Toraille Atv Park and Trail",
                   "text": "Parcul ATV și traseele Toraille din Soufriere Hills, cu tururi ghidate off-road.",
@@ -12500,99 +5751,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -61.050601,
                         13.865525
                   ]
-            },
-            {
-                  "name": "Big Nature",
-                  "text": "Big Nature oferă vederi pitorești ample asupra Soufrière Hills.",
-                  "category": "natural",
-                  "coords": [
-                        -61.048865,
-                        13.834851
-                  ]
-            },
-            {
-                  "name": "Project Chocolate",
-                  "text": "Experiență de ciocolată „de la fermă la bar” cu tur al plantațiilor de cacao în Soufriere Hills.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.047526,
-                        13.833759
-                  ]
-            },
-            {
-                  "name": "UNESCO World Heritage",
-                  "text": "Placa Patrimoniului Mondial UNESCO servește ca punct de belvedere în Soufrière Hills.",
-                  "category": "natural",
-                  "coords": [
-                        -61.06011,
-                        13.845803
-                  ]
-            },
-            {
-                  "name": "Morne Coubaril Historical Adventure Park",
-                  "text": "Parcul de aventură istoric Morne Coubaril cu un sat de plantație restaurat și tiroliană în Soufriere Hills.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.056706,
-                        13.847204
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Soufrière Beach",
-                  "text": "Framed by the majestic Soufrière Hills, Soufrière Beach is a highly picturesque coastal destination in Saint Lucia. Visitors typically marvel at the landscape while swimming in the deep blue Caribbean sea or soaking up the sun. The dramatic background ensures that any stroll along the water is breathtaking. Sunset views here are truly spectacular and not to be missed.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.062251,
-                        13.857694
-                  ]
-            },
-            {
-                  "name": "Malgretoute Beach",
-                  "text": "Resting in the shadow of the Soufrière Hills, Malgretoute Beach is a scenic, sandy haven in Saint Lucia. Those venturing here can plunge into the inviting waters or find a sunny patch on the sand to relax completely. Exploring this serene coastal strip on foot is an absolute delight. Bringing your own snorkeling gear can add a touch of adventure to your stay.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.063415,
-                        13.842697
-                  ]
-            },
-            {
-                  "name": "Diamond Botanical Garden",
-                  "text": "Botanical garden featuring the Diamond Waterfall in Soufriere Hills.",
-                  "category": "park",
-                  "coords": [
-                        -61.049196,
-                        13.852832
-                  ]
-            },
-            {
-                  "name": "Sulphur Springs",
-                  "text": "Sulphur Springs is famous for being the world's only drive-in volcano, located in Soufrière Hills.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.04647,
-                        13.838658
-                  ]
-            },
-            {
-                  "name": "Soufriere",
-                  "text": "The Soufriere volcano with bubbling mud pools and sulfur springs in the Soufriere Hills.",
-                  "category": "natural",
-                  "coords": [
-                        -61.061215,
-                        13.84841
-                  ]
-            },
-            {
-                  "name": "Soufriere Coconut Factory",
-                  "text": "The Soufriere Coconut Factory features historic ruins in Soufrière Hills.",
-                  "category": "historical",
-                  "coords": [
-                        -61.05586,
-                        13.858217
-                  ]
-            },
             {
                   "name": "Toraille Atv Park and Trail",
                   "text": "Toraille ATV Park and Trail in Soufriere Hills, offering guided off-road tours.",
@@ -12609,42 +5770,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -61.050601,
                         13.865525
-                  ]
-            },
-            {
-                  "name": "Big Nature",
-                  "text": "Big Nature offers expansive scenic views over Soufrière Hills.",
-                  "category": "natural",
-                  "coords": [
-                        -61.048865,
-                        13.834851
-                  ]
-            },
-            {
-                  "name": "Project Chocolate",
-                  "text": "Farm-to-bar chocolate experience with cocoa plantation tours in Soufriere Hills.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.047526,
-                        13.833759
-                  ]
-            },
-            {
-                  "name": "UNESCO World Heritage Plaque",
-                  "text": "The UNESCO World Heritage Plaque serves as a viewpoint in Soufrière Hills.",
-                  "category": "natural",
-                  "coords": [
-                        -61.06011,
-                        13.845803
-                  ]
-            },
-            {
-                  "name": "Morne Coubaril Historical Adventure Park",
-                  "text": "Morne Coubaril Historical Adventure Park featuring a restored plantation village and zip-line canopy tours.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.056706,
-                        13.847204
                   ]
             }
       ]
@@ -12694,302 +5819,10 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-anse-la-raye-inland-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Roseau Beach",
-                  "text": "Roseau Beach ist über Anse La Raye Inland erreichbar und ein friedliches tropisches Versteck auf St. Lucia. Er bietet eine unbeschwerte Umgebung für alle, die ohne Unterbrechung schwimmen oder sich sonnen möchten. Ein sanfter Spaziergang neben den Meereswellen ist eine großartige Möglichkeit, den lokalen Küstencharme in sich aufzunehmen. Ein Besuch unter der Woche bedeutet oft, dass man den Sand fast ganz für sich allein hat.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.034509,
-                        13.958362
-                  ]
-            },
-            {
-                  "name": "Tolonge Beach",
-                  "text": "In der Nähe von Anse La Raye Inland gelegen, zeigt Tolonge Beach den Gästen die ruhigere Seite der Küste von St. Lucia. Man kann die karibische Wärme genießen, indem man am Strand in der Sonne badet oder im erfrischenden Wasser planscht. Ein Spaziergang hier verbindet Besucher direkt mit der rauen Schönheit der Insel. Es ist ein fantastischer Ort, um einfach nur zu sitzen und den Horizont zu beobachten.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.044721,
-                        13.944407
-                  ]
-            },
-            {
-                  "name": "Viewing Point",
-                  "text": "Aussichtspunkt in Anse La Raye Inland mit Panoramablick auf die karibische Küste.",
-                  "category": "natural",
-                  "coords": [
-                        -61.043808,
-                        13.942563
-                  ]
-            },
-            {
-                  "name": "Horizon",
-                  "text": "Aussichtspunkt 'Horizon' in Anse La Raye Inland mit weitem Blick über die Karibik.",
-                  "category": "natural",
-                  "coords": [
-                        -61.045695,
-                        13.916994
-                  ]
-            },
-            {
-                  "name": "The Melting Pot",
-                  "text": "Museum in Anse La Raye Inland, das die kulturelle Vielfalt St. Lucias zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -61.043986,
-                        13.937796
-                  ]
-            },
-            {
-                  "name": "St. Lucia Bamboo Rafting",
-                  "text": "Bambusfloßfahrten auf dem Anse La Raye River, geführt von einheimischen Bootsführern.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.026548,
-                        13.955839
-                  ]
-            },
-            {
-                  "name": "Paula's Place",
-                  "text": "Paula's Place, eine Pension mit Garten und Meerblick in Anse La Raye Inland.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.045667,
-                        13.935463
-                  ]
-            },
-            {
-                  "name": "Old Police Station",
-                  "text": "Historisches ehemaliges Polizeirevier aus der Kolonialzeit in Anse La Raye Inland, heute Gemeindezentrum.",
-                  "category": "historical",
-                  "coords": [
-                        -61.043255,
-                        13.940073
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Roseau Beach",
-                  "text": "Az Anse La Raye Inland felől megközelíthető Roseau Beach egy békés trópusi rejtekhely Saint Lucia szigetén. Könnyed környezetet kínál azok számára, akik megszakítás nélkül szeretnének úszni vagy napozni. Az óceán hullámai melletti kellemes séta remek módja annak, hogy magunkba szívjuk a helyi partvidék varázsát. A hétköznapi látogatás gyakran azt jelenti, hogy a homok szinte teljesen a miénk.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.034509,
-                        13.958362
-                  ]
-            },
-            {
-                  "name": "Tolonge Beach",
-                  "text": "Az Anse La Raye Inland közelében található Tolonge Beach Saint Lucia partvonalának csendesebb oldalát mutatja be a vendégeknek. Az emberek élvezhetik a karibi meleget a strandon napozva vagy a frissítő vízben csobbanva. Az itteni séta közvetlenül összekapcsolja a látogatókat a sziget nyers szépségével. Fantasztikus hely arra, hogy egyszerűen csak üljünk és figyeljük a horizontot.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.044721,
-                        13.944407
-                  ]
-            },
-            {
-                  "name": "Viewing Point",
-                  "text": "Kilátóhely Anse La Raye Inlandban, panorámás kilátással a Karib-tenger partjára.",
-                  "category": "natural",
-                  "coords": [
-                        -61.043808,
-                        13.942563
-                  ]
-            },
-            {
-                  "name": "Horizon",
-                  "text": "„Horizon” kilátó Anse La Raye Inlandban, messzire nyúló kilátással a Karib-tengerre.",
-                  "category": "natural",
-                  "coords": [
-                        -61.045695,
-                        13.916994
-                  ]
-            },
-            {
-                  "name": "The Melting Pot",
-                  "text": "Múzeum Anse La Raye Inlandban, amely bemutatja St. Lucia kulturális sokszínűségét.",
-                  "category": "museum",
-                  "coords": [
-                        -61.043986,
-                        13.937796
-                  ]
-            },
-            {
-                  "name": "St. Lucia Bamboo Rafting",
-                  "text": "Bambusz tutajozás az Anse La Raye folyón, helyi hajósok vezetésével.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.026548,
-                        13.955839
-                  ]
-            },
-            {
-                  "name": "Paula's Place",
-                  "text": "Paula's Place panzió kerttel és tengerre néző kilátással Anse La Raye Inlandban.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.045667,
-                        13.935463
-                  ]
-            },
-            {
-                  "name": "Old Police Station",
-                  "text": "Történelmi egykori rendőrőrs a gyarmati időkből Anse La Raye Inlandban, ma közösségi központ.",
-                  "category": "historical",
-                  "coords": [
-                        -61.043255,
-                        13.940073
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Roseau Beach",
-                  "text": "Accesibilă prin Anse La Raye Inland, Roseau Beach este o ascunzătoare tropicală liniștită în Sfânta Lucia. Oferă un mediu relaxat pentru cei care doresc să înoate sau să facă plajă fără întrerupere. O plimbare blândă pe lângă valurile oceanului este o modalitate excelentă de a admira farmecul local al coastei. Vizitarea în timpul săptămânii înseamnă adesea să aveți nisipul aproape în întregime pentru voi.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.034509,
-                        13.958362
-                  ]
-            },
-            {
-                  "name": "Tolonge Beach",
-                  "text": "Situată în apropiere de Anse La Raye Inland, Tolonge Beach prezintă oaspeților partea mai liniștită a țărmului Sfintei Lucia. Oamenii se pot bucura de căldura caraibiană făcând plajă pe plajă sau stropindu-se în apa răcoritoare. O plimbare aici conectează vizitatorii direct cu frumusețea brută a insulei. Este un loc fantastic pentru a sta pur și simplu și a privi orizontul.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.044721,
-                        13.944407
-                  ]
-            },
-            {
-                  "name": "Viewing Point",
-                  "text": "Punct de belvedere în Anse La Raye Inland, cu vederi panoramice asupra coastei caraibiene.",
-                  "category": "natural",
-                  "coords": [
-                        -61.043808,
-                        13.942563
-                  ]
-            },
-            {
-                  "name": "Horizon",
-                  "text": "Punctul de belvedere „Horizon” în Anse La Raye Inland, cu vederi întinse asupra Mării Caraibelor.",
-                  "category": "natural",
-                  "coords": [
-                        -61.045695,
-                        13.916994
-                  ]
-            },
-            {
-                  "name": "The Melting Pot",
-                  "text": "Muzeul „The Melting Pot” în Anse La Raye Inland, care ilustrează diversitatea culturală a Sfintei Lucia.",
-                  "category": "museum",
-                  "coords": [
-                        -61.043986,
-                        13.937796
-                  ]
-            },
-            {
-                  "name": "St. Lucia Bamboo Rafting",
-                  "text": "Plutărit cu bambus pe râul Anse La Raye, ghidat de barcașii locali.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.026548,
-                        13.955839
-                  ]
-            },
-            {
-                  "name": "Paula's Place",
-                  "text": "Paula's Place, o pensiune cu grădină și vedere la mare în Anse La Raye Inland.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.045667,
-                        13.935463
-                  ]
-            },
-            {
-                  "name": "Old Police Station",
-                  "text": "Fosta secție de poliție istorică din perioada colonială în Anse La Raye Inland, acum centru comunitar.",
-                  "category": "historical",
-                  "coords": [
-                        -61.043255,
-                        13.940073
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Roseau Beach",
-                  "text": "Accessible via Anse La Raye Inland, Roseau Beach is a peaceful tropical hideaway in Saint Lucia. It offers an easygoing environment for those wanting to swim or sunbathe without interruption. A gentle stroll beside the ocean waves is a great way to take in the local coastal charm. Visiting during the week often means having the sand almost entirely to yourself.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.034509,
-                        13.958362
-                  ]
-            },
-            {
-                  "name": "Tolonge Beach",
-                  "text": "Located near Anse La Raye Inland, Tolonge Beach introduces guests to the quieter side of Saint Lucia's shoreline. People can enjoy the Caribbean warmth by sunbathing on the beach or splashing in the refreshing water. Taking a walk here connects visitors directly with the raw beauty of the island. It is a fantastic spot to simply sit and watch the horizon.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.044721,
-                        13.944407
-                  ]
-            },
-            {
-                  "name": "Viewing Point",
-                  "text": "Scenic viewing point in Anse La Raye Inland, offering panoramic views of the Caribbean coast.",
-                  "category": "natural",
-                  "coords": [
-                        -61.043808,
-                        13.942563
-                  ]
-            },
-            {
-                  "name": "Horizon",
-                  "text": "‘Horizon’ viewpoint in Anse La Raye Inland, with sweeping views over the Caribbean Sea.",
-                  "category": "natural",
-                  "coords": [
-                        -61.045695,
-                        13.916994
-                  ]
-            },
-            {
-                  "name": "The Melting Pot",
-                  "text": "‘The Melting Pot’ museum in Anse La Raye Inland, showcasing the diverse cultural heritage of St. Lucia.",
-                  "category": "museum",
-                  "coords": [
-                        -61.043986,
-                        13.937796
-                  ]
-            },
-            {
-                  "name": "St. Lucia Bamboo Rafting",
-                  "text": "Bamboo rafting tours along the Anse La Raye river, guided by local boatmen.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.026548,
-                        13.955839
-                  ]
-            },
-            {
-                  "name": "Paula's Place",
-                  "text": "Paula's Place, a guesthouse with garden and sea views in Anse La Raye Inland.",
-                  "category": "landmark",
-                  "coords": [
-                        -61.045667,
-                        13.935463
-                  ]
-            },
-            {
-                  "name": "Old Police Station",
-                  "text": "Historic former police station from colonial times in Anse La Raye Inland, now a community center.",
-                  "category": "historical",
-                  "coords": [
-                        -61.043255,
-                        13.940073
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LC",
     type: "village",
@@ -13200,60 +6033,6 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-choiseul-east-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Choiseul Petroglyph",
-                  "text": "Uralte amerindische Felszeichnungen entlang des Flusses von Choiseul.",
-                  "category": "historical",
-                  "coords": [
-                        -61.05113,
-                        13.776357
-                  ]
-            },
-            {
-                  "name": "Choiseul village public beach",
-                  "text": "Der öffentliche Strand des Dorfes Choiseul dient als gemeinschaftliche Sandküste im Herzen von Choiseul East, St. Lucia. Er fungiert als lebendiger Ort, an dem Einheimische und Touristen gleichermaßen schwimmen oder auf dem Sand Sonne tanken können. Die einladende Dorfatmosphäre bietet eine großartige Umgebung für abendliche Spaziergänge entlang der Küste. Der Kontakt mit der freundlichen Gemeinschaft hier bereichert den Besuch immer.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.050682,
-                        13.775387
-                  ]
-            },
-            {
-                  "name": "River Doree Beach",
-                  "text": "Geprägt von seinem malerischen Sand, verschmilzt der River Doree Beach in Choiseul East die natürlichen Elemente der Insel auf wunderschöne Weise. Besucher können nahtlos vom Sonnenbaden zum Schwimmen im sanften karibischen Wasser übergehen. Ein langsamer Schlendrian am Strand bietet Frieden und eine tiefe Verbundenheit mit der Landschaft. Es wird empfohlen, ausreichend Wasser mitzubringen, um erfrischt zu bleiben.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.037447,
-                        13.759551
-                  ]
-            },
-            {
-                  "name": "Sable Wiche Sha Beach, Choiseul",
-                  "text": "Sable Wiche Sha Beach ist ein einladender Küstenstreifen in Choiseul East auf St. Lucia. Dieser Strand bietet eine reizvolle Kulisse für ein erfrischendes Schwimmen im Ozean und ruhige Stunden beim Sonnenbaden am Ufer. Die sandige Weite zu Fuß zu erkunden, ist eine wunderbare Möglichkeit, die tropischen Aussichten in sich aufzunehmen. Besucher empfinden ihn normalerweise als beruhigendes Ziel für einen Wochenendausflug.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.054851,
-                        13.780025
-                  ]
-            },
-            {
-                  "name": "La Pointe Beach",
-                  "text": "Der La Pointe Beach in Choiseul East unterstreicht den sonnigen Ruf von St. Lucia. Egal, ob man ein erfrischendes Bad sucht oder einfach nur im Sand faulenzen möchte, dieser Ort erfüllt alle Entspannungswünsche. Bei einem Spaziergang können die Gäste den stetigen Rhythmus der Wellen ganz in der Nähe spüren. Wenn man ein leichtes Mittagessen einpackt, verwandelt sich der Besuch in ein herrliches Picknick am Strand.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.063043,
-                        13.786981
-                  ]
-            },
-            {
-                  "name": "Morne Sion Wind Mill",
-                  "text": "Überreste einer historischen Windmühle zur Zuckerrohrverarbeitung auf dem Morne Sion in Choiseul East.",
-                  "category": "historical",
-                  "coords": [
-                        -61.057984,
-                        13.787175
-                  ]
-            },
-            {
                   "name": "Caribbean Imprints",
                   "text": "Kulturzentrum in Choiseul East, das karibische Kunst und Kunsthandwerk präsentiert.",
                   "category": "cultural",
@@ -13273,60 +6052,6 @@ export const saintluciaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Choiseul Petroglyph",
-                  "text": "Ősi amerindiai sziklarajzok a Choiseul folyó mentén.",
-                  "category": "historical",
-                  "coords": [
-                        -61.05113,
-                        13.776357
-                  ]
-            },
-            {
-                  "name": "Choiseul village public beach",
-                  "text": "A Choiseul falu nyilvános strandja közösségi homokos partszakaszként szolgál Choiseul East szívében, Saint Lucia szigetén. Nyüzsgő helyként működik, ahol a helyiek és a turisták egyaránt élvezhetik az úszást vagy a homokos napozást. A hívogató falusi hangulat nagyszerű környezetet biztosít az esti part menti sétákhoz. A barátságos helyi közösséggel való találkozás mindig gazdagítja a látogatást.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.050682,
-                        13.775387
-                  ]
-            },
-            {
-                  "name": "River Doree Beach",
-                  "text": "A festői homokkal jellemezhető Choiseul East-i River Doree Beach gyönyörűen ötvözi a sziget természeti elemeit. A látogatók zökkenőmentesen válthatnak a napozásról a lágy karibi vizekben való úszásra. A tengerparti lassú séta békét és mély kapcsolatot kínál a tájjal. A felfrissülés érdekében ajánlott bőségesen vizet vinni magunkkal.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.037447,
-                        13.759551
-                  ]
-            },
-            {
-                  "name": "Sable Wiche Sha Beach, Choiseul",
-                  "text": "A Sable Wiche Sha Beach egy hívogató part menti sáv Saint Lucia Choiseul East nevű részén. Ez a strand szép környezetet biztosít egy frissítő óceáni úszáshoz és a parton eltöltött nyugodt napozós órákhoz. A homokos kiterjedés gyalogos felfedezése csodálatos módja a trópusi kilátás élvezetének. A látogatók általában megnyugtató célpontnak találják egy hétvégi kiruccanáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.054851,
-                        13.780025
-                  ]
-            },
-            {
-                  "name": "La Pointe Beach",
-                  "text": "A Choiseul East területén otthonra lelő La Pointe Beach öregbíti Saint Lucia napfényes hírnevét. Legyen szó egy frissítő úszásról, vagy egyszerűen csak a homokban való heverészésről, ez a hely minden pihentető vágynak megfelel. Az itteni séta lehetővé teszi a vendégek számára, hogy érezzék a hullámok közeli, egyenletes ritmusát. Egy könnyű ebéd becsomagolása a látogatást kedves tengerparti piknikké varázsolja.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.063043,
-                        13.786981
-                  ]
-            },
-            {
-                  "name": "Morne Sion Wind Mill",
-                  "text": "Történelmi szélmalom maradványai cukornád feldolgozásához a Morne Sionon, Choiseul Eastben.",
-                  "category": "historical",
-                  "coords": [
-                        -61.057984,
-                        13.787175
-                  ]
-            },
             {
                   "name": "Caribbean Imprints",
                   "text": "Kulturális központ Choiseul Eastben, karibi művészetet és kézművességet bemutatva.",
@@ -13348,60 +6073,6 @@ export const saintluciaCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Choiseul Petroglyph",
-                  "text": "Petroglife amerindiene antice sculptate în stâncile de-a lungul râului Choiseul.",
-                  "category": "historical",
-                  "coords": [
-                        -61.05113,
-                        13.776357
-                  ]
-            },
-            {
-                  "name": "Choiseul village public beach",
-                  "text": "Plaja publică a satului Choiseul servește ca țărm comunal nisipos în inima Choiseul East, Sfânta Lucia. Acesta acționează ca un loc plin de viață unde localnicii și turiștii deopotrivă se pot bucura de înot sau pot prinde puțin soare pe nisip. Atmosfera primitoare a satului oferă un mediu excelent pentru plimbările de seară de-a lungul coastei. Interacțiunea cu comunitatea prietenoasă de aici îmbogățește întotdeauna vizita.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.050682,
-                        13.775387
-                  ]
-            },
-            {
-                  "name": "River Doree Beach",
-                  "text": "Caracterizată prin nisipul său pitoresc, River Doree Beach din Choiseul East îmbină frumos elementele naturale ale insulei. Vizitatorii pot trece perfect de la plajă la înot în apele blânde ale Caraibelor. O plimbare lentă de-a lungul plajei oferă liniște și o legătură profundă cu peisajul. Este recomandat să aduceți multă apă pentru a vă menține reîmprospătat.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.037447,
-                        13.759551
-                  ]
-            },
-            {
-                  "name": "Sable Wiche Sha Beach, Choiseul",
-                  "text": "Sable Wiche Sha Beach este o fâșie de coastă primitoare situată în Choiseul East din Sfânta Lucia. Această plajă oferă un cadru minunat pentru o baie revigorantă în ocean și ore liniștite petrecute la plajă pe mal. Explorarea întinderii de nisip pe jos este o modalitate minunată de a admira priveliștile tropicale. Vizitatorii o consideră de obicei o destinație calmantă pentru o escapadă de weekend.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.054851,
-                        13.780025
-                  ]
-            },
-            {
-                  "name": "La Pointe Beach",
-                  "text": "Având casa în Choiseul East, La Pointe Beach sporește reputația însorită a Sfintei Lucia. Indiferent dacă căutați o baie răcoritoare sau pur și simplu doriți să vă relaxați pe nisip, acest loc satisface toate dorințele de relaxare. O plimbare aici permite oaspeților să simtă ritmul constant al valurilor din apropiere. Împachetarea unui prânz ușor transformă vizita într-un picnic minunat pe plajă.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.063043,
-                        13.786981
-                  ]
-            },
-            {
-                  "name": "Morne Sion Wind Mill",
-                  "text": "Rămășițe ale unei mori de vânt istorice pentru prelucrarea trestiei de zahăr pe Morne Sion în Choiseul East.",
-                  "category": "historical",
-                  "coords": [
-                        -61.057984,
-                        13.787175
-                  ]
-            },
-            {
                   "name": "Caribbean Imprints",
                   "text": "Centru cultural în Choiseul East, care prezintă artă și meșteșuguri caraibiene.",
                   "category": "cultural",
@@ -13421,60 +6092,6 @@ export const saintluciaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Choiseul Petroglyph",
-                  "text": "Ancient Amerindian petroglyphs carved into rocks along the Choiseul river.",
-                  "category": "historical",
-                  "coords": [
-                        -61.05113,
-                        13.776357
-                  ]
-            },
-            {
-                  "name": "Choiseul village public beach",
-                  "text": "Choiseul village public beach serves as a communal sandy shoreline in the heart of Choiseul East, Saint Lucia. It acts as a lively spot where locals and tourists alike can enjoy swimming or catching some sun on the sand. The welcoming village atmosphere provides a great environment for evening walks along the coast. Engaging with the friendly community here always enriches the visit.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.050682,
-                        13.775387
-                  ]
-            },
-            {
-                  "name": "River Doree Beach",
-                  "text": "Characterized by its picturesque sand, River Doree Beach in Choiseul East beautifully merges the island's natural elements. Visitors can seamlessly transition from sunbathing to swimming in the gentle Caribbean waters. A slow amble along the beach offers peace and a profound connection to the landscape. It is recommended to bring plenty of water to stay refreshed.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.037447,
-                        13.759551
-                  ]
-            },
-            {
-                  "name": "Sable Wiche Sha Beach, Choiseul",
-                  "text": "Sable Wiche Sha Beach is an inviting coastal strip located in Choiseul East on Saint Lucia. This beach provides a lovely setting for a refreshing ocean swim and tranquil hours spent sunbathing on the shore. Exploring the sandy expanse on foot is a wonderful way to take in the tropical views. Visitors usually find it to be a calming destination for a weekend getaway.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.054851,
-                        13.780025
-                  ]
-            },
-            {
-                  "name": "La Pointe Beach",
-                  "text": "Making its home in Choiseul East, La Pointe Beach enhances the sunny reputation of Saint Lucia. Whether seeking a refreshing swim or simply wishing to lounge on the sand, this spot accommodates all relaxing desires. Walking here allows guests to feel the steady rhythm of the waves close by. Packing a light lunch transforms the visit into a lovely beachside picnic.",
-                  "category": "recreational",
-                  "coords": [
-                        -61.063043,
-                        13.786981
-                  ]
-            },
-            {
-                  "name": "Morne Sion Wind Mill",
-                  "text": "Remains of a historic windmill for sugar processing on Morne Sion in Choiseul East.",
-                  "category": "historical",
-                  "coords": [
-                        -61.057984,
-                        13.787175
-                  ]
-            },
             {
                   "name": "Caribbean Imprints",
                   "text": "Cultural center in Choiseul East showcasing Caribbean art and crafts.",
@@ -13542,15 +6159,6 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-vieux-fort-north-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Moule-à-Chique",
-                  "text": "Südlichster Punkt St. Lucias mit Leuchtturm und Panoramablick aufs Meer bei Vieux Fort.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.941672,
-                        13.711128
-                  ]
-            },
-            {
                   "name": "Mankote Beach",
                   "text": "Dieser entspannte Strand in Vieux Fort North lädt Besucher ein, das karibische Flair von Saint Lucia in Ruhe zu genießen. Mankote Beach eignet sich ideal für gemütliche Spaziergänge am Meer und ein erfrischendes Bad. Ein Besuch am frühen Morgen bietet die beste Gelegenheit, die friedliche Atmosphäre der Küste zu erleben.",
                   "category": "recreational",
@@ -13567,27 +6175,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.931429,
                         13.72605
                   ]
-            },
-            {
-                  "name": "Independence Square Monument",
-                  "text": "Unabhängigkeitsplatz mit Monument in Vieux Fort North, ein zentraler Platz mit Denkmal und Sitzbänken.",
-                  "category": "historical",
-                  "coords": [
-                        -60.953327,
-                        13.729686
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Moule-à-Chique",
-                  "text": "St. Lucia legdélebbi pontja világítótoronnyal és panorámás tengeri kilátással Vieux Fort közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.941672,
-                        13.711128
-                  ]
-            },
             {
                   "name": "Mankote Beach",
                   "text": "Vieux Fort North csendes tengerpartja, a Mankote Beach remek lehetőséget kínál a kikapcsolódásra Saint Lucia varázslatos szigetén. A partvonal ideális egy kellemes sétához vagy egy frissítő fürdőzéshez a hullámok között. Érdemes a reggeli órákban érkezni, hogy maximálisan kiélvezhessük a nyugodt környezetet.",
@@ -13605,27 +6195,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.931429,
                         13.72605
                   ]
-            },
-            {
-                  "name": "Independence Square Monument",
-                  "text": "Függetlenségi tér emlékművel Vieux Fort Northban, központi tér emlékművel és padokkal.",
-                  "category": "historical",
-                  "coords": [
-                        -60.953327,
-                        13.729686
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Moule-à-Chique",
-                  "text": "Cel mai sudic punct al Sfintei Lucia, cu far și vederi panoramice ale oceanului lângă Vieux Fort.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.941672,
-                        13.711128
-                  ]
-            },
             {
                   "name": "Mankote Beach",
                   "text": "Această plajă relaxantă din Vieux Fort North invită vizitatorii să se bucure de atmosfera caraibiană din Sfânta Lucia în liniște. Mankote Beach este locul ideal pentru plimbări liniștite pe malul mării și o baie revigorantă. O vizită dimineața devreme oferă cea mai bună ocazie de a experimenta atmosfera pașnică a coastei.",
@@ -13643,27 +6215,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.931429,
                         13.72605
                   ]
-            },
-            {
-                  "name": "Independence Square Monument",
-                  "text": "Piața Independenței cu monument în Vieux Fort North, o piață centrală cu monument și bănci.",
-                  "category": "historical",
-                  "coords": [
-                        -60.953327,
-                        13.729686
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Moule-à-Chique",
-                  "text": "Southernmost point of St. Lucia, with a lighthouse and panoramic ocean views near Vieux Fort.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.941672,
-                        13.711128
-                  ]
-            },
             {
                   "name": "Mankote Beach",
                   "text": "Set in Vieux Fort North, this laid-back beach invites visitors to quietly take in the Caribbean charm of Saint Lucia. Mankote Beach is an ideal spot for leisurely seaside strolls and a refreshing swim. An early morning visit offers the best chance to experience the peaceful coastal atmosphere before the day warms up.",
@@ -13680,15 +6234,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.931429,
                         13.72605
-                  ]
-            },
-            {
-                  "name": "Independence Square Monument",
-                  "text": "Independence Square with monument in Vieux Fort North, a central plaza with a monument and benches.",
-                  "category": "historical",
-                  "coords": [
-                        -60.953327,
-                        13.729686
                   ]
             }
       ]
@@ -13749,30 +6294,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sessene Descartes House",
-                  "text": "Historisches Wohnhausmuseum mit Ausstellungen zur Lokalgeschichte in Micoud North.",
-                  "category": "museum",
-                  "coords": [
-                        -60.907702,
-                        13.849501
-                  ]
-            },
-            {
                   "name": "Fond Bay Gardens",
                   "text": "Gartenanlage in Micoud North mit einheimischen und tropischen Pflanzen.",
                   "category": "landmark",
                   "coords": [
                         -60.899276,
                         13.832575
-                  ]
-            },
-            {
-                  "name": "Oldest Baobab Tree",
-                  "text": "Der älteste Affenbrotbaum St. Lucias in Micoud North, mit mächtigem Stamm und weit ausladenden Ästen.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.914843,
-                        13.809232
                   ]
             }
       ],
@@ -13787,30 +6314,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sessene Descartes House",
-                  "text": "Történelmi házmúzeum helytörténeti kiállításokkal Micoud Northban.",
-                  "category": "museum",
-                  "coords": [
-                        -60.907702,
-                        13.849501
-                  ]
-            },
-            {
                   "name": "Fond Bay Gardens",
                   "text": "Kertkomplexum Micoud Northban őshonos és trópusi növényekkel.",
                   "category": "landmark",
                   "coords": [
                         -60.899276,
                         13.832575
-                  ]
-            },
-            {
-                  "name": "Oldest Baobab Tree",
-                  "text": "St. Lucia legidősebb majomkenyérfája Micoud Northban, hatalmas törzzsel és széles ágakkal.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.914843,
-                        13.809232
                   ]
             }
       ],
@@ -13825,30 +6334,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sessene Descartes House",
-                  "text": "Casă muzeu istorică cu expoziții de istorie locală în Micoud North.",
-                  "category": "museum",
-                  "coords": [
-                        -60.907702,
-                        13.849501
-                  ]
-            },
-            {
                   "name": "Fond Bay Gardens",
                   "text": "Grădină amenajată în Micoud North, cu plante native și tropicale.",
                   "category": "landmark",
                   "coords": [
                         -60.899276,
                         13.832575
-                  ]
-            },
-            {
-                  "name": "Oldest Baobab Tree",
-                  "text": "Cel mai bătrân baobab din Sfânta Lucia, situat în Micoud North, cu un trunchi masiv și ramuri întinse.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.914843,
-                        13.809232
                   ]
             }
       ],
@@ -13863,30 +6354,12 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sessene Descartes House",
-                  "text": "Historic house museum with exhibits on local history in Micoud North.",
-                  "category": "museum",
-                  "coords": [
-                        -60.907702,
-                        13.849501
-                  ]
-            },
-            {
                   "name": "Fond Bay Gardens",
                   "text": "Gardens in Micoud North featuring native and tropical plant species.",
                   "category": "landmark",
                   "coords": [
                         -60.899276,
                         13.832575
-                  ]
-            },
-            {
-                  "name": "Oldest Baobab Tree",
-                  "text": "The oldest baobab tree in St. Lucia, located in Micoud North, with a massive trunk and sprawling branches.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.914843,
-                        13.809232
                   ]
             }
       ]
@@ -13981,50 +6454,10 @@ export const saintluciaCitiesV2: POI[] = [
   },
   {
     id: "saintlucia-babonneau-central-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Forstzoo in Babonneau Central, eingebettet in einen üppigen tropischen Garten.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Erdei állatkert Babonneau Centralban, buja trópusi kertbe ágyazva.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Grădină zoologică forestieră în Babonneau Central, amplasată într-o grădină tropicală luxuriantă.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Forestry Zoo",
-                  "text": "Forestry zoo in Babonneau Central, set in a lush tropical garden.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.961787,
-                        14.020886
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     parent: "LC",
     type: "village",
@@ -14073,48 +6506,12 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-gros-islet-north-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Splash Island Water Park",
-                  "text": "Der Splash Island Water Park ist ein Wasserpark in Gros Islet North.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
-                  "name": "Anse du Cap",
-                  "text": "Anse du Cap ist ein Strand in Gros Islet North.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.947548,
-                        14.103692
-                  ]
-            },
-            {
                   "name": "Anse Bécune Beach",
                   "text": "Anse Bécune Beach prägt das Küstenbild von Gros Islet North und verspricht ein authentisches Badeerlebnis auf Saint Lucia. Besucher finden hier einen angenehmen Küstenabschnitt, der sowohl zum Schwimmen als auch zum Sonnenbaden einlädt. Für ein ruhiges Erlebnis empfiehlt es sich, abseits der Stoßzeiten am Nachmittag vorbeizuschauen.",
                   "category": "recreational",
                   "coords": [
                         -60.951072,
                         14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "Als beliebter Sandstrand in Gros Islet North zieht Reduit Beach Einheimische und Gäste auf Saint Lucia gleichermaßen an. Der breite Küstenstreifen ist hervorragend geeignet für einen klassischen Strandtag mit Schwimmen und Spaziergängen. Um sich den besten Platz im warmen Sand zu sichern, lohnt sich eine Anreise in den frühen Morgenstunden.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
-                  ]
-            },
-            {
-                  "name": "smugglers cove beach",
-                  "text": "Eingebettet in die Region Gros Islet North, bietet Smugglers Cove Beach ein beschauliches Refugium am Meer. Dieser charmante Strandabschnitt auf Saint Lucia eignet sich bestens für alle, die das Wasser in einer unaufgeregten Umgebung genießen möchten. Ein sonniger Tag ist die perfekte Gelegenheit, die landschaftliche Schönheit dieser kleinen Bucht zu erkunden.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.950188,
-                        14.100529
                   ]
             },
             {
@@ -14136,15 +6533,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cas en bas",
-                  "text": "Cas en bas ist ein Strand in Gros Islet North.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
                   "name": "Pigeon Is. interpretation Center",
                   "text": "Das Pigeon Is. Interpretation Center ist eine Attraktion in Gros Islet North.",
                   "category": "landmark",
@@ -14161,45 +6549,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.966241,
                         14.091273
                   ]
-            },
-            {
-                  "name": "WWII Old U.S. Military Pillars",
-                  "text": "Betonpfeiler der US-Küstenartillerie aus dem Zweiten Weltkrieg in Gros Islet North.",
-                  "category": "historical",
-                  "coords": [
-                        -60.956265,
-                        14.067805
-                  ]
-            },
-            {
-                  "name": "Aquaholics Kite surfing School",
-                  "text": "Die Aquaholics Kite surfing School ist eine Wassersportattraktion in Gros Islet North.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.926738,
-                        14.091094
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Splash Island Water Park",
-                  "text": "A Splash Island Water Park egy vízi vidámpark Gros Islet North területén.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
-                  "name": "Anse du Cap",
-                  "text": "Az Anse du Cap egy festői strand Gros Islet North területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.947548,
-                        14.103692
-                  ]
-            },
             {
                   "name": "Anse Bécune Beach",
                   "text": "A Gros Islet North partvidékét meghatározó Anse Bécune Beach autentikus fürdőzési élményt ígér Saint Lucia szigetén. A látogatók egy kellemes partszakaszt találhatnak itt, amely úszásra és napozásra egyaránt hívogat. A csendesebb élmény érdekében érdemes a délutáni csúcsidőszakon kívül felkeresni ezt a helyet.",
@@ -14207,24 +6559,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.951072,
                         14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "A Gros Islet North egyik legkedveltebb homokos strandjaként a Reduit Beach a helyieket és a turistákat egyaránt vonzza Saint Lucia szigetén. A széles partszakasz kiválóan alkalmas egy klasszikus, úszással és sétával töltött strandnaphoz. A legjobb helyek biztosítása érdekében a meleg homokban, érdemes a kora reggeli órákban érkezni.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
-                  ]
-            },
-            {
-                  "name": "smugglers cove beach",
-                  "text": "A Gros Islet North régióban megbúvó Smugglers Cove Beach egy békés menedéket kínál a tengerparton. Ez a bájos partvonal Saint Lucia szigetén kiválóan megfelel azoknak, akik nyugodt környezetben szeretnék élvezni a vizet. Egy napsütéses nap tökéletes alkalom arra, hogy felfedezzük ennek a kis öbölnek a festői szépségét.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.950188,
-                        14.100529
                   ]
             },
             {
@@ -14246,15 +6580,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cas en bas",
-                  "text": "A Cas en bas egy tengerparti úti cél Gros Islet North területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
                   "name": "Pigeon Is. interpretation Center",
                   "text": "A Pigeon Is. Interpretation Center egy látványosság Gros Islet North területén.",
                   "category": "landmark",
@@ -14271,45 +6596,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.966241,
                         14.091273
                   ]
-            },
-            {
-                  "name": "WWII Old U.S. Military Pillars",
-                  "text": "Második világháborús amerikai tengerparti tüzérségi betonoszlopok Gros Islet Northban.",
-                  "category": "historical",
-                  "coords": [
-                        -60.956265,
-                        14.067805
-                  ]
-            },
-            {
-                  "name": "Aquaholics Kite surfing School",
-                  "text": "Az Aquaholics Kite surfing School egy vízi sportokkal foglalkozó létesítmény Gros Islet North területén.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.926738,
-                        14.091094
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Splash Island Water Park",
-                  "text": "Splash Island Water Park este un parc acvatic situat în Gros Islet North.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
-                  "name": "Anse du Cap",
-                  "text": "Anse du Cap este o plajă situată în Gros Islet North.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.947548,
-                        14.103692
-                  ]
-            },
             {
                   "name": "Anse Bécune Beach",
                   "text": "Anse Bécune Beach conturează peisajul de coastă din Gros Islet North și promite o experiență autentică de scăldat în Sfânta Lucia. Vizitatorii vor găsi aici o porțiune de coastă plăcută, care îi invită atât la înot, cât și la plajă. Pentru o experiență mai liniștită, este recomandat să treceți pe aici în afara orelor de vârf ale după-amiezii.",
@@ -14317,24 +6606,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.951072,
                         14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "Fiind o plajă de nisip populară în Gros Islet North, Reduit Beach atrage deopotrivă localnicii și oaspeții din Sfânta Lucia. Fâșia largă de coastă este excelentă pentru o zi clasică de plajă, cu înot și plimbări. Pentru a vă asigura cel mai bun loc pe nisipul cald, merită să sosiți la primele ore ale dimineții.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
-                  ]
-            },
-            {
-                  "name": "smugglers cove beach",
-                  "text": "Amplasată în regiunea Gros Islet North, Smugglers Cove Beach oferă un refugiu liniștit la malul mării. Această plajă fermecătoare de pe Sfânta Lucia este ideală pentru cei care doresc să se bucure de apă într-un mediu neaglomerat. O zi însorită este ocazia perfectă pentru a explora frumusețea peisagistică a acestui mic golf.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.950188,
-                        14.100529
                   ]
             },
             {
@@ -14356,15 +6627,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cas en bas",
-                  "text": "Cas en bas este o destinație de plajă aflată în Gros Islet North.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
                   "name": "Pigeon Is. interpretation Center",
                   "text": "Centrul de interpretare Pigeon Is. este o atracție din Gros Islet North.",
                   "category": "landmark",
@@ -14381,45 +6643,9 @@ export const saintluciaCitiesV2: POI[] = [
                         -60.966241,
                         14.091273
                   ]
-            },
-            {
-                  "name": "WWII Old U.S. Military Pillars",
-                  "text": "Stâlpi de beton ai artileriei de coastă americane din al Doilea Război Mondial în Gros Islet North.",
-                  "category": "historical",
-                  "coords": [
-                        -60.956265,
-                        14.067805
-                  ]
-            },
-            {
-                  "name": "Aquaholics Kite surfing School",
-                  "text": "Aquaholics Kite surfing School este o atracție pentru sporturi nautice din Gros Islet North.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.926738,
-                        14.091094
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Splash Island Water Park",
-                  "text": "Splash Island Water Park is an aquatic attraction located in Gros Islet North.",
-                  "category": "family",
-                  "coords": [
-                        -60.954113,
-                        14.078131
-                  ]
-            },
-            {
-                  "name": "Anse du Cap",
-                  "text": "Anse du Cap is a scenic beach located in Gros Islet North.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.947548,
-                        14.103692
-                  ]
-            },
             {
                   "name": "Anse Bécune Beach",
                   "text": "Shaping the coastal landscape of Gros Islet North, Anse Bécune Beach promises an authentic bathing experience on Saint Lucia. Visitors will find a pleasant stretch of shoreline that is equally inviting for a swim or sunbathing. For a quieter experience, it is recommended to drop by outside of the peak afternoon hours.",
@@ -14427,24 +6653,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.951072,
                         14.097125
-                  ]
-            },
-            {
-                  "name": "Reduit Beach",
-                  "text": "As a popular sandy destination in Gros Islet North, Reduit Beach naturally draws both locals and guests visiting Saint Lucia. The wide coastal strip is excellent for a classic beach day filled with swimming and seaside walks. Arriving in the early morning is well worth the effort to secure the best spot on the warm sand.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.956392,
-                        14.074694
-                  ]
-            },
-            {
-                  "name": "smugglers cove beach",
-                  "text": "Tucked away in the Gros Islet North region, Smugglers Cove Beach offers a tranquil seaside refuge. This charming stretch of sand on Saint Lucia is ideal for anyone looking to enjoy the water in an uncrowded setting. A sunny day presents the perfect opportunity to explore the scenic beauty of this small cove.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.950188,
-                        14.100529
                   ]
             },
             {
@@ -14466,15 +6674,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cas en bas",
-                  "text": "Cas en bas is a coastal beach destination found in Gros Islet North.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.92722,
-                        14.088666
-                  ]
-            },
-            {
                   "name": "Pigeon Is. interpretation Center",
                   "text": "The Pigeon Is. Interpretation Center is an informative attraction located in Gros Islet North.",
                   "category": "landmark",
@@ -14490,24 +6689,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -60.966241,
                         14.091273
-                  ]
-            },
-            {
-                  "name": "WWII Old U.S. Military Pillars",
-                  "text": "WWII US military concrete pillars, remnants of a coastal artillery position in Gros Islet North.",
-                  "category": "historical",
-                  "coords": [
-                        -60.956265,
-                        14.067805
-                  ]
-            },
-            {
-                  "name": "Aquaholics Kite surfing School",
-                  "text": "Aquaholics Kite surfing School is a popular water sports attraction in Gros Islet North.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.926738,
-                        14.091094
                   ]
             }
       ]
@@ -14559,15 +6740,6 @@ export const saintluciaCitiesV2: POI[] = [
     id: "saintlucia-castries-south-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Vigie Beach",
-                  "text": "Direkt in Castries South und in unmittelbarer Nähe der örtlichen Flughafenlandebahn gelegen, fasziniert Vigie Beach durch seine besondere Lage. Dieser bekannte Strand auf Saint Lucia bietet eine aufregende Mischung aus klassischem Badevergnügen und dem Blick auf startende Flugzeuge. Ideal für einen nachmittäglichen Spaziergang, bei dem man die einmalige Kulisse auf sich wirken lassen kann.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
-            {
                   "name": "The Morne Museum",
                   "text": "Museum in einer ehemaligen Militärkaserne auf dem Morne Fortune in Castries South, das die Geschichte der Insel zeigt.",
                   "category": "museum",
@@ -14586,51 +6758,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mount Bellevue",
-                  "text": "Mount Bellevue ist ein Gipfel in Castries South. Er ist eine der markanten Erhebungen der Insel St. Lucia.",
-                  "category": "natural",
-                  "coords": [
-                        -61.014144,
-                        13.971109
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Derek Walcott Square ist ein Park in Castries South. Dieser öffentliche Platz ist nach dem berühmten Nobelpreisträger benannt.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "Denkmal für Sir John Compton, den ersten Premierminister St. Lucias, in Castries South.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "Historisches Gebäude, benannt nach dem Nobelpreisträger Derek Walcott, in Castries South.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "Wahrzeichen der Insel Saint Lucia in Castries South.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
                   "name": "Provost Park",
                   "text": "Historischer öffentlicher Park in Castries South.",
                   "category": "historical",
@@ -14641,15 +6768,6 @@ export const saintluciaCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "Közvetlenül Castries South területén, a helyi repülőtér kifutópályájának közvetlen közelében található a Vigie Beach, amely különleges fekvésével varázsolja el a látogatókat. Ez a jól ismert Saint Lucia-i strand a klasszikus fürdőzés és a felszálló repülőgépek látványának izgalmas keverékét nyújtja. Ideális egy délutáni sétához, ahol az ember átadhatja magát az egyedülálló környezetnek.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
             {
                   "name": "The Morne Museum",
                   "text": "Múzeum egykori laktanyában a Morne Fortune-on, Castries Southban, a sziget történetét bemutatva.",
@@ -14669,51 +6787,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mount Bellevue",
-                  "text": "Mount Bellevue egy hegycsúcs Castries South területén. Ez Saint Lucia szigetének egyik jelentős magaslata.",
-                  "category": "natural",
-                  "coords": [
-                        -61.014144,
-                        13.971109
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Derek Walcott Square egy park Castries South területén. Ezt a nyilvános teret a híres Nobel-díjasról nevezték el.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "Sir John Compton, St. Lucia első miniszterelnökének emlékműve Castries Southban.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "Derek Walcott Nobel-díjas költőről elnevezett történelmi épület Castries Southban.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "Saint Lucia szigetének jelképe Castries Southban.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
                   "name": "Provost Park",
                   "text": "Történelmi közpark Castries Southban.",
                   "category": "historical",
@@ -14724,15 +6797,6 @@ export const saintluciaCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "Situată chiar în Castries South și în imediata apropiere a pistei aeroportului local, Vigie Beach fascinează prin locația sa specială. Această plajă binecunoscută din Sfânta Lucia oferă un amestec interesant de plăcere clasică a scăldatului și priveliștea avioanelor care decolează. Ideal pentru o plimbare de după-amiază, unde puteți admira peisajul unic.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
             {
                   "name": "The Morne Museum",
                   "text": "Muzeul Morne din Castries South, găzduit într-o fostă cazarmă militară pe Morne Fortune, care detaliază istoria insulei.",
@@ -14752,51 +6816,6 @@ export const saintluciaCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mount Bellevue",
-                  "text": "Mount Bellevue este un vârf în Castries South. Este una dintre elevațiile importante de pe insula Sfânta Lucia.",
-                  "category": "natural",
-                  "coords": [
-                        -61.014144,
-                        13.971109
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Derek Walcott Square este un parc în Castries South. Această piață publică poartă numele celebrului laureat al Premiului Nobel.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "Monumentul lui Sir John Compton, primul prim-ministru al Sfintei Lucia, în Castries South.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "Clădire istorică numită după poetul laureat Nobel Derek Walcott în Castries South.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "Reper al insulei Saint Lucia în Castries South.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
-                  ]
-            },
-            {
                   "name": "Provost Park",
                   "text": "Parc public istoric în Castries South.",
                   "category": "historical",
@@ -14807,15 +6826,6 @@ export const saintluciaCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Vigie Beach",
-                  "text": "Situated right in Castries South and in close proximity to the local airport runway, Vigie Beach fascinates with its unique location. This well-known beach on Saint Lucia offers an exciting mix of classic bathing pleasure and the sight of planes taking off. It is ideal for an afternoon stroll where you can fully absorb the one-of-a-kind setting.",
-                  "category": "recreational",
-                  "coords": [
-                        -60.988251,
-                        14.024862
-                  ]
-            },
             {
                   "name": "The Morne Museum",
                   "text": "The Morne Museum in Castries South, housed in a former military barracks on Morne Fortune, detailing the island's history.",
@@ -14832,51 +6842,6 @@ export const saintluciaCitiesV2: POI[] = [
                   "coords": [
                         -61.009579,
                         14.009262
-                  ]
-            },
-            {
-                  "name": "Mount Bellevue",
-                  "text": "Mount Bellevue is a peak located in Castries South. It is one of the prominent elevations on the island of Saint Lucia.",
-                  "category": "natural",
-                  "coords": [
-                        -61.014144,
-                        13.971109
-                  ]
-            },
-            {
-                  "name": "Derek Walcott Square",
-                  "text": "Derek Walcott Square is a park located in Castries South. This public square is named in honor of the famous Nobel laureate.",
-                  "category": "park",
-                  "coords": [
-                        -60.990813,
-                        14.008855
-                  ]
-            },
-            {
-                  "name": "Sir John Compton Monument",
-                  "text": "Monument to Sir John Compton, St. Lucia's first prime minister, in Castries South.",
-                  "category": "historical",
-                  "coords": [
-                        -60.990046,
-                        14.009986
-                  ]
-            },
-            {
-                  "name": "Derick Walcott Building",
-                  "text": "Historical building named after Nobel Prize-winning poet Derek Walcott in Castries South.",
-                  "category": "historical",
-                  "coords": [
-                        -60.987762,
-                        14.007401
-                  ]
-            },
-            {
-                  "name": "Saint Lucia",
-                  "text": "Landmark representing the island of Saint Lucia in Castries South.",
-                  "category": "landmark",
-                  "coords": [
-                        -60.996447,
-                        14.014745
                   ]
             },
             {

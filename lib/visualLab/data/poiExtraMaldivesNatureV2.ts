@@ -60,60 +60,6 @@ export const poiExtraMaldivesNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tiger sharks feeding point",
-                  "text": "Ein weltberühmter Ort zur Beobachtung von Tigerhaien in ihrem natürlichen Lebensraum vor der Küste.",
-                  "category": "landmark",
-                  "coords": [
-                        73.44126,
-                        -0.306572
-                  ]
-            },
-            {
-                  "name": "Maa Neyru",
-                  "text": "Ein traditioneller, in das Riff gehauener Bootskanal, der historisch von den Inselbewohnern genutzt wurde.",
-                  "category": "landmark",
-                  "coords": [
-                        73.4205,
-                        -0.300083
-                  ]
-            },
-            {
-                  "name": "Raskuri Restaurant",
-                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die üppige Vegetation und die Küstenlinie der Insel bietet.",
-                  "category": "natural",
-                  "coords": [
-                        73.42319,
-                        -0.298282
-                  ]
-            },
-            {
-                  "name": "sunset viewpoint",
-                  "text": "Ein malerischer Ort an der Küste, ideal um den Sonnenuntergang über dem Indischen Ozean zu beobachten.",
-                  "category": "natural",
-                  "coords": [
-                        73.417754,
-                        -0.294678
-                  ]
-            },
-            {
-                  "name": "Neregando reef",
-                  "text": "Ein lebendiges Korallenriff, das hervorragende Möglichkeiten zur Schnorcheln und Meeresbeobachtung bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        73.411257,
-                        -0.293336
-                  ]
-            },
-            {
-                  "name": "Vasho Veyo",
-                  "text": "Ein alter, aus Korallenstein errichteter Stufenbrunnen, der traditionelle maledivische Handwerkskunst zeigt.",
-                  "category": "landmark",
-                  "coords": [
-                        73.432503,
-                        -0.308415
-                  ]
-            },
-            {
                   "name": "Tours Ease Maldives",
                   "text": "Ein lokaler Ausgangspunkt zur Erkundung der einzigartigen ökologischen Wunder der Insel Fuvahmulah.",
                   "category": "landmark",
@@ -158,60 +104,6 @@ export const poiExtraMaldivesNatureV2: POI[] = [
                   "coords": [
                         73.436522,
                         -0.300132
-                  ]
-            },
-            {
-                  "name": "Tiger sharks feeding point",
-                  "text": "Világhírű hely a tigriscápák természetes élőhelyükön való megfigyelésére a part mentén.",
-                  "category": "landmark",
-                  "coords": [
-                        73.44126,
-                        -0.306572
-                  ]
-            },
-            {
-                  "name": "Maa Neyru",
-                  "text": "Hagyományos, a zátonyba vájt csatorna, amelyet történelmileg a szigetlakók használtak a hajózáshoz.",
-                  "category": "landmark",
-                  "coords": [
-                        73.4205,
-                        -0.300083
-                  ]
-            },
-            {
-                  "name": "Raskuri Restaurant",
-                  "text": "Kilátópont, ahonnan remek kilátás nyílik a sziget dús növényzetére és partvonalára.",
-                  "category": "natural",
-                  "coords": [
-                        73.42319,
-                        -0.298282
-                  ]
-            },
-            {
-                  "name": "sunset viewpoint",
-                  "text": "Gidres-bodros tengerparti helyszín, amely tökéletes a naplemente megtekintéséhez az Indiai-óceán felett.",
-                  "category": "natural",
-                  "coords": [
-                        73.417754,
-                        -0.294678
-                  ]
-            },
-            {
-                  "name": "Neregando reef",
-                  "text": "Élénk korallzátony, amely kiváló lehetőségeket kínál a búvárkodáshoz és a tengeri élővilág megfigyeléséhez.",
-                  "category": "landmark",
-                  "coords": [
-                        73.411257,
-                        -0.293336
-                  ]
-            },
-            {
-                  "name": "Vasho Veyo",
-                  "text": "Ősi, korallkőből épült lépcsős kút, amely a hagyományos maldív kézművességet mutatja be.",
-                  "category": "landmark",
-                  "coords": [
-                        73.432503,
-                        -0.308415
                   ]
             },
             {
@@ -262,60 +154,6 @@ export const poiExtraMaldivesNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tiger sharks feeding point",
-                  "text": "Un sit renumit la nivel mondial pentru observarea rechinilor tigru în habitatul lor natural de lângă coastă.",
-                  "category": "landmark",
-                  "coords": [
-                        73.44126,
-                        -0.306572
-                  ]
-            },
-            {
-                  "name": "Maa Neyru",
-                  "text": "Un canal tradițional pentru bărci săpat în recif, folosit istoric de localnicii de pe insulă.",
-                  "category": "landmark",
-                  "coords": [
-                        73.4205,
-                        -0.300083
-                  ]
-            },
-            {
-                  "name": "Raskuri Restaurant",
-                  "text": "Un punct de observație care oferă vederi panoramice asupra vegetației luxuriante și a liniei de coastă a insulei.",
-                  "category": "natural",
-                  "coords": [
-                        73.42319,
-                        -0.298282
-                  ]
-            },
-            {
-                  "name": "sunset viewpoint",
-                  "text": "O locație pitorească pe coastă, perfectă pentru a urmări apusul de soare peste Oceanul Indian.",
-                  "category": "natural",
-                  "coords": [
-                        73.417754,
-                        -0.294678
-                  ]
-            },
-            {
-                  "name": "Neregando reef",
-                  "text": "Un recif de corali vibrant care oferă oportunități excelente pentru snorkeling și observarea vieții marine.",
-                  "category": "landmark",
-                  "coords": [
-                        73.411257,
-                        -0.293336
-                  ]
-            },
-            {
-                  "name": "Vasho Veyo",
-                  "text": "O fântână antică cu trepte, construită din piatră de corali, care prezintă măiestria tradițională maldiviană.",
-                  "category": "landmark",
-                  "coords": [
-                        73.432503,
-                        -0.308415
-                  ]
-            },
-            {
                   "name": "Tours Ease Maldives",
                   "text": "O poartă locală pentru explorarea minunilor ecologice unice ale insulei Fuvahmulah.",
                   "category": "landmark",
@@ -360,60 +198,6 @@ export const poiExtraMaldivesNatureV2: POI[] = [
                   "coords": [
                         73.436522,
                         -0.300132
-                  ]
-            },
-            {
-                  "name": "Tiger sharks feeding point",
-                  "text": "A world-renowned site for observing tiger sharks in their natural habitat off the coast.",
-                  "category": "landmark",
-                  "coords": [
-                        73.44126,
-                        -0.306572
-                  ]
-            },
-            {
-                  "name": "Maa Neyru",
-                  "text": "A traditional boat channel carved into the reef, used historically by local islanders.",
-                  "category": "landmark",
-                  "coords": [
-                        73.4205,
-                        -0.300083
-                  ]
-            },
-            {
-                  "name": "Raskuri Restaurant",
-                  "text": "A viewpoint offering elevated views of the island's lush vegetation and coastline.",
-                  "category": "natural",
-                  "coords": [
-                        73.42319,
-                        -0.298282
-                  ]
-            },
-            {
-                  "name": "sunset viewpoint",
-                  "text": "A picturesque coastal location perfect for watching the sun set over the Indian Ocean.",
-                  "category": "natural",
-                  "coords": [
-                        73.417754,
-                        -0.294678
-                  ]
-            },
-            {
-                  "name": "Neregando reef",
-                  "text": "A vibrant coral reef offering excellent opportunities for snorkeling and marine life observation.",
-                  "category": "landmark",
-                  "coords": [
-                        73.411257,
-                        -0.293336
-                  ]
-            },
-            {
-                  "name": "Vasho Veyo",
-                  "text": "An ancient communal step-well built from coral stone, showcasing traditional Maldivian craftsmanship.",
-                  "category": "landmark",
-                  "coords": [
-                        73.432503,
-                        -0.308415
                   ]
             },
             {
@@ -681,15 +465,6 @@ export const poiExtraMaldivesNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dream beach",
-                  "text": "Ein ruhiger Sandstrand mit flachem Wasser, der ideal zum Schnorcheln in der Nähe der Mangrovenwälder geeignet ist.",
-                  "category": "recreational",
-                  "coords": [
-                        73.643638,
-                        4.374152
-                  ]
-            },
-            {
                   "name": "Mosque",
                   "text": "Die Dorfmoschee von Huraa zeichnet sich durch ihre schlichte Architektur und ihre Bedeutung für die lokale Gemeinschaft aus.",
                   "category": "landmark",
@@ -716,15 +491,6 @@ export const poiExtraMaldivesNatureV2: POI[] = [
                   "coords": [
                         73.617033,
                         4.349143
-                  ]
-            },
-            {
-                  "name": "Dream beach",
-                  "text": "Csendes, homokos strand sekély vízzel, amely ideális a mangroveerdők közeli búvárkodáshoz.",
-                  "category": "recreational",
-                  "coords": [
-                        73.643638,
-                        4.374152
                   ]
             },
             {
@@ -757,15 +523,6 @@ export const poiExtraMaldivesNatureV2: POI[] = [
                   ]
             },
             {
-                  "name": "Dream beach",
-                  "text": "O plajă de nisip liniștită cu apă puțin adâncă, ideală pentru snorkeling în apropierea pădurilor de mangrove.",
-                  "category": "recreational",
-                  "coords": [
-                        73.643638,
-                        4.374152
-                  ]
-            },
-            {
                   "name": "Mosque",
                   "text": "Moscheea din satul Huraa se remarcă prin arhitectura sa simplă și importanța sa pentru comunitatea locală.",
                   "category": "landmark",
@@ -792,15 +549,6 @@ export const poiExtraMaldivesNatureV2: POI[] = [
                   "coords": [
                         73.617033,
                         4.349143
-                  ]
-            },
-            {
-                  "name": "Dream beach",
-                  "text": "A quiet sandy beach with shallow water, ideal for snorkeling near the mangrove forests.",
-                  "category": "recreational",
-                  "coords": [
-                        73.643638,
-                        4.374152
                   ]
             },
             {
@@ -1849,86 +1597,10 @@ export const poiExtraMaldivesNatureV2: POI[] = [
   },
   {
     id: "mv-miyaru-kandu-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Oshi Beach",
-                  "text": "Oshi Beach ist eine natürliche Küstenattraktion im Gebiet von mv-miyaru-kandu-nature-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        73.548808,
-                        3.471125
-                  ]
-            },
-            {
-                  "name": "Bikini beach",
-                  "text": "Bikini beach ist ein Sandstrand in mv-miyaru-kandu-nature-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.5351,
-                        3.485803
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Oshi Beach",
-                  "text": "Az Oshi Beach egy természetes tengerparti látványosság mv-miyaru-kandu-nature-v2 területén.",
-                  "category": "landmark",
-                  "coords": [
-                        73.548808,
-                        3.471125
-                  ]
-            },
-            {
-                  "name": "Bikini beach",
-                  "text": "A Bikini beach egy homokos strand mv-miyaru-kandu-nature-v2 területén.",
-                  "category": "recreational",
-                  "coords": [
-                        73.5351,
-                        3.485803
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Oshi Beach",
-                  "text": "Oshi Beach este o atracție de coastă naturală situată în zona mv-miyaru-kandu-nature-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        73.548808,
-                        3.471125
-                  ]
-            },
-            {
-                  "name": "Bikini beach",
-                  "text": "Bikini beach este o plajă cu nisip în mv-miyaru-kandu-nature-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.5351,
-                        3.485803
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Oshi Beach",
-                  "text": "Oshi Beach is a natural coastal attraction located in the area of mv-miyaru-kandu-nature-v2.",
-                  "category": "landmark",
-                  "coords": [
-                        73.548808,
-                        3.471125
-                  ]
-            },
-            {
-                  "name": "Bikini beach",
-                  "text": "Bikini beach is a sandy beach destination in mv-miyaru-kandu-nature-v2.",
-                  "category": "recreational",
-                  "coords": [
-                        73.5351,
-                        3.485803
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "national-park",
     parent: "MV-04",

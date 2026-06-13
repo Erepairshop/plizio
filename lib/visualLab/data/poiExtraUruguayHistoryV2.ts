@@ -2901,24 +2901,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Julio Sosa",
-                  "text": "Dieses Museum ehrt den berühmten Tangosänger Julio Sosa, der in dieser Stadt geboren wurde.",
-                  "category": "museum",
-                  "coords": [
-                        -56.201396,
-                        -34.7262
-                  ]
-            },
-            {
-                  "name": "Casona Afcrami",
-                  "text": "Ein historisches Herrenhaus, das heute als Raum für kulturelle Begegnungen und Kunst genutzt wird.",
-                  "category": "landmark",
-                  "coords": [
-                        -56.217258,
-                        -34.721109
-                  ]
-            },
-            {
                   "name": "Molino",
                   "text": "Ein symbolisches Denkmal in Form einer alten Mühle, das an die landwirtschaftliche Vergangenheit erinnert.",
                   "category": "historical",
@@ -2972,24 +2954,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
                   "coords": [
                         -56.245153,
                         -34.7212
-                  ]
-            },
-            {
-                  "name": "Museo Julio Sosa",
-                  "text": "Ez a múzeum a híres tangóénekes, Julio Sosa előtt tiszteleg, aki ebben a városban született.",
-                  "category": "museum",
-                  "coords": [
-                        -56.201396,
-                        -34.7262
-                  ]
-            },
-            {
-                  "name": "Casona Afcrami",
-                  "text": "Történelmi udvarház, amelyet ma kulturális találkozók és művészeti események helyszínéül használnak.",
-                  "category": "landmark",
-                  "coords": [
-                        -56.217258,
-                        -34.721109
                   ]
             },
             {
@@ -3049,24 +3013,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo Julio Sosa",
-                  "text": "Acest muzeu îl onorează pe celebrul cântăreț de tango Julio Sosa, care s-a născut în acest oraș.",
-                  "category": "museum",
-                  "coords": [
-                        -56.201396,
-                        -34.7262
-                  ]
-            },
-            {
-                  "name": "Casona Afcrami",
-                  "text": "Un conac istoric folosit astăzi ca spațiu pentru întâlniri culturale și artă.",
-                  "category": "landmark",
-                  "coords": [
-                        -56.217258,
-                        -34.721109
-                  ]
-            },
-            {
                   "name": "Molino",
                   "text": "Un monument simbolic sub forma unei mori vechi, care amintește de trecutul agricol al zonei.",
                   "category": "historical",
@@ -3120,24 +3066,6 @@ export const poiExtraUruguayHistoryV2: POI[] = [
                   "coords": [
                         -56.245153,
                         -34.7212
-                  ]
-            },
-            {
-                  "name": "Museo Julio Sosa",
-                  "text": "This museum honors the famous tango singer Julio Sosa, who was born in this city.",
-                  "category": "museum",
-                  "coords": [
-                        -56.201396,
-                        -34.7262
-                  ]
-            },
-            {
-                  "name": "Casona Afcrami",
-                  "text": "A historic mansion now used as a space for cultural encounters and local art.",
-                  "category": "landmark",
-                  "coords": [
-                        -56.217258,
-                        -34.721109
                   ]
             },
             {

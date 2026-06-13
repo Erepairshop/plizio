@@ -260,57 +260,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia do Tarrafal",
-                  "text": "Als Hauptstrand von Tarrafal erstrahlt der Praia do Tarrafal als spektakuläres Küstenherzstück auf den Kapverden. Die Atmosphäre ist authentisch lebendig und lokal geprägt und pulsiert im Rhythmus der Region. Besucher kommen in den Genuss von fantastischen Schwimmbedingungen, warmem Sonnenbaden und faszinierenden Spaziergängen entlang der afrikanischen Küste. Ein Handtuch mitzubringen und für den atemberaubenden Sonnenuntergang zu bleiben, ist ein absolutes Muss.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.753245,
-                        15.281285
-                  ]
-            },
-            {
-                  "name": "Monte Graciosa",
-                  "text": "Ein vulkanischer Gipfel auf der Insel São Nicolau in Kap Verde mit Blick auf die Stadt Tarrafal.",
-                  "category": "natural",
-                  "coords": [
-                        -23.749285,
-                        15.298854
-                  ]
-            },
-            {
-                  "name": "Farol da Ponta Preta",
-                  "text": "Ein Leuchtturm an der Ponta Preta in Tarrafal, Kap Verde, der Schiffe leitet.",
-                  "category": "natural",
-                  "coords": [
-                        -23.77116,
-                        15.292653
-                  ]
-            },
-            {
                   "name": "Tarrafal Letras",
                   "text": "Ein Wahrzeichen-Schild mit der Aufschrift 'Tarrafal' in Tarrafal, Kap Verde, beliebt für Fotos.",
                   "category": "landmark",
                   "coords": [
                         -23.756195,
                         15.279292
-                  ]
-            },
-            {
-                  "name": "Latrines",
-                  "text": "Die Latrines sind Teil der historischen Anlage in Tarrafal.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.743339,
-                        15.263894
-                  ]
-            },
-            {
-                  "name": "Laundry",
-                  "text": "Die Wäscherei ist Teil der historischen Anlage in Tarrafal.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.744409,
-                        15.264063
                   ]
             }
       ],
@@ -343,57 +298,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia do Tarrafal",
-                  "text": "Tarrafal fő strandjaként a Praia do Tarrafal a Zöld-foki Köztársaság látványos tengerparti központjaként ragyog. Az atmoszféra hitelesen pezsgő és helyi, a régió élénk ritmusával lüktet. A látogatókat fantasztikus úszási feltételek, meleg napozás és lenyűgöző séták várják az afrikai partok mentén. Törölközőt hozni és a lélegzetelállító naplementére maradni abszolút elengedhetetlen.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.753245,
-                        15.281285
-                  ]
-            },
-            {
-                  "name": "Monte Graciosa",
-                  "text": "Egy vulkanikus csúcs a São Nicolau szigeten (Zöld-foki Köztársaság), Tarrafal városára tekintve.",
-                  "category": "natural",
-                  "coords": [
-                        -23.749285,
-                        15.298854
-                  ]
-            },
-            {
-                  "name": "Farol da Ponta Preta",
-                  "text": "Egy világítótorony a Ponta Preta-n Tarrafal-ban, Zöld-foki Köztársaság, hajók irányítására.",
-                  "category": "natural",
-                  "coords": [
-                        -23.77116,
-                        15.292653
-                  ]
-            },
-            {
                   "name": "Tarrafal Letras",
                   "text": "Egy nevezetes tábla 'Tarrafal' felirattal Tarrafal-ban, Zöld-foki Köztársaság, népszerű fotókhoz.",
                   "category": "landmark",
                   "coords": [
                         -23.756195,
                         15.279292
-                  ]
-            },
-            {
-                  "name": "Latrines",
-                  "text": "A latrinák a Tarrafal-i történelmi helyszín részei.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.743339,
-                        15.263894
-                  ]
-            },
-            {
-                  "name": "Laundry",
-                  "text": "A mosoda a Tarrafal-i történelmi helyszín része.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.744409,
-                        15.264063
                   ]
             }
       ],
@@ -426,57 +336,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia do Tarrafal",
-                  "text": "Fiind plaja principală din Tarrafal, Praia do Tarrafal strălucește ca o piesă centrală de coastă spectaculoasă din Capul Verde. Atmosfera este autentic vibrantă și locală, pulsând în ritmul plin de viață al regiunii. Vizitatorii sunt răsfățați cu condiții fantastice de înot, plajă caldă și plimbări captivante de-a lungul coastei africane. Aducerea unui prosop și rămânerea pentru apusul soarelui care îți taie respirația sunt absolut esențiale.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.753245,
-                        15.281285
-                  ]
-            },
-            {
-                  "name": "Monte Graciosa",
-                  "text": "Un vârf vulcanic pe insula São Nicolau din Capul Verde, privind spre orașul Tarrafal.",
-                  "category": "natural",
-                  "coords": [
-                        -23.749285,
-                        15.298854
-                  ]
-            },
-            {
-                  "name": "Farol da Ponta Preta",
-                  "text": "Un far la Ponta Preta în Tarrafal, Capul Verde, care ghidează navele.",
-                  "category": "natural",
-                  "coords": [
-                        -23.77116,
-                        15.292653
-                  ]
-            },
-            {
                   "name": "Tarrafal Letras",
                   "text": "Un indicator emblematic cu inscripția 'Tarrafal' în Tarrafal, Capul Verde, popular pentru fotografii.",
                   "category": "landmark",
                   "coords": [
                         -23.756195,
                         15.279292
-                  ]
-            },
-            {
-                  "name": "Latrines",
-                  "text": "Latrinele fac parte din situl istoric din Tarrafal.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.743339,
-                        15.263894
-                  ]
-            },
-            {
-                  "name": "Laundry",
-                  "text": "Spălătoria face parte din situl istoric din Tarrafal.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.744409,
-                        15.264063
                   ]
             }
       ],
@@ -509,57 +374,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia do Tarrafal",
-                  "text": "As the main beach of Tarrafal, Praia do Tarrafal shines as a spectacular coastal centerpiece in Cape Verde. The atmosphere is authentically vibrant and local, pulsing with the lively rhythm of the region. Visitors are treated to fantastic swimming conditions, warm sunbathing, and captivating walks along the African shoreline. Bringing a towel and staying for the breathtaking sunset is absolutely essential.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.753245,
-                        15.281285
-                  ]
-            },
-            {
-                  "name": "Monte Graciosa",
-                  "text": "A volcanic peak on São Nicolau Island in Cape Verde, overlooking the town of Tarrafal.",
-                  "category": "natural",
-                  "coords": [
-                        -23.749285,
-                        15.298854
-                  ]
-            },
-            {
-                  "name": "Farol da Ponta Preta",
-                  "text": "A lighthouse at Ponta Preta in Tarrafal, Cape Verde, guiding ships.",
-                  "category": "natural",
-                  "coords": [
-                        -23.77116,
-                        15.292653
-                  ]
-            },
-            {
                   "name": "Tarrafal Letras",
                   "text": "A landmark sign spelling 'Tarrafal' in Tarrafal, Cape Verde, popular for photos.",
                   "category": "landmark",
                   "coords": [
                         -23.756195,
                         15.279292
-                  ]
-            },
-            {
-                  "name": "Latrines",
-                  "text": "The latrines are part of the historical site in Tarrafal.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.743339,
-                        15.263894
-                  ]
-            },
-            {
-                  "name": "Laundry",
-                  "text": "The laundry is part of the historical site in Tarrafal.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.744409,
-                        15.264063
                   ]
             }
       ]
@@ -738,50 +558,10 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
     },
   },
   {id: "joao-teves-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Jardim Botanico",
-                  "text": "Jardim Botanico ist ein bekannter botanischer Garten in João Teves.",
-                  "category": "park",
-                  "coords": [
-                        -23.603759,
-                        15.048897
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Jardim Botanico",
-                  "text": "A Jardim Botanico egy jelentős botanikus kert João Teves városában.",
-                  "category": "park",
-                  "coords": [
-                        -23.603759,
-                        15.048897
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Jardim Botanico",
-                  "text": "Jardim Botanico este o grădină botanică importantă situată în João Teves.",
-                  "category": "park",
-                  "coords": [
-                        -23.603759,
-                        15.048897
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Jardim Botanico",
-                  "text": "Jardim Botanico is a notable botanical garden located in João Teves.",
-                  "category": "park",
-                  "coords": [
-                        -23.603759,
-                        15.048897
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, type: "city", parent: "CV-SO", coords: [-23.591, 15.064], name: {de: "João Teves", hu: "João Teves", ro: "João Teves", en: "João Teves"},
     image: "/poi-images/joao-teves-cities-v2.webp", description: {de: "João Teves ist eine Stadt im Landesinneren von Santiago und Sitz der Gemeinde São Lourenço dos Órgãos.", hu: "João Teves egy város Santiago belsejében, São Lourenço dos Órgãos község székhelye.", ro: "João Teves este un ora? din interiorul insulei Santiago ?i re?edin?a municipiului São Lourenço dos Órgãos.", en: "João Teves is a city in the interior of Santiago and the seat of the São Lourenço dos Órgãos municipality.", es: "João Teves es una ciudad en el interior de Santiago y sede del municipio de São Lourenço dos Órgãos.", pt: "João Teves é uma cidade no interior de Santiago e sede do concelho de São Lourenço dos Órgãos.", fr: "João Teves est une ville de l'intérieur de l'île de Santiago et le siège de la municipalité de São Lourenço dos Órgãos."}, facts: {de: ["Gelegen in einer fertilem Tal", "Zentrum für Gartenbau und Pflanzenzucht", "Umgeben von markanten Bergformationen", "Wichtiger lokaler Marktort"], hu: ["Egy termékeny völgyben fekszik", "A kertészet és a növénynemesítés központja", "Jellegzetes hegyvonulatok veszik körül", "Fontos helyi piaci helyszín"], ro: ["Situat într-o vale fertila", "Centru pentru horticultura ?i ameliorarea plantelor", "Înconjurat de formațiuni muntoase distinctive", "Loc important de pia?a locala"], en: ["Located in a fertile valley", "Center for horticulture and plant breeding", "Surrounded by striking mountain formations", "Important local market location"], es: ["Situado en un valle fértil", "Centro de horticultura y cría de plantas", "Rodeado de formaciones montañosas prominentes", "Importante lugar de mercado local"], pt: ["Situado num vale fértil", "Centro de horticultura e viveiros de plantas", "Rodeado de formações montanhosas proeminentes", "Local de mercado importante a nível local"], fr: ["Situé dans une vallée fertile", "Centre d'horticulture et de pépinières", "Entouré de formations montagneuses remarquables", "Lieu de marché local important"]}, image: "/poi-images/joao-teves-cities-v2.webp",
     descriptionAdvanced: {
@@ -893,51 +673,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
   {id: "chao-bom-cities-v2", "sights": {
       "de": [
             {
-                  "name": "King fisher",
-                  "text": "Erholungsgebiet Kingfisher an der Küste von Bom.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.757746,
-                        15.275385
-                  ]
-            },
-            {
-                  "name": "Surf",
-                  "text": "Surf ist ein Strand an der Küste von Chão Bom.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.75868,
-                        15.272502
-                  ]
-            },
-            {
-                  "name": "Mar di Baxu",
-                  "text": "Mar di Baxu Strand mit ruhigem türkisfarbenem Wasser in Bom.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.754786,
-                        15.279484
-                  ]
-            },
-            {
-                  "name": "Praia do Tarrafal",
-                  "text": "Angrenzend an das Gebiet von Chão Bom offenbart dieser Abschnitt des Praia do Tarrafal eine wunderbar malerische Seite der Kapverden. Die Stimmung hier ist etwas ruhiger und bietet eine optisch atemberaubende Kulisse für absolute Entspannung. Sie können Ihre Zeit problemlos mit Schwimmen im klaren Wasser, Entspannen auf dem warmen Sand und Spaziergängen am Meer verbringen. Für das beste Erlebnis empfiehlt sich ein Besuch am Morgen, wenn die Sonne noch sanft ist.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.753245,
-                        15.281285
-                  ]
-            },
-            {
-                  "name": "Tarrafal Letras",
-                  "text": "Das Tarrafal-Letras-Wahrzeichen zeigt große weiße Buchstaben an einem Hügel oberhalb von Bom.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.756195,
-                        15.279292
-                  ]
-            },
-            {
                   "name": "Latrines",
                   "text": "Historische öffentliche Latrinen im Zentrum von Bom.",
                   "category": "landmark",
@@ -957,51 +692,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "King fisher",
-                  "text": "Kingfisher rekreációs terület Bom partján.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.757746,
-                        15.275385
-                  ]
-            },
-            {
-                  "name": "Surf",
-                  "text": "A Surf egy tengerparti szakasz Chão Bom városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.75868,
-                        15.272502
-                  ]
-            },
-            {
-                  "name": "Mar di Baxu",
-                  "text": "Mar di Baxu strand nyugodt türkizkék vízzel Bom-ban.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.754786,
-                        15.279484
-                  ]
-            },
-            {
-                  "name": "Praia do Tarrafal",
-                  "text": "A Chão Bom területével határos Praia do Tarrafal ezen szakasza a Zöld-foki Köztársaság csodálatosan festői oldalát tárja fel. A hangulat itt egy kicsit nyugodtabb, vizuálisan lenyűgöző hátteret biztosítva a teljes kikapcsolódáshoz. Könnyen eltöltheti idejét a tiszta vízben úszva, a meleg homokban pihenve és a tengerparton sétálva. A legjobb élmény érdekében látogasson el ide reggel, amikor a nap még kíméletes.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.753245,
-                        15.281285
-                  ]
-            },
-            {
-                  "name": "Tarrafal Letras",
-                  "text": "A Tarrafal Letras nevezetességen nagy fehér betűk láthatók egy dombon Bom fölött.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.756195,
-                        15.279292
-                  ]
-            },
             {
                   "name": "Latrines",
                   "text": "Történelmi nyilvános illemhelyek Bom központjában.",
@@ -1023,51 +713,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "King fisher",
-                  "text": "Zona recreațională Kingfisher pe coasta din Bom.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.757746,
-                        15.275385
-                  ]
-            },
-            {
-                  "name": "Surf",
-                  "text": "Surf este o plajă situată pe coasta din Chão Bom.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.75868,
-                        15.272502
-                  ]
-            },
-            {
-                  "name": "Mar di Baxu",
-                  "text": "Plaja Mar di Baxu cu ape liniștite turcoaz în Bom.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.754786,
-                        15.279484
-                  ]
-            },
-            {
-                  "name": "Praia do Tarrafal",
-                  "text": "Mărginită de zona Chão Bom, această secțiune din Praia do Tarrafal dezvăluie o latură minunat de pitorească a Capului Verde. Starea de spirit aici este ceva mai senină, oferind un fundal vizual uimitor pentru relaxare absolută. Vă puteți petrece cu ușurință timpul înotând în apa limpede, relaxându-vă pe nisipul cald și plimbându-vă pe malul mării. Pentru cea mai bună experiență, vizitați în timpul dimineții, când soarele este blând.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.753245,
-                        15.281285
-                  ]
-            },
-            {
-                  "name": "Tarrafal Letras",
-                  "text": "Reperul Tarrafal Letras are litere mari albe pe un deal deasupra orașului Bom.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.756195,
-                        15.279292
-                  ]
-            },
-            {
                   "name": "Latrines",
                   "text": "Latrine publice istorice în centrul orașului Bom.",
                   "category": "landmark",
@@ -1087,51 +732,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "King fisher",
-                  "text": "Kingfisher recreational area along the coast of Bom.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.757746,
-                        15.275385
-                  ]
-            },
-            {
-                  "name": "Surf",
-                  "text": "Surf is a beach located in the coastal area of Chão Bom.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.75868,
-                        15.272502
-                  ]
-            },
-            {
-                  "name": "Mar di Baxu",
-                  "text": "Mar di Baxu beach with calm turquoise waters in Bom.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.754786,
-                        15.279484
-                  ]
-            },
-            {
-                  "name": "Praia do Tarrafal",
-                  "text": "Bordering the area of Chão Bom, this section of Praia do Tarrafal reveals a wonderfully picturesque side of Cape Verde. The mood here is slightly more serene, offering a visually stunning backdrop for absolute relaxation. You can easily spend your time swimming in the clear water, relaxing on the warm sand, and strolling by the sea. For the best experience, visit during the morning when the sun is gentle.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.753245,
-                        15.281285
-                  ]
-            },
-            {
-                  "name": "Tarrafal Letras",
-                  "text": "The Tarrafal Letras landmark features large white letters on a hillside overlooking Bom.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.756195,
-                        15.279292
-                  ]
-            },
             {
                   "name": "Latrines",
                   "text": "Historic public latrines in the center of Bom.",
@@ -1238,66 +838,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
   {id: "mindelo-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Fortim D'El Rei",
-                  "text": "Fortim D'El Rei ist eine historische Festung über der Bucht in Mindelo.",
-                  "category": "fortress",
-                  "coords": [
-                        -24.993309,
-                        16.890483
-                  ]
-            },
-            {
                   "name": "Eden Park Cine-Theatre",
                   "text": "Eden Park Cine-Theatre in Mindelo ist ein historisches Kino im Art-Déco-Stil.",
                   "category": "cultural",
                   "coords": [
                         -24.98734,
                         16.889957
-                  ]
-            },
-            {
-                  "name": "Núcleo Museológico Cesária Évora",
-                  "text": "Museum, das Cesária Évora gewidmet ist und ihre persönlichen Gegenstände und Auszeichnungen zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -24.986495,
-                        16.884787
-                  ]
-            },
-            {
-                  "name": "Praia de Laginha",
-                  "text": "Im lebhaften Mindelo gelegen, sticht der Praia de Laginha als einladender Stadtstrand hervor. Die lokale Atmosphäre ist dynamisch und gastfreundlich und dient als beliebter sozialer Treffpunkt für die Einwohner. Besucher können das Schwimmen im Ozean nahtlos mit dem Sonnenbaden und energiegeladenen Spaziergängen am Wasser verbinden. Es ist immer eine lohnende Entscheidung, für einen farbenfrohen Sonnenuntergang hier zu bleiben.",
-                  "category": "recreational",
-                  "coords": [
-                        -24.992931,
-                        16.894467
-                  ]
-            },
-            {
-                  "name": "Monte de São João",
-                  "text": "Ein Berg auf der Insel São Vicente in Kap Verde nahe der Hafenstadt Mindelo.",
-                  "category": "natural",
-                  "coords": [
-                        -24.99541,
-                        16.864271
-                  ]
-            },
-            {
-                  "name": "Porto Grande",
-                  "text": "Der natürliche Hafen von Mindelo auf der Insel São Vicente in Kap Verde.",
-                  "category": "landmark",
-                  "coords": [
-                        -25.002888,
-                        16.883188
-                  ]
-            },
-            {
-                  "name": "Diogo Afonsó",
-                  "text": "Denkmal für den Entdecker Diogo Afonsó am Hafen von Mindelo.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.989831,
-                        16.884722
                   ]
             },
             {
@@ -1310,24 +856,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Former Flight Defense Artillery",
-                  "text": "Überreste einer ehemaligen Flugabwehrbatterie auf den Hügeln oberhalb von Mindelo.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.983305,
-                        16.873266
-                  ]
-            },
-            {
-                  "name": "Former Artillery",
-                  "text": "Ehemalige Artilleriebefestigung mit Blick auf die Bucht von Mindelo.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.998119,
-                        16.905776
-                  ]
-            },
-            {
                   "name": "Gago Coutinho e Sacadura Cabral",
                   "text": "Denkmal für die Flieger Gago Coutinho und Sacadura Cabral am Hafen von Mindelo.",
                   "category": "landmark",
@@ -1337,75 +865,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Cesária Évora",
-                  "text": "Das ehemalige Haus der Sängerin Cesária Évora im historischen Zentrum von Mindelo.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.98573,
-                        16.885926
-                  ]
-            },
-            {
-                  "name": "Alfândega Velha - Centro Cultural do Mindelo",
-                  "text": "Altes Zollhaus, heute Kulturzentrum im Hafenviertel von Mindelo.",
-                  "category": "cultural",
-                  "coords": [
-                        -24.989022,
-                        16.887002
-                  ]
-            },
-            {
-                  "name": "Corsino Antonio Fortes",
-                  "text": "Büste des Dichters Corsino Antonio Fortes in der Bibliothek von Mindelo.",
-                  "category": "historical",
-                  "coords": [
-                        -24.986348,
-                        16.895409
-                  ]
-            },
-            {
                   "name": "Manuel d'Novas",
                   "text": "Denkmal für den Komponisten Manuel d’Novas in Mindelo.",
                   "category": "historical",
                   "coords": [
                         -24.992817,
                         16.889219
-                  ]
-            },
-            {
-                  "name": "Luís Morais",
-                  "text": "Büste des Schriftstellers Luís Morais im Kulturzentrum von Mindelo.",
-                  "category": "historical",
-                  "coords": [
-                        -24.989541,
-                        16.88827
-                  ]
-            },
-            {
-                  "name": "B. Leza",
-                  "text": "Gedenkstätte für den Musiker B. Leza am Marktplatz von Mindelo.",
-                  "category": "historical",
-                  "coords": [
-                        -24.98579,
-                        16.880048
-                  ]
-            },
-            {
-                  "name": "Zero Point Art Gallery",
-                  "text": "Zero Point Art Gallery zeigt zeitgenössische kapverdische Kunst in Mindelo.",
-                  "category": "museum",
-                  "coords": [
-                        -24.986391,
-                        16.887494
-                  ]
-            },
-            {
-                  "name": "Fresques",
-                  "text": "Farbenfrohe Fresken an Gebäuden in der Altstadt von Mindelo.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.98793,
-                        16.88367
                   ]
             },
             {
@@ -1420,66 +885,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Fortim D'El Rei",
-                  "text": "A Fortim D'El Rei egy történelmi erőd az öböl felett Mindelo városában.",
-                  "category": "fortress",
-                  "coords": [
-                        -24.993309,
-                        16.890483
-                  ]
-            },
-            {
                   "name": "Eden Park Cine-Theatre",
                   "text": "Az Eden Park Cine-Theatre Mindelóban egy történelmi mozi Art Deco stílusban.",
                   "category": "cultural",
                   "coords": [
                         -24.98734,
                         16.889957
-                  ]
-            },
-            {
-                  "name": "Núcleo Museológico Cesária Évora",
-                  "text": "Cesária Évora múzeuma, amely személyes tárgyait és díjait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -24.986495,
-                        16.884787
-                  ]
-            },
-            {
-                  "name": "Praia de Laginha",
-                  "text": "A nyüzsgő Mindelo városában elhelyezkedő Praia de Laginha hívogató városi strandként emelkedik ki. A helyi atmoszféra dinamikus és barátságos, és népszerű társadalmi központként szolgál a lakosok számára. A látogatók zökkenőmentesen ötvözhetik az óceánban való úszást a napozással és az energikus vízparti sétákkal. Ha úgy tervezzük, hogy egy élénk naplementére is maradunk, az mindig hálás döntés.",
-                  "category": "recreational",
-                  "coords": [
-                        -24.992931,
-                        16.894467
-                  ]
-            },
-            {
-                  "name": "Monte de São João",
-                  "text": "Egy hegy a São Vicente szigeten (Zöld-foki Köztársaság), a kikötőváros Mindelo közelében.",
-                  "category": "natural",
-                  "coords": [
-                        -24.99541,
-                        16.864271
-                  ]
-            },
-            {
-                  "name": "Porto Grande",
-                  "text": "Mindelo természetes kikötője a São Vicente szigeten, Zöld-foki Köztársaság.",
-                  "category": "landmark",
-                  "coords": [
-                        -25.002888,
-                        16.883188
-                  ]
-            },
-            {
-                  "name": "Diogo Afonsó",
-                  "text": "Diogo Afonsó felfedező emlékműve a mindelói kikötőben.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.989831,
-                        16.884722
                   ]
             },
             {
@@ -1492,24 +903,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Former Flight Defense Artillery",
-                  "text": "Egykori légvédelmi üteg maradványai a mindelói dombokon.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.983305,
-                        16.873266
-                  ]
-            },
-            {
-                  "name": "Former Artillery",
-                  "text": "Egykori tüzérségi erődítés kilátással a mindelói öbölre.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.998119,
-                        16.905776
-                  ]
-            },
-            {
                   "name": "Gago Coutinho e Sacadura Cabral",
                   "text": "Gago Coutinho és Sacadura Cabral repülők emlékműve a mindelói kikötőben.",
                   "category": "landmark",
@@ -1519,75 +912,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Cesária Évora",
-                  "text": "Cesária Évora énekesnő egykori otthona a mindelói történelmi központban.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.98573,
-                        16.885926
-                  ]
-            },
-            {
-                  "name": "Alfândega Velha - Centro Cultural do Mindelo",
-                  "text": "Régi vámház, ma kulturális központ a mindelói kikötő negyedben.",
-                  "category": "cultural",
-                  "coords": [
-                        -24.989022,
-                        16.887002
-                  ]
-            },
-            {
-                  "name": "Corsino Antonio Fortes",
-                  "text": "Corsino Antonio Fortes költő mellszobra a mindelói könyvtárban.",
-                  "category": "historical",
-                  "coords": [
-                        -24.986348,
-                        16.895409
-                  ]
-            },
-            {
                   "name": "Manuel d'Novas",
                   "text": "Manuel d'Novas zeneszerző emlékműve Mindelóban.",
                   "category": "historical",
                   "coords": [
                         -24.992817,
                         16.889219
-                  ]
-            },
-            {
-                  "name": "Luís Morais",
-                  "text": "Luís Morais író mellszobra a mindelói kulturális központban.",
-                  "category": "historical",
-                  "coords": [
-                        -24.989541,
-                        16.88827
-                  ]
-            },
-            {
-                  "name": "B. Leza",
-                  "text": "B. Leza zenész emlékhelye a mindelói piactéren.",
-                  "category": "historical",
-                  "coords": [
-                        -24.98579,
-                        16.880048
-                  ]
-            },
-            {
-                  "name": "Zero Point Art Gallery",
-                  "text": "A Zero Point Art Gallery kortárs zöld-foki művészetet mutat be Mindelóban.",
-                  "category": "museum",
-                  "coords": [
-                        -24.986391,
-                        16.887494
-                  ]
-            },
-            {
-                  "name": "Fresques",
-                  "text": "Színes falfestmények a mindelói óváros épületein.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.98793,
-                        16.88367
                   ]
             },
             {
@@ -1602,66 +932,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Fortim D'El Rei",
-                  "text": "Fortim D'El Rei este un fort istoric deasupra golfului din Mindelo.",
-                  "category": "fortress",
-                  "coords": [
-                        -24.993309,
-                        16.890483
-                  ]
-            },
-            {
                   "name": "Eden Park Cine-Theatre",
                   "text": "Eden Park Cine-Theatre din Mindelo este un cinematograf istoric în stil Art Deco.",
                   "category": "cultural",
                   "coords": [
                         -24.98734,
                         16.889957
-                  ]
-            },
-            {
-                  "name": "Núcleo Museológico Cesária Évora",
-                  "text": "Muzeul dedicat Cesáriei Évora, care expune obiecte personale și premii.",
-                  "category": "museum",
-                  "coords": [
-                        -24.986495,
-                        16.884787
-                  ]
-            },
-            {
-                  "name": "Praia de Laginha",
-                  "text": "Situată în orașul plin de viață Mindelo, Praia de Laginha iese în evidență ca o plajă urbană primitoare. Atmosfera locală este dinamică și ospitalieră, servind ca un centru social popular pentru rezidenți. Vizitatorii pot îmbina perfect înotul în ocean cu plaja și plimbările energice pe faleză. Planificarea unei șederi aici pentru un apus de soare vibrant este întotdeauna o decizie plină de satisfacții.",
-                  "category": "recreational",
-                  "coords": [
-                        -24.992931,
-                        16.894467
-                  ]
-            },
-            {
-                  "name": "Monte de São João",
-                  "text": "Un munte pe insula São Vicente din Capul Verde, lângă orașul-port Mindelo.",
-                  "category": "natural",
-                  "coords": [
-                        -24.99541,
-                        16.864271
-                  ]
-            },
-            {
-                  "name": "Porto Grande",
-                  "text": "Portul natural al orașului Mindelo pe insula São Vicente, Capul Verde.",
-                  "category": "landmark",
-                  "coords": [
-                        -25.002888,
-                        16.883188
-                  ]
-            },
-            {
-                  "name": "Diogo Afonsó",
-                  "text": "Monumentul exploratorului Diogo Afonsó în portul Mindelo.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.989831,
-                        16.884722
                   ]
             },
             {
@@ -1674,24 +950,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Former Flight Defense Artillery",
-                  "text": "Vestigiile unei foste baterii de apărare antiaeriană pe dealurile deasupra Mindelo.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.983305,
-                        16.873266
-                  ]
-            },
-            {
-                  "name": "Former Artillery",
-                  "text": "Fostă fortificație de artilerie cu vedere spre golful Mindelo.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.998119,
-                        16.905776
-                  ]
-            },
-            {
                   "name": "Gago Coutinho e Sacadura Cabral",
                   "text": "Monumentul aviatorilor Gago Coutinho și Sacadura Cabral în portul Mindelo.",
                   "category": "landmark",
@@ -1701,75 +959,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Casa Cesária Évora",
-                  "text": "Fosta casă a cântăreței Cesária Évora în centrul istoric al Mindelo.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.98573,
-                        16.885926
-                  ]
-            },
-            {
-                  "name": "Alfândega Velha - Centro Cultural do Mindelo",
-                  "text": "Vechea vamă transformată în centru cultural în zona portului Mindelo.",
-                  "category": "cultural",
-                  "coords": [
-                        -24.989022,
-                        16.887002
-                  ]
-            },
-            {
-                  "name": "Corsino Antonio Fortes",
-                  "text": "Bustul poetului Corsino Antonio Fortes în biblioteca din Mindelo.",
-                  "category": "historical",
-                  "coords": [
-                        -24.986348,
-                        16.895409
-                  ]
-            },
-            {
                   "name": "Manuel d'Novas",
                   "text": "Monumentul compozitorului Manuel d'Novas în Mindelo.",
                   "category": "historical",
                   "coords": [
                         -24.992817,
                         16.889219
-                  ]
-            },
-            {
-                  "name": "Luís Morais",
-                  "text": "Bustul scriitorului Luís Morais în centrul cultural din Mindelo.",
-                  "category": "historical",
-                  "coords": [
-                        -24.989541,
-                        16.88827
-                  ]
-            },
-            {
-                  "name": "B. Leza",
-                  "text": "Memorialul muzicianului B. Leza în piața pieței din Mindelo.",
-                  "category": "historical",
-                  "coords": [
-                        -24.98579,
-                        16.880048
-                  ]
-            },
-            {
-                  "name": "Zero Point Art Gallery",
-                  "text": "Zero Point Art Gallery expune artă contemporană capverdiană în Mindelo.",
-                  "category": "museum",
-                  "coords": [
-                        -24.986391,
-                        16.887494
-                  ]
-            },
-            {
-                  "name": "Fresques",
-                  "text": "Frescuri colorate pe clădirile din centrul vechi al Mindeloului.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.98793,
-                        16.88367
                   ]
             },
             {
@@ -1784,66 +979,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Fortim D'El Rei",
-                  "text": "Fortim D'El Rei is a historic fortress overlooking Porto Grande Bay in Mindelo.",
-                  "category": "fortress",
-                  "coords": [
-                        -24.993309,
-                        16.890483
-                  ]
-            },
-            {
                   "name": "Eden Park Cine-Theatre",
                   "text": "Eden Park Cine-Theatre in Mindelo is a historic cinema with Art Deco architecture.",
                   "category": "cultural",
                   "coords": [
                         -24.98734,
                         16.889957
-                  ]
-            },
-            {
-                  "name": "Núcleo Museológico Cesária Évora",
-                  "text": "Museum dedicated to Cesária Évora, displaying her personal belongings and awards.",
-                  "category": "museum",
-                  "coords": [
-                        -24.986495,
-                        16.884787
-                  ]
-            },
-            {
-                  "name": "Praia de Laginha",
-                  "text": "Set in the lively city of Mindelo, Praia de Laginha stands out as an inviting urban beach. The local atmosphere is dynamic and welcoming, serving as a popular social hub for residents. Visitors can seamlessly blend swimming in the ocean with sunbathing and enjoying energetic waterfront walks. Planning to stay here for a vibrant sunset is always a rewarding decision.",
-                  "category": "recreational",
-                  "coords": [
-                        -24.992931,
-                        16.894467
-                  ]
-            },
-            {
-                  "name": "Monte de São João",
-                  "text": "A mountain on São Vicente Island, Cape Verde, near the port city of Mindelo.",
-                  "category": "natural",
-                  "coords": [
-                        -24.99541,
-                        16.864271
-                  ]
-            },
-            {
-                  "name": "Porto Grande",
-                  "text": "The natural harbor of Mindelo on São Vicente Island, Cape Verde.",
-                  "category": "landmark",
-                  "coords": [
-                        -25.002888,
-                        16.883188
-                  ]
-            },
-            {
-                  "name": "Diogo Afonsó",
-                  "text": "Monument to explorer Diogo Afonsó at the port of Mindelo.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.989831,
-                        16.884722
                   ]
             },
             {
@@ -1856,24 +997,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Former Flight Defense Artillery",
-                  "text": "Remains of a former flight defense artillery battery on the hills above Mindelo.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.983305,
-                        16.873266
-                  ]
-            },
-            {
-                  "name": "Former Artillery",
-                  "text": "Former artillery fortification overlooking Mindelo's bay.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.998119,
-                        16.905776
-                  ]
-            },
-            {
                   "name": "Gago Coutinho e Sacadura Cabral",
                   "text": "Monument to aviators Gago Coutinho and Sacadura Cabral at Mindelo's harbor.",
                   "category": "landmark",
@@ -1883,75 +1006,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Cesária Évora Home",
-                  "text": "The former home of singer Cesária Évora in Mindelo's historic center.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.98573,
-                        16.885926
-                  ]
-            },
-            {
-                  "name": "Alfândega Velha - Centro Cultural do Mindelo",
-                  "text": "Old Customs House turned cultural center in Mindelo's port area.",
-                  "category": "cultural",
-                  "coords": [
-                        -24.989022,
-                        16.887002
-                  ]
-            },
-            {
-                  "name": "Corsino Antonio Fortes",
-                  "text": "Bust of poet Corsino Antonio Fortes in Mindelo's library.",
-                  "category": "historical",
-                  "coords": [
-                        -24.986348,
-                        16.895409
-                  ]
-            },
-            {
                   "name": "Manuel d'Novas",
                   "text": "Monument to composer Manuel d'Novas in Mindelo.",
                   "category": "historical",
                   "coords": [
                         -24.992817,
                         16.889219
-                  ]
-            },
-            {
-                  "name": "Luís Morais",
-                  "text": "Bust of writer Luís Morais in Mindelo's cultural center.",
-                  "category": "historical",
-                  "coords": [
-                        -24.989541,
-                        16.88827
-                  ]
-            },
-            {
-                  "name": "B. Leza",
-                  "text": "Memorial to musician B. Leza in Mindelo's market square.",
-                  "category": "historical",
-                  "coords": [
-                        -24.98579,
-                        16.880048
-                  ]
-            },
-            {
-                  "name": "Zero Point Art Gallery",
-                  "text": "Zero Point Art Gallery showcasing contemporary Cape Verdean art in Mindelo.",
-                  "category": "museum",
-                  "coords": [
-                        -24.986391,
-                        16.887494
-                  ]
-            },
-            {
-                  "name": "Fresques",
-                  "text": "Colorful frescoes on buildings in Mindelo's old town.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.98793,
-                        16.88367
                   ]
             },
             {
@@ -2208,15 +1268,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                         -24.924916,
                         16.871761
                   ]
-            },
-            {
-                  "name": "Salamansa golfcourse",
-                  "text": "Salamansa Golfplatz an der Küste bei Das Gatas.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.933004,
-                        16.908129
-                  ]
             }
       ],
       "hu": [
@@ -2236,15 +1287,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -24.924916,
                         16.871761
-                  ]
-            },
-            {
-                  "name": "Salamansa golfcourse",
-                  "text": "Salamansa golfpálya a parton Das Gatas közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.933004,
-                        16.908129
                   ]
             }
       ],
@@ -2266,15 +1308,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                         -24.924916,
                         16.871761
                   ]
-            },
-            {
-                  "name": "Salamansa golfcourse",
-                  "text": "Teremul de golf Salamansa pe coasta lângă Das Gatas.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.933004,
-                        16.908129
-                  ]
             }
       ],
       "en": [
@@ -2294,15 +1327,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -24.924916,
                         16.871761
-                  ]
-            },
-            {
-                  "name": "Salamansa golfcourse",
-                  "text": "Salamansa golf course on the coast near Das Gatas.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.933004,
-                        16.908129
                   ]
             }
       ]
@@ -2337,15 +1361,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                         -22.945843,
                         16.753401
                   ]
-            },
-            {
-                  "name": "Monte Curral",
-                  "text": "Monte Curral Hügel mit Aussichtspunkt über Espargos und den Flughafen.",
-                  "category": "natural",
-                  "coords": [
-                        -22.94322,
-                        16.756971
-                  ]
             }
       ],
       "hu": [
@@ -2356,15 +1371,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -22.945843,
                         16.753401
-                  ]
-            },
-            {
-                  "name": "Monte Curral",
-                  "text": "Monte Curral domb kilátóponttal Espargosra és a repülőtérre.",
-                  "category": "natural",
-                  "coords": [
-                        -22.94322,
-                        16.756971
                   ]
             }
       ],
@@ -2377,15 +1383,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                         -22.945843,
                         16.753401
                   ]
-            },
-            {
-                  "name": "Monte Curral",
-                  "text": "Dealul Monte Curral cu punct de belvedere peste Espargos și aeroport.",
-                  "category": "natural",
-                  "coords": [
-                        -22.94322,
-                        16.756971
-                  ]
             }
       ],
       "en": [
@@ -2396,15 +1393,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -22.945843,
                         16.753401
-                  ]
-            },
-            {
-                  "name": "Monte Curral",
-                  "text": "Monte Curral hill with a viewpoint overlooking Espargos and the airport.",
-                  "category": "natural",
-                  "coords": [
-                        -22.94322,
-                        16.756971
                   ]
             }
       ]
@@ -2450,15 +1438,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Faro Antigo do Sinó",
-                  "text": "Alter Sinó-Leuchtturm, ein historischer Steinturm an der Küste von Santa Maria.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.923154,
-                        16.586068
-                  ]
-            },
-            {
                   "name": "Museu do Sal",
                   "text": "Salzmuseum in Santa Maria zur Geschichte der Salzproduktion.",
                   "category": "museum",
@@ -2468,39 +1447,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "theatro",
-                  "text": "Theatro in Santa Maria, eine kleine Aufführungsstätte mit lokalen Shows.",
-                  "category": "cultural",
-                  "coords": [
-                        -22.92385,
-                        16.595285
-                  ]
-            },
-            {
-                  "name": "Praia de Igrejinha",
-                  "text": "Die in der Küstengegend von Santa Maria gelegene Praia de Igrejinha ist ein herrliches Ziel für einen Tagesausflug. Der sanfte Rhythmus des Ozeans macht es perfekt für gelegentliches Schwimmen und ausgedehnte Strandspaziergänge. Die allgemeine Atmosphäre lädt sowohl zu ruhigem Nachdenken als auch zum Sonnenbaden ein. Der späte Nachmittag ist eine schöne Zeit, um das wechselnde Licht über dem Wasser zu genießen.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.888436,
-                        16.600463
-                  ]
-            },
-            {
                   "name": "Praia António Sousa",
                   "text": "Praia António Sousa bietet einen einladenden Küstenabschnitt in der lebhaften Stadt Santa Maria. Dieser Strand ist eine schöne Kulisse, um in die Küstenlandschaft einzutauchen oder ein erfrischendes Bad zu nehmen. Es gibt eine angenehme Balance zwischen dem Genießen des pulsierenden lokalen Lebens und dem Finden eines Moments der Ruhe. Ein Besuch an Wochentagen kann ein etwas ruhigeres Erlebnis bieten.",
                   "category": "recreational",
                   "coords": [
                         -22.899032,
                         16.596113
-                  ]
-            },
-            {
-                  "name": "Teatro Vila do Farol",
-                  "text": "Teatro Vila do Farol, ein restauriertes Kolonialgebäude für Theater und Filme in Santa Maria.",
-                  "category": "cultural",
-                  "coords": [
-                        -22.920656,
-                        16.591372
                   ]
             },
             {
@@ -2519,33 +1471,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -22.922764,
                         16.591517
-                  ]
-            },
-            {
-                  "name": "Salinas Velhas",
-                  "text": "Alte Salinen in Santa Maria, heute eine historische Stätte mit Salzhügeln und Tierwelt.",
-                  "category": "historical",
-                  "coords": [
-                        -22.899766,
-                        16.607048
-                  ]
-            },
-            {
-                  "name": "Shell Cemetery",
-                  "text": "Shell Cemetery in Santa Maria, ein einzigartiger Friedhof mit muschelbesetzten Gräbern.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.894521,
-                        16.595186
-                  ]
-            },
-            {
-                  "name": "Project Biodiversity;Projeto Biodiversidade",
-                  "text": "Project Biodiversity Meeresschildkröten-Aufzuchtstation in Santa Maria zum Schutz nistender Schildkröten.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.927495,
-                        16.593913
                   ]
             },
             {
@@ -2587,15 +1512,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Faro Antigo do Sinó",
-                  "text": "Régi Sinó világítótorony, történelmi kőtorony Santa Maria partján.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.923154,
-                        16.586068
-                  ]
-            },
-            {
                   "name": "Museu do Sal",
                   "text": "Só Múzeum Santa Mariában, a sótermelés történetét bemutatva.",
                   "category": "museum",
@@ -2605,39 +1521,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "theatro",
-                  "text": "Theatro Santa Mariában, egy kicsi előadóhely helyi műsorokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        -22.92385,
-                        16.595285
-                  ]
-            },
-            {
-                  "name": "Praia de Igrejinha",
-                  "text": "A Santa Maria part menti területén található Praia de Igrejinha elragadó úti cél egy egynapos kiránduláshoz. Az óceán lágy ritmusa tökéletessé teszi egy könnyed úszáshoz és hosszú parti sétákhoz. Általános hangulata csendes elmélkedésre és gondtalan napozásra egyaránt hívogat. A késő délután csodás időszak arra, hogy megcsodáljuk a víz felett változó fényeket.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.888436,
-                        16.600463
-                  ]
-            },
-            {
                   "name": "Praia António Sousa",
                   "text": "A Praia António Sousa hívogató partszakaszt kínál a nyüzsgő Santa Maria városában. Ez a strand szép helyszín arra, hogy elmerüljünk a partvidéki tájban, vagy élvezzünk egy frissítő csobbanást. Kellemes egyensúlyt teremt a pezsgő helyi élet élvezete és a pihenésre szánt pillanatok megtalálása között. A hétköznapi látogatás némileg csendesebb élményt nyújthat.",
                   "category": "recreational",
                   "coords": [
                         -22.899032,
                         16.596113
-                  ]
-            },
-            {
-                  "name": "Teatro Vila do Farol",
-                  "text": "Teatro Vila do Farol, egy felújított gyarmati épület színháznak és filmeknek Santa Mariában.",
-                  "category": "cultural",
-                  "coords": [
-                        -22.920656,
-                        16.591372
                   ]
             },
             {
@@ -2656,33 +1545,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -22.922764,
                         16.591517
-                  ]
-            },
-            {
-                  "name": "Salinas Velhas",
-                  "text": "Régi sólepárlók Santa Mariában, ma történelmi hely sódombokkal és vadvilággal.",
-                  "category": "historical",
-                  "coords": [
-                        -22.899766,
-                        16.607048
-                  ]
-            },
-            {
-                  "name": "Shell Cemetery",
-                  "text": "Shell Cemetery Santa Mariában, egy egyedi temető kagylókkal borított sírokkal.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.894521,
-                        16.595186
-                  ]
-            },
-            {
-                  "name": "Project Biodiversity;Projeto Biodiversidade",
-                  "text": "Project Biodiversity tengeriteknős-védelmi keltető Santa Mariában a fészkelő teknősök védelmére.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.927495,
-                        16.593913
                   ]
             },
             {
@@ -2724,15 +1586,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Faro Antigo do Sinó",
-                  "text": "Farul vechi Sinó, un turn istoric de piatră pe coasta Santa Maria.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.923154,
-                        16.586068
-                  ]
-            },
-            {
                   "name": "Museu do Sal",
                   "text": "Muzeul Sării din Santa Maria care prezintă istoria producției de sare.",
                   "category": "museum",
@@ -2742,39 +1595,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "theatro",
-                  "text": "Theatro din Santa Maria, o mică sală de spectacole cu show-uri locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -22.92385,
-                        16.595285
-                  ]
-            },
-            {
-                  "name": "Praia de Igrejinha",
-                  "text": "Aflată în zona de coastă a orașului Santa Maria, Praia de Igrejinha oferă o destinație încântătoare pentru o zi în aer liber. Ritmul blând al oceanului o face perfectă pentru înot ocazional și plimbări lungi pe plajă. Ambianta sa generală invită atât la reflecție liniștită, cât și la plajă. După-amiaza târziu este un moment minunat pentru a admira lumina schimbătoare deasupra apei.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.888436,
-                        16.600463
-                  ]
-            },
-            {
                   "name": "Praia António Sousa",
                   "text": "Praia António Sousa prezintă o întindere primitoare de țărm în vibrantul oraș Santa Maria. Această plajă este un cadru frumos pentru a vă cufunda în peisajul de coastă sau pentru a vă bucura de o baie răcoritoare. Există un echilibru confortabil între a te bucura de viața locală vibrantă și a găsi un moment de odihnă. O vizită în timpul săptămânii ar putea oferi o experiență ceva mai liniștită.",
                   "category": "recreational",
                   "coords": [
                         -22.899032,
                         16.596113
-                  ]
-            },
-            {
-                  "name": "Teatro Vila do Farol",
-                  "text": "Teatro Vila do Farol, o clădire colonială restaurată pentru piese de teatru și filme în Santa Maria.",
-                  "category": "cultural",
-                  "coords": [
-                        -22.920656,
-                        16.591372
                   ]
             },
             {
@@ -2793,33 +1619,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -22.922764,
                         16.591517
-                  ]
-            },
-            {
-                  "name": "Salinas Velhas",
-                  "text": "Saline vechi în Santa Maria, acum sit istoric cu movile de sare și faună sălbatică.",
-                  "category": "historical",
-                  "coords": [
-                        -22.899766,
-                        16.607048
-                  ]
-            },
-            {
-                  "name": "Shell Cemetery",
-                  "text": "Cimitirul Shell din Santa Maria, un cimitir unic cu morminte acoperite cu scoici.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.894521,
-                        16.595186
-                  ]
-            },
-            {
-                  "name": "Project Biodiversity;Projeto Biodiversidade",
-                  "text": "Proiectul Biodiversity – Stația de incubație a țestoaselor marine din Santa Maria pentru protejarea țestoaselor cuibăritoare.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.927495,
-                        16.593913
                   ]
             },
             {
@@ -2861,15 +1660,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Faro Antigo do Sinó",
-                  "text": "Old Sinó lighthouse, a historic stone tower on the coast of Santa Maria.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.923154,
-                        16.586068
-                  ]
-            },
-            {
                   "name": "Museu do Sal",
                   "text": "Salt museum in Santa Maria exhibiting the history of salt production.",
                   "category": "museum",
@@ -2879,39 +1669,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "theatro",
-                  "text": "Theatro in Santa Maria, a small performance venue with local shows.",
-                  "category": "cultural",
-                  "coords": [
-                        -22.92385,
-                        16.595285
-                  ]
-            },
-            {
-                  "name": "Praia de Igrejinha",
-                  "text": "Found within the coastal area of Santa Maria, Praia de Igrejinha provides a delightful destination for a day out. The gentle rhythm of the ocean makes it perfect for casual swims and long beach strolls. Its general ambiance is inviting for both quiet reflection and casual sunbathing. Late afternoon is a lovely time to appreciate the changing light over the water.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.888436,
-                        16.600463
-                  ]
-            },
-            {
                   "name": "Praia António Sousa",
                   "text": "Praia António Sousa presents a welcoming stretch of shoreline in the vibrant town of Santa Maria. This beach is a nice setting for immersing oneself in the coastal scenery or enjoying a refreshing dip. There is a comfortable balance between enjoying the vibrant local life and finding a moment to rest. Visiting on weekdays might offer a slightly quieter experience.",
                   "category": "recreational",
                   "coords": [
                         -22.899032,
                         16.596113
-                  ]
-            },
-            {
-                  "name": "Teatro Vila do Farol",
-                  "text": "Vila do Farol Theatre, a restored colonial building for plays and films in Santa Maria.",
-                  "category": "cultural",
-                  "coords": [
-                        -22.920656,
-                        16.591372
                   ]
             },
             {
@@ -2930,33 +1693,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -22.922764,
                         16.591517
-                  ]
-            },
-            {
-                  "name": "Salinas Velhas",
-                  "text": "Old salt pans in Santa Maria, now a historic site with salt mounds and wildlife.",
-                  "category": "historical",
-                  "coords": [
-                        -22.899766,
-                        16.607048
-                  ]
-            },
-            {
-                  "name": "Shell Cemetery",
-                  "text": "Shell Cemetery in Santa Maria, a unique burial ground with shell-covered graves.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.894521,
-                        16.595186
-                  ]
-            },
-            {
-                  "name": "Project Biodiversity - Sea Turtles Conservation Hatchery",
-                  "text": "Project Biodiversity sea turtle hatchery in Santa Maria, protecting nesting turtles.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.927495,
-                        16.593913
                   ]
             },
             {
@@ -3062,15 +1798,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia dos Curraletes",
-                  "text": "Praia dos Curraletes verfügt über einen herrlichen Sandstrand direkt im Herzen der Küstenumgebung von Porto Novo. Es bietet eine unkomplizierte und angenehme Kulisse für alle, die sich sonnen oder im Ozean planschen möchten. Der Strand zieht naturgemäß Menschen an, die einen entspannten Tag am Wasser suchen. Mit einem einfachen Picknick wird der Nachmittag hier zu einem tollen Erlebnis.",
-                  "category": "recreational",
-                  "coords": [
-                        -25.039472,
-                        17.026979
-                  ]
-            },
-            {
                   "name": "Amfiteatr",
                   "text": "Ein Freiluft-Amphitheater für kulturelle Veranstaltungen in Novo.",
                   "category": "cultural",
@@ -3097,15 +1824,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -25.068973,
                         17.019079
-                  ]
-            },
-            {
-                  "name": "Praia dos Curraletes",
-                  "text": "A Praia dos Curraletes gyönyörű homokos parttal büszkélkedhet Porto Novo part menti környezetének szívében. Egyszerű és élvezetes helyszínt biztosít azoknak, akik napozni vagy az óceánban pancsolni vágynak. A strand természetes módon vonzza a víz melletti pihentető napra vágyó embereket. Egy egyszerű piknik csomagolása kiváló délutáni program lehet itt.",
-                  "category": "recreational",
-                  "coords": [
-                        -25.039472,
-                        17.026979
                   ]
             },
             {
@@ -3138,15 +1856,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia dos Curraletes",
-                  "text": "Praia dos Curraletes se mândrește cu un țărm nisipos minunat chiar în inima mediului de coastă din Porto Novo. Oferă un cadru simplu și plăcut pentru cei care doresc să facă plajă sau să se bălăcească în ocean. Plaja atrage în mod natural persoanele care caută o zi relaxată la malul apei. Un simplu picnic este o activitate excelentă pentru o după-amiază aici.",
-                  "category": "recreational",
-                  "coords": [
-                        -25.039472,
-                        17.026979
-                  ]
-            },
-            {
                   "name": "Amfiteatr",
                   "text": "Un amfiteatru în aer liber pentru evenimente culturale în Novo.",
                   "category": "cultural",
@@ -3173,15 +1882,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -25.068973,
                         17.019079
-                  ]
-            },
-            {
-                  "name": "Praia dos Curraletes",
-                  "text": "Praia dos Curraletes boasts a lovely sandy shoreline right in the heart of Porto Novo's coastal environment. It provides a straightforward and enjoyable setting for those looking to sunbathe or splash in the ocean. The beach naturally draws people seeking a relaxed day by the water. Packing a simple picnic makes for an excellent afternoon activity here.",
-                  "category": "recreational",
-                  "coords": [
-                        -25.039472,
-                        17.026979
                   ]
             },
             {
@@ -3234,15 +1934,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                         -25.06599,
                         17.181874
                   ]
-            },
-            {
-                  "name": "SETE SÓIS SETE LUAS",
-                  "text": "Kulturort, benannt nach dem Festival Sete Sóis Sete Luas, in Grande.",
-                  "category": "cultural",
-                  "coords": [
-                        -25.063995,
-                        17.183451
-                  ]
             }
       ],
       "hu": [
@@ -3262,15 +1953,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -25.06599,
                         17.181874
-                  ]
-            },
-            {
-                  "name": "SETE SÓIS SETE LUAS",
-                  "text": "Kulturális helyszín, a Sete Sóis Sete Luas fesztiválról elnevezve, Grandéban.",
-                  "category": "cultural",
-                  "coords": [
-                        -25.063995,
-                        17.183451
                   ]
             }
       ],
@@ -3292,15 +1974,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                         -25.06599,
                         17.181874
                   ]
-            },
-            {
-                  "name": "SETE SÓIS SETE LUAS",
-                  "text": "Locație culturală numită după festivalul Sete Sóis Sete Luas, în Grande.",
-                  "category": "cultural",
-                  "coords": [
-                        -25.063995,
-                        17.183451
-                  ]
             }
       ],
       "en": [
@@ -3320,15 +1993,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -25.06599,
                         17.181874
-                  ]
-            },
-            {
-                  "name": "SETE SÓIS SETE LUAS",
-                  "text": "A cultural venue named after the Sete Sóis Sete Luas festival in Grande.",
-                  "category": "cultural",
-                  "coords": [
-                        -25.063995,
-                        17.183451
                   ]
             }
       ]
@@ -3355,15 +2019,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
   },
   {id: "ponta-do-sol-cities-v2", "sights": {
       "de": [
-            {
-                  "name": "Oque Daniel",
-                  "text": "Natürliche Felsbucht zum Baden in Do Sol.",
-                  "category": "natural",
-                  "coords": [
-                        7.371496,
-                        1.658931
-                  ]
-            },
             {
                   "name": "Miradouro para as Fontainhas",
                   "text": "Dieser Aussichtspunkt bietet einen spektakulären Blick auf das an den Klippen gelegene Dorf Fontainhas in der Nähe von Ponta do Sol.",
@@ -3394,15 +2049,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Oque Daniel",
-                  "text": "Természetes sziklás öböl fürdőzésre Do Solban.",
-                  "category": "natural",
-                  "coords": [
-                        7.371496,
-                        1.658931
-                  ]
-            },
-            {
                   "name": "Miradouro para as Fontainhas",
                   "text": "Ez a kilátó lenyűgöző kilátást nyújt a sziklákra épült Fontainhas falura Ponta do Sol közelében.",
                   "category": "natural",
@@ -3432,15 +2078,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Oque Daniel",
-                  "text": "Un golf natural de stâncă pentru scăldat în Do Sol.",
-                  "category": "natural",
-                  "coords": [
-                        7.371496,
-                        1.658931
-                  ]
-            },
-            {
                   "name": "Miradouro para as Fontainhas",
                   "text": "Acest punct de belvedere oferă o vedere spectaculoasă asupra satului Fontainhas, așezat pe stânci, în apropiere de Ponta do Sol.",
                   "category": "natural",
@@ -3469,15 +2106,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Oque Daniel",
-                  "text": "A natural rock cove for swimming in Do Sol.",
-                  "category": "natural",
-                  "coords": [
-                        7.371496,
-                        1.658931
-                  ]
-            },
             {
                   "name": "Miradouro para as Fontainhas",
                   "text": "This viewpoint provides a spectacular look at the cliffside village of Fontainhas near Ponta do Sol.",
@@ -3683,15 +2311,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
   {id: "mosteiros-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Naturpark Fogo",
-                  "text": "Der Fogo Natural Park ist ein Naturschutzgebiet rund um den aktiven Vulkan bei Mosteiros.",
-                  "category": "natural",
-                  "coords": [
-                        -24.360277,
-                        14.960308
-                  ]
-            },
-            {
                   "name": "Museu do café",
                   "text": "Kaffeemuseum in Mosteiros mit Ausstellungen zur Kaffeeproduktion.",
                   "category": "museum",
@@ -3720,15 +2339,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Parque Natural do Fogo",
-                  "text": "A Fogo Natural Park egy természetvédelmi terület Mosteiros közelében, amely magában foglalja az aktív vulkánt is.",
-                  "category": "natural",
-                  "coords": [
-                        -24.360277,
-                        14.960308
-                  ]
-            },
             {
                   "name": "Museu do café",
                   "text": "Kávémúzeum Mosteirokban, a kávétermelés kiállításaival.",
@@ -3759,15 +2369,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Parque Natural do Fogo",
-                  "text": "Fogo Natural Park este o rezervație naturală protejată din apropiere de Mosteiros, cuprinzând zona vulcanului activ.",
-                  "category": "natural",
-                  "coords": [
-                        -24.360277,
-                        14.960308
-                  ]
-            },
-            {
                   "name": "Museu do café",
                   "text": "Muzeul cafelei în Mosteiros, cu expoziții despre producția de cafea.",
                   "category": "museum",
@@ -3796,15 +2397,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Fogo Natural Park",
-                  "text": "Fogo Natural Park is a protected nature reserve encompassing the active volcano area near Mosteiros.",
-                  "category": "natural",
-                  "coords": [
-                        -24.360277,
-                        14.960308
-                  ]
-            },
             {
                   "name": "Museu do café",
                   "text": "A coffee museum in Mosteiros with exhibits on coffee production.",
@@ -3887,15 +2479,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pico de Caldeira",
-                  "text": "Ein vulkanischer Gipfel im Krater der Insel Fogo in Kap Verde.",
-                  "category": "natural",
-                  "coords": [
-                        -24.390481,
-                        14.962902
-                  ]
-            },
-            {
                   "name": "Chã das Caldeiras",
                   "text": "Vulkanplateau auf der Insel Fogo (Kap Verde), entstanden durch den Vulkan Pico do Fogo.",
                   "category": "landmark",
@@ -3913,15 +2496,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -24.360277,
                         14.960308
-                  ]
-            },
-            {
-                  "name": "Pico de Caldeira",
-                  "text": "Egy vulkanikus csúcs a Fogo-sziget kalderájában, Zöld-foki Köztársaság.",
-                  "category": "natural",
-                  "coords": [
-                        -24.390481,
-                        14.962902
                   ]
             },
             {
@@ -3945,15 +2519,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Pico de Caldeira",
-                  "text": "Un vârf vulcanic în caldeira insulei Fogo, Capul Verde.",
-                  "category": "natural",
-                  "coords": [
-                        -24.390481,
-                        14.962902
-                  ]
-            },
-            {
                   "name": "Chã das Caldeiras",
                   "text": "Podis vulcanic pe insula Fogo (Capul Verde), creat de vulcanul Pico do Fogo.",
                   "category": "landmark",
@@ -3971,15 +2536,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -24.360277,
                         14.960308
-                  ]
-            },
-            {
-                  "name": "Pico de Caldeira",
-                  "text": "A volcanic peak within the caldera of Fogo Island, Cape Verde.",
-                  "category": "natural",
-                  "coords": [
-                        -24.390481,
-                        14.962902
                   ]
             },
             {
@@ -4043,24 +2599,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia de Estoril",
-                  "text": "Als entspannender Strand in Sal Rei gilt Praia de Estoril als erstklassiger Ort, um einen Gang zurückzuschalten. Die einladenden Ufer eignen sich gut zum Schwimmen und um ein Handtuch auszubreiten, um den Sonnenschein zu genießen. Im Allgemeinen herrscht eine gelassene Atmosphäre, die es leicht macht, für ein paar Stunden abzuschalten. Es ist sehr zu empfehlen, zu bleiben, bis sich die Sonne senkt, um schöne Ausblicke zu genießen.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.915242,
-                        16.170804
-                  ]
-            },
-            {
-                  "name": "Praia da Boca de Salina",
-                  "text": "Als malerischer Strand in Sal Rei bietet Praia da Boca de Salina herrliche Ausblicke auf den Ozean. Besucher frequentieren diesen Ort für ruhige Spaziergänge am Meer und erfrischende Begegnungen mit dem Wasser. Die Umgebung ist im Allgemeinen ruhig und lässt der Naturlandschaft den Vortritt. Besuche am Morgen bieten eine frische und ruhige Perspektive auf die Küste.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.906571,
-                        16.143396
-                  ]
-            },
-            {
                   "name": "Praia de Carlota",
                   "text": "Praia de Carlota liegt elegant an der Küste von Sal Rei und lädt Gäste ein, das Meer zu genießen. Egal, ob Sie lieber schwimmen oder einfach nur die Wellen beobachten, dieser Strand kommt einem entspannten Lebensstil entgegen. Es bietet typischerweise ein freundliches und offenes Ambiente, wie es für die Kapverden typisch ist. Mit einem guten Buch und ein paar Snacks wird aus einem kurzen Stopp ein wunderbarer Halbtagesausflug.",
                   "category": "recreational",
@@ -4079,48 +2617,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia de Atlanta",
-                  "text": "Eingebettet in die Stadt Sal Rei bietet Praia de Atlanta eine schöne Gelegenheit für Vergnügen am Meer. Der Strand eignet sich gut für alle, die ihre Zehen ins Wasser tauchen oder auf dem Sand entspannen möchten. Eine mäßig ruhige Stimmung sorgt dafür, dass Besucher abseits belebter Straßen etwas Ruhe finden können. Das Tragen von bequemem Schuhwerk wird empfohlen, wenn Sie am Wasser entlang spazieren möchten.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.919247,
-                        16.18342
-                  ]
-            },
-            {
                   "name": "Duque de Bragança",
                   "text": "Duque de Bragança sind die historischen Ruinen eines Inselforts in Sal Rei.",
                   "category": "historical",
                   "coords": [
                         -22.924891,
                         16.16484
-                  ]
-            },
-            {
-                  "name": "Agua Beach",
-                  "text": "Als Strandresort in Sal Rei bietet Agua Beach ein komfortables Erlebnis am Meer. Es ist auf unkomplizierte Entspannung ausgelegt, wobei Sonnenbaden und Schwimmen die Hauptaktivitäten sind. Die Umgebung wirkt oft etwas strukturierter, behält aber dennoch eine entspannte Küstenatmosphäre. Es ist ein fantastischer Ort, um einen langen Nachmittag damit zu verbringen, absolut nichts zu tun.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.91158,
-                        16.164648
-                  ]
-            },
-            {
-                  "name": "CAC",
-                  "text": "Das CAC ist ein Kunstzentrum in Sal Rei.",
-                  "category": "cultural",
-                  "coords": [
-                        -22.914493,
-                        16.176429
-                  ]
-            },
-            {
-                  "name": "Nossa Senhora de Fátima",
-                  "text": "Nossa Senhora de Fátima ist eine lokale Kultstätte in Sal Rei.",
-                  "category": "religious",
-                  "coords": [
-                        -22.914266,
-                        16.196194
                   ]
             }
       ],
@@ -4153,24 +2655,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia de Estoril",
-                  "text": "A Sal Rei pihentető strandjaként számon tartott Praia de Estoril kiváló hely a lelassulásra. A hívogató partok remekül alkalmasak úszásra és arra, hogy kiterítsünk egy törölközőt a napsütés élvezetéhez. Általában békés légkör uralkodik, amely megkönnyíti a néhány órás kikapcsolódást. Kifejezetten ajánlott addig maradni, amíg a nap le nem bukik a gyönyörű kilátásért.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.915242,
-                        16.170804
-                  ]
-            },
-            {
-                  "name": "Praia da Boca de Salina",
-                  "text": "A Sal Rei festői strandjaként jellemzett Praia da Boca de Salina gyönyörű óceáni kilátást nyújt. A látogatók nyugodt tengerparti séták és a vízzel való frissítő találkozások miatt látogatják ezt a helyet. A környezet általában csendes, így a természeti táj kerülhet a középpontba. A reggeli látogatások friss és nyugodt perspektívát kínálnak a partvidékről.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.906571,
-                        16.143396
-                  ]
-            },
-            {
                   "name": "Praia de Carlota",
                   "text": "A Praia de Carlota elegánsan fekszik Sal Rei partja mentén, és tengerparti kikapcsolódásra invitálja a vendégeket. Akár úszni szeretne, akár csak a hullámokat figyelni, ez a strand a laza életmódhoz igazodik. Jellemzően a Zöld-foki-szigetekre jellemző barátságos és nyitott hangulat várja az idelátogatókat. Egy jó könyv és némi rágcsálnivaló egy rövid megállót is csodálatos félnapos kirándulássá varázsolhat.",
                   "category": "recreational",
@@ -4189,48 +2673,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia de Atlanta",
-                  "text": "A Sal Rei városában megbújó Praia de Atlanta kedves lehetőséget kínál a tengerparti kikapcsolódásra. A strand nagyszerű azok számára, akik szeretnék megmártózni a vízben, vagy megpihenni a homokban. A mérsékelten csendes hangulat biztosítja, hogy a látogatók nyugalomra leljenek a forgalmas utcáktól távol. Kényelmes lábbeli viselése ajánlott, ha a vízparton szeretne sétálni.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.919247,
-                        16.18342
-                  ]
-            },
-            {
                   "name": "Duque de Bragança",
                   "text": "A Duque de Bragança egy történelmi szigeti erőd romja Sal Rei városában.",
                   "category": "historical",
                   "coords": [
                         -22.924891,
                         16.16484
-                  ]
-            },
-            {
-                  "name": "Agua Beach",
-                  "text": "A Sal Rei tengerparti üdülőövezeteként működő Agua Beach kényelmes tengerparti élményt nyújt. Az egyszerű pihenésre tervezték, ahol a napozás és az úszás a fő tevékenység. A környezet gyakran kissé strukturáltabbnak tűnik, mégis megőrzi laza part menti hangulatát. Fantasztikus hely egy hosszú délután eltöltésére azzal, hogy az ember egyáltalán semmit sem csinál.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.91158,
-                        16.164648
-                  ]
-            },
-            {
-                  "name": "CAC",
-                  "text": "A CAC egy művészeti központ Sal Rei városában.",
-                  "category": "cultural",
-                  "coords": [
-                        -22.914493,
-                        16.176429
-                  ]
-            },
-            {
-                  "name": "Nossa Senhora de Fátima",
-                  "text": "A Nossa Senhora de Fátima egy helyi istentiszteleti hely Sal Rei városában.",
-                  "category": "religious",
-                  "coords": [
-                        -22.914266,
-                        16.196194
                   ]
             }
       ],
@@ -4263,24 +2711,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia de Estoril",
-                  "text": "Considerată o plajă relaxantă în Sal Rei, Praia de Estoril este un loc excelent pentru a încetini ritmul. Țărmurile primitoare sunt bine adaptate pentru înot și pentru a întinde un prosop pentru a vă bucura de soare. O atmosferă senină predomină în general, făcând ușoară deconectarea pentru câteva ore. Este foarte recomandat să rămâneți până când soarele începe să apună pentru a admira priveliștile frumoase.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.915242,
-                        16.170804
-                  ]
-            },
-            {
-                  "name": "Praia da Boca de Salina",
-                  "text": "Caracterizată ca o plajă pitorească în Sal Rei, Praia da Boca de Salina oferă priveliști minunate spre ocean. Vizitatorii frecventează acest loc pentru plimbări liniștite pe litoral și întâlniri revigorante cu apa. Cadrul este în general liniștit, permițând peisajului natural să ocupe locul central. Vizitele de dimineață oferă o perspectivă proaspătă și tăcută asupra coastei.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.906571,
-                        16.143396
-                  ]
-            },
-            {
                   "name": "Praia de Carlota",
                   "text": "Praia de Carlota este situată elegant de-a lungul coastei din Sal Rei, invitând oaspeții să se bucure de litoral. Indiferent dacă preferați să înotați sau pur și simplu să observați valurile, această plajă se potrivește unui stil de viață relaxat. De obicei, prezintă o ambianță prietenoasă și deschisă, tipică pentru Capul Verde. Un o carte bună și câteva gustări pot transforma o scurtă oprire într-o ieșire minunată de jumătate de zi.",
                   "category": "recreational",
@@ -4299,48 +2729,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia de Atlanta",
-                  "text": "Ascunsă în orașul Sal Rei, Praia de Atlanta oferă o oportunitate minunată pentru a te bucura de litoral. Plaja este potrivită pentru cei care doresc să-și bage picioarele în apă sau să se relaxeze pe nisip. O stare de spirit moderat de liniștită asigură că vizitatorii pot găsi puțină pace departe de străzile aglomerate. Purtarea de încălțăminte confortabilă este recomandată dacă plănuiți să vă plimbați pe marginea apei.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.919247,
-                        16.18342
-                  ]
-            },
-            {
                   "name": "Duque de Bragança",
                   "text": "Duque de Bragança reprezintă ruinele istorice ale unui fort insular din Sal Rei.",
                   "category": "historical",
                   "coords": [
                         -22.924891,
                         16.16484
-                  ]
-            },
-            {
-                  "name": "Agua Beach",
-                  "text": "Funcționând ca o zonă de stațiune pe plajă în Sal Rei, Agua Beach oferă o experiență confortabilă pe litoral. Este concepută pentru relaxare simplă, unde plaja și înotul sunt activitățile principale. Mediul se simte adesea puțin mai structurat, dar păstrează o vibrație relaxată de coastă. Este un loc fantastic pentru a petrece o după-amiază lungă nefăcând absolut nimic.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.91158,
-                        16.164648
-                  ]
-            },
-            {
-                  "name": "CAC",
-                  "text": "CAC este un centru de arte situat în Sal Rei.",
-                  "category": "cultural",
-                  "coords": [
-                        -22.914493,
-                        16.176429
-                  ]
-            },
-            {
-                  "name": "Nossa Senhora de Fátima",
-                  "text": "Nossa Senhora de Fátima este un lăcaș de cult local situat în Sal Rei.",
-                  "category": "religious",
-                  "coords": [
-                        -22.914266,
-                        16.196194
                   ]
             }
       ],
@@ -4373,24 +2767,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia de Estoril",
-                  "text": "Regarded as a relaxing beach in Sal Rei, Praia de Estoril is a prime spot for slowing down. The inviting shores are well-suited for swimming and spreading out a towel to enjoy the sunshine. A serene atmosphere generally prevails, making it easy to disconnect for a few hours. It is highly recommended to stay until the sun begins to lower for beautiful views.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.915242,
-                        16.170804
-                  ]
-            },
-            {
-                  "name": "Praia da Boca de Salina",
-                  "text": "Characterized as a picturesque beach in Sal Rei, Praia da Boca de Salina delivers lovely ocean vistas. Visitors frequent this spot for calm seaside walks and refreshing encounters with the water. The setting is generally tranquil, allowing the natural landscape to take center stage. Morning visits provide a fresh and quiet perspective of the coast.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.906571,
-                        16.143396
-                  ]
-            },
-            {
                   "name": "Praia de Carlota",
                   "text": "Praia de Carlota sits elegantly along the coast of Sal Rei, inviting guests to enjoy the seaside. Whether you prefer swimming or simply observing the waves, this beach accommodates a laid-back lifestyle. It typically features a friendly and open ambiance typical of Cape Verde. Carrying a good book and some snacks can turn a short stop into a wonderful half-day outing.",
                   "category": "recreational",
@@ -4409,48 +2785,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia de Atlanta",
-                  "text": "Nestled in the town of Sal Rei, Praia de Atlanta offers a lovely opportunity for seaside enjoyment. The beach is nicely suited for those wishing to dip their toes in the water or relax on the sand. A moderately quiet mood ensures that visitors can find some peace away from busy streets. Wearing comfortable footwear is advised if you plan to walk along the water's edge.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.919247,
-                        16.18342
-                  ]
-            },
-            {
                   "name": "Duque de Bragança",
                   "text": "Duque de Bragança features the historical ruins of an island fort in Sal Rei.",
                   "category": "historical",
                   "coords": [
                         -22.924891,
                         16.16484
-                  ]
-            },
-            {
-                  "name": "Agua Beach",
-                  "text": "Functioning as a beach resort area in Sal Rei, Agua Beach provides a comfortable seaside experience. It is designed for straightforward relaxation, where sunbathing and swimming are the primary activities. The environment often feels slightly more structured yet retains a relaxed coastal vibe. It is a fantastic spot to spend a long afternoon doing absolutely nothing.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.91158,
-                        16.164648
-                  ]
-            },
-            {
-                  "name": "CAC",
-                  "text": "CAC is an arts centre serving the cultural community in Sal Rei.",
-                  "category": "cultural",
-                  "coords": [
-                        -22.914493,
-                        16.176429
-                  ]
-            },
-            {
-                  "name": "Nossa Senhora de Fátima",
-                  "text": "Nossa Senhora de Fátima is a local place of worship located in Sal Rei.",
-                  "category": "religious",
-                  "coords": [
-                        -22.914266,
-                        16.196194
                   ]
             }
       ]
@@ -4476,302 +2816,10 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
     },
   },
   {id: "estancia-de-baixo-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Praia de Chaves",
-                  "text": "Praia de Chaves ist ein markanter Strand in Estancia De Baixo, der für seine weite Aussicht gefeiert wird. Es ist ein wunderbarer Ort für erfrischendes Schwimmen oder für lange, nachdenkliche Spaziergänge entlang der Küste. Das stetige Rauschen des Ozeans schafft eine Kulisse der Ruhe für alle, die hierher kommen. Ein Blick auf das lokale Wetter vor dem Aufbruch sorgt für ein möglichst angenehmes Erlebnis im Sand.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.927167,
-                        16.098786
-                  ]
-            },
-            {
-                  "name": "Praia da Boca de Salina",
-                  "text": "Die in Estancia De Baixo gelegene Praia da Boca de Salina ist ein ruhiger Winkel der Küstenlinie. Gäste können eine einfache, aufgeräumte Umgebung erwarten, die perfekt zum Sonnenbaden oder zum Waten ins Wasser ist. Sein subtiler Charme liegt im Fehlen großer Menschenmengen, was ihm eine intime Note verleiht. Ein Besuch am frühen Abend belohnt Besucher oft mit weicherem Licht und kühleren Brisen.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.906571,
-                        16.143396
-                  ]
-            },
-            {
-                  "name": "Praia de Carlota",
-                  "text": "Praia de Carlota wird wegen ihrer Schönheit in Estancia De Baixo geschätzt und gilt als herrlicher Zufluchtsort am Meer. Die Bedingungen hier sind im Allgemeinen gut geeignet, um ein Handtuch zum Ausruhen auszubreiten und gelegentlich ein Bad im Meer zu nehmen. Es bewahrt einen freundlichen, entspannten kapverdischen Geist, der Reisende zur Ruhe kommen lässt. Wenn Sie den nötigen Sonnenschutz mitbringen, können Sie den ganzen Nachmittag bequem genießen.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.909282,
-                        16.158684
-                  ]
-            },
-            {
-                  "name": "Quad Zone",
-                  "text": "Quadbahn für Familien in De Baixo.",
-                  "category": "family",
-                  "coords": [
-                        -22.885168,
-                        16.141106
-                  ]
-            },
-            {
-                  "name": "Splash Water World",
-                  "text": "Wasserpark Splash Water World in De Baixo mit Rutschen und Pools.",
-                  "category": "family",
-                  "coords": [
-                        -22.905945,
-                        16.139253
-                  ]
-            },
-            {
-                  "name": "Deserto de Viana",
-                  "text": "Deserto de Viana bietet einen tollen Aussichtspunkt in Estância de Baixo.",
-                  "category": "natural",
-                  "coords": [
-                        -22.864779,
-                        16.143272
-                  ]
-            },
-            {
-                  "name": "Fábrica da Chave",
-                  "text": "Historische Fabrik da Chave in De Baixo, ehemalige Schlüsselproduktion.",
-                  "category": "historical",
-                  "coords": [
-                        -22.905339,
-                        16.130104
-                  ]
-            },
-            {
-                  "name": "Artesanato Olaria de Rabil",
-                  "text": "Töpferhandwerkszentrum Artesanato Olaria de Rabil in De Baixo.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.888902,
-                        16.124623
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Praia de Chaves",
-                  "text": "A Praia de Chaves egy kiemelkedő strand Estancia De Baixo területén, amelyet nyílt kilátása miatt ünnepelnek. Csodálatos helyszín frissítő úszásokhoz vagy hosszú, elmélyült sétákhoz a part mentén. Az óceán egyenletes morajlása nyugodt hátteret teremt minden idelátogató számára. Ha indulás előtt ellenőrizzük a helyi időjárást, a legkellemesebb élményt biztosíthatjuk a homokban.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.927167,
-                        16.098786
-                  ]
-            },
-            {
-                  "name": "Praia da Boca de Salina",
-                  "text": "Az Estancia De Baixo területén található Praia da Boca de Salina a partvidék egy csendes szeglete. A vendégeket egyszerű, letisztult környezet várja, amely tökéletes a napozáshoz vagy a vízbe gázoláshoz. Finom bája a nagy tömegek hiányában rejlik, ami meghitt érzést kölcsönöz neki. A kora esti látogatás gyakran lágyabb fénnyel és hűvösebb szellővel jutalmazza a látogatókat.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.906571,
-                        16.143396
-                  ]
-            },
-            {
-                  "name": "Praia de Carlota",
-                  "text": "Az Estancia De Baixo-ban szépségéért becsült Praia de Carlota csodálatos tengerparti menedékként szolgál. A körülmények itt általában nagyszerűek arra, hogy kiterítsünk egy törölközőt pihenni, és időnként megmártózzunk a tengerben. Barátságos, laza Zöld-foki-szigeteki szellemiséget áraszt, amely megnyugtatja az utazókat. A megfelelő naptej használata segít, hogy kényelmesen élvezhesse az egész délutánt.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.909282,
-                        16.158684
-                  ]
-            },
-            {
-                  "name": "Quad Zone",
-                  "text": "Quad-pálya családok számára De Baixóban.",
-                  "category": "family",
-                  "coords": [
-                        -22.885168,
-                        16.141106
-                  ]
-            },
-            {
-                  "name": "Splash Water World",
-                  "text": "Splash Water World vízipark De Baixóban csúszdákkal és medencékkel.",
-                  "category": "family",
-                  "coords": [
-                        -22.905945,
-                        16.139253
-                  ]
-            },
-            {
-                  "name": "Deserto de Viana",
-                  "text": "A Deserto de Viana egy kilátópont Estância de Baixóban.",
-                  "category": "natural",
-                  "coords": [
-                        -22.864779,
-                        16.143272
-                  ]
-            },
-            {
-                  "name": "Fábrica da Chave",
-                  "text": "Történelmi Fábrica da Chave De Baixóban, egykori kulcsgyártás.",
-                  "category": "historical",
-                  "coords": [
-                        -22.905339,
-                        16.130104
-                  ]
-            },
-            {
-                  "name": "Artesanato Olaria de Rabil",
-                  "text": "Artesanato Olaria de Rabil fazekasközpont De Baixóban.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.888902,
-                        16.124623
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Praia de Chaves",
-                  "text": "Praia de Chaves este o plajă proeminentă situată în Estancia De Baixo, celebrată pentru priveliștile sale deschise. Este o locație minunată pentru înot răcoritor sau pentru plimbări lungi și gânditoare de-a lungul coastei. Sunetul constant al oceanului creează un fundal de calm pentru toți cei care vizitează. Verificarea vremii locale înainte de a pleca vă asigură cea mai plăcută experiență pe nisip.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.927167,
-                        16.098786
-                  ]
-            },
-            {
-                  "name": "Praia da Boca de Salina",
-                  "text": "Aflată în Estancia De Baixo, Praia da Boca de Salina este un colț liniștit al coastei. Oaspeții se pot aștepta la un mediu simplu și neîncărcat, perfect pentru plajă sau pentru a păși în apă. Farmecul său subtil constă în lipsa aglomerației mari, oferindu-i o senzație intimă. O vizită la începutul serii recompensează adesea vizitatorii cu lumină mai blândă și brize mai răcoroase.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.906571,
-                        16.143396
-                  ]
-            },
-            {
-                  "name": "Praia de Carlota",
-                  "text": "Apreciată pentru frumusețea sa în Estancia De Baixo, Praia de Carlota se impune ca o evadare încântătoare pe litoral. Condițiile de aici sunt în general bine adaptate pentru a întinde un prosop pentru a vă odihni și a face scufundări ocazionale în mare. Păstrează un spirit capverdian prietenos și relaxat, care îi face pe călători să se simtă în largul lor. Aducerea protecției solare esențiale vă va permite să vă bucurați confortabil de întreaga după-amiază.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.909282,
-                        16.158684
-                  ]
-            },
-            {
-                  "name": "Quad Zone",
-                  "text": "Pistă de quad pentru familii în De Baixo.",
-                  "category": "family",
-                  "coords": [
-                        -22.885168,
-                        16.141106
-                  ]
-            },
-            {
-                  "name": "Splash Water World",
-                  "text": "Parcul acvatic Splash Water World în De Baixo, cu tobogane și piscine.",
-                  "category": "family",
-                  "coords": [
-                        -22.905945,
-                        16.139253
-                  ]
-            },
-            {
-                  "name": "Deserto de Viana",
-                  "text": "Deserto de Viana oferă un punct de belvedere în Estância de Baixo.",
-                  "category": "natural",
-                  "coords": [
-                        -22.864779,
-                        16.143272
-                  ]
-            },
-            {
-                  "name": "Fábrica da Chave",
-                  "text": "Fabrica istorică Fábrica da Chave în De Baixo, fostă producție de chei.",
-                  "category": "historical",
-                  "coords": [
-                        -22.905339,
-                        16.130104
-                  ]
-            },
-            {
-                  "name": "Artesanato Olaria de Rabil",
-                  "text": "Centrul de olărit Artesanato Olaria de Rabil în De Baixo.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.888902,
-                        16.124623
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Praia de Chaves",
-                  "text": "Praia de Chaves is a prominent beach located in Estancia De Baixo, celebrated for its open views. It is a wonderful location for taking refreshing swims or enjoying long, thoughtful walks along the coast. The steady sound of the ocean creates a backdrop of calm for all who visit. Checking the local weather before heading out ensures the most pleasant experience on the sand.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.927167,
-                        16.098786
-                  ]
-            },
-            {
-                  "name": "Praia da Boca de Salina",
-                  "text": "Found within Estancia De Baixo, Praia da Boca de Salina is a quiet corner of the coastline. Guests can expect a simple, uncluttered environment perfect for sunbathing or wading into the water. Its subtle charm lies in the lack of large crowds, giving it an intimate feel. An early evening visit often rewards visitors with softer light and cooler breezes.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.906571,
-                        16.143396
-                  ]
-            },
-            {
-                  "name": "Praia de Carlota",
-                  "text": "Valued for its beauty in Estancia De Baixo, Praia de Carlota stands as a delightful seaside escape. The conditions here are generally well-suited for spreading a towel to rest and taking occasional dips in the sea. It maintains a friendly, laid-back Cape Verdean spirit that puts travelers at ease. Bringing along essential sun protection will let you comfortably enjoy the whole afternoon.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.909282,
-                        16.158684
-                  ]
-            },
-            {
-                  "name": "Quad Zone",
-                  "text": "A quad bike track for families in De Baixo.",
-                  "category": "family",
-                  "coords": [
-                        -22.885168,
-                        16.141106
-                  ]
-            },
-            {
-                  "name": "Splash Water World",
-                  "text": "Splash Water World water park in De Baixo with slides and pools.",
-                  "category": "family",
-                  "coords": [
-                        -22.905945,
-                        16.139253
-                  ]
-            },
-            {
-                  "name": "Deserto de Viana",
-                  "text": "Deserto de Viana offers a scenic viewpoint in Estância de Baixo.",
-                  "category": "natural",
-                  "coords": [
-                        -22.864779,
-                        16.143272
-                  ]
-            },
-            {
-                  "name": "Fábrica da Chave",
-                  "text": "The historic Fábrica da Chave in De Baixo, a former key factory.",
-                  "category": "historical",
-                  "coords": [
-                        -22.905339,
-                        16.130104
-                  ]
-            },
-            {
-                  "name": "Artesanato Olaria de Rabil",
-                  "text": "The Artesanato Olaria de Rabil pottery craft center in De Baixo.",
-                  "category": "landmark",
-                  "coords": [
-                        -22.888902,
-                        16.124623
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, type: "city", parent: "CV-BV", coords: [-22.8833, 16.1417], name: {de: "Estância de Baixo", hu: "Estância de Baixo", ro: "Estância de Baixo", en: "Estância de Baixo"},
     image: "/poi-images/estancia-de-baixo-cities-v2.webp", description: {de: "Estância de Baixo ist ein ruhiges Dorf im Landesinneren von Boa Vista.", hu: "Estância de Baixo egy csendes falu Boa Vista belsejében.", ro: "Estância de Baixo este un sat liniștit din interiorul insulei Boa Vista.", en: "Estância de Baixo is a quiet village in the interior of Boa Vista.", es: "Estância de Baixo es un pueblo tranquilo en el interior de Boa Vista.", pt: "Estância de Baixo é uma aldeia tranquila no interior da Boa Vista.", fr: "Estância de Baixo est un village paisible à l'intérieur de Boa Vista."}, facts: {de: ["Gelegen in einer fruchtbaren Oase", "Bekannt für den Anbau von Datteln und Palmen", "Traditionelle kapverdische Architektur", "Bietet einen Einblick in das authentische Landleben"], hu: ["Egy termékeny oázisban fekszik", "Dátum- és pálmatermesztésérol ismert", "Hagyományos zöld-foki építészet", "Betekintést nyújt az autentikus vidéki életbe"], ro: ["Situat într-o oaza fertila", "Cunoscut pentru cultivarea curmalelor ?i a palmierilor", "Arhitectura tradiționala din Capul Verde", "Ofera o privire asupra vieții rurale autentice"], en: ["Located in a fertile oasis", "Known for growing dates and palms", "Traditional Cape Verdean architecture", "Offers a glimpse into authentic rural life"], es: ["Situado en un oasis fértil", "Conocido por el cultivo de dátiles y palmeras", "Arquitectura tradicional caboverdiana", "Ofrece una visión de la auténtica vida rural"], pt: ["Situado num oásis fértil", "Conhecido pelo cultivo de tâmaras e palmeiras", "Arquitetura tradicional cabo-verdiana", "Oferece uma visão da vida rural autêntica"], fr: ["Situé dans une oasis fertile", "Connu pour la culture des dattes et des palmiers", "Architecture traditionnelle cap-verdienne", "Offre un aperçu de la vie rurale authentique"]}, image: "/poi-images/estancia-de-baixo-cities-v2.webp",
     descriptionAdvanced: {
@@ -4988,24 +3036,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia de Carlota",
-                  "text": "Die in der Nähe von Rabil gelegene Praia de Carlota ist ein einladender Strandabschnitt für einen entspannten Nachmittag. Besucher kommen oft hierher, um im klaren Wasser zu waten oder gemütlich unter dem blauen Himmel zu faulenzen. Die Atmosphäre bleibt in der Regel ruhig und vermeidet den Trubel von stark befahrenen Touristengebieten. Erwägen Sie einen Besuch später am Tag, um die abkühlenden Temperaturen zu genießen.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.909282,
-                        16.158684
-                  ]
-            },
-            {
-                  "name": "Quad Zone",
-                  "text": "Quadbahn für Familien in Rabil.",
-                  "category": "family",
-                  "coords": [
-                        -22.885168,
-                        16.141106
-                  ]
-            },
-            {
                   "name": "Splash Water World",
                   "text": "Wasserpark Splash Water World in Rabil mit Rutschen und Pools.",
                   "category": "family",
@@ -5059,24 +3089,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -22.906571,
                         16.143396
-                  ]
-            },
-            {
-                  "name": "Praia de Carlota",
-                  "text": "A Rabil közelében elhelyezkedő Praia de Carlota a strand egy hívogató szelete egy laza délutánhoz. A látogatók gyakran jönnek ide, hogy a tiszta vízben gázoljanak, vagy lágyan hűsöljenek a kék ég alatt. A légkör általában csendes marad, elkerülve az erős forgalmú turisztikai területek nyüzsgését. Érdemes a nap későbbi szakaszában látogatni, hogy élvezhessük a hűsölő hőmérsékletet.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.909282,
-                        16.158684
-                  ]
-            },
-            {
-                  "name": "Quad Zone",
-                  "text": "Quad-pálya családok számára Rabilban.",
-                  "category": "family",
-                  "coords": [
-                        -22.885168,
-                        16.141106
                   ]
             },
             {
@@ -5136,24 +3148,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia de Carlota",
-                  "text": "Situată în apropiere de Rabil, Praia de Carlota este o porțiune primitoare de plajă pentru o după-amiază relaxată. Vizitatorii vin adesea aici pentru a se bălăci în apa limpede sau pentru a se relaxa blând sub cerul albastru. Atmosfera rămâne de obicei calmă, evitând agitația din zonele turistice intens circulate. Luați în considerare o vizită mai târziu în timpul zilei pentru a vă bucura de temperaturile mai scăzute.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.909282,
-                        16.158684
-                  ]
-            },
-            {
-                  "name": "Quad Zone",
-                  "text": "Pistă de quad pentru familii în Rabil.",
-                  "category": "family",
-                  "coords": [
-                        -22.885168,
-                        16.141106
-                  ]
-            },
-            {
                   "name": "Splash Water World",
                   "text": "Parcul acvatic Splash Water World în Rabil, cu tobogane și piscine.",
                   "category": "family",
@@ -5207,24 +3201,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -22.906571,
                         16.143396
-                  ]
-            },
-            {
-                  "name": "Praia de Carlota",
-                  "text": "Positioned near Rabil, Praia de Carlota is a welcoming slice of the beach for a relaxed afternoon. Visitors often come here to wade in the clear water or lounge gently under the blue skies. The atmosphere usually remains calm, avoiding the hustle of heavily trafficked tourist areas. Consider visiting later in the day to enjoy the cooling temperatures.",
-                  "category": "recreational",
-                  "coords": [
-                        -22.909282,
-                        16.158684
-                  ]
-            },
-            {
-                  "name": "Quad Zone",
-                  "text": "A quad bike track for families in Rabil.",
-                  "category": "family",
-                  "coords": [
-                        -22.885168,
-                        16.141106
                   ]
             },
             {
@@ -5486,39 +3462,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Miradouro",
-                  "text": "Aussichtspunkt in De Baixo mit Blick auf die Umgebung.",
-                  "category": "natural",
-                  "coords": [
-                        -24.328922,
-                        16.615407
-                  ]
-            },
-            {
-                  "name": "Miradouro do Monte Cintinha",
-                  "text": "Miradouro do Monte Cintinha bietet eine schöne Aussicht über Fajã de Baixo.",
-                  "category": "natural",
-                  "coords": [
-                        -24.332958,
-                        16.622345
-                  ]
-            },
-            {
                   "name": "Buraco Azul",
                   "text": "Blaues Loch Buraco Azul, ein natürliches Felsenbecken in De Baixo.",
                   "category": "landmark",
                   "coords": [
                         -24.303423,
                         16.655843
-                  ]
-            },
-            {
-                  "name": "Antigo Seminário",
-                  "text": "Ehemaliges Priesterseminar in De Baixo.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.30074,
-                        16.615055
                   ]
             }
       ],
@@ -5533,39 +3482,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Miradouro",
-                  "text": "Kilátó De Baixóban, környékre nyíló kilátással.",
-                  "category": "natural",
-                  "coords": [
-                        -24.328922,
-                        16.615407
-                  ]
-            },
-            {
-                  "name": "Miradouro do Monte Cintinha",
-                  "text": "A Miradouro do Monte Cintinha gyönyörű kilátást nyújt Fajã de Baixóban.",
-                  "category": "natural",
-                  "coords": [
-                        -24.332958,
-                        16.622345
-                  ]
-            },
-            {
                   "name": "Buraco Azul",
                   "text": "Buraco Azul kék lyuk, természetes sziklamedence De Baixóban.",
                   "category": "landmark",
                   "coords": [
                         -24.303423,
                         16.655843
-                  ]
-            },
-            {
-                  "name": "Antigo Seminário",
-                  "text": "Egykori papnevelde De Baixóban.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.30074,
-                        16.615055
                   ]
             }
       ],
@@ -5580,39 +3502,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Miradouro",
-                  "text": "Punct de belvedere în De Baixo, cu vedere asupra zonei.",
-                  "category": "natural",
-                  "coords": [
-                        -24.328922,
-                        16.615407
-                  ]
-            },
-            {
-                  "name": "Miradouro do Monte Cintinha",
-                  "text": "Miradouro do Monte Cintinha oferă vederi frumoase asupra Fajã de Baixo.",
-                  "category": "natural",
-                  "coords": [
-                        -24.332958,
-                        16.622345
-                  ]
-            },
-            {
                   "name": "Buraco Azul",
                   "text": "Groapa Albastră Buraco Azul, o piscină naturală de stâncă în De Baixo.",
                   "category": "landmark",
                   "coords": [
                         -24.303423,
                         16.655843
-                  ]
-            },
-            {
-                  "name": "Antigo Seminário",
-                  "text": "Fostul seminar în De Baixo.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.30074,
-                        16.615055
                   ]
             }
       ],
@@ -5627,39 +3522,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Miradouro",
-                  "text": "A viewpoint in De Baixo overlooking the surroundings.",
-                  "category": "natural",
-                  "coords": [
-                        -24.328922,
-                        16.615407
-                  ]
-            },
-            {
-                  "name": "Miradouro do Monte Cintinha",
-                  "text": "Miradouro do Monte Cintinha offers beautiful views over Fajã de Baixo.",
-                  "category": "natural",
-                  "coords": [
-                        -24.332958,
-                        16.622345
-                  ]
-            },
-            {
                   "name": "Buraco Azul",
                   "text": "Buraco Azul (Blue Hole), a natural rock pool in De Baixo.",
                   "category": "landmark",
                   "coords": [
                         -24.303423,
                         16.655843
-                  ]
-            },
-            {
-                  "name": "Antigo Seminário",
-                  "text": "The former seminary in De Baixo.",
-                  "category": "landmark",
-                  "coords": [
-                        -24.30074,
-                        16.615055
                   ]
             }
       ]
@@ -5729,42 +3597,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
   {id: "nova-sintra-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Miradouro Santa Maria",
-                  "text": "Aussichtspunkt Miradouro Santa Maria in Sintra mit Panoramablick.",
-                  "category": "natural",
-                  "coords": [
-                        -24.691019,
-                        14.872773
-                  ]
-            },
-            {
-                  "name": "Miradouro Mato Grande",
-                  "text": "Miradouro Mato Grande bietet einen Panoramablick in Nova Sintra.",
-                  "category": "natural",
-                  "coords": [
-                        -24.686238,
-                        14.863618
-                  ]
-            },
-            {
-                  "name": "Miradouro de Cutelo Mentira",
-                  "text": "Aussichtspunkt Miradouro de Cutelo Mentira in Sintra.",
-                  "category": "natural",
-                  "coords": [
-                        -24.695977,
-                        14.872526
-                  ]
-            },
-            {
-                  "name": "Miradouro MiraBeleza",
-                  "text": "Aussichtspunkt Miradouro MiraBeleza in Sintra.",
-                  "category": "natural",
-                  "coords": [
-                        -24.71479,
-                        14.866154
-                  ]
-            },
-            {
                   "name": "Miradouro de Mato Grande",
                   "text": "Aussichtspunkt Miradouro de Mato Grande in Sintra.",
                   "category": "natural",
@@ -5772,54 +3604,9 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                         -24.70036,
                         14.866702
                   ]
-            },
-            {
-                  "name": "Miradouro MiraGraciosa",
-                  "text": "Aussichtspunkt Miradouro MiraGraciosa in Sintra.",
-                  "category": "natural",
-                  "coords": [
-                        -24.72366,
-                        14.858211
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Miradouro Santa Maria",
-                  "text": "Miradouro Santa Maria kilátó Sintrában panorámakilátással.",
-                  "category": "natural",
-                  "coords": [
-                        -24.691019,
-                        14.872773
-                  ]
-            },
-            {
-                  "name": "Miradouro Mato Grande",
-                  "text": "A Miradouro Mato Grande panorámás kilátást nyújt Nova Sintrában.",
-                  "category": "natural",
-                  "coords": [
-                        -24.686238,
-                        14.863618
-                  ]
-            },
-            {
-                  "name": "Miradouro de Cutelo Mentira",
-                  "text": "Miradouro de Cutelo Mentira kilátó Sintrában.",
-                  "category": "natural",
-                  "coords": [
-                        -24.695977,
-                        14.872526
-                  ]
-            },
-            {
-                  "name": "Miradouro MiraBeleza",
-                  "text": "Miradouro MiraBeleza kilátó Sintrában.",
-                  "category": "natural",
-                  "coords": [
-                        -24.71479,
-                        14.866154
-                  ]
-            },
             {
                   "name": "Miradouro de Mato Grande",
                   "text": "Miradouro de Mato Grande kilátó Sintrában.",
@@ -5828,54 +3615,9 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                         -24.70036,
                         14.866702
                   ]
-            },
-            {
-                  "name": "Miradouro MiraGraciosa",
-                  "text": "Miradouro MiraGraciosa kilátó Sintrában.",
-                  "category": "natural",
-                  "coords": [
-                        -24.72366,
-                        14.858211
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Miradouro Santa Maria",
-                  "text": "Punctul de belvedere Miradouro Santa Maria în Sintra, cu panoramă.",
-                  "category": "natural",
-                  "coords": [
-                        -24.691019,
-                        14.872773
-                  ]
-            },
-            {
-                  "name": "Miradouro Mato Grande",
-                  "text": "Miradouro Mato Grande oferă vederi panoramice în Nova Sintra.",
-                  "category": "natural",
-                  "coords": [
-                        -24.686238,
-                        14.863618
-                  ]
-            },
-            {
-                  "name": "Miradouro de Cutelo Mentira",
-                  "text": "Punctul de belvedere Miradouro de Cutelo Mentira în Sintra.",
-                  "category": "natural",
-                  "coords": [
-                        -24.695977,
-                        14.872526
-                  ]
-            },
-            {
-                  "name": "Miradouro MiraBeleza",
-                  "text": "Punctul de belvedere Miradouro MiraBeleza în Sintra.",
-                  "category": "natural",
-                  "coords": [
-                        -24.71479,
-                        14.866154
-                  ]
-            },
             {
                   "name": "Miradouro de Mato Grande",
                   "text": "Punctul de belvedere Miradouro de Mato Grande în Sintra.",
@@ -5884,54 +3626,9 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                         -24.70036,
                         14.866702
                   ]
-            },
-            {
-                  "name": "Miradouro MiraGraciosa",
-                  "text": "Punctul de belvedere Miradouro MiraGraciosa în Sintra.",
-                  "category": "natural",
-                  "coords": [
-                        -24.72366,
-                        14.858211
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Miradouro Santa Maria",
-                  "text": "Miradouro Santa Maria viewpoint in Sintra with panoramic views.",
-                  "category": "natural",
-                  "coords": [
-                        -24.691019,
-                        14.872773
-                  ]
-            },
-            {
-                  "name": "Miradouro Mato Grande",
-                  "text": "Miradouro Mato Grande offers panoramic views in Nova Sintra.",
-                  "category": "natural",
-                  "coords": [
-                        -24.686238,
-                        14.863618
-                  ]
-            },
-            {
-                  "name": "Miradouro de Cutelo Mentira",
-                  "text": "Miradouro de Cutelo Mentira viewpoint in Sintra.",
-                  "category": "natural",
-                  "coords": [
-                        -24.695977,
-                        14.872526
-                  ]
-            },
-            {
-                  "name": "Miradouro MiraBeleza",
-                  "text": "Miradouro MiraBeleza viewpoint in Sintra.",
-                  "category": "natural",
-                  "coords": [
-                        -24.71479,
-                        14.866154
-                  ]
-            },
             {
                   "name": "Miradouro de Mato Grande",
                   "text": "Miradouro de Mato Grande viewpoint in Sintra.",
@@ -5939,15 +3636,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -24.70036,
                         14.866702
-                  ]
-            },
-            {
-                  "name": "Miradouro MiraGraciosa",
-                  "text": "Miradouro MiraGraciosa viewpoint in Sintra.",
-                  "category": "natural",
-                  "coords": [
-                        -24.72366,
-                        14.858211
                   ]
             }
       ]
@@ -5975,15 +3663,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
   {id: "porto-ingles-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Forte de São José",
-                  "text": "Festung Forte de São José in Ingles, eine historische Küstenbefestigung.",
-                  "category": "castle",
-                  "coords": [
-                        -23.212457,
-                        15.136546
-                  ]
-            },
-            {
                   "name": "Praia da Vila",
                   "text": "Die zentral in Porto Ingles gelegene Praia da Vila ist ein zugänglicher und einladender Strandabschnitt. Es ist perfekt zugeschnitten auf diejenigen, die ein schnelles Bad nehmen oder sich auf dem Sand in der Nähe von städtischen Annehmlichkeiten ausruhen möchten. Das energiegeladene, aber dennoch beruhigende lokale Flair macht es zu einem großartigen Ort, um Leute zu beobachten. Es ist außerordentlich praktisch für einen spontanen Strandausflug während des Tages.",
                   "category": "recreational",
@@ -5993,48 +3672,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia de Ponta Preta",
-                  "text": "Praia de Ponta Preta ziert den Küstenrand von Porto Ingles mit seiner natürlichen Ausstrahlung. Der Strand lädt Besucher zu langen, erholsamen Nachmittagen ein, die durch Sonnenbaden und das Genießen der Meeresbrise geprägt sind. Typischerweise ist die Umgebung friedlich und bietet eine wunderbare Kulisse, um sich völlig zu entspannen. Wer eine leichte Decke und einen Hut mitbringt, sorgt für maximalen Komfort beim Besuch.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.203044,
-                        15.126177
-                  ]
-            },
-            {
-                  "name": "Casa L. A. Cardoso",
-                  "text": "Historisches Wohnhaus Casa L. A. Cardoso in Ingles.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.2111,
-                        15.137374
-                  ]
-            },
-            {
-                  "name": "Montinho de Lume",
-                  "text": "Hügel Montinho de Lume in Ingles, ein natürlicher Aussichtspunkt.",
-                  "category": "natural",
-                  "coords": [
-                        -23.210012,
-                        15.144539
-                  ]
-            },
-            {
                   "name": "Centro do Mergulho AAA Maio Plongée",
                   "text": "Tauchzentrum AAA Maio Plongée in Ingles, bietet Tauchgänge an.",
                   "category": "landmark",
                   "coords": [
                         -23.214602,
                         15.140007
-                  ]
-            },
-            {
-                  "name": "Miradouro de Praia de Ponta Preta",
-                  "text": "Dieser herrliche Aussichtspunkt in Porto Inglês bietet einen weiten Blick über die Küste und das Meer. Besucher können hier die beruhigende Atmosphäre genießen und fantastische Fotos von der Landschaft machen. Ein kurzer Halt lohnt sich besonders bei Sonnenuntergang, um das Farbenspiel am Himmel zu beobachten.",
-                  "category": "natural",
-                  "coords": [
-                        -23.205818,
-                        15.126836
                   ]
             },
             {
@@ -6049,15 +3692,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Forte de São José",
-                  "text": "Forte de São José erőd Inglesben, történelmi tengerparti erődítmény.",
-                  "category": "castle",
-                  "coords": [
-                        -23.212457,
-                        15.136546
-                  ]
-            },
-            {
                   "name": "Praia da Vila",
                   "text": "A Porto Ingles központjában található Praia da Vila könnyen megközelíthető és hívogató tengerparti hely. Tökéletesen alkalmazkodik azokhoz, akik élvezik a gyors úszást vagy a homokban való pihenést a városi kényelmi szolgáltatások közelében. Az energikus, mégis megnyugtató helyi hangulat miatt nagyszerű hely az emberek megfigyelésére. Különösen kényelmes egy spontán tengerparti kiruccanáshoz a nap folyamán.",
                   "category": "recreational",
@@ -6067,48 +3701,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia de Ponta Preta",
-                  "text": "A Praia de Ponta Preta természetes vonzerejével díszíti Porto Ingles part menti peremét. A strand hosszú, pihentető délutánokra invitálja a látogatókat, amelyeket a napozás és az óceáni szellő élvezete jellemez. A környezet jellemzően békés, és csodálatos hátteret biztosít a teljes kikapcsolódáshoz. Egy vékony takaró és egy kalap hozatala maximális kényelmet biztosít a látogatás során.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.203044,
-                        15.126177
-                  ]
-            },
-            {
-                  "name": "Casa L. A. Cardoso",
-                  "text": "Történelmi Casa L. A. Cardoso lakóház Inglesben.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.2111,
-                        15.137374
-                  ]
-            },
-            {
-                  "name": "Montinho de Lume",
-                  "text": "Montinho de Lume domb Inglesben, természetes kilátó.",
-                  "category": "natural",
-                  "coords": [
-                        -23.210012,
-                        15.144539
-                  ]
-            },
-            {
                   "name": "Centro do Mergulho AAA Maio Plongée",
                   "text": "AAA Maio Plongée búvárközpont Inglesben, búvárutakat kínál.",
                   "category": "landmark",
                   "coords": [
                         -23.214602,
                         15.140007
-                  ]
-            },
-            {
-                  "name": "Miradouro de Praia de Ponta Preta",
-                  "text": "Ez a csodálatos kilátó Porto Inglês területén lenyűgöző panorámát nyújt a partvidékre és az óceánra. A látogatók élvezhetik a nyugodt légkört, miközben fantasztikus fotókat készíthetnek a tájról. Különösen naplementekor érdemes ide látogatni, hogy megcsodálhassuk az égbolt színjátékát.",
-                  "category": "natural",
-                  "coords": [
-                        -23.205818,
-                        15.126836
                   ]
             },
             {
@@ -6123,15 +3721,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Forte de São José",
-                  "text": "Fortăreața Forte de São José în Ingles, o fortificație istorică de coastă.",
-                  "category": "castle",
-                  "coords": [
-                        -23.212457,
-                        15.136546
-                  ]
-            },
-            {
                   "name": "Praia da Vila",
                   "text": "Situată central în Porto Ingles, Praia da Vila este un loc de plajă accesibil și primitor. Este perfect adaptată pentru cei care se bucură de o baie rapidă sau de odihnă pe nisip în apropierea facilităților orașului. Vibrația locală energică, dar liniștitoare, o face un loc excelent pentru a privi oamenii. Este excepțional de convenabilă pentru o ieșire spontană la plajă în timpul zilei.",
                   "category": "recreational",
@@ -6141,48 +3730,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia de Ponta Preta",
-                  "text": "Praia de Ponta Preta împodobește marginea de coastă a orașului Porto Ingles cu atractivitatea sa naturală. Plaja invită vizitatorii la după-amiezi lungi și relaxante, marcate de plajă și de bucuria brizei oceanului. De obicei, mediul este pașnic, oferind un cadru minunat pentru a vă relaxa complet. Aducerea unei pături ușoare și a unei pălării asigură confort maxim în timpul vizitei.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.203044,
-                        15.126177
-                  ]
-            },
-            {
-                  "name": "Casa L. A. Cardoso",
-                  "text": "Casa istorică L. A. Cardoso în Ingles.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.2111,
-                        15.137374
-                  ]
-            },
-            {
-                  "name": "Montinho de Lume",
-                  "text": "Dealul Montinho de Lume în Ingles, un punct natural de belvedere.",
-                  "category": "natural",
-                  "coords": [
-                        -23.210012,
-                        15.144539
-                  ]
-            },
-            {
                   "name": "Centro do Mergulho AAA Maio Plongée",
                   "text": "Centrul de scufundări AAA Maio Plongée în Ingles, oferă scufundări.",
                   "category": "landmark",
                   "coords": [
                         -23.214602,
                         15.140007
-                  ]
-            },
-            {
-                  "name": "Miradouro de Praia de Ponta Preta",
-                  "text": "Acest punct de belvedere minunat din Porto Inglês oferă o panoramă superbă asupra coastei și a oceanului. Vizitatorii se pot bucura de atmosfera liniștită și pot face fotografii fantastice ale peisajului. O scurtă oprire este recomandată în special la apus, pentru a admira spectacolul de culori de pe cer.",
-                  "category": "natural",
-                  "coords": [
-                        -23.205818,
-                        15.126836
                   ]
             },
             {
@@ -6197,15 +3750,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Forte de São José",
-                  "text": "Forte de São José fortress in Ingles, a historic coastal fortification.",
-                  "category": "castle",
-                  "coords": [
-                        -23.212457,
-                        15.136546
-                  ]
-            },
-            {
                   "name": "Praia da Vila",
                   "text": "Located centrally in Porto Ingles, Praia da Vila is an accessible and inviting beach spot. It is perfectly tailored for those who enjoy a quick swim or resting on the sand nearby town conveniences. The energetic yet soothing local vibe makes it a great spot for people watching. It is exceptionally convenient for a spontaneous beach outing during your day.",
                   "category": "recreational",
@@ -6215,48 +3759,12 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia de Ponta Preta",
-                  "text": "Praia de Ponta Preta graces the coastal edge of Porto Ingles with its natural appeal. The beach invites visitors for long, relaxing afternoons marked by sunbathing and enjoying the ocean breeze. Typically, the environment is peaceful, providing a wonderful setting to unwind entirely. Bringing a light blanket and a hat ensures maximum comfort during your visit.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.203044,
-                        15.126177
-                  ]
-            },
-            {
-                  "name": "Casa L. A. Cardoso",
-                  "text": "The historic Casa L. A. Cardoso house in Ingles.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.2111,
-                        15.137374
-                  ]
-            },
-            {
-                  "name": "Montinho de Lume",
-                  "text": "Montinho de Lume hill in Ingles, a natural viewpoint.",
-                  "category": "natural",
-                  "coords": [
-                        -23.210012,
-                        15.144539
-                  ]
-            },
-            {
                   "name": "Diving Center AAA Maio Plongée",
                   "text": "AAA Maio Plongée diving center in Ingles offering dives.",
                   "category": "landmark",
                   "coords": [
                         -23.214602,
                         15.140007
-                  ]
-            },
-            {
-                  "name": "Miradouro de Praia de Ponta Preta",
-                  "text": "This marvelous viewpoint in Porto Inglês offers a sweeping panorama over the coastline and the ocean. Visitors can take in the calming atmosphere while capturing fantastic photos of the surrounding landscape. A brief stop is highly recommended, especially at sunset, to watch the colorful sky.",
-                  "category": "natural",
-                  "coords": [
-                        -23.205818,
-                        15.126836
                   ]
             },
             {
@@ -6314,42 +3822,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
   {id: "barreiro-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Forte de São José",
-                  "text": "Festung Forte de São José in Barreiro, eine historische Küstenbefestigung.",
-                  "category": "castle",
-                  "coords": [
-                        -23.212457,
-                        15.136546
-                  ]
-            },
-            {
-                  "name": "Praia da Vila",
-                  "text": "Eingebettet in die Umgebung von Barreiro lockt dieser charmante Strand mit einer entspannten Küstenatmosphäre. Er eignet sich hervorragend für ausgedehnte Spaziergänge im Sand oder um einfach die Seele baumeln zu lassen. Wer die Sonne genießen möchte, findet hier an warmen Tagen einen schönen Ort der Erholung.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.215524,
-                        15.140183
-                  ]
-            },
-            {
-                  "name": "Praia de Ponta Preta",
-                  "text": "Dieser einladende Küstenabschnitt in Barreiro verspricht ruhige Stunden am Meer und sanftes Meeresrauschen. Der Strand bietet ausreichend Platz für entspanntes Sonnenbaden und gemütliche Momente am Wasser. Für ein besonders friedliches Erlebnis empfiehlt es sich, bereits in den frühen Morgenstunden anzureisen.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.203044,
-                        15.126177
-                  ]
-            },
-            {
-                  "name": "Casa L. A. Cardoso",
-                  "text": "Historisches Wohnhaus Casa L. A. Cardoso in Barreiro.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.2111,
-                        15.137374
-                  ]
-            },
-            {
                   "name": "Montinho de Lume",
                   "text": "Hügel Montinho de Lume in Barreiro, ein natürlicher Aussichtspunkt.",
                   "category": "natural",
@@ -6357,72 +3829,9 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                         -23.210012,
                         15.144539
                   ]
-            },
-            {
-                  "name": "Centro do Mergulho AAA Maio Plongée",
-                  "text": "Tauchzentrum AAA Maio Plongée in Barreiro, bietet Tauchgänge an.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.214602,
-                        15.140007
-                  ]
-            },
-            {
-                  "name": "Miradouro de Praia de Ponta Preta",
-                  "text": "Hoch über dem Ufer von Barreiro eröffnet sich von diesem Aussichtspunkt ein großartiger Blick auf den darunterliegenden Strand. Der Ort lädt dazu ein, die Weite des Meeres auf sich wirken zu lassen und die salzige Brise zu spüren. Fotografen und Naturliebhaber sollten diesen Stopp bei ihrer Tour entlang der Küste unbedingt einplanen.",
-                  "category": "natural",
-                  "coords": [
-                        -23.205818,
-                        15.126836
-                  ]
-            },
-            {
-                  "name": "Sóis sete luas",
-                  "text": "Kulturort Sóis Sete Luas in Barreiro.",
-                  "category": "cultural",
-                  "coords": [
-                        -23.212667,
-                        15.138784
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Forte de São José",
-                  "text": "Forte de São José erőd Barreiroban, történelmi tengerparti erődítmény.",
-                  "category": "castle",
-                  "coords": [
-                        -23.212457,
-                        15.136546
-                  ]
-            },
-            {
-                  "name": "Praia da Vila",
-                  "text": "Barreiro környékén megbújva ez a hangulatos strand pihentető tengerparti légkörrel vonzza a látogatókat. Kiválóan alkalmas hosszú sétákra a homokban, vagy egyszerűen csak a kikapcsolódásra. Aki szeretné élvezni a napsütést, meleg napokon remek menedéket talál itt.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.215524,
-                        15.140183
-                  ]
-            },
-            {
-                  "name": "Praia de Ponta Preta",
-                  "text": "Ez a hívogató tengerparti szakasz Barreiro városában csendes órákat és lágy tengerzúgást ígér. A strand elegendő helyet biztosít a pihentető napozáshoz és a vízparti meghitt pillanatokhoz. A különösen békés élmény érdekében érdemes már a kora reggeli órákban érkezni.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.203044,
-                        15.126177
-                  ]
-            },
-            {
-                  "name": "Casa L. A. Cardoso",
-                  "text": "Történelmi Casa L. A. Cardoso lakóház Barreiroban.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.2111,
-                        15.137374
-                  ]
-            },
             {
                   "name": "Montinho de Lume",
                   "text": "Montinho de Lume domb Barreiroban, természetes kilátó.",
@@ -6431,72 +3840,9 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                         -23.210012,
                         15.144539
                   ]
-            },
-            {
-                  "name": "Centro do Mergulho AAA Maio Plongée",
-                  "text": "AAA Maio Plongée búvárközpont Barreiroban, búvárutakat kínál.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.214602,
-                        15.140007
-                  ]
-            },
-            {
-                  "name": "Miradouro de Praia de Ponta Preta",
-                  "text": "Magasan Barreiro partja felett erről a kilátóról nagyszerű látvány nyílik az alatta elterülő strandra. A hely arra csábít, hogy magunkba szívjuk a tenger végtelenségét és érezzük a sós szellőt. A fotósoknak és a természet kedvelőinek mindenképpen érdemes beiktatniuk ezt a megállót a part menti túrájuk során.",
-                  "category": "natural",
-                  "coords": [
-                        -23.205818,
-                        15.126836
-                  ]
-            },
-            {
-                  "name": "Sóis sete luas",
-                  "text": "Sóis Sete Luas kulturális helyszín Barreiroban.",
-                  "category": "cultural",
-                  "coords": [
-                        -23.212667,
-                        15.138784
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Forte de São José",
-                  "text": "Fortăreața Forte de São José în Barreiro, o fortificație istorică de coastă.",
-                  "category": "castle",
-                  "coords": [
-                        -23.212457,
-                        15.136546
-                  ]
-            },
-            {
-                  "name": "Praia da Vila",
-                  "text": "Ascunsă în împrejurimile din Barreiro, această plajă fermecătoare atrage printr-o atmosferă de coastă relaxantă. Este un loc excelent pentru plimbări lungi pe nisip sau pur și simplu pentru a te deconecta. Cei care doresc să se bucure de soare vor găsi aici un spațiu minunat de odihnă în zilele calde.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.215524,
-                        15.140183
-                  ]
-            },
-            {
-                  "name": "Praia de Ponta Preta",
-                  "text": "Această porțiune de coastă primitoare din Barreiro promite ore liniștite la malul mării și sunetul blând al valurilor. Plaja oferă spațiu suficient pentru plajă relaxantă și momente plăcute lângă apă. Pentru o experiență deosebit de pașnică, este recomandat să ajungeți la primele ore ale dimineții.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.203044,
-                        15.126177
-                  ]
-            },
-            {
-                  "name": "Casa L. A. Cardoso",
-                  "text": "Casa istorică L. A. Cardoso în Barreiro.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.2111,
-                        15.137374
-                  ]
-            },
             {
                   "name": "Montinho de Lume",
                   "text": "Dealul Montinho de Lume în Barreiro, un punct natural de belvedere.",
@@ -6505,72 +3851,9 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                         -23.210012,
                         15.144539
                   ]
-            },
-            {
-                  "name": "Centro do Mergulho AAA Maio Plongée",
-                  "text": "Centrul de scufundări AAA Maio Plongée în Barreiro, oferă scufundări.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.214602,
-                        15.140007
-                  ]
-            },
-            {
-                  "name": "Miradouro de Praia de Ponta Preta",
-                  "text": "Sus, deasupra țărmului din Barreiro, acest punct de belvedere dezvăluie o priveliște grandioasă asupra plajei de dedesubt. Locul te invită să te bucuri de imensitatea mării și să simți briza sărată. Fotografii și iubitorii de natură ar trebui neapărat să includă această oprire în turul lor de-a lungul coastei.",
-                  "category": "natural",
-                  "coords": [
-                        -23.205818,
-                        15.126836
-                  ]
-            },
-            {
-                  "name": "Sóis sete luas",
-                  "text": "Locația culturală Sóis Sete Luas în Barreiro.",
-                  "category": "cultural",
-                  "coords": [
-                        -23.212667,
-                        15.138784
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Forte de São José",
-                  "text": "Forte de São José fortress in Barreiro, a historic coastal fortification.",
-                  "category": "castle",
-                  "coords": [
-                        -23.212457,
-                        15.136546
-                  ]
-            },
-            {
-                  "name": "Praia da Vila",
-                  "text": "Tucked away in the surroundings of Barreiro, this charming beach draws visitors with its relaxed coastal atmosphere. It is an excellent spot for long walks on the sand or simply to unwind by the water. Those looking to soak up the sun will find it a wonderful retreat on warm days.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.215524,
-                        15.140183
-                  ]
-            },
-            {
-                  "name": "Praia de Ponta Preta",
-                  "text": "This inviting stretch of coastline in Barreiro promises quiet hours by the sea and the gentle sound of the waves. The beach offers ample space for relaxed sunbathing and cozy moments near the water. For an especially peaceful experience, arriving in the early morning hours is highly recommended.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.203044,
-                        15.126177
-                  ]
-            },
-            {
-                  "name": "Casa L. A. Cardoso",
-                  "text": "The historic Casa L. A. Cardoso house in Barreiro.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.2111,
-                        15.137374
-                  ]
-            },
             {
                   "name": "Montinho de Lume",
                   "text": "Montinho de Lume hill in Barreiro, a natural viewpoint.",
@@ -6578,33 +3861,6 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
                   "coords": [
                         -23.210012,
                         15.144539
-                  ]
-            },
-            {
-                  "name": "Diving Center AAA Maio Plongée",
-                  "text": "AAA Maio Plongée diving center in Barreiro offering dives.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.214602,
-                        15.140007
-                  ]
-            },
-            {
-                  "name": "Miradouro de Praia de Ponta Preta",
-                  "text": "High above the shore of Barreiro, this viewpoint reveals a magnificent prospect of the beach below. The location invites you to take in the vastness of the ocean and feel the salty breeze. Photographers and nature lovers should definitely plan to include this stop on their coastal tour.",
-                  "category": "natural",
-                  "coords": [
-                        -23.205818,
-                        15.126836
-                  ]
-            },
-            {
-                  "name": "Sóis sete luas",
-                  "text": "The Sóis Sete Luas cultural venue in Barreiro.",
-                  "category": "cultural",
-                  "coords": [
-                        -23.212667,
-                        15.138784
                   ]
             }
       ]
@@ -6696,50 +3952,10 @@ export const poiExtraCapeverdeCitiesV2: POI[] = [
     },
   },
   {id: "cascabulho-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Monte Penoso",
-                  "text": "Monte Penoso ist ein markanter Gipfel in Cascabulho. Er ist als der höchste Punkt der Insel Maio bekannt.",
-                  "category": "natural",
-                  "coords": [
-                        -23.13008,
-                        15.227823
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Monte Penoso",
-                  "text": "A Monte Penoso egy kiemelkedő hegycsúcs Cascabulhóban. Maio szigetének legmagasabb pontjaként ismert.",
-                  "category": "natural",
-                  "coords": [
-                        -23.13008,
-                        15.227823
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Monte Penoso",
-                  "text": "Monte Penoso este un vârf proeminent situat în Cascabulho. Este cunoscut ca fiind cel mai înalt punct de pe insula Maio.",
-                  "category": "natural",
-                  "coords": [
-                        -23.13008,
-                        15.227823
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Monte Penoso",
-                  "text": "Monte Penoso is a prominent peak located in Cascabulho. It is known as the highest point on the island of Maio.",
-                  "category": "natural",
-                  "coords": [
-                        -23.13008,
-                        15.227823
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, type: "city", parent: "CV-MA", coords: [-23.1333, 15.2167], name: {de: "Cascabulho", hu: "Cascabulho", ro: "Cascabulho", en: "Cascabulho"},
     image: "/poi-images/cascabulho-cities-v2.webp", description: {de: "Cascabulho ist eine kleine Siedlung im Norden der Insel Maio.", hu: "Cascabulho egy kis település Maio szigetének északi részén.", ro: "Cascabulho este o mica a?ezare în nordul insulei Maio.", en: "Cascabulho is a small settlement in the north of Maio island.", es: "Cascabulho es un pequeño asentamiento en el norte de la isla de Maio.", pt: "Cascabulho é um pequeno assentamento no norte da ilha do Maio.", fr: "Cascabulho est un petit établissement situé au nord de l'île de Maio."}, facts: {de: ["Gelegen in einer weiten, trockenen Landschaft", "Traditionelle Viehzucht bestimmt den Alltag", "Ruheort abseits der touristischen Pfade", "Bietet einen Blick auf die karge Schönheit der Insel"], hu: ["Hatalmas, száraz tájon fekszik", "A hagyományos állattenyésztés határozza meg a mindennapokat", "Nyugodt hely a turisztikai útvonalakon kívül", "Betekintést nyújt a sziget kopár szépségébe"], ro: ["Situat într-un peisaj vast ?i uscat", "Creșterea tradiționala a animalelor determina viața de zi cu zi", "Loc de liniște în afara traseelor turistice", "Ofera o privire asupra frumuse?ii aride a insulei"], en: ["Located in a vast, dry landscape", "Traditional livestock farming shapes daily life", "Quiet place off the tourist tracks", "Offers a view of the island's barren beauty"], es: ["Situado en un paisaje amplio y seco", "La ganadería tradicional marca la vida cotidiana", "Lugar de descanso alejado de los senderos turísticos", "Ofrece una vista de la belleza árida de la isla"], pt: ["Situado numa paisagem vasta e seca", "A pecuária tradicional domina o dia-a-dia", "Local de repouso fora dos trilhos turísticos", "Oferece uma vista da beleza árida da ilha"], fr: ["Situé dans un vaste paysage sec", "L'élevage traditionnel rythme le quotidien", "Lieu de repos à l'écart des sentiers touristiques", "Offre un aperçu de la beauté aride de l'île"]}, image: "/poi-images/cascabulho-cities-v2.webp",
     descriptionAdvanced: {

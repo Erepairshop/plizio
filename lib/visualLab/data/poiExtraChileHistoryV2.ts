@@ -10499,15 +10499,6 @@ export const poiExtraChileHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parroquia Nuestra Señora del Carmen",
-                  "text": "Die alte Kapelle des Sieges von Maipú, die als katholische Kultstätte dient.",
-                  "category": "religious",
-                  "coords": [
-                        -70.758493,
-                        -33.51153
-                  ]
-            },
-            {
                   "name": "Cerro Chena",
                   "text": "Ein Berggipfel, der für seine archäologischen Stätten und den Panoramablick über den südlichen Teil Santiagos bekannt ist.",
                   "category": "natural",
@@ -10553,15 +10544,6 @@ export const poiExtraChileHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo del Agua SMAPA",
-                  "text": "Ein spezialisiertes kommunales Museum, das sich der Geschichte der lokalen Wasserversorgung widmet.",
-                  "category": "museum",
-                  "coords": [
-                        -70.74748,
-                        -33.508434
-                  ]
-            },
-            {
                   "name": "Museo Patrimonial Pudahuel",
                   "text": "Eine kulturelle Einrichtung, die historische Artefakte der Gemeinde bewahrt.",
                   "category": "museum",
@@ -10580,15 +10562,6 @@ export const poiExtraChileHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Quinta Las Rosas de Maipú",
-                  "text": "Ein historisches Denkmal aus dem Jahr 1994, entworfen vom Architekten José Luis Coo.",
-                  "category": "historical",
-                  "coords": [
-                        -70.757977,
-                        -33.493295
-                  ]
-            },
-            {
                   "name": "Excapilla de La Victoria",
                   "text": "Die baulichen Überreste einer historischen Kapelle aus dem April 1892.",
                   "category": "historical",
@@ -10604,15 +10577,6 @@ export const poiExtraChileHistoryV2: POI[] = [
                   "coords": [
                         -70.779343,
                         -33.513122
-                  ]
-            },
-            {
-                  "name": "Teatro Municipal de Maipú",
-                  "text": "Das wichtigste städtische Theater, das als Veranstaltungsort für lokale darstellende Künste dient.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.756803,
-                        -33.508766
                   ]
             },
             {
@@ -10807,15 +10771,6 @@ export const poiExtraChileHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parroquia Nuestra Señora del Carmen",
-                  "text": "A maipúi győzelem egykori kápolnája, amely ma katolikus istentiszteleti helyként szolgál.",
-                  "category": "religious",
-                  "coords": [
-                        -70.758493,
-                        -33.51153
-                  ]
-            },
-            {
                   "name": "Cerro Chena",
                   "text": "Régészeti lelőhelyeiről és Santiago déli részére nyíló panorámájáról ismert hegycsúcs.",
                   "category": "natural",
@@ -10861,15 +10816,6 @@ export const poiExtraChileHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo del Agua SMAPA",
-                  "text": "Egy speciális önkormányzati múzeum, amely a helyi vízellátás történetét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -70.74748,
-                        -33.508434
-                  ]
-            },
-            {
                   "name": "Museo Patrimonial Pudahuel",
                   "text": "A település történelmi emlékeit őrző kulturális intézmény.",
                   "category": "museum",
@@ -10888,15 +10834,6 @@ export const poiExtraChileHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Quinta Las Rosas de Maipú",
-                  "text": "Egy 1994-ből származó történelmi emlékmű, amelyet José Luis Coo építész tervezett.",
-                  "category": "historical",
-                  "coords": [
-                        -70.757977,
-                        -33.493295
-                  ]
-            },
-            {
                   "name": "Excapilla de La Victoria",
                   "text": "Egy 1892 áprilisában alapított történelmi kápolna építészeti maradványai.",
                   "category": "historical",
@@ -10912,15 +10849,6 @@ export const poiExtraChileHistoryV2: POI[] = [
                   "coords": [
                         -70.779343,
                         -33.513122
-                  ]
-            },
-            {
-                  "name": "Teatro Municipal de Maipú",
-                  "text": "A helyi előadóművészetek központi helyszíneként szolgáló városi színház.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.756803,
-                        -33.508766
                   ]
             },
             {
@@ -11115,15 +11043,6 @@ export const poiExtraChileHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parroquia Nuestra Señora del Carmen",
-                  "text": "Vechea capelă a Victoriei din Maipú, care servește drept lăcaș de cult catolic.",
-                  "category": "religious",
-                  "coords": [
-                        -70.758493,
-                        -33.51153
-                  ]
-            },
-            {
                   "name": "Cerro Chena",
                   "text": "Un vârf de munte cunoscut pentru siturile sale arheologice și vederile panoramice asupra părții de sud a orașului Santiago.",
                   "category": "natural",
@@ -11169,15 +11088,6 @@ export const poiExtraChileHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo del Agua SMAPA",
-                  "text": "Un muzeu municipal specializat, dedicat istoriei gestionării locale a apei.",
-                  "category": "museum",
-                  "coords": [
-                        -70.74748,
-                        -33.508434
-                  ]
-            },
-            {
                   "name": "Museo Patrimonial Pudahuel",
                   "text": "O instituție culturală care păstrează artefactele istorice ale comunei.",
                   "category": "museum",
@@ -11196,15 +11106,6 @@ export const poiExtraChileHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Quinta Las Rosas de Maipú",
-                  "text": "Un monument istoric inaugurat în 1994, proiectat de arhitectul José Luis Coo.",
-                  "category": "historical",
-                  "coords": [
-                        -70.757977,
-                        -33.493295
-                  ]
-            },
-            {
                   "name": "Excapilla de La Victoria",
                   "text": "Ruinele structurale ale unei capele istorice ce datează din aprilie 1892.",
                   "category": "historical",
@@ -11220,15 +11121,6 @@ export const poiExtraChileHistoryV2: POI[] = [
                   "coords": [
                         -70.779343,
                         -33.513122
-                  ]
-            },
-            {
-                  "name": "Teatro Municipal de Maipú",
-                  "text": "Teatrul municipal principal, servind drept loc de desfășurare pentru artele spectacolului local.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.756803,
-                        -33.508766
                   ]
             },
             {
@@ -11423,15 +11315,6 @@ export const poiExtraChileHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Parroquia Nuestra Señora del Carmen",
-                  "text": "The old chapel of the Victory of Maipú, serving as a Catholic place of worship.",
-                  "category": "religious",
-                  "coords": [
-                        -70.758493,
-                        -33.51153
-                  ]
-            },
-            {
                   "name": "Cerro Chena",
                   "text": "A mountain peak known for its archaeological sites and panoramic views over the southern part of Santiago.",
                   "category": "natural",
@@ -11477,15 +11360,6 @@ export const poiExtraChileHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo del Agua SMAPA",
-                  "text": "A specialized municipal museum dedicated to the history of local water management.",
-                  "category": "museum",
-                  "coords": [
-                        -70.74748,
-                        -33.508434
-                  ]
-            },
-            {
                   "name": "Museo Patrimonial Pudahuel",
                   "text": "A cultural institution preserving the historical artifacts and heritage of the commune.",
                   "category": "museum",
@@ -11504,15 +11378,6 @@ export const poiExtraChileHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Quinta Las Rosas de Maipú",
-                  "text": "A historic memorial monument dating from 1994, designed by architect José Luis Coo.",
-                  "category": "historical",
-                  "coords": [
-                        -70.757977,
-                        -33.493295
-                  ]
-            },
-            {
                   "name": "Excapilla de La Victoria",
                   "text": "The structural remains of a historical chapel dating back to April 1892.",
                   "category": "historical",
@@ -11528,15 +11393,6 @@ export const poiExtraChileHistoryV2: POI[] = [
                   "coords": [
                         -70.779343,
                         -33.513122
-                  ]
-            },
-            {
-                  "name": "Teatro Municipal de Maipú",
-                  "text": "The primary municipal theater serving as a major venue for local performing arts.",
-                  "category": "cultural",
-                  "coords": [
-                        -70.756803,
-                        -33.508766
                   ]
             },
             {

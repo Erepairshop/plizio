@@ -1240,50 +1240,10 @@ export const poiExtraZambiaLifeV2: POI[] = [
   },
   {
     id: "mbala-highland-gardens-life-v2", "sights": {
-      "de": [
-            {
-                  "name": "Moto Moto Museum",
-                  "text": "Das Moto-Moto-Museum im Hochland von Mbala beherbergt umfangreiche Sammlungen zur lokalen Geschichte, Vorgeschichte und zum traditionellen Handwerk.",
-                  "category": "museum",
-                  "coords": [
-                        31.357585,
-                        -8.821307
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Moto Moto Museum",
-                  "text": "A mbalai fennsíkon található Moto Moto Múzeum kiterjedt gyűjteményekkel rendelkezik a helyi történelem, őstörténet és a hagyományos mesterségek terén.",
-                  "category": "museum",
-                  "coords": [
-                        31.357585,
-                        -8.821307
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Moto Moto Museum",
-                  "text": "Muzeul Moto Moto din zonele înalte ale orașului Mbala găzduiește colecții extinse care acoperă istoria locală, preistoria și meșteșugurile tradiționale.",
-                  "category": "museum",
-                  "coords": [
-                        31.357585,
-                        -8.821307
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Moto Moto Museum",
-                  "text": "The Moto Moto Museum in the Mbala highlands houses extensive collections covering local history, prehistory, and traditional crafts.",
-                  "category": "museum",
-                  "coords": [
-                        31.357585,
-                        -8.821307
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "agriculture",
     parent: "ZM-08",

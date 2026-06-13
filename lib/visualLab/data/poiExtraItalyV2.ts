@@ -802,17 +802,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museo della Carta",
-                  "text": "In einer alten Mühle untergebracht, zeigt dieses Museum die lange Tradition der Papierherstellung in Amalfi seit dem Mittelalter.",
-                  "category": "museums",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/amalfi-museo-della-carta.webp",
-                  "coords": [
-                        14.600144,
-                        40.63971
-                  ]
-            },
-            {
                   "name": "Arsenale della Repubblica",
                   "text": "In diesem gotischen Gebäude wurden einst die mächtigen Galeeren der Seerepublik Amalfi gebaut und für den Handel ausgestattet.",
                   "category": "industrial heritage",
@@ -846,17 +835,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Torre dello Ziro",
-                  "text": "Dieser historische Wachturm bietet einen spektakulären Panoramablick über Amalfi und die Nachbarstadt Atrani an der Küste.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/amalfi-torre-dello-ziro.webp",
-                  "coords": [
-                        14.605667,
-                        40.635917
-                  ]
-            },
-            {
                   "name": "Spiaggia Grande di Amalfi",
                   "text": "Die Spiaggia Grande di Amalfi bildet als Hauptstrand direkt am Hafen das pulsierende Herz der Küstenstadt. Vor der malerischen Kulisse der steil aufragenden, farbenfrohen Häuser bietet das klare Wasser eine spektakuläre Badeumgebung. Da dieser ikonische Strand schnell voll wird, sichern Sie sich am besten früh morgens einen Liegeplatz mit Traumausblick.",
                   "category": "parks/promenades/beaches",
@@ -887,24 +865,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.566944,
                         40.615
-                  ]
-            },
-            {
-                  "name": "Tonino's Beach",
-                  "text": "Ein charmantes Strandbad in Amalfi, das exklusiven Zugang zum Meer und Komfort bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        14.604419,
-                        40.63382
-                  ]
-            },
-            {
-                  "name": "Castiglione",
-                  "text": "Ein malerischer, von Klippen umgebener Strand in Amalfi, der nur über Treppen oder per Boot erreichbar ist.",
-                  "category": "recreational",
-                  "coords": [
-                        14.61083,
-                        40.636867
                   ]
             }
       ],
@@ -987,17 +947,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spiaggia Grande",
-                  "text": "A kikötő mellett elterülő Spiaggia Grande di Amalfi a város fő strandjaként az amalfi partvidék lüktető szíve. A meredek sziklafalakra épült, színpompás házak lenyűgöző háttere előtt a kristálytiszta víz felejthetetlen élményt nyújt. Mivel ez az ikonikus tengerpart hamar megtelik, érdemes kora reggel érkezni, hogy biztosítson magának egy mesés kilátású helyet.",
-                  "category": "parks/promenades/beaches",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/amalfi-spiaggia-grande-di-amalfi.webp",
-                  "coords": [
-                        14.487181,
-                        40.627778
-                  ]
-            },
-            {
                   "name": "Piazza del Duomo",
                   "text": "A város nyüzsgő főtere, ahol a turisták és helyiek élvezik a napsütést a dóm tövében fekvő hangulatos kávézókban.",
                   "category": "squares/old-town",
@@ -1017,24 +966,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.566944,
                         40.615
-                  ]
-            },
-            {
-                  "name": "Tonino's Beach",
-                  "text": "Bájos strandkomplexum Amalfiban, amely exkluzív hozzáférést biztosít a tengerhez és kényelmet kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        14.604419,
-                        40.63382
-                  ]
-            },
-            {
-                  "name": "Castiglione",
-                  "text": "Sziklákkal körülvett festői strand Amalfiban, amely csak lépcsőn vagy hajóval érhető el.",
-                  "category": "recreational",
-                  "coords": [
-                        14.61083,
-                        40.636867
                   ]
             }
       ],
@@ -1106,17 +1037,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Torre dello Ziro",
-                  "text": "Un turn de veghe istoric ce oferă o panoramă spectaculoasă asupra orașelor Amalfi și Atrani de la înălțimea stâncilor.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/amalfi-torre-dello-ziro.webp",
-                  "coords": [
-                        14.605667,
-                        40.635917
-                  ]
-            },
-            {
                   "name": "Spiaggia Grande di Amalfi",
                   "text": "Spiaggia Grande di Amalfi este plaja principală aflată direct la port, fiind inima vibrantă a acestui oraș de coastă. Apa cristalină oferă un cadru spectaculos pentru înot, având ca fundal clădirile colorate ce se înalță pitoresc pe stânci. Fiind un loc iconic foarte aglomerat, cel mai bine este să veniți la primele ore pentru a prinde un loc cu vedere de vis.",
                   "category": "parks/promenades/beaches",
@@ -1147,24 +1067,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.566944,
                         40.615
-                  ]
-            },
-            {
-                  "name": "Tonino's Beach",
-                  "text": "O stațiune de plajă fermecătoare în Amalfi, care oferă acces exclusiv la mare și confort.",
-                  "category": "recreational",
-                  "coords": [
-                        14.604419,
-                        40.63382
-                  ]
-            },
-            {
-                  "name": "Castiglione",
-                  "text": "O plajă pitorească în Amalfi, înconjurată de stânci, accesibilă doar pe scări sau cu barca.",
-                  "category": "recreational",
-                  "coords": [
-                        14.61083,
-                        40.636867
                   ]
             }
       ],
@@ -1236,28 +1138,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Torre dello Ziro",
-                  "text": "A historic watchtower perched on a cliff, famous for its panoramic views over Amalfi and the neighboring town of Atrani.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/amalfi-torre-dello-ziro.webp",
-                  "coords": [
-                        14.605667,
-                        40.635917
-                  ]
-            },
-            {
-                  "name": "Spiaggia Grande",
-                  "text": "Acting as the town's main beach right by the harbor, the Spiaggia Grande di Amalfi is the beating heart of this stunning coastal destination. The clear waters offer a spectacular swimming environment, beautifully framed by the dramatically steep and colorful house fronts. Because this iconic beach fills up quickly, securing a spot early in the morning guarantees a day with a dreamlike view.",
-                  "category": "parks/promenades/beaches",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/amalfi-spiaggia-grande-di-amalfi.webp",
-                  "coords": [
-                        14.487181,
-                        40.627778
-                  ]
-            },
-            {
                   "name": "Piazza del Duomo",
                   "text": "The vibrant heart of the city, lined with outdoor cafes and dominated by the majestic steps of the cathedral.",
                   "category": "squares/old-town",
@@ -1277,24 +1157,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.566944,
                         40.615
-                  ]
-            },
-            {
-                  "name": "Tonino's Beach",
-                  "text": "A charming beach resort in Amalfi offering exclusive access to the sea and comfort.",
-                  "category": "recreational",
-                  "coords": [
-                        14.604419,
-                        40.63382
-                  ]
-            },
-            {
-                  "name": "Castiglione",
-                  "text": "A picturesque beach in Amalfi surrounded by cliffs, accessible via stairs or by boat.",
-                  "category": "recreational",
-                  "coords": [
-                        14.61083,
-                        40.636867
                   ]
             }
       ]
@@ -8764,17 +8626,6 @@ export const poiExtraItalyV2: POI[] = [
   {"id": "manarola", "type": "city", "parent": "IT-42", "coords": [9.7261, 44.1064], "population": 350, "tier": 1, "name": {"de": "Manarola", "hu": "Manarola", "ro": "Manarola", "en": "Manarola"}, "description": {"de": "Manarola ist berühmt für seine farbenfrohen Häuser, die sich an die Klippen klammern, und seinen köstlichen Sciacchetrà-Wein.", "hu": "Sziklafalra kapaszkodó színes házaival és a híres Sciacchetrà borral Manarola a Cinque Terre egyik legromantikusabb ékköve.", "ro": "Manarola este celebră pentru casele sale colorate suspendate pe stânci și pentru producția renumitului vin Sciacchetrà.", "en": "Manarola is famous for its colorful houses perched on steep cliffs and its world-renowned Sciacchetrà dessert wine."}, "facts": {"de": ["Ältestes Dorf der 5", "Sciacchetrà-Wein", "Via dell'Amore", "Sankt Lorenz Kirche", "Größte Krippe der Welt", "Badestelle am Fels"], "hu": ["A legrégebbi falu", "Szent Lőrinc-templom", "Szerelem útja kezdőpont", "Sciacchetrà bor hazája", "Világ legnagyobb betleheme", "Sziklás fürdőhely"], "ro": ["Cea mai veche localitate", "Vinul Sciacchetrà", "Via dell'Amore", "Biserica San Lorenzo", "Cea mai mare iesle", "Zonă de înot stâncoasă"], "en": ["Oldest of the 5 villages", "Sciacchetrà wine", "Via dell'Amore path", "San Lorenzo Church", "World's largest nativity", "Deep water swimming"]}, "image": "/poi-images/manarola.webp", "imageHint": "Manarola sunset view of colorful houses on the cliff side", "descriptionAdvanced": {"de": "Manarola gilt als das älteste der fünf Dörfer der Cinque Terre, wie der Grundstein der Kirche San Lorenzo aus dem Jahr 1338 belegt. Das Dorf ist architektonisch einzigartig, da die Häuser fast senkrecht über dem kleinen Hafen aufragen. Da es keinen klassischen Sandstrand gibt, springen Mutige von den Felsen direkt in das tiefblaue Meer. Besonders bekannt ist Manarola für die 'Via dell'Amore', den berühmten Liebespfad, der den Ort mit dem benachbarten Riomaggiore verbindet. In den Wintermonaten erstrahlt über den Weinbergen die größte beleuchtete Krippe der Welt, eine beeindruckende Installation aus über 300 Figuren. Die lokale Wirtschaft ist seit Jahrhunderten durch den Weinbau geprägt, wobei der süße Sciacchetrà als besondere Kostbarkeit gilt. Der Sentiero Azzurro ist seit 2024 kostenpflichtig (7,50-15 Euro), die berühmte Via dell'Amore Richtung Riomaggiore wurde nach jahrelanger Sperrung 2024 teilweise wiedereröffnet. Manarolas Weinberge sind im UNESCO-Welterbe.", "hu": "Manarola valószínűleg a legősibb a Cinque Terre falvai közül, amire a San Lorenzo-templom 1338-as alapköve is utal. A település házai szinte függőlegesen tornyosulnak a tenger felett, különleges és drámai látványt nyújtva a naplementében. Bár homokos strandja nincs, a mélyvizes öböl és a sziklákról való ugrálás a fiatalok kedvence. Itt található a 'Via dell'Amore' (Szerelmesek útja) egyik végpontja, amely a szomszédos Riomaggiore felé vezet a sziklafalba vájva. Karácsony idején a domboldalra felépítik a világ legnagyobb kivilágított betlehemét, amely több mint 300 alakból áll. A falu híres a Sciacchetrà nevű édes desszertboráról, amelyet a környező meredek teraszokon termett szőlőből készítenek évszázadok óta. A Sentiero Azzurro 2024-től fizetős (7,50-15 euró), a Riomaggiore felé vezető híres Via dell'Amore évek után 2024-ben részlegesen újra megnyílt. Manarola szőlőterületei UNESCO-világörökség részei.", "ro": "Manarola este considerată cea mai veche dintre cele cinci așezări, având ca mărturie biserica San Lorenzo ce datează din 1338. Orașul este dispus pe un promontoriu stâncos, cu casele 'turn' specifice regiunii Liguria, care par să se prăbușească în apele mării. Deși nu are o plajă propriu-zisă, malul stâncos oferă unele dintre cele mai bune locuri pentru sărituri în apă din întreaga Italie. Este punctul de plecare pentru celebra 'Via dell'Amore', poteca ce șerpuiește pe marginea mării către Riomaggiore. Un eveniment spectaculos are loc în fiecare iarnă, când dealurile sunt acoperite de cea mai mare scenă a nașterii din lume, luminată de mii de beculețe. Vinul local, Sciacchetrà, este o licoare rară și prețioasă produsă pe terasele abrupte din jur. Sentiero Azzurro este cu plată din 2024 (7,50-15 euro), iar celebrul Via dell'Amore spre Riomaggiore s-a redeschis parțial în 2024 după ani de închidere. Viile din Manarola fac parte din patrimoniul UNESCO.", "en": "Manarola is widely believed to be the oldest of the Cinque Terre villages, evidenced by the 1338 cornerstone of the San Lorenzo church. The village is built on a high rock 70 meters above sea level, with its colorful houses cascading down toward a tiny marina. Without a traditional sandy beach, the harbor is a popular spot for sunbathing on the rocks and jumping into the deep blue Ligurian Sea. It marks one end of the 'Via dell'Amore' (Path of Love), a romantic coastal walkway leading to Riomaggiore. During the Christmas season, the hillsides of Manarola host the world's largest illuminated nativity scene, featuring over 300 life-sized figures. The local economy remains tied to the ancient tradition of viticulture, producing the prized Sciacchetrà sweet wine. The Sentiero Azzurro became paid in 2024 (7.50-15 euros), and the famous Via dell'Amore toward Riomaggiore partially reopened in 2024 after years of closure. Manarola's vineyards form part of the UNESCO World Heritage."}, "factsAdvanced": {"de": ["San Lorenzo Kirche (1338)", "70 Meter über dem Meer", "350 feste Einwohner", "UNESCO Weltkulturerbe", "Via dell'Amore Verbindung", "Größte Krippe (300 Figuren)", "Heimat des Sciacchetrà-Weins", "Beliebter Ort für Klippenspringer"], "hu": ["Szent Lőrinc-templom: 1338", "70 méterrel a tengerszint felett", "Lakosság: kb. 350 fő", "UNESCO listás terület", "Via dell'Amore szakasz", "Világ legnagyobb betleheme", "Sciacchetrà bor származási helye", "Híres a sziklafalról való ugrásról"], "ro": ["Biserica San Lorenzo (1338)", "Altitudine: 70 metri", "Populație: 350 locuitori", "Patrimoniu Mondial UNESCO", "Punct terminus Via dell'Amore", "Cea mai mare iesle luminată", "Producător de vin Sciacchetrà", "Faimos pentru sărituri de pe stânci"], "en": ["San Lorenzo Church (1338)", "70 meters above sea level", "Population: approx. 350", "UNESCO World Heritage site", "Via dell'Amore connection", "Largest nativity (300 figures)", "Sciacchetrà wine region", "Popular for cliff diving"]}, "sights": {
       "de": [
             {
-                  "name": "Via dell'Amore",
-                  "text": "Der berühmte 'Weg der Liebe' verbindet Manarola mit Riomaggiore und bietet spektakuläre Klippenaussichten entlang der ligurischen Küste.",
-                  "category": "promenades",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/manarola-via-dellamore.webp",
-                  "coords": [
-                        9.73333,
-                        44.1017
-                  ]
-            },
-            {
                   "name": "Piazza Papa Innocenzo IV",
                   "text": "Der obere Dorfplatz, an dem sich die Kirche und das Oratorium befinden, dient als ruhigerer Treffpunkt abseits des Hafentrubels.",
                   "category": "squares",
@@ -8829,17 +8680,6 @@ export const poiExtraItalyV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Via dell'Amore",
-                  "text": "A híres 'Szerelmesek útja' Manarolát köti össze Riomaggioréval, lenyűgöző tengerparti sziklák mentén vezetve a látogatókat.",
-                  "category": "promenades",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/manarola-via-dellamore.webp",
-                  "coords": [
-                        9.73333,
-                        44.1017
-                  ]
-            },
             {
                   "name": "Piazza Papa Innocenzo IV",
                   "text": "A falu felső terén található a templom és az oratórium, mely csendesebb pihenőhelyet kínál a kikötő forgatagától távol.",
@@ -8896,17 +8736,6 @@ export const poiExtraItalyV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Via dell'Amore",
-                  "text": "Celebrul 'Drum al Iubirii' leagă Manarola de Riomaggiore, oferind vederi spectaculoase de pe faleză de-a lungul coastei ligurice.",
-                  "category": "promenades",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/manarola-via-dellamore.webp",
-                  "coords": [
-                        9.73333,
-                        44.1017
-                  ]
-            },
-            {
                   "name": "Piazza Papa Innocenzo IV",
                   "text": "Piața superioară a satului, unde se află biserica și oratoriul, fiind un loc de întâlnire liniștit, departe de agitația portului.",
                   "category": "squares",
@@ -8961,17 +8790,6 @@ export const poiExtraItalyV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Via dell'Amore",
-                  "text": "The famous 'Lovers' Lane' connects Manarola to Riomaggiore, featuring spectacular cliffside views along the Ligurian coast.",
-                  "category": "promenades",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/manarola-via-dellamore.webp",
-                  "coords": [
-                        9.73333,
-                        44.1017
-                  ]
-            },
             {
                   "name": "Piazza Papa Innocenzo IV",
                   "text": "The upper village square where the church and oratory are located, serving as a peaceful meeting point away from the harbor crowd.",
@@ -13104,15 +12922,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Valletta -TEN Beach Club - Oasi al Mare",
-                  "text": "La Valletta TEN Beach Club in Portofino ist ein familienfreundlicher Strandclub mit einem Salzwasserpool und Liegestühlen.",
-                  "category": "family",
-                  "coords": [
-                        9.21521,
-                        44.328985
-                  ]
-            },
-            {
                   "name": "Spiaggia Della Caletta Dei Pescatori",
                   "text": "Spiaggia della Caletta dei Pescatori in Portofino ist eine kleine Bucht, die traditionell von Fischern genutzt wird.",
                   "category": "family",
@@ -13122,39 +12931,12 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spiaggia Regina Elena",
-                  "text": "Spiaggia Regina Elena ist ein Strandbad in Portofino, das Komfort und Entspannung an der Küste bietet.",
-                  "category": "family",
-                  "coords": [
-                        9.216081,
-                        44.325633
-                  ]
-            },
-            {
-                  "name": "Spiaggia del Grand Hotel Miramare",
-                  "text": "Spiaggia del Grand Hotel Miramare in Portofino ist der private Hotelstrand mit Liegestühlen und Sonnenschirmen.",
-                  "category": "family",
-                  "coords": [
-                        9.215701,
-                        44.327466
-                  ]
-            },
-            {
                   "name": "Bagni San Fruttuoso",
                   "text": "Bagni San Fruttuoso ist ein Strandbad in Portofino, ideal für einen ruhigen Tag am Meer.",
                   "category": "family",
                   "coords": [
                         9.174839,
                         44.316032
-                  ]
-            },
-            {
-                  "name": "Bagni Vicini",
-                  "text": "Bagni Vicini ist ein Strandbad in Portofino, das Service und Erholung direkt an der Küste bietet.",
-                  "category": "family",
-                  "coords": [
-                        9.214514,
-                        44.335147
                   ]
             },
             {
@@ -13233,15 +13015,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Valletta -TEN Beach Club - Oasi al Mare",
-                  "text": "A La Valletta TEN Beach Club Portofinóban egy családbarát strandklub, sósvizű medencével és napozóágyakkal.",
-                  "category": "family",
-                  "coords": [
-                        9.21521,
-                        44.328985
-                  ]
-            },
-            {
                   "name": "Spiaggia Della Caletta Dei Pescatori",
                   "text": "A Spiaggia della Caletta dei Pescatori Portofinóban egy kis öböl, amelyet hagyományosan halászok használtak.",
                   "category": "family",
@@ -13251,39 +13024,12 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spiaggia Regina Elena",
-                  "text": "A Spiaggia Regina Elena egy tengerparti üdülőhely Portofinóban, amely kényelmet és pihenést kínál a parton.",
-                  "category": "family",
-                  "coords": [
-                        9.216081,
-                        44.325633
-                  ]
-            },
-            {
-                  "name": "Spiaggia del Grand Hotel Miramare",
-                  "text": "A Spiaggia del Grand Hotel Miramare Portofinóban a szálloda magánstrandja, napozóágyakkal és napernyőkkel.",
-                  "category": "family",
-                  "coords": [
-                        9.215701,
-                        44.327466
-                  ]
-            },
-            {
                   "name": "Bagni San Fruttuoso",
                   "text": "A Bagni San Fruttuoso egy tengerparti üdülőhely Portofinóban, amely ideális egy nyugodt tengerparti naphoz.",
                   "category": "family",
                   "coords": [
                         9.174839,
                         44.316032
-                  ]
-            },
-            {
-                  "name": "Bagni Vicini",
-                  "text": "A Bagni Vicini egy tengerparti üdülőhely Portofinóban, amely szolgáltatást és pihenést kínál közvetlenül a parton.",
-                  "category": "family",
-                  "coords": [
-                        9.214514,
-                        44.335147
                   ]
             },
             {
@@ -13362,15 +13108,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Valletta -TEN Beach Club - Oasi al Mare",
-                  "text": "La Valletta TEN Beach Club din Portofino este un club de plajă familial cu o piscină cu apă sărată și șezlonguri.",
-                  "category": "family",
-                  "coords": [
-                        9.21521,
-                        44.328985
-                  ]
-            },
-            {
                   "name": "Spiaggia Della Caletta Dei Pescatori",
                   "text": "Spiaggia della Caletta dei Pescatori din Portofino este o mică plajă de golf, folosită tradițional de pescari.",
                   "category": "family",
@@ -13380,39 +13117,12 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spiaggia Regina Elena",
-                  "text": "Spiaggia Regina Elena este o stațiune de plajă din Portofino, care oferă confort și relaxare pe coastă.",
-                  "category": "family",
-                  "coords": [
-                        9.216081,
-                        44.325633
-                  ]
-            },
-            {
-                  "name": "Spiaggia del Grand Hotel Miramare",
-                  "text": "Spiaggia del Grand Hotel Miramare din Portofino este plaja privată a hotelului, cu șezlonguri și umbrele.",
-                  "category": "family",
-                  "coords": [
-                        9.215701,
-                        44.327466
-                  ]
-            },
-            {
                   "name": "Bagni San Fruttuoso",
                   "text": "Bagni San Fruttuoso este o stațiune de plajă din Portofino, ideală pentru o zi liniștită la mare.",
                   "category": "family",
                   "coords": [
                         9.174839,
                         44.316032
-                  ]
-            },
-            {
-                  "name": "Bagni Vicini",
-                  "text": "Bagni Vicini este o stațiune de plajă din Portofino, care oferă servicii și relaxare direct pe coastă.",
-                  "category": "family",
-                  "coords": [
-                        9.214514,
-                        44.335147
                   ]
             },
             {
@@ -13491,15 +13201,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "La Valletta -TEN Beach Club - Oasi al Mare",
-                  "text": "La Valletta TEN Beach Club in Portofino is a family beach club offering a saltwater pool and sunbeds.",
-                  "category": "family",
-                  "coords": [
-                        9.21521,
-                        44.328985
-                  ]
-            },
-            {
                   "name": "Spiaggia Della Caletta Dei Pescatori",
                   "text": "Spiaggia della Caletta dei Pescatori in Portofino is a small cove beach traditionally used by local fishermen.",
                   "category": "family",
@@ -13509,39 +13210,12 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Spiaggia Regina Elena",
-                  "text": "Spiaggia Regina Elena is a beach resort in Portofino, offering comfort and relaxation on the coast.",
-                  "category": "family",
-                  "coords": [
-                        9.216081,
-                        44.325633
-                  ]
-            },
-            {
-                  "name": "Spiaggia del Grand Hotel Miramare",
-                  "text": "Spiaggia del Grand Hotel Miramare in Portofino is the hotel's private beach with sun loungers and umbrellas.",
-                  "category": "family",
-                  "coords": [
-                        9.215701,
-                        44.327466
-                  ]
-            },
-            {
                   "name": "Bagni San Fruttuoso",
                   "text": "Bagni San Fruttuoso is a beach resort in Portofino, ideal for a quiet day at the sea.",
                   "category": "family",
                   "coords": [
                         9.174839,
                         44.316032
-                  ]
-            },
-            {
-                  "name": "Bagni Vicini",
-                  "text": "Bagni Vicini is a beach resort in Portofino, offering service and relaxation right on the coast.",
-                  "category": "family",
-                  "coords": [
-                        9.214514,
-                        44.335147
                   ]
             },
             {
@@ -17150,15 +16824,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gardasee",
-                  "text": "Der Gardasee bei Sirmione bietet eine malerische Kulisse und Möglichkeiten für Spaziergänge am Ufer.",
-                  "category": "natural",
-                  "coords": [
-                        10.693904,
-                        45.662571
-                  ]
-            },
-            {
                   "name": "Laghetto del Frassino",
                   "text": "Ein kleiner, naturnaher See in Sirmione, der zu ruhigen Beobachtungen einlädt.",
                   "category": "natural",
@@ -17262,15 +16927,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.59991,
                         45.472283
-                  ]
-            },
-            {
-                  "name": "Garda-tó",
-                  "text": "A Garda-tó Sirmionénál festői környezetet és parti sétalehetőségeket kínál.",
-                  "category": "natural",
-                  "coords": [
-                        10.693904,
-                        45.662571
                   ]
             },
             {
@@ -17380,15 +17036,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Garda",
-                  "text": "Lacul Garda de lângă Sirmione oferă un peisaj pitoresc și posibilități de plimbare pe mal.",
-                  "category": "natural",
-                  "coords": [
-                        10.693904,
-                        45.662571
-                  ]
-            },
-            {
                   "name": "Laghetto del Frassino",
                   "text": "Un lac mic, aproape de natură în Sirmione, care invită la observații liniștite.",
                   "category": "natural",
@@ -17492,15 +17139,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.59991,
                         45.472283
-                  ]
-            },
-            {
-                  "name": "Lake Garda",
-                  "text": "Lake Garda near Sirmione offers a picturesque setting and opportunities for lakeside walks.",
-                  "category": "natural",
-                  "coords": [
-                        10.693904,
-                        45.662571
                   ]
             },
             {
@@ -22078,24 +21716,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagni Eden",
-                  "text": "Ein Strandbad in Vernazza, das Einrichtungen für einen entspannten Tag am Meer bietet.",
-                  "category": "family",
-                  "coords": [
-                        9.650958,
-                        44.145541
-                  ]
-            },
-            {
-                  "name": "Bagni Alga",
-                  "text": "Ein Strandbad in Vernazza, das Einrichtungen für einen entspannten Tag am Meer bietet.",
-                  "category": "family",
-                  "coords": [
-                        9.655943,
-                        44.145824
-                  ]
-            },
-            {
                   "name": "Cinque Terre",
                   "text": "Ein UNESCO-Weltkulturerbe und Nationalpark, der fünf malerische Küstendörfer umfasst.",
                   "category": "natural",
@@ -22129,15 +21749,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.654878,
                         44.146644
-                  ]
-            },
-            {
-                  "name": "Torre Aurora",
-                  "text": "Ein historischer Turm in Vernazza, der einen weiten Blick über die Küste bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        9.654356,
-                        44.144908
                   ]
             }
       ],
@@ -22209,24 +21820,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagni Eden",
-                  "text": "Tengerparti üdülőhely Vernazza városában, amely kényelmes pihenést biztosít a vízparton.",
-                  "category": "family",
-                  "coords": [
-                        9.650958,
-                        44.145541
-                  ]
-            },
-            {
-                  "name": "Bagni Alga",
-                  "text": "Tengerparti üdülőhely Vernazza városában, amely kényelmes pihenést biztosít a vízparton.",
-                  "category": "family",
-                  "coords": [
-                        9.655943,
-                        44.145824
-                  ]
-            },
-            {
                   "name": "Cinque Terre",
                   "text": "UNESCO világörökségi helyszín és nemzeti park, amely öt festői tengerparti falut foglal magában.",
                   "category": "natural",
@@ -22260,15 +21853,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.654878,
                         44.146644
-                  ]
-            },
-            {
-                  "name": "Torre Aurora",
-                  "text": "Történelmi torony Vernazzában, amely széles kilátást nyújt a tengerpartra.",
-                  "category": "landmark",
-                  "coords": [
-                        9.654356,
-                        44.144908
                   ]
             }
       ],
@@ -22340,24 +21924,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagni Eden",
-                  "text": "O stațiune de plajă în Vernazza care oferă facilități pentru o zi relaxantă la malul mării.",
-                  "category": "family",
-                  "coords": [
-                        9.650958,
-                        44.145541
-                  ]
-            },
-            {
-                  "name": "Bagni Alga",
-                  "text": "O stațiune de plajă în Vernazza care oferă facilități pentru o zi relaxantă la malul mării.",
-                  "category": "family",
-                  "coords": [
-                        9.655943,
-                        44.145824
-                  ]
-            },
-            {
                   "name": "Cinque Terre",
                   "text": "Un sit al Patrimoniului Mondial UNESCO și parc național care cuprinde cinci sate de coastă pitorești.",
                   "category": "natural",
@@ -22391,15 +21957,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.654878,
                         44.146644
-                  ]
-            },
-            {
-                  "name": "Torre Aurora",
-                  "text": "Un turn istoric în Vernazza care oferă o vedere panoramică asupra coastei.",
-                  "category": "landmark",
-                  "coords": [
-                        9.654356,
-                        44.144908
                   ]
             }
       ],
@@ -22471,24 +22028,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bagni Eden",
-                  "text": "A beach resort in Vernazza providing facilities for a relaxing day by the sea.",
-                  "category": "family",
-                  "coords": [
-                        9.650958,
-                        44.145541
-                  ]
-            },
-            {
-                  "name": "Bagni Alga",
-                  "text": "A beach resort in Vernazza providing facilities for a relaxing day by the sea.",
-                  "category": "family",
-                  "coords": [
-                        9.655943,
-                        44.145824
-                  ]
-            },
-            {
                   "name": "Cinque Terre",
                   "text": "A UNESCO World Heritage site and national park comprising five picturesque coastal villages.",
                   "category": "natural",
@@ -22522,15 +22061,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.654878,
                         44.146644
-                  ]
-            },
-            {
-                  "name": "Torre Aurora",
-                  "text": "A historic tower in Vernazza offering broad views over the coastline.",
-                  "category": "landmark",
-                  "coords": [
-                        9.654356,
-                        44.144908
                   ]
             }
       ]
@@ -27088,15 +26618,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina provinciale",
-                  "text": "Ein öffentliches Schwimmbad in Erice, das Platz zum Schwimmen und zur Erholung bietet.",
-                  "category": "family",
-                  "coords": [
-                        12.544997,
-                        38.029273
-                  ]
-            },
-            {
                   "name": "Santuario Sta. Anna",
                   "text": "Sant’Anna Heiligtum auf dem mittelalterlichen Hügel von Erice mit Panoramablick.",
                   "category": "religious",
@@ -27242,15 +26763,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.56785,
                         38.066636
-                  ]
-            },
-            {
-                  "name": "Piscina provinciale",
-                  "text": "Nyilvános úszómedence Erice területén, amely lehetőséget nyújt az úszásra és a kikapcsolódásra.",
-                  "category": "family",
-                  "coords": [
-                        12.544997,
-                        38.029273
                   ]
             },
             {
@@ -27402,15 +26914,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscina provinciale",
-                  "text": "O piscină publică în Erice care oferă spațiu pentru înot și recreere.",
-                  "category": "family",
-                  "coords": [
-                        12.544997,
-                        38.029273
-                  ]
-            },
-            {
                   "name": "Santuario Sta. Anna",
                   "text": "Sanctuarul Sf. Ana pe dealul medieval Erice, cu priveliști spre coastă.",
                   "category": "religious",
@@ -27556,15 +27059,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         12.56785,
                         38.066636
-                  ]
-            },
-            {
-                  "name": "Piscina provinciale",
-                  "text": "A public swimming pool in Erice offering space for swimming and recreation.",
-                  "category": "family",
-                  "coords": [
-                        12.544997,
-                        38.029273
                   ]
             },
             {
@@ -31012,15 +30506,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gardasee",
-                  "text": "Gardasee-Abschnitt bei Limone sul Garda, bekannt für Zitronenterrassen und klares Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        10.693904,
-                        45.662571
-                  ]
-            },
-            {
                   "name": "Parco Pubblico",
                   "text": "Öffentlicher Park in Limone sul Garda mit Sitzbänken und Seeblick.",
                   "category": "family",
@@ -31106,15 +30591,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.79298,
                         45.815716
-                  ]
-            },
-            {
-                  "name": "Garda-tó",
-                  "text": "A Garda-tó Limone sul Garda-i szakasza, híres citromteraszairól és tiszta vizéről.",
-                  "category": "natural",
-                  "coords": [
-                        10.693904,
-                        45.662571
                   ]
             },
             {
@@ -31206,15 +30682,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lacul Garda",
-                  "text": "Sectorul Lacului Garda de la Limone sul Garda, renumit pentru terasele cu lămâi și apa cristalină.",
-                  "category": "natural",
-                  "coords": [
-                        10.693904,
-                        45.662571
-                  ]
-            },
-            {
                   "name": "Parco Pubblico",
                   "text": "Parcul public din Limone sul Garda, cu bănci și vedere la lac.",
                   "category": "family",
@@ -31300,15 +30767,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.79298,
                         45.815716
-                  ]
-            },
-            {
-                  "name": "Lake Garda",
-                  "text": "The stretch of Lake Garda at Limone sul Garda, famed for its lemon terraces and clear waters.",
-                  "category": "natural",
-                  "coords": [
-                        10.693904,
-                        45.662571
                   ]
             },
             {
@@ -37404,17 +36862,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro Farnese",
-                  "text": "Ein vollständig aus Holz erbautes Theater aus dem 17. Jahrhundert innerhalb des Palazzo della Pilotta.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/parma-teatro-farnese.webp",
-                  "coords": [
-                        10.325833,
-                        44.804694
-                  ]
-            },
-            {
                   "name": "Parco Ducale",
                   "text": "Ein großer Barockpark mit weiten Alleen, Brunnen und dem Palazzo Ducale, ideal zur Entspannung.",
                   "category": "parks/promenades/beaches",
@@ -37502,17 +36949,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.326201,
                         44.804926
-                  ]
-            },
-            {
-                  "name": "Teatro Farnese",
-                  "text": "Egyedülálló, teljesen fából készült 17. századi színház a Palazzo della Pilotta épületén belül.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/parma-teatro-farnese.webp",
-                  "coords": [
-                        10.325833,
-                        44.804694
                   ]
             },
             {
@@ -37606,17 +37042,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Teatro Farnese",
-                  "text": "Un teatru construit în întregime din lemn în secolul al XVII-lea, situat în interiorul Palazzo della Pilotta.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/parma-teatro-farnese.webp",
-                  "coords": [
-                        10.325833,
-                        44.804694
-                  ]
-            },
-            {
                   "name": "Parco Ducale",
                   "text": "Un parc baroc vast, cu alei largi, fântâni și Palazzo Ducale, ideal pentru relaxare în aer liber.",
                   "category": "parks/promenades/beaches",
@@ -37704,17 +37129,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.326201,
                         44.804926
-                  ]
-            },
-            {
-                  "name": "Teatro Farnese",
-                  "text": "A unique 17th-century theatre built entirely of wood, located within the Palazzo della Pilotta.",
-                  "category": "theatres/cultural centres",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/parma-teatro-farnese.webp",
-                  "coords": [
-                        10.325833,
-                        44.804694
                   ]
             },
             {
@@ -39045,15 +38459,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nettuno",
-                  "text": "Dieses Strandbad in Ravello bietet Familien einen malerischen Ort für Erholung am Wasser.",
-                  "category": "family",
-                  "coords": [
-                        14.644806,
-                        40.646433
-                  ]
-            },
-            {
                   "name": "Tonino's Beach",
                   "text": "Dieses Strandbad in Ravello ist ein einladender Ort für Familien, um die Meeresbrise zu genießen.",
                   "category": "family",
@@ -39190,15 +38595,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.662374,
                         40.641722
-                  ]
-            },
-            {
-                  "name": "Nettuno",
-                  "text": "Ez a ravellói strandközpont festői helyszínt kínál a családoknak a vízparti pihenéshez.",
-                  "category": "family",
-                  "coords": [
-                        14.644806,
-                        40.646433
                   ]
             },
             {
@@ -39341,15 +38737,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Nettuno",
-                  "text": "Această stațiune de plajă din Ravello oferă familiilor un loc pitoresc pentru relaxare la malul mării.",
-                  "category": "family",
-                  "coords": [
-                        14.644806,
-                        40.646433
-                  ]
-            },
-            {
                   "name": "Tonino's Beach",
                   "text": "Această stațiune de plajă din Ravello este un loc primitor pentru familii, ideal pentru a se bucura de briza mării.",
                   "category": "family",
@@ -39486,15 +38873,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         14.662374,
                         40.641722
-                  ]
-            },
-            {
-                  "name": "Nettuno",
-                  "text": "This beach resort in Ravello offers families a picturesque spot for relaxation by the water.",
-                  "category": "family",
-                  "coords": [
-                        14.644806,
-                        40.646433
                   ]
             },
             {
@@ -39837,39 +39215,12 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kalima Beach Club 17",
-                  "text": "Kalima Beach Club 17 mit Restaurant und Wassersport am Rimini-Strand.",
-                  "category": "family",
-                  "coords": [
-                        12.547334,
-                        44.082428
-                  ]
-            },
-            {
-                  "name": "Anna 22",
-                  "text": "Ein Strandbad in Rimini, ideal für Schwimmer und Sonnenanbeter.",
-                  "category": "family",
-                  "coords": [
-                        12.543614,
-                        44.084972
-                  ]
-            },
-            {
                   "name": "Bagno 41 Lucio",
                   "text": "Strandbad Nr. 41 mit Spielplatz und Familienpool in Rimini.",
                   "category": "family",
                   "coords": [
                         12.586733,
                         44.064157
-                  ]
-            },
-            {
-                  "name": "Bagno 4 Amaracmand",
-                  "text": "Ein Strandbad in Rimini für einen entspannten Tag am Sandstrand.",
-                  "category": "family",
-                  "coords": [
-                        12.556303,
-                        44.077242
                   ]
             },
             {
@@ -40291,39 +39642,12 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kalima Beach Club 17",
-                  "text": "Kalima Beach Club 17 étteremmel és vízi sportokkal a rimini strandon.",
-                  "category": "family",
-                  "coords": [
-                        12.547334,
-                        44.082428
-                  ]
-            },
-            {
-                  "name": "Anna 22",
-                  "text": "Strandfürdő Rimini városában, ideális úszóknak és napozni vágyóknak.",
-                  "category": "family",
-                  "coords": [
-                        12.543614,
-                        44.084972
-                  ]
-            },
-            {
                   "name": "Bagno 41 Lucio",
                   "text": "41-es strandbódé játszótérrel és családi medencével Riminiben.",
                   "category": "family",
                   "coords": [
                         12.586733,
                         44.064157
-                  ]
-            },
-            {
-                  "name": "Bagno 4 Amaracmand",
-                  "text": "Strandfürdő Rimini városában egy pihentető naphoz a homokos parton.",
-                  "category": "family",
-                  "coords": [
-                        12.556303,
-                        44.077242
                   ]
             },
             {
@@ -40745,39 +40069,12 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kalima Beach Club 17",
-                  "text": "Kalima Beach Club 17, cu restaurant și sporturi nautice pe plaja din Rimini.",
-                  "category": "family",
-                  "coords": [
-                        12.547334,
-                        44.082428
-                  ]
-            },
-            {
-                  "name": "Anna 22",
-                  "text": "O stațiune de plajă în Rimini, ideală pentru înotători și iubitorii de soare.",
-                  "category": "family",
-                  "coords": [
-                        12.543614,
-                        44.084972
-                  ]
-            },
-            {
                   "name": "Bagno 41 Lucio",
                   "text": "Stabilimentul de plajă Bagno 41, cu loc de joacă și piscină pentru familii în Rimini.",
                   "category": "family",
                   "coords": [
                         12.586733,
                         44.064157
-                  ]
-            },
-            {
-                  "name": "Bagno 4 Amaracmand",
-                  "text": "O stațiune de plajă în Rimini pentru o zi relaxată pe plaja de nisip.",
-                  "category": "family",
-                  "coords": [
-                        12.556303,
-                        44.077242
                   ]
             },
             {
@@ -41199,39 +40496,12 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Kalima Beach Club 17",
-                  "text": "Kalima Beach Club 17 offering dining and water sports on Rimini beach.",
-                  "category": "family",
-                  "coords": [
-                        12.547334,
-                        44.082428
-                  ]
-            },
-            {
-                  "name": "Anna 22",
-                  "text": "A beach resort in Rimini, ideal for swimmers and sun seekers.",
-                  "category": "family",
-                  "coords": [
-                        12.543614,
-                        44.084972
-                  ]
-            },
-            {
                   "name": "Bagno 41 Lucio",
                   "text": "Beach club number 41 with a playground and family pool in Rimini.",
                   "category": "family",
                   "coords": [
                         12.586733,
                         44.064157
-                  ]
-            },
-            {
-                  "name": "Bagno 4 Amaracmand",
-                  "text": "A beach resort in Rimini for a relaxed day on the sandy beach.",
-                  "category": "family",
-                  "coords": [
-                        12.556303,
-                        44.077242
                   ]
             },
             {
@@ -41373,17 +40643,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Oratorio dei Disciplinati",
-                  "text": "Kleine Kapelle aus dem 15. Jahrhundert mit religiösen Kunstwerken, gelegen im oberen Teil des Dorfes.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/riomaggiore-oratorio-dei-disciplinati.webp",
-                  "coords": [
-                        9.708006,
-                        44.119762
-                  ]
-            },
-            {
                   "name": "Santuario di Montenero",
                   "text": "Wallfahrtskirche hoch über dem Ort, die über einen Wanderweg erreichbar ist und weite Ausblicke bietet.",
                   "category": "churches/cathedrals",
@@ -41444,15 +40703,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bonfiglio",
-                  "text": "Dieser Spielplatz in Riomaggiore bietet Kindern eine sichere Umgebung zum Spielen.",
-                  "category": "family",
-                  "coords": [
-                        9.725847,
-                        44.107598
-                  ]
-            },
-            {
                   "name": "Forte Bramapane",
                   "text": "Überreste einer ehemaligen Verteidigungsanlage auf den Hügeln über Riomaggiore.",
                   "category": "historical",
@@ -41468,15 +40718,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.767564,
                         44.105458
-                  ]
-            },
-            {
-                  "name": "Presepe di Manarola",
-                  "text": "Die weltweit größte beleuchtete Weihnachtskrippe, die jedes Jahr den Hügel von Manarola erleuchtet.",
-                  "category": "landmark",
-                  "coords": [
-                        9.728148,
-                        44.107747
                   ]
             },
             {
@@ -41606,15 +40847,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bonfiglio",
-                  "text": "Ez a Riomaggiore városában található játszótér biztonságos környezetet nyújt a gyerekeknek a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        9.725847,
-                        44.107598
-                  ]
-            },
-            {
                   "name": "Forte Bramapane",
                   "text": "Egy egykori védelmi erődítmény maradványai a Riomaggiore feletti dombokon.",
                   "category": "historical",
@@ -41630,15 +40862,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.767564,
                         44.105458
-                  ]
-            },
-            {
-                  "name": "Presepe di Manarola",
-                  "text": "A világ legnagyobb kivilágított betleheme, amely minden évben bevilágítja Manarola domboldalát.",
-                  "category": "landmark",
-                  "coords": [
-                        9.728148,
-                        44.107747
                   ]
             },
             {
@@ -41768,15 +40991,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bonfiglio",
-                  "text": "Acest loc de joacă din Riomaggiore oferă copiilor un mediu sigur pentru joacă.",
-                  "category": "family",
-                  "coords": [
-                        9.725847,
-                        44.107598
-                  ]
-            },
-            {
                   "name": "Forte Bramapane",
                   "text": "Vestigiile unei foste fortificații defensive situată pe dealurile de deasupra localității Riomaggiore.",
                   "category": "historical",
@@ -41792,15 +41006,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.767564,
                         44.105458
-                  ]
-            },
-            {
-                  "name": "Presepe di Manarola",
-                  "text": "Cea mai mare scenă a nașterii luminată din lume, care luminează dealul din Manarola în fiecare an.",
-                  "category": "landmark",
-                  "coords": [
-                        9.728148,
-                        44.107747
                   ]
             },
             {
@@ -41930,15 +41135,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bonfiglio",
-                  "text": "This playground in Riomaggiore provides children with a safe environment to play.",
-                  "category": "family",
-                  "coords": [
-                        9.725847,
-                        44.107598
-                  ]
-            },
-            {
                   "name": "Forte Bramapane",
                   "text": "Remains of a former defensive fortification located on the hills above Riomaggiore.",
                   "category": "historical",
@@ -41954,15 +41150,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.767564,
                         44.105458
-                  ]
-            },
-            {
-                  "name": "Presepe di Manarola",
-                  "text": "The world's largest lighted nativity scene, which illuminates the hill of Manarola every year.",
-                  "category": "landmark",
-                  "coords": [
-                        9.728148,
-                        44.107747
                   ]
             },
             {
@@ -42151,24 +41338,6 @@ export const poiExtraItalyV2: POI[] = [
                         9.24006,
                         44.344976
                   ]
-            },
-            {
-                  "name": "Spiaggia Della Caletta Dei Pescatori",
-                  "text": "Caletta dei Pescatori, eine kleine Kieselbucht mit klarem Wasser in Santa Margherita Ligure.",
-                  "category": "recreational",
-                  "coords": [
-                        9.176279,
-                        44.315775
-                  ]
-            },
-            {
-                  "name": "Bagni San Fruttuoso",
-                  "text": "Strandbad San Fruttuoso in der Nähe der historischen Abtei, erreichbar über einen Küstenweg von Santa Margherita Ligure.",
-                  "category": "recreational",
-                  "coords": [
-                        9.17484,
-                        44.316032
-                  ]
             }
       ],
       "hu": [
@@ -42344,24 +41513,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.24006,
                         44.344976
-                  ]
-            },
-            {
-                  "name": "Spiaggia Della Caletta Dei Pescatori",
-                  "text": "Caletta dei Pescatori (Halászok öble), egy kis kavicsos öböl tiszta vízzel Santa Margherita Ligure-ban.",
-                  "category": "recreational",
-                  "coords": [
-                        9.176279,
-                        44.315775
-                  ]
-            },
-            {
-                  "name": "Bagni San Fruttuoso",
-                  "text": "San Fruttuoso strandbódé a történelmi apátság közelében, Santa Margherita Ligure-ból tengerparti ösvényen elérhető.",
-                  "category": "recreational",
-                  "coords": [
-                        9.17484,
-                        44.316032
                   ]
             }
       ],
@@ -42539,24 +41690,6 @@ export const poiExtraItalyV2: POI[] = [
                         9.24006,
                         44.344976
                   ]
-            },
-            {
-                  "name": "Spiaggia Della Caletta Dei Pescatori",
-                  "text": "Caletta dei Pescatori, o mică plajă de pietriș cu apă limpede în Santa Margherita Ligure.",
-                  "category": "recreational",
-                  "coords": [
-                        9.176279,
-                        44.315775
-                  ]
-            },
-            {
-                  "name": "Bagni San Fruttuoso",
-                  "text": "Stabilimentul de plajă San Fruttuoso, lângă abația istorică, accesibil pe un drum de coastă din Santa Margherita Ligure.",
-                  "category": "recreational",
-                  "coords": [
-                        9.17484,
-                        44.316032
-                  ]
             }
       ],
       "en": [
@@ -42732,24 +41865,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.24006,
                         44.344976
-                  ]
-            },
-            {
-                  "name": "Spiaggia Della Caletta Dei Pescatori",
-                  "text": "Caletta dei Pescatori (Fishermen's Cove), a small pebble beach with clear water in Santa Margherita Ligure.",
-                  "category": "recreational",
-                  "coords": [
-                        9.176279,
-                        44.315775
-                  ]
-            },
-            {
-                  "name": "Bagni San Fruttuoso",
-                  "text": "San Fruttuoso beach club near the historic abbey, reached by a coastal path from Santa Margherita Ligure.",
-                  "category": "recreational",
-                  "coords": [
-                        9.17484,
-                        44.316032
                   ]
             }
       ]
@@ -43407,15 +42522,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ausonia",
-                  "text": "Dieses Strandbad in Trieste bietet einen entspannten Ort am Meer.",
-                  "category": "family",
-                  "coords": [
-                        13.752695,
-                        45.647283
-                  ]
-            },
-            {
                   "name": "Museo ferroviario (closed)",
                   "text": "Ein Eisenbahnmuseum im ehemaligen Bahnhof Campo Marzio, das derzeit für die Öffentlichkeit geschlossen ist.",
                   "category": "museum",
@@ -43651,15 +42757,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         13.756976,
                         45.671403
-                  ]
-            },
-            {
-                  "name": "Ausonia",
-                  "text": "Ez a Trieste városában található strandfürdő pihentető kikapcsolódást kínál a tengerparton.",
-                  "category": "family",
-                  "coords": [
-                        13.752695,
-                        45.647283
                   ]
             },
             {
@@ -43901,15 +42998,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Ausonia",
-                  "text": "Această stațiune de plajă din Trieste oferă un loc relaxant la malul mării.",
-                  "category": "family",
-                  "coords": [
-                        13.752695,
-                        45.647283
-                  ]
-            },
-            {
                   "name": "Museo ferroviario (closed)",
                   "text": "Un muzeu feroviar situat în fosta gară Campo Marzio, în prezent închis publicului.",
                   "category": "museum",
@@ -44145,15 +43233,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         13.756976,
                         45.671403
-                  ]
-            },
-            {
-                  "name": "Ausonia",
-                  "text": "This beach resort in Trieste offers a relaxing spot by the sea.",
-                  "category": "family",
-                  "coords": [
-                        13.752695,
-                        45.647283
                   ]
             },
             {
@@ -44661,17 +43740,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chiesa di San Giorgio",
-                  "text": "Die Hauptkirche auf der Piazza San Giorgio stammt aus dem 14. Jahrhundert und besitzt wertvolle Fresken.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/varenna-chiesa-di-san-giorgio.webp",
-                  "coords": [
-                        9.262205,
-                        45.985361
-                  ]
-            },
-            {
                   "name": "Villa Cipressi",
                   "text": "Ein Gebäudekomplex mit terrassierten Gärten aus verschiedenen Epochen, heute ein Hotel und Park.",
                   "category": "famous residences",
@@ -44759,17 +43827,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.286778,
                         46.010633
-                  ]
-            },
-            {
-                  "name": "Chiesa di San Giorgio",
-                  "text": "A főtéren álló 14. századi templom, belső terében középkori freskókkal és művészeti kincsekkel.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/varenna-chiesa-di-san-giorgio.webp",
-                  "coords": [
-                        9.262205,
-                        45.985361
                   ]
             },
             {
@@ -44863,17 +43920,6 @@ export const poiExtraItalyV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chiesa di San Giorgio",
-                  "text": "Biserica principală a orașului, datând din secolul al XIV-lea, situată în piața centrală pavată cu piatră.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/varenna-chiesa-di-san-giorgio.webp",
-                  "coords": [
-                        9.262205,
-                        45.985361
-                  ]
-            },
-            {
                   "name": "Villa Cipressi",
                   "text": "Un complex de clădiri istorice înconjurat de grădini terasate spectaculoase care coboară până la lac.",
                   "category": "famous residences",
@@ -44961,17 +44007,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         9.286778,
                         46.010633
-                  ]
-            },
-            {
-                  "name": "Chiesa di San Giorgio",
-                  "text": "The main church on the central square, built in the 14th century with impressive medieval frescoes.",
-                  "category": "churches/cathedrals",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/varenna-chiesa-di-san-giorgio.webp",
-                  "coords": [
-                        9.262205,
-                        45.985361
                   ]
             },
             {
@@ -51814,17 +50849,6 @@ export const poiExtraItalyV2: POI[] = [
   {"id": "lazise", "type": "city", "parent": "IT-34", "coords": [10.733, 45.5006], "population": 7200, "tier": 3, "name": {"de": "Lazise", "hu": "Lazise", "ro": "Lazise", "en": "Lazise"}, "description": {"de": "Lazise beeindruckt durch seine vollständig erhaltenen mittelalterlichen Stadtmauern, das imposante Skaliger-Schloss und den malerischen Hafen.", "hu": "Lazise Olaszország első szabad városa volt, középkori városfalai, a Scaligeri-kastély és a velencei vámház ma is meghatározzák látképét.", "ro": "Lazise impresionează prin zidurile sale medievale intacte, castelul Scaliger și portul vechi ce amintește de perioada dominației venețiene.", "en": "Lazise boasts perfectly preserved medieval walls, an imposing Scaliger Castle, and a picturesque harbor reflecting its Venetian past."}, "facts": {"de": ["Erste freie Kommune Italiens", "Skaliger-Schloss", "Venezianische Zollstation", "Vollständige Stadtmauer", "Kirche San Nicolò", "Thermalpark Villa dei Cedri", "Hafen am Gardasee", "Verona Provinz"], "hu": ["Első szabad itáliai község (983)", "Scaligeri-kastély", "Velencei vámház (Dogana)", "Ép városfalak", "San Nicolò templom", "Villa dei Cedri termálpark", "Garda-tó partja", "Verona megye"], "ro": ["Prima comună liberă din Italia", "Castelul Scaliger", "Vama venețiană (Dogana)", "Ziduri medievale complete", "Biserica San Nicolò", "Parcul termal Villa dei Cedri", "Port la Lacul Garda", "Provincia Verona"], "en": ["First free commune in Italy (983)", "Scaliger Castle", "Venetian Customs House", "Intact medieval walls", "Church of San Nicolò", "Villa dei Cedri Thermal Park", "Lake Garda harbor", "Verona province"]}, "image": "/poi-images/lazise.webp", "imageHint": "Medieval castle walls and the historic harbor of Lazise", "descriptionAdvanced": {"de": "Lazise, am veronesischen Ufer des Gardasees, ist eines der ältesten Dörfer der Region. Sein markantestes Merkmal ist die vollständig erhaltene mittelalterliche Stadtmauer mit dem imposanten Scaliger-Schloss am Wasser. Ein Spaziergang durch die autofreien Gassen der Altstadt führt vorbei an pastellfarbenen Häusern und gemütlichen Restaurants. Der malerische Hafen ist das Herz des Ortes, wo Fischerboote neben kleinen Yachten schaukeln. Die lange Uferpromenade verbindet Lazise mit den Nachbarorten und ist ideal für Spaziergänge oder Radtouren. Im Gegensatz zu belebteren Nachbarorten hat sich Lazise einen ruhigeren, authentischeren Charme bewahrt. In der Nähe befinden sich große Freizeitparks wie Gardaland, was Lazise zu einem idealen Ausgangspunkt für Familien macht. Die wöchentlichen Märkte sind ein lokales Highlight, bei denen man regionale Produkte erwerben kann.", "hu": "Lazise, a Garda-tó veronai partján, a régió egyik legrégebbi faluja. Legszembetűnőbb jellegzetessége a teljesen megmaradt középkori városfal és a vízparton magasodó impozáns Scaliger-vár. Séta az autómentes óvárosi sikátorokban pasztellszínű házak és hangulatos éttermek mellett vezet el. A festői kikötő a helység szíve, ahol halászbárkák ringatóznak. A hosszú tóparti sétány összeköti Lazisét a szomszédos falvakkal, ideális sétákhoz vagy kerékpártúrákhoz. Lazise megőrzött egy csendesebb, autentikusabb bájt a nyüzsgőbb szomszédokhoz képest. A közelben találhatóak nagy vidámparkok, mint a Gardaland, ami ideális kiindulóponttá teszi a családok számára. A heti piacok helyi különlegességnek számítanak, ahol regionális termékeket lehet vásárolni.", "ro": "Lazise, pe malul veronez al Lacului Garda, este unul dintre cele mai vechi sate din regiune. Caracteristica sa cea mai izbitoare este zidul medieval complet conservat și impunătorul Castel Scaliger de pe malul apei. O plimbare pe străduțele pietonale ale centrului vechi te poartă pe lângă case pastelate și restaurante primitoare. Portul pitoresc este inima localității, unde bărcile de pescuit se leagănă. Lunga promenadă de pe malul lacului leagă Lazise de localitățile învecinate și este ideală pentru plimbări sau tururi cu bicicleta. Spre deosebire de vecinii mai aglomerați, Lazise și-a păstrat un farmec mai liniștit și mai autentic. În apropiere se află parcuri de distracții precum Gardaland, ceea ce face din Lazise o bază ideală pentru familii. Piețele săptămânale sunt un punct de atracție local, de unde se pot cumpăra produse regionale.", "en": "Located on the Veronese shore of Lake Garda, Lazise is one of the region's oldest villages. Its most striking feature is the perfectly preserved medieval town wall and the imposing Scaliger Castle by the water. A walk through the car-free alleys of the old town reveals pastel-coloured houses and cozy restaurants. The picturesque harbour is the heart of the village, where fishing boats bob. A long lakeside promenade connects Lazise with neighbouring towns, ideal for walks or bike rides. Unlike its busier neighbours, Lazise has retained a quieter, more authentic charm. Nearby are large amusement parks like Gardaland, making Lazise an excellent base for families. The weekly markets are a local highlight for purchasing regional products."}, "factsAdvanced": {"de": ["Freie Kommune seit dem Jahr 983", "Skaliger-Burg wurde im 14. Jh. erbaut", "Dogana Veneta war ein venezianisches Arsenal", "Stadtmauern haben drei befestigte Tore", "Villa dei Cedri Quellen sind 37 Grad warm", "Hauptplatz ist mit Schachbrettmuster gepflastert"], "hu": ["983 óta szabad közösség", "A Scaligeri-vár a 14. században épült", "A Dogana Veneta velencei arzenál volt", "A városfalnak három erődített kapuja van", "A Villa dei Cedri forrásai 37 fokosak", "A főteret sakktáblamintás kőburkolat fedi"], "ro": ["Comună liberă din anul 983", "Castelul Scaliger a fost ridicat în secolul XIV", "Dogana Veneta a servit ca arsenal venețian", "Zidurile au trei porți de acces fortificate", "Izvoarele Villa dei Cedri au 37 de grade", "Piața centrală are pavaj în formă de tablă de șah"], "en": ["Declared a free commune in 983 AD", "Scaliger Castle built in the 14th century", "Dogana Veneta was once a Venetian arsenal", "Medieval walls feature three fortified gates", "Villa dei Cedri springs reach 37 degrees Celsius", "Main square is paved with a checkerboard pattern"]}, "sights": {
       "de": [
             {
-                  "name": "Castello Scaligero",
-                  "text": "Diese beeindruckende Festung mit sechs Türmen dominiert das Stadtbild und den Hafen von Lazise.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lazise-castello-scaligero.webp",
-                  "coords": [
-                        10.608233,
-                        45.492344
-                  ]
-            },
-            {
                   "name": "Dogana Veneta",
                   "text": "Ein historisches Gebäude am Hafen, das früher als Zollstation der Republik Venedig diente.",
                   "category": "museums",
@@ -51877,15 +50901,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.733126,
                         45.505161
-                  ]
-            },
-            {
-                  "name": "Gardasee",
-                  "text": "Der Gardasee bei Lazise ist bekannt für sein klares Wasser und die Uferpromenaden.",
-                  "category": "natural",
-                  "coords": [
-                        10.693904,
-                        45.662571
                   ]
             },
             {
@@ -51981,17 +50996,6 @@ export const poiExtraItalyV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Castello Scaligero",
-                  "text": "A 14. századi vár Lazise leglátványosabb építménye, bár belseje magántulajdon, kívülről impozáns látvány.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lazise-castello-scaligero.webp",
-                  "coords": [
-                        10.608233,
-                        45.492344
-                  ]
-            },
-            {
                   "name": "Dogana Veneta",
                   "text": "A Velencei Köztársaság egykori vámirodája a kikötőben áll, ma kulturális rendezvények helyszíne.",
                   "category": "museums",
@@ -52044,15 +51048,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.733126,
                         45.505161
-                  ]
-            },
-            {
-                  "name": "Garda-tó",
-                  "text": "A Garda-tó Lazisénál tiszta vizéről és vízparti sétányairól ismert.",
-                  "category": "natural",
-                  "coords": [
-                        10.693904,
-                        45.662571
                   ]
             },
             {
@@ -52148,17 +51143,6 @@ export const poiExtraItalyV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Castello Scaligero",
-                  "text": "O cetate impunătoare din secolul al XIV-lea, cu turnuri crenelate care păzesc centrul istoric al orașului.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lazise-castello-scaligero.webp",
-                  "coords": [
-                        10.608233,
-                        45.492344
-                  ]
-            },
-            {
                   "name": "Dogana Veneta",
                   "text": "Clădirea istorică a vechii vămi venețiene, situată lângă port, găzduiește astăzi evenimente de elită.",
                   "category": "museums",
@@ -52211,15 +51195,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.733126,
                         45.505161
-                  ]
-            },
-            {
-                  "name": "Lacul Garda",
-                  "text": "Lacul Garda de lângă Lazise este cunoscut pentru apa sa limpede și faleza de pe mal.",
-                  "category": "natural",
-                  "coords": [
-                        10.693904,
-                        45.662571
                   ]
             },
             {
@@ -52315,17 +51290,6 @@ export const poiExtraItalyV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Castello Scaligero",
-                  "text": "A striking medieval fortress with six towers, guarding the historic core and the port of Lazise.",
-                  "category": "castles/fortresses/towers",
-                  "confidence": "high",
-                  "image": "/poi-images/sights/lazise-castello-scaligero.webp",
-                  "coords": [
-                        10.608233,
-                        45.492344
-                  ]
-            },
-            {
                   "name": "Dogana Veneta",
                   "text": "An important historic building by the harbor that once served as the customs house for the Venetian Republic.",
                   "category": "museums",
@@ -52378,15 +51342,6 @@ export const poiExtraItalyV2: POI[] = [
                   "coords": [
                         10.733126,
                         45.505161
-                  ]
-            },
-            {
-                  "name": "Lake Garda",
-                  "text": "Lake Garda near Lazise is known for its clear water and lakeside promenades.",
-                  "category": "natural",
-                  "coords": [
-                        10.693904,
-                        45.662571
                   ]
             },
             {

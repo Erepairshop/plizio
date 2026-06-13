@@ -255,24 +255,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
     id: "namugongo-martyrs-shrine-history-v2", "sights": {
       "de": [
             {
-                  "name": "Uganda Matyr's Well",
-                  "text": "Diese heilige Wasserquelle wird von Pilgern verehrt, die die Stätte besuchen, um die historischen ugandischen Märtyrer zu ehren.",
-                  "category": "landmark",
-                  "coords": [
-                        32.666429,
-                        0.397275
-                  ]
-            },
-            {
-                  "name": "BRIMS Heritage Resource Center",
-                  "text": "Dieses als pädagogisches Museum fungierende Ressourcenzentrum archiviert kulturelle Texte und historische Artefakte der Region.",
-                  "category": "museum",
-                  "coords": [
-                        32.66532,
-                        0.398316
-                  ]
-            },
-            {
                   "name": "kiwatule rec park history museum",
                   "text": "Dieses lokale Museum liegt in einem Erholungspark und zeigt historische Ausstellungen neben Freizeiteinrichtungen im Freien.",
                   "category": "museum",
@@ -319,24 +301,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Uganda Matyr's Well",
-                  "text": "Ezt a szent vizű forrást zarándokok tisztelik, akik azért látogatnak el a helyszínre, hogy leróják tiszteletüket a történelmi ugandai vértanúk előtt.",
-                  "category": "landmark",
-                  "coords": [
-                        32.666429,
-                        0.397275
-                  ]
-            },
-            {
-                  "name": "BRIMS Heritage Resource Center",
-                  "text": "Oktatási múzeumként működő forrásközpont, amely a régió kulturális szövegeit és történelmi műtárgyait archiválja.",
-                  "category": "museum",
-                  "coords": [
-                        32.66532,
-                        0.398316
-                  ]
-            },
             {
                   "name": "kiwatule rec park history museum",
                   "text": "A szabadidőparkban található helyi múzeum történelmi kiállításokat mutat be a szabadtéri szórakoztató létesítmények mellett.",
@@ -385,24 +349,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Uganda Matyr's Well",
-                  "text": "Această sursă de apă sacră este venerată de pelerinii care vizitează locul pentru a-i onora pe martirii istorici din Uganda.",
-                  "category": "landmark",
-                  "coords": [
-                        32.666429,
-                        0.397275
-                  ]
-            },
-            {
-                  "name": "BRIMS Heritage Resource Center",
-                  "text": "Funcționând ca un muzeu educațional, acest centru de resurse arhivează texte culturale și artefacte istorice ale regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        32.66532,
-                        0.398316
-                  ]
-            },
-            {
                   "name": "kiwatule rec park history museum",
                   "text": "Situat într-un parc de agrement, acest muzeu local prezintă expoziții istorice alături de facilități de petrecere a timpului liber în aer liber.",
                   "category": "museum",
@@ -449,24 +395,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Uganda Matyr's Well",
-                  "text": "This sacred water source is revered by pilgrims who visit the site to honor the historic Ugandan martyrs.",
-                  "category": "landmark",
-                  "coords": [
-                        32.666429,
-                        0.397275
-                  ]
-            },
-            {
-                  "name": "BRIMS Heritage Resource Center",
-                  "text": "Functioning as an educational museum, this resource center archives cultural texts and historical artifacts of the region.",
-                  "category": "museum",
-                  "coords": [
-                        32.66532,
-                        0.398316
-                  ]
-            },
             {
                   "name": "kiwatule rec park history museum",
                   "text": "Situated within a recreational park, this local museum exhibits historical displays alongside outdoor leisure facilities.",
@@ -2497,15 +2425,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
                         31.382862,
                         1.427207
                   ]
-            },
-            {
-                  "name": "Bunyoro Palace",
-                  "text": "Der Bunyoro-Palast ist eine historische Stätte, die das Erbe des Bunyoro-Königreichs in der Nähe von Hoima bewahrt.",
-                  "category": "landmark",
-                  "coords": [
-                        31.345177,
-                        1.433014
-                  ]
             }
       ],
       "hu": [
@@ -2516,15 +2435,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
                   "coords": [
                         31.382862,
                         1.427207
-                  ]
-            },
-            {
-                  "name": "Bunyoro Palace",
-                  "text": "A Bunyoro-palota a Bunyoro Királyság örökségét őrző történelmi helyszín Hoima közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        31.345177,
-                        1.433014
                   ]
             }
       ],
@@ -2537,15 +2447,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
                         31.382862,
                         1.427207
                   ]
-            },
-            {
-                  "name": "Bunyoro Palace",
-                  "text": "Palatul Bunyoro este un sit istoric ce păstrează moștenirea Regatului Bunyoro lângă Hoima.",
-                  "category": "landmark",
-                  "coords": [
-                        31.345177,
-                        1.433014
-                  ]
             }
       ],
       "en": [
@@ -2556,15 +2457,6 @@ export const poiExtraUgandaHistoryV2: POI[] = [
                   "coords": [
                         31.382862,
                         1.427207
-                  ]
-            },
-            {
-                  "name": "Bunyoro Palace",
-                  "text": "Bunyoro Palace is a historic site preserving the legacy of the Bunyoro Kingdom near Hoima.",
-                  "category": "landmark",
-                  "coords": [
-                        31.345177,
-                        1.433014
                   ]
             }
       ]

@@ -15,51 +15,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lee Tze-Fan Memorial Art Gallery",
-                  "text": "Diese Kunstgalerie in hsinchu-science-park-economic-v2 ist dem renommierten Aquarellisten gewidmet und zeigt eine reiche Sammlung seiner lebendigen Landschaftsgemälde.",
-                  "category": "cultural",
-                  "coords": [
-                        120.968173,
-                        24.801408
-                  ]
-            },
-            {
-                  "name": "Jingye Temple",
-                  "text": "Dieser historische buddhistische Tempel in hsinchu-science-park-economic-v2 liegt hinter ruhigen Hofmauern und bietet einen stillen Zufluchtsort für spirituelle Praktiken.",
-                  "category": "religious",
-                  "coords": [
-                        120.959133,
-                        24.818671
-                  ]
-            },
-            {
-                  "name": "Immaculate Heart of Mary Cathedral, Hsinchu",
-                  "text": "Diese große katholische Kathedrale in hsinchu-science-park-economic-v2 ist für ihre imposante modernistische Fassade und ihre spirituelle Bedeutung in der Diözese bekannt.",
-                  "category": "religious",
-                  "coords": [
-                        120.966876,
-                        24.809391
-                  ]
-            },
-            {
-                  "name": "Hsinchu Changhe Temple",
-                  "text": "Dieser historische taoistische Tempel in hsinchu-science-park-economic-v2 ist für die Verehrung einer Mazu-Statue bekannt und verfügt über aufwendige Drachensäulen und traditionelle Handwerkskunst.",
-                  "category": "religious",
-                  "coords": [
-                        120.964833,
-                        24.808636
-                  ]
-            },
-            {
-                  "name": "Hsinchu Earth God Temple",
-                  "text": "Umgeben von einem lebhaften Lebensmittelmarkt ist dieser prominente Stadtgott-Tempel in hsinchu-science-park-economic-v2 ein wichtiges Zentrum des lokalen Glaubens und der Straßenküche.",
-                  "category": "religious",
-                  "coords": [
-                        120.966065,
-                        24.804356
-                  ]
-            },
-            {
                   "name": "Hsinchu Guandi Temple",
                   "text": "Diese bedeutende Kultstätte in Hsinchu ist dem Kriegsgott Guan Yu gewidmet und dient als wichtiges spirituelles Zentrum.",
                   "category": "religious",
@@ -87,15 +42,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hsinwawu Hakka Culture conservation Area",
-                  "text": "Dieses ausgewiesene Schutzgebiet in der Nähe von Hsinchu bewahrt historische ländliche Gebäude und fördert das traditionelle kulturelle Erbe der Hakka.",
-                  "category": "landmark",
-                  "coords": [
-                        121.027167,
-                        24.811972
-                  ]
-            },
-            {
                   "name": "Jingguo Bridge",
                   "text": "Diese bekannte Brücke ist eine wichtige Verkehrsverbindung über das lokale Wasserstraßennetz und verbindet die Stadtbezirke von Hsinchu.",
                   "category": "landmark",
@@ -114,15 +60,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Touchianxi Bridge",
-                  "text": "Diese bemerkenswerte Kreuzungsinfrastruktur überquert den Touqian-Fluss und dient als wichtige Verbindung für die Region Hsinchu.",
-                  "category": "landmark",
-                  "coords": [
-                        120.998844,
-                        24.822078
-                  ]
-            },
-            {
                   "name": "Jiugang Bridge",
                   "text": "Diese architektonisch bedeutsame Brücke spannt sich über die Küstenwasserkanäle in der Nähe der traditionellen Hafengebiete von Hsinchu.",
                   "category": "landmark",
@@ -132,39 +69,12 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "East Gate of Hsinchu City Wall (Yingxi gate)",
-                  "text": "Dieses traditionelle Steintor ist ein historisches Wahrzeichen in der Innenstadt von Hsinchu und ein gut erhaltener Überrest der alten Stadtmauer.",
-                  "category": "landmark",
-                  "coords": [
-                        120.970256,
-                        24.804211
-                  ]
-            },
-            {
                   "name": "Green Grass Lake",
                   "text": "Dieser malerische Stausee in Hsinchu ist von grünen Hügeln umgeben und bietet befestigte Wanderwege entlang seines ruhigen Ufers.",
                   "category": "landmark",
                   "coords": [
                         120.971555,
                         24.774787
-                  ]
-            },
-            {
-                  "name": "Hsinchu Zoo",
-                  "text": "Dieser Zoo in Hsinchu gilt als ältester Taiwans und ermöglicht es Besuchern, Wildtiere in modernisierten, naturnahen Lebensräumen zu beobachten.",
-                  "category": "recreational",
-                  "coords": [
-                        120.979654,
-                        24.800769
-                  ]
-            },
-            {
-                  "name": "ChuLien Market",
-                  "text": "Dieser geschäftige, traditionelle Marktplatz in Hsinchu ist voller Stände, an denen frische regionale Produkte und authentisches Streetfood verkauft werden.",
-                  "category": "cultural",
-                  "coords": [
-                        120.971842,
-                        24.796913
                   ]
             },
             {
@@ -240,15 +150,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Garden of Principal Shin",
-                  "text": "Dieser monumentale Garten in Hsinchu erinnert an eine bedeutende Persönlichkeit aus dem Bildungsbereich mit sorgfältig angelegten Grünflächen und Gedenkstätten.",
-                  "category": "historical",
-                  "coords": [
-                        120.98166,
-                        24.793432
-                  ]
-            },
-            {
                   "name": "Xinyuan Market",
                   "text": "Dieser überdachte Markt in Hsinchu bietet ein dichtes Netz an Ständen mit frischem Fleisch, regionalem Gemüse und Artikeln des täglichen Bedarfs.",
                   "category": "cultural",
@@ -275,51 +176,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   "coords": [
                         120.966771,
                         24.814074
-                  ]
-            },
-            {
-                  "name": "Lee Tze-Fan Memorial Art Gallery",
-                  "text": "Ez a neves akvarellfestőnek szentelt művészeti galéria hsinchu-science-park-economic-v2 területén a művész élénk tájképeinek gazdag gyűjteményét állítja ki.",
-                  "category": "cultural",
-                  "coords": [
-                        120.968173,
-                        24.801408
-                  ]
-            },
-            {
-                  "name": "Jingye Temple",
-                  "text": "Ez a csendes udvari falak mögött meghúzódó történelmi buddhista templom hsinchu-science-park-economic-v2 területén csendes menedéket nyújt a spirituális gyakorlatokhoz.",
-                  "category": "religious",
-                  "coords": [
-                        120.959133,
-                        24.818671
-                  ]
-            },
-            {
-                  "name": "Immaculate Heart of Mary Cathedral, Hsinchu",
-                  "text": "Ez a grandiózus katolikus katedrális hsinchu-science-park-economic-v2 területén impozáns modernista homlokzatáról és az egyházmegyében betöltött spirituális jelentőségéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        120.966876,
-                        24.809391
-                  ]
-            },
-            {
-                  "name": "Hsinchu Changhe Temple",
-                  "text": "A hsinchu-science-park-economic-v2 területén található, a tisztelt Mazu szobor őrzéséről ismert történelmi taoista templom kidolgozott sárkányoszlopokkal és hagyományos kézművességgel büszkélkedhet.",
-                  "category": "religious",
-                  "coords": [
-                        120.964833,
-                        24.808636
-                  ]
-            },
-            {
-                  "name": "Hsinchu Earth God Temple",
-                  "text": "A nyüzsgő élelmiszerpiaccal körülvett, kiemelkedő Városisten templom hsinchu-science-park-economic-v2 területén a helyi hit és az utcai ételek fontos központja.",
-                  "category": "religious",
-                  "coords": [
-                        120.966065,
-                        24.804356
                   ]
             },
             {
@@ -350,15 +206,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hsinwawu Hakka Culture conservation Area",
-                  "text": "Ez a Hszincsui melletti kijelölt természetvédelmi terület megóvja a történelmi vidéki épületeket és népszerűsíti a hagyományos hakka kulturális örökséget.",
-                  "category": "landmark",
-                  "coords": [
-                        121.027167,
-                        24.811972
-                  ]
-            },
-            {
                   "name": "Jingguo Bridge",
                   "text": "Ez a nevezetes híd kulcsfontosságú közlekedési kapcsolatot biztosít a Hszincsui városrészeket összekötő helyi vízi úthálózat felett.",
                   "category": "landmark",
@@ -377,15 +224,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Touchianxi Bridge",
-                  "text": "Ez a nevezetes átkelő infrastruktúra a Touqian folyón halad át, létfontosságú kapcsolatot biztosítva a Hszincsui régió számára.",
-                  "category": "landmark",
-                  "coords": [
-                        120.998844,
-                        24.822078
-                  ]
-            },
-            {
                   "name": "Jiugang Bridge",
                   "text": "Ez a jelentős szerkezeti híd a part menti vízcsatornákon ível át Hszincsui hagyományos kikötőnegyedei közelében.",
                   "category": "landmark",
@@ -395,39 +233,12 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "East Gate of Hsinchu City Wall (Yingxi gate)",
-                  "text": "A Hszincsui belvárosában történelmi mérföldkőként álló hagyományos kőkapu a régi városfalak jól megőrzött maradványa.",
-                  "category": "landmark",
-                  "coords": [
-                        120.970256,
-                        24.804211
-                  ]
-            },
-            {
                   "name": "Green Grass Lake",
                   "text": "Ezt a festői víztározó tavat Hszincsui városában zöldellő dombok veszik körül, nyugodt partja mentén pedig kiépített sétányok futnak.",
                   "category": "landmark",
                   "coords": [
                         120.971555,
                         24.774787
-                  ]
-            },
-            {
-                  "name": "Hsinchu Zoo",
-                  "text": "A Tajvan legrégebbi állatkertjeként ismert hszincsui látványosság lehetővé teszi, hogy a látogatók korszerűsített, természetes élőhelyükön figyeljék meg a vadvilágot.",
-                  "category": "recreational",
-                  "coords": [
-                        120.979654,
-                        24.800769
-                  ]
-            },
-            {
-                  "name": "ChuLien Market",
-                  "text": "Ez a nyüzsgő hagyományos hszincsui piac tele van friss helyi termékeket és autentikus utcai ételeket árusító árusokkal.",
-                  "category": "cultural",
-                  "coords": [
-                        120.971842,
-                        24.796913
                   ]
             },
             {
@@ -503,15 +314,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Garden of Principal Shin",
-                  "text": "Ez a hszincsui monumentális kert egy neves oktatási személyiségnek állít emléket gondosan parkosított területével és emlékműveivel.",
-                  "category": "historical",
-                  "coords": [
-                        120.98166,
-                        24.793432
-                  ]
-            },
-            {
                   "name": "Xinyuan Market",
                   "text": "Ez a fedett hszincsui piac sűrű elrendezésű standokkal várja a vásárlókat, ahol friss húsokat, regionális zöldségeket és napi szükségleti cikkeket kínálnak.",
                   "category": "cultural",
@@ -538,51 +340,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   "coords": [
                         120.966771,
                         24.814074
-                  ]
-            },
-            {
-                  "name": "Lee Tze-Fan Memorial Art Gallery",
-                  "text": "Dedicată renumitului acuarelist, această galerie de artă din hsinchu-science-park-economic-v2 expune o colecție bogată a picturilor sale peisagistice vibrante.",
-                  "category": "cultural",
-                  "coords": [
-                        120.968173,
-                        24.801408
-                  ]
-            },
-            {
-                  "name": "Jingye Temple",
-                  "text": "Situat în spatele unor ziduri de curte senine, acest templu budist istoric din hsinchu-science-park-economic-v2 oferă un refugiu liniștit pentru practica spirituală.",
-                  "category": "religious",
-                  "coords": [
-                        120.959133,
-                        24.818671
-                  ]
-            },
-            {
-                  "name": "Immaculate Heart of Mary Cathedral, Hsinchu",
-                  "text": "Această mare catedrală catolică din hsinchu-science-park-economic-v2 este recunoscută pentru fațada sa modernistă impunătoare și semnificația spirituală în dieceză.",
-                  "category": "religious",
-                  "coords": [
-                        120.966876,
-                        24.809391
-                  ]
-            },
-            {
-                  "name": "Hsinchu Changhe Temple",
-                  "text": "Cunoscut pentru adăpostirea unei venerate statui Mazu, acest templu taoist istoric din hsinchu-science-park-economic-v2 prezintă coloane elaborate cu dragoni și măiestrie tradițională.",
-                  "category": "religious",
-                  "coords": [
-                        120.964833,
-                        24.808636
-                  ]
-            },
-            {
-                  "name": "Hsinchu Earth God Temple",
-                  "text": "Înconjurat de o piață alimentară aglomerată, acest templu proeminent al Zeului Orașului din hsinchu-science-park-economic-v2 este un centru major al credinței locale și al bucătăriei stradale.",
-                  "category": "religious",
-                  "coords": [
-                        120.966065,
-                        24.804356
                   ]
             },
             {
@@ -613,15 +370,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hsinwawu Hakka Culture conservation Area",
-                  "text": "Această zonă de conservare desemnată de lângă Hsinchu protejează clădirile rurale istorice și promovează patrimoniul cultural tradițional Hakka.",
-                  "category": "landmark",
-                  "coords": [
-                        121.027167,
-                        24.811972
-                  ]
-            },
-            {
                   "name": "Jingguo Bridge",
                   "text": "Acest pod notabil oferă o legătură de transport crucială peste rețeaua locală de căi navigabile, conectând districtele urbane din Hsinchu.",
                   "category": "landmark",
@@ -640,15 +388,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Touchianxi Bridge",
-                  "text": "Această infrastructură de trecere notabilă traversează râul Touqian, servind ca o conexiune vitală pentru regiunea Hsinchu.",
-                  "category": "landmark",
-                  "coords": [
-                        120.998844,
-                        24.822078
-                  ]
-            },
-            {
                   "name": "Jiugang Bridge",
                   "text": "Acest pod structural semnificativ se întinde peste canalele de apă de coastă din apropierea zonelor portuare tradiționale din Hsinchu.",
                   "category": "landmark",
@@ -658,39 +397,12 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "East Gate of Hsinchu City Wall (Yingxi gate)",
-                  "text": "Stând ca un punct de reper istoric în centrul orașului Hsinchu, această poartă tradițională de piatră este o rămășiță bine conservată a vechilor ziduri ale orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        120.970256,
-                        24.804211
-                  ]
-            },
-            {
                   "name": "Green Grass Lake",
                   "text": "Acest lac de acumulare pitoresc din Hsinchu este înconjurat de dealuri înverzite și oferă alei pietruite de-a lungul țărmului său liniștit.",
                   "category": "landmark",
                   "coords": [
                         120.971555,
                         24.774787
-                  ]
-            },
-            {
-                  "name": "Hsinchu Zoo",
-                  "text": "Recunoscută ca cea mai veche grădină zoologică din Taiwan, această atracție din Hsinchu permite vizitatorilor să observe fauna în habitate naturaliste modernizate.",
-                  "category": "recreational",
-                  "coords": [
-                        120.979654,
-                        24.800769
-                  ]
-            },
-            {
-                  "name": "ChuLien Market",
-                  "text": "Această piață tradițională plină de viață din Hsinchu este plină de vânzători care oferă produse locale proaspete și mâncare stradală autentică.",
-                  "category": "cultural",
-                  "coords": [
-                        120.971842,
-                        24.796913
                   ]
             },
             {
@@ -766,15 +478,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Garden of Principal Shin",
-                  "text": "Această grădină monumentală dedicată din Hsinchu comemorează o figură educațională notabilă prin terenuri amenajate cu grijă și structuri memoriale.",
-                  "category": "historical",
-                  "coords": [
-                        120.98166,
-                        24.793432
-                  ]
-            },
-            {
                   "name": "Xinyuan Market",
                   "text": "Această piață acoperită din Hsinchu are o rețea densă de tarabe care oferă carne proaspătă, legume regionale și necesități zilnice.",
                   "category": "cultural",
@@ -801,51 +504,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   "coords": [
                         120.966771,
                         24.814074
-                  ]
-            },
-            {
-                  "name": "Lee Tze-Fan Memorial Art Gallery",
-                  "text": "Dedicated to the renowned watercolorist, this art gallery in hsinchu-science-park-economic-v2 exhibits a rich collection of his vibrant landscape paintings.",
-                  "category": "cultural",
-                  "coords": [
-                        120.968173,
-                        24.801408
-                  ]
-            },
-            {
-                  "name": "Jingye Temple",
-                  "text": "Set behind serene courtyard walls, this historic Buddhist temple in hsinchu-science-park-economic-v2 provides a quiet refuge for spiritual practice.",
-                  "category": "religious",
-                  "coords": [
-                        120.959133,
-                        24.818671
-                  ]
-            },
-            {
-                  "name": "Immaculate Heart of Mary Cathedral, Hsinchu",
-                  "text": "This grand Catholic cathedral in hsinchu-science-park-economic-v2 is recognized for its imposing modernist facade and spiritual significance in the diocese.",
-                  "category": "religious",
-                  "coords": [
-                        120.966876,
-                        24.809391
-                  ]
-            },
-            {
-                  "name": "Hsinchu Changhe Temple",
-                  "text": "Known for enshrining a revered Mazu statue, this historic Taoist temple in hsinchu-science-park-economic-v2 features elaborate dragon columns and traditional craftsmanship.",
-                  "category": "religious",
-                  "coords": [
-                        120.964833,
-                        24.808636
-                  ]
-            },
-            {
-                  "name": "Hsinchu Earth God Temple",
-                  "text": "Surrounded by a bustling food market, this prominent City God temple in hsinchu-science-park-economic-v2 is a major center of local faith and street cuisine.",
-                  "category": "religious",
-                  "coords": [
-                        120.966065,
-                        24.804356
                   ]
             },
             {
@@ -876,15 +534,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Hsinwawu Hakka Culture conservation Area",
-                  "text": "This designated conservation area near Hsinchu protects historic rural buildings and promotes traditional Hakka cultural heritage.",
-                  "category": "landmark",
-                  "coords": [
-                        121.027167,
-                        24.811972
-                  ]
-            },
-            {
                   "name": "Jingguo Bridge",
                   "text": "This notable bridge provides a crucial transport link over the local waterway network connecting Hsinchu's urban districts.",
                   "category": "landmark",
@@ -903,15 +552,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Touchianxi Bridge",
-                  "text": "This notable crossing infrastructure traverses the Touqian River, serving as a vital connection for the Hsinchu region.",
-                  "category": "landmark",
-                  "coords": [
-                        120.998844,
-                        24.822078
-                  ]
-            },
-            {
                   "name": "Jiugang Bridge",
                   "text": "This significant structural bridge spans the coastal water channels near Hsinchu's traditional harbor areas.",
                   "category": "landmark",
@@ -921,39 +561,12 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "East Gate of Hsinchu City Wall (Yingxi gate)",
-                  "text": "Standing as a historical landmark in downtown Hsinchu, this traditional stone gate is a well-preserved remnant of the old city walls.",
-                  "category": "landmark",
-                  "coords": [
-                        120.970256,
-                        24.804211
-                  ]
-            },
-            {
                   "name": "Green Grass Lake",
                   "text": "This scenic reservoir lake in Hsinchu is surrounded by verdant hills and offers paved walking paths along its tranquil shoreline.",
                   "category": "landmark",
                   "coords": [
                         120.971555,
                         24.774787
-                  ]
-            },
-            {
-                  "name": "Hsinchu Zoo",
-                  "text": "Recognized as the oldest zoo in Taiwan, this Hsinchu attraction allows visitors to observe wildlife in upgraded, naturalistic habitats.",
-                  "category": "recreational",
-                  "coords": [
-                        120.979654,
-                        24.800769
-                  ]
-            },
-            {
-                  "name": "ChuLien Market",
-                  "text": "This bustling traditional marketplace in Hsinchu is packed with vendors selling fresh local produce and authentic street food.",
-                  "category": "cultural",
-                  "coords": [
-                        120.971842,
-                        24.796913
                   ]
             },
             {
@@ -1026,15 +639,6 @@ export const poiExtraTaiwanEconomicV2: POI[] = [
                   "coords": [
                         121.013055,
                         24.773942
-                  ]
-            },
-            {
-                  "name": "Garden of Principal Shin",
-                  "text": "This dedicated monumental garden in Hsinchu commemorates a notable educational figure with carefully landscaped grounds and memorial structures.",
-                  "category": "historical",
-                  "coords": [
-                        120.98166,
-                        24.793432
                   ]
             },
             {

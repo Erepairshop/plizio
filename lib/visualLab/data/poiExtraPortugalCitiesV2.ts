@@ -4246,33 +4246,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu Municipal de Numismática",
-                  "text": "Ein Museum, das eine bedeutende Sammlung historischer Münzen und Medaillen zeigt.",
-                  "category": "museum",
-                  "coords": [
-                        -8.615343,
-                        41.148924
-                  ]
-            },
-            {
-                  "name": "Centro Português de Fotografia",
-                  "text": "Dieses Museum für Fotografie ist in einem ehemaligen historischen Gefängnis untergebracht.",
-                  "category": "museum",
-                  "coords": [
-                        -8.615892,
-                        41.144717
-                  ]
-            },
-            {
-                  "name": "Antigo Local do Castelo de Gaia",
-                  "text": "Der historische Standort der ehemaligen Burg von Gaia mit Blick auf den Fluss Douro.",
-                  "category": "castle",
-                  "coords": [
-                        -8.624408,
-                        41.139645
-                  ]
-            },
-            {
                   "name": "Casa da Câmara",
                   "text": "Ein historisches Museumsgebäude, das früher als Rathaus diente.",
                   "category": "museum",
@@ -4297,33 +4270,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.6153,
                         41.14011
-                  ]
-            },
-            {
-                  "name": "Palacete de Belomonte",
-                  "text": "Ein elegantes historisches Herrenhaus in Porto mit architektonischer Bedeutung.",
-                  "category": "castle",
-                  "coords": [
-                        -8.616207,
-                        41.142515
-                  ]
-            },
-            {
-                  "name": "Palácio de São João Novo",
-                  "text": "Ein Palast aus dem 18. Jahrhundert, der ein Beispiel für die Barockarchitektur in Porto ist.",
-                  "category": "castle",
-                  "coords": [
-                        -8.617734,
-                        41.142514
-                  ]
-            },
-            {
-                  "name": "Museu dos Transportes e Comunicações",
-                  "text": "Dieses Museum im ehemaligen Zollhaus dokumentiert die Geschichte des Transportwesens.",
-                  "category": "museum",
-                  "coords": [
-                        -8.621009,
-                        41.14262
                   ]
             },
             {
@@ -4354,39 +4300,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arca de Água de Mijavelhas",
-                  "text": "Ein archäologisches Denkmal eines alten Wasserreservoirs in Porto.",
-                  "category": "historical",
-                  "coords": [
-                        -8.598566,
-                        41.148625
-                  ]
-            },
-            {
                   "name": "Arqueossítio da Rua de Dom Hugo",
                   "text": "Eine archäologische Ausgrabungsstätte, die die Ursprünge der Stadt Porto zeigt.",
                   "category": "historical",
                   "coords": [
                         -8.610589,
                         41.142936
-                  ]
-            },
-            {
-                  "name": "Teatro Sá da Bandeira",
-                  "text": "Eines der ältesten und traditionsreichsten Theatergebäude in Porto.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.608734,
-                        41.146646
-                  ]
-            },
-            {
-                  "name": "Coliseu do Porto",
-                  "text": "Ein bedeutendes Kulturzentrum und Veranstaltungsort für Konzerte und Shows in Porto.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.605311,
-                        41.147152
                   ]
             },
             {
@@ -4399,24 +4318,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Capela Carlos Alberto: Igreja Luterana do Porto",
-                  "text": "Eine lutherische Kapelle in Porto, die nach König Karl Albert benannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        -8.626912,
-                        41.146012
-                  ]
-            },
-            {
-                  "name": "Igreja do Corpo Santo de Massarelos",
-                  "text": "Eine Kirche in Porto, die dem Schutzpatron der Seeleute gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        -8.630491,
-                        41.145904
-                  ]
-            },
-            {
                   "name": "Capela de Nossa Senhora das Verdades",
                   "text": "Eine kleine historische Kapelle, die Teil des religiösen Erbes von Porto ist.",
                   "category": "religious",
@@ -4426,39 +4327,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Igreja e Torre dos Clérigos",
-                  "text": "Die Clérigos-Kirche mit ihrem markanten Turm ist eines der bekanntesten Wahrzeichen von Porto.",
-                  "category": "religious",
-                  "coords": [
-                        -8.61425,
-                        41.145771
-                  ]
-            },
-            {
-                  "name": "Igreja de São Pedro de Miragaia",
-                  "text": "Eine historische Kirche im Viertel Miragaia, bekannt für ihre dekorativen Kacheln.",
-                  "category": "religious",
-                  "coords": [
-                        -8.619684,
-                        41.142887
-                  ]
-            },
-            {
                   "name": "Igreja de Nossa Senhora da Esperança",
                   "text": "Eine barocke Kirche aus dem 18. Jahrhundert mit kunstvoller Innengestaltung.",
                   "category": "religious",
                   "coords": [
                         -8.602421,
                         41.145365
-                  ]
-            },
-            {
-                  "name": "Igreja do Carmo",
-                  "text": "Diese Barockkirche ist bekannt für ihre beeindruckende Seitenfassade aus blau-weißen Kacheln.",
-                  "category": "religious",
-                  "coords": [
-                        -8.616255,
-                        41.147474
                   ]
             },
             {
@@ -4489,15 +4363,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Livraria Lello & Irmão",
-                  "text": "Eine berühmte historische Buchhandlung, die für ihre kunstvolle Innenausstattung und Treppe bekannt ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.614849,
-                        41.146832
-                  ]
-            },
-            {
                   "name": "Funicular dos Guindais",
                   "text": "Eine Standseilbahn, die das Viertel Ribeira mit der Oberstadt verbindet.",
                   "category": "landmark",
@@ -4516,39 +4381,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chafariz da Colher",
-                  "text": "Ein historischer öffentlicher Brunnen in der Altstadt.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.621606,
-                        41.143716
-                  ]
-            },
-            {
-                  "name": "Teatro Municipal Rivoli",
-                  "text": "Ein bedeutendes städtisches Theater und Kulturzentrum der Stadt.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.609998,
-                        41.14782
-                  ]
-            },
-            {
                   "name": "Igreja de Santa Clara",
                   "text": "Eine gotische Kirche, die für ihr prunkvolles Interieur mit vergoldeten Holzschnitzereien bekannt ist.",
                   "category": "landmark",
                   "coords": [
                         -8.609199,
                         41.142511
-                  ]
-            },
-            {
-                  "name": "Fonte das Virtudes",
-                  "text": "Ein Brunnen aus dem 18. Jahrhundert in einem malerischen Viertel der Stadt.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.618961,
-                        41.144652
                   ]
             },
             {
@@ -4567,15 +4405,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.610703,
                         41.146339
-                  ]
-            },
-            {
-                  "name": "Jardins do Palácio de Cristal",
-                  "text": "Angelegte botanische Gärten mit Panoramablick auf den Fluss Douro.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.626508,
-                        41.147032
                   ]
             },
             {
@@ -4621,69 +4450,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.593706,
                         41.120498
-                  ]
-            },
-            {
-                  "name": "Lago da Pasteleira",
-                  "text": "Ein friedlicher See in Vila Nova de Gaia, umgeben von einer entspannten Atmosphäre.",
-                  "category": "natural",
-                  "coords": [
-                        -8.659526,
-                        41.15099
-                  ]
-            },
-            {
-                  "name": "Lago Grande",
-                  "text": "Ein beeindruckender See in Vila Nova de Gaia, ideal für Naturbeobachtungen.",
-                  "category": "natural",
-                  "coords": [
-                        -8.643743,
-                        41.153121
-                  ]
-            },
-            {
-                  "name": "Lago III",
-                  "text": "Ein lokales Gewässer in Vila Nova de Gaia, perfekt für einen ruhigen Spaziergang.",
-                  "category": "natural",
-                  "coords": [
-                        -8.683587,
-                        41.168773
-                  ]
-            },
-            {
-                  "name": "Presa de Contumil",
-                  "text": "Ein Stausee oder See in Vila Nova de Gaia, der sich harmonisch in die Landschaft fügt.",
-                  "category": "natural",
-                  "coords": [
-                        -8.578242,
-                        41.169813
-                  ]
-            },
-            {
-                  "name": "Lago do Parque de Serralves",
-                  "text": "Ein See im Park Serralves in Vila Nova de Gaia.",
-                  "category": "natural",
-                  "coords": [
-                        -8.656915,
-                        41.15776
-                  ]
-            },
-            {
-                  "name": "Lago II",
-                  "text": "Ein weiteres ruhiges Gewässer in Vila Nova de Gaia für Momente der Entspannung.",
-                  "category": "natural",
-                  "coords": [
-                        -8.678059,
-                        41.167399
-                  ]
-            },
-            {
-                  "name": "Lago I",
-                  "text": "Ein kleiner See in Vila Nova de Gaia, ideal für einen kurzen Aufenthalt im Grünen.",
-                  "category": "natural",
-                  "coords": [
-                        -8.673753,
-                        41.168099
                   ]
             },
             {
@@ -4743,33 +4509,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu Municipal de Numismática",
-                  "text": "Múzeum, amely történelmi érmék és érmek jelentős gyűjteményét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -8.615343,
-                        41.148924
-                  ]
-            },
-            {
-                  "name": "Centro Português de Fotografia",
-                  "text": "Ez a fotóművészeti múzeum egy egykori történelmi börtön épületében kapott helyet.",
-                  "category": "museum",
-                  "coords": [
-                        -8.615892,
-                        41.144717
-                  ]
-            },
-            {
-                  "name": "Antigo Local do Castelo de Gaia",
-                  "text": "A hajdani Gaia várának történelmi helyszíne, kilátással a Douro folyóra.",
-                  "category": "castle",
-                  "coords": [
-                        -8.624408,
-                        41.139645
-                  ]
-            },
-            {
                   "name": "Casa da Câmara",
                   "text": "Történelmi múzeumépület, amely korábban városházaként szolgált.",
                   "category": "museum",
@@ -4794,33 +4533,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.6153,
                         41.14011
-                  ]
-            },
-            {
-                  "name": "Palacete de Belomonte",
-                  "text": "Elegáns történelmi úrilak Portóban, amely építészeti jelentőséggel bír.",
-                  "category": "castle",
-                  "coords": [
-                        -8.616207,
-                        41.142515
-                  ]
-            },
-            {
-                  "name": "Palácio de São João Novo",
-                  "text": "18. századi palota, amely a portói barokk építészet egyik példája.",
-                  "category": "castle",
-                  "coords": [
-                        -8.617734,
-                        41.142514
-                  ]
-            },
-            {
-                  "name": "Museu dos Transportes e Comunicações",
-                  "text": "Ez az egykori vámházban található múzeum a közlekedés történetét dokumentálja.",
-                  "category": "museum",
-                  "coords": [
-                        -8.621009,
-                        41.14262
                   ]
             },
             {
@@ -4851,39 +4563,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arca de Água de Mijavelhas",
-                  "text": "Egy régi víztározó régészeti emléke Portóban.",
-                  "category": "historical",
-                  "coords": [
-                        -8.598566,
-                        41.148625
-                  ]
-            },
-            {
                   "name": "Arqueossítio da Rua de Dom Hugo",
                   "text": "Régészeti lelőhely, amely Porto városának eredetét mutatja be.",
                   "category": "historical",
                   "coords": [
                         -8.610589,
                         41.142936
-                  ]
-            },
-            {
-                  "name": "Teatro Sá da Bandeira",
-                  "text": "Porto egyik legrégebbi és leghagyományosabb színházépülete.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.608734,
-                        41.146646
-                  ]
-            },
-            {
-                  "name": "Coliseu do Porto",
-                  "text": "Jelentős kulturális központ és koncertek, előadások helyszíne Portóban.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.605311,
-                        41.147152
                   ]
             },
             {
@@ -4896,24 +4581,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Capela Carlos Alberto: Igreja Luterana do Porto",
-                  "text": "Lutheránus kápolna Portóban, amelyet Károly Albert királyról neveztek el.",
-                  "category": "religious",
-                  "coords": [
-                        -8.626912,
-                        41.146012
-                  ]
-            },
-            {
-                  "name": "Igreja do Corpo Santo de Massarelos",
-                  "text": "Portói templom, amelyet a tengerészek védőszentjének szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        -8.630491,
-                        41.145904
-                  ]
-            },
-            {
                   "name": "Capela de Nossa Senhora das Verdades",
                   "text": "Kisméretű történelmi kápolna, amely Porto vallási örökségének része.",
                   "category": "religious",
@@ -4923,39 +4590,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Igreja e Torre dos Clérigos",
-                  "text": "A Clérigos-templom jellegzetes tornyával Porto egyik legismertebb jelképe.",
-                  "category": "religious",
-                  "coords": [
-                        -8.61425,
-                        41.145771
-                  ]
-            },
-            {
-                  "name": "Igreja de São Pedro de Miragaia",
-                  "text": "Történelmi templom a Miragaia negyedben, amely díszes csempéiről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        -8.619684,
-                        41.142887
-                  ]
-            },
-            {
                   "name": "Igreja de Nossa Senhora da Esperança",
                   "text": "18. századi barokk templom művészi belső kialakítással.",
                   "category": "religious",
                   "coords": [
                         -8.602421,
                         41.145365
-                  ]
-            },
-            {
-                  "name": "Igreja do Carmo",
-                  "text": "Ez a barokk templom a kék-fehér csempékkel díszített lenyűgöző oldalsó homlokzatáról ismert.",
-                  "category": "religious",
-                  "coords": [
-                        -8.616255,
-                        41.147474
                   ]
             },
             {
@@ -4986,15 +4626,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Livraria Lello & Irmão",
-                  "text": "Híres történelmi könyvesbolt, amely díszes belső teréről és lépcsőházáról ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.614849,
-                        41.146832
-                  ]
-            },
-            {
                   "name": "Funicular dos Guindais",
                   "text": "Sikló, amely a Ribeira negyedet köti össze a város felső részével.",
                   "category": "landmark",
@@ -5013,39 +4644,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chafariz da Colher",
-                  "text": "Történelmi nyilvános kút a város ódon részén.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.621606,
-                        41.143716
-                  ]
-            },
-            {
-                  "name": "Teatro Municipal Rivoli",
-                  "text": "A város jelentős önkormányzati színháza és kulturális központja.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.609998,
-                        41.14782
-                  ]
-            },
-            {
                   "name": "Igreja de Santa Clara",
                   "text": "Gótikus templom, amely aranyozott fafaragásokkal díszített belső teréről híres.",
                   "category": "landmark",
                   "coords": [
                         -8.609199,
                         41.142511
-                  ]
-            },
-            {
-                  "name": "Fonte das Virtudes",
-                  "text": "18. századi szökőkút a város egyik festői környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.618961,
-                        41.144652
                   ]
             },
             {
@@ -5064,15 +4668,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.610703,
                         41.146339
-                  ]
-            },
-            {
-                  "name": "Jardins do Palácio de Cristal",
-                  "text": "Gondozott botanikus kertek panorámás kilátással a Duero folyóra.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.626508,
-                        41.147032
                   ]
             },
             {
@@ -5118,69 +4713,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.593706,
                         41.120498
-                  ]
-            },
-            {
-                  "name": "Lago da Pasteleira",
-                  "text": "Egy békés tó Vila Nova de Gaiában, nyugodt légkörrel körülvéve.",
-                  "category": "natural",
-                  "coords": [
-                        -8.659526,
-                        41.15099
-                  ]
-            },
-            {
-                  "name": "Lago Grande",
-                  "text": "Egy lenyűgöző tó Vila Nova de Gaiában, amely ideális a természet megfigyelésére.",
-                  "category": "natural",
-                  "coords": [
-                        -8.643743,
-                        41.153121
-                  ]
-            },
-            {
-                  "name": "Lago III",
-                  "text": "Egy helyi vízfelület Vila Nova de Gaiában, amely tökéletes egy nyugodt sétához.",
-                  "category": "natural",
-                  "coords": [
-                        -8.683587,
-                        41.168773
-                  ]
-            },
-            {
-                  "name": "Presa de Contumil",
-                  "text": "Egy víztározó vagy tó Vila Nova de Gaiában, amely harmonikusan illeszkedik a tájba.",
-                  "category": "natural",
-                  "coords": [
-                        -8.578242,
-                        41.169813
-                  ]
-            },
-            {
-                  "name": "Lago do Parque de Serralves",
-                  "text": "Egy tó a Serralves Parkban Vila Nova de Gaia-ban.",
-                  "category": "natural",
-                  "coords": [
-                        -8.656915,
-                        41.15776
-                  ]
-            },
-            {
-                  "name": "Lago II",
-                  "text": "Egy másik nyugodt vízfelület Vila Nova de Gaiában a pihenés pillanataiért.",
-                  "category": "natural",
-                  "coords": [
-                        -8.678059,
-                        41.167399
-                  ]
-            },
-            {
-                  "name": "Lago I",
-                  "text": "Egy kis tó Vila Nova de Gaiában, amely ideális egy rövid zöldövezeti tartózkodáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        -8.673753,
-                        41.168099
                   ]
             },
             {
@@ -5240,33 +4772,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu Municipal de Numismática",
-                  "text": "Un muzeu care expune o colecție importantă de monede și medalii istorice.",
-                  "category": "museum",
-                  "coords": [
-                        -8.615343,
-                        41.148924
-                  ]
-            },
-            {
-                  "name": "Centro Português de Fotografia",
-                  "text": "Acest muzeu de fotografie este găzduit într-o fostă închisoare istorică.",
-                  "category": "museum",
-                  "coords": [
-                        -8.615892,
-                        41.144717
-                  ]
-            },
-            {
-                  "name": "Antigo Local do Castelo de Gaia",
-                  "text": "Locul istoric al fostului castel din Gaia, cu vedere la râul Douro.",
-                  "category": "castle",
-                  "coords": [
-                        -8.624408,
-                        41.139645
-                  ]
-            },
-            {
                   "name": "Casa da Câmara",
                   "text": "O clădire istorică de muzeu care a servit anterior drept primărie.",
                   "category": "museum",
@@ -5291,33 +4796,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.6153,
                         41.14011
-                  ]
-            },
-            {
-                  "name": "Palacete de Belomonte",
-                  "text": "Un conac istoric elegant din Porto, cu importanță arhitecturală.",
-                  "category": "castle",
-                  "coords": [
-                        -8.616207,
-                        41.142515
-                  ]
-            },
-            {
-                  "name": "Palácio de São João Novo",
-                  "text": "Un palat din secolul al XVIII-lea, care este un exemplu al arhitecturii baroce din Porto.",
-                  "category": "castle",
-                  "coords": [
-                        -8.617734,
-                        41.142514
-                  ]
-            },
-            {
-                  "name": "Museu dos Transportes e Comunicações",
-                  "text": "Acest muzeu situat în fosta vamă documentează istoria transporturilor.",
-                  "category": "museum",
-                  "coords": [
-                        -8.621009,
-                        41.14262
                   ]
             },
             {
@@ -5348,39 +4826,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arca de Água de Mijavelhas",
-                  "text": "Un monument arheologic al unui vechi rezervor de apă din Porto.",
-                  "category": "historical",
-                  "coords": [
-                        -8.598566,
-                        41.148625
-                  ]
-            },
-            {
                   "name": "Arqueossítio da Rua de Dom Hugo",
                   "text": "Un sit arheologic care prezintă originile orașului Porto.",
                   "category": "historical",
                   "coords": [
                         -8.610589,
                         41.142936
-                  ]
-            },
-            {
-                  "name": "Teatro Sá da Bandeira",
-                  "text": "Una dintre cele mai vechi și tradiționale clădiri de teatru din Porto.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.608734,
-                        41.146646
-                  ]
-            },
-            {
-                  "name": "Coliseu do Porto",
-                  "text": "Un important centru cultural și loc de desfășurare pentru concerte și spectacole în Porto.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.605311,
-                        41.147152
                   ]
             },
             {
@@ -5393,24 +4844,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Capela Carlos Alberto: Igreja Luterana do Porto",
-                  "text": "O capelă luterană din Porto, numită după regele Carol Albert.",
-                  "category": "religious",
-                  "coords": [
-                        -8.626912,
-                        41.146012
-                  ]
-            },
-            {
-                  "name": "Igreja do Corpo Santo de Massarelos",
-                  "text": "O biserică din Porto dedicată sfântului patron al marinarilor.",
-                  "category": "religious",
-                  "coords": [
-                        -8.630491,
-                        41.145904
-                  ]
-            },
-            {
                   "name": "Capela de Nossa Senhora das Verdades",
                   "text": "O mică capelă istorică, parte a patrimoniului religios din Porto.",
                   "category": "religious",
@@ -5420,39 +4853,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Igreja e Torre dos Clérigos",
-                  "text": "Biserica Clérigos, cu turnul său emblematic, este unul dintre cele mai cunoscute simboluri ale orașului Porto.",
-                  "category": "religious",
-                  "coords": [
-                        -8.61425,
-                        41.145771
-                  ]
-            },
-            {
-                  "name": "Igreja de São Pedro de Miragaia",
-                  "text": "O biserică istorică din cartierul Miragaia, cunoscută pentru plăcile sale decorative de faianță.",
-                  "category": "religious",
-                  "coords": [
-                        -8.619684,
-                        41.142887
-                  ]
-            },
-            {
                   "name": "Igreja de Nossa Senhora da Esperança",
                   "text": "O biserică barocă din secolul al XVIII-lea, cu un design interior artistic.",
                   "category": "religious",
                   "coords": [
                         -8.602421,
                         41.145365
-                  ]
-            },
-            {
-                  "name": "Igreja do Carmo",
-                  "text": "Această biserică barocă este cunoscută pentru fațada laterală impresionantă din plăci de faianță alb-albastre.",
-                  "category": "religious",
-                  "coords": [
-                        -8.616255,
-                        41.147474
                   ]
             },
             {
@@ -5483,15 +4889,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Livraria Lello & Irmão",
-                  "text": "O librărie istorică faimoasă, cunoscută pentru interiorul său ornamental și scara spectaculoasă.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.614849,
-                        41.146832
-                  ]
-            },
-            {
                   "name": "Funicular dos Guindais",
                   "text": "Un funicular care conectează cartierul Ribeira cu partea de sus a orașului.",
                   "category": "landmark",
@@ -5510,39 +4907,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chafariz da Colher",
-                  "text": "O fântână publică istorică situată în partea veche a orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.621606,
-                        41.143716
-                  ]
-            },
-            {
-                  "name": "Teatro Municipal Rivoli",
-                  "text": "Un teatru municipal proeminent și centru cultural din oraș.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.609998,
-                        41.14782
-                  ]
-            },
-            {
                   "name": "Igreja de Santa Clara",
                   "text": "O biserică gotică faimoasă pentru interiorul său acoperit cu sculpturi în lemn aurit.",
                   "category": "landmark",
                   "coords": [
                         -8.609199,
                         41.142511
-                  ]
-            },
-            {
-                  "name": "Fonte das Virtudes",
-                  "text": "O fântână din secolul al XVIII-lea situată într-o zonă pitorească a orașului.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.618961,
-                        41.144652
                   ]
             },
             {
@@ -5561,15 +4931,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.610703,
                         41.146339
-                  ]
-            },
-            {
-                  "name": "Jardins do Palácio de Cristal",
-                  "text": "Grădini botanice amenajate care oferă vederi panoramice asupra râului Douro.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.626508,
-                        41.147032
                   ]
             },
             {
@@ -5615,69 +4976,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.593706,
                         41.120498
-                  ]
-            },
-            {
-                  "name": "Lago da Pasteleira",
-                  "text": "Un lac liniștit în Vila Nova de Gaia, înconjurat de o atmosferă relaxantă.",
-                  "category": "natural",
-                  "coords": [
-                        -8.659526,
-                        41.15099
-                  ]
-            },
-            {
-                  "name": "Lago Grande",
-                  "text": "Un lac impresionant în Vila Nova de Gaia, ideal pentru observarea naturii.",
-                  "category": "natural",
-                  "coords": [
-                        -8.643743,
-                        41.153121
-                  ]
-            },
-            {
-                  "name": "Lago III",
-                  "text": "Un luciu de apă local în Vila Nova de Gaia, perfect pentru o plimbare liniștită.",
-                  "category": "natural",
-                  "coords": [
-                        -8.683587,
-                        41.168773
-                  ]
-            },
-            {
-                  "name": "Presa de Contumil",
-                  "text": "Un lac de acumulare sau lac în Vila Nova de Gaia care se integrează armonios în peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        -8.578242,
-                        41.169813
-                  ]
-            },
-            {
-                  "name": "Lago do Parque de Serralves",
-                  "text": "Un lac în Parcul Serralves din Vila Nova de Gaia.",
-                  "category": "natural",
-                  "coords": [
-                        -8.656915,
-                        41.15776
-                  ]
-            },
-            {
-                  "name": "Lago II",
-                  "text": "Un alt luciu de apă liniștit în Vila Nova de Gaia pentru momente de relaxare.",
-                  "category": "natural",
-                  "coords": [
-                        -8.678059,
-                        41.167399
-                  ]
-            },
-            {
-                  "name": "Lago I",
-                  "text": "Un lac mic în Vila Nova de Gaia, ideal pentru o scurtă ședere în natură.",
-                  "category": "natural",
-                  "coords": [
-                        -8.673753,
-                        41.168099
                   ]
             },
             {
@@ -5737,33 +5035,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu Municipal de Numismática",
-                  "text": "A museum displaying a significant collection of historic coins and medals.",
-                  "category": "museum",
-                  "coords": [
-                        -8.615343,
-                        41.148924
-                  ]
-            },
-            {
-                  "name": "Portuguese Photography Centre",
-                  "text": "This photography museum is housed in a former historic prison building.",
-                  "category": "museum",
-                  "coords": [
-                        -8.615892,
-                        41.144717
-                  ]
-            },
-            {
-                  "name": "Antigo Local do Castelo de Gaia",
-                  "text": "The historical site of the former Gaia Castle overlooking the Douro River.",
-                  "category": "castle",
-                  "coords": [
-                        -8.624408,
-                        41.139645
-                  ]
-            },
-            {
                   "name": "Casa da Câmara",
                   "text": "A historic museum building that formerly served as the city hall.",
                   "category": "museum",
@@ -5788,33 +5059,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.6153,
                         41.14011
-                  ]
-            },
-            {
-                  "name": "Palacete de Belomonte",
-                  "text": "An elegant historic mansion in Porto with architectural significance.",
-                  "category": "castle",
-                  "coords": [
-                        -8.616207,
-                        41.142515
-                  ]
-            },
-            {
-                  "name": "Palácio de São João Novo",
-                  "text": "An 18th-century palace that is an example of Baroque architecture in Porto.",
-                  "category": "castle",
-                  "coords": [
-                        -8.617734,
-                        41.142514
-                  ]
-            },
-            {
-                  "name": "Museu dos Transportes e Comunicações",
-                  "text": "This museum located in the former customs house documents the history of transport.",
-                  "category": "museum",
-                  "coords": [
-                        -8.621009,
-                        41.14262
                   ]
             },
             {
@@ -5845,39 +5089,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arca de Água de Mijavelhas",
-                  "text": "An archaeological monument of an ancient water reservoir in Porto.",
-                  "category": "historical",
-                  "coords": [
-                        -8.598566,
-                        41.148625
-                  ]
-            },
-            {
                   "name": "Arqueossítio da Rua de Dom Hugo",
                   "text": "An archaeological site showing the origins of the city of Porto.",
                   "category": "historical",
                   "coords": [
                         -8.610589,
                         41.142936
-                  ]
-            },
-            {
-                  "name": "Teatro Sá da Bandeira",
-                  "text": "One of the oldest and most traditional theatre buildings in Porto.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.608734,
-                        41.146646
-                  ]
-            },
-            {
-                  "name": "Coliseu do Porto",
-                  "text": "A major cultural center and venue for concerts and shows in Porto.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.605311,
-                        41.147152
                   ]
             },
             {
@@ -5890,24 +5107,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Capela Carlos Alberto: Igreja Luterana do Porto",
-                  "text": "A Lutheran chapel in Porto named after King Charles Albert.",
-                  "category": "religious",
-                  "coords": [
-                        -8.626912,
-                        41.146012
-                  ]
-            },
-            {
-                  "name": "Igreja do Corpo Santo de Massarelos",
-                  "text": "A church in Porto dedicated to the patron saint of sailors.",
-                  "category": "religious",
-                  "coords": [
-                        -8.630491,
-                        41.145904
-                  ]
-            },
-            {
                   "name": "Capela de Nossa Senhora das Verdades",
                   "text": "A small historic chapel that is part of Porto's religious heritage.",
                   "category": "religious",
@@ -5917,39 +5116,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Clérigos Church and Tower",
-                  "text": "The Clérigos Church with its iconic tower is one of Porto's most famous landmarks.",
-                  "category": "religious",
-                  "coords": [
-                        -8.61425,
-                        41.145771
-                  ]
-            },
-            {
-                  "name": "Igreja de São Pedro de Miragaia",
-                  "text": "A historic church in the Miragaia neighborhood, known for its decorative tiles.",
-                  "category": "religious",
-                  "coords": [
-                        -8.619684,
-                        41.142887
-                  ]
-            },
-            {
                   "name": "Igreja de Nossa Senhora da Esperança",
                   "text": "An 18th-century Baroque church with artistic interior design.",
                   "category": "religious",
                   "coords": [
                         -8.602421,
                         41.145365
-                  ]
-            },
-            {
-                  "name": "Igreja do Carmo",
-                  "text": "This Baroque church is known for its impressive side facade made of blue and white tiles.",
-                  "category": "religious",
-                  "coords": [
-                        -8.616255,
-                        41.147474
                   ]
             },
             {
@@ -5980,15 +5152,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lello & Irmao Bookstore",
-                  "text": "A famous historic bookstore known for its ornate interior and grand staircase.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.614849,
-                        41.146832
-                  ]
-            },
-            {
                   "name": "Funicular dos Guindais",
                   "text": "A funicular railway connecting the Ribeira district to the upper part of the city.",
                   "category": "landmark",
@@ -6007,39 +5170,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Chafariz da Colher",
-                  "text": "A historic public fountain located in the old part of the city.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.621606,
-                        41.143716
-                  ]
-            },
-            {
-                  "name": "Teatro Municipal Rivoli",
-                  "text": "A prominent municipal theatre and cultural venue in the city.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.609998,
-                        41.14782
-                  ]
-            },
-            {
                   "name": "Igreja de Santa Clara",
                   "text": "A Gothic church famous for its interior covered in elaborate gilded woodwork.",
                   "category": "landmark",
                   "coords": [
                         -8.609199,
                         41.142511
-                  ]
-            },
-            {
-                  "name": "Fonte das Virtudes",
-                  "text": "An 18th-century fountain located in a scenic area of the city.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.618961,
-                        41.144652
                   ]
             },
             {
@@ -6058,15 +5194,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.610703,
                         41.146339
-                  ]
-            },
-            {
-                  "name": "Jardins do Palácio de Cristal",
-                  "text": "Landscaped botanical gardens offering panoramic views of the Douro River.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.626508,
-                        41.147032
                   ]
             },
             {
@@ -6112,69 +5239,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.593706,
                         41.120498
-                  ]
-            },
-            {
-                  "name": "Lago da Pasteleira",
-                  "text": "A peaceful lake in Vila Nova de Gaia surrounded by a relaxed atmosphere.",
-                  "category": "natural",
-                  "coords": [
-                        -8.659526,
-                        41.15099
-                  ]
-            },
-            {
-                  "name": "Lago Grande",
-                  "text": "An impressive lake in Vila Nova de Gaia ideal for nature observation.",
-                  "category": "natural",
-                  "coords": [
-                        -8.643743,
-                        41.153121
-                  ]
-            },
-            {
-                  "name": "Lago III",
-                  "text": "A local water body in Vila Nova de Gaia perfect for a quiet walk.",
-                  "category": "natural",
-                  "coords": [
-                        -8.683587,
-                        41.168773
-                  ]
-            },
-            {
-                  "name": "Presa de Contumil",
-                  "text": "A reservoir or lake in Vila Nova de Gaia fitting harmoniously into the landscape.",
-                  "category": "natural",
-                  "coords": [
-                        -8.578242,
-                        41.169813
-                  ]
-            },
-            {
-                  "name": "Lago do Parque de Serralves",
-                  "text": "A lake in Serralves Park in Vila Nova de Gaia.",
-                  "category": "natural",
-                  "coords": [
-                        -8.656915,
-                        41.15776
-                  ]
-            },
-            {
-                  "name": "Lago II",
-                  "text": "Another quiet water body in Vila Nova de Gaia for moments of relaxation.",
-                  "category": "natural",
-                  "coords": [
-                        -8.678059,
-                        41.167399
-                  ]
-            },
-            {
-                  "name": "Lago I",
-                  "text": "A small lake in Vila Nova de Gaia ideal for a short stay in nature.",
-                  "category": "natural",
-                  "coords": [
-                        -8.673753,
-                        41.168099
                   ]
             },
             {
@@ -6270,24 +5334,6 @@ export const portugalCitiesV2: POI[] = [
   {
     id: "portugal-matosinhos-cities-v2", "sights": {
       "de": [
-            {
-                  "name": "Lago da Pasteleira",
-                  "text": "Das Lago da Pasteleira ist ein See in Matosinhos, der eine ruhige Kulisse für Parkbesucher bietet.",
-                  "category": "natural",
-                  "coords": [
-                        -8.659526,
-                        41.15099
-                  ]
-            },
-            {
-                  "name": "Lago Grande",
-                  "text": "Der Lago Grande ist ein schöner See in Matosinhos, ideal für einen entspannten Nachmittag im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        -8.643743,
-                        41.153121
-                  ]
-            },
             {
                   "name": "Charca",
                   "text": "Charca ist ein kleiner See in Matosinhos, der die natürliche Vielfalt der Region zeigt.",
@@ -6462,24 +5508,6 @@ export const portugalCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Lago da Pasteleira",
-                  "text": "A Lago da Pasteleira egy tó Matosinhosban, amely nyugodt környezetet biztosít a parklátogatóknak.",
-                  "category": "natural",
-                  "coords": [
-                        -8.659526,
-                        41.15099
-                  ]
-            },
-            {
-                  "name": "Lago Grande",
-                  "text": "A Lago Grande egy szép tó Matosinhosban, ideális egy pihentető délutánhoz a szabadban.",
-                  "category": "natural",
-                  "coords": [
-                        -8.643743,
-                        41.153121
-                  ]
-            },
-            {
                   "name": "Charca",
                   "text": "A Charca egy kis tó Matosinhosban, amely megmutatja a régió természetes sokszínűségét.",
                   "category": "natural",
@@ -6653,24 +5681,6 @@ export const portugalCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Lago da Pasteleira",
-                  "text": "Lago da Pasteleira este un lac din Matosinhos, oferind un cadru liniștit pentru vizitatorii parcului.",
-                  "category": "natural",
-                  "coords": [
-                        -8.659526,
-                        41.15099
-                  ]
-            },
-            {
-                  "name": "Lago Grande",
-                  "text": "Lago Grande este un lac frumos în Matosinhos, ideal pentru o după-amiază relaxantă în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        -8.643743,
-                        41.153121
-                  ]
-            },
-            {
                   "name": "Charca",
                   "text": "Charca este un lac mic în Matosinhos, care prezintă diversitatea naturală a regiunii.",
                   "category": "natural",
@@ -6843,24 +5853,6 @@ export const portugalCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Lago da Pasteleira",
-                  "text": "Lago da Pasteleira is a lake in Matosinhos, providing a calm backdrop for park visitors.",
-                  "category": "natural",
-                  "coords": [
-                        -8.659526,
-                        41.15099
-                  ]
-            },
-            {
-                  "name": "Lago Grande",
-                  "text": "Lago Grande is a beautiful lake in Matosinhos, ideal for a relaxed afternoon outdoors.",
-                  "category": "natural",
-                  "coords": [
-                        -8.643743,
-                        41.153121
-                  ]
-            },
             {
                   "name": "Charca",
                   "text": "Charca is a small lake in Matosinhos, showcasing the natural diversity of the region.",
@@ -7459,48 +6451,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lago Duque de Lafões",
-                  "text": "Ein See, benannt nach dem Herzog von Lafões, in Almada.",
-                  "category": "natural",
-                  "coords": [
-                        -9.169075,
-                        38.70966
-                  ]
-            },
-            {
-                  "name": "Lagoa",
-                  "text": "Eine Lagune in Almada.",
-                  "category": "natural",
-                  "coords": [
-                        -9.188938,
-                        38.716008
-                  ]
-            },
-            {
                   "name": "Lago parque dos moinhos",
                   "text": "Lago parque dos moinhos ist ein See in Almada, ein ruhiger Ort für Erholungssuchende.",
                   "category": "natural",
                   "coords": [
                         -9.205239,
                         38.708635
-                  ]
-            },
-            {
-                  "name": "Tanque de refrigeração",
-                  "text": "Tanque de refrigeração ist ein See in Almada, der einen interessanten Wasserpunkt darstellt.",
-                  "category": "natural",
-                  "coords": [
-                        -9.164274,
-                        38.619485
-                  ]
-            },
-            {
-                  "name": "Tanque",
-                  "text": "Tanque ist ein See in Almada, der eine friedliche Umgebung am Wasser bietet.",
-                  "category": "natural",
-                  "coords": [
-                        -9.18202,
-                        38.709458
                   ]
             },
             {
@@ -8019,48 +6975,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lago Duque de Lafões",
-                  "text": "Egy tó, Lafões hercegéről elnevezve, Almada-ban.",
-                  "category": "natural",
-                  "coords": [
-                        -9.169075,
-                        38.70966
-                  ]
-            },
-            {
-                  "name": "Lagoa",
-                  "text": "Egy lagúna Almada-ban.",
-                  "category": "natural",
-                  "coords": [
-                        -9.188938,
-                        38.716008
-                  ]
-            },
-            {
                   "name": "Lago parque dos moinhos",
                   "text": "A Lago parque dos moinhos egy tó Almada területén, nyugodt hely a kikapcsolódni vágyóknak.",
                   "category": "natural",
                   "coords": [
                         -9.205239,
                         38.708635
-                  ]
-            },
-            {
-                  "name": "Tanque de refrigeração",
-                  "text": "A Tanque de refrigeração egy tó Almada területén, amely egy érdekes vízi pontot képvisel.",
-                  "category": "natural",
-                  "coords": [
-                        -9.164274,
-                        38.619485
-                  ]
-            },
-            {
-                  "name": "Tanque",
-                  "text": "A Tanque egy tó Almada területén, amely békés vízparti környezetet kínál.",
-                  "category": "natural",
-                  "coords": [
-                        -9.18202,
-                        38.709458
                   ]
             },
             {
@@ -8579,48 +7499,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lago Duque de Lafões",
-                  "text": "Un lac numit după Ducele de Lafões în Almada.",
-                  "category": "natural",
-                  "coords": [
-                        -9.169075,
-                        38.70966
-                  ]
-            },
-            {
-                  "name": "Lagoa",
-                  "text": "O lagună în Almada.",
-                  "category": "natural",
-                  "coords": [
-                        -9.188938,
-                        38.716008
-                  ]
-            },
-            {
                   "name": "Lago parque dos moinhos",
                   "text": "Lago parque dos moinhos este un lac în Almada, un loc liniștit pentru cei ce caută relaxare.",
                   "category": "natural",
                   "coords": [
                         -9.205239,
                         38.708635
-                  ]
-            },
-            {
-                  "name": "Tanque de refrigeração",
-                  "text": "Tanque de refrigeração este un lac în Almada, reprezentând un punct de apă interesant.",
-                  "category": "natural",
-                  "coords": [
-                        -9.164274,
-                        38.619485
-                  ]
-            },
-            {
-                  "name": "Tanque",
-                  "text": "Tanque este un lac în Almada, oferind un mediu liniștit lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        -9.18202,
-                        38.709458
                   ]
             },
             {
@@ -9139,48 +8023,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lago Duque de Lafões",
-                  "text": "A lake named after the Duke of Lafões in Almada.",
-                  "category": "natural",
-                  "coords": [
-                        -9.169075,
-                        38.70966
-                  ]
-            },
-            {
-                  "name": "Lagoa",
-                  "text": "A lagoon in Almada.",
-                  "category": "natural",
-                  "coords": [
-                        -9.188938,
-                        38.716008
-                  ]
-            },
-            {
                   "name": "Lago parque dos moinhos",
                   "text": "Lago parque dos moinhos is a lake in Almada, a peaceful spot for those seeking relaxation.",
                   "category": "natural",
                   "coords": [
                         -9.205239,
                         38.708635
-                  ]
-            },
-            {
-                  "name": "Tanque de refrigeração",
-                  "text": "Tanque de refrigeração is a lake in Almada, representing an interesting water feature.",
-                  "category": "natural",
-                  "coords": [
-                        -9.164274,
-                        38.619485
-                  ]
-            },
-            {
-                  "name": "Tanque",
-                  "text": "Tanque is a lake in Almada, providing a peaceful environment by the water.",
-                  "category": "natural",
-                  "coords": [
-                        -9.18202,
-                        38.709458
                   ]
             },
             {
@@ -9610,33 +8458,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lago Duque de Lafões",
-                  "text": "Der Lago Duque de Lafões in Amadora ist ein friedliches Gewässer, das sich ideal für einen entspannten Spaziergang am Ufer eignet.",
-                  "category": "natural",
-                  "coords": [
-                        -9.169075,
-                        38.70966
-                  ]
-            },
-            {
-                  "name": "Lagoa",
-                  "text": "Die Lagoa in Amadora bietet eine malerische Kulisse für Besucher, die die Ruhe am Wasser genießen möchten.",
-                  "category": "natural",
-                  "coords": [
-                        -9.188938,
-                        38.716008
-                  ]
-            },
-            {
-                  "name": "Lago parque dos moinhos",
-                  "text": "Der Lago parque dos moinhos in Amadora ist ein schöner Ort zum Entspannen und zum Betrachten der lokalen Wasservögel.",
-                  "category": "natural",
-                  "coords": [
-                        -9.205239,
-                        38.708635
-                  ]
-            },
-            {
                   "name": "Lagoa de Casal de Cambra",
                   "text": "Die Lagoa de Casal de Cambra in Amadora ist ein ruhiges Gewässer, das zum Verweilen in der Natur einlädt.",
                   "category": "natural",
@@ -9664,15 +8485,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tanque",
-                  "text": "Der Tanque in Amadora ist ein schlichtes Gewässer, das die umliegende Landschaft bereichert.",
-                  "category": "natural",
-                  "coords": [
-                        -9.18202,
-                        38.709458
-                  ]
-            },
-            {
                   "name": "Cisterna",
                   "text": "Die Cisterna in Amadora ist ein funktionales Wasserreservoir, das harmonisch in seine Umgebung eingebettet ist.",
                   "category": "natural",
@@ -9697,15 +8509,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -9.26129,
                         38.702382
-                  ]
-            },
-            {
-                  "name": "Lago Principal",
-                  "text": "Der Lago Principal in Amadora ist der zentrale See der Anlage und bietet eine schöne Aussicht für Spaziergänger.",
-                  "category": "natural",
-                  "coords": [
-                        -9.202917,
-                        38.698231
                   ]
             },
             {
@@ -10062,33 +8865,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lago Duque de Lafões",
-                  "text": "Az amadorai Lago Duque de Lafões egy nyugodt vízfelület, amely ideális egy pihentető parti sétához.",
-                  "category": "natural",
-                  "coords": [
-                        -9.169075,
-                        38.70966
-                  ]
-            },
-            {
-                  "name": "Lagoa",
-                  "text": "Az amadorai Lagoa festői hátteret nyújt a látogatóknak, akik szeretnék élvezni a vízparti nyugalmat.",
-                  "category": "natural",
-                  "coords": [
-                        -9.188938,
-                        38.716008
-                  ]
-            },
-            {
-                  "name": "Lago parque dos moinhos",
-                  "text": "Az amadorai Lago parque dos moinhos szép helyszín a kikapcsolódáshoz és a helyi vízimadarak megfigyeléséhez.",
-                  "category": "natural",
-                  "coords": [
-                        -9.205239,
-                        38.708635
-                  ]
-            },
-            {
                   "name": "Lagoa de Casal de Cambra",
                   "text": "Az amadorai Lagoa de Casal de Cambra egy csendes vízfelület, amely természetközeli kikapcsolódásra hívogat.",
                   "category": "natural",
@@ -10116,15 +8892,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tanque",
-                  "text": "Az amadorai Tanque egy egyszerű vízfelület, amely gazdagítja a környező tájat.",
-                  "category": "natural",
-                  "coords": [
-                        -9.18202,
-                        38.709458
-                  ]
-            },
-            {
                   "name": "Cisterna",
                   "text": "Az amadorai Cisterna egy funkcionális víztározó, amely harmonikusan illeszkedik környezetébe.",
                   "category": "natural",
@@ -10149,15 +8916,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -9.26129,
                         38.702382
-                  ]
-            },
-            {
-                  "name": "Lago Principal",
-                  "text": "Az amadorai Lago Principal a terület központi tava, amely szép kilátást nyújt a sétálóknak.",
-                  "category": "natural",
-                  "coords": [
-                        -9.202917,
-                        38.698231
                   ]
             },
             {
@@ -10514,33 +9272,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lago Duque de Lafões",
-                  "text": "Lago Duque de Lafões din Amadora este un luciu de apă liniștit, ideal pentru o plimbare relaxantă pe mal.",
-                  "category": "natural",
-                  "coords": [
-                        -9.169075,
-                        38.70966
-                  ]
-            },
-            {
-                  "name": "Lagoa",
-                  "text": "Lagoa din Amadora oferă un cadru pitoresc pentru vizitatorii care doresc să se bucure de liniștea de lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        -9.188938,
-                        38.716008
-                  ]
-            },
-            {
-                  "name": "Lago parque dos moinhos",
-                  "text": "Lago parque dos moinhos din Amadora este un loc frumos pentru relaxare și pentru observarea păsărilor de apă locale.",
-                  "category": "natural",
-                  "coords": [
-                        -9.205239,
-                        38.708635
-                  ]
-            },
-            {
                   "name": "Lagoa de Casal de Cambra",
                   "text": "Lagoa de Casal de Cambra din Amadora este un luciu de apă liniștit care invită la petrecerea timpului în natură.",
                   "category": "natural",
@@ -10568,15 +9299,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tanque",
-                  "text": "Tanque din Amadora este un luciu de apă simplu care îmbogățește peisajul înconjurător.",
-                  "category": "natural",
-                  "coords": [
-                        -9.18202,
-                        38.709458
-                  ]
-            },
-            {
                   "name": "Cisterna",
                   "text": "Cisterna din Amadora este un rezervor de apă funcțional, integrat armonios în mediul său.",
                   "category": "natural",
@@ -10601,15 +9323,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -9.26129,
                         38.702382
-                  ]
-            },
-            {
-                  "name": "Lago Principal",
-                  "text": "Lago Principal din Amadora este lacul central al zonei și oferă o priveliște frumoasă pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        -9.202917,
-                        38.698231
                   ]
             },
             {
@@ -10966,33 +9679,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lago Duque de Lafões",
-                  "text": "Lago Duque de Lafões in Amadora is a peaceful body of water, ideal for a relaxing stroll along the shore.",
-                  "category": "natural",
-                  "coords": [
-                        -9.169075,
-                        38.70966
-                  ]
-            },
-            {
-                  "name": "Lagoa",
-                  "text": "Lagoa in Amadora provides a scenic backdrop for visitors wishing to enjoy the tranquility by the water.",
-                  "category": "natural",
-                  "coords": [
-                        -9.188938,
-                        38.716008
-                  ]
-            },
-            {
-                  "name": "Lago parque dos moinhos",
-                  "text": "Lago parque dos moinhos in Amadora is a lovely spot for relaxation and observing local waterfowl.",
-                  "category": "natural",
-                  "coords": [
-                        -9.205239,
-                        38.708635
-                  ]
-            },
-            {
                   "name": "Lagoa de Casal de Cambra",
                   "text": "Lagoa de Casal de Cambra in Amadora is a quiet body of water that invites visitors to spend time in nature.",
                   "category": "natural",
@@ -11020,15 +9706,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tanque",
-                  "text": "Tanque in Amadora is a simple body of water that enhances the surrounding landscape.",
-                  "category": "natural",
-                  "coords": [
-                        -9.18202,
-                        38.709458
-                  ]
-            },
-            {
                   "name": "Cisterna",
                   "text": "Cisterna in Amadora is a functional water reservoir harmoniously integrated into its surroundings.",
                   "category": "natural",
@@ -11053,15 +9730,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -9.26129,
                         38.702382
-                  ]
-            },
-            {
-                  "name": "Lago Principal",
-                  "text": "Lago Principal in Amadora is the central lake of the area and offers a lovely view for walkers.",
-                  "category": "natural",
-                  "coords": [
-                        -9.202917,
-                        38.698231
                   ]
             },
             {
@@ -11221,15 +9889,6 @@ export const portugalCitiesV2: POI[] = [
     id: "portugal-seixal-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Praia Fluvial de Alburrica",
-                  "text": "Gelegen in Seixal, fasziniert dieser portugiesische Flussstrand durch seine historischen Windmühlen und den tollen Blick auf die Küste. Die Atmosphäre ist ruhig und lädt dazu ein, die reiche Kultur am Wasser zu genießen. Hier können Besucher gemütliche Spaziergänge unternehmen oder einfach die Aussicht bewundern. Am besten eignet sich ein Besuch am späten Nachmittag, um die entspannte Stimmung aufzunehmen.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.084343,
-                        38.6559
-                  ]
-            },
-            {
                   "name": "Sítio de Alburrica e Mexilhoeiro e seu Património Moageiro, Ambiental e Paisagístico",
                   "text": "Ein geschütztes Naturgebiet in Seixal, das ein Zusammenspiel von Umwelt- und Industrieerbe bietet.",
                   "category": "natural",
@@ -11362,15 +10021,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -9.089905,
                         38.659438
-                  ]
-            },
-            {
-                  "name": "Praia do Clube Naval",
-                  "text": "In unmittelbarer Nähe des Marineclubs von Seixal erstreckt sich dieser lokale portugiesische Strand. Das maritime Flair sorgt für eine lebhafte und zugleich freundliche Stimmung am Wasser. Besucher können hier das Treiben der Boote beobachten oder einen entspannten Tag an der Küste verbringen. Es lohnt sich, etwas Zeit mitzubringen, um die einzigartige maritime Atmosphäre vollständig zu genießen.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.092053,
-                        38.658842
                   ]
             },
             {
@@ -11527,15 +10177,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ETAR da Mutela",
-                  "text": "Die ETAR da Mutela ist ein Gewässer in Seixal, das die lokale Landschaft bereichert.",
-                  "category": "natural",
-                  "coords": [
-                        -9.152314,
-                        38.672799
-                  ]
-            },
-            {
                   "name": "Caldeira de Moinho de Maré",
                   "text": "Ein historisches Gezeitenmühlenbecken in Seixal, Teil des salz- und mühlengeschichtlichen Erbes.",
                   "category": "natural",
@@ -11627,15 +10268,6 @@ export const portugalCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Praia Fluvial de Alburrica",
-                  "text": "A Seixalban található portugál folyóparti strand történelmi szélmalmaival és a partvidékre nyíló remek kilátásával varázsolja el a látogatókat. Hangulata békés, amely szinte hívogat a víz melletti gazdag kultúra felfedezésére. A vendégek itt kényelmes sétákat tehetnek, vagy egyszerűen csak gyönyörködhetnek a tájban. Legjobb késő délután érkezni, amikor a leginkább élvezhető a nyugodt atmoszféra.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.084343,
-                        38.6559
-                  ]
-            },
             {
                   "name": "Sítio de Alburrica e Mexilhoeiro e seu Património Moageiro, Ambiental e Paisagístico",
                   "text": "Természetvédelmi terület Seixalban, amely a környezeti és ipari örökséget ötvözi.",
@@ -11769,15 +10401,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -9.089905,
                         38.659438
-                  ]
-            },
-            {
-                  "name": "Praia do Clube Naval",
-                  "text": "Seixal tengerészeti klubjának közvetlen közelében terül el ez a helyi portugál strand. A tengeri hangulat élénk, ugyanakkor barátságos légkört teremt a vízparton. A látogatók itt megfigyelhetik a csónakok jövés-menését, vagy eltölthetnek egy pihentető napot a parton. Érdemes elegendő időt szánni a különleges tengeri atmoszféra teljes élvezetére.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.092053,
-                        38.658842
                   ]
             },
             {
@@ -11934,15 +10557,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ETAR da Mutela",
-                  "text": "Az ETAR da Mutela egy vízfelület Seixalban, amely gazdagítja a helyi tájat.",
-                  "category": "natural",
-                  "coords": [
-                        -9.152314,
-                        38.672799
-                  ]
-            },
-            {
                   "name": "Caldeira de Moinho de Maré",
                   "text": "Történelmi árapálymalom-medence Seixalban, a só- és malomipari örökség része.",
                   "category": "natural",
@@ -12034,15 +10648,6 @@ export const portugalCitiesV2: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Praia Fluvial de Alburrica",
-                  "text": "Situată în Seixal, această plajă fluvială portugheză captivează prin morile sale de vânt istorice și priveliștea minunată asupra coastei. Atmosfera este liniștită, invitând oaspeții să se bucure de cultura bogată de pe malul apei. Vizitatorii pot face plimbări plăcute sau pur și simplu pot admira peisajul. Cel mai bine este să ajungeți după-amiaza târziu pentru a savura starea de relaxare.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.084343,
-                        38.6559
-                  ]
-            },
             {
                   "name": "Sítio de Alburrica e Mexilhoeiro e seu Património Moageiro, Ambiental e Paisagístico",
                   "text": "O arie naturală protejată din Seixal, care îmbină patrimoniul ecologic și cel industrial.",
@@ -12176,15 +10781,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -9.089905,
                         38.659438
-                  ]
-            },
-            {
-                  "name": "Praia do Clube Naval",
-                  "text": "În imediata apropiere a clubului naval din Seixal se întinde această plajă portugheză locală. Aerul maritim creează o atmosferă plină de viață și, în același timp, prietenoasă la malul apei. Vizitatorii pot urmări forfota bărcilor sau pot petrece o zi relaxantă pe coastă. Merită să vă alocați timp suficient pentru a savura pe deplin ambianța maritimă unică.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.092053,
-                        38.658842
                   ]
             },
             {
@@ -12341,15 +10937,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "ETAR da Mutela",
-                  "text": "ETAR da Mutela este o zonă cu apă în Seixal, care îmbogățește peisajul local.",
-                  "category": "natural",
-                  "coords": [
-                        -9.152314,
-                        38.672799
-                  ]
-            },
-            {
                   "name": "Caldeira de Moinho de Maré",
                   "text": "Un bazin de moară tidală istorică în Seixal, parte a patrimoniului sării și morilor.",
                   "category": "natural",
@@ -12441,15 +11028,6 @@ export const portugalCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Praia Fluvial de Alburrica",
-                  "text": "Located in Seixal, this Portuguese river beach captivates with its historical windmills and a great view of the coast. The atmosphere is peaceful, inviting guests to enjoy the rich waterfront culture. Visitors can take pleasant walks or simply admire the scenery. Arriving in the late afternoon is best to truly absorb the relaxed mood.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.084343,
-                        38.6559
-                  ]
-            },
             {
                   "name": "Sítio de Alburrica e Mexilhoeiro e seu Património Moageiro, Ambiental e Paisagístico",
                   "text": "A protected natural area in Seixal featuring a mix of environmental and industrial heritage.",
@@ -12583,15 +11161,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -9.089905,
                         38.659438
-                  ]
-            },
-            {
-                  "name": "Praia do Clube Naval",
-                  "text": "This local Portuguese beach stretches out in the immediate vicinity of the Seixal naval club. The maritime flair provides a lively yet friendly mood by the water. Visitors can watch the boats going about their business or spend a relaxing day on the coast. It is well worth bringing plenty of time to fully enjoy the unique maritime atmosphere.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.092053,
-                        38.658842
                   ]
             },
             {
@@ -12745,15 +11314,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -9.086892,
                         38.637465
-                  ]
-            },
-            {
-                  "name": "ETAR da Mutela",
-                  "text": "ETAR da Mutela is a water body in Seixal that enhances the local scenery.",
-                  "category": "natural",
-                  "coords": [
-                        -9.152314,
-                        38.672799
                   ]
             },
             {
@@ -15397,15 +13957,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de Memória",
-                  "text": "Ein Kulturzentrum und Museum, das dem Erbe von Póvoa de Varzim gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        -8.741815,
-                        41.357225
-                  ]
-            },
-            {
                   "name": "Farol de Regufe",
                   "text": "Ein historischer eiserner Leuchtturm und Wahrzeichen in Póvoa de Varzim.",
                   "category": "landmark",
@@ -15424,30 +13975,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Farol do Aguilhão",
-                  "text": "Ein lokaler Leuchtturm, der Schiffen den Weg entlang der Küste von Póvoa de Varzim weist.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.760587,
-                        41.361261
-                  ]
-            },
-            {
                   "name": "Cine-Teatro Garrett",
                   "text": "Ein bedeutendes Theater und Veranstaltungsort im Zentrum von Póvoa de Varzim.",
                   "category": "cultural",
                   "coords": [
                         -8.765476,
                         41.379905
-                  ]
-            },
-            {
-                  "name": "Praia das Caxinas",
-                  "text": "Tief verwurzelt im Fischerviertel von Póvoa de Varzim, versprüht dieser portugiesische Strandabschnitt einen ganz besonderen Charme. Die Atmosphäre ist von der lokalen Kultur geprägt und bietet ein authentisches Bild des Küstenlebens. Strandgänger können sich auf den weichen Sand und die stete Brise des Atlantiks freuen. Ein Spaziergang in den Morgenstunden lässt die traditionelle Stimmung am besten spüren.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.755421,
-                        41.3565
                   ]
             },
             {
@@ -15649,15 +14182,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Forcada das Caxinas",
-                  "text": "Ein Wahrzeichen oder Sehenswürdigkeit im Stadtteil Caxinas von Póvoa de Varzim.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.764812,
-                        41.361307
-                  ]
-            },
-            {
                   "name": "Molhe Norte da Barra de Póvoa de Varzim",
                   "text": "Die nördliche Mole an der Hafeneinfahrt von Póvoa de Varzim.",
                   "category": "landmark",
@@ -15700,15 +14224,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.761365,
                         41.373835
-                  ]
-            },
-            {
-                  "name": "Igreja de Nossa Senhora da Lapa",
-                  "text": "Ein religiöses Wahrzeichen in Póvoa de Varzim, das Unserer Lieben Frau von Lapa gewidmet ist.",
-                  "category": "religious",
-                  "coords": [
-                        -8.737587,
-                        41.359903
                   ]
             },
             {
@@ -15759,15 +14274,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de Memória",
-                  "text": "Póvoa de Varzim örökségének szentelt kulturális központ és múzeum.",
-                  "category": "museum",
-                  "coords": [
-                        -8.741815,
-                        41.357225
-                  ]
-            },
-            {
                   "name": "Farol de Regufe",
                   "text": "Történelmi vasból készült világítótorony és jelkép Póvoa de Varzimban.",
                   "category": "landmark",
@@ -15786,30 +14292,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Farol do Aguilhão",
-                  "text": "Helyi világítótorony a Póvoa de Varzim partjainál közlekedő hajók számára.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.760587,
-                        41.361261
-                  ]
-            },
-            {
                   "name": "Cine-Teatro Garrett",
                   "text": "Póvoa de Varzim központjában található jelentős színház és kulturális helyszín.",
                   "category": "cultural",
                   "coords": [
                         -8.765476,
                         41.379905
-                  ]
-            },
-            {
-                  "name": "Praia das Caxinas",
-                  "text": "Póvoa de Varzim halásznegyedében mélyen gyökerező portugál partszakasz egészen különleges bájjal bír. A légkört a helyi kultúra formálja, amely a tengerparti élet autentikus képét nyújtja. A strandolók örömmel élvezhetik a puha homokot és az Atlanti-óceán állandó szellőjét. Egy reggeli séta alkalmával érezhető a leginkább a hagyományos hangulat.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.755421,
-                        41.3565
                   ]
             },
             {
@@ -16011,15 +14499,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Forcada das Caxinas",
-                  "text": "Jellegzetes pont vagy látnivaló Póvoa de Varzim Caxinas negyedében.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.764812,
-                        41.361307
-                  ]
-            },
-            {
                   "name": "Molhe Norte da Barra de Póvoa de Varzim",
                   "text": "A Póvoa de Varzim kikötőbejáratának északi mólója.",
                   "category": "landmark",
@@ -16062,15 +14541,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.761365,
                         41.373835
-                  ]
-            },
-            {
-                  "name": "Igreja de Nossa Senhora da Lapa",
-                  "text": "Póvoa de Varzim egyik vallási jelképe, amelyet a Lapai Miasszonyunknak szenteltek.",
-                  "category": "religious",
-                  "coords": [
-                        -8.737587,
-                        41.359903
                   ]
             },
             {
@@ -16121,15 +14591,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de Memória",
-                  "text": "Un centru cultural și muzeu dedicat patrimoniului orașului Póvoa de Varzim.",
-                  "category": "museum",
-                  "coords": [
-                        -8.741815,
-                        41.357225
-                  ]
-            },
-            {
                   "name": "Farol de Regufe",
                   "text": "Un far istoric din fier și un punct de reper în Póvoa de Varzim.",
                   "category": "landmark",
@@ -16148,30 +14609,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Farol do Aguilhão",
-                  "text": "Un far local care ghidează ambarcațiunile de-a lungul coastei din Póvoa de Varzim.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.760587,
-                        41.361261
-                  ]
-            },
-            {
                   "name": "Cine-Teatro Garrett",
                   "text": "Un teatru proeminent și un loc cultural situat în centrul orașului Póvoa de Varzim.",
                   "category": "cultural",
                   "coords": [
                         -8.765476,
                         41.379905
-                  ]
-            },
-            {
-                  "name": "Praia das Caxinas",
-                  "text": "Profund înrădăcinată în cartierul pescăresc din Póvoa de Varzim, această secțiune de plajă portugheză emană un farmec cu totul special. Atmosfera este modelată de cultura locală și oferă o imagine autentică a vieții de coastă. Iubitorii de plajă se pot bucura de nisipul moale și de briza constantă a Atlanticului. O plimbare la orele dimineții vă permite să simțiți cel mai bine ambianța tradițională.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.755421,
-                        41.3565
                   ]
             },
             {
@@ -16373,15 +14816,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Forcada das Caxinas",
-                  "text": "Un punct de reper sau obiectiv turistic în cartierul Caxinas din Póvoa de Varzim.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.764812,
-                        41.361307
-                  ]
-            },
-            {
                   "name": "Molhe Norte da Barra de Póvoa de Varzim",
                   "text": "Digul de nord de la intrarea în portul din Póvoa de Varzim.",
                   "category": "landmark",
@@ -16424,15 +14858,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.761365,
                         41.373835
-                  ]
-            },
-            {
-                  "name": "Igreja de Nossa Senhora da Lapa",
-                  "text": "Un punct de reper religios în Póvoa de Varzim dedicat Maicii Domnului din Lapa.",
-                  "category": "religious",
-                  "coords": [
-                        -8.737587,
-                        41.359903
                   ]
             },
             {
@@ -16483,15 +14908,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de Memória",
-                  "text": "A cultural center and museum dedicated to the heritage of Póvoa de Varzim.",
-                  "category": "museum",
-                  "coords": [
-                        -8.741815,
-                        41.357225
-                  ]
-            },
-            {
                   "name": "Farol de Regufe",
                   "text": "A historic iron lighthouse and landmark in Póvoa de Varzim.",
                   "category": "landmark",
@@ -16510,30 +14926,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Farol do Aguilhão",
-                  "text": "A local lighthouse guiding vessels along the coast of Póvoa de Varzim.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.760587,
-                        41.361261
-                  ]
-            },
-            {
                   "name": "Cine-Teatro Garrett",
                   "text": "A prominent theater and cultural venue in the center of Póvoa de Varzim.",
                   "category": "cultural",
                   "coords": [
                         -8.765476,
                         41.379905
-                  ]
-            },
-            {
-                  "name": "Praia das Caxinas",
-                  "text": "Deeply rooted in the fishing district of Póvoa de Varzim, this Portuguese stretch of beach exudes a very special charm. The atmosphere is shaped by local culture and offers an authentic picture of coastal life. Beachgoers can look forward to the soft sand and the constant breeze of the Atlantic. A walk in the morning hours lets you feel the traditional mood best.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.755421,
-                        41.3565
                   ]
             },
             {
@@ -16735,15 +15133,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Forcada das Caxinas",
-                  "text": "A landmark or point of interest in the Caxinas district of Póvoa de Varzim.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.764812,
-                        41.361307
-                  ]
-            },
-            {
                   "name": "Molhe Norte da Barra de Póvoa de Varzim",
                   "text": "The northern breakwater of the harbor entrance in Póvoa de Varzim.",
                   "category": "landmark",
@@ -16786,15 +15175,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.761365,
                         41.373835
-                  ]
-            },
-            {
-                  "name": "Igreja de Nossa Senhora da Lapa",
-                  "text": "A religious landmark in Póvoa de Varzim dedicated to Our Lady of Lapa.",
-                  "category": "religious",
-                  "coords": [
-                        -8.737587,
-                        41.359903
                   ]
             },
             {
@@ -16909,15 +15289,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Farol de Regufe",
-                  "text": "Ein markanter eiserner Leuchtturmturm in Vila do Conde.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.75472,
-                        41.374404
-                  ]
-            },
-            {
                   "name": "Farol Barra Rio Ave",
                   "text": "Ein Leuchtturm, der den Eingang zum Fluss Ave in Vila do Conde markiert.",
                   "category": "landmark",
@@ -16999,30 +15370,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia do Peixe",
-                  "text": "Die Praia do Peixe in Vila do Conde umarmt das Erbe ihrer Fischertradition und besticht durch eine unprätentiöse, authentische Ausstrahlung. Dieser lokale Uferabschnitt bietet einen intimen Einblick in die maritime Kultur, die diese Region geprägt hat. Die Zeit hier verbringt man am besten mit ruhigen Spaziergängen am Wasser und dem Genießen des bodenständigen Küstenlebens. Der Strand ist ein wunderbarer Ort, um einen Gang zurückzuschalten und die frische Meeresbrise auf sich wirken zu lassen.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.762597,
-                        41.374706
-                  ]
-            },
-            {
                   "name": "Memorial aos Ex-Combatentes do Ultramar",
                   "text": "Ein Denkmal in Vila do Conde zu Ehren der Veteranen überseeischer Militärkampagnen.",
                   "category": "historical",
                   "coords": [
                         -8.745005,
                         41.347443
-                  ]
-            },
-            {
-                  "name": "Aqueduto de Vila do Conde",
-                  "text": "Ein historisches Aquädukt mit Dutzenden von Bögen, das einst Wasser in die Stadt leitete.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.736557,
-                        41.374224
                   ]
             },
             {
@@ -17035,30 +15388,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Miúdos e Graúdos",
-                  "text": "Ein Kultur- und Kunstzentrum in Vila do Conde für Kinder und Erwachsene.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.755779,
-                        41.375447
-                  ]
-            },
-            {
                   "name": "Miradouro",
                   "text": "Ein Aussichtspunkt in Vila do Conde mit Blick über die Mündung des Flusses Ave.",
                   "category": "natural",
                   "coords": [
                         -8.755222,
                         41.351357
-                  ]
-            },
-            {
-                  "name": "Street Art \"Pescadores das Caxinas\"",
-                  "text": "Ein Wandbild mit Fischern von Caxinas in Vila do Conde, ein großflächiges Street-Art-Werk.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.759353,
-                        41.364506
                   ]
             },
             {
@@ -17089,15 +15424,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Molhe Sul da Barra de Póvoa de Varzim",
-                  "text": "Eine Mole am Hafenbereich zwischen Póvoa de Varzim und Vila do Conde.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.764828,
-                        41.370047
-                  ]
-            },
-            {
                   "name": "Pelourinho de Vila do Conde",
                   "text": "Denkmalgeschützter Pranger aus dem 16. Jahrhundert in Vila do Conde.",
                   "category": "landmark",
@@ -17113,15 +15439,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.749597,
                         41.339873
-                  ]
-            },
-            {
-                  "name": "Igreja da Lapa",
-                  "text": "Eine historische Kirche, die für ihre religiöse Bedeutung bekannt ist.",
-                  "category": "religious",
-                  "coords": [
-                        -8.761365,
-                        41.373835
                   ]
             },
             {
@@ -17307,15 +15624,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Farol de Regufe",
-                  "text": "Jellegzetes vas világítótorony Vila do Condében.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.75472,
-                        41.374404
-                  ]
-            },
-            {
                   "name": "Farol Barra Rio Ave",
                   "text": "Az Ave folyó bejáratát jelző világítótorony Vila do Condében.",
                   "category": "landmark",
@@ -17397,30 +15705,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia do Peixe",
-                  "text": "A halászvárosi gyökereket magába foglaló Praia do Peixe Vila do Conde városában szerény, hagyományos hangulatával tűnik ki. Ez a helyi partszakasz meghitt bepillantást nyújt abba a mindennapi tengeri kultúrába, amely a régiót formálta. Az itt töltött időt leginkább a vízparti csendes séták és a partszakasz életmódjának értékelése jelenti. Kellemes emlékeztető arra, hogy lassítsunk le, és egyszerűen csak élvezzük az autentikus tengerparti szellőt.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.762597,
-                        41.374706
-                  ]
-            },
-            {
                   "name": "Memorial aos Ex-Combatentes do Ultramar",
                   "text": "Emlékmű Vila do Condében a tengerentúli hadjáratok veteránjainak tiszteletére.",
                   "category": "historical",
                   "coords": [
                         -8.745005,
                         41.347443
-                  ]
-            },
-            {
-                  "name": "Aqueduto de Vila do Conde",
-                  "text": "Történelmi vízvezeték több tucat ívvel, amely egykor vizet szállított a városba.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.736557,
-                        41.374224
                   ]
             },
             {
@@ -17433,30 +15723,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Miúdos e Graúdos",
-                  "text": "Kulturális művészeti központ Vila do Condében gyerekeknek és felnőtteknek egyaránt.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.755779,
-                        41.375447
-                  ]
-            },
-            {
                   "name": "Miradouro",
                   "text": "Kilátó Vila do Conde-ban, rálátással az Ave folyó torkolatára.",
                   "category": "natural",
                   "coords": [
                         -8.755222,
                         41.351357
-                  ]
-            },
-            {
-                  "name": "Street Art \"Pescadores das Caxinas\"",
-                  "text": "Falfestmény a caxinasi halászokról Vila do Conde-ban, nagyméretű utcai művészeti alkotás.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.759353,
-                        41.364506
                   ]
             },
             {
@@ -17487,15 +15759,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Molhe Sul da Barra de Póvoa de Varzim",
-                  "text": "Gát a kikötőnél Póvoa de Varzim és Vila do Conde határán.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.764828,
-                        41.370047
-                  ]
-            },
-            {
                   "name": "Pelourinho de Vila do Conde",
                   "text": "16. századi, műemlék pellengér Vila do Conde-ban.",
                   "category": "landmark",
@@ -17511,15 +15774,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.749597,
                         41.339873
-                  ]
-            },
-            {
-                  "name": "Igreja da Lapa",
-                  "text": "Történelmi templom, amely vallási jelentőségéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        -8.761365,
-                        41.373835
                   ]
             },
             {
@@ -17705,15 +15959,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Farol de Regufe",
-                  "text": "Un turn de far din fier distinctiv situat în Vila do Conde.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.75472,
-                        41.374404
-                  ]
-            },
-            {
                   "name": "Farol Barra Rio Ave",
                   "text": "Un far care marchează intrarea în râul Ave în Vila do Conde.",
                   "category": "landmark",
@@ -17795,30 +16040,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia do Peixe",
-                  "text": "Îmbrățișând esența rădăcinilor sale de oraș pescăresc, Praia do Peixe din Vila Do Conde se remarcă prin atmosfera sa tradițională și lipsită de pretenții. Acest țărm local oferă o privire intimă asupra culturii maritime zilnice care a modelat regiunea. Timpul petrecut aici implică plimbări liniștite pe malul apei și aprecierea stilului de viață de coastă durabil. Este un loc perfect pentru a încetini ritmul și a savura pur și simplu briza autentică a oceanului.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.762597,
-                        41.374706
-                  ]
-            },
-            {
                   "name": "Memorial aos Ex-Combatentes do Ultramar",
                   "text": "Un monument din Vila do Conde care onorează veteranii campaniilor militare din străinătate.",
                   "category": "historical",
                   "coords": [
                         -8.745005,
                         41.347443
-                  ]
-            },
-            {
-                  "name": "Aqueduto de Vila do Conde",
-                  "text": "Un apeduct istoric cu zeci de arcade care transporta odinioară apa în oraș.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.736557,
-                        41.374224
                   ]
             },
             {
@@ -17831,30 +16058,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Miúdos e Graúdos",
-                  "text": "Un centru de arte culturale din Vila do Conde adresat atât copiilor, cât și adulților.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.755779,
-                        41.375447
-                  ]
-            },
-            {
                   "name": "Miradouro",
                   "text": "Un punct de belvedere în Vila do Conde, cu vedere asupra estuarului râului Ave.",
                   "category": "natural",
                   "coords": [
                         -8.755222,
                         41.351357
-                  ]
-            },
-            {
-                  "name": "Street Art \"Pescadores das Caxinas\"",
-                  "text": "Un mural cu pescari din Caxinas în Vila do Conde, o lucrare de artă stradală la scară mare.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.759353,
-                        41.364506
                   ]
             },
             {
@@ -17885,15 +16094,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Molhe Sul da Barra de Póvoa de Varzim",
-                  "text": "Un dig situat în zona portuară de lângă Vila do Conde.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.764828,
-                        41.370047
-                  ]
-            },
-            {
                   "name": "Pelourinho de Vila do Conde",
                   "text": "Pilori din secolul al XVI-lea, monument istoric în Vila do Conde.",
                   "category": "landmark",
@@ -17909,15 +16109,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.749597,
                         41.339873
-                  ]
-            },
-            {
-                  "name": "Igreja da Lapa",
-                  "text": "O biserică istorică cunoscută pentru importanța sa religioasă.",
-                  "category": "religious",
-                  "coords": [
-                        -8.761365,
-                        41.373835
                   ]
             },
             {
@@ -18103,15 +16294,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Farol de Regufe",
-                  "text": "A distinctive iron lighthouse tower located in Vila do Conde.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.75472,
-                        41.374404
-                  ]
-            },
-            {
                   "name": "Farol Barra Rio Ave",
                   "text": "A lighthouse marking the entrance to the Ave River in Vila do Conde.",
                   "category": "landmark",
@@ -18193,30 +16375,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Praia do Peixe",
-                  "text": "Embracing the essence of its fishing town roots, Praia do Peixe in Vila Do Conde stands out with its unpretentious, traditional vibe. This local shore provides an intimate look into the daily maritime culture that has shaped the region. Spending time here involves quiet walks by the water and appreciating the enduring coastal way of life. It serves as a gentle reminder to slow down and simply enjoy the authentic coastal breeze.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.762597,
-                        41.374706
-                  ]
-            },
-            {
                   "name": "Memorial aos Ex-Combatentes do Ultramar",
                   "text": "A monument in Vila do Conde honoring veterans of overseas military campaigns.",
                   "category": "historical",
                   "coords": [
                         -8.745005,
                         41.347443
-                  ]
-            },
-            {
-                  "name": "Aqueduto de Vila do Conde",
-                  "text": "A historic aqueduct with dozens of arches that once carried water to the city.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.736557,
-                        41.374224
                   ]
             },
             {
@@ -18229,30 +16393,12 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Miúdos e Graúdos",
-                  "text": "A cultural arts center in Vila do Conde catering to both children and adults.",
-                  "category": "cultural",
-                  "coords": [
-                        -8.755779,
-                        41.375447
-                  ]
-            },
-            {
                   "name": "Miradouro",
                   "text": "A viewpoint in Vila do Conde overlooking the Ave River estuary.",
                   "category": "natural",
                   "coords": [
                         -8.755222,
                         41.351357
-                  ]
-            },
-            {
-                  "name": "Street Art \"Pescadores das Caxinas\"",
-                  "text": "A mural depicting fishermen from Caxinas in Vila do Conde, a large-scale street art piece.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.759353,
-                        41.364506
                   ]
             },
             {
@@ -18283,15 +16429,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Molhe Sul da Barra de Póvoa de Varzim",
-                  "text": "A breakwater structure near the harbor area of Vila do Conde.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.764828,
-                        41.370047
-                  ]
-            },
-            {
                   "name": "Pelourinho de Vila do Conde",
                   "text": "16th-century heritage-listed pillory in Vila do Conde.",
                   "category": "landmark",
@@ -18307,15 +16444,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.749597,
                         41.339873
-                  ]
-            },
-            {
-                  "name": "Igreja da Lapa",
-                  "text": "A historic church known for its religious significance.",
-                  "category": "religious",
-                  "coords": [
-                        -8.761365,
-                        41.373835
                   ]
             },
             {
@@ -22139,66 +20267,12 @@ export const portugalCitiesV2: POI[] = [
     id: "portugal-oia-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Praia do Bico",
-                  "text": "Dieser Flussstrand nahe Oia und Murtosa bietet ein ideales Refugium für Naturfreunde in Portugal. In ruhiger Atmosphäre können Besucher hier entspannte Stunden verbringen, baden oder am Ufer spazieren gehen. Für einen ungestörten Aufenthalt an warmen Tagen lohnt sich eine frühe Anreise.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.65014,
-                        40.729606
-                  ]
-            },
-            {
-                  "name": "Comur - Museu Municipal",
-                  "text": "Ein Museum in Murtosa, das sich der Geschichte der lokalen Konservenindustrie widmet.",
-                  "category": "museum",
-                  "coords": [
-                        -8.647407,
-                        40.750258
-                  ]
-            },
-            {
                   "name": "Baloiço Cais da Cambeia",
                   "text": "Eine beliebte Schaukel am Flussufer in Murtosa, die einen schönen Ausblick auf die Ria de Aveiro bietet.",
                   "category": "landmark",
                   "coords": [
                         -8.627372,
                         40.733371
-                  ]
-            },
-            {
-                  "name": "Ao emigrante murtoseiro cidadão do mundo",
-                  "text": "Ein Denkmal in Murtosa, das den ausgewanderten Bürgern der Gemeinde gewidmet ist.",
-                  "category": "historical",
-                  "coords": [
-                        -8.64679,
-                        40.744665
-                  ]
-            },
-            {
-                  "name": "Câmara Municipal de Murtosa",
-                  "text": "Das Rathaus von Murtosa ist ein bedeutendes Verwaltungsgebäude in Oia.",
-                  "category": "historical",
-                  "coords": [
-                        -8.650623,
-                        40.749916
-                  ]
-            },
-            {
-                  "name": "Minigolfe Murtosa",
-                  "text": "Diese Minigolfanlage in Oia bietet Freizeitspaß für die ganze Familie.",
-                  "category": "family",
-                  "coords": [
-                        -8.644415,
-                        40.746346
-                  ]
-            },
-            {
-                  "name": "Piscinas Municipais da Murtosa",
-                  "text": "Städtische Schwimmbäder in Oia, die moderne Einrichtungen für Schwimmer bieten.",
-                  "category": "family",
-                  "coords": [
-                        -8.645427,
-                        40.746428
                   ]
             },
             {
@@ -22213,66 +20287,12 @@ export const portugalCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Praia do Bico",
-                  "text": "Ez az Oia és Murtosa közelében található folyami strand ideális menedéket nyújt a portugáliai természetkedvelők számára. A látogatók pihentető órákat tölthetnek el fürdőzéssel vagy a parton tett sétákkal. A nyugodt élmény érdekében meleg napokon érdemes korán érkezni.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.65014,
-                        40.729606
-                  ]
-            },
-            {
-                  "name": "Comur - Museu Municipal",
-                  "text": "Múzeum Murtosában, amely a helyi konzervipar történetének szentelt.",
-                  "category": "museum",
-                  "coords": [
-                        -8.647407,
-                        40.750258
-                  ]
-            },
-            {
                   "name": "Baloiço Cais da Cambeia",
                   "text": "Népszerű hinta a folyóparton Murtosában, amely szép kilátást nyújt a Ria de Aveiróra.",
                   "category": "landmark",
                   "coords": [
                         -8.627372,
                         40.733371
-                  ]
-            },
-            {
-                  "name": "Ao emigrante murtoseiro cidadão do mundo",
-                  "text": "Emlékmű Murtosában, amelyet a község kivándorolt polgárainak szenteltek.",
-                  "category": "historical",
-                  "coords": [
-                        -8.64679,
-                        40.744665
-                  ]
-            },
-            {
-                  "name": "Câmara Municipal de Murtosa",
-                  "text": "Murtosa városháza a település jelentős igazgatási épülete Oia városában.",
-                  "category": "historical",
-                  "coords": [
-                        -8.650623,
-                        40.749916
-                  ]
-            },
-            {
-                  "name": "Minigolfe Murtosa",
-                  "text": "Ez az oiai minigolfpálya szabadidős szórakozást kínál az egész családnak.",
-                  "category": "family",
-                  "coords": [
-                        -8.644415,
-                        40.746346
-                  ]
-            },
-            {
-                  "name": "Piscinas Municipais da Murtosa",
-                  "text": "Városi úszómedencék Oia területén, amelyek modern létesítményeket kínálnak az úszóknak.",
-                  "category": "family",
-                  "coords": [
-                        -8.645427,
-                        40.746428
                   ]
             },
             {
@@ -22287,66 +20307,12 @@ export const portugalCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Praia do Bico",
-                  "text": "Această plajă fluvială de lângă Oia și Murtosa oferă un refugiu minunat pentru iubitorii de natură din Portugalia. Vizitatorii pot petrece ore relaxante înotând sau plimbându-se de-a lungul malului. O sosire matinală în zilele călduroase asigură o experiență liniștită și netulburată.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.65014,
-                        40.729606
-                  ]
-            },
-            {
-                  "name": "Comur - Museu Municipal",
-                  "text": "Un muzeu în Murtosa, dedicat istoriei industriei locale de conserve.",
-                  "category": "museum",
-                  "coords": [
-                        -8.647407,
-                        40.750258
-                  ]
-            },
-            {
                   "name": "Baloiço Cais da Cambeia",
                   "text": "Un leagăn popular pe malul râului în Murtosa, oferind o vedere frumoasă asupra Ria de Aveiro.",
                   "category": "landmark",
                   "coords": [
                         -8.627372,
                         40.733371
-                  ]
-            },
-            {
-                  "name": "Ao emigrante murtoseiro cidadão do mundo",
-                  "text": "Un monument în Murtosa, dedicat cetățenilor emigrați ai municipalității.",
-                  "category": "historical",
-                  "coords": [
-                        -8.64679,
-                        40.744665
-                  ]
-            },
-            {
-                  "name": "Câmara Municipal de Murtosa",
-                  "text": "Primăria din Murtosa este o clădire administrativă importantă din Oia.",
-                  "category": "historical",
-                  "coords": [
-                        -8.650623,
-                        40.749916
-                  ]
-            },
-            {
-                  "name": "Minigolfe Murtosa",
-                  "text": "Acest teren de minigolf din Oia oferă distracție pentru întreaga familie.",
-                  "category": "family",
-                  "coords": [
-                        -8.644415,
-                        40.746346
-                  ]
-            },
-            {
-                  "name": "Piscinas Municipais da Murtosa",
-                  "text": "Piscine municipale în Oia, oferind facilități moderne pentru înotători.",
-                  "category": "family",
-                  "coords": [
-                        -8.645427,
-                        40.746428
                   ]
             },
             {
@@ -22361,66 +20327,12 @@ export const portugalCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Praia do Bico",
-                  "text": "This river beach near Oia and Murtosa offers a wonderful retreat for nature lovers in Portugal. Visitors can spend relaxing hours, go swimming, or take a peaceful stroll along the shore. Arriving early on warm days ensures a quiet and undisturbed experience.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.65014,
-                        40.729606
-                  ]
-            },
-            {
-                  "name": "Comur muséum",
-                  "text": "A museum in Murtosa dedicated to the history of the local canning industry.",
-                  "category": "museum",
-                  "coords": [
-                        -8.647407,
-                        40.750258
-                  ]
-            },
-            {
                   "name": "Baloiço Cais da Cambeia",
                   "text": "A popular riverside swing in Murtosa, offering a beautiful view of the Ria de Aveiro.",
                   "category": "landmark",
                   "coords": [
                         -8.627372,
                         40.733371
-                  ]
-            },
-            {
-                  "name": "Ao emigrante murtoseiro cidadão do mundo",
-                  "text": "A monument in Murtosa dedicated to the emigrated citizens of the municipality.",
-                  "category": "historical",
-                  "coords": [
-                        -8.64679,
-                        40.744665
-                  ]
-            },
-            {
-                  "name": "Câmara Municipal de Murtosa",
-                  "text": "The Town Hall of Murtosa is a key administrative building in Oia.",
-                  "category": "historical",
-                  "coords": [
-                        -8.650623,
-                        40.749916
-                  ]
-            },
-            {
-                  "name": "Minigolfe Murtosa",
-                  "text": "This miniature golf course in Oia offers leisure fun for the whole family.",
-                  "category": "family",
-                  "coords": [
-                        -8.644415,
-                        40.746346
-                  ]
-            },
-            {
-                  "name": "Piscinas Municipais da Murtosa",
-                  "text": "Municipal swimming pools in Oia offering modern facilities for swimmers.",
-                  "category": "family",
-                  "coords": [
-                        -8.645427,
-                        40.746428
                   ]
             },
             {
@@ -23255,15 +21167,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Museu Mineiro de São Pedro da Cova",
-                  "text": "Das Bergbaumuseum dokumentiert die Industriegeschichte von São Pedro da Cova.",
-                  "category": "museum",
-                  "coords": [
-                        -8.509721,
-                        41.162684
-                  ]
-            },
-            {
                   "name": "Lugar do Desenho",
                   "text": "Ein Kunstmuseum in Gondomar, das Ausstellungen zeitgenössischer Zeichnungen präsentiert.",
                   "category": "museum",
@@ -23363,15 +21266,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscinas Municipais de São Pedro da Cova",
-                  "text": "Städtische Schwimmbäder in São Pedro da Cova, die der lokalen Bevölkerung dienen.",
-                  "category": "family",
-                  "coords": [
-                        -8.504048,
-                        41.160022
-                  ]
-            },
-            {
                   "name": "Quinta de Vilar d'Allen",
                   "text": "Ein historisches Anwesen in Gondomar, das für seine schönen Gärten bekannt ist.",
                   "category": "landmark",
@@ -23407,15 +21301,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.533148,
                         41.137071
-                  ]
-            },
-            {
-                  "name": "Museu Mineiro de São Pedro da Cova",
-                  "text": "A bányászati múzeum São Pedro da Cova ipari történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -8.509721,
-                        41.162684
                   ]
             },
             {
@@ -23518,15 +21403,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscinas Municipais de São Pedro da Cova",
-                  "text": "Városi úszómedencék São Pedro da Cova területén, a helyi közösség szolgálatában.",
-                  "category": "family",
-                  "coords": [
-                        -8.504048,
-                        41.160022
-                  ]
-            },
-            {
                   "name": "Quinta de Vilar d'Allen",
                   "text": "Gondomar egyik történelmi birtoka, amely szép kertjeiről ismert.",
                   "category": "landmark",
@@ -23562,15 +21438,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.533148,
                         41.137071
-                  ]
-            },
-            {
-                  "name": "Museu Mineiro de São Pedro da Cova",
-                  "text": "Muzeul mineritului documentează istoria industrială din São Pedro da Cova.",
-                  "category": "museum",
-                  "coords": [
-                        -8.509721,
-                        41.162684
                   ]
             },
             {
@@ -23673,15 +21540,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Piscinas Municipais de São Pedro da Cova",
-                  "text": "Piscine municipale în São Pedro da Cova, deservind comunitatea locală.",
-                  "category": "family",
-                  "coords": [
-                        -8.504048,
-                        41.160022
-                  ]
-            },
-            {
                   "name": "Quinta de Vilar d'Allen",
                   "text": "O moșie istorică din Gondomar, cunoscută pentru grădinile sale frumoase.",
                   "category": "landmark",
@@ -23717,15 +21575,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.533148,
                         41.137071
-                  ]
-            },
-            {
-                  "name": "Museu Mineiro de São Pedro da Cova",
-                  "text": "The mining museum documents the industrial history of São Pedro da Cova.",
-                  "category": "museum",
-                  "coords": [
-                        -8.509721,
-                        41.162684
                   ]
             },
             {
@@ -23825,15 +21674,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.540744,
                         41.136823
-                  ]
-            },
-            {
-                  "name": "Piscinas Municipais de São Pedro da Cova",
-                  "text": "Municipal swimming pools in São Pedro da Cova serving the local community.",
-                  "category": "family",
-                  "coords": [
-                        -8.504048,
-                        41.160022
                   ]
             },
             {
@@ -24776,15 +22616,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Presa de Contumil",
-                  "text": "Dieser See in Ermesinde bietet eine malerische Kulisse für einen entspannten Aufenthalt.",
-                  "category": "natural",
-                  "coords": [
-                        -8.578242,
-                        41.169813
-                  ]
-            },
-            {
                   "name": "Parque Infantil da Caverneira",
                   "text": "Ein lokaler Spielplatz in Ermesinde mit verschiedenen Geräten für Kinder.",
                   "category": "family",
@@ -24901,15 +22732,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.552576,
                         41.215002
-                  ]
-            },
-            {
-                  "name": "Presa de Contumil",
-                  "text": "Ez az Ermesinde területén található tó festői környezetet biztosít a kikapcsolódáshoz.",
-                  "category": "natural",
-                  "coords": [
-                        -8.578242,
-                        41.169813
                   ]
             },
             {
@@ -25032,15 +22854,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Presa de Contumil",
-                  "text": "Acest lac din Ermesinde oferă un cadru pitoresc pentru o vizită relaxantă.",
-                  "category": "natural",
-                  "coords": [
-                        -8.578242,
-                        41.169813
-                  ]
-            },
-            {
                   "name": "Parque Infantil da Caverneira",
                   "text": "Un loc de joacă local în Ermesinde, cu diverse echipamente pentru copii.",
                   "category": "family",
@@ -25157,15 +22970,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.552576,
                         41.215002
-                  ]
-            },
-            {
-                  "name": "Presa de Contumil",
-                  "text": "This lake in Ermesinde provides a picturesque setting for a relaxing visit.",
-                  "category": "natural",
-                  "coords": [
-                        -8.578242,
-                        41.169813
                   ]
             },
             {
@@ -25322,7 +23126,772 @@ export const portugalCitiesV2: POI[] = [
     image: "/poi-images/portugal-ermesinde-cities-v2.webp",
   },
   {
-    id: "portugal-valenca-cities-v2", "sights": {"de": [{"name": "Museu Ferroviário de Valença", "text": "Das Eisenbahnmuseum von Valença zeigt historische Exponate zur Geschichte der Bahn in der Region.", "category": "museum", "coords": [-8.639902, 42.02352]}, {"name": "ZEC Gándaras de Budiño", "text": "Dieses Naturschutzgebiet bei Valença schützt ein wertvolles Feuchtgebiet und Ökosystem.", "category": "natural", "coords": [-8.630064, 42.100032]}, {"name": "Teatro municipal", "text": "Das Stadttheater von Valença ist ein wichtiger Ort für kulturelle Veranstaltungen und Aufführungen.", "category": "cultural", "coords": [-8.646803, 42.049572]}, {"name": "Quinta do Amorinho", "text": "Quinta do Amorinho ist eine Freizeitanlage und Ausflugsziel in der Nähe von Valença.", "category": "family", "coords": [-8.637372, 42.015172]}, {"name": "Praia Fluvial de Areeiros", "text": "Am malerischen Ufer des Flusses Minho bei Valença erstreckt sich dieser einladende Flussstrand. Hier lässt es sich hervorragend baden oder bei einem Spaziergang die friedliche portugiesische Natur auf sich wirken lassen. Für ein schönes Picknick im Freien sind die Vormittagsstunden ideal.", "category": "recreational", "coords": [-8.620167, 42.053702]}, {"name": "Feuerwehrmuseum", "text": "Dieses Museum in Valença zeigt die Geschichte und Ausrüstung der örtlichen Feuerwehr.", "category": "museum", "coords": [-8.644203, 42.030305]}, {"name": "Armería de Valença do Minho", "text": "Ein Museum in der Festung von Valença, das historische militärische Ausrüstung und Waffen zeigt.", "category": "museum", "coords": [-8.646226, 42.027701]}, {"name": "Mosteiro de Nosa Señora da Concepción", "text": "Ein historisches Kloster in Valença, das Unserer Lieben Frau von der Empfängnis gewidmet ist.", "category": "religious", "coords": [-8.64386, 42.047254]}, {"name": "Museo Diocesano de Tui", "text": "Dieses Museum bewahrt und zeigt religiöse Kunst und historische Artefakte der Diözese Tui.", "category": "museum", "coords": [-8.644766, 42.046403]}, {"name": "Praia fluvial da Senhora da Cabeça", "text": "Umgeben von herrlicher Natur bietet dieser gut besuchte Strand am Minho wunderbare Freizeitmöglichkeiten in Valença. Ob Schwimmen, Sonnenbaden oder einfach die lokale Atmosphäre spüren, der Ort bietet für jeden etwas. An sommerlichen Wochenenden ist ein rechtzeitiger Besuch ratsam, um den besten Platz zu finden.", "category": "recreational", "coords": [-8.657244, 42.023392]}, {"name": "ZEPA Esteiro do Miño", "text": "Ein geschütztes Vogelschutzgebiet in der Minho-Mündung, das für seine reiche Artenvielfalt bekannt ist.", "category": "natural", "coords": [-8.766156, 41.944552]}, {"name": "Monumento ao cabalo salvaxe", "text": "Ein Denkmal in Valença, das die Anwesenheit von Wildpferden in den regionalen Bergen feiert.", "category": "historical", "coords": [-8.643207, 42.04937]}, {"name": "Ritmo da Primavera", "text": "Ein zeitgenössisches Denkmal in Valença, das den Geist der Jahreszeit widerspiegelt.", "category": "historical", "coords": [-8.644499, 42.034274]}, {"name": "Barco Turístico Tui-Río Miño", "text": "Ein malerischer Bootsausflug auf dem Fluss Minho mit Blick auf Valença und die spanische Stadt Tui.", "category": "landmark", "coords": [-8.644063, 42.041384]}, {"name": "casa da vara", "text": "Eine lokale Sehenswürdigkeit in Valença, die die regionale Geschichte oder den Baustil hervorhebt.", "category": "landmark", "coords": [-8.642114, 42.047306]}, {"name": "Ponte Internacional Tui-Valença", "text": "Diese ikonische Brücke verbindet Portugal und Spanien über den Fluss Minho.", "category": "landmark", "coords": [-8.646753, 42.036258]}, {"name": "Pelourinho de Valença", "text": "Ein historischer steinerner Pranger in der Festung, der die städtische Autorität der Stadt symbolisiert.", "category": "landmark", "coords": [-8.644863, 42.031551]}, {"name": "Igrexa de San Domingos", "text": "Eine historische Kirche im gotischen und barocken Stil, die früher Teil eines Dominikanerklosters war.", "category": "religious", "coords": [-8.640044, 42.048917]}, {"name": "Igrexa de San Bartolomeu de Rebordáns", "text": "Eine lokale Pfarrkirche in Valença, die dem heiligen Bartholomäus gewidmet ist.", "category": "religious", "coords": [-8.639039, 42.053311]}, {"name": "Igreja do Salvador de Ganfei", "text": "Diese historische romanische Kirche war ursprünglich Teil eines der ältesten Klöster der Region.", "category": "religious", "coords": [-8.622301, 42.039822]}, {"name": "Igreja Paroquial de Santa Maria dos Anjos", "text": "Eine Hauptpfarrkirche innerhalb der Festungsmauern von Valença mit romanischen Elementen.", "category": "religious", "coords": [-8.645386, 42.032685]}, {"name": "Ponte Internacional Tui - Valença", "text": "Eine wichtige Verkehrsverbindung, die die Grenze zwischen Portugal und Spanien überspannt.", "category": "landmark", "coords": [-8.653815, 42.033342]}], "hu": [{"name": "Museu Ferroviário de Valença", "text": "A valençai Vasúti Múzeum a régió vasúttörténetével kapcsolatos történelmi tárgyakat mutat be.", "category": "museum", "coords": [-8.639902, 42.02352]}, {"name": "ZEC Gándaras de Budiño", "text": "Ez a Valença közeli természetvédelmi terület egy értékes vizes élőhelyet és ökoszisztémát óv.", "category": "natural", "coords": [-8.630064, 42.100032]}, {"name": "Teatro municipal", "text": "A valençai városi színház a kulturális események és előadások fontos helyszíne.", "category": "cultural", "coords": [-8.646803, 42.049572]}, {"name": "Quinta do Amorinho", "text": "A Quinta do Amorinho egy szabadidős létesítmény és kedvelt kirándulóhely Valença közelében.", "category": "family", "coords": [-8.637372, 42.015172]}, {"name": "Praia Fluvial de Areeiros", "text": "Ez a hívogató folyami strand a Minho folyó festői partján terül el Valença közelében. Kiváló helyszín fürdőzésre vagy egy békés sétára a nyugodt portugál természetben. A délelőtti órák ideálisak egy szabadtéri piknikhez.", "category": "recreational", "coords": [-8.620167, 42.053702]}, {"name": "Museu do Bombeiro", "text": "Ez a valençai múzeum a helyi tűzoltóság történetét és felszereléseit mutatja be.", "category": "museum", "coords": [-8.644203, 42.030305]}, {"name": "Armería de Valença do Minho", "text": "A valençai erődben található múzeum történelmi katonai felszereléseket és fegyvereket mutat be.", "category": "museum", "coords": [-8.646226, 42.027701]}, {"name": "Mosteiro de Nosa Señora da Concepción", "text": "Egy történelmi kolostor Valençában, amelyet a Szeplőtelen Fogantatás Miasszonyunknak szenteltek.", "category": "religious", "coords": [-8.64386, 42.047254]}, {"name": "Museo Diocesano de Tui", "text": "Ez a múzeum a Tui egyházmegye vallási művészeti alkotásait és történelmi emlékeit őrzi és mutatja be.", "category": "museum", "coords": [-8.644766, 42.046403]}, {"name": "Praia fluvial da Senhora da Cabeça", "text": "A gyönyörű természettel körülvett népszerű strand a Minho folyó mentén remek szabadidős lehetőségeket kínál Valença városában. Akár úszni, napozni szeretne, vagy csak élvezni a helyi hangulatot, itt mindenki talál kedvére valót. A nyári hétvégéken érdemes korán érkezni a legjobb helyekért.", "category": "recreational", "coords": [-8.657244, 42.023392]}, {"name": "ZEPA Esteiro do Miño", "text": "Védett madárrezervátum a Minho torkolatánál, amely gazdag élővilágáról ismert.", "category": "natural", "coords": [-8.766156, 41.944552]}, {"name": "Monumento ao cabalo salvaxe", "text": "Valençai emlékmű, amely a környékbeli hegyekben élő vadlovak előtt tiszteleg.", "category": "historical", "coords": [-8.643207, 42.04937]}, {"name": "Ritmo da Primavera", "text": "Egy kortárs emlékmű Valençában, amely az évszak szellemét tükrözi.", "category": "historical", "coords": [-8.644499, 42.034274]}, {"name": "Barco Turístico Tui-Río Miño", "text": "Festői hajókirándulás a Minho-folyón, kilátással Valençára és a spanyolországi Tuira.", "category": "landmark", "coords": [-8.644063, 42.041384]}, {"name": "casa da vara", "text": "Helyi látnivaló Valençában, amely a regionális történelmet vagy építészeti stílust mutatja be.", "category": "landmark", "coords": [-8.642114, 42.047306]}, {"name": "Ponte Internacional Tui-Valença", "text": "Ez az ikonikus híd köti össze Portugáliát és Spanyolországot a Minho-folyó felett.", "category": "landmark", "coords": [-8.646753, 42.036258]}, {"name": "Pelourinho de Valença", "text": "Történelmi kő szégyenfa az erődben, amely a város önkormányzati hatalmát jelképezi.", "category": "landmark", "coords": [-8.644863, 42.031551]}, {"name": "Igrexa de San Domingos", "text": "Történelmi gótikus és barokk stílusú templom, amely korábban egy dominikánus kolostor része volt.", "category": "religious", "coords": [-8.640044, 42.048917]}, {"name": "Igrexa de San Bartolomeu de Rebordáns", "text": "Helyi plébániatemplom Valençában, amelyet Szent Bertalannak szenteltek.", "category": "religious", "coords": [-8.639039, 42.053311]}, {"name": "Igreja do Salvador de Ganfei", "text": "Ez a történelmi román stílusú templom eredetileg a régió egyik legrégebbi kolostorának része volt.", "category": "religious", "coords": [-8.622301, 42.039822]}, {"name": "Igreja Paroquial de Santa Maria dos Anjos", "text": "Valença várfalain belül található főplébániatemplom, amely román stílusú elemeket hordoz.", "category": "religious", "coords": [-8.645386, 42.032685]}, {"name": "Ponte Internacional Tui - Valença", "text": "Fontos közlekedési útvonal, amely a Portugália és Spanyolország közötti határt íveli át.", "category": "landmark", "coords": [-8.653815, 42.033342]}], "ro": [{"name": "Museu Ferroviário de Valença", "text": "Muzeul Feroviar din Valença prezintă exponate istorice legate de istoria căilor ferate din regiune.", "category": "museum", "coords": [-8.639902, 42.02352]}, {"name": "ZEC Gándaras de Budiño", "text": "Această rezervație naturală de lângă Valença protejează o zonă umedă și un ecosistem valoros.", "category": "natural", "coords": [-8.630064, 42.100032]}, {"name": "Teatro municipal", "text": "Teatrul municipal din Valença este un loc important pentru evenimente și spectacole culturale.", "category": "cultural", "coords": [-8.646803, 42.049572]}, {"name": "Quinta do Amorinho", "text": "Quinta do Amorinho este un loc de recreere și o destinație de vizită situată lângă Valença.", "category": "family", "coords": [-8.637372, 42.015172]}, {"name": "Praia Fluvial de Areeiros", "text": "Această plajă fluvială primitoare se întinde de-a lungul malurilor pitorești ale râului Minho, lângă Valença. Aici vă puteți bucura de o baie revigorantă sau de o plimbare liniștită în mijlocul naturii portugheze. Orele dimineții sunt ideale pentru a găsi un loc liniștit pentru un picnic în aer liber.", "category": "recreational", "coords": [-8.620167, 42.053702]}, {"name": "Museu do Bombeiro", "text": "Acest muzeu din Valença prezintă istoria și echipamentul brigăzii locale de pompieri.", "category": "museum", "coords": [-8.644203, 42.030305]}, {"name": "Armería de Valença do Minho", "text": "Un muzeu din fortăreața Valença care expune echipamente militare istorice și armament.", "category": "museum", "coords": [-8.646226, 42.027701]}, {"name": "Mosteiro de Nosa Señora da Concepción", "text": "O mănăstire istorică din Valença dedicată Maicii Domnului a Zămislirii.", "category": "religious", "coords": [-8.64386, 42.047254]}, {"name": "Museo Diocesano de Tui", "text": "Acest muzeu păstrează și expune artă religioasă și artefacte istorice din dieceza de Tui.", "category": "museum", "coords": [-8.644766, 42.046403]}, {"name": "Praia fluvial da Senhora da Cabeça", "text": "Înconjurată de natură frumoasă, această plajă populară de pe râul Minho oferă minunate oportunități de agrement în Valença. Fie că doriți să înotați, să faceți plajă sau pur și simplu să vă bucurați de atmosfera locală, locul are ceva de oferit pentru fiecare. În weekendurile de vară, este recomandat să ajungeți la timp pentru a găsi un loc bun.", "category": "recreational", "coords": [-8.657244, 42.023392]}, {"name": "ZEPA Esteiro do Miño", "text": "O rezervație de păsări protejată în estuarul râului Minho, cunoscută pentru biodiversitatea sa bogată.", "category": "natural", "coords": [-8.766156, 41.944552]}, {"name": "Monumento ao cabalo salvaxe", "text": "Un monument în Valença care celebrează prezența cailor sălbatici în munții din regiune.", "category": "historical", "coords": [-8.643207, 42.04937]}, {"name": "Ritmo da Primavera", "text": "Un monument contemporan situat în Valença, care reflectă spiritul anotimpului.", "category": "historical", "coords": [-8.644499, 42.034274]}, {"name": "Barco Turístico Tui-Río Miño", "text": "O excursie pitorească cu barca pe râul Minho, oferind priveliști spre Valença și orașul spaniol Tui.", "category": "landmark", "coords": [-8.644063, 42.041384]}, {"name": "casa da vara", "text": "O atracție locală din Valença care evidențiază istoria regională sau stilul arhitectural.", "category": "landmark", "coords": [-8.642114, 42.047306]}, {"name": "Ponte Internacional Tui-Valença", "text": "Acest pod iconic leagă Portugalia și Spania peste râul Minho.", "category": "landmark", "coords": [-8.646753, 42.036258]}, {"name": "Pelourinho de Valença", "text": "Un stâlp al infamiei istoric din piatră situat în fortăreață, simbolizând autoritatea municipală a orașului.", "category": "landmark", "coords": [-8.644863, 42.031551]}, {"name": "Igrexa de San Domingos", "text": "O biserică istorică în stil gotic și baroc, care a făcut parte din trecut dintr-o mănăstire dominicană.", "category": "religious", "coords": [-8.640044, 42.048917]}, {"name": "Igrexa de San Bartolomeu de Rebordáns", "text": "O biserică parohială locală din Valença dedicată Sfântului Bartolomeu.", "category": "religious", "coords": [-8.639039, 42.053311]}, {"name": "Igreja do Salvador de Ganfei", "text": "Această biserică romanică istorică a făcut parte inițial din una dintre cele mai vechi mănăstiri din regiune.", "category": "religious", "coords": [-8.622301, 42.039822]}, {"name": "Igreja Paroquial de Santa Maria dos Anjos", "text": "O biserică parohială principală situată în interiorul zidurilor fortificate din Valença, cu elemente romanice.", "category": "religious", "coords": [-8.645386, 42.032685]}, {"name": "Ponte Internacional Tui - Valença", "text": "O legătură vitală de transport care traversează granița dintre Portugalia și Spania.", "category": "landmark", "coords": [-8.653815, 42.033342]}], "en": [{"name": "Museu Ferroviário de Valença", "text": "The Valença Railway Museum showcases historical exhibits related to the region's rail history.", "category": "museum", "coords": [-8.639902, 42.02352]}, {"name": "ZEC Gándaras de Budiño", "text": "This nature reserve near Valença protects a valuable wetland area and ecosystem.", "category": "natural", "coords": [-8.630064, 42.100032]}, {"name": "Teatro municipal", "text": "The Municipal Theatre of Valença is a key venue for cultural events and performances.", "category": "cultural", "coords": [-8.646803, 42.049572]}, {"name": "Quinta do Amorinho", "text": "Quinta do Amorinho is a leisure facility and visitor destination located near Valença.", "category": "family", "coords": [-8.637372, 42.015172]}, {"name": "Praia Fluvial de Areeiros", "text": "This inviting river beach stretches along the picturesque banks of the Minho River near Valença. It is an excellent spot for swimming or taking a peaceful walk to appreciate the serene Portuguese nature. The morning hours are ideal for finding a quiet spot for an outdoor picnic.", "category": "recreational", "coords": [-8.620167, 42.053702]}, {"name": "Museu do Bombeiro", "text": "This museum in Valença showcases the history and equipment of the local fire brigade.", "category": "museum", "coords": [-8.644203, 42.030305]}, {"name": "Armería de Valença do Minho", "text": "A museum in the fortress of Valença displaying historical military equipment and weaponry.", "category": "museum", "coords": [-8.646226, 42.027701]}, {"name": "Mosteiro de Nosa Señora da Concepción", "text": "A historic monastery in Valença dedicated to Our Lady of the Conception.", "category": "religious", "coords": [-8.64386, 42.047254]}, {"name": "Museo Diocesano de Tui", "text": "This museum preserves and displays religious art and historical artifacts from the diocese of Tui.", "category": "museum", "coords": [-8.644766, 42.046403]}, {"name": "Praia fluvial da Senhora da Cabeça", "text": "Surrounded by beautiful nature, this popular beach along the Minho River provides wonderful leisure opportunities in Valença. Whether you prefer swimming, sunbathing, or simply taking in the local atmosphere, the area offers something for everyone. On warm summer weekends, visiting early is advisable to secure the best spot.", "category": "recreational", "coords": [-8.657244, 42.023392]}, {"name": "ZEPA Esteiro do Miño", "text": "A protected bird sanctuary in the Minho estuary known for its rich biodiversity.", "category": "natural", "coords": [-8.766156, 41.944552]}, {"name": "Monumento ao cabalo salvaxe", "text": "A monument in Valença celebrating the presence of wild horses in the regional mountains.", "category": "historical", "coords": [-8.643207, 42.04937]}, {"name": "Ritmo da Primavera", "text": "A contemporary monument located in Valença reflecting the spirit of the season.", "category": "historical", "coords": [-8.644499, 42.034274]}, {"name": "Boat Tour Tui - Minho River", "text": "A scenic boat excursion along the Minho River, offering views of Valença and the Spanish town of Tui.", "category": "landmark", "coords": [-8.644063, 42.041384]}, {"name": "casa da vara", "text": "A local attraction in Valença highlighting regional history or architectural style.", "category": "landmark", "coords": [-8.642114, 42.047306]}, {"name": "Ponte Internacional Tui-Valença", "text": "This iconic bridge connects Portugal and Spain across the Minho River.", "category": "landmark", "coords": [-8.646753, 42.036258]}, {"name": "Pelourinho de Valença", "text": "A historic stone pillory located within the fortress, symbolizing the town's municipal authority.", "category": "landmark", "coords": [-8.644863, 42.031551]}, {"name": "Igrexa de San Domingos", "text": "A historic church in the Gothic and Baroque styles, formerly part of a Dominican convent.", "category": "religious", "coords": [-8.640044, 42.048917]}, {"name": "San Bartolomeu Church", "text": "A local parish church in Valença dedicated to Saint Bartholomew.", "category": "religious", "coords": [-8.639039, 42.053311]}, {"name": "Igreja do Salvador de Ganfei", "text": "This historic Romanesque church was originally part of one of the oldest monasteries in the region.", "category": "religious", "coords": [-8.622301, 42.039822]}, {"name": "Igreja Paroquial de Santa Maria dos Anjos", "text": "A main parish church located within the fortified walls of Valença, featuring Romanesque elements.", "category": "religious", "coords": [-8.645386, 42.032685]}, {"name": "International bridge Tui - Valença", "text": "A vital transport link spanning the border between Portugal and Spain.", "category": "landmark", "coords": [-8.653815, 42.033342]}]},
+    id: "portugal-valenca-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museu Ferroviário de Valença",
+                  "text": "Das Eisenbahnmuseum von Valença zeigt historische Exponate zur Geschichte der Bahn in der Region.",
+                  "category": "museum",
+                  "coords": [
+                        -8.639902,
+                        42.02352
+                  ]
+            },
+            {
+                  "name": "ZEC Gándaras de Budiño",
+                  "text": "Dieses Naturschutzgebiet bei Valença schützt ein wertvolles Feuchtgebiet und Ökosystem.",
+                  "category": "natural",
+                  "coords": [
+                        -8.630064,
+                        42.100032
+                  ]
+            },
+            {
+                  "name": "Teatro municipal",
+                  "text": "Das Stadttheater von Valença ist ein wichtiger Ort für kulturelle Veranstaltungen und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.646803,
+                        42.049572
+                  ]
+            },
+            {
+                  "name": "Quinta do Amorinho",
+                  "text": "Quinta do Amorinho ist eine Freizeitanlage und Ausflugsziel in der Nähe von Valença.",
+                  "category": "family",
+                  "coords": [
+                        -8.637372,
+                        42.015172
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Areeiros",
+                  "text": "Am malerischen Ufer des Flusses Minho bei Valença erstreckt sich dieser einladende Flussstrand. Hier lässt es sich hervorragend baden oder bei einem Spaziergang die friedliche portugiesische Natur auf sich wirken lassen. Für ein schönes Picknick im Freien sind die Vormittagsstunden ideal.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.620167,
+                        42.053702
+                  ]
+            },
+            {
+                  "name": "Feuerwehrmuseum",
+                  "text": "Dieses Museum in Valença zeigt die Geschichte und Ausrüstung der örtlichen Feuerwehr.",
+                  "category": "museum",
+                  "coords": [
+                        -8.644203,
+                        42.030305
+                  ]
+            },
+            {
+                  "name": "Armería de Valença do Minho",
+                  "text": "Ein Museum in der Festung von Valença, das historische militärische Ausrüstung und Waffen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.646226,
+                        42.027701
+                  ]
+            },
+            {
+                  "name": "Mosteiro de Nosa Señora da Concepción",
+                  "text": "Ein historisches Kloster in Valença, das Unserer Lieben Frau von der Empfängnis gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.64386,
+                        42.047254
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano de Tui",
+                  "text": "Dieses Museum bewahrt und zeigt religiöse Kunst und historische Artefakte der Diözese Tui.",
+                  "category": "museum",
+                  "coords": [
+                        -8.644766,
+                        42.046403
+                  ]
+            },
+            {
+                  "name": "Praia fluvial da Senhora da Cabeça",
+                  "text": "Umgeben von herrlicher Natur bietet dieser gut besuchte Strand am Minho wunderbare Freizeitmöglichkeiten in Valença. Ob Schwimmen, Sonnenbaden oder einfach die lokale Atmosphäre spüren, der Ort bietet für jeden etwas. An sommerlichen Wochenenden ist ein rechtzeitiger Besuch ratsam, um den besten Platz zu finden.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.657244,
+                        42.023392
+                  ]
+            },
+            {
+                  "name": "Monumento ao cabalo salvaxe",
+                  "text": "Ein Denkmal in Valença, das die Anwesenheit von Wildpferden in den regionalen Bergen feiert.",
+                  "category": "historical",
+                  "coords": [
+                        -8.643207,
+                        42.04937
+                  ]
+            },
+            {
+                  "name": "Ritmo da Primavera",
+                  "text": "Ein zeitgenössisches Denkmal in Valença, das den Geist der Jahreszeit widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        -8.644499,
+                        42.034274
+                  ]
+            },
+            {
+                  "name": "Barco Turístico Tui-Río Miño",
+                  "text": "Ein malerischer Bootsausflug auf dem Fluss Minho mit Blick auf Valença und die spanische Stadt Tui.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.644063,
+                        42.041384
+                  ]
+            },
+            {
+                  "name": "casa da vara",
+                  "text": "Eine lokale Sehenswürdigkeit in Valença, die die regionale Geschichte oder den Baustil hervorhebt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.642114,
+                        42.047306
+                  ]
+            },
+            {
+                  "name": "Ponte Internacional Tui-Valença",
+                  "text": "Diese ikonische Brücke verbindet Portugal und Spanien über den Fluss Minho.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.646753,
+                        42.036258
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Valença",
+                  "text": "Ein historischer steinerner Pranger in der Festung, der die städtische Autorität der Stadt symbolisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.644863,
+                        42.031551
+                  ]
+            },
+            {
+                  "name": "Igrexa de San Domingos",
+                  "text": "Eine historische Kirche im gotischen und barocken Stil, die früher Teil eines Dominikanerklosters war.",
+                  "category": "religious",
+                  "coords": [
+                        -8.640044,
+                        42.048917
+                  ]
+            },
+            {
+                  "name": "Igrexa de San Bartolomeu de Rebordáns",
+                  "text": "Eine lokale Pfarrkirche in Valença, die dem heiligen Bartholomäus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.639039,
+                        42.053311
+                  ]
+            },
+            {
+                  "name": "Igreja do Salvador de Ganfei",
+                  "text": "Diese historische romanische Kirche war ursprünglich Teil eines der ältesten Klöster der Region.",
+                  "category": "religious",
+                  "coords": [
+                        -8.622301,
+                        42.039822
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Santa Maria dos Anjos",
+                  "text": "Eine Hauptpfarrkirche innerhalb der Festungsmauern von Valença mit romanischen Elementen.",
+                  "category": "religious",
+                  "coords": [
+                        -8.645386,
+                        42.032685
+                  ]
+            },
+            {
+                  "name": "Ponte Internacional Tui - Valença",
+                  "text": "Eine wichtige Verkehrsverbindung, die die Grenze zwischen Portugal und Spanien überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.653815,
+                        42.033342
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Ferroviário de Valença",
+                  "text": "A valençai Vasúti Múzeum a régió vasúttörténetével kapcsolatos történelmi tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.639902,
+                        42.02352
+                  ]
+            },
+            {
+                  "name": "ZEC Gándaras de Budiño",
+                  "text": "Ez a Valença közeli természetvédelmi terület egy értékes vizes élőhelyet és ökoszisztémát óv.",
+                  "category": "natural",
+                  "coords": [
+                        -8.630064,
+                        42.100032
+                  ]
+            },
+            {
+                  "name": "Teatro municipal",
+                  "text": "A valençai városi színház a kulturális események és előadások fontos helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.646803,
+                        42.049572
+                  ]
+            },
+            {
+                  "name": "Quinta do Amorinho",
+                  "text": "A Quinta do Amorinho egy szabadidős létesítmény és kedvelt kirándulóhely Valença közelében.",
+                  "category": "family",
+                  "coords": [
+                        -8.637372,
+                        42.015172
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Areeiros",
+                  "text": "Ez a hívogató folyami strand a Minho folyó festői partján terül el Valença közelében. Kiváló helyszín fürdőzésre vagy egy békés sétára a nyugodt portugál természetben. A délelőtti órák ideálisak egy szabadtéri piknikhez.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.620167,
+                        42.053702
+                  ]
+            },
+            {
+                  "name": "Museu do Bombeiro",
+                  "text": "Ez a valençai múzeum a helyi tűzoltóság történetét és felszereléseit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.644203,
+                        42.030305
+                  ]
+            },
+            {
+                  "name": "Armería de Valença do Minho",
+                  "text": "A valençai erődben található múzeum történelmi katonai felszereléseket és fegyvereket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.646226,
+                        42.027701
+                  ]
+            },
+            {
+                  "name": "Mosteiro de Nosa Señora da Concepción",
+                  "text": "Egy történelmi kolostor Valençában, amelyet a Szeplőtelen Fogantatás Miasszonyunknak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -8.64386,
+                        42.047254
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano de Tui",
+                  "text": "Ez a múzeum a Tui egyházmegye vallási művészeti alkotásait és történelmi emlékeit őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.644766,
+                        42.046403
+                  ]
+            },
+            {
+                  "name": "Praia fluvial da Senhora da Cabeça",
+                  "text": "A gyönyörű természettel körülvett népszerű strand a Minho folyó mentén remek szabadidős lehetőségeket kínál Valença városában. Akár úszni, napozni szeretne, vagy csak élvezni a helyi hangulatot, itt mindenki talál kedvére valót. A nyári hétvégéken érdemes korán érkezni a legjobb helyekért.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.657244,
+                        42.023392
+                  ]
+            },
+            {
+                  "name": "Monumento ao cabalo salvaxe",
+                  "text": "Valençai emlékmű, amely a környékbeli hegyekben élő vadlovak előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -8.643207,
+                        42.04937
+                  ]
+            },
+            {
+                  "name": "Ritmo da Primavera",
+                  "text": "Egy kortárs emlékmű Valençában, amely az évszak szellemét tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        -8.644499,
+                        42.034274
+                  ]
+            },
+            {
+                  "name": "Barco Turístico Tui-Río Miño",
+                  "text": "Festői hajókirándulás a Minho-folyón, kilátással Valençára és a spanyolországi Tuira.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.644063,
+                        42.041384
+                  ]
+            },
+            {
+                  "name": "casa da vara",
+                  "text": "Helyi látnivaló Valençában, amely a regionális történelmet vagy építészeti stílust mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.642114,
+                        42.047306
+                  ]
+            },
+            {
+                  "name": "Ponte Internacional Tui-Valença",
+                  "text": "Ez az ikonikus híd köti össze Portugáliát és Spanyolországot a Minho-folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.646753,
+                        42.036258
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Valença",
+                  "text": "Történelmi kő szégyenfa az erődben, amely a város önkormányzati hatalmát jelképezi.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.644863,
+                        42.031551
+                  ]
+            },
+            {
+                  "name": "Igrexa de San Domingos",
+                  "text": "Történelmi gótikus és barokk stílusú templom, amely korábban egy dominikánus kolostor része volt.",
+                  "category": "religious",
+                  "coords": [
+                        -8.640044,
+                        42.048917
+                  ]
+            },
+            {
+                  "name": "Igrexa de San Bartolomeu de Rebordáns",
+                  "text": "Helyi plébániatemplom Valençában, amelyet Szent Bertalannak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -8.639039,
+                        42.053311
+                  ]
+            },
+            {
+                  "name": "Igreja do Salvador de Ganfei",
+                  "text": "Ez a történelmi román stílusú templom eredetileg a régió egyik legrégebbi kolostorának része volt.",
+                  "category": "religious",
+                  "coords": [
+                        -8.622301,
+                        42.039822
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Santa Maria dos Anjos",
+                  "text": "Valença várfalain belül található főplébániatemplom, amely román stílusú elemeket hordoz.",
+                  "category": "religious",
+                  "coords": [
+                        -8.645386,
+                        42.032685
+                  ]
+            },
+            {
+                  "name": "Ponte Internacional Tui - Valença",
+                  "text": "Fontos közlekedési útvonal, amely a Portugália és Spanyolország közötti határt íveli át.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.653815,
+                        42.033342
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Ferroviário de Valença",
+                  "text": "Muzeul Feroviar din Valença prezintă exponate istorice legate de istoria căilor ferate din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -8.639902,
+                        42.02352
+                  ]
+            },
+            {
+                  "name": "ZEC Gándaras de Budiño",
+                  "text": "Această rezervație naturală de lângă Valença protejează o zonă umedă și un ecosistem valoros.",
+                  "category": "natural",
+                  "coords": [
+                        -8.630064,
+                        42.100032
+                  ]
+            },
+            {
+                  "name": "Teatro municipal",
+                  "text": "Teatrul municipal din Valença este un loc important pentru evenimente și spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.646803,
+                        42.049572
+                  ]
+            },
+            {
+                  "name": "Quinta do Amorinho",
+                  "text": "Quinta do Amorinho este un loc de recreere și o destinație de vizită situată lângă Valença.",
+                  "category": "family",
+                  "coords": [
+                        -8.637372,
+                        42.015172
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Areeiros",
+                  "text": "Această plajă fluvială primitoare se întinde de-a lungul malurilor pitorești ale râului Minho, lângă Valença. Aici vă puteți bucura de o baie revigorantă sau de o plimbare liniștită în mijlocul naturii portugheze. Orele dimineții sunt ideale pentru a găsi un loc liniștit pentru un picnic în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.620167,
+                        42.053702
+                  ]
+            },
+            {
+                  "name": "Museu do Bombeiro",
+                  "text": "Acest muzeu din Valença prezintă istoria și echipamentul brigăzii locale de pompieri.",
+                  "category": "museum",
+                  "coords": [
+                        -8.644203,
+                        42.030305
+                  ]
+            },
+            {
+                  "name": "Armería de Valença do Minho",
+                  "text": "Un muzeu din fortăreața Valença care expune echipamente militare istorice și armament.",
+                  "category": "museum",
+                  "coords": [
+                        -8.646226,
+                        42.027701
+                  ]
+            },
+            {
+                  "name": "Mosteiro de Nosa Señora da Concepción",
+                  "text": "O mănăstire istorică din Valença dedicată Maicii Domnului a Zămislirii.",
+                  "category": "religious",
+                  "coords": [
+                        -8.64386,
+                        42.047254
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano de Tui",
+                  "text": "Acest muzeu păstrează și expune artă religioasă și artefacte istorice din dieceza de Tui.",
+                  "category": "museum",
+                  "coords": [
+                        -8.644766,
+                        42.046403
+                  ]
+            },
+            {
+                  "name": "Praia fluvial da Senhora da Cabeça",
+                  "text": "Înconjurată de natură frumoasă, această plajă populară de pe râul Minho oferă minunate oportunități de agrement în Valença. Fie că doriți să înotați, să faceți plajă sau pur și simplu să vă bucurați de atmosfera locală, locul are ceva de oferit pentru fiecare. În weekendurile de vară, este recomandat să ajungeți la timp pentru a găsi un loc bun.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.657244,
+                        42.023392
+                  ]
+            },
+            {
+                  "name": "Monumento ao cabalo salvaxe",
+                  "text": "Un monument în Valença care celebrează prezența cailor sălbatici în munții din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -8.643207,
+                        42.04937
+                  ]
+            },
+            {
+                  "name": "Ritmo da Primavera",
+                  "text": "Un monument contemporan situat în Valença, care reflectă spiritul anotimpului.",
+                  "category": "historical",
+                  "coords": [
+                        -8.644499,
+                        42.034274
+                  ]
+            },
+            {
+                  "name": "Barco Turístico Tui-Río Miño",
+                  "text": "O excursie pitorească cu barca pe râul Minho, oferind priveliști spre Valença și orașul spaniol Tui.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.644063,
+                        42.041384
+                  ]
+            },
+            {
+                  "name": "casa da vara",
+                  "text": "O atracție locală din Valença care evidențiază istoria regională sau stilul arhitectural.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.642114,
+                        42.047306
+                  ]
+            },
+            {
+                  "name": "Ponte Internacional Tui-Valença",
+                  "text": "Acest pod iconic leagă Portugalia și Spania peste râul Minho.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.646753,
+                        42.036258
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Valença",
+                  "text": "Un stâlp al infamiei istoric din piatră situat în fortăreață, simbolizând autoritatea municipală a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.644863,
+                        42.031551
+                  ]
+            },
+            {
+                  "name": "Igrexa de San Domingos",
+                  "text": "O biserică istorică în stil gotic și baroc, care a făcut parte din trecut dintr-o mănăstire dominicană.",
+                  "category": "religious",
+                  "coords": [
+                        -8.640044,
+                        42.048917
+                  ]
+            },
+            {
+                  "name": "Igrexa de San Bartolomeu de Rebordáns",
+                  "text": "O biserică parohială locală din Valença dedicată Sfântului Bartolomeu.",
+                  "category": "religious",
+                  "coords": [
+                        -8.639039,
+                        42.053311
+                  ]
+            },
+            {
+                  "name": "Igreja do Salvador de Ganfei",
+                  "text": "Această biserică romanică istorică a făcut parte inițial din una dintre cele mai vechi mănăstiri din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        -8.622301,
+                        42.039822
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Santa Maria dos Anjos",
+                  "text": "O biserică parohială principală situată în interiorul zidurilor fortificate din Valença, cu elemente romanice.",
+                  "category": "religious",
+                  "coords": [
+                        -8.645386,
+                        42.032685
+                  ]
+            },
+            {
+                  "name": "Ponte Internacional Tui - Valença",
+                  "text": "O legătură vitală de transport care traversează granița dintre Portugalia și Spania.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.653815,
+                        42.033342
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Ferroviário de Valença",
+                  "text": "The Valença Railway Museum showcases historical exhibits related to the region's rail history.",
+                  "category": "museum",
+                  "coords": [
+                        -8.639902,
+                        42.02352
+                  ]
+            },
+            {
+                  "name": "ZEC Gándaras de Budiño",
+                  "text": "This nature reserve near Valença protects a valuable wetland area and ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        -8.630064,
+                        42.100032
+                  ]
+            },
+            {
+                  "name": "Teatro municipal",
+                  "text": "The Municipal Theatre of Valença is a key venue for cultural events and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.646803,
+                        42.049572
+                  ]
+            },
+            {
+                  "name": "Quinta do Amorinho",
+                  "text": "Quinta do Amorinho is a leisure facility and visitor destination located near Valença.",
+                  "category": "family",
+                  "coords": [
+                        -8.637372,
+                        42.015172
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Areeiros",
+                  "text": "This inviting river beach stretches along the picturesque banks of the Minho River near Valença. It is an excellent spot for swimming or taking a peaceful walk to appreciate the serene Portuguese nature. The morning hours are ideal for finding a quiet spot for an outdoor picnic.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.620167,
+                        42.053702
+                  ]
+            },
+            {
+                  "name": "Museu do Bombeiro",
+                  "text": "This museum in Valença showcases the history and equipment of the local fire brigade.",
+                  "category": "museum",
+                  "coords": [
+                        -8.644203,
+                        42.030305
+                  ]
+            },
+            {
+                  "name": "Armería de Valença do Minho",
+                  "text": "A museum in the fortress of Valença displaying historical military equipment and weaponry.",
+                  "category": "museum",
+                  "coords": [
+                        -8.646226,
+                        42.027701
+                  ]
+            },
+            {
+                  "name": "Mosteiro de Nosa Señora da Concepción",
+                  "text": "A historic monastery in Valença dedicated to Our Lady of the Conception.",
+                  "category": "religious",
+                  "coords": [
+                        -8.64386,
+                        42.047254
+                  ]
+            },
+            {
+                  "name": "Museo Diocesano de Tui",
+                  "text": "This museum preserves and displays religious art and historical artifacts from the diocese of Tui.",
+                  "category": "museum",
+                  "coords": [
+                        -8.644766,
+                        42.046403
+                  ]
+            },
+            {
+                  "name": "Praia fluvial da Senhora da Cabeça",
+                  "text": "Surrounded by beautiful nature, this popular beach along the Minho River provides wonderful leisure opportunities in Valença. Whether you prefer swimming, sunbathing, or simply taking in the local atmosphere, the area offers something for everyone. On warm summer weekends, visiting early is advisable to secure the best spot.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.657244,
+                        42.023392
+                  ]
+            },
+            {
+                  "name": "Monumento ao cabalo salvaxe",
+                  "text": "A monument in Valença celebrating the presence of wild horses in the regional mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -8.643207,
+                        42.04937
+                  ]
+            },
+            {
+                  "name": "Ritmo da Primavera",
+                  "text": "A contemporary monument located in Valença reflecting the spirit of the season.",
+                  "category": "historical",
+                  "coords": [
+                        -8.644499,
+                        42.034274
+                  ]
+            },
+            {
+                  "name": "Boat Tour Tui - Minho River",
+                  "text": "A scenic boat excursion along the Minho River, offering views of Valença and the Spanish town of Tui.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.644063,
+                        42.041384
+                  ]
+            },
+            {
+                  "name": "casa da vara",
+                  "text": "A local attraction in Valença highlighting regional history or architectural style.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.642114,
+                        42.047306
+                  ]
+            },
+            {
+                  "name": "Ponte Internacional Tui-Valença",
+                  "text": "This iconic bridge connects Portugal and Spain across the Minho River.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.646753,
+                        42.036258
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Valença",
+                  "text": "A historic stone pillory located within the fortress, symbolizing the town's municipal authority.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.644863,
+                        42.031551
+                  ]
+            },
+            {
+                  "name": "Igrexa de San Domingos",
+                  "text": "A historic church in the Gothic and Baroque styles, formerly part of a Dominican convent.",
+                  "category": "religious",
+                  "coords": [
+                        -8.640044,
+                        42.048917
+                  ]
+            },
+            {
+                  "name": "San Bartolomeu Church",
+                  "text": "A local parish church in Valença dedicated to Saint Bartholomew.",
+                  "category": "religious",
+                  "coords": [
+                        -8.639039,
+                        42.053311
+                  ]
+            },
+            {
+                  "name": "Igreja do Salvador de Ganfei",
+                  "text": "This historic Romanesque church was originally part of one of the oldest monasteries in the region.",
+                  "category": "religious",
+                  "coords": [
+                        -8.622301,
+                        42.039822
+                  ]
+            },
+            {
+                  "name": "Igreja Paroquial de Santa Maria dos Anjos",
+                  "text": "A main parish church located within the fortified walls of Valença, featuring Romanesque elements.",
+                  "category": "religious",
+                  "coords": [
+                        -8.645386,
+                        42.032685
+                  ]
+            },
+            {
+                  "name": "International bridge Tui - Valença",
+                  "text": "A vital transport link spanning the border between Portugal and Spain.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.653815,
+                        42.033342
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PT",
     name: { de: "Valença", hu: "Valença", ro: "Valença", en: "Valença" },
@@ -26549,15 +25118,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lago do Parque de La-Salette",
-                  "text": "Der Lago do Parque de La-Salette in Sao Joao Da Madeira ist ein zentraler Anziehungspunkt für Spaziergänger in dieser Grünanlage.",
-                  "category": "natural",
-                  "coords": [
-                        -8.465204,
-                        40.843295
-                  ]
-            },
-            {
                   "name": "Represa da Várzea",
                   "text": "Die Represa da Várzea in Sao Joao Da Madeira ist ein funktionales Gewässer in einer natürlichen Umgebung.",
                   "category": "natural",
@@ -26692,15 +25252,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.49037,
                         40.910124
-                  ]
-            },
-            {
-                  "name": "Lago do Parque de La-Salette",
-                  "text": "A Sao Joao Da Madeira-i Lago do Parque de La-Salette központi vonzerő a parkban sétálók számára.",
-                  "category": "natural",
-                  "coords": [
-                        -8.465204,
-                        40.843295
                   ]
             },
             {
@@ -26841,15 +25392,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lago do Parque de La-Salette",
-                  "text": "Lago do Parque de La-Salette din Sao Joao Da Madeira este un punct central de atracție pentru cei care se plimbă în acest parc.",
-                  "category": "natural",
-                  "coords": [
-                        -8.465204,
-                        40.843295
-                  ]
-            },
-            {
                   "name": "Represa da Várzea",
                   "text": "Represa da Várzea din Sao Joao Da Madeira este un luciu de apă funcțional într-un cadru natural.",
                   "category": "natural",
@@ -26984,15 +25526,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.49037,
                         40.910124
-                  ]
-            },
-            {
-                  "name": "Lago do Parque de La-Salette",
-                  "text": "Lago do Parque de La-Salette in Sao Joao Da Madeira is a central attraction for walkers in this green area.",
-                  "category": "natural",
-                  "coords": [
-                        -8.465204,
-                        40.843295
                   ]
             },
             {
@@ -28178,15 +26711,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baloiço Cais da Cambeia",
-                  "text": "Eine malerische Holzschaukel am Ufer mit friedlichem Blick auf die Ria de Aveiro.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.627372,
-                        40.733371
-                  ]
-            },
-            {
                   "name": "Ao emigrante murtoseiro cidadão do mundo",
                   "text": "Ein Denkmal für die Menschen aus Murtosa, die in die ganze Welt ausgewandert sind.",
                   "category": "historical",
@@ -28249,15 +26773,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.647407,
                         40.750258
-                  ]
-            },
-            {
-                  "name": "Baloiço Cais da Cambeia",
-                  "text": "Festői fahinta a vízparton, ahonnan nyugodt kilátás nyílik a Ria de Aveiro lagúnára.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.627372,
-                        40.733371
                   ]
             },
             {
@@ -28326,15 +26841,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Baloiço Cais da Cambeia",
-                  "text": "Un leagăn pitoresc de lemn situat la marginea apei, oferind priveliști liniștite asupra Ria de Aveiro.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.627372,
-                        40.733371
-                  ]
-            },
-            {
                   "name": "Ao emigrante murtoseiro cidadão do mundo",
                   "text": "Un monument dedicat locuitorilor din Murtosa care au emigrat în întreaga lume.",
                   "category": "historical",
@@ -28397,15 +26903,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.647407,
                         40.750258
-                  ]
-            },
-            {
-                  "name": "Baloiço Cais da Cambeia",
-                  "text": "A scenic wooden swing located at the water's edge, offering peaceful views of the Ria de Aveiro.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.627372,
-                        40.733371
                   ]
             },
             {
@@ -28565,15 +27062,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Igreja de São Tiago de Silvalde",
-                  "text": "Diese Kirche im Stadtteil Silvalde von Esmoriz ist dem Heiligen Jakobus gewidmet.",
-                  "category": "religious",
-                  "coords": [
-                        -8.626167,
-                        40.991849
-                  ]
-            },
-            {
                   "name": "Capela de Nossa Senhora da Penha de França",
                   "text": "Die Kapelle Unserer Lieben Frau von Penha de França ist eine traditionelle lokale religiöse Stätte in Esmoriz.",
                   "category": "religious",
@@ -28681,15 +27169,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.625656,
                         40.942765
-                  ]
-            },
-            {
-                  "name": "Igreja de São Tiago de Silvalde",
-                  "text": "Ez az esmorizi Silvalde negyedben található templom Szent Jakab tiszteletére épült.",
-                  "category": "religious",
-                  "coords": [
-                        -8.626167,
-                        40.991849
                   ]
             },
             {
@@ -28803,15 +27282,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Igreja de São Tiago de Silvalde",
-                  "text": "Această biserică din districtul Silvalde din Esmoriz este dedicată Sfântului Iacob.",
-                  "category": "religious",
-                  "coords": [
-                        -8.626167,
-                        40.991849
-                  ]
-            },
-            {
                   "name": "Capela de Nossa Senhora da Penha de França",
                   "text": "Capela Maicii Domnului din Penha de França este un sit religios local tradițional din Esmoriz.",
                   "category": "religious",
@@ -28919,15 +27389,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -8.625656,
                         40.942765
-                  ]
-            },
-            {
-                  "name": "Igreja de São Tiago de Silvalde",
-                  "text": "This church in the Silvalde district of Esmoriz is dedicated to Saint James.",
-                  "category": "religious",
-                  "coords": [
-                        -8.626167,
-                        40.991849
                   ]
             },
             {
@@ -37583,15 +36044,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "LEA Armona",
-                  "text": "Strandresort in Olhão mit Einrichtungen für einen angenehmen Aufenthalt am Meer.",
-                  "category": "family",
-                  "coords": [
-                        -7.795883,
-                        37.018107
-                  ]
-            },
-            {
                   "name": "Ria Formosa Nature Park",
                   "text": "Ein weitläufiges Küstengebiet mit Lagunen und Inseln, das für seine Artenvielfalt bekannt ist.",
                   "category": "natural",
@@ -37807,15 +36259,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.867359,
                         37.023408
-                  ]
-            },
-            {
-                  "name": "LEA Armona",
-                  "text": "Tengerparti üdülőhely Olhão területén, amely létesítményeket kínál a kellemes tengerparti időtöltéshez.",
-                  "category": "family",
-                  "coords": [
-                        -7.795883,
-                        37.018107
                   ]
             },
             {
@@ -38037,15 +36480,6 @@ export const portugalCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "LEA Armona",
-                  "text": "Stațiune de plajă în Olhão, oferind facilități pentru un sejur plăcut la malul mării.",
-                  "category": "family",
-                  "coords": [
-                        -7.795883,
-                        37.018107
-                  ]
-            },
-            {
                   "name": "Ria Formosa Nature Park",
                   "text": "O zonă costieră vastă cu lagune și insule, cunoscută pentru biodiversitatea sa.",
                   "category": "natural",
@@ -38261,15 +36695,6 @@ export const portugalCitiesV2: POI[] = [
                   "coords": [
                         -7.867359,
                         37.023408
-                  ]
-            },
-            {
-                  "name": "LEA Armona",
-                  "text": "Beach resort in Olhão providing facilities for a pleasant seaside stay.",
-                  "category": "family",
-                  "coords": [
-                        -7.795883,
-                        37.018107
                   ]
             },
             {

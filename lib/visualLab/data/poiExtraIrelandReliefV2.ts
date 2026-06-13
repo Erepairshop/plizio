@@ -186,15 +186,6 @@ export const irelandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Carroll's Hill",
-                  "text": "Ein markanter Gipfel in den Slieve Bloom Mountains in Irland.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.665187,
-                        53.069083
-                  ]
-            },
-            {
                   "name": "Wolftrap Mountain",
                   "text": "Ein Gipfel in den Slieve-Bloom-Bergen.",
                   "category": "landmark",
@@ -212,15 +203,6 @@ export const irelandReliefV2: POI[] = [
                   "coords": [
                         -7.638336,
                         53.074085
-                  ]
-            },
-            {
-                  "name": "Carroll's Hill",
-                  "text": "Egy jellegzetes hegycsúcs az írországi Slieve Bloom-hegységben.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.665187,
-                        53.069083
                   ]
             },
             {
@@ -244,15 +226,6 @@ export const irelandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Carroll's Hill",
-                  "text": "Un vârf proeminent din munții Slieve Bloom din Irlanda.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.665187,
-                        53.069083
-                  ]
-            },
-            {
                   "name": "Wolftrap Mountain",
                   "text": "Un vârf din munții Slieve Bloom.",
                   "category": "landmark",
@@ -270,15 +243,6 @@ export const irelandReliefV2: POI[] = [
                   "coords": [
                         -7.638336,
                         53.074085
-                  ]
-            },
-            {
-                  "name": "Carroll's Hill",
-                  "text": "A prominent peak in the Slieve Bloom Mountains of Ireland.",
-                  "category": "landmark",
-                  "coords": [
-                        -7.665187,
-                        53.069083
                   ]
             },
             {
@@ -1383,24 +1347,6 @@ export const irelandReliefV2: POI[] = [
     id: "ireland-slieve-na-mon-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Kilcash Castle",
-                  "text": "Die Ruine einer mittelalterlichen Burg am Fuße des Slievenamon.",
-                  "category": "castle",
-                  "coords": [
-                        -7.521391,
-                        52.397248
-                  ]
-            },
-            {
-                  "name": "Lisbalting",
-                  "text": "Lisbalting, ein Ringfort in der Slieve Na Mon Bergkette mit erhöhter Plattform.",
-                  "category": "historical",
-                  "coords": [
-                        -7.524389,
-                        52.387986
-                  ]
-            },
-            {
                   "name": "St. John's",
                   "text": "Eine Kirche an den Hängen des Slieve Na Mon.",
                   "category": "religious",
@@ -1411,24 +1357,6 @@ export const irelandReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Kilcash Castle",
-                  "text": "Középkori várrom a Slievenamon-hegy lábánál.",
-                  "category": "castle",
-                  "coords": [
-                        -7.521391,
-                        52.397248
-                  ]
-            },
-            {
-                  "name": "Lisbalting",
-                  "text": "Lisbalting, egy gyűrűvár a Slieve Na Mon hegyvonulatban, emelt platformmal.",
-                  "category": "historical",
-                  "coords": [
-                        -7.524389,
-                        52.387986
-                  ]
-            },
             {
                   "name": "St. John's",
                   "text": "Templom a Slieve Na Mon lejtőin.",
@@ -1441,24 +1369,6 @@ export const irelandReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Kilcash Castle",
-                  "text": "Ruinele unui castel medieval situat la poalele muntelui Slievenamon.",
-                  "category": "castle",
-                  "coords": [
-                        -7.521391,
-                        52.397248
-                  ]
-            },
-            {
-                  "name": "Lisbalting",
-                  "text": "Lisbalting, un fort circular în lanțul Slieve Na Mon, cu o platformă ridicată.",
-                  "category": "historical",
-                  "coords": [
-                        -7.524389,
-                        52.387986
-                  ]
-            },
-            {
                   "name": "St. John's",
                   "text": "O biserică pe versantul muntelui Slieve Na Mon.",
                   "category": "religious",
@@ -1469,24 +1379,6 @@ export const irelandReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Kilcash Castle",
-                  "text": "The ruins of a medieval castle located at the foot of Slievenamon mountain.",
-                  "category": "castle",
-                  "coords": [
-                        -7.521391,
-                        52.397248
-                  ]
-            },
-            {
-                  "name": "Lisbalting",
-                  "text": "Lisbalting, a ringfort in the Slieve Na Mon range with a raised platform.",
-                  "category": "historical",
-                  "coords": [
-                        -7.524389,
-                        52.387986
-                  ]
-            },
             {
                   "name": "St. John's",
                   "text": "A church on the slopes of Slieve Na Mon.",
@@ -2488,158 +2380,10 @@ export const irelandReliefV2: POI[] = [
   },
   {
     id: "ireland-slieve-league-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Slieve League",
-                  "text": "Ein beeindruckender Berggipfel und eine der höchsten Meeresklippen Irlands.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.707213,
-                        54.651661
-                  ]
-            },
-            {
-                  "name": "Cnoc Ramhar",
-                  "text": "Ein malerischer Berggipfel in der Region Slieve League.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.683346,
-                        54.640389
-                  ]
-            },
-            {
-                  "name": "Carrigan Head Signal Tower",
-                  "text": "Ruinen eines historischen Signalturms aus der napoleonischen Ära an der Küste.",
-                  "category": "historical",
-                  "coords": [
-                        -8.679566,
-                        54.619994
-                  ]
-            },
-            {
-                  "name": "Tobernamanna",
-                  "text": "Eine lokale Quelle und ein Ort von natürlichem Interesse in Slieve League.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.635921,
-                        54.624513
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Slieve League",
-                  "text": "Lenyűgöző hegycsúcs és Írország egyik legmagasabb tengeri sziklafala.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.707213,
-                        54.651661
-                  ]
-            },
-            {
-                  "name": "Cnoc Ramhar",
-                  "text": "Festői hegycsúcs a Slieve League területén.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.683346,
-                        54.640389
-                  ]
-            },
-            {
-                  "name": "Carrigan Head Signal Tower",
-                  "text": "Egy napóleoni korszakból származó történelmi jelzőtorony romjai a parton.",
-                  "category": "historical",
-                  "coords": [
-                        -8.679566,
-                        54.619994
-                  ]
-            },
-            {
-                  "name": "Tobernamanna",
-                  "text": "Egy helyi forrás és természeti látnivaló a Slieve League-nél.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.635921,
-                        54.624513
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Slieve League",
-                  "text": "Un vârf muntos spectaculos și unele dintre cele mai înalte faleză marine din Irlanda.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.707213,
-                        54.651661
-                  ]
-            },
-            {
-                  "name": "Cnoc Ramhar",
-                  "text": "Un vârf muntos pitoresc situat în zona Slieve League.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.683346,
-                        54.640389
-                  ]
-            },
-            {
-                  "name": "Carrigan Head Signal Tower",
-                  "text": "Ruinele unui turn de semnalizare istoric din epoca napoleoniană de pe coastă.",
-                  "category": "historical",
-                  "coords": [
-                        -8.679566,
-                        54.619994
-                  ]
-            },
-            {
-                  "name": "Tobernamanna",
-                  "text": "Un izvor local și un sit de interes natural în Slieve League.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.635921,
-                        54.624513
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Slieve League",
-                  "text": "Magnificent mountain peak and some of the highest sea cliffs in Ireland.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.707213,
-                        54.651661
-                  ]
-            },
-            {
-                  "name": "Crockrawer",
-                  "text": "A scenic mountain peak located in the Slieve League area.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.683346,
-                        54.640389
-                  ]
-            },
-            {
-                  "name": "Carrigan Head Signal Tower",
-                  "text": "Ruins of a historic Napoleonic-era signal tower on the coast.",
-                  "category": "historical",
-                  "coords": [
-                        -8.679566,
-                        54.619994
-                  ]
-            },
-            {
-                  "name": "Tobernamanna",
-                  "text": "A local spring and site of natural interest in Slieve League.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.635921,
-                        54.624513
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "IE",
@@ -3714,15 +3458,6 @@ export const irelandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lisnagrave",
-                  "text": "Lisnagrave, ein Ringfort in den Slieve Mis Bergen mit Talblick.",
-                  "category": "historical",
-                  "coords": [
-                        -9.785054,
-                        52.177488
-                  ]
-            },
-            {
                   "name": "Baurtregaum",
                   "text": "Ein Berg in der Slieve-Mis-Kette.",
                   "category": "landmark",
@@ -3785,15 +3520,6 @@ export const irelandReliefV2: POI[] = [
                   "coords": [
                         -9.809337,
                         52.167265
-                  ]
-            },
-            {
-                  "name": "Lisnagrave",
-                  "text": "Lisnagrave, egy gyűrűvár a Slieve Mis-hegységben, kilátással a völgyre.",
-                  "category": "historical",
-                  "coords": [
-                        -9.785054,
-                        52.177488
                   ]
             },
             {
@@ -3862,15 +3588,6 @@ export const irelandReliefV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lisnagrave",
-                  "text": "Lisnagrave, un fort circular în Munții Slieve Mis, cu vedere spre vale.",
-                  "category": "historical",
-                  "coords": [
-                        -9.785054,
-                        52.177488
-                  ]
-            },
-            {
                   "name": "Baurtregaum",
                   "text": "Un munte în lanțul Slieve Mis.",
                   "category": "landmark",
@@ -3933,15 +3650,6 @@ export const irelandReliefV2: POI[] = [
                   "coords": [
                         -9.809337,
                         52.167265
-                  ]
-            },
-            {
-                  "name": "Lisnagrave",
-                  "text": "Lisnagrave, a ringfort in the Slieve Mis mountains overlooking the valley.",
-                  "category": "historical",
-                  "coords": [
-                        -9.785054,
-                        52.177488
                   ]
             },
             {
@@ -5899,50 +5607,10 @@ export const irelandReliefV2: POI[] = [
   },
   {
     id: "ireland-ox-mountains-relief-v2", "sights": {
-      "de": [
-            {
-                  "name": "Caltragh",
-                  "text": "Eine historische archäologische Stätte in den malerischen Ox Mountains.",
-                  "category": "historical",
-                  "coords": [
-                        -8.825508,
-                        54.079377
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Caltragh",
-                  "text": "Történelmi régészeti lelőhely a festői Ox-hegység területén.",
-                  "category": "historical",
-                  "coords": [
-                        -8.825508,
-                        54.079377
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Caltragh",
-                  "text": "Un sit arheologic istoric situat în peisajul pitoresc al munților Ox.",
-                  "category": "historical",
-                  "coords": [
-                        -8.825508,
-                        54.079377
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Caltragh",
-                  "text": "A historic archaeological site located within the scenic Ox Mountains.",
-                  "category": "historical",
-                  "coords": [
-                        -8.825508,
-                        54.079377
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "mountain",
     parent: "IE",
@@ -6333,24 +6001,6 @@ export const irelandReliefV2: POI[] = [
     id: "ireland-slieve-league-peak-relief-v2", "sights": {
       "de": [
             {
-                  "name": "Slieve League",
-                  "text": "Beeindruckende Seeklippen in Irland, die zu den höchsten in Europa gehören.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.707213,
-                        54.651661
-                  ]
-            },
-            {
-                  "name": "Cnoc Ramhar",
-                  "text": "Ein Gipfel, der Teil des Slieve-League-Massivs an der Küste von Donegal ist.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.683346,
-                        54.640389
-                  ]
-            },
-            {
                   "name": "Carrigan Head Signal Tower",
                   "text": "Carrigan Head Signal Tower, ein napoleonischer Signalturm auf dem Slieve League Peak mit Atlantikblick.",
                   "category": "historical",
@@ -6370,24 +6020,6 @@ export const irelandReliefV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Slieve League",
-                  "text": "Lenyűgöző tengeri sziklák Írországban, amelyek Európa legmagasabbjai közé tartoznak.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.707213,
-                        54.651661
-                  ]
-            },
-            {
-                  "name": "Cnoc Ramhar",
-                  "text": "A Donegal partjainál fekvő Slieve League-masszívum egyik hegycsúcsa.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.683346,
-                        54.640389
-                  ]
-            },
             {
                   "name": "Carrigan Head Signal Tower",
                   "text": "Carrigan Head Signal Tower, egy napóleoni jelzőtorony a Slieve League-csúcson, az Atlanti-óceánra néző kilátással.",
@@ -6409,24 +6041,6 @@ export const irelandReliefV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Slieve League",
-                  "text": "Faleze spectaculoase în Irlanda, printre cele mai înalte din Europa.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.707213,
-                        54.651661
-                  ]
-            },
-            {
-                  "name": "Cnoc Ramhar",
-                  "text": "Un vârf care face parte din masivul Slieve League de pe coasta Donegal.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.683346,
-                        54.640389
-                  ]
-            },
-            {
                   "name": "Carrigan Head Signal Tower",
                   "text": "Turnul de Semnal Carrigan Head, un turn de semnalizare napoleonian pe Vârful Slieve League, cu vedere la Atlantic.",
                   "category": "historical",
@@ -6446,24 +6060,6 @@ export const irelandReliefV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Slieve League",
-                  "text": "Impressive sea cliffs in Ireland, which are among the highest in Europe.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.707213,
-                        54.651661
-                  ]
-            },
-            {
-                  "name": "Crockrawer",
-                  "text": "A peak that is part of the Slieve League massif on the Donegal coast.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.683346,
-                        54.640389
-                  ]
-            },
             {
                   "name": "Carrigan Head Signal Tower",
                   "text": "Carrigan Head Signal Tower, a Napoleonic-era signal tower on Slieve League Peak overlooking the Atlantic.",
@@ -6547,15 +6143,6 @@ export const irelandReliefV2: POI[] = [
                         -8.155049,
                         52.349322
                   ]
-            },
-            {
-                  "name": "O'Loughman's Castle",
-                  "text": "O'Loughman's Castle, ein Turmhaus auf Mount Galtymore, aus lokalem Stein erbaut.",
-                  "category": "historical",
-                  "coords": [
-                        -8.124025,
-                        52.366894
-                  ]
             }
       ],
       "hu": [
@@ -6575,15 +6162,6 @@ export const irelandReliefV2: POI[] = [
                   "coords": [
                         -8.155049,
                         52.349322
-                  ]
-            },
-            {
-                  "name": "O'Loughman's Castle",
-                  "text": "O'Loughman's Castle, egy toronyház a Mount Galtymore-on, helyi kőből épült.",
-                  "category": "historical",
-                  "coords": [
-                        -8.124025,
-                        52.366894
                   ]
             }
       ],
@@ -6605,15 +6183,6 @@ export const irelandReliefV2: POI[] = [
                         -8.155049,
                         52.349322
                   ]
-            },
-            {
-                  "name": "O'Loughman's Castle",
-                  "text": "Castelul O'Loughman, o casă-turn pe Muntele Galtymore, construită din piatră locală.",
-                  "category": "historical",
-                  "coords": [
-                        -8.124025,
-                        52.366894
-                  ]
             }
       ],
       "en": [
@@ -6633,15 +6202,6 @@ export const irelandReliefV2: POI[] = [
                   "coords": [
                         -8.155049,
                         52.349322
-                  ]
-            },
-            {
-                  "name": "O'Loughman's Castle",
-                  "text": "O'Loughman's Castle, a tower house ruin on Mount Galtymore built of local stone.",
-                  "category": "historical",
-                  "coords": [
-                        -8.124025,
-                        52.366894
                   ]
             }
       ]

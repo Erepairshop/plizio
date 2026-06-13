@@ -2707,15 +2707,6 @@ export const poiExtraOmanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tower Zohair",
-                  "text": "Ein alter Wachturm aus Stein, der früher Teil des Verteidigungssystems von Mirbat war.",
-                  "category": "landmark",
-                  "coords": [
-                        54.692157,
-                        16.975968
-                  ]
-            },
-            {
                   "name": "Mirbat beach",
                   "text": "Ein malerischer Küstenabschnitt mit weißem Sand, an dem oft traditionelle Dhaus im Hafen liegen.",
                   "category": "recreational",
@@ -2787,15 +2778,6 @@ export const poiExtraOmanHistoryV2: POI[] = [
                   "coords": [
                         54.715152,
                         16.996066
-                  ]
-            },
-            {
-                  "name": "Tower Zohair",
-                  "text": "Régi kőből épült őrtorony, amely korábban Mirbat védelmi rendszerének része volt.",
-                  "category": "landmark",
-                  "coords": [
-                        54.692157,
-                        16.975968
                   ]
             },
             {
@@ -2873,15 +2855,6 @@ export const poiExtraOmanHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Tower Zohair",
-                  "text": "Un vechi turn de veghe din piatră, care făcea parte din sistemul defensiv al orașului Mirbat.",
-                  "category": "landmark",
-                  "coords": [
-                        54.692157,
-                        16.975968
-                  ]
-            },
-            {
                   "name": "Mirbat beach",
                   "text": "O porțiune pitorească de coastă cu nisip alb, unde pot fi văzute adesea ambarcațiuni tradiționale dhow în port.",
                   "category": "recreational",
@@ -2953,15 +2926,6 @@ export const poiExtraOmanHistoryV2: POI[] = [
                   "coords": [
                         54.715152,
                         16.996066
-                  ]
-            },
-            {
-                  "name": "Tower Zohair",
-                  "text": "An old stone watchtower that was formerly part of Mirbat's defensive system.",
-                  "category": "landmark",
-                  "coords": [
-                        54.692157,
-                        16.975968
                   ]
             },
             {

@@ -492,15 +492,6 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Put van Ekeren",
-                  "text": "Put van Ekeren, ein Wanderweg durch die Natur bei Antwerpen.",
-                  "category": "natural",
-                  "coords": [
-                        4.396724,
-                        51.283386
-                  ]
-            },
-            {
                   "name": "Antwerp Amusement Center",
                   "text": "Ein Unterhaltungszentrum in Antwerpen mit verschiedenen Spielautomaten.",
                   "category": "family",
@@ -1058,15 +1049,6 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.415088,
                         51.197066
-                  ]
-            },
-            {
-                  "name": "Put van Ekeren",
-                  "text": "Put van Ekeren, egy gyalogút a természetben Antwerpen közelében.",
-                  "category": "natural",
-                  "coords": [
-                        4.396724,
-                        51.283386
                   ]
             },
             {
@@ -1630,15 +1612,6 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Put van Ekeren",
-                  "text": "Put van Ekeren, un traseu de drumeție prin natură lângă Anvers.",
-                  "category": "natural",
-                  "coords": [
-                        4.396724,
-                        51.283386
-                  ]
-            },
-            {
                   "name": "Antwerp Amusement Center",
                   "text": "Un centru de divertisment în Anvers cu diverse aparate de jocuri.",
                   "category": "family",
@@ -2196,15 +2169,6 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         4.415088,
                         51.197066
-                  ]
-            },
-            {
-                  "name": "Put van Ekeren",
-                  "text": "Put van Ekeren, a hiking trail through nature near Antwerp.",
-                  "category": "natural",
-                  "coords": [
-                        4.396724,
-                        51.283386
                   ]
             },
             {
@@ -2805,30 +2769,12 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Damvalleimeer",
-                  "text": "Das Damvalleimeer in Ghent ist ein ruhiges Gewässer, das zum Verweilen in der Natur einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        3.808618,
-                        51.053033
-                  ]
-            },
-            {
                   "name": "Bioreactor",
                   "text": "Der Bioreactor in Ghent bietet eine interessante Kulisse für einen Spaziergang am Wasser.",
                   "category": "natural",
                   "coords": [
                         3.682974,
                         51.055461
-                  ]
-            },
-            {
-                  "name": "Oud Vliegveld",
-                  "text": "Das Oud Vliegveld in Ghent ist ein Seeareal, das Natur und Erholung verbindet.",
-                  "category": "natural",
-                  "coords": [
-                        3.805084,
-                        51.099995
                   ]
             },
             {
@@ -3446,30 +3392,12 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Damvalleimeer",
-                  "text": "A genti Damvalleimeer egy nyugodt tó, amely a természetben való időtöltésre hív.",
-                  "category": "natural",
-                  "coords": [
-                        3.808618,
-                        51.053033
-                  ]
-            },
-            {
                   "name": "Bioreactor",
                   "text": "A genti Bioreactor érdekes környezetet biztosít egy vízparti sétához.",
                   "category": "natural",
                   "coords": [
                         3.682974,
                         51.055461
-                  ]
-            },
-            {
-                  "name": "Oud Vliegveld",
-                  "text": "A genti Oud Vliegveld egy tóterület, amely ötvözi a természetet és a pihenést.",
-                  "category": "natural",
-                  "coords": [
-                        3.805084,
-                        51.099995
                   ]
             },
             {
@@ -4087,30 +4015,12 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Damvalleimeer",
-                  "text": "Damvalleimeer din Ghent este un lac liniștit care invită la relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        3.808618,
-                        51.053033
-                  ]
-            },
-            {
                   "name": "Bioreactor",
                   "text": "Bioreactor din Ghent oferă un cadru interesant pentru o plimbare pe malul apei.",
                   "category": "natural",
                   "coords": [
                         3.682974,
                         51.055461
-                  ]
-            },
-            {
-                  "name": "Oud Vliegveld",
-                  "text": "Oud Vliegveld din Ghent este o zonă cu lacuri care îmbină natura cu recreerea.",
-                  "category": "natural",
-                  "coords": [
-                        3.805084,
-                        51.099995
                   ]
             },
             {
@@ -4728,30 +4638,12 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Damvalleimeer",
-                  "text": "Damvalleimeer in Ghent is a quiet lake that invites visitors to spend time in nature.",
-                  "category": "natural",
-                  "coords": [
-                        3.808618,
-                        51.053033
-                  ]
-            },
-            {
                   "name": "Bioreactor",
                   "text": "The Bioreactor in Ghent offers an interesting backdrop for a walk by the water.",
                   "category": "natural",
                   "coords": [
                         3.682974,
                         51.055461
-                  ]
-            },
-            {
-                  "name": "Oud Vliegveld",
-                  "text": "Oud Vliegveld in Ghent is a lake area that combines nature and recreation.",
-                  "category": "natural",
-                  "coords": [
-                        3.805084,
-                        51.099995
                   ]
             },
             {
@@ -6855,15 +6747,6 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Château des Quatre Tourettes",
-                  "text": "Ein markantes Schloss in Lüttich, das für seine charakteristischen vier Türme bekannt ist.",
-                  "category": "castle",
-                  "coords": [
-                        5.60421,
-                        50.654192
-                  ]
-            },
-            {
                   "name": "Château de Beaumont",
                   "text": "Schloss Beaumont in Lüttich, 1772 erbaut.",
                   "category": "castle",
@@ -7296,39 +7179,12 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mare aux Chevreuils",
-                  "text": "Kleiner Teich in einem Waldgebiet, benannt nach Rehen in Lüttich.",
-                  "category": "natural",
-                  "coords": [
-                        5.565135,
-                        50.57847
-                  ]
-            },
-            {
                   "name": "Étang des Prairies Basses",
                   "text": "Ein Gewässer in der Region Lüttich, das zum Spazierengehen einlädt.",
                   "category": "natural",
                   "coords": [
                         5.594439,
                         50.581782
-                  ]
-            },
-            {
-                  "name": "Bassin d'orage",
-                  "text": "Ein Regenrückhaltebecken in Lüttich, das als kleiner See wahrgenommen wird.",
-                  "category": "natural",
-                  "coords": [
-                        5.589341,
-                        50.673984
-                  ]
-            },
-            {
-                  "name": "Basin d'orage",
-                  "text": "Regenwasserrückhaltebecken, das als natürlicher Lebensraum dient in Lüttich.",
-                  "category": "natural",
-                  "coords": [
-                        5.608827,
-                        50.675111
                   ]
             },
             {
@@ -7421,15 +7277,6 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.577353,
                         50.646978
-                  ]
-            },
-            {
-                  "name": "Château des Quatre Tourettes",
-                  "text": "Jellegzetes kastély Lüttichben, amely karakteres négy tornyáról ismert.",
-                  "category": "castle",
-                  "coords": [
-                        5.60421,
-                        50.654192
                   ]
             },
             {
@@ -7865,39 +7712,12 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mare aux Chevreuils",
-                  "text": "Kis tó erdős területen, őzekről elnevezve Liège-ben.",
-                  "category": "natural",
-                  "coords": [
-                        5.565135,
-                        50.57847
-                  ]
-            },
-            {
                   "name": "Étang des Prairies Basses",
                   "text": "Egy vízfelület Liège régiójában, amely sétákra hívogat.",
                   "category": "natural",
                   "coords": [
                         5.594439,
                         50.581782
-                  ]
-            },
-            {
-                  "name": "Bassin d'orage",
-                  "text": "Egy záportározó Liège-ben, amely kis tóként funkcionál.",
-                  "category": "natural",
-                  "coords": [
-                        5.589341,
-                        50.673984
-                  ]
-            },
-            {
-                  "name": "Basin d'orage",
-                  "text": "Csapadékvíz-visszatartó medence, amely természetes élőhelyként szolgál Liège-ben.",
-                  "category": "natural",
-                  "coords": [
-                        5.608827,
-                        50.675111
                   ]
             },
             {
@@ -7990,15 +7810,6 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.577353,
                         50.646978
-                  ]
-            },
-            {
-                  "name": "Château des Quatre Tourettes",
-                  "text": "Un castel marcant din Liège, cunoscut pentru cele patru turnuri caracteristice ale sale.",
-                  "category": "castle",
-                  "coords": [
-                        5.60421,
-                        50.654192
                   ]
             },
             {
@@ -8434,39 +8245,12 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mare aux Chevreuils",
-                  "text": "Un mic iaz într-o zonă împădurită, numit după căprioare în Liège.",
-                  "category": "natural",
-                  "coords": [
-                        5.565135,
-                        50.57847
-                  ]
-            },
-            {
                   "name": "Étang des Prairies Basses",
                   "text": "Un ochi de apă în regiunea Liège, care invită la plimbări.",
                   "category": "natural",
                   "coords": [
                         5.594439,
                         50.581782
-                  ]
-            },
-            {
-                  "name": "Bassin d'orage",
-                  "text": "Un bazin de retenție în Liège, care poate fi văzut ca un mic lac.",
-                  "category": "natural",
-                  "coords": [
-                        5.589341,
-                        50.673984
-                  ]
-            },
-            {
-                  "name": "Basin d'orage",
-                  "text": "Un bazin de retenție a apelor pluviale care servește ca habitat natural în Liège.",
-                  "category": "natural",
-                  "coords": [
-                        5.608827,
-                        50.675111
                   ]
             },
             {
@@ -8559,15 +8343,6 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.577353,
                         50.646978
-                  ]
-            },
-            {
-                  "name": "Château des Quatre Tourettes",
-                  "text": "A striking castle in Liège known for its characteristic four towers.",
-                  "category": "castle",
-                  "coords": [
-                        5.60421,
-                        50.654192
                   ]
             },
             {
@@ -9003,39 +8778,12 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Mare aux Chevreuils",
-                  "text": "A small pond in a forested area, named after roe deer in Liège.",
-                  "category": "natural",
-                  "coords": [
-                        5.565135,
-                        50.57847
-                  ]
-            },
-            {
                   "name": "Étang des Prairies Basses",
                   "text": "A body of water in the Liege region that invites visitors for a walk.",
                   "category": "natural",
                   "coords": [
                         5.594439,
                         50.581782
-                  ]
-            },
-            {
-                  "name": "Bassin d'orage",
-                  "text": "A retention basin in Liege that serves as a small lake.",
-                  "category": "natural",
-                  "coords": [
-                        5.589341,
-                        50.673984
-                  ]
-            },
-            {
-                  "name": "Basin d'orage",
-                  "text": "A stormwater retention basin that serves as a natural habitat in Liège.",
-                  "category": "natural",
-                  "coords": [
-                        5.608827,
-                        50.675111
                   ]
             },
             {
@@ -20812,42 +20560,6 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bronnenvijver",
-                  "text": "Der Bronnenvijver ist ein natürlicher Quellteich am Stadtrand von Hasselt, ideal zum Spazieren.",
-                  "category": "natural",
-                  "coords": [
-                        5.31091,
-                        50.988537
-                  ]
-            },
-            {
-                  "name": "Zwemvijver",
-                  "text": "Der Zwemvijver in Hasselt ist ein Gewässer, das zur Erfrischung und Erholung genutzt wird.",
-                  "category": "natural",
-                  "coords": [
-                        5.316372,
-                        50.988335
-                  ]
-            },
-            {
-                  "name": "Groot Wijven",
-                  "text": "Groot Wijven ist ein See bei Hasselt, der sich harmonisch in die Landschaft einfügt.",
-                  "category": "natural",
-                  "coords": [
-                        5.313025,
-                        50.98501
-                  ]
-            },
-            {
-                  "name": "Sint-Jansvijver",
-                  "text": "Der Sint-Jansvijver in Hasselt bietet eine natürliche Kulisse für ruhige Momente im Freien.",
-                  "category": "natural",
-                  "coords": [
-                        5.313789,
-                        50.993984
-                  ]
-            },
-            {
                   "name": "Speelplein Kanunnik Melinlaan",
                   "text": "Der Spielplatz in der Kanunnik Melinlaan bietet Kindern in Hasselt Raum für Freizeitspaß.",
                   "category": "family",
@@ -21225,42 +20937,6 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.338263,
                         50.927991
-                  ]
-            },
-            {
-                  "name": "Bronnenvijver",
-                  "text": "A Bronnenvijver egy természetes forrás tó Hasselt külvárosában, ideális sétához.",
-                  "category": "natural",
-                  "coords": [
-                        5.31091,
-                        50.988537
-                  ]
-            },
-            {
-                  "name": "Zwemvijver",
-                  "text": "A hasselti Zwemvijver egy tó, amelyet felfrissülésre és kikapcsolódásra használnak.",
-                  "category": "natural",
-                  "coords": [
-                        5.316372,
-                        50.988335
-                  ]
-            },
-            {
-                  "name": "Groot Wijven",
-                  "text": "A Groot Wijven egy tó Hasselt mellett, amely harmonikusan illeszkedik a tájba.",
-                  "category": "natural",
-                  "coords": [
-                        5.313025,
-                        50.98501
-                  ]
-            },
-            {
-                  "name": "Sint-Jansvijver",
-                  "text": "A hasselti Sint-Jansvijver természetes környezetet biztosít a csendes szabadtéri percekhez.",
-                  "category": "natural",
-                  "coords": [
-                        5.313789,
-                        50.993984
                   ]
             },
             {
@@ -21644,42 +21320,6 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Bronnenvijver",
-                  "text": "Bronnenvijver este un iaz natural cu izvoare la marginea orașului Hasselt, ideal pentru plimbări.",
-                  "category": "natural",
-                  "coords": [
-                        5.31091,
-                        50.988537
-                  ]
-            },
-            {
-                  "name": "Zwemvijver",
-                  "text": "Zwemvijver din Hasselt este un lac utilizat pentru împrospătare și recreere.",
-                  "category": "natural",
-                  "coords": [
-                        5.316372,
-                        50.988335
-                  ]
-            },
-            {
-                  "name": "Groot Wijven",
-                  "text": "Groot Wijven este un lac de lângă Hasselt care se integrează armonios în peisaj.",
-                  "category": "natural",
-                  "coords": [
-                        5.313025,
-                        50.98501
-                  ]
-            },
-            {
-                  "name": "Sint-Jansvijver",
-                  "text": "Sint-Jansvijver din Hasselt oferă un cadru natural pentru momente de liniște în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        5.313789,
-                        50.993984
-                  ]
-            },
-            {
                   "name": "Speelplein Kanunnik Melinlaan",
                   "text": "Locul de joacă din Kanunnik Melinlaan oferă copiilor spațiu pentru distracție în Hasselt.",
                   "category": "family",
@@ -22057,42 +21697,6 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.338263,
                         50.927991
-                  ]
-            },
-            {
-                  "name": "Bronnenvijver",
-                  "text": "Bronnenvijver is a natural spring-fed pond on the outskirts of Hasselt, perfect for walking.",
-                  "category": "natural",
-                  "coords": [
-                        5.31091,
-                        50.988537
-                  ]
-            },
-            {
-                  "name": "Zwemvijver",
-                  "text": "Zwemvijver in Hasselt is a body of water used for refreshment and recreation.",
-                  "category": "natural",
-                  "coords": [
-                        5.316372,
-                        50.988335
-                  ]
-            },
-            {
-                  "name": "Groot Wijven",
-                  "text": "Groot Wijven is a lake near Hasselt that blends harmoniously into the landscape.",
-                  "category": "natural",
-                  "coords": [
-                        5.313025,
-                        50.98501
-                  ]
-            },
-            {
-                  "name": "Sint-Jansvijver",
-                  "text": "Sint-Jansvijver in Hasselt provides a natural backdrop for quiet moments outdoors.",
-                  "category": "natural",
-                  "coords": [
-                        5.313789,
-                        50.993984
                   ]
             },
             {
@@ -27022,30 +26626,12 @@ export const belgiumCitiesV2: POI[] = [
     id: "belgium-seraing-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Étang du Blanc Gravier",
-                  "text": "Ein lokaler See in Seraing, ideal für Spaziergänge und zur Erholung in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        5.586919,
-                        50.584577
-                  ]
-            },
-            {
                   "name": "Mare aux Chevreuils",
                   "text": "Ein lokaler See in Seraing, ideal für Spaziergänge und zur Erholung in der Natur.",
                   "category": "natural",
                   "coords": [
                         5.565135,
                         50.57847
-                  ]
-            },
-            {
-                  "name": "Étang des Prairies Basses",
-                  "text": "Ein lokaler See in Seraing, ideal für Spaziergänge und zur Erholung in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        5.594439,
-                        50.581782
                   ]
             },
             {
@@ -27076,33 +26662,6 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Château Courtejoie",
-                  "text": "Ein markantes historisches Schlossgebäude in der Stadt Seraing.",
-                  "category": "castle",
-                  "coords": [
-                        5.501166,
-                        50.616992
-                  ]
-            },
-            {
-                  "name": "Château Antoine",
-                  "text": "Ein historisches Schloss in Seraing, das für seine Architektur bekannt ist.",
-                  "category": "castle",
-                  "coords": [
-                        5.504433,
-                        50.617412
-                  ]
-            },
-            {
-                  "name": "Château d'Ordange",
-                  "text": "Ein bemerkenswertes Schlossanwesen in der belgischen Stadt Seraing.",
-                  "category": "castle",
-                  "coords": [
-                        5.502939,
-                        50.61788
-                  ]
-            },
-            {
                   "name": "Théâtre de la Renaissance",
                   "text": "Eine kulturelle Einrichtung in Seraing, die Theateraufführungen und Konzerte präsentiert.",
                   "category": "cultural",
@@ -27123,30 +26682,12 @@ export const belgiumCitiesV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Étang du Blanc Gravier",
-                  "text": "Helyi tó Seraing területén, amely kellemes környezetet biztosít a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        5.586919,
-                        50.584577
-                  ]
-            },
-            {
                   "name": "Mare aux Chevreuils",
                   "text": "Helyi tó Seraing területén, amely kellemes környezetet biztosít a sétákhoz.",
                   "category": "natural",
                   "coords": [
                         5.565135,
                         50.57847
-                  ]
-            },
-            {
-                  "name": "Étang des Prairies Basses",
-                  "text": "Helyi tó Seraing területén, amely kellemes környezetet biztosít a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        5.594439,
-                        50.581782
                   ]
             },
             {
@@ -27177,33 +26718,6 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Château Courtejoie",
-                  "text": "Egy jellegzetes történelmi kastélyépület Seraing városában.",
-                  "category": "castle",
-                  "coords": [
-                        5.501166,
-                        50.616992
-                  ]
-            },
-            {
-                  "name": "Château Antoine",
-                  "text": "Egy történelmi kastély Seraingben, amely építészetéről ismert.",
-                  "category": "castle",
-                  "coords": [
-                        5.504433,
-                        50.617412
-                  ]
-            },
-            {
-                  "name": "Château d'Ordange",
-                  "text": "Egy figyelemre méltó kastélybirtok a belga Seraing városában.",
-                  "category": "castle",
-                  "coords": [
-                        5.502939,
-                        50.61788
-                  ]
-            },
-            {
                   "name": "Théâtre de la Renaissance",
                   "text": "Egy kulturális intézmény Seraingben, amely színházi előadásokat és koncerteket mutat be.",
                   "category": "cultural",
@@ -27224,30 +26738,12 @@ export const belgiumCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Étang du Blanc Gravier",
-                  "text": "Un lac local în Seraing, ideal pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        5.586919,
-                        50.584577
-                  ]
-            },
-            {
                   "name": "Mare aux Chevreuils",
                   "text": "Un lac local în Seraing, ideal pentru plimbări și relaxare în natură.",
                   "category": "natural",
                   "coords": [
                         5.565135,
                         50.57847
-                  ]
-            },
-            {
-                  "name": "Étang des Prairies Basses",
-                  "text": "Un lac local în Seraing, ideal pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        5.594439,
-                        50.581782
                   ]
             },
             {
@@ -27278,33 +26774,6 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Château Courtejoie",
-                  "text": "O clădire istorică de castel remarcabilă din orașul Seraing.",
-                  "category": "castle",
-                  "coords": [
-                        5.501166,
-                        50.616992
-                  ]
-            },
-            {
-                  "name": "Château Antoine",
-                  "text": "Un castel istoric din Seraing, cunoscut pentru arhitectura sa.",
-                  "category": "castle",
-                  "coords": [
-                        5.504433,
-                        50.617412
-                  ]
-            },
-            {
-                  "name": "Château d'Ordange",
-                  "text": "O proprietate de castel remarcabilă din orașul belgian Seraing.",
-                  "category": "castle",
-                  "coords": [
-                        5.502939,
-                        50.61788
-                  ]
-            },
-            {
                   "name": "Théâtre de la Renaissance",
                   "text": "O instituție culturală din Seraing care prezintă spectacole de teatru și concerte.",
                   "category": "cultural",
@@ -27325,30 +26794,12 @@ export const belgiumCitiesV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Étang du Blanc Gravier",
-                  "text": "A local lake in Seraing, ideal for walks and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        5.586919,
-                        50.584577
-                  ]
-            },
-            {
                   "name": "Mare aux Chevreuils",
                   "text": "A local lake in Seraing, ideal for walks and enjoying the natural scenery.",
                   "category": "natural",
                   "coords": [
                         5.565135,
                         50.57847
-                  ]
-            },
-            {
-                  "name": "Étang des Prairies Basses",
-                  "text": "A local lake in Seraing, ideal for walks and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        5.594439,
-                        50.581782
                   ]
             },
             {
@@ -27376,33 +26827,6 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.517642,
                         50.589428
-                  ]
-            },
-            {
-                  "name": "Château Courtejoie",
-                  "text": "A notable historic castle building located in the city of Seraing.",
-                  "category": "castle",
-                  "coords": [
-                        5.501166,
-                        50.616992
-                  ]
-            },
-            {
-                  "name": "Château Antoine",
-                  "text": "A historic castle in Seraing known for its architecture.",
-                  "category": "castle",
-                  "coords": [
-                        5.504433,
-                        50.617412
-                  ]
-            },
-            {
-                  "name": "Château d'Ordange",
-                  "text": "A remarkable castle estate located in the Belgian city of Seraing.",
-                  "category": "castle",
-                  "coords": [
-                        5.502939,
-                        50.61788
                   ]
             },
             {
@@ -28552,24 +27976,6 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Église Saint-Thomas",
-                  "text": "Eine lokale Pfarrkirche, die der Gemeinde in Mouscron dient.",
-                  "category": "religious",
-                  "coords": [
-                        3.180063,
-                        50.739249
-                  ]
-            },
-            {
-                  "name": "Église Saint-Joseph",
-                  "text": "Eine Kultstätte und ein religiöses Gebäude in der Stadt Mouscron.",
-                  "category": "religious",
-                  "coords": [
-                        3.179458,
-                        50.730469
-                  ]
-            },
-            {
                   "name": "Église du Bon Pasteur",
                   "text": "Eine moderne katholische Kirche in Mouscron, die für ihre markante Architektur bekannt ist.",
                   "category": "religious",
@@ -28630,15 +28036,6 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         3.289131,
                         50.738391
-                  ]
-            },
-            {
-                  "name": "Étang de la tuilerie",
-                  "text": "Dieser See in Mouscron bietet eine malerische Kulisse für einen ruhigen Spaziergang und zum Genießen der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        3.117026,
-                        50.774973
                   ]
             },
             {
@@ -28743,24 +28140,6 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Église Saint-Thomas",
-                  "text": "Mouscron közösségét szolgáló helyi plébániatemplom.",
-                  "category": "religious",
-                  "coords": [
-                        3.180063,
-                        50.739249
-                  ]
-            },
-            {
-                  "name": "Église Saint-Joseph",
-                  "text": "Vallási épület és istentiszteleti hely Mouscron városában.",
-                  "category": "religious",
-                  "coords": [
-                        3.179458,
-                        50.730469
-                  ]
-            },
-            {
                   "name": "Église du Bon Pasteur",
                   "text": "Mouscron modern katolikus temploma, amely jellegzetes építészetéről ismert.",
                   "category": "religious",
@@ -28821,15 +28200,6 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         3.289131,
                         50.738391
-                  ]
-            },
-            {
-                  "name": "Étang de la tuilerie",
-                  "text": "Ez a mouscroni tó festői hátteret biztosít egy csendes sétához és a természet élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        3.117026,
-                        50.774973
                   ]
             },
             {
@@ -28934,24 +28304,6 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Église Saint-Thomas",
-                  "text": "O biserică parohială locală care deservește comunitatea din Mouscron.",
-                  "category": "religious",
-                  "coords": [
-                        3.180063,
-                        50.739249
-                  ]
-            },
-            {
-                  "name": "Église Saint-Joseph",
-                  "text": "Un lăcaș de cult și o clădire religioasă din orașul Mouscron.",
-                  "category": "religious",
-                  "coords": [
-                        3.179458,
-                        50.730469
-                  ]
-            },
-            {
                   "name": "Église du Bon Pasteur",
                   "text": "O biserică catolică modernă din Mouscron, cunoscută pentru arhitectura sa distinctivă.",
                   "category": "religious",
@@ -29012,15 +28364,6 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         3.289131,
                         50.738391
-                  ]
-            },
-            {
-                  "name": "Étang de la tuilerie",
-                  "text": "Acest lac din Mouscron oferă un cadru pitoresc pentru o plimbare liniștită și pentru a te bucura de natură.",
-                  "category": "natural",
-                  "coords": [
-                        3.117026,
-                        50.774973
                   ]
             },
             {
@@ -29125,24 +28468,6 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Église Saint-Thomas",
-                  "text": "A local parish church serving the community in Mouscron.",
-                  "category": "religious",
-                  "coords": [
-                        3.180063,
-                        50.739249
-                  ]
-            },
-            {
-                  "name": "Église Saint-Joseph",
-                  "text": "A place of worship and religious building in the city of Mouscron.",
-                  "category": "religious",
-                  "coords": [
-                        3.179458,
-                        50.730469
-                  ]
-            },
-            {
                   "name": "Église du Bon Pasteur",
                   "text": "A modern Catholic church in Mouscron known for its distinctive architecture.",
                   "category": "religious",
@@ -29203,15 +28528,6 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         3.289131,
                         50.738391
-                  ]
-            },
-            {
-                  "name": "Étang de la tuilerie",
-                  "text": "This lake in Mouscron offers a scenic backdrop for a quiet walk and enjoying the outdoors.",
-                  "category": "natural",
-                  "coords": [
-                        3.117026,
-                        50.774973
                   ]
             },
             {
@@ -29596,15 +28912,6 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Gileppe Stausee",
-                  "text": "Ein lokaler See in Verviers, ideal für Spaziergänge und zur Erholung in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        5.989448,
-                        50.581705
-                  ]
-            },
-            {
                   "name": "Plaine de Rouheid",
                   "text": "Ein familienfreundlicher Spielplatz in Verviers, der Kindern viel Platz zum Spielen bietet.",
                   "category": "family",
@@ -29955,15 +29262,6 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.857971,
                         50.593199
-                  ]
-            },
-            {
-                  "name": "Lac de la Gileppe",
-                  "text": "Helyi tó Verviers területén, amely kellemes környezetet biztosít a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        5.989448,
-                        50.581705
                   ]
             },
             {
@@ -30320,15 +29618,6 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lac de la Gileppe",
-                  "text": "Un lac local în Verviers, ideal pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        5.989448,
-                        50.581705
-                  ]
-            },
-            {
                   "name": "Plaine de Rouheid",
                   "text": "Un loc de joacă pentru familii în Verviers, care oferă spațiu de joacă pentru copii.",
                   "category": "family",
@@ -30682,15 +29971,6 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lake Gileppe",
-                  "text": "A local lake in Verviers, ideal for walks and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        5.989448,
-                        50.581705
-                  ]
-            },
-            {
                   "name": "Plaine de Rouheid",
                   "text": "A family-friendly playground in Verviers offering plenty of space for children to play.",
                   "category": "family",
@@ -30790,15 +30070,6 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.222704,
                         51.048372
-                  ]
-            },
-            {
-                  "name": "'t Vroenhof",
-                  "text": "Ein historischer Ort in Beringen, der für Besucher und kulturelle Veranstaltungen zugänglich ist.",
-                  "category": "landmark",
-                  "coords": [
-                        5.230582,
-                        51.024171
                   ]
             },
             {
@@ -30948,15 +30219,6 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "'t Vroenhof",
-                  "text": "Történelmi helyszín Beringenben, amely látogatók és kulturális események számára nyitott.",
-                  "category": "landmark",
-                  "coords": [
-                        5.230582,
-                        51.024171
-                  ]
-            },
-            {
                   "name": "Casino Beringen",
                   "text": "Művészeti és kulturális központ Beringenben, az egykori bányászkaszinó épületében.",
                   "category": "cultural",
@@ -31103,15 +30365,6 @@ export const belgiumCitiesV2: POI[] = [
                   ]
             },
             {
-                  "name": "'t Vroenhof",
-                  "text": "O locație istorică în Beringen, accesibilă vizitatorilor și evenimentelor culturale.",
-                  "category": "landmark",
-                  "coords": [
-                        5.230582,
-                        51.024171
-                  ]
-            },
-            {
                   "name": "Casino Beringen",
                   "text": "Un centru de artă și cultură în Beringen, situat în fostul cazinou al minerilor.",
                   "category": "cultural",
@@ -31255,15 +30508,6 @@ export const belgiumCitiesV2: POI[] = [
                   "coords": [
                         5.222704,
                         51.048372
-                  ]
-            },
-            {
-                  "name": "'t Vroenhof",
-                  "text": "A historic site in Beringen accessible to visitors and used for cultural events.",
-                  "category": "landmark",
-                  "coords": [
-                        5.230582,
-                        51.024171
                   ]
             },
             {
@@ -32386,15 +31630,6 @@ export const belgiumCitiesV2: POI[] = [
     id: "belgium-vilvoorde-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Stormbekken anno 1920",
-                  "text": "Ein lokaler See in Vilvoorde, ideal für Spaziergänge und zur Erholung in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        4.405114,
-                        50.883154
-                  ]
-            },
-            {
                   "name": "Kleine Vijver",
                   "text": "Ein lokaler See in Vilvoorde, ideal für Spaziergänge und zur Erholung in der Natur.",
                   "category": "natural",
@@ -32504,15 +31739,6 @@ export const belgiumCitiesV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Stormbekken anno 1920",
-                  "text": "Helyi tó Vilvoorde területén, amely kellemes környezetet biztosít a sétákhoz.",
-                  "category": "natural",
-                  "coords": [
-                        4.405114,
-                        50.883154
-                  ]
-            },
             {
                   "name": "Kleine Vijver",
                   "text": "Helyi tó Vilvoorde területén, amely kellemes környezetet biztosít a sétákhoz.",
@@ -32624,15 +31850,6 @@ export const belgiumCitiesV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Stormbekken anno 1920",
-                  "text": "Un lac local în Vilvoorde, ideal pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        4.405114,
-                        50.883154
-                  ]
-            },
-            {
                   "name": "Kleine Vijver",
                   "text": "Un lac local în Vilvoorde, ideal pentru plimbări și relaxare în natură.",
                   "category": "natural",
@@ -32742,15 +31959,6 @@ export const belgiumCitiesV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Stormbekken anno 1920",
-                  "text": "A local lake in Vilvoorde, ideal for walks and enjoying the natural scenery.",
-                  "category": "natural",
-                  "coords": [
-                        4.405114,
-                        50.883154
-                  ]
-            },
             {
                   "name": "Small Pond",
                   "text": "A local lake in Vilvoorde, ideal for walks and enjoying the natural scenery.",
@@ -37050,15 +36258,6 @@ imageHint: "Lokeren city hall and square",
                   ]
             },
             {
-                  "name": "Vierkante Vijver",
-                  "text": "Der See Vierkante Vijver in Geel ist ein ruhiger Ort für Naturbeobachtungen und Spaziergänge.",
-                  "category": "natural",
-                  "coords": [
-                        5.044762,
-                        51.224967
-                  ]
-            },
-            {
                   "name": "The Arcades",
                   "text": "Die Spielhalle The Arcades in Geel bietet Unterhaltung und Abwechslung für Besucher.",
                   "category": "family",
@@ -37391,15 +36590,6 @@ imageHint: "Lokeren city hall and square",
                   "coords": [
                         4.975695,
                         51.161932
-                  ]
-            },
-            {
-                  "name": "Vierkante Vijver",
-                  "text": "A Geel városában található Vierkante Vijver tó nyugodt helyszín a sétáláshoz és a természet élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        5.044762,
-                        51.224967
                   ]
             },
             {
@@ -37738,15 +36928,6 @@ imageHint: "Lokeren city hall and square",
                   ]
             },
             {
-                  "name": "Vierkante Vijver",
-                  "text": "Lacul Vierkante Vijver din Geel este un loc liniștit pentru plimbări și relaxare în natură.",
-                  "category": "natural",
-                  "coords": [
-                        5.044762,
-                        51.224967
-                  ]
-            },
-            {
                   "name": "The Arcades",
                   "text": "Sala de jocuri The Arcades din Geel oferă divertisment și diverse jocuri pentru vizitatori.",
                   "category": "family",
@@ -38079,15 +37260,6 @@ imageHint: "Lokeren city hall and square",
                   "coords": [
                         4.975695,
                         51.161932
-                  ]
-            },
-            {
-                  "name": "Vierkante Vijver",
-                  "text": "The Vierkante Vijver lake in Geel is a quiet spot for nature walks and scenic views.",
-                  "category": "natural",
-                  "coords": [
-                        5.044762,
-                        51.224967
                   ]
             },
             {
@@ -40381,15 +39553,6 @@ imageHint: "Waregem horse racing stadium",
                         4.5436,
                         50.418189
                   ]
-            },
-            {
-                  "name": "Le Repaire des Arsouilles",
-                  "text": "Le Repaire des Arsouilles, ein Familien-Spielbereich in Chatelet.",
-                  "category": "family",
-                  "coords": [
-                        4.494384,
-                        50.415052
-                  ]
             }
       ],
       "hu": [
@@ -40445,15 +39608,6 @@ imageHint: "Waregem horse racing stadium",
                   "coords": [
                         4.5436,
                         50.418189
-                  ]
-            },
-            {
-                  "name": "Le Repaire des Arsouilles",
-                  "text": "Le Repaire des Arsouilles, egy családi játszótér Chateletben.",
-                  "category": "family",
-                  "coords": [
-                        4.494384,
-                        50.415052
                   ]
             }
       ],
@@ -40511,15 +39665,6 @@ imageHint: "Waregem horse racing stadium",
                         4.5436,
                         50.418189
                   ]
-            },
-            {
-                  "name": "Le Repaire des Arsouilles",
-                  "text": "Le Repaire des Arsouilles, un loc de joacă pentru familii în Chatelet.",
-                  "category": "family",
-                  "coords": [
-                        4.494384,
-                        50.415052
-                  ]
             }
       ],
       "en": [
@@ -40575,15 +39720,6 @@ imageHint: "Waregem horse racing stadium",
                   "coords": [
                         4.5436,
                         50.418189
-                  ]
-            },
-            {
-                  "name": "Le Repaire des Arsouilles",
-                  "text": "Le Repaire des Arsouilles, a family play area in Chatelet.",
-                  "category": "family",
-                  "coords": [
-                        4.494384,
-                        50.415052
                   ]
             }
       ]
@@ -51467,15 +50603,6 @@ imageHint: "Eupen town hall and Vesdre dam",
                   ]
             },
             {
-                  "name": "Église Saints-Pierre et Paul",
-                  "text": "Dieses Gotteshaus ist ein bedeutendes religiöses Bauwerk in Herstal. Es dient als Ort der Besinnung und ist für seine Architektur in der Region bekannt.",
-                  "category": "religious",
-                  "coords": [
-                        5.603753,
-                        50.645361
-                  ]
-            },
-            {
                   "name": "Pont de Milsaucy",
                   "text": "Diese Brücke in Herstal ist ein wichtiges Element der lokalen Infrastruktur und verbindet verschiedene Stadtteile. Von hier aus bietet sich oft ein weiter Blick auf die umliegende Wasserlandschaft.",
                   "category": "landmark",
@@ -51709,15 +50836,6 @@ imageHint: "Eupen town hall and Vesdre dam",
                   "coords": [
                         5.630703,
                         50.651555
-                  ]
-            },
-            {
-                  "name": "Église Saints-Pierre et Paul",
-                  "text": "Ez a(z) Herstal városában található templom jelentős vallási építmény. A nyugalom helyszíneként szolgál, és építészetéről ismert a régióban.",
-                  "category": "religious",
-                  "coords": [
-                        5.603753,
-                        50.645361
                   ]
             },
             {
@@ -51957,15 +51075,6 @@ imageHint: "Eupen town hall and Vesdre dam",
                   ]
             },
             {
-                  "name": "Église Saints-Pierre et Paul",
-                  "text": "Acest lăcaș de cult este un edificiu religios important din Herstal. Servește ca loc de reflecție și este cunoscut în regiune pentru arhitectura sa.",
-                  "category": "religious",
-                  "coords": [
-                        5.603753,
-                        50.645361
-                  ]
-            },
-            {
                   "name": "Pont de Milsaucy",
                   "text": "Acest pod din Herstal este un element important al infrastructurii locale, legând diferite părți ale orașului. De aici se oferă adesea o vedere largă asupra peisajului acvatic înconjurător.",
                   "category": "landmark",
@@ -52199,15 +51308,6 @@ imageHint: "Eupen town hall and Vesdre dam",
                   "coords": [
                         5.630703,
                         50.651555
-                  ]
-            },
-            {
-                  "name": "Église Saints-Pierre et Paul",
-                  "text": "This place of worship is a significant religious structure located in Herstal. It serves as a place of reflection and is known in the region for its architecture.",
-                  "category": "religious",
-                  "coords": [
-                        5.603753,
-                        50.645361
                   ]
             },
             {
@@ -55244,15 +54344,6 @@ imageHint: "Knokke-Heist beach and promenade",
                   ]
             },
             {
-                  "name": "Église Saint-Hilaire",
-                  "text": "Eine bedeutende katholische Kirche in Menen mit beeindruckender Architektur.",
-                  "category": "religious",
-                  "coords": [
-                        3.12791,
-                        50.782564
-                  ]
-            },
-            {
                   "name": "Église Saint-Alphonse",
                   "text": "Église Saint-Alphonse ist eine römisch-katholische Kirche in Menen, nahe der französischen Grenze.",
                   "category": "religious",
@@ -55316,48 +54407,12 @@ imageHint: "Knokke-Heist beach and promenade",
                   ]
             },
             {
-                  "name": "Étang de la tuilerie",
-                  "text": "Dieser See in Menen bietet eine ruhige Umgebung, um die lokale Natur zu genießen.",
-                  "category": "natural",
-                  "coords": [
-                        3.117026,
-                        50.774973
-                  ]
-            },
-            {
-                  "name": "jeugdsiter zuidstraat",
-                  "text": "Dieser Spielplatz in Menen bietet einen angenehmen Außenbereich zum Spielen für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        3.137591,
-                        50.789328
-                  ]
-            },
-            {
-                  "name": "Huppel De Pup",
-                  "text": "Dieser Spielplatz in Menen ist ein toller Ort für Kinder zum Spielen und um die frische Luft zu genießen.",
-                  "category": "family",
-                  "coords": [
-                        3.13948,
-                        50.791372
-                  ]
-            },
-            {
                   "name": "Speelmijntje",
                   "text": "Dieser Spielplatz in Menen bietet verschiedene Spielgeräte für einen unterhaltsamen Familientag im Freien.",
                   "category": "family",
                   "coords": [
                         3.105001,
                         50.803226
-                  ]
-            },
-            {
-                  "name": "AvonTUURKE",
-                  "text": "Dieser Spielplatz in Menen ist ein wunderbarer Ort für Familien, um gemeinsam Zeit im Freien zu verbringen.",
-                  "category": "family",
-                  "coords": [
-                        3.161005,
-                        50.793712
                   ]
             }
       ],
@@ -55444,15 +54499,6 @@ imageHint: "Knokke-Heist beach and promenade",
                   ]
             },
             {
-                  "name": "Église Saint-Hilaire",
-                  "text": "Jelentős katolikus templom Menenben, lenyűgöző építészettel.",
-                  "category": "religious",
-                  "coords": [
-                        3.12791,
-                        50.782564
-                  ]
-            },
-            {
                   "name": "Église Saint-Alphonse",
                   "text": "Az Église Saint-Alphonse egy római katolikus templom Menenben, a francia határ közelében.",
                   "category": "religious",
@@ -55516,48 +54562,12 @@ imageHint: "Knokke-Heist beach and promenade",
                   ]
             },
             {
-                  "name": "Étang de la tuilerie",
-                  "text": "Ez a meneni tó nyugodt környezetet biztosít a helyi természet élvezetéhez.",
-                  "category": "natural",
-                  "coords": [
-                        3.117026,
-                        50.774973
-                  ]
-            },
-            {
-                  "name": "jeugdsiter zuidstraat",
-                  "text": "Ez a meneni játszótér kellemes szabadtéri területet biztosít a gyerekeknek a játékhoz.",
-                  "category": "family",
-                  "coords": [
-                        3.137591,
-                        50.789328
-                  ]
-            },
-            {
-                  "name": "Huppel De Pup",
-                  "text": "Ez a meneni játszótér nagyszerű hely a gyerekeknek a játékhoz és a friss levegőhöz.",
-                  "category": "family",
-                  "coords": [
-                        3.13948,
-                        50.791372
-                  ]
-            },
-            {
                   "name": "Speelmijntje",
                   "text": "Ez a meneni játszótér különféle játékokkal várja a családokat egy vidám szabadtéri kikapcsolódásra.",
                   "category": "family",
                   "coords": [
                         3.105001,
                         50.803226
-                  ]
-            },
-            {
-                  "name": "AvonTUURKE",
-                  "text": "Ez a meneni játszótér csodálatos hely a családok számára a közös szabadtéri időtöltésre.",
-                  "category": "family",
-                  "coords": [
-                        3.161005,
-                        50.793712
                   ]
             }
       ],
@@ -55644,15 +54654,6 @@ imageHint: "Knokke-Heist beach and promenade",
                   ]
             },
             {
-                  "name": "Église Saint-Hilaire",
-                  "text": "O biserică catolică importantă din Menen, cu o arhitectură impresionantă.",
-                  "category": "religious",
-                  "coords": [
-                        3.12791,
-                        50.782564
-                  ]
-            },
-            {
                   "name": "Église Saint-Alphonse",
                   "text": "Église Saint-Alphonse este o biserică romano-catolică din Menen, situată lângă granița cu Franța.",
                   "category": "religious",
@@ -55716,48 +54717,12 @@ imageHint: "Knokke-Heist beach and promenade",
                   ]
             },
             {
-                  "name": "Étang de la tuilerie",
-                  "text": "Acest lac din Menen oferă un cadru liniștit pentru a te bucura de natura locală.",
-                  "category": "natural",
-                  "coords": [
-                        3.117026,
-                        50.774973
-                  ]
-            },
-            {
-                  "name": "jeugdsiter zuidstraat",
-                  "text": "Acest loc de joacă din Menen oferă o zonă plăcută în aer liber pentru copii să se joace.",
-                  "category": "family",
-                  "coords": [
-                        3.137591,
-                        50.789328
-                  ]
-            },
-            {
-                  "name": "Huppel De Pup",
-                  "text": "Acest loc de joacă din Menen este un loc minunat pentru copii să se joace și să se bucure de aer curat.",
-                  "category": "family",
-                  "coords": [
-                        3.13948,
-                        50.791372
-                  ]
-            },
-            {
                   "name": "Speelmijntje",
                   "text": "Acest loc de joacă din Menen oferă diverse echipamente de joacă pentru o zi distractivă în familie în aer liber.",
                   "category": "family",
                   "coords": [
                         3.105001,
                         50.803226
-                  ]
-            },
-            {
-                  "name": "AvonTUURKE",
-                  "text": "Acest loc de joacă din Menen este un loc minunat pentru familii să petreacă timp de calitate în aer liber.",
-                  "category": "family",
-                  "coords": [
-                        3.161005,
-                        50.793712
                   ]
             }
       ],
@@ -55844,15 +54809,6 @@ imageHint: "Knokke-Heist beach and promenade",
                   ]
             },
             {
-                  "name": "Église Saint-Hilaire",
-                  "text": "A significant Catholic church in Menen with impressive architecture.",
-                  "category": "religious",
-                  "coords": [
-                        3.12791,
-                        50.782564
-                  ]
-            },
-            {
                   "name": "Église Saint-Alphonse",
                   "text": "Église Saint-Alphonse is a Roman Catholic church in Menen, located near the border with France.",
                   "category": "religious",
@@ -55916,48 +54872,12 @@ imageHint: "Knokke-Heist beach and promenade",
                   ]
             },
             {
-                  "name": "Étang de la tuilerie",
-                  "text": "This lake in Menen provides a peaceful setting for enjoying the local nature.",
-                  "category": "natural",
-                  "coords": [
-                        3.117026,
-                        50.774973
-                  ]
-            },
-            {
-                  "name": "jeugdsiter zuidstraat",
-                  "text": "This playground in Menen offers a pleasant outdoor area for children to play.",
-                  "category": "family",
-                  "coords": [
-                        3.137591,
-                        50.789328
-                  ]
-            },
-            {
-                  "name": "Huppel De Pup",
-                  "text": "This playground in Menen is a great spot for children to play and enjoy the fresh air.",
-                  "category": "family",
-                  "coords": [
-                        3.13948,
-                        50.791372
-                  ]
-            },
-            {
                   "name": "Speelmijntje",
                   "text": "This playground in Menen offers a variety of play equipment for a fun family day outdoors.",
                   "category": "family",
                   "coords": [
                         3.105001,
                         50.803226
-                  ]
-            },
-            {
-                  "name": "AvonTUURKE",
-                  "text": "This playground in Menen is a wonderful place for families to spend quality time outdoors.",
-                  "category": "family",
-                  "coords": [
-                        3.161005,
-                        50.793712
                   ]
             }
       ]
@@ -69657,33 +68577,6 @@ imageHint: "Knokke luxury storefronts and beach",
     id: "belgium-edegem-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Fort 4",
-                  "text": "Eine historische Festungsanlage in Edegem, Teil des Brialmont-Rings um Antwerpen.",
-                  "category": "fortress",
-                  "coords": [
-                        4.459456,
-                        51.174125
-                  ]
-            },
-            {
-                  "name": "Hof Ter Linden",
-                  "text": "Ein prächtiges klassizistisches Schloss in Edegem, umgeben von einem schönen Park.",
-                  "category": "castle",
-                  "coords": [
-                        4.439465,
-                        51.159759
-                  ]
-            },
-            {
-                  "name": "Kasteel Fruithof",
-                  "text": "Ein historisches Schloss in Edegem, das heute für Veranstaltungen genutzt wird.",
-                  "category": "castle",
-                  "coords": [
-                        4.481565,
-                        51.161138
-                  ]
-            },
-            {
                   "name": "Kasteel Altena",
                   "text": "Ein Schloss in Edegem mit reicher Geschichte, nahe der Grenze zu Kontich gelegen.",
                   "category": "castle",
@@ -69702,15 +68595,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Mark Liebrecht Schouwburg",
-                  "text": "Ein Theater in Edegem, benannt nach dem flämischen Komponisten und Regisseur.",
-                  "category": "cultural",
-                  "coords": [
-                        4.447118,
-                        51.171183
-                  ]
-            },
-            {
                   "name": "Uilenbos",
                   "text": "Ein Naturschutzgebiet in Edegem, bekannt für seine vielfältige Flora und Fauna.",
                   "category": "natural",
@@ -69720,48 +68604,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Cappenberg",
-                  "text": "Ein denkmalgeschütztes Schloss (Klasse 4) in Edegem.",
-                  "category": "castle",
-                  "coords": [
-                        4.463064,
-                        51.161847
-                  ]
-            },
-            {
                   "name": "Hoverberg",
                   "text": "Ein denkmalgeschütztes Schloss (Klasse 4) in Edegem.",
                   "category": "castle",
                   "coords": [
                         4.462825,
                         51.156198
-                  ]
-            },
-            {
-                  "name": "Kasteel Rattennest",
-                  "text": "Ein ehemaliges Schlossgut in Edegem, heute Teil der lokalen Landschaft.",
-                  "category": "castle",
-                  "coords": [
-                        4.469029,
-                        51.159909
-                  ]
-            },
-            {
-                  "name": "Kasteel Ter Varent",
-                  "text": "Ein denkmalgeschütztes Schloss (Klasse 4) in Edegem.",
-                  "category": "castle",
-                  "coords": [
-                        4.44743,
-                        51.175349
-                  ]
-            },
-            {
-                  "name": "Kasteel Ropstock",
-                  "text": "Eine historische Schlossanlage in Edegem mit traditioneller Architektur.",
-                  "category": "castle",
-                  "coords": [
-                        4.486627,
-                        51.159686
                   ]
             },
             {
@@ -69810,42 +68658,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Fort 5",
-                  "text": "Ein öffentlicher Park auf dem Gelände einer ehemaligen Militärfestung.",
-                  "category": "park",
-                  "coords": [
-                        4.433097,
-                        51.167773
-                  ]
-            },
-            {
-                  "name": "Atelier 403",
-                  "text": "Ein Raum in Edegem, der der Ausstellung zeitgenössischer Kunst gewidmet ist.",
-                  "category": "museum",
-                  "coords": [
-                        4.436379,
-                        51.169165
-                  ]
-            },
-            {
-                  "name": "Walpurgis",
-                  "text": "Ein Kultur- und Kunstzentrum in Edegem mit Schwerpunkt auf Musik und Theater.",
-                  "category": "cultural",
-                  "coords": [
-                        4.444611,
-                        51.175176
-                  ]
-            },
-            {
-                  "name": "MoMo",
-                  "text": "Ein lokales Zentrum in Edegem zur Förderung verschiedener künstlerischer Aktivitäten.",
-                  "category": "cultural",
-                  "coords": [
-                        4.453544,
-                        51.168378
-                  ]
-            },
-            {
                   "name": "Oude Pastorie",
                   "text": "Ein historisches ehemaliges Pfarrhaus in Edegem, das heute für Gemeinschaftsveranstaltungen genutzt wird.",
                   "category": "landmark",
@@ -69870,24 +68682,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.445921,
                         51.129973
-                  ]
-            },
-            {
-                  "name": "Kunstfabriek Kaleidoscoop",
-                  "text": "Ein kreatives Zentrum in Edegem, das verschiedene kulturelle Aufführungen beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        4.459351,
-                        51.165497
-                  ]
-            },
-            {
-                  "name": "Sint-Jozefskerk",
-                  "text": "Eine Pfarrkirche in Edegem, bekannt für ihre markante Architektur des 20. Jahrhunderts.",
-                  "category": "religious",
-                  "coords": [
-                        4.477705,
-                        51.16754
                   ]
             },
             {
@@ -69918,30 +68712,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Heilige Familiekerk",
-                  "text": "Eine Kirche in Edegem, die der lokalen katholischen Gemeinde dient.",
-                  "category": "religious",
-                  "coords": [
-                        4.427318,
-                        51.166575
-                  ]
-            },
-            {
                   "name": "Onze-Lieve-Vrouw-van-Lourdesbasiliek",
                   "text": "Eine bedeutende Wallfahrtskirche in Edegem, erbaut im neugotischen Stil.",
                   "category": "religious",
                   "coords": [
                         4.450696,
                         51.15634
-                  ]
-            },
-            {
-                  "name": "Sint-Benedictuskerk",
-                  "text": "Eine historische Kirche in Mortsel, nahe der Grenze zu Edegem gelegen.",
-                  "category": "religious",
-                  "coords": [
-                        4.463337,
-                        51.165469
                   ]
             },
             {
@@ -69963,15 +68739,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Papayoe",
-                  "text": "Papayoe in Edegem bietet einen sicheren und unterhaltsamen Spielraum für Kinder.",
-                  "category": "family",
-                  "coords": [
-                        4.437799,
-                        51.17159
-                  ]
-            },
-            {
                   "name": "Nr 6 - 's Herenlei Kontich",
                   "text": "Nr 6 - 's Herenlei Kontich ist ein kleiner lokaler Spielplatz in Edegem für Familien in der Nähe.",
                   "category": "family",
@@ -69987,60 +68754,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.445426,
                         51.139641
-                  ]
-            },
-            {
-                  "name": "Pieter van den Bemdenlaan",
-                  "text": "Pieter van den Bemdenlaan bietet einen ruhigen Spielbereich für Kinder in einem Wohnviertel von Edegem.",
-                  "category": "family",
-                  "coords": [
-                        4.418288,
-                        51.161765
-                  ]
-            },
-            {
-                  "name": "Gemeentelijk Speelplein",
-                  "text": "Gemeentelijk Speelplein ist der kommunale Spielplatz in Edegem mit verschiedenen Geräten zum Klettern.",
-                  "category": "family",
-                  "coords": [
-                        4.429048,
-                        51.16926
-                  ]
-            },
-            {
-                  "name": "hindernissenparcours",
-                  "text": "Hindernissenparcours in Edegem bietet Action und Spaß beim Überwinden verschiedener Barrieren.",
-                  "category": "family",
-                  "coords": [
-                        4.464362,
-                        51.174673
-                  ]
-            },
-            {
-                  "name": "vlot",
-                  "text": "Das Vlot in Edegem ist ein spielerisches Element, das Kindern Freude an Bewegung vermittelt.",
-                  "category": "family",
-                  "coords": [
-                        4.456328,
-                        51.172393
-                  ]
-            },
-            {
-                  "name": "Speelterrein Edmond Thieffrylaan",
-                  "text": "Spielplatz an der Edmond-Thieffry-Straße in Edegem.",
-                  "category": "family",
-                  "coords": [
-                        4.44837,
-                        51.166239
-                  ]
-            },
-            {
-                  "name": "Speelbos Dikke Bertha",
-                  "text": "Speelbos Dikke Bertha bietet ein abenteuerliches Naturerlebnis für spielende Kinder in Edegem.",
-                  "category": "family",
-                  "coords": [
-                        4.433289,
-                        51.165686
                   ]
             },
             {
@@ -70096,45 +68809,9 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.453398,
                         51.156722
                   ]
-            },
-            {
-                  "name": "Speelterrein Ridder van Ranstlei",
-                  "text": "Speelterrein Ridder van Ranstlei ist ein sicherer Spielplatz für Kinder in einer ruhigen Zone von Edegem.",
-                  "category": "family",
-                  "coords": [
-                        4.440239,
-                        51.173907
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Fort 4",
-                  "text": "Történelmi erődítmény Edegemben, az Antwerpen körüli Brialmont-gyűrű része.",
-                  "category": "fortress",
-                  "coords": [
-                        4.459456,
-                        51.174125
-                  ]
-            },
-            {
-                  "name": "Hof Ter Linden",
-                  "text": "Pompás klasszicista kastély Edegemben, egy szép parkkal körülvéve.",
-                  "category": "castle",
-                  "coords": [
-                        4.439465,
-                        51.159759
-                  ]
-            },
-            {
-                  "name": "Kasteel Fruithof",
-                  "text": "Történelmi kastély Edegemben, amelyet ma rendezvényhelyszínként használnak.",
-                  "category": "castle",
-                  "coords": [
-                        4.481565,
-                        51.161138
-                  ]
-            },
             {
                   "name": "Kasteel Altena",
                   "text": "Gazdag múltú kastély Edegemben, Kontich határának közelében.",
@@ -70154,15 +68831,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Mark Liebrecht Schouwburg",
-                  "text": "Edegemi színház, amelyet a flamand zeneszerzőről és rendezőről neveztek el.",
-                  "category": "cultural",
-                  "coords": [
-                        4.447118,
-                        51.171183
-                  ]
-            },
-            {
                   "name": "Uilenbos",
                   "text": "Természetvédelmi terület Edegemben, amely változatos növény- és állatvilágáról ismert.",
                   "category": "natural",
@@ -70172,48 +68840,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Cappenberg",
-                  "text": "Műemlék vár (4. osztály) Edegemben.",
-                  "category": "castle",
-                  "coords": [
-                        4.463064,
-                        51.161847
-                  ]
-            },
-            {
                   "name": "Hoverberg",
                   "text": "Műemlék vár (4. osztály) Edegemben.",
                   "category": "castle",
                   "coords": [
                         4.462825,
                         51.156198
-                  ]
-            },
-            {
-                  "name": "Kasteel Rattennest",
-                  "text": "Eykori kastélybirtok Edegemben, amely ma a helyi táj része.",
-                  "category": "castle",
-                  "coords": [
-                        4.469029,
-                        51.159909
-                  ]
-            },
-            {
-                  "name": "Kasteel Ter Varent",
-                  "text": "Műemlék vár (4. osztály) Edegemben.",
-                  "category": "castle",
-                  "coords": [
-                        4.44743,
-                        51.175349
-                  ]
-            },
-            {
-                  "name": "Kasteel Ropstock",
-                  "text": "Történelmi kastélyhelyszín Edegemben, hagyományos építészeti stílusban.",
-                  "category": "castle",
-                  "coords": [
-                        4.486627,
-                        51.159686
                   ]
             },
             {
@@ -70262,42 +68894,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Fort 5",
-                  "text": "Nyilvános park egy egykori katonai erődítmény területén.",
-                  "category": "park",
-                  "coords": [
-                        4.433097,
-                        51.167773
-                  ]
-            },
-            {
-                  "name": "Atelier 403",
-                  "text": "Kortárs művészeti kiállításoknak szentelt helyszín Edegemben.",
-                  "category": "museum",
-                  "coords": [
-                        4.436379,
-                        51.169165
-                  ]
-            },
-            {
-                  "name": "Walpurgis",
-                  "text": "Kulturális és művészeti központ Edegemben, fókuszban a zenével és a színházzal.",
-                  "category": "cultural",
-                  "coords": [
-                        4.444611,
-                        51.175176
-                  ]
-            },
-            {
-                  "name": "MoMo",
-                  "text": "Helyi központ Edegemben, amely különféle művészeti tevékenységeket népszerűsít.",
-                  "category": "cultural",
-                  "coords": [
-                        4.453544,
-                        51.168378
-                  ]
-            },
-            {
                   "name": "Oude Pastorie",
                   "text": "Történelmi egykori paplak Edegemben, amelyet ma közösségi rendezvényekre használnak.",
                   "category": "landmark",
@@ -70322,24 +68918,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.445921,
                         51.129973
-                  ]
-            },
-            {
-                  "name": "Kunstfabriek Kaleidoscoop",
-                  "text": "Kreatív központ Edegemben, amely különféle kulturális előadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        4.459351,
-                        51.165497
-                  ]
-            },
-            {
-                  "name": "Sint-Jozefskerk",
-                  "text": "Plébániatemplom Edegemben, amely jellegzetes 20. századi építészetéről ismert.",
-                  "category": "religious",
-                  "coords": [
-                        4.477705,
-                        51.16754
                   ]
             },
             {
@@ -70370,30 +68948,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Heilige Familiekerk",
-                  "text": "Edegemi templom, amely a helyi katolikus közösséget szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        4.427318,
-                        51.166575
-                  ]
-            },
-            {
                   "name": "Onze-Lieve-Vrouw-van-Lourdesbasiliek",
                   "text": "Jelentős neogótikus stílusú zarándoktemplom Edegemben.",
                   "category": "religious",
                   "coords": [
                         4.450696,
                         51.15634
-                  ]
-            },
-            {
-                  "name": "Sint-Benedictuskerk",
-                  "text": "Történelmi templom Mortselben, az edegemi határ közelében.",
-                  "category": "religious",
-                  "coords": [
-                        4.463337,
-                        51.165469
                   ]
             },
             {
@@ -70415,15 +68975,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Papayoe",
-                  "text": "Az edegemi Papayoe biztonságos és szórakoztató játékteret kínál a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        4.437799,
-                        51.17159
-                  ]
-            },
-            {
                   "name": "Nr 6 - 's Herenlei Kontich",
                   "text": "Az Nr 6 - 's Herenlei Kontich egy kis helyi játszótér Edegemben a közelben lakóknak.",
                   "category": "family",
@@ -70439,60 +68990,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.445426,
                         51.139641
-                  ]
-            },
-            {
-                  "name": "Pieter van den Bemdenlaan",
-                  "text": "A Pieter van den Bemdenlaan nyugodt játszóhelyet kínál Edegem egyik lakóövezetében.",
-                  "category": "family",
-                  "coords": [
-                        4.418288,
-                        51.161765
-                  ]
-            },
-            {
-                  "name": "Gemeentelijk Speelplein",
-                  "text": "A Gemeentelijk Speelplein Edegem önkormányzati játszótere különféle mászóeszközökkel.",
-                  "category": "family",
-                  "coords": [
-                        4.429048,
-                        51.16926
-                  ]
-            },
-            {
-                  "name": "hindernissenparcours",
-                  "text": "Az edegemi hindernissenparcours akciót és szórakozást kínál a különféle akadályok leküzdésekor.",
-                  "category": "family",
-                  "coords": [
-                        4.464362,
-                        51.174673
-                  ]
-            },
-            {
-                  "name": "vlot",
-                  "text": "Az edegemi Vlot egy játékos elem, amely a mozgás örömét nyújtja a gyerekeknek.",
-                  "category": "family",
-                  "coords": [
-                        4.456328,
-                        51.172393
-                  ]
-            },
-            {
-                  "name": "Speelterrein Edmond Thieffrylaan",
-                  "text": "Játszótér az Edmond Thieffry úton Edegemben.",
-                  "category": "family",
-                  "coords": [
-                        4.44837,
-                        51.166239
-                  ]
-            },
-            {
-                  "name": "Speelbos Dikke Bertha",
-                  "text": "A Speelbos Dikke Bertha kalandos természetközeli élményt nyújt a játszó gyerekeknek Edegemben.",
-                  "category": "family",
-                  "coords": [
-                        4.433289,
-                        51.165686
                   ]
             },
             {
@@ -70548,45 +69045,9 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.453398,
                         51.156722
                   ]
-            },
-            {
-                  "name": "Speelterrein Ridder van Ranstlei",
-                  "text": "A Speelterrein Ridder van Ranstlei egy biztonságos játszótér Edegem egy csendes övezetében.",
-                  "category": "family",
-                  "coords": [
-                        4.440239,
-                        51.173907
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Fort 4",
-                  "text": "O fortificație istorică din Edegem, parte a centurii Brialmont din jurul Anversului.",
-                  "category": "fortress",
-                  "coords": [
-                        4.459456,
-                        51.174125
-                  ]
-            },
-            {
-                  "name": "Hof Ter Linden",
-                  "text": "Un castel neoclasic grandios din Edegem, înconjurat de un parc frumos.",
-                  "category": "castle",
-                  "coords": [
-                        4.439465,
-                        51.159759
-                  ]
-            },
-            {
-                  "name": "Kasteel Fruithof",
-                  "text": "Un castel istoric din Edegem, folosit astăzi ca spațiu pentru evenimente.",
-                  "category": "castle",
-                  "coords": [
-                        4.481565,
-                        51.161138
-                  ]
-            },
             {
                   "name": "Kasteel Altena",
                   "text": "Un castel din Edegem cu o istorie bogată, situat lângă granița cu Kontich.",
@@ -70606,15 +69067,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Mark Liebrecht Schouwburg",
-                  "text": "Un teatru din Edegem, numit după compozitorul și regizorul flamand.",
-                  "category": "cultural",
-                  "coords": [
-                        4.447118,
-                        51.171183
-                  ]
-            },
-            {
                   "name": "Uilenbos",
                   "text": "O rezervație naturală din Edegem, cunoscută pentru flora și fauna sa diversă.",
                   "category": "natural",
@@ -70624,48 +69076,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Cappenberg",
-                  "text": "Un castel protejat ca monument istoric (clasa 4) în Edegem.",
-                  "category": "castle",
-                  "coords": [
-                        4.463064,
-                        51.161847
-                  ]
-            },
-            {
                   "name": "Hoverberg",
                   "text": "Un castel protejat ca monument istoric (clasa 4) în Edegem.",
                   "category": "castle",
                   "coords": [
                         4.462825,
                         51.156198
-                  ]
-            },
-            {
-                  "name": "Kasteel Rattennest",
-                  "text": "O fostă moșie cu castel în Edegem, astăzi integrată în peisajul local.",
-                  "category": "castle",
-                  "coords": [
-                        4.469029,
-                        51.159909
-                  ]
-            },
-            {
-                  "name": "Kasteel Ter Varent",
-                  "text": "Un castel protejat ca monument istoric (clasa 4) în Edegem.",
-                  "category": "castle",
-                  "coords": [
-                        4.44743,
-                        51.175349
-                  ]
-            },
-            {
-                  "name": "Kasteel Ropstock",
-                  "text": "Un sit istoric cu castel în Edegem, având o arhitectură tradițională.",
-                  "category": "castle",
-                  "coords": [
-                        4.486627,
-                        51.159686
                   ]
             },
             {
@@ -70714,42 +69130,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Fort 5",
-                  "text": "Un parc public situat pe terenul unei foste fortificații militare.",
-                  "category": "park",
-                  "coords": [
-                        4.433097,
-                        51.167773
-                  ]
-            },
-            {
-                  "name": "Atelier 403",
-                  "text": "Un spațiu din Edegem dedicat expozițiilor de artă contemporană.",
-                  "category": "museum",
-                  "coords": [
-                        4.436379,
-                        51.169165
-                  ]
-            },
-            {
-                  "name": "Walpurgis",
-                  "text": "Un centru cultural și artistic din Edegem, axat pe muzică și teatru.",
-                  "category": "cultural",
-                  "coords": [
-                        4.444611,
-                        51.175176
-                  ]
-            },
-            {
-                  "name": "MoMo",
-                  "text": "Un centru local din Edegem care promovează diverse activități artistice.",
-                  "category": "cultural",
-                  "coords": [
-                        4.453544,
-                        51.168378
-                  ]
-            },
-            {
                   "name": "Oude Pastorie",
                   "text": "O fostă parohie istorică din Edegem, folosită acum pentru evenimente comunitare.",
                   "category": "landmark",
@@ -70774,24 +69154,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.445921,
                         51.129973
-                  ]
-            },
-            {
-                  "name": "Kunstfabriek Kaleidoscoop",
-                  "text": "Un hub creativ din Edegem care găzduiește diverse spectacole culturale.",
-                  "category": "cultural",
-                  "coords": [
-                        4.459351,
-                        51.165497
-                  ]
-            },
-            {
-                  "name": "Sint-Jozefskerk",
-                  "text": "O biserică parohială din Edegem, cunoscută pentru arhitectura sa distinctivă din secolul XX.",
-                  "category": "religious",
-                  "coords": [
-                        4.477705,
-                        51.16754
                   ]
             },
             {
@@ -70822,30 +69184,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Heilige Familiekerk",
-                  "text": "O biserică din Edegem care deservește comunitatea catolică locală.",
-                  "category": "religious",
-                  "coords": [
-                        4.427318,
-                        51.166575
-                  ]
-            },
-            {
                   "name": "Onze-Lieve-Vrouw-van-Lourdesbasiliek",
                   "text": "O importantă biserică de pelerinaj din Edegem, construită în stil neogotic.",
                   "category": "religious",
                   "coords": [
                         4.450696,
                         51.15634
-                  ]
-            },
-            {
-                  "name": "Sint-Benedictuskerk",
-                  "text": "O biserică istorică din Mortsel, situată lângă granița cu Edegem.",
-                  "category": "religious",
-                  "coords": [
-                        4.463337,
-                        51.165469
                   ]
             },
             {
@@ -70867,15 +69211,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Papayoe",
-                  "text": "Papayoe din Edegem oferă un spațiu de joacă sigur și distractiv pentru copii.",
-                  "category": "family",
-                  "coords": [
-                        4.437799,
-                        51.17159
-                  ]
-            },
-            {
                   "name": "Nr 6 - 's Herenlei Kontich",
                   "text": "Nr 6 - 's Herenlei Kontich este un mic teren de joacă local în Edegem pentru familiile din zonă.",
                   "category": "family",
@@ -70891,60 +69226,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.445426,
                         51.139641
-                  ]
-            },
-            {
-                  "name": "Pieter van den Bemdenlaan",
-                  "text": "Pieter van den Bemdenlaan oferă o zonă de joacă liniștită pentru copii într-un cartier din Edegem.",
-                  "category": "family",
-                  "coords": [
-                        4.418288,
-                        51.161765
-                  ]
-            },
-            {
-                  "name": "Gemeentelijk Speelplein",
-                  "text": "Gemeentelijk Speelplein este terenul de joacă municipal din Edegem, dotat cu diverse echipamente.",
-                  "category": "family",
-                  "coords": [
-                        4.429048,
-                        51.16926
-                  ]
-            },
-            {
-                  "name": "hindernissenparcours",
-                  "text": "Hindernissenparcours din Edegem oferă acțiune și distracție la depășirea diverselor bariere.",
-                  "category": "family",
-                  "coords": [
-                        4.464362,
-                        51.174673
-                  ]
-            },
-            {
-                  "name": "vlot",
-                  "text": "Vlot din Edegem este un element de joacă ce oferă copiilor bucuria mișcării.",
-                  "category": "family",
-                  "coords": [
-                        4.456328,
-                        51.172393
-                  ]
-            },
-            {
-                  "name": "Speelterrein Edmond Thieffrylaan",
-                  "text": "Loc de joacă pe strada Edmond Thieffry în Edegem.",
-                  "category": "family",
-                  "coords": [
-                        4.44837,
-                        51.166239
-                  ]
-            },
-            {
-                  "name": "Speelbos Dikke Bertha",
-                  "text": "Speelbos Dikke Bertha oferă o experiență de aventură în natură pentru copiii din Edegem.",
-                  "category": "family",
-                  "coords": [
-                        4.433289,
-                        51.165686
                   ]
             },
             {
@@ -71000,45 +69281,9 @@ imageHint: "Knokke luxury storefronts and beach",
                         4.453398,
                         51.156722
                   ]
-            },
-            {
-                  "name": "Speelterrein Ridder van Ranstlei",
-                  "text": "Speelterrein Ridder van Ranstlei este un teren de joacă sigur pentru copii într-o zonă liniștită din Edegem.",
-                  "category": "family",
-                  "coords": [
-                        4.440239,
-                        51.173907
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Fort 4",
-                  "text": "A historic fortification in Edegem, part of the Brialmont Ring around Antwerp.",
-                  "category": "fortress",
-                  "coords": [
-                        4.459456,
-                        51.174125
-                  ]
-            },
-            {
-                  "name": "Hof Ter Linden",
-                  "text": "A grand neoclassical castle in Edegem surrounded by a beautiful park.",
-                  "category": "castle",
-                  "coords": [
-                        4.439465,
-                        51.159759
-                  ]
-            },
-            {
-                  "name": "Kasteel Fruithof",
-                  "text": "A historic castle in Edegem used as an event venue and residence.",
-                  "category": "castle",
-                  "coords": [
-                        4.481565,
-                        51.161138
-                  ]
-            },
             {
                   "name": "Kasteel Altena",
                   "text": "A castle in Edegem with a rich history, located near the border with Kontich.",
@@ -71058,15 +69303,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Mark Liebrecht Schouwburg",
-                  "text": "A theater in Edegem named after the Flemish composer and director.",
-                  "category": "cultural",
-                  "coords": [
-                        4.447118,
-                        51.171183
-                  ]
-            },
-            {
                   "name": "Uilenbos",
                   "text": "A nature reserve in Edegem known for its diverse flora and fauna.",
                   "category": "natural",
@@ -71076,48 +69312,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Cappenberg",
-                  "text": "A protected heritage castle (class 4) in Edegem.",
-                  "category": "castle",
-                  "coords": [
-                        4.463064,
-                        51.161847
-                  ]
-            },
-            {
                   "name": "Hoverberg",
                   "text": "A protected heritage castle (class 4) in Edegem.",
                   "category": "castle",
                   "coords": [
                         4.462825,
                         51.156198
-                  ]
-            },
-            {
-                  "name": "Kasteel Rattennest",
-                  "text": "A former castle estate in Edegem, now integrated into the local landscape.",
-                  "category": "castle",
-                  "coords": [
-                        4.469029,
-                        51.159909
-                  ]
-            },
-            {
-                  "name": "Kasteel Ter Varent",
-                  "text": "A protected heritage castle (class 4) in Edegem.",
-                  "category": "castle",
-                  "coords": [
-                        4.44743,
-                        51.175349
-                  ]
-            },
-            {
-                  "name": "Kasteel Ropstock",
-                  "text": "A historic castle site in Edegem with traditional architecture.",
-                  "category": "castle",
-                  "coords": [
-                        4.486627,
-                        51.159686
                   ]
             },
             {
@@ -71166,42 +69366,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Fort 5",
-                  "text": "A public park located on the grounds of a former military fortification.",
-                  "category": "park",
-                  "coords": [
-                        4.433097,
-                        51.167773
-                  ]
-            },
-            {
-                  "name": "Atelier 403",
-                  "text": "A space in Edegem dedicated to the exhibition of contemporary art.",
-                  "category": "museum",
-                  "coords": [
-                        4.436379,
-                        51.169165
-                  ]
-            },
-            {
-                  "name": "Walpurgis",
-                  "text": "A cultural and artistic center in Edegem focusing on music and theater.",
-                  "category": "cultural",
-                  "coords": [
-                        4.444611,
-                        51.175176
-                  ]
-            },
-            {
-                  "name": "MoMo",
-                  "text": "A local center in Edegem promoting various artistic activities.",
-                  "category": "cultural",
-                  "coords": [
-                        4.453544,
-                        51.168378
-                  ]
-            },
-            {
                   "name": "Oude Pastorie",
                   "text": "A historic former rectory in Edegem, now used for community events.",
                   "category": "landmark",
@@ -71226,24 +69390,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.445921,
                         51.129973
-                  ]
-            },
-            {
-                  "name": "Kunstfabriek Kaleidoscoop",
-                  "text": "A creative hub in Edegem hosting various cultural performances.",
-                  "category": "cultural",
-                  "coords": [
-                        4.459351,
-                        51.165497
-                  ]
-            },
-            {
-                  "name": "Sint-Jozefskerk",
-                  "text": "A parish church in Edegem known for its distinctive 20th-century architecture.",
-                  "category": "religious",
-                  "coords": [
-                        4.477705,
-                        51.16754
                   ]
             },
             {
@@ -71274,30 +69420,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Heilige Familiekerk",
-                  "text": "A church in Edegem serving the local Catholic community.",
-                  "category": "religious",
-                  "coords": [
-                        4.427318,
-                        51.166575
-                  ]
-            },
-            {
                   "name": "Onze-Lieve-Vrouw-van-Lourdesbasiliek",
                   "text": "A notable pilgrimage church in Edegem, built in a Neo-Gothic style.",
                   "category": "religious",
                   "coords": [
                         4.450696,
                         51.15634
-                  ]
-            },
-            {
-                  "name": "Sint-Benedictuskerk",
-                  "text": "A historic church in Mortsel, located near the Edegem border.",
-                  "category": "religious",
-                  "coords": [
-                        4.463337,
-                        51.165469
                   ]
             },
             {
@@ -71319,15 +69447,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Papayoe",
-                  "text": "Papayoe in Edegem offers a safe and entertaining play space for children.",
-                  "category": "family",
-                  "coords": [
-                        4.437799,
-                        51.17159
-                  ]
-            },
-            {
                   "name": "Nr 6 - 's Herenlei Kontich",
                   "text": "Nr 6 - 's Herenlei Kontich is a small local playground in Edegem for nearby families.",
                   "category": "family",
@@ -71343,60 +69462,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.445426,
                         51.139641
-                  ]
-            },
-            {
-                  "name": "Pieter van den Bemdenlaan",
-                  "text": "Pieter van den Bemdenlaan offers a quiet play area for children in an Edegem neighborhood.",
-                  "category": "family",
-                  "coords": [
-                        4.418288,
-                        51.161765
-                  ]
-            },
-            {
-                  "name": "Gemeentelijk Speelplein",
-                  "text": "Gemeentelijk Speelplein is the municipal playground in Edegem with various climbing equipment.",
-                  "category": "family",
-                  "coords": [
-                        4.429048,
-                        51.16926
-                  ]
-            },
-            {
-                  "name": "hindernissenparcours",
-                  "text": "The hindernissenparcours in Edegem offers action and fun while overcoming various barriers.",
-                  "category": "family",
-                  "coords": [
-                        4.464362,
-                        51.174673
-                  ]
-            },
-            {
-                  "name": "vlot",
-                  "text": "The Vlot in Edegem is a playful element that gives children the joy of movement.",
-                  "category": "family",
-                  "coords": [
-                        4.456328,
-                        51.172393
-                  ]
-            },
-            {
-                  "name": "Speelterrein Edmond Thieffrylaan",
-                  "text": "Playground on Edmond Thieffrylaan in Edegem.",
-                  "category": "family",
-                  "coords": [
-                        4.44837,
-                        51.166239
-                  ]
-            },
-            {
-                  "name": "Speelbos Dikke Bertha",
-                  "text": "Speelbos Dikke Bertha offers an adventurous nature experience for playing children in Edegem.",
-                  "category": "family",
-                  "coords": [
-                        4.433289,
-                        51.165686
                   ]
             },
             {
@@ -71451,15 +69516,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.453398,
                         51.156722
-                  ]
-            },
-            {
-                  "name": "Speelterrein Ridder van Ranstlei",
-                  "text": "Speelterrein Ridder van Ranstlei is a safe playground for children in a quiet zone of Edegem.",
-                  "category": "family",
-                  "coords": [
-                        4.440239,
-                        51.173907
                   ]
             }
       ]
@@ -72384,39 +70440,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Étang du Blanc Gravier",
-                  "text": "Étang du Blanc Gravier ist ein ruhiger Weiher in Esneux, perfekt für eine kurze Auszeit in der Natur.",
-                  "category": "natural",
-                  "coords": [
-                        5.586919,
-                        50.584577
-                  ]
-            },
-            {
-                  "name": "Mare aux Chevreuils",
-                  "text": "Mare aux Chevreuils ist ein kleiner, naturbelassener See in Esneux, ideal für Beobachtungen am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        5.565135,
-                        50.57847
-                  ]
-            },
-            {
                   "name": "Ancienne carrière de Lillé",
                   "text": "Ancienne carrière de Lillé ist ein wassergefüllter Steinbruch in Esneux mit besonderer landschaftlicher Kulisse.",
                   "category": "natural",
                   "coords": [
                         5.648361,
                         50.501477
-                  ]
-            },
-            {
-                  "name": "Étang des Prairies Basses",
-                  "text": "Étang des Prairies Basses ist ein friedlicher See in Esneux, der zu entspannten Momenten im Freien einlädt.",
-                  "category": "natural",
-                  "coords": [
-                        5.594439,
-                        50.581782
                   ]
             },
             {
@@ -72584,39 +70613,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Étang du Blanc Gravier",
-                  "text": "Az Étang du Blanc Gravier egy csendes tavacska Esneux-ben, tökéletes egy rövid erdei pihenőhöz.",
-                  "category": "natural",
-                  "coords": [
-                        5.586919,
-                        50.584577
-                  ]
-            },
-            {
-                  "name": "Mare aux Chevreuils",
-                  "text": "A Mare aux Chevreuils egy kicsi, természetes tó Esneux-ben, ideális vízparti megfigyelésekhez.",
-                  "category": "natural",
-                  "coords": [
-                        5.565135,
-                        50.57847
-                  ]
-            },
-            {
                   "name": "Ancienne carrière de Lillé",
                   "text": "Az Ancienne carrière de Lillé egy vízzel teli kőfejtő Esneux-ben, különleges táji környezetben.",
                   "category": "natural",
                   "coords": [
                         5.648361,
                         50.501477
-                  ]
-            },
-            {
-                  "name": "Étang des Prairies Basses",
-                  "text": "Az Étang des Prairies Basses egy békés tó Esneux-ben, amely pihentető szabadtéri pillanatokra hív.",
-                  "category": "natural",
-                  "coords": [
-                        5.594439,
-                        50.581782
                   ]
             },
             {
@@ -72784,39 +70786,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Étang du Blanc Gravier",
-                  "text": "Étang du Blanc Gravier este un iaz liniștit în Esneux, perfect pentru o scurtă pauză în natură.",
-                  "category": "natural",
-                  "coords": [
-                        5.586919,
-                        50.584577
-                  ]
-            },
-            {
-                  "name": "Mare aux Chevreuils",
-                  "text": "Mare aux Chevreuils este un lac mic și natural în Esneux, ideal pentru observații la malul apei.",
-                  "category": "natural",
-                  "coords": [
-                        5.565135,
-                        50.57847
-                  ]
-            },
-            {
                   "name": "Ancienne carrière de Lillé",
                   "text": "Ancienne carrière de Lillé este o carieră plină cu apă în Esneux, având un cadru peisagistic deosebit.",
                   "category": "natural",
                   "coords": [
                         5.648361,
                         50.501477
-                  ]
-            },
-            {
-                  "name": "Étang des Prairies Basses",
-                  "text": "Étang des Prairies Basses este un lac liniștit în Esneux, care invită la momente relaxante în aer liber.",
-                  "category": "natural",
-                  "coords": [
-                        5.594439,
-                        50.581782
                   ]
             },
             {
@@ -72984,39 +70959,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Étang du Blanc Gravier",
-                  "text": "Étang du Blanc Gravier is a quiet pond in Esneux, perfect for a short break in nature.",
-                  "category": "natural",
-                  "coords": [
-                        5.586919,
-                        50.584577
-                  ]
-            },
-            {
-                  "name": "Mare aux Chevreuils",
-                  "text": "Mare aux Chevreuils is a small, natural lake in Esneux, ideal for waterside observations.",
-                  "category": "natural",
-                  "coords": [
-                        5.565135,
-                        50.57847
-                  ]
-            },
-            {
                   "name": "Ancienne carrière de Lillé",
                   "text": "Ancienne carrière de Lillé is a water-filled quarry in Esneux with a unique scenic backdrop.",
                   "category": "natural",
                   "coords": [
                         5.648361,
                         50.501477
-                  ]
-            },
-            {
-                  "name": "Étang des Prairies Basses",
-                  "text": "Étang des Prairies Basses is a peaceful lake in Esneux that invites relaxing moments outdoors.",
-                  "category": "natural",
-                  "coords": [
-                        5.594439,
-                        50.581782
                   ]
             },
             {
@@ -73329,24 +71277,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Étang du Blanc Gravier",
-                  "text": "Ein Teich mit weißen Kiesufern, umgeben von bewaldeten Hügeln in Fleron.",
-                  "category": "natural",
-                  "coords": [
-                        5.586919,
-                        50.584577
-                  ]
-            },
-            {
-                  "name": "Étang des Prairies Basses",
-                  "text": "Der Étang des Prairies Basses in Fleron bietet eine naturnahe Kulisse am Wasser.",
-                  "category": "natural",
-                  "coords": [
-                        5.594439,
-                        50.581782
-                  ]
-            },
-            {
                   "name": "Centre de loisirs",
                   "text": "Das Centre de loisirs in Fleron bietet vielfältige Spielmöglichkeiten für Kinder.",
                   "category": "family",
@@ -73409,24 +71339,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         5.694513,
                         50.630555
-                  ]
-            },
-            {
-                  "name": "Étang du Blanc Gravier",
-                  "text": "Fehér kavicsos partú tó, erdős dombokkal körülvéve Fleronban.",
-                  "category": "natural",
-                  "coords": [
-                        5.586919,
-                        50.584577
-                  ]
-            },
-            {
-                  "name": "Étang des Prairies Basses",
-                  "text": "Az Étang des Prairies Basses Fleronban természetközeli környezetet biztosít a víznél.",
-                  "category": "natural",
-                  "coords": [
-                        5.594439,
-                        50.581782
                   ]
             },
             {
@@ -73495,24 +71407,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Étang du Blanc Gravier",
-                  "text": "Un iaz cu maluri de pietriș alb, înconjurat de dealuri împădurite în Fleron.",
-                  "category": "natural",
-                  "coords": [
-                        5.586919,
-                        50.584577
-                  ]
-            },
-            {
-                  "name": "Étang des Prairies Basses",
-                  "text": "Étang des Prairies Basses din Fleron oferă un cadru natural lângă apă.",
-                  "category": "natural",
-                  "coords": [
-                        5.594439,
-                        50.581782
-                  ]
-            },
-            {
                   "name": "Centre de loisirs",
                   "text": "Centre de loisirs din Fleron oferă diverse posibilități de joacă pentru copii.",
                   "category": "family",
@@ -73575,24 +71469,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         5.694513,
                         50.630555
-                  ]
-            },
-            {
-                  "name": "Étang du Blanc Gravier",
-                  "text": "A pond with white gravel shores, surrounded by wooded hills in Fleron.",
-                  "category": "natural",
-                  "coords": [
-                        5.586919,
-                        50.584577
-                  ]
-            },
-            {
-                  "name": "Étang des Prairies Basses",
-                  "text": "Étang des Prairies Basses in Fleron provides a natural setting by the water.",
-                  "category": "natural",
-                  "coords": [
-                        5.594439,
-                        50.581782
                   ]
             },
             {
@@ -74868,57 +72744,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Mi12",
-                  "text": "Mi12 in Gilly bietet als Spielhalle spannende Unterhaltung mit modernen Automaten für Jugendliche und Familien.",
-                  "category": "family",
-                  "coords": [
-                        4.458054,
-                        50.419969
-                  ]
-            },
-            {
-                  "name": "Musée des chasseurs à pieds",
-                  "text": "Das Musée des chasseurs à pieds in Gilly widmet sich der Geschichte der leichten Infanterie. Die Ausstellungen zeigen Uniformen und Ausrüstungsgegenstände aus verschiedenen Epochen.",
-                  "category": "museum",
-                  "coords": [
-                        4.451158,
-                        50.411127
-                  ]
-            },
-            {
-                  "name": "Musée des Beaux-Arts de Charleroi",
-                  "text": "Das Musée des Beaux-Arts de Charleroi beherbergt eine bedeutende Sammlung wallonischer Kunstwerke in Gilly. Es bietet einen tiefen Einblick in die regionale Malerei und Bildhauerei.",
-                  "category": "museum",
-                  "coords": [
-                        4.453346,
-                        50.412238
-                  ]
-            },
-            {
                   "name": "Ancienne Abbaye de Soleilmont",
                   "text": "Die Ancienne Abbaye de Soleilmont ist eine ehemalige Zisterzienserabtei, die heute als Ausflugsziel in Gilly dient. Das historische Gelände lädt zu Spaziergängen durch die geschichtsträchtige Anlage ein.",
                   "category": "recreational",
                   "coords": [
                         4.501326,
                         50.437902
-                  ]
-            },
-            {
-                  "name": "Palais des Beaux-Arts",
-                  "text": "Das Palais des Beaux-Arts in Gilly ist ein bedeutendes Kulturzentrum für Theater und Musik. Es bietet ein vielfältiges Programm an Aufführungen in einem beeindruckenden architektonischen Rahmen.",
-                  "category": "cultural",
-                  "coords": [
-                        4.442563,
-                        50.413858
-                  ]
-            },
-            {
-                  "name": "BPS22",
-                  "text": "Das BPS22 ist ein Museum für zeitgenössische Kunst, das sich in einem historischen Industriegebäude in Gilly befindet. Es präsentiert innovative Ausstellungen regionaler und internationaler Künstler.",
-                  "category": "museum",
-                  "coords": [
-                        4.446035,
-                        50.416739
                   ]
             },
             {
@@ -75003,15 +72834,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Maison Magritte",
-                  "text": "Die Maison Magritte in Gilly ist ein Denkmal, das an das Leben und Werk des berühmten Malers erinnert. Es ist ein kultureller Anziehungspunkt für Liebhaber des Surrealismus.",
-                  "category": "historical",
-                  "coords": [
-                        4.52323,
-                        50.407892
-                  ]
-            },
-            {
                   "name": "Statue de Jules Destrée",
                   "text": "Die Statue de Jules Destrée ehrt den bedeutenden wallonischen Politiker in Gilly. Sie steht an einem zentralen Punkt und erinnert an seinen Einfluss auf die regionale Identität.",
                   "category": "historical",
@@ -75086,57 +72908,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Mi12",
-                  "text": "A gilly-i Mi12 izgalmas szórakozást kínál modern játékgépekkel fiataloknak és családoknak.",
-                  "category": "family",
-                  "coords": [
-                        4.458054,
-                        50.419969
-                  ]
-            },
-            {
-                  "name": "Musée des chasseurs à pieds",
-                  "text": "A gilly-i Musée des chasseurs à pieds a könnyűgyalogság történetének szentelt múzeum. A kiállítások különböző korszakok egyenruháit és felszereléseit mutatják be.",
-                  "category": "museum",
-                  "coords": [
-                        4.451158,
-                        50.411127
-                  ]
-            },
-            {
-                  "name": "Musée des Beaux-Arts de Charleroi",
-                  "text": "A gilly-i Musée des Beaux-Arts de Charleroi a vallon művészeti alkotások jelentős gyűjteményének ad otthont. Mély betekintést nyújt a régió festészetébe és szobrászatába.",
-                  "category": "museum",
-                  "coords": [
-                        4.453346,
-                        50.412238
-                  ]
-            },
-            {
                   "name": "Ancienne Abbaye de Soleilmont",
                   "text": "Az Ancienne Abbaye de Soleilmont egy egykori ciszterci apátság, amely ma kirándulóhelyként szolgál Gillyben. A történelmi terület sétára hívja a látogatókat a múltat idéző falak között.",
                   "category": "recreational",
                   "coords": [
                         4.501326,
                         50.437902
-                  ]
-            },
-            {
-                  "name": "Palais des Beaux-Arts",
-                  "text": "A gilly-i Palais des Beaux-Arts a színház és a zene egyik jelentős kulturális központja. Változatos előadási programot kínál lenyűgöző építészeti környezetben.",
-                  "category": "cultural",
-                  "coords": [
-                        4.442563,
-                        50.413858
-                  ]
-            },
-            {
-                  "name": "BPS22",
-                  "text": "A BPS22 egy kortárs művészeti múzeum, amely egy történelmi ipari épületben található Gillyben. Regionális és nemzetközi művészek innovatív kiállításait mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        4.446035,
-                        50.416739
                   ]
             },
             {
@@ -75221,15 +72998,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Maison Magritte",
-                  "text": "A gilly-i Maison Magritte egy emlékmű, amely a híres festő életére és munkásságára emlékeztet. A szürrealizmus kedvelői számára kulturális vonzerőt jelent.",
-                  "category": "historical",
-                  "coords": [
-                        4.52323,
-                        50.407892
-                  ]
-            },
-            {
                   "name": "Statue de Jules Destrée",
                   "text": "A Statue de Jules Destrée a jelentős vallon politikus előtt tiszteleg Gillyben. Egy központi helyen áll, emlékeztetve a regionális identitásra gyakorolt hatására.",
                   "category": "historical",
@@ -75304,57 +73072,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Mi12",
-                  "text": "Mi12 din Gilly oferă divertisment captivant cu aparate moderne pentru tineri și familii.",
-                  "category": "family",
-                  "coords": [
-                        4.458054,
-                        50.419969
-                  ]
-            },
-            {
-                  "name": "Musée des chasseurs à pieds",
-                  "text": "Musée des chasseurs à pieds din Gilly este un muzeu dedicat istoriei infanteriei ușoare. Expozițiile prezintă uniforme și echipamente din diferite epoci.",
-                  "category": "museum",
-                  "coords": [
-                        4.451158,
-                        50.411127
-                  ]
-            },
-            {
-                  "name": "Musée des Beaux-Arts de Charleroi",
-                  "text": "Musée des Beaux-Arts de Charleroi găzduiește o colecție importantă de opere de artă valone în Gilly. Acesta oferă o perspectivă profundă asupra picturii și sculpturii regionale.",
-                  "category": "museum",
-                  "coords": [
-                        4.453346,
-                        50.412238
-                  ]
-            },
-            {
                   "name": "Ancienne Abbaye de Soleilmont",
                   "text": "Ancienne Abbaye de Soleilmont este o fostă abație cisterciană care servește astăzi ca destinație de agrement în Gilly. Terenul istoric invită la plimbări prin ansamblul plin de istorie.",
                   "category": "recreational",
                   "coords": [
                         4.501326,
                         50.437902
-                  ]
-            },
-            {
-                  "name": "Palais des Beaux-Arts",
-                  "text": "Palais des Beaux-Arts din Gilly este un centru cultural important pentru teatru și muzică. Acesta oferă un program variat de spectacole într-un cadru arhitectural impresionant.",
-                  "category": "cultural",
-                  "coords": [
-                        4.442563,
-                        50.413858
-                  ]
-            },
-            {
-                  "name": "BPS22",
-                  "text": "BPS22 este un muzeu de artă contemporană situat într-o clădire industrială istorică din Gilly. Acesta prezintă expoziții inovatoare ale artiștilor regionali și internaționali.",
-                  "category": "museum",
-                  "coords": [
-                        4.446035,
-                        50.416739
                   ]
             },
             {
@@ -75439,15 +73162,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Maison Magritte",
-                  "text": "Maison Magritte din Gilly este un monument care amintește de viața și opera celebrului pictor. Este un punct de atracție culturală pentru iubitorii suprarealismului.",
-                  "category": "historical",
-                  "coords": [
-                        4.52323,
-                        50.407892
-                  ]
-            },
-            {
                   "name": "Statue de Jules Destrée",
                   "text": "Statue de Jules Destrée îl onorează pe importantul politician valon în Gilly. Aceasta se află într-un punct central și amintește de influența sa asupra identității regionale.",
                   "category": "historical",
@@ -75522,57 +73236,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Mi12",
-                  "text": "Mi12 in Gilly offers exciting entertainment with modern arcade games for teens and families.",
-                  "category": "family",
-                  "coords": [
-                        4.458054,
-                        50.419969
-                  ]
-            },
-            {
-                  "name": "Musée des chasseurs à pieds",
-                  "text": "The Musée des chasseurs à pieds in Gilly is a museum dedicated to the history of the light infantry. Exhibits showcase uniforms and equipment from various eras.",
-                  "category": "museum",
-                  "coords": [
-                        4.451158,
-                        50.411127
-                  ]
-            },
-            {
-                  "name": "Musée des Beaux-Arts de Charleroi",
-                  "text": "The Musée des Beaux-Arts de Charleroi houses a significant collection of Walloon artworks in Gilly. It offers a deep insight into regional painting and sculpture.",
-                  "category": "museum",
-                  "coords": [
-                        4.453346,
-                        50.412238
-                  ]
-            },
-            {
                   "name": "Ancienne Abbaye de Soleilmont",
                   "text": "The Ancienne Abbaye de Soleilmont is a former Cistercian abbey that now serves as a leisure destination in Gilly. The historic grounds invite visitors for walks through the storied complex.",
                   "category": "recreational",
                   "coords": [
                         4.501326,
                         50.437902
-                  ]
-            },
-            {
-                  "name": "Palais des Beaux-Arts",
-                  "text": "The Palais des Beaux-Arts in Gilly is a major cultural center for theatre and music. It offers a diverse program of performances within an impressive architectural setting.",
-                  "category": "cultural",
-                  "coords": [
-                        4.442563,
-                        50.413858
-                  ]
-            },
-            {
-                  "name": "BPS22",
-                  "text": "BPS22 is a museum of contemporary art located in a historic industrial building in Gilly. It showcases innovative exhibitions by regional and international artists.",
-                  "category": "museum",
-                  "coords": [
-                        4.446035,
-                        50.416739
                   ]
             },
             {
@@ -75654,15 +73323,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.451701,
                         50.415731
-                  ]
-            },
-            {
-                  "name": "Maison Magritte",
-                  "text": "The Maison Magritte in Gilly is a monument commemorating the life and work of the famous painter. It is a cultural attraction for lovers of surrealism.",
-                  "category": "historical",
-                  "coords": [
-                        4.52323,
-                        50.407892
                   ]
             },
             {
@@ -75795,15 +73455,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Château Cockerill",
-                  "text": "Historisches Schloss, ehemalige Residenz der Fürstbischöfe.",
-                  "category": "castle",
-                  "coords": [
-                        5.511893,
-                        50.615792
-                  ]
-            },
-            {
                   "name": "Château de Mons-lez-Liège",
                   "text": "Ein Schloss aus dem 17. Jahrhundert in Grace-Hollogne, das Château de Mons-lez-Liège.",
                   "category": "castle",
@@ -75893,15 +73544,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         5.465251,
                         50.607861
-                  ]
-            },
-            {
-                  "name": "Château Cockerill",
-                  "text": "Történelmi kastély, a hercegérsekek egykori rezidenciája.",
-                  "category": "castle",
-                  "coords": [
-                        5.511893,
-                        50.615792
                   ]
             },
             {
@@ -75997,15 +73639,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Château Cockerill",
-                  "text": "Castel istoric, fostă reședință a prinților-episcopi.",
-                  "category": "castle",
-                  "coords": [
-                        5.511893,
-                        50.615792
-                  ]
-            },
-            {
                   "name": "Château de Mons-lez-Liège",
                   "text": "Un castel din secolul al XVII-lea în Grace-Hollogne, Château de Mons-lez-Liège.",
                   "category": "castle",
@@ -76095,15 +73728,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         5.465251,
                         50.607861
-                  ]
-            },
-            {
-                  "name": "Château Cockerill",
-                  "text": "Historic castle, former residence of the Prince-Bishops.",
-                  "category": "castle",
-                  "coords": [
-                        5.511893,
-                        50.615792
                   ]
             },
             {
@@ -78576,15 +76200,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Heilige Familiekerk",
-                  "text": "Ein der Heiligen Familie geweihtes Gotteshaus in Kapellen.",
-                  "category": "religious",
-                  "coords": [
-                        4.471262,
-                        51.301678
-                  ]
-            },
-            {
                   "name": "Sint-Theresia van het Kind Jezuskerk",
                   "text": "Eine der heiligen Theresia vom Kinde Jesus geweihte Kirche.",
                   "category": "religious",
@@ -78863,15 +76478,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.45329,
                         51.280077
-                  ]
-            },
-            {
-                  "name": "Heilige Familiekerk",
-                  "text": "A Szent Családnak szentelt templom Kapellenben.",
-                  "category": "religious",
-                  "coords": [
-                        4.471262,
-                        51.301678
                   ]
             },
             {
@@ -79156,15 +76762,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Heilige Familiekerk",
-                  "text": "Un lăcaș de cult dedicat Sfintei Familii în Kapellen.",
-                  "category": "religious",
-                  "coords": [
-                        4.471262,
-                        51.301678
-                  ]
-            },
-            {
                   "name": "Sint-Theresia van het Kind Jezuskerk",
                   "text": "O biserică dedicată Sfintei Tereza a Pruncului Iisus.",
                   "category": "religious",
@@ -79443,15 +77040,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.45329,
                         51.280077
-                  ]
-            },
-            {
-                  "name": "Heilige Familiekerk",
-                  "text": "A place of worship dedicated to the Holy Family in Kapellen.",
-                  "category": "religious",
-                  "coords": [
-                        4.471262,
-                        51.301678
                   ]
             },
             {
@@ -82617,30 +80205,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Kasteel Altena",
-                  "text": "Ein historisches Schloss in Mortsel, das für seine Architektur bekannt ist.",
-                  "category": "castle",
-                  "coords": [
-                        4.449653,
-                        51.139741
-                  ]
-            },
-            {
                   "name": "Museum Stampe & Vertongen",
                   "text": "Ein Luftfahrtmuseum in Mortsel, das der Geschichte der Flugzeugbauer Stampe und Vertongen gewidmet ist.",
                   "category": "museum",
                   "coords": [
                         4.45204,
                         51.189612
-                  ]
-            },
-            {
-                  "name": "Kasteel Weyninckhoven",
-                  "text": "Ein historisches Schlossgebäude in Mortsel, umgeben von Grünanlagen.",
-                  "category": "castle",
-                  "coords": [
-                        4.474507,
-                        51.146172
                   ]
             },
             {
@@ -82659,15 +80229,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.463064,
                         51.161847
-                  ]
-            },
-            {
-                  "name": "Hoverberg",
-                  "text": "Ein denkmalgeschütztes Schloss (Klasse 4) in Mortsel.",
-                  "category": "castle",
-                  "coords": [
-                        4.462825,
-                        51.156198
                   ]
             },
             {
@@ -82704,24 +80265,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.486627,
                         51.159686
-                  ]
-            },
-            {
-                  "name": "Edegemsebeekvallei-Pluysegem",
-                  "text": "Ein Naturschutzgebiet im Tal des Edegemsebeek bei Mortsel.",
-                  "category": "natural",
-                  "coords": [
-                        4.444505,
-                        51.145076
-                  ]
-            },
-            {
-                  "name": "Edegemsebeekvallei-Aan den Boerenlegher",
-                  "text": "Teil eines Naturschutzgebiets in Mortsel, das zur Erhaltung der lokalen Flora und Fauna dient.",
-                  "category": "natural",
-                  "coords": [
-                        4.44341,
-                        51.146833
                   ]
             },
             {
@@ -82806,15 +80349,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Oude Pastorie",
-                  "text": "Ein historisches Gebäude in Mortsel, das heute als Sehenswürdigkeit dient.",
-                  "category": "landmark",
-                  "coords": [
-                        4.444183,
-                        51.156212
-                  ]
-            },
-            {
                   "name": "FIBAC",
                   "text": "Eine private Kunstgalerie in Mortsel mit wechselnden Ausstellungen.",
                   "category": "museum",
@@ -82839,15 +80373,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.477705,
                         51.16754
-                  ]
-            },
-            {
-                  "name": "Sint-Laurentiuskerk",
-                  "text": "Eine historische Kirche in Mortsel, die der lokalen Gemeinde dient.",
-                  "category": "religious",
-                  "coords": [
-                        4.470631,
-                        51.154358
                   ]
             },
             {
@@ -82887,15 +80412,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Onze-Lieve-Vrouw-van-Lourdesbasiliek",
-                  "text": "Eine bedeutende Basilika in Mortsel, die ein wichtiges Ziel für Pilger ist.",
-                  "category": "religious",
-                  "coords": [
-                        4.450696,
-                        51.15634
-                  ]
-            },
-            {
                   "name": "Sint-Benedictuskerk",
                   "text": "Eine im neogotischen Stil errichtete Kirche im Zentrum von Mortsel.",
                   "category": "religious",
@@ -82911,15 +80427,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.45371,
                         51.178231
-                  ]
-            },
-            {
-                  "name": "Onze-Lieve-Vrouwkapel",
-                  "text": "Eine kleine Kapelle in Mortsel, die der Jungfrau Maria gewidmet ist.",
-                  "category": "landmark",
-                  "coords": [
-                        4.479218,
-                        51.151668
                   ]
             },
             {
@@ -82947,15 +80454,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.421529,
                         51.174964
-                  ]
-            },
-            {
-                  "name": "De soeplepel",
-                  "text": "Spielplatz in Form einer Suppenkelle mit Rutschen und Kletternetzen in Mortsel.",
-                  "category": "family",
-                  "coords": [
-                        4.445426,
-                        51.139641
                   ]
             },
             {
@@ -83019,33 +80517,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.433289,
                         51.165686
-                  ]
-            },
-            {
-                  "name": "Esplanade school",
-                  "text": "Die Esplanade school in Mortsel verfügt über einen einladenden Spielbereich.",
-                  "category": "family",
-                  "coords": [
-                        4.445659,
-                        51.154175
-                  ]
-            },
-            {
-                  "name": "Speeltuin 't Meihof",
-                  "text": "Eingezäunter Spielplatz mit Zipline und Schaukeln im Wohnviertel ’t Meihof in Mortsel.",
-                  "category": "family",
-                  "coords": [
-                        4.452469,
-                        51.156862
-                  ]
-            },
-            {
-                  "name": "Speelbos 't Meihof",
-                  "text": "Speelbos 't Meihof in Mortsel lädt Kinder zu Entdeckungen in der Natur ein.",
-                  "category": "family",
-                  "coords": [
-                        4.453398,
-                        51.156722
                   ]
             },
             {
@@ -83114,30 +80585,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Kasteel Altena",
-                  "text": "Egy történelmi kastély Mortselben, amely építészetéről ismert.",
-                  "category": "castle",
-                  "coords": [
-                        4.449653,
-                        51.139741
-                  ]
-            },
-            {
                   "name": "Museum Stampe & Vertongen",
                   "text": "Repülési múzeum Mortselben, amely Stampe és Vertongen repülőgépgyártók történetét mutatja be.",
                   "category": "museum",
                   "coords": [
                         4.45204,
                         51.189612
-                  ]
-            },
-            {
-                  "name": "Kasteel Weyninckhoven",
-                  "text": "Egy történelmi kastélyépület Mortselben, zöldövezettel körülvéve.",
-                  "category": "castle",
-                  "coords": [
-                        4.474507,
-                        51.146172
                   ]
             },
             {
@@ -83156,15 +80609,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.463064,
                         51.161847
-                  ]
-            },
-            {
-                  "name": "Hoverberg",
-                  "text": "Műemlék vár (4. osztály) Mortselben.",
-                  "category": "castle",
-                  "coords": [
-                        4.462825,
-                        51.156198
                   ]
             },
             {
@@ -83201,24 +80645,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.486627,
                         51.159686
-                  ]
-            },
-            {
-                  "name": "Edegemsebeekvallei-Pluysegem",
-                  "text": "Egy természetvédelmi terület az Edegemsebeek völgyében, Mortsel közelében.",
-                  "category": "natural",
-                  "coords": [
-                        4.444505,
-                        51.145076
-                  ]
-            },
-            {
-                  "name": "Edegemsebeekvallei-Aan den Boerenlegher",
-                  "text": "Egy természetvédelmi terület része Mortselben, amely a helyi flóra és fauna megőrzését szolgálja.",
-                  "category": "natural",
-                  "coords": [
-                        4.44341,
-                        51.146833
                   ]
             },
             {
@@ -83303,15 +80729,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Oude Pastorie",
-                  "text": "Egy történelmi épület Mortselben, amely ma látnivalóként szolgál.",
-                  "category": "landmark",
-                  "coords": [
-                        4.444183,
-                        51.156212
-                  ]
-            },
-            {
                   "name": "FIBAC",
                   "text": "Egy magángaléria Mortselben, időszaki kiállításokkal.",
                   "category": "museum",
@@ -83336,15 +80753,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.477705,
                         51.16754
-                  ]
-            },
-            {
-                  "name": "Sint-Laurentiuskerk",
-                  "text": "Egy történelmi templom Mortselben, amely a helyi közösséget szolgálja.",
-                  "category": "religious",
-                  "coords": [
-                        4.470631,
-                        51.154358
                   ]
             },
             {
@@ -83384,15 +80792,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Onze-Lieve-Vrouw-van-Lourdesbasiliek",
-                  "text": "Egy jelentős bazilika Mortselben, amely fontos zarándokhely.",
-                  "category": "religious",
-                  "coords": [
-                        4.450696,
-                        51.15634
-                  ]
-            },
-            {
                   "name": "Sint-Benedictuskerk",
                   "text": "Egy neogótikus stílusban épült templom Mortsel központjában.",
                   "category": "religious",
@@ -83408,15 +80807,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.45371,
                         51.178231
-                  ]
-            },
-            {
-                  "name": "Onze-Lieve-Vrouwkapel",
-                  "text": "Szűz Máriának szentelt kis kápolna Mortselben.",
-                  "category": "landmark",
-                  "coords": [
-                        4.479218,
-                        51.151668
                   ]
             },
             {
@@ -83444,15 +80834,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.421529,
                         51.174964
-                  ]
-            },
-            {
-                  "name": "De soeplepel",
-                  "text": "Játszótér leveseskanál formában, csúszdákkal és mászóhálókkal, Mortselban.",
-                  "category": "family",
-                  "coords": [
-                        4.445426,
-                        51.139641
                   ]
             },
             {
@@ -83516,33 +80897,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.433289,
                         51.165686
-                  ]
-            },
-            {
-                  "name": "Esplanade school",
-                  "text": "A mortseli Esplanade school hívogató játékterülettel rendelkezik.",
-                  "category": "family",
-                  "coords": [
-                        4.445659,
-                        51.154175
-                  ]
-            },
-            {
-                  "name": "Speeltuin 't Meihof",
-                  "text": "Bekerített játszótér kötélpályával és hintákkal a mortseli ’t Meihof negyedben.",
-                  "category": "family",
-                  "coords": [
-                        4.452469,
-                        51.156862
-                  ]
-            },
-            {
-                  "name": "Speelbos 't Meihof",
-                  "text": "A Speelbos 't Meihof Mortselben természeti felfedezésekre hívja a gyerekeket.",
-                  "category": "family",
-                  "coords": [
-                        4.453398,
-                        51.156722
                   ]
             },
             {
@@ -83611,30 +80965,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Kasteel Altena",
-                  "text": "Un castel istoric în Mortsel, cunoscut pentru arhitectura sa.",
-                  "category": "castle",
-                  "coords": [
-                        4.449653,
-                        51.139741
-                  ]
-            },
-            {
                   "name": "Museum Stampe & Vertongen",
                   "text": "Un muzeu al aviației în Mortsel, dedicat istoriei constructorilor de avioane Stampe și Vertongen.",
                   "category": "museum",
                   "coords": [
                         4.45204,
                         51.189612
-                  ]
-            },
-            {
-                  "name": "Kasteel Weyninckhoven",
-                  "text": "O clădire istorică de castel în Mortsel, înconjurată de spații verzi.",
-                  "category": "castle",
-                  "coords": [
-                        4.474507,
-                        51.146172
                   ]
             },
             {
@@ -83653,15 +80989,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.463064,
                         51.161847
-                  ]
-            },
-            {
-                  "name": "Hoverberg",
-                  "text": "Un castel protejat ca monument istoric (clasa 4) în Mortsel.",
-                  "category": "castle",
-                  "coords": [
-                        4.462825,
-                        51.156198
                   ]
             },
             {
@@ -83698,24 +81025,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.486627,
                         51.159686
-                  ]
-            },
-            {
-                  "name": "Edegemsebeekvallei-Pluysegem",
-                  "text": "O rezervație naturală în valea Edegemsebeek, lângă Mortsel.",
-                  "category": "natural",
-                  "coords": [
-                        4.444505,
-                        51.145076
-                  ]
-            },
-            {
-                  "name": "Edegemsebeekvallei-Aan den Boerenlegher",
-                  "text": "Parte a unei rezervații naturale din Mortsel, dedicată conservării florei și faunei locale.",
-                  "category": "natural",
-                  "coords": [
-                        4.44341,
-                        51.146833
                   ]
             },
             {
@@ -83800,15 +81109,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Oude Pastorie",
-                  "text": "O clădire istorică în Mortsel care astăzi servește ca atracție.",
-                  "category": "landmark",
-                  "coords": [
-                        4.444183,
-                        51.156212
-                  ]
-            },
-            {
                   "name": "FIBAC",
                   "text": "O galerie de artă privată în Mortsel cu expoziții temporare.",
                   "category": "museum",
@@ -83833,15 +81133,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.477705,
                         51.16754
-                  ]
-            },
-            {
-                  "name": "Sint-Laurentiuskerk",
-                  "text": "O biserică istorică în Mortsel, care deservește comunitatea locală.",
-                  "category": "religious",
-                  "coords": [
-                        4.470631,
-                        51.154358
                   ]
             },
             {
@@ -83881,15 +81172,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Onze-Lieve-Vrouw-van-Lourdesbasiliek",
-                  "text": "O bazilică importantă în Mortsel, care este o destinație majoră pentru pelerini.",
-                  "category": "religious",
-                  "coords": [
-                        4.450696,
-                        51.15634
-                  ]
-            },
-            {
                   "name": "Sint-Benedictuskerk",
                   "text": "O biserică construită în stil neogotic în centrul orașului Mortsel.",
                   "category": "religious",
@@ -83905,15 +81187,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.45371,
                         51.178231
-                  ]
-            },
-            {
-                  "name": "Onze-Lieve-Vrouwkapel",
-                  "text": "O mică capelă în Mortsel dedicată Fecioarei Maria.",
-                  "category": "landmark",
-                  "coords": [
-                        4.479218,
-                        51.151668
                   ]
             },
             {
@@ -83941,15 +81214,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.421529,
                         51.174964
-                  ]
-            },
-            {
-                  "name": "De soeplepel",
-                  "text": "Un loc de joacă în formă de polonic, cu tobogane și plase de cățărat în Mortsel.",
-                  "category": "family",
-                  "coords": [
-                        4.445426,
-                        51.139641
                   ]
             },
             {
@@ -84013,33 +81277,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.433289,
                         51.165686
-                  ]
-            },
-            {
-                  "name": "Esplanade school",
-                  "text": "Esplanade school din Mortsel dispune de o zonă de joacă primitoare.",
-                  "category": "family",
-                  "coords": [
-                        4.445659,
-                        51.154175
-                  ]
-            },
-            {
-                  "name": "Speeltuin 't Meihof",
-                  "text": "Un loc de joacă împrejmuit cu tiroliană și leagăne în cartierul ’t Meihof din Mortsel.",
-                  "category": "family",
-                  "coords": [
-                        4.452469,
-                        51.156862
-                  ]
-            },
-            {
-                  "name": "Speelbos 't Meihof",
-                  "text": "Speelbos 't Meihof din Mortsel invită copiii la explorări în natură.",
-                  "category": "family",
-                  "coords": [
-                        4.453398,
-                        51.156722
                   ]
             },
             {
@@ -84108,30 +81345,12 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Kasteel Altena",
-                  "text": "A historic castle in Mortsel, known for its architecture.",
-                  "category": "castle",
-                  "coords": [
-                        4.449653,
-                        51.139741
-                  ]
-            },
-            {
                   "name": "Museum Stampe & Vertongen",
                   "text": "An aviation museum in Mortsel dedicated to the history of aircraft builders Stampe and Vertongen.",
                   "category": "museum",
                   "coords": [
                         4.45204,
                         51.189612
-                  ]
-            },
-            {
-                  "name": "Kasteel Weyninckhoven",
-                  "text": "A historic castle building in Mortsel surrounded by greenery.",
-                  "category": "castle",
-                  "coords": [
-                        4.474507,
-                        51.146172
                   ]
             },
             {
@@ -84150,15 +81369,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.463064,
                         51.161847
-                  ]
-            },
-            {
-                  "name": "Hoverberg",
-                  "text": "A protected heritage castle in Mortsel.",
-                  "category": "castle",
-                  "coords": [
-                        4.462825,
-                        51.156198
                   ]
             },
             {
@@ -84195,24 +81405,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.486627,
                         51.159686
-                  ]
-            },
-            {
-                  "name": "Edegemsebeekvallei-Pluysegem",
-                  "text": "A nature reserve in the valley of the Edegemsebeek near Mortsel.",
-                  "category": "natural",
-                  "coords": [
-                        4.444505,
-                        51.145076
-                  ]
-            },
-            {
-                  "name": "Edegemsebeekvallei-Aan den Boerenlegher",
-                  "text": "Part of a nature reserve in Mortsel dedicated to preserving local flora and fauna.",
-                  "category": "natural",
-                  "coords": [
-                        4.44341,
-                        51.146833
                   ]
             },
             {
@@ -84297,15 +81489,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Oude Pastorie",
-                  "text": "A historic building in Mortsel that now serves as an attraction.",
-                  "category": "landmark",
-                  "coords": [
-                        4.444183,
-                        51.156212
-                  ]
-            },
-            {
                   "name": "FIBAC",
                   "text": "A private art gallery in Mortsel featuring rotating exhibitions.",
                   "category": "museum",
@@ -84330,15 +81513,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.477705,
                         51.16754
-                  ]
-            },
-            {
-                  "name": "Sint-Laurentiuskerk",
-                  "text": "A historic church in Mortsel serving the local community.",
-                  "category": "religious",
-                  "coords": [
-                        4.470631,
-                        51.154358
                   ]
             },
             {
@@ -84378,15 +81552,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   ]
             },
             {
-                  "name": "Onze-Lieve-Vrouw-van-Lourdesbasiliek",
-                  "text": "A significant basilica in Mortsel that is a major destination for pilgrims.",
-                  "category": "religious",
-                  "coords": [
-                        4.450696,
-                        51.15634
-                  ]
-            },
-            {
                   "name": "Sint-Benedictuskerk",
                   "text": "A church built in neo-Gothic style in the center of Mortsel.",
                   "category": "religious",
@@ -84402,15 +81567,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.45371,
                         51.178231
-                  ]
-            },
-            {
-                  "name": "Onze-Lieve-Vrouwkapel",
-                  "text": "A small chapel in Mortsel dedicated to the Virgin Mary.",
-                  "category": "landmark",
-                  "coords": [
-                        4.479218,
-                        51.151668
                   ]
             },
             {
@@ -84438,15 +81594,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.421529,
                         51.174964
-                  ]
-            },
-            {
-                  "name": "De soeplepel",
-                  "text": "A playground shaped like a soup ladle with slides and climbing nets in Mortsel.",
-                  "category": "family",
-                  "coords": [
-                        4.445426,
-                        51.139641
                   ]
             },
             {
@@ -84510,33 +81657,6 @@ imageHint: "Knokke luxury storefronts and beach",
                   "coords": [
                         4.433289,
                         51.165686
-                  ]
-            },
-            {
-                  "name": "Esplanade school",
-                  "text": "Esplanade school in Mortsel features an inviting play area.",
-                  "category": "family",
-                  "coords": [
-                        4.445659,
-                        51.154175
-                  ]
-            },
-            {
-                  "name": "Speeltuin 't Meihof",
-                  "text": "A fenced playground with a zip line and swings in the ’t Meihof neighborhood of Mortsel.",
-                  "category": "family",
-                  "coords": [
-                        4.452469,
-                        51.156862
-                  ]
-            },
-            {
-                  "name": "Speelbos 't Meihof",
-                  "text": "Speelbos 't Meihof in Mortsel invites children for nature explorations.",
-                  "category": "family",
-                  "coords": [
-                        4.453398,
-                        51.156722
                   ]
             },
             {

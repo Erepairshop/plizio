@@ -3155,51 +3155,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     id: "refinery-barrancabermeja-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Iguana descansando",
-                  "text": "Diese große Metallskulptur eines ruhenden Leguans ist ein Wahrzeichen und beliebtes Fotomotiv in Barrancabermeja.",
-                  "category": "historical",
-                  "coords": [
-                        -73.862056,
-                        7.078266
-                  ]
-            },
-            {
-                  "name": "Cupula la Pollera Colorada",
-                  "text": "Dieses Denkmal ehrt die 'Pollera Colorada', ein ikonisches Lied der kolumbianischen Folklore, und stellt eine tanzende Frau dar.",
-                  "category": "historical",
-                  "coords": [
-                        -73.854291,
-                        7.068484
-                  ]
-            },
-            {
-                  "name": "Monumento El tapir",
-                  "text": "Diese Statue stellt den einheimischen Tapir dar, ein symbolisches Tier des tropischen Ökosystems der Region.",
-                  "category": "historical",
-                  "coords": [
-                        -73.855927,
-                        7.068431
-                  ]
-            },
-            {
-                  "name": "Plazoleta Cacique Pipatón",
-                  "text": "Dieser Platz ehrt den legendären Anführer des indigenen Volkes der Yariguí, der sich der spanischen Eroberung widersetzte.",
-                  "category": "historical",
-                  "coords": [
-                        -73.850165,
-                        7.063107
-                  ]
-            },
-            {
-                  "name": "CMDHM",
-                  "text": "Dieses Museum widmet sich der Sozialgeschichte und dem Gedenken an die Menschenrechte in der Region Magdalena Medio.",
-                  "category": "museum",
-                  "coords": [
-                        -73.855844,
-                        7.062669
-                  ]
-            },
-            {
                   "name": "Parque Indios Yariguies",
                   "text": "Dieser Park zeigt Statuen, die die ursprünglichen Yariguí-Einwohner des Gebiets um Barrancabermeja darstellen.",
                   "category": "landmark",
@@ -3224,15 +3179,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   "coords": [
                         -73.871255,
                         7.059984
-                  ]
-            },
-            {
-                  "name": "Parque Pueblo Nuevo",
-                  "text": "Ein schattiger Nachbarschaftspark mit Bänken, beliebt für lokale Familientreffen und Freizeitgestaltung.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.862351,
-                        7.066398
                   ]
             },
             {
@@ -3346,51 +3292,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Iguana descansando",
-                  "text": "Ez a pihenő leguánt ábrázoló nagy fémplasztika Barrancabermeja egyik jelképe és népszerű fotóhelyszíne.",
-                  "category": "historical",
-                  "coords": [
-                        -73.862056,
-                        7.078266
-                  ]
-            },
-            {
-                  "name": "Cupula la Pollera Colorada",
-                  "text": "Ez az emlékmű a kolumbiai folklór egyik ikonikus dalának, a „Pollera Colorada”-nak állít emléket egy táncoló nő alakjával.",
-                  "category": "historical",
-                  "coords": [
-                        -73.854291,
-                        7.068484
-                  ]
-            },
-            {
-                  "name": "Monumento El tapir",
-                  "text": "Ez a szobor az őshonos tapírt ábrázolja, amely a régió trópusi ökoszisztémájának jellegzetes állata.",
-                  "category": "historical",
-                  "coords": [
-                        -73.855927,
-                        7.068431
-                  ]
-            },
-            {
-                  "name": "Plazoleta Cacique Pipatón",
-                  "text": "Ez a tér a spanyol hódításnak ellenálló őslakos jarigúi nép legendás vezérének állít emléket.",
-                  "category": "historical",
-                  "coords": [
-                        -73.850165,
-                        7.063107
-                  ]
-            },
-            {
-                  "name": "CMDHM",
-                  "text": "Ez a múzeum a Magdalena Medio régió társadalomtörténetének és emberi jogi emlékezetének szentelt helyszín.",
-                  "category": "museum",
-                  "coords": [
-                        -73.855844,
-                        7.062669
-                  ]
-            },
-            {
                   "name": "Parque Indios Yariguies",
                   "text": "Ez a park a Barrancabermeja környékének eredeti jarigúi lakosait ábrázoló szobroknak ad otthont.",
                   "category": "landmark",
@@ -3415,15 +3316,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   "coords": [
                         -73.871255,
                         7.059984
-                  ]
-            },
-            {
-                  "name": "Parque Pueblo Nuevo",
-                  "text": "Egy árnyas lakótelepi park padokkal, amely népszerű a helyi családi összejövetelek és a szabadidő eltöltése körében.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.862351,
-                        7.066398
                   ]
             },
             {
@@ -3537,51 +3429,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Iguana descansando",
-                  "text": "Această sculptură mare de metal a unei iguane care se odihnește este un simbol și un loc popular pentru fotografii în Barrancabermeja.",
-                  "category": "historical",
-                  "coords": [
-                        -73.862056,
-                        7.078266
-                  ]
-            },
-            {
-                  "name": "Cupula la Pollera Colorada",
-                  "text": "Acest monument onorează „Pollera Colorada”, un cântec iconic al folclorului columbian, reprezentând o femeie care dansează.",
-                  "category": "historical",
-                  "coords": [
-                        -73.854291,
-                        7.068484
-                  ]
-            },
-            {
-                  "name": "Monumento El tapir",
-                  "text": "Această statuie înfățișează tapirul nativ, un animal simbolic al ecosistemului tropical din regiune.",
-                  "category": "historical",
-                  "coords": [
-                        -73.855927,
-                        7.068431
-                  ]
-            },
-            {
-                  "name": "Plazoleta Cacique Pipatón",
-                  "text": "Această piațetă îl onorează pe legendarul lider al poporului indigen Yariguí, care a rezistat cuceririi spaniole.",
-                  "category": "historical",
-                  "coords": [
-                        -73.850165,
-                        7.063107
-                  ]
-            },
-            {
-                  "name": "CMDHM",
-                  "text": "Acest muzeu este dedicat istoriei sociale și memoriei drepturilor omului din regiunea Magdalena Medio.",
-                  "category": "museum",
-                  "coords": [
-                        -73.855844,
-                        7.062669
-                  ]
-            },
-            {
                   "name": "Parque Indios Yariguies",
                   "text": "Acest parc prezintă statui care îi reprezintă pe locuitorii originali Yariguí din zona Barrancabermeja.",
                   "category": "landmark",
@@ -3606,15 +3453,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   "coords": [
                         -73.871255,
                         7.059984
-                  ]
-            },
-            {
-                  "name": "Parque Pueblo Nuevo",
-                  "text": "Un parc de cartier umbros, cu bănci, popular pentru întâlnirile locale de familie și relaxare.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.862351,
-                        7.066398
                   ]
             },
             {
@@ -3728,51 +3566,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Iguana descansando",
-                  "text": "This large metal sculpture of a resting iguana is a symbolic landmark and popular photo spot in Barrancabermeja.",
-                  "category": "historical",
-                  "coords": [
-                        -73.862056,
-                        7.078266
-                  ]
-            },
-            {
-                  "name": "Cupula la Pollera Colorada",
-                  "text": "This monument honors the 'Pollera Colorada', an iconic song of Colombian folklore, depicting a dancing woman.",
-                  "category": "historical",
-                  "coords": [
-                        -73.854291,
-                        7.068484
-                  ]
-            },
-            {
-                  "name": "Monumento El tapir",
-                  "text": "This statue depicts the native tapir, a symbolic animal of the region's tropical ecosystem.",
-                  "category": "historical",
-                  "coords": [
-                        -73.855927,
-                        7.068431
-                  ]
-            },
-            {
-                  "name": "Plazoleta Cacique Pipatón",
-                  "text": "This plaza honors the legendary leader of the indigenous Yariguí people who resisted the Spanish conquest.",
-                  "category": "historical",
-                  "coords": [
-                        -73.850165,
-                        7.063107
-                  ]
-            },
-            {
-                  "name": "CMDHM",
-                  "text": "This museum is dedicated to the social history and human rights memory of the Magdalena Medio region.",
-                  "category": "museum",
-                  "coords": [
-                        -73.855844,
-                        7.062669
-                  ]
-            },
-            {
                   "name": "Parque Indios Yariguies",
                   "text": "This park features statues representing the original Yariguí inhabitants of the Barrancabermeja area.",
                   "category": "landmark",
@@ -3797,15 +3590,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   "coords": [
                         -73.871255,
                         7.059984
-                  ]
-            },
-            {
-                  "name": "Parque Pueblo Nuevo",
-                  "text": "A shaded neighborhood park with benches, popular for local family gatherings and leisure.",
-                  "category": "landmark",
-                  "coords": [
-                        -73.862351,
-                        7.066398
                   ]
             },
             {
@@ -6578,24 +6362,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Iglesia Menor",
-                  "text": "Diese Kirche aus dem 19. Jahrhundert zeichnet sich durch ihre zwei hohen, weißen Türme und ihre neoklassizistische Fassade aus.",
-                  "category": "religious",
-                  "coords": [
-                        -73.086425,
-                        7.06243
-                  ]
-            },
-            {
-                  "name": "Tortugitas para niños",
-                  "text": "Dieser kleine Tierbereich ist auf Kinder ausgerichtet und beherbergt verschiedene Schildkrötenarten in einer natürlichen Umgebung.",
-                  "category": "recreational",
-                  "coords": [
-                        -73.095874,
-                        7.061229
-                  ]
-            },
-            {
                   "name": "Iglesia Mayor",
                   "text": "Diese Hauptkirche der Gemeinde besticht durch ihre imposante Architektur und ihre zentrale Lage am Hauptplatz.",
                   "category": "landmark",
@@ -6640,24 +6406,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   "coords": [
                         -73.195776,
                         7.08304
-                  ]
-            },
-            {
-                  "name": "Iglesia Menor",
-                  "text": "Ez a 19. századi templom két magas, fehér tornyával és neoklasszicista homlokzatával tűnik ki.",
-                  "category": "religious",
-                  "coords": [
-                        -73.086425,
-                        7.06243
-                  ]
-            },
-            {
-                  "name": "Tortugitas para niños",
-                  "text": "Ezt a gyerekeknek kialakított kis állatparkot különböző teknősfajok lakják természetes környezetben.",
-                  "category": "recreational",
-                  "coords": [
-                        -73.095874,
-                        7.061229
                   ]
             },
             {
@@ -6708,24 +6456,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Iglesia Menor",
-                  "text": "Această biserică din secolul al XIX-lea se remarcă prin cele două turnuri albe înalte și fațada sa neoclasică.",
-                  "category": "religious",
-                  "coords": [
-                        -73.086425,
-                        7.06243
-                  ]
-            },
-            {
-                  "name": "Tortugitas para niños",
-                  "text": "Această mică zonă cu animale este destinată copiilor și găzduiește diverse specii de broaște țestoase într-un cadru natural.",
-                  "category": "recreational",
-                  "coords": [
-                        -73.095874,
-                        7.061229
-                  ]
-            },
-            {
                   "name": "Iglesia Mayor",
                   "text": "Această biserică principală a localității impresionează prin arhitectura sa impunătoare și poziția centrală în piața principală.",
                   "category": "landmark",
@@ -6770,24 +6500,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   "coords": [
                         -73.195776,
                         7.08304
-                  ]
-            },
-            {
-                  "name": "Iglesia Menor",
-                  "text": "This 19th-century church is distinguished by its two tall white towers and neoclassical facade.",
-                  "category": "religious",
-                  "coords": [
-                        -73.086425,
-                        7.06243
-                  ]
-            },
-            {
-                  "name": "Tortugitas para niños",
-                  "text": "This small animal area is geared towards children and houses various turtle species in a natural setting.",
-                  "category": "recreational",
-                  "coords": [
-                        -73.095874,
-                        7.061229
                   ]
             },
             {
@@ -7816,15 +7528,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     id: "ingenio-manuelita-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Auditorio Gary Mintz",
-                  "text": "Ein modernes Auditorium, das als kulturelles Zentrum für akademische Vorträge und künstlerische Darbietungen dient.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.307865,
-                        3.512843
-                  ]
-            },
-            {
                   "name": "Monumento del Tractor Viejo (Oliver)",
                   "text": "Ein historischer Oliver-Traktor, der als Denkmal für das landwirtschaftliche Erbe der Region aufgestellt wurde.",
                   "category": "historical",
@@ -7834,39 +7537,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de convenciones Guillermo Barney Materon Amaime",
-                  "text": "Ein großes Kongresszentrum, das nach Guillermo Barney Materón benannt ist und regionale Veranstaltungen beherbergt.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.304852,
-                        3.525921
-                  ]
-            },
-            {
                   "name": "Estatua Simón Bolívar",
                   "text": "Eine Bronzestatue zu Ehren von Simón Bolívar, dem Befreier, auf einem zentralen Platz der Stadt.",
                   "category": "historical",
                   "coords": [
                         -76.300233,
                         3.52752
-                  ]
-            },
-            {
-                  "name": "Mariposario",
-                  "text": "Ein tropisches Schmetterlingshaus, in dem Besucher zahlreiche einheimische Arten in einem üppigen Garten beobachten können.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.285875,
-                        3.528727
-                  ]
-            },
-            {
-                  "name": "Bosque Municipal",
-                  "text": "Ein städtisches Waldreservat mit Wanderwegen und einer vielfältigen Flora, ideal für Naturbeobachtungen.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.287038,
-                        3.526538
                   ]
             },
             {
@@ -7894,15 +7570,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   "coords": [
                         -76.203114,
                         3.586333
-                  ]
-            },
-            {
-                  "name": "Parque del Azúcar",
-                  "text": "Ein wasserbasierter Freizeitpark mit Rutschen und Sportanlagen, der dem Erbe der Zuckerindustrie gewidmet ist.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.307792,
-                        3.540358
                   ]
             },
             {
@@ -8079,15 +7746,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Auditorio Gary Mintz",
-                  "text": "Modern auditorium, amely akadémiai előadások és művészeti előadások kulturális központjaként szolgál.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.307865,
-                        3.512843
-                  ]
-            },
-            {
                   "name": "Monumento del Tractor Viejo (Oliver)",
                   "text": "Egy történelmi Oliver traktor, amelyet a régió mezőgazdasági örökségének emlékműveként állítottak fel.",
                   "category": "historical",
@@ -8097,39 +7755,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de convenciones Guillermo Barney Materon Amaime",
-                  "text": "Nagy kongresszusi központ, amelyet Guillermo Barney Materónról neveztek el, és regionális eseményeknek ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.304852,
-                        3.525921
-                  ]
-            },
-            {
                   "name": "Estatua Simón Bolívar",
                   "text": "Simón Bolívar, a Felszabadító tiszteletére állított bronzszobor a város egyik központi terén.",
                   "category": "historical",
                   "coords": [
                         -76.300233,
                         3.52752
-                  ]
-            },
-            {
-                  "name": "Mariposario",
-                  "text": "Trópusi lepkeház, ahol a látogatók számos őshonos fajt figyelhetnek meg egy buja kertben.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.285875,
-                        3.528727
-                  ]
-            },
-            {
-                  "name": "Bosque Municipal",
-                  "text": "Városi erdőrezervátum tanösvényekkel és változatos flórával, ideális természetjáráshoz.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.287038,
-                        3.526538
                   ]
             },
             {
@@ -8157,15 +7788,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   "coords": [
                         -76.203114,
                         3.586333
-                  ]
-            },
-            {
-                  "name": "Parque del Azúcar",
-                  "text": "Vizes élménypark csúszdákkal és sportlétesítményekkel, amelyet a cukoripar örökségének szenteltek.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.307792,
-                        3.540358
                   ]
             },
             {
@@ -8342,15 +7964,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Auditorio Gary Mintz",
-                  "text": "Un auditoriu modern care servește drept centru cultural pentru prelegeri academice și spectacole artistice.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.307865,
-                        3.512843
-                  ]
-            },
-            {
                   "name": "Monumento del Tractor Viejo (Oliver)",
                   "text": "Un tractor istoric Oliver, expus ca monument al moștenirii agricole a regiunii.",
                   "category": "historical",
@@ -8360,39 +7973,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de convenciones Guillermo Barney Materon Amaime",
-                  "text": "Un mare centru de convenții numit după Guillermo Barney Materón, care găzduiește evenimente regionale.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.304852,
-                        3.525921
-                  ]
-            },
-            {
                   "name": "Estatua Simón Bolívar",
                   "text": "O statuie de bronz în onoarea lui Simón Bolívar, Eliberatorul, situată într-o piață centrală a orașului.",
                   "category": "historical",
                   "coords": [
                         -76.300233,
                         3.52752
-                  ]
-            },
-            {
-                  "name": "Mariposario",
-                  "text": "O casă tropicală pentru fluturi, unde vizitatorii pot observa numeroase specii native într-o grădină luxuriantă.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.285875,
-                        3.528727
-                  ]
-            },
-            {
-                  "name": "Bosque Municipal",
-                  "text": "O rezervație forestieră urbană cu poteci de drumeție și o floră diversă, ideală pentru observarea naturii.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.287038,
-                        3.526538
                   ]
             },
             {
@@ -8420,15 +8006,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   "coords": [
                         -76.203114,
                         3.586333
-                  ]
-            },
-            {
-                  "name": "Parque del Azúcar",
-                  "text": "Un parc de distracții acvatic cu tobogane și facilități sportive, dedicat moștenirii industriei zahărului.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.307792,
-                        3.540358
                   ]
             },
             {
@@ -8605,15 +8182,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       ],
       "en": [
             {
-                  "name": "Auditorio Gary Mintz",
-                  "text": "A modern auditorium serving as a cultural hub for academic lectures and artistic performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.307865,
-                        3.512843
-                  ]
-            },
-            {
                   "name": "Monumento del Tractor Viejo (Oliver)",
                   "text": "A historical Oliver tractor displayed as a monument to the region's agricultural heritage.",
                   "category": "historical",
@@ -8623,39 +8191,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Centro de convenciones Guillermo Barney Materon Amaime",
-                  "text": "A large convention center named after Guillermo Barney Materón, hosting regional events.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.304852,
-                        3.525921
-                  ]
-            },
-            {
                   "name": "Estatua Simón Bolívar",
                   "text": "A bronze statue honoring Simón Bolívar, the Liberator, located in a central plaza of the city.",
                   "category": "historical",
                   "coords": [
                         -76.300233,
                         3.52752
-                  ]
-            },
-            {
-                  "name": "Mariposario",
-                  "text": "A tropical butterfly house where visitors can observe numerous native species in a lush garden setting.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.285875,
-                        3.528727
-                  ]
-            },
-            {
-                  "name": "Bosque Municipal",
-                  "text": "An urban forest reserve featuring walking trails and diverse flora, ideal for nature observation.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.287038,
-                        3.526538
                   ]
             },
             {
@@ -8683,15 +8224,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   "coords": [
                         -76.203114,
                         3.586333
-                  ]
-            },
-            {
-                  "name": "Parque del Azúcar",
-                  "text": "A water-based recreation park with slides and sports facilities, dedicated to the sugar industry's heritage.",
-                  "category": "recreational",
-                  "coords": [
-                        -76.307792,
-                        3.540358
                   ]
             },
             {
@@ -9847,24 +9379,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Auditorio Diego Echavarría M.",
-                  "text": "Ein bedeutendes Kulturzentrum mit Bibliothek und Galerie, das nach dem Philanthropen Diego Echavarría benannt ist.",
-                  "category": "museum",
-                  "coords": [
-                        -75.610951,
-                        6.17233
-                  ]
-            },
-            {
-                  "name": "Museo Counitario GAV",
-                  "text": "Ein von der Gemeinschaft geführtes Museum, das die Geschichte und das Erbe des Guayabal-Viertels bewahrt.",
-                  "category": "museum",
-                  "coords": [
-                        -75.613,
-                        6.176459
-                  ]
-            },
-            {
                   "name": "Arte Alto",
                   "text": "Eine Galerie für zeitgenössische Kunst, die Werke aufstrebender kolumbianischer Künstler ausstellt.",
                   "category": "museum",
@@ -9892,24 +9406,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "sitio  arqueologico el Cacique",
-                  "text": "Eine archäologische Stätte mit Überresten präkolumbianischer Siedlungen und indigener Keramikfunde.",
-                  "category": "historical",
-                  "coords": [
-                        -75.618241,
-                        6.196334
-                  ]
-            },
-            {
-                  "name": "Parque de los Petroglifos",
-                  "text": "Ein Park, in dem antike Petroglyphen und Felsritzungen früher indigener Kulturen zu sehen sind.",
-                  "category": "historical",
-                  "coords": [
-                        -75.613912,
-                        6.176273
-                  ]
-            },
-            {
                   "name": "Casa finca blanca",
                   "text": "Ein traditionelles weißes Landhaus, das den klassischen Baustil der alten Fincas in Antioquia verkörpert.",
                   "category": "historical",
@@ -9919,30 +9415,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Finca Mi Ranchito",
-                  "text": "Der ehemalige Landsitz des Philanthropen Diego Echavarría, heute ein wichtiges lokales Baudenkmal.",
-                  "category": "historical",
-                  "coords": [
-                        -75.628841,
-                        6.161518
-                  ]
-            },
-            {
                   "name": "Centro de Convenciones Ditaires",
                   "text": "Ein modernes Veranstaltungszentrum inmitten der weitläufigen Grünanlagen des Ditaires-Parks.",
                   "category": "historical",
                   "coords": [
                         -75.628208,
                         6.168409
-                  ]
-            },
-            {
-                  "name": "SITIO ARQUEOLOGICO (URNA FUNERARIA)",
-                  "text": "Fundort prähispanischer Graburnen, die Einblicke in die Bestattungsrituale früherer Bewohner geben.",
-                  "category": "historical",
-                  "coords": [
-                        -75.626932,
-                        6.161998
                   ]
             },
             {
@@ -9964,39 +9442,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Antigua estación del ferrocarril",
-                  "text": "Ein restauriertes Bahnhofsgebäude der alten Antioquia-Eisenbahn, das heute als historisches Wahrzeichen dient.",
-                  "category": "historical",
-                  "coords": [
-                        -75.62306,
-                        6.162679
-                  ]
-            },
-            {
-                  "name": "El Hormiguero",
-                  "text": "Ein alternatives Kunstzentrum, das sich auf experimentelles Theater und lokale Kreativworkshops spezialisiert hat.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.615683,
-                        6.187142
-                  ]
-            },
-            {
                   "name": "Teatro Benedikta Zur Nieden",
                   "text": "Ein modernes Theatergebäude in Itagüí, das regelmäßig Tanzaufführungen und Schauspielstücke zeigt.",
                   "category": "cultural",
                   "coords": [
                         -75.647239,
                         6.159184
-                  ]
-            },
-            {
-                  "name": "Auditorio Máximum",
-                  "text": "Das größte Auditorium der Universität San Buenaventura, bekannt für seine hervorragende Akustik und akademische Feiern.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.630986,
-                        6.166688
                   ]
             },
             {
@@ -10164,24 +9615,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Auditorio Diego Echavarría M.",
-                  "text": "Jelentős kulturális központ könyvtárral és galériával, amely Diego Echavarría filantróp nevét viseli.",
-                  "category": "museum",
-                  "coords": [
-                        -75.610951,
-                        6.17233
-                  ]
-            },
-            {
-                  "name": "Museo Counitario GAV",
-                  "text": "Közösségi fenntartású múzeum, amely a Guayabal negyed történelmét és örökségét őrzi.",
-                  "category": "museum",
-                  "coords": [
-                        -75.613,
-                        6.176459
-                  ]
-            },
-            {
                   "name": "Arte Alto",
                   "text": "Kortárs művészeti galéria, amely feltörekvő kolumbiai művészek alkotásait mutatja be.",
                   "category": "museum",
@@ -10209,24 +9642,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "sitio  arqueologico el Cacique",
-                  "text": "Régészeti lelőhely prekolumbián települések maradványaival és őslakos kerámialeletekkel.",
-                  "category": "historical",
-                  "coords": [
-                        -75.618241,
-                        6.196334
-                  ]
-            },
-            {
-                  "name": "Parque de los Petroglifos",
-                  "text": "Park, ahol ősi sziklarajzok és korai őslakos kultúrák kőbe vésett emlékei láthatók.",
-                  "category": "historical",
-                  "coords": [
-                        -75.613912,
-                        6.176273
-                  ]
-            },
-            {
                   "name": "Casa finca blanca",
                   "text": "Hagyományos fehér vidéki ház, amely Antioquia régi fincáinak klasszikus építészeti stílusát idézi.",
                   "category": "historical",
@@ -10236,30 +9651,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Finca Mi Ranchito",
-                  "text": "Diego Echavarría filantróp egykori vidéki rezidenciája, ma jelentős helyi építészeti műemlék.",
-                  "category": "historical",
-                  "coords": [
-                        -75.628841,
-                        6.161518
-                  ]
-            },
-            {
                   "name": "Centro de Convenciones Ditaires",
                   "text": "Modern rendezvényközpont a Ditaires park kiterjedt zöldövezetének közepén.",
                   "category": "historical",
                   "coords": [
                         -75.628208,
                         6.168409
-                  ]
-            },
-            {
-                  "name": "SITIO ARQUEOLOGICO (URNA FUNERARIA)",
-                  "text": "Prehispán temetkezési urnák lelőhelye, amely betekintést nyújt a korai lakók temetkezési rítusaiba.",
-                  "category": "historical",
-                  "coords": [
-                        -75.626932,
-                        6.161998
                   ]
             },
             {
@@ -10281,39 +9678,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Antigua estación del ferrocarril",
-                  "text": "Az egykori Antioquia vasút felújított állomásépülete, amely ma történelmi látványosságként szolgál.",
-                  "category": "historical",
-                  "coords": [
-                        -75.62306,
-                        6.162679
-                  ]
-            },
-            {
-                  "name": "El Hormiguero",
-                  "text": "Alternatív művészeti központ, amely kísérleti színházra és helyi kreatív műhelyekre specializálódott.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.615683,
-                        6.187142
-                  ]
-            },
-            {
                   "name": "Teatro Benedikta Zur Nieden",
                   "text": "Modern színházépület Itagüíban, amely rendszeresen ad otthont táncelőadásoknak és színdaraboknak.",
                   "category": "cultural",
                   "coords": [
                         -75.647239,
                         6.159184
-                  ]
-            },
-            {
-                  "name": "Auditorio Máximum",
-                  "text": "A San Buenaventura Egyetem legnagyobb aulája, amely kiváló akusztikájáról és akadémiai ünnepségeiről ismert.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.630986,
-                        6.166688
                   ]
             },
             {
@@ -10481,24 +9851,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Auditorio Diego Echavarría M.",
-                  "text": "Un important centru cultural cu bibliotecă și galerie, numit după filantropul Diego Echavarría.",
-                  "category": "museum",
-                  "coords": [
-                        -75.610951,
-                        6.17233
-                  ]
-            },
-            {
-                  "name": "Museo Counitario GAV",
-                  "text": "Un muzeu administrat de comunitate care păstrează istoria și moștenirea cartierului Guayabal.",
-                  "category": "museum",
-                  "coords": [
-                        -75.613,
-                        6.176459
-                  ]
-            },
-            {
                   "name": "Arte Alto",
                   "text": "O galerie de artă contemporană care expune lucrări ale artiștilor columbieni în curs de afirmare.",
                   "category": "museum",
@@ -10526,24 +9878,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "sitio  arqueologico el Cacique",
-                  "text": "Un sit arheologic cu vestigii ale așezărilor precolumbiene și descoperiri de ceramică indigenă.",
-                  "category": "historical",
-                  "coords": [
-                        -75.618241,
-                        6.196334
-                  ]
-            },
-            {
-                  "name": "Parque de los Petroglifos",
-                  "text": "Un parc unde pot fi văzute petroglife antice și sculpturi în stâncă ale culturilor indigene timpurii.",
-                  "category": "historical",
-                  "coords": [
-                        -75.613912,
-                        6.176273
-                  ]
-            },
-            {
                   "name": "Casa finca blanca",
                   "text": "O casă tradițională albă de la țară, care întruchipează stilul arhitectural clasic al vechilor ferme din Antioquia.",
                   "category": "historical",
@@ -10553,30 +9887,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Finca Mi Ranchito",
-                  "text": "Fosta reședință de la țară a filantropului Diego Echavarría, astăzi un important monument istoric local.",
-                  "category": "historical",
-                  "coords": [
-                        -75.628841,
-                        6.161518
-                  ]
-            },
-            {
                   "name": "Centro de Convenciones Ditaires",
                   "text": "Un centru modern de evenimente situat în mijlocul spațiilor verzi vaste ale parcului Ditaires.",
                   "category": "historical",
                   "coords": [
                         -75.628208,
                         6.168409
-                  ]
-            },
-            {
-                  "name": "SITIO ARQUEOLOGICO (URNA FUNERARIA)",
-                  "text": "Locul de descoperire a unor urne funerare prehispanice, oferind indicii despre ritualurile de înmormântare ale vechilor locuitori.",
-                  "category": "historical",
-                  "coords": [
-                        -75.626932,
-                        6.161998
                   ]
             },
             {
@@ -10598,39 +9914,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Antigua estación del ferrocarril",
-                  "text": "O clădire restaurată a gării vechii căi ferate Antioquia, care servește astăzi ca reper istoric.",
-                  "category": "historical",
-                  "coords": [
-                        -75.62306,
-                        6.162679
-                  ]
-            },
-            {
-                  "name": "El Hormiguero",
-                  "text": "Un centru de artă alternativă specializat în teatru experimental și ateliere creative locale.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.615683,
-                        6.187142
-                  ]
-            },
-            {
                   "name": "Teatro Benedikta Zur Nieden",
                   "text": "O clădire modernă de teatru în Itagüí, care găzduiește regulat spectacole de dans și piese de teatru.",
                   "category": "cultural",
                   "coords": [
                         -75.647239,
                         6.159184
-                  ]
-            },
-            {
-                  "name": "Auditorio Máximum",
-                  "text": "Cel mai mare auditorium al Universității San Buenaventura, cunoscut pentru acustica excelentă și ceremoniile academice.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.630986,
-                        6.166688
                   ]
             },
             {
@@ -10798,24 +10087,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Auditorio Diego Echavarría M.",
-                  "text": "A major cultural center with a library and gallery named after philanthropist Diego Echavarría.",
-                  "category": "museum",
-                  "coords": [
-                        -75.610951,
-                        6.17233
-                  ]
-            },
-            {
-                  "name": "Museo Counitario GAV",
-                  "text": "A community-led museum preserving the history and heritage of the Guayabal district.",
-                  "category": "museum",
-                  "coords": [
-                        -75.613,
-                        6.176459
-                  ]
-            },
-            {
                   "name": "Arte Alto",
                   "text": "A contemporary art gallery showcasing works by emerging Colombian artists.",
                   "category": "museum",
@@ -10843,24 +10114,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "sitio  arqueologico el Cacique",
-                  "text": "An archaeological site featuring remains of pre-Columbian settlements and indigenous ceramic finds.",
-                  "category": "historical",
-                  "coords": [
-                        -75.618241,
-                        6.196334
-                  ]
-            },
-            {
-                  "name": "Parque de los Petroglifos",
-                  "text": "A park where ancient petroglyphs and rock carvings from early indigenous cultures can be seen.",
-                  "category": "historical",
-                  "coords": [
-                        -75.613912,
-                        6.176273
-                  ]
-            },
-            {
                   "name": "Casa finca blanca",
                   "text": "A traditional white country house embodying the classic architectural style of old Antioquian fincas.",
                   "category": "historical",
@@ -10870,30 +10123,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Finca Mi Ranchito",
-                  "text": "The former country residence of philanthropist Diego Echavarría, now an important local monument.",
-                  "category": "historical",
-                  "coords": [
-                        -75.628841,
-                        6.161518
-                  ]
-            },
-            {
                   "name": "Centro de Convenciones Ditaires",
                   "text": "A modern event center set within the extensive green spaces of Ditaires Park.",
                   "category": "historical",
                   "coords": [
                         -75.628208,
                         6.168409
-                  ]
-            },
-            {
-                  "name": "SITIO ARQUEOLOGICO (URNA FUNERARIA)",
-                  "text": "Site of discovery of pre-Hispanic funerary urns, offering insight into the burial rites of early inhabitants.",
-                  "category": "historical",
-                  "coords": [
-                        -75.626932,
-                        6.161998
                   ]
             },
             {
@@ -10915,39 +10150,12 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Old train station",
-                  "text": "A restored station building of the old Antioquia Railway, now serving as a historical landmark.",
-                  "category": "historical",
-                  "coords": [
-                        -75.62306,
-                        6.162679
-                  ]
-            },
-            {
-                  "name": "El Hormiguero",
-                  "text": "An alternative arts center specializing in experimental theater and local creative workshops.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.615683,
-                        6.187142
-                  ]
-            },
-            {
                   "name": "Teatro Benedikta Zur Nieden",
                   "text": "A modern theater building in Itagüí that regularly hosts dance performances and plays.",
                   "category": "cultural",
                   "coords": [
                         -75.647239,
                         6.159184
-                  ]
-            },
-            {
-                  "name": "Auditorio Máximum",
-                  "text": "The largest auditorium of the San Buenaventura University, known for its excellent acoustics and academic ceremonies.",
-                  "category": "cultural",
-                  "coords": [
-                        -75.630986,
-                        6.166688
                   ]
             },
             {
@@ -11143,33 +10351,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Puerto Turbo",
-                  "text": "Ein Aussichtspunkt mit Blick auf das geschäftige Treiben im Hafen und die Gewässer von Turbo.",
-                  "category": "natural",
-                  "coords": [
-                        -76.729105,
-                        8.091066
-                  ]
-            },
-            {
-                  "name": "Kartukú",
-                  "text": "Eine Kunstgalerie und ein Kulturraum in Turbo, in dem Werke lokaler Künstler ausgestellt werden.",
-                  "category": "museum",
-                  "coords": [
-                        -76.722954,
-                        8.089029
-                  ]
-            },
-            {
-                  "name": "Faro Punta Yarumal",
-                  "text": "Ein Leuchtturm an der Landspitze Punta Yarumal zur Navigation der Schifffahrt vor Turbo.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.748042,
-                        8.110046
-                  ]
-            },
-            {
                   "name": "Playa La Martina",
                   "text": "Ein naturbelassener Strand an der Karibikküste mit feinem Sand und weitem Meerblick.",
                   "category": "recreational",
@@ -11304,33 +10485,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   "coords": [
                         -76.742731,
                         8.063723
-                  ]
-            },
-            {
-                  "name": "Puerto Turbo",
-                  "text": "Kilátópont Turbo városában, ahonnan remek rálátás nyílik a forgalmas kikötőre és a tengerre.",
-                  "category": "natural",
-                  "coords": [
-                        -76.729105,
-                        8.091066
-                  ]
-            },
-            {
-                  "name": "Kartukú",
-                  "text": "Művészeti galéria és kulturális tér Turbo városában, ahol helyi alkotók műveit mutatják be.",
-                  "category": "museum",
-                  "coords": [
-                        -76.722954,
-                        8.089029
-                  ]
-            },
-            {
-                  "name": "Faro Punta Yarumal",
-                  "text": "Tengeri világítótorony a Punta Yarumal foknál, amely a hajózást segíti Turbo partjai előtt.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.748042,
-                        8.110046
                   ]
             },
             {
@@ -11471,33 +10625,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   ]
             },
             {
-                  "name": "Puerto Turbo",
-                  "text": "Un punct de belvedere pitoresc de unde se poate observa activitatea portuară intensă din Turbo.",
-                  "category": "natural",
-                  "coords": [
-                        -76.729105,
-                        8.091066
-                  ]
-            },
-            {
-                  "name": "Kartukú",
-                  "text": "O galerie de artă și spațiu cultural din Turbo, unde sunt expuse lucrări ale artiștilor locali.",
-                  "category": "museum",
-                  "coords": [
-                        -76.722954,
-                        8.089029
-                  ]
-            },
-            {
-                  "name": "Faro Punta Yarumal",
-                  "text": "Un far maritim situat la Punta Yarumal, facilitând navigația navelor de-a lungul coastei din Turbo.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.748042,
-                        8.110046
-                  ]
-            },
-            {
                   "name": "Playa La Martina",
                   "text": "O plajă naturală la Marea Caraibilor, cu nisip fin și priveliști spectaculoase asupra țărmului.",
                   "category": "recreational",
@@ -11632,33 +10759,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
                   "coords": [
                         -76.742731,
                         8.063723
-                  ]
-            },
-            {
-                  "name": "Puerto Turbo",
-                  "text": "A scenic viewpoint overlooking the busy port activity and the waters of Turbo.",
-                  "category": "natural",
-                  "coords": [
-                        -76.729105,
-                        8.091066
-                  ]
-            },
-            {
-                  "name": "Kartukú",
-                  "text": "An art gallery and cultural space showcasing local creative works in Turbo.",
-                  "category": "museum",
-                  "coords": [
-                        -76.722954,
-                        8.089029
-                  ]
-            },
-            {
-                  "name": "Faro Punta Yarumal",
-                  "text": "A maritime lighthouse at Punta Yarumal helping ships navigate the coastline near Turbo.",
-                  "category": "landmark",
-                  "coords": [
-                        -76.748042,
-                        8.110046
                   ]
             },
             {
@@ -11910,33 +11010,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
     id: "cementos-argos-yumbo-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Instituto Municipal de Cultura",
-                  "text": "Ein Kulturzentrum in Yumbo mit einer Bühne für lokale Theater- und Musikaufführungen.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.494547,
-                        3.582847
-                  ]
-            },
-            {
-                  "name": "astian de Yumbo",
-                  "text": "Ein lokales Museum, das archäologische Funde und die Geschichte der Region Yumbo ausstellt.",
-                  "category": "museum",
-                  "coords": [
-                        -76.492516,
-                        3.579201
-                  ]
-            },
-            {
-                  "name": "Cerro de las Tres Cruces",
-                  "text": "Ein Denkmal auf einem Hügel mit drei großen Kreuzen, das einen Panoramablick über Yumbo bietet.",
-                  "category": "historical",
-                  "coords": [
-                        -76.498704,
-                        3.573891
-                  ]
-            },
-            {
                   "name": "Puerto Rico",
                   "text": "Ein Erholungspark in Yumbo, der ein beliebtes Ziel für lokale Wochenendausflüge ist.",
                   "category": "landmark",
@@ -12118,33 +11191,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Instituto Municipal de Cultura",
-                  "text": "Kulturális központ Yumbóban, amely helyi színházi és zenei előadásoknak ad otthont.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.494547,
-                        3.582847
-                  ]
-            },
-            {
-                  "name": "astian de Yumbo",
-                  "text": "Helyi múzeum, amely régészeti leleteket és Yumbo régiójának történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        -76.492516,
-                        3.579201
-                  ]
-            },
-            {
-                  "name": "Cerro de las Tres Cruces",
-                  "text": "Dombtetőn álló emlékmű három nagy kereszttel, ahonnan panorámás kilátás nyílik Yumbóra.",
-                  "category": "historical",
-                  "coords": [
-                        -76.498704,
-                        3.573891
-                  ]
-            },
             {
                   "name": "Puerto Rico",
                   "text": "Szabadidős park Yumbóban, amely a helyiek kedvelt hétvégi kirándulóhelye.",
@@ -12328,33 +11374,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Instituto Municipal de Cultura",
-                  "text": "Un centru cultural în Yumbo, dotat cu o scenă pentru spectacole locale de teatru și muzică.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.494547,
-                        3.582847
-                  ]
-            },
-            {
-                  "name": "astian de Yumbo",
-                  "text": "Un muzeu local care expune descoperiri arheologice și istoria regiunii Yumbo.",
-                  "category": "museum",
-                  "coords": [
-                        -76.492516,
-                        3.579201
-                  ]
-            },
-            {
-                  "name": "Cerro de las Tres Cruces",
-                  "text": "Un monument pe deal cu trei cruci mari, oferind o vedere panoramică asupra orașului Yumbo.",
-                  "category": "historical",
-                  "coords": [
-                        -76.498704,
-                        3.573891
-                  ]
-            },
-            {
                   "name": "Puerto Rico",
                   "text": "Un parc recreativ în Yumbo, fiind o destinație populară pentru ieșirile de weekend ale localnicilor.",
                   "category": "landmark",
@@ -12536,33 +11555,6 @@ export const poiExtraColombiaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Instituto Municipal de Cultura",
-                  "text": "A cultural center in Yumbo featuring a stage for local theater and music performances.",
-                  "category": "cultural",
-                  "coords": [
-                        -76.494547,
-                        3.582847
-                  ]
-            },
-            {
-                  "name": "astian de Yumbo",
-                  "text": "A local museum exhibiting archaeological finds and the history of the Yumbo region.",
-                  "category": "museum",
-                  "coords": [
-                        -76.492516,
-                        3.579201
-                  ]
-            },
-            {
-                  "name": "Cerro de las Tres Cruces",
-                  "text": "A hilltop monument with three large crosses offering panoramic views over Yumbo.",
-                  "category": "historical",
-                  "coords": [
-                        -76.498704,
-                        3.573891
-                  ]
-            },
             {
                   "name": "Puerto Rico",
                   "text": "A recreational park in Yumbo that is a popular destination for local weekend outings.",

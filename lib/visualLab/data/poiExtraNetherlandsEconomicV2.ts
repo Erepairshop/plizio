@@ -186,42 +186,6 @@ export const netherlandsEconomicV2: POI[] = [
     id: "netherlands-port-moerdijk-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Lichtopstand",
-                  "text": "Ein Navigationsfeuer im Hafen von Moerdijk zur Orientierung einlaufender Schiffe.",
-                  "category": "landmark",
-                  "coords": [
-                        4.58857,
-                        51.711548
-                  ]
-            },
-            {
-                  "name": "Oeverlanden Hollands Diep",
-                  "text": "Ein Naturschutzgebiet am Hollands Diep, das Lebensraum für zahlreiche Wasservögel bietet.",
-                  "category": "natural",
-                  "coords": [
-                        4.597277,
-                        51.715171
-                  ]
-            },
-            {
-                  "name": "Appelzak",
-                  "text": "Ein öffentlicher Park in Moerdijk, der Möglichkeiten zur Erholung im Grünen bietet.",
-                  "category": "park",
-                  "coords": [
-                        4.61987,
-                        51.699276
-                  ]
-            },
-            {
-                  "name": "Motte Oeverlanden Hollands Diep",
-                  "text": "Ein Aussichtspunkt in Moerdijk, der einen weiten Blick über das Hollands Diep ermöglicht.",
-                  "category": "natural",
-                  "coords": [
-                        4.573401,
-                        51.712571
-                  ]
-            },
-            {
                   "name": "Optisport zwembad De Niervaert",
                   "text": "Ein modernes Schwimmbad im Hafen von Moerdijk mit Angeboten für Schwimmer.",
                   "category": "recreational",
@@ -232,42 +196,6 @@ export const netherlandsEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Lichtopstand",
-                  "text": "Navigációs fény Moerdijk kikötőjében, amely a beérkező hajók tájékozódását segíti.",
-                  "category": "landmark",
-                  "coords": [
-                        4.58857,
-                        51.711548
-                  ]
-            },
-            {
-                  "name": "Oeverlanden Hollands Diep",
-                  "text": "Természetvédelmi terület a Hollands Diep mentén, amely számos vízimadárnak nyújt élőhelyet.",
-                  "category": "natural",
-                  "coords": [
-                        4.597277,
-                        51.715171
-                  ]
-            },
-            {
-                  "name": "Appelzak",
-                  "text": "Nyilvános park Moerdijkben, amely lehetőséget nyújt a zöldövezeti kikapcsolódásra.",
-                  "category": "park",
-                  "coords": [
-                        4.61987,
-                        51.699276
-                  ]
-            },
-            {
-                  "name": "Motte Oeverlanden Hollands Diep",
-                  "text": "Kilátópont Moerdijkben, amely tágas kilátást nyújt a Hollands Diep folyóra.",
-                  "category": "natural",
-                  "coords": [
-                        4.573401,
-                        51.712571
-                  ]
-            },
             {
                   "name": "Optisport zwembad De Niervaert",
                   "text": "Modern úszómedence Moerdijk kikötőjében, különböző úszási lehetőségekkel.",
@@ -280,42 +208,6 @@ export const netherlandsEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Lichtopstand",
-                  "text": "Un far de navigație în portul Moerdijk pentru orientarea navelor care intră.",
-                  "category": "landmark",
-                  "coords": [
-                        4.58857,
-                        51.711548
-                  ]
-            },
-            {
-                  "name": "Oeverlanden Hollands Diep",
-                  "text": "O rezervație naturală pe malul Hollands Diep, care ofer_ habitat pentru numeroase păsări de apă.",
-                  "category": "natural",
-                  "coords": [
-                        4.597277,
-                        51.715171
-                  ]
-            },
-            {
-                  "name": "Appelzak",
-                  "text": "Un parc public în Moerdijk, care oferă oportunități de recreere în aer liber.",
-                  "category": "park",
-                  "coords": [
-                        4.61987,
-                        51.699276
-                  ]
-            },
-            {
-                  "name": "Motte Oeverlanden Hollands Diep",
-                  "text": "Un punct de observare în Moerdijk, oferind o vedere panoramică asupra Hollands Diep.",
-                  "category": "natural",
-                  "coords": [
-                        4.573401,
-                        51.712571
-                  ]
-            },
-            {
                   "name": "Optisport zwembad De Niervaert",
                   "text": "O piscină modernă în Portul Moerdijk, oferind programe pentru înotători.",
                   "category": "recreational",
@@ -326,42 +218,6 @@ export const netherlandsEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Lichtopstand",
-                  "text": "A navigation light in the Port of Moerdijk for the orientation of incoming ships.",
-                  "category": "landmark",
-                  "coords": [
-                        4.58857,
-                        51.711548
-                  ]
-            },
-            {
-                  "name": "Oeverlanden Hollands Diep",
-                  "text": "A nature reserve along the Hollands Diep, providing habitat for numerous water birds.",
-                  "category": "natural",
-                  "coords": [
-                        4.597277,
-                        51.715171
-                  ]
-            },
-            {
-                  "name": "Appelzak",
-                  "text": "A public park in Moerdijk, offering opportunities for outdoor recreation.",
-                  "category": "park",
-                  "coords": [
-                        4.61987,
-                        51.699276
-                  ]
-            },
-            {
-                  "name": "Motte Oeverlanden Hollands Diep",
-                  "text": "A viewpoint in Moerdijk, offering wide views over the Hollands Diep.",
-                  "category": "natural",
-                  "coords": [
-                        4.573401,
-                        51.712571
-                  ]
-            },
             {
                   "name": "Optisport zwembad De Niervaert",
                   "text": "A modern swimming pool in the Port of Moerdijk with programs for swimmers.",

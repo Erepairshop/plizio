@@ -742,50 +742,10 @@ export const poiExtraSierraleoneNatureV2: POI[] = [
   },
   {
     id: "banana-islands-nature-v2", "sights": {
-      "de": [
-            {
-                  "name": "Kent Slave House",
-                  "text": "Dieses Museum in der Nähe der Banana-Inseln ist in einem historischen Gebäude untergebracht, das mit dem tragischen transatlantischen Sklavenhandel verbunden ist.",
-                  "category": "museum",
-                  "coords": [
-                        -13.163341,
-                        8.175341
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Kent Slave House",
-                  "text": "A Banán-szigetek közelében található múzeum egy történelmi épületben kapott helyet, amely a tragikus transzatlanti rabszolgakereskedelemhez kötődik.",
-                  "category": "museum",
-                  "coords": [
-                        -13.163341,
-                        8.175341
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Kent Slave House",
-                  "text": "Cu vedere la ocean, lângă Insulele Banana, acest muzeu este găzduit într-o clădire istorică legată de tragicul comerț transatlantic cu sclavi.",
-                  "category": "museum",
-                  "coords": [
-                        -13.163341,
-                        8.175341
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Kent Slave House",
-                  "text": "Overlooking the ocean near the Banana Islands, this museum is housed in a historic building connected to the tragic transatlantic slave trade.",
-                  "category": "museum",
-                  "coords": [
-                        -13.163341,
-                        8.175341
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 },
     type: "island",
     parent: "SL-W",

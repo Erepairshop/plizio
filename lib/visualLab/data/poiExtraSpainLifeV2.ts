@@ -140,15 +140,6 @@ imageHint: "Doñana National Park marshes with flamingos",
                         -3.301158,
                         37.067866
                   ]
-            },
-            {
-                  "name": "Pico de Mulhacén",
-                  "text": "Der höchste Berg der Iberischen Halbinsel in der Sierra Nevada.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.311557,
-                        37.053381
-                  ]
             }
       ],
       "hu": [
@@ -159,15 +150,6 @@ imageHint: "Doñana National Park marshes with flamingos",
                   "coords": [
                         -3.301158,
                         37.067866
-                  ]
-            },
-            {
-                  "name": "Pico de Mulhacén",
-                  "text": "Az Ibériai-félsziget legmagasabb csúcsa a Sierra Nevadában.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.311557,
-                        37.053381
                   ]
             }
       ],
@@ -180,15 +162,6 @@ imageHint: "Doñana National Park marshes with flamingos",
                         -3.301158,
                         37.067866
                   ]
-            },
-            {
-                  "name": "Pico de Mulhacén",
-                  "text": "Cel mai înalt vârf din Peninsula Iberică, situat în Sierra Nevada.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.311557,
-                        37.053381
-                  ]
             }
       ],
       "en": [
@@ -199,15 +172,6 @@ imageHint: "Doñana National Park marshes with flamingos",
                   "coords": [
                         -3.301158,
                         37.067866
-                  ]
-            },
-            {
-                  "name": "Pico de Mulhacén",
-                  "text": "The highest peak in the Iberian Peninsula, located in the Sierra Nevada.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.311557,
-                        37.053381
                   ]
             }
       ]
@@ -260,24 +224,6 @@ imageHint: "Sierra Nevada mountains snow capped peaks",
     id: "spain-picos-de-europa-life-v2", "sights": {
       "de": [
             {
-                  "name": "Parque Nacional de Picos de Europa",
-                  "text": "Ein bedeutender Nationalpark in Nordspanien, bekannt für seine spektakulären Kalksteinmassive.",
-                  "category": "natural",
-                  "coords": [
-                        -4.881106,
-                        43.196134
-                  ]
-            },
-            {
-                  "name": "Pico Tesorero",
-                  "text": "Ein markanter Berggipfel in den Picos de Europa an der Grenze dreier Regionen.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.841022,
-                        43.180779
-                  ]
-            },
-            {
                   "name": "Picu Urriellu",
                   "text": "Ein berühmter Kalksteingipfel und ein Symbol für das Bergsteigen in Spanien.",
                   "category": "landmark",
@@ -294,63 +240,9 @@ imageHint: "Sierra Nevada mountains snow capped peaks",
                         -4.810097,
                         43.174037
                   ]
-            },
-            {
-                  "name": "Pico Madejuno",
-                  "text": "Ein schroffer Gipfel im Nationalpark Picos de Europa, beliebt bei erfahrenen Bergsteigern.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.841552,
-                        43.16856
-                  ]
-            },
-            {
-                  "name": "Torre Peñalba",
-                  "text": "Ein Kalksteinfelsen in den Picos de Europa, der zur Berggruppe der Urrieles gehört.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.866955,
-                        43.176599
-                  ]
-            },
-            {
-                  "name": "Pico de San Carlos",
-                  "text": "Ein bedeutender Berggipfel im Zentralmassiv des Nationalparks Picos de Europa.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.832684,
-                        43.164069
-                  ]
-            },
-            {
-                  "name": "Torre Altáiz",
-                  "text": "Ein Berggipfel in der Nähe der Seilbahn von Fuente Dé im Nationalpark Picos de Europa.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.82988,
-                        43.162642
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Parque Nacional de Picos de Europa",
-                  "text": "Jelentős nemzeti park Észak-Spanyolországban, amely látványos mészkőhegyeiről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        -4.881106,
-                        43.196134
-                  ]
-            },
-            {
-                  "name": "Pico Tesorero",
-                  "text": "Jellegzetes hegycsúcs a Picos de Europa hegységben, három régió határán.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.841022,
-                        43.180779
-                  ]
-            },
             {
                   "name": "Picu Urriellu",
                   "text": "Híres mészkőcsúcs, a spanyol hegymászás egyik szimbóluma.",
@@ -368,63 +260,9 @@ imageHint: "Sierra Nevada mountains snow capped peaks",
                         -4.810097,
                         43.174037
                   ]
-            },
-            {
-                  "name": "Pico Madejuno",
-                  "text": "Sziklás hegycsúcs a Picos de Europa Nemzeti Parkban, a tapasztalt hegymászók kedvelt célpontja.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.841552,
-                        43.16856
-                  ]
-            },
-            {
-                  "name": "Torre Peñalba",
-                  "text": "Mészkőcsúcs a Picos de Europa hegységben, az Urrieles-csoporthoz tartozik.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.866955,
-                        43.176599
-                  ]
-            },
-            {
-                  "name": "Pico de San Carlos",
-                  "text": "Jelentős hegycsúcs a Picos de Europa Nemzeti Park Központi-masszívumában.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.832684,
-                        43.164069
-                  ]
-            },
-            {
-                  "name": "Torre Altáiz",
-                  "text": "Hegycsúcs a Fuente Dé felvonó közelében a Picos de Europa Nemzeti Parkban.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.82988,
-                        43.162642
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Parque Nacional de Picos de Europa",
-                  "text": "Un parc național major din nordul Spaniei, cunoscut pentru masivele sale calcaroase spectaculoase.",
-                  "category": "natural",
-                  "coords": [
-                        -4.881106,
-                        43.196134
-                  ]
-            },
-            {
-                  "name": "Pico Tesorero",
-                  "text": "Un vârf muntos distinctiv în Picos de Europa, la granița a trei regiuni.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.841022,
-                        43.180779
-                  ]
-            },
             {
                   "name": "Picu Urriellu",
                   "text": "Un vârf calcaros celebru și un simbol al alpinismului în Spania.",
@@ -442,63 +280,9 @@ imageHint: "Sierra Nevada mountains snow capped peaks",
                         -4.810097,
                         43.174037
                   ]
-            },
-            {
-                  "name": "Pico Madejuno",
-                  "text": "Un vârf stâncos în Parcul Național Picos de Europa, popular printre alpiniștii experimentați.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.841552,
-                        43.16856
-                  ]
-            },
-            {
-                  "name": "Torre Peñalba",
-                  "text": "Un vârf calcaros în Picos de Europa, aparținând grupului muntos Urrieles.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.866955,
-                        43.176599
-                  ]
-            },
-            {
-                  "name": "Pico de San Carlos",
-                  "text": "Un vârf muntos important în Masivul Central al Parcului Național Picos de Europa.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.832684,
-                        43.164069
-                  ]
-            },
-            {
-                  "name": "Torre Altáiz",
-                  "text": "Un vârf muntos situat lângă telecabina Fuente Dé din Parcul Național Picos de Europa.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.82988,
-                        43.162642
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Picos de Europa National Park",
-                  "text": "A major national park in northern Spain known for its spectacular limestone massifs.",
-                  "category": "natural",
-                  "coords": [
-                        -4.881106,
-                        43.196134
-                  ]
-            },
-            {
-                  "name": "Pico Tesorero",
-                  "text": "A distinctive mountain peak in the Picos de Europa at the border of three regions.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.841022,
-                        43.180779
-                  ]
-            },
             {
                   "name": "Picu Urriellu",
                   "text": "A famous limestone peak and a symbol of mountaineering in Spain.",
@@ -515,42 +299,6 @@ imageHint: "Sierra Nevada mountains snow capped peaks",
                   "coords": [
                         -4.810097,
                         43.174037
-                  ]
-            },
-            {
-                  "name": "Pico Madejuno",
-                  "text": "A rugged peak in the Picos de Europa National Park, popular with experienced climbers.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.841552,
-                        43.16856
-                  ]
-            },
-            {
-                  "name": "Torre Peñalba",
-                  "text": "A limestone peak in the Picos de Europa, belonging to the Urrieles mountain group.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.866955,
-                        43.176599
-                  ]
-            },
-            {
-                  "name": "Pico de San Carlos",
-                  "text": "A significant mountain peak in the Central Massif of the Picos de Europa National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.832684,
-                        43.164069
-                  ]
-            },
-            {
-                  "name": "Torre Altáiz",
-                  "text": "A mountain peak located near the Fuente Dé cable car in the Picos de Europa National Park.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.82988,
-                        43.162642
                   ]
             }
       ]
@@ -5714,15 +5462,6 @@ imageHint: "Ordesa Canyon Pyrenees mountains",
     id: "spain-aiguestortes-life-v2", "sights": {
       "de": [
             {
-                  "name": "Parc Nacional d'Aigüestortes i Estany de Sant Maurici",
-                  "text": "Nationalpark in den Pyrenäen, bekannt für seine Alpenseen und Berglandschaften.",
-                  "category": "natural",
-                  "coords": [
-                        0.938999,
-                        42.569485
-                  ]
-            },
-            {
                   "name": "Pic de la Tallada Llarga",
                   "text": "Ein Berggipfel mit einer Höhe von 2.752 Metern im Nationalpark Aigüestortes.",
                   "category": "landmark",
@@ -5787,15 +5526,6 @@ imageHint: "Ordesa Canyon Pyrenees mountains",
             }
       ],
       "hu": [
-            {
-                  "name": "Parc Nacional d'Aigüestortes i Estany de Sant Maurici",
-                  "text": "Nemzeti park a Pireneusokban, amely tengerszemeiről és hegyi tájairól ismert.",
-                  "category": "natural",
-                  "coords": [
-                        0.938999,
-                        42.569485
-                  ]
-            },
             {
                   "name": "Pic de la Tallada Llarga",
                   "text": "A 2752 méter magas hegycsúcs az Aigüestortes Nemzeti Park területén.",
@@ -5862,15 +5592,6 @@ imageHint: "Ordesa Canyon Pyrenees mountains",
       ],
       "ro": [
             {
-                  "name": "Parc Nacional d'Aigüestortes i Estany de Sant Maurici",
-                  "text": "Parc național din Pirinei, cunoscut pentru lacurile alpine și peisajele montane.",
-                  "category": "natural",
-                  "coords": [
-                        0.938999,
-                        42.569485
-                  ]
-            },
-            {
                   "name": "Pic de la Tallada Llarga",
                   "text": "Un vârf montan de 2.752 de metri în cadrul Parcului Național Aigüestortes.",
                   "category": "landmark",
@@ -5935,15 +5656,6 @@ imageHint: "Ordesa Canyon Pyrenees mountains",
             }
       ],
       "en": [
-            {
-                  "name": "Parc Nacional d'Aigüestortes i Estany de Sant Maurici",
-                  "text": "A national park in the Pyrenees known for its alpine lakes and mountain landscapes.",
-                  "category": "natural",
-                  "coords": [
-                        0.938999,
-                        42.569485
-                  ]
-            },
             {
                   "name": "Pic de la Tallada Llarga",
                   "text": "A mountain peak reaching an elevation of 2,752 meters within the Aigüestortes National Park.",
@@ -6057,24 +5769,6 @@ imageHint: "Estany de Sant Maurici lake Pyrenees",
     id: "spain-guadarrama-life-v2", "sights": {
       "de": [
             {
-                  "name": "ZEPA Alto Lozoya",
-                  "text": "Ein besonderes Vogelschutzgebiet im Tal des Flusses Lozoya innerhalb des Guadarrama-Gebirges.",
-                  "category": "natural",
-                  "coords": [
-                        -3.913929,
-                        40.862752
-                  ]
-            },
-            {
-                  "name": "Parque Nacional de la Sierra de Guadarrama",
-                  "text": "Ein bedeutendes Naturschutzgebiet in Zentralspanien, das für seine Artenvielfalt und Hochgebirgslandschaften bekannt ist.",
-                  "category": "natural",
-                  "coords": [
-                        -3.92178,
-                        40.858439
-                  ]
-            },
-            {
                   "name": "Reserva natural de anfibios",
                   "text": "Ein spezialisiertes Schutzgebiet im Nationalpark Sierra de Guadarrama zur Erhaltung lokaler Amphibienarten.",
                   "category": "natural",
@@ -6091,54 +5785,9 @@ imageHint: "Estany de Sant Maurici lake Pyrenees",
                         -3.90705,
                         40.844791
                   ]
-            },
-            {
-                  "name": "Peñalara",
-                  "text": "Der höchste Gipfel des Guadarrama-Gebirges, der markante glaziale Landschaften und Kletterrouten bietet.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.956067,
-                        40.850037
-                  ]
-            },
-            {
-                  "name": "Risco de los Claveles",
-                  "text": "Ein felsiger Berggipfel im Peñalara-Massiv, bekannt für seinen schmalen Grat und die weite Aussicht.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.952329,
-                        40.855121
-                  ]
-            },
-            {
-                  "name": "Risco de los Pájaros",
-                  "text": "Ein Berggipfel im Guadarrama-Gebirge, gelegen in der Nähe des markanten Peñalara-Massivs.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.950735,
-                        40.859842
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "ZEPA Alto Lozoya",
-                  "text": "Különleges madárvédelmi terület a Lozoya folyó völgyében, a Guadarrama-hegységben.",
-                  "category": "natural",
-                  "coords": [
-                        -3.913929,
-                        40.862752
-                  ]
-            },
-            {
-                  "name": "Parque Nacional de la Sierra de Guadarrama",
-                  "text": "Közép-Spanyolország jelentős természetvédelmi területe, amely biológiai sokféleségéről és magashegyi tájairól ismert.",
-                  "category": "natural",
-                  "coords": [
-                        -3.92178,
-                        40.858439
-                  ]
-            },
             {
                   "name": "Reserva natural de anfibios",
                   "text": "Speciális védelmi terület a Sierra de Guadarrama Nemzeti Parkban a helyi kétéltűfajok megőrzésére.",
@@ -6156,54 +5805,9 @@ imageHint: "Estany de Sant Maurici lake Pyrenees",
                         -3.90705,
                         40.844791
                   ]
-            },
-            {
-                  "name": "Peñalara",
-                  "text": "A Guadarrama-hegység legmagasabb csúcsa, amely látványos gleccserformáiról és mászóútjairól ismert.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.956067,
-                        40.850037
-                  ]
-            },
-            {
-                  "name": "Risco de los Claveles",
-                  "text": "Sziklás hegycsúcs a Peñalara-masszívumban, amely keskeny gerincéről és panorámájáról híres.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.952329,
-                        40.855121
-                  ]
-            },
-            {
-                  "name": "Risco de los Pájaros",
-                  "text": "Hegycsúcs a Guadarrama-hegységben, a jellegzetes Peñalara-masszívum közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.950735,
-                        40.859842
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "ZEPA Alto Lozoya",
-                  "text": "O arie specială de protecție avifaunistică în valea râului Lozoya, în munții Guadarrama.",
-                  "category": "natural",
-                  "coords": [
-                        -3.913929,
-                        40.862752
-                  ]
-            },
-            {
-                  "name": "Parque Nacional de la Sierra de Guadarrama",
-                  "text": "O arie naturală protejată majoră din centrul Spaniei, cunoscută pentru biodiversitate și peisaje montane.",
-                  "category": "natural",
-                  "coords": [
-                        -3.92178,
-                        40.858439
-                  ]
-            },
             {
                   "name": "Reserva natural de anfibios",
                   "text": "O rezervație specializată în Parcul Național Sierra de Guadarrama pentru conservarea speciilor locale de amfibieni.",
@@ -6221,54 +5825,9 @@ imageHint: "Estany de Sant Maurici lake Pyrenees",
                         -3.90705,
                         40.844791
                   ]
-            },
-            {
-                  "name": "Peñalara",
-                  "text": "Cel mai înalt vârf din munții Guadarrama, oferind peisaje glaciare remarcabile și rute de escaladă.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.956067,
-                        40.850037
-                  ]
-            },
-            {
-                  "name": "Risco de los Claveles",
-                  "text": "Un vârf muntos stâncos în masivul Peñalara, cunoscut pentru creasta sa îngustă și vederile largi.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.952329,
-                        40.855121
-                  ]
-            },
-            {
-                  "name": "Risco de los Pájaros",
-                  "text": "Un vârf muntos în munții Guadarrama, situat lângă proeminentul masiv Peñalara.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.950735,
-                        40.859842
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "ZEPA Alto Lozoya",
-                  "text": "A special bird protection area in the Lozoya River valley within the Guadarrama mountains.",
-                  "category": "natural",
-                  "coords": [
-                        -3.913929,
-                        40.862752
-                  ]
-            },
-            {
-                  "name": "Parque Nacional de la Sierra de Guadarrama",
-                  "text": "A major protected natural area in central Spain, known for its biodiversity and high mountain landscapes.",
-                  "category": "natural",
-                  "coords": [
-                        -3.92178,
-                        40.858439
-                  ]
-            },
             {
                   "name": "Reserva natural de anfibios",
                   "text": "A specialized reserve in the Sierra de Guadarrama National Park for the conservation of local amphibian species.",
@@ -6285,33 +5844,6 @@ imageHint: "Estany de Sant Maurici lake Pyrenees",
                   "coords": [
                         -3.90705,
                         40.844791
-                  ]
-            },
-            {
-                  "name": "Peñalara",
-                  "text": "The highest peak in the Guadarrama mountains, featuring striking glacial landscapes and climbing routes.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.956067,
-                        40.850037
-                  ]
-            },
-            {
-                  "name": "Risco de los Claveles",
-                  "text": "A rocky mountain peak in the Peñalara massif, known for its narrow ridge and expansive views.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.952329,
-                        40.855121
-                  ]
-            },
-            {
-                  "name": "Risco de los Pájaros",
-                  "text": "A mountain peak in the Guadarrama mountains, located near the prominent Peñalara massif.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.950735,
-                        40.859842
                   ]
             }
       ]
@@ -6371,69 +5903,6 @@ imageHint: "Sierra de Guadarrama mountains near Madrid",
                         -8.903153,
                         42.243208
                   ]
-            },
-            {
-                  "name": "O Farol de Sías",
-                  "text": "Ein Leuchtturm, der die Schifffahrt in den Gewässern des Nationalparks leitet.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.914907,
-                        42.214146
-                  ]
-            },
-            {
-                  "name": "A Area das Rodas",
-                  "text": "Dieser berühmte Strand gilt als einer der schönsten der Welt.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.902137,
-                        42.222382
-                  ]
-            },
-            {
-                  "name": "ZEC e ZEPA Illas Cíes",
-                  "text": "Ein Naturschutzgebiet auf den Cíes-Inseln, bekannt für seine Artenvielfalt.",
-                  "category": "natural",
-                  "coords": [
-                        -8.904493,
-                        42.216083
-                  ]
-            },
-            {
-                  "name": "A Area de Nosa Señora",
-                  "text": "Ein ruhiger Sandstrand in der unberührten Natur des Nationalparks.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.902184,
-                        42.216061
-                  ]
-            },
-            {
-                  "name": "A Area de San Martiño",
-                  "text": "Ein malerischer Strand auf der Insel San Martiño im Atlantik.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.904935,
-                        42.201782
-                  ]
-            },
-            {
-                  "name": "Castro das Hortas",
-                  "text": "Eine archäologische Stätte mit Überresten einer antiken befestigten Siedlung.",
-                  "category": "historical",
-                  "coords": [
-                        -8.91236,
-                        42.213946
-                  ]
-            },
-            {
-                  "name": "A Area do Arco do Engado",
-                  "text": "A Area do Arco do Engado, eine natürliche Bucht zum Baden auf dem Islas Atlánticas-Archipel.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.901153,
-                        42.232376
-                  ]
             }
       ],
       "hu": [
@@ -6444,69 +5913,6 @@ imageHint: "Sierra de Guadarrama mountains near Madrid",
                   "coords": [
                         -8.903153,
                         42.243208
-                  ]
-            },
-            {
-                  "name": "O Farol de Sías",
-                  "text": "Világítótorony, amely segíti a hajózást a nemzeti park vizein.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.914907,
-                        42.214146
-                  ]
-            },
-            {
-                  "name": "A Area das Rodas",
-                  "text": "Ez a híres strand a világ egyik legszebbjeként ismert.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.902137,
-                        42.222382
-                  ]
-            },
-            {
-                  "name": "ZEC e ZEPA Illas Cíes",
-                  "text": "Természetvédelmi terület a Cíes-szigeteken, amely gazdag élővilágáról ismert.",
-                  "category": "natural",
-                  "coords": [
-                        -8.904493,
-                        42.216083
-                  ]
-            },
-            {
-                  "name": "A Area de Nosa Señora",
-                  "text": "Csendes homokos strand a nemzeti park érintetlen természetében.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.902184,
-                        42.216061
-                  ]
-            },
-            {
-                  "name": "A Area de San Martiño",
-                  "text": "Gleccsercsiszolta part San Martiño szigetén az Atlanti-óceánban.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.904935,
-                        42.201782
-                  ]
-            },
-            {
-                  "name": "Castro das Hortas",
-                  "text": "Régészeti lelőhely egy ősi erődített település maradványaival.",
-                  "category": "historical",
-                  "coords": [
-                        -8.91236,
-                        42.213946
-                  ]
-            },
-            {
-                  "name": "A Area do Arco do Engado",
-                  "text": "A Area do Arco do Engado, egy természetes fürdőöböl az Islas Atlánticas szigetcsoporton.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.901153,
-                        42.232376
                   ]
             }
       ],
@@ -6519,69 +5925,6 @@ imageHint: "Sierra de Guadarrama mountains near Madrid",
                         -8.903153,
                         42.243208
                   ]
-            },
-            {
-                  "name": "O Farol de Sías",
-                  "text": "Un far care ghidează navigația în apele parcului național.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.914907,
-                        42.214146
-                  ]
-            },
-            {
-                  "name": "A Area das Rodas",
-                  "text": "Această plajă faimoasă este considerată una dintre cele mai frumoase din lume.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.902137,
-                        42.222382
-                  ]
-            },
-            {
-                  "name": "ZEC e ZEPA Illas Cíes",
-                  "text": "O rezervație naturală în Insulele Cíes, cunoscută pentru biodiversitatea sa.",
-                  "category": "natural",
-                  "coords": [
-                        -8.904493,
-                        42.216083
-                  ]
-            },
-            {
-                  "name": "A Area de Nosa Señora",
-                  "text": "O plajă de nisip liniștită în natura virgină a parcului național.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.902184,
-                        42.216061
-                  ]
-            },
-            {
-                  "name": "A Area de San Martiño",
-                  "text": "O plajă pitorească pe insula San Martiño din Oceanul Atlantic.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.904935,
-                        42.201782
-                  ]
-            },
-            {
-                  "name": "Castro das Hortas",
-                  "text": "Un sit arheologic cu vestigiile unei vechi așezări fortificate.",
-                  "category": "historical",
-                  "coords": [
-                        -8.91236,
-                        42.213946
-                  ]
-            },
-            {
-                  "name": "A Area do Arco do Engado",
-                  "text": "A Area do Arco do Engado, un golf natural de scăldat pe arhipelagul Islas Atlánticas.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.901153,
-                        42.232376
-                  ]
             }
       ],
       "en": [
@@ -6592,69 +5935,6 @@ imageHint: "Sierra de Guadarrama mountains near Madrid",
                   "coords": [
                         -8.903153,
                         42.243208
-                  ]
-            },
-            {
-                  "name": "O Farol de Sías",
-                  "text": "A lighthouse that guides navigation in the waters of the national park.",
-                  "category": "landmark",
-                  "coords": [
-                        -8.914907,
-                        42.214146
-                  ]
-            },
-            {
-                  "name": "A Area das Rodas",
-                  "text": "This famous beach is considered one of the most beautiful in the world.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.902137,
-                        42.222382
-                  ]
-            },
-            {
-                  "name": "ZEC e ZEPA Illas Cíes",
-                  "text": "A nature reserve on the Cíes Islands, known for its biodiversity.",
-                  "category": "natural",
-                  "coords": [
-                        -8.904493,
-                        42.216083
-                  ]
-            },
-            {
-                  "name": "A Area de Nosa Señora",
-                  "text": "A quiet sandy beach in the untouched nature of the national park.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.902184,
-                        42.216061
-                  ]
-            },
-            {
-                  "name": "A Area de San Martiño",
-                  "text": "A picturesque beach on the island of San Martiño in the Atlantic.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.904935,
-                        42.201782
-                  ]
-            },
-            {
-                  "name": "Castro das Hortas",
-                  "text": "An archaeological site featuring the remains of an ancient fortified settlement.",
-                  "category": "historical",
-                  "coords": [
-                        -8.91236,
-                        42.213946
-                  ]
-            },
-            {
-                  "name": "A Area do Arco do Engado",
-                  "text": "A Area do Arco do Engado, a natural swimming cove on the Islas Atlánticas archipelago.",
-                  "category": "recreational",
-                  "coords": [
-                        -8.901153,
-                        42.232376
                   ]
             }
       ]
@@ -7051,30 +6331,12 @@ imageHint: "Cíes Islands beach and turquoise water",
     id: "spain-sierra-nieves-life-v2", "sights": {
       "de": [
             {
-                  "name": "Parque Nacional de la Sierra de las Nieves",
-                  "text": "Ein geschützter Nationalpark in Andalusien, bekannt für seine seltenen Spanischen Tannenwälder.",
-                  "category": "natural",
-                  "coords": [
-                        -4.985519,
-                        36.663223
-                  ]
-            },
-            {
                   "name": "Parque Natural de la Sierra de las Nieves",
                   "text": "Ein Naturreservat in Südspanien mit vielfältiger Flora und zerklüfteten Landschaften.",
                   "category": "natural",
                   "coords": [
                         -4.991896,
                         36.690521
-                  ]
-            },
-            {
-                  "name": "Torrecilla",
-                  "text": "Der höchste Gipfel der Sierra de las Nieves mit einer Höhe von 1.919 Metern.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.996223,
-                        36.675947
                   ]
             },
             {
@@ -7116,30 +6378,12 @@ imageHint: "Cíes Islands beach and turquoise water",
       ],
       "hu": [
             {
-                  "name": "Parque Nacional de la Sierra de las Nieves",
-                  "text": "Védett nemzeti park Andalúziában, amely ritka spanyol jegenyefenyő-erdeiről ismert.",
-                  "category": "natural",
-                  "coords": [
-                        -4.985519,
-                        36.663223
-                  ]
-            },
-            {
                   "name": "Parque Natural de la Sierra de las Nieves",
                   "text": "Természetvédelmi terület Dél-Spanyolországban, változatos flórával és sziklás tájakkal.",
                   "category": "natural",
                   "coords": [
                         -4.991896,
                         36.690521
-                  ]
-            },
-            {
-                  "name": "Torrecilla",
-                  "text": "A Sierra de las Nieves legmagasabb csúcsa, amely 1919 méteres magasságba nyúlik.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.996223,
-                        36.675947
                   ]
             },
             {
@@ -7181,30 +6425,12 @@ imageHint: "Cíes Islands beach and turquoise water",
       ],
       "ro": [
             {
-                  "name": "Parque Nacional de la Sierra de las Nieves",
-                  "text": "Un parc național protejat din Andaluzia, cunoscut pentru pădurile sale rare de brad spaniol.",
-                  "category": "natural",
-                  "coords": [
-                        -4.985519,
-                        36.663223
-                  ]
-            },
-            {
                   "name": "Parque Natural de la Sierra de las Nieves",
                   "text": "O rezervație naturală din sudul Spaniei, cu o floră diversă și peisaje accidentate.",
                   "category": "natural",
                   "coords": [
                         -4.991896,
                         36.690521
-                  ]
-            },
-            {
-                  "name": "Torrecilla",
-                  "text": "Cel mai înalt vârf din Sierra de las Nieves, atingând o altitudine de 1.919 metri.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.996223,
-                        36.675947
                   ]
             },
             {
@@ -7246,30 +6472,12 @@ imageHint: "Cíes Islands beach and turquoise water",
       ],
       "en": [
             {
-                  "name": "Sierra de las Nieves National Park",
-                  "text": "A protected national park in Andalusia known for its rare Spanish fir forests.",
-                  "category": "natural",
-                  "coords": [
-                        -4.985519,
-                        36.663223
-                  ]
-            },
-            {
                   "name": "Parque Natural de la Sierra de las Nieves",
                   "text": "A natural reserve in southern Spain featuring diverse flora and rugged landscapes.",
                   "category": "natural",
                   "coords": [
                         -4.991896,
                         36.690521
-                  ]
-            },
-            {
-                  "name": "Torrecilla",
-                  "text": "The highest peak in the Sierra de las Nieves, reaching an elevation of 1,919 metres.",
-                  "category": "landmark",
-                  "coords": [
-                        -4.996223,
-                        36.675947
                   ]
             },
             {
@@ -8627,15 +7835,6 @@ imageHint: "Royal Botanical Garden Madrid entrance",
                   ]
             },
             {
-                  "name": "Botanischer Garten",
-                  "text": "Dieser Botanische Garten, bekannt als Jardín de Aclimatación de la Orotava, kultiviert eine vielfältige Sammlung tropischer und subtropischer Pflanzenarten.",
-                  "category": "park",
-                  "coords": [
-                        -16.5353,
-                        28.410841
-                  ]
-            },
-            {
                   "name": "Paisaje Protegido de la Resbala",
                   "text": "Paisaje Protegido de la Resbala ist ein gesetzlich geschütztes Naturschutzgebiet, das die endemische Flora und das zerklüftete Gelände der Insel erhält.",
                   "category": "natural",
@@ -9467,15 +8666,6 @@ imageHint: "Royal Botanical Garden Madrid entrance",
                   "coords": [
                         -16.54463,
                         28.413704
-                  ]
-            },
-            {
-                  "name": "Botanical Garden",
-                  "text": "This Botanical Garden, known as Jardín de Aclimatación de la Orotava, cultivates a diverse collection of tropical and subtropical plant species.",
-                  "category": "park",
-                  "coords": [
-                        -16.5353,
-                        28.410841
                   ]
             },
             {

@@ -2640,24 +2640,6 @@ export const poiExtraIndiaEconomicV2: POI[] = [
     id: "jharia-coalfield-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Geological Museum",
-                  "text": "Dieses Museum zeigt eine umfangreiche Sammlung von Gesteinsproben und Mineralien aus dem bedeutenden Kohlebergbaurevier Jharia.",
-                  "category": "museum",
-                  "coords": [
-                        86.438974,
-                        23.814709
-                  ]
-            },
-            {
-                  "name": "Kala Bhawan",
-                  "text": "Ein Zentrum für Kunst und Kultur im Bergbaurevier, das Werke lokaler Künstler zeigt und als kultureller Treffpunkt dient.",
-                  "category": "museum",
-                  "coords": [
-                        86.434435,
-                        23.802241
-                  ]
-            },
-            {
                   "name": "Kali mandir",
                   "text": "Ein Hindu-Tempel, der der Göttin Kali gewidmet ist und den Arbeitern und Bewohnern des Jharia-Kohlefeldes spirituellen Trost bietet.",
                   "category": "landmark",
@@ -2839,24 +2821,6 @@ export const poiExtraIndiaEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Geological Museum",
-                  "text": "Ez a múzeum kőzetminták és ásványok kiterjedt gyűjteményét mutatja be a jelentős Jharia szénbányászati régióból.",
-                  "category": "museum",
-                  "coords": [
-                        86.438974,
-                        23.814709
-                  ]
-            },
-            {
-                  "name": "Kala Bhawan",
-                  "text": "Művészeti és kulturális központ a bányavidéken, amely helyi művészek munkáit mutatja be, és kulturális találkozóhelyként szolgál.",
-                  "category": "museum",
-                  "coords": [
-                        86.434435,
-                        23.802241
-                  ]
-            },
             {
                   "name": "Kali mandir",
                   "text": "Káli istennőnek szentelt hindu templom, amely spirituális vigaszt nyújt a Jharia szénmező munkásainak és lakóinak.",
@@ -3040,24 +3004,6 @@ export const poiExtraIndiaEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Geological Museum",
-                  "text": "Acest muzeu expune o colecție vastă de mostre de rocă și minerale din importanta regiune minieră de cărbune Jharia.",
-                  "category": "museum",
-                  "coords": [
-                        86.438974,
-                        23.814709
-                  ]
-            },
-            {
-                  "name": "Kala Bhawan",
-                  "text": "Un centru de artă și cultură din regiunea minieră, care expune lucrări ale artiștilor locali și servește ca punct de întâlnire cultural.",
-                  "category": "museum",
-                  "coords": [
-                        86.434435,
-                        23.802241
-                  ]
-            },
-            {
                   "name": "Kali mandir",
                   "text": "Un templu hindu dedicat zeiței Kali, oferind mângâiere spirituală muncitorilor și locuitorilor din bazinul carbonifer Jharia.",
                   "category": "landmark",
@@ -3239,24 +3185,6 @@ export const poiExtraIndiaEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Geological Museum",
-                  "text": "This museum displays an extensive collection of rock samples and minerals from the significant Jharia coal mining region.",
-                  "category": "museum",
-                  "coords": [
-                        86.438974,
-                        23.814709
-                  ]
-            },
-            {
-                  "name": "Kala Bhawan",
-                  "text": "An art and culture center in the mining district, showcasing works by local artists and serving as a cultural meeting point.",
-                  "category": "museum",
-                  "coords": [
-                        86.434435,
-                        23.802241
-                  ]
-            },
             {
                   "name": "Kali mandir",
                   "text": "A Hindu temple dedicated to the goddess Kali, providing spiritual solace to the workers and residents of the Jharia coalfield.",

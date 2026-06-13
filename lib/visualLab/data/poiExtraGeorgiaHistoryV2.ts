@@ -803,15 +803,6 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Arsena",
-                  "text": "A monument dedicated to Arsena Odzelashvili, a legendary 19th-century Georgian folk hero.",
-                  "category": "historical",
-                  "coords": [
-                        44.710738,
-                        41.839026
-                  ]
-            },
-            {
                   "name": "Bath",
                   "text": "Archaeological remains of an ancient bath complex from the heyday of the former capital, Mtskheta.",
                   "category": "historical",
@@ -857,15 +848,6 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Church of Saint Barbare",
-                  "text": "A small historic stone church in Mtskheta dedicated to Saint Barbara.",
-                  "category": "religious",
-                  "coords": [
-                        44.714152,
-                        41.844139
-                  ]
-            },
-            {
                   "name": "Svetitskhoveli Cathedral",
                   "text": "A UNESCO World Heritage site and masterpiece from 1010, where numerous Georgian kings are buried.",
                   "category": "religious",
@@ -890,15 +872,6 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
                   "coords": [
                         44.722807,
                         41.855466
-                  ]
-            },
-            {
-                  "name": "Samtavro Necropolis",
-                  "text": "A vast ancient burial ground in Mtskheta with finds dating back to the 2nd millennium BC.",
-                  "category": "historical",
-                  "coords": [
-                        44.719146,
-                        41.85134
                   ]
             },
             {
@@ -1630,30 +1603,12 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Eristavi State Theatre",
-                  "text": "A prominent drama theatre in Gori named after the famous Georgian playwright Giorgi Eristavi.",
-                  "category": "cultural",
-                  "coords": [
-                        44.108949,
-                        41.98217
-                  ]
-            },
-            {
                   "name": "Gori Fortress",
                   "text": "A medieval citadel perched on a rocky hill overlooking the center of Gori.",
                   "category": "landmark",
                   "coords": [
                         44.107956,
                         41.986213
-                  ]
-            },
-            {
-                  "name": "Memorial of Georgian Warrior Heroes",
-                  "text": "A circle of monumental bronze warrior statues at the foot of Gori Fortress honors Georgian heroes.",
-                  "category": "landmark",
-                  "coords": [
-                        44.109812,
-                        41.986031
                   ]
             },
             {
@@ -1681,24 +1636,6 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
                   "coords": [
                         44.12675,
                         42.000311
-                  ]
-            },
-            {
-                  "name": "Sergi Makalatia Gori Historical and Ethnological Museum",
-                  "text": "The museum displays archaeological finds and ethnographic exhibits from the Shida Kartli region.",
-                  "category": "museum",
-                  "coords": [
-                        44.111865,
-                        41.986943
-                  ]
-            },
-            {
-                  "name": "The Second World War Museum",
-                  "text": "The museum showcases Georgia's military history during World War II, focusing on local soldiers.",
-                  "category": "museum",
-                  "coords": [
-                        44.112021,
-                        41.984064
                   ]
             },
             {
@@ -1765,15 +1702,6 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Lomchabuki Memorial",
-                  "text": "A bronze memorial in Gori depicting a youth with a lion, symbolizing courage.",
-                  "category": "historical",
-                  "coords": [
-                        44.105714,
-                        41.987308
-                  ]
-            },
-            {
                   "name": "ხოვლეს „ქვახიდა\"(აკვედუკი ანუ ბელღარი )",
                   "text": "The ruins of an ancient stone bridge or aqueduct near Khovle showcase historical water engineering.",
                   "category": "historical",
@@ -1789,24 +1717,6 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
                   "coords": [
                         44.208369,
                         41.966015
-                  ]
-            },
-            {
-                  "name": "Folklore Basement",
-                  "text": "A cultural center in Gori dedicated to preserving Georgian folk music and traditional dances.",
-                  "category": "cultural",
-                  "coords": [
-                        44.105431,
-                        41.982455
-                  ]
-            },
-            {
-                  "name": "Palace of pupilage and youth",
-                  "text": "An educational center for children and youth in Gori, offering courses in art, music, and technology.",
-                  "category": "cultural",
-                  "coords": [
-                        44.106851,
-                        41.980454
                   ]
             }
       ]
@@ -5820,15 +5730,6 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Artsivistsveri",
-                  "text": "A mountain peak located in the Caucasus region near Gergeti.",
-                  "category": "landmark",
-                  "coords": [
-                        44.602523,
-                        42.684952
-                  ]
-            },
-            {
                   "name": "Gergeti Trinity Church",
                   "text": "A famous 14th-century church situated on a hill at the foot of Mount Kazbek.",
                   "category": "landmark",
@@ -6581,24 +6482,6 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
                   "coords": [
                         41.8811,
                         42.514241
-                  ]
-            },
-            {
-                  "name": "Zugdidi Cultural Center",
-                  "text": "A central hub for performing arts and cultural events in the heart of Zugdidi.",
-                  "category": "cultural",
-                  "coords": [
-                        41.869066,
-                        42.508475
-                  ]
-            },
-            {
-                  "name": "Icon of Theotokos, mother of God.",
-                  "text": "A religious monument depicting the Icon of the Mother of God, a symbol of faith in Zugdidi.",
-                  "category": "historical",
-                  "coords": [
-                        41.869108,
-                        42.504189
                   ]
             },
             {
@@ -9559,15 +9442,6 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Akhaltsikhe Professional State Theater of Puppets",
-                  "text": "A professional cultural venue in Akhaltsikhe dedicated to the art of puppetry.",
-                  "category": "cultural",
-                  "coords": [
-                        42.989346,
-                        41.638394
-                  ]
-            },
-            {
                   "name": "ღრომას წმ.მოწამე თევდორე მღვდლის (კველთელი) სახელობის ეკლესია",
                   "text": "A traditional place of worship dedicated to Saint Theodore in the village of Ghroma.",
                   "category": "religious",
@@ -10270,15 +10144,6 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
                   ]
             },
             {
-                  "name": "Sarpi Strand",
-                  "text": "Ein bekannter Kiesstrand direkt an der türkischen Grenze, der für sein kristallklares Wasser und die umliegenden grünen Klippen berühmt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        41.548082,
-                        41.523139
-                  ]
-            },
-            {
                   "name": "გონიოს ციხე",
                   "text": "Eine antike römische Festung mit massiven Steinmauern, die der Legende nach die Grabstätte des Apostels Matthias beherbergt.",
                   "category": "landmark",
@@ -10516,15 +10381,6 @@ export const poiExtraGeorgiaHistoryV2: POI[] = [
                   "coords": [
                         41.610071,
                         41.556084
-                  ]
-            },
-            {
-                  "name": "Sarpi Beach",
-                  "text": "A well-known pebble beach right at the Turkish border, famous for its crystal-clear water and surrounding green cliffs.",
-                  "category": "recreational",
-                  "coords": [
-                        41.548082,
-                        41.523139
                   ]
             },
             {

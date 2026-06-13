@@ -1743,42 +1743,6 @@ export const lesothoEconomicV2: POI[] = [
     id: "lesotho-bushmans-nek-economic-v2", "sights": {
       "de": [
             {
-                  "name": "Three Bushmen viewpoint",
-                  "text": "Dieser nach seinem historischen Kontext benannte, erhöhte Aussichtspunkt bietet weite Ausblicke über das Tal am Bushman's Nek.",
-                  "category": "natural",
-                  "coords": [
-                        29.124542,
-                        -29.861263
-                  ]
-            },
-            {
-                  "name": "Rock arches",
-                  "text": "Diese natürlich erodierten Steinformationen bilden markante geologische Strukturen im zerklüfteten Gelände von Bushman's Nek.",
-                  "category": "landmark",
-                  "coords": [
-                        29.123746,
-                        -29.862457
-                  ]
-            },
-            {
-                  "name": "Rock pools",
-                  "text": "Diese klaren, natürlichen Wasserbecken schmiegen sich an die Felsvorsprünge in der Gegend von Bushman's Nek und bieten eine erfrischende Naturattraktion.",
-                  "category": "landmark",
-                  "coords": [
-                        29.11979,
-                        -29.868113
-                  ]
-            },
-            {
-                  "name": "Cattle post",
-                  "text": "Dieser traditionelle Weideplatz spiegelt den lokalen landwirtschaftlichen Lebensstil und die Viehzuchtpraktiken im Hochland von Lesotho wider.",
-                  "category": "landmark",
-                  "coords": [
-                        29.118887,
-                        -29.864016
-                  ]
-            },
-            {
                   "name": "Pig & Pony",
                   "text": "Dieser kleine, familienfreundliche Tierpark in der Nähe von Bushman's Nek ermöglicht es Besuchern, verschiedene lokale Nutztiere zu beobachten.",
                   "category": "recreational",
@@ -1789,42 +1753,6 @@ export const lesothoEconomicV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Three Bushmen viewpoint",
-                  "text": "A történelmi kontextusáról elnevezett, magasan fekvő kilátópontról széles kilátás nyílik a Bushman's Nek völgyére.",
-                  "category": "natural",
-                  "coords": [
-                        29.124542,
-                        -29.861263
-                  ]
-            },
-            {
-                  "name": "Rock arches",
-                  "text": "Ezek a természetesen erodálódott kőalakzatok feltűnő geológiai struktúrákat alkotnak a Bushman's Nek zord terepén.",
-                  "category": "landmark",
-                  "coords": [
-                        29.123746,
-                        -29.862457
-                  ]
-            },
-            {
-                  "name": "Rock pools",
-                  "text": "Ezek a tiszta, természetes medencék a Bushman's Nek környékének sziklás kiemelkedései között bújnak meg, frissítő természeti látványosságot kínálva.",
-                  "category": "landmark",
-                  "coords": [
-                        29.11979,
-                        -29.868113
-                  ]
-            },
-            {
-                  "name": "Cattle post",
-                  "text": "Ez a hagyományos pásztorszállás a lesothói fennsík helyi mezőgazdasági életmódját és állattenyésztési gyakorlatát tükrözi.",
-                  "category": "landmark",
-                  "coords": [
-                        29.118887,
-                        -29.864016
-                  ]
-            },
             {
                   "name": "Pig & Pony",
                   "text": "Ez a Bushman's Nek közelében található kis, családbarát állatpark lehetővé teszi a látogatók számára a helyi haszonállatok megfigyelését.",
@@ -1837,42 +1765,6 @@ export const lesothoEconomicV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Three Bushmen viewpoint",
-                  "text": "Numit pentru contextul său istoric, acest punct de observație ridicat oferă vederi ample peste valea Bushman's Nek.",
-                  "category": "natural",
-                  "coords": [
-                        29.124542,
-                        -29.861263
-                  ]
-            },
-            {
-                  "name": "Rock arches",
-                  "text": "Aceste formațiuni de piatră erodate natural creează structuri geologice izbitoare în terenul accidentat din Bushman's Nek.",
-                  "category": "landmark",
-                  "coords": [
-                        29.123746,
-                        -29.862457
-                  ]
-            },
-            {
-                  "name": "Rock pools",
-                  "text": "Aceste bazine naturale cu apă limpede sunt cuibărite printre aflorimentele stâncoase din zona Bushman's Nek, oferind o atracție naturală răcoritoare.",
-                  "category": "landmark",
-                  "coords": [
-                        29.11979,
-                        -29.868113
-                  ]
-            },
-            {
-                  "name": "Cattle post",
-                  "text": "Acest sit pastoral tradițional reflectă stilul de viață agricol local și practicile de creștere a animalelor din zonele muntoase din Lesotho.",
-                  "category": "landmark",
-                  "coords": [
-                        29.118887,
-                        -29.864016
-                  ]
-            },
-            {
                   "name": "Pig & Pony",
                   "text": "Acest mic parc de animale, potrivit pentru familii, situat lângă Bushman's Nek, permite vizitatorilor să observe diverse animale de fermă locale.",
                   "category": "recreational",
@@ -1883,42 +1775,6 @@ export const lesothoEconomicV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Three Bushmen viewpoint",
-                  "text": "Named for its historical context, this elevated vantage point provides sweeping views across the Bushman's Nek valley.",
-                  "category": "natural",
-                  "coords": [
-                        29.124542,
-                        -29.861263
-                  ]
-            },
-            {
-                  "name": "Rock arches",
-                  "text": "These naturally eroded stone formations create striking geological structures in the rugged terrain of Bushman's Nek.",
-                  "category": "landmark",
-                  "coords": [
-                        29.123746,
-                        -29.862457
-                  ]
-            },
-            {
-                  "name": "Rock pools",
-                  "text": "These clear, natural water basins are nestled among the rocky outcrops of the Bushman's Nek area, offering a refreshing natural attraction.",
-                  "category": "landmark",
-                  "coords": [
-                        29.11979,
-                        -29.868113
-                  ]
-            },
-            {
-                  "name": "Cattle post",
-                  "text": "This traditional pastoral site reflects the local agricultural lifestyle and livestock rearing practices in the highlands of Lesotho.",
-                  "category": "landmark",
-                  "coords": [
-                        29.118887,
-                        -29.864016
-                  ]
-            },
             {
                   "name": "Pig & Pony",
                   "text": "This small, family-friendly animal park near Bushman's Nek allows visitors to observe and interact with a variety of local farm animals.",

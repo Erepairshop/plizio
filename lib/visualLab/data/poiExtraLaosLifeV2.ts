@@ -4131,15 +4131,6 @@ export const poiExtraLaosLifeV2: POI[] = [
     id: "lao-textile-mulberry-farm-life-v2", "sights": {
       "de": [
             {
-                  "name": "Mulberries organic silk farm",
-                  "text": "Ein Sozialunternehmen, in dem Besucher den gesamten Prozess von der Seidenraupenzucht bis zum Handweben sehen können.",
-                  "category": "landmark",
-                  "coords": [
-                        103.177105,
-                        19.466111
-                  ]
-            },
-            {
                   "name": "UXO Information Center",
                   "text": "Ein Bildungszentrum, das der Geschichte und den Auswirkungen von Blindgängern in Laos gewidmet ist.",
                   "category": "museum",
@@ -4231,15 +4222,6 @@ export const poiExtraLaosLifeV2: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Mulberries organic silk farm",
-                  "text": "Társadalmi vállalkozás, ahol a látogatók a selyemhernyó-tenyésztéstől a kézi szövésig a teljes folyamatot megtekinthetik.",
-                  "category": "landmark",
-                  "coords": [
-                        103.177105,
-                        19.466111
-                  ]
-            },
             {
                   "name": "UXO Information Center",
                   "text": "Oktatási központ, amely a Laoszi fel nem robbant bombák történetével és hatásaival foglalkozik.",
@@ -4333,15 +4315,6 @@ export const poiExtraLaosLifeV2: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Mulberries organic silk farm",
-                  "text": "O întreprindere socială unde vizitatorii pot vedea întregul proces, de la creșterea viermilor de mătase până la țesutul manual.",
-                  "category": "landmark",
-                  "coords": [
-                        103.177105,
-                        19.466111
-                  ]
-            },
-            {
                   "name": "UXO Information Center",
                   "text": "Un centru educațional dedicat istoriei și impactului munițiilor neexplodate în Laos.",
                   "category": "museum",
@@ -4433,15 +4406,6 @@ export const poiExtraLaosLifeV2: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Mulberries organic silk farm",
-                  "text": "A social enterprise where visitors can see the entire process from silkworm rearing to hand-weaving.",
-                  "category": "landmark",
-                  "coords": [
-                        103.177105,
-                        19.466111
-                  ]
-            },
             {
                   "name": "UXO Survivors' information Centre",
                   "text": "An educational center dedicated to the history and impact of unexploded ordnance in Laos.",

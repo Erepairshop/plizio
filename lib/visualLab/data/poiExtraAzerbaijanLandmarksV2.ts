@@ -7764,24 +7764,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Qışlaq hamamı 19-cu əsr",
-                  "text": "Ein historisches Badehaus (Hamam) aus dem 19. Jahrhundert in Scheki.",
-                  "category": "historical",
-                  "coords": [
-                        47.171203,
-                        41.187288
-                  ]
-            },
-            {
-                  "name": "2-ci fabrikin binası 19-cu əsr",
-                  "text": "Ein historisches Herrenhaus aus dem 19. Jahrhundert in Shaki.",
-                  "category": "historical",
-                  "coords": [
-                        47.172758,
-                        41.189781
-                  ]
-            },
-            {
                   "name": "1941-1945 Abidə",
                   "text": "Ein Denkmal für den Krieg von 1941-1945 mit Panoramablick über Shaki.",
                   "category": "historical",
@@ -7818,30 +7800,12 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Şəki Dram Teatrı",
-                  "text": "Das nach Sabit Rahman benannte Drama-Theater in Shaki.",
-                  "category": "cultural",
-                  "coords": [
-                        47.175859,
-                        41.198829
-                  ]
-            },
-            {
                   "name": "Mədəniyyət Evi",
                   "text": "Ein Kulturhaus und Theater für Aufführungen in Shaki.",
                   "category": "cultural",
                   "coords": [
                         47.130712,
                         41.194954
-                  ]
-            },
-            {
-                  "name": "3 saylı Musiqi məktəbi",
-                  "text": "Eine spezialisierte Musikschule und ein Kunstzentrum in Shaki.",
-                  "category": "cultural",
-                  "coords": [
-                        47.163538,
-                        41.194588
                   ]
             },
             {
@@ -7887,24 +7851,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
                   "coords": [
                         47.158018,
                         41.163106
-                  ]
-            },
-            {
-                  "name": "Alban kilsəsi Calğalı bulaq",
-                  "text": "Eine albanische Kirche aus dem 19. Jahrhundert in Shaki.",
-                  "category": "landmark",
-                  "coords": [
-                        47.174493,
-                        41.202176
-                  ]
-            },
-            {
-                  "name": "Şəki Körpü dairəsi",
-                  "text": "Ein lokaler Orientierungspunkt am Brückenkreis in Shaki.",
-                  "category": "landmark",
-                  "coords": [
-                        47.166362,
-                        41.206924
                   ]
             },
             {
@@ -8045,24 +7991,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Qışlaq hamamı 19-cu əsr",
-                  "text": "Egy történelmi fürdőház (hamam) a 19. századból Seki városában.",
-                  "category": "historical",
-                  "coords": [
-                        47.171203,
-                        41.187288
-                  ]
-            },
-            {
-                  "name": "2-ci fabrikin binası 19-cu əsr",
-                  "text": "Egy 19. századi történelmi udvarház Shaki városában.",
-                  "category": "historical",
-                  "coords": [
-                        47.172758,
-                        41.189781
-                  ]
-            },
-            {
                   "name": "1941-1945 Abidə",
                   "text": "Az 1941-1945-ös háború emlékműve, ahonnan panorámás kilátás nyílik Shaki városára.",
                   "category": "historical",
@@ -8099,30 +8027,12 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Şəki Dram Teatrı",
-                  "text": "A Sabit Rahmanról elnevezett drámai színház Shaki városában.",
-                  "category": "cultural",
-                  "coords": [
-                        47.175859,
-                        41.198829
-                  ]
-            },
-            {
                   "name": "Mədəniyyət Evi",
                   "text": "Kulturális központ és színház Shaki városában.",
                   "category": "cultural",
                   "coords": [
                         47.130712,
                         41.194954
-                  ]
-            },
-            {
-                  "name": "3 saylı Musiqi məktəbi",
-                  "text": "Speciális zeneiskola és művészeti központ Shaki városában.",
-                  "category": "cultural",
-                  "coords": [
-                        47.163538,
-                        41.194588
                   ]
             },
             {
@@ -8168,24 +8078,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
                   "coords": [
                         47.158018,
                         41.163106
-                  ]
-            },
-            {
-                  "name": "Alban kilsəsi Calğalı bulaq",
-                  "text": "Egy 19. századi albán templom Shaki városában.",
-                  "category": "landmark",
-                  "coords": [
-                        47.174493,
-                        41.202176
-                  ]
-            },
-            {
-                  "name": "Şəki Körpü dairəsi",
-                  "text": "Helyi nevezetesség a híd körforgalmánál Shaki városában.",
-                  "category": "landmark",
-                  "coords": [
-                        47.166362,
-                        41.206924
                   ]
             },
             {
@@ -8326,24 +8218,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Qışlaq hamamı 19-cu əsr",
-                  "text": "O baie istorică (hamam) din secolul al XIX-lea în Shaki.",
-                  "category": "historical",
-                  "coords": [
-                        47.171203,
-                        41.187288
-                  ]
-            },
-            {
-                  "name": "2-ci fabrikin binası 19-cu əsr",
-                  "text": "Un conac istoric din secolul al XIX-lea în Shaki.",
-                  "category": "historical",
-                  "coords": [
-                        47.172758,
-                        41.189781
-                  ]
-            },
-            {
                   "name": "1941-1945 Abidə",
                   "text": "Un monument dedicat războiului din 1941-1945, oferind o panoramă a orașului Shaki.",
                   "category": "historical",
@@ -8380,30 +8254,12 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Şəki Dram Teatrı",
-                  "text": "Teatrul dramatic din Shaki, numit după Sabit Rahman.",
-                  "category": "cultural",
-                  "coords": [
-                        47.175859,
-                        41.198829
-                  ]
-            },
-            {
                   "name": "Mədəniyyət Evi",
                   "text": "O casă de cultură și teatru pentru spectacole în Shaki.",
                   "category": "cultural",
                   "coords": [
                         47.130712,
                         41.194954
-                  ]
-            },
-            {
-                  "name": "3 saylı Musiqi məktəbi",
-                  "text": "O școală specializată de muzică și centru de artă în Shaki.",
-                  "category": "cultural",
-                  "coords": [
-                        47.163538,
-                        41.194588
                   ]
             },
             {
@@ -8449,24 +8305,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
                   "coords": [
                         47.158018,
                         41.163106
-                  ]
-            },
-            {
-                  "name": "Alban kilsəsi Calğalı bulaq",
-                  "text": "O biserică albaneză din secolul al XIX-lea în Shaki.",
-                  "category": "landmark",
-                  "coords": [
-                        47.174493,
-                        41.202176
-                  ]
-            },
-            {
-                  "name": "Şəki Körpü dairəsi",
-                  "text": "Un punct de reper local la sensul giratoriu al podului din Shaki.",
-                  "category": "landmark",
-                  "coords": [
-                        47.166362,
-                        41.206924
                   ]
             },
             {
@@ -8607,24 +8445,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Qışlaq hamamı 19-cu əsr",
-                  "text": "A historic bathhouse (hammam) from the 19th century in Shaki.",
-                  "category": "historical",
-                  "coords": [
-                        47.171203,
-                        41.187288
-                  ]
-            },
-            {
-                  "name": "2-ci fabrikin binası 19-cu əsr",
-                  "text": "A historic 19th-century manor building located in Shaki.",
-                  "category": "historical",
-                  "coords": [
-                        47.172758,
-                        41.189781
-                  ]
-            },
-            {
                   "name": "1941-1945 War Memorial and City Panorama",
                   "text": "A war memorial for 1941-1945 featuring a panoramic view of Shaki.",
                   "category": "historical",
@@ -8661,30 +8481,12 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
                   ]
             },
             {
-                  "name": "Shaki dram theatre named Sabit Rahman",
-                  "text": "The Shaki drama theatre named after Sabit Rahman.",
-                  "category": "cultural",
-                  "coords": [
-                        47.175859,
-                        41.198829
-                  ]
-            },
-            {
                   "name": "Mədəniyyət Evi",
                   "text": "A cultural house and theatre for performances in Shaki.",
                   "category": "cultural",
                   "coords": [
                         47.130712,
                         41.194954
-                  ]
-            },
-            {
-                  "name": "3 saylı Musiqi məktəbi",
-                  "text": "A specialized music school and arts centre in Shaki.",
-                  "category": "cultural",
-                  "coords": [
-                        47.163538,
-                        41.194588
                   ]
             },
             {
@@ -8730,24 +8532,6 @@ export const poiExtraAzerbaijanLandmarksV2: POI[] = [
                   "coords": [
                         47.158018,
                         41.163106
-                  ]
-            },
-            {
-                  "name": "Albanian Church from XIX century",
-                  "text": "An Albanian church dating from the 19th century in Shaki.",
-                  "category": "landmark",
-                  "coords": [
-                        47.174493,
-                        41.202176
-                  ]
-            },
-            {
-                  "name": "Şəki Körpü dairəsi",
-                  "text": "A local landmark located at the bridge circle in Shaki.",
-                  "category": "landmark",
-                  "coords": [
-                        47.166362,
-                        41.206924
                   ]
             },
             {

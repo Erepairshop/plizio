@@ -1152,75 +1152,12 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Elsies Peak",
-                  "text": "Elsies Peak ist ein markanter Berggipfel mit Blick auf die Stadt Fish Hoek.",
-                  "category": "landmark",
-                  "coords": [
-                        18.43561,
-                        -34.150136
-                  ]
-            },
-            {
-                  "name": "Garden of Remembrance",
-                  "text": "Der Garden of Remembrance ist ein Gedenkmonument in Fish Hoek.",
-                  "category": "historical",
-                  "coords": [
-                        18.428646,
-                        -34.141365
-                  ]
-            },
-            {
                   "name": "The Lookout",
                   "text": "The Lookout ist ein malerischer Aussichtspunkt in Fish Hoek.",
                   "category": "natural",
                   "coords": [
                         18.432929,
                         -34.117221
-                  ]
-            },
-            {
-                  "name": "Klein-Tuinkop",
-                  "text": "Klein-Tuinkop ist ein Berggipfel in der Nähe der Stadt Fish Hoek.",
-                  "category": "landmark",
-                  "coords": [
-                        18.428982,
-                        -34.110457
-                  ]
-            },
-            {
-                  "name": "Skildersgatkop",
-                  "text": "Skildersgatkop ist ein natürlicher Gipfel in der Umgebung von Fish Hoek.",
-                  "category": "landmark",
-                  "coords": [
-                        18.407679,
-                        -34.118351
-                  ]
-            },
-            {
-                  "name": "Tunnel Cave",
-                  "text": "Tunnel Cave ist ein zugänglicher Höhleneingang in Fish Hoek.",
-                  "category": "landmark",
-                  "coords": [
-                        18.406089,
-                        -34.117625
-                  ]
-            },
-            {
-                  "name": "Ridge Peak",
-                  "text": "Ridge Peak ist eine natürliche Erhebung in der Nähe von Fish Hoek.",
-                  "category": "landmark",
-                  "coords": [
-                        18.439857,
-                        -34.115162
-                  ]
-            },
-            {
-                  "name": "INK BOX ART Gallery",
-                  "text": "INK BOX ART Gallery ist ein lokaler Kunstausstellungsraum in Fish Hoek.",
-                  "category": "museum",
-                  "coords": [
-                        18.450189,
-                        -34.125414
                   ]
             },
             {
@@ -1242,39 +1179,12 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Trappies Kop",
-                  "text": "Trappies Kop ist ein markanter Berggipfel mit Blick auf das Gebiet von Fish Hoek.",
-                  "category": "landmark",
-                  "coords": [
-                        18.440215,
-                        -34.127797
-                  ]
-            },
-            {
                   "name": "Fresh Fish",
                   "text": "Fresh Fish ist eine beliebte lokale Attraktion in Fish Hoek.",
                   "category": "landmark",
                   "coords": [
                         18.449197,
                         -34.129187
-                  ]
-            },
-            {
-                  "name": "Fish Hoek Beach",
-                  "text": "Fish Hoek Beach ist ein beliebter Sandstrand an der Küste der False Bay.",
-                  "category": "recreational",
-                  "coords": [
-                        18.435797,
-                        -34.135963
-                  ]
-            },
-            {
-                  "name": "Fish Hoek Valley Museum",
-                  "text": "Das Fish Hoek Valley Museum beleuchtet die lokale Geschichte der Region.",
-                  "category": "museum",
-                  "coords": [
-                        18.427289,
-                        -34.137345
                   ]
             },
             {
@@ -1307,75 +1217,12 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Elsies Peak",
-                  "text": "Az Elsies Peak egy nevezetes hegycsúcs, amely a Fish Hoek városára néz.",
-                  "category": "landmark",
-                  "coords": [
-                        18.43561,
-                        -34.150136
-                  ]
-            },
-            {
-                  "name": "Garden of Remembrance",
-                  "text": "A Garden of Remembrance egy emlékmű Fish Hoek városában.",
-                  "category": "historical",
-                  "coords": [
-                        18.428646,
-                        -34.141365
-                  ]
-            },
-            {
                   "name": "The Lookout",
                   "text": "A The Lookout egy festői kilátó Fish Hoekben.",
                   "category": "natural",
                   "coords": [
                         18.432929,
                         -34.117221
-                  ]
-            },
-            {
-                  "name": "Klein-Tuinkop",
-                  "text": "A Klein-Tuinkop egy hegycsúcs Fish Hoek városának közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        18.428982,
-                        -34.110457
-                  ]
-            },
-            {
-                  "name": "Skildersgatkop",
-                  "text": "A Skildersgatkop egy természetes hegycsúcs Fish Hoek környékén.",
-                  "category": "landmark",
-                  "coords": [
-                        18.407679,
-                        -34.118351
-                  ]
-            },
-            {
-                  "name": "Tunnel Cave",
-                  "text": "A Tunnel Cave egy látogatható barlangbejárat Fish Hoekben.",
-                  "category": "landmark",
-                  "coords": [
-                        18.406089,
-                        -34.117625
-                  ]
-            },
-            {
-                  "name": "Ridge Peak",
-                  "text": "A Ridge Peak egy természetes magaslat Fish Hoek közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        18.439857,
-                        -34.115162
-                  ]
-            },
-            {
-                  "name": "INK BOX ART Gallery",
-                  "text": "Az INK BOX ART Gallery egy helyi művészeti galéria Fish Hoekben.",
-                  "category": "museum",
-                  "coords": [
-                        18.450189,
-                        -34.125414
                   ]
             },
             {
@@ -1397,39 +1244,12 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Trappies Kop",
-                  "text": "A Trappies Kop egy jellegzetes hegycsúcs, amely a Fish Hoek területre néz.",
-                  "category": "landmark",
-                  "coords": [
-                        18.440215,
-                        -34.127797
-                  ]
-            },
-            {
                   "name": "Fresh Fish",
                   "text": "A Fresh Fish egy népszerű helyi látványosság Fish Hoekben.",
                   "category": "landmark",
                   "coords": [
                         18.449197,
                         -34.129187
-                  ]
-            },
-            {
-                  "name": "Fish Hoek Beach",
-                  "text": "A Fish Hoek Beach egy népszerű homokos tengerpart a False Bay partján.",
-                  "category": "recreational",
-                  "coords": [
-                        18.435797,
-                        -34.135963
-                  ]
-            },
-            {
-                  "name": "Fish Hoek Valley Museum",
-                  "text": "A Fish Hoek Valley Museum a régió helyi történelmét mutatja be.",
-                  "category": "museum",
-                  "coords": [
-                        18.427289,
-                        -34.137345
                   ]
             },
             {
@@ -1462,75 +1282,12 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Elsies Peak",
-                  "text": "Elsies Peak este un vârf montan notabil care domină orașul Fish Hoek.",
-                  "category": "landmark",
-                  "coords": [
-                        18.43561,
-                        -34.150136
-                  ]
-            },
-            {
-                  "name": "Garden of Remembrance",
-                  "text": "Garden of Remembrance este un monument memorial situat în Fish Hoek.",
-                  "category": "historical",
-                  "coords": [
-                        18.428646,
-                        -34.141365
-                  ]
-            },
-            {
                   "name": "The Lookout",
                   "text": "The Lookout este un punct de belvedere pitoresc situat în Fish Hoek.",
                   "category": "natural",
                   "coords": [
                         18.432929,
                         -34.117221
-                  ]
-            },
-            {
-                  "name": "Klein-Tuinkop",
-                  "text": "Klein-Tuinkop este un vârf montan situat în apropiere de orașul Fish Hoek.",
-                  "category": "landmark",
-                  "coords": [
-                        18.428982,
-                        -34.110457
-                  ]
-            },
-            {
-                  "name": "Skildersgatkop",
-                  "text": "Skildersgatkop este un vârf natural aflat în vecinătatea orașului Fish Hoek.",
-                  "category": "landmark",
-                  "coords": [
-                        18.407679,
-                        -34.118351
-                  ]
-            },
-            {
-                  "name": "Tunnel Cave",
-                  "text": "Tunnel Cave este o intrare de peșteră accesibilă situată în Fish Hoek.",
-                  "category": "landmark",
-                  "coords": [
-                        18.406089,
-                        -34.117625
-                  ]
-            },
-            {
-                  "name": "Ridge Peak",
-                  "text": "Ridge Peak este o culme naturală situată lângă Fish Hoek.",
-                  "category": "landmark",
-                  "coords": [
-                        18.439857,
-                        -34.115162
-                  ]
-            },
-            {
-                  "name": "INK BOX ART Gallery",
-                  "text": "INK BOX ART Gallery este un spațiu expozițional de artă local din Fish Hoek.",
-                  "category": "museum",
-                  "coords": [
-                        18.450189,
-                        -34.125414
                   ]
             },
             {
@@ -1552,39 +1309,12 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Trappies Kop",
-                  "text": "Trappies Kop este un vârf montan distinct care domină zona Fish Hoek.",
-                  "category": "landmark",
-                  "coords": [
-                        18.440215,
-                        -34.127797
-                  ]
-            },
-            {
                   "name": "Fresh Fish",
                   "text": "Fresh Fish este o atracție locală populară situată în Fish Hoek.",
                   "category": "landmark",
                   "coords": [
                         18.449197,
                         -34.129187
-                  ]
-            },
-            {
-                  "name": "Fish Hoek Beach",
-                  "text": "Fish Hoek Beach este o plajă populară de nisip pe coasta False Bay.",
-                  "category": "recreational",
-                  "coords": [
-                        18.435797,
-                        -34.135963
-                  ]
-            },
-            {
-                  "name": "Fish Hoek Valley Museum",
-                  "text": "Muzeul Fish Hoek Valley explorează istoria locală a regiunii.",
-                  "category": "museum",
-                  "coords": [
-                        18.427289,
-                        -34.137345
                   ]
             },
             {
@@ -1617,75 +1347,12 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Elsies Peak",
-                  "text": "Elsies Peak is a notable mountain peak overlooking the town of Fish Hoek.",
-                  "category": "landmark",
-                  "coords": [
-                        18.43561,
-                        -34.150136
-                  ]
-            },
-            {
-                  "name": "Garden of Remembrance",
-                  "text": "The Garden of Remembrance is a memorial monument located in Fish Hoek.",
-                  "category": "historical",
-                  "coords": [
-                        18.428646,
-                        -34.141365
-                  ]
-            },
-            {
                   "name": "The Lookout",
                   "text": "The Lookout is a scenic viewpoint situated in Fish Hoek.",
                   "category": "natural",
                   "coords": [
                         18.432929,
                         -34.117221
-                  ]
-            },
-            {
-                  "name": "Klein-Tuinkop",
-                  "text": "Klein-Tuinkop is a mountain peak located near the town of Fish Hoek.",
-                  "category": "landmark",
-                  "coords": [
-                        18.428982,
-                        -34.110457
-                  ]
-            },
-            {
-                  "name": "Skildersgatkop",
-                  "text": "Skildersgatkop is a natural peak found in the vicinity of Fish Hoek.",
-                  "category": "landmark",
-                  "coords": [
-                        18.407679,
-                        -34.118351
-                  ]
-            },
-            {
-                  "name": "Tunnel Cave",
-                  "text": "Tunnel Cave is an accessible cave entrance located in Fish Hoek.",
-                  "category": "landmark",
-                  "coords": [
-                        18.406089,
-                        -34.117625
-                  ]
-            },
-            {
-                  "name": "Ridge Peak",
-                  "text": "Ridge Peak is an elevated natural feature situated near Fish Hoek.",
-                  "category": "landmark",
-                  "coords": [
-                        18.439857,
-                        -34.115162
-                  ]
-            },
-            {
-                  "name": "INK BOX ART Gallery",
-                  "text": "INK BOX ART Gallery is a local art exhibition space located in Fish Hoek.",
-                  "category": "museum",
-                  "coords": [
-                        18.450189,
-                        -34.125414
                   ]
             },
             {
@@ -1707,39 +1374,12 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Trappies Kop",
-                  "text": "Trappies Kop is a distinct mountain peak overlooking the Fish Hoek area.",
-                  "category": "landmark",
-                  "coords": [
-                        18.440215,
-                        -34.127797
-                  ]
-            },
-            {
                   "name": "Fresh Fish",
                   "text": "Fresh Fish is a popular local attraction situated in Fish Hoek.",
                   "category": "landmark",
                   "coords": [
                         18.449197,
                         -34.129187
-                  ]
-            },
-            {
-                  "name": "Fish Hoek Beach",
-                  "text": "Fish Hoek Beach is a popular sandy shore on the False Bay coast.",
-                  "category": "recreational",
-                  "coords": [
-                        18.435797,
-                        -34.135963
-                  ]
-            },
-            {
-                  "name": "Fish Hoek Valley Museum",
-                  "text": "The Fish Hoek Valley Museum explores the local history of the region.",
-                  "category": "museum",
-                  "coords": [
-                        18.427289,
-                        -34.137345
                   ]
             },
             {
@@ -1755,15 +1395,6 @@ export const afNewV1: POI[] = [
 }, "type": "city", "name": {"de": "Fish Hoek", "hu": "Fish Hoek", "ro": "Fish Hoek", "en": "Fish Hoek"}, "description": {"de": "Ein malerischer Küstenort an der False Bay, bekannt für seinen familienfreundlichen Strand und das wärmere Wasser der Kaphalbinsel.", "hu": "Festői tengerparti város a False-öbölben, amely családbarát strandjáról és a Fok-félsziget többi részéhez képest melegebb vizéről híres.", "ro": "Un oraș de coastă pitoresc din False Bay, cunoscut pentru plaja sa prietenoasă pentru familii și apele mai calde de pe Peninsula Capului.", "en": "A picturesque coastal town in False Bay, known for its family-friendly beach and the warmer waters of the Cape Peninsula."}, "descriptionAdvanced": {"de": "Fish Hoek liegt an der wunderschönen False Bay Seite der Kaphalbinsel und bietet einen der sichersten Badestrände Südafrikas. Der Fish Hoek Beach ist berühmt für seinen weißen Sand und das im Vergleich zur Atlantikseite deutlich wärmere Wasser. In der unmittelbaren Umgebung finden sich charmante Gezeitenbecken wie das St James Tidal Pool, das ideal für Kinder ist. Weitere nahegelegene Strände wie St James Beach mit seinen bunten Badehäuschen, Dalebrook Beach und Kalk Bay Beach laden zum Verweilen ein.\n\nDer Ort hat eine entspannte, wohnliche Atmosphäre und ist ein Paradies für Rentner und junge Familien gleichermaßen. Während der Wal-Saison (Juni bis November) können oft Südkaper-Wale direkt von der Küste aus beobachtet werden. Die nahegelegenen Orte Kalk Bay und Simon’s Town bieten exzellente Fischrestaurants und Antiquitätenläden. Für Surfer und Naturliebhaber sind Danger Beach und Kalk Bay beliebte Anlaufstellen.\n\nFish Hoek ist gut mit der Vorortbahn von Kapstadt aus erreichbar, was es zu einem beliebten Ziel für Tagesausflügler macht. Die Stadt bewahrt eine gewisse Tradition und ist bekannt für ihre ruhige Lebensweise. Ob beim Schwimmen im geschützten Bereich des Fish Hoek Beach oder beim Erkunden der felsigen Küstenabschnitte – dieser Ort verkörpert das entspannte Lebensgefühl der südafrikanischen Küste perfekt.", "hu": "Fish Hoek a Fok-félsziget False-öböl felőli oldalán található, és Dél-Afrika egyik legbiztonságosabb fürdőhelyeként tartják számon. A Fish Hoek Beach finom fehér homokjáról és a Fokváros atlanti oldalához képest jóval melegebb vizéről híres. A környék bővelkedik különleges partszakaszokban: a St James Beach színes kabinjairól ismert, míg a St James Tidal Pool és a Dalebrook Beach természetes sziklamedencéi tökéletesek a biztonságos úszáshoz. A közeli Kalk Bay Beach és Danger Beach a vadabb partok kedvelőinek ajánlott.\n\nA város hangulata nyugodt és barátságos, ideális célpont családok számára. A bálnaszezon idején (júniustól novemberig) a partról is gyakran látni déli simabálnákat. A gasztronómiai élményekért érdemes átugrani Kalk Bay-be, ahol friss halételeket kínálnak a helyi kikötői éttermekben. A túrázók számára a környező hegyek számtalan ösvényt kínálnak, ahonnan pazar kilátás nyílik az öbölre.\n\nFish Hoek könnyen elérhető a Fokvárosból induló elővárosi vonattal, amely a világ egyik leglátványosabb vasútvonalán halad végig a part mentén. A település híres arról, hogy sokáig „száraz” város volt, ahol nem árultak alkoholt, ez is hozzájárult békés jellegéhez. Ma már modern szolgáltatásokkal, de a régi korok nyugalmával várja a tenger szerelmeseit.", "ro": "Fish Hoek este situat pe frumoasa parte False Bay a Peninsulei Capului și oferă una dintre cele mai sigure plaje pentru înot din Africa de Sud. Plaja Fish Hoek este faimoasă pentru nisipul său alb și apa semnificativ mai caldă în comparație cu partea atlantică. În imediata vecinătate se află bazine de maree fermecătoare, cum ar fi St James Tidal Pool, ideal pentru copii. Alte plaje din apropiere, precum St James Beach, cu căsuțele sale de plajă colorate, Dalebrook Beach și Kalk Bay Beach, sunt locuri excelente pentru relaxare.\n\nLocalitatea are o atmosferă relaxată și rezidențială, fiind un paradis atât pentru pensionari, cât și pentru familii tinere. În timpul sezonului balenelor (iunie-noiembrie), balenele pot fi observate direct de pe coastă. Orașele vecine Kalk Bay și Simon’s Town oferă restaurante excelente cu specific pescăresc și magazine de antichități. Pentru surferi și iubitorii de natură, Danger Beach este un punct de atracție popular.\n\nFish Hoek este ușor accesibil cu trenul din Cape Town, oferind una dintre cele mai pitorești călătorii feroviare din lume. Orașul își păstrează tradiția și este cunoscut pentru stilul său de viață liniștit. Fie că înoți în zona protejată a plajei Fish Hoek sau explorezi secțiunile stâncoase ale coastei, acest loc întruchipează perfect sentimentul de relaxare al coastei sud-africane.", "en": "Fish Hoek is located on the beautiful False Bay side of the Cape Peninsula and offers one of the safest swimming beaches in South Africa. Fish Hoek Beach is famous for its white sand and waters that are significantly warmer than those on the Atlantic side. The immediate area features charming tidal pools like the St James Tidal Pool, which is ideal for children. Other nearby beaches like St James Beach—famed for its colorful Victorian bathing boxes—Dalebrook Beach, and Kalk Bay Beach invite long stays.\n\nThe town has a relaxed, residential atmosphere and is a haven for both retirees and young families. During whale season (June to November), Southern Right Whales can often be spotted directly from the shoreline. Nearby Kalk Bay and Simon’s Town offer excellent seafood restaurants and antique shops. For surfers and nature lovers, Danger Beach is a popular local spot.\n\nFish Hoek is easily accessible via the suburban rail from Cape Town, which follows one of the world's most scenic train routes along the coast. The town maintains a sense of tradition and is known for its quiet lifestyle. Whether swimming in the shark-netted areas of Fish Hoek Beach or exploring the rocky coastline, this destination perfectly captures the laid-back South African coastal vibe."}, "facts": {"de": ["Lage: False Bay, Westkap", "Besonderheit: Wärmeres Wasser", "Sicherheit: Hainetze vorhanden", "Tierwelt: Walbeobachtung (Saison)", "Bahn: Metrorail-Anbindung", "Kultur: Ehemalige 'Dry Town'", "Strand: Familienfreundlich", "Natur: Elsies Peak Wanderweg"], "hu": ["Helyszín: False-öböl, Western Cape", "Jellemző: Melegebb tengervíz", "Biztonság: Cápafigyelő szolgálat", "Vadvilág: Bálnák (jún-nov)", "Vasút: Metrorail összeköttetés", "Történelem: Sokáig alkoholtilalom", "Strand: Családbarát és sekély", "Túra: Elsies Peak útvonal"], "ro": ["Locație: False Bay, Western Cape", "Specific: Apă mai caldă", "Siguranță: Plase anti-rechini", "Faună: Observarea balenelor", "Transport: Metrorail Cape Town", "Istoric: Fost 'oraș uscat'", "Plajă: Ideală pentru copii", "Activitate: Drumeție Elsies Peak"], "en": ["Location: False Bay, Western Cape", "Water: Warmer than Atlantic", "Safety: Shark spotters present", "Wildlife: Whale watching (season)", "Rail: Scenic Metrorail route", "Culture: Former 'dry town'", "Beach: Family-oriented", "Hiking: Elsies Peak trail"]}, "coords": [18.41946, -34.13368], "parent": "ZA-WC", "tier": 2, "image": "/poi-images/south-africa-fish-hoek-cities-v2.webp"},
 {"id": "south-africa-llandudno-cities-v2", "sights": {
       "de": [
-            {
-                  "name": "Kleiner Löwenkopf",
-                  "text": "Little Lion's Head ist ein bemerkenswerter Gipfel mit malerischer Aussicht in Llandudno.",
-                  "category": "landmark",
-                  "coords": [
-                        18.343467,
-                        -34.016787
-                  ]
-            },
             {
                   "name": "Suther Peak",
                   "text": "Suther Peak ist ein bekannter Berggipfel in Llandudno.",
@@ -1801,24 +1432,6 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Sunset Rocks",
-                  "text": "Sunset Rocks ist ein schöner Strandabschnitt in Llandudno.",
-                  "category": "recreational",
-                  "coords": [
-                        18.335722,
-                        -34.010241
-                  ]
-            },
-            {
-                  "name": "Hottentotshuisiebaai",
-                  "text": "Hottentotshuisiebaai ist eine Küstenbucht in Llandudno.",
-                  "category": "landmark",
-                  "coords": [
-                        18.346308,
-                        -33.988648
-                  ]
-            },
-            {
                   "name": "Ken Heights Private Nature Reserve",
                   "text": "Das Ken Heights Private Nature Reserve ist ein geschütztes Naturgebiet in Llandudno.",
                   "category": "natural",
@@ -1826,54 +1439,9 @@ export const afNewV1: POI[] = [
                         18.372948,
                         -34.010205
                   ]
-            },
-            {
-                  "name": "World of Birds",
-                  "text": "World of Birds ist ein bekanntes Tierschutzgebiet und Affenpark in Llandudno.",
-                  "category": "recreational",
-                  "coords": [
-                        18.362166,
-                        -34.016993
-                  ]
-            },
-            {
-                  "name": "Sandy Bay Beach",
-                  "text": "Sandy Bay Beach ist ein bekannter Strand in Llandudno.",
-                  "category": "recreational",
-                  "coords": [
-                        18.33132,
-                        -34.023431
-                  ]
-            },
-            {
-                  "name": "Llandudno Beach",
-                  "text": "Llandudno Beach ist ein beliebter Küstenabschnitt in Llandudno.",
-                  "category": "recreational",
-                  "coords": [
-                        18.341132,
-                        -34.008276
-                  ]
-            },
-            {
-                  "name": "Oudekraal",
-                  "text": "Oudekraal ist ein bemerkenswerter Strandbereich in Llandudno.",
-                  "category": "recreational",
-                  "coords": [
-                        18.34979,
-                        -33.987386
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Little Lion's Head",
-                  "text": "A Little Lion's Head egy figyelemre méltó hegycsúcs festői kilátással Llandudno területén.",
-                  "category": "landmark",
-                  "coords": [
-                        18.343467,
-                        -34.016787
-                  ]
-            },
             {
                   "name": "Suther Peak",
                   "text": "A Suther Peak egy jól ismert hegycsúcs Llandudno-ban.",
@@ -1911,24 +1479,6 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Sunset Rocks",
-                  "text": "A Sunset Rocks egy gyönyörű strand Llandudno területén.",
-                  "category": "recreational",
-                  "coords": [
-                        18.335722,
-                        -34.010241
-                  ]
-            },
-            {
-                  "name": "Hottentotshuisiebaai",
-                  "text": "A Hottentotshuisiebaai egy tengerparti öböl Llandudno városában.",
-                  "category": "landmark",
-                  "coords": [
-                        18.346308,
-                        -33.988648
-                  ]
-            },
-            {
                   "name": "Ken Heights Private Nature Reserve",
                   "text": "A Ken Heights Private Nature Reserve egy védett természeti terület Llandudno városában.",
                   "category": "natural",
@@ -1936,54 +1486,9 @@ export const afNewV1: POI[] = [
                         18.372948,
                         -34.010205
                   ]
-            },
-            {
-                  "name": "World of Birds",
-                  "text": "A World of Birds egy jelentős vadvédelmi terület és majompark Llandudno városában.",
-                  "category": "recreational",
-                  "coords": [
-                        18.362166,
-                        -34.016993
-                  ]
-            },
-            {
-                  "name": "Sandy Bay Beach",
-                  "text": "A Sandy Bay Beach egy ismert strand Llandudno területén.",
-                  "category": "recreational",
-                  "coords": [
-                        18.33132,
-                        -34.023431
-                  ]
-            },
-            {
-                  "name": "Llandudno Beach",
-                  "text": "A Llandudno Beach egy népszerű partszakasz Llandudno városában.",
-                  "category": "recreational",
-                  "coords": [
-                        18.341132,
-                        -34.008276
-                  ]
-            },
-            {
-                  "name": "Oudekraal",
-                  "text": "Az Oudekraal egy figyelemre méltó strand Llandudno területén.",
-                  "category": "recreational",
-                  "coords": [
-                        18.34979,
-                        -33.987386
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Little Lion's Head",
-                  "text": "Little Lion's Head este un vârf notabil care oferă vederi pitorești în Llandudno.",
-                  "category": "landmark",
-                  "coords": [
-                        18.343467,
-                        -34.016787
-                  ]
-            },
             {
                   "name": "Suther Peak",
                   "text": "Suther Peak este un vârf de munte binecunoscut situat în Llandudno.",
@@ -2021,24 +1526,6 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Sunset Rocks",
-                  "text": "Sunset Rocks este o plajă frumoasă din Llandudno.",
-                  "category": "recreational",
-                  "coords": [
-                        18.335722,
-                        -34.010241
-                  ]
-            },
-            {
-                  "name": "Hottentotshuisiebaai",
-                  "text": "Hottentotshuisiebaai este un golf de coastă situat în Llandudno.",
-                  "category": "landmark",
-                  "coords": [
-                        18.346308,
-                        -33.988648
-                  ]
-            },
-            {
                   "name": "Ken Heights Private Nature Reserve",
                   "text": "Rezervația Naturală Privată Ken Heights este o arie naturală protejată din Llandudno.",
                   "category": "natural",
@@ -2046,54 +1533,9 @@ export const afNewV1: POI[] = [
                         18.372948,
                         -34.010205
                   ]
-            },
-            {
-                  "name": "World of Birds",
-                  "text": "World of Birds este un important sanctuar de viață sălbatică și parc de maimuțe din Llandudno.",
-                  "category": "recreational",
-                  "coords": [
-                        18.362166,
-                        -34.016993
-                  ]
-            },
-            {
-                  "name": "Sandy Bay Beach",
-                  "text": "Plaja Sandy Bay este o destinație de plajă cunoscută în Llandudno.",
-                  "category": "recreational",
-                  "coords": [
-                        18.33132,
-                        -34.023431
-                  ]
-            },
-            {
-                  "name": "Llandudno Beach",
-                  "text": "Plaja Llandudno este o fâșie de coastă populară din Llandudno.",
-                  "category": "recreational",
-                  "coords": [
-                        18.341132,
-                        -34.008276
-                  ]
-            },
-            {
-                  "name": "Oudekraal",
-                  "text": "Oudekraal este o zonă de plajă notabilă situată în Llandudno.",
-                  "category": "recreational",
-                  "coords": [
-                        18.34979,
-                        -33.987386
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Little Lion's Head",
-                  "text": "Little Lion's Head is a notable peak offering scenic views in Llandudno.",
-                  "category": "landmark",
-                  "coords": [
-                        18.343467,
-                        -34.016787
-                  ]
-            },
             {
                   "name": "Suther Peak",
                   "text": "Suther Peak is a well-known mountain peak situated in Llandudno.",
@@ -2131,66 +1573,12 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Sunset Rocks",
-                  "text": "Sunset Rocks is a beautiful beach area in Llandudno.",
-                  "category": "recreational",
-                  "coords": [
-                        18.335722,
-                        -34.010241
-                  ]
-            },
-            {
-                  "name": "Hottentotshuisiebaai",
-                  "text": "Hottentotshuisiebaai is a coastal bay located in Llandudno.",
-                  "category": "landmark",
-                  "coords": [
-                        18.346308,
-                        -33.988648
-                  ]
-            },
-            {
                   "name": "Ken Heights Private Nature Reserve",
                   "text": "Ken Heights Private Nature Reserve is a protected natural area in Llandudno.",
                   "category": "natural",
                   "coords": [
                         18.372948,
                         -34.010205
-                  ]
-            },
-            {
-                  "name": "World of Birds",
-                  "text": "World of Birds is a prominent wildlife sanctuary and monkey park in Llandudno.",
-                  "category": "recreational",
-                  "coords": [
-                        18.362166,
-                        -34.016993
-                  ]
-            },
-            {
-                  "name": "Sandy Bay Beach",
-                  "text": "Sandy Bay Beach is a known beach destination in Llandudno.",
-                  "category": "recreational",
-                  "coords": [
-                        18.33132,
-                        -34.023431
-                  ]
-            },
-            {
-                  "name": "Llandudno Beach",
-                  "text": "Llandudno Beach is a popular coastal stretch in Llandudno.",
-                  "category": "recreational",
-                  "coords": [
-                        18.341132,
-                        -34.008276
-                  ]
-            },
-            {
-                  "name": "Oudekraal",
-                  "text": "Oudekraal is a notable beach area situated in Llandudno.",
-                  "category": "recreational",
-                  "coords": [
-                        18.34979,
-                        -33.987386
                   ]
             }
       ]
@@ -2312,39 +1700,12 @@ export const afNewV1: POI[] = [
       ],
       "en": [
             {
-                  "name": "Al Aseel Resort",
-                  "text": "Al Aseel Resort is a beach resort located in Ghanfouda Village.",
-                  "category": "recreational",
-                  "coords": [
-                        19.996248,
-                        32.019642
-                  ]
-            },
-            {
                   "name": "مصيف المعلمين",
                   "text": "مصيف المعلمين is a beach resort located in Ghanfouda Village.",
                   "category": "recreational",
                   "coords": [
                         19.990992,
                         32.016551
-                  ]
-            },
-            {
-                  "name": "Ganfouda Beach",
-                  "text": "Ganfouda Beach is a beach located in Ghanfouda Village.",
-                  "category": "recreational",
-                  "coords": [
-                        20.00201,
-                        32.027567
-                  ]
-            },
-            {
-                  "name": "Tourist City - Nerrose",
-                  "text": "Tourist City - Nerrose is a beach located in Ghanfouda Village.",
-                  "category": "recreational",
-                  "coords": [
-                        20.017791,
-                        32.043234
                   ]
             }
       ]
@@ -2397,194 +1758,10 @@ export const afNewV1: POI[] = [
       ]
 }, "type": "city", "name": {"de": "Douar-Meridima", "hu": "Douar-Meridima", "ro": "Douar-Meridima", "en": "Douar-Meridima"}, "description": {"de": "Ein malerischer Küstenort in der Nähe von El Kala, berühmt für seine goldenen Sandstrände und das historische Erbe der Korallenfischerei.", "hu": "Festői tengerparti település El Kala közelében, amely aranyhomokos strandjairól és a korallhalászat történelmi örökségéről híres.", "ro": "O localitate de coastă pitorească lângă El Kala, celebră pentru plajele sale cu nisip auriu și moștenirea istorică a pescuitului de corali.", "en": "A picturesque coastal settlement near El Kala, famous for its golden sandy beaches and the historic heritage of coral fishing."}, "descriptionAdvanced": {"de": "Douar-Meridima ist eine charmante Siedlung an der nordöstlichen Küste Algeriens, eingebettet in die wunderschöne Landschaft der Provinz El Tarf. Die Region ist historisch eng mit der Stadt El Kala verbunden, die einst das Zentrum der mediterranen Korallenfischerei war. Douar-Meridima bietet Besuchern eine authentische algerische Küstenerfahrung, geprägt von einer Mischung aus mediterraner Flora und beeindruckenden maritimem Landschaften.\n\nDie Strände von Douar-Meridima gehören zu den attraktivsten der Region. Der 'Goldstrand' (شاطئ الرمال الذهبية) macht seinem Namen alle Ehre und besticht durch feinsten Sand und ruhiges Wasser. Der Strand des alten El Kala (شاطئ القالة القديمة) bietet einen Einblick in die Geschichte der Region, während Plage La Marsa (شاطئ المرسى) und Plage Lambouchir (شاطئ لمبوشير) ideale Orte für Ruhesuchende sind. Der Strand Machrah Ech-Chaiir (شاطئ مشرح الشعير) rundet das Angebot mit seiner markanten Küstenformation ab.\n\nDie Umgebung lädt zu Wanderungen entlang der Küstenpfade ein, von denen aus man spektakuläre Ausblicke auf das Meer und die vorgelagerten Klippen hat. Die lokale Küche bietet köstliche Fischgerichte, die nach traditionellen Rezepten zubereitet werden. Da der Ort weniger stark frequentiert ist als die großen Badeorte, ist er ein ideales Ziel für Individualreisende, die die ursprüngliche algerische Riviera entdecken möchten. Die Nähe zum El Kala Nationalpark macht Douar-Meridima zudem zu einem strategischen Punkt für Naturbeobachtungen.", "hu": "Douar-Meridima egy bájos település Algéria északkeleti partvidékén, El Tarf tartomány lenyűgöző tájai között. A környék történelmileg szorosan kapcsolódik El Kala városához, amely egykor a mediterrán korallhalászat központja volt. Douar-Meridima autentikus algériai tengerparti élményt nyújt, ahol a mediterrán növényzet és a drámai sziklaalakzatok találkoznak a kristálytiszta vízzel.\n\nA falu strandjai a régió legszebbjei közé tartoznak. Az Aranyhomok strand (شاطئ الرمال الذهبية) neve hűen tükrözi a part finomságát és ragyogását. A Régi El Kala strandja (شاطئ القالة القديمة) történelmi emlékeket idéz, míg a Plage La Marsa (شاطئ المرسى) és a Plage Lambouchir (شاطئ لمbouchir) békés menedéket kínál a látogatóknak. A Machrah Ech-Chaiir strand (شاطئ مشرح الشعير) különleges sziklás környezetével vonzza a természetbarátokat. A víz itt rendkívül tiszta, ideális úszáshoz és búvárkodáshoz.\n\nA környék felfedezése során érdemes bejárni a part menti ösvényeket, ahonnan pazar kilátás nyílik a tengerre. A helyi gasztronómia a friss tengeri fogásokra épül, amelyeket a hagyományos algériai fűszerezés tesz különlegessé. Mivel Douar-Meridima elkerüli a tömegturizmust, a látogatók valódi nyugalomra lelhetnek. Az El Kala Nemzeti Park közelsége pedig további lehetőségeket kínál a gazdag élővilág és a védett vizes élőhelyek felfedezésére.", "ro": "Douar-Meridima este o așezare fermecătoare pe coasta de nord-est a Algeriei, situată în peisajul spectaculos al provinciei El Tarf. Istoria regiunii este strâns legată de orașul El Kala, care a fost mult timp centrul pescuitului de corali în Marea Mediterană. Douar-Meridima oferă vizitatorilor o experiență de coastă autentic algeriană, caracterizată printr-un amestec de floră mediteraneană bogată și peisaje marine impresionante.\n\nPlajele din Douar-Meridima sunt considerate printre cele mai frumoase din zonă. „Plaja Nisipurilor de Aur” (شاطئ الرمال الذهبية) își onorează numele prin nisipul fin și apele sale calme și clare. Plaja vechiului El Kala (شاطئ القالة القديمة) oferă o perspectivă istorică asupra regiunii, în timp ce Plage La Marsa (شاطئ المرسى) și Plage Lambouchir (شاطئ لمبوشير) sunt locuri ideale pentru relaxare totală. Plaja Machrah Ech-Chaiir (شاطئ مشرح الشعير) completează peisajul cu formațiunile sale stâncoase distinctive. Aceste locații sunt ideale pentru scufundări și relaxare la soare.\n\nÎmprejurimile invită la drumeții pe potecile de coastă, oferind vederi spectaculoase asupra falezelor și a mării. Gastronomia locală pune accent pe peștele proaspăt pregătit după rețete tradiționale algeriene. Deoarece localitatea este mai puțin frecventată de turiștii de masă, rămâne o destinație ideală pentru călătorii individuali care doresc să descopere „Riviera algeriană” în forma sa cea mai pură. Proximitatea față de Parcul Național El Kala transformă Douar-Meridima într-un punct strategic pentru iubitorii de natură.", "en": "Douar-Meridima is a charming settlement on the northeastern coast of Algeria, nestled within the beautiful landscapes of the El Tarf province. Historically, the region is closely linked to the town of El Kala, which was once the Mediterranean center for coral fishing. Douar-Meridima offers visitors an authentic Algerian coastal experience, marked by a mix of Mediterranean flora and impressive maritime vistas.\n\nThe beaches of Douar-Meridima are among the most attractive in the region. The 'Golden Sands' beach (شاطئ الرمال الذهبية) lives up to its name, featuring the finest sand and calm waters. The beach of Old El Kala (شاطئ القالة القديمة) provides a glimpse into the region's history, while Plage La Marsa (شاطئ المرسى) and Plage Lambouchir (شاطئ لمبوشير) are ideal spots for those seeking peace and quiet. Machrah Ech-Chaiir beach (شاطئ مشرح الشعير) rounds out the coastal offerings with its striking shoreline formations.\n\nThe surroundings are perfect for hikes along coastal paths, offering spectacular views of the sea and offshore cliffs. Local cuisine features delicious fish dishes prepared according to traditional recipes. As the place is less frequented than major seaside resorts, it is an ideal destination for independent travelers wishing to discover the original Algerian Riviera. Its proximity to the El Kala National Park also makes Douar-Meridima a strategic point for nature observation."}, "facts": {"de": ["Provinz El Tarf", "Nahe historischem El Kala", "Goldene Sandstrände", "Traditionelle Fischküche", "Spektakuläre Klippenpfade", "Erbe der Korallenfischerei", "Ruhige, untouristische Lage", "Kristallklares Badewasser"], "hu": ["El Tarf tartományban fekszik", "Történelmi El Kala közelében", "Aranyhomokos strandok", "Hagyományos halételek", "Látványos sziklás ösvények", "Korallhalászati múlt", "Nyugodt, nem turistás hely", "Kristálytiszta fürdővíz"], "ro": ["Provincia El Tarf", "Lângă orașul istoric El Kala", "Plaje cu nisip auriu", "Bucătărie tradițională cu pește", "Poteci spectaculoase pe faleze", "Moștenirea pescuitului de corali", "Locație liniștită, neturistică", "Apă cristalină pentru înot"], "en": ["Located in El Tarf Province", "Near historic El Kala", "Golden sandy beaches", "Traditional fish cuisine", "Spectacular cliffside paths", "Coral fishing heritage", "Quiet, non-touristy location", "Crystal-clear swimming water"]}, "coords": [8.40744, 36.87695], "parent": "DZ-36", "tier": 2, "image": "/poi-images/algeria-douar-meridima-cities-v2.webp"},
 {"id": "algeria-el-hamdania-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "El Maskhota",
-                  "text": "El Maskhota ist ein malerischer Küstenstrand in El Hamdania.",
-                  "category": "recreational",
-                  "coords": [
-                        2.271888,
-                        36.62662
-                  ]
-            },
-            {
-                  "name": "Plage El Hamdania 2",
-                  "text": "Plage El Hamdania 2 ist ein Sandstrand, der Zugang zum Wasser in El Hamdania bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        2.28084,
-                        36.628912
-                  ]
-            },
-            {
-                  "name": "3 ilots",
-                  "text": "3 ilots ist ein Küstenstrand, der durch seine natürliche Umgebung in El Hamdania geprägt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        2.26072,
-                        36.62389
-                  ]
-            },
-            {
-                  "name": "Hamdania",
-                  "text": "Hamdania ist ein bekannter Strand, der Erholung am Meer in der Stadt El Hamdania bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        2.254641,
-                        36.61932
-                  ]
-            },
-            {
-                  "name": "Oued Oumazer",
-                  "text": "Oued Oumazer ist ein lokaler Küstenstrand in El Hamdania.",
-                  "category": "recreational",
-                  "coords": [
-                        2.298795,
-                        36.63356
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "El Maskhota",
-                  "text": "Az El Maskhota egy festői tengerparti strand El Hamdania városában.",
-                  "category": "recreational",
-                  "coords": [
-                        2.271888,
-                        36.62662
-                  ]
-            },
-            {
-                  "name": "Plage El Hamdania 2",
-                  "text": "A Plage El Hamdania 2 egy homokos partszakasz, amely vízparti hozzáférést biztosít El Hamdania városában.",
-                  "category": "recreational",
-                  "coords": [
-                        2.28084,
-                        36.628912
-                  ]
-            },
-            {
-                  "name": "3 ilots",
-                  "text": "A 3 ilots egy partmenti strand, amelyet természeti környezete jellemez El Hamdania városában.",
-                  "category": "recreational",
-                  "coords": [
-                        2.26072,
-                        36.62389
-                  ]
-            },
-            {
-                  "name": "Hamdania",
-                  "text": "A Hamdania egy ismert strand, amely tengerparti pihenést nyújt El Hamdania városában.",
-                  "category": "recreational",
-                  "coords": [
-                        2.254641,
-                        36.61932
-                  ]
-            },
-            {
-                  "name": "Oued Oumazer",
-                  "text": "Az Oued Oumazer egy helyi tengerparti strand El Hamdania városában.",
-                  "category": "recreational",
-                  "coords": [
-                        2.298795,
-                        36.63356
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "El Maskhota",
-                  "text": "El Maskhota este o plajă pitorească de coastă situată în El Hamdania.",
-                  "category": "recreational",
-                  "coords": [
-                        2.271888,
-                        36.62662
-                  ]
-            },
-            {
-                  "name": "Plage El Hamdania 2",
-                  "text": "Plage El Hamdania 2 este o coastă nisipoasă care oferă acces la apă în El Hamdania.",
-                  "category": "recreational",
-                  "coords": [
-                        2.28084,
-                        36.628912
-                  ]
-            },
-            {
-                  "name": "3 ilots",
-                  "text": "3 ilots este o zonă de plajă de coastă caracterizată de cadrul său natural în El Hamdania.",
-                  "category": "recreational",
-                  "coords": [
-                        2.26072,
-                        36.62389
-                  ]
-            },
-            {
-                  "name": "Hamdania",
-                  "text": "Hamdania este o plajă proeminentă care oferă relaxare la mare în orașul El Hamdania.",
-                  "category": "recreational",
-                  "coords": [
-                        2.254641,
-                        36.61932
-                  ]
-            },
-            {
-                  "name": "Oued Oumazer",
-                  "text": "Oued Oumazer este o plajă locală de coastă situată în El Hamdania.",
-                  "category": "recreational",
-                  "coords": [
-                        2.298795,
-                        36.63356
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "El Maskhota",
-                  "text": "El Maskhota is a scenic coastal beach located in El Hamdania.",
-                  "category": "recreational",
-                  "coords": [
-                        2.271888,
-                        36.62662
-                  ]
-            },
-            {
-                  "name": "Plage El Hamdania 2",
-                  "text": "Plage El Hamdania 2 is a sandy shoreline offering access to the water in El Hamdania.",
-                  "category": "recreational",
-                  "coords": [
-                        2.28084,
-                        36.628912
-                  ]
-            },
-            {
-                  "name": "3 ilots",
-                  "text": "3 ilots is a coastal beach area characterized by its natural setting in El Hamdania.",
-                  "category": "recreational",
-                  "coords": [
-                        2.26072,
-                        36.62389
-                  ]
-            },
-            {
-                  "name": "Hamdania",
-                  "text": "Hamdania is a prominent beach offering relaxation by the sea in the city of El Hamdania.",
-                  "category": "recreational",
-                  "coords": [
-                        2.254641,
-                        36.61932
-                  ]
-            },
-            {
-                  "name": "Oued Oumazer",
-                  "text": "Oued Oumazer is a local coastal beach located in El Hamdania.",
-                  "category": "recreational",
-                  "coords": [
-                        2.298795,
-                        36.63356
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "name": {"de": "El Hamdania", "hu": "El Hamdania", "ro": "El Hamdania", "en": "El Hamdania"}, "description": {"de": "Ein idyllisches Küstendorf in der Provinz Tipaza, bekannt für kristallklares Wasser und seine Nähe zu römischen Ruinen.", "hu": "Idilli tengerparti falu Tipaza tartományban, amely kristálytiszta vizéről és római kori romok közelségéről ismert.", "ro": "Un sat de coastă idilic în provincia Tipaza, cunoscut pentru apele sale cristaline și proximitatea față de ruinele romane.", "en": "An idyllic coastal village in Tipaza province, known for its crystal-clear waters and proximity to ancient Roman ruins."}, "descriptionAdvanced": {"de": "El Hamdania ist ein verborgenes Juwel an der algerischen Mittelmeerküste, gelegen in der historisch bedeutsamen Provinz Tipaza. Der Ort besticht durch seine dramatische Küstenlinie, an der sich steile Klippen und sanfte Sandstrände abwechseln. Zu den bekanntesten Stränden gehören El Maskhota und Plage El Hamdania 2, die für ihre Sauberkeit und Ruhe geschätzt werden. Besonders reizvoll ist die Gegend um die '3 ilots', drei kleine Inseln, die ideale Bedingungen zum Schnorcheln und Tauchen bieten. Der Strand von Hamdania und die Mündung des Oued Oumazer sind beliebte Orte für Naturliebhaber. Die lokale Gastronomie bietet exzellente Fischgerichte, die direkt am Meer serviert werden. Dank der guten Anbindung an die Küstenstraße N11 ist El Hamdania ein perfekter Ausgangspunkt, um die UNESCO-Weltkulturerbestätten in Tipaza und Cherchell zu erkunden, während man die frische Meeresbrise genießt.", "hu": "El Hamdania egy rejtett gyöngyszem az algériai Földközi-tenger partján, a történelmi jelentőségű Tipaza tartományban. A település drámai tengerparttal rendelkezik, ahol meredek sziklák és lágy homokos szakaszok váltják egymást. A legismertebb strandok közé tartozik az El Maskhota és a Plage El Hamdania 2, amelyeket tisztaságuk és nyugalmuk miatt kedvelnek a látogatók. Különösen vonzó a „3 ilots” (három szigetecske) környéke, amely kiváló feltételeket biztosít a búvárkodáshoz és a sznorkelezéshez. A Hamdania strand és az Oued Oumazer folyó torkolata a természetjárók kedvelt célpontja. A helyi gasztronómia friss tengeri halakra épül, amelyeket közvetlenül a parton szolgálnak fel. Az N11-es parti útnak köszönhetően El Hamdania ideális bázis Tipaza és Cherchell UNESCO világörökségi helyszíneinek felfedezéséhez, miközben a látogatók élvezhetik a tenger frissítő közelségét.", "ro": "El Hamdania este o bijuterie ascunsă pe coasta mediteraneană a Algeriei, situată în provincia istorică Tipaza. Localitatea impresionează prin linia sa de coastă dramatică, unde stâncile abrupte alternează cu plaje line de nisip. Printre cele mai cunoscute plaje se numără El Maskhota și Plage El Hamdania 2, apreciate pentru curățenia și liniștea lor. O atracție deosebită este zona '3 ilots', trei insulițe care oferă condiții ideale pentru snorkeling și scufundări. Plaja Hamdania și gura de vărsare a râului Oued Oumazer sunt locuri preferate de iubitorii de natură. Gastronomia locală oferă preparate excelente din pește, servite direct pe malul mării. Datorită conexiunii bune cu drumul de coastă N11, El Hamdania este un punct de plecare perfect pentru explorarea siturilor UNESCO din Tipaza și Cherchell, oferind în același timp o atmosferă relaxantă și briză marină.", "en": "El Hamdania is a hidden gem on the Algerian Mediterranean coast, located in the historically significant Tipaza province. The settlement boasts a dramatic coastline where steep cliffs alternate with soft sandy stretches. Among the most famous beaches are El Maskhota and Plage El Hamdania 2, highly valued for their cleanliness and tranquility. The '3 ilots' area is particularly attractive, offering excellent conditions for snorkeling and diving. Hamdania beach and the mouth of the Oued Oumazer are favorite spots for nature lovers. Local gastronomy focuses on fresh seafood served right by the shore. Thanks to its good connection via the N11 coastal road, El Hamdania is an ideal base for exploring the UNESCO World Heritage sites in Tipaza and Cherchell while enjoying the refreshing proximity of the sea."}, "facts": {"de": ["Lage: Provinz Tipaza", "Klima: Mediterran", "Wassertemperatur: Bis zu 25°C", "Spezialität: Gegrillte Sardinen", "Aktivität: Schnorcheln", "Verkehr: Küstenstraße N11", "Nähe: Römische Ruinen von Tipaza", "Sprache: Arabisch & Französisch"], "hu": ["Helyszín: Tipaza tartomány", "Éghajlat: Mediterrán", "Vízhőmérséklet: Akár 25°C", "Gasztronómia: Grillezett szardínia", "Fő aktivitás: Búvárkodás", "Megközelítés: N11-es autóút", "Látnivaló: Tipaza római romjai", "Nyelv: Arab és francia"], "ro": ["Locație: Provincia Tipaza", "Climat: Mediteranean", "Temperatura apei: Până la 25°C", "Specialitate: Sardine la grătar", "Activitate: Snorkeling", "Acces: Drumul de coastă N11", "Atracție: Ruinele romane din Tipaza", "Limbi: Arabă și franceză"], "en": ["Location: Tipaza Province", "Climate: Mediterranean", "Water temperature: Up to 25°C", "Food specialty: Grilled sardines", "Main activity: Snorkeling", "Transport: N11 coastal road", "Nearby: Tipaza Roman ruins", "Language: Arabic & French"]}, "coords": [2.27344, 36.62685], "parent": "DZ-42", "tier": 2, "image": "/poi-images/algeria-el-hamdania-cities-v2.webp"},
 {"id": "algeria-ouled-boughalem-cities-v2", "sights": {
       "de": [
@@ -3359,33 +2536,6 @@ export const afNewV1: POI[] = [
 {"id": "south-africa-salt-rock-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Granny's Pool",
-                  "text": "Granny's Pool ist ein geschützter Strandbereich, der als sicherer Badeort in Salt Rock bekannt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        31.240631,
-                        -29.501788
-                  ]
-            },
-            {
-                  "name": "Tiffany's",
-                  "text": "Tiffany's ist ein schöner Strand, der Freizeitaktivitäten am Meer in Salt Rock bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        31.24194,
-                        -29.500013
-                  ]
-            },
-            {
-                  "name": "Sheffield Beach",
-                  "text": "Sheffield Beach ist ein bekanntes Küstenziel, das für Strandbesuche in der Nähe von Salt Rock beliebt ist.",
-                  "category": "recreational",
-                  "coords": [
-                        31.250062,
-                        -29.491207
-                  ]
-            },
-            {
                   "name": "Crayfish",
                   "text": "Crayfish ist ein malerischer Strandabschnitt in der Küstenstadt Salt Rock.",
                   "category": "recreational",
@@ -3404,15 +2554,6 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Salt Rock Beach",
-                  "text": "Salt Rock Beach ist ein beliebter Sandstrand, der hervorragende Möglichkeiten zum Surfen und Schwimmen bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        31.236294,
-                        -29.506596
-                  ]
-            },
-            {
                   "name": "Thompson's Beach",
                   "text": "Thompson's Beach ist ein malerischer Strand in Salt Rock.",
                   "category": "recreational",
@@ -3423,33 +2564,6 @@ export const afNewV1: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Granny's Pool",
-                  "text": "A Granny's Pool egy védett strand, amely biztonságos úszóhelyként ismert Salt Rockban.",
-                  "category": "recreational",
-                  "coords": [
-                        31.240631,
-                        -29.501788
-                  ]
-            },
-            {
-                  "name": "Tiffany's",
-                  "text": "A Tiffany's egy kellemes tengerpart, amely tengerparti kikapcsolódást kínál Salt Rockban.",
-                  "category": "recreational",
-                  "coords": [
-                        31.24194,
-                        -29.500013
-                  ]
-            },
-            {
-                  "name": "Sheffield Beach",
-                  "text": "A Sheffield Beach egy ismert tengerparti célpont a strandolók körében Salt Rock közelében.",
-                  "category": "recreational",
-                  "coords": [
-                        31.250062,
-                        -29.491207
-                  ]
-            },
             {
                   "name": "Crayfish",
                   "text": "A Crayfish egy festői partszakasz a tengerparti Salt Rock városában.",
@@ -3469,15 +2583,6 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Salt Rock Beach",
-                  "text": "A Salt Rock Beach egy népszerű homokos part, amely kiváló szörfözési és úszási lehetőségeket kínál.",
-                  "category": "recreational",
-                  "coords": [
-                        31.236294,
-                        -29.506596
-                  ]
-            },
-            {
                   "name": "Thompson's Beach",
                   "text": "A Thompson's Beach egy festői strand Salt Rock városában.",
                   "category": "recreational",
@@ -3488,33 +2593,6 @@ export const afNewV1: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Granny's Pool",
-                  "text": "Granny's Pool este o zonă de plajă adăpostită, faimoasă ca loc sigur de înot în Salt Rock.",
-                  "category": "recreational",
-                  "coords": [
-                        31.240631,
-                        -29.501788
-                  ]
-            },
-            {
-                  "name": "Tiffany's",
-                  "text": "Tiffany's este o plajă plăcută care oferă activități de agrement la malul mării în Salt Rock.",
-                  "category": "recreational",
-                  "coords": [
-                        31.24194,
-                        -29.500013
-                  ]
-            },
-            {
-                  "name": "Sheffield Beach",
-                  "text": "Sheffield Beach este o destinație de coastă cunoscută și populară pentru mersul la plajă lângă Salt Rock.",
-                  "category": "recreational",
-                  "coords": [
-                        31.250062,
-                        -29.491207
-                  ]
-            },
             {
                   "name": "Crayfish",
                   "text": "Crayfish este o porțiune pitorească de plajă situată în orașul de coastă Salt Rock.",
@@ -3534,15 +2612,6 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Salt Rock Beach",
-                  "text": "Salt Rock Beach este o plajă populară de nisip care oferă oportunități excelente de surfing și înot.",
-                  "category": "recreational",
-                  "coords": [
-                        31.236294,
-                        -29.506596
-                  ]
-            },
-            {
                   "name": "Thompson's Beach",
                   "text": "Thompson's Beach este o plajă pitorească situată în Salt Rock.",
                   "category": "recreational",
@@ -3553,33 +2622,6 @@ export const afNewV1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Granny's Pool",
-                  "text": "Granny's Pool is a sheltered beach area famous as a safe swimming spot in Salt Rock.",
-                  "category": "recreational",
-                  "coords": [
-                        31.240631,
-                        -29.501788
-                  ]
-            },
-            {
-                  "name": "Tiffany's",
-                  "text": "Tiffany's is a pleasant beach offering seaside leisure in Salt Rock.",
-                  "category": "recreational",
-                  "coords": [
-                        31.24194,
-                        -29.500013
-                  ]
-            },
-            {
-                  "name": "Sheffield Beach",
-                  "text": "Sheffield Beach is a known coastal destination popular for beachgoing near Salt Rock.",
-                  "category": "recreational",
-                  "coords": [
-                        31.250062,
-                        -29.491207
-                  ]
-            },
             {
                   "name": "Crayfish",
                   "text": "Crayfish is a scenic stretch of beach located in the coastal town of Salt Rock.",
@@ -3596,15 +2638,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         31.23192,
                         -29.514178
-                  ]
-            },
-            {
-                  "name": "Salt Rock Beach",
-                  "text": "Salt Rock Beach is a popular sandy shoreline providing excellent surfing and swimming opportunities.",
-                  "category": "recreational",
-                  "coords": [
-                        31.236294,
-                        -29.506596
                   ]
             },
             {
@@ -4358,15 +3391,6 @@ export const afNewV1: POI[] = [
 {"id": "morocco-belyounech-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Jbel Mousa جبل موسى",
-                  "text": "Jebel Musa ist ein markanter Berggipfel in der Nähe von Belyounech in Marokko.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.412955,
-                        35.898952
-                  ]
-            },
-            {
                   "name": "Cueva y Abrigo de Benzú",
                   "text": "Cueva y Abrigo de Benzú ist eine archäologische Höhlenstätte in der Region Belyounech.",
                   "category": "historical",
@@ -4391,15 +3415,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         -5.373118,
                         35.898587
-                  ]
-            },
-            {
-                  "name": "BelyounechAppt Mustapha en face Mer 190i17",
-                  "text": "BelyounechAppt Mustapha en face Mer 190i17 ist eine lokale Sehenswürdigkeit in Belyounech.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.395912,
-                        35.906004
                   ]
             },
             {
@@ -4455,27 +3470,9 @@ export const afNewV1: POI[] = [
                         -5.370764,
                         35.916479
                   ]
-            },
-            {
-                  "name": "شاطئ بليونش belyounech beach",
-                  "text": "Der Strand von Belyounech ist ein lokaler Küstenabschnitt in Belyounech.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.393736,
-                        35.909365
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Jbel Mousa جبل موسى",
-                  "text": "A Jebel Musa egy jelentős hegycsúcs a marokkói Belyounech közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.412955,
-                        35.898952
-                  ]
-            },
             {
                   "name": "Cueva y Abrigo de Benzú",
                   "text": "A Cueva y Abrigo de Benzú egy régészeti barlanglelőhely Belyounech területén.",
@@ -4501,15 +3498,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         -5.373118,
                         35.898587
-                  ]
-            },
-            {
-                  "name": "BelyounechAppt Mustapha en face Mer 190i17",
-                  "text": "A BelyounechAppt Mustapha en face Mer 190i17 egy helyi látványosság Belyounech városában.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.395912,
-                        35.906004
                   ]
             },
             {
@@ -4565,27 +3553,9 @@ export const afNewV1: POI[] = [
                         -5.370764,
                         35.916479
                   ]
-            },
-            {
-                  "name": "شاطئ بليونش belyounech beach",
-                  "text": "A Belyounech strand egy helyi partszakasz Belyounech városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.393736,
-                        35.909365
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Jbel Mousa جبل موسى",
-                  "text": "Jebel Musa este un vârf muntos proeminent situat lângă Belyounech, în Maroc.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.412955,
-                        35.898952
-                  ]
-            },
             {
                   "name": "Cueva y Abrigo de Benzú",
                   "text": "Cueva y Abrigo de Benzú este un sit arheologic rupestru situat în zona Belyounech.",
@@ -4611,15 +3581,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         -5.373118,
                         35.898587
-                  ]
-            },
-            {
-                  "name": "BelyounechAppt Mustapha en face Mer 190i17",
-                  "text": "BelyounechAppt Mustapha en face Mer 190i17 este o atracție locală din Belyounech.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.395912,
-                        35.906004
                   ]
             },
             {
@@ -4675,27 +3636,9 @@ export const afNewV1: POI[] = [
                         -5.370764,
                         35.916479
                   ]
-            },
-            {
-                  "name": "شاطئ بليونش belyounech beach",
-                  "text": "Plaja Belyounech este o destinație de coastă din Belyounech.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.393736,
-                        35.909365
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Jebel Musa",
-                  "text": "Jebel Musa is a prominent mountain peak located near Belyounech in Morocco.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.412955,
-                        35.898952
-                  ]
-            },
             {
                   "name": "Cueva y Abrigo de Benzú",
                   "text": "Cueva y Abrigo de Benzú is an archaeological cave site situated in the Belyounech area.",
@@ -4721,15 +3664,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         -5.373118,
                         35.898587
-                  ]
-            },
-            {
-                  "name": "BelyounechAppt Mustapha en face Mer 190i17",
-                  "text": "BelyounechAppt Mustapha en face Mer 190i17 is a local attraction located in Belyounech.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.395912,
-                        35.906004
                   ]
             },
             {
@@ -4784,15 +3718,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         -5.370764,
                         35.916479
-                  ]
-            },
-            {
-                  "name": "شاطئ بليونش belyounech beach",
-                  "text": "Belyounech Beach is a local beach destination in Belyounech.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.393736,
-                        35.909365
                   ]
             }
       ]
@@ -5713,50 +4638,10 @@ export const afNewV1: POI[] = [
       ]
 }, "type": "city", "parent": "DZ-13", "coords": [-1.46666, 35.29862], "tier": 2, "name": {"de": "Rashqun", "hu": "Rashqun", "ro": "Rashqun", "en": "Rashqun"}, "description": {"de": "Rashqun ist ein malerisches Küstendorf im Nordwesten Algeriens, das ruhige Strände und ein reiches historisches Erbe bietet.", "hu": "Rashqun egy festői tengerparti falu Északnyugat-Algériában, amely nyugodt strandokat és gazdag történelmi örökséget kínál.", "ro": "Rashqun este un sat de coastă pitoresc din nord-vestul Algeriei, oferind plaje liniștite și o bogată moștenire istorică.", "en": "Rashqun is a picturesque coastal village in northwestern Algeria, offering tranquil beaches and a rich historical heritage."}, "descriptionAdvanced": {"de": "Rashqun, an der Mittelmeerküste im Nordwesten Algeriens gelegen, ist ein faszinierendes Reiseziel, das natürliche Schönheit perfekt mit tiefen historischen Wurzeln verbindet. Das Dorf liegt an der Mündung des Flusses Tafna und schafft eine einzigartige Küstenlandschaft, in der Fluss und Meer aufeinandertreffen, umgeben von malerischen Hügeln, die zur Erkundung einladen.\n\nDie Strände von Rashqun sind von zentraler Bedeutung für seine Attraktivität und bieten ruhige Sandstrände wie Plage Siga, Madrid Plage, Madrid Beach und den Hauptstrand Rashqun Beach. Diese Ufer bieten Besuchern eine ruhige Umgebung zum Sonnenbaden, Schwimmen und Genießen der mediterranen Sonne abseits der überfüllten Touristen-Hotspots. Das ruhige Wasser macht es ideal für Familien.\n\nDarüber hinaus ist Rashqun für seine Nähe zum antiken Siga, der ehemaligen Hauptstadt des numidischen Königs Syphax, sowie zur nahe gelegenen Insel Rashqun mit ihrem ikonischen Leuchtturm bekannt. Besucher können frische Meeresfrüchte genießen und in den authentischen algerischen Küstenlebensstil eintauchen.", "hu": "Rashqun Északnyugat-Algéria mediterrán partvidékén található, egy lenyűgöző úti cél, amely tökéletesen ötvözi a természeti szépséget a mély történelmi gyökerekkel. A falu a Tafna folyó torkolatánál fekszik, egyedülálló partmenti környezetet teremtve, ahol a folyó találkozik a tengerrel, festői dombokkal és buja tájakkal körülvéve, amelyek felfedezésre csábítanak.\n\nRashqun strandjai központi szerepet játszanak vonzerejében, nyugodt homokos partszakaszokkal, mint például a Plage Siga, a Madrid Plage, a Madrid Beach és a fő Rashqun Beach. Ezek a partok békés környezetet kínálnak a napozáshoz, az úszáshoz és a mediterrán napsütés élvezetéhez, távol a zsúfolt turistaközpontoktól. A nyugodt vizek ideális hellyé teszik a családok számára.\n\nA strandokon túl Rashqun az ősi Siga, Syphax numídiai király egykori fővárosa, valamint a közeli Rashqun-sziget közelségéről ismert, amely egy ikonikus világítótoronynak ad otthont. A látogatók frissen fogott tenger gyümölcseit fogyaszthatják, csónakázhatnak, és elmerülhetnek az autentikus algériai tengerparti életmódban.", "ro": "Rashqun, situat pe coasta mediteraneană din nord-vestul Algeriei, este o destinație captivantă care combină perfect frumusețea naturală cu rădăcinile istorice profunde. Satul este așezat la gura de vărsare a râului Tafna, creând un mediu de coastă unic, unde râul întâlnește marea, înconjurat de dealuri pitorești și peisaje luxuriante care invită la explorare și relaxare.\n\nPlajele din Rashqun sunt esențiale pentru atracția sa, prezentând întinderi senine de nisip, cum ar fi Plage Siga, Madrid Plage, Madrid Beach și plaja principală Rashqun Beach. Aceste țărmuri oferă vizitatorilor un cadru liniștit pentru băi de soare, înot și bucuria de soarele mediteranean departe de zonele turistice aglomerate. Apele calme îl fac un loc ideal pentru familii.\n\nDincolo de plajă, Rashqun este cunoscut pentru apropierea sa de antica Siga, fosta capitală a regelui numidian Syphax, precum și de insula Rashqun din apropiere, care găzduiește un far emblematic. Vizitatorii se pot bucura de fructe de mare proaspăt prinse în localurile din zonă.", "en": "Rashqun, situated on the Mediterranean coast of northwestern Algeria, is a captivating destination that perfectly combines natural beauty with deep historical roots. The village is nestled at the mouth of the Tafna River, creating a unique coastal environment where river meets sea, surrounded by scenic hills and lush landscapes that invite exploration and relaxation.\n\nThe beaches of Rashqun are central to its appeal, featuring serene stretches of sand such as Plage Siga, Madrid Plage, Madrid Beach, and the main Rashqun Beach. These shores offer visitors a tranquil setting for sunbathing, swimming, and enjoying the Mediterranean sun away from the crowded tourist hotspots. The calm waters make it an ideal spot for families.\n\nBeyond the beach, Rashqun is known for its proximity to ancient Siga, the former capital of the Numidian King Syphax, as well as the nearby Rashqun Island, which hosts an iconic lighthouse. Visitors can enjoy freshly caught seafood in local eateries, take leisurely boat rides, and immerse themselves in the authentic Algerian coastal lifestyle."}, "facts": {"de": ["Liegt in der Provinz Aïn Témouchent", "An der Mündung des Flusses Tafna", "Gegenüber der historischen Insel Rashqun", "Nahe der antiken Hauptstadt Siga", "Bekannt für den schönen Madrid Beach", "Beliebt für die lokale Fischerei", "Bietet einen ikonischen Leuchtturm in der Nähe", "Ruhiger mediterraner Küstenort"], "hu": ["Aïn Témouchent tartományban található", "A Tafna folyó torkolatánál fekszik", "A történelmi Rashqun-szigettel szemben", "Siga ősi numídiai főváros közelében", "A gyönyörű Madrid Beach-ről ismert", "Népszerű a helyi halászat miatt", "Ikonikus világítótorony található a közelben", "Csendes mediterrán tengerparti menedék"], "ro": ["Situat în provincia Aïn Témouchent", "Situat la gura râului Tafna", "Cu fața spre insula istorică Rashqun", "Aproape de capitala antică Siga", "Renumit pentru frumoasa Madrid Beach", "Popular pentru pescuitul local", "Prezintă un far emblematic în apropiere", "O retragere de coastă mediteraneană liniștită"], "en": ["Located in Aïn Témouchent Province", "Situated at the Tafna River mouth", "Faces the historic Rashqun Island", "Near ancient numidian capital Siga", "Known for beautiful Madrid Beach", "Popular for local fishing", "Features an iconic lighthouse nearby", "Quiet Mediterranean coastal retreat"]}, "image": "/poi-images/algeria-rashqun-cities-v2.webp"},
 {"id": "algeria-mers-el-hadjadj-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Grande plage",
-                  "text": "Grande plage ist ein Strand in Mers El Hadjadj.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.157589,
-                        35.791795
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Grande plage",
-                  "text": "A Grande plage egy strand Mers El Hadjadj területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.157589,
-                        35.791795
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Grande plage",
-                  "text": "Grande plage este o plajă în Mers El Hadjadj.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.157589,
-                        35.791795
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Grande plage",
-                  "text": "Grande plage is a beach located in Mers El Hadjadj.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.157589,
-                        35.791795
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "DZ-31", "coords": [-0.16521, 35.79489], "tier": 2, "name": {"de": "Mers El Hadjadj", "hu": "Mers El Hadjadj", "ro": "Mers El Hadjadj", "en": "Mers El Hadjadj"}, "description": {"de": "Mers El Hadjadj ist eine malerische Küstenstadt in der algerischen Provinz Oran, bekannt für ihre langen Sandstrände und entspannte Atmosphäre.", "hu": "Mers El Hadjadj egy kellemes tengerparti város Algéria Oráni tartományában, amely hosszú homokos strandjairól és pihentető hangulatáról ismert.", "ro": "Mers El Hadjadj este un oraș pitoresc la malul mării în provincia Oran din Algeria, renumit pentru plajele sale lungi cu nisip și atmosfera relaxantă.", "en": "Mers El Hadjadj is a pleasant seaside town in the Oran Province of Algeria, known for its long sandy beaches and relaxing vibe."}, "descriptionAdvanced": {"de": "Mers El Hadjadj, früher bekannt als Port-aux-Poules, ist eine charmante Küstengemeinde in der Provinz Oran im Nordwesten Algeriens. Mit Blick auf den Golf von Arzew hat sich diese friedliche Stadt zu einem beliebten Ziel für einheimische Touristen entwickelt, die eine erfrischende Flucht ans Mittelmeer suchen. Die entspannte Atmosphäre macht es zu einem großartigen Ort für Wochenendausflüge.\n\nDie Küste der Stadt bietet weitläufige und einladende Sandstrände, vor allem die Grande plage, Plage La macta und Plage Sidi mansour. Diese Strände sind für ihre breiten Sandstrände und ihr ruhiges, flaches Wasser bekannt, was eine hervorragende Umgebung zum Schwimmen und für lange Spaziergänge am Meer bietet. Das Strandleben hier ist besonders in den Sommermonaten lebhaft.\n\nNeben den schönen Stränden bietet Mers El Hadjadj einen authentischen Einblick in das algerische Küstenleben. Besucher können die nahe gelegenen Feuchtgebiete von La Macta erkunden, eine wichtige ökologische Zone für die Vogelbeobachtung, oder in verschiedenen bescheidenen Restaurants am Meer frische Meeresfrüchte genießen.", "hu": "Mers El Hadjadj, korábbi nevén Port-aux-Poules, egy hangulatos tengerparti település Algéria északnyugati részén, az Oráni tartományban. Az Arzewi-öbölre néző békés város kedvelt célponttá vált a belföldi turisták és a Földközi-tenger partján felfrissülésre vágyó helyiek körében. Nyugodt légköre miatt kiváló hely a hétvégi kiruccanásokhoz és a családi nyaralásokhoz egyaránt.\n\nA város partvidéke hatalmas és hívogató homokos partokkal rendelkezik, amelyek közül a legjelentősebbek a Grande plage, a Plage La macta és a Plage Sidi mansour. Ezek a strandok széles homokos kiterjedésükről és általában nyugodt, sekély vizükről híresek, kiváló környezetet biztosítva az úszáshoz, a strandröplabdához és a hosszú tengerparti sétákhoz. A strandélet itt különösen a nyári hónapokban élénk.\n\nGyönyörű strandjai mellett Mers El Hadjadj autentikus bepillantást enged az algériai partvidéki életbe. A látogatók felfedezhetik a közeli La Macta vizes élőhelyeket, amely a madármegfigyelés fontos ökológiai övezete, vagy megkóstolhatják a friss, helyben fogott tenger gyümölcseit a szerény tengerparti éttermekben. A város a természeti szépség és a hagyományos vendéglátás tökéletes keverékét nyújtja.", "ro": "Mers El Hadjadj, cunoscută anterior sub numele de Port-aux-Poules, este o comună de coastă fermecătoare situată în provincia Oran din nord-vestul Algeriei. Având vedere la Golful Arzew, acest oraș pașnic a devenit o destinație favorită pentru turiștii interni și localnicii care caută o evadare răcoritoare la Marea Mediterană. Atmosfera sa relaxată îl face un loc excelent pentru escapadele de weekend.\n\nCoasta orașului are țărmuri de nisip expansive și primitoare, mai ales Grande plage, Plage La macta și Plage Sidi mansour. Aceste plaje sunt renumite pentru întinderile lor largi de nisip și apele în general calme și puțin adânci, oferind un mediu excelent pentru înot, volei pe plajă și plimbări lungi pe litoral. Viața de pe plajă este deosebit de plină de viață în timpul verii.\n\nPe lângă plajele sale frumoase, Mers El Hadjadj oferă un gust autentic al vieții de coastă algeriene. Vizitatorii pot explora zonele umede din apropiere de La Macta, o zonă ecologică crucială pentru observarea păsărilor, sau pot savura fructe de mare proaspete, capturate local, la diverse restaurante modeste de pe litoral.", "en": "Mers El Hadjadj, formerly known as Port-aux-Poules, is a charming coastal municipality located in the Oran Province of northwestern Algeria. Overlooking the Gulf of Arzew, this peaceful town has grown into a favored destination for domestic tourists and locals seeking a refreshing escape by the Mediterranean Sea. Its laid-back atmosphere makes it a great spot for weekend getaways.\n\nThe town's coastline features expansive and inviting sandy shores, most notably the Grande plage, Plage La macta, and Plage Sidi mansour. These beaches are renowned for their wide sandy stretches and generally calm, shallow waters, providing an excellent environment for swimming, beach volleyball, and long seaside walks. The vibrant beach life here is especially lively during the summer months.\n\nIn addition to its beautiful beaches, Mers El Hadjadj offers an authentic taste of Algerian coastal living. Visitors can explore the nearby La Macta wetlands, a crucial ecological zone for birdwatching, or savor fresh, locally caught seafood at various modest seaside restaurants. The town provides a perfect mix of natural beauty and traditional hospitality."}, "facts": {"de": ["Liegt in der Provinz Oran", "Früher bekannt als Port-aux-Poules", "Blick auf den Golf von Arzew", "Berühmt für die Plage La Macta", "Nahe den Feuchtgebieten von La Macta", "Beliebt für den sommerlichen Strandtourismus", "Bietet ruhiges und flaches Wasser", "Bietet lokale Meeresfrüchte-Gerichte"], "hu": ["Az Oráni tartományban található", "Korábban Port-aux-Poules néven volt ismert", "Az Arzewi-öbölre néz", "Híres a Plage La macta strandról", "Közel van a La Macta vizes élőhelyekhez", "Népszerű a nyári tengerparti turizmus miatt", "Nyugodt és sekély vizeket kínál", "Helyi tengeri ételeket kínál"], "ro": ["Situat în provincia Oran", "Cunoscut anterior ca Port-aux-Poules", "Are vedere la Golful Arzew", "Renumit pentru Plage La Macta", "Aproape de zonele umede La Macta", "Popular pentru turismul de plajă de vară", "Oferă ape calme și puțin adânci", "Prezintă preparate locale din fructe de mare"], "en": ["Located in Oran Province", "Formerly known as Port-aux-Poules", "Overlooks the Gulf of Arzew", "Famous for Plage La Macta", "Close to the La Macta wetlands", "Popular for summer beach tourism", "Offers calm and shallow waters", "Features local seafood dining"]}, "image": "/poi-images/algeria-mers-el-hadjadj-cities-v2.webp"},
 {"id": "kenya-uyombo-cities-v2", "sights": {
       "de": [
@@ -5767,24 +4652,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         39.966486,
                         -3.402864
-                  ]
-            },
-            {
-                  "name": "Safari Blue",
-                  "text": "Safari Blue ist ein einladendes Strandresort in der Stadt Uyombo.",
-                  "category": "recreational",
-                  "coords": [
-                        39.963265,
-                        -3.391444
-                  ]
-            },
-            {
-                  "name": "Short Beach",
-                  "text": "Short Beach bietet einen kleinen, angenehmen Sandstrand in Uyombo.",
-                  "category": "recreational",
-                  "coords": [
-                        39.971167,
-                        -3.38833
                   ]
             }
       ],
@@ -5797,24 +4664,6 @@ export const afNewV1: POI[] = [
                         39.966486,
                         -3.402864
                   ]
-            },
-            {
-                  "name": "Safari Blue",
-                  "text": "A Safari Blue egy hívogató tengerparti üdülőhely Uyombo városában.",
-                  "category": "recreational",
-                  "coords": [
-                        39.963265,
-                        -3.391444
-                  ]
-            },
-            {
-                  "name": "Short Beach",
-                  "text": "A Short Beach egy kis, kellemes homokos partszakasz Uyombóban.",
-                  "category": "recreational",
-                  "coords": [
-                        39.971167,
-                        -3.38833
-                  ]
             }
       ],
       "ro": [
@@ -5825,24 +4674,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         39.966486,
                         -3.402864
-                  ]
-            },
-            {
-                  "name": "Safari Blue",
-                  "text": "Safari Blue este o stațiune pe plajă primitoare din orașul Uyombo.",
-                  "category": "recreational",
-                  "coords": [
-                        39.963265,
-                        -3.391444
-                  ]
-            },
-            {
-                  "name": "Short Beach",
-                  "text": "Short Beach oferă o mică și plăcută întindere de nisip în Uyombo.",
-                  "category": "recreational",
-                  "coords": [
-                        39.971167,
-                        -3.38833
                   ]
             }
       ],
@@ -5855,108 +4686,14 @@ export const afNewV1: POI[] = [
                         39.966486,
                         -3.402864
                   ]
-            },
-            {
-                  "name": "Safari Blue",
-                  "text": "Safari Blue is an inviting beach resort located in the city of Uyombo.",
-                  "category": "recreational",
-                  "coords": [
-                        39.963265,
-                        -3.391444
-                  ]
-            },
-            {
-                  "name": "Short Beach",
-                  "text": "Short Beach offers a small, pleasant sandy stretch in Uyombo.",
-                  "category": "recreational",
-                  "coords": [
-                        39.971167,
-                        -3.38833
-                  ]
             }
       ]
 }, "type": "city", "parent": "KE-300", "coords": [39.95, -3.3833], "tier": 2, "name": {"de": "Uyombo", "hu": "Uyombo", "ro": "Uyombo", "en": "Uyombo"}, "description": {"de": "Uyombo ist ein verstecktes Küstenjuwel in Kenia, das eine ruhige Atmosphäre und die Nähe zum schönen Mida Creek bietet.", "hu": "Uyombo egy rejtett tengerparti gyöngyszem Kenyában, amely nyugodt légkört és a gyönyörű Mida Creek közelségét kínálja.", "ro": "Uyombo este o bijuterie de coastă ascunsă în Kenya, oferind o atmosferă senină și apropiere de frumosul pârâu Mida.", "en": "Uyombo is a hidden coastal gem in Kenya, offering a serene atmosphere and proximity to the beautiful Mida Creek."}, "descriptionAdvanced": {"de": "Uyombo ist ein ruhiges und relativ unentdecktes Küstendorf im kenianischen Kilifi County, nur eine kurze Strecke von der berühmten Watamu-Region entfernt. Versteckt am Rande des Arabuko-Sokoke-Waldes und des atemberaubenden Mida Creek bietet Uyombo einen idyllischen Rückzugsort für Reisende, die den stark kommerzialisierten Touristenorten entfliehen möchten. Das Dorf hat seinen authentischen Swahili-Charme bewahrt.\n\nDas Dorf bietet Zugang zu spektakulären, abgelegenen Küstenabschnitten, vor allem Manfridays Mida Cove, Safari Blue und Short Beach. Diese Strände bestechen durch unberührten weißen Sand und das leuchtend türkisfarbene Wasser des Indischen Ozeans, das stark von den Gezeiten des nahe gelegenen Bachlaufs beeinflusst wird. Es ist ein fantastischer Ort zum Kajakfahren, Stand-Up-Paddling und zur Beobachtung der reichen Meereswelt.\n\nBesucher von Uyombo können in die lokale Kultur eintauchen, indem sie mit der freundlichen Fischergemeinde interagieren, traditionelle Dhau-Kreuzfahrten durch die Mangrovenwälder unternehmen und frisch zubereitete Swahili-Meeresfrüchte genießen. Die Nähe zum Watamu Marine Nationalpark steigert die Attraktivität für Ökotourismus.", "hu": "Uyombo egy nyugodt és viszonylag felfedezetlen tengerparti falu a kenyai Kilifi megyében, csak egy rövid távolságra a híres Watamu régiótól. Az Arabuko Sokoke erdő és a lenyűgöző Mida Creek pereme közelében megbúvó Uyombo idilli menedéket nyújt azoknak az utazóknak, akik szeretnének elmenekülni az erősen kommercializálódott turistalátványosságok elől. A falu megőrizte rendkívül autentikus szuahéli báját.\n\nA falu hozzáférést biztosít olyan látványos, eldugott partszakaszokhoz, mint a Manfridays Mida Cove, a Safari Blue és a Short Beach. Ezek a strandok érintetlen fehér homokkal és az Indiai-óceán ragyogó türkizkék vizével büszkélkedhetnek, amelyre erősen hatnak a közeli öböl árapály-mintázatai. Fantasztikus hely ez a kajakozáshoz, az állószörfözéshez (SUP) és a gazdag tengeri élővilág, köztük a színes rákok és a változatos madárfajok megfigyeléséhez.\n\nAz Uyombóba látogatók elmerülhetnek a helyi kultúrában, ha kapcsolatba lépnek a barátságos halászközösséggel, hagyományos dhow-hajóutakon vesznek részt a mangroveerdőkben, és frissen készített szuahéli tengeri ételeket fogyasztanak. A Watamu Tengeri Nemzeti Park közelsége tovább fokozza e lélegzetelállító úti cél ökoturisztikai vonzerejét.", "ro": "Uyombo este un sat de coastă liniștit și relativ nedescoperit, situat în comitatul Kilifi din Kenya, la o scurtă distanță de faimoasa regiune Watamu. Ascuns lângă marginea pădurii Arabuko Sokoke și a uimitorului Mida Creek, Uyombo oferă o retragere idilică pentru călătorii care doresc să scape de locurile turistice extrem de comercializate. Satul păstrează un farmec Swahili extrem de autentic.\n\nSatul oferă acces la întinderi de coastă spectaculoase, izolate, mai ales Manfridays Mida Cove, Safari Blue și Short Beach. Aceste plaje se mândresc cu nisipuri albe imaculate și apele turcoaz strălucitoare ale Oceanului Indian, puternic influențate de modelele de maree ale pârâului din apropiere. Este o locație fantastică pentru caiac, paddleboarding și observarea vieții marine bogate, inclusiv crabi colorați și diverse specii de păsări.\n\nVizitatorii din Uyombo se pot scufunda în cultura locală interacționând cu comunitatea prietenoasă de pescari, luând croaziere tradiționale cu dhow-ul prin pădurile de mangrove și bucurându-se de mâncăruri din fructe de mare Swahili proaspăt preparate.", "en": "Uyombo is a tranquil and relatively undiscovered coastal village located in Kenya's Kilifi County, just a short distance from the famous Watamu region. Tucked away near the edge of the Arabuko Sokoke Forest and the stunning Mida Creek, Uyombo provides an idyllic retreat for travelers seeking to escape the highly commercialized tourist spots. The village maintains a highly authentic Swahili charm.\n\nThe village gives access to spectacular, secluded coastal stretches, most notably Manfridays Mida Cove, Safari Blue, and Short Beach. These beaches boast pristine white sands and the brilliant turquoise waters of the Indian Ocean, heavily influenced by the tidal patterns of the nearby creek. It's a fantastic location for kayaking, stand-up paddleboarding, and observing rich marine life, including colorful crabs and diverse bird species.\n\nVisitors to Uyombo can immerse themselves in the local culture by interacting with the friendly fishing community, taking traditional dhow cruises through the mangrove forests, and enjoying freshly prepared Swahili seafood dishes. The close proximity to Watamu Marine National Park further enhances the ecotourism appeal of this breathtaking destination."}, "facts": {"de": ["Liegt im Kilifi County, Kenia", "Befindet sich am malerischen Mida Creek", "Nahe dem Arabuko-Sokoke-Wald", "Beherbergt die Manfridays Mida Cove", "Bekannt für traditionelle Swahili-Kultur", "Hervorragend zur Erkundung von Mangroven", "In der Nähe des Watamu Marine Nationalparks", "Ideal zum Kajakfahren und zur Vogelbeobachtung"], "hu": ["A kenyai Kilifi megyében található", "A festői Mida Creek mellett fekszik", "Közel az Arabuko Sokoke erdőhöz", "Itt található a Manfridays Mida Cove", "Hagyományos szuahéli kultúrájáról ismert", "Kiváló a mangroveerdők felfedezéséhez", "A Watamu Tengeri Nemzeti Park közelében", "Ideális kajakozáshoz és madármegfigyeléshez"], "ro": ["Situat în comitatul Kilifi, Kenya", "Situat lângă pitorescul Mida Creek", "Aproape de pădurea Arabuko Sokoke", "Dispune de Manfridays Mida Cove", "Cunoscut pentru cultura tradițională Swahili", "Excelent pentru explorarea mangrovelor", "Aproape de Parcul Național Marin Watamu", "Ideal pentru caiac și observarea păsărilor"], "en": ["Located in Kilifi County, Kenya", "Situated next to the scenic Mida Creek", "Close to Arabuko Sokoke Forest", "Features the Manfridays Mida Cove", "Known for traditional Swahili culture", "Excellent for mangrove exploration", "Near Watamu Marine National Park", "Ideal for kayaking and birdwatching"]}, "image": "/poi-images/kenya-uyombo-cities-v2.webp"},
 {"id": "madagascar-amborovy-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Aqualand Park",
-                  "text": "Aqualand Park ist ein lustiger Themenpark mit Wasserattraktionen in Amborovy.",
-                  "category": "recreational",
-                  "coords": [
-                        46.339896,
-                        -15.675705
-                  ]
-            },
-            {
-                  "name": "Petit Pavois",
-                  "text": "Petit Pavois ist ein Strandresort, das Erholung an der Küste in Amborovy bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        46.332879,
-                        -15.656495
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Aqualand Park",
-                  "text": "Az Aqualand Park egy szórakoztató vidámpark vízi attrakciókkal Amborovyban.",
-                  "category": "recreational",
-                  "coords": [
-                        46.339896,
-                        -15.675705
-                  ]
-            },
-            {
-                  "name": "Petit Pavois",
-                  "text": "A Petit Pavois egy tengerparti üdülőhely, amely kikapcsolódást kínál Amborovyban.",
-                  "category": "recreational",
-                  "coords": [
-                        46.332879,
-                        -15.656495
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Aqualand Park",
-                  "text": "Aqualand Park este un parc tematic distractiv, cu atracții acvatice în Amborovy.",
-                  "category": "recreational",
-                  "coords": [
-                        46.339896,
-                        -15.675705
-                  ]
-            },
-            {
-                  "name": "Petit Pavois",
-                  "text": "Petit Pavois este o stațiune pe plajă care oferă relaxare pe coastă în Amborovy.",
-                  "category": "recreational",
-                  "coords": [
-                        46.332879,
-                        -15.656495
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Aqualand Park",
-                  "text": "Aqualand Park is a fun theme park offering water-based attractions in Amborovy.",
-                  "category": "recreational",
-                  "coords": [
-                        46.339896,
-                        -15.675705
-                  ]
-            },
-            {
-                  "name": "Petit Pavois",
-                  "text": "Petit Pavois is a beach resort offering coastal relaxation in Amborovy.",
-                  "category": "recreational",
-                  "coords": [
-                        46.332879,
-                        -15.656495
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "MG-M", "coords": [46.34286, -15.67028], "tier": 2, "name": {"de": "Amborovy", "hu": "Amborovy", "ro": "Amborovy", "en": "Amborovy"}, "description": {"de": "Amborovy ist ein wunderschöner Küstenort in der Nähe von Mahajanga auf Madagaskar, berühmt für seine großen Strände und seine entspannende Umgebung.", "hu": "Amborovy egy gyönyörű tengerparti üdülőhely Mahajanga közelében, Madagaszkáron, amely híres hatalmas strandjairól és pihentető környezetéről.", "ro": "Amborovy este o stațiune de coastă frumoasă de lângă Mahajanga, în Madagascar, renumită pentru plajele sale mari și mediul relaxant.", "en": "Amborovy is a beautiful coastal resort near Mahajanga in Madagascar, famous for its grand beaches and relaxing environment."}, "descriptionAdvanced": {"de": "Amborovy ist ein prominenter Küstenort, der nur wenig nördlich von Mahajanga an der Nordwestküste Madagaskars liegt. Bekannt als das wichtigste Strandziel der Region, zieht Amborovy mit seinem warmen Klima, den markanten Baobab-Bäumen und den weitläufigen Sandstränden sowohl einheimische Urlauber als auch internationale Touristen an. Die Gegend fängt die exotische, entspannte Essenz des madagassischen Küstenlebens perfekt ein.\n\nDas Urlaubsgebiet ist am bekanntesten für seine atemberaubenden Strände, insbesondere Petit Pavois, Grand Pavois und Plage Ampazony. Grand Pavois ist wohl der berühmteste und bietet weite Flächen aus weichem Sand, die sanft in die warmen Gewässer der Straße von Mosambik abfallen. Diese Strände eignen sich perfekt zum Sonnenbaden, Schwimmen und für Strandsportarten und sind oft belebt von lokalen Verkäufern, die frische tropische Früchte anbieten.\n\nNicht weit von den Stränden entfernt können Besucher den bemerkenswerten Cirque Rouge erkunden, eine natürlich geformte, mehrfarbige Sedimentschlucht, die bei Sonnenuntergang strahlend leuchtet. In Kombination mit den belebten Strandrestaurants verspricht Amborovy ein unvergessliches tropisches Urlaubserlebnis.", "hu": "Amborovy egy kiemelkedő tengerparti nyaralóhely, amely Mahajangától északra, Madagaszkár északnyugati partján fekszik. A régió első számú tengerparti úti céljaként ismert Amborovy meleg éghajlatával, jellegzetes majomkenyérfáival (baobab) és kiterjedt homokos partjaival vonzza mind a belföldi nyaralókat, mind a nemzetközi turistákat. A terület tökéletesen megragadja a madagaszkári partvidéki élet egzotikus, laza esszenciáját.\n\nAz üdülőövezet a leginkább lenyűgöző strandjairól híres, különösen a Petit Pavois, a Grand Pavois és a Plage Ampazony partszakaszokról. Vitathatatlanul a Grand Pavois a leghíresebb, amely széles, puha homokos kiterjedést kínál, ami finoman lejt a Mozambiki-csatorna meleg vizébe. Ezek a strandok tökéletesek a napozáshoz, az úszáshoz és a strandsportokhoz, és gyakran nyüzsögnek a helyi árusoktól, akik friss trópusi gyümölcsöket és kézműves ajándéktárgyakat árulnak.\n\nA strandoktól nem messze a látogatók felfedezhetik a figyelemre méltó Cirque Rouge-t, egy természetes formájú, többszínű üledékes kanyont, amely csodálatosan ragyog naplementekor. Ezt a geológiai csodát a kiváló malgas tenger gyümölcseit kínáló élénk tengerparti éttermekkel ötvözve Amborovy valóban emlékezetes és változatos trópusi nyaralási élményt ígér.", "ro": "Amborovy este o evadare de coastă proeminentă situată chiar la nord de Mahajanga, pe coasta de nord-vest a Madagascarului. Cunoscută ca principala destinație de plajă pentru regiune, Amborovy atrage atât turiști interni, cât și internaționali cu climatul său cald, copacii baobab distincți și țărmurile extinse de nisip. Zona surprinde perfect esența exotică și relaxată a vieții de coastă malgașe.\n\nZona stațiunii este cea mai faimoasă pentru plajele sale uimitoare, în special Petit Pavois, Grand Pavois și Plage Ampazony. Grand Pavois este, fără îndoială, cea mai celebrată, oferind întinderi largi de nisip moale care coboară ușor în apele calde ale Canalului Mozambic. Aceste plaje sunt perfecte pentru plajă, înot și sporturi pe plajă și sunt adesea pline de vânzători locali care vând fructe tropicale proaspete și suveniruri lucrate manual.\n\nLa o scurtă distanță de plaje, vizitatorii pot explora remarcabilul Cirque Rouge, un canion sedimentar multicolor format natural, care strălucește puternic la apus. Combinând această minune geologică cu restaurantele pline de viață de pe malul mării care servesc fructe de mare malgașe rafinate, Amborovy promite o experiență de vacanță tropicală cu adevărat memorabilă.", "en": "Amborovy is a prominent coastal getaway located just north of Mahajanga on the northwestern coast of Madagascar. Known as the premier beach destination for the region, Amborovy draws both domestic holidaymakers and international tourists with its warm climate, distinctive baobab trees, and expansive sandy shorelines. The area perfectly captures the exotic, laid-back essence of Madagascan coastal living.\n\nThe resort area is most famous for its stunning beaches, particularly Petit Pavois, Grand Pavois, and Plage Ampazony. Grand Pavois is arguably the most celebrated, offering wide expanses of soft sand that gently slope into the warm waters of the Mozambique Channel. These beaches are perfect for sunbathing, swimming, and beach sports, and are often bustling with local vendors selling fresh tropical fruits and handcrafted souvenirs.\n\nA short distance from the beaches, visitors can explore the remarkable Cirque Rouge, a naturally formed, multi-colored sedimentary canyon that glows brilliantly at sunset. Combining this geological wonder with the lively beachfront restaurants serving exquisite Malagasy seafood, Amborovy promises a truly memorable and diverse tropical holiday experience."}, "facts": {"de": ["Liegt in der Region Boeny", "Nordwestlich der Stadt Mahajanga", "Berühmt für den Strand Grand Pavois", "Blick auf die Straße von Mosambik", "Nahe der geologischen Stätte Cirque Rouge", "Bietet ikonische Baobab-Bäume", "Beliebtes Wochenendziel für Einheimische", "Bietet lebhafte malagassische Meeresfrüchtegerichte"], "hu": ["A Boeny régióban található", "Mahajanga városától északnyugatra fekszik", "A Grand Pavois strandról híres", "A Mozambiki-csatornára néz", "Közel van a Cirque Rouge geológiai helyszínhez", "Ikonikus majomkenyérfákkal büszkélkedhet", "Népszerű hétvégi kiruccanás a helyiek számára", "Kiváló malgas tengeri ételeket kínál"], "ro": ["Situat în regiunea Boeny", "La nord-vest de orașul Mahajanga", "Renumit pentru plaja Grand Pavois", "Are vedere la Canalul Mozambic", "Aproape de situl geologic Cirque Rouge", "Dispune de arbori baobab iconici", "Evadare populară de weekend pentru localnici", "Oferă preparate vibrante din fructe de mare malgașe"], "en": ["Located in the Boeny Region", "Northwest of the city of Mahajanga", "Famed for the Grand Pavois beach", "Overlooks the Mozambique Channel", "Close to the Cirque Rouge geological site", "Features iconic baobab trees", "Popular weekend getaway for locals", "Offers vibrant Malagasy seafood dishes"]}, "image": "/poi-images/madagascar-amborovy-cities-v2.webp"},
 {"id": "tanzania-uroa-cities-v2", "sights": {
       "de": [
@@ -6267,338 +5004,10 @@ export const afNewV1: POI[] = [
       ]
 }, "type": "city", "name": {"de": "Port Alfred", "hu": "Port Alfred", "ro": "Port Alfred", "en": "Port Alfred"}, "description": {"de": "Port Alfred ist eine lebhafte Küstenstadt am Kowie River, die herrliche Strände und einen geschäftigen Yachthafen bietet.", "hu": "Port Alfred egy pezsgő tengerparti város a Kowie folyó partján, amely lenyűgöző strandokat és egy nyüzsgő kikötőt kínál.", "ro": "Port Alfred este un oraș de coastă vibrant situat pe râul Kowie, oferind plaje magnifice și un port de agrement plin de viață.", "en": "Port Alfred is a vibrant coastal town situated on the Kowie River, offering magnificent beaches and a bustling marina."}, "descriptionAdvanced": {"de": "Port Alfred, auf halbem Weg zwischen Gqeberha (Port Elizabeth) und East London gelegen, ist das funkelnde Juwel der Sunshine Coast. Die Stadt ist markant um die Mündung des Kowie River gebaut, der eine schiffbare Wasserstraße bildet, die sich tief ins Landesinnere windet. Diese geografische Besonderheit macht sie zu einem erstklassigen Ziel für Bootsfahrten, Wasserski und Flusskreuzfahrten.\n\nDie Küste der Stadt bietet einige der feinsten Sandflächen im Ostkap. Surfer und Sonnenanbeter genießen gleichermaßen die Wellen am Port Alfred Beach, die weiten Dünen am East Beach und den international anerkannten Kelly's beach, der mit der Blauen Flagge ausgezeichnet ist. Die weite Aussicht auf die Küste und die warmen Strömungen des Indischen Ozeans schaffen eine idyllische Umgebung.\n\nDie kulinarische Szene von Port Alfred ist geprägt von frischen Meeresfrüchten, die oft in Restaurants an der Wasserfront in der Royal Alfred Marina serviert werden. Mit seiner reichen Siedlergeschichte von 1820, charmanten historischen Gebäuden und der guten Verkehrsanbindung über die R72 dient Port Alfred als reizvoller Rückzugsort.", "hu": "A Gqeberha (Port Elizabeth) és East London között félúton fekvő Port Alfred a Napfény-part szikrázó ékköve. A város jellegzetesen a Kowie folyó torkolata köré épült, amely egy mélyen a szárazföld belsejébe kanyargó, hajózható vízi utat hoz létre. Ez a földrajzi adottság elsőrangú célponttá teszi a csónakázás, a vízisí és a folyami hajózás szerelmesei számára, ötvözve a folyami nyugalmat a tengerparti energiával.\n\nA város partvidéke a Kelet-Fokföld legfinomabb homokos területeivel büszkélkedhet. A szörfösök és a napozók egyaránt élvezik a Port Alfred strand hullámait, az East Beach hatalmas dűnéit és a nemzetközileg elismert, kék zászlós Kelly's beach-et. A kiterjedt tengerparti kilátás és a meleg indiai-óceáni áramlatok idilli környezetet teremtenek mind a vízi sportok szerelmesei, mind a pihenni vágyók számára.\n\nPort Alfred kulináris élete nagy hangsúlyt fektet a friss tengeri gyümölcsökre és a kortárs helyi ételekre, amelyeket gyakran a Royal Alfred Marina vízparti éttermeiben szolgálnak fel. Gazdag, 1820-as telepes történelmével, bájos történelmi épületeivel és az R72-es úton való könnyű megközelíthetőségével kiváló úti cél.", "ro": "Situat la jumătatea distanței dintre Gqeberha (Port Elizabeth) și East London, Port Alfred este bijuteria strălucitoare a Coastei Soarelui. Orașul este construit distinct în jurul gurii de vărsare a râului Kowie, care creează o cale navigabilă ce șerpuiește adânc în interiorul continentului. Această caracteristică geografică îl face o destinație principală pentru plimbări cu barca, schi nautic și croaziere fluviale.\n\nȚărmul orașului se mândrește cu unele dintre cele mai fine întinderi de nisip din Eastern Cape. Surferii și amatorii de plajă se bucură de valurile de pe plaja Port Alfred, de dunele vaste de la East Beach și de Kelly's beach, plajă recunoscută internațional cu Steagul Albastru. Vederile panoramice și curenții calzi ai Oceanului Indian creează un mediu idilic pentru sporturi nautice.\n\nScena culinară din Port Alfred se bazează pe fructe de mare proaspete și mâncăruri locale contemporane, servite adesea în restaurantele de pe malul apei din portul Royal Alfred. Cu istoria sa bogată legată de coloniștii din 1820, clădiri istorice fermecătoare și acces rutier ușor prin R72, Port Alfred este un refugiu pitoresc.", "en": "Located halfway between Gqeberha (Port Elizabeth) and East London, Port Alfred is the sparkling jewel of the Sunshine Coast. The town is distinctively built around the mouth of the Kowie River, which creates a navigable waterway that winds deeply inland. This geographical feature makes it a premier destination for boating, water skiing, and river cruising, blending riverine tranquility with a vibrant coastal energy.\n\nThe town's shoreline boasts some of the finest sandy expanses in the Eastern Cape. Surfers and sunbathers alike enjoy the breaks at Port Alfred beach, the vast dunes of East Beach, and the internationally recognized, Blue Flag-rated Kelly's beach. The sweeping coastal views and warm Indian Ocean currents create an idyllic environment for both water sports enthusiasts and those seeking relaxation.\n\nPort Alfred’s culinary scene heavily features fresh seafood and contemporary local dishes, often served at waterfront restaurants within the Royal Alfred Marina. With its rich 1820 Settler history, charming historical buildings, and easy road access via the R72, Port Alfred serves as an engaging and scenic retreat for all types of travelers."}, "facts": {"de": ["An der Sunshine Coast gelegen", "Um den Kowie River gebaut", "Berühmt für die Royal Alfred Marina", "Auf halbem Weg zwischen Gqeberha und East London", "Bietet den Kelly's beach (Blaue Flagge)", "Bietet den East Beach", "Bietet den Port Alfred Beach", "Reiche Siedlergeschichte von 1820"], "hu": ["A Napfény-parton található", "A Kowie folyó köré épült", "Híres a Royal Alfred Marináról", "Félúton Gqeberha és East London között", "Itt van a kék zászlós Kelly's beach", "Itt található az East Beach", "Itt van a Port Alfred strand", "Gazdag 1820-as telepes történelem"], "ro": ["Situat pe Coasta Soarelui", "Construit în jurul râului Kowie", "Faimos pentru portul Royal Alfred", "La jumătatea distanței dintre Gqeberha și East London", "Include Kelly's beach (Steagul Albastru)", "Include East Beach", "Include plaja Port Alfred", "Bogat în istoria coloniștilor din 1820"], "en": ["Located on the Sunshine Coast", "Built around the Kowie River", "Famous for its Royal Alfred Marina", "Halfway between Gqeberha and East London", "Features Kelly's beach (Blue Flag)", "Features East Beach", "Features Port Alfred beach", "Rich in 1820 Settler history"]}, "parent": "ZA-EC", "coords": [26.89148, -33.59818], "tier": 2, "image": "/poi-images/south-africa-port-alfred-cities-v2.webp"},
 {"id": "south-africa-milnerton-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Milnerton Lighthouse",
-                  "text": "Das Milnerton Lighthouse ist ein markanter Leuchtturm in Milnerton.",
-                  "category": "landmark",
-                  "coords": [
-                        18.487781,
-                        -33.881708
-                  ]
-            },
-            {
-                  "name": "Zonnekus Mansion",
-                  "text": "Das Zonnekus Mansion ist ein historisches monumentales Gebäude in Milnerton.",
-                  "category": "historical",
-                  "coords": [
-                        18.485658,
-                        -33.884908
-                  ]
-            },
-            {
-                  "name": "Japanese Koi Fish Lookout",
-                  "text": "Das Japanese Koi Fish Lookout ist ein lokales Denkmal in Milnerton.",
-                  "category": "historical",
-                  "coords": [
-                        18.487941,
-                        -33.883998
-                  ]
-            },
-            {
-                  "name": "Intaka Island",
-                  "text": "Intaka Island ist ein ruhiges Naturschutzgebiet in Milnerton.",
-                  "category": "natural",
-                  "coords": [
-                        18.515932,
-                        -33.888304
-                  ]
-            },
-            {
-                  "name": "Milnerton Playhouse Theatre",
-                  "text": "Das Milnerton Playhouse Theatre ist ein kultureller Veranstaltungsort in Milnerton.",
-                  "category": "cultural",
-                  "coords": [
-                        18.496903,
-                        -33.868039
-                  ]
-            },
-            {
-                  "name": "Sunset Beach",
-                  "text": "Sunset Beach ist ein malerischer Küstenabschnitt in Milnerton.",
-                  "category": "recreational",
-                  "coords": [
-                        18.488547,
-                        -33.856417
-                  ]
-            },
-            {
-                  "name": "Milnerton Racecourse Nature Reserve",
-                  "text": "Das Milnerton Racecourse Nature Reserve ist ein Schutzgebiet für Flora und Fauna in Milnerton.",
-                  "category": "natural",
-                  "coords": [
-                        18.509434,
-                        -33.858959
-                  ]
-            },
-            {
-                  "name": "Viewing platform",
-                  "text": "Diese Aussichtsplattform bietet malerische Ausblicke in Milnerton.",
-                  "category": "natural",
-                  "coords": [
-                        18.514627,
-                        -33.88794
-                  ]
-            },
-            {
-                  "name": "Lagoon Beach",
-                  "text": "Lagoon Beach ist ein attraktives Küstenziel in Milnerton.",
-                  "category": "recreational",
-                  "coords": [
-                        18.480875,
-                        -33.894149
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Milnerton Lighthouse",
-                  "text": "A Milnerton Lighthouse egy jellegzetes világítótorony Milnertonban.",
-                  "category": "landmark",
-                  "coords": [
-                        18.487781,
-                        -33.881708
-                  ]
-            },
-            {
-                  "name": "Zonnekus Mansion",
-                  "text": "A Zonnekus Mansion egy történelmi műemléképület Milnertonban.",
-                  "category": "historical",
-                  "coords": [
-                        18.485658,
-                        -33.884908
-                  ]
-            },
-            {
-                  "name": "Japanese Koi Fish Lookout",
-                  "text": "A Japanese Koi Fish Lookout egy helyi emlékmű Milnertonban.",
-                  "category": "historical",
-                  "coords": [
-                        18.487941,
-                        -33.883998
-                  ]
-            },
-            {
-                  "name": "Intaka Island",
-                  "text": "Az Intaka Island egy békés természetvédelmi terület Milnertonban.",
-                  "category": "natural",
-                  "coords": [
-                        18.515932,
-                        -33.888304
-                  ]
-            },
-            {
-                  "name": "Milnerton Playhouse Theatre",
-                  "text": "A Milnerton Playhouse Theatre egy kulturális előadóterem Milnertonban.",
-                  "category": "cultural",
-                  "coords": [
-                        18.496903,
-                        -33.868039
-                  ]
-            },
-            {
-                  "name": "Sunset Beach",
-                  "text": "A Sunset Beach egy festői partszakasz Milnertonban.",
-                  "category": "recreational",
-                  "coords": [
-                        18.488547,
-                        -33.856417
-                  ]
-            },
-            {
-                  "name": "Milnerton Racecourse Nature Reserve",
-                  "text": "A Milnerton Racecourse Nature Reserve egy védett növény- és állatvilágú terület Milnertonban.",
-                  "category": "natural",
-                  "coords": [
-                        18.509434,
-                        -33.858959
-                  ]
-            },
-            {
-                  "name": "Viewing platform",
-                  "text": "Ez a kilátó festői látványt nyújt Milnertonban.",
-                  "category": "natural",
-                  "coords": [
-                        18.514627,
-                        -33.88794
-                  ]
-            },
-            {
-                  "name": "Lagoon Beach",
-                  "text": "A Lagoon Beach egy vonzó tengerparti úti cél Milnertonban.",
-                  "category": "recreational",
-                  "coords": [
-                        18.480875,
-                        -33.894149
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Milnerton Lighthouse",
-                  "text": "Farul Milnerton este o structură distinctivă în Milnerton.",
-                  "category": "landmark",
-                  "coords": [
-                        18.487781,
-                        -33.881708
-                  ]
-            },
-            {
-                  "name": "Zonnekus Mansion",
-                  "text": "Conacul Zonnekus este o clădire monumentală istorică din Milnerton.",
-                  "category": "historical",
-                  "coords": [
-                        18.485658,
-                        -33.884908
-                  ]
-            },
-            {
-                  "name": "Japanese Koi Fish Lookout",
-                  "text": "Japanese Koi Fish Lookout este un monument local din Milnerton.",
-                  "category": "historical",
-                  "coords": [
-                        18.487941,
-                        -33.883998
-                  ]
-            },
-            {
-                  "name": "Intaka Island",
-                  "text": "Insula Intaka este o rezervație naturală liniștită în Milnerton.",
-                  "category": "natural",
-                  "coords": [
-                        18.515932,
-                        -33.888304
-                  ]
-            },
-            {
-                  "name": "Milnerton Playhouse Theatre",
-                  "text": "Teatrul Milnerton Playhouse este un loc de spectacole culturale din Milnerton.",
-                  "category": "cultural",
-                  "coords": [
-                        18.496903,
-                        -33.868039
-                  ]
-            },
-            {
-                  "name": "Sunset Beach",
-                  "text": "Plaja Sunset este o porțiune de coastă pitorească din Milnerton.",
-                  "category": "recreational",
-                  "coords": [
-                        18.488547,
-                        -33.856417
-                  ]
-            },
-            {
-                  "name": "Milnerton Racecourse Nature Reserve",
-                  "text": "Rezervația Naturală Milnerton Racecourse este o arie protejată pentru floră și faună în Milnerton.",
-                  "category": "natural",
-                  "coords": [
-                        18.509434,
-                        -33.858959
-                  ]
-            },
-            {
-                  "name": "Viewing platform",
-                  "text": "Această platformă de vizionare oferă priveliști pitorești în Milnerton.",
-                  "category": "natural",
-                  "coords": [
-                        18.514627,
-                        -33.88794
-                  ]
-            },
-            {
-                  "name": "Lagoon Beach",
-                  "text": "Plaja Lagoon este o destinație de coastă atractivă din Milnerton.",
-                  "category": "recreational",
-                  "coords": [
-                        18.480875,
-                        -33.894149
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Milnerton Lighthouse",
-                  "text": "Milnerton Lighthouse is a distinctive lighthouse structure in Milnerton.",
-                  "category": "landmark",
-                  "coords": [
-                        18.487781,
-                        -33.881708
-                  ]
-            },
-            {
-                  "name": "Zonnekus Mansion",
-                  "text": "Zonnekus Mansion is a historic monumental building in Milnerton.",
-                  "category": "historical",
-                  "coords": [
-                        18.485658,
-                        -33.884908
-                  ]
-            },
-            {
-                  "name": "Japanese Koi Fish Lookout",
-                  "text": "Japanese Koi Fish Lookout is a local monument in Milnerton.",
-                  "category": "historical",
-                  "coords": [
-                        18.487941,
-                        -33.883998
-                  ]
-            },
-            {
-                  "name": "Intaka Island",
-                  "text": "Intaka Island is a serene nature reserve in Milnerton.",
-                  "category": "natural",
-                  "coords": [
-                        18.515932,
-                        -33.888304
-                  ]
-            },
-            {
-                  "name": "Milnerton Playhouse Theatre",
-                  "text": "Milnerton Playhouse Theatre is a cultural performance venue in Milnerton.",
-                  "category": "cultural",
-                  "coords": [
-                        18.496903,
-                        -33.868039
-                  ]
-            },
-            {
-                  "name": "Sunset Beach",
-                  "text": "Sunset Beach is a scenic stretch of coastline in Milnerton.",
-                  "category": "recreational",
-                  "coords": [
-                        18.488547,
-                        -33.856417
-                  ]
-            },
-            {
-                  "name": "Milnerton Racecourse Nature Reserve",
-                  "text": "Milnerton Racecourse Nature Reserve is a protected flora and fauna area in Milnerton.",
-                  "category": "natural",
-                  "coords": [
-                        18.509434,
-                        -33.858959
-                  ]
-            },
-            {
-                  "name": "Viewing platform",
-                  "text": "This viewing platform offers scenic sights in Milnerton.",
-                  "category": "natural",
-                  "coords": [
-                        18.514627,
-                        -33.88794
-                  ]
-            },
-            {
-                  "name": "Lagoon Beach",
-                  "text": "Lagoon Beach is an attractive coastal destination in Milnerton.",
-                  "category": "recreational",
-                  "coords": [
-                        18.480875,
-                        -33.894149
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "name": {"de": "Milnerton", "hu": "Milnerton", "ro": "Milnerton", "en": "Milnerton"}, "description": {"de": "Milnerton ist ein belebter Küstenvorort von Kapstadt, berühmt für seinen ikonischen Blick auf den Tafelberg über die Table Bay.", "hu": "Milnerton Fokváros egyik nyüzsgő tengerparti külvárosa, amely híres a Tábla-hegyre nyíló ikonikus kilátásáról.", "ro": "Milnerton este o suburbie de coastă plină de viață a orașului Cape Town, faimoasă pentru priveliștile sale iconice spre Table Mountain.", "en": "Milnerton is a bustling coastal suburb of Cape Town, famous for its iconic views of Table Mountain across Table Bay."}, "descriptionAdvanced": {"de": "Milnerton erstreckt sich entlang der östlichen Küstenlinie der Table Bay und ist einer der malerischsten und historischsten Vororte Kapstadts. Die Gegend ist berühmt für ihr ununterbrochenes, postkartenreifes Panorama des Tafelbergs, des Lion's Head und der Skyline der Stadt. Ein markantes Merkmal ist die Milnerton-Lagune, in der der Diep River ins Meer mündet, gesäumt von Palmen und Feuchtgebieten mit reicher Vogelwelt.\n\nDie weite Sandküste ist bei Kitesurfern und Wassersportlern beliebt, besonders wenn der charakteristische Wind „Cape Doctor“ weht. Die Küste umfasst den historischen Shipwreck Strand, den malerischen Lagoon Beach und den exklusiven Sunset Beach, die alle lange weiße Sandstrände bieten. Während das Wasser des Atlantiks hier kühl ist, bieten die Strände außergewöhnliche Bedingungen für Strandspaziergänge, Surfen und Kiteboarding.\n\nBesucher können lokale Märkte, nahegelegene Golfplätze und ein vielfältiges kulinarisches Angebot erkunden, das von lockeren Strandcafés bis hin zu eleganten Meeresfrüchte-Restaurants reicht. Milnerton ist vom Stadtzentrum aus leicht über die R27 erreichbar und dient als Tor zur Westküste, während es seinen entspannten, maritimen Charme bewahrt.", "hu": "Milnerton a Table Bay keleti partvonala mentén húzódik, Fokváros egyik legfestőibb és leginkább történelmi lakóövezeteként. A terület híres a Tábla-hegyre, az Oroszlánfej-hegyre és a város sziluettjére nyíló, képeslapra illő panorámájáról, amely a fotósok és a naplementék szerelmeseinek kedvence. Kiemelkedő látványossága a Milnerton-lagúna, ahol a Diep-folyó a tengerbe ömlik, pálmafákkal és madárvilágban gazdag vizes élőhelyekkel szegélyezve.\n\nA széles homokos tengerpartot kedvelik a kiteszörfösök és a vízi sportok rajongói, különösen akkor, amikor a jellegzetes „Cape Doctor” szél fúj. A partvonal magában foglalja a történelmi Shipwreck homokját, a festői Lagoon Beach-et és az exkluzív Sunset Beach-et, amelyek mindegyike hosszú fehér homokos szakaszokat kínál. Bár az Atlanti-óceán vize itt hűvös, a strandok kiváló feltételeket biztosítanak a tengerparti sétákhoz és a szörfözéshez.\n\nA látogatók felfedezhetik a helyi piacokat, a közeli golfpályákat, és a változatos kulináris kínálatot, amely a laza tengerparti kávézóktól az elegáns tengeri éttermekig terjed. A városközpontból az R27-es úton könnyen megközelíthető Milnerton a nyugati part kapujaként szolgál, miközben megőrzi nyugodt, tengeri báját.", "ro": "Milnerton se întinde de-a lungul țărmului estic al Table Bay, servind ca una dintre cele mai pitorești suburbii rezidențiale din Cape Town. Zona este renumită pentru panoramele sale neîntrerupte, perfecte pentru cărți poștale, ale Muntelui Table, Lion's Head și ale orizontului orașului. O caracteristică frapantă este Laguna Milnerton, unde râul Diep se varsă în mare, mărginită de palmieri și zone umede bogate în păsări.\n\nLitoralul nisipos este iubit de kitesurferi și de pasionații de sporturi nautice, mai ales când suflă vântul caracteristic „Cape Doctor”. Țărmul are nisipurile istorice Shipwreck, pitorescul Lagoon Beach și exclusivistul Sunset Beach, fiecare oferind porțiuni lungi de nisip alb. Deși apele atlantice sunt reci aici, plajele oferă condiții excepționale pentru plimbări și surfing.\n\nVizitatorii pot explora piețele locale, terenurile de golf din apropiere și ofertele culinare diverse, de la cafenele pe plajă la restaurante elegante cu fructe de mare. Ușor accesibil din centrul orașului prin R27, Milnerton acționează ca o poartă de intrare spre Coasta de Vest, păstrând în același timp un farmec maritim relaxat.", "en": "Milnerton stretches along the eastern shoreline of Table Bay, serving as one of Cape Town's most picturesque and historic residential suburbs. The area is renowned for its uninterrupted, postcard-perfect panoramas of Table Mountain, Lion's Head, and the city skyline, making it a favorite spot for photographers and sunset lovers. A striking feature is the Milnerton Lagoon, where the Diep River flows into the sea, fringed by palm trees and wetlands rich in birdlife.\n\nThe sweeping sandy coastline is beloved by kitesurfers and water sports enthusiasts, especially when the characteristic Cape Doctor wind blows. The shoreline features the historic Shipwreck sands, the scenic Lagoon Beach, and the exclusive Sunset Beach, each offering long stretches of white sand. While the Atlantic waters here are brisk, the beaches provide exceptional conditions for beach walks, surfing, and kiteboarding.\n\nVisitors can explore local markets, nearby golf courses, and diverse culinary offerings ranging from casual beachside cafes to elegant seafood dining. Easily accessible from the city center via the R27, Milnerton acts as a gateway to the West Coast while maintaining a relaxed, maritime charm."}, "facts": {"de": ["Vorort von Kapstadt", "Berühmter Blick auf den Tafelberg", "An der Table Bay gelegen", "Beherbergt die Milnerton-Lagune", "Bietet den Lagoon Beach", "Bietet den Sunset Beach", "Umfasst das Shipwreck-Gebiet", "Beliebt zum Kitesurfen"], "hu": ["Fokváros egyik külvárosa", "Híres kilátás a Tábla-hegyre", "A Table Bay partján fekszik", "Itt található a Milnerton-lagúna", "Itt található a Lagoon Beach", "Itt található a Sunset Beach", "Magában foglalja a Shipwreck területét", "Népszerű kiteszörföző hely"], "ro": ["Suburbie a orașului Cape Town", "Vedere faimoasă spre Table Mountain", "Situat pe Table Bay", "Include Laguna Milnerton", "Include Lagoon Beach", "Include Sunset Beach", "Include zona Shipwreck", "Popular pentru kitesurfing"], "en": ["Suburb of Cape Town", "Famous views of Table Mountain", "Located on Table Bay", "Features Milnerton Lagoon", "Features Lagoon Beach", "Features Sunset Beach", "Includes the Shipwreck area", "Popular for kitesurfing"]}, "parent": "ZA-WC", "coords": [18.49639, -33.87944], "tier": 2, "image": "/poi-images/south-africa-milnerton-cities-v2.webp"},
 {"id": "tunisia-el-haddada-cities-v2", "sights": {
       "de": [
@@ -6609,24 +5018,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         11.037016,
                         33.773261
-                  ]
-            },
-            {
-                  "name": "La Ferme de Lotos - Musée de l'automobile et de la moto",
-                  "text": "La Ferme de Lotos ist ein spezielles Automobil- und Motorradmuseum in El Haddada.",
-                  "category": "museum",
-                  "coords": [
-                        11.017958,
-                        33.796351
-                  ]
-            },
-            {
-                  "name": "Huilerie Amer Ben Hamza",
-                  "text": "Die Huilerie Amer Ben Hamza ist eine interessante lokale Attraktion in El Haddada.",
-                  "category": "landmark",
-                  "coords": [
-                        11.006393,
-                        33.784556
                   ]
             },
             {
@@ -6677,24 +5068,6 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "La Ferme de Lotos - Musée de l'automobile et de la moto",
-                  "text": "A La Ferme de Lotos egy dedikált autó- és motormúzeum El Haddada területén.",
-                  "category": "museum",
-                  "coords": [
-                        11.017958,
-                        33.796351
-                  ]
-            },
-            {
-                  "name": "Huilerie Amer Ben Hamza",
-                  "text": "A Huilerie Amer Ben Hamza egy érdekes helyi látványosság El Haddada területén.",
-                  "category": "landmark",
-                  "coords": [
-                        11.006393,
-                        33.784556
-                  ]
-            },
-            {
                   "name": "Sidi Touiel",
                   "text": "A Sidi Touiel egy lenyűgöző régészeti lelőhely El Haddada városában.",
                   "category": "historical",
@@ -6742,24 +5115,6 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "La Ferme de Lotos - Musée de l'automobile et de la moto",
-                  "text": "La Ferme de Lotos este un muzeu dedicat automobilelor și motocicletelor în El Haddada.",
-                  "category": "museum",
-                  "coords": [
-                        11.017958,
-                        33.796351
-                  ]
-            },
-            {
-                  "name": "Huilerie Amer Ben Hamza",
-                  "text": "Huilerie Amer Ben Hamza este o atracție locală interesantă în El Haddada.",
-                  "category": "landmark",
-                  "coords": [
-                        11.006393,
-                        33.784556
-                  ]
-            },
-            {
                   "name": "Sidi Touiel",
                   "text": "Sidi Touiel este un sit arheologic captivant din El Haddada.",
                   "category": "historical",
@@ -6804,24 +5159,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         11.037016,
                         33.773261
-                  ]
-            },
-            {
-                  "name": "La Ferme de Lotos - Musée de l'automobile et de la moto",
-                  "text": "La Ferme de Lotos is a dedicated automobile and motorcycle museum in El Haddada.",
-                  "category": "museum",
-                  "coords": [
-                        11.017958,
-                        33.796351
-                  ]
-            },
-            {
-                  "name": "Huilerie Amer Ben Hamza",
-                  "text": "Huilerie Amer Ben Hamza is an interesting local attraction in El Haddada.",
-                  "category": "landmark",
-                  "coords": [
-                        11.006393,
-                        33.784556
                   ]
             },
             {
@@ -7001,15 +5338,6 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "ggg",
-                  "text": "gggggg ist eine Sehenswürdigkeit in Qaryunis.",
-                  "category": "landmark",
-                  "coords": [
-                        20.046657,
-                        32.049314
-                  ]
-            },
-            {
                   "name": "القرية السياحية",
                   "text": "Tourist village ist ein Strandresort in Qaryunis.",
                   "category": "recreational",
@@ -7036,15 +5364,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         20.021626,
                         32.048631
-                  ]
-            },
-            {
-                  "name": "ggg",
-                  "text": "A gggggg egy látványosság Qaryunis területén.",
-                  "category": "landmark",
-                  "coords": [
-                        20.046657,
-                        32.049314
                   ]
             },
             {
@@ -7077,15 +5396,6 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "ggg",
-                  "text": "gggggg este o atracție turistică situată în Qaryunis.",
-                  "category": "landmark",
-                  "coords": [
-                        20.046657,
-                        32.049314
-                  ]
-            },
-            {
                   "name": "القرية السياحية",
                   "text": "Tourist village este o stațiune pe plajă situată în Qaryunis.",
                   "category": "recreational",
@@ -7095,44 +5405,7 @@ export const afNewV1: POI[] = [
                   ]
             }
       ],
-      "en": [
-            {
-                  "name": "Ghanfouda Resort",
-                  "text": "Ghanfouda Resort is a beach resort located in Qaryunis.",
-                  "category": "recreational",
-                  "coords": [
-                        20.024117,
-                        32.046832
-                  ]
-            },
-            {
-                  "name": "Nowruz resort",
-                  "text": "Nowruz resort is a beach resort located in Qaryunis.",
-                  "category": "recreational",
-                  "coords": [
-                        20.021626,
-                        32.048631
-                  ]
-            },
-            {
-                  "name": "gggggg",
-                  "text": "gggggg is a tourist attraction located in Qaryunis.",
-                  "category": "landmark",
-                  "coords": [
-                        20.046657,
-                        32.049314
-                  ]
-            },
-            {
-                  "name": "Tourist village",
-                  "text": "Tourist village is a beach resort located in Qaryunis.",
-                  "category": "recreational",
-                  "coords": [
-                        20.035979,
-                        32.06076
-                  ]
-            }
-      ]
+      "en": []
 }, "type": "city", "parent": "LY-BA", "tier": 2, "coords": [20.04178, 32.04649], "name": {"de": "Qaryunis", "hu": "Qaryunis", "ro": "Qaryunis", "en": "Qaryunis"}, "description": {"de": "Qaryunis ist ein Küstenvorort von Bengasi, bekannt für seine Universität und lebhaften Strandresorts.", "hu": "Qaryunis Bengázi egyik tengerparti külvárosa, amely egyeteméről és nyüzsgő strandjairól ismert.", "ro": "Qaryunis este o suburbie de coastă a orașului Benghazi, cunoscută pentru universitate și plaje.", "en": "Qaryunis is a coastal suburb of Benghazi, known for its university and vibrant beach resorts."}, "descriptionAdvanced": {"de": "Qaryunis, am südwestlichen Rand von Bengasi gelegen, ist ein bekannter Küstenvorort, der akademisches Leben harmonisch mit Freizeit am Meer verbindet. Die Gegend ist vor allem als Sitz der Universität Bengasi bekannt und verfügt über eine lebhafte Atmosphäre, die von Studenten und Einheimischen gleichermaßen geprägt wird. Der Küstenstreifen von Qaryunis ist ein wichtiger Anziehungspunkt für die Erholung und bietet breite Sandstrände mit Blick auf das Mittelmeer.\n\nDie Küstenresorts in diesem Bezirk bieten wichtige Erholungsräume. Das Ghanfouda Resort ist besonders bemerkenswert und bietet gepflegte Strände sowie familienfreundliche Annehmlichkeiten, die in den Sommermonaten große Menschenmengen anziehen. In der Nähe sorgt das Nowruz resort für eine festliche und lebendige Atmosphäre und feiert das Küstenleben mit verschiedenen Strandaktivitäten und lokalen Unterhaltungsmöglichkeiten.\n\nEin weiteres wichtiges Ziel ist das lokale Tourist village, das sich an Besucher richtet, die umfassende Urlaubseinrichtungen direkt am Wasser suchen. Die lokale Gastronomie ist reich an libyschen Aromen, wobei Meeresfrüchte die Hauptrolle in den Menüs der Strandrestaurants spielen. Qaryunis ist vom Zentrum Bengasis aus leicht zu erreichen.", "hu": "Qaryunis, amely Bengázi délnyugati szélén található, egy kiemelkedő tengerparti külváros, amely harmonikusan ötvözi az akadémiai életet a tengerparti pihenéssel. A leginkább a Bengázi Egyetem otthonaként ismert terület élénk légkörrel büszkélkedhet, amelyet a diákok és a helyiek egyaránt éltetnek. Qaryunis tengerparti szakasza a rekreáció egyik fő fókuszpontja, széles homokos partokat kínálva, amelyek a Földközi-tengerre néznek.\n\nA kerület tengerparti üdülőhelyei létfontosságú pihenőövezeteket biztosítanak. A Ghanfouda Resort különösen figyelemre méltó, gondozott strandokat és családbarát kényelmi szolgáltatásokat kínál, amelyek a nyári hónapokban nagy tömegeket vonzanak. A közelben található Nowruz resort ünnepi és vibráló atmoszférát nyújt, különféle tengerparti tevékenységekkel és helyi szórakozási lehetőségekkel várva a látogatókat.\n\nEgy másik kulcsfontosságú célpont a helyi Tourist village (Turisztikai falu), amely a vízparton kínál átfogó nyaralási létesítményeket. A helyi gasztronómia gazdag líbiai ízekben, és a tengerparti éttermek étlapján a tenger gyümölcsei játsszák a főszerepet. Qaryunis könnyen megközelíthető Bengázi központjából, így kedvelt menedéket jelent a friss levegőre vágyók számára.", "ro": "Qaryunis, situat la marginea de sud-vest a orașului Benghazi, este o suburbie de coastă proeminentă care îmbină armonios viața academică cu petrecerea timpului liber pe litoral. Cunoscută mai ales pentru găzduirea Universității din Benghazi, zona se mândrește cu o atmosferă plină de viață, condusă de studenți și localnici deopotrivă. Fâșia de coastă Qaryunis oferă țărmuri largi de nisip care privesc spre Marea Mediterană.\n\nStațiunile de coastă din acest cartier oferă spații vitale de recreere. Ghanfouda Resort este deosebit de remarcabil, oferind plaje bine întreținute și facilități pentru familii, care atrag un număr mare de turiști în lunile de vară. În apropiere, Nowruz resort oferă o atmosferă festivă și vibrantă, celebrând viața de coastă cu diverse activități pe plajă și opțiuni de divertisment local.\n\nO altă destinație cheie este Tourist village, care se adresează vizitatorilor care caută facilități complete de vacanță chiar lângă apă. Gastronomia locală este bogată în arome libiene, fructele de mare jucând un rol principal în meniurile restaurantelor de pe litoral. Qaryunis este ușor de ajuns din centrul orașului Benghazi, fiind o evadare accesibilă și iubită.", "en": "Qaryunis, located on the southwestern edge of Benghazi, is a prominent coastal suburb that harmoniously blends academic life with seaside leisure. Best known for housing the University of Benghazi, the area boasts a lively atmosphere driven by students and locals alike. The coastal stretch of Qaryunis is a major focal point for recreation, offering broad sandy shores that look out over the Mediterranean Sea.\n\nThe coastal resorts in this district provide vital recreational spaces. The Ghanfouda Resort is particularly noteworthy, offering well-maintained beaches and family-friendly amenities that draw large crowds during the summer months. Nearby, the Nowruz resort provides a festive and vibrant atmosphere, celebrating coastal life with various beachside activities and local entertainment options.\n\nAnother key destination is the local Tourist village, which caters to visitors looking for comprehensive holiday facilities right by the water. The local gastronomy is rich in Libyan flavors, with seafood playing a starring role in the menus of seaside restaurants. Qaryunis is easily reached from central Benghazi, making it an accessible and beloved escape for city dwellers seeking fresh sea air."}, "facts": {"de": ["Südwestlicher Vorort von Bengasi.", "Heimat der Universität Bengasi.", "Verfügt über mehrere Strandresorts.", "Beliebt bei Studenten und Einheimischen.", "Breite Sandstrände am Mittelmeer.", "Lebhafte Sommeratmosphäre.", "Gute Fischrestaurants in der Nähe.", "Leicht vom Stadtzentrum erreichbar."], "hu": ["Bengázi délnyugati külvárosa.", "A Bengázi Egyetem otthona.", "Több tengerparti üdülőhellyel rendelkezik.", "Népszerű a diákok és a helyiek körében.", "Széles homokos strandok a Földközi-tengeren.", "Élénk nyári atmoszféra.", "Kiváló tengeri éttermek a közelben.", "Könnyen elérhető a városközpontból."], "ro": ["Suburbie de sud-vest a orașului Benghazi.", "Găzduiește Universitatea din Benghazi.", "Dispune de mai multe stațiuni pe plajă.", "Populară printre studenți și localnici.", "Plaje largi cu nisip la Marea Mediterană.", "Atmosferă vibrantă de vară.", "Restaurante bune cu fructe de mare.", "Ușor accesibilă din centrul orașului."], "en": ["Southwestern suburb of Benghazi.", "Home to the University of Benghazi.", "Features multiple beach resorts.", "Popular with students and locals.", "Broad sandy beaches on the Mediterranean.", "Vibrant summer atmosphere.", "Good seafood restaurants nearby.", "Easily accessible from the city center."]}, "image": "/poi-images/libya-qaryunis-cities-v2.webp"},
 {"id": "libya-al-marsas-cities-v2", "type": "city", "parent": "LY-BU", "tier": 2, "coords": [23.65008, 32.11061], "name": {"de": "Al Marsas", "hu": "Al Marsas", "ro": "Al Marsas", "en": "Al Marsas"}, "description": {"de": "Al Marsas ist ein abgelegenes Küstenjuwel im Osten Libyens mit schroffer Landschaft und unberührten Stränden.", "hu": "Al Marsas egy távoli tengerparti gyöngyszem Kelet-Líbiában, zord tájakkal és érintetlen vádi-strandokkal.", "ro": "Al Marsas este o bijuterie de coastă izolată din estul Libiei, oferind peisaje accidentate și plaje curate.", "en": "Al Marsas is a remote coastal gem in eastern Libya, offering rugged landscapes and pristine wadi beaches."}, "descriptionAdvanced": {"de": "Al Marsas ist ein wunderschönes, schroffes Küstengebiet im Bezirk Butnan im Osten Libyens, nicht weit von der Stadt Tobruk entfernt. Diese Region zeichnet sich durch dramatische Kalksteinklippen, tiefe Wadis (Täler) und eine unberührte Mittelmeerküste aus, die vom Massentourismus weitgehend unberührt bleibt. Es bietet einen abgeschiedenen Rückzugsort für Naturliebhaber und abenteuerlustige Reisende, die Libyens wildere Ufer erkunden möchten.\n\nDie Strände hier sind einzigartig und liegen oft an den Mündungen dramatischer Wadis. Zu den bemerkenswerten Orten gehört der Strand bei وادي بو كريميسه (Wadi Boukremisa), der einen atemberaubenden Kontrast zwischen dem trockenen, felsigen Landesinneren und dem leuchtend blauen Meer bietet. Ein weiterer verborgener Schatz ist أم اقحيقيح (Umm Aghaiqih), eine ruhige Bucht, die sich perfekt zum Schwimmen und Schnorcheln in unglaublich klarem Wasser eignet.\n\nBesucher können auch die malerische Küstenregion وادي القطارة (Wadi Qattara) erkunden, wo die Naturlandschaft atemberaubende Ausblicke und eine Atmosphäre absoluter Ruhe bietet. Aufgrund der abgelegenen Lage sollten Besucher vorbereitet sein, da die touristische Infrastruktur minimal ist. Die raue natürliche Schönheit macht es jedoch zu einem lohnenden Ziel.", "hu": "Al Marsas egy gyönyörűen zord tengerparti terület Kelet-Líbia Butnan kerületében, nem messze Tobruk városától. Ezt a régiót drámai mészkősziklák, mély vádik (völgyek) és egy érintetlen mediterrán partvidék határozza meg, amelyet a tömegturizmus nagyrészt elkerült. Félreeső menedéket kínál a természet szerelmeseinek és a kalandvágyó utazóknak, akik Líbia vadabb partjait szeretnék felfedezni.\n\nAz itteni strandok egyedülállóak, gyakran drámai vádik torkolatánál bújnak meg. Figyelemre méltó helyszínek közé tartozik a وادي بو كريميسه (Wadi Boukremisa) strandja, amely lenyűgöző kontrasztot kínál a száraz, sziklás szárazföld és az élénkkék tenger között. Egy másik rejtett kincs az أم اقحيقيح (Umm Aghaiqih), egy csendes öböl, amely tökéletes úszáshoz és sznorkelezéshez a hihetetlenül tiszta, szennyezetlen vizekben.\n\nA látogatók felfedezhetik a وادي القطارة (Wadi Qattara) festői tengerparti területét is, ahol a természeti táj lélegzetelállító kilátást és az abszolút nyugalom légkörét nyújtja. Távoli fekvése miatt a látogatóknak felkészülten kell érkezniük, mivel a turisztikai infrastruktúra minimális. A nyers természeti szépség azonban, amely a Tobrukból induló utakon érhető el, rendkívül kifizetődő úti céllá teszi.", "ro": "Al Marsas este o zonă de coastă frumos accidentată, situată în districtul Butnan din estul Libiei, nu departe de orașul Tobruk. Această regiune este definită de stâncile sale dramatice de calcar, wadi-urile adânci (văile) și o coastă mediteraneană virgină, care rămâne în mare parte neatinsă de turismul de masă. Oferă o retragere retrasă pentru iubitorii de natură și călătorii aventuroși.\n\nPlajele de aici sunt unice, adesea amplasate la gurile unor wadi-uri dramatice. Locurile notabile includ plaja din وادي بو كريميسه (Wadi Boukremisa), care oferă un contrast uimitor între interiorul uscat, stâncos și marea albastră vibrantă. O altă comoară ascunsă este أم اقحيقيح (Umm Aghaiqih), un golf liniștit perfect pentru înot și snorkeling în ape incredibil de limpezi.\n\nVizitatorii pot explora, de asemenea, zona de coastă pitorească din وادي القطارة (Wadi Qattara), unde peisajul natural oferă vederi uluitoare și o atmosferă de liniște absolută. Datorită locației sale îndepărtate, vizitatorii ar trebui să vină pregătiți, deoarece infrastructura turistică este minimă. Cu toate acestea, frumusețea naturală brută face din Al Marsas o destinație profund plină de satisfacții.", "en": "Al Marsas is a beautifully rugged coastal area located in the Butnan district of eastern Libya, not far from the city of Tobruk. This region is defined by its dramatic limestone cliffs, deep wadis (valleys), and an unspoiled Mediterranean coastline that remains largely untouched by mass tourism. It offers a secluded retreat for nature lovers and adventurous travelers looking to explore Libya's wilder shores.\n\nThe beaches here are unique, often nestled at the mouths of dramatic wadis. Notable spots include the beach at وادي بو كريميسه (Wadi Boukremisa), which offers a stunning contrast between the dry, rocky inland and the vibrant blue sea. Another hidden treasure is أم اقحيقيح (Umm Aghaiqih), a quiet cove perfect for swimming and snorkeling in incredibly clear, unpolluted waters.\n\nVisitors can also explore the picturesque coastal area of وادي القطارة (Wadi Qattara), where the natural landscape provides breathtaking views and an atmosphere of absolute tranquility. Due to its remote location, visitors should come prepared as tourist infrastructure is minimal. However, the raw natural beauty, accessible via regional desert roads from Tobruk, makes Al Marsas a deeply rewarding destination."}, "facts": {"de": ["In Ostlibyen nahe Tobruk.", "Bekannt für dramatische Kalksteinklippen.", "Verfügt über tiefe Küsten-Wadis.", "Unberührte, vom Massentourismus freie Strände.", "Ausgezeichnet zum Schnorcheln.", "Minimale touristische Infrastruktur.", "Erreichbar über Wüstenstraßen.", "Bietet ruhige, abgelegene Buchten."], "hu": ["Kelet-Líbiában, Tobruk közelében.", "Drámai mészkőszikláiról ismert.", "Mély tengerparti vádikkal rendelkezik.", "Érintetlen, tömegturizmustól mentes strandok.", "Kiváló sznorkelezési lehetőségek.", "Minimális turisztikai infrastruktúra.", "Sivatagi utakon keresztül elérhető.", "Nyugodt, eldugott öblöket kínál."], "ro": ["În estul Libiei, lângă Tobruk.", "Cunoscut pentru stâncile dramatice de calcar.", "Prezintă wadi-uri de coastă adânci.", "Plaje virgine, fără turism de masă.", "Excelent pentru snorkeling.", "Infrastructură turistică minimă.", "Accesibil prin drumuri din deșert.", "Oferă golfuri liniștite și izolate."], "en": ["In eastern Libya near Tobruk.", "Known for dramatic limestone cliffs.", "Features deep coastal wadis.", "Unspoiled beaches free of mass tourism.", "Excellent for snorkeling.", "Minimal tourist infrastructure.", "Accessible via desert roads.", "Offers quiet, secluded coves."]}, "image": "/poi-images/libya-al-marsas-cities-v2.webp"},
 {"id": "libya-qaryat-al-imamah-cities-v2", "sights": {
@@ -8047,33 +6320,6 @@ export const afNewV1: POI[] = [
 {"id": "morocco-mediouna-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Kap Spartel",
-                  "text": "Cap Spartel ist ein berühmter Aussichtspunkt in Mediouna, an dem der Atlantik auf das Mittelmeer trifft.",
-                  "category": "natural",
-                  "coords": [
-                        -5.924216,
-                        35.79016
-                  ]
-            },
-            {
-                  "name": "Signpost of Atlantic & Mediterranean",
-                  "text": "Der Signpost of Atlantic & Mediterranean ist eine markante Attraktion, die die Ozeangrenze in Mediouna markiert.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.92723,
-                        35.787673
-                  ]
-            },
-            {
-                  "name": "Ba Kacem",
-                  "text": "Ba Kacem ist ein malerischer lokaler Strand an der Küste von Mediouna.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.930373,
-                        35.776902
-                  ]
-            },
-            {
                   "name": "السلوقية",
                   "text": "Slokia ist ein Aussichtspunkt in Mediouna.",
                   "category": "natural",
@@ -8081,54 +6327,9 @@ export const afNewV1: POI[] = [
                         -5.908506,
                         35.794658
                   ]
-            },
-            {
-                  "name": "Plage Achkar",
-                  "text": "Plage Achkar ist ein Strand in Mediouna.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.935283,
-                        35.767958
-                  ]
-            },
-            {
-                  "name": "Borj Spartel",
-                  "text": "Borj Spartel ist ein Leuchtturm in Mediouna.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.916588,
-                        35.787389
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Cap Spartel",
-                  "text": "A Cap Spartel egy híres kilátó Mediouna területén, ahol az Atlanti-óceán találkozik a Földközi-tengerrel.",
-                  "category": "natural",
-                  "coords": [
-                        -5.924216,
-                        35.79016
-                  ]
-            },
-            {
-                  "name": "Signpost of Atlantic & Mediterranean",
-                  "text": "A Signpost of Atlantic & Mediterranean egy nevezetesség, amely az óceáni határt jelzi Mediouna területén.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.92723,
-                        35.787673
-                  ]
-            },
-            {
-                  "name": "Ba Kacem",
-                  "text": "A Ba Kacem egy festői helyi strand Mediouna tengerparti részén.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.930373,
-                        35.776902
-                  ]
-            },
             {
                   "name": "السلوقية",
                   "text": "A Slokia egy kilátópont Mediouna településen.",
@@ -8137,54 +6338,9 @@ export const afNewV1: POI[] = [
                         -5.908506,
                         35.794658
                   ]
-            },
-            {
-                  "name": "Plage Achkar",
-                  "text": "A Plage Achkar egy strand Mediouna városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.935283,
-                        35.767958
-                  ]
-            },
-            {
-                  "name": "Borj Spartel",
-                  "text": "A Borj Spartel egy világítótorony Mediouna településen.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.916588,
-                        35.787389
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Cap Spartel",
-                  "text": "Cap Spartel este un punct de belvedere faimos în Mediouna, unde Oceanul Atlantic se întâlnește cu Marea Mediterană.",
-                  "category": "natural",
-                  "coords": [
-                        -5.924216,
-                        35.79016
-                  ]
-            },
-            {
-                  "name": "Signpost of Atlantic & Mediterranean",
-                  "text": "Signpost of Atlantic & Mediterranean este un punct de atracție care marchează granița oceanică în Mediouna.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.92723,
-                        35.787673
-                  ]
-            },
-            {
-                  "name": "Ba Kacem",
-                  "text": "Ba Kacem este o plajă locală pitorească situată în zona de coastă a orașului Mediouna.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.930373,
-                        35.776902
-                  ]
-            },
             {
                   "name": "السلوقية",
                   "text": "Slokia este un punct de belvedere situat în Mediouna.",
@@ -8193,82 +6349,9 @@ export const afNewV1: POI[] = [
                         -5.908506,
                         35.794658
                   ]
-            },
-            {
-                  "name": "Plage Achkar",
-                  "text": "Plage Achkar este o plajă situată în Mediouna.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.935283,
-                        35.767958
-                  ]
-            },
-            {
-                  "name": "Borj Spartel",
-                  "text": "Borj Spartel este un far aflat în Mediouna.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.916588,
-                        35.787389
-                  ]
             }
       ],
-      "en": [
-            {
-                  "name": "Cap Spartel",
-                  "text": "Cap Spartel is a famous viewpoint in Mediouna where the Atlantic Ocean meets the Mediterranean Sea.",
-                  "category": "natural",
-                  "coords": [
-                        -5.924216,
-                        35.79016
-                  ]
-            },
-            {
-                  "name": "Signpost of Atlantic & Mediterranean",
-                  "text": "The Signpost of Atlantic & Mediterranean is a landmark attraction marking the oceanic border in Mediouna.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.92723,
-                        35.787673
-                  ]
-            },
-            {
-                  "name": "Ba Kacem",
-                  "text": "Ba Kacem is a picturesque local beach situated in the coastal area of Mediouna.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.930373,
-                        35.776902
-                  ]
-            },
-            {
-                  "name": "Slokia",
-                  "text": "Slokia is a scenic viewpoint situated in Mediouna.",
-                  "category": "natural",
-                  "coords": [
-                        -5.908506,
-                        35.794658
-                  ]
-            },
-            {
-                  "name": "Plage Achkar",
-                  "text": "Plage Achkar is a relaxing beach situated in Mediouna.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.935283,
-                        35.767958
-                  ]
-            },
-            {
-                  "name": "Borj Spartel",
-                  "text": "Borj Spartel is a coastal lighthouse in Mediouna.",
-                  "category": "landmark",
-                  "coords": [
-                        -5.916588,
-                        35.787389
-                  ]
-            }
-      ]
+      "en": []
 }, "type": "city", "parent": "MA-01", "coords": [-5.90897, 35.77187], "tier": 2, "name": {"de": "Mediouna", "hu": "Mediouna", "ro": "Mediouna", "en": "Mediouna"}, "description": {"de": "Mediouna ist ein atemberaubendes Küstengebiet nahe Tanger, Marokko, wo der Atlantik auf das Mittelmeer trifft.", "hu": "Mediouna egy lenyűgöző tengerparti terület a marokkói Tanger közelében, ahol az Atlanti-óceán találkozik a Földközi-tengerrel.", "ro": "Mediouna este o zonă de coastă uimitoare lângă Tanger, Maroc, unde Oceanul Atlantic se întâlnește cu Marea Mediterană.", "en": "Mediouna is a stunning coastal area near Tangier, Morocco, offering beautiful sandy shores where the Atlantic Ocean meets the Mediterranean."}, "descriptionAdvanced": {"de": "Mediouna ist ein malerisches Küstenziel, das etwas südlich des berühmten Kap Spartel von Tanger liegt. Die Gegend ist bekannt für ihre spektakuläre Küste, an der das Wasser des Atlantischen Ozeans auf das Mittelmeer trifft. Besucher werden von den malerischen Klippen, den unberührten Sandstränden und der entspannten Atmosphäre angezogen, die eine perfekte Flucht aus dem geschäftigen Stadtzentrum von Tanger bietet.\n\nDie Küste hier verfügt über einige der beliebtesten Strände der Region. Plage Achkar ist eine weite, wunderschöne Sandbucht, die sich perfekt zum Schwimmen und Sonnenbaden eignet und oft zusammen mit den nahe gelegenen berühmten Herkulesgrotten besucht wird. Ein weiteres Highlight ist der Strand Ba Kacem, der für sein sauberes Wasser und seine familienfreundliche Umgebung bekannt ist. Beide Strände bieten grundlegende Annehmlichkeiten und lokale Cafés, in denen frischer marokkanischer Minztee serviert wird.\n\nÜber die Strände hinaus bietet Mediouna hervorragende Möglichkeiten für Naturspaziergänge, Fotografie und das Genießen spektakulärer Sonnenuntergänge am Ozean. Die lokale Gastronomie stützt sich stark auf frischen täglichen Fang, wobei traditionelle Tajines in nahegelegenen Restaurants erhältlich sind. Mediouna ist über die Straße von Tanger aus leicht zu erreichen und ein Muss für Strandliebhaber.", "hu": "Mediouna egy festői tengerparti úti cél, amely Tanger híres Spartel-fokától délre található. A terület híres látványos partvonaláról, ahol az Atlanti-óceán vize találkozik a Földközi-tengerrel. A látogatókat vonzzák a festői sziklák, az érintetlen homokos szakaszok és a laza légkör, amely tökéletes menekülést kínál Tanger nyüzsgő városközpontjából.\n\nEzen a partszakaszon találhatók a régió legkedveltebb strandjai. A Plage Achkar egy széles, gyönyörű homokos öböl, amely tökéletes úszáshoz és napozáshoz, és gyakran látogatják a közeli híres Herkules-barlangokkal együtt. Egy másik fénypont a Ba Kacem strand, amely tiszta vizéről és családbarát környezetéről ismert. Mindkét strand alapvető szolgáltatásokat és helyi kávézókat kínál, ahol friss marokkói mentateát és tenger gyümölcseit szolgálnak fel.\n\nA strandokon túl Mediouna kiváló lehetőségeket kínál természetjárásra, fotózásra és a látványos óceáni naplementék megtekintésére. A helyi gasztronómia nagymértékben támaszkodik a napi friss fogásokra, a közeli tengerparti éttermekben hagyományos marokkói tajine kapható. A Tangerből közúton könnyen megközelíthető Mediouna kötelező látnivaló a strandok szerelmeseinek és a felfedezőknek.", "ro": "Mediouna este o destinație de coastă pitorească situată la sud de faimosul Cap Spartel din Tanger. Zona este renumită pentru coasta sa spectaculoasă, unde apele Oceanului Atlantic se întâlnesc cu Marea Mediterană. Vizitatorii sunt atrași de stâncile sale pitorești, porțiunile de nisip curat și atmosfera relaxată care oferă o evadare perfectă din centrul plin de viață al orașului Tanger.\n\nCoasta de aici se mândrește cu unele dintre cele mai îndrăgite plaje din regiune. Plage Achkar este un golf cu nisip larg și frumos, perfect pentru înot și plajă, vizitat adesea alături de faimoasele Peșteri ale lui Hercule din apropiere. Un alt punct de atracție este plaja Ba Kacem, cunoscută pentru apele sale curate și mediul prietenos pentru familii. Ambele plaje oferă facilități esențiale și cafenele locale care servesc ceai de mentă proaspăt și fructe de mare.\n\nDincolo de plaje, Mediouna oferă oportunități excelente pentru plimbări în natură, fotografie și bucuria apusurilor spectaculoase de soare pe ocean. Gastronomia locală se bazează foarte mult pe capturile proaspete zilnice, cu tajine tradiționale marocane disponibile la restaurantele de coastă. Ușor accesibilă rutier din Tanger, Mediouna este o vizită obligatorie pentru iubitorii de plajă.", "en": "Mediouna is a picturesque coastal destination located just south of Tangier's famous Cape Spartel. The area is renowned for its spectacular coastline, where the waters of the Atlantic Ocean meet the Mediterranean Sea. Visitors are drawn to its scenic cliffs, pristine sandy stretches, and the laid-back atmosphere that provides a perfect escape from the bustling city center of Tangier.\n\nThe coastline here boasts some of the region's most beloved beaches. Plage Achkar is a wide, beautiful sandy bay, perfect for swimming and sunbathing, often visited alongside the famous nearby Hercules Caves. Another highlight is Ba Kacem beach, known for its clean waters and family-friendly environment. Both beaches offer essential amenities and local cafes serving fresh Moroccan mint tea and seafood.\n\nBeyond the beaches, Mediouna offers excellent opportunities for nature walks, photography, and enjoying spectacular ocean sunsets. The local gastronomy relies heavily on fresh daily catches, with traditional Moroccan tajines available at nearby coastal restaurants. Easily accessible by road from Tangier, Mediouna is a must-visit for beach lovers and explorers."}, "facts": {"de": ["Nahe Tanger", "Atlantischer Ozean", "Mittelmeer", "Plage Achkar", "Ba Kacem Strand", "Herkulesgrotten", "Meeresfrüchte-Restaurants", "Küstenklippen"], "hu": ["Tanger közelében", "Atlanti-óceán", "Földközi-tenger", "Plage Achkar", "Ba Kacem strand", "Herkules-barlangok", "Tenger gyümölcsei éttermek", "Tengerparti sziklák"], "ro": ["Lângă Tanger", "Oceanul Atlantic", "Marea Mediterană", "Plage Achkar", "Plaja Ba Kacem", "Peșterile lui Hercule", "Restaurante cu fructe de mare", "Stânci de coastă"], "en": ["Near Tangier", "Atlantic Ocean", "Mediterranean Sea", "Plage Achkar", "Ba Kacem Beach", "Hercules Caves", "Seafood restaurants", "Coastal cliffs"]}, "image": "/poi-images/morocco-mediouna-cities-v2.webp"},
 {"id": "algeria-chehabna-fouaga-cities-v2", "sights": {
       "de": [
@@ -9039,51 +7122,6 @@ export const afNewV1: POI[] = [
 {"id": "south-africa-misty-cliffs-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Platkop",
-                  "text": "Platkop ist ein bemerkenswerter Berggipfel in Misty Cliffs.",
-                  "category": "landmark",
-                  "coords": [
-                        18.358196,
-                        -34.173096
-                  ]
-            },
-            {
-                  "name": "Vlooiberg",
-                  "text": "Vlooiberg ist ein markanter Gipfel in Misty Cliffs.",
-                  "category": "landmark",
-                  "coords": [
-                        18.368575,
-                        -34.175281
-                  ]
-            },
-            {
-                  "name": "Varingkop",
-                  "text": "Varingkop ist ein bekannter Berggipfel in Misty Cliffs.",
-                  "category": "landmark",
-                  "coords": [
-                        18.373112,
-                        -34.179446
-                  ]
-            },
-            {
-                  "name": "Platberg",
-                  "text": "Platberg ist ein malerischer Gipfel in der Gegend von Misty Cliffs.",
-                  "category": "landmark",
-                  "coords": [
-                        18.371439,
-                        -34.189136
-                  ]
-            },
-            {
-                  "name": "Scarborough Beach",
-                  "text": "Scarborough Beach ist ein atemberaubender Strand in Misty Cliffs.",
-                  "category": "recreational",
-                  "coords": [
-                        18.372185,
-                        -34.201743
-                  ]
-            },
-            {
                   "name": "Witsands",
                   "text": "Witsands ist ein malerischer Strand in Misty Cliffs.",
                   "category": "recreational",
@@ -9103,51 +7141,6 @@ export const afNewV1: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Platkop",
-                  "text": "A Platkop egy figyelemre méltó hegycsúcs Misty Cliffs-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        18.358196,
-                        -34.173096
-                  ]
-            },
-            {
-                  "name": "Vlooiberg",
-                  "text": "A Vlooiberg egy kiemelkedő hegycsúcs Misty Cliffs-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        18.368575,
-                        -34.175281
-                  ]
-            },
-            {
-                  "name": "Varingkop",
-                  "text": "A Varingkop egy jól ismert hegycsúcs Misty Cliffs-ben.",
-                  "category": "landmark",
-                  "coords": [
-                        18.373112,
-                        -34.179446
-                  ]
-            },
-            {
-                  "name": "Platberg",
-                  "text": "A Platberg egy festői hegycsúcs Misty Cliffs területén.",
-                  "category": "landmark",
-                  "coords": [
-                        18.371439,
-                        -34.189136
-                  ]
-            },
-            {
-                  "name": "Scarborough Beach",
-                  "text": "A Scarborough Beach egy lenyűgöző strand Misty Cliffs-ben.",
-                  "category": "recreational",
-                  "coords": [
-                        18.372185,
-                        -34.201743
-                  ]
-            },
             {
                   "name": "Witsands",
                   "text": "A Witsands egy festői strand Misty Cliffs-ben.",
@@ -9169,51 +7162,6 @@ export const afNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Platkop",
-                  "text": "Platkop este un vârf de munte notabil situat în Misty Cliffs.",
-                  "category": "landmark",
-                  "coords": [
-                        18.358196,
-                        -34.173096
-                  ]
-            },
-            {
-                  "name": "Vlooiberg",
-                  "text": "Vlooiberg este un vârf proeminent situat în Misty Cliffs.",
-                  "category": "landmark",
-                  "coords": [
-                        18.368575,
-                        -34.175281
-                  ]
-            },
-            {
-                  "name": "Varingkop",
-                  "text": "Varingkop este un vârf de munte binecunoscut în Misty Cliffs.",
-                  "category": "landmark",
-                  "coords": [
-                        18.373112,
-                        -34.179446
-                  ]
-            },
-            {
-                  "name": "Platberg",
-                  "text": "Platberg este un vârf pitoresc situat în zona Misty Cliffs.",
-                  "category": "landmark",
-                  "coords": [
-                        18.371439,
-                        -34.189136
-                  ]
-            },
-            {
-                  "name": "Scarborough Beach",
-                  "text": "Scarborough Beach este o plajă uimitoare aflată în Misty Cliffs.",
-                  "category": "recreational",
-                  "coords": [
-                        18.372185,
-                        -34.201743
-                  ]
-            },
-            {
                   "name": "Witsands",
                   "text": "Witsands este o plajă pitorească situată în Misty Cliffs.",
                   "category": "recreational",
@@ -9233,51 +7181,6 @@ export const afNewV1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Platkop",
-                  "text": "Platkop is a notable mountain peak located in Misty Cliffs.",
-                  "category": "landmark",
-                  "coords": [
-                        18.358196,
-                        -34.173096
-                  ]
-            },
-            {
-                  "name": "Vlooiberg",
-                  "text": "Vlooiberg is a prominent peak situated in Misty Cliffs.",
-                  "category": "landmark",
-                  "coords": [
-                        18.368575,
-                        -34.175281
-                  ]
-            },
-            {
-                  "name": "Varingkop",
-                  "text": "Varingkop is a well-known mountain peak in Misty Cliffs.",
-                  "category": "landmark",
-                  "coords": [
-                        18.373112,
-                        -34.179446
-                  ]
-            },
-            {
-                  "name": "Platberg",
-                  "text": "Platberg is a scenic peak located within the area of Misty Cliffs.",
-                  "category": "landmark",
-                  "coords": [
-                        18.371439,
-                        -34.189136
-                  ]
-            },
-            {
-                  "name": "Scarborough Beach",
-                  "text": "Scarborough Beach is a stunning beach found in Misty Cliffs.",
-                  "category": "recreational",
-                  "coords": [
-                        18.372185,
-                        -34.201743
-                  ]
-            },
             {
                   "name": "Witsands",
                   "text": "Witsands is a picturesque beach located in Misty Cliffs.",
@@ -9583,39 +7486,12 @@ export const afNewV1: POI[] = [
 {"id": "tunisia-sahline-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Chateau de Meriem",
-                  "text": "Chateau de Meriem ist ein schlossartiges Anwesen in Sahline, das durch seine Architektur besticht.",
-                  "category": "castle",
-                  "coords": [
-                        10.713256,
-                        35.753233
-                  ]
-            },
-            {
                   "name": "مفترق البجعات بالساحلين",
                   "text": "Der Schwanen-Kreisverkehr in Sahline ist ein markantes Denkmal, das das Stadtbild prägt.",
                   "category": "historical",
                   "coords": [
                         10.711679,
                         35.751275
-                  ]
-            },
-            {
-                  "name": "Plage de Nerolia Hotel & Spa",
-                  "text": "Dieser Strand in Sahline gehört zum Nerolia Hotel & Spa und bietet Gästen einen gepflegten Küstenabschnitt.",
-                  "category": "recreational",
-                  "coords": [
-                        10.723164,
-                        35.768739
-                  ]
-            },
-            {
-                  "name": "Plage d'hôtel Neptunia Beach",
-                  "text": "Dieser private Strandabschnitt in Sahline ist Teil des Hotels Neptunia Beach und lädt zum Sonnenbaden ein.",
-                  "category": "recreational",
-                  "coords": [
-                        10.721754,
-                        35.769543
                   ]
             },
             {
@@ -9630,39 +7506,12 @@ export const afNewV1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Chateau de Meriem",
-                  "text": "A Chateau de Meriem egy kastélyszerű birtok Sahline-ban, amely építészetével nyűgözi le a látogatókat.",
-                  "category": "castle",
-                  "coords": [
-                        10.713256,
-                        35.753233
-                  ]
-            },
-            {
                   "name": "مفترق البجعات بالساحلين",
                   "text": "A sahline-i Hattyúk körforgalma egy feltűnő emlékmű, amely meghatározza a városképet.",
                   "category": "historical",
                   "coords": [
                         10.711679,
                         35.751275
-                  ]
-            },
-            {
-                  "name": "Plage de Nerolia Hotel & Spa",
-                  "text": "Ez a sahline-i strand a Nerolia Hotel & Spa-hoz tartozik, és gondozott partszakaszt kínál a vendégeknek.",
-                  "category": "recreational",
-                  "coords": [
-                        10.723164,
-                        35.768739
-                  ]
-            },
-            {
-                  "name": "Plage d'hôtel Neptunia Beach",
-                  "text": "Ez a sahline-i privát partszakasz a Neptunia Beach szálloda része, és napozásra csábít.",
-                  "category": "recreational",
-                  "coords": [
-                        10.721754,
-                        35.769543
                   ]
             },
             {
@@ -9677,39 +7526,12 @@ export const afNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Chateau de Meriem",
-                  "text": "Chateau de Meriem este o proprietate ca un castel în Sahline, care impresionează prin arhitectura sa.",
-                  "category": "castle",
-                  "coords": [
-                        10.713256,
-                        35.753233
-                  ]
-            },
-            {
                   "name": "مفترق البجعات بالساحلين",
                   "text": "Intersecția Lebedelor din Sahline este un monument proeminent care marchează peisajul urban.",
                   "category": "historical",
                   "coords": [
                         10.711679,
                         35.751275
-                  ]
-            },
-            {
-                  "name": "Plage de Nerolia Hotel & Spa",
-                  "text": "Această plajă din Sahline aparține de Nerolia Hotel & Spa, oferind oaspeților o porțiune de coastă bine întreținută.",
-                  "category": "recreational",
-                  "coords": [
-                        10.723164,
-                        35.768739
-                  ]
-            },
-            {
-                  "name": "Plage d'hôtel Neptunia Beach",
-                  "text": "Această porțiune privată de plajă din Sahline face parte din hotelul Neptunia Beach și vă invită la plajă.",
-                  "category": "recreational",
-                  "coords": [
-                        10.721754,
-                        35.769543
                   ]
             },
             {
@@ -9724,48 +7546,12 @@ export const afNewV1: POI[] = [
       ],
       "en": [
             {
-                  "name": "Chateau de Meriem",
-                  "text": "Chateau de Meriem is a castle-like estate in Sahline that impresses with its architecture.",
-                  "category": "castle",
-                  "coords": [
-                        10.713256,
-                        35.753233
-                  ]
-            },
-            {
                   "name": "مفترق البجعات بالساحلين",
                   "text": "The Swans Intersection in Sahline is a prominent monument that characterizes the cityscape.",
                   "category": "historical",
                   "coords": [
                         10.711679,
                         35.751275
-                  ]
-            },
-            {
-                  "name": "Plage de Nerolia Hotel & Spa",
-                  "text": "This beach in Sahline belongs to the Nerolia Hotel & Spa, offering guests a well-maintained stretch of coast.",
-                  "category": "recreational",
-                  "coords": [
-                        10.723164,
-                        35.768739
-                  ]
-            },
-            {
-                  "name": "Plage d'hôtel Neptunia Beach",
-                  "text": "This private beach section in Sahline is part of the Neptunia Beach hotel and invites you to sunbathe.",
-                  "category": "recreational",
-                  "coords": [
-                        10.721754,
-                        35.769543
-                  ]
-            },
-            {
-                  "name": "Sidi Amer Youth House",
-                  "text": "Sidi Amer Youth House is a local arts centre in Sahline.",
-                  "category": "cultural",
-                  "coords": [
-                        10.702945,
-                        35.741688
                   ]
             }
       ]
@@ -9999,33 +7785,6 @@ export const afNewV1: POI[] = [
 {"id": "algeria-staoueli-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Plage les Dunes",
-                  "text": "Les Dunes Beach ist ein Strand in der Ortschaft Staoueli.",
-                  "category": "recreational",
-                  "coords": [
-                        2.892452,
-                        36.780006
-                  ]
-            },
-            {
-                  "name": "Plage Club des Pins",
-                  "text": "Plage Club des Pins ist ein Strand in Staoueli.",
-                  "category": "recreational",
-                  "coords": [
-                        2.881194,
-                        36.770605
-                  ]
-            },
-            {
-                  "name": "Fontaine des Anges",
-                  "text": "Fontaine des Anges ist ein Wasserpark in Staoueli.",
-                  "category": "recreational",
-                  "coords": [
-                        2.88289,
-                        36.764321
-                  ]
-            },
-            {
                   "name": "Plage d'hôtel Sheraton",
                   "text": "Plage d'hôtel Sheraton ist ein luxuriöses Strandresort in Staoueli.",
                   "category": "recreational",
@@ -10045,33 +7804,6 @@ export const afNewV1: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Plage les Dunes",
-                  "text": "A Les Dunes Beach egy strand Staoueli területén.",
-                  "category": "recreational",
-                  "coords": [
-                        2.892452,
-                        36.780006
-                  ]
-            },
-            {
-                  "name": "Plage Club des Pins",
-                  "text": "A Plage Club des Pins egy tengerpart Staoueli városában.",
-                  "category": "recreational",
-                  "coords": [
-                        2.881194,
-                        36.770605
-                  ]
-            },
-            {
-                  "name": "Fontaine des Anges",
-                  "text": "A Fontaine des Anges egy vízi park Staoueli területén.",
-                  "category": "recreational",
-                  "coords": [
-                        2.88289,
-                        36.764321
-                  ]
-            },
             {
                   "name": "Plage d'hôtel Sheraton",
                   "text": "A Plage d'hôtel Sheraton egy tengerparti üdülőhely Staoueli városában.",
@@ -10093,33 +7825,6 @@ export const afNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Plage les Dunes",
-                  "text": "Les Dunes Beach este o plajă din regiunea Staoueli.",
-                  "category": "recreational",
-                  "coords": [
-                        2.892452,
-                        36.780006
-                  ]
-            },
-            {
-                  "name": "Plage Club des Pins",
-                  "text": "Plage Club des Pins este o plajă situată în Staoueli.",
-                  "category": "recreational",
-                  "coords": [
-                        2.881194,
-                        36.770605
-                  ]
-            },
-            {
-                  "name": "Fontaine des Anges",
-                  "text": "Fontaine des Anges este un parc acvatic aflat în Staoueli.",
-                  "category": "recreational",
-                  "coords": [
-                        2.88289,
-                        36.764321
-                  ]
-            },
-            {
                   "name": "Plage d'hôtel Sheraton",
                   "text": "Plage d'hôtel Sheraton este o stațiune de plajă în Staoueli.",
                   "category": "recreational",
@@ -10139,33 +7844,6 @@ export const afNewV1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Les Dunes Beach",
-                  "text": "Les Dunes Beach is a beautiful beach located in Staoueli.",
-                  "category": "recreational",
-                  "coords": [
-                        2.892452,
-                        36.780006
-                  ]
-            },
-            {
-                  "name": "Plage Club des Pins",
-                  "text": "Plage Club des Pins is a beach situated in Staoueli.",
-                  "category": "recreational",
-                  "coords": [
-                        2.881194,
-                        36.770605
-                  ]
-            },
-            {
-                  "name": "Fontaine des Anges",
-                  "text": "Fontaine des Anges is a water park located in Staoueli.",
-                  "category": "recreational",
-                  "coords": [
-                        2.88289,
-                        36.764321
-                  ]
-            },
             {
                   "name": "Plage d'hôtel Sheraton",
                   "text": "Plage d'hôtel Sheraton is a beach resort offering coastal views in Staoueli.",
@@ -10444,86 +8122,10 @@ export const afNewV1: POI[] = [
       ]
 }, "type": "city", "parent": "MA-16", "coords": [-15.89941, 23.55915], "tier": 2, "name": {"de": "El Argoub", "hu": "El Argoub", "ro": "El Argoub", "en": "El Argoub"}, "description": {"de": "El Argoub ist eine atemberaubende Küstenstadt an der Bucht von Dakhla. Hier trifft die weite Sahara-Wüste wunderschön auf den Atlantischen Ozean.", "hu": "El Argoub egy lenyűgöző tengerparti város a Dakhla-öbölben. Itt a hatalmas Szahara sivatag csodálatosan találkozik az Atlanti-óceánnal.", "ro": "El Argoub este un oraș de coastă uluitor situat în golful Dakhla. Aici, vastul deșert Sahara se întâlnește cu Oceanul Atlantic.", "en": "El Argoub is a breathtaking Moroccan coastal town situated on the bay of Dakhla. Here, the vast Sahara Desert beautifully meets the Atlantic Ocean."}, "descriptionAdvanced": {"de": "Direkt gegenüber der Bucht der geschäftigen Stadt Dakhla gelegen, stellt El Argoub eine spektakuläre natürliche Grenze dar, an der die goldenen Dünen der Sahara auf das kühle Wasser des Atlantiks treffen. Diese einzigartige geografische Lage schafft ein herrliches Mikroklima und ein Paradies für Wassersportler, insbesondere Kitesurfer, die wegen der konstanten Winde hierher strömen.\n\nDie Küstenlandschaft ist durch weiten weißen Sand und klares blaues Wasser geprägt. Strandbesucher können am wunderschönen Beach of Pikín entspannen oder den berühmten Playa de los Patos erkunden. Der atemberaubende Strand Porto Rico ist ebenfalls ein absolutes Highlight und bietet eine unberührte Küstenlinie. Diese Strände eignen sich perfekt für aufregenden Wassersport und ruhige Entspannung.\n\nAbseits der Strände können Besucher außergewöhnliche lokale Meeresfrüchte genießen, darunter frische Austern direkt aus der Bucht, gepaart mit traditionellem saharauischem Tee. Die Geschichte der Gegend ist mit nomadischen Traditionen verflochten. El Argoub ist von Dakhla aus leicht über die Straße oder mit dem Boot erreichbar und bietet ein unvergessliches Erlebnis.", "hu": "A nyüzsgő Dakhla városával szemben, az öböl túloldalán fekvő El Argoub egy látványos természeti határvidék, ahol a Szahara aranyló dűnéi találkoznak az Atlanti-óceán hűvös vizeivel. Ez az egyedülálló földrajzi fekvés különleges mikroklímát és a vízisportok szerelmeseinek – különösen a kiteszörfösöknek – paradicsomát hozza létre.\n\nA part menti tájat hatalmas fehér homokos szakaszok és tiszta kék vizek határozzák meg. A strandolók pihenhetnek a gyönyörű Beach of Pikín homokján, vagy felfedezhetik a híres Playa de los Patos-t. A lenyűgöző Porto Rico strand szintén a környék egyik fénypontja, hatalmas, érintetlen partvonallal. Ezek a strandok tökéletesek mind az izgalmas vízisportokhoz, mind a csendes kikapcsolódáshoz.\n\nA strandokon túl a látogatók kivételes helyi tengeri gyümölcsöket kóstolhatnak meg, beleértve az öbölből származó friss osztrigát, amelyet hagyományos szaharai teával párosítanak. A terület történelme összefonódik a nomád hagyományokkal és a spanyol gyarmati hatásokkal. El Argoub, amely Dakhlából közúton vagy hajóval is könnyen megközelíthető, felejthetetlen sivatagi tengerparti élményt nyújt.", "ro": "Situat chiar peste golf de orașul plin de viață Dakhla, El Argoub reprezintă o frontieră naturală spectaculoasă, unde dunele aurii ale deșertului Sahara întâlnesc apele reci ale Atlanticului. Acest cadru geografic unic creează un microclimat spectaculos și un paradis pentru pasionații de sporturi acvatice, în special pentru kitesurferi.\n\nPeisajul de coastă este definit de nisipuri albe întinse și ape albastre și limpezi. Vizitatorii se pot relaxa pe frumosul Beach of Pikín sau pot explora faimoasa Playa de los Patos. Plaja uimitoare Porto Rico este, de asemenea, o atracție majoră, oferind o coastă vastă și neatinsă. Aceste plaje sunt perfecte atât pentru sporturi acvatice palpitante, cât și pentru relaxare liniștită.\n\nDincolo de plaje, vizitatorii pot savura fructe de mare locale excepționale, inclusiv stridii proaspete direct din golf, alături de ceai tradițional sahrawi. Istoria zonei se împletește cu tradițiile nomade și influențele coloniale spaniole. Ușor accesibil din Dakhla prin drum sau cu barca, El Argoub oferă o experiență de neuitat la marginea deșertului.", "en": "Situated directly across the bay from the bustling city of Dakhla, El Argoub represents a spectacular natural frontier where the golden dunes of the Sahara Desert meet the cool waters of the Atlantic. This unique geographic setting creates a spectacular microclimate and a paradise for water sports enthusiasts, particularly kitesurfers who flock here for the consistent winds.\n\nThe coastal scenery is defined by expansive white sands and clear blue waters. Beachgoers can relax at the beautiful Beach of Pikín or explore the renowned Playa de los Patos. The stunning Porto Rico beach is also a major highlight, offering a vast, pristine shoreline that feels completely untouched. These beaches are perfect for both thrilling water sports and tranquil relaxation.\n\nBeyond the beaches, visitors can savor exceptional local seafood, including fresh oysters straight from the bay, paired with traditional Sahrawi tea. The area's history is intertwined with nomadic traditions and Spanish colonial influences. Easily accessible from Dakhla via road or boat, El Argoub provides an unforgettable experience at the edge of the desert."}, "facts": {"de": ["Befindet sich an der Bucht von Dakhla", "Wüste trifft auf Ozean", "Weltklasse Kitesurf-Spot", "Atlantischer Ozean", "Weiße Sanddünen", "Frische Austern und Meeresfrüchte", "Saharauische Kultur", "Ganzjährig mildes Klima"], "hu": ["A Dakhla-öbölben található", "A sivatag találkozik az óceánnal", "Világszínvonalú kiteszörf helyszín", "Atlanti-óceán partja", "Fehér homokdűnék", "Friss osztriga és tenger gyümölcsei", "Szaharai kultúra", "Egész évben enyhe éghajlat"], "ro": ["Situat în Golful Dakhla", "Deșertul întâlnește oceanul", "Loc de kitesurfing de clasă mondială", "Oceanul Atlantic", "Dune de nisip alb", "Stridii proaspete și fructe de mare", "Cultura Sahrawi", "Climă blândă pe tot parcursul anului"], "en": ["Located on Dakhla Bay", "Desert meets the ocean", "World-class kitesurfing spot", "Atlantic Ocean coast", "White sand dunes", "Fresh oysters and seafood", "Sahrawi culture", "Mild year-round climate"]}, "image": "/poi-images/morocco-el-argoub-cities-v2.webp"},
 {"id": "cape-verde-morrinho-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Beach",
-                  "text": "Dieser lokale Strand ist eine entspannende Naturattraktion in Morrinho.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.215626,
-                        15.242225
-                  ]
-            },
-            {
-                  "name": "Praia de Santana",
-                  "text": "Praia de Santana ist ein Sandstrand in Morrinho.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.220243,
-                        15.278935
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Beach",
-                  "text": "Ez a helyi strand egy pihentető természeti látványosság Morrinho városában.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.215626,
-                        15.242225
-                  ]
-            },
-            {
-                  "name": "Praia de Santana",
-                  "text": "A Praia de Santana egy homokos strand Morrinho területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.220243,
-                        15.278935
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Beach",
-                  "text": "Această plajă locală este o atracție naturală relaxantă în Morrinho.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.215626,
-                        15.242225
-                  ]
-            },
-            {
-                  "name": "Praia de Santana",
-                  "text": "Praia de Santana este o plajă cu nisip situată în Morrinho.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.220243,
-                        15.278935
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Beach",
-                  "text": "This local beach is a relaxing natural attraction in Morrinho.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.215626,
-                        15.242225
-                  ]
-            },
-            {
-                  "name": "Praia de Santana",
-                  "text": "Praia de Santana is a sandy beach located in Morrinho.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.220243,
-                        15.278935
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "CV-MA", "coords": [-23.20439, 15.26559], "tier": 2, "name": {"de": "Morrinho", "hu": "Morrinho", "ro": "Morrinho", "en": "Morrinho"}, "description": {"de": "Morrinho ist ein friedliches Dorf auf der kapverdischen Insel Maio. Es bietet ein authentisches Inselerlebnis mit unberührten Küstenlinien.", "hu": "Morrinho egy békés falu a Zöld-foki Köztársaság Maio szigetén. Autentikus szigeti élményt kínál érintetlen, félreeső tengerpartokkal.", "ro": "Morrinho este un sat pașnic de pe insula capverdiană Maio. Oferă o experiență insulară autentică, cu coaste izolate și imaculate.", "en": "Morrinho is a peaceful village on the Cape Verdean island of Maio. It offers an authentic island experience with pristine, secluded coastlines."}, "descriptionAdvanced": {"de": "Morrinho liegt auf der bezaubernden und ruhigen Insel Maio auf den Kapverden und ist ein traditionelles Dorf, das die berühmte kapverdische Gastfreundschaft 'Morabeza' verkörpert. Weit entfernt vom Massentourismus ist diese ruhige Siedlung von einer trockenen Landschaft umgeben, die dramatisch mit dem tiefen Blau des Atlantischen Ozeans kontrastiert.\n\nDas Dorf ist für seine unglaublichen Küstenabschnitte bekannt, allen voran der atemberaubende Praia de Santana. Dieser wunderschöne, weitläufige Strand bietet weichen weißen Sand und kristallklares Wasser, was ihn zu einem idyllischen Ort zum Schwimmen und Sonnenbaden macht. Die Umgebung von Praia de Santana ist auch ein wichtiger ökologischer Ort, der in den Sommermonaten als Nistplatz für Unechte Karettschildkröten dient.\n\nDie lokale kulinarische Szene ist einfach, aber köstlich und konzentriert sich auf frischen handwerklichen Tagesfang, begleitet von traditionellen Gerichten wie Catchupa. Wenn Besucher durch das Dorf schlendern, sehen sie bunte Häuser und freundliche Einheimische. Morrinho ist über eine kurze Fahrt vom Haupthafen der Insel erreichbar und das ultimative Ziel für einen ruhigen Rückzugsort am Atlantik.", "hu": "A Zöld-foki Köztársaság bájos és nyugodt Maio szigetén található Morrinho egy hagyományos falu, amely a híres „Morabeza” vagyis a zöld-foki vendégszeretet megtestesítője. A tömegturizmustól távol eső, csendes települést száraz, holdszerű táj veszi körül, amely drámai kontrasztot alkot az Atlanti-óceán mélykékjével.\n\nA falu hihetetlen tengerparti szakaszairól híres, leginkább a lenyűgöző Praia de Santana partjáról. Ez a gyönyörű, kiterjedt strand puha fehér homokot és kristálytiszta vizet kínál, így idilli hely úszáshoz, napozáshoz és hosszú, békés sétákhoz. A Praia de Santana területe egyben fontos ökológiai helyszín is, amely a nyári hónapokban az álcserepesteknősök kritikus fészkelőhelyeként szolgál.\n\nA helyi kulináris színtér egyszerű, de ízletes, a friss kézműves fogásokra összpontosít, amelyeket olyan hagyományos ételek kísérnek, mint a catchupa. A faluban sétálva a látogatók színes házakat és barátságos helyieket láthatnak. A sziget fő kikötőjéből egy rövid autóúttal megközelíthető Morrinho a tökéletes úti cél azok számára, akik egy nyugodt, érintetlen atlanti menedékre vágynak.", "ro": "Situat pe insula fermecătoare și liniștită Maio din Capul Verde, Morrinho este un sat tradițional care întruchipează faimoasa ospitalitate capverdiană „Morabeza”. Departe de turismul de masă, această așezare liniștită este înconjurată de un peisaj arid, care contrastează dramatic cu albastrul profund al Oceanului Atlantic.\n\nSatul este renumit pentru porțiunile sale incredibile de coastă, în special uimitoarea Praia de Santana. Această plajă frumoasă și întinsă oferă nisipuri albe și moi și ape cristaline, făcând-o un loc idilic pentru înot, băi de soare și plimbări lungi și liniștite. Zona Praia de Santana este, de asemenea, un sit ecologic important, servind drept loc de cuibărit pentru broaștele țestoase marine în timpul lunilor de vară.\n\nScena culinară locală este simplă, dar delicioasă, concentrându-se pe capturile proaspete artizanale ale zilei, însoțite de mâncăruri tradiționale precum catchupa. Plimbându-se prin sat, vizitatorii vor vedea case colorate și localnici prietenoși. Accesibil printr-un scurt drum cu mașina de la portul principal al insulei, Morrinho este o destinație serenă.", "en": "Located on the charming and tranquil island of Maio in Cape Verde, Morrinho is a traditional village that embodies the famous 'Morabeza' or Cape Verdean hospitality. Far from mass tourism, this quiet settlement is surrounded by an arid, lunar-like landscape that dramatically contrasts with the deep blue of the Atlantic Ocean.\n\nThe village is renowned for its incredible coastal stretches, most notably the stunning Praia de Santana. This beautiful, expansive beach offers soft white sands and crystal-clear waters, making it an idyllic spot for swimming, sunbathing, and long, peaceful walks. The Praia de Santana area is also an important ecological site, serving as a critical nesting ground for loggerhead sea turtles during the summer months.\n\nThe local culinary scene is simple but delicious, focusing on fresh artisanal catches of the day, accompanied by traditional dishes like catchupa. Strolling through the village, visitors will see colorful houses and friendly locals. Accessible via a short drive from the island's main port, Morrinho is the ultimate destination for those seeking a serene, untouched Atlantic retreat."}, "facts": {"de": ["Liegt auf der Insel Maio", "Teil der Kapverden", "Atlantischer Ozean", "Nistplatz für Meeresschildkröten", "Trockenes, wüstenartiges Klima", "Praia de Santana Strand", "Traditionelle Catchupa-Gerichte", "Ruhig und abgeschieden"], "hu": ["Maio szigetén található", "A Zöld-foki Köztársaság része", "Atlanti-óceán", "Tengeri teknősök fészkelőhelye", "Száraz, sivatagszerű éghajlat", "Praia de Santana strand", "Hagyományos Catchupa ételek", "Csendes és elszigetelt"], "ro": ["Situat pe Insula Maio", "Parte din Capul Verde", "Oceanul Atlantic", "Loc de cuibărit pentru țestoase", "Climă aridă, deșertică", "Plaja Praia de Santana", "Mâncăruri tradiționale Catchupa", "Liniștit și izolat"], "en": ["Located on Maio Island", "Part of Cape Verde", "Atlantic Ocean", "Sea turtle nesting site", "Arid, desert-like climate", "Praia de Santana beach", "Traditional Catchupa dishes", "Quiet and secluded"]}, "image": "/poi-images/cape-verde-morrinho-cities-v2.webp"},
 {"id": "tanzania-chwaka-cities-v2", "sights": {
       "de": [
@@ -10868,15 +8470,6 @@ export const afNewV1: POI[] = [
 {"id": "tunisia-mezraya-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Mosquée Fadhloun",
-                  "text": "Die Mosquée Fadhloun ist eine bedeutende religiöse Attraktion in Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.959466,
-                        33.824719
-                  ]
-            },
-            {
                   "name": "جامع السلاوتي",
                   "text": "Die Mosque Eselaouti ist eine lokale Attraktion und Kultstätte in Mezraya.",
                   "category": "landmark",
@@ -10895,48 +8488,12 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Plage El Hachen (Ras Rmel)",
-                  "text": "Plage El Hachen (Ras Rmel) ist ein malerischer Strand in Mezraya.",
-                  "category": "recreational",
-                  "coords": [
-                        10.956062,
-                        33.87518
-                  ]
-            },
-            {
                   "name": "جامع مدراجن",
                   "text": "Die Mosquée Medrajen ist eine historische architektonische Attraktion in Mezraya.",
                   "category": "landmark",
                   "coords": [
                         10.954385,
                         33.850991
-                  ]
-            },
-            {
-                  "name": "Mosquée Haja Loulou",
-                  "text": "Die Mosquée Haja Loulou ist eine lokale Sehenswürdigkeit in Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.953428,
-                        33.843641
-                  ]
-            },
-            {
-                  "name": "Mosquée Ben Daoued",
-                  "text": "Die Mosquée Ben Daoued ist eine kulturell bedeutsame Attraktion in Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.937402,
-                        33.844018
-                  ]
-            },
-            {
-                  "name": "Mrabet Belgassem Mosquée",
-                  "text": "Die Mrabet Belgassem Mosquée ist ein Ausflugsziel und eine Attraktion in Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.933245,
-                        33.843725
                   ]
             },
             {
@@ -10965,27 +8522,9 @@ export const afNewV1: POI[] = [
                         10.971303,
                         33.865869
                   ]
-            },
-            {
-                  "name": "Mosquée Khouch",
-                  "text": "Die Mosquée Khouch ist eine bekannte spirituelle Attraktion in Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.94518,
-                        33.845907
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Mosquée Fadhloun",
-                  "text": "A Mosquée Fadhloun egy kiemelkedő vallási látványosság Mezraya városában.",
-                  "category": "landmark",
-                  "coords": [
-                        10.959466,
-                        33.824719
-                  ]
-            },
             {
                   "name": "جامع السلاوتي",
                   "text": "A Mosque Eselaouti egy helyi látványosság és istentiszteleti hely Mezraya területén.",
@@ -11005,48 +8544,12 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Plage El Hachen (Ras Rmel)",
-                  "text": "A Plage El Hachen (Ras Rmel) egy festői tengerpart Mezraya területén.",
-                  "category": "recreational",
-                  "coords": [
-                        10.956062,
-                        33.87518
-                  ]
-            },
-            {
                   "name": "جامع مدراجن",
                   "text": "A Mosquée Medrajen egy történelmi építészeti látványosság Mezraya városában.",
                   "category": "landmark",
                   "coords": [
                         10.954385,
                         33.850991
-                  ]
-            },
-            {
-                  "name": "Mosquée Haja Loulou",
-                  "text": "A Mosquée Haja Loulou egy helyi nevezetesség Mezraya területén.",
-                  "category": "landmark",
-                  "coords": [
-                        10.953428,
-                        33.843641
-                  ]
-            },
-            {
-                  "name": "Mosquée Ben Daoued",
-                  "text": "A Mosquée Ben Daoued egy kulturálisan jelentős látványosság Mezraya városában.",
-                  "category": "landmark",
-                  "coords": [
-                        10.937402,
-                        33.844018
-                  ]
-            },
-            {
-                  "name": "Mrabet Belgassem Mosquée",
-                  "text": "A Mrabet Belgassem Mosquée egy látogatható hely és látványosság Mezraya területén.",
-                  "category": "landmark",
-                  "coords": [
-                        10.933245,
-                        33.843725
                   ]
             },
             {
@@ -11075,27 +8578,9 @@ export const afNewV1: POI[] = [
                         10.971303,
                         33.865869
                   ]
-            },
-            {
-                  "name": "Mosquée Khouch",
-                  "text": "A Mosquée Khouch egy ismert spirituális látványosság Mezraya városában.",
-                  "category": "landmark",
-                  "coords": [
-                        10.94518,
-                        33.845907
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Mosquée Fadhloun",
-                  "text": "Mosquée Fadhloun este o importantă atracție religioasă în Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.959466,
-                        33.824719
-                  ]
-            },
             {
                   "name": "جامع السلاوتي",
                   "text": "Mosque Eselaouti este o atracție locală și un lăcaș de cult în Mezraya.",
@@ -11115,48 +8600,12 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Plage El Hachen (Ras Rmel)",
-                  "text": "Plaja El Hachen (Ras Rmel) este o destinație de plajă pitorească în Mezraya.",
-                  "category": "recreational",
-                  "coords": [
-                        10.956062,
-                        33.87518
-                  ]
-            },
-            {
                   "name": "جامع مدراجن",
                   "text": "Mosquée Medrajen este o atracție arhitecturală istorică în Mezraya.",
                   "category": "landmark",
                   "coords": [
                         10.954385,
                         33.850991
-                  ]
-            },
-            {
-                  "name": "Mosquée Haja Loulou",
-                  "text": "Mosquée Haja Loulou este un punct de interes local în Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.953428,
-                        33.843641
-                  ]
-            },
-            {
-                  "name": "Mosquée Ben Daoued",
-                  "text": "Mosquée Ben Daoued este o atracție cu semnificație culturală în Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.937402,
-                        33.844018
-                  ]
-            },
-            {
-                  "name": "Mrabet Belgassem Mosquée",
-                  "text": "Mrabet Belgassem Mosquée este un loc de vizitat și o atracție în Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.933245,
-                        33.843725
                   ]
             },
             {
@@ -11185,27 +8634,9 @@ export const afNewV1: POI[] = [
                         10.971303,
                         33.865869
                   ]
-            },
-            {
-                  "name": "Mosquée Khouch",
-                  "text": "Mosquée Khouch este o atracție spirituală cunoscută în Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.94518,
-                        33.845907
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Mosquée Fadhloun",
-                  "text": "Mosquée Fadhloun is a prominent religious attraction in Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.959466,
-                        33.824719
-                  ]
-            },
             {
                   "name": "Mosque Eselaouti",
                   "text": "Mosque Eselaouti is a local attraction and place of worship in Mezraya.",
@@ -11225,69 +8656,6 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Plage El Hachen (Ras Rmel)",
-                  "text": "Plage El Hachen (Ras Rmel) is a scenic beach destination in Mezraya.",
-                  "category": "recreational",
-                  "coords": [
-                        10.956062,
-                        33.87518
-                  ]
-            },
-            {
-                  "name": "Mosquée Medrajen",
-                  "text": "Mosquée Medrajen is a historic architectural attraction in Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.954385,
-                        33.850991
-                  ]
-            },
-            {
-                  "name": "Mosquée Haja Loulou",
-                  "text": "Mosquée Haja Loulou is a local point of interest in Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.953428,
-                        33.843641
-                  ]
-            },
-            {
-                  "name": "Mosquée Ben Daoued",
-                  "text": "Mosquée Ben Daoued is a culturally significant attraction in Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.937402,
-                        33.844018
-                  ]
-            },
-            {
-                  "name": "Mrabet Belgassem Mosquée",
-                  "text": "Mrabet Belgassem Mosquée is a visiting spot and attraction in Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.933245,
-                        33.843725
-                  ]
-            },
-            {
-                  "name": "Jamaa Tlakine mosquée",
-                  "text": "Jamaa Tlakine mosquée is an interesting religious attraction in Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.932348,
-                        33.85832
-                  ]
-            },
-            {
-                  "name": "Jamaa Ben Maazouzin",
-                  "text": "Jamaa Ben Maazouzin is an appealing local attraction in Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.958371,
-                        33.840882
-                  ]
-            },
-            {
                   "name": "Sidi Mahrez",
                   "text": "Sidi Mahrez is an inviting beach area in Mezraya.",
                   "category": "recreational",
@@ -11295,29 +8663,11 @@ export const afNewV1: POI[] = [
                         10.971303,
                         33.865869
                   ]
-            },
-            {
-                  "name": "Mosquée Khouch",
-                  "text": "Mosquée Khouch is a known spiritual attraction in Mezraya.",
-                  "category": "landmark",
-                  "coords": [
-                        10.94518,
-                        33.845907
-                  ]
             }
       ]
 }, "type": "city", "parent": "TN-82", "tier": 2, "coords": [10.95452, 33.85133], "name": {"en": "Mezraya", "de": "Mezraya", "hu": "Mezraya", "ro": "Mezraya"}, "description": {"de": "Beliebter Küstenort auf der Insel Djerba in Tunesien mit feinem Sand und klarem türkisfarbenem Wasser.", "hu": "Népszerű tengerparti üdülőhely a tunéziai Dzserba szigetén, finom homokkal és tiszta, türkizkék vízzel.", "ro": "Stațiune de coastă populară pe insula Djerba din Tunisia, cu nisip fin și ape turcoaz limpezi.", "en": "Popular coastal resort on the island of Djerba in Tunisia with fine sand and clear turquoise waters."}, "descriptionAdvanced": {"de": "Mezraya liegt an der idyllischen Nordostküste der Insel Djerba in Tunesien und ist eines der beliebtesten Touristenziele des Landes. Die Kombination aus mediterranem Klima, traditioneller Architektur und makellosen Stränden zieht Besucher aus der ganzen Welt an. Der Ort bietet eine lebendige Atmosphäre mit vielen Einrichtungen für Urlauber.\n\nDer bekannteste Strand in Mezraya ist Sidi Mahrez, der oft als einer der schönsten Strände Djerbas bezeichnet wird. Hier fällt der feine Sand flach ins glasklare Meer ab. Etwas ruhiger, aber ebenso malerisch, ist die Plage El Hachen (Ras Rmel), die auch als \"Flamingo-Insel\" bekannt ist und spektakuläre Ausblicke sowie entspanntes Schwimmen ermöglicht.\n\nDie Region ist reich an gastronomischen Angeboten. Zahlreiche Restaurants servieren frischen Couscous mit Fisch und andere tunesische Spezialitäten. Wassersportmöglichkeiten wie Kitesurfen und Jetski sind überall an der Küste verfügbar. Mezraya ist leicht über die Hauptstraßen der Insel erreichbar und bietet den idealen Mix aus orientalischem Charme und modernem Strandurlaub.", "hu": "Mezraya a tunéziai Dzserba szigetének idilli északkeleti partján található, és az ország egyik legnépszerűbb turisztikai célpontja. A mediterrán éghajlat, a hagyományos építészet és a makulátlan strandok kombinációja a világ minden tájáról vonzza a látogatókat. A település nyüzsgő légkört és kiváló turisztikai infrastruktúrát kínál.\n\nMezraya leghíresebb strandja a Sidi Mahrez, amelyet gyakran Dzserba egyik legszebb partszakaszaként tartanak számon. Itt a finom homok lassan lejt a kristálytiszta tengerbe. Valamivel csendesebb, de ugyanolyan festői a Plage El Hachen (Ras Rmel), amely a „Flamingó-szigetként” is ismert, és látványos kilátást, valamint nyugodt úszási lehetőségeket kínál.\n\nA régió rendkívül gazdag gasztronómiai kínálatban. Számos étterem kínál friss halas kuszkuszt és más tunéziai specialitásokat. A vízi sportok, mint például a kitesurfing és a jet-ski, a part mentén mindenhol elérhetőek. Mezraya könnyen megközelíthető a sziget főútjain, és a keleti báj, valamint a modern tengerparti nyaralás ideális keverékét nyújtja.", "ro": "Mezraya este situată pe idilica coastă de nord-est a insulei Djerba din Tunisia și este una dintre cele mai populare destinații turistice ale țării. Combinația de climă mediteraneană, arhitectură tradițională și plaje imaculate atrage vizitatori din întreaga lume. Așezarea oferă o atmosferă plină de viață și infrastructură turistică excelentă.\n\nCea mai faimoasă plajă din Mezraya este Sidi Mahrez, adesea considerată una dintre cele mai frumoase de pe Djerba. Aici nisipul fin coboară ușor în marea cristalină. Puțin mai liniștită, dar la fel de pitorească, este Plage El Hachen (Ras Rmel), cunoscută și sub numele de „Insula Flamingo”, care oferă vederi spectaculoase și înot relaxant.\n\nRegiunea este foarte bogată în oferte gastronomice. Numeroase restaurante servesc cușcuș proaspăt cu pește și alte specialități tunisiene. Sporturile acvatice, cum ar fi kitesurfingul și jet skiul, sunt disponibile peste tot de-a lungul coastei. Mezraya este ușor accesibilă prin drumurile principale ale insulei și oferă combinația perfectă de farmec oriental și vacanță modernă la plajă.", "en": "Mezraya is located on the idyllic northeast coast of the island of Djerba in Tunisia and is one of the country's most popular tourist destinations. The combination of a Mediterranean climate, traditional architecture, and pristine beaches attracts visitors from all over the world. The settlement offers a lively atmosphere and excellent tourist infrastructure.\n\nThe most famous beach in Mezraya is Sidi Mahrez, which is often considered one of the most beautiful on Djerba. Here, the fine sand gently slopes into the crystal-clear sea. Slightly quieter, but equally picturesque, is the Plage El Hachen (Ras Rmel), also known as \"Flamingo Island,\" which offers spectacular views and relaxing swimming.\n\nThe region is very rich in gastronomic offerings. Numerous restaurants serve fresh fish couscous and other Tunisian specialties. Water sports such as kitesurfing and jet skiing are available everywhere along the coast. Mezraya is easily accessible via the island's main roads and offers the perfect mix of oriental charm and a modern beach holiday."}, "facts": {"de": ["Liegt auf der Insel Djerba.", "Berühmt für den Strand Sidi Mahrez.", "Glasklares Mittelmeerwasser.", "Ideal für Wassersport.", "Reiche tunesische Gastronomie.", "Die \"Flamingo-Insel\" ist nah.", "Traditionelle Djerba-Architektur.", "Sehr beliebtes Touristenziel."], "hu": ["Dzserba szigetén található.", "A Sidi Mahrez strandról híres.", "Kristálytiszta mediterrán víz.", "Kiváló vízi sportokhoz.", "Gazdag tunéziai gasztronómia.", "A \"Flamingó-sziget\" a közelben.", "Hagyományos dzserbai építészet.", "Rendkívül népszerű turistaközpont."], "ro": ["Situat pe insula Djerba.", "Faimos pentru plaja Sidi Mahrez.", "Ape mediteraneene cristaline.", "Ideal pentru sporturi nautice.", "Gastronomie tunisiană bogată.", "„Insula Flamingo” este aproape.", "Arhitectură tradițională din Djerba.", "Hub turistic foarte popular."], "en": ["Located on Djerba island.", "Famous for Sidi Mahrez beach.", "Crystal-clear Mediterranean waters.", "Great for water sports.", "Rich Tunisian gastronomy.", "\"Flamingo Island\" nearby.", "Traditional Djerbian architecture.", "Extremely popular tourist hub."]}, "image": "/poi-images/tunisia-mezraya-cities-v2.webp"},
 {"id": "tunisia-ghardaia-cities-v2", "sights": {
       "de": [
-            {
-                  "name": "Souk el Guebli nécropole",
-                  "text": "Souk el Guebli nécropole ist eine archäologische Stätte in Ghardaia.",
-                  "category": "historical",
-                  "coords": [
-                        10.953637,
-                        33.727294
-                  ]
-            },
             {
                   "name": "Souk el Guebli (Kite Club Djerba)",
                   "text": "Souk el Guebli (Kite Club Djerba) ist ein Strand in Ghardaia.",
@@ -11335,54 +8685,9 @@ export const afNewV1: POI[] = [
                         10.948736,
                         33.717514
                   ]
-            },
-            {
-                  "name": "Jamaa Louta Sedouikech",
-                  "text": "Jamaa Louta Sedouikech ist eine Sehenswürdigkeit in Ghardaia.",
-                  "category": "landmark",
-                  "coords": [
-                        10.911934,
-                        33.721644
-                  ]
-            },
-            {
-                  "name": "Henchir Ghardaia",
-                  "text": "Henchir Ghardaia ist eine archäologische Stätte in Ghardaia.",
-                  "category": "historical",
-                  "coords": [
-                        10.93863,
-                        33.718393
-                  ]
-            },
-            {
-                  "name": "Henchir Tala",
-                  "text": "Henchir Tala ist eine Sehenswürdigkeit in Ghardaia.",
-                  "category": "landmark",
-                  "coords": [
-                        10.915053,
-                        33.699333
-                  ]
-            },
-            {
-                  "name": "Henchir Dar El Ghoula",
-                  "text": "Henchir Dar El Ghoula ist eine archäologische Stätte in Ghardaia.",
-                  "category": "historical",
-                  "coords": [
-                        10.925306,
-                        33.726977
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Souk el Guebli nécropole",
-                  "text": "A Souk el Guebli nécropole egy régészeti lelőhely Ghardaia városában.",
-                  "category": "historical",
-                  "coords": [
-                        10.953637,
-                        33.727294
-                  ]
-            },
             {
                   "name": "Souk el Guebli (Kite Club Djerba)",
                   "text": "A Souk el Guebli (Kite Club Djerba) egy strand Ghardaia területén.",
@@ -11400,54 +8705,9 @@ export const afNewV1: POI[] = [
                         10.948736,
                         33.717514
                   ]
-            },
-            {
-                  "name": "Jamaa Louta Sedouikech",
-                  "text": "A Jamaa Louta Sedouikech egy látványosság Ghardaia területén.",
-                  "category": "landmark",
-                  "coords": [
-                        10.911934,
-                        33.721644
-                  ]
-            },
-            {
-                  "name": "Henchir Ghardaia",
-                  "text": "A Henchir Ghardaia egy régészeti lelőhely Ghardaia városában.",
-                  "category": "historical",
-                  "coords": [
-                        10.93863,
-                        33.718393
-                  ]
-            },
-            {
-                  "name": "Henchir Tala",
-                  "text": "A Henchir Tala egy látványosság Ghardaia területén.",
-                  "category": "landmark",
-                  "coords": [
-                        10.915053,
-                        33.699333
-                  ]
-            },
-            {
-                  "name": "Henchir Dar El Ghoula",
-                  "text": "A Henchir Dar El Ghoula egy régészeti lelőhely Ghardaia városában.",
-                  "category": "historical",
-                  "coords": [
-                        10.925306,
-                        33.726977
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Souk el Guebli nécropole",
-                  "text": "Souk el Guebli nécropole este un sit arheologic situat în Ghardaia.",
-                  "category": "historical",
-                  "coords": [
-                        10.953637,
-                        33.727294
-                  ]
-            },
             {
                   "name": "Souk el Guebli (Kite Club Djerba)",
                   "text": "Souk el Guebli (Kite Club Djerba) este o plajă situată în Ghardaia.",
@@ -11465,54 +8725,9 @@ export const afNewV1: POI[] = [
                         10.948736,
                         33.717514
                   ]
-            },
-            {
-                  "name": "Jamaa Louta Sedouikech",
-                  "text": "Jamaa Louta Sedouikech este o atracție turistică situată în Ghardaia.",
-                  "category": "landmark",
-                  "coords": [
-                        10.911934,
-                        33.721644
-                  ]
-            },
-            {
-                  "name": "Henchir Ghardaia",
-                  "text": "Henchir Ghardaia este un sit arheologic situat în Ghardaia.",
-                  "category": "historical",
-                  "coords": [
-                        10.93863,
-                        33.718393
-                  ]
-            },
-            {
-                  "name": "Henchir Tala",
-                  "text": "Henchir Tala este o atracție turistică situată în Ghardaia.",
-                  "category": "landmark",
-                  "coords": [
-                        10.915053,
-                        33.699333
-                  ]
-            },
-            {
-                  "name": "Henchir Dar El Ghoula",
-                  "text": "Henchir Dar El Ghoula este un sit arheologic situat în Ghardaia.",
-                  "category": "historical",
-                  "coords": [
-                        10.925306,
-                        33.726977
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Souk el Guebli nécropole",
-                  "text": "Souk el Guebli nécropole is an archaeological site located in Ghardaia.",
-                  "category": "historical",
-                  "coords": [
-                        10.953637,
-                        33.727294
-                  ]
-            },
             {
                   "name": "Souk el Guebli (Kite Club Djerba)",
                   "text": "Souk el Guebli (Kite Club Djerba) is a beach located in Ghardaia.",
@@ -11529,42 +8744,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         10.948736,
                         33.717514
-                  ]
-            },
-            {
-                  "name": "Jamaa Louta Sedouikech",
-                  "text": "Jamaa Louta Sedouikech is a tourist attraction located in Ghardaia.",
-                  "category": "landmark",
-                  "coords": [
-                        10.911934,
-                        33.721644
-                  ]
-            },
-            {
-                  "name": "Henchir Ghardaia",
-                  "text": "Henchir Ghardaia is an archaeological site located in Ghardaia.",
-                  "category": "historical",
-                  "coords": [
-                        10.93863,
-                        33.718393
-                  ]
-            },
-            {
-                  "name": "Henchir Tala",
-                  "text": "Henchir Tala is a tourist attraction located in Ghardaia.",
-                  "category": "landmark",
-                  "coords": [
-                        10.915053,
-                        33.699333
-                  ]
-            },
-            {
-                  "name": "Henchir Dar El Ghoula",
-                  "text": "Henchir Dar El Ghoula is an archaeological site located in Ghardaia.",
-                  "category": "historical",
-                  "coords": [
-                        10.925306,
-                        33.726977
                   ]
             }
       ]
@@ -12484,15 +9663,6 @@ export const afNewV1: POI[] = [
                         11.053731,
                         35.31007
                   ]
-            },
-            {
-                  "name": "Plage El Alia",
-                  "text": "Plage El Alia in El Khmara ist ein malerischer Sandstrand, der sich ideal für sonnige Tage an der Küste eignet.",
-                  "category": "recreational",
-                  "coords": [
-                        11.040544,
-                        35.327225
-                  ]
             }
       ],
       "hu": [
@@ -12503,15 +9673,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         11.053731,
                         35.31007
-                  ]
-            },
-            {
-                  "name": "Plage El Alia",
-                  "text": "A Plage El Alia El Khmarában egy festői homokos strand, amely ideális a napsütéses tengerparti napokhoz.",
-                  "category": "recreational",
-                  "coords": [
-                        11.040544,
-                        35.327225
                   ]
             }
       ],
@@ -12524,15 +9685,6 @@ export const afNewV1: POI[] = [
                         11.053731,
                         35.31007
                   ]
-            },
-            {
-                  "name": "Plage El Alia",
-                  "text": "Plage El Alia din El Khmara este o plajă de nisip pitorească, ideală pentru zilele însorite pe coastă.",
-                  "category": "recreational",
-                  "coords": [
-                        11.040544,
-                        35.327225
-                  ]
             }
       ],
       "en": [
@@ -12543,15 +9695,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         11.053731,
                         35.31007
-                  ]
-            },
-            {
-                  "name": "Plage El Alia",
-                  "text": "Plage El Alia in El Khmara is a picturesque sandy beach ideal for sunny days on the coast.",
-                  "category": "recreational",
-                  "coords": [
-                        11.040544,
-                        35.327225
                   ]
             }
       ]
@@ -12807,15 +9950,6 @@ export const afNewV1: POI[] = [
 {"id": "algeria-haouch-ain-maiza-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Kouali",
-                  "text": "Kouali ist ein malerischer Strand in Haouch Ain Maiza.",
-                  "category": "recreational",
-                  "coords": [
-                        2.501028,
-                        36.590793
-                  ]
-            },
-            {
                   "name": "حوش جاكمان",
                   "text": "حوش جاكمان ist eine lokale Attraktion in Haouch Ain Maiza.",
                   "category": "landmark",
@@ -12826,15 +9960,6 @@ export const afNewV1: POI[] = [
             }
       ],
       "hu": [
-            {
-                  "name": "Kouali",
-                  "text": "A Kouali egy festői strand Haouch Ain Maiza városában.",
-                  "category": "recreational",
-                  "coords": [
-                        2.501028,
-                        36.590793
-                  ]
-            },
             {
                   "name": "حوش جاكمان",
                   "text": "A حوش جاكمان egy helyi látványosság Haouch Ain Maiza-ban.",
@@ -12847,15 +9972,6 @@ export const afNewV1: POI[] = [
       ],
       "ro": [
             {
-                  "name": "Kouali",
-                  "text": "Kouali este o plajă pitorească situată în Haouch Ain Maiza.",
-                  "category": "recreational",
-                  "coords": [
-                        2.501028,
-                        36.590793
-                  ]
-            },
-            {
                   "name": "حوش جاكمان",
                   "text": "حوش جاكمان este o atracție locală aflată în Haouch Ain Maiza.",
                   "category": "landmark",
@@ -12866,15 +9982,6 @@ export const afNewV1: POI[] = [
             }
       ],
       "en": [
-            {
-                  "name": "Kouali",
-                  "text": "Kouali is a scenic beach situated in Haouch Ain Maiza.",
-                  "category": "recreational",
-                  "coords": [
-                        2.501028,
-                        36.590793
-                  ]
-            },
             {
                   "name": "حوش جاكمان",
                   "text": "حوش جاكمان is a local attraction found in Haouch Ain Maiza.",
@@ -12887,86 +9994,10 @@ export const afNewV1: POI[] = [
       ]
 }, "type": "city", "name": {"en": "Haouch Ain Maiza", "de": "Haouch Ain Maiza", "hu": "Haouch Ain Maiza", "ro": "Haouch Ain Maiza"}, "description": {"en": "Haouch Ain Maiza is a serene coastal spot in the Tipaza region. Visitors flock here to enjoy the beautiful Kouali beach and the refreshing Mediterranean climate.", "de": "Haouch Ain Maiza ist ein ruhiger Küstenort in der Region Tipaza. Besucher strömen hierher, um den Strand von Kouali und das Klima zu genießen.", "hu": "Haouch Ain Maiza egy nyugodt tengerparti hely a Tipaza régióban. A látogatók a gyönyörű Kouali strand és a frissítő mediterrán éghajlat miatt érkeznek ide.", "ro": "Haouch Ain Maiza este un loc de coastă senin în regiunea Tipaza. Vizitatorii vin aici pentru a se bucura de frumoasa plajă Kouali și de clima mediteraneană."}, "descriptionAdvanced": {"en": "Haouch Ain Maiza is a picturesque and culturally rich coastal settlement situated in the historically significant Tipaza Province of Algeria. This area beautifully merges the lush, green landscapes of the Algerian coastline with the rich blue waters of the Mediterranean Sea. The town presents a relaxed atmosphere, making it a perfect retreat for travelers looking to experience the tranquil side of North Africa while remaining close to significant ancient Roman ruins typical of the region.\n\nThe coastal life here revolves heavily around its stunning sandy stretches, with the beautiful Kouali beach being the undisputed crown jewel of the area. This beach provides a fantastic setting for sunbathers and water sports enthusiasts, featuring soft, golden sands and calm, clear waters. The bay area of Kouali is renowned for its safety and cleanliness, making it an extremely popular destination for families during the warm summer months.\n\nLocal gastronomy in Haouch Ain Maiza reflects its dual heritage of agriculture and fishing. Visitors can savor incredible meals featuring freshly caught seafood alongside locally grown olives and produce, often infused with rich Mediterranean spices. The town is easily reached via the scenic coastal road from Algiers, offering a spectacular drive that sets the perfect mood for a relaxing holiday by the sea.", "de": "Haouch Ain Maiza ist eine malerische und kulturell reiche Küstensiedlung in der historisch bedeutsamen algerischen Provinz Tipaza. Diese Gegend verbindet auf wunderbare Weise die üppigen, grünen Landschaften der algerischen Küste mit dem tiefblauen Wasser des Mittelmeers. Die Stadt bietet eine entspannte Atmosphäre und ist der perfekte Rückzugsort für Reisende, die die ruhige Seite Nordafrikas erleben und gleichzeitig in der Nähe der für die Region typischen antiken römischen Ruinen sein möchten.\n\nDas Küstenleben hier dreht sich stark um die atemberaubenden Sandstrände, wobei der wunderschöne Strand von Kouali das unumstrittene Kronjuwel der Gegend ist. Dieser Strand bietet eine fantastische Kulisse für Sonnenanbeter und Wassersportler und zeichnet sich durch weichen, goldenen Sand und ruhiges, klares Wasser aus. Die Bucht von Kouali ist für ihre Sicherheit und Sauberkeit bekannt und daher in den warmen Sommermonaten ein äußerst beliebtes Ziel für Familien.\n\nDie lokale Gastronomie in Haouch Ain Maiza spiegelt das doppelte Erbe aus Landwirtschaft und Fischfang wider. Besucher können unglaubliche Mahlzeiten mit frisch gefangenem Fisch, lokalen Oliven und Produkten genießen, die oft mit reichhaltigen mediterranen Gewürzen verfeinert sind. Die Stadt ist über die malerische Küstenstraße von Algier aus leicht zu erreichen.", "hu": "Haouch Ain Maiza egy festői és kulturálisan gazdag tengerparti település Algéria történelmileg jelentős Tipaza tartományában. Ez a terület gyönyörűen ötvözi az algériai partvidék buja, zöld tájait a Földközi-tenger gazdag kék vizével. A város nyugodt légkört kínál, így tökéletes menedék azoknak az utazóknak, akik Észak-Afrika nyugodt oldalát szeretnék megtapasztalni, miközben közel maradnak a régióra jellemző jelentős ókori római romokhoz is.\n\nAz itteni tengerparti élet erősen a lenyűgöző homokos szakaszok körül forog, a gyönyörű Kouali strand a terület vitathatatlan koronaékszere. Ez a strand fantasztikus környezetet biztosít a napozóknak és a vízi sportok szerelmeseinek, puha, aranyhomokkal és nyugodt, tiszta vízzel. A Kouali-öböl területe biztonságáról és tisztaságáról híres, így a meleg nyári hónapokban rendkívül népszerű célpont a családok körében.\n\nHaouch Ain Maiza helyi gasztronómiája a mezőgazdaság és a halászat kettős örökségét tükrözi. A látogatók hihetetlen ételeket kóstolhatnak meg, amelyekben frissen fogott tenger gyümölcsei, helyben termesztett olajbogyó és zöldségek találhatók, gyakran gazdag mediterrán fűszerekkel átitatva. A város könnyen megközelíthető az Algírból induló festői tengerparti úton.", "ro": "Haouch Ain Maiza este o așezare de coastă pitorească și bogată cultural, situată în provincia Tipaza, cu o importanță istorică din Algeria. Această zonă îmbină frumos peisajele verzi luxuriante ale coastei algeriene cu apele albastre bogate ale Mării Mediterane. Orașul prezintă o atmosferă relaxată, fiind o retragere perfectă pentru călătorii care doresc să experimenteze latura liniștită a Africii de Nord, rămânând în același timp aproape de ruinele romane antice tipice regiunii.\n\nViața de coastă de aici se învârte în jurul întinderilor sale uimitoare de nisip, frumoasa plajă Kouali fiind bijuteria de necontestat a zonei. Această plajă oferă un cadru fantastic pentru pasionații de plajă și sporturi nautice, având nisip moale și auriu și ape calme și limpezi. Zona golfului Kouali este renumită pentru siguranța și curățenia sa, ceea ce o face o destinație extrem de populară pentru familii în timpul lunilor calde de vară.\n\nGastronomia locală din Haouch Ain Maiza reflectă moștenirea sa dublă de agricultură și pescuit. Vizitatorii pot savura mese incredibile cu fructe de mare proaspăt prinse alături de măsline și produse cultivate local, adesea infuzate cu mirodenii mediteraneene bogate. Orașul este ușor de accesat pe drumul de coastă din Alger."}, "facts": {"en": ["Located in Tipaza Province", "Rich historical region", "Famous Kouali beach", "Safe for family swimming", "Golden sandy stretches", "Blend of farming and fishing", "Excellent local olive oil", "Scenic drive from Algiers"], "de": ["In der Provinz Tipaza gelegen", "Reiche historische Region", "Berühmter Kouali Strand", "Sicher zum Familienschwimmen", "Goldene Sandstrände", "Mischung aus Landwirtschaft und Fischfang", "Hervorragendes lokales Olivenöl", "Malerische Fahrt von Algier"], "hu": ["Tipaza tartományban található", "Gazdag történelmi régió", "Híres Kouali strand", "Biztonságos családi fürdőzéshez", "Aranyhomokos szakaszok", "Mezőgazdaság és halászat keveréke", "Kiváló helyi olívaolaj", "Festői autóút Algírból"], "ro": ["Situat în provincia Tipaza", "Regiune istorică bogată", "Renumita plajă Kouali", "Sigur pentru înotul în familie", "Întinderi de nisip auriu", "Amestec de agricultură și pescuit", "Ulei de măsline local excelent", "Drum pitoresc din Alger"]}, "parent": "DZ-42", "coords": [2.52069, 36.58709], "tier": 2, "image": "/poi-images/algeria-haouch-ain-maiza-cities-v2.webp"},
 {"id": "algeria-h-raoua-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Serkouf Plage",
-                  "text": "Serkouf Plage ist ein Badestrand am Meer in H'raoua.",
-                  "category": "recreational",
-                  "coords": [
-                        3.312995,
-                        36.788528
-                  ]
-            },
-            {
-                  "name": "Deca Plage",
-                  "text": "Deca Plage ist ein Strandresort, das Erholung an der Küste von H'raoua bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        3.314737,
-                        36.788365
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Serkouf Plage",
-                  "text": "A Serkouf Plage egy tengerparti úti cél H'raoua városában.",
-                  "category": "recreational",
-                  "coords": [
-                        3.312995,
-                        36.788528
-                  ]
-            },
-            {
-                  "name": "Deca Plage",
-                  "text": "A Deca Plage egy tengerparti üdülőhely, amely kikapcsolódást nyújt H'raoua városában.",
-                  "category": "recreational",
-                  "coords": [
-                        3.314737,
-                        36.788365
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Serkouf Plage",
-                  "text": "Serkouf Plage este o destinație de plajă la malul mării în H'raoua.",
-                  "category": "recreational",
-                  "coords": [
-                        3.312995,
-                        36.788528
-                  ]
-            },
-            {
-                  "name": "Deca Plage",
-                  "text": "Deca Plage este o stațiune balneară care oferă recreere pe coastă în H'raoua.",
-                  "category": "recreational",
-                  "coords": [
-                        3.314737,
-                        36.788365
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Serkouf Plage",
-                  "text": "Serkouf Plage is a seaside beach destination in H'raoua.",
-                  "category": "recreational",
-                  "coords": [
-                        3.312995,
-                        36.788528
-                  ]
-            },
-            {
-                  "name": "Deca Plage",
-                  "text": "Deca Plage is a beach resort offering coastal recreation in H'raoua.",
-                  "category": "recreational",
-                  "coords": [
-                        3.314737,
-                        36.788365
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "name": {"en": "H'raoua", "de": "H'raoua", "hu": "H'raoua", "ro": "H'raoua"}, "description": {"en": "H'raoua is a lively coastal suburb known for its energetic summer vibe and beautiful sea access. Popular spots like Serkouf Plage and Deca Plage offer endless seaside fun.", "de": "H'raoua ist ein lebhafter Küstenvorort, der für seine sommerliche Atmosphäre bekannt ist. Beliebte Orte wie Serkouf Plage und Deca Plage bieten endlosen Spaß am Meer.", "hu": "H'raoua egy nyüzsgő tengerparti külváros, amely energikus nyári hangulatáról és tengeri hozzáféréséről ismert. A Serkouf Plage és a Deca Plage végtelen szórakozást kínál.", "ro": "H'raoua este o suburbie de coastă plină de viață, cunoscută pentru atmosfera sa de vară. Locuri populare precum Serkouf Plage și Deca Plage oferă distracție nesfârșită."}, "descriptionAdvanced": {"en": "H'raoua is a vibrant and bustling coastal town located in the eastern outskirts of the capital region, offering a dynamic mix of urban energy and relaxing Mediterranean charm. The town is a highly favored summer retreat for city dwellers looking to escape the heat and enjoy the refreshing sea breezes. Its streets are lined with palm trees and bustling cafes, creating an inviting and lively atmosphere that perfectly captures the essence of a modern Algerian seaside destination.\n\nThe coastline of H'raoua is dotted with incredibly popular beaches that draw significant crowds during the holiday season. Serkouf Plage is renowned for its vibrant atmosphere, fine sands, and array of seaside cafes offering immediate beach access. Just a stone's throw away is Deca Plage, another fantastic coastal strip providing ample space for sunbathing, beach volleyball, and swimming in the clear blue waters of the Mediterranean Sea.\n\nFood lovers will find H'raoua to be a delightful destination. The local culinary scene is rich with vibrant street food, traditional Algerian pastries, and numerous seafood restaurants serving the daily catch. Reaching H'raoua is very straightforward via major expressways connected to the capital, making it a highly accessible destination for day-trippers and weekend visitors alike.", "de": "H'raoua ist eine lebhafte und geschäftige Küstenstadt am östlichen Stadtrand der Hauptstadtregion, die eine dynamische Mischung aus urbaner Energie und entspannendem mediterranem Charme bietet. Die Stadt ist ein äußerst beliebter Sommerrückzugsort für Stadtbewohner, die der Hitze entfliehen und die erfrischende Meeresbrise genießen möchten. Die Straßen sind von Palmen und belebten Cafés gesäumt, was eine einladende Atmosphäre schafft, die das Wesen eines modernen algerischen Badeortes perfekt einfängt.\n\nDie Küste von H'raoua ist übersät mit unglaublich beliebten Stränden, die während der Ferienzeit große Menschenmengen anziehen. Der Serkouf Plage ist bekannt für seine lebhafte Atmosphäre, den feinen Sand und eine Reihe von Strandcafés, die direkten Zugang zum Strand bieten. Nur einen Steinwurf entfernt befindet sich der Deca Plage, ein weiterer fantastischer Küstenstreifen, der viel Platz zum Sonnenbaden, Beachvolleyball spielen und Schwimmen im klaren blauen Wasser des Mittelmeers bietet.\n\nFeinschmecker werden H'raoua als wunderbares Reiseziel empfinden. Die lokale kulinarische Szene ist reich an Street Food, traditionellem algerischem Gebäck und zahlreichen Fischrestaurants, die den täglichen Fang servieren. H'raoua ist über die an die Hauptstadt angeschlossenen Autobahnen sehr einfach zu erreichen.", "hu": "H'raoua egy vibráló és nyüzsgő tengerparti város a fővárosi régió keleti szélén, amely a városi energia és a pihentető mediterrán báj dinamikus keverékét kínálja. A város rendkívül kedvelt nyári menedék a városlakók számára, akik szeretnének elmenekülni a hőség elől és élvezni a frissítő tengeri szellőt. Utcáit pálmafák és nyüzsgő kávézók szegélyezik, olyan hívogató és élénk légkört teremtve, amely tökéletesen megragadja egy modern algériai tengerparti úti cél lényegét.\n\nH'raoua partvidéke hihetetlenül népszerű strandokkal van tele, amelyek jelentős tömegeket vonzanak a nyaralási szezonban. A Serkouf Plage élénk atmoszférájáról, finom homokjáról és a közvetlen strandkapcsolatot kínáló tengerparti kávézók soráról híres. Csak egy kőhajításnyira van a Deca Plage, egy másik fantasztikus partszakasz, amely bőséges helyet kínál a napozáshoz, a strandröplabdázáshoz és a Földközi-tenger tiszta, kék vizében való úszáshoz.\n\nAz ételek szerelmesei számára H'raoua elragadó úti cél lesz. A helyi kulináris szcéna gazdag nyüzsgő utcai ételekben, hagyományos algériai süteményekben és számos tenger gyümölcseit kínáló étteremben, amelyek a napi fogást szolgálják fel. H'raoua nagyon egyszerűen megközelíthető a fővároshoz csatlakozó főbb gyorsforgalmi utakon keresztül.", "ro": "H'raoua este un oraș de coastă vibrant și plin de viață, situat la periferia estică a regiunii capitalei, oferind un amestec dinamic de energie urbană și farmec mediteranean relaxant. Orașul este o retragere de vară foarte favorizată pentru locuitorii orașului care doresc să scape de căldură și să se bucure de briza răcoroasă a mării. Străzile sale sunt mărginite de palmieri și cafenele pline de viață, creând o atmosferă primitoare care surprinde perfect esența unei destinații moderne pe litoralul algerian.\n\nLitoralul orașului H'raoua este presărat cu plaje incredibil de populare care atrag mulțimi semnificative în timpul sezonului de vacanță. Serkouf Plage este renumit pentru atmosfera sa vibrantă, nisipurile fine și o serie de cafenele pe litoral care oferă acces imediat la plajă. La doar o aruncătură de băț se află Deca Plage, o altă fâșie de coastă fantastică, care oferă spațiu amplu pentru plajă, volei pe plajă și înot în apele albastre clare ale Mării Mediterane.\n\nIubitorii de mâncare vor găsi în H'raoua o destinație încântătoare. Scena culinară locală este bogată în mâncare stradală, produse de patiserie tradiționale algeriene și numeroase restaurante cu fructe de mare. Ajungerea la H'raoua este foarte simplă prin drumurile majore conectate la capitală."}, "facts": {"en": ["Vibrant coastal suburb", "Near Algiers capital region", "Popular Serkouf Plage", "Features lovely Deca Plage", "Energetic summer atmosphere", "Palm-lined lively streets", "Rich street food scene", "Highly accessible by highway"], "de": ["Lebendiger Küstenvorort", "Nahe der Hauptstadtregion Algier", "Beliebter Serkouf Plage", "Verfügt über den schönen Deca Plage", "Energetische Sommeratmosphäre", "Von Palmen gesäumte belebte Straßen", "Reiche Streetfood-Szene", "Sehr gut über Autobahn erreichbar"], "hu": ["Nyüzsgő tengerparti külváros", "Az algíri fővárosi régió közelében", "Népszerű Serkouf Plage", "Itt található a Deca Plage", "Energikus nyári atmoszféra", "Pálmafákkal szegélyezett utcák", "Gazdag utcai ételkínálat", "Autópályán kiválóan megközelíthető"], "ro": ["Suburbie de coastă vibrantă", "Lângă regiunea capitalei Alger", "Serkouf Plage populară", "Prezintă superba Deca Plage", "Atmosferă energetică de vară", "Străzi mărginite de palmieri", "Scenă bogată de street food", "Foarte accesibil pe autostradă"]}, "parent": "DZ-35", "coords": [3.3085, 36.77275], "tier": 2, "image": "/poi-images/algeria-h-raoua-cities-v2.webp"},
 {"id": "algeria-ikhlifeyene-cities-v2", "sights": {
       "de": [
@@ -13250,15 +10281,6 @@ export const afNewV1: POI[] = [
                         -5.707098,
                         35.829529
                   ]
-            },
-            {
-                  "name": "Playa Blanca",
-                  "text": "Playa Blanca ist ein Strandbereich in Sidi Kankouch.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.722933,
-                        35.824329
-                  ]
             }
       ],
       "hu": [
@@ -13269,15 +10291,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         -5.707098,
                         35.829529
-                  ]
-            },
-            {
-                  "name": "Playa Blanca",
-                  "text": "A Playa Blanca egy tengerparti szakasz Sidi Kankouch területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.722933,
-                        35.824329
                   ]
             }
       ],
@@ -13290,15 +10303,6 @@ export const afNewV1: POI[] = [
                         -5.707098,
                         35.829529
                   ]
-            },
-            {
-                  "name": "Playa Blanca",
-                  "text": "Playa Blanca este o plajă situată în Sidi Kankouch.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.722933,
-                        35.824329
-                  ]
             }
       ],
       "en": [
@@ -13309,15 +10313,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         -5.707098,
                         35.829529
-                  ]
-            },
-            {
-                  "name": "Playa Blanca",
-                  "text": "Playa Blanca is a coastal beach located in Sidi Kankouch.",
-                  "category": "recreational",
-                  "coords": [
-                        -5.722933,
-                        35.824329
                   ]
             }
       ]
@@ -13445,24 +10440,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         -3.990991,
                         35.234288
-                  ]
-            },
-            {
-                  "name": "Rmod Beach",
-                  "text": "Rmod Beach is a tourist attraction situated in Tala Youssef.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.965728,
-                        35.243738
-                  ]
-            },
-            {
-                  "name": "Izdhi Beach",
-                  "text": "Izdhi Beach is a local visitor attraction in Tala Youssef.",
-                  "category": "landmark",
-                  "coords": [
-                        -3.963093,
-                        35.245354
                   ]
             },
             {
@@ -13678,86 +10655,10 @@ export const afNewV1: POI[] = [
       ]
 }, "type": "city", "parent": "MA-13", "coords": [-9.83336, 29.80249], "tier": 2, "name": {"en": "Aglou", "de": "Aglou", "hu": "Aglou", "ro": "Aglou"}, "description": {"en": "Aglou is a tranquil seaside village in southern Morocco, offering wild Atlantic coastlines, traditional fishing culture, and stunning sunsets.", "de": "Aglou ist ein ruhiges Küstendorf im Süden Marokkos, das wilde Atlantikküsten, traditionelle Fischerkultur und atemberaubende Sonnenuntergänge bietet.", "hu": "Aglou egy nyugodt tengerparti falu Dél-Marokkóban, amely vad atlanti partvidéket, hagyományos halászkultúrát és lenyűgöző naplementéket kínál.", "ro": "Aglou este un sat liniștit de pe litoralul din sudul Marocului, oferind coaste atlantice sălbatice, cultură tradițională de pescuit și apusuri de soare uimitoare."}, "descriptionAdvanced": {"en": "Aglou is a peaceful coastal village situated in the Souss-Massa region of southern Morocco, serving as the seaside extension of the historic city of Tiznit. Far from the bustling tourist hubs, Aglou offers a serene and authentic coastal experience. The area is characterized by its wild, untamed Atlantic beauty, traditional cave dwellings carved into the cliffs by local fishermen, and an incredibly relaxed pace of life.\n\nThe primary attraction here is the expansive Aglou Plage (شاطئ أغلو) and the neighboring stretches of شاطئ أغلو. This magnificent and wild beach is known for its dramatic waves, making it a hidden gem for surfers and nature lovers. While the ocean currents can be strong, the beach is perfect for long, contemplative walks, sunbathing, and watching spectacular sunsets over the sea.\n\nLocal gastronomy centers heavily on the daily catch, with small seaside eateries serving freshly grilled fish and Moroccan tea. Aglou is easily reachable by a short, scenic drive from Tiznit.", "de": "Aglou ist ein friedliches Küstendorf in der Region Souss-Massa im Süden Marokkos und dient als Küstenerweiterung der historischen Stadt Tiznit. Fernab der belebten Touristenzentren bietet Aglou ein ruhiges und sehr authentisches Küstenerlebnis. Die Gegend zeichnet sich durch ihre wilde, ungezähmte atlantische Schönheit, traditionelle Höhlenwohnungen, die von lokalen Fischern in die Klippen gehauen wurden, und ein unglaublich entspanntes Leben aus.\n\nDie Hauptattraktion hier ist die weitläufige Aglou Plage (شاطئ أغلو) und die angrenzenden Abschnitte von شاطئ أغلو. Dieser herrliche und wilde Strand ist für seine dramatischen Wellen bekannt und ein echter Geheimtipp für Surfer. Während die Meeresströmungen oft stark sein können, eignet sich der Strand perfekt für lange, besinnliche Spaziergänge, zum Sonnenbaden und zum Beobachten spektakulärer Sonnenuntergänge über dem Ozean.\n\nDie lokale Gastronomie konzentriert sich stark auf den täglichen Fang, mit kleinen Restaurants am Meer, die frisch gegrillten Fisch servieren. Aglou ist durch eine kurze Fahrt von Tiznit aus leicht zu erreichen.", "hu": "Aglou egy békés tengerparti falu Dél-Marokkó Souss-Massa régiójában, amely a történelmi Tiznit városának tengerparti meghosszabbításaként szolgál. A nyüzsgő turisztikai központoktól távol Aglou nyugodt és meglehetősen autentikus tengerparti élményt nyújt. A területet a vad, megszelídíthetetlen atlanti szépség, a helyi halászok által a sziklákba vájt hagyományos barlanglakások és hihetetlenül nyugodt életritmus jellemzi.\n\nAz itteni fő látványosság a kiterjedt Aglou Plage (شاطئ أغلو) és a szomszédos شاطئ أغلو szakaszai. Ez a csodálatos és vad strand drámai hullámairól ismert, így a szörfösök és a természet szerelmeseinek rejtett gyöngyszeme. Bár az óceáni áramlatok meglehetősen erősek lehetnek, a strand tökéletes a hosszú sétákhoz, napozáshoz és a tenger felett lenyugvó látványos naplementék megtekintéséhez.\n\nA helyi gasztronómia nagyrészt a napi fogásra épül, a kis tengerparti vendéglők frissen grillezett halat és marokkói mentateát kínálnak. Aglou egy rövid, festői autózással könnyedén megközelíthető Tiznitből.", "ro": "Aglou este un sat de coastă liniștit situat în regiunea Souss-Massa din sudul Marocului, servind ca extensie la malul mării a orașului istoric Tiznit. Departe de centrele turistice aglomerate, Aglou oferă o experiență de coastă senină și autentică. Zona este caracterizată de frumusețea sa atlantică sălbatică și neîmblânzită, de locuințele tradiționale din peșteri sculptate în stânci de pescarii locali și de un ritm de viață incredibil de relaxat.\n\nAtracția principală de aici este întinsa Aglou Plage (شاطئ أغلو) și porțiunile învecinate din شاطئ أغلو. Această plajă magnifică și sălbatică este cunoscută pentru valurile sale dramatice, făcând-o o bijuterie ascunsă pentru surferi și iubitorii de natură. În timp ce curenții pot fi puternici, plaja este perfectă pentru plimbări lungi, plajă și vizionarea apusurilor spectaculoase peste mare.\n\nGastronomia locală se axează puternic pe captura zilnică, micile localuri de la malul mării servind pește proaspăt la grătar și ceai marocan. Aglou este ușor accesibil printr-o scurtă plimbare cu mașina din Tiznit."}, "facts": {"en": ["Located in the Souss-Massa region.", "Seaside extension of Tiznit.", "Famous for Aglou Plage.", "Features traditional cliff caves.", "Popular hidden spot for surfing.", "Known for wild Atlantic beauty.", "Excellent fresh grilled seafood.", "Peaceful and non-commercialized vibe."], "de": ["In der Region Souss-Massa gelegen.", "Küstenerweiterung von Tiznit.", "Berühmt für die Aglou Plage.", "Bietet traditionelle Klippenhöhlen.", "Beliebter Geheimtipp zum Surfen.", "Bekannt für wilde atlantische Schönheit.", "Ausgezeichnete frische Meeresfrüchte.", "Friedliche und nicht kommerzielle Atmosphäre."], "hu": ["Souss-Massa régióban található.", "Tiznit tengerparti meghosszabbítása.", "Az Aglou Plage strandról híres.", "Hagyományos sziklabarlangokkal rendelkezik.", "Népszerű rejtett szörfös hely.", "Vad atlanti szépségéről ismert.", "Kiváló frissen grillezett tengeri ételek.", "Békés és nem elüzletiesedett hangulat."], "ro": ["Situat în regiunea Souss-Massa.", "Extensia pe litoral a Tiznit.", "Faimos pentru Aglou Plage.", "Prezintă peșteri tradiționale în stâncă.", "Loc ascuns popular pentru surfing.", "Cunoscut pentru frumusețea sălbatică.", "Fructe de mare proaspete excelente.", "Atmosferă pașnică și necomercială."]}, "image": "/poi-images/morocco-aglou-cities-v2.webp"},
 {"id": "ghana-pambros-village-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "11 11 Beach Resort",
-                  "text": "Das 11 11 Beach Resort bietet Unterkünfte am Strand im Pambros Village.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.264908,
-                        5.521027
-                  ]
-            },
-            {
-                  "name": "Glefe beach. Atlantic Ocean",
-                  "text": "Der Glefe beach ist ein malerischer Ort am Atlantischen Ozean im Pambros Village.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.267136,
-                        5.519489
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "11 11 Beach Resort",
-                  "text": "A 11 11 Beach Resort tengerparti szállást kínál Pambros Village-ben.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.264908,
-                        5.521027
-                  ]
-            },
-            {
-                  "name": "Glefe beach. Atlantic Ocean",
-                  "text": "A Glefe beach egy festői hely az Atlanti-óceán partján, Pambros Village-ben.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.267136,
-                        5.519489
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "11 11 Beach Resort",
-                  "text": "11 11 Beach Resort oferă cazare pe plajă în Pambros Village.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.264908,
-                        5.521027
-                  ]
-            },
-            {
-                  "name": "Glefe beach. Atlantic Ocean",
-                  "text": "Glefe beach este un loc pitoresc de-a lungul Oceanului Atlantic în Pambros Village.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.267136,
-                        5.519489
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "11 11 Beach Resort",
-                  "text": "11 11 Beach Resort offers beachfront accommodation in Pambros Village.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.264908,
-                        5.521027
-                  ]
-            },
-            {
-                  "name": "Glefe beach. Atlantic Ocean",
-                  "text": "Glefe beach is a scenic spot along the Atlantic Ocean in Pambros Village.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.267136,
-                        5.519489
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "GH-AA", "coords": [-0.28784, 5.51828], "tier": 2, "name": {"en": "Pambros Village", "de": "Pambros Village", "hu": "Pambros Village", "ro": "Pambros Village"}, "description": {"en": "Pambros Village is a unique coastal community in Ghana, famous for its historic salt production and proximity to the Atlantic Ocean beaches.", "de": "Pambros Village ist eine einzigartige Küstengemeinde in Ghana, berühmt für ihre historische Salzproduktion und die Nähe zu den Stränden des Atlantiks.", "hu": "Pambros Village egy egyedülálló tengerparti közösség Ghánában, amely történelmi sótermeléséről és az Atlanti-óceán strandjainak közelségéről híres.", "ro": "Pambros Village este o comunitate de coastă unică în Ghana, faimoasă pentru producția istorică de sare și proximitatea sa de plajele Oceanului Atlantic."}, "descriptionAdvanced": {"en": "Pambros Village, located in the Greater Accra Region of Ghana, is a fascinating coastal settlement best known for the massive Pambros Salt Ponds. For decades, this area has been a critical center for salt production in West Africa, creating a unique, mirror-like landscape of shallow lagoons that attract various species of migratory birds. The village offers a distinct blend of industrial heritage and traditional coastal Ghanaian life.\n\nJust a stone's throw from the massive salt pans lies the vibrant Atlantic coastline. The area is home to the 11 11 Beach Resort, a popular spot for locals and visitors to unwind, enjoy upbeat music, and relax by the ocean. Further along the coast is Glefe beach on the Atlantic Ocean, a bustling local beach where fishermen regularly launch their colorful wooden canoes. These beaches provide a raw and authentic Ghanaian seaside experience, filled with immense energy and strong community spirit.\n\nThe local food culture is deeply intertwined with the sea and the salt trade, with smoked fish and kenkey being staple street foods. The village's proximity to central Accra makes it highly accessible via the main coastal road.", "de": "Pambros Village, in der Greater Accra Region in Ghana gelegen, ist eine faszinierende Küstensiedlung, die vor allem für die riesigen Pambros-Salzpfannen bekannt ist. Seit Jahrzehnten ist dieses Gebiet ein wichtiges Zentrum der Salzproduktion in Westafrika und schafft eine einzigartige, spiegelähnliche Landschaft aus flachen Lagunen, die verschiedene Arten von Zugvögeln anziehen. Das Dorf bietet eine besondere Mischung aus industriellem Erbe und traditionellem ghanaischem Küstenleben.\n\nNur einen Steinwurf von den riesigen Salzpfannen entfernt liegt die pulsierende Atlantikküste. In der Gegend befindet sich das 11 11 Beach Resort, ein beliebter Ort für Einheimische und Besucher, um sich zu entspannen, fröhliche Musik zu genießen und am Meer die Seele baumeln zu lassen. Weiter entlang der Küste liegt der Glefe Beach am Atlantischen Ozean, ein belebter lokaler Strand, an dem Fischer ihre bunten Holzkanus zu Wasser lassen. Diese Strände bieten ein raues und sehr authentisches ghanaisches Küstenerlebnis.\n\nDie lokale Esskultur ist eng mit dem Meer und dem Salzhandel verflochten, wobei geräucherter Fisch und Kenkey die wichtigsten Streetfood-Gerichte sind. Durch die Nähe zum Zentrum von Accra ist das Dorf hervorragend zu erreichen.", "hu": "Pambros Village a ghánai Greater Accra régióban található lenyűgöző tengerparti település, amely leginkább a hatalmas Pambros sólepárlókról ismert. A terület évtizedek óta a nyugat-afrikai sótermelés egyik legfontosabb központja, amely a sekély lagúnák egyedülálló, tükörszerű táját hozza létre, és különféle vonuló madarakat vonz. A falu az ipari örökség és a hagyományos ghánai tengerparti élet különleges keverékét kínálja.\n\nA hatalmas sólepárlóktól csak egy kőhajításnyira fekszik a nyüzsgő atlanti partvidék. A területen található a népszerű 11 11 Beach Resort, ahol a helyiek és a látogatók egyaránt kikapcsolódhatnak, élvezhetik a vidám zenét és pihenhetnek az óceán partján. A part mentén tovább haladva található az Atlanti-óceánon fekvő Glefe strand, egy forgalmas helyi partszakasz, ahol a halászok rendszeresen vízre bocsátják színes fa kenuikat. Ezek a strandok nyers és autentikus ghánai tengerparti élményt nyújtanak.\n\nA helyi étkezési kultúra mélyen összefonódik a tengerrel és a sókereskedelemmel, a füstölt hal és a kenkey pedig alapvető utcai ételek. A falu Accra központjához való közelsége miatt a fő tengerparti úton könnyen megközelíthető.", "ro": "Pambros Village, situat în regiunea Greater Accra din Ghana, este o așezare de coastă fascinantă, cel mai bine cunoscută pentru iazurile masive de sare Pambros. Timp de decenii, această zonă a fost un centru critic pentru producția de sare din Africa de Vest, creând un peisaj unic, asemănător unei oglinzi, cu lagune puțin adânci, care atrag diverse specii de păsări migratoare. Satul oferă un amestec distinct de moștenire industrială și viață tradițională de coastă.\n\nLa doar o aruncătură de băț de bazinele masive de sare se află coasta vibrantă a Atlanticului. Zona găzduiește 11 11 Beach Resort, un loc popular pentru ca localnicii și vizitatorii să se relaxeze, să se bucure de muzică antrenantă și să se odihnească lângă ocean. Mai departe de-a lungul coastei se află plaja Glefe de la Oceanul Atlantic, o plajă locală plină de viață, unde pescarii își lansează regulat canotajele din lemn colorat. Aceste plaje oferă o experiență de litoral ghanez brută și extrem de autentică.\n\nCultura alimentară locală este profund legată de mare și de comerțul cu sare, peștele afumat și kenkey fiind alimente de bază pe stradă. Proximitatea satului față de centrul orașului Accra îl face extrem de accesibil."}, "facts": {"en": ["Located in Greater Accra Region.", "Famous for Pambros Salt Ponds.", "Right on the Atlantic Ocean.", "Home to 11 11 Beach Resort.", "Features the bustling Glefe beach.", "Important West African salt hub.", "Attracts many migratory bird species.", "Authentic local coastal fishing culture."], "de": ["In der Greater Accra Region gelegen.", "Berühmt für die Pambros-Salzpfannen.", "Direkt am Atlantischen Ozean.", "Heimat des 11 11 Beach Resorts.", "Bietet den belebten Glefe Beach.", "Wichtiges westafrikanisches Salzzentrum.", "Zieht viele Zugvogelarten an.", "Authentische lokale Küstenfischerkultur."], "hu": ["Greater Accra régióban fekszik.", "A Pambros sólepárlókról híres.", "Közvetlenül az Atlanti-óceánnál.", "A 11 11 Beach Resort otthona.", "Itt található a nyüzsgő Glefe strand.", "Fontos nyugat-afrikai sóközpont.", "Számos vonuló madárfajt vonz.", "Autentikus helyi parti halászkultúra."], "ro": ["Situat în regiunea Greater Accra.", "Faimos pentru iazurile de sare Pambros.", "Chiar pe malul Oceanului Atlantic.", "Găzduiește 11 11 Beach Resort.", "Prezintă plaja plină de viață Glefe.", "Hub important de sare din Africa de Vest.", "Atrage multe specii de păsări migratoare.", "Cultură locală autentică de pescuit."]}, "image": "/poi-images/ghana-pambros-village-cities-v2.webp"},
 {"id": "senegal-mar-lodj-cities-v2", "sights": {
       "de": [
@@ -13842,86 +10743,10 @@ export const afNewV1: POI[] = [
       ]
 }, "type": "city", "parent": "SN-FK", "tier": 2, "coords": [-16.67894, 14.04302], "name": {"en": "Mar Lodj", "hu": "Mar Lodj", "de": "Mar Lodj", "ro": "Mar Lodj"}, "description": {"en": "Mar Lodj is a tranquil island village in Senegal's Saloum Delta, known for its eco-tourism, meandering mangroves, and peaceful beaches.", "hu": "Mar Lodj egy békés szigeti falu Szenegál Saloum-deltájában, amely ökoturizmusáról, kanyargó mangrovéiról és békés strandjairól ismert.", "de": "Mar Lodj ist ein ruhiges Inseldorf im senegalesischen Saloum-Delta, bekannt für seinen Ökotourismus, mäandernde Mangroven und friedliche Strände.", "ro": "Mar Lodj este un sat insular liniștit din Delta Saloum din Senegal, cunoscut pentru ecoturismul său, mangrovele șerpuite și plajele pașnice."}, "descriptionAdvanced": {"en": "Situated in the heart of the Sine-Saloum Delta, Mar Lodj is an enchanting island destination in Senegal. Accessible only by pirogue (traditional wooden boat), the village offers a serene retreat entirely disconnected from the noisy modern world. The island is characterized by its sprawling mangrove forests, intricate waterways, and majestic baobab trees. The local Serer culture is vibrant, and the community is known for its religious harmony, often symbolized by a church and a mosque built side by side.\n\nWhile Mar Lodj is famous for its delta ecosystem, it also boasts delightful sandy spots where the river meets the sea. Chez Jean offers a beautiful, shaded beach area that is perfect for relaxation and swimming in the calm, brackish waters. Similarly, Chez Marabout provides a tranquil beachfront setting where visitors can watch local fishermen glide by or simply enjoy the sounds of the delta. These beaches are less about ocean surf and more about tranquil, undisturbed nature.\n\nCulinary traditions on the island highlight the fresh catches from the delta, such as capitaine fish and oysters, usually served with rice and rich sauces like thiéboudienne. Exploring Mar Lodj often involves guided boat tours through the mangroves, bird watching, or attending traditional drum circles in the evening under the African sky.", "hu": "A Sine-Saloum delta szívében található Mar Lodj egy varázslatos szigeti úti cél Szenegálban. A csak piroggal (hagyományos fahajó) megközelíthető falu békés menedéket nyújt, amely teljesen el van vágva a zajos modern világtól. A szigetet kiterjedt mangroveerdők, bonyolult vízi utak és fenséges majomkenyérfák jellemzik. A helyi szerer kultúra élénk, a közösség pedig vallási harmóniájáról ismert, amelyet gyakran egy egymás mellé épített templom és mecset szimbolizál.\n\nBár Mar Lodj a delta ökoszisztémájáról híres, elragadó homokos helyekkel is büszkélkedhet, ahol a folyó találkozik a tengerrel. A Chez Jean egy gyönyörű, árnyékos strandrészt kínál, amely tökéletes a pihenésre és a nyugodt, félsós vizekben való úszásra. Hasonlóképpen, a Chez Marabout nyugodt tengerparti környezetet biztosít, ahol a látogatók figyelhetik a helyi halászok siklását, vagy egyszerűen csak élvezhetik a delta hangjait. Ezek a strandok kevésbé az óceán hullámairól, sokkal inkább a nyugodt, zavartalan természetről szólnak.\n\nA sziget kulináris hagyományai a deltából származó friss fogásokat, például a kapitányhalat és az osztrigát emelik ki, amelyeket általában rizzsel és gazdag szószokkal, például thiéboudienne-nel szolgálnak fel. Mar Lodj felfedezése gyakran magában foglalja a mangrovék közötti vezetett hajótúrákat, a madármegfigyelést vagy az afrikai égbolt alatti hagyományos dobolást esténként.", "de": "Im Herzen des Sine-Saloum-Deltas gelegen, ist Mar Lodj ein bezauberndes Inselziel im Senegal. Das Dorf, das nur mit der Piroge (traditionelles Holzboot) erreichbar ist, bietet einen ruhigen Rückzugsort, der völlig von der lauten modernen Welt abgeschnitten ist. Die Insel zeichnet sich durch weitläufige Mangrovenwälder, verzweigte Wasserwege und majestätische Affenbrotbäume aus. Die lokale Serer-Kultur ist lebendig und die Gemeinde ist für ihre religiöse Harmonie bekannt, die oft durch eine Kirche und eine Moschee symbolisiert wird, die direkt nebeneinander gebaut sind.\n\nWährend Mar Lodj für sein Delta-Ökosystem berühmt ist, bietet es auch herrliche Sandstrände, wo der Fluss auf das Meer trifft. Chez Jean bietet einen schönen, schattigen Strandbereich, der sich perfekt zum Entspannen und Schwimmen im ruhigen, brackigen Wasser eignet. Ebenso bietet Chez Marabout eine ruhige Strandkulisse, in der Besucher vorbeigleitende lokale Fischer beobachten oder einfach die Geräusche des Deltas genießen können. Bei diesen Stränden geht es weniger um die Brandung des Ozeans als vielmehr um ruhige, ungestörte Natur.\n\nKulinarische Traditionen auf der Insel unterstreichen die frischen Fänge aus dem Delta, wie Capitaine-Fisch und Austern, die normalerweise mit Reis und reichhaltigen Saucen wie Thiéboudienne serviert werden. Die Erkundung von Mar Lodj beinhaltet oft geführte Bootstouren.", "ro": "Situată în inima Deltei Sine-Saloum, Mar Lodj este o destinație insulară fermecătoare în Senegal. Accesibil doar cu piroga (barca tradițională din lemn), satul oferă un refugiu senin, complet deconectat de zgomotoasa lume modernă. Insula se caracterizează prin pădurile sale extinse de mangrove, căile navigabile complicate și copacii maiestuoși de baobab. Cultura locală Serer este vibrantă, iar comunitatea este cunoscută pentru armonia sa religioasă, adesea simbolizată de o biserică și o moschee construite una lângă alta.\n\nÎn timp ce Mar Lodj este faimos pentru ecosistemul său de deltă, se mândrește, de asemenea, cu locuri nisipoase încântătoare unde râul se întâlnește cu marea. Chez Jean oferă o zonă de plajă frumoasă, umbrită, perfectă pentru relaxare și înot în apele calme și salmastre. În mod similar, Chez Marabout oferă un cadru liniștit pe malul mării, unde vizitatorii pot urmări pescarii locali sau pur și simplu se pot bucura de sunetele deltei. Aceste plaje sunt mai puțin despre valurile oceanului și mai mult despre natura liniștită, netulburată.\n\nTradițiile culinare de pe insulă evidențiază capturile proaspete din deltă, cum ar fi peștele capitaine și stridiile, servite de obicei cu orez și sosuri bogate precum thiéboudienne. Explorarea Mar Lodj implică adesea excursii ghidate cu barca prin mangrove."}, "facts": {"en": ["Sine-Saloum Delta", "Accessible by pirogue", "Mangrove forests", "Chez Jean beach", "Chez Marabout beachfront", "Serer culture", "Religious harmony", "Fresh delta oysters"], "hu": ["Sine-Saloum delta", "Piroggal megközelíthető", "Mangrove erdők", "Chez Jean strand", "Chez Marabout tengerpart", "Szerer kultúra", "Vallási harmónia", "Friss delta osztriga"], "de": ["Sine-Saloum-Delta", "Erreichbar mit der Piroge", "Mangrovenwälder", "Chez Jean Strand", "Chez Marabout direkt am Strand", "Serer-Kultur", "Religiöse Harmonie", "Frische Delta-Austern"], "ro": ["Delta Sine-Saloum", "Accesibil cu piroga", "Păduri de mangrove", "Plaja Chez Jean", "Plaja Chez Marabout", "Cultura Serer", "Armonie religioasă", "Stridii proaspete de deltă"]}, "image": "/poi-images/senegal-mar-lodj-cities-v2.webp"},
 {"id": "cape-verde-barril-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Praia D'Francês",
-                  "text": "Praia D'Francês ist ein wunderschöner Küstenstrand in Barril.",
-                  "category": "recreational",
-                  "coords": [
-                        -24.40229,
-                        16.593015
-                  ]
-            },
-            {
-                  "name": "Praia Grande",
-                  "text": "Praia Grande ist ein weitläufiger Strand in Barril.",
-                  "category": "recreational",
-                  "coords": [
-                        -24.418994,
-                        16.610175
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Praia D'Francês",
-                  "text": "A Praia D'Francês egy gyönyörű tengerparti strand Barril városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -24.40229,
-                        16.593015
-                  ]
-            },
-            {
-                  "name": "Praia Grande",
-                  "text": "A Praia Grande egy tágas strand Barril területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -24.418994,
-                        16.610175
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Praia D'Francês",
-                  "text": "Praia D'Francês este o frumoasă plajă de coastă situată în Barril.",
-                  "category": "recreational",
-                  "coords": [
-                        -24.40229,
-                        16.593015
-                  ]
-            },
-            {
-                  "name": "Praia Grande",
-                  "text": "Praia Grande este o plajă spațioasă situată în Barril.",
-                  "category": "recreational",
-                  "coords": [
-                        -24.418994,
-                        16.610175
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Praia D'Francês",
-                  "text": "Praia D'Francês is a beautiful coastal beach situated in Barril.",
-                  "category": "recreational",
-                  "coords": [
-                        -24.40229,
-                        16.593015
-                  ]
-            },
-            {
-                  "name": "Praia Grande",
-                  "text": "Praia Grande is a spacious beach located in Barril.",
-                  "category": "recreational",
-                  "coords": [
-                        -24.418994,
-                        16.610175
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "CV-TS", "coords": [-24.41237, 16.60141], "tier": 2, "name": {"de": "Barril", "hu": "Barril", "ro": "Barril", "en": "Barril"}, "description": {"de": "Barril ist ein ruhiges Küstendorf auf den Kapverden, das für seine unberührten Strände und Landschaften bekannt ist.", "hu": "Barril egy nyugodt tengerparti falu a Zöld-foki Köztársaságban, amely érintetlen strandjairól és tájairól ismert.", "ro": "Barril este un sat de coastă liniștit din Capul Verde, recunoscut pentru plajele sale virgine și peisajul vulcanic.", "en": "Barril is a serene coastal village in Cape Verde, known for its pristine beaches and dramatic volcanic landscapes."}, "descriptionAdvanced": {"de": "Barril liegt in der Gemeinde Tarrafal de São Nicolau und bietet ein authentisches kapverdisches Küstenerlebnis. Diese friedliche Siedlung ist von markanten Vulkanbergen umgeben, die in das tiefblaue Wasser des Atlantiks abfallen. Besucher werden von der entspannten Atmosphäre und der unberührten natürlichen Schönheit der Region angezogen. Die Küstenlinie ist durch schroffe Klippen und einladende Sandstrände geprägt.\n\nFür Strandliebhaber ist Barril ein echtes verstecktes Juwel. In der Umgebung befinden sich atemberaubende Strände wie Praia D'Francês und Praia Grande, die hervorragende Bedingungen zum Schwimmen und Sonnenbaden bieten. Diese Strände sind weit weniger überlaufen als die auf den stark touristischen Inseln und bieten einen echten, ruhigen Rückzugsort in der Natur.\n\nDie Gastronomie in Barril konzentriert sich auf fangfrische Meeresfrüchte und spiegelt die lokalen Fischereitraditionen wider. Besucher können traditionelle kapverdische Gerichte probieren. Das Dorf ist über lokale Straßen von den Hauptstädten auf São Nicolau aus leicht zu erreichen, was es zu einem perfekten Ausflugsziel macht.", "hu": "A Tarrafal de São Nicolau községben található Barril autentikus zöld-foki tengerparti élményt kínál. Ezt a békés települést lenyűgöző vulkáni hegyek veszik körül, amelyek az Atlanti-óceán mélykék vizébe nyúlnak. A látogatókat vonzza a nyugodt légkör és a régió érintetlen természeti szépsége. A partvonalat zord sziklák és hívogató homokos szakaszok jellemzik.\n\nA strandok szerelmesei számára Barril egy igazi rejtett kincs. A környék olyan lenyűgöző strandoknak ad otthont, mint a Praia D'Francês és a Praia Grande, amelyek kiváló lehetőséget kínálnak az úszásra, a napozásra és az óceáni szellő élvezetére. Ezek a strandok kevésbé zsúfoltak, mint a turisták által sűrűbben látogatott szigeteken lévők, így igazán nyugodt kikapcsolódást nyújtanak a tengerparton.\n\nBarril gasztronómiája a frissen fogott tenger gyümölcseire épül, tükrözve a helyi halászati hagyományokat. A látogatók hagyományos zöld-foki ételeket kóstolhatnak, gyakran helyi zene kíséretében. A falu könnyen megközelíthető a São Nicolau főbb városaiból induló helyi utakon, így ideális célpont egy egynapos kiránduláshoz.", "ro": "Situat în municipalitatea Tarrafal de São Nicolau, Barril oferă o experiență autentică pe coasta Capului Verde. Această așezare pașnică este înconjurată de munți vulcanici impresionanți care coboară în apele albastre ale Oceanului Atlantic. Vizitatorii sunt atrași de atmosfera relaxată și de frumusețea naturală neatinsă a regiunii. Linia de coastă se remarcă prin stânci abrupte și plaje primitoare.\n\nIubitorii de mare vor descoperi că Barril este o adevărată bijuterie ascunsă. Zona găzduiește plaje uimitoare, precum Praia D'Francês și Praia Grande, care oferă oportunități excelente pentru înot, băi de soare și relaxare. Aceste plaje sunt mult mai puțin aglomerate decât cele de pe insulele mai turistice, oferind o evadare cu adevărat liniștită departe de agitația turistică tradițională.\n\nGastronomia din Barril se axează pe fructe de mare proaspete, reflectând tradițiile locale de pescuit. Vizitatorii se pot bucura de mâncăruri tradiționale din Capul Verde. Accesul în sat se face ușor pe drumurile locale din principalele orașe din São Nicolau, fiind o destinație perfectă pentru o excursie de o zi.", "en": "Located in the Tarrafal de São Nicolau municipality, Barril offers an authentic Cape Verdean coastal experience. This peaceful settlement is surrounded by striking volcanic mountains that plunge into the deep blue waters of the Atlantic Ocean. Visitors are drawn to the relaxed atmosphere and the untouched natural beauty of the region. The coastline is defined by rugged cliffs and inviting stretches of sand.\n\nBeach lovers will find Barril to be a hidden gem. The area is home to stunning beaches such as Praia D'Francês and Praia Grande, which offer excellent opportunities for swimming, sunbathing, and enjoying the ocean breeze. These beaches are less crowded than those on the more tourist-heavy islands, providing a tranquil escape for those seeking solitude and natural wonders.\n\nGastronomy in Barril centers around freshly caught seafood, reflecting the local fishing traditions. Visitors can enjoy traditional Cape Verdean dishes, often accompanied by local music. Access to the village is straightforward via local roads from the main towns of São Nicolau, making it a perfect day-trip destination."}, "facts": {"de": ["Liegt auf São Nicolau", "Küste am Atlantischen Ozean", "Verfügt über die Praia D'Francês", "Heimat der Praia Grande", "Vulkanische Landschaften", "Traditionelles Fischerdorf", "Warmes tropisches Klima", "Ruhiges Touristenziel"], "hu": ["São Nicolau szigetén található", "Az Atlanti-óceán partján fekszik", "Itt található a Praia D'Francês", "A Praia Grande otthona", "Vulkáni tájak jellemzik", "Gazdag halászati hagyományok", "Meleg trópusi éghajlat", "Nyugodt turisztikai célpont"], "ro": ["Situat pe insula São Nicolau", "Coasta Oceanului Atlantic", "Include plaja Praia D'Francês", "Găzduiește Praia Grande", "Peisaje vulcanice", "Patrimoniu de sat pescăresc", "Climat tropical cald", "Destinație turistică liniștită"], "en": ["Located in São Nicolau", "Atlantic Ocean coast", "Features Praia D'Francês", "Home to Praia Grande", "Volcanic landscapes", "Fishing village heritage", "Warm tropical climate", "Quiet tourist destination"]}, "image": "/poi-images/cape-verde-barril-cities-v2.webp"},
 {"id": "egypt-marseilia-beach-4-cities-v2", "sights": {
       "de": [
@@ -14435,57 +11260,12 @@ export const afNewV1: POI[] = [
 {"id": "south-africa-pine-haven-cities-v2", "sights": {
       "de": [
             {
-                  "name": "Grootkop",
-                  "text": "Grootkop ist ein markanter Berggipfel in Pine Haven.",
-                  "category": "landmark",
-                  "coords": [
-                        18.390987,
-                        -34.184627
-                  ]
-            },
-            {
-                  "name": "Arendskop",
-                  "text": "Arendskop ist ein bekannter natürlicher Gipfel in Pine Haven.",
-                  "category": "landmark",
-                  "coords": [
-                        18.40041,
-                        -34.201158
-                  ]
-            },
-            {
-                  "name": "North Peak",
-                  "text": "North Peak ist eine prominente Erhebung in Pine Haven.",
-                  "category": "landmark",
-                  "coords": [
-                        18.435779,
-                        -34.202499
-                  ]
-            },
-            {
-                  "name": "Toy Musem",
-                  "text": "Das Toy Museum ist ein faszinierendes kulturelles Museum in Pine Haven.",
-                  "category": "museum",
-                  "coords": [
-                        18.434956,
-                        -34.193266
-                  ]
-            },
-            {
                   "name": "Shark Explorers Dive Shop",
                   "text": "Shark Explorers Dive Shop ist eine beliebte Touristenattraktion in Pine Haven.",
                   "category": "landmark",
                   "coords": [
                         18.429054,
                         -34.19305
-                  ]
-            },
-            {
-                  "name": "Red Hill",
-                  "text": "Red Hill ist ein malerischer Berggipfel in Pine Haven.",
-                  "category": "landmark",
-                  "coords": [
-                        18.418989,
-                        -34.18896
                   ]
             },
             {
@@ -14505,54 +11285,9 @@ export const afNewV1: POI[] = [
                         18.429155,
                         -34.172212
                   ]
-            },
-            {
-                  "name": "Simonstown Museum",
-                  "text": "Das Simon's Town Museum ist ein Museum im historischen Residency-Gebäude in Pine Haven.",
-                  "category": "museum",
-                  "coords": [
-                        18.42757,
-                        -34.191361
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Grootkop",
-                  "text": "A Grootkop egy különálló hegycsúcs Pine Havenben.",
-                  "category": "landmark",
-                  "coords": [
-                        18.390987,
-                        -34.184627
-                  ]
-            },
-            {
-                  "name": "Arendskop",
-                  "text": "Az Arendskop egy jól ismert természetes hegycsúcs Pine Havenben.",
-                  "category": "landmark",
-                  "coords": [
-                        18.40041,
-                        -34.201158
-                  ]
-            },
-            {
-                  "name": "North Peak",
-                  "text": "A North Peak egy kiemelkedő magaslat Pine Havenben.",
-                  "category": "landmark",
-                  "coords": [
-                        18.435779,
-                        -34.202499
-                  ]
-            },
-            {
-                  "name": "Toy Musem",
-                  "text": "A Toy Museum egy lenyűgöző kulturális múzeum Pine Havenben.",
-                  "category": "museum",
-                  "coords": [
-                        18.434956,
-                        -34.193266
-                  ]
-            },
             {
                   "name": "Shark Explorers Dive Shop",
                   "text": "A Shark Explorers Dive Shop egy népszerű turisztikai attrakció Pine Havenben.",
@@ -14560,15 +11295,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         18.429054,
                         -34.19305
-                  ]
-            },
-            {
-                  "name": "Red Hill",
-                  "text": "A Red Hill egy festői hegycsúcs Pine Havenben.",
-                  "category": "landmark",
-                  "coords": [
-                        18.418989,
-                        -34.18896
                   ]
             },
             {
@@ -14588,54 +11314,9 @@ export const afNewV1: POI[] = [
                         18.429155,
                         -34.172212
                   ]
-            },
-            {
-                  "name": "Simonstown Museum",
-                  "text": "A Simon's Town Museum egy múzeum a történelmi Residency épületben Pine Havenben.",
-                  "category": "museum",
-                  "coords": [
-                        18.42757,
-                        -34.191361
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Grootkop",
-                  "text": "Grootkop este un vârf de munte distinct situat în Pine Haven.",
-                  "category": "landmark",
-                  "coords": [
-                        18.390987,
-                        -34.184627
-                  ]
-            },
-            {
-                  "name": "Arendskop",
-                  "text": "Arendskop este un vârf natural binecunoscut situat în Pine Haven.",
-                  "category": "landmark",
-                  "coords": [
-                        18.40041,
-                        -34.201158
-                  ]
-            },
-            {
-                  "name": "North Peak",
-                  "text": "North Peak este o elevație proeminentă aflată în Pine Haven.",
-                  "category": "landmark",
-                  "coords": [
-                        18.435779,
-                        -34.202499
-                  ]
-            },
-            {
-                  "name": "Toy Musem",
-                  "text": "Toy Museum este un muzeu cultural fascinant din Pine Haven.",
-                  "category": "museum",
-                  "coords": [
-                        18.434956,
-                        -34.193266
-                  ]
-            },
             {
                   "name": "Shark Explorers Dive Shop",
                   "text": "Shark Explorers Dive Shop este o atracție turistică populară în Pine Haven.",
@@ -14643,15 +11324,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         18.429054,
                         -34.19305
-                  ]
-            },
-            {
-                  "name": "Red Hill",
-                  "text": "Red Hill este un vârf de munte pitoresc situat în Pine Haven.",
-                  "category": "landmark",
-                  "coords": [
-                        18.418989,
-                        -34.18896
                   ]
             },
             {
@@ -14671,54 +11343,9 @@ export const afNewV1: POI[] = [
                         18.429155,
                         -34.172212
                   ]
-            },
-            {
-                  "name": "Simonstown Museum",
-                  "text": "Simon's Town Museum este un muzeu găzduit în clădirea istorică Residency din Pine Haven.",
-                  "category": "museum",
-                  "coords": [
-                        18.42757,
-                        -34.191361
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "Grootkop",
-                  "text": "Grootkop is a distinct mountain peak located in Pine Haven.",
-                  "category": "landmark",
-                  "coords": [
-                        18.390987,
-                        -34.184627
-                  ]
-            },
-            {
-                  "name": "Arendskop",
-                  "text": "Arendskop is a well-known natural peak situated in Pine Haven.",
-                  "category": "landmark",
-                  "coords": [
-                        18.40041,
-                        -34.201158
-                  ]
-            },
-            {
-                  "name": "North Peak",
-                  "text": "North Peak is a prominent elevation found in Pine Haven.",
-                  "category": "landmark",
-                  "coords": [
-                        18.435779,
-                        -34.202499
-                  ]
-            },
-            {
-                  "name": "Toy Musem",
-                  "text": "The Toy Museum is a fascinating cultural museum in Pine Haven.",
-                  "category": "museum",
-                  "coords": [
-                        18.434956,
-                        -34.193266
-                  ]
-            },
             {
                   "name": "Shark Explorers Dive Shop",
                   "text": "Shark Explorers Dive Shop is a popular tourist attraction located in Pine Haven.",
@@ -14726,15 +11353,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         18.429054,
                         -34.19305
-                  ]
-            },
-            {
-                  "name": "Red Hill",
-                  "text": "Red Hill is a scenic mountain peak located in Pine Haven.",
-                  "category": "landmark",
-                  "coords": [
-                        18.418989,
-                        -34.18896
                   ]
             },
             {
@@ -14754,181 +11372,20 @@ export const afNewV1: POI[] = [
                         18.429155,
                         -34.172212
                   ]
-            },
-            {
-                  "name": "Simonstown Museum",
-                  "text": "Simon's Town Museum is a museum housed in the historic Residency building in Pine Haven.",
-                  "category": "museum",
-                  "coords": [
-                        18.42757,
-                        -34.191361
-                  ]
             }
       ]
 }, "type": "city", "parent": "ZA-WC", "coords": [18.41498, -34.18251], "tier": 2, "name": {"en": "Pine Haven", "de": "Pine Haven", "hu": "Pine Haven", "ro": "Pine Haven"}, "description": {"en": "A peaceful coastal neighborhood in the Western Cape, offering scenic ocean views and proximity to False Bay's calm waters.", "de": "Ein ruhiges Küstenviertel am Westkap, das malerische Ausblicke auf den Ozean und direkte Nähe zur False Bay bietet.", "hu": "Békés tengerparti lakónegyed Nyugat-Fokföldön, amely festői kilátást nyújt a False Bay nyugodt vizeire.", "ro": "Un cartier de coastă liniștit în Western Cape, oferind vederi pitorești la ocean și proximitate față de apele False Bay."}, "descriptionAdvanced": {"en": "Pine Haven is a serene residential coastal node situated in the stunning Western Cape, close to the historic naval town of Simon's Town along the False Bay coastline. Surrounded by dramatic mountain backdrops and the expansive blue of the ocean, this area offers a tranquil escape from the bustling city life of nearby Cape Town. Its strategic location makes it an excellent stopover for travelers exploring the scenic Cape Point Route and the broader Cape Peninsula's rugged beauty.\n\nThe coastal stretch is famous for its relaxed vibe and sheltered swimming areas. Visitors can easily access the white sands of Glencairn Beach, which is highly favored for swimming, dog walking, and kite surfing thanks to its gentle waves and wide shoreline. Nearby, the smaller and more secluded Shelly Beach provides an intimate setting for sunbathing, tidal pool exploration, and quiet relaxation amidst the natural beauty of the rocky coast.\n\nBeyond the beaches, the area is rich in maritime history and natural wonders. Visitors often spot southern right whales from the shoreline during the winter months, while the local culinary scene features a mix of traditional South African dishes and fresh, locally sourced seafood. Accessible via the scenic M4 coastal road or the Southern Line railway, Pine Haven is perfectly positioned for a memorable seaside getaway.", "de": "Pine Haven ist ein ruhiger Wohnort an der Küste des atemberaubenden Westkaps, in der Nähe der historischen Marinestadt Simon's Town an der Küste der False Bay. Umgeben von einer dramatischen Bergkulisse und dem weiten Blau des Ozeans bietet diese Gegend einen ruhigen Rückzugsort vom geschäftigen Stadtleben des nahegelegenen Kapstadts. Die strategische Lage macht es zu einem hervorragenden Zwischenstopp für Reisende auf der Cape Point Route.\n\nDer Küstenstreifen ist berühmt für seine entspannte Atmosphäre und die geschützten Badebereiche. Besucher haben bequemen Zugang zum weißen Sand von Glencairn Beach, der dank seiner sanften Wellen und der breiten Küstenlinie ideal zum Schwimmen, für Spaziergänge und zum Kitesurfen ist. In der Nähe bietet der kleinere Shelly Beach einen intimen Rahmen zum Sonnenbaden, zum Erkunden von Gezeitentümpeln und zur ruhigen Entspannung inmitten der felsigen Küste.\n\nAbgesehen von den Stränden ist die Gegend reich an maritimer Geschichte und Naturwundern. In den Wintermonaten können Besucher von der Küste aus oft Südkaper-Wale beobachten. Die lokale kulinarische Szene bietet eine Mischung aus traditionellen südafrikanischen Gerichten und frischen Meeresfrüchten. Über die landschaftlich reizvolle Küstenstraße M4 ist Pine Haven ideal für einen unvergesslichen Urlaub am Meer positioniert.", "hu": "Pine Haven egy nyugodt tengerparti lakóövezet a lenyűgöző Nyugat-Fokföldön, közel a történelmi Simon's Town haditengerészeti városhoz, a False Bay partvonalán. A drámai hegyvonulatok és az óceán végtelen kéksége által körülvett terület békés menedéket kínál a közeli Fokváros nyüzsgő életéből. Stratégiai elhelyezkedése miatt kiváló megállóhely a festői Cape Point útvonalat és a Fok-félsziget vad szépségét felfedező utazók számára.\n\nA partszakasz a nyugodt légkörről és a védett fürdőhelyekről híres. A látogatók könnyen megközelíthetik a Glencairn Beach fehér homokját, amely a lágy hullámoknak és a széles partvonalnak köszönhetően rendkívül kedvelt úszásra, kutyasétáltatásra és kiteszörfözésre. A közelben a kisebb és eldugottabb Shelly Beach meghitt környezetet biztosít a napozáshoz, az árapály-medencék felfedezéséhez és a csendes pihenéshez a sziklás partvidék természeti szépségei között.\n\nA strandokon túl a környék gazdag tengerészeti történelemben és természeti csodákban. A téli hónapokban a látogatók gyakran figyelhetnek meg déli simabálnákat a partról, míg a helyi gasztronómia a hagyományos dél-afrikai ételek és a friss, helyi tenger gyümölcseinek keverékét kínálja. A festői M4-es parti úton vagy a Southern Line vasútvonalon megközelíthető Pine Haven tökéletes helyen fekszik egy emlékezetes tengerparti kiruccanáshoz.", "ro": "Pine Haven este un nod rezidențial de coastă senin, situat în uimitoarea Western Cape, aproape de orașul naval istoric Simon's Town, de-a lungul coastei False Bay. Înconjurat de fundaluri montane dramatice și de albastrul vast al oceanului, această zonă oferă o evadare liniștită din viața agitată a orașului din apropiere, Cape Town. Locația sa strategică o face o oprire excelentă pentru călătorii care explorează Peninsula Cape.\n\nPorțiunea de coastă este renumită pentru atmosfera sa relaxată și zonele de înot adăpostite. Vizitatorii pot accesa cu ușurință nisipurile albe ale plajei Glencairn Beach, foarte favorizată pentru înot, plimbarea câinilor și kitesurfing, datorită valurilor blânde și țărmului larg. În apropiere, plaja mai mică și mai retrasă Shelly Beach oferă un cadru intim pentru plajă, explorarea piscinelor cu maree și relaxare liniștită în mijlocul coastei stâncoase.\n\nDincolo de plaje, zona este bogată în istorie maritimă și minuni naturale. Vizitatorii observă adesea balene sudice de la țărm în timpul lunilor de iarnă, în timp ce scena culinară locală prezintă un amestec de mâncăruri tradiționale și fructe de mare proaspete. Accesibil prin drumul de coastă M4 sau prin calea ferată Southern Line, Pine Haven este perfect poziționat pentru o evadare memorabilă pe litoral."}, "facts": {"en": ["Located in the Western Cape of South Africa.", "Situated close to the historic Simon's Town.", "Glencairn Beach is popular for kite surfing.", "Shelly Beach offers a quiet, secluded atmosphere.", "Overlooks the calm, slightly warmer waters of False Bay.", "Accessible via the scenic M4 coastal route.", "A great location for winter whale watching.", "Surrounded by the natural beauty of the Cape Peninsula."], "de": ["Befindet sich am Westkap von Südafrika.", "Liegt in der Nähe der historischen Stadt Simon's Town.", "Glencairn Beach ist beliebt zum Kitesurfen.", "Shelly Beach bietet eine ruhige, abgeschiedene Atmosphäre.", "Blickt auf die ruhigen Wasser der False Bay.", "Erreichbar über die malerische Küstenstraße M4.", "Ein großartiger Ort für Walbeobachtungen im Winter.", "Umgeben von der natürlichen Schönheit der Kap-Halbinsel."], "hu": ["A dél-afrikai Nyugat-Fokföldön található.", "A történelmi Simon's Town közelében fekszik.", "A Glencairn Beach a kiteszörfözők kedvence.", "A Shelly Beach csendes, eldugott légkört kínál.", "A False Bay nyugodt vizére néz.", "A festői M4-es tengerparti útvonalon közelíthető meg.", "Kiváló helyszín a téli bálnaleshez.", "A Fok-félsziget páratlan természeti szépsége veszi körül."], "ro": ["Situat în Western Cape din Africa de Sud.", "Amplasat aproape de orașul istoric Simon's Town.", "Glencairn Beach este populară pentru kitesurfing.", "Shelly Beach oferă o atmosferă liniștită și retrasă.", "Are vedere la apele calme din False Bay.", "Accesibil prin ruta de coastă pitorească M4.", "O locație excelentă pentru observarea balenelor de iarnă.", "Înconjurat de frumusețea naturală a Peninsulei Cape."]}, "image": "/poi-images/south-africa-pine-haven-cities-v2.webp"},
 {"id": "benin-azizakoue-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Côté Lagune",
-                  "text": "Côté Lagune ist ein Strandresort in Azizakouè.",
-                  "category": "recreational",
-                  "coords": [
-                        2.036269,
-                        6.314269
-                  ]
-            },
-            {
-                  "name": "Côté Mer",
-                  "text": "Côté Mer ist ein Strandurlaubsziel in Azizakouè.",
-                  "category": "recreational",
-                  "coords": [
-                        2.036014,
-                        6.313094
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Côté Lagune",
-                  "text": "A Côté Lagune egy tengerparti üdülőhely Azizakouè területén.",
-                  "category": "recreational",
-                  "coords": [
-                        2.036269,
-                        6.314269
-                  ]
-            },
-            {
-                  "name": "Côté Mer",
-                  "text": "A Côté Mer egy tengerparti üdülési célpont Azizakouè városában.",
-                  "category": "recreational",
-                  "coords": [
-                        2.036014,
-                        6.313094
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Côté Lagune",
-                  "text": "Côté Lagune este un complex balnear situat în Azizakouè.",
-                  "category": "recreational",
-                  "coords": [
-                        2.036269,
-                        6.314269
-                  ]
-            },
-            {
-                  "name": "Côté Mer",
-                  "text": "Côté Mer este o destinație de stațiune pe malul mării din Azizakouè.",
-                  "category": "recreational",
-                  "coords": [
-                        2.036014,
-                        6.313094
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Côté Lagune",
-                  "text": "Côté Lagune is a beach resort located in Azizakouè.",
-                  "category": "recreational",
-                  "coords": [
-                        2.036269,
-                        6.314269
-                  ]
-            },
-            {
-                  "name": "Côté Mer",
-                  "text": "Côté Mer is a seaside resort destination situated in Azizakouè.",
-                  "category": "recreational",
-                  "coords": [
-                        2.036014,
-                        6.313094
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "BJ-AQ", "coords": [2.03214, 6.32175], "tier": 2, "name": {"en": "Azizakouè", "de": "Azizakouè", "hu": "Azizakouè", "ro": "Azizakouè"}, "description": {"en": "A unique coastal village in Benin located on a narrow strip of land between the Atlantic Ocean and coastal lagoons.", "de": "Ein einzigartiges Küstendorf in Benin auf einem schmalen Landstreifen zwischen dem Atlantik und ruhigen Küstenlagunen.", "hu": "Egyedülálló tengerparti falu Beninben, amely az Atlanti-óceán és a parti lagúnák közötti keskeny földszoroson fekszik.", "ro": "Un sat de coastă unic din Benin, situat pe o fâșie îngustă de pământ între Oceanul Atlantic și lagunele de coastă."}, "descriptionAdvanced": {"en": "Azizakouè is a captivating coastal village in the Atlantique Department of Benin, uniquely situated on a narrow, sandy strip of land. This remarkable geographic position places the village right between the roaring waves of the Atlantic Ocean on one side and the calm, vital coastal lagoons on the other. The settlement is deeply rooted in traditional West African fishing culture, where daily life revolves around the rhythms of the water, offering visitors an authentic and unspoiled cultural experience.\n\nThe beaches in this area are defined by their contrasting environments, giving visitors two completely different aquatic experiences. On the 'Côté Mer' (Sea Side), you will find the powerful and expansive Atlantic coastline, characterized by golden sands and strong ocean breezes, ideal for long walks and taking in the raw power of nature. Conversely, the 'Côté Lagune' (Lagoon Side) offers tranquil, shaded waters, perfect for traditional pirogue rides, observing local fishermen, and enjoying the peaceful mangrove ecosystems that protect the shore.\n\nGastronomy in Azizakouè is heavily reliant on the daily catch, with smoked fish and spicy traditional Beninese stews being local staples. The area is relatively untouched by mass tourism, providing a quiet retreat for adventurous travelers. Access is typically via sandy coastal tracks or by boat across the lagoon system from neighboring towns, making the journey to Azizakouè a beautiful adventure in itself.", "de": "Azizakouè ist ein faszinierendes Küstendorf im Département Atlantique in Benin, das einzigartig auf einem schmalen, sandigen Landstreifen liegt. Diese bemerkenswerte geografische Lage platziert das Dorf genau zwischen den tosenden Wellen des Atlantiks auf der einen Seite und den ruhigen, lebenswichtigen Küstenlagunen auf der anderen. Die Siedlung ist tief in der traditionellen westafrikanischen Fischereikultur verwurzelt und bietet Besuchern ein authentisches kulturelles Erlebnis.\n\nDie Strände in diesem Gebiet zeichnen sich durch ihre kontrastreichen Umgebungen aus und bieten zwei völlig unterschiedliche Erlebnisse. An der 'Côté Mer' (Meeresseite) finden Sie die kraftvolle Atlantikküste, gekennzeichnet durch goldenen Sand und eine starke Meeresbrise, ideal für lange Spaziergänge. Im Gegensatz dazu bietet die 'Côté Lagune' (Lagunenseite) ruhiges, schattiges Wasser, perfekt für traditionelle Pirogenfahrten, die Beobachtung lokaler Fischer und das Genießen der friedlichen Mangroven.\n\nDie Gastronomie in Azizakouè ist stark vom täglichen Fang abhängig, wobei geräucherter Fisch und würzige traditionelle beninische Eintöpfe lokale Grundnahrungsmittel sind. Die Gegend ist vom Massentourismus weitgehend unberührt und bietet einen ruhigen Rückzugsort. Der Zugang erfolgt normalerweise über sandige Küstenwege oder mit dem Boot über das Lagunensystem, was die Reise nach Azizakouè zu einem eigenen Abenteuer macht.", "hu": "Azizakouè egy lenyűgöző tengerparti falu Benin Atlantique megyéjében, amely egyedülálló módon egy keskeny, homokos földsávon helyezkedik el. Ez a figyelemre méltó földrajzi fekvés a falut pontosan az Atlanti-óceán zúgó hullámai és a nyugodt parti lagúnák közé ékeli. A település mélyen gyökerezik a hagyományos nyugat-afrikai halászati kultúrában, ahol a mindennapi élet a víz ritmusa körül forog, így a látogatóknak autentikus és érintetlen kulturális élményben lehet részük.\n\nA környék strandjait a kontrasztos környezet határozza meg, így a látogatók két teljesen eltérő vízi élményt kapnak. A 'Côté Mer' (Tenger felőli oldal) területén a hatalmas atlanti partvidék található, amelyet aranyhomok és erős óceáni szellő jellemez, ideális a hosszú sétákhoz. Ezzel szemben a 'Côté Lagune' (Lagúna felőli oldal) nyugodt, árnyékos vizeket kínál, amely tökéletes a hagyományos pirogue-csónakázáshoz, a helyi halászok megfigyeléséhez és a békés mangrove ökoszisztémák élvezetéhez.\n\nAzizakouè gasztronómiája erősen támaszkodik a napi fogásra, a füstölt hal és a fűszeres hagyományos benini pörköltek helyi alapanyagnak számítanak. A területet a tömegturizmus viszonylag érintetlenül hagyta, így csendes menedéket nyújt a kalandvágyó utazóknak. A megközelítés általában homokos parti utakon vagy a szomszédos városokból a lagúnarendszeren keresztül hajóval történik, ami már maga is kaland.", "ro": "Azizakouè este un sat de coastă captivant din departamentul Atlantique din Benin, situat unic pe o fâșie îngustă și nisipoasă de pământ. Această poziție geografică remarcabilă plasează satul chiar între valurile zgomotoase ale Oceanului Atlantic pe de o parte și lagunele de coastă calme pe de altă parte. Așezarea este adânc înrădăcinată în cultura tradițională de pescuit din Africa de Vest, oferind vizitatorilor o experiență culturală autentică.\n\nPlajele din această zonă sunt definite de mediile lor contrastante. Pe 'Côté Mer' (Partea Mării), veți găsi coasta atlantică puternică și expansivă, caracterizată prin nisipuri aurii și brize puternice ale oceanului, ideale pentru plimbări lungi. Dimpotrivă, 'Côté Lagune' (Partea Lagunei) oferă ape liniștite și umbrite, perfecte pentru plimbările tradiționale cu piroga, observarea pescarilor locali și bucuria ecosistemelor pașnice de mangrove care protejează țărmul.\n\nGastronomia din Azizakouè se bazează puternic pe captura zilnică, peștele afumat și tocanele tradiționale benineze picante fiind alimente de bază locale. Zona este relativ neatinsă de turismul de masă, oferind o retragere liniștită pentru călătorii aventuroși. Accesul se face de obicei pe piste de coastă nisipoase sau cu barca prin sistemul de lagune din orașele învecinate, transformând călătoria într-o aventură frumoasă."}, "facts": {"en": ["Located in the Atlantique Department of Benin.", "Situated on a narrow strip between ocean and lagoon.", "Côté Mer features the powerful Atlantic surf.", "Côté Lagune offers calm, mangrove-lined waters.", "Fishing is the primary source of livelihood.", "Traditional pirogue boats are commonly used.", "Largely untouched by commercial mass tourism.", "Local diet relies heavily on fresh and smoked fish."], "de": ["Befindet sich im Département Atlantique in Benin.", "Liegt auf einem schmalen Streifen zwischen Ozean und Lagune.", "Die Côté Mer bietet die kraftvolle Atlantikbrandung.", "Die Côté Lagune bietet ruhiges, mangrovengesäumtes Wasser.", "Die Fischerei ist die Haupteinnahmequelle.", "Traditionelle Pirogen werden häufig verwendet.", "Weitgehend unberührt vom kommerziellen Massentourismus.", "Die lokale Ernährung basiert stark auf frischem Fisch."], "hu": ["Benin Atlantique megyéjében található.", "Keskeny sávon fekszik az óceán és a lagúna között.", "A Côté Mer a hatalmas atlanti hullámokat kínálja.", "A Côté Lagune nyugodt, mangrovékkal szegélyezett vizű.", "A halászat az elsődleges megélhetési forrás.", "Gyakran használnak hagyományos pirogue csónakokat.", "A tömegturizmus által nagyrészt érintetlen terület.", "A helyi étrend erősen támaszkodik a halakra."], "ro": ["Situat în departamentul Atlantique din Benin.", "Amplasat pe o fâșie îngustă între ocean și lagună.", "Côté Mer prezintă valurile puternice ale Atlanticului.", "Côté Lagune oferă ape calme, mărginite de mangrove.", "Pescuitul este principala sursă de existență.", "Bărcile tradiționale cu pirogă sunt frecvent utilizate.", "În mare parte neatins de turismul de masă comercial.", "Dieta locală se bazează masiv pe pește proaspăt și afumat."]}, "image": "/poi-images/benin-azizakoue-cities-v2.webp"},
 {"id": "cameroon-bakingili-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Bakangili Beach",
-                  "text": "Bakangili Beach ist ein Sandstrand in der Stadt Bakingili.",
-                  "category": "recreational",
-                  "coords": [
-                        9.036029,
-                        4.062748
-                  ]
-            },
-            {
-                  "name": "Tsaben Beach",
-                  "text": "Tsaben Beach ist ein malerischer Küstenort in Bakingili.",
-                  "category": "recreational",
-                  "coords": [
-                        9.044994,
-                        4.059456
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Bakangili Beach",
-                  "text": "A Bakangili Beach egy homokos partszakasz Bakingili városában.",
-                  "category": "recreational",
-                  "coords": [
-                        9.036029,
-                        4.062748
-                  ]
-            },
-            {
-                  "name": "Tsaben Beach",
-                  "text": "A Tsaben Beach egy festői tengerparti helyszín Bakingili területén.",
-                  "category": "recreational",
-                  "coords": [
-                        9.044994,
-                        4.059456
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Bakangili Beach",
-                  "text": "Bakangili Beach este o plajă cu nisip situată în orașul Bakingili.",
-                  "category": "recreational",
-                  "coords": [
-                        9.036029,
-                        4.062748
-                  ]
-            },
-            {
-                  "name": "Tsaben Beach",
-                  "text": "Tsaben Beach este un loc pitoresc de coastă situat în Bakingili.",
-                  "category": "recreational",
-                  "coords": [
-                        9.044994,
-                        4.059456
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Bakangili Beach",
-                  "text": "Bakangili Beach is a sandy waterfront located in the city of Bakingili.",
-                  "category": "recreational",
-                  "coords": [
-                        9.036029,
-                        4.062748
-                  ]
-            },
-            {
-                  "name": "Tsaben Beach",
-                  "text": "Tsaben Beach is a scenic coastal spot situated in Bakingili.",
-                  "category": "recreational",
-                  "coords": [
-                        9.044994,
-                        4.059456
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "CM-SW", "coords": [9.03401, 4.06511], "tier": 2, "name": {"en": "Bakingili", "de": "Bakingili", "hu": "Bakingili", "ro": "Bakingili"}, "description": {"en": "A scenic coastal village in Cameroon situated at the foot of Mount Cameroon, famous for its striking dark volcanic sand beaches.", "de": "Ein malerisches Küstendorf in Kamerun am Fuße des Mount Cameroon, berühmt für seine markanten Strände mit dunklem Vulkansand.", "hu": "Festői tengerparti falu Kamerunban, a Kamerun-hegy lábánál, amely feltűnő sötét vulkáni homokos strandjairól híres.", "ro": "Un sat de coastă pitoresc din Camerun, situat la poalele Muntelui Camerun, renumit pentru plajele sale cu nisip vulcanic întunecat."}, "descriptionAdvanced": {"en": "Bakingili is a striking coastal village located in the South West Region of Cameroon, dramatically positioned along the Atlantic coastline right at the verdant foothills of Mount Cameroon. The village represents a beautiful collision of dense, lush tropical rainforest and the vast ocean, creating a landscape that is both wild and breathtakingly beautiful. The area's volcanic origins heavily influence its unique geography, drawing eco-tourists and nature enthusiasts from around the world.\n\nThe coastline is renowned for its distinctive dark volcanic sands, a direct result of ancient and modern lava flows meeting the sea. Visitors can explore the famous Bakangili Beach, a sweeping stretch of black sand that provides a surreal contrast to the bright blue waters of the Gulf of Guinea. Nearby, Tsaben Beach offers a quieter, more secluded spot for relaxation and beachcombing, surrounded by dense palm groves and the sounds of tropical birdlife.\n\nLocal life in Bakingili is relaxed, with a strong focus on fishing and agriculture thanks to the rich volcanic soil. Visitors can enjoy freshly caught fish prepared with vibrant Cameroonian spices, often served with plantains or cassava. The village is accessible via the coastal road leading from Limbe, offering a scenic drive through rubber plantations and coastal forests, making it an unmissable stop for those exploring the region.", "de": "Bakingili ist ein markantes Küstendorf in der Region Südwest in Kamerun, das dramatisch an der Atlantikküste direkt an den grünen Ausläufern des Mount Cameroon liegt. Das Dorf stellt eine wunderschöne Kollision aus dichtem, üppigem tropischem Regenwald und dem weiten Ozean dar und schafft eine Landschaft, die sowohl wild als auch atemberaubend schön ist. Die vulkanischen Ursprünge der Gegend ziehen Ökotouristen und Naturliebhaber an.\n\nDie Küste ist berühmt für ihren charakteristischen dunklen Vulkansand, ein direktes Ergebnis alter und moderner Lavaströme, die auf das Meer treffen. Besucher können den berühmten Bakangili Beach erkunden, einen weiten Abschnitt mit schwarzem Sand, der einen surrealen Kontrast zum Wasser des Golfs von Guinea bildet. In der Nähe bietet der Tsaben Beach einen ruhigeren, abgeschiedeneren Ort zur Entspannung, umgeben von dichten Palmenhainen.\n\nDas lokale Leben in Bakingili ist entspannt, mit einem starken Fokus auf Fischerei und Landwirtschaft dank des reichen Vulkanbodens. Besucher können frisch gefangenen Fisch genießen, der mit kamerunischen Gewürzen zubereitet wird. Das Dorf ist über die Küstenstraße von Limbe aus erreichbar und bietet eine malerische Fahrt durch Kautschukplantagen und Küstenwälder, was es zu einem unumgänglichen Stopp in der Region macht.", "hu": "Bakingili egy feltűnő tengerparti falu Kamerun délnyugati régiójában, amely drámai módon az Atlanti-óceán partvonalán, közvetlenül a Kamerun-hegy zöldellő lábánál fekszik. A falu a sűrű, buja trópusi esőerdő és a hatalmas óceán gyönyörű találkozását képviseli, olyan tájat hozva létre, amely egyszerre vad és lélegzetelállítóan gyönyörű. A terület vulkáni eredete erősen befolyásolja egyedi földrajzát, vonzva az ökoturistákat és a természet szerelmeseit a világ minden tájáról.\n\nA partvidék jellegzetes sötét vulkáni homokjáról híres, amely a tengerrel találkozó ősi és modern lávafolyamok közvetlen eredménye. A látogatók felfedezhetik a híres Bakangili Beach-et, egy kiterjedt fekete homokos partszakaszt, amely szürreális kontrasztot alkot a Guineai-öböl ragyogó kék vizével. A közelben a Tsaben Beach csendesebb, eldugottabb helyet kínál a pihenésre, sűrű pálmaligetekkel és a trópusi madárvilág hangjaival körülvéve.\n\nA helyi élet Bakingiliben nyugodt, a gazdag vulkáni talajnak köszönhetően a halászatra és a mezőgazdaságra összpontosít. A látogatók élvezhetik a frissen fogott, élénk kameruni fűszerekkel elkészített halakat, amelyeket gyakran főzőbanánnal vagy maniókával szolgálnak fel. A falu a Limbe felől vezető tengerparti úton közelíthető meg, festői utazást kínálva a gumiültetvényeken és a part menti erdőkön keresztül.", "ro": "Bakingili este un sat de coastă uimitor situat în Regiunea de Sud-Vest a Camerunului, poziționat dramatic de-a lungul coastei atlantice, chiar la poalele verzi ale Muntelui Camerun. Satul reprezintă o coliziune frumoasă a pădurii tropicale dense și oceanul vast, creând un peisaj care este atât sălbatic, cât și uluitor de frumos. Originile vulcanice ale zonei îi influențează puternic geografia unică.\n\nCoasta este renumită pentru nisipurile sale vulcanice întunecate, un rezultat direct al fluxurilor de lavă vechi și moderne care se întâlnesc cu marea. Vizitatorii pot explora celebra Bakangili Beach, o întindere vastă de nisip negru care oferă un contrast ireal cu apele albastre din Golful Guineei. În apropiere, Tsaben Beach oferă un loc mai liniștit și mai retras pentru relaxare, înconjurat de palmieri denși.\n\nViața locală din Bakingili este relaxată, cu un accent puternic pe pescuit și agricultură datorită solului vulcanic bogat. Vizitatorii se pot bucura de pește proaspăt prins, preparat cu condimente vibrante cameruneze. Satul este accesibil prin drumul de coastă care duce de la Limbe, oferind o călătorie pitorească prin plantațiile de cauciuc și pădurile de coastă, făcându-l o oprire de neratat."}, "facts": {"en": ["Located at the foot of Mount Cameroon.", "Famous for its striking black volcanic sand.", "Bakangili Beach offers unique dramatic landscapes.", "Tsaben Beach is a quiet, secluded palm-lined spot.", "The area features lush tropical rainforests.", "Accessible via a scenic drive from Limbe.", "Economy driven by fishing and agriculture.", "A popular spot for eco-tourists and nature lovers."], "de": ["Liegt am Fuße des Mount Cameroon.", "Berühmt für seinen markanten schwarzen Vulkansand.", "Bakangili Beach bietet einzigartige Landschaften.", "Tsaben Beach ist ein ruhiger, palmengesäumter Ort.", "Das Gebiet verfügt über üppige tropische Regenwälder.", "Erreichbar über eine malerische Fahrt von Limbe.", "Die Wirtschaft ist von Fischerei und Landwirtschaft geprägt.", "Ein beliebter Ort für Ökotouristen und Naturliebhaber."], "hu": ["A Kamerun-hegy lábánál található.", "Feltűnő fekete vulkáni homokjáról híres.", "A Bakangili Beach egyedi, drámai tájat kínál.", "A Tsaben Beach egy csendes, pálmafás, eldugott hely.", "A területet buja trópusi esőerdők jellemzik.", "Festői úton közelíthető meg Limbe felől.", "A gazdaság a halászatra és a mezőgazdaságra épül.", "Népszerű célpont az ökoturisták és természetvédők körében."], "ro": ["Situat la poalele Muntelui Camerun.", "Renumit pentru nisipul vulcanic negru izbitor.", "Bakangili Beach oferă peisaje dramatice unice.", "Tsaben Beach este un loc liniștit, mărginit de palmieri.", "Zona are păduri tropicale tropicale luxuriante.", "Accesibil printr-o plimbare pitorească de la Limbe.", "Economie condusă de pescuit și agricultură.", "Un loc popular pentru eco-turiști și iubitorii de natură."]}, "image": "/poi-images/cameroon-bakingili-cities-v2.webp"},
 {"id": "tunisia-el-groa-cities-v2", "sights": {
       "de": [
@@ -14966,24 +11423,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         10.805747,
                         33.789843
-                  ]
-            },
-            {
-                  "name": "Mosquée Mourou",
-                  "text": "Die Mosquée Mourou ist eine Attraktion in El Groa.",
-                  "category": "landmark",
-                  "coords": [
-                        10.785711,
-                        33.792781
-                  ]
-            },
-            {
-                  "name": "Ben Byan Mosque",
-                  "text": "Die Ben Byan Mosque ist eine bekannte Sehenswürdigkeit in El Groa.",
-                  "category": "landmark",
-                  "coords": [
-                        10.816653,
-                        33.811891
                   ]
             }
       ],
@@ -15023,24 +11462,6 @@ export const afNewV1: POI[] = [
                         10.805747,
                         33.789843
                   ]
-            },
-            {
-                  "name": "Mosquée Mourou",
-                  "text": "A Mosquée Mourou egy látványosság El Groa városában.",
-                  "category": "landmark",
-                  "coords": [
-                        10.785711,
-                        33.792781
-                  ]
-            },
-            {
-                  "name": "Ben Byan Mosque",
-                  "text": "A Ben Byan Mosque egy jól ismert látványosság El Groa területén.",
-                  "category": "landmark",
-                  "coords": [
-                        10.816653,
-                        33.811891
-                  ]
             }
       ],
       "ro": [
@@ -15079,82 +11500,9 @@ export const afNewV1: POI[] = [
                         10.805747,
                         33.789843
                   ]
-            },
-            {
-                  "name": "Mosquée Mourou",
-                  "text": "Mosquée Mourou este o atracție în El Groa.",
-                  "category": "landmark",
-                  "coords": [
-                        10.785711,
-                        33.792781
-                  ]
-            },
-            {
-                  "name": "Ben Byan Mosque",
-                  "text": "Ben Byan Mosque este un punct de interes bine cunoscut situat în El Groa.",
-                  "category": "landmark",
-                  "coords": [
-                        10.816653,
-                        33.811891
-                  ]
             }
       ],
-      "en": [
-            {
-                  "name": "Jamaa Louta Berdaoui mosquée",
-                  "text": "Jamaa Louta Berdaoui mosquée is a local attraction situated in El Groa.",
-                  "category": "landmark",
-                  "coords": [
-                        10.770657,
-                        33.787914
-                  ]
-            },
-            {
-                  "name": "El Maearis mosquée",
-                  "text": "El Maearis mosquée is a significant cultural attraction located in El Groa.",
-                  "category": "landmark",
-                  "coords": [
-                        10.789296,
-                        33.818882
-                  ]
-            },
-            {
-                  "name": "Sidi Aïch mosquée",
-                  "text": "Sidi Aïch mosquée is a place of interest located in El Groa.",
-                  "category": "landmark",
-                  "coords": [
-                        10.798203,
-                        33.789467
-                  ]
-            },
-            {
-                  "name": "Ouelhi Mosque",
-                  "text": "Ouelhi Mosque is a religious attraction found in El Groa.",
-                  "category": "landmark",
-                  "coords": [
-                        10.805747,
-                        33.789843
-                  ]
-            },
-            {
-                  "name": "Mosquée Mourou",
-                  "text": "Mosquée Mourou is an architectural attraction in El Groa.",
-                  "category": "landmark",
-                  "coords": [
-                        10.785711,
-                        33.792781
-                  ]
-            },
-            {
-                  "name": "Ben Byan Mosque",
-                  "text": "Ben Byan Mosque is a well-known point of interest situated in El Groa.",
-                  "category": "landmark",
-                  "coords": [
-                        10.816653,
-                        33.811891
-                  ]
-            }
-      ]
+      "en": []
 }, "type": "city", "name": {"en": "El Groa", "de": "El Groa", "hu": "El Groa", "ro": "El Groa"}, "coords": [10.78996, 33.80824], "parent": "TN-82", "tier": 2, "description": {"en": "El Groa is a charming coastal village on Djerba island, known for its tranquil atmosphere, picturesque landscapes, and the beautiful Sidi Jmour beach.", "de": "El Groa ist ein charmantes Küstendorf auf der Insel Djerba, bekannt für seine ruhige Atmosphäre, malerische Landschaften und den Strand Sidi Jmour.", "hu": "El Groa egy bájos tengerparti falu Djerba szigetén, amely nyugodt légköréről, festői tájairól és a gyönyörű Sidi Jmour strandról ismert.", "ro": "El Groa este un sat de coastă fermecător de pe insula Djerba, cunoscut pentru atmosfera sa liniștită, peisajele pitorești și frumoasa plajă Sidi Jmour."}, "descriptionAdvanced": {"en": "El Groa is a hidden gem located on the western coast of Djerba island in Tunisia. Unlike the heavily commercialized eastern tourist zones, El Groa offers a deeply authentic and serene Mediterranean experience. The village is characterized by its traditional Djerbian architecture, featuring whitewashed buildings with bright blue doors that contrast beautifully against the arid landscape. Visitors come here to escape the crowds and immerse themselves in the quiet rhythm of local life, where agriculture and small-scale fishing remain central.\n\nThe main attraction of the coastline near El Groa is the stunning Sidi Jmour beach. Famous for its pristine natural beauty, Sidi Jmour features rocky outcrops interspersed with soft sandy coves. The beach is home to a picturesque small mosque right on the water's edge, creating a breathtaking backdrop, especially during sunset. The calm, shallow waters of the Mediterranean make it perfect for relaxing swims and long, contemplative walks along the shore.\n\nGastronomy in El Groa highlights the freshest seafood and traditional Tunisian spices, often served in family-run eateries. Reaching the village is straightforward via Djerba's road network, often involving a scenic drive through olive groves and palm trees. It is a perfect destination for independent travelers seeking culture and natural beauty.", "de": "El Groa ist ein verborgenes Juwel an der Westküste der Insel Djerba in Tunesien. Im Gegensatz zu den stark kommerzialisierten östlichen Touristenzonen bietet El Groa ein zutiefst authentisches und ruhiges mediterranes Erlebnis. Das Dorf zeichnet sich durch seine traditionelle djerbische Architektur aus, mit weiß getünchten Gebäuden und leuchtend blauen Türen. Besucher kommen hierher, um den Menschenmassen zu entfliehen und in den ruhigen Rhythmus des lokalen Lebens einzutauchen, in dem Landwirtschaft und Kleinfischerei im Mittelpunkt stehen.\n\nDie Hauptattraktion der Küste bei El Groa ist der atemberaubende Strand Sidi Jmour. Sidi Jmour ist berühmt für seine unberührte natürliche Schönheit und bietet felsige Vorsprünge, die mit weichen Sandbuchten durchsetzt sind. Am Strand befindet sich eine malerische kleine Moschee direkt am Wasser, die besonders bei Sonnenuntergang eine atemberaubende Kulisse bietet. Das ruhige, flache Wasser des Mittelmeers ist ideal für entspannendes Schwimmen und lange Spaziergänge am Ufer.\n\nDie Gastronomie in El Groa hebt die frischesten Meeresfrüchte und traditionellen tunesischen Gewürze hervor. Das Dorf ist über das Straßennetz von Djerba leicht zu erreichen, oft über eine malerische Fahrt durch Olivenhaine. Es ist ein perfektes Ziel für Reisende, die echte Kultur und Naturlandschaften suchen.", "hu": "El Groa egy rejtett gyöngyszem Tunéziában, Djerba szigetének nyugati partján. A keleti, erősen kereskedelmi célú turisztikai zónákkal ellentétben El Groa mélyen autentikus és nyugodt mediterrán élményt kínál. A falut a hagyományos djerbai építészet jellemzi, fehérre meszelt épületekkel és élénk kék ajtókkal, amelyek gyönyörű kontrasztot alkotnak a száraz tájjal. A látogatók azért jönnek ide, hogy elmeneküljenek a tömeg elől, és elmerüljenek a helyi élet csendes ritmusában, ahol a halászat továbbra is központi szerepet játszik.\n\nAz El Groa közelében lévő partvidék fő vonzereje a lenyűgöző Sidi Jmour strand. Az érintetlen természeti szépségéről híres Sidi Jmour sziklás kiszögellésekkel és puha homokos öblökkel rendelkezik. A strandon egy festői kis mecset található közvetlenül a vízparton, amely lélegzetelállító hátteret biztosít, különösen naplementekor. A Földközi-tenger nyugodt, sekély vize tökéletes a pihentető úszáshoz és a part menti hosszú sétákhoz.\n\nAz El Groa-i gasztronómia a legfrissebb tenger gyümölcseit és a hagyományos tunéziai fűszereket helyezi előtérbe, amelyeket gyakran családi vendéglőkben szolgálnak fel. A falu könnyen megközelíthető Djerba úthálózatán keresztül, az út gyakran festői olajfa- és pálmaligeteken vezet át. Tökéletes úti cél a kultúrát és csendet kereső utazók számára.", "ro": "El Groa este o bijuterie ascunsă situată pe coasta de vest a insulei Djerba din Tunisia. Spre deosebire de zonele turistice estice puternic comercializate, El Groa oferă o experiență mediteraneană profund autentică și senină. Satul se caracterizează prin arhitectura sa tradițională djerbiană, cu clădiri văruite în alb și uși albastru strălucitor. Vizitatorii vin aici pentru a scăpa de mulțimi și a se cufunda în ritmul liniștit al vieții locale, unde pescuitul la scară mică rămâne central.\n\nPrincipala atracție a coastei de lângă El Groa este uimitoarea plajă Sidi Jmour. Faimoasă pentru frumusețea sa naturală curată, Sidi Jmour prezintă aflorimente stâncoase presărate cu golfuri de nisip moale. Plaja găzduiește o mică moschee pitorească chiar pe malul apei, creând un fundal uluitor, mai ales la apusul soarelui. Apele calme și puțin adânci ale Mediteranei sunt perfecte pentru înot relaxant și plimbări lungi pe țărm.\n\nGastronomia din El Groa evidențiază cele mai proaspete fructe de mare și condimente tradiționale tunisiene, adesea servite în restaurante de familie. Ajungerea în sat este simplă prin rețeaua de drumuri din Djerba, implicând adesea o plimbare pitorească prin plantații de măslini. Este o destinație perfectă pentru călătorii independenți."}, "facts": {"en": ["Located on Djerba island", "Western coast of Tunisia", "Traditional Djerbian architecture", "Home to Sidi Jmour beach", "Features a seaside mosque", "Stunning sunset views", "Fishing and agriculture community", "Calm Mediterranean waters"], "de": ["Liegt auf der Insel Djerba", "Westküste Tunesiens", "Traditionelle djerbische Architektur", "Heimat des Strandes Sidi Jmour", "Bietet eine Moschee am Meer", "Atemberaubende Sonnenuntergänge", "Fischerei- und Landwirtschaftsgemeinde", "Ruhiges Wasser des Mittelmeers"], "hu": ["Djerba szigetén található", "Tunézia nyugati partján fekszik", "Hagyományos djerbai építészet", "A Sidi Jmour strand otthona", "Tengerparti mecsettel rendelkezik", "Lenyűgöző naplementés kilátás", "Halász- és mezőgazdasági közösség", "Nyugodt Földközi-tengeri vizek"], "ro": ["Situat pe insula Djerba", "Coasta de vest a Tunisiei", "Arhitectură tradițională djerbiană", "Găzduiește plaja Sidi Jmour", "Prezintă o moschee pe malul mării", "Vederi uimitoare la apus", "Comunitate de pescari și agricultori", "Ape mediteraneene calme"]}, "image": "/poi-images/tunisia-el-groa-cities-v2.webp"},
 {"id": "libya-zurayqi-cities-v2", "sights": {
       "de": [
@@ -15773,158 +12121,10 @@ export const afNewV1: POI[] = [
       ]
 }, "type": "city", "parent": "EG-BA", "coords": [34.63376, 25.53171], "tier": 2, "name": {"de": "Port Ghalib", "hu": "Port Ghalib", "ro": "Port Ghalib", "en": "Port Ghalib"}, "description": {"de": "Port Ghalib ist eine luxuriöse Marina- und Resortstadt am Roten Meer, berühmt für exzellente Tauchspots.", "hu": "Port Ghalib egy luxus kikötő- és üdülőváros a Vörös-tenger partján, amely kiváló merülőhelyeiről híres.", "ro": "Port Ghalib este un oraș-stațiune și port de lux la Marea Roșie, renumit pentru locurile sale excelente de scufundări.", "en": "Port Ghalib is a luxury marina and resort town on the Red Sea, famous for its excellent diving spots."}, "descriptionAdvanced": {"de": "Port Ghalib liegt an der atemberaubenden Küste des Roten Meeres in Ägypten und ist eine erstklassige Destination für Yachten, Taucher und Erholungssuchende. Die Stadt bietet eine wunderschöne Marina-Promenade und Zugang zu einigen der beeindruckendsten Korallenriffe der Welt. Die Strände der großen Resorts, wie das Concorde Moreen Beach Resort & SPA und The Three Corners Happy Life Beach Resort, garantieren puren Luxus direkt am Meer.\n\nDie Strände in Port Ghalib zeichnen sich durch feinen Sand und einen direkten Zugang zu bunten Unterwasserwelten aus. Besonders die Hausriffe des Concorde Moreen und des Three Corners Resorts sind bei Schnorchlern und Tauchern äußerst beliebt. Das warme Wasser des Roten Meeres sorgt das ganze Jahr über für perfekte Badebedingungen.\n\nDas kulinarische Angebot in Port Ghalib ist vielfältig und reicht von frischen Meeresfrüchten bis hin zu internationaler Küche, die entlang der belebten Marina serviert wird. Die Stadt ist sehr gut erreichbar, da der internationale Flughafen Marsa Alam nur wenige Autominuten entfernt liegt, was Port Ghalib zu einem bequemen und luxuriösen Urlaubsziel macht.", "hu": "Port Ghalib a Vörös-tenger lenyűgöző partvidékén fekszik, és egy prémium kategóriás jachtkikötő, valamint népszerű üdülőközpont. A város elegáns parti sétányával és a világ legszebb korallzátonyaihoz való közelségével vonzza a turistákat. A nagy szállodák tengerpartjai, mint a Concorde Moreen Beach Resort & SPA és a The Three Corners Happy Life Beach Resort, közvetlen tengerkapcsolatot és luxust kínálnak.\n\nPort Ghalib strandjai finom homokosak, és sok helyen közvetlenül a partról be lehet úszni a színes tengeri élővilágot rejtő zátonyokhoz. A Concorde Moreen és a Three Corners szállodák saját partjai különösen kedveltek a sznorkelezők és búvárok körében. A Vörös-tenger kellemesen meleg vize egész évben ideális fürdőzési lehetőséget biztosít.\n\nA gasztronómiai élményekért a kikötő menti éttermek felelnek, ahol friss tengeri fogások és nemzetközi ételek egyaránt megtalálhatók. Port Ghalib megközelítése rendkívül egyszerű, mivel a Marsa Alam nemzetközi repülőtér mindössze néhány percnyi autóútra található, így gyorsan és kényelmesen elérhető ez a trópusi paradicsom.", "ro": "Port Ghalib este situat pe coasta uimitoare a Mării Roșii din Egipt, fiind o destinație de top pentru iahturi, scafandri și turiști în căutare de relaxare. Orașul se mândrește cu o promenadă elegantă pe malul mării și acces la unele dintre cele mai spectaculoase recife de corali. Plajele resorturilor de top, cum ar fi Concorde Moreen Beach Resort & SPA și The Three Corners Happy Life Beach Resort, oferă un lux absolut la malul mării.\n\nPlajele din Port Ghalib au nisip fin și oferă acces direct la o lume subacvatică vibrantă. Recifele de casă ale resorturilor Concorde Moreen și Three Corners sunt extrem de populare printre iubitorii de snorkeling și scufundări. Apele calde ale Mării Roșii asigură condiții perfecte pentru înot pe tot parcursul anului.\n\nOferta culinară din Port Ghalib este diversă, de la fructe de mare proaspete până la preparate internaționale, servite de-a lungul marinei pline de viață. Orașul este foarte ușor accesibil, aeroportul internațional Marsa Alam fiind la doar câteva minute de mers cu mașina, transformând Port Ghalib într-o destinație convenabilă și luxoasă.", "en": "Port Ghalib is nestled along the stunning Red Sea coast of Egypt, serving as a premier destination for yachting enthusiasts, divers, and vacationers seeking luxury. The town features a beautiful marina promenade and direct access to some of the world's most impressive coral reefs. The beachfronts of major resorts, such as the Concorde Moreen Beach Resort & SPA and The Three Corners Happy Life Beach Resort, guarantee sheer coastal indulgence.\n\nThe beaches in Port Ghalib are characterized by soft sand and immediate access to vibrant underwater marine life. The house reefs located at both the Concorde Moreen and the Three Corners resorts are highly celebrated among snorkelers and scuba divers. The year-round warm waters of the Red Sea provide perfect swimming and diving conditions at any time.\n\nCulinary experiences in Port Ghalib are diverse, featuring everything from fresh seafood catches to international dining along the lively marina. The town is incredibly easy to reach, with the Marsa Alam International Airport situated just a few minutes' drive away, making Port Ghalib a highly convenient and luxurious tropical getaway."}, "facts": {"de": ["Luxuriöse Marina am Roten Meer", "Paradies für Taucher und Schnorchler", "Concorde Moreen Beach Resort liegt hier", "The Three Corners Happy Life Beach Resort", "Ganzjährig warmes Klima", "Lebhafte Marina-Promenade", "Nahe Marsa Alam Flughafen", "Bekannt für intakte Korallenriffe"], "hu": ["Luxus jachtkikötő a Vörös-tengernél", "Búvárok és sznorkelezők paradicsoma", "Itt van a Concorde Moreen Beach Resort", "A The Three Corners Happy Life strandja", "Egész évben meleg, napos éghajlat", "Pezsgő kikötői sétány", "Közel van a Marsa Alam repülőtérhez", "Érintetlen korallzátonyairól híres"], "ro": ["Marină de lux la Marea Roșie", "Paradis pentru scafandri și snorkeling", "Găzduiește Concorde Moreen Beach Resort", "Plaja The Three Corners Happy Life", "Climă caldă pe tot parcursul anului", "Promenadă animată în port", "Aproape de aeroportul Marsa Alam", "Renumit pentru recifele de corali"], "en": ["Luxury marina on the Red Sea", "Paradise for divers and snorkelers", "Home to Concorde Moreen Beach Resort", "Features The Three Corners Happy Life Beach", "Year-round warm and sunny climate", "Lively marina and promenade", "Close to Marsa Alam International Airport", "Famous for pristine coral reefs"]}, "image": "/poi-images/egypt-port-ghalib-cities-v2.webp"},
 {"id": "tunisia-akouda-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "SAM Animation",
-                  "text": "SAM Animation ist ein Kunstzentrum in Akouda.",
-                  "category": "cultural",
-                  "coords": [
-                        10.597834,
-                        35.858175
-                  ]
-            },
-            {
-                  "name": "Hadhoud",
-                  "text": "Hadhoud ist ein Freizeitpark in der Stadt Akouda.",
-                  "category": "recreational",
-                  "coords": [
-                        10.599346,
-                        35.867539
-                  ]
-            },
-            {
-                  "name": "Le Monde d'Aquarium",
-                  "text": "Le Monde d'Aquarium ist ein Aquarium in Akouda.",
-                  "category": "recreational",
-                  "coords": [
-                        10.585182,
-                        35.851505
-                  ]
-            },
-            {
-                  "name": "Centre culturel de Hammam-Sousse",
-                  "text": "Das Centre culturel de Hammam-Sousse ist ein Kunstzentrum in Akouda.",
-                  "category": "cultural",
-                  "coords": [
-                        10.595943,
-                        35.857104
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "SAM Animation",
-                  "text": "A SAM Animation egy művészeti központ Akouda városában.",
-                  "category": "cultural",
-                  "coords": [
-                        10.597834,
-                        35.858175
-                  ]
-            },
-            {
-                  "name": "Hadhoud",
-                  "text": "A Hadhoud egy vidámpark Akouda városában.",
-                  "category": "recreational",
-                  "coords": [
-                        10.599346,
-                        35.867539
-                  ]
-            },
-            {
-                  "name": "Le Monde d'Aquarium",
-                  "text": "A Le Monde d'Aquarium egy akvárium Akouda városában.",
-                  "category": "recreational",
-                  "coords": [
-                        10.585182,
-                        35.851505
-                  ]
-            },
-            {
-                  "name": "Centre culturel de Hammam-Sousse",
-                  "text": "A Centre culturel de Hammam-Sousse egy művészeti központ Akouda városában.",
-                  "category": "cultural",
-                  "coords": [
-                        10.595943,
-                        35.857104
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "SAM Animation",
-                  "text": "SAM Animation este un centru de arte situat în Akouda.",
-                  "category": "cultural",
-                  "coords": [
-                        10.597834,
-                        35.858175
-                  ]
-            },
-            {
-                  "name": "Hadhoud",
-                  "text": "Hadhoud este un parc de distracții din orașul Akouda.",
-                  "category": "recreational",
-                  "coords": [
-                        10.599346,
-                        35.867539
-                  ]
-            },
-            {
-                  "name": "Le Monde d'Aquarium",
-                  "text": "Le Monde d'Aquarium este un acvariu situat în Akouda.",
-                  "category": "recreational",
-                  "coords": [
-                        10.585182,
-                        35.851505
-                  ]
-            },
-            {
-                  "name": "Centre culturel de Hammam-Sousse",
-                  "text": "Centre culturel de Hammam-Sousse este un centru de arte aflat în Akouda.",
-                  "category": "cultural",
-                  "coords": [
-                        10.595943,
-                        35.857104
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "SAM Animation",
-                  "text": "SAM Animation is an arts centre located in Akouda.",
-                  "category": "cultural",
-                  "coords": [
-                        10.597834,
-                        35.858175
-                  ]
-            },
-            {
-                  "name": "Hadhoud",
-                  "text": "Hadhoud is a theme park located in the city of Akouda.",
-                  "category": "recreational",
-                  "coords": [
-                        10.599346,
-                        35.867539
-                  ]
-            },
-            {
-                  "name": "Le Monde d'Aquarium",
-                  "text": "Le Monde d'Aquarium is an aquarium situated in Akouda.",
-                  "category": "recreational",
-                  "coords": [
-                        10.585182,
-                        35.851505
-                  ]
-            },
-            {
-                  "name": "Centre culturel de Hammam-Sousse",
-                  "text": "Centre culturel de Hammam-Sousse is an arts centre found in Akouda.",
-                  "category": "cultural",
-                  "coords": [
-                        10.595943,
-                        35.857104
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "TN-51", "coords": [10.56784, 35.86573], "tier": 2, "name": {"de": "Akouda", "hu": "Akouda", "ro": "Akouda", "en": "Akouda"}, "description": {"de": "Akouda ist eine charmante tunesische Küstenstadt in der Nähe von Sousse, bekannt für schöne Strände und Geschichte.", "hu": "Akouda egy bájos tunéziai tengerparti város Sousse közelében, amely szép strandjairól és történelméről ismert.", "ro": "Akouda este un oraș de coastă fermecător din Tunisia, lângă Sousse, cunoscut pentru plajele sale frumoase și istorie.", "en": "Akouda is a charming Tunisian coastal town near Sousse, known for its beautiful beaches and rich history."}, "descriptionAdvanced": {"de": "Akouda liegt an der malerischen Ostküste Tunesiens, nur eine kurze Fahrt von der pulsierenden Stadt Sousse entfernt. Die Stadt kombiniert charmante traditionelle Architektur mit der Nähe zu einigen der besten Strände der Region. Besucher schätzen besonders den Kantaoui Beach und den belebten Strandabschnitt M'PARADISE, die beide feinen Sand und klares Mittelmeerwasser bieten.\n\nDie Küste rund um Akouda ist ideal für Sonnenanbeter und Wassersportler. Der nahegelegene Kantaoui Beach ist breit und familienfreundlich, während das M'PARADISE eine entspannte Strandclub-Atmosphäre verspricht. Die Strände sind gesäumt von Palmen und bieten hervorragende Bedingungen zum Schwimmen und Entspannen in der nordafrikanischen Sonne.\n\nIn Akouda können Gäste authentische tunesische Küche genießen, wobei Couscous und frische Meeresfrüchte ganz oben auf der Speisekarte stehen. Die Anbindung ist hervorragend: Akouda ist leicht über die Autobahn von Tunis oder Sousse aus erreichbar, und der internationale Flughafen Monastir liegt ebenfalls in bequemer Reichweite.", "hu": "Akouda Tunézia keleti partvidékén fekszik, mindössze rövid távolságra a nyüzsgő Sousse városától. A település ötvözi a hagyományos tunéziai építészet báját a régió legjobb partszakaszainak közelségével. A tenger szerelmesei különösen a népszerű Kantaoui Beach-et és az élettel teli M'PARADISE strandot kedvelik, amelyek finom homokkal és tiszta földközi-tengeri vízzel csábítanak.\n\nAz Akouda körüli partszakasz tökéletes választás a napozók és a vízi sportok kedvelői számára. A közeli Kantaoui Beach széles, családbarát strand, míg a M'PARADISE inkább egy fiatalos, modern strandklub hangulatát kínálja. A pálmafákkal övezett partok kiváló körülményeket biztosítanak egy pihentető tengerparti nyaraláshoz az észak-afrikai napsütésben.\n\nA gasztronómia terén Akouda autentikus tunéziai ízeket kínál, a friss tengeri halak és a tradicionális kuszkusz kihagyhatatlanok. A város megközelítése nagyon egyszerű, hiszen könnyen elérhető a Tuniszból és Sousse-ból érkező autópályán, továbbá a Monastir nemzetközi repülőtér is kényelmes közelségben található.", "ro": "Akouda este situat pe coasta de est pitorească a Tunisiei, la o scurtă distanță cu mașina de vibrantul oraș Sousse. Orașul combină arhitectura tradițională tunisiană cu apropierea de unele dintre cele mai bune plaje din regiune. Vizitatorii apreciază în special plaja Kantaoui și zona plină de viață M'PARADISE, ambele oferind nisip fin și ape mediteraneene limpezi.\n\nCoasta din jurul orașului Akouda este ideală pentru iubitorii de soare și sporturi acvatice. Plaja din apropiere, Kantaoui Beach, este largă și prietenoasă pentru familii, în timp ce M'PARADISE promite o atmosferă relaxată de beach club. Plajele sunt mărginite de palmieri și oferă condiții excelente pentru a înota și a te relaxa sub soarele nord-african.\n\nÎn Akouda, oaspeții pot savura preparate autentice tunisiene, cuşcuşul și fructele de mare proaspete fiind atracțiile principale. Accesibilitatea este excelentă: Akouda se ajunge ușor de pe autostrada care vine din Tunis sau Sousse, iar aeroportul internațional Monastir este, de asemenea, foarte aproape.", "en": "Akouda is located on the picturesque eastern coast of Tunisia, just a short drive from the bustling city of Sousse. The town seamlessly combines charming traditional Tunisian architecture with close proximity to some of the region's best beaches. Visitors highly rate the expansive Kantaoui Beach and the lively M'PARADISE beach area, both featuring fine sand and clear Mediterranean waters.\n\nThe coastline around Akouda is a haven for sunbathers and water sports enthusiasts. The nearby Kantaoui Beach is broad and very family-friendly, whereas M'PARADISE offers a trendy, relaxed beach club atmosphere. Lined with palm trees, these beaches provide excellent conditions for swimming and unwinding in the warm North African sunshine.\n\nCulinary options in Akouda revolve around authentic Tunisian flavors, with hearty couscous dishes and freshly caught seafood being prominent features. The town boasts excellent connectivity, being easily accessible via the main highway from Tunis and Sousse, with the Monastir International Airport also conveniently close by."}, "facts": {"de": ["Küstenstadt nahe Sousse", "Traditionelle tunesische Atmosphäre", "Kantaoui Beach in der Nähe", "M'PARADISE bietet Beach-Club-Flair", "Kristallklares Wasser des Mittelmeers", "Bekannt für lokale Couscous-Gerichte", "Gute Autobahnanbindung", "Nahe dem Flughafen Monastir"], "hu": ["Sousse melletti tengerparti város", "Hagyományos tunéziai atmoszféra", "A Kantaoui Beach a közelben található", "A M'PARADISE strandklub hangulatú", "Kristálytiszta földközi-tengeri víz", "Híres a helyi kuszkusz ételekről", "Kiváló autópálya-kapcsolatok", "Közel a Monastir repülőtérhez"], "ro": ["Oraș de coastă lângă Sousse", "Atmosferă tradițională tunisiană", "Kantaoui Beach în apropiere", "M'PARADISE oferă un vibe de beach club", "Ape mediteraneene cristaline", "Renumit pentru preparatele cu cușcuș", "Conectivitate bună la autostradă", "Aproape de aeroportul Monastir"], "en": ["Coastal town near Sousse", "Traditional Tunisian atmosphere", "Kantaoui Beach is located nearby", "M'PARADISE offers a beach club vibe", "Crystal-clear Mediterranean waters", "Famous for local couscous dishes", "Good highway connectivity", "Close to Monastir International Airport"]}, "image": "/poi-images/tunisia-akouda-cities-v2.webp"},
 {"id": "algeria-beni-belaid-cities-v2", "sights": {
       "de": [
@@ -16501,39 +12701,12 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Grande roue",
-                  "text": "Grande roue ist ein Riesenrad, das Fahrten in Burj Al Kifan anbietet.",
-                  "category": "landmark",
-                  "coords": [
-                        3.160049,
-                        36.736477
-                  ]
-            },
-            {
                   "name": "شاطئ الضفة الخضراء",
                   "text": "شاطئ الضفة الخضراء ist ein Küstenstrandbereich in Burj Al Kifan.",
                   "category": "recreational",
                   "coords": [
                         3.205665,
                         36.756606
-                  ]
-            },
-            {
-                  "name": "Kiffan Club",
-                  "text": "Der Kiffan Club ist ein beliebter Wasserpark mit Pools und Rutschen in Burj Al Kifan.",
-                  "category": "recreational",
-                  "coords": [
-                        3.217613,
-                        36.75958
-                  ]
-            },
-            {
-                  "name": "Maison de Jeunes Azzeddine Medjoubi - cité 8 mai 1945",
-                  "text": "Dies ist ein Jugend- und Kulturzentrum in Burj Al Kifan.",
-                  "category": "cultural",
-                  "coords": [
-                        3.185632,
-                        36.732667
                   ]
             },
             {
@@ -16552,24 +12725,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         3.186329,
                         36.748349
-                  ]
-            },
-            {
-                  "name": "Aquafortland",
-                  "text": "Aquafortland ist ein weitläufiger Wasserpark in Burj Al Kifan.",
-                  "category": "recreational",
-                  "coords": [
-                        3.219636,
-                        36.75731
-                  ]
-            },
-            {
-                  "name": "Kiffan Fort",
-                  "text": "Das Kiffan Fort ist eine historische Festungsanlage in Burj Al Kifan.",
-                  "category": "fortress",
-                  "coords": [
-                        3.187978,
-                        36.74895
                   ]
             }
       ],
@@ -16593,39 +12748,12 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Grande roue",
-                  "text": "A Grande roue egy óriáskerék attrakció Burj Al Kifan városában.",
-                  "category": "landmark",
-                  "coords": [
-                        3.160049,
-                        36.736477
-                  ]
-            },
-            {
                   "name": "شاطئ الضفة الخضراء",
                   "text": "A شاطئ الضفة الخضراء egy tengerparti strand Burj Al Kifan-ban.",
                   "category": "recreational",
                   "coords": [
                         3.205665,
                         36.756606
-                  ]
-            },
-            {
-                  "name": "Kiffan Club",
-                  "text": "A Kiffan Club egy népszerű vízipark medencékkel és csúszdákkal Burj Al Kifan-ban.",
-                  "category": "recreational",
-                  "coords": [
-                        3.217613,
-                        36.75958
-                  ]
-            },
-            {
-                  "name": "Maison de Jeunes Azzeddine Medjoubi - cité 8 mai 1945",
-                  "text": "Ez egy ifjúsági és kulturális művészeti központ Burj Al Kifan városában.",
-                  "category": "cultural",
-                  "coords": [
-                        3.185632,
-                        36.732667
                   ]
             },
             {
@@ -16644,15 +12772,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         3.186329,
                         36.748349
-                  ]
-            },
-            {
-                  "name": "Aquafortland",
-                  "text": "Az Aquafortland egy kiterjedt vízipark Burj Al Kifan városában.",
-                  "category": "recreational",
-                  "coords": [
-                        3.219636,
-                        36.75731
                   ]
             },
             {
@@ -16685,39 +12804,12 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Grande roue",
-                  "text": "Grande roue este o roată panoramică ce oferă plimbări în Burj Al Kifan.",
-                  "category": "landmark",
-                  "coords": [
-                        3.160049,
-                        36.736477
-                  ]
-            },
-            {
                   "name": "شاطئ الضفة الخضراء",
                   "text": "شاطئ الضفة الخضراء este o zonă de plajă pe coasta din Burj Al Kifan.",
                   "category": "recreational",
                   "coords": [
                         3.205665,
                         36.756606
-                  ]
-            },
-            {
-                  "name": "Kiffan Club",
-                  "text": "Kiffan Club este un parc acvatic popular cu piscine și tobogane din Burj Al Kifan.",
-                  "category": "recreational",
-                  "coords": [
-                        3.217613,
-                        36.75958
-                  ]
-            },
-            {
-                  "name": "Maison de Jeunes Azzeddine Medjoubi - cité 8 mai 1945",
-                  "text": "Acesta este un centru cultural și de tineret situat în Burj Al Kifan.",
-                  "category": "cultural",
-                  "coords": [
-                        3.185632,
-                        36.732667
                   ]
             },
             {
@@ -16739,15 +12831,6 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Aquafortland",
-                  "text": "Aquafortland este un parc acvatic extins situat în Burj Al Kifan.",
-                  "category": "recreational",
-                  "coords": [
-                        3.219636,
-                        36.75731
-                  ]
-            },
-            {
                   "name": "الحصن العثماني",
                   "text": "Fortul Kiffan este o fortificație istorică situată în Burj Al Kifan.",
                   "category": "fortress",
@@ -16759,15 +12842,6 @@ export const afNewV1: POI[] = [
       ],
       "en": [
             {
-                  "name": "Monument mémorial 8 mai 1945",
-                  "text": "Monument mémorial 8 mai 1945 is a historical commemorative monument located in Burj Al Kifan.",
-                  "category": "historical",
-                  "coords": [
-                        3.185046,
-                        36.736829
-                  ]
-            },
-            {
                   "name": "Mairie",
                   "text": "Mairie is a notable tree situated near the town structures in Burj Al Kifan.",
                   "category": "landmark",
@@ -16777,39 +12851,12 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Grande roue",
-                  "text": "Grande roue is a Ferris wheel attraction offering rides in Burj Al Kifan.",
-                  "category": "landmark",
-                  "coords": [
-                        3.160049,
-                        36.736477
-                  ]
-            },
-            {
                   "name": "شاطئ الضفة الخضراء",
                   "text": "شاطئ الضفة الخضراء is a coastal beach area in Burj Al Kifan.",
                   "category": "recreational",
                   "coords": [
                         3.205665,
                         36.756606
-                  ]
-            },
-            {
-                  "name": "Kiffan Club",
-                  "text": "Kiffan Club is a popular water park featuring pools and slides in Burj Al Kifan.",
-                  "category": "recreational",
-                  "coords": [
-                        3.217613,
-                        36.75958
-                  ]
-            },
-            {
-                  "name": "Maison de Jeunes Azzeddine Medjoubi - cité 8 mai 1945",
-                  "text": "This is a youth and cultural arts center situated in Burj Al Kifan.",
-                  "category": "cultural",
-                  "coords": [
-                        3.185632,
-                        36.732667
                   ]
             },
             {
@@ -16829,38 +12876,11 @@ export const afNewV1: POI[] = [
                         3.186329,
                         36.748349
                   ]
-            },
-            {
-                  "name": "Aquafortland",
-                  "text": "Aquafortland is an expansive water park located in Burj Al Kifan.",
-                  "category": "recreational",
-                  "coords": [
-                        3.219636,
-                        36.75731
-                  ]
-            },
-            {
-                  "name": "Kiffan Fort",
-                  "text": "Kiffan Fort is a historic fortification located in Burj Al Kifan.",
-                  "category": "fortress",
-                  "coords": [
-                        3.187978,
-                        36.74895
-                  ]
             }
       ]
 }, "type": "city", "parent": "DZ-35", "tier": 2, "coords": [3.19089, 36.74727], "name": {"de": "Burj Al Kifan", "hu": "Burj Al Kifan", "ro": "Burj Al Kifan", "en": "Burj Al Kifan"}, "description": {"de": "Burj Al Kifan ist ein lebhafter Küstenvorort von Algier, bekannt für seine belebten Promenaden, Wasserparks und exzellentes Streetfood.", "hu": "Burj Al Kifan Algír nyüzsgő tengerparti külvárosa, amely élénk sétányairól, víziparkjairól és kiváló utcai ételeiről ismert.", "ro": "Burj Al Kifan este o suburbie de coastă plină de viață a Algerului, cunoscută pentru promenadele animate, parcurile acvatice și mâncarea stradală excelentă.", "en": "Burj Al Kifan is a bustling coastal suburb of Algiers, famous for its lively promenades, water parks, and excellent street food."}, "descriptionAdvanced": {"de": "Burj Al Kifan, historisch auch als Fort-de-l'Eau bekannt, ist einer der dynamischsten Küstenvororte im Osten der Hauptstadt Algier. Die Stadt verbindet städtisches Flair mit sommerlicher Urlaubsstimmung und ist ein beliebtes Ziel für Familien und junge Leute. Die breite Strandpromenade lädt zu abendlichen Spaziergängen ein, während zahlreiche Cafés und Eisdielen den Weg säumen und eine fröhliche, mediterrane Atmosphäre schaffen.\n\nDie Küste bietet attraktive Bademöglichkeiten, darunter den schattigen Strand شاطئ الضفة الخضراء (Grünes Ufer Strand) und den beliebten Strand شاطئ حورية البحر 1 (Meerjungfrauenstrand 1). Diese Strände sind in den Sommermonaten gut besucht und bieten neben feinem Sand auch diverse Freizeitmöglichkeiten. Das klare Wasser des Mittelmeers sorgt für eine willkommene Abkühlung von der nordafrikanischen Hitze.\n\nEin absolutes Muss in Burj Al Kifan ist die lokale Gastronomie, insbesondere die berühmten Fleischspieße (Brochettes), die an fast jeder Straßenecke frisch gegrillt werden. Die Stadt ist durch die Straßenbahn von Algier hervorragend an das öffentliche Verkehrsnetz angebunden, was die Anreise aus dem Stadtzentrum äußerst bequem macht.", "hu": "Burj Al Kifan, amelyet történelmileg Fort-de-l'Eau néven is ismertek, Algír fővárosának egyik legdinamikusabb keleti tengerparti külvárosa. A város ötvözi a városi hangulatot a nyári nyaralási atmoszférával, így népszerű úti cél a családok és a fiatalok körében. A széles parti sétány esti sétákra csábít, miközben a számtalan kávézó és fagyizó vidám, mediterrán hangulatot teremt.\n\nA partvonal vonzó fürdőzési lehetőségeket kínál, köztük a szép شاطئ الضفة الخضراء (Zöld Part strand) és a rendkívül népszerű شاطئ حورية البحر 1 (Sellő strand 1). Ezek a strandok a nyári hónapokban nagyon látogatottak, és a finom homok mellett különféle szabadidős tevékenységeket is kínálnak. A Földközi-tenger tiszta vize kellemes felfrissülést nyújt az észak-afrikai hőségben.\n\nBurj Al Kifanban egyenesen kötelező megkóstolni a helyi gasztronómia remekeit, különösen a híres húsnyársakat (brochettes), amelyeket szinte minden utcasarkon frissen grilleznek. A várost az algíri villamoshálózat kiválóan összeköti a tömegközlekedéssel, ami rendkívül kényelmessé teszi a belvárosból történő eljutást.", "ro": "Burj Al Kifan, cunoscut istoric și sub numele de Fort-de-l'Eau, este una dintre cele mai dinamice suburbii de coastă la est de capitala Alger. Orașul combină flerul urban cu atmosfera vacanțelor de vară și este o destinație populară pentru familii și tineri. Larga promenadă pe plajă invită la plimbări de seară, în timp ce numeroase cafenele și gelaterii creează o atmosferă veselă, mediteraneană.\n\nCoasta oferă oportunități atractive de înot, inclusiv plaja شاطئ الضفة الخضراء (Plaja Malul Verde) și populara plajă شاطئ حورية البحر 1 (Plaja Sirenei 1). Aceste plaje sunt aglomerate în lunile de vară și oferă diverse opțiuni de agrement, pe lângă nisipul fin. Apa limpede a Mării Mediterane oferă o răcorire binevenită de la căldura nord-africană.\n\nO necesitate absolută în Burj Al Kifan este gastronomia locală, în special faimoasele frigărui de carne (brochettes), care sunt făcute proaspăt la grătar la aproape fiecare colț de stradă. Orașul este excelent conectat la rețeaua de transport public prin tramvaiul din Alger.", "en": "Burj Al Kifan, historically known as Fort-de-l'Eau, is one of the most dynamic coastal suburbs east of the capital, Algiers. The town perfectly combines an urban vibe with a summer holiday atmosphere, making it a highly popular destination for families and young people. The wide beach promenade is perfect for evening strolls, while numerous cafes and ice cream parlors line the way, creating a cheerful Mediterranean ambiance.\n\nThe coastline offers attractive swimming spots, including the scenic شاطئ الضفة الخضراء (Green Bank Beach) and the highly popular شاطئ حورية البحر 1 (Mermaid Beach 1). These beaches are bustling with activity during the summer months, providing various recreational options alongside their fine sand. The clear waters of the Mediterranean Sea offer a welcome respite from the North African heat.\n\nAn absolute must when visiting Burj Al Kifan is sampling the local street food, especially the famous meat skewers (brochettes) that are freshly grilled on almost every street corner. The town is excellently connected to the public transport network via the Algiers tramway."}, "facts": {"de": ["Historisch Fort-de-l'Eau", "Vorort von Algier", "شاطئ حورية البحر 1", "شاطئ الضفة الخضراء", "Belebte Promenade", "Berühmt für Grillspieße", "Wasserparks in der Nähe", "Anbindung an die Straßenbahn"], "hu": ["Történelmileg Fort-de-l'Eau", "Algír keleti külvárosa", "شاطئ حورية البحر 1 strand", "شاطئ الضفة الخضراء strand", "Élénk parti sétány", "Híres grillnyársak (brochettes)", "Közeli víziparkok", "Villamoskapcsolat a központtal"], "ro": ["Istoric Fort-de-l'Eau", "Suburbie a Algerului", "شاطئ حورية البحر 1", "شاطئ الضفة الخضراء", "Promenadă aglomerată", "Faimos pentru frigărui", "Parcuri acvatice în apropiere", "Conectat la rețeaua de tramvai"], "en": ["Historically Fort-de-l'Eau", "Eastern Algiers suburb", "Mermaid Beach 1", "Green Bank Beach", "Bustling beach promenade", "Famous for grilled brochettes", "Nearby water parks", "Tramway connection to center"]}, "image": "/poi-images/algeria-burj-al-kifan-cities-v2.webp"},
 {"id": "algeria-el-karma-cities-v2", "sights": {
       "de": [
-            {
-                  "name": "Réservée aux policiers",
-                  "text": "Réservée aux policiers ist ein lokaler Strandbereich in El Karma.",
-                  "category": "recreational",
-                  "coords": [
-                        3.482886,
-                        36.767507
-                  ]
-            },
             {
                   "name": "Plage Le figuier 1 - Boumerdas",
                   "text": "Plage Le figuier 1 - Boumerdas ist ein malerischer Küstenstrand in El Karma.",
@@ -16882,15 +12902,6 @@ export const afNewV1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Réservée aux policiers",
-                  "text": "A Réservée aux policiers egy helyi strand El Karma városában.",
-                  "category": "recreational",
-                  "coords": [
-                        3.482886,
-                        36.767507
-                  ]
-            },
-            {
                   "name": "Plage Le figuier 1 - Boumerdas",
                   "text": "A Plage Le figuier 1 - Boumerdas egy festői tengerparti strand El Karma városában.",
                   "category": "recreational",
@@ -16910,15 +12921,6 @@ export const afNewV1: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Réservée aux policiers",
-                  "text": "Réservée aux policiers este o plajă locală situată în El Karma.",
-                  "category": "recreational",
-                  "coords": [
-                        3.482886,
-                        36.767507
-                  ]
-            },
             {
                   "name": "Plage Le figuier 1 - Boumerdas",
                   "text": "Plage Le figuier 1 - Boumerdas este o plajă de coastă pitorească situată în El Karma.",
@@ -16940,15 +12942,6 @@ export const afNewV1: POI[] = [
       ],
       "en": [
             {
-                  "name": "Réservée aux policiers",
-                  "text": "Réservée aux policiers is a local beach area situated in El Karma.",
-                  "category": "recreational",
-                  "coords": [
-                        3.482886,
-                        36.767507
-                  ]
-            },
-            {
                   "name": "Plage Le figuier 1 - Boumerdas",
                   "text": "Plage Le figuier 1 - Boumerdas is a scenic coastal beach located in El Karma.",
                   "category": "recreational",
@@ -16969,168 +12962,16 @@ export const afNewV1: POI[] = [
       ]
 }, "type": "city", "parent": "DZ-35", "tier": 2, "coords": [3.51498, 36.77268], "name": {"de": "El Karma", "hu": "El Karma", "ro": "El Karma", "en": "El Karma"}, "description": {"de": "El Karma ist eine malerische Küstensiedlung, die für ihre felsigen Buchten und das kristallklare Wasser am Strand Le Figuier bekannt ist.", "hu": "El Karma egy festői tengerparti település, amely sziklás öbleiről és a Le Figuier strand kristálytiszta vizéről ismert.", "ro": "El Karma este o așezare de coastă pitorească, cunoscută pentru golfurile sale stâncoase și apa cristalină de la plaja Le Figuier.", "en": "El Karma is a picturesque coastal settlement known for its rocky coves and the crystal-clear waters of Le Figuier beach."}, "descriptionAdvanced": {"de": "El Karma, historisch oft als Le Figuier bezeichnet, ist ein wunderschöner Küstenort in der Provinz Boumerdès. Der Ort zeichnet sich durch seine spektakuläre Küstenlinie aus, an der sich dramatische Klippen mit kleinen, idyllischen Sandbuchten abwechseln. Diese geografische Beschaffenheit verleiht El Karma einen sehr intimen und naturnahen Charakter, der besonders Ruhesuchende und Naturliebhaber anspricht.\n\nDie Hauptattraktionen des Ortes sind zweifellos die fantastischen Strände, namentlich Plage Le figuier 1 - Boumerdas und Plage Le figuier 2. Das kristallklare Wasser dieser Strände schimmert in verschiedenen Türkistönen und lädt zum Schwimmen und Schnorcheln ein. Die felsigen Formationen rund um die Strände bieten nicht nur einen malerischen Anblick, sondern auch interessante Entdeckungsmöglichkeiten unter Wasser.\n\nIn El Karma geht das Leben einen gemächlicheren Gang. Besucher können in kleinen lokalen Lokalen traditionelle algerische Gerichte genießen, während sie auf das weite Meer blicken. Der Ort ist über gut ausgebaute Straßen leicht von der nahegelegenen Stadt Boumerdès zu erreichen und bietet den perfekten Rahmen für entspannte Tage.", "hu": "El Karma, amelyet a történelem során gyakran Le Figuier néven emlegettek, egy gyönyörű tengerparti település Boumerdès tartományban. A helység legfőbb jellemzője a látványos partvonal, ahol a drámai sziklák apró, idilli homokos öblökkel váltakoznak. Ez a földrajzi adottság rendkívül meghitt és természetközeli karaktert kölcsönöz El Karmának, amely különösen a nyugalmat keresőket és a természetkedvelőket vonzza.\n\nA település legfőbb látványosságai kétségtelenül a fantasztikus strandok, név szerint a Plage Le figuier 1 - Boumerdas és a Plage Le figuier 2. E strandok kristálytiszta vize a türkiz különböző árnyalataiban csillog, és úszásra, valamint sznorkelezésre hívogat. A strandokat körülölelő sziklaalakzatok nemcsak festői látványt nyújtanak, hanem érdekes víz alatti felfedezéseket is lehetővé tesznek.\n\nEl Karmában az élet sokkal kényelmesebb tempóban folyik. A látogatók a kis helyi éttermekben hagyományos algériai ételeket kóstolhatnak, miközben a nyílt tengerben gyönyörködhetnek. A település jól kiépített utakon könnyen megközelíthető a közeli Boumerdès városából, és tökéletes helyszínt biztosít a pihentető napokhoz.", "ro": "El Karma, denumită istoric adesea Le Figuier, este o stațiune de coastă frumoasă din provincia Boumerdès. Locul este caracterizat de linia sa de coastă spectaculoasă, unde stâncile dramatice alternează cu golfuri mici și idilice cu nisip. Această caracteristică geografică conferă așezării El Karma un caracter foarte intim și natural, care atrage în special persoanele care caută liniște și iubitorii de natură.\n\nPrincipalele atracții ale orașului sunt, fără îndoială, plajele fantastice, și anume Plage Le figuier 1 - Boumerdas și Plage Le figuier 2. Apa cristalină a acestor plaje strălucește în diverse nuanțe de turcoaz și te invită la înot și snorkeling. Formațiunile stâncoase din jurul plajelor oferă nu doar o priveliște pitorească, ci și descoperiri subacvatice interesante.\n\nÎn El Karma, viața se desfășoară într-un ritm mai relaxat. Vizitatorii se pot bucura de mâncăruri tradiționale algeriene în micile localuri, în timp ce privesc marea deschisă. Orașul este ușor accesibil prin drumuri bine dezvoltate din orașul din apropiere Boumerdès.", "en": "El Karma, historically often referred to as Le Figuier, is a beautiful coastal settlement in the Boumerdès Province. The location is characterized by its spectacular coastline, where dramatic cliffs alternate with small, idyllic sandy coves. This geographical feature gives El Karma a very intimate and natural character, which particularly appeals to those seeking tranquility and nature lovers.\n\nThe main attractions of the town are undoubtedly the fantastic beaches, namely Plage Le figuier 1 - Boumerdas and Plage Le figuier 2. The crystal-clear water of these beaches shimmers in various shades of turquoise, inviting visitors to swim and snorkel. The rocky formations surrounding the beaches not only provide a picturesque sight but also offer interesting underwater discoveries.\n\nIn El Karma, life moves at a much more leisurely pace. Visitors can enjoy traditional Algerian dishes in small local eateries while gazing out at the open sea. The town is easily accessible via well-developed roads from the nearby city of Boumerdès, providing the perfect setting for relaxing coastal days."}, "facts": {"de": ["Historischer Name Le Figuier", "Provinz Boumerdès", "Plage Le figuier 1", "Plage Le figuier 2", "Felsige Buchten", "Kristallklares Meerwasser", "Ideal zum Schnorcheln", "Ruhige Atmosphäre"], "hu": ["Történelmi neve Le Figuier", "Boumerdès tartomány", "Plage Le figuier 1 strand", "Plage Le figuier 2 strand", "Sziklás öblök", "Kristálytiszta tengervíz", "Ideális sznorkelezéshez", "Békés tengerparti légkör"], "ro": ["Nume istoric Le Figuier", "Provincia Boumerdès", "Plage Le figuier 1", "Plage Le figuier 2", "Golfuri stâncoase", "Apă de mare cristalină", "Ideal pentru snorkeling", "Atmosferă liniștită"], "en": ["Historical name Le Figuier", "Boumerdès Province", "Plage Le figuier 1", "Plage Le figuier 2", "Picturesque rocky coves", "Crystal-clear seawater", "Great for snorkeling", "Peaceful coastal vibe"]}, "image": "/poi-images/algeria-el-karma-cities-v2.webp"},
 {"id": "algeria-ain-kahla-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Plage Kadous",
-                  "text": "Plage Kadous ist ein Strandresort, das Erholung am Meer in Ain Kahla bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        3.341721,
-                        36.78401
-                  ]
-            },
-            {
-                  "name": "Les Canadiennes",
-                  "text": "Les Canadiennes ist ein Küsten-Strandresort in Ain Kahla.",
-                  "category": "recreational",
-                  "coords": [
-                        3.328218,
-                        36.785652
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Plage Kadous",
-                  "text": "A Plage Kadous egy tengerparti üdülőhely Ain Kahla városában.",
-                  "category": "recreational",
-                  "coords": [
-                        3.341721,
-                        36.78401
-                  ]
-            },
-            {
-                  "name": "Les Canadiennes",
-                  "text": "A Les Canadiennes egy tengerparti üdülőhely Ain Kahla területén.",
-                  "category": "recreational",
-                  "coords": [
-                        3.328218,
-                        36.785652
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Plage Kadous",
-                  "text": "Plage Kadous este o stațiune balneară ce oferă relaxare la malul mării în Ain Kahla.",
-                  "category": "recreational",
-                  "coords": [
-                        3.341721,
-                        36.78401
-                  ]
-            },
-            {
-                  "name": "Les Canadiennes",
-                  "text": "Les Canadiennes este o stațiune de coastă situată în Ain Kahla.",
-                  "category": "recreational",
-                  "coords": [
-                        3.328218,
-                        36.785652
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Plage Kadous",
-                  "text": "Plage Kadous is a beach resort offering seaside relaxation in Ain Kahla.",
-                  "category": "recreational",
-                  "coords": [
-                        3.341721,
-                        36.78401
-                  ]
-            },
-            {
-                  "name": "Les Canadiennes",
-                  "text": "Les Canadiennes is a coastal beach resort situated in Ain Kahla.",
-                  "category": "recreational",
-                  "coords": [
-                        3.328218,
-                        36.785652
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "DZ-35", "coords": [3.32558, 36.76709], "tier": 2, "name": {"de": "Ain Kahla", "hu": "Ain Kahla", "ro": "Ain Kahla", "en": "Ain Kahla"}, "description": {"de": "Ain Kahla ist eine charmante Küstenstadt in Algerien, die für ihre ruhige Atmosphäre und wunderschönen Strände bekannt ist.", "hu": "Ain Kahla egy bájos tengerparti város Algériában, amely nyugodt légköréről és gyönyörű strandjairól ismert.", "ro": "Ain Kahla este un oraș de coastă fermecător din Algeria, cunoscut pentru atmosfera sa liniștită și plajele frumoase.", "en": "Ain Kahla is a charming coastal town in Algeria, known for its peaceful atmosphere and beautiful Mediterranean beaches."}, "descriptionAdvanced": {"de": "Ain Kahla ist ein einladendes Reiseziel an der algerischen Küste, ideal für Reisende, die dem Trubel der Großstädte entfliehen möchten. Die Gegend ist geprägt von einer entspannten mediterranen Atmosphäre und bietet Besuchern die Möglichkeit, die authentische lokale Kultur kennenzulernen. Die Nähe zum Meer macht die Stadt zu einem perfekten Ausgangspunkt für Strandliebhaber.\n\nBesucher können an den beliebten Stränden entspannen, darunter die malerische Plage Kadous und der Strand Les Canadiennes. Diese Sandstrände eignen sich hervorragend zum Schwimmen, Sonnenbaden und für entspannte Spaziergänge entlang der Küste. Das kristallklare Wasser des Mittelmeers lädt zu erfrischenden Badepausen ein.\n\nNeben den Stränden lockt Ain Kahla mit lokaler Gastronomie, bei der frische Meeresfrüchte und traditionelle algerische Gerichte im Mittelpunkt stehen. Die Stadt ist gut erreichbar und bietet eine friedliche Umgebung, die sowohl für Familien als auch für Paare geeignet ist, die einen erholsamen Urlaub am Meer verbringen möchten.", "hu": "Ain Kahla egy hívogató úti cél az algériai tengerparton, ideális azoknak az utazóknak, akik el szeretnének menekülni a nagyvárosok nyüzsgése elől. A környéket nyugodt mediterrán hangulat jellemzi, és lehetőséget kínál a látogatóknak az autentikus helyi kultúra megismerésére. A tenger közelsége miatt a város tökéletes kiindulópont a strandok szerelmeseinek.\n\nA látogatók kikapcsolódhatnak a népszerű strandokon, köztük a festői Plage Kadous és a Les Canadiennes strandokon. Ezek a homokos partok kiválóan alkalmasak úszásra, napozásra és pihentető sétákra a part mentén. A Földközi-tenger kristálytiszta vize frissítő fürdőzésre csábít.\n\nA strandok mellett Ain Kahla helyi gasztronómiával is vonzza a látogatókat, amelynek középpontjában a friss tenger gyümölcsei és a hagyományos algériai ételek állnak. A város könnyen megközelíthető, és békés környezetet kínál, amely mind családok, mind párok számára alkalmas, akik pihentető tengerparti nyaralásra vágynak.", "ro": "Ain Kahla este o destinație primitoare pe coasta algeriană, ideală pentru călătorii care doresc să scape de agitația marilor orașe. Zona este caracterizată de o atmosferă mediteraneană relaxată și oferă vizitatorilor posibilitatea de a experimenta cultura locală autentică. Apropierea de mare face din oraș un punct de plecare perfect pentru iubitorii de plajă.\n\nVizitatorii se pot relaxa pe plajele populare, inclusiv pitoreasca Plage Kadous și plaja Les Canadiennes. Aceste țărmuri cu nisip sunt excelente pentru înot, băi de soare și plimbări relaxante de-a lungul coastei. Apele cristaline ale Mării Mediterane vă invită la o baie răcoritoare.\n\nPe lângă plaje, Ain Kahla atrage cu gastronomia locală, axată pe fructe de mare proaspete și mâncăruri tradiționale algeriene. Orașul este ușor accesibil și oferă un mediu pașnic, potrivit atât pentru familii, cât și pentru cuplurile care caută o vacanță relaxantă la malul mării.", "en": "Ain Kahla is a welcoming destination on the Algerian coast, ideal for travelers looking to escape the hustle and bustle of major cities. The area is characterized by a relaxed Mediterranean atmosphere and offers visitors the opportunity to experience authentic local culture. Its proximity to the sea makes the town a perfect starting point for beach lovers.\n\nVisitors can relax on the popular beaches, including the picturesque Plage Kadous and Les Canadiennes beach. These sandy shores are excellent for swimming, sunbathing, and relaxing walks along the coast. The crystal-clear waters of the Mediterranean Sea invite you for a refreshing swim.\n\nIn addition to the beaches, Ain Kahla attracts with local gastronomy, focusing on fresh seafood and traditional Algerian dishes. The town is easily accessible and offers a peaceful environment suitable for both families and couples seeking a relaxing seaside holiday."}, "facts": {"de": ["Algerische Küstenstadt", "Mittelmeer", "Plage Kadous", "Les Canadiennes", "Meeresfrüchte", "Ruhiges Ambiente", "Nahe Algier", "Sandstrände"], "hu": ["Algériai partvidék", "Földközi-tenger", "Plage Kadous", "Les Canadiennes", "Tenger gyümölcsei", "Nyugodt környezet", "Algír közelében", "Homokos strandok"], "ro": ["Oraș de coastă", "Marea Mediterană", "Plage Kadous", "Les Canadiennes", "Fructe de mare", "Mediu liniștit", "Lângă Alger", "Plaje cu nisip"], "en": ["Coastal town", "Mediterranean Sea", "Plage Kadous", "Les Canadiennes", "Seafood", "Relaxing vibe", "Near Algiers", "Sandy beaches"]}, "image": "/poi-images/algeria-ain-kahla-cities-v2.webp"},
 {"id": "algeria-haouch-rahmoun-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Maison de jeunes Mohamed El Bey",
-                  "text": "Maison de jeunes Mohamed El Bey ist ein Kunstzentrum in Haouch Rahmoun.",
-                  "category": "cultural",
-                  "coords": [
-                        3.36502,
-                        36.741495
-                  ]
-            },
-            {
-                  "name": "Plage de Reghaia",
-                  "text": "Plage de Reghaia ist ein Strandresort in Haouch Rahmoun.",
-                  "category": "recreational",
-                  "coords": [
-                        3.363155,
-                        36.780966
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Maison de jeunes Mohamed El Bey",
-                  "text": "A Maison de jeunes Mohamed El Bey egy művészeti központ Haouch Rahmoun városában.",
-                  "category": "cultural",
-                  "coords": [
-                        3.36502,
-                        36.741495
-                  ]
-            },
-            {
-                  "name": "Plage de Reghaia",
-                  "text": "A Plage de Reghaia egy tengerparti üdülőhely Haouch Rahmoun területén.",
-                  "category": "recreational",
-                  "coords": [
-                        3.363155,
-                        36.780966
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Maison de jeunes Mohamed El Bey",
-                  "text": "Maison de jeunes Mohamed El Bey este un centru de arte situat în Haouch Rahmoun.",
-                  "category": "cultural",
-                  "coords": [
-                        3.36502,
-                        36.741495
-                  ]
-            },
-            {
-                  "name": "Plage de Reghaia",
-                  "text": "Plage de Reghaia este o stațiune pe plajă situată în Haouch Rahmoun.",
-                  "category": "recreational",
-                  "coords": [
-                        3.363155,
-                        36.780966
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Maison de jeunes Mohamed El Bey",
-                  "text": "Maison de jeunes Mohamed El Bey is an arts centre located in Haouch Rahmoun.",
-                  "category": "cultural",
-                  "coords": [
-                        3.36502,
-                        36.741495
-                  ]
-            },
-            {
-                  "name": "Plage de Reghaia",
-                  "text": "Plage de Reghaia is a beach resort located in Haouch Rahmoun.",
-                  "category": "recreational",
-                  "coords": [
-                        3.363155,
-                        36.780966
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "DZ-35", "coords": [3.36559, 36.76606], "tier": 2, "name": {"de": "Haouch Rahmoun", "hu": "Haouch Rahmoun", "ro": "Haouch Rahmoun", "en": "Haouch Rahmoun"}, "description": {"de": "Haouch Rahmoun ist eine einladende Stadt in Algerien, die für ihren Zugang zum Mittelmeer und ihre schönen Küstenabschnitte bekannt ist.", "hu": "Haouch Rahmoun egy hívogató város Algériában, amely a Földközi-tengerhez való hozzáféréséről és gyönyörű partvidékéről ismert.", "ro": "Haouch Rahmoun este un oraș primitor din Algeria, cunoscut pentru accesul său la Marea Mediterană și zonele de coastă frumoase.", "en": "Haouch Rahmoun is a welcoming town in Algeria, known for its access to the Mediterranean Sea and beautiful coastal stretches."}, "descriptionAdvanced": {"de": "Haouch Rahmoun bietet Reisenden eine authentische Erfahrung an der algerischen Küste. Die Stadt kombiniert lokales Flair mit der Schönheit des Mittelmeers und zieht Besucher an, die abseits der großen Touristenpfade entspannen möchten. Die ruhige Umgebung ist geprägt von freundlichen Einheimischen und einer angenehmen Meeresbrise.\n\nEin Hauptanziehungspunkt der Region ist die Plage de Reghaia, ein weitläufiger Strandabschnitt, der sowohl Einheimische als auch Touristen begeistert. Dieser Küstenbereich eignet sich hervorragend für Spaziergänge, Familienausflüge und entspannte Nachmittage am Wasser. Das Rauschen der Wellen und der feine Sand sorgen für pure Erholung.\n\nDie lokale Küche in Haouch Rahmoun ist reich an frischen Meeresfrüchten und traditionellen Spezialitäten, die in kleinen, gemütlichen Restaurants serviert werden. Die gute Verkehrsanbindung ermöglicht es Besuchern, die Region bequem zu erkunden und die malerische Landschaft der algerischen Küste in vollen Zügen zu genießen.", "hu": "Haouch Rahmoun autentikus élményt kínál az utazóknak az algériai tengerparton. A város a helyi hangulatot a Földközi-tenger szépségével ötvözi, és olyan látogatókat vonz, akik a főbb turistaútvonalaktól távol szeretnének pihenni. A csendes környezetet barátságos helyiek és kellemes tengeri szellő jellemzi.\n\nA régió egyik fő vonzereje a Plage de Reghaia, egy kiterjedt partszakasz, amely a helyieket és a turistákat egyaránt gyönyörködteti. Ez a tengerparti terület ideális sétákhoz, családi kirándulásokhoz és pihentető délutánokhoz a vízparton. A hullámok zúgása és a finom homok tiszta kikapcsolódást biztosít.\n\nHaouch Rahmoun helyi konyhája gazdag friss tenger gyümölcseiben és hagyományos specialitásokban, amelyeket kis, hangulatos éttermekben szolgálnak fel. A jó közlekedési kapcsolatok lehetővé teszik a látogatók számára, hogy kényelmesen felfedezzék a régiót, és teljes mértékben élvezzék az algériai tengerpart festői tájait.", "ro": "Haouch Rahmoun oferă călătorilor o experiență autentică pe coasta algeriană. Orașul combină flerul local cu frumusețea Mării Mediterane și atrage vizitatorii care doresc să se relaxeze departe de traseele turistice majore. Mediul liniștit este caracterizat de localnici prietenoși și o briză plăcută a mării.\n\nO atracție principală a regiunii este Plage de Reghaia, o porțiune extinsă de plajă care încântă deopotrivă localnicii și turiștii. Această zonă de coastă este ideală pentru plimbări, ieșiri în familie și după-amiezi relaxante la malul apei. Sunetul valurilor și nisipul fin oferă o relaxare pură.\n\nBucătăria locală din Haouch Rahmoun este bogată în fructe de mare proaspete și specialități tradiționale servite în restaurante mici și confortabile. Legăturile bune de transport permit vizitatorilor să exploreze confortabil regiunea și să se bucure din plin de peisajul pitoresc al coastei algeriene.", "en": "Haouch Rahmoun offers travelers an authentic experience on the Algerian coast. The town combines local flair with the beauty of the Mediterranean and attracts visitors looking to relax away from the major tourist routes. The quiet environment is characterized by friendly locals and a pleasant sea breeze.\n\nA main attraction of the region is the Plage de Reghaia, an extensive stretch of beach that delights locals and tourists alike. This coastal area is ideal for walks, family outings, and relaxing afternoons by the water. The sound of the waves and the fine sand provide pure relaxation.\n\nThe local cuisine in Haouch Rahmoun is rich in fresh seafood and traditional specialties served in small, cozy restaurants. Good transport links allow visitors to comfortably explore the region and fully enjoy the picturesque landscape of the Algerian coast."}, "facts": {"de": ["Algerische Küste", "Plage de Reghaia", "Mittelmeerklima", "Familienfreundlich", "Ruhige Lage", "Frischer Fisch", "Badeorte", "Natur"], "hu": ["Algériai partvidék", "Plage de Reghaia", "Mediterrán éghajlat", "Családbarát", "Csendes hely", "Friss hal", "Fürdőhelyek", "Természet"], "ro": ["Coasta algeriană", "Plage de Reghaia", "Climă mediteraneană", "Prietenos cu familiile", "Locație liniștită", "Pește proaspăt", "Locuri de înot", "Natură"], "en": ["Algerian coast", "Plage de Reghaia", "Mediterranean climate", "Family friendly", "Quiet location", "Fresh fish", "Swimming spots", "Nature"]}, "image": "/poi-images/algeria-haouch-rahmoun-cities-v2.webp"},
 {"id": "algeria-el-beldj-cities-v2", "sights": {
       "de": [
@@ -17141,15 +12982,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         2.332986,
                         36.639791
-                  ]
-            },
-            {
-                  "name": "Plage bleue",
-                  "text": "Plage bleue ist ein Strand in der Stadt El Beldj.",
-                  "category": "recreational",
-                  "coords": [
-                        2.34325,
-                        36.641301
                   ]
             }
       ],
@@ -17162,15 +12994,6 @@ export const afNewV1: POI[] = [
                         2.332986,
                         36.639791
                   ]
-            },
-            {
-                  "name": "Plage bleue",
-                  "text": "A Plage bleue egy tengerpart El Beldj városában.",
-                  "category": "recreational",
-                  "coords": [
-                        2.34325,
-                        36.641301
-                  ]
             }
       ],
       "ro": [
@@ -17182,49 +13005,12 @@ export const afNewV1: POI[] = [
                         2.332986,
                         36.639791
                   ]
-            },
-            {
-                  "name": "Plage bleue",
-                  "text": "Plage bleue este o plajă situată în El Beldj.",
-                  "category": "recreational",
-                  "coords": [
-                        2.34325,
-                        36.641301
-                  ]
             }
       ],
-      "en": [
-            {
-                  "name": "Plage ben ouda",
-                  "text": "Plage ben ouda is a local beach in El Beldj.",
-                  "category": "recreational",
-                  "coords": [
-                        2.332986,
-                        36.639791
-                  ]
-            },
-            {
-                  "name": "Plage bleue",
-                  "text": "Plage bleue is a beach located in El Beldj.",
-                  "category": "recreational",
-                  "coords": [
-                        2.34325,
-                        36.641301
-                  ]
-            }
-      ]
+      "en": []
 }, "type": "city", "parent": "DZ-42", "coords": [2.35262, 36.64139], "tier": 2, "name": {"de": "El Beldj", "hu": "El Beldj", "ro": "El Beldj", "en": "El Beldj"}, "description": {"de": "El Beldj ist eine malerische Küstenortschaft in Algerien, die für ihr klares Wasser und ihre friedlichen Strände geschätzt wird.", "hu": "El Beldj egy festői tengerparti falu Algériában, amelyet tiszta vizéért és békés strandjaiért értékelnek.", "ro": "El Beldj este un sat de coastă pitoresc din Algeria, apreciat pentru apele sale limpezi și plajele liniștite.", "en": "El Beldj is a picturesque coastal village in Algeria, appreciated for its clear waters and peaceful beaches."}, "descriptionAdvanced": {"de": "El Beldj ist ein verborgenes Juwel an der algerischen Küste und bietet Besuchern eine ruhige Zuflucht vor dem Alltag. Die Ortschaft zeichnet sich durch ihre unberührte Natur und die spektakulären Ausblicke auf das Mittelmeer aus. Abseits des Massentourismus können Gäste hier die sanfte Meeresbrise und die entspannte Atmosphäre genießen.\n\nDie Strände der Region, insbesondere die Plage ben ouda und die bezaubernde Plage bleue, laden zu ausgiebigen Sonnenbädern und erfrischendem Schwimmen ein. Das azurblaue Wasser und der feine Sand machen diese Küstenabschnitte zu einem Paradies für Wassersportler und Erholungssuchende gleichermaßen.\n\nIn El Beldj können Besucher zudem die authentische algerische Küche probieren, wobei frisch gefangener Fisch oft das Highlight der Menüs ist. Die idyllische Umgebung und die herzliche Gastfreundschaft der Einheimischen sorgen dafür, dass ein Aufenthalt in El Beldj unvergesslich wird.", "hu": "El Beldj az algériai tengerpart egy rejtett gyöngyszeme, amely békés menedéket kínál a látogatóknak a mindennapi élet elől. A települést érintetlen természete és a Földközi-tengerre nyíló lenyűgöző kilátása jellemzi. A tömegturizmustól távol a vendégek itt élvezhetik a lágy tengeri szellőt és a pihentető légkört.\n\nA régió strandjai, különösen a Plage ben ouda és a varázslatos Plage bleue, kiterjedt napozásra és frissítő úszásra csábítanak. Azúrkék vize és finom homokja ezeket a partszakaszokat a vízisportok szerelmeseinek és a pihenni vágyóknak egyaránt paradicsomává teszi.\n\nEl Beldjben a látogatók megkóstolhatják az autentikus algériai konyhát is, ahol gyakran a frissen fogott hal a menü fénypontja. Az idilli környezet és a helyiek meleg vendégszeretete gondoskodik arról, hogy az El Beldjben tartózkodás felejthetetlen élmény legyen.", "ro": "El Beldj este o bijuterie ascunsă pe coasta algeriană, oferind vizitatorilor un refugiu liniștit din viața de zi cu zi. Satul se caracterizează prin natura sa neatinsă și vederi spectaculoase la Marea Mediterană. Departe de turismul de masă, oaspeții se pot bucura de briza blândă a mării și de atmosfera relaxantă de aici.\n\nPlajele din regiune, în special Plage ben ouda și fermecătoarea Plage bleue, vă invită la băi de soare extinse și înot răcoritor. Apele de un albastru azuriu și nisipul fin fac din aceste porțiuni de coastă un paradis pentru pasionații de sporturi nautice și pentru cei care caută relaxare deopotrivă.\n\nÎn El Beldj, vizitatorii pot gusta, de asemenea, bucătăria algeriană autentică, peștele proaspăt prins fiind adesea punctul culminant al meniurilor. Împrejurimile idilice și ospitalitatea caldă a localnicilor se asigură că un sejur în El Beldj va fi de neuitat.", "en": "El Beldj is a hidden gem on the Algerian coast, offering visitors a peaceful refuge from everyday life. The village is characterized by its untouched nature and spectacular views of the Mediterranean Sea. Away from mass tourism, guests can enjoy the gentle sea breeze and the relaxing atmosphere here.\n\nThe region's beaches, particularly Plage ben ouda and the enchanting Plage bleue, invite you to extensive sunbathing and refreshing swimming. The azure blue waters and fine sand make these coastal stretches a paradise for water sports enthusiasts and those seeking relaxation alike.\n\nIn El Beldj, visitors can also taste authentic Algerian cuisine, with freshly caught fish often being the highlight of the menus. The idyllic surroundings and the warm hospitality of the locals ensure that a stay in El Beldj is unforgettable."}, "facts": {"de": ["Verborgenes Juwel", "Plage ben ouda", "Plage bleue", "Klares Wasser", "Fischerdorf", "Ruhige Strände", "Azurblaues Meer", "Unberührte Natur"], "hu": ["Rejtett gyöngyszem", "Plage ben ouda", "Plage bleue", "Tiszta vizű", "Halászfalu", "Csendes strandok", "Azúrkék tenger", "Érintetlen természet"], "ro": ["Bijuterie ascunsă", "Plage ben ouda", "Plage bleue", "Ape limpezi", "Sat de pescari", "Plaje liniștite", "Mare azurie", "Natură neatinsă"], "en": ["Hidden gem", "Plage ben ouda", "Plage bleue", "Clear waters", "Fishing village", "Quiet beaches", "Azure sea", "Untouched nature"]}, "image": "/poi-images/algeria-el-beldj-cities-v2.webp"},
 {"id": "algeria-oureah-cities-v2", "sights": {
       "de": [
-            {
-                  "name": "Khaima Moulay Timimoun",
-                  "text": "Khaima moulay ist eine lokale kulturelle oder touristische Attraktion in Oureah.",
-                  "category": "landmark",
-                  "coords": [
-                        0.046053,
-                        35.890338
-                  ]
-            },
             {
                   "name": "شاطئ وريعة",
                   "text": "Plage Oureah ist ein beliebtes Strandziel zum Schwimmen und Entspannen in Oureah.",
@@ -17233,27 +13019,9 @@ export const afNewV1: POI[] = [
                         0.033256,
                         35.870331
                   ]
-            },
-            {
-                  "name": "Les Sablettes",
-                  "text": "Les Sablettes ist ein bekannter Sandstrand, der Küstenblicke in Oureah bietet.",
-                  "category": "recreational",
-                  "coords": [
-                        0.044212,
-                        35.887457
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "Khaima Moulay Timimoun",
-                  "text": "A Khaima moulay egy helyi kulturális vagy turisztikai látványosság Oureah városában.",
-                  "category": "landmark",
-                  "coords": [
-                        0.046053,
-                        35.890338
-                  ]
-            },
             {
                   "name": "شاطئ وريعة",
                   "text": "A Plage Oureah egy fő tengerparti úti cél fürdőzésre és pihenésre Oureah városában.",
@@ -17262,27 +13030,9 @@ export const afNewV1: POI[] = [
                         0.033256,
                         35.870331
                   ]
-            },
-            {
-                  "name": "Les Sablettes",
-                  "text": "A Les Sablettes egy jól ismert homokos strand, amely tengerparti kilátást nyújt Oureah városában.",
-                  "category": "recreational",
-                  "coords": [
-                        0.044212,
-                        35.887457
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "Khaima Moulay Timimoun",
-                  "text": "Khaima moulay este o atracție culturală sau turistică locală situată în Oureah.",
-                  "category": "landmark",
-                  "coords": [
-                        0.046053,
-                        35.890338
-                  ]
-            },
             {
                   "name": "شاطئ وريعة",
                   "text": "Plage Oureah este o destinație principală pe plajă pentru înot și relaxare în Oureah.",
@@ -17291,128 +13041,15 @@ export const afNewV1: POI[] = [
                         0.033256,
                         35.870331
                   ]
-            },
-            {
-                  "name": "Les Sablettes",
-                  "text": "Les Sablettes este o plajă de nisip bine cunoscută care oferă vederi de coastă în Oureah.",
-                  "category": "recreational",
-                  "coords": [
-                        0.044212,
-                        35.887457
-                  ]
             }
       ],
-      "en": [
-            {
-                  "name": "Khaima moulay",
-                  "text": "Khaima moulay is a local cultural or touristic attraction situated in Oureah.",
-                  "category": "landmark",
-                  "coords": [
-                        0.046053,
-                        35.890338
-                  ]
-            },
-            {
-                  "name": "Plage Oureah",
-                  "text": "Plage Oureah is a primary beachfront destination for swimming and relaxing in Oureah.",
-                  "category": "recreational",
-                  "coords": [
-                        0.033256,
-                        35.870331
-                  ]
-            },
-            {
-                  "name": "Les Sablettes",
-                  "text": "Les Sablettes is a well-known sandy beach offering coastal views in Oureah.",
-                  "category": "recreational",
-                  "coords": [
-                        0.044212,
-                        35.887457
-                  ]
-            }
-      ]
+      "en": []
 }, "type": "city", "parent": "DZ-27", "coords": [0.0376, 35.86732], "tier": 2, "name": {"de": "Oureah", "hu": "Oureah", "ro": "Oureah", "en": "Oureah"}, "description": {"de": "Oureah ist eine ruhige Küstenstadt in Algerien, die mit ihren breiten Sandstränden und authentischem Charme besticht.", "hu": "Oureah egy csendes tengerparti város Algériában, amely széles homokos strandjaival és autentikus varázsával hódít.", "ro": "Oureah este un oraș de coastă liniștit din Algeria, care captivează cu plajele sale largi de nisip și farmecul autentic.", "en": "Oureah is a quiet coastal town in Algeria that captivates with its wide sandy beaches and authentic charm."}, "descriptionAdvanced": {"de": "Oureah ist ein charmantes Ziel an der algerischen Küste und bietet Besuchern die Möglichkeit, das traditionelle Leben am Mittelmeer zu entdecken. Die Stadt zeichnet sich durch ihre entspannte Atmosphäre aus und ist ein perfekter Ort, um dem hektischen Alltag zu entfliehen. Hier finden Reisende eine harmonische Mischung aus natürlicher Schönheit und lokaler Kultur.\n\nDie wunderschönen Küstenabschnitte, allen voran die Plage Oureah und der Strand Les Sablettes, zählen zu den Hauptattraktionen der Region. Diese Strände zeichnen sich durch weichen Sand und sanft abfallendes Wasser aus, was sie besonders familienfreundlich macht. Besucher können hier schwimmen, spazieren gehen oder einfach die wärmende Sonne genießen.\n\nDas kulinarische Angebot in Oureah ist stark vom Meer geprägt, mit zahlreichen Restaurants, die köstliche und frische Fischgerichte servieren. Die Stadt ist leicht zu erreichen und bietet Besuchern ein wunderbar ruhiges Ambiente, um die Schönheit der algerischen Küstenlinie in vollen Zügen auszukosten.", "hu": "Oureah egy bájos úti cél az algériai tengerparton, amely lehetőséget kínál a látogatóknak a hagyományos mediterrán élet felfedezésére. A város pihentető légkörével tűnik ki, és tökéletes hely a mozgalmas mindennapok elől való menekülésre. Itt az utazók a természeti szépség és a helyi kultúra harmonikus keverékét találják.\n\nA gyönyörű partszakaszok, különösen a Plage Oureah és a Les Sablettes strand a régió fő látványosságai közé tartoznak. Ezeket a strandokat puha homok és enyhén lejtő víz jellemzi, ami különösen családbaráttá teszi őket. A látogatók úszhatnak, sétálhatnak vagy egyszerűen csak élvezhetik a melengető napsütést.\n\nOureah kulináris kínálatát erősen befolyásolja a tenger, számos étterem kínál ízletes és friss halételeket. A város könnyen megközelíthető, és csodálatosan nyugodt környezetet kínál a látogatóknak, hogy teljes mértékben kiélvezhessék az algériai partvidék szépségét.", "ro": "Oureah este o destinație fermecătoare pe coasta algeriană, oferind vizitatorilor posibilitatea de a descoperi viața tradițională mediteraneană. Orașul iese în evidență prin atmosfera sa relaxantă și este un loc perfect pentru a scăpa de agitația vieții de zi cu zi. Aici, călătorii vor găsi un amestec armonios de frumusețe naturală și cultură locală.\n\nPorțiunile frumoase de coastă, în special Plage Oureah și plaja Les Sablettes, se numără printre principalele atracții ale regiunii. Aceste plaje se caracterizează prin nisip fin și apă ușor înclinată, ceea ce le face deosebit de prietenoase cu familiile. Vizitatorii pot înota, se pot plimba sau pur și simplu se pot bucura de soarele cald aici.\n\nOferta culinară din Oureah este puternic influențată de mare, numeroase restaurante servind preparate delicioase și proaspete din pește. Orașul este ușor accesibil și oferă o ambianță minunat de pașnică pentru vizitatori pentru a se bucura din plin de frumusețea coastei algeriene.", "en": "Oureah is a charming destination on the Algerian coast, offering visitors the opportunity to discover traditional Mediterranean life. The town stands out for its relaxing atmosphere and is a perfect place to escape the hectic pace of everyday life. Here, travelers will find a harmonious blend of natural beauty and local culture.\n\nThe beautiful stretches of coastline, especially Plage Oureah and Les Sablettes beach, are among the region's main attractions. These beaches are characterized by soft sand and gently sloping water, making them particularly family-friendly. Visitors can swim, walk, or simply enjoy the warming sun here.\n\nThe culinary offering in Oureah is heavily influenced by the sea, with numerous restaurants serving delicious and fresh fish dishes. The town is easily accessible and offers a wonderfully peaceful ambiance for visitors to fully enjoy the beauty of the Algerian coastline."}, "facts": {"de": ["Sandstrände", "Plage Oureah", "Les Sablettes", "Familienfreundlich", "Mittelmeer", "Lokaler Charme", "Fischrestaurants", "Sanfte Wellen"], "hu": ["Homokos partok", "Plage Oureah", "Les Sablettes", "Családi strandok", "Földközi-tenger", "Helyi varázs", "Tengeri éttermek", "Lágy hullámok"], "ro": ["Țărmuri de nisip", "Plage Oureah", "Les Sablettes", "Plaje de familie", "Marea Mediterană", "Farmec local", "Restaurante cu pește", "Valuri blânde"], "en": ["Sandy shores", "Plage Oureah", "Les Sablettes", "Family beaches", "Mediterranean", "Local charm", "Seafood restaurants", "Gentle waves"]}, "image": "/poi-images/algeria-oureah-cities-v2.webp"},
 {"id": "morocco-izemmouren-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Playa Palomas",
-                  "text": "Playa Palomas ist ein Strand in Izemmouren إزمّـورن.",
-                  "category": "recreational",
-                  "coords": [
-                        -3.06687,
-                        35.29493
-                  ]
-            },
-            {
-                  "name": "Playa Los Piratos",
-                  "text": "Playa Los Piratos ist ein Strand in Izemmouren إزمّـورن.",
-                  "category": "recreational",
-                  "coords": [
-                        -3.075098,
-                        35.287994
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Playa Palomas",
-                  "text": "A Playa Palomas egy strand Izemmouren إزمّـورن területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -3.06687,
-                        35.29493
-                  ]
-            },
-            {
-                  "name": "Playa Los Piratos",
-                  "text": "A Playa Los Piratos egy strand Izemmouren إزمّـورن területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -3.075098,
-                        35.287994
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Playa Palomas",
-                  "text": "Playa Palomas este o plajă din Izemmouren إزمّـورن.",
-                  "category": "recreational",
-                  "coords": [
-                        -3.06687,
-                        35.29493
-                  ]
-            },
-            {
-                  "name": "Playa Los Piratos",
-                  "text": "Playa Los Piratos este o plajă în Izemmouren إزمّـورن.",
-                  "category": "recreational",
-                  "coords": [
-                        -3.075098,
-                        35.287994
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Playa Palomas",
-                  "text": "Playa Palomas is a beach located in Izemmouren إزمّـورن.",
-                  "category": "recreational",
-                  "coords": [
-                        -3.06687,
-                        35.29493
-                  ]
-            },
-            {
-                  "name": "Playa Los Piratos",
-                  "text": "Playa Los Piratos is a beach located in Izemmouren إزمّـورن.",
-                  "category": "recreational",
-                  "coords": [
-                        -3.075098,
-                        35.287994
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "MA-04", "coords": [-3.04801, 35.30171], "tier": 2, "name": {"de": "Izemmouren إزمّـورن", "hu": "Izemmouren إزمّـورن", "ro": "Izemmouren إزمّـورن", "en": "Izemmouren إزمّـورن"}, "description": {"de": "Izemmouren ist eine ruhige Küstenstadt in Nordmarokko, die für ihre unberührten Strände wie Playa Los Piratos bekannt ist.", "hu": "Izemmouren egy nyugodt tengerparti város Észak-Marokkóban, amely olyan érintetlen strandjairól ismert, mint a Playa Los Piratos.", "ro": "Izemmouren este un oraș de coastă liniștit din nordul Marocului, renumit pentru plajele sale imaculate precum Playa Los Piratos.", "en": "Izemmouren is a tranquil coastal town in northern Morocco, known for its pristine beaches like Playa Los Piratos."}, "descriptionAdvanced": {"de": "Izemmouren ist eine faszinierende Küstenstadt im Norden Marokkos, eingebettet in die atemberaubende Mittelmeerküste. Sie bietet eine perfekte Mischung aus traditioneller Kultur und atemberaubenden Naturlandschaften. Die Region zeichnet sich durch raue Klippen, kristallklares Wasser und eine ruhige Atmosphäre aus, die Besucher anzieht, die einen authentischen Rückzugsort suchen.\n\nEiner der Hauptanziehungspunkte von Izemmouren ist seine herrliche Küste mit der unberührten Playa Los Piratos und der malerischen Playa Palomas. Diese Strände sind für ihren goldenen Sand und das einladende Wasser bekannt und bieten ideale Bedingungen zum Schwimmen und Sonnenbaden. Die ruhige Umgebung dieser Küstenorte macht sie perfekt für Familien und Naturliebhaber.\n\nNeben seinen schönen Stränden bietet die Stadt einen Einblick in das Leben der lokalen Gemeinschaften. Besucher können die Hügel erkunden, fangfrische Meeresfrüchte mit lokalen Gewürzen genießen und echte Gastfreundschaft erleben. Izemmouren ist über die malerischen Straßen der Region Al Hoceima erreichbar und bleibt ein verstecktes Juwel.", "hu": "Izemmouren egy lenyűgöző tengerparti város Észak-Marokkóban, amely a lélegzetelállító Földközi-tenger partvidékén fekszik. A hagyományos kultúra és a lenyűgöző természeti tájak tökéletes keverékét kínálja. A régiót zord sziklák, kristálytiszta kék víz és nyugodt légkör jellemzi, amely vonzza az autentikus menedéket kereső látogatókat.\n\nIzemmouren egyik fő látványossága a csodálatos partvidék, ahol az érintetlen Playa Los Piratos és a festői Playa Palomas található. Ezek a strandok aranyhomokjukról és hívogató vizükről híresek, ideális feltételeket biztosítva az úszáshoz és a napozáshoz. Ezeknek a part menti helyeknek a nyugodt környezete tökéletessé teszi őket a családok és a természet szerelmesei számára egyaránt.\n\nGyönyörű strandjain túl a város bepillantást enged a helyi közösségek életébe is. A látogatók felfedezhetik a dombokat, megkóstolhatják a helyi fűszerekkel készített, frissen fogott tenger gyümölcseit, és megtapasztalhatják a valódi vendégszeretetet. Az Al Hoceima régió festői útjain megközelíthető Izemmouren egy rejtett gyöngyszem marad, amely békés tengerparti kikapcsolódást ígér.", "ro": "Izemmouren este un oraș de coastă captivant situat în nordul Marocului, cuibărit de-a lungul coastei uluitoare a Mării Mediterane. Acesta oferă un amestec perfect de cultură tradițională și peisaje naturale uimitoare. Regiunea se caracterizează prin stâncile sale abrupte, apele albastre cristaline și o atmosferă senină care atrage vizitatorii care caută o evadare autentică.\n\nUnul dintre principalele puncte de atracție din Izemmouren este țărmul său magnific, cu plaja virgină Playa Los Piratos și pitoreasca Playa Palomas. Aceste plaje sunt renumite pentru nisipurile lor aurii și apele primitoare, oferind condiții ideale pentru înot și plajă. Mediul liniștit al acestor locuri de coastă le face perfecte pentru familii și pasionații de natură.\n\nDincolo de plajele sale frumoase, orașul oferă o privire în viața comunităților locale. Vizitatorii pot explora dealurile, se pot bucura de fructe de mare proaspăt prinse preparate cu condimente locale și pot experimenta ospitalitatea autentică. Accesibil prin drumurile pitorești din regiunea Al Hoceima, Izemmouren rămâne o bijuterie ascunsă.", "en": "Izemmouren is a captivating coastal town situated in northern Morocco, nestled along the breathtaking Mediterranean coastline. It offers a perfect blend of traditional culture and stunning natural landscapes. The region is characterized by its rugged cliffs, crystal-clear blue waters, and a serene atmosphere that attracts visitors looking for an authentic escape.\n\nOne of the main highlights of Izemmouren is its magnificent shoreline, featuring the pristine Playa Los Piratos and the scenic Playa Palomas. These beaches are renowned for their golden sands and inviting waters, providing ideal conditions for swimming and sunbathing. The tranquil environment of these coastal spots makes them perfect for families and nature enthusiasts.\n\nBeyond its beautiful beaches, the town offers a glimpse into the life of local communities. Visitors can explore the hills, enjoy freshly caught seafood prepared with local spices, and experience genuine hospitality. Accessible via the scenic roads of the Al Hoceima region, Izemmouren remains a hidden gem promising a peaceful coastal retreat."}, "facts": {"de": ["Liegt in Nordmarokko", "Mittelmeerküste", "In der Nähe von Al Hoceima", "Verfügt über Playa Los Piratos", "Verfügt über Playa Palomas", "Ruhige Atmosphäre", "Frische lokale Meeresfrüchte", "Schroffe Küstenklippen"], "hu": ["Észak-Marokkóban található", "Földközi-tengeri partvidék", "Al Hoceima közelében", "Itt található a Playa Los Piratos", "Itt található a Playa Palomas", "Nyugodt légkör", "Friss helyi tenger gyümölcsei", "Zord tengerparti sziklák"], "ro": ["Situat în nordul Marocului", "Coasta mediteraneană", "Aproape de Al Hoceima", "Include Playa Los Piratos", "Include Playa Palomas", "Atmosferă liniștită", "Fructe de mare locale proaspete", "Stânci abrupte de coastă"], "en": ["Located in northern Morocco", "Mediterranean coastline", "Close to Al Hoceima", "Features Playa Los Piratos", "Features Playa Palomas", "Tranquil atmosphere", "Fresh local seafood", "Rugged coastal cliffs"]}, "image": "/poi-images/morocco-izemmouren-cities-v2.webp"},
 {"id": "algeria-bouzedjar-cities-v2", "sights": {
       "de": [
@@ -17729,33 +13366,6 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Banana point",
-                  "text": "Eine lokale Küstenattraktion in Aourir.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.683459,
-                        30.50221
-                  ]
-            },
-            {
-                  "name": "Surfspot Km11 Km12",
-                  "text": "Eine beliebte Freizeitattraktion für Surfer in Aourir.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.676593,
-                        30.495287
-                  ]
-            },
-            {
-                  "name": "Banana Beach",
-                  "text": "Ein beliebter Strand am Meer in Aourir.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.680046,
-                        30.501969
-                  ]
-            },
-            {
                   "name": "Plage Imourane",
                   "text": "Ein Küstenstrand, der Erholung am Meer in Aourir bietet.",
                   "category": "recreational",
@@ -17782,33 +13392,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         -9.688284,
                         30.506824
-                  ]
-            },
-            {
-                  "name": "Banana point",
-                  "text": "Helyi tengerparti látványosság Aourir városában.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.683459,
-                        30.50221
-                  ]
-            },
-            {
-                  "name": "Surfspot Km11 Km12",
-                  "text": "Népszerű szabadidős látványosság a szörfösök számára Aourir városában.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.676593,
-                        30.495287
-                  ]
-            },
-            {
-                  "name": "Banana Beach",
-                  "text": "Népszerű tengerparti strand Aourir városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.680046,
-                        30.501969
                   ]
             },
             {
@@ -17841,33 +13424,6 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Banana point",
-                  "text": "O atracție locală pe coastă situată în Aourir.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.683459,
-                        30.50221
-                  ]
-            },
-            {
-                  "name": "Surfspot Km11 Km12",
-                  "text": "O atracție de agrement populară printre surferi în Aourir.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.676593,
-                        30.495287
-                  ]
-            },
-            {
-                  "name": "Banana Beach",
-                  "text": "O plajă populară pe litoral situată în Aourir.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.680046,
-                        30.501969
-                  ]
-            },
-            {
                   "name": "Plage Imourane",
                   "text": "O plajă pe coastă care oferă recreere la malul mării în Aourir.",
                   "category": "recreational",
@@ -17897,33 +13453,6 @@ export const afNewV1: POI[] = [
                   ]
             },
             {
-                  "name": "Banana point",
-                  "text": "A local coastal attraction situated in Aourir.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.683459,
-                        30.50221
-                  ]
-            },
-            {
-                  "name": "Surfspot Km11 Km12",
-                  "text": "A popular recreational attraction for surfers in Aourir.",
-                  "category": "landmark",
-                  "coords": [
-                        -9.676593,
-                        30.495287
-                  ]
-            },
-            {
-                  "name": "Banana Beach",
-                  "text": "A popular seaside beach located in Aourir.",
-                  "category": "recreational",
-                  "coords": [
-                        -9.680046,
-                        30.501969
-                  ]
-            },
-            {
                   "name": "Plage Imourane",
                   "text": "A coastal beach providing seaside recreation in Aourir.",
                   "category": "recreational",
@@ -17935,348 +13464,16 @@ export const afNewV1: POI[] = [
       ]
 }, "type": "city", "parent": "MA-13", "coords": [-9.6711, 30.49808], "tier": 2, "name": {"en": "Aourir", "de": "Aourir", "hu": "Aourir", "ro": "Aourir"}, "description": {"en": "Aourir, known as Banana Village, is a vibrant coastal town near Agadir, famous for its surf breaks and sweet bananas.", "de": "Aourir, bekannt als Bananendorf, ist eine lebhafte Küstenstadt in der Nähe von Agadir, berühmt für Surfspots und süße Bananen.", "hu": "Aourir, a Banánfalu egy pezsgő tengerparti város Agadir közelében, amely szörfös helyeiről és édes banánjairól híres.", "ro": "Aourir, cunoscut sub numele de Satul Bananelor, este un oraș de coastă vibrant lângă Agadir, faimos pentru surf și banane dulci."}, "descriptionAdvanced": {"en": "Aourir is a charming coastal destination in Morocco, affectionately known as Banana Village due to the abundance of sweet bananas grown in the nearby river valley. Located just a short drive north of Agadir, it offers a more relaxed, authentic Moroccan atmosphere compared to the bustling city. The village center is filled with traditional shops, bustling souks, and welcoming locals.\n\nThe coastline here is a major draw for both locals and international visitors, especially surfers. The famous Banana Beach provides excellent waves that cater to both beginners and experienced surfers. The golden sands and the rolling waves of the Atlantic Ocean make it an ideal spot for sunbathing, walking, and enjoying the vibrant beach culture.\n\nGastronomy in Aourir is heavily influenced by the sea and local agriculture. Visitors can savor incredibly fresh seafood caught daily, alongside the iconic local bananas. Traditional tagines served in small, family-run restaurants offer a true taste of Moroccan culinary heritage. Access is straightforward via the scenic coastal road from Agadir, making it a perfect day trip or a peaceful base for exploring the region.", "de": "Aourir ist ein charmantes marokkanisches Küstenziel, das wegen der vielen süßen Bananen, die im nahe gelegenen Flusstal angebaut werden, liebevoll Bananendorf genannt wird. Es liegt nur eine kurze Autofahrt nördlich von Agadir und bietet eine entspanntere, authentische marokkanische Atmosphäre als die geschäftige Großstadt. Das Dorfzentrum ist voll von traditionellen Geschäften, belebten Souks und freundlichen Einheimischen.\n\nDie Küste hier ist ein großer Anziehungspunkt für Einheimische und internationale Besucher, insbesondere für Surfer. Der berühmte Banana Beach bietet hervorragende Wellen, die sowohl für Anfänger als auch für erfahrene Surfer geeignet sind. Der goldene Sand und die rollenden Wellen des Atlantischen Ozeans machen es zu einem idealen Ort zum Sonnenbaden, für lange Spaziergänge und um die lebhafte Strandkultur zu genießen.\n\nDie Gastronomie in Aourir ist stark vom Meer und der lokalen Landwirtschaft geprägt. Besucher können unglaublich frische Meeresfrüchte probieren, die täglich gefangen werden, zusammen mit den ikonischen lokalen Bananen. Traditionelle Tajines, die in kleinen, familiengeführten Restaurants serviert werden, bieten einen wahren Geschmack des marokkanischen kulinarischen Erbes. Die Anreise ist einfach über die malerische Küstenstraße von Agadir.", "hu": "Aourir egy bájos marokkói tengerparti úti cél, amelyet Banánfalunak is neveznek a közeli folyóvölgyben termesztett rengeteg édes banán miatt. Az Agadirtól csupán egy rövid autóútra északra található település nyugodtabb, autentikusabb marokkói hangulatot kínál, mint a nyüzsgő nagyváros. A falu központja tele van hagyományos boltokkal, nyüzsgő piacokkal és barátságos helyiekkel.\n\nA helyi partszakasz hatalmas vonzerőt jelent mind a helyiek, mind a nemzetközi látogatók, különösen a szörfösök számára. A híres Banana Beach kiváló hullámokat kínál, amelyek kezdő és tapasztalt szörfösök számára egyaránt ideálisak. Az Atlanti-óceán aranyló homokja és hullámai tökéletes helyszínt biztosítanak a napozáshoz, a tengerparti sétákhoz és a pezsgő strandkultúra élvezetéhez.\n\nAourir gasztronómiáját erősen befolyásolja a tenger és a helyi mezőgazdaság. A látogatók a naponta fogott, hihetetlenül friss tenger gyümölcseit kóstolhatják meg az ikonikus helyi banánok mellett. A kis, családi éttermekben felszolgált hagyományos tagine-ok a marokkói kulináris örökség valódi ízét nyújtják. A megközelítés egyszerű az Agadirból induló festői tengerparti úton, így tökéletes egy napos kiránduláshoz is.", "ro": "Aourir este o destinație de coastă fermecătoare din Maroc, cunoscută cu afecțiune sub numele de Satul Bananelor datorită abundenței de banane dulci cultivate în valea râului din apropiere. Situat la doar o scurtă călătorie cu mașina la nord de Agadir, oferă o atmosferă marocană mai relaxată și mai autentică în comparație cu orașul plin de viață. Centrul satului este plin de magazine tradiționale și localnici primitori.\n\nLitoralul de aici este o atracție majoră atât pentru localnici, cât și pentru vizitatorii internaționali, în special pentru surferi. Faimoasa Banana Beach oferă valuri excelente care se potrivesc atât începătorilor, cât și surferilor experimentați. Nisipurile aurii și valurile ondulate ale Oceanului Atlantic fac din acesta un loc ideal pentru plajă, plimbări și pentru a vă bucura de cultura vibrantă a plajei.\n\nGastronomia din Aourir este puternic influențată de mare și de agricultura locală. Vizitatorii pot savura fructe de mare incredibil de proaspete, prinse zilnic, alături de bananele locale iconice. Taginele tradiționale servite în restaurante mici, de familie, oferă un gust adevărat al moștenirii culinare marocane. Accesul este simplu prin drumul pitoresc de coastă dinspre Agadir, fiind o excursie perfectă de o zi."}, "facts": {"en": ["Located north of Agadir", "Nicknamed Banana Village", "Famous for Banana Beach", "Popular surfing destination", "Traditional Moroccan souks", "Known for sweet local bananas", "Accessible via N1 coastal road", "Offers fresh seafood tagines"], "de": ["Nördlich von Agadir gelegen", "Trägt den Spitznamen Bananendorf", "Berühmt für den Banana Beach", "Beliebtes Ziel für Surfer", "Traditionelle marokkanische Souks", "Bekannt für süße lokale Bananen", "Erreichbar über die N1-Küstenstraße", "Bietet frische Meeresfrüchte-Tajines"], "hu": ["Agadirtól északra található", "Banánfalu a beceneve", "A Banana Beachről híres", "Népszerű szörfös úti cél", "Hagyományos marokkói piacok", "Édes helyi banánjairól ismert", "Az N1-es parti úton elérhető", "Friss tengeri tagine-t kínál"], "ro": ["Situat la nord de Agadir", "Poreclit Satul Bananelor", "Faimos pentru Banana Beach", "Destinație populară de surf", "Piețe tradiționale marocane", "Cunoscut pentru bananele locale dulci", "Accesibil pe drumul de coastă N1", "Oferă tagine cu fructe de mare proaspete"]}, "image": "/poi-images/morocco-aourir-cities-v2.webp"},
 {"id": "gambia-kafaya-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Halahin Beach",
-                  "text": "Halahin Beach ist ein Strand in Kafaya.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.766904,
-                        13.106816
-                  ]
-            },
-            {
-                  "name": "Sandele beach",
-                  "text": "Sandele beach ist ein Strand in Kafaya.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.76609,
-                        13.120986
-                  ]
-            },
-            {
-                  "name": "Mama sanchaba",
-                  "text": "Mama sanchaba ist ein Strand in Kafaya.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.76836,
-                        13.126648
-                  ]
-            },
-            {
-                  "name": "Baboi Beach",
-                  "text": "Baboi Beach ist ein Strand in Kafaya.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.765784,
-                        13.115102
-                  ]
-            },
-            {
-                  "name": "Gambia Reptile Farm",
-                  "text": "Die Gambia Reptile Farm ist ein Zoo in Kafaya.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.757743,
-                        13.121848
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Halahin Beach",
-                  "text": "A Halahin Beach egy strand Kafaya területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.766904,
-                        13.106816
-                  ]
-            },
-            {
-                  "name": "Sandele beach",
-                  "text": "A Sandele beach egy strand Kafaya területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.76609,
-                        13.120986
-                  ]
-            },
-            {
-                  "name": "Mama sanchaba",
-                  "text": "A Mama sanchaba egy strand Kafaya területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.76836,
-                        13.126648
-                  ]
-            },
-            {
-                  "name": "Baboi Beach",
-                  "text": "A Baboi Beach egy strand Kafaya területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.765784,
-                        13.115102
-                  ]
-            },
-            {
-                  "name": "Gambia Reptile Farm",
-                  "text": "A Gambia Reptile Farm egy állatkert Kafaya városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.757743,
-                        13.121848
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Halahin Beach",
-                  "text": "Halahin Beach este o plajă din Kafaya.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.766904,
-                        13.106816
-                  ]
-            },
-            {
-                  "name": "Sandele beach",
-                  "text": "Sandele beach este o plajă situată în Kafaya.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.76609,
-                        13.120986
-                  ]
-            },
-            {
-                  "name": "Mama sanchaba",
-                  "text": "Mama sanchaba este o plajă în Kafaya.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.76836,
-                        13.126648
-                  ]
-            },
-            {
-                  "name": "Baboi Beach",
-                  "text": "Baboi Beach este o plajă din Kafaya.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.765784,
-                        13.115102
-                  ]
-            },
-            {
-                  "name": "Gambia Reptile Farm",
-                  "text": "Gambia Reptile Farm este o grădină zoologică situată în Kafaya.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.757743,
-                        13.121848
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Halahin Beach",
-                  "text": "Halahin Beach is a beach located in Kafaya.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.766904,
-                        13.106816
-                  ]
-            },
-            {
-                  "name": "Sandele beach",
-                  "text": "Sandele beach is a beach located in Kafaya.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.76609,
-                        13.120986
-                  ]
-            },
-            {
-                  "name": "Mama sanchaba",
-                  "text": "Mama sanchaba is a beach located in Kafaya.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.76836,
-                        13.126648
-                  ]
-            },
-            {
-                  "name": "Baboi Beach",
-                  "text": "Baboi Beach is a beach located in Kafaya.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.765784,
-                        13.115102
-                  ]
-            },
-            {
-                  "name": "Gambia Reptile Farm",
-                  "text": "The Gambia Reptile Farm is a zoo located in Kafaya.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.757743,
-                        13.121848
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "GM-W", "coords": [-16.77011, 13.13331], "tier": 2, "name": {"en": "Kafaya", "de": "Kafaya", "hu": "Kafaya", "ro": "Kafaya"}, "description": {"en": "Kafaya is a serene coastal area in The Gambia, celebrated for its eco-tourism initiatives and the expansive beauty of its untouched Atlantic shoreline.", "de": "Kafaya ist ein ruhiges Küstengebiet in Gambia, das für seine Ökotourismus-Initiativen und die weite Schönheit seiner unberührten Atlantikküste gefeiert wird.", "hu": "Kafaya egy békés tengerparti terület Gambiában, amelyet ökoturisztikai kezdeményezései és az érintetlen atlanti partvonal szépsége tesz nevezetessé.", "ro": "Kafaya este o zonă de coastă liniștită din Gambia, celebrată pentru inițiativele sale de ecoturism și frumusețea expansivă a țărmului său atlantic neatins."}, "descriptionAdvanced": {"en": "Kafaya represents the tranquil, unspoiled side of The Gambia's coastline, situated in the southern region of the country. This destination is increasingly recognized for its commitment to sustainable eco-tourism, drawing visitors who seek a deep connection with nature rather than crowded resort towns. The village area retains a highly traditional charm, deeply interwoven with the surrounding coastal forests and mangrove ecosystems.\n\nThe shoreline here is characterized by magnificent, wide stretches of sand. Sandele beach is a pristine highlight, known for its pristine environment and sea turtle conservation efforts, offering miles of uninterrupted walking space. Nearby, Mama sanchaba provides another beautiful, quiet spot where the gentle waves of the Atlantic Ocean wash ashore. The lack of heavy commercial development means these beaches remain incredibly peaceful, perfect for relaxation and wildlife observation.\n\nGastronomy in the Kafaya area focuses on locally sourced ingredients. Eco-lodges and small village eateries serve traditional Gambian dishes like domoda and benachin, incorporating fresh fish caught by local artisanal fishermen. Reaching Kafaya requires a journey southward from the main tourist hubs, via coastal dirt roads that offer an adventurous transition into this pristine and culturally rich sanctuary.", "de": "Kafaya repräsentiert die ruhige, unberührte Seite der Küste Gambias und liegt in der südlichen Region des Landes. Dieses Reiseziel wird zunehmend für sein Engagement für nachhaltigen Ökotourismus anerkannt und zieht Besucher an, die eine tiefe Verbindung zur Natur suchen, anstatt überfüllte Ferienorte. Das Dorfgebiet hat sich einen sehr traditionellen Charme bewahrt, der eng mit den umliegenden Küstenwäldern und Mangrovenökosystemen verwoben ist.\n\nDie Küstenlinie hier zeichnet sich durch herrliche, breite Sandstrände aus. Sandele beach ist ein unberührtes Highlight, das für seine saubere Umwelt und die Bemühungen zum Schutz von Meeresschildkröten bekannt ist und kilometerlange, ungestörte Spazierwege bietet. In der Nähe bietet Mama sanchaba einen weiteren schönen, ruhigen Ort, an dem die sanften Wellen des Atlantischen Ozeans an Land spülen. Der Mangel an starker kommerzieller Entwicklung bedeutet, dass diese Strände unglaublich friedlich bleiben, perfekt für Entspannung und Tierbeobachtungen.\n\nDie Gastronomie in der Gegend von Kafaya konzentriert sich auf Zutaten aus der Region. Öko-Lodges und kleine Dorflokale servieren traditionelle gambische Gerichte wie Domoda und Benachin, in die frischer Fisch der lokalen Fischer einfließt. Um Kafaya zu erreichen, muss man von den wichtigsten Touristenzentren aus nach Süden reisen, über Küstenstraßen, die einen abenteuerlichen Übergang in dieses unberührte und kulturell reiche Naturschutzgebiet bieten.", "hu": "Kafaya Gambia tengerpartjának nyugodt, érintetlen oldalát képviseli, és az ország déli régiójában található. Ezt az úti célt egyre inkább elismerik a fenntartható ökoturizmus iránti elkötelezettsége miatt, és olyan látogatókat vonz, akik a zsúfolt üdülővárosok helyett a természettel való mély kapcsolatra vágynak. A falu területe megőrizte rendkívül hagyományos báját, amely mélyen összefonódik a környező parti erdőkkel és mangrove ökoszisztémákkal.\n\nAz itteni partvonalat csodálatos, széles homokos szakaszok jellemzik. A Sandele beach egy érintetlen fénypont, amely tiszta környezetéről és a tengeri teknősök védelmére irányuló erőfeszítéseiről ismert, és mérföldnyi zavartalan sétálóterületet kínál. A közelben a Mama sanchaba egy másik gyönyörű, csendes helyet kínál, ahol az Atlanti-óceán szelíd hullámai mossák a partot. A jelentős kereskedelmi fejlesztések hiánya miatt ezek a strandok hihetetlenül békések maradnak, tökéletesek a pihenésre és a vadon élő állatok megfigyelésére.\n\nA Kafaya környéki gasztronómia a helyi alapanyagokra összpontosít. Az ökoszállások és a kis falusi étkezdék olyan hagyományos gambiai ételeket szolgálnak fel, mint a domoda és a benachin, a helyi halászok által fogott friss halak felhasználásával. Kafaya eléréséhez dél felé kell utazni a fő turisztikai központokból, tengerparti földutakon keresztül, amelyek kalandos átmenetet kínálnak ebbe az érintetlen és kulturálisan gazdag szentélybe.", "ro": "Kafaya reprezintă latura liniștită și virgină a coastei Gambiei, situată în regiunea de sud a țării. Această destinație este din ce în ce mai recunoscută pentru angajamentul său față de ecoturismul durabil, atrăgând vizitatori care caută o conexiune profundă cu natura, mai degrabă decât orașe stațiuni aglomerate. Zona satului păstrează un farmec extrem de tradițional, profund împletit cu pădurile de coastă și ecosistemele de mangrove din jur.\n\nLitoralul de aici este caracterizat de întinderi magnifice și largi de nisip. Sandele beach este un punct de atracție curat, cunoscut pentru mediul său curat și eforturile de conservare a broaștelor țestoase marine, oferind kilometri de spațiu de mers pe jos neîntrerupt. În apropiere, Mama sanchaba oferă un alt loc frumos și liniștit, unde valurile blânde ale Oceanului Atlantic se spală la țărm. Lipsa unei dezvoltări comerciale masive înseamnă că aceste plaje rămân incredibil de pașnice, perfecte pentru relaxare și observarea faunei.\n\nGastronomia din zona Kafaya se concentrează pe ingrediente din surse locale. Eco-lodge-urile și micile restaurante din sat servesc mâncăruri tradiționale gambiene, cum ar fi domoda și benachin, încorporând pește proaspăt prins de pescarii locali. Ajungerea la Kafaya necesită o călătorie spre sud dinspre principalele centre turistice, prin drumuri de pământ de coastă care oferă o tranziție aventuroasă către acest sanctuar curat și bogat cultural."}, "facts": {"en": ["Located in southern Gambia", "Focuses on sustainable eco-tourism", "Features pristine Sandele beach", "Includes the quiet Mama sanchaba", "Sea turtle conservation area", "Traditional village atmosphere", "Serves authentic Gambian cuisine", "Accessible via scenic dirt roads"], "de": ["Im Süden Gambias gelegen", "Konzentriert sich auf nachhaltigen Ökotourismus", "Verfügt über den unberührten Sandele beach", "Schließt das ruhige Mama sanchaba ein", "Meeresschildkröten-Schutzgebiet", "Traditionelle Dorfatmosphäre", "Serviert authentische gambische Küche", "Erreichbar über malerische unbefestigte Straßen"], "hu": ["Dél-Gambiában található", "A fenntartható ökoturizmusra fókuszál", "Itt található az érintetlen Sandele beach", "Magában foglalja a csendes Mama sanchaba strandot", "Tengeriteknős-védelmi terület", "Hagyományos falusi hangulat", "Autentikus gambiai konyhát kínál", "Festői földutakon közelíthető meg"], "ro": ["Situat în sudul Gambiei", "Se concentrează pe ecoturismul durabil", "Prezintă curata Sandele beach", "Include liniștita Mama sanchaba", "Zonă de conservare a broaștelor țestoase marine", "Atmosferă de sat tradițional", "Servește preparate autentice din Gambia", "Accesibil prin drumuri de pământ pitorești"]}, "image": "/poi-images/gambia-kafaya-cities-v2.webp"},
 {"id": "cape-verde-pedro-vaz-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Monte Penoso",
-                  "text": "Monte Penoso ist der höchste Berggipfel auf der Insel Maio und befindet sich in der Nähe von Pedro Vaz.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.13008,
-                        15.227823
-                  ]
-            },
-            {
-                  "name": "Praiona",
-                  "text": "Praiona ist ein Küstenstrand in Pedro Vaz.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.105793,
-                        15.268442
-                  ]
-            },
-            {
-                  "name": "Praia de Boca Ribeira",
-                  "text": "Praia de Boca Ribeira ist ein malerischer Strand in Pedro Vaz.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.098607,
-                        15.243065
-                  ]
-            },
-            {
-                  "name": "Prainha",
-                  "text": "Prainha ist ein angenehmer Strandabschnitt in Pedro Vaz.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.101122,
-                        15.254935
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Monte Penoso",
-                  "text": "A Monte Penoso a Maio sziget legmagasabb hegycsúcsa, Pedro Vaz közelében.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.13008,
-                        15.227823
-                  ]
-            },
-            {
-                  "name": "Praiona",
-                  "text": "A Praiona egy tengerparti strand Pedro Vaz területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.105793,
-                        15.268442
-                  ]
-            },
-            {
-                  "name": "Praia de Boca Ribeira",
-                  "text": "A Praia de Boca Ribeira egy festői strand Pedro Vaz városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.098607,
-                        15.243065
-                  ]
-            },
-            {
-                  "name": "Prainha",
-                  "text": "A Prainha egy kellemes partszakasz Pedro Vaz területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.101122,
-                        15.254935
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Monte Penoso",
-                  "text": "Monte Penoso este cel mai înalt vârf de munte de pe insula Maio, situat lângă Pedro Vaz.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.13008,
-                        15.227823
-                  ]
-            },
-            {
-                  "name": "Praiona",
-                  "text": "Praiona este o plajă de coastă situată în Pedro Vaz.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.105793,
-                        15.268442
-                  ]
-            },
-            {
-                  "name": "Praia de Boca Ribeira",
-                  "text": "Praia de Boca Ribeira este o plajă pitorească situată în Pedro Vaz.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.098607,
-                        15.243065
-                  ]
-            },
-            {
-                  "name": "Prainha",
-                  "text": "Prainha este o porțiune plăcută de plajă situată în Pedro Vaz.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.101122,
-                        15.254935
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Monte Penoso",
-                  "text": "Monte Penoso is the highest mountain peak on the island of Maio, located near Pedro Vaz.",
-                  "category": "landmark",
-                  "coords": [
-                        -23.13008,
-                        15.227823
-                  ]
-            },
-            {
-                  "name": "Praiona",
-                  "text": "Praiona is a coastal beach located in Pedro Vaz.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.105793,
-                        15.268442
-                  ]
-            },
-            {
-                  "name": "Praia de Boca Ribeira",
-                  "text": "Praia de Boca Ribeira is a scenic beach situated in Pedro Vaz.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.098607,
-                        15.243065
-                  ]
-            },
-            {
-                  "name": "Prainha",
-                  "text": "Prainha is a pleasant stretch of beach located in Pedro Vaz.",
-                  "category": "recreational",
-                  "coords": [
-                        -23.101122,
-                        15.254935
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "CV-MA", "coords": [-23.11584, 15.24738], "tier": 2, "name": {"en": "Pedro Vaz", "de": "Pedro Vaz", "hu": "Pedro Vaz", "ro": "Pedro Vaz"}, "description": {"en": "Pedro Vaz is a quiet, authentic village on the east coast of Maio in Cape Verde, known for its dramatic coastal landscapes and slow pace of life.", "de": "Pedro Vaz ist ein ruhiges, authentisches Dorf an der Ostküste von Maio auf den Kapverden, bekannt für seine dramatischen Küstenlandschaften.", "hu": "Pedro Vaz egy csendes, autentikus falu a Zöld-foki-szigetekhez tartozó Maio keleti partján, amely drámai tengerparti tájairól és lassú életritmusáról ismert.", "ro": "Pedro Vaz este un sat liniștit și autentic pe coasta de est a insulei Maio din Capul Verde, cunoscut pentru peisajele sale de coastă dramatice."}, "descriptionAdvanced": {"en": "Pedro Vaz is a small, profoundly peaceful village situated on the eastern coastline of Maio, one of the most untouched and tranquil islands in the Cape Verde archipelago. This settlement offers a rare glimpse into authentic Cape Verdean rural life, far from the tourist trails. The village itself features modest, colorful houses set against a backdrop of arid, dramatic landscapes, reflecting the resilient spirit of the local farming and fishing community.\n\nThe Atlantic Ocean plays a central role in the life of Pedro Vaz, shaping both its economy and its striking scenery. The nearby Praia de Boca Ribeira is a beautiful, wild beach characterized by its expansive sands and powerful surf, offering a raw natural experience perfect for solitary walks and contemplation. Just a short distance away lies Prainha, a smaller, more intimate cove where the waters are often calmer, providing a serene spot for relaxation under the warm Cape Verdean sun.\n\nGastronomy in this isolated region is simple, hearty, and locally sourced. Meals typically revolve around the catch of the day, alongside staples like cachupa, a slow-cooked stew of corn and beans. Getting to Pedro Vaz requires a journey across the island from Maio's main port, usually via cobblestone roads or dirt tracks, making the trip an authentic adventure into the heart of Cape Verde's pristine environment.", "de": "Pedro Vaz ist ein kleines, zutiefst friedliches Dorf an der Ostküste von Maio, einer der unberührtesten und ruhigsten Inseln des kapverdischen Archipels. Diese Siedlung bietet einen seltenen Einblick in das authentische ländliche Leben der Kapverden, fernab der Touristenpfade. Das Dorf selbst verfügt über bescheidene, farbenfrohe Häuser vor der Kulisse trockener, dramatischer Landschaften, die den unverwüstlichen Geist der lokalen Bauern- und Fischergemeinde widerspiegeln.\n\nDer Atlantische Ozean spielt eine zentrale Rolle im Leben von Pedro Vaz und prägt sowohl seine Wirtschaft als auch seine beeindruckende Landschaft. Die nahe gelegene Praia de Boca Ribeira ist ein wunderschöner, wilder Strand, der sich durch weiten Sand und starke Brandung auszeichnet und ein raues Naturerlebnis bietet, das sich perfekt für einsame Spaziergänge und Besinnung eignet. Nur ein kurzes Stück entfernt liegt Prainha, eine kleinere, intimere Bucht, in der das Wasser oft ruhiger ist und einen ruhigen Ort zum Entspannen unter der warmen Sonne der Kapverden bietet.\n\nDie Gastronomie in dieser abgelegenen Region ist einfach, herzhaft und stammt aus der Region. Die Mahlzeiten drehen sich normalerweise um den Fang des Tages, neben Grundnahrungsmitteln wie Cachupa, einem langsam gekochten Eintopf aus Mais und Bohnen. Um nach Pedro Vaz zu gelangen, ist eine Reise über die Insel vom Haupthafen von Maio erforderlich, normalerweise über Kopfsteinpflasterstraßen oder Feldwege, was die Reise zu einem authentischen Abenteuer in das Herz der unberührten Umgebung der Kapverden macht.", "hu": "Pedro Vaz egy kicsi, rendkívül békés falu Maio keleti partvonalán, amely a Zöld-foki-szigetek egyik leginkább érintetlen és legnyugodtabb szigete. Ez a település ritka bepillantást nyújt az autentikus zöld-foki vidéki életbe, messze a turisták által járt utaktól. Maga a falu szerény, színes házakkal büszkélkedhet, amelyek száraz, drámai tájak hátterében állnak, tükrözve a helyi mezőgazdasági és halászközösség kitartó szellemét.\n\nAz Atlanti-óceán központi szerepet játszik Pedro Vaz életében, alakítva mind a gazdaságot, mind a lenyűgöző tájat. A közeli Praia de Boca Ribeira egy gyönyörű, vad strand, amelyet kiterjedt homok és erőteljes hullámzás jellemez, nyers természeti élményt kínálva, amely tökéletes a magányos sétákhoz és a szemlélődéshez. Csak egy rövid távolságra fekszik a Prainha, egy kisebb, meghittebb öböl, ahol a vizek gyakran nyugodtabbak, csendes helyet biztosítva a pihenésre a meleg zöld-foki nap alatt.\n\nA gasztronómia ebben az elszigetelt régióban egyszerű, kiadós és helyi forrásokból származik. Az étkezések általában a napi fogás körül forognak, olyan alapvető ételek mellett, mint a cachupa, amely egy lassan főzött kukorica- és babbabpörkölt. Pedro Vaz eléréséhez utazásra van szükség a szigeten át Maio fő kikötőjéből, általában macskaköves utakon vagy földutakon keresztül, így az utazás autentikus kaland a Zöld-foki-szigetek érintetlen környezetének szívébe.", "ro": "Pedro Vaz este un sat mic, profund pașnic, situat pe coasta de est a insulei Maio, una dintre cele mai neatins și mai liniștite insule din arhipelagul Capului Verde. Această așezare oferă o privire rară asupra vieții rurale autentice capverdiene, departe de traseele turistice. Satul în sine are case modeste, colorate, așezate pe fundalul unor peisaje aride și dramatice, reflectând spiritul rezistent al comunității locale de fermieri și pescari.\n\nOceanul Atlantic joacă un rol central în viața lui Pedro Vaz, modelând atât economia, cât și peisajul său izbitor. Praia de Boca Ribeira din apropiere este o plajă frumoasă și sălbatică, caracterizată prin nisipurile sale întinse și valurile puternice, oferind o experiență naturală brută, perfectă pentru plimbări solitare și contemplare. La doar o scurtă distanță se află Prainha, un golf mai mic și mai intim, unde apele sunt adesea mai calme, oferind un loc senin pentru relaxare sub soarele cald capverdian.\n\nGastronomia din această regiune izolată este simplă, consistentă și din surse locale. Mesele se învârt de obicei în jurul capturii zilei, alături de produse de bază precum cachupa, o tocană gătită lent cu porumb și fasole. Ajungerea la Pedro Vaz necesită o călătorie pe insulă de la portul principal al lui Maio, de obicei prin drumuri pietruite sau drumuri de pământ, transformând călătoria într-o aventură autentică."}, "facts": {"en": ["Located on Maio Island", "Traditional Cape Verdean village", "Features Praia de Boca Ribeira", "Home to the intimate Prainha", "Known for agricultural and fishing heritage", "Dramatic, arid coastal landscapes", "Famous for local Cachupa stew", "Accessible via cobblestone island roads"], "de": ["Auf der Insel Maio gelegen", "Traditionelles kapverdisches Dorf", "Verfügt über die Praia de Boca Ribeira", "Heimat der intimen Prainha", "Bekannt für landwirtschaftliches und fischereiliches Erbe", "Dramatische, trockene Küstenlandschaften", "Berühmt für lokalen Cachupa-Eintopf", "Erreichbar über Kopfsteinpflasterstraßen der Insel"], "hu": ["Maio szigetén található", "Hagyományos zöld-foki falu", "Itt található a Praia de Boca Ribeira", "A meghitt Prainha otthona", "Mezőgazdasági és halászati örökségéről ismert", "Drámai, száraz tengerparti tájak", "A helyi Cachupa pörköltről híres", "Macskaköves szigeti utakon elérhető"], "ro": ["Situat pe insula Maio", "Sat tradițional capverdian", "Prezintă Praia de Boca Ribeira", "Găzduiește intima Prainha", "Cunoscut pentru moștenirea agricolă și de pescuit", "Peisaje de coastă aride și dramatice", "Faimos pentru tocana locală Cachupa", "Accesibil prin drumuri pietruite pe insulă"]}, "image": "/poi-images/cape-verde-pedro-vaz-cities-v2.webp"},
 {"id": "south-africa-umkomaas-cities-v2", "sights": {
       "de": [
@@ -18361,132 +13558,16 @@ export const afNewV1: POI[] = [
       ]
 }, "type": "city", "parent": "ZA-NL", "coords": [30.79611, -30.20639], "tier": 2, "name": {"en": "Umkomaas", "de": "Umkomaas", "hu": "Umkomaas", "ro": "Umkomaas"}, "description": {"en": "Umkomaas is a vibrant coastal town in KwaZulu-Natal, renowned worldwide for its spectacular scuba diving and beautiful beaches.", "de": "Umkomaas ist eine lebhafte Küstenstadt in KwaZulu-Natal, die weltweit für ihre spektakulären Tauchplätze und schönen Strände bekannt ist.", "hu": "Umkomaas egy nyüzsgő tengerparti város KwaZulu-Natal tartományban, amely világszerte híres látványos búvárkodási lehetőségeiről és strandjairól.", "ro": "Umkomaas este un oraș de coastă vibrant din KwaZulu-Natal, renumit la nivel mondial pentru scufundările spectaculoase și plajele sale frumoase."}, "descriptionAdvanced": {"en": "Umkomaas is a prime destination on the sun-drenched coast of KwaZulu-Natal, deeply intertwined with the powerful currents of the Indian Ocean. The town serves as the primary gateway to the Aliwal Shoal, a world-renowned reef system that attracts divers eager to swim alongside ragged-tooth sharks, dolphins, and turtles. The rugged coastline is characterized by rolling waves and expansive sandy shores that appeal to both thrill-seekers and nature lovers.\n\nBeyond underwater adventures, the coastal region is a hub for aerial and surface sports. Just a short distance away is the Umgababa Hanggliding Site, where enthusiasts launch into the sky to enjoy breathtaking panoramic views of the ocean and the lush coastal vegetation. The beaches here offer an untamed beauty, perfect for long walks and watching the dramatic sunrises that illuminate the eastern seaboard.\n\nThe town itself retains a laid-back, welcoming atmosphere with a history tied to early coastal navigation. Visitors can enjoy a variety of local restaurants offering freshly caught seafood and traditional South African braai. Access to Umkomaas is highly convenient, located just a short drive south of Durban along the scenic N2 highway, making it an accessible and unforgettable coastal getaway.", "de": "Umkomaas ist ein erstklassiges Reiseziel an der sonnenverwöhnten Küste von KwaZulu-Natal, tief verbunden mit den starken Strömungen des Indischen Ozeans. Die Stadt dient als Haupttor zum Aliwal Shoal, einem weltberühmten Riffsystem, das Taucher anzieht, die neben Sandtigerhaien, Delfinen und Schildkröten schwimmen möchten. Die raue Küstenlinie ist geprägt von rollenden Wellen und weiten Sandstränden, die sowohl Abenteuerlustige als auch Naturliebhaber ansprechen.\n\nNeben Unterwasserabenteuern ist die Küstenregion ein Zentrum für Luft- und Wassersportarten. Nur eine kurze Strecke entfernt liegt die Umgababa Hanggliding Site, wo Enthusiasten in den Himmel starten, um atemberaubende Panoramablicke auf den Ozean und die üppige Küstenvegetation zu genießen. Die Strände hier bieten eine ungezähmte Schönheit, perfekt für lange Spaziergänge und das Beobachten spektakulärer Sonnenaufgänge.\n\nDie Stadt selbst hat sich eine entspannte, einladende Atmosphäre bewahrt. Besucher können eine Vielzahl von lokalen Restaurants genießen, die fangfrischen Fisch und traditionelles südafrikanisches Braai anbieten. Die Anreise nach Umkomaas ist äußerst bequem; es liegt nur eine kurze Fahrt südlich von Durban an der malerischen Autobahn N2, was es zu einem leicht erreichbaren Küstenausflug macht.", "hu": "Umkomaas egy kiemelkedő célpont KwaZulu-Natal napsütötte partvidékén, amely mélyen összefonódik az Indiai-óceán erőteljes áramlataival. A város az elsődleges kapuja az Aliwal Shoalnak, a világhírű zátonyrendszernek, amely vonzza a homoki tigriscápákkal, delfinekkel és teknősökkel úszni vágyó búvárokat. A zord partvidéket hullámzó vizek és kiterjedt homokos partok jellemzik, amelyek vonzzák az izgalomra vágyókat és a természet szerelmeseit egyaránt.\n\nA víz alatti kalandokon túl a partvidék a légi és vízi sportok központja is. Csak egy rövid távolságra található az Umgababa Hanggliding Site sárkányrepülő bázis, ahonnan a sport szerelmesei a magasba emelkedve élvezhetik az óceánra és a buja tengerparti növényzetre nyíló lélegzetelállító panorámát. Az itteni strandok vad szépséget kínálnak, tökéletesek hosszú sétákhoz és a drámai napfelkelték megtekintéséhez.\n\nMaga a város megőrizte laza, barátságos légkörét. A látogatók számos helyi éttermet élvezhetnek, amelyek frissen fogott tenger gyümölcseit és hagyományos dél-afrikai braai-t (grillt) kínálnak. Umkomaas megközelítése nagyon kényelmes, mindössze egy rövid autóútra fekszik Durbantól délre a festői N2-es autópálya mentén, így könnyen elérhető és felejthetetlen tengerparti kiruccanást nyújt.", "ro": "Umkomaas este o destinație de top pe coasta însorită din KwaZulu-Natal, profund legată de curenții puternici ai Oceanului Indian. Orașul servește drept poartă principală către Aliwal Shoal, un sistem de recife de renume mondial care atrage scafandri dornici să înoate alături de rechini, delfini și țestoase. Coasta accidentată este caracterizată de valuri spectaculoase și țărmuri nisipoase întinse, care atrag atât iubitorii de senzații tari, cât și de natură.\n\nDincolo de aventurile subacvatice, regiunea de coastă este un centru pentru sporturile aeriene și de suprafață. La doar o scurtă distanță se află Umgababa Hanggliding Site, unde entuziaștii se lansează spre cer pentru a se bucura de vederi panoramice uluitoare asupra oceanului și a vegetației de coastă. Plajele de aici oferă o frumusețe sălbatică, perfectă pentru plimbări lungi la răsărit.\n\nOrașul în sine își păstrează o atmosferă relaxată și primitoare. Vizitatorii se pot bucura de o varietate de restaurante locale care oferă fructe de mare proaspăt prinse și braai (grătar) tradițional sud-african. Accesul la Umkomaas este extrem de convenabil, fiind situat la doar o scurtă călătorie cu mașina la sud de Durban, de-a lungul autostrăzii pitorești N2."}, "facts": {"en": ["Gateway to Aliwal Shoal", "Premier shark diving location", "Indian Ocean coastline", "Umgababa Hanggliding Site nearby", "Subtropical coastal climate", "Popular for surfing and swimming", "Located south of Durban", "Fresh local seafood"], "de": ["Tor zum Aliwal Shoal", "Erstklassiger Ort zum Haitauchen", "Küste des Indischen Ozeans", "Umgababa Hanggliding Site in der Nähe", "Subtropisches Küstenklima", "Beliebt zum Surfen und Schwimmen", "Südlich von Durban gelegen", "Frische lokale Meeresfrüchte"], "hu": ["Kapu az Aliwal Shoalhoz", "Kiemelkedő cápás merülőhely", "Indiai-óceán partvidéke", "Umgababa Hanggliding Site a közelben", "Szubtrópusi parti éghajlat", "Népszerű szörfözéshez és úszáshoz", "Durbantól délre fekszik", "Friss helyi tengeri ételek"], "ro": ["Poarta către Aliwal Shoal", "Locație de top pentru scufundări cu rechini", "Coasta Oceanului Indian", "Umgababa Hanggliding Site în apropiere", "Climat subtropical de coastă", "Popular pentru surfing și înot", "Situat la sud de Durban", "Fructe de mare locale proaspete"]}, "image": "/poi-images/south-africa-umkomaas-cities-v2.webp"},
 {"id": "south-africa-melkbosstrand-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Corners",
-                  "text": "Corners ist ein friedlicher Strand in Melkbosstrand.",
-                  "category": "recreational",
-                  "coords": [
-                        18.442344,
-                        -33.72015
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Corners",
-                  "text": "A Corners egy békés strand Melkbosstrand területén.",
-                  "category": "recreational",
-                  "coords": [
-                        18.442344,
-                        -33.72015
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Corners",
-                  "text": "Corners este o plajă liniștită situată în Melkbosstrand.",
-                  "category": "recreational",
-                  "coords": [
-                        18.442344,
-                        -33.72015
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Corners",
-                  "text": "Corners is a peaceful beach situated in Melkbosstrand.",
-                  "category": "recreational",
-                  "coords": [
-                        18.442344,
-                        -33.72015
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "ZA-WC", "coords": [18.44583, -33.72222], "tier": 2, "name": {"en": "Melkbosstrand", "de": "Melkbosstrand", "hu": "Melkbosstrand", "ro": "Melkbosstrand"}, "description": {"en": "Melkbosstrand is a charming coastal village near Cape Town, renowned for its pristine white beaches and iconic views of Table Mountain.", "de": "Melkbosstrand ist ein charmantes Küstendorf in der Nähe von Kapstadt, bekannt für seine weißen Strände und den ikonischen Blick auf den Tafelberg.", "hu": "Melkbosstrand egy bájos tengerparti falu Fokváros közelében, amely érintetlen fehér homokos partjairól és a Tábla-hegyre nyíló kilátásáról híres.", "ro": "Melkbosstrand este un sat de coastă fermecător de lângă Cape Town, renumit pentru plajele sale albe și vederile emblematice spre Table Mountain."}, "descriptionAdvanced": {"en": "Nestled along the rugged Atlantic seaboard, Melkbosstrand is widely considered the gateway to South Africa's beautiful West Coast. This tranquil coastal town is famous for its long stretches of uncrowded white sand and the dramatic, icy blue waters of the Atlantic Ocean. The beaches here offer some of the most spectacular, uninterrupted views of Table Mountain and Robben Island, making it a favorite spot for sunset photography and long evening walks.\n\nWater sports are at the heart of the local lifestyle. The town boasts several excellent surfing locations, with 'Corners' being one of the most prominent beaches for wave riders. Consistent swells and favorable wind conditions make it an ideal playground for surfers, kiteboarders, and windsurfers. Families also frequent the shores to explore the tidal pools and enjoy the pristine natural environment that borders the Koeberg Nature Reserve.\n\nThe culinary scene in Melkbosstrand is heavily influenced by its maritime heritage. Visitors can find an array of beachfront restaurants and cozy cafes serving classic West Coast cuisine, including fresh line fish, calamari, and traditional seafood potjiekos. The town is highly accessible, situated just a 30-minute drive north of Cape Town's city center via the scenic R27 coastal road.", "de": "Eingebettet an der rauen Atlantikküste gilt Melkbosstrand weithin als Tor zu Südafrikas wunderschöner Westküste. Diese ruhige Küstenstadt ist berühmt für ihre langen, leeren weißen Sandstrände und das dramatische, eisblaue Wasser des Atlantiks. Die Strände hier bieten einige der spektakulärsten und ungestörtesten Ausblicke auf den Tafelberg und Robben Island, was sie zu einem beliebten Ort für Sonnenuntergangsfotografie und Strandspaziergänge macht.\n\nWassersport steht im Mittelpunkt des lokalen Lebensstils. Die Stadt verfügt über mehrere hervorragende Surfspots, wobei der Strand 'Corners' einer der bekanntesten für Wellenreiter ist. Beständige Dünungen und günstige Windbedingungen machen ihn zu einem idealen Spielplatz für Surfer, Kiteboarder und Windsurfer. Familien besuchen die Küste auch gerne, um die Gezeitenbecken zu erkunden und die unberührte Natur zu genießen, die an das Koeberg Nature Reserve grenzt.\n\nDie kulinarische Szene in Melkbosstrand ist stark von seinem maritimen Erbe geprägt. Besucher finden eine Reihe von Strandrestaurants und gemütlichen Cafés, die klassische Küche der Westküste servieren, darunter frischen Fisch, Calamari und traditionelles Meeresfrüchte-Potjiekos. Die Stadt ist sehr gut erreichbar und liegt nur eine 30-minütige Fahrt nördlich des Stadtzentrums von Kapstadt über die malerische Küstenstraße R27.", "hu": "A zord Atlanti-óceán partvidékén fekvő Melkbosstrandot széles körben Dél-Afrika gyönyörű nyugati partjának kapujaként tartják számon. Ez a nyugodt tengerparti város híres hosszú, elhagyatott fehér homokos partjairól és az Atlanti-óceán drámai, jégkék vizéről. Az itteni strandok a leglátványosabb, zavartalan kilátást nyújtják a Tábla-hegyre és a Robben-szigetre, így a naplemente fotózásának és a hosszú esti sétáknak a kedvenc helyszíne.\n\nA vízi sportok a helyi életmód középpontjában állnak. A város számos kiváló szörfhelyszínnel büszkélkedhet, amelyek közül a 'Corners' nevű strand a hullámlovasok egyik legkiemelkedőbb célpontja. A folyamatos hullámzás és a kedvező szélviszonyok ideális játszótérré teszik a szörfösök, kiteszörfösök és széllovaglók számára. A családok is gyakran látogatják a partokat, hogy felfedezzék az árapály-medencéket és élvezzék a Koeberg Természetvédelmi Területtel határos érintetlen természeti környezetet.\n\nMelkbosstrand kulináris színterét erősen befolyásolja tengeri öröksége. A látogatók számos tengerparti éttermet és hangulatos kávézót találhatnak, amelyek klasszikus nyugati parti konyhát kínálnak, beleértve a friss halakat, a tintahalat és a hagyományos tengeri potjiekost (ragut). A város rendkívül könnyen megközelíthető, Fokváros központjától mindössze 30 perces autóútra északra található a festői R27-es parti úton.", "ro": "Amplasat de-a lungul coastei accidentate a Atlanticului, Melkbosstrand este considerat pe scară largă poarta de intrare către frumoasa Coastă de Vest a Africii de Sud. Acest oraș de coastă liniștit este renumit pentru întinderile sale lungi de nisip alb neaglomerat și apele dramatice, de un albastru de gheață, ale Oceanului Atlantic. Plajele de aici oferă unele dintre cele mai spectaculoase vederi neîntrerupte asupra Table Mountain și Robben Island.\n\nSporturile nautice sunt în centrul stilului de viață local. Orașul se mândrește cu mai multe locații excelente pentru surfing, 'Corners' fiind una dintre cele mai proeminente plaje pentru călăreții de valuri. Valurile constante și condițiile favorabile de vânt îl fac un teren de joacă ideal pentru surferi și iubitorii de kiteboard. Familiile frecventează, de asemenea, țărmurile pentru a explora bazinele de maree și pentru a se bucura de natura imaculată.\n\nScena culinară din Melkbosstrand este puternic influențată de moștenirea sa maritimă. Vizitatorii pot găsi o serie de restaurante pe malul mării și cafenele primitoare care servesc preparate clasice de pe Coasta de Vest, inclusiv pește proaspăt, calamari și tradiționalul potjiekos cu fructe de mare. Orașul este foarte accesibil, la doar 30 de minute de condus la nord de Cape Town, pe drumul de coastă R27."}, "facts": {"en": ["Gateway to the West Coast", "Iconic Table Mountain views", "Famous Corners surf break", "Cold Atlantic Ocean waters", "Historic coastal village", "Renowned for seafood restaurants", "Close to Koeberg Nature Reserve", "30 minutes from Cape Town"], "de": ["Tor zur Westküste", "Ikonische Ausblicke auf den Tafelberg", "Berühmter Surfspot Corners", "Kaltes Wasser des Atlantischen Ozeans", "Historisches Küstendorf", "Bekannt für Fischrestaurants", "In der Nähe des Koeberg Nature Reserve", "30 Minuten von Kapstadt entfernt"], "hu": ["A nyugati part kapuja", "Ikonikus kilátás a Tábla-hegyre", "Híres Corners szörfhely", "Hideg Atlanti-óceán vize", "Történelmi tengerparti falu", "Híres tengeri éttermeiről", "Közel a Koeberg Természetvédelmi Területhez", "30 percre Fokvárostól"], "ro": ["Poarta către Coasta de Vest", "Vederi iconice spre Table Mountain", "Faimosul loc de surf Corners", "Apele reci ale Oceanului Atlantic", "Sat istoric de coastă", "Renumit pentru restaurantele cu fructe de mare", "Aproape de Rezervația Naturală Koeberg", "La 30 de minute de Cape Town"]}, "image": "/poi-images/south-africa-melkbosstrand-cities-v2.webp"},
 {"id": "ghana-kpone-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Kpone Beach Resort",
-                  "text": "Das Kpone Beach Resort ist eine entspannende Touristenattraktion in Kpone.",
-                  "category": "landmark",
-                  "coords": [
-                        0.055278,
-                        5.683716
-                  ]
-            },
-            {
-                  "name": "Paradise Beach",
-                  "text": "Paradise Beach ist eine schöne Attraktion am Meer in Kpone.",
-                  "category": "landmark",
-                  "coords": [
-                        0.043273,
-                        5.672908
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Kpone Beach Resort",
-                  "text": "A Kpone Beach Resort egy pihentető turisztikai látványosság Kpone városában.",
-                  "category": "landmark",
-                  "coords": [
-                        0.055278,
-                        5.683716
-                  ]
-            },
-            {
-                  "name": "Paradise Beach",
-                  "text": "A Paradise Beach egy gyönyörű tengerparti látványosság Kpone területén.",
-                  "category": "landmark",
-                  "coords": [
-                        0.043273,
-                        5.672908
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Kpone Beach Resort",
-                  "text": "Kpone Beach Resort este o atracție turistică relaxantă în Kpone.",
-                  "category": "landmark",
-                  "coords": [
-                        0.055278,
-                        5.683716
-                  ]
-            },
-            {
-                  "name": "Paradise Beach",
-                  "text": "Paradise Beach este o atracție frumoasă la malul mării în Kpone.",
-                  "category": "landmark",
-                  "coords": [
-                        0.043273,
-                        5.672908
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Kpone Beach Resort",
-                  "text": "Kpone Beach Resort is a relaxing tourist attraction in Kpone.",
-                  "category": "landmark",
-                  "coords": [
-                        0.055278,
-                        5.683716
-                  ]
-            },
-            {
-                  "name": "Paradise Beach",
-                  "text": "Paradise Beach is a beautiful seaside attraction in Kpone.",
-                  "category": "landmark",
-                  "coords": [
-                        0.043273,
-                        5.672908
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "GH-AA", "coords": [0.05702, 5.68969], "tier": 2, "name": {"en": "Kpone", "de": "Kpone", "hu": "Kpone", "ro": "Kpone"}, "description": {"en": "Kpone is a bustling coastal town in Greater Accra, offering a blend of traditional fishing culture and relaxing sandy beaches.", "de": "Kpone ist eine lebhafte Küstenstadt in Greater Accra, die eine Mischung aus traditioneller Fischerkultur und entspannenden Sandstränden bietet.", "hu": "Kpone egy nyüzsgő tengerparti város Nagy-Accra régióban, amely a hagyományos halászati kultúra és a pihentető homokos strandok keverékét kínálja.", "ro": "Kpone este un oraș de coastă aglomerat din Greater Accra, oferind un amestec de cultură tradițională a pescuitului și plaje de nisip relaxante."}, "descriptionAdvanced": {"en": "Situated along the vibrant coastline of the Gulf of Guinea, Kpone is a historically significant town that perfectly captures the essence of Ghanaian coastal life. Historically rooted in the traditions of the indigenous Ga-Adangbe people, the town remains an active fishing hub where colorful wooden canoes constantly brave the ocean waves. The sight of fishermen hauling in their daily catch adds an authentic and lively atmosphere to the pristine shores.\n\nFor those seeking relaxation, Kpone is home to beautiful stretches of coastline, most notably the idyllic Paradise Beach. True to its name, Paradise Beach offers visitors a tranquil escape from the bustling city life, featuring golden sands bordered by swaying palm trees and the warm waters of the Atlantic. It is an excellent spot for sunbathing, beach soccer, and enjoying the gentle ocean breeze in a serene environment.\n\nThe local culinary scene is heavily centered around the ocean's bounty. Visitors can savor traditional Ghanaian coastal dishes such as spicy grilled tilapia, banku, and freshly prepared kenkey right on the beach. Kpone is strategically located just east of Tema, making it easily accessible via the coastal highway from Accra. It is a perfect destination for a weekend retreat combining cultural immersion with seaside relaxation.", "de": "An der lebhaften Küste des Golfs von Guinea gelegen, ist Kpone eine historisch bedeutsame Stadt, die die Essenz des ghanaischen Küstenlebens perfekt einfängt. Die Stadt, die historisch in den Traditionen des indigenen Ga-Adangbe-Volkes verwurzelt ist, bleibt ein aktives Fischereizentrum, in dem bunte Holzkanus ständig den Meereswellen trotzen. Der Anblick von Fischern, die ihren täglichen Fang einholen, verleiht den unberührten Ufern eine authentische Atmosphäre.\n\nFür diejenigen, die Entspannung suchen, bietet Kpone wunderschöne Küstenabschnitte, allen voran den idyllischen Paradise Beach. Getreu seinem Namen bietet der Paradise Beach Besuchern eine ruhige Flucht aus dem hektischen Stadtleben mit goldenem Sand, der von wankenden Palmen und den warmen Gewässern des Atlantiks gesäumt wird. Es ist ein ausgezeichneter Ort zum Sonnenbaden, Strandfußballspielen und Genießen der sanften Meeresbrise in ruhiger Umgebung.\n\nDie lokale kulinarische Szene dreht sich stark um die Fülle des Ozeans. Besucher können traditionelle ghanaische Küstengerichte wie würzig gegrillten Tilapia, Banku und frisch zubereitetes Kenkey direkt am Strand probieren. Kpone liegt strategisch günstig direkt östlich von Tema, wodurch es über die Küstenstraße von Accra aus leicht erreichbar ist. Ein perfektes Reiseziel für einen Wochenendausflug.", "hu": "A Guineai-öböl nyüzsgő partvidékén fekvő Kpone egy történelmileg jelentős város, amely tökéletesen megragadja a ghánai tengerparti élet esszenciáját. A történelmileg az őslakos Ga-Adangbe nép hagyományaiban gyökerező város továbbra is aktív halászati központ, ahol a színes fa kenuk folyamatosan dacolnak az óceán hullámaival. A napi fogást behúzó halászok látványa hiteles és élénk atmoszférát kölcsönöz az érintetlen partoknak.\n\nA kikapcsolódásra vágyók számára Kpone gyönyörű partvonalaknak ad otthont, amelyek közül a leginkább figyelemre méltó az idilli Paradise Beach. A nevéhez hűen a Paradise Beach nyugodt menekülést kínál a nyüzsgő városi élet elől, aranyló homokját ringatózó pálmafák és az Atlanti-óceán meleg vizei szegélyezik. Kiváló hely napozáshoz, strandfocihoz és a lágy óceáni szellő élvezetéhez egy békés környezetben.\n\nA helyi kulináris élet erősen az óceán bősége körül forog. A látogatók a tengerparton kóstolhatják meg a hagyományos ghánai partvidéki ételeket, mint például a fűszeres grillezett tilápiát, a bankut és a frissen készített kenkey-t. Kpone stratégiai helyen, Temától keletre fekszik, így Accrából a parti autópályán könnyen megközelíthető. Tökéletes célpont egy hétvégi elvonuláshoz.", "ro": "Situat de-a lungul coastei vibrante a Golfului Guineei, Kpone este un oraș semnificativ din punct de vedere istoric, care surprinde perfect esența vieții de coastă din Ghana. Înrădăcinat istoric în tradițiile poporului indigen Ga-Adangbe, orașul rămâne un hub activ de pescuit, unde canoe colorate din lemn înfruntă constant valurile oceanului. Vederea pescarilor care își aduc captura zilnică adaugă o atmosferă autentică și plină de viață țărmurilor.\n\nPentru cei care caută relaxare, Kpone găzduiește porțiuni frumoase de coastă, în special idilica Paradise Beach. Fidelă numelui său, Paradise Beach oferă vizitatorilor o evadare liniștită din viața agitată a orașului, prezentând nisipuri aurii mărginite de palmieri și apele calde ale Atlanticului. Este un loc excelent pentru a face plajă, a juca fotbal pe plajă și a te bucura de briza blândă a oceanului.\n\nScena culinară locală este puternic centrată în jurul abundenței oceanului. Vizitatorii pot savura mâncăruri tradiționale de coastă din Ghana, cum ar fi tilapia la grătar condimentată, banku și kenkey proaspăt preparat direct pe plajă. Kpone este situat strategic chiar la est de Tema, fiind ușor accesibil prin autostrada de coastă din Accra. Este o destinație perfectă pentru un refugiu de weekend."}, "facts": {"en": ["Located on the Gulf of Guinea", "Home to Paradise Beach", "Rich Ga-Adangbe cultural heritage", "Active traditional fishing port", "Warm Atlantic Ocean waters", "Close to Tema and Accra", "Famous for grilled tilapia and banku", "Golden sandy shores"], "de": ["Liegt am Golf von Guinea", "Heimat des Paradise Beach", "Reiches kulturelles Erbe der Ga-Adangbe", "Aktiver traditioneller Fischerhafen", "Warmes Wasser des Atlantischen Ozeans", "In der Nähe von Tema und Accra", "Berühmt für gegrillten Tilapia und Banku", "Goldene Sandstrände"], "hu": ["A Guineai-öböl partján fekszik", "A Paradise Beach otthona", "Gazdag Ga-Adangbe kulturális örökség", "Aktív hagyományos halászkikötő", "Az Atlanti-óceán meleg vize", "Közel Temához és Accrához", "Híres a grillezett tilápiáról és a bankuról", "Aranyhomokos partok"], "ro": ["Situat pe Golful Guineei", "Găzduiește Paradise Beach", "Bogată moștenire culturală Ga-Adangbe", "Port activ de pescuit tradițional", "Apele calde ale Oceanului Atlantic", "Aproape de Tema și Accra", "Faimos pentru tilapia la grătar și banku", "Țărmuri cu nisip auriu"]}, "image": "/poi-images/ghana-kpone-cities-v2.webp"},
 {"id": "egypt-nueiba-cities-v2", "type": "city", "parent": "EG-JS", "coords": [34.66167, 29.035], "tier": 2, "name": {"en": "Nueiba", "de": "Nueiba", "hu": "Nueiba", "ro": "Nueiba"}, "description": {"en": "Nueiba is a tranquil beach town on the Gulf of Aqaba, offering a serene escape with majestic mountains meeting the Red Sea.", "de": "Nueiba ist eine ruhige Küstenstadt am Golf von Akaba, die einen Zufluchtsort bietet, an dem majestätische Berge auf das Rote Meer treffen.", "hu": "Nueiba egy csendes tengerparti falu az Akabai-öböl partján, amely békés menedéket kínál ott, ahol a fenséges hegyek a Vörös-tengerrel találkoznak.", "ro": "Nueiba este un oraș de plajă liniștit pe Golful Aqaba, oferind o evadare senină unde munții măreți întâlnesc Marea Roșie."}, "descriptionAdvanced": {"en": "Nueiba is one of the Sinai Peninsula's most peaceful and captivating coastal gems. Nestled gently between the towering, rugged Sinai mountains and the crystal-clear waters of the Gulf of Aqaba, this laid-back town offers a striking contrast of landscapes. It is a sanctuary for those looking to escape the hyper-developed tourist resorts, providing a deeply authentic and slow-paced Red Sea experience where nature takes center stage.\n\nThe coastline is dotted with traditional Bedouin-style camps and eco-lodges, with the Salah Boutique Camp being a prime example of the town's unique hospitality. Here, visitors can step right out of their bamboo huts onto the soft, sun-warmed sand. The vibrant coral reefs lying just offshore are easily accessible for snorkeling and diving, teeming with colorful marine life. At night, the absence of city lights creates a mesmerizing canopy of stars over the calm sea.\n\nLocal gastronomy in Nueiba is deeply influenced by Bedouin culture, featuring fresh fish, fire-baked flatbreads, and sweet, aromatic herbal teas served around beach bonfires. The town's atmosphere is wonderfully relaxed, encouraging visitors to disconnect and unwind. Easily accessible by road from Sharm El Sheikh or Taba, Nueiba is the ultimate destination for barefoot luxury and spiritual rejuvenation by the sea.", "de": "Nueiba ist eines der friedlichsten und faszinierendsten Küstenjuwele der Sinai-Halbinsel. Sanft eingebettet zwischen den hoch aufragenden, rauen Sinai-Bergen und dem kristallklaren Wasser des Golfs von Akaba bietet diese entspannte Stadt einen markanten Landschaftskontrast. Sie ist ein Zufluchtsort für alle, die den stark entwickelten Touristenorten entfliehen möchten, und bietet ein tief authentisches, ruhiges Erlebnis am Roten Meer, bei dem die Natur im Mittelpunkt steht.\n\nDie Küste ist übersät mit traditionellen Camps im Beduinenstil und Eco-Lodges, wobei das Salah Boutique Camp ein hervorragendes Beispiel für die einzigartige Gastfreundschaft der Stadt ist. Hier können Besucher direkt aus ihren Bambushütten auf den weichen, sonnenverwöhnten Sand treten. Die lebhaften Korallenriffe direkt vor der Küste sind zum Schnorcheln und Tauchen leicht zugänglich und wimmeln von farbenfrohem Meeresleben. Nachts schafft das Fehlen von Stadtlichtern einen faszinierenden Sternenhimmel über der See.\n\nDie lokale Gastronomie in Nueiba ist stark von der Beduinenkultur geprägt und bietet frischen Fisch, über dem Feuer gebackene Fladenbrote und süße, aromatische Kräutertees, die an Strandlagerfeuern serviert werden. Die Atmosphäre der Stadt ist wunderbar entspannt. Leicht mit dem Auto von Sharm El Sheikh oder Taba aus zu erreichen, ist Nueiba das ultimative Reiseziel für Barfuß-Luxus am Meer.", "hu": "Nueiba a Sínai-félsziget egyik legbékésebb és leglenyűgözőbb tengerparti gyöngyszeme. A magasba tornyosuló, zord sínai hegyek és az Akabai-öböl kristálytiszta vizei között szelíden megbúvó, laza falu lenyűgöző táji kontrasztot kínál. Menedéket nyújt azok számára, akik a túlfejlett turistaközpontok elől menekülnek, és mélyen hiteles, lassú tempójú vörös-tengeri élményt nyújt, ahol a természet áll a középpontban.\n\nA partvidéket hagyományos beduin stílusú táborok és öko-szállások tarkítják, amelyek közül a Salah Boutique Camp a falu egyedülálló vendéglátásának egyik kiváló példája. Itt a látogatók a bambuszkunyhóikból egyenesen a puha, napsütötte homokra léphetnek. A közvetlenül a part mentén húzódó élénk korallzátonyok könnyen megközelíthetők sznorkelezés és búvárkodás céljából, és hemzsegnek a színes tengeri élettől. Éjszaka a városi fények hiánya varázslatos csillagkupolát hoz létre a csendes tenger felett.\n\nNueiba helyi gasztronómiáját mélyen befolyásolja a beduin kultúra, és a tengerparti tábortüzek körül felszolgált friss halakat, tűzön sült laposkenyereket és édes, aromás gyógyteákat kínál. A város légköre csodálatosan nyugodt, kikapcsolódásra és pihenésre ösztönzi a látogatókat. A Sharm El Sheikhből vagy Tabából közúton könnyen megközelíthető Nueiba a mezítlábas luxus és a lelki megújulás végső célpontja a tengerparton.", "ro": "Nueiba este una dintre cele mai pașnice și captivante bijuterii de coastă ale Peninsulei Sinai. Cuibărit cu blândețe între munții înalți și stâncoși din Sinai și apele cristaline ale Golfului Aqaba, acest oraș relaxat oferă un contrast izbitor de peisaje. Este un sanctuar pentru cei care doresc să scape de stațiunile turistice hiper-dezvoltate, oferind o experiență la Marea Roșie profund autentică, unde natura ocupă locul central.\n\nCoasta este presărată cu tabere tradiționale în stil beduin și eco-lodge-uri, Salah Boutique Camp fiind un exemplu excelent al ospitalității unice a orașului. Aici, vizitatorii pot păși direct din colibele lor de bambus pe nisipul moale și încălzit de soare. Recifele de corali vibrante situate chiar în larg sunt ușor accesibile pentru snorkeling și scufundări, abundând în viață marină colorată. Noaptea, absența luminilor creează un baldachin fascinant de stele peste marea calmă.\n\nGastronomia locală din Nueiba este profund influențată de cultura beduină, oferind pește proaspăt, lipii coapte pe foc și ceaiuri din plante dulci și aromate, servite în jurul focurilor de tabără de pe plajă. Atmosfera orașului este minunat de relaxată. Ușor accesibil pe drumul de la Sharm El Sheikh sau Taba, Nueiba este destinația supremă pentru luxul desculț la malul mării."}, "facts": {"en": ["Located on the Gulf of Aqaba", "Surrounded by Sinai Mountains", "Crystal clear Red Sea waters", "Famous for Salah Boutique Camp", "Authentic Bedouin culture", "Excellent shore snorkeling", "Calm and laid-back atmosphere", "Accessible from Sharm El Sheikh"], "de": ["Liegt am Golf von Akaba", "Umgeben vom Sinai-Gebirge", "Kristallklares Wasser des Roten Meeres", "Berühmt für das Salah Boutique Camp", "Authentische Beduinenkultur", "Hervorragendes Schnorcheln vom Ufer aus", "Ruhige und entspannte Atmosphäre", "Erreichbar von Sharm El Sheikh"], "hu": ["Az Akabai-öböl partján található", "A Sínai-hegység veszi körül", "Kristálytiszta Vörös-tenger", "Híres a Salah Boutique Camp táborról", "Autentikus beduin kultúra", "Kiváló parti sznorkelezés", "Csendes és laza légkör", "Megközelíthető Sharm El Sheikhből"], "ro": ["Situat pe Golful Aqaba", "Înconjurat de Munții Sinai", "Apele cristaline ale Mării Roșii", "Faimos pentru Salah Boutique Camp", "Cultură beduină autentică", "Snorkeling excelent de la țărm", "Atmosferă calmă și relaxată", "Accesibil din Sharm El Sheikh"]}, "image": "/poi-images/egypt-nueiba-cities-v2.webp"},
 {"id": "algeria-beni-ksila-cities-v2", "type": "city", "parent": "DZ-06", "tier": 2, "coords": [4.66439, 36.88199], "name": {"de": "Beni Ksila ⴱⵏⵉ ⴽⵙⵉⵍⴰ بني كسيلة", "hu": "Beni Ksila ⴱⵏⵉ ⴽⵙⵉⵍⴰ بني كسيلة", "ro": "Beni Ksila ⴱⵏⵉ ⴽⵙⵉⵍⴰ بني كسيلة", "en": "Beni Ksila ⴱⵏⵉ ⴽⵙⵉⵍⴰ بني كسيلة"}, "description": {"de": "Beni Ksila ist eine malerische Küstengemeinde in Algerien, die eine atemberaubende Landschaft und ruhige Strände am Mittelmeer bietet.", "hu": "Beni Ksila egy festői algériai tengerparti település, amely lenyűgöző hegyi tájakkal és csendes mediterrán strandokkal várja a látogatókat.", "ro": "Beni Ksila este o comună de coastă pitorească din Algeria, oferind peisaje montane uimitoare și plaje mediteraneene liniștite.", "en": "Beni Ksila is a picturesque coastal municipality in Algeria, offering stunning mountain scenery and tranquil Mediterranean beaches."}, "descriptionAdvanced": {"de": "Beni Ksila ist eine äußerst malerische Küstengemeinde in der Provinz Béjaïa im Norden Algeriens, die für ihre unberührten mediterranen Landschaften bekannt ist. Eingebettet zwischen den üppigen, sanften Bergen der Kabylei-Region und dem tiefblauen Meer bietet diese charmante Stadt eine atemberaubende Naturkulisse für Besucher, die Ruhe abseits der Massen suchen.\n\nDie zerklüftete Küste ist mit spektakulären Buchten und einladenden Stränden übersät. Zu den bemerkenswertesten gehört der Strand Azaghar, der über herrlich klares Wasser verfügt, das von atemberaubenden natürlichen Felsformationen und viel Grün gesäumt wird. Dieser Strand ist eine Oase für Schwimmer und Naturliebhaber und bietet einen idyllischen Ort, um sich zu entspannen und den Panoramablick auf das Mittelmeer zu genießen.\n\nDie lokale kulinarische Tradition ist tief im Meer und den umliegenden Bergen verwurzelt und bietet köstliche, perfekt gegrillte frische Fischgerichte sowie regionale kabylische Spezialitäten. Erreichbar über eine landschaftlich sehr reizvolle, kurvenreiche Küstenstraße, die die Stadt mit Béjaïa verbindet, ist die Reise nach Beni Ksila ein wesentlicher Bestandteil des unvergesslichen Reiseerlebnisses.", "hu": "Beni Ksila egy rendkívül festői tengerparti település az észak-algériai Béjaïa tartományban, amely érintetlen mediterrán tájairól híres. A Kabylia régió buja, zöldellő hegyei és a mélykék tenger között megbúvó bájos kisváros lélegzetelállító természeti környezetet kínál a tömegtől távol eső nyugalmat kereső látogatóknak.\n\nA vadregényes, sziklás partvidéket látványos öblök és hívogató strandok tarkítják. Ezek közül a legjelentősebb az Azaghar strand, amely gyönyörűen tiszta vízzel, lenyűgöző természetes sziklaképződményekkel és buja növényzettel büszkélkedhet. Ez a strand a fürdőzők és a természet szerelmeseinek paradicsoma, idilli helyet biztosítva a pihenésre és a Földközi-tenger panorámájának megcsodálására.\n\nA helyi kulináris hagyományok mélyen gyökereznek a tengerben és a környező hegyekben, ízletes, tökéletesen grillezett friss halételeket és regionális kabil specialitásokat kínálva a betérőknek. A várost Béjaïával összekötő, rendkívül látványos, kanyargós tengerparti úton lehet megközelíteni, így már maga az utazás is hatalmas élmény.", "ro": "Beni Ksila este o comună de coastă extrem de pitorească situată în provincia Béjaïa din nordul Algeriei, renumită pentru peisajele sale mediteraneene nealterate. Amplasat între munții luxurianți ai regiunii Kabylia și marea albastră profundă, acest oraș fermecător oferă un cadru natural uluitor pentru vizitatorii care caută liniște departe de aglomerație.\n\nCoasta accidentată este presărată cu golfuri spectaculoase și plaje primitoare. Printre cele mai notabile se numără plaja Azaghar, care are ape frumos limpezi, mărginite de formațiuni stâncoase naturale uimitoare și verdeață. Această plajă este un refugiu pentru înotători și iubitorii de natură, oferind un loc idilic pentru a vă relaxa și a admira priveliștile panoramice ale Mediteranei.\n\nTradiția culinară locală este profund înrădăcinată în mare și în munții din jur, oferind preparate delicioase din pește proaspăt, la grătar, alături de specialități regionale. Accesibil printr-un drum de coastă șerpuitor și foarte pitoresc care îl leagă de orașul Béjaïa, călătoria spre Beni Ksila este o parte integrantă a experienței de călătorie.", "en": "Beni Ksila is a highly picturesque coastal municipality located in the Béjaïa Province of northern Algeria, renowned for its unspoiled Mediterranean landscapes. Nestled between the lush, rolling mountains of the Kabylia region and the deep blue sea, this charming town offers a breathtaking natural setting for visitors seeking tranquility away from massive crowds.\n\nThe rugged coastline is dotted with spectacular coves and inviting beaches. Among the most notable is Azaghar beach, which features beautifully clear waters bordered by stunning natural rock formations and greenery. This beach is a haven for swimmers and nature lovers, providing an idyllic spot to relax and take in the panoramic views of the Mediterranean Sea.\n\nThe local culinary tradition is deeply rooted in the sea and the surrounding mountains, offering delicious fresh fish dishes grilled to perfection alongside regional Kabyle specialties. Accessible via a highly scenic, winding coastal road that connects it to the city of Béjaïa, the journey to Beni Ksila is an integral part of the unforgettable travel experience."}, "facts": {"de": ["Liegt in der Provinz Béjaïa", "Teil der Region Kabylei", "Heimat des Azaghar Strandes", "Zerklüftete, felsige Küste", "Frische gegrillte Fischgerichte", "Malerische Küstenstraße", "Unberührte Naturkulisse", "Ruhiger, friedlicher Rückzugsort"], "hu": ["Béjaïa tartományban található", "A Kabylia régió része", "Az Azaghar strand otthona", "Vadregényes, sziklás partvidék", "Friss, grillezett halételek", "Látványos tengerparti út", "Érintetlen természeti környezet", "Csendes, békés menedék"], "ro": ["Situată în provincia Béjaïa", "Parte a regiunii Kabylia", "Găzduiește plaja Azaghar", "Coastă stâncoasă accidentată", "Mâncăruri din pește proaspăt la grătar", "Drum de coastă pitoresc", "Cadru natural nealterat", "Refugiu liniștit și pașnic"], "en": ["Located in Béjaïa Province", "Part of the Kabylia region", "Home to Azaghar beach", "Rugged rocky coastline", "Fresh grilled fish dishes", "Highly scenic coastal drive", "Unspoiled natural setting", "Peaceful, quiet retreat"]}, "image": "/poi-images/algeria-beni-ksila-cities-v2.webp"},
@@ -18585,15 +13666,6 @@ export const afNewV1: POI[] = [
 {"id": "algeria-arzew-cities-v2", "sights": {
       "de": [
             {
-                  "name": "saint michel",
-                  "text": "Ein öffentlicher Strandbereich in der Stadt Arzew.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.295301,
-                        35.863196
-                  ]
-            },
-            {
                   "name": "منارة جزيرة أرزيو",
                   "text": "Ein bemerkenswerter Leuchtturm auf der Insel in Arzew.",
                   "category": "landmark",
@@ -18601,27 +13673,9 @@ export const afNewV1: POI[] = [
                         -0.289672,
                         35.873889
                   ]
-            },
-            {
-                  "name": "Parc d'Arzew",
-                  "text": "Ein Freizeitpark in Arzew.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.323208,
-                        35.851995
-                  ]
             }
       ],
       "hu": [
-            {
-                  "name": "saint michel",
-                  "text": "Egy nyilvános strand Arzew városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.295301,
-                        35.863196
-                  ]
-            },
             {
                   "name": "منارة جزيرة أرزيو",
                   "text": "Egy nevezetes világítótorony, amely egy szigeten található Arzew közelében.",
@@ -18630,27 +13684,9 @@ export const afNewV1: POI[] = [
                         -0.289672,
                         35.873889
                   ]
-            },
-            {
-                  "name": "Parc d'Arzew",
-                  "text": "Egy szabadidős vidámpark Arzew városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.323208,
-                        35.851995
-                  ]
             }
       ],
       "ro": [
-            {
-                  "name": "saint michel",
-                  "text": "O zonă de plajă publică situată în orașul Arzew.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.295301,
-                        35.863196
-                  ]
-            },
             {
                   "name": "منارة جزيرة أرزيو",
                   "text": "Un far notabil situat pe insula din Arzew.",
@@ -18659,27 +13695,9 @@ export const afNewV1: POI[] = [
                         -0.289672,
                         35.873889
                   ]
-            },
-            {
-                  "name": "Parc d'Arzew",
-                  "text": "Un parc tematic de agrement situat în Arzew.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.323208,
-                        35.851995
-                  ]
             }
       ],
       "en": [
-            {
-                  "name": "saint michel",
-                  "text": "A public beach area situated in the city of Arzew.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.295301,
-                        35.863196
-                  ]
-            },
             {
                   "name": "منارة جزيرة أرزيو",
                   "text": "A notable lighthouse located on the island of Arzew.",
@@ -18688,155 +13706,26 @@ export const afNewV1: POI[] = [
                         -0.289672,
                         35.873889
                   ]
-            },
-            {
-                  "name": "Parc d'Arzew",
-                  "text": "A recreational theme park situated in Arzew.",
-                  "category": "recreational",
-                  "coords": [
-                        -0.323208,
-                        35.851995
-                  ]
             }
       ]
 }, "type": "city", "parent": "DZ-31", "coords": [-0.31368, 35.85635], "tier": 2, "name": {"en": "Arzew", "de": "Arzew", "hu": "Arzew", "ro": "Arzew"}, "description": {"en": "Arzew is a coastal city in Algeria known for its major port and historical significance. It offers a mix of industrial importance and beautiful Mediterranean shores.", "de": "Arzew ist eine Küstenstadt in Algerien, die für ihren großen Hafen bekannt ist. Sie bietet eine Mischung aus industrieller Bedeutung und schönen Mittelmeerstränden.", "hu": "Arzew egy tengerparti város Algériában, amely nagy kikötőjéről és történelmi jelentőségéről ismert. Az ipari fontosság és a gyönyörű Földközi-tengeri partok keverékét kínálja.", "ro": "Arzew este un oraș de coastă din Algeria cunoscut pentru portul său major. Oferă un amestec de importanță industrială și țărmuri frumoase ale Mării Mediterane."}, "descriptionAdvanced": {"en": "Arzew is a prominent port city situated on the Mediterranean coast of western Algeria, near Oran. While the city is globally recognized for its large industrial and natural gas port, it also possesses a lesser-known but charming coastal landscape. The juxtaposition of industrial infrastructure and picturesque Mediterranean shores gives Arzew a unique character.\n\nThe coastal areas feature spots like the saint michel beach, which provides locals and visitors with a place to relax and enjoy the sea breeze. This beach, named after historic French influences, offers a pleasant stretch of sand for strolling and taking in the coastal views. The Mediterranean waters here are calm, making it a peaceful retreat away from the city's busy port activities.\n\nGastronomy in Arzew heavily features the bounty of the sea, with numerous local eateries serving freshly caught fish accompanied by traditional Algerian staples. The city's old sections reveal remnants of its complex history, including Roman ruins and French colonial architecture. Accessible by major roads from Oran, Arzew presents an interesting mix of Algeria's economic drive and its timeless coastal beauty.", "de": "Arzew ist eine bedeutende Hafenstadt an der Mittelmeerküste im Westen Algeriens, in der Nähe von Oran. Während die Stadt weltweit für ihren großen Industrie- und Erdgashafen bekannt ist, besitzt sie auch eine weniger bekannte, aber reizvolle Küstenlandschaft. Das Nebeneinander von industrieller Infrastruktur und malerischen Mittelmeerstränden verleiht Arzew einen einzigartigen Charakter.\n\nIn den Küstengebieten gibt es Orte wie den Strand saint michel, der Einheimischen und Besuchern einen Ort zum Entspannen bietet. Dieser nach historischen französischen Einflüssen benannte Strand bietet einen angenehmen Sandstreifen zum Spazierengehen. Das Mittelmeerwasser ist hier ruhig und macht es zu einem friedlichen Rückzugsort abseits der geschäftigen Hafenaktivitäten der Stadt.\n\nDie Gastronomie in Arzew ist stark von den Schätzen des Meeres geprägt. Zahlreiche lokale Restaurants servieren frisch gefangenen Fisch mit traditionellen algerischen Beilagen. Die alten Viertel der Stadt offenbaren Überreste ihrer komplexen Geschichte, darunter römische Ruinen und französische Kolonialarchitektur. Arzew ist von Oran aus leicht erreichbar und bietet eine faszinierende Mischung.", "hu": "Arzew egy jelentős kikötőváros, amely Nyugat-Algéria Földközi-tengeri partján, Orán közelében fekszik. Bár a várost világszerte ismerik hatalmas ipari és földgázkikötőjéről, egy kevésbé ismert, de bájos tengerparti tájjal is büszkélkedhet. Az ipari infrastruktúra és a festői tengerpart kontrasztja egyedi karaktert kölcsönöz Arzewnek.\n\nA partvidéken olyan helyek találhatók, mint a saint michel strand, amely pihenési lehetőséget nyújt a helyieknek és a látogatóknak. Ez a történelmi francia hatásokról elnevezett strand kellemes homokos partszakaszt kínál sétákhoz és a tengeri kilátás élvezetéhez. A Földközi-tenger vize itt nyugodt, így békés menedéket nyújt a város nyüzsgő kikötői tevékenységeitől távolabb.\n\nArzew gasztronómiája erősen támaszkodik a tenger gyümölcseire, számos helyi étterem kínál frissen fogott halat hagyományos algériai köretekkel. A város régi negyedei összetett történelmének emlékeit őrzik, beleértve a római romokat és a francia gyarmati építészetet. Az Oránból könnyen megközelíthető város lenyűgöző keveréket nyújt.", "ro": "Arzew este un oraș portuar proeminent situat pe coasta Mării Mediterane din vestul Algeriei, lângă Oran. Deși orașul este recunoscut la nivel mondial pentru portul său industrial, acesta posedă și un peisaj de coastă fermecător, dar mai puțin cunoscut. Juxtapunerea infrastructurii industriale și a țărmurilor pitorești oferă orașului un caracter unic.\n\nZonele de coastă prezintă locuri precum plaja saint michel, care oferă localnicilor și vizitatorilor un loc de relaxare și de bucurie a brizei mării. Această plajă, numită după influențele istorice franceze, oferă o porțiune plăcută de nisip pentru plimbări și admirarea priveliștilor. Apele mediteraneene de aici sunt calme, transformând locul într-un refugiu liniștit departe de activitățile portuare aglomerate.\n\nGastronomia din Arzew este puternic influențată de fructele de mare, numeroase restaurante servind pește proaspăt alături de mâncăruri tradiționale algeriene. Secțiunile vechi ale orașului dezvăluie rămășițe ale istoriei sale, inclusiv ruine romane și arhitectură colonială. Accesibil din Oran, Arzew prezintă un amestec interesant de economie și frumusețe de coastă."}, "facts": {"en": ["Major industrial port", "Located on the Mediterranean", "Home to saint michel beach", "Close proximity to Oran", "Features Roman ruins", "French colonial architecture", "Fresh seafood cuisine", "Important energy export hub"], "de": ["Wichtiger Industriehafen", "An der Mittelmeerküste gelegen", "Heimat des Strandes saint michel", "In der Nähe von Oran", "Beherbergt römische Ruinen", "Französische Kolonialarchitektur", "Frische Meeresfrüchte", "Wichtiger Energieexportknotenpunkt"], "hu": ["Jelentős ipari kikötő", "A Földközi-tenger partján fekszik", "A saint michel strand otthona", "Orán közelében található", "Római kori romokat rejt", "Francia gyarmati építészet", "Friss tengeri ételek", "Fontos energiaexport központ"], "ro": ["Port industrial major", "Situat la Marea Mediterană", "Aici se află plaja saint michel", "În apropiere de Oran", "Prezintă ruine romane", "Arhitectură colonială franceză", "Bucătărie cu fructe de mare proaspete", "Important centru de export de energie"]}, "image": "/poi-images/algeria-arzew-cities-v2.webp"},
 {"id": "morocco-sidi-taibi-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Plage Sidi Boughaba",
-                  "text": "Ein öffentlicher Strand an der Küste von Sidi Taibi.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.695446,
-                        34.215302
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Plage Sidi Boughaba",
-                  "text": "Nyilvános strand Sidi Taibi partvonala mentén.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.695446,
-                        34.215302
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Plage Sidi Boughaba",
-                  "text": "O plajă publică situată pe coasta din Sidi Taibi.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.695446,
-                        34.215302
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Plage Sidi Boughaba",
-                  "text": "A public beach located along the coast of Sidi Taibi.",
-                  "category": "recreational",
-                  "coords": [
-                        -6.695446,
-                        34.215302
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "MA-02", "coords": [-6.68448, 34.19166], "tier": 2, "name": {"en": "Sidi Taibi", "de": "Sidi Taibi", "hu": "Sidi Taibi", "ro": "Sidi Taibi"}, "description": {"en": "Sidi Taibi is a growing coastal town in Morocco, situated between Kenitra and Salé. It offers beautiful Atlantic shores and proximity to significant nature reserves.", "de": "Sidi Taibi ist eine wachsende Küstenstadt in Marokko zwischen Kenitra und Salé. Sie bietet wunderschöne Atlantikküsten und die Nähe zu Naturschutzgebieten.", "hu": "Sidi Taibi egy fejlődő tengerparti város Marokkóban, Kenitra és Salé között. Gyönyörű atlanti partokat és jelentős természetvédelmi területek közelségét kínálja.", "ro": "Sidi Taibi este un oraș de coastă în plină dezvoltare din Maroc, între Kenitra și Salé. Oferă țărmuri atlantice frumoase și apropiere de rezervații naturale importante."}, "descriptionAdvanced": {"en": "Sidi Taibi is a rapidly developing coastal town situated on the Atlantic shoreline of Morocco, nestled conveniently between the cities of Kenitra and Salé. Known for its laid-back atmosphere, the town is increasingly attracting visitors seeking a more tranquil seaside experience compared to the larger, bustling urban centers nearby. The vast stretches of golden sand along the ocean provide a perfect setting for coastal walks and relaxation.\n\nA major highlight of the area is Plage Sidi Boughaba, a picturesque beach that borders a renowned biological reserve. This pristine beach offers refreshing Atlantic waves and stunning natural surroundings. Just inland from the beach lies Lake Sidi Boughaba, a vital sanctuary for migratory birds and a fantastic spot for nature lovers. The combination of ocean views and rich biodiversity makes this location truly special.\n\nGastronomy in Sidi Taibi reflects traditional Moroccan flavors, with street food stalls and local cafes offering delicious tagines and freshly grilled sardines. The town is highly accessible via the national highway connecting Rabat to northern Morocco. While lacking a large historic old town, its natural coastal beauty and proximity to the Sidi Boughaba reserve make it a delightful escape.", "de": "Sidi Taibi ist eine sich schnell entwickelnde Küstenstadt an der Atlantikküste Marokkos, günstig zwischen den Städten Kenitra und Salé gelegen. Die für ihre entspannte Atmosphäre bekannte Stadt zieht zunehmend Besucher an, die ein ruhigeres Meereserlebnis suchen als in den nahe gelegenen, geschäftigen städtischen Zentren. Die weiten Abschnitte aus goldenem Sand am Ozean bieten eine perfekte Kulisse für Strandspaziergänge.\n\nEin großes Highlight der Gegend ist der Plage Sidi Boughaba, ein malerischer Strand, der an ein renommiertes biologisches Reservat grenzt. Dieser unberührte Strand bietet erfrischende Atlantikwellen und eine atemberaubende natürliche Umgebung. Etwas landeinwärts vom Strand liegt der See Sidi Boughaba, ein wichtiges Schutzgebiet für Zugvögel. Die Kombination aus Meerblick und reicher Artenvielfalt macht diesen Ort zu etwas ganz Besonderem.\n\nDie Gastronomie in Sidi Taibi spiegelt traditionelle marokkanische Aromen wider. Lokale Cafés bieten köstliche Tajines und frisch gegrillte Sardinen an. Die Stadt ist über die Autobahn, die Rabat mit dem Norden Marokkos verbindet, sehr gut erreichbar. Obwohl es keine große historische Altstadt gibt, ist sie dank ihrer natürlichen Schönheit ein herrlicher Zufluchtsort.", "hu": "Sidi Taibi egy gyorsan fejlődő tengerparti város Marokkó atlanti partvonalán, kényelmesen elhelyezkedve Kenitra és Salé városai között. A nyugodt légköréről ismert település egyre több látogatót vonz, akik békésebb tengerparti élményre vágynak, mint a közeli, nyüzsgő nagyvárosok. Az óceán menti, végtelennek tűnő aranyhomokos szakaszok tökéletes környezetet biztosítanak a tengerparti sétákhoz és a pihenéshez.\n\nA környék egyik legfőbb látványossága a Plage Sidi Boughaba, egy festői strand, amely egy híres biológiai rezervátummal határos. Ez az érintetlen part frissítő atlanti hullámokat és lenyűgöző természeti környezetet kínál. A strandtól közvetlenül a szárazföld felé található a Sidi Boughaba-tó, amely vándormadarak létfontosságú menedékhelye és a természetkedvelők kedvence. Az óceáni panoráma és a gazdag biodiverzitás teszi ezt a helyet igazán különlegessé.\n\nSidi Taibi gasztronómiája a hagyományos marokkói ízeket tükrözi; a helyi kávézók ízletes tajine-t és frissen grillezett szardíniát kínálnak. A város könnyen megközelíthető a Rabatot Észak-Marokkóval összekötő autópályán. Bár nagy történelmi óvárossal nem rendelkezik, a tengerpart természeti szépsége csodás kikapcsolódást nyújt.", "ro": "Sidi Taibi este un oraș de coastă în plină dezvoltare, situat pe țărmul atlantic al Marocului, la o distanță convenabilă între orașele Kenitra și Salé. Cunoscut pentru atmosfera sa relaxată, orașul atrage tot mai mulți vizitatori care caută o experiență mai liniștită pe litoral, comparativ cu centrele urbane aglomerate din apropiere. Porțiunile vaste de nisip auriu de-a lungul oceanului oferă un cadru perfect pentru relaxare.\n\nUn punct de atracție major al zonei este Plage Sidi Boughaba, o plajă pitorească care se învecinează cu o renumită rezervație biologică. Această plajă imaculată oferă valuri revigorante ale Atlanticului și un cadru natural uimitor. Chiar în interiorul coastei se află Lacul Sidi Boughaba, un sanctuar vital pentru păsările migratoare și un loc fantastic pentru iubitorii de natură. Combinația dintre priveliștile oceanului și biodiversitatea bogată este cu adevărat specială.\n\nGastronomia din Sidi Taibi reflectă aromele tradiționale marocane, cafenelele locale oferind tajine delicioase și sardine proaspăt făcute la grătar. Orașul este foarte accesibil prin autostrada națională care leagă Rabat de nordul Marocului. Deși îi lipsește un centru vechi, frumusețea sa naturală oferă o evadare încântătoare."}, "facts": {"en": ["Atlantic coast location", "Between Kenitra and Salé", "Features Plage Sidi Boughaba", "Near Sidi Boughaba nature reserve", "Golden sandy beaches", "Accessible via national highway", "Known for grilled sardines", "Great for bird watching"], "de": ["Lage an der Atlantikküste", "Zwischen Kenitra und Salé", "Verfügt über den Plage Sidi Boughaba", "Nahe dem Naturschutzgebiet Sidi Boughaba", "Goldene Sandstrände", "Erreichbar über die Nationalstraße", "Bekannt für gegrillte Sardinen", "Großartig zur Vogelbeobachtung"], "hu": ["Atlanti-óceáni elhelyezkedés", "Kenitra és Salé között fekszik", "Itt található a Plage Sidi Boughaba", "A Sidi Boughaba rezervátum közelében", "Aranyhomokos strandok", "Autópályán jól megközelíthető", "Híres a grillezett szardíniáról", "Kiváló madármegfigyelő hely"], "ro": ["Locație pe coasta Atlanticului", "Între Kenitra și Salé", "Prezintă Plage Sidi Boughaba", "Lângă rezervația naturală Sidi Boughaba", "Plaje cu nisip auriu", "Accesibil pe autostrada națională", "Cunoscut pentru sardinele la grătar", "Excelent pentru observarea păsărilor"]}, "image": "/poi-images/morocco-sidi-taibi-cities-v2.webp"},
 {"id": "ghana-abuesi-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Shama Beach Resort Limited",
-                  "text": "Das Shama Beach Resort Limited ist ein Küstenresort in Abuesi.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.636147,
-                        4.993723
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Shama Beach Resort Limited",
-                  "text": "A Shama Beach Resort Limited egy tengerparti üdülőhely Abuesi városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.636147,
-                        4.993723
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Shama Beach Resort Limited",
-                  "text": "Shama Beach Resort Limited este o stațiune de coastă situată în Abuesi.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.636147,
-                        4.993723
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Shama Beach Resort Limited",
-                  "text": "Shama Beach Resort Limited is a coastal getaway situated in Abuesi.",
-                  "category": "recreational",
-                  "coords": [
-                        -1.636147,
-                        4.993723
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "GH-WP", "coords": [-1.63701, 4.98296], "tier": 2, "name": {"en": "Abuesi", "de": "Abuesi", "hu": "Abuesi", "ro": "Abuesi"}, "description": {"en": "Abuesi is a traditional fishing village located in the Western Region of Ghana. It features a lively coastal culture and scenic stretches along the Gulf of Guinea.", "de": "Abuesi ist ein traditionelles Fischerdorf in der Western Region von Ghana. Es verfügt über eine lebhafte Küstenkultur und malerische Abschnitte am Golf von Guinea.", "hu": "Abuesi egy hagyományos halászfalu Ghána nyugati régiójában. Élénk tengerparti kultúrával és a Guineai-öböl mentén húzódó festői szakaszokkal büszkélkedhet.", "ro": "Abuesi este un sat tradițional de pescari situat în Regiunea de Vest a Ghanei. Prezintă o cultură de coastă plină de viață și peisaje pitorești de-a lungul Golfului Guineea."}, "descriptionAdvanced": {"en": "Abuesi is a charming and bustling traditional fishing community situated in the Western Region of Ghana, resting along the warm waters of the Gulf of Guinea. The town is deeply connected to the ocean, with the local economy and culture heavily reliant on artisanal fishing. Colorful wooden canoes lining the shore create a vibrant and picturesque maritime scene that defines the character of the village.\n\nFor those looking to relax by the ocean, the Shama Beach Resort Limited is a prominent destination nearby. This resort area offers clean, sandy stretches and a safe environment for swimming and unwinding under the tropical sun. Visitors can enjoy the rhythmic sound of the waves while experiencing genuine Ghanaian coastal hospitality. The beach serves as a tranquil contrast to the lively, busy atmosphere of the main fishing harbor in Abuesi.\n\nThe local gastronomy is an absolute delight for seafood lovers. Fresh catches of the day are typically prepared with spicy tomato-based sauces, often served alongside traditional dishes like banku or kenkey. Reaching Abuesi is relatively straightforward via coastal roads connecting to the major city of Sekondi-Takoradi. The community offers a deeply authentic glimpse into West African seaside life.", "de": "Abuesi ist ein charmantes und geschäftiges traditionelles Fischerdorf in der Western Region von Ghana, das an den warmen Gewässern des Golfs von Guinea liegt. Die Stadt ist tief mit dem Ozean verbunden, da Wirtschaft und Kultur stark vom handwerklichen Fischfang geprägt sind. Bunte Holzkanus, die den Strand säumen, schaffen eine lebendige und malerische maritime Szene.\n\nFür diejenigen, die sich am Meer entspannen möchten, ist das nahe gelegene Shama Beach Resort Limited ein beliebtes Ziel. Dieses Resortgebiet bietet saubere Sandstrände und eine sichere Umgebung zum Schwimmen und Entspannen unter der tropischen Sonne. Besucher können das Rauschen der Wellen genießen und gleichzeitig echte ghanaische Gastfreundschaft erleben. Der Strand bildet einen ruhigen Kontrast zur lebhaften Atmosphäre des Fischereihafens.\n\nDie lokale Gastronomie ist ein Genuss für Liebhaber von Meeresfrüchten. Die frischen Fänge des Tages werden meist mit würzigen Soßen auf Tomatenbasis zubereitet und oft zu traditionellen Gerichten wie Banku oder Kenkey serviert. Abuesi ist über die Küstenstraßen, die mit der Großstadt Sekondi-Takoradi verbunden sind, gut zu erreichen. Die Gemeinde bietet einen tiefen Einblick in das westafrikanische Küstenleben.", "hu": "Abuesi egy bájos és nyüzsgő hagyományos halásztelepülés Ghána nyugati régiójában, amely a Guineai-öböl meleg vize mentén fekszik. A város mélyen kötődik az óceánhoz, a helyi gazdaság és kultúra erősen támaszkodik a kézműves halászatra. A part mentén sorakozó színes, fából készült kenuk élénk és festői tengeri jelenetet hoznak létre, amely meghatározza a falu arculatát.\n\nAzok számára, akik az óceán partján szeretnének pihenni, a közeli Shama Beach Resort Limited kiváló úti cél. Ez az üdülőövezet tiszta, homokos szakaszokat és biztonságos környezetet kínál az úszáshoz és a trópusi nap alatti kikapcsolódáshoz. A látogatók élvezhetik a hullámok ritmusát, miközben megtapasztalják a valódi ghánai tengerparti vendégszeretetet. A strand nyugodt kontrasztot képez Abuesi fő halászkikötőjének nyüzsgő légkörével.\n\nA helyi gasztronómia igazi csemege a tenger gyümölcsei szerelmeseinek. A friss napi fogást jellemzően fűszeres paradicsomos szószokkal készítik, és gyakran szolgálják fel olyan hagyományos köretekkel, mint a banku vagy a kenkey. Abuesi könnyen megközelíthető a Sekondi-Takoradi nagyvárosát összekötő tengerparti utakon. A település mélyen autentikus bepillantást nyújt a nyugat-afrikai tengerparti életbe.", "ro": "Abuesi este o comunitate tradițională de pescari plină de farmec, situată în Regiunea de Vest a Ghanei, de-a lungul apelor calde ale Golfului Guineea. Orașul este profund legat de ocean, economia și cultura locală bazându-se pe pescuitul artizanal. Canoe colorate din lemn, care se aliniază pe țărm, creează o scenă maritimă vibrantă și pitorească, definind caracterul satului.\n\nPentru cei care doresc să se relaxeze lângă ocean, Shama Beach Resort Limited este o destinație importantă din apropiere. Această zonă de stațiune oferă porțiuni curate, cu nisip și un mediu sigur pentru înot și relaxare sub soarele tropical. Vizitatorii se pot bucura de sunetul ritmic al valurilor, experimentând în același timp adevărata ospitalitate de coastă ghaneză. Plaja servește drept un contrast liniștit față de atmosfera aglomerată a portului.\n\nGastronomia locală este o adevărată încântare pentru iubitorii de fructe de mare. Capturile proaspete ale zilei sunt de obicei preparate cu sosuri picante pe bază de roșii, adesea servite alături de mâncăruri tradiționale precum banku sau kenkey. Ajungerea în Abuesi este relativ simplă prin drumurile de coastă dinspre Sekondi-Takoradi. Comunitatea oferă o privire autentică asupra vieții litorale din Africa de Vest."}, "facts": {"en": ["Located on the Gulf of Guinea", "Traditional fishing village", "Features Shama Beach Resort Limited", "Colorful wooden canoes", "Rich in maritime culture", "Close to Sekondi-Takoradi", "Famous for fresh seafood", "Warm tropical climate"], "de": ["Liegt am Golf von Guinea", "Traditionelles Fischerdorf", "Beherbergt das Shama Beach Resort Limited", "Bunte Holzkanus", "Reich an maritimer Kultur", "In der Nähe von Sekondi-Takoradi", "Bekannt für frische Meeresfrüchte", "Warmes tropisches Klima"], "hu": ["A Guineai-öböl partján fekszik", "Hagyományos halászfalu", "Itt található a Shama Beach Resort Limited", "Színes fából készült kenuk", "Gazdag tengeri kultúra", "Sekondi-Takoradi közelében", "Híres a friss tenger gyümölcseiről", "Meleg trópusi éghajlat"], "ro": ["Situat în Golful Guineea", "Sat tradițional de pescari", "Aici se află Shama Beach Resort Limited", "Canoe colorate din lemn", "Bogat în cultură maritimă", "Aproape de Sekondi-Takoradi", "Renumit pentru fructe de mare", "Climă tropicală caldă"]}, "image": "/poi-images/ghana-abuesi-cities-v2.webp"},
 {"id": "mauritania-n-diago-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Plage de N'Diago شاطئ نديجو",
-                  "text": "Plage de N'Diago شاطئ نديجو ist ein Strand in N'Diago.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.510971,
-                        16.177609
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Plage de N'Diago شاطئ نديجو",
-                  "text": "A Plage de N'Diago شاطئ نديجو egy strand N'Diago területén.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.510971,
-                        16.177609
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Plage de N'Diago شاطئ نديجو",
-                  "text": "Plage de N'Diago شاطئ نديجو este o plajă din N'Diago.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.510971,
-                        16.177609
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Plage de N'Diago شاطئ نديجو",
-                  "text": "Plage de N'Diago شاطئ نديجو is a beach located in N'Diago.",
-                  "category": "recreational",
-                  "coords": [
-                        -16.510971,
-                        16.177609
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "MR-06", "coords": [-16.51021, 16.16676], "tier": 2, "name": {"de": "N'Diago", "hu": "N'Diago", "ro": "N'Diago", "en": "N'Diago"}, "description": {"de": "N'Diago ist eine abgelegene Küstensiedlung in Mauretanien nahe der Grenze zu Senegal, geprägt von wilden Atlantikdünen und dem Diawling-Nationalpark.", "hu": "N'Diago egy távoli tengerparti település Mauritániában, a szenegáli határ közelében, amelyet vad atlanti dűnék és a közeli Diawling Nemzeti Park jellemez.", "ro": "N'Diago este o așezare de coastă izolată din Mauritania, lângă granița cu Senegal, caracterizată prin dune sălbatice ale Atlanticului și Parcul Național Diawling.", "en": "N'Diago is a remote coastal settlement in Mauritania near the Senegal border, characterized by wild Atlantic dunes and the nearby Diawling National Park."}, "descriptionAdvanced": {"de": "N'Diago ist ein einzigartig gelegenes Küstendorf im äußersten Südwesten Mauretaniens, nahe der Mündung des Flusses Senegal. Diese abgelegene Siedlung bietet eine tiefe Verbindung zur Natur und ist das Tor zwischen den riesigen Saharadünen und den mächtigen Wellen des Atlantischen Ozeans. Das Dorf ist eng mit dem nahe gelegenen Diawling-Nationalpark verbunden, einem wichtigen Feuchtgebiet, das eine Vielzahl von Zugvögeln und Wildtieren beherbergt.\n\nDie Küste ist rau und ungezähmt, was sie zu einem außergewöhnlichen Ziel für Entdecker macht. Der Plage de N'Diago شاطئ نديجو erstreckt sich über kilometerlange, unberührte Sandflächen, an denen Besucher beobachten können, wie einheimische Fischer ihre bunten Pirogen in die Brandung lassen. Dieser Strand ist perfekt für einsame Spaziergänge und das Erleben der schieren Kraft der Atlantikküste ohne Massen.\n\nAufgrund der abgelegenen Lage basiert die Gastronomie in N'Diago stark auf dem täglichen Fang aus dem Ozean und dem Fluss, mit einfachen, nahrhaften Fisch- und Reisgerichten wie Thiéboudienne. Der Zugang zu N'Diago erfordert ein robustes 4x4-Fahrzeug, das oft über Sandpisten von Nouakchott oder Rosso aus navigiert werden muss, was eine Reise hierher zu einem echten Abenteuer macht.", "hu": "N'Diago egy egyedülálló fekvésű tengerparti falu Mauritánia legdélnyugatibb részén, a Szenegál folyó torkolata közelében. Ez a távoli és viszonylag érintetlen település mély kapcsolatot kínál a természettel, kapuként szolgálva a hatalmas szaharai dűnék és az Atlanti-óceán erőteljes hullámai között. A falu szorosan kapcsolódik a közeli Diawling Nemzeti Parkhoz, egy kritikus fontosságú vizesélőhelyhez, amely számtalan vándormadárnak és vadállatnak ad otthont.\n\nA partvidék nyers és megzabolázatlan, ami rendkívüli célponttá teszi a kitaposott utakat elkerülő felfedezők számára. A Plage de N'Diago شاطئ نديجو kilométereken át nyúlik el, érintetlen homokos terjeszkedést kínálva, ahol a látogatók megfigyelhetik, ahogy a helyi halászok színes pirogjaikat a hullámok közé vetik. Ez a strand tökéletes a magányos sétákhoz és az atlanti partvidék lenyűgöző erejének megtapasztalásához, tömegek nélkül.\n\nTávoli jellegéből adódóan N'Diago gasztronómiája nagymértékben támaszkodik az óceánból és a folyóból származó napi fogásra, egyszerű, tápláló halas és rizses ételeket, például Thiéboudienne-t kínálva. N'Diago megközelítéséhez erős 4x4-es járműre van szükség, gyakran homokos utakon és vizes területeken keresztül kell navigálni a fővárosból, Nouakchottból vagy Rosso városából, ami igazi kalanddá teszi az ideutazást.", "ro": "N'Diago este un sat de coastă situat în mod unic în extremitatea sud-vestică a Mauritaniei, aproape de gura de vărsare a râului Senegal. Această așezare izolată și relativ neatinsă oferă o conexiune profundă cu natura, fiind o poartă de acces între imensele dune sahariene și valurile puternice ale Oceanului Atlantic. Satul este strâns asociat cu Parcul Național Diawling din apropiere, un ecosistem critic de zonă umedă care susține o gamă masivă de păsări migratoare.\n\nLinia de coastă este brută și nestăvilită, ceea ce o face o destinație extraordinară pentru exploratorii dornici de aventură. Plage de N'Diago شاطئ نديجو se întinde pe kilometri întregi, oferind o întindere imaculată de nisip, unde vizitatorii pot asista la modul în care pescarii locali își lansează pirogile colorate în valuri. Această plajă este perfectă pentru plimbări solitare și pentru a experimenta forța și frumusețea absolută a coastei atlantice.\n\nAvând în vedere natura sa izolată, gastronomia din N'Diago se bazează în mare măsură pe captura zilnică atât din ocean, cât și din râu, prezentând mâncăruri hrănitoare din pește și orez. Accesul la N'Diago necesită un vehicul 4x4 robust, navigând adesea pe piste nisipoase și trasee de zone umede din capitala Nouakchott sau orașul Rosso, asigurând că o călătorie aici este o adevărată aventură.", "en": "N'Diago is a uniquely situated coastal village in the extreme southwest of Mauritania, located near the mouth of the Senegal River. This remote and relatively untouched settlement offers a profound connection to nature, standing as a gateway between the vast Saharan dunes and the powerful waves of the Atlantic Ocean. The village is closely associated with the nearby Diawling National Park, a critical wetland ecosystem that supports a massive array of migratory birds and wildlife.\n\nThe coastline is raw and unbridled, making it an extraordinary destination for off-the-beaten-path explorers. The Plage de N'Diago شاطئ نديجو stretches for miles, offering a pristine expanse of sand where visitors can witness local artisanal fishermen launching their colorful pirogues into the surf. This beach is perfect for solitary walks and experiencing the sheer force and beauty of the Atlantic coastline without the crowds.\n\nGiven its remote nature, gastronomy in N'Diago relies heavily on the daily catch from both the ocean and the river, featuring simple, nourishing fish and rice dishes like Thiéboudienne. Accessing N'Diago requires a sturdy 4x4 vehicle, often navigating through sandy tracks and wetland paths from the capital, Nouakchott, or the town of Rosso, ensuring that a journey here is a true adventure."}, "facts": {"de": ["Liegt im Südwesten Mauretanien", "Nahe der Mündung des Flusses Senegal", "Angrenzend an den Diawling-Nationalpark", "Verfügt über den Plage de N'Diago شاطئ نديجو", "Erfordert ein 4x4-Fahrzeug für den Zugang", "Wirtschaft basiert auf handwerklicher Fischerei", "Bekannt für wilde Atlantiklandschaften", "Ein Paradies für Zugvogelbeobachtungen"], "hu": ["Délnyugat-Mauritániában található", "A Szenegál folyó torkolata közelében fekszik", "A Diawling Nemzeti Park szomszédságában található", "Itt található a Plage de N'Diago شاطئ نديجو strand", "Megközelítéséhez 4x4-es jármű szükséges", "Gazdasága a hagyományos halászatra épül", "Vad atlanti tájairól ismert", "A vándormadarak megfigyelésének paradicsoma"], "ro": ["Situat în sud-vestul Mauritaniei", "Aproape de gura de vărsare a râului Senegal", "Adiacent Parcului Național Diawling", "Aici se află Plage de N'Diago شاطئ نديجو", "Necesită un vehicul 4x4 pentru acces", "Economia bazată pe pescuitul artizanal", "Cunoscut pentru peisajele atlantice sălbatice", "Un refugiu pentru observarea păsărilor migratoare"], "en": ["Located in southwestern Mauritania", "Near the mouth of the Senegal River", "Adjacent to the Diawling National Park", "Features the Plage de N'Diago شاطئ نديجو", "Requires a 4x4 vehicle for access", "Economy based on artisanal fishing", "Known for wild Atlantic landscapes", "A haven for migratory bird watching"]}, "image": "/poi-images/mauritania-n-diago-cities-v2.webp"},
 {"id": "madagascar-morombe-cities-v2", "sights": {
       "de": [
@@ -18885,86 +13774,10 @@ export const afNewV1: POI[] = [
       ]
 }, "type": "city", "parent": "MG-U", "coords": [43.3593, -21.74404], "tier": 2, "name": {"de": "Morombe", "hu": "Morombe", "ro": "Morombe", "en": "Morombe"}, "description": {"de": "Morombe ist eine Küstenstadt im Südwesten Madagaskars, berühmt für ihre großen Affenbrotbäume, die Vezo-Fischerkultur und Korallenriffe.", "hu": "Morombe egy tengerparti város Madagaszkár délnyugati részén, amely hatalmas majomkenyérfáiról, a Vezo halászkultúráról és korallzátonyairól híres.", "ro": "Morombe este un oraș de coastă din sud-vestul Madagascarului, renumit pentru baobabii săi mari, cultura pescuitului Vezo și recifele de corali.", "en": "Morombe is a coastal town in southwestern Madagascar, famous for its grand baobab trees, Vezo fishing culture, and coral reefs."}, "descriptionAdvanced": {"de": "Morombe ist eine lebendige, etwas isolierte Küstenstadt an der Südwestküste Madagaskars mit Blick auf die Straße von Mosambik. Die Region ist optisch atemberaubend, geprägt von den ikonischen, massiven Affenbrotbäumen (Baobabs), die die umliegende trockene Landschaft prägen, und dem leuchtend türkisfarbenen Wasser des Meeres. Die Stadt dient als wichtiger Knotenpunkt für das Vezo-Volk, eine Gemeinschaft, die für ihre außergewöhnlichen seefahrerischen Fähigkeiten und traditionellen Auslegerkanus bekannt ist.\n\nDie Küste wird von einem großen vorgelagerten Korallenriffsystem geschützt, das für relativ ruhiges Wasser am Ufer sorgt. Der wunderschöne Plage de Morombé ist ein perfektes Beispiel für die unberührte natürliche Schönheit der Gegend, mit weichem weißem Sand und klarem Wasser, ideal zum Schwimmen und Schnorcheln. Am frühen Morgen auf dem Strand fahren Flotten traditioneller Pirogen aufs Meer hinaus und schaffen eine authentische Küstenszene.\n\nDie Gastronomie in Morombe dreht sich um unglaublich frische Meeresfrüchte, darunter Hummer, Krabben und eine Vielzahl von Rifffischen, die oft mit lokalen Gewürzen zubereitet werden. Die Anreise nach Morombe kann an sich schon ein Abenteuer sein und erfordert normalerweise eine Geländefahrt von Toliara aus. Es bleibt ein lohnendes Ziel für Reisende, die ein authentisches Küstenerlebnis in Madagaskar suchen.", "hu": "Morombe egy nyüzsgő, némileg elszigetelt tengerparti város Madagaszkár délnyugati partján, amely a Mozambiki-csatornára néz. A régió vizuálisan lenyűgöző, a környező száraz tájakat díszítő ikonikus, hatalmas majomkenyérfák és a tenger élénk türkizkék vize jellemzi. A város létfontosságú központja a Vezo népnek, egy félnomád közösségnek, amely rendkívüli tengerészeti készségeiről és hagyományos kitámasztós kenuiról híres.\n\nA partvidéket egy hatalmas tengeri korallzátony-rendszer védi, amely viszonylag nyugodt vizet biztosít a parton. A gyönyörű Plage de Morombé tökéletes példája a környék érintetlen természeti szépségének, puha fehér homokjával és nyugodt, tiszta vizével, amely ideális úszáshoz és sznorkelezéshez. A strandon a kora reggelek látványosak, ahogy a hagyományos pirogákból álló flották kifutnak a tengerre, vagy visszatérnek a napi fogással, nyüzsgő és hiteles tengerparti jelenetet teremtve.\n\nMorombe gasztronómiája nem meglepő módon a hihetetlenül friss tenger gyümölcsei köré épül, beleértve a homárokat, rákokat és a különféle zátonyhalakat, amelyeket gyakran illatos helyi fűszerekkel és kókusszal készítenek el. Morombe megközelítése önmagában is kaland lehet, általában robusztus terepjáróra van szükség Toliarából, de a fáradságos út mindenképpen megéri az autentikus madagaszkári élményért.", "ro": "Morombe este un oraș de coastă vibrant, oarecum izolat, situat pe coasta de sud-vest a Madagascarului, cu vedere la Canalul Mozambic. Regiunea este uimitoare din punct de vedere vizual, caracterizată de baobabii masivi, emblematici, care punctează peisajele uscate din jur și de apele turcoaz vibrante ale mării. Orașul servește drept hub vital pentru poporul Vezo, o comunitate seminomadă renumită pentru abilitățile lor extraordinare de navigație și canoele tradiționale.\n\nLinia de coastă este protejată de un sistem mare de recife de corali în larg, asigurând ape relativ calme la țărm. Frumoasa Plage de Morombé este un exemplu perfect al frumuseții naturale imaculate a zonei, cu nisip alb și fin și ape calme, limpezi, ideale pentru înot și snorkeling. Diminețile devreme pe plajă sunt spectaculoase, flotele de pirogi tradiționale ieșind pe mare sau întorcându-se cu captura zilei.\n\nGastronomia din Morombe se concentrează pe fructe de mare incredibil de proaspete, inclusiv homari, crabi și o varietate de pești de recif, adesea preparate cu condimente locale parfumate și nucă de cocos. Accesul la Morombe poate fi o aventură în sine, necesitând de obicei un drum accidentat de teren de la Toliara, deși aeronavele mici deservesc ocazional pista de aterizare locală.", "en": "Morombe is a vibrant, somewhat isolated coastal town situated on the southwestern coast of Madagascar, overlooking the Mozambique Channel. The region is visually stunning, characterized by the iconic, massive baobab trees that dot the surrounding dry landscapes and the vibrant turquoise waters of the sea. The town serves as a vital hub for the Vezo people, a semi-nomadic community renowned for their extraordinary seafaring skills and traditional outrigger canoes.\n\nThe coastline is guarded by a large offshore coral reef system, ensuring relatively calm waters at the shore. The beautiful Plage de Morombé is a perfect example of the area's pristine natural beauty, featuring soft white sand and calm, clear waters ideal for swimming and snorkeling. Early mornings on the beach are spectacular, as fleets of traditional pirogues head out to sea or return with the day's catch, creating a lively and authentic coastal scene.\n\nGastronomy in Morombe is, unsurprisingly, centered around incredibly fresh seafood, including lobsters, crabs, and a variety of reef fish, often prepared with fragrant local spices and coconut. Accessing Morombe can be an adventure in itself, usually requiring a rugged off-road drive from Toliara, though small aircraft occasionally serve the local airstrip. It remains a deeply rewarding destination for travelers seeking an authentic Malagasy coastal experience."}, "facts": {"de": ["Liegt in der Region Atsimo-Andrefana", "Liegt an der Straße von Mosambik", "Bekannt für große, alte Affenbrotbäume", "Verfügt über den unberührten Plage de Morombé", "Geschützt durch ein ausgedehntes Korallenriff", "Heimat des seefahrenden Vezo-Volkes", "Bekannt für traditionelle Auslegerkanus", "Hauptsächlich mit dem 4x4 von Toliara erreichbar"], "hu": ["Az Atsimo-Andrefana régióban található", "A Mozambiki-csatorna partján fekszik", "Hatalmas, ősi majomkenyérfáiról ismert", "Itt található az érintetlen Plage de Morombé", "Kiterjedt tengeri korallzátony védi", "A tengerjáró Vezo nép otthona", "Hagyományos kitámasztós kenuiról híres", "Elsősorban Toliarából, 4x4-es járművel érhető el"], "ro": ["Situat în regiunea Atsimo-Andrefana", "Situat pe Canalul Mozambic", "Cunoscut pentru baobabii mari și antici", "Prezintă imaculata Plage de Morombé", "Protejat de un recif extins de corali", "Găzduiește poporul navigator Vezo", "Renumit pentru canoele tradiționale", "Accesibil în principal cu 4x4 de la Toliara"], "en": ["Located in the Atsimo-Andrefana region", "Situated on the Mozambique Channel", "Known for large, ancient baobab trees", "Features the pristine Plage de Morombé", "Protected by an extensive offshore coral reef", "Home to the seafaring Vezo people", "Renowned for traditional outrigger canoes", "Accessible primarily by 4x4 from Toliara"]}, "image": "/poi-images/madagascar-morombe-cities-v2.webp"},
 {"id": "kenya-kilifi-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "B68",
-                  "text": "B68 ist ein Museum in der Stadt Kilifi, das kulturelle Exponate bietet.",
-                  "category": "museum",
-                  "coords": [
-                        39.88452,
-                        -3.600928
-                  ]
-            },
-            {
-                  "name": "VIDAZINI BEACH",
-                  "text": "VIDAZINI BEACH ist ein entspannender Sandstrand in Kilifi.",
-                  "category": "recreational",
-                  "coords": [
-                        39.877369,
-                        -3.618949
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "B68",
-                  "text": "A B68 egy kulturális kiállításokat kínáló múzeum Kilifi városában.",
-                  "category": "museum",
-                  "coords": [
-                        39.88452,
-                        -3.600928
-                  ]
-            },
-            {
-                  "name": "VIDAZINI BEACH",
-                  "text": "A VIDAZINI BEACH egy pihentető homokos part Kilifiben.",
-                  "category": "recreational",
-                  "coords": [
-                        39.877369,
-                        -3.618949
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "B68",
-                  "text": "B68 este un muzeu care oferă expoziții culturale în orașul Kilifi.",
-                  "category": "museum",
-                  "coords": [
-                        39.88452,
-                        -3.600928
-                  ]
-            },
-            {
-                  "name": "VIDAZINI BEACH",
-                  "text": "VIDAZINI BEACH este o zonă de nisip relaxantă situată în Kilifi.",
-                  "category": "recreational",
-                  "coords": [
-                        39.877369,
-                        -3.618949
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "B68",
-                  "text": "B68 is a museum offering cultural exhibits in the city of Kilifi.",
-                  "category": "museum",
-                  "coords": [
-                        39.88452,
-                        -3.600928
-                  ]
-            },
-            {
-                  "name": "VIDAZINI BEACH",
-                  "text": "VIDAZINI BEACH is a relaxing sandy shore situated in Kilifi.",
-                  "category": "recreational",
-                  "coords": [
-                        39.877369,
-                        -3.618949
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "KE-300", "coords": [39.86312, -3.60656], "tier": 2, "name": {"en": "Kilifi", "hu": "Kilifi", "de": "Kilifi", "ro": "Kilifi"}, "description": {"en": "Kilifi is a picturesque resort town on the Kenyan coast, known for its beautiful estuary, white sandy beaches, and ancient ruins.", "hu": "Kilifi egy festői üdülőváros a kenyai tengerparton, amely gyönyörű tölcsértorkolatáról, fehér homokos strandjairól és ősi romjairól ismert.", "de": "Kilifi ist ein malerischer Ferienort an der kenianischen Küste, bekannt für seine schöne Flussmündung, weiße Sandstrände und antiken Ruinen.", "ro": "Kilifi este un oraș pitoresc pe coasta Kenyei, cunoscut pentru estuarul său frumos, plajele cu nisip alb și ruinele antice."}, "descriptionAdvanced": {"en": "Kilifi, situated on the spectacular Kilifi Creek along the Indian Ocean, is a relaxed and scenic coastal town in Kenya. It bridges the gap between Mombasa to the south and Malindi to the north, offering a tranquil alternative to its busier neighbors. \n\nThe town is celebrated for its pristine, powdery white sand beaches and crystal-clear turquoise waters. Among its coastal treasures is the beautiful Vidazini Beach, an idyllic spot perfect for swimming, sunbathing, and taking long, peaceful walks along the shoreline at low tide. \n\nKilifi's historical heart includes the nearby Mnarani Ruins, ancient Swahili settlements dating back to the 14th century. The local culinary scene is a vibrant mix of traditional coastal Swahili flavors and international cuisine, with a strong emphasis on fresh Indian Ocean seafood like red snapper and prawns. \n\nEasily accessible by road via the Mombasa-Malindi highway, Kilifi is a popular destination for both local and international travelers seeking a blend of rich culture, yachting, and laid-back beach life.", "hu": "Kilifi, amely a látványos Kilifi-öböl partján, az Indiai-óceán mentén fekszik, egy nyugodt és festői tengerparti város Kenyában. Hidat képez a déli Mombasa és az északi Malindi között, békés alternatívát nyújtva forgalmasabb szomszédaihoz képest. \n\nA város híres érintetlen, púderes fehér homokos strandjairól és kristálytiszta, türkizkék vizéről. Kincsei közé tartozik a gyönyörű Vidazini Beach, egy idilli hely, amely tökéletes fürdőzéshez, napozáshoz és hosszú, békés sétákhoz a tengerparton apály idején. \n\nKilifi történelmi szíve magában foglalja a közeli Mnarani romokat, amelyek a 14. századból származó ősi szuahéli települések. A helyi kulináris színtér a hagyományos tengerparti szuahéli ízek és a nemzetközi konyha élénk keveréke, nagy hangsúlyt fektetve a friss óceáni tenger gyümölcseire, mint például a vörös sügérre és a rákokra. \n\nA Mombasa-Malindi autópályán közúton könnyen megközelíthető Kilifi népszerű célpont a gazdag kultúra, a jachtozás és a laza tengerparti élet iránt érdeklődők körében.", "de": "Kilifi, an der spektakulären Kilifi-Bucht am Indischen Ozean gelegen, ist eine entspannte und malerische Küstenstadt in Kenia. Sie schließt die Lücke zwischen Mombasa im Süden und Malindi im Norden und bietet eine ruhige Alternative zu ihren geschäftigeren Nachbarn. \n\nDie Stadt wird für ihre unberührten, weißen Sandstrände und ihr kristallklares Wasser gefeiert. Zu den Küstenschätzen gehört der wunderschöne Vidazini Beach, ein idyllischer Ort, der sich perfekt zum Schwimmen, Sonnenbaden und für lange Spaziergänge am Ufer bei Ebbe eignet. \n\nZu Kilifis historischem Herzen gehören die nahegelegenen Mnarani-Ruinen, alte Swahili-Siedlungen aus dem 14. Jahrhundert. Die lokale kulinarische Szene ist eine Mischung aus traditionellen Swahili-Aromen und internationaler Küche, mit Schwerpunkt auf frischen Meeresfrüchten aus dem Indischen Ozean wie Red Snapper und Garnelen. \n\nLeicht über die Autobahn Mombasa-Malindi erreichbar, ist Kilifi ein beliebtes Ziel für Reisende, die eine Mischung aus Kultur, Segeln und entspanntem Strandleben suchen.", "ro": "Kilifi, situat pe spectaculosul estuar Kilifi de-a lungul Oceanului Indian, este un oraș de coastă relaxat și pitoresc din Kenya. Acesta face legătura între Mombasa la sud și Malindi la nord, oferind o alternativă liniștită la vecinii săi mai aglomerați. \n\nOrașul este celebru pentru plajele sale cu nisip alb și apele cristaline turcoaz. Printre comorile sale de coastă se numără frumoasa Vidazini Beach, un loc idilic perfect pentru înot, băi de soare și plimbări lungi și pașnice pe țărm la reflux. \n\nInima istorică a orașului Kilifi include Ruinele Mnarani din apropiere, așezări antice Swahili datând din secolul al XIV-lea. Scena culinară locală este un amestec vibrant de arome tradiționale Swahili și bucătărie internațională, cu un accent puternic pe fructele de mare proaspete. \n\nUșor accesibil pe drum prin autostrada Mombasa-Malindi, Kilifi este o destinație populară pentru călătorii care caută o fuziune de cultură bogată, yachting și viață relaxată la plajă."}, "facts": {"en": ["Capital of Kilifi County", "Located on Kilifi Creek", "Home to Vidazini Beach", "Features 14th-century Mnarani Ruins", "Important yachting and sailing hub", "Known for Swahili coastal cuisine", "Connected by Kilifi Bridge", "Tropical coastal climate"], "hu": ["Kilifi megye fővárosa", "A Kilifi-öböl partján fekszik", "Itt található a Vidazini Beach", "A 14. századi Mnarani romok otthona", "Fontos jacht és vitorlás központ", "Ismert a szuahéli parti konyhájáról", "A Kilifi híd köti össze", "Trópusi tengerparti éghajlat"], "de": ["Hauptstadt des Kilifi County", "An der Kilifi-Bucht gelegen", "Beheimatet den Vidazini Beach", "Mit den Mnarani-Ruinen aus dem 14. Jh.", "Wichtiger Yacht- und Segel-Hub", "Bekannt für die Swahili-Küstenküche", "Verbunden durch die Kilifi-Brücke", "Tropisches Küstenklima"], "ro": ["Capitala comitatului Kilifi", "Situat pe estuarul Kilifi", "Găzduiește Vidazini Beach", "Prezintă ruinele Mnarani (sec. 14)", "Centru important de yachting", "Cunoscut pentru bucătăria Swahili", "Conectat de podul Kilifi", "Climat tropical de coastă"]}, "image": "/poi-images/kenya-kilifi-cities-v2.webp"},
 {"id": "south-africa-marshstrand-cities-v2", "type": "city", "parent": "ZA-EC", "coords": [28.26722, -32.75667], "tier": 2, "name": {"en": "Marshstrand", "hu": "Marshstrand", "de": "Marshstrand", "ro": "Marshstrand"}, "description": {"en": "Marshstrand is a serene coastal village in the Eastern Cape, known for its tranquil beaches, tidal pools, and excellent fishing spots.", "hu": "Marshstrand egy csendes tengerparti falu a Kelet-Fokföldön, amely nyugodt strandjairól, árapály-medencéiről és kiváló horgászhelyeiről ismert.", "de": "Marshstrand ist ein ruhiges Küstendorf am Ostkap, bekannt für seine idyllischen Strände, Gezeitenbecken und ausgezeichneten Angelplätze.", "ro": "Marshstrand este un sat de coastă liniștit din Eastern Cape, cunoscut pentru plajele sale pitorești, piscinele cu maree și locurile excelente de pescuit."}, "descriptionAdvanced": {"en": "Marshstrand is a hidden gem tucked away in the Eastern Cape province of South Africa, positioned near the more well-known Haga Haga. This small coastal village is the perfect retreat for those looking to escape the hustle and bustle of city life, offering unspoiled landscapes and a profound sense of tranquility. \n\nThe rugged coastline is defined by dramatic rock formations, safe tidal pools, and inviting sandy bays. Among these is Bead Beach, a picturesque stretch of coastline where visitors often enjoy beachcombing, relaxing in the sun, and exploring the fascinating marine life in the rocky crevices at low tide. \n\nThough small and lacking a major commercial center, the local vibe is authentic and community-focused. Visitors often bring their own provisions, though fresh catches of the day are a staple for those who enjoy the renowned local surf fishing. \n\nAccessible via a scenic, albeit sometimes bumpy, road from East London, Marshstrand rewards travelers with breathtaking Indian Ocean views and frequent sightings of dolphins and migrating whales.", "hu": "Marshstrand egy rejtett gyöngyszem Dél-Afrika Kelet-Fokföld tartományában, a közismertebb Haga Haga közelében. Ez a kis tengerparti falu tökéletes menedék azok számára, akik menekülni vágynak a városi nyüzsgés elől, érintetlen tájakat és mély nyugalmat kínálva az idelátogatóknak. \n\nA zord partvonalat drámai sziklaképződmények, biztonságos árapály-medencék és hívogató homokos öblök jellemzik. Ezek közé tartozik a Bead Beach, egy festői partszakasz, ahol a látogatók gyakran élvezik a strandolást, a napozást és a lenyűgöző tengeri élet felfedezését a sziklahasadékokban apály idején. \n\nBár a falu kicsi és nincs nagyobb kereskedelmi központja, a helyi hangulat autentikus és közösségközpontú. A látogatók gyakran maguk hozzák az ellátmányukat, bár a napi friss fogás alapvető a híres helyi horgászat kedvelői számára a friss tengeri ételek elkészítéséhez. \n\nAz East Londonból induló festői, bár néhol göröngyös úton megközelíthető Marshstrand lélegzetelállító kilátással az Indiai-óceánra, valamint a delfinek és a vonuló bálnák gyakori látványával jutalmazza az utazókat.", "de": "Marshstrand ist ein verstecktes Juwel in der Provinz Ostkap in Südafrika, in der Nähe des bekannteren Haga Haga. Dieses kleine Küstendorf ist der perfekte Rückzugsort für alle, die der Hektik des Stadtlebens entfliehen möchten, und bietet unberührte Landschaften und tiefe Ruhe. \n\nDie raue Küste zeichnet sich durch dramatische Felsformationen, sichere Gezeitenbecken und einladende Sandbuchten aus. Dazu gehört auch Bead Beach, ein malerischer Küstenabschnitt, an dem Besucher oft das Strandgut durchsuchen, in der Sonne entspannen und bei Ebbe die faszinierende Unterwasserwelt in den Felsspalten erkunden. \n\nObwohl klein und ohne großes Handelszentrum, ist die lokale Atmosphäre authentisch und gemeinschaftsorientiert. Besucher bringen oft ihre eigenen Vorräte mit, obwohl der frische Fang des Tages ein Muss für Angler ist. \n\nErreichbar über eine landschaftlich reizvolle Straße von East London aus, belohnt Marshstrand Reisende mit atemberaubenden Blicken auf den Indischen Ozean und häufigen Sichtungen von Delfinen und wandernden Walen.", "ro": "Marshstrand este o bijuterie ascunsă în provincia Eastern Cape din Africa de Sud, situată lângă mai cunoscutul Haga Haga. Acest mic sat de coastă este refugiul perfect pentru cei care doresc să scape de agitația vieții urbane, oferind peisaje virgine și un sentiment profund de liniște. \n\nCoasta accidentată este definită de formațiuni stâncoase dramatice, bazine de maree sigure și golfuri nisipoase primitoare. Printre acestea se numără Bead Beach, o porțiune pitorească de coastă unde vizitatorii se bucură adesea de relaxare la soare și de explorarea vieții marine fascinante în crăpăturile stâncoase la reflux. \n\nDeși mic și lipsit de un centru comercial major, atmosfera locală este autentică și axată pe comunitate. Vizitatorii își aduc adesea propriile provizii, deși capturile proaspete ale zilei sunt o bază pentru cei care se bucură de pescuitul local. \n\nAccesibil printr-un drum pitoresc din East London, Marshstrand răsplătește călătorii cu vederi uimitoare la Oceanul Indian și observări frecvente ale delfinilor și balenelor migratoare."}, "facts": {"en": ["Located in the Eastern Cape", "Close to Haga Haga resort", "Features the picturesque Bead Beach", "Known for safe tidal pools", "Excellent surf fishing location", "Dolphin and whale watching spots", "Relaxed, remote village atmosphere", "Accessed via scenic coastal roads"], "hu": ["A Kelet-Fokföldön található", "Közel a Haga Haga üdülőhelyhez", "Itt található a festői Bead Beach", "Biztonságos árapály-medencéiről ismert", "Kiváló parti horgászhely", "Delfin- és bálnaleső pontok", "Laza, távoli falu hangulata", "Festői tengerparti utakon közelíthető meg"], "de": ["Am Ostkap gelegen", "In der Nähe des Badeortes Haga Haga", "Verfügt über den malerischen Bead Beach", "Bekannt für sichere Gezeitenbecken", "Ausgezeichneter Ort zum Brandungsangeln", "Beobachtungsorte für Delfine und Wale", "Entspannte, abgelegene Dorfatmosphäre", "Zugang über malerische Küstenstraßen"], "ro": ["Situat în regiunea Eastern Cape", "Aproape de stațiunea Haga Haga", "Găzduiește pitoreasca Bead Beach", "Cunoscut pentru bazinele cu maree sigure", "Locație excelentă pentru pescuit", "Puncte de observare a delfinilor și balenelor", "Atmosferă relaxată de sat izolat", "Accesat prin drumuri de coastă pitorești"]}, "image": "/poi-images/south-africa-marshstrand-cities-v2.webp"},
 {"id": "south-africa-leisure-bay-cities-v2", "sights": {
@@ -19260,50 +14073,10 @@ export const afNewV1: POI[] = [
       ]
 }, "type": "city", "parent": "ZA-EC", "coords": [26.65528, -33.68528], "tier": 2, "name": {"de": "Bushman's River Mouth", "hu": "Bushman's River Mouth", "ro": "Bushman's River Mouth", "en": "Bushman's River Mouth"}, "description": {"de": "Bushman's River Mouth ist eine malerische Küstenstadt an der Sunshine Coast, berühmt für ihre spektakuläre Flussmündung.", "hu": "Bushman's River Mouth egy festői tengerparti város a Napsugár-parton, amely látványos folyótorkolatáról híres.", "ro": "Bushman's River Mouth este un oraș de coastă pitoresc de pe Coasta Soarelui, renumit pentru estuarul său spectaculos.", "en": "Bushman's River Mouth is a picturesque coastal town on the Sunshine Coast, renowned for its spectacular river estuary."}, "descriptionAdvanced": {"de": "Bushman's River Mouth, auch bekannt als Boesmansriviermond, ist eine bezaubernde Küstenstadt an der malerischen Sunshine Coast in Südafrika. Die Stadt liegt am Westufer des Bushman's River, einem der längsten schiffbaren Gezeitenflüsse des Landes. Die Gegend besticht durch ihre außergewöhnlich friedliche Atmosphäre und ist ein beliebtes Urlaubsziel für Familien, die die unberührte Natur genießen möchten.\n\nDie herrliche Shelley Bay ist ein geschützter und malerischer Strand, der sich perfekt zum Sonnenbaden und für entspannende Spaziergänge entlang der Küste eignet. Die weite Flussmündung selbst bietet ruhige Gewässer, die ideal zum Bootfahren, Wasserskilaufen, Kanufahren und Angeln sind. Der Kontrast zwischen den sanften Flussgewässern und den rollenden Wellen des Indischen Ozeans bietet Besuchern das Beste aus beiden Welten an einem Ort.\n\nDie geschichtsträchtige Stadt beherbergt eine Nachbildung des Kwaaihoek-Kreuzes, das vom portugiesischen Entdecker Bartolomeu Dias aufgestellt wurde. Die Gastronomie ist entspannt und konzentriert sich auf frischen Fisch und die klassische südafrikanische Gastfreundschaft. Mit ihrer üppigen Küstenvegetation ist sie ein Paradies für Naturliebhaber.", "hu": "Bushman's River Mouth, más néven Boesmansriviermond, egy lenyűgöző tengerparti város Dél-Afrika festői Napsugár-partján (Sunshine Coast). A város a Bushman-folyó nyugati partján fekszik, amely az ország egyik leghosszabb hajózható árapály-folyója. A környék rendkívül békés hangulatot áraszt, így generációk óta kedvelt nyaralóhely a családok körében, akik az érintetlen természeti szépség miatt érkeznek ide.\n\nA csodálatos Shelley Bay egy védett és festői strand, amely tökéletes napozáshoz és pihentető sétákhoz a part mentén. Maga a hatalmas folyótorkolat nyugodt vizet biztosít, amely ideális csónakázáshoz, vízisíeléshez, kenuzáshoz és horgászathoz. A szelíd folyóvizek és az Indiai-óceán morajló hullámainak kontrasztja a látogatóknak a vízi világok legjavát kínálja egyetlen úti célon belül.\n\nA történelemben gazdag városban található a portugál felfedező, Bartolomeu Dias által felállított Kwaaihoek-kereszt másolata is. A gasztronómiai élet laza, középpontjában a friss helyi fogások és a klasszikus dél-afrikai vendégszeretet áll. Buja parti növényzetével és gazdag madárvilágával a természetkedvelők és a vízi sportok szerelmeseinek igazi menedéke.", "ro": "Bushman's River Mouth, cunoscut și sub numele de Boesmansriviermond, este un oraș pitoresc situat pe pitoreasca Coastă a Soarelui din Africa de Sud. Orașul este situat pe malul vestic al râului Bushman, unul dintre cele mai lungi râuri navigabile cu maree din țară. Zona se mândrește cu o ambianță remarcabil de pașnică, fiind o destinație de vacanță iubită de generații de familii care vin să se bucure de natura curată.\n\nMagnifica Shelley Bay este o plajă adăpostită și pitorească, perfectă pentru plajă și plimbări relaxante de-a lungul țărmului. Gura largă a râului oferă ape calme, ideale pentru plimbări cu barca, schi nautic, canotaj și pescuit. Contrastul dintre apele blânde ale râului și valurile agitate ale Oceanului Indian oferă vizitatorilor ce este mai bun din ambele lumi acvatice într-o singură destinație.\n\nBogat în istorie, orașul prezintă o replică a crucii Kwaaihoek plantate de exploratorul portughez Bartolomeu Dias. Scena culinară este relaxată, concentrându-se pe capturile locale proaspete și pe ospitalitatea clasică sud-africană. Cu vegetația sa luxuriantă de coastă și avifauna abundentă, este un refugiu ideal pentru iubitorii de natură.", "en": "Bushman's River Mouth, also known as Boesmansriviermond, is a captivating seaside town located on South Africa's scenic Sunshine Coast. The town is situated on the western bank of the Bushman's River, one of the longest navigable tidal rivers in the country. The area boasts a remarkably peaceful ambiance, making it a beloved holiday retreat for generations of families who come to enjoy the unspoiled natural beauty.\n\nThe magnificent Shelley Bay is a sheltered and scenic beach perfect for sunbathing and relaxing walks along the shoreline. The expansive river mouth itself provides calm waters ideal for boating, water skiing, canoeing, and fishing. The contrast between the gentle river waters and the rolling waves of the Indian Ocean offers visitors the best of both aquatic worlds in a single destination.\n\nRich in history, the town features a replica of the Kwaaihoek cross planted by Portuguese explorer Bartolomeu Dias. The dining scene is laid-back, focusing on fresh local catches and classic South African hospitality. With its lush coastal vegetation and abundant birdlife, it is a haven for nature lovers and water sports enthusiasts alike."}, "facts": {"de": ["An der Sunshine Coast", "Beheimatet Shelley Bay", "Lange schiffbare Mündung", "Kwaaihoek-Kreuz-Replik", "Hervorragend zum Bootfahren", "Friedliche Urlaubsatmosphäre", "Reiche Küstenvogelwelt", "Frische lokale Meeresfrüchte"], "hu": ["A Napsugár-parton található", "A Shelley Bay otthona", "Hosszú hajózható torkolat", "Kwaaihoek-kereszt másolata", "Kiváló csónakázáshoz", "Békés nyaralóhangulat", "Gazdag tengerparti madárvilág", "Friss helyi tengeri ételek"], "ro": ["Situat pe Coasta Soarelui", "Găzduiește Shelley Bay", "Estuar lung navigabil", "Replica crucii Kwaaihoek", "Excelent pentru plimbări cu barca", "Atmosferă pașnică de vacanță", "Avifaună bogată de coastă", "Fructe de mare proaspete"], "en": ["Located on Sunshine Coast", "Features Shelley Bay", "Long navigable estuary", "Kwaaihoek cross replica", "Excellent for boating", "Peaceful holiday vibe", "Rich coastal birdlife", "Fresh local seafood"]}, "image": "/poi-images/south-africa-bushman-s-river-mouth-cities-v2.webp"},
 {"id": "angola-praia-santo-antonio-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Praia Santo Antônio",
-                  "text": "Praia Santo Antônio ist ein lokaler Strand in der Stadt Praia Santo Antônio.",
-                  "category": "recreational",
-                  "coords": [
-                        13.324582,
-                        -12.610857
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Praia Santo Antônio",
-                  "text": "A Praia Santo Antônio egy helyi strand Praia Santo Antônio városában.",
-                  "category": "recreational",
-                  "coords": [
-                        13.324582,
-                        -12.610857
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Praia Santo Antônio",
-                  "text": "Praia Santo Antônio este o plajă locală din orașul Praia Santo Antônio.",
-                  "category": "recreational",
-                  "coords": [
-                        13.324582,
-                        -12.610857
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Praia Santo Antônio",
-                  "text": "Praia Santo Antônio is a local beach in the city of Praia Santo Antônio.",
-                  "category": "recreational",
-                  "coords": [
-                        13.324582,
-                        -12.610857
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "AO-BGU", "coords": [13.32458, -12.61086], "tier": 2, "name": {"en": "Praia Santo Antônio", "hu": "Praia Santo Antônio", "de": "Praia Santo Antônio", "ro": "Praia Santo Antônio"}, "description": {"en": "A tranquil coastal town in Angola known for its relaxing atmosphere and the beautiful Praia Santo Antônio.", "hu": "Csendes tengerparti város Angolában, amely pihentető légköréről és a gyönyörű Praia Santo Antônio strandjáról ismert.", "de": "Eine ruhige Küstenstadt in Angola, bekannt für ihre entspannte Atmosphäre und den wunderschönen Strand Praia Santo Antônio.", "ro": "Un oraș de coastă liniștit din Angola, cunoscut pentru atmosfera sa relaxantă și plaja frumoasă Praia Santo Antônio."}, "descriptionAdvanced": {"en": "Praia Santo Antônio is a charming coastal destination in the Benguela province of Angola, offering visitors a serene escape along the Atlantic Ocean. The town's primary draw is its namesake beach, Praia Santo Antônio, featuring golden sands and calming ocean waves. It is an ideal spot for sunbathing, leisurely walks, and enjoying the coastal breeze away from bustling city centers.\n\nThe local atmosphere is distinctly laid-back, with small-scale fishing activities shaping the daily rhythm of the community. Visitors can often witness fishermen bringing in their daily catch, which provides the foundation for the region's excellent, fresh seafood gastronomy. Simple yet delicious grilled fish dishes are a staple here, offering a true taste of authentic Angolan coastal living.\n\nAccessible via regional roads from major centers like Benguela, Praia Santo Antônio remains somewhat off the beaten path, preserving its natural charm. The combination of untouched beaches, warm Atlantic waters, and a welcoming local community makes it a hidden gem for travelers seeking a peaceful seaside retreat in Southern Africa.", "hu": "Praia Santo Antônio egy bájos tengerparti úti cél Angola Benguela tartományában, amely békés menedéket kínál az Atlanti-óceán partján. A város fő vonzereje a névadó strand, a Praia Santo Antônio, amely aranyszínű homokkal és megnyugtató óceáni hullámokkal büszkélkedhet. Tökéletes hely napozáshoz, nyugodt sétákhoz és a tengerparti szellő élvezetéhez, távol a nyüzsgő városközpontoktól.\n\nA helyi légkör kifejezetten laza, a mindennapi élet ritmusát a kisüzemi halászat határozza meg. A látogatók gyakran láthatják, ahogy a halászok behozzák a napi fogást, amely a régió kiváló, friss tenger gyümölcseit kínáló gasztronómiájának alapját adja. Az egyszerű, de ízletes grillezett halételek alapvetőek itt, és az autentikus angolai tengerparti élet igazi ízét nyújtják.\n\nA nagyobb központokból, például Benguelából regionális utakon megközelíthető Praia Santo Antônio némileg letér a kitaposott ösvényről, így megőrizte természetes báját. Az érintetlen strandok, a meleg atlanti vizek és a barátságos közösség rejtett kincsé teszik a békés pihenésre vágyók számára.", "de": "Praia Santo Antônio ist ein charmantes Küstenziel in der angolanischen Provinz Benguela und bietet Besuchern einen ruhigen Rückzugsort am Atlantischen Ozean. Die Hauptattraktion der Stadt ist der gleichnamige Strand Praia Santo Antônio mit seinem goldenen Sand und den beruhigenden Meereswellen. Er ist ein idealer Ort zum Sonnenbaden, für gemütliche Spaziergänge und um die Küstenbrise fernab der geschäftigen Stadtzentren zu genießen.\n\nDie lokale Atmosphäre ist ausgesprochen entspannt, wobei kleine Fischereiaktivitäten den täglichen Rhythmus der Gemeinde prägen. Besucher können oft beobachten, wie Fischer ihren täglichen Fang einbringen, der die Grundlage für die hervorragende, frische Meeresfrüchte-Gastronomie der Region bildet. Einfache, aber köstliche gegrillte Fischgerichte sind hier ein Grundnahrungsmittel und bieten einen wahren Geschmack des authentischen angolanischen Küstenlebens.\n\nPraia Santo Antônio ist über regionale Straßen von größeren Zentren wie Benguela aus erreichbar und liegt etwas abseits der ausgetretenen Pfade, wodurch sein natürlicher Charme bewahrt bleibt. Unberührte Strände und warmes Atlantikwasser machen es zu einem versteckten Juwel.", "ro": "Praia Santo Antônio este o destinație de coastă fermecătoare din provincia Benguela din Angola, oferind vizitatorilor o evadare senină de-a lungul Oceanului Atlantic. Atracția principală a orașului este plaja cu același nume, Praia Santo Antônio, care se mândrește cu nisip auriu și valuri liniștitoare. Este un loc ideal pentru plajă, plimbări pe îndelete și pentru a vă bucura de briza de coastă departe de centrele urbane aglomerate.\n\nAtmosfera locală este deosebit de relaxată, activitățile de pescuit la scară mică modelând ritmul zilnic al comunității. Vizitatorii pot asista adesea la întoarcerea pescarilor cu captura lor zilnică, care oferă baza pentru gastronomia excelentă a regiunii, bazată pe fructe de mare proaspete. Mâncărurile simple, dar delicioase din pește la grătar sunt un element de bază aici, oferind un gust adevărat al vieții de coastă angoleze autentice.\n\nAccesibilă prin drumuri regionale din centre majore precum Benguela, Praia Santo Antônio rămâne oarecum în afara traseelor turistice bătătorite. Plajele neatinse și apele atlantice calde o fac o bijuterie ascunsă pentru relaxare."}, "facts": {"en": ["Located in Benguela province", "Situated on the Atlantic Ocean", "Features Praia Santo Antônio beach", "Known for traditional fishing", "Unspoiled coastline", "Fresh seafood cuisine", "Tropical coastal climate", "Peaceful tourist destination"], "hu": ["Benguela tartományban található", "Az Atlanti-óceán partján fekszik", "Itt van a Praia Santo Antônio strand", "Hagyományos halászatáról ismert", "Érintetlen partvidék", "Friss tengeri ételeket kínál", "Trópusi tengerparti éghajlat", "Békés turisztikai célpont"], "de": ["In der Provinz Benguela gelegen", "Am Atlantischen Ozean gelegen", "Bietet den Strand Praia Santo Antônio", "Bekannt für traditionellen Fischfang", "Unberührte Küste", "Frische Meeresfrüchte-Küche", "Tropisches Küstenklima", "Friedliches Reiseziel"], "ro": ["Situat în provincia Benguela", "Situat la Oceanul Atlantic", "Dispune de plaja Praia Santo Antônio", "Cunoscut pentru pescuitul tradițional", "Coastă curată", "Bucătărie cu fructe de mare proaspete", "Climat tropical de coastă", "Destinație turistică pașnică"]}, "image": "/poi-images/angola-praia-santo-antonio-cities-v2.webp"},
 {"id": "angola-panguila-cities-v2", "type": "city", "parent": "AO-LUA", "coords": [13.44749, -8.69842], "tier": 2, "name": {"en": "Panguila", "hu": "Panguila", "de": "Panguila", "ro": "Panguila"}, "description": {"en": "A vibrant coastal settlement in the Luanda province, offering a mix of local culture and the scenic Praia de São Tiago.", "hu": "Élettel teli tengerparti település Luanda tartományban, amely a helyi kultúra és a festői Praia de São Tiago keverékét kínálja.", "de": "Eine lebhafte Küstensiedlung in der Provinz Luanda, die eine Mischung aus lokaler Kultur und dem malerischen Strand Praia de São Tiago bietet.", "ro": "O așezare de coastă vibrantă în provincia Luanda, oferind un amestec de cultură locală și pitoreasca plajă Praia de São Tiago."}, "descriptionAdvanced": {"en": "Panguila is an emerging coastal town situated in the Luanda province of Angola, providing a glimpse into the evolving landscape of the shoreline. The area is appreciated for its access to the Atlantic, notably the stunning Praia de São Tiago. This beach is a local favorite, characterized by its wide stretches of sand and inviting waters, perfect for swimming and weekend recreation.\n\nThe town serves as a busy transitional point between the massive urban sprawl of Luanda and the calmer northern coastal regions. Visitors to Panguila can experience authentic Angolan street life, bustling markets, and a culinary scene heavily influenced by its oceanic proximity. Local food stalls and modest restaurants serve excellent traditional dishes, with freshly caught fish and funge being the highlights of the regional gastronomy.\n\nEasily accessible via the main coastal highway from Luanda, Panguila is increasingly becoming a popular getaway. While it retains its developing suburban charm, the presence of Praia de São Tiago and the friendly local atmosphere make it a worthwhile stop for those exploring the coast.", "hu": "Panguila egy feltörekvő tengerparti város Angola Luanda tartományában, amely lenyűgöző bepillantást nyújt az ország partvidékének gyorsan változó világába. A területet nagyra értékelik az Atlanti-óceánhoz való hozzáférése miatt, leginkább a lenyűgöző Praia de São Tiago révén. Ez a strand a helyiek kedvence, melyet széles homokos szakaszok és hívogató vizek jellemeznek, tökéletes úszáshoz és hétvégi kikapcsolódáshoz.\n\nMaga a város forgalmas átmeneti pontként szolgál Luanda hatalmas városi terjeszkedése és a nyugodtabb északi tengerparti régiók között. A Panguilába látogatók megtapasztalhatják az autentikus angolai utcai életet, a nyüzsgő piacokat és az óceán közelsége által erősen befolyásolt, növekvő kulináris szcénát. A helyi ételstandok és szerény éttermek kiváló hagyományos ételeket szolgálnak fel, a frissen fogott hal és a funge a regionális gasztronómia fénypontjai.\n\nLuandából a fő tengerparti autópályán könnyen megközelíthető Panguila egyre inkább a városlakók népszerű kirándulóhelyévé válik. Bár megőrizte fejlődő külvárosi bájának nagy részét, a tengerpart és a barátságos légkör érdemes megállóvá teszi az utazók számára.", "de": "Panguila ist eine aufstrebende Küstenstadt in der angolanischen Provinz Luanda und bietet einen faszinierenden Einblick in die sich schnell entwickelnde Landschaft der Küste des Landes. Die Gegend wird wegen ihres Zugangs zum Atlantik hoch geschätzt, vor allem wegen des atemberaubenden Praia de São Tiago. Dieser Strand ist ein lokaler Favorit, der sich durch weite Sandflächen und einladendes Wasser auszeichnet, perfekt zum Schwimmen und für Wochenenderholung.\n\nDie Stadt selbst dient als belebter Übergangspunkt zwischen der massiven Zersiedelung von Luanda und den ruhigeren nördlichen Küstenregionen. Besucher von Panguila können das authentische angolanische Straßenleben, geschäftige Märkte und eine wachsende kulinarische Szene erleben, die stark von der Nähe zum Ozean geprägt ist. Lokale Essensstände und bescheidene Restaurants servieren hervorragende traditionelle Gerichte, wobei frisch gefangener Fisch und Funge die Highlights der regionalen Gastronomie sind.\n\nÜber die Hauptküstenstraße von Luanda leicht erreichbar, wird Panguila zunehmend zu einem beliebten Ausflugsziel für Stadtbewohner. Die Präsenz des Praia de São Tiago macht es zu einem lohnenden Stopp.", "ro": "Panguila este un oraș de coastă în curs de dezvoltare, situat în provincia Luanda din Angola, oferind o privire fascinantă asupra peisajului în continuă evoluție al litoralului țării. Zona este foarte apreciată pentru accesul său la Atlantic, mai ales pentru uimitoarea Praia de São Tiago. Această plajă este o favorită a localnicilor, caracterizată prin întinderi largi de nisip și ape primitoare, perfectă pentru înot și recreere de weekend.\n\nOrașul în sine servește ca un punct de tranziție aglomerat între extinderea urbană masivă a Luandei și regiunile de coastă nordice mai calme. Vizitatorii din Panguila pot experimenta viața de stradă autentică angoleză, piețele pline de viață și o scenă culinară în creștere, puternic influențată de proximitatea oceanică. Standurile alimentare locale și restaurantele modeste servesc preparate tradiționale excelente, peștele proaspăt prins și funge fiind punctele de atracție ale gastronomiei regionale.\n\nUșor accesibilă prin autostrada principală de coastă din Luanda, Panguila devine o evadare populară pentru locuitorii orașului. Prezența Praia de São Tiago o face o oprire valoroasă pentru cei care explorează coasta angoleză."}, "facts": {"en": ["Located in Luanda Province", "Near the Angolan capital", "Home to Praia de São Tiago", "Rapidly developing area", "Coastal suburban vibe", "Busy local markets", "Traditional fish cuisine", "Accessible via coastal highway"], "hu": ["Luanda tartományban fekszik", "Az angolai főváros közelében", "Itt található a Praia de São Tiago", "Gyorsan fejlődő terület", "Tengerparti külvárosi hangulat", "Forgalmas helyi piacok", "Hagyományos halételek", "Parti autópályán elérhető"], "de": ["In der Provinz Luanda gelegen", "In der Nähe der Hauptstadt", "Heimat des Praia de São Tiago", "Sich schnell entwickelndes Gebiet", "Küstenvorort-Atmosphäre", "Belebte lokale Märkte", "Traditionelle Fischküche", "Über Küstenstraße erreichbar"], "ro": ["Situat în provincia Luanda", "Aproape de capitala Angolei", "Găzduiește Praia de São Tiago", "Zonă cu dezvoltare rapidă", "Atmosferă suburbană de coastă", "Piețe locale aglomerate", "Bucătărie tradițională cu pește", "Accesibil prin autostrada de coastă"]}, "image": "/poi-images/angola-panguila-cities-v2.webp"},
 {"id": "cameroon-londji-cities-v2", "sights": {
@@ -19588,15 +14361,6 @@ export const afNewV1: POI[] = [
                         14.154711,
                         32.711719
                   ]
-            },
-            {
-                  "name": "Villa Selene",
-                  "text": "Villa Selene ist eine archäologische Stätte mit historischen Ruinen in Celine.",
-                  "category": "historical",
-                  "coords": [
-                        14.178072,
-                        32.709561
-                  ]
             }
       ],
       "hu": [
@@ -19607,15 +14371,6 @@ export const afNewV1: POI[] = [
                   "coords": [
                         14.154711,
                         32.711719
-                  ]
-            },
-            {
-                  "name": "Villa Selene",
-                  "text": "A Villa Selene egy történelmi romokat őrző régészeti lelőhely Celine városában.",
-                  "category": "historical",
-                  "coords": [
-                        14.178072,
-                        32.709561
                   ]
             }
       ],
@@ -19628,49 +14383,12 @@ export const afNewV1: POI[] = [
                         14.154711,
                         32.711719
                   ]
-            },
-            {
-                  "name": "Villa Selene",
-                  "text": "Villa Selene este un sit arheologic ce conservă ruine istorice în Celine.",
-                  "category": "historical",
-                  "coords": [
-                        14.178072,
-                        32.709561
-                  ]
             }
       ],
-      "en": [
-            {
-                  "name": "Sealine Resort",
-                  "text": "Sealine Resort is a beach destination located in Celine.",
-                  "category": "recreational",
-                  "coords": [
-                        14.154711,
-                        32.711719
-                  ]
-            },
-            {
-                  "name": "Villa Selene",
-                  "text": "Villa Selene is an archaeological site preserving historical ruins in Celine.",
-                  "category": "historical",
-                  "coords": [
-                        14.178072,
-                        32.709561
-                  ]
-            }
-      ]
+      "en": []
 }, "type": "city", "parent": "LY-MB", "coords": [14.15351, 32.69714], "tier": 2, "name": {"de": "Celine", "hu": "Celine", "ro": "Celine", "en": "Celine"}, "description": {"de": "Celine ist eine friedliche Küstenstadt in Libyen, bekannt für ihre entspannende Atmosphäre am Meer.", "hu": "Celine egy békés tengerparti település Líbiában, amely pihentető légköréről és strandjairól ismert.", "ro": "Celine este un oraș de coastă liniștit din Libia, recunoscut pentru atmosfera sa relaxantă la Marea Mediterană.", "en": "Celine is a peaceful coastal town in Libya known for its relaxing atmosphere and the beautiful Sealine Resort."}, "descriptionAdvanced": {"de": "Celine ist ein charmantes Küstenziel im Murqub-Distrikt in Libyen und bietet Besuchern einen ruhigen Rückzugsort am Mittelmeer. Die Stadt zeichnet sich durch ihr entspanntes Lebenstempo aus und ist der perfekte Ort für alle, die sich abseits der geschäftigen Stadtzentren erholen möchten. Das mediterrane Klima sorgt für warme, sonnige Sommer und milde Winter.\n\nDas Highlight der Gegend ist für viele Besucher das Sealine Resort, ein bekanntes lokales Ausflugsziel, das hervorragende Einrichtungen für Strandbesucher bietet. Hier können Gäste im klaren blauen Wasser schwimmen, an den Sandstränden sonnenbaden und an verschiedenen Wasseraktivitäten teilnehmen. Das Resort dient als Mittelpunkt für den Tourismus und die lokale Erholung.\n\nÜber den Strand hinaus bietet Celine einen Einblick in die lokale libysche Küstenkultur. Besucher können lokale Märkte erkunden, die traditionelle nordafrikanische Küche mit frischen Meeresfrüchten probieren und mit den gastfreundlichen Einheimischen in Kontakt treten. Die Nähe der Stadt zu historischen Stätten in der Region Tripolitanien macht sie auch zu einem günstigen Ausgangspunkt für Erkundungen.", "hu": "Celine egy bájos tengerparti úti cél Líbia Murqub kerületében, amely nyugodt menedéket kínál a Földközi-tenger partján. A várost a nyugodt életritmus jellemzi, így tökéletes hely azok számára, akik a nyüzsgő városközpontoktól távol szeretnének pihenni. A mediterrán éghajlat meleg, napos nyarakat és enyhe teleket biztosít, ami ideális az egész éves tengerparti kikapcsolódáshoz.\n\nA környék fénypontja sok látogató számára a Sealine Resort, egy jól ismert helyi létesítmény, amely kiváló feltételeket biztosít a strandolóknak. Itt a vendégek élvezhetik az úszást a tiszta kék vizekben, a napozást a homokos partokon és a különböző vízi tevékenységeket. Az üdülőhely a turizmus és a helyi rekreáció fókuszpontjaként szolgál.\n\nA strandon túl Celine bepillantást enged a helyi líbiai tengerparti kultúrába. A látogatók felfedezhetik a helyi piacokat, megkóstolhatják a friss tenger gyümölcseit kínáló hagyományos észak-afrikai konyhát, és találkozhatnak a vendégszerető helyiekkel. A város közelsége a tágabb Tripolitánia régió történelmi helyszíneihez kényelmes bázissá teszi a szélesebb körű felfedezésekhez.", "ro": "Celine este o destinație de coastă fermecătoare situată în districtul Murqub din Libia, oferind vizitatorilor o evadare liniștită de-a lungul Mării Mediterane. Orașul este caracterizat de ritmul său relaxat de viață, fiind un loc perfect pentru cei care doresc să se relaxeze departe de centrele urbane aglomerate. Clima sa mediteraneană asigură veri calde și însorite și ierni blânde.\n\nAtracția principală a zonei pentru mulți vizitatori este Sealine Resort, o destinație locală binecunoscută, care oferă facilități excelente pentru iubitorii de plajă. Aici, oaspeții se pot bucura de înot în apele albastre și limpezi, de plajă pe malurile nisipoase și de diverse activități acvatice. Stațiunea servește ca punct focal pentru turism și recreere locală.\n\nDincolo de plajă, Celine oferă o privire în cultura locală de coastă a Libiei. Vizitatorii pot explora piețele locale, pot gusta preparate din bucătăria tradițională nord-africană cu fructe de mare proaspete și pot interacționa cu localnicii primitori. Proximitatea orașului de siturile istorice din regiunea mai largă Tripolitania îl face, de asemenea, o bază convenabilă pentru o explorare mai amplă.", "en": "Celine is a charming coastal destination located in the Murqub District of Libya, offering visitors a tranquil escape along the Mediterranean Sea. The town is characterized by its relaxed pace of life, making it a perfect spot for those looking to unwind away from bustling city centers. Its Mediterranean climate ensures warm, sunny summers and mild winters, ideal for year-round coastal enjoyment.\n\nThe highlight of the area for many visitors is the Sealine Resort, a well-known local destination that provides excellent facilities for beachgoers. Here, guests can enjoy swimming in the clear blue waters, sunbathing on the sandy shores, and participating in various water-based activities. The resort serves as a focal point for tourism and local recreation.\n\nBeyond the beach, Celine offers a glimpse into local Libyan coastal culture. Visitors can explore local markets, taste traditional North African cuisine featuring fresh seafood, and interact with the welcoming locals. The town's proximity to historical sites in the wider Tripolitania region also makes it a convenient base for broader exploration."}, "facts": {"de": ["Liegt im Murqub-Distrikt", "Mittelmeerküste", "Beherbergt das Sealine Resort", "Warmes Sommerklima", "Traditionelle nordafrikanische Küche", "Ruhige Alternative zu Tripolis", "Nahe antiken römischen Ruinen", "Fischergemeinde"], "hu": ["A Murqub kerületben található", "Földközi-tengeri partvidék", "Itt található a Sealine Resort", "Meleg nyári éghajlat", "Hagyományos észak-afrikai konyha", "Csendes alternatíva Tripolihoz", "Közel az ókori római romokhoz", "Halászközösség"], "ro": ["Situat în districtul Murqub", "Coasta Mării Mediterane", "Găzduiește Sealine Resort", "Climă caldă de vară", "Bucătărie tradițională nord-africană", "Alternativă liniștită la Tripoli", "Aproape de ruinele romane", "Comunitate de pescari"], "en": ["Located in Murqub District", "Mediterranean coastline", "Features Sealine Resort", "Warm summer climate", "Traditional North African cuisine", "Quiet alternative to Tripoli", "Close to ancient Roman ruins", "Fishing community"]}, "image": "/poi-images/libya-celine-cities-v2.webp"},
 {"id": "tunisia-menzel-jemil-cities-v2", "sights": {
       "de": [
-            {
-                  "name": "Remadia",
-                  "text": "Remadia ist eine archäologische Stätte in Menzel Jemil.",
-                  "category": "historical",
-                  "coords": [
-                        9.894307,
-                        37.246892
-                  ]
-            },
             {
                   "name": "شاطئ الرمال",
                   "text": "شاطئ الرمال ist ein Strand in Menzel Jemil.",
@@ -19683,15 +14401,6 @@ export const afNewV1: POI[] = [
       ],
       "hu": [
             {
-                  "name": "Remadia",
-                  "text": "A Remadia egy régészeti lelőhely Menzel Jemil közelében.",
-                  "category": "historical",
-                  "coords": [
-                        9.894307,
-                        37.246892
-                  ]
-            },
-            {
                   "name": "شاطئ الرمال",
                   "text": "A شاطئ الرمال egy strand Menzel Jemil területén.",
                   "category": "recreational",
@@ -19702,15 +14411,6 @@ export const afNewV1: POI[] = [
             }
       ],
       "ro": [
-            {
-                  "name": "Remadia",
-                  "text": "Remadia este un sit arheologic situat în Menzel Jemil.",
-                  "category": "historical",
-                  "coords": [
-                        9.894307,
-                        37.246892
-                  ]
-            },
             {
                   "name": "شاطئ الرمال",
                   "text": "شاطئ الرمال este o plajă situată în Menzel Jemil.",
@@ -19723,15 +14423,6 @@ export const afNewV1: POI[] = [
       ],
       "en": [
             {
-                  "name": "Remadia",
-                  "text": "Remadia is an archaeological site located in Menzel Jemil.",
-                  "category": "historical",
-                  "coords": [
-                        9.894307,
-                        37.246892
-                  ]
-            },
-            {
                   "name": "شاطئ الرمال",
                   "text": "شاطئ الرمال is a beach situated in Menzel Jemil.",
                   "category": "recreational",
@@ -19743,122 +14434,10 @@ export const afNewV1: POI[] = [
       ]
 }, "type": "city", "parent": "TN-23", "coords": [9.91297, 37.23932], "tier": 2, "name": {"de": "Menzel Jemil", "hu": "Menzel Jemil", "ro": "Menzel Jemil", "en": "Menzel Jemil"}, "description": {"de": "Menzel Jemil ist eine malerische Küstenstadt in der Nähe von Bizerte, die für ihren schönen, von Pinienwäldern gesäumten Sandstrand bekannt ist.", "hu": "Menzel Jemil egy festői tengerparti város Bizerte közelében, amely gyönyörű, fenyőerdőkkel övezett homokos strandjáról ismert.", "ro": "Menzel Jemil este un oraș de coastă pitoresc de lângă Bizerte, cunoscut pentru frumoasa sa plajă cu nisip, mărginită de păduri de pini.", "en": "Menzel Jemil is a picturesque coastal town near Bizerte, known for its beautiful sandy beach fringed by refreshing pine forests."}, "descriptionAdvanced": {"de": "Menzel Jemil ist eine attraktive Küstenstadt im Gouvernement Bizerte im Norden Tunesiens, bekannt für ihre strategische Lage und die atemberaubende natürliche Umgebung. Eingebettet zwischen dem Mittelmeer und dem malerischen See von Bizerte bietet sie eine einzigartige Küstenlandschaft. Das wichtigste Highlight am Meer ist der wunderschöne شاطئ الرمال (Remel Beach), berühmt für seine ausgedehnten Sandstrände, die von einem dichten und erfrischenden Pinienwald gesäumt werden.\n\nDie Stadt selbst bietet ein ruhiges, authentisches tunesisches Erlebnis, weit entfernt von den kommerziellen Touristenzonen. Besucher können die charmanten Straßen erkunden, mit freundlichen Einwohnern ins Gespräch kommen und traditionelle Landwirtschafts- und Fischereipraktiken beobachten. Die Nähe zu den Pinienwäldern bietet hervorragende Möglichkeiten zum Wandern, Picknicken und um die Natur in einer ruhigen Umgebung direkt am Meer zu genießen.\n\nDie lokale Küche zeichnet sich durch frisch gefangene Meeresfrüchte sowie rustikale Gerichte aus, die typisch für Nordtunesien sind. Menzel Jemil ist über die Straße von der nahe gelegenen Stadt Bizerte aus leicht zu erreichen und ist ein fantastisches Ausflugsziel oder ein ruhiger Urlaubsort, der die Strände mit den Küstenwäldern verbindet.", "hu": "Menzel Jemil egy vonzó tengerparti város Tunézia északi részén, a Bizerte kormányzóságban, amely stratégiai elhelyezkedéséről és lenyűgöző természeti környezetéről ismert. A Földközi-tenger és a festői Bizerte-tó között fekvő település egyedülálló, biológiai sokféleségben gazdag partvidéki környezetet biztosít. A tengerparti fénypont a gyönyörű شاطئ الرمال (Remel Beach), amely kiterjedt homokos partjairól híres, és amelyet egy sűrű és frissítő fenyőerdő szegélyez.\n\nMaga a város nyugodt, hiteles tunéziai élményt kínál, messze az erősen elüzletiesedett turisztikai övezetektől. A látogatók felfedezhetik a hangulatos helyi utcákat, beszélgethetnek a barátságos lakosokkal, és megfigyelhetik a hagyományos mezőgazdasági és halászati módszereket. A fenyőerdők közelsége kiváló lehetőséget biztosít túrázásra, piknikezésre és a természet élvezetére.\n\nA helyi konyha a tóból és a tengerből származó frissen fogott tenger gyümölcseit, valamint Észak-Tunézia jellegzetes hagyományos, rusztikus ételeit helyezi előtérbe. Menzel Jemil közúton könnyen megközelíthető a közeli Bizerte városából, így fantasztikus egynapos kirándulási célpont.", "ro": "Menzel Jemil este un oraș de coastă atractiv situat în guvernoratul Bizerte din nordul Tunisiei, cunoscut pentru locația sa strategică și împrejurimile naturale uimitoare. Amplasat între Marea Mediterană și pitorescul Lac Bizerte, acesta oferă un mediu de coastă unic, bogat în biodiversitate. Principala atracție de pe litoral este superba شاطئ الرمال (Remel Beach), renumită pentru țărmurile sale nisipoase extinse, mărginite de o pădure densă și răcoritoare de pini.\n\nOrașul în sine oferă o experiență tunisiană liniștită și autentică, departe de zonele turistice puternic comercializate. Vizitatorii pot explora străzile locale fermecătoare, pot interacționa cu rezidenții prietenoși și pot observa practicile tradiționale agricole și de pescuit. Proximitatea pădurilor de pini oferă oportunități excelente pentru drumeții, picnic și bucuria de natură într-un cadru senin.\n\nBucătăria locală include fructe de mare proaspăt prinse din lac și mare, alături de mâncăruri rustice tradiționale specifice nordului Tunisiei. Menzel Jemil este ușor accesibil pe șosea din orașul Bizerte, fiind o destinație fantastică de o zi sau o retragere liniștită de vacanță, combinând frumusețea plajelor cu liniștea pădurilor.", "en": "Menzel Jemil is an attractive coastal town situated in the Bizerte Governorate of northern Tunisia, known for its strategic location and stunning natural surroundings. Nestled between the Mediterranean Sea and the scenic Lake of Bizerte, it provides a unique coastal environment rich in biodiversity. The main seaside highlight is the beautiful شاطئ الرمال (Remel Beach), famous for its extensive sandy shores bordered by a dense and refreshing pine forest.\n\nThe town itself offers a tranquil, authentic Tunisian experience, far removed from the heavily commercialized tourist zones. Visitors can explore the charming local streets, interact with friendly residents, and observe traditional agricultural and fishing practices. The proximity to the pine forests provides excellent opportunities for hiking, picnicking, and enjoying nature in a serene setting, right next to the sea.\n\nLocal cuisine strongly features freshly caught seafood from both the lake and the sea, alongside traditional rustic dishes typical of northern Tunisia. Menzel Jemil is easily accessible by road from the nearby major city of Bizerte, making it a fantastic day-trip destination or a quiet holiday retreat. It perfectly combines the beauty of Mediterranean beaches with the peacefulness of lush coastal woodlands."}, "facts": {"de": ["Gouvernement Bizerte", "شاطئ الرمال (Remel Beach)", "See von Bizerte", "Pinienwälder", "Reiche Biodiversität", "Authentische Atmosphäre", "Frische Meeresfrüchte", "Friedlicher Rückzugsort"], "hu": ["Bizerte kormányzóság", "شاطئ الرمال (Remel Beach)", "Bizerte-tó", "Fenyőerdők", "Gazdag biodiverzitás", "Autentikus hangulat", "Friss tenger gyümölcsei", "Békés menedék"], "ro": ["Guvernoratul Bizerte", "شاطئ الرمال (Remel Beach)", "Lacul Bizerte", "Păduri de pini", "Biodiversitate bogată", "Atmosferă autentică", "Fructe de mare proaspete", "Retragere pașnică"], "en": ["Bizerte Governorate", "شاطئ الرمال (Remel Beach)", "Lake of Bizerte", "Pine forests", "Rich biodiversity", "Authentic atmosphere", "Fresh seafood", "Peaceful retreat"]}, "image": "/poi-images/tunisia-menzel-jemil-cities-v2.webp"},
 {"id": "algeria-el-bouni-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Villa of Procurator",
-                  "text": "Die Villa of Procurator ist eine archäologische Stätte in El Bouni.",
-                  "category": "historical",
-                  "coords": [
-                        7.749249,
-                        36.880844
-                  ]
-            },
-            {
-                  "name": "Annaba Theater",
-                  "text": "Das Annaba Theater ist eine archäologische Stätte in El Bouni.",
-                  "category": "historical",
-                  "coords": [
-                        7.74672,
-                        36.881403
-                  ]
-            },
-            {
-                  "name": "Maison de jeunes",
-                  "text": "Das Maison de jeunes ist ein Kunstzentrum in El Bouni.",
-                  "category": "cultural",
-                  "coords": [
-                        7.735405,
-                        36.855736
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Villa of Procurator",
-                  "text": "A Villa of Procurator egy régészeti lelőhely El Bouni városában.",
-                  "category": "historical",
-                  "coords": [
-                        7.749249,
-                        36.880844
-                  ]
-            },
-            {
-                  "name": "Annaba Theater",
-                  "text": "Az Annaba Theater egy régészeti lelőhely El Bouni városában.",
-                  "category": "historical",
-                  "coords": [
-                        7.74672,
-                        36.881403
-                  ]
-            },
-            {
-                  "name": "Maison de jeunes",
-                  "text": "A Maison de jeunes egy művészeti központ El Bouni városában.",
-                  "category": "cultural",
-                  "coords": [
-                        7.735405,
-                        36.855736
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Villa of Procurator",
-                  "text": "Villa of Procurator este un sit arheologic situat în El Bouni.",
-                  "category": "historical",
-                  "coords": [
-                        7.749249,
-                        36.880844
-                  ]
-            },
-            {
-                  "name": "Annaba Theater",
-                  "text": "Annaba Theater este un sit arheologic situat în El Bouni.",
-                  "category": "historical",
-                  "coords": [
-                        7.74672,
-                        36.881403
-                  ]
-            },
-            {
-                  "name": "Maison de jeunes",
-                  "text": "Maison de jeunes este un centru de arte aflat în El Bouni.",
-                  "category": "cultural",
-                  "coords": [
-                        7.735405,
-                        36.855736
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Villa of Procurator",
-                  "text": "Villa of Procurator is an archaeological site located in El Bouni.",
-                  "category": "historical",
-                  "coords": [
-                        7.749249,
-                        36.880844
-                  ]
-            },
-            {
-                  "name": "Annaba Theater",
-                  "text": "Annaba Theater is an archaeological site situated in El Bouni.",
-                  "category": "historical",
-                  "coords": [
-                        7.74672,
-                        36.881403
-                  ]
-            },
-            {
-                  "name": "Maison de jeunes",
-                  "text": "Maison de jeunes is an arts centre found in El Bouni.",
-                  "category": "cultural",
-                  "coords": [
-                        7.735405,
-                        36.855736
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "DZ-23", "coords": [7.74137, 36.85483], "tier": 2, "name": {"de": "El Bouni", "hu": "El Bouni", "ro": "El Bouni", "en": "El Bouni"}, "description": {"de": "El Bouni ist eine algerische Küstenstadt in der Nähe von Annaba. Der beliebte Strand Sidi Salem bietet einen schönen Blick auf das Mittelmeer.", "hu": "El Bouni egy algériai tengerparti település Annaba közelében. A közkedvelt Sidi Salem strand gyönyörű kilátást nyújt a Földközi-tengerre.", "ro": "El Bouni este un oraș de coastă algerian situat lângă Annaba. Plaja populară Sidi Salem oferă vederi frumoase la Marea Mediterană.", "en": "El Bouni is an Algerian coastal city located near Annaba. The popular Sidi Salem beach offers beautiful views of the Mediterranean Sea."}, "descriptionAdvanced": {"de": "El Bouni ist eine bedeutende Küstenstadt in der Provinz Annaba im Nordosten Algeriens. Die Stadt zeichnet sich durch ihre Nähe zum Mittelmeer und ihre Rolle im regionalen Handel aus. Besucher erleben hier die authentische algerische Atmosphäre. Das städtische Leben ist lebhaft, mit zahlreichen Märkten, die lokale Produkte anbieten.\n\nDie Küstenlinie wird vom Strand Sidi Salem (شاطئ سيدي سالم ⴰⴼⵜⵉⵙ ⵏ ⵙⵉⴷⵉ ⵙⴰⵍⵎ) dominiert. Dieser Sandstrand ist ein beliebter Treffpunkt für alle, die das warme Klima genießen möchten. Das klare Wasser macht ihn zu einem idealen Ort für Familien. In den Sommermonaten erwacht die Strandpromenade zum Leben.\n\nDie Gastronomie ist stark vom Meer geprägt. In den Restaurants können Besucher frische Meeresfrüchte und Fischgerichte probieren, die mit regionalen Gewürzen zubereitet werden. Die Anreise ist unkompliziert, da die Stadt hervorragend an das Straßennetz und Annaba angebunden ist.", "hu": "El Bouni egy jelentős tengerparti város Annaba tartományban, Algéria északkeleti részén. A település kiemelkedik a Földközi-tenger közelségével és a regionális kereskedelemben betöltött szerepével. A látogatók itt megtapasztalhatják az autentikus algériai hangulatot. A városi élet nyüzsgő, számos piaccal, amelyek helyi termékeket kínálnak.\n\nEl Bouni partvonalát a Sidi Salem strand (شاطئ سيدي سالم ⴰⴼⵜⵉⵙ ⵏ ⵙⵉⴷⵉ ⵙⴰⵍⵎ) uralja. Ez a homokos partszakasz a helyiek és a látogatók kedvelt találkozóhelye, akik élvezni akarják a meleg éghajlatot. A tiszta víz ideális helyszínné teszi a családok számára. A nyári hónapokban a tengerparti sétány teljesen életre kel.\n\nEl Bouni gasztronómiáját meghatározza a tenger közelsége. A helyi éttermekben a látogatók megkóstolhatják a friss tenger gyümölcseit és a halételeket, amelyeket helyi fűszerekkel készítenek. A megközelítés egyszerű, mivel a város kiválóan kapcsolódik az országos úthálózathoz és a közeli Annaba városához.", "ro": "El Bouni este un oraș de coastă important din provincia Annaba, în nord-estul Algeriei. Orașul se remarcă prin apropierea de Marea Mediterană și prin rolul său în comerțul regional. Vizitatorii pot experimenta aici atmosfera autentică algeriană. Viața urbană este plină de viață, cu numeroase piețe care oferă produse locale.\n\nLitoralul este dominat de plaja Sidi Salem (شاطئ سيدي سالم ⴰⴼⵜⵉⵙ ⵏ ⵙⵉⴷⵉ ⵙⴰⵍⵎ). Această plajă de nisip este un punct de întâlnire popular pentru cei care doresc să se bucure de clima caldă. Apa limpede o face un loc ideal pentru familii. În lunile de vară, promenada prinde viață.\n\nGastronomia este puternic influențată de mare. În restaurante, oaspeții pot gusta fructe de mare proaspete și mâncăruri din pește, preparate cu condimente regionale. Accesul este facil, orașul fiind bine conectat la rețeaua rutieră și la metropola din apropiere, Annaba.", "en": "El Bouni is a significant coastal city in the Annaba Province of northeastern Algeria. The city stands out for its proximity to the Mediterranean Sea and its role in regional trade. Visitors can experience the authentic Algerian atmosphere here. Urban life is bustling, with numerous markets offering local products.\n\nThe coastline is dominated by the Sidi Salem beach (شاطئ سيدي سالم ⴰⴼⵜⵉⵙ ⵏ ⵙⵉⴷⵉ ⵙⴰⵍⵎ). This sandy beach is a popular meeting point for those looking to enjoy the warm climate. The clear waters make it an ideal spot for families. During the summer months, the beachfront truly comes alive.\n\nThe gastronomy is heavily influenced by the sea. In local restaurants, visitors can taste fresh seafood and fish dishes prepared with regional spices. Getting to El Bouni is straightforward, as the city is excellently connected to the national road network and the nearby metropolis of Annaba."}, "facts": {"de": ["Provinz Annaba", "Nordosten Algeriens", "Mittelmeerklima", "Sidi Salem Strand", "Nahe Annaba", "Lebhafte Märkte", "Fischspezialitäten", "Gute Verkehrsanbindung"], "hu": ["Annaba tartomány", "Északkelet-Algéria", "Mediterrán éghajlat", "Sidi Salem strand", "Annaba közelében", "Nyüzsgő piacok", "Halkülönlegességek", "Jó közlekedés"], "ro": ["Provincia Annaba", "Nord-estul Algeriei", "Climă mediteraneană", "Plaja Sidi Salem", "Aproape de Annaba", "Piețe pline de viață", "Specialități din pește", "Legături bune de transport"], "en": ["Annaba Province", "Northeastern Algeria", "Mediterranean climate", "Sidi Salem beach", "Near Annaba", "Bustling markets", "Fish specialties", "Good transport links"]}, "image": "/poi-images/algeria-el-bouni-cities-v2.webp"},
 {"id": "algeria-echatt-cities-v2", "type": "city", "parent": "DZ-36", "coords": [7.87275, 36.83031], "tier": 2, "name": {"de": "Echatt", "hu": "Echatt", "ro": "Echatt", "en": "Echatt"}, "description": {"de": "Echatt ist ein charmanter Küstenort in der Provinz El Tarf, Algerien. Besucher schätzen den ruhigen Plage El Batah für seine natürliche Schönheit am Mittelmeer.", "hu": "Echatt egy bájos tengerparti település El Tarf tartományban, Algériában. A látogatók nagyra értékelik a nyugodt Plage El Batah strand természetes szépségét a Földközi-tenger partján.", "ro": "Echatt este un oraș de coastă fermecător din provincia El Tarf, Algeria. Vizitatorii apreciază liniștita Plage El Batah pentru frumusețea sa naturală de pe litoralul mediteranean.", "en": "Echatt is a charming coastal town in the El Tarf Province of Algeria. Visitors appreciate the tranquil Plage El Batah for its natural beauty on the Mediterranean coast."}, "descriptionAdvanced": {"de": "Echatt ist eine malerische algerische Küstengemeinde in der östlichen Provinz El Tarf. Diese idyllische Region ist bekannt für ihre unberührte Natur und die entspannte Lebensweise, die einen wunderbaren Kontrast zur Hektik der großen Städte bietet. Die Stadt bewahrt ihren traditionellen Charakter und heißt Reisende herzlich willkommen.\n\nDas Highlight von Echatt ist der Plage El Batah. Dieser weite, naturbelassene Sandstrand ist ein wahrer Geheimtipp für Naturliebhaber. Das kristallklare Wasser des Mittelmeers und die sanft abfallende Küste machen ihn perfekt zum Schwimmen und für lange Spaziergänge. Im Gegensatz zu stark frequentierten Touristenorten bietet Plage El Batah Ruhe und Abgeschiedenheit.\n\nKulinarisch bietet Echatt eine Mischung aus nordafrikanischen Aromen und maritimen Einflüssen. Frischer Fischfang wird täglich in den Restaurants zubereitet, oft begleitet von Couscous. Die Anreise erfolgt über die Nationalstraßen, die El Tarf mit Annaba verbinden, wobei die Fahrt malerische Ausblicke auf die Landschaft bietet.", "hu": "Echatt egy festői algériai tengerparti község a keleti El Tarf tartományban. Ez az idilli régió érintetlen természetéről és nyugodt életmódjáról ismert, amely csodálatos kontrasztot nyújt a nagyvárosok nyüzsgésével szemben. A település megőrizte hagyományos jellegét, és szívélyesen várja az utazókat.\n\nEchatt fénypontja a Plage El Batah. Ez a széles, természetes állapotában megőrzött homokos strand igazi titkos tipp a természetkedvelők számára. A Földközi-tenger kristálytiszta vize és a lassan mélyülő part tökéletessé teszi úszáshoz és hosszú sétákhoz. A zsúfolt turistaközpontokkal ellentétben a Plage El Batah nyugalmat kínál.\n\nGasztronómiai szempontból Echatt az észak-afrikai ízek és a tengeri hatások keverékét nyújtja. A friss fogást naponta készítik el a helyi éttermekben, gyakran kuszkusz kíséretében. Az utazás ebbe a csendes oázisba az El Tarfot Annabával összekötő országutakon történik, miközben az út festői kilátást nyújt a tájra.", "ro": "Echatt este o comună de coastă pitorească algeriană, situată în provincia estică El Tarf. Această regiune idilică este cunoscută pentru natura sa curată și stilul de viață relaxat, oferind un contrast minunat cu agitația marilor orașe. Așezarea își păstrează caracterul tradițional și îi întâmpină pe călători cu căldură.\n\nPunctul de atracție din Echatt este Plage El Batah. Această plajă largă de nisip, lăsată în starea sa naturală, este un adevărat sfat secret pentru iubitorii de natură. Apele cristaline ale Mării Mediterane o fac perfectă pentru înot și plimbări lungi. Spre deosebire de centrele turistice aglomerate, Plage El Batah oferă liniște și izolare.\n\nDin punct de vedere culinar, Echatt oferă un amestec de arome nord-africane și influențe maritime. Peștele proaspăt este preparat zilnic în restaurante, adesea însoțit de cușcuș. Călătoria se face de-a lungul drumurilor naționale care leagă El Tarf de Annaba, drumul oferind vederi pitorești la peisajul algerian.", "en": "Echatt is a picturesque Algerian coastal commune located in the eastern province of El Tarf. This idyllic region is known for its unspoiled nature and relaxed way of life, providing a wonderful contrast to the hustle and bustle of major cities. The settlement retains its traditional character and welcomes travelers warmly.\n\nThe highlight of Echatt is Plage El Batah. This wide, natural sandy beach is a true hidden gem for nature lovers. The crystal-clear waters of the Mediterranean Sea and the gently sloping shore make it perfect for swimming and long walks on the fine sand. Unlike crowded tourist centers, Plage El Batah offers peace and seclusion.\n\nCulinary-wise, Echatt offers a wonderful blend of North African flavors and maritime influences. Fresh catches are prepared daily in local restaurants, often accompanied by couscous. Traveling to this quiet oasis is done via the national roads connecting El Tarf with Annaba, offering picturesque views of the landscape."}, "facts": {"de": ["Provinz El Tarf", "Plage El Batah", "Mittelmeerküste", "Ruhige Atmosphäre", "Traditioneller Charakter", "Sandstrände", "Lokale Meeresfrüchte", "Östliches Algerien"], "hu": ["El Tarf tartomány", "Plage El Batah", "Földközi-tenger partja", "Nyugodt légkör", "Hagyományos jelleg", "Homokos strandok", "Helyi tenger gyümölcsei", "Kelet-Algéria"], "ro": ["Provincia El Tarf", "Plage El Batah", "Coasta mediteraneană", "Atmosferă liniștită", "Caracter tradițional", "Plaje cu nisip", "Fructe de mare locale", "Estul Algeriei"], "en": ["El Tarf Province", "Plage El Batah", "Mediterranean coast", "Tranquil atmosphere", "Traditional character", "Sandy beaches", "Local seafood", "Eastern Algeria"]}, "image": "/poi-images/algeria-echatt-cities-v2.webp"},
 {"id": "algeria-melbou-cities-v2", "sights": {
@@ -20534,50 +15113,10 @@ export const afNewV1: POI[] = [
       ]
 }, "type": "city", "parent": "DZ-42", "coords": [2.00226, 36.56266], "tier": 2, "name": {"de": "Messelmoun", "hu": "Messelmoun", "ro": "Messelmoun", "en": "Messelmoun"}, "description": {"de": "Messelmoun ist eine ruhige algerische Küstenstadt, in der der Fluss Oued Messelmoun ins Mittelmeer mündet.", "hu": "Messelmoun egy nyugodt algériai tengerparti város, ahol az Oued Messelmoun folyó a Földközi-tengerbe torkollik.", "ro": "Messelmoun este un oraș liniștit pe litoralul algerian, unde râul Oued Messelmoun se varsă în Marea Mediterană.", "en": "Messelmoun is a tranquil Algerian seaside town where the Oued Messelmoun river meets the Mediterranean Sea."}, "descriptionAdvanced": {"de": "Messelmoun ist ein charmantes Küstenziel in der algerischen Provinz Tipaza. Es liegt einzigartig genau an dem Punkt, wo der Fluss Oued Messelmoun in die Gewässer des Mittelmeers mündet. Dieses geografische Merkmal verleiht der Stadt einen besonderen ökologischen und landschaftlichen Reiz und macht sie zu einem wunderbaren Zwischenstopp für Naturliebhaber, die eine ruhigere, authentische nordafrikanische Küstenatmosphäre suchen.\n\nDer Küstenstreifen ist weithin bekannt für seine unberührten und wenig überlaufenen Ufer, insbesondere für den Plage Gounini. Dieser wunderschöne Strand bietet einen perfekten Rahmen zum Sonnenbaden, für gemütliches Schwimmen und Familienpicknicks, fernab der großen Touristenmassen, die man anderswo findet. Der goldene Sand und der Rhythmus der Wellen schaffen eine zutiefst entspannende Umgebung.\n\nNeben seiner natürlichen Schönheit verfügt Messelmoun über eine bescheidene, aber einladende Gemeinde, in der frische Meeresfrüchte und traditionelle algerische Gastronomie im Mittelpunkt stehen. Die Anreise in die Stadt ist unkompliziert über die malerische Küstenstraße, die spektakuläre Ausblicke auf das Meer bietet.", "hu": "Messelmoun egy bájos tengerparti úti cél, amely Algéria Tipaza tartományában található. Különleges elhelyezkedését annak köszönheti, hogy pontosan ott fekszik, ahol az Oued Messelmoun folyó a Földközi-tenger vizébe torkollik. Ez a földrajzi adottság egyedi ökológiai és festői vonzerőt kölcsönöz a városnak, így csodálatos megállóhely a természet szerelmeseinek, akik nyugodtabb tengerparti hangulatra vágynak.\n\nA partszakasz széles körben ünnepelt érintetlen és gyéren látogatott strandjairól, amelyek közül a legkiemelkedőbb a Plage Gounini. Ez a gyönyörű strand tökéletes helyszínt kínál a napozáshoz, a kényelmes úszáshoz és a családi piknikekhez, távol a máshol megszokott hatalmas turistatömegektől. Az aranyhomok és a hullámok nyugtató ritmusa mélyen pihentető környezetet teremt.\n\nTermészeti szépsége mellett Messelmoun szerény, de barátságos közösséggel büszkélkedhet, ahol a friss, helyben fogott tenger gyümölcsei és a hagyományos algériai gasztronómia áll a középpontban. A város megközelítése egyszerű a Tipazán átvezető festői parti autópályán keresztül, amely lenyűgöző óceáni kilátást kínál az egész utazás során.", "ro": "Messelmoun este o destinație de coastă fermecătoare situată în provincia Tipaza din Algeria. Este poziționată în mod unic exact în punctul în care râul Oued Messelmoun întâlnește apele Mării Mediterane. Această caracteristică geografică conferă orașului un farmec ecologic și pitoresc distinct, făcându-l o oprire minunată pentru iubitorii de natură și exploratorii de coastă care caută o ambianță marină mai liniștită.\n\nPorțiunea de coastă este celebrată pe scară largă pentru țărmurile sale curate și neaglomerate, în special Plage Gounini. Această plajă frumoasă oferă un cadru perfect pentru plajă, înot îndelete și picnicuri în familie, complet departe de mulțimile masive de turiști găsite în altă parte. Nisipurile aurii și ritmul calmant al valurilor creează un mediu profund relaxant care definește atracția principală a orașului.\n\nPe lângă frumusețea sa naturală, Messelmoun se mândrește cu o comunitate modestă, dar primitoare, unde fructele de mare proaspete, prinse local, și gastronomia tradițională algeriană sunt în centrul atenției. Accesul în oraș este simplu prin autostrada pitorească de coastă.", "en": "Messelmoun is a charming coastal destination situated in the Tipaza Province of Algeria. It is uniquely positioned at the exact point where the Oued Messelmoun river gracefully meets the waters of the Mediterranean Sea. This geographical feature gives the town a distinctive ecological and scenic appeal, making it a wonderful stop for nature lovers and coastal explorers seeking a quieter, more authentic North African seaside ambiance.\n\nThe coastal stretch is widely celebrated for its pristine and uncrowded shores, most notably the Plage Gounini. This beautiful beach offers a perfect setting for sunbathing, leisurely swims, and family picnics, entirely away from the massive tourist crowds found elsewhere. The golden sands and the calming rhythm of the waves create a deeply relaxing environment that defines the town's primary appeal.\n\nIn addition to its natural beauty, Messelmoun boasts a modest but welcoming community where fresh, locally caught seafood and traditional Algerian gastronomy take center stage. Access to the town is straightforward via the scenic coastal highway running through Tipaza, offering spectacular ocean views along the entire journey."}, "facts": {"de": ["In der Provinz Tipaza gelegen", "Fluss mündet ins Meer", "Bekannt für den Plage Gounini", "Ruhige und friedliche Strände", "Hervorragende frische Meeresfrüchte", "Malerische Küstenstraßenanbindung", "Reiche lokale Landwirtschaft", "Ideal für Naturliebhaber"], "hu": ["Tipaza tartományban fekszik", "A folyó a tengerbe torkollik", "A Plage Gounini strandról ismert", "Csendes és békés strandok", "Kiváló friss tenger gyümölcsei", "Festői parti autópálya-kapcsolat", "Gazdag helyi mezőgazdaság", "Ideális természetkedvelőknek"], "ro": ["Situat în provincia Tipaza", "Râul se varsă în mare", "Cunoscut pentru Plage Gounini", "Plaje liniștite și pașnice", "Fructe de mare proaspete excelente", "Acces scenic pe autostrada de coastă", "Agricultură locală bogată", "Ideal pentru iubitorii de natură"], "en": ["Located in Tipaza Province", "River meets the sea here", "Known for Plage Gounini", "Quiet and peaceful beaches", "Excellent fresh seafood", "Scenic coastal highway access", "Rich local agriculture", "Ideal for nature lovers"]}, "image": "/poi-images/algeria-messelmoun-cities-v2.webp"},
 {"id": "algeria-sidi-ghiles-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Madame La Romaine",
-                  "text": "Madame La Romaine ist ein Strand in Sidi Ghiles.",
-                  "category": "recreational",
-                  "coords": [
-                        2.099198,
-                        36.581381
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Madame La Romaine",
-                  "text": "A Madame La Romaine egy tengerpart Sidi Ghiles városában.",
-                  "category": "recreational",
-                  "coords": [
-                        2.099198,
-                        36.581381
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Madame La Romaine",
-                  "text": "Madame La Romaine este o plajă situată în Sidi Ghiles.",
-                  "category": "recreational",
-                  "coords": [
-                        2.099198,
-                        36.581381
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Madame La Romaine",
-                  "text": "Madame La Romaine is a beach located in Sidi Ghiles.",
-                  "category": "recreational",
-                  "coords": [
-                        2.099198,
-                        36.581381
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "DZ-42", "coords": [2.12251, 36.58333], "tier": 2, "name": {"de": "Sidi Ghiles", "hu": "Sidi Ghiles", "ro": "Sidi Ghiles", "en": "Sidi Ghiles"}, "description": {"de": "Sidi Ghiles, historisch als Novi bekannt, ist eine einladende algerische Küstenstadt mit einem aktiven Fischerhafen.", "hu": "Sidi Ghiles, történelmi nevén Novi, egy hívogató algériai tengerparti város, amely aktív halászkikötővel rendelkezik.", "ro": "Sidi Ghiles, cunoscut istoric sub numele de Novi, este un oraș de coastă algerian primitor, având un port de pescuit activ.", "en": "Sidi Ghiles, historically known as Novi, is an inviting Algerian coastal town featuring an active fishing port."}, "descriptionAdvanced": {"de": "Sidi Ghiles ist eine attraktive Küstensiedlung in der algerischen Provinz Tipaza, die an die tiefblauen Gewässer des Mittelmeers grenzt. Die Stadt, die während der französischen Kolonialzeit historisch als Novi gegründet wurde, hat sich anmutig entwickelt und dabei ihre tiefe Verbindung zu den maritimen Traditionen bewahrt. Der geschäftige lokale Fischerhafen ist nach wie vor das schlagende Herz der Gemeinde, versorgt die lebhaften Märkte mit dem frischesten Tagesfang und prägt den maritimen Charakter.\n\nDie Küstenlinie ist ein großer Anziehungspunkt für Besucher, vor allem durch den bekannten Strand Madame La Romaine. Dieser malerische Küstenabschnitt verbindet weichen Sand mit klarem, einladendem Wasser und ist daher eine beliebte Wahl für Einheimische und Touristen. Er ist ein hervorragender Ort zum Schwimmen, für Strandspaziergänge und um die herrlichen Sonnenuntergänge über dem Mittelmeer zu genießen.\n\nDie Gastronomie in Sidi Ghiles ist stark von den Schätzen des Meeres geprägt und bietet spektakuläre Fischgerichte, verfeinert mit algerischen Gewürzen. Die Stadt ist über die Hauptküstenstraßen von Tipaza aus leicht erreichbar und bietet eine reizvolle Mischung aus Geschichte, Kultur und Strandentspannung.", "hu": "Sidi Ghiles egy vonzó tengerparti település Algéria Tipaza tartományában, amelyet a Földközi-tenger gazdag kék vizei szegélyeznek. A francia gyarmati korszakban történelmileg Novi néven alapított város kecsesen fejlődött, miközben megőrizte mély kapcsolatát a tengeri hagyományokkal. A nyüzsgő helyi halászkikötő továbbra is a közösség dobogó szíve, amely a város élénk piacait a legfrissebb napi fogással látja el, és meghatározza autentikus tengerparti jellegét.\n\nA partvidék a látogatók fő vonzereje, melynek legkiemelkedőbb része a Madame La Romaine néven ismert híres strand. Ez a festői tengerparti hely finom homokot és tiszta, hívogató vizet kínál, így a helyiek és az igényes turisták körében egyaránt népszerű választás. Kiváló helyszín úszáshoz, tengerparti sétákhoz és a csodálatos észak-afrikai naplementék megtekintéséhez a horizont felett.\n\nSidi Ghiles gasztronómiáját erősen befolyásolja a tengeri bőség, látványos, aromás algériai fűszerekkel ízesített tenger gyümölcsei ételeket kínálva. A város, amely a főbb parti utakon könnyen elérhető Tipaza és Algír felől, a történelem, a helyi kultúra és az érintetlen tengerparti pihenés elragadó keverékét nyújtja.", "ro": "Sidi Ghiles este o așezare de coastă atractivă din provincia Tipaza din Algeria, mărginită de apele albastre și bogate ale Mării Mediterane. Înființat istoric ca Novi în timpul epocii coloniale franceze, orașul a evoluat grațios, menținându-și în același timp legătura profundă cu tradițiile maritime. Portul de pescuit local plin de viață rămâne inima bătătoare a comunității, aprovizionând piețele vibrante ale orașului cu cea mai proaspătă captură zilnică și definindu-i caracterul autentic.\n\nȚărmul este o atracție majoră pentru vizitatori, cel mai vizibil fiind renumita plajă cunoscută sub numele de Madame La Romaine. Acest loc de coastă pitoresc combină nisipurile moi cu ape clare și primitoare, făcându-l o alegere populară atât pentru localnici, cât și pentru turiștii exigenți. Este o locație excelentă pentru înot, plimbări pe coastă și pentru a vă bucura de magnificele apusuri de soare nord-africane.\n\nGastronomia din Sidi Ghiles este puternic influențată de recompensele sale maritime, oferind mâncăruri spectaculoase din fructe de mare, infuzate cu condimente algeriene aromate. Ușor accesibil prin drumurile principale de coastă, orașul oferă un amestec încântător de istorie, cultură și relaxare.", "en": "Sidi Ghiles is an engaging coastal settlement in the Tipaza Province of Algeria, bordered by the rich blue waters of the Mediterranean Sea. Historically established as Novi during the French colonial era, the town has gracefully evolved while maintaining its deep connection to maritime traditions. The bustling local fishing port remains the beating heart of the community, supplying the town's vibrant markets with the freshest daily catch and defining its authentic seaside character.\n\nThe shoreline is a major draw for visitors, most notably featuring the renowned beach known as Madame La Romaine. This picturesque coastal spot combines soft sands with clear, inviting waters, making it a popular choice for both locals and discerning tourists. It is an excellent location for swimming, coastal walks, and enjoying the magnificent North African sunsets over the Mediterranean horizon.\n\nGastronomy in Sidi Ghiles is heavily influenced by its maritime bounty, offering spectacular seafood dishes infused with aromatic Algerian spices. Easily reachable via the main coastal roads from Tipaza and Algiers, the town provides a delightful mix of history, local culture, and pristine beach relaxation."}, "facts": {"de": ["In der Provinz Tipaza gelegen", "Historisch Novi genannt", "Aktiver lokaler Fischerhafen", "Bietet den Strand Madame La Romaine", "Mittelmeerklima", "Berühmt für frische Meeresfrüchte", "Wunderschöne Sonnenuntergänge", "Einfache Anbindung von Algier"], "hu": ["Tipaza tartományban található", "Történelmi neve Novi", "Aktív helyi halászkikötő", "Itt található a Madame La Romaine strand", "Mediterrán éghajlat", "Híres a friss tenger gyümölcseiről", "Gyönyörű naplemente kilátás", "Könnyen elérhető Algírból"], "ro": ["Situat în provincia Tipaza", "Numit istoric Novi", "Port de pescuit local activ", "Găzduiește plaja Madame La Romaine", "Climă mediteraneană", "Faimos pentru fructe de mare", "Apusuri de soare frumoase", "Acces rutier ușor din Alger"], "en": ["Located in Tipaza Province", "Historically called Novi", "Active local fishing port", "Features Madame La Romaine beach", "Mediterranean climate", "Famous for fresh seafood", "Beautiful sunset views", "Easy road access from Algiers"]}, "image": "/poi-images/algeria-sidi-ghiles-cities-v2.webp"},
 {"id": "algeria-honaine-cities-v2", "sights": {
       "de": [
@@ -20709,50 +15248,10 @@ export const afNewV1: POI[] = [
 }, "type": "city", "parent": "MA-07", "coords": [-6.73303, 34.12395], "tier": 2, "name": {"de": "Sidi Bouknadel", "hu": "Sidi Bouknadel", "ro": "Sidi Bouknadel", "en": "Sidi Bouknadel"}, "description": {"de": "Sidi Bouknadel ist ein aufstrebender Küstenort nördlich von Rabat, bekannt für seine herrlichen Strände und exotischen Gärten.", "hu": "Sidi Bouknadel egy feltörekvő tengerparti város Rabattól északra, amely csodálatos strandjairól és egzotikus kertjeiről ismert.", "ro": "Sidi Bouknadel este un oraș de coastă în plină dezvoltare la nord de Rabat, cunoscut pentru plajele sale uimitoare și grădinile exotice.", "en": "Sidi Bouknadel is an up-and-coming coastal town north of Rabat, known for its stunning beaches and exotic gardens."}, "descriptionAdvanced": {"de": "Sidi Bouknadel, oft einfach nur Bouknadel genannt, ist eine charmante Küstenstadt, die sich etwas nördlich der marokkanischen Hauptstadt Rabat befindet. Der Ort hat sich in den letzten Jahren zu einem beliebten Rückzugsort für Einheimische und Touristen entwickelt, die dem Trubel der Großstadt entfliehen möchten. Die Hauptattraktion abseits der Küste sind die berühmten Jardins Exotiques de Bouknadel, ein weitläufiger botanischer Garten mit Pflanzenarten aus der ganzen Welt.\n\nDie Küste von Sidi Bouknadel besticht durch ihre weiten Sandstrände, die vom wilden Atlantik umspült werden. Ein absolutes Highlight ist die Plage Moulay Abdellah (شاطئ مولاي عبد الله), ein wunderschöner Strandabschnitt, der sich perfekt zum Sonnenbaden, für ausgedehnte Spaziergänge und für verschiedene Wassersportarten eignet. Die Wellen hier sind oft ideal für Surfer.\n\nDas gastronomische Angebot in Sidi Bouknadel wächst stetig, wobei frische Meeresfrüchte und traditionelle Tajines dominieren. Die Anreise ist unkompliziert, da der Ort gut an das nationale Straßennetz und die Bahnlinie angebunden ist. Bouknadel ist der perfekte Ort für Naturliebhaber und Strandurlauber.", "hu": "Sidi Bouknadel, amelyet gyakran csak Bouknadelként emlegetnek, egy hangulatos tengerparti város Marokkó fővárosától, Rabattól egy kicsit északra. A település az elmúlt években népszerű menedékhellyé vált a helyiek és a turisták számára, akik menekülni vágynak a nagyváros zajától. A tengerparttól eltekintve a fő látványosság a híres Jardins Exotiques de Bouknadel, egy kiterjedt botanikus kert, amely a világ minden tájáról származó növényfajokat vonultat fel.\n\nSidi Bouknadel partvidéke lenyűgöző, széles homokos strandjaival, amelyeket a vad Atlanti-óceán mos. Kiemelkedő élményt nyújt a Plage Moulay Abdellah (شاطئ مولاي عبد الله), egy gyönyörű partszakasz, amely tökéletes napozáshoz, hosszú sétákhoz és különböző vízi sportokhoz. A hullámok itt gyakran ideálisak a szörfösök számára.\n\nSidi Bouknadel gasztronómiai kínálata folyamatosan bővül, a friss tenger gyümölcsei és a hagyományos tajinok dominálnak. Megközelítése egyszerű, mivel a település jól csatlakozik az országos úthálózathoz és a vasútvonalhoz. Bouknadel tökéletes hely a természetkedvelők és a strandolni vágyók számára.", "ro": "Sidi Bouknadel, numit adesea pur și simplu Bouknadel, este un oraș de coastă fermecător situat la nord de capitala marocană Rabat. Orașul a devenit în ultimii ani o retragere populară pentru localnici și turiști care doresc să scape de agitația orașului mare. Atracția principală, departe de coastă, sunt faimoasele Jardins Exotiques de Bouknadel, o grădină botanică întinsă, cu specii de plante din întreaga lume.\n\nCoasta din Sidi Bouknadel captivează cu plajele sale largi de nisip, scăldate de Oceanul Atlantic sălbatic. Un punct de atracție absolut este Plage Moulay Abdellah (شاطئ مولاي عبد الله), o porțiune de plajă frumoasă, perfectă pentru plajă, plimbări lungi și diverse sporturi acvatice. Valurile de aici sunt adesea ideale pentru surferi.\n\nOferta gastronomică din Sidi Bouknadel este în continuă creștere, dominată de fructe de mare proaspete și tajine tradiționale. Accesul este simplu, deoarece orașul este bine conectat la rețeaua națională de drumuri și la calea ferată. Bouknadel este locul perfect pentru iubitorii de natură și pasionații de plajă.", "en": "Sidi Bouknadel, often simply referred to as Bouknadel, is a charming coastal town located just north of the Moroccan capital, Rabat. The town has become a popular retreat in recent years for locals and tourists looking to escape the hustle and bustle of the big city. The main attraction away from the coast is the famous Jardins Exotiques de Bouknadel, an expansive botanical garden featuring plant species from around the world.\n\nThe coastline of Sidi Bouknadel captivates with its wide sandy beaches washed by the wild Atlantic Ocean. An absolute highlight is Plage Moulay Abdellah (شاطئ مولاي عبد الله), a beautiful stretch of beach that is perfect for sunbathing, long walks, and various water sports. The waves here are often ideal for surfers.\n\nThe gastronomic offerings in Sidi Bouknadel are steadily growing, with fresh seafood and traditional tagines dominating. Getting there is easy, as the town is well connected to the national road network and the railway line. Bouknadel is the perfect place for nature lovers and beachgoers."}, "facts": {"de": ["Liegt nördlich der Hauptstadt Rabat", "Heimat der exotischen Gärten (Jardins Exotiques)", "Beliebtes Ziel für Wochenendausflüge", "Bietet die weitläufige Plage Moulay Abdellah", "Gute Surfbedingungen am Atlantik", "Wachsende gastronomische Szene", "Gute Verkehrsanbindung per Zug und Auto", "Entspannte Alternative zur Großstadt"], "hu": ["A fővárostól, Rabattól északra található", "Az egzotikus kertek (Jardins Exotiques) otthona", "Népszerű hétvégi kirándulóhely", "Itt található a kiterjedt Plage Moulay Abdellah", "Jó szörfözési feltételek az Atlanti-óceánon", "Növekvő gasztronómiai színtér", "Jó közlekedési kapcsolatok vonattal és autóval", "Nyugodt alternatíva a nagyvároshoz képest"], "ro": ["Situat la nord de capitala Rabat", "Găzduiește grădinile exotice (Jardins Exotiques)", "Destinație populară pentru escapade de weekend", "Oferă plaja întinsă Plage Moulay Abdellah", "Condiții bune de surfing pe Atlantic", "Scenă gastronomică în creștere", "Conexiuni bune de transport cu trenul și mașina", "Alternativă relaxantă la orașul mare"], "en": ["Located north of the capital Rabat", "Home to the Exotic Gardens (Jardins Exotiques)", "Popular destination for weekend getaways", "Features the expansive Plage Moulay Abdellah", "Good surfing conditions on the Atlantic", "Growing gastronomic scene", "Good transport links by train and car", "Relaxing alternative to the big city"]}, "image": "/poi-images/morocco-sidi-bouknadel-cities-v2.webp"},
 {"id": "morocco-errahma-cities-v2", "type": "city", "parent": "MA-08", "coords": [-7.73228, 33.53433], "tier": 2, "name": {"de": "Errahma", "hu": "Errahma", "ro": "Errahma", "en": "Errahma"}, "description": {"de": "Errahma ist ein Küstenort nahe Casablanca, der für seine schönen Strände und als entspanntes Ausflugsziel bekannt ist.", "hu": "Errahma egy tengerparti település Casablanca közelében, amely gyönyörű strandjairól és pihentető kirándulóhelyként ismert.", "ro": "Errahma este o localitate de coastă lângă Casablanca, cunoscută pentru plajele sale frumoase și ca destinație relaxantă.", "en": "Errahma is a coastal town near Casablanca, known for its beautiful beaches and as a relaxing getaway destination."}, "descriptionAdvanced": {"de": "Errahma liegt in unmittelbarer Nähe zur Metropole Casablanca und profitiert von der direkten Lage am Atlantischen Ozean. Ursprünglich ein kleiner Vorort, hat sich Errahma zu einem beliebten Ziel für Stadtbewohner entwickelt, die an den Wochenenden Erholung am Meer suchen. Die Atmosphäre ist hier deutlich ruhiger als im geschäftigen Zentrum von Casablanca, was den Ort ideal für Familienausflüge macht.\n\nDas Highlight von Errahma ist zweifellos die Küste. Die Plage Madame Choual (ⴰⴼⵜⴰⵙ ⵏ ⵎⴰⴷⴰⵎ ⵛⵡⵡⴰⵍ / شاطئ السيدة شوال) ist ein weitläufiger und beliebter Strand in dieser Gegend. Er bietet feinen Sand und herrliche Ausblicke auf das weite Meer. Besucher können hier schwimmen, am Strand entspannen oder sportlichen Aktivitäten nachgehen. Die atlantische Brise sorgt auch an heißen Sommertagen für eine angenehme Abkühlung.\n\nEntlang der Küste von Errahma und in der näheren Umgebung finden sich verschiedene Restaurants und Cafés, die sich auf fangfrischen Fisch und marokkanische Spezialitäten spezialisiert haben. Die Nähe zu Casablanca sorgt für eine hervorragende Anbindung mit dem Auto oder Taxi, sodass man die Vorzüge beider Orte wunderbar kombinieren kann.", "hu": "Errahma közvetlenül a metropolisz, Casablanca közelében fekszik, és élvezi az Atlanti-óceán partjának előnyeit. Eredetileg kis külváros volt, de mára kedvelt célponttá vált a városlakók számára, akik hétvégén a tengerparton keresnek kikapcsolódást. A légkör itt sokkal nyugodtabb, mint Casablanca nyüzsgő központjában, ami ideálissá teszi a helyet családi kirándulásokhoz.\n\nErrahma fénypontja kétségtelenül a partvidék. A Plage Madame Choual (ⴰⴼⵜⴰⵙ ⵏ ⵎⴰⴷⴰⵎ ⵛⵡⵡⴰⵍ / شاطئ السيدة شوال) egy kiterjedt és népszerű strand ezen a területen. Finom homokot és csodálatos kilátást kínál a nyílt tengerre. A látogatók úszhatnak, pihenhetnek a parton, vagy sporttevékenységeket folytathatnak. Az atlanti szellő még a forró nyári napokon is kellemes felfrissülést biztosít.\n\nErrahma partjai mentén és a tágabb környéken számos étterem és kávézó található, amelyek a frissen fogott halakra és a marokkói specialitásokra specializálódtak. Casablanca közelsége kiváló megközelíthetőséget biztosít autóval vagy taxival, így a két hely előnyei csodálatosan kombinálhatók.", "ro": "Errahma este situat în imediata vecinătate a metropolei Casablanca și beneficiază de locația sa directă pe Oceanul Atlantic. Inițial o mică suburbie, Errahma a devenit o destinație populară pentru locuitorii orașului care caută relaxare pe malul mării în weekend. Atmosfera aici este considerabil mai liniștită decât în centrul aglomerat al orașului Casablanca, făcând locul ideal pentru ieșirile în familie.\n\nPunctul culminant al localității Errahma este, fără îndoială, litoralul. Plage Madame Choual (ⴰⴼⵜⴰⵙ ⵏ ⵎⴰⴷⴰⵎ ⵛⵡⵡⴰⵍ / شاطئ السيدة شوال) este o plajă întinsă și populară în această zonă. Oferă nisip fin și vederi magnifice asupra mării deschise. Vizitatorii pot înota, se pot relaxa pe plajă sau se pot bucura de activități sportive. Briza atlantică oferă o răcorire plăcută chiar și în zilele toride de vară.\n\nDe-a lungul coastei din Errahma și în zonele înconjurătoare există diverse restaurante și cafenele specializate în pește proaspăt prins și specialități marocane. Proximitatea de Casablanca asigură legături excelente cu mașina sau taxiul, astfel încât să puteți combina perfect avantajele ambelor locuri.", "en": "Errahma is located in close proximity to the metropolis of Casablanca and benefits from its direct location on the Atlantic Ocean. Originally a small suburb, Errahma has developed into a popular destination for city dwellers seeking relaxation by the sea on weekends. The atmosphere here is significantly quieter than in the bustling center of Casablanca, making the area ideal for family outings.\n\nThe highlight of Errahma is undoubtedly the coastline. Plage Madame Choual (ⴰⴼⵜⴰⵙ ⵏ ⵎⴰⴷⴰⵎ ⵛⵡⵡⴰⵍ / شاطئ السيدة شوال) is an expansive and popular beach in this area. It offers fine sand and magnificent views of the open sea. Visitors can swim, relax on the beach, or engage in sports activities. The Atlantic breeze provides pleasant cooling even on hot summer days.\n\nAlong the coast of Errahma and in the surrounding area, there are various restaurants and cafes specializing in freshly caught fish and Moroccan specialties. The proximity to Casablanca ensures excellent connectivity by car or taxi, allowing visitors to perfectly combine the advantages of both locations."}, "facts": {"de": ["Vorort der Metropole Casablanca", "Beliebtes Ausflugsziel am Wochenende", "Ruhigere Alternative zur Großstadt", "Direkte Lage am Atlantischen Ozean", "Heimat der Plage Madame Choual", "Bietet familienfreundliche Strände", "Gute Auswahl an Fischrestaurants", "Leicht erreichbar von Casablanca aus"], "hu": ["A metropolisz, Casablanca külvárosa", "Népszerű hétvégi kirándulóhely", "Nyugodtabb alternatíva a nagyvároshoz képest", "Közvetlenül az Atlanti-óceán partján fekszik", "A Plage Madame Choual otthona", "Családbarát strandokat kínál", "Jó választék haléttermekből", "Casablancából könnyen megközelíthető"], "ro": ["Suburbie a metropolei Casablanca", "Destinație populară pentru weekend", "Alternativă mai liniștită la orașul mare", "Locație directă pe Oceanul Atlantic", "Găzduiește Plage Madame Choual", "Oferă plaje potrivite pentru familii", "Selecție bună de restaurante cu pește", "Ușor accesibil din Casablanca"], "en": ["Suburb of the metropolis Casablanca", "Popular weekend getaway destination", "Quieter alternative to the big city", "Direct location on the Atlantic Ocean", "Home to Plage Madame Choual", "Offers family-friendly beaches", "Good selection of seafood restaurants", "Easily accessible from Casablanca"]}, "image": "/poi-images/morocco-errahma-cities-v2.webp"},
 {"id": "morocco-el-marsa-cities-v2", "sights": {
-      "de": [
-            {
-                  "name": "Plage de Laâyoune",
-                  "text": "Plage de Laâyoune ist ein Strandabschnitt in El Marsa.",
-                  "category": "recreational",
-                  "coords": [
-                        -13.419591,
-                        27.093108
-                  ]
-            }
-      ],
-      "hu": [
-            {
-                  "name": "Plage de Laâyoune",
-                  "text": "A Plage de Laâyoune egy tengerparti terület El Marsa városában.",
-                  "category": "recreational",
-                  "coords": [
-                        -13.419591,
-                        27.093108
-                  ]
-            }
-      ],
-      "ro": [
-            {
-                  "name": "Plage de Laâyoune",
-                  "text": "Plage de Laâyoune este o zonă de plajă în El Marsa.",
-                  "category": "recreational",
-                  "coords": [
-                        -13.419591,
-                        27.093108
-                  ]
-            }
-      ],
-      "en": [
-            {
-                  "name": "Plage de Laâyoune",
-                  "text": "Plage de Laâyoune is a beach area in El Marsa.",
-                  "category": "recreational",
-                  "coords": [
-                        -13.419591,
-                        27.093108
-                  ]
-            }
-      ]
+      "de": [],
+      "hu": [],
+      "ro": [],
+      "en": []
 }, "type": "city", "parent": "MA-15", "coords": [-13.40924, 27.09299], "tier": 2, "name": {"de": "El Marsa", "hu": "El Marsa", "ro": "El Marsa", "en": "El Marsa"}, "description": {"de": "El Marsa ist eine bedeutende Hafenstadt in der Westsahara bei Laâyoune, bekannt für weite Sandstrände und Fischerei.", "hu": "El Marsa egy jelentős kikötőváros Nyugat-Szaharában, Laâyoune közelében, amely széles homokos strandjairól és halászatáról ismert.", "ro": "El Marsa este un important oraș-port din Sahara Occidentală, lângă Laâyoune, cunoscut pentru plajele largi de nisip și pescuit.", "en": "El Marsa is a major port city in Western Sahara near Laâyoune, known for wide sandy beaches and fishing."}, "descriptionAdvanced": {"de": "El Marsa, was auf Arabisch \"der Hafen\" bedeutet, ist die Hafenstadt, die der größeren Stadt Laâyoune (El Aaiún) in der Region der Westsahara dient. Sie liegt strategisch günstig am Atlantischen Ozean und ist das wirtschaftliche Zentrum der Region, stark geprägt von der Fischereiindustrie und dem Phosphatexport. Trotz ihres industriellen Charakters bietet die Küstenstadt einzigartige Wüsten- und Meereslandschaften, wo der feine Wüstensand direkt auf die Wellen des Atlantiks trifft.\n\nDas Highlight für Küstenliebhaber ist die Plage de Laâyoune (Laâyoune Plage), die sich unweit der Stadt erstreckt. Dieser Strand beeindruckt durch seine enorme Weite, Naturbelassenheit und die oft unberührte Atmosphäre. Die endlosen Sandflächen laden zu langen, einsamen Strandspaziergängen ein und bieten ein einzigartiges Panorama der rauen Atlantikküste, gepaart mit dem warmen Wind der angrenzenden Sahara.\n\nKulinarisch dreht sich in El Marsa alles um das Meer; die Restaurants servieren erstklassigen, fangfrischen Fisch. Die Anbindung erfolgt meist über die nahe gelegene Stadt Laâyoune, die über einen Flughafen und gute Straßenverbindungen verfügt. El Marsa bietet ein raues, authentisches Erlebnis für abenteuerlustige Reisende, die die Weite Südmarokkos erkunden möchten.", "hu": "El Marsa, ami arabul \"kikötőt\" jelent, az a kikötőváros, amely a Nyugat-Szahara régióban található nagyobb Laâyoune (El Aaiún) várost szolgálja ki. Stratégiailag az Atlanti-óceán partján fekszik, és a régió gazdasági központja, amelyet erősen jellemez a halászat és a foszfátexport. Ipari jellege ellenére a tengerparti város egyedülálló sivatagi és tengeri tájakat kínál, ahol a finom sivatagi homok közvetlenül találkozik az Atlanti-óceán hullámaival.\n\nA partok szerelmeseinek a fénypont a Plage de Laâyoune (Laâyoune Plage), amely nem messze a várostól húzódik. Ez a strand hatalmas kiterjedésével, természetességével és gyakran érintetlen atmoszférájával nyűgözi le a látogatókat. A végtelen homokos területek hosszú, magányos tengerparti sétákra csábítanak, és egyedülálló panorámát nyújtanak a zord atlanti partvidékre, párosulva a szomszédos Szahara meleg szelével.\n\nKulináris szempontból El Marsában minden a tenger körül forog; az éttermek első osztályú, frissen fogott halakat szolgálnak fel. A megközelítés általában a közeli Laâyoune városán keresztül történik, amely repülőtérrel és jó közúti kapcsolatokkal rendelkezik. El Marsa zord, de autentikus élményt kínál a kalandvágyó utazóknak, akik Dél-Marokkó hatalmas térségeit szeretnék felfedezni.", "ro": "El Marsa, care înseamnă „portul” în arabă, este orașul-port care servește orașul mai mare Laâyoune (El Aaiún) din regiunea Sahara Occidentală. Este situat strategic pe Oceanul Atlantic și este centrul economic al regiunii, puternic influențat de industria pescuitului și de exportul de fosfați. În ciuda caracterului său industrial, orașul de coastă oferă peisaje deșertice și marine unice, unde nisipul fin al deșertului întâlnește direct valurile Atlanticului.\n\nPunctul culminant pentru iubitorii de coastă este Plage de Laâyoune (Laâyoune Plage), care se întinde nu departe de oraș. Această plajă impresionează prin vastitatea sa enormă, naturalețea și atmosfera adesea curată. Întinderile nesfârșite de nisip te invită la plimbări lungi și solitare pe plajă și oferă o panoramă unică a coastei aspre a Atlanticului, cuplată cu vântul cald din Sahara învecinată.\n\nDin punct de vedere culinar, totul în El Marsa se învârte în jurul mării; restaurantele servesc pește de primă clasă, proaspăt prins. Accesul este de obicei prin orașul din apropiere Laâyoune, care are un aeroport și conexiuni rutiere bune. El Marsa oferă o experiență aspră, autentică pentru călătorii aventuroși care doresc să exploreze imensitatea sudului Marocului.", "en": "El Marsa, which means \"the port\" in Arabic, is the port city that serves the larger city of Laâyoune (El Aaiún) in the Western Sahara region. It is strategically located on the Atlantic Ocean and is the economic center of the region, heavily influenced by the fishing industry and phosphate exports. Despite its industrial character, the coastal city offers unique desert and seascapes where fine desert sand directly meets the waves of the Atlantic.\n\nThe highlight for coastal lovers is the Plage de Laâyoune (Laâyoune Plage), which stretches not far from the city. This beach impresses with its enormous vastness, naturalness, and often untouched atmosphere. The endless expanses of sand invite you for long, solitary beach walks and offer a unique panorama of the rugged Atlantic coast, coupled with the warm wind of the adjacent Sahara.\n\nCulinary-wise, everything in El Marsa revolves around the sea; the restaurants serve first-class, freshly caught fish. Access is usually via the nearby city of Laâyoune, which has an airport and good road connections. El Marsa offers a rugged, authentic experience for adventurous travelers wanting to explore the vastness of southern Morocco."}, "facts": {"de": ["Wichtigster Hafen für die Stadt Laâyoune", "Bedeutendes Zentrum für Fischerei und Phosphat", "Wo die Wüste direkt auf den Atlantik trifft", "Bietet die weitläufige Plage de Laâyoune", "Unberührte und raue Küstenlandschaften", "Ausgezeichnete Restaurants mit fangfrischem Fisch", "Der Name bedeutet übersetzt 'Der Hafen'", "Zugangstor zum südlichen Marokko/Westsahara"], "hu": ["Laâyoune városának legfontosabb kikötője", "A halászat és a foszfátexport jelentős központja", "Ahol a sivatag közvetlenül találkozik az Atlanti-óceánnal", "Itt található a kiterjedt Plage de Laâyoune", "Érintetlen és zord tengerparti tájak", "Kiváló éttermek frissen fogott hallal", "A neve magyarul azt jelenti, hogy 'A kikötő'", "Dél-Marokkó/Nyugat-Szahara kapuja"], "ro": ["Portul principal pentru orașul Laâyoune", "Centru major pentru pescuit și fosfați", "Unde deșertul întâlnește direct Oceanul Atlantic", "Oferă plaja vastă Plage de Laâyoune", "Peisaje de coastă neatinse și aspre", "Restaurante excelente cu pește proaspăt", "Numele se traduce prin 'Portul'", "Poarta de acces către sudul Marocului/Sahara Occidentală"], "en": ["Main port for the city of Laâyoune", "Major center for fishing and phosphates", "Where the desert directly meets the Atlantic Ocean", "Features the expansive Plage de Laâyoune", "Untouched and rugged coastal landscapes", "Excellent restaurants with fresh catch", "The name translates to 'The Port'", "Gateway to southern Morocco/Western Sahara"]}, "image": "/poi-images/morocco-el-marsa-cities-v2.webp"},
 {"id": "western-sahara-la-guera-cities-v2", "sights": {
       "de": [
